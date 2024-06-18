@@ -1,7 +1,44 @@
 title: Joe's Public Internet History
 baseurl: "/export-history" # the subpath of your site, e.g. /blog
-url: https://joereddington.github.io
+url: "https://joereddington.github.io"
 
 # Build settings
 theme: minima
 
+# Optional settings for Jekyll
+permalink: pretty
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (GitHub Pages compatible)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle
+  - .jekyll-cache
+  - .jekyll-metadata
+  - .github
+
+# Jekyll Feed configuration (optional)
+feed:
+  path: feed.xml
+
+# Jekyll SEO Tag configuration (optional)
+seo:
+  name: "Joe's Public Internet History"
+  description: "A public log of my internet history"
+  url: "https://joereddington.github.io/export-history"
+  author:
+    name: "Joe Reddington"
+
+# Jekyll Sitemap configuration (optional)
+sitemap:
+  changefreq: weekly
+  priority: 0.5
