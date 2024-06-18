@@ -10,6 +10,7 @@ It's updated every hour or so when my machine is running. That script also updat
 
 <p>You can see the code I use <a href="https://github.com/joereddington/export-history">on github</a>, and there's <a href="https://joereddington.github.io/2018/12/12/Internet.html"> a blog post that talks about the reasons</a>.</p>
 
+{::nomarkdown}
 
 <style>
 
