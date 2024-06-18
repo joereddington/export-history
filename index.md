@@ -56,6 +56,6 @@ ul>li::after {
 
 </style>
 
-{% include history.html %}
+{% include part1.html %}
 
 
