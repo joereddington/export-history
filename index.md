@@ -60,6 +60,5 @@ ul>li::after {
 
 </style>
 
-{% include history.html %}
 
 
