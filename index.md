@@ -3,8 +3,8 @@ layout: default
 title:  Joe's Public Internet history
 ---
 <IMG SRC="slots.png" alt="Chart Showing the times I used the internet" width=400>
-My web history is public. 
 
+My web history is public. 
 
 It's updated every hour or so when my machine is running. That script also updates a chart showing the size of the lists over time.  
 
@@ -56,5 +56,6 @@ ul>li::after {
 
 </style>
 
+{% include history.html %}
 
 
