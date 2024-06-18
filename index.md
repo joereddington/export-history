@@ -2,11 +2,7 @@
 layout: default
 title:  Joe's Public Internet history
 ---
-
-<IMG SRC="slots.pngs" alt="Chart Showing the times I used the internet" width=400>
-
-# Public Internet History
-
+<IMG SRC="slots.png" alt="Chart Showing the times I used the internet" width=400>
 My web history is public. 
 
 
