@@ -2,13 +2,19 @@
 layout: default
 title:  Joe's Public Internet history
 ---
-<IMG SRC="slots.png" alt="Chart Showing the times I used the internet" width=400>
 
 My web history is public. 
 
-It's updated every hour or so when my machine is running. That script also updates a chart showing the size of the lists over time.  
+It's updated every hour or so when my machine is running. It goes back to about 2019 but I need to check that some truncation isn't happening at the bottom. 
 
-<p>You can see the code I use <a href="https://github.com/joereddington/export-history">on github</a>, and there's <a href="https://joereddington.github.io/2018/12/12/Internet.html"> a blog post that talks about the reasons</a>.</p>
+
+You can see the code I use <a href="https://github.com/joereddington/export-history">on github</a>, and there's <a href="https://joereddington.github.io/2018/12/12/Internet.html"> a blog post that talks about the reasons</a>.
+
+
+## Cool chart
+The script that publishes my web history also creates the chart below.  It shows my 'web window' for the last few days. The large bars on the chart show the time between the first history entry of the day and the last.  In general I try and make these quite small - In the mornings I try to wait until I have a real need (or a list) of things to look up on the web and in the early evenings I try to properly switch off at the end of work. 
+
+<IMG SRC="slots.png" alt="Chart Showing the times I used the internet" width=400>
 
 <style>
 
