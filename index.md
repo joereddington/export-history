@@ -66,14 +66,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6490)</li>
+<ol><li>www.google.com (6489)</li>
 <li>mail.google.com (4629)</li>
 <li>outlook.office.com (2206)</li>
 <li>www.facebook.com (1651)</li>
 <li>docs.google.com (1468)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
 <li>calendar.google.com (1009)</li>
-<li>www.amazon.co.uk (971)</li>
+<li>www.amazon.co.uk (970)</li>
 <li>github.com (909)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (763)</li>
@@ -84,17 +84,17 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (495)</li>
 <li>gmail.com (491)</li>
 <li>en.m.wikipedia.org (446)</li>
-<li>teams.microsoft.com (382)</li>
+<li>teams.microsoft.com (381)</li>
 <li>drive.google.com (361)</li>
 <li>outlook.office365.com (355)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>login.microsoftonline.com (316)</li>
 <li>bsky.app (311)</li>
+<li>login.microsoftonline.com (311)</li>
 <li>kdp.amazon.com (304)</li>
 <li>web.whatsapp.com (273)</li>
 <li>rhul.sharepoint.com (269)</li>
 <li>Local file (254)</li>
-<li>www.ebay.co.uk (252)</li>
+<li>www.ebay.co.uk (249)</li>
 <li>www.giantitp.com (242)</li>
 
 
@@ -106,7 +106,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:49 www.google.com</li>
+<ul><li> 09:52 www.google.com</li>
+<li class='same'> 09:51 www.google.com</li>
+<li class='same'> 09:50 www.google.com</li>
+<li class='same'> 09:49 www.google.com</li>
+<li> 09:49 maps.google.com</li>
+<li> 09:49 www.google.com</li>
 <li class='same'> 09:48 www.google.com</li>
 <li> 09:48 forms.office.com</li>
 <li> 09:48 www.enableleisure.co.uk</li>
@@ -21830,9 +21835,6 @@ With number of accesses/minutes in parentheses
 <li> 15:20 login.microsoftonline.com</li>
 <li> 15:20 teams.microsoft.com</li>
 <li> 15:20 login.microsoftonline.com</li>
-<li> 15:20 teams.microsoft.com</li>
-<li> 15:20 login.microsoftonline.com</li>
-<li class='same'> 15:19 login.microsoftonline.com</li>
 <li> 15:19 teams.microsoft.com</li>
 <li> 15:19 moodle.royalholloway.ac.uk</li>
 <li> 15:19 login.microsoftonline.com</li>
@@ -21859,11 +21861,9 @@ With number of accesses/minutes in parentheses
 <li> 14:51 support.apple.com</li>
 <li> 14:50 www.google.com</li>
 <li> 14:49 web.whatsapp.com</li>
-<li> 14:41 www.google.com</li>
 <li> 14:41 superuser.com</li>
 <li> 14:41 www.google.com</li>
 <li> 14:38 outlook.office365.com</li>
-<li> 14:37 www.google.com</li>
 <li> 14:37 <a href="https://unix.stackexchange.com/questions/59276/how-to-extract-only-a-specific-folder-from-a-zipped-archive-to-a-given-directory">zip - How to extract only a specific folder from a zipped archive to a given directory? - Unix & Linux Stack Exchange</a></li>
 <li> 14:37 www.google.com</li>
 <li> 14:37 mail.google.com</li>
@@ -21898,7 +21898,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:34 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 12:29 lum-prod.ec.royalholloway.ac.uk</li>
-<li> 12:29 login.microsoftonline.com</li>
 <li> 12:29 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 12:29 login.microsoftonline.com</li>
 <li> 12:24 answers.microsoft.com</li>
@@ -21931,14 +21930,11 @@ With number of accesses/minutes in parentheses
 <li> 11:59 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 11:59 lum-prod.ec.royalholloway.ac.uk</li>
 <li> 11:59 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 11:59 login.microsoftonline.com</li>
 <li> 11:59 lum-prod.ec.royalholloway.ac.uk</li>
-<li> 11:59 www.google.com</li>
 <li> 11:59 intranet.royalholloway.ac.uk</li>
 <li> 11:59 www.google.com</li>
 <li> 11:58 staff-vpn.royalholloway.ac.uk</li>
 <li> 11:58 student-vpn.royalholloway.ac.uk</li>
-<li> 11:58 login.microsoftonline.com</li>
 <li> 11:57 intranet.royalholloway.ac.uk</li>
 <li> 11:57 www.google.com</li>
 <li> 11:57 outlook.office.com</li>
@@ -21955,10 +21951,8 @@ With number of accesses/minutes in parentheses
 <li> 11:32 history.stackexchange.com</li>
 <li> 11:31 chess.stackexchange.com</li>
 <li> 11:31 politics.stackexchange.com</li>
-<li> 11:30 www.google.com</li>
 <li> 11:30 superuser.com</li>
 <li> 11:30 www.google.com</li>
-<li class='same'> 11:29 www.google.com</li>
 <li> 11:29 apple.stackexchange.com</li>
 <li> 11:28 www.google.com</li>
 <li> 11:26 www.reddit.com</li>
@@ -22055,11 +22049,8 @@ With number of accesses/minutes in parentheses
 <li> 09:56 www.google.com</li>
 <li> 09:55 pay.ebay.co.uk</li>
 <li> 09:55 accounts.ebay.co.uk</li>
-<li class='same'> 09:54 accounts.ebay.co.uk</li>
 <li> 09:54 signin.ebay.co.uk</li>
-<li> 09:53 www.ebay.co.uk</li>
-<li class='same'> 09:52 www.ebay.co.uk</li>
-<li class='same'> 09:51 www.ebay.co.uk</li>
+<li> 09:51 www.ebay.co.uk</li>
 <li> 09:51 calendar.google.com</li>
 <li> 09:49 www.ebay.co.uk</li>
 <li class='same'> 09:48 www.ebay.co.uk</li>
@@ -22069,8 +22060,6 @@ With number of accesses/minutes in parentheses
 <li> 09:39 gds.google.com</li>
 <li> 09:39 myaccount.google.com</li>
 <li> 09:39 gds.google.com</li>
-<li> 09:39 accounts.google.com</li>
-<li class='same'> 09:38 accounts.google.com</li>
 <li> 09:38 workspace.google.com</li>
 <li> 09:38 calendar.google.com</li>
 <li> 09:38 www.google.com</li>
@@ -22132,9 +22121,7 @@ With number of accesses/minutes in parentheses
 <li> 21:39 web.whatsapp.com</li>
 <li> 21:39 pay.ebay.co.uk</li>
 <li class='same'> 21:38 pay.ebay.co.uk</li>
-<li> 21:38 cart.ebay.co.uk</li>
-<li> 21:38 www.ebay.co.uk</li>
-<li class='same'> 21:37 www.ebay.co.uk</li>
+<li> 21:37 www.ebay.co.uk</li>
 <li> 21:36 <a href="https://www.youtube.com/results?search_query=link+two+square+rods">(2) link two square rods - YouTube</a></li>
 <li> 21:35 www.ebay.co.uk</li>
 <li class='same'> 21:34 www.ebay.co.uk</li>
@@ -22143,12 +22130,10 @@ With number of accesses/minutes in parentheses
 <li> 21:31 www.ebay.co.uk</li>
 <li class='same'> 21:30 www.ebay.co.uk</li>
 <li class='same'> 21:29 www.ebay.co.uk</li>
-<li> 21:29 www.amazon.co.uk</li>
-<li class='same'> 21:27 www.amazon.co.uk</li>
+<li> 21:27 www.amazon.co.uk</li>
 <li> 21:26 www.google.com</li>
 <li> 21:26 www.victorianplumbing.co.uk</li>
 <li> 21:26 ad.doubleclick.net</li>
-<li> 21:26 www.googleadservices.com</li>
 <li> 21:26 www.google.com</li>
 <li> 21:25 www.ebay.co.uk</li>
 <li> 21:23 chat.openai.com</li>
