@@ -66,8 +66,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6495)</li>
-<li>mail.google.com (4632)</li>
+<ol><li>www.google.com (6489)</li>
+<li>mail.google.com (4630)</li>
 <li>outlook.office.com (2206)</li>
 <li>www.facebook.com (1655)</li>
 <li>docs.google.com (1468)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (355)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
-<li>login.microsoftonline.com (311)</li>
+<li>login.microsoftonline.com (309)</li>
 <li>kdp.amazon.com (304)</li>
 <li>web.whatsapp.com (274)</li>
 <li>rhul.sharepoint.com (269)</li>
@@ -21097,8 +21097,6 @@ With number of accesses/minutes in parentheses
 <li> 20:37 mail.google.com</li>
 <li> 20:37 www.google.com</li>
 <li class='same'> 20:36 www.google.com</li>
-<li> 20:36 maps.google.com</li>
-<li> 20:36 www.google.com</li>
 <li> 20:36 mail.google.com</li>
 <li> 20:35 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 20:33 online.unity.co.uk</li>
@@ -21111,10 +21109,8 @@ With number of accesses/minutes in parentheses
 <li> 20:30 accounts.intuit.com</li>
 <li> 20:30 app.qbo.intuit.com</li>
 <li> 20:30 c14.qbo.intuit.com</li>
-<li> 20:30 mail-attachment.googleusercontent.com</li>
 <li> 20:30 Local file</li>
 <li class='same'> 20:29 Local file</li>
-<li> 20:29 mail-attachment.googleusercontent.com</li>
 <li> 20:29 mail.google.com</li>
 <li> 20:29 www.linkedin.com</li>
 <li> 20:28 mail.google.com</li>
@@ -21164,7 +21160,6 @@ With number of accesses/minutes in parentheses
 <li> 18:28 <a href="https://en.wikipedia.org/wiki/Hinterkaifeck_murders">Hinterkaifeck murders - Wikipedia</a></li>
 <li> 18:28 <a href="https://en.wikipedia.org/w/index.php?search=wiki%3Acrime&title=Special:Search&ns0=1&searchToken=dj1llgddrnbvdrz57e8i65wz2">wiki:crime - Search results - Wikipedia</a></li>
 <li> 18:28 <a href="https://en.wikipedia.org/w/index.php?search=wiki%3Acrime&title=Special%3ASearch&ns0=1">wiki:crime - Search results - Wikipedia</a></li>
-<li> 18:28 <a href="https://en.wikipedia.org/w/index.php?search=wiki%3Acrime&title=Special%3ASearch&wprov=acrw1_-1"></a></li>
 <li> 18:28 <a href="https://en.wikipedia.org/wiki/Federal_Trade_Commission">Federal Trade Commission - Wikipedia</a></li>
 <li> 18:28 <a href="https://en.wikipedia.org/wiki/United_States_Federal_Trade_Commission">Federal Trade Commission - Wikipedia</a></li>
 <li> 18:27 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
@@ -21271,7 +21266,6 @@ With number of accesses/minutes in parentheses
 <li> 15:24 <a href="https://en.wikipedia.org/w/index.php?title=2011_PlayStation_Network_outage&action=edit&section=1">Editing 2011 PlayStation Network outage - Wikipedia</a></li>
 <li> 15:24 <a href="https://en.wikipedia.org/wiki/Special:CentralLogin/complete?token=01baf64afec1844c92feaa019c584bda"></a></li>
 <li> 15:24 <a href="https://en.wikipedia.org/wiki/2011_PlayStation_Network_outage">2011 PlayStation Network outage - Wikipedia</a></li>
-<li> 15:24 login.wikimedia.org</li>
 <li> 15:24 <a href="https://en.wikipedia.org/w/index.php?returnto=2011+PlayStation+Network+outage&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
 <li> 15:24 login.wikimedia.org</li>
 <li> 15:24 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=2011+PlayStation+Network+outage"></a></li>
@@ -21342,8 +21336,6 @@ With number of accesses/minutes in parentheses
 <li> 14:24 mail.google.com</li>
 <li class='same'> 14:23 mail.google.com</li>
 <li class='same'> 14:22 mail.google.com</li>
-<li> 14:22 www.google.com</li>
-<li> 14:22 mail.google.com</li>
 <li> 14:21 www.google.com</li>
 <li> 14:21 mail.google.com</li>
 <li> 14:21 www.google.com</li>
@@ -21404,7 +21396,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:10 teams.microsoft.com</li>
 <li class='same'> 13:09 teams.microsoft.com</li>
 <li class='same'> 13:08 teams.microsoft.com</li>
-<li> 13:08 login.microsoftonline.com</li>
 <li> 13:02 fast.com</li>
 <li> 12:57 mail.google.com</li>
 <li> 12:57 my-charity-account.charitycommission.gov.uk</li>
@@ -21472,8 +21463,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:39 mail.google.com</li>
 <li class='same'> 11:38 mail.google.com</li>
 <li> 11:38 accounts.google.com</li>
-<li> 11:38 mail.google.com</li>
-<li> 11:38 accounts.google.com</li>
 <li> 11:38 gmail.com</li>
 <li> 11:37 accounts.firefox.com</li>
 <li> 11:37 mail.google.com</li>
@@ -21501,7 +21490,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:44 www.linkedin.com</li>
 <li class='same'> 07:43 www.linkedin.com</li>
 <li> 07:41 teams.microsoft.com</li>
-<li> 07:41 login.microsoftonline.com</li>
 <li> 07:39 www.linkedin.com</li>
 <li> 07:39 outlook.office.com</li>
 <li> 07:39 rhul-my.sharepoint.com</li>
@@ -21522,7 +21510,6 @@ With number of accesses/minutes in parentheses
 <li> 07:27 www.google.com</li>
 <li> 07:25 outlook.office.com</li>
 <li class='same'> 07:22 outlook.office.com</li>
-<li> 07:22 www.google.com</li>
 <li> 07:22 support.microsoft.com</li>
 <li> 07:22 www.google.com</li>
 <li> 07:22 support.microsoft.com</li>
@@ -21552,7 +21539,6 @@ With number of accesses/minutes in parentheses
 <li> 07:01 www.google.com</li>
 <li> 07:01 pure.royalholloway.ac.uk</li>
 <li> 07:01 www.google.com</li>
-<li class='same'> 07:00 www.google.com</li>
 <li> 07:00 scholar.google.co.uk</li>
 <li> 07:00 www.google.com</li>
 <li> 06:59 outlook.office365.com</li>
@@ -21671,7 +21657,6 @@ With number of accesses/minutes in parentheses
 <li> 14:23 <a href="https://en.wikipedia.org/w/index.php?title=2011_PlayStation_Network_outage&action=edit">Editing 2011 PlayStation Network outage - Wikipedia</a></li>
 <li> 14:23 scholar.google.com</li>
 <li> 14:23 ropella360.com</li>
-<li> 14:23 www.ropella.com</li>
 <li> 14:23 scholar.google.com</li>
 <li class='same'> 14:22 scholar.google.com</li>
 <li> 14:22 heinonline.org</li>
@@ -21718,7 +21703,6 @@ With number of accesses/minutes in parentheses
 <li> 13:47 <a href="https://en.wikipedia.org/wiki/Timeline_of_the_Russian_invasion_of_Ukraine?wprov=srpw1_0">Timeline of the Russian invasion of Ukraine - Wikipedia</a></li>
 <li> 13:47 <a href="https://en.wikipedia.org/w/index.php?search=ukraine+war+timeline&title=Special:Search&ns0=1&searchToken=f1vjjine6r733dlnny0b4wb4t">ukraine war timeline - Search results - Wikipedia</a></li>
 <li> 13:47 <a href="https://en.wikipedia.org/w/index.php?search=ukraine+war+timeline&title=Special%3ASearch&ns0=1">ukraine war timeline - Search results - Wikipedia</a></li>
-<li> 13:47 <a href="https://en.wikipedia.org/w/index.php?search=ukraine+war+timeline&title=Special%3ASearch&wprov=acrw1_-1"></a></li>
 <li> 13:47 <a href="https://en.wikipedia.org/wiki/Special:CentralLogin/complete?token=334132cba700575c3fbe99d365ae3a51"></a></li>
 <li> 13:47 <a href="https://en.wikipedia.org/wiki/2011_PlayStation_Network_outage">2011 PlayStation Network outage - Wikipedia</a></li>
 <li> 13:47 login.wikimedia.org</li>
@@ -21757,8 +21741,6 @@ With number of accesses/minutes in parentheses
 <li> 10:42 www.google.com</li>
 <li> 10:41 www.bloomberg.com</li>
 <li> 10:28 www.nist.gov</li>
-<li> 10:25 edition.cnn.com</li>
-<li> 10:25 www.cnn.com</li>
 <li> 10:25 edition.cnn.com</li>
 <li> 10:24 www.google.com</li>
 <li> 10:24 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
@@ -21821,8 +21803,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:25 online.unity.co.uk</li>
 <li> 06:22 www.nestpensions.org.uk</li>
 <li class='same'> 06:21 www.nestpensions.org.uk</li>
-<li> 06:21 www.google.com</li>
-<li> 06:21 www.nestpensions.org.uk</li>
 <li> 06:21 mail.google.com</li>
 <li class='same'> 06:18 mail.google.com</li>
 <li> 06:17 www.linkedin.com</li>
@@ -21870,16 +21850,10 @@ With number of accesses/minutes in parentheses
 <li> 15:43 www.google.co.uk</li>
 <li> 15:43 books.google.co.uk</li>
 <li> 15:43 www.google.co.uk</li>
-<li> 15:43 books.google.com</li>
-<li> 15:43 books.google.co.uk</li>
-<li> 15:43 www.google.co.uk</li>
 <li> 15:42 www.amazon.co.uk</li>
 <li> 15:42 www.google.co.uk</li>
 <li> 15:42 books.google.co.uk</li>
-<li> 15:42 books.google.com</li>
-<li> 15:42 www.google.com</li>
 <li> 15:41 Local file</li>
-<li> 15:41 mycourses.aalto.fi</li>
 <li> 15:41 www.google.com</li>
 <li> 15:23 teams.microsoft.com</li>
 <li> 15:23 outlook.office365.com</li>
