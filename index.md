@@ -66,23 +66,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6493)</li>
-<li>mail.google.com (4629)</li>
+<ol><li>www.google.com (6495)</li>
+<li>mail.google.com (4632)</li>
 <li>outlook.office.com (2206)</li>
-<li>www.facebook.com (1651)</li>
+<li>www.facebook.com (1655)</li>
 <li>docs.google.com (1468)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
-<li>calendar.google.com (1009)</li>
+<li>calendar.google.com (1010)</li>
 <li>www.amazon.co.uk (970)</li>
-<li>github.com (909)</li>
+<li>github.com (910)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (763)</li>
-<li>www.linkedin.com (609)</li>
+<li>www.linkedin.com (611)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (539)</li>
 <li>chat.openai.com (536)</li>
 <li>tvtropes.org (495)</li>
-<li>gmail.com (491)</li>
+<li>gmail.com (492)</li>
 <li>en.m.wikipedia.org (446)</li>
 <li>teams.microsoft.com (381)</li>
 <li>drive.google.com (361)</li>
@@ -102,7 +102,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 26/06/24</H3>
+
+<br>
+
+<ul><li> 07:17 slidegeeks.medium.com</li>
+<li> 07:17 www.google.com</li>
+<li> 07:14 github.com</li>
+<li> 07:14 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 07:12 mail.google.com</li>
+<li class='same'> 07:11 mail.google.com</li>
+<li class='same'> 07:10 mail.google.com</li>
+<li> 07:10 gmail.com</li>
+<li> 07:10 www.natesilver.net</li>
+<li> 07:06 www.linkedin.com</li>
+<li class='same'> 07:05 www.linkedin.com</li>
+<li> 07:05 www.facebook.com</li>
+<li class='same'> 07:04 www.facebook.com</li>
+<li> 07:04 pure.royalholloway.ac.uk</li>
+<li> 07:04 www.google.com</li>
+<li> 07:04 new.adblockplus.org</li>
+<li> 07:03 www.facebook.com</li>
+<li class='same'> 07:02 www.facebook.com</li>
+</ul>
+
 <H3>Tuesday, 25/06/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -156,6 +184,11 @@ With number of accesses/minutes in parentheses
 <li> 09:36 www.google.com</li>
 <li> 09:35 chatgpt.com</li>
 <li> 09:35 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:14 calendar.google.com</li>
 </ul>
 
 <H3>Monday, 24/06/24</H3>
