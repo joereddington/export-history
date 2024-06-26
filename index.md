@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (311)</li>
 <li>kdp.amazon.com (304)</li>
-<li>web.whatsapp.com (273)</li>
+<li>web.whatsapp.com (274)</li>
 <li>rhul.sharepoint.com (269)</li>
 <li>Local file (254)</li>
 <li>www.ebay.co.uk (249)</li>
@@ -103,6 +103,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 26/06/24</H3>
+
+<br>
+
+<ul><li> 07:52 web.whatsapp.com</li>
+</ul>
 
 <br>
 
