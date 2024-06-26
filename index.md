@@ -66,9 +66,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6489)</li>
+<ol><li>www.google.com (6494)</li>
 <li>mail.google.com (4630)</li>
-<li>outlook.office.com (2206)</li>
+<li>outlook.office.com (2209)</li>
 <li>www.facebook.com (1655)</li>
 <li>docs.google.com (1468)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (355)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
-<li>login.microsoftonline.com (309)</li>
+<li>login.microsoftonline.com (310)</li>
 <li>kdp.amazon.com (304)</li>
 <li>web.whatsapp.com (274)</li>
 <li>rhul.sharepoint.com (269)</li>
@@ -103,6 +103,37 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 26/06/24</H3>
+
+<br>
+
+<ul><li> 13:42 www.cranfield.ac.uk</li>
+<li> 13:41 www.google.com</li>
+<li> 13:41 www.herts.ac.uk</li>
+<li> 13:41 www.google.com</li>
+<li> 13:40 www.masterscompare.co.uk</li>
+<li> 13:39 www.royalholloway.ac.uk</li>
+<li> 13:39 www.google.com</li>
+<li> 13:39 www.masterscompare.co.uk</li>
+<li class='same'> 13:38 www.masterscompare.co.uk</li>
+<li> 13:38 www.google.com</li>
+<li> 13:37 digital.ucas.com</li>
+<li class='same'> 13:36 digital.ucas.com</li>
+<li> 13:36 www.google.com</li>
+<li> 13:35 ads.google.com</li>
+<li class='same'> 13:34 ads.google.com</li>
+<li class='same'> 13:33 ads.google.com</li>
+<li class='same'> 13:32 ads.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:01 www.stephen-mcpartland.com</li>
+<li> 13:01 assets.publishing.service.gov.uk</li>
+<li> 13:00 outlook.office.com</li>
+<li class='same'> 12:59 outlook.office.com</li>
+<li class='same'> 12:58 outlook.office.com</li>
+<li> 12:58 login.microsoftonline.com</li>
+</ul>
 
 <br>
 
