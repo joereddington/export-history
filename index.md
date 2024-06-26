@@ -68,7 +68,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6494)</li>
 <li>mail.google.com (4630)</li>
-<li>outlook.office.com (2209)</li>
+<li>outlook.office.com (2212)</li>
 <li>www.facebook.com (1655)</li>
 <li>docs.google.com (1468)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (495)</li>
 <li>gmail.com (492)</li>
 <li>en.m.wikipedia.org (446)</li>
-<li>teams.microsoft.com (381)</li>
+<li>teams.microsoft.com (382)</li>
 <li>drive.google.com (361)</li>
 <li>outlook.office365.com (355)</li>
 <li>forum.artofmemory.com (350)</li>
@@ -106,7 +106,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:42 www.cranfield.ac.uk</li>
+<ul><li> 14:47 outlook.office.com</li>
+<li class='same'> 14:35 outlook.office.com</li>
+<li> 14:20 teams.microsoft.com</li>
+<li> 13:50 outlook.office.com</li>
+<li> 13:42 www.cranfield.ac.uk</li>
 <li> 13:41 www.google.com</li>
 <li> 13:41 www.herts.ac.uk</li>
 <li> 13:41 www.google.com</li>
