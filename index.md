@@ -66,7 +66,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6501)</li>
+<ol><li>www.google.com (6488)</li>
 <li>mail.google.com (4646)</li>
 <li>outlook.office.com (2244)</li>
 <li>www.facebook.com (1658)</li>
@@ -89,12 +89,12 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (356)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
-<li>login.microsoftonline.com (311)</li>
+<li>login.microsoftonline.com (309)</li>
 <li>kdp.amazon.com (304)</li>
 <li>web.whatsapp.com (276)</li>
 <li>rhul.sharepoint.com (269)</li>
 <li>Local file (254)</li>
-<li>www.ebay.co.uk (249)</li>
+<li>www.ebay.co.uk (248)</li>
 <li>www.giantitp.com (242)</li>
 
 
@@ -20950,7 +20950,6 @@ With number of accesses/minutes in parentheses
 <li> 12:42 www.facebook.com</li>
 <li class='same'> 12:41 www.facebook.com</li>
 <li> 12:39 www.congress.gov</li>
-<li> 12:39 www.google.com</li>
 <li> 12:37 www.linkedin.com</li>
 <li> 12:37 mail.google.com</li>
 <li class='same'> 12:10 mail.google.com</li>
@@ -20974,8 +20973,7 @@ With number of accesses/minutes in parentheses
 <li> 11:37 www.shazam.com</li>
 <li> 11:37 www.google.com</li>
 <li> 11:36 <a href="https://www.youtube.com/watch?v=QZizclIVmu4">(7) Victoria Vance Introduction Scene | PAW PATROL: THE MIGHTY MOVIE (2023) Movie CLIP HD - YouTube</a></li>
-<li> 11:36 www.google.com</li>
-<li class='same'> 11:35 www.google.com</li>
+<li> 11:35 www.google.com</li>
 <li> 11:34 <a href="https://en.wikipedia.org/wiki/PAW_Patrol:_The_Mighty_Movie_(soundtrack)">PAW Patrol: The Mighty Movie (soundtrack) - Wikipedia</a></li>
 <li> 11:34 www.google.com</li>
 <li> 11:33 mail.google.com</li>
@@ -20989,7 +20987,6 @@ With number of accesses/minutes in parentheses
 <li> 11:31 intranet.royalholloway.ac.uk</li>
 <li> 11:30 www.google.com</li>
 <li> 11:30 intranet.royalholloway.ac.uk</li>
-<li> 11:30 www.google.com</li>
 <li> 11:29 royalhollowayucu.wordpress.com</li>
 <li> 11:29 www.google.com</li>
 <li> 11:29 intranet.royalholloway.ac.uk</li>
@@ -20997,8 +20994,7 @@ With number of accesses/minutes in parentheses
 <li> 11:29 jobs.royalholloway.ac.uk</li>
 <li class='same'> 11:28 jobs.royalholloway.ac.uk</li>
 <li> 11:28 www.google.com</li>
-<li> 11:28 www.jobs.ac.uk</li>
-<li class='same'> 11:27 www.jobs.ac.uk</li>
+<li> 11:27 www.jobs.ac.uk</li>
 <li> 11:27 www.google.com</li>
 <li class='same'> 11:26 www.google.com</li>
 <li> 11:26 calendar.google.com</li>
@@ -21006,13 +21002,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:23 mail.google.com</li>
 <li> 11:23 intranet.royalholloway.ac.uk</li>
 <li> 11:23 www.google.com</li>
-<li> 11:23 intranet.royalholloway.ac.uk</li>
-<li> 11:23 www.google.com</li>
 <li> 11:07 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 11:06 gitlab.cim.rhul.ac.uk</li>
 <li> 11:05 calendar.google.com</li>
-<li> 11:04 www.google.com</li>
-<li> 11:04 royalholloway.ac.uk</li>
 <li> 11:04 www.google.com</li>
 <li> 11:04 royalholloway.ac.uk</li>
 <li> 11:04 www.google.com</li>
@@ -21033,7 +21025,6 @@ With number of accesses/minutes in parentheses
 <li> 10:49 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:48 moodle.royalholloway.ac.uk</li>
 <li> 10:46 www.aidanhorner.org</li>
-<li> 10:46 scholar.google.co.uk</li>
 <li> 10:44 www.amazon.co.uk</li>
 <li> 10:44 scholar.google.co.uk</li>
 <li> 10:44 www.google.com</li>
@@ -21048,7 +21039,6 @@ With number of accesses/minutes in parentheses
 <li> 10:38 www.google.com</li>
 <li> 10:35 teams.microsoft.com</li>
 <li class='same'> 10:34 teams.microsoft.com</li>
-<li> 10:34 login.microsoftonline.com</li>
 <li> 10:34 mail.google.com</li>
 <li> 10:33 sendtokindle.amazon.com</li>
 <li> 10:33 mail.google.com</li>
@@ -21060,15 +21050,10 @@ With number of accesses/minutes in parentheses
 <li> 10:28 libguides.rhul.ac.uk</li>
 <li> 10:27 intranet.royalholloway.ac.uk</li>
 <li> 10:27 www.google.com</li>
-<li> 10:27 intranet.royalholloway.ac.uk</li>
-<li> 10:27 www.google.com</li>
 <li> 10:24 moodle.royalholloway.ac.uk</li>
 <li> 10:24 rhul.sharepoint.com</li>
 <li> 10:21 student-vpn.royalholloway.ac.uk</li>
 <li class='same'> 10:20 student-vpn.royalholloway.ac.uk</li>
-<li> 10:20 login.microsoftonline.com</li>
-<li> 10:20 student-vpn.royalholloway.ac.uk</li>
-<li> 10:20 www.google.com</li>
 <li> 10:20 intranet.royalholloway.ac.uk</li>
 <li> 10:20 www.google.com</li>
 <li> 10:19 intranet.royalholloway.ac.uk</li>
@@ -21093,15 +21078,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:30 www.amazon.co.uk</li>
-<li> 07:29 www.google.com</li>
-<li class='same'> 07:28 www.google.com</li>
+<li> 07:28 www.google.com</li>
 <li> 07:28 kdpreports.amazon.com</li>
 <li> 07:27 mail.google.com</li>
 <li> 07:27 kdpreports.amazon.com</li>
 <li> 07:27 mail.google.com</li>
 <li> 07:27 www.checkatrade.com</li>
 <li> 07:27 www.google.com</li>
-<li> 07:26 www.ebay.co.uk</li>
 <li> 07:26 www.kenwoodworld.com</li>
 <li> 07:26 www.google.com</li>
 <li> 07:25 www.ebay.co.uk</li>
@@ -21123,19 +21106,14 @@ With number of accesses/minutes in parentheses
 <li> 07:03 <a href="https://en.wikipedia.org/wiki/Tiger_kidnapping">Tiger kidnapping - Wikipedia</a></li>
 <li> 07:03 www.google.com</li>
 <li> 06:58 <a href="https://www.youtube.com/watch?v=N_QSC0-PJ4E">(7) McDonald's Business Secret #realestate - YouTube</a></li>
-<li> 06:58 www.google.com</li>
 <li> 06:56 <a href="https://www.youtube.com/watch?app=desktop&v=OVo3ItvhZ6Q">(7) The scene in The Founder (2016) when the business model becomes real estate, not flipping burgers. - YouTube</a></li>
-<li> 06:56 www.google.com</li>
-<li class='same'> 06:55 www.google.com</li>
+<li> 06:55 www.google.com</li>
 <li> 06:52 www.newsandstar.co.uk</li>
-<li> 06:52 www.google.com</li>
 <li> 06:51 www.infosecurity-magazine.com</li>
 <li> 06:51 www.google.com</li>
-<li class='same'> 06:50 www.google.com</li>
 <li> 06:49 www.newsandstar.co.uk</li>
 <li> 06:49 www.google.com</li>
 <li> 06:49 <a href="https://en.wikipedia.org/wiki/Moonpig">Moonpig - Wikipedia</a></li>
-<li> 06:49 www.google.com</li>
 <li> 06:48 www.cgi.org.uk</li>
 <li> 06:48 www.google.com</li>
 <li> 06:46 <a href="https://www.youtube.com/watch?v=CgJudU_jlZ8">(7) The Moonpig Bug: How 3,000,000 Customers' Details Were Exposed - YouTube</a></li>
@@ -21175,7 +21153,6 @@ With number of accesses/minutes in parentheses
 <li> 21:33 www.google.com</li>
 <li> 21:32 m.kotaku.com</li>
 <li> 21:32 kotaku.com</li>
-<li> 21:32 m.kotaku.com</li>
 <li> 21:32 www.schneier.com</li>
 <li> 21:32 www.google.com</li>
 <li> 21:31 www.schneier.com</li>
@@ -21204,7 +21181,6 @@ With number of accesses/minutes in parentheses
 <li> 21:01 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack?wprov=srpw1_0">2014 Sony Pictures hack - Wikipedia</a></li>
 <li> 21:01 <a href="https://en.wikipedia.org/w/index.php?search=sony+2014&title=Special:Search&ns0=1&searchToken=dqvdhcic5y3jnzjr0bdcnmuhl">sony 2014 - Search results - Wikipedia</a></li>
 <li> 21:01 <a href="https://en.wikipedia.org/w/index.php?search=sony+2014&title=Special%3ASearch&ns0=1">sony 2014 - Search results - Wikipedia</a></li>
-<li> 21:01 <a href="https://en.wikipedia.org/w/index.php?search=sony+2014&title=Special%3ASearch&wprov=acrw1_-1"></a></li>
 <li> 21:01 www.cnbc.com</li>
 <li> 21:00 www.ncsc.gov.uk</li>
 <li> 20:57 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach#Data_breach">2017 Equifax data breach - Wikipedia</a></li>
