@@ -66,21 +66,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6499)</li>
-<li>mail.google.com (4642)</li>
-<li>outlook.office.com (2241)</li>
-<li>www.facebook.com (1657)</li>
+<ol><li>www.google.com (6501)</li>
+<li>mail.google.com (4646)</li>
+<li>outlook.office.com (2244)</li>
+<li>www.facebook.com (1658)</li>
 <li>docs.google.com (1468)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
-<li>calendar.google.com (1015)</li>
+<li>calendar.google.com (1017)</li>
 <li>www.amazon.co.uk (970)</li>
 <li>github.com (911)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (763)</li>
-<li>www.linkedin.com (613)</li>
+<li>www.linkedin.com (614)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (539)</li>
-<li>chat.openai.com (537)</li>
+<li>chat.openai.com (538)</li>
 <li>tvtropes.org (495)</li>
 <li>gmail.com (494)</li>
 <li>en.m.wikipedia.org (446)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (311)</li>
 <li>kdp.amazon.com (304)</li>
-<li>web.whatsapp.com (275)</li>
+<li>web.whatsapp.com (276)</li>
 <li>rhul.sharepoint.com (269)</li>
 <li>Local file (254)</li>
 <li>www.ebay.co.uk (249)</li>
@@ -106,7 +106,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:23 <a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
+<ul><li> 08:00 www.facebook.com</li>
+<li> 07:59 mail.google.com</li>
+<li class='same'> 07:55 mail.google.com</li>
+<li class='same'> 07:54 mail.google.com</li>
+<li> 07:50 www.linkedin.com</li>
+<li> 07:47 calendar.google.com</li>
+<li class='same'> 07:44 calendar.google.com</li>
+<li> 07:42 outlook.office.com</li>
+<li> 07:42 intranet.royalholloway.ac.uk</li>
+<li> 07:42 outlook.office.com</li>
+<li class='same'> 07:41 outlook.office.com</li>
+<li> 07:29 chatgpt.com</li>
+<li> 07:29 claude.ai</li>
+<li> 07:29 chatgpt.com</li>
+<li> 07:29 chat.openai.com</li>
+<li> 07:28 web.whatsapp.com</li>
+<li> 07:27 claude.ai</li>
+<li class='same'> 07:25 claude.ai</li>
+<li> 07:25 mail.google.com</li>
+<li> 07:25 claude.ai</li>
+<li> 07:25 www.google.com</li>
+<li> 07:24 www.anthropic.com</li>
+<li> 07:24 www.google.com</li>
+<li> 07:23 <a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
 <li> 07:23 www.google.com</li>
 <li> 07:23 mail.google.com</li>
 <li class='same'> 07:22 mail.google.com</li>
