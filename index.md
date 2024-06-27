@@ -66,13 +66,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6498)</li>
-<li>mail.google.com (4637)</li>
-<li>outlook.office.com (2236)</li>
+<ol><li>www.google.com (6499)</li>
+<li>mail.google.com (4642)</li>
+<li>outlook.office.com (2241)</li>
 <li>www.facebook.com (1657)</li>
 <li>docs.google.com (1468)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
-<li>calendar.google.com (1013)</li>
+<li>calendar.google.com (1015)</li>
 <li>www.amazon.co.uk (970)</li>
 <li>github.com (911)</li>
 <li>m.facebook.com (777)</li>
@@ -106,14 +106,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:18 outlook.office.com</li>
+<ul><li> 07:23 <a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
+<li> 07:23 www.google.com</li>
+<li> 07:23 mail.google.com</li>
+<li class='same'> 07:22 mail.google.com</li>
+<li> 07:22 outlook.office.com</li>
+<li class='same'> 07:18 outlook.office.com</li>
 <li class='same'> 07:17 outlook.office.com</li>
 <li> 07:17 outlook.office365.com</li>
 <li> 07:17 outlook.office.com</li>
 <li> 07:17 login.microsoftonline.com</li>
 <li> 07:17 mail.rhul.ac.uk</li>
 <li> 07:17 new.adblockplus.org</li>
-<li> 07:10 outlook.office.com</li>
+<li> 07:16 outlook.office.com</li>
+<li class='same'> 07:15 outlook.office.com</li>
+<li> 07:15 intranet.royalholloway.ac.uk</li>
+<li> 07:15 outlook.office.com</li>
+<li> 07:15 mail.google.com</li>
+<li> 07:14 calendar.google.com</li>
+<li class='same'> 07:13 calendar.google.com</li>
+<li> 07:13 mail.google.com</li>
+<li class='same'> 07:12 mail.google.com</li>
+<li> 07:11 outlook.office.com</li>
+<li class='same'> 07:10 outlook.office.com</li>
 <li class='same'> 07:02 outlook.office.com</li>
 <li> 06:58 mail.google.com</li>
 <li> 06:58 gmail.com</li>
