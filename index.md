@@ -68,7 +68,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6498)</li>
 <li>mail.google.com (4637)</li>
-<li>outlook.office.com (2231)</li>
+<li>outlook.office.com (2236)</li>
 <li>www.facebook.com (1657)</li>
 <li>docs.google.com (1468)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
@@ -86,10 +86,10 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (446)</li>
 <li>teams.microsoft.com (383)</li>
 <li>drive.google.com (361)</li>
-<li>outlook.office365.com (355)</li>
+<li>outlook.office365.com (356)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
-<li>login.microsoftonline.com (310)</li>
+<li>login.microsoftonline.com (311)</li>
 <li>kdp.amazon.com (304)</li>
 <li>web.whatsapp.com (275)</li>
 <li>rhul.sharepoint.com (269)</li>
@@ -106,7 +106,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:58 mail.google.com</li>
+<ul><li> 07:18 outlook.office.com</li>
+<li class='same'> 07:17 outlook.office.com</li>
+<li> 07:17 outlook.office365.com</li>
+<li> 07:17 outlook.office.com</li>
+<li> 07:17 login.microsoftonline.com</li>
+<li> 07:17 mail.rhul.ac.uk</li>
+<li> 07:17 new.adblockplus.org</li>
+<li> 07:10 outlook.office.com</li>
+<li class='same'> 07:02 outlook.office.com</li>
+<li> 06:58 mail.google.com</li>
 <li> 06:58 gmail.com</li>
 <li> 06:58 mail.google.com</li>
 <li> 06:58 designforgood.org</li>
