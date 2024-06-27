@@ -66,32 +66,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6494)</li>
-<li>mail.google.com (4630)</li>
-<li>outlook.office.com (2212)</li>
-<li>www.facebook.com (1655)</li>
+<ol><li>www.google.com (6498)</li>
+<li>mail.google.com (4637)</li>
+<li>outlook.office.com (2231)</li>
+<li>www.facebook.com (1657)</li>
 <li>docs.google.com (1468)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
-<li>calendar.google.com (1010)</li>
+<li>calendar.google.com (1013)</li>
 <li>www.amazon.co.uk (970)</li>
-<li>github.com (910)</li>
+<li>github.com (911)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (763)</li>
-<li>www.linkedin.com (611)</li>
+<li>www.linkedin.com (613)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (539)</li>
-<li>chat.openai.com (536)</li>
+<li>chat.openai.com (537)</li>
 <li>tvtropes.org (495)</li>
-<li>gmail.com (492)</li>
+<li>gmail.com (494)</li>
 <li>en.m.wikipedia.org (446)</li>
-<li>teams.microsoft.com (382)</li>
+<li>teams.microsoft.com (383)</li>
 <li>drive.google.com (361)</li>
 <li>outlook.office365.com (355)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (310)</li>
 <li>kdp.amazon.com (304)</li>
-<li>web.whatsapp.com (274)</li>
+<li>web.whatsapp.com (275)</li>
 <li>rhul.sharepoint.com (269)</li>
 <li>Local file (254)</li>
 <li>www.ebay.co.uk (249)</li>
@@ -102,11 +102,73 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 27/06/24</H3>
+
+<br>
+
+<ul><li> 06:58 mail.google.com</li>
+<li> 06:58 gmail.com</li>
+<li> 06:58 mail.google.com</li>
+<li> 06:58 designforgood.org</li>
+<li class='same'> 06:57 designforgood.org</li>
+<li class='same'> 06:56 designforgood.org</li>
+<li> 06:56 www.google.com</li>
+<li> 06:56 mail.google.com</li>
+<li class='same'> 06:55 mail.google.com</li>
+<li> 06:55 www.schneier.com</li>
+<li> 06:53 www.linkedin.com</li>
+<li> 06:52 www.airbus.com</li>
+<li> 06:52 www.google.com</li>
+<li> 06:52 www.linkedin.com</li>
+<li> 06:51 outlook.office.com</li>
+<li class='same'> 06:47 outlook.office.com</li>
+<li> 06:44 github.com</li>
+<li> 06:44 www.google.com</li>
+<li> 06:44 teams.microsoft.com</li>
+<li> 06:43 outlook.office.com</li>
+<li class='same'> 06:42 outlook.office.com</li>
+<li class='same'> 06:40 outlook.office.com</li>
+<li class='same'> 06:35 outlook.office.com</li>
+<li class='same'> 06:34 outlook.office.com</li>
+<li class='same'> 06:33 outlook.office.com</li>
+<li> 06:33 web.whatsapp.com</li>
+<li> 06:33 mail.google.com</li>
+<li> 06:33 www.facebook.com</li>
+<li> 06:31 mail.google.com</li>
+<li class='same'> 06:30 mail.google.com</li>
+<li> 06:30 gmail.com</li>
+<li> 06:30 www.facebook.com</li>
+<li> 06:30 outlook.office.com</li>
+<li> 06:29 www.su.rhul.ac.uk</li>
+<li> 06:29 www.google.com</li>
+<li> 06:29 outlook.office.com</li>
+<li class='same'> 06:28 outlook.office.com</li>
+<li> 06:28 calendar.google.com</li>
+<li> 06:27 outlook.office.com</li>
+<li> 06:27 calendar.google.com</li>
+<li> 06:26 chatgpt.com</li>
+<li class='same'> 06:25 chatgpt.com</li>
+<li> 06:25 chat.openai.com</li>
+<li> 06:24 calendar.google.com</li>
+<li> 06:23 outlook.office.com</li>
+<li> 06:23 intranet.royalholloway.ac.uk</li>
+<li> 06:23 outlook.office.com</li>
+<li class='same'> 06:22 outlook.office.com</li>
+<li class='same'> 06:20 outlook.office.com</li>
+<li class='same'> 06:19 outlook.office.com</li>
+<li class='same'> 06:18 outlook.office.com</li>
+<li class='same'> 06:17 outlook.office.com</li>
+</ul>
+
 <H3>Wednesday, 26/06/24</H3>
 
 <br>
 
-<ul><li> 14:47 outlook.office.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 14:47 outlook.office.com</li>
 <li class='same'> 14:35 outlook.office.com</li>
 <li> 14:20 teams.microsoft.com</li>
 <li> 13:50 outlook.office.com</li>
