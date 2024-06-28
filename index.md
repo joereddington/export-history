@@ -66,14 +66,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6514)</li>
+<ol><li>www.google.com (6511)</li>
 <li>mail.google.com (4664)</li>
 <li>outlook.office.com (2249)</li>
 <li>www.facebook.com (1666)</li>
 <li>docs.google.com (1468)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
 <li>calendar.google.com (1021)</li>
-<li>www.amazon.co.uk (970)</li>
+<li>www.amazon.co.uk (969)</li>
 <li>github.com (911)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (767)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (276)</li>
 <li>rhul.sharepoint.com (269)</li>
 <li>Local file (254)</li>
-<li>www.ebay.co.uk (248)</li>
+<li>www.ebay.co.uk (247)</li>
 <li>www.giantitp.com (242)</li>
 
 
@@ -20620,7 +20620,6 @@ With number of accesses/minutes in parentheses
 <li> 07:31 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 07:31 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style">Wikipedia:Manual of Style - Wikipedia</a></li>
 <li> 07:31 www.google.com</li>
-<li> 07:26 books.google.com</li>
 <li> 07:26 books.google.co.uk</li>
 <li> 07:26 www.google.com</li>
 <li> 07:02 <a href="https://en.wikipedia.org/wiki/PewDiePie">PewDiePie - Wikipedia</a></li>
@@ -20641,11 +20640,9 @@ With number of accesses/minutes in parentheses
 <li> 06:26 <a href="https://en.wikipedia.org/wiki/Help:Citation_tools">Help:Citation tools - Wikipedia</a></li>
 <li> 06:26 www.google.com</li>
 <li> 06:23 <a href="https://en.wikipedia.org/w/index.php?title=2017_Equifax_data_breach&action=edit&section=3">Editing 2017 Equifax data breach (section) - Wikipedia</a></li>
-<li> 06:23 login.wikimedia.org</li>
 <li> 06:23 <a href="https://en.wikipedia.org/wiki/Special:CentralLogin/complete?token=422c7b6a50288ddaad3f5c63ea8252ee"></a></li>
 <li> 06:23 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
 <li> 06:23 login.wikimedia.org</li>
-<li> 06:23 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=2017+Equifax+data+breach"></a></li>
 <li> 06:23 <a href="https://en.wikipedia.org/w/index.php?returnto=2017+Equifax+data+breach&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
 <li> 06:23 <a href="https://en.wikipedia.org/w/index.php?title=2017_Equifax_data_breach&action=edit&section=3">Editing 2017 Equifax data breach (section) - Wikipedia</a></li>
 <li> 06:20 www.fca.org.uk</li>
@@ -20664,16 +20661,12 @@ With number of accesses/minutes in parentheses
 <li> 20:25 www.google.com</li>
 <li> 20:24 www.reddit.com</li>
 <li> 20:23 <a href="https://www.youtube.com/watch?v=T4FQyShYuWA&t=99s">(9) Back In The Game! - Peep Show - YouTube</a></li>
-<li> 20:23 youtu.be</li>
 <li> 20:23 <a href="https://www.youtube.com/watch?t=99&v=T4FQyShYuWA&feature=youtu.be">Back In The Game! - Peep Show - YouTube</a></li>
 <li> 20:22 www.reddit.com</li>
 <li> 20:22 www.google.com</li>
-<li> 20:22 www.amazon.co.uk</li>
 <li> 20:21 www.googleadservices.com</li>
-<li> 20:21 www.google.com</li>
 <li> 20:21 www.amazon.co.uk</li>
-<li> 20:21 www.google.com</li>
-<li class='same'> 20:20 www.google.com</li>
+<li> 20:20 www.google.com</li>
 </ul>
 
 <br>
@@ -20706,7 +20699,6 @@ With number of accesses/minutes in parentheses
 <li> 16:29 www.kenwoodchefservice.co.uk</li>
 <li> 16:28 www.ebay.co.uk</li>
 <li> 16:28 order.ebay.co.uk</li>
-<li> 16:28 www.ebay.co.uk</li>
 <li> 16:28 www.kenwoodchefservice.co.uk</li>
 <li class='same'> 16:27 www.kenwoodchefservice.co.uk</li>
 <li> 16:26 www.google.com</li>
@@ -20810,7 +20802,6 @@ With number of accesses/minutes in parentheses
 <li> 20:34 findarace.com</li>
 <li class='same'> 20:33 findarace.com</li>
 <li class='same'> 20:32 findarace.com</li>
-<li class='same'> 20:31 findarace.com</li>
 <li class='same'> 20:30 findarace.com</li>
 </ul>
 
@@ -20826,8 +20817,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:11 www.google.com</li>
 <li> 19:10 kb.insighttracking.com</li>
 <li> 19:10 www.insighttracking.com</li>
-<li> 19:10 www.google.com</li>
-<li> 19:09 www.insighttracking.com</li>
+<li class='same'> 19:09 www.insighttracking.com</li>
 <li> 19:09 www.google.com</li>
 <li> 18:52 tvtropes.org</li>
 <li> 18:52 www.google.com</li>
