@@ -66,24 +66,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6488)</li>
-<li>mail.google.com (4646)</li>
-<li>outlook.office.com (2244)</li>
-<li>www.facebook.com (1658)</li>
+<ol><li>www.google.com (6503)</li>
+<li>mail.google.com (4664)</li>
+<li>outlook.office.com (2249)</li>
+<li>www.facebook.com (1666)</li>
 <li>docs.google.com (1468)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
-<li>calendar.google.com (1017)</li>
+<li>calendar.google.com (1021)</li>
 <li>www.amazon.co.uk (970)</li>
 <li>github.com (911)</li>
 <li>m.facebook.com (777)</li>
-<li>www.reddit.com (763)</li>
-<li>www.linkedin.com (614)</li>
+<li>www.reddit.com (767)</li>
+<li>www.linkedin.com (618)</li>
 <li>app.qbo.intuit.com (567)</li>
-<li>whitewaterwriters.com (539)</li>
+<li>whitewaterwriters.com (540)</li>
 <li>chat.openai.com (538)</li>
 <li>tvtropes.org (495)</li>
 <li>gmail.com (494)</li>
-<li>en.m.wikipedia.org (446)</li>
+<li>en.m.wikipedia.org (448)</li>
 <li>teams.microsoft.com (383)</li>
 <li>drive.google.com (361)</li>
 <li>outlook.office365.com (356)</li>
@@ -102,11 +102,125 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 28/06/24</H3>
+
+<br>
+
+<ul><li> 08:02 www.linkedin.com</li>
+<li> 08:01 www.thedailymash.co.uk</li>
+<li> 08:01 mail.google.com</li>
+<li> 08:00 www.facebook.com</li>
+<li> 07:59 outlook.office.com</li>
+<li> 07:58 mail.google.com</li>
+<li> 07:57 www.barnfield.ac.uk</li>
+<li class='same'> 07:56 www.barnfield.ac.uk</li>
+<li> 07:56 www.google.com</li>
+<li> 07:56 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
+<li> 07:52 claude.ai</li>
+<li class='same'> 07:51 claude.ai</li>
+<li> 07:50 <a href="https://en.wikipedia.org/w/index.php?title=Barnfield_College&action=edit">Editing Barnfield College - Wikipedia</a></li>
+<li> 07:49 files.ofsted.gov.uk</li>
+<li> 07:48 reports.ofsted.gov.uk</li>
+<li> 07:48 www.barnfield.ac.uk</li>
+<li> 07:48 files.ofsted.gov.uk</li>
+<li> 07:48 www.google.com</li>
+<li> 07:48 reports.ofsted.gov.uk</li>
+<li> 07:48 files.ofsted.gov.uk</li>
+<li> 07:48 reports.ofsted.gov.uk</li>
+<li class='same'> 07:47 reports.ofsted.gov.uk</li>
+<li class='same'> 07:46 reports.ofsted.gov.uk</li>
+<li> 07:46 www.google.com</li>
+<li> 07:45 files.ofsted.gov.uk</li>
+<li> 07:45 www.get-information-schools.service.gov.uk</li>
+<li> 07:44 www.google.com</li>
+<li> 07:44 www.barnfield.ac.uk</li>
+<li class='same'> 07:43 www.barnfield.ac.uk</li>
+<li> 07:43 www.google.com</li>
+<li> 07:42 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
+<li> 07:42 www.google.com</li>
+<li> 07:42 mail.google.com</li>
+<li class='same'> 07:41 mail.google.com</li>
+<li> 07:41 www.theguardian.com</li>
+<li class='same'> 07:39 www.theguardian.com</li>
+<li> 07:37 www.linkedin.com</li>
+<li> 07:37 mail.google.com</li>
+<li> 07:35 equalitytime.github.io</li>
+<li class='same'> 07:34 equalitytime.github.io</li>
+<li> 07:34 mail.google.com</li>
+<li> 07:33 equalitytime.github.io</li>
+<li> 07:33 theopenvoicefactory.org</li>
+<li> 07:32 mail.google.com</li>
+<li> 07:30 www.facebook.com</li>
+<li class='same'> 07:29 www.facebook.com</li>
+<li class='same'> 07:28 www.facebook.com</li>
+<li class='same'> 07:27 www.facebook.com</li>
+<li> 07:26 en.m.wikipedia.org</li>
+<li> 07:26 equalitytime.github.io</li>
+<li> 07:26 www.google.com</li>
+<li> 07:25 www.specialeffect.org.uk</li>
+<li> 07:25 www.google.com</li>
+<li> 07:25 www.reddit.com</li>
+<li class='same'> 07:24 www.reddit.com</li>
+<li class='same'> 07:23 www.reddit.com</li>
+<li class='same'> 07:21 www.reddit.com</li>
+<li> 07:21 mail.google.com</li>
+<li> 07:20 www.google.com</li>
+<li> 07:18 whitewaterwriters.com</li>
+<li> 07:17 mail.google.com</li>
+<li class='same'> 07:16 mail.google.com</li>
+<li> 07:15 thebookishtype.co.uk</li>
+<li> 07:15 www.google.com</li>
+<li> 07:14 www.edge.co.uk</li>
+<li> 07:14 www.google.com</li>
+<li> 07:13 www.aoc.co.uk</li>
+<li> 07:13 www.google.com</li>
+<li> 07:12 mail.google.com</li>
+<li> 07:12 calendar.google.com</li>
+<li class='same'> 07:11 calendar.google.com</li>
+<li> 07:11 mail.google.com</li>
+<li> 07:11 www.disneyonstage.co.uk</li>
+<li> 07:11 mail.google.com</li>
+<li class='same'> 07:10 mail.google.com</li>
+<li> 07:09 www.linkedin.com</li>
+<li> 07:05 www.google.com</li>
+<li> 07:04 www.facebook.com</li>
+<li> 07:03 www.linkedin.com</li>
+<li> 07:03 mail.google.com</li>
+<li class='same'> 07:02 mail.google.com</li>
+<li> 07:01 barkingdagenhamcollege.ac.uk</li>
+<li> 07:01 www.google.com</li>
+<li> 07:00 calendar.google.com</li>
+<li> 06:57 mail.google.com</li>
+<li class='same'> 06:56 mail.google.com</li>
+<li> 06:55 outlook.office.com</li>
+<li> 06:51 intranet.royalholloway.ac.uk</li>
+<li class='same'> 06:50 intranet.royalholloway.ac.uk</li>
+<li> 06:50 www.google.com</li>
+<li> 06:50 outlook.office.com</li>
+<li class='same'> 06:49 outlook.office.com</li>
+<li> 06:48 claude.ai</li>
+<li> 06:47 outlook.office.com</li>
+<li> 06:47 en.m.wikipedia.org</li>
+<li> 06:43 www.facebook.com</li>
+<li> 06:43 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+</ul>
+
+<br>
+
+<ul><li> 00:49 calendar.google.com</li>
+</ul>
+
 <H3>Thursday, 27/06/24</H3>
 
 <br>
 
-<ul><li> 08:00 www.facebook.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 08:05 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 08:05 www.facebook.com</li>
+<li class='same'> 08:00 www.facebook.com</li>
 <li> 07:59 mail.google.com</li>
 <li class='same'> 07:55 mail.google.com</li>
 <li class='same'> 07:54 mail.google.com</li>
