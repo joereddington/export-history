@@ -66,7 +66,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6511)</li>
+<ol><li>www.google.com (6517)</li>
 <li>mail.google.com (4664)</li>
 <li>outlook.office.com (2249)</li>
 <li>www.facebook.com (1666)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (309)</li>
 <li>kdp.amazon.com (304)</li>
-<li>web.whatsapp.com (276)</li>
+<li>web.whatsapp.com (277)</li>
 <li>rhul.sharepoint.com (269)</li>
 <li>Local file (254)</li>
 <li>www.ebay.co.uk (247)</li>
@@ -106,23 +106,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:23 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 09:23 www.google.com</li>
+<ul><li> 11:50 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 08:41 www.google.com</li>
+<ul><li class='same'> 11:04 www.google.com</li>
+<li class='same'> 11:03 www.google.com</li>
+<li> 11:03 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:23 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 09:23 www.google.com</li>
+<li> 09:00 www.parkrun.com</li>
+<li> 08:59 www.google.com</li>
+<li> 08:59 www.parkrun.org.uk</li>
+<li> 08:59 shop.parkrun.com</li>
+<li> 08:59 www.google.com</li>
+<li class='same'> 08:41 www.google.com</li>
 <li class='same'> 08:40 www.google.com</li>
 <li class='same'> 08:39 www.google.com</li>
 <li class='same'> 08:37 www.google.com</li>
 <li class='same'> 08:34 www.google.com</li>
 <li class='same'> 08:33 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:02 www.linkedin.com</li>
+<li> 08:06 www.natesilver.net</li>
+<li> 08:04 web.whatsapp.com</li>
+<li> 08:04 reductress.com</li>
+<li class='same'> 08:03 reductress.com</li>
+<li> 08:03 www.google.com</li>
+<li> 08:02 www.linkedin.com</li>
 <li> 08:01 www.thedailymash.co.uk</li>
 <li> 08:01 mail.google.com</li>
 <li> 08:00 www.facebook.com</li>
