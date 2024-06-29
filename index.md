@@ -66,13 +66,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6518)</li>
+<ol><li>www.google.com (6511)</li>
 <li>mail.google.com (4664)</li>
 <li>outlook.office.com (2249)</li>
 <li>www.facebook.com (1666)</li>
 <li>docs.google.com (1468)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
-<li>calendar.google.com (1022)</li>
+<li>calendar.google.com (1023)</li>
 <li>www.amazon.co.uk (969)</li>
 <li>github.com (911)</li>
 <li>m.facebook.com (777)</li>
@@ -80,21 +80,21 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (618)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (540)</li>
-<li>chat.openai.com (538)</li>
+<li>chat.openai.com (537)</li>
 <li>tvtropes.org (495)</li>
 <li>gmail.com (494)</li>
 <li>en.m.wikipedia.org (448)</li>
-<li>teams.microsoft.com (383)</li>
+<li>teams.microsoft.com (382)</li>
 <li>drive.google.com (361)</li>
-<li>outlook.office365.com (356)</li>
+<li>outlook.office365.com (355)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
-<li>login.microsoftonline.com (309)</li>
+<li>login.microsoftonline.com (308)</li>
 <li>kdp.amazon.com (304)</li>
 <li>web.whatsapp.com (277)</li>
 <li>rhul.sharepoint.com (269)</li>
 <li>Local file (254)</li>
-<li>www.ebay.co.uk (247)</li>
+<li>www.ebay.co.uk (246)</li>
 <li>www.giantitp.com (242)</li>
 
 
@@ -106,7 +106,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:27 calendar.google.com</li>
+<ul><li> 21:48 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:27 calendar.google.com</li>
 </ul>
 
 <br>
@@ -19854,9 +19859,7 @@ With number of accesses/minutes in parentheses
 <li> 17:10 www.justice.gov</li>
 <li class='same'> 17:09 www.justice.gov</li>
 <li> 17:09 www.engadget.com</li>
-<li> 17:09 guce.engadget.com</li>
 <li> 17:09 consent.yahoo.com</li>
-<li> 17:09 www.engadget.com</li>
 <li> 17:09 guce.engadget.com</li>
 <li> 17:08 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#August_2013_breach">Yahoo! data breaches - Wikipedia</a></li>
 <li> 17:08 www.sec.gov</li>
@@ -19884,7 +19887,6 @@ With number of accesses/minutes in parentheses
 <li> 16:04 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#cite_ref-nytimes_dec2016_3-3">Yahoo! data breaches - Wikipedia</a></li>
 <li> 16:03 www.nytimes.com</li>
 <li> 16:03 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#cite_note-nytimes_dec2016-3">Yahoo! data breaches - Wikipedia</a></li>
-<li> 16:00 www.exploit-db.com</li>
 <li> 16:00 Local file</li>
 <li> 15:58 www.wired.com</li>
 <li> 15:57 www.nytimes.com</li>
@@ -19902,7 +19904,6 @@ With number of accesses/minutes in parentheses
 <li> 15:50 login.openathens.net</li>
 <li> 15:50 link.springer.com</li>
 <li> 15:50 wayf.springernature.com</li>
-<li> 15:49 sp.springer.com</li>
 <li> 15:49 login.openathens.net</li>
 <li> 15:49 wayf.springernature.com</li>
 <li> 15:49 link.springer.com</li>
@@ -19915,10 +19916,6 @@ With number of accesses/minutes in parentheses
 <li> 15:48 idp.springer.com</li>
 <li> 15:47 shellmates.medium.com</li>
 <li> 15:44 www.google.co.uk</li>
-<li> 15:44 books.google.co.uk</li>
-<li> 15:44 www.google.co.uk</li>
-<li> 15:44 books.google.co.uk</li>
-<li> 15:44 www.google.com</li>
 <li> 15:44 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#August_2013_breach">Yahoo! data breaches - Wikipedia</a></li>
 <li> 15:42 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=1">Yahoo! data breaches - Wikipedia</a></li>
 <li> 15:42 www.google.com</li>
@@ -19932,7 +19929,6 @@ With number of accesses/minutes in parentheses
 <li> 15:31 www.meetup.com</li>
 <li> 15:31 accounts.google.com</li>
 <li> 15:30 www.meetup.com</li>
-<li> 15:30 l.facebook.com</li>
 <li> 15:30 www.facebook.com</li>
 <li class='same'> 15:29 www.facebook.com</li>
 <li> 15:29 www.eventbrite.com</li>
@@ -19961,7 +19957,6 @@ With number of accesses/minutes in parentheses
 <li> 14:21 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
 <li> 14:21 <a href="https://en.wikipedia.org/w/index.php?search=yahoo+2014&title=Special:Search&ns0=1&searchToken=29vbbqzdm2r19xyqs966ep2m6">yahoo 2014 - Search results - Wikipedia</a></li>
 <li> 14:21 <a href="https://en.wikipedia.org/w/index.php?search=yahoo+2014&title=Special%3ASearch&ns0=1">yahoo 2014 - Search results - Wikipedia</a></li>
-<li> 14:21 <a href="https://en.wikipedia.org/w/index.php?search=yahoo+2014&title=Special%3ASearch&wprov=acrw1_-1"></a></li>
 <li> 14:14 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach#Background">2017 Equifax data breach - Wikipedia</a></li>
 <li> 14:12 <a href="https://en.wikipedia.org/wiki/Template:Cite_report">Template:Cite report - Wikipedia</a></li>
 <li> 14:12 www.google.com</li>
@@ -19979,8 +19974,6 @@ With number of accesses/minutes in parentheses
 <li> 13:17 calendar.google.com</li>
 <li> 13:06 imgflip.com</li>
 <li> 13:06 www.google.com</li>
-<li class='same'> 13:05 www.google.com</li>
-<li class='same'> 13:03 www.google.com</li>
 <li class='same'> 13:02 www.google.com</li>
 <li> 12:58 myview.rhul.zellis.com</li>
 <li> 12:45 outlook.office365.com</li>
@@ -20037,7 +20030,6 @@ With number of accesses/minutes in parentheses
 <li> 11:25 calendar.google.com</li>
 <li> 11:23 gitlab.cim.rhul.ac.uk</li>
 <li> 11:21 findarace.com</li>
-<li class='same'> 11:20 findarace.com</li>
 <li> 11:20 calendar.google.com</li>
 <li> 11:20 findarace.com</li>
 <li> 11:18 gitlab.cim.rhul.ac.uk</li>
@@ -20069,8 +20061,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:40 fritz.box</li>
 <li> 10:39 support.mozilla.org</li>
 <li> 10:38 chat.openai.com</li>
-<li> 10:38 auth.openai.com</li>
-<li> 10:38 chat.openai.com</li>
 <li> 10:35 outlook.office365.com</li>
 <li> 10:28 mail.google.com</li>
 <li> 10:24 web.whatsapp.com</li>
@@ -20081,7 +20071,6 @@ With number of accesses/minutes in parentheses
 <li> 10:22 outlook.office.com</li>
 <li> 10:22 mail.google.com</li>
 <li> 10:21 foundation.mozilla.org</li>
-<li> 10:21 www.google.com</li>
 <li> 10:20 www.mosboroughmusicfestival.co.uk</li>
 <li> 10:20 www.google.com</li>
 <li> 10:20 mail.google.com</li>
@@ -20102,8 +20091,6 @@ With number of accesses/minutes in parentheses
 <li> 10:12 www.ebay.co.uk</li>
 <li class='same'> 10:11 www.ebay.co.uk</li>
 <li> 10:11 order.ebay.co.uk</li>
-<li> 10:11 www.ebay.co.uk</li>
-<li> 10:11 mesg.ebay.co.uk</li>
 <li> 10:10 www.ebay.co.uk</li>
 <li> 10:10 mail.google.com</li>
 <li> 10:10 gmail.com</li>
@@ -20350,10 +20337,8 @@ With number of accesses/minutes in parentheses
 <li> 07:54 www.facebook.com</li>
 <li> 07:41 <a href="https://en.wikipedia.org/wiki/Special:Watchlist?hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 07:41 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 07:41 login.wikimedia.org</li>
 <li> 07:41 <a href="https://en.wikipedia.org/wiki/Special:CentralLogin/complete?token=cd6b39dccc0bbb29ffb637cd1dddeb72"></a></li>
 <li> 07:40 login.wikimedia.org</li>
-<li> 07:40 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Special%3AContributions%2FJoereddington"></a></li>
 <li> 07:40 <a href="https://en.wikipedia.org/w/index.php?returnto=Special%3AContributions%2FJoereddington&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
 <li> 07:40 outlook.office.com</li>
 <li class='same'> 07:39 outlook.office.com</li>
@@ -20371,8 +20356,6 @@ With number of accesses/minutes in parentheses
 <li> 07:30 rhul.sharepoint.com</li>
 <li> 07:30 login.microsoftonline.com</li>
 <li> 07:30 rhul.sharepoint.com</li>
-<li> 07:30 teams.microsoft.com</li>
-<li> 07:30 login.microsoftonline.com</li>
 <li> 07:30 teams.microsoft.com</li>
 <li> 07:29 outlook.office.com</li>
 <li> 07:29 outlook.office365.com</li>
@@ -20520,7 +20503,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:53 gitlab.cim.rhul.ac.uk</li>
 <li> 14:45 outlook.office365.com</li>
 <li class='same'> 14:39 outlook.office365.com</li>
-<li class='same'> 14:38 outlook.office365.com</li>
 <li> 14:30 rhul-my.sharepoint.com</li>
 <li> 14:29 outlook.office365.com</li>
 <li> 14:28 mail.google.com</li>
@@ -20532,7 +20514,6 @@ With number of accesses/minutes in parentheses
 <li> 14:20 mail.google.com</li>
 <li> 14:18 teams.microsoft.com</li>
 <li> 14:17 <a href="https://stackoverflow.com/questions/60779026/how-to-git-clone-with-username-and-password-in-gitlab">How to git clone with username and password in gitlab? - Stack Overflow</a></li>
-<li> 14:17 www.google.com</li>
 <li> 14:17 www.w3schools.com</li>
 <li> 14:17 www.google.com</li>
 <li> 14:17 gitlab.cim.rhul.ac.uk</li>
@@ -20561,7 +20542,6 @@ With number of accesses/minutes in parentheses
 <li> 13:00 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach#Discovery">2017 Equifax data breach - Wikipedia</a></li>
 <li> 12:57 <a href="https://en.wikipedia.org/w/index.php?title=2017_Equifax_data_breach&action=edit&section=4">Editing 2017 Equifax data breach (section) - Wikipedia</a></li>
 <li> 12:56 Local file</li>
-<li> 12:56 deliverypdf.ssrn.com</li>
 <li> 12:56 papers.ssrn.com</li>
 <li> 12:52 kdpreports.amazon.com</li>
 <li> 12:52 kdp.amazon.com</li>
@@ -20571,10 +20551,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:51 mail.google.com</li>
 <li> 12:51 cloud.email.co-operativebank.co.uk</li>
 <li> 12:51 click.email.co-operativebank.co.uk</li>
-<li> 12:51 www.google.com</li>
 <li> 12:51 mail.google.com</li>
 <li> 12:51 unsubscribe.mailerlite.io</li>
-<li> 12:51 www.google.com</li>
 <li> 12:51 baplvv.clicks.mlsend.com</li>
 <li> 12:51 mail.google.com</li>
 <li class='same'> 12:50 mail.google.com</li>
