@@ -66,7 +66,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6507)</li>
+<ol><li>www.google.com (6524)</li>
 <li>mail.google.com (4664)</li>
 <li>outlook.office.com (2249)</li>
 <li>www.facebook.com (1666)</li>
@@ -76,14 +76,14 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (969)</li>
 <li>github.com (911)</li>
 <li>m.facebook.com (777)</li>
-<li>www.reddit.com (767)</li>
+<li>www.reddit.com (770)</li>
 <li>www.linkedin.com (618)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (540)</li>
 <li>chat.openai.com (537)</li>
-<li>tvtropes.org (495)</li>
+<li>tvtropes.org (496)</li>
 <li>gmail.com (494)</li>
-<li>en.m.wikipedia.org (448)</li>
+<li>en.m.wikipedia.org (454)</li>
 <li>teams.microsoft.com (382)</li>
 <li>drive.google.com (361)</li>
 <li>outlook.office365.com (355)</li>
@@ -102,7 +102,81 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 30/06/24</H3>
+
+<br>
+
+<ul><li> 13:40 www.theguardian.com</li>
+<li class='same'> 13:39 www.theguardian.com</li>
+<li> 13:39 www.google.com</li>
+<li> 13:38 www.broadwayworld.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:32 www.broadwayworld.com</li>
+<li class='same'> 12:30 www.broadwayworld.com</li>
+<li class='same'> 12:29 www.broadwayworld.com</li>
+<li> 12:29 www.google.com</li>
+<li class='same'> 12:24 www.google.com</li>
+<li> 12:21 tvtropes.org</li>
+<li> 12:21 www.google.com</li>
+<li> 12:13 www.techradar.com</li>
+<li class='same'> 12:12 www.techradar.com</li>
+<li> 12:12 www.google.com</li>
+<li> 12:12 www.reddit.com</li>
+<li class='same'> 12:11 www.reddit.com</li>
+<li> 12:11 www.google.com</li>
+<li class='same'> 12:10 www.google.com</li>
+<li> 11:59 www.reddit.com</li>
+<li> 11:59 www.google.com</li>
+<li> 11:58 www.playstation.com</li>
+<li> 11:58 www.google.com</li>
+<li> 11:58 playstation.fandom.com</li>
+<li class='same'> 11:57 playstation.fandom.com</li>
+<li> 11:57 www.google.com</li>
+<li> 11:57 playstation-studios.fandom.com</li>
+<li> 11:57 www.google.com</li>
+<li class='same'> 11:56 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:26 en.m.wikipedia.org</li>
+<li class='same'> 11:25 en.m.wikipedia.org</li>
+<li class='same'> 11:24 en.m.wikipedia.org</li>
+<li class='same'> 11:23 en.m.wikipedia.org</li>
+<li class='same'> 11:20 en.m.wikipedia.org</li>
+<li> 11:19 www.theguardian.com</li>
+<li> 11:17 en.m.wikipedia.org</li>
+<li> 11:16 www.theguardian.com</li>
+<li class='same'> 11:15 www.theguardian.com</li>
+<li class='same'> 11:13 www.theguardian.com</li>
+<li class='same'> 11:11 www.theguardian.com</li>
+<li class='same'> 11:10 www.theguardian.com</li>
+<li> 11:10 www.google.com</li>
+<li> 11:10 www.scsformulate.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:21 www.scsformulate.co.uk</li>
+<li class='same'> 10:20 www.scsformulate.co.uk</li>
+<li> 10:20 www.google.com</li>
+<li class='same'> 10:19 www.google.com</li>
+<li> 10:19 www.thepowerof10.info</li>
+<li> 10:19 www.google.com</li>
+<li class='same'> 10:18 www.google.com</li>
+<li> 10:17 research.open.ac.uk</li>
+<li> 10:17 www.google.com</li>
+<li> 10:17 sweetpeasandsaffron.com</li>
+</ul>
+
 <H3>Friday, 28/06/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -116,13 +190,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:27 sweetpeasandsaffron.com</li>
-<li> 12:27 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 11:50 www.google.com</li>
+<ul><li> 11:50 www.google.com</li>
 </ul>
 
 <br>
