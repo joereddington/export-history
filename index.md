@@ -67,12 +67,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6524)</li>
-<li>mail.google.com (4664)</li>
-<li>outlook.office.com (2249)</li>
-<li>www.facebook.com (1666)</li>
+<li>mail.google.com (4666)</li>
+<li>outlook.office.com (2252)</li>
+<li>www.facebook.com (1671)</li>
 <li>docs.google.com (1468)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
-<li>calendar.google.com (1023)</li>
+<li>calendar.google.com (1026)</li>
 <li>www.amazon.co.uk (969)</li>
 <li>github.com (911)</li>
 <li>m.facebook.com (777)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (308)</li>
 <li>kdp.amazon.com (304)</li>
-<li>web.whatsapp.com (277)</li>
+<li>web.whatsapp.com (278)</li>
 <li>rhul.sharepoint.com (269)</li>
 <li>Local file (254)</li>
 <li>www.ebay.co.uk (246)</li>
@@ -103,6 +103,33 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 30/06/24</H3>
+
+<br>
+
+<ul><li> 17:08 www.facebook.com</li>
+<li class='same'> 17:07 www.facebook.com</li>
+<li> 17:06 home.classdojo.com</li>
+<li> 17:06 www.facebook.com</li>
+<li class='same'> 17:05 www.facebook.com</li>
+<li class='same'> 17:04 www.facebook.com</li>
+<li> 17:03 www.parkrun.org.uk</li>
+<li class='same'> 17:02 www.parkrun.org.uk</li>
+<li> 17:02 mail.google.com</li>
+<li> 17:00 calendar.google.com</li>
+<li> 16:59 outlook.office.com</li>
+<li> 16:59 shop.parkrun.com</li>
+<li> 16:59 outlook.office.com</li>
+<li> 16:59 shop.parkrun.com</li>
+<li class='same'> 16:56 shop.parkrun.com</li>
+<li class='same'> 16:55 shop.parkrun.com</li>
+<li class='same'> 16:54 shop.parkrun.com</li>
+<li class='same'> 16:53 shop.parkrun.com</li>
+<li> 16:52 web.whatsapp.com</li>
+<li> 16:51 shop.parkrun.com</li>
+<li> 16:51 mail.google.com</li>
+<li> 16:50 outlook.office.com</li>
+<li> 16:50 shop.parkrun.com</li>
+</ul>
 
 <br>
 
@@ -172,6 +199,22 @@ With number of accesses/minutes in parentheses
 <li> 10:17 sweetpeasandsaffron.com</li>
 </ul>
 
+<H3>Saturday, 29/06/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 18:17 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 02:14 calendar.google.com</li>
+</ul>
+
 <H3>Friday, 28/06/24</H3>
 
 <br>
@@ -180,7 +223,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:48 calendar.google.com</li>
+<ul><li class='same'> 21:48 calendar.google.com</li>
 </ul>
 
 <br>
