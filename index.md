@@ -66,7 +66,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6511)</li>
+<ol><li>www.google.com (6507)</li>
 <li>mail.google.com (4664)</li>
 <li>outlook.office.com (2249)</li>
 <li>www.facebook.com (1666)</li>
@@ -19270,8 +19270,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:42 www.wikidata.org</li>
 <li> 20:42 login.wikimedia.org</li>
 <li> 20:42 www.wikidata.org</li>
-<li> 20:42 login.wikimedia.org</li>
-<li> 20:42 www.wikidata.org</li>
 <li> 20:41 tvtropes.org</li>
 <li class='same'> 20:40 tvtropes.org</li>
 <li> 20:40 accounts.firefox.com</li>
@@ -19284,12 +19282,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:31 monitor.mozilla.org</li>
 <li> 20:31 accounts.firefox.com</li>
 <li> 20:31 auth.services.adobe.com</li>
-<li> 20:31 ims-na1.adobelogin.com</li>
 <li> 20:30 www.adobe.com</li>
-<li> 20:30 adobe.com</li>
 <li> 20:30 monitor.mozilla.org</li>
-<li> 20:30 accounts.firefox.com</li>
-<li> 20:30 oauth.accounts.firefox.com</li>
 <li> 20:30 accounts.firefox.com</li>
 <li> 20:30 monitor.mozilla.org</li>
 <li> 20:30 support.mozilla.org</li>
@@ -19325,7 +19319,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:57 account.shodan.io</li>
 <li> 18:57 www.shodan.io</li>
 <li> 18:57 account.shodan.io</li>
-<li> 18:57 eur03.safelinks.protection.outlook.com</li>
 <li> 18:57 outlook.office.com</li>
 <li> 18:57 outlook.office365.com</li>
 <li> 18:57 outlook.office.com</li>
@@ -19507,11 +19500,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:24 Local file</li>
-<li> 12:23 deliverypdf.ssrn.com</li>
 <li> 12:23 papers.ssrn.com</li>
 <li> 12:22 <a href="https://en.wikipedia.org/wiki/Target_Corporation">Target Corporation - Wikipedia</a></li>
-<li> 12:22 www.google.com</li>
-<li class='same'> 12:21 www.google.com</li>
+<li> 12:21 www.google.com</li>
 <li> 12:21 web-privacy.fandom.com</li>
 <li> 12:21 www.google.com</li>
 <li class='same'> 12:18 www.google.com</li>
@@ -19526,14 +19517,8 @@ With number of accesses/minutes in parentheses
 <li> 11:27 outlook.office365.com</li>
 <li> 11:26 teams.microsoft.com</li>
 <li> 11:26 outlook.office365.com</li>
-<li> 11:10 rhul-my.sharepoint.com</li>
 <li> 11:10 forms.office.com</li>
-<li> 11:10 rhul-my.sharepoint.com</li>
-<li> 11:10 forms.office.com</li>
-<li> 11:09 rhul-my.sharepoint.com</li>
-<li> 11:09 forms.office.com</li>
-<li> 11:09 rhul-my.sharepoint.com</li>
-<li> 11:09 forms.office.com</li>
+<li class='same'> 11:09 forms.office.com</li>
 <li class='same'> 11:08 forms.office.com</li>
 <li> 11:08 login.microsoftonline.com</li>
 <li> 11:08 forms.office.com</li>
@@ -19587,18 +19572,16 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:32 www.facebook.com</li>
 <li class='same'> 09:30 www.facebook.com</li>
 <li class='same'> 09:29 www.facebook.com</li>
-<li> 09:29 www.google.com</li>
 <li> 09:28 www.instagram.com</li>
 <li> 09:28 www.google.com</li>
 <li> 09:28 www.ridesmiths.com</li>
 <li> 09:28 www.google.com</li>
 <li> 09:27 www.facebook.com</li>
-<li> 09:16 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 08:14 www.google.com</li>
+<ul><li> 08:14 www.google.com</li>
 <li> 08:13 publications.parliament.uk</li>
 <li> 08:13 tvtropes.org</li>
 <li> 08:11 www.google.com</li>
@@ -19664,7 +19647,6 @@ With number of accesses/minutes in parentheses
 <li> 06:43 <a href="https://en.wikipedia.org/wiki/Marriott_International#Marriott_International">Marriott International - Wikipedia</a></li>
 <li> 06:38 ico.org.uk</li>
 <li> 06:36 www.researchgate.net</li>
-<li class='same'> 06:35 www.researchgate.net</li>
 <li> 06:35 Local file</li>
 <li> 06:35 www.researchgate.net</li>
 <li> 06:31 www.thesslstore.com</li>
@@ -19735,7 +19717,6 @@ With number of accesses/minutes in parentheses
 <li> 22:07 <a href="https://stackoverflow.com/questions/13043344/search-and-replace-in-bash-using-regular-expressions">regex - Search and replace in bash using regular expressions - Stack Overflow</a></li>
 <li> 22:07 www.google.com</li>
 <li> 22:05 <a href="https://stackoverflow.com/questions/13210880/replace-one-substring-for-another-string-in-shell-script">bash - Replace one substring for another string in shell script - Stack Overflow</a></li>
-<li> 22:05 www.google.com</li>
 <li> 22:00 <a href="https://stackoverflow.com/questions/7033860/bash-script-using-sed-with-variables-in-a-for-loop">Bash script using sed with variables in a for loop? - Stack Overflow</a></li>
 <li> 22:00 www.google.com</li>
 <li> 21:58 <a href="https://stackoverflow.com/questions/2559076/how-do-i-redirect-output-to-a-variable-in-shell">bash - How do I redirect output to a variable in shell? - Stack Overflow</a></li>
@@ -19805,7 +19786,6 @@ With number of accesses/minutes in parentheses
 <li> 19:55 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
 <li> 19:55 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#July_2016_Public_Disclosure">Yahoo! data breaches - Wikipedia</a></li>
 <li> 19:53 <a href="https://www.bbc.co.uk/news/technology-29520077">No user data lost in Yahoo server hack - BBC News</a></li>
-<li> 19:53 <a href="http://www.bbc.co.uk/news/technology-29520077"></a></li>
 <li> 19:52 <a href="https://www.bbc.co.uk/news/technology-37936219">Yahoo knew of 'state-backed' hack in 2014 - BBC News</a></li>
 <li> 19:52 web.archive.org</li>
 <li> 19:52 www.nytimes.com</li>
