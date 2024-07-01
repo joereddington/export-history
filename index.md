@@ -71,23 +71,23 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (6527)</li>
 <li>mail.google.com (4666)</li>
 <li>outlook.office.com (2252)</li>
-<li>www.facebook.com (1672)</li>
-<li>docs.google.com (1468)</li>
+<li>www.facebook.com (1678)</li>
+<li>docs.google.com (1476)</li>
 <li>moodle.royalholloway.ac.uk (1081)</li>
 <li>calendar.google.com (1026)</li>
 <li>www.amazon.co.uk (969)</li>
-<li>github.com (911)</li>
+<li>github.com (916)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (770)</li>
 <li>www.linkedin.com (618)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (540)</li>
-<li>chat.openai.com (537)</li>
+<li>chat.openai.com (538)</li>
 <li>tvtropes.org (496)</li>
 <li>gmail.com (494)</li>
 <li>en.m.wikipedia.org (454)</li>
 <li>teams.microsoft.com (382)</li>
-<li>drive.google.com (361)</li>
+<li>drive.google.com (367)</li>
 <li>outlook.office365.com (355)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
@@ -104,7 +104,52 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 01/07/24</H3>
+
+<br>
+
+<ul><li> 11:25 chatgpt.com</li>
+<li class='same'> 11:24 chatgpt.com</li>
+<li> 11:24 chat.openai.com</li>
+<li> 10:56 chatgpt.com</li>
+<li> 10:41 github.com</li>
+<li class='same'> 10:35 github.com</li>
+<li> 10:34 docs.google.com</li>
+<li class='same'> 10:33 docs.google.com</li>
+<li class='same'> 10:30 docs.google.com</li>
+<li class='same'> 10:29 docs.google.com</li>
+<li> 10:29 drive.google.com</li>
+<li> 10:27 github.com</li>
+<li> 10:26 docs.google.com</li>
+<li> 10:26 drive.google.com</li>
+<li class='same'> 10:25 drive.google.com</li>
+<li> 10:18 github.com</li>
+<li> 10:11 docs.google.com</li>
+<li> 10:04 drive.google.com</li>
+<li class='same'> 10:03 drive.google.com</li>
+<li> 10:03 docs.google.com</li>
+<li> 10:01 chatgpt.com</li>
+<li class='same'> 10:00 chatgpt.com</li>
+<li class='same'> 09:59 chatgpt.com</li>
+<li> 09:59 auth0.openai.com</li>
+<li> 09:59 auth.openai.com</li>
+<li> 09:59 chatgpt.com</li>
+<li> 09:49 platform.openai.com</li>
+<li> 09:48 github.com</li>
+<li> 09:47 platform.openai.com</li>
+<li> 09:47 auth0.openai.com</li>
+<li> 09:47 auth.openai.com</li>
+<li> 09:47 platform.openai.com</li>
+<li> 09:41 chatgpt.com</li>
+<li> 09:37 docs.google.com</li>
+<li> 09:37 drive.google.com</li>
+</ul>
+
 <H3>Sunday, 30/06/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -116,7 +161,16 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:35 www.bodybuilding.com</li>
 <li> 17:35 www.google.com</li>
 <li> 17:35 www.theguardian.com</li>
-<li> 17:08 www.facebook.com</li>
+<li> 17:17 www.facebook.com</li>
+<li class='same'> 17:16 www.facebook.com</li>
+<li class='same'> 17:15 www.facebook.com</li>
+<li class='same'> 17:14 www.facebook.com</li>
+<li> 17:14 www.parkrun.org.uk</li>
+<li class='same'> 17:13 www.parkrun.org.uk</li>
+<li class='same'> 17:12 www.parkrun.org.uk</li>
+<li> 17:12 www.facebook.com</li>
+<li class='same'> 17:11 www.facebook.com</li>
+<li class='same'> 17:08 www.facebook.com</li>
 <li class='same'> 17:07 www.facebook.com</li>
 <li> 17:06 home.classdojo.com</li>
 <li> 17:06 www.facebook.com</li>
@@ -3426,6 +3480,7 @@ With number of accesses/minutes in parentheses
 <li> 14:32 chatgpt.com</li>
 <li> 14:32 hamvocke.com</li>
 <li> 14:32 www.google.com</li>
+<li> 14:31 chatgpt.com</li>
 <li> 14:31 chat.openai.com</li>
 <li> 14:31 outlook.office.com</li>
 <li> 14:30 mail.google.com</li>
@@ -3694,6 +3749,7 @@ With number of accesses/minutes in parentheses
 <li> 15:53 rhul.sharepoint.com</li>
 <li> 15:53 outlook.office.com</li>
 <li> 15:51 www.theguardian.com</li>
+<li> 15:49 chatgpt.com</li>
 <li> 15:43 <a href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing - Wikipedia</a></li>
 <li> 15:43 www.google.com</li>
 <li> 15:42 www.facebook.com</li>
