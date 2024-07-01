@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6531)</li>
-<li>mail.google.com (4670)</li>
+<ol><li>www.google.com (6533)</li>
+<li>mail.google.com (4675)</li>
 <li>outlook.office.com (2250)</li>
 <li>www.facebook.com (1678)</li>
-<li>docs.google.com (1478)</li>
+<li>docs.google.com (1480)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1026)</li>
+<li>calendar.google.com (1028)</li>
 <li>www.amazon.co.uk (970)</li>
 <li>github.com (916)</li>
 <li>m.facebook.com (777)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (496)</li>
 <li>en.m.wikipedia.org (454)</li>
 <li>teams.microsoft.com (382)</li>
-<li>drive.google.com (370)</li>
+<li>drive.google.com (372)</li>
 <li>outlook.office365.com (355)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:39 heystephenhey.com</li>
+<ul><li> 13:49 www.google.com</li>
+<li> 13:49 docs.google.com</li>
+<li> 13:49 mail.google.com</li>
+<li> 13:48 calendar.google.com</li>
+<li> 13:47 mail.google.com</li>
+<li> 13:46 docs.google.com</li>
+<li> 13:46 drive.google.com</li>
+<li class='same'> 13:45 drive.google.com</li>
+<li> 13:45 calendar.google.com</li>
+<li> 13:43 mail.google.com</li>
+<li> 13:43 www.google.com</li>
+<li> 13:43 clicks.beds.ac.uk</li>
+<li> 13:43 mail.google.com</li>
+<li class='same'> 13:40 mail.google.com</li>
+<li> 13:39 heystephenhey.com</li>
 <li> 13:39 mail.google.com</li>
 <li class='same'> 13:38 mail.google.com</li>
 <li> 13:38 accounts.google.co.uk</li>
