@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6536)</li>
-<li>mail.google.com (4696)</li>
+<li>mail.google.com (4697)</li>
 <li>outlook.office.com (2257)</li>
-<li>www.facebook.com (1680)</li>
+<li>www.facebook.com (1682)</li>
 <li>docs.google.com (1487)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1028)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (310)</li>
 <li>kdp.amazon.com (304)</li>
-<li>web.whatsapp.com (279)</li>
+<li>web.whatsapp.com (280)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (255)</li>
 <li>www.ebay.co.uk (246)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:18 www.facebook.com</li>
+<ul><li> 15:27 mail.google.com</li>
+<li> 15:24 www.facebook.com</li>
+<li> 15:22 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 15:22 www.facebook.com</li>
+<li> 15:22 web.whatsapp.com</li>
+<li> 15:18 www.facebook.com</li>
 <li class='same'> 15:17 www.facebook.com</li>
 <li> 15:16 mail.google.com</li>
 <li class='same'> 15:13 mail.google.com</li>
