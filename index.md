@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6535)</li>
-<li>mail.google.com (4679)</li>
+<li>mail.google.com (4686)</li>
 <li>outlook.office.com (2257)</li>
 <li>www.facebook.com (1678)</li>
 <li>docs.google.com (1484)</li>
@@ -83,8 +83,8 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (540)</li>
 <li>chat.openai.com (538)</li>
+<li>gmail.com (497)</li>
 <li>tvtropes.org (496)</li>
-<li>gmail.com (496)</li>
 <li>en.m.wikipedia.org (454)</li>
 <li>teams.microsoft.com (385)</li>
 <li>drive.google.com (375)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:28 outlook.office.com</li>
+<ul><li> 14:59 mail.google.com</li>
+<li class='same'> 14:58 mail.google.com</li>
+<li class='same'> 14:57 mail.google.com</li>
+<li class='same'> 14:56 mail.google.com</li>
+<li> 14:56 equalitytime.github.io</li>
+<li> 14:54 mail.google.com</li>
+<li class='same'> 14:53 mail.google.com</li>
+<li class='same'> 14:51 mail.google.com</li>
+<li> 14:51 gmail.com</li>
+<li> 14:28 outlook.office.com</li>
 <li> 14:27 teams.microsoft.com</li>
 <li> 14:27 login.microsoftonline.com</li>
 <li> 14:27 teams.microsoft.com</li>
