@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6535)</li>
 <li>mail.google.com (4679)</li>
-<li>outlook.office.com (2250)</li>
+<li>outlook.office.com (2257)</li>
 <li>www.facebook.com (1678)</li>
 <li>docs.google.com (1484)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
@@ -79,23 +79,23 @@ With number of accesses/minutes in parentheses
 <li>github.com (916)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (771)</li>
-<li>www.linkedin.com (618)</li>
+<li>www.linkedin.com (621)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (540)</li>
 <li>chat.openai.com (538)</li>
 <li>tvtropes.org (496)</li>
 <li>gmail.com (496)</li>
 <li>en.m.wikipedia.org (454)</li>
-<li>teams.microsoft.com (382)</li>
+<li>teams.microsoft.com (385)</li>
 <li>drive.google.com (375)</li>
-<li>outlook.office365.com (355)</li>
+<li>outlook.office365.com (356)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
-<li>login.microsoftonline.com (308)</li>
+<li>login.microsoftonline.com (310)</li>
 <li>kdp.amazon.com (304)</li>
 <li>web.whatsapp.com (279)</li>
 <li>rhul.sharepoint.com (265)</li>
-<li>Local file (254)</li>
+<li>Local file (255)</li>
 <li>www.ebay.co.uk (246)</li>
 <li>www.giantitp.com (242)</li>
 
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:13 docs.google.com</li>
+<ul><li> 14:28 outlook.office.com</li>
+<li> 14:27 teams.microsoft.com</li>
+<li> 14:27 login.microsoftonline.com</li>
+<li> 14:27 teams.microsoft.com</li>
+<li> 14:26 www.linkedin.com</li>
+<li class='same'> 14:25 www.linkedin.com</li>
+<li> 14:25 teams.microsoft.com</li>
+<li> 14:25 outlook.office.com</li>
+<li> 14:25 www.linkedin.com</li>
+<li> 14:25 outlook.office.com</li>
+<li> 14:24 Local file</li>
+<li> 14:24 outlook.office.com</li>
+<li> 14:23 www.ofenewsletters.co.uk</li>
+<li> 14:23 eur03.safelinks.protection.outlook.com</li>
+<li> 14:23 outlook.office.com</li>
+<li class='same'> 14:22 outlook.office.com</li>
+<li> 14:22 login.microsoftonline.com</li>
+<li> 14:22 outlook.office365.com</li>
+<li> 14:22 outlook.office.com</li>
+<li> 14:22 mail.rhul.ac.uk</li>
+<li> 14:13 docs.google.com</li>
 <li> 14:02 mail.google.com</li>
 <li> 13:59 www.google.com</li>
 <li> 13:58 mail.google.com</li>
