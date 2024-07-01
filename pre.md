@@ -12,7 +12,9 @@ You can see the code I use <a href="https://github.com/joereddington/export-hist
 
 
 ## Cool chart
-The script that publishes my web history also creates the chart below.  It shows my 'web window' for the last few days. The large bars on the chart show the time between the first history entry of the day and the last.  In general I try and make these quite small - In the mornings I try to wait until I have a real need (or a list) of things to look up on the web and in the early evenings I try to properly switch off at the end of work. 
+The script that publishes my web history also creates the chart below.  It shows my 'web window' for the last few days. The large bars on the chart show the time between the first history entry of the day and the last.  In general I try and make these quite small - In the mornings I try to wait until I have a real need (or a list) of things to look up on the web and in the early evenings I try to properly switch off at the end of work. It also helps me from spend the weekend being present with the family.   
+
+When making the 'web window' I don't count a number of sites. At the moment that's: Google Calendar, Google Drive and Zoom.  That means I can get quite a lot of work done before going 'properly' onto the internet. 
 
 <IMG SRC="slots.png" alt="Chart Showing the times I used the internet" width=400>
 
