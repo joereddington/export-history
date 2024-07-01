@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6531)</li>
-<li>mail.google.com (4667)</li>
+<li>mail.google.com (4670)</li>
 <li>outlook.office.com (2250)</li>
 <li>www.facebook.com (1678)</li>
 <li>docs.google.com (1478)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (496)</li>
 <li>en.m.wikipedia.org (454)</li>
 <li>teams.microsoft.com (382)</li>
-<li>drive.google.com (368)</li>
+<li>drive.google.com (370)</li>
 <li>outlook.office365.com (355)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:26 www.whatdotheyknow.com</li>
+<ul><li> 13:39 heystephenhey.com</li>
+<li> 13:39 mail.google.com</li>
+<li class='same'> 13:38 mail.google.com</li>
+<li> 13:38 accounts.google.co.uk</li>
+<li> 13:38 mail.google.com</li>
+<li> 13:38 accounts.youtube.com</li>
+<li> 13:38 accounts.google.com</li>
+<li> 13:38 zipextractor.app</li>
+<li> 13:38 drive.google.com</li>
+<li class='same'> 13:26 drive.google.com</li>
+<li> 13:26 www.whatdotheyknow.com</li>
 <li> 13:26 accounts.google.com</li>
 <li> 13:26 mail.google.com</li>
 <li> 13:26 accounts.google.com</li>
