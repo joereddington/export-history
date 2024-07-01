@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6527)</li>
+<ol><li>www.google.com (6530)</li>
 <li>mail.google.com (4666)</li>
 <li>outlook.office.com (2250)</li>
 <li>www.facebook.com (1678)</li>
 <li>docs.google.com (1478)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1026)</li>
-<li>www.amazon.co.uk (968)</li>
+<li>www.amazon.co.uk (970)</li>
 <li>github.com (916)</li>
 <li>m.facebook.com (777)</li>
-<li>www.reddit.com (770)</li>
+<li>www.reddit.com (771)</li>
 <li>www.linkedin.com (618)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (540)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:06 <a href="https://www.youtube.com/">(51) YouTube</a></li>
+<ul><li> 13:18 <a href="https://www.youtube.com/">(51) YouTube</a></li>
+<li> 13:15 www.activeluton.co.uk</li>
+<li> 13:15 www.google.com</li>
+<li> 13:15 www.amazon.co.uk</li>
+<li class='same'> 13:14 www.amazon.co.uk</li>
+<li> 13:13 www.explainxkcd.com</li>
+<li> 13:12 www.reddit.com</li>
+<li> 13:11 www.google.com</li>
+<li> 13:10 www.health.harvard.edu</li>
+<li> 13:10 www.google.com</li>
+<li> 13:07 <a href="https://www.youtube.com/watch?v=k0div_OhCs4">(51) FORD FIESTA REAR BRAKE LIGHT BULB CHANGE - YouTube</a></li>
+<li> 13:07 <a href="https://www.youtube.com/results?search_query=replace+fiesta+brake+light+bulb+">(51) replace fiesta brake light bulb - YouTube</a></li>
+<li> 13:06 <a href="https://www.youtube.com/">(51) YouTube</a></li>
 <li> 13:06 <a href="https://www.youtube.com/results?search_query=claude">(51) claude - YouTube</a></li>
 <li> 13:05 <a href="https://www.youtube.com/results?search_query=openai">(51) openai - YouTube</a></li>
 <li> 13:05 <a href="https://www.youtube.com/">(51) YouTube</a></li>
