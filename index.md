@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6530)</li>
-<li>mail.google.com (4666)</li>
+<ol><li>www.google.com (6531)</li>
+<li>mail.google.com (4667)</li>
 <li>outlook.office.com (2250)</li>
 <li>www.facebook.com (1678)</li>
 <li>docs.google.com (1478)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (540)</li>
 <li>chat.openai.com (538)</li>
 <li>tvtropes.org (496)</li>
-<li>gmail.com (494)</li>
+<li>gmail.com (496)</li>
 <li>en.m.wikipedia.org (454)</li>
 <li>teams.microsoft.com (382)</li>
 <li>drive.google.com (368)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (308)</li>
 <li>kdp.amazon.com (304)</li>
-<li>web.whatsapp.com (278)</li>
+<li>web.whatsapp.com (279)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (254)</li>
 <li>www.ebay.co.uk (246)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:18 <a href="https://www.youtube.com/">(51) YouTube</a></li>
+<ul><li> 13:26 www.whatdotheyknow.com</li>
+<li> 13:26 accounts.google.com</li>
+<li> 13:26 mail.google.com</li>
+<li> 13:26 accounts.google.com</li>
+<li> 13:26 gmail.com</li>
+<li> 13:26 www.google.com</li>
+<li> 13:25 gmail.com</li>
+<li> 13:24 www.paypal.com</li>
+<li class='same'> 13:23 www.paypal.com</li>
+<li class='same'> 13:22 www.paypal.com</li>
+<li class='same'> 13:21 www.paypal.com</li>
+<li> 13:19 web.whatsapp.com</li>
+<li> 13:18 <a href="https://www.youtube.com/results?search_query=how+to+properly+clean+a+bbq+grill">(51) how to properly clean a bbq grill - YouTube</a></li>
+<li> 13:18 <a href="https://www.youtube.com/">(51) YouTube</a></li>
 <li> 13:15 www.activeluton.co.uk</li>
 <li> 13:15 www.google.com</li>
 <li> 13:15 www.amazon.co.uk</li>
