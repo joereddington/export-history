@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6536)</li>
-<li>mail.google.com (4697)</li>
+<li>mail.google.com (4698)</li>
 <li>outlook.office.com (2257)</li>
 <li>www.facebook.com (1682)</li>
-<li>docs.google.com (1487)</li>
+<li>docs.google.com (1488)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1028)</li>
 <li>www.amazon.co.uk (970)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (621)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (540)</li>
-<li>chat.openai.com (538)</li>
+<li>chat.openai.com (539)</li>
 <li>gmail.com (497)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (454)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:27 mail.google.com</li>
+<ul><li> 15:37 chatgpt.com</li>
+<li> 15:36 chat.openai.com</li>
+<li> 15:34 docs.google.com</li>
+<li> 15:33 mail.google.com</li>
+<li class='same'> 15:27 mail.google.com</li>
 <li> 15:24 www.facebook.com</li>
 <li> 15:22 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 15:22 www.facebook.com</li>
