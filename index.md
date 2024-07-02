@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4707)</li>
 <li>outlook.office.com (2267)</li>
 <li>www.facebook.com (1715)</li>
-<li>docs.google.com (1490)</li>
+<li>docs.google.com (1493)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1032)</li>
 <li>www.amazon.co.uk (970)</li>
@@ -81,13 +81,13 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (773)</li>
 <li>www.linkedin.com (622)</li>
 <li>app.qbo.intuit.com (567)</li>
+<li>chat.openai.com (541)</li>
 <li>whitewaterwriters.com (540)</li>
-<li>chat.openai.com (540)</li>
 <li>gmail.com (499)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (455)</li>
 <li>teams.microsoft.com (385)</li>
-<li>drive.google.com (376)</li>
+<li>drive.google.com (378)</li>
 <li>outlook.office365.com (356)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:57 calendar.google.com</li>
+<ul><li> 07:26 docs.google.com</li>
+<li> 07:26 drive.google.com</li>
+<li> 07:22 chatgpt.com</li>
+<li> 07:22 chat.openai.com</li>
+<li> 07:21 docs.google.com</li>
+<li> 07:21 drive.google.com</li>
+<li> 07:11 docs.google.com</li>
+<li> 06:57 calendar.google.com</li>
 </ul>
 
 <H3>Monday, 01/07/24</H3>
