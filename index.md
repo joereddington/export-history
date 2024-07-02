@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6543)</li>
+<ol><li>www.google.com (6541)</li>
 <li>mail.google.com (4707)</li>
 <li>outlook.office.com (2267)</li>
 <li>www.facebook.com (1715)</li>
 <li>docs.google.com (1494)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1032)</li>
-<li>www.amazon.co.uk (970)</li>
+<li>www.amazon.co.uk (968)</li>
 <li>github.com (916)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
@@ -18831,7 +18831,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:42 www.facebook.com</li>
 <li class='same'> 17:36 www.facebook.com</li>
 <li> 17:35 www.reddit.com</li>
-<li> 17:35 www.google.com</li>
 <li> 17:34 www.runnersworld.com</li>
 <li> 17:33 www.google.com</li>
 <li> 17:33 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach/GA1">Talk:Data breach/GA1 - Wikipedia</a></li>
@@ -18890,7 +18889,6 @@ With number of accesses/minutes in parentheses
 <li> 19:51 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach">Talk:Data breach - Wikipedia</a></li>
 <li> 19:51 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach/GA1">Talk:Data breach/GA1 - Wikipedia</a></li>
 <li> 19:51 <a href="https://en.wikipedia.org/wiki/File:EvilTwinWireless_en.jpg">File:EvilTwinWireless en.jpg - Wikipedia</a></li>
-<li> 19:51 <a href="https://en.wikipedia.org/w/index.php?title=File:EvilTwinWireless%20en.jpg"></a></li>
 <li> 19:50 <a href="https://en.wikipedia.org/wiki/File:Metropolitan_Police_ransomware_scam.jpg">File:Metropolitan Police ransomware scam.jpg - Wikipedia</a></li>
 <li> 19:50 <a href="https://en.wikipedia.org/w/index.php?title=File:Metropolitan%20Police%20ransomware%20scam.jpg"></a></li>
 <li> 19:50 <a href="https://en.wikipedia.org/wiki/File:Metropolitan_Police_ransomware_scam.jpg">File:Metropolitan Police ransomware scam.jpg - Wikipedia</a></li>
@@ -18923,7 +18921,6 @@ With number of accesses/minutes in parentheses
 <li> 19:33 <a href="https://en.wikipedia.org/wiki/Equestrian_statue_of_George_B._McClellan">Equestrian statue of George B. McClellan - Wikipedia</a></li>
 <li> 19:33 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_articles/Art_and_architecture#Art">Wikipedia:Good articles/Art and architecture - Wikipedia</a></li>
 <li> 19:33 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_articles">Wikipedia:Good articles - Wikipedia</a></li>
-<li> 19:33 <a href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Wikipedia%3AGood+articles&wprov=acrw1_0"></a></li>
 <li> 19:33 <a href="https://en.wikipedia.org/w/index.php?search=Wikipedia%3AGood+articles&title=Special:Search&ns0=1"></a></li>
 <li> 19:31 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
 <li> 19:31 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
@@ -18989,8 +18986,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 14:36 www.imdb.com</li>
 <li> 14:36 www.google.com</li>
-<li> 14:34 www.amazon.co.uk</li>
-<li> 14:34 www.google.com</li>
+<li class='same'> 14:34 www.google.com</li>
 </ul>
 
 <br>
@@ -19050,7 +19046,6 @@ With number of accesses/minutes in parentheses
 <li> 08:35 web.whatsapp.com</li>
 <li> 08:35 parcelcompare.com</li>
 <li class='same'> 08:34 parcelcompare.com</li>
-<li> 08:34 www.googleadservices.com</li>
 <li> 08:34 www.google.com</li>
 <li> 08:32 feedly.com</li>
 <li> 08:11 calendar.google.com</li>
@@ -19066,10 +19061,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:44 findarace.com</li>
 <li class='same'> 07:43 findarace.com</li>
 <li> 07:43 mail.google.com</li>
-<li> 07:42 www.amazon.co.uk</li>
-<li class='same'> 07:41 www.amazon.co.uk</li>
-<li> 07:41 www.google.com</li>
-<li class='same'> 07:40 www.google.com</li>
+<li> 07:41 www.amazon.co.uk</li>
+<li> 07:40 www.google.com</li>
 <li> 07:39 www.amazon.co.uk</li>
 <li class='same'> 07:38 www.amazon.co.uk</li>
 <li class='same'> 07:37 www.amazon.co.uk</li>
