@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6540)</li>
-<li>mail.google.com (4698)</li>
-<li>outlook.office.com (2257)</li>
-<li>www.facebook.com (1682)</li>
-<li>docs.google.com (1488)</li>
+<ol><li>www.google.com (6543)</li>
+<li>mail.google.com (4707)</li>
+<li>outlook.office.com (2267)</li>
+<li>www.facebook.com (1715)</li>
+<li>docs.google.com (1490)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1028)</li>
+<li>calendar.google.com (1032)</li>
 <li>www.amazon.co.uk (970)</li>
 <li>github.com (916)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
-<li>www.linkedin.com (621)</li>
+<li>www.linkedin.com (622)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (540)</li>
 <li>chat.openai.com (540)</li>
-<li>gmail.com (497)</li>
+<li>gmail.com (499)</li>
 <li>tvtropes.org (496)</li>
-<li>en.m.wikipedia.org (454)</li>
+<li>en.m.wikipedia.org (455)</li>
 <li>teams.microsoft.com (385)</li>
-<li>drive.google.com (375)</li>
+<li>drive.google.com (376)</li>
 <li>outlook.office365.com (356)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (310)</li>
 <li>kdp.amazon.com (304)</li>
-<li>web.whatsapp.com (280)</li>
+<li>web.whatsapp.com (281)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (255)</li>
 <li>www.ebay.co.uk (246)</li>
@@ -104,11 +104,120 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 02/07/24</H3>
+
+<br>
+
+<ul><li> 06:57 calendar.google.com</li>
+</ul>
+
 <H3>Monday, 01/07/24</H3>
 
 <br>
 
-<ul><li> 16:00 www.techspot.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:59 mail.google.com</li>
+<li class='same'> 20:58 mail.google.com</li>
+<li class='same'> 20:57 mail.google.com</li>
+<li class='same'> 20:56 mail.google.com</li>
+<li> 20:56 calendar.google.com</li>
+<li> 20:55 mail.google.com</li>
+<li class='same'> 20:54 mail.google.com</li>
+<li> 20:54 gmail.com</li>
+<li> 20:53 outlook.office.com</li>
+<li class='same'> 20:52 outlook.office.com</li>
+<li> 20:51 www.linkedin.com</li>
+<li> 20:47 en.m.wikipedia.org</li>
+<li> 20:46 www.theguardian.com</li>
+<li> 20:46 mail.google.com</li>
+<li> 20:45 www.facebook.com</li>
+<li class='same'> 20:44 www.facebook.com</li>
+<li> 20:35 calendar.google.com</li>
+<li class='same'> 20:34 calendar.google.com</li>
+<li> 20:25 docs.google.com</li>
+<li class='same'> 20:23 docs.google.com</li>
+<li> 20:22 drive.google.com</li>
+<li> 20:05 outlook.office.com</li>
+<li> 20:01 web.whatsapp.com</li>
+<li> 19:58 meet.google.com</li>
+<li> 19:57 www.natesilver.net</li>
+<li class='same'> 19:56 www.natesilver.net</li>
+<li> 19:56 outlook.office.com</li>
+<li class='same'> 19:52 outlook.office.com</li>
+<li> 19:52 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 19:52 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 19:52 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 19:51 mail.google.com</li>
+<li> 19:47 www.facebook.com</li>
+<li> 19:47 newsthump.com</li>
+<li> 19:46 mail.google.com</li>
+<li> 19:46 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:41 www.livechat.com</li>
+<li> 18:40 www.google.com</li>
+<li> 18:33 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 18:27 www.facebook.com</li>
+<li> 18:26 www.theguardian.com</li>
+<li class='same'> 18:25 www.theguardian.com</li>
+<li> 18:25 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 18:25 outlook.office.com</li>
+<li> 18:05 www.facebook.com</li>
+<li class='same'> 18:04 www.facebook.com</li>
+<li class='same'> 18:03 www.facebook.com</li>
+<li class='same'> 18:02 www.facebook.com</li>
+<li class='same'> 18:01 www.facebook.com</li>
+<li class='same'> 18:00 www.facebook.com</li>
+<li class='same'> 17:59 www.facebook.com</li>
+<li class='same'> 17:58 www.facebook.com</li>
+<li class='same'> 17:57 www.facebook.com</li>
+<li class='same'> 17:56 www.facebook.com</li>
+<li class='same'> 17:55 www.facebook.com</li>
+<li> 17:54 outlook.office.com</li>
+<li> 17:54 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li class='same'> 17:42 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 17:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 17:42 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 17:41 intranet.royalholloway.ac.uk</li>
+<li> 17:41 www.google.com</li>
+<li> 17:40 outlook.office.com</li>
+<li class='same'> 17:30 outlook.office.com</li>
+<li class='same'> 17:29 outlook.office.com</li>
+<li> 17:29 www.facebook.com</li>
+<li class='same'> 17:28 www.facebook.com</li>
+<li class='same'> 17:27 www.facebook.com</li>
+<li class='same'> 17:26 www.facebook.com</li>
+<li class='same'> 17:25 www.facebook.com</li>
+<li class='same'> 17:24 www.facebook.com</li>
+<li class='same'> 17:23 www.facebook.com</li>
+<li class='same'> 17:22 www.facebook.com</li>
+<li class='same'> 17:21 www.facebook.com</li>
+<li class='same'> 17:20 www.facebook.com</li>
+<li class='same'> 17:19 www.facebook.com</li>
+<li class='same'> 17:18 www.facebook.com</li>
+<li class='same'> 17:17 www.facebook.com</li>
+<li class='same'> 17:16 www.facebook.com</li>
+<li class='same'> 17:15 www.facebook.com</li>
+<li class='same'> 17:14 www.facebook.com</li>
+<li class='same'> 17:13 www.facebook.com</li>
+<li class='same'> 17:10 www.facebook.com</li>
+<li> 17:10 reductress.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:07 www.theguardian.com</li>
+<li class='same'> 16:06 www.theguardian.com</li>
+<li class='same'> 16:05 www.theguardian.com</li>
+<li class='same'> 16:04 www.theguardian.com</li>
+<li> 16:04 www.google.com</li>
+<li> 16:04 profile.theguardian.com</li>
+<li> 16:00 www.techspot.com</li>
 <li> 16:00 www.google.com</li>
 <li> 15:59 www.reddit.com</li>
 <li> 15:59 www.google.com</li>
@@ -2549,7 +2658,7 @@ With number of accesses/minutes in parentheses
 <li> 15:36 www.facebook.com</li>
 <li> 15:34 www.google.com</li>
 <li> 15:33 www.facebook.com</li>
-<li> 15:31 <a href="https://joereddington.com/2024/06/10/attendence.html">Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 15:31 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 15:31 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:31 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li> 15:31 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
@@ -2949,7 +3058,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:13 <a href="https://www.youtube.com/">(51) YouTube</a></li>
 <li> 15:09 www.linkedin.com</li>
 <li class='same'> 15:08 www.linkedin.com</li>
-<li> 15:08 <a href="https://joereddington.com/2024/06/10/attendence.html">Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 15:08 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 15:08 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:08 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:07 github.com</li>
@@ -57219,6 +57328,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:59 www.unity-online.co.uk</li>
 <li> 11:59 equalitytime.github.io</li>
 <li> 11:53 www.paypal.com</li>
+<li class='same'> 11:52 www.paypal.com</li>
 <li class='same'> 11:51 www.paypal.com</li>
 <li class='same'> 11:50 www.paypal.com</li>
 <li> 11:29 127.0.0.1:4000</li>
@@ -58174,6 +58284,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:12 superuser.com</li>
 <li> 07:12 www.google.com</li>
 <li> 06:53 i3wm.org</li>
+<li> 06:47 superuser.com</li>
 <li> 06:42 forum.artofmemory.com</li>
 <li class='same'> 06:41 forum.artofmemory.com</li>
 <li> 06:36 hluk.github.io</li>
@@ -58216,11 +58327,12 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:02 i3wm.org</li>
 <li class='same'> 20:58 i3wm.org</li>
+<li> 20:41 superuser.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 19:18 i3wm.org</li>
+<ul><li> 19:18 i3wm.org</li>
 </ul>
 
 <br>
