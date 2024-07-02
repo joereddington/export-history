@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6541)</li>
-<li>mail.google.com (4707)</li>
+<li>mail.google.com (4710)</li>
 <li>outlook.office.com (2267)</li>
-<li>www.facebook.com (1715)</li>
-<li>docs.google.com (1494)</li>
+<li>www.facebook.com (1717)</li>
+<li>docs.google.com (1495)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1032)</li>
+<li>calendar.google.com (1033)</li>
 <li>www.amazon.co.uk (968)</li>
-<li>github.com (916)</li>
+<li>github.com (918)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
-<li>www.linkedin.com (622)</li>
+<li>www.linkedin.com (623)</li>
 <li>app.qbo.intuit.com (567)</li>
-<li>chat.openai.com (541)</li>
-<li>whitewaterwriters.com (540)</li>
-<li>gmail.com (499)</li>
+<li>whitewaterwriters.com (546)</li>
+<li>chat.openai.com (542)</li>
+<li>gmail.com (500)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (455)</li>
 <li>teams.microsoft.com (385)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (310)</li>
 <li>kdp.amazon.com (304)</li>
-<li>web.whatsapp.com (281)</li>
+<li>web.whatsapp.com (282)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (255)</li>
 <li>www.ebay.co.uk (246)</li>
@@ -108,6 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:22 github.com</li>
+<li> 20:03 0.0.0.0:8000</li>
+<li> 19:35 github.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:55 docs.google.com</li>
+<li> 14:32 mail.google.com</li>
+<li class='same'> 14:31 mail.google.com</li>
+<li> 14:31 gmail.com</li>
+<li> 14:18 chatgpt.com</li>
+<li> 14:18 chat.openai.com</li>
+<li> 14:18 askubuntu.com</li>
+<li class='same'> 14:15 askubuntu.com</li>
+<li> 14:15 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+<li> 14:05 www.linkedin.com</li>
+<li> 14:04 www.facebook.com</li>
+<li class='same'> 14:02 www.facebook.com</li>
+<li> 14:02 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:13 whitewaterwriters.com</li>
+<li class='same'> 12:12 whitewaterwriters.com</li>
+<li> 12:09 <a href="https://joereddington.com/746/2011/03/02/harry-potter-and-the-half-blood-prince/">Harry Potter and the Half-Blood Prince | Joe Reddington</a></li>
+<li> 12:09 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
+<li> 12:09 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:06 whitewaterwriters.com</li>
+<li class='same'> 12:04 whitewaterwriters.com</li>
+<li class='same'> 12:03 whitewaterwriters.com</li>
+<li class='same'> 12:02 whitewaterwriters.com</li>
+<li> 12:02 accounts.google.com</li>
+<li> 12:02 mail.google.com</li>
+<li> 12:02 accounts.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:33 docs.google.com</li>
 <li> 07:28 chatgpt.com</li>
 <li> 07:26 docs.google.com</li>
@@ -117,7 +157,8 @@ With number of accesses/minutes in parentheses
 <li> 07:21 docs.google.com</li>
 <li> 07:21 drive.google.com</li>
 <li> 07:11 docs.google.com</li>
-<li> 06:57 calendar.google.com</li>
+<li> 07:11 calendar.google.com</li>
+<li class='same'> 06:57 calendar.google.com</li>
 </ul>
 
 <H3>Monday, 01/07/24</H3>
