@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6547)</li>
-<li>mail.google.com (4732)</li>
+<ol><li>www.google.com (6545)</li>
+<li>mail.google.com (4733)</li>
 <li>outlook.office.com (2267)</li>
 <li>www.facebook.com (1723)</li>
 <li>docs.google.com (1495)</li>
@@ -86,18 +86,18 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (502)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (456)</li>
-<li>teams.microsoft.com (385)</li>
+<li>teams.microsoft.com (384)</li>
 <li>drive.google.com (378)</li>
 <li>outlook.office365.com (356)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
-<li>login.microsoftonline.com (310)</li>
+<li>login.microsoftonline.com (309)</li>
 <li>kdp.amazon.com (305)</li>
 <li>web.whatsapp.com (283)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (255)</li>
-<li>www.ebay.co.uk (246)</li>
 <li>www.giantitp.com (242)</li>
+<li>www.ebay.co.uk (240)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:28 mail.google.com</li>
+<ul><li> 11:29 mail.google.com</li>
+<li class='same'> 11:28 mail.google.com</li>
 <li> 11:28 github.com</li>
 <li> 11:28 dashboard.gitguardian.com</li>
 <li> 11:28 github.com</li>
@@ -18219,13 +18220,9 @@ With number of accesses/minutes in parentheses
 <li> 18:06 pay.ebay.co.uk</li>
 <li> 18:06 <a href="https://en.wikipedia.org/wiki/Special:Watchlist?hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 18:06 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 18:06 www.paypal.com</li>
 <li> 18:06 pay.ebay.co.uk</li>
-<li> 18:05 www.ebay.co.uk</li>
-<li> 18:05 pay.ebay.co.uk</li>
-<li> 18:05 www.ebay.co.uk</li>
-<li class='same'> 18:04 www.ebay.co.uk</li>
-<li class='same'> 18:03 www.ebay.co.uk</li>
+<li class='same'> 18:05 pay.ebay.co.uk</li>
+<li> 18:04 www.ebay.co.uk</li>
 <li> 18:03 pay.ebay.co.uk</li>
 <li> 18:03 www.ebay.co.uk</li>
 <li class='same'> 18:02 www.ebay.co.uk</li>
@@ -18237,8 +18234,7 @@ With number of accesses/minutes in parentheses
 <li> 18:00 www.amazon.co.uk</li>
 <li> 18:00 www.amazon.com</li>
 <li> 17:59 www.amazon.co.uk</li>
-<li> 17:59 www.google.com</li>
-<li class='same'> 17:58 www.google.com</li>
+<li> 17:58 www.google.com</li>
 <li> 17:54 www.ebay.com</li>
 <li class='same'> 17:53 www.ebay.com</li>
 <li class='same'> 17:52 www.ebay.com</li>
@@ -18254,7 +18250,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:44 www.google.com</li>
 <li> 17:44 www.ebay.com</li>
 <li class='same'> 17:43 www.ebay.com</li>
-<li class='same'> 17:42 www.ebay.com</li>
 <li class='same'> 17:41 www.ebay.com</li>
 <li> 17:41 www.ebay.co.uk</li>
 <li class='same'> 17:40 www.ebay.co.uk</li>
@@ -18264,18 +18259,15 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:36 www.ebay.co.uk</li>
 <li> 17:35 finisterre.com</li>
 <li> 17:35 www.google.com</li>
-<li> 17:35 www.ebay.co.uk</li>
 <li> 17:34 eu.patagonia.com</li>
 <li> 17:34 www.google.com</li>
 <li> 17:34 www.ebay.co.uk</li>
 <li> 17:33 eu.patagonia.com</li>
 <li> 17:33 www.google.com</li>
 <li> 17:33 www.ebay.co.uk</li>
-<li class='same'> 17:32 www.ebay.co.uk</li>
 <li> 17:31 www.polartec.com</li>
 <li> 17:31 www.google.com</li>
 <li> 17:30 www.ebay.co.uk</li>
-<li class='same'> 17:29 www.ebay.co.uk</li>
 <li class='same'> 17:28 www.ebay.co.uk</li>
 <li class='same'> 17:27 www.ebay.co.uk</li>
 <li> 17:16 www.osprey.com</li>
@@ -18434,8 +18426,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:24 mail.google.com</li>
 <li> 15:23 outlook.office.com</li>
 <li> 15:21 www.google.co.uk</li>
-<li> 15:21 www.google.com</li>
-<li class='same'> 15:20 www.google.com</li>
+<li> 15:20 www.google.com</li>
 <li> 15:20 books.google.co.uk</li>
 <li> 15:20 www.google.com</li>
 <li> 15:19 onlinelibrary.wiley.com</li>
@@ -18565,13 +18556,11 @@ With number of accesses/minutes in parentheses
 <li> 07:13 www.facebook.com</li>
 <li> 07:12 mail.google.com</li>
 <li class='same'> 07:11 mail.google.com</li>
-<li> 07:10 accounts.google.com</li>
-<li class='same'> 07:09 accounts.google.com</li>
+<li> 07:09 accounts.google.com</li>
 <li> 07:09 mail.google.com</li>
 <li class='same'> 07:08 mail.google.com</li>
 <li> 07:07 web.whatsapp.com</li>
-<li> 07:06 www.europcar.co.uk</li>
-<li class='same'> 07:05 www.europcar.co.uk</li>
+<li> 07:05 www.europcar.co.uk</li>
 <li> 07:05 www.google.com</li>
 <li> 07:04 pay.ebay.co.uk</li>
 <li> 07:04 www.ebay.co.uk</li>
@@ -18597,8 +18586,6 @@ With number of accesses/minutes in parentheses
 <li> 06:51 www.hertz247.co.uk</li>
 <li> 06:51 outlook.office.com</li>
 <li class='same'> 06:50 outlook.office.com</li>
-<li> 06:44 teams.microsoft.com</li>
-<li> 06:44 login.microsoftonline.com</li>
 <li> 06:44 teams.microsoft.com</li>
 <li> 06:43 mail.google.com</li>
 <li> 06:42 calendar.google.com</li>
