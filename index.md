@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6541)</li>
-<li>mail.google.com (4711)</li>
+<ol><li>www.google.com (6545)</li>
+<li>mail.google.com (4722)</li>
 <li>outlook.office.com (2267)</li>
 <li>www.facebook.com (1717)</li>
 <li>docs.google.com (1495)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1033)</li>
+<li>calendar.google.com (1036)</li>
 <li>www.amazon.co.uk (968)</li>
 <li>github.com (919)</li>
 <li>m.facebook.com (777)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 mail.google.com</li>
+<ul><li> 10:39 calendar.google.com</li>
+<li> 10:39 <a href="https://joereddington.com/2024/06/20/grat.html">Gratitude | Joe Reddington</a></li>
+<li> 10:39 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 10:39 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 10:39 mail.google.com</li>
+<li class='same'> 10:37 mail.google.com</li>
+<li> 10:36 <a href="https://en.wikipedia.org/wiki/Open_University">Open University - Wikipedia</a></li>
+<li> 10:36 www.google.com</li>
+<li class='same'> 10:35 www.google.com</li>
+<li> 10:35 mail.google.com</li>
+<li> 10:35 calendar.google.com</li>
+<li> 10:35 www.google.com</li>
+<li> 10:35 calendar.google.com</li>
+<li> 10:35 mail.google.com</li>
+<li class='same'> 10:34 mail.google.com</li>
+<li class='same'> 10:33 mail.google.com</li>
+<li class='same'> 10:32 mail.google.com</li>
+<li> 10:32 www.instagram.com</li>
+<li> 10:32 instagram.com</li>
+<li> 10:32 mail.google.com</li>
+<li class='same'> 10:31 mail.google.com</li>
+<li> 10:31 www.google.com</li>
+<li> 10:31 scholar.google.com</li>
+<li> 10:31 arxiv.org</li>
+<li> 10:31 mail.google.com</li>
+<li class='same'> 10:30 mail.google.com</li>
+<li class='same'> 10:29 mail.google.com</li>
 <li> 10:29 gmail.com</li>
 </ul>
 
