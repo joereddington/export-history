@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6545)</li>
-<li>mail.google.com (4738)</li>
+<ol><li>www.google.com (6549)</li>
+<li>mail.google.com (4754)</li>
 <li>outlook.office.com (2272)</li>
 <li>www.facebook.com (1754)</li>
-<li>docs.google.com (1495)</li>
+<li>docs.google.com (1497)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1041)</li>
 <li>www.amazon.co.uk (968)</li>
 <li>github.com (923)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
-<li>www.linkedin.com (629)</li>
-<li>app.qbo.intuit.com (567)</li>
+<li>www.linkedin.com (631)</li>
+<li>app.qbo.intuit.com (570)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (543)</li>
-<li>gmail.com (503)</li>
+<li>gmail.com (505)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (456)</li>
 <li>teams.microsoft.com (384)</li>
-<li>drive.google.com (378)</li>
+<li>drive.google.com (379)</li>
 <li>outlook.office365.com (357)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (310)</li>
-<li>kdp.amazon.com (305)</li>
-<li>web.whatsapp.com (283)</li>
+<li>kdp.amazon.com (309)</li>
+<li>web.whatsapp.com (284)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (255)</li>
 <li>www.giantitp.com (242)</li>
@@ -108,7 +108,72 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:45 calendar.google.com</li>
+<ul><li> 13:40 mail.google.com</li>
+<li class='same'> 13:30 mail.google.com</li>
+<li> 13:29 docs.google.com</li>
+<li> 13:29 mail.google.com</li>
+<li> 13:22 cc.amazon.com</li>
+<li> 13:21 kdp.amazon.com</li>
+<li> 13:19 web.whatsapp.com</li>
+<li> 13:18 cc.amazon.com</li>
+<li> 13:18 kdp.amazon.com</li>
+<li> 13:18 s3.amazonaws.com</li>
+<li> 13:18 kdp.amazon.com</li>
+<li class='same'> 13:17 kdp.amazon.com</li>
+<li> 13:16 mail.google.com</li>
+<li class='same'> 13:08 mail.google.com</li>
+<li class='same'> 13:07 mail.google.com</li>
+<li> 13:07 www.linkedin.com</li>
+<li class='same'> 13:06 www.linkedin.com</li>
+<li> 13:04 bedfordcollegegroup.ac.uk</li>
+<li> 13:04 www.google.com</li>
+<li class='same'> 13:03 www.google.com</li>
+<li> 13:03 <a href="https://en.wikipedia.org/wiki/West_Herts_College">West Herts College - Wikipedia</a></li>
+<li> 13:02 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
+<li> 13:00 explore-education-statistics.service.gov.uk</li>
+<li class='same'> 12:59 explore-education-statistics.service.gov.uk</li>
+<li> 12:59 www.google.com</li>
+<li> 12:59 online.unity.co.uk</li>
+<li> 12:58 docs.google.com</li>
+<li> 12:58 drive.google.com</li>
+<li> 12:57 www.google.com</li>
+<li> 12:57 mail.google.com</li>
+<li class='same'> 12:56 mail.google.com</li>
+<li> 12:56 intuit-qbo-prod-6.s3.amazonaws.com</li>
+<li> 12:55 mail.google.com</li>
+<li> 12:54 qbo.intuit.com</li>
+<li> 12:54 online.unity.co.uk</li>
+<li> 12:53 qbo.intuit.com</li>
+<li> 12:53 c14.qbo.intuit.com</li>
+<li> 12:53 app.qbo.intuit.com</li>
+<li> 12:52 online.unity.co.uk</li>
+<li> 12:52 mail.google.com</li>
+<li> 12:51 qbo.intuit.com</li>
+<li> 12:51 mail.google.com</li>
+<li class='same'> 12:50 mail.google.com</li>
+<li> 12:50 qbo.intuit.com</li>
+<li class='same'> 12:49 qbo.intuit.com</li>
+<li> 12:49 online.unity.co.uk</li>
+<li class='same'> 12:48 online.unity.co.uk</li>
+<li> 12:48 www.unity-online.co.uk</li>
+<li> 12:48 online.unity.co.uk</li>
+<li> 12:48 qbo.intuit.com</li>
+<li> 12:48 app.qbo.intuit.com</li>
+<li> 12:47 qbo.intuit.com</li>
+<li> 12:47 app.qbo.intuit.com</li>
+<li> 12:47 accounts.intuit.com</li>
+<li> 12:47 c14.qbo.intuit.com</li>
+<li> 12:47 mail.google.com</li>
+<li> 12:47 accounts.google.com</li>
+<li> 12:47 mail.google.com</li>
+<li> 12:47 accounts.google.com</li>
+<li> 12:47 gmail.com</li>
+<li> 12:47 accounts.google.com</li>
+<li> 12:47 mail.google.com</li>
+<li> 12:47 accounts.google.com</li>
+<li> 12:47 gmail.com</li>
+<li> 12:47 mail.google.com</li>
+<li> 12:45 calendar.google.com</li>
 <li class='same'> 12:44 calendar.google.com</li>
 <li> 12:40 mail.google.com</li>
 <li> 12:39 claude.ai</li>
