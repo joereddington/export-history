@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (6545)</li>
 <li>mail.google.com (4722)</li>
 <li>outlook.office.com (2267)</li>
-<li>www.facebook.com (1719)</li>
+<li>www.facebook.com (1720)</li>
 <li>docs.google.com (1495)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1036)</li>
@@ -79,13 +79,13 @@ With number of accesses/minutes in parentheses
 <li>github.com (919)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
-<li>www.linkedin.com (624)</li>
+<li>www.linkedin.com (625)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (543)</li>
 <li>gmail.com (501)</li>
 <li>tvtropes.org (496)</li>
-<li>en.m.wikipedia.org (455)</li>
+<li>en.m.wikipedia.org (456)</li>
 <li>teams.microsoft.com (385)</li>
 <li>drive.google.com (378)</li>
 <li>outlook.office365.com (356)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (310)</li>
 <li>kdp.amazon.com (304)</li>
-<li>web.whatsapp.com (282)</li>
+<li>web.whatsapp.com (283)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (255)</li>
 <li>www.ebay.co.uk (246)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:49 www.linkedin.com</li>
+<ul><li> 10:55 www.linkedin.com</li>
+<li> 10:54 www.natesilver.net</li>
+<li> 10:53 en.m.wikipedia.org</li>
+<li> 10:50 www.facebook.com</li>
+<li> 10:50 web.whatsapp.com</li>
+<li> 10:49 www.linkedin.com</li>
 <li> 10:46 nwsw.pro</li>
 <li> 10:46 l.facebook.com</li>
 <li> 10:43 www.facebook.com</li>
