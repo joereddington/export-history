@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (6545)</li>
 <li>mail.google.com (4722)</li>
 <li>outlook.office.com (2267)</li>
-<li>www.facebook.com (1717)</li>
+<li>www.facebook.com (1719)</li>
 <li>docs.google.com (1495)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1036)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (919)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
-<li>www.linkedin.com (623)</li>
+<li>www.linkedin.com (624)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (543)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:39 calendar.google.com</li>
+<ul><li> 10:49 www.linkedin.com</li>
+<li> 10:46 nwsw.pro</li>
+<li> 10:46 l.facebook.com</li>
+<li> 10:43 www.facebook.com</li>
+<li class='same'> 10:40 www.facebook.com</li>
+<li> 10:39 calendar.google.com</li>
 <li> 10:39 <a href="https://joereddington.com/2024/06/20/grat.html">Gratitude | Joe Reddington</a></li>
 <li> 10:39 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:39 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
