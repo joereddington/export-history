@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6545)</li>
-<li>mail.google.com (4722)</li>
+<ol><li>www.google.com (6546)</li>
+<li>mail.google.com (4727)</li>
 <li>outlook.office.com (2267)</li>
 <li>www.facebook.com (1720)</li>
 <li>docs.google.com (1495)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1036)</li>
+<li>calendar.google.com (1038)</li>
 <li>www.amazon.co.uk (968)</li>
 <li>github.com (919)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
-<li>www.linkedin.com (625)</li>
+<li>www.linkedin.com (629)</li>
 <li>app.qbo.intuit.com (567)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (543)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:55 www.linkedin.com</li>
+<ul><li> 11:09 mail.google.com</li>
+<li> 11:09 ads.google.com</li>
+<li> 11:09 mail.google.com</li>
+<li> 11:08 calendar.google.com</li>
+<li> 11:08 www.google.com</li>
+<li> 11:08 calendar.google.com</li>
+<li> 11:08 mail.google.com</li>
+<li class='same'> 11:07 mail.google.com</li>
+<li> 11:06 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:05 www.linkedin.com</li>
+<li class='same'> 11:04 www.linkedin.com</li>
+<li> 11:04 mail.google.com</li>
+<li> 11:03 www.linkedin.com</li>
+<li class='same'> 11:02 www.linkedin.com</li>
+<li class='same'> 10:55 www.linkedin.com</li>
 <li> 10:54 www.natesilver.net</li>
 <li> 10:53 en.m.wikipedia.org</li>
 <li> 10:50 www.facebook.com</li>
