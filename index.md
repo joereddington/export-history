@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6549)</li>
-<li>mail.google.com (4754)</li>
-<li>outlook.office.com (2272)</li>
-<li>www.facebook.com (1754)</li>
-<li>docs.google.com (1497)</li>
+<ol><li>www.google.com (6552)</li>
+<li>mail.google.com (4760)</li>
+<li>outlook.office.com (2289)</li>
+<li>www.facebook.com (1756)</li>
+<li>docs.google.com (1498)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1041)</li>
+<li>calendar.google.com (1047)</li>
 <li>www.amazon.co.uk (968)</li>
 <li>github.com (923)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
-<li>www.linkedin.com (631)</li>
+<li>www.linkedin.com (632)</li>
 <li>app.qbo.intuit.com (570)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (543)</li>
-<li>gmail.com (505)</li>
+<li>gmail.com (506)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (456)</li>
 <li>teams.microsoft.com (384)</li>
-<li>drive.google.com (379)</li>
+<li>drive.google.com (380)</li>
 <li>outlook.office365.com (357)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
@@ -108,7 +108,66 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:40 mail.google.com</li>
+<ul><li> 14:44 www.topreg.co.uk</li>
+<li> 14:44 www.google.com</li>
+<li> 14:44 www.facebook.com</li>
+<li> 14:43 outlook.office.com</li>
+<li class='same'> 14:42 outlook.office.com</li>
+<li> 14:42 www.facebook.com</li>
+<li> 14:30 mail.google.com</li>
+<li> 14:30 gmail.com</li>
+<li> 14:29 outlook.office.com</li>
+<li> 14:29 calendar.google.com</li>
+<li> 14:27 www.linkedin.com</li>
+<li> 14:27 mail.google.com</li>
+<li> 14:26 www.theguardian.com</li>
+<li class='same'> 14:25 www.theguardian.com</li>
+<li> 14:24 <a href="https://en.wikipedia.org/wiki/2024_Bolivian_coup_attempt">2024 Bolivian coup attempt - Wikipedia</a></li>
+<li> 14:24 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:23 outlook.office.com</li>
+<li class='same'> 14:22 outlook.office.com</li>
+<li> 14:22 calendar.google.com</li>
+<li class='same'> 14:21 calendar.google.com</li>
+<li class='same'> 14:20 calendar.google.com</li>
+<li> 14:19 doodle.com</li>
+<li> 14:19 outlook.office.com</li>
+<li class='same'> 14:16 outlook.office.com</li>
+<li class='same'> 14:15 outlook.office.com</li>
+<li class='same'> 14:14 outlook.office.com</li>
+<li class='same'> 14:13 outlook.office.com</li>
+<li> 14:12 <a href="https://en.wikipedia.org/wiki/Kathleen_Rastle?venotify=saved">Kathleen Rastle - Wikipedia</a></li>
+<li> 14:12 <a href="https://en.wikipedia.org/wiki/Kathleen_Rastle">Kathleen Rastle - Wikipedia</a></li>
+<li> 14:12 <a href="https://en.wikipedia.org/w/index.php?title=Kathleen_Rastle&action=edit">Kathleen Rastle - Wikipedia</a></li>
+<li> 14:12 <a href="https://en.wikipedia.org/w/index.php?title=Kathleen_Rastle&section=3&oldid=1170210898&action=edit">Editing Kathleen Rastle - Wikipedia</a></li>
+<li> 14:12 <a href="https://en.wikipedia.org/w/index.php?title=Kathleen_Rastle&action=edit&section=3">Editing Kathleen Rastle (section) - Wikipedia</a></li>
+<li> 14:11 <a href="https://en.wikipedia.org/wiki/Phonics#The_Reading_Wars_%E2%80%93_phonics_vs._whole_language">Phonics - Wikipedia</a></li>
+<li> 14:11 <a href="https://en.wikipedia.org/wiki/Reading#The_Reading_Wars:_phonics_vs._whole_language">Reading - Wikipedia</a></li>
+<li> 14:10 <a href="https://en.wikipedia.org/wiki/Kathleen_Rastle">Kathleen Rastle - Wikipedia</a></li>
+<li> 14:10 www.google.com</li>
+<li> 14:10 outlook.office.com</li>
+<li> 14:09 calendar.google.com</li>
+<li> 14:07 outlook.office.com</li>
+<li> 13:54 www.royalholloway.ac.uk</li>
+<li> 13:54 pure.royalholloway.ac.uk</li>
+<li> 13:53 www.royalholloway.ac.uk</li>
+<li> 13:53 www.google.com</li>
+<li> 13:53 outlook.office.com</li>
+<li> 13:53 calendar.google.com</li>
+<li> 13:53 outlook.office.com</li>
+<li class='same'> 13:52 outlook.office.com</li>
+<li class='same'> 13:50 outlook.office.com</li>
+<li> 13:49 mail.google.com</li>
+<li class='same'> 13:48 mail.google.com</li>
+<li> 13:46 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 13:46 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 13:45 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 13:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 13:43 outlook.office.com</li>
+<li> 13:42 mail.google.com</li>
+<li class='same'> 13:41 mail.google.com</li>
+<li> 13:41 docs.google.com</li>
+<li> 13:40 drive.google.com</li>
+<li> 13:40 mail.google.com</li>
 <li class='same'> 13:30 mail.google.com</li>
 <li> 13:29 docs.google.com</li>
 <li> 13:29 mail.google.com</li>
