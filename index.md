@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6557)</li>
-<li>mail.google.com (4792)</li>
+<li>mail.google.com (4793)</li>
 <li>outlook.office.com (2296)</li>
 <li>www.facebook.com (1785)</li>
 <li>docs.google.com (1500)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1051)</li>
 <li>www.amazon.co.uk (971)</li>
-<li>github.com (928)</li>
+<li>github.com (930)</li>
 <li>m.facebook.com (782)</li>
 <li>www.reddit.com (773)</li>
 <li>www.linkedin.com (633)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (544)</li>
-<li>gmail.com (511)</li>
+<li>gmail.com (512)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (457)</li>
 <li>teams.microsoft.com (384)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:24 docs.google.com</li>
+<ul><li> 16:39 mail.google.com</li>
+<li> 16:39 gmail.com</li>
+<li> 16:34 github.com</li>
+<li class='same'> 16:33 github.com</li>
+<li> 16:24 docs.google.com</li>
 <li> 16:11 qbo.intuit.com</li>
 <li> 16:10 calendar.google.com</li>
 <li> 16:09 intuit-qbo-prod-13.s3.amazonaws.com</li>
