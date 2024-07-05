@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6551)</li>
-<li>mail.google.com (4767)</li>
-<li>outlook.office.com (2292)</li>
+<ol><li>www.google.com (6554)</li>
+<li>mail.google.com (4769)</li>
+<li>outlook.office.com (2295)</li>
 <li>www.facebook.com (1783)</li>
 <li>docs.google.com (1498)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1047)</li>
+<li>calendar.google.com (1048)</li>
 <li>www.amazon.co.uk (968)</li>
 <li>github.com (928)</li>
-<li>m.facebook.com (777)</li>
+<li>m.facebook.com (782)</li>
 <li>www.reddit.com (773)</li>
 <li>www.linkedin.com (633)</li>
 <li>app.qbo.intuit.com (575)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (544)</li>
 <li>gmail.com (509)</li>
 <li>tvtropes.org (496)</li>
-<li>en.m.wikipedia.org (456)</li>
+<li>en.m.wikipedia.org (457)</li>
 <li>teams.microsoft.com (384)</li>
 <li>drive.google.com (381)</li>
 <li>outlook.office365.com (359)</li>
@@ -108,13 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:39 outlook.office365.com</li>
+<ul><li> 13:46 mail.google.com</li>
+<li> 13:45 en.m.wikipedia.org</li>
+<li> 13:45 www.google.com</li>
+<li> 13:43 mail.google.com</li>
+<li> 13:42 calendar.google.com</li>
+<li> 13:41 outlook.office.com</li>
+<li class='same'> 13:40 outlook.office.com</li>
+<li class='same'> 13:39 outlook.office.com</li>
+<li> 13:39 outlook.office365.com</li>
 <li> 13:39 outlook.office.com</li>
 <li> 13:39 login.microsoftonline.com</li>
 <li> 13:39 mail.rhul.ac.uk</li>
 <li> 13:39 mail.google.com</li>
 <li> 13:39 gmail.com</li>
 <li> 13:39 www.paypal.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:45 www.google.com</li>
+<li> 11:45 m.facebook.com</li>
+<li> 11:45 www.google.com</li>
 </ul>
 
 <br>
@@ -176,7 +191,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:17 www.tvlicensing.co.uk</li>
+<ul><li> 13:59 m.facebook.com</li>
+<li class='same'> 13:54 m.facebook.com</li>
+<li class='same'> 13:53 m.facebook.com</li>
+<li class='same'> 13:52 m.facebook.com</li>
+<li> 13:52 www.tvlicensing.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:21 www.tvlicensing.co.uk</li>
+<li class='same'> 13:20 www.tvlicensing.co.uk</li>
+<li class='same'> 13:19 www.tvlicensing.co.uk</li>
+<li class='same'> 13:18 www.tvlicensing.co.uk</li>
+<li class='same'> 13:17 www.tvlicensing.co.uk</li>
 <li> 13:17 www.google.com</li>
 <li class='same'> 13:16 www.google.com</li>
 <li> 13:16 www.theguardian.com</li>
