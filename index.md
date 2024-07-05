@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6552)</li>
-<li>mail.google.com (4761)</li>
-<li>outlook.office.com (2290)</li>
+<ol><li>www.google.com (6551)</li>
+<li>mail.google.com (4766)</li>
+<li>outlook.office.com (2291)</li>
 <li>www.facebook.com (1783)</li>
 <li>docs.google.com (1498)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
@@ -79,36 +79,67 @@ With number of accesses/minutes in parentheses
 <li>github.com (923)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
-<li>www.linkedin.com (632)</li>
+<li>www.linkedin.com (633)</li>
 <li>app.qbo.intuit.com (570)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (543)</li>
-<li>gmail.com (506)</li>
+<li>gmail.com (508)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (456)</li>
 <li>teams.microsoft.com (384)</li>
-<li>drive.google.com (380)</li>
+<li>drive.google.com (381)</li>
 <li>outlook.office365.com (358)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (310)</li>
 <li>kdp.amazon.com (309)</li>
-<li>web.whatsapp.com (284)</li>
+<li>web.whatsapp.com (285)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (255)</li>
 <li>www.giantitp.com (242)</li>
-<li>www.ebay.co.uk (240)</li>
+<li>www.ebay.co.uk (239)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Friday, 05/07/24</H3>
+
+<br>
+
+<ul><li> 06:48 web.whatsapp.com</li>
+</ul>
+
+<H3>Thursday, 04/07/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 13:17 www.tvlicensing.co.uk</li>
+<li> 13:17 www.google.com</li>
+<li class='same'> 13:16 www.google.com</li>
+<li> 13:16 www.theguardian.com</li>
+</ul>
+
 <H3>Wednesday, 03/07/24</H3>
 
 <br>
 
-<ul><li> 15:23 outlook.office365.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 15:27 www.theguardian.com</li>
+<li class='same'> 15:26 www.theguardian.com</li>
+<li class='same'> 15:25 www.theguardian.com</li>
+<li> 15:25 www.google.com</li>
+<li> 15:25 profile.theguardian.com</li>
+<li> 15:25 www.google.com</li>
+<li> 15:23 outlook.office365.com</li>
 <li> 15:23 outlook.office.com</li>
 <li> 15:23 mail.rhul.ac.uk</li>
 <li> 15:23 www.facebook.com</li>
@@ -147,7 +178,19 @@ With number of accesses/minutes in parentheses
 <li> 14:43 outlook.office.com</li>
 <li class='same'> 14:42 outlook.office.com</li>
 <li> 14:42 www.facebook.com</li>
-<li> 14:30 mail.google.com</li>
+<li> 14:37 outlook.office.com</li>
+<li> 14:37 mail.google.com</li>
+<li> 14:36 outlook.office.com</li>
+<li> 14:34 www.linkedin.com</li>
+<li> 14:34 auth.uber.com</li>
+<li> 14:34 mail.google.com</li>
+<li> 14:32 drive.google.com</li>
+<li> 14:31 mail.google.com</li>
+<li> 14:31 gmail.com</li>
+<li> 14:31 mail.google.com</li>
+<li> 14:31 gmail.com</li>
+<li> 14:31 mail.google.com</li>
+<li class='same'> 14:30 mail.google.com</li>
 <li> 14:30 gmail.com</li>
 <li> 14:29 outlook.office.com</li>
 <li> 14:29 calendar.google.com</li>
@@ -512,7 +555,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:41 www.livechat.com</li>
+<ul><li> 18:58 www.google.com</li>
+<li> 18:41 www.livechat.com</li>
 <li> 18:40 www.google.com</li>
 <li> 18:33 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 18:27 www.facebook.com</li>
@@ -18066,8 +18110,7 @@ With number of accesses/minutes in parentheses
 <li> 07:54 rhul-my.sharepoint.com</li>
 <li> 07:54 login.microsoftonline.com</li>
 <li> 07:54 rhul-my.sharepoint.com</li>
-<li> 07:54 outlook.office.com</li>
-<li class='same'> 07:53 outlook.office.com</li>
+<li> 07:53 outlook.office.com</li>
 <li> 07:45 en.m.wikipedia.org</li>
 <li> 07:45 m.youtube.com</li>
 </ul>
@@ -18084,7 +18127,6 @@ With number of accesses/minutes in parentheses
 <li> 18:34 <a href="https://en.wikipedia.org/wiki/Moneyball">Moneyball - Wikipedia</a></li>
 <li> 18:34 <a href="https://en.wikipedia.org/wiki/Moneyball:_The_Art_of_Winning_an_Unfair_Game">Moneyball - Wikipedia</a></li>
 <li> 18:34 <a href="https://en.wikipedia.org/wiki/Moneyball_(film)">Moneyball (film) - Wikipedia</a></li>
-<li> 18:34 <a href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Moneyball+%28film%29&wprov=acrw1_1"></a></li>
 <li> 18:34 <a href="https://en.wikipedia.org/w/index.php?search=Moneyball+%28film%29&title=Special:Search&ns0=1"></a></li>
 <li> 18:34 <a href="https://en.wikipedia.org/wiki/NASCAR_Rookie_of_the_Year">NASCAR Rookie of the Year - Wikipedia</a></li>
 <li> 18:33 www.facebook.com</li>
@@ -18148,9 +18190,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:03 www.facebook.com</li>
 <li class='same'> 07:00 www.facebook.com</li>
 <li> 07:00 commons.wikimedia.org</li>
-<li> 07:00 <a href="https://en.wikipedia.org/wiki/Rainbow_Bridge_%26_Veterans_Memorial_Bridge_(Texas)?fbclid=IwAR2OoZAfUjP8Sbe_6feZnAWf8ex5IzvgjKNpTDkSfcnTgKYWZ15KXhYcbjs_aem_AXEKbz10t_95ItOS04ekyvjlA6v6rYJW4QsSScuJBqSPhc0169Gc8jOSCBmBxHEim_ythvB2aGv1JzJlYqytCriP#/media/File:RainbowBridge_(Texas).jpg">RainbowBridge (Texas) - Rainbow Bridge & Veterans Memorial Bridge (Texas) - Wikipedia</a></li>
 <li> 06:59 <a href="https://en.wikipedia.org/wiki/Rainbow_Bridge_%26_Veterans_Memorial_Bridge_(Texas)?fbclid=IwAR2OoZAfUjP8Sbe_6feZnAWf8ex5IzvgjKNpTDkSfcnTgKYWZ15KXhYcbjs_aem_AXEKbz10t_95ItOS04ekyvjlA6v6rYJW4QsSScuJBqSPhc0169Gc8jOSCBmBxHEim_ythvB2aGv1JzJlYqytCriP">Rainbow Bridge & Veterans Memorial Bridge (Texas) - Wikipedia</a></li>
-<li> 06:59 l.facebook.com</li>
 <li> 06:59 www.facebook.com</li>
 <li> 06:59 mail.google.com</li>
 <li> 06:58 www.dropbox.com</li>
@@ -18272,7 +18312,6 @@ With number of accesses/minutes in parentheses
 <li> 22:48 www.google.com</li>
 <li> 22:48 www.cavaliermailing.com</li>
 <li> 22:46 www.selectabase.co.uk</li>
-<li> 22:46 www.google.com</li>
 <li> 22:46 www.postalmuseum.org</li>
 <li> 22:46 www.reddit.com</li>
 <li> 22:46 www.thesun.co.uk</li>
@@ -18392,9 +18431,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:26 www.ebay.com</li>
-<li> 18:26 www.google.com</li>
 <li> 18:25 www.depop.com</li>
-<li> 18:25 www.google.com</li>
 <li> 18:25 www.importitall.co.za</li>
 <li> 18:25 www.google.com</li>
 <li> 18:25 www.backpacker.com</li>
@@ -18409,12 +18446,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:22 gem.app</li>
 <li> 18:22 neatrepeatsonline.com</li>
 <li> 18:22 www.google.com</li>
-<li class='same'> 18:21 www.google.com</li>
 <li> 18:21 www.ebay.co.uk</li>
-<li> 18:21 www.google.com</li>
 <li> 18:21 www.josephturner.co.uk</li>
-<li> 18:21 www.google.com</li>
-<li class='same'> 18:20 www.google.com</li>
+<li> 18:20 www.google.com</li>
 <li> 18:20 www.amazon.co.uk</li>
 <li> 18:20 www.google.com</li>
 <li> 18:19 www.amazon.co.uk</li>
@@ -18422,7 +18456,6 @@ With number of accesses/minutes in parentheses
 <li> 18:17 www.facebook.com</li>
 <li class='same'> 18:15 www.facebook.com</li>
 <li class='same'> 18:13 www.facebook.com</li>
-<li> 18:10 www.ebay.co.uk</li>
 <li> 18:07 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 18:07 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 18:07 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
