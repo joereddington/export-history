@@ -69,29 +69,29 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6551)</li>
-<li>mail.google.com (4766)</li>
-<li>outlook.office.com (2291)</li>
+<li>mail.google.com (4767)</li>
+<li>outlook.office.com (2292)</li>
 <li>www.facebook.com (1783)</li>
 <li>docs.google.com (1498)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1047)</li>
 <li>www.amazon.co.uk (968)</li>
-<li>github.com (927)</li>
+<li>github.com (928)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
 <li>www.linkedin.com (633)</li>
 <li>app.qbo.intuit.com (575)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (544)</li>
-<li>gmail.com (508)</li>
+<li>gmail.com (509)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (456)</li>
 <li>teams.microsoft.com (384)</li>
 <li>drive.google.com (381)</li>
-<li>outlook.office365.com (358)</li>
+<li>outlook.office365.com (359)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>bsky.app (311)</li>
-<li>login.microsoftonline.com (310)</li>
+<li>login.microsoftonline.com (311)</li>
 <li>kdp.amazon.com (309)</li>
 <li>web.whatsapp.com (286)</li>
 <li>rhul.sharepoint.com (265)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:44 raw.githubusercontent.com</li>
+<ul><li> 13:39 outlook.office365.com</li>
+<li> 13:39 outlook.office.com</li>
+<li> 13:39 login.microsoftonline.com</li>
+<li> 13:39 mail.rhul.ac.uk</li>
+<li> 13:39 mail.google.com</li>
+<li> 13:39 gmail.com</li>
+<li> 13:39 www.paypal.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:45 github.com</li>
+<li> 09:44 raw.githubusercontent.com</li>
 <li> 09:44 github.com</li>
 </ul>
 
@@ -117,11 +129,9 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:07 accounts.intuit.com</li>
 <li> 09:07 qbo.intuit.com</li>
 <li> 09:07 accounts.intuit.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:25 localhost:8000</li>
+<li class='same'> 08:43 accounts.intuit.com</li>
+<li class='same'> 08:35 accounts.intuit.com</li>
+<li> 08:25 localhost:8000</li>
 <li> 08:07 qbo.intuit.com</li>
 <li> 07:57 github.com</li>
 <li class='same'> 07:56 github.com</li>
