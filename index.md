@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:05 natwest.com</li>
+<ul><li> 14:09 www.onlinebanking.natwest.com</li>
+<li> 14:05 www.natwest.com</li>
+<li> 14:05 natwest.com</li>
 <li> 14:04 docs.google.com</li>
 <li> 14:03 mail.google.com</li>
 <li class='same'> 14:02 mail.google.com</li>
