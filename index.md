@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:50 127.0.0.1:4000</li>
+<ul><li> 16:56 127.0.0.1:4000</li>
+<li class='same'> 16:52 127.0.0.1:4000</li>
+<li class='same'> 16:50 127.0.0.1:4000</li>
 <li> 16:46 www.paypal.com</li>
 <li> 16:46 jekyllrb.com</li>
 <li> 16:46 www.google.com</li>
