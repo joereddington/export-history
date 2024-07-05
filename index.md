@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
 <li>www.linkedin.com (633)</li>
-<li>app.qbo.intuit.com (570)</li>
+<li>app.qbo.intuit.com (572)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (543)</li>
 <li>gmail.com (508)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:48 web.whatsapp.com</li>
+<ul><li> 07:01 equalitytime.github.io</li>
+<li> 07:00 qbo.intuit.com</li>
+<li class='same'> 06:59 qbo.intuit.com</li>
+<li class='same'> 06:54 qbo.intuit.com</li>
+<li class='same'> 06:53 qbo.intuit.com</li>
+<li> 06:53 app.qbo.intuit.com</li>
+<li> 06:53 accounts.intuit.com</li>
+<li> 06:53 qbo.intuit.com</li>
+<li> 06:53 c14.qbo.intuit.com</li>
+<li> 06:53 app.qbo.intuit.com</li>
+<li> 06:48 web.whatsapp.com</li>
 </ul>
 
 <H3>Thursday, 04/07/24</H3>
