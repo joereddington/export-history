@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1047)</li>
 <li>www.amazon.co.uk (968)</li>
-<li>github.com (923)</li>
+<li>github.com (926)</li>
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
 <li>www.linkedin.com (633)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:35 qbo.intuit.com</li>
+<ul><li> 07:57 github.com</li>
+<li class='same'> 07:56 github.com</li>
+<li class='same'> 07:55 github.com</li>
+<li> 07:51 qbo.intuit.com</li>
+<li class='same'> 07:35 qbo.intuit.com</li>
 <li> 07:35 app.qbo.intuit.com</li>
 <li> 07:35 qbo.intuit.com</li>
 <li> 07:35 accounts.intuit.com</li>
