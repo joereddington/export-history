@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6556)</li>
-<li>mail.google.com (4782)</li>
+<ol><li>www.google.com (6557)</li>
+<li>mail.google.com (4788)</li>
 <li>outlook.office.com (2296)</li>
 <li>www.facebook.com (1783)</li>
 <li>docs.google.com (1499)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1049)</li>
+<li>calendar.google.com (1050)</li>
 <li>www.amazon.co.uk (970)</li>
 <li>github.com (928)</li>
 <li>m.facebook.com (782)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:29 www.paypal.com</li>
+<ul><li> 14:38 mail.google.com</li>
+<li> 14:38 www.paypal.com</li>
+<li class='same'> 14:37 www.paypal.com</li>
+<li class='same'> 14:36 www.paypal.com</li>
+<li> 14:35 calendar.google.com</li>
+<li> 14:34 mail.google.com</li>
+<li class='same'> 14:33 mail.google.com</li>
+<li class='same'> 14:32 mail.google.com</li>
+<li class='same'> 14:31 mail.google.com</li>
+<li> 14:31 www.paypal.com</li>
+<li class='same'> 14:30 www.paypal.com</li>
+<li> 14:30 www.google.com</li>
+<li> 14:30 mail.google.com</li>
+<li> 14:30 www.paypal.com</li>
+<li class='same'> 14:29 www.paypal.com</li>
 <li> 14:29 mail.google.com</li>
 <li> 14:29 calendar.google.com</li>
 <li> 14:28 mail.google.com</li>
