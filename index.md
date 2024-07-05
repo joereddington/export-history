@@ -80,9 +80,9 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (777)</li>
 <li>www.reddit.com (773)</li>
 <li>www.linkedin.com (633)</li>
-<li>app.qbo.intuit.com (572)</li>
+<li>app.qbo.intuit.com (573)</li>
 <li>whitewaterwriters.com (546)</li>
-<li>chat.openai.com (543)</li>
+<li>chat.openai.com (544)</li>
 <li>gmail.com (508)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (456)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>login.microsoftonline.com (310)</li>
 <li>kdp.amazon.com (309)</li>
-<li>web.whatsapp.com (285)</li>
+<li>web.whatsapp.com (286)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (255)</li>
 <li>www.giantitp.com (242)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:01 equalitytime.github.io</li>
+<ul><li> 07:24 chatgpt.com</li>
+<li> 07:24 chat.openai.com</li>
+<li> 07:23 web.whatsapp.com</li>
+<li> 07:16 qbo.intuit.com</li>
+<li class='same'> 07:12 qbo.intuit.com</li>
+<li class='same'> 07:11 qbo.intuit.com</li>
+<li> 07:11 app.qbo.intuit.com</li>
+<li> 07:11 qbo.intuit.com</li>
+<li class='same'> 07:10 qbo.intuit.com</li>
+<li class='same'> 07:01 qbo.intuit.com</li>
+<li> 07:01 equalitytime.github.io</li>
 <li> 07:00 qbo.intuit.com</li>
 <li class='same'> 06:59 qbo.intuit.com</li>
 <li class='same'> 06:54 qbo.intuit.com</li>
