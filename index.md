@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6558)</li>
-<li>mail.google.com (4793)</li>
+<ol><li>www.google.com (6561)</li>
+<li>mail.google.com (4796)</li>
 <li>outlook.office.com (2296)</li>
 <li>www.facebook.com (1785)</li>
 <li>docs.google.com (1501)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (544)</li>
 <li>gmail.com (512)</li>
 <li>tvtropes.org (496)</li>
-<li>en.m.wikipedia.org (457)</li>
+<li>en.m.wikipedia.org (458)</li>
 <li>teams.microsoft.com (384)</li>
 <li>drive.google.com (381)</li>
 <li>outlook.office365.com (359)</li>
@@ -191,6 +191,12 @@ With number of accesses/minutes in parentheses
 <li> 14:00 gmail.com</li>
 <li> 13:55 outlook.office.com</li>
 <li> 13:46 mail.google.com</li>
+<li> 13:46 <a href="https://www.bbc.co.uk/news/election/2024/uk/constituencies/E14001345">Luton North - General election results 2024 - BBC News</a></li>
+<li> 13:46 www.google.com</li>
+<li> 13:46 <a href="https://www.bbc.co.uk/news/election/2024/uk/constituencies/E14001345">Luton North - General election results 2024 - BBC News</a></li>
+<li> 13:46 www.google.com</li>
+<li> 13:45 en.m.wikipedia.org</li>
+<li> 13:45 www.google.com</li>
 <li> 13:45 en.m.wikipedia.org</li>
 <li> 13:45 www.google.com</li>
 <li> 13:43 mail.google.com</li>
@@ -58107,9 +58113,13 @@ With number of accesses/minutes in parentheses
 <li> 11:40 docs.google.com</li>
 <li> 11:39 drive.google.com</li>
 <li> 11:37 docs.google.com</li>
-<li class='same'> 11:26 docs.google.com</li>
+<li> 11:30 127.0.0.1:4000</li>
+<li> 11:26 docs.google.com</li>
+<li> 11:24 127.0.0.1:4000</li>
 <li> 11:21 www.paypal.com</li>
 <li class='same'> 11:16 www.paypal.com</li>
+<li> 11:13 mail.google.com</li>
+<li class='same'> 11:09 mail.google.com</li>
 <li> 11:04 equalitytime.github.io</li>
 <li> 11:02 superuser.com</li>
 <li> 10:52 docs.google.com</li>
@@ -60113,7 +60123,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:59 analytics.google.com</li>
 <li class='same'> 15:56 analytics.google.com</li>
 <li> 15:53 equalitytime.github.io</li>
-<li class='same'> 15:37 equalitytime.github.io</li>
+<li> 15:52 127.0.0.1:4000</li>
+<li> 15:37 equalitytime.github.io</li>
 <li> 15:30 github.com</li>
 </ul>
 
@@ -60382,7 +60393,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:40 github.com</li>
+<ul><li> 11:42 mail.google.com</li>
+<li> 11:40 github.com</li>
 </ul>
 
 <br>
