@@ -79,13 +79,13 @@ With number of accesses/minutes in parentheses
 <li>github.com (930)</li>
 <li>m.facebook.com (787)</li>
 <li>www.reddit.com (773)</li>
-<li>www.linkedin.com (635)</li>
+<li>www.linkedin.com (636)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (544)</li>
 <li>gmail.com (514)</li>
 <li>tvtropes.org (496)</li>
-<li>en.m.wikipedia.org (458)</li>
+<li>en.m.wikipedia.org (459)</li>
 <li>teams.microsoft.com (387)</li>
 <li>drive.google.com (381)</li>
 <li>outlook.office365.com (359)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:18 www.facebook.com</li>
+<ul><li> 20:24 www.linkedin.com</li>
+<li> 20:23 www.oddschecker.com</li>
+<li> 20:23 www.natesilver.net</li>
+<li> 20:22 en.m.wikipedia.org</li>
+<li> 20:18 www.facebook.com</li>
 <li class='same'> 20:17 www.facebook.com</li>
 <li> 20:17 adblockplus.org</li>
 <li> 20:17 www.facebook.com</li>
