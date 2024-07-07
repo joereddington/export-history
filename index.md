@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6577)</li>
+<ol><li>www.google.com (6583)</li>
 <li>mail.google.com (4799)</li>
 <li>outlook.office.com (2297)</li>
-<li>www.facebook.com (1809)</li>
+<li>www.facebook.com (1810)</li>
 <li>docs.google.com (1502)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1051)</li>
 <li>www.amazon.co.uk (971)</li>
 <li>github.com (930)</li>
-<li>m.facebook.com (787)</li>
-<li>www.reddit.com (773)</li>
+<li>m.facebook.com (792)</li>
+<li>www.reddit.com (776)</li>
 <li>www.linkedin.com (636)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>whitewaterwriters.com (546)</li>
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 07/07/24</H3>
+
+<br>
+
+<ul><li> 21:31 m.facebook.com</li>
+<li> 21:21 www.theguardian.com</li>
+<li class='same'> 21:20 www.theguardian.com</li>
+<li class='same'> 21:11 www.theguardian.com</li>
+<li> 21:10 www.google.com</li>
+<li> 21:10 discussions.apple.com</li>
+<li class='same'> 21:08 discussions.apple.com</li>
+<li class='same'> 21:07 discussions.apple.com</li>
+<li> 21:07 www.google.com</li>
+<li> 21:07 www.reddit.com</li>
+<li> 21:07 www.google.com</li>
+<li> 21:07 www.reddit.com</li>
+<li> 21:06 www.google.com</li>
+<li> 21:06 www.reddit.com</li>
+<li> 21:06 www.google.com</li>
+<li> 21:04 m.facebook.com</li>
+<li class='same'> 21:00 m.facebook.com</li>
+<li class='same'> 20:59 m.facebook.com</li>
+<li class='same'> 20:58 m.facebook.com</li>
+</ul>
 
 <br>
 
@@ -154,11 +177,16 @@ With number of accesses/minutes in parentheses
 <li> 14:01 hellorayo.co.uk</li>
 <li> 14:01 www.google.com</li>
 <li> 14:01 www.facebook.com</li>
+<li> 13:45 <a href="https://en.wikipedia.org/wiki/British_Government_frontbench">British Government frontbench - Wikipedia</a></li>
+<li> 13:45 <a href="https://en.wikipedia.org/wiki/List_of_government_ministers_of_the_United_Kingdom">List of government ministers of the United Kingdom - Wikipedia</a></li>
+<li> 13:45 www.google.com</li>
+<li> 13:45 <a href="https://www.bbc.co.uk/news/articles/c0veg88g7jyo">Who's in Keir Starmer's new cabinet? - BBC News</a></li>
+<li> 13:44 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 11:56 www.facebook.com</li>
+<ul><li> 11:56 www.facebook.com</li>
 <li> 11:56 www.google.com</li>
 <li> 11:56 www.facebook.com</li>
 <li> 11:56 www.google.com</li>
@@ -180,7 +208,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:20 web.whatsapp.com</li>
+<ul><li> 10:31 www.facebook.com</li>
+<li> 10:20 web.whatsapp.com</li>
 </ul>
 
 <br>
