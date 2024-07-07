@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6569)</li>
+<ol><li>www.google.com (6577)</li>
 <li>mail.google.com (4799)</li>
 <li>outlook.office.com (2297)</li>
-<li>www.facebook.com (1805)</li>
+<li>www.facebook.com (1806)</li>
 <li>docs.google.com (1502)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1051)</li>
 <li>www.amazon.co.uk (971)</li>
 <li>github.com (930)</li>
-<li>m.facebook.com (782)</li>
+<li>m.facebook.com (787)</li>
 <li>www.reddit.com (773)</li>
 <li>www.linkedin.com (635)</li>
 <li>app.qbo.intuit.com (577)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:56 www.facebook.com</li>
+<ul><li> 16:01 m.facebook.com</li>
+<li class='same'> 15:59 m.facebook.com</li>
+<li> 15:58 www.natesilver.net</li>
+<li class='same'> 15:57 www.natesilver.net</li>
+<li> 15:55 reductress.com</li>
+<li> 15:55 shop.reductress.com</li>
+<li> 15:55 reductress.com</li>
+<li> 15:54 www.google.com</li>
+<li> 15:53 www.businessofapps.com</li>
+<li> 15:53 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:26 www.google.com</li>
+<li> 14:24 www.oddschecker.com</li>
+<li> 14:24 www.google.com</li>
+<li> 14:24 www.theguardian.com</li>
+<li> 14:24 www.google.com</li>
+<li> 14:24 www.spreadex.com</li>
+<li> 14:24 www.google.com</li>
+<li> 14:23 www.theguardian.com</li>
+<li class='same'> 14:19 www.theguardian.com</li>
+<li class='same'> 14:18 www.theguardian.com</li>
+<li class='same'> 14:16 www.theguardian.com</li>
+<li class='same'> 14:15 www.theguardian.com</li>
+<li class='same'> 14:14 www.theguardian.com</li>
+<li> 14:14 www.google.com</li>
+<li> 14:12 m.facebook.com</li>
+<li class='same'> 14:11 m.facebook.com</li>
+<li class='same'> 14:08 m.facebook.com</li>
+<li> 14:01 hellorayo.co.uk</li>
+<li> 14:01 www.google.com</li>
+<li> 14:01 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:56 www.facebook.com</li>
 <li> 11:56 www.google.com</li>
 <li> 11:56 www.facebook.com</li>
 <li> 11:56 www.google.com</li>
