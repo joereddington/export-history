@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6583)</li>
+<ol><li>www.google.com (6593)</li>
 <li>mail.google.com (4799)</li>
 <li>outlook.office.com (2297)</li>
 <li>www.facebook.com (1810)</li>
@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1054)</li>
 <li>www.amazon.co.uk (971)</li>
-<li>github.com (932)</li>
+<li>github.com (935)</li>
 <li>m.facebook.com (795)</li>
-<li>www.reddit.com (776)</li>
+<li>www.reddit.com (780)</li>
 <li>www.linkedin.com (636)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>whitewaterwriters.com (546)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:17 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<ul><li> 11:49 github.com</li>
+<li> 11:49 www.google.com</li>
+<li> 11:49 www.reddit.com</li>
+<li> 11:49 www.google.com</li>
+<li> 11:49 www.reddit.com</li>
+<li> 11:49 pypi.org</li>
+<li> 11:49 www.google.com</li>
+<li> 11:47 www.reddit.com</li>
+<li> 11:47 www.google.com</li>
+<li> 11:47 docs.libretro.com</li>
+<li> 11:47 www.retroarch.com</li>
+<li> 11:47 www.google.com</li>
+<li> 11:46 hackaday.com</li>
+<li> 11:46 www.google.com</li>
+<li class='same'> 11:45 www.google.com</li>
+<li> 11:44 tasvideos.org</li>
+<li> 11:44 www.google.com</li>
+<li> 11:44 github.com</li>
+<li class='same'> 11:43 github.com</li>
+<li> 11:42 donadigo.com</li>
+<li> 11:42 www.reddit.com</li>
+<li> 11:42 www.google.com</li>
+<li> 11:41 <a href="https://en.wikipedia.org/wiki/Retrode">Retrode - Wikipedia</a></li>
+<li> 11:41 www.google.com</li>
+<li> 11:37 <a href="https://joereddington.com/video/2024/06/10/bike.html">Cadence sensors in games | Joe Reddington</a></li>
+<li> 11:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 11:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:17 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 10:49 calendar.google.com</li>
 <li> 10:47 github.com</li>
 <li class='same'> 10:46 github.com</li>
