@@ -76,13 +76,13 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1060)</li>
 <li>www.amazon.co.uk (973)</li>
-<li>github.com (935)</li>
+<li>github.com (936)</li>
 <li>m.facebook.com (796)</li>
 <li>www.reddit.com (784)</li>
 <li>www.linkedin.com (636)</li>
 <li>app.qbo.intuit.com (579)</li>
 <li>whitewaterwriters.com (546)</li>
-<li>chat.openai.com (544)</li>
+<li>chat.openai.com (545)</li>
 <li>gmail.com (516)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (459)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:37 app.qbo.intuit.com</li>
+<ul><li> 15:43 chatgpt.com</li>
+<li> 15:43 chat.openai.com</li>
+<li> 15:41 github.com</li>
+<li> 15:37 qbo.intuit.com</li>
+<li> 15:37 app.qbo.intuit.com</li>
 <li> 15:37 accounts.intuit.com</li>
 <li> 15:37 qbo.intuit.com</li>
 <li> 15:37 app.qbo.intuit.com</li>
