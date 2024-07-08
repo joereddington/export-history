@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6610)</li>
+<ol><li>www.google.com (6611)</li>
 <li>mail.google.com (4799)</li>
 <li>outlook.office.com (2297)</li>
 <li>www.facebook.com (1811)</li>
-<li>docs.google.com (1504)</li>
+<li>docs.google.com (1505)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1057)</li>
-<li>www.amazon.co.uk (972)</li>
+<li>www.amazon.co.uk (973)</li>
 <li>github.com (935)</li>
 <li>m.facebook.com (796)</li>
-<li>www.reddit.com (783)</li>
+<li>www.reddit.com (784)</li>
 <li>www.linkedin.com (636)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>whitewaterwriters.com (546)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:45 www.picturecorrect.com</li>
+<ul><li> 13:58 docs.google.com</li>
+<li> 13:54 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 13:52 photo.stackexchange.com</li>
+<li> 13:52 www.google.com</li>
+<li> 13:51 www.amazon.co.uk</li>
+<li> 13:46 www.reddit.com</li>
+<li> 13:45 www.picturecorrect.com</li>
 <li> 13:45 www.google.com</li>
 <li> 13:35 <a href="https://en.wikipedia.org/wiki/Talk:British_Government_frontbench">Talk:British Government frontbench - Wikipedia</a></li>
 <li> 13:34 www.google.com</li>
