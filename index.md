@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1810)</li>
 <li>docs.google.com (1502)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1051)</li>
+<li>calendar.google.com (1052)</li>
 <li>www.amazon.co.uk (971)</li>
 <li>github.com (930)</li>
 <li>m.facebook.com (795)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (313)</li>
 <li>bsky.app (311)</li>
 <li>kdp.amazon.com (309)</li>
-<li>web.whatsapp.com (289)</li>
+<li>web.whatsapp.com (290)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (255)</li>
 <li>www.giantitp.com (242)</li>
@@ -104,7 +104,19 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 08/07/24</H3>
+
+<br>
+
+<ul><li> 09:39 calendar.google.com</li>
+<li> 09:38 web.whatsapp.com</li>
+</ul>
+
 <H3>Sunday, 07/07/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
