@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6611)</li>
-<li>mail.google.com (4799)</li>
+<li>mail.google.com (4800)</li>
 <li>outlook.office.com (2297)</li>
 <li>www.facebook.com (1811)</li>
-<li>docs.google.com (1506)</li>
+<li>docs.google.com (1512)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1057)</li>
 <li>www.amazon.co.uk (973)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (577)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (544)</li>
-<li>gmail.com (514)</li>
+<li>gmail.com (515)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (459)</li>
 <li>teams.microsoft.com (387)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:19 joereddington.github.io</li>
+<ul><li> 14:29 mail.google.com</li>
+<li> 14:29 gmail.com</li>
+<li> 14:25 docs.google.com</li>
+<li class='same'> 14:24 docs.google.com</li>
+<li class='same'> 14:23 docs.google.com</li>
+<li class='same'> 14:22 docs.google.com</li>
+<li class='same'> 14:21 docs.google.com</li>
+<li class='same'> 14:20 docs.google.com</li>
+<li> 14:19 joereddington.github.io</li>
 <li> 14:19 <a href="https://joereddington.com/diary/eqt.html"></a></li>
 <li> 14:19 <a href="http://joereddington.com/diary/eqt.html"></a></li>
 <li> 14:00 docs.google.com</li>
