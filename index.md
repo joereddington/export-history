@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6599)</li>
+<ol><li>www.google.com (6602)</li>
 <li>mail.google.com (4799)</li>
 <li>outlook.office.com (2297)</li>
 <li>www.facebook.com (1810)</li>
 <li>docs.google.com (1503)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1054)</li>
-<li>www.amazon.co.uk (971)</li>
+<li>calendar.google.com (1055)</li>
+<li>www.amazon.co.uk (972)</li>
 <li>github.com (935)</li>
 <li>m.facebook.com (795)</li>
-<li>www.reddit.com (780)</li>
+<li>www.reddit.com (781)</li>
 <li>www.linkedin.com (636)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>whitewaterwriters.com (546)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:07 <a href="https://joereddington.com/2024/03/12/half-marathon.html">Long Distance Running | Joe Reddington</a></li>
+<ul><li> 12:59 calendar.google.com</li>
+<li> 12:53 www.amazon.co.uk</li>
+<li> 12:53 ad.doubleclick.net</li>
+<li> 12:52 0.0.0.0:8000</li>
+<li> 12:51 127.0.0.1:4000</li>
+<li> 12:51 www.google.com</li>
+<li> 12:45 www.reddit.com</li>
+<li> 12:44 www.google.com</li>
+<li> 12:44 pbr.co.uk</li>
+<li class='same'> 12:22 pbr.co.uk</li>
+<li> 12:22 www.google.com</li>
+<li> 12:07 <a href="https://joereddington.com/2024/03/12/half-marathon.html">Long Distance Running | Joe Reddington</a></li>
 <li> 12:04 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 12:01 docs.google.com</li>
 <li> 12:00 dunstabledownschallenge.wordpress.com</li>
