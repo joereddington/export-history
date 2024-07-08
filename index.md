@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6602)</li>
+<ol><li>www.google.com (6603)</li>
 <li>mail.google.com (4799)</li>
 <li>outlook.office.com (2297)</li>
 <li>www.facebook.com (1810)</li>
 <li>docs.google.com (1503)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1055)</li>
+<li>calendar.google.com (1057)</li>
 <li>www.amazon.co.uk (972)</li>
 <li>github.com (935)</li>
 <li>m.facebook.com (795)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (255)</li>
 <li>www.giantitp.com (242)</li>
-<li>www.ebay.co.uk (239)</li>
+<li>www.ebay.co.uk (241)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:59 calendar.google.com</li>
+<ul><li> 13:09 <a href="https://en.wikipedia.org/wiki/List_of_government_ministers_of_the_United_Kingdom">List of government ministers of the United Kingdom - Wikipedia</a></li>
+<li> 13:09 www.google.com</li>
+<li> 13:09 www.ebay.co.uk</li>
+<li class='same'> 13:08 www.ebay.co.uk</li>
+<li> 13:07 www.instagram.com</li>
+<li class='same'> 13:06 www.instagram.com</li>
+<li class='same'> 13:05 www.instagram.com</li>
+<li class='same'> 13:04 www.instagram.com</li>
+<li class='same'> 13:03 www.instagram.com</li>
+<li> 13:02 calendar.google.com</li>
+<li class='same'> 13:01 calendar.google.com</li>
+<li class='same'> 12:59 calendar.google.com</li>
 <li> 12:53 www.amazon.co.uk</li>
 <li> 12:53 ad.doubleclick.net</li>
 <li> 12:52 0.0.0.0:8000</li>
