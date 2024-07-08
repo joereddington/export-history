@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1053)</li>
 <li>www.amazon.co.uk (971)</li>
-<li>github.com (930)</li>
+<li>github.com (932)</li>
 <li>m.facebook.com (795)</li>
 <li>www.reddit.com (776)</li>
 <li>www.linkedin.com (636)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 08/07/24</H3>
+
+<br>
+
+<ul><li> 10:47 github.com</li>
+<li class='same'> 10:46 github.com</li>
+<li> 10:42 claude.ai</li>
+</ul>
 
 <br>
 
