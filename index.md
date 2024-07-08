@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4799)</li>
 <li>outlook.office.com (2297)</li>
 <li>www.facebook.com (1811)</li>
-<li>docs.google.com (1505)</li>
+<li>docs.google.com (1506)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1057)</li>
 <li>www.amazon.co.uk (973)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:58 docs.google.com</li>
+<ul><li> 14:19 joereddington.github.io</li>
+<li> 14:19 <a href="https://joereddington.com/diary/eqt.html"></a></li>
+<li> 14:19 <a href="http://joereddington.com/diary/eqt.html"></a></li>
+<li> 14:00 docs.google.com</li>
+<li class='same'> 13:58 docs.google.com</li>
 <li> 13:54 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 13:52 photo.stackexchange.com</li>
 <li> 13:52 www.google.com</li>
