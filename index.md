@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6611)</li>
+<ol><li>www.google.com (6610)</li>
 <li>mail.google.com (4803)</li>
 <li>outlook.office.com (2301)</li>
-<li>www.facebook.com (1812)</li>
-<li>docs.google.com (1515)</li>
+<li>www.facebook.com (1814)</li>
+<li>docs.google.com (1517)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1060)</li>
-<li>www.amazon.co.uk (973)</li>
+<li>www.amazon.co.uk (972)</li>
 <li>github.com (936)</li>
 <li>m.facebook.com (796)</li>
 <li>www.reddit.com (784)</li>
@@ -87,12 +87,12 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (459)</li>
 <li>teams.microsoft.com (387)</li>
-<li>drive.google.com (385)</li>
+<li>drive.google.com (386)</li>
 <li>outlook.office365.com (360)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>login.microsoftonline.com (314)</li>
 <li>bsky.app (311)</li>
-<li>kdp.amazon.com (309)</li>
+<li>kdp.amazon.com (310)</li>
 <li>web.whatsapp.com (290)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (255)</li>
@@ -104,7 +104,27 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 09/07/24</H3>
+
+<br>
+
+<ul><li> 06:59 librarysearch.royalholloway.ac.uk</li>
+<li> 06:59 www.google.com</li>
+<li> 06:55 docs.google.com</li>
+<li class='same'> 06:53 docs.google.com</li>
+<li> 06:53 drive.google.com</li>
+<li> 06:52 kars-generated-reports-prod-530320105507-us-east-1.s3.amazonaws.com</li>
+<li> 06:51 kdpreports.amazon.com</li>
+<li> 06:51 kdp.amazon.com</li>
+<li> 06:49 www.facebook.com</li>
+<li class='same'> 06:46 www.facebook.com</li>
+</ul>
+
 <H3>Monday, 08/07/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -18181,8 +18201,6 @@ With number of accesses/minutes in parentheses
 <li> 10:37 www.google.com</li>
 <li> 10:36 mail.google.com</li>
 <li> 10:36 www.evri.com</li>
-<li> 10:36 www.google.com</li>
-<li> 10:36 www.evri.com</li>
 <li> 10:36 jgctjqdn.r.eu-west-1.awstrack.me</li>
 <li> 10:36 mail.google.com</li>
 <li class='same'> 10:35 mail.google.com</li>
@@ -18197,7 +18215,6 @@ With number of accesses/minutes in parentheses
 <li> 10:31 gmail.com</li>
 <li> 10:27 <a href="https://en.wikipedia.org/wiki/Trilithon">Trilithon - Wikipedia</a></li>
 <li> 10:26 <a href="https://en.wikipedia.org/wiki/Cecil_Chubb">Cecil Chubb - Wikipedia</a></li>
-<li> 10:26 www.google.com</li>
 <li> 10:26 <a href="https://en.wikipedia.org/wiki/Chubb_Limited">Chubb Limited - Wikipedia</a></li>
 <li> 10:26 www.google.com</li>
 <li> 10:17 <a href="https://www.youtube.com/">(51) YouTube</a></li>
@@ -18233,8 +18250,6 @@ With number of accesses/minutes in parentheses
 <li> 09:39 mkmarathon.com</li>
 <li> 09:39 www.marathonrunnersdiary.com</li>
 <li> 09:17 www.amazon.co.uk</li>
-<li> 09:17 www.googleadservices.com</li>
-<li> 09:17 www.amazon.co.uk</li>
 <li> 09:17 www.google.com</li>
 <li> 09:16 www.amazon.co.uk</li>
 <li> 09:16 www.ebay.co.uk</li>
@@ -18261,8 +18276,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:00 www.google.com</li>
 <li class='same'> 08:59 www.google.com</li>
 <li class='same'> 08:58 www.google.com</li>
-<li> 08:58 maps.google.com</li>
-<li> 08:57 www.google.com</li>
+<li class='same'> 08:57 www.google.com</li>
 <li> 08:57 wormwoodiana.blogspot.com</li>
 <li> 08:57 www.google.com</li>
 <li class='same'> 08:56 www.google.com</li>
