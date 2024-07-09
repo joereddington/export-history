@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (936)</li>
 <li>m.facebook.com (796)</li>
 <li>www.reddit.com (784)</li>
-<li>www.linkedin.com (636)</li>
+<li>www.linkedin.com (640)</li>
 <li>app.qbo.intuit.com (579)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (545)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:59 librarysearch.royalholloway.ac.uk</li>
+<ul><li> 07:04 lnkd.in</li>
+<li> 07:03 www.linkedin.com</li>
+<li> 07:02 lnkd.in</li>
+<li> 07:02 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 07:02 www.linkedin.com</li>
+<li class='same'> 07:01 www.linkedin.com</li>
+<li class='same'> 07:00 www.linkedin.com</li>
+<li> 07:00 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 06:59 librarysearch.royalholloway.ac.uk</li>
 <li> 06:59 www.google.com</li>
 <li> 06:55 docs.google.com</li>
 <li class='same'> 06:53 docs.google.com</li>
