@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (936)</li>
 <li>m.facebook.com (796)</li>
 <li>www.reddit.com (784)</li>
-<li>www.linkedin.com (643)</li>
+<li>www.linkedin.com (646)</li>
 <li>app.qbo.intuit.com (579)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (545)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (314)</li>
 <li>bsky.app (311)</li>
 <li>kdp.amazon.com (310)</li>
-<li>web.whatsapp.com (290)</li>
+<li>web.whatsapp.com (291)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (255)</li>
 <li>www.giantitp.com (242)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:16 www.linkedin.com</li>
+<ul><li> 07:27 www.linkedin.com</li>
+<li> 07:26 web.whatsapp.com</li>
+<li> 07:25 www.linkedin.com</li>
+<li class='same'> 07:24 www.linkedin.com</li>
+<li class='same'> 07:16 www.linkedin.com</li>
 <li> 07:16 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li> 07:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:12 www.linkedin.com</li>
