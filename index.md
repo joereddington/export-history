@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6616)</li>
-<li>mail.google.com (4844)</li>
-<li>outlook.office.com (2312)</li>
-<li>www.facebook.com (1829)</li>
+<ol><li>www.google.com (6623)</li>
+<li>mail.google.com (4846)</li>
+<li>outlook.office.com (2329)</li>
+<li>www.facebook.com (1838)</li>
 <li>docs.google.com (1529)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1063)</li>
+<li>calendar.google.com (1064)</li>
 <li>www.amazon.co.uk (976)</li>
-<li>github.com (939)</li>
+<li>github.com (940)</li>
 <li>m.facebook.com (797)</li>
 <li>www.reddit.com (784)</li>
-<li>www.linkedin.com (654)</li>
+<li>www.linkedin.com (655)</li>
 <li>whitewaterwriters.com (548)</li>
 <li>chat.openai.com (547)</li>
 <li>app.qbo.intuit.com (530)</li>
 <li>gmail.com (520)</li>
-<li>tvtropes.org (496)</li>
+<li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (459)</li>
 <li>drive.google.com (387)</li>
 <li>teams.microsoft.com (387)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (318)</li>
 <li>bsky.app (311)</li>
 <li>kdp.amazon.com (310)</li>
-<li>web.whatsapp.com (295)</li>
+<li>web.whatsapp.com (297)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (257)</li>
 <li>www.giantitp.com (242)</li>
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 dashboards.rhul.ac.uk</li>
+<ul><li> 16:07 www.facebook.com</li>
+<li class='same'> 16:06 www.facebook.com</li>
+<li class='same'> 16:05 www.facebook.com</li>
+<li> 16:04 tvtropes.org</li>
+<li class='same'> 16:00 tvtropes.org</li>
+<li> 16:00 www.google.com</li>
+<li> 15:59 <a href="https://en.wikipedia.org/wiki/Lever#Classes_of_levers">Lever - Wikipedia</a></li>
+<li> 15:59 <a href="https://en.wikipedia.org/wiki/Crowbar">Crowbar - Wikipedia</a></li>
+<li> 15:59 www.google.com</li>
+<li> 15:58 www.facebook.com</li>
+<li> 15:58 outlook.office.com</li>
+<li> 15:58 www.google.com</li>
+<li> 15:56 outlook.office.com</li>
+<li> 15:54 www.facebook.com</li>
+<li class='same'> 15:50 www.facebook.com</li>
+<li> 15:49 www.google.com</li>
+<li> 15:47 outlook.office.com</li>
+<li class='same'> 15:46 outlook.office.com</li>
+<li class='same'> 15:45 outlook.office.com</li>
+<li class='same'> 15:44 outlook.office.com</li>
+<li class='same'> 15:42 outlook.office.com</li>
+<li class='same'> 15:41 outlook.office.com</li>
+<li class='same'> 15:40 outlook.office.com</li>
+<li> 15:40 www.facebook.com</li>
+<li> 15:40 web.whatsapp.com</li>
+<li> 15:39 www.facebook.com</li>
+<li class='same'> 15:37 www.facebook.com</li>
+<li> 15:34 outlook.office.com</li>
+<li class='same'> 15:33 outlook.office.com</li>
+<li> 15:32 www.google.com</li>
+<li> 15:31 outlook.office.com</li>
+<li class='same'> 15:30 outlook.office.com</li>
+<li> 15:29 www.linkedin.com</li>
+<li> 15:29 www.google.com</li>
+<li> 15:28 pure.royalholloway.ac.uk</li>
+<li> 15:28 www.google.com</li>
+<li> 15:26 github.com</li>
+<li> 15:25 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 15:25 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 15:20 outlook.office.com</li>
+<li class='same'> 15:18 outlook.office.com</li>
+<li> 15:15 web.whatsapp.com</li>
+<li> 15:15 outlook.office.com</li>
+<li class='same'> 15:13 outlook.office.com</li>
+<li> 15:13 calendar.google.com</li>
+<li> 15:13 mail.google.com</li>
+<li class='same'> 15:11 mail.google.com</li>
+<li> 14:59 dashboards.rhul.ac.uk</li>
 <li> 14:58 outlook.office.com</li>
 <li> 14:57 events.teams.microsoft.com</li>
 <li> 14:57 login.microsoftonline.com</li>
