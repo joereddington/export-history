@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6602)</li>
-<li>mail.google.com (4803)</li>
+<ol><li>www.google.com (6604)</li>
+<li>mail.google.com (4806)</li>
 <li>outlook.office.com (2304)</li>
 <li>www.facebook.com (1814)</li>
-<li>docs.google.com (1518)</li>
+<li>docs.google.com (1523)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>calendar.google.com (1058)</li>
 <li>www.amazon.co.uk (972)</li>
@@ -83,11 +83,11 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (579)</li>
 <li>whitewaterwriters.com (546)</li>
 <li>chat.openai.com (546)</li>
-<li>gmail.com (516)</li>
+<li>gmail.com (518)</li>
 <li>tvtropes.org (496)</li>
 <li>en.m.wikipedia.org (459)</li>
+<li>drive.google.com (387)</li>
 <li>teams.microsoft.com (387)</li>
-<li>drive.google.com (386)</li>
 <li>outlook.office365.com (361)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>login.microsoftonline.com (314)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (310)</li>
 <li>web.whatsapp.com (292)</li>
 <li>rhul.sharepoint.com (265)</li>
-<li>Local file (255)</li>
+<li>Local file (257)</li>
 <li>www.giantitp.com (242)</li>
 <li>www.ebay.co.uk (240)</li>
 
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 10/07/24</H3>
+
+<br>
+
+<ul><li> 13:59 mail.google.com</li>
+<li> 13:59 gmail.com</li>
+<li> 13:59 mail.google.com</li>
+<li> 13:58 Local file</li>
+<li> 13:58 doc-04-04-docstext.googleusercontent.com</li>
+<li class='same'> 13:56 doc-04-04-docstext.googleusercontent.com</li>
+<li> 13:56 Local file</li>
+<li> 13:56 docs.google.com</li>
+<li class='same'> 13:55 docs.google.com</li>
+<li class='same'> 13:53 docs.google.com</li>
+<li> 13:53 find-and-update.company-information.service.gov.uk</li>
+<li> 13:53 www.google.com</li>
+<li> 13:52 www.yourstorypr.com</li>
+<li> 13:52 www.google.com</li>
+<li> 13:51 docs.google.com</li>
+<li class='same'> 13:50 docs.google.com</li>
+<li> 13:50 drive.google.com</li>
+<li> 13:48 mail.google.com</li>
+<li> 13:48 gmail.com</li>
+</ul>
 
 <br>
 
