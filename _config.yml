@@ -42,3 +42,6 @@ seo:
 sitemap:
   changefreq: weekly
   priority: 0.5
+
+exclude:
+  - pre.md
