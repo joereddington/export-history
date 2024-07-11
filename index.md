@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6621)</li>
+<ol><li>www.google.com (6627)</li>
 <li>mail.google.com (4849)</li>
-<li>outlook.office.com (2348)</li>
-<li>www.facebook.com (1843)</li>
+<li>outlook.office.com (2350)</li>
+<li>www.facebook.com (1845)</li>
 <li>docs.google.com (1529)</li>
 <li>moodle.royalholloway.ac.uk (1071)</li>
-<li>calendar.google.com (1065)</li>
+<li>calendar.google.com (1066)</li>
 <li>www.amazon.co.uk (976)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (797)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:21 outlook.office.com</li>
+<ul><li> 12:10 chatgpt.com</li>
+<li> 12:10 auth0.openai.com</li>
+<li> 12:10 auth.openai.com</li>
+<li> 12:10 chatgpt.com</li>
+<li> 12:03 <a href="https://en.wikipedia.org/wiki/Luhansk">Luhansk - Wikipedia</a></li>
+<li> 12:02 <a href="https://en.wikipedia.org/wiki/East_Ukrainian_National_University">East Ukrainian National University - Wikipedia</a></li>
+<li> 12:02 www.google.com</li>
+<li class='same'> 12:01 www.google.com</li>
+<li> 12:01 outlook.office.com</li>
+<li> 11:59 <a href="https://en.wikipedia.org/wiki/Leo_Tolstoy">Leo Tolstoy - Wikipedia</a></li>
+<li> 11:59 www.google.com</li>
+<li> 11:57 pure.royalholloway.ac.uk</li>
+<li> 11:57 royalholloway.ac.uk</li>
+<li> 11:57 www.royalholloway.ac.uk</li>
+<li> 11:57 www.google.com</li>
+<li class='same'> 11:56 www.google.com</li>
+<li> 11:55 calendar.google.com</li>
+<li> 11:54 claude.ai</li>
+<li> 11:29 outlook.office.com</li>
+<li> 11:29 www.facebook.com</li>
+<li> 11:29 www.lutonjudo.co.uk</li>
+<li class='same'> 11:28 www.lutonjudo.co.uk</li>
+<li> 11:28 l.facebook.com</li>
+<li> 11:28 www.facebook.com</li>
+<li> 11:28 lutonjudo.clubeo.com</li>
+<li> 11:28 www.google.com</li>
+<li> 11:21 outlook.office.com</li>
 <li class='same'> 11:09 outlook.office.com</li>
 <li> 11:02 claude.ai</li>
 <li class='same'> 10:59 claude.ai</li>
