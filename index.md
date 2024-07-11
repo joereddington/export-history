@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6627)</li>
+<ol><li>www.google.com (6630)</li>
 <li>mail.google.com (4849)</li>
-<li>outlook.office.com (2351)</li>
-<li>www.facebook.com (1845)</li>
+<li>outlook.office.com (2354)</li>
+<li>www.facebook.com (1849)</li>
 <li>docs.google.com (1529)</li>
 <li>moodle.royalholloway.ac.uk (1071)</li>
-<li>calendar.google.com (1066)</li>
+<li>calendar.google.com (1068)</li>
 <li>www.amazon.co.uk (976)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (797)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:31 outlook.office.com</li>
+<ul><li> 16:10 www.google.com</li>
+<li> 16:07 projects.cs.rhul.ac.uk</li>
+<li> 16:06 gitlab.cim.rhul.ac.uk</li>
+<li> 16:06 docs.gitlab.com</li>
+<li> 16:05 www.google.com</li>
+<li> 16:05 outlook.office.com</li>
+<li class='same'> 16:04 outlook.office.com</li>
+<li> 16:01 claude.ai</li>
+<li> 16:00 outlook.office.com</li>
+<li> 15:44 www.facebook.com</li>
+<li class='same'> 15:43 www.facebook.com</li>
+<li> 15:43 www.google.com</li>
+<li> 15:42 www.facebook.com</li>
+<li> 15:42 calendar.google.com</li>
+<li> 15:42 www.facebook.com</li>
+<li> 15:41 calendar.google.com</li>
+<li> 15:31 outlook.office.com</li>
 <li> 15:31 claude.ai</li>
 <li class='same'> 15:28 claude.ai</li>
 </ul>
