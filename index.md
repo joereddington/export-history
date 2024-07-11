@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6623)</li>
+<ol><li>www.google.com (6619)</li>
 <li>mail.google.com (4848)</li>
 <li>outlook.office.com (2330)</li>
 <li>www.facebook.com (1842)</li>
 <li>docs.google.com (1529)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>calendar.google.com (1064)</li>
+<li>calendar.google.com (1065)</li>
 <li>www.amazon.co.uk (976)</li>
 <li>github.com (940)</li>
 <li>m.facebook.com (797)</li>
@@ -87,10 +87,10 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (459)</li>
 <li>drive.google.com (387)</li>
-<li>teams.microsoft.com (387)</li>
+<li>teams.microsoft.com (386)</li>
 <li>outlook.office365.com (361)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>login.microsoftonline.com (319)</li>
+<li>login.microsoftonline.com (318)</li>
 <li>bsky.app (311)</li>
 <li>kdp.amazon.com (310)</li>
 <li>web.whatsapp.com (297)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 11/07/24</H3>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Wednesday, 10/07/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -17543,7 +17554,6 @@ With number of accesses/minutes in parentheses
 <li> 10:40 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:39 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:38 moodle.royalholloway.ac.uk</li>
-<li> 10:38 mysignins.microsoft.com</li>
 <li> 10:38 account.activedirectory.windowsazure.com</li>
 <li> 10:38 login.microsoftonline.com</li>
 <li> 10:38 account.activedirectory.windowsazure.com</li>
@@ -17595,8 +17605,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:45 www.tax.service.gov.uk</li>
 <li class='same'> 09:44 www.tax.service.gov.uk</li>
 <li> 09:44 Local file</li>
-<li> 09:44 www.tax.service.gov.uk</li>
-<li class='same'> 09:43 www.tax.service.gov.uk</li>
+<li> 09:43 www.tax.service.gov.uk</li>
 <li class='same'> 09:41 www.tax.service.gov.uk</li>
 <li class='same'> 09:39 www.tax.service.gov.uk</li>
 <li> 09:39 www.access.service.gov.uk</li>
@@ -17608,7 +17617,6 @@ With number of accesses/minutes in parentheses
 <li> 09:36 www.access.service.gov.uk</li>
 <li> 09:36 www.gov.uk</li>
 <li> 09:36 find-and-update.company-information.service.gov.uk</li>
-<li> 09:36 beta.companieshouse.gov.uk</li>
 <li> 09:35 www.gov.uk</li>
 <li> 09:35 www.google.com</li>
 <li> 09:35 www.access.service.gov.uk</li>
@@ -17621,12 +17629,10 @@ With number of accesses/minutes in parentheses
 <li> 09:29 my-charity-account.charitycommission.gov.uk</li>
 <li class='same'> 09:28 my-charity-account.charitycommission.gov.uk</li>
 <li> 09:28 Local file</li>
-<li> 09:28 doc-0o-04-docstext.googleusercontent.com</li>
 <li> 09:28 docs.google.com</li>
 <li> 09:27 my-charity-account.charitycommission.gov.uk</li>
 <li class='same'> 09:26 my-charity-account.charitycommission.gov.uk</li>
 <li> 09:26 www.gov.uk</li>
-<li> 09:25 my-charity-account.charitycommission.gov.uk</li>
 <li> 09:24 onlinedbschecks.co.uk</li>
 <li> 09:24 www.google.com</li>
 <li> 09:23 my-charity-account.charitycommission.gov.uk</li>
@@ -17661,14 +17667,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:06 my-charity-account.charitycommission.gov.uk</li>
 <li class='same'> 09:05 my-charity-account.charitycommission.gov.uk</li>
 <li> 09:05 docs.google.com</li>
-<li> 09:04 my-charity-account.charitycommission.gov.uk</li>
-<li class='same'> 09:03 my-charity-account.charitycommission.gov.uk</li>
+<li> 09:03 my-charity-account.charitycommission.gov.uk</li>
 <li> 09:03 mail.google.com</li>
 <li> 09:03 my-charity-account.charitycommission.gov.uk</li>
 <li> 09:03 mail.google.com</li>
 <li> 09:03 gmail.com</li>
-<li> 09:03 my-charity-account.charitycommission.gov.uk</li>
-<li class='same'> 09:02 my-charity-account.charitycommission.gov.uk</li>
+<li> 09:02 my-charity-account.charitycommission.gov.uk</li>
 <li> 09:02 www.gov.uk</li>
 <li> 09:02 www.google.com</li>
 <li> 09:02 docs.google.com</li>
@@ -17678,7 +17682,6 @@ With number of accesses/minutes in parentheses
 <li> 08:57 www.google.com</li>
 <li> 08:57 equalitytime.github.io</li>
 <li> 08:55 www.google.com</li>
-<li> 08:51 mysignins.microsoft.com</li>
 <li> 08:51 account.activedirectory.windowsazure.com</li>
 <li> 08:51 login.microsoftonline.com</li>
 <li> 08:51 account.activedirectory.windowsazure.com</li>
@@ -17689,19 +17692,16 @@ With number of accesses/minutes in parentheses
 <li> 08:49 www.royalholloway.ac.uk</li>
 <li> 08:49 www.google.com</li>
 <li> 08:49 www.cisi.org</li>
-<li> 08:49 www.myfundingcentral.co.uk</li>
-<li class='same'> 08:48 www.myfundingcentral.co.uk</li>
+<li> 08:48 www.myfundingcentral.co.uk</li>
 <li class='same'> 08:47 www.myfundingcentral.co.uk</li>
 <li class='same'> 08:46 www.myfundingcentral.co.uk</li>
 <li> 08:43 theopenvoicefactory.org</li>
 <li> 08:42 lifehacker.com</li>
 <li> 08:42 www.google.com</li>
-<li> 08:41 raw.githubusercontent.com</li>
 <li> 08:41 theopenvoicefactory.org</li>
 <li> 08:38 www.giantitp.com</li>
 <li class='same'> 08:37 www.giantitp.com</li>
 <li class='same'> 08:36 www.giantitp.com</li>
-<li> 08:35 accounts.ebay.co.uk</li>
 <li> 08:35 www.ebay.co.uk</li>
 <li> 08:35 signin.ebay.co.uk</li>
 <li> 08:35 www.ebay.co.uk</li>
@@ -17711,18 +17711,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:34 www.amazon.co.uk</li>
 <li> 08:34 parcelcompare.com</li>
 <li class='same'> 08:33 parcelcompare.com</li>
-<li> 08:33 www.google.com</li>
-<li> 08:33 parcelcompare.com</li>
 <li> 08:33 mandrillapp.com</li>
 <li> 08:33 parcelhero.zendesk.com</li>
 <li> 08:33 support.parcelcompare.com</li>
 <li class='same'> 08:32 support.parcelcompare.com</li>
-<li> 08:32 www.google.com</li>
 <li> 08:32 mandrillapp.com</li>
-<li> 08:32 api.parcel.vision</li>
 <li> 08:32 Local file</li>
 <li> 08:32 parcelcompare.com</li>
-<li> 08:32 www.google.com</li>
 <li> 08:32 mandrillapp.com</li>
 <li> 08:32 mail.google.com</li>
 <li class='same'> 08:31 mail.google.com</li>
@@ -17987,8 +17982,6 @@ With number of accesses/minutes in parentheses
 <li> 10:16 rhul.hosted.panopto.com</li>
 <li class='same'> 10:15 rhul.hosted.panopto.com</li>
 <li> 10:14 teams.microsoft.com</li>
-<li> 10:14 login.microsoftonline.com</li>
-<li> 10:14 teams.microsoft.com</li>
 <li> 10:14 rhul.hosted.panopto.com</li>
 <li class='same'> 10:13 rhul.hosted.panopto.com</li>
 <li class='same'> 10:12 rhul.hosted.panopto.com</li>
@@ -18019,7 +18012,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:36 outlook.office.com</li>
 <li> 09:17 mail.google.com</li>
 <li> 09:15 docs.google.com</li>
-<li> 09:15 www.google.com</li>
 <li> 09:15 mail.google.com</li>
 <li> 09:15 drive.google.com</li>
 <li> 09:10 www.google.com</li>
@@ -18039,10 +18031,8 @@ With number of accesses/minutes in parentheses
 <li> 08:30 www.dropbox.com</li>
 <li> 08:29 contacts.google.com</li>
 <li> 08:29 www.google.com</li>
-<li> 08:22 mail-attachment.googleusercontent.com</li>
 <li> 08:22 mail.google.com</li>
 <li> 08:22 Local file</li>
-<li> 08:22 mail-attachment.googleusercontent.com</li>
 <li> 08:22 mail.google.com</li>
 <li class='same'> 08:21 mail.google.com</li>
 <li class='same'> 08:19 mail.google.com</li>
