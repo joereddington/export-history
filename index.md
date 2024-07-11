@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6627)</li>
 <li>mail.google.com (4849)</li>
-<li>outlook.office.com (2350)</li>
+<li>outlook.office.com (2351)</li>
 <li>www.facebook.com (1845)</li>
 <li>docs.google.com (1529)</li>
 <li>moodle.royalholloway.ac.uk (1071)</li>
@@ -80,8 +80,8 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (797)</li>
 <li>www.reddit.com (784)</li>
 <li>www.linkedin.com (657)</li>
+<li>chat.openai.com (550)</li>
 <li>whitewaterwriters.com (548)</li>
-<li>chat.openai.com (548)</li>
 <li>app.qbo.intuit.com (530)</li>
 <li>gmail.com (521)</li>
 <li>tvtropes.org (498)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:10 chatgpt.com</li>
+<ul><li> 15:31 outlook.office.com</li>
+<li> 15:31 claude.ai</li>
+<li class='same'> 15:28 claude.ai</li>
+</ul>
+
+<br>
+
+<ul><li> 12:28 chatgpt.com</li>
+<li> 12:27 claude.ai</li>
+<li> 12:27 chatgpt.com</li>
+<li> 12:27 chat.openai.com</li>
+<li> 12:27 claude.ai</li>
+<li> 12:10 chatgpt.com</li>
 <li> 12:10 auth0.openai.com</li>
 <li> 12:10 auth.openai.com</li>
 <li> 12:10 chatgpt.com</li>
@@ -5347,6 +5359,7 @@ With number of accesses/minutes in parentheses
 <li> 15:53 outlook.office.com</li>
 <li> 15:51 www.theguardian.com</li>
 <li> 15:49 chatgpt.com</li>
+<li> 15:49 chat.openai.com</li>
 <li> 15:43 <a href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing - Wikipedia</a></li>
 <li> 15:43 www.google.com</li>
 <li> 15:42 www.facebook.com</li>
