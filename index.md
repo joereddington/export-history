@@ -70,16 +70,16 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6630)</li>
 <li>mail.google.com (4849)</li>
-<li>outlook.office.com (2354)</li>
-<li>www.facebook.com (1849)</li>
+<li>outlook.office.com (2358)</li>
+<li>www.facebook.com (1850)</li>
 <li>docs.google.com (1529)</li>
 <li>moodle.royalholloway.ac.uk (1071)</li>
-<li>calendar.google.com (1068)</li>
+<li>calendar.google.com (1069)</li>
 <li>www.amazon.co.uk (976)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (797)</li>
 <li>www.reddit.com (784)</li>
-<li>www.linkedin.com (657)</li>
+<li>www.linkedin.com (658)</li>
 <li>chat.openai.com (550)</li>
 <li>whitewaterwriters.com (548)</li>
 <li>app.qbo.intuit.com (530)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:10 www.google.com</li>
+<ul><li> 18:43 www.linkedin.com</li>
+<li> 18:41 www.facebook.com</li>
+<li> 18:36 calendar.google.com</li>
+<li> 18:34 www.airbnb.co.uk</li>
+<li class='same'> 18:28 www.airbnb.co.uk</li>
+<li class='same'> 18:27 www.airbnb.co.uk</li>
+<li class='same'> 18:26 www.airbnb.co.uk</li>
+<li class='same'> 18:25 www.airbnb.co.uk</li>
+<li class='same'> 18:24 www.airbnb.co.uk</li>
+<li class='same'> 18:23 www.airbnb.co.uk</li>
+<li class='same'> 18:22 www.airbnb.co.uk</li>
+<li class='same'> 18:21 www.airbnb.co.uk</li>
+<li class='same'> 18:20 www.airbnb.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 16:14 outlook.office.com</li>
+<li class='same'> 16:13 outlook.office.com</li>
+<li class='same'> 16:12 outlook.office.com</li>
+<li class='same'> 16:11 outlook.office.com</li>
+<li> 16:11 gitlab.cim.rhul.ac.uk</li>
+<li> 16:11 projects.cs.rhul.ac.uk</li>
+<li> 16:10 www.google.com</li>
 <li> 16:07 projects.cs.rhul.ac.uk</li>
 <li> 16:06 gitlab.cim.rhul.ac.uk</li>
 <li> 16:06 docs.gitlab.com</li>
