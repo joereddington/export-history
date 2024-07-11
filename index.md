@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6630)</li>
+<ol><li>www.google.com (6632)</li>
 <li>mail.google.com (4849)</li>
 <li>outlook.office.com (2358)</li>
 <li>www.facebook.com (1850)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (941)</li>
 <li>m.facebook.com (797)</li>
 <li>www.reddit.com (784)</li>
-<li>www.linkedin.com (658)</li>
+<li>www.linkedin.com (659)</li>
 <li>chat.openai.com (550)</li>
 <li>whitewaterwriters.com (548)</li>
 <li>app.qbo.intuit.com (530)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (320)</li>
 <li>bsky.app (311)</li>
 <li>kdp.amazon.com (310)</li>
-<li>web.whatsapp.com (298)</li>
+<li>web.whatsapp.com (299)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (257)</li>
 <li>www.giantitp.com (242)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:43 www.linkedin.com</li>
+<ul><li> 18:57 www.linkedin.com</li>
+<li> 18:50 www.google.com</li>
+<li> 18:49 forums.digitalspy.com</li>
+<li> 18:49 www.google.com</li>
+<li> 18:46 doodle.com</li>
+<li class='same'> 18:45 doodle.com</li>
+<li> 18:44 web.whatsapp.com</li>
+<li> 18:43 www.linkedin.com</li>
 <li> 18:41 www.facebook.com</li>
 <li> 18:36 calendar.google.com</li>
 <li> 18:34 www.airbnb.co.uk</li>
