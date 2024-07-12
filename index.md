@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (941)</li>
 <li>m.facebook.com (805)</li>
 <li>www.reddit.com (784)</li>
-<li>www.linkedin.com (659)</li>
+<li>www.linkedin.com (661)</li>
 <li>chat.openai.com (550)</li>
 <li>whitewaterwriters.com (548)</li>
 <li>app.qbo.intuit.com (530)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (321)</li>
 <li>bsky.app (311)</li>
 <li>kdp.amazon.com (310)</li>
-<li>web.whatsapp.com (299)</li>
+<li>web.whatsapp.com (300)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (257)</li>
 <li>www.ebay.co.uk (245)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:30 www.facebook.com</li>
+<ul><li> 15:44 www.whatdotheyknow.com</li>
+<li class='same'> 15:42 www.whatdotheyknow.com</li>
+<li class='same'> 15:41 www.whatdotheyknow.com</li>
+<li> 15:41 whatdotheyknow.com</li>
+<li> 15:40 www.linkedin.com</li>
+<li class='same'> 15:39 www.linkedin.com</li>
+<li> 15:39 web.whatsapp.com</li>
+<li> 15:30 www.facebook.com</li>
 <li class='same'> 15:29 www.facebook.com</li>
 <li class='same'> 15:28 www.facebook.com</li>
 <li class='same'> 15:27 www.facebook.com</li>
