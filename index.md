@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6629)</li>
-<li>mail.google.com (4850)</li>
+<ol><li>www.google.com (6632)</li>
+<li>mail.google.com (4856)</li>
 <li>outlook.office.com (2363)</li>
-<li>www.facebook.com (1856)</li>
+<li>www.facebook.com (1879)</li>
 <li>docs.google.com (1530)</li>
 <li>calendar.google.com (1073)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (976)</li>
+<li>www.amazon.co.uk (978)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (805)</li>
 <li>www.reddit.com (784)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (550)</li>
 <li>whitewaterwriters.com (548)</li>
 <li>app.qbo.intuit.com (530)</li>
-<li>gmail.com (521)</li>
+<li>gmail.com (524)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (466)</li>
 <li>drive.google.com (387)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (299)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (257)</li>
+<li>www.ebay.co.uk (245)</li>
 <li>www.giantitp.com (242)</li>
-<li>www.ebay.co.uk (241)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,52 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:50 www.facebook.com</li>
+<ul><li> 15:30 www.facebook.com</li>
+<li class='same'> 15:29 www.facebook.com</li>
+<li class='same'> 15:28 www.facebook.com</li>
+<li class='same'> 15:27 www.facebook.com</li>
+<li class='same'> 15:26 www.facebook.com</li>
+<li class='same'> 15:25 www.facebook.com</li>
+<li class='same'> 15:24 www.facebook.com</li>
+<li class='same'> 15:23 www.facebook.com</li>
+<li class='same'> 15:22 www.facebook.com</li>
+<li class='same'> 15:21 www.facebook.com</li>
+<li class='same'> 15:19 www.facebook.com</li>
+<li class='same'> 15:18 www.facebook.com</li>
+<li class='same'> 15:17 www.facebook.com</li>
+<li class='same'> 15:16 www.facebook.com</li>
+<li class='same'> 15:15 www.facebook.com</li>
+<li class='same'> 15:14 www.facebook.com</li>
+<li class='same'> 15:13 www.facebook.com</li>
+<li class='same'> 15:12 www.facebook.com</li>
+<li class='same'> 15:11 www.facebook.com</li>
+<li> 15:11 mail.google.com</li>
+<li> 14:51 www.google.com</li>
+<li> 14:51 www.fenews.co.uk</li>
+<li> 14:51 mail.google.com</li>
+<li class='same'> 14:50 mail.google.com</li>
+<li> 14:50 gmail.com</li>
+<li> 14:39 mail.google.com</li>
+<li class='same'> 14:37 mail.google.com</li>
+<li> 14:37 gmail.com</li>
+<li> 14:36 uofglasgow.zoom.us</li>
+<li> 14:35 meet.google.com</li>
+<li> 14:34 www.google.com</li>
+<li> 14:16 www.facebook.com</li>
+<li class='same'> 14:15 www.facebook.com</li>
+<li class='same'> 14:14 www.facebook.com</li>
+<li class='same'> 14:12 www.facebook.com</li>
+<li> 13:59 www.amazon.co.uk</li>
+<li class='same'> 13:58 www.amazon.co.uk</li>
+<li> 13:58 www.ebay.co.uk</li>
+<li class='same'> 13:57 www.ebay.co.uk</li>
+<li> 13:56 www.fitness-superstore.co.uk</li>
+<li> 13:56 www.google.com</li>
+<li> 13:56 www.ebay.co.uk</li>
+<li class='same'> 13:55 www.ebay.co.uk</li>
+<li> 13:54 mail.google.com</li>
+<li> 13:54 gmail.com</li>
+<li> 13:50 www.facebook.com</li>
 <li> 13:50 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:49 www.facebook.com</li>
 <li class='same'> 13:48 www.facebook.com</li>
