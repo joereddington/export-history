@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6632)</li>
-<li>mail.google.com (4856)</li>
+<ol><li>www.google.com (6637)</li>
+<li>mail.google.com (4858)</li>
 <li>outlook.office.com (2363)</li>
 <li>www.facebook.com (1879)</li>
 <li>docs.google.com (1530)</li>
 <li>calendar.google.com (1073)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (978)</li>
+<li>www.amazon.co.uk (983)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (805)</li>
-<li>www.reddit.com (784)</li>
+<li>www.reddit.com (785)</li>
 <li>www.linkedin.com (661)</li>
 <li>chat.openai.com (550)</li>
 <li>whitewaterwriters.com (548)</li>
 <li>app.qbo.intuit.com (530)</li>
-<li>gmail.com (524)</li>
+<li>gmail.com (525)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (466)</li>
 <li>drive.google.com (387)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:58 <a href="https://www.youtube.com/">(59) YouTube</a></li>
+<ul><li> 16:09 www.amazon.co.uk</li>
+<li class='same'> 16:08 www.amazon.co.uk</li>
+<li> 16:08 <a href="https://en.wikipedia.org/wiki/Nikon_D7000">Nikon D7000 - Wikipedia</a></li>
+<li> 16:08 www.google.com</li>
+<li> 16:07 www.amazon.co.uk</li>
+<li class='same'> 16:06 www.amazon.co.uk</li>
+<li> 16:05 www.frogbikes.com</li>
+<li> 16:05 www.googleadservices.com</li>
+<li> 16:05 bikeclub.com</li>
+<li> 16:04 www.google.com</li>
+<li> 16:03 www.reddit.com</li>
+<li> 16:03 www.google.com</li>
+<li> 16:03 www.tiktok.com</li>
+<li> 16:02 www.google.com</li>
+<li> 16:02 www.amazon.co.uk</li>
+<li> 16:01 kidvelobikes.co.uk</li>
+<li> 16:01 www.googleadservices.com</li>
+<li> 16:01 bikeclub.com</li>
+<li> 16:01 www.google.com</li>
+<li> 16:01 mail.google.com</li>
+<li class='same'> 16:00 mail.google.com</li>
+<li> 16:00 gmail.com</li>
+<li> 15:59 <a href="https://www.youtube.com/watch?v=hOnnW1whWDs">(59) Chef | "He's Ready To Cook" Clip | Open Road Films - YouTube</a></li>
+<li> 15:58 <a href="https://www.youtube.com/shorts/5cyqEs6cOqE">(59) The Big Bang Theory | Sheldon: I Met My Wife Here, And We Sat At This.. #shorts #thebigbangtheory - YouTube</a></li>
+<li> 15:58 <a href="https://www.youtube.com/">(59) YouTube</a></li>
 <li> 15:57 <a href="https://www.youtube.com/@AlvinKZhou">(59) Alvin Zhou - YouTube</a></li>
 <li> 15:57 <a href="https://www.youtube.com/@newhomequalitycontrol">(59) New Home Quality Control - YouTube</a></li>
 <li> 15:57 <a href="https://www.youtube.com/@whatnooowaaay">(59) The No Way Guy - YouTube</a></li>
