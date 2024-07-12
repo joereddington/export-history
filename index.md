@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6632)</li>
+<ol><li>www.google.com (6621)</li>
 <li>mail.google.com (4849)</li>
 <li>outlook.office.com (2358)</li>
 <li>www.facebook.com (1850)</li>
 <li>docs.google.com (1530)</li>
-<li>moodle.royalholloway.ac.uk (1071)</li>
-<li>calendar.google.com (1070)</li>
+<li>calendar.google.com (1071)</li>
+<li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (976)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (797)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:54 0.0.0.0:8000</li>
+<ul><li> 06:56 calendar.google.com</li>
+<li> 06:54 0.0.0.0:8000</li>
 <li> 06:35 calendar.google.com</li>
 </ul>
 
@@ -17138,8 +17139,6 @@ With number of accesses/minutes in parentheses
 <li> 18:48 m.facebook.com</li>
 <li class='same'> 18:47 m.facebook.com</li>
 <li> 18:33 www.google.com</li>
-<li> 18:33 www.hartsofstur.com</li>
-<li> 18:33 www.google.com</li>
 <li class='same'> 18:32 www.google.com</li>
 </ul>
 
@@ -17181,13 +17180,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:24 www.google.com</li>
 <li> 12:24 calendar.google.com</li>
 <li class='same'> 12:23 calendar.google.com</li>
-<li> 12:14 www.google.com</li>
-<li class='same'> 12:13 www.google.com</li>
+<li> 12:13 www.google.com</li>
 <li> 12:09 docs.google.com</li>
 <li class='same'> 12:08 docs.google.com</li>
 <li class='same'> 12:07 docs.google.com</li>
 <li> 12:04 www.facebook.com</li>
-<li> 12:04 www.google.com</li>
 <li> 12:04 find-and-update.company-information.service.gov.uk</li>
 <li> 12:03 www.google.com</li>
 <li> 11:56 www.facebook.com</li>
@@ -17218,7 +17215,6 @@ With number of accesses/minutes in parentheses
 <li> 11:13 <a href="https://en.wikipedia.org/wiki/Indigenous_peoples_of_Mexico">Indigenous peoples of Mexico - Wikipedia</a></li>
 <li> 11:11 <a href="https://en.wikipedia.org/wiki/Maize">Maize - Wikipedia</a></li>
 <li> 11:11 www.google.com</li>
-<li class='same'> 11:09 www.google.com</li>
 <li class='same'> 11:08 www.google.com</li>
 <li class='same'> 11:06 www.google.com</li>
 <li> 11:02 <a href="https://en.wikipedia.org/wiki/Propane">Propane - Wikipedia</a></li>
@@ -17242,7 +17238,6 @@ With number of accesses/minutes in parentheses
 <li> 10:31 commons.wikimedia.org</li>
 <li class='same'> 10:30 commons.wikimedia.org</li>
 <li> 10:30 <a href="https://en.wikipedia.org/wiki/Chachalaca">Chachalaca - Wikipedia</a></li>
-<li> 10:30 www.google.com</li>
 <li> 10:28 en.wiktionary.org</li>
 <li> 10:28 en.m.wikipedia.org</li>
 <li> 10:28 www.google.com</li>
@@ -17276,7 +17271,6 @@ With number of accesses/minutes in parentheses
 <li> 09:36 tvtropes.org</li>
 <li> 09:36 www.google.com</li>
 <li> 09:36 allthetropes.org</li>
-<li> 09:36 www.google.com</li>
 <li> 09:34 www.reddit.com</li>
 <li> 09:34 www.google.com</li>
 <li> 09:31 <a href="https://en.wikipedia.org/wiki/Mace_(spray)">Mace (spray) - Wikipedia</a></li>
@@ -17332,7 +17326,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:22 tvtropes.org</li>
 <li> 08:22 www.google.com</li>
 <li> 08:20 www.empireonline.com</li>
-<li> 08:20 www.google.com</li>
 <li> 08:19 www.geo.tv</li>
 <li> 08:19 www.google.com</li>
 <li> 08:17 <a href="https://en.wikipedia.org/wiki/Cleopatra#/media/File:Guido_Cagnacci_003.jpg">Cleopatra - Wikipedia</a></li>
@@ -17345,22 +17338,18 @@ With number of accesses/minutes in parentheses
 <li> 08:14 gmail.com</li>
 <li> 07:58 www.google.com</li>
 <li> 07:58 tvtropes.org</li>
-<li> 07:58 www.google.com</li>
 <li> 07:58 <a href="https://en.wikipedia.org/wiki/Blaise_Pascal">Blaise Pascal - Wikipedia</a></li>
 <li> 07:57 www.lexology.com</li>
 <li> 07:54 <a href="https://en.wikipedia.org/wiki/Gas_constant">Gas constant - Wikipedia</a></li>
 <li> 07:54 www.google.com</li>
 <li> 07:54 tvtropes.org</li>
-<li> 07:54 www.google.com</li>
 <li> 07:53 www.reddit.com</li>
 <li> 07:53 www.worldhistory.org</li>
-<li> 07:53 www.google.com</li>
-<li class='same'> 07:52 www.google.com</li>
+<li> 07:52 www.google.com</li>
 <li> 07:49 tvtropes.org</li>
 <li> 07:49 www.google.com</li>
 <li> 07:48 languages.oup.com</li>
-<li> 07:48 www.google.com</li>
-<li class='same'> 07:47 www.google.com</li>
+<li> 07:47 www.google.com</li>
 </ul>
 
 <br>
@@ -17702,10 +17691,8 @@ With number of accesses/minutes in parentheses
 <li> 10:43 rhul.hosted.panopto.com</li>
 <li> 10:43 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:42 moodle.royalholloway.ac.uk</li>
-<li class='same'> 10:41 moodle.royalholloway.ac.uk</li>
 <li> 10:41 Local file</li>
 <li> 10:41 moodle.royalholloway.ac.uk</li>
-<li class='same'> 10:40 moodle.royalholloway.ac.uk</li>
 <li> 10:40 Local file</li>
 <li> 10:40 moodle.royalholloway.ac.uk</li>
 <li> 10:40 Local file</li>
