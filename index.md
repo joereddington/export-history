@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6626)</li>
 <li>mail.google.com (4850)</li>
-<li>outlook.office.com (2358)</li>
+<li>outlook.office.com (2361)</li>
 <li>www.facebook.com (1851)</li>
 <li>docs.google.com (1530)</li>
-<li>calendar.google.com (1072)</li>
+<li>calendar.google.com (1073)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (976)</li>
 <li>github.com (941)</li>
@@ -88,9 +88,9 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (466)</li>
 <li>drive.google.com (387)</li>
 <li>teams.microsoft.com (386)</li>
-<li>outlook.office365.com (361)</li>
+<li>outlook.office365.com (362)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>login.microsoftonline.com (320)</li>
+<li>login.microsoftonline.com (321)</li>
 <li>bsky.app (311)</li>
 <li>kdp.amazon.com (310)</li>
 <li>web.whatsapp.com (299)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 12/07/24</H3>
+
+<br>
+
+<ul><li> 13:29 outlook.office.com</li>
+<li class='same'> 13:28 outlook.office.com</li>
+<li> 13:28 outlook.office365.com</li>
+<li> 13:28 outlook.office.com</li>
+<li> 13:28 login.microsoftonline.com</li>
+<li> 13:28 mail.rhul.ac.uk</li>
+<li> 13:28 calendar.google.com</li>
+</ul>
 
 <br>
 
