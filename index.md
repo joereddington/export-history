@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4858)</li>
 <li>outlook.office.com (2363)</li>
 <li>www.facebook.com (1879)</li>
-<li>docs.google.com (1547)</li>
+<li>docs.google.com (1548)</li>
 <li>calendar.google.com (1074)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (987)</li>
 <li>github.com (941)</li>
-<li>m.facebook.com (805)</li>
+<li>m.facebook.com (808)</li>
 <li>www.reddit.com (785)</li>
 <li>www.linkedin.com (661)</li>
 <li>chat.openai.com (551)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:07 docs.google.com</li>
+<ul><li> 18:31 m.facebook.com</li>
+<li> 18:08 docs.google.com</li>
+<li class='same'> 18:07 docs.google.com</li>
 <li class='same'> 18:06 docs.google.com</li>
 <li class='same'> 18:05 docs.google.com</li>
 <li class='same'> 18:04 docs.google.com</li>
@@ -285,7 +287,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:01 www.google.com</li>
-<li> 11:35 m.facebook.com</li>
+<li> 11:38 m.facebook.com</li>
+<li class='same'> 11:37 m.facebook.com</li>
+<li class='same'> 11:35 m.facebook.com</li>
 <li class='same'> 11:34 m.facebook.com</li>
 <li class='same'> 11:31 m.facebook.com</li>
 <li class='same'> 11:27 m.facebook.com</li>
@@ -57672,7 +57676,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:20 www.camerajungle.co.uk</li>
+<ul><li> 17:22 www.camerajungle.co.uk</li>
+<li class='same'> 17:21 www.camerajungle.co.uk</li>
+<li class='same'> 17:20 www.camerajungle.co.uk</li>
 <li class='same'> 17:18 www.camerajungle.co.uk</li>
 </ul>
 
