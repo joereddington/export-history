@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6637)</li>
+<ol><li>www.google.com (6639)</li>
 <li>mail.google.com (4858)</li>
 <li>outlook.office.com (2363)</li>
 <li>www.facebook.com (1879)</li>
 <li>docs.google.com (1530)</li>
 <li>calendar.google.com (1073)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (984)</li>
+<li>www.amazon.co.uk (985)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (805)</li>
 <li>www.reddit.com (785)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (525)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (466)</li>
-<li>drive.google.com (387)</li>
+<li>drive.google.com (389)</li>
 <li>teams.microsoft.com (386)</li>
 <li>outlook.office365.com (362)</li>
 <li>forum.artofmemory.com (350)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:11 <a href="https://en.wikipedia.org/wiki/Target_audience"></a></li>
+<ul><li> 16:29 drive.google.com</li>
+<li class='same'> 16:28 drive.google.com</li>
+<li> 16:24 www.amazon.co.uk</li>
+<li> 16:24 www.google.com</li>
+<li> 16:24 www.bricklink.com</li>
+<li> 16:24 www.google.com</li>
+<li> 16:22 <a href="https://en.wikipedia.org/wiki/Nikon_D810">Nikon D810 - Wikipedia</a></li>
+<li> 16:22 www.camerajungle.co.uk</li>
+<li> 16:12 chatgpt.com</li>
+<li> 16:12 www.camerajungle.co.uk</li>
+<li> 16:11 <a href="https://en.wikipedia.org/wiki/Target_audience">Target audience - Wikipedia</a></li>
 <li> 16:11 chatgpt.com</li>
 <li> 16:11 chat.openai.com</li>
 <li> 16:10 www.amazon.co.uk</li>
