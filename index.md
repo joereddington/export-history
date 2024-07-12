@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4858)</li>
 <li>outlook.office.com (2363)</li>
 <li>www.facebook.com (1879)</li>
-<li>docs.google.com (1533)</li>
+<li>docs.google.com (1534)</li>
 <li>calendar.google.com (1074)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (985)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (525)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (466)</li>
-<li>drive.google.com (389)</li>
+<li>drive.google.com (390)</li>
 <li>teams.microsoft.com (386)</li>
 <li>outlook.office365.com (362)</li>
 <li>forum.artofmemory.com (350)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:53 www.google.com</li>
+<ul><li> 17:03 docs.google.com</li>
+<li> 17:03 drive.google.com</li>
+<li> 16:53 www.google.com</li>
 <li> 16:53 cse.google.com</li>
 <li> 16:52 www.vim.org</li>
 <li> 16:51 <a href="https://stackoverflow.com/questions/1157410/how-to-automatically-update-tag-file-in-vim">ctags - How to automatically update tag file in vim? - Stack Overflow</a></li>
