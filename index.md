@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6639)</li>
+<ol><li>www.google.com (6641)</li>
 <li>mail.google.com (4858)</li>
 <li>outlook.office.com (2363)</li>
 <li>www.facebook.com (1879)</li>
 <li>docs.google.com (1533)</li>
-<li>calendar.google.com (1073)</li>
+<li>calendar.google.com (1074)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (985)</li>
 <li>github.com (941)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:39 docs.google.com</li>
+<ul><li> 16:53 www.google.com</li>
+<li> 16:53 cse.google.com</li>
+<li> 16:52 www.vim.org</li>
+<li> 16:51 <a href="https://stackoverflow.com/questions/1157410/how-to-automatically-update-tag-file-in-vim">ctags - How to automatically update tag file in vim? - Stack Overflow</a></li>
+<li> 16:51 www.google.com</li>
+<li> 16:40 calendar.google.com</li>
+<li> 16:39 docs.google.com</li>
 <li> 16:33 chatgpt.com</li>
 <li> 16:33 auth0.openai.com</li>
 <li class='same'> 16:32 auth0.openai.com</li>
