@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6643)</li>
+<ol><li>www.google.com (6642)</li>
 <li>mail.google.com (4858)</li>
 <li>outlook.office.com (2363)</li>
-<li>www.facebook.com (1879)</li>
+<li>www.facebook.com (1890)</li>
 <li>docs.google.com (1548)</li>
-<li>calendar.google.com (1074)</li>
+<li>calendar.google.com (1077)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (987)</li>
 <li>github.com (941)</li>
@@ -104,7 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 13/07/24</H3>
+
+<br>
+
+<ul><li> 18:15 www.facebook.com</li>
+<li class='same'> 18:14 www.facebook.com</li>
+<li class='same'> 18:13 www.facebook.com</li>
+<li> 18:12 <a href="https://joereddington.com/2024/07/13/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 18:12 www.facebook.com</li>
+<li class='same'> 18:09 www.facebook.com</li>
+<li> 18:08 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 18:08 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 18:08 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 17:59 calendar.google.com</li>
+<li class='same'> 17:57 calendar.google.com</li>
+<li class='same'> 17:56 calendar.google.com</li>
+<li> 17:52 www.mozilla.org</li>
+</ul>
+
 <H3>Friday, 12/07/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -216,7 +239,13 @@ With number of accesses/minutes in parentheses
 <li> 15:40 www.linkedin.com</li>
 <li class='same'> 15:39 www.linkedin.com</li>
 <li> 15:39 web.whatsapp.com</li>
-<li> 15:30 www.facebook.com</li>
+<li> 15:38 www.facebook.com</li>
+<li class='same'> 15:37 www.facebook.com</li>
+<li class='same'> 15:36 www.facebook.com</li>
+<li class='same'> 15:35 www.facebook.com</li>
+<li class='same'> 15:34 www.facebook.com</li>
+<li class='same'> 15:31 www.facebook.com</li>
+<li class='same'> 15:30 www.facebook.com</li>
 <li class='same'> 15:29 www.facebook.com</li>
 <li class='same'> 15:28 www.facebook.com</li>
 <li class='same'> 15:27 www.facebook.com</li>
@@ -17349,7 +17378,6 @@ With number of accesses/minutes in parentheses
 <li> 07:34 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 07:32 www.shure.com</li>
 <li> 07:32 www.google.com</li>
-<li class='same'> 07:31 www.google.com</li>
 <li> 07:30 chat.openai.com</li>
 <li> 07:30 www.google.com</li>
 <li> 07:30 chat.openai.com</li>
