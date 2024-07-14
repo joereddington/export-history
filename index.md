@@ -71,8 +71,8 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (6649)</li>
 <li>mail.google.com (4858)</li>
 <li>outlook.office.com (2363)</li>
-<li>www.facebook.com (1891)</li>
-<li>docs.google.com (1549)</li>
+<li>www.facebook.com (1893)</li>
+<li>docs.google.com (1548)</li>
 <li>calendar.google.com (1077)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (987)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 02:07 docs.google.com</li>
+<ul><li> 10:58 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:48 docs.google.com</li>
 </ul>
 
 <H3>Saturday, 13/07/24</H3>
@@ -140,7 +145,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:15 www.facebook.com</li>
+<ul><li> 18:18 www.facebook.com</li>
+<li class='same'> 18:16 www.facebook.com</li>
+<li class='same'> 18:15 www.facebook.com</li>
 <li class='same'> 18:14 www.facebook.com</li>
 <li class='same'> 18:13 www.facebook.com</li>
 <li> 18:12 <a href="https://joereddington.com/2024/07/13/gratitude.html">Gratitude | Joe Reddington</a></li>
@@ -374,11 +381,6 @@ With number of accesses/minutes in parentheses
 <li> 06:56 calendar.google.com</li>
 <li> 06:54 0.0.0.0:8000</li>
 <li> 06:35 calendar.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 03:35 docs.google.com</li>
 </ul>
 
 <H3>Thursday, 11/07/24</H3>
@@ -793,8 +795,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:05 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li> 07:03 docs.google.com</li>
-<li> 06:55 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li class='same'> 06:55 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 06:55 <a href="https://joereddington.com/export-history/pre/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 06:55 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 06:55 <a href="https://joereddington.com/export-history/pre/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
