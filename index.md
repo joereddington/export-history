@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4858)</li>
 <li>outlook.office.com (2363)</li>
 <li>www.facebook.com (1893)</li>
-<li>docs.google.com (1548)</li>
+<li>docs.google.com (1549)</li>
 <li>calendar.google.com (1077)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (987)</li>
 <li>github.com (941)</li>
-<li>m.facebook.com (811)</li>
+<li>m.facebook.com (812)</li>
 <li>www.reddit.com (785)</li>
 <li>www.linkedin.com (661)</li>
 <li>chat.openai.com (551)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (300)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (257)</li>
+<li>www.theguardian.com (252)</li>
 <li>www.ebay.co.uk (245)</li>
-<li>www.theguardian.com (245)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:59 m.facebook.com</li>
+<ul><li> 14:19 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:43 www.theguardian.com</li>
+<li class='same'> 13:42 www.theguardian.com</li>
+<li class='same'> 13:32 www.theguardian.com</li>
+<li> 13:25 m.facebook.com</li>
+<li class='same'> 12:59 m.facebook.com</li>
 <li class='same'> 12:58 m.facebook.com</li>
 <li> 12:32 www.google.com</li>
 <li> 12:28 www.theguardian.com</li>
@@ -139,7 +148,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:43 reductress.com</li>
-<li> 21:30 www.theguardian.com</li>
+<li> 21:38 www.theguardian.com</li>
+<li class='same'> 21:35 www.theguardian.com</li>
+<li class='same'> 21:34 www.theguardian.com</li>
+<li class='same'> 21:31 www.theguardian.com</li>
+<li class='same'> 21:30 www.theguardian.com</li>
 <li class='same'> 21:28 www.theguardian.com</li>
 </ul>
 
