@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6701)</li>
+<ol><li>www.google.com (6711)</li>
 <li>mail.google.com (4862)</li>
 <li>outlook.office.com (2385)</li>
-<li>www.facebook.com (1911)</li>
-<li>docs.google.com (1563)</li>
+<li>www.facebook.com (1913)</li>
+<li>docs.google.com (1565)</li>
 <li>calendar.google.com (1077)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (993)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:08 www.stcatherinesnewcastle.org</li>
+<ul><li> 19:19 www.google.com</li>
+<li class='same'> 19:18 www.google.com</li>
+<li> 19:17 docs.google.com</li>
+<li> 19:17 www.google.com</li>
+<li class='same'> 19:16 www.google.com</li>
+<li class='same'> 19:15 www.google.com</li>
+<li> 19:14 www.facebook.com</li>
+<li class='same'> 19:13 www.facebook.com</li>
+<li> 19:13 www.google.com</li>
+<li class='same'> 19:12 www.google.com</li>
+<li class='same'> 19:11 www.google.com</li>
+<li class='same'> 19:10 www.google.com</li>
+<li> 19:10 docs.google.com</li>
+<li> 19:09 www.google.com</li>
+<li> 19:09 www.stcatherinesnewcastle.org</li>
+<li class='same'> 19:08 www.stcatherinesnewcastle.org</li>
 <li> 19:08 stcatherinesnewcastle.org</li>
 <li> 19:08 www.google.com</li>
 <li> 19:07 kdp.amazon.com</li>
