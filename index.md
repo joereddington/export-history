@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6690)</li>
+<ol><li>www.google.com (6692)</li>
 <li>mail.google.com (4858)</li>
-<li>outlook.office.com (2367)</li>
+<li>outlook.office.com (2375)</li>
 <li>www.facebook.com (1911)</li>
 <li>docs.google.com (1562)</li>
 <li>calendar.google.com (1077)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (362)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>login.microsoftonline.com (322)</li>
-<li>kdp.amazon.com (316)</li>
+<li>kdp.amazon.com (317)</li>
 <li>bsky.app (311)</li>
 <li>web.whatsapp.com (302)</li>
 <li>rhul.sharepoint.com (265)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:53 kdp.amazon.com</li>
+<ul><li> 12:55 kdp.amazon.com</li>
+<li> 12:54 outlook.office.com</li>
+<li class='same'> 12:53 outlook.office.com</li>
+<li> 12:48 www.google.com</li>
+<li> 12:48 outlook.office.com</li>
+<li class='same'> 12:47 outlook.office.com</li>
+<li class='same'> 12:46 outlook.office.com</li>
+<li> 12:31 about.open.ac.uk</li>
+<li class='same'> 12:30 about.open.ac.uk</li>
+<li> 12:30 www.google.com</li>
+<li> 12:30 outlook.office.com</li>
+<li> 12:21 chatgpt.com</li>
+<li> 12:20 claude.ai</li>
+<li class='same'> 11:58 claude.ai</li>
+<li> 11:53 kdp.amazon.com</li>
 <li> 11:49 cc.amazon.com</li>
 <li> 11:37 kdp.amazon.com</li>
 <li> 11:32 discord.com</li>
@@ -16126,6 +16140,8 @@ With number of accesses/minutes in parentheses
 <li> 13:21 teams.microsoft.com</li>
 <li> 13:20 outlook.office.com</li>
 <li class='same'> 13:14 outlook.office.com</li>
+<li class='same'> 13:13 outlook.office.com</li>
+<li class='same'> 13:11 outlook.office.com</li>
 <li class='same'> 13:04 outlook.office.com</li>
 <li class='same'> 13:02 outlook.office.com</li>
 <li> 13:01 teams.microsoft.com</li>
