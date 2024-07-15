@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6651)</li>
+<ol><li>www.google.com (6655)</li>
 <li>mail.google.com (4858)</li>
 <li>outlook.office.com (2363)</li>
 <li>www.facebook.com (1893)</li>
-<li>docs.google.com (1550)</li>
+<li>docs.google.com (1555)</li>
 <li>calendar.google.com (1077)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (987)</li>
@@ -104,11 +104,31 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 15/07/24</H3>
+
+<br>
+
+<ul><li> 07:19 <a href="https://en.wikipedia.org/wiki/Bath_Community_Academy"></a></li>
+<li> 07:19 www.google.com</li>
+<li> 07:19 docs.google.com</li>
+<li class='same'> 07:18 docs.google.com</li>
+<li> 07:18 www.google.com</li>
+<li class='same'> 07:17 www.google.com</li>
+<li class='same'> 07:16 www.google.com</li>
+<li> 07:15 docs.google.com</li>
+<li class='same'> 07:11 docs.google.com</li>
+<li class='same'> 07:08 docs.google.com</li>
+</ul>
+
 <H3>Sunday, 14/07/24</H3>
 
 <br>
 
-<ul><li> 14:53 docs.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 14:53 docs.google.com</li>
 </ul>
 
 <br>
