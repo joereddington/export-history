@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6686)</li>
+<ol><li>www.google.com (6687)</li>
 <li>mail.google.com (4858)</li>
 <li>outlook.office.com (2363)</li>
-<li>www.facebook.com (1893)</li>
+<li>www.facebook.com (1911)</li>
 <li>docs.google.com (1562)</li>
 <li>calendar.google.com (1077)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (987)</li>
+<li>www.amazon.co.uk (988)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (812)</li>
 <li>www.reddit.com (785)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (321)</li>
 <li>kdp.amazon.com (311)</li>
 <li>bsky.app (311)</li>
-<li>web.whatsapp.com (300)</li>
+<li>web.whatsapp.com (301)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (257)</li>
 <li>www.theguardian.com (252)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:55 www.google.com</li>
+<ul><li> 11:00 www.amazon.co.uk</li>
+<li> 10:56 cat.eduroam.org</li>
+<li> 10:56 eduroam.org</li>
+<li> 10:56 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:55 www.google.com</li>
 <li> 07:55 <a href="https://en.wikipedia.org/wiki/St_Aloysius%27_College,_Highgate">St Aloysius' College, Highgate - Wikipedia</a></li>
 <li> 07:54 www.google.com</li>
 <li class='same'> 07:53 www.google.com</li>
@@ -183,15 +191,30 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 14:19 docs.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:43 www.theguardian.com</li>
+<li> 14:07 www.facebook.com</li>
+<li class='same'> 14:06 www.facebook.com</li>
+<li class='same'> 14:05 www.facebook.com</li>
+<li class='same'> 14:04 www.facebook.com</li>
+<li class='same'> 14:03 www.facebook.com</li>
+<li class='same'> 14:02 www.facebook.com</li>
+<li class='same'> 14:01 www.facebook.com</li>
+<li class='same'> 14:00 www.facebook.com</li>
+<li class='same'> 13:59 www.facebook.com</li>
+<li class='same'> 13:58 www.facebook.com</li>
+<li class='same'> 13:57 www.facebook.com</li>
+<li class='same'> 13:56 www.facebook.com</li>
+<li class='same'> 13:55 www.facebook.com</li>
+<li class='same'> 13:54 www.facebook.com</li>
+<li class='same'> 13:53 www.facebook.com</li>
+<li class='same'> 13:52 www.facebook.com</li>
+<li class='same'> 13:49 www.facebook.com</li>
+<li> 13:43 www.theguardian.com</li>
 <li class='same'> 13:42 www.theguardian.com</li>
 <li class='same'> 13:32 www.theguardian.com</li>
 <li> 13:25 m.facebook.com</li>
-<li class='same'> 12:59 m.facebook.com</li>
+<li> 13:02 web.whatsapp.com</li>
+<li> 12:59 www.facebook.com</li>
+<li> 12:59 m.facebook.com</li>
 <li class='same'> 12:58 m.facebook.com</li>
 <li> 12:32 www.google.com</li>
 <li> 12:28 www.theguardian.com</li>
