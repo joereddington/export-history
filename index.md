@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6697)</li>
-<li>mail.google.com (4859)</li>
+<ol><li>www.google.com (6701)</li>
+<li>mail.google.com (4862)</li>
 <li>outlook.office.com (2385)</li>
 <li>www.facebook.com (1911)</li>
-<li>docs.google.com (1562)</li>
+<li>docs.google.com (1563)</li>
 <li>calendar.google.com (1077)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (991)</li>
+<li>www.amazon.co.uk (993)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (812)</li>
 <li>www.reddit.com (786)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (552)</li>
 <li>whitewaterwriters.com (548)</li>
 <li>app.qbo.intuit.com (530)</li>
-<li>gmail.com (526)</li>
+<li>gmail.com (527)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (466)</li>
 <li>drive.google.com (390)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (362)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>login.microsoftonline.com (322)</li>
-<li>kdp.amazon.com (320)</li>
+<li>kdp.amazon.com (321)</li>
 <li>bsky.app (311)</li>
 <li>web.whatsapp.com (302)</li>
 <li>rhul.sharepoint.com (265)</li>
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 15/07/24</H3>
+
+<br>
+
+<ul><li> 19:08 www.stcatherinesnewcastle.org</li>
+<li> 19:08 stcatherinesnewcastle.org</li>
+<li> 19:08 www.google.com</li>
+<li> 19:07 kdp.amazon.com</li>
+<li> 19:07 www.amazon.co.uk</li>
+<li> 19:07 www.google.com</li>
+<li> 19:07 www.amazon.co.uk</li>
+<li> 19:06 docs.google.com</li>
+<li> 19:06 mail.google.com</li>
+<li class='same'> 19:05 mail.google.com</li>
+<li> 19:05 accounts.youtube.com</li>
+<li> 19:05 accounts.google.co.uk</li>
+<li> 19:05 accounts.google.com</li>
+<li> 19:05 mail.google.com</li>
+<li> 19:05 gmail.com</li>
+<li> 19:05 www.google.com</li>
+<li> 19:05 maps.google.com</li>
+<li> 19:04 lfata.org.uk</li>
+<li> 19:04 www.google.com</li>
+</ul>
 
 <br>
 
