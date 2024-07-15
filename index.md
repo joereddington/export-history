@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6655)</li>
+<ol><li>www.google.com (6666)</li>
 <li>mail.google.com (4858)</li>
 <li>outlook.office.com (2363)</li>
 <li>www.facebook.com (1893)</li>
-<li>docs.google.com (1555)</li>
+<li>docs.google.com (1559)</li>
 <li>calendar.google.com (1077)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (987)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:19 <a href="https://en.wikipedia.org/wiki/Bath_Community_Academy"></a></li>
+<ul><li> 07:29 www.google.com</li>
+<li> 07:29 docs.google.com</li>
+<li class='same'> 07:28 docs.google.com</li>
+<li> 07:27 www.google.com</li>
+<li class='same'> 07:26 www.google.com</li>
+<li class='same'> 07:25 www.google.com</li>
+<li class='same'> 07:24 www.google.com</li>
+<li> 07:24 www.chislehurstschoolforgirls.co.uk</li>
+<li> 07:24 www.google.com</li>
+<li class='same'> 07:23 www.google.com</li>
+<li> 07:23 docs.google.com</li>
+<li class='same'> 07:22 docs.google.com</li>
+<li> 07:22 www.google.com</li>
+<li class='same'> 07:21 www.google.com</li>
+<li> 07:21 kaleidoscopeschool.co.uk</li>
+<li> 07:21 www.google.com</li>
+<li class='same'> 07:20 www.google.com</li>
+<li> 07:19 <a href="https://en.wikipedia.org/wiki/Bath_Community_Academy">Bath Community Academy - Wikipedia</a></li>
 <li> 07:19 www.google.com</li>
 <li> 07:19 docs.google.com</li>
 <li class='same'> 07:18 docs.google.com</li>
