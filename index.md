@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6687)</li>
+<ol><li>www.google.com (6690)</li>
 <li>mail.google.com (4858)</li>
-<li>outlook.office.com (2363)</li>
+<li>outlook.office.com (2367)</li>
 <li>www.facebook.com (1911)</li>
 <li>docs.google.com (1562)</li>
 <li>calendar.google.com (1077)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (988)</li>
+<li>www.amazon.co.uk (991)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (812)</li>
 <li>www.reddit.com (785)</li>
 <li>www.linkedin.com (661)</li>
-<li>chat.openai.com (551)</li>
+<li>chat.openai.com (552)</li>
 <li>whitewaterwriters.com (548)</li>
 <li>app.qbo.intuit.com (530)</li>
 <li>gmail.com (525)</li>
@@ -90,10 +90,10 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (386)</li>
 <li>outlook.office365.com (362)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>login.microsoftonline.com (321)</li>
-<li>kdp.amazon.com (311)</li>
+<li>login.microsoftonline.com (322)</li>
+<li>kdp.amazon.com (316)</li>
 <li>bsky.app (311)</li>
-<li>web.whatsapp.com (301)</li>
+<li>web.whatsapp.com (302)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (257)</li>
 <li>www.theguardian.com (252)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:00 www.amazon.co.uk</li>
+<ul><li> 11:53 kdp.amazon.com</li>
+<li> 11:49 cc.amazon.com</li>
+<li> 11:37 kdp.amazon.com</li>
+<li> 11:32 discord.com</li>
+<li> 11:30 chatgpt.com</li>
+<li> 11:30 chat.openai.com</li>
+<li> 11:27 www.google.com</li>
+<li> 11:25 whatismyipaddress.com</li>
+<li> 11:25 www.google.com</li>
+<li> 11:24 outlook.office.com</li>
+<li class='same'> 11:23 outlook.office.com</li>
+<li class='same'> 11:22 outlook.office.com</li>
+<li class='same'> 11:21 outlook.office.com</li>
+<li> 11:21 login.microsoftonline.com</li>
+<li> 11:20 kdp.amazon.com</li>
+<li> 11:17 claude.ai</li>
+<li class='same'> 11:16 claude.ai</li>
+<li> 11:15 <a href="https://en.wikipedia.org/wiki/Royal_Holloway,_University_of_London">Royal Holloway, University of London - Wikipedia</a></li>
+<li> 11:15 www.google.com</li>
+<li> 11:11 web.whatsapp.com</li>
+<li> 11:06 www.amazon.co.uk</li>
+<li> 11:03 kdp.amazon.com</li>
+<li class='same'> 11:02 kdp.amazon.com</li>
+<li> 11:02 www.amazon.co.uk</li>
+<li class='same'> 11:01 www.amazon.co.uk</li>
+<li class='same'> 11:00 www.amazon.co.uk</li>
 <li> 10:56 cat.eduroam.org</li>
 <li> 10:56 eduroam.org</li>
 <li> 10:56 www.google.com</li>
