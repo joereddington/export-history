@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6692)</li>
 <li>mail.google.com (4858)</li>
-<li>outlook.office.com (2375)</li>
+<li>outlook.office.com (2377)</li>
 <li>www.facebook.com (1911)</li>
 <li>docs.google.com (1562)</li>
 <li>calendar.google.com (1077)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (466)</li>
 <li>drive.google.com (390)</li>
-<li>teams.microsoft.com (386)</li>
+<li>teams.microsoft.com (388)</li>
 <li>outlook.office365.com (362)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>login.microsoftonline.com (322)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:55 kdp.amazon.com</li>
+<ul><li> 13:54 outlook.office.com</li>
+<li> 13:53 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:52 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:51 gitlab.cim.rhul.ac.uk</li>
+<li> 13:40 claude.ai</li>
+<li class='same'> 13:39 claude.ai</li>
+<li> 13:39 chatgpt.com</li>
+<li> 13:39 claude.ai</li>
+<li class='same'> 13:38 claude.ai</li>
+<li> 13:15 outlook.office.com</li>
+<li> 13:01 teams.microsoft.com</li>
+<li class='same'> 13:00 teams.microsoft.com</li>
+<li> 12:55 kdp.amazon.com</li>
 <li> 12:54 outlook.office.com</li>
 <li class='same'> 12:53 outlook.office.com</li>
 <li> 12:48 www.google.com</li>
