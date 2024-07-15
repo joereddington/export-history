@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6692)</li>
-<li>mail.google.com (4858)</li>
-<li>outlook.office.com (2377)</li>
+<ol><li>www.google.com (6697)</li>
+<li>mail.google.com (4859)</li>
+<li>outlook.office.com (2385)</li>
 <li>www.facebook.com (1911)</li>
 <li>docs.google.com (1562)</li>
 <li>calendar.google.com (1077)</li>
@@ -78,12 +78,12 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (991)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (812)</li>
-<li>www.reddit.com (785)</li>
+<li>www.reddit.com (786)</li>
 <li>www.linkedin.com (661)</li>
 <li>chat.openai.com (552)</li>
 <li>whitewaterwriters.com (548)</li>
 <li>app.qbo.intuit.com (530)</li>
-<li>gmail.com (525)</li>
+<li>gmail.com (526)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (466)</li>
 <li>drive.google.com (390)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (362)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>login.microsoftonline.com (322)</li>
-<li>kdp.amazon.com (317)</li>
+<li>kdp.amazon.com (320)</li>
 <li>bsky.app (311)</li>
 <li>web.whatsapp.com (302)</li>
 <li>rhul.sharepoint.com (265)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:54 outlook.office.com</li>
+<ul><li> 15:00 www.cyclescheme.co.uk</li>
+<li> 15:00 www.google.com</li>
+<li> 14:59 mail.google.com</li>
+<li> 14:59 gmail.com</li>
+<li> 14:58 outlook.office.com</li>
+<li> 14:58 access.sconul.ac.uk</li>
+<li class='same'> 14:57 access.sconul.ac.uk</li>
+<li class='same'> 14:56 access.sconul.ac.uk</li>
+<li> 14:56 www.royalholloway.ac.uk</li>
+<li> 14:56 www.google.com</li>
+<li> 14:52 stem.open.ac.uk</li>
+<li> 14:52 www5.open.ac.uk</li>
+<li class='same'> 14:51 www5.open.ac.uk</li>
+<li class='same'> 14:50 www5.open.ac.uk</li>
+<li class='same'> 14:49 www5.open.ac.uk</li>
+<li> 14:48 www.reddit.com</li>
+<li> 14:48 www.google.com</li>
+<li> 14:44 outlook.office.com</li>
+<li class='same'> 14:43 outlook.office.com</li>
+<li> 14:43 intranet.royalholloway.ac.uk</li>
+<li class='same'> 14:42 intranet.royalholloway.ac.uk</li>
+<li> 14:42 www.google.com</li>
+<li class='same'> 14:40 www.google.com</li>
+<li> 14:18 kdp.amazon.com</li>
+<li> 14:16 outlook.office.com</li>
+<li> 14:16 kdp.amazon.com</li>
+<li class='same'> 14:14 kdp.amazon.com</li>
+<li> 14:07 outlook.office.com</li>
+<li class='same'> 14:06 outlook.office.com</li>
+<li class='same'> 14:05 outlook.office.com</li>
+<li> 14:05 gitlab.cim.rhul.ac.uk</li>
+<li> 14:04 outlook.office.com</li>
+<li class='same'> 13:54 outlook.office.com</li>
 <li> 13:53 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:52 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:51 gitlab.cim.rhul.ac.uk</li>
