@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6713)</li>
-<li>mail.google.com (4863)</li>
-<li>outlook.office.com (2388)</li>
+<ol><li>www.google.com (6716)</li>
+<li>mail.google.com (4874)</li>
+<li>outlook.office.com (2391)</li>
 <li>www.facebook.com (1913)</li>
-<li>docs.google.com (1599)</li>
-<li>calendar.google.com (1078)</li>
+<li>docs.google.com (1603)</li>
+<li>calendar.google.com (1079)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (993)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (812)</li>
 <li>www.reddit.com (786)</li>
 <li>www.linkedin.com (661)</li>
-<li>chat.openai.com (553)</li>
+<li>chat.openai.com (554)</li>
 <li>whitewaterwriters.com (548)</li>
 <li>app.qbo.intuit.com (530)</li>
-<li>gmail.com (527)</li>
+<li>gmail.com (528)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (466)</li>
 <li>drive.google.com (391)</li>
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:38 docs.google.com</li>
+<ul><li> 10:49 mail.google.com</li>
+<li class='same'> 10:48 mail.google.com</li>
+<li> 10:48 docs.google.com</li>
+<li class='same'> 10:47 docs.google.com</li>
+<li> 10:47 mail.google.com</li>
+<li class='same'> 10:46 mail.google.com</li>
+<li class='same'> 10:45 mail.google.com</li>
+<li class='same'> 10:44 mail.google.com</li>
+<li> 10:43 www.google.com</li>
+<li> 10:42 mail.google.com</li>
+<li> 10:42 www.google.com</li>
+<li> 10:41 mail.google.com</li>
+<li class='same'> 10:36 mail.google.com</li>
+<li class='same'> 10:35 mail.google.com</li>
+<li> 10:35 gmail.com</li>
+<li> 10:32 gitlab.cim.rhul.ac.uk</li>
+<li> 10:04 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 10:02 eu-west-2.console.aws.amazon.com</li>
+<li> 10:01 signin.aws.amazon.com</li>
+<li> 10:01 eu-west-2.console.aws.amazon.com</li>
+<li> 09:58 chatgpt.com</li>
+<li class='same'> 09:56 chatgpt.com</li>
+<li> 09:56 chat.openai.com</li>
+<li> 09:55 www.google.com</li>
+<li> 09:54 outlook.office.com</li>
+<li class='same'> 09:53 outlook.office.com</li>
+<li> 09:53 mail.google.com</li>
+<li> 09:53 calendar.google.com</li>
+<li> 09:52 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:59 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:04 docs.google.com</li>
+<li class='same'> 07:38 docs.google.com</li>
 <li class='same'> 07:36 docs.google.com</li>
 <li class='same'> 07:35 docs.google.com</li>
 <li class='same'> 07:31 docs.google.com</li>
