@@ -72,8 +72,8 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4863)</li>
 <li>outlook.office.com (2388)</li>
 <li>www.facebook.com (1913)</li>
-<li>docs.google.com (1570)</li>
-<li>calendar.google.com (1077)</li>
+<li>docs.google.com (1577)</li>
+<li>calendar.google.com (1078)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (993)</li>
 <li>github.com (941)</li>
@@ -104,11 +104,39 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 16/07/24</H3>
+
+<br>
+
+<ul><li> 06:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 06:44 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 06:36 docs.google.com</li>
+<li class='same'> 06:35 docs.google.com</li>
+<li class='same'> 06:32 docs.google.com</li>
+<li class='same'> 06:31 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 04:41 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:42 calendar.google.com</li>
+</ul>
+
 <H3>Monday, 15/07/24</H3>
 
 <br>
 
-<ul><li> 20:23 docs.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:26 docs.google.com</li>
+<li class='same'> 20:25 docs.google.com</li>
+<li class='same'> 20:23 docs.google.com</li>
 <li> 20:23 drive.google.com</li>
 <li> 20:13 docs.google.com</li>
 <li> 20:09 chatgpt.com</li>
