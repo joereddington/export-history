@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6718)</li>
+<ol><li>www.google.com (6713)</li>
 <li>mail.google.com (4863)</li>
 <li>outlook.office.com (2388)</li>
 <li>www.facebook.com (1913)</li>
-<li>docs.google.com (1577)</li>
+<li>docs.google.com (1581)</li>
 <li>calendar.google.com (1078)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (993)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<ul><li> 07:06 docs.google.com</li>
+<li class='same'> 07:05 docs.google.com</li>
+<li class='same'> 07:04 docs.google.com</li>
+<li class='same'> 07:03 docs.google.com</li>
+<li> 06:45 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 06:45 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 06:44 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 06:36 docs.google.com</li>
 <li class='same'> 06:35 docs.google.com</li>
@@ -17404,8 +17410,7 @@ With number of accesses/minutes in parentheses
 <li> 15:34 www.chessington.com</li>
 <li> 15:33 www.google.com</li>
 <li> 15:31 www.chessington.com</li>
-<li> 15:31 www.google.com</li>
-<li class='same'> 15:30 www.google.com</li>
+<li> 15:30 www.google.com</li>
 <li> 15:30 mail.google.com</li>
 <li class='same'> 15:29 mail.google.com</li>
 <li> 15:29 kdpreports.amazon.com</li>
@@ -17454,11 +17459,9 @@ With number of accesses/minutes in parentheses
 <li> 14:28 kdp.amazon.com</li>
 <li> 14:25 chat.openai.com</li>
 <li> 14:24 tutuetoile.com</li>
-<li> 14:24 www.google.com</li>
-<li class='same'> 14:23 www.google.com</li>
+<li> 14:23 www.google.com</li>
 <li> 14:20 <a href="https://en.wikipedia.org/wiki/Tia_Carrere">Tia Carrere - Wikipedia</a></li>
-<li> 14:20 www.google.com</li>
-<li class='same'> 14:17 www.google.com</li>
+<li> 14:17 www.google.com</li>
 <li> 14:13 chat.openai.com</li>
 <li class='same'> 14:12 chat.openai.com</li>
 <li> 14:11 www.google.com</li>
@@ -17474,7 +17477,6 @@ With number of accesses/minutes in parentheses
 <li> 13:36 <a href="https://en.wikipedia.org/wiki/Nacho_(footballer,_born_1990)">Nacho (footballer, born 1990) - Wikipedia</a></li>
 <li> 13:36 www.google.com</li>
 <li> 13:30 www.mylondon.news</li>
-<li> 13:30 www.google.com</li>
 <li> 13:30 <a href="https://en.wikipedia.org/wiki/Wild_boar">Wild boar - Wikipedia</a></li>
 <li class='same'> 13:29 <a href="https://en.wikipedia.org/wiki/Wild_boar">Wild boar - Wikipedia</a></li>
 <li> 13:29 www.google.com</li>
@@ -17483,7 +17485,6 @@ With number of accesses/minutes in parentheses
 <li> 13:28 chat.openai.com</li>
 <li> 13:08 superuser.com</li>
 <li> 13:08 www.google.com</li>
-<li class='same'> 13:06 www.google.com</li>
 <li class='same'> 13:05 www.google.com</li>
 <li> 12:50 docs.google.com</li>
 <li> 12:49 fast.com</li>
