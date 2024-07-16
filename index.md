@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6720)</li>
-<li>mail.google.com (4883)</li>
-<li>outlook.office.com (2393)</li>
+<ol><li>www.google.com (6723)</li>
+<li>mail.google.com (4888)</li>
+<li>outlook.office.com (2395)</li>
 <li>www.facebook.com (1913)</li>
-<li>docs.google.com (1610)</li>
+<li>docs.google.com (1613)</li>
 <li>calendar.google.com (1079)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (995)</li>
@@ -81,16 +81,16 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (786)</li>
 <li>www.linkedin.com (661)</li>
 <li>chat.openai.com (554)</li>
-<li>whitewaterwriters.com (548)</li>
+<li>whitewaterwriters.com (549)</li>
 <li>app.qbo.intuit.com (530)</li>
-<li>gmail.com (528)</li>
+<li>gmail.com (529)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (466)</li>
 <li>drive.google.com (391)</li>
 <li>teams.microsoft.com (388)</li>
 <li>outlook.office365.com (363)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>kdp.amazon.com (323)</li>
+<li>kdp.amazon.com (329)</li>
 <li>login.microsoftonline.com (323)</li>
 <li>bsky.app (311)</li>
 <li>web.whatsapp.com (303)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:44 www.google.com</li>
+<ul><li> 12:41 kdp.amazon.com</li>
+<li> 12:40 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
+<li> 12:40 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:40 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:40 kdp.amazon.com</li>
+<li class='same'> 12:39 kdp.amazon.com</li>
+<li class='same'> 12:37 kdp.amazon.com</li>
+<li class='same'> 12:34 kdp.amazon.com</li>
+<li class='same'> 12:32 kdp.amazon.com</li>
+<li> 12:10 chatgpt.com</li>
+<li> 12:09 outlook.office.com</li>
+<li class='same'> 12:07 outlook.office.com</li>
+<li> 12:06 gitlab.cim.rhul.ac.uk</li>
+<li> 12:05 mail.google.com</li>
+<li class='same'> 12:04 mail.google.com</li>
+<li> 12:03 whitewaterwriters.com</li>
+<li> 12:02 www.google.com</li>
+<li> 12:01 mail.google.com</li>
+<li class='same'> 11:51 mail.google.com</li>
+<li> 11:51 www.google.com</li>
+<li> 11:51 mail.google.com</li>
+<li> 11:51 gmail.com</li>
+<li> 11:48 docs.google.com</li>
+<li class='same'> 11:47 docs.google.com</li>
+<li class='same'> 11:46 docs.google.com</li>
+<li> 11:45 www.google.com</li>
+<li class='same'> 11:44 www.google.com</li>
 <li> 11:42 outlook.office.com</li>
 <li class='same'> 11:41 outlook.office.com</li>
 <li> 11:41 mail.google.com</li>
