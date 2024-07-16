@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (305)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (257)</li>
-<li>www.theguardian.com (254)</li>
+<li>www.theguardian.com (256)</li>
 <li>www.ebay.co.uk (245)</li>
 
 
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:48 outlook.office.com</li>
+<ul><li> 15:50 www.theguardian.com</li>
+<li class='same'> 15:48 www.theguardian.com</li>
+<li> 15:48 outlook.office.com</li>
 <li> 15:48 outlook.office365.com</li>
 <li> 15:48 outlook.office.com</li>
 <li> 15:48 mail.rhul.ac.uk</li>
