@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6716)</li>
-<li>mail.google.com (4874)</li>
-<li>outlook.office.com (2391)</li>
+<ol><li>www.google.com (6720)</li>
+<li>mail.google.com (4883)</li>
+<li>outlook.office.com (2393)</li>
 <li>www.facebook.com (1913)</li>
-<li>docs.google.com (1603)</li>
+<li>docs.google.com (1610)</li>
 <li>calendar.google.com (1079)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (993)</li>
+<li>www.amazon.co.uk (995)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (812)</li>
 <li>www.reddit.com (786)</li>
@@ -90,10 +90,10 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (388)</li>
 <li>outlook.office365.com (363)</li>
 <li>forum.artofmemory.com (350)</li>
+<li>kdp.amazon.com (323)</li>
 <li>login.microsoftonline.com (323)</li>
-<li>kdp.amazon.com (321)</li>
 <li>bsky.app (311)</li>
-<li>web.whatsapp.com (302)</li>
+<li>web.whatsapp.com (303)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (257)</li>
 <li>www.theguardian.com (253)</li>
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:49 mail.google.com</li>
+<ul><li> 11:44 www.google.com</li>
+<li> 11:42 outlook.office.com</li>
+<li class='same'> 11:41 outlook.office.com</li>
+<li> 11:41 mail.google.com</li>
+<li> 11:40 docs.google.com</li>
+<li> 11:36 mail.google.com</li>
+<li> 11:36 web.whatsapp.com</li>
+<li> 11:32 mail.google.com</li>
+<li class='same'> 11:31 mail.google.com</li>
+<li> 11:31 <a href="https://en.wikipedia.org/wiki/Full-frame_DSLR#/media/File:Image_noise_Canon_EOS_6D.jpg">Full-frame DSLR - Wikipedia</a></li>
+<li> 11:31 <a href="https://en.wikipedia.org/wiki/Full-frame_DSLR#/media/File:Image_noise_Canon_EOS_7D_Mark_II.jpg">Image noise Canon EOS 6D - Full-frame DSLR - Wikipedia</a></li>
+<li> 11:31 <a href="https://en.wikipedia.org/wiki/Full-frame_DSLR#/media/File:Image_noise_Canon_EOS_6D.jpg">Full-frame DSLR - Wikipedia</a></li>
+<li> 11:31 <a href="https://en.wikipedia.org/wiki/Full-frame_DSLR#/media/File:Image_noise_Canon_EOS_7D_Mark_II.jpg">Image noise Canon EOS 6D - Full-frame DSLR - Wikipedia</a></li>
+<li> 11:31 <a href="https://en.wikipedia.org/wiki/Full-frame_DSLR#/media/File:Image_noise_Canon_EOS_6D.jpg">Full-frame DSLR - Wikipedia</a></li>
+<li> 11:31 <a href="https://en.wikipedia.org/wiki/Full-frame_DSLR#/media/File:Image_noise_Canon_EOS_7D_Mark_II.jpg">Image noise Canon EOS 6D - Full-frame DSLR - Wikipedia</a></li>
+<li> 11:31 <a href="https://en.wikipedia.org/wiki/Full-frame_DSLR#/media/File:Image_noise_Canon_EOS_6D.jpg">Full-frame DSLR - Wikipedia</a></li>
+<li> 11:31 <a href="https://en.wikipedia.org/wiki/Full-frame_DSLR#/media/File:Image_noise_Canon_EOS_7D_Mark_II.jpg">Image noise Canon EOS 6D - Full-frame DSLR - Wikipedia</a></li>
+<li> 11:31 <a href="https://en.wikipedia.org/wiki/Full-frame_DSLR#/media/File:Image_noise_Canon_EOS_6D.jpg">Full-frame DSLR - Wikipedia</a></li>
+<li> 11:30 <a href="https://en.wikipedia.org/wiki/Full-frame_DSLR#/media/File:D6-logo.svg">Image noise Canon EOS 6D - Full-frame DSLR - Wikipedia</a></li>
+<li> 11:30 <a href="https://en.wikipedia.org/wiki/Full-frame_DSLR#/media/File:Image_noise_Canon_EOS_6D.jpg">Full-frame DSLR - Wikipedia</a></li>
+<li> 11:28 <a href="https://en.wikipedia.org/wiki/Full-frame_DSLR">Full-frame DSLR - Wikipedia</a></li>
+<li> 11:28 www.google.com</li>
+<li> 11:27 mail.google.com</li>
+<li> 11:26 kdp.amazon.com</li>
+<li> 11:25 mail.google.com</li>
+<li> 11:13 www.google.com</li>
+<li> 11:13 www.amazon.co.uk</li>
+<li> 11:12 docs.google.com</li>
+<li class='same'> 11:11 docs.google.com</li>
+<li> 11:11 kdpreports.amazon.com</li>
+<li> 11:11 kdp.amazon.com</li>
+<li> 11:10 www.amazon.co.uk</li>
+<li> 11:10 www.google.com</li>
+<li> 11:05 docs.google.com</li>
+<li> 11:04 mail.google.com</li>
+<li> 11:04 docs.google.com</li>
+<li class='same'> 11:03 docs.google.com</li>
+<li class='same'> 11:02 docs.google.com</li>
+<li> 11:00 mail.google.com</li>
+<li class='same'> 10:59 mail.google.com</li>
+<li> 10:54 <a href="https://en.wikipedia.org/wiki/Ansel_Adams">Ansel Adams - Wikipedia</a></li>
+<li> 10:49 mail.google.com</li>
 <li class='same'> 10:48 mail.google.com</li>
 <li> 10:48 docs.google.com</li>
 <li class='same'> 10:47 docs.google.com</li>
