@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6723)</li>
-<li>mail.google.com (4888)</li>
-<li>outlook.office.com (2395)</li>
-<li>www.facebook.com (1913)</li>
+<ol><li>www.google.com (6728)</li>
+<li>mail.google.com (4894)</li>
+<li>outlook.office.com (2402)</li>
+<li>www.facebook.com (1916)</li>
 <li>docs.google.com (1613)</li>
 <li>calendar.google.com (1079)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
@@ -82,21 +82,21 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (661)</li>
 <li>chat.openai.com (554)</li>
 <li>whitewaterwriters.com (549)</li>
+<li>gmail.com (531)</li>
 <li>app.qbo.intuit.com (530)</li>
-<li>gmail.com (529)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (466)</li>
 <li>drive.google.com (391)</li>
 <li>teams.microsoft.com (388)</li>
 <li>outlook.office365.com (363)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>kdp.amazon.com (329)</li>
+<li>kdp.amazon.com (335)</li>
 <li>login.microsoftonline.com (323)</li>
 <li>bsky.app (311)</li>
-<li>web.whatsapp.com (303)</li>
+<li>web.whatsapp.com (305)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (257)</li>
-<li>www.theguardian.com (253)</li>
+<li>www.theguardian.com (254)</li>
 <li>www.ebay.co.uk (245)</li>
 
 
@@ -108,7 +108,71 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:41 kdp.amazon.com</li>
+<ul><li> 13:50 intranet.royalholloway.ac.uk</li>
+<li> 13:49 mail.google.com</li>
+<li> 13:49 gmail.com</li>
+<li> 13:48 intranet.royalholloway.ac.uk</li>
+<li> 13:47 royalholloway.ac.uk</li>
+<li> 13:47 intranet.royalholloway.ac.uk</li>
+<li> 13:47 www.google.com</li>
+<li> 13:43 intranet.royalholloway.ac.uk</li>
+<li class='same'> 13:41 intranet.royalholloway.ac.uk</li>
+<li class='same'> 13:39 intranet.royalholloway.ac.uk</li>
+<li> 13:39 outlook.office.com</li>
+<li> 13:39 intranet.royalholloway.ac.uk</li>
+<li> 13:38 royalhollowayucu.wordpress.com</li>
+<li> 13:38 www.google.com</li>
+<li> 13:38 outlook.office.com</li>
+<li> 13:38 mail.google.com</li>
+<li> 13:37 www.theguardian.com</li>
+<li> 13:30 www.facebook.com</li>
+<li class='same'> 13:29 www.facebook.com</li>
+<li> 13:28 hmcts-access.service.gov.uk</li>
+<li> 13:28 www1.moneyclaims.service.gov.uk</li>
+<li> 13:28 www.gov.uk</li>
+<li class='same'> 13:27 www.gov.uk</li>
+<li> 13:27 www.google.com</li>
+<li> 13:26 mail.google.com</li>
+<li> 13:25 www.facebook.com</li>
+<li> 13:25 mail.google.com</li>
+<li> 13:25 www.barkinganddagenhampost.co.uk</li>
+<li class='same'> 13:24 www.barkinganddagenhampost.co.uk</li>
+<li> 13:24 www.google.com</li>
+<li> 13:24 www.barkinganddagenhampost.co.uk</li>
+<li> 13:24 mail.google.com</li>
+<li> 13:24 outlook.office.com</li>
+<li> 13:22 web.whatsapp.com</li>
+<li> 13:21 library-search.open.ac.uk</li>
+<li class='same'> 13:20 library-search.open.ac.uk</li>
+<li class='same'> 13:19 library-search.open.ac.uk</li>
+<li> 13:19 web.whatsapp.com</li>
+<li> 13:19 library-search.open.ac.uk</li>
+<li> 13:19 www.google.com</li>
+<li> 13:18 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
+<li> 13:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 13:18 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 13:18 mail.google.com</li>
+<li> 13:18 gmail.com</li>
+<li> 13:17 outlook.office.com</li>
+<li class='same'> 13:16 outlook.office.com</li>
+<li> 13:16 kdp.amazon.com</li>
+<li> 13:16 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:15 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:14 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:11 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:08 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:05 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:04 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:03 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:02 gitlab.cim.rhul.ac.uk</li>
+<li> 13:02 outlook.office.com</li>
+<li class='same'> 13:01 outlook.office.com</li>
+<li> 13:01 kdp.amazon.com</li>
+<li class='same'> 13:00 kdp.amazon.com</li>
+<li class='same'> 12:59 kdp.amazon.com</li>
+<li class='same'> 12:58 kdp.amazon.com</li>
+<li class='same'> 12:57 kdp.amazon.com</li>
+<li class='same'> 12:41 kdp.amazon.com</li>
 <li> 12:40 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
 <li> 12:40 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:40 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
