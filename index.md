@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6731)</li>
-<li>mail.google.com (4911)</li>
-<li>outlook.office.com (2415)</li>
-<li>www.facebook.com (1919)</li>
-<li>docs.google.com (1619)</li>
+<ol><li>www.google.com (6733)</li>
+<li>mail.google.com (4927)</li>
+<li>outlook.office.com (2420)</li>
+<li>www.facebook.com (1922)</li>
+<li>docs.google.com (1621)</li>
 <li>calendar.google.com (1081)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (1005)</li>
+<li>www.amazon.co.uk (1006)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (816)</li>
 <li>www.reddit.com (787)</li>
 <li>www.linkedin.com (666)</li>
 <li>chat.openai.com (555)</li>
 <li>whitewaterwriters.com (549)</li>
-<li>gmail.com (534)</li>
+<li>gmail.com (535)</li>
 <li>app.qbo.intuit.com (530)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (471)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (364)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>kdp.amazon.com (341)</li>
-<li>login.microsoftonline.com (324)</li>
+<li>login.microsoftonline.com (325)</li>
 <li>bsky.app (311)</li>
 <li>web.whatsapp.com (307)</li>
 <li>rhul.sharepoint.com (265)</li>
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:32 www.instagram.com</li>
+<ul><li> 14:26 claude.ai</li>
+<li class='same'> 14:25 claude.ai</li>
+<li> 14:25 myview.rhul.zellis.com</li>
+<li class='same'> 14:24 myview.rhul.zellis.com</li>
+<li class='same'> 14:23 myview.rhul.zellis.com</li>
+<li> 14:23 login.microsoftonline.com</li>
+<li> 14:23 myview.rhul.zellis.com</li>
+<li> 14:23 intranet.royalholloway.ac.uk</li>
+<li> 14:23 claude.ai</li>
+<li class='same'> 14:22 claude.ai</li>
+<li> 14:12 intranet.royalholloway.ac.uk</li>
+<li> 14:12 outlook.office.com</li>
+<li> 14:11 mail.google.com</li>
+<li> 14:10 outlook.office.com</li>
+<li> 13:53 mail.google.com</li>
+<li class='same'> 13:52 mail.google.com</li>
+<li class='same'> 13:51 mail.google.com</li>
+<li> 13:50 forms.office.com</li>
+<li> 13:50 mail.google.com</li>
+<li class='same'> 13:49 mail.google.com</li>
+<li> 13:49 accounts.google.com</li>
+<li> 13:49 mail.google.com</li>
+<li> 13:49 gmail.com</li>
+<li> 13:49 mail.google.com</li>
+<li class='same'> 13:48 mail.google.com</li>
+<li> 13:45 www.meetup.com</li>
+<li> 13:44 newspeak.house</li>
+<li> 13:44 t.co</li>
+<li> 13:44 x.com</li>
+<li> 13:44 www.google.com</li>
+<li> 13:43 www.facebook.com</li>
+<li> 13:43 mail.google.com</li>
+<li class='same'> 13:42 mail.google.com</li>
+<li> 13:41 www.amazon.co.uk</li>
+<li> 13:41 www.google.com</li>
+<li> 13:41 docs.google.com</li>
+<li> 13:41 mail.google.com</li>
+<li> 13:40 www.facebook.com</li>
+<li> 13:40 mail.google.com</li>
+<li class='same'> 13:39 mail.google.com</li>
+<li> 13:37 www.facebook.com</li>
+<li> 13:37 outlook.office.com</li>
+<li class='same'> 13:36 outlook.office.com</li>
+<li class='same'> 13:35 outlook.office.com</li>
+<li> 13:34 mail.google.com</li>
+<li> 13:33 docs.google.com</li>
+<li> 13:33 mail.google.com</li>
+<li> 13:32 www.instagram.com</li>
 <li class='same'> 13:31 www.instagram.com</li>
 <li> 13:31 mail.google.com</li>
 <li> 13:30 www.facebook.com</li>
