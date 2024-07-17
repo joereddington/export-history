@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6733)</li>
-<li>mail.google.com (4928)</li>
-<li>outlook.office.com (2424)</li>
+<li>mail.google.com (4929)</li>
+<li>outlook.office.com (2431)</li>
 <li>www.facebook.com (1922)</li>
 <li>docs.google.com (1621)</li>
 <li>moodle.royalholloway.ac.uk (1083)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:31 outlook.office.com</li>
+<ul><li> 15:46 claude.ai</li>
+<li class='same'> 15:45 claude.ai</li>
+<li class='same'> 15:44 claude.ai</li>
+<li class='same'> 15:43 claude.ai</li>
+<li> 15:42 outlook.office.com</li>
+<li class='same'> 15:41 outlook.office.com</li>
+<li class='same'> 15:40 outlook.office.com</li>
+<li> 15:38 www.natesilver.net</li>
+<li> 15:37 mail.google.com</li>
+<li> 15:37 outlook.office.com</li>
+<li class='same'> 15:35 outlook.office.com</li>
+<li> 15:34 claude.ai</li>
+<li> 15:34 myview.rhul.zellis.com</li>
+<li> 15:34 claude.ai</li>
+<li class='same'> 15:33 claude.ai</li>
+<li> 15:33 outlook.office.com</li>
+<li class='same'> 15:32 outlook.office.com</li>
+<li class='same'> 15:31 outlook.office.com</li>
 <li class='same'> 15:30 outlook.office.com</li>
 <li class='same'> 15:27 outlook.office.com</li>
 <li> 15:27 mail.google.com</li>
