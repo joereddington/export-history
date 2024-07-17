@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6731)</li>
+<ol><li>www.google.com (6729)</li>
 <li>mail.google.com (4894)</li>
 <li>outlook.office.com (2404)</li>
 <li>www.facebook.com (1916)</li>
-<li>docs.google.com (1617)</li>
+<li>docs.google.com (1618)</li>
 <li>calendar.google.com (1079)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (995)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:49 drive.google.com</li>
+<ul><li> 06:49 docs.google.com</li>
+<li> 06:49 drive.google.com</li>
 <li> 06:49 docs.google.com</li>
 <li class='same'> 06:48 docs.google.com</li>
 <li class='same'> 06:47 docs.google.com</li>
@@ -17391,7 +17392,6 @@ With number of accesses/minutes in parentheses
 <li> 12:08 www.linkedin.com</li>
 <li> 12:01 outlook.office.com</li>
 <li> 12:00 forms.office.com</li>
-<li> 12:00 eur03.safelinks.protection.outlook.com</li>
 <li> 12:00 outlook.office.com</li>
 <li class='same'> 11:59 outlook.office.com</li>
 <li> 11:59 calendar.google.com</li>
@@ -17399,7 +17399,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:58 outlook.office.com</li>
 <li> 11:58 www.google.com</li>
 <li> 11:57 royalholloway.ac.uk</li>
-<li> 11:57 eur03.safelinks.protection.outlook.com</li>
 <li> 11:56 www.google.com</li>
 <li> 11:56 outlook.office.com</li>
 <li> 11:56 calendar.google.com</li>
@@ -17419,8 +17418,6 @@ With number of accesses/minutes in parentheses
 <li> 11:46 intranet.royalholloway.ac.uk</li>
 <li class='same'> 11:45 intranet.royalholloway.ac.uk</li>
 <li class='same'> 11:44 intranet.royalholloway.ac.uk</li>
-<li class='same'> 11:43 intranet.royalholloway.ac.uk</li>
-<li class='same'> 11:42 intranet.royalholloway.ac.uk</li>
 <li class='same'> 11:40 intranet.royalholloway.ac.uk</li>
 <li> 11:40 nathanjamesdearden.com</li>
 <li> 11:40 www.royalholloway.ac.uk</li>
@@ -17431,7 +17428,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:38 the-awards.co.uk</li>
 <li> 11:38 www.google.com</li>
 <li> 11:38 intranet.royalholloway.ac.uk</li>
-<li> 11:38 eur03.safelinks.protection.outlook.com</li>
 <li> 11:38 links.mail2.spopessentials2.com</li>
 <li> 11:38 outlook.office.com</li>
 <li class='same'> 11:37 outlook.office.com</li>
@@ -17487,7 +17483,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:21 www.facebook.com</li>
 <li> 10:21 chat.openai.com</li>
 <li> 10:20 1919magazine.co.uk</li>
-<li> 10:20 www.google.com</li>
 <li> 10:20 mail.google.com</li>
 <li class='same'> 10:19 mail.google.com</li>
 <li> 10:19 gmail.com</li>
@@ -17535,7 +17530,6 @@ With number of accesses/minutes in parentheses
 <li> 09:29 chat.openai.com</li>
 <li> 09:29 mail.google.com</li>
 <li> 09:29 kdpreports.amazon.com</li>
-<li> 09:29 accounts.google.com</li>
 <li> 09:28 www.linkedin.com</li>
 <li> 09:28 accounts.google.com</li>
 <li> 09:28 mail.google.com</li>
@@ -17547,8 +17541,7 @@ With number of accesses/minutes in parentheses
 <li> 09:26 mail.google.com</li>
 <li> 09:26 www.google.com</li>
 <li> 09:25 www.ibreatheimhungry.com</li>
-<li> 09:25 www.google.com</li>
-<li class='same'> 09:24 www.google.com</li>
+<li> 09:24 www.google.com</li>
 <li> 09:23 mail.google.com</li>
 <li> 09:22 web.whatsapp.com</li>
 </ul>
@@ -17562,8 +17555,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 06:01 mail.google.com</li>
 <li class='same'> 06:00 mail.google.com</li>
-<li> 05:58 www.academia.edu</li>
-<li> 05:58 d1wqtxts1xzle7.cloudfront.net</li>
 <li> 05:58 Local file</li>
 <li> 05:57 www.academia.edu</li>
 <li> 05:57 outlook.office.com</li>
@@ -17578,8 +17569,6 @@ With number of accesses/minutes in parentheses
 <li> 05:55 www.academia.edu</li>
 <li class='same'> 05:54 www.academia.edu</li>
 <li class='same'> 05:53 www.academia.edu</li>
-<li> 05:53 appleid.apple.com</li>
-<li> 05:53 www.academia.edu</li>
 <li class='same'> 05:52 www.academia.edu</li>
 <li> 05:52 forum.artofmemory.com</li>
 <li> 05:52 us02web.zoom.us</li>
