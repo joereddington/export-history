@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1081)</li>
 <li>www.amazon.co.uk (1006)</li>
 <li>github.com (941)</li>
-<li>m.facebook.com (816)</li>
+<li>m.facebook.com (818)</li>
 <li>www.reddit.com (787)</li>
 <li>www.linkedin.com (666)</li>
 <li>chat.openai.com (555)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 17/07/24</H3>
+
+<br>
+
+<ul><li> 17:55 m.facebook.com</li>
+</ul>
 
 <br>
 
@@ -322,7 +327,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:03 m.facebook.com</li>
+<ul><li> 16:20 m.facebook.com</li>
+<li class='same'> 16:03 m.facebook.com</li>
 <li class='same'> 16:02 m.facebook.com</li>
 <li class='same'> 16:01 m.facebook.com</li>
 <li> 15:53 www.reddit.com</li>
@@ -55772,6 +55778,7 @@ With number of accesses/minutes in parentheses
 <li> 13:33 mail.google.com</li>
 <li> 13:32 equalitytime.co.uk</li>
 <li> 13:31 www.qiq.support</li>
+<li class='same'> 13:30 www.qiq.support</li>
 <li> 13:14 www.dropbox.com</li>
 <li> 12:57 github.com</li>
 <li> 12:34 www.linkedin.com</li>
@@ -57990,7 +57997,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:16 dash.cloudflare.com</li>
 <li class='same'> 10:15 dash.cloudflare.com</li>
 <li class='same'> 10:14 dash.cloudflare.com</li>
-<li> 10:11 www.qiq.support</li>
+<li> 10:12 www.qiq.support</li>
+<li class='same'> 10:11 www.qiq.support</li>
 <li> 10:07 dash.cloudflare.com</li>
 <li> 10:01 workspace.google.com</li>
 <li> 10:01 www.google.com</li>
@@ -58116,9 +58124,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:44 equalitytime.co.uk</li>
+<li> 14:44 www.qiq.support</li>
 <li> 14:44 www.projectreal.co.uk</li>
 <li> 14:43 theopenvoicefactory.org</li>
-<li> 14:42 www.qiq.support</li>
+<li> 14:43 www.qiq.support</li>
+<li class='same'> 14:42 www.qiq.support</li>
 <li> 14:38 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 <li> 14:38 ubuntu.com</li>
 <li> 14:35 eu-west-2.console.aws.amazon.com</li>
@@ -58284,6 +58294,7 @@ With number of accesses/minutes in parentheses
 <li> 06:34 challengeworks.org</li>
 <li> 06:25 skeet.labnotes.org</li>
 <li> 06:19 www.qiq.support</li>
+<li class='same'> 06:18 www.qiq.support</li>
 </ul>
 
 <H3>Wednesday, 26/07/23</H3>
