@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6730)</li>
-<li>mail.google.com (4896)</li>
-<li>outlook.office.com (2411)</li>
+<li>mail.google.com (4900)</li>
+<li>outlook.office.com (2415)</li>
 <li>www.facebook.com (1916)</li>
 <li>docs.google.com (1618)</li>
 <li>calendar.google.com (1079)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (661)</li>
 <li>chat.openai.com (555)</li>
 <li>whitewaterwriters.com (549)</li>
-<li>gmail.com (532)</li>
+<li>gmail.com (533)</li>
 <li>app.qbo.intuit.com (530)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (471)</li>
@@ -90,10 +90,10 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (388)</li>
 <li>outlook.office365.com (364)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>kdp.amazon.com (339)</li>
+<li>kdp.amazon.com (341)</li>
 <li>login.microsoftonline.com (324)</li>
 <li>bsky.app (311)</li>
-<li>web.whatsapp.com (306)</li>
+<li>web.whatsapp.com (307)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (257)</li>
 <li>www.theguardian.com (256)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:19 claude.ai</li>
+<ul><li> 12:06 shop.parkrun.com</li>
+<li> 12:03 web.whatsapp.com</li>
+<li> 12:02 shop.parkrun.com</li>
+<li class='same'> 12:01 shop.parkrun.com</li>
+<li> 12:01 mail.google.com</li>
+<li> 12:01 shop.parkrun.com</li>
+<li> 12:01 mail.google.com</li>
+<li> 12:00 onlinelibrary.wiley.com</li>
+<li> 12:00 scholar.google.co.uk</li>
+<li> 12:00 onlinelibrary.wiley.com</li>
+<li> 12:00 mail.google.com</li>
+<li> 11:59 www.qiq.support</li>
+<li class='same'> 11:57 www.qiq.support</li>
+<li> 11:57 mail.google.com</li>
+<li> 11:57 gmail.com</li>
+<li> 11:53 kdp.amazon.com</li>
+<li class='same'> 11:52 kdp.amazon.com</li>
+<li> 11:50 outlook.office.com</li>
+<li> 11:50 gitlab.cim.rhul.ac.uk</li>
+<li> 11:47 outlook.office.com</li>
+<li class='same'> 11:46 outlook.office.com</li>
+<li class='same'> 11:40 outlook.office.com</li>
+<li> 11:39 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 11:38 gitlab.cim.rhul.ac.uk</li>
+<li> 11:19 claude.ai</li>
 <li class='same'> 11:17 claude.ai</li>
 <li class='same'> 11:09 claude.ai</li>
 <li class='same'> 11:04 claude.ai</li>
