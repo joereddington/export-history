@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6730)</li>
-<li>mail.google.com (4895)</li>
-<li>outlook.office.com (2404)</li>
+<li>mail.google.com (4896)</li>
+<li>outlook.office.com (2411)</li>
 <li>www.facebook.com (1916)</li>
 <li>docs.google.com (1618)</li>
 <li>calendar.google.com (1079)</li>
@@ -90,8 +90,8 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (388)</li>
 <li>outlook.office365.com (364)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>kdp.amazon.com (338)</li>
-<li>login.microsoftonline.com (323)</li>
+<li>kdp.amazon.com (339)</li>
+<li>login.microsoftonline.com (324)</li>
 <li>bsky.app (311)</li>
 <li>web.whatsapp.com (306)</li>
 <li>rhul.sharepoint.com (265)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:23 kdp.amazon.com</li>
+<ul><li> 11:19 claude.ai</li>
+<li class='same'> 11:17 claude.ai</li>
+<li class='same'> 11:09 claude.ai</li>
+<li class='same'> 11:04 claude.ai</li>
+<li> 10:59 mail.google.com</li>
+<li> 10:50 outlook.office.com</li>
+<li> 10:48 kdp.amazon.com</li>
+<li> 10:43 claude.ai</li>
+<li class='same'> 10:42 claude.ai</li>
+<li> 10:39 outlook.office.com</li>
+<li class='same'> 10:37 outlook.office.com</li>
+<li> 10:37 rhul-my.sharepoint.com</li>
+<li> 10:37 login.microsoftonline.com</li>
+<li> 10:37 outlook.office.com</li>
+<li class='same'> 10:36 outlook.office.com</li>
+<li class='same'> 10:35 outlook.office.com</li>
+<li class='same'> 10:34 outlook.office.com</li>
+<li> 10:23 kdp.amazon.com</li>
 <li class='same'> 10:21 kdp.amazon.com</li>
 <li> 10:21 www.amazon.co.uk</li>
 <li> 10:21 kdp.amazon.com</li>
