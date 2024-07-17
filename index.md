@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6729)</li>
-<li>mail.google.com (4894)</li>
+<ol><li>www.google.com (6730)</li>
+<li>mail.google.com (4895)</li>
 <li>outlook.office.com (2404)</li>
 <li>www.facebook.com (1916)</li>
 <li>docs.google.com (1618)</li>
 <li>calendar.google.com (1079)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (995)</li>
+<li>www.amazon.co.uk (1005)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (816)</li>
 <li>www.reddit.com (787)</li>
 <li>www.linkedin.com (661)</li>
 <li>chat.openai.com (555)</li>
 <li>whitewaterwriters.com (549)</li>
-<li>gmail.com (531)</li>
+<li>gmail.com (532)</li>
 <li>app.qbo.intuit.com (530)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (471)</li>
@@ -90,10 +90,10 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (388)</li>
 <li>outlook.office365.com (364)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>kdp.amazon.com (335)</li>
+<li>kdp.amazon.com (338)</li>
 <li>login.microsoftonline.com (323)</li>
 <li>bsky.app (311)</li>
-<li>web.whatsapp.com (305)</li>
+<li>web.whatsapp.com (306)</li>
 <li>rhul.sharepoint.com (265)</li>
 <li>Local file (257)</li>
 <li>www.theguardian.com (256)</li>
@@ -105,6 +105,27 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 17/07/24</H3>
+
+<br>
+
+<ul><li> 10:23 kdp.amazon.com</li>
+<li class='same'> 10:21 kdp.amazon.com</li>
+<li> 10:21 www.amazon.co.uk</li>
+<li> 10:21 kdp.amazon.com</li>
+<li> 10:21 www.amazon.co.uk</li>
+<li class='same'> 10:20 www.amazon.co.uk</li>
+<li> 10:19 www.google.com</li>
+<li> 10:18 www.amazon.co.uk</li>
+<li class='same'> 10:17 www.amazon.co.uk</li>
+<li class='same'> 10:16 www.amazon.co.uk</li>
+<li class='same'> 10:14 www.amazon.co.uk</li>
+<li class='same'> 10:13 www.amazon.co.uk</li>
+<li class='same'> 10:12 www.amazon.co.uk</li>
+<li> 10:10 web.whatsapp.com</li>
+<li> 10:10 www.amazon.co.uk</li>
+<li> 10:10 mail.google.com</li>
+<li> 10:10 gmail.com</li>
+</ul>
 
 <br>
 
