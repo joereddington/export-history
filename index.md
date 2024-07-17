@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6733)</li>
-<li>mail.google.com (4927)</li>
-<li>outlook.office.com (2420)</li>
+<li>mail.google.com (4928)</li>
+<li>outlook.office.com (2424)</li>
 <li>www.facebook.com (1922)</li>
 <li>docs.google.com (1621)</li>
+<li>moodle.royalholloway.ac.uk (1083)</li>
 <li>calendar.google.com (1081)</li>
-<li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (1006)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (816)</li>
@@ -90,8 +90,8 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (388)</li>
 <li>outlook.office365.com (364)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>kdp.amazon.com (341)</li>
-<li>login.microsoftonline.com (325)</li>
+<li>kdp.amazon.com (342)</li>
+<li>login.microsoftonline.com (327)</li>
 <li>bsky.app (311)</li>
 <li>web.whatsapp.com (307)</li>
 <li>rhul.sharepoint.com (265)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:26 claude.ai</li>
+<ul><li> 15:31 outlook.office.com</li>
+<li class='same'> 15:30 outlook.office.com</li>
+<li class='same'> 15:27 outlook.office.com</li>
+<li> 15:27 mail.google.com</li>
+<li> 15:27 kdp.amazon.com</li>
+<li> 15:26 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:24 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:22 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:21 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:20 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:19 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:16 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:13 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:12 moodle.royalholloway.ac.uk</li>
+<li> 15:11 myview.rhul.zellis.com</li>
+<li class='same'> 15:10 myview.rhul.zellis.com</li>
+<li> 15:10 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:05 moodle.royalholloway.ac.uk</li>
+<li> 15:04 myview.rhul.zellis.com</li>
+<li> 15:04 login.microsoftonline.com</li>
+<li> 15:03 services.elumos.net</li>
+<li> 15:03 moodle.royalholloway.ac.uk</li>
+<li> 14:54 myview.rhul.zellis.com</li>
+<li> 14:48 moodle.royalholloway.ac.uk</li>
+<li> 14:47 myview.rhul.zellis.com</li>
+<li> 14:45 moodle.royalholloway.ac.uk</li>
+<li> 14:45 login.microsoftonline.com</li>
+<li> 14:45 myview.rhul.zellis.com</li>
+<li class='same'> 14:44 myview.rhul.zellis.com</li>
+<li> 14:39 outlook.office.com</li>
+<li> 14:38 intranet.royalholloway.ac.uk</li>
+<li> 14:26 claude.ai</li>
 <li class='same'> 14:25 claude.ai</li>
 <li> 14:25 myview.rhul.zellis.com</li>
 <li class='same'> 14:24 myview.rhul.zellis.com</li>
