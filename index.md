@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4894)</li>
 <li>outlook.office.com (2404)</li>
 <li>www.facebook.com (1916)</li>
-<li>docs.google.com (1613)</li>
+<li>docs.google.com (1617)</li>
 <li>calendar.google.com (1079)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (995)</li>
 <li>github.com (941)</li>
-<li>m.facebook.com (813)</li>
+<li>m.facebook.com (816)</li>
 <li>www.reddit.com (787)</li>
 <li>www.linkedin.com (661)</li>
 <li>chat.openai.com (554)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (530)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (471)</li>
-<li>drive.google.com (391)</li>
+<li>drive.google.com (392)</li>
 <li>teams.microsoft.com (388)</li>
 <li>outlook.office365.com (364)</li>
 <li>forum.artofmemory.com (350)</li>
@@ -104,11 +104,29 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 17/07/24</H3>
+
+<br>
+
+<ul><li> 06:49 drive.google.com</li>
+<li> 06:49 docs.google.com</li>
+<li class='same'> 06:48 docs.google.com</li>
+<li class='same'> 06:47 docs.google.com</li>
+<li class='same'> 06:46 docs.google.com</li>
+</ul>
+
 <H3>Tuesday, 16/07/24</H3>
 
 <br>
 
-<ul><li> 15:53 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 16:03 m.facebook.com</li>
+<li class='same'> 16:02 m.facebook.com</li>
+<li class='same'> 16:01 m.facebook.com</li>
+<li> 15:53 www.reddit.com</li>
 <li> 15:53 www.google.com</li>
 <li> 15:52 en.m.wikipedia.org</li>
 <li> 15:50 www.theguardian.com</li>
