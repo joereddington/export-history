@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6733)</li>
 <li>mail.google.com (4929)</li>
-<li>outlook.office.com (2431)</li>
+<li>outlook.office.com (2435)</li>
 <li>www.facebook.com (1922)</li>
 <li>docs.google.com (1621)</li>
 <li>moodle.royalholloway.ac.uk (1083)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (941)</li>
 <li>m.facebook.com (818)</li>
 <li>www.reddit.com (787)</li>
-<li>www.linkedin.com (666)</li>
+<li>www.linkedin.com (669)</li>
 <li>chat.openai.com (555)</li>
 <li>whitewaterwriters.com (549)</li>
 <li>gmail.com (535)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:29 claude.ai</li>
+<ul><li> 11:41 outlook.office.com</li>
+<li class='same'> 11:40 outlook.office.com</li>
+<li> 11:40 www.linkedin.com</li>
+<li> 11:40 outlook.office.com</li>
+<li> 11:40 www.linkedin.com</li>
+<li class='same'> 11:39 www.linkedin.com</li>
+<li> 11:39 outlook.office.com</li>
+<li> 11:36 claude.ai</li>
+<li class='same'> 11:32 claude.ai</li>
+<li class='same'> 11:30 claude.ai</li>
+<li class='same'> 11:29 claude.ai</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:29 claude.ai</li>
 </ul>
 
 <H3>Wednesday, 17/07/24</H3>
