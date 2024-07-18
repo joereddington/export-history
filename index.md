@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6733)</li>
-<li>mail.google.com (4929)</li>
-<li>outlook.office.com (2435)</li>
-<li>www.facebook.com (1922)</li>
+<ol><li>www.google.com (6735)</li>
+<li>mail.google.com (4931)</li>
+<li>outlook.office.com (2439)</li>
+<li>www.facebook.com (1927)</li>
 <li>docs.google.com (1621)</li>
 <li>moodle.royalholloway.ac.uk (1083)</li>
 <li>calendar.google.com (1081)</li>
-<li>www.amazon.co.uk (1006)</li>
+<li>www.amazon.co.uk (1008)</li>
 <li>github.com (941)</li>
 <li>m.facebook.com (818)</li>
 <li>www.reddit.com (787)</li>
-<li>www.linkedin.com (669)</li>
+<li>www.linkedin.com (672)</li>
 <li>chat.openai.com (555)</li>
 <li>whitewaterwriters.com (549)</li>
-<li>gmail.com (535)</li>
+<li>gmail.com (536)</li>
 <li>app.qbo.intuit.com (530)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (471)</li>
@@ -93,11 +93,11 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (342)</li>
 <li>login.microsoftonline.com (325)</li>
 <li>bsky.app (311)</li>
-<li>web.whatsapp.com (307)</li>
+<li>web.whatsapp.com (308)</li>
 <li>rhul.sharepoint.com (264)</li>
+<li>www.theguardian.com (258)</li>
 <li>Local file (257)</li>
-<li>www.theguardian.com (256)</li>
-<li>www.ebay.co.uk (245)</li>
+<li>www.giantitp.com (245)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,44 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:41 outlook.office.com</li>
+<ul><li> 15:57 www.amazon.co.uk</li>
+<li> 15:57 mail.google.com</li>
+<li> 15:57 www.amazon.co.uk</li>
+<li> 15:57 mail.google.com</li>
+<li> 15:57 gmail.com</li>
+<li> 15:55 www.theguardian.com</li>
+<li class='same'> 15:54 www.theguardian.com</li>
+<li> 15:54 www.giantitp.com</li>
+<li class='same'> 15:53 www.giantitp.com</li>
+<li> 15:52 phdcomics.com</li>
+<li> 15:51 www.giantitp.com</li>
+<li> 15:51 www.google.com</li>
+<li> 15:51 outlook.office.com</li>
+<li> 15:51 www.facebook.com</li>
+<li class='same'> 15:45 www.facebook.com</li>
+<li> 15:40 www.chortle.co.uk</li>
+<li> 15:40 l.facebook.com</li>
+<li> 15:39 www.linkedin.com</li>
+<li> 15:38 outlook.office.com</li>
+<li> 15:37 www.facebook.com</li>
+<li class='same'> 15:36 www.facebook.com</li>
+<li> 15:32 intranet.royalholloway.ac.uk</li>
+<li class='same'> 15:30 intranet.royalholloway.ac.uk</li>
+<li> 15:30 www.google.com</li>
+<li> 15:29 www.royalholloway.ac.uk</li>
+<li> 15:29 gitlab.cim.rhul.ac.uk</li>
+<li> 15:28 rhul-my.sharepoint.com</li>
+<li> 15:28 web.whatsapp.com</li>
+<li> 15:28 www.facebook.com</li>
+<li> 15:28 outlook.office.com</li>
+<li> 15:26 www.linkedin.com</li>
+<li class='same'> 15:25 www.linkedin.com</li>
+<li> 15:24 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:41 outlook.office.com</li>
 <li class='same'> 11:40 outlook.office.com</li>
 <li> 11:40 www.linkedin.com</li>
 <li> 11:40 outlook.office.com</li>
