@@ -87,14 +87,14 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (471)</li>
 <li>drive.google.com (392)</li>
-<li>teams.microsoft.com (388)</li>
+<li>teams.microsoft.com (386)</li>
 <li>outlook.office365.com (364)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>kdp.amazon.com (342)</li>
-<li>login.microsoftonline.com (327)</li>
+<li>login.microsoftonline.com (325)</li>
 <li>bsky.app (311)</li>
 <li>web.whatsapp.com (307)</li>
-<li>rhul.sharepoint.com (265)</li>
+<li>rhul.sharepoint.com (264)</li>
 <li>Local file (257)</li>
 <li>www.theguardian.com (256)</li>
 <li>www.ebay.co.uk (245)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 18/07/24</H3>
+
+<br>
+
+<ul><li> 08:29 claude.ai</li>
+</ul>
+
 <H3>Wednesday, 17/07/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -17462,19 +17473,13 @@ With number of accesses/minutes in parentheses
 <li> 17:50 www.royalholloway.ac.uk</li>
 <li> 17:50 www.google.com</li>
 <li> 17:48 teams.microsoft.com</li>
-<li> 17:48 login.microsoftonline.com</li>
-<li> 17:48 teams.microsoft.com</li>
 <li> 17:48 outlook.office.com</li>
 <li> 17:48 login.microsoftonline.com</li>
 <li> 17:48 www.mozilla.org</li>
 <li> 17:33 outlook.office.com</li>
 <li> 17:32 teams.microsoft.com</li>
-<li> 17:32 login.microsoftonline.com</li>
-<li> 17:32 teams.microsoft.com</li>
 <li> 17:32 aka.ms</li>
-<li> 17:31 rhul.sharepoint.com</li>
-<li class='same'> 17:30 rhul.sharepoint.com</li>
-<li> 17:30 eur03.safelinks.protection.outlook.com</li>
+<li> 17:30 rhul.sharepoint.com</li>
 <li> 17:30 outlook.office.com</li>
 <li class='same'> 17:28 outlook.office.com</li>
 <li> 17:28 rhul.sharepoint.com</li>
