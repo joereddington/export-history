@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6739)</li>
-<li>mail.google.com (4937)</li>
-<li>outlook.office.com (2445)</li>
+<li>mail.google.com (4938)</li>
+<li>outlook.office.com (2446)</li>
 <li>www.facebook.com (1930)</li>
 <li>docs.google.com (1623)</li>
 <li>calendar.google.com (1081)</li>
@@ -86,16 +86,16 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (530)</li>
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (471)</li>
-<li>drive.google.com (393)</li>
-<li>teams.microsoft.com (385)</li>
+<li>drive.google.com (394)</li>
+<li>teams.microsoft.com (386)</li>
 <li>outlook.office365.com (364)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>kdp.amazon.com (342)</li>
 <li>login.microsoftonline.com (323)</li>
 <li>bsky.app (311)</li>
 <li>web.whatsapp.com (311)</li>
+<li>www.theguardian.com (263)</li>
 <li>rhul.sharepoint.com (263)</li>
-<li>www.theguardian.com (262)</li>
 <li>Local file (257)</li>
 <li>www.giantitp.com (245)</li>
 
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:51 www.theguardian.com</li>
+<ul><li> 12:02 teams.microsoft.com</li>
+<li> 11:58 rhul-my.sharepoint.com</li>
+<li> 11:57 drive.google.com</li>
+<li> 11:55 claude.ai</li>
+<li class='same'> 11:54 claude.ai</li>
+<li> 11:54 outlook.office.com</li>
+<li> 11:54 mail.google.com</li>
+<li> 11:52 www.theguardian.com</li>
+<li class='same'> 11:51 www.theguardian.com</li>
 <li> 11:51 www.linkedin.com</li>
 <li> 11:50 outlook.office.com</li>
 <li> 11:50 www.linkedin.com</li>
