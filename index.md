@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6739)</li>
-<li>mail.google.com (4938)</li>
-<li>outlook.office.com (2446)</li>
+<li>mail.google.com (4940)</li>
+<li>outlook.office.com (2452)</li>
 <li>www.facebook.com (1930)</li>
 <li>docs.google.com (1623)</li>
 <li>calendar.google.com (1081)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (942)</li>
 <li>m.facebook.com (818)</li>
 <li>www.reddit.com (787)</li>
-<li>www.linkedin.com (689)</li>
+<li>www.linkedin.com (690)</li>
 <li>chat.openai.com (555)</li>
 <li>whitewaterwriters.com (549)</li>
 <li>gmail.com (537)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (498)</li>
 <li>en.m.wikipedia.org (471)</li>
 <li>drive.google.com (394)</li>
-<li>teams.microsoft.com (386)</li>
+<li>teams.microsoft.com (387)</li>
 <li>outlook.office365.com (364)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>kdp.amazon.com (342)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:02 teams.microsoft.com</li>
+<ul><li> 12:52 www.linkedin.com</li>
+<li> 12:44 outlook.office.com</li>
+<li class='same'> 12:34 outlook.office.com</li>
+<li> 12:26 rhul-my.sharepoint.com</li>
+<li> 12:22 outlook.office.com</li>
+<li> 12:18 mail.google.com</li>
+<li> 12:17 pure.royalholloway.ac.uk</li>
+<li> 12:15 rhul-my.sharepoint.com</li>
+<li> 12:15 outlook.office.com</li>
+<li> 12:14 rhul-my.sharepoint.com</li>
+<li> 12:12 outlook.office.com</li>
+<li class='same'> 12:11 outlook.office.com</li>
+<li> 12:04 teams.microsoft.com</li>
+<li> 12:03 mail.google.com</li>
+<li> 12:02 teams.microsoft.com</li>
 <li> 11:58 rhul-my.sharepoint.com</li>
 <li> 11:57 drive.google.com</li>
 <li> 11:55 claude.ai</li>
