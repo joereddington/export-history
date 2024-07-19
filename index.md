@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6738)</li>
+<ol><li>www.google.com (6739)</li>
 <li>mail.google.com (4937)</li>
-<li>outlook.office.com (2441)</li>
+<li>outlook.office.com (2445)</li>
 <li>www.facebook.com (1930)</li>
 <li>docs.google.com (1623)</li>
 <li>calendar.google.com (1081)</li>
 <li>moodle.royalholloway.ac.uk (1064)</li>
-<li>www.amazon.co.uk (1008)</li>
+<li>www.amazon.co.uk (1009)</li>
 <li>github.com (942)</li>
 <li>m.facebook.com (818)</li>
 <li>www.reddit.com (787)</li>
-<li>www.linkedin.com (685)</li>
+<li>www.linkedin.com (689)</li>
 <li>chat.openai.com (555)</li>
 <li>whitewaterwriters.com (549)</li>
 <li>gmail.com (537)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>web.whatsapp.com (311)</li>
 <li>rhul.sharepoint.com (263)</li>
-<li>www.theguardian.com (261)</li>
+<li>www.theguardian.com (262)</li>
 <li>Local file (257)</li>
 <li>www.giantitp.com (245)</li>
 
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:42 www.linkedin.com</li>
+<ul><li> 11:51 www.theguardian.com</li>
+<li> 11:51 www.linkedin.com</li>
+<li> 11:50 outlook.office.com</li>
+<li> 11:50 www.linkedin.com</li>
+<li> 11:49 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:47 outlook.office.com</li>
+<li> 10:47 www.linkedin.com</li>
+<li> 10:45 intranet.royalholloway.ac.uk</li>
+<li> 10:45 www.google.com</li>
+<li> 10:44 www.linkedin.com</li>
+<li> 10:43 www.amazon.co.uk</li>
+<li> 10:43 outlook.office.com</li>
+<li> 10:42 www.linkedin.com</li>
 <li> 10:42 <a href="https://www.bbc.co.uk/news/live/cnk4jdwp49et">IT outage live updates: Planes grounded as mass worldwide issue hits airlines, media and banks - BBC News</a></li>
 <li> 10:41 www.linkedin.com</li>
 <li> 10:40 mail.google.com</li>
