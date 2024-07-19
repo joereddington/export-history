@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6735)</li>
-<li>mail.google.com (4931)</li>
-<li>outlook.office.com (2437)</li>
-<li>www.facebook.com (1927)</li>
+<ol><li>www.google.com (6737)</li>
+<li>mail.google.com (4932)</li>
+<li>outlook.office.com (2439)</li>
+<li>www.facebook.com (1930)</li>
 <li>docs.google.com (1623)</li>
 <li>calendar.google.com (1081)</li>
 <li>moodle.royalholloway.ac.uk (1064)</li>
 <li>www.amazon.co.uk (1008)</li>
-<li>github.com (941)</li>
+<li>github.com (942)</li>
 <li>m.facebook.com (818)</li>
 <li>www.reddit.com (787)</li>
-<li>www.linkedin.com (672)</li>
+<li>www.linkedin.com (677)</li>
 <li>chat.openai.com (555)</li>
 <li>whitewaterwriters.com (549)</li>
 <li>gmail.com (536)</li>
@@ -93,9 +93,9 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (342)</li>
 <li>login.microsoftonline.com (323)</li>
 <li>bsky.app (311)</li>
-<li>web.whatsapp.com (308)</li>
+<li>web.whatsapp.com (309)</li>
 <li>rhul.sharepoint.com (263)</li>
-<li>www.theguardian.com (258)</li>
+<li>www.theguardian.com (261)</li>
 <li>Local file (257)</li>
 <li>www.giantitp.com (245)</li>
 
@@ -108,7 +108,44 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:10 docs.google.com</li>
+<ul><li> 07:48 www.buzzfeed.com</li>
+<li class='same'> 07:47 www.buzzfeed.com</li>
+<li> 07:47 web.whatsapp.com</li>
+<li> 07:43 www.buzzfeed.com</li>
+<li> 07:41 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 07:40 www.facebook.com</li>
+<li class='same'> 07:26 www.facebook.com</li>
+<li class='same'> 07:19 www.facebook.com</li>
+<li> 07:04 www.google.com</li>
+<li> 07:02 www.linkedin.com</li>
+<li class='same'> 07:01 www.linkedin.com</li>
+<li> 06:49 <a href="https://joereddington.com/export-history/slots.png">slots.png (PNG Image, 1200 × 800 pixels)</a></li>
+<li> 06:48 www.google.com</li>
+<li> 06:39 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 06:37 claude.ai</li>
+<li> 06:35 raw.githubusercontent.com</li>
+<li> 06:35 github.com</li>
+<li> 06:34 claude.ai</li>
+<li> 06:31 joereddington.github.io</li>
+<li> 06:31 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 06:31 outlook.office.com</li>
+<li> 06:28 www.linkedin.com</li>
+<li> 06:26 <a href="https://en.wikipedia.org/wiki/Battle_of_the_Solent">Battle of the Solent - Wikipedia</a></li>
+<li> 06:26 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:25 www.theguardian.com</li>
+<li class='same'> 06:24 www.theguardian.com</li>
+<li> 06:22 mariakonnikova.substack.com</li>
+<li> 06:22 www.natesilver.net</li>
+<li> 06:21 mail.google.com</li>
+<li> 06:21 www.linkedin.com</li>
+<li class='same'> 06:20 www.linkedin.com</li>
+<li> 06:20 x.com</li>
+<li class='same'> 06:16 x.com</li>
+<li> 06:13 www.natesilver.net</li>
+<li class='same'> 06:12 www.natesilver.net</li>
+<li> 06:11 www.theguardian.com</li>
+<li> 06:11 outlook.office.com</li>
+<li> 06:10 docs.google.com</li>
 <li class='same'> 06:06 docs.google.com</li>
 </ul>
 
@@ -4657,7 +4694,7 @@ With number of accesses/minutes in parentheses
 <li> 12:04 github.com</li>
 <li> 11:47 whitewaterwriters.com</li>
 <li> 11:38 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li> 11:35 <a href="https://joereddington.com/export-history/slots.png">slots.png (PNG Image, 1200 × 800 pixels) – Scaled (97%)</a></li>
+<li> 11:35 <a href="https://joereddington.com/export-history/slots.png">slots.png (PNG Image, 1200 × 800 pixels)</a></li>
 <li> 11:34 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 11:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:34 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -4680,7 +4717,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:28 whitewaterwriters.com</li>
 <li> 10:24 www.amazon.co.uk</li>
 <li> 10:24 whitewaterwriters.com</li>
-<li> 10:22 <a href="https://joereddington.com/export-history/slots.png">slots.png (PNG Image, 1200 × 800 pixels) – Scaled (97%)</a></li>
+<li> 10:22 <a href="https://joereddington.com/export-history/slots.png">slots.png (PNG Image, 1200 × 800 pixels)</a></li>
 <li> 10:22 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 10:20 chatgpt.com</li>
 <li class='same'> 10:19 chatgpt.com</li>
