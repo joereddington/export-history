@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6739)</li>
-<li>mail.google.com (4940)</li>
+<ol><li>www.google.com (6743)</li>
+<li>mail.google.com (4942)</li>
 <li>outlook.office.com (2452)</li>
 <li>www.facebook.com (1930)</li>
 <li>docs.google.com (1623)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1064)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>github.com (942)</li>
-<li>m.facebook.com (818)</li>
+<li>m.facebook.com (819)</li>
 <li>www.reddit.com (787)</li>
 <li>www.linkedin.com (690)</li>
 <li>chat.openai.com (555)</li>
@@ -92,8 +92,8 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (350)</li>
 <li>kdp.amazon.com (342)</li>
 <li>login.microsoftonline.com (323)</li>
+<li>web.whatsapp.com (312)</li>
 <li>bsky.app (311)</li>
-<li>web.whatsapp.com (311)</li>
 <li>www.theguardian.com (263)</li>
 <li>rhul.sharepoint.com (263)</li>
 <li>Local file (257)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:52 www.linkedin.com</li>
+<ul><li> 13:17 www.google.com</li>
+<li> 13:17 m.facebook.com</li>
+<li> 13:01 www.advance-he.ac.uk</li>
+<li> 13:01 www.google.com</li>
+<li> 13:01 www.advance-he.ac.uk</li>
+<li class='same'> 13:00 www.advance-he.ac.uk</li>
+<li class='same'> 12:59 www.advance-he.ac.uk</li>
+<li> 12:59 www.google.com</li>
+<li> 12:59 mail.google.com</li>
+<li> 12:57 web.whatsapp.com</li>
+<li> 12:57 mail.google.com</li>
+<li> 12:52 www.linkedin.com</li>
 <li> 12:44 outlook.office.com</li>
 <li class='same'> 12:34 outlook.office.com</li>
 <li> 12:26 rhul-my.sharepoint.com</li>
@@ -300,7 +311,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:55 m.facebook.com</li>
+<ul><li> 17:55 www.google.com</li>
+<li> 17:55 m.facebook.com</li>
 </ul>
 
 <br>
