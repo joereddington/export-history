@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6775)</li>
+<ol><li>www.google.com (6780)</li>
 <li>mail.google.com (4964)</li>
 <li>outlook.office.com (2469)</li>
 <li>www.facebook.com (1952)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:07 <a href="https://en.wikipedia.org/wiki/Roughing_It">Roughing It - Wikipedia</a></li>
+<ul><li> 12:19 m.youtube.com</li>
+<li class='same'> 12:18 m.youtube.com</li>
+<li> 12:18 www.google.com</li>
+<li> 12:18 m.youtube.com</li>
+<li class='same'> 12:17 m.youtube.com</li>
+<li> 12:17 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:33 www.orbitaltrampolinepark.co.uk</li>
+<li> 08:33 www.google.com</li>
+<li> 08:30 www.theguardian.com</li>
+<li class='same'> 08:28 www.theguardian.com</li>
+<li class='same'> 08:27 www.theguardian.com</li>
+<li class='same'> 08:26 www.theguardian.com</li>
+<li> 08:26 www.breitbart.com</li>
+<li> 08:08 www.google.com</li>
+<li> 08:07 <a href="https://en.wikipedia.org/wiki/Roughing_It">Roughing It - Wikipedia</a></li>
 <li> 08:07 www.google.com</li>
 <li> 08:06 www.amazon.co.uk</li>
 <li> 08:03 www.google.com</li>
@@ -181,7 +199,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:59 m.youtube.com</li>
+<ul><li> 20:41 www.breitbart.com</li>
+<li> 20:41 www.theguardian.com</li>
+<li> 20:41 www.google.com</li>
+<li> 20:40 m.youtube.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:59 m.youtube.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:59 m.youtube.com</li>
 <li class='same'> 18:58 m.youtube.com</li>
 <li> 18:50 www.theguardian.com</li>
 <li> 18:50 www.google.com</li>
