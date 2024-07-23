@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6771)</li>
-<li>mail.google.com (4963)</li>
+<ol><li>www.google.com (6775)</li>
+<li>mail.google.com (4964)</li>
 <li>outlook.office.com (2469)</li>
 <li>www.facebook.com (1952)</li>
-<li>docs.google.com (1599)</li>
+<li>docs.google.com (1600)</li>
 <li>calendar.google.com (1095)</li>
 <li>moodle.royalholloway.ac.uk (1059)</li>
-<li>www.amazon.co.uk (1014)</li>
+<li>www.amazon.co.uk (1018)</li>
 <li>github.com (943)</li>
 <li>m.facebook.com (821)</li>
 <li>www.reddit.com (787)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:59 mail.google.com</li>
+<ul><li> 08:07 <a href="https://en.wikipedia.org/wiki/Roughing_It">Roughing It - Wikipedia</a></li>
+<li> 08:07 www.google.com</li>
+<li> 08:06 www.amazon.co.uk</li>
+<li> 08:03 www.google.com</li>
+<li class='same'> 08:02 www.google.com</li>
+<li> 08:02 maps.google.com</li>
+<li> 08:02 sayi.do</li>
+<li> 08:02 docs.google.com</li>
+<li> 08:02 www.google.com</li>
+<li> 08:02 www.amazon.co.uk</li>
+<li class='same'> 08:01 www.amazon.co.uk</li>
+<li class='same'> 08:00 www.amazon.co.uk</li>
+<li> 08:00 mail.google.com</li>
+<li> 08:00 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 07:59 mail.google.com</li>
 <li> 07:58 www.linkedin.com</li>
 <li> 07:57 mail.google.com</li>
 <li> 07:54 doodle.com</li>
