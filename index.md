@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6771)</li>
-<li>mail.google.com (4959)</li>
+<li>mail.google.com (4963)</li>
 <li>outlook.office.com (2469)</li>
 <li>www.facebook.com (1952)</li>
 <li>docs.google.com (1599)</li>
-<li>calendar.google.com (1094)</li>
+<li>calendar.google.com (1095)</li>
 <li>moodle.royalholloway.ac.uk (1059)</li>
 <li>www.amazon.co.uk (1014)</li>
 <li>github.com (943)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (364)</li>
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>www.linkedin.com (328)</li>
+<li>www.linkedin.com (329)</li>
 <li>login.microsoftonline.com (324)</li>
 <li>web.whatsapp.com (314)</li>
 <li>bsky.app (311)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:42 mail.google.com</li>
+<ul><li> 07:59 mail.google.com</li>
+<li> 07:58 www.linkedin.com</li>
+<li> 07:57 mail.google.com</li>
+<li> 07:54 doodle.com</li>
+<li> 07:54 calendar.google.com</li>
+<li> 07:54 mail.google.com</li>
+<li class='same'> 07:53 mail.google.com</li>
+<li class='same'> 07:42 mail.google.com</li>
 <li> 07:37 calendar.google.com</li>
 <li> 07:35 www.google.com</li>
 <li> 07:33 sayi.do</li>
