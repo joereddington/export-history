@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6764)</li>
-<li>mail.google.com (4949)</li>
+<ol><li>www.google.com (6765)</li>
+<li>mail.google.com (4952)</li>
 <li>outlook.office.com (2469)</li>
 <li>www.facebook.com (1952)</li>
 <li>docs.google.com (1599)</li>
-<li>calendar.google.com (1090)</li>
+<li>calendar.google.com (1092)</li>
 <li>moodle.royalholloway.ac.uk (1059)</li>
 <li>www.amazon.co.uk (1014)</li>
 <li>github.com (943)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (787)</li>
 <li>chat.openai.com (555)</li>
 <li>whitewaterwriters.com (549)</li>
-<li>gmail.com (540)</li>
+<li>gmail.com (541)</li>
 <li>app.qbo.intuit.com (530)</li>
 <li>tvtropes.org (505)</li>
 <li>en.m.wikipedia.org (471)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 23/07/24</H3>
+
+<br>
+
+<ul><li> 07:19 mail.google.com</li>
+<li> 07:19 calendar.google.com</li>
+<li class='same'> 07:18 calendar.google.com</li>
+<li> 07:17 mail.google.com</li>
+<li> 07:17 www.google.com</li>
+<li> 07:17 claude.ai</li>
+<li> 07:17 mail.google.com</li>
+<li> 07:17 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:28 0.0.0.0:8000</li>
+</ul>
 
 <br>
 
