@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6780)</li>
+<ol><li>www.google.com (6778)</li>
 <li>mail.google.com (4964)</li>
 <li>outlook.office.com (2469)</li>
 <li>www.facebook.com (1952)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1095)</li>
 <li>moodle.royalholloway.ac.uk (1059)</li>
-<li>www.amazon.co.uk (1018)</li>
+<li>www.amazon.co.uk (1017)</li>
 <li>github.com (943)</li>
 <li>m.facebook.com (821)</li>
 <li>www.reddit.com (787)</li>
@@ -94,10 +94,10 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (324)</li>
 <li>web.whatsapp.com (314)</li>
 <li>bsky.app (311)</li>
-<li>rhul.sharepoint.com (263)</li>
+<li>rhul.sharepoint.com (261)</li>
 <li>Local file (257)</li>
 <li>www.giantitp.com (246)</li>
-<li>www.ebay.co.uk (245)</li>
+<li>www.ebay.co.uk (244)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -16228,7 +16228,6 @@ With number of accesses/minutes in parentheses
 <li> 19:28 web.archive.org</li>
 <li class='same'> 19:27 web.archive.org</li>
 <li> 19:27 news.sophos.com</li>
-<li> 19:27 nakedsecurity.sophos.com</li>
 <li> 19:27 <a href="https://www.bbc.co.uk/news/technology-37936219">Yahoo knew of 'state-backed' hack in 2014 - BBC News</a></li>
 <li> 19:26 www.washingtonpost.com</li>
 <li> 19:22 www.google.com</li>
@@ -16257,7 +16256,6 @@ With number of accesses/minutes in parentheses
 <li> 19:09 www.google.com</li>
 <li> 19:09 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
 <li> 19:09 <a href="https://en.wikipedia.org/w/index.php?search=Yahoo%21+data+breaches&title=Special:Search&ns0=1"></a></li>
-<li> 19:09 <a href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Yahoo%21+data+breaches&wprov=acrw1_0"></a></li>
 <li> 19:09 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 19:09 <a href="https://en.wikipedia.org/"></a></li>
 <li> 19:08 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo! data breaches/GA2 - Wikipedia</a></li>
@@ -16313,8 +16311,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:04 outlook.office.com</li>
 <li> 16:04 www.academia.edu</li>
 <li> 16:03 outlook.office.com</li>
-<li> 16:01 www.google.com</li>
-<li class='same'> 15:59 www.google.com</li>
+<li> 15:59 www.google.com</li>
 <li> 15:59 teams.microsoft.com</li>
 <li class='same'> 15:58 teams.microsoft.com</li>
 <li> 15:56 outlook.office.com</li>
@@ -16439,9 +16436,7 @@ With number of accesses/minutes in parentheses
 <li> 12:24 www.google.com</li>
 <li> 12:23 calendar.google.com</li>
 <li> 12:22 outlook.office.com</li>
-<li> 12:20 rhul.sharepoint.com</li>
-<li class='same'> 12:13 rhul.sharepoint.com</li>
-<li class='same'> 12:12 rhul.sharepoint.com</li>
+<li> 12:12 rhul.sharepoint.com</li>
 <li> 12:12 login.microsoftonline.com</li>
 <li> 12:12 outlook.office.com</li>
 </ul>
@@ -16521,15 +16516,13 @@ With number of accesses/minutes in parentheses
 <li> 07:02 www.google.com</li>
 <li> 06:58 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 06:57 www.amazon.co.uk</li>
-<li> 06:56 www.ebay.co.uk</li>
-<li class='same'> 06:55 www.ebay.co.uk</li>
+<li> 06:55 www.ebay.co.uk</li>
 <li class='same'> 06:54 www.ebay.co.uk</li>
 <li> 06:54 www.amazon.co.uk</li>
 <li class='same'> 06:53 www.amazon.co.uk</li>
 <li class='same'> 06:52 www.amazon.co.uk</li>
 <li> 06:51 mail.google.com</li>
-<li> 06:51 www.amazon.co.uk</li>
-<li class='same'> 06:50 www.amazon.co.uk</li>
+<li> 06:50 www.amazon.co.uk</li>
 <li class='same'> 06:49 www.amazon.co.uk</li>
 <li> 06:48 outlook.office.com</li>
 <li class='same'> 06:46 outlook.office.com</li>
@@ -16545,16 +16538,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:28 www.facebook.com</li>
 <li class='same'> 06:27 www.facebook.com</li>
 <li> 06:25 web.whatsapp.com</li>
-<li> 06:24 www.google.com</li>
-<li class='same'> 06:23 www.google.com</li>
+<li> 06:23 www.google.com</li>
 <li> 06:23 www.flogas.co.uk</li>
 <li> 06:23 www.google.com</li>
 <li> 06:20 www.facebook.com</li>
 <li> 06:17 mail.google.com</li>
 <li> 06:17 accounts.youtube.com</li>
-<li> 06:17 accounts.google.com</li>
 <li> 06:17 accounts.google.co.uk</li>
-<li> 06:17 accounts.google.com</li>
 <li> 06:17 mail.google.com</li>
 <li> 06:17 gmail.com</li>
 <li> 06:17 accounts.google.com</li>
