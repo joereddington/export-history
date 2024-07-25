@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6794)</li>
+<ol><li>www.google.com (6784)</li>
 <li>mail.google.com (4999)</li>
 <li>outlook.office.com (2479)</li>
 <li>www.facebook.com (1960)</li>
 <li>docs.google.com (1600)</li>
-<li>calendar.google.com (1109)</li>
+<li>calendar.google.com (1106)</li>
 <li>moodle.royalholloway.ac.uk (1059)</li>
-<li>www.amazon.co.uk (1018)</li>
+<li>www.amazon.co.uk (1017)</li>
 <li>github.com (943)</li>
 <li>m.facebook.com (821)</li>
 <li>www.reddit.com (794)</li>
@@ -96,15 +96,26 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (261)</li>
 <li>Local file (257)</li>
-<li>www.ebay.co.uk (251)</li>
 <li>www.giantitp.com (246)</li>
+<li>www.ebay.co.uk (244)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Thursday, 25/07/24</H3>
+
+<br>
+
+<ul><li> 07:10 0.0.0.0:8000</li>
+</ul>
+
 <H3>Wednesday, 24/07/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -15796,11 +15807,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 22:33 www.amazon.co.uk</li>
 <li class='same'> 22:32 www.amazon.co.uk</li>
 <li class='same'> 22:31 www.amazon.co.uk</li>
-<li> 22:31 www.google.com</li>
-<li class='same'> 22:30 www.google.com</li>
-<li> 22:30 www.reddit.com</li>
 <li> 22:30 www.google.com</li>
-<li class='same'> 22:29 www.google.com</li>
+<li> 22:30 www.reddit.com</li>
+<li> 22:29 www.google.com</li>
 <li> 22:26 www.thewanderinglensman.com</li>
 <li> 22:26 tripseries.com</li>
 <li> 22:26 www.google.com</li>
@@ -15823,13 +15832,11 @@ With number of accesses/minutes in parentheses
 <li> 22:16 login.openathens.net</li>
 <li> 22:16 adfs.rhul.ac.uk</li>
 <li> 22:16 login.openathens.net</li>
-<li> 22:16 librarysearch.royalholloway.ac.uk</li>
-<li class='same'> 22:15 librarysearch.royalholloway.ac.uk</li>
+<li> 22:15 librarysearch.royalholloway.ac.uk</li>
 <li> 22:15 www.google.com</li>
 <li> 22:15 www.darktable.org</li>
 <li> 22:15 www.google.com</li>
-<li> 22:12 www.amazon.co.uk</li>
-<li class='same'> 22:11 www.amazon.co.uk</li>
+<li> 22:11 www.amazon.co.uk</li>
 <li class='same'> 22:10 www.amazon.co.uk</li>
 <li class='same'> 22:09 www.amazon.co.uk</li>
 <li> 22:09 uk.tenba.com</li>
@@ -15847,7 +15854,6 @@ With number of accesses/minutes in parentheses
 <li> 22:06 www.sunnysports.com</li>
 <li> 22:06 www.reddit.com</li>
 <li> 22:06 www.google.com</li>
-<li> 22:05 www.ebay.co.uk</li>
 <li> 22:03 www.facebook.com</li>
 <li class='same'> 22:02 www.facebook.com</li>
 <li> 22:02 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
@@ -15855,7 +15861,6 @@ With number of accesses/minutes in parentheses
 <li> 22:02 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 22:02 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 22:02 www.ebay.co.uk</li>
-<li class='same'> 22:00 www.ebay.co.uk</li>
 <li class='same'> 21:59 www.ebay.co.uk</li>
 <li class='same'> 21:58 www.ebay.co.uk</li>
 <li> 21:58 www.camerajungle.co.uk</li>
@@ -15866,14 +15871,9 @@ With number of accesses/minutes in parentheses
 <li> 21:54 <a href="https://en.wikipedia.org/wiki/Nikon_D7000">Nikon D7000 - Wikipedia</a></li>
 <li> 21:54 www.google.com</li>
 <li> 21:54 www.camerajungle.co.uk</li>
-<li> 21:53 www.ebay.co.uk</li>
-<li class='same'> 21:52 www.ebay.co.uk</li>
-<li class='same'> 21:51 www.ebay.co.uk</li>
 <li> 21:50 discussions.apple.com</li>
 <li> 21:50 www.google.com</li>
-<li> 21:50 www.ebay.co.uk</li>
-<li class='same'> 21:49 www.ebay.co.uk</li>
-<li class='same'> 21:48 www.ebay.co.uk</li>
+<li> 21:48 www.ebay.co.uk</li>
 <li> 21:47 moodle.royalholloway.ac.uk</li>
 <li> 21:47 login.microsoftonline.com</li>
 <li> 21:47 moodle.royalholloway.ac.uk</li>
@@ -16098,15 +16098,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:07 outlook.office.com</li>
 <li class='same'> 10:48 outlook.office.com</li>
 <li> 10:48 calendar.google.com</li>
-<li> 10:48 eur03.safelinks.protection.outlook.com</li>
-<li> 10:48 calendar.google.com</li>
 <li> 10:48 outlook.office.com</li>
 <li class='same'> 10:47 outlook.office.com</li>
 <li> 10:46 web.whatsapp.com</li>
 <li> 10:46 outlook.office.com</li>
 <li class='same'> 10:42 outlook.office.com</li>
 <li class='same'> 10:40 outlook.office.com</li>
-<li> 10:32 www.frc.org.uk</li>
 <li> 10:32 media.frc.org.uk</li>
 <li> 10:32 www.frc.org.uk</li>
 <li> 10:32 www.google.com</li>
@@ -16160,8 +16157,7 @@ With number of accesses/minutes in parentheses
 <li> 09:25 web.whatsapp.com</li>
 <li> 09:25 mail.google.com</li>
 <li> 09:24 app.qbo.intuit.com</li>
-<li> 09:23 mail-attachment.googleusercontent.com</li>
-<li> 09:23 app.qbo.intuit.com</li>
+<li class='same'> 09:23 app.qbo.intuit.com</li>
 <li> 09:23 accounts.intuit.com</li>
 <li> 09:23 c14.qbo.intuit.com</li>
 <li> 09:22 mail.google.com</li>
@@ -16235,7 +16231,6 @@ With number of accesses/minutes in parentheses
 <li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Milo_Yiannopoulos&diff=1219723118&oldid=1200336316">Milo Yiannopoulos: Difference between revisions - Wikipedia</a></li>
 <li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Milo_Yiannopoulos&action=history">Milo Yiannopoulos: Revision history - Wikipedia</a></li>
 <li> 07:19 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
-<li> 07:19 www.google.com</li>
 <li> 07:19 mail.google.com</li>
 <li class='same'> 07:11 mail.google.com</li>
 <li class='same'> 07:08 mail.google.com</li>
@@ -16248,34 +16243,28 @@ With number of accesses/minutes in parentheses
 <li> 07:02 mail.google.com</li>
 <li> 07:02 calendar.google.com</li>
 <li class='same'> 07:01 calendar.google.com</li>
-<li> 07:01 www.google.com</li>
-<li> 07:01 calendar.google.com</li>
 <li> 07:01 mail.google.com</li>
 <li> 07:01 outlook.office.com</li>
 <li> 07:01 i0.wp.com</li>
 <li> 07:00 mkmarathon.com</li>
 <li> 07:00 www.google.com</li>
 <li> 06:58 www.tesco.com</li>
-<li> 06:58 www.google.com</li>
 <li> 06:58 www.sainsburys.co.uk</li>
 <li> 06:58 www.google.com</li>
 <li> 06:58 www.mysportscience.com</li>
 <li> 06:57 www.google.com</li>
-<li class='same'> 06:56 www.google.com</li>
 <li class='same'> 06:55 www.google.com</li>
 <li class='same'> 06:54 www.google.com</li>
 <li> 06:52 greenletes.com</li>
 <li> 06:52 www.nomeatathlete.com</li>
 <li> 06:52 www.google.com</li>
 <li> 06:50 www.calculator.net</li>
-<li> 06:50 www.google.com</li>
 <li> 06:50 www.nhs.uk</li>
 <li> 06:50 www.google.com</li>
 <li> 06:46 www.ebay.co.uk</li>
 <li> 06:46 www.google.com</li>
 <li class='same'> 06:45 www.google.com</li>
 <li> 06:45 www.amazon.co.uk</li>
-<li> 06:45 www.googleadservices.com</li>
 <li> 06:45 www.google.com</li>
 <li> 06:44 web.whatsapp.com</li>
 <li> 06:43 docs.google.com</li>
@@ -16298,19 +16287,15 @@ With number of accesses/minutes in parentheses
 <li> 06:32 mail.google.com</li>
 <li> 06:32 calendar.google.com</li>
 <li class='same'> 06:31 calendar.google.com</li>
-<li> 06:31 www.google.com</li>
-<li> 06:31 calendar.google.com</li>
 <li> 06:31 mail.google.com</li>
 <li> 06:30 forum.artofmemory.com</li>
 <li class='same'> 06:29 forum.artofmemory.com</li>
 <li class='same'> 06:28 forum.artofmemory.com</li>
-<li> 06:28 www.google.com</li>
 <li> 06:28 email.forum.artofmemory.com</li>
 <li> 06:28 mail.google.com</li>
 <li class='same'> 06:27 mail.google.com</li>
 <li> 06:26 www.harpercollins.com</li>
-<li> 06:26 www.google.com</li>
-<li class='same'> 06:25 www.google.com</li>
+<li> 06:25 www.google.com</li>
 <li> 06:24 www.goodreads.com</li>
 <li> 06:24 www.google.com</li>
 <li> 06:23 <a href="https://en.wikipedia.org/wiki/Jeremy_Bloom">Jeremy Bloom - Wikipedia</a></li>
