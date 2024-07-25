@@ -68,43 +68,237 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6778)</li>
-<li>mail.google.com (4964)</li>
-<li>outlook.office.com (2469)</li>
-<li>www.facebook.com (1952)</li>
+<ol><li>www.google.com (6794)</li>
+<li>mail.google.com (4999)</li>
+<li>outlook.office.com (2479)</li>
+<li>www.facebook.com (1960)</li>
 <li>docs.google.com (1600)</li>
-<li>calendar.google.com (1095)</li>
+<li>calendar.google.com (1109)</li>
 <li>moodle.royalholloway.ac.uk (1059)</li>
-<li>www.amazon.co.uk (1017)</li>
+<li>www.amazon.co.uk (1018)</li>
 <li>github.com (943)</li>
 <li>m.facebook.com (821)</li>
-<li>www.reddit.com (787)</li>
+<li>www.reddit.com (794)</li>
 <li>chat.openai.com (555)</li>
 <li>whitewaterwriters.com (549)</li>
-<li>gmail.com (541)</li>
+<li>gmail.com (544)</li>
 <li>app.qbo.intuit.com (530)</li>
 <li>tvtropes.org (505)</li>
 <li>en.m.wikipedia.org (471)</li>
-<li>teams.microsoft.com (388)</li>
+<li>teams.microsoft.com (389)</li>
 <li>drive.google.com (366)</li>
 <li>outlook.office365.com (364)</li>
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>www.linkedin.com (329)</li>
-<li>login.microsoftonline.com (324)</li>
-<li>web.whatsapp.com (314)</li>
+<li>www.linkedin.com (336)</li>
+<li>login.microsoftonline.com (325)</li>
+<li>web.whatsapp.com (315)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (261)</li>
 <li>Local file (257)</li>
+<li>www.ebay.co.uk (251)</li>
 <li>www.giantitp.com (246)</li>
-<li>www.ebay.co.uk (244)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Wednesday, 24/07/24</H3>
+
+<br>
+
+<ul><li> 18:12 www.independent.co.uk</li>
+<li class='same'> 18:09 www.independent.co.uk</li>
+<li> 17:58 www.google.com</li>
+<li> 17:55 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:32 www.theguardian.com</li>
+<li class='same'> 16:31 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:45 www.theguardian.com</li>
+<li class='same'> 15:43 www.theguardian.com</li>
+<li class='same'> 15:42 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:38 www.theguardian.com</li>
+<li> 12:38 newsthump.com</li>
+<li> 12:37 reductress.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:46 www.reddit.com</li>
+<li class='same'> 11:44 www.reddit.com</li>
+<li class='same'> 11:43 www.reddit.com</li>
+<li> 11:42 www.natesilver.net</li>
+<li> 11:42 t.co</li>
+<li> 11:40 x.com</li>
+<li> 11:40 twitter.com</li>
+<li> 11:40 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 11:40 mail.google.com</li>
+<li> 11:40 outlook.office.com</li>
+<li class='same'> 11:39 outlook.office.com</li>
+<li> 11:39 <a href="https://en.wikipedia.org/wiki/Rebecca_Pidgeon">Rebecca Pidgeon - Wikipedia</a></li>
+<li> 11:39 <a href="https://en.wikipedia.org/wiki/Clara_Mamet#Career">Clara Mamet - Wikipedia</a></li>
+<li> 11:38 <a href="https://en.wikipedia.org/w/index.php?title=Clara_Mamet&action=edit&section=2">Editing Clara Mamet - Wikipedia</a></li>
+<li> 11:38 <a href="https://en.wikipedia.org/wiki/Clara_Mamet">Clara Mamet - Wikipedia</a></li>
+<li> 11:37 <a href="https://en.wikipedia.org/wiki/David_Mamet">David Mamet - Wikipedia</a></li>
+<li> 11:37 <a href="https://en.wikipedia.org/wiki/Judd_Apatow">Judd Apatow - Wikipedia</a></li>
+<li> 11:37 <a href="https://en.wikipedia.org/wiki/Lindsay_Crouse">Lindsay Crouse - Wikipedia</a></li>
+<li> 11:37 <a href="https://en.wikipedia.org/wiki/Zosia_Mamet">Zosia Mamet - Wikipedia</a></li>
+<li> 11:37 www.google.com</li>
+<li> 11:36 mail.google.com</li>
+<li> 11:36 www.theguardian.com</li>
+<li> 11:28 pay.ebay.co.uk</li>
+<li> 11:28 mail.google.com</li>
+<li> 11:28 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:52 reductress.com</li>
+<li> 08:52 m.youtube.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:56 www.bemoov-bikes.com</li>
+<li> 07:56 www.google.com</li>
+<li class='same'> 07:55 www.google.com</li>
+<li> 07:52 www.reddit.com</li>
+<li class='same'> 07:51 www.reddit.com</li>
+<li class='same'> 07:50 www.reddit.com</li>
+<li> 07:50 mail.google.com</li>
+<li> 07:49 www.linkedin.com</li>
+<li> 07:49 mail.google.com</li>
+<li class='same'> 07:48 mail.google.com</li>
+<li class='same'> 07:47 mail.google.com</li>
+<li class='same'> 07:46 mail.google.com</li>
+<li class='same'> 07:45 mail.google.com</li>
+<li> 07:45 www.facebook.com</li>
+<li class='same'> 07:44 www.facebook.com</li>
+<li class='same'> 07:41 www.facebook.com</li>
+<li> 07:39 calendar.google.com</li>
+<li class='same'> 07:38 calendar.google.com</li>
+<li> 07:37 doodle.com</li>
+<li> 07:37 mail.google.com</li>
+<li> 07:36 www.amazon.co.uk</li>
+<li> 07:36 mail.google.com</li>
+<li> 07:34 www.theguardian.com</li>
+<li> 07:34 www.google.com</li>
+<li> 07:34 mail.google.com</li>
+<li> 07:34 outlook.office.com</li>
+<li> 07:33 mail.google.com</li>
+<li class='same'> 07:31 mail.google.com</li>
+<li> 07:31 gmail.com</li>
+<li> 07:29 www.emulatorgames.net</li>
+<li> 07:29 www.google.com</li>
+<li> 07:29 mail.google.com</li>
+<li class='same'> 07:28 mail.google.com</li>
+<li> 07:28 www.facebook.com</li>
+<li> 07:21 www.linkedin.com</li>
+<li> 07:18 calendar.google.com</li>
+<li> 07:18 outlook.office.com</li>
+<li> 07:16 www.google.com</li>
+<li class='same'> 07:15 www.google.com</li>
+<li class='same'> 07:14 www.google.com</li>
+<li> 07:13 www.linkedin.com</li>
+<li> 07:10 calendar.google.com</li>
+<li> 07:09 www.google.com</li>
+<li> 07:08 claude.ai</li>
+<li class='same'> 07:07 claude.ai</li>
+<li> 07:06 calendar.google.com</li>
+<li> 07:05 www.facebook.com</li>
+<li> 07:04 <a href="https://joereddington.com/2024/07/13/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 07:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:03 mail.google.com</li>
+<li> 07:03 outlook.office.com</li>
+<li> 07:03 calendar.google.com</li>
+<li class='same'> 07:02 calendar.google.com</li>
+<li> 07:02 mail.google.com</li>
+<li class='same'> 07:01 mail.google.com</li>
+<li> 06:58 www.facebook.com</li>
+<li> 06:57 calendar.google.com</li>
+<li> 06:56 www.google.com</li>
+<li> 06:55 www.facebook.com</li>
+<li> 06:55 lutoncomiccon.square.site</li>
+<li> 06:55 www.eventbrite.co.uk</li>
+<li> 06:55 www.google.com</li>
+<li> 06:55 mail.google.com</li>
+<li> 06:54 calendar.google.com</li>
+<li> 06:53 outlook.office.com</li>
+<li> 06:52 calendar.google.com</li>
+<li> 06:52 myview.rhul.zellis.com</li>
+<li class='same'> 06:50 myview.rhul.zellis.com</li>
+<li> 06:50 login.microsoftonline.com</li>
+<li> 06:50 myview.rhul.zellis.com</li>
+<li> 06:48 calendar.google.com</li>
+<li class='same'> 06:47 calendar.google.com</li>
+<li> 06:47 mail.google.com</li>
+<li> 06:47 www.ebay.co.uk</li>
+<li class='same'> 06:46 www.ebay.co.uk</li>
+<li class='same'> 06:45 www.ebay.co.uk</li>
+<li> 06:45 dsi.cfw.guide</li>
+<li> 06:45 www.google.com</li>
+<li> 06:44 www.reddit.com</li>
+<li> 06:44 www.google.com</li>
+<li> 06:42 www.ebay.co.uk</li>
+<li class='same'> 06:40 www.ebay.co.uk</li>
+<li class='same'> 06:39 www.ebay.co.uk</li>
+<li class='same'> 06:38 www.ebay.co.uk</li>
+<li> 06:38 andsoshethinks.co.uk</li>
+<li> 06:38 mail.google.com</li>
+<li> 06:37 www.linkedin.com</li>
+<li> 06:37 mail.google.com</li>
+<li class='same'> 06:36 mail.google.com</li>
+<li> 06:33 www.linkedin.com</li>
+<li class='same'> 06:32 www.linkedin.com</li>
+<li> 06:32 mail.google.com</li>
+<li class='same'> 06:31 mail.google.com</li>
+<li> 06:31 accounts.google.com</li>
+<li> 06:30 mail.google.com</li>
+<li class='same'> 06:29 mail.google.com</li>
+<li> 06:27 calendar.google.com</li>
+<li class='same'> 06:26 calendar.google.com</li>
+<li> 06:24 mail.google.com</li>
+<li> 06:23 outlook.office.com</li>
+<li class='same'> 06:22 outlook.office.com</li>
+<li class='same'> 06:21 outlook.office.com</li>
+<li> 06:21 mail.google.com</li>
+<li> 06:21 gmail.com</li>
+<li> 06:21 www.natesilver.net</li>
+<li class='same'> 06:18 www.natesilver.net</li>
+<li> 06:18 web.whatsapp.com</li>
+<li> 06:17 www.natesilver.net</li>
+<li class='same'> 06:16 www.natesilver.net</li>
+<li> 06:14 www.theguardian.com</li>
+<li> 06:14 www.google.com</li>
+</ul>
+
 <H3>Tuesday, 23/07/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 13:12 m.youtube.com</li>
+<li> 12:52 www.linkedin.com</li>
+<li> 12:52 outlook.office.com</li>
+<li> 12:52 mail.google.com</li>
+<li class='same'> 12:51 mail.google.com</li>
+</ul>
 
 <br>
 
@@ -118,7 +312,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:33 www.orbitaltrampolinepark.co.uk</li>
+<ul><li> 09:34 teams.microsoft.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:44 www.orbitaltrampolinepark.co.uk</li>
+<li> 08:44 bookings.orbitaltrampolinepark.co.uk</li>
+<li class='same'> 08:43 bookings.orbitaltrampolinepark.co.uk</li>
+<li class='same'> 08:42 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 08:41 mail.google.com</li>
+<li> 08:41 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 08:41 live.opayo.eu.elavon.com</li>
+<li class='same'> 08:38 live.opayo.eu.elavon.com</li>
+<li> 08:38 bookings.orbitaltrampolinepark.co.uk</li>
+<li class='same'> 08:37 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 08:37 mail.google.com</li>
+<li> 08:37 bookings.orbitaltrampolinepark.co.uk</li>
+<li class='same'> 08:36 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 08:36 mail.google.com</li>
+<li> 08:36 gmail.com</li>
+<li> 08:36 bookings.orbitaltrampolinepark.co.uk</li>
+<li class='same'> 08:35 bookings.orbitaltrampolinepark.co.uk</li>
+<li class='same'> 08:34 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 08:34 www.google.com</li>
+<li> 08:33 www.orbitaltrampolinepark.co.uk</li>
 <li> 08:33 www.google.com</li>
 <li> 08:30 www.theguardian.com</li>
 <li class='same'> 08:28 www.theguardian.com</li>
@@ -55610,7 +55828,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:37 m.youtube.com</li>
+<ul><li> 17:37 lutoncomiccon.square.site</li>
+<li> 17:37 m.youtube.com</li>
+<li> 17:37 lutoncomiccon.square.site</li>
+<li> 17:37 m.youtube.com</li>
+<li> 17:37 lutoncomiccon.square.site</li>
 </ul>
 
 <br>
@@ -55622,6 +55844,22 @@ With number of accesses/minutes in parentheses
 <li> 14:36 calendar.google.com</li>
 <li> 14:25 www.citizensadvice.org.uk</li>
 <li> 14:23 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:03 lutoncomiccon.square.site</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:01 lutoncomiccon.square.site</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:04 lutoncomiccon.square.site</li>
+<li class='same'> 09:03 lutoncomiccon.square.site</li>
 </ul>
 
 <br>
@@ -55782,6 +56020,7 @@ With number of accesses/minutes in parentheses
 <li> 11:03 www.facebook.com</li>
 <li> 10:58 docs.google.com</li>
 <li> 10:52 www.qiq.support</li>
+<li> 10:36 lutoncomiccon.square.site</li>
 <li> 10:23 i3wm.org</li>
 <li class='same'> 10:20 i3wm.org</li>
 <li class='same'> 10:13 i3wm.org</li>
