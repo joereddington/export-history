@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6825)</li>
-<li>mail.google.com (5061)</li>
-<li>outlook.office.com (2558)</li>
+<li>mail.google.com (5063)</li>
+<li>outlook.office.com (2559)</li>
 <li>www.facebook.com (2017)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1118)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (800)</li>
 <li>chat.openai.com (556)</li>
 <li>whitewaterwriters.com (550)</li>
-<li>gmail.com (549)</li>
+<li>gmail.com (550)</li>
 <li>app.qbo.intuit.com (548)</li>
 <li>tvtropes.org (505)</li>
 <li>en.m.wikipedia.org (471)</li>
@@ -110,6 +110,13 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:42 www.theguardian.com</li>
 <li class='same'> 17:41 www.theguardian.com</li>
+<li> 17:32 outlook.office.com</li>
+<li> 17:32 mail.google.com</li>
+<li> 17:31 www.theguardian.com</li>
+<li class='same'> 17:30 www.theguardian.com</li>
+<li> 17:29 mail.google.com</li>
+<li> 17:29 gmail.com</li>
+<li> 17:29 x.com</li>
 <li> 17:29 outlook.office.com</li>
 <li> 17:29 x.com</li>
 <li> 17:28 www.natesilver.net</li>
