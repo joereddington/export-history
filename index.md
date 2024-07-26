@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6819)</li>
+<ol><li>www.google.com (6822)</li>
 <li>mail.google.com (5061)</li>
-<li>outlook.office.com (2510)</li>
+<li>outlook.office.com (2545)</li>
 <li>www.facebook.com (2016)</li>
 <li>docs.google.com (1600)</li>
-<li>calendar.google.com (1117)</li>
+<li>calendar.google.com (1118)</li>
 <li>moodle.royalholloway.ac.uk (1065)</li>
-<li>www.amazon.co.uk (1019)</li>
-<li>github.com (951)</li>
+<li>www.amazon.co.uk (1020)</li>
+<li>github.com (954)</li>
 <li>m.facebook.com (827)</li>
 <li>www.reddit.com (800)</li>
 <li>chat.openai.com (556)</li>
@@ -85,16 +85,16 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (548)</li>
 <li>tvtropes.org (505)</li>
 <li>en.m.wikipedia.org (471)</li>
-<li>teams.microsoft.com (389)</li>
+<li>teams.microsoft.com (391)</li>
 <li>drive.google.com (366)</li>
 <li>outlook.office365.com (364)</li>
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>www.linkedin.com (349)</li>
-<li>login.microsoftonline.com (331)</li>
+<li>login.microsoftonline.com (335)</li>
 <li>web.whatsapp.com (317)</li>
 <li>bsky.app (311)</li>
-<li>rhul.sharepoint.com (264)</li>
+<li>rhul.sharepoint.com (268)</li>
 <li>Local file (257)</li>
 <li>www.giantitp.com (246)</li>
 <li>www.ebay.co.uk (245)</li>
@@ -108,7 +108,75 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:41 outlook.office.com</li>
+<ul><li> 16:49 teams.microsoft.com</li>
+<li> 16:48 outlook.office.com</li>
+<li> 16:48 rhul.sharepoint.com</li>
+<li class='same'> 16:47 rhul.sharepoint.com</li>
+<li> 16:47 outlook.office.com</li>
+<li class='same'> 16:46 outlook.office.com</li>
+<li> 16:44 rhul.sharepoint.com</li>
+<li class='same'> 16:43 rhul.sharepoint.com</li>
+<li> 16:42 outlook.office.com</li>
+<li class='same'> 16:36 outlook.office.com</li>
+<li class='same'> 16:33 outlook.office.com</li>
+<li class='same'> 16:31 outlook.office.com</li>
+<li class='same'> 16:30 outlook.office.com</li>
+<li class='same'> 16:27 outlook.office.com</li>
+<li class='same'> 16:26 outlook.office.com</li>
+<li class='same'> 16:25 outlook.office.com</li>
+<li class='same'> 16:24 outlook.office.com</li>
+<li class='same'> 16:23 outlook.office.com</li>
+<li class='same'> 16:22 outlook.office.com</li>
+<li> 16:21 teams.microsoft.com</li>
+<li> 16:20 www.amazon.co.uk</li>
+<li> 16:20 global.oup.com</li>
+<li> 16:20 outlook.office.com</li>
+<li> 16:20 global.oup.com</li>
+<li> 16:20 outlook.office.com</li>
+<li class='same'> 16:19 outlook.office.com</li>
+<li> 16:16 github.com</li>
+<li class='same'> 16:15 github.com</li>
+<li> 16:14 rhul-my.sharepoint.com</li>
+<li> 16:14 www.microsoft365.com</li>
+<li class='same'> 16:13 www.microsoft365.com</li>
+<li> 16:13 login.microsoftonline.com</li>
+<li> 16:13 tasks.office.com</li>
+<li class='same'> 16:12 tasks.office.com</li>
+<li> 16:12 login.microsoftonline.com</li>
+<li> 16:10 project.microsoft.com</li>
+<li> 16:10 login.microsoftonline.com</li>
+<li> 16:10 project.microsoft.com</li>
+<li> 16:10 login.microsoftonline.com</li>
+<li> 16:10 outlook.office.com</li>
+<li class='same'> 16:09 outlook.office.com</li>
+<li class='same'> 16:08 outlook.office.com</li>
+<li> 16:08 www.google.com</li>
+<li> 16:07 www.microsoft.com</li>
+<li> 16:07 www.google.com</li>
+<li> 16:07 github.com</li>
+<li> 16:07 outlook.office.com</li>
+<li class='same'> 16:06 outlook.office.com</li>
+<li class='same'> 16:04 outlook.office.com</li>
+<li class='same'> 16:03 outlook.office.com</li>
+<li class='same'> 16:02 outlook.office.com</li>
+<li> 16:00 rhul-my.sharepoint.com</li>
+<li> 16:00 outlook.office.com</li>
+<li class='same'> 15:59 outlook.office.com</li>
+<li class='same'> 15:58 outlook.office.com</li>
+<li class='same'> 15:57 outlook.office.com</li>
+<li> 15:56 jobs.royalholloway.ac.uk</li>
+<li class='same'> 15:55 jobs.royalholloway.ac.uk</li>
+<li class='same'> 15:54 jobs.royalholloway.ac.uk</li>
+<li> 15:54 www.google.com</li>
+<li> 15:53 jobs.royalholloway.ac.uk</li>
+<li> 15:53 outlook.office.com</li>
+<li class='same'> 15:52 outlook.office.com</li>
+<li class='same'> 15:51 outlook.office.com</li>
+<li class='same'> 15:50 outlook.office.com</li>
+<li> 15:50 calendar.google.com</li>
+<li> 15:50 outlook.office.com</li>
+<li class='same'> 15:49 outlook.office.com</li>
+<li class='same'> 15:41 outlook.office.com</li>
 <li> 15:41 www.linkedin.com</li>
 <li class='same'> 15:40 www.linkedin.com</li>
 <li> 15:40 www.facebook.com</li>
