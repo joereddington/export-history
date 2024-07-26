@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6794)</li>
-<li>mail.google.com (5001)</li>
+<ol><li>www.google.com (6799)</li>
+<li>mail.google.com (5018)</li>
 <li>outlook.office.com (2479)</li>
-<li>www.facebook.com (1960)</li>
+<li>www.facebook.com (1961)</li>
 <li>docs.google.com (1600)</li>
-<li>calendar.google.com (1108)</li>
+<li>calendar.google.com (1113)</li>
 <li>moodle.royalholloway.ac.uk (1059)</li>
 <li>www.amazon.co.uk (1016)</li>
 <li>github.com (951)</li>
-<li>m.facebook.com (821)</li>
-<li>www.reddit.com (797)</li>
+<li>m.facebook.com (827)</li>
+<li>www.reddit.com (799)</li>
 <li>chat.openai.com (556)</li>
 <li>whitewaterwriters.com (549)</li>
-<li>gmail.com (545)</li>
+<li>gmail.com (546)</li>
 <li>app.qbo.intuit.com (530)</li>
 <li>tvtropes.org (505)</li>
 <li>en.m.wikipedia.org (471)</li>
@@ -90,14 +90,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (364)</li>
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>www.linkedin.com (341)</li>
+<li>www.linkedin.com (344)</li>
 <li>login.microsoftonline.com (325)</li>
 <li>web.whatsapp.com (316)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (261)</li>
 <li>Local file (257)</li>
 <li>www.giantitp.com (246)</li>
-<li>www.ebay.co.uk (244)</li>
+<li>www.ebay.co.uk (245)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,62 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:45 www.barclays.co.uk</li>
+<ul><li> 11:47 mail.google.com</li>
+<li> 11:47 calendar.google.com</li>
+<li> 11:47 mail.google.com</li>
+<li> 11:47 calendar.google.com</li>
+<li class='same'> 11:46 calendar.google.com</li>
+<li> 11:46 runabc.co.uk</li>
+<li> 11:46 www.google.com</li>
+<li> 11:46 mail.google.com</li>
+<li class='same'> 11:45 mail.google.com</li>
+<li> 11:43 www.reddit.com</li>
+<li> 11:43 www.google.com</li>
+<li> 11:39 www.facebook.com</li>
+<li> 11:39 mail.google.com</li>
+<li class='same'> 11:38 mail.google.com</li>
+<li> 11:36 calendar.google.com</li>
+<li> 11:36 mail.google.com</li>
+<li class='same'> 11:35 mail.google.com</li>
+<li> 11:34 www.linkedin.com</li>
+<li> 11:34 mail.google.com</li>
+<li> 11:34 www.linkedin.com</li>
+<li> 11:33 cirights.com</li>
+<li> 11:33 mail.google.com</li>
+<li> 11:33 www.instagram.com</li>
+<li> 11:33 mail.google.com</li>
+<li class='same'> 11:32 mail.google.com</li>
+<li> 11:31 equalitytime.github.io</li>
+<li> 11:31 www.google.com</li>
+<li> 11:30 groups.google.com</li>
+<li> 11:29 mail.google.com</li>
+<li> 11:28 calendar.google.com</li>
+<li> 11:28 mail.google.com</li>
+<li> 11:28 www.ebay.co.uk</li>
+<li> 11:27 www.google.com</li>
+<li> 11:27 www.reddit.com</li>
+<li> 11:27 www.google.com</li>
+<li> 11:27 mail.google.com</li>
+<li class='same'> 11:26 mail.google.com</li>
+<li> 11:26 gmail.com</li>
+<li> 11:24 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 11:24 x.com</li>
+<li class='same'> 11:21 x.com</li>
+<li> 11:21 www.theguardian.com</li>
+<li> 11:20 www.linkedin.com</li>
+<li> 11:19 mail.google.com</li>
+<li> 10:55 m.facebook.com</li>
+<li class='same'> 10:54 m.facebook.com</li>
+<li class='same'> 10:53 m.facebook.com</li>
+<li class='same'> 10:50 m.facebook.com</li>
+<li class='same'> 10:49 m.facebook.com</li>
+<li class='same'> 10:48 m.facebook.com</li>
+<li> 10:48 resources.barclays.co.uk</li>
+<li class='same'> 10:47 resources.barclays.co.uk</li>
+<li class='same'> 10:46 resources.barclays.co.uk</li>
+<li> 10:45 www.barclays.co.uk</li>
+<li> 10:45 resources.barclays.co.uk</li>
+<li> 10:45 www.barclays.co.uk</li>
 <li> 10:45 www.google.com</li>
 <li> 10:38 www.tax.service.gov.uk</li>
 <li class='same'> 10:37 www.tax.service.gov.uk</li>
