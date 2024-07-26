@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6804)</li>
-<li>mail.google.com (5046)</li>
-<li>outlook.office.com (2494)</li>
-<li>www.facebook.com (2014)</li>
+<ol><li>www.google.com (6819)</li>
+<li>mail.google.com (5061)</li>
+<li>outlook.office.com (2510)</li>
+<li>www.facebook.com (2016)</li>
 <li>docs.google.com (1600)</li>
-<li>calendar.google.com (1115)</li>
-<li>moodle.royalholloway.ac.uk (1062)</li>
+<li>calendar.google.com (1117)</li>
+<li>moodle.royalholloway.ac.uk (1065)</li>
 <li>www.amazon.co.uk (1019)</li>
 <li>github.com (951)</li>
 <li>m.facebook.com (827)</li>
 <li>www.reddit.com (800)</li>
 <li>chat.openai.com (556)</li>
 <li>whitewaterwriters.com (549)</li>
+<li>gmail.com (549)</li>
 <li>app.qbo.intuit.com (548)</li>
-<li>gmail.com (547)</li>
 <li>tvtropes.org (505)</li>
 <li>en.m.wikipedia.org (471)</li>
 <li>teams.microsoft.com (389)</li>
@@ -90,8 +90,8 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (364)</li>
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>www.linkedin.com (346)</li>
-<li>login.microsoftonline.com (330)</li>
+<li>www.linkedin.com (349)</li>
+<li>login.microsoftonline.com (331)</li>
 <li>web.whatsapp.com (317)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (264)</li>
@@ -108,7 +108,109 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:39 moodle.royalholloway.ac.uk</li>
+<ul><li> 15:41 outlook.office.com</li>
+<li> 15:41 www.linkedin.com</li>
+<li class='same'> 15:40 www.linkedin.com</li>
+<li> 15:40 www.facebook.com</li>
+<li class='same'> 15:38 www.facebook.com</li>
+<li> 15:38 outlook.office.com</li>
+<li class='same'> 15:37 outlook.office.com</li>
+<li> 15:37 www.isg.rhul.ac.uk</li>
+<li class='same'> 15:36 www.isg.rhul.ac.uk</li>
+<li> 15:36 outlook.office.com</li>
+<li> 15:36 mxtoolbox.com</li>
+<li> 15:36 www.google.com</li>
+<li> 15:34 downforeveryoneorjustme.com</li>
+<li> 15:34 www.google.com</li>
+<li> 15:34 www.royalholloway.ac.uk</li>
+<li> 15:34 isg.rhul.ac.uk</li>
+<li> 15:34 outlook.office.com</li>
+<li class='same'> 15:33 outlook.office.com</li>
+<li class='same'> 15:32 outlook.office.com</li>
+<li> 15:32 calendar.google.com</li>
+<li class='same'> 15:31 calendar.google.com</li>
+<li> 15:30 outlook.office.com</li>
+<li> 15:28 www.advance-he.ac.uk</li>
+<li> 15:28 my.advance-he.ac.uk</li>
+<li> 15:28 mail.google.com</li>
+<li class='same'> 15:27 mail.google.com</li>
+<li> 15:27 gmail.com</li>
+<li> 15:27 www.google.com</li>
+<li> 15:27 mail.google.com</li>
+<li> 15:27 royalholloway.ac.uk</li>
+<li> 15:26 www.royalholloway.ac.uk</li>
+<li> 15:26 intranet.royalholloway.ac.uk</li>
+<li> 15:26 www.google.com</li>
+<li class='same'> 15:25 www.google.com</li>
+<li class='same'> 15:24 www.google.com</li>
+<li> 15:24 moodle2021.royalholloway.ac.uk</li>
+<li> 15:24 login.microsoftonline.com</li>
+<li> 15:24 moodle2021.royalholloway.ac.uk</li>
+<li class='same'> 15:23 moodle2021.royalholloway.ac.uk</li>
+<li> 15:23 www.google.com</li>
+<li> 15:22 my.advance-he.ac.uk</li>
+<li> 15:22 outlook.office.com</li>
+<li> 15:21 my.advance-he.ac.uk</li>
+<li> 15:21 claude.ai</li>
+<li class='same'> 15:20 claude.ai</li>
+<li> 15:20 outlook.office.com</li>
+<li> 15:18 www.google.com</li>
+<li> 15:18 www.advance-he.ac.uk</li>
+<li> 15:17 www.google.com</li>
+<li> 15:17 mail.google.com</li>
+<li> 15:16 www.evernote.com</li>
+<li class='same'> 15:14 www.evernote.com</li>
+<li class='same'> 15:13 www.evernote.com</li>
+<li> 15:13 coin.space</li>
+<li> 15:13 www.evernote.com</li>
+<li> 15:13 accounts.evernote.com</li>
+<li> 15:13 www.evernote.com</li>
+<li> 15:13 mail.google.com</li>
+<li class='same'> 15:12 mail.google.com</li>
+<li class='same'> 15:11 mail.google.com</li>
+<li class='same'> 15:10 mail.google.com</li>
+<li class='same'> 15:09 mail.google.com</li>
+<li class='same'> 15:08 mail.google.com</li>
+<li class='same'> 15:07 mail.google.com</li>
+<li> 15:07 outlook.office.com</li>
+<li class='same'> 15:06 outlook.office.com</li>
+<li> 15:06 mail.google.com</li>
+<li class='same'> 15:05 mail.google.com</li>
+<li class='same'> 15:04 mail.google.com</li>
+<li> 15:03 my.advance-he.ac.uk</li>
+<li> 15:03 advanceheb2c.b2clogin.com</li>
+<li> 15:03 mail.google.com</li>
+<li> 15:03 gmail.com</li>
+<li> 15:03 advanceheb2c.b2clogin.com</li>
+<li class='same'> 15:02 advanceheb2c.b2clogin.com</li>
+<li> 15:02 my.advance-he.ac.uk</li>
+<li> 15:02 www.advance-he.ac.uk</li>
+<li class='same'> 15:01 www.advance-he.ac.uk</li>
+<li> 15:01 www.google.com</li>
+<li> 15:00 www.royalholloway.ac.uk</li>
+<li> 15:00 www.google.com</li>
+<li> 14:58 intranet.royalholloway.ac.uk</li>
+<li> 14:57 royalholloway.ac.uk</li>
+<li> 14:56 www.linkedin.com</li>
+<li> 14:56 www.google.com</li>
+<li> 14:56 intranet.royalholloway.ac.uk</li>
+<li> 14:56 www.google.com</li>
+<li> 14:55 pure.royalholloway.ac.uk</li>
+<li> 14:55 www.advance-he.ac.uk</li>
+<li> 14:55 www.google.com</li>
+<li> 14:55 www.advance-he.ac.uk</li>
+<li> 14:55 www.google.com</li>
+<li> 14:54 outlook.office.com</li>
+<li class='same'> 14:53 outlook.office.com</li>
+<li> 14:51 moodle.royalholloway.ac.uk</li>
+<li> 14:51 intranet.royalholloway.ac.uk</li>
+<li> 14:51 myview.rhul.zellis.com</li>
+<li> 14:51 outlook.office.com</li>
+<li class='same'> 14:50 outlook.office.com</li>
+<li> 14:48 moodle.royalholloway.ac.uk</li>
+<li> 14:48 intranet.royalholloway.ac.uk</li>
+<li> 14:48 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:39 moodle.royalholloway.ac.uk</li>
 <li> 14:39 intranet.royalholloway.ac.uk</li>
 <li> 14:39 moodle.royalholloway.ac.uk</li>
 <li> 14:39 intranet.royalholloway.ac.uk</li>
