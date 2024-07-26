@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6784)</li>
+<ol><li>www.google.com (6781)</li>
 <li>mail.google.com (4999)</li>
 <li>outlook.office.com (2479)</li>
 <li>www.facebook.com (1960)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1108)</li>
 <li>moodle.royalholloway.ac.uk (1059)</li>
-<li>www.amazon.co.uk (1017)</li>
+<li>www.amazon.co.uk (1012)</li>
 <li>github.com (943)</li>
 <li>m.facebook.com (821)</li>
 <li>www.reddit.com (794)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 26/07/24</H3>
+
+<br>
+
+<ul><li> 07:11 www.tohodo.com</li>
+</ul>
 
 <br>
 
@@ -15617,8 +15622,7 @@ With number of accesses/minutes in parentheses
 <li> 18:05 login.openathens.net</li>
 <li> 18:05 adfs.rhul.ac.uk</li>
 <li> 18:05 login.openathens.net</li>
-<li> 18:05 librarysearch.royalholloway.ac.uk</li>
-<li class='same'> 18:04 librarysearch.royalholloway.ac.uk</li>
+<li> 18:04 librarysearch.royalholloway.ac.uk</li>
 <li> 18:04 www.royalholloway.ac.uk</li>
 <li> 18:04 libguides.rhul.ac.uk</li>
 <li> 18:03 <a href="https://en.wikipedia.org/w/index.php?title=Alistair_Strathern&curid=74508412&diff=1220857125&oldid=1220761328">Alistair Strathern: Difference between revisions - Wikipedia</a></li>
@@ -15638,8 +15642,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:58 www.google.com</li>
-<li class='same'> 10:57 www.google.com</li>
+<ul><li> 10:57 www.google.com</li>
 <li> 10:57 www.strava.com</li>
 <li> 10:48 www.facebook.com</li>
 <li class='same'> 10:45 www.facebook.com</li>
@@ -15662,7 +15665,6 @@ With number of accesses/minutes in parentheses
 <li> 10:04 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 <li> 09:55 www.amazon.co.uk</li>
 <li> 09:44 web.whatsapp.com</li>
-<li> 09:44 www.amazon.co.uk</li>
 <li> 09:43 www.wilsons.co.uk</li>
 <li> 09:43 www.google.com</li>
 <li> 09:43 www.amazon.co.uk</li>
@@ -15673,14 +15675,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:41 www.amazon.co.uk</li>
 <li> 09:41 www.benq.com</li>
 <li> 09:41 esupportdownload.benq.com</li>
-<li> 09:41 www.google.com</li>
 <li> 09:41 www.benq.eu</li>
 <li> 09:40 www.google.com</li>
 <li> 09:40 www.amazon.co.uk</li>
-<li class='same'> 09:39 www.amazon.co.uk</li>
-<li class='same'> 09:38 www.amazon.co.uk</li>
-<li class='same'> 09:37 www.amazon.co.uk</li>
-<li class='same'> 09:36 www.amazon.co.uk</li>
 <li class='same'> 09:35 www.amazon.co.uk</li>
 <li class='same'> 09:34 www.amazon.co.uk</li>
 <li class='same'> 09:32 www.amazon.co.uk</li>
@@ -15730,7 +15727,6 @@ With number of accesses/minutes in parentheses
 <li> 07:22 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 07:22 www.loc.gov</li>
 <li class='same'> 07:21 www.loc.gov</li>
-<li> 07:21 www.google.com</li>
 <li> 07:21 www.copyrightlaws.com</li>
 <li> 07:20 guides.ucsf.edu</li>
 <li> 07:20 www.google.com</li>
