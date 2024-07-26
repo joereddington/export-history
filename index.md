@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6804)</li>
-<li>mail.google.com (5045)</li>
-<li>outlook.office.com (2479)</li>
-<li>www.facebook.com (1995)</li>
+<li>mail.google.com (5046)</li>
+<li>outlook.office.com (2494)</li>
+<li>www.facebook.com (2014)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1115)</li>
-<li>moodle.royalholloway.ac.uk (1059)</li>
+<li>moodle.royalholloway.ac.uk (1062)</li>
 <li>www.amazon.co.uk (1019)</li>
 <li>github.com (951)</li>
 <li>m.facebook.com (827)</li>
@@ -91,10 +91,10 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>www.linkedin.com (346)</li>
-<li>login.microsoftonline.com (325)</li>
+<li>login.microsoftonline.com (330)</li>
 <li>web.whatsapp.com (317)</li>
 <li>bsky.app (311)</li>
-<li>rhul.sharepoint.com (261)</li>
+<li>rhul.sharepoint.com (264)</li>
 <li>Local file (257)</li>
 <li>www.giantitp.com (246)</li>
 <li>www.ebay.co.uk (245)</li>
@@ -108,7 +108,74 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:49 www.facebook.com</li>
+<ul><li> 14:39 moodle.royalholloway.ac.uk</li>
+<li> 14:39 intranet.royalholloway.ac.uk</li>
+<li> 14:39 moodle.royalholloway.ac.uk</li>
+<li> 14:39 intranet.royalholloway.ac.uk</li>
+<li> 14:39 moodle.royalholloway.ac.uk</li>
+<li> 14:39 login.microsoftonline.com</li>
+<li> 14:39 intranet.royalholloway.ac.uk</li>
+<li> 14:38 outlook.office.com</li>
+<li> 14:38 intranet.royalholloway.ac.uk</li>
+<li> 14:38 outlook.office.com</li>
+<li> 14:38 myview.rhul.zellis.com</li>
+<li> 14:38 outlook.office.com</li>
+<li class='same'> 14:37 outlook.office.com</li>
+<li> 14:37 dashboards.rhul.ac.uk</li>
+<li> 14:37 login.microsoftonline.com</li>
+<li> 14:37 myview.rhul.zellis.com</li>
+<li> 14:37 intranet.royalholloway.ac.uk</li>
+<li> 14:36 outlook.office.com</li>
+<li class='same'> 14:35 outlook.office.com</li>
+<li> 14:35 evision.lse.ac.uk</li>
+<li> 14:31 rhul-my.sharepoint.com</li>
+<li> 14:27 claude.ai</li>
+<li> 14:27 dashboards.rhul.ac.uk</li>
+<li> 14:26 claude.ai</li>
+<li> 14:25 dashboards.rhul.ac.uk</li>
+<li> 14:25 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 14:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 14:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 14:23 rhul-my.sharepoint.com</li>
+<li> 14:22 evision.lse.ac.uk</li>
+<li> 14:22 outlook.office.com</li>
+<li class='same'> 14:21 outlook.office.com</li>
+<li class='same'> 14:20 outlook.office.com</li>
+<li> 14:20 rhul.sharepoint.com</li>
+<li class='same'> 14:19 rhul.sharepoint.com</li>
+<li class='same'> 14:18 rhul.sharepoint.com</li>
+<li> 14:18 login.microsoftonline.com</li>
+<li> 14:17 outlook.office.com</li>
+<li class='same'> 14:16 outlook.office.com</li>
+<li> 14:14 rhul-my.sharepoint.com</li>
+<li> 14:14 login.microsoftonline.com</li>
+<li> 14:14 rhul-my.sharepoint.com</li>
+<li> 14:12 outlook.office.com</li>
+<li class='same'> 14:11 outlook.office.com</li>
+<li class='same'> 14:10 outlook.office.com</li>
+<li class='same'> 14:09 outlook.office.com</li>
+<li> 14:09 login.microsoftonline.com</li>
+<li> 14:09 mail.google.com</li>
+<li> 14:08 www.facebook.com</li>
+<li class='same'> 14:07 www.facebook.com</li>
+<li class='same'> 14:06 www.facebook.com</li>
+<li class='same'> 14:05 www.facebook.com</li>
+<li class='same'> 14:04 www.facebook.com</li>
+<li class='same'> 14:03 www.facebook.com</li>
+<li class='same'> 14:02 www.facebook.com</li>
+<li class='same'> 14:01 www.facebook.com</li>
+<li class='same'> 14:00 www.facebook.com</li>
+<li class='same'> 13:59 www.facebook.com</li>
+<li class='same'> 13:58 www.facebook.com</li>
+<li class='same'> 13:57 www.facebook.com</li>
+<li class='same'> 13:56 www.facebook.com</li>
+<li class='same'> 13:55 www.facebook.com</li>
+<li class='same'> 13:54 www.facebook.com</li>
+<li class='same'> 13:53 www.facebook.com</li>
+<li class='same'> 13:52 www.facebook.com</li>
+<li class='same'> 13:51 www.facebook.com</li>
+<li class='same'> 13:50 www.facebook.com</li>
+<li class='same'> 13:49 www.facebook.com</li>
 <li class='same'> 13:39 www.facebook.com</li>
 <li class='same'> 13:38 www.facebook.com</li>
 <li class='same'> 13:37 www.facebook.com</li>
