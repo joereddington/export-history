@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6804)</li>
-<li>mail.google.com (5035)</li>
+<li>mail.google.com (5045)</li>
 <li>outlook.office.com (2479)</li>
-<li>www.facebook.com (1962)</li>
+<li>www.facebook.com (1995)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1115)</li>
 <li>moodle.royalholloway.ac.uk (1059)</li>
@@ -108,7 +108,52 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:49 mail.google.com</li>
+<ul><li> 13:49 www.facebook.com</li>
+<li class='same'> 13:39 www.facebook.com</li>
+<li class='same'> 13:38 www.facebook.com</li>
+<li class='same'> 13:37 www.facebook.com</li>
+<li class='same'> 13:36 www.facebook.com</li>
+<li class='same'> 13:35 www.facebook.com</li>
+<li class='same'> 13:34 www.facebook.com</li>
+<li class='same'> 13:33 www.facebook.com</li>
+<li> 13:33 mail.google.com</li>
+<li> 13:32 www.facebook.com</li>
+<li class='same'> 13:31 www.facebook.com</li>
+<li class='same'> 13:30 www.facebook.com</li>
+<li class='same'> 13:29 www.facebook.com</li>
+<li class='same'> 13:28 www.facebook.com</li>
+<li class='same'> 13:27 www.facebook.com</li>
+<li class='same'> 13:26 www.facebook.com</li>
+<li class='same'> 13:25 www.facebook.com</li>
+<li class='same'> 13:24 www.facebook.com</li>
+<li class='same'> 13:23 www.facebook.com</li>
+<li class='same'> 13:22 www.facebook.com</li>
+<li class='same'> 13:21 www.facebook.com</li>
+<li> 13:20 accounts.intuit.com</li>
+<li> 13:20 www.facebook.com</li>
+<li> 13:20 accounts.intuit.com</li>
+<li> 13:20 www.facebook.com</li>
+<li class='same'> 13:19 www.facebook.com</li>
+<li class='same'> 13:18 www.facebook.com</li>
+<li class='same'> 13:17 www.facebook.com</li>
+<li class='same'> 13:16 www.facebook.com</li>
+<li class='same'> 13:15 www.facebook.com</li>
+<li class='same'> 13:14 www.facebook.com</li>
+<li class='same'> 13:13 www.facebook.com</li>
+<li class='same'> 13:12 www.facebook.com</li>
+<li class='same'> 13:11 www.facebook.com</li>
+<li class='same'> 13:10 www.facebook.com</li>
+<li class='same'> 13:09 www.facebook.com</li>
+<li> 13:06 mail.google.com</li>
+<li class='same'> 13:05 mail.google.com</li>
+<li class='same'> 13:01 mail.google.com</li>
+<li class='same'> 13:00 mail.google.com</li>
+<li class='same'> 12:59 mail.google.com</li>
+<li class='same'> 12:57 mail.google.com</li>
+<li class='same'> 12:56 mail.google.com</li>
+<li class='same'> 12:54 mail.google.com</li>
+<li class='same'> 12:53 mail.google.com</li>
+<li class='same'> 12:49 mail.google.com</li>
 <li class='same'> 12:46 mail.google.com</li>
 <li class='same'> 12:45 mail.google.com</li>
 <li> 12:45 www.facebook.com</li>
