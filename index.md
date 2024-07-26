@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6791)</li>
-<li>mail.google.com (5000)</li>
+<ol><li>www.google.com (6794)</li>
+<li>mail.google.com (5001)</li>
 <li>outlook.office.com (2479)</li>
 <li>www.facebook.com (1960)</li>
 <li>docs.google.com (1600)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (797)</li>
 <li>chat.openai.com (556)</li>
 <li>whitewaterwriters.com (549)</li>
-<li>gmail.com (544)</li>
+<li>gmail.com (545)</li>
 <li>app.qbo.intuit.com (530)</li>
 <li>tvtropes.org (505)</li>
 <li>en.m.wikipedia.org (471)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (364)</li>
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>www.linkedin.com (337)</li>
+<li>www.linkedin.com (341)</li>
 <li>login.microsoftonline.com (325)</li>
 <li>web.whatsapp.com (316)</li>
 <li>bsky.app (311)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:47 www.adafruit.com</li>
+<ul><li> 10:45 www.barclays.co.uk</li>
+<li> 10:45 www.google.com</li>
+<li> 10:38 www.tax.service.gov.uk</li>
+<li class='same'> 10:37 www.tax.service.gov.uk</li>
+<li> 10:36 www.gov.uk</li>
+<li> 10:36 www.google.com</li>
+<li> 10:36 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li class='same'> 10:19 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li class='same'> 10:18 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 10:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 10:18 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:58 mail.google.com</li>
+<li> 09:58 gmail.com</li>
+<li> 09:58 www.linkedin.com</li>
+<li class='same'> 09:57 www.linkedin.com</li>
+<li> 09:57 www.google.com</li>
+<li> 09:55 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 09:54 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:54 <a href="https://joereddington.com/video/2024/06/10/bike.html">Joe Reddington | Things I make.</a></li>
+<li> 09:54 www.linkedin.com</li>
+<li class='same'> 09:53 www.linkedin.com</li>
+<li> 09:47 www.adafruit.com</li>
 <li> 09:47 www.instructables.com</li>
 <li> 09:46 www.google.com</li>
 <li> 09:43 web.whatsapp.com</li>
@@ -156,7 +177,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:11 www.tohodo.com</li>
+<ul><li> 07:11 www.theguardian.com</li>
+<li> 07:11 www.tohodo.com</li>
 </ul>
 
 <br>
@@ -184,7 +206,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:12 www.independent.co.uk</li>
+<ul><li> 18:15 www.theguardian.com</li>
+<li> 18:12 www.independent.co.uk</li>
 <li class='same'> 18:09 www.independent.co.uk</li>
 <li> 17:58 www.google.com</li>
 <li> 17:55 www.theguardian.com</li>
