@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6781)</li>
-<li>mail.google.com (4999)</li>
+<li>mail.google.com (5000)</li>
 <li>outlook.office.com (2479)</li>
 <li>www.facebook.com (1960)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1108)</li>
 <li>moodle.royalholloway.ac.uk (1059)</li>
 <li>www.amazon.co.uk (1012)</li>
-<li>github.com (943)</li>
+<li>github.com (944)</li>
 <li>m.facebook.com (821)</li>
-<li>www.reddit.com (794)</li>
-<li>chat.openai.com (555)</li>
+<li>www.reddit.com (795)</li>
+<li>chat.openai.com (556)</li>
 <li>whitewaterwriters.com (549)</li>
 <li>gmail.com (544)</li>
 <li>app.qbo.intuit.com (530)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (364)</li>
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>www.linkedin.com (336)</li>
+<li>www.linkedin.com (337)</li>
 <li>login.microsoftonline.com (325)</li>
 <li>web.whatsapp.com (315)</li>
 <li>bsky.app (311)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 26/07/24</H3>
+
+<br>
+
+<ul><li> 08:46 github.com</li>
+<li> 08:46 chatgpt.com</li>
+<li class='same'> 08:45 chatgpt.com</li>
+<li> 08:45 chat.openai.com</li>
+<li> 08:45 <a href="https://joereddington.com/video/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li class='same'> 08:31 <a href="https://joereddington.com/video/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 08:31 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:31 <a href="https://joereddington.com/2024/06/10/">Joe Reddington | Things I make.</a></li>
+</ul>
 
 <br>
 
@@ -150,7 +162,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 15:45 www.theguardian.com</li>
+<ul><li> 15:52 mail.google.com</li>
+<li> 15:52 www.linkedin.com</li>
+<li> 15:45 www.theguardian.com</li>
 <li class='same'> 15:43 www.theguardian.com</li>
 <li class='same'> 15:42 www.theguardian.com</li>
 </ul>
@@ -164,7 +178,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:46 www.reddit.com</li>
+<ul><li> 11:48 www.reddit.com</li>
+<li class='same'> 11:46 www.reddit.com</li>
 <li class='same'> 11:44 www.reddit.com</li>
 <li class='same'> 11:43 www.reddit.com</li>
 <li> 11:42 www.natesilver.net</li>
@@ -2624,7 +2639,7 @@ With number of accesses/minutes in parentheses
 <li> 11:42 www.google.com</li>
 <li> 11:41 <a href="https://en.wikipedia.org/wiki/Retrode">Retrode - Wikipedia</a></li>
 <li> 11:41 www.google.com</li>
-<li> 11:37 <a href="https://joereddington.com/video/2024/06/10/bike.html">Cadence sensors in games | Joe Reddington</a></li>
+<li> 11:37 <a href="https://joereddington.com/video/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
 </ul>
 
 <br>
@@ -5288,7 +5303,7 @@ With number of accesses/minutes in parentheses
 <li> 09:55 www.reddit.com</li>
 <li class='same'> 09:54 www.reddit.com</li>
 <li class='same'> 09:53 www.reddit.com</li>
-<li> 09:46 <a href="https://joereddington.com/video/2024/06/10/bike.html">Cadence sensors in games | Joe Reddington</a></li>
+<li> 09:46 <a href="https://joereddington.com/video/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
 <li> 09:42 <a href="https://en.wikipedia.org/wiki/Retrode">Retrode - Wikipedia</a></li>
 <li> 09:42 www.google.com</li>
 <li> 09:42 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
@@ -5299,7 +5314,7 @@ With number of accesses/minutes in parentheses
 <li> 09:36 www.google.com</li>
 <li> 09:36 github.com</li>
 <li class='same'> 09:35 github.com</li>
-<li> 09:33 <a href="https://joereddington.com/video/2024/06/10/bike.html">Cadence sensors in games | Joe Reddington</a></li>
+<li> 09:33 <a href="https://joereddington.com/video/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
 <li> 09:23 chatgpt.com</li>
 <li class='same'> 09:22 chatgpt.com</li>
 <li> 09:22 chat.openai.com</li>
@@ -5674,7 +5689,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:31 calendar.google.com</li>
 <li class='same'> 10:30 calendar.google.com</li>
 <li> 10:30 mail.google.com</li>
-<li> 10:30 <a href="https://joereddington.com/video/2024/06/10/bike.html">Cadence sensors in games | Joe Reddington</a></li>
+<li> 10:30 <a href="https://joereddington.com/video/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
 <li> 10:30 <a href="https://joereddington.com/images/2020/06/10/mirror.html">Mirror Images | Joe Reddington</a></li>
 <li> 10:27 mail.google.com</li>
 <li> 10:27 www.google.com</li>
@@ -6160,7 +6175,7 @@ With number of accesses/minutes in parentheses
 <li> 15:34 outlook.office365.com</li>
 <li> 15:34 mail.rhul.ac.uk</li>
 <li> 15:34 calendar.google.com</li>
-<li> 15:34 <a href="https://joereddington.com/video/2024/06/10/bike.html">Cadence sensors in games | Joe Reddington</a></li>
+<li> 15:34 <a href="https://joereddington.com/video/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
 <li> 15:32 chatgpt.com</li>
 <li> 15:32 chat.openai.com</li>
 <li> 15:28 <a href="https://en.wikipedia.org/wiki/Mario_Kart">Mario Kart - Wikipedia</a></li>
