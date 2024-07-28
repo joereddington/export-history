@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (6839)</li>
 <li>mail.google.com (5068)</li>
 <li>outlook.office.com (2569)</li>
-<li>www.facebook.com (2039)</li>
+<li>www.facebook.com (2067)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1121)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1020)</li>
 <li>github.com (960)</li>
 <li>m.facebook.com (831)</li>
-<li>www.reddit.com (812)</li>
+<li>www.reddit.com (816)</li>
 <li>chat.openai.com (557)</li>
 <li>gmail.com (552)</li>
 <li>whitewaterwriters.com (550)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:50 www.reddit.com</li>
+<ul><li> 17:28 www.reddit.com</li>
+<li> 17:25 www.facebook.com</li>
+<li class='same'> 17:23 www.facebook.com</li>
+<li class='same'> 17:22 www.facebook.com</li>
+<li class='same'> 17:21 www.facebook.com</li>
+<li class='same'> 17:20 www.facebook.com</li>
+<li class='same'> 17:19 www.facebook.com</li>
+<li class='same'> 17:18 www.facebook.com</li>
+<li class='same'> 17:17 www.facebook.com</li>
+<li class='same'> 17:16 www.facebook.com</li>
+<li class='same'> 17:15 www.facebook.com</li>
+<li class='same'> 17:14 www.facebook.com</li>
+<li class='same'> 17:13 www.facebook.com</li>
+<li class='same'> 17:12 www.facebook.com</li>
+<li class='same'> 17:11 www.facebook.com</li>
+<li class='same'> 17:10 www.facebook.com</li>
+<li class='same'> 17:09 www.facebook.com</li>
+<li class='same'> 17:08 www.facebook.com</li>
+<li class='same'> 17:07 www.facebook.com</li>
+<li class='same'> 17:06 www.facebook.com</li>
+<li class='same'> 17:05 www.facebook.com</li>
+<li class='same'> 17:04 www.facebook.com</li>
+<li class='same'> 17:03 www.facebook.com</li>
+<li class='same'> 17:01 www.facebook.com</li>
+<li class='same'> 17:00 www.facebook.com</li>
+<li class='same'> 16:59 www.facebook.com</li>
+<li class='same'> 16:58 www.facebook.com</li>
+<li class='same'> 16:57 www.facebook.com</li>
+<li class='same'> 16:55 www.facebook.com</li>
+<li> 16:53 www.reddit.com</li>
+<li class='same'> 16:52 www.reddit.com</li>
+<li class='same'> 16:51 www.reddit.com</li>
+<li class='same'> 16:50 www.reddit.com</li>
 <li class='same'> 16:49 www.reddit.com</li>
 <li class='same'> 16:48 www.reddit.com</li>
 <li> 16:46 www.google.com</li>
