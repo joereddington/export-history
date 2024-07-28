@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6834)</li>
 <li>mail.google.com (5065)</li>
-<li>outlook.office.com (2560)</li>
+<li>outlook.office.com (2562)</li>
 <li>www.facebook.com (2017)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1121)</li>
-<li>moodle.royalholloway.ac.uk (1065)</li>
+<li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1020)</li>
-<li>github.com (959)</li>
+<li>github.com (960)</li>
 <li>m.facebook.com (831)</li>
 <li>www.reddit.com (803)</li>
 <li>chat.openai.com (557)</li>
@@ -85,16 +85,16 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (548)</li>
 <li>tvtropes.org (505)</li>
 <li>en.m.wikipedia.org (471)</li>
-<li>teams.microsoft.com (392)</li>
+<li>teams.microsoft.com (393)</li>
 <li>drive.google.com (366)</li>
 <li>outlook.office365.com (364)</li>
 <li>www.linkedin.com (351)</li>
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>login.microsoftonline.com (335)</li>
-<li>web.whatsapp.com (319)</li>
+<li>login.microsoftonline.com (338)</li>
+<li>web.whatsapp.com (321)</li>
 <li>bsky.app (311)</li>
-<li>rhul.sharepoint.com (276)</li>
+<li>rhul.sharepoint.com (278)</li>
 <li>Local file (257)</li>
 <li>www.theguardian.com (249)</li>
 <li>www.giantitp.com (246)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 28/07/24</H3>
+
+<br>
+
+<ul><li> 11:17 moodle2324.royalholloway.ac.uk</li>
+<li> 11:17 login.microsoftonline.com</li>
+<li> 11:17 moodle2324.royalholloway.ac.uk</li>
+<li> 11:17 moodle.royalholloway.ac.uk</li>
+<li> 11:15 rhul.sharepoint.com</li>
+<li> 11:10 claude.ai</li>
+<li> 11:09 web.whatsapp.com</li>
+<li> 11:06 rhul.sharepoint.com</li>
+<li> 11:05 teams.microsoft.com</li>
+<li> 11:05 login.microsoftonline.com</li>
+<li> 11:04 outlook.office.com</li>
+<li> 10:57 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 10:57 github.com</li>
+<li> 10:57 outlook.office.com</li>
+<li> 10:57 login.microsoftonline.com</li>
+<li> 10:56 web.whatsapp.com</li>
+</ul>
 
 <br>
 
