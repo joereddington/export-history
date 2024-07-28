@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6833)</li>
+<ol><li>www.google.com (6834)</li>
 <li>mail.google.com (5063)</li>
 <li>outlook.office.com (2560)</li>
 <li>www.facebook.com (2017)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1119)</li>
 <li>moodle.royalholloway.ac.uk (1065)</li>
 <li>www.amazon.co.uk (1020)</li>
-<li>github.com (954)</li>
+<li>github.com (959)</li>
 <li>m.facebook.com (831)</li>
 <li>www.reddit.com (803)</li>
 <li>chat.openai.com (557)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:51 web.whatsapp.com</li>
+<ul><li> 07:03 github.com</li>
+<li class='same'> 07:02 github.com</li>
+<li class='same'> 07:01 github.com</li>
+<li class='same'> 07:00 github.com</li>
+<li class='same'> 06:59 github.com</li>
+<li> 06:56 www.google.com</li>
+<li> 06:51 web.whatsapp.com</li>
 <li> 06:51 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:48 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 06:22 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
@@ -15835,8 +15841,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:55 www.reddit.com</li>
 <li> 19:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 19:54 www.comicsands.com</li>
-<li> 19:54 l.facebook.com</li>
 <li> 19:54 www.facebook.com</li>
 <li class='same'> 19:50 www.facebook.com</li>
 <li class='same'> 19:49 www.facebook.com</li>
@@ -15846,7 +15850,6 @@ With number of accesses/minutes in parentheses
 <li> 19:45 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 19:45 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 19:45 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 19:45 <a href="https://en.wikipedia.org/wiki/watchlist"></a></li>
 <li> 19:45 <a href="https://en.wikipedia.org/wiki/Watchlist">Watchlist - Wikipedia</a></li>
 <li> 19:45 <a href="https://en.wikipedia.org/watchlist">Not Found</a></li>
 <li> 19:45 <a href="http://en.wikipedia.org/watchlist"></a></li>
