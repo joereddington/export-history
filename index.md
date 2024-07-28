@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6837)</li>
-<li>mail.google.com (5065)</li>
+<li>mail.google.com (5067)</li>
 <li>outlook.office.com (2569)</li>
-<li>www.facebook.com (2020)</li>
+<li>www.facebook.com (2026)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1121)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (831)</li>
 <li>www.reddit.com (806)</li>
 <li>chat.openai.com (557)</li>
-<li>gmail.com (551)</li>
+<li>gmail.com (552)</li>
 <li>whitewaterwriters.com (550)</li>
 <li>app.qbo.intuit.com (548)</li>
 <li>tvtropes.org (505)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (280)</li>
 <li>Local file (257)</li>
-<li>www.theguardian.com (249)</li>
+<li>www.theguardian.com (252)</li>
 <li>www.giantitp.com (246)</li>
 
 
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:28 outlook.office.com</li>
+<ul><li> 12:58 www.facebook.com</li>
+<li class='same'> 12:57 www.facebook.com</li>
+<li class='same'> 12:56 www.facebook.com</li>
+<li class='same'> 12:55 www.facebook.com</li>
+<li class='same'> 12:53 www.facebook.com</li>
+<li class='same'> 12:51 www.facebook.com</li>
+<li> 12:51 mail.google.com</li>
+<li class='same'> 12:50 mail.google.com</li>
+<li> 12:50 gmail.com</li>
+<li> 12:50 www.theguardian.com</li>
+<li class='same'> 12:29 www.theguardian.com</li>
+<li class='same'> 12:28 www.theguardian.com</li>
+<li> 12:28 outlook.office.com</li>
 <li class='same'> 12:27 outlook.office.com</li>
 <li class='same'> 12:26 outlook.office.com</li>
 <li class='same'> 12:25 outlook.office.com</li>
