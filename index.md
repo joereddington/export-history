@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (6839)</li>
 <li>mail.google.com (5068)</li>
 <li>outlook.office.com (2569)</li>
-<li>www.facebook.com (2067)</li>
+<li>www.facebook.com (2072)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1121)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1020)</li>
 <li>github.com (960)</li>
 <li>m.facebook.com (831)</li>
-<li>www.reddit.com (816)</li>
+<li>www.reddit.com (818)</li>
 <li>chat.openai.com (557)</li>
 <li>gmail.com (552)</li>
 <li>whitewaterwriters.com (550)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:28 www.reddit.com</li>
+<ul><li> 18:15 www.facebook.com</li>
+<li class='same'> 18:13 www.facebook.com</li>
+<li> 18:04 <a href="https://en.wikipedia.org/wiki/Thomas_Cromwell#Downfall_and_execution">Thomas Cromwell - Wikipedia</a></li>
+<li> 18:04 <a href="https://en.wikipedia.org/wiki/Thomas_Cromwell">Thomas Cromwell - Wikipedia</a></li>
+<li> 18:04 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 18:04 www.facebook.com</li>
+<li class='same'> 18:03 www.facebook.com</li>
+<li class='same'> 18:01 www.facebook.com</li>
+<li> 18:01 www.reddit.com</li>
+<li class='same'> 18:00 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:28 www.reddit.com</li>
 <li> 17:25 www.facebook.com</li>
 <li class='same'> 17:23 www.facebook.com</li>
 <li class='same'> 17:22 www.facebook.com</li>
