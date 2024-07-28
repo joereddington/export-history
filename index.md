@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6833)</li>
 <li>mail.google.com (5063)</li>
-<li>outlook.office.com (2559)</li>
+<li>outlook.office.com (2560)</li>
 <li>www.facebook.com (2017)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1119)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (954)</li>
 <li>m.facebook.com (831)</li>
 <li>www.reddit.com (803)</li>
-<li>chat.openai.com (556)</li>
+<li>chat.openai.com (557)</li>
 <li>whitewaterwriters.com (550)</li>
 <li>gmail.com (550)</li>
 <li>app.qbo.intuit.com (548)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>login.microsoftonline.com (335)</li>
-<li>web.whatsapp.com (317)</li>
+<li>web.whatsapp.com (318)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (276)</li>
 <li>Local file (257)</li>
@@ -104,11 +104,37 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 28/07/24</H3>
+
+<br>
+
+<ul><li> 06:51 web.whatsapp.com</li>
+<li> 06:51 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:48 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<li> 06:22 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 06:22 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:22 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 06:19 chatgpt.com</li>
+<li class='same'> 06:17 chatgpt.com</li>
+<li> 06:17 chat.openai.com</li>
+</ul>
+
 <H3>Saturday, 27/07/24</H3>
 
 <br>
 
+<ul></ul>
+
+<br>
+
 <ul><li> 15:23 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:04 chatgpt.com</li>
+<li> 07:03 outlook.office.com</li>
+<li> 07:02 chatgpt.com</li>
 </ul>
 
 <H3>Friday, 26/07/24</H3>
