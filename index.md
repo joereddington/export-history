@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6846)</li>
+<ol><li>www.google.com (6850)</li>
 <li>mail.google.com (5071)</li>
-<li>outlook.office.com (2607)</li>
-<li>www.facebook.com (2076)</li>
+<li>outlook.office.com (2610)</li>
+<li>www.facebook.com (2077)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1126)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (962)</li>
 <li>m.facebook.com (831)</li>
 <li>www.reddit.com (819)</li>
-<li>chat.openai.com (557)</li>
+<li>chat.openai.com (558)</li>
 <li>gmail.com (553)</li>
 <li>whitewaterwriters.com (550)</li>
 <li>app.qbo.intuit.com (548)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:48 outlook.office.com</li>
+<ul><li> 08:00 www.facebook.com</li>
+<li> 08:00 outlook.office.com</li>
+<li> 07:59 <a href="https://www.bbc.co.uk/newsround/articles/c10lg908y6no">Robot 'guide dog' to assist blind and visually impaired people in China - BBC Newsround</a></li>
+<li> 07:59 www.google.com</li>
+<li> 07:57 <a href="https://en.wikipedia.org/wiki/Qlik">Qlik - Wikipedia</a></li>
+<li> 07:57 www.google.com</li>
+<li> 07:56 community.qlik.com</li>
+<li> 07:56 www.google.com</li>
+<li> 07:52 chatgpt.com</li>
+<li class='same'> 07:51 chatgpt.com</li>
+<li> 07:51 chat.openai.com</li>
+<li> 07:51 outlook.office.com</li>
+<li class='same'> 07:50 outlook.office.com</li>
+<li> 07:48 www.google.com</li>
+<li> 07:48 outlook.office.com</li>
 <li> 07:47 dashboards.rhul.ac.uk</li>
 <li> 07:47 outlook.office.com</li>
 <li class='same'> 07:45 outlook.office.com</li>
