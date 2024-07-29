@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6839)</li>
-<li>mail.google.com (5068)</li>
-<li>outlook.office.com (2569)</li>
-<li>www.facebook.com (2072)</li>
+<ol><li>www.google.com (6846)</li>
+<li>mail.google.com (5071)</li>
+<li>outlook.office.com (2572)</li>
+<li>www.facebook.com (2076)</li>
 <li>docs.google.com (1600)</li>
-<li>calendar.google.com (1121)</li>
+<li>calendar.google.com (1126)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1020)</li>
 <li>github.com (960)</li>
 <li>m.facebook.com (831)</li>
-<li>www.reddit.com (818)</li>
+<li>www.reddit.com (819)</li>
 <li>chat.openai.com (557)</li>
-<li>gmail.com (552)</li>
+<li>gmail.com (553)</li>
 <li>whitewaterwriters.com (550)</li>
 <li>app.qbo.intuit.com (548)</li>
 <li>tvtropes.org (505)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>login.microsoftonline.com (338)</li>
-<li>web.whatsapp.com (321)</li>
+<li>web.whatsapp.com (322)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (280)</li>
 <li>Local file (257)</li>
@@ -104,11 +104,50 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 29/07/24</H3>
+
+<br>
+
+<ul><li> 06:41 outlook.office.com</li>
+<li> 06:41 www.google.com</li>
+<li> 06:41 outlook.office.com</li>
+<li class='same'> 06:40 outlook.office.com</li>
+<li> 06:37 mail.google.com</li>
+<li> 06:34 www.google.com</li>
+<li class='same'> 06:33 www.google.com</li>
+<li> 06:33 www.atwevents.co.uk</li>
+<li class='same'> 06:32 www.atwevents.co.uk</li>
+<li> 06:32 www.google.com</li>
+<li> 06:31 calendar.google.com</li>
+<li class='same'> 06:30 calendar.google.com</li>
+<li> 06:30 web.whatsapp.com</li>
+<li> 06:30 joanna421.typeform.com</li>
+<li> 06:30 calendar.google.com</li>
+<li class='same'> 06:29 calendar.google.com</li>
+<li class='same'> 06:28 calendar.google.com</li>
+<li> 06:28 mail.google.com</li>
+<li class='same'> 06:27 mail.google.com</li>
+<li> 06:27 gmail.com</li>
+</ul>
+
 <H3>Sunday, 28/07/24</H3>
 
 <br>
 
-<ul><li> 18:15 www.facebook.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 18:25 www.facebook.com</li>
+<li class='same'> 18:24 www.facebook.com</li>
+<li> 18:23 www.google.com</li>
+<li> 18:23 www.reddit.com</li>
+<li> 18:23 www.google.com</li>
+<li> 18:22 medium.com</li>
+<li> 18:22 www.google.com</li>
+<li> 18:20 www.facebook.com</li>
+<li class='same'> 18:19 www.facebook.com</li>
+<li class='same'> 18:15 www.facebook.com</li>
 <li class='same'> 18:13 www.facebook.com</li>
 <li> 18:04 <a href="https://en.wikipedia.org/wiki/Thomas_Cromwell#Downfall_and_execution">Thomas Cromwell - Wikipedia</a></li>
 <li> 18:04 <a href="https://en.wikipedia.org/wiki/Thomas_Cromwell">Thomas Cromwell - Wikipedia</a></li>
