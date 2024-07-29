@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6850)</li>
-<li>mail.google.com (5071)</li>
+<ol><li>www.google.com (6857)</li>
+<li>mail.google.com (5073)</li>
 <li>outlook.office.com (2610)</li>
 <li>www.facebook.com (2077)</li>
 <li>docs.google.com (1600)</li>
@@ -79,8 +79,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (962)</li>
 <li>m.facebook.com (831)</li>
 <li>www.reddit.com (819)</li>
-<li>chat.openai.com (558)</li>
-<li>gmail.com (553)</li>
+<li>chat.openai.com (559)</li>
+<li>gmail.com (554)</li>
 <li>whitewaterwriters.com (550)</li>
 <li>app.qbo.intuit.com (548)</li>
 <li>tvtropes.org (505)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (392)</li>
 <li>drive.google.com (366)</li>
 <li>outlook.office365.com (364)</li>
-<li>www.linkedin.com (351)</li>
+<li>www.linkedin.com (352)</li>
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>login.microsoftonline.com (336)</li>
@@ -105,6 +105,32 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 29/07/24</H3>
+
+<br>
+
+<ul><li> 09:29 mail.google.com</li>
+<li> 09:27 chatgpt.com</li>
+<li class='same'> 09:25 chatgpt.com</li>
+<li> 09:25 chat.openai.com</li>
+<li> 09:25 mail.google.com</li>
+<li> 09:25 gmail.com</li>
+<li> 09:25 www.drummertelevision.com</li>
+<li> 09:25 www.imdb.com</li>
+<li> 09:25 www.google.com</li>
+<li class='same'> 09:24 www.google.com</li>
+<li> 09:24 www.drummertelevision.com</li>
+<li> 09:24 www.google.com</li>
+<li> 09:23 www.linkedin.com</li>
+<li> 09:23 www.google.com</li>
+<li> 09:22 <a href="https://www.bbc.co.uk/iplayer/episode/p0cl671p/gym-stars-series-4-1-everything-is-changing">Gym Stars - Series 4: 1. Everything is Changing - BBC iPlayer</a></li>
+<li> 09:22 <a href="https://www.bbc.co.uk/iplayer/episodes/b0b23j7w/gym-stars">Gym Stars - BBC iPlayer</a></li>
+<li> 09:22 <a href="https://www.bbc.co.uk/programmes/b0b23j7w">CBBC - Gym Stars</a></li>
+<li> 09:22 www.google.com</li>
+<li> 09:22 <a href="https://en.wikipedia.org/wiki/Amelie_Morgan">Amelie Morgan - Wikipedia</a></li>
+<li> 09:22 www.google.com</li>
+<li> 09:21 gym-stars.fandom.com</li>
+<li> 09:21 www.google.com</li>
+</ul>
 
 <br>
 
