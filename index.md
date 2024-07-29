@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6846)</li>
 <li>mail.google.com (5071)</li>
-<li>outlook.office.com (2572)</li>
+<li>outlook.office.com (2607)</li>
 <li>www.facebook.com (2076)</li>
 <li>docs.google.com (1600)</li>
 <li>calendar.google.com (1126)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1020)</li>
-<li>github.com (960)</li>
+<li>github.com (962)</li>
 <li>m.facebook.com (831)</li>
 <li>www.reddit.com (819)</li>
 <li>chat.openai.com (557)</li>
@@ -85,13 +85,13 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (548)</li>
 <li>tvtropes.org (505)</li>
 <li>en.m.wikipedia.org (471)</li>
-<li>teams.microsoft.com (393)</li>
+<li>teams.microsoft.com (392)</li>
 <li>drive.google.com (366)</li>
 <li>outlook.office365.com (364)</li>
 <li>www.linkedin.com (351)</li>
 <li>kdp.amazon.com (351)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>login.microsoftonline.com (338)</li>
+<li>login.microsoftonline.com (336)</li>
 <li>web.whatsapp.com (322)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (280)</li>
@@ -108,7 +108,52 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:41 outlook.office.com</li>
+<ul><li> 07:48 outlook.office.com</li>
+<li> 07:47 dashboards.rhul.ac.uk</li>
+<li> 07:47 outlook.office.com</li>
+<li class='same'> 07:45 outlook.office.com</li>
+<li class='same'> 07:44 outlook.office.com</li>
+<li class='same'> 07:43 outlook.office.com</li>
+<li class='same'> 07:42 outlook.office.com</li>
+<li class='same'> 07:41 outlook.office.com</li>
+<li class='same'> 07:40 outlook.office.com</li>
+<li class='same'> 07:39 outlook.office.com</li>
+<li class='same'> 07:38 outlook.office.com</li>
+<li class='same'> 07:37 outlook.office.com</li>
+<li class='same'> 07:36 outlook.office.com</li>
+<li class='same'> 07:35 outlook.office.com</li>
+<li class='same'> 07:34 outlook.office.com</li>
+<li class='same'> 07:33 outlook.office.com</li>
+<li class='same'> 07:32 outlook.office.com</li>
+<li> 07:28 dashboards.rhul.ac.uk</li>
+<li> 07:28 outlook.office.com</li>
+<li> 07:28 dashboards.rhul.ac.uk</li>
+<li> 07:27 outlook.office.com</li>
+<li class='same'> 07:26 outlook.office.com</li>
+<li class='same'> 07:25 outlook.office.com</li>
+<li class='same'> 07:24 outlook.office.com</li>
+<li class='same'> 07:22 outlook.office.com</li>
+<li> 07:21 dashboards.rhul.ac.uk</li>
+<li> 07:21 rhul-my.sharepoint.com</li>
+<li> 07:21 dashboards.rhul.ac.uk</li>
+<li> 07:20 outlook.office.com</li>
+<li> 07:20 github.com</li>
+<li class='same'> 07:19 github.com</li>
+<li> 07:18 outlook.office.com</li>
+<li> 07:18 fast.com</li>
+<li> 07:18 outlook.office.com</li>
+<li class='same'> 07:15 outlook.office.com</li>
+<li> 07:14 www.google.com</li>
+<li> 07:14 outlook.office.com</li>
+<li class='same'> 07:13 outlook.office.com</li>
+<li class='same'> 07:12 outlook.office.com</li>
+<li class='same'> 07:11 outlook.office.com</li>
+<li class='same'> 07:10 outlook.office.com</li>
+<li class='same'> 07:09 outlook.office.com</li>
+<li class='same'> 07:07 outlook.office.com</li>
+<li class='same'> 07:06 outlook.office.com</li>
+<li class='same'> 07:04 outlook.office.com</li>
+<li class='same'> 06:41 outlook.office.com</li>
 <li> 06:41 www.google.com</li>
 <li> 06:41 outlook.office.com</li>
 <li class='same'> 06:40 outlook.office.com</li>
@@ -15899,8 +15944,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:01 www.facebook.com</li>
 <li class='same'> 18:00 www.facebook.com</li>
 <li> 17:58 teams.microsoft.com</li>
-<li> 17:58 login.microsoftonline.com</li>
-<li> 17:58 teams.microsoft.com</li>
 <li> 17:54 www.facebook.com</li>
 <li class='same'> 17:53 www.facebook.com</li>
 <li class='same'> 17:52 www.facebook.com</li>
@@ -15931,7 +15974,6 @@ With number of accesses/minutes in parentheses
 <li> 16:07 www.google.com</li>
 <li> 16:07 outlook.office.com</li>
 <li> 16:06 teams.microsoft.com</li>
-<li> 16:06 login.microsoftonline.com</li>
 <li> 16:06 outlook.office.com</li>
 <li> 16:06 login.microsoftonline.com</li>
 <li> 16:06 outlook.office365.com</li>
@@ -15944,7 +15986,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:35 dashboards.rhul.ac.uk</li>
 <li> 14:35 www.google.com</li>
 <li> 14:35 <a href="https://en.wikipedia.org/wiki/2011_PlayStation_Network_outage#Extent_of_the_breach">2011 PlayStation Network outage - Wikipedia</a></li>
-<li> 14:34 www.google.com</li>
 <li> 14:32 <a href="https://en.wikipedia.org/w/index.php?title=2011_PlayStation_Network_outage&action=edit&section=1">Editing 2011 PlayStation Network outage - Wikipedia</a></li>
 <li> 14:32 <a href="https://en.wikipedia.org/wiki/2011_PlayStation_Network_outage">2011 PlayStation Network outage - Wikipedia</a></li>
 <li> 14:31 www.theguardian.com</li>
