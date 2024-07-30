@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6886)</li>
+<ol><li>www.google.com (6895)</li>
 <li>mail.google.com (5103)</li>
 <li>outlook.office.com (2614)</li>
 <li>www.facebook.com (2085)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1127)</li>
 <li>moodle.royalholloway.ac.uk (1065)</li>
 <li>www.amazon.co.uk (1021)</li>
-<li>github.com (964)</li>
+<li>github.com (971)</li>
 <li>m.facebook.com (831)</li>
 <li>www.reddit.com (820)</li>
 <li>whitewaterwriters.com (573)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:10 whitewaterwriters.com</li>
+<ul><li> 15:06 accounts.google.com</li>
+<li> 15:04 github.com</li>
+<li class='same'> 15:03 github.com</li>
+<li> 15:03 www.google.com</li>
+<li> 15:03 <a href="https://stackoverflow.com/questions/70651975/nginx-with-etherpad-in-a-subdirectory">amazon web services - nginx with Etherpad in a subdirectory - Stack Overflow</a></li>
+<li> 15:03 www.google.com</li>
+<li> 15:01 etherpad.wikimedia.org</li>
+<li> 15:01 scanner.etherpad.org</li>
+<li> 15:01 pad.systemli.org</li>
+<li> 15:01 github.com</li>
+<li> 15:00 www.google.com</li>
+<li> 15:00 etherpad.org</li>
+<li> 15:00 www.google.com</li>
+<li> 14:52 github.com</li>
+<li> 14:52 www.google.com</li>
+<li class='same'> 14:47 www.google.com</li>
+<li class='same'> 14:46 www.google.com</li>
+<li> 14:46 github.com</li>
+<li> 14:45 <a href="https://stackoverflow.com/questions/45153599/error-with-log4js-configuration-must-have-a-property-appenders-of-type-object">protractor - Error with log4js configuration: must have a property "appenders" of type object - Stack Overflow</a></li>
+<li> 14:45 www.google.com</li>
+<li> 14:44 chatgpt.com</li>
+<li class='same'> 14:36 chatgpt.com</li>
+<li> 14:36 docs.aws.amazon.com</li>
+<li> 14:36 www.google.com</li>
+<li> 14:35 www.rosehosting.com</li>
+<li> 14:34 github.com</li>
+<li class='same'> 14:33 github.com</li>
+<li> 14:18 chatgpt.com</li>
+<li> 14:10 whitewaterwriters.com</li>
 <li class='same'> 14:00 whitewaterwriters.com</li>
 <li> 13:45 chatgpt.com</li>
 <li> 13:39 whitewaterwriters.com</li>
