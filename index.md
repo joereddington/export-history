@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (6871)</li>
-<li>mail.google.com (5098)</li>
+<li>mail.google.com (5099)</li>
 <li>outlook.office.com (2614)</li>
 <li>www.facebook.com (2084)</li>
 <li>docs.google.com (1604)</li>
 <li>calendar.google.com (1127)</li>
-<li>moodle.royalholloway.ac.uk (1066)</li>
+<li>moodle.royalholloway.ac.uk (1065)</li>
 <li>www.amazon.co.uk (1020)</li>
 <li>github.com (962)</li>
 <li>m.facebook.com (831)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (362)</li>
 <li>kdp.amazon.com (354)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>login.microsoftonline.com (336)</li>
+<li>login.microsoftonline.com (334)</li>
 <li>web.whatsapp.com (323)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (283)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:55 www.facebook.com</li>
+<ul><li> 07:02 mail.google.com</li>
+<li> 06:55 www.facebook.com</li>
 <li> 06:55 mail.google.com</li>
 <li> 06:54 www.google.com</li>
 <li class='same'> 06:53 www.google.com</li>
@@ -15853,15 +15854,13 @@ With number of accesses/minutes in parentheses
 <li> 13:40 rhul.sharepoint.com</li>
 <li> 13:40 login.microsoftonline.com</li>
 <li> 13:40 teams.microsoft.com</li>
-<li> 13:40 login.microsoftonline.com</li>
 <li> 13:36 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:35 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:34 moodle.royalholloway.ac.uk</li>
 <li> 13:32 <a href="https://en.wikipedia.org/wiki/Amazon_(company)">Amazon (company) - Wikipedia</a></li>
 <li> 13:32 www.google.com</li>
 <li> 13:31 www.amazon.co.uk</li>
-<li> 13:30 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:27 moodle.royalholloway.ac.uk</li>
+<li> 13:27 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:20 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:19 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:17 moodle.royalholloway.ac.uk</li>
@@ -15909,7 +15908,6 @@ With number of accesses/minutes in parentheses
 <li> 12:08 www.google.com</li>
 <li> 12:05 outlook.office.com</li>
 <li> 12:04 teams.microsoft.com</li>
-<li> 12:04 login.microsoftonline.com</li>
 <li> 12:04 outlook.office.com</li>
 <li class='same'> 12:03 outlook.office.com</li>
 <li class='same'> 11:55 outlook.office.com</li>
