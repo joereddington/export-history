@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6865)</li>
-<li>mail.google.com (5080)</li>
+<ol><li>www.google.com (6871)</li>
+<li>mail.google.com (5098)</li>
 <li>outlook.office.com (2614)</li>
-<li>www.facebook.com (2083)</li>
-<li>docs.google.com (1600)</li>
+<li>www.facebook.com (2084)</li>
+<li>docs.google.com (1604)</li>
 <li>calendar.google.com (1127)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1020)</li>
 <li>github.com (962)</li>
 <li>m.facebook.com (831)</li>
 <li>www.reddit.com (819)</li>
-<li>chat.openai.com (560)</li>
-<li>gmail.com (555)</li>
-<li>whitewaterwriters.com (550)</li>
+<li>chat.openai.com (561)</li>
+<li>gmail.com (557)</li>
+<li>whitewaterwriters.com (551)</li>
 <li>app.qbo.intuit.com (548)</li>
 <li>tvtropes.org (505)</li>
 <li>en.m.wikipedia.org (471)</li>
 <li>teams.microsoft.com (393)</li>
-<li>drive.google.com (366)</li>
+<li>drive.google.com (367)</li>
 <li>outlook.office365.com (364)</li>
 <li>www.linkedin.com (362)</li>
-<li>kdp.amazon.com (353)</li>
+<li>kdp.amazon.com (354)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>login.microsoftonline.com (336)</li>
 <li>web.whatsapp.com (323)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (283)</li>
+<li>www.theguardian.com (258)</li>
 <li>Local file (257)</li>
-<li>www.theguardian.com (256)</li>
 <li>www.giantitp.com (246)</li>
 
 
@@ -104,7 +104,74 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 30/07/24</H3>
+
+<br>
+
+<ul><li> 06:55 www.facebook.com</li>
+<li> 06:55 mail.google.com</li>
+<li> 06:54 www.google.com</li>
+<li class='same'> 06:53 www.google.com</li>
+<li> 06:52 mail.google.com</li>
+<li> 06:51 www.google.com</li>
+<li> 06:50 hellosafe.co.uk</li>
+<li> 06:50 www.work-day.co.uk</li>
+<li class='same'> 06:49 www.work-day.co.uk</li>
+<li> 06:49 www.google.com</li>
+<li class='same'> 06:48 www.google.com</li>
+<li> 06:48 mail.google.com</li>
+<li class='same'> 06:45 mail.google.com</li>
+<li> 06:44 register-of-charities.charitycommission.gov.uk</li>
+<li> 06:44 equalitytime.co.uk</li>
+<li> 06:44 www.equalitytime.org</li>
+<li> 06:44 equalitytime.github.io</li>
+<li> 06:37 claude.site</li>
+<li> 06:36 mail.google.com</li>
+<li> 06:35 drive.google.com</li>
+<li> 06:35 claude.ai</li>
+<li> 06:34 mail.google.com</li>
+<li> 06:34 claude.ai</li>
+<li> 06:34 mail.google.com</li>
+<li> 06:34 claude.ai</li>
+<li> 06:33 mail.google.com</li>
+<li> 06:33 claude.ai</li>
+<li> 06:33 mail.google.com</li>
+<li> 06:33 gmail.com</li>
+<li> 06:33 www.google.com</li>
+<li> 06:32 mail.google.com</li>
+<li> 06:32 claude.ai</li>
+<li> 06:32 mail.google.com</li>
+<li class='same'> 06:28 mail.google.com</li>
+<li> 06:27 docs.google.com</li>
+<li> 06:26 mail.google.com</li>
+<li class='same'> 06:25 mail.google.com</li>
+<li> 06:25 docs.google.com</li>
+<li> 06:24 x.com</li>
+<li class='same'> 06:22 x.com</li>
+<li> 06:20 www.theguardian.com</li>
+<li class='same'> 06:19 www.theguardian.com</li>
+<li> 06:19 mail.google.com</li>
+<li> 06:19 docs.google.com</li>
+<li> 06:19 accounts.google.com</li>
+<li class='same'> 06:18 accounts.google.com</li>
+<li> 06:18 whitewaterwriters.com</li>
+<li> 06:15 docs.google.com</li>
+<li> 06:15 mail.google.com</li>
+<li class='same'> 06:14 mail.google.com</li>
+<li> 06:14 www.amazon.com</li>
+<li> 06:13 kdp.amazon.com</li>
+<li> 06:13 mail.google.com</li>
+<li> 06:13 gmail.com</li>
+<li> 06:05 chatgpt.com</li>
+<li class='same'> 06:04 chatgpt.com</li>
+<li> 06:04 chat.openai.com</li>
+</ul>
+
 <H3>Monday, 29/07/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
