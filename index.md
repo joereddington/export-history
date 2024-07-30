@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6871)</li>
-<li>mail.google.com (5099)</li>
+<ol><li>www.google.com (6880)</li>
+<li>mail.google.com (5101)</li>
 <li>outlook.office.com (2614)</li>
-<li>www.facebook.com (2084)</li>
+<li>www.facebook.com (2085)</li>
 <li>docs.google.com (1604)</li>
 <li>calendar.google.com (1127)</li>
 <li>moodle.royalholloway.ac.uk (1065)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (354)</li>
 <li>forum.artofmemory.com (350)</li>
 <li>login.microsoftonline.com (334)</li>
-<li>web.whatsapp.com (323)</li>
+<li>web.whatsapp.com (324)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (283)</li>
 <li>www.theguardian.com (258)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:02 mail.google.com</li>
+<ul><li> 07:35 www.google.com</li>
+<li> 07:32 harpercollins.sharepoint.com</li>
+<li> 07:32 collins.co.uk</li>
+<li> 07:32 www.google.com</li>
+<li> 07:31 <a href="https://www.bbc.co.uk/bitesize/topics/zqbg87h/year/z7s22sg">Multiplying and dividing - Year 2 Maths - BBC Bitesize</a></li>
+<li> 07:31 <a href="https://www.bbc.co.uk/bitesize/subjects/zjxhfg8/year/z7s22sg">Year 2 Maths - BBC Bitesize</a></li>
+<li> 07:31 www.google.com</li>
+<li> 07:24 www.facebook.com</li>
+<li> 07:23 www.google.com</li>
+<li class='same'> 07:22 www.google.com</li>
+<li> 07:22 www.britishjudo.org.uk</li>
+<li> 07:22 www.google.com</li>
+<li> 07:20 www.britishjudocouncil.org</li>
+<li> 07:20 www.google.com</li>
+<li> 07:17 mail.google.com</li>
+<li> 07:12 <a href="https://www.bbc.co.uk/teach/class-clips-video/articles/zph4g7h">History KS1: The Great Fire of London - BBC Teach</a></li>
+<li> 07:12 web.whatsapp.com</li>
+<li> 07:12 <a href="https://www.bbc.co.uk/iplayer/episode/b07vd110/horrible-histories-specials-the-grisly-great-fire-of-london">Horrible Histories - Specials: The Grisly Great Fire of London - BBC iPlayer</a></li>
+<li> 07:11 www.google.com</li>
+<li> 07:11 library-search.open.ac.uk</li>
+<li class='same'> 07:10 library-search.open.ac.uk</li>
+<li> 07:10 www5.open.ac.uk</li>
+<li> 07:10 www.google.com</li>
+<li> 07:06 mail.google.com</li>
+<li class='same'> 07:02 mail.google.com</li>
 <li> 06:55 www.facebook.com</li>
 <li> 06:55 mail.google.com</li>
 <li> 06:54 www.google.com</li>
