@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6883)</li>
-<li>mail.google.com (5101)</li>
+<ol><li>www.google.com (6885)</li>
+<li>mail.google.com (5103)</li>
 <li>outlook.office.com (2614)</li>
 <li>www.facebook.com (2085)</li>
 <li>docs.google.com (1604)</li>
 <li>calendar.google.com (1127)</li>
 <li>moodle.royalholloway.ac.uk (1065)</li>
 <li>www.amazon.co.uk (1021)</li>
-<li>github.com (962)</li>
+<li>github.com (963)</li>
 <li>m.facebook.com (831)</li>
 <li>www.reddit.com (819)</li>
+<li>whitewaterwriters.com (566)</li>
 <li>chat.openai.com (561)</li>
 <li>gmail.com (557)</li>
-<li>whitewaterwriters.com (552)</li>
 <li>app.qbo.intuit.com (548)</li>
 <li>tvtropes.org (505)</li>
 <li>en.m.wikipedia.org (471)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (324)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (283)</li>
-<li>www.theguardian.com (258)</li>
+<li>www.theguardian.com (261)</li>
 <li>Local file (257)</li>
 <li>www.giantitp.com (246)</li>
 
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:08 whitewaterwriters.com</li>
+<ul><li> 13:08 whitewaterwriters.com</li>
+<li> 13:05 mail.google.com</li>
+<li> 13:04 whitewaterwriters.com</li>
+<li> 13:04 www.google.com</li>
+<li> 13:03 whitewaterwriters.com</li>
+<li class='same'> 13:02 whitewaterwriters.com</li>
+<li class='same'> 12:51 whitewaterwriters.com</li>
+<li> 12:50 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 12:49 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 12:48 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 12:47 eu-west-2.console.aws.amazon.com</li>
+<li> 12:45 whitewaterwriters.com</li>
+<li> 12:45 health.console.aws.amazon.com</li>
+<li> 12:45 www.google.com</li>
+<li> 12:44 www.theguardian.com</li>
+<li class='same'> 12:43 www.theguardian.com</li>
+<li class='same'> 12:42 www.theguardian.com</li>
+<li> 12:41 eu-west-2.console.aws.amazon.com</li>
+<li> 12:34 whitewaterwriters.com</li>
+<li> 12:24 raw.githubusercontent.com</li>
+<li> 12:24 github.com</li>
+<li> 12:18 whitewaterwriters.com</li>
+<li class='same'> 12:17 whitewaterwriters.com</li>
+<li class='same'> 12:16 whitewaterwriters.com</li>
+<li class='same'> 12:15 whitewaterwriters.com</li>
+<li class='same'> 12:14 whitewaterwriters.com</li>
+<li> 12:14 eu-west-2.console.aws.amazon.com</li>
+<li> 12:13 mail.google.com</li>
+<li> 12:12 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 12:11 eu-west-2.console.aws.amazon.com</li>
+<li> 12:11 signin.aws.amazon.com</li>
+<li> 12:11 eu-west-2.console.aws.amazon.com</li>
+<li> 12:11 whitewaterwriters.com</li>
+<li class='same'> 12:10 whitewaterwriters.com</li>
+<li class='same'> 12:08 whitewaterwriters.com</li>
 </ul>
 
 <br>
