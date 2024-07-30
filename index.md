@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6885)</li>
+<ol><li>www.google.com (6886)</li>
 <li>mail.google.com (5103)</li>
 <li>outlook.office.com (2614)</li>
 <li>www.facebook.com (2085)</li>
@@ -76,10 +76,10 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1127)</li>
 <li>moodle.royalholloway.ac.uk (1065)</li>
 <li>www.amazon.co.uk (1021)</li>
-<li>github.com (963)</li>
+<li>github.com (964)</li>
 <li>m.facebook.com (831)</li>
-<li>www.reddit.com (819)</li>
-<li>whitewaterwriters.com (566)</li>
+<li>www.reddit.com (820)</li>
+<li>whitewaterwriters.com (573)</li>
 <li>chat.openai.com (561)</li>
 <li>gmail.com (557)</li>
 <li>app.qbo.intuit.com (548)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:08 whitewaterwriters.com</li>
+<ul><li> 14:10 whitewaterwriters.com</li>
+<li class='same'> 14:00 whitewaterwriters.com</li>
+<li> 13:45 chatgpt.com</li>
+<li> 13:39 whitewaterwriters.com</li>
+<li> 13:35 eu-west-2.console.aws.amazon.com</li>
+<li> 13:34 whitewaterwriters.com</li>
+<li class='same'> 13:33 whitewaterwriters.com</li>
+<li class='same'> 13:29 whitewaterwriters.com</li>
+<li> 13:25 www.reddit.com</li>
+<li> 13:24 repost.aws</li>
+<li> 13:24 www.google.com</li>
+<li> 13:14 whitewaterwriters.com</li>
+<li> 13:14 github.com</li>
+<li> 13:08 whitewaterwriters.com</li>
 <li> 13:05 mail.google.com</li>
 <li> 13:04 whitewaterwriters.com</li>
 <li> 13:04 www.google.com</li>
