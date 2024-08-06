@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7018)</li>
+<ol><li>www.google.com (7019)</li>
 <li>mail.google.com (5131)</li>
 <li>outlook.office.com (2680)</li>
 <li>www.facebook.com (2161)</li>
@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (471)</li>
+<li>www.linkedin.com (396)</li>
 <li>teams.microsoft.com (396)</li>
-<li>www.linkedin.com (395)</li>
 <li>drive.google.com (368)</li>
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (356)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:06 rhul.sharepoint.com</li>
+<ul><li> 07:23 www.google.com</li>
+<li> 07:06 www.linkedin.com</li>
+<li> 07:06 rhul.sharepoint.com</li>
 <li> 07:06 login.microsoftonline.com</li>
 <li> 07:06 rhul.sharepoint.com</li>
 <li> 07:05 outlook.office.com</li>
