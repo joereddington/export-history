@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7019)</li>
 <li>mail.google.com (5135)</li>
-<li>outlook.office.com (2681)</li>
+<li>outlook.office.com (2683)</li>
 <li>www.facebook.com (2161)</li>
 <li>docs.google.com (1609)</li>
 <li>calendar.google.com (1133)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (867)</li>
 <li>www.reddit.com (852)</li>
 <li>whitewaterwriters.com (594)</li>
-<li>chat.openai.com (565)</li>
+<li>chat.openai.com (566)</li>
 <li>gmail.com (562)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (368)</li>
 <li>outlook.office365.com (365)</li>
-<li>kdp.amazon.com (358)</li>
-<li>forum.artofmemory.com (352)</li>
+<li>kdp.amazon.com (359)</li>
+<li>forum.artofmemory.com (353)</li>
 <li>login.microsoftonline.com (342)</li>
 <li>web.whatsapp.com (337)</li>
 <li>www.theguardian.com (313)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:38 forum.artofmemory.com</li>
+<ul><li> 07:49 apple.stackexchange.com</li>
+<li> 07:49 <a href="https://tex.stackexchange.com/">TeX - LaTeX Stack Exchange</a></li>
+<li> 07:47 chatgpt.com</li>
+<li class='same'> 07:46 chatgpt.com</li>
+<li> 07:46 chat.openai.com</li>
+<li> 07:45 <a href="https://joereddington.com/2023/09/18/problems-with-typesetting-latex-to-pub.html">Problems with typesetting latex to epub | Joe Reddington</a></li>
+<li> 07:44 <a href="https://joereddington.com/2023/12/07/i-m-producing-the-kindle-version-of-advanced-memory-palaces.html">I’m producing the kindle version of Advanced Memory Palaces | Joe Reddington</a></li>
+<li> 07:44 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:44 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:43 kdp.amazon.com</li>
+<li> 07:43 outlook.office.com</li>
+<li class='same'> 07:42 outlook.office.com</li>
+<li> 07:42 forum.artofmemory.com</li>
+<li class='same'> 07:38 forum.artofmemory.com</li>
 <li class='same'> 07:37 forum.artofmemory.com</li>
 <li> 07:37 artofmemory.com</li>
 <li> 07:36 kdp.amazon.com</li>
