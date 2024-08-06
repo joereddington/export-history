@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7027)</li>
+<ol><li>www.google.com (7018)</li>
 <li>mail.google.com (5131)</li>
-<li>outlook.office.com (2677)</li>
+<li>outlook.office.com (2680)</li>
 <li>www.facebook.com (2161)</li>
-<li>docs.google.com (1608)</li>
+<li>docs.google.com (1609)</li>
 <li>calendar.google.com (1133)</li>
 <li>moodle.royalholloway.ac.uk (1067)</li>
 <li>www.amazon.co.uk (1031)</li>
@@ -91,11 +91,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (356)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>login.microsoftonline.com (341)</li>
+<li>login.microsoftonline.com (342)</li>
 <li>web.whatsapp.com (336)</li>
 <li>www.theguardian.com (313)</li>
 <li>bsky.app (311)</li>
-<li>rhul.sharepoint.com (284)</li>
+<li>rhul.sharepoint.com (286)</li>
 <li>Local file (257)</li>
 <li>www.ebay.co.uk (252)</li>
 
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:59 docs.google.com</li>
+<ul><li> 07:06 rhul.sharepoint.com</li>
+<li> 07:06 login.microsoftonline.com</li>
+<li> 07:06 rhul.sharepoint.com</li>
+<li> 07:05 outlook.office.com</li>
+<li> 07:05 x.com</li>
+<li class='same'> 07:04 x.com</li>
+<li> 07:04 outlook.office.com</li>
+<li> 07:02 docs.google.com</li>
+<li> 07:01 online.unity.co.uk</li>
+<li> 06:59 outlook.office.com</li>
+<li> 06:59 docs.google.com</li>
 <li class='same'> 06:58 docs.google.com</li>
 <li> 06:58 drive.google.com</li>
 <li> 06:58 outlook.office.com</li>
@@ -16287,8 +16297,6 @@ With number of accesses/minutes in parentheses
 <li> 21:26 outlook.office.com</li>
 <li class='same'> 21:23 outlook.office.com</li>
 <li> 21:14 www.google.com</li>
-<li> 21:14 maps.google.com</li>
-<li> 21:14 www.google.com</li>
 <li> 21:13 www.researchgate.net</li>
 <li> 21:13 www.google.com</li>
 <li> 21:11 www.reddit.com</li>
@@ -16306,7 +16314,6 @@ With number of accesses/minutes in parentheses
 <li> 20:59 mail.google.com</li>
 <li> 20:57 web.whatsapp.com</li>
 <li> 20:56 mail.google.com</li>
-<li> 20:55 www.google.com</li>
 <li> 20:55 github.com</li>
 <li> 20:55 mail.google.com</li>
 <li> 20:55 gmail.com</li>
@@ -16343,7 +16350,6 @@ With number of accesses/minutes in parentheses
 <li> 20:17 outlook.office.com</li>
 <li> 20:17 moodle.royalholloway.ac.uk</li>
 <li> 20:17 login.microsoftonline.com</li>
-<li> 20:17 eur03.safelinks.protection.outlook.com</li>
 <li> 20:16 outlook.office.com</li>
 <li> 20:15 docs.google.com</li>
 <li> 20:11 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
@@ -16464,10 +16470,8 @@ With number of accesses/minutes in parentheses
 <li> 13:08 www.cseconnect.org</li>
 <li class='same'> 13:07 www.cseconnect.org</li>
 <li class='same'> 13:06 www.cseconnect.org</li>
-<li> 13:06 cseconnect.org</li>
 <li> 13:06 www.cisseuk.org</li>
 <li> 13:06 eur03.safelinks.protection.outlook.com</li>
-<li> 13:06 www.google.com</li>
 <li> 13:06 mail.google.com</li>
 <li class='same'> 13:05 mail.google.com</li>
 <li> 13:05 www.ncsc.gov.uk</li>
@@ -16533,7 +16537,6 @@ With number of accesses/minutes in parentheses
 <li> 11:48 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#August_2013:_Breach">Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:42 www.linkedin.com</li>
 <li> 11:42 www.google.com</li>
-<li> 11:42 www.recode.net</li>
 <li> 11:42 <a href="https://en.wikipedia.org/wiki/Alex_Stamos">Alex Stamos - Wikipedia</a></li>
 <li> 11:42 www.google.com</li>
 <li> 11:41 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=3">Yahoo! data breaches - Wikipedia</a></li>
@@ -16573,9 +16576,7 @@ With number of accesses/minutes in parentheses
 <li> 11:17 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo! data breaches/GA2 - Wikipedia</a></li>
 <li> 11:17 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:16 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#August_2013_breach">Yahoo! data breaches - Wikipedia</a></li>
-<li> 11:15 www.google.com</li>
-<li class='same'> 11:11 www.google.com</li>
-<li class='same'> 11:10 www.google.com</li>
+<li> 11:10 www.google.com</li>
 <li> 11:05 librarysearch.royalholloway.ac.uk</li>
 <li> 11:05 login.openathens.net</li>
 <li> 11:05 adfs.rhul.ac.uk</li>
@@ -16584,14 +16585,12 @@ With number of accesses/minutes in parentheses
 <li> 11:05 www.google.com</li>
 <li> 11:04 rhul-my.sharepoint.com</li>
 <li> 11:04 www.iorad.com</li>
-<li> 11:04 ior.ad</li>
 <li> 11:04 rhul.libanswers.com</li>
 <li> 11:04 www.google.com</li>
 <li> 10:59 github.com</li>
 <li class='same'> 10:58 github.com</li>
 <li> 10:54 superuser.com</li>
 <li> 10:53 <a href="https://stackoverflow.com/questions/23722124/make-a-java-class-generic-but-only-for-two-or-three-types/78407219#78407219">Make a Java class generic, but only for two or three types - Stack Overflow</a></li>
-<li> 10:53 www.google.com</li>
 <li> 10:53 <a href="https://stackoverflow.com/a/78407219?noredirect=1"></a></li>
 <li> 10:53 sg-links.stackoverflow.email</li>
 <li> 10:53 mail.google.com</li>
@@ -16605,7 +16604,6 @@ With number of accesses/minutes in parentheses
 <li> 10:22 0.0.0.0:8000</li>
 <li> 10:22 www.google.com</li>
 <li class='same'> 10:21 www.google.com</li>
-<li> 10:06 eur03.safelinks.protection.outlook.com</li>
 <li> 10:06 app.onlinesurveys.jisc.ac.uk</li>
 <li> 10:05 outlook.office.com</li>
 <li> 09:57 outlook.office365.com</li>
@@ -16621,7 +16619,6 @@ With number of accesses/minutes in parentheses
 <li> 09:19 www.google.com</li>
 <li> 09:17 outlook.office.com</li>
 <li class='same'> 09:16 outlook.office.com</li>
-<li> 09:15 eur03.safelinks.protection.outlook.com</li>
 <li> 09:15 app.onlinesurveys.jisc.ac.uk</li>
 <li> 09:15 outlook.office.com</li>
 <li> 09:13 chat.openai.com</li>
@@ -16630,7 +16627,6 @@ With number of accesses/minutes in parentheses
 <li> 09:13 mail.rhul.ac.uk</li>
 <li> 09:13 chat.openai.com</li>
 <li> 09:13 auth0.openai.com</li>
-<li> 09:13 auth.openai.com</li>
 <li> 09:13 chat.openai.com</li>
 <li> 09:13 forums.linuxmint.com</li>
 <li> 09:12 www.reddit.com</li>
@@ -16642,12 +16638,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:44 docs.google.com</li>
 <li> 07:44 outlook.office.com</li>
 <li> 07:43 jobs.royalholloway.ac.uk</li>
-<li> 07:43 www.google.com</li>
-<li class='same'> 07:42 www.google.com</li>
 <li> 07:41 royalholloway.ac.uk</li>
-<li> 07:41 www.google.com</li>
 <li> 07:41 intranet.royalholloway.ac.uk</li>
-<li> 07:41 www.royalholloway.ac.uk</li>
 <li> 07:41 www.google.com</li>
 <li> 07:38 1919magazine.co.uk</li>
 <li> 07:36 whitewaterwriters.com</li>
@@ -16696,7 +16688,6 @@ With number of accesses/minutes in parentheses
 <li> 06:48 www.google.com</li>
 <li> 06:47 www.royalholloway.ac.uk</li>
 <li> 06:47 links.mail2.spopessentials2.com</li>
-<li> 06:47 eur03.safelinks.protection.outlook.com</li>
 <li> 06:46 outlook.office.com</li>
 <li class='same'> 06:45 outlook.office.com</li>
 <li> 06:45 rhul-my.sharepoint.com</li>
