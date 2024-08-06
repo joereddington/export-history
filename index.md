@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7039)</li>
+<ol><li>www.google.com (7042)</li>
 <li>mail.google.com (5135)</li>
 <li>outlook.office.com (2684)</li>
 <li>www.facebook.com (2161)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1067)</li>
 <li>www.amazon.co.uk (1031)</li>
 <li>github.com (985)</li>
-<li>m.facebook.com (873)</li>
+<li>m.facebook.com (879)</li>
 <li>www.reddit.com (852)</li>
 <li>whitewaterwriters.com (594)</li>
 <li>chat.openai.com (566)</li>
@@ -93,11 +93,11 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (353)</li>
 <li>login.microsoftonline.com (343)</li>
 <li>web.whatsapp.com (337)</li>
-<li>www.theguardian.com (315)</li>
+<li>www.theguardian.com (317)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>Local file (257)</li>
-<li>www.ebay.co.uk (252)</li>
+<li>www.ebay.co.uk (253)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:12 moodle2324.royalholloway.ac.uk</li>
+<ul><li> 16:44 www.theguardian.com</li>
+<li class='same'> 16:43 www.theguardian.com</li>
+<li> 16:28 m.facebook.com</li>
+<li class='same'> 16:27 m.facebook.com</li>
+<li> 16:12 moodle2324.royalholloway.ac.uk</li>
 <li> 16:12 login.microsoftonline.com</li>
 <li> 16:12 eur03.safelinks.protection.outlook.com</li>
 <li> 16:10 outlook.office.com</li>
@@ -118,7 +122,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:02 m.facebook.com</li>
+<ul><li> 14:51 www.ebay.co.uk</li>
+<li> 14:51 www.google.com</li>
+<li class='same'> 14:50 www.google.com</li>
+<li> 14:50 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:04 m.facebook.com</li>
+<li> 14:04 www.medicalnewstoday.com</li>
+<li> 14:04 m.facebook.com</li>
+<li> 14:03 www.medicalnewstoday.com</li>
+<li> 14:03 www.google.com</li>
+<li> 14:03 m.facebook.com</li>
+<li class='same'> 14:02 m.facebook.com</li>
 </ul>
 
 <br>
