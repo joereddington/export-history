@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (359)</li>
 <li>forum.artofmemory.com (353)</li>
-<li>login.microsoftonline.com (342)</li>
+<li>login.microsoftonline.com (343)</li>
 <li>web.whatsapp.com (337)</li>
 <li>www.theguardian.com (315)</li>
 <li>bsky.app (311)</li>
@@ -109,6 +109,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:12 moodle2324.royalholloway.ac.uk</li>
+<li> 16:12 login.microsoftonline.com</li>
 <li> 16:12 eur03.safelinks.protection.outlook.com</li>
 <li> 16:10 outlook.office.com</li>
 <li> 16:10 www.linkedin.com</li>
