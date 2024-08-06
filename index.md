@@ -68,47 +68,1062 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (6895)</li>
-<li>mail.google.com (5103)</li>
-<li>outlook.office.com (2614)</li>
-<li>www.facebook.com (2085)</li>
-<li>docs.google.com (1604)</li>
-<li>calendar.google.com (1127)</li>
-<li>moodle.royalholloway.ac.uk (1065)</li>
-<li>www.amazon.co.uk (1021)</li>
-<li>github.com (971)</li>
-<li>m.facebook.com (831)</li>
-<li>www.reddit.com (820)</li>
-<li>whitewaterwriters.com (573)</li>
-<li>chat.openai.com (561)</li>
-<li>gmail.com (557)</li>
-<li>app.qbo.intuit.com (548)</li>
-<li>tvtropes.org (505)</li>
+<ol><li>www.google.com (7027)</li>
+<li>mail.google.com (5131)</li>
+<li>outlook.office.com (2677)</li>
+<li>www.facebook.com (2161)</li>
+<li>docs.google.com (1608)</li>
+<li>calendar.google.com (1133)</li>
+<li>moodle.royalholloway.ac.uk (1067)</li>
+<li>www.amazon.co.uk (1031)</li>
+<li>github.com (985)</li>
+<li>m.facebook.com (867)</li>
+<li>www.reddit.com (852)</li>
+<li>whitewaterwriters.com (594)</li>
+<li>chat.openai.com (565)</li>
+<li>gmail.com (562)</li>
+<li>app.qbo.intuit.com (549)</li>
+<li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (471)</li>
-<li>teams.microsoft.com (393)</li>
-<li>drive.google.com (367)</li>
-<li>www.linkedin.com (365)</li>
-<li>outlook.office365.com (364)</li>
-<li>kdp.amazon.com (354)</li>
+<li>teams.microsoft.com (396)</li>
+<li>www.linkedin.com (395)</li>
+<li>drive.google.com (368)</li>
+<li>outlook.office365.com (365)</li>
+<li>kdp.amazon.com (356)</li>
 <li>forum.artofmemory.com (350)</li>
-<li>login.microsoftonline.com (334)</li>
-<li>web.whatsapp.com (324)</li>
+<li>login.microsoftonline.com (341)</li>
+<li>web.whatsapp.com (336)</li>
+<li>www.theguardian.com (313)</li>
 <li>bsky.app (311)</li>
-<li>rhul.sharepoint.com (283)</li>
-<li>www.theguardian.com (261)</li>
+<li>rhul.sharepoint.com (284)</li>
 <li>Local file (257)</li>
-<li>www.giantitp.com (246)</li>
+<li>www.ebay.co.uk (252)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Tuesday, 06/08/24</H3>
+
+<br>
+
+<ul><li> 06:59 docs.google.com</li>
+<li class='same'> 06:58 docs.google.com</li>
+<li> 06:58 drive.google.com</li>
+<li> 06:58 outlook.office.com</li>
+<li class='same'> 06:57 outlook.office.com</li>
+<li> 06:57 outlook.office365.com</li>
+<li> 06:57 outlook.office.com</li>
+<li> 06:57 login.microsoftonline.com</li>
+<li> 06:57 mail.rhul.ac.uk</li>
+<li> 06:57 mail.google.com</li>
+<li> 06:55 online.unity.co.uk</li>
+<li> 06:52 mail.google.com</li>
+<li> 06:52 online.unity.co.uk</li>
+<li> 06:51 mail.google.com</li>
+<li class='same'> 06:50 mail.google.com</li>
+<li class='same'> 06:49 mail.google.com</li>
+<li> 06:49 accounts.youtube.com</li>
+<li> 06:49 accounts.google.com</li>
+<li> 06:49 accounts.google.co.uk</li>
+<li> 06:49 accounts.google.com</li>
+<li> 06:49 mail.google.com</li>
+<li> 06:49 gmail.com</li>
+<li> 06:48 qbo.intuit.com</li>
+<li> 06:48 www.amazon.co.uk</li>
+<li> 06:46 financialdocument.platform.intuit.com</li>
+<li> 06:46 qbo.intuit.com</li>
+<li> 06:46 online.unity.co.uk</li>
+<li> 06:46 qbo.intuit.com</li>
+<li class='same'> 06:45 qbo.intuit.com</li>
+<li> 06:45 www.amazon.co.uk</li>
+<li class='same'> 06:43 www.amazon.co.uk</li>
+<li> 06:42 qbo.intuit.com</li>
+<li class='same'> 06:41 qbo.intuit.com</li>
+<li> 06:41 online.unity.co.uk</li>
+<li class='same'> 06:40 online.unity.co.uk</li>
+<li> 06:39 www.unity-online.co.uk</li>
+<li> 06:39 online.unity.co.uk</li>
+<li> 06:39 qbo.intuit.com</li>
+<li> 06:39 accounts.intuit.com</li>
+<li> 06:39 app.qbo.intuit.com</li>
+<li> 06:37 mail.google.com</li>
+<li> 06:37 www.theguardian.com</li>
+<li class='same'> 06:35 www.theguardian.com</li>
+<li class='same'> 06:34 www.theguardian.com</li>
+<li class='same'> 06:33 www.theguardian.com</li>
+<li> 06:33 mail.google.com</li>
+<li class='same'> 06:32 mail.google.com</li>
+<li class='same'> 06:31 mail.google.com</li>
+<li> 06:31 calendar.google.com</li>
+<li> 06:31 mail.google.com</li>
+<li> 06:31 gmail.com</li>
+<li> 06:26 www.facebook.com</li>
+<li class='same'> 06:25 www.facebook.com</li>
+<li> 06:24 www.linkedin.com</li>
+<li class='same'> 06:23 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:33 calendar.google.com</li>
+</ul>
+
+<H3>Monday, 05/08/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:53 login.microsoftonline.com</li>
+<li> 20:53 myview.rhul.zellis.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:33 <a href="https://joereddington.com/Comics/2024-08-04.html">2024-08-04 | Joe’s Comics</a></li>
+<li> 17:33 www.linkedin.com</li>
+<li> 17:33 <a href="https://joereddington.com/2024/07/21/the-difficult-second-book.html">The difficult second book | Joe Reddington</a></li>
+<li> 17:33 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 17:33 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 17:31 calendar.google.com</li>
+<li> 17:30 myview.rhul.zellis.com</li>
+<li> 17:30 login.microsoftonline.com</li>
+<li> 17:30 myview.rhul.zellis.com</li>
+<li> 17:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:28 www.bricklink.com</li>
+<li class='same'> 17:27 www.bricklink.com</li>
+<li class='same'> 17:26 www.bricklink.com</li>
+<li class='same'> 17:19 www.bricklink.com</li>
+<li class='same'> 17:18 www.bricklink.com</li>
+<li class='same'> 17:17 www.bricklink.com</li>
+<li> 17:16 <a href="https://www.youtube.com/watch?v=9E2_drP42pE">(78) I’m Not Handing Them, C.J. Cregg | The West Wing - YouTube</a></li>
+<li> 17:16 <a href="https://www.youtube.com/">(78) YouTube</a></li>
+<li> 17:16 www.bricklink.com</li>
+<li> 17:14 web.whatsapp.com</li>
+<li> 17:13 www.ebay.co.uk</li>
+<li class='same'> 17:12 www.ebay.co.uk</li>
+<li> 17:11 mail.google.com</li>
+<li> 17:11 calendar.google.com</li>
+<li> 17:10 findarace.com</li>
+<li class='same'> 17:09 findarace.com</li>
+<li> 17:09 www.google.com</li>
+<li> 17:08 findarace.com</li>
+<li> 17:07 www.google.com</li>
+<li> 17:07 mail.google.com</li>
+<li> 17:06 tx.contacta.io</li>
+<li> 17:06 mail.google.com</li>
+<li class='same'> 17:05 mail.google.com</li>
+<li class='same'> 17:04 mail.google.com</li>
+<li class='same'> 17:03 mail.google.com</li>
+<li> 17:03 web.whatsapp.com</li>
+<li> 17:03 www.amazon.co.uk</li>
+<li class='same'> 17:02 www.amazon.co.uk</li>
+<li> 17:02 mail.google.com</li>
+<li class='same'> 17:01 mail.google.com</li>
+<li class='same'> 17:00 mail.google.com</li>
+<li> 17:00 gmail.com</li>
+<li> 17:00 www.ebay.co.uk</li>
+<li class='same'> 16:59 www.ebay.co.uk</li>
+<li> 16:59 www.google.com</li>
+<li> 16:58 www.ebay.co.uk</li>
+<li class='same'> 16:57 www.ebay.co.uk</li>
+<li> 16:54 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:53 www.reddit.com</li>
+<li class='same'> 16:52 www.reddit.com</li>
+<li class='same'> 16:50 www.reddit.com</li>
+<li> 16:50 www.theguardian.com</li>
+<li class='same'> 16:49 www.theguardian.com</li>
+<li> 16:48 www.linkedin.com</li>
+<li> 16:47 www.facebook.com</li>
+<li class='same'> 16:46 www.facebook.com</li>
+<li> 16:46 outlook.office.com</li>
+<li class='same'> 16:38 outlook.office.com</li>
+<li> 16:37 www.facebook.com</li>
+<li class='same'> 16:36 www.facebook.com</li>
+<li class='same'> 16:35 www.facebook.com</li>
+<li class='same'> 16:34 www.facebook.com</li>
+<li class='same'> 16:33 www.facebook.com</li>
+<li class='same'> 16:32 www.facebook.com</li>
+<li> 16:31 www.linkedin.com</li>
+<li> 16:31 kdpreports.amazon.com</li>
+<li class='same'> 16:30 kdpreports.amazon.com</li>
+<li> 16:27 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:27 outlook.office.com</li>
+<li> 16:27 www.google.com</li>
+<li> 16:25 outlook.office.com</li>
+<li class='same'> 16:24 outlook.office.com</li>
+<li class='same'> 16:19 outlook.office.com</li>
+<li> 16:16 dashboards.rhul.ac.uk</li>
+<li class='same'> 16:15 dashboards.rhul.ac.uk</li>
+<li> 16:12 www.google.com</li>
+<li> 16:12 www.amazon.co.uk</li>
+<li> 16:12 chatgpt.com</li>
+<li> 16:11 www.amazon.co.uk</li>
+<li> 16:11 chatgpt.com</li>
+<li> 16:11 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:11 outlook.office.com</li>
+<li class='same'> 16:10 outlook.office.com</li>
+<li class='same'> 16:09 outlook.office.com</li>
+<li class='same'> 16:05 outlook.office.com</li>
+<li> 15:58 kdp.amazon.com</li>
+<li> 15:53 outlook.office.com</li>
+<li class='same'> 15:47 outlook.office.com</li>
+<li class='same'> 15:45 outlook.office.com</li>
+<li class='same'> 15:44 outlook.office.com</li>
+<li class='same'> 15:43 outlook.office.com</li>
+<li> 15:42 learnvimscriptthehardway.stevelosh.com</li>
+<li> 15:42 www.google.com</li>
+<li> 15:42 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:41 outlook.office.com</li>
+<li class='same'> 15:38 outlook.office.com</li>
+<li class='same'> 15:37 outlook.office.com</li>
+<li> 15:37 www.linkedin.com</li>
+<li> 15:35 www.google.com</li>
+<li> 15:32 www.linkedin.com</li>
+<li> 15:31 outlook.office.com</li>
+<li> 15:30 www.linkedin.com</li>
+<li> 15:29 outlook.office.com</li>
+<li class='same'> 15:23 outlook.office.com</li>
+<li class='same'> 15:10 outlook.office.com</li>
+<li class='same'> 15:09 outlook.office.com</li>
+<li class='same'> 15:06 outlook.office.com</li>
+<li class='same'> 15:03 outlook.office.com</li>
+<li class='same'> 15:00 outlook.office.com</li>
+<li class='same'> 14:58 outlook.office.com</li>
+<li class='same'> 14:57 outlook.office.com</li>
+<li class='same'> 14:56 outlook.office.com</li>
+<li class='same'> 14:55 outlook.office.com</li>
+<li> 14:55 claude.ai</li>
+<li> 14:54 chatgpt.com</li>
+<li> 14:54 chat.openai.com</li>
+<li> 14:54 claude.ai</li>
+<li> 14:54 outlook.office.com</li>
+<li class='same'> 14:53 outlook.office.com</li>
+<li class='same'> 14:52 outlook.office.com</li>
+<li> 14:52 claude.ai</li>
+<li> 14:52 outlook.office.com</li>
+<li class='same'> 14:51 outlook.office.com</li>
+<li class='same'> 14:49 outlook.office.com</li>
+<li class='same'> 14:48 outlook.office.com</li>
+<li> 14:46 intranet.royalholloway.ac.uk</li>
+<li> 14:46 outlook.office.com</li>
+<li> 14:45 www.linkedin.com</li>
+<li class='same'> 14:44 www.linkedin.com</li>
+<li> 14:44 outlook.office.com</li>
+<li> 14:43 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:43 outlook.office.com</li>
+<li class='same'> 14:42 outlook.office.com</li>
+<li class='same'> 14:40 outlook.office.com</li>
+<li class='same'> 14:39 outlook.office.com</li>
+<li class='same'> 14:38 outlook.office.com</li>
+<li class='same'> 14:37 outlook.office.com</li>
+<li class='same'> 14:36 outlook.office.com</li>
+<li class='same'> 14:35 outlook.office.com</li>
+<li class='same'> 14:31 outlook.office.com</li>
+<li class='same'> 14:30 outlook.office.com</li>
+<li> 14:26 claude.ai</li>
+<li class='same'> 14:24 claude.ai</li>
+<li> 14:20 rhul.sharepoint.com</li>
+<li> 14:20 login.microsoftonline.com</li>
+<li> 14:20 outlook.office.com</li>
+<li class='same'> 14:19 outlook.office.com</li>
+<li class='same'> 14:18 outlook.office.com</li>
+<li> 14:09 www.royalholloway.ac.uk</li>
+<li> 14:09 www.google.com</li>
+<li> 14:08 teams.microsoft.com</li>
+<li> 14:07 <a href="https://www.youtube.com/watch?v=2_MRiaZ3LXQ&list=PLxcO_MFWQBDdmfwbRBU7jRyvnkn94jME2">(78) Finding your way around Moodle 4.4 - YouTube</a></li>
+<li> 14:07 <a href="https://www.youtube.com/@moodle/playlists">(78) Moodle - YouTube</a></li>
+<li> 14:06 <a href="https://www.youtube.com/@moodle">(78) Moodle - YouTube</a></li>
+<li> 14:06 <a href="https://www.youtube.com/results?search_query=moodle+power+user">(78) moodle power user - YouTube</a></li>
+<li> 14:06 <a href="https://www.youtube.com/">(78) YouTube</a></li>
+<li> 14:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:00 outlook.office.com</li>
+<li class='same'> 13:59 outlook.office.com</li>
+<li class='same'> 13:58 outlook.office.com</li>
+<li> 13:58 calendar.google.com</li>
+<li> 13:57 outlook.office.com</li>
+<li class='same'> 13:56 outlook.office.com</li>
+<li> 13:51 teams.microsoft.com</li>
+<li> 13:25 rhul.hosted.panopto.com</li>
+<li> 13:15 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 13:15 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 13:15 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 13:14 <a href="https://www.youtube.com/watch?v=BumNrd6aBEQ">(78) Road Rash (1991) on Sega Mega Drive / Genesis #retrogaming #retroracing - YouTube</a></li>
+<li> 13:14 www.google.com</li>
+<li> 13:12 claude.ai</li>
+<li> 13:11 github.com</li>
+<li> 13:11 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 13:10 moodle2324.royalholloway.ac.uk</li>
+<li> 13:10 login.microsoftonline.com</li>
+<li> 13:10 moodle2324.royalholloway.ac.uk</li>
+<li> 13:10 moodle.royalholloway.ac.uk</li>
+<li> 13:10 login.microsoftonline.com</li>
+<li> 13:10 moodle.royalholloway.ac.uk</li>
+<li> 13:10 claude.ai</li>
+<li> 13:09 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:07 teams.microsoft.com</li>
+<li> 12:53 docs.google.com</li>
+<li> 12:52 web.whatsapp.com</li>
+<li> 12:52 kdp.amazon.com</li>
+<li> 12:48 www.amazon.co.uk</li>
+<li class='same'> 12:47 www.amazon.co.uk</li>
+<li> 12:47 www.google.com</li>
+<li> 12:45 www.ifixit.com</li>
+<li> 12:45 www.google.com</li>
+<li> 12:45 www.amazon.co.uk</li>
+<li> 12:38 www.facebook.com</li>
+<li> 12:38 www.linkedin.com</li>
+<li class='same'> 12:37 www.linkedin.com</li>
+<li> 12:37 www.facebook.com</li>
+<li class='same'> 12:36 www.facebook.com</li>
+<li> 12:35 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:21 x.com</li>
+<li> 12:21 www.google.com</li>
+<li class='same'> 12:20 www.google.com</li>
+<li> 12:16 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li> 11:16 www.google.com</li>
+<li> 11:10 web.whatsapp.com</li>
+<li> 11:10 mail.google.com</li>
+<li class='same'> 11:08 mail.google.com</li>
+<li> 11:08 accounts.google.com</li>
+<li> 11:08 mail.google.com</li>
+<li> 11:08 gmail.com</li>
+<li> 11:07 www.linkedin.com</li>
+<li> 11:07 <a href="https://joereddington.com/Comics/2024-08-04.html">2024-08-04 | Joe’s Comics</a></li>
+<li> 11:04 www.linkedin.com</li>
+<li> 11:04 <a href="https://joereddington.com/Comics/2023-03-15.html">2023-03-15 | Joe’s Comics</a></li>
+<li> 11:03 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 11:03 www.linkedin.com</li>
+<li> 10:59 127.0.0.1:4000</li>
+<li class='same'> 10:32 127.0.0.1:4000</li>
+<li> 10:29 www.linkedin.com</li>
+<li> 10:27 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 10:22 www.facebook.com</li>
+<li> 10:21 <a href="https://www.youtube.com/">(78) YouTube</a></li>
+<li> 10:21 www.facebook.com</li>
+<li class='same'> 10:20 www.facebook.com</li>
+<li class='same'> 10:19 www.facebook.com</li>
+<li class='same'> 10:18 www.facebook.com</li>
+<li class='same'> 10:17 www.facebook.com</li>
+<li class='same'> 10:16 www.facebook.com</li>
+<li class='same'> 10:15 www.facebook.com</li>
+<li class='same'> 10:14 www.facebook.com</li>
+<li class='same'> 10:13 www.facebook.com</li>
+<li class='same'> 10:12 www.facebook.com</li>
+<li class='same'> 10:11 www.facebook.com</li>
+<li class='same'> 10:09 www.facebook.com</li>
+<li class='same'> 10:08 www.facebook.com</li>
+<li class='same'> 10:07 www.facebook.com</li>
+<li class='same'> 10:06 www.facebook.com</li>
+<li class='same'> 10:05 www.facebook.com</li>
+<li class='same'> 10:04 www.facebook.com</li>
+<li class='same'> 10:03 www.facebook.com</li>
+<li class='same'> 10:02 www.facebook.com</li>
+<li class='same'> 10:01 www.facebook.com</li>
+<li class='same'> 10:00 www.facebook.com</li>
+<li class='same'> 09:59 www.facebook.com</li>
+<li class='same'> 09:58 www.facebook.com</li>
+<li class='same'> 09:57 www.facebook.com</li>
+<li class='same'> 09:56 www.facebook.com</li>
+<li> 09:55 www.theguardian.com</li>
+<li class='same'> 09:54 www.theguardian.com</li>
+<li> 09:53 www.facebook.com</li>
+<li> 09:46 www.linkedin.com</li>
+<li> 09:45 <a href="https://xkcd.com/2960/">xkcd: Organ Meanings</a></li>
+<li> 09:45 <a href="https://xkcd.com/2961/">xkcd: CrowdStrike</a></li>
+<li> 09:45 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
+<li> 09:45 <a href="https://xkcd.com/2963/">xkcd: House Inputs and Outputs</a></li>
+<li> 09:44 <a href="https://xkcd.com/2964/">xkcd: Olympic Sports</a></li>
+<li> 09:44 <a href="https://xkcd.com/2965/">xkcd: Chili Tornado Quake</a></li>
+<li> 09:44 <a href="https://xkcd.com/2966/">xkcd: Exam Numbers</a></li>
+<li> 09:43 <a href="https://xkcd.com/">xkcd: Matter</a></li>
+<li> 09:42 www.reddit.com</li>
+<li class='same'> 09:41 www.reddit.com</li>
+<li class='same'> 09:40 www.reddit.com</li>
+<li> 09:35 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 09:34 www.facebook.com</li>
+<li class='same'> 09:33 www.facebook.com</li>
+<li class='same'> 09:32 www.facebook.com</li>
+<li class='same'> 09:31 www.facebook.com</li>
+<li class='same'> 09:30 www.facebook.com</li>
+<li class='same'> 09:29 www.facebook.com</li>
+<li class='same'> 09:28 www.facebook.com</li>
+<li class='same'> 09:27 www.facebook.com</li>
+<li class='same'> 09:26 www.facebook.com</li>
+<li class='same'> 09:25 www.facebook.com</li>
+<li class='same'> 09:24 www.facebook.com</li>
+<li class='same'> 09:23 www.facebook.com</li>
+<li class='same'> 09:22 www.facebook.com</li>
+<li class='same'> 09:21 www.facebook.com</li>
+<li class='same'> 09:20 www.facebook.com</li>
+<li class='same'> 09:19 www.facebook.com</li>
+<li class='same'> 09:18 www.facebook.com</li>
+<li class='same'> 09:17 www.facebook.com</li>
+<li class='same'> 09:16 www.facebook.com</li>
+<li class='same'> 09:14 www.facebook.com</li>
+<li class='same'> 09:13 www.facebook.com</li>
+<li class='same'> 09:12 www.facebook.com</li>
+<li class='same'> 09:11 www.facebook.com</li>
+<li class='same'> 09:10 www.facebook.com</li>
+<li class='same'> 09:09 www.facebook.com</li>
+<li class='same'> 09:08 www.facebook.com</li>
+<li class='same'> 09:06 www.facebook.com</li>
+<li> 09:02 x.com</li>
+<li> 09:01 www.reddit.com</li>
+<li class='same'> 09:00 www.reddit.com</li>
+<li class='same'> 08:59 www.reddit.com</li>
+<li> 08:56 knowyourmeme.com</li>
+<li> 08:54 www.reddit.com</li>
+<li class='same'> 08:53 www.reddit.com</li>
+<li> 08:53 x.com</li>
+<li class='same'> 08:50 x.com</li>
+<li> 08:50 www.linkedin.com</li>
+<li> 08:49 www.giantitp.com</li>
+<li class='same'> 08:47 www.giantitp.com</li>
+<li> 08:47 www.google.com</li>
+<li> 08:46 www.theguardian.com</li>
+<li class='same'> 08:45 www.theguardian.com</li>
+<li> 08:45 outlook.office.com</li>
+<li class='same'> 08:44 outlook.office.com</li>
+<li class='same'> 08:43 outlook.office.com</li>
+<li> 08:43 login.microsoftonline.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:24 127.0.0.1:4000</li>
+<li> 07:16 www.facebook.com</li>
+<li class='same'> 07:12 www.facebook.com</li>
+<li> 07:11 www.linkedin.com</li>
+<li class='same'> 07:10 www.linkedin.com</li>
+</ul>
+
+<H3>Sunday, 04/08/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 22:01 127.0.0.1:4000</li>
+<li class='same'> 22:00 127.0.0.1:4000</li>
+<li class='same'> 21:58 127.0.0.1:4000</li>
+<li class='same'> 21:47 127.0.0.1:4000</li>
+<li> 21:29 chatgpt.com</li>
+<li> 21:29 chat.openai.com</li>
+<li> 21:27 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 21:26 gist.github.com</li>
+<li> 21:26 github.com</li>
+<li> 21:26 gist.github.com</li>
+<li> 21:26 github.com</li>
+<li> 21:26 web.whatsapp.com</li>
+<li> 21:25 <a href="https://joereddington.com/Comics/2023-03-15.html">2023-03-15 | Joe’s Comics</a></li>
+<li> 21:25 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 21:25 chatgpt.com</li>
+<li> 21:25 chat.openai.com</li>
+<li> 21:24 github.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:24 <a href="https://joereddington.com/2024/08/03/southport.html">Southport | Joe Reddington</a></li>
+<li> 20:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 20:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+</ul>
+
+<br>
+
+<ul><li> 13:34 www.natesilver.net</li>
+<li> 13:10 www.theguardian.com</li>
+<li> 13:10 m.facebook.com</li>
+<li> 13:10 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:37 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:54 www.google.com</li>
+<li> 08:54 olympics.com</li>
+<li> 08:54 www.google.com</li>
+<li class='same'> 08:53 www.google.com</li>
+</ul>
+
+<H3>Saturday, 03/08/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:37 web.whatsapp.com</li>
+<li> 21:31 <a href="https://joereddington.com/2019/08/18/comics.html">I wrote 98 comics | Joe Reddington</a></li>
+<li> 21:31 <a href="https://joereddington.com/Comics/2021-05-05.html">2021-05-05 | Joe’s Comics</a></li>
+<li> 21:30 <a href="https://joereddington.com/Comics/2021-05-07.html">2021-05-07 | Joe’s Comics</a></li>
+<li> 21:29 <a href="https://joereddington.com/Comics/2022-05-01.html">2022-05-01 | Joe’s Comics</a></li>
+<li> 21:28 <a href="https://joereddington.com/Comics/2022-08-27.html">2022-08-27 | Joe’s Comics</a></li>
+<li> 21:27 <a href="https://joereddington.com/Comics/2022-09-04.html">2022-09-04 | Joe’s Comics</a></li>
+<li> 21:27 <a href="https://joereddington.com/Comics/2022-09-06.html">2022-09-06 | Joe’s Comics</a></li>
+<li> 21:27 <a href="https://joereddington.com/Comics/2022-09-14.html">2022-09-14 | Joe’s Comics</a></li>
+<li> 21:26 <a href="https://joereddington.com/Comics/2022-10-20.html">2022-10-20 | Joe’s Comics</a></li>
+<li> 21:26 <a href="https://joereddington.com/Comics/2022-10-24.html">2022-10-24 | Joe’s Comics</a></li>
+<li> 21:26 <a href="https://joereddington.com/Comics/2022-10-25.html">2022-10-25 | Joe’s Comics</a></li>
+<li> 21:24 web.whatsapp.com</li>
+<li> 21:23 <a href="https://joereddington.com/Comics/2022-10-27.html">2022-10-27 | Joe’s Comics</a></li>
+<li> 21:22 <a href="https://joereddington.com/Comics/2022-12-13.html">2022-12-13 | Joe’s Comics</a></li>
+<li> 21:22 <a href="https://joereddington.com/Comics/2022-12-15.html">2022-12-15 | Joe’s Comics</a></li>
+<li> 21:22 <a href="https://joereddington.com/Comics/2023-03-10.html">2023-03-10 | Joe’s Comics</a></li>
+<li class='same'> 21:20 <a href="https://joereddington.com/Comics/2023-03-10.html">2023-03-10 | Joe’s Comics</a></li>
+<li> 21:19 <a href="https://joereddington.com/Comics/2023-03-15.html">2023-03-15 | Joe’s Comics</a></li>
+<li> 21:19 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 21:19 github.com</li>
+<li> 21:16 chatgpt.com</li>
+<li> 21:16 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:14 www.google.com</li>
+<li class='same'> 19:13 www.google.com</li>
+<li> 19:04 gamehacking.org</li>
+<li> 19:04 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:36 m.facebook.com</li>
+<li class='same'> 17:35 m.facebook.com</li>
+<li class='same'> 17:34 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:34 m.facebook.com</li>
+<li class='same'> 12:33 m.facebook.com</li>
+<li class='same'> 12:32 m.facebook.com</li>
+<li> 12:32 www.reddit.com</li>
+<li> 12:32 www.google.com</li>
+<li class='same'> 12:31 www.google.com</li>
+<li> 12:31 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:40 strategywiki.org</li>
+<li> 11:39 www.google.com</li>
+<li> 11:39 wonderboy.fandom.com</li>
+<li> 11:39 www.google.com</li>
+<li> 11:38 strategywiki.org</li>
+<li> 11:38 www.google.com</li>
+<li> 11:36 www.reddit.com</li>
+<li> 11:36 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:04 stoneagegamer.com</li>
+<li> 11:03 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:07 m.facebook.com</li>
+<li class='same'> 10:06 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:52 rebrickable.com</li>
+<li class='same'> 06:50 rebrickable.com</li>
+<li> 06:50 www.google.com</li>
+<li> 06:49 <a href="https://www.youtube.com/watch?v=oifV7-zYLhg">(77) Grade 4 Science: Explaining the Gear System on a Bicycle - YouTube</a></li>
+<li> 06:49 <a href="https://www.youtube.com/results?search_query=gear+demonstration+for+kids">(77) gear demonstration for kids - YouTube</a></li>
+<li> 06:49 <a href="https://www.youtube.com/">(78) YouTube</a></li>
+<li> 06:49 www.google.com</li>
+<li> 06:48 <a href="https://www.youtube.com/watch?v=yBEO8CPU9FE">(77) Simple LEGO 3 Speed Gearbox Build Tutorial - YouTube</a></li>
+<li> 06:48 www.google.com</li>
+<li class='same'> 06:47 www.google.com</li>
+<li> 06:46 www.bricklink.com</li>
+<li> 06:46 www.google.com</li>
+<li> 06:44 www.facebook.com</li>
+<li> 06:38 x.com</li>
+<li class='same'> 06:36 x.com</li>
+<li class='same'> 06:34 x.com</li>
+<li> 06:31 www.linkedin.com</li>
+<li class='same'> 06:30 www.linkedin.com</li>
+<li class='same'> 06:29 www.linkedin.com</li>
+<li> 06:29 www.facebook.com</li>
+<li class='same'> 06:28 www.facebook.com</li>
+<li class='same'> 06:27 www.facebook.com</li>
+<li class='same'> 06:19 www.facebook.com</li>
+<li class='same'> 06:18 www.facebook.com</li>
+<li> 06:17 www.theguardian.com</li>
+</ul>
+
+<H3>Friday, 02/08/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:55 slate.com</li>
+<li> 21:54 www.landlordtoday.co.uk</li>
+<li> 21:54 www.google.com</li>
+<li> 21:52 www.centreforpublicdata.org</li>
+<li> 21:52 www.google.com</li>
+<li> 21:45 www.zoopla.co.uk</li>
+<li class='same'> 21:44 www.zoopla.co.uk</li>
+<li class='same'> 21:43 www.zoopla.co.uk</li>
+<li class='same'> 21:42 www.zoopla.co.uk</li>
+<li> 21:42 www.ncbi.nlm.nih.gov</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:35 www.ncbi.nlm.nih.gov</li>
+<li> 19:27 www.theguardian.com</li>
+<li class='same'> 19:25 www.theguardian.com</li>
+<li> 19:25 www.zoopla.co.uk</li>
+<li> 19:25 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:47 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:35 www.zoopla.co.uk</li>
+<li> 14:26 www.theguardian.com</li>
+<li class='same'> 14:25 www.theguardian.com</li>
+<li class='same'> 14:24 www.theguardian.com</li>
+<li class='same'> 14:23 www.theguardian.com</li>
+<li> 14:19 m.facebook.com</li>
+<li class='same'> 13:54 m.facebook.com</li>
+<li class='same'> 13:53 m.facebook.com</li>
+<li class='same'> 13:48 m.facebook.com</li>
+<li class='same'> 13:47 m.facebook.com</li>
+<li> 13:47 www.explainxkcd.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:00 www.explainxkcd.com</li>
+<li> 08:00 www.google.com</li>
+<li> 07:54 <a href="https://xkcd.com/169/">xkcd: Words that End in GRY</a></li>
+<li> 07:54 www.google.com</li>
+<li> 07:43 www.theguardian.com</li>
+<li class='same'> 07:37 www.theguardian.com</li>
+<li class='same'> 07:36 www.theguardian.com</li>
+<li class='same'> 07:34 www.theguardian.com</li>
+<li class='same'> 07:14 www.theguardian.com</li>
+<li> 07:11 m.facebook.com</li>
+<li class='same'> 07:10 m.facebook.com</li>
+<li class='same'> 07:09 m.facebook.com</li>
+<li class='same'> 07:07 m.facebook.com</li>
+<li class='same'> 06:55 m.facebook.com</li>
+<li class='same'> 06:54 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 05:45 www.ncbi.nlm.nih.gov</li>
+<li> 05:45 www.google.com</li>
+<li> 05:42 www.quora.com</li>
+<li> 05:42 www.google.com</li>
+<li> 05:41 plato.stanford.edu</li>
+<li> 05:41 www.google.com</li>
+<li class='same'> 05:39 www.google.com</li>
+<li class='same'> 05:33 www.google.com</li>
+</ul>
+
+<H3>Thursday, 01/08/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 22:05 www.reddit.com</li>
+<li> 22:05 www.google.com</li>
+<li> 21:56 m.facebook.com</li>
+<li class='same'> 21:54 m.facebook.com</li>
+<li> 21:54 www.natesilver.net</li>
+<li class='same'> 21:53 www.natesilver.net</li>
+<li class='same'> 21:52 www.natesilver.net</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:50 www.natesilver.net</li>
+<li> 20:48 oceanicconsultingblog.wordpress.com</li>
+<li> 20:47 www.google.com</li>
+<li> 20:47 www.leightonbuzzardonline.co.uk</li>
+<li> 20:46 m.facebook.com</li>
+<li class='same'> 20:44 m.facebook.com</li>
+<li class='same'> 20:42 m.facebook.com</li>
+<li class='same'> 20:41 m.facebook.com</li>
+<li class='same'> 20:37 m.facebook.com</li>
+<li> 20:28 www.theguardian.com</li>
+<li> 20:27 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:25 www.google.com</li>
+<li class='same'> 18:23 www.google.com</li>
+<li> 18:23 www.ucg.org</li>
+<li> 18:23 www.google.com</li>
+<li> 18:22 www.reddit.com</li>
+<li> 18:22 www.google.com</li>
+<li> 18:21 www.reddit.com</li>
+<li> 18:21 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:24 www.google.com</li>
+<li> 17:24 www.theguardian.com</li>
+<li class='same'> 16:59 www.theguardian.com</li>
+<li class='same'> 16:58 www.theguardian.com</li>
+<li class='same'> 16:57 www.theguardian.com</li>
+<li class='same'> 16:56 www.theguardian.com</li>
+<li class='same'> 16:51 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:25 <a href="https://www.bbc.co.uk/news/articles/c4ng1254ndeo">Southport protests: More than 100 arrests as disorder spreads - BBC News</a></li>
+<li> 12:25 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 12:22 www.theguardian.com</li>
+<li> 12:20 www.google.com</li>
+<li> 12:20 www.reddit.com</li>
+<li> 12:20 www.google.com</li>
+<li class='same'> 12:19 www.google.com</li>
+<li class='same'> 12:04 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:15 www.google.com</li>
+<li> 06:15 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:14 <a href="https://www.bbc.co.uk/news/articles/cj50ljn44j8o">Southport: 17-year-old charged with murder over attack - BBC News</a></li>
+<li> 06:13 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 06:13 www.theguardian.com</li>
+</ul>
+
+<H3>Wednesday, 31/07/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 22:10 www.theguardian.com</li>
+<li> 22:09 <a href="https://www.bbc.co.uk/news/live/c3gr5ljyz41t">Yoga teacher injured while 'shielding girls' in Southport attack recovering, family tells BBC - BBC News</a></li>
+<li> 22:09 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 22:09 <a href="https://www.bbc.co.uk/news/live/c3gr5ljyz41t">Yoga teacher injured while 'shielding girls' in Southport attack recovering, family tells BBC - BBC News</a></li>
+<li> 22:09 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 21:39 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li class='same'> 21:38 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 21:36 <a href="https://www.bbc.co.uk/news/live/c3gr5ljyz41t">Yoga teacher injured while 'shielding girls' in Southport attack recovering, family tells BBC - BBC News</a></li>
+<li> 21:22 <a href="https://www.bbc.co.uk/news/england">England | Latest News & Updates | BBC News</a></li>
+<li> 21:22 <a href="https://www.bbc.co.uk/news/uk">UK | Latest News & Updates | BBC News</a></li>
+<li> 21:22 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 21:22 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:53 www.google.com</li>
+<li> 19:52 khinskitchen.com</li>
+<li> 19:52 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:54 <a href="https://www.bbc.co.uk/news/live/c3gr5ljyz41t">Yoga teacher injured while 'shielding girls' in Southport attack recovering, family tells BBC - BBC News</a></li>
+<li> 18:54 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:53 <a href="https://www.bbc.co.uk/news/articles/cv2g6eegyddo">Man who intervened in Southport attack 'saddened he couldn't to more' - BBC News</a></li>
+<li> 18:53 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 18:44 www.theguardian.com</li>
+<li> 18:43 newsthump.com</li>
+<li> 18:43 www.google.com</li>
+<li> 18:39 www.theguardian.com</li>
+<li class='same'> 18:37 www.theguardian.com</li>
+<li> 18:37 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:23 caselaw.findlaw.com</li>
+<li> 16:21 www.reddit.com</li>
+<li> 16:21 www.google.com</li>
+<li> 16:20 www.monderlaw.com</li>
+<li> 16:20 www.reddit.com</li>
+<li> 16:20 www.google.com</li>
+<li class='same'> 16:19 www.google.com</li>
+<li> 16:19 www.legislation.gov.uk</li>
+<li class='same'> 16:18 www.legislation.gov.uk</li>
+<li> 16:17 www.nintendolife.com</li>
+<li> 16:17 retropie.org.uk</li>
+<li class='same'> 16:16 retropie.org.uk</li>
+<li class='same'> 16:15 retropie.org.uk</li>
+<li> 16:15 www.google.com</li>
+<li class='same'> 16:14 www.google.com</li>
+<li class='same'> 16:12 www.google.com</li>
+<li class='same'> 16:11 www.google.com</li>
+<li> 16:10 www.airbnb.co.uk</li>
+<li> 16:07 www.google.com</li>
+<li> 15:58 www.ign.com</li>
+<li class='same'> 15:57 www.ign.com</li>
+<li> 15:57 www.google.com</li>
+<li class='same'> 15:54 www.google.com</li>
+<li> 15:51 www.stuartmillersolicitors.co.uk</li>
+<li> 15:51 www.google.com</li>
+<li class='same'> 15:50 www.google.com</li>
+<li> 15:46 www.linkedin.com</li>
+<li> 15:33 discussions.apple.com</li>
+<li> 15:33 www.google.com</li>
+<li class='same'> 15:31 www.google.com</li>
+<li> 15:29 www.linkedin.com</li>
+<li class='same'> 15:28 www.linkedin.com</li>
+<li> 15:24 citizens-initiative.europa.eu</li>
+<li> 15:24 www.google.com</li>
+<li class='same'> 15:20 www.google.com</li>
+<li class='same'> 15:00 www.google.com</li>
+<li> 15:00 www.theguardian.com</li>
+<li class='same'> 14:45 www.theguardian.com</li>
+<li class='same'> 14:32 www.theguardian.com</li>
+<li class='same'> 14:31 www.theguardian.com</li>
+<li class='same'> 14:30 www.theguardian.com</li>
+<li class='same'> 14:28 www.theguardian.com</li>
+<li class='same'> 14:26 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:07 www.theguardian.com</li>
+<li class='same'> 12:57 www.theguardian.com</li>
+<li class='same'> 12:32 www.theguardian.com</li>
+<li> 12:32 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:52 accounts.google.com</li>
+<li class='same'> 09:50 accounts.google.com</li>
+<li> 09:50 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:00 m.youtube.com</li>
+<li> 09:00 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:08 www.theguardian.com</li>
+<li class='same'> 07:53 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:09 support.google.com</li>
+<li> 07:09 www.google.com</li>
+<li> 07:09 newsthump.com</li>
+</ul>
+
+<br>
+
+<ul><li> 05:35 accounts.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 00:18 accounts.google.com</li>
+<li class='same'> 00:17 accounts.google.com</li>
+</ul>
+
 <H3>Tuesday, 30/07/24</H3>
 
 <br>
 
-<ul><li> 15:06 accounts.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:08 newsthump.com</li>
+<li class='same'> 21:07 newsthump.com</li>
+<li> 21:06 reductress.com</li>
+<li> 21:05 <a href="https://www.bbc.co.uk/news/live/cevwgqz0x41t">Southport stabbing latest: Hundreds attend vigil in Southport after three girls killed in stabbing named by police - BBC News</a></li>
+<li class='same'> 21:04 <a href="https://www.bbc.co.uk/news/live/cevwgqz0x41t">Southport stabbing latest: Hundreds attend vigil in Southport after three girls killed in stabbing named by police - BBC News</a></li>
+<li> 21:04 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 20:46 www.instagram.com</li>
+<li class='same'> 20:45 www.instagram.com</li>
+<li> 20:45 www.google.com</li>
+<li> 20:44 www.openpowerlifting.org</li>
+<li> 20:44 www.google.com</li>
+<li> 20:44 www.facebook.com</li>
+<li> 20:44 www.google.com</li>
+<li class='same'> 20:43 www.google.com</li>
+<li> 20:42 m.youtube.com</li>
+<li> 20:41 www.google.com</li>
+<li> 20:41 reductress.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 19:51 www.giantitp.com</li>
+<li class='same'> 19:50 www.giantitp.com</li>
+<li> 19:50 www.reddit.com</li>
+<li class='same'> 19:49 www.reddit.com</li>
+<li class='same'> 19:48 www.reddit.com</li>
+<li class='same'> 19:47 www.reddit.com</li>
+<li> 19:46 calendar.google.com</li>
+<li> 19:46 www.reddit.com</li>
+<li> 19:45 www.linkedin.com</li>
+<li> 19:45 web.whatsapp.com</li>
+<li> 19:41 imgflip.com</li>
+<li> 19:41 www.google.com</li>
+<li> 19:40 www.canopyandstars.co.uk</li>
+<li> 19:38 accounts.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:24 www.linkedin.com</li>
+<li> 17:24 x.com</li>
+<li> 17:22 www.reddit.com</li>
+<li> 17:22 mail.google.com</li>
+<li> 17:22 web.whatsapp.com</li>
+<li> 17:20 <a href="https://www.youtube.com/watch?v=CLubv74rbJk">(73) C.J. Gets a Threatening Email | The West Wing - YouTube</a></li>
+<li> 17:15 <a href="https://www.youtube.com/watch?v=nQpElL4pB8A">(73) I May Have Overstated a Little | The West Wing - YouTube</a></li>
+<li> 17:15 <a href="https://www.youtube.com/">(78) YouTube</a></li>
+<li> 17:13 <a href="https://www.youtube.com/watch?v=__A_eWSmCjk">(73) Every Marvel Announcement In Under 15 Minutes (SDCC 2024 Hall H) - YouTube</a></li>
+<li> 17:13 <a href="https://www.youtube.com/">(78) YouTube</a></li>
+<li> 17:12 web.whatsapp.com</li>
+<li> 17:12 whitewaterwriters.com</li>
+<li> 17:12 <a href="https://www.youtube.com/">(78) YouTube</a></li>
+<li> 17:11 whitewaterwriters.com</li>
+<li class='same'> 17:10 whitewaterwriters.com</li>
+<li class='same'> 17:09 whitewaterwriters.com</li>
+<li> 17:08 www.reddit.com</li>
+<li> 17:07 www.google.com</li>
+<li> 17:07 whitewaterwriters.com</li>
+<li class='same'> 17:05 whitewaterwriters.com</li>
+<li> 17:04 www.google.com</li>
+<li> 17:04 etherpad.org</li>
+<li class='same'> 17:03 etherpad.org</li>
+<li> 17:03 github.com</li>
+<li> 17:02 <a href="https://stackoverflow.com/questions/12001045/how-can-i-list-all-pads-in-etherpad-lite">indexing - How can I list all pads in etherpad-lite - Stack Overflow</a></li>
+<li> 17:01 github.com</li>
+<li> 17:01 www.google.com</li>
+<li> 17:01 etherpad.org</li>
+<li class='same'> 16:58 etherpad.org</li>
+<li> 16:58 www.google.com</li>
+<li> 16:55 whitewaterwriters.com</li>
+<li class='same'> 16:54 whitewaterwriters.com</li>
+<li> 16:53 github.com</li>
+<li> 16:53 www.google.com</li>
+<li> 16:50 github.com</li>
+<li> 16:49 www.google.com</li>
+<li> 16:46 whitewaterwriters.com</li>
+<li> 16:46 www.google.com</li>
+<li> 16:45 etherpad.org</li>
+<li> 16:45 www.google.com</li>
+<li> 16:45 whitewaterwriters.com</li>
+<li> 16:43 www.linkedin.com</li>
+<li> 16:43 web.whatsapp.com</li>
+<li> 16:43 www.linkedin.com</li>
+<li> 16:43 mail.google.com</li>
+<li> 16:41 whitewaterwriters.com</li>
+<li> 16:39 mail.google.com</li>
+<li class='same'> 16:38 mail.google.com</li>
+<li> 16:38 gmail.com</li>
+<li> 16:37 whitewaterwriters.com</li>
+<li class='same'> 16:36 whitewaterwriters.com</li>
+<li class='same'> 16:35 whitewaterwriters.com</li>
+<li class='same'> 16:30 whitewaterwriters.com</li>
+<li> 16:29 docs.google.com</li>
+<li> 16:29 mail.google.com</li>
+<li> 16:29 whitewaterwriters.com</li>
+<li class='same'> 16:28 whitewaterwriters.com</li>
+<li class='same'> 16:26 whitewaterwriters.com</li>
+<li> 16:24 github.com</li>
+<li> 16:24 whitewaterwriters.com</li>
+<li> 16:24 www.google.com</li>
+<li> 16:24 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 16:23 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 16:22 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 16:21 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 16:20 eu-west-2.console.aws.amazon.com</li>
+<li> 16:20 chatgpt.com</li>
+<li> 16:20 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 16:19 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 16:18 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 16:17 eu-west-2.console.aws.amazon.com</li>
+<li> 16:16 tvtropes.org</li>
+<li class='same'> 16:15 tvtropes.org</li>
+<li class='same'> 16:14 tvtropes.org</li>
+<li class='same'> 16:13 tvtropes.org</li>
+<li> 16:13 www.google.com</li>
+<li> 16:13 eu-west-2.console.aws.amazon.com</li>
+<li> 16:13 docs.aws.amazon.com</li>
+<li> 16:13 www.google.com</li>
+<li> 16:11 tvtropes.org</li>
+<li class='same'> 16:09 tvtropes.org</li>
+<li> 15:57 www.google.com</li>
+<li> 15:51 tvtropes.org</li>
+<li class='same'> 15:44 tvtropes.org</li>
+<li> 15:44 www.google.com</li>
+<li> 15:41 eu-west-2.console.aws.amazon.com</li>
+<li> 15:40 www.google.com</li>
+<li> 15:38 github.com</li>
+<li> 15:38 www.google.com</li>
+<li> 15:37 whitewaterwriters.com</li>
+<li> 15:36 www.google.com</li>
+<li> 15:33 serverfault.com</li>
+<li> 15:32 www.google.com</li>
+<li> 15:30 <a href="https://stackoverflow.com/questions/27526281/websockets-and-apache-proxy-how-to-configure-mod-proxy-wstunnel">node.js - WebSockets and Apache proxy: how to configure mod_proxy_wstunnel? - Stack Overflow</a></li>
+<li> 15:30 github.com</li>
+<li> 15:29 www.google.com</li>
+<li> 15:29 socket.io</li>
+<li> 15:29 www.google.com</li>
+<li> 15:28 <a href="https://stackoverflow.com/questions/23775215/can-not-established-websocket-secure-connection-on-firefox">javascript - Can not established Websocket secure connection on Firefox - Stack Overflow</a></li>
+<li> 15:28 www.google.com</li>
+<li> 15:27 <a href="https://stackoverflow.com/questions/75246354/cannot-connect-to-websocket-server-app-inside-docker-compose">c# - Cannot connect to websocket server app inside docker-compose - Stack Overflow</a></li>
+<li> 15:27 www.google.com</li>
+<li> 15:26 whitewaterwriters.com</li>
+<li> 15:25 d3rnber7ry90et.cloudfront.net</li>
+<li> 15:21 repost.aws</li>
+<li> 15:21 www.google.com</li>
+<li> 15:15 www.theguardian.com</li>
+<li> 15:06 accounts.google.com</li>
 <li> 15:04 github.com</li>
 <li class='same'> 15:03 github.com</li>
 <li> 15:03 www.google.com</li>
@@ -188,7 +1203,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:05 accounts.google.com</li>
+<ul><li> 11:23 reductress.com</li>
+<li> 11:23 shop.reductress.com</li>
+<li> 11:23 reductress.com</li>
+<li> 11:21 www.google.com</li>
+<li> 11:20 www.reddit.com</li>
+<li> 11:20 www.google.com</li>
+<li> 11:19 www.reddit.com</li>
+<li> 11:19 www.google.com</li>
+<li class='same'> 11:08 www.google.com</li>
+<li class='same'> 11:07 www.google.com</li>
+<li> 11:05 accounts.google.com</li>
 </ul>
 
 <br>
@@ -200,6 +1225,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:23 www.google.com</li>
 <li> 09:22 www.linkedin.com</li>
 <li class='same'> 09:21 www.linkedin.com</li>
+<li> 09:19 www.google.com</li>
+<li class='same'> 09:18 www.google.com</li>
 </ul>
 
 <br>
@@ -297,6 +1324,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:21 www.google.com</li>
+<li class='same'> 21:20 www.google.com</li>
+<li> 21:20 www.theguardian.com</li>
+<li class='same'> 21:19 www.theguardian.com</li>
+<li> 21:19 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:57 www.reddit.com</li>
+<li> 15:57 www.google.com</li>
+<li> 15:56 www.reddit.com</li>
+<li> 15:56 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:11 www.linkedin.com</li>
 <li> 13:11 mail.google.com</li>
 <li class='same'> 13:10 mail.google.com</li>
@@ -353,11 +1397,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:15 www.linkedin.com</li>
 <li> 11:15 mail.google.com</li>
 <li class='same'> 11:12 mail.google.com</li>
+<li> 11:11 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 09:29 mail.google.com</li>
+<ul><li> 09:29 mail.google.com</li>
 <li> 09:27 chatgpt.com</li>
 <li class='same'> 09:25 chatgpt.com</li>
 <li> 09:25 chat.openai.com</li>
@@ -472,7 +1517,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:25 www.facebook.com</li>
+<ul><li> 18:38 olympics.com</li>
+<li> 18:38 www.google.com</li>
+<li> 18:25 www.facebook.com</li>
 <li class='same'> 18:24 www.facebook.com</li>
 <li> 18:23 www.google.com</li>
 <li> 18:23 www.reddit.com</li>
@@ -541,7 +1588,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:19 www.theguardian.com</li>
 <li> 15:11 <a href="https://www.youtube.com/watch?v=7SSxsf7MSGw">(17) $650 Vs $11,000 Mountain Bikes! - YouTube</a></li>
-<li> 15:10 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:10 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:10 www.theguardian.com</li>
 <li class='same'> 15:09 www.theguardian.com</li>
 <li> 15:05 www.facebook.com</li>
@@ -550,6 +1597,23 @@ With number of accesses/minutes in parentheses
 <li> 15:02 x.com</li>
 <li class='same'> 15:01 x.com</li>
 <li> 15:01 twitter.com</li>
+<li> 15:00 www.natesilver.net</li>
+<li class='same'> 14:57 www.natesilver.net</li>
+<li> 14:56 m.facebook.com</li>
+<li> 14:54 www.google.com</li>
+<li> 14:54 m.facebook.com</li>
+<li class='same'> 14:51 m.facebook.com</li>
+<li> 14:51 www.google.com</li>
+<li> 14:51 m.facebook.com</li>
+<li> 14:50 www.google.com</li>
+<li> 14:49 m.facebook.com</li>
+<li> 14:47 www.snopes.com</li>
+<li> 14:47 www.google.com</li>
+<li> 14:45 m.facebook.com</li>
+<li class='same'> 14:44 m.facebook.com</li>
+<li> 14:44 www.google.com</li>
+<li> 14:43 m.facebook.com</li>
+<li> 14:43 www.google.com</li>
 </ul>
 
 <br>
@@ -684,7 +1748,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:24 amp.theguardian.com</li>
+<ul><li> 22:29 nymag.com</li>
+<li> 22:29 subs.nymag.com</li>
+<li> 22:29 nymag.com</li>
+<li class='same'> 22:28 nymag.com</li>
+<li> 22:24 amp.theguardian.com</li>
 <li> 22:24 www.google.com</li>
 <li> 22:07 www.theguardian.com</li>
 <li> 22:06 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
@@ -1671,7 +2739,7 @@ With number of accesses/minutes in parentheses
 <li> 12:46 <a href="https://xkcd.com/2958/">xkcd: Hatchery</a></li>
 <li> 12:46 <a href="https://xkcd.com/2959/">xkcd: Beam of Light</a></li>
 <li> 12:46 <a href="https://xkcd.com/2960/">xkcd: Organ Meanings</a></li>
-<li> 12:46 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 12:46 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 12:45 www.giantitp.com</li>
 <li> 12:45 www.google.com</li>
 <li> 12:44 mail.google.com</li>
@@ -1969,7 +3037,7 @@ With number of accesses/minutes in parentheses
 <li> 09:29 www.google.com</li>
 <li> 09:14 <a href="https://www.youtube.com/watch?v=zR14fQozcLc">(3) Using The Shower On A Very Long Train Journey 🚂 | Peppa Pig Full Episodes - YouTube</a></li>
 <li> 09:10 <a href="https://www.youtube.com/watch?v=lourm1Od_9U">(3) Peppa Pig Full Episodes - LIVE 🚨 BRAND NEW PEPPA PIG EPISODES ⭐️ - YouTube</a></li>
-<li> 09:09 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 09:09 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 </ul>
 
 <br>
@@ -1983,7 +3051,7 @@ With number of accesses/minutes in parentheses
 <li> 07:52 <a href="https://www.youtube.com/watch?v=nBc9DZjzTdo">(65) Gimp Lesson 5 | Using Clone and Heal - YouTube</a></li>
 <li> 07:51 <a href="https://www.youtube.com/watch?v=axFwQfiGmaU">(65) How to Use GIMP Clone Tool - YouTube</a></li>
 <li> 07:51 <a href="https://www.youtube.com/results?search_query=demo+clone+tool">(65) demo clone tool - YouTube</a></li>
-<li> 07:51 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 07:51 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 07:48 www.buzzfeed.com</li>
 <li class='same'> 07:47 www.buzzfeed.com</li>
 <li> 07:47 web.whatsapp.com</li>
@@ -2956,7 +4024,7 @@ With number of accesses/minutes in parentheses
 <li> 16:00 gmail.com</li>
 <li> 15:59 <a href="https://www.youtube.com/watch?v=hOnnW1whWDs">(59) Chef | "He's Ready To Cook" Clip | Open Road Films - YouTube</a></li>
 <li> 15:58 <a href="https://www.youtube.com/shorts/5cyqEs6cOqE">(59) The Big Bang Theory | Sheldon: I Met My Wife Here, And We Sat At This.. #shorts #thebigbangtheory - YouTube</a></li>
-<li> 15:58 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:58 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:57 <a href="https://www.youtube.com/@AlvinKZhou">(59) Alvin Zhou - YouTube</a></li>
 <li> 15:57 <a href="https://www.youtube.com/@newhomequalitycontrol">(59) New Home Quality Control - YouTube</a></li>
 <li> 15:57 <a href="https://www.youtube.com/@whatnooowaaay">(59) The No Way Guy - YouTube</a></li>
@@ -2978,7 +4046,7 @@ With number of accesses/minutes in parentheses
 <li> 15:54 <a href="https://www.youtube.com/feed/playlists">(59) YouTube</a></li>
 <li> 15:54 <a href="https://www.youtube.com/@JoeReddington">(59) Joe Reddington - YouTube</a></li>
 <li> 15:54 <a href="http://www.youtube.com/@JoeReddington"></a></li>
-<li> 15:54 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:54 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:44 www.whatdotheyknow.com</li>
 <li class='same'> 15:42 www.whatdotheyknow.com</li>
 <li class='same'> 15:41 www.whatdotheyknow.com</li>
@@ -3339,7 +4407,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:46 www.facebook.com</li>
 <li> 14:46 <a href="https://www.youtube.com/@barkingdagenhamcollege">(57) Barking & Dagenham College - YouTube</a></li>
 <li> 14:46 <a href="https://www.youtube.com/results?search_query=barking+and+dagenham+college+">(57) barking and dagenham college - YouTube</a></li>
-<li> 14:46 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 14:46 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 14:46 www.google.com</li>
 <li> 14:45 login.microsoftonline.com</li>
 <li> 14:45 mail.google.com</li>
@@ -4729,7 +5797,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:21 www.paypal.com</li>
 <li> 13:19 web.whatsapp.com</li>
 <li> 13:18 <a href="https://www.youtube.com/results?search_query=how+to+properly+clean+a+bbq+grill">(51) how to properly clean a bbq grill - YouTube</a></li>
-<li> 13:18 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 13:18 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 13:15 www.activeluton.co.uk</li>
 <li> 13:15 www.google.com</li>
 <li> 13:15 www.amazon.co.uk</li>
@@ -4741,10 +5809,10 @@ With number of accesses/minutes in parentheses
 <li> 13:10 www.google.com</li>
 <li> 13:07 <a href="https://www.youtube.com/watch?v=k0div_OhCs4">(51) FORD FIESTA REAR BRAKE LIGHT BULB CHANGE - YouTube</a></li>
 <li> 13:07 <a href="https://www.youtube.com/results?search_query=replace+fiesta+brake+light+bulb+">(51) replace fiesta brake light bulb - YouTube</a></li>
-<li> 13:06 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 13:06 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 13:06 <a href="https://www.youtube.com/results?search_query=claude">(51) claude - YouTube</a></li>
 <li> 13:05 <a href="https://www.youtube.com/results?search_query=openai">(51) openai - YouTube</a></li>
-<li> 13:05 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 13:05 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 13:04 www.dropbox.com</li>
 <li class='same'> 13:03 www.dropbox.com</li>
 </ul>
@@ -5422,10 +6490,10 @@ With number of accesses/minutes in parentheses
 <li> 15:18 <a href="https://www.youtube.com/shorts/e1U6FeYY3HQ">(48) He came to get a certificate to get out of the army. 🪂😯#movie #series - YouTube</a></li>
 <li> 15:17 <a href="https://www.youtube.com/shorts/viwinMHudf4">(48) The Big Bang Theory | Bernadette: Howard Has A Heart Condition, You Know. #shorts #thebigbangtheory - YouTube</a></li>
 <li> 15:17 <a href="https://www.youtube.com/shorts/UAEOt6947F8">(48) The Big Bang Theory | Penny: My Dad Killed My Pig With His Tractor. #shorts #thebigbangtheory - YouTube</a></li>
-<li> 15:16 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:16 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:09 <a href="https://www.youtube.com/watch?v=mFwyeOqsV7w">(48) Most Common Bike Brake Types: The Pros and Cons of Each System - YouTube</a></li>
 <li> 15:09 <a href="https://www.youtube.com/results?search_query=difference+between+bike+breaks">(48) difference between bike breaks - YouTube</a></li>
-<li> 15:09 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:09 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:08 www.amazon.co.uk</li>
 <li class='same'> 15:07 www.amazon.co.uk</li>
 <li class='same'> 15:06 www.amazon.co.uk</li>
@@ -6781,7 +7849,7 @@ With number of accesses/minutes in parentheses
 <li> 11:08 <a href="https://xkcd.com/2944/">xkcd: Magnet Fishing</a></li>
 <li> 11:08 <a href="https://xkcd.com/2945/">xkcd: Broken Model</a></li>
 <li> 11:08 <a href="https://xkcd.com/2944/">xkcd: Magnet Fishing</a></li>
-<li> 11:08 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 11:08 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 11:08 www.giantitp.com</li>
 <li> 11:07 mail.google.com</li>
 <li> 11:06 www.natesilver.net</li>
@@ -7322,8 +8390,8 @@ With number of accesses/minutes in parentheses
 <li> 15:15 <a href="https://www.youtube.com/channel/UCLOmaOSJYS1FVBQXLIGf0QQ">(37) Joe Reddington - YouTube</a></li>
 <li> 15:15 <a href="https://www.youtube.com/signin?action_handle_signin=true&authuser=0&next=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC4DUmGMOWnrf4VH3kLw6P2A&feature=masthead_switcher&skip_identity_prompt=true"></a></li>
 <li> 15:15 <a href="https://www.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A">(37) Joe edits Wikipedia! - YouTube</a></li>
-<li> 15:14 <a href="https://www.youtube.com/">(17) YouTube</a></li>
-<li class='same'> 15:13 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:14 <a href="https://www.youtube.com/">(78) YouTube</a></li>
+<li class='same'> 15:13 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:08 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 15:07 github.com</li>
 <li> 15:07 outlook.office365.com</li>
@@ -7974,7 +9042,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:51 www.giantitp.com</li>
 <li> 14:50 theopenvoicefactory.org</li>
 <li> 14:49 feedly.com</li>
-<li> 14:49 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 14:49 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 14:48 theopenvoicefactory.org</li>
 <li class='same'> 14:47 theopenvoicefactory.org</li>
 <li> 14:45 www.politico.com</li>
@@ -8149,7 +9217,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:16 www.enterprise.co.uk</li>
 <li> 10:16 www.google.com</li>
 <li> 10:14 <a href="https://www.youtube.com/watch?v=BZCMqF6NYKc">(34) No One Told C.J. | The West Wing - YouTube</a></li>
-<li> 10:14 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 10:14 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 10:13 mail.google.com</li>
 <li class='same'> 10:12 mail.google.com</li>
 <li class='same'> 10:11 mail.google.com</li>
@@ -9226,7 +10294,7 @@ With number of accesses/minutes in parentheses
 <li> 14:44 www.google.com</li>
 <li> 14:41 <a href="https://www.youtube.com/watch?v=DsjQWHucY-g">(30) Use Any Wheelbase with a Sony PS4 | DIY GIMX Fanatec Cable - YouTube</a></li>
 <li> 14:41 <a href="https://www.youtube.com/results?search_query=gimx">(30) gimx - YouTube</a></li>
-<li> 14:41 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 14:41 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 14:41 www.google.com</li>
 <li> 14:41 gimx.fr</li>
 <li class='same'> 14:40 gimx.fr</li>
@@ -10189,7 +11257,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:03 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 21:02 docs.google.com</li>
-<li> 21:01 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 21:01 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 21:01 <a href="https://joereddington.com/diary/rhul.html"></a></li>
 <li> 20:58 www.swpc.noaa.gov</li>
 <li> 20:58 www.spaceweatherlive.com</li>
@@ -11079,7 +12147,7 @@ With number of accesses/minutes in parentheses
 <li> 18:20 www.giantitp.com</li>
 <li> 18:20 www.google.com</li>
 <li> 18:20 <a href="https://xkcd.com/2935/">xkcd: Ocean Loop</a></li>
-<li> 18:19 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 18:19 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 18:19 www.facebook.com</li>
 <li class='same'> 18:18 www.facebook.com</li>
 <li> 18:18 mail.google.com</li>
@@ -11267,7 +12335,7 @@ With number of accesses/minutes in parentheses
 <li> 14:56 <a href="https://en.wikipedia.org/wiki/Drake%E2%80%93Kendrick_Lamar_feud">Drake–Kendrick Lamar feud - Wikipedia</a></li>
 <li> 14:56 www.google.com</li>
 <li> 14:56 <a href="https://www.youtube.com/results?search_query=lamar+dis+track">(23) lamar dis track - YouTube</a></li>
-<li> 14:56 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 14:56 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 14:54 reductress.com</li>
 <li> 14:54 <a href="https://en.wikipedia.org/wiki/Alicia_Webb">Alicia Webb - Wikipedia</a></li>
 <li> 14:51 <a href="https://en.wikipedia.org/wiki/Shawn_Stasiak">Shawn Stasiak - Wikipedia</a></li>
@@ -11288,7 +12356,7 @@ With number of accesses/minutes in parentheses
 <li> 14:34 <a href="https://www.youtube.com/watch?v=MXB2EzDd8Mo">(23) Rishi Sunak announces UK general election to be held on 4 July - YouTube</a></li>
 <li> 14:34 <a href="https://www.youtube.com/results?search_query=sunak+announces+election">(23) sunak announces election - YouTube</a></li>
 <li> 14:34 <a href="https://www.youtube.com/watch?v=NtoU-92sGFQ">(23) Sunak win is highly unlikely | John Curtice analysis - YouTube</a></li>
-<li> 14:33 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 14:33 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 14:33 www.lutongymnastics.co.uk</li>
 <li> 14:33 mail.google.com</li>
 <li class='same'> 14:32 mail.google.com</li>
@@ -11558,7 +12626,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:01 <a href="https://www.youtube.com/watch?v=VTlIrdpvvYM">(23) Jack Teaches Jenna How to Deal With Her Crazy Mother | 30 Rock - YouTube</a></li>
-<li> 16:01 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 16:01 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:59 www.instagram.com</li>
 <li> 15:59 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 15:58 www.facebook.com</li>
@@ -11578,10 +12646,10 @@ With number of accesses/minutes in parentheses
 <li> 15:32 mail.google.com</li>
 <li> 15:32 www.facebook.com</li>
 <li> 15:31 <a href="https://www.youtube.com/watch?v=xuue-s8qM8w">(23) Taylor Tomlinson's PSA on Arm Floaties | Taylor Tomlinson: Look At You - YouTube</a></li>
-<li> 15:30 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:30 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:30 <a href="https://www.youtube.com/watch?v=lKdX4p2PP80">(23) Beth Meets Benny Watts | The Queen's Gambit [1080p] - YouTube</a></li>
 <li> 15:26 <a href="https://www.youtube.com/watch?v=_KNyX2V64So">(23) "Moms Come To Work" Day | 30 Rock - YouTube</a></li>
-<li> 15:26 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:26 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:25 store.steampowered.com</li>
 <li> 15:24 www.google.com</li>
 <li> 15:24 store.steampowered.com</li>
@@ -11780,7 +12848,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 15:40 mail.google.com</li>
 <li> 15:40 www.giantitp.com</li>
-<li> 15:39 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 15:39 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 15:38 outlook.office365.com</li>
 <li> 15:38 outlook.office.com</li>
 <li> 15:38 mail.rhul.ac.uk</li>
@@ -12094,10 +13162,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:30 docs.google.com</li>
 <li> 18:23 <a href="https://www.youtube.com/watch?v=q8NHulnvJ1g">(21) Jenna and Tracy: The Iconic Delusional Duo | 30 Rock - YouTube</a></li>
-<li> 18:23 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 18:23 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 18:23 outlook.office.com</li>
-<li> 18:22 <a href="https://www.youtube.com/">(17) YouTube</a></li>
-<li class='same'> 17:59 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 18:22 <a href="https://www.youtube.com/">(78) YouTube</a></li>
+<li class='same'> 17:59 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 17:59 outlook.office.com</li>
 <li> 17:58 arcadespot.com</li>
 <li> 17:58 www.google.com</li>
@@ -12589,7 +13657,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:13 www.giantitp.com</li>
 <li class='same'> 11:12 www.giantitp.com</li>
 <li> 11:12 www.google.com</li>
-<li> 11:11 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 11:11 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 11:11 <a href="https://xkcd.com/2301/">xkcd: Turtle Sandwich Standard Model</a></li>
 <li> 11:11 outlook.office.com</li>
 <li> 11:10 mail.google.com</li>
@@ -12707,7 +13775,7 @@ With number of accesses/minutes in parentheses
 <li> 11:19 www.independent.co.uk</li>
 <li> 10:55 <a href="https://xkcd.com/2930/">xkcd: Google Solar Cycle</a></li>
 <li> 10:55 <a href="https://xkcd.com/2931/">xkcd: Chasing</a></li>
-<li> 10:54 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 10:54 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 10:54 mail.google.com</li>
 <li> 10:53 app.qbo.intuit.com</li>
 <li> 10:53 financialdocument.platform.intuit.com</li>
@@ -13070,7 +14138,7 @@ With number of accesses/minutes in parentheses
 <li> 18:48 www.amazon.co.uk</li>
 <li class='same'> 18:47 www.amazon.co.uk</li>
 <li> 18:47 <a href="https://www.youtube.com/results?search_query=the+bicycle">(15) the bicycle - YouTube</a></li>
-<li> 18:47 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 18:47 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 18:47 mail.google.com</li>
 <li class='same'> 18:46 mail.google.com</li>
 <li class='same'> 18:45 mail.google.com</li>
@@ -13132,7 +14200,7 @@ With number of accesses/minutes in parentheses
 <li> 13:58 <a href="https://xkcd.com/2928/">xkcd: Software Testing Day</a></li>
 <li> 13:58 <a href="https://xkcd.com/2929/">xkcd: Good and Bad Ideas</a></li>
 <li> 13:58 <a href="https://xkcd.com/2930/">xkcd: Google Solar Cycle</a></li>
-<li> 13:58 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 13:58 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 13:58 www.giantitp.com</li>
 <li> 13:45 web.whatsapp.com</li>
 <li> 13:41 docs.google.com</li>
@@ -13152,7 +14220,7 @@ With number of accesses/minutes in parentheses
 <li> 13:16 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 13:16 outlook.office.com</li>
 <li> 13:16 <a href="https://www.youtube.com/watch?v=nKg1K03vfzk">(15) The West Wing – Hal Holbrook and Martin Sheen Reunite – Where Is The Submarine? Part 1 - YouTube</a></li>
-<li> 13:07 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 13:07 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 13:06 mail.google.com</li>
 </ul>
 
@@ -13819,7 +14887,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:13 www.imdb.com</li>
 <li> 14:13 www.google.com</li>
 <li> 14:12 <a href="https://www.youtube.com/watch?v=7O__6YNfJ1g">(15) The Very Best Of Jenna Season 2 | 30 Rock - YouTube</a></li>
-<li> 14:12 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 14:12 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 14:12 <a href="https://www.youtube.com/?embeds_referring_euri=https%3A%2F%2Fknowyourmeme.com%2F">YouTube</a></li>
 <li> 14:11 knowyourmeme.com</li>
 <li class='same'> 13:52 knowyourmeme.com</li>
@@ -13969,7 +15037,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:42 outlook.office.com</li>
 <li class='same'> 06:41 outlook.office.com</li>
 <li> 06:41 <a href="https://www.youtube.com/watch?v=rPVlKOc0-rs">Nobody Cares, Work Harder - YouTube</a></li>
-<li> 06:40 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 06:40 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 06:38 mail.google.com</li>
 <li class='same'> 06:36 mail.google.com</li>
 <li> 06:28 <a href="https://xkcd.com/2925/">xkcd: Earth Formation Site</a></li>
@@ -13977,7 +15045,7 @@ With number of accesses/minutes in parentheses
 <li> 06:28 <a href="https://xkcd.com/2927/">xkcd: Alphabetical Cartogram</a></li>
 <li> 06:28 <a href="https://xkcd.com/2928/">xkcd: Software Testing Day</a></li>
 <li> 06:27 <a href="https://xkcd.com/2929/">xkcd: Good and Bad Ideas</a></li>
-<li> 06:27 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 06:27 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 06:27 outlook.office.com</li>
 <li class='same'> 06:26 outlook.office.com</li>
 <li> 06:26 outlook.office365.com</li>
@@ -13993,7 +15061,7 @@ With number of accesses/minutes in parentheses
 <li> 06:21 <a href="https://www.youtube.com/upload"></a></li>
 <li> 06:21 studio.youtube.com</li>
 <li> 06:21 <a href="https://www.youtube.com/signin?action_handle_signin=true&authuser=0&pageid=102827744890434381578&next=https%3A%2F%2Fwww.youtube.com%2F&feature=masthead_switcher&skip_identity_prompt=true"></a></li>
-<li> 06:21 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 06:21 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 06:18 tvtropes.org</li>
 <li> 06:07 www.westwingtranscripts.com</li>
 </ul>
@@ -14376,18 +15444,18 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:08 www.facebook.com</li>
 <li class='same'> 13:06 www.facebook.com</li>
-<li> 13:05 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 13:05 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 13:01 <a href="https://www.youtube.com/watch?v=Lyaxfh1qzEI">(13) Penny Meets Leonard's Mom | The Big Bang Theory - YouTube</a></li>
-<li> 13:01 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 13:01 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 13:01 <a href="https://www.youtube.com/watch?v=XOZUhCcs8eg">(13) moments that make you go :O | 30 Rock - YouTube</a></li>
 <li> 12:59 <a href="https://www.youtube.com/watch?v=6_s7jRFPEcQ">(13) Jack vs Banks | 30 Rock - YouTube</a></li>
 <li> 12:58 <a href="https://www.youtube.com/results?search_query=30+rock">(13) 30 rock - YouTube</a></li>
-<li> 12:58 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 12:58 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 12:57 <a href="https://www.youtube.com/watch?v=s6OmqXCsYt8&list=WL&index=8">(13) Japan's ancient secret to better cognitive memory - BBC REEL - YouTube</a></li>
 <li> 12:47 <a href="https://www.youtube.com/watch?v=I64CQp6z0Pk&list=WL&index=8">(13) Comics that ask "what if?" | Randall Munroe - YouTube</a></li>
 <li> 12:47 <a href="https://www.youtube.com/watch?v=96AO6L9qp2U&list=WL">(59) All tony Stark creating and Inventing gadgets Scenes | Iron Man | Storm Hack - YouTube</a></li>
 <li> 12:47 <a href="https://www.youtube.com/feed/playlists">(59) YouTube</a></li>
-<li> 12:46 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 12:46 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 12:46 www.disneyplus.com</li>
 <li> 12:46 www.google.com</li>
 <li> 12:44 outlook.office.com</li>
@@ -14813,7 +15881,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:58 www.explainxkcd.com</li>
 <li class='same'> 12:57 www.explainxkcd.com</li>
 <li> 12:57 <a href="https://xkcd.com/2927/">xkcd: Alphabetical Cartogram</a></li>
-<li> 12:56 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 12:56 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 </ul>
 
 <br>
@@ -14905,7 +15973,7 @@ With number of accesses/minutes in parentheses
 <li> 09:26 <a href="https://xkcd.com/2925/">xkcd: Earth Formation Site</a></li>
 <li> 09:26 <a href="https://xkcd.com/2926/">xkcd: Doppler Effect</a></li>
 <li> 09:25 <a href="https://xkcd.com/2927/">xkcd: Alphabetical Cartogram</a></li>
-<li> 09:25 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 09:25 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 09:24 www.natesilver.net</li>
 <li> 09:09 www.google.com</li>
 <li> 09:09 www.reddit.com</li>
@@ -15047,7 +16115,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 14:32 moodle.royalholloway.ac.uk</li>
 <li> 14:32 Local file</li>
 <li> 14:10 intranet.royalholloway.ac.uk</li>
-<li> 14:00 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 14:00 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 14:00 www.giantitp.com</li>
 <li> 13:59 outlook.office.com</li>
 <li> 13:59 teams.microsoft.com</li>
@@ -15085,9 +16153,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:07 <a href="https://www.youtube.com/watch?v=km7DDDE-i0c">(9) John Wick does tactical shopping - YouTube</a></li>
 <li> 12:07 <a href="https://www.youtube.com/results?search_query=john+wick+bold">(9) john wick bold - YouTube</a></li>
-<li> 12:07 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 12:07 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 12:07 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 12:07 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 12:07 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 12:06 newsthump.com</li>
 <li class='same'> 12:05 newsthump.com</li>
 <li> 12:04 reductress.com</li>
@@ -17830,7 +18898,7 @@ With number of accesses/minutes in parentheses
 <li> 08:03 <a href="https://xkcd.com/2920/">xkcd: Survey Marker</a></li>
 <li> 08:02 <a href="https://xkcd.com/2921/">xkcd: Eclipse Path Maps</a></li>
 <li> 08:01 <a href="https://xkcd.com/2922/">xkcd: Pub Trivia</a></li>
-<li> 08:01 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 08:01 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 08:01 www.giantitp.com</li>
 <li> 08:00 mail.google.com</li>
 <li> 07:49 www.facebook.com</li>
@@ -19863,7 +20931,7 @@ With number of accesses/minutes in parentheses
 <li> 06:23 <a href="https://www.youtube.com/shorts/uqLI6K7_I00">(25) Dough in 3 minutes | #Shorts | How to make chapati dough using stand mixer | Yummy Recipes | - YouTube</a></li>
 <li> 06:23 <a href="https://www.youtube.com/shorts/WpoGnijsuNU">(25) How to use kitchen aid mixer - YouTube</a></li>
 <li> 06:23 <a href="https://www.youtube.com/results?search_query=stand+mixer">(25) stand mixer - YouTube</a></li>
-<li> 06:23 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 06:23 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 06:21 www.reddit.com</li>
 <li> 06:21 www.google.com</li>
 </ul>
@@ -20117,12 +21185,12 @@ With number of accesses/minutes in parentheses
 <li> 14:44 <a href="https://www.youtube.com/shorts/Mi4n7oj1X3o">(25) YouTube</a></li>
 <li> 14:44 <a href="https://www.youtube.com/shorts/qZ6-VP_guvI">(25) Your Influencer Dad Gets Arrested #shorts - YouTube</a></li>
 <li> 14:43 <a href="https://www.youtube.com/shorts/1JM-cC_M-rY">(25) Why would you put that on your body permanently?😱#Upgraded #PrimeVideo #CamilaMendes #MarisaTomei - YouTube</a></li>
-<li> 14:43 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 14:43 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 14:41 <a href="https://www.youtube.com/watch?v=4-MI0HRn3-Q">(25) Best of: Amy Poehler | Netflix Is A Joke - YouTube</a></li>
 <li> 14:39 <a href="https://www.youtube.com/watch?v=Q0p5EtkWXfo">(25) Taylor Tomlinson Resents Hot Chicks | Netflix Is A Joke - YouTube</a></li>
-<li> 14:39 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 14:39 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 14:39 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 14:39 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 14:39 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 14:39 feedly.com</li>
 <li> 14:34 www.natesilver.net</li>
 <li class='same'> 14:33 www.natesilver.net</li>
@@ -20402,7 +21470,7 @@ With number of accesses/minutes in parentheses
 <li> 21:16 <a href="https://xkcd.com/2916/#xt=8&yt=58">xkcd: Machine</a></li>
 <li> 21:14 <a href="https://xkcd.com/2916/#xt=0&yt=57">xkcd: Machine</a></li>
 <li> 21:06 <a href="https://xkcd.com/2916/">xkcd: Machine</a></li>
-<li> 21:06 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 21:06 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 21:06 calendar.google.com</li>
 </ul>
 
@@ -21100,11 +22168,11 @@ With number of accesses/minutes in parentheses
 <li> 10:26 <a href="https://en.wikipedia.org/wiki/Cecil_Chubb">Cecil Chubb - Wikipedia</a></li>
 <li> 10:26 <a href="https://en.wikipedia.org/wiki/Chubb_Limited">Chubb Limited - Wikipedia</a></li>
 <li> 10:26 www.google.com</li>
-<li> 10:17 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 10:17 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 10:15 <a href="https://www.youtube.com/watch?v=T1is7gKwkGA">(25) HOW TO REFINISH A TABLE // DIY Furniture Makeover - YouTube</a></li>
 <li> 10:14 <a href="https://www.youtube.com/watch?v=3HZb2dMhZO4">(25) RESTORING TABLE TOPS... stripping, sanding, staining, sealing - YouTube</a></li>
 <li> 10:14 <a href="https://www.youtube.com/results?search_query=sanding+and+refinishing+table">(25) sanding and refinishing table - YouTube</a></li>
-<li> 10:14 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 10:14 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 10:10 calendar.google.com</li>
 <li> 10:10 mail.google.com</li>
 <li> 10:10 mkmarathon.eventrac.co.uk</li>
@@ -21793,9 +22861,9 @@ With number of accesses/minutes in parentheses
 <li> 21:29 substack.com</li>
 <li> 21:28 <a href="https://www.youtube.com/watch?v=y0sF5xhGreA">(21) 20 Minutes of Adorable Kittens 😍 | BEST Compilation - YouTube</a></li>
 <li> 21:28 <a href="https://www.youtube.com/results?search_query=kittens">(21) kittens - YouTube</a></li>
-<li> 21:27 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 21:27 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 21:27 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 21:27 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 21:27 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 21:27 mail.google.com</li>
 <li class='same'> 21:26 mail.google.com</li>
 <li> 21:26 click.news.lycamobile.com</li>
@@ -23607,7 +24675,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:20 www.facebook.com</li>
 <li class='same'> 14:19 www.facebook.com</li>
 <li> 14:17 <a href="https://www.youtube.com/watch?v=WjuUmsoF57I">(13) Jake Gyllenhaal's Workout To Get His Ridiculous Road House Body | Train Like | Men's Health - YouTube</a></li>
-<li> 14:16 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 14:16 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 14:15 outlook.office.com</li>
 <li> 13:50 login.microsoftonline.com</li>
 <li> 13:50 forms.office.com</li>
@@ -23640,7 +24708,7 @@ With number of accesses/minutes in parentheses
 <li> 13:15 mail.google.com</li>
 <li class='same'> 13:14 mail.google.com</li>
 <li> 13:14 gmail.com</li>
-<li> 13:14 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 13:14 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 13:14 <a href="https://xkcd.com/2886/">xkcd: Fast Radio Bursts</a></li>
 <li> 13:12 amp.theguardian.com</li>
 <li> 13:12 www.google.com</li>
@@ -24186,7 +25254,7 @@ With number of accesses/minutes in parentheses
 <li> 11:01 <a href="https://www.youtube.com/watch?v=WEf28mF4DoY">(140) How Does a Zipper Work? | Design Squad - YouTube</a></li>
 <li> 11:00 <a href="https://www.youtube.com/watch?v=pN0V-rxk9kw">(140) How Zipper Works | How do Zippers Work Animation - YouTube</a></li>
 <li> 11:00 <a href="https://www.youtube.com/results?search_query=how+do+zips+work">(140) how do zips work - YouTube</a></li>
-<li> 11:00 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 11:00 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 10:59 www.amazon.co.uk</li>
 <li class='same'> 10:58 www.amazon.co.uk</li>
 <li> 10:58 www.google.com</li>
@@ -24461,7 +25529,7 @@ With number of accesses/minutes in parentheses
 <li> 09:52 <a href="https://xkcd.com/2908/">xkcd: Moon Armor Index</a></li>
 <li> 09:52 <a href="https://xkcd.com/2909/">xkcd: Moon Landing Mission Profiles</a></li>
 <li> 09:51 <a href="https://xkcd.com/2910/">xkcd: The Wreck of the Edmund Fitzgerald</a></li>
-<li> 09:51 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 09:51 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 09:49 www.giantitp.com</li>
 <li> 09:48 www.amazon.co.uk</li>
 </ul>
@@ -24850,7 +25918,7 @@ With number of accesses/minutes in parentheses
 <li> 16:21 www.google.com</li>
 <li> 16:20 <a href="https://www.youtube.com/watch?v=iSdP7Wg5JnM">(9) How To Fix a KENWOOD KMIX Mixer - Main Cogwheel Replacement - YouTube</a></li>
 <li> 16:19 <a href="https://www.youtube.com/results?search_query=fix++Kenwood+K-Mix+Stand+Mixer">(9) fix Kenwood K-Mix Stand Mixer - YouTube</a></li>
-<li> 16:19 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 16:19 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 16:19 www.ebay.co.uk</li>
 <li class='same'> 16:18 www.ebay.co.uk</li>
 <li class='same'> 16:17 www.ebay.co.uk</li>
@@ -25468,7 +26536,7 @@ With number of accesses/minutes in parentheses
 <li> 20:44 mail.google.com</li>
 <li> 20:40 <a href="https://www.youtube.com/results?search_query=ioj">YouTube</a></li>
 <li> 20:40 login.microsoftonline.com</li>
-<li> 20:39 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 20:39 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 20:37 mail.google.com</li>
 <li> 20:37 calendar.google.com</li>
 <li> 20:37 mail.google.com</li>
@@ -26509,7 +27577,7 @@ With number of accesses/minutes in parentheses
 <li> 21:35 www.ebay.co.uk</li>
 <li class='same'> 21:34 www.ebay.co.uk</li>
 <li> 21:32 <a href="https://www.youtube.com/results?search_query=custom+toilet+flush+handle">(2) custom toilet flush handle - YouTube</a></li>
-<li> 21:31 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 21:31 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 21:31 www.ebay.co.uk</li>
 <li class='same'> 21:30 www.ebay.co.uk</li>
 <li class='same'> 21:29 www.ebay.co.uk</li>
@@ -26689,7 +27757,7 @@ With number of accesses/minutes in parentheses
 <li> 18:13 <a href="https://xkcd.com/2904/">xkcd: Physics vs. Magic</a></li>
 <li> 18:13 <a href="https://xkcd.com/2905/">xkcd: Supergroup</a></li>
 <li> 18:12 <a href="https://xkcd.com/2906/">xkcd: Earth</a></li>
-<li> 18:12 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 18:12 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 18:09 www.theguardian.com</li>
 <li class='same'> 18:07 www.theguardian.com</li>
 <li> 18:07 profile.theguardian.com</li>
@@ -28493,7 +29561,7 @@ With number of accesses/minutes in parentheses
 <li> 15:10 kdp.amazon.com</li>
 <li> 15:10 www.facebook.com</li>
 <li> 15:10 <a href="https://xkcd.com/2902/">xkcd: Ice Core</a></li>
-<li> 15:10 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 15:10 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 15:10 www.giantitp.com</li>
 <li> 15:05 www.google.com</li>
 <li> 15:04 moodle.royalholloway.ac.uk</li>
@@ -28869,7 +29937,7 @@ With number of accesses/minutes in parentheses
 <li> 17:56 <a href="https://www.youtube.com/shorts/W4iJseJjNcY">(93) how to fix the problem of watter leakage in the car.... - YouTube</a></li>
 <li> 17:55 <a href="https://www.youtube.com/watch?v=swhkRr6zMv8">(93) Ford Fiesta leaking water into foot well - YouTube</a></li>
 <li> 17:55 <a href="https://www.youtube.com/results?search_query=fesita+drainage+rear+footwell">(93) fesita drainage rear footwell - YouTube</a></li>
-<li> 17:55 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 17:55 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 17:54 www.google.com</li>
 <li> 17:54 time.com</li>
 <li> 17:36 moodle.royalholloway.ac.uk</li>
@@ -28888,7 +29956,7 @@ With number of accesses/minutes in parentheses
 <li> 17:22 outlook.office.com</li>
 <li> 17:15 time.com</li>
 <li> 17:15 <a href="https://xkcd.com/2901/">xkcd: Geographic Qualifiers</a></li>
-<li> 17:14 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 17:14 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 17:11 mail.google.com</li>
 <li> 17:10 rhul.sharepoint.com</li>
 <li class='same'> 17:04 rhul.sharepoint.com</li>
@@ -30801,7 +31869,7 @@ With number of accesses/minutes in parentheses
 <li> 19:32 www.google.com</li>
 <li> 19:32 us06web.zoom.us</li>
 <li> 19:31 <a href="https://www.youtube.com/watch?v=naAGP9QQWUw">(85) Get Ready for Creative Media at Solent University January 2024 - YouTube</a></li>
-<li> 19:31 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 19:31 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 19:31 www.google.com</li>
 <li> 19:31 us06web.zoom.us</li>
 <li class='same'> 19:26 us06web.zoom.us</li>
@@ -32628,7 +33696,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:50 www.reddit.com</li>
 <li> 13:41 0.0.0.0:8000</li>
 <li> 13:40 <a href="https://xkcd.com/2892/">xkcd: Banana Prices</a></li>
-<li> 13:39 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 13:39 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 13:39 www.giantitp.com</li>
 <li> 13:38 feedly.com</li>
 <li> 13:36 www.facebook.com</li>
@@ -32876,7 +33944,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:06 www.reddit.com</li>
 <li> 06:05 <a href="https://www.youtube.com/shorts/oakL7NTRH-4">(66) Gymnast vs stuntwoman - YouTube</a></li>
 <li> 06:04 <a href="https://www.youtube.com/shorts/YTsh7Y9m44A">(66) The most useful thing I’ve done with my engineering degree 🤦🏼‍♂️😂 #gymnastics #gymnast #sports - YouTube</a></li>
-<li> 06:04 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 06:04 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 06:03 <a href="https://www.youtube.com/watch?v=gdcmhvLaNUs">(66) Schitt's Creek - The Wine Not the Label - YouTube</a></li>
 <li> 06:03 www.identiversity.org</li>
 <li> 06:03 www.google.com</li>
@@ -33144,10 +34212,10 @@ With number of accesses/minutes in parentheses
 <li> 07:58 <a href="https://www.youtube.com/results?search_query=climbing+overhang">(66) climbing overhang - YouTube</a></li>
 <li> 07:58 <a href="https://www.youtube.com/results?search_query=climbing+overhand">(66) climbing overhand - YouTube</a></li>
 <li> 07:58 <a href="https://www.youtube.com/signin?action_handle_signin=true&authuser=0&next=https%3A%2F%2Fwww.youtube.com%2F&feature=identity_prompt&skip_identity_prompt=true"></a></li>
-<li> 07:58 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 07:58 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 07:58 <a href="https://www.youtube.com/account">(66) YouTube</a></li>
 <li> 07:58 <a href="https://www.youtube.com/signin_prompt?next=https%3A%2F%2Fwww.youtube.com%2F"></a></li>
-<li> 07:58 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 07:58 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 07:54 Local file</li>
 <li> 07:54 www.evri.com</li>
 <li class='same'> 07:53 www.evri.com</li>
@@ -33307,7 +34375,7 @@ With number of accesses/minutes in parentheses
 <li> 11:03 rhul-eblib-com.ezproxy01.rhul.ac.uk</li>
 <li> 11:03 login.ezproxy01.rhul.ac.uk</li>
 <li> 11:03 ebookcentral.proquest.com</li>
-<li> 11:02 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 11:02 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 11:02 www.giantitp.com</li>
 <li> 10:39 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:38 moodle.royalholloway.ac.uk</li>
@@ -33821,7 +34889,7 @@ With number of accesses/minutes in parentheses
 <li> 15:12 <a href="https://xkcd.com/2460/">xkcd: Vaccinated</a></li>
 <li> 15:12 <a href="https://xkcd.com/2664/">xkcd: Cloud Swirls</a></li>
 <li> 15:12 <a href="https://xkcd.com/2890/">xkcd: Relationship Advice</a></li>
-<li> 15:12 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 15:12 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 15:11 www.facebook.com</li>
 <li> 15:07 forms.office.com</li>
 <li class='same'> 15:06 forms.office.com</li>
@@ -34052,7 +35120,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:29 www.google.com</li>
 <li> 11:28 docs.google.com</li>
 <li> 11:28 drive.google.com</li>
-<li> 11:28 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 11:28 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 11:28 www.giantitp.com</li>
 <li> 11:22 mail.google.com</li>
 <li> 11:21 www.bricklink.com</li>
@@ -34763,7 +35831,7 @@ With number of accesses/minutes in parentheses
 <li> 13:05 chat.openai.com</li>
 <li> 13:03 www.google.com</li>
 <li class='same'> 12:44 www.google.com</li>
-<li> 12:44 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 12:44 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 12:43 www.facebook.com</li>
 <li class='same'> 12:42 www.facebook.com</li>
 <li> 12:42 www.google.com</li>
@@ -34910,7 +35978,7 @@ With number of accesses/minutes in parentheses
 <li> 06:33 login.microsoftonline.com</li>
 <li> 06:33 mail.rhul.ac.uk</li>
 <li> 06:23 <a href="https://www.bbc.co.uk/news/uk-england-68197109">Jaywick dog attack: Woman visiting grandson is killed by dogs - BBC News</a></li>
-<li> 06:23 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 06:23 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 06:22 www.google.com</li>
 <li class='same'> 06:15 www.google.com</li>
 </ul>
@@ -34933,7 +36001,7 @@ With number of accesses/minutes in parentheses
 <li> 21:12 <a href="https://www.bbc.co.uk/sport/football/68120787">Chelsea 3-0 Everton: Guro Reiten scores twice from spot as Blues reclaim WSL top spot - BBC Sport</a></li>
 <li> 21:11 <a href="https://www.bbc.co.uk/news/uk-england-london-68196939">Oxford Circus Tube push: Man arrested for attempted murder - BBC News</a></li>
 <li> 21:10 <a href="https://www.bbc.co.uk/news/entertainment-arts-68198592">Scoop film: Netflix releases first photos of Prince Andrew movie - BBC News</a></li>
-<li> 21:09 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 21:09 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 21:09 www.giantitp.com</li>
 <li> 21:07 www.parkrun.org.uk</li>
 </ul>
@@ -34959,7 +36027,7 @@ With number of accesses/minutes in parentheses
 <li> 15:58 <a href="https://xkcd.com/2886/">xkcd: Fast Radio Bursts</a></li>
 <li> 15:58 <a href="https://xkcd.com/2887/">xkcd: Minnesota</a></li>
 <li> 15:57 <a href="https://xkcd.com/2888/">xkcd: US Survey Foot</a></li>
-<li> 15:57 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 15:57 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 15:56 <a href="https://www.bbc.co.uk/sport/football/premier-league/scores-fixtures/2024-02">Premier League - Scores & Fixtures - Football - BBC Sport</a></li>
 <li> 15:56 <a href="https://www.bbc.co.uk/sport/football/premier-league/scores-fixtures/2024-02?filter=fixtures">Premier League - Scores & Fixtures - Football - BBC Sport</a></li>
 <li> 15:56 <a href="https://www.bbc.co.uk/sport/football/premier-league/scores-fixtures">Premier League - Scores & Fixtures - Football - BBC Sport</a></li>
@@ -36202,7 +37270,7 @@ With number of accesses/minutes in parentheses
 <li> 21:55 <a href="https://xkcd.com/2883/">xkcd: Astronaut Guests</a></li>
 <li> 21:55 <a href="https://xkcd.com/2884/">xkcd: Log Alignment</a></li>
 <li> 21:55 <a href="https://xkcd.com/2885/">xkcd: Spelling</a></li>
-<li> 21:54 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 21:54 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 21:32 www.google.com</li>
 <li> 21:31 uk.linkedin.com</li>
 <li> 21:31 www.google.com</li>
@@ -37155,7 +38223,7 @@ With number of accesses/minutes in parentheses
 <li> 17:24 <a href="https://xkcd.com/2879/">xkcd: Like This One</a></li>
 <li> 17:24 <a href="https://xkcd.com/2880/">xkcd: Sheet Bend</a></li>
 <li> 17:23 <a href="https://xkcd.com/2881/">xkcd: Bug Thread</a></li>
-<li> 17:23 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 17:23 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 17:23 www.giantitp.com</li>
 <li class='same'> 17:22 www.giantitp.com</li>
 <li> 17:20 <a href="https://www.bbc.co.uk/news/world-europe-68015612">Arnold Schwarzenegger detained over EU tax for luxury watch - BBC News</a></li>
@@ -39316,7 +40384,7 @@ With number of accesses/minutes in parentheses
 <li> 07:52 <a href="https://xkcd.com/2874/">xkcd: Iceland</a></li>
 <li> 07:51 <a href="https://xkcd.com/2875/">xkcd: 2024</a></li>
 <li> 07:51 <a href="https://xkcd.com/2876/">xkcd: Range Safety</a></li>
-<li> 07:50 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 07:50 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 07:50 www.giantitp.com</li>
 <li> 07:50 rpg.stackexchange.com</li>
 <li> 07:46 <a href="https://unix.stackexchange.com/questions/289999/how-to-zip-directory-with-encryption-for-file-names">command line - How to zip directory with encryption for file names? - Unix & Linux Stack Exchange</a></li>
@@ -41245,7 +42313,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:50 www.natesilver.net</li>
 <li> 08:48 reductress.com</li>
 <li> 08:46 <a href="https://www.youtube.com/shorts/6vb-yJN_vtg">(11) Hailee Steinfeld Has 0 Filter 🤣 - YouTube</a></li>
-<li> 08:46 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 08:46 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 08:46 www.google.com</li>
 <li> 08:45 www.giantitp.com</li>
 <li> 08:45 www.google.com</li>
@@ -41473,7 +42541,7 @@ With number of accesses/minutes in parentheses
 <li> 15:02 <a href="https://xkcd.com/2868/">xkcd: Label the States</a></li>
 <li> 15:02 <a href="https://xkcd.com/2869/">xkcd: Puzzles</a></li>
 <li> 15:01 <a href="https://xkcd.com/2870/">xkcd: Love Songs</a></li>
-<li> 15:01 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 15:01 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 </ul>
 
 <br>
@@ -42130,7 +43198,7 @@ With number of accesses/minutes in parentheses
 <li> 09:58 advertising.amazon.com</li>
 <li> 09:58 ads.amazon</li>
 <li> 09:58 kdp.amazon.com</li>
-<li> 09:58 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 09:58 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 09:55 Local file</li>
 <li class='same'> 09:54 Local file</li>
 <li> 09:47 chat.openai.com</li>
@@ -42874,7 +43942,7 @@ With number of accesses/minutes in parentheses
 <li> 11:05 www.mozilla.org</li>
 <li> 11:00 mail.google.com</li>
 <li> 10:54 <a href="https://xkcd.com/2865/">xkcd: The Wrong Stuff</a></li>
-<li> 10:54 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 10:54 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 10:32 chat.openai.com</li>
 <li> 10:24 schoolgovernors.thekeysupport.com</li>
 <li> 10:21 www.google.com</li>
@@ -43356,7 +44424,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:13 chat.openai.com</li>
 <li> 17:11 intranet.royalholloway.ac.uk</li>
 <li> 17:10 <a href="https://xkcd.com/2864/">xkcd: Compact Graphs</a></li>
-<li> 17:09 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 17:09 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 17:09 <a href="https://joereddington.com/2023/11/22/how-many-sublists.html">How many sublists? | Joe Reddington</a></li>
 <li> 17:09 <a href="https://joereddington.com/2023/12/07/i-m-producing-the-kindle-version-of-advanced-memory-palaces.html">I’m producing the kindle version of Advanced Memory Palaces | Joe Reddington</a></li>
 <li> 17:09 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
@@ -43970,7 +45038,7 @@ With number of accesses/minutes in parentheses
 <li> 13:33 <a href="https://xkcd.com/2861/">xkcd: X Value</a></li>
 <li> 13:32 <a href="https://xkcd.com/2862/">xkcd: Typical Seating Chart</a></li>
 <li> 13:31 <a href="https://xkcd.com/2863/">xkcd: Space Typography</a></li>
-<li> 13:30 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 13:30 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 13:30 mail.google.com</li>
 <li> 13:06 web.whatsapp.com</li>
 <li> 13:05 docs.google.com</li>
@@ -45548,7 +46616,7 @@ With number of accesses/minutes in parentheses
 <li> 07:04 calendar.google.com</li>
 <li class='same'> 07:00 calendar.google.com</li>
 <li> 06:58 www.google.com</li>
-<li> 06:43 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 06:43 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 06:43 www.giantitp.com</li>
 <li class='same'> 06:42 www.giantitp.com</li>
 <li> 06:41 <a href="https://www.bbc.co.uk/news/education-67433036">Teachers use AI for planning and marking, says report - BBC News</a></li>
@@ -46422,7 +47490,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:48 chat.openai.com</li>
 <li> 11:47 forum.artofmemory.com</li>
 <li> 11:47 artofmemory.com</li>
-<li> 11:47 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 11:47 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 11:47 mail.google.com</li>
 <li class='same'> 11:45 mail.google.com</li>
 <li class='same'> 11:44 mail.google.com</li>
@@ -46769,7 +47837,7 @@ With number of accesses/minutes in parentheses
 <li> 09:50 <a href="https://stackoverflow.com/questions/51180405/xdotool-commands-bound-to-key-shortcuts-doesnot-work">linux - xdotool commands bound to key shortcuts doesnot work - Stack Overflow</a></li>
 <li> 09:49 www.google.com</li>
 <li> 09:47 <a href="https://www.youtube.com/watch?v=O9hDTLo5rLA">(39) How to lead with radical candor | Kim Scott | TEDxPortland - YouTube</a></li>
-<li> 09:47 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 09:47 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 09:43 chat.openai.com</li>
 <li> 09:43 auth0.openai.com</li>
 <li> 09:42 chat.openai.com</li>
@@ -46892,10 +47960,10 @@ With number of accesses/minutes in parentheses
 <li> 15:52 app.governorhub.com</li>
 <li> 15:47 <a href="https://www.youtube.com/watch?v=X3_QTucO8pI">(39) The Final Ever Episode | Yes, Prime Minister | BBC Comedy Greats - YouTube</a></li>
 <li> 15:47 <a href="https://www.youtube.com/signin?action_handle_signin=true&authuser=0&next=https%3A%2F%2Fwww.youtube.com%2F&feature=identity_prompt&skip_identity_prompt=true"></a></li>
-<li> 15:47 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:47 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:47 <a href="https://www.youtube.com/account">(66) YouTube</a></li>
 <li> 15:47 <a href="https://www.youtube.com/signin_prompt?next=https%3A%2F%2Fwww.youtube.com%2F"></a></li>
-<li> 15:47 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:47 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:45 discourse.ubuntu.com</li>
 <li> 15:45 www.google.com</li>
 <li> 15:39 mail.google.com</li>
@@ -47485,7 +48553,7 @@ With number of accesses/minutes in parentheses
 <li> 14:36 kdp.amazon.com</li>
 <li> 14:32 <a href="https://xkcd.com/2853/">xkcd: Redshift</a></li>
 <li> 14:32 <a href="https://xkcd.com/2854/">xkcd: Date Line</a></li>
-<li> 14:32 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 14:32 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 14:31 web.whatsapp.com</li>
 <li> 14:31 reductress.com</li>
 <li> 14:30 mail.google.com</li>
@@ -47697,12 +48765,12 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:32 <a href="https://www.youtube.com/watch?v=n9nRzAjyqHQ&t=1608s">(35) Everything GREAT About Spider-Man: Across the Spider-Verse! - YouTube</a></li>
 <li> 17:30 <a href="https://www.youtube.com/watch?v=TiEVqZ2Bc_c">(35) Marvel Studios’ What If…? Season 2 | Official Trailer | Disney+ - YouTube</a></li>
-<li> 17:30 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 17:30 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 17:29 <a href="https://www.youtube.com/watch?v=_op5FXG7W1g">(35) Crazy Fast Ippons in Judo - YouTube</a></li>
 <li> 17:29 <a href="https://www.youtube.com/results?search_query=fast++judo+throw">(35) fast judo throw - YouTube</a></li>
-<li> 17:28 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 17:28 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 17:26 <a href="https://www.youtube.com/watch?v=PT6tCNLiN3g">(44) 🔴LIVE: Bingo's Adventures | Bluey - YouTube</a></li>
-<li> 17:26 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 17:26 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 17:25 <a href="https://www.youtube.com/shorts/DidWsh298E0">(44) This is the Way to TEA PARTY ☕ 🎀! @CoComelon Pretend #shorts - YouTube</a></li>
 <li> 17:24 <a href="https://www.youtube.com/watch?v=qkEWe3pNu_4">Satisfying Video l How To Make Kinetic Sand Rainbow Watermelon Ice Cream Cutting ASMR - YouTube</a></li>
 <li> 17:24 <a href="https://www.youtube.com/watch?v=shiWh4F7wE0">Surprise! Dolls Glitter Pets at Pool with My Pony - YouTube</a></li>
@@ -47711,7 +48779,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:59 <a href="https://joereddington.com/2023/11/15/gratitude.html">Gratitude | Joe Reddington</a></li>
 <li> 16:59 www.google.com</li>
 <li> 16:58 <a href="https://www.youtube.com/watch?v=P_fw_500Oc0">(44) Mini tractor transporting | Radha Krishna Trolly | Gauri Ganesh Murti durga Navratri,water tanker - YouTube</a></li>
-<li> 16:57 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 16:57 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 </ul>
 
 <br>
@@ -48854,7 +49922,7 @@ With number of accesses/minutes in parentheses
 <li> 11:40 <a href="https://xkcd.com/2849/">xkcd: Under the Stars</a></li>
 <li> 11:39 <a href="https://xkcd.com/2850/">xkcd: Doctor's Office</a></li>
 <li> 11:39 <a href="https://xkcd.com/2851/">xkcd: Messier Objects</a></li>
-<li> 11:39 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 11:39 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 11:32 jobs.royalholloway.ac.uk</li>
 <li class='same'> 11:30 jobs.royalholloway.ac.uk</li>
 <li> 11:30 www.google.com</li>
@@ -49507,12 +50575,12 @@ With number of accesses/minutes in parentheses
 <li> 17:58 <a href="https://www.youtube.com/watch?v=-eCSALEftpk">(37) Nat and Essie Play with and Review PJ Mask Bubble Machines - YouTube</a></li>
 <li> 17:57 <a href="https://www.youtube.com/results?sp=mAEB&search_query=bluey+cake">(37) bluey cake - YouTube</a></li>
 <li> 17:56 <a href="https://www.youtube.com/watch?v=Y7Cmw6c70tw">(37) 🔴LIVE: Family Feast with Bluey | 30 MINUTES+ | Bluey - YouTube</a></li>
-<li> 17:56 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 17:56 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 17:52 <a href="https://www.youtube.com/watch?v=Sr1dRutRUFs&t=81s">(37) ANYTHING YOU CAN HOLD I'LL BUY!!! 🎂 PEYTON 6th BIRTHDAY SPECIAL 🎉 - YouTube</a></li>
 <li> 17:36 <a href="https://www.youtube.com/watch?v=b70bOSyQLHg&t=639s">(37) 100 Buttons but ONLY ONE let’s you ESCAPE! - YouTube</a></li>
 <li> 17:36 <a href="https://www.youtube.com/watch?v=_45EUwhn7cw&list=RDCMUCcEcmhio161iuh-WbXrlocA&start_radio=1&rv=_45EUwhn7cw&t=108">(37) 🐹 Hamster Escapes the MEGA AQUAPARK MAZE [OBSTACLE COURSE] - YouTube</a></li>
 <li> 17:35 <a href="https://www.youtube.com/watch?v=_45EUwhn7cw">(37) 🐹 Hamster Escapes the MEGA AQUAPARK MAZE [OBSTACLE COURSE] - YouTube</a></li>
-<li> 17:34 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 17:34 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 </ul>
 
 <br>
@@ -49763,15 +50831,15 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:42 <a href="https://www.youtube.com/watch?v=b70bOSyQLHg">(37) 100 Buttons but ONLY ONE let’s you ESCAPE! - YouTube</a></li>
 <li> 17:37 <a href="https://www.youtube.com/watch?v=V8Jwoii3ebE">(37) Om Nom 🆚️ Teen Titles Go 🆚️ Sunny Bunnies 🆚️ Sheriff Labrador. 🎶Who is Best!! - YouTube</a></li>
-<li> 17:36 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 17:36 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 17:28 <a href="https://www.youtube.com/watch?v=9X1vzll2U6k">(37) 😱 Hamster Escape Maze: Hamster vs Whirlpool - Hamster Cute pets Maze #hamsterescape #mazediytraps - YouTube</a></li>
-<li> 17:27 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 17:27 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 17:23 <a href="https://www.youtube.com/watch?v=Wh7xMmbKnhM">(37) Kiki's Sports Dairy +More | Magical Chinese Characters Collection | Best Cartoon for Kids - YouTube</a></li>
 <li> 17:20 <a href="https://www.youtube.com/watch?v=4GvI7M8PyKs">(37) 🔴LIVE: Bluey's Adventures | Bluey - YouTube</a></li>
-<li> 17:19 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 17:19 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 17:19 <a href="https://www.youtube.com/shorts/whrQ41wQcVg">(37) All About Bluey 2 #cbbc #books #bluey #peppa #duggee #reading #benandholly #pawpatrol - YouTube</a></li>
 <li> 17:18 <a href="https://www.youtube.com/watch?v=4GvI7M8PyKs">(37) 🔴LIVE: Bluey's Adventures | Bluey - YouTube</a></li>
-<li> 17:17 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 17:17 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 </ul>
 
 <br>
@@ -51394,10 +52462,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:14 chat.openai.com</li>
 <li> 08:14 www.androidauthority.com</li>
 <li> 08:11 bsky.app</li>
-<li> 08:11 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 08:11 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 08:05 <a href="https://xkcd.com/simplewriter/"></a></li>
 <li> 08:05 <a href="http://xkcd.com/simplewriter/"></a></li>
-<li> 08:05 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 08:05 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 07:59 equalitytime.co.uk</li>
 <li> 07:57 chat.openai.com</li>
 <li> 07:57 auth0.openai.com</li>
@@ -52638,7 +53706,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:56 mail.google.com</li>
 <li class='same'> 07:55 mail.google.com</li>
 <li> 07:55 <a href="https://www.youtube.com/watch?v=m3CqH4DjVlI">15 woodworking basics you should know - YouTube</a></li>
-<li> 07:55 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 07:55 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 07:54 mail.google.com</li>
 <li> 07:54 www.amazon.co.uk</li>
 <li> 07:54 mail.google.com</li>
@@ -53497,7 +54565,7 @@ With number of accesses/minutes in parentheses
 <li> 07:03 0.0.0.0:8000</li>
 <li> 06:57 <a href="https://www.youtube.com/watch?v=DktkFTTFLHE&t=52s">WhatsApp, Web3, and Wordle: Evolving a Digital Society - Dylan Beattie - NDC Oslo 2022 - YouTube</a></li>
 <li> 06:57 <a href="https://www.youtube.com/feed/history">YouTube</a></li>
-<li> 06:57 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 06:57 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 06:55 www.reddit.com</li>
 <li class='same'> 06:54 www.reddit.com</li>
 <li class='same'> 06:50 www.reddit.com</li>
@@ -53593,7 +54661,7 @@ With number of accesses/minutes in parentheses
 <li> 20:32 www.google.com</li>
 <li> 20:29 <a href="https://www.youtube.com/watch?v=FKWr5TrOzyk">WhatsApp, Web3, and Wordle: Evolving a Digital Society - Dylan Beattie | Codecamp_Festival 2022 - YouTube</a></li>
 <li> 20:25 <a href="https://www.youtube.com/watch?v=DktkFTTFLHE&t=738s">WhatsApp, Web3, and Wordle: Evolving a Digital Society - Dylan Beattie - NDC Oslo 2022 - YouTube</a></li>
-<li> 20:25 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 20:25 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 20:24 sellercentral.amazon.co.uk</li>
 <li class='same'> 20:23 sellercentral.amazon.co.uk</li>
 <li class='same'> 20:22 sellercentral.amazon.co.uk</li>
@@ -53934,12 +55002,12 @@ With number of accesses/minutes in parentheses
 <li> 15:56 <a href="https://www.youtube.com/watch?v=4mRxIgu9R70&t=1557s">Plain Text • Dylan Beattie • GOTO 2023 - YouTube</a></li>
 <li> 15:56 <a href="https://www.youtube.com/feed/history">YouTube</a></li>
 <li> 15:51 <a href="https://www.youtube.com/watch?v=sWZxXVzvb6g">Honest Trailers | The Da Vinci Code - YouTube</a></li>
-<li> 15:51 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:51 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:33 <a href="https://www.youtube.com/watch?v=mrGfahzt-4Q">YouTube</a></li>
 <li> 15:11 <a href="https://www.youtube.com/watch?v=k9lwn-RqEsE">REPLs All The Way Up: A Rubric For Better Feedback Loops • Avdi Grimm • GOTO 2023 - YouTube</a></li>
 <li> 15:11 <a href="https://www.youtube.com/@GOTO-/videos">GOTO Conferences - YouTube</a></li>
 <li> 15:11 <a href="https://www.youtube.com/@GOTO-">GOTO Conferences - YouTube</a></li>
-<li> 15:10 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:10 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 14:57 <a href="https://www.bbc.co.uk/news/uk-northern-ireland-67059503">Chuck Feeney: Entrepreneur and philanthropist dies - BBC News</a></li>
 <li> 14:54 <a href="https://www.bbc.co.uk/news/articles/cmj5l612080o">Parkrun: Boy, 9, sets new 5K world record in Poole - BBC News</a></li>
 <li> 14:54 <a href="https://www.bbc.co.uk/news/business-67062865">Warm weather delays early Christmas food sales - BBC News</a></li>
@@ -54033,7 +55101,7 @@ With number of accesses/minutes in parentheses
 <li> 07:44 <a href="https://www.youtube.com/watch?v=eVQkkZvV1PQ">Shawn Michaels - Sexy Boy | Custom Attitude Titantron - YouTube</a></li>
 <li> 07:44 <a href="https://www.youtube.com/watch?v=svYTnXU8rHg">Triple H - The Game | Custom Attitude Titantron - YouTube</a></li>
 <li> 07:43 <a href="https://www.youtube.com/results?search_query=titantron+entrance">titantron entrance - YouTube</a></li>
-<li> 07:43 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 07:43 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 07:42 www.lutontowncommunity.co.uk</li>
 <li> 07:42 www.google.com</li>
 <li> 07:42 www.bedfordshirefa.com</li>
@@ -54179,7 +55247,7 @@ With number of accesses/minutes in parentheses
 <li> 15:14 <a href="https://www.youtube.com/results?search_query=developer+productivity+lecture">(10) developer productivity lecture - YouTube</a></li>
 <li> 15:14 <a href="https://www.youtube.com/results?search_query=developer+productivity">(10) developer productivity - YouTube</a></li>
 <li> 15:08 <a href="https://www.youtube.com/watch?v=3wy1IXmcqrs">(10) $10 For Each Patient You DON'T Touch | House M.D. | MD TV - YouTube</a></li>
-<li> 15:07 <a href="https://www.youtube.com/">(17) YouTube</a></li>
+<li> 15:07 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 15:07 <a href="https://www.youtube.com/signin_prompt?app=desktop&next=https%3A%2F%2Fwww.youtube.com%2F">(10) YouTube</a></li>
 </ul>
 
@@ -56799,6 +57867,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:47 github.com</li>
 <li class='same'> 13:44 github.com</li>
 <li class='same'> 13:37 github.com</li>
+<li class='same'> 13:32 github.com</li>
 <li class='same'> 13:27 github.com</li>
 <li class='same'> 13:25 github.com</li>
 <li> 13:18 docs.google.com</li>
@@ -56962,7 +58031,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:05 <a href="https://xkcd.com/2823/">xkcd: Fossil</a></li>
-<li> 15:04 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 15:04 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 15:03 www.giantitp.com</li>
 <li> 14:58 bsky.app</li>
 <li> 14:36 calendar.google.com</li>
@@ -57352,6 +58421,11 @@ With number of accesses/minutes in parentheses
 <li> 11:30 mail.google.com</li>
 <li class='same'> 11:24 mail.google.com</li>
 <li class='same'> 11:23 mail.google.com</li>
+<li> 11:16 pay-dartford-crossing-charge.service.gov.uk</li>
+<li class='same'> 11:15 pay-dartford-crossing-charge.service.gov.uk</li>
+<li class='same'> 11:14 pay-dartford-crossing-charge.service.gov.uk</li>
+<li> 11:14 www.gov.uk</li>
+<li class='same'> 11:13 www.gov.uk</li>
 <li> 11:11 www.ebay.co.uk</li>
 <li> 11:07 github.com</li>
 <li> 11:06 www.stalbansjudo.org.uk</li>
@@ -57428,7 +58502,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:02 <a href="https://xkcd.com/2823/">xkcd: Fossil</a></li>
-<li> 14:02 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 14:02 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 </ul>
 
 <br>
@@ -57987,11 +59061,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:59 themeads.org.uk</li>
 <li class='same'> 07:58 themeads.org.uk</li>
 <li> 07:52 github.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:21 www.researchgate.net</li>
+<li> 07:44 www.gov.uk</li>
+<li> 07:43 pay-dartford-crossing-charge.service.gov.uk</li>
+<li> 07:43 www.gov.uk</li>
+<li> 07:21 www.researchgate.net</li>
 <li class='same'> 07:20 www.researchgate.net</li>
 <li class='same'> 07:19 www.researchgate.net</li>
 <li> 07:07 mail.google.com</li>
@@ -58180,7 +59253,7 @@ With number of accesses/minutes in parentheses
 <li> 19:51 mail.google.com</li>
 <li> 19:42 new.adblockplus.org</li>
 <li> 19:35 showtimecircus.classforkids.io</li>
-<li> 19:30 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 19:30 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 19:30 www.giantitp.com</li>
 <li> 19:30 www.google.com</li>
 </ul>
@@ -59429,6 +60502,7 @@ With number of accesses/minutes in parentheses
 <li> 05:45 chat.openai.com</li>
 <li> 05:43 mail.google.com</li>
 <li> 05:25 forum.artofmemory.com</li>
+<li> 05:19 www.gov.uk</li>
 <li> 05:18 127.0.0.1:4000</li>
 <li> 05:17 github.com</li>
 <li> 04:53 bsky.app</li>
@@ -59587,7 +60661,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:59 chat.openai.com</li>
+<ul><li> 10:06 github.com</li>
+<li> 09:59 chat.openai.com</li>
 </ul>
 
 <br>
@@ -60224,6 +61299,7 @@ With number of accesses/minutes in parentheses
 <li> 11:56 equalitytime.co.uk</li>
 <li class='same'> 11:55 equalitytime.co.uk</li>
 <li> 11:39 www.facebook.com</li>
+<li> 11:30 www.reddit.com</li>
 <li> 11:30 discord.com</li>
 <li> 11:22 127.0.0.1:4000</li>
 <li> 11:20 www.pcspecialist.co.uk</li>
@@ -60411,6 +61487,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:06 discord.com</li>
 <li class='same'> 21:05 discord.com</li>
+<li> 21:04 www.reddit.com</li>
 <li> 21:03 127.0.0.1:4000</li>
 <li> 20:51 www.dropbox.com</li>
 <li> 20:50 docs.google.com</li>
@@ -61204,8 +62281,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 05:33 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
-<li class='same'> 05:27 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<ul><li> 05:33 <a href="https://xkcd.com/">xkcd: Matter</a></li>
+<li class='same'> 05:27 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 </ul>
 
 <H3>Monday, 19/06/23</H3>
@@ -61344,7 +62421,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:49 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<ul><li> 07:49 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 </ul>
 
 <br>
@@ -61765,8 +62842,8 @@ With number of accesses/minutes in parentheses
 <li> 12:55 joereddington.github.io</li>
 <li> 12:48 www.dropbox.com</li>
 <li class='same'> 12:44 www.dropbox.com</li>
-<li> 12:29 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
-<li class='same'> 12:28 <a href="https://xkcd.com/">xkcd: CrowdStrike</a></li>
+<li> 12:29 <a href="https://xkcd.com/">xkcd: Matter</a></li>
+<li class='same'> 12:28 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 12:18 whitewaterwriters.com</li>
 </ul>
 
@@ -62162,6 +63239,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:00 github.com</li>
 <li class='same'> 14:59 github.com</li>
 <li> 14:44 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:49 www.evri.com</li>
+<li class='same'> 10:48 www.evri.com</li>
 </ul>
 
 <H3>Friday, 26/05/23</H3>
