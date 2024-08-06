@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7028)</li>
+<ol><li>www.google.com (7039)</li>
 <li>mail.google.com (5135)</li>
 <li>outlook.office.com (2683)</li>
 <li>www.facebook.com (2161)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (353)</li>
 <li>login.microsoftonline.com (342)</li>
 <li>web.whatsapp.com (337)</li>
-<li>www.theguardian.com (313)</li>
+<li>www.theguardian.com (315)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>Local file (257)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:04 www.google.com</li>
+<ul><li> 12:39 www.google.com</li>
+<li> 12:39 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:43 www.theguardian.com</li>
+<li> 11:43 www.google.com</li>
+<li class='same'> 11:16 www.google.com</li>
+<li class='same'> 11:15 www.google.com</li>
+<li> 11:15 www.cardiacdirect.com</li>
+<li> 11:15 www.google.com</li>
+<li class='same'> 11:14 www.google.com</li>
+<li class='same'> 11:13 www.google.com</li>
+<li class='same'> 11:12 www.google.com</li>
+<li class='same'> 11:11 www.google.com</li>
+<li class='same'> 11:09 www.google.com</li>
+<li> 11:09 www.oxygen-care.com</li>
+<li> 11:09 www.google.com</li>
+<li class='same'> 11:04 www.google.com</li>
 <li> 11:04 www.uptodate.com</li>
 </ul>
 
