@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7019)</li>
+<ol><li>www.google.com (7020)</li>
 <li>mail.google.com (5135)</li>
 <li>outlook.office.com (2683)</li>
 <li>www.facebook.com (2161)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:49 apple.stackexchange.com</li>
+<ul><li> 07:56 validator.w3.org</li>
+<li> 07:56 www.google.com</li>
+<li> 07:51 <a href="https://joereddington.com/2023/09/18/problems-with-typesetting-latex-to-pub.html">Problems with typesetting latex to epub | Joe Reddington</a></li>
+<li> 07:50 accounts.intuit.com</li>
+<li> 07:50 qbo.intuit.com</li>
+<li> 07:50 accounts.intuit.com</li>
+<li> 07:50 qbo.intuit.com</li>
+<li> 07:49 <a href="https://tex.stackexchange.com/questions/703802/why-is-a-single-line-in-this-table-of-contents-not-a-link-tex4ebook-on-kindle">htlatex - Why is a single line in this table of contents not a link (tex4ebook on Kindle) - TeX - LaTeX Stack Exchange</a></li>
+<li> 07:49 <a href="https://tex.stackexchange.com/users/10771/joe">User Joe - TeX - LaTeX Stack Exchange</a></li>
+<li> 07:49 apple.stackexchange.com</li>
 <li> 07:49 <a href="https://tex.stackexchange.com/">TeX - LaTeX Stack Exchange</a></li>
 <li> 07:47 chatgpt.com</li>
 <li class='same'> 07:46 chatgpt.com</li>
