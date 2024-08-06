@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1067)</li>
 <li>www.amazon.co.uk (1031)</li>
 <li>github.com (985)</li>
-<li>m.facebook.com (872)</li>
+<li>m.facebook.com (873)</li>
 <li>www.reddit.com (852)</li>
 <li>whitewaterwriters.com (594)</li>
 <li>chat.openai.com (566)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (397)</li>
+<li>www.linkedin.com (398)</li>
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (368)</li>
 <li>outlook.office365.com (365)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:39 www.google.com</li>
+<ul><li> 16:09 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:02 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:41 www.medicalnewstoday.com</li>
+<li class='same'> 12:40 www.medicalnewstoday.com</li>
+<li class='same'> 12:39 www.medicalnewstoday.com</li>
+<li> 12:39 www.google.com</li>
 <li> 12:39 www.theguardian.com</li>
 </ul>
 
