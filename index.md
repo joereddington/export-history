@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7019)</li>
-<li>mail.google.com (5131)</li>
-<li>outlook.office.com (2680)</li>
+<li>mail.google.com (5135)</li>
+<li>outlook.office.com (2681)</li>
 <li>www.facebook.com (2161)</li>
 <li>docs.google.com (1609)</li>
 <li>calendar.google.com (1133)</li>
@@ -85,14 +85,14 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (471)</li>
-<li>www.linkedin.com (396)</li>
+<li>www.linkedin.com (397)</li>
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (368)</li>
 <li>outlook.office365.com (365)</li>
-<li>kdp.amazon.com (356)</li>
-<li>forum.artofmemory.com (350)</li>
+<li>kdp.amazon.com (358)</li>
+<li>forum.artofmemory.com (352)</li>
 <li>login.microsoftonline.com (342)</li>
-<li>web.whatsapp.com (336)</li>
+<li>web.whatsapp.com (337)</li>
 <li>www.theguardian.com (313)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:23 www.google.com</li>
+<ul><li> 07:38 forum.artofmemory.com</li>
+<li class='same'> 07:37 forum.artofmemory.com</li>
+<li> 07:37 artofmemory.com</li>
+<li> 07:36 kdp.amazon.com</li>
+<li class='same'> 07:35 kdp.amazon.com</li>
+<li> 07:35 mail.google.com</li>
+<li class='same'> 07:34 mail.google.com</li>
+<li> 07:33 www.linkedin.com</li>
+<li> 07:33 outlook.office.com</li>
+<li> 07:32 web.whatsapp.com</li>
+<li> 07:32 mail.google.com</li>
+<li class='same'> 07:31 mail.google.com</li>
+<li> 07:23 www.google.com</li>
 <li> 07:06 www.linkedin.com</li>
 <li> 07:06 rhul.sharepoint.com</li>
 <li> 07:06 login.microsoftonline.com</li>
