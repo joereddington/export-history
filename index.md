@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7020)</li>
+<ol><li>www.google.com (7028)</li>
 <li>mail.google.com (5135)</li>
 <li>outlook.office.com (2683)</li>
 <li>www.facebook.com (2161)</li>
@@ -77,14 +77,14 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1067)</li>
 <li>www.amazon.co.uk (1031)</li>
 <li>github.com (985)</li>
-<li>m.facebook.com (867)</li>
+<li>m.facebook.com (872)</li>
 <li>www.reddit.com (852)</li>
 <li>whitewaterwriters.com (594)</li>
 <li>chat.openai.com (566)</li>
 <li>gmail.com (562)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
-<li>en.m.wikipedia.org (471)</li>
+<li>en.m.wikipedia.org (472)</li>
 <li>www.linkedin.com (397)</li>
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (368)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 06/08/24</H3>
+
+<br>
+
+<ul><li> 11:04 www.google.com</li>
+<li> 11:04 www.uptodate.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:27 www.uptodate.com</li>
+<li> 10:27 www.google.com</li>
+<li> 10:26 www.mayoclinic.org</li>
+<li> 10:26 www.google.com</li>
+<li> 10:26 www.nhs.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 09:54 www.google.com</li>
+<li> 09:54 www.nhs.uk</li>
+<li> 09:54 www.google.com</li>
+</ul>
 
 <br>
 
@@ -226,6 +248,18 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:53 login.microsoftonline.com</li>
 <li> 20:53 myview.rhul.zellis.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:47 www.google.com</li>
+<li> 18:47 m.facebook.com</li>
+<li class='same'> 18:33 m.facebook.com</li>
+<li class='same'> 18:32 m.facebook.com</li>
+<li class='same'> 18:31 m.facebook.com</li>
+<li> 18:31 www.google.com</li>
+<li> 18:31 m.facebook.com</li>
+<li> 18:31 en.m.wikipedia.org</li>
 </ul>
 
 <br>
@@ -395,6 +429,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:56 outlook.office.com</li>
 <li> 13:51 teams.microsoft.com</li>
 <li> 13:25 rhul.hosted.panopto.com</li>
+<li> 13:21 www.google.com</li>
 <li> 13:15 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
 <li> 13:15 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:15 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -63304,7 +63339,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:51 analytics.google.com</li>
+<ul><li> 10:03 knowyourmeme.com</li>
+<li class='same'> 10:01 knowyourmeme.com</li>
+<li> 09:51 analytics.google.com</li>
 <li> 09:40 www.tightrope.co.uk</li>
 <li> 09:37 analytics.google.com</li>
 <li class='same'> 09:36 analytics.google.com</li>
@@ -63404,11 +63441,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:36 www.reddit.com</li>
 <li class='same'> 14:15 www.reddit.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 13:36 www.reddit.com</li>
+<li> 13:50 127.0.0.1:4000</li>
+<li class='same'> 13:49 127.0.0.1:4000</li>
+<li> 13:36 www.reddit.com</li>
 <li class='same'> 13:35 www.reddit.com</li>
 <li> 13:23 www.facebook.com</li>
 </ul>
@@ -65467,6 +65502,14 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:00 www.instagram.com</li>
 <li class='same'> 19:58 www.instagram.com</li>
+<li> 19:53 127.0.0.1:4000</li>
+<li class='same'> 19:51 127.0.0.1:4000</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:51 127.0.0.1:4000</li>
+<li class='same'> 15:50 127.0.0.1:4000</li>
 </ul>
 
 <br>
@@ -65636,6 +65679,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:03 app.governorhub.com</li>
 <li> 11:41 drive.google.com</li>
 <li> 11:23 analytics.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:30 127.0.0.1:4000</li>
 </ul>
 
 <br>
@@ -66812,7 +66860,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:49 secure.halifax-online.co.uk</li>
 <li class='same'> 16:39 secure.halifax-online.co.uk</li>
-<li class='same'> 16:37 secure.halifax-online.co.uk</li>
+<li> 16:38 127.0.0.1:4000</li>
+<li> 16:37 secure.halifax-online.co.uk</li>
 <li> 16:37 www.halifax-online.co.uk</li>
 <li> 16:37 secure.halifax-online.co.uk</li>
 </ul>
@@ -66879,6 +66928,16 @@ With number of accesses/minutes in parentheses
 <li> 10:40 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 </ul>
 
+<br>
+
+<ul><li> 07:49 127.0.0.1:4000</li>
+<li class='same'> 07:47 127.0.0.1:4000</li>
+<li class='same'> 07:38 127.0.0.1:4000</li>
+<li class='same'> 07:35 127.0.0.1:4000</li>
+<li class='same'> 07:31 127.0.0.1:4000</li>
+<li class='same'> 07:19 127.0.0.1:4000</li>
+</ul>
+
 <H3>Tuesday, 13/12/22</H3>
 
 <br>
@@ -66936,6 +66995,7 @@ With number of accesses/minutes in parentheses
 <li> 09:51 gettingthingsdone.com</li>
 <li> 09:51 www.organizeit.co.uk</li>
 <li> 09:51 www.google.com</li>
+<li> 09:26 127.0.0.1:4000</li>
 </ul>
 
 <br>
