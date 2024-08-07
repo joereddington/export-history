@@ -71,10 +71,10 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (7045)</li>
 <li>mail.google.com (5136)</li>
 <li>outlook.office.com (2690)</li>
-<li>www.facebook.com (2161)</li>
+<li>www.facebook.com (2162)</li>
 <li>docs.google.com (1609)</li>
 <li>calendar.google.com (1134)</li>
-<li>moodle.royalholloway.ac.uk (1069)</li>
+<li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1031)</li>
 <li>github.com (985)</li>
 <li>m.facebook.com (879)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (368)</li>
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (359)</li>
-<li>forum.artofmemory.com (354)</li>
+<li>forum.artofmemory.com (357)</li>
 <li>login.microsoftonline.com (344)</li>
 <li>web.whatsapp.com (337)</li>
 <li>www.theguardian.com (317)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:09 forum.artofmemory.com</li>
+<ul><li> 07:13 www.facebook.com</li>
+<li> 07:12 forum.artofmemory.com</li>
+<li class='same'> 07:11 forum.artofmemory.com</li>
+<li> 07:11 moodle.royalholloway.ac.uk</li>
+<li> 07:10 forum.artofmemory.com</li>
+<li class='same'> 07:09 forum.artofmemory.com</li>
 <li> 07:09 www.google.com</li>
 <li> 07:09 email.forum.artofmemory.com</li>
 <li> 07:09 mail.google.com</li>
