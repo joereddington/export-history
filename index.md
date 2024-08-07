@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (7045)</li>
 <li>mail.google.com (5139)</li>
 <li>outlook.office.com (2691)</li>
-<li>www.facebook.com (2165)</li>
+<li>www.facebook.com (2166)</li>
 <li>docs.google.com (1610)</li>
 <li>calendar.google.com (1136)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
@@ -79,13 +79,13 @@ With number of accesses/minutes in parentheses
 <li>github.com (985)</li>
 <li>m.facebook.com (884)</li>
 <li>www.reddit.com (853)</li>
-<li>whitewaterwriters.com (594)</li>
+<li>whitewaterwriters.com (598)</li>
 <li>chat.openai.com (566)</li>
 <li>gmail.com (563)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (402)</li>
+<li>www.linkedin.com (403)</li>
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (368)</li>
 <li>outlook.office365.com (365)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (357)</li>
 <li>login.microsoftonline.com (343)</li>
 <li>web.whatsapp.com (337)</li>
-<li>www.theguardian.com (320)</li>
+<li>www.theguardian.com (324)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>Local file (257)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:01 www.theguardian.com</li>
+<ul><li> 15:53 www.theguardian.com</li>
+<li class='same'> 15:43 www.theguardian.com</li>
+<li class='same'> 15:42 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:02 www.theguardian.com</li>
+<li class='same'> 15:01 www.theguardian.com</li>
 <li> 15:01 www.google.com</li>
 </ul>
 
@@ -134,7 +142,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 10:49 <a href="https://joereddington.com/delores">Joe Reddington | Things I make.</a></li>
+<ul><li> 11:17 www.linkedin.com</li>
+<li> 11:11 whitewaterwriters.com</li>
+<li class='same'> 11:09 whitewaterwriters.com</li>
+<li> 11:08 www.facebook.com</li>
+<li> 11:08 whitewaterwriters.com</li>
+<li class='same'> 11:07 whitewaterwriters.com</li>
+<li> 10:49 <a href="https://joereddington.com/delores">Joe Reddington | Things I make.</a></li>
 </ul>
 
 <br>
