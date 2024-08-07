@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7045)</li>
-<li>mail.google.com (5136)</li>
+<li>mail.google.com (5140)</li>
 <li>outlook.office.com (2690)</li>
-<li>www.facebook.com (2162)</li>
+<li>www.facebook.com (2164)</li>
 <li>docs.google.com (1609)</li>
-<li>calendar.google.com (1134)</li>
+<li>calendar.google.com (1136)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1031)</li>
 <li>github.com (985)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (852)</li>
 <li>whitewaterwriters.com (594)</li>
 <li>chat.openai.com (566)</li>
-<li>gmail.com (562)</li>
+<li>gmail.com (563)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:13 www.facebook.com</li>
+<ul><li> 07:29 mail.google.com</li>
+<li> 07:29 www.facebook.com</li>
+<li> 07:28 calendar.google.com</li>
+<li> 07:24 www.facebook.com</li>
+<li> 07:23 mail.google.com</li>
+<li class='same'> 07:22 mail.google.com</li>
+<li class='same'> 07:21 mail.google.com</li>
+<li> 07:21 gmail.com</li>
+<li> 07:21 calendar.google.com</li>
+<li> 07:18 127.0.0.1:8000</li>
+<li> 07:13 www.facebook.com</li>
 <li> 07:12 forum.artofmemory.com</li>
 <li class='same'> 07:11 forum.artofmemory.com</li>
 <li> 07:11 moodle.royalholloway.ac.uk</li>
