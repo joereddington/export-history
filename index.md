@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7053)</li>
+<ol><li>www.google.com (7054)</li>
 <li>mail.google.com (5139)</li>
 <li>outlook.office.com (2691)</li>
-<li>www.facebook.com (2166)</li>
+<li>www.facebook.com (2171)</li>
 <li>docs.google.com (1610)</li>
-<li>calendar.google.com (1136)</li>
+<li>calendar.google.com (1137)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1038)</li>
 <li>github.com (985)</li>
 <li>m.facebook.com (886)</li>
 <li>www.reddit.com (853)</li>
 <li>whitewaterwriters.com (598)</li>
-<li>chat.openai.com (566)</li>
+<li>chat.openai.com (567)</li>
 <li>gmail.com (563)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (403)</li>
+<li>www.linkedin.com (408)</li>
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (368)</li>
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (359)</li>
 <li>forum.artofmemory.com (357)</li>
 <li>login.microsoftonline.com (343)</li>
-<li>web.whatsapp.com (337)</li>
-<li>www.theguardian.com (330)</li>
+<li>web.whatsapp.com (339)</li>
+<li>www.theguardian.com (331)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>Local file (257)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:42 www.theguardian.com</li>
+<ul><li> 22:01 www.theguardian.com</li>
+<li> 21:59 www.facebook.com</li>
+<li> 21:57 x.com</li>
+<li> 21:57 fast.com</li>
+<li> 21:56 web.whatsapp.com</li>
+<li> 21:52 www.linkedin.com</li>
+<li class='same'> 21:51 www.linkedin.com</li>
+<li> 21:51 www.facebook.com</li>
+<li> 21:48 fast.com</li>
+<li> 21:42 127.0.0.1:4000</li>
+<li class='same'> 21:30 127.0.0.1:4000</li>
+<li> 21:26 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 21:14 127.0.0.1:4000</li>
+<li> 21:14 www.linkedin.com</li>
+<li> 21:12 www.facebook.com</li>
+<li> 21:12 www.linkedin.com</li>
+<li> 21:03 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 21:03 web.whatsapp.com</li>
+<li> 21:00 127.0.0.1:4000</li>
+<li> 20:56 calendar.google.com</li>
+<li> 20:56 www.facebook.com</li>
+<li> 20:55 chatgpt.com</li>
+<li class='same'> 20:54 chatgpt.com</li>
+<li class='same'> 20:53 chatgpt.com</li>
+<li> 20:53 chat.openai.com</li>
+<li> 20:52 www.facebook.com</li>
+<li> 20:52 <a href="https://joereddington.com/Comics/2024-08-04.html">2024-08-04 | Joe’s Comics</a></li>
+<li> 20:52 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 20:52 support.mozilla.org</li>
+<li> 20:52 www.google.com</li>
+<li> 20:51 www.linkedin.com</li>
+<li> 20:42 www.theguardian.com</li>
 </ul>
 
 <br>
