@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7047)</li>
-<li>mail.google.com (5140)</li>
+<ol><li>www.google.com (7038)</li>
+<li>mail.google.com (5139)</li>
 <li>outlook.office.com (2690)</li>
 <li>www.facebook.com (2165)</li>
 <li>docs.google.com (1610)</li>
-<li>calendar.google.com (1137)</li>
-<li>moodle.royalholloway.ac.uk (1070)</li>
-<li>www.amazon.co.uk (1035)</li>
+<li>calendar.google.com (1136)</li>
+<li>moodle.royalholloway.ac.uk (1066)</li>
+<li>www.amazon.co.uk (1038)</li>
 <li>github.com (985)</li>
 <li>m.facebook.com (879)</li>
-<li>www.reddit.com (852)</li>
+<li>www.reddit.com (853)</li>
 <li>whitewaterwriters.com (594)</li>
 <li>chat.openai.com (566)</li>
 <li>gmail.com (563)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (359)</li>
 <li>forum.artofmemory.com (357)</li>
-<li>login.microsoftonline.com (344)</li>
+<li>login.microsoftonline.com (343)</li>
 <li>web.whatsapp.com (337)</li>
 <li>www.theguardian.com (317)</li>
 <li>bsky.app (311)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:47 store.bricklink.com</li>
+<ul><li> 07:58 shop.uk.keto-mojo.com</li>
+<li> 07:58 www.paypal.com</li>
+<li class='same'> 07:57 www.paypal.com</li>
+<li> 07:57 shop.uk.keto-mojo.com</li>
+<li> 07:56 www.reddit.com</li>
+<li> 07:56 www.google.com</li>
+<li> 07:56 www.amazon.co.uk</li>
+<li class='same'> 07:55 www.amazon.co.uk</li>
+<li> 07:55 www.ebay.co.uk</li>
+<li> 07:55 www.amazon.co.uk</li>
+<li class='same'> 07:54 www.amazon.co.uk</li>
+<li class='same'> 07:48 www.amazon.co.uk</li>
+<li> 07:47 store.bricklink.com</li>
 <li> 07:47 www.bricklink.com</li>
 <li class='same'> 07:46 www.bricklink.com</li>
 <li> 07:46 store.bricklink.com</li>
@@ -15728,7 +15740,6 @@ With number of accesses/minutes in parentheses
 <li> 10:52 forms.office.com</li>
 <li> 10:52 login.microsoftonline.com</li>
 <li> 10:52 forms.office.com</li>
-<li> 10:52 eur03.safelinks.protection.outlook.com</li>
 <li> 10:52 outlook.office.com</li>
 <li class='same'> 10:51 outlook.office.com</li>
 <li> 10:50 moodle.royalholloway.ac.uk</li>
@@ -15752,8 +15763,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:31 outlook.office.com</li>
 <li> 10:31 mail.google.com</li>
 <li class='same'> 10:30 mail.google.com</li>
-<li> 10:30 www.amazon.co.uk</li>
-<li> 10:30 www.google.com</li>
 <li> 10:30 www.amazon.co.uk</li>
 <li> 10:30 business.amazon.co.uk</li>
 <li> 10:30 mail.google.com</li>
@@ -15785,7 +15794,6 @@ With number of accesses/minutes in parentheses
 <li> 10:12 discord.com</li>
 <li> 10:12 moodle.royalholloway.ac.uk</li>
 <li> 10:12 login.microsoftonline.com</li>
-<li> 10:12 eur03.safelinks.protection.outlook.com</li>
 <li> 10:12 outlook.office.com</li>
 <li class='same'> 10:10 outlook.office.com</li>
 <li class='same'> 10:09 outlook.office.com</li>
@@ -15802,25 +15810,19 @@ With number of accesses/minutes in parentheses
 <li> 09:51 outlook.office.com</li>
 <li> 09:50 rhul.sharepoint.com</li>
 <li> 09:49 teams.microsoft.com</li>
-<li> 09:49 login.microsoftonline.com</li>
 <li> 09:48 outlook.office.com</li>
 <li class='same'> 09:47 outlook.office.com</li>
 <li> 09:46 www.freelancer.com</li>
-<li> 09:46 eur03.safelinks.protection.outlook.com</li>
 <li> 09:45 outlook.office.com</li>
 <li> 09:45 outlook.office365.com</li>
 <li> 09:45 mail.rhul.ac.uk</li>
-<li> 09:43 www.amazon.co.uk</li>
-<li class='same'> 09:42 www.amazon.co.uk</li>
+<li> 09:42 www.amazon.co.uk</li>
 <li class='same'> 09:41 www.amazon.co.uk</li>
 <li> 09:41 www.ebay.co.uk</li>
 <li> 09:40 www.amazon.co.uk</li>
-<li> 09:40 www.ebay.co.uk</li>
-<li class='same'> 09:39 www.ebay.co.uk</li>
+<li> 09:39 www.ebay.co.uk</li>
 <li> 09:39 calendar.google.com</li>
 <li class='same'> 09:38 calendar.google.com</li>
-<li> 09:38 www.google.com</li>
-<li> 09:38 calendar.google.com</li>
 <li> 09:38 mail.google.com</li>
 <li class='same'> 09:37 mail.google.com</li>
 <li class='same'> 09:36 mail.google.com</li>
@@ -15861,7 +15863,6 @@ With number of accesses/minutes in parentheses
 <li> 07:21 www.google.com</li>
 <li> 07:17 www.optikey.org</li>
 <li> 07:17 github.com</li>
-<li> 07:16 www.google.com</li>
 <li> 07:16 mail.google.com</li>
 <li> 07:16 gmail.com</li>
 <li> 07:16 mail.google.com</li>
@@ -15877,8 +15878,7 @@ With number of accesses/minutes in parentheses
 <li> 07:04 chatgpt.com</li>
 <li class='same'> 07:03 chatgpt.com</li>
 <li> 07:03 chat.openai.com</li>
-<li> 07:00 rhul-my.sharepoint.com</li>
-<li class='same'> 06:59 rhul-my.sharepoint.com</li>
+<li> 06:59 rhul-my.sharepoint.com</li>
 <li> 06:53 equalitytime.github.io</li>
 <li> 06:46 <a href="https://en.wikipedia.org/wiki/Steve_Ditko">Steve Ditko - Wikipedia</a></li>
 <li> 06:46 www.google.com</li>
@@ -16257,9 +16257,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:47 www.facebook.com</li>
-<li> 06:45 www.comicsands.com</li>
-<li> 06:45 l.facebook.com</li>
-<li> 06:45 www.facebook.com</li>
+<li class='same'> 06:45 www.facebook.com</li>
 <li> 06:45 www.google.com</li>
 <li> 06:44 www.facebook.com</li>
 <li class='same'> 06:43 www.facebook.com</li>
@@ -16321,13 +16319,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:08 scholar.google.com</li>
 <li> 15:05 new.adblockplus.org</li>
 <li> 15:05 Local file</li>
-<li> 15:05 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 14:32 moodle.royalholloway.ac.uk</li>
-<li> 14:32 Local file</li>
+<ul><li class='same'> 14:32 Local file</li>
 <li> 14:10 intranet.royalholloway.ac.uk</li>
 <li> 14:00 <a href="https://xkcd.com/">xkcd: Matter</a></li>
 <li> 14:00 www.giantitp.com</li>
@@ -16344,7 +16340,6 @@ With number of accesses/minutes in parentheses
 <li> 13:26 outlook.office365.com</li>
 <li> 13:26 outlook.office.com</li>
 <li> 13:26 mail.rhul.ac.uk</li>
-<li> 13:26 moodle.royalholloway.ac.uk</li>
 <li> 13:26 Local file</li>
 </ul>
 
@@ -16353,7 +16348,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:47 teams.microsoft.com</li>
 <li class='same'> 12:46 teams.microsoft.com</li>
 <li> 12:45 outlook.office.com</li>
-<li> 12:41 moodle.royalholloway.ac.uk</li>
 <li> 12:41 Local file</li>
 <li> 12:41 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:40 moodle.royalholloway.ac.uk</li>
@@ -16385,8 +16379,6 @@ With number of accesses/minutes in parentheses
 <li> 11:58 mail.google.com</li>
 <li class='same'> 11:57 mail.google.com</li>
 <li> 11:57 accounts.google.com</li>
-<li> 11:57 mail.google.com</li>
-<li> 11:57 accounts.google.com</li>
 <li> 11:57 gmail.com</li>
 <li> 11:56 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#August_2013_breach">Yahoo! data breaches - Wikipedia</a></li>
@@ -16398,17 +16390,12 @@ With number of accesses/minutes in parentheses
 <li> 11:55 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 11:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 11:54 www.facebook.com</li>
-<li> 11:54 www.google.com</li>
-<li class='same'> 11:53 www.google.com</li>
 <li> 11:52 online.york.ac.uk</li>
 <li> 11:52 www.google.com</li>
 <li> 11:52 www.manchester.ac.uk</li>
 <li class='same'> 11:51 www.manchester.ac.uk</li>
 <li> 11:51 www.google.com</li>
 <li> 11:51 www.findamasters.com</li>
-<li> 11:51 www.google.com</li>
-<li class='same'> 11:50 www.google.com</li>
-<li class='same'> 11:49 www.google.com</li>
 <li> 11:49 www.reddit.com</li>
 <li> 11:49 www.google.com</li>
 <li> 11:49 technicallywewrite.com</li>
@@ -16439,14 +16426,12 @@ With number of accesses/minutes in parentheses
 <li> 10:57 rhul-my.sharepoint.com</li>
 <li> 10:57 www.google.com</li>
 <li> 10:56 rhul.sharepoint.com</li>
-<li> 10:56 eur03.safelinks.protection.outlook.com</li>
 <li> 10:56 outlook.office.com</li>
 <li> 10:56 mail.google.com</li>
 <li> 10:54 outlook.office.com</li>
 <li> 10:54 www.google.com</li>
 <li> 10:51 royalhollowayucu.wordpress.com</li>
-<li> 10:51 www.google.com</li>
-<li class='same'> 10:50 www.google.com</li>
+<li> 10:50 www.google.com</li>
 <li> 10:50 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 10:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 10:50 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -16462,7 +16447,6 @@ With number of accesses/minutes in parentheses
 <li> 07:01 web.whatsapp.com</li>
 <li> 07:01 www.facebook.com</li>
 <li> 07:01 mail.google.com</li>
-<li> 07:01 www.google.com</li>
 <li> 07:01 mkmarathon.eventrac.co.uk</li>
 <li> 07:01 link.eventrac.co.uk</li>
 <li> 07:00 mail.google.com</li>
