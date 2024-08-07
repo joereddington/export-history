@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7045)</li>
+<ol><li>www.google.com (7049)</li>
 <li>mail.google.com (5139)</li>
 <li>outlook.office.com (2691)</li>
 <li>www.facebook.com (2166)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1038)</li>
 <li>github.com (985)</li>
-<li>m.facebook.com (884)</li>
+<li>m.facebook.com (886)</li>
 <li>www.reddit.com (853)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>chat.openai.com (566)</li>
@@ -93,11 +93,11 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (357)</li>
 <li>login.microsoftonline.com (343)</li>
 <li>web.whatsapp.com (337)</li>
-<li>www.theguardian.com (324)</li>
+<li>www.theguardian.com (328)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>Local file (257)</li>
-<li>www.ebay.co.uk (253)</li>
+<li>www.ebay.co.uk (255)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:53 www.theguardian.com</li>
+<ul><li> 17:06 www.google.com</li>
+<li> 17:06 www.theguardian.com</li>
+<li class='same'> 16:48 www.theguardian.com</li>
+<li class='same'> 16:47 www.theguardian.com</li>
+<li> 16:46 m.facebook.com</li>
+<li class='same'> 16:44 m.facebook.com</li>
+<li> 16:16 www.google.com</li>
+<li> 16:16 www.ebay.co.uk</li>
+<li> 16:16 www.google.com</li>
+<li> 16:16 www.ebay.co.uk</li>
+<li> 16:16 www.google.com</li>
+<li> 16:15 www.theguardian.com</li>
+<li class='same'> 15:53 www.theguardian.com</li>
 <li class='same'> 15:43 www.theguardian.com</li>
 <li class='same'> 15:42 www.theguardian.com</li>
 </ul>
