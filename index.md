@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7038)</li>
+<ol><li>www.google.com (7040)</li>
 <li>mail.google.com (5139)</li>
-<li>outlook.office.com (2690)</li>
+<li>outlook.office.com (2691)</li>
 <li>www.facebook.com (2165)</li>
 <li>docs.google.com (1610)</li>
 <li>calendar.google.com (1136)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1038)</li>
 <li>github.com (985)</li>
-<li>m.facebook.com (879)</li>
+<li>m.facebook.com (882)</li>
 <li>www.reddit.com (853)</li>
 <li>whitewaterwriters.com (594)</li>
 <li>chat.openai.com (566)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:58 shop.uk.keto-mojo.com</li>
+<ul><li> 13:06 discussions.apple.com</li>
+<li> 13:06 www.google.com</li>
+<li> 13:06 <a href="https://joereddington.com/delores">Joe Reddington | Things I make.</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:49 <a href="https://joereddington.com/delores">Joe Reddington | Things I make.</a></li>
+</ul>
+
+<br>
+
+<ul><li> 07:59 outlook.office.com</li>
+<li> 07:58 shop.uk.keto-mojo.com</li>
 <li> 07:58 www.paypal.com</li>
 <li class='same'> 07:57 www.paypal.com</li>
 <li> 07:57 shop.uk.keto-mojo.com</li>
@@ -176,6 +189,9 @@ With number of accesses/minutes in parentheses
 <li> 07:03 <a href="https://tex.stackexchange.com/questions/703802/why-is-a-single-line-in-this-table-of-contents-not-a-link-tex4ebook-on-kindle">htlatex - Why is a single line in this table of contents not a link (tex4ebook on Kindle) - TeX - LaTeX Stack Exchange</a></li>
 <li> 07:03 outlook.office.com</li>
 <li class='same'> 06:47 outlook.office.com</li>
+<li> 06:42 <a href="https://joereddington.com/delores">Joe Reddington | Things I make.</a></li>
+<li class='same'> 06:41 <a href="https://joereddington.com/delores">Joe Reddington | Things I make.</a></li>
+<li> 06:41 m.facebook.com</li>
 </ul>
 
 <br>
@@ -191,7 +207,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:34 www.google.com</li>
+<ul><li> 17:51 www.c21media.net</li>
+<li> 17:51 m.facebook.com</li>
+<li class='same'> 17:50 m.facebook.com</li>
+<li> 17:48 www.google.com</li>
+<li class='same'> 17:34 www.google.com</li>
 </ul>
 
 <br>
@@ -58862,6 +58882,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:03 idam-ui.company-information.service.gov.uk</li>
 <li class='same'> 13:02 idam-ui.company-information.service.gov.uk</li>
 <li> 12:48 joereddington.github.io</li>
+<li> 12:41 <a href="https://stackoverflow.com/questions/9009771/is-it-possible-to-embed-animated-gifs-in-pdfs">Is it possible to embed animated GIFs in PDFs? - Stack Overflow</a></li>
 </ul>
 
 <br>
@@ -65098,6 +65119,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:04 127.0.0.1:8000</li>
+<li> 19:57 <a href="https://stackoverflow.com/questions/9009771/is-it-possible-to-embed-animated-gifs-in-pdfs">Is it possible to embed animated GIFs in PDFs? - Stack Overflow</a></li>
+</ul>
+
+<br>
+
 <ul><li> 18:14 www.facebook.com</li>
 </ul>
 
@@ -65454,6 +65481,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:06 joereddington.github.io</li>
 <li> 15:49 www.facebook.com</li>
 <li> 15:39 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:07 127.0.0.1:8000</li>
 </ul>
 
 <br>
@@ -65938,7 +65970,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 14:27 github.com</li>
 <li class='same'> 14:22 github.com</li>
-<li class='same'> 14:17 github.com</li>
+<li> 14:19 127.0.0.1:8000</li>
+<li> 14:17 github.com</li>
 <li> 14:08 analytics.google.com</li>
 <li> 14:06 www.wolframalpha.com</li>
 <li> 13:58 mail.google.com</li>
@@ -67022,16 +67055,18 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:47 docs.google.com</li>
+<li> 14:34 127.0.0.1:8000</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 13:26 docs.google.com</li>
+<ul><li> 13:26 docs.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 11:37 <a href="https://stackoverflow.com/questions/43942997/python-unittest-running-only-the-tests-that-failed">unit testing - Python unittest, running only the tests that failed - Stack Overflow</a></li>
+<ul><li> 11:41 127.0.0.1:8000</li>
+<li> 11:37 <a href="https://stackoverflow.com/questions/43942997/python-unittest-running-only-the-tests-that-failed">unit testing - Python unittest, running only the tests that failed - Stack Overflow</a></li>
 <li> 11:37 <a href="https://stackoverflow.com/users/170243/joe">User Joe - Stack Overflow</a></li>
 <li> 11:30 github.com</li>
 <li class='same'> 11:29 github.com</li>
@@ -67141,7 +67176,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 13:14 github.com</li>
+<ul><li> 13:37 <a href="https://stackoverflow.com/questions/9009771/is-it-possible-to-embed-animated-gifs-in-pdfs">Is it possible to embed animated GIFs in PDFs? - Stack Overflow</a></li>
+<li> 13:14 github.com</li>
 <li> 12:47 forum.artofmemory.com</li>
 <li> 12:44 kdpreports.amazon.com</li>
 <li> 12:17 docs.google.com</li>
