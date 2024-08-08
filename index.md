@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7051)</li>
+<ol><li>www.google.com (7052)</li>
 <li>mail.google.com (5155)</li>
 <li>outlook.office.com (2696)</li>
 <li>www.facebook.com (2186)</li>
@@ -91,9 +91,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (359)</li>
 <li>forum.artofmemory.com (357)</li>
+<li>www.theguardian.com (341)</li>
 <li>web.whatsapp.com (340)</li>
 <li>login.microsoftonline.com (339)</li>
-<li>www.theguardian.com (337)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>Local file (257)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 08/08/24</H3>
+
+<br>
+
+<ul><li> 19:43 www.theguardian.com</li>
+<li class='same'> 19:42 www.theguardian.com</li>
+<li class='same'> 19:41 www.theguardian.com</li>
+<li class='same'> 19:40 www.theguardian.com</li>
+<li> 19:25 www.techradar.com</li>
+<li> 19:25 <a href="https://www.bbc.co.uk/iplayer">BBC iPlayer - Home</a></li>
+<li> 19:24 www.techradar.com</li>
+<li> 19:24 www.google.com</li>
+</ul>
 
 <br>
 
