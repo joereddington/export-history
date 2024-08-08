@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (7054)</li>
 <li>mail.google.com (5139)</li>
 <li>outlook.office.com (2691)</li>
-<li>www.facebook.com (2171)</li>
+<li>www.facebook.com (2173)</li>
 <li>docs.google.com (1610)</li>
 <li>calendar.google.com (1137)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1038)</li>
-<li>github.com (985)</li>
+<li>github.com (986)</li>
 <li>m.facebook.com (886)</li>
 <li>www.reddit.com (853)</li>
 <li>whitewaterwriters.com (598)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (408)</li>
+<li>www.linkedin.com (411)</li>
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (368)</li>
 <li>outlook.office365.com (365)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (357)</li>
 <li>login.microsoftonline.com (343)</li>
 <li>web.whatsapp.com (339)</li>
-<li>www.theguardian.com (331)</li>
+<li>www.theguardian.com (333)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>Local file (257)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:01 www.theguardian.com</li>
+<ul><li> 22:12 www.linkedin.com</li>
+<li class='same'> 22:11 www.linkedin.com</li>
+<li> 22:10 www.facebook.com</li>
+<li> 22:10 www.theguardian.com</li>
+<li class='same'> 22:09 www.theguardian.com</li>
+<li> 22:07 <a href="https://joereddington.com/Comics/2024-08-07.html">2024-08-07 | Joe’s Comics</a></li>
+<li> 22:06 github.com</li>
+<li> 22:06 www.linkedin.com</li>
+<li> 22:06 <a href="https://joereddington.com/Comics/2024-08-04.html">2024-08-04 | Joe’s Comics</a></li>
+<li> 22:06 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 22:05 www.facebook.com</li>
+<li> 22:03 127.0.0.1:4000</li>
+<li> 22:01 www.theguardian.com</li>
 <li> 21:59 www.facebook.com</li>
 <li> 21:57 x.com</li>
 <li> 21:57 fast.com</li>
