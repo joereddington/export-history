@@ -69,31 +69,31 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7051)</li>
-<li>mail.google.com (5153)</li>
-<li>outlook.office.com (2694)</li>
-<li>www.facebook.com (2181)</li>
-<li>docs.google.com (1610)</li>
+<li>mail.google.com (5154)</li>
+<li>outlook.office.com (2696)</li>
+<li>www.facebook.com (2184)</li>
+<li>docs.google.com (1611)</li>
 <li>calendar.google.com (1137)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1040)</li>
 <li>github.com (986)</li>
-<li>m.facebook.com (886)</li>
-<li>www.reddit.com (855)</li>
+<li>m.facebook.com (888)</li>
+<li>www.reddit.com (863)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>chat.openai.com (567)</li>
 <li>gmail.com (565)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (413)</li>
+<li>www.linkedin.com (415)</li>
 <li>teams.microsoft.com (394)</li>
-<li>drive.google.com (368)</li>
+<li>drive.google.com (369)</li>
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (359)</li>
 <li>forum.artofmemory.com (357)</li>
+<li>web.whatsapp.com (340)</li>
 <li>login.microsoftonline.com (339)</li>
-<li>web.whatsapp.com (339)</li>
-<li>www.theguardian.com (334)</li>
+<li>www.theguardian.com (336)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>Local file (257)</li>
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:08 www.nsv.mod.uk</li>
+<ul><li> 07:50 www.facebook.com</li>
+<li> 07:41 www.reddit.com</li>
+<li class='same'> 07:40 www.reddit.com</li>
+<li class='same'> 07:39 www.reddit.com</li>
+<li class='same'> 07:38 www.reddit.com</li>
+<li class='same'> 07:37 www.reddit.com</li>
+<li class='same'> 07:35 www.reddit.com</li>
+<li class='same'> 07:34 www.reddit.com</li>
+<li class='same'> 07:33 www.reddit.com</li>
+<li> 07:32 www.theguardian.com</li>
+<li class='same'> 07:31 www.theguardian.com</li>
+<li> 07:28 www.linkedin.com</li>
+<li> 07:28 web.whatsapp.com</li>
+<li> 07:27 docs.google.com</li>
+<li> 07:27 drive.google.com</li>
+<li> 07:26 mail.google.com</li>
+<li> 07:24 outlook.office.com</li>
+<li> 07:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:23 <a href="https://joereddington.com/2019/08/18/comics.html">I wrote 98 comics | Joe Reddington</a></li>
+<li> 07:23 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 07:22 <a href="https://joereddington.com/Comics/2024-08-07.html">2024-08-07 | Joe’s Comics</a></li>
+<li> 07:22 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 07:22 www.linkedin.com</li>
+<li> 07:21 outlook.office.com</li>
+<li> 07:18 www.nsv.mod.uk</li>
+<li class='same'> 07:17 www.nsv.mod.uk</li>
+<li class='same'> 07:16 www.nsv.mod.uk</li>
+<li class='same'> 07:15 www.nsv.mod.uk</li>
+<li class='same'> 07:14 www.nsv.mod.uk</li>
+<li class='same'> 07:13 www.nsv.mod.uk</li>
+<li class='same'> 07:12 www.nsv.mod.uk</li>
+<li class='same'> 07:11 www.nsv.mod.uk</li>
+<li class='same'> 07:10 www.nsv.mod.uk</li>
+<li class='same'> 07:08 www.nsv.mod.uk</li>
 <li> 07:08 outlook.office.com</li>
 <li> 07:08 mail.google.com</li>
 <li> 07:07 www.facebook.com</li>
@@ -256,6 +290,10 @@ With number of accesses/minutes in parentheses
 <li> 20:52 support.mozilla.org</li>
 <li> 20:52 www.google.com</li>
 <li> 20:51 www.linkedin.com</li>
+<li> 20:44 www.facebook.com</li>
+<li class='same'> 20:43 www.facebook.com</li>
+<li> 20:43 m.facebook.com</li>
+<li class='same'> 20:42 m.facebook.com</li>
 <li> 20:42 www.theguardian.com</li>
 </ul>
 
