@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7055)</li>
+<ol><li>www.google.com (7051)</li>
 <li>mail.google.com (5153)</li>
 <li>outlook.office.com (2694)</li>
 <li>www.facebook.com (2181)</li>
@@ -85,13 +85,13 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (416)</li>
-<li>teams.microsoft.com (396)</li>
+<li>www.linkedin.com (413)</li>
+<li>teams.microsoft.com (394)</li>
 <li>drive.google.com (368)</li>
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (359)</li>
 <li>forum.artofmemory.com (357)</li>
-<li>login.microsoftonline.com (344)</li>
+<li>login.microsoftonline.com (339)</li>
 <li>web.whatsapp.com (339)</li>
 <li>www.theguardian.com (334)</li>
 <li>bsky.app (311)</li>
@@ -15311,8 +15311,7 @@ With number of accesses/minutes in parentheses
 <li> 16:22 www.chessington.com</li>
 <li> 16:22 www.paypal.com</li>
 <li> 16:20 www.facebook.com</li>
-<li> 16:20 www.paypal.com</li>
-<li> 16:19 www.facebook.com</li>
+<li class='same'> 16:19 www.facebook.com</li>
 <li class='same'> 16:18 www.facebook.com</li>
 <li> 16:18 www.chessington.com</li>
 <li class='same'> 16:17 www.chessington.com</li>
@@ -15413,7 +15412,6 @@ With number of accesses/minutes in parentheses
 <li> 12:05 <a href="https://en.wikipedia.org/wiki/Wikipedia:Be_bold">Wikipedia:Be bold - Wikipedia</a></li>
 <li> 12:04 www.google.com</li>
 <li> 12:01 teams.microsoft.com</li>
-<li> 12:01 login.microsoftonline.com</li>
 <li> 11:58 outlook.office.com</li>
 <li> 11:56 docs.google.com</li>
 <li> 11:55 calendar.google.com</li>
@@ -15444,7 +15442,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:49 web.whatsapp.com</li>
 <li> 09:46 teams.microsoft.com</li>
-<li> 09:46 login.microsoftonline.com</li>
 <li> 09:46 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 09:46 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 09:46 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -15462,7 +15459,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:16 discord.com</li>
 <li> 09:14 outlook.office.com</li>
 <li> 09:13 teams.microsoft.com</li>
-<li> 09:13 login.microsoftonline.com</li>
 <li> 09:13 outlook.office.com</li>
 <li> 09:13 outlook.office365.com</li>
 <li> 09:13 mail.rhul.ac.uk</li>
@@ -15479,14 +15475,10 @@ With number of accesses/minutes in parentheses
 <li> 07:02 chatgpt.com</li>
 <li> 07:02 chat.openai.com</li>
 <li> 06:57 www.royalholloway.ac.uk</li>
-<li> 06:57 www.google.com</li>
 <li> 06:56 royalholloway.ac.uk</li>
 <li> 06:56 www.google.com</li>
 <li> 06:47 www.linkedin.com</li>
 <li> 06:47 <a href="https://www.youtube.com/watch?v=24XqFB3Ti9o">It’s Supposed To Be Hard | Motivational Video - YouTube</a></li>
-<li> 06:47 www.linkedin.com</li>
-<li> 06:45 teams.microsoft.com</li>
-<li> 06:45 login.microsoftonline.com</li>
 <li> 06:45 teams.microsoft.com</li>
 <li> 06:44 outlook.office.com</li>
 <li> 06:43 calendar.google.com</li>
@@ -15515,9 +15507,6 @@ With number of accesses/minutes in parentheses
 <li> 06:21 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 06:21 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 06:21 studio.youtube.com</li>
-<li> 06:21 <a href="https://www.youtube.com/upload"></a></li>
-<li> 06:21 studio.youtube.com</li>
-<li> 06:21 <a href="https://www.youtube.com/signin?action_handle_signin=true&authuser=0&pageid=102827744890434381578&next=https%3A%2F%2Fwww.youtube.com%2F&feature=masthead_switcher&skip_identity_prompt=true"></a></li>
 <li> 06:21 <a href="https://www.youtube.com/">(78) YouTube</a></li>
 <li> 06:18 tvtropes.org</li>
 <li> 06:07 www.westwingtranscripts.com</li>
@@ -15540,8 +15529,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:02 www.facebook.com</li>
 <li> 21:01 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2#GA_Review">Talk:Yahoo! data breaches/GA2 - Wikipedia</a></li>
-<li> 20:57 www.google.com</li>
-<li class='same'> 20:56 www.google.com</li>
+<li> 20:56 www.google.com</li>
 <li> 20:51 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#July_2016_to_October_2017:_public_disclosures">Yahoo! data breaches - Wikipedia</a></li>
 <li> 20:49 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=4">Editing Yahoo! data breaches - Wikipedia</a></li>
 <li> 20:49 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=3">Yahoo! data breaches - Wikipedia</a></li>
@@ -15555,9 +15543,7 @@ With number of accesses/minutes in parentheses
 <li> 20:43 diginomica.com</li>
 <li> 20:42 www.commerce.senate.gov</li>
 <li> 20:42 archive.epic.org</li>
-<li> 20:42 www.google.com</li>
 <li> 20:42 <a href="https://www.bbc.co.uk/news/business-37490087">Yahoo: Senators pile on pressure over hack attack - BBC News</a></li>
-<li> 20:42 www.google.com</li>
 <li> 20:41 www.nysenate.gov</li>
 <li> 20:41 aulawreview.org</li>
 <li> 20:40 www.fastcompany.com</li>
@@ -15571,7 +15557,6 @@ With number of accesses/minutes in parentheses
 <li> 20:37 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=2">Yahoo! data breaches - Wikipedia</a></li>
 <li> 20:33 <a href="https://en.wikipedia.org/wiki/Sony_Pictures">Sony Pictures - Wikipedia</a></li>
 <li> 20:32 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
-<li> 20:32 <a href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=2014+Sony+Pictures+hack&wprov=acrw1_0"></a></li>
 <li> 20:32 <a href="https://en.wikipedia.org/w/index.php?search=2014+Sony+Pictures+hack&title=Special:Search&ns0=1"></a></li>
 <li> 20:31 <a href="https://en.wikipedia.org/wiki/Verizon">Verizon - Wikipedia</a></li>
 <li> 20:31 <a href="https://en.wikipedia.org/wiki/Verizon_Communications">Verizon - Wikipedia</a></li>
@@ -15684,7 +15669,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:13 www.goodreads.com</li>
 <li class='same'> 07:12 www.goodreads.com</li>
 <li> 07:12 na.account.amazon.com</li>
-<li> 07:12 www.goodreads.com</li>
 <li> 07:12 www.amazon.com</li>
 <li> 07:12 www.goodreads.com</li>
 <li> 07:07 <a href="https://en.wikipedia.org/wiki/Ultra-Black">Ultra-Black - Wikipedia</a></li>
@@ -15722,14 +15706,12 @@ With number of accesses/minutes in parentheses
 <li> 06:53 www.centralbedfordshire.gov.uk</li>
 <li> 06:53 www.google.com</li>
 <li> 06:53 outlook.office.com</li>
-<li> 06:50 accounts.google.com</li>
-<li> 06:47 outlook.office.com</li>
+<li class='same'> 06:47 outlook.office.com</li>
 <li> 06:42 www.reddit.com</li>
 <li class='same'> 06:40 www.reddit.com</li>
 <li class='same'> 06:35 www.reddit.com</li>
 <li class='same'> 06:34 www.reddit.com</li>
 <li> 06:34 www.google.com</li>
-<li> 06:34 www.linkedin.com</li>
 <li> 06:33 feedly.com</li>
 <li> 06:31 bookies.com</li>
 <li> 06:31 www.google.com</li>
@@ -15800,7 +15782,6 @@ With number of accesses/minutes in parentheses
 <li> 19:40 www.facebook.com</li>
 <li class='same'> 19:38 www.facebook.com</li>
 <li class='same'> 19:37 www.facebook.com</li>
-<li> 19:36 www.linkedin.com</li>
 <li> 19:36 mail.google.com</li>
 <li> 19:20 www.google.com</li>
 <li> 19:19 www.reddit.com</li>
@@ -15862,7 +15843,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:14 www.facebook.com</li>
 <li class='same'> 16:13 www.facebook.com</li>
 <li> 16:09 <a href="https://joereddington.com/gifts">Gifts I love | Joe Reddington</a></li>
-<li> 16:09 joereddington.github.io</li>
 <li> 16:09 <a href="http://joereddington.com/gifts"></a></li>
 <li> 16:09 www.google.com</li>
 <li> 16:09 <a href="https://joereddington.com/%20gifts">Joe Reddington | Things I make.</a></li>
@@ -15924,8 +15904,6 @@ With number of accesses/minutes in parentheses
 <li> 12:10 www.google.com</li>
 <li> 11:55 teams.microsoft.com</li>
 <li> 11:55 outlook.office.com</li>
-<li> 11:54 teams.microsoft.com</li>
-<li> 11:54 login.microsoftonline.com</li>
 <li> 11:54 teams.microsoft.com</li>
 <li> 11:41 web.whatsapp.com</li>
 <li> 11:35 chatgpt.com</li>
