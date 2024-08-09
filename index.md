@@ -70,11 +70,11 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7067)</li>
 <li>mail.google.com (5191)</li>
-<li>outlook.office.com (2712)</li>
+<li>outlook.office.com (2717)</li>
 <li>www.facebook.com (2200)</li>
 <li>docs.google.com (1612)</li>
 <li>calendar.google.com (1146)</li>
-<li>moodle.royalholloway.ac.uk (1068)</li>
+<li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1054)</li>
 <li>github.com (986)</li>
 <li>m.facebook.com (892)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (365)</li>
-<li>kdp.amazon.com (359)</li>
+<li>kdp.amazon.com (363)</li>
 <li>forum.artofmemory.com (357)</li>
 <li>www.theguardian.com (345)</li>
 <li>login.microsoftonline.com (342)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:16 rhul.rl.talis.com</li>
+<ul><li> 13:26 gitlab.cim.rhul.ac.uk</li>
+<li> 13:25 chatgpt.com</li>
+<li> 13:24 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:23 gitlab.cim.rhul.ac.uk</li>
+<li> 13:23 outlook.office.com</li>
+<li class='same'> 13:22 outlook.office.com</li>
+<li> 13:22 kdp.amazon.com</li>
+<li> 13:22 outlook.office.com</li>
+<li> 13:22 kdp.amazon.com</li>
+<li> 13:22 outlook.office.com</li>
+<li> 13:22 kdp.amazon.com</li>
+<li class='same'> 13:21 kdp.amazon.com</li>
+<li> 13:21 outlook.office.com</li>
+<li> 13:21 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:20 moodle.royalholloway.ac.uk</li>
+<li> 13:20 rl.talis.com</li>
+<li> 13:20 www.paypal.com</li>
+<li> 13:17 rl.talis.com</li>
+<li> 13:16 rhul.rl.talis.com</li>
 <li> 13:15 www.amazon.co.uk</li>
 <li> 13:12 rl.talis.com</li>
 <li> 13:12 rhul.rl.talis.com</li>
