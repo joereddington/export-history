@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7060)</li>
-<li>mail.google.com (5177)</li>
+<ol><li>www.google.com (7062)</li>
+<li>mail.google.com (5187)</li>
 <li>outlook.office.com (2706)</li>
 <li>www.facebook.com (2190)</li>
 <li>docs.google.com (1612)</li>
-<li>calendar.google.com (1141)</li>
+<li>calendar.google.com (1142)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1052)</li>
 <li>github.com (986)</li>
 <li>m.facebook.com (891)</li>
 <li>www.reddit.com (869)</li>
 <li>whitewaterwriters.com (598)</li>
+<li>gmail.com (569)</li>
 <li>chat.openai.com (567)</li>
-<li>gmail.com (567)</li>
 <li>app.qbo.intuit.com (550)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (421)</li>
-<li>teams.microsoft.com (395)</li>
+<li>www.linkedin.com (423)</li>
+<li>teams.microsoft.com (396)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (359)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:03 mail.google.com</li>
+<ul><li> 10:55 www.linkedin.com</li>
+<li class='same'> 10:54 www.linkedin.com</li>
+<li> 10:54 teams.microsoft.com</li>
+<li> 10:53 www.qiq.support</li>
+<li> 10:53 mail.google.com</li>
+<li> 10:53 accounts.google.com</li>
+<li> 10:52 mail.google.com</li>
+<li> 10:52 gmail.com</li>
+<li> 10:52 mail.google.com</li>
+<li class='same'> 10:51 mail.google.com</li>
+<li> 10:51 calendar.google.com</li>
+<li> 10:50 mail.google.com</li>
+<li> 10:31 www.instagram.com</li>
+<li> 10:30 mail.google.com</li>
+<li> 10:29 www.instagram.com</li>
+<li> 10:29 felinetrickster.artstation.com</li>
+<li> 10:29 www.artstation.com</li>
+<li> 10:29 www.google.com</li>
+<li> 10:24 mail.google.com</li>
+<li class='same'> 10:10 mail.google.com</li>
+<li> 10:10 gmail.com</li>
+<li> 10:10 mail.google.com</li>
+<li> 10:07 www.google.com</li>
+<li> 10:06 mail.google.com</li>
+<li class='same'> 10:03 mail.google.com</li>
 <li> 10:03 gmail.com</li>
 <li> 10:02 mail.google.com</li>
 <li> 10:02 <a href="https://joereddington.com/Comics/2023-03-15.html">2023-03-15 | Joe’s Comics</a></li>
