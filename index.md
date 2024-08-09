@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7052)</li>
+<ol><li>www.google.com (7051)</li>
 <li>mail.google.com (5155)</li>
-<li>outlook.office.com (2696)</li>
-<li>www.facebook.com (2186)</li>
+<li>outlook.office.com (2698)</li>
+<li>www.facebook.com (2188)</li>
 <li>docs.google.com (1612)</li>
 <li>calendar.google.com (1138)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
-<li>www.amazon.co.uk (1040)</li>
+<li>www.amazon.co.uk (1051)</li>
 <li>github.com (986)</li>
 <li>m.facebook.com (891)</li>
 <li>www.reddit.com (868)</li>
@@ -85,19 +85,19 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (416)</li>
+<li>www.linkedin.com (418)</li>
 <li>teams.microsoft.com (394)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (359)</li>
 <li>forum.artofmemory.com (357)</li>
-<li>www.theguardian.com (341)</li>
-<li>web.whatsapp.com (340)</li>
+<li>www.theguardian.com (343)</li>
+<li>web.whatsapp.com (341)</li>
 <li>login.microsoftonline.com (339)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
+<li>www.ebay.co.uk (259)</li>
 <li>Local file (257)</li>
-<li>www.ebay.co.uk (255)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -127,6 +127,44 @@ With number of accesses/minutes in parentheses
 <li> 19:25 <a href="https://www.bbc.co.uk/iplayer">BBC iPlayer - Home</a></li>
 <li> 19:24 www.techradar.com</li>
 <li> 19:24 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:43 www.facebook.com</li>
+<li class='same'> 18:39 www.facebook.com</li>
+<li> 18:38 x.com</li>
+<li class='same'> 18:37 x.com</li>
+<li> 18:37 www.linkedin.com</li>
+<li> 18:35 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 18:35 outlook.office.com</li>
+<li> 18:34 www.amazon.co.uk</li>
+<li> 18:34 www.ebay.co.uk</li>
+<li> 18:34 www.theguardian.com</li>
+<li class='same'> 18:33 www.theguardian.com</li>
+<li> 18:32 www.amazon.co.uk</li>
+<li class='same'> 18:31 www.amazon.co.uk</li>
+<li class='same'> 18:30 www.amazon.co.uk</li>
+<li class='same'> 18:29 www.amazon.co.uk</li>
+<li class='same'> 18:28 www.amazon.co.uk</li>
+<li class='same'> 18:27 www.amazon.co.uk</li>
+<li class='same'> 18:26 www.amazon.co.uk</li>
+<li> 18:25 www.ebay.co.uk</li>
+<li> 18:25 www.halfords.com</li>
+<li> 18:24 www.google.com</li>
+<li> 18:24 www.ebay.co.uk</li>
+<li class='same'> 18:23 www.ebay.co.uk</li>
+<li> 18:18 www.amazon.co.uk</li>
+<li> 18:17 andieswim.com</li>
+<li> 18:17 www.google.com</li>
+<li> 18:16 www.amazon.co.uk</li>
+<li> 18:16 adblockplus.org</li>
+<li> 18:16 www.amazon.co.uk</li>
+<li> 18:03 web.whatsapp.com</li>
+<li> 18:03 outlook.office.com</li>
+<li> 18:03 www.airbnb.co.uk</li>
+<li> 17:59 www.linkedin.com</li>
+<li> 17:58 www.airbnb.co.uk</li>
 </ul>
 
 <br>
@@ -15188,10 +15226,7 @@ With number of accesses/minutes in parentheses
 <li> 21:15 www.google.com</li>
 <li> 21:14 www.facebook.com</li>
 <li> 21:14 www.google.com</li>
-<li class='same'> 21:13 www.google.com</li>
 <li> 21:12 www.nhsinform.scot</li>
-<li> 21:12 www.google.com</li>
-<li class='same'> 21:11 www.google.com</li>
 <li> 21:11 www.nhs.uk</li>
 <li> 21:11 www.google.com</li>
 <li> 21:04 www.facebook.com</li>
@@ -15362,8 +15397,6 @@ With number of accesses/minutes in parentheses
 <li> 19:09 shop.meg-eu.accessoticketing.com</li>
 <li> 19:09 mail.google.com</li>
 <li> 19:09 www.merlinannualpass.co.uk</li>
-<li> 19:09 login.prebookportal.com</li>
-<li class='same'> 19:04 login.prebookportal.com</li>
 <li> 19:03 mail.google.com</li>
 <li> 19:03 www.facebook.com</li>
 <li> 19:03 mail.google.com</li>
@@ -15403,7 +15436,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:22 ticket.meg-eu.accessoticketing.com</li>
 <li> 16:22 www.chessington.com</li>
-<li> 16:22 www.paypal.com</li>
 <li> 16:20 www.facebook.com</li>
 <li class='same'> 16:19 www.facebook.com</li>
 <li class='same'> 16:18 www.facebook.com</li>
