@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7066)</li>
+<ol><li>www.google.com (7067)</li>
 <li>mail.google.com (5191)</li>
 <li>outlook.office.com (2712)</li>
 <li>www.facebook.com (2200)</li>
 <li>docs.google.com (1612)</li>
 <li>calendar.google.com (1146)</li>
 <li>moodle.royalholloway.ac.uk (1068)</li>
-<li>www.amazon.co.uk (1052)</li>
+<li>www.amazon.co.uk (1054)</li>
 <li>github.com (986)</li>
 <li>m.facebook.com (892)</li>
 <li>www.reddit.com (871)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:09 rhul.rl.talis.com</li>
+<ul><li> 13:16 rhul.rl.talis.com</li>
+<li> 13:15 www.amazon.co.uk</li>
+<li> 13:12 rl.talis.com</li>
+<li> 13:12 rhul.rl.talis.com</li>
+<li> 13:12 users.talis.com</li>
+<li> 13:12 rhul.rl.talis.com</li>
+<li> 13:11 www.amazon.co.uk</li>
+<li> 13:11 www.google.com</li>
+<li> 13:10 rl.talis.com</li>
+<li class='same'> 13:09 rl.talis.com</li>
+<li> 13:09 rhul.rl.talis.com</li>
 <li> 13:09 users.talis.com</li>
 <li> 13:09 login.openathens.net</li>
 <li> 13:09 login.microsoftonline.com</li>
