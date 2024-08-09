@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7068)</li>
+<ol><li>www.google.com (7070)</li>
 <li>mail.google.com (5191)</li>
-<li>outlook.office.com (2723)</li>
+<li>outlook.office.com (2724)</li>
 <li>www.facebook.com (2212)</li>
 <li>docs.google.com (1612)</li>
 <li>calendar.google.com (1148)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1054)</li>
-<li>github.com (986)</li>
+<li>github.com (987)</li>
 <li>m.facebook.com (892)</li>
-<li>www.reddit.com (871)</li>
+<li>www.reddit.com (872)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (570)</li>
 <li>chat.openai.com (568)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 09/08/24</H3>
+
+<br>
+
+<ul><li> 17:16 github.com</li>
+<li> 17:15 <a href="https://tex.stackexchange.com/questions/473749/writing-config-cfg-for-htlatex">tex4ht - Writing config.cfg for htlatex - TeX - LaTeX Stack Exchange</a></li>
+<li> 17:15 www.google.com</li>
+<li> 17:15 <a href="https://tex.stackexchange.com/questions/703802/why-is-a-single-line-in-this-table-of-contents-NOT-a-link-tex4ebook-on-kindle">htlatex - Why is a single line in this table of contents not a link (tex4ebook on Kindle) - TeX - LaTeX Stack Exchange</a></li>
+<li> 17:15 <a href="https://joereddington.com/2023/09/18/problems-with-typesetting-latex-to-pub.html">Problems with typesetting latex to epub | Joe Reddington</a></li>
+<li> 17:15 <a href="https://joereddington.com/2023/12/07/i-m-producing-the-kindle-version-of-advanced-memory-palaces.html">I’m producing the kindle version of Advanced Memory Palaces | Joe Reddington</a></li>
+<li> 17:15 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 17:15 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 17:13 www.reddit.com</li>
+<li> 17:13 www.google.com</li>
+<li> 17:13 outlook.office.com</li>
+</ul>
 
 <br>
 
