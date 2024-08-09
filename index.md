@@ -70,11 +70,11 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7066)</li>
 <li>mail.google.com (5191)</li>
-<li>outlook.office.com (2710)</li>
+<li>outlook.office.com (2712)</li>
 <li>www.facebook.com (2200)</li>
 <li>docs.google.com (1612)</li>
 <li>calendar.google.com (1146)</li>
-<li>moodle.royalholloway.ac.uk (1066)</li>
+<li>moodle.royalholloway.ac.uk (1068)</li>
 <li>www.amazon.co.uk (1052)</li>
 <li>github.com (986)</li>
 <li>m.facebook.com (892)</li>
@@ -92,8 +92,8 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (359)</li>
 <li>forum.artofmemory.com (357)</li>
 <li>www.theguardian.com (345)</li>
+<li>login.microsoftonline.com (342)</li>
 <li>web.whatsapp.com (342)</li>
-<li>login.microsoftonline.com (340)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>www.ebay.co.uk (259)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:59 calendar.google.com</li>
+<ul><li> 13:09 rhul.rl.talis.com</li>
+<li> 13:09 users.talis.com</li>
+<li> 13:09 login.openathens.net</li>
+<li> 13:09 login.microsoftonline.com</li>
+<li> 13:09 login.talisaspire.com</li>
+<li> 13:09 login.openathens.net</li>
+<li> 13:08 moodle.royalholloway.ac.uk</li>
+<li> 13:08 login.microsoftonline.com</li>
+<li> 13:08 moodle.royalholloway.ac.uk</li>
+<li> 13:07 outlook.office.com</li>
+<li class='same'> 13:06 outlook.office.com</li>
+<li> 12:59 calendar.google.com</li>
 <li> 12:59 outlook.office.com</li>
 <li class='same'> 12:58 outlook.office.com</li>
 <li> 12:58 x.com</li>
