@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7051)</li>
-<li>mail.google.com (5155)</li>
-<li>outlook.office.com (2698)</li>
-<li>www.facebook.com (2188)</li>
+<ol><li>www.google.com (7060)</li>
+<li>mail.google.com (5177)</li>
+<li>outlook.office.com (2706)</li>
+<li>www.facebook.com (2190)</li>
 <li>docs.google.com (1612)</li>
-<li>calendar.google.com (1138)</li>
+<li>calendar.google.com (1141)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
-<li>www.amazon.co.uk (1051)</li>
+<li>www.amazon.co.uk (1052)</li>
 <li>github.com (986)</li>
 <li>m.facebook.com (891)</li>
-<li>www.reddit.com (868)</li>
+<li>www.reddit.com (869)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>chat.openai.com (567)</li>
-<li>gmail.com (565)</li>
-<li>app.qbo.intuit.com (549)</li>
+<li>gmail.com (567)</li>
+<li>app.qbo.intuit.com (550)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (418)</li>
-<li>teams.microsoft.com (394)</li>
+<li>www.linkedin.com (421)</li>
+<li>teams.microsoft.com (395)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (359)</li>
 <li>forum.artofmemory.com (357)</li>
-<li>www.theguardian.com (343)</li>
-<li>web.whatsapp.com (341)</li>
-<li>login.microsoftonline.com (339)</li>
+<li>www.theguardian.com (345)</li>
+<li>web.whatsapp.com (342)</li>
+<li>login.microsoftonline.com (340)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>www.ebay.co.uk (259)</li>
@@ -105,6 +105,96 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 09/08/24</H3>
+
+<br>
+
+<ul><li> 10:03 mail.google.com</li>
+<li> 10:03 gmail.com</li>
+<li> 10:02 mail.google.com</li>
+<li> 10:02 <a href="https://joereddington.com/Comics/2023-03-15.html">2023-03-15 | Joe’s Comics</a></li>
+<li> 10:02 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 10:02 mobile.x.com</li>
+<li> 10:01 www.google.com</li>
+<li> 10:01 www.learningplaces.scot</li>
+<li> 10:01 www.google.com</li>
+<li> 10:01 mail.google.com</li>
+<li class='same'> 10:00 mail.google.com</li>
+<li> 09:57 www.royalholloway.ac.uk</li>
+<li> 09:57 www.google.com</li>
+<li> 09:54 outlook.office.com</li>
+<li> 09:53 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 09:52 webtimetables.royalholloway.ac.uk</li>
+<li> 09:52 www.google.com</li>
+<li> 09:52 www.royalholloway.ac.uk</li>
+<li> 09:52 www.google.com</li>
+<li> 09:50 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 09:45 myview.rhul.zellis.com</li>
+<li> 09:44 mail.google.com</li>
+<li> 09:43 web.whatsapp.com</li>
+<li> 09:42 mail.google.com</li>
+<li class='same'> 09:40 mail.google.com</li>
+<li class='same'> 09:38 mail.google.com</li>
+<li class='same'> 09:37 mail.google.com</li>
+<li class='same'> 09:36 mail.google.com</li>
+<li class='same'> 09:35 mail.google.com</li>
+<li> 09:35 outlook.office.com</li>
+<li> 09:35 mail.google.com</li>
+<li class='same'> 09:34 mail.google.com</li>
+<li> 09:33 qbo.intuit.com</li>
+<li> 09:33 mail.google.com</li>
+<li class='same'> 09:32 mail.google.com</li>
+<li> 09:32 calendar.google.com</li>
+<li> 09:32 mail.google.com</li>
+<li> 09:28 www.google.com</li>
+<li class='same'> 09:27 www.google.com</li>
+<li class='same'> 09:26 www.google.com</li>
+<li> 09:24 www.reddit.com</li>
+<li> 09:24 www.google.com</li>
+<li> 09:22 mail.google.com</li>
+<li class='same'> 09:16 mail.google.com</li>
+<li> 09:15 qbo.intuit.com</li>
+<li class='same'> 09:14 qbo.intuit.com</li>
+<li> 09:14 mail.google.com</li>
+<li> 09:14 accounts.intuit.com</li>
+<li> 09:14 qbo.intuit.com</li>
+<li> 09:14 c14.qbo.intuit.com</li>
+<li> 09:14 app.qbo.intuit.com</li>
+<li> 09:12 online.unity.co.uk</li>
+<li> 09:07 x.com</li>
+<li> 09:07 online.unity.co.uk</li>
+<li> 09:03 mail.google.com</li>
+<li> 08:56 online.unity.co.uk</li>
+<li> 08:55 mail.google.com</li>
+<li> 08:51 teams.microsoft.com</li>
+<li> 08:51 online.unity.co.uk</li>
+<li class='same'> 08:49 online.unity.co.uk</li>
+<li> 08:49 www.unity-online.co.uk</li>
+<li> 08:49 online.unity.co.uk</li>
+<li> 08:49 www.amazon.co.uk</li>
+<li> 08:48 mail.google.com</li>
+<li> 08:48 gmail.com</li>
+<li> 08:45 outlook.office.com</li>
+<li> 08:45 calendar.google.com</li>
+<li class='same'> 08:44 calendar.google.com</li>
+<li> 08:44 myview.rhul.zellis.com</li>
+<li class='same'> 08:43 myview.rhul.zellis.com</li>
+<li> 08:43 login.microsoftonline.com</li>
+<li> 08:43 myview.rhul.zellis.com</li>
+<li> 08:40 x.com</li>
+<li class='same'> 08:39 x.com</li>
+<li> 08:38 www.theguardian.com</li>
+<li class='same'> 08:37 www.theguardian.com</li>
+<li> 08:37 outlook.office.com</li>
+<li class='same'> 08:35 outlook.office.com</li>
+<li> 08:34 www.linkedin.com</li>
+<li class='same'> 08:33 www.linkedin.com</li>
+<li> 08:33 outlook.office.com</li>
+<li class='same'> 08:32 outlook.office.com</li>
+<li> 08:32 www.linkedin.com</li>
+<li> 08:30 www.facebook.com</li>
+<li> 08:28 outlook.office.com</li>
+<li> 08:28 www.facebook.com</li>
+</ul>
 
 <br>
 
