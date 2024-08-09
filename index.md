@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (369)</li>
 <li>kdp.amazon.com (366)</li>
 <li>outlook.office365.com (365)</li>
-<li>forum.artofmemory.com (359)</li>
+<li>forum.artofmemory.com (364)</li>
 <li>www.theguardian.com (348)</li>
 <li>web.whatsapp.com (343)</li>
 <li>login.microsoftonline.com (342)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:33 forum.artofmemory.com</li>
+<ul><li> 17:47 forum.artofmemory.com</li>
+<li class='same'> 17:46 forum.artofmemory.com</li>
+<li class='same'> 17:42 forum.artofmemory.com</li>
+<li class='same'> 17:41 forum.artofmemory.com</li>
+<li class='same'> 17:38 forum.artofmemory.com</li>
+<li class='same'> 17:33 forum.artofmemory.com</li>
 <li class='same'> 17:32 forum.artofmemory.com</li>
 <li> 17:31 artofmemory.com</li>
 <li> 17:31 kdp.amazon.com</li>
