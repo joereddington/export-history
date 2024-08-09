@@ -88,9 +88,9 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (431)</li>
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (369)</li>
+<li>kdp.amazon.com (366)</li>
 <li>outlook.office365.com (365)</li>
-<li>kdp.amazon.com (364)</li>
-<li>forum.artofmemory.com (357)</li>
+<li>forum.artofmemory.com (359)</li>
 <li>www.theguardian.com (348)</li>
 <li>web.whatsapp.com (343)</li>
 <li>login.microsoftonline.com (342)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:28 kdp.amazon.com</li>
+<ul><li> 17:33 forum.artofmemory.com</li>
+<li class='same'> 17:32 forum.artofmemory.com</li>
+<li> 17:31 artofmemory.com</li>
+<li> 17:31 kdp.amazon.com</li>
+<li class='same'> 17:30 kdp.amazon.com</li>
+<li class='same'> 17:28 kdp.amazon.com</li>
 <li> 17:22 <a href="https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird#/media/File:Lockheed_SR-71A_Blackbird,_National_Museum_of_the_United_States_Air_Force,_Wright-Patterson_Air_Force_Base,_near_Dayton,_Ohio,_USA,_cockpit,_forward_view.png">Lockheed SR-71 Blackbird - Wikipedia</a></li>
 <li> 17:22 <a href="https://en.wikipedia.org/wiki/Lockheed_Martin_SR-72">Lockheed Martin SR-72 - Wikipedia</a></li>
 <li> 17:21 <a href="https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird">Lockheed SR-71 Blackbird - Wikipedia</a></li>
