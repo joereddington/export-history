@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7066)</li>
 <li>mail.google.com (5191)</li>
-<li>outlook.office.com (2708)</li>
-<li>www.facebook.com (2199)</li>
+<li>outlook.office.com (2710)</li>
+<li>www.facebook.com (2200)</li>
 <li>docs.google.com (1612)</li>
-<li>calendar.google.com (1145)</li>
+<li>calendar.google.com (1146)</li>
 <li>moodle.royalholloway.ac.uk (1066)</li>
 <li>www.amazon.co.uk (1052)</li>
 <li>github.com (986)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (551)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (424)</li>
+<li>www.linkedin.com (425)</li>
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (365)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:49 adblockplus.org</li>
+<ul><li> 12:59 calendar.google.com</li>
+<li> 12:59 outlook.office.com</li>
+<li class='same'> 12:58 outlook.office.com</li>
+<li> 12:58 x.com</li>
+<li> 12:56 www.linkedin.com</li>
+<li> 12:56 www.facebook.com</li>
+<li> 12:49 adblockplus.org</li>
 <li> 12:49 outlook.office.com</li>
 <li> 12:49 www.facebook.com</li>
 <li> 12:39 calendar.google.com</li>
