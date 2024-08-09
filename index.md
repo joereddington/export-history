@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7070)</li>
+<ol><li>www.google.com (7071)</li>
 <li>mail.google.com (5191)</li>
 <li>outlook.office.com (2724)</li>
 <li>www.facebook.com (2212)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (872)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (570)</li>
-<li>chat.openai.com (568)</li>
+<li>chat.openai.com (569)</li>
 <li>app.qbo.intuit.com (551)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (365)</li>
-<li>kdp.amazon.com (363)</li>
+<li>kdp.amazon.com (364)</li>
 <li>forum.artofmemory.com (357)</li>
 <li>www.theguardian.com (348)</li>
 <li>web.whatsapp.com (343)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:16 github.com</li>
+<ul><li> 17:28 kdp.amazon.com</li>
+<li> 17:22 <a href="https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird#/media/File:Lockheed_SR-71A_Blackbird,_National_Museum_of_the_United_States_Air_Force,_Wright-Patterson_Air_Force_Base,_near_Dayton,_Ohio,_USA,_cockpit,_forward_view.png">Lockheed SR-71 Blackbird - Wikipedia</a></li>
+<li> 17:22 <a href="https://en.wikipedia.org/wiki/Lockheed_Martin_SR-72">Lockheed Martin SR-72 - Wikipedia</a></li>
+<li> 17:21 <a href="https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird">Lockheed SR-71 Blackbird - Wikipedia</a></li>
+<li> 17:21 www.google.com</li>
+<li> 17:18 chatgpt.com</li>
+<li class='same'> 17:17 chatgpt.com</li>
+<li> 17:17 chat.openai.com</li>
+<li> 17:16 github.com</li>
 <li> 17:15 <a href="https://tex.stackexchange.com/questions/473749/writing-config-cfg-for-htlatex">tex4ht - Writing config.cfg for htlatex - TeX - LaTeX Stack Exchange</a></li>
 <li> 17:15 www.google.com</li>
 <li> 17:15 <a href="https://tex.stackexchange.com/questions/703802/why-is-a-single-line-in-this-table-of-contents-NOT-a-link-tex4ebook-on-kindle">htlatex - Why is a single line in this table of contents not a link (tex4ebook on Kindle) - TeX - LaTeX Stack Exchange</a></li>
