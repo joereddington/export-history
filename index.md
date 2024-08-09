@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7067)</li>
+<ol><li>www.google.com (7068)</li>
 <li>mail.google.com (5191)</li>
-<li>outlook.office.com (2720)</li>
-<li>www.facebook.com (2209)</li>
+<li>outlook.office.com (2723)</li>
+<li>www.facebook.com (2212)</li>
 <li>docs.google.com (1612)</li>
-<li>calendar.google.com (1146)</li>
+<li>calendar.google.com (1148)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1054)</li>
 <li>github.com (986)</li>
@@ -85,15 +85,15 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (551)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (425)</li>
+<li>www.linkedin.com (431)</li>
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (365)</li>
 <li>kdp.amazon.com (363)</li>
 <li>forum.artofmemory.com (357)</li>
-<li>www.theguardian.com (345)</li>
+<li>www.theguardian.com (348)</li>
+<li>web.whatsapp.com (343)</li>
 <li>login.microsoftonline.com (342)</li>
-<li>web.whatsapp.com (342)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>www.ebay.co.uk (259)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:43 outlook.office.com</li>
+<ul><li> 14:36 web.whatsapp.com</li>
+<li> 14:36 www.theguardian.com</li>
+<li class='same'> 14:35 www.theguardian.com</li>
+<li class='same'> 14:34 www.theguardian.com</li>
+<li> 14:10 calendar.google.com</li>
+<li class='same'> 14:09 calendar.google.com</li>
+<li> 14:09 outlook.office.com</li>
+<li class='same'> 14:08 outlook.office.com</li>
+<li> 14:08 www.linkedin.com</li>
+<li> 14:05 www.facebook.com</li>
+<li class='same'> 14:03 www.facebook.com</li>
+<li> 14:02 www.google.com</li>
+<li> 14:00 www.facebook.com</li>
+<li> 13:59 www.linkedin.com</li>
+<li class='same'> 13:58 www.linkedin.com</li>
+<li class='same'> 13:57 www.linkedin.com</li>
+<li class='same'> 13:56 www.linkedin.com</li>
+<li class='same'> 13:54 www.linkedin.com</li>
+<li> 13:54 outlook.office.com</li>
+<li class='same'> 13:43 outlook.office.com</li>
 <li class='same'> 13:39 outlook.office.com</li>
 <li> 13:36 chatgpt.com</li>
 <li> 13:36 chat.openai.com</li>
