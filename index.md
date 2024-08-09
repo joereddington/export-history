@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (431)</li>
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (369)</li>
-<li>forum.artofmemory.com (368)</li>
+<li>forum.artofmemory.com (369)</li>
 <li>kdp.amazon.com (366)</li>
 <li>outlook.office365.com (365)</li>
 <li>www.theguardian.com (348)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:58 forum.artofmemory.com</li>
+<ul><li> 18:27 forum.artofmemory.com</li>
+<li> 18:27 artofmemory.com</li>
+<li> 17:59 villains.fandom.com</li>
+<li> 17:58 forum.artofmemory.com</li>
 <li class='same'> 17:57 forum.artofmemory.com</li>
 <li class='same'> 17:56 forum.artofmemory.com</li>
 <li class='same'> 17:55 forum.artofmemory.com</li>
