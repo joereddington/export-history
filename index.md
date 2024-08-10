@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1054)</li>
 <li>github.com (987)</li>
-<li>m.facebook.com (893)</li>
+<li>m.facebook.com (896)</li>
 <li>www.reddit.com (872)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (570)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (369)</li>
 <li>kdp.amazon.com (366)</li>
 <li>outlook.office365.com (365)</li>
-<li>www.theguardian.com (350)</li>
+<li>www.theguardian.com (351)</li>
 <li>web.whatsapp.com (343)</li>
 <li>login.microsoftonline.com (342)</li>
 <li>bsky.app (311)</li>
@@ -104,7 +104,21 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 10/08/24</H3>
+
+<br>
+
+<ul><li> 10:10 m.facebook.com</li>
+<li class='same'> 09:53 m.facebook.com</li>
+<li> 09:53 www.theguardian.com</li>
+<li> 09:53 m.facebook.com</li>
+</ul>
+
 <H3>Friday, 09/08/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -15376,7 +15390,6 @@ With number of accesses/minutes in parentheses
 <li> 18:34 date2cheat.com</li>
 <li> 18:34 thegriffinplayers.co.uk</li>
 <li> 18:27 date2cheat.com</li>
-<li> 18:27 trk.clkdmn.com</li>
 <li> 18:27 trk.fcktht.com</li>
 <li> 18:27 www2.gardenschool.edu.my</li>
 <li> 18:27 www.google.com</li>
