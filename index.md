@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (7081)</li>
 <li>mail.google.com (5191)</li>
 <li>outlook.office.com (2724)</li>
-<li>www.facebook.com (2212)</li>
+<li>www.facebook.com (2216)</li>
 <li>docs.google.com (1612)</li>
 <li>calendar.google.com (1148)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (472)</li>
 <li>www.linkedin.com (431)</li>
 <li>teams.microsoft.com (396)</li>
+<li>forum.artofmemory.com (370)</li>
 <li>drive.google.com (369)</li>
-<li>forum.artofmemory.com (369)</li>
-<li>kdp.amazon.com (366)</li>
+<li>kdp.amazon.com (367)</li>
 <li>outlook.office365.com (365)</li>
 <li>www.theguardian.com (360)</li>
 <li>web.whatsapp.com (343)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 10/08/24</H3>
+
+<br>
+
+<ul><li> 15:29 www.facebook.com</li>
+<li class='same'> 15:28 www.facebook.com</li>
+<li class='same'> 15:27 www.facebook.com</li>
+<li class='same'> 15:26 www.facebook.com</li>
+<li> 15:25 kdpreports.amazon.com</li>
+<li> 15:25 kdp.amazon.com</li>
+<li> 15:25 forum.artofmemory.com</li>
+</ul>
 
 <br>
 
