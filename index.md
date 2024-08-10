@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1054)</li>
 <li>github.com (987)</li>
-<li>m.facebook.com (892)</li>
+<li>m.facebook.com (893)</li>
 <li>www.reddit.com (872)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (570)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (369)</li>
 <li>kdp.amazon.com (366)</li>
 <li>outlook.office365.com (365)</li>
-<li>www.theguardian.com (348)</li>
+<li>www.theguardian.com (350)</li>
 <li>web.whatsapp.com (343)</li>
 <li>login.microsoftonline.com (342)</li>
 <li>bsky.app (311)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 09/08/24</H3>
+
+<br>
+
+<ul><li> 19:50 www.theguardian.com</li>
+<li class='same'> 19:49 www.theguardian.com</li>
+<li> 19:49 m.facebook.com</li>
+</ul>
 
 <br>
 
