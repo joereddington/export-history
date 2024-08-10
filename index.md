@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7075)</li>
+<ol><li>www.google.com (7081)</li>
 <li>mail.google.com (5191)</li>
 <li>outlook.office.com (2724)</li>
 <li>www.facebook.com (2212)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1054)</li>
 <li>github.com (987)</li>
-<li>m.facebook.com (901)</li>
+<li>m.facebook.com (910)</li>
 <li>www.reddit.com (872)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (570)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (369)</li>
 <li>kdp.amazon.com (366)</li>
 <li>outlook.office365.com (365)</li>
-<li>www.theguardian.com (351)</li>
+<li>www.theguardian.com (360)</li>
 <li>web.whatsapp.com (343)</li>
 <li>login.microsoftonline.com (342)</li>
 <li>bsky.app (311)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:22 m.facebook.com</li>
+<ul><li> 11:50 m.facebook.com</li>
+<li class='same'> 11:49 m.facebook.com</li>
+<li class='same'> 11:48 m.facebook.com</li>
+<li class='same'> 11:39 m.facebook.com</li>
+<li class='same'> 11:37 m.facebook.com</li>
+<li class='same'> 11:36 m.facebook.com</li>
+<li> 11:36 www.theguardian.com</li>
+<li> 11:36 m.facebook.com</li>
+<li class='same'> 11:35 m.facebook.com</li>
+<li> 11:35 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:02 www.google.com</li>
+<li> 11:02 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:32 www.theguardian.com</li>
+<li class='same'> 10:31 www.theguardian.com</li>
+<li class='same'> 10:30 www.theguardian.com</li>
+<li> 10:29 www.google.com</li>
+<li class='same'> 10:28 www.google.com</li>
+<li> 10:27 www.theguardian.com</li>
+<li> 10:27 www.google.com</li>
+<li class='same'> 10:26 www.google.com</li>
+<li> 10:26 www.theguardian.com</li>
+<li class='same'> 10:25 www.theguardian.com</li>
+<li class='same'> 10:24 www.theguardian.com</li>
+<li> 10:24 m.facebook.com</li>
+<li class='same'> 10:22 m.facebook.com</li>
 <li class='same'> 10:16 m.facebook.com</li>
 <li class='same'> 10:14 m.facebook.com</li>
 <li class='same'> 10:13 m.facebook.com</li>
