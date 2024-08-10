@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7081)</li>
+<ol><li>www.google.com (7089)</li>
 <li>mail.google.com (5191)</li>
 <li>outlook.office.com (2724)</li>
 <li>www.facebook.com (2238)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1054)</li>
 <li>github.com (987)</li>
-<li>m.facebook.com (910)</li>
+<li>m.facebook.com (915)</li>
 <li>www.reddit.com (872)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (570)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (369)</li>
 <li>kdp.amazon.com (367)</li>
 <li>outlook.office365.com (365)</li>
-<li>www.theguardian.com (360)</li>
+<li>www.theguardian.com (362)</li>
 <li>web.whatsapp.com (343)</li>
 <li>login.microsoftonline.com (342)</li>
 <li>bsky.app (311)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 10/08/24</H3>
+
+<br>
+
+<ul><li> 19:34 www.natesilver.net</li>
+<li> 19:33 www.google.com</li>
+<li class='same'> 19:32 www.google.com</li>
+<li> 19:28 trending.knowyourmeme.com</li>
+<li> 19:28 knowyourmeme.com</li>
+<li class='same'> 19:27 knowyourmeme.com</li>
+<li> 19:27 www.google.com</li>
+<li> 19:27 m.facebook.com</li>
+<li> 19:27 knowyourmeme.com</li>
+<li> 19:27 www.google.com</li>
+</ul>
 
 <br>
 
@@ -141,7 +155,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:50 m.facebook.com</li>
+<ul><li> 14:44 m.facebook.com</li>
+<li class='same'> 14:43 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:02 www.theguardian.com</li>
+<li class='same'> 13:01 www.theguardian.com</li>
+<li> 13:00 www.google.com</li>
+<li> 13:00 www.theatlantic.com</li>
+<li> 13:00 accounts.theatlantic.com</li>
+<li> 13:00 www.theatlantic.com</li>
+<li> 13:00 www.google.com</li>
+<li> 12:55 amp.theguardian.com</li>
+<li> 12:55 www.google.com</li>
+<li> 12:55 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:06 m.facebook.com</li>
+<li class='same'> 11:50 m.facebook.com</li>
 <li class='same'> 11:49 m.facebook.com</li>
 <li class='same'> 11:48 m.facebook.com</li>
 <li class='same'> 11:39 m.facebook.com</li>
@@ -60701,6 +60736,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 23:27 www.google.com</li>
 <li> 23:22 knowyourmeme.com</li>
+<li> 23:22 www.google.com</li>
 </ul>
 
 <H3>Tuesday, 15/08/23</H3>
