@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7091)</li>
+<ol><li>www.google.com (7095)</li>
 <li>mail.google.com (5191)</li>
 <li>outlook.office.com (2724)</li>
 <li>www.facebook.com (2238)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1054)</li>
 <li>github.com (987)</li>
 <li>m.facebook.com (918)</li>
-<li>www.reddit.com (872)</li>
+<li>www.reddit.com (877)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (570)</li>
 <li>chat.openai.com (569)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (369)</li>
 <li>kdp.amazon.com (367)</li>
 <li>outlook.office365.com (365)</li>
-<li>www.theguardian.com (362)</li>
+<li>www.theguardian.com (364)</li>
 <li>web.whatsapp.com (343)</li>
 <li>login.microsoftonline.com (342)</li>
 <li>bsky.app (311)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:11 www.google.com</li>
+<ul><li> 17:21 www.theguardian.com</li>
+<li class='same'> 17:20 www.theguardian.com</li>
+<li> 17:20 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:33 www.reddit.com</li>
+<li class='same'> 16:16 www.reddit.com</li>
+<li> 16:16 www.google.com</li>
+<li> 16:14 www.chilesandsmoke.com</li>
+<li> 16:13 www.reddit.com</li>
+<li> 16:13 www.google.com</li>
+<li> 16:12 www.reddit.com</li>
+<li> 16:12 www.google.com</li>
+<li> 16:11 realfood.tesco.com</li>
+<li> 16:11 www.google.com</li>
+<li> 16:11 realfood.tesco.com</li>
+<li> 16:11 www.google.com</li>
 </ul>
 
 <br>
