@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7089)</li>
+<ol><li>www.google.com (7091)</li>
 <li>mail.google.com (5191)</li>
 <li>outlook.office.com (2724)</li>
 <li>www.facebook.com (2238)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1054)</li>
 <li>github.com (987)</li>
-<li>m.facebook.com (915)</li>
+<li>m.facebook.com (918)</li>
 <li>www.reddit.com (872)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (570)</li>
@@ -104,11 +104,33 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 11/08/24</H3>
+
+<br>
+
+<ul><li> 16:11 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:53 inews.co.uk</li>
+<li> 07:53 www.google.com</li>
+<li> 07:52 m.facebook.com</li>
+</ul>
+
 <H3>Saturday, 10/08/24</H3>
 
 <br>
 
-<ul><li> 19:34 www.natesilver.net</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:08 m.facebook.com</li>
+<li class='same'> 20:05 m.facebook.com</li>
+<li> 20:04 eu.northjersey.com</li>
+<li> 20:03 www.natesilver.net</li>
+<li class='same'> 19:34 www.natesilver.net</li>
 <li> 19:33 www.google.com</li>
 <li class='same'> 19:32 www.google.com</li>
 <li> 19:28 trending.knowyourmeme.com</li>
