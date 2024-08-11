@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7096)</li>
+<ol><li>www.google.com (7098)</li>
 <li>mail.google.com (5191)</li>
 <li>outlook.office.com (2724)</li>
 <li>www.facebook.com (2238)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1054)</li>
 <li>github.com (987)</li>
-<li>m.facebook.com (923)</li>
+<li>m.facebook.com (924)</li>
 <li>www.reddit.com (877)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (570)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:34 m.facebook.com</li>
+<ul><li> 20:29 www.google.com</li>
+<li> 20:21 www.carcassonnecentral.com</li>
+<li> 20:21 www.google.com</li>
+<li> 20:21 www.natesilver.net</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:35 www.natesilver.net</li>
+<li> 19:35 www.nytimes.com</li>
+<li> 19:35 m.facebook.com</li>
+<li class='same'> 19:34 m.facebook.com</li>
 <li class='same'> 19:29 m.facebook.com</li>
 <li class='same'> 19:28 m.facebook.com</li>
 <li class='same'> 19:27 m.facebook.com</li>
