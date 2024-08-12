@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1055)</li>
 <li>github.com (988)</li>
 <li>m.facebook.com (924)</li>
-<li>www.reddit.com (878)</li>
+<li>www.reddit.com (879)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (570)</li>
 <li>chat.openai.com (569)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:39 www.reddit.com</li>
+<ul><li> 09:40 www.reddit.com</li>
+<li class='same'> 09:39 www.reddit.com</li>
 <li> 09:38 outlook.office.com</li>
 <li> 09:38 outlook.office365.com</li>
 <li> 09:38 outlook.office.com</li>
