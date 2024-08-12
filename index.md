@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7109)</li>
-<li>mail.google.com (5197)</li>
-<li>outlook.office.com (2732)</li>
+<li>mail.google.com (5198)</li>
+<li>outlook.office.com (2733)</li>
 <li>www.facebook.com (2240)</li>
 <li>docs.google.com (1613)</li>
 <li>calendar.google.com (1150)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (472)</li>
 <li>www.linkedin.com (434)</li>
 <li>teams.microsoft.com (396)</li>
-<li>kdp.amazon.com (379)</li>
+<li>kdp.amazon.com (380)</li>
 <li>www.theguardian.com (372)</li>
 <li>forum.artofmemory.com (370)</li>
 <li>drive.google.com (369)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:17 cc.amazon.com</li>
+<ul><li> 11:29 mail.google.com</li>
+<li> 11:29 outlook.office.com</li>
+<li> 11:28 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 11:28 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:20 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
+<li> 11:20 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 11:20 kdp.amazon.com</li>
+<li> 11:17 cc.amazon.com</li>
 <li> 11:16 <a href="https://joereddington.com/2023/12/07/i-m-producing-the-kindle-version-of-advanced-memory-palaces.html">I’m producing the kindle version of Advanced Memory Palaces | Joe Reddington</a></li>
 <li> 11:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
