@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7109)</li>
-<li>mail.google.com (5198)</li>
-<li>outlook.office.com (2738)</li>
-<li>www.facebook.com (2242)</li>
+<ol><li>www.google.com (7112)</li>
+<li>mail.google.com (5200)</li>
+<li>outlook.office.com (2742)</li>
+<li>www.facebook.com (2247)</li>
 <li>docs.google.com (1613)</li>
-<li>calendar.google.com (1150)</li>
+<li>calendar.google.com (1151)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1057)</li>
 <li>github.com (989)</li>
 <li>m.facebook.com (924)</li>
 <li>www.reddit.com (879)</li>
 <li>whitewaterwriters.com (598)</li>
-<li>gmail.com (572)</li>
+<li>gmail.com (573)</li>
 <li>chat.openai.com (569)</li>
 <li>app.qbo.intuit.com (551)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (434)</li>
-<li>teams.microsoft.com (398)</li>
-<li>kdp.amazon.com (380)</li>
+<li>www.linkedin.com (436)</li>
+<li>teams.microsoft.com (401)</li>
+<li>kdp.amazon.com (382)</li>
+<li>forum.artofmemory.com (372)</li>
 <li>www.theguardian.com (372)</li>
-<li>forum.artofmemory.com (371)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (367)</li>
-<li>login.microsoftonline.com (345)</li>
+<li>login.microsoftonline.com (347)</li>
 <li>web.whatsapp.com (345)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:32 teams.microsoft.com</li>
+<ul><li> 14:28 mail.google.com</li>
+<li class='same'> 14:27 mail.google.com</li>
+<li> 14:27 gmail.com</li>
+<li> 14:27 <a href="https://joereddington.com/2024/08/12/version12.html">Memory Book Update | Joe Reddington</a></li>
+<li> 14:27 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 14:27 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 14:27 kdp.amazon.com</li>
+<li class='same'> 14:26 kdp.amazon.com</li>
+<li> 14:25 outlook.office.com</li>
+<li> 14:25 forum.artofmemory.com</li>
+<li> 14:16 www.linkedin.com</li>
+<li class='same'> 14:15 www.linkedin.com</li>
+<li> 14:15 teams.microsoft.com</li>
+<li> 14:15 login.microsoftonline.com</li>
+<li> 14:14 teams.microsoft.com</li>
+<li> 14:14 myview.rhul.zellis.com</li>
+<li> 14:13 login.microsoftonline.com</li>
+<li> 14:13 myview.rhul.zellis.com</li>
+<li> 14:12 www.facebook.com</li>
+<li class='same'> 14:11 www.facebook.com</li>
+<li class='same'> 14:08 www.facebook.com</li>
+<li class='same'> 14:07 www.facebook.com</li>
+<li> 14:03 www.google.com</li>
+<li> 14:03 outlook.office.com</li>
+<li> 14:03 www.google.com</li>
+<li class='same'> 14:02 www.google.com</li>
+<li> 14:01 calendar.google.com</li>
+<li> 13:56 www.facebook.com</li>
+<li> 13:32 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:01 teams.microsoft.com</li>
+<li> 13:01 outlook.office.com</li>
+<li> 12:32 teams.microsoft.com</li>
 <li class='same'> 12:25 teams.microsoft.com</li>
 <li> 12:24 web.whatsapp.com</li>
 <li> 12:23 outlook.office.com</li>
