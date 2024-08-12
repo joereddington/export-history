@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7102)</li>
+<ol><li>www.google.com (7104)</li>
 <li>mail.google.com (5191)</li>
-<li>outlook.office.com (2724)</li>
+<li>outlook.office.com (2728)</li>
 <li>www.facebook.com (2240)</li>
 <li>docs.google.com (1612)</li>
 <li>calendar.google.com (1148)</li>
@@ -87,13 +87,13 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (472)</li>
 <li>www.linkedin.com (433)</li>
 <li>teams.microsoft.com (396)</li>
-<li>www.theguardian.com (371)</li>
+<li>www.theguardian.com (372)</li>
 <li>forum.artofmemory.com (370)</li>
 <li>drive.google.com (369)</li>
 <li>kdp.amazon.com (368)</li>
-<li>outlook.office365.com (365)</li>
+<li>outlook.office365.com (366)</li>
+<li>login.microsoftonline.com (344)</li>
 <li>web.whatsapp.com (343)</li>
-<li>login.microsoftonline.com (342)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>www.ebay.co.uk (259)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:25 www.theguardian.com</li>
+<ul><li> 08:32 outlook.office.com</li>
+<li class='same'> 08:31 outlook.office.com</li>
+<li class='same'> 08:30 outlook.office.com</li>
+<li> 08:30 mysignins.microsoft.com</li>
+<li> 08:30 account.activedirectory.windowsazure.com</li>
+<li> 08:30 login.microsoftonline.com</li>
+<li> 08:30 account.activedirectory.windowsazure.com</li>
+<li> 08:30 login.microsoftonline.com</li>
+<li> 08:30 outlook.office365.com</li>
+<li> 08:30 outlook.office.com</li>
+<li> 08:30 mail.rhul.ac.uk</li>
+<li> 08:30 www.google.com</li>
+<li> 08:26 www.theguardian.com</li>
+<li> 08:26 www.google.com</li>
+<li> 08:25 www.theguardian.com</li>
 <li> 08:25 www.google.com</li>
 <li> 08:19 www.facebook.com</li>
 </ul>
