@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7109)</li>
 <li>mail.google.com (5198)</li>
-<li>outlook.office.com (2733)</li>
+<li>outlook.office.com (2738)</li>
 <li>www.facebook.com (2242)</li>
 <li>docs.google.com (1613)</li>
 <li>calendar.google.com (1150)</li>
@@ -86,14 +86,14 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
 <li>www.linkedin.com (434)</li>
-<li>teams.microsoft.com (396)</li>
+<li>teams.microsoft.com (398)</li>
 <li>kdp.amazon.com (380)</li>
 <li>www.theguardian.com (372)</li>
 <li>forum.artofmemory.com (371)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (367)</li>
-<li>login.microsoftonline.com (344)</li>
-<li>web.whatsapp.com (344)</li>
+<li>login.microsoftonline.com (345)</li>
+<li>web.whatsapp.com (345)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>www.ebay.co.uk (259)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:48 forum.artofmemory.com</li>
+<ul><li> 12:32 teams.microsoft.com</li>
+<li class='same'> 12:25 teams.microsoft.com</li>
+<li> 12:24 web.whatsapp.com</li>
+<li> 12:23 outlook.office.com</li>
+<li> 12:19 claude.ai</li>
+<li class='same'> 12:18 claude.ai</li>
+<li> 12:07 outlook.office.com</li>
+<li class='same'> 12:06 outlook.office.com</li>
+<li class='same'> 11:59 outlook.office.com</li>
+<li class='same'> 11:58 outlook.office.com</li>
+<li> 11:58 login.microsoftonline.com</li>
+<li> 11:48 forum.artofmemory.com</li>
 <li> 11:48 artofmemory.com</li>
 <li> 11:36 www.facebook.com</li>
 <li class='same'> 11:34 www.facebook.com</li>
