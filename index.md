@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7112)</li>
-<li>mail.google.com (5200)</li>
+<ol><li>www.google.com (7113)</li>
+<li>mail.google.com (5201)</li>
 <li>outlook.office.com (2742)</li>
 <li>www.facebook.com (2247)</li>
 <li>docs.google.com (1613)</li>
@@ -78,14 +78,14 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1057)</li>
 <li>github.com (989)</li>
 <li>m.facebook.com (924)</li>
-<li>www.reddit.com (879)</li>
+<li>www.reddit.com (880)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (573)</li>
 <li>chat.openai.com (569)</li>
 <li>app.qbo.intuit.com (551)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (436)</li>
+<li>www.linkedin.com (437)</li>
 <li>teams.microsoft.com (401)</li>
 <li>kdp.amazon.com (382)</li>
 <li>forum.artofmemory.com (372)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:28 mail.google.com</li>
+<ul><li> 14:32 www.linkedin.com</li>
+<li> 14:31 www.reddit.com</li>
+<li> 14:31 www.google.com</li>
+<li> 14:30 mail.google.com</li>
+<li class='same'> 14:28 mail.google.com</li>
 <li class='same'> 14:27 mail.google.com</li>
 <li> 14:27 gmail.com</li>
 <li> 14:27 <a href="https://joereddington.com/2024/08/12/version12.html">Memory Book Update | Joe Reddington</a></li>
