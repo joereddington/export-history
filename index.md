@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7105)</li>
 <li>mail.google.com (5191)</li>
-<li>outlook.office.com (2728)</li>
+<li>outlook.office.com (2730)</li>
 <li>www.facebook.com (2240)</li>
 <li>docs.google.com (1613)</li>
 <li>calendar.google.com (1150)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1055)</li>
 <li>github.com (988)</li>
 <li>m.facebook.com (924)</li>
-<li>www.reddit.com (877)</li>
+<li>www.reddit.com (878)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (570)</li>
 <li>chat.openai.com (569)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (370)</li>
 <li>drive.google.com (369)</li>
 <li>kdp.amazon.com (368)</li>
-<li>outlook.office365.com (366)</li>
+<li>outlook.office365.com (367)</li>
 <li>login.microsoftonline.com (344)</li>
 <li>web.whatsapp.com (344)</li>
 <li>bsky.app (311)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:19 calendar.google.com</li>
+<ul><li> 09:39 www.reddit.com</li>
+<li> 09:38 outlook.office.com</li>
+<li> 09:38 outlook.office365.com</li>
+<li> 09:38 outlook.office.com</li>
+<li> 09:38 mail.rhul.ac.uk</li>
+<li> 09:19 calendar.google.com</li>
 <li class='same'> 09:14 calendar.google.com</li>
 <li> 09:10 docs.google.com</li>
 <li> 09:10 www.amazon.co.uk</li>
