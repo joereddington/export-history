@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7101)</li>
+<ol><li>www.google.com (7102)</li>
 <li>mail.google.com (5191)</li>
 <li>outlook.office.com (2724)</li>
-<li>www.facebook.com (2239)</li>
+<li>www.facebook.com (2240)</li>
 <li>docs.google.com (1612)</li>
 <li>calendar.google.com (1148)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
@@ -87,8 +87,8 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (472)</li>
 <li>www.linkedin.com (433)</li>
 <li>teams.microsoft.com (396)</li>
+<li>www.theguardian.com (371)</li>
 <li>forum.artofmemory.com (370)</li>
-<li>www.theguardian.com (370)</li>
 <li>drive.google.com (369)</li>
 <li>kdp.amazon.com (368)</li>
 <li>outlook.office365.com (365)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 12/08/24</H3>
+
+<br>
+
+<ul><li> 08:25 www.theguardian.com</li>
+<li> 08:25 www.google.com</li>
+<li> 08:19 www.facebook.com</li>
+</ul>
 
 <br>
 
@@ -15292,7 +15299,6 @@ With number of accesses/minutes in parentheses
 <li> 14:10 www.google.com</li>
 <li> 14:09 moodle.royalholloway.ac.uk</li>
 <li> 14:09 login.microsoftonline.com</li>
-<li> 14:09 eur03.safelinks.protection.outlook.com</li>
 <li> 14:08 outlook.office.com</li>
 <li> 14:07 rhul-my.sharepoint.com</li>
 <li> 14:06 gitlab.cim.rhul.ac.uk</li>
