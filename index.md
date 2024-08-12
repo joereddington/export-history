@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (551)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (433)</li>
+<li>www.linkedin.com (434)</li>
 <li>teams.microsoft.com (396)</li>
 <li>www.theguardian.com (372)</li>
 <li>forum.artofmemory.com (370)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:32 outlook.office.com</li>
+<ul><li> 08:48 www.giantitp.com</li>
+<li> 08:46 feedly.com</li>
+<li> 08:46 www.feedly.com</li>
+<li> 08:46 feedly.com</li>
+<li> 08:45 www.linkedin.com</li>
+<li> 08:32 outlook.office.com</li>
 <li class='same'> 08:31 outlook.office.com</li>
 <li class='same'> 08:30 outlook.office.com</li>
 <li> 08:30 mysignins.microsoft.com</li>
