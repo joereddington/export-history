@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7104)</li>
+<ol><li>www.google.com (7105)</li>
 <li>mail.google.com (5191)</li>
 <li>outlook.office.com (2728)</li>
 <li>www.facebook.com (2240)</li>
-<li>docs.google.com (1612)</li>
-<li>calendar.google.com (1148)</li>
+<li>docs.google.com (1613)</li>
+<li>calendar.google.com (1150)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
-<li>www.amazon.co.uk (1054)</li>
+<li>www.amazon.co.uk (1055)</li>
 <li>github.com (988)</li>
 <li>m.facebook.com (924)</li>
 <li>www.reddit.com (877)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (368)</li>
 <li>outlook.office365.com (366)</li>
 <li>login.microsoftonline.com (344)</li>
-<li>web.whatsapp.com (343)</li>
+<li>web.whatsapp.com (344)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
 <li>www.ebay.co.uk (259)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:51 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 09:19 calendar.google.com</li>
+<li class='same'> 09:14 calendar.google.com</li>
+<li> 09:10 docs.google.com</li>
+<li> 09:10 www.amazon.co.uk</li>
+<li> 09:10 www.google.com</li>
+<li> 09:08 web.whatsapp.com</li>
+<li> 08:51 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 08:51 github.com</li>
 <li> 08:49 www.giantitp.com</li>
 <li class='same'> 08:48 www.giantitp.com</li>
