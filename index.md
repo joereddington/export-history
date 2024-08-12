@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1148)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1054)</li>
-<li>github.com (987)</li>
+<li>github.com (988)</li>
 <li>m.facebook.com (924)</li>
 <li>www.reddit.com (877)</li>
 <li>whitewaterwriters.com (598)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:48 www.giantitp.com</li>
+<ul><li> 08:51 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 08:51 github.com</li>
+<li> 08:49 www.giantitp.com</li>
+<li class='same'> 08:48 www.giantitp.com</li>
 <li> 08:46 feedly.com</li>
 <li> 08:46 www.feedly.com</li>
 <li> 08:46 feedly.com</li>
