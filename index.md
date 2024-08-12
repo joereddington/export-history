@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1613)</li>
 <li>calendar.google.com (1150)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
-<li>www.amazon.co.uk (1056)</li>
+<li>www.amazon.co.uk (1057)</li>
 <li>github.com (989)</li>
 <li>m.facebook.com (924)</li>
 <li>www.reddit.com (879)</li>
@@ -87,8 +87,8 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (472)</li>
 <li>www.linkedin.com (434)</li>
 <li>teams.microsoft.com (396)</li>
+<li>kdp.amazon.com (375)</li>
 <li>www.theguardian.com (372)</li>
-<li>kdp.amazon.com (370)</li>
 <li>forum.artofmemory.com (370)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (367)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:59 kdp.amazon.com</li>
+<ul><li> 11:09 kdp.amazon.com</li>
+<li> 11:06 www.amazon.co.uk</li>
+<li> 11:06 kdp.amazon.com</li>
+<li class='same'> 11:05 kdp.amazon.com</li>
+<li class='same'> 11:04 kdp.amazon.com</li>
+<li class='same'> 11:03 kdp.amazon.com</li>
+<li class='same'> 10:59 kdp.amazon.com</li>
 <li> 10:48 www.google.com</li>
 <li> 10:41 claude.ai</li>
 <li class='same'> 10:37 claude.ai</li>
