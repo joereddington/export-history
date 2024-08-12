@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7117)</li>
+<ol><li>www.google.com (7120)</li>
 <li>mail.google.com (5203)</li>
 <li>outlook.office.com (2743)</li>
-<li>www.facebook.com (2247)</li>
+<li>www.facebook.com (2248)</li>
 <li>docs.google.com (1624)</li>
-<li>calendar.google.com (1151)</li>
+<li>calendar.google.com (1152)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
-<li>www.amazon.co.uk (1058)</li>
+<li>www.amazon.co.uk (1060)</li>
 <li>github.com (990)</li>
 <li>m.facebook.com (924)</li>
 <li>www.reddit.com (880)</li>
 <li>whitewaterwriters.com (598)</li>
 <li>gmail.com (574)</li>
-<li>chat.openai.com (569)</li>
+<li>chat.openai.com (570)</li>
 <li>app.qbo.intuit.com (551)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (437)</li>
+<li>www.linkedin.com (438)</li>
 <li>teams.microsoft.com (401)</li>
 <li>kdp.amazon.com (382)</li>
 <li>forum.artofmemory.com (372)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:09 www.natwest.com</li>
+<ul><li> 16:33 chatgpt.com</li>
+<li class='same'> 16:32 chatgpt.com</li>
+<li> 16:32 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:00 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:58 www.google.com</li>
+<li class='same'> 15:56 www.google.com</li>
+<li> 15:49 www.instagram.com</li>
+<li> 15:48 <a href="https://en.wikipedia.org/wiki/Athletics_at_the_1924_Summer_Olympics_%E2%80%93_Men%27s_100_metres">Athletics at the 1924 Summer Olympics – Men's 100 metres - Wikipedia</a></li>
+<li> 15:48 www.google.com</li>
+<li> 15:47 www.instagram.com</li>
+<li> 15:41 www.amazon.co.uk</li>
+<li class='same'> 15:40 www.amazon.co.uk</li>
+<li> 15:39 calendar.google.com</li>
+<li> 15:38 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:36 www.facebook.com</li>
+<li> 15:35 www.linkedin.com</li>
+<li> 15:09 www.natwest.com</li>
 <li> 15:09 www.google.com</li>
 <li> 15:07 www.moneysavingexpert.com</li>
 <li> 15:05 www.google.com</li>
