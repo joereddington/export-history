@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7117)</li>
 <li>mail.google.com (5203)</li>
-<li>outlook.office.com (2745)</li>
+<li>outlook.office.com (2748)</li>
 <li>www.facebook.com (2248)</li>
 <li>docs.google.com (1624)</li>
 <li>calendar.google.com (1152)</li>
@@ -85,10 +85,10 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (551)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (438)</li>
+<li>www.linkedin.com (440)</li>
 <li>teams.microsoft.com (401)</li>
-<li>kdp.amazon.com (385)</li>
-<li>forum.artofmemory.com (372)</li>
+<li>kdp.amazon.com (390)</li>
+<li>forum.artofmemory.com (376)</li>
 <li>www.theguardian.com (372)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (367)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:44 outlook.office.com</li>
+<ul><li> 07:55 kdp.amazon.com</li>
+<li class='same'> 07:54 kdp.amazon.com</li>
+<li> 07:53 www.linkedin.com</li>
+<li class='same'> 07:52 www.linkedin.com</li>
+<li> 07:52 outlook.office.com</li>
+<li> 07:51 forum.artofmemory.com</li>
+<li class='same'> 07:50 forum.artofmemory.com</li>
+<li class='same'> 07:49 forum.artofmemory.com</li>
+<li> 07:49 kdp.amazon.com</li>
+<li> 07:49 forum.artofmemory.com</li>
+<li> 07:48 artofmemory.com</li>
+<li> 07:48 kdpreports.amazon.com</li>
+<li> 07:47 kdp.amazon.com</li>
+<li> 07:47 kdpreports.amazon.com</li>
+<li> 07:47 kdp.amazon.com</li>
+<li> 07:47 outlook.office.com</li>
+<li class='same'> 07:46 outlook.office.com</li>
+<li class='same'> 07:44 outlook.office.com</li>
 <li class='same'> 07:43 outlook.office.com</li>
 <li> 07:39 sourceforge.net</li>
 <li class='same'> 07:38 sourceforge.net</li>
