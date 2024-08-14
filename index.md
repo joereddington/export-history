@@ -82,17 +82,17 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (600)</li>
 <li>gmail.com (574)</li>
 <li>chat.openai.com (570)</li>
-<li>app.qbo.intuit.com (551)</li>
+<li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
 <li>www.linkedin.com (440)</li>
-<li>teams.microsoft.com (401)</li>
+<li>teams.microsoft.com (400)</li>
 <li>kdp.amazon.com (390)</li>
 <li>forum.artofmemory.com (376)</li>
 <li>www.theguardian.com (372)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (367)</li>
-<li>login.microsoftonline.com (348)</li>
+<li>login.microsoftonline.com (347)</li>
 <li>web.whatsapp.com (346)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
@@ -15112,13 +15112,9 @@ With number of accesses/minutes in parentheses
 <li> 10:54 <a href="https://xkcd.com/">xkcd: Meteor Shower PSA</a></li>
 <li> 10:54 mail.google.com</li>
 <li> 10:53 app.qbo.intuit.com</li>
-<li> 10:53 financialdocument.platform.intuit.com</li>
-<li> 10:53 app.qbo.intuit.com</li>
 <li class='same'> 10:52 app.qbo.intuit.com</li>
 <li class='same'> 10:51 app.qbo.intuit.com</li>
 <li> 10:51 www.amazon.co.uk</li>
-<li> 10:51 app.qbo.intuit.com</li>
-<li> 10:51 financialdocument.platform.intuit.com</li>
 <li> 10:51 app.qbo.intuit.com</li>
 <li> 10:49 www.amazon.co.uk</li>
 <li class='same'> 10:48 www.amazon.co.uk</li>
@@ -15175,8 +15171,6 @@ With number of accesses/minutes in parentheses
 <li> 09:42 www.google.com</li>
 <li> 09:29 <a href="https://en.wikipedia.org/wiki/Stan_Lee">Stan Lee - Wikipedia</a></li>
 <li> 09:28 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 09:27 teams.microsoft.com</li>
-<li> 09:27 login.microsoftonline.com</li>
 <li> 09:27 teams.microsoft.com</li>
 <li> 09:27 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 </ul>
