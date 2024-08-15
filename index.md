@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7133)</li>
-<li>mail.google.com (5203)</li>
-<li>outlook.office.com (2757)</li>
+<ol><li>www.google.com (7136)</li>
+<li>mail.google.com (5207)</li>
+<li>outlook.office.com (2760)</li>
 <li>www.facebook.com (2248)</li>
 <li>docs.google.com (1624)</li>
-<li>calendar.google.com (1152)</li>
+<li>calendar.google.com (1154)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.amazon.co.uk (1060)</li>
 <li>github.com (991)</li>
 <li>m.facebook.com (924)</li>
 <li>www.reddit.com (882)</li>
 <li>whitewaterwriters.com (600)</li>
-<li>gmail.com (574)</li>
+<li>gmail.com (576)</li>
 <li>chat.openai.com (571)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (372)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (367)</li>
-<li>login.microsoftonline.com (348)</li>
+<li>login.microsoftonline.com (350)</li>
 <li>web.whatsapp.com (346)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:21 forum.artofmemory.com</li>
+<ul><li> 08:03 myview.rhul.zellis.com</li>
+<li> 08:03 login.microsoftonline.com</li>
+<li> 08:03 myview.rhul.zellis.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:30 mail.google.com</li>
+<li> 07:28 royalhollowayucu.wordpress.com</li>
+<li> 07:28 mail.google.com</li>
+<li class='same'> 07:27 mail.google.com</li>
+<li> 07:27 gmail.com</li>
+<li> 07:27 mail.google.com</li>
+<li> 07:27 gmail.com</li>
+<li> 07:27 outlook.office.com</li>
+<li> 07:26 www.google.com</li>
+<li> 07:26 calendar.google.com</li>
+<li class='same'> 07:25 calendar.google.com</li>
+<li> 07:25 myview.rhul.zellis.com</li>
+<li class='same'> 07:24 myview.rhul.zellis.com</li>
+<li> 07:24 login.microsoftonline.com</li>
+<li> 07:24 myview.rhul.zellis.com</li>
+<li> 07:24 outlook.office.com</li>
+<li> 07:24 www.giantitp.com</li>
+<li> 07:23 outlook.office.com</li>
+<li> 07:22 www.google.com</li>
+<li> 07:22 planetbanatt.net</li>
+<li> 07:21 www.magneticmemorymethod.com</li>
+<li> 07:21 www.google.com</li>
+<li> 07:21 forum.artofmemory.com</li>
 <li class='same'> 07:20 forum.artofmemory.com</li>
 <li class='same'> 07:19 forum.artofmemory.com</li>
 <li class='same'> 07:18 forum.artofmemory.com</li>
