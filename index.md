@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7155)</li>
+<ol><li>www.google.com (7157)</li>
 <li>mail.google.com (5207)</li>
 <li>outlook.office.com (2763)</li>
-<li>www.facebook.com (2259)</li>
+<li>www.facebook.com (2264)</li>
 <li>docs.google.com (1624)</li>
 <li>calendar.google.com (1154)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
@@ -83,12 +83,12 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (576)</li>
 <li>chat.openai.com (572)</li>
 <li>app.qbo.intuit.com (549)</li>
-<li>tvtropes.org (513)</li>
+<li>tvtropes.org (519)</li>
 <li>en.m.wikipedia.org (472)</li>
 <li>www.linkedin.com (442)</li>
 <li>kdp.amazon.com (402)</li>
 <li>teams.microsoft.com (400)</li>
-<li>forum.artofmemory.com (392)</li>
+<li>forum.artofmemory.com (394)</li>
 <li>www.theguardian.com (379)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (367)</li>
@@ -108,6 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:47 www.buzzfeed.com</li>
+<li class='same'> 21:46 www.buzzfeed.com</li>
+<li class='same'> 21:43 www.buzzfeed.com</li>
+<li class='same'> 21:42 www.buzzfeed.com</li>
+<li class='same'> 21:39 www.buzzfeed.com</li>
+<li class='same'> 21:31 www.buzzfeed.com</li>
+<li class='same'> 21:26 www.buzzfeed.com</li>
+<li class='same'> 21:24 www.buzzfeed.com</li>
+<li class='same'> 21:22 www.buzzfeed.com</li>
+<li class='same'> 21:21 www.buzzfeed.com</li>
+<li> 21:21 www.facebook.com</li>
+<li class='same'> 21:19 www.facebook.com</li>
+<li class='same'> 21:15 www.facebook.com</li>
+<li> 21:14 www.lutontoday.co.uk</li>
+<li> 21:14 l.facebook.com</li>
+<li> 21:14 forum.artofmemory.com</li>
+<li class='same'> 21:13 forum.artofmemory.com</li>
+<li> 21:13 artofmemory.com</li>
+<li> 21:13 www.facebook.com</li>
+<li> 21:11 tvtropes.org</li>
+<li class='same'> 21:06 tvtropes.org</li>
+<li class='same'> 21:03 tvtropes.org</li>
+<li class='same'> 21:01 tvtropes.org</li>
+<li class='same'> 21:00 tvtropes.org</li>
+<li class='same'> 20:59 tvtropes.org</li>
+<li> 20:59 www.google.com</li>
+<li> 20:59 scrubs.fandom.com</li>
+<li class='same'> 20:58 scrubs.fandom.com</li>
+<li> 20:58 medium.com</li>
+<li> 20:57 www.google.com</li>
+<li> 20:54 <a href="https://joereddington.com/Comics/2024-08-07.html">2024-08-07 | Joe’s Comics</a></li>
+<li> 20:54 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 20:53 chatgpt.com</li>
+</ul>
+
+<br>
+
 <ul><li> 17:30 www.google.com</li>
 <li> 17:23 www.wickes.co.uk</li>
 <li> 17:23 www.google.com</li>
@@ -119,7 +156,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:24 www.theguardian.com</li>
-<li> 16:21 www.facebook.com</li>
+<li> 16:23 www.facebook.com</li>
+<li class='same'> 16:21 www.facebook.com</li>
 <li> 16:20 <a href="https://xkcd.com/2970/">xkcd: Meteor Shower PSA</a></li>
 <li> 16:20 <a href="https://xkcd.com/2971/">xkcd: Celestial Event</a></li>
 <li> 16:19 <a href="https://xkcd.com/">xkcd: Helium Synthesis</a></li>
