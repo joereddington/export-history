@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7137)</li>
+<ol><li>www.google.com (7140)</li>
 <li>mail.google.com (5207)</li>
 <li>outlook.office.com (2761)</li>
-<li>www.facebook.com (2248)</li>
+<li>www.facebook.com (2256)</li>
 <li>docs.google.com (1624)</li>
 <li>calendar.google.com (1154)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
@@ -85,11 +85,11 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (440)</li>
+<li>www.linkedin.com (442)</li>
 <li>teams.microsoft.com (400)</li>
 <li>kdp.amazon.com (391)</li>
-<li>forum.artofmemory.com (386)</li>
-<li>www.theguardian.com (372)</li>
+<li>forum.artofmemory.com (389)</li>
+<li>www.theguardian.com (374)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (367)</li>
 <li>login.microsoftonline.com (351)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:44 chatgpt.com</li>
+<ul><li> 15:40 www.google.com</li>
+<li> 15:35 www.natesilver.net</li>
+<li> 15:33 www.theguardian.com</li>
+<li class='same'> 15:31 www.theguardian.com</li>
+<li> 15:31 www.linkedin.com</li>
+<li class='same'> 15:30 www.linkedin.com</li>
+<li> 15:30 forum.artofmemory.com</li>
+<li class='same'> 15:29 forum.artofmemory.com</li>
+<li class='same'> 15:28 forum.artofmemory.com</li>
+<li> 15:28 artofmemory.com</li>
+<li> 15:23 www.facebook.com</li>
+<li class='same'> 15:19 www.facebook.com</li>
+<li class='same'> 15:18 www.facebook.com</li>
+<li> 15:16 www.google.com</li>
+<li> 15:15 www.facebook.com</li>
+<li class='same'> 15:14 www.facebook.com</li>
+<li class='same'> 15:11 www.facebook.com</li>
+<li class='same'> 15:09 www.facebook.com</li>
+<li class='same'> 15:08 www.facebook.com</li>
+<li> 14:54 docs.darktable.org</li>
+<li> 14:54 discuss.pixls.us</li>
+<li class='same'> 14:53 discuss.pixls.us</li>
+<li> 14:53 www.google.com</li>
+<li> 14:52 <a href="https://www.youtube.com/watch?v=v8Z63QZ1IVI&t=413s">(87) darktable ep 057 - The Filmic RGB module - YouTube</a></li>
+<li> 14:49 <a href="https://www.youtube.com/watch?v=Cns-7tWEdSI">(87) Darktable 4.4 Filmic RGB Module BASICS, more Highlight Reconstruction and Exposure Correction. - YouTube</a></li>
+<li> 14:49 <a href="https://www.youtube.com/results?search_query=darktable+filmic+rgb+bruce">(87) darktable filmic rgb bruce - YouTube</a></li>
+<li> 14:44 chatgpt.com</li>
 <li class='same'> 14:43 chatgpt.com</li>
 <li> 14:43 chat.openai.com</li>
 <li> 14:42 www.google.com</li>
