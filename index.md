@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7117)</li>
+<ol><li>www.google.com (7133)</li>
 <li>mail.google.com (5203)</li>
-<li>outlook.office.com (2748)</li>
+<li>outlook.office.com (2757)</li>
 <li>www.facebook.com (2248)</li>
 <li>docs.google.com (1624)</li>
 <li>calendar.google.com (1152)</li>
@@ -78,21 +78,21 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1060)</li>
 <li>github.com (991)</li>
 <li>m.facebook.com (924)</li>
-<li>www.reddit.com (880)</li>
+<li>www.reddit.com (882)</li>
 <li>whitewaterwriters.com (600)</li>
 <li>gmail.com (574)</li>
-<li>chat.openai.com (570)</li>
+<li>chat.openai.com (571)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (513)</li>
 <li>en.m.wikipedia.org (472)</li>
 <li>www.linkedin.com (440)</li>
 <li>teams.microsoft.com (400)</li>
-<li>kdp.amazon.com (390)</li>
-<li>forum.artofmemory.com (376)</li>
+<li>kdp.amazon.com (391)</li>
+<li>forum.artofmemory.com (386)</li>
 <li>www.theguardian.com (372)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (367)</li>
-<li>login.microsoftonline.com (347)</li>
+<li>login.microsoftonline.com (348)</li>
 <li>web.whatsapp.com (346)</li>
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (286)</li>
@@ -104,7 +104,95 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 15/08/24</H3>
+
+<br>
+
+<ul><li> 07:21 forum.artofmemory.com</li>
+<li class='same'> 07:20 forum.artofmemory.com</li>
+<li class='same'> 07:19 forum.artofmemory.com</li>
+<li class='same'> 07:18 forum.artofmemory.com</li>
+<li class='same'> 07:16 forum.artofmemory.com</li>
+<li class='same'> 07:15 forum.artofmemory.com</li>
+<li class='same'> 07:14 forum.artofmemory.com</li>
+<li class='same'> 07:13 forum.artofmemory.com</li>
+<li class='same'> 07:12 forum.artofmemory.com</li>
+<li> 07:11 artofmemory.com</li>
+<li> 07:11 forum.artofmemory.com</li>
+<li> 07:11 artofmemory.com</li>
+<li> 07:09 kdpreports.amazon.com</li>
+<li> 07:09 kdp.amazon.com</li>
+<li> 07:09 x.com</li>
+<li> 07:09 twitter.com</li>
+<li> 07:08 www.google.com</li>
+<li> 07:08 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:08 outlook.office.com</li>
+<li class='same'> 07:07 outlook.office.com</li>
+<li class='same'> 07:06 outlook.office.com</li>
+<li class='same'> 07:05 outlook.office.com</li>
+<li class='same'> 07:04 outlook.office.com</li>
+<li class='same'> 07:01 outlook.office.com</li>
+<li class='same'> 07:00 outlook.office.com</li>
+<li class='same'> 06:59 outlook.office.com</li>
+<li> 06:56 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 06:56 outlook.office.com</li>
+<li> 06:56 login.microsoftonline.com</li>
+</ul>
+
+<H3>Wednesday, 14/08/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 13:43 www.google.com</li>
+<li> 13:40 photos.google.com</li>
+<li> 13:40 www.google.com</li>
+<li> 13:40 chatgpt.com</li>
+<li> 13:40 chat.openai.com</li>
+<li> 13:39 www.reddit.com</li>
+<li> 13:38 www.panels.app</li>
+<li> 13:38 www.google.com</li>
+<li> 13:30 womenwriteaboutcomics.com</li>
+<li class='same'> 13:27 womenwriteaboutcomics.com</li>
+<li> 13:27 www.google.com</li>
+<li> 13:26 www.dsource.in</li>
+<li> 13:26 www.google.com</li>
+<li> 13:24 apps.apple.com</li>
+<li> 13:24 www.google.com</li>
+<li class='same'> 13:23 www.google.com</li>
+<li> 13:21 <a href="https://joereddington.com/Comics/2024-08-07.html">2024-08-07 | Joe’s Comics</a></li>
+<li> 13:21 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 13:21 www.google.com</li>
+<li> 13:20 www.w3schools.com</li>
+<li> 13:20 www.google.com</li>
+<li> 13:19 www.reddit.com</li>
+<li> 13:19 www.google.com</li>
+<li> 13:18 photos.google.com</li>
+<li class='same'> 13:17 photos.google.com</li>
+<li class='same'> 13:16 photos.google.com</li>
+<li> 13:16 www.picbackman.com</li>
+<li> 13:16 www.google.com</li>
+<li> 13:14 www.theverge.com</li>
+<li> 13:14 www.google.com</li>
+<li> 13:14 photos.google.com</li>
+<li class='same'> 13:13 photos.google.com</li>
+<li> 13:13 www.google.com</li>
+<li> 13:13 photos.google.com</li>
+<li class='same'> 13:12 photos.google.com</li>
+<li class='same'> 13:11 photos.google.com</li>
+<li> 13:11 www.google.com</li>
+<li> 13:10 webapps.stackexchange.com</li>
+<li> 13:10 www.google.com</li>
+</ul>
+
 <H3>Tuesday, 13/08/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
