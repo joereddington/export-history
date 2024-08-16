@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:47 www.buzzfeed.com</li>
+<ul><li> 22:32 www.buzzfeed.com</li>
+<li> 22:32 www.buzzfeednews.com</li>
+<li> 22:32 www.buzzfeed.com</li>
+<li class='same'> 22:31 www.buzzfeed.com</li>
+<li class='same'> 22:20 www.buzzfeed.com</li>
+<li class='same'> 22:10 www.buzzfeed.com</li>
+<li class='same'> 22:09 www.buzzfeed.com</li>
+<li class='same'> 22:01 www.buzzfeed.com</li>
+<li class='same'> 21:54 www.buzzfeed.com</li>
+<li> 21:54 www.buzzfeednews.com</li>
+<li> 21:54 www.buzzfeed.com</li>
+<li class='same'> 21:47 www.buzzfeed.com</li>
 <li class='same'> 21:46 www.buzzfeed.com</li>
 <li class='same'> 21:43 www.buzzfeed.com</li>
 <li class='same'> 21:42 www.buzzfeed.com</li>
