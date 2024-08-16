@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7156)</li>
+<ol><li>www.google.com (7164)</li>
 <li>mail.google.com (5207)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2264)</li>
@@ -79,17 +79,17 @@ With number of accesses/minutes in parentheses
 <li>github.com (991)</li>
 <li>m.facebook.com (924)</li>
 <li>www.reddit.com (890)</li>
-<li>whitewaterwriters.com (600)</li>
+<li>whitewaterwriters.com (603)</li>
 <li>gmail.com (576)</li>
 <li>chat.openai.com (572)</li>
 <li>app.qbo.intuit.com (549)</li>
-<li>tvtropes.org (519)</li>
+<li>tvtropes.org (526)</li>
 <li>en.m.wikipedia.org (472)</li>
 <li>www.linkedin.com (442)</li>
 <li>kdp.amazon.com (402)</li>
 <li>teams.microsoft.com (400)</li>
 <li>forum.artofmemory.com (394)</li>
-<li>www.theguardian.com (379)</li>
+<li>www.theguardian.com (386)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (367)</li>
 <li>login.microsoftonline.com (351)</li>
@@ -104,7 +104,26 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 16/08/24</H3>
+
+<br>
+
+<ul><li> 08:20 tvtropes.org</li>
+<li> 08:20 www.google.com</li>
+<li> 08:14 www.natesilver.net</li>
+<li> 08:13 www.oddschecker.com</li>
+<li> 08:13 www.google.com</li>
+<li> 08:10 www.theguardian.com</li>
+<li class='same'> 08:07 www.theguardian.com</li>
+<li class='same'> 08:05 www.theguardian.com</li>
+<li> 08:04 www.google.com</li>
+</ul>
+
 <H3>Thursday, 15/08/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -962,6 +981,12 @@ With number of accesses/minutes in parentheses
 <li> 12:49 www.facebook.com</li>
 <li> 12:39 calendar.google.com</li>
 <li class='same'> 12:38 calendar.google.com</li>
+<li> 12:29 www.theguardian.com</li>
+<li class='same'> 12:28 www.theguardian.com</li>
+<li> 12:27 whitewaterwriters.com</li>
+<li class='same'> 12:26 whitewaterwriters.com</li>
+<li class='same'> 12:25 whitewaterwriters.com</li>
+<li> 12:25 tvtropes.org</li>
 <li> 12:24 m.facebook.com</li>
 <li> 12:19 www.facebook.com</li>
 <li class='same'> 12:18 www.facebook.com</li>
@@ -2596,6 +2621,8 @@ With number of accesses/minutes in parentheses
 <li> 21:05 <a href="https://www.bbc.co.uk/news/live/cevwgqz0x41t">Southport stabbing latest: Hundreds attend vigil in Southport after three girls killed in stabbing named by police - BBC News</a></li>
 <li class='same'> 21:04 <a href="https://www.bbc.co.uk/news/live/cevwgqz0x41t">Southport stabbing latest: Hundreds attend vigil in Southport after three girls killed in stabbing named by police - BBC News</a></li>
 <li> 21:04 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 20:56 tvtropes.org</li>
+<li class='same'> 20:55 tvtropes.org</li>
 <li> 20:46 www.instagram.com</li>
 <li class='same'> 20:45 www.instagram.com</li>
 <li> 20:45 www.google.com</li>
@@ -2607,11 +2634,11 @@ With number of accesses/minutes in parentheses
 <li> 20:42 m.youtube.com</li>
 <li> 20:41 www.google.com</li>
 <li> 20:41 reductress.com</li>
-</ul>
-
-<br>
-
-<ul><li> 19:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 20:21 tvtropes.org</li>
+<li> 20:21 www.google.com</li>
+<li> 20:20 tvtropes.org</li>
+<li> 20:20 www.google.com</li>
+<li> 19:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 19:51 www.giantitp.com</li>
 <li class='same'> 19:50 www.giantitp.com</li>
 <li> 19:50 www.reddit.com</li>
@@ -2828,6 +2855,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:08 www.google.com</li>
 <li class='same'> 11:07 www.google.com</li>
 <li> 11:05 accounts.google.com</li>
+<li> 10:56 www.imdb.com</li>
+<li class='same'> 10:55 www.imdb.com</li>
+<li> 10:55 www.google.com</li>
+<li> 10:55 www.imdb.com</li>
+<li> 10:55 www.google.com</li>
+<li> 10:50 tvtropes.org</li>
+<li> 10:50 www.google.com</li>
 </ul>
 
 <br>
@@ -5384,7 +5418,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 07:55 www.google.com</li>
+<ul><li> 08:07 www.theguardian.com</li>
+<li> 08:07 profile.theguardian.com</li>
+<li> 08:07 www.theguardian.com</li>
+<li> 07:55 www.google.com</li>
 <li> 07:55 <a href="https://en.wikipedia.org/wiki/St_Aloysius%27_College,_Highgate">St Aloysius' College, Highgate - Wikipedia</a></li>
 <li> 07:54 www.google.com</li>
 <li class='same'> 07:53 www.google.com</li>
