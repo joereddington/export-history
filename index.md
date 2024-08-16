@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7157)</li>
+<ol><li>www.google.com (7156)</li>
 <li>mail.google.com (5207)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2264)</li>
 <li>docs.google.com (1624)</li>
 <li>calendar.google.com (1154)</li>
-<li>moodle.royalholloway.ac.uk (1070)</li>
+<li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (1060)</li>
 <li>github.com (991)</li>
 <li>m.facebook.com (924)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (351)</li>
 <li>web.whatsapp.com (346)</li>
 <li>bsky.app (311)</li>
-<li>rhul.sharepoint.com (286)</li>
+<li>rhul.sharepoint.com (284)</li>
 <li>www.ebay.co.uk (259)</li>
 <li>www.giantitp.com (257)</li>
 
@@ -15048,8 +15048,7 @@ With number of accesses/minutes in parentheses
 <li> 16:10 www.gmail.com</li>
 <li> 16:00 outlook.office.com</li>
 <li class='same'> 15:57 outlook.office.com</li>
-<li> 15:51 rhul.sharepoint.com</li>
-<li> 15:51 outlook.office.com</li>
+<li class='same'> 15:51 outlook.office.com</li>
 <li class='same'> 15:49 outlook.office.com</li>
 <li> 15:26 moodle.royalholloway.ac.uk</li>
 <li class='same'> 15:25 moodle.royalholloway.ac.uk</li>
@@ -15092,8 +15091,7 @@ With number of accesses/minutes in parentheses
 <li> 13:30 rhul.sharepoint.com</li>
 <li class='same'> 13:29 rhul.sharepoint.com</li>
 <li> 13:26 outlook.office.com</li>
-<li> 13:25 rhul.sharepoint.com</li>
-<li class='same'> 13:22 rhul.sharepoint.com</li>
+<li> 13:22 rhul.sharepoint.com</li>
 <li class='same'> 13:21 rhul.sharepoint.com</li>
 <li> 13:20 outlook.office.com</li>
 <li class='same'> 13:19 outlook.office.com</li>
@@ -15117,8 +15115,7 @@ With number of accesses/minutes in parentheses
 <li> 12:42 outlook.office.com</li>
 <li class='same'> 12:41 outlook.office.com</li>
 <li> 12:41 rhul-my.sharepoint.com</li>
-<li> 12:36 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:35 moodle.royalholloway.ac.uk</li>
+<li> 12:35 moodle.royalholloway.ac.uk</li>
 <li> 12:35 pacificu.libguides.com</li>
 <li> 12:34 docs.moodle.org</li>
 <li> 12:34 roehamptonlearning.com</li>
@@ -15158,8 +15155,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:00 <a href="https://www.youtube.com/watch?v=G-nNnX_Pvhc">(18) Super Glue and Styrofoam ! Pour Glue on Styrofoam and Amaze With Results - YouTube</a></li>
 <li> 10:59 www.google.com</li>
 <li> 10:39 ico.org.uk</li>
-<li> 10:39 www.google.com</li>
-<li> 10:38 ico.org.uk</li>
+<li class='same'> 10:38 ico.org.uk</li>
 <li> 10:38 www.google.com</li>
 <li> 10:24 outlook.office.com</li>
 <li class='same'> 10:23 outlook.office.com</li>
