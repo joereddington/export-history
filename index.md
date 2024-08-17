@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7166)</li>
-<li>mail.google.com (5207)</li>
+<ol><li>www.google.com (7167)</li>
+<li>mail.google.com (5208)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2267)</li>
 <li>docs.google.com (1624)</li>
@@ -80,12 +80,12 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (924)</li>
 <li>www.reddit.com (890)</li>
 <li>whitewaterwriters.com (603)</li>
-<li>gmail.com (576)</li>
+<li>gmail.com (577)</li>
 <li>chat.openai.com (572)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (526)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (442)</li>
+<li>www.linkedin.com (443)</li>
 <li>kdp.amazon.com (402)</li>
 <li>teams.microsoft.com (400)</li>
 <li>forum.artofmemory.com (394)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (311)</li>
 <li>rhul.sharepoint.com (284)</li>
 <li>www.ebay.co.uk (259)</li>
-<li>www.giantitp.com (257)</li>
+<li>www.giantitp.com (258)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:20 www.facebook.com</li>
+<ul><li> 16:26 www.google.com</li>
+<li> 16:26 www.linkedin.com</li>
+<li> 16:26 mail.google.com</li>
+<li> 16:26 gmail.com</li>
+<li> 16:26 <a href="https://xkcd.com/">xkcd: Helium Synthesis</a></li>
+<li> 16:26 www.giantitp.com</li>
+<li> 16:20 www.facebook.com</li>
 <li class='same'> 16:19 www.facebook.com</li>
 <li> 16:12 www.theguardian.com</li>
 <li class='same'> 16:11 www.theguardian.com</li>
