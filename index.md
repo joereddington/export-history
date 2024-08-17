@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (526)</li>
 <li>en.m.wikipedia.org (472)</li>
-<li>www.linkedin.com (443)</li>
+<li>www.linkedin.com (444)</li>
 <li>kdp.amazon.com (402)</li>
 <li>teams.microsoft.com (400)</li>
 <li>forum.artofmemory.com (394)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (367)</li>
 <li>login.microsoftonline.com (351)</li>
 <li>web.whatsapp.com (346)</li>
-<li>bsky.app (311)</li>
+<li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (284)</li>
 <li>www.ebay.co.uk (259)</li>
 <li>www.giantitp.com (258)</li>
@@ -104,7 +104,21 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 17/08/24</H3>
+
+<br>
+
+<ul><li> 07:28 bsky.app</li>
+<li class='same'> 07:23 bsky.app</li>
+<li> 07:22 www.linkedin.com</li>
+<li> 07:21 0.0.0.0:8000</li>
+</ul>
+
 <H3>Friday, 16/08/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
