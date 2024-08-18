@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7175)</li>
+<ol><li>www.google.com (7194)</li>
 <li>mail.google.com (5208)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2275)</li>
@@ -77,19 +77,19 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (1060)</li>
 <li>github.com (991)</li>
-<li>m.facebook.com (924)</li>
-<li>www.reddit.com (890)</li>
+<li>m.facebook.com (943)</li>
+<li>www.reddit.com (893)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (577)</li>
 <li>chat.openai.com (572)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (529)</li>
-<li>en.m.wikipedia.org (472)</li>
+<li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (444)</li>
 <li>kdp.amazon.com (402)</li>
+<li>www.theguardian.com (400)</li>
 <li>teams.microsoft.com (400)</li>
 <li>forum.artofmemory.com (394)</li>
-<li>www.theguardian.com (390)</li>
 <li>drive.google.com (369)</li>
 <li>outlook.office365.com (367)</li>
 <li>login.microsoftonline.com (351)</li>
@@ -104,7 +104,103 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 18/08/24</H3>
+
+<br>
+
+<ul><li> 07:00 www.google.com</li>
+</ul>
+
 <H3>Saturday, 17/08/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 23:28 www.google.com</li>
+<li> 23:27 www.theguardian.com</li>
+<li class='same'> 23:26 www.theguardian.com</li>
+<li class='same'> 23:25 www.theguardian.com</li>
+<li> 23:24 www.natesilver.net</li>
+<li> 23:24 t.co</li>
+<li> 23:24 x.com</li>
+<li> 23:24 www.google.com</li>
+<li> 23:22 m.facebook.com</li>
+<li class='same'> 23:21 m.facebook.com</li>
+<li class='same'> 23:19 m.facebook.com</li>
+<li class='same'> 23:18 m.facebook.com</li>
+<li class='same'> 23:17 m.facebook.com</li>
+<li class='same'> 23:16 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:57 m.facebook.com</li>
+<li class='same'> 15:55 m.facebook.com</li>
+<li> 15:27 www.reddit.com</li>
+<li class='same'> 15:25 www.reddit.com</li>
+<li class='same'> 15:24 www.reddit.com</li>
+<li> 15:24 www.google.com</li>
+<li> 15:24 x.com</li>
+<li> 15:24 www.google.com</li>
+<li class='same'> 15:23 www.google.com</li>
+<li> 15:17 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:19 m.facebook.com</li>
+<li> 14:18 wordsforlife.org.uk</li>
+<li> 14:18 www.google.com</li>
+<li> 14:18 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:07 www.theguardian.com</li>
+<li class='same'> 13:06 www.theguardian.com</li>
+<li class='same'> 13:05 www.theguardian.com</li>
+<li class='same'> 13:04 www.theguardian.com</li>
+<li class='same'> 13:02 www.theguardian.com</li>
+<li> 12:52 www.google.com</li>
+<li> 12:46 www.natesilver.net</li>
+<li class='same'> 12:44 www.natesilver.net</li>
+<li> 12:44 t.co</li>
+<li> 12:44 x.com</li>
+<li> 12:44 www.google.com</li>
+<li> 12:44 x.com</li>
+<li class='same'> 12:43 x.com</li>
+<li> 12:43 www.google.com</li>
+<li> 12:43 m.facebook.com</li>
+<li class='same'> 12:41 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:46 m.facebook.com</li>
+<li class='same'> 11:23 m.facebook.com</li>
+<li class='same'> 11:22 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:40 www-22c.bookeo.com</li>
+<li> 10:40 www.bigrockclimbing.com</li>
+<li class='same'> 10:39 www.bigrockclimbing.com</li>
+<li> 10:39 www-22c.bookeo.com</li>
+<li> 10:38 www.bigrockclimbing.com</li>
+<li> 10:38 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:53 www.google.com</li>
+<li class='same'> 09:50 www.google.com</li>
+<li class='same'> 09:49 www.google.com</li>
+<li class='same'> 09:48 www.google.com</li>
+</ul>
 
 <br>
 
@@ -114,6 +210,10 @@ With number of accesses/minutes in parentheses
 <li> 08:40 www.google.com</li>
 <li> 08:39 www.facebook.com</li>
 <li class='same'> 08:38 www.facebook.com</li>
+<li> 08:28 www.theguardian.com</li>
+<li> 08:28 en.m.wikipedia.org</li>
+<li> 08:28 m.facebook.com</li>
+<li> 08:28 en.m.wikipedia.org</li>
 <li> 08:23 www.google.com</li>
 <li> 08:23 maps.google.com</li>
 <li> 08:23 www.google.com</li>
@@ -151,7 +251,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:26 www.google.com</li>
+<ul><li> 17:00 m.facebook.com</li>
+<li> 16:57 www.mirror.co.uk</li>
+<li> 16:57 www.google.com</li>
+<li> 16:56 www.indy100.com</li>
+<li> 16:56 www.google.com</li>
+<li> 16:55 m.facebook.com</li>
+<li class='same'> 16:54 m.facebook.com</li>
+<li> 16:26 www.google.com</li>
 <li> 16:26 www.linkedin.com</li>
 <li> 16:26 mail.google.com</li>
 <li> 16:26 gmail.com</li>
@@ -162,6 +269,12 @@ With number of accesses/minutes in parentheses
 <li> 16:12 www.theguardian.com</li>
 <li class='same'> 16:11 www.theguardian.com</li>
 <li> 16:11 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:52 www.bigrockclimbing.com</li>
+<li> 08:52 www.google.com</li>
 </ul>
 
 <br>
@@ -238,7 +351,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:30 www.google.com</li>
+<ul><li> 17:31 www.google.com</li>
+<li class='same'> 17:30 www.google.com</li>
 <li> 17:23 www.wickes.co.uk</li>
 <li> 17:23 www.google.com</li>
 <li> 17:18 www.diy.com</li>
