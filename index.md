@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7213)</li>
+<ol><li>www.google.com (7219)</li>
 <li>mail.google.com (5220)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2282)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (578)</li>
 <li>chat.openai.com (573)</li>
 <li>app.qbo.intuit.com (549)</li>
-<li>tvtropes.org (534)</li>
+<li>tvtropes.org (539)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (447)</li>
 <li>www.theguardian.com (408)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:54 www.google.com</li>
+<ul><li> 21:40 theonion.com</li>
+<li class='same'> 21:39 theonion.com</li>
+<li> 21:37 reductress.com</li>
+<li> 21:37 shop.reductress.com</li>
+<li> 21:37 reductress.com</li>
+<li class='same'> 21:36 reductress.com</li>
+<li> 21:35 newsthump.com</li>
+<li> 21:35 www.google.com</li>
+<li class='same'> 21:34 www.google.com</li>
+<li> 21:34 www.reuters.com</li>
+<li class='same'> 21:33 www.reuters.com</li>
+<li> 21:33 www.google.com</li>
+<li> 21:30 www.independent.co.uk</li>
+<li> 21:29 www.google.com</li>
+<li class='same'> 21:18 www.google.com</li>
+<li> 21:18 tvtropes.org</li>
+<li class='same'> 21:16 tvtropes.org</li>
+<li class='same'> 21:12 tvtropes.org</li>
+<li class='same'> 21:11 tvtropes.org</li>
+<li class='same'> 21:09 tvtropes.org</li>
+<li> 21:09 www.google.com</li>
+<li> 21:08 www.researchgate.net</li>
+<li class='same'> 20:55 www.researchgate.net</li>
+<li> 20:54 www.google.com</li>
 </ul>
 
 <br>
