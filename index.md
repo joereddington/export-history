@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7211)</li>
+<ol><li>www.google.com (7213)</li>
 <li>mail.google.com (5220)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2282)</li>
@@ -77,17 +77,17 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (1060)</li>
 <li>github.com (991)</li>
-<li>m.facebook.com (946)</li>
+<li>m.facebook.com (952)</li>
 <li>www.reddit.com (893)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (578)</li>
 <li>chat.openai.com (573)</li>
 <li>app.qbo.intuit.com (549)</li>
-<li>tvtropes.org (532)</li>
+<li>tvtropes.org (534)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (447)</li>
+<li>www.theguardian.com (408)</li>
 <li>kdp.amazon.com (403)</li>
-<li>www.theguardian.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>forum.artofmemory.com (396)</li>
 <li>drive.google.com (371)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:56 tvtropes.org</li>
+<ul><li> 20:54 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:21 www.google.com</li>
+<li> 17:21 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:33 m.facebook.com</li>
+<li class='same'> 15:32 m.facebook.com</li>
+<li class='same'> 15:31 m.facebook.com</li>
+<li class='same'> 15:30 m.facebook.com</li>
+<li class='same'> 15:29 m.facebook.com</li>
+<li> 15:29 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:05 tvtropes.org</li>
+<li class='same'> 11:03 tvtropes.org</li>
+<li class='same'> 10:56 tvtropes.org</li>
 <li> 10:56 www.google.com</li>
 <li> 10:56 mail.google.com</li>
 <li> 10:43 www.google.com</li>
@@ -222,7 +245,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:10 www.ft.com</li>
+<ul><li> 22:18 www.theguardian.com</li>
+<li class='same'> 22:16 www.theguardian.com</li>
+<li class='same'> 22:15 www.theguardian.com</li>
+<li class='same'> 22:14 www.theguardian.com</li>
+<li> 22:10 www.ft.com</li>
 <li> 22:10 www.google.com</li>
 <li> 22:09 www.natesilver.net</li>
 <li class='same'> 21:55 www.natesilver.net</li>
