@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7208)</li>
-<li>mail.google.com (5217)</li>
+<ol><li>www.google.com (7209)</li>
+<li>mail.google.com (5219)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2282)</li>
 <li>docs.google.com (1644)</li>
@@ -86,10 +86,10 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (531)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (447)</li>
-<li>kdp.amazon.com (402)</li>
-<li>www.theguardian.com (402)</li>
+<li>kdp.amazon.com (403)</li>
+<li>www.theguardian.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>forum.artofmemory.com (394)</li>
+<li>forum.artofmemory.com (396)</li>
 <li>drive.google.com (371)</li>
 <li>outlook.office365.com (367)</li>
 <li>login.microsoftonline.com (349)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:51 <a href="https://en.wikipedia.org/wiki/T.J._Miller">T.J. Miller - Wikipedia</a></li>
+<ul><li> 10:38 x.com</li>
+<li> 10:38 www.google.com</li>
+<li> 10:38 www.theguardian.com</li>
+<li> 10:37 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:55 forum.artofmemory.com</li>
+<li class='same'> 09:54 forum.artofmemory.com</li>
+<li> 09:54 artofmemory.com</li>
+<li> 09:54 kdpreports.amazon.com</li>
+<li class='same'> 09:53 kdpreports.amazon.com</li>
+<li> 09:53 kdp.amazon.com</li>
+<li> 09:53 mail.google.com</li>
+<li> 09:51 <a href="https://en.wikipedia.org/wiki/T.J._Miller">T.J. Miller - Wikipedia</a></li>
 <li> 09:51 www.google.com</li>
 <li> 09:47 tvtropes.org</li>
 <li class='same'> 09:32 tvtropes.org</li>
