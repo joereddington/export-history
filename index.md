@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7245)</li>
+<ol><li>www.google.com (7250)</li>
 <li>mail.google.com (5228)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2282)</li>
@@ -108,6 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:25 www.google.com</li>
+<li> 18:13 80000hours.org</li>
+<li> 18:13 t.co</li>
+<li> 18:13 x.com</li>
+<li> 18:13 twitter.com</li>
+<li> 18:13 x.com</li>
+<li> 18:13 twitter.com</li>
+<li> 18:13 www.google.com</li>
+<li class='same'> 18:12 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 17:04 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
 <li> 17:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -125,7 +138,11 @@ With number of accesses/minutes in parentheses
 <li> 15:56 www.google.com</li>
 <li> 15:33 docs.google.com</li>
 <li> 15:15 chatgpt.com</li>
-<li> 14:50 www.google.com</li>
+<li> 14:51 muckrack.com</li>
+<li> 14:51 www.google.com</li>
+<li> 14:51 itskellesspace.com</li>
+<li> 14:51 www.google.com</li>
+<li class='same'> 14:50 www.google.com</li>
 <li class='same'> 14:41 www.google.com</li>
 <li> 14:41 us05web.zoom.us</li>
 <li> 14:41 calendar.google.com</li>
