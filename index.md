@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7217)</li>
-<li>mail.google.com (5220)</li>
+<ol><li>www.google.com (7225)</li>
+<li>mail.google.com (5223)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2282)</li>
-<li>docs.google.com (1644)</li>
+<li>docs.google.com (1646)</li>
 <li>calendar.google.com (1154)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (1060)</li>
 <li>github.com (991)</li>
-<li>m.facebook.com (952)</li>
-<li>www.reddit.com (893)</li>
+<li>m.facebook.com (954)</li>
+<li>www.reddit.com (894)</li>
 <li>whitewaterwriters.com (603)</li>
-<li>gmail.com (578)</li>
+<li>gmail.com (579)</li>
 <li>chat.openai.com (573)</li>
 <li>app.qbo.intuit.com (549)</li>
-<li>tvtropes.org (539)</li>
+<li>tvtropes.org (543)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (447)</li>
-<li>www.theguardian.com (408)</li>
+<li>www.theguardian.com (413)</li>
 <li>kdp.amazon.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>forum.artofmemory.com (396)</li>
-<li>drive.google.com (371)</li>
+<li>drive.google.com (372)</li>
 <li>outlook.office365.com (367)</li>
 <li>login.microsoftonline.com (349)</li>
-<li>web.whatsapp.com (348)</li>
+<li>web.whatsapp.com (349)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (282)</li>
 <li>www.giantitp.com (259)</li>
@@ -104,11 +104,63 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 20/08/24</H3>
+
+<br>
+
+<ul><li> 09:07 www.google.com</li>
+<li> 09:07 mail.google.com</li>
+<li> 09:06 www.google.com</li>
+<li> 09:05 www.tudelft.nl</li>
+<li> 09:05 www.google.com</li>
+<li> 09:05 mail.google.com</li>
+<li class='same'> 09:04 mail.google.com</li>
+<li> 09:04 gmail.com</li>
+<li> 09:04 web.whatsapp.com</li>
+<li> 09:04 <a href="https://www.bbc.co.uk/news/technology-56135817">Margaret Mitchell: Google fires AI ethics founder - BBC News</a></li>
+<li> 09:04 www.google.com</li>
+<li> 09:03 <a href="https://joereddington.com/2013/09/12/so-im-in-the-edition-of-new-scientist-that-came-out-today.html">So I’m in the edition of New Scientist that came out today | Joe Reddington</a></li>
+<li> 09:03 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:03 docs.google.com</li>
+<li> 09:02 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 09:02 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:02 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:02 adblockplus.org</li>
+<li> 09:02 docs.google.com</li>
+<li> 09:02 drive.google.com</li>
+<li> 08:44 m.facebook.com</li>
+<li class='same'> 08:42 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:20 www.reddit.com</li>
+<li> 07:20 www.google.com</li>
+<li> 07:20 www.natesilver.net</li>
+<li class='same'> 07:19 www.natesilver.net</li>
+<li> 07:19 www.google.com</li>
+<li> 07:17 www.theguardian.com</li>
+<li> 07:17 screenrant.com</li>
+</ul>
+
 <H3>Monday, 19/08/24</H3>
 
 <br>
 
-<ul><li> 21:40 theonion.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:50 www.theguardian.com</li>
+<li class='same'> 21:49 www.theguardian.com</li>
+<li class='same'> 21:48 www.theguardian.com</li>
+<li class='same'> 21:47 www.theguardian.com</li>
+<li> 21:47 www.thedailymash.co.uk</li>
+<li class='same'> 21:44 www.thedailymash.co.uk</li>
+<li class='same'> 21:43 www.thedailymash.co.uk</li>
+<li class='same'> 21:42 www.thedailymash.co.uk</li>
+<li> 21:41 theonion.com</li>
+<li class='same'> 21:40 theonion.com</li>
 <li class='same'> 21:39 theonion.com</li>
 <li> 21:37 reductress.com</li>
 <li> 21:37 shop.reductress.com</li>
@@ -425,6 +477,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:23 bsky.app</li>
 <li> 07:22 www.linkedin.com</li>
 <li> 07:21 0.0.0.0:8000</li>
+<li> 07:15 screenrant.com</li>
+<li class='same'> 07:14 screenrant.com</li>
+<li> 07:14 www.google.com</li>
+<li> 07:11 screenrant.com</li>
+<li> 07:11 www.google.com</li>
+<li> 07:11 tvtropes.org</li>
 </ul>
 
 <H3>Friday, 16/08/24</H3>
@@ -459,11 +517,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:52 www.bigrockclimbing.com</li>
 <li> 08:52 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:20 tvtropes.org</li>
+<li> 08:24 tvtropes.org</li>
+<li class='same'> 08:23 tvtropes.org</li>
+<li class='same'> 08:21 tvtropes.org</li>
+<li class='same'> 08:20 tvtropes.org</li>
 <li> 08:20 www.google.com</li>
 <li> 08:14 www.natesilver.net</li>
 <li> 08:13 www.oddschecker.com</li>
