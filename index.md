@@ -75,15 +75,15 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1694)</li>
 <li>calendar.google.com (1157)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (1060)</li>
+<li>www.amazon.co.uk (1061)</li>
 <li>github.com (991)</li>
 <li>m.facebook.com (955)</li>
-<li>www.reddit.com (897)</li>
+<li>www.reddit.com (901)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (581)</li>
 <li>chat.openai.com (574)</li>
 <li>app.qbo.intuit.com (549)</li>
-<li>tvtropes.org (543)</li>
+<li>tvtropes.org (544)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (447)</li>
 <li>www.theguardian.com (413)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 20/08/24</H3>
+
+<br>
+
+<ul><li> 21:18 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
@@ -295,7 +300,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:20 www.reddit.com</li>
+<ul><li> 07:35 tvtropes.org</li>
+<li> 07:34 www.reddit.com</li>
+<li class='same'> 07:33 www.reddit.com</li>
+<li class='same'> 07:32 www.reddit.com</li>
+<li class='same'> 07:31 www.reddit.com</li>
+<li class='same'> 07:20 www.reddit.com</li>
 <li> 07:20 www.google.com</li>
 <li> 07:20 www.natesilver.net</li>
 <li class='same'> 07:19 www.natesilver.net</li>
