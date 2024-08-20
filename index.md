@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7219)</li>
+<ol><li>www.google.com (7217)</li>
 <li>mail.google.com (5220)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2282)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (282)</li>
 <li>www.giantitp.com (259)</li>
-<li>www.ebay.co.uk (259)</li>
+<li>www.ebay.co.uk (258)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -14844,8 +14844,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:06 www.ebay.co.uk</li>
-<li class='same'> 17:05 www.ebay.co.uk</li>
+<ul><li> 17:05 www.ebay.co.uk</li>
 <li> 17:05 mail.google.com</li>
 <li class='same'> 17:04 mail.google.com</li>
 <li> 17:03 www.flowerverse.co.uk</li>
@@ -14954,8 +14953,7 @@ With number of accesses/minutes in parentheses
 <li> 13:02 mail.google.com</li>
 <li class='same'> 13:01 mail.google.com</li>
 <li class='same'> 13:00 mail.google.com</li>
-<li> 13:00 www.google.com</li>
-<li class='same'> 12:59 www.google.com</li>
+<li> 12:59 www.google.com</li>
 <li> 12:59 mail.google.com</li>
 <li class='same'> 12:58 mail.google.com</li>
 <li class='same'> 12:56 mail.google.com</li>
@@ -14986,13 +14984,11 @@ With number of accesses/minutes in parentheses
 <li> 12:33 online.unity.co.uk</li>
 <li> 12:33 app.qbo.intuit.com</li>
 <li> 12:33 online.unity.co.uk</li>
-<li> 12:28 intuit-qbo-prod-20.s3.amazonaws.com</li>
 <li> 12:28 app.qbo.intuit.com</li>
 <li> 12:28 online.unity.co.uk</li>
 <li class='same'> 12:27 online.unity.co.uk</li>
 <li> 12:27 app.qbo.intuit.com</li>
-<li> 12:26 intuit-qbo-prod-26.s3.amazonaws.com</li>
-<li> 12:26 app.qbo.intuit.com</li>
+<li class='same'> 12:26 app.qbo.intuit.com</li>
 <li> 12:26 mail.google.com</li>
 <li class='same'> 12:25 mail.google.com</li>
 <li> 12:25 online.unity.co.uk</li>
@@ -15023,7 +15019,6 @@ With number of accesses/minutes in parentheses
 <li> 12:03 outlook.office.com</li>
 <li> 12:03 mail.google.com</li>
 <li class='same'> 11:53 mail.google.com</li>
-<li> 11:52 www.google.com</li>
 <li> 11:52 equalitytime.co.uk</li>
 <li> 11:52 mail.google.com</li>
 <li> 11:52 equalitytime.co.uk</li>
@@ -15057,7 +15052,6 @@ With number of accesses/minutes in parentheses
 <li> 11:25 equalitytime.github.io</li>
 <li> 11:23 www.google.com</li>
 <li> 11:21 www.paypal.com</li>
-<li class='same'> 11:20 www.paypal.com</li>
 <li class='same'> 11:19 www.paypal.com</li>
 <li> 11:19 docs.google.com</li>
 <li> 11:19 outlook.office.com</li>
@@ -15142,7 +15136,6 @@ With number of accesses/minutes in parentheses
 <li> 07:00 outlook.office.com</li>
 <li> 07:00 moodle.royalholloway.ac.uk</li>
 <li> 07:00 login.microsoftonline.com</li>
-<li> 07:00 eur03.safelinks.protection.outlook.com</li>
 <li> 06:59 outlook.office.com</li>
 <li> 06:39 docs.google.com</li>
 <li class='same'> 06:36 docs.google.com</li>
@@ -15158,7 +15151,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:23 docs.google.com</li>
 <li> 06:20 www.paypal.com</li>
 <li class='same'> 06:19 www.paypal.com</li>
-<li class='same'> 06:17 www.paypal.com</li>
 <li class='same'> 06:16 www.paypal.com</li>
 <li> 06:16 docs.google.com</li>
 <li class='same'> 06:15 docs.google.com</li>
