@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:36 docs.google.com</li>
+<ul><li> 17:04 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 17:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 17:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 17:03 claude.ai</li>
+<li class='same'> 17:02 claude.ai</li>
+<li> 16:57 chatgpt.com</li>
+<li class='same'> 16:56 chatgpt.com</li>
+<li class='same'> 16:55 chatgpt.com</li>
+<li> 16:36 docs.google.com</li>
 <li class='same'> 16:35 docs.google.com</li>
 <li> 16:06 news.google.com</li>
 <li> 16:05 chatgpt.com</li>
