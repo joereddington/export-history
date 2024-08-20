@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7235)</li>
+<ol><li>www.google.com (7237)</li>
 <li>mail.google.com (5223)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2282)</li>
-<li>docs.google.com (1669)</li>
+<li>docs.google.com (1676)</li>
 <li>calendar.google.com (1154)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (1060)</li>
 <li>github.com (991)</li>
 <li>m.facebook.com (954)</li>
-<li>www.reddit.com (894)</li>
+<li>www.reddit.com (896)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (579)</li>
 <li>chat.openai.com (573)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:47 docs.google.com</li>
+<ul><li> 09:58 docs.google.com</li>
+<li class='same'> 09:57 docs.google.com</li>
+<li class='same'> 09:56 docs.google.com</li>
+<li> 09:55 chatgpt.com</li>
+<li> 09:55 docs.google.com</li>
+<li class='same'> 09:54 docs.google.com</li>
+<li class='same'> 09:53 docs.google.com</li>
+<li> 09:52 www.reddit.com</li>
+<li class='same'> 09:51 www.reddit.com</li>
+<li> 09:51 www.google.com</li>
+<li> 09:51 www.grokimagegenerator.com</li>
+<li> 09:50 www.google.com</li>
+<li> 09:50 docs.google.com</li>
+<li class='same'> 09:47 docs.google.com</li>
 <li class='same'> 09:46 docs.google.com</li>
 <li> 09:46 chatgpt.com</li>
 <li class='same'> 09:45 chatgpt.com</li>
