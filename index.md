@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7239)</li>
-<li>mail.google.com (5225)</li>
+<ol><li>www.google.com (7241)</li>
+<li>mail.google.com (5228)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2282)</li>
-<li>docs.google.com (1687)</li>
-<li>calendar.google.com (1154)</li>
+<li>docs.google.com (1690)</li>
+<li>calendar.google.com (1156)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (1060)</li>
 <li>github.com (991)</li>
 <li>m.facebook.com (954)</li>
 <li>www.reddit.com (897)</li>
 <li>whitewaterwriters.com (603)</li>
-<li>gmail.com (580)</li>
-<li>chat.openai.com (573)</li>
+<li>gmail.com (581)</li>
+<li>chat.openai.com (574)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>tvtropes.org (543)</li>
 <li>en.m.wikipedia.org (474)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:30 docs.google.com</li>
+<ul><li> 14:38 docs.google.com</li>
+<li> 14:38 mail.google.com</li>
+<li> 14:36 us05web.zoom.us</li>
+<li> 14:36 mail.google.com</li>
+<li> 14:35 us05web.zoom.us</li>
+<li> 14:35 zoom.us</li>
+<li> 14:35 www.google.com</li>
+<li> 14:35 us05web.zoom.us</li>
+<li> 14:35 www.google.com</li>
+<li> 14:35 calendar.google.com</li>
+<li> 14:34 mail.google.com</li>
+<li> 14:34 gmail.com</li>
+<li> 14:34 calendar.google.com</li>
+<li> 14:30 chatgpt.com</li>
+<li> 14:29 docs.google.com</li>
+<li> 14:29 claude.ai</li>
+<li> 14:28 chatgpt.com</li>
+<li> 14:28 chat.openai.com</li>
+<li> 14:28 claude.ai</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:04 claude.ai</li>
+</ul>
+
+<br>
+
+<ul><li> 11:27 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:30 docs.google.com</li>
 <li class='same'> 10:29 docs.google.com</li>
 <li> 10:26 knowyourmeme.com</li>
 <li> 10:26 www.google.com</li>
