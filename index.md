@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7241)</li>
+<ol><li>www.google.com (7244)</li>
 <li>mail.google.com (5228)</li>
 <li>outlook.office.com (2763)</li>
 <li>www.facebook.com (2282)</li>
-<li>docs.google.com (1690)</li>
-<li>calendar.google.com (1156)</li>
+<li>docs.google.com (1692)</li>
+<li>calendar.google.com (1157)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (1060)</li>
 <li>github.com (991)</li>
-<li>m.facebook.com (954)</li>
+<li>m.facebook.com (955)</li>
 <li>www.reddit.com (897)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (581)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:38 docs.google.com</li>
+<ul><li> 15:33 docs.google.com</li>
+<li> 15:15 chatgpt.com</li>
+<li> 14:50 www.google.com</li>
+<li class='same'> 14:41 www.google.com</li>
+<li> 14:41 us05web.zoom.us</li>
+<li> 14:41 calendar.google.com</li>
+<li> 14:41 docs.google.com</li>
+<li class='same'> 14:38 docs.google.com</li>
 <li> 14:38 mail.google.com</li>
 <li> 14:36 us05web.zoom.us</li>
 <li> 14:36 mail.google.com</li>
@@ -136,7 +143,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:27 docs.google.com</li>
+<ul><li> 11:54 www.google.com</li>
+<li> 11:27 docs.google.com</li>
 </ul>
 
 <br>
@@ -245,7 +253,11 @@ With number of accesses/minutes in parentheses
 <li> 09:02 adblockplus.org</li>
 <li> 09:02 docs.google.com</li>
 <li> 09:02 drive.google.com</li>
-<li> 08:44 m.facebook.com</li>
+<li> 08:57 <a href="https://joereddington.com/2013/09/12/so-im-in-the-edition-of-new-scientist-that-came-out-today.html">So I’m in the edition of New Scientist that came out today | Joe Reddington</a></li>
+<li> 08:56 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:56 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 08:52 m.facebook.com</li>
+<li class='same'> 08:44 m.facebook.com</li>
 <li class='same'> 08:42 m.facebook.com</li>
 </ul>
 
