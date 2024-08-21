@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1694)</li>
 <li>calendar.google.com (1157)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (1061)</li>
+<li>www.amazon.co.uk (1060)</li>
 <li>github.com (991)</li>
 <li>m.facebook.com (955)</li>
 <li>www.reddit.com (903)</li>
@@ -14864,7 +14864,6 @@ With number of accesses/minutes in parentheses
 <li> 20:41 outlook.office.com</li>
 <li> 20:40 mail.google.com</li>
 <li> 20:40 www.amazon.co.uk</li>
-<li class='same'> 20:39 www.amazon.co.uk</li>
 <li class='same'> 20:38 www.amazon.co.uk</li>
 <li> 20:38 www.google.com</li>
 <li> 20:38 docs.google.com</li>
@@ -14989,7 +14988,6 @@ With number of accesses/minutes in parentheses
 <li> 10:05 artofmemory.com</li>
 <li> 10:04 www.linkedin.com</li>
 <li> 10:03 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 10:02 www.paypal.com</li>
 <li> 10:02 checkout.steampowered.com</li>
 <li> 10:02 store.steampowered.com</li>
 <li class='same'> 10:01 store.steampowered.com</li>
