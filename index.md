@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7252)</li>
+<ol><li>www.google.com (7256)</li>
 <li>mail.google.com (5228)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2282)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (544)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (447)</li>
-<li>www.theguardian.com (415)</li>
+<li>www.theguardian.com (416)</li>
 <li>kdp.amazon.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>forum.artofmemory.com (396)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:32 www.visitcalifornia.com</li>
+<ul><li> 11:06 pure.royalholloway.ac.uk</li>
+<li> 11:06 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:18 www.google.com</li>
+<li> 10:14 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:46 alternative.me</li>
+<li> 07:46 www.google.com</li>
+<li> 07:32 www.visitcalifornia.com</li>
 <li> 07:32 www.google.com</li>
 <li class='same'> 07:09 www.google.com</li>
 <li> 07:07 www.reddit.com</li>
@@ -138,7 +152,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:25 www.google.com</li>
+<ul><li> 18:26 www.google.com</li>
+<li> 18:25 www.businessinsider.com</li>
+<li> 18:25 www.google.com</li>
 <li> 18:13 80000hours.org</li>
 <li> 18:13 t.co</li>
 <li> 18:13 x.com</li>
