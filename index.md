@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7250)</li>
+<ol><li>www.google.com (7252)</li>
 <li>mail.google.com (5228)</li>
-<li>outlook.office.com (2763)</li>
+<li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2282)</li>
 <li>docs.google.com (1694)</li>
 <li>calendar.google.com (1157)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1061)</li>
 <li>github.com (991)</li>
 <li>m.facebook.com (955)</li>
-<li>www.reddit.com (901)</li>
+<li>www.reddit.com (903)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (581)</li>
 <li>chat.openai.com (574)</li>
@@ -86,17 +86,17 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (544)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (447)</li>
-<li>www.theguardian.com (413)</li>
+<li>www.theguardian.com (415)</li>
 <li>kdp.amazon.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>forum.artofmemory.com (396)</li>
 <li>drive.google.com (372)</li>
 <li>outlook.office365.com (367)</li>
-<li>login.microsoftonline.com (349)</li>
+<li>login.microsoftonline.com (350)</li>
 <li>web.whatsapp.com (349)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (282)</li>
-<li>www.giantitp.com (259)</li>
+<li>www.giantitp.com (260)</li>
 <li>www.ebay.co.uk (258)</li>
 
 
@@ -104,7 +104,32 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 21/08/24</H3>
+
+<br>
+
+<ul><li> 07:32 www.visitcalifornia.com</li>
+<li> 07:32 www.google.com</li>
+<li class='same'> 07:09 www.google.com</li>
+<li> 07:07 www.reddit.com</li>
+<li class='same'> 07:05 www.reddit.com</li>
+<li> 07:04 www.theguardian.com</li>
+<li class='same'> 07:02 www.theguardian.com</li>
+<li> 07:02 www.giantitp.com</li>
+<li> 07:02 outlook.office.com</li>
+<li class='same'> 07:00 outlook.office.com</li>
+<li class='same'> 06:59 outlook.office.com</li>
+<li class='same'> 06:58 outlook.office.com</li>
+<li class='same'> 06:57 outlook.office.com</li>
+<li class='same'> 06:56 outlook.office.com</li>
+<li> 06:56 login.microsoftonline.com</li>
+</ul>
+
 <H3>Tuesday, 20/08/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
