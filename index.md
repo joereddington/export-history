@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5228)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2282)</li>
-<li>docs.google.com (1694)</li>
+<li>docs.google.com (1695)</li>
 <li>calendar.google.com (1157)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (1061)</li>
@@ -88,11 +88,11 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (447)</li>
 <li>www.theguardian.com (417)</li>
 <li>kdp.amazon.com (403)</li>
-<li>teams.microsoft.com (400)</li>
+<li>teams.microsoft.com (399)</li>
 <li>forum.artofmemory.com (396)</li>
 <li>drive.google.com (372)</li>
 <li>outlook.office365.com (367)</li>
-<li>login.microsoftonline.com (350)</li>
+<li>login.microsoftonline.com (349)</li>
 <li>web.whatsapp.com (349)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (282)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 22/08/24</H3>
+
+<br>
+
+<ul><li> 04:50 docs.google.com</li>
+</ul>
+
 <H3>Wednesday, 21/08/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -14823,13 +14834,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:25 outlook.office.com</li>
 <li> 09:25 moodle.royalholloway.ac.uk</li>
 <li> 09:25 login.microsoftonline.com</li>
-<li> 09:25 eur03.safelinks.protection.outlook.com</li>
 <li> 09:24 outlook.office.com</li>
 <li class='same'> 09:23 outlook.office.com</li>
 <li> 09:22 web.whatsapp.com</li>
 <li> 09:22 outlook.office.com</li>
-<li> 09:20 teams.microsoft.com</li>
-<li> 09:20 login.microsoftonline.com</li>
 <li> 09:20 teams.microsoft.com</li>
 <li> 09:20 outlook.office.com</li>
 <li class='same'> 09:19 outlook.office.com</li>
