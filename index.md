@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7289)</li>
-<li>mail.google.com (5239)</li>
+<ol><li>www.google.com (7291)</li>
+<li>mail.google.com (5240)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2282)</li>
 <li>docs.google.com (1695)</li>
 <li>calendar.google.com (1157)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (1061)</li>
+<li>www.amazon.co.uk (1064)</li>
 <li>github.com (991)</li>
 <li>m.facebook.com (964)</li>
-<li>www.reddit.com (914)</li>
+<li>www.reddit.com (915)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (583)</li>
-<li>chat.openai.com (574)</li>
+<li>chat.openai.com (575)</li>
 <li>tvtropes.org (553)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
@@ -92,8 +92,8 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (396)</li>
 <li>drive.google.com (373)</li>
 <li>outlook.office365.com (367)</li>
+<li>web.whatsapp.com (350)</li>
 <li>login.microsoftonline.com (349)</li>
-<li>web.whatsapp.com (349)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (282)</li>
 <li>www.giantitp.com (261)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 22/08/24</H3>
+
+<br>
+
+<ul><li> 13:29 www.amazon.co.uk</li>
+<li class='same'> 13:28 www.amazon.co.uk</li>
+<li> 13:28 www.googleadservices.com</li>
+<li> 13:28 www.amazon.co.uk</li>
+<li> 13:28 www.google.com</li>
+<li> 13:27 mail.google.com</li>
+<li> 13:26 www.reddit.com</li>
+<li> 13:26 www.google.com</li>
+<li> 13:25 support.spotify.com</li>
+<li> 13:25 web.whatsapp.com</li>
+<li> 13:25 chatgpt.com</li>
+<li class='same'> 13:24 chatgpt.com</li>
+<li> 13:24 chat.openai.com</li>
+</ul>
 
 <br>
 
