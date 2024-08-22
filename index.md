@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7272)</li>
-<li>mail.google.com (5229)</li>
+<li>mail.google.com (5230)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2282)</li>
 <li>docs.google.com (1695)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (349)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (282)</li>
-<li>www.giantitp.com (260)</li>
+<li>www.giantitp.com (261)</li>
 <li>www.ebay.co.uk (258)</li>
 
 
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:12 www.natesilver.net</li>
+<ul><li> 10:28 feedly.com</li>
+<li class='same'> 10:27 feedly.com</li>
+<li> 10:27 arxiv.org</li>
+<li class='same'> 10:26 arxiv.org</li>
+<li> 10:26 www.schneier.com</li>
+<li> 10:26 feedly.com</li>
+<li class='same'> 10:23 feedly.com</li>
+<li> 10:23 www.giantitp.com</li>
+<li> 10:20 0.0.0.0:8000</li>
+<li> 10:20 mail.google.com</li>
+<li> 10:16 fast.com</li>
+<li> 10:12 www.natesilver.net</li>
 <li class='same'> 10:11 www.natesilver.net</li>
 <li> 10:11 mail.google.com</li>
 <li> 10:11 gmail.com</li>
