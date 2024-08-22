@@ -71,11 +71,11 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (7292)</li>
 <li>mail.google.com (5243)</li>
 <li>outlook.office.com (2769)</li>
-<li>www.facebook.com (2289)</li>
+<li>www.facebook.com (2292)</li>
 <li>docs.google.com (1695)</li>
 <li>calendar.google.com (1157)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (1064)</li>
+<li>www.amazon.co.uk (1067)</li>
 <li>github.com (991)</li>
 <li>m.facebook.com (964)</li>
 <li>www.reddit.com (915)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:45 www.diy.com</li>
+<ul><li> 21:05 www.facebook.com</li>
+<li class='same'> 21:03 www.facebook.com</li>
+<li> 21:02 www.amazon.co.uk</li>
+<li class='same'> 20:58 www.amazon.co.uk</li>
+<li class='same'> 20:57 www.amazon.co.uk</li>
+<li> 20:56 www.diy.com</li>
+<li> 20:53 www.facebook.com</li>
+<li> 20:51 www.diy.com</li>
+<li class='same'> 20:50 www.diy.com</li>
+<li class='same'> 20:49 www.diy.com</li>
+<li class='same'> 20:45 www.diy.com</li>
 <li class='same'> 20:44 www.diy.com</li>
 <li class='same'> 20:43 www.diy.com</li>
 <li> 20:43 <a href="https://www.youtube.com/watch?v=MruyJ-h5QlQ">(94) DNC Kicks Off in Chicago, Harris & Walz Hit the Road, Trump Holds a Beauty Contest | The Daily Show - YouTube</a></li>
