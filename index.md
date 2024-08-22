@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (7291)</li>
 <li>mail.google.com (5243)</li>
 <li>outlook.office.com (2769)</li>
-<li>www.facebook.com (2283)</li>
+<li>www.facebook.com (2287)</li>
 <li>docs.google.com (1695)</li>
 <li>calendar.google.com (1157)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:19 feedly.com</li>
+<ul><li> 15:29 www.facebook.com</li>
+<li class='same'> 15:28 www.facebook.com</li>
+<li class='same'> 15:27 www.facebook.com</li>
+<li class='same'> 15:26 www.facebook.com</li>
+<li> 15:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 15:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 15:23 login.buffer.com</li>
+<li> 15:23 publish.buffer.com</li>
+<li> 15:23 buffer.com</li>
+<li> 15:19 feedly.com</li>
 <li> 15:09 www.facebook.com</li>
 <li> 15:09 feedly.com</li>
 <li> 15:08 mail.google.com</li>
