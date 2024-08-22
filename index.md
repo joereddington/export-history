@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7264)</li>
+<ol><li>www.google.com (7269)</li>
 <li>mail.google.com (5228)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2282)</li>
@@ -77,16 +77,16 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.amazon.co.uk (1061)</li>
 <li>github.com (991)</li>
-<li>m.facebook.com (962)</li>
+<li>m.facebook.com (964)</li>
 <li>www.reddit.com (904)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (581)</li>
 <li>chat.openai.com (574)</li>
-<li>tvtropes.org (551)</li>
+<li>tvtropes.org (553)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (447)</li>
-<li>www.theguardian.com (417)</li>
+<li>www.theguardian.com (418)</li>
 <li>kdp.amazon.com (403)</li>
 <li>teams.microsoft.com (399)</li>
 <li>forum.artofmemory.com (396)</li>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 22/08/24</H3>
+
+<br>
+
+<ul><li> 09:34 www.theguardian.com</li>
+<li> 09:26 www.google.com</li>
+<li class='same'> 09:22 www.google.com</li>
+<li> 09:22 www.fanbyte.com</li>
+</ul>
 
 <br>
 
@@ -135,7 +143,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:45 m.facebook.com</li>
+<ul><li> 20:59 www.fanbyte.com</li>
+<li class='same'> 20:58 www.fanbyte.com</li>
+<li> 20:58 tvtropes.org</li>
+<li class='same'> 20:54 tvtropes.org</li>
+<li> 20:54 www.google.com</li>
+<li class='same'> 20:53 www.google.com</li>
+<li class='same'> 20:51 www.google.com</li>
+<li> 20:48 m.facebook.com</li>
+<li class='same'> 20:46 m.facebook.com</li>
+<li class='same'> 20:45 m.facebook.com</li>
 <li class='same'> 20:30 m.facebook.com</li>
 <li class='same'> 20:28 m.facebook.com</li>
 <li class='same'> 20:27 m.facebook.com</li>
