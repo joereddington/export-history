@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7272)</li>
-<li>mail.google.com (5230)</li>
+<ol><li>www.google.com (7284)</li>
+<li>mail.google.com (5237)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2282)</li>
 <li>docs.google.com (1695)</li>
@@ -78,19 +78,19 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1061)</li>
 <li>github.com (991)</li>
 <li>m.facebook.com (964)</li>
-<li>www.reddit.com (906)</li>
+<li>www.reddit.com (913)</li>
 <li>whitewaterwriters.com (603)</li>
-<li>gmail.com (582)</li>
+<li>gmail.com (583)</li>
 <li>chat.openai.com (574)</li>
 <li>tvtropes.org (553)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (447)</li>
-<li>www.theguardian.com (418)</li>
-<li>kdp.amazon.com (403)</li>
+<li>www.theguardian.com (420)</li>
+<li>kdp.amazon.com (406)</li>
 <li>teams.microsoft.com (399)</li>
 <li>forum.artofmemory.com (396)</li>
-<li>drive.google.com (372)</li>
+<li>drive.google.com (373)</li>
 <li>outlook.office365.com (367)</li>
 <li>login.microsoftonline.com (349)</li>
 <li>web.whatsapp.com (349)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:28 feedly.com</li>
+<ul><li> 10:58 mail.google.com</li>
+<li class='same'> 10:57 mail.google.com</li>
+<li> 10:57 accounts.youtube.com</li>
+<li> 10:57 accounts.google.com</li>
+<li> 10:57 accounts.google.co.uk</li>
+<li> 10:57 accounts.google.com</li>
+<li> 10:57 mail.google.com</li>
+<li> 10:57 gmail.com</li>
+<li> 10:57 mail.google.com</li>
+<li> 10:56 drive.google.com</li>
+<li> 10:56 www.google.com</li>
+<li> 10:56 mail.google.com</li>
+<li> 10:55 cc.amazon.com</li>
+<li> 10:55 mail.google.com</li>
+<li> 10:55 www.google.com</li>
+<li class='same'> 10:54 www.google.com</li>
+<li> 10:54 maps.google.com</li>
+<li> 10:54 www.google.com</li>
+<li> 10:54 kdp.amazon.com</li>
+<li class='same'> 10:53 kdp.amazon.com</li>
+<li> 10:53 kdpreports.amazon.com</li>
+<li> 10:53 kdp.amazon.com</li>
+<li> 10:53 mail.google.com</li>
+<li> 10:41 www.theguardian.com</li>
+<li> 10:41 www.google.com</li>
+<li> 10:28 feedly.com</li>
 <li class='same'> 10:27 feedly.com</li>
 <li> 10:27 arxiv.org</li>
 <li class='same'> 10:26 arxiv.org</li>
@@ -116,6 +141,7 @@ With number of accesses/minutes in parentheses
 <li> 10:26 feedly.com</li>
 <li class='same'> 10:23 feedly.com</li>
 <li> 10:23 www.giantitp.com</li>
+<li> 10:21 www.google.com</li>
 <li> 10:20 0.0.0.0:8000</li>
 <li> 10:20 mail.google.com</li>
 <li> 10:16 fast.com</li>
@@ -126,14 +152,24 @@ With number of accesses/minutes in parentheses
 <li> 10:11 www.reddit.com</li>
 <li class='same'> 10:09 www.reddit.com</li>
 <li> 10:09 www.google.com</li>
+<li class='same'> 10:08 www.google.com</li>
+<li class='same'> 10:07 www.google.com</li>
+<li> 10:07 www.reddit.com</li>
 <li> 10:06 fast.com</li>
 <li> 10:06 www.google.com</li>
 <li class='same'> 10:05 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:34 www.theguardian.com</li>
+<li> 10:05 www.reddit.com</li>
+<li> 10:05 www.google.com</li>
+<li> 10:04 www.reddit.com</li>
+<li class='same'> 10:03 www.reddit.com</li>
+<li> 10:03 www.google.com</li>
+<li> 10:02 www.reddit.com</li>
+<li> 10:02 www.google.com</li>
+<li> 10:02 www.reddit.com</li>
+<li class='same'> 10:01 www.reddit.com</li>
+<li> 10:01 www.google.com</li>
+<li> 10:00 www.theguardian.com</li>
+<li class='same'> 09:34 www.theguardian.com</li>
 <li> 09:26 www.google.com</li>
 <li class='same'> 09:22 www.google.com</li>
 <li> 09:22 www.fanbyte.com</li>
