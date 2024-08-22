@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:34 <a href="https://www.youtube.com/watch?v=zU6l3aox00o">(94) Jenna Gets A Gossip Girl Audition | 30 Rock - YouTube</a></li>
+<ul><li> 15:52 news.google.com</li>
+<li> 15:50 <a href="https://www.youtube.com/watch?v=0xON3Nm1GO8">(94) All We Need Is a Progressive Candidate | The West Wing - YouTube</a></li>
+<li> 15:50 <a href="https://www.youtube.com/">(94) YouTube</a></li>
+<li> 15:37 <a href="https://www.youtube.com/watch?v=u11EF7B5BUQ">(94) DNC Opening Night Recap: Biden After Dark, Kamala Harris’s Smile & Hillary Clinton | The Daily Show - YouTube</a></li>
+<li> 15:36 <a href="https://www.youtube.com/">(94) YouTube</a></li>
+<li> 15:34 <a href="https://www.youtube.com/watch?v=zU6l3aox00o">(94) Jenna Gets A Gossip Girl Audition | 30 Rock - YouTube</a></li>
 <li> 15:33 <a href="https://www.youtube.com/">(94) YouTube</a></li>
 <li> 15:29 www.facebook.com</li>
 <li class='same'> 15:28 www.facebook.com</li>
