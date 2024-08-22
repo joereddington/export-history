@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7291)</li>
+<ol><li>www.google.com (7292)</li>
 <li>mail.google.com (5243)</li>
 <li>outlook.office.com (2769)</li>
-<li>www.facebook.com (2287)</li>
+<li>www.facebook.com (2289)</li>
 <li>docs.google.com (1695)</li>
 <li>calendar.google.com (1157)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
@@ -92,11 +92,11 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (396)</li>
 <li>drive.google.com (373)</li>
 <li>outlook.office365.com (367)</li>
-<li>web.whatsapp.com (350)</li>
+<li>web.whatsapp.com (351)</li>
 <li>login.microsoftonline.com (349)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (282)</li>
-<li>www.giantitp.com (261)</li>
+<li>www.giantitp.com (262)</li>
 <li>www.ebay.co.uk (258)</li>
 
 
@@ -105,6 +105,33 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 22/08/24</H3>
+
+<br>
+
+<ul><li> 20:45 www.diy.com</li>
+<li class='same'> 20:44 www.diy.com</li>
+<li class='same'> 20:43 www.diy.com</li>
+<li> 20:43 <a href="https://www.youtube.com/watch?v=MruyJ-h5QlQ">(94) DNC Kicks Off in Chicago, Harris & Walz Hit the Road, Trump Holds a Beauty Contest | The Daily Show - YouTube</a></li>
+<li> 20:43 www.diy.com</li>
+<li class='same'> 20:39 www.diy.com</li>
+<li class='same'> 20:38 www.diy.com</li>
+<li> 20:37 <a href="https://www.youtube.com/watch?v=02-dTZzuf-M">(94) Grace Kuhlenschmidt Puts Out the "Dad, I Need Help" Signal for Tim Walz at the DNC | The Daily Show - YouTube</a></li>
+<li> 20:37 <a href="https://www.youtube.com/watch?v=02-dTZzuf-M&themeRefresh=1">Grace Kuhlenschmidt Puts Out the "Dad, I Need Help" Signal for Tim Walz at the DNC | The Daily Show - YouTube</a></li>
+<li> 20:34 web.whatsapp.com</li>
+<li> 20:31 www.facebook.com</li>
+<li class='same'> 20:18 www.facebook.com</li>
+<li> 20:18 www.google.com</li>
+<li> 20:18 www.giantitp.com</li>
+<li> 20:17 <a href="https://www.youtube.com/watch?v=wEIc0mQ23AY&list=PLeskMkEaHJYcxsm_e32icLajviKrMLhM_">(94) Barack Obama Sizes Up Trump, Roll Call Vote Gets Lit & More DNC Night 2 Highlights | The Daily Show - YouTube</a></li>
+<li> 20:05 <a href="https://www.youtube.com/watch?v=u11EF7B5BUQ">(94) DNC Opening Night Recap: Biden After Dark, Kamala Harris’s Smile & Hillary Clinton | The Daily Show - YouTube</a></li>
+<li> 20:05 <a href="https://www.youtube.com/watch?v=wEIc0mQ23AY">(94) Barack Obama Sizes Up Trump, Roll Call Vote Gets Lit & More DNC Night 2 Highlights | The Daily Show - YouTube</a></li>
+<li> 20:05 <a href="https://www.youtube.com/">(94) YouTube</a></li>
+<li> 19:55 <a href="https://www.youtube.com/watch?v=gtnbaXPsUuM">(94) Everything Wrong with Patriot Games in 22 Minutes or Less - YouTube</a></li>
+<li> 19:54 <a href="https://www.youtube.com/@CinemaSins/videos">(94) CinemaSins - YouTube</a></li>
+<li> 19:54 <a href="https://www.youtube.com/@CinemaSins">(94) CinemaSins - YouTube</a></li>
+<li> 19:54 <a href="https://www.youtube.com/watch?v=NbX32jQwh7w">(94) Everything Wrong With Mission Impossible: Fallout - YouTube</a></li>
+<li> 19:54 <a href="https://www.youtube.com/">(94) YouTube</a></li>
+</ul>
 
 <br>
 
