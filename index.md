@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7308)</li>
-<li>mail.google.com (5243)</li>
+<ol><li>www.google.com (7315)</li>
+<li>mail.google.com (5244)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2292)</li>
-<li>docs.google.com (1695)</li>
+<li>docs.google.com (1696)</li>
 <li>calendar.google.com (1157)</li>
+<li>www.amazon.co.uk (1072)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.amazon.co.uk (1067)</li>
 <li>github.com (991)</li>
-<li>m.facebook.com (964)</li>
+<li>m.facebook.com (965)</li>
 <li>www.reddit.com (917)</li>
 <li>whitewaterwriters.com (603)</li>
-<li>gmail.com (583)</li>
+<li>gmail.com (584)</li>
 <li>chat.openai.com (575)</li>
-<li>tvtropes.org (565)</li>
+<li>tvtropes.org (567)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (448)</li>
-<li>www.theguardian.com (425)</li>
+<li>www.theguardian.com (426)</li>
 <li>kdp.amazon.com (406)</li>
 <li>teams.microsoft.com (398)</li>
 <li>forum.artofmemory.com (396)</li>
 <li>drive.google.com (373)</li>
 <li>outlook.office365.com (367)</li>
-<li>web.whatsapp.com (351)</li>
+<li>web.whatsapp.com (352)</li>
 <li>login.microsoftonline.com (348)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (282)</li>
-<li>www.giantitp.com (262)</li>
+<li>www.giantitp.com (263)</li>
 <li>www.ebay.co.uk (258)</li>
 
 
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:08 tvtropes.org</li>
+<ul><li> 17:57 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:15 tvtropes.org</li>
+<li class='same'> 17:14 tvtropes.org</li>
+<li class='same'> 17:08 tvtropes.org</li>
 <li class='same'> 17:06 tvtropes.org</li>
 <li class='same'> 17:04 tvtropes.org</li>
 <li> 17:04 m.youtube.com</li>
@@ -124,6 +131,19 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:54 www.reddit.com</li>
 <li> 15:54 www.google.com</li>
 <li class='same'> 15:53 www.google.com</li>
+<li> 15:40 www.theguardian.com</li>
+<li> 15:40 www.google.com</li>
+<li> 15:39 www.independent.co.uk</li>
+<li> 15:39 www.google.com</li>
+<li class='same'> 15:38 www.google.com</li>
+<li> 15:33 www.amazon.co.uk</li>
+<li class='same'> 15:32 www.amazon.co.uk</li>
+<li> 15:32 www.wob.com</li>
+<li> 15:31 www.google.com</li>
+<li> 15:31 www.amazon.co.uk</li>
+<li class='same'> 15:30 www.amazon.co.uk</li>
+<li class='same'> 15:29 www.amazon.co.uk</li>
+<li> 15:29 docs.google.com</li>
 </ul>
 
 <br>
@@ -134,7 +154,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 09:34 www.google.com</li>
+<ul><li> 10:14 <a href="https://en.wikipedia.org/wiki/The_Color_Purple_(1985_film)">The Color Purple (1985 film) - Wikipedia</a></li>
+<li> 10:13 <a href="https://en.wikipedia.org/wiki/Commando_(1985_film)">Commando (1985 film) - Wikipedia</a></li>
+<li> 10:12 <a href="https://en.wikipedia.org/wiki/Cheech_Marin">Cheech Marin - Wikipedia</a></li>
+<li> 10:12 <a href="https://en.wikipedia.org/wiki/Robbi_Chong">Robbi Chong - Wikipedia</a></li>
+<li> 10:12 <a href="https://en.wikipedia.org/wiki/Rae_Dawn_Chong">Rae Dawn Chong - Wikipedia</a></li>
+<li> 10:09 <a href="https://en.wikipedia.org/wiki/Tommy_Chong">Tommy Chong - Wikipedia</a></li>
+<li> 10:08 <a href="https://en.wikipedia.org/wiki/Jordan_Belfort">Jordan Belfort - Wikipedia</a></li>
+<li> 10:07 <a href="https://en.wikipedia.org/wiki/Nadine_Macaluso">Nadine Macaluso - Wikipedia</a></li>
+<li> 10:06 <a href="https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)">The Wolf of Wall Street (2013 film) - Wikipedia</a></li>
+<li> 10:04 <a href="https://en.wikipedia.org/wiki/Boiler_Room_(film)">Boiler Room (film) - Wikipedia</a></li>
+<li> 10:02 <a href="https://en.wikipedia.org/wiki/Sam_Giancana">Sam Giancana - Wikipedia</a></li>
+<li> 10:02 <a href="https://en.wikipedia.org/wiki/John_F._Kennedy_document_hoax">John F. Kennedy document hoax - Wikipedia</a></li>
+<li> 09:54 <a href="https://en.wikipedia.org/wiki/John_F._Kennedy_document_hoax#/media/File:JFK_and_Marilyn_Monroe_1962.jpg">John F. Kennedy document hoax - Wikipedia</a></li>
+<li> 09:54 <a href="https://en.wikipedia.org/wiki/John_F._Kennedy_document_hoax">John F. Kennedy document hoax - Wikipedia</a></li>
+<li> 09:53 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 09:53 www.google.com</li>
+<li class='same'> 09:52 www.google.com</li>
+<li> 09:51 www.natesilver.net</li>
+<li> 09:51 feedly.com</li>
+<li> 09:51 www.giantitp.com</li>
+<li> 09:50 mail.google.com</li>
+<li> 09:50 gmail.com</li>
+<li> 09:49 www.google.com</li>
+<li class='same'> 09:34 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:29 web.whatsapp.com</li>
 </ul>
 
 <H3>Thursday, 22/08/24</H3>
@@ -145,7 +193,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 22:28 www.google.com</li>
+<ul><li> 22:28 www.google.com</li>
 <li> 22:28 www.theguardian.com</li>
 <li> 22:28 www.google.com</li>
 <li> 22:27 www.theguardian.com</li>
