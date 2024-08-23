@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (553)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
-<li>www.linkedin.com (447)</li>
+<li>www.linkedin.com (448)</li>
 <li>www.theguardian.com (421)</li>
 <li>kdp.amazon.com (406)</li>
 <li>teams.microsoft.com (399)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:05 www.facebook.com</li>
+<ul><li> 21:06 www.linkedin.com</li>
+<li> 21:06 feedly.com</li>
+<li> 21:05 www.facebook.com</li>
 <li class='same'> 21:03 www.facebook.com</li>
 <li> 21:02 www.amazon.co.uk</li>
 <li class='same'> 20:58 www.amazon.co.uk</li>
