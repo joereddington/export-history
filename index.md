@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7295)</li>
+<ol><li>www.google.com (7306)</li>
 <li>mail.google.com (5243)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2292)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (448)</li>
-<li>www.theguardian.com (422)</li>
+<li>www.theguardian.com (425)</li>
 <li>kdp.amazon.com (406)</li>
 <li>teams.microsoft.com (398)</li>
 <li>forum.artofmemory.com (396)</li>
@@ -108,8 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:54 www.google.com</li>
+<li class='same'> 15:53 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 14:51 www.theguardian.com</li>
 <li> 14:51 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:34 www.google.com</li>
 </ul>
 
 <H3>Thursday, 22/08/24</H3>
@@ -120,7 +131,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:06 www.linkedin.com</li>
+<ul><li class='same'> 22:28 www.google.com</li>
+<li> 22:28 www.theguardian.com</li>
+<li> 22:28 www.google.com</li>
+<li> 22:27 www.theguardian.com</li>
+<li class='same'> 22:26 www.theguardian.com</li>
+<li> 22:26 x.com</li>
+<li class='same'> 22:24 x.com</li>
+<li class='same'> 22:23 x.com</li>
+<li> 22:23 twitter.com</li>
+<li> 22:23 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 21:23 www.google.com</li>
+<li class='same'> 21:21 www.google.com</li>
+<li> 21:21 www.realweddings.com.au</li>
+<li> 21:06 www.linkedin.com</li>
 <li> 21:06 feedly.com</li>
 <li> 21:05 www.facebook.com</li>
 <li class='same'> 21:03 www.facebook.com</li>
@@ -155,6 +183,17 @@ With number of accesses/minutes in parentheses
 <li> 19:54 <a href="https://www.youtube.com/@CinemaSins">(94) CinemaSins - YouTube</a></li>
 <li> 19:54 <a href="https://www.youtube.com/watch?v=NbX32jQwh7w">(94) Everything Wrong With Mission Impossible: Fallout - YouTube</a></li>
 <li> 19:54 <a href="https://www.youtube.com/">(94) YouTube</a></li>
+</ul>
+
+<br>
+
+<ul><li> 17:24 www.realweddings.com.au</li>
+<li> 17:23 www.google.com</li>
+<li class='same'> 17:22 www.google.com</li>
+<li> 17:22 shop.reductress.com</li>
+<li> 17:22 reductress.com</li>
+<li class='same'> 17:21 reductress.com</li>
+<li> 17:21 www.sansui-corp.com</li>
 </ul>
 
 <br>
@@ -205,7 +244,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:02 www.sansui-corp.com</li>
+<ul><li> 12:14 www.sansui-corp.com</li>
+<li> 12:14 www.google.com</li>
+<li> 12:14 www.sansui-corp.com</li>
+<li class='same'> 12:02 www.sansui-corp.com</li>
 <li> 12:01 www.google.com</li>
 <li class='same'> 11:59 www.google.com</li>
 <li> 11:55 m.youtube.com</li>
@@ -64061,6 +64103,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:48 www.diy.com</li>
 <li class='same'> 11:46 www.diy.com</li>
 <li class='same'> 11:45 www.diy.com</li>
+<li class='same'> 11:44 www.diy.com</li>
 <li class='same'> 11:31 www.diy.com</li>
 <li class='same'> 11:30 www.diy.com</li>
 <li class='same'> 11:27 www.diy.com</li>
