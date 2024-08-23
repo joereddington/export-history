@@ -88,12 +88,12 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (448)</li>
 <li>www.theguardian.com (421)</li>
 <li>kdp.amazon.com (406)</li>
-<li>teams.microsoft.com (399)</li>
+<li>teams.microsoft.com (398)</li>
 <li>forum.artofmemory.com (396)</li>
 <li>drive.google.com (373)</li>
 <li>outlook.office365.com (367)</li>
 <li>web.whatsapp.com (351)</li>
-<li>login.microsoftonline.com (349)</li>
+<li>login.microsoftonline.com (348)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (282)</li>
 <li>www.giantitp.com (262)</li>
@@ -14725,8 +14725,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:38 outlook.office.com</li>
 <li> 11:10 www.linkedin.com</li>
 <li> 11:10 accounts.google.com</li>
-<li> 11:08 teams.microsoft.com</li>
-<li> 11:08 login.microsoftonline.com</li>
 <li> 11:08 teams.microsoft.com</li>
 <li> 11:04 outlook.office.com</li>
 <li class='same'> 11:00 outlook.office.com</li>
