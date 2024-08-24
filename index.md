@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7322)</li>
+<ol><li>www.google.com (7324)</li>
 <li>mail.google.com (5264)</li>
 <li>outlook.office.com (2769)</li>
-<li>www.facebook.com (2294)</li>
+<li>www.facebook.com (2295)</li>
 <li>docs.google.com (1696)</li>
-<li>calendar.google.com (1159)</li>
+<li>calendar.google.com (1160)</li>
 <li>www.amazon.co.uk (1078)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (991)</li>
-<li>m.facebook.com (965)</li>
+<li>m.facebook.com (966)</li>
 <li>www.reddit.com (920)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (586)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (448)</li>
-<li>www.theguardian.com (429)</li>
+<li>www.theguardian.com (432)</li>
 <li>kdp.amazon.com (407)</li>
 <li>forum.artofmemory.com (401)</li>
 <li>teams.microsoft.com (398)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:11 www.facebook.com</li>
+<ul><li> 10:00 www.google.com</li>
+<li> 10:00 www.theguardian.com</li>
+<li> 10:00 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:23 calendar.google.com</li>
+<li> 08:11 www.facebook.com</li>
 <li class='same'> 08:10 www.facebook.com</li>
 <li> 08:09 www.google.com</li>
 <li> 08:08 www.theguardian.com</li>
@@ -197,7 +205,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:57 m.facebook.com</li>
+<ul><li> 19:36 www.theguardian.com</li>
+<li class='same'> 19:35 www.theguardian.com</li>
+<li> 19:35 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:57 m.facebook.com</li>
 </ul>
 
 <br>
@@ -62084,6 +62099,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:57 kdpreports.amazon.com</li>
 <li class='same'> 06:56 kdpreports.amazon.com</li>
+<li> 06:55 www.facebook.com</li>
 <li> 06:52 calendar.google.com</li>
 <li> 06:41 <a href="https://www.bbc.co.uk/sport/football">Football - latest news today, results & video highlights - BBC Sport</a></li>
 <li> 06:40 mail.google.com</li>
