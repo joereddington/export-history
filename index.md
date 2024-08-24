@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7315)</li>
+<ol><li>www.google.com (7313)</li>
 <li>mail.google.com (5244)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2292)</li>
@@ -14517,7 +14517,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:30 tvtropes.org</li>
 <li class='same'> 14:29 tvtropes.org</li>
 <li> 14:29 www.google.com</li>
-<li> 14:27 www.paypal.com</li>
 <li> 14:27 checkout.steampowered.com</li>
 <li> 14:27 mail.google.com</li>
 <li> 14:27 gmail.com</li>
@@ -14711,10 +14710,8 @@ With number of accesses/minutes in parentheses
 <li> 06:43 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=5">Editing Yahoo! data breaches - Wikipedia</a></li>
 <li> 06:43 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
 <li> 06:43 www.cbc.ca</li>
-<li> 06:43 www.google.com</li>
-<li class='same'> 06:42 www.google.com</li>
-<li> 06:42 globalnews.ca</li>
 <li> 06:42 www.google.com</li>
+<li> 06:42 globalnews.ca</li>
 <li> 06:42 www.independent.co.uk</li>
 <li> 06:41 www.google.com</li>
 <li> 06:41 www.engadget.com</li>
