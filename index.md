@@ -68,43 +68,126 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7313)</li>
-<li>mail.google.com (5244)</li>
+<ol><li>www.google.com (7321)</li>
+<li>mail.google.com (5264)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2292)</li>
 <li>docs.google.com (1696)</li>
-<li>calendar.google.com (1157)</li>
-<li>www.amazon.co.uk (1072)</li>
+<li>calendar.google.com (1159)</li>
+<li>www.amazon.co.uk (1077)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (991)</li>
 <li>m.facebook.com (965)</li>
-<li>www.reddit.com (917)</li>
+<li>www.reddit.com (920)</li>
 <li>whitewaterwriters.com (603)</li>
-<li>gmail.com (584)</li>
-<li>chat.openai.com (575)</li>
+<li>gmail.com (586)</li>
+<li>chat.openai.com (576)</li>
 <li>tvtropes.org (567)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (448)</li>
-<li>www.theguardian.com (426)</li>
-<li>kdp.amazon.com (406)</li>
+<li>www.theguardian.com (427)</li>
+<li>kdp.amazon.com (407)</li>
+<li>forum.artofmemory.com (401)</li>
 <li>teams.microsoft.com (398)</li>
-<li>forum.artofmemory.com (396)</li>
 <li>drive.google.com (373)</li>
 <li>outlook.office365.com (367)</li>
-<li>web.whatsapp.com (352)</li>
+<li>web.whatsapp.com (354)</li>
 <li>login.microsoftonline.com (348)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (282)</li>
-<li>www.giantitp.com (263)</li>
-<li>www.ebay.co.uk (258)</li>
+<li>www.giantitp.com (264)</li>
+<li>www.ebay.co.uk (261)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Saturday, 24/08/24</H3>
+
+<br>
+
+<ul><li> 08:02 www.giantitp.com</li>
+<li> 07:55 www.ebay.co.uk</li>
+<li class='same'> 07:54 www.ebay.co.uk</li>
+<li> 07:53 www.amazon.co.uk</li>
+<li class='same'> 07:52 www.amazon.co.uk</li>
+<li> 07:52 www.ebay.co.uk</li>
+<li> 07:52 www.amazon.co.uk</li>
+<li class='same'> 07:51 www.amazon.co.uk</li>
+<li> 07:50 forum.artofmemory.com</li>
+<li> 07:49 www.google.com</li>
+<li> 07:48 <a href="https://www.youtube.com/watch?v=-6HOdHEeosc">(95) Lecture #1: Introduction — Brandon Sanderson on Writing Science Fiction and Fantasy - YouTube</a></li>
+<li> 07:48 www.google.com</li>
+<li> 07:48 <a href="https://www.youtube.com/watch?v=-6HOdHEeosc">(95) Lecture #1: Introduction — Brandon Sanderson on Writing Science Fiction and Fantasy - YouTube</a></li>
+<li> 07:48 <a href="https://www.youtube.com/@BrandSanderson/playlists">(95) Brandon Sanderson - YouTube</a></li>
+<li> 07:47 <a href="https://www.youtube.com/@BrandSanderson/podcasts">(95) Brandon Sanderson - YouTube</a></li>
+<li> 07:47 <a href="https://www.youtube.com/channel/UC3g-w83Cb5pEAu5UmRrge-A">(95) Brandon Sanderson - YouTube</a></li>
+<li> 07:47 www.google.com</li>
+<li> 07:47 forum.artofmemory.com</li>
+<li class='same'> 07:46 forum.artofmemory.com</li>
+<li class='same'> 07:45 forum.artofmemory.com</li>
+<li class='same'> 07:44 forum.artofmemory.com</li>
+<li> 07:44 kdpreports.amazon.com</li>
+<li> 07:44 kdp.amazon.com</li>
+<li> 07:43 web.whatsapp.com</li>
+<li> 07:30 mail.google.com</li>
+<li> 07:28 www.schneier.com</li>
+<li> 07:27 www.google.com</li>
+<li> 07:26 yougov.co.uk</li>
+<li> 07:26 t.co</li>
+<li> 07:25 www.reddit.com</li>
+<li> 07:25 www.google.com</li>
+<li> 07:24 www.thesun.co.uk</li>
+<li> 07:23 mail.google.com</li>
+<li> 07:22 www.reddit.com</li>
+<li class='same'> 07:20 www.reddit.com</li>
+<li> 07:18 mail.google.com</li>
+<li class='same'> 07:17 mail.google.com</li>
+<li> 07:16 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
+<li> 07:15 chatgpt.com</li>
+<li class='same'> 07:14 chatgpt.com</li>
+<li> 07:14 chat.openai.com</li>
+<li> 07:13 mail.google.com</li>
+<li class='same'> 07:12 mail.google.com</li>
+<li class='same'> 07:11 mail.google.com</li>
+<li> 07:11 gmail.com</li>
+<li> 07:10 www.google.com</li>
+<li> 07:10 mail.google.com</li>
+<li class='same'> 07:09 mail.google.com</li>
+<li> 07:08 calendar.google.com</li>
+<li> 07:08 mail.google.com</li>
+<li class='same'> 07:07 mail.google.com</li>
+<li> 07:07 app.metorik.com</li>
+<li> 07:07 mail.google.com</li>
+<li> 07:06 calendar.google.com</li>
+<li> 07:06 mail.google.com</li>
+<li> 07:04 web.whatsapp.com</li>
+<li> 07:04 mail.google.com</li>
+<li class='same'> 07:03 mail.google.com</li>
+<li> 07:02 www.amazon.co.uk</li>
+<li> 07:02 www.google.com</li>
+<li> 07:02 mail.google.com</li>
+<li class='same'> 07:01 mail.google.com</li>
+<li> 07:01 orbital.fusemetrix.com</li>
+<li> 07:01 mail.google.com</li>
+<li> 07:01 www.natesilver.net</li>
+<li> 07:01 substack.com</li>
+<li> 07:01 mail.google.com</li>
+<li> 07:00 tradehq.co.uk</li>
+<li> 07:00 mail.google.com</li>
+<li> 07:00 gmail.com</li>
+<li> 06:59 www.theguardian.com</li>
+<li> 06:58 www.google.com</li>
+<li> 06:52 www.natesilver.net</li>
+</ul>
+
 <H3>Friday, 23/08/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
