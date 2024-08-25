@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7325)</li>
+<ol><li>www.google.com (7331)</li>
 <li>mail.google.com (5264)</li>
 <li>outlook.office.com (2769)</li>
-<li>www.facebook.com (2295)</li>
+<li>www.facebook.com (2301)</li>
 <li>docs.google.com (1696)</li>
 <li>calendar.google.com (1160)</li>
 <li>www.amazon.co.uk (1081)</li>
@@ -81,11 +81,11 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (925)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (586)</li>
-<li>chat.openai.com (576)</li>
+<li>chat.openai.com (577)</li>
 <li>tvtropes.org (567)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
-<li>www.linkedin.com (448)</li>
+<li>www.linkedin.com (450)</li>
 <li>www.theguardian.com (433)</li>
 <li>kdp.amazon.com (407)</li>
 <li>forum.artofmemory.com (402)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:18 www.amazon.co.uk</li>
+<ul><li> 13:59 www.linkedin.com</li>
+<li> 13:58 www.google.com</li>
+<li> 13:58 www.linkedin.com</li>
+<li> 13:50 www.lancaster.ac.uk</li>
+<li> 13:50 www.google.com</li>
+<li> 13:47 chatgpt.com</li>
+<li> 13:47 chat.openai.com</li>
+<li> 13:44 www.google.com</li>
+<li> 13:36 www.facebook.com</li>
+<li> 13:35 www.forvismazars.com</li>
+<li> 13:34 find-and-update.company-information.service.gov.uk</li>
+<li> 13:34 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:37 www.facebook.com</li>
+<li class='same'> 12:36 www.facebook.com</li>
+<li class='same'> 12:35 www.facebook.com</li>
+<li class='same'> 12:33 www.facebook.com</li>
+<li class='same'> 12:32 www.facebook.com</li>
+<li> 12:21 www.spotify.com</li>
+<li> 12:21 www.google.com</li>
+<li> 12:21 support.spotify.com</li>
+<li> 12:21 community.spotify.com</li>
+<li> 12:20 www.google.com</li>
+<li> 12:20 www.natesilver.net</li>
+<li> 12:18 www.amazon.co.uk</li>
 <li> 12:18 www.google.com</li>
 <li> 12:18 www.amazon.co.uk</li>
 <li class='same'> 12:17 www.amazon.co.uk</li>
