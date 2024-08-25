@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (587)</li>
 <li>chat.openai.com (577)</li>
-<li>tvtropes.org (567)</li>
+<li>tvtropes.org (570)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (451)</li>
@@ -108,8 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:47 www.google.com</li>
-<li> 19:47 www.tiktok.com</li>
+<ul><li> 22:03 tvtropes.org</li>
+<li class='same'> 22:01 tvtropes.org</li>
+<li class='same'> 21:57 tvtropes.org</li>
+<li> 21:57 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:47 www.tiktok.com</li>
 </ul>
 
 <br>
