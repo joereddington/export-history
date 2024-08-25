@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1160)</li>
 <li>www.amazon.co.uk (1078)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>github.com (991)</li>
+<li>github.com (992)</li>
 <li>m.facebook.com (966)</li>
-<li>www.reddit.com (920)</li>
+<li>www.reddit.com (925)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (586)</li>
 <li>chat.openai.com (576)</li>
@@ -86,9 +86,9 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (448)</li>
-<li>www.theguardian.com (432)</li>
+<li>www.theguardian.com (433)</li>
 <li>kdp.amazon.com (407)</li>
-<li>forum.artofmemory.com (401)</li>
+<li>forum.artofmemory.com (402)</li>
 <li>teams.microsoft.com (398)</li>
 <li>drive.google.com (373)</li>
 <li>outlook.office365.com (367)</li>
@@ -104,7 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 25/08/24</H3>
+
+<br>
+
+<ul><li> 11:54 forum.artofmemory.com</li>
+<li> 11:54 artofmemory.com</li>
+<li> 11:53 www.reddit.com</li>
+<li class='same'> 11:52 www.reddit.com</li>
+<li class='same'> 11:44 www.reddit.com</li>
+<li class='same'> 11:43 www.reddit.com</li>
+<li class='same'> 11:41 www.reddit.com</li>
+<li> 11:36 www.theguardian.com</li>
+<li> 11:34 claude.ai</li>
+<li class='same'> 11:33 claude.ai</li>
+<li> 11:33 github.com</li>
+</ul>
+
 <H3>Saturday, 24/08/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
