@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7338)</li>
+<ol><li>www.google.com (7336)</li>
 <li>mail.google.com (5266)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2302)</li>
@@ -104,7 +104,20 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 26/08/24</H3>
+
+<br>
+
+<ul><li> 06:12 www.politico.com</li>
+<li class='same'> 06:11 www.politico.com</li>
+<li> 06:11 www.google.com</li>
+</ul>
+
 <H3>Sunday, 25/08/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -14174,7 +14187,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:42 www.facebook.com</li>
 <li> 16:41 www.reddit.com</li>
 <li> 16:41 www.facebook.com</li>
-<li> 16:40 doc-0o-34-sheets.googleusercontent.com</li>
 <li> 16:40 Local file</li>
 <li> 16:39 docs.google.com</li>
 <li> 16:39 www.wolframalpha.com</li>
@@ -14215,7 +14227,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:00 docs.google.com</li>
 <li class='same'> 12:59 docs.google.com</li>
 <li> 12:58 <a href="https://en.wikipedia.org/wiki?curid=29425657">Oliver Perry Temple - Wikipedia</a></li>
-<li> 12:58 <a href="http://en.wikipedia.org/wiki?curid=29425657"></a></li>
 <li> 12:58 peoplebyinitials.com</li>
 <li class='same'> 12:57 peoplebyinitials.com</li>
 <li class='same'> 12:56 peoplebyinitials.com</li>
@@ -14229,27 +14240,19 @@ With number of accesses/minutes in parentheses
 <li> 12:55 <a href="https://en.wikipedia.org/wiki/The_OA">The OA - Wikipedia</a></li>
 <li> 12:55 www.google.com</li>
 <li> 12:54 <a href="https://en.wikipedia.org/wiki?curid=20357557">Oleh Tyahnybok - Wikipedia</a></li>
-<li> 12:54 <a href="http://en.wikipedia.org/wiki?curid=20357557"></a></li>
 <li> 12:54 <a href="https://en.wikipedia.org/wiki?curid=17977305">Oleksandr Turchynov - Wikipedia</a></li>
-<li> 12:54 <a href="http://en.wikipedia.org/wiki?curid=17977305"></a></li>
 <li> 12:54 peoplebyinitials.com</li>
 <li class='same'> 12:53 peoplebyinitials.com</li>
 <li> 12:53 <a href="https://en.wikipedia.org/wiki?curid=71417">Tim Blake Nelson - Wikipedia</a></li>
-<li> 12:53 <a href="http://en.wikipedia.org/wiki?curid=71417"></a></li>
 <li> 12:52 <a href="https://en.wikipedia.org/wiki?curid=10519138">Ted Nugent - Wikipedia</a></li>
-<li> 12:52 <a href="http://en.wikipedia.org/wiki?curid=10519138"></a></li>
 <li> 12:52 peoplebyinitials.com</li>
 <li> 12:52 <a href="https://en.wikipedia.org/wiki/All-America">All-America - Wikipedia</a></li>
 <li> 12:52 <a href="https://en.wikipedia.org/wiki/All-American">All-America - Wikipedia</a></li>
 <li> 12:51 <a href="https://en.wikipedia.org/wiki?curid=169662">Tito Ortiz - Wikipedia</a></li>
-<li> 12:51 <a href="http://en.wikipedia.org/wiki?curid=169662"></a></li>
 <li> 12:51 <a href="https://en.wikipedia.org/wiki?curid=37983257">Tom Odell - Wikipedia</a></li>
-<li> 12:51 <a href="http://en.wikipedia.org/wiki?curid=37983257"></a></li>
 <li> 12:51 <a href="https://en.wikipedia.org/wiki?curid=1676648">Timothy Olyphant - Wikipedia</a></li>
-<li> 12:51 <a href="http://en.wikipedia.org/wiki?curid=1676648"></a></li>
 <li> 12:51 peoplebyinitials.com</li>
 <li> 12:51 <a href="https://en.wikipedia.org/wiki?curid=1167903">Sarah Alexander - Wikipedia</a></li>
-<li> 12:51 <a href="http://en.wikipedia.org/wiki?curid=1167903"></a></li>
 <li> 12:51 peoplebyinitials.com</li>
 <li class='same'> 12:50 peoplebyinitials.com</li>
 <li class='same'> 12:49 peoplebyinitials.com</li>
@@ -14268,10 +14271,8 @@ With number of accesses/minutes in parentheses
 <li> 12:45 www.google.com</li>
 <li> 12:45 peoplebyinitials.com</li>
 <li> 12:42 <a href="https://en.wikipedia.org/wiki?curid=613212">Chris Owens (performer) - Wikipedia</a></li>
-<li> 12:42 <a href="http://en.wikipedia.org/wiki?curid=613212"></a></li>
 <li> 12:42 peoplebyinitials.com</li>
 <li class='same'> 12:41 peoplebyinitials.com</li>
-<li> 12:41 www.google.com</li>
 <li> 12:41 encyclopedia.kids.net.au</li>
 <li> 12:41 www.google.com</li>
 <li> 12:39 docs.google.com</li>
@@ -14301,9 +14302,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:16 equalitytime.github.io</li>
 <li> 12:15 mail.google.com</li>
 <li> 12:15 accounts.youtube.com</li>
-<li> 12:15 accounts.google.com</li>
 <li> 12:15 accounts.google.co.uk</li>
-<li> 12:15 accounts.google.com</li>
 <li> 12:15 mail.google.com</li>
 <li> 12:15 gmail.com</li>
 <li> 12:15 accounts.google.com</li>
@@ -14352,7 +14351,6 @@ With number of accesses/minutes in parentheses
 <li> 10:25 www.paypal.com</li>
 <li> 10:21 calendar.google.com</li>
 <li> 10:20 www.paypal.com</li>
-<li class='same'> 10:19 www.paypal.com</li>
 <li> 10:14 www.facebook.com</li>
 <li class='same'> 10:13 www.facebook.com</li>
 <li> 10:13 www.paypal.com</li>
@@ -14374,7 +14372,6 @@ With number of accesses/minutes in parentheses
 <li> 09:48 www.surveymonkey.com</li>
 <li class='same'> 09:47 www.surveymonkey.com</li>
 <li> 09:47 eur03.safelinks.protection.outlook.com</li>
-<li> 09:47 www.google.com</li>
 <li> 09:46 mail.google.com</li>
 <li> 09:41 www.gov.uk</li>
 <li> 09:41 www.google.com</li>
@@ -14455,8 +14452,7 @@ With number of accesses/minutes in parentheses
 <li> 05:53 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=9">Yahoo! data breaches - Wikipedia</a></li>
 <li> 05:53 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=10">Yahoo! data breaches - Wikipedia</a></li>
 <li> 05:52 www.dataprotection.ie</li>
-<li> 05:52 www.google.com</li>
-<li class='same'> 05:51 www.google.com</li>
+<li> 05:51 www.google.com</li>
 <li> 05:51 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#Class_action_lawsuits">Yahoo! data breaches - Wikipedia</a></li>
 <li> 05:51 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=9">Yahoo! data breaches - Wikipedia</a></li>
 <li> 05:51 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#Class_action_lawsuits">Yahoo! data breaches - Wikipedia</a></li>
