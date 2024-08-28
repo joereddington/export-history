@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7365)</li>
+<ol><li>www.google.com (7368)</li>
 <li>mail.google.com (5268)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2302)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (992)</li>
 <li>m.facebook.com (969)</li>
-<li>www.reddit.com (926)</li>
+<li>www.reddit.com (929)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (587)</li>
 <li>chat.openai.com (577)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:53 www.reddit.com</li>
+<ul><li> 17:01 deadwrestlers.net</li>
+<li class='same'> 17:00 deadwrestlers.net</li>
+<li> 16:59 www.reddit.com</li>
+<li> 16:59 www.google.com</li>
+<li class='same'> 16:57 www.google.com</li>
+<li> 16:57 www.reddit.com</li>
+<li class='same'> 16:56 www.reddit.com</li>
+<li> 16:56 www.google.com</li>
+<li> 16:53 www.reddit.com</li>
 <li> 16:53 www.sciencefocus.com</li>
 <li> 16:53 www.google.com</li>
 <li> 16:53 www.sciencefocus.com</li>
