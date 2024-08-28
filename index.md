@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7362)</li>
+<ol><li>www.google.com (7365)</li>
 <li>mail.google.com (5268)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2302)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (992)</li>
 <li>m.facebook.com (969)</li>
-<li>www.reddit.com (925)</li>
+<li>www.reddit.com (926)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (587)</li>
 <li>chat.openai.com (577)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:46 www.google.com</li>
+<ul><li> 16:53 www.reddit.com</li>
+<li> 16:53 www.sciencefocus.com</li>
+<li> 16:53 www.google.com</li>
+<li> 16:53 www.sciencefocus.com</li>
+<li class='same'> 16:52 www.sciencefocus.com</li>
+<li class='same'> 16:51 www.sciencefocus.com</li>
+<li> 16:51 www.google.com</li>
+<li> 16:47 www.natesilver.net</li>
+<li class='same'> 16:46 www.natesilver.net</li>
+<li class='same'> 16:45 www.natesilver.net</li>
+<li> 16:42 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:46 www.google.com</li>
 <li> 14:32 www.cnbc.com</li>
 <li> 14:31 www.google.com</li>
 <li> 14:31 news.crunchbase.com</li>
