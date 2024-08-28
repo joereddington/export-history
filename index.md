@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7341)</li>
-<li>mail.google.com (5266)</li>
+<ol><li>www.google.com (7362)</li>
+<li>mail.google.com (5268)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2302)</li>
 <li>docs.google.com (1696)</li>
@@ -104,11 +104,84 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 28/08/24</H3>
+
+<br>
+
+<ul><li> 14:46 www.google.com</li>
+<li> 14:32 www.cnbc.com</li>
+<li> 14:31 www.google.com</li>
+<li> 14:31 news.crunchbase.com</li>
+<li> 14:31 www.google.com</li>
+<li class='same'> 14:30 www.google.com</li>
+<li> 14:30 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:45 mail.google.com</li>
+<li> 13:15 www.thewhitenettle.com</li>
+<li class='same'> 13:12 www.thewhitenettle.com</li>
+<li> 13:12 www.google.com</li>
+<li> 13:12 www.happycow.net</li>
+<li> 13:11 www.google.com</li>
+<li class='same'> 13:10 www.google.com</li>
+<li> 12:54 www.thewhitenettle.com</li>
+<li> 12:54 www.google.com</li>
+<li class='same'> 12:53 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:28 www.google.com</li>
+<li class='same'> 09:27 www.google.com</li>
+</ul>
+
+<H3>Tuesday, 27/08/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 15:44 www.google.com</li>
+<li class='same'> 15:43 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:21 www.google.com</li>
+<li> 11:21 uk.redbrain.shop</li>
+<li> 11:21 www.google.com</li>
+<li> 11:20 justglobes.uk</li>
+<li> 11:20 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:09 www.writetothem.com</li>
+<li> 10:09 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:53 www.google.com</li>
+<li class='same'> 07:52 www.google.com</li>
+</ul>
+
 <H3>Monday, 26/08/24</H3>
 
 <br>
 
-<ul><li> 21:23 www.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:28 www.google.com</li>
+<li> 21:25 www.visitsuffolk.com</li>
+<li> 21:24 www.google.com</li>
+<li class='same'> 21:23 www.google.com</li>
 <li class='same'> 21:06 www.google.com</li>
 <li class='same'> 21:05 www.google.com</li>
 </ul>
