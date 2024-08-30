@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7371)</li>
+<ol><li>www.google.com (7364)</li>
 <li>mail.google.com (5268)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2302)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (373)</li>
 <li>outlook.office365.com (367)</li>
 <li>web.whatsapp.com (354)</li>
-<li>login.microsoftonline.com (344)</li>
+<li>login.microsoftonline.com (343)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (281)</li>
 <li>www.giantitp.com (264)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:36 www.google.com</li>
+<ul><li> 16:29 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:36 www.google.com</li>
 </ul>
 
 <br>
@@ -13171,7 +13176,6 @@ With number of accesses/minutes in parentheses
 <li> 16:13 www.google.com</li>
 <li> 16:12 github.com</li>
 <li> 16:11 www.reddit.com</li>
-<li> 16:11 www.google.com</li>
 <li> 16:10 <a href="https://stackoverflow.com/users/1019455/joe">User joe - Stack Overflow</a></li>
 <li> 16:08 <a href="https://stackoverflow.com/questions/39671998/macbook-openemu-python-send-keystrokes">macos - Macbook OpenEmu Python send keystrokes - Stack Overflow</a></li>
 <li> 16:08 www.google.com</li>
@@ -13187,17 +13191,13 @@ With number of accesses/minutes in parentheses
 <li> 15:59 www.google.com</li>
 <li> 15:58 store.steampowered.com</li>
 <li> 15:58 www.google.com</li>
-<li> 15:54 stamenoperas.top</li>
 <li> 15:54 gistinger.com</li>
 <li> 15:54 s.viiiyskm.com</li>
 <li> 15:54 lusherdisty.com</li>
 <li> 15:54 toopsoug.net</li>
 <li> 15:54 c.adsco.re</li>
-<li> 15:54 waviraalkenna.top</li>
 <li> 15:54 toopsoug.net</li>
 <li> 15:54 lusherdisty.com</li>
-<li> 15:54 172.255.103.103</li>
-<li> 15:54 stamenoperas.top</li>
 <li> 15:53 www.retrogames.cc</li>
 <li> 15:53 www.google.com</li>
 <li> 15:52 www.reddit.com</li>
@@ -13205,11 +13205,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:51 www.google.com</li>
 <li> 15:47 mail.google.com</li>
 <li> 15:47 dragonbox.de</li>
-<li> 15:46 www.paypal.com</li>
-<li> 15:44 dragonbox.de</li>
+<li class='same'> 15:44 dragonbox.de</li>
 <li class='same'> 15:43 dragonbox.de</li>
 <li> 15:43 www.videogamesage.com</li>
-<li> 15:43 www.google.com</li>
 <li> 15:42 www.reddit.com</li>
 <li> 15:42 www.google.com</li>
 <li> 15:41 www.ebay.co.uk</li>
@@ -13275,7 +13273,6 @@ With number of accesses/minutes in parentheses
 <li> 15:08 www.google.com</li>
 <li> 15:07 www.instructables.com</li>
 <li> 15:07 www.reddit.com</li>
-<li> 15:07 www.google.com</li>
 <li> 15:06 www.byowave.com</li>
 <li> 15:06 www.google.com</li>
 <li> 15:05 arstechnica.com</li>
@@ -13310,8 +13307,7 @@ With number of accesses/minutes in parentheses
 <li> 14:49 www.google.com</li>
 <li> 14:49 forum.gimx.fr</li>
 <li class='same'> 14:48 forum.gimx.fr</li>
-<li> 14:48 www.google.com</li>
-<li class='same'> 14:47 www.google.com</li>
+<li> 14:47 www.google.com</li>
 <li> 14:47 github.com</li>
 <li> 14:46 blog.gimx.fr</li>
 <li> 14:46 www.google.com</li>
@@ -13349,7 +13345,6 @@ With number of accesses/minutes in parentheses
 <li> 14:10 chatgpt.com</li>
 <li> 14:10 chat.openai.com</li>
 <li> 14:05 mail.google.com</li>
-<li> 14:01 www.google.com</li>
 <li> 14:01 knowyourmeme.com</li>
 <li> 14:01 www.google.com</li>
 <li> 13:56 mail.google.com</li>
@@ -13399,7 +13394,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:32 outlook.office.com</li>
 <li> 13:32 www.enet.uk.net</li>
 <li class='same'> 13:25 www.enet.uk.net</li>
-<li> 13:25 eur03.safelinks.protection.outlook.com</li>
 <li> 13:24 mail.google.com</li>
 <li> 13:23 outlook.office.com</li>
 <li> 13:23 web.whatsapp.com</li>
@@ -13427,8 +13421,7 @@ With number of accesses/minutes in parentheses
 <li> 13:15 www.google.com</li>
 <li> 13:15 www.ubuntuvibes.com</li>
 <li> 13:15 www.reddit.com</li>
-<li> 13:15 www.google.com</li>
-<li class='same'> 13:14 www.google.com</li>
+<li> 13:14 www.google.com</li>
 <li> 13:14 blog.gimx.fr</li>
 <li> 13:14 www.google.com</li>
 <li> 13:13 <a href="https://www.youtube.com/@markjones6538">Mark Jones - YouTube</a></li>
@@ -13442,7 +13435,6 @@ With number of accesses/minutes in parentheses
 <li> 13:08 mail.google.com</li>
 <li> 13:08 gmail.com</li>
 <li> 13:06 markhedleyjones.com</li>
-<li> 13:06 www.google.com</li>
 <li> 13:06 www.reddit.com</li>
 <li> 13:06 www.google.com</li>
 <li> 13:05 www.facebook.com</li>
@@ -13482,7 +13474,6 @@ With number of accesses/minutes in parentheses
 <li> 12:20 www.facebook.com</li>
 <li class='same'> 12:17 www.facebook.com</li>
 <li> 12:11 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
-<li> 12:10 scontent-lhr6-2.xx.fbcdn.net</li>
 <li> 12:10 www.facebook.com</li>
 <li> 12:09 www.google.com</li>
 <li> 12:06 www.facebook.com</li>
@@ -13558,8 +13549,7 @@ With number of accesses/minutes in parentheses
 <li> 10:30 outlook.office.com</li>
 <li class='same'> 10:29 outlook.office.com</li>
 <li> 10:26 store.playstation.com</li>
-<li> 10:26 www.google.com</li>
-<li class='same'> 10:25 www.google.com</li>
+<li> 10:25 www.google.com</li>
 <li> 10:20 www.facebook.com</li>
 <li> 10:17 www.electionpolling.co.uk</li>
 <li> 10:17 www.google.com</li>
@@ -13627,7 +13617,6 @@ With number of accesses/minutes in parentheses
 <li> 08:08 outlook.office.com</li>
 <li> 08:08 www.facebook.com</li>
 <li> 08:07 teams.microsoft.com</li>
-<li> 08:07 login.microsoftonline.com</li>
 <li> 08:07 outlook.office.com</li>
 <li class='same'> 08:06 outlook.office.com</li>
 </ul>
