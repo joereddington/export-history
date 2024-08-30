@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (929)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (588)</li>
-<li>chat.openai.com (577)</li>
+<li>chat.openai.com (578)</li>
 <li>tvtropes.org (570)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:26 www.amazon.co.uk</li>
+<ul><li> 17:49 chatgpt.com</li>
+<li class='same'> 17:48 chatgpt.com</li>
+<li> 17:48 chat.openai.com</li>
+<li> 17:26 www.amazon.co.uk</li>
 <li class='same'> 17:25 www.amazon.co.uk</li>
 <li class='same'> 17:24 www.amazon.co.uk</li>
 <li class='same'> 17:23 www.amazon.co.uk</li>
