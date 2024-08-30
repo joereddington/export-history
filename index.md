@@ -69,18 +69,18 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7364)</li>
-<li>mail.google.com (5268)</li>
+<li>mail.google.com (5271)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2302)</li>
 <li>docs.google.com (1696)</li>
-<li>calendar.google.com (1160)</li>
+<li>calendar.google.com (1165)</li>
 <li>www.amazon.co.uk (1080)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (992)</li>
 <li>m.facebook.com (969)</li>
 <li>www.reddit.com (929)</li>
 <li>whitewaterwriters.com (603)</li>
-<li>gmail.com (587)</li>
+<li>gmail.com (588)</li>
 <li>chat.openai.com (577)</li>
 <li>tvtropes.org (570)</li>
 <li>app.qbo.intuit.com (549)</li>
@@ -92,19 +92,47 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (373)</li>
 <li>outlook.office365.com (367)</li>
-<li>web.whatsapp.com (354)</li>
+<li>web.whatsapp.com (355)</li>
 <li>login.microsoftonline.com (343)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (281)</li>
 <li>www.giantitp.com (264)</li>
-<li>www.ebay.co.uk (260)</li>
+<li>www.ebay.co.uk (263)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Friday, 30/08/24</H3>
+
+<br>
+
+<ul><li> 15:08 www.ebay.co.uk</li>
+<li> 15:08 contact.ebay.co.uk</li>
+<li> 15:08 www.ebay.co.uk</li>
+<li> 15:08 mesg.ebay.co.uk</li>
+<li> 15:08 accountsettings.ebay.co.uk</li>
+<li> 15:08 signin.ebay.co.uk</li>
+<li> 15:08 mesg.ebay.co.uk</li>
+<li> 15:08 www.ebay.co.uk</li>
+<li> 15:08 mail.google.com</li>
+<li> 15:07 calendar.google.com</li>
+<li class='same'> 15:06 calendar.google.com</li>
+<li class='same'> 15:04 calendar.google.com</li>
+<li class='same'> 15:03 calendar.google.com</li>
+<li class='same'> 15:02 calendar.google.com</li>
+<li> 15:00 web.whatsapp.com</li>
+<li> 15:00 mail.google.com</li>
+<li> 15:00 gmail.com</li>
+<li> 14:54 mail.google.com</li>
+</ul>
+
 <H3>Thursday, 29/08/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
