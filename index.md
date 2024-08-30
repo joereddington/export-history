@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (2302)</li>
 <li>docs.google.com (1696)</li>
 <li>calendar.google.com (1166)</li>
-<li>www.amazon.co.uk (1084)</li>
+<li>www.amazon.co.uk (1085)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (992)</li>
 <li>m.facebook.com (969)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (343)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (281)</li>
+<li>www.ebay.co.uk (265)</li>
 <li>www.giantitp.com (264)</li>
-<li>www.ebay.co.uk (263)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:38 <a href="https://www.youtube.com/results?search_query=clean+iphone+charging+port"></a></li>
+<ul><li> 16:43 www.amazon.co.uk</li>
+<li> 16:43 www.ebay.co.uk</li>
+<li class='same'> 16:42 www.ebay.co.uk</li>
+<li> 16:38 <a href="https://www.youtube.com/results?search_query=clean+iphone+charging+port">(97) clean iphone charging port - YouTube</a></li>
+<li> 16:38 <a href="https://www.youtube.com/shorts/g-uhIxjXnzA">(97) Cleaning The Dirtiest iPhone Charging Port Ever! - YouTube</a></li>
+<li> 16:38 <a href="https://www.youtube.com/results?search_query=clean+iphone+charging+port">(97) clean iphone charging port - YouTube</a></li>
 <li> 16:38 <a href="https://www.youtube.com/results?search_query=clean+iphone+">(97) clean iphone - YouTube</a></li>
 <li> 16:32 <a href="https://www.youtube.com/results?search_query=google+photos+guide">(97) google photos guide - YouTube</a></li>
 <li> 16:32 www.amazon.co.uk</li>
