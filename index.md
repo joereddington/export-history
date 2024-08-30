@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7364)</li>
-<li>mail.google.com (5272)</li>
+<ol><li>www.google.com (7367)</li>
+<li>mail.google.com (5273)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2302)</li>
 <li>docs.google.com (1696)</li>
 <li>calendar.google.com (1166)</li>
 <li>www.amazon.co.uk (1094)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>github.com (992)</li>
+<li>github.com (993)</li>
 <li>m.facebook.com (969)</li>
 <li>www.reddit.com (929)</li>
 <li>whitewaterwriters.com (603)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (343)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (281)</li>
+<li>www.giantitp.com (265)</li>
 <li>www.ebay.co.uk (265)</li>
-<li>www.giantitp.com (264)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 30/08/24</H3>
+
+<br>
+
+<ul><li> 19:00 www.giantitp.com</li>
+<li> 19:00 ridiculouslyinteresting.com</li>
+<li> 19:00 www.google.com</li>
+<li> 18:46 community.folivora.ai</li>
+<li> 18:46 github.com</li>
+<li> 18:46 www.google.com</li>
+<li> 18:46 adblockplus.org</li>
+<li> 18:46 www.google.com</li>
+</ul>
 
 <br>
 
@@ -278,7 +290,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 11:21 www.google.com</li>
+<ul><li> 13:05 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:21 www.google.com</li>
 <li> 11:21 uk.redbrain.shop</li>
 <li> 11:21 www.google.com</li>
 <li> 11:20 justglobes.uk</li>
