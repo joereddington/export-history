@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (373)</li>
 <li>outlook.office365.com (367)</li>
-<li>web.whatsapp.com (355)</li>
+<li>web.whatsapp.com (356)</li>
 <li>login.microsoftonline.com (343)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (281)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:35 <a href="https://www.youtube.com/watch?v=HWT_LWP0dkY"></a></li>
+<ul><li> 07:39 web.whatsapp.com</li>
+<li> 07:35 <a href="https://www.youtube.com/watch?v=HWT_LWP0dkY">(98) darktable ep 104 - Crop, rotate and perspective - YouTube</a></li>
 <li> 07:17 www.dpreview.com</li>
 <li> 07:17 www.google.com</li>
 <li> 07:16 discuss.pixls.us</li>
