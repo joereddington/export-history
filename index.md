@@ -108,6 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 08:43 www.parkrun.com</li>
+<li> 08:43 www.google.com</li>
+<li> 08:42 www.parkrun.org.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 07:39 web.whatsapp.com</li>
 <li> 07:35 <a href="https://www.youtube.com/watch?v=HWT_LWP0dkY">(98) darktable ep 104 - Crop, rotate and perspective - YouTube</a></li>
 <li> 07:17 www.dpreview.com</li>
@@ -13188,8 +13195,7 @@ With number of accesses/minutes in parentheses
 <li> 08:35 kodub.itch.io</li>
 <li> 08:35 rewindgames.itch.io</li>
 <li> 08:35 itch.io</li>
-<li> 08:35 www.google.com</li>
-<li class='same'> 08:34 www.google.com</li>
+<li> 08:34 www.google.com</li>
 <li> 08:34 <a href="https://www.youtube.com/watch?v=Zbeu2ptqya8">Reckless Drivin' for Macintosh REVIEW - Classic Mac Games - YouTube</a></li>
 <li> 08:33 www.reddit.com</li>
 <li> 08:33 www.google.com</li>
