@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:55 software.opensuse.org</li>
+<ul><li> 07:08 <a href="https://www.youtube.com/watch?v=IgOxEltt4co"></a></li>
+<li> 07:01 <a href="https://www.youtube.com/watch?v=nOYgdrKoW5U&t=10s">(98) darktable ep 101 - 3.8 new features summary (pt 1 of 3) - YouTube</a></li>
+<li> 07:01 <a href="https://www.youtube.com/watch?v=TavGDYS6a2I">(98) darktable ep 141 - New features in darktable 4.8 - pt 1 of 3 - YouTube</a></li>
+<li> 06:58 <a href="https://www.youtube.com/watch?v=nOYgdrKoW5U">(98) darktable ep 101 - 3.8 new features summary (pt 1 of 3) - YouTube</a></li>
+<li> 06:55 software.opensuse.org</li>
 <li> 06:55 www.darktable.org</li>
 <li> 06:54 www.google.com</li>
 <li> 06:53 <a href="https://www.youtube.com/@audio2u/videos">(98) Bruce Williams Photography - YouTube</a></li>
