@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7374)</li>
+<ol><li>www.google.com (7375)</li>
 <li>mail.google.com (5273)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2302)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (993)</li>
 <li>m.facebook.com (969)</li>
-<li>www.reddit.com (929)</li>
+<li>www.reddit.com (930)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (588)</li>
 <li>chat.openai.com (578)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:08 <a href="https://www.youtube.com/watch?v=IgOxEltt4co"></a></li>
+<ul><li> 07:16 discuss.pixls.us</li>
+<li> 07:15 www.reddit.com</li>
+<li> 07:15 www.dpreview.com</li>
+<li> 07:15 www.google.com</li>
+<li> 07:14 <a href="https://www.youtube.com/watch?v=lECZUs9omOI">(98) darktable ep 103 - 3.8 new features summary (pt 3 of 3) - YouTube</a></li>
+<li> 07:08 <a href="https://www.youtube.com/watch?v=IgOxEltt4co">(98) darktable ep 102 - 3.8 new features summary (pt 2 of 3) - YouTube</a></li>
 <li> 07:01 <a href="https://www.youtube.com/watch?v=nOYgdrKoW5U&t=10s">(98) darktable ep 101 - 3.8 new features summary (pt 1 of 3) - YouTube</a></li>
 <li> 07:01 <a href="https://www.youtube.com/watch?v=TavGDYS6a2I">(98) darktable ep 141 - New features in darktable 4.8 - pt 1 of 3 - YouTube</a></li>
 <li> 06:58 <a href="https://www.youtube.com/watch?v=nOYgdrKoW5U">(98) darktable ep 101 - 3.8 new features summary (pt 1 of 3) - YouTube</a></li>
