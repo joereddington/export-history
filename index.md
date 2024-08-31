@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7379)</li>
+<ol><li>www.google.com (7381)</li>
 <li>mail.google.com (5273)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2302)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:30 <a href="https://www.youtube.com/watch?v=999qxkLZrzs&t=103s">(98) darktable ep 034 - End to end workflow (landscape) - YouTube</a></li>
+<ul><li> 12:03 <a href="https://www.youtube.com/watch?v=aNylRjDRxTw">(98) darktable ep 098 - Color Balance RGB - YouTube</a></li>
+<li> 12:03 <a href="https://www.youtube.com/results?search_query=darktable+colour+balance+">(98) darktable colour balance - YouTube</a></li>
+<li> 11:57 <a href="https://www.youtube.com/watch?v=8KoNlz6mMvc">(98) How to change the colour of anything in darktable - YouTube</a></li>
+<li> 11:57 www.google.com</li>
+<li class='same'> 11:51 www.google.com</li>
+<li> 11:39 <a href="https://www.youtube.com/watch?v=Xeucq1UCCIw">(98) darktable ep 133 - New features in 4.4 (Masks) - YouTube</a></li>
+<li> 11:38 <a href="https://www.youtube.com/watch?v=fcqp7vvPFCo">(98) Darktable's SECRET SUPERPOWER: Parametric Masks! - YouTube</a></li>
+<li> 11:38 <a href="https://www.youtube.com/results?search_query=darktable+exposure+mask">(98) darktable exposure mask - YouTube</a></li>
+<li> 11:37 <a href="https://www.youtube.com/watch?v=v8Z63QZ1IVI&t=738s">(98) darktable ep 057 - The Filmic RGB module - YouTube</a></li>
+<li> 11:37 <a href="https://www.youtube.com/results?search_query=darktable+beach+photos">(98) darktable beach photos - YouTube</a></li>
+<li> 11:30 <a href="https://www.youtube.com/watch?v=999qxkLZrzs&t=103s">(98) darktable ep 034 - End to end workflow (landscape) - YouTube</a></li>
 <li> 11:30 <a href="https://www.youtube.com/results?search_query=darktable+beach+photos">(98) darktable beach photos - YouTube</a></li>
 <li> 11:30 <a href="https://www.youtube.com/">(98) YouTube</a></li>
 <li> 11:27 www.reddit.com</li>
