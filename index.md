@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7381)</li>
+<ol><li>www.google.com (7382)</li>
 <li>mail.google.com (5273)</li>
 <li>outlook.office.com (2769)</li>
-<li>www.facebook.com (2302)</li>
+<li>www.facebook.com (2310)</li>
 <li>docs.google.com (1696)</li>
 <li>calendar.google.com (1166)</li>
 <li>www.amazon.co.uk (1103)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:03 <a href="https://www.youtube.com/watch?v=aNylRjDRxTw">(98) darktable ep 098 - Color Balance RGB - YouTube</a></li>
+<ul><li> 12:40 www.facebook.com</li>
+<li class='same'> 12:36 www.facebook.com</li>
+<li class='same'> 12:35 www.facebook.com</li>
+<li class='same'> 12:34 www.facebook.com</li>
+<li class='same'> 12:32 www.facebook.com</li>
+<li class='same'> 12:31 www.facebook.com</li>
+<li class='same'> 12:30 www.facebook.com</li>
+<li class='same'> 12:29 www.facebook.com</li>
+<li> 12:27 <a href="https://www.youtube.com/watch?v=1mJyBHrcA6U">(98) darktable ep 099 - Tone curve, RGB curve, and the Tone Equalizer - YouTube</a></li>
+<li> 12:20 www.google.com</li>
+<li> 12:03 <a href="https://www.youtube.com/watch?v=aNylRjDRxTw">(98) darktable ep 098 - Color Balance RGB - YouTube</a></li>
 <li> 12:03 <a href="https://www.youtube.com/results?search_query=darktable+colour+balance+">(98) darktable colour balance - YouTube</a></li>
 <li> 11:57 <a href="https://www.youtube.com/watch?v=8KoNlz6mMvc">(98) How to change the colour of anything in darktable - YouTube</a></li>
 <li> 11:57 www.google.com</li>
