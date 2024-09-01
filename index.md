@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7404)</li>
-<li>mail.google.com (5273)</li>
+<ol><li>www.google.com (7407)</li>
+<li>mail.google.com (5276)</li>
 <li>outlook.office.com (2769)</li>
-<li>www.facebook.com (2311)</li>
-<li>docs.google.com (1696)</li>
+<li>www.facebook.com (2317)</li>
+<li>docs.google.com (1697)</li>
 <li>calendar.google.com (1166)</li>
 <li>www.amazon.co.uk (1103)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
@@ -80,17 +80,17 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (969)</li>
 <li>www.reddit.com (963)</li>
 <li>whitewaterwriters.com (603)</li>
-<li>gmail.com (588)</li>
+<li>gmail.com (590)</li>
 <li>chat.openai.com (579)</li>
 <li>tvtropes.org (570)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (451)</li>
 <li>www.theguardian.com (444)</li>
-<li>kdp.amazon.com (407)</li>
-<li>forum.artofmemory.com (402)</li>
+<li>kdp.amazon.com (408)</li>
+<li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (396)</li>
-<li>drive.google.com (373)</li>
+<li>drive.google.com (374)</li>
 <li>outlook.office365.com (367)</li>
 <li>web.whatsapp.com (356)</li>
 <li>login.microsoftonline.com (343)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:12 www.natesilver.net</li>
+<ul><li> 13:31 blog.cryptographyengineering.com</li>
+<li> 13:31 feedly.com</li>
+<li> 13:31 www.feedly.com</li>
+<li> 13:31 feedly.com</li>
+<li> 13:30 mail.google.com</li>
+<li> 13:29 forum.artofmemory.com</li>
+<li> 13:22 kdpreports.amazon.com</li>
+<li> 13:22 kdp.amazon.com</li>
+<li> 13:21 mail.google.com</li>
+<li> 13:21 gmail.com</li>
+<li> 13:18 feedly.com</li>
+<li> 13:01 www.google.com</li>
+<li> 12:58 docs.google.com</li>
+<li> 12:58 sites.google.com</li>
+<li> 12:58 drive.google.com</li>
+<li> 12:58 sites.google.com</li>
+<li class='same'> 12:57 sites.google.com</li>
+<li> 12:57 www.google.com</li>
+<li> 12:57 <a href="https://www.youtube.com/watch?v=y7HrM-fk_Rc&list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i">(98) Marc Levoy - Lectures on Digital Photography - Lecture 1 (21mar16).mp4 - YouTube</a></li>
+<li> 12:57 <a href="https://www.youtube.com/results?search_query=marc+levy+photography">(98) marc levy photography - YouTube</a></li>
+<li> 12:50 www.patreon.com</li>
+<li> 12:50 <a href="https://www.youtube.com/watch?v=GxUu2g1vNQU">(98) darktable ep 140 - A noobies guide to processing RAW files in darktable - YouTube</a></li>
+<li> 12:49 www.audio2u.com</li>
+<li> 12:49 <a href="https://www.youtube.com/@audio2u">(98) Bruce Williams Photography - YouTube</a></li>
+<li> 12:49 brucewilliamsphotography.com</li>
+<li class='same'> 12:48 brucewilliamsphotography.com</li>
+<li> 12:48 www.google.com</li>
+<li> 12:48 <a href="https://www.youtube.com/">(98) YouTube</a></li>
+<li> 12:43 www.facebook.com</li>
+<li class='same'> 12:40 www.facebook.com</li>
+<li class='same'> 12:36 www.facebook.com</li>
+<li> 12:36 mail.google.com</li>
+<li> 12:36 gmail.com</li>
+<li> 12:35 www.facebook.com</li>
+<li class='same'> 12:34 www.facebook.com</li>
+<li class='same'> 12:32 www.facebook.com</li>
+<li> 12:27 <a href="https://www.youtube.com/watch?v=g0QUsOQwqRc">(98) 7 Glasses and the Bottle, Please | The West Wing - YouTube</a></li>
+<li> 12:27 <a href="https://www.youtube.com/">(98) YouTube</a></li>
+<li> 12:12 www.natesilver.net</li>
 <li> 12:12 www.google.com</li>
 <li> 12:11 www.theguardian.com</li>
 <li> 12:11 www.google.com</li>
@@ -7381,7 +7419,7 @@ With number of accesses/minutes in parentheses
 <li> 15:56 <a href="https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i">(59) Lectures on Digital Photography - YouTube</a></li>
 <li> 15:56 <a href="https://www.youtube.com/@marclevoy/playlists">(59) Marc Levoy - YouTube</a></li>
 <li> 15:56 <a href="https://www.youtube.com/@marclevoy">(59) Marc Levoy - YouTube</a></li>
-<li> 15:56 <a href="https://www.youtube.com/results?search_query=marc+levy+photography">(59) marc levy photography - YouTube</a></li>
+<li> 15:56 <a href="https://www.youtube.com/results?search_query=marc+levy+photography">(98) marc levy photography - YouTube</a></li>
 <li> 15:55 <a href="https://www.youtube.com/@OpenAI">(59) OpenAI - YouTube</a></li>
 <li> 15:55 <a href="https://www.youtube.com/watch?v=DQacCB9tDaw&list=WL&index=13">(59) Introducing GPT-4o - YouTube</a></li>
 <li> 15:55 <a href="https://www.youtube.com/watch?v=DQacCB9tDaw&list=WL&index=27">(59) Introducing GPT-4o - YouTube</a></li>
