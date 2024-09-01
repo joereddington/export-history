@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7401)</li>
+<ol><li>www.google.com (7404)</li>
 <li>mail.google.com (5273)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2311)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (451)</li>
-<li>www.theguardian.com (443)</li>
+<li>www.theguardian.com (444)</li>
 <li>kdp.amazon.com (407)</li>
 <li>forum.artofmemory.com (402)</li>
 <li>teams.microsoft.com (396)</li>
@@ -104,11 +104,29 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 01/09/24</H3>
+
+<br>
+
+<ul><li> 12:12 www.natesilver.net</li>
+<li> 12:12 www.google.com</li>
+<li> 12:11 www.theguardian.com</li>
+<li> 12:11 www.google.com</li>
+<li class='same'> 12:10 www.google.com</li>
+<li> 11:44 thegreatbritishawningandblindcompany.co.uk</li>
+<li> 11:43 m.youtube.com</li>
+<li> 11:43 www.timeanddate.com</li>
+</ul>
+
 <H3>Saturday, 31/08/24</H3>
 
 <br>
 
-<ul><li> 19:24 www.timeanddate.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:24 www.timeanddate.com</li>
 <li> 19:24 www.google.com</li>
 <li> 18:58 www.natesilver.net</li>
 <li> 18:58 www.google.com</li>
