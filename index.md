@@ -70,9 +70,9 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7426)</li>
 <li>mail.google.com (5334)</li>
-<li>outlook.office.com (2777)</li>
+<li>outlook.office.com (2784)</li>
 <li>www.facebook.com (2325)</li>
-<li>docs.google.com (1705)</li>
+<li>docs.google.com (1706)</li>
 <li>calendar.google.com (1176)</li>
 <li>www.amazon.co.uk (1112)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (376)</li>
 <li>outlook.office365.com (368)</li>
 <li>web.whatsapp.com (357)</li>
-<li>login.microsoftonline.com (341)</li>
+<li>login.microsoftonline.com (342)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (279)</li>
 <li>www.ebay.co.uk (267)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:49 outlook.office.com</li>
+<ul><li> 10:59 moodle2324.royalholloway.ac.uk</li>
+<li> 10:59 outlook.office.com</li>
+<li> 10:58 projects.cs.rhul.ac.uk</li>
+<li> 10:58 outlook.office.com</li>
+<li> 10:58 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 10:57 moodle2324.royalholloway.ac.uk</li>
+<li> 10:57 login.microsoftonline.com</li>
+<li> 10:57 eur03.safelinks.protection.outlook.com</li>
+<li> 10:57 outlook.office.com</li>
+<li class='same'> 10:56 outlook.office.com</li>
+<li> 10:55 Local file</li>
+<li> 10:55 outlook.office.com</li>
+<li> 10:54 docs.google.com</li>
+<li> 10:54 forms.gle</li>
+<li> 10:54 eur03.safelinks.protection.outlook.com</li>
+<li> 10:54 outlook.office.com</li>
+<li class='same'> 10:50 outlook.office.com</li>
+<li class='same'> 10:49 outlook.office.com</li>
 <li> 10:49 calendar.google.com</li>
 <li class='same'> 10:48 calendar.google.com</li>
 <li> 10:47 outlook.office.com</li>
