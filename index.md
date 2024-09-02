@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7434)</li>
-<li>mail.google.com (5351)</li>
-<li>outlook.office.com (2814)</li>
+<ol><li>www.google.com (7436)</li>
+<li>mail.google.com (5366)</li>
+<li>outlook.office.com (2816)</li>
 <li>www.facebook.com (2370)</li>
 <li>docs.google.com (1715)</li>
-<li>calendar.google.com (1178)</li>
-<li>www.amazon.co.uk (1116)</li>
+<li>calendar.google.com (1186)</li>
+<li>www.amazon.co.uk (1119)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
-<li>github.com (993)</li>
+<li>github.com (994)</li>
 <li>m.facebook.com (969)</li>
 <li>www.reddit.com (967)</li>
 <li>whitewaterwriters.com (603)</li>
-<li>gmail.com (593)</li>
+<li>gmail.com (596)</li>
 <li>chat.openai.com (580)</li>
 <li>tvtropes.org (573)</li>
 <li>app.qbo.intuit.com (550)</li>
 <li>en.m.wikipedia.org (474)</li>
+<li>www.linkedin.com (459)</li>
 <li>www.theguardian.com (456)</li>
-<li>www.linkedin.com (455)</li>
-<li>kdp.amazon.com (419)</li>
+<li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (376)</li>
@@ -108,12 +108,63 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:38 www.linkedin.com</li>
+<ul><li> 17:25 mail.google.com</li>
+<li class='same'> 17:23 mail.google.com</li>
+<li> 17:18 cc.amazon.com</li>
+<li> 17:17 kdp.amazon.com</li>
+<li> 17:15 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:15 mail.google.com</li>
+<li class='same'> 16:14 mail.google.com</li>
+<li> 16:14 gmail.com</li>
+<li> 16:14 mail.google.com</li>
+<li class='same'> 16:13 mail.google.com</li>
+<li> 16:13 accounts.google.com</li>
+<li> 16:13 mail.google.com</li>
+<li> 16:13 accounts.google.com</li>
+<li> 16:13 gmail.com</li>
+<li> 16:13 mail.google.com</li>
+<li> 16:13 calendar.google.com</li>
+<li> 16:13 mail.google.com</li>
+<li> 16:09 calendar.google.com</li>
+<li class='same'> 16:08 calendar.google.com</li>
+<li class='same'> 16:07 calendar.google.com</li>
+<li> 16:07 mail.google.com</li>
+<li> 16:06 calendar.google.com</li>
+<li> 16:05 themeads.org.uk</li>
+<li> 16:05 www.google.com</li>
+<li> 16:04 www.amazon.co.uk</li>
+<li class='same'> 16:03 www.amazon.co.uk</li>
+<li class='same'> 16:02 www.amazon.co.uk</li>
+<li> 16:00 calendar.google.com</li>
+<li class='same'> 15:59 calendar.google.com</li>
+<li> 15:59 github.com</li>
+<li> 15:58 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:53 mail.google.com</li>
+<li> 15:52 calendar.google.com</li>
+<li> 15:52 www.linkedin.com</li>
+<li class='same'> 15:51 www.linkedin.com</li>
+<li> 15:50 mail.google.com</li>
+<li> 15:49 www.linkedin.com</li>
+<li> 15:49 www.instagram.com</li>
+<li> 15:49 mail.google.com</li>
+<li> 15:48 www.linkedin.com</li>
+<li> 15:48 mail.google.com</li>
+<li> 15:48 gmail.com</li>
+<li> 15:48 outlook.office.com</li>
+<li> 15:47 www.bbc.com</li>
+<li> 15:46 www.google.com</li>
+<li> 15:42 outlook.office.com</li>
+<li> 15:38 www.linkedin.com</li>
 <li> 15:38 outlook.office.com</li>
 <li> 15:38 outlook.office365.com</li>
 <li> 15:38 outlook.office.com</li>
 <li> 15:38 mail.rhul.ac.uk</li>
 <li> 15:37 mail.google.com</li>
+<li> 15:34 www.newyorker.com</li>
 <li> 15:34 www.google.com</li>
 <li> 15:27 www.theguardian.com</li>
 <li class='same'> 15:26 www.theguardian.com</li>
