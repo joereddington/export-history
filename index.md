@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7417)</li>
-<li>mail.google.com (5296)</li>
+<ol><li>www.google.com (7418)</li>
+<li>mail.google.com (5298)</li>
 <li>outlook.office.com (2768)</li>
 <li>www.facebook.com (2317)</li>
-<li>docs.google.com (1697)</li>
+<li>docs.google.com (1701)</li>
 <li>calendar.google.com (1169)</li>
-<li>www.amazon.co.uk (1101)</li>
+<li>www.amazon.co.uk (1104)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (993)</li>
 <li>m.facebook.com (969)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:36 mail.google.com</li>
+<ul><li> 08:49 docs.google.com</li>
+<li class='same'> 08:48 docs.google.com</li>
+<li> 08:47 mail.google.com</li>
+<li> 08:46 www.amazon.co.uk</li>
+<li class='same'> 08:45 www.amazon.co.uk</li>
+<li class='same'> 08:44 www.amazon.co.uk</li>
+<li> 08:40 docs.google.com</li>
+<li> 08:40 www.google.com</li>
+<li> 08:40 docs.google.com</li>
+<li> 08:40 mail.google.com</li>
+<li class='same'> 08:36 mail.google.com</li>
 <li class='same'> 08:35 mail.google.com</li>
 <li> 08:35 contacts.globenewswire.com</li>
 <li> 08:35 www.google.com</li>
