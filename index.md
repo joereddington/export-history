@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7429)</li>
+<ol><li>www.google.com (7430)</li>
 <li>mail.google.com (5335)</li>
-<li>outlook.office.com (2792)</li>
-<li>www.facebook.com (2327)</li>
+<li>outlook.office.com (2793)</li>
+<li>www.facebook.com (2343)</li>
 <li>docs.google.com (1706)</li>
 <li>calendar.google.com (1178)</li>
 <li>www.amazon.co.uk (1116)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (993)</li>
 <li>m.facebook.com (969)</li>
-<li>www.reddit.com (964)</li>
+<li>www.reddit.com (965)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (592)</li>
-<li>chat.openai.com (579)</li>
-<li>tvtropes.org (571)</li>
+<li>chat.openai.com (580)</li>
+<li>tvtropes.org (573)</li>
 <li>app.qbo.intuit.com (550)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (454)</li>
@@ -93,11 +93,11 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (376)</li>
 <li>outlook.office365.com (368)</li>
 <li>web.whatsapp.com (359)</li>
-<li>login.microsoftonline.com (343)</li>
+<li>login.microsoftonline.com (344)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (279)</li>
+<li>www.giantitp.com (267)</li>
 <li>www.ebay.co.uk (267)</li>
-<li>www.giantitp.com (266)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:00 web.whatsapp.com</li>
+<ul><li> 12:48 gitlab.cim.rhul.ac.uk</li>
+<li> 12:42 chatgpt.com</li>
+<li> 12:42 chat.openai.com</li>
+<li> 12:41 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 12:40 gitlab.cim.rhul.ac.uk</li>
+<li> 12:31 www.facebook.com</li>
+<li class='same'> 12:30 www.facebook.com</li>
+<li class='same'> 12:29 www.facebook.com</li>
+<li class='same'> 12:28 www.facebook.com</li>
+<li class='same'> 12:27 www.facebook.com</li>
+<li class='same'> 12:26 www.facebook.com</li>
+<li class='same'> 12:25 www.facebook.com</li>
+<li class='same'> 12:24 www.facebook.com</li>
+<li class='same'> 12:23 www.facebook.com</li>
+<li class='same'> 12:22 www.facebook.com</li>
+<li class='same'> 12:21 www.facebook.com</li>
+<li class='same'> 12:20 www.facebook.com</li>
+<li class='same'> 12:19 www.facebook.com</li>
+<li class='same'> 12:18 www.facebook.com</li>
+<li class='same'> 12:15 www.facebook.com</li>
+<li> 12:14 www.reddit.com</li>
+<li> 12:12 tvtropes.org</li>
+<li class='same'> 12:08 tvtropes.org</li>
+<li> 12:08 www.google.com</li>
+<li> 12:07 www.facebook.com</li>
+<li> 12:06 www.giantitp.com</li>
+<li> 12:06 outlook.office.com</li>
+<li> 12:06 login.microsoftonline.com</li>
+<li> 12:00 web.whatsapp.com</li>
 <li> 12:00 mail.google.com</li>
 <li> 11:50 intranet.royalholloway.ac.uk</li>
 <li> 11:50 www.google.com</li>
