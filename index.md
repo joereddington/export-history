@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7426)</li>
 <li>mail.google.com (5334)</li>
-<li>outlook.office.com (2784)</li>
+<li>outlook.office.com (2788)</li>
 <li>www.facebook.com (2325)</li>
 <li>docs.google.com (1706)</li>
 <li>calendar.google.com (1176)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:01 moodle2324.royalholloway.ac.uk</li>
+<ul><li> 11:39 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 11:38 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 11:37 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 11:36 moodle2324.royalholloway.ac.uk</li>
+<li> 11:36 projects.cs.rhul.ac.uk</li>
+<li> 11:36 outlook.office.com</li>
+<li> 11:34 projects.cs.rhul.ac.uk</li>
+<li> 11:34 outlook.office.com</li>
+<li class='same'> 11:33 outlook.office.com</li>
+<li class='same'> 11:32 outlook.office.com</li>
+<li> 11:32 moodle2324.royalholloway.ac.uk</li>
+<li> 11:27 qbo.intuit.com</li>
+<li> 11:27 accounts.intuit.com</li>
+<li> 11:27 qbo.intuit.com</li>
+<li> 11:01 moodle2324.royalholloway.ac.uk</li>
 <li class='same'> 11:00 moodle2324.royalholloway.ac.uk</li>
 <li class='same'> 10:59 moodle2324.royalholloway.ac.uk</li>
 <li> 10:59 outlook.office.com</li>
