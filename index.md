@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7421)</li>
-<li>mail.google.com (5309)</li>
+<li>mail.google.com (5311)</li>
 <li>outlook.office.com (2768)</li>
-<li>www.facebook.com (2324)</li>
+<li>www.facebook.com (2325)</li>
 <li>docs.google.com (1704)</li>
-<li>calendar.google.com (1169)</li>
+<li>calendar.google.com (1170)</li>
 <li>www.amazon.co.uk (1110)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (993)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (396)</li>
 <li>drive.google.com (376)</li>
 <li>outlook.office365.com (367)</li>
-<li>web.whatsapp.com (356)</li>
+<li>web.whatsapp.com (357)</li>
 <li>login.microsoftonline.com (340)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (279)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:19 mail.google.com</li>
+<ul><li> 09:26 web.whatsapp.com</li>
+<li> 09:25 mail.google.com</li>
+<li class='same'> 09:23 mail.google.com</li>
+<li> 09:20 www.facebook.com</li>
+<li> 09:19 calendar.google.com</li>
+<li> 09:19 mail.google.com</li>
 <li> 09:19 andsoshethinks.co.uk</li>
 <li> 09:19 mail.google.com</li>
 <li> 09:18 www.pcspecialist.co.uk</li>
