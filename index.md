@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7421)</li>
-<li>mail.google.com (5312)</li>
+<li>mail.google.com (5313)</li>
 <li>outlook.office.com (2768)</li>
 <li>www.facebook.com (2325)</li>
 <li>docs.google.com (1704)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:36 ewf.companieshouse.gov.uk</li>
+<ul><li> 09:39 mail.google.com</li>
+<li> 09:36 idam-ui.company-information.service.gov.uk</li>
+<li> 09:36 ewf.companieshouse.gov.uk</li>
 <li> 09:34 mail.google.com</li>
 <li> 09:26 web.whatsapp.com</li>
 <li> 09:25 mail.google.com</li>
