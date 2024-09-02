@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7407)</li>
-<li>mail.google.com (5276)</li>
+<ol><li>www.google.com (7410)</li>
+<li>mail.google.com (5281)</li>
 <li>outlook.office.com (2768)</li>
 <li>www.facebook.com (2317)</li>
 <li>docs.google.com (1697)</li>
-<li>calendar.google.com (1166)</li>
+<li>calendar.google.com (1168)</li>
 <li>www.amazon.co.uk (1101)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (993)</li>
 <li>m.facebook.com (969)</li>
 <li>www.reddit.com (963)</li>
 <li>whitewaterwriters.com (603)</li>
-<li>gmail.com (590)</li>
+<li>gmail.com (591)</li>
 <li>chat.openai.com (579)</li>
 <li>tvtropes.org (570)</li>
 <li>app.qbo.intuit.com (549)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 02/09/24</H3>
+
+<br>
+
+<ul><li> 08:08 calendar.google.com</li>
+<li class='same'> 08:07 calendar.google.com</li>
+<li> 08:06 tradehq.co.uk</li>
+<li> 08:06 www.google.com</li>
+<li> 08:06 mail.google.com</li>
+<li class='same'> 08:05 mail.google.com</li>
+<li> 08:05 app.mycoughdrop.com</li>
+<li> 08:05 www.mycoughdrop.com</li>
+<li> 08:05 www.google.com</li>
+<li> 08:04 mail.google.com</li>
+<li> 08:04 www.qiq.support</li>
+<li class='same'> 08:03 www.qiq.support</li>
+<li> 08:03 www.google.com</li>
+<li> 08:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 08:03 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
+<li> 08:03 mail.google.com</li>
+<li class='same'> 08:02 mail.google.com</li>
+<li> 08:02 gmail.com</li>
+</ul>
 
 <br>
 
@@ -303,7 +325,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:39 web.whatsapp.com</li>
-<li> 07:35 <a href="https://www.youtube.com/watch?v=HWT_LWP0dkY">(99) darktable ep 104 - Crop, rotate and perspective - YouTube</a></li>
+<li> 07:35 <a href="https://www.youtube.com/watch?v=HWT_LWP0dkY">darktable ep 104 - Crop, rotate and perspective - YouTube</a></li>
 <li> 07:17 www.dpreview.com</li>
 <li> 07:17 www.google.com</li>
 <li> 07:16 discuss.pixls.us</li>
