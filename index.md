@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7430)</li>
+<ol><li>www.google.com (7431)</li>
 <li>mail.google.com (5335)</li>
-<li>outlook.office.com (2801)</li>
-<li>www.facebook.com (2346)</li>
+<li>outlook.office.com (2811)</li>
+<li>www.facebook.com (2370)</li>
 <li>docs.google.com (1706)</li>
 <li>calendar.google.com (1178)</li>
 <li>www.amazon.co.uk (1116)</li>
-<li>moodle.royalholloway.ac.uk (1069)</li>
+<li>moodle.royalholloway.ac.uk (1070)</li>
 <li>github.com (993)</li>
 <li>m.facebook.com (969)</li>
-<li>www.reddit.com (965)</li>
+<li>www.reddit.com (967)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (592)</li>
 <li>chat.openai.com (580)</li>
@@ -86,14 +86,14 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (550)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (454)</li>
-<li>www.theguardian.com (449)</li>
+<li>www.theguardian.com (452)</li>
 <li>kdp.amazon.com (419)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (376)</li>
 <li>outlook.office365.com (368)</li>
 <li>web.whatsapp.com (359)</li>
-<li>login.microsoftonline.com (344)</li>
+<li>login.microsoftonline.com (345)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (279)</li>
 <li>www.giantitp.com (267)</li>
@@ -108,9 +108,59 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:31 outlook.office.com</li>
+<ul><li> 13:44 www.thedailymash.co.uk</li>
+<li> 13:43 newsthump.com</li>
+<li> 13:42 www.theonion.com</li>
+<li> 13:42 theonion.com</li>
+<li> 13:42 www.theguardian.com</li>
+<li> 13:40 www.facebook.com</li>
+<li> 13:40 outlook.office.com</li>
+<li> 13:40 www.facebook.com</li>
+<li class='same'> 13:39 www.facebook.com</li>
+<li> 13:39 outlook.office.com</li>
+<li class='same'> 13:38 outlook.office.com</li>
+<li class='same'> 13:37 outlook.office.com</li>
+<li class='same'> 13:36 outlook.office.com</li>
+<li class='same'> 13:35 outlook.office.com</li>
+<li class='same'> 13:34 outlook.office.com</li>
+<li class='same'> 13:33 outlook.office.com</li>
+<li class='same'> 13:32 outlook.office.com</li>
+<li class='same'> 13:31 outlook.office.com</li>
 <li class='same'> 13:30 outlook.office.com</li>
 <li class='same'> 13:29 outlook.office.com</li>
+<li class='same'> 13:28 outlook.office.com</li>
+<li> 13:28 www.google.com</li>
+<li> 13:28 www.theguardian.com</li>
+<li class='same'> 13:27 www.theguardian.com</li>
+<li> 13:27 www.facebook.com</li>
+<li class='same'> 13:26 www.facebook.com</li>
+<li class='same'> 13:25 www.facebook.com</li>
+<li class='same'> 13:24 www.facebook.com</li>
+<li class='same'> 13:23 www.facebook.com</li>
+<li class='same'> 13:22 www.facebook.com</li>
+<li class='same'> 13:21 www.facebook.com</li>
+<li class='same'> 13:20 www.facebook.com</li>
+<li class='same'> 13:19 www.facebook.com</li>
+<li class='same'> 13:18 www.facebook.com</li>
+<li class='same'> 13:17 www.facebook.com</li>
+<li class='same'> 13:16 www.facebook.com</li>
+<li class='same'> 13:15 www.facebook.com</li>
+<li class='same'> 13:14 www.facebook.com</li>
+<li class='same'> 13:13 www.facebook.com</li>
+<li class='same'> 13:12 www.facebook.com</li>
+<li class='same'> 13:11 www.facebook.com</li>
+<li class='same'> 13:10 www.facebook.com</li>
+<li class='same'> 13:09 www.facebook.com</li>
+<li class='same'> 13:08 www.facebook.com</li>
+<li> 13:05 tubeprices.thelondonspy.co.uk</li>
+<li> 13:05 l.facebook.com</li>
+<li> 13:04 tubeprices.thelondonspy.co.uk</li>
+<li> 13:04 l.facebook.com</li>
+<li> 13:04 www.facebook.com</li>
+<li> 13:04 www.reddit.com</li>
+<li class='same'> 13:02 www.reddit.com</li>
+<li> 13:02 moodle.royalholloway.ac.uk</li>
+<li> 13:02 login.microsoftonline.com</li>
 <li> 13:02 teams.microsoft.com</li>
 <li> 13:00 outlook.office.com</li>
 <li class='same'> 12:58 outlook.office.com</li>
