@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:59 moodle2324.royalholloway.ac.uk</li>
+<ul><li> 11:01 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 11:00 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 10:59 moodle2324.royalholloway.ac.uk</li>
 <li> 10:59 outlook.office.com</li>
 <li> 10:58 projects.cs.rhul.ac.uk</li>
 <li> 10:58 outlook.office.com</li>
