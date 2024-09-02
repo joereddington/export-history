@@ -70,8 +70,8 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7430)</li>
 <li>mail.google.com (5335)</li>
-<li>outlook.office.com (2793)</li>
-<li>www.facebook.com (2343)</li>
+<li>outlook.office.com (2794)</li>
+<li>www.facebook.com (2346)</li>
 <li>docs.google.com (1706)</li>
 <li>calendar.google.com (1178)</li>
 <li>www.amazon.co.uk (1116)</li>
@@ -113,7 +113,11 @@ With number of accesses/minutes in parentheses
 <li> 12:42 chat.openai.com</li>
 <li> 12:41 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 12:40 gitlab.cim.rhul.ac.uk</li>
-<li> 12:31 www.facebook.com</li>
+<li> 12:34 outlook.office.com</li>
+<li> 12:34 www.facebook.com</li>
+<li class='same'> 12:33 www.facebook.com</li>
+<li class='same'> 12:32 www.facebook.com</li>
+<li class='same'> 12:31 www.facebook.com</li>
 <li class='same'> 12:30 www.facebook.com</li>
 <li class='same'> 12:29 www.facebook.com</li>
 <li class='same'> 12:28 www.facebook.com</li>
