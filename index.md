@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7423)</li>
-<li>mail.google.com (5321)</li>
+<li>mail.google.com (5325)</li>
 <li>outlook.office.com (2768)</li>
 <li>www.facebook.com (2325)</li>
-<li>docs.google.com (1704)</li>
-<li>calendar.google.com (1170)</li>
+<li>docs.google.com (1705)</li>
+<li>calendar.google.com (1171)</li>
 <li>www.amazon.co.uk (1112)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (993)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:19 qbo.intuit.com</li>
+<ul><li> 10:29 docs.google.com</li>
+<li> 10:29 mail.google.com</li>
+<li> 10:26 qbo.intuit.com</li>
+<li> 10:26 mail.google.com</li>
+<li> 10:26 mail-attachment.googleusercontent.com</li>
+<li> 10:25 mail.google.com</li>
+<li> 10:24 qbo.intuit.com</li>
+<li> 10:24 mail.google.com</li>
+<li> 10:23 intuit-qbo-prod-27.s3.amazonaws.com</li>
+<li> 10:23 qbo.intuit.com</li>
+<li class='same'> 10:22 qbo.intuit.com</li>
+<li class='same'> 10:21 qbo.intuit.com</li>
+<li> 10:20 calendar.google.com</li>
+<li> 10:19 qbo.intuit.com</li>
 <li> 10:19 c14.qbo.intuit.com</li>
 <li> 10:19 app.qbo.intuit.com</li>
 <li> 10:19 accounts.intuit.com</li>
