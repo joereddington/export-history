@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7415)</li>
-<li>mail.google.com (5289)</li>
+<ol><li>www.google.com (7417)</li>
+<li>mail.google.com (5296)</li>
 <li>outlook.office.com (2768)</li>
 <li>www.facebook.com (2317)</li>
 <li>docs.google.com (1697)</li>
-<li>calendar.google.com (1168)</li>
+<li>calendar.google.com (1169)</li>
 <li>www.amazon.co.uk (1101)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (993)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (570)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
-<li>www.linkedin.com (451)</li>
+<li>www.linkedin.com (453)</li>
 <li>www.theguardian.com (449)</li>
 <li>kdp.amazon.com (409)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:28 kdp.amazon.com</li>
+<ul><li> 08:36 mail.google.com</li>
+<li class='same'> 08:35 mail.google.com</li>
+<li> 08:35 contacts.globenewswire.com</li>
+<li> 08:35 www.google.com</li>
+<li> 08:35 mail.google.com</li>
+<li class='same'> 08:34 mail.google.com</li>
+<li> 08:34 www.linkedin.com</li>
+<li class='same'> 08:33 www.linkedin.com</li>
+<li> 08:33 mail.google.com</li>
+<li> 08:32 www.nestpensions.org.uk</li>
+<li class='same'> 08:31 www.nestpensions.org.uk</li>
+<li> 08:31 www.google.com</li>
+<li> 08:31 www.nestpensions.org.uk</li>
+<li> 08:31 mail.google.com</li>
+<li> 08:30 calendar.google.com</li>
+<li> 08:30 mail.google.com</li>
+<li> 08:28 kdp.amazon.com</li>
 <li> 08:24 drive.usercontent.google.com</li>
 <li> 08:23 drive.google.com</li>
 <li> 08:23 www.google.com</li>
