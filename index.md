@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7426)</li>
 <li>mail.google.com (5334)</li>
-<li>outlook.office.com (2768)</li>
+<li>outlook.office.com (2777)</li>
 <li>www.facebook.com (2325)</li>
 <li>docs.google.com (1705)</li>
-<li>calendar.google.com (1174)</li>
+<li>calendar.google.com (1176)</li>
 <li>www.amazon.co.uk (1112)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (993)</li>
@@ -85,15 +85,15 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (571)</li>
 <li>app.qbo.intuit.com (550)</li>
 <li>en.m.wikipedia.org (474)</li>
-<li>www.linkedin.com (453)</li>
+<li>www.linkedin.com (454)</li>
 <li>www.theguardian.com (449)</li>
 <li>kdp.amazon.com (413)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>teams.microsoft.com (396)</li>
+<li>teams.microsoft.com (397)</li>
 <li>drive.google.com (376)</li>
 <li>outlook.office365.com (368)</li>
 <li>web.whatsapp.com (357)</li>
-<li>login.microsoftonline.com (340)</li>
+<li>login.microsoftonline.com (341)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (279)</li>
 <li>www.ebay.co.uk (267)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:39 outlook.office365.com</li>
+<ul><li> 10:49 outlook.office.com</li>
+<li> 10:49 calendar.google.com</li>
+<li class='same'> 10:48 calendar.google.com</li>
+<li> 10:47 outlook.office.com</li>
+<li> 10:45 www.linkedin.com</li>
+<li> 10:44 en.uhomes.com</li>
+<li> 10:43 outlook.office.com</li>
+<li> 10:43 teams.microsoft.com</li>
+<li> 10:43 outlook.office.com</li>
+<li class='same'> 10:42 outlook.office.com</li>
+<li class='same'> 10:41 outlook.office.com</li>
+<li class='same'> 10:40 outlook.office.com</li>
+<li class='same'> 10:39 outlook.office.com</li>
+<li> 10:39 outlook.office365.com</li>
+<li> 10:39 outlook.office.com</li>
+<li> 10:39 login.microsoftonline.com</li>
 <li> 10:39 mail.rhul.ac.uk</li>
 <li> 10:39 mail.google.com</li>
 <li> 10:39 calendar.google.com</li>
