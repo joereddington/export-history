@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7407)</li>
+<ol><li>www.google.com (7409)</li>
 <li>mail.google.com (5276)</li>
 <li>outlook.office.com (2769)</li>
 <li>www.facebook.com (2317)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (451)</li>
-<li>www.theguardian.com (444)</li>
+<li>www.theguardian.com (449)</li>
 <li>kdp.amazon.com (408)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (396)</li>
@@ -104,7 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 02/09/24</H3>
+
+<br>
+
+<ul><li> 07:15 www.theguardian.com</li>
+<li class='same'> 07:14 www.theguardian.com</li>
+<li class='same'> 07:09 www.theguardian.com</li>
+<li class='same'> 07:08 www.theguardian.com</li>
+<li class='same'> 07:01 www.theguardian.com</li>
+<li> 06:55 themeads.org.uk</li>
+<li> 06:55 www.google.com</li>
+</ul>
+
 <H3>Sunday, 01/09/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:26 www.google.com</li>
+<li> 19:24 www.natesilver.net</li>
+</ul>
 
 <br>
 
@@ -280,7 +303,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:39 web.whatsapp.com</li>
-<li> 07:35 <a href="https://www.youtube.com/watch?v=HWT_LWP0dkY">(98) darktable ep 104 - Crop, rotate and perspective - YouTube</a></li>
+<li> 07:35 <a href="https://www.youtube.com/watch?v=HWT_LWP0dkY">(99) darktable ep 104 - Crop, rotate and perspective - YouTube</a></li>
 <li> 07:17 www.dpreview.com</li>
 <li> 07:17 www.google.com</li>
 <li> 07:16 discuss.pixls.us</li>
