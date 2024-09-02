@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7422)</li>
-<li>mail.google.com (5319)</li>
+<ol><li>www.google.com (7423)</li>
+<li>mail.google.com (5321)</li>
 <li>outlook.office.com (2768)</li>
 <li>www.facebook.com (2325)</li>
 <li>docs.google.com (1704)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (592)</li>
 <li>chat.openai.com (579)</li>
 <li>tvtropes.org (571)</li>
-<li>app.qbo.intuit.com (549)</li>
+<li>app.qbo.intuit.com (550)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (453)</li>
 <li>www.theguardian.com (449)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:08 mail.google.com</li>
+<ul><li> 10:19 qbo.intuit.com</li>
+<li> 10:19 c14.qbo.intuit.com</li>
+<li> 10:19 app.qbo.intuit.com</li>
+<li> 10:19 accounts.intuit.com</li>
+<li> 10:19 mail-attachment.googleusercontent.com</li>
+<li> 10:19 mail.google.com</li>
+<li class='same'> 10:18 mail.google.com</li>
+<li> 10:11 equalitytime.co.uk</li>
+<li> 10:11 www.google.com</li>
+<li> 10:08 mail.google.com</li>
 <li> 10:02 kdp.amazon.com</li>
 <li class='same'> 10:01 kdp.amazon.com</li>
 <li class='same'> 10:00 kdp.amazon.com</li>
