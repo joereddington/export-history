@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7421)</li>
-<li>mail.google.com (5301)</li>
+<li>mail.google.com (5303)</li>
 <li>outlook.office.com (2768)</li>
-<li>www.facebook.com (2317)</li>
+<li>www.facebook.com (2320)</li>
 <li>docs.google.com (1704)</li>
 <li>calendar.google.com (1169)</li>
-<li>www.amazon.co.uk (1108)</li>
+<li>www.amazon.co.uk (1110)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (993)</li>
 <li>m.facebook.com (969)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (591)</li>
 <li>chat.openai.com (579)</li>
-<li>tvtropes.org (570)</li>
+<li>tvtropes.org (571)</li>
 <li>app.qbo.intuit.com (549)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (453)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:59 www.google.com</li>
+<ul><li> 09:07 www.facebook.com</li>
+<li> 09:05 mail.google.com</li>
+<li class='same'> 09:04 mail.google.com</li>
+<li> 09:02 www.facebook.com</li>
+<li class='same'> 09:01 www.facebook.com</li>
+<li> 09:01 www.amazon.co.uk</li>
+<li class='same'> 09:00 www.amazon.co.uk</li>
+<li> 08:59 tvtropes.org</li>
+<li> 08:59 www.google.com</li>
 <li> 08:59 www.amazon.co.uk</li>
 <li class='same'> 08:58 www.amazon.co.uk</li>
 <li> 08:58 www.google.com</li>
