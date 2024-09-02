@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7411)</li>
-<li>mail.google.com (5286)</li>
+<ol><li>www.google.com (7415)</li>
+<li>mail.google.com (5289)</li>
 <li>outlook.office.com (2768)</li>
 <li>www.facebook.com (2317)</li>
 <li>docs.google.com (1697)</li>
@@ -87,10 +87,10 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (451)</li>
 <li>www.theguardian.com (449)</li>
-<li>kdp.amazon.com (408)</li>
+<li>kdp.amazon.com (409)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (396)</li>
-<li>drive.google.com (374)</li>
+<li>drive.google.com (375)</li>
 <li>outlook.office365.com (367)</li>
 <li>web.whatsapp.com (356)</li>
 <li>login.microsoftonline.com (340)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:18 mail.google.com</li>
+<ul><li> 08:28 kdp.amazon.com</li>
+<li> 08:24 drive.usercontent.google.com</li>
+<li> 08:23 drive.google.com</li>
+<li> 08:23 www.google.com</li>
+<li> 08:23 mail.google.com</li>
+<li> 08:23 www.brickborrow.com</li>
+<li> 08:23 www.google.com</li>
+<li> 08:23 www.brickborrow.com</li>
+<li> 08:23 mail.google.com</li>
+<li> 08:23 paymentportal.bjadojo.co.uk</li>
+<li> 08:22 payments.worldpay.com</li>
+<li> 08:21 paymentportal.bjadojo.co.uk</li>
+<li> 08:21 www.bjadojo.co.uk</li>
+<li> 08:21 www.google.com</li>
+<li> 08:21 www.bjadojo.co.uk</li>
+<li> 08:20 www.google.com</li>
+<li> 08:20 www.bjadojo.co.uk</li>
+<li> 08:19 mail.google.com</li>
+<li class='same'> 08:18 mail.google.com</li>
 <li class='same'> 08:17 mail.google.com</li>
 <li> 08:17 app.mycoughdrop.com</li>
 <li> 08:17 www.google.com</li>
