@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7418)</li>
-<li>mail.google.com (5298)</li>
+<ol><li>www.google.com (7421)</li>
+<li>mail.google.com (5301)</li>
 <li>outlook.office.com (2768)</li>
 <li>www.facebook.com (2317)</li>
-<li>docs.google.com (1701)</li>
+<li>docs.google.com (1704)</li>
 <li>calendar.google.com (1169)</li>
-<li>www.amazon.co.uk (1104)</li>
+<li>www.amazon.co.uk (1108)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>github.com (993)</li>
 <li>m.facebook.com (969)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (409)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (396)</li>
-<li>drive.google.com (375)</li>
+<li>drive.google.com (376)</li>
 <li>outlook.office365.com (367)</li>
 <li>web.whatsapp.com (356)</li>
 <li>login.microsoftonline.com (340)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:49 docs.google.com</li>
+<ul><li> 08:59 www.google.com</li>
+<li> 08:59 www.amazon.co.uk</li>
+<li class='same'> 08:58 www.amazon.co.uk</li>
+<li> 08:58 www.google.com</li>
+<li> 08:58 www.amazon.co.uk</li>
+<li class='same'> 08:57 www.amazon.co.uk</li>
+<li> 08:57 docs.google.com</li>
+<li> 08:57 mail.google.com</li>
+<li> 08:56 ewf.companieshouse.gov.uk</li>
+<li class='same'> 08:55 ewf.companieshouse.gov.uk</li>
+<li> 08:55 api-payments.company-information.service.gov.uk</li>
+<li> 08:54 www.paypal.com</li>
+<li class='same'> 08:53 www.paypal.com</li>
+<li> 08:53 payments.company-information.service.gov.uk</li>
+<li> 08:53 ewf.companieshouse.gov.uk</li>
+<li class='same'> 08:52 ewf.companieshouse.gov.uk</li>
+<li> 08:52 idam.company-information.service.gov.uk</li>
+<li> 08:52 ewf.companieshouse.gov.uk</li>
+<li> 08:51 idam-ui.company-information.service.gov.uk</li>
+<li> 08:51 ewf.companieshouse.gov.uk</li>
+<li> 08:51 idam-ui.company-information.service.gov.uk</li>
+<li> 08:51 mail.google.com</li>
+<li> 08:51 idam-ui.company-information.service.gov.uk</li>
+<li> 08:51 ewf.companieshouse.gov.uk</li>
+<li> 08:51 www.gov.uk</li>
+<li> 08:51 www.google.com</li>
+<li> 08:50 docs.google.com</li>
+<li> 08:50 drive.google.com</li>
+<li> 08:50 mail.google.com</li>
+<li> 08:50 docs.google.com</li>
+<li class='same'> 08:49 docs.google.com</li>
 <li class='same'> 08:48 docs.google.com</li>
 <li> 08:47 mail.google.com</li>
 <li> 08:46 www.amazon.co.uk</li>
