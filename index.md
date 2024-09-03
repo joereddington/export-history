@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7439)</li>
+<ol><li>www.google.com (7447)</li>
 <li>mail.google.com (5371)</li>
 <li>outlook.office.com (2818)</li>
 <li>www.facebook.com (2375)</li>
@@ -77,16 +77,16 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1122)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>github.com (994)</li>
-<li>www.reddit.com (974)</li>
-<li>m.facebook.com (969)</li>
+<li>www.reddit.com (977)</li>
+<li>m.facebook.com (970)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (596)</li>
+<li>tvtropes.org (581)</li>
 <li>chat.openai.com (580)</li>
-<li>tvtropes.org (573)</li>
 <li>app.qbo.intuit.com (551)</li>
 <li>en.m.wikipedia.org (474)</li>
-<li>www.linkedin.com (461)</li>
-<li>www.theguardian.com (460)</li>
+<li>www.linkedin.com (462)</li>
+<li>www.theguardian.com (462)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:44 www.facebook.com</li>
+<ul><li> 11:35 m.facebook.com</li>
+<li> 11:35 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:09 www.google.com</li>
+<li> 08:01 accounts.intuit.com</li>
+<li> 08:01 qbo.intuit.com</li>
+<li> 08:01 accounts.intuit.com</li>
+<li> 07:44 www.facebook.com</li>
 <li class='same'> 07:43 www.facebook.com</li>
 <li class='same'> 07:42 www.facebook.com</li>
 <li> 07:42 www.google.com</li>
@@ -164,6 +174,11 @@ With number of accesses/minutes in parentheses
 <li> 06:32 www.linkedin.com</li>
 <li> 06:31 mail.google.com</li>
 <li class='same'> 06:30 mail.google.com</li>
+<li> 06:25 www.google.com</li>
+<li> 06:24 comicbookroundup.com</li>
+<li> 06:24 www.google.com</li>
+<li> 06:24 www.kickstarter.com</li>
+<li> 06:23 www.google.com</li>
 </ul>
 
 <H3>Monday, 02/09/24</H3>
@@ -174,7 +189,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 17:25 mail.google.com</li>
+<ul><li> 22:31 www.theguardian.com</li>
+<li class='same'> 22:30 www.theguardian.com</li>
+<li> 22:30 www.google.com</li>
+<li> 22:27 tvtropes.org</li>
+<li class='same'> 22:22 tvtropes.org</li>
+<li class='same'> 22:20 tvtropes.org</li>
+<li class='same'> 22:18 tvtropes.org</li>
+<li class='same'> 22:17 tvtropes.org</li>
+<li class='same'> 22:12 tvtropes.org</li>
+<li class='same'> 22:11 tvtropes.org</li>
+<li class='same'> 22:09 tvtropes.org</li>
+<li> 22:09 www.google.com</li>
+<li> 22:04 www.reddit.com</li>
+<li class='same'> 22:03 www.reddit.com</li>
+<li class='same'> 22:02 www.reddit.com</li>
+<li> 22:02 www.google.com</li>
+<li> 22:02 www.newyorker.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:25 mail.google.com</li>
 <li class='same'> 17:23 mail.google.com</li>
 <li> 17:18 cc.amazon.com</li>
 <li> 17:17 kdp.amazon.com</li>
@@ -62445,6 +62481,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:55 docs.google.com</li>
 <li class='same'> 12:54 docs.google.com</li>
 <li class='same'> 12:51 docs.google.com</li>
+<li> 12:49 www.linkedin.com</li>
 <li> 12:48 joereddington.github.io</li>
 <li> 12:41 <a href="https://stackoverflow.com/questions/9009771/is-it-possible-to-embed-animated-gifs-in-pdfs">Is it possible to embed animated GIFs in PDFs? - Stack Overflow</a></li>
 </ul>
