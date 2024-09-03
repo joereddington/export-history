@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7436)</li>
-<li>mail.google.com (5366)</li>
+<ol><li>www.google.com (7437)</li>
+<li>mail.google.com (5370)</li>
 <li>outlook.office.com (2816)</li>
-<li>www.facebook.com (2370)</li>
+<li>www.facebook.com (2372)</li>
 <li>docs.google.com (1715)</li>
 <li>calendar.google.com (1186)</li>
 <li>www.amazon.co.uk (1119)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>github.com (994)</li>
+<li>www.reddit.com (973)</li>
 <li>m.facebook.com (969)</li>
-<li>www.reddit.com (967)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (596)</li>
 <li>chat.openai.com (580)</li>
 <li>tvtropes.org (573)</li>
-<li>app.qbo.intuit.com (550)</li>
+<li>app.qbo.intuit.com (551)</li>
 <li>en.m.wikipedia.org (474)</li>
-<li>www.linkedin.com (459)</li>
+<li>www.linkedin.com (460)</li>
 <li>www.theguardian.com (456)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -104,11 +104,44 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 03/09/24</H3>
+
+<br>
+
+<ul><li> 06:59 online.unity.co.uk</li>
+<li class='same'> 06:58 online.unity.co.uk</li>
+<li> 06:57 www.unity-online.co.uk</li>
+<li> 06:57 online.unity.co.uk</li>
+<li> 06:56 qbo.intuit.com</li>
+<li> 06:56 c14.qbo.intuit.com</li>
+<li> 06:56 app.qbo.intuit.com</li>
+<li> 06:56 accounts.intuit.com</li>
+<li> 06:53 www.facebook.com</li>
+<li class='same'> 06:46 www.facebook.com</li>
+<li> 06:44 www.reddit.com</li>
+<li class='same'> 06:41 www.reddit.com</li>
+<li> 06:41 www.google.com</li>
+<li> 06:40 www.reddit.com</li>
+<li class='same'> 06:39 www.reddit.com</li>
+<li class='same'> 06:38 www.reddit.com</li>
+<li class='same'> 06:35 www.reddit.com</li>
+<li> 06:33 feedly.com</li>
+<li> 06:33 mail.google.com</li>
+<li class='same'> 06:32 mail.google.com</li>
+<li> 06:32 www.linkedin.com</li>
+<li> 06:31 mail.google.com</li>
+<li class='same'> 06:30 mail.google.com</li>
+</ul>
+
 <H3>Monday, 02/09/24</H3>
 
 <br>
 
-<ul><li> 17:25 mail.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 17:25 mail.google.com</li>
 <li class='same'> 17:23 mail.google.com</li>
 <li> 17:18 cc.amazon.com</li>
 <li> 17:17 kdp.amazon.com</li>
