@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7437)</li>
+<ol><li>www.google.com (7438)</li>
 <li>mail.google.com (5370)</li>
 <li>outlook.office.com (2816)</li>
 <li>www.facebook.com (2372)</li>
-<li>docs.google.com (1715)</li>
+<li>docs.google.com (1716)</li>
 <li>calendar.google.com (1186)</li>
 <li>www.amazon.co.uk (1119)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
@@ -86,11 +86,11 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (551)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (460)</li>
-<li>www.theguardian.com (456)</li>
+<li>www.theguardian.com (460)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (376)</li>
+<li>drive.google.com (377)</li>
 <li>outlook.office365.com (369)</li>
 <li>web.whatsapp.com (359)</li>
 <li>login.microsoftonline.com (345)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:59 online.unity.co.uk</li>
+<ul><li> 07:08 equalitytime.github.io</li>
+<li> 07:08 www.google.com</li>
+<li> 07:07 www.theguardian.com</li>
+<li class='same'> 07:06 www.theguardian.com</li>
+<li> 07:05 online.unity.co.uk</li>
+<li> 07:04 www.theguardian.com</li>
+<li class='same'> 07:03 www.theguardian.com</li>
+<li> 07:03 docs.google.com</li>
+<li> 07:03 drive.google.com</li>
+<li> 07:02 qbo.intuit.com</li>
+<li class='same'> 07:01 qbo.intuit.com</li>
+<li class='same'> 07:00 qbo.intuit.com</li>
+<li> 07:00 online.unity.co.uk</li>
+<li> 06:59 qbo.intuit.com</li>
+<li> 06:59 online.unity.co.uk</li>
 <li class='same'> 06:58 online.unity.co.uk</li>
 <li> 06:57 www.unity-online.co.uk</li>
 <li> 06:57 online.unity.co.uk</li>
