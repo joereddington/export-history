@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7438)</li>
+<ol><li>www.google.com (7439)</li>
 <li>mail.google.com (5371)</li>
-<li>outlook.office.com (2816)</li>
-<li>www.facebook.com (2372)</li>
+<li>outlook.office.com (2818)</li>
+<li>www.facebook.com (2375)</li>
 <li>docs.google.com (1716)</li>
 <li>calendar.google.com (1186)</li>
 <li>www.amazon.co.uk (1122)</li>
@@ -91,12 +91,12 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (377)</li>
-<li>outlook.office365.com (369)</li>
+<li>outlook.office365.com (370)</li>
 <li>web.whatsapp.com (359)</li>
 <li>login.microsoftonline.com (345)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (279)</li>
-<li>www.giantitp.com (267)</li>
+<li>www.giantitp.com (268)</li>
 <li>www.ebay.co.uk (267)</li>
 
 
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:38 www.amazon.co.uk</li>
+<ul><li> 07:44 www.facebook.com</li>
+<li class='same'> 07:43 www.facebook.com</li>
+<li class='same'> 07:42 www.facebook.com</li>
+<li> 07:42 www.google.com</li>
+<li> 07:42 www.giantitp.com</li>
+<li> 07:41 outlook.office.com</li>
+<li> 07:41 outlook.office365.com</li>
+<li> 07:41 outlook.office.com</li>
+<li> 07:41 mail.rhul.ac.uk</li>
+<li> 07:38 www.amazon.co.uk</li>
 <li class='same'> 07:37 www.amazon.co.uk</li>
 <li class='same'> 07:34 www.amazon.co.uk</li>
 <li> 07:19 feedly.com</li>
