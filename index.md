@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (359)</li>
 <li>login.microsoftonline.com (345)</li>
 <li>bsky.app (313)</li>
-<li>rhul.sharepoint.com (279)</li>
+<li>rhul.sharepoint.com (277)</li>
 <li>www.giantitp.com (268)</li>
 <li>www.ebay.co.uk (267)</li>
 
@@ -13339,7 +13339,6 @@ With number of accesses/minutes in parentheses
 <li> 10:30 teams.microsoft.com</li>
 <li> 10:10 rhul.sharepoint.com</li>
 <li class='same'> 10:09 rhul.sharepoint.com</li>
-<li class='same'> 10:08 rhul.sharepoint.com</li>
 <li> 10:06 teams.microsoft.com</li>
 <li> 10:03 rhul.sharepoint.com</li>
 <li> 10:03 outlook.office.com</li>
@@ -13352,7 +13351,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:53 rhul.sharepoint.com</li>
 <li class='same'> 09:52 rhul.sharepoint.com</li>
 <li class='same'> 09:50 rhul.sharepoint.com</li>
-<li class='same'> 09:49 rhul.sharepoint.com</li>
 <li> 09:49 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:48 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:47 moodle.royalholloway.ac.uk</li>
