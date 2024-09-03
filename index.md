@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7438)</li>
-<li>mail.google.com (5370)</li>
+<li>mail.google.com (5371)</li>
 <li>outlook.office.com (2816)</li>
 <li>www.facebook.com (2372)</li>
 <li>docs.google.com (1716)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1119)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>github.com (994)</li>
-<li>www.reddit.com (973)</li>
+<li>www.reddit.com (974)</li>
 <li>m.facebook.com (969)</li>
 <li>whitewaterwriters.com (603)</li>
 <li>gmail.com (596)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (573)</li>
 <li>app.qbo.intuit.com (551)</li>
 <li>en.m.wikipedia.org (474)</li>
-<li>www.linkedin.com (460)</li>
+<li>www.linkedin.com (461)</li>
 <li>www.theguardian.com (460)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:08 equalitytime.github.io</li>
+<ul><li> 07:19 feedly.com</li>
+<li> 07:16 equalitytime.github.io</li>
+<li> 07:16 mail.google.com</li>
+<li> 07:16 www.reddit.com</li>
+<li> 07:15 online.unity.co.uk</li>
+<li> 07:14 www.linkedin.com</li>
+<li> 07:10 online.unity.co.uk</li>
+<li> 07:08 equalitytime.github.io</li>
 <li> 07:08 www.google.com</li>
 <li> 07:07 www.theguardian.com</li>
 <li class='same'> 07:06 www.theguardian.com</li>
