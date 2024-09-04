@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (580)</li>
 <li>app.qbo.intuit.com (551)</li>
 <li>en.m.wikipedia.org (474)</li>
-<li>www.theguardian.com (468)</li>
+<li>www.theguardian.com (472)</li>
 <li>www.linkedin.com (462)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:08 outlook.office.com</li>
+<ul><li> 14:30 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:11 www.theguardian.com</li>
+<li class='same'> 12:10 www.theguardian.com</li>
+<li> 12:10 www.buzzfeed.com</li>
+<li> 12:10 www.theguardian.com</li>
+<li> 12:08 outlook.office.com</li>
 <li> 12:03 rhul.sharepoint.com</li>
 <li class='same'> 11:59 rhul.sharepoint.com</li>
 <li> 11:57 outlook.office.com</li>
@@ -68264,6 +68273,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:08 www.dropbox.com</li>
+<li> 19:57 meet.google.com</li>
 </ul>
 
 <br>
