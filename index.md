@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7458)</li>
-<li>mail.google.com (5373)</li>
-<li>outlook.office.com (2818)</li>
-<li>www.facebook.com (2375)</li>
+<li>mail.google.com (5374)</li>
+<li>outlook.office.com (2820)</li>
+<li>www.facebook.com (2376)</li>
 <li>docs.google.com (1720)</li>
 <li>calendar.google.com (1189)</li>
 <li>www.amazon.co.uk (1122)</li>
@@ -91,9 +91,9 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (379)</li>
-<li>outlook.office365.com (370)</li>
+<li>outlook.office365.com (371)</li>
 <li>web.whatsapp.com (359)</li>
-<li>login.microsoftonline.com (345)</li>
+<li>login.microsoftonline.com (346)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (277)</li>
 <li>www.giantitp.com (268)</li>
@@ -104,7 +104,25 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 04/09/24</H3>
+
+<br>
+
+<ul><li> 07:39 security.microsoft.com</li>
+<li> 07:39 login.microsoftonline.com</li>
+<li> 07:39 outlook.office.com</li>
+<li> 07:39 outlook.office365.com</li>
+<li> 07:39 outlook.office.com</li>
+<li> 07:39 mail.rhul.ac.uk</li>
+<li> 07:39 www.facebook.com</li>
+<li> 07:38 mail.google.com</li>
+</ul>
+
 <H3>Tuesday, 03/09/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
