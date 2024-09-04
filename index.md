@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7461)</li>
+<ol><li>www.google.com (7462)</li>
 <li>mail.google.com (5376)</li>
-<li>outlook.office.com (2841)</li>
-<li>www.facebook.com (2382)</li>
+<li>outlook.office.com (2844)</li>
+<li>www.facebook.com (2387)</li>
 <li>docs.google.com (1720)</li>
 <li>calendar.google.com (1190)</li>
 <li>www.amazon.co.uk (1123)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>github.com (994)</li>
-<li>www.reddit.com (981)</li>
+<li>www.reddit.com (984)</li>
 <li>m.facebook.com (971)</li>
 <li>whitewaterwriters.com (606)</li>
 <li>gmail.com (596)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (379)</li>
 <li>outlook.office365.com (371)</li>
-<li>web.whatsapp.com (362)</li>
+<li>web.whatsapp.com (363)</li>
 <li>login.microsoftonline.com (348)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (292)</li>
@@ -108,12 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:30 www.theguardian.com</li>
+<ul><li> 15:18 web.whatsapp.com</li>
+<li> 15:17 www.google.com</li>
+<li> 15:17 outlook.office.com</li>
+<li> 15:17 www.natesilver.net</li>
+<li> 15:11 www.facebook.com</li>
+<li class='same'> 15:08 www.facebook.com</li>
+<li class='same'> 14:57 www.facebook.com</li>
+<li class='same'> 14:56 www.facebook.com</li>
+<li> 14:55 outlook.office.com</li>
+<li> 14:55 www.facebook.com</li>
+<li> 14:55 www.reddit.com</li>
+<li> 14:30 www.theguardian.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 12:11 www.theguardian.com</li>
+<ul><li> 12:56 www.reddit.com</li>
+<li class='same'> 12:55 www.reddit.com</li>
+<li> 12:55 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:11 www.theguardian.com</li>
 <li class='same'> 12:10 www.theguardian.com</li>
 <li> 12:10 www.buzzfeed.com</li>
 <li> 12:10 www.theguardian.com</li>
