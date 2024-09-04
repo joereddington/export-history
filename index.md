@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7458)</li>
 <li>mail.google.com (5374)</li>
-<li>outlook.office.com (2820)</li>
+<li>outlook.office.com (2827)</li>
 <li>www.facebook.com (2376)</li>
 <li>docs.google.com (1720)</li>
 <li>calendar.google.com (1189)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:39 security.microsoft.com</li>
+<ul><li> 07:48 outlook.office.com</li>
+<li class='same'> 07:45 outlook.office.com</li>
+<li class='same'> 07:42 outlook.office.com</li>
+<li class='same'> 07:41 outlook.office.com</li>
+<li class='same'> 07:40 outlook.office.com</li>
+<li> 07:40 security.microsoft.com</li>
+<li> 07:40 outlook.office.com</li>
+<li class='same'> 07:39 outlook.office.com</li>
+<li> 07:39 security.microsoft.com</li>
 <li> 07:39 login.microsoftonline.com</li>
 <li> 07:39 outlook.office.com</li>
 <li> 07:39 outlook.office365.com</li>
