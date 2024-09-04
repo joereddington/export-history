@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7462)</li>
-<li>mail.google.com (5376)</li>
-<li>outlook.office.com (2844)</li>
-<li>www.facebook.com (2387)</li>
+<ol><li>www.google.com (7464)</li>
+<li>mail.google.com (5380)</li>
+<li>outlook.office.com (2846)</li>
+<li>www.facebook.com (2390)</li>
 <li>docs.google.com (1720)</li>
 <li>calendar.google.com (1190)</li>
 <li>www.amazon.co.uk (1123)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>github.com (994)</li>
-<li>www.reddit.com (984)</li>
+<li>www.reddit.com (994)</li>
 <li>m.facebook.com (971)</li>
 <li>whitewaterwriters.com (606)</li>
-<li>gmail.com (596)</li>
+<li>gmail.com (597)</li>
 <li>tvtropes.org (585)</li>
 <li>chat.openai.com (580)</li>
 <li>app.qbo.intuit.com (551)</li>
 <li>en.m.wikipedia.org (474)</li>
-<li>www.theguardian.com (472)</li>
+<li>www.theguardian.com (473)</li>
 <li>www.linkedin.com (462)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (379)</li>
 <li>outlook.office365.com (371)</li>
 <li>web.whatsapp.com (363)</li>
-<li>login.microsoftonline.com (348)</li>
+<li>login.microsoftonline.com (349)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (292)</li>
 <li>www.giantitp.com (268)</li>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:18 web.whatsapp.com</li>
+<ul><li> 16:26 mail.google.com</li>
+<li> 16:24 outlook.office.com</li>
+<li> 16:23 www.reddit.com</li>
+<li class='same'> 16:22 www.reddit.com</li>
+<li class='same'> 16:19 www.reddit.com</li>
+<li class='same'> 16:18 www.reddit.com</li>
+<li> 16:18 mail.google.com</li>
+<li class='same'> 16:16 mail.google.com</li>
+<li> 16:14 inews.co.uk</li>
+<li> 16:14 www.google.com</li>
+<li> 16:10 myview.rhul.zellis.com</li>
+<li> 16:09 mail.google.com</li>
+<li> 16:09 gmail.com</li>
+<li> 16:09 www.gov.uk</li>
+<li> 16:09 www.google.com</li>
+<li> 16:08 myview.rhul.zellis.com</li>
+<li class='same'> 16:07 myview.rhul.zellis.com</li>
+<li> 16:07 login.microsoftonline.com</li>
+<li> 16:07 myview.rhul.zellis.com</li>
+<li> 16:07 www.reddit.com</li>
+<li class='same'> 16:06 www.reddit.com</li>
+<li class='same'> 16:05 www.reddit.com</li>
+<li class='same'> 16:04 www.reddit.com</li>
+<li class='same'> 16:03 www.reddit.com</li>
+<li class='same'> 16:02 www.reddit.com</li>
+<li> 16:02 www.facebook.com</li>
+<li class='same'> 16:01 www.facebook.com</li>
+<li class='same'> 16:00 www.facebook.com</li>
+<li> 15:59 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:20 abcnews.go.com</li>
+<li> 15:20 projects.fivethirtyeight.com</li>
+<li> 15:19 www.theguardian.com</li>
+<li> 15:18 web.whatsapp.com</li>
 <li> 15:17 www.google.com</li>
 <li> 15:17 outlook.office.com</li>
 <li> 15:17 www.natesilver.net</li>
