@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7458)</li>
+<ol><li>www.google.com (7454)</li>
 <li>mail.google.com (5374)</li>
 <li>outlook.office.com (2827)</li>
 <li>www.facebook.com (2376)</li>
@@ -13070,7 +13070,6 @@ With number of accesses/minutes in parentheses
 <li> 15:57 gmail.com</li>
 <li> 15:56 mail.google.com</li>
 <li> 15:54 reportaproblem.apple.com</li>
-<li> 15:54 daiquiri-ext.itunes.apple.com</li>
 <li> 15:54 idmsa.apple.com</li>
 <li> 15:53 reportaproblem.apple.com</li>
 <li> 15:53 www.apple.com</li>
@@ -13082,15 +13081,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:52 www.paypal.com</li>
 <li class='same'> 15:51 www.paypal.com</li>
 <li class='same'> 15:46 www.paypal.com</li>
-<li> 15:46 www.google.com</li>
-<li class='same'> 15:45 www.google.com</li>
+<li> 15:45 www.google.com</li>
 <li> 15:44 www.paypal.com</li>
 <li class='same'> 15:40 www.paypal.com</li>
 <li class='same'> 15:39 www.paypal.com</li>
 <li> 15:39 mail.google.com</li>
 <li class='same'> 15:38 mail.google.com</li>
 <li> 15:38 forum.artofmemory.com</li>
-<li> 15:38 www.google.com</li>
 <li> 15:38 email.forum.artofmemory.com</li>
 <li> 15:38 mail.google.com</li>
 <li> 15:38 gmail.com</li>
@@ -13338,10 +13335,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:37 mail.google.com</li>
 <li> 09:37 parentview.ofsted.gov.uk</li>
 <li> 09:37 www.google.com</li>
-<li class='same'> 09:35 www.google.com</li>
 <li> 09:35 www.laurasummers.co.uk</li>
-<li> 09:34 www.google.com</li>
-<li class='same'> 09:33 www.google.com</li>
+<li> 09:33 www.google.com</li>
 <li class='same'> 09:32 www.google.com</li>
 <li class='same'> 09:23 www.google.com</li>
 <li> 09:21 parentview.ofsted.gov.uk</li>
