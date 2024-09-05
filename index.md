@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7478)</li>
-<li>mail.google.com (5392)</li>
+<li>mail.google.com (5393)</li>
 <li>outlook.office.com (2859)</li>
-<li>www.facebook.com (2399)</li>
+<li>www.facebook.com (2402)</li>
 <li>docs.google.com (1721)</li>
 <li>calendar.google.com (1204)</li>
 <li>www.amazon.co.uk (1123)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.reddit.com (1004)</li>
+<li>www.reddit.com (1012)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (972)</li>
 <li>whitewaterwriters.com (606)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 05/09/24</H3>
+
+<br>
+
+<ul><li> 21:07 www.facebook.com</li>
+<li> 21:07 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 21:06 www.reddit.com</li>
+<li class='same'> 21:05 www.reddit.com</li>
+<li class='same'> 21:03 www.reddit.com</li>
+<li class='same'> 21:02 www.reddit.com</li>
+<li class='same'> 21:01 www.reddit.com</li>
+<li class='same'> 21:00 www.reddit.com</li>
+<li class='same'> 20:57 www.reddit.com</li>
+<li class='same'> 20:54 www.reddit.com</li>
+<li> 20:49 www.facebook.com</li>
+<li class='same'> 20:48 www.facebook.com</li>
+<li> 20:48 mail.google.com</li>
+</ul>
 
 <br>
 
