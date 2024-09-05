@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7468)</li>
-<li>mail.google.com (5390)</li>
-<li>outlook.office.com (2856)</li>
-<li>www.facebook.com (2394)</li>
+<li>mail.google.com (5391)</li>
+<li>outlook.office.com (2859)</li>
+<li>www.facebook.com (2399)</li>
 <li>docs.google.com (1721)</li>
-<li>calendar.google.com (1202)</li>
+<li>calendar.google.com (1204)</li>
 <li>www.amazon.co.uk (1123)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.reddit.com (996)</li>
+<li>www.reddit.com (1002)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (971)</li>
 <li>whitewaterwriters.com (606)</li>
@@ -86,17 +86,17 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (552)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.theguardian.com (473)</li>
-<li>www.linkedin.com (462)</li>
+<li>www.linkedin.com (465)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (379)</li>
 <li>outlook.office365.com (371)</li>
-<li>web.whatsapp.com (364)</li>
+<li>web.whatsapp.com (365)</li>
 <li>login.microsoftonline.com (350)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (294)</li>
-<li>www.giantitp.com (268)</li>
+<li>www.giantitp.com (269)</li>
 <li>www.ebay.co.uk (267)</li>
 
 
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:09 mail.google.com</li>
+<ul><li> 12:20 www.reddit.com</li>
+<li class='same'> 12:19 www.reddit.com</li>
+<li class='same'> 12:18 www.reddit.com</li>
+<li> 12:13 www.linkedin.com</li>
+<li class='same'> 12:11 www.linkedin.com</li>
+<li class='same'> 12:10 www.linkedin.com</li>
+<li> 12:09 feedly.com</li>
+<li> 12:09 www.giantitp.com</li>
+<li> 12:08 www.reddit.com</li>
+<li> 12:06 web.whatsapp.com</li>
+<li> 11:59 www.reddit.com</li>
+<li class='same'> 11:58 www.reddit.com</li>
+<li> 11:48 calendar.google.com</li>
+<li class='same'> 11:46 calendar.google.com</li>
+<li> 11:46 www.facebook.com</li>
+<li class='same'> 11:45 www.facebook.com</li>
+<li class='same'> 11:44 www.facebook.com</li>
+<li class='same'> 11:43 www.facebook.com</li>
+<li class='same'> 11:40 www.facebook.com</li>
+<li> 11:39 mail.google.com</li>
+<li> 11:34 outlook.office.com</li>
+<li class='same'> 11:27 outlook.office.com</li>
+<li class='same'> 11:26 outlook.office.com</li>
+<li> 11:09 mail.google.com</li>
 <li> 10:59 calendar.google.com</li>
 <li> 10:58 mail.google.com</li>
 <li class='same'> 10:57 mail.google.com</li>
