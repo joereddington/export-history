@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1204)</li>
 <li>www.amazon.co.uk (1123)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.reddit.com (1002)</li>
+<li>www.reddit.com (1003)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (971)</li>
 <li>whitewaterwriters.com (606)</li>
@@ -86,13 +86,13 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (552)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.theguardian.com (473)</li>
-<li>www.linkedin.com (465)</li>
+<li>www.linkedin.com (466)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (379)</li>
 <li>outlook.office365.com (371)</li>
-<li>web.whatsapp.com (365)</li>
+<li>web.whatsapp.com (367)</li>
 <li>login.microsoftonline.com (350)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (294)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:20 www.reddit.com</li>
+<ul><li> 14:05 us05web.zoom.us</li>
+<li class='same'> 14:00 us05web.zoom.us</li>
+<li> 13:59 web.whatsapp.com</li>
+<li> 13:57 us05web.zoom.us</li>
+</ul>
+
+<br>
+
+<ul><li> 12:24 www.linkedin.com</li>
+<li> 12:23 web.whatsapp.com</li>
+<li> 12:21 www.reddit.com</li>
+<li class='same'> 12:20 www.reddit.com</li>
 <li class='same'> 12:19 www.reddit.com</li>
 <li class='same'> 12:18 www.reddit.com</li>
 <li> 12:13 www.linkedin.com</li>
