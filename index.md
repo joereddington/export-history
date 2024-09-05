@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7462)</li>
-<li>mail.google.com (5385)</li>
-<li>outlook.office.com (2855)</li>
-<li>www.facebook.com (2392)</li>
+<ol><li>www.google.com (7468)</li>
+<li>mail.google.com (5390)</li>
+<li>outlook.office.com (2856)</li>
+<li>www.facebook.com (2394)</li>
 <li>docs.google.com (1721)</li>
-<li>calendar.google.com (1192)</li>
+<li>calendar.google.com (1202)</li>
 <li>www.amazon.co.uk (1123)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.reddit.com (996)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (971)</li>
 <li>whitewaterwriters.com (606)</li>
-<li>gmail.com (598)</li>
+<li>gmail.com (600)</li>
 <li>tvtropes.org (585)</li>
 <li>chat.openai.com (581)</li>
 <li>app.qbo.intuit.com (552)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:12 web.whatsapp.com</li>
+<ul><li> 11:09 mail.google.com</li>
+<li> 10:59 calendar.google.com</li>
+<li> 10:58 mail.google.com</li>
+<li class='same'> 10:57 mail.google.com</li>
+<li> 10:57 outlook.office.com</li>
+<li> 10:57 mail.google.com</li>
+<li> 10:57 gmail.com</li>
+<li> 10:57 mail.google.com</li>
+<li> 10:57 gmail.com</li>
+<li> 10:47 www.facebook.com</li>
+<li> 10:47 accounts.intuit.com</li>
+<li> 10:47 www.facebook.com</li>
+<li> 10:45 www.google.com</li>
+<li class='same'> 10:44 www.google.com</li>
+<li> 10:44 calendar.google.com</li>
+<li class='same'> 10:43 calendar.google.com</li>
+<li class='same'> 10:42 calendar.google.com</li>
+<li class='same'> 10:41 calendar.google.com</li>
+<li class='same'> 10:39 calendar.google.com</li>
+<li> 10:39 www.google.com</li>
+<li class='same'> 10:38 www.google.com</li>
+<li class='same'> 10:37 www.google.com</li>
+<li> 10:32 calendar.google.com</li>
+<li class='same'> 10:31 calendar.google.com</li>
+<li class='same'> 10:29 calendar.google.com</li>
+<li> 10:26 www.cybok.org</li>
+<li class='same'> 10:25 www.cybok.org</li>
+<li class='same'> 10:24 www.cybok.org</li>
+<li> 10:24 www.ncsc.gov.uk</li>
+<li> 10:24 www.google.com</li>
+<li> 10:23 calendar.google.com</li>
+<li> 10:12 web.whatsapp.com</li>
 <li> 10:04 chatgpt.com</li>
 <li> 10:04 chat.openai.com</li>
 <li> 10:00 teams.microsoft.com</li>
