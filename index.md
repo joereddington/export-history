@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7464)</li>
+<ol><li>www.google.com (7462)</li>
 <li>mail.google.com (5380)</li>
 <li>outlook.office.com (2846)</li>
 <li>www.facebook.com (2391)</li>
-<li>docs.google.com (1720)</li>
+<li>docs.google.com (1721)</li>
 <li>calendar.google.com (1190)</li>
 <li>www.amazon.co.uk (1123)</li>
-<li>moodle.royalholloway.ac.uk (1070)</li>
+<li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.reddit.com (996)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (971)</li>
@@ -89,11 +89,11 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (462)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>teams.microsoft.com (400)</li>
+<li>teams.microsoft.com (399)</li>
 <li>drive.google.com (379)</li>
 <li>outlook.office365.com (371)</li>
 <li>web.whatsapp.com (363)</li>
-<li>login.microsoftonline.com (349)</li>
+<li>login.microsoftonline.com (348)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (292)</li>
 <li>www.giantitp.com (268)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 05/09/24</H3>
+
+<br>
+
+<ul><li> 04:44 docs.google.com</li>
+</ul>
+
 <H3>Wednesday, 04/09/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -13048,7 +13059,6 @@ With number of accesses/minutes in parentheses
 <li> 15:45 www.google.com</li>
 <li> 15:45 <a href="https://en.wikipedia.org/wiki/2011_PlayStation_Network_outage">2011 PlayStation Network outage - Wikipedia</a></li>
 <li> 15:36 outlook.office.com</li>
-<li> 15:35 moodle.royalholloway.ac.uk</li>
 <li> 15:34 Local file</li>
 <li> 15:34 moodle.royalholloway.ac.uk</li>
 <li class='same'> 15:33 moodle.royalholloway.ac.uk</li>
@@ -13063,7 +13073,6 @@ With number of accesses/minutes in parentheses
 <li> 15:00 outlook.office.com</li>
 <li class='same'> 14:56 outlook.office.com</li>
 <li> 14:55 <a href="https://en.wikipedia.org/wiki/Help:Citation_Style_1">Help:Citation Style 1 - Wikipedia</a></li>
-<li> 14:55 www.google.com</li>
 <li> 14:54 outlook.office.com</li>
 <li> 14:48 academia.stackexchange.com</li>
 <li> 14:48 www.google.com</li>
@@ -13103,7 +13112,6 @@ With number of accesses/minutes in parentheses
 <li> 13:19 mail.google.com</li>
 <li> 13:19 gmail.com</li>
 <li> 13:19 mail.google.com</li>
-<li> 13:17 www.google.com</li>
 <li> 13:17 rai.ac.uk</li>
 <li> 13:17 mail.google.com</li>
 <li> 13:17 gmail.com</li>
@@ -13111,8 +13119,6 @@ With number of accesses/minutes in parentheses
 <li> 13:14 equalitytime.github.io</li>
 <li class='same'> 13:02 equalitytime.github.io</li>
 <li class='same'> 13:01 equalitytime.github.io</li>
-<li> 12:58 teams.microsoft.com</li>
-<li> 12:58 login.microsoftonline.com</li>
 <li> 12:58 teams.microsoft.com</li>
 <li> 12:55 mail.google.com</li>
 <li class='same'> 12:54 mail.google.com</li>
@@ -13163,7 +13169,6 @@ With number of accesses/minutes in parentheses
 <li> 11:41 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 11:40 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 11:34 webtimetables.royalholloway.ac.uk</li>
-<li> 11:34 eur03.safelinks.protection.outlook.com</li>
 <li> 11:34 outlook.office.com</li>
 <li class='same'> 11:33 outlook.office.com</li>
 <li> 11:33 outlook.office365.com</li>
