@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7462)</li>
-<li>mail.google.com (5380)</li>
-<li>outlook.office.com (2853)</li>
+<li>mail.google.com (5385)</li>
+<li>outlook.office.com (2855)</li>
 <li>www.facebook.com (2392)</li>
 <li>docs.google.com (1721)</li>
-<li>calendar.google.com (1191)</li>
+<li>calendar.google.com (1192)</li>
 <li>www.amazon.co.uk (1123)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.reddit.com (996)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (971)</li>
 <li>whitewaterwriters.com (606)</li>
-<li>gmail.com (597)</li>
+<li>gmail.com (598)</li>
 <li>tvtropes.org (585)</li>
-<li>chat.openai.com (580)</li>
-<li>app.qbo.intuit.com (551)</li>
+<li>chat.openai.com (581)</li>
+<li>app.qbo.intuit.com (552)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.theguardian.com (473)</li>
 <li>www.linkedin.com (462)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>teams.microsoft.com (399)</li>
+<li>teams.microsoft.com (400)</li>
 <li>drive.google.com (379)</li>
 <li>outlook.office365.com (371)</li>
-<li>web.whatsapp.com (363)</li>
+<li>web.whatsapp.com (364)</li>
 <li>login.microsoftonline.com (350)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (294)</li>
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 05/09/24</H3>
+
+<br>
+
+<ul><li> 10:12 web.whatsapp.com</li>
+<li> 10:04 chatgpt.com</li>
+<li> 10:04 chat.openai.com</li>
+<li> 10:00 teams.microsoft.com</li>
+<li> 09:59 mail.google.com</li>
+<li class='same'> 09:51 mail.google.com</li>
+<li class='same'> 09:48 mail.google.com</li>
+<li class='same'> 09:47 mail.google.com</li>
+<li> 09:47 qbo.intuit.com</li>
+<li class='same'> 09:46 qbo.intuit.com</li>
+<li> 09:46 calendar.google.com</li>
+<li> 09:46 qbo.intuit.com</li>
+<li> 09:46 c14.qbo.intuit.com</li>
+<li> 09:46 app.qbo.intuit.com</li>
+<li> 09:46 accounts.intuit.com</li>
+<li> 09:45 mail.google.com</li>
+<li> 09:45 gmail.com</li>
+<li> 09:44 outlook.office.com</li>
+<li class='same'> 09:43 outlook.office.com</li>
+</ul>
 
 <br>
 
