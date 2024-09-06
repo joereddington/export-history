@@ -71,8 +71,8 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (7499)</li>
 <li>mail.google.com (5403)</li>
 <li>outlook.office.com (2875)</li>
-<li>www.facebook.com (2414)</li>
-<li>docs.google.com (1743)</li>
+<li>www.facebook.com (2415)</li>
+<li>docs.google.com (1745)</li>
 <li>calendar.google.com (1205)</li>
 <li>www.amazon.co.uk (1123)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (383)</li>
 <li>outlook.office365.com (374)</li>
-<li>web.whatsapp.com (369)</li>
+<li>web.whatsapp.com (370)</li>
 <li>login.microsoftonline.com (350)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (294)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:00 beds-arena.culturalservices.net</li>
+<ul><li> 15:16 web.whatsapp.com</li>
+<li> 15:16 www.facebook.com</li>
+<li> 15:15 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 15:15 docs.google.com</li>
+<li class='same'> 15:14 docs.google.com</li>
+<li> 15:00 beds-arena.culturalservices.net</li>
 <li> 15:00 www.google.com</li>
 <li> 14:59 <a href="https://en.wikipedia.org/wiki/University_of_the_Third_Age">University of the Third Age - Wikipedia</a></li>
 <li> 14:58 <a href="https://en.wikipedia.org/w/index.php?title=University_of_the_Third_Age&action=history">University of the Third Age: Revision history - Wikipedia</a></li>
