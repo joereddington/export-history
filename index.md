@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5401)</li>
 <li>outlook.office.com (2872)</li>
 <li>www.facebook.com (2411)</li>
-<li>docs.google.com (1734)</li>
+<li>docs.google.com (1735)</li>
 <li>calendar.google.com (1204)</li>
 <li>www.amazon.co.uk (1123)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (606)</li>
 <li>gmail.com (603)</li>
 <li>tvtropes.org (585)</li>
-<li>chat.openai.com (582)</li>
+<li>chat.openai.com (583)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.theguardian.com (481)</li>
 <li>en.m.wikipedia.org (474)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:39 docs.google.com</li>
+<ul><li> 10:46 accounts.google.com</li>
+<li> 10:41 chatgpt.com</li>
+<li class='same'> 10:40 chatgpt.com</li>
+<li> 10:40 chat.openai.com</li>
+<li> 10:40 docs.google.com</li>
+<li class='same'> 10:39 docs.google.com</li>
 <li> 10:28 web.whatsapp.com</li>
 <li> 10:27 discord.com</li>
 <li> 10:25 accounts.google.com</li>
