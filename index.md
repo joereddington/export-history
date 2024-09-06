@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7476)</li>
-<li>mail.google.com (5399)</li>
+<ol><li>www.google.com (7477)</li>
+<li>mail.google.com (5401)</li>
 <li>outlook.office.com (2872)</li>
 <li>www.facebook.com (2411)</li>
 <li>docs.google.com (1729)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (994)</li>
 <li>m.facebook.com (972)</li>
 <li>whitewaterwriters.com (606)</li>
-<li>gmail.com (602)</li>
+<li>gmail.com (603)</li>
 <li>tvtropes.org (585)</li>
 <li>chat.openai.com (582)</li>
 <li>app.qbo.intuit.com (552)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:29 docs.google.com</li>
+<ul><li> 09:33 mail.google.com</li>
+<li class='same'> 09:32 mail.google.com</li>
+<li> 09:32 gmail.com</li>
+<li> 09:31 scholar.googleusercontent.com</li>
+<li> 09:31 scholar.google.com</li>
+<li> 09:31 bpspsychub.onlinelibrary.wiley.com</li>
+<li> 09:31 wiley.scienceconnect.io</li>
+<li> 09:31 bpspsychub.onlinelibrary.wiley.com</li>
+<li> 09:31 scholar.google.com</li>
+<li> 09:31 www.google.com</li>
+<li> 09:29 docs.google.com</li>
 <li class='same'> 09:26 docs.google.com</li>
 <li> 09:26 chatgpt.com</li>
 <li> 09:26 docs.google.com</li>
