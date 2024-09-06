@@ -70,9 +70,9 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7476)</li>
 <li>mail.google.com (5399)</li>
-<li>outlook.office.com (2871)</li>
+<li>outlook.office.com (2872)</li>
 <li>www.facebook.com (2411)</li>
-<li>docs.google.com (1722)</li>
+<li>docs.google.com (1729)</li>
 <li>calendar.google.com (1204)</li>
 <li>www.amazon.co.uk (1123)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (380)</li>
+<li>drive.google.com (382)</li>
 <li>outlook.office365.com (373)</li>
 <li>web.whatsapp.com (368)</li>
 <li>login.microsoftonline.com (350)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:19 support.google.com</li>
+<ul><li> 09:29 docs.google.com</li>
+<li class='same'> 09:26 docs.google.com</li>
+<li> 09:26 chatgpt.com</li>
+<li> 09:26 docs.google.com</li>
+<li> 09:26 drive.google.com</li>
+<li> 09:25 chatgpt.com</li>
+<li> 09:24 docs.google.com</li>
+<li class='same'> 09:23 docs.google.com</li>
+<li> 09:22 drive.google.com</li>
+<li> 09:22 docs.google.com</li>
+<li class='same'> 09:21 docs.google.com</li>
+<li> 09:21 outlook.office.com</li>
+<li> 09:19 support.google.com</li>
 <li> 09:18 docs.google.com</li>
 <li> 09:18 drive.google.com</li>
 <li> 09:18 outlook.office.com</li>
