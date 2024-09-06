@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7498)</li>
+<ol><li>www.google.com (7499)</li>
 <li>mail.google.com (5403)</li>
 <li>outlook.office.com (2875)</li>
 <li>www.facebook.com (2414)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:58 <a href="https://en.wikipedia.org/wiki/University_of_the_Third_Age">University of the Third Age - Wikipedia</a></li>
+<ul><li> 15:00 beds-arena.culturalservices.net</li>
+<li> 15:00 www.google.com</li>
+<li> 14:59 <a href="https://en.wikipedia.org/wiki/University_of_the_Third_Age">University of the Third Age - Wikipedia</a></li>
+<li> 14:58 <a href="https://en.wikipedia.org/w/index.php?title=University_of_the_Third_Age&action=history">University of the Third Age: Revision history - Wikipedia</a></li>
+<li> 14:58 <a href="https://en.wikipedia.org/wiki/University_of_the_Third_Age">University of the Third Age - Wikipedia</a></li>
 <li> 14:58 <a href="https://en.wikipedia.org/wiki/Talk:University_of_the_Third_Age">Talk:University of the Third Age - Wikipedia</a></li>
 <li> 14:57 www.google.com</li>
 <li> 14:57 scholar.google.com</li>
