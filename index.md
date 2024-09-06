@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7478)</li>
+<ol><li>www.google.com (7472)</li>
 <li>mail.google.com (5394)</li>
-<li>outlook.office.com (2859)</li>
+<li>outlook.office.com (2861)</li>
 <li>www.facebook.com (2403)</li>
 <li>docs.google.com (1721)</li>
 <li>calendar.google.com (1204)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (585)</li>
 <li>chat.openai.com (581)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (480)</li>
+<li>www.theguardian.com (481)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (466)</li>
 <li>kdp.amazon.com (420)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 06/09/24</H3>
+
+<br>
+
+<ul><li> 08:09 www.theguardian.com</li>
+<li> 08:09 outlook.office.com</li>
+<li class='same'> 08:08 outlook.office.com</li>
+</ul>
 
 <br>
 
@@ -13126,7 +13133,6 @@ With number of accesses/minutes in parentheses
 <li> 15:35 www.linkedin.com</li>
 <li> 15:29 outlook.office365.com</li>
 <li> 15:29 mail.rhul.ac.uk</li>
-<li> 15:29 <a href="https://joereddington.com/assets/images/parkrun.png">parkrun.png</a></li>
 <li> 15:26 <a href="https://joereddington.com/2024/06/07/gratitude.html">Gratitude | Joe Reddington</a></li>
 <li> 15:24 www.facebook.com</li>
 <li class='same'> 15:23 www.facebook.com</li>
@@ -13173,21 +13179,15 @@ With number of accesses/minutes in parentheses
 <li> 12:02 www.google.com</li>
 <li class='same'> 12:01 www.google.com</li>
 <li class='same'> 11:38 www.google.com</li>
-<li class='same'> 11:36 www.google.com</li>
 <li class='same'> 11:34 www.google.com</li>
 <li> 11:34 web.whatsapp.com</li>
 <li> 11:32 www.justcolor.net</li>
-<li> 11:32 www.google.com</li>
 <li> 11:31 www.pinterest.com</li>
-<li> 11:31 www.google.com</li>
 <li> 11:31 web.whatsapp.com</li>
-<li> 11:31 www.google.com</li>
-<li class='same'> 11:30 www.google.com</li>
+<li> 11:30 www.google.com</li>
 <li> 11:29 outlook.office.com</li>
 <li> 11:28 www.kids-n-fun.com</li>
-<li> 11:28 www.google.com</li>
-<li class='same'> 11:27 www.google.com</li>
-<li class='same'> 11:26 www.google.com</li>
+<li> 11:26 www.google.com</li>
 </ul>
 
 <br>
