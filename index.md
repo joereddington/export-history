@@ -108,6 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:57 claude.ai</li>
+<li class='same'> 11:56 claude.ai</li>
+</ul>
+
+<br>
+
 <ul><li> 11:12 calendar.google.com</li>
 <li> 10:46 accounts.google.com</li>
 <li> 10:41 chatgpt.com</li>
