@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7474)</li>
+<ol><li>www.google.com (7475)</li>
 <li>mail.google.com (5397)</li>
-<li>outlook.office.com (2861)</li>
+<li>outlook.office.com (2863)</li>
 <li>www.facebook.com (2411)</li>
 <li>docs.google.com (1721)</li>
 <li>calendar.google.com (1204)</li>
@@ -91,8 +91,8 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (379)</li>
-<li>outlook.office365.com (371)</li>
-<li>web.whatsapp.com (367)</li>
+<li>outlook.office365.com (372)</li>
+<li>web.whatsapp.com (368)</li>
 <li>login.microsoftonline.com (350)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (294)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:38 chatgpt.com</li>
+<ul><li> 08:59 outlook.office.com</li>
+<li> 08:59 outlook.office365.com</li>
+<li> 08:59 outlook.office.com</li>
+<li> 08:59 mail.rhul.ac.uk</li>
+<li> 08:59 www.google.com</li>
+<li> 08:56 0.0.0.0:8000</li>
+<li> 08:51 web.whatsapp.com</li>
+<li> 08:49 Local file</li>
+<li> 08:48 chatgpt.com</li>
+<li class='same'> 08:38 chatgpt.com</li>
 <li> 08:37 www.google.com</li>
 <li> 08:34 chatgpt.com</li>
 <li class='same'> 08:33 chatgpt.com</li>
