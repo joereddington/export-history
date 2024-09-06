@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7503)</li>
+<ol><li>www.google.com (7505)</li>
 <li>mail.google.com (5403)</li>
 <li>outlook.office.com (2875)</li>
 <li>www.facebook.com (2418)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (383)</li>
 <li>outlook.office365.com (374)</li>
-<li>web.whatsapp.com (370)</li>
+<li>web.whatsapp.com (371)</li>
 <li>login.microsoftonline.com (350)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (294)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:03 <a href="https://en.wikipedia.org/wiki/Titanis">Titanis - Wikipedia</a></li>
+<ul><li> 16:19 www.ieee.org</li>
+<li> 16:18 cisse.info</li>
+<li> 16:18 web.whatsapp.com</li>
+<li> 16:13 scholar.googleusercontent.com</li>
+<li> 16:12 scholar.google.com</li>
+<li> 16:12 chatgpt.com</li>
+<li> 16:12 scholar.google.com</li>
+<li> 16:12 www.google.com</li>
+<li> 16:11 researchportal.northumbria.ac.uk</li>
+<li> 16:11 www.google.com</li>
+<li> 16:03 <a href="https://en.wikipedia.org/wiki/Titanis">Titanis - Wikipedia</a></li>
 <li> 16:02 <a href="https://en.wikipedia.org/wiki/Frye_Fire">Frye Fire - Wikipedia</a></li>
 <li> 16:02 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 16:00 www.worldu3a.org</li>
