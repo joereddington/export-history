@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (7510)</li>
 <li>mail.google.com (5403)</li>
 <li>outlook.office.com (2875)</li>
-<li>www.facebook.com (2419)</li>
+<li>www.facebook.com (2427)</li>
 <li>docs.google.com (1753)</li>
-<li>calendar.google.com (1205)</li>
+<li>calendar.google.com (1206)</li>
 <li>www.amazon.co.uk (1124)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.reddit.com (1024)</li>
+<li>www.reddit.com (1025)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (972)</li>
 <li>whitewaterwriters.com (606)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:52 www.tightrope.co.uk</li>
+<ul><li> 21:31 www.reddit.com</li>
+<li> 21:30 www.facebook.com</li>
+<li class='same'> 21:19 www.facebook.com</li>
+<li class='same'> 21:18 www.facebook.com</li>
+<li class='same'> 21:17 www.facebook.com</li>
+<li class='same'> 21:16 www.facebook.com</li>
+<li class='same'> 21:15 www.facebook.com</li>
+<li class='same'> 21:14 www.facebook.com</li>
+<li> 21:12 calendar.google.com</li>
+<li> 21:01 www.facebook.com</li>
+<li> 20:54 www.overleaf.com</li>
+<li> 20:52 www.tightrope.co.uk</li>
 <li> 20:52 www.google.com</li>
 <li> 20:34 www.facebook.com</li>
 <li> 20:34 <a href="https://xkcd.com/">xkcd: Slingshots</a></li>
