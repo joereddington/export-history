@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7484)</li>
+<ol><li>www.google.com (7487)</li>
 <li>mail.google.com (5403)</li>
 <li>outlook.office.com (2875)</li>
-<li>www.facebook.com (2412)</li>
-<li>docs.google.com (1739)</li>
+<li>www.facebook.com (2414)</li>
+<li>docs.google.com (1742)</li>
 <li>calendar.google.com (1205)</li>
 <li>www.amazon.co.uk (1123)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.reddit.com (1023)</li>
+<li>www.reddit.com (1024)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (972)</li>
 <li>whitewaterwriters.com (606)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (382)</li>
+<li>drive.google.com (383)</li>
 <li>outlook.office365.com (374)</li>
 <li>web.whatsapp.com (369)</li>
 <li>login.microsoftonline.com (350)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:20 outlook.office365.com</li>
+<ul><li> 14:39 <a href="https://en.wikipedia.org/wiki/Wikipedia"></a></li>
+<li> 14:38 docs.google.com</li>
+<li> 14:37 <a href="https://en.wikipedia.org/wiki/List_of_most-visited_websites">List of most-visited websites - Wikipedia</a></li>
+<li> 14:37 www.forbes.com</li>
+<li> 14:37 www.semrush.com</li>
+<li> 14:37 www.google.com</li>
+<li> 14:35 <a href="https://en.wikipedia.org/wiki/List_of_entertainers_who_died_during_a_performance">List of entertainers who died during a performance - Wikipedia</a></li>
+<li> 14:33 <a href="https://en.wikipedia.org/wiki/Tarrare">Tarrare - Wikipedia</a></li>
+<li> 14:33 www.reddit.com</li>
+<li> 14:33 www.google.com</li>
+<li> 14:32 www.facebook.com</li>
+<li> 14:32 docs.google.com</li>
+<li class='same'> 14:31 docs.google.com</li>
+<li> 14:31 drive.google.com</li>
+<li> 14:31 www.google.com</li>
+<li> 14:22 www.facebook.com</li>
+<li> 14:20 outlook.office365.com</li>
 <li> 14:20 outlook.office.com</li>
 <li> 14:20 mail.rhul.ac.uk</li>
 <li> 14:19 www.theguardian.com</li>
