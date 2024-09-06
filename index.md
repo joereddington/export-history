@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:07 docs.google.com</li>
+<ul><li> 12:20 chatgpt.com</li>
+<li class='same'> 12:19 chatgpt.com</li>
+<li> 12:07 docs.google.com</li>
 <li class='same'> 12:06 docs.google.com</li>
 <li> 11:57 claude.ai</li>
 <li class='same'> 11:56 claude.ai</li>
