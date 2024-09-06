@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:57 <a href="https://en.wikipedia.org/wiki/University_of_the_Third_Age">University of the Third Age - Wikipedia</a></li>
+<ul><li> 16:03 <a href="https://en.wikipedia.org/wiki/Titanis">Titanis - Wikipedia</a></li>
+<li> 16:02 <a href="https://en.wikipedia.org/wiki/Frye_Fire">Frye Fire - Wikipedia</a></li>
+<li> 16:02 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:00 www.worldu3a.org</li>
+<li> 16:00 www.u3a.org.uk</li>
+<li class='same'> 15:59 www.u3a.org.uk</li>
+<li> 15:58 <a href="https://en.wikipedia.org/wiki/Wikipedia:External_links">Wikipedia:External links - Wikipedia</a></li>
+<li> 15:57 <a href="https://en.wikipedia.org/wiki/University_of_the_Third_Age">University of the Third Age - Wikipedia</a></li>
 <li> 15:57 www.google.com</li>
 <li> 15:57 docs.google.com</li>
 <li> 15:56 www.facebook.com</li>
