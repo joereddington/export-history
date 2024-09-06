@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7481)</li>
-<li>mail.google.com (5401)</li>
-<li>outlook.office.com (2872)</li>
-<li>www.facebook.com (2411)</li>
+<li>mail.google.com (5403)</li>
+<li>outlook.office.com (2874)</li>
+<li>www.facebook.com (2412)</li>
 <li>docs.google.com (1737)</li>
 <li>calendar.google.com (1205)</li>
 <li>www.amazon.co.uk (1123)</li>
@@ -80,13 +80,13 @@ With number of accesses/minutes in parentheses
 <li>github.com (994)</li>
 <li>m.facebook.com (972)</li>
 <li>whitewaterwriters.com (606)</li>
-<li>gmail.com (603)</li>
+<li>gmail.com (604)</li>
 <li>tvtropes.org (585)</li>
 <li>chat.openai.com (583)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.theguardian.com (481)</li>
 <li>en.m.wikipedia.org (474)</li>
-<li>www.linkedin.com (466)</li>
+<li>www.linkedin.com (468)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:43 www.google.com</li>
+<ul><li> 13:08 outlook.office.com</li>
+<li> 13:08 www.linkedin.com</li>
+<li class='same'> 13:07 www.linkedin.com</li>
+<li> 13:07 eur03.safelinks.protection.outlook.com</li>
+<li> 13:07 outlook.office.com</li>
+<li> 13:07 mail.google.com</li>
+<li class='same'> 13:06 mail.google.com</li>
+<li> 13:06 gmail.com</li>
+<li> 13:05 www.facebook.com</li>
+<li> 12:43 pshe-association.org.uk</li>
+<li> 12:43 www.google.com</li>
 <li class='same'> 12:42 www.google.com</li>
 <li> 12:40 analytics.google.com</li>
 <li class='same'> 12:39 analytics.google.com</li>
