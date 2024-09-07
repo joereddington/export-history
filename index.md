@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7512)</li>
+<ol><li>www.google.com (7517)</li>
 <li>mail.google.com (5403)</li>
 <li>outlook.office.com (2875)</li>
 <li>www.facebook.com (2427)</li>
-<li>docs.google.com (1753)</li>
+<li>docs.google.com (1757)</li>
 <li>calendar.google.com (1207)</li>
 <li>www.amazon.co.uk (1124)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.reddit.com (1026)</li>
 <li>github.com (994)</li>
-<li>m.facebook.com (972)</li>
+<li>m.facebook.com (974)</li>
 <li>whitewaterwriters.com (606)</li>
 <li>gmail.com (604)</li>
 <li>tvtropes.org (585)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (482)</li>
+<li>www.theguardian.com (490)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (469)</li>
 <li>kdp.amazon.com (420)</li>
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 07/09/24</H3>
+
+<br>
+
+<ul><li> 10:45 www.asmodee.co.uk</li>
+<li> 10:45 www.google.com</li>
+<li> 10:45 www.unorules.com</li>
+<li> 10:45 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:37 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:02 m.facebook.com</li>
+<li> 08:01 www.google.com</li>
+<li> 08:00 www.theguardian.com</li>
+<li class='same'> 07:59 www.theguardian.com</li>
+<li class='same'> 07:58 www.theguardian.com</li>
+<li class='same'> 07:56 www.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -149,6 +172,17 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:21 www.google.com</li>
 <li> 20:20 arxiv.org</li>
 <li> 20:19 www.amazon.co.uk</li>
+<li> 20:12 www.theguardian.com</li>
+<li class='same'> 20:11 www.theguardian.com</li>
+<li> 20:08 www.google.com</li>
+<li> 20:02 www.natesilver.net</li>
+<li> 20:02 x.com</li>
+<li> 20:02 twitter.com</li>
+<li> 20:02 x.com</li>
+<li> 20:02 twitter.com</li>
+<li> 20:01 www.google.com</li>
+<li> 19:59 www.theguardian.com</li>
+<li class='same'> 19:57 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -62919,6 +62953,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:51 mail.google.com</li>
+<li> 07:49 <a href="https://en.wikipedia.org/wiki/University_of_the_Third_Age">University of the Third Age - Wikipedia</a></li>
 <li> 07:48 www.google.com</li>
 <li> 07:36 www.ageconcernluton.org.uk</li>
 <li> 07:28 equalitytime.co.uk</li>
@@ -62951,7 +62986,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:43 calendar.google.com</li>
 <li> 15:41 www.showtimecircus.co.uk</li>
 <li> 15:20 www.facebook.com</li>
-<li class='same'> 15:14 www.facebook.com</li>
+<li> 15:19 www.u3a.org.uk</li>
+<li> 15:14 www.facebook.com</li>
 <li class='same'> 15:13 www.facebook.com</li>
 <li> 14:52 www.instagram.com</li>
 </ul>
@@ -65528,6 +65564,7 @@ With number of accesses/minutes in parentheses
 <li> 13:47 www.facebook.com</li>
 <li class='same'> 13:45 www.facebook.com</li>
 <li> 13:43 bsky.app</li>
+<li> 13:41 bpspsychub.onlinelibrary.wiley.com</li>
 <li> 13:41 scholar.google.com</li>
 <li> 13:40 127.0.0.1:4000</li>
 <li class='same'> 13:39 127.0.0.1:4000</li>
@@ -65836,6 +65873,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:53 bsky.app</li>
 <li> 10:53 twitter.com</li>
+<li> 10:48 bpspsychub.onlinelibrary.wiley.com</li>
 <li> 10:48 scholar.google.com</li>
 <li class='same'> 10:43 scholar.google.com</li>
 <li> 10:43 www.google.com</li>
@@ -67606,8 +67644,12 @@ With number of accesses/minutes in parentheses
 <li> 11:06 theopenvoicefactory.org</li>
 <li> 10:53 github.com</li>
 <li> 10:43 docs.google.com</li>
+<li class='same'> 10:42 docs.google.com</li>
+<li class='same'> 10:37 docs.google.com</li>
 <li class='same'> 10:35 docs.google.com</li>
 <li> 10:29 analytics.google.com</li>
+<li> 10:28 docs.google.com</li>
+<li class='same'> 10:27 docs.google.com</li>
 <li> 10:27 www.tightrope.co.uk</li>
 <li> 10:27 www.projectreal.co.uk</li>
 <li> 10:25 docs.google.com</li>
