@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7517)</li>
+<ol><li>www.google.com (7524)</li>
 <li>mail.google.com (5403)</li>
 <li>outlook.office.com (2875)</li>
 <li>www.facebook.com (2427)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1207)</li>
 <li>www.amazon.co.uk (1124)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.reddit.com (1026)</li>
+<li>www.reddit.com (1036)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (974)</li>
 <li>whitewaterwriters.com (606)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (585)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (490)</li>
+<li>www.theguardian.com (493)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (469)</li>
 <li>kdp.amazon.com (420)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (350)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (294)</li>
-<li>www.giantitp.com (270)</li>
+<li>www.giantitp.com (274)</li>
 <li>www.ebay.co.uk (267)</li>
 
 
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 08/09/24</H3>
+
+<br>
+
+<ul><li> 11:28 www.google.com</li>
+<li> 11:25 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -131,7 +137,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:45 www.asmodee.co.uk</li>
+<ul><li> 23:09 www.reddit.com</li>
+<li> 23:09 www.google.com</li>
+<li> 23:08 m.economictimes.com</li>
+<li> 23:08 www.google.com</li>
+<li> 23:07 www.natesilver.net</li>
+<li> 23:07 www.google.com</li>
+<li> 23:06 www.theguardian.com</li>
+<li> 23:05 www.reddit.com</li>
+<li> 23:05 www.theguardian.com</li>
+<li> 23:05 www.reddit.com</li>
+<li> 23:05 www.theguardian.com</li>
+<li> 23:05 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:22 www.reddit.com</li>
+<li class='same'> 14:21 www.reddit.com</li>
+<li class='same'> 14:20 www.reddit.com</li>
+<li class='same'> 14:15 www.reddit.com</li>
+<li> 14:15 www.giantitp.com</li>
+<li class='same'> 14:14 www.giantitp.com</li>
+<li class='same'> 14:13 www.giantitp.com</li>
+<li class='same'> 14:11 www.giantitp.com</li>
+<li> 14:07 www.reddit.com</li>
+<li> 14:07 www.google.com</li>
+<li> 14:06 forums.giantitp.com</li>
+<li> 14:06 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:26 www.google.com</li>
+<li> 12:26 www.asmodee.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:45 www.asmodee.co.uk</li>
 <li> 10:45 www.google.com</li>
 <li> 10:45 www.unorules.com</li>
 <li> 10:45 www.google.com</li>
