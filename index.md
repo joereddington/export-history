@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7525)</li>
+<ol><li>www.google.com (7528)</li>
 <li>mail.google.com (5403)</li>
 <li>outlook.office.com (2875)</li>
 <li>www.facebook.com (2427)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1207)</li>
 <li>www.amazon.co.uk (1124)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.reddit.com (1036)</li>
+<li>www.reddit.com (1042)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (974)</li>
 <li>whitewaterwriters.com (606)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (585)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (495)</li>
+<li>www.theguardian.com (497)</li>
 <li>en.m.wikipedia.org (474)</li>
 <li>www.linkedin.com (469)</li>
 <li>kdp.amazon.com (420)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:56 www.theguardian.com</li>
+<ul><li> 18:50 www.reddit.com</li>
+<li class='same'> 18:31 www.reddit.com</li>
+<li class='same'> 18:28 www.reddit.com</li>
+<li class='same'> 18:27 www.reddit.com</li>
+<li class='same'> 17:59 www.reddit.com</li>
+<li class='same'> 17:58 www.reddit.com</li>
+<li> 17:58 www.google.com</li>
+<li> 17:58 www.theguardian.com</li>
+<li class='same'> 17:57 www.theguardian.com</li>
+<li class='same'> 17:56 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -62514,6 +62523,7 @@ With number of accesses/minutes in parentheses
 <li> 06:43 0.0.0.0:8000</li>
 <li> 06:32 <a href="https://www.bbc.co.uk/news/uk-england-cambridgeshire-66791084">Cambridgeshire farmer shoots deer to feed his two African lions - BBC News</a></li>
 <li> 06:17 www.reddit.com</li>
+<li> 06:17 www.google.com</li>
 </ul>
 
 <H3>Monday, 18/09/23</H3>
@@ -66247,6 +66257,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:43 www.reddit.com</li>
+<li> 16:43 www.google.com</li>
 </ul>
 
 <br>
