@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7563)</li>
+<ol><li>www.google.com (7569)</li>
 <li>mail.google.com (5419)</li>
 <li>outlook.office.com (2881)</li>
 <li>www.facebook.com (2434)</li>
@@ -84,9 +84,9 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (587)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (505)</li>
+<li>www.theguardian.com (508)</li>
+<li>en.m.wikipedia.org (475)</li>
 <li>www.linkedin.com (474)</li>
-<li>en.m.wikipedia.org (474)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:31 www.google.com</li>
+<ul><li> 12:44 <a href="https://en.wikipedia.org/wiki/Self-publishing">Self-publishing - Wikipedia</a></li>
+<li> 12:44 www.google.com</li>
+<li class='same'> 12:43 www.google.com</li>
+<li> 12:42 maps.wikilovesmonuments.org</li>
+<li> 12:42 www.wikilovesmonuments.org.uk</li>
+<li> 12:41 <a href="https://en.wikipedia.org/w/index.php?title=Barnfield_College&action=history">Barnfield College: Revision history - Wikipedia</a></li>
+<li> 12:41 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
+<li> 12:41 <a href="https://en.wikipedia.org/wiki/Special:Nearby#/coord/51.905994748851676,-0.43302361277299223">Nearby - Wikipedia</a></li>
+<li> 12:41 <a href="https://en.wikipedia.org/wiki/Special:Nearby">Nearby - Wikipedia</a></li>
+<li> 12:41 en.m.wikipedia.org</li>
+<li> 12:41 www.wikipedia.org</li>
+<li> 12:40 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:38 www.quora.com</li>
+<li> 12:38 www.google.com</li>
+<li> 12:37 <a href="https://en.wikipedia.org/wiki/Lydekker_Park?action=edit&veswitched=1">Editing Lydekker Park - Wikipedia</a></li>
+<li> 12:37 <a href="https://en.wikipedia.org/w/index.php?title=Lydekker_Park&action=edit">Editing Lydekker Park - Wikipedia</a></li>
+<li> 12:37 <a href="https://en.wikipedia.org/wiki/Lydekker_Park">Editing Lydekker Park - Wikipedia</a></li>
+<li> 12:37 www.google.com</li>
+<li> 12:37 <a href="https://en.wikipedia.org/wiki/St_George%27s_School,_Harpenden">St George's School, Harpenden - Wikipedia</a></li>
+<li> 12:37 www.google.com</li>
+<li> 12:35 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Images#Images_for_the_lead">Wikipedia:Manual of Style/Images - Wikipedia</a></li>
+<li> 12:35 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lead_section">Wikipedia:Manual of Style/Lead section - Wikipedia</a></li>
+<li> 12:35 www.google.com</li>
+<li class='same'> 12:31 www.google.com</li>
 <li class='same'> 12:30 www.google.com</li>
 <li> 12:30 mail.google.com</li>
 <li> 12:30 www.google.com</li>
@@ -283,7 +306,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:00 www.theguardian.com</li>
+<ul><li> 07:07 www.theguardian.com</li>
+<li class='same'> 07:06 www.theguardian.com</li>
+<li class='same'> 07:05 www.theguardian.com</li>
+<li class='same'> 07:00 www.theguardian.com</li>
 <li class='same'> 06:59 www.theguardian.com</li>
 <li> 06:45 www.natesilver.net</li>
 <li> 06:45 www.google.com</li>
@@ -66189,7 +66215,11 @@ With number of accesses/minutes in parentheses
 <li> 10:43 www.google.com</li>
 <li> 10:14 docs.google.com</li>
 <li class='same'> 10:12 docs.google.com</li>
+<li> 09:53 www.thetrainline.com</li>
+<li class='same'> 09:52 www.thetrainline.com</li>
+<li class='same'> 09:51 www.thetrainline.com</li>
 <li> 09:48 www.google.com</li>
+<li> 09:45 www.thetrainline.com</li>
 </ul>
 
 <H3>Wednesday, 05/07/23</H3>
@@ -66755,6 +66785,11 @@ With number of accesses/minutes in parentheses
 <li> 06:57 docs.google.com</li>
 <li> 06:51 www.eventbrite.com</li>
 <li class='same'> 06:50 www.eventbrite.com</li>
+<li> 06:50 www.thetrainline.com</li>
+<li class='same'> 06:46 www.thetrainline.com</li>
+<li class='same'> 06:44 www.thetrainline.com</li>
+<li class='same'> 06:43 www.thetrainline.com</li>
+<li class='same'> 06:42 www.thetrainline.com</li>
 <li> 06:38 mail.google.com</li>
 <li> 06:37 app.governorhub.com</li>
 <li class='same'> 06:35 app.governorhub.com</li>
