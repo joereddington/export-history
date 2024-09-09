@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7553)</li>
-<li>mail.google.com (5405)</li>
-<li>outlook.office.com (2874)</li>
-<li>www.facebook.com (2433)</li>
+<ol><li>www.google.com (7559)</li>
+<li>mail.google.com (5414)</li>
+<li>outlook.office.com (2878)</li>
+<li>www.facebook.com (2434)</li>
 <li>docs.google.com (1765)</li>
 <li>calendar.google.com (1208)</li>
 <li>www.amazon.co.uk (1124)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
-<li>www.reddit.com (1054)</li>
+<li>www.reddit.com (1059)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (974)</li>
+<li>gmail.com (607)</li>
 <li>whitewaterwriters.com (606)</li>
-<li>gmail.com (606)</li>
 <li>tvtropes.org (587)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (504)</li>
+<li>www.theguardian.com (505)</li>
+<li>www.linkedin.com (474)</li>
 <li>en.m.wikipedia.org (474)</li>
-<li>www.linkedin.com (473)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (351)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (292)</li>
-<li>www.giantitp.com (277)</li>
+<li>www.giantitp.com (278)</li>
 <li>Local file (270)</li>
 
 
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:56 Local file</li>
+<ul><li> 12:03 outlook.office.com</li>
+<li class='same'> 12:02 outlook.office.com</li>
+<li class='same'> 11:59 outlook.office.com</li>
+<li class='same'> 11:58 outlook.office.com</li>
+<li> 11:58 cloud.email.generac.com</li>
+<li> 11:58 mail.google.com</li>
+<li> 11:58 cloud.email.generac.com</li>
+<li> 11:58 mail.google.com</li>
+<li class='same'> 11:57 mail.google.com</li>
+<li class='same'> 11:55 mail.google.com</li>
+<li> 11:55 www.google.com</li>
+<li class='same'> 11:54 www.google.com</li>
+<li> 11:54 www.thetrainline.com</li>
+<li> 11:53 www.paypal.com</li>
+<li> 11:52 www.thetrainline.com</li>
+<li class='same'> 11:51 www.thetrainline.com</li>
+<li> 11:48 www.google.com</li>
+<li> 11:48 www.thetrainline.com</li>
+<li> 11:47 www.google.com</li>
+<li> 11:47 sayi.do</li>
+<li> 11:46 www.thetrainline.com</li>
+<li> 11:46 www.google.co.uk</li>
+<li> 11:46 consent.google.co.uk</li>
+<li> 11:46 www.google.com</li>
+<li> 11:46 mail.google.com</li>
+<li class='same'> 11:45 mail.google.com</li>
+<li> 11:45 www.ebay.co.uk</li>
+<li> 11:45 mail.google.com</li>
+<li class='same'> 11:44 mail.google.com</li>
+<li class='same'> 11:43 mail.google.com</li>
+<li> 11:43 gmail.com</li>
+<li> 11:41 www.overleaf.com</li>
+<li> 11:41 www.google.com</li>
+<li> 11:36 www.reddit.com</li>
+<li class='same'> 11:35 www.reddit.com</li>
+<li class='same'> 11:33 www.reddit.com</li>
+<li> 11:31 www.theguardian.com</li>
+<li> 11:31 www.giantitp.com</li>
+<li> 11:27 www.facebook.com</li>
+<li> 11:27 www.linkedin.com</li>
+<li> 11:26 www.reddit.com</li>
+<li class='same'> 11:25 www.reddit.com</li>
+<li> 10:56 Local file</li>
 <li> 10:56 www.overleaf.com</li>
 <li class='same'> 10:49 www.overleaf.com</li>
 <li> 10:49 www.linkedin.com</li>
