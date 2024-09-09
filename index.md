@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:51 dl.acm.org</li>
+<ul><li> 17:03 www.sciencedirect.com</li>
+<li> 17:03 scholar.google.com</li>
+<li> 17:02 onlinelibrary.wiley.com</li>
+<li> 17:02 wiley.scienceconnect.io</li>
+<li> 17:02 onlinelibrary.wiley.com</li>
+<li> 17:02 scholar.google.com</li>
+<li> 16:51 dl.acm.org</li>
 <li> 16:50 scholar.google.com</li>
 <li> 16:50 link.springer.com</li>
 <li> 16:50 idp.springer.com</li>
