@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7571)</li>
+<ol><li>www.google.com (7572)</li>
 <li>mail.google.com (5422)</li>
-<li>outlook.office.com (2894)</li>
+<li>outlook.office.com (2900)</li>
 <li>www.facebook.com (2440)</li>
 <li>docs.google.com (1780)</li>
-<li>calendar.google.com (1217)</li>
+<li>calendar.google.com (1221)</li>
 <li>www.amazon.co.uk (1124)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
-<li>www.reddit.com (1059)</li>
+<li>www.reddit.com (1060)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (974)</li>
 <li>gmail.com (608)</li>
@@ -85,17 +85,17 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.theguardian.com (508)</li>
+<li>www.linkedin.com (475)</li>
 <li>en.m.wikipedia.org (475)</li>
-<li>www.linkedin.com (474)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (388)</li>
 <li>web.whatsapp.com (375)</li>
 <li>outlook.office365.com (373)</li>
-<li>login.microsoftonline.com (352)</li>
+<li>login.microsoftonline.com (353)</li>
 <li>bsky.app (313)</li>
-<li>rhul.sharepoint.com (292)</li>
+<li>rhul.sharepoint.com (293)</li>
 <li>www.giantitp.com (278)</li>
 <li>Local file (270)</li>
 
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:13 calendar.google.com</li>
+<ul><li> 14:44 www.linkedin.com</li>
+<li> 14:43 outlook.office.com</li>
+<li class='same'> 14:39 outlook.office.com</li>
+<li> 14:39 rh.firstparking.co.uk</li>
+<li class='same'> 14:38 rh.firstparking.co.uk</li>
+<li> 14:38 www.royalholloway.ac.uk</li>
+<li> 14:37 outlook.office.com</li>
+<li class='same'> 14:33 outlook.office.com</li>
+<li> 14:32 www.eventbrite.co.uk</li>
+<li> 14:31 calendar.google.com</li>
+<li> 14:30 outlook.office.com</li>
+<li class='same'> 14:29 outlook.office.com</li>
+<li> 14:26 www.overleaf.com</li>
+<li> 14:23 calendar.google.com</li>
+<li> 14:22 rhul.sharepoint.com</li>
+<li> 14:22 login.microsoftonline.com</li>
+<li> 14:18 www.reddit.com</li>
+<li> 14:17 www.google.com</li>
+<li> 14:15 calendar.google.com</li>
+<li class='same'> 14:14 calendar.google.com</li>
+<li class='same'> 14:13 calendar.google.com</li>
 <li> 14:12 moodle.royalholloway.ac.uk</li>
 <li> 14:12 login.microsoftonline.com</li>
 <li> 14:12 www.google.com</li>
