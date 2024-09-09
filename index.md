@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (552)</li>
 <li>www.theguardian.com (504)</li>
 <li>en.m.wikipedia.org (474)</li>
-<li>www.linkedin.com (471)</li>
+<li>www.linkedin.com (473)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
@@ -111,6 +111,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:56 Local file</li>
 <li> 10:56 www.overleaf.com</li>
 <li class='same'> 10:49 www.overleaf.com</li>
+<li> 10:49 www.linkedin.com</li>
+<li class='same'> 10:48 www.linkedin.com</li>
 <li> 10:46 Local file</li>
 <li> 10:46 www.overleaf.com</li>
 <li> 10:36 www.google.com</li>
