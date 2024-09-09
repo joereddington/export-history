@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:49 www.tandfonline.com</li>
+<ul><li> 16:51 dl.acm.org</li>
+<li> 16:50 scholar.google.com</li>
+<li> 16:50 link.springer.com</li>
+<li> 16:50 idp.springer.com</li>
+<li> 16:50 books.google.co.uk</li>
+<li> 16:50 books.google.com</li>
+<li> 16:50 books.google.co.uk</li>
+<li> 16:49 www.tandfonline.com</li>
 <li> 16:49 outlook.office.com</li>
 <li> 16:49 cybercrimejournal.com</li>
 <li> 16:48 dspace.ub.uni-siegen.de</li>
