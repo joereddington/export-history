@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7580)</li>
 <li>mail.google.com (5429)</li>
-<li>outlook.office.com (2924)</li>
+<li>outlook.office.com (2925)</li>
 <li>www.facebook.com (2443)</li>
 <li>docs.google.com (1780)</li>
 <li>calendar.google.com (1226)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (587)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (508)</li>
+<li>www.theguardian.com (513)</li>
 <li>www.linkedin.com (477)</li>
 <li>en.m.wikipedia.org (475)</li>
 <li>kdp.amazon.com (420)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:20 outlook.office.com</li>
+<ul><li> 19:07 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:21 outlook.office.com</li>
+<li class='same'> 17:20 outlook.office.com</li>
 <li> 17:18 claude.ai</li>
 <li class='same'> 17:15 claude.ai</li>
 <li class='same'> 17:14 claude.ai</li>
@@ -506,7 +512,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:42 www.theguardian.com</li>
+<ul><li> 19:46 www.theguardian.com</li>
+<li class='same'> 19:45 www.theguardian.com</li>
+<li class='same'> 19:44 www.theguardian.com</li>
+<li class='same'> 19:43 www.theguardian.com</li>
+<li class='same'> 19:42 www.theguardian.com</li>
 </ul>
 
 <br>
