@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7551)</li>
+<ol><li>www.google.com (7552)</li>
 <li>mail.google.com (5405)</li>
 <li>outlook.office.com (2874)</li>
 <li>www.facebook.com (2433)</li>
-<li>docs.google.com (1764)</li>
+<li>docs.google.com (1765)</li>
 <li>calendar.google.com (1208)</li>
 <li>www.amazon.co.uk (1124)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
@@ -90,8 +90,8 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (384)</li>
-<li>web.whatsapp.com (373)</li>
+<li>drive.google.com (386)</li>
+<li>web.whatsapp.com (374)</li>
 <li>outlook.office365.com (373)</li>
 <li>login.microsoftonline.com (351)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:20 Local file</li>
+<ul><li> 10:34 scholar.google.com</li>
+<li> 10:34 go.gale.com</li>
+<li> 10:34 galeapps.gale.com</li>
+<li> 10:34 scholar.google.com</li>
+<li> 10:34 www.google.com</li>
+<li> 10:32 docs.google.com</li>
+<li> 10:32 drive.google.com</li>
+<li class='same'> 10:31 drive.google.com</li>
+<li> 10:26 web.whatsapp.com</li>
+<li> 10:20 Local file</li>
 <li> 10:20 www.overleaf.com</li>
 <li> 10:16 claude.ai</li>
 <li> 10:16 Local file</li>
