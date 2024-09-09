@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7569)</li>
-<li>mail.google.com (5419)</li>
-<li>outlook.office.com (2881)</li>
+<ol><li>www.google.com (7570)</li>
+<li>mail.google.com (5420)</li>
+<li>outlook.office.com (2883)</li>
 <li>www.facebook.com (2434)</li>
-<li>docs.google.com (1767)</li>
-<li>calendar.google.com (1211)</li>
+<li>docs.google.com (1776)</li>
+<li>calendar.google.com (1213)</li>
 <li>www.amazon.co.uk (1124)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.reddit.com (1059)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (387)</li>
-<li>web.whatsapp.com (374)</li>
+<li>web.whatsapp.com (375)</li>
 <li>outlook.office365.com (373)</li>
 <li>login.microsoftonline.com (351)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:44 <a href="https://en.wikipedia.org/wiki/Self-publishing">Self-publishing - Wikipedia</a></li>
+<ul><li> 12:57 web.whatsapp.com</li>
+<li> 12:57 calendar.google.com</li>
+<li class='same'> 12:56 calendar.google.com</li>
+<li> 12:56 docs.google.com</li>
+<li class='same'> 12:55 docs.google.com</li>
+<li> 12:55 <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_articles">Wikipedia:Featured articles - Wikipedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_articles*">Wikipedia:Featured articles - Wikipedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/wiki/KNXV-TV">KNXV-TV - Wikipedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:54 <a href="https://en.wikipedia.org/wiki/University_of_the_Third_Age">University of the Third Age - Wikipedia</a></li>
+<li> 12:54 www.google.com</li>
+<li> 12:54 docs.google.com</li>
+<li> 12:53 mail.google.com</li>
+<li> 12:53 outlook.office.com</li>
+<li class='same'> 12:52 outlook.office.com</li>
+<li> 12:52 docs.google.com</li>
+<li class='same'> 12:51 docs.google.com</li>
+<li class='same'> 12:50 docs.google.com</li>
+<li class='same'> 12:49 docs.google.com</li>
+<li class='same'> 12:48 docs.google.com</li>
+<li class='same'> 12:47 docs.google.com</li>
+<li> 12:44 <a href="https://en.wikipedia.org/wiki/Self-publishing">Self-publishing - Wikipedia</a></li>
 <li> 12:44 www.google.com</li>
 <li class='same'> 12:43 www.google.com</li>
 <li> 12:42 maps.wikilovesmonuments.org</li>
