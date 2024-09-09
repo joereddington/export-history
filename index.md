@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7540)</li>
+<ol><li>www.google.com (7537)</li>
 <li>mail.google.com (5403)</li>
-<li>outlook.office.com (2875)</li>
+<li>outlook.office.com (2872)</li>
 <li>www.facebook.com (2427)</li>
 <li>docs.google.com (1762)</li>
 <li>calendar.google.com (1207)</li>
@@ -91,11 +91,11 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (383)</li>
-<li>outlook.office365.com (374)</li>
+<li>outlook.office365.com (373)</li>
 <li>web.whatsapp.com (371)</li>
 <li>login.microsoftonline.com (350)</li>
 <li>bsky.app (313)</li>
-<li>rhul.sharepoint.com (294)</li>
+<li>rhul.sharepoint.com (292)</li>
 <li>www.giantitp.com (274)</li>
 <li>www.ebay.co.uk (267)</li>
 
@@ -13334,13 +13334,11 @@ With number of accesses/minutes in parentheses
 <li> 15:22 www.retrocollect.com</li>
 <li> 15:22 www.destructoid.com</li>
 <li> 15:21 www.instructables.com</li>
-<li> 15:21 www.google.com</li>
 <li> 15:20 www.reddit.com</li>
 <li> 15:20 www.google.com</li>
 <li> 15:16 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 15:15 <a href="https://www.youtube.com/shorts/BHYjO9iBMsQ">(37) Connecting the exercise bike to games. Test 1. - YouTube</a></li>
 <li> 15:15 <a href="https://www.youtube.com/channel/UCLOmaOSJYS1FVBQXLIGf0QQ">(37) Joe Reddington - YouTube</a></li>
-<li> 15:15 <a href="https://www.youtube.com/signin?action_handle_signin=true&authuser=0&next=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC4DUmGMOWnrf4VH3kLw6P2A&feature=masthead_switcher&skip_identity_prompt=true"></a></li>
 <li> 15:15 <a href="https://www.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A">(37) Joe edits Wikipedia! - YouTube</a></li>
 <li> 15:14 <a href="https://www.youtube.com/">(4) YouTube</a></li>
 <li class='same'> 15:13 <a href="https://www.youtube.com/">(4) YouTube</a></li>
@@ -13354,14 +13352,11 @@ With number of accesses/minutes in parentheses
 <li> 15:05 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li> 14:48 rhul-my.sharepoint.com</li>
 <li class='same'> 14:47 rhul-my.sharepoint.com</li>
-<li> 14:46 mysignins.microsoft.com</li>
 <li> 14:46 account.activedirectory.windowsazure.com</li>
 <li> 14:46 login.microsoftonline.com</li>
 <li> 14:46 account.activedirectory.windowsazure.com</li>
 <li> 14:46 login.microsoftonline.com</li>
 <li> 14:46 rhul-my.sharepoint.com</li>
-<li> 14:46 outlook.office.com</li>
-<li> 14:46 outlook.office365.com</li>
 <li> 14:44 127.0.0.1:4000</li>
 <li> 14:27 outlook.office365.com</li>
 <li> 14:26 github.com</li>
@@ -13388,7 +13383,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:46 mail.google.com</li>
 <li> 13:45 www.facebook.com</li>
 <li> 13:45 www.linkedin.com</li>
-<li> 13:45 uk.linkedin.com</li>
 <li> 13:44 www.google.com</li>
 <li> 13:44 www.exiterik.com</li>
 <li class='same'> 13:43 www.exiterik.com</li>
@@ -13396,7 +13390,6 @@ With number of accesses/minutes in parentheses
 <li> 13:42 www.google.com</li>
 <li> 13:42 wodara.org</li>
 <li> 13:42 www.linkedin.com</li>
-<li> 13:42 uk.linkedin.com</li>
 <li> 13:42 www.google.com</li>
 <li> 13:42 mail.google.com</li>
 <li class='same'> 13:41 mail.google.com</li>
@@ -13406,11 +13399,8 @@ With number of accesses/minutes in parentheses
 <li> 13:40 mail.google.com</li>
 <li> 13:36 whitewaterwriters.com</li>
 <li> 13:31 www.google.com</li>
-<li> 13:31 maps.google.com</li>
-<li> 13:31 www.google.com</li>
 <li> 13:30 mail.google.com</li>
 <li> 13:30 accounts.youtube.com</li>
-<li> 13:30 accounts.google.com</li>
 <li> 13:30 accounts.google.co.uk</li>
 <li> 13:30 accounts.google.com</li>
 <li> 13:30 mail.google.com</li>
@@ -13430,11 +13420,9 @@ With number of accesses/minutes in parentheses
 <li> 13:02 www.reddit.com</li>
 <li> 13:02 www.google.com</li>
 <li> 13:01 www.reddit.com</li>
-<li> 13:01 www.google.com</li>
 <li> 13:00 stimson.web.unc.edu</li>
 <li> 13:00 <a href="https://tex.stackexchange.com/questions/66007/any-way-of-converting-ppt-or-odf-to-beamer-or-org">conversion - Any way of converting ppt or odf to beamer or org? - TeX - LaTeX Stack Exchange</a></li>
-<li> 13:00 products.groupdocs.app</li>
-<li class='same'> 12:59 products.groupdocs.app</li>
+<li> 12:59 products.groupdocs.app</li>
 <li> 12:59 www.google.com</li>
 <li> 12:49 chatgpt.com</li>
 <li> 12:49 chat.openai.com</li>
@@ -13518,7 +13506,6 @@ With number of accesses/minutes in parentheses
 <li> 10:34 accounts.intuit.com</li>
 <li> 10:34 c14.qbo.intuit.com</li>
 <li> 10:33 outlook.office.com</li>
-<li class='same'> 10:32 outlook.office.com</li>
 <li class='same'> 10:17 outlook.office.com</li>
 <li> 10:17 mail.google.com</li>
 <li class='same'> 10:16 mail.google.com</li>
@@ -13533,7 +13520,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:23 rhul.sharepoint.com</li>
-<li class='same'> 09:21 rhul.sharepoint.com</li>
 <li class='same'> 09:20 rhul.sharepoint.com</li>
 <li> 09:15 teams.microsoft.com</li>
 </ul>
@@ -13549,7 +13535,6 @@ With number of accesses/minutes in parentheses
 <li> 08:17 en.m.wikipedia.org</li>
 <li> 07:52 rhul.sharepoint.com</li>
 <li class='same'> 07:51 rhul.sharepoint.com</li>
-<li class='same'> 07:44 rhul.sharepoint.com</li>
 <li> 07:37 outlook.office.com</li>
 <li class='same'> 07:36 outlook.office.com</li>
 <li> 07:35 rhul.sharepoint.com</li>
@@ -13562,7 +13547,6 @@ With number of accesses/minutes in parentheses
 <li> 07:26 outlook.office365.com</li>
 <li> 07:25 moodle.royalholloway.ac.uk</li>
 <li> 07:25 Local file</li>
-<li> 07:25 outlook.office.com</li>
 <li> 07:25 moodle.royalholloway.ac.uk</li>
 <li> 07:25 login.microsoftonline.com</li>
 <li> 07:23 outlook.office365.com</li>
