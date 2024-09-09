@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7570)</li>
-<li>mail.google.com (5421)</li>
-<li>outlook.office.com (2891)</li>
+<ol><li>www.google.com (7571)</li>
+<li>mail.google.com (5422)</li>
+<li>outlook.office.com (2894)</li>
 <li>www.facebook.com (2440)</li>
 <li>docs.google.com (1780)</li>
-<li>calendar.google.com (1215)</li>
+<li>calendar.google.com (1217)</li>
 <li>www.amazon.co.uk (1124)</li>
-<li>moodle.royalholloway.ac.uk (1069)</li>
+<li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.reddit.com (1059)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (974)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (388)</li>
 <li>web.whatsapp.com (375)</li>
 <li>outlook.office365.com (373)</li>
-<li>login.microsoftonline.com (351)</li>
+<li>login.microsoftonline.com (352)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (292)</li>
 <li>www.giantitp.com (278)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:00 outlook.office.com</li>
+<ul><li> 14:13 calendar.google.com</li>
+<li> 14:12 moodle.royalholloway.ac.uk</li>
+<li> 14:12 login.microsoftonline.com</li>
+<li> 14:12 www.google.com</li>
+<li> 14:12 calendar.google.com</li>
+<li> 14:11 outlook.office.com</li>
+<li> 14:10 mail.google.com</li>
+<li> 14:06 outlook.office.com</li>
+<li class='same'> 14:03 outlook.office.com</li>
+<li class='same'> 14:00 outlook.office.com</li>
 <li class='same'> 13:57 outlook.office.com</li>
 <li> 13:54 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 13:52 outlook.office.com</li>
