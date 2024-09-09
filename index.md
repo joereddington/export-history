@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7570)</li>
-<li>mail.google.com (5420)</li>
-<li>outlook.office.com (2883)</li>
-<li>www.facebook.com (2434)</li>
-<li>docs.google.com (1776)</li>
-<li>calendar.google.com (1213)</li>
+<li>mail.google.com (5421)</li>
+<li>outlook.office.com (2891)</li>
+<li>www.facebook.com (2440)</li>
+<li>docs.google.com (1780)</li>
+<li>calendar.google.com (1215)</li>
 <li>www.amazon.co.uk (1124)</li>
 <li>moodle.royalholloway.ac.uk (1069)</li>
 <li>www.reddit.com (1059)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (387)</li>
+<li>drive.google.com (388)</li>
 <li>web.whatsapp.com (375)</li>
 <li>outlook.office365.com (373)</li>
 <li>login.microsoftonline.com (351)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:57 web.whatsapp.com</li>
+<ul><li> 14:00 outlook.office.com</li>
+<li class='same'> 13:57 outlook.office.com</li>
+<li> 13:54 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 13:52 outlook.office.com</li>
+<li class='same'> 13:49 outlook.office.com</li>
+<li> 13:48 calendar.google.com</li>
+<li> 13:47 outlook.office.com</li>
+<li> 13:47 calendar.google.com</li>
+<li> 13:47 outlook.office.com</li>
+<li class='same'> 13:46 outlook.office.com</li>
+<li> 13:46 docs.google.com</li>
+<li> 13:45 www.facebook.com</li>
+<li class='same'> 13:44 www.facebook.com</li>
+<li class='same'> 13:43 www.facebook.com</li>
+<li class='same'> 13:42 www.facebook.com</li>
+<li> 13:38 www.lutontoday.co.uk</li>
+<li> 13:38 l.facebook.com</li>
+<li> 13:37 www.facebook.com</li>
+<li class='same'> 13:36 www.facebook.com</li>
+<li> 13:35 docs.google.com</li>
+<li class='same'> 13:34 docs.google.com</li>
+<li class='same'> 13:33 docs.google.com</li>
+<li> 13:33 drive.google.com</li>
+<li> 13:32 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:58 mail.google.com</li>
+<li> 12:57 web.whatsapp.com</li>
 <li> 12:57 calendar.google.com</li>
 <li class='same'> 12:56 calendar.google.com</li>
 <li> 12:56 docs.google.com</li>
