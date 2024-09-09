@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (292)</li>
 <li>www.giantitp.com (277)</li>
-<li>Local file (269)</li>
+<li>Local file (270)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:46 Local file</li>
+<ul><li> 10:56 Local file</li>
+<li> 10:56 www.overleaf.com</li>
+<li class='same'> 10:49 www.overleaf.com</li>
+<li> 10:46 Local file</li>
 <li> 10:46 www.overleaf.com</li>
 <li> 10:36 www.google.com</li>
 <li> 10:34 scholar.googleusercontent.com</li>
