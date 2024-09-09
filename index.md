@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7575)</li>
-<li>mail.google.com (5422)</li>
-<li>outlook.office.com (2908)</li>
-<li>www.facebook.com (2440)</li>
+<ol><li>www.google.com (7578)</li>
+<li>mail.google.com (5429)</li>
+<li>outlook.office.com (2922)</li>
+<li>www.facebook.com (2443)</li>
 <li>docs.google.com (1780)</li>
-<li>calendar.google.com (1222)</li>
+<li>calendar.google.com (1226)</li>
 <li>www.amazon.co.uk (1124)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.reddit.com (1060)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (974)</li>
-<li>gmail.com (608)</li>
+<li>gmail.com (609)</li>
 <li>whitewaterwriters.com (606)</li>
 <li>tvtropes.org (587)</li>
 <li>chat.openai.com (584)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (388)</li>
-<li>web.whatsapp.com (375)</li>
+<li>web.whatsapp.com (376)</li>
 <li>outlook.office365.com (374)</li>
 <li>login.microsoftonline.com (353)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,44 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:27 calendar.google.com</li>
+<ul><li> 16:39 outlook.office.com</li>
+<li> 16:20 mail.google.com</li>
+<li class='same'> 16:19 mail.google.com</li>
+<li> 16:19 gmail.com</li>
+<li> 16:19 mail.google.com</li>
+<li> 16:18 www.google.com</li>
+<li> 16:18 www.evri.com</li>
+<li class='same'> 16:17 www.evri.com</li>
+<li class='same'> 16:16 www.evri.com</li>
+<li> 16:16 www.google.com</li>
+<li> 16:11 mail.google.com</li>
+<li> 16:10 calendar.google.com</li>
+<li> 16:10 mail.google.com</li>
+<li> 16:09 outlook.office.com</li>
+<li class='same'> 16:08 outlook.office.com</li>
+<li class='same'> 16:06 outlook.office.com</li>
+<li> 16:05 mail.google.com</li>
+<li> 16:04 www.facebook.com</li>
+<li class='same'> 16:03 www.facebook.com</li>
+<li class='same'> 16:01 www.facebook.com</li>
+<li> 16:01 outlook.office.com</li>
+<li> 15:59 safeguardingdigital.co.uk</li>
+<li> 15:59 www.google.com</li>
+<li> 15:57 calendar.google.com</li>
+<li> 15:57 outlook.office.com</li>
+<li> 15:56 web.whatsapp.com</li>
+<li> 15:56 outlook.office.com</li>
+<li class='same'> 15:55 outlook.office.com</li>
+<li class='same'> 15:54 outlook.office.com</li>
+<li> 15:53 calendar.google.com</li>
+<li> 15:51 outlook.office.com</li>
+<li> 15:50 calendar.google.com</li>
+<li> 15:50 outlook.office.com</li>
+<li> 15:44 mail.google.com</li>
+<li> 15:44 outlook.office.com</li>
+<li class='same'> 15:43 outlook.office.com</li>
+<li class='same'> 15:40 outlook.office.com</li>
+<li> 15:27 calendar.google.com</li>
 <li> 15:23 outlook.office.com</li>
 <li class='same'> 15:19 outlook.office.com</li>
 <li> 15:18 outlook.office365.com</li>
