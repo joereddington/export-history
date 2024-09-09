@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7552)</li>
+<ol><li>www.google.com (7553)</li>
 <li>mail.google.com (5405)</li>
 <li>outlook.office.com (2874)</li>
 <li>www.facebook.com (2433)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (292)</li>
 <li>www.giantitp.com (277)</li>
-<li>Local file (268)</li>
+<li>Local file (269)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:34 scholar.google.com</li>
+<ul><li> 10:46 Local file</li>
+<li> 10:46 www.overleaf.com</li>
+<li> 10:36 www.google.com</li>
+<li> 10:34 scholar.googleusercontent.com</li>
+<li> 10:34 scholar.google.com</li>
 <li> 10:34 go.gale.com</li>
 <li> 10:34 galeapps.gale.com</li>
 <li> 10:34 scholar.google.com</li>
