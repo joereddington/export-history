@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7575)</li>
 <li>mail.google.com (5422)</li>
-<li>outlook.office.com (2904)</li>
+<li>outlook.office.com (2907)</li>
 <li>www.facebook.com (2440)</li>
 <li>docs.google.com (1780)</li>
 <li>calendar.google.com (1221)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (388)</li>
 <li>web.whatsapp.com (375)</li>
-<li>outlook.office365.com (373)</li>
+<li>outlook.office365.com (374)</li>
 <li>login.microsoftonline.com (353)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (293)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:57 www.thedailymash.co.uk</li>
+<ul><li> 15:19 outlook.office.com</li>
+<li> 15:18 outlook.office365.com</li>
+<li> 15:18 outlook.office.com</li>
+<li> 15:18 mail.rhul.ac.uk</li>
+<li> 15:07 outlook.office.com</li>
+<li> 14:57 www.thedailymash.co.uk</li>
 <li> 14:57 www.google.com</li>
 <li> 14:55 www.ljmu.ac.uk</li>
 <li class='same'> 14:54 www.ljmu.ac.uk</li>
