@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7580)</li>
+<ol><li>www.google.com (7582)</li>
 <li>mail.google.com (5429)</li>
 <li>outlook.office.com (2925)</li>
 <li>www.facebook.com (2443)</li>
@@ -81,10 +81,10 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (974)</li>
 <li>gmail.com (609)</li>
 <li>whitewaterwriters.com (606)</li>
-<li>tvtropes.org (587)</li>
+<li>tvtropes.org (588)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (513)</li>
+<li>www.theguardian.com (514)</li>
 <li>www.linkedin.com (477)</li>
 <li>en.m.wikipedia.org (475)</li>
 <li>kdp.amazon.com (420)</li>
@@ -104,11 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 10/09/24</H3>
+
+<br>
+
+<ul><li> 07:36 www.theguardian.com</li>
+<li> 07:36 www.google.com</li>
+</ul>
+
 <H3>Monday, 09/09/24</H3>
 
 <br>
 
-<ul><li> 19:07 www.theguardian.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 22:16 tvtropes.org</li>
+<li> 22:16 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:12 www.google.com</li>
+<li> 19:07 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -13690,7 +13709,6 @@ With number of accesses/minutes in parentheses
 <li> 15:35 www.microsoft365.com</li>
 <li class='same'> 15:34 www.microsoft365.com</li>
 <li> 15:34 login.microsoftonline.com</li>
-<li> 15:34 www.microsoft365.com</li>
 <li> 15:34 outlook.office365.com</li>
 <li> 15:34 mail.rhul.ac.uk</li>
 <li> 15:34 calendar.google.com</li>
@@ -13705,7 +13723,6 @@ With number of accesses/minutes in parentheses
 <li> 15:24 boingboing.net</li>
 <li> 15:24 www.google.com</li>
 <li> 15:23 nintendo.fandom.com</li>
-<li> 15:23 www.google.com</li>
 <li> 15:23 imgur.com</li>
 <li> 15:22 collectorsedition.org</li>
 <li> 15:22 www.google.com</li>
