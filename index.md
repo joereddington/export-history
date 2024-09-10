@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7583)</li>
+<ol><li>www.google.com (7590)</li>
 <li>mail.google.com (5429)</li>
-<li>outlook.office.com (2925)</li>
-<li>www.facebook.com (2443)</li>
+<li>outlook.office.com (2926)</li>
+<li>www.facebook.com (2444)</li>
 <li>docs.google.com (1780)</li>
 <li>calendar.google.com (1226)</li>
 <li>www.amazon.co.uk (1124)</li>
@@ -85,13 +85,13 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.theguardian.com (517)</li>
-<li>www.linkedin.com (477)</li>
-<li>en.m.wikipedia.org (475)</li>
+<li>en.m.wikipedia.org (479)</li>
+<li>www.linkedin.com (478)</li>
 <li>kdp.amazon.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (388)</li>
-<li>web.whatsapp.com (376)</li>
+<li>drive.google.com (389)</li>
+<li>web.whatsapp.com (377)</li>
 <li>outlook.office365.com (374)</li>
 <li>login.microsoftonline.com (353)</li>
 <li>bsky.app (313)</li>
@@ -108,6 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:48 <a href="https://en.wikipedia.org/wiki/University_of_the_Third_Age#Spain">University of the Third Age - Wikipedia</a></li>
+<li> 10:47 <a href="https://en.wikipedia.org/w/index.php?title=University_of_the_Third_Age&action=edit&section=5">Editing University of the Third Age - Wikipedia</a></li>
+<li> 10:45 <a href="https://en.wikipedia.org/wiki/University_of_the_Third_Age">University of the Third Age - Wikipedia</a></li>
+<li> 10:45 www.google.com</li>
+<li> 10:44 <a href="https://en.wikipedia.org/wiki/Jersey_Act#Effects">Jersey Act - Wikipedia</a></li>
+<li> 10:43 en.m.wikipedia.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:06 en.m.wikipedia.org</li>
+<li> 10:06 www.google.com</li>
+<li> 10:03 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+</ul>
+
+<br>
+
 <ul><li> 08:03 www.cosmopolitan.com</li>
 <li> 08:03 www.google.com</li>
 <li> 07:42 shop.reductress.com</li>
@@ -117,6 +134,47 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:38 www.theguardian.com</li>
 <li class='same'> 07:36 www.theguardian.com</li>
 <li> 07:36 www.google.com</li>
+<li> 07:29 www.facebook.com</li>
+<li> 07:27 web.whatsapp.com</li>
+<li> 07:26 www.linkedin.com</li>
+<li> 07:25 www.google.com</li>
+<li> 07:23 drive.google.com</li>
+<li> 07:22 www.watfordobserver.co.uk</li>
+<li> 07:22 www.google.com</li>
+<li class='same'> 07:21 www.google.com</li>
+<li> 07:21 www.bbc.com</li>
+<li> 07:21 <a href="https://www.bbc.co.uk/news/articles/cl5yv23pw13o">Luton: Tortoise and hare sculptures take over the town - BBC News</a></li>
+<li> 07:21 www.google.com</li>
+<li class='same'> 07:20 www.google.com</li>
+<li> 07:20 <a href="https://en.wikipedia.org/wiki/Keech_Hospice_Care">Keech Hospice Care - Wikipedia</a></li>
+<li> 07:20 en.m.wikipedia.org</li>
+<li class='same'> 07:19 en.m.wikipedia.org</li>
+<li> 07:19 <a href="https://en.wikipedia.org/wiki/Barnfield_College?venotify=saved">Barnfield College - Wikipedia</a></li>
+<li> 07:19 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
+<li> 07:19 <a href="https://en.wikipedia.org/w/index.php?title=Barnfield_College&action=edit">Barnfield College - Wikipedia</a></li>
+<li> 07:16 <a href="https://en.wikipedia.org/wiki/Marilyn_Monroe">Marilyn Monroe - Wikipedia</a></li>
+<li> 07:16 <a href="https://en.wikipedia.org/wiki/Template:POTD/2024-09-09">Template:POTD/2024-09-09 - Wikipedia</a></li>
+<li> 07:16 <a href="https://en.wikipedia.org/wiki/Kerala">Kerala - Wikipedia</a></li>
+<li> 07:16 <a href="https://en.wikipedia.org/wiki/Tirumala_septentrionis">Tirumala septentrionis - Wikipedia</a></li>
+<li> 07:16 <a href="https://en.wikipedia.org/wiki/Main_Page#/media/File:Portland_Vase_BM_Gem4036_n4.jpg">Wikipedia, the free encyclopedia</a></li>
+<li> 07:16 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:16 www.wikipedia.org</li>
+<li> 07:15 <a href="https://en.wikipedia.org/w/index.php?title=Barnfield_College&oldid=1232623981&action=edit">Editing Barnfield College - Wikipedia</a></li>
+<li> 07:15 <a href="https://en.wikipedia.org/w/index.php?title=Barnfield_College&action=edit">Barnfield College - Wikipedia</a></li>
+<li> 07:15 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
+<li> 07:11 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&diff=1226519653&oldid=1226283219">Yahoo data breaches: Difference between revisions - Wikipedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Vortex3427">User contributions for Vortex3427 - Wikipedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/wiki/User:Vortex3427">User:Vortex3427 - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&diff=1242874312&oldid=1226283219">Yahoo data breaches: Difference between revisions - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo_data_breaches">Talk:Yahoo data breaches - Wikipedia</a></li>
+<li> 07:07 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&action=history">Yahoo data breaches: Revision history - Wikipedia</a></li>
+<li> 07:07 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 07:07 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 07:07 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 07:07 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 07:07 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:06 outlook.office.com</li>
 </ul>
 
 <H3>Monday, 09/09/24</H3>
@@ -11406,7 +11464,7 @@ With number of accesses/minutes in parentheses
 <li> 07:56 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
 <li> 07:52 claude.ai</li>
 <li class='same'> 07:51 claude.ai</li>
-<li> 07:50 <a href="https://en.wikipedia.org/w/index.php?title=Barnfield_College&action=edit">Editing Barnfield College - Wikipedia</a></li>
+<li> 07:50 <a href="https://en.wikipedia.org/w/index.php?title=Barnfield_College&action=edit">Barnfield College - Wikipedia</a></li>
 <li> 07:49 files.ofsted.gov.uk</li>
 <li> 07:48 reports.ofsted.gov.uk</li>
 <li> 07:48 www.barnfield.ac.uk</li>
@@ -16010,7 +16068,7 @@ With number of accesses/minutes in parentheses
 <li> 06:35 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 06:35 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 06:35 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 06:35 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 06:35 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 06:34 www.facebook.com</li>
 <li> 06:34 mail.google.com</li>
 <li> 06:34 www.windsorgreatpark.co.uk</li>
@@ -16118,7 +16176,7 @@ With number of accesses/minutes in parentheses
 <li> 16:10 mail.google.com</li>
 <li> 16:10 www.gmail.com</li>
 <li> 16:10 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
-<li> 16:09 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 16:09 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 16:09 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 16:09 www.facebook.com</li>
 <li> 16:08 outlook.office.com</li>
@@ -16890,13 +16948,13 @@ With number of accesses/minutes in parentheses
 <li> 05:40 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#August_2013:_breach">Yahoo! data breaches - Wikipedia</a></li>
 <li> 05:40 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=1">Yahoo! data breaches - Wikipedia</a></li>
 <li> 05:40 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
-<li> 05:40 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 05:40 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 05:40 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
-<li> 05:40 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 05:40 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 05:39 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
 <li> 05:39 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo! data breaches/GA2 - Wikipedia</a></li>
 <li> 05:38 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
-<li> 05:38 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 05:38 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 05:36 <a href="https://joereddington.com/2019/08/18/comics.html">I wrote 98 comics | Joe Reddington</a></li>
 <li> 05:36 <a href="https://joereddington.com/2023/05/16/donations.html">Donations | Joe Reddington</a></li>
 <li> 05:34 www.theguardian.com</li>
@@ -17141,7 +17199,7 @@ With number of accesses/minutes in parentheses
 <li> 14:20 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#Class_action_lawsuits">Yahoo! data breaches - Wikipedia</a></li>
 <li> 14:20 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=9">Yahoo! data breaches - Wikipedia</a></li>
 <li> 14:20 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=history">Yahoo! data breaches: Revision history - Wikipedia</a></li>
-<li> 14:20 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 14:20 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 14:18 arstechnica.com</li>
 <li class='same'> 14:17 arstechnica.com</li>
 <li> 14:17 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=9">Yahoo! data breaches - Wikipedia</a></li>
@@ -17166,7 +17224,7 @@ With number of accesses/minutes in parentheses
 <li> 14:10 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=4">Editing Yahoo! data breaches - Wikipedia</a></li>
 <li> 14:08 www.businesswire.com</li>
 <li> 14:08 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Yahoo!_data_breaches/GA2&action=edit&section=3">Editing Talk:Yahoo! data breaches/GA2 (section) - Wikipedia</a></li>
-<li> 14:08 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 14:08 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 14:08 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo! data breaches/GA2 - Wikipedia</a></li>
 <li> 14:08 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 14:07 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
@@ -17310,14 +17368,14 @@ With number of accesses/minutes in parentheses
 <li> 06:45 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#Prosecution">Yahoo! data breaches - Wikipedia</a></li>
 <li> 06:43 www.cbc.ca</li>
 <li> 06:43 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=5">Editing Yahoo! data breaches - Wikipedia</a></li>
-<li> 06:43 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 06:43 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 06:43 www.cbc.ca</li>
 <li> 06:42 www.google.com</li>
 <li> 06:42 globalnews.ca</li>
 <li> 06:42 www.independent.co.uk</li>
 <li> 06:41 www.google.com</li>
 <li> 06:41 www.engadget.com</li>
-<li> 06:40 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/wiki/British_Airways#cite_ref-224">British Airways - Wikipedia</a></li>
@@ -17338,7 +17396,7 @@ With number of accesses/minutes in parentheses
 <li> 06:27 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo! data breaches/GA2 - Wikipedia</a></li>
 <li> 06:25 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 06:25 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=history">Yahoo! data breaches: Revision history - Wikipedia</a></li>
-<li> 06:25 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 06:25 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 06:25 <a href="https://en.wikipedia.org/w/index.php?title=2011_PlayStation_Network_outage&diff=1225128753&oldid=1221360776">2011 PlayStation Network outage: Difference between revisions - Wikipedia</a></li>
 <li> 06:24 <a href="https://en.wikipedia.org/w/index.php?title=2011_PlayStation_Network_outage&action=history">2011 PlayStation Network outage: Revision history - Wikipedia</a></li>
 <li> 06:24 <a href="https://en.wikipedia.org/wiki/2011_PlayStation_Network_outage">2011 PlayStation Network outage - Wikipedia</a></li>
@@ -19611,7 +19669,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:39 docs.google.com</li>
 <li class='same'> 09:37 docs.google.com</li>
 <li> 09:37 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
-<li> 09:37 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 09:37 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 09:37 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 09:37 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 09:37 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -21663,7 +21721,7 @@ With number of accesses/minutes in parentheses
 <li> 11:58 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=5">Editing Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:56 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Currencies">Wikipedia:Manual of Style/Dates and numbers - Wikipedia</a></li>
 <li> 11:56 <a href="https://en.wikipedia.org/wiki/MOS:$">Wikipedia:Manual of Style/Dates and numbers - Wikipedia</a></li>
-<li> 11:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 11:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 11:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches?venotify=saved">Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:56 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo%21_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:53 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Dates,_months,_and_years">Wikipedia:Manual of Style/Dates and numbers - Wikipedia</a></li>
@@ -21673,7 +21731,7 @@ With number of accesses/minutes in parentheses
 <li> 11:52 <a href="https://en.wikipedia.org/wiki/MOS:DATECOMMA">Wikipedia:Manual of Style - Wikipedia</a></li>
 <li> 11:52 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#August_2013%3A_Breach">Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:51 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=1">Yahoo! data breaches - Wikipedia</a></li>
-<li> 11:51 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 11:51 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 11:51 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches?action=edit&section=5&veswitched=1">Editing Yahoo! data breaches (section) - Wikipedia</a></li>
 <li> 11:51 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=5">Editing Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:51 <a href="https://en.wikipedia.org/wiki/Wikipedia:Image_use_policy#Displayed_image_size">Wikipedia:Image use policy - Wikipedia</a></li>
@@ -21693,7 +21751,7 @@ With number of accesses/minutes in parentheses
 <li> 11:41 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=1">Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:41 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=3">Yahoo! data breaches - Wikipedia</a></li>
 <li class='same'> 11:40 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=3">Yahoo! data breaches - Wikipedia</a></li>
-<li> 11:39 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 11:39 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 11:38 <a href="https://en.wikipedia.org/wiki/Help:Page_history">Help:Page history - Wikipedia</a></li>
 <li> 11:38 www.google.com</li>
 <li> 11:37 <a href="https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content">Wikipedia:Reusing Wikipedia content - Wikipedia</a></li>
@@ -21704,16 +21762,16 @@ With number of accesses/minutes in parentheses
 <li> 11:35 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#August_2013_breach">Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:34 aulawreview.org</li>
 <li> 11:34 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=1">Yahoo! data breaches - Wikipedia</a></li>
-<li> 11:33 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 11:33 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 11:32 papers.ssrn.com</li>
 <li> 11:32 www.google.com</li>
 <li> 11:29 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
-<li> 11:28 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 11:28 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 11:27 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:25 aulawreview.org</li>
 <li> 11:25 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:25 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#Prosecution">Yahoo! data breaches - Wikipedia</a></li>
-<li> 11:22 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 11:22 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 11:22 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 11:22 <a href="https://en.wikipedia.org/wiki/2011_PlayStation_Network_outage">2011 PlayStation Network outage - Wikipedia</a></li>
 <li> 11:22 chat.openai.com</li>
@@ -21882,12 +21940,12 @@ With number of accesses/minutes in parentheses
 <li> 22:13 <a href="https://en.wikipedia.org/wiki/Josh_Brolin">Josh Brolin - Wikipedia</a></li>
 <li> 22:13 <a href="https://en.wikipedia.org/wiki/James_Brolin">James Brolin - Wikipedia</a></li>
 <li> 22:13 www.google.com</li>
-<li> 22:12 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 22:12 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 22:12 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Date_commas">Wikipedia:Manual of Style - Wikipedia</a></li>
 <li> 22:12 <a href="https://en.wikipedia.org/wiki/MOS:DATECOMMA">Wikipedia:Manual of Style - Wikipedia</a></li>
 <li> 22:11 aulawreview.org</li>
 <li> 22:10 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
-<li> 22:10 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 22:10 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 22:09 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
 <li> 22:09 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 22:09 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -22056,7 +22114,7 @@ With number of accesses/minutes in parentheses
 <li> 20:09 <a href="https://en.wikipedia.org/wiki/Igor_Sechin">Igor Sechin - Wikipedia</a></li>
 <li> 20:09 www.justice.gov</li>
 <li> 20:08 www.nytimes.com</li>
-<li> 20:07 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 20:07 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 20:07 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 20:07 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#Prosecution">Yahoo! data breaches - Wikipedia</a></li>
 <li> 20:06 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=4">Editing Yahoo! data breaches - Wikipedia</a></li>
@@ -22064,7 +22122,7 @@ With number of accesses/minutes in parentheses
 <li> 20:05 <a href="https://en.wikipedia.org/w/index.php?title=Marissa_Mayer&action=edit&section=7">Editing Marissa Mayer (section) - Wikipedia</a></li>
 <li> 20:05 <a href="https://en.wikipedia.org/wiki/Marissa_Mayer">Marissa Mayer - Wikipedia</a></li>
 <li> 19:56 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=1">Yahoo! data breaches - Wikipedia</a></li>
-<li> 19:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 19:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 19:56 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 19:56 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 19:44 www.foxnews.com</li>
@@ -22081,7 +22139,7 @@ With number of accesses/minutes in parentheses
 <li> 18:49 <a href="https://en.wikipedia.org/wiki/Marissa_Mayer?action=edit&section=7&veswitched=1">Editing Marissa Mayer (section) - Wikipedia</a></li>
 <li> 18:48 <a href="https://en.wikipedia.org/w/index.php?title=Marissa_Mayer&action=edit&section=7">Editing Marissa Mayer (section) - Wikipedia</a></li>
 <li> 18:48 <a href="https://en.wikipedia.org/wiki/Marissa_Mayer">Marissa Mayer - Wikipedia</a></li>
-<li> 18:48 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 18:48 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 18:48 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 18:48 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li class='same'> 18:36 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
@@ -22255,7 +22313,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:27 outlook.office.com</li>
 <li class='same'> 11:26 outlook.office.com</li>
 <li class='same'> 11:24 outlook.office.com</li>
-<li> 11:24 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 11:24 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 11:24 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 11:24 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 11:24 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
@@ -22863,7 +22921,7 @@ With number of accesses/minutes in parentheses
 <li> 08:27 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 08:27 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action">No such action - Wikipedia</a></li>
 <li> 08:26 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=1">Yahoo! data breaches - Wikipedia</a></li>
-<li> 08:26 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 08:26 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 08:26 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 08:26 <a href="https://en.wikipedia.org/wiki/Igor_Sechin">Igor Sechin - Wikipedia</a></li>
 <li> 08:26 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo! data breaches/GA2 - Wikipedia</a></li>
@@ -23093,7 +23151,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:12 commons.wikimedia.org</li>
 <li> 07:12 www.google.com</li>
 <li> 07:10 <a href="https://en.wikipedia.org/wiki/Marissa_Mayer">Marissa Mayer - Wikipedia</a></li>
-<li> 07:09 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 07:09 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 07:09 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 07:07 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
@@ -23387,7 +23445,7 @@ With number of accesses/minutes in parentheses
 <li> 13:26 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 13:26 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 13:24 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=history">Yahoo! data breaches: Revision history - Wikipedia</a></li>
-<li> 13:24 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 13:24 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 13:24 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 13:24 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#August_2013_breach">Yahoo! data breaches - Wikipedia</a></li>
 <li> 13:23 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
@@ -23708,13 +23766,13 @@ With number of accesses/minutes in parentheses
 <li> 21:03 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 21:03 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 21:03 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 21:03 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 21:03 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 20:58 <a href="https://en.wikipedia.org/wiki/Help:CS1_errors#periodical_ignored">Help:CS1 errors - Wikipedia</a></li>
 <li> 20:57 www.amazon.co.uk</li>
-<li> 20:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 20:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 20:56 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=4">Editing Yahoo! data breaches - Wikipedia</a></li>
 <li> 20:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#cite_ref-25">Yahoo! data breaches - Wikipedia</a></li>
-<li> 20:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 20:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 20:55 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 <li> 20:54 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 20:54 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo%21_data_breaches&diff=1220587982&oldid=1220586244">Yahoo! data breaches: Difference between revisions - Wikipedia</a></li>
@@ -23798,14 +23856,14 @@ With number of accesses/minutes in parentheses
 <li> 19:14 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#Late_2014_breach">Yahoo! data breaches - Wikipedia</a></li>
 <li> 19:13 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=2">Yahoo! data breaches - Wikipedia</a></li>
 <li> 19:12 www.justice.gov</li>
-<li> 19:12 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 19:12 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 19:11 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo%21_data_breaches&diff=1220300901&oldid=1220255440">Yahoo! data breaches: Difference between revisions - Wikipedia</a></li>
 <li> 19:11 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=history">Yahoo! data breaches: Revision history - Wikipedia</a></li>
 <li> 19:10 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Yahoo!_data_breaches/GA2&action=edit">Editing Talk:Yahoo! data breaches/GA2 - Wikipedia</a></li>
-<li> 19:10 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 19:10 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 19:09 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
 <li> 19:09 www.google.com</li>
-<li> 19:09 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 19:09 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 19:09 <a href="https://en.wikipedia.org/w/index.php?search=Yahoo%21+data+breaches&title=Special:Search&ns0=1"></a></li>
 <li> 19:09 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 19:09 <a href="https://en.wikipedia.org/"></a></li>
@@ -24184,7 +24242,7 @@ With number of accesses/minutes in parentheses
 <li> 13:03 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo! data breaches/GA2 - Wikipedia</a></li>
 <li> 13:00 <a href="https://en.wikipedia.org/wiki/User_talk:Schierbecker">User talk:Schierbecker - Wikipedia</a></li>
 <li> 13:00 <a href="https://en.wikipedia.org/wiki/User:Schierbecker">User:Schierbecker - Wikipedia</a></li>
-<li> 12:58 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 12:58 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 12:58 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 12:58 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo! data breaches/GA2 - Wikipedia</a></li>
 <li> 12:58 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
@@ -24355,7 +24413,7 @@ With number of accesses/minutes in parentheses
 <li> 15:42 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Yahoo!_data_breaches&action=history">Talk:Yahoo! data breaches: Revision history - Wikipedia</a></li>
 <li> 15:41 <a href="https://en.wikipedia.org/wiki/Special:Contributions/80.11.190.13">User contributions for 80.11.190.13 - Wikipedia</a></li>
 <li> 15:41 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
-<li> 15:41 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 15:41 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 15:41 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Yahoo!_data_breaches&diff=prev&oldid=1220176630">Talk:Yahoo! data breaches: Difference between revisions - Wikipedia</a></li>
 <li> 15:41 <a href="https://en.wikipedia.org/w/index.php?title=Talk%3AYahoo%21_data_breaches&diff=1220176738&oldid=1220176630">Talk:Yahoo! data breaches: Difference between revisions - Wikipedia</a></li>
 <li> 15:40 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Yahoo!_data_breaches&action=history">Talk:Yahoo! data breaches: Revision history - Wikipedia</a></li>
@@ -26109,7 +26167,7 @@ With number of accesses/minutes in parentheses
 <li> 20:38 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach/GA1">Talk:Data breach/GA1 - Wikipedia</a></li>
 <li> 20:38 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
 <li> 20:38 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
-<li> 20:38 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 20:38 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 20:37 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 20:37 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
 <li> 20:37 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
@@ -28542,7 +28600,7 @@ With number of accesses/minutes in parentheses
 <li> 21:09 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 21:09 tvtropes.org</li>
 <li class='same'> 21:08 tvtropes.org</li>
-<li> 21:06 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 21:06 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 21:06 tvtropes.org</li>
 <li class='same'> 21:05 tvtropes.org</li>
 <li> 21:05 www.google.com</li>
@@ -28645,11 +28703,11 @@ With number of accesses/minutes in parentheses
 <li> 07:32 <a href="https://en.wikipedia.org/w/index.php?title=Talk%3AYahoo%21_data_breaches&diff=1215801170&oldid=1209391486">Talk:Yahoo! data breaches: Difference between revisions - Wikipedia</a></li>
 <li> 07:32 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Yahoo!_data_breaches&action=history">Talk:Yahoo! data breaches: Revision history - Wikipedia</a></li>
 <li> 07:32 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Yahoo!_data_breaches&action=edit">Editing Talk:Yahoo! data breaches - Wikipedia</a></li>
-<li> 07:31 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 07:31 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 07:31 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
 <li> 07:30 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&oldid=1198973178">Yahoo! data breaches - Wikipedia</a></li>
 <li> 07:30 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=history">Yahoo! data breaches: Revision history - Wikipedia</a></li>
-<li> 07:30 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 07:30 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 07:30 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 07:29 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Guild_of_Copy_Editors">Wikipedia:WikiProject Guild of Copy Editors - Wikipedia</a></li>
 <li> 07:29 <a href="https://en.wikipedia.org/wiki/Wikipedia:GOCE">Wikipedia:WikiProject Guild of Copy Editors - Wikipedia</a></li>
@@ -28663,7 +28721,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:25 www.google.com</li>
 <li> 07:25 www.nytimes.com</li>
 <li> 07:25 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=3">Yahoo! data breaches - Wikipedia</a></li>
-<li> 07:25 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 07:25 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 07:25 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo%21_data_breaches&diff=1216829686&oldid=1215966239">Yahoo! data breaches: Difference between revisions - Wikipedia</a></li>
 <li> 07:24 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=history">Yahoo! data breaches: Revision history - Wikipedia</a></li>
 <li> 07:23 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions#cite_ref-1">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
@@ -28699,9 +28757,9 @@ With number of accesses/minutes in parentheses
 <li> 06:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:PROSELINE">Wikipedia:Proseline - Wikipedia</a></li>
 <li> 06:49 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=2">Yahoo! data breaches - Wikipedia</a></li>
 <li> 06:49 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
-<li> 06:49 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 06:43 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
-<li> 06:41 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 06:41 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#References">Yahoo! data breaches - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=12">Editing Yahoo! data breaches - Wikipedia</a></li>
@@ -28770,11 +28828,11 @@ With number of accesses/minutes in parentheses
 <li> 18:51 www.google.com</li>
 <li> 18:50 <a href="https://xkcd.com/810/">xkcd: Constructive</a></li>
 <li> 18:22 chat.openai.com</li>
-<li> 18:21 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 18:21 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 18:21 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=history">Yahoo! data breaches: Revision history - Wikipedia</a></li>
-<li> 18:21 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 18:21 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 18:21 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
-<li> 18:21 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 18:21 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 18:21 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 18:21 <a href="https://en.wikipedia.org/wiki/Special:Watchlist?hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 18:21 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -28890,7 +28948,7 @@ With number of accesses/minutes in parentheses
 <li> 19:33 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_articles/Art_and_architecture#Art">Wikipedia:Good articles/Art and architecture - Wikipedia</a></li>
 <li> 19:33 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_articles">Wikipedia:Good articles - Wikipedia</a></li>
 <li> 19:33 <a href="https://en.wikipedia.org/w/index.php?search=Wikipedia%3AGood+articles&title=Special:Search&ns0=1"></a></li>
-<li> 19:31 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 19:31 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 19:31 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 19:30 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA1">Talk:Yahoo! data breaches/GA1 - Wikipedia</a></li>
 <li> 19:30 <a href="https://en.wikipedia.org/wiki/Special:Watchlist?hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&urlversion=2">Watchlist - Wikipedia</a></li>
@@ -28984,16 +29042,16 @@ With number of accesses/minutes in parentheses
 <li> 12:36 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 12:36 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-Sohom_Datta-20240331070300-Your_GA_nomination_of_Yahoo!_data_breaches">User talk:Joereddington - Wikipedia</a></li>
 <li> 12:36 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=310085537&markasreadwiki=enwiki#c-Sohom_Datta-20240331070300-Your_GA_nomination_of_Yahoo!_data_breaches">User talk:Joereddington - Wikipedia</a></li>
-<li> 12:35 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 12:35 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 12:34 chat.openai.com</li>
 <li> 12:33 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
 <li> 12:33 chat.openai.com</li>
-<li> 12:30 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 12:30 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 12:28 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
-<li> 12:28 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 12:28 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 12:27 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
 <li> 12:26 chat.openai.com</li>
-<li> 12:26 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 12:26 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 12:26 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 12:25 <a href="https://en.wikipedia.org/wiki/Special:Watchlist?hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 12:25 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -29136,7 +29194,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:19 <a href="https://en.wikipedia.org/wiki/History_of_Yahoo!">History of Yahoo! - Wikipedia</a></li>
 <li> 08:19 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/Yahoo!_data_breaches">Pages that link to "Yahoo! data breaches" - Wikipedia</a></li>
-<li> 08:18 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 08:18 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 08:17 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 08:17 <a href="https://en.wikipedia.org/wiki/Special:Watchlist?hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 08:17 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -29469,7 +29527,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:36 outlook.office.com</li>
 <li class='same'> 12:34 outlook.office.com</li>
 <li> 12:31 <a href="https://en.wikipedia.org/wiki/2012_Yahoo!_Voices_hack">2012 Yahoo! Voices hack - Wikipedia</a></li>
-<li> 12:31 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 12:31 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 12:30 <a href="https://en.wikipedia.org/w/index.php?title=2014_Sony_Pictures_hack&action=history">2014 Sony Pictures hack: Revision history - Wikipedia</a></li>
 <li> 12:30 <a href="https://en.wikipedia.org/wiki/Sony_hack">Sony hack - Wikipedia</a></li>
 <li> 12:30 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
@@ -29606,16 +29664,16 @@ With number of accesses/minutes in parentheses
 <li> 06:20 mail.rhul.ac.uk</li>
 <li> 06:20 mail.google.com</li>
 <li> 06:19 tvtropes.org</li>
-<li> 06:19 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 06:19 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 06:19 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
-<li> 06:19 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 06:19 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 06:11 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
-<li> 06:11 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 06:11 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 06:11 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 06:11 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
 <li> 06:11 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo%21_data_breaches&diff=1215899124&oldid=1215734054">Yahoo! data breaches: Difference between revisions - Wikipedia</a></li>
 <li> 06:11 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&curid=51708172&action=history">Yahoo! data breaches: Revision history - Wikipedia</a></li>
-<li> 06:11 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 06:11 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 06:10 <a href="https://en.wikipedia.org/wiki/Special:Watchlist?hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 06:10 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 06:10 login.wikimedia.org</li>
@@ -30061,7 +30119,7 @@ With number of accesses/minutes in parentheses
 <li> 05:46 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
 <li> 05:44 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
 <li> 05:44 www.google.com</li>
-<li> 05:44 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 05:44 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 05:44 <a href="https://en.wikipedia.org/wiki/Special:Watchlist?hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 05:44 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 05:43 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
@@ -30179,7 +30237,7 @@ With number of accesses/minutes in parentheses
 <li> 19:36 www.cnbc.com</li>
 <li> 19:36 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=4">Editing Yahoo! data breaches - Wikipedia</a></li>
 <li> 19:35 fortune.com</li>
-<li> 19:34 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 19:34 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 19:34 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches?venotify=saved">Yahoo! data breaches - Wikipedia</a></li>
 <li> 19:34 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo%21_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
 <li> 19:34 www.myinfoarmor.com</li>
@@ -30270,7 +30328,7 @@ With number of accesses/minutes in parentheses
 <li> 15:44 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#August_2013_breach">Yahoo! data breaches - Wikipedia</a></li>
 <li> 15:42 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=1">Yahoo! data breaches - Wikipedia</a></li>
 <li> 15:42 www.google.com</li>
-<li> 15:41 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 15:41 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 15:38 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=1">Yahoo! data breaches - Wikipedia</a></li>
 <li> 15:38 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#See_also">Yahoo! data breaches - Wikipedia</a></li>
 <li> 15:38 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=13">Editing Yahoo! data breaches (section) - Wikipedia</a></li>
@@ -30305,7 +30363,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:24 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=history">Yahoo! data breaches: Revision history - Wikipedia</a></li>
 <li> 14:22 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 14:21 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches?wprov=srpw1_3">Yahoo! data breaches - Wikipedia</a></li>
-<li> 14:21 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo! data breaches - Wikipedia</a></li>
+<li> 14:21 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 14:21 <a href="https://en.wikipedia.org/w/index.php?search=yahoo+2014&title=Special:Search&ns0=1&searchToken=29vbbqzdm2r19xyqs966ep2m6">yahoo 2014 - Search results - Wikipedia</a></li>
 <li> 14:21 <a href="https://en.wikipedia.org/w/index.php?search=yahoo+2014&title=Special%3ASearch&ns0=1">yahoo 2014 - Search results - Wikipedia</a></li>
 <li> 14:14 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach#Background">2017 Equifax data breach - Wikipedia</a></li>
