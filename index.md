@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7593)</li>
+<ol><li>www.google.com (7594)</li>
 <li>mail.google.com (5429)</li>
 <li>outlook.office.com (2926)</li>
 <li>www.facebook.com (2444)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (588)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (517)</li>
+<li>www.theguardian.com (521)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>www.linkedin.com (478)</li>
 <li>kdp.amazon.com (420)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:39 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<ul><li> 12:36 www.google.com</li>
+<li> 12:26 www.theguardian.com</li>
+<li class='same'> 12:24 www.theguardian.com</li>
+<li class='same'> 12:23 www.theguardian.com</li>
+<li class='same'> 12:22 www.theguardian.com</li>
+<li> 12:22 www.cosmopolitan.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:41 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&action=edit&undoafter=1226283219&undo=1226519653">Editing Yahoo data breaches - Wikipedia</a></li>
+<li> 11:41 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&diff=1226519653&oldid=1226283219">Yahoo data breaches: Difference between revisions - Wikipedia</a></li>
+<li> 11:40 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&action=history">Yahoo data breaches: Revision history - Wikipedia</a></li>
+<li> 11:40 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 11:40 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 11:40 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 11:40 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 11:39 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 11:39 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 11:39 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 11:38 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
