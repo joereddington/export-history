@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7582)</li>
+<ol><li>www.google.com (7583)</li>
 <li>mail.google.com (5429)</li>
 <li>outlook.office.com (2925)</li>
 <li>www.facebook.com (2443)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (588)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (514)</li>
+<li>www.theguardian.com (517)</li>
 <li>www.linkedin.com (477)</li>
 <li>en.m.wikipedia.org (475)</li>
 <li>kdp.amazon.com (420)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:36 www.theguardian.com</li>
+<ul><li> 08:03 www.cosmopolitan.com</li>
+<li> 08:03 www.google.com</li>
+<li> 07:42 shop.reductress.com</li>
+<li> 07:41 reductress.com</li>
+<li> 07:40 www.theguardian.com</li>
+<li class='same'> 07:39 www.theguardian.com</li>
+<li class='same'> 07:38 www.theguardian.com</li>
+<li class='same'> 07:36 www.theguardian.com</li>
 <li> 07:36 www.google.com</li>
 </ul>
 
