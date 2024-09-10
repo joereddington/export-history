@@ -79,9 +79,9 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1060)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (974)</li>
+<li>tvtropes.org (611)</li>
 <li>gmail.com (609)</li>
 <li>whitewaterwriters.com (606)</li>
-<li>tvtropes.org (593)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.theguardian.com (523)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:30 tvtropes.org</li>
+<ul><li> 21:39 tvtropes.org</li>
+<li class='same'> 21:32 tvtropes.org</li>
+<li class='same'> 21:31 tvtropes.org</li>
+<li class='same'> 21:30 tvtropes.org</li>
+<li class='same'> 21:28 tvtropes.org</li>
+<li class='same'> 21:27 tvtropes.org</li>
+<li class='same'> 21:24 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:49 tvtropes.org</li>
+<li class='same'> 19:48 tvtropes.org</li>
+<li class='same'> 19:47 tvtropes.org</li>
+<li class='same'> 19:44 tvtropes.org</li>
+<li class='same'> 19:43 tvtropes.org</li>
+<li class='same'> 19:42 tvtropes.org</li>
+<li class='same'> 19:41 tvtropes.org</li>
+<li class='same'> 19:40 tvtropes.org</li>
+<li class='same'> 19:39 tvtropes.org</li>
+<li class='same'> 19:38 tvtropes.org</li>
+<li class='same'> 19:36 tvtropes.org</li>
+<li class='same'> 19:30 tvtropes.org</li>
 <li class='same'> 19:29 tvtropes.org</li>
 <li class='same'> 19:28 tvtropes.org</li>
 <li class='same'> 19:26 tvtropes.org</li>
