@@ -69,22 +69,22 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7615)</li>
-<li>mail.google.com (5438)</li>
-<li>outlook.office.com (2933)</li>
+<li>mail.google.com (5441)</li>
+<li>outlook.office.com (2938)</li>
 <li>www.facebook.com (2450)</li>
 <li>docs.google.com (1781)</li>
 <li>calendar.google.com (1229)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
-<li>www.reddit.com (1061)</li>
+<li>www.reddit.com (1064)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (974)</li>
 <li>tvtropes.org (616)</li>
-<li>gmail.com (613)</li>
+<li>gmail.com (614)</li>
 <li>whitewaterwriters.com (606)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (528)</li>
+<li>www.theguardian.com (529)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>www.linkedin.com (480)</li>
 <li>kdp.amazon.com (421)</li>
@@ -92,8 +92,8 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (389)</li>
 <li>web.whatsapp.com (379)</li>
-<li>outlook.office365.com (374)</li>
-<li>login.microsoftonline.com (354)</li>
+<li>outlook.office365.com (375)</li>
+<li>login.microsoftonline.com (355)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (293)</li>
 <li>www.giantitp.com (279)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:09 penaltynotice.homeoffice.gov.uk</li>
+<ul><li> 15:19 mail.google.com</li>
+<li> 15:19 www.reddit.com</li>
+<li class='same'> 15:16 www.reddit.com</li>
+<li class='same'> 15:15 www.reddit.com</li>
+<li> 15:15 mail.google.com</li>
+<li> 15:15 outlook.office.com</li>
+<li class='same'> 15:14 outlook.office.com</li>
+<li class='same'> 15:13 outlook.office.com</li>
+<li class='same'> 15:12 outlook.office.com</li>
+<li> 15:12 outlook.office365.com</li>
+<li> 15:12 outlook.office.com</li>
+<li> 15:12 login.microsoftonline.com</li>
+<li> 15:12 mail.rhul.ac.uk</li>
+<li> 15:11 www.foxnews.com</li>
+<li> 15:11 mail.google.com</li>
+<li> 15:11 gmail.com</li>
+<li> 15:11 penaltynotice.homeoffice.gov.uk</li>
+<li> 15:11 www.theguardian.com</li>
+<li> 15:10 penaltynotice.homeoffice.gov.uk</li>
+<li> 15:10 methodurl.psp-solutions.com</li>
+<li> 15:10 penaltynotice.homeoffice.gov.uk</li>
+<li class='same'> 15:09 penaltynotice.homeoffice.gov.uk</li>
 <li> 15:09 penaltynotice.direct.gov.uk</li>
 <li> 15:09 www.google.com</li>
 <li> 15:09 panaltynotice.direct.gov.uk</li>
