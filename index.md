@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7605)</li>
+<ol><li>www.google.com (7613)</li>
 <li>mail.google.com (5437)</li>
 <li>outlook.office.com (2933)</li>
 <li>www.facebook.com (2450)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1229)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
-<li>www.reddit.com (1060)</li>
+<li>www.reddit.com (1061)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (974)</li>
 <li>tvtropes.org (616)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (606)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (526)</li>
+<li>www.theguardian.com (528)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>www.linkedin.com (480)</li>
 <li>kdp.amazon.com (421)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:48 www.gov.uk</li>
+<ul><li> 08:15 www.theguardian.com</li>
+<li class='same'> 08:14 www.theguardian.com</li>
+<li> 08:00 www.timeanddate.com</li>
+<li> 08:00 www.google.com</li>
+<li> 07:48 www.gov.uk</li>
 <li> 07:48 www.accessiblemetrics.com</li>
 <li> 07:47 www.w3.org</li>
 <li class='same'> 07:46 www.w3.org</li>
@@ -237,7 +241,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:27 www.theguardian.com</li>
+<ul><li> 15:49 www.mdpi.com</li>
+<li class='same'> 15:48 www.mdpi.com</li>
+<li> 15:48 scholar.google.com</li>
+<li class='same'> 15:47 scholar.google.com</li>
+<li class='same'> 15:46 scholar.google.com</li>
+<li> 15:46 www.google.com</li>
+<li class='same'> 15:45 www.google.com</li>
+<li> 15:45 provizsports.com</li>
+<li class='same'> 15:44 provizsports.com</li>
+<li> 15:44 www.google.com</li>
+<li> 15:44 www.freerangekids.com</li>
+<li> 15:43 www.google.com</li>
+<li> 15:42 www.reddit.com</li>
+<li> 15:42 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:31 www.google.com</li>
+<li> 14:31 www.dailymotion.com</li>
+<li> 14:30 www.google.com</li>
+<li> 14:27 www.theguardian.com</li>
 <li> 14:27 www.google.com</li>
 </ul>
 
