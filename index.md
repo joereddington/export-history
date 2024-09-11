@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7600)</li>
+<ol><li>www.google.com (7603)</li>
 <li>mail.google.com (5429)</li>
 <li>outlook.office.com (2926)</li>
 <li>www.facebook.com (2444)</li>
@@ -79,12 +79,12 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1060)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (974)</li>
-<li>tvtropes.org (611)</li>
+<li>tvtropes.org (616)</li>
 <li>gmail.com (609)</li>
 <li>whitewaterwriters.com (606)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (523)</li>
+<li>www.theguardian.com (525)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>www.linkedin.com (478)</li>
 <li>kdp.amazon.com (420)</li>
@@ -104,11 +104,36 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 11/09/24</H3>
+
+<br>
+
+<ul><li> 06:26 www.theguardian.com</li>
+<li class='same'> 06:25 www.theguardian.com</li>
+<li> 06:24 www.google.com</li>
+<li> 06:24 x.com</li>
+<li> 06:24 www.google.com</li>
+<li> 06:24 www.natesilver.net</li>
+<li class='same'> 06:21 www.natesilver.net</li>
+<li> 06:21 x.com</li>
+<li> 06:21 twitter.com</li>
+<li> 06:20 www.google.com</li>
+</ul>
+
 <H3>Tuesday, 10/09/24</H3>
 
 <br>
 
-<ul><li> 21:39 tvtropes.org</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:51 tvtropes.org</li>
+<li class='same'> 21:50 tvtropes.org</li>
+<li class='same'> 21:48 tvtropes.org</li>
+<li class='same'> 21:47 tvtropes.org</li>
+<li class='same'> 21:46 tvtropes.org</li>
+<li class='same'> 21:39 tvtropes.org</li>
 <li class='same'> 21:32 tvtropes.org</li>
 <li class='same'> 21:31 tvtropes.org</li>
 <li class='same'> 21:30 tvtropes.org</li>
