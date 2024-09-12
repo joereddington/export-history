@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7613)</li>
+<ol><li>www.google.com (7614)</li>
 <li>mail.google.com (5443)</li>
 <li>outlook.office.com (2942)</li>
 <li>www.facebook.com (2453)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1231)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
-<li>www.reddit.com (1065)</li>
+<li>www.reddit.com (1066)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (976)</li>
 <li>tvtropes.org (616)</li>
@@ -84,9 +84,9 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (606)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (532)</li>
+<li>www.theguardian.com (537)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>www.linkedin.com (482)</li>
+<li>www.linkedin.com (483)</li>
 <li>kdp.amazon.com (421)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 12/09/24</H3>
+
+<br>
+
+<ul><li> 09:09 www.linkedin.com</li>
+<li> 09:02 www.theguardian.com</li>
+<li> 09:02 thehill.com</li>
+</ul>
 
 <br>
 
@@ -136,6 +143,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:36 www.reddit.com</li>
 <li> 06:35 outlook.office.com</li>
 <li> 06:35 mail.google.com</li>
+<li> 06:24 www.google.com</li>
+<li> 06:24 www.theguardian.com</li>
+<li class='same'> 06:21 www.theguardian.com</li>
+<li class='same'> 06:20 www.theguardian.com</li>
+<li class='same'> 06:19 www.theguardian.com</li>
+<li> 06:19 thehill.com</li>
 <li> 06:19 www.theguardian.com</li>
 </ul>
 
@@ -67530,6 +67543,7 @@ With number of accesses/minutes in parentheses
 <li> 07:54 www.parkrun.org.uk</li>
 <li> 07:54 www.google.com</li>
 <li> 07:48 www.amazon.co.uk</li>
+<li> 07:37 www.reddit.com</li>
 <li> 07:34 www.google.com</li>
 <li> 07:34 accounts.google.com</li>
 <li> 07:34 accounts.firefox.com</li>
