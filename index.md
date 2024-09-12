@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7625)</li>
+<ol><li>www.google.com (7626)</li>
 <li>mail.google.com (5445)</li>
-<li>outlook.office.com (2946)</li>
+<li>outlook.office.com (2952)</li>
 <li>www.facebook.com (2455)</li>
 <li>docs.google.com (1783)</li>
-<li>calendar.google.com (1236)</li>
+<li>calendar.google.com (1237)</li>
 <li>www.amazon.co.uk (1129)</li>
-<li>www.reddit.com (1074)</li>
-<li>moodle.royalholloway.ac.uk (1070)</li>
+<li>moodle.royalholloway.ac.uk (1078)</li>
+<li>www.reddit.com (1077)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (976)</li>
 <li>tvtropes.org (617)</li>
@@ -91,9 +91,9 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (392)</li>
-<li>web.whatsapp.com (379)</li>
+<li>web.whatsapp.com (380)</li>
 <li>outlook.office365.com (376)</li>
-<li>login.microsoftonline.com (355)</li>
+<li>login.microsoftonline.com (356)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (293)</li>
 <li>www.giantitp.com (279)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:41 www.google.com</li>
+<ul><li> 13:36 outlook.office.com</li>
+<li class='same'> 13:10 outlook.office.com</li>
+<li> 13:09 web.whatsapp.com</li>
+<li> 13:05 outlook.office.com</li>
+<li> 13:04 moodle.royalholloway.ac.uk</li>
+<li> 13:04 calendar.google.com</li>
+<li> 13:03 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:02 moodle.royalholloway.ac.uk</li>
+<li> 13:01 outlook.office.com</li>
+<li> 12:55 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:52 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:51 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:50 moodle.royalholloway.ac.uk</li>
+<li> 12:50 login.microsoftonline.com</li>
+<li> 12:50 moodle.royalholloway.ac.uk</li>
+<li> 12:50 www.google.com</li>
+<li> 12:49 outlook.office.com</li>
+<li class='same'> 12:48 outlook.office.com</li>
+<li> 12:48 www.reddit.com</li>
+<li class='same'> 12:47 www.reddit.com</li>
+<li class='same'> 12:46 www.reddit.com</li>
+<li> 12:41 www.google.com</li>
 <li> 12:41 www.reddit.com</li>
 <li class='same'> 12:40 www.reddit.com</li>
 <li> 12:35 tvtropes.org</li>
