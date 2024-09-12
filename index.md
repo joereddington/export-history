@@ -72,8 +72,8 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5444)</li>
 <li>outlook.office.com (2944)</li>
 <li>www.facebook.com (2453)</li>
-<li>docs.google.com (1782)</li>
-<li>calendar.google.com (1234)</li>
+<li>docs.google.com (1783)</li>
+<li>calendar.google.com (1235)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.reddit.com (1066)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (421)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (391)</li>
+<li>drive.google.com (392)</li>
 <li>web.whatsapp.com (379)</li>
 <li>outlook.office365.com (376)</li>
 <li>login.microsoftonline.com (355)</li>
@@ -109,6 +109,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:14 joereddington.github.io</li>
+<li> 10:14 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 10:14 <a href="http://joereddington.com/export-history/"></a></li>
 <li> 10:09 www.royalholloway.ac.uk</li>
 <li> 10:09 www.google.com</li>
@@ -152,7 +153,10 @@ With number of accesses/minutes in parentheses
 <li> 07:23 outlook.office365.com</li>
 <li> 07:23 outlook.office.com</li>
 <li> 07:23 mail.rhul.ac.uk</li>
-<li> 07:04 claude.ai</li>
+<li> 07:05 docs.google.com</li>
+<li> 07:05 drive.google.com</li>
+<li> 07:05 claude.ai</li>
+<li class='same'> 07:04 claude.ai</li>
 <li class='same'> 07:02 claude.ai</li>
 <li> 06:58 calendar.google.com</li>
 <li> 06:55 www.facebook.com</li>
@@ -181,6 +185,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:19 www.theguardian.com</li>
 <li> 06:19 thehill.com</li>
 <li> 06:19 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:41 calendar.google.com</li>
 </ul>
 
 <H3>Wednesday, 11/09/24</H3>
