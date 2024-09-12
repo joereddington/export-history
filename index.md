@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7633)</li>
+<ol><li>www.google.com (7634)</li>
 <li>mail.google.com (5450)</li>
 <li>outlook.office.com (2959)</li>
 <li>www.facebook.com (2455)</li>
@@ -78,13 +78,13 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1083)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
 <li>github.com (996)</li>
-<li>m.facebook.com (976)</li>
+<li>m.facebook.com (978)</li>
 <li>tvtropes.org (617)</li>
 <li>gmail.com (617)</li>
 <li>whitewaterwriters.com (606)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (543)</li>
+<li>www.theguardian.com (545)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>www.linkedin.com (487)</li>
 <li>kdp.amazon.com (421)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:54 www.theguardian.com</li>
+<ul><li> 18:22 www.theguardian.com</li>
+<li> 17:56 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:18 www.theguardian.com</li>
+<li> 17:18 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:16 m.facebook.com</li>
+<li> 16:15 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 15:54 www.theguardian.com</li>
 <li class='same'> 15:52 www.theguardian.com</li>
 <li> 15:52 www.google.com</li>
 <li> 15:52 www.theguardian.com</li>
