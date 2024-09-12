@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:09 www.google.com</li>
+<ul><li> 10:14 joereddington.github.io</li>
+<li> 10:14 <a href="http://joereddington.com/export-history/"></a></li>
+<li> 10:09 www.royalholloway.ac.uk</li>
+<li> 10:09 www.google.com</li>
 <li> 09:44 calendar.google.com</li>
 <li class='same'> 09:42 calendar.google.com</li>
 <li> 09:41 mail.google.com</li>
