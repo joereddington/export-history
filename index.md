@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7615)</li>
-<li>mail.google.com (5441)</li>
-<li>outlook.office.com (2938)</li>
-<li>www.facebook.com (2450)</li>
+<ol><li>www.google.com (7620)</li>
+<li>mail.google.com (5443)</li>
+<li>outlook.office.com (2939)</li>
+<li>www.facebook.com (2453)</li>
 <li>docs.google.com (1781)</li>
-<li>calendar.google.com (1229)</li>
+<li>calendar.google.com (1230)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
-<li>www.reddit.com (1064)</li>
+<li>www.reddit.com (1066)</li>
 <li>github.com (994)</li>
-<li>m.facebook.com (974)</li>
+<li>m.facebook.com (976)</li>
 <li>tvtropes.org (616)</li>
 <li>gmail.com (614)</li>
 <li>whitewaterwriters.com (606)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (529)</li>
+<li>www.theguardian.com (532)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>www.linkedin.com (480)</li>
+<li>www.linkedin.com (482)</li>
 <li>kdp.amazon.com (421)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
@@ -104,7 +104,51 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 12/09/24</H3>
+
+<br>
+
+<ul><li> 06:58 calendar.google.com</li>
+<li> 06:55 www.facebook.com</li>
+<li> 06:55 claude.ai</li>
+<li class='same'> 06:54 claude.ai</li>
+<li> 06:53 www.linkedin.com</li>
+<li> 06:47 0.0.0.0:8000</li>
+<li> 06:46 mybg.british-gymnastics.org</li>
+<li> 06:46 www.google.com</li>
+<li> 06:46 u1099264.ct.sendgrid.net</li>
+<li> 06:46 mybg.british-gymnastics.org</li>
+<li> 06:46 mail.google.com</li>
+<li> 06:46 www.google.com</li>
+<li> 06:45 www.facebook.com</li>
+<li class='same'> 06:42 www.facebook.com</li>
+<li> 06:42 www.linkedin.com</li>
+<li> 06:39 feedly.com</li>
+<li> 06:37 www.reddit.com</li>
+<li class='same'> 06:36 www.reddit.com</li>
+<li> 06:35 outlook.office.com</li>
+<li> 06:35 mail.google.com</li>
+<li> 06:19 www.theguardian.com</li>
+</ul>
+
 <H3>Wednesday, 11/09/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 19:27 thehill.com</li>
+<li class='same'> 19:25 thehill.com</li>
+<li> 19:25 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:14 www.google.com</li>
+<li> 16:14 m.facebook.com</li>
+</ul>
 
 <br>
 
@@ -137,7 +181,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:22 www.google.com</li>
+<ul><li> 11:05 m.facebook.com</li>
+<li> 11:02 www.theguardian.com</li>
+<li> 11:02 www.tripadvisor.co.uk</li>
+<li> 11:02 www.theguardian.com</li>
+<li> 11:02 www.tripadvisor.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:22 www.tripadvisor.co.uk</li>
+<li> 09:22 www.google.com</li>
+<li> 09:22 whatsupbeds.com</li>
+<li> 09:22 www.google.com</li>
 </ul>
 
 <br>
