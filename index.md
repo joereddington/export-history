@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7620)</li>
+<ol><li>www.google.com (7613)</li>
 <li>mail.google.com (5443)</li>
 <li>outlook.office.com (2942)</li>
 <li>www.facebook.com (2453)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1231)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
-<li>www.reddit.com (1066)</li>
+<li>www.reddit.com (1065)</li>
 <li>github.com (994)</li>
 <li>m.facebook.com (976)</li>
 <li>tvtropes.org (616)</li>
@@ -13516,14 +13516,11 @@ With number of accesses/minutes in parentheses
 <li> 13:03 <a href="https://joereddington.com/2024/06/13/grat.html">Gratitude | Joe Reddington</a></li>
 <li> 13:02 www.google.com</li>
 <li class='same'> 13:01 www.google.com</li>
-<li class='same'> 13:00 www.google.com</li>
 <li> 12:59 knowyourmeme.com</li>
 <li> 12:59 www.google.com</li>
 <li class='same'> 12:58 www.google.com</li>
-<li class='same'> 12:57 www.google.com</li>
 <li> 12:56 www.reddit.com</li>
-<li> 12:56 www.google.com</li>
-<li class='same'> 12:55 www.google.com</li>
+<li> 12:55 www.google.com</li>
 <li> 12:55 outlook.office.com</li>
 <li class='same'> 12:43 outlook.office.com</li>
 <li> 12:43 www.google.com</li>
@@ -13549,7 +13546,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:13 www.google.com</li>
 <li> 12:13 chatgpt.com</li>
 <li> 12:13 chat.openai.com</li>
-<li> 12:04 mc.manuscriptcentral.com</li>
 <li> 12:02 www.google.com</li>
 <li> 12:02 mc.manuscriptcentral.com</li>
 <li> 12:02 outlook.office.com</li>
@@ -13623,7 +13619,6 @@ With number of accesses/minutes in parentheses
 <li> 10:30 <a href="https://joereddington.com/video/2024/06/10/bike.html">Joe Reddington | Things I make.</a></li>
 <li> 10:30 <a href="https://joereddington.com/images/2020/06/10/mirror.html">Mirror Images | Joe Reddington</a></li>
 <li> 10:27 mail.google.com</li>
-<li> 10:27 www.google.com</li>
 <li> 10:27 www.brickborrow.com</li>
 <li> 10:27 mail.google.com</li>
 <li> 10:17 www.theguardian.com</li>
@@ -13637,15 +13632,11 @@ With number of accesses/minutes in parentheses
 <li> 10:03 mail.google.com</li>
 <li> 09:58 calendar.google.com</li>
 <li> 09:55 www.thetrainline.com</li>
-<li> 09:55 2n8w.app.link</li>
-<li> 09:55 www.thetrainline.com</li>
 <li> 09:55 www.google.com</li>
 <li> 09:55 www.thetrainline.com</li>
-<li> 09:55 www.google.com</li>
 <li> 09:54 www.nationalrail.co.uk</li>
 <li> 09:54 www.google.com</li>
 <li> 09:54 www.thetrainline.com</li>
-<li> 09:54 www.googleadservices.com</li>
 <li> 09:54 www.google.com</li>
 <li> 09:53 moodle.royalholloway.ac.uk</li>
 <li> 09:53 outlook.office365.com</li>
@@ -13666,7 +13657,6 @@ With number of accesses/minutes in parentheses
 <li> 09:44 outlook.office365.com</li>
 <li> 09:44 mail.google.com</li>
 <li class='same'> 09:43 mail.google.com</li>
-<li> 09:43 www.google.com</li>
 <li> 09:43 link.ifttt.com</li>
 <li> 09:43 mail.google.com</li>
 <li> 09:43 gmail.com</li>
@@ -13674,14 +13664,11 @@ With number of accesses/minutes in parentheses
 <li> 09:40 chat.openai.com</li>
 <li> 09:37 money.stackexchange.com</li>
 <li> 09:37 <a href="https://stackoverflow.com/questions/12556267/how-to-prevent-quitting-vim-accidentally">How to prevent quitting vim accidentally? - Stack Overflow</a></li>
-<li> 09:37 www.google.com</li>
-<li class='same'> 09:36 www.google.com</li>
+<li> 09:36 www.google.com</li>
 <li> 09:36 outlook.office365.com</li>
 <li class='same'> 09:35 outlook.office365.com</li>
 <li> 09:35 login.microsoftonline.com</li>
 <li> 09:35 mail.rhul.ac.uk</li>
-<li> 09:32 www.reddit.com</li>
-<li> 09:32 reddit.com</li>
 <li> 09:32 www.reddit.com</li>
 <li> 09:30 <a href="https://unix.stackexchange.com/questions/592522/rsync-command-is-taking-too-long-each-time">performance - rsync command is taking too long each time - Unix & Linux Stack Exchange</a></li>
 <li> 09:30 www.google.com</li>
