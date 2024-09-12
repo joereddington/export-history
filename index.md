@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7632)</li>
+<ol><li>www.google.com (7633)</li>
 <li>mail.google.com (5450)</li>
 <li>outlook.office.com (2959)</li>
 <li>www.facebook.com (2455)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (606)</li>
 <li>chat.openai.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (537)</li>
+<li>www.theguardian.com (543)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>www.linkedin.com (487)</li>
 <li>kdp.amazon.com (421)</li>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 12/09/24</H3>
+
+<br>
+
+<ul><li> 15:54 www.theguardian.com</li>
+<li class='same'> 15:52 www.theguardian.com</li>
+<li> 15:52 www.google.com</li>
+<li> 15:52 www.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -222,6 +230,7 @@ With number of accesses/minutes in parentheses
 <li> 09:24 docs.google.com</li>
 <li> 09:24 drive.google.com</li>
 <li class='same'> 09:23 drive.google.com</li>
+<li> 09:21 www.theguardian.com</li>
 <li> 09:14 outlook.office.com</li>
 <li class='same'> 09:13 outlook.office.com</li>
 <li> 09:12 open.spotify.com</li>
@@ -234,7 +243,9 @@ With number of accesses/minutes in parentheses
 <li> 09:11 accounts.spotify.com</li>
 <li> 09:10 www.linkedin.com</li>
 <li class='same'> 09:09 www.linkedin.com</li>
-<li> 09:02 www.theguardian.com</li>
+<li> 09:05 www.theguardian.com</li>
+<li class='same'> 09:03 www.theguardian.com</li>
+<li class='same'> 09:02 www.theguardian.com</li>
 <li> 09:02 thehill.com</li>
 </ul>
 
