@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7614)</li>
 <li>mail.google.com (5443)</li>
-<li>outlook.office.com (2942)</li>
+<li>outlook.office.com (2944)</li>
 <li>www.facebook.com (2453)</li>
 <li>docs.google.com (1781)</li>
-<li>calendar.google.com (1231)</li>
+<li>calendar.google.com (1232)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>www.reddit.com (1066)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (552)</li>
 <li>www.theguardian.com (537)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>www.linkedin.com (483)</li>
+<li>www.linkedin.com (484)</li>
 <li>kdp.amazon.com (421)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:09 www.linkedin.com</li>
+<ul><li> 09:14 outlook.office.com</li>
+<li class='same'> 09:13 outlook.office.com</li>
+<li> 09:12 open.spotify.com</li>
+<li> 09:11 www.spotify.com</li>
+<li> 09:11 calendar.google.com</li>
+<li> 09:11 www.paypal.com</li>
+<li> 09:11 www.spotify.com</li>
+<li> 09:11 accounts.spotify.com</li>
+<li> 09:11 www.spotify.com</li>
+<li> 09:11 accounts.spotify.com</li>
+<li> 09:10 www.linkedin.com</li>
+<li class='same'> 09:09 www.linkedin.com</li>
 <li> 09:02 www.theguardian.com</li>
 <li> 09:02 thehill.com</li>
 </ul>
