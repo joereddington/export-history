@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:58 calendar.google.com</li>
+<ul><li> 07:04 claude.ai</li>
+<li class='same'> 07:02 claude.ai</li>
+<li> 06:58 calendar.google.com</li>
 <li> 06:55 www.facebook.com</li>
 <li> 06:55 claude.ai</li>
 <li class='same'> 06:54 claude.ai</li>
