@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7638)</li>
+<ol><li>www.google.com (7641)</li>
 <li>mail.google.com (5450)</li>
 <li>outlook.office.com (2965)</li>
 <li>www.facebook.com (2458)</li>
 <li>docs.google.com (1785)</li>
 <li>calendar.google.com (1239)</li>
 <li>www.amazon.co.uk (1129)</li>
-<li>www.reddit.com (1084)</li>
+<li>www.reddit.com (1085)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
 <li>tvtropes.org (617)</li>
 <li>gmail.com (617)</li>
 <li>whitewaterwriters.com (606)</li>
-<li>chat.openai.com (584)</li>
+<li>chat.openai.com (585)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.theguardian.com (550)</li>
 <li>www.linkedin.com (489)</li>
@@ -91,12 +91,12 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (392)</li>
-<li>web.whatsapp.com (384)</li>
+<li>web.whatsapp.com (385)</li>
 <li>outlook.office365.com (376)</li>
 <li>login.microsoftonline.com (356)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (296)</li>
-<li>www.giantitp.com (279)</li>
+<li>www.giantitp.com (280)</li>
 <li>Local file (270)</li>
 
 
@@ -108,12 +108,66 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:23 www.giantitp.com</li>
+<li> 21:23 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 21:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 21:22 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 21:22 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 21:21 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 21:21 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 21:12 127.0.0.1:4000</li>
+<li class='same'> 21:11 127.0.0.1:4000</li>
+<li> 21:08 claude.ai</li>
+<li> 21:03 chatgpt.com</li>
+<li class='same'> 21:02 chatgpt.com</li>
+<li> 21:02 chat.openai.com</li>
+<li> 20:57 <a href="https://en.wikipedia.org/wiki/Osmotherly_Rules">Osmotherly Rules - Wikipedia</a></li>
+<li> 20:55 <a href="https://en.wikipedia.org/wiki/Select_committee_(United_Kingdom)">Select committee (United Kingdom) - Wikipedia</a></li>
+<li> 20:55 <a href="https://en.wikipedia.org/wiki/Women_and_Equalities_Committee">Women and Equalities Committee - Wikipedia</a></li>
+<li> 20:54 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&curid=62569479&diff=1245306303&oldid=1239970208">Sarah Owen: Difference between revisions - Wikipedia</a></li>
+<li> 20:54 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_Security">Wikipedia talk:WikiProject Computer Security - Wikipedia</a></li>
+<li> 20:53 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 20:53 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 20:53 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 20:52 www.reddit.com</li>
+<li> 20:52 www.premierinn.com</li>
+<li class='same'> 20:50 www.premierinn.com</li>
+<li class='same'> 20:49 www.premierinn.com</li>
+<li class='same'> 20:48 www.premierinn.com</li>
+<li> 20:48 www.google.co.uk</li>
+<li class='same'> 20:47 www.google.co.uk</li>
+<li class='same'> 20:46 www.google.co.uk</li>
+<li> 20:46 wildingshotel.com</li>
+<li> 20:46 www.google.co.uk</li>
+<li class='same'> 20:45 www.google.co.uk</li>
+<li class='same'> 20:44 www.google.co.uk</li>
+<li> 20:44 www.google.com</li>
+<li class='same'> 20:43 www.google.com</li>
+<li> 20:43 www.thetrainline.com</li>
+<li class='same'> 20:42 www.thetrainline.com</li>
+<li> 20:41 www.paypal.com</li>
+<li> 20:40 www.thetrainline.com</li>
+<li class='same'> 20:39 www.thetrainline.com</li>
+<li class='same'> 20:38 www.thetrainline.com</li>
+</ul>
+
+<br>
+
 <ul><li> 20:06 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 </ul>
 
 <br>
 
-<ul><li> 18:20 www.facebook.com</li>
+<ul><li> 18:27 <a href="https://en.wikipedia.org/wiki/Keech_Hospice_Care">Keech Hospice Care - Wikipedia</a></li>
+<li> 18:26 <a href="https://en.wikipedia.org/w/index.php?title=Keech_Hospice_Care&action=edit">Keech Hospice Care - Wikipedia</a></li>
+<li> 18:25 <a href="https://en.wikipedia.org/w/index.php?title=Keech_Hospice_Care&oldid=1244984386&action=edit">Editing Keech Hospice Care - Wikipedia</a></li>
+<li> 18:24 <a href="https://en.wikipedia.org/w/index.php?title=Keech_Hospice_Care&action=edit">Keech Hospice Care - Wikipedia</a></li>
+<li> 18:23 <a href="https://en.wikipedia.org/w/index.php?title=Keech_Hospice_Care&action=history">Keech Hospice Care: Revision history - Wikipedia</a></li>
+<li> 18:23 <a href="https://en.wikipedia.org/wiki/Keech_Hospice_Care">Keech Hospice Care - Wikipedia</a></li>
+<li> 18:23 www.google.com</li>
+<li> 18:23 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 18:22 web.whatsapp.com</li>
+<li> 18:20 www.facebook.com</li>
 <li> 18:15 outlook.office.com</li>
 <li> 18:14 www.facebook.com</li>
 <li> 18:14 outlook.office.com</li>
