@@ -83,8 +83,8 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (617)</li>
 <li>whitewaterwriters.com (606)</li>
 <li>chat.openai.com (585)</li>
+<li>www.theguardian.com (553)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.theguardian.com (550)</li>
 <li>www.linkedin.com (489)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (421)</li>
@@ -178,11 +178,10 @@ With number of accesses/minutes in parentheses
 <li> 20:40 www.thetrainline.com</li>
 <li class='same'> 20:39 www.thetrainline.com</li>
 <li class='same'> 20:38 www.thetrainline.com</li>
-</ul>
-
-<br>
-
-<ul><li> 20:06 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 20:09 www.theguardian.com</li>
+<li class='same'> 20:08 www.theguardian.com</li>
+<li class='same'> 20:07 www.theguardian.com</li>
+<li> 20:06 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 </ul>
 
 <br>
