@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7653)</li>
-<li>mail.google.com (5450)</li>
+<ol><li>www.google.com (7670)</li>
+<li>mail.google.com (5452)</li>
 <li>outlook.office.com (2967)</li>
 <li>www.facebook.com (2468)</li>
 <li>docs.google.com (1785)</li>
 <li>calendar.google.com (1240)</li>
-<li>www.amazon.co.uk (1135)</li>
-<li>www.reddit.com (1092)</li>
+<li>www.amazon.co.uk (1136)</li>
+<li>www.reddit.com (1098)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
 <li>tvtropes.org (618)</li>
-<li>gmail.com (617)</li>
+<li>gmail.com (618)</li>
 <li>whitewaterwriters.com (606)</li>
 <li>chat.openai.com (586)</li>
 <li>www.theguardian.com (558)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.linkedin.com (491)</li>
+<li>www.linkedin.com (492)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (421)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (392)</li>
-<li>web.whatsapp.com (385)</li>
+<li>web.whatsapp.com (386)</li>
 <li>outlook.office365.com (376)</li>
 <li>login.microsoftonline.com (357)</li>
 <li>bsky.app (313)</li>
@@ -105,6 +105,76 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 14/09/24</H3>
+
+<br>
+
+<ul><li> 23:59 mail.google.com</li>
+<li> 23:57 www.google.com</li>
+<li> 23:56 www.edgehill.ac.uk</li>
+<li> 23:56 www.google.com</li>
+<li> 23:45 www.surreycc.gov.uk</li>
+<li> 23:45 www.google.com</li>
+<li> 23:45 www.yourlibraryapp.co.uk</li>
+<li> 23:45 libraries.surreycc.gov.uk</li>
+<li class='same'> 23:44 libraries.surreycc.gov.uk</li>
+<li class='same'> 23:43 libraries.surreycc.gov.uk</li>
+<li> 23:43 mail.google.com</li>
+<li> 23:43 gmail.com</li>
+<li> 23:41 libraries.surreycc.gov.uk</li>
+<li> 23:41 www.surreycc.gov.uk</li>
+<li> 23:41 www.google.com</li>
+<li> 23:41 sentry.libbyapp.com</li>
+<li> 23:41 libbyapp.com</li>
+<li> 23:40 library.lsbu.ac.uk</li>
+<li> 23:39 www.reddit.com</li>
+<li> 23:39 www.google.com</li>
+<li> 23:38 www.reddit.com</li>
+<li> 23:38 www.google.com</li>
+<li class='same'> 23:37 www.google.com</li>
+<li> 23:37 libbyapp.com</li>
+<li> 23:37 www.google.com</li>
+<li> 23:37 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 23:37 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 23:36 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 23:36 <a href="https://en.wikipedia.org/wiki/Libby_(service)#cite_ref-1">Libby (service) - Wikipedia</a></li>
+<li> 23:35 <a href="https://en.wikipedia.org/wiki/Hoopla_(digital_media_service)">Hoopla (digital media service) - Wikipedia</a></li>
+<li> 23:35 <a href="https://en.wikipedia.org/wiki/Libby_(service)">Libby (service) - Wikipedia</a></li>
+<li> 23:35 www.google.com</li>
+<li> 23:34 www.reddit.com</li>
+<li> 23:34 www.google.com</li>
+<li> 23:34 library.wsc.nsw.gov.au</li>
+<li> 23:33 www.google.com</li>
+<li> 23:33 www.reddit.com</li>
+<li> 23:33 www.myli.org.au</li>
+<li> 23:32 www.threads.net</li>
+<li> 23:32 www.mumsnet.com</li>
+<li> 23:32 www.google.com</li>
+<li> 23:31 amt-lab.org</li>
+<li> 23:31 www.google.com</li>
+<li> 23:31 www.amazon.co.uk</li>
+<li> 23:30 www.linkedin.com</li>
+<li> 23:30 runabc.co.uk</li>
+<li> 23:29 the5krunner.com</li>
+<li> 23:28 www.thepowerof10.info</li>
+<li> 23:28 www.runnersworld.com</li>
+<li> 23:28 www.google.com</li>
+<li class='same'> 23:27 www.google.com</li>
+<li> 23:27 <a href="https://en.wikipedia.org/wiki/Slighting">Slighting - Wikipedia</a></li>
+<li> 23:25 <a href="https://en.wikipedia.org/wiki/Clitheroe_Castle">Clitheroe Castle - Wikipedia</a></li>
+<li> 23:25 www.google.com</li>
+<li> 23:25 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 23:24 <a href="https://en.wikipedia.org/wiki/Textual_variants_in_the_New_Testament">Textual variants in the New Testament - Wikipedia</a></li>
+<li> 23:23 <a href="https://en.wikipedia.org/wiki/Tzitzit">Tzitzit - Wikipedia</a></li>
+<li> 23:20 <a href="https://en.wikipedia.org/wiki/Historical_Jesus">Historical Jesus - Wikipedia</a></li>
+<li> 23:20 www.google.com</li>
+<li> 23:19 <a href="https://en.wikipedia.org/wiki/Augustus">Augustus - Wikipedia</a></li>
+<li> 23:18 <a href="https://en.wikipedia.org/wiki/Tiberius">Tiberius - Wikipedia</a></li>
+<li> 23:18 <a href="https://en.wikipedia.org/wiki/Drusus_Julius_Caesar">Drusus Julius Caesar - Wikipedia</a></li>
+<li> 23:18 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 23:17 web.whatsapp.com</li>
+<li> 23:17 www.reddit.com</li>
+<li class='same'> 23:16 www.reddit.com</li>
+</ul>
 
 <br>
 
