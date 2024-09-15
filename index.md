@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7670)</li>
+<ol><li>www.google.com (7678)</li>
 <li>mail.google.com (5452)</li>
 <li>outlook.office.com (2967)</li>
 <li>www.facebook.com (2468)</li>
 <li>docs.google.com (1785)</li>
 <li>calendar.google.com (1240)</li>
 <li>www.amazon.co.uk (1136)</li>
-<li>www.reddit.com (1098)</li>
+<li>www.reddit.com (1099)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
@@ -83,11 +83,11 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (618)</li>
 <li>whitewaterwriters.com (606)</li>
 <li>chat.openai.com (586)</li>
-<li>www.theguardian.com (558)</li>
+<li>www.theguardian.com (559)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.linkedin.com (492)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>kdp.amazon.com (421)</li>
+<li>kdp.amazon.com (422)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (392)</li>
@@ -104,7 +104,39 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 15/09/24</H3>
+
+<br>
+
+<ul><li> 11:10 www.reddit.com</li>
+<li> 11:10 www.google.com</li>
+<li> 11:09 kdp.amazon.com</li>
+<li> 11:08 www.google.com</li>
+<li> 11:05 lifehacker.com</li>
+<li class='same'> 11:04 lifehacker.com</li>
+<li> 11:02 www.natesilver.net</li>
+<li> 11:01 www.google.com</li>
+<li> 11:01 x.com</li>
+<li> 11:01 www.google.com</li>
+<li> 11:01 x.com</li>
+<li> 11:01 www.google.com</li>
+<li> 11:01 x.com</li>
+<li> 11:01 www.google.com</li>
+<li class='same'> 11:00 www.google.com</li>
+<li> 10:44 www.theguardian.com</li>
+<li> 10:44 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:33 www.google.com</li>
+</ul>
+
 <H3>Saturday, 14/09/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -13835,13 +13867,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:00 www.halfords.com</li>
-<li> 11:59 www.google.com</li>
+<ul><li class='same'> 11:59 www.google.com</li>
 <li> 11:58 www.halfords.com</li>
 <li> 11:52 cdn.static.amplience.net</li>
 <li> 11:51 www.halfords.com</li>
-<li> 11:51 www.google.com</li>
-<li class='same'> 11:50 www.google.com</li>
+<li> 11:50 www.google.com</li>
 </ul>
 
 <H3>Friday, 14/06/24</H3>
