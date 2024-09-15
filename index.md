@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7678)</li>
+<ol><li>www.google.com (7681)</li>
 <li>mail.google.com (5452)</li>
 <li>outlook.office.com (2967)</li>
 <li>www.facebook.com (2468)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (618)</li>
 <li>whitewaterwriters.com (606)</li>
 <li>chat.openai.com (586)</li>
-<li>www.theguardian.com (559)</li>
+<li>www.theguardian.com (564)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.linkedin.com (492)</li>
 <li>en.m.wikipedia.org (488)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:10 www.reddit.com</li>
+<ul><li> 17:15 www.theguardian.com</li>
+<li class='same'> 16:58 www.theguardian.com</li>
+<li class='same'> 16:57 www.theguardian.com</li>
+<li class='same'> 16:56 www.theguardian.com</li>
+<li class='same'> 16:55 www.theguardian.com</li>
+<li> 16:55 www.google.com</li>
+<li> 16:54 www.natesilver.net</li>
+<li> 16:54 www.google.com</li>
+<li> 16:54 positivewriter.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:15 positivewriter.com</li>
+<li> 11:15 www.google.com</li>
+<li> 11:10 www.reddit.com</li>
 <li> 11:10 www.google.com</li>
 <li> 11:09 kdp.amazon.com</li>
 <li> 11:08 www.google.com</li>
