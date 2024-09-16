@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7682)</li>
-<li>mail.google.com (5452)</li>
-<li>outlook.office.com (2967)</li>
+<ol><li>www.google.com (7684)</li>
+<li>mail.google.com (5459)</li>
+<li>outlook.office.com (2971)</li>
 <li>www.facebook.com (2468)</li>
-<li>docs.google.com (1785)</li>
+<li>docs.google.com (1788)</li>
 <li>calendar.google.com (1240)</li>
 <li>www.amazon.co.uk (1136)</li>
-<li>www.reddit.com (1099)</li>
+<li>www.reddit.com (1104)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
+<li>gmail.com (620)</li>
 <li>tvtropes.org (618)</li>
-<li>gmail.com (618)</li>
 <li>whitewaterwriters.com (606)</li>
 <li>chat.openai.com (586)</li>
 <li>www.theguardian.com (569)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.linkedin.com (492)</li>
+<li>www.linkedin.com (495)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (422)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (392)</li>
-<li>web.whatsapp.com (386)</li>
+<li>drive.google.com (393)</li>
+<li>web.whatsapp.com (390)</li>
 <li>outlook.office365.com (376)</li>
-<li>login.microsoftonline.com (357)</li>
+<li>login.microsoftonline.com (358)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (297)</li>
 <li>www.giantitp.com (281)</li>
@@ -105,6 +105,53 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 16/09/24</H3>
+
+<br>
+
+<ul><li> 14:01 web.whatsapp.com</li>
+<li> 13:57 <a href="https://en.wikipedia.org/wiki/Carrick_Academy">Carrick Academy - Wikipedia</a></li>
+<li> 13:57 www.google.com</li>
+<li> 13:47 www.reddit.com</li>
+<li class='same'> 13:45 www.reddit.com</li>
+<li class='same'> 13:44 www.reddit.com</li>
+<li> 13:44 mail.google.com</li>
+<li> 13:44 gmail.com</li>
+<li> 13:44 outlook.office.com</li>
+<li> 13:43 web.whatsapp.com</li>
+<li> 13:43 outlook.office.com</li>
+<li> 13:42 www.linkedin.com</li>
+<li> 13:42 www.google.com</li>
+<li> 13:41 www.linkedin.com</li>
+<li> 13:36 outlook.office.com</li>
+<li class='same'> 13:34 outlook.office.com</li>
+<li> 13:34 login.microsoftonline.com</li>
+<li> 13:34 www.linkedin.com</li>
+<li> 13:33 www.reddit.com</li>
+<li class='same'> 13:32 www.reddit.com</li>
+<li> 13:28 mail.google.com</li>
+<li class='same'> 13:18 mail.google.com</li>
+<li class='same'> 13:17 mail.google.com</li>
+<li> 13:17 gmail.com</li>
+<li> 13:13 docs.google.com</li>
+<li class='same'> 13:12 docs.google.com</li>
+<li class='same'> 13:11 docs.google.com</li>
+<li> 13:11 drive.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:04 web.whatsapp.com</li>
+<li> 12:04 mail.google.com</li>
+<li class='same'> 12:03 mail.google.com</li>
+<li class='same'> 11:59 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:27 web.whatsapp.com</li>
+<li> 09:26 fast.com</li>
+<li> 09:25 libraries.surreycc.gov.uk</li>
+</ul>
 
 <br>
 
