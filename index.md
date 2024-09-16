@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7684)</li>
+<ol><li>www.google.com (7692)</li>
 <li>mail.google.com (5459)</li>
 <li>outlook.office.com (2971)</li>
 <li>www.facebook.com (2468)</li>
 <li>docs.google.com (1788)</li>
 <li>calendar.google.com (1240)</li>
 <li>www.amazon.co.uk (1136)</li>
-<li>www.reddit.com (1104)</li>
+<li>www.reddit.com (1105)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (620)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (606)</li>
-<li>chat.openai.com (586)</li>
-<li>www.theguardian.com (569)</li>
+<li>chat.openai.com (587)</li>
+<li>www.theguardian.com (575)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.linkedin.com (495)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (422)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (393)</li>
+<li>drive.google.com (394)</li>
 <li>web.whatsapp.com (390)</li>
 <li>outlook.office365.com (376)</li>
 <li>login.microsoftonline.com (358)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 16/09/24</H3>
+
+<br>
+
+<ul><li> 20:24 www.google.com</li>
+<li> 20:24 www.theguardian.com</li>
+<li> 20:13 discussions.apple.com</li>
+<li> 20:13 www.google.com</li>
+<li> 20:12 www.reddit.com</li>
+<li> 20:12 www.google.com</li>
+<li class='same'> 20:10 www.google.com</li>
+<li class='same'> 20:09 www.google.com</li>
+<li class='same'> 20:08 www.google.com</li>
+<li> 20:06 ifttt.com</li>
+<li> 20:06 www.google.com</li>
+<li> 20:04 chatgpt.com</li>
+<li class='same'> 20:03 chatgpt.com</li>
+<li> 20:03 chat.openai.com</li>
+<li> 20:03 drive.google.com</li>
+<li> 20:03 www.google.com</li>
+</ul>
 
 <br>
 
@@ -129,7 +149,13 @@ With number of accesses/minutes in parentheses
 <li> 13:33 www.reddit.com</li>
 <li class='same'> 13:32 www.reddit.com</li>
 <li> 13:28 mail.google.com</li>
-<li class='same'> 13:18 mail.google.com</li>
+<li> 13:27 www.theguardian.com</li>
+<li class='same'> 13:26 www.theguardian.com</li>
+<li class='same'> 13:25 www.theguardian.com</li>
+<li class='same'> 13:23 www.theguardian.com</li>
+<li class='same'> 13:22 www.theguardian.com</li>
+<li> 13:22 www.huffpost.com</li>
+<li> 13:18 mail.google.com</li>
 <li class='same'> 13:17 mail.google.com</li>
 <li> 13:17 gmail.com</li>
 <li> 13:13 docs.google.com</li>
@@ -155,7 +181,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:24 www.natesilver.net</li>
+<ul><li> 07:30 www.huffpost.com</li>
+<li> 07:24 www.natesilver.net</li>
 </ul>
 
 <br>
@@ -64965,7 +64992,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:25 www.linkedin.com</li>
 <li> 17:21 www.instagram.com</li>
-<li class='same'> 17:19 www.instagram.com</li>
+<li> 17:21 ifttt.com</li>
+<li> 17:19 www.instagram.com</li>
 <li> 17:19 joereddington.github.io</li>
 <li> 17:19 github.com</li>
 </ul>
@@ -65078,6 +65106,11 @@ With number of accesses/minutes in parentheses
 <li> 10:23 kdpreports.amazon.com</li>
 <li> 10:20 www.amazon.co.uk</li>
 <li> 10:20 forum.artofmemory.com</li>
+<li> 10:18 ifttt.com</li>
+<li class='same'> 10:15 ifttt.com</li>
+<li class='same'> 10:13 ifttt.com</li>
+<li class='same'> 10:12 ifttt.com</li>
+<li class='same'> 10:11 ifttt.com</li>
 <li> 10:09 www.linkedin.com</li>
 </ul>
 
@@ -65756,6 +65789,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:57 www.linkedin.com</li>
+<li> 08:54 ifttt.com</li>
 <li> 08:45 theopenvoicefactory.org</li>
 <li> 08:37 calendar.google.com</li>
 </ul>
