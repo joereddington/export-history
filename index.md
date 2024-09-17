@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7713)</li>
-<li>mail.google.com (5458)</li>
+<ol><li>www.google.com (7714)</li>
+<li>mail.google.com (5463)</li>
 <li>outlook.office.com (2975)</li>
 <li>www.facebook.com (2468)</li>
 <li>docs.google.com (1792)</li>
 <li>calendar.google.com (1242)</li>
-<li>www.amazon.co.uk (1138)</li>
-<li>www.reddit.com (1110)</li>
+<li>www.amazon.co.uk (1139)</li>
+<li>www.reddit.com (1114)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (620)</li>
+<li>gmail.com (622)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
 <li>chat.openai.com (588)</li>
-<li>www.theguardian.com (575)</li>
+<li>www.theguardian.com (576)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.linkedin.com (495)</li>
 <li>en.m.wikipedia.org (488)</li>
@@ -91,12 +91,12 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (397)</li>
-<li>web.whatsapp.com (392)</li>
+<li>web.whatsapp.com (394)</li>
 <li>outlook.office365.com (376)</li>
 <li>login.microsoftonline.com (362)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (297)</li>
-<li>www.giantitp.com (281)</li>
+<li>www.giantitp.com (282)</li>
 <li>Local file (270)</li>
 
 
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:31 www.amazon.co.uk</li>
+<ul><li> 14:18 mail.google.com</li>
+<li class='same'> 14:17 mail.google.com</li>
+<li> 14:17 accounts.google.com</li>
+<li> 14:17 mail.google.com</li>
+<li> 14:17 gmail.com</li>
+<li> 14:17 mail.google.com</li>
+<li> 13:51 web.whatsapp.com</li>
+<li> 13:48 mail.google.com</li>
+<li> 13:48 gmail.com</li>
+<li> 13:45 www.reddit.com</li>
+<li class='same'> 13:44 www.reddit.com</li>
+<li class='same'> 13:43 www.reddit.com</li>
+<li class='same'> 13:42 www.reddit.com</li>
+<li> 13:42 feedly.com</li>
+<li> 13:41 www.giantitp.com</li>
+<li> 13:41 x.com</li>
+<li> 13:41 twitter.com</li>
+<li> 13:41 www.google.com</li>
+<li> 13:39 www.theguardian.com</li>
+<li> 13:39 web.whatsapp.com</li>
+<li> 13:32 www.amazon.co.uk</li>
+<li class='same'> 13:31 www.amazon.co.uk</li>
 <li> 13:28 kdp.amazon.com</li>
 <li> 13:28 www.amazon.co.uk</li>
 <li> 13:28 www.etsy.com</li>
