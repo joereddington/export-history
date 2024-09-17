@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7732)</li>
+<ol><li>www.google.com (7734)</li>
 <li>mail.google.com (5464)</li>
-<li>outlook.office.com (2983)</li>
+<li>outlook.office.com (2984)</li>
 <li>www.facebook.com (2468)</li>
-<li>docs.google.com (1792)</li>
+<li>docs.google.com (1793)</li>
 <li>calendar.google.com (1242)</li>
 <li>www.amazon.co.uk (1140)</li>
 <li>www.reddit.com (1120)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (366)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (297)</li>
-<li>www.giantitp.com (283)</li>
+<li>www.giantitp.com (286)</li>
 <li>Local file (270)</li>
 
 
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 17/09/24</H3>
+
+<br>
+
+<ul><li> 20:34 www.google.com</li>
+<li> 20:34 www.giantitp.com</li>
+<li class='same'> 20:33 www.giantitp.com</li>
+<li class='same'> 20:32 www.giantitp.com</li>
+<li> 20:32 <a href="https://en.wikipedia.org/wiki/The_Murderbot_Diaries">The Murderbot Diaries - Wikipedia</a></li>
+<li> 20:32 www.google.com</li>
+<li> 20:20 docs.google.com</li>
+<li> 20:07 claude.ai</li>
+<li> 20:05 outlook.office.com</li>
+<li> 20:05 claude.ai</li>
+<li class='same'> 20:04 claude.ai</li>
+</ul>
 
 <br>
 
