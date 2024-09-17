@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7728)</li>
+<ol><li>www.google.com (7732)</li>
 <li>mail.google.com (5464)</li>
-<li>outlook.office.com (2980)</li>
+<li>outlook.office.com (2983)</li>
 <li>www.facebook.com (2468)</li>
 <li>docs.google.com (1792)</li>
 <li>calendar.google.com (1242)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (398)</li>
 <li>web.whatsapp.com (395)</li>
 <li>outlook.office365.com (376)</li>
-<li>login.microsoftonline.com (364)</li>
+<li>login.microsoftonline.com (366)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (297)</li>
 <li>www.giantitp.com (283)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:02 ev.turnitinuk.com</li>
+<ul><li> 19:27 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
+<li> 19:27 login.microsoftonline.com</li>
+<li> 19:26 rhul-my.sharepoint.com</li>
+<li> 19:26 forms.office.com</li>
+<li> 19:26 login.microsoftonline.com</li>
+<li> 19:26 forms.office.com</li>
+<li> 19:25 intranet.royalholloway.ac.uk</li>
+<li> 19:25 outlook.office.com</li>
+<li> 19:22 www.google.com</li>
+<li class='same'> 19:20 www.google.com</li>
+<li class='same'> 19:18 www.google.com</li>
+<li> 19:12 claude.ai</li>
+<li> 19:11 www.google.com</li>
+<li> 19:10 claude.ai</li>
+<li> 19:09 cryptpad.fr</li>
+<li> 19:08 outlook.office.com</li>
+<li> 19:04 ev.turnitinuk.com</li>
+<li> 19:03 projects.cs.rhul.ac.uk</li>
+<li> 19:03 outlook.office.com</li>
+<li> 19:02 ev.turnitinuk.com</li>
 <li> 19:01 moodle2324.royalholloway.ac.uk</li>
 <li class='same'> 19:00 moodle2324.royalholloway.ac.uk</li>
 <li> 18:59 ev.turnitinuk.com</li>
