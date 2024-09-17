@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7697)</li>
+<ol><li>www.google.com (7706)</li>
 <li>mail.google.com (5459)</li>
-<li>outlook.office.com (2974)</li>
+<li>outlook.office.com (2975)</li>
 <li>www.facebook.com (2468)</li>
 <li>docs.google.com (1790)</li>
-<li>calendar.google.com (1240)</li>
+<li>calendar.google.com (1242)</li>
 <li>www.amazon.co.uk (1136)</li>
 <li>www.reddit.com (1108)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (620)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (606)</li>
-<li>chat.openai.com (587)</li>
+<li>chat.openai.com (588)</li>
 <li>www.theguardian.com (575)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.linkedin.com (495)</li>
@@ -90,10 +90,10 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (422)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (395)</li>
-<li>web.whatsapp.com (390)</li>
+<li>drive.google.com (396)</li>
+<li>web.whatsapp.com (391)</li>
 <li>outlook.office365.com (376)</li>
-<li>login.microsoftonline.com (358)</li>
+<li>login.microsoftonline.com (361)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (297)</li>
 <li>www.giantitp.com (281)</li>
@@ -108,7 +108,67 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:39 outlook.office.com</li>
+<ul><li> 07:24 www.google.com</li>
+<li class='same'> 07:23 www.google.com</li>
+<li> 07:23 support.microsoft.com</li>
+<li> 07:22 www.google.com</li>
+<li> 07:16 chatgpt.com</li>
+<li> 07:14 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 07:14 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:14 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:13 chatgpt.com</li>
+<li> 07:13 chat.openai.com</li>
+<li> 07:12 rhul-my.sharepoint.com</li>
+<li> 07:12 forms.office.com</li>
+<li class='same'> 07:11 forms.office.com</li>
+<li> 07:11 login.microsoftonline.com</li>
+<li> 07:11 forms.office.com</li>
+<li> 07:11 rhul-my.sharepoint.com</li>
+<li> 07:11 forms.office.com</li>
+<li class='same'> 07:10 forms.office.com</li>
+<li> 07:10 login.microsoftonline.com</li>
+<li> 07:10 forms.office.com</li>
+<li> 07:10 support.microsoft.com</li>
+<li> 07:09 www.google.com</li>
+<li class='same'> 07:07 www.google.com</li>
+<li> 07:05 otter.ai</li>
+<li> 07:04 accounts.google.com</li>
+<li> 07:04 otter.ai</li>
+<li class='same'> 07:03 otter.ai</li>
+<li> 07:03 www.google.com</li>
+<li> 07:03 otter.ai</li>
+<li> 07:03 www.google.com</li>
+<li> 07:02 web.whatsapp.com</li>
+<li> 07:02 calendar.google.com</li>
+<li class='same'> 07:01 calendar.google.com</li>
+<li> 07:00 moodle2324.royalholloway.ac.uk</li>
+<li> 06:58 rhul-my.sharepoint.com</li>
+<li> 06:58 drive.google.com</li>
+<li> 06:57 ev.turnitinuk.com</li>
+<li class='same'> 06:56 ev.turnitinuk.com</li>
+<li class='same'> 06:53 ev.turnitinuk.com</li>
+<li class='same'> 06:52 ev.turnitinuk.com</li>
+<li> 06:51 api.turnitinuk.com</li>
+<li> 06:50 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 06:49 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 06:48 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 06:47 moodle2324.royalholloway.ac.uk</li>
+<li> 06:47 guides.turnitin.com</li>
+<li> 06:47 www.turnitinuk.com</li>
+<li class='same'> 06:46 www.turnitinuk.com</li>
+<li> 06:46 www.turnitin.com</li>
+<li> 06:46 www.google.com</li>
+<li> 06:46 intranet.royalholloway.ac.uk</li>
+<li> 06:46 www.google.com</li>
+<li> 06:45 moodle2324.royalholloway.ac.uk</li>
+<li> 06:43 projects.cs.rhul.ac.uk</li>
+<li> 06:43 outlook.office.com</li>
+<li> 06:43 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 06:42 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 06:41 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 06:40 moodle2324.royalholloway.ac.uk</li>
+<li> 06:40 login.microsoftonline.com</li>
+<li> 06:39 outlook.office.com</li>
 <li class='same'> 06:38 outlook.office.com</li>
 <li class='same'> 06:37 outlook.office.com</li>
 <li> 06:37 docs.google.com</li>
