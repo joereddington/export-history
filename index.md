@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7692)</li>
+<ol><li>www.google.com (7697)</li>
 <li>mail.google.com (5459)</li>
-<li>outlook.office.com (2971)</li>
+<li>outlook.office.com (2974)</li>
 <li>www.facebook.com (2468)</li>
-<li>docs.google.com (1788)</li>
+<li>docs.google.com (1790)</li>
 <li>calendar.google.com (1240)</li>
 <li>www.amazon.co.uk (1136)</li>
-<li>www.reddit.com (1105)</li>
+<li>www.reddit.com (1108)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (422)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (394)</li>
+<li>drive.google.com (395)</li>
 <li>web.whatsapp.com (390)</li>
 <li>outlook.office365.com (376)</li>
 <li>login.microsoftonline.com (358)</li>
@@ -104,12 +104,39 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 17/09/24</H3>
+
+<br>
+
+<ul><li> 06:39 outlook.office.com</li>
+<li class='same'> 06:38 outlook.office.com</li>
+<li class='same'> 06:37 outlook.office.com</li>
+<li> 06:37 docs.google.com</li>
+<li class='same'> 06:31 docs.google.com</li>
+<li> 06:31 drive.google.com</li>
+<li> 06:31 feedly.com</li>
+</ul>
+
 <H3>Monday, 16/09/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
 <ul><li> 20:24 www.google.com</li>
 <li> 20:24 www.theguardian.com</li>
+<li> 20:20 apps.apple.com</li>
+<li> 20:20 www.reddit.com</li>
+<li> 20:20 www.google.com</li>
+<li> 20:20 discussions.apple.com</li>
+<li> 20:20 www.google.com</li>
+<li class='same'> 20:19 www.google.com</li>
+<li class='same'> 20:18 www.google.com</li>
+<li> 20:18 www.reddit.com</li>
+<li> 20:18 www.google.com</li>
+<li> 20:15 www.reddit.com</li>
 <li> 20:13 discussions.apple.com</li>
 <li> 20:13 www.google.com</li>
 <li> 20:12 www.reddit.com</li>
