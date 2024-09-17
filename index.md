@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7711)</li>
+<ol><li>www.google.com (7713)</li>
 <li>mail.google.com (5458)</li>
 <li>outlook.office.com (2975)</li>
 <li>www.facebook.com (2468)</li>
 <li>docs.google.com (1792)</li>
 <li>calendar.google.com (1242)</li>
-<li>www.amazon.co.uk (1136)</li>
+<li>www.amazon.co.uk (1138)</li>
 <li>www.reddit.com (1110)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
 <li>github.com (996)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (552)</li>
 <li>www.linkedin.com (495)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>kdp.amazon.com (422)</li>
+<li>kdp.amazon.com (423)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
 <li>drive.google.com (397)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:40 docs.google.com</li>
+<ul><li> 13:31 www.amazon.co.uk</li>
+<li> 13:28 kdp.amazon.com</li>
+<li> 13:28 www.amazon.co.uk</li>
+<li> 13:28 www.etsy.com</li>
+<li class='same'> 13:27 www.etsy.com</li>
+<li> 13:27 www.google.com</li>
+<li> 13:26 grillustration-blog.tumblr.com</li>
+<li> 13:26 www.artstation.com</li>
+<li> 13:26 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:51 chatgpt.com</li>
+<li> 12:40 docs.google.com</li>
 </ul>
 
 <br>
