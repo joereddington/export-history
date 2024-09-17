@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5458)</li>
 <li>outlook.office.com (2975)</li>
 <li>www.facebook.com (2468)</li>
-<li>docs.google.com (1790)</li>
+<li>docs.google.com (1792)</li>
 <li>calendar.google.com (1242)</li>
 <li>www.amazon.co.uk (1136)</li>
 <li>www.reddit.com (1110)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (422)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (396)</li>
+<li>drive.google.com (397)</li>
 <li>web.whatsapp.com (392)</li>
 <li>outlook.office365.com (376)</li>
 <li>login.microsoftonline.com (362)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:39 www.google.com</li>
+<ul><li> 12:40 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:52 chatgpt.com</li>
+<li class='same'> 11:51 chatgpt.com</li>
+<li> 11:42 docs.google.com</li>
+<li> 11:42 drive.google.com</li>
+<li> 11:39 www.google.com</li>
 <li> 11:33 <a href="https://www.youtube.com/watch?v=H7xCo0CJ02A">(20) Investment Analyst Explains Margin Call - YouTube</a></li>
 <li> 11:31 <a href="https://www.youtube.com/watch?v=1ycYGuI8SkU">(20) BEST of MARGIN CALL #6 - Fire Sale of Mortgage Bonds - YouTube</a></li>
 <li> 11:26 <a href="https://www.youtube.com/watch?v=RR4_mLmR1FE">(20) BEST of MARGIN CALL #5 - Fire Sale Pep Talk - YouTube</a></li>
