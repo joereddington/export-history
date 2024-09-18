@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7736)</li>
+<ol><li>www.google.com (7743)</li>
 <li>mail.google.com (5464)</li>
 <li>outlook.office.com (2993)</li>
 <li>www.facebook.com (2468)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
 <li>chat.openai.com (589)</li>
-<li>www.theguardian.com (578)</li>
+<li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.linkedin.com (495)</li>
 <li>en.m.wikipedia.org (488)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:42 calendar.google.com</li>
+<ul><li> 19:55 www.theguardian.com</li>
+<li> 19:42 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:23 www.theguardian.com</li>
+<li class='same'> 14:21 www.theguardian.com</li>
+<li class='same'> 14:20 www.theguardian.com</li>
+<li> 14:20 www.natesilver.net</li>
+<li> 14:19 www.google.com</li>
 </ul>
 
 <br>
@@ -159,7 +169,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 05:49 lancashire-self.achieveservice.com</li>
+<ul><li> 07:54 www.google.com</li>
+<li class='same'> 07:53 www.google.com</li>
+<li class='same'> 07:52 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 05:57 www.google.com</li>
+<li> 05:57 x.com</li>
+<li> 05:57 www.google.com</li>
+<li> 05:56 www.natesilver.net</li>
+<li class='same'> 05:53 www.natesilver.net</li>
+<li> 05:52 www.google.com</li>
+<li> 05:50 www.theguardian.com</li>
+<li class='same'> 05:49 www.theguardian.com</li>
+<li> 05:49 lancashire-self.achieveservice.com</li>
 </ul>
 
 <H3>Tuesday, 17/09/24</H3>
