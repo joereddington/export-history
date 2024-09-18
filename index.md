@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7736)</li>
+<ol><li>www.google.com (7734)</li>
 <li>mail.google.com (5464)</li>
 <li>outlook.office.com (2984)</li>
 <li>www.facebook.com (2468)</li>
-<li>docs.google.com (1793)</li>
+<li>docs.google.com (1794)</li>
 <li>calendar.google.com (1242)</li>
-<li>www.amazon.co.uk (1140)</li>
-<li>www.reddit.com (1120)</li>
+<li>www.amazon.co.uk (1141)</li>
+<li>www.reddit.com (1121)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (622)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
-<li>chat.openai.com (588)</li>
+<li>chat.openai.com (589)</li>
 <li>www.theguardian.com (578)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.linkedin.com (495)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (423)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (398)</li>
+<li>drive.google.com (399)</li>
 <li>web.whatsapp.com (395)</li>
 <li>outlook.office365.com (376)</li>
 <li>login.microsoftonline.com (366)</li>
@@ -108,6 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 09:19 chatgpt.com</li>
+<li class='same'> 09:18 chatgpt.com</li>
+<li> 09:09 docs.google.com</li>
+<li> 09:09 chatgpt.com</li>
+<li> 09:09 chat.openai.com</li>
+<li> 09:09 drive.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 05:49 lancashire-self.achieveservice.com</li>
 </ul>
 
@@ -119,7 +129,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:34 www.google.com</li>
+<ul><li> 20:38 www.amazon.co.uk</li>
+<li> 20:38 www.google.com</li>
+<li> 20:37 www.kickstarter.com</li>
+<li class='same'> 20:36 www.kickstarter.com</li>
+<li class='same'> 20:35 www.kickstarter.com</li>
+<li> 20:34 www.reddit.com</li>
+<li> 20:34 www.google.com</li>
 <li> 20:34 www.giantitp.com</li>
 <li class='same'> 20:33 www.giantitp.com</li>
 <li class='same'> 20:32 www.giantitp.com</li>
@@ -13924,8 +13940,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:25 whitewaterwriters.com</li>
 <li class='same'> 12:24 whitewaterwriters.com</li>
 <li> 12:13 www.nhs.uk</li>
-<li> 12:13 www.google.com</li>
-<li class='same'> 12:12 www.google.com</li>
 <li> 12:11 <a href="https://en.wikipedia.org/wiki/Haemophilus_influenzae">Haemophilus influenzae - Wikipedia</a></li>
 <li> 12:10 www.nhs.uk</li>
 <li> 12:10 www.google.com</li>
@@ -13978,7 +13992,6 @@ With number of accesses/minutes in parentheses
 <li> 10:58 outlook.office.com</li>
 <li> 10:57 whitewaterwriters.com</li>
 <li class='same'> 10:56 whitewaterwriters.com</li>
-<li> 10:55 www.google.com</li>
 <li> 10:54 pubchem.ncbi.nlm.nih.gov</li>
 <li> 10:54 www.google.com</li>
 <li> 10:53 www.moonpig.com</li>
