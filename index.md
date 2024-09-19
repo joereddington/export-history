@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5464)</li>
 <li>outlook.office.com (2993)</li>
 <li>www.facebook.com (2468)</li>
-<li>docs.google.com (1794)</li>
+<li>docs.google.com (1795)</li>
 <li>calendar.google.com (1243)</li>
 <li>www.amazon.co.uk (1142)</li>
 <li>www.reddit.com (1121)</li>
@@ -82,15 +82,15 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (622)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
-<li>chat.openai.com (589)</li>
+<li>chat.openai.com (590)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.linkedin.com (495)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (423)</li>
 <li>forum.artofmemory.com (403)</li>
+<li>drive.google.com (400)</li>
 <li>teams.microsoft.com (400)</li>
-<li>drive.google.com (399)</li>
 <li>web.whatsapp.com (395)</li>
 <li>outlook.office365.com (376)</li>
 <li>login.microsoftonline.com (368)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:57 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<ul><li> 07:07 chatgpt.com</li>
+<li> 07:07 chat.openai.com</li>
+<li> 07:04 docs.google.com</li>
+<li> 07:04 drive.google.com</li>
+<li> 06:57 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 06:56 adblockplus.org</li>
 <li> 06:56 feedly.com</li>
 </ul>
