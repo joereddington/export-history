@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7771)</li>
 <li>mail.google.com (5478)</li>
-<li>outlook.office.com (3047)</li>
+<li>outlook.office.com (3053)</li>
 <li>www.facebook.com (2475)</li>
 <li>docs.google.com (1795)</li>
 <li>calendar.google.com (1247)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (370)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (300)</li>
-<li>www.giantitp.com (289)</li>
+<li>www.giantitp.com (290)</li>
 <li>Local file (270)</li>
 
 
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:08 outlook.office.com</li>
+<ul><li> 16:30 www.giantitp.com</li>
+<li> 16:29 outlook.office.com</li>
+<li class='same'> 16:27 outlook.office.com</li>
+<li class='same'> 16:26 outlook.office.com</li>
+<li> 16:25 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 16:21 outlook.office.com</li>
+<li class='same'> 16:19 outlook.office.com</li>
+<li class='same'> 16:18 outlook.office.com</li>
+<li class='same'> 16:08 outlook.office.com</li>
 <li class='same'> 16:07 outlook.office.com</li>
 <li> 16:06 calendar.google.com</li>
 <li> 16:06 outlook.office.com</li>
