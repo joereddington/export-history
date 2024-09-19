@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7767)</li>
+<ol><li>www.google.com (7771)</li>
 <li>mail.google.com (5478)</li>
-<li>outlook.office.com (3034)</li>
+<li>outlook.office.com (3047)</li>
 <li>www.facebook.com (2475)</li>
 <li>docs.google.com (1795)</li>
-<li>calendar.google.com (1246)</li>
+<li>calendar.google.com (1247)</li>
 <li>www.amazon.co.uk (1142)</li>
 <li>www.reddit.com (1125)</li>
 <li>moodle.royalholloway.ac.uk (1080)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (592)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.linkedin.com (499)</li>
+<li>www.linkedin.com (501)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (423)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:54 www.atlanticcouncil.org</li>
+<ul><li> 16:08 outlook.office.com</li>
+<li class='same'> 16:07 outlook.office.com</li>
+<li> 16:06 calendar.google.com</li>
+<li> 16:06 outlook.office.com</li>
+<li class='same'> 16:03 outlook.office.com</li>
+<li class='same'> 16:01 outlook.office.com</li>
+<li class='same'> 15:53 outlook.office.com</li>
+<li class='same'> 15:52 outlook.office.com</li>
+<li class='same'> 15:48 outlook.office.com</li>
+<li class='same'> 15:47 outlook.office.com</li>
+<li class='same'> 15:44 outlook.office.com</li>
+<li class='same'> 15:41 outlook.office.com</li>
+<li class='same'> 15:40 outlook.office.com</li>
+<li> 15:27 members.ciisec.org</li>
+<li> 15:27 www.google.com</li>
+<li> 15:26 www.linkedin.com</li>
+<li class='same'> 15:23 www.linkedin.com</li>
+<li> 15:22 blogs.kent.ac.uk</li>
+<li> 15:22 www.google.com</li>
+<li> 15:22 www.ciisec.org</li>
+<li> 15:22 www.google.com</li>
+<li class='same'> 15:21 www.google.com</li>
+<li> 15:20 outlook.office.com</li>
+<li> 14:54 www.atlanticcouncil.org</li>
 <li class='same'> 14:53 www.atlanticcouncil.org</li>
 <li> 14:52 www.google.com</li>
 <li> 14:49 outlook.office.com</li>
