@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7744)</li>
-<li>mail.google.com (5464)</li>
-<li>outlook.office.com (3002)</li>
+<ol><li>www.google.com (7755)</li>
+<li>mail.google.com (5465)</li>
+<li>outlook.office.com (3016)</li>
 <li>www.facebook.com (2468)</li>
 <li>docs.google.com (1795)</li>
 <li>calendar.google.com (1244)</li>
 <li>www.amazon.co.uk (1142)</li>
-<li>www.reddit.com (1121)</li>
+<li>www.reddit.com (1122)</li>
 <li>moodle.royalholloway.ac.uk (1080)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (622)</li>
+<li>gmail.com (623)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
 <li>chat.openai.com (591)</li>
@@ -108,7 +108,58 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:15 outlook.office.com</li>
+<ul><li> 11:17 outlook.office.com</li>
+<li class='same'> 11:16 outlook.office.com</li>
+<li class='same'> 11:15 outlook.office.com</li>
+<li> 11:15 www.reading.ac.uk</li>
+<li> 11:15 www.google.com</li>
+<li> 11:14 lsbu-uk.libstaffer.com</li>
+<li> 11:14 library.lsbu.ac.uk</li>
+<li> 11:13 www.google.com</li>
+<li> 11:13 libbyapp.com</li>
+<li class='same'> 11:12 libbyapp.com</li>
+<li class='same'> 11:11 libbyapp.com</li>
+<li> 11:11 www.overdrive.com</li>
+<li> 11:11 bpl.overdrive.com</li>
+<li> 11:10 houstonlibrary.overdrive.com</li>
+<li> 11:10 www.reddit.com</li>
+<li> 11:09 www.google.com</li>
+<li> 11:08 library.cranfield.ac.uk</li>
+<li> 11:08 www.google.com</li>
+<li> 11:02 virtual-library.culturalservices.net</li>
+<li class='same'> 11:01 virtual-library.culturalservices.net</li>
+<li> 11:01 support.mozilla.org</li>
+<li> 11:00 virtual-library.culturalservices.net</li>
+<li> 11:00 www.bedford.gov.uk</li>
+<li> 11:00 www.google.com</li>
+<li> 10:56 outlook.office.com</li>
+<li> 10:55 support.mozilla.org</li>
+<li> 10:55 www.google.com</li>
+<li> 10:55 support.mozilla.org</li>
+<li> 10:54 www.google.com</li>
+<li> 10:53 support.mozilla.org</li>
+<li> 10:53 www.google.com</li>
+<li> 10:53 virtual-library.culturalservices.net</li>
+<li> 10:53 www.bedford.gov.uk</li>
+<li> 10:53 www.google.com</li>
+<li> 10:52 mail.google.com</li>
+<li> 10:52 gmail.com</li>
+<li> 10:52 herts.spydus.co.uk</li>
+<li class='same'> 10:51 herts.spydus.co.uk</li>
+<li> 10:51 www.hertfordshire.gov.uk</li>
+<li> 10:51 www.google.com</li>
+<li class='same'> 10:46 www.google.com</li>
+<li> 10:45 outlook.office.com</li>
+<li class='same'> 10:43 outlook.office.com</li>
+<li class='same'> 10:42 outlook.office.com</li>
+<li class='same'> 10:41 outlook.office.com</li>
+<li class='same'> 10:37 outlook.office.com</li>
+<li class='same'> 10:36 outlook.office.com</li>
+<li class='same'> 10:35 outlook.office.com</li>
+<li class='same'> 10:29 outlook.office.com</li>
+<li class='same'> 10:27 outlook.office.com</li>
+<li class='same'> 10:17 outlook.office.com</li>
+<li class='same'> 10:15 outlook.office.com</li>
 <li class='same'> 09:52 outlook.office.com</li>
 <li class='same'> 09:51 outlook.office.com</li>
 <li> 09:50 chatgpt.com</li>
