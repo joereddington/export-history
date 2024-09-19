@@ -69,29 +69,29 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7755)</li>
-<li>mail.google.com (5465)</li>
-<li>outlook.office.com (3016)</li>
-<li>www.facebook.com (2468)</li>
+<li>mail.google.com (5472)</li>
+<li>outlook.office.com (3021)</li>
+<li>www.facebook.com (2475)</li>
 <li>docs.google.com (1795)</li>
-<li>calendar.google.com (1244)</li>
+<li>calendar.google.com (1245)</li>
 <li>www.amazon.co.uk (1142)</li>
 <li>www.reddit.com (1122)</li>
 <li>moodle.royalholloway.ac.uk (1080)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (623)</li>
+<li>gmail.com (624)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
 <li>chat.openai.com (591)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.linkedin.com (495)</li>
+<li>www.linkedin.com (498)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (423)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>drive.google.com (400)</li>
 <li>teams.microsoft.com (400)</li>
-<li>web.whatsapp.com (395)</li>
+<li>web.whatsapp.com (398)</li>
 <li>outlook.office365.com (376)</li>
 <li>login.microsoftonline.com (369)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:17 outlook.office.com</li>
+<ul><li> 11:47 mail.google.com</li>
+<li class='same'> 11:46 mail.google.com</li>
+<li> 11:46 www.imdb.com</li>
+<li> 11:46 mail.google.com</li>
+<li class='same'> 11:45 mail.google.com</li>
+<li> 11:45 calendar.google.com</li>
+<li> 11:45 mail.google.com</li>
+<li class='same'> 11:44 mail.google.com</li>
+<li> 11:43 web.whatsapp.com</li>
+<li> 11:43 mail.google.com</li>
+<li> 11:43 gmail.com</li>
+<li> 11:42 outlook.office.com</li>
+<li> 11:42 www.facebook.com</li>
+<li class='same'> 11:41 www.facebook.com</li>
+<li class='same'> 11:40 www.facebook.com</li>
+<li class='same'> 11:39 www.facebook.com</li>
+<li class='same'> 11:38 www.facebook.com</li>
+<li class='same'> 11:37 www.facebook.com</li>
+<li> 11:35 web.whatsapp.com</li>
+<li> 11:32 www.facebook.com</li>
+<li> 11:32 www.linkedin.com</li>
+<li class='same'> 11:31 www.linkedin.com</li>
+<li class='same'> 11:30 www.linkedin.com</li>
+<li> 11:30 outlook.office.com</li>
+<li class='same'> 11:29 outlook.office.com</li>
+<li> 11:24 rhul-my.sharepoint.com</li>
+<li> 11:20 outlook.office.com</li>
+<li class='same'> 11:19 outlook.office.com</li>
+<li> 11:19 web.whatsapp.com</li>
+<li> 11:17 outlook.office.com</li>
 <li class='same'> 11:16 outlook.office.com</li>
 <li class='same'> 11:15 outlook.office.com</li>
 <li> 11:15 www.reading.ac.uk</li>
