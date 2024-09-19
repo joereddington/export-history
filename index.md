@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7742)</li>
+<ol><li>www.google.com (7744)</li>
 <li>mail.google.com (5464)</li>
-<li>outlook.office.com (2993)</li>
+<li>outlook.office.com (3002)</li>
 <li>www.facebook.com (2468)</li>
 <li>docs.google.com (1795)</li>
-<li>calendar.google.com (1243)</li>
+<li>calendar.google.com (1244)</li>
 <li>www.amazon.co.uk (1142)</li>
 <li>www.reddit.com (1121)</li>
 <li>moodle.royalholloway.ac.uk (1080)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (622)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
-<li>chat.openai.com (590)</li>
+<li>chat.openai.com (591)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.linkedin.com (495)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (400)</li>
 <li>web.whatsapp.com (395)</li>
 <li>outlook.office365.com (376)</li>
-<li>login.microsoftonline.com (368)</li>
+<li>login.microsoftonline.com (369)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (297)</li>
 <li>www.giantitp.com (289)</li>
@@ -105,6 +105,31 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 19/09/24</H3>
+
+<br>
+
+<ul><li> 10:15 outlook.office.com</li>
+<li class='same'> 09:52 outlook.office.com</li>
+<li class='same'> 09:51 outlook.office.com</li>
+<li> 09:50 chatgpt.com</li>
+<li> 09:50 chat.openai.com</li>
+<li> 09:49 outlook.office.com</li>
+<li class='same'> 09:45 outlook.office.com</li>
+<li class='same'> 09:44 outlook.office.com</li>
+<li class='same'> 09:40 outlook.office.com</li>
+<li class='same'> 09:39 outlook.office.com</li>
+<li> 09:37 pure.royalholloway.ac.uk</li>
+<li> 09:37 www.google.com</li>
+<li> 09:36 outlook.office.com</li>
+<li> 09:36 login.microsoftonline.com</li>
+<li> 09:36 calendar.google.com</li>
+<li> 09:35 x.com</li>
+<li class='same'> 09:29 x.com</li>
+<li class='same'> 09:27 x.com</li>
+<li class='same'> 09:25 x.com</li>
+<li> 09:25 twitter.com</li>
+<li> 09:24 www.google.com</li>
+</ul>
 
 <br>
 
