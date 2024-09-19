@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7755)</li>
-<li>mail.google.com (5472)</li>
-<li>outlook.office.com (3021)</li>
+<ol><li>www.google.com (7757)</li>
+<li>mail.google.com (5477)</li>
+<li>outlook.office.com (3024)</li>
 <li>www.facebook.com (2475)</li>
 <li>docs.google.com (1795)</li>
-<li>calendar.google.com (1245)</li>
+<li>calendar.google.com (1246)</li>
 <li>www.amazon.co.uk (1142)</li>
-<li>www.reddit.com (1122)</li>
+<li>www.reddit.com (1124)</li>
 <li>moodle.royalholloway.ac.uk (1080)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (624)</li>
+<li>gmail.com (625)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
 <li>chat.openai.com (591)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.linkedin.com (498)</li>
+<li>www.linkedin.com (499)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (423)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 19/09/24</H3>
+
+<br>
+
+<ul><li> 13:03 www.google.com</li>
+<li> 13:02 mail.google.com</li>
+<li> 13:02 www.reddit.com</li>
+<li class='same'> 13:00 www.reddit.com</li>
+<li> 13:00 www.google.com</li>
+<li> 13:00 mail.google.com</li>
+<li class='same'> 12:59 mail.google.com</li>
+<li> 12:59 gmail.com</li>
+<li> 12:59 mail.google.com</li>
+<li> 12:55 outlook.office.com</li>
+<li class='same'> 12:53 outlook.office.com</li>
+<li class='same'> 12:52 outlook.office.com</li>
+<li> 12:52 www.linkedin.com</li>
+<li> 12:50 fritz.box</li>
+<li class='same'> 12:49 fritz.box</li>
+<li class='same'> 12:47 fritz.box</li>
+<li> 12:46 mail.google.com</li>
+<li> 12:46 calendar.google.com</li>
+</ul>
 
 <br>
 
