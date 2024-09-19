@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7757)</li>
-<li>mail.google.com (5477)</li>
-<li>outlook.office.com (3024)</li>
+<ol><li>www.google.com (7764)</li>
+<li>mail.google.com (5478)</li>
+<li>outlook.office.com (3031)</li>
 <li>www.facebook.com (2475)</li>
 <li>docs.google.com (1795)</li>
 <li>calendar.google.com (1246)</li>
 <li>www.amazon.co.uk (1142)</li>
-<li>www.reddit.com (1124)</li>
+<li>www.reddit.com (1125)</li>
 <li>moodle.royalholloway.ac.uk (1080)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (625)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
-<li>chat.openai.com (591)</li>
+<li>chat.openai.com (592)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
 <li>www.linkedin.com (499)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (423)</li>
 <li>forum.artofmemory.com (403)</li>
+<li>teams.microsoft.com (402)</li>
 <li>drive.google.com (400)</li>
-<li>teams.microsoft.com (400)</li>
-<li>web.whatsapp.com (398)</li>
+<li>web.whatsapp.com (399)</li>
 <li>outlook.office365.com (376)</li>
-<li>login.microsoftonline.com (369)</li>
+<li>login.microsoftonline.com (370)</li>
 <li>bsky.app (313)</li>
-<li>rhul.sharepoint.com (297)</li>
+<li>rhul.sharepoint.com (300)</li>
 <li>www.giantitp.com (289)</li>
 <li>Local file (270)</li>
 
@@ -105,6 +105,49 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 19/09/24</H3>
+
+<br>
+
+<ul><li> 14:16 www.google.com</li>
+<li class='same'> 14:15 www.google.com</li>
+<li> 14:15 www.ciisec.org</li>
+<li> 14:14 www.google.com</li>
+<li> 14:09 otter.ai</li>
+<li> 14:06 rhul.sharepoint.com</li>
+<li class='same'> 14:05 rhul.sharepoint.com</li>
+<li> 14:05 login.microsoftonline.com</li>
+<li> 14:05 rhul.sharepoint.com</li>
+<li> 14:05 rhul-my.sharepoint.com</li>
+<li> 14:04 otter.ai</li>
+<li> 14:04 help.otter.ai</li>
+<li> 14:03 otter.ai</li>
+<li class='same'> 14:02 otter.ai</li>
+<li> 14:01 www.nestpensions.org.uk</li>
+<li> 14:01 mail.google.com</li>
+<li> 14:00 fabienb.blog</li>
+<li> 13:59 www.reddit.com</li>
+<li> 13:59 www.google.com</li>
+<li> 13:58 teams.microsoft.com</li>
+<li class='same'> 13:57 teams.microsoft.com</li>
+<li> 13:54 outlook.office.com</li>
+<li> 13:52 chatgpt.com</li>
+<li class='same'> 13:51 chatgpt.com</li>
+<li> 13:51 chat.openai.com</li>
+<li> 13:51 outlook.office.com</li>
+<li class='same'> 13:48 outlook.office.com</li>
+<li> 13:48 rhul-my.sharepoint.com</li>
+<li> 13:48 outlook.office.com</li>
+<li class='same'> 13:47 outlook.office.com</li>
+<li> 13:47 otter.ai</li>
+<li> 13:47 www.google.com</li>
+<li> 13:45 outlook.office.com</li>
+<li> 13:44 intranet.royalholloway.ac.uk</li>
+<li> 13:44 www.google.com</li>
+<li> 13:44 intranet.royalholloway.ac.uk</li>
+<li> 13:44 www.google.com</li>
+<li> 13:38 outlook.office.com</li>
+<li> 13:37 web.whatsapp.com</li>
+</ul>
 
 <br>
 
