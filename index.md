@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7776)</li>
+<ol><li>www.google.com (7773)</li>
 <li>mail.google.com (5480)</li>
 <li>outlook.office.com (3069)</li>
 <li>www.facebook.com (2478)</li>
@@ -13902,10 +13902,8 @@ With number of accesses/minutes in parentheses
 <li> 14:21 kdpreports.amazon.com</li>
 <li> 14:21 kdp.amazon.com</li>
 <li class='same'> 14:20 kdp.amazon.com</li>
-<li> 14:18 cc.amazon.com</li>
-<li> 14:18 kdp.amazon.com</li>
-<li> 14:17 cc.amazon.com</li>
-<li> 14:16 kdp.amazon.com</li>
+<li class='same'> 14:18 kdp.amazon.com</li>
+<li class='same'> 14:16 kdp.amazon.com</li>
 <li> 14:16 whitewaterwriters.com</li>
 <li class='same'> 14:15 whitewaterwriters.com</li>
 <li> 14:15 kdp.amazon.com</li>
@@ -13919,7 +13917,6 @@ With number of accesses/minutes in parentheses
 <li> 14:08 kdp.amazon.com</li>
 <li> 14:07 whitewaterwriters.com</li>
 <li> 14:06 kdp.amazon.com</li>
-<li> 14:05 cc.amazon.com</li>
 <li> 14:05 whitewaterwriters.com</li>
 <li> 14:03 kdp.amazon.com</li>
 <li> 14:02 whitewaterwriters.com</li>
@@ -13980,10 +13977,8 @@ With number of accesses/minutes in parentheses
 <li> 11:15 www.google.com</li>
 <li> 11:15 kdp.amazon.com</li>
 <li> 11:11 whitewaterwriters.com</li>
-<li> 11:10 cc.amazon.com</li>
 <li> 11:10 kdp.amazon.com</li>
-<li> 11:09 cc.amazon.com</li>
-<li> 11:08 kdp.amazon.com</li>
+<li class='same'> 11:08 kdp.amazon.com</li>
 <li> 11:08 whitewaterwriters.com</li>
 <li class='same'> 10:56 whitewaterwriters.com</li>
 <li> 10:54 en.m.wikipedia.org</li>
@@ -13998,12 +13993,10 @@ With number of accesses/minutes in parentheses
 <li> 10:45 kdpreports.amazon.com</li>
 <li> 10:43 whitewaterwriters.com</li>
 <li> 10:42 discord.com</li>
-<li> 10:42 cc.amazon.com</li>
 <li> 10:42 kdp.amazon.com</li>
 <li> 10:42 discord.com</li>
 <li> 10:41 whitewaterwriters.com</li>
 <li class='same'> 10:31 whitewaterwriters.com</li>
-<li> 10:28 cc.amazon.com</li>
 <li> 10:28 kdp.amazon.com</li>
 <li> 10:27 www.google.com</li>
 <li> 10:26 kdp.amazon.com</li>
@@ -14012,15 +14005,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:22 www.midjourney.com</li>
 <li> 10:15 whitewaterwriters.com</li>
 <li> 10:09 discord.com</li>
-<li> 10:09 www.midjourney.com</li>
-<li> 10:08 discord.com</li>
 <li> 10:08 www.midjourney.com</li>
 <li> 10:08 discord.com</li>
 <li> 10:08 www.reddit.com</li>
 <li> 10:07 www.google.com</li>
 <li> 10:07 discord.com</li>
-<li> 10:06 www.midjourney.com</li>
-<li> 10:06 discord.com</li>
 <li> 10:06 www.midjourney.com</li>
 <li> 10:06 docs.midjourney.com</li>
 <li> 10:06 www.google.com</li>
@@ -14039,11 +14028,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:53 discord.com</li>
 <li> 09:34 www.amazon.co.uk</li>
 <li> 09:28 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
-<li> 09:27 www.google.com</li>
-<li class='same'> 09:26 www.google.com</li>
 <li> 09:25 www.facebook.com</li>
-<li> 09:24 www.google.com</li>
-<li class='same'> 09:23 www.google.com</li>
+<li> 09:23 www.google.com</li>
 <li> 09:19 whitewaterwriters.com</li>
 <li class='same'> 09:16 whitewaterwriters.com</li>
 <li> 09:13 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
