@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7775)</li>
 <li>mail.google.com (5479)</li>
-<li>outlook.office.com (3059)</li>
-<li>www.facebook.com (2477)</li>
+<li>outlook.office.com (3061)</li>
+<li>www.facebook.com (2478)</li>
 <li>docs.google.com (1797)</li>
-<li>calendar.google.com (1248)</li>
+<li>calendar.google.com (1249)</li>
 <li>www.amazon.co.uk (1145)</li>
 <li>www.reddit.com (1125)</li>
 <li>moodle.royalholloway.ac.uk (1080)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:19 www.facebook.com</li>
+<ul><li> 07:27 outlook.office.com</li>
+<li class='same'> 07:26 outlook.office.com</li>
+<li> 07:25 webtimetables.royalholloway.ac.uk</li>
+<li> 07:24 intranet.royalholloway.ac.uk</li>
+<li> 07:23 webtimetables.royalholloway.ac.uk</li>
+<li> 07:23 calendar.google.com</li>
+<li> 07:20 www.facebook.com</li>
+<li class='same'> 07:19 www.facebook.com</li>
 <li class='same'> 07:18 www.facebook.com</li>
 <li> 07:18 www.linkedin.com</li>
 <li> 07:17 outlook.office.com</li>
