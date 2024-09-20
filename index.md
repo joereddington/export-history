@@ -70,12 +70,12 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7773)</li>
 <li>mail.google.com (5481)</li>
-<li>outlook.office.com (3073)</li>
+<li>outlook.office.com (3077)</li>
 <li>www.facebook.com (2481)</li>
 <li>docs.google.com (1797)</li>
 <li>calendar.google.com (1251)</li>
 <li>www.amazon.co.uk (1145)</li>
-<li>www.reddit.com (1125)</li>
+<li>www.reddit.com (1126)</li>
 <li>moodle.royalholloway.ac.uk (1080)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (592)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.linkedin.com (506)</li>
+<li>www.linkedin.com (507)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (423)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:09 outlook.office.com</li>
+<ul><li> 09:36 outlook.office.com</li>
+<li class='same'> 09:35 outlook.office.com</li>
+<li> 09:30 www.linkedin.com</li>
+<li> 09:29 www.reddit.com</li>
+<li> 09:28 dashboards.rhul.ac.uk</li>
+<li> 09:27 outlook.office.com</li>
+<li class='same'> 09:18 outlook.office.com</li>
+<li class='same'> 09:09 outlook.office.com</li>
 <li> 09:09 calendar.google.com</li>
 <li> 09:06 dashboards.rhul.ac.uk</li>
 <li class='same'> 09:05 dashboards.rhul.ac.uk</li>
