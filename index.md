@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7789)</li>
-<li>mail.google.com (5510)</li>
-<li>outlook.office.com (3135)</li>
+<ol><li>www.google.com (7790)</li>
+<li>mail.google.com (5512)</li>
+<li>outlook.office.com (3138)</li>
 <li>www.facebook.com (2493)</li>
-<li>docs.google.com (1799)</li>
-<li>calendar.google.com (1258)</li>
+<li>docs.google.com (1801)</li>
+<li>calendar.google.com (1259)</li>
 <li>www.amazon.co.uk (1154)</li>
 <li>www.reddit.com (1131)</li>
-<li>moodle.royalholloway.ac.uk (1080)</li>
+<li>moodle.royalholloway.ac.uk (1082)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (631)</li>
+<li>gmail.com (632)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
-<li>chat.openai.com (593)</li>
+<li>chat.openai.com (594)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (553)</li>
-<li>www.linkedin.com (518)</li>
+<li>www.linkedin.com (520)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (428)</li>
 <li>teams.microsoft.com (404)</li>
+<li>web.whatsapp.com (404)</li>
 <li>drive.google.com (403)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>web.whatsapp.com (403)</li>
 <li>outlook.office365.com (378)</li>
-<li>login.microsoftonline.com (371)</li>
+<li>login.microsoftonline.com (372)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (302)</li>
 <li>www.giantitp.com (291)</li>
@@ -108,9 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:05 drive.usercontent.google.com</li>
+<ul><li> 16:13 docs.google.com</li>
+<li class='same'> 16:00 docs.google.com</li>
+<li> 15:55 calendar.google.com</li>
+<li> 15:53 www.linkedin.com</li>
+<li> 15:52 web.whatsapp.com</li>
+<li> 15:51 mail.google.com</li>
+<li> 15:51 gmail.com</li>
+<li> 15:51 mail.google.com</li>
+<li> 15:51 www.linkedin.com</li>
+<li> 15:51 outlook.office.com</li>
+<li> 15:51 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:50 moodle.royalholloway.ac.uk</li>
+<li> 15:50 login.microsoftonline.com</li>
+<li> 15:50 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:09 www.webmd.com</li>
+<li> 15:09 www.google.com</li>
+<li> 15:09 chatgpt.com</li>
+<li class='same'> 15:07 chatgpt.com</li>
+<li> 15:07 chat.openai.com</li>
+<li> 15:05 drive.usercontent.google.com</li>
 <li> 15:05 drive.google.com</li>
 <li class='same'> 15:04 drive.google.com</li>
+<li> 15:04 outlook.office.com</li>
 <li> 15:03 mail.google.com</li>
 <li> 15:03 gmail.com</li>
 <li> 15:02 mail.google.com</li>
