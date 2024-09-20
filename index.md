@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7774)</li>
-<li>mail.google.com (5481)</li>
-<li>outlook.office.com (3085)</li>
+<ol><li>www.google.com (7780)</li>
+<li>mail.google.com (5484)</li>
+<li>outlook.office.com (3093)</li>
 <li>www.facebook.com (2481)</li>
 <li>docs.google.com (1798)</li>
-<li>calendar.google.com (1255)</li>
-<li>www.amazon.co.uk (1147)</li>
-<li>www.reddit.com (1126)</li>
+<li>calendar.google.com (1256)</li>
+<li>www.amazon.co.uk (1154)</li>
+<li>www.reddit.com (1128)</li>
 <li>moodle.royalholloway.ac.uk (1080)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (626)</li>
+<li>gmail.com (628)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
 <li>chat.openai.com (592)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.linkedin.com (507)</li>
+<li>www.linkedin.com (508)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (425)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (300)</li>
 <li>www.giantitp.com (290)</li>
-<li>Local file (270)</li>
+<li>www.ebay.co.uk (270)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:24 www.amazon.co.uk</li>
+<ul><li> 11:28 www.lsbu.ac.uk</li>
+<li> 11:28 www.google.com</li>
+<li> 11:27 outlook.office.com</li>
+<li class='same'> 11:26 outlook.office.com</li>
+<li> 11:14 dashboards.rhul.ac.uk</li>
+<li> 11:10 outlook.office.com</li>
+<li> 11:04 delayrepay.avantiwestcoast.co.uk</li>
+<li> 11:02 outlook.office.com</li>
+<li class='same'> 10:53 outlook.office.com</li>
+<li class='same'> 10:52 outlook.office.com</li>
+<li class='same'> 10:51 outlook.office.com</li>
+<li class='same'> 10:50 outlook.office.com</li>
+<li> 10:49 mail.google.com</li>
+<li> 10:48 www.citizensadvice.org.uk</li>
+<li> 10:48 www.google.com</li>
+<li> 10:45 www.linkedin.com</li>
+<li> 10:44 delayrepay.avantiwestcoast.co.uk</li>
+<li> 10:42 mail.google.com</li>
+<li> 10:42 gmail.com</li>
+<li> 10:38 delayrepay.avantiwestcoast.co.uk</li>
+<li> 10:38 mail.google.com</li>
+<li> 10:38 gmail.com</li>
+<li> 10:38 delayrepay.avantiwestcoast.co.uk</li>
+<li class='same'> 10:37 delayrepay.avantiwestcoast.co.uk</li>
+<li> 10:37 www.avantiwestcoast.co.uk</li>
+<li> 10:37 www.google.com</li>
+<li class='same'> 10:36 www.google.com</li>
+<li> 10:36 calendar.google.com</li>
+<li> 10:34 www.amazon.co.uk</li>
+<li> 10:34 www.reddit.com</li>
+<li class='same'> 10:31 www.reddit.com</li>
+<li> 10:31 www.google.com</li>
+<li> 10:31 www.amazon.co.uk</li>
+<li> 10:30 www.ebay.co.uk</li>
+<li class='same'> 10:29 www.ebay.co.uk</li>
+<li> 10:29 www.amazon.co.uk</li>
+<li class='same'> 10:28 www.amazon.co.uk</li>
+<li class='same'> 10:27 www.amazon.co.uk</li>
+<li class='same'> 10:26 www.amazon.co.uk</li>
+<li class='same'> 10:25 www.amazon.co.uk</li>
+<li> 10:25 imgur.com</li>
+<li> 10:24 www.google.com</li>
+<li> 10:24 www.amazon.co.uk</li>
 <li class='same'> 10:23 www.amazon.co.uk</li>
 <li> 10:21 kdp.amazon.com</li>
 <li> 10:19 kdpreports.amazon.com</li>
