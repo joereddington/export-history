@@ -70,11 +70,11 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7774)</li>
 <li>mail.google.com (5481)</li>
-<li>outlook.office.com (3084)</li>
+<li>outlook.office.com (3085)</li>
 <li>www.facebook.com (2481)</li>
 <li>docs.google.com (1798)</li>
-<li>calendar.google.com (1254)</li>
-<li>www.amazon.co.uk (1145)</li>
+<li>calendar.google.com (1255)</li>
+<li>www.amazon.co.uk (1147)</li>
 <li>www.reddit.com (1126)</li>
 <li>moodle.royalholloway.ac.uk (1080)</li>
 <li>github.com (996)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (552)</li>
 <li>www.linkedin.com (507)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>kdp.amazon.com (424)</li>
+<li>kdp.amazon.com (425)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (402)</li>
 <li>web.whatsapp.com (401)</li>
@@ -108,12 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:19 kdpreports.amazon.com</li>
+<ul><li> 10:24 www.amazon.co.uk</li>
+<li class='same'> 10:23 www.amazon.co.uk</li>
+<li> 10:21 kdp.amazon.com</li>
+<li> 10:19 kdpreports.amazon.com</li>
 <li> 10:19 kdp.amazon.com</li>
 <li> 10:16 www.google.com</li>
 <li> 10:10 web.whatsapp.com</li>
 <li> 10:10 docs.google.com</li>
-<li> 10:03 outlook.office.com</li>
+<li> 10:07 dashboards.rhul.ac.uk</li>
+<li> 10:06 calendar.google.com</li>
+<li> 10:05 outlook.office.com</li>
+<li class='same'> 10:03 outlook.office.com</li>
 <li class='same'> 10:02 outlook.office.com</li>
 <li> 10:01 calendar.google.com</li>
 <li> 10:00 outlook.office.com</li>
