@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7782)</li>
-<li>mail.google.com (5488)</li>
-<li>outlook.office.com (3118)</li>
+<ol><li>www.google.com (7784)</li>
+<li>mail.google.com (5496)</li>
+<li>outlook.office.com (3135)</li>
 <li>www.facebook.com (2491)</li>
-<li>docs.google.com (1798)</li>
+<li>docs.google.com (1799)</li>
 <li>calendar.google.com (1256)</li>
 <li>www.amazon.co.uk (1154)</li>
-<li>www.reddit.com (1128)</li>
+<li>www.reddit.com (1129)</li>
 <li>moodle.royalholloway.ac.uk (1080)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (628)</li>
+<li>gmail.com (630)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
-<li>chat.openai.com (592)</li>
+<li>chat.openai.com (593)</li>
 <li>www.theguardian.com (584)</li>
-<li>app.qbo.intuit.com (552)</li>
-<li>www.linkedin.com (511)</li>
+<li>app.qbo.intuit.com (553)</li>
+<li>www.linkedin.com (513)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (428)</li>
+<li>teams.microsoft.com (404)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>teams.microsoft.com (402)</li>
-<li>web.whatsapp.com (401)</li>
-<li>drive.google.com (400)</li>
+<li>web.whatsapp.com (402)</li>
+<li>drive.google.com (401)</li>
 <li>outlook.office365.com (378)</li>
-<li>login.microsoftonline.com (370)</li>
+<li>login.microsoftonline.com (371)</li>
 <li>bsky.app (313)</li>
-<li>rhul.sharepoint.com (300)</li>
+<li>rhul.sharepoint.com (302)</li>
 <li>www.giantitp.com (291)</li>
 <li>www.ebay.co.uk (270)</li>
 
@@ -108,7 +108,70 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:24 outlook.office.com</li>
+<ul><li> 14:24 mail.google.com</li>
+<li class='same'> 14:23 mail.google.com</li>
+<li> 14:23 gmail.com</li>
+<li> 14:23 mail.google.com</li>
+<li> 14:21 www.reddit.com</li>
+<li> 14:21 www.google.com</li>
+<li> 14:20 qbo.intuit.com</li>
+<li class='same'> 14:19 qbo.intuit.com</li>
+<li> 14:19 accounts.intuit.com</li>
+<li> 14:19 c14.qbo.intuit.com</li>
+<li> 14:19 app.qbo.intuit.com</li>
+<li> 14:17 mail.google.com</li>
+<li> 14:17 www.nestpensions.org.uk</li>
+<li class='same'> 14:16 www.nestpensions.org.uk</li>
+<li> 14:16 mail.google.com</li>
+<li> 14:16 outlook.office.com</li>
+<li> 14:16 chatgpt.com</li>
+<li class='same'> 14:15 chatgpt.com</li>
+<li> 14:15 chat.openai.com</li>
+<li> 14:15 mail.google.com</li>
+<li> 14:13 docs.google.com</li>
+<li> 14:12 drive.google.com</li>
+<li> 14:11 mail.google.com</li>
+<li> 14:11 otter.ai</li>
+<li> 14:10 help.otter.ai</li>
+<li> 14:10 www.google.com</li>
+<li> 14:07 otter.ai</li>
+<li> 14:07 teams.microsoft.com</li>
+<li> 14:07 login.microsoftonline.com</li>
+<li> 14:06 otter.ai</li>
+<li> 14:06 mail.google.com</li>
+<li> 14:06 gmail.com</li>
+<li> 14:05 www.linkedin.com</li>
+<li class='same'> 14:04 www.linkedin.com</li>
+<li> 14:04 outlook.office.com</li>
+<li class='same'> 14:02 outlook.office.com</li>
+<li class='same'> 14:01 outlook.office.com</li>
+<li class='same'> 14:00 outlook.office.com</li>
+<li class='same'> 13:59 outlook.office.com</li>
+<li class='same'> 13:58 outlook.office.com</li>
+<li class='same'> 13:51 outlook.office.com</li>
+<li class='same'> 13:50 outlook.office.com</li>
+<li> 13:50 intranet.royalholloway.ac.uk</li>
+<li class='same'> 13:49 intranet.royalholloway.ac.uk</li>
+<li> 13:49 open-publishing.org</li>
+<li> 13:48 intranet.royalholloway.ac.uk</li>
+<li> 13:45 rhul.sharepoint.com</li>
+<li class='same'> 13:44 rhul.sharepoint.com</li>
+<li> 13:43 intranet.royalholloway.ac.uk</li>
+<li> 13:42 outlook.office.com</li>
+<li class='same'> 13:40 outlook.office.com</li>
+<li> 13:37 www.stag.group</li>
+<li> 13:36 www.talktosam.co.uk</li>
+<li> 13:36 outlook.office.com</li>
+<li class='same'> 13:34 outlook.office.com</li>
+<li> 13:33 dashboards.rhul.ac.uk</li>
+<li class='same'> 13:32 dashboards.rhul.ac.uk</li>
+<li> 13:32 outlook.office.com</li>
+<li> 13:31 teams.microsoft.com</li>
+<li> 13:28 outlook.office.com</li>
+<li class='same'> 13:26 outlook.office.com</li>
+<li> 13:26 web.whatsapp.com</li>
+<li> 13:25 outlook.office.com</li>
+<li class='same'> 13:24 outlook.office.com</li>
 <li class='same'> 13:23 outlook.office.com</li>
 <li class='same'> 13:22 outlook.office.com</li>
 <li class='same'> 13:20 outlook.office.com</li>
