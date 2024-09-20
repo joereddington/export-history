@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7797)</li>
+<ol><li>www.google.com (7801)</li>
 <li>mail.google.com (5518)</li>
 <li>outlook.office.com (3138)</li>
 <li>www.facebook.com (2493)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (632)</li>
-<li>tvtropes.org (621)</li>
+<li>tvtropes.org (631)</li>
 <li>whitewaterwriters.com (609)</li>
 <li>chat.openai.com (594)</li>
 <li>www.theguardian.com (584)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:45 tvtropes.org</li>
+<ul><li> 21:10 tvtropes.org</li>
+<li> 21:10 www.google.com</li>
+<li> 21:10 tvtropes.org</li>
+<li> 21:10 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:00 tvtropes.org</li>
+<li class='same'> 19:59 tvtropes.org</li>
+<li class='same'> 19:57 tvtropes.org</li>
+<li class='same'> 19:56 tvtropes.org</li>
+<li class='same'> 19:55 tvtropes.org</li>
+<li class='same'> 19:53 tvtropes.org</li>
+<li class='same'> 19:50 tvtropes.org</li>
+<li> 19:50 www.google.com</li>
+<li> 19:49 www.natesilver.net</li>
+<li> 19:49 www.google.com</li>
+<li> 19:49 tvtropes.org</li>
+<li class='same'> 19:45 tvtropes.org</li>
 <li class='same'> 19:43 tvtropes.org</li>
 <li class='same'> 19:42 tvtropes.org</li>
 <li> 19:42 www.google.com</li>
