@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7773)</li>
-<li>mail.google.com (5478)</li>
-<li>outlook.office.com (3053)</li>
-<li>www.facebook.com (2475)</li>
-<li>docs.google.com (1795)</li>
-<li>calendar.google.com (1247)</li>
-<li>www.amazon.co.uk (1142)</li>
+<ol><li>www.google.com (7775)</li>
+<li>mail.google.com (5479)</li>
+<li>outlook.office.com (3059)</li>
+<li>www.facebook.com (2477)</li>
+<li>docs.google.com (1797)</li>
+<li>calendar.google.com (1248)</li>
+<li>www.amazon.co.uk (1145)</li>
 <li>www.reddit.com (1125)</li>
 <li>moodle.royalholloway.ac.uk (1080)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (625)</li>
+<li>gmail.com (626)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
 <li>chat.openai.com (592)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.linkedin.com (501)</li>
+<li>www.linkedin.com (504)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (423)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>teams.microsoft.com (402)</li>
 <li>drive.google.com (400)</li>
-<li>web.whatsapp.com (399)</li>
-<li>outlook.office365.com (376)</li>
+<li>web.whatsapp.com (400)</li>
+<li>outlook.office365.com (377)</li>
 <li>login.microsoftonline.com (370)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (300)</li>
@@ -104,7 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 20/09/24</H3>
+
+<br>
+
+<ul><li> 07:19 www.facebook.com</li>
+<li class='same'> 07:18 www.facebook.com</li>
+<li> 07:18 www.linkedin.com</li>
+<li> 07:17 outlook.office.com</li>
+<li class='same'> 07:16 outlook.office.com</li>
+<li> 07:16 outlook.office365.com</li>
+<li> 07:16 mail.rhul.ac.uk</li>
+<li> 07:15 www.linkedin.com</li>
+<li> 07:14 www.amazon.co.uk</li>
+<li class='same'> 07:13 www.amazon.co.uk</li>
+<li class='same'> 07:12 www.amazon.co.uk</li>
+<li> 07:12 docs.google.com</li>
+<li class='same'> 07:11 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:12 calendar.google.com</li>
+</ul>
+
 <H3>Thursday, 19/09/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -114,6 +142,25 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 19:31 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:45 web.whatsapp.com</li>
+<li> 17:44 www.linkedin.com</li>
+<li> 17:41 feedly.com</li>
+<li> 17:41 outlook.office.com</li>
+<li> 17:41 mail.google.com</li>
+<li> 17:41 gmail.com</li>
+<li> 17:41 prism.librarymanagementcloud.co.uk</li>
+<li> 17:40 www.northyorks.gov.uk</li>
+<li> 17:40 catalogue.exploreyork.org.uk</li>
+<li> 17:40 exploreyork.org.uk</li>
+<li> 17:40 www.google.com</li>
+<li> 17:39 outlook.office.com</li>
+<li class='same'> 17:38 outlook.office.com</li>
+<li class='same'> 17:37 outlook.office.com</li>
+<li> 17:37 www.google.com</li>
 </ul>
 
 <br>
