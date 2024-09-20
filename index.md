@@ -70,8 +70,8 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7773)</li>
 <li>mail.google.com (5480)</li>
-<li>outlook.office.com (3069)</li>
-<li>www.facebook.com (2478)</li>
+<li>outlook.office.com (3071)</li>
+<li>www.facebook.com (2480)</li>
 <li>docs.google.com (1797)</li>
 <li>calendar.google.com (1250)</li>
 <li>www.amazon.co.uk (1145)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (592)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.linkedin.com (505)</li>
+<li>www.linkedin.com (506)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (423)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:58 outlook.office.com</li>
+<ul><li> 08:57 www.facebook.com</li>
+<li class='same'> 08:56 www.facebook.com</li>
+<li> 08:56 www.linkedin.com</li>
+<li> 08:56 outlook.office.com</li>
+<li class='same'> 08:55 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:58 outlook.office.com</li>
 <li> 07:58 outlook.office365.com</li>
 <li> 07:58 outlook.office.com</li>
 <li> 07:58 mail.rhul.ac.uk</li>
