@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7791)</li>
-<li>mail.google.com (5512)</li>
+<ol><li>www.google.com (7797)</li>
+<li>mail.google.com (5518)</li>
 <li>outlook.office.com (3138)</li>
 <li>www.facebook.com (2493)</li>
 <li>docs.google.com (1801)</li>
 <li>calendar.google.com (1259)</li>
 <li>www.amazon.co.uk (1154)</li>
-<li>www.reddit.com (1131)</li>
+<li>www.reddit.com (1133)</li>
 <li>moodle.royalholloway.ac.uk (1082)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (632)</li>
-<li>tvtropes.org (618)</li>
+<li>tvtropes.org (621)</li>
 <li>whitewaterwriters.com (609)</li>
 <li>chat.openai.com (594)</li>
 <li>www.theguardian.com (584)</li>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 20/09/24</H3>
+
+<br>
+
+<ul><li> 19:45 tvtropes.org</li>
+<li class='same'> 19:43 tvtropes.org</li>
+<li class='same'> 19:42 tvtropes.org</li>
+<li> 19:42 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:01 www.natesilver.net</li>
+<li> 19:01 x.com</li>
+<li> 19:01 twitter.com</li>
+<li> 19:01 x.com</li>
+<li> 19:01 twitter.com</li>
+<li> 19:00 www.google.com</li>
+<li> 18:59 www.reddit.com</li>
+<li> 18:59 www.google.com</li>
+<li> 18:59 www.reddit.com</li>
+<li> 18:59 www.google.com</li>
+<li class='same'> 18:58 www.google.com</li>
+<li class='same'> 18:57 www.google.com</li>
+</ul>
 
 <br>
 
@@ -68290,6 +68314,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:35 www.giantitp.com</li>
 <li> 20:35 feedly.com</li>
 <li> 20:35 www.feedly.com</li>
+<li> 20:30 www.thetrainline.com</li>
 </ul>
 
 <br>
@@ -68397,6 +68422,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:51 www.thetrainline.com</li>
 <li> 09:48 www.google.com</li>
 <li> 09:45 www.thetrainline.com</li>
+<li class='same'> 09:43 www.thetrainline.com</li>
 </ul>
 
 <H3>Wednesday, 05/07/23</H3>
@@ -70084,6 +70110,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:01 github.com</li>
 <li class='same'> 12:00 github.com</li>
 <li> 11:59 docs.google.com</li>
+<li> 11:42 mail.google.com</li>
 </ul>
 
 <br>
@@ -71340,7 +71367,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 12:31 docs.google.com</li>
+<ul><li> 12:32 mail.google.com</li>
+<li> 12:31 docs.google.com</li>
 <li> 12:05 discord.com</li>
 <li> 12:02 chat.openai.com</li>
 <li> 11:41 calendar.google.com</li>
@@ -76099,6 +76127,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:29 www.google.co.uk</li>
 <li> 14:29 www.google.com</li>
+<li> 14:28 mail.google.com</li>
+<li class='same'> 14:27 mail.google.com</li>
 <li> 14:01 kdp.amazon.com</li>
 </ul>
 
@@ -78451,6 +78481,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:09 secure.halifax-online.co.uk</li>
 <li class='same'> 15:08 secure.halifax-online.co.uk</li>
+<li> 15:06 mail.google.com</li>
+<li class='same'> 15:03 mail.google.com</li>
 </ul>
 
 <br>
