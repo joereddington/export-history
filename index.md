@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7789)</li>
-<li>mail.google.com (5508)</li>
+<li>mail.google.com (5510)</li>
 <li>outlook.office.com (3135)</li>
 <li>www.facebook.com (2493)</li>
 <li>docs.google.com (1799)</li>
@@ -79,19 +79,19 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1080)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (630)</li>
+<li>gmail.com (631)</li>
 <li>tvtropes.org (618)</li>
 <li>whitewaterwriters.com (609)</li>
 <li>chat.openai.com (593)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (553)</li>
-<li>www.linkedin.com (517)</li>
+<li>www.linkedin.com (518)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (428)</li>
 <li>teams.microsoft.com (404)</li>
+<li>drive.google.com (403)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>web.whatsapp.com (403)</li>
-<li>drive.google.com (401)</li>
 <li>outlook.office365.com (378)</li>
 <li>login.microsoftonline.com (371)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:56 www.google.com</li>
+<ul><li> 15:05 drive.usercontent.google.com</li>
+<li> 15:05 drive.google.com</li>
+<li class='same'> 15:04 drive.google.com</li>
+<li> 15:03 mail.google.com</li>
+<li> 15:03 gmail.com</li>
+<li> 15:02 mail.google.com</li>
+<li> 15:02 challengeworks.org</li>
+<li class='same'> 15:01 challengeworks.org</li>
+<li> 14:58 www.linkedin.com</li>
+<li> 14:56 www.google.com</li>
 <li> 14:56 mail.google.com</li>
 <li class='same'> 14:55 mail.google.com</li>
 <li> 14:54 calendar.google.com</li>
