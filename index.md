@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7781)</li>
-<li>mail.google.com (5484)</li>
-<li>outlook.office.com (3104)</li>
-<li>www.facebook.com (2485)</li>
+<ol><li>www.google.com (7782)</li>
+<li>mail.google.com (5488)</li>
+<li>outlook.office.com (3118)</li>
+<li>www.facebook.com (2491)</li>
 <li>docs.google.com (1798)</li>
 <li>calendar.google.com (1256)</li>
 <li>www.amazon.co.uk (1154)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (592)</li>
 <li>www.theguardian.com (584)</li>
 <li>app.qbo.intuit.com (552)</li>
-<li>www.linkedin.com (508)</li>
+<li>www.linkedin.com (511)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (428)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,12 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:08 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 12:24 outlook.office.com</li>
+<ul><li> 13:24 outlook.office.com</li>
+<li class='same'> 13:23 outlook.office.com</li>
+<li class='same'> 13:22 outlook.office.com</li>
+<li class='same'> 13:20 outlook.office.com</li>
+<li> 13:19 www.google.com</li>
+<li> 13:17 outlook.office.com</li>
+<li class='same'> 13:16 outlook.office.com</li>
+<li> 13:14 www.facebook.com</li>
+<li> 13:09 www.linkedin.com</li>
+<li> 13:09 outlook.office.com</li>
+<li class='same'> 13:08 outlook.office.com</li>
+<li> 13:08 www.linkedin.com</li>
+<li> 13:08 outlook.office.com</li>
+<li> 13:08 www.linkedin.com</li>
+<li> 13:08 www.facebook.com</li>
+<li> 13:08 outlook.office.com</li>
+<li> 13:07 mail.google.com</li>
+<li class='same'> 12:54 mail.google.com</li>
+<li> 12:54 outlook.office.com</li>
+<li class='same'> 12:53 outlook.office.com</li>
+<li> 12:53 mail.google.com</li>
+<li class='same'> 12:46 mail.google.com</li>
+<li> 12:46 www.facebook.com</li>
+<li class='same'> 12:45 www.facebook.com</li>
+<li class='same'> 12:44 www.facebook.com</li>
+<li class='same'> 12:43 www.facebook.com</li>
+<li> 12:43 outlook.office.com</li>
+<li class='same'> 12:40 outlook.office.com</li>
+<li class='same'> 12:28 outlook.office.com</li>
+<li> 12:28 discord.com</li>
+<li class='same'> 12:27 discord.com</li>
+<li class='same'> 12:24 discord.com</li>
+<li> 12:24 outlook.office.com</li>
 <li class='same'> 12:14 outlook.office.com</li>
 <li class='same'> 12:12 outlook.office.com</li>
 <li> 12:08 discord.com</li>
