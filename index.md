@@ -72,15 +72,15 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5518)</li>
 <li>outlook.office.com (3138)</li>
 <li>www.facebook.com (2493)</li>
-<li>docs.google.com (1801)</li>
+<li>docs.google.com (1802)</li>
 <li>calendar.google.com (1259)</li>
 <li>www.amazon.co.uk (1154)</li>
 <li>www.reddit.com (1133)</li>
 <li>moodle.royalholloway.ac.uk (1082)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
+<li>tvtropes.org (634)</li>
 <li>gmail.com (632)</li>
-<li>tvtropes.org (631)</li>
 <li>whitewaterwriters.com (609)</li>
 <li>chat.openai.com (594)</li>
 <li>www.theguardian.com (584)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:10 tvtropes.org</li>
+<ul><li> 23:08 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 21:17 tvtropes.org</li>
+<li class='same'> 21:16 tvtropes.org</li>
+<li class='same'> 21:13 tvtropes.org</li>
+<li class='same'> 21:10 tvtropes.org</li>
 <li> 21:10 www.google.com</li>
 <li> 21:10 tvtropes.org</li>
 <li> 21:10 www.google.com</li>
