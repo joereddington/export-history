@@ -14189,8 +14189,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:20 mail.google.com</li>
 <li> 08:20 gmail.com</li>
 <li> 08:20 www.lolascupcakes.co.uk</li>
-<li> 08:20 www.paypal.com</li>
-<li> 08:19 www.lolascupcakes.co.uk</li>
+<li class='same'> 08:19 www.lolascupcakes.co.uk</li>
 <li> 08:15 www.facebook.com</li>
 <li> 08:15 www.google.com</li>
 <li> 08:15 www.facebook.com</li>
