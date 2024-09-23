@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7811)</li>
+<ol><li>www.google.com (7812)</li>
 <li>mail.google.com (5518)</li>
 <li>outlook.office.com (3148)</li>
 <li>www.facebook.com (2493)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (637)</li>
 <li>gmail.com (632)</li>
 <li>whitewaterwriters.com (609)</li>
-<li>chat.openai.com (594)</li>
+<li>chat.openai.com (595)</li>
 <li>www.theguardian.com (587)</li>
 <li>app.qbo.intuit.com (553)</li>
 <li>www.linkedin.com (523)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:38 outlook.office.com</li>
+<ul><li> 07:35 www.google.com</li>
+<li> 07:30 chatgpt.com</li>
+<li class='same'> 07:29 chatgpt.com</li>
+<li> 07:29 chat.openai.com</li>
+<li> 07:27 iopscience.iop.org</li>
+<li> 07:27 validate.perfdrive.com</li>
+<li> 07:27 iopscience.iop.org</li>
+<li> 07:27 www.mdpi.com</li>
+<li> 07:26 onlinelibrary.wiley.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:49 claude.ai</li>
+<li> 06:38 outlook.office.com</li>
 <li> 06:34 www.reddit.com</li>
 <li> 06:34 www.google.com</li>
 <li> 06:33 <a href="https://en.wikipedia.org/wiki/Homomorphic_encryption">Homomorphic encryption - Wikipedia</a></li>
