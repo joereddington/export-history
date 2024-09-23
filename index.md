@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7804)</li>
+<ol><li>www.google.com (7811)</li>
 <li>mail.google.com (5518)</li>
-<li>outlook.office.com (3139)</li>
+<li>outlook.office.com (3148)</li>
 <li>www.facebook.com (2493)</li>
-<li>docs.google.com (1803)</li>
+<li>docs.google.com (1804)</li>
 <li>calendar.google.com (1259)</li>
 <li>www.amazon.co.uk (1160)</li>
-<li>www.reddit.com (1134)</li>
+<li>www.reddit.com (1135)</li>
 <li>moodle.royalholloway.ac.uk (1082)</li>
 <li>github.com (996)</li>
 <li>m.facebook.com (978)</li>
@@ -88,12 +88,12 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (523)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (428)</li>
+<li>web.whatsapp.com (405)</li>
 <li>teams.microsoft.com (404)</li>
-<li>web.whatsapp.com (404)</li>
 <li>drive.google.com (403)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>outlook.office365.com (378)</li>
-<li>login.microsoftonline.com (372)</li>
+<li>outlook.office365.com (379)</li>
+<li>login.microsoftonline.com (374)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (302)</li>
 <li>www.giantitp.com (291)</li>
@@ -104,11 +104,64 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 23/09/24</H3>
+
+<br>
+
+<ul><li> 06:38 outlook.office.com</li>
+<li> 06:34 www.reddit.com</li>
+<li> 06:34 www.google.com</li>
+<li> 06:33 <a href="https://en.wikipedia.org/wiki/Homomorphic_encryption">Homomorphic encryption - Wikipedia</a></li>
+<li> 06:32 www.google.com</li>
+<li> 06:21 outlook.office.com</li>
+<li class='same'> 06:20 outlook.office.com</li>
+<li> 06:06 link.springer.com</li>
+<li> 06:06 scholar.google.com</li>
+<li> 06:06 www.google.com</li>
+<li> 06:05 link.springer.com</li>
+<li> 06:05 www.researchgate.net</li>
+<li> 06:05 link.springer.com</li>
+<li> 06:05 www.google.com</li>
+<li> 06:02 easychair.org</li>
+<li> 06:02 outlook.office.com</li>
+<li> 05:53 web.whatsapp.com</li>
+<li> 05:42 shop.elsevier.com</li>
+<li> 05:42 www.google.com</li>
+<li> 05:42 www.sciencedirect.com</li>
+<li> 05:41 www.google.com</li>
+<li> 05:41 www.researchgate.net</li>
+<li> 05:41 petsymposium.org</li>
+<li class='same'> 05:40 petsymposium.org</li>
+<li> 05:40 www.google.com</li>
+<li> 05:40 rhul-my.sharepoint.com</li>
+<li> 05:39 projects.cs.rhul.ac.uk</li>
+<li> 05:39 rhul-my.sharepoint.com</li>
+<li> 05:39 projects.cs.rhul.ac.uk</li>
+<li> 05:39 outlook.office.com</li>
+<li class='same'> 05:38 outlook.office.com</li>
+<li class='same'> 05:37 outlook.office.com</li>
+<li class='same'> 05:36 outlook.office.com</li>
+<li> 05:36 login.microsoftonline.com</li>
+<li> 05:31 outlook.office.com</li>
+<li> 05:31 login.microsoftonline.com</li>
+<li> 05:30 outlook.office365.com</li>
+<li> 05:30 mail.rhul.ac.uk</li>
+</ul>
+
 <H3>Sunday, 22/09/24</H3>
 
 <br>
 
-<ul><li> 06:14 docs.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:01 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:14 docs.google.com</li>
 </ul>
 
 <H3>Saturday, 21/09/24</H3>
