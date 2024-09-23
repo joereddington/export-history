@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (2493)</li>
 <li>docs.google.com (1804)</li>
 <li>calendar.google.com (1259)</li>
-<li>www.amazon.co.uk (1160)</li>
+<li>www.amazon.co.uk (1159)</li>
 <li>www.reddit.com (1135)</li>
 <li>moodle.royalholloway.ac.uk (1082)</li>
 <li>github.com (996)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (302)</li>
 <li>www.giantitp.com (291)</li>
-<li>www.ebay.co.uk (270)</li>
+<li>Local file (270)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -14042,7 +14042,6 @@ With number of accesses/minutes in parentheses
 <li> 15:09 <a href="https://www.youtube.com/results?search_query=difference+between+bike+breaks">(48) difference between bike breaks - YouTube</a></li>
 <li> 15:09 <a href="https://www.youtube.com/">(22) YouTube</a></li>
 <li> 15:08 www.amazon.co.uk</li>
-<li class='same'> 15:07 www.amazon.co.uk</li>
 <li class='same'> 15:06 www.amazon.co.uk</li>
 <li> 15:06 www.google.com</li>
 <li> 15:05 www.protoolreviews.com</li>
@@ -14051,8 +14050,7 @@ With number of accesses/minutes in parentheses
 <li> 15:03 woodworking.stackexchange.com</li>
 <li> 15:03 www.google.com</li>
 <li> 14:52 www.vinted.co.uk</li>
-<li> 14:51 appleid.apple.com</li>
-<li> 14:51 www.vinted.co.uk</li>
+<li class='same'> 14:51 www.vinted.co.uk</li>
 <li> 14:51 www.google.com</li>
 <li> 14:51 mail.google.com</li>
 <li> 14:49 web.whatsapp.com</li>
@@ -14071,7 +14069,6 @@ With number of accesses/minutes in parentheses
 <li> 14:39 www.facebook.com</li>
 <li class='same'> 14:38 www.facebook.com</li>
 <li> 14:37 www.gov.uk</li>
-<li> 14:37 l.facebook.com</li>
 <li> 14:32 www.facebook.com</li>
 <li> 14:28 www.google.com</li>
 <li> 14:27 www.facebook.com</li>
@@ -14124,8 +14121,7 @@ With number of accesses/minutes in parentheses
 <li> 13:57 mail.google.com</li>
 <li> 13:57 cemail.rescuetime.com</li>
 <li> 13:57 mail.google.com</li>
-<li> 13:57 emailpreference.expedia.com</li>
-<li> 13:56 mail.google.com</li>
+<li class='same'> 13:56 mail.google.com</li>
 <li> 13:56 link.moonpig.com</li>
 <li class='same'> 13:55 link.moonpig.com</li>
 <li> 13:55 mail.google.com</li>
@@ -14143,10 +14139,7 @@ With number of accesses/minutes in parentheses
 <li> 13:46 web.whatsapp.com</li>
 <li> 13:46 mail.google.com</li>
 <li> 13:46 gmail.com</li>
-<li> 13:42 www.ebay.co.uk</li>
-<li class='same'> 13:41 www.ebay.co.uk</li>
-<li class='same'> 13:40 www.ebay.co.uk</li>
-<li class='same'> 13:39 www.ebay.co.uk</li>
+<li> 13:41 www.ebay.co.uk</li>
 <li class='same'> 13:38 www.ebay.co.uk</li>
 <li> 13:36 www.reddit.com</li>
 <li> 13:36 support.apple.com</li>
@@ -14174,7 +14167,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:41 calendar.google.com</li>
 <li> 12:35 chatgpt.com</li>
 <li> 12:30 www.google.com</li>
-<li> 12:24 vcc-eu7.8x8.com</li>
 <li> 12:24 www.ons.gov.uk</li>
 <li class='same'> 12:23 www.ons.gov.uk</li>
 <li> 12:21 pay.ebay.co.uk</li>
