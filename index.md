@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7881)</li>
-<li>mail.google.com (5621)</li>
-<li>outlook.office.com (3302)</li>
-<li>www.facebook.com (2557)</li>
+<ol><li>www.google.com (7883)</li>
+<li>mail.google.com (5624)</li>
+<li>outlook.office.com (3311)</li>
+<li>www.facebook.com (2560)</li>
 <li>docs.google.com (1813)</li>
-<li>calendar.google.com (1288)</li>
+<li>calendar.google.com (1290)</li>
 <li>www.amazon.co.uk (1170)</li>
 <li>www.reddit.com (1148)</li>
-<li>moodle.royalholloway.ac.uk (1122)</li>
+<li>moodle.royalholloway.ac.uk (1130)</li>
 <li>github.com (1003)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (641)</li>
+<li>gmail.com (642)</li>
 <li>tvtropes.org (637)</li>
 <li>whitewaterwriters.com (612)</li>
 <li>chat.openai.com (596)</li>
-<li>www.theguardian.com (589)</li>
+<li>www.theguardian.com (590)</li>
 <li>app.qbo.intuit.com (554)</li>
-<li>www.linkedin.com (550)</li>
+<li>www.linkedin.com (551)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (429)</li>
 <li>web.whatsapp.com (411)</li>
@@ -108,7 +108,51 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:34 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<ul><li> 15:23 www.facebook.com</li>
+<li> 15:11 www.washingtonpost.com</li>
+<li> 15:11 www.google.com</li>
+<li> 15:11 www.natesilver.net</li>
+<li> 15:11 www.google.com</li>
+<li> 15:10 www.theguardian.com</li>
+<li> 15:09 feedly.com</li>
+<li> 15:09 www.facebook.com</li>
+<li class='same'> 15:08 www.facebook.com</li>
+<li> 15:07 www.linkedin.com</li>
+<li> 15:06 outlook.office.com</li>
+<li> 15:06 mail.google.com</li>
+<li> 15:06 quizlet.com</li>
+<li> 15:06 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:05 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:03 moodle.royalholloway.ac.uk</li>
+<li> 15:03 app.bitly.com</li>
+<li class='same'> 15:02 app.bitly.com</li>
+<li> 15:02 mail.google.com</li>
+<li> 15:02 gmail.com</li>
+<li> 15:02 app.bitly.com</li>
+<li> 15:02 bitly.com</li>
+<li> 15:02 app.bitly.com</li>
+<li> 15:02 bitly.com</li>
+<li> 15:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:01 moodle.royalholloway.ac.uk</li>
+<li> 15:00 quizlet.com</li>
+<li> 15:00 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:57 moodle.royalholloway.ac.uk</li>
+<li> 14:56 outlook.office.com</li>
+<li class='same'> 14:55 outlook.office.com</li>
+<li> 14:55 royalsociety.org</li>
+<li class='same'> 14:54 royalsociety.org</li>
+<li> 14:54 outlook.office.com</li>
+<li> 14:54 mail.google.com</li>
+<li> 14:48 outlook.office.com</li>
+<li class='same'> 14:47 outlook.office.com</li>
+<li> 14:43 quizlet.com</li>
+<li> 14:43 outlook.office.com</li>
+<li class='same'> 14:42 outlook.office.com</li>
+<li> 14:42 calendar.google.com</li>
+<li class='same'> 14:41 calendar.google.com</li>
+<li> 14:37 outlook.office.com</li>
+<li> 14:34 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 14:34 www.google.com</li>
 <li> 14:26 rhul-my.sharepoint.com</li>
 <li> 14:23 outlook.office.com</li>
