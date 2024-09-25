@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7885)</li>
-<li>mail.google.com (5629)</li>
-<li>outlook.office.com (3319)</li>
+<ol><li>www.google.com (7887)</li>
+<li>mail.google.com (5635)</li>
+<li>outlook.office.com (3322)</li>
 <li>www.facebook.com (2562)</li>
 <li>docs.google.com (1813)</li>
 <li>calendar.google.com (1292)</li>
 <li>www.amazon.co.uk (1171)</li>
 <li>www.reddit.com (1148)</li>
-<li>moodle.royalholloway.ac.uk (1130)</li>
+<li>moodle.royalholloway.ac.uk (1131)</li>
 <li>github.com (1003)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (645)</li>
+<li>gmail.com (646)</li>
 <li>tvtropes.org (637)</li>
 <li>whitewaterwriters.com (612)</li>
 <li>chat.openai.com (596)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (551)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (429)</li>
-<li>web.whatsapp.com (411)</li>
+<li>web.whatsapp.com (412)</li>
 <li>drive.google.com (408)</li>
 <li>teams.microsoft.com (407)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:38 qbo.intuit.com</li>
+<ul><li> 17:28 outlook.office.com</li>
+<li> 17:04 moodle.royalholloway.ac.uk</li>
+<li> 17:04 projects.cs.rhul.ac.uk</li>
+<li> 17:03 outlook.office.com</li>
+<li> 17:03 mail.google.com</li>
+<li class='same'> 17:02 mail.google.com</li>
+<li> 17:01 claude.ai</li>
+<li class='same'> 16:58 claude.ai</li>
+<li> 16:55 mail.google.com</li>
+<li> 16:55 discord.com</li>
+<li class='same'> 16:52 discord.com</li>
+<li class='same'> 16:50 discord.com</li>
+<li> 16:50 online.unity.co.uk</li>
+<li> 16:50 outlook.office.com</li>
+<li> 16:50 discord.com</li>
+<li> 16:50 rhulfounder.co.uk</li>
+<li> 16:49 www.google.com</li>
+<li> 16:49 us06web.zoom.us</li>
+<li class='same'> 16:48 us06web.zoom.us</li>
+<li> 16:47 mail.google.com</li>
+<li> 16:47 gmail.com</li>
+<li> 16:47 us06web.zoom.us</li>
+<li> 16:47 www.zoom.us</li>
+<li> 16:47 www.zoom.com</li>
+<li> 16:47 www.google.com</li>
+<li> 16:47 mail.google.com</li>
+<li class='same'> 16:46 mail.google.com</li>
+<li> 16:45 web.whatsapp.com</li>
+<li> 16:45 online.unity.co.uk</li>
+<li class='same'> 16:44 online.unity.co.uk</li>
+<li class='same'> 16:43 online.unity.co.uk</li>
+<li> 16:41 qbo.intuit.com</li>
+<li class='same'> 16:39 qbo.intuit.com</li>
+<li class='same'> 16:38 qbo.intuit.com</li>
 <li> 16:38 mail.google.com</li>
 <li> 16:37 qbo.intuit.com</li>
 <li> 16:37 online.unity.co.uk</li>
