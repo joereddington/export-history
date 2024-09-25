@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7873)</li>
-<li>mail.google.com (5588)</li>
-<li>outlook.office.com (3274)</li>
-<li>www.facebook.com (2553)</li>
+<ol><li>www.google.com (7877)</li>
+<li>mail.google.com (5592)</li>
+<li>outlook.office.com (3286)</li>
+<li>www.facebook.com (2554)</li>
 <li>docs.google.com (1813)</li>
 <li>calendar.google.com (1283)</li>
 <li>www.amazon.co.uk (1169)</li>
 <li>www.reddit.com (1147)</li>
-<li>moodle.royalholloway.ac.uk (1121)</li>
+<li>moodle.royalholloway.ac.uk (1122)</li>
 <li>github.com (1003)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (638)</li>
 <li>tvtropes.org (637)</li>
 <li>whitewaterwriters.com (612)</li>
-<li>chat.openai.com (595)</li>
+<li>chat.openai.com (596)</li>
 <li>www.theguardian.com (589)</li>
 <li>app.qbo.intuit.com (554)</li>
-<li>www.linkedin.com (547)</li>
+<li>www.linkedin.com (548)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (429)</li>
 <li>web.whatsapp.com (410)</li>
@@ -108,7 +108,63 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:34 <a href="https://en.wikipedia.org/w/index.php?title=Advance_HE&action=edit&section=11">Editing Advance HE - Wikipedia</a></li>
+<ul><li> 11:31 outlook.office.com</li>
+<li class='same'> 11:30 outlook.office.com</li>
+<li> 11:21 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 11:15 dashboards.rhul.ac.uk</li>
+<li> 11:13 outlook.office.com</li>
+<li class='same'> 11:12 outlook.office.com</li>
+<li> 11:12 moodle.royalholloway.ac.uk</li>
+<li> 11:11 outlook.office.com</li>
+<li> 11:11 projects.cs.rhul.ac.uk</li>
+<li> 11:11 outlook.office.com</li>
+<li> 11:09 rhul-my.sharepoint.com</li>
+<li> 11:09 outlook.office.com</li>
+<li class='same'> 11:08 outlook.office.com</li>
+<li> 11:06 www.facebook.com</li>
+<li> 10:57 www.linkedin.com</li>
+<li> 10:57 outlook.office.com</li>
+<li> 10:56 www.advance-he.ac.uk</li>
+<li> 10:56 www.google.com</li>
+<li> 10:54 outlook.office.com</li>
+<li class='same'> 10:53 outlook.office.com</li>
+<li> 10:53 mail.google.com</li>
+<li class='same'> 10:52 mail.google.com</li>
+<li> 10:51 outlook.office.com</li>
+<li> 10:51 mail.google.com</li>
+<li> 10:50 register-of-charities.charitycommission.gov.uk</li>
+<li class='same'> 10:49 register-of-charities.charitycommission.gov.uk</li>
+<li> 10:49 www.gov.uk</li>
+<li> 10:49 www.google.com</li>
+<li> 10:49 www.advance-he.ac.uk</li>
+<li> 10:49 www.google.com</li>
+<li> 10:49 advance-he.ac.uk</li>
+<li class='same'> 10:48 advance-he.ac.uk</li>
+<li> 10:48 advance-he.careers.hibob.com</li>
+<li> 10:47 advance-he.ac.uk</li>
+<li> 10:47 mail.google.com</li>
+<li> 10:46 <a href="https://en.wikipedia.org/w/index.php?title=Advance_HE&action=edit&section=11">Editing Advance HE - Wikipedia</a></li>
+<li> 10:46 <a href="https://en.wikipedia.org/wiki/Advance_HE">Advance HE - Wikipedia</a></li>
+<li> 10:45 <a href="https://en.wikipedia.org/wiki/Talk:Advance_HE">Talk:Advance HE - Wikipedia</a></li>
+<li> 10:44 <a href="https://en.wikipedia.org/wiki/Advance_HE#Funding">Advance HE - Wikipedia</a></li>
+<li> 10:43 www.advance-he.ac.uk</li>
+<li> 10:42 <a href="https://en.wikipedia.org/w/index.php?title=Advance_HE&action=edit&section=9">Editing Advance HE - Wikipedia</a></li>
+<li> 10:42 www.advance-he.ac.uk</li>
+<li> 10:41 <a href="https://en.wikipedia.org/wiki/Advance_HE#Institute_for_Learning_and_Teaching_in_Higher_Education_(2000%E2%80%932004)">Advance HE - Wikipedia</a></li>
+<li> 10:40 <a href="https://en.wikipedia.org/w/index.php?title=Advance_HE&action=edit&section=3">Advance HE - Wikipedia</a></li>
+<li> 10:40 <a href="https://en.wikipedia.org/w/index.php?title=Advance_HE&action=edit&section=2">Editing Advance HE - Wikipedia</a></li>
+<li> 10:40 web.archive.org</li>
+<li> 10:40 www.history.ac.uk</li>
+<li> 10:39 archive.ph</li>
+<li> 10:39 www.google.com</li>
+<li> 10:39 <a href="https://en.wikipedia.org/wiki/Advance_HE#Institute_for_Learning_and_Teaching_in_Higher_Education_(2000%E2%80%932004)">Advance HE - Wikipedia</a></li>
+<li> 10:38 publications.parliament.uk</li>
+<li> 10:37 chatgpt.com</li>
+<li> 10:37 chat.openai.com</li>
+<li> 10:37 <a href="https://en.wikipedia.org/w/index.php?title=Advance_HE&action=edit&section=3">Advance HE - Wikipedia</a></li>
+<li> 10:36 www.advance-he.ac.uk</li>
+<li> 10:35 <a href="https://en.wikipedia.org/wiki/Advance_HE#Historical_Activities:_Subject_Centres">Advance HE - Wikipedia</a></li>
+<li> 10:34 <a href="https://en.wikipedia.org/w/index.php?title=Advance_HE&action=edit&section=11">Editing Advance HE - Wikipedia</a></li>
 <li> 10:33 <a href="https://en.wikipedia.org/wiki/Advance_HE">Advance HE - Wikipedia</a></li>
 <li> 10:33 www.google.com</li>
 <li> 10:33 hear.ac.uk</li>
