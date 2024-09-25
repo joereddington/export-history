@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7877)</li>
-<li>mail.google.com (5592)</li>
-<li>outlook.office.com (3286)</li>
-<li>www.facebook.com (2554)</li>
+<ol><li>www.google.com (7879)</li>
+<li>mail.google.com (5604)</li>
+<li>outlook.office.com (3290)</li>
+<li>www.facebook.com (2557)</li>
 <li>docs.google.com (1813)</li>
 <li>calendar.google.com (1283)</li>
 <li>www.amazon.co.uk (1169)</li>
@@ -79,16 +79,16 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1122)</li>
 <li>github.com (1003)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (638)</li>
+<li>gmail.com (640)</li>
 <li>tvtropes.org (637)</li>
 <li>whitewaterwriters.com (612)</li>
 <li>chat.openai.com (596)</li>
 <li>www.theguardian.com (589)</li>
 <li>app.qbo.intuit.com (554)</li>
-<li>www.linkedin.com (548)</li>
+<li>www.linkedin.com (549)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (429)</li>
-<li>web.whatsapp.com (410)</li>
+<li>web.whatsapp.com (411)</li>
 <li>drive.google.com (407)</li>
 <li>teams.microsoft.com (407)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:31 outlook.office.com</li>
+<ul><li> 12:29 mail.google.com</li>
+<li class='same'> 12:28 mail.google.com</li>
+<li class='same'> 12:27 mail.google.com</li>
+<li> 12:27 gmail.com</li>
+<li> 12:26 mail.google.com</li>
+<li> 12:25 www.expedia.co.uk</li>
+<li> 12:23 mail.google.com</li>
+<li> 12:22 www.expedia.co.uk</li>
+<li> 12:22 www.google.com</li>
+<li> 12:20 mail.google.com</li>
+<li class='same'> 12:19 mail.google.com</li>
+<li> 12:19 gmail.com</li>
+<li> 12:18 mail.google.com</li>
+<li> 12:18 outlook.office.com</li>
+<li class='same'> 12:16 outlook.office.com</li>
+<li> 12:11 mail.google.com</li>
+<li> 12:08 <a href="https://joereddington.com/2024/07/13/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 12:08 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:08 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:07 www.facebook.com</li>
+<li> 12:06 www.linkedin.com</li>
+<li> 12:06 mail.google.com</li>
+<li> 12:04 www.google.com</li>
+<li> 12:02 web.whatsapp.com</li>
+<li> 11:54 www.facebook.com</li>
+<li class='same'> 11:53 www.facebook.com</li>
+<li> 11:53 mail.google.com</li>
+<li> 11:51 outlook.office.com</li>
+<li class='same'> 11:44 outlook.office.com</li>
+<li> 11:43 mail.google.com</li>
+<li> 11:42 rhul-my.sharepoint.com</li>
+<li> 11:31 outlook.office.com</li>
 <li class='same'> 11:30 outlook.office.com</li>
 <li> 11:21 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 11:15 dashboards.rhul.ac.uk</li>
