@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7879)</li>
-<li>mail.google.com (5604)</li>
-<li>outlook.office.com (3290)</li>
+<li>mail.google.com (5613)</li>
+<li>outlook.office.com (3293)</li>
 <li>www.facebook.com (2557)</li>
 <li>docs.google.com (1813)</li>
-<li>calendar.google.com (1283)</li>
+<li>calendar.google.com (1285)</li>
 <li>www.amazon.co.uk (1169)</li>
 <li>www.reddit.com (1147)</li>
 <li>moodle.royalholloway.ac.uk (1122)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 25/09/24</H3>
+
+<br>
+
+<ul><li> 13:29 mail.google.com</li>
+<li class='same'> 13:27 mail.google.com</li>
+<li class='same'> 13:25 mail.google.com</li>
+<li class='same'> 13:23 mail.google.com</li>
+<li class='same'> 13:22 mail.google.com</li>
+<li> 13:21 claude.ai</li>
+<li> 13:21 calendar.google.com</li>
+<li> 13:19 outlook.office.com</li>
+<li class='same'> 13:18 outlook.office.com</li>
+<li> 13:18 claude.ai</li>
+<li> 13:18 www.expedia.co.uk</li>
+<li> 13:17 mail.google.com</li>
+<li> 13:17 calendar.google.com</li>
+<li> 13:17 mail.google.com</li>
+<li> 13:17 www.duolingo.com</li>
+<li> 13:17 mail.google.com</li>
+<li class='same'> 13:15 mail.google.com</li>
+<li> 13:15 outlook.office.com</li>
+</ul>
 
 <br>
 
