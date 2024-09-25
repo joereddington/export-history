@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5571)</li>
 <li>outlook.office.com (3262)</li>
 <li>www.facebook.com (2540)</li>
-<li>docs.google.com (1806)</li>
+<li>docs.google.com (1809)</li>
 <li>calendar.google.com (1277)</li>
 <li>www.amazon.co.uk (1169)</li>
 <li>www.reddit.com (1147)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (429)</li>
 <li>web.whatsapp.com (409)</li>
+<li>drive.google.com (407)</li>
 <li>teams.microsoft.com (407)</li>
-<li>drive.google.com (406)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>login.microsoftonline.com (382)</li>
 <li>outlook.office365.com (379)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:07 docs.google.com</li>
+<ul><li> 07:17 docs.google.com</li>
+<li class='same'> 07:16 docs.google.com</li>
+<li> 07:13 doc-0o-04-docstext.googleusercontent.com</li>
+<li> 07:13 docs.google.com</li>
+<li> 07:13 drive.google.com</li>
+<li> 07:12 equalitytime.co.uk</li>
+<li> 07:12 equalitytime.github.io</li>
+<li> 07:12 claude.ai</li>
+<li> 07:07 docs.google.com</li>
 <li> 07:06 drive.google.com</li>
 <li> 07:06 gds.google.com</li>
 <li> 07:06 accounts.google.com</li>
