@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7865)</li>
-<li>mail.google.com (5573)</li>
-<li>outlook.office.com (3264)</li>
-<li>www.facebook.com (2540)</li>
+<ol><li>www.google.com (7873)</li>
+<li>mail.google.com (5588)</li>
+<li>outlook.office.com (3274)</li>
+<li>www.facebook.com (2553)</li>
 <li>docs.google.com (1813)</li>
-<li>calendar.google.com (1277)</li>
+<li>calendar.google.com (1283)</li>
 <li>www.amazon.co.uk (1169)</li>
 <li>www.reddit.com (1147)</li>
-<li>moodle.royalholloway.ac.uk (1119)</li>
+<li>moodle.royalholloway.ac.uk (1121)</li>
 <li>github.com (1003)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (638)</li>
@@ -85,14 +85,14 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (595)</li>
 <li>www.theguardian.com (589)</li>
 <li>app.qbo.intuit.com (554)</li>
-<li>www.linkedin.com (544)</li>
+<li>www.linkedin.com (547)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (429)</li>
-<li>web.whatsapp.com (409)</li>
+<li>web.whatsapp.com (410)</li>
 <li>drive.google.com (407)</li>
 <li>teams.microsoft.com (407)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>login.microsoftonline.com (382)</li>
+<li>login.microsoftonline.com (383)</li>
 <li>outlook.office365.com (379)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (304)</li>
@@ -108,7 +108,77 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:24 github.com</li>
+<ul><li> 10:34 <a href="https://en.wikipedia.org/w/index.php?title=Advance_HE&action=edit&section=11">Editing Advance HE - Wikipedia</a></li>
+<li> 10:33 <a href="https://en.wikipedia.org/wiki/Advance_HE">Advance HE - Wikipedia</a></li>
+<li> 10:33 www.google.com</li>
+<li> 10:33 hear.ac.uk</li>
+<li> 10:32 www.google.com</li>
+<li> 10:32 mail.google.com</li>
+<li class='same'> 10:31 mail.google.com</li>
+<li> 10:31 www.google.com</li>
+<li class='same'> 10:30 www.google.com</li>
+<li> 10:30 www.advance-he.ac.uk</li>
+<li> 10:30 mail.google.com</li>
+<li class='same'> 10:29 mail.google.com</li>
+<li class='same'> 10:27 mail.google.com</li>
+<li class='same'> 10:26 mail.google.com</li>
+<li class='same'> 10:25 mail.google.com</li>
+<li class='same'> 10:24 mail.google.com</li>
+<li> 10:24 www.google.com</li>
+<li> 10:23 mail.google.com</li>
+<li class='same'> 10:22 mail.google.com</li>
+<li> 10:22 outlook.office.com</li>
+<li> 10:21 mail.google.com</li>
+<li class='same'> 10:20 mail.google.com</li>
+<li> 10:20 www.advance-he.ac.uk</li>
+<li> 10:20 www.google.com</li>
+<li> 10:19 mail.google.com</li>
+<li> 10:18 calendar.google.com</li>
+<li> 10:16 outlook.office.com</li>
+<li class='same'> 10:14 outlook.office.com</li>
+<li> 10:14 accounts.google.com</li>
+<li> 10:14 outlook.office.com</li>
+<li> 10:13 rhul.hosted.panopto.com</li>
+<li> 10:12 calendar.google.com</li>
+<li> 10:11 moodle.royalholloway.ac.uk</li>
+<li> 10:11 login.microsoftonline.com</li>
+<li> 10:11 moodle.royalholloway.ac.uk</li>
+<li> 10:11 calendar.google.com</li>
+<li> 10:10 mail.google.com</li>
+<li> 10:08 outlook.office.com</li>
+<li> 10:08 rl.talis.com</li>
+<li> 10:08 rhul.rl.talis.com</li>
+<li> 10:08 www.google.com</li>
+<li> 10:07 outlook.office.com</li>
+<li> 10:06 www.linkedin.com</li>
+<li> 10:06 www.facebook.com</li>
+<li class='same'> 10:05 www.facebook.com</li>
+<li class='same'> 10:03 www.facebook.com</li>
+<li class='same'> 10:02 www.facebook.com</li>
+<li class='same'> 10:01 www.facebook.com</li>
+<li class='same'> 10:00 www.facebook.com</li>
+<li class='same'> 09:59 www.facebook.com</li>
+<li class='same'> 09:58 www.facebook.com</li>
+<li class='same'> 09:57 www.facebook.com</li>
+<li class='same'> 09:56 www.facebook.com</li>
+<li class='same'> 09:55 www.facebook.com</li>
+<li class='same'> 09:54 www.facebook.com</li>
+<li class='same'> 09:53 www.facebook.com</li>
+<li> 09:52 calendar.google.com</li>
+<li class='same'> 09:51 calendar.google.com</li>
+<li class='same'> 09:50 calendar.google.com</li>
+<li> 09:47 www.google.co.uk</li>
+<li> 09:47 www.google.com</li>
+<li> 09:46 www.devere.co.uk</li>
+<li> 09:46 outlook.office.com</li>
+<li> 09:45 mail.google.com</li>
+<li> 09:44 web.whatsapp.com</li>
+<li> 09:43 www.linkedin.com</li>
+<li> 09:42 outlook.office.com</li>
+<li> 09:41 www.linkedin.com</li>
+<li> 09:35 outlook.office.com</li>
+<li class='same'> 09:34 outlook.office.com</li>
+<li> 09:24 github.com</li>
 <li class='same'> 09:23 github.com</li>
 <li> 09:23 mail.google.com</li>
 <li> 09:23 www.google.com</li>
