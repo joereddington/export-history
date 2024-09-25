@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7812)</li>
-<li>mail.google.com (5518)</li>
-<li>outlook.office.com (3148)</li>
-<li>www.facebook.com (2493)</li>
-<li>docs.google.com (1804)</li>
-<li>calendar.google.com (1259)</li>
-<li>www.amazon.co.uk (1159)</li>
-<li>www.reddit.com (1135)</li>
-<li>moodle.royalholloway.ac.uk (1082)</li>
-<li>github.com (996)</li>
+<ol><li>www.google.com (7863)</li>
+<li>mail.google.com (5568)</li>
+<li>outlook.office.com (3262)</li>
+<li>www.facebook.com (2538)</li>
+<li>docs.google.com (1805)</li>
+<li>calendar.google.com (1277)</li>
+<li>www.amazon.co.uk (1169)</li>
+<li>www.reddit.com (1144)</li>
+<li>moodle.royalholloway.ac.uk (1119)</li>
+<li>github.com (999)</li>
 <li>m.facebook.com (978)</li>
+<li>gmail.com (638)</li>
 <li>tvtropes.org (637)</li>
-<li>gmail.com (632)</li>
-<li>whitewaterwriters.com (609)</li>
+<li>whitewaterwriters.com (612)</li>
 <li>chat.openai.com (595)</li>
-<li>www.theguardian.com (587)</li>
-<li>app.qbo.intuit.com (553)</li>
-<li>www.linkedin.com (523)</li>
+<li>www.theguardian.com (588)</li>
+<li>app.qbo.intuit.com (554)</li>
+<li>www.linkedin.com (539)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>kdp.amazon.com (428)</li>
-<li>web.whatsapp.com (405)</li>
-<li>teams.microsoft.com (404)</li>
-<li>drive.google.com (403)</li>
+<li>kdp.amazon.com (429)</li>
+<li>web.whatsapp.com (409)</li>
+<li>teams.microsoft.com (407)</li>
+<li>drive.google.com (405)</li>
 <li>forum.artofmemory.com (403)</li>
+<li>login.microsoftonline.com (382)</li>
 <li>outlook.office365.com (379)</li>
-<li>login.microsoftonline.com (374)</li>
 <li>bsky.app (313)</li>
-<li>rhul.sharepoint.com (302)</li>
-<li>www.giantitp.com (291)</li>
+<li>rhul.sharepoint.com (304)</li>
+<li>www.giantitp.com (293)</li>
 <li>Local file (270)</li>
 
 
@@ -104,7 +104,684 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 25/09/24</H3>
+
+<br>
+
+<ul><li> 06:59 myaccount.google.com</li>
+<li> 06:59 gds.google.com</li>
+<li> 06:59 accounts.google.com</li>
+<li class='same'> 06:58 accounts.google.com</li>
+<li class='same'> 06:57 accounts.google.com</li>
+<li> 06:56 www.sidechef.com</li>
+<li> 06:56 www.google.com</li>
+<li> 06:56 drive.google.com</li>
+<li> 06:56 accounts.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:22 www.facebook.com</li>
+<li class='same'> 06:21 www.facebook.com</li>
+<li class='same'> 06:19 www.facebook.com</li>
+<li class='same'> 06:18 www.facebook.com</li>
+<li class='same'> 06:17 www.facebook.com</li>
+<li> 06:16 calendar.google.com</li>
+<li> 06:16 mail.google.com</li>
+<li> 06:14 calendar.google.com</li>
+<li> 06:14 mail.google.com</li>
+<li> 06:11 www.reddit.com</li>
+<li class='same'> 06:10 www.reddit.com</li>
+<li> 06:09 feedly.com</li>
+<li> 06:09 www.google.com</li>
+<li> 06:09 www.giantitp.com</li>
+<li> 06:07 www.amazon.co.uk</li>
+<li> 06:07 www.google.com</li>
+<li> 06:04 outlook.office.com</li>
+<li class='same'> 06:03 outlook.office.com</li>
+<li> 06:01 projects.cs.rhul.ac.uk</li>
+<li> 05:54 scholar.google.com</li>
+<li> 05:53 www.amazon.co.uk</li>
+<li> 05:53 kdp.amazon.com</li>
+<li> 05:53 scholar.google.com</li>
+<li class='same'> 05:52 scholar.google.com</li>
+<li class='same'> 05:51 scholar.google.com</li>
+<li> 05:51 www.google.com</li>
+<li> 05:49 outlook.office.com</li>
+<li> 05:43 mail.google.com</li>
+<li> 05:43 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 05:42 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 05:41 webtimetables.royalholloway.ac.uk</li>
+<li> 05:39 moodle.royalholloway.ac.uk</li>
+<li> 05:38 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 05:37 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 05:34 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 05:33 webtimetables.royalholloway.ac.uk</li>
+<li> 05:31 www.reddit.com</li>
+<li> 05:31 mail.google.com</li>
+<li> 05:31 outlook.office.com</li>
+<li class='same'> 05:30 outlook.office.com</li>
+<li> 05:30 moodle.royalholloway.ac.uk</li>
+<li class='same'> 05:29 moodle.royalholloway.ac.uk</li>
+<li> 05:29 login.microsoftonline.com</li>
+<li> 05:29 moodle.royalholloway.ac.uk</li>
+<li> 05:28 rhul-my.sharepoint.com</li>
+<li> 05:28 outlook.office.com</li>
+<li> 05:27 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:30 calendar.google.com</li>
+</ul>
+
+<H3>Tuesday, 24/09/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:01 www.google.com</li>
+<li> 20:01 moodle.royalholloway.ac.uk</li>
+<li class='same'> 20:00 moodle.royalholloway.ac.uk</li>
+<li> 19:53 rhul-my.sharepoint.com</li>
+<li> 19:50 webtimetables.royalholloway.ac.uk</li>
+<li> 19:50 moodle.royalholloway.ac.uk</li>
+<li> 19:48 rhul-my.sharepoint.com</li>
+<li> 19:48 outlook.office.com</li>
+<li> 19:48 cryptpad.fr</li>
+<li> 19:47 rikkebjerg.gitlab.io</li>
+<li> 19:47 outlook.office.com</li>
+<li> 19:47 mail.google.com</li>
+<li class='same'> 19:46 mail.google.com</li>
+<li> 19:45 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#cite_note-5">British Airways data breach - Wikipedia</a></li>
+<li> 19:44 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&diff=1235417546&oldid=1227597642">British Airways data breach: Difference between revisions - Wikipedia</a></li>
+<li> 19:44 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&diff=1230811678&oldid=1230740292">British Airways data breach: Difference between revisions - Wikipedia</a></li>
+<li> 19:44 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&diff=1230876301&oldid=1230811678">British Airways data breach: Difference between revisions - Wikipedia</a></li>
+<li> 19:43 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 19:43 <a href="https://en.wikipedia.org/w/index.php?title=Form_grabbing&action=history">Form grabbing: Revision history - Wikipedia</a></li>
+<li> 19:43 <a href="https://en.wikipedia.org/wiki/Special:Contributions/CarloDagnolo">User contributions for CarloDagnolo - Wikipedia</a></li>
+<li> 19:42 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 19:42 <a href="https://en.wikipedia.org/w/index.php?title=Form_grabbing&diff=1230740868&oldid=1221433477">Form grabbing: Difference between revisions - Wikipedia</a></li>
+<li> 19:42 <a href="https://en.wikipedia.org/w/index.php?title=Form_grabbing&action=history">Form grabbing: Revision history - Wikipedia</a></li>
+<li> 19:42 <a href="https://en.wikipedia.org/w/index.php?title=Form_grabbing&diff=prev&oldid=1230724691">Form grabbing: Difference between revisions - Wikipedia</a></li>
+<li> 19:41 <a href="https://en.wikipedia.org/w/index.php?title=Supply_chain_attack&diff=prev&oldid=1230742557">Supply chain attack: Difference between revisions - Wikipedia</a></li>
+<li> 19:41 <a href="https://en.wikipedia.org/w/index.php?title=User_talk:CarloDagnolo&diff=prev&oldid=1230878063">User talk:CarloDagnolo: Difference between revisions - Wikipedia</a></li>
+<li> 19:40 <a href="https://www.bbc.co.uk/news/technology-54568784">British Airways fined £20m over data breach - BBC News</a></li>
+<li> 19:40 www.bbc.com</li>
+<li> 19:40 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&diff=prev&oldid=1230740292#cite_note-5">British Airways data breach: Difference between revisions - Wikipedia</a></li>
+<li> 19:39 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&diff=prev&oldid=1230740292">British Airways data breach: Difference between revisions - Wikipedia</a></li>
+<li> 19:39 <a href="https://en.wikipedia.org/wiki/Special:Contributions/CarloDagnolo">User contributions for CarloDagnolo - Wikipedia</a></li>
+<li> 19:38 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 19:38 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 19:38 www.google.com</li>
+<li> 19:37 <a href="https://xkcd.com/simplewriter/"></a></li>
+<li> 19:37 hemingwayapp.com</li>
+<li> 19:37 www.google.com</li>
+<li> 19:30 rhul-my.sharepoint.com</li>
+<li> 19:28 moodle.royalholloway.ac.uk</li>
+<li> 19:28 www.facebook.com</li>
+<li class='same'> 19:20 www.facebook.com</li>
+<li> 19:20 mail.google.com</li>
+<li class='same'> 19:19 mail.google.com</li>
+<li class='same'> 19:17 mail.google.com</li>
+<li> 19:15 www.facebook.com</li>
+<li class='same'> 19:11 www.facebook.com</li>
+<li class='same'> 19:10 www.facebook.com</li>
+<li> 19:10 mail.google.com</li>
+<li> 19:08 www.linkedin.com</li>
+<li> 19:08 mail.google.com</li>
+<li> 19:08 www.google.com</li>
+<li> 19:08 ccrld.bywatersolutions.com</li>
+<li> 19:08 mail.google.com</li>
+<li class='same'> 19:07 mail.google.com</li>
+<li> 19:07 outlook.office.com</li>
+<li> 19:01 rhul-my.sharepoint.com</li>
+<li class='same'> 18:45 rhul-my.sharepoint.com</li>
+<li class='same'> 18:44 rhul-my.sharepoint.com</li>
+<li> 18:39 www.google.com</li>
+<li> 18:39 www.work-day.co.uk</li>
+<li class='same'> 18:38 www.work-day.co.uk</li>
+<li> 18:38 www.google.com</li>
+<li> 18:37 calendar.google.com</li>
+<li> 18:37 rhul-my.sharepoint.com</li>
+<li> 18:37 outlook.office.com</li>
+<li class='same'> 18:36 outlook.office.com</li>
+<li> 18:35 ssb-prod.ec.royalholloway.ac.uk</li>
+<li> 18:34 moodle.royalholloway.ac.uk</li>
+<li> 18:34 login.microsoftonline.com</li>
+<li> 18:34 moodle.royalholloway.ac.uk</li>
+<li> 18:33 rhul-my.sharepoint.com</li>
+<li> 18:32 rhul.sharepoint.com</li>
+<li class='same'> 18:31 rhul.sharepoint.com</li>
+<li> 18:30 outlook.office.com</li>
+<li> 18:30 mail.google.com</li>
+<li> 18:30 www.amazon.co.uk</li>
+<li> 18:29 www.google.com</li>
+<li> 18:29 www.amazon.co.uk</li>
+<li class='same'> 18:28 www.amazon.co.uk</li>
+<li class='same'> 18:27 www.amazon.co.uk</li>
+<li class='same'> 18:26 www.amazon.co.uk</li>
+<li> 18:26 docs.google.com</li>
+<li> 18:26 mail.google.com</li>
+<li class='same'> 18:25 mail.google.com</li>
+<li> 18:25 www.linkedin.com</li>
+<li> 18:25 mail.google.com</li>
+<li class='same'> 18:24 mail.google.com</li>
+<li> 18:20 www.facebook.com</li>
+<li> 18:20 www.google.com</li>
+<li> 18:19 web.whatsapp.com</li>
+<li> 18:19 calendar.google.com</li>
+<li> 18:18 mail.google.com</li>
+<li> 18:18 www.kalamalibrary.com</li>
+<li> 18:17 mail.google.com</li>
+<li> 18:16 ccrld.bywatersolutions.com</li>
+<li class='same'> 18:15 ccrld.bywatersolutions.com</li>
+<li> 18:15 ccrld.org</li>
+<li> 18:13 mail.google.com</li>
+<li> 18:13 ccrld.org</li>
+<li> 18:13 ccrld.bywatersolutions.com</li>
+<li class='same'> 18:12 ccrld.bywatersolutions.com</li>
+<li class='same'> 18:11 ccrld.bywatersolutions.com</li>
+<li class='same'> 18:10 ccrld.bywatersolutions.com</li>
+<li> 18:10 mail.google.com</li>
+<li> 18:10 gmail.com</li>
+<li> 18:09 ccrld.bywatersolutions.com</li>
+<li> 18:05 ccrld.org</li>
+<li> 18:05 www.reddit.com</li>
+<li class='same'> 18:04 www.reddit.com</li>
+<li class='same'> 18:03 www.reddit.com</li>
+<li> 18:03 www.google.com</li>
+<li> 18:02 www.reddit.com</li>
+<li class='same'> 18:01 www.reddit.com</li>
+<li> 18:00 www.google.com</li>
+<li> 18:00 support.proquest.com</li>
+<li> 18:00 www.google.com</li>
+<li> 17:59 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li class='same'> 17:58 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li> 17:58 login.openathens.net</li>
+<li> 17:58 librarysearch.royalholloway.ac.uk</li>
+<li> 17:58 login.openathens.net</li>
+<li> 17:58 librarysearch.royalholloway.ac.uk</li>
+<li> 17:58 login.microsoftonline.com</li>
+<li> 17:58 login.openathens.net</li>
+<li> 17:58 librarysearch.royalholloway.ac.uk</li>
+<li> 17:57 intranet.royalholloway.ac.uk</li>
+<li> 17:57 librarysearch.royalholloway.ac.uk</li>
+<li> 17:57 intranet.royalholloway.ac.uk</li>
+<li> 17:57 www.google.com</li>
+<li> 17:57 libbyapp.com</li>
+<li> 17:56 outlook.office.com</li>
+<li> 17:56 mail.google.com</li>
+<li class='same'> 17:55 mail.google.com</li>
+<li> 17:54 www.facebook.com</li>
+<li class='same'> 17:53 www.facebook.com</li>
+<li> 17:53 mail.google.com</li>
+<li> 17:53 www.linkedin.com</li>
+<li class='same'> 17:52 www.linkedin.com</li>
+<li> 17:52 mail.google.com</li>
+<li> 17:52 www.myfritz.net</li>
+<li> 17:52 mail.google.com</li>
+<li> 17:52 gmail.com</li>
+<li> 17:52 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:30 outlook.office.com</li>
+<li> 16:30 intranet.royalholloway.ac.uk</li>
+<li> 16:30 outlook.office.com</li>
+<li> 16:29 calendar.google.com</li>
+<li> 16:28 outlook.office.com</li>
+<li class='same'> 16:19 outlook.office.com</li>
+<li> 16:14 intranet.royalholloway.ac.uk</li>
+<li> 16:14 www.google.com</li>
+<li> 16:03 surreycyber.com</li>
+<li> 16:03 www.google.com</li>
+<li> 15:44 rhul-my.sharepoint.com</li>
+<li> 15:42 intranet.royalholloway.ac.uk</li>
+<li> 15:42 www.google.com</li>
+<li> 15:42 royalholloway.ac.uk</li>
+<li> 15:41 intranet.royalholloway.ac.uk</li>
+<li> 15:41 www.google.com</li>
+<li> 15:41 www.royalholloway.ac.uk</li>
+<li> 15:41 royalhollowayucu.wordpress.com</li>
+<li> 15:40 www.google.com</li>
+<li> 15:40 www.royalholloway.ac.uk</li>
+<li> 15:40 www.google.com</li>
+<li class='same'> 15:39 www.google.com</li>
+<li> 15:39 intranet.royalholloway.ac.uk</li>
+<li> 15:36 rhul-my.sharepoint.com</li>
+<li class='same'> 15:34 rhul-my.sharepoint.com</li>
+<li> 15:31 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 15:30 webtimetables.royalholloway.ac.uk</li>
+<li> 15:27 rhul-my.sharepoint.com</li>
+<li class='same'> 15:26 rhul-my.sharepoint.com</li>
+<li class='same'> 15:25 rhul-my.sharepoint.com</li>
+<li> 15:24 outlook.office.com</li>
+<li class='same'> 15:23 outlook.office.com</li>
+<li class='same'> 15:22 outlook.office.com</li>
+<li> 14:55 slough.spydus.co.uk</li>
+<li class='same'> 14:54 slough.spydus.co.uk</li>
+<li> 14:54 www.slough.gov.uk</li>
+<li> 14:53 selms.spydus.co.uk</li>
+<li> 14:53 rbwm.spydus.co.uk</li>
+<li class='same'> 14:52 rbwm.spydus.co.uk</li>
+<li> 14:51 selms.spydus.co.uk</li>
+<li> 14:51 www.rbwm.gov.uk</li>
+<li> 14:51 www.google.com</li>
+<li> 14:44 outlook.office.com</li>
+<li> 14:43 projects.cs.rhul.ac.uk</li>
+<li> 14:43 royalsociety.org</li>
+<li class='same'> 14:42 royalsociety.org</li>
+<li> 14:42 outlook.office.com</li>
+<li class='same'> 14:41 outlook.office.com</li>
+<li> 14:29 royalsociety.org</li>
+<li> 14:29 outlook.office.com</li>
+<li> 14:28 claude.ai</li>
+<li> 14:22 projects.cs.rhul.ac.uk</li>
+<li> 14:22 claude.ai</li>
+<li> 14:21 moodle.royalholloway.ac.uk</li>
+<li> 14:19 www.google.com</li>
+<li> 14:19 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:18 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:17 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:15 moodle.royalholloway.ac.uk</li>
+<li> 14:15 login.microsoftonline.com</li>
+<li> 14:15 moodle.royalholloway.ac.uk</li>
+<li> 14:15 chatgpt.com</li>
+<li> 14:14 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:40 outlook.office.com</li>
+<li> 12:40 claude.ai</li>
+<li> 12:27 discussions.apple.com</li>
+<li> 12:27 www.google.com</li>
+<li> 12:26 claude.ai</li>
+<li class='same'> 12:18 claude.ai</li>
+<li class='same'> 12:16 claude.ai</li>
+<li class='same'> 12:14 claude.ai</li>
+<li class='same'> 12:12 claude.ai</li>
+<li class='same'> 12:11 claude.ai</li>
+<li class='same'> 12:10 claude.ai</li>
+<li class='same'> 12:09 claude.ai</li>
+<li class='same'> 12:08 claude.ai</li>
+<li class='same'> 12:07 claude.ai</li>
+<li class='same'> 12:06 claude.ai</li>
+<li class='same'> 12:04 claude.ai</li>
+<li> 11:59 drive.google.com</li>
+<li> 11:50 calendar.google.com</li>
+<li> 11:50 web.whatsapp.com</li>
+<li> 11:48 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:47 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:46 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:45 moodle.royalholloway.ac.uk</li>
+<li> 11:45 github.com</li>
+<li class='same'> 11:44 github.com</li>
+<li> 11:35 outlook.office.com</li>
+<li class='same'> 11:34 outlook.office.com</li>
+<li> 11:34 moodle.royalholloway.ac.uk</li>
+<li> 11:20 github.com</li>
+<li> 11:19 rhul-my.sharepoint.com</li>
+<li> 11:17 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:16 moodle.royalholloway.ac.uk</li>
+<li> 11:16 rhul.hosted.panopto.com</li>
+<li> 11:15 moodle.royalholloway.ac.uk</li>
+<li> 11:15 outlook.office.com</li>
+<li> 11:11 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:10 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:09 moodle.royalholloway.ac.uk</li>
+<li> 11:06 rhul-my.sharepoint.com</li>
+<li> 11:06 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:05 moodle.royalholloway.ac.uk</li>
+<li> 11:05 calendar.google.com</li>
+<li> 11:03 outlook.office.com</li>
+<li> 11:02 moodle.royalholloway.ac.uk</li>
+<li> 11:01 rl.talis.com</li>
+<li> 11:00 moodle.royalholloway.ac.uk</li>
+<li> 11:00 rl.talis.com</li>
+<li> 10:58 outlook.office.com</li>
+<li> 10:57 calendar.google.com</li>
+<li class='same'> 10:56 calendar.google.com</li>
+<li> 10:56 www.royalholloway.ac.uk</li>
+<li> 10:56 www.google.com</li>
+<li> 10:54 rhul-my.sharepoint.com</li>
+<li> 10:54 calendar.google.com</li>
+<li class='same'> 10:53 calendar.google.com</li>
+<li> 10:52 rhul-my.sharepoint.com</li>
+<li class='same'> 10:51 rhul-my.sharepoint.com</li>
+<li> 10:49 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:48 moodle.royalholloway.ac.uk</li>
+<li> 10:48 login.microsoftonline.com</li>
+<li> 10:48 moodle.royalholloway.ac.uk</li>
+<li> 10:48 mail.google.com</li>
+<li> 10:47 outlook.office.com</li>
+<li> 10:47 teams.microsoft.com</li>
+<li> 10:47 outlook.office.com</li>
+<li class='same'> 10:46 outlook.office.com</li>
+<li> 10:45 claude.ai</li>
+<li class='same'> 10:44 claude.ai</li>
+<li class='same'> 10:43 claude.ai</li>
+<li class='same'> 10:42 claude.ai</li>
+</ul>
+
+<br>
+
+<ul><li> 07:28 www.linkedin.com</li>
+<li class='same'> 07:27 www.linkedin.com</li>
+<li> 07:26 mail.google.com</li>
+<li> 07:26 outlook.office.com</li>
+<li> 07:22 mybg.british-gymnastics.org</li>
+<li class='same'> 07:20 mybg.british-gymnastics.org</li>
+<li class='same'> 07:19 mybg.british-gymnastics.org</li>
+<li> 07:19 mail.google.com</li>
+<li> 07:19 mybg.british-gymnastics.org</li>
+<li> 07:19 www.british-gymnastics.org</li>
+<li> 07:19 mail.google.com</li>
+<li> 07:18 chatgpt.com</li>
+<li> 07:18 auth0.openai.com</li>
+<li> 07:18 auth.openai.com</li>
+<li> 07:18 chatgpt.com</li>
+<li class='same'> 07:17 chatgpt.com</li>
+<li> 07:17 whitewaterwriters.com</li>
+<li> 07:17 mail.google.com</li>
+<li class='same'> 07:16 mail.google.com</li>
+<li> 07:16 us06web.zoom.us</li>
+<li> 07:16 zoom.us</li>
+<li> 07:16 www.google.com</li>
+<li> 07:16 mail.google.com</li>
+<li> 07:16 accounts.intuit.com</li>
+<li> 07:16 qbo.intuit.com</li>
+<li> 07:16 c14.qbo.intuit.com</li>
+<li> 07:16 app.qbo.intuit.com</li>
+<li> 07:15 mail.google.com</li>
+<li class='same'> 07:13 mail.google.com</li>
+<li> 07:13 calendar.google.com</li>
+<li> 07:13 mail.google.com</li>
+<li> 07:13 gmail.com</li>
+<li> 07:13 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:12 www.giantitp.com</li>
+<li> 07:02 feedly.com</li>
+<li> 07:01 outlook.office.com</li>
+</ul>
+
 <H3>Monday, 23/09/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 18:09 www.linkedin.com</li>
+<li> 18:09 outlook.office.com</li>
+<li class='same'> 18:08 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:32 www.google.com</li>
+<li> 17:27 cryptpad.fr</li>
+<li> 17:26 outlook.office.com</li>
+<li> 17:26 claude.ai</li>
+<li> 17:04 pja.co.uk</li>
+<li> 17:04 www.google.com</li>
+<li> 17:01 mail.google.com</li>
+<li> 17:01 gmail.com</li>
+<li> 17:01 outlook.office.com</li>
+<li> 17:01 easychair.org</li>
+<li class='same'> 17:00 easychair.org</li>
+<li class='same'> 16:59 easychair.org</li>
+<li class='same'> 16:58 easychair.org</li>
+<li> 16:58 outlook.office.com</li>
+<li class='same'> 16:56 outlook.office.com</li>
+<li> 16:55 www.linkedin.com</li>
+<li> 16:55 outlook.office.com</li>
+<li> 16:54 otter.ai</li>
+<li> 16:54 mail.google.com</li>
+<li> 16:53 calendar.google.com</li>
+<li> 16:53 outlook.office.com</li>
+<li> 16:52 www.ukri.org</li>
+<li> 16:52 outlook.office.com</li>
+<li class='same'> 16:51 outlook.office.com</li>
+<li> 16:50 www.facebook.com</li>
+<li class='same'> 16:49 www.facebook.com</li>
+<li class='same'> 16:48 www.facebook.com</li>
+<li class='same'> 16:47 www.facebook.com</li>
+<li class='same'> 16:46 www.facebook.com</li>
+<li class='same'> 16:45 www.facebook.com</li>
+<li class='same'> 16:44 www.facebook.com</li>
+<li class='same'> 16:40 www.facebook.com</li>
+<li class='same'> 16:38 www.facebook.com</li>
+<li> 16:37 www.google.com</li>
+<li> 16:33 www.linkedin.com</li>
+<li> 16:22 claude.ai</li>
+<li> 16:19 rhul-my.sharepoint.com</li>
+<li> 16:19 outlook.office.com</li>
+<li class='same'> 16:11 outlook.office.com</li>
+<li> 16:11 moodle.royalholloway.ac.uk</li>
+<li> 16:10 outlook.office.com</li>
+<li class='same'> 16:05 outlook.office.com</li>
+<li class='same'> 16:04 outlook.office.com</li>
+<li class='same'> 16:03 outlook.office.com</li>
+<li> 16:01 moodle.royalholloway.ac.uk</li>
+<li> 16:01 login.microsoftonline.com</li>
+<li> 16:01 moodle.royalholloway.ac.uk</li>
+<li> 16:00 outlook.office.com</li>
+<li class='same'> 15:58 outlook.office.com</li>
+<li class='same'> 15:57 outlook.office.com</li>
+<li class='same'> 15:56 outlook.office.com</li>
+<li class='same'> 15:52 outlook.office.com</li>
+<li class='same'> 15:51 outlook.office.com</li>
+<li> 15:50 rhul-my.sharepoint.com</li>
+<li> 15:50 outlook.office.com</li>
+<li class='same'> 15:41 outlook.office.com</li>
+<li> 15:40 mail.google.com</li>
+<li> 15:40 outlook.office.com</li>
+<li class='same'> 15:39 outlook.office.com</li>
+<li> 15:38 calendar.google.com</li>
+<li class='same'> 15:37 calendar.google.com</li>
+<li> 15:37 outlook.office.com</li>
+<li> 15:37 calendar.google.com</li>
+<li> 15:19 outlook.office.com</li>
+<li> 15:16 projects.cs.rhul.ac.uk</li>
+<li> 15:13 www.linkedin.com</li>
+<li> 15:13 outlook.office.com</li>
+<li> 15:13 www.linkedin.com</li>
+<li class='same'> 15:12 www.linkedin.com</li>
+<li class='same'> 15:11 www.linkedin.com</li>
+<li> 15:11 outlook.office.com</li>
+<li> 15:08 dashboards.rhul.ac.uk</li>
+<li> 15:06 outlook.office.com</li>
+<li class='same'> 15:03 outlook.office.com</li>
+<li class='same'> 15:02 outlook.office.com</li>
+<li class='same'> 14:54 outlook.office.com</li>
+<li> 14:52 rhul-my.sharepoint.com</li>
+<li> 14:52 outlook.office.com</li>
+<li class='same'> 14:51 outlook.office.com</li>
+<li> 14:34 rhul-my.sharepoint.com</li>
+<li class='same'> 14:33 rhul-my.sharepoint.com</li>
+<li> 14:33 intranet.royalholloway.ac.uk</li>
+<li class='same'> 14:32 intranet.royalholloway.ac.uk</li>
+<li class='same'> 14:31 intranet.royalholloway.ac.uk</li>
+<li> 14:31 jobs.royalholloway.ac.uk</li>
+<li> 14:31 www.google.com</li>
+<li> 14:31 mail.google.com</li>
+<li class='same'> 14:30 mail.google.com</li>
+<li> 14:30 intranet.royalholloway.ac.uk</li>
+<li> 14:29 royalhollowayucu.wordpress.com</li>
+<li> 14:29 www.google.com</li>
+<li> 14:28 outlook.office.com</li>
+<li class='same'> 14:27 outlook.office.com</li>
+<li> 14:27 eur.delve.office.com</li>
+<li> 14:27 login.microsoftonline.com</li>
+<li> 14:26 outlook.office.com</li>
+<li class='same'> 14:25 outlook.office.com</li>
+<li class='same'> 14:24 outlook.office.com</li>
+<li> 14:24 intranet.royalholloway.ac.uk</li>
+<li> 14:24 outlook.office.com</li>
+<li> 14:24 intranet.royalholloway.ac.uk</li>
+<li> 14:24 outlook.office.com</li>
+<li class='same'> 14:23 outlook.office.com</li>
+<li class='same'> 14:22 outlook.office.com</li>
+<li class='same'> 14:21 outlook.office.com</li>
+<li> 14:18 pure.royalholloway.ac.uk</li>
+<li> 14:17 www.royalholloway.ac.uk</li>
+<li> 14:17 www.google.com</li>
+<li class='same'> 14:16 www.google.com</li>
+<li> 14:05 mail.google.com</li>
+<li> 13:59 web.whatsapp.com</li>
+<li> 13:55 mail.google.com</li>
+<li> 13:55 outlook.office.com</li>
+<li class='same'> 13:46 outlook.office.com</li>
+<li class='same'> 13:45 outlook.office.com</li>
+<li class='same'> 13:44 outlook.office.com</li>
+<li class='same'> 13:43 outlook.office.com</li>
+<li class='same'> 13:42 outlook.office.com</li>
+<li class='same'> 13:41 outlook.office.com</li>
+<li> 13:41 www.google.com</li>
+<li> 13:38 outlook.office.com</li>
+<li class='same'> 13:36 outlook.office.com</li>
+<li class='same'> 13:35 outlook.office.com</li>
+<li class='same'> 13:29 outlook.office.com</li>
+<li class='same'> 13:27 outlook.office.com</li>
+<li> 13:24 claude.ai</li>
+<li> 13:24 rhul-my.sharepoint.com</li>
+<li> 13:24 intranet.royalholloway.ac.uk</li>
+<li class='same'> 13:23 intranet.royalholloway.ac.uk</li>
+<li> 13:22 www.royalholloway.ac.uk</li>
+<li> 13:21 intranet.royalholloway.ac.uk</li>
+<li> 13:21 www.royalholloway.ac.uk</li>
+<li> 13:21 royalholloway.ac.uk</li>
+<li> 13:21 intranet.royalholloway.ac.uk</li>
+<li> 13:21 www.royalholloway.ac.uk</li>
+<li class='same'> 13:20 www.royalholloway.ac.uk</li>
+<li> 13:20 outlook.office.com</li>
+<li> 13:19 intranet.royalholloway.ac.uk</li>
+<li> 13:19 www.royalholloway.ac.uk</li>
+<li class='same'> 13:18 www.royalholloway.ac.uk</li>
+<li class='same'> 13:17 www.royalholloway.ac.uk</li>
+<li> 13:17 intranet.royalholloway.ac.uk</li>
+<li> 13:17 www.google.com</li>
+<li> 13:15 rhul-my.sharepoint.com</li>
+<li class='same'> 13:14 rhul-my.sharepoint.com</li>
+<li class='same'> 13:13 rhul-my.sharepoint.com</li>
+<li class='same'> 13:12 rhul-my.sharepoint.com</li>
+<li class='same'> 13:11 rhul-my.sharepoint.com</li>
+<li class='same'> 13:10 rhul-my.sharepoint.com</li>
+<li class='same'> 13:09 rhul-my.sharepoint.com</li>
+<li> 13:08 mail.google.com</li>
+<li> 13:08 intranet.royalholloway.ac.uk</li>
+<li> 13:08 www.google.com</li>
+<li class='same'> 13:07 www.google.com</li>
+<li> 13:06 rhul-my.sharepoint.com</li>
+<li class='same'> 13:05 rhul-my.sharepoint.com</li>
+<li class='same'> 13:04 rhul-my.sharepoint.com</li>
+<li class='same'> 13:03 rhul-my.sharepoint.com</li>
+<li> 13:01 www.google.com</li>
+<li class='same'> 13:00 www.google.com</li>
+<li class='same'> 12:58 www.google.com</li>
+<li> 12:58 <a href="https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel">Hugo Award for Best Novel - Wikipedia</a></li>
+<li> 12:58 <a href="https://en.wikipedia.org/wiki/Hugo_Award">Hugo Award - Wikipedia</a></li>
+<li> 12:58 <a href="https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novella">Hugo Award for Best Novella - Wikipedia</a></li>
+<li> 12:57 <a href="https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novelette">Nebula Award for Best Novelette - Wikipedia</a></li>
+<li> 12:57 www.amazon.co.uk</li>
+<li> 12:57 www.google.com</li>
+<li class='same'> 12:54 www.google.com</li>
+<li> 12:52 www.amazon.co.uk</li>
+<li class='same'> 12:51 www.amazon.co.uk</li>
+<li> 12:51 <a href="https://en.wikipedia.org/wiki/Novel">Novel - Wikipedia</a></li>
+<li> 12:50 <a href="https://en.wikipedia.org/wiki/Novella">Novella - Wikipedia</a></li>
+<li> 12:50 www.google.com</li>
+<li> 12:49 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:10 www.google.com</li>
+<li> 12:09 www.natesilver.net</li>
+<li> 12:09 www.google.com</li>
+<li> 12:09 mail.google.com</li>
+<li> 12:09 rhul-my.sharepoint.com</li>
+<li class='same'> 12:08 rhul-my.sharepoint.com</li>
+<li> 12:08 mail.google.com</li>
+<li> 12:08 gmail.com</li>
+<li> 12:08 mail.google.com</li>
+<li class='same'> 12:07 mail.google.com</li>
+<li> 12:07 gmail.com</li>
+<li> 12:07 www.linkedin.com</li>
+<li class='same'> 12:06 www.linkedin.com</li>
+<li class='same'> 12:05 www.linkedin.com</li>
+<li> 12:05 www.reddit.com</li>
+<li> 12:05 outlook.office.com</li>
+<li> 12:05 www.facebook.com</li>
+<li class='same'> 12:04 www.facebook.com</li>
+<li class='same'> 12:03 www.facebook.com</li>
+<li class='same'> 12:02 www.facebook.com</li>
+<li class='same'> 12:01 www.facebook.com</li>
+<li class='same'> 12:00 www.facebook.com</li>
+<li class='same'> 11:59 www.facebook.com</li>
+<li> 11:58 www.audible.co.uk</li>
+<li> 11:58 www.google.com</li>
+<li> 11:50 www.facebook.com</li>
+<li class='same'> 11:49 www.facebook.com</li>
+<li class='same'> 11:48 www.facebook.com</li>
+<li class='same'> 11:47 www.facebook.com</li>
+<li class='same'> 11:46 www.facebook.com</li>
+<li class='same'> 11:44 www.facebook.com</li>
+<li class='same'> 11:43 www.facebook.com</li>
+<li class='same'> 11:42 www.facebook.com</li>
+<li class='same'> 11:41 www.facebook.com</li>
+<li class='same'> 11:40 www.facebook.com</li>
+<li class='same'> 11:39 www.facebook.com</li>
+<li class='same'> 11:38 www.facebook.com</li>
+<li class='same'> 11:34 www.facebook.com</li>
+<li> 11:34 outlook.office.com</li>
+<li> 11:32 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 11:31 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 11:30 moodle2324.royalholloway.ac.uk</li>
+<li> 11:30 login.microsoftonline.com</li>
+<li> 11:30 moodle2324.royalholloway.ac.uk</li>
+<li> 11:30 outlook.office.com</li>
+<li class='same'> 11:29 outlook.office.com</li>
+<li> 11:22 projects.cs.rhul.ac.uk</li>
+<li> 11:21 outlook.office.com</li>
+<li class='same'> 11:20 outlook.office.com</li>
+<li> 11:15 www.facebook.com</li>
+<li class='same'> 11:14 www.facebook.com</li>
+<li class='same'> 11:13 www.facebook.com</li>
+<li> 11:13 outlook.office.com</li>
+<li> 11:12 web.whatsapp.com</li>
+<li> 10:56 whitewaterwriters.com</li>
+<li class='same'> 10:52 whitewaterwriters.com</li>
+<li> 10:30 teams.microsoft.com</li>
+<li> 10:30 www.google.com</li>
+<li> 10:30 teams.microsoft.com</li>
+<li> 10:21 outlook.office.com</li>
+<li class='same'> 10:20 outlook.office.com</li>
+<li class='same'> 10:19 outlook.office.com</li>
+<li class='same'> 10:17 outlook.office.com</li>
+<li class='same'> 10:09 outlook.office.com</li>
+<li class='same'> 10:04 outlook.office.com</li>
+<li class='same'> 09:47 outlook.office.com</li>
+<li class='same'> 09:46 outlook.office.com</li>
+<li class='same'> 09:44 outlook.office.com</li>
+<li class='same'> 09:43 outlook.office.com</li>
+<li> 09:21 myaccount.google.com</li>
+<li class='same'> 09:19 myaccount.google.com</li>
+<li> 09:19 accounts.google.com</li>
+<li> 09:19 www.google.com</li>
+<li> 09:11 projects.cs.rhul.ac.uk</li>
+<li> 09:11 x.com</li>
+<li> 09:11 twitter.com</li>
+<li> 09:10 www.google.com</li>
+<li> 09:10 www.theguardian.com</li>
+<li> 09:09 calendar.google.com</li>
+</ul>
 
 <br>
 
