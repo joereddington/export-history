@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7863)</li>
-<li>mail.google.com (5568)</li>
+<ol><li>www.google.com (7861)</li>
+<li>mail.google.com (5571)</li>
 <li>outlook.office.com (3262)</li>
-<li>www.facebook.com (2538)</li>
-<li>docs.google.com (1805)</li>
+<li>www.facebook.com (2540)</li>
+<li>docs.google.com (1806)</li>
 <li>calendar.google.com (1277)</li>
 <li>www.amazon.co.uk (1169)</li>
-<li>www.reddit.com (1144)</li>
+<li>www.reddit.com (1147)</li>
 <li>moodle.royalholloway.ac.uk (1119)</li>
 <li>github.com (999)</li>
 <li>m.facebook.com (978)</li>
@@ -83,14 +83,14 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (637)</li>
 <li>whitewaterwriters.com (612)</li>
 <li>chat.openai.com (595)</li>
-<li>www.theguardian.com (588)</li>
+<li>www.theguardian.com (589)</li>
 <li>app.qbo.intuit.com (554)</li>
-<li>www.linkedin.com (539)</li>
+<li>www.linkedin.com (541)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (429)</li>
 <li>web.whatsapp.com (409)</li>
 <li>teams.microsoft.com (407)</li>
-<li>drive.google.com (405)</li>
+<li>drive.google.com (406)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>login.microsoftonline.com (382)</li>
 <li>outlook.office365.com (379)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:59 myaccount.google.com</li>
+<ul><li> 07:07 docs.google.com</li>
+<li> 07:06 drive.google.com</li>
+<li> 07:06 gds.google.com</li>
+<li> 07:06 accounts.google.com</li>
+<li> 06:59 myaccount.google.com</li>
 <li> 06:59 gds.google.com</li>
 <li> 06:59 accounts.google.com</li>
 <li class='same'> 06:58 accounts.google.com</li>
@@ -117,11 +121,20 @@ With number of accesses/minutes in parentheses
 <li> 06:56 www.google.com</li>
 <li> 06:56 drive.google.com</li>
 <li> 06:56 accounts.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 06:22 www.facebook.com</li>
+<li> 06:30 mail.google.com</li>
+<li> 06:29 www.google.com</li>
+<li> 06:29 www.theguardian.com</li>
+<li> 06:28 www.natesilver.net</li>
+<li> 06:27 www.reddit.com</li>
+<li class='same'> 06:26 www.reddit.com</li>
+<li> 06:26 mail.google.com</li>
+<li class='same'> 06:25 mail.google.com</li>
+<li> 06:25 www.linkedin.com</li>
+<li class='same'> 06:24 www.linkedin.com</li>
+<li> 06:24 www.reddit.com</li>
+<li> 06:24 www.facebook.com</li>
+<li class='same'> 06:23 www.facebook.com</li>
+<li class='same'> 06:22 www.facebook.com</li>
 <li class='same'> 06:21 www.facebook.com</li>
 <li class='same'> 06:19 www.facebook.com</li>
 <li class='same'> 06:18 www.facebook.com</li>
@@ -14582,16 +14595,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:51 www.google.com</li>
 <li class='same'> 09:50 www.google.com</li>
 <li class='same'> 09:49 www.google.com</li>
-<li> 09:49 maps.google.com</li>
-<li> 09:49 www.google.com</li>
-<li class='same'> 09:48 www.google.com</li>
 <li> 09:48 forms.office.com</li>
 <li> 09:48 www.enableleisure.co.uk</li>
 <li> 09:48 www.google.com</li>
 <li class='same'> 09:47 www.google.com</li>
 <li class='same'> 09:46 www.google.com</li>
-<li> 09:46 maps.google.com</li>
-<li> 09:46 www.google.com</li>
 <li> 09:45 mail.google.com</li>
 <li> 09:45 gmail.com</li>
 <li> 09:45 calendar.google.com</li>
