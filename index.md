@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7886)</li>
+<ol><li>www.google.com (7887)</li>
 <li>mail.google.com (5635)</li>
-<li>outlook.office.com (3323)</li>
+<li>outlook.office.com (3329)</li>
 <li>www.facebook.com (2564)</li>
 <li>docs.google.com (1813)</li>
 <li>calendar.google.com (1292)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (552)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (429)</li>
-<li>web.whatsapp.com (412)</li>
+<li>web.whatsapp.com (413)</li>
 <li>drive.google.com (408)</li>
 <li>teams.microsoft.com (407)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -104,7 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 26/09/24</H3>
+
+<br>
+
+<ul><li> 11:20 projects.cs.rhul.ac.uk</li>
+<li> 11:20 outlook.office.com</li>
+<li class='same'> 11:19 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:28 web.whatsapp.com</li>
+<li> 10:28 outlook.office.com</li>
+<li class='same'> 10:27 outlook.office.com</li>
+<li> 10:27 www.google.com</li>
+<li> 10:27 outlook.office.com</li>
+<li class='same'> 10:26 outlook.office.com</li>
+</ul>
+
 <H3>Wednesday, 25/09/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
