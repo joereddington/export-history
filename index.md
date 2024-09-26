@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7888)</li>
-<li>mail.google.com (5637)</li>
-<li>outlook.office.com (3342)</li>
+<li>mail.google.com (5640)</li>
+<li>outlook.office.com (3347)</li>
 <li>www.facebook.com (2564)</li>
 <li>docs.google.com (1813)</li>
 <li>calendar.google.com (1292)</li>
@@ -85,14 +85,14 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (596)</li>
 <li>www.theguardian.com (590)</li>
 <li>app.qbo.intuit.com (556)</li>
-<li>www.linkedin.com (552)</li>
+<li>www.linkedin.com (553)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (429)</li>
 <li>web.whatsapp.com (413)</li>
+<li>teams.microsoft.com (410)</li>
 <li>drive.google.com (408)</li>
-<li>teams.microsoft.com (408)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>login.microsoftonline.com (383)</li>
+<li>login.microsoftonline.com (387)</li>
 <li>outlook.office365.com (379)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (304)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:15 outlook.office.com</li>
+<ul><li> 16:10 outlook.office.com</li>
+<li> 16:10 mail.google.com</li>
+<li> 16:05 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
+<li> 16:05 login.microsoftonline.com</li>
+<li> 16:02 forms.office.com</li>
+<li> 16:02 login.microsoftonline.com</li>
+<li> 16:02 rhul-my.sharepoint.com</li>
+<li> 16:02 forms.office.com</li>
+<li> 16:02 login.microsoftonline.com</li>
+<li> 16:02 forms.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:53 homomorphicencryption.org</li>
+<li> 14:53 t.co</li>
+<li> 14:53 x.com</li>
+<li> 14:52 claude.ai</li>
+<li> 14:52 csrc.nist.gov</li>
+<li> 14:52 www.linkedin.com</li>
+<li> 14:52 teams.microsoft.com</li>
+<li> 14:52 login.microsoftonline.com</li>
+<li> 14:52 teams.microsoft.com</li>
+<li> 14:51 outlook.office.com</li>
+<li> 14:51 claude.ai</li>
+<li> 14:22 mail.google.com</li>
+<li class='same'> 14:20 mail.google.com</li>
+<li> 14:19 outlook.office.com</li>
+<li class='same'> 14:18 outlook.office.com</li>
+<li> 14:18 projects.cs.rhul.ac.uk</li>
+<li> 14:16 outlook.office.com</li>
+<li class='same'> 14:15 outlook.office.com</li>
 <li> 14:08 mail.google.com</li>
 <li> 14:08 royalsociety.org</li>
 <li> 14:08 outlook.office.com</li>
