@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5641)</li>
 <li>outlook.office.com (3352)</li>
 <li>www.facebook.com (2564)</li>
-<li>docs.google.com (1813)</li>
+<li>docs.google.com (1815)</li>
 <li>calendar.google.com (1292)</li>
 <li>www.amazon.co.uk (1171)</li>
 <li>www.reddit.com (1148)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 26/09/24</H3>
+
+<br>
+
+<ul><li> 22:19 docs.google.com</li>
+<li class='same'> 21:55 docs.google.com</li>
+</ul>
 
 <br>
 
