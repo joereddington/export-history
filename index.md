@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7888)</li>
-<li>mail.google.com (5640)</li>
-<li>outlook.office.com (3347)</li>
+<ol><li>www.google.com (7889)</li>
+<li>mail.google.com (5641)</li>
+<li>outlook.office.com (3352)</li>
 <li>www.facebook.com (2564)</li>
 <li>docs.google.com (1813)</li>
 <li>calendar.google.com (1292)</li>
@@ -84,8 +84,8 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (612)</li>
 <li>chat.openai.com (596)</li>
 <li>www.theguardian.com (590)</li>
+<li>www.linkedin.com (557)</li>
 <li>app.qbo.intuit.com (556)</li>
-<li>www.linkedin.com (553)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (429)</li>
 <li>web.whatsapp.com (413)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:10 outlook.office.com</li>
+<ul><li> 18:15 uk.bettshow.com</li>
+<li> 18:15 <a href="https://en.wikipedia.org/wiki/BETT">BETT - Wikipedia</a></li>
+<li> 18:15 www.google.com</li>
+<li> 18:13 www.whatdotheyknow.com</li>
+<li> 18:10 outlook.office.com</li>
+<li class='same'> 18:09 outlook.office.com</li>
+<li> 18:09 chatgpt.com</li>
+<li class='same'> 18:08 chatgpt.com</li>
+<li> 18:08 www.linkedin.com</li>
+<li> 18:08 mail.google.com</li>
+<li> 18:08 www.linkedin.com</li>
+<li> 18:08 outlook.office.com</li>
+<li class='same'> 18:07 outlook.office.com</li>
+<li class='same'> 18:06 outlook.office.com</li>
+<li> 18:06 x.com</li>
+<li> 18:06 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:10 www.linkedin.com</li>
+<li> 16:10 outlook.office.com</li>
 <li> 16:10 mail.google.com</li>
 <li> 16:05 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
 <li> 16:05 login.microsoftonline.com</li>
