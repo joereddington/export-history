@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7887)</li>
-<li>mail.google.com (5635)</li>
-<li>outlook.office.com (3329)</li>
+<li>mail.google.com (5636)</li>
+<li>outlook.office.com (3335)</li>
 <li>www.facebook.com (2564)</li>
 <li>docs.google.com (1813)</li>
 <li>calendar.google.com (1292)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (429)</li>
 <li>web.whatsapp.com (413)</li>
 <li>drive.google.com (408)</li>
-<li>teams.microsoft.com (407)</li>
+<li>teams.microsoft.com (408)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>login.microsoftonline.com (383)</li>
 <li>outlook.office365.com (379)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:20 projects.cs.rhul.ac.uk</li>
+<ul><li> 12:54 outlook.office.com</li>
+<li class='same'> 12:53 outlook.office.com</li>
+<li class='same'> 12:37 outlook.office.com</li>
+<li> 12:36 teams.microsoft.com</li>
+<li> 12:36 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:26 mail.google.com</li>
+<li> 11:25 rhul-my.sharepoint.com</li>
+<li> 11:25 outlook.office.com</li>
+<li class='same'> 11:24 outlook.office.com</li>
+<li> 11:20 projects.cs.rhul.ac.uk</li>
 <li> 11:20 outlook.office.com</li>
 <li class='same'> 11:19 outlook.office.com</li>
 </ul>
