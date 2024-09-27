@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7887)</li>
+<ol><li>www.google.com (7894)</li>
 <li>mail.google.com (5641)</li>
-<li>outlook.office.com (3355)</li>
+<li>outlook.office.com (3356)</li>
 <li>www.facebook.com (2564)</li>
 <li>docs.google.com (1817)</li>
 <li>calendar.google.com (1298)</li>
-<li>www.amazon.co.uk (1171)</li>
+<li>www.amazon.co.uk (1172)</li>
 <li>www.reddit.com (1148)</li>
-<li>moodle.royalholloway.ac.uk (1131)</li>
+<li>moodle.royalholloway.ac.uk (1135)</li>
 <li>github.com (1003)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (646)</li>
@@ -84,15 +84,15 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (612)</li>
 <li>chat.openai.com (596)</li>
 <li>www.theguardian.com (590)</li>
-<li>www.linkedin.com (557)</li>
+<li>www.linkedin.com (558)</li>
 <li>app.qbo.intuit.com (556)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>kdp.amazon.com (429)</li>
+<li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (414)</li>
+<li>teams.microsoft.com (411)</li>
 <li>drive.google.com (410)</li>
-<li>teams.microsoft.com (410)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>login.microsoftonline.com (388)</li>
+<li>login.microsoftonline.com (389)</li>
 <li>outlook.office365.com (379)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (304)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:05 rhul-my.sharepoint.com</li>
+<ul><li> 09:57 www.google.com</li>
+<li> 09:57 www.linkedin.com</li>
+<li> 09:57 www.google.com</li>
+<li> 09:56 <a href="https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak">2014 celebrity nude photo leak - Wikipedia</a></li>
+<li> 09:56 www.google.com</li>
+<li> 09:55 www.nbcnews.com</li>
+<li> 09:55 <a href="https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak">2014 celebrity nude photo leak - Wikipedia</a></li>
+<li> 09:55 www.google.com</li>
+<li class='same'> 09:54 www.google.com</li>
+<li> 09:52 <a href="https://joereddington.com/assets/TeachingRoomFontSizes.pdf">Microsoft Word - Rooms with pictures for teaching award.docx - TeachingRoomFontSizes.pdf</a></li>
+<li> 09:48 teams.microsoft.com</li>
+<li> 09:48 <a href="https://joereddington.com/assets/methodology.pdf">Microsoft Word - methodology.docx - methodology.pdf</a></li>
+<li> 09:47 <a href="https://joereddington.com/assets/TeachingRoomFontSizes.pdf">Microsoft Word - Rooms with pictures for teaching award.docx - TeachingRoomFontSizes.pdf</a></li>
+<li> 09:47 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
+<li> 09:47 www.google.com</li>
+<li> 09:46 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:46 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:45 rhul-my.sharepoint.com</li>
+<li class='same'> 09:44 rhul-my.sharepoint.com</li>
+<li> 09:39 www.amazon.co.uk</li>
+<li> 09:38 kdpreports.amazon.com</li>
+<li> 09:38 kdp.amazon.com</li>
+<li> 09:36 www.google.com</li>
+<li> 09:35 moodle.royalholloway.ac.uk</li>
+<li> 09:33 rhul-my.sharepoint.com</li>
+<li> 09:31 moodle.royalholloway.ac.uk</li>
+<li> 09:31 outlook.office.com</li>
+<li> 09:21 rhul-my.sharepoint.com</li>
+<li class='same'> 09:20 rhul-my.sharepoint.com</li>
+<li class='same'> 09:18 rhul-my.sharepoint.com</li>
+<li class='same'> 09:16 rhul-my.sharepoint.com</li>
+<li> 09:14 claude.ai</li>
+<li class='same'> 09:13 claude.ai</li>
+<li> 09:13 moodle.royalholloway.ac.uk</li>
+<li> 09:13 login.microsoftonline.com</li>
+<li> 09:13 moodle.royalholloway.ac.uk</li>
+<li> 09:12 rhul-my.sharepoint.com</li>
+<li class='same'> 09:11 rhul-my.sharepoint.com</li>
+<li class='same'> 09:05 rhul-my.sharepoint.com</li>
 </ul>
 
 <br>
