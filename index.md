@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7894)</li>
+<ol><li>www.google.com (7895)</li>
 <li>mail.google.com (5641)</li>
 <li>outlook.office.com (3356)</li>
 <li>www.facebook.com (2564)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:57 www.google.com</li>
+<ul><li> 10:00 tenor.com</li>
+<li> 10:00 www.google.com</li>
+<li class='same'> 09:57 www.google.com</li>
 <li> 09:57 www.linkedin.com</li>
 <li> 09:57 www.google.com</li>
 <li> 09:56 <a href="https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak">2014 celebrity nude photo leak - Wikipedia</a></li>
