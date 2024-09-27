@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7901)</li>
-<li>mail.google.com (5641)</li>
-<li>outlook.office.com (3392)</li>
-<li>www.facebook.com (2564)</li>
+<ol><li>www.google.com (7902)</li>
+<li>mail.google.com (5646)</li>
+<li>outlook.office.com (3400)</li>
+<li>www.facebook.com (2567)</li>
 <li>docs.google.com (1817)</li>
 <li>calendar.google.com (1301)</li>
 <li>www.amazon.co.uk (1172)</li>
@@ -79,13 +79,13 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1150)</li>
 <li>github.com (1003)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (646)</li>
+<li>gmail.com (647)</li>
 <li>tvtropes.org (637)</li>
 <li>whitewaterwriters.com (612)</li>
 <li>chat.openai.com (596)</li>
-<li>www.theguardian.com (590)</li>
+<li>www.theguardian.com (592)</li>
 <li>www.linkedin.com (560)</li>
-<li>app.qbo.intuit.com (556)</li>
+<li>app.qbo.intuit.com (557)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (430)</li>
 <li>teams.microsoft.com (415)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:10 moodle2324.royalholloway.ac.uk</li>
+<ul><li> 16:48 qbo.intuit.com</li>
+<li class='same'> 16:47 qbo.intuit.com</li>
+<li> 16:47 accounts.intuit.com</li>
+<li> 16:47 qbo.intuit.com</li>
+<li> 16:47 app.qbo.intuit.com</li>
+<li> 16:46 mail.google.com</li>
+<li> 16:44 www.theguardian.com</li>
+<li class='same'> 16:41 www.theguardian.com</li>
+<li> 16:41 mail.google.com</li>
+<li class='same'> 16:40 mail.google.com</li>
+<li class='same'> 16:39 mail.google.com</li>
+<li class='same'> 16:38 mail.google.com</li>
+<li> 16:38 gmail.com</li>
+<li> 16:37 www.lutongymnastics.co.uk</li>
+<li> 16:37 www.facebook.com</li>
+<li class='same'> 16:36 www.facebook.com</li>
+<li class='same'> 16:35 www.facebook.com</li>
+<li> 16:30 outlook.office.com</li>
+<li class='same'> 16:27 outlook.office.com</li>
+<li class='same'> 16:26 outlook.office.com</li>
+<li> 16:25 royalsociety.org</li>
+<li> 16:24 rsproduction.powerappsportals.com</li>
+<li> 16:23 grants.royalsociety.org</li>
+<li> 16:23 rsproduction.powerappsportals.com</li>
+<li> 16:23 royalsociety.org</li>
+<li> 16:22 outlook.office.com</li>
+<li> 16:21 librarysearch.royalholloway.ac.uk</li>
+<li> 16:21 www.google.com</li>
+<li> 16:21 outlook.office.com</li>
+<li class='same'> 16:20 outlook.office.com</li>
+<li> 16:16 projects.cs.rhul.ac.uk</li>
+<li> 16:14 outlook.office.com</li>
+<li class='same'> 16:13 outlook.office.com</li>
+<li> 16:10 moodle2324.royalholloway.ac.uk</li>
 <li class='same'> 16:09 moodle2324.royalholloway.ac.uk</li>
 <li class='same'> 16:08 moodle2324.royalholloway.ac.uk</li>
 <li> 16:08 login.microsoftonline.com</li>
