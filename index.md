@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7889)</li>
 <li>mail.google.com (5641)</li>
-<li>outlook.office.com (3352)</li>
+<li>outlook.office.com (3353)</li>
 <li>www.facebook.com (2564)</li>
-<li>docs.google.com (1815)</li>
-<li>calendar.google.com (1292)</li>
+<li>docs.google.com (1817)</li>
+<li>calendar.google.com (1297)</li>
 <li>www.amazon.co.uk (1171)</li>
 <li>www.reddit.com (1148)</li>
 <li>moodle.royalholloway.ac.uk (1131)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (429)</li>
 <li>web.whatsapp.com (413)</li>
+<li>drive.google.com (410)</li>
 <li>teams.microsoft.com (410)</li>
-<li>drive.google.com (408)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>login.microsoftonline.com (387)</li>
 <li>outlook.office365.com (379)</li>
@@ -104,7 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 27/09/24</H3>
+
+<br>
+
+<ul><li> 06:51 0.0.0.0:8000</li>
+<li> 06:38 calendar.google.com</li>
+<li class='same'> 06:37 calendar.google.com</li>
+<li> 06:19 docs.google.com</li>
+<li> 06:09 calendar.google.com</li>
+<li class='same'> 06:08 calendar.google.com</li>
+<li class='same'> 06:07 calendar.google.com</li>
+<li> 05:52 0.0.0.0:8000</li>
+<li> 05:51 docs.google.com</li>
+<li> 05:50 drive.google.com</li>
+<li class='same'> 05:49 drive.google.com</li>
+</ul>
+
 <H3>Thursday, 26/09/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -114,7 +135,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:15 uk.bettshow.com</li>
+<ul><li> 18:18 outlook.office.com</li>
+<li> 18:15 uk.bettshow.com</li>
 <li> 18:15 <a href="https://en.wikipedia.org/wiki/BETT">BETT - Wikipedia</a></li>
 <li> 18:15 www.google.com</li>
 <li> 18:13 www.whatdotheyknow.com</li>
