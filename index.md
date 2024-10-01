@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8011)</li>
+<ol><li>www.google.com (8017)</li>
 <li>mail.google.com (5680)</li>
 <li>outlook.office.com (3418)</li>
 <li>www.facebook.com (2607)</li>
 <li>docs.google.com (1830)</li>
-<li>calendar.google.com (1326)</li>
+<li>calendar.google.com (1327)</li>
 <li>moodle.royalholloway.ac.uk (1188)</li>
-<li>www.amazon.co.uk (1181)</li>
+<li>www.amazon.co.uk (1182)</li>
 <li>www.reddit.com (1174)</li>
 <li>github.com (1007)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (655)</li>
-<li>tvtropes.org (645)</li>
+<li>tvtropes.org (646)</li>
 <li>www.theguardian.com (616)</li>
 <li>whitewaterwriters.com (612)</li>
 <li>chat.openai.com (598)</li>
@@ -91,8 +91,8 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (422)</li>
 <li>teams.microsoft.com (419)</li>
+<li>login.microsoftonline.com (419)</li>
 <li>drive.google.com (418)</li>
-<li>login.microsoftonline.com (418)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (309)</li>
@@ -105,6 +105,34 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 01/10/24</H3>
+
+<br>
+
+<ul><li> 21:21 learning.oreilly.com</li>
+<li> 21:21 login.openathens.net</li>
+<li class='same'> 21:20 login.openathens.net</li>
+<li> 21:20 login.microsoftonline.com</li>
+<li> 21:20 www.oreilly.com</li>
+<li> 21:20 librarysearch.royalholloway.ac.uk</li>
+<li> 21:19 www.amazon.co.uk</li>
+<li> 21:19 www.google.com</li>
+<li> 21:19 librarysearch.royalholloway.ac.uk</li>
+<li> 21:19 www.google.com</li>
+<li> 21:17 tvtropes.org</li>
+<li> 21:17 www.google.com</li>
+<li> 21:16 www.thehugoawards.org</li>
+<li> 21:16 www.google.com</li>
+<li> 21:16 seattlein2025.org</li>
+<li> 21:15 www.google.com</li>
+<li> 21:15 <a href="https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel">Hugo Award for Best Novel - Wikipedia</a></li>
+<li> 21:12 calendar.google.com</li>
+<li> 21:10 <a href="https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel">Nebula Award for Best Novel - Wikipedia</a></li>
+<li> 21:10 <a href="https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novelette">Nebula Award for Best Novelette - Wikipedia</a></li>
+<li> 21:05 <a href="https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel">Hugo Award for Best Novel - Wikipedia</a></li>
+<li> 21:04 <a href="https://en.wikipedia.org/wiki/Hugo_Award">Hugo Award - Wikipedia</a></li>
+<li> 20:59 <a href="https://en.wikipedia.org/wiki/List_of_winners_and_nominated_authors_of_the_Booker_Prize">List of winners and nominated authors of the Booker Prize - Wikipedia</a></li>
+<li> 20:59 www.google.com</li>
+</ul>
 
 <br>
 
