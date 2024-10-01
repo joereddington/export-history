@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7990)</li>
+<ol><li>www.google.com (7992)</li>
 <li>mail.google.com (5671)</li>
 <li>outlook.office.com (3417)</li>
 <li>www.facebook.com (2607)</li>
@@ -87,8 +87,8 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (577)</li>
 <li>app.qbo.intuit.com (558)</li>
 <li>en.m.wikipedia.org (488)</li>
+<li>outlook.office365.com (431)</li>
 <li>kdp.amazon.com (430)</li>
-<li>outlook.office365.com (430)</li>
 <li>web.whatsapp.com (422)</li>
 <li>drive.google.com (418)</li>
 <li>teams.microsoft.com (417)</li>
@@ -108,10 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:35 www.google.com</li>
+<ul><li> 14:50 www.google.com</li>
+<li class='same'> 14:49 www.google.com</li>
+<li> 14:37 <a href="https://joereddington.com/2021/01/28/Finder-Zero-You-use-far-fewer-files-than-you-think,-so-stop-hoarding-them.html">Finder Zero - You use far fewer files than you think, so stop hoarding them | Joe Reddington</a></li>
+<li> 14:35 www.google.com</li>
 <li> 14:32 superuser.com</li>
 <li> 14:32 www.google.com</li>
-<li class='same'> 14:31 www.google.com</li>
+<li> 14:31 outlook.office365.com</li>
+<li> 14:31 www.google.com</li>
 <li class='same'> 14:11 www.google.com</li>
 <li> 14:06 chatgpt.com</li>
 <li class='same'> 14:05 chatgpt.com</li>
