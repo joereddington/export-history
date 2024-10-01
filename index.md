@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7994)</li>
+<ol><li>www.google.com (7999)</li>
 <li>mail.google.com (5671)</li>
-<li>outlook.office.com (3417)</li>
+<li>outlook.office.com (3418)</li>
 <li>www.facebook.com (2607)</li>
 <li>docs.google.com (1829)</li>
-<li>calendar.google.com (1318)</li>
+<li>calendar.google.com (1322)</li>
+<li>moodle.royalholloway.ac.uk (1181)</li>
 <li>www.amazon.co.uk (1177)</li>
-<li>moodle.royalholloway.ac.uk (1174)</li>
 <li>www.reddit.com (1167)</li>
 <li>github.com (1007)</li>
 <li>m.facebook.com (978)</li>
@@ -87,15 +87,15 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (577)</li>
 <li>app.qbo.intuit.com (558)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>outlook.office365.com (432)</li>
+<li>outlook.office365.com (444)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (422)</li>
+<li>teams.microsoft.com (419)</li>
 <li>drive.google.com (418)</li>
-<li>teams.microsoft.com (417)</li>
-<li>login.microsoftonline.com (415)</li>
+<li>login.microsoftonline.com (418)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
-<li>rhul.sharepoint.com (308)</li>
+<li>rhul.sharepoint.com (309)</li>
 <li>www.giantitp.com (299)</li>
 <li>Local file (271)</li>
 
@@ -108,7 +108,67 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:06 www.google.com</li>
+<ul><li> 17:44 outlook.office365.com</li>
+<li> 17:44 pure.royalholloway.ac.uk</li>
+<li> 17:44 www.google.com</li>
+<li> 17:37 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 17:35 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 17:34 webtimetables.royalholloway.ac.uk</li>
+<li> 17:34 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:33 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:32 moodle.royalholloway.ac.uk</li>
+<li> 17:32 pure.royalholloway.ac.uk</li>
+<li> 17:32 www.google.com</li>
+<li> 17:31 myview.rhul.zellis.com</li>
+<li> 17:31 login.microsoftonline.com</li>
+<li> 17:31 myview.rhul.zellis.com</li>
+<li> 17:31 outlook.office.com</li>
+<li> 17:31 intranet.royalholloway.ac.uk</li>
+<li> 17:31 outlook.office365.com</li>
+<li> 17:30 calendar.google.com</li>
+<li> 17:30 teams.microsoft.com</li>
+<li> 17:30 outlook.office365.com</li>
+<li> 17:26 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 17:25 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 17:24 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 17:23 moodle2324.royalholloway.ac.uk</li>
+<li> 17:21 outlook.office365.com</li>
+<li> 17:21 rhul.sharepoint.com</li>
+<li> 17:21 rhul-my.sharepoint.com</li>
+<li> 17:19 discord.com</li>
+<li class='same'> 17:17 discord.com</li>
+<li> 17:16 teams.microsoft.com</li>
+<li> 17:15 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 17:14 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 17:13 moodle2324.royalholloway.ac.uk</li>
+<li> 17:13 login.microsoftonline.com</li>
+<li> 17:13 moodle2324.royalholloway.ac.uk</li>
+<li> 17:13 moodle.royalholloway.ac.uk</li>
+<li> 17:13 outlook.office365.com</li>
+<li class='same'> 17:12 outlook.office365.com</li>
+<li> 17:11 rhul-my.sharepoint.com</li>
+<li> 17:11 outlook.office365.com</li>
+<li> 17:11 calendar.google.com</li>
+<li class='same'> 17:10 calendar.google.com</li>
+<li class='same'> 17:03 calendar.google.com</li>
+<li> 17:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:01 moodle.royalholloway.ac.uk</li>
+<li> 17:01 login.microsoftonline.com</li>
+<li> 17:01 moodle.royalholloway.ac.uk</li>
+<li> 17:00 outlook.office365.com</li>
+<li> 16:59 www.accessable.co.uk</li>
+<li> 16:59 www.google.com</li>
+<li> 16:59 outlook.office365.com</li>
+<li class='same'> 16:58 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:11 outlook.office365.com</li>
+<li class='same'> 16:10 outlook.office365.com</li>
+<li> 16:09 www.google.com</li>
+<li class='same'> 16:08 www.google.com</li>
+<li class='same'> 16:06 www.google.com</li>
 <li> 16:06 www.theguardian.com</li>
 <li> 16:05 tvtropes.org</li>
 <li class='same'> 16:03 tvtropes.org</li>
