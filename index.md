@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8000)</li>
+<ol><li>www.google.com (8002)</li>
 <li>mail.google.com (5671)</li>
 <li>outlook.office.com (3418)</li>
 <li>www.facebook.com (2607)</li>
 <li>docs.google.com (1829)</li>
 <li>calendar.google.com (1323)</li>
 <li>moodle.royalholloway.ac.uk (1188)</li>
-<li>www.amazon.co.uk (1177)</li>
-<li>www.reddit.com (1170)</li>
+<li>www.amazon.co.uk (1179)</li>
+<li>www.reddit.com (1171)</li>
 <li>github.com (1007)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (654)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:16 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
+<ul><li> 18:20 www.amazon.co.uk</li>
+<li> 18:19 www.amazon.com</li>
+<li> 18:19 www.amazon.co.uk</li>
+<li> 18:19 www.google.com</li>
+<li> 18:18 www.reddit.com</li>
+<li> 18:18 www.google.com</li>
+<li> 18:16 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
 <li> 18:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 18:14 discord.com</li>
