@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7986)</li>
 <li>mail.google.com (5671)</li>
-<li>outlook.office.com (3416)</li>
+<li>outlook.office.com (3417)</li>
 <li>www.facebook.com (2606)</li>
-<li>docs.google.com (1828)</li>
-<li>calendar.google.com (1313)</li>
+<li>docs.google.com (1829)</li>
+<li>calendar.google.com (1314)</li>
 <li>www.amazon.co.uk (1177)</li>
 <li>moodle.royalholloway.ac.uk (1174)</li>
 <li>www.reddit.com (1164)</li>
@@ -90,14 +90,14 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (430)</li>
 <li>outlook.office365.com (429)</li>
 <li>web.whatsapp.com (421)</li>
-<li>drive.google.com (417)</li>
+<li>drive.google.com (418)</li>
 <li>teams.microsoft.com (416)</li>
 <li>login.microsoftonline.com (415)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (308)</li>
-<li>www.giantitp.com (298)</li>
-<li>Local file (270)</li>
+<li>www.giantitp.com (299)</li>
+<li>Local file (271)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:29 outlook.office.com</li>
+<ul><li> 13:38 docs.google.com</li>
+<li> 13:37 calendar.google.com</li>
+<li> 13:36 drive.google.com</li>
+<li> 13:33 ico.org.uk</li>
+<li> 13:30 feedly.com</li>
+<li> 13:30 www.giantitp.com</li>
+<li> 13:30 outlook.office.com</li>
+<li> 13:29 Local file</li>
+<li> 13:29 outlook.office.com</li>
 <li> 13:29 calendar.google.com</li>
 <li> 13:28 outlook.office.com</li>
 <li class='same'> 13:27 outlook.office.com</li>
