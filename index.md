@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (7986)</li>
 <li>mail.google.com (5671)</li>
 <li>outlook.office.com (3417)</li>
-<li>www.facebook.com (2606)</li>
+<li>www.facebook.com (2607)</li>
 <li>docs.google.com (1829)</li>
-<li>calendar.google.com (1316)</li>
+<li>calendar.google.com (1318)</li>
 <li>www.amazon.co.uk (1177)</li>
 <li>moodle.royalholloway.ac.uk (1174)</li>
-<li>www.reddit.com (1164)</li>
+<li>www.reddit.com (1166)</li>
 <li>github.com (1007)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (654)</li>
@@ -88,10 +88,10 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (558)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (430)</li>
-<li>outlook.office365.com (429)</li>
-<li>web.whatsapp.com (421)</li>
+<li>outlook.office365.com (430)</li>
+<li>web.whatsapp.com (422)</li>
 <li>drive.google.com (418)</li>
-<li>teams.microsoft.com (416)</li>
+<li>teams.microsoft.com (417)</li>
 <li>login.microsoftonline.com (415)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:40 calendar.google.com</li>
+<ul><li> 14:05 chatgpt.com</li>
+<li> 13:57 calendar.google.com</li>
+<li> 13:54 teams.microsoft.com</li>
+<li> 13:54 outlook.office365.com</li>
+<li> 13:52 www.reddit.com</li>
+<li class='same'> 13:50 www.reddit.com</li>
+<li> 13:47 web.whatsapp.com</li>
+<li> 13:45 calendar.google.com</li>
+<li class='same'> 13:40 calendar.google.com</li>
 <li class='same'> 13:39 calendar.google.com</li>
 <li> 13:38 docs.google.com</li>
 <li> 13:37 calendar.google.com</li>
@@ -122,7 +130,8 @@ With number of accesses/minutes in parentheses
 <li> 13:29 calendar.google.com</li>
 <li> 13:28 outlook.office.com</li>
 <li class='same'> 13:27 outlook.office.com</li>
-<li> 13:19 www.facebook.com</li>
+<li> 13:20 www.facebook.com</li>
+<li class='same'> 13:19 www.facebook.com</li>
 <li class='same'> 13:18 www.facebook.com</li>
 <li class='same'> 13:17 www.facebook.com</li>
 <li class='same'> 13:16 www.facebook.com</li>
