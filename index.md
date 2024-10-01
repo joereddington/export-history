@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7992)</li>
+<ol><li>www.google.com (7994)</li>
 <li>mail.google.com (5671)</li>
 <li>outlook.office.com (3417)</li>
 <li>www.facebook.com (2607)</li>
@@ -76,18 +76,18 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1318)</li>
 <li>www.amazon.co.uk (1177)</li>
 <li>moodle.royalholloway.ac.uk (1174)</li>
-<li>www.reddit.com (1166)</li>
+<li>www.reddit.com (1167)</li>
 <li>github.com (1007)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (654)</li>
-<li>tvtropes.org (641)</li>
-<li>www.theguardian.com (615)</li>
+<li>tvtropes.org (645)</li>
+<li>www.theguardian.com (616)</li>
 <li>whitewaterwriters.com (612)</li>
 <li>chat.openai.com (598)</li>
 <li>www.linkedin.com (577)</li>
 <li>app.qbo.intuit.com (558)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>outlook.office365.com (431)</li>
+<li>outlook.office365.com (432)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (422)</li>
 <li>drive.google.com (418)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 01/10/24</H3>
+
+<br>
+
+<ul><li> 16:06 www.google.com</li>
+<li> 16:06 www.theguardian.com</li>
+<li> 16:05 tvtropes.org</li>
+<li class='same'> 16:03 tvtropes.org</li>
+<li class='same'> 16:02 tvtropes.org</li>
+<li class='same'> 15:59 tvtropes.org</li>
+<li> 15:59 www.google.com</li>
+<li> 15:58 www.reddit.com</li>
+<li> 15:58 outlook.office365.com</li>
+</ul>
 
 <br>
 
