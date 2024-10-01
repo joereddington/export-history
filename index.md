@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (641)</li>
 <li>www.theguardian.com (615)</li>
 <li>whitewaterwriters.com (612)</li>
-<li>chat.openai.com (597)</li>
+<li>chat.openai.com (598)</li>
 <li>www.linkedin.com (577)</li>
 <li>app.qbo.intuit.com (558)</li>
 <li>en.m.wikipedia.org (488)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:39 rhul-my.sharepoint.com</li>
+<ul><li> 09:46 rhul-my.sharepoint.com</li>
+<li> 09:43 chatgpt.com</li>
+<li> 09:43 chat.openai.com</li>
+<li> 09:39 rhul-my.sharepoint.com</li>
 <li> 09:38 learn.microsoft.com</li>
 <li> 09:38 www.google.com</li>
 <li> 09:38 rhul-my.sharepoint.com</li>
