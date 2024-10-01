@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7969)</li>
+<ol><li>www.google.com (7973)</li>
 <li>mail.google.com (5671)</li>
 <li>outlook.office.com (3409)</li>
 <li>www.facebook.com (2596)</li>
@@ -76,14 +76,14 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1312)</li>
 <li>www.amazon.co.uk (1177)</li>
 <li>moodle.royalholloway.ac.uk (1174)</li>
-<li>www.reddit.com (1163)</li>
+<li>www.reddit.com (1164)</li>
 <li>github.com (1003)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (654)</li>
 <li>tvtropes.org (641)</li>
 <li>www.theguardian.com (615)</li>
 <li>whitewaterwriters.com (612)</li>
-<li>chat.openai.com (596)</li>
+<li>chat.openai.com (597)</li>
 <li>www.linkedin.com (577)</li>
 <li>app.qbo.intuit.com (558)</li>
 <li>en.m.wikipedia.org (488)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (421)</li>
 <li>drive.google.com (416)</li>
 <li>teams.microsoft.com (416)</li>
-<li>login.microsoftonline.com (406)</li>
+<li>login.microsoftonline.com (409)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (308)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:17 tvtropes.org</li>
+<ul><li> 09:28 www.google.com</li>
+<li> 09:27 www.reddit.com</li>
+<li> 09:27 www.google.com</li>
+<li> 09:26 ubuntu-mate.community</li>
+<li> 09:26 support.google.com</li>
+<li> 09:25 www.mozilla.org</li>
+<li> 09:25 www.google.com</li>
+<li> 09:24 chatgpt.com</li>
+<li> 09:24 chat.openai.com</li>
+<li> 09:23 support.mozilla.org</li>
+<li> 09:23 www.google.com</li>
+<li> 09:23 login.microsoftonline.com</li>
+<li> 09:23 forms.office.com</li>
+<li> 09:22 rhul-my.sharepoint.com</li>
+<li> 09:22 login.microsoftonline.com</li>
+<li> 09:22 rhul-my.sharepoint.com</li>
+<li> 09:22 forms.office.com</li>
+<li> 09:22 login.microsoftonline.com</li>
+<li> 09:22 forms.office.com</li>
+<li> 09:17 tvtropes.org</li>
 <li> 09:17 www.google.com</li>
 </ul>
 
