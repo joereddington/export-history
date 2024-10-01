@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (421)</li>
 <li>drive.google.com (417)</li>
 <li>teams.microsoft.com (416)</li>
-<li>login.microsoftonline.com (413)</li>
+<li>login.microsoftonline.com (414)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (308)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:18 royalholloway.ac.uk</li>
+<ul><li> 12:40 login.microsoftonline.com</li>
+<li> 12:40 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 12:40 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:18 royalholloway.ac.uk</li>
 <li> 12:13 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 12:13 login.microsoftonline.com</li>
 <li> 12:13 generalssb-prod.ec.royalholloway.ac.uk</li>
