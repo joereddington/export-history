@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (7986)</li>
 <li>mail.google.com (5671)</li>
-<li>outlook.office.com (3412)</li>
+<li>outlook.office.com (3413)</li>
 <li>www.facebook.com (2596)</li>
 <li>docs.google.com (1828)</li>
 <li>calendar.google.com (1312)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (421)</li>
 <li>drive.google.com (417)</li>
 <li>teams.microsoft.com (416)</li>
-<li>login.microsoftonline.com (411)</li>
+<li>login.microsoftonline.com (413)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (308)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:07 github.com</li>
+<ul><li> 12:13 login.microsoftonline.com</li>
+<li> 12:13 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:13 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 12:13 experience.elluciancloud.ie</li>
+<li> 12:13 login.microsoftonline.com</li>
+<li> 12:13 experience.elluciancloud.ie</li>
+<li> 12:13 eee-api-eu-west-1.10005.elluciancloud.ie</li>
+<li> 12:11 outlook.office.com</li>
+<li> 12:07 github.com</li>
 <li class='same'> 12:06 github.com</li>
 <li class='same'> 12:05 github.com</li>
 <li class='same'> 12:04 github.com</li>
