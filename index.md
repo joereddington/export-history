@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7971)</li>
+<ol><li>www.google.com (7968)</li>
 <li>mail.google.com (5671)</li>
-<li>outlook.office.com (3410)</li>
+<li>outlook.office.com (3409)</li>
 <li>www.facebook.com (2596)</li>
-<li>docs.google.com (1828)</li>
+<li>docs.google.com (1827)</li>
 <li>calendar.google.com (1312)</li>
 <li>www.amazon.co.uk (1177)</li>
 <li>moodle.royalholloway.ac.uk (1174)</li>
@@ -90,9 +90,9 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (430)</li>
 <li>outlook.office365.com (426)</li>
 <li>web.whatsapp.com (421)</li>
-<li>teams.microsoft.com (417)</li>
 <li>drive.google.com (416)</li>
-<li>login.microsoftonline.com (407)</li>
+<li>teams.microsoft.com (416)</li>
+<li>login.microsoftonline.com (406)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (308)</li>
@@ -15312,8 +15312,6 @@ With number of accesses/minutes in parentheses
 <li> 15:47 chat.openai.com</li>
 <li> 15:44 stackauth.com</li>
 <li> 15:44 askubuntu.com</li>
-<li> 15:44 accounts.google.com</li>
-<li> 15:44 askubuntu.com</li>
 <li> 15:44 www.google.com</li>
 <li> 15:44 ubuntu.com</li>
 <li> 15:40 faq.i3wm.org</li>
@@ -15357,16 +15355,12 @@ With number of accesses/minutes in parentheses
 <li> 14:51 gmail.com</li>
 <li> 14:28 outlook.office.com</li>
 <li> 14:27 teams.microsoft.com</li>
-<li> 14:27 login.microsoftonline.com</li>
-<li> 14:27 teams.microsoft.com</li>
 <li class='same'> 14:25 teams.microsoft.com</li>
-<li> 14:25 outlook.office.com</li>
 <li> 14:25 www.linkedin.com</li>
 <li> 14:25 outlook.office.com</li>
 <li> 14:24 Local file</li>
 <li> 14:24 outlook.office.com</li>
 <li> 14:23 www.ofenewsletters.co.uk</li>
-<li> 14:23 eur03.safelinks.protection.outlook.com</li>
 <li> 14:23 outlook.office.com</li>
 <li class='same'> 14:22 outlook.office.com</li>
 <li> 14:22 login.microsoftonline.com</li>
@@ -15388,8 +15382,6 @@ With number of accesses/minutes in parentheses
 <li> 13:51 drive.google.com</li>
 <li class='same'> 13:50 drive.google.com</li>
 <li> 13:49 docs.google.com</li>
-<li> 13:49 www.google.com</li>
-<li> 13:49 docs.google.com</li>
 <li> 13:49 mail.google.com</li>
 <li> 13:48 calendar.google.com</li>
 <li> 13:47 mail.google.com</li>
@@ -15398,7 +15390,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:45 drive.google.com</li>
 <li> 13:45 calendar.google.com</li>
 <li> 13:43 mail.google.com</li>
-<li> 13:43 www.google.com</li>
 <li> 13:43 clicks.beds.ac.uk</li>
 <li> 13:43 mail.google.com</li>
 <li class='same'> 13:40 mail.google.com</li>
@@ -15432,7 +15423,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:14 www.amazon.co.uk</li>
 <li> 13:13 www.explainxkcd.com</li>
 <li> 13:12 www.reddit.com</li>
-<li> 13:11 www.google.com</li>
 <li> 13:10 www.health.harvard.edu</li>
 <li> 13:10 www.google.com</li>
 <li> 13:07 <a href="https://www.youtube.com/watch?v=k0div_OhCs4">(51) FORD FIESTA REAR BRAKE LIGHT BULB CHANGE - YouTube</a></li>
@@ -15475,13 +15465,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:00 chatgpt.com</li>
 <li class='same'> 09:59 chatgpt.com</li>
 <li> 09:59 auth0.openai.com</li>
-<li> 09:59 auth.openai.com</li>
 <li> 09:59 chatgpt.com</li>
 <li> 09:49 platform.openai.com</li>
 <li> 09:48 github.com</li>
 <li> 09:47 platform.openai.com</li>
 <li> 09:47 auth0.openai.com</li>
-<li> 09:47 auth.openai.com</li>
 <li> 09:47 platform.openai.com</li>
 <li> 09:41 chatgpt.com</li>
 <li> 09:37 docs.google.com</li>
