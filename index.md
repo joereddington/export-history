@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (7999)</li>
+<ol><li>www.google.com (8000)</li>
 <li>mail.google.com (5671)</li>
 <li>outlook.office.com (3418)</li>
 <li>www.facebook.com (2607)</li>
 <li>docs.google.com (1829)</li>
-<li>calendar.google.com (1322)</li>
-<li>moodle.royalholloway.ac.uk (1181)</li>
+<li>calendar.google.com (1323)</li>
+<li>moodle.royalholloway.ac.uk (1188)</li>
 <li>www.amazon.co.uk (1177)</li>
-<li>www.reddit.com (1167)</li>
+<li>www.reddit.com (1170)</li>
 <li>github.com (1007)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (654)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (577)</li>
 <li>app.qbo.intuit.com (558)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>outlook.office365.com (444)</li>
+<li>outlook.office365.com (446)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (422)</li>
 <li>teams.microsoft.com (419)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:44 outlook.office365.com</li>
+<ul><li> 18:16 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
+<li> 18:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 18:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 18:14 discord.com</li>
+<li class='same'> 18:13 discord.com</li>
+<li> 18:09 webtimetables.royalholloway.ac.uk</li>
+<li> 18:09 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 18:08 moodle2324.royalholloway.ac.uk</li>
+<li> 18:08 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:06 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:01 moodle.royalholloway.ac.uk</li>
+<li> 17:59 www.reddit.com</li>
+<li> 17:58 calendar.google.com</li>
+<li> 17:57 www.reddit.com</li>
+<li class='same'> 17:55 www.reddit.com</li>
+<li> 17:55 outlook.office365.com</li>
+<li> 17:55 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:51 moodle.royalholloway.ac.uk</li>
+<li> 17:50 outlook.office365.com</li>
+<li> 17:50 moodle.royalholloway.ac.uk</li>
+<li> 17:46 pure.royalholloway.ac.uk</li>
+<li> 17:46 www.google.com</li>
+<li> 17:44 outlook.office365.com</li>
 <li> 17:44 pure.royalholloway.ac.uk</li>
 <li> 17:44 www.google.com</li>
 <li> 17:37 webtimetables.royalholloway.ac.uk</li>
