@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (615)</li>
 <li>whitewaterwriters.com (612)</li>
 <li>chat.openai.com (596)</li>
-<li>www.linkedin.com (576)</li>
+<li>www.linkedin.com (577)</li>
 <li>app.qbo.intuit.com (558)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (430)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:57 calendar.google.com</li>
+<ul><li> 07:17 www.linkedin.com</li>
+<li> 07:17 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 06:57 calendar.google.com</li>
 <li> 06:57 www.google.com</li>
 <li> 06:55 0.0.0.0:8000</li>
 <li> 06:49 www.linkedin.com</li>
