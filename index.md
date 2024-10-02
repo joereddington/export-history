@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8044)</li>
-<li>mail.google.com (5720)</li>
+<ol><li>www.google.com (8045)</li>
+<li>mail.google.com (5722)</li>
 <li>outlook.office.com (3434)</li>
 <li>www.facebook.com (2609)</li>
 <li>docs.google.com (1836)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (660)</li>
 <li>tvtropes.org (646)</li>
 <li>www.theguardian.com (616)</li>
-<li>whitewaterwriters.com (614)</li>
+<li>whitewaterwriters.com (615)</li>
 <li>chat.openai.com (598)</li>
 <li>www.linkedin.com (587)</li>
 <li>app.qbo.intuit.com (561)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:25 whitewaterwriters.com</li>
+<ul><li> 12:36 mail.google.com</li>
+<li class='same'> 12:35 mail.google.com</li>
+<li> 12:34 www.google.com</li>
+<li> 12:30 whitewaterwriters.com</li>
+<li class='same'> 12:25 whitewaterwriters.com</li>
 <li> 12:24 claude.ai</li>
 <li> 12:22 www.google.com</li>
 <li> 12:21 docs.google.com</li>
