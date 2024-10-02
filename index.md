@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (488)</li>
 <li>outlook.office365.com (461)</li>
 <li>kdp.amazon.com (430)</li>
-<li>login.microsoftonline.com (423)</li>
+<li>login.microsoftonline.com (424)</li>
 <li>web.whatsapp.com (423)</li>
 <li>teams.microsoft.com (420)</li>
 <li>drive.google.com (419)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:28 venue.royalholloway.ac.uk</li>
+<ul><li> 09:34 venue.royalholloway.ac.uk</li>
+<li> 09:32 myview.rhul.zellis.com</li>
+<li> 09:32 venue.royalholloway.ac.uk</li>
+<li> 09:31 myview.rhul.zellis.com</li>
+<li> 09:31 login.microsoftonline.com</li>
+<li> 09:31 myview.rhul.zellis.com</li>
+<li> 09:28 venue.royalholloway.ac.uk</li>
 <li> 09:24 Local file</li>
 <li> 09:24 outlook.office.com</li>
 <li class='same'> 09:23 outlook.office.com</li>
