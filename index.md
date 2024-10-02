@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8046)</li>
+<ol><li>www.google.com (8050)</li>
 <li>mail.google.com (5724)</li>
 <li>outlook.office.com (3435)</li>
 <li>www.facebook.com (2609)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (978)</li>
 <li>gmail.com (660)</li>
 <li>tvtropes.org (646)</li>
-<li>www.theguardian.com (616)</li>
+<li>www.theguardian.com (617)</li>
 <li>whitewaterwriters.com (615)</li>
 <li>chat.openai.com (598)</li>
 <li>www.linkedin.com (590)</li>
@@ -108,7 +108,108 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:45 <a href="https://en.wikipedia.org/w/index.php?title=Calum_McSwiggan&curid=58303609&diff=1248760766&oldid=1247634466">Calum McSwiggan: Difference between revisions - Wikipedia</a></li>
+<ul><li> 14:25 <a href="https://en.wikipedia.org/wiki/Yahoo_Voices">Yahoo Voices - Wikipedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack?action=edit&veswitched=1">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack?venotify=saved">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:24 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&oldid=1248965654&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:24 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li class='same'> 14:23 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:23 <a href="https://en.wikipedia.org/wiki/Yahoo_Voices">Yahoo Voices - Wikipedia</a></li>
+<li> 14:23 www.google.com</li>
+<li> 14:23 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:23 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=history">2012 Yahoo Voices hack: Revision history - Wikipedia</a></li>
+<li> 14:22 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack#The_Breach">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:20 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit&section=1">Editing 2012 Yahoo Voices hack (section) - Wikipedia</a></li>
+<li> 14:20 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:16 ssl.engineering.nyu.edu</li>
+<li> 14:15 www.researchgate.net</li>
+<li class='same'> 14:14 www.researchgate.net</li>
+<li> 14:14 scholar.google.co.uk</li>
+<li> 14:14 www.google.com</li>
+<li> 14:14 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:14 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=history">2012 Yahoo Voices hack: Revision history - Wikipedia</a></li>
+<li> 14:14 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:11 <a href="https://en.wikipedia.org/w/index.php?title=Information_Security_Group&action=edit&section=1">Editing Information Security Group (section) - Wikipedia</a></li>
+<li> 14:11 <a href="https://en.wikipedia.org/wiki/Information_Security_Group">Information Security Group - Wikipedia</a></li>
+<li> 14:11 adblockplus.org</li>
+<li> 14:11 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 14:07 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:05 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:05 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit&section=1">Editing 2012 Yahoo Voices hack (section) - Wikipedia</a></li>
+<li> 14:05 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:04 <a href="https://www.bbc.co.uk/news/technology-18811300">Yahoo investigating exposure of 400,000 passwords - BBC News</a></li>
+<li> 14:04 www.bbc.com</li>
+<li> 14:04 www.google.com</li>
+<li> 14:04 <a href="https://www.bbc.co.uk/news/newsbeat-37919042">British YouTube star Calum McSwiggan admits to vandalism after LA 'hate crime' - BBC News</a></li>
+<li> 14:03 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:03 <a href="https://en.wikipedia.org/wiki/Yahoo_Voices">Yahoo Voices - Wikipedia</a></li>
+<li> 14:03 <a href="https://en.wikipedia.org/wiki/Yahoo!_Voices">Yahoo Voices - Wikipedia</a></li>
+<li> 14:03 www.businesstoday.in</li>
+<li> 14:02 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack#cite_note-3">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:01 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack#Reaction_by_communities_and_users">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:01 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit&section=1">Editing 2012 Yahoo Voices hack (section) - Wikipedia</a></li>
+<li> 14:01 www.latinospost.com</li>
+<li> 14:01 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack#Controversy">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 14:00 www.tapscape.com</li>
+<li> 13:59 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 13:59 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack#Controversy">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 13:59 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit&section=3">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 13:59 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 13:58 money.cnn.com</li>
+<li> 13:58 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack#Controversy">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 13:57 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit&section=3">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 13:57 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=history">2012 Yahoo Voices hack: Revision history - Wikipedia</a></li>
+<li> 13:56 claude.ai</li>
+<li> 13:56 www.technologyreview.com</li>
+<li> 13:55 www.theverge.com</li>
+<li> 13:55 www.bbc.com</li>
+<li> 13:55 <a href="https://www.bbc.co.uk/news/technology-18811300">Yahoo investigating exposure of 400,000 passwords - BBC News</a></li>
+<li> 13:55 claude.ai</li>
+<li> 13:55 www.theguardian.com</li>
+<li> 13:54 www.google.com</li>
+<li> 13:54 www.google.co.uk</li>
+<li> 13:54 books.google.co.uk</li>
+<li> 13:53 scholar.google.com</li>
+<li> 13:52 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 13:52 <a href="https://en.wikipedia.org/wiki/2012_Yahoo!_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 13:52 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 13:52 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo_data_breaches">Talk:Yahoo data breaches - Wikipedia</a></li>
+<li> 13:51 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&action=history">Yahoo data breaches: Revision history - Wikipedia</a></li>
+<li> 13:51 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 13:51 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&redirect=no">Yahoo! data breaches - Wikipedia</a></li>
+<li> 13:51 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 13:51 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 13:51 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 13:51 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 13:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:50 <a href="https://en.wikipedia.org/w/index.php?title=Threat_model&diff=1248771825&oldid=1248767727">Threat model: Difference between revisions - Wikipedia</a></li>
+<li> 13:50 <a href="https://en.wikipedia.org/w/index.php?title=Threat_model&action=history">Threat model: Revision history - Wikipedia</a></li>
+<li> 13:50 <a href="https://en.wikipedia.org/wiki/Threat_model">Threat model - Wikipedia</a></li>
+<li> 13:50 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:50 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:49 <a href="https://en.wikipedia.org/wiki/User:456legend">User:456legend - Wikipedia</a></li>
+<li> 13:49 <a href="https://en.wikipedia.org/w/index.php?title=Nara_Lokesh&diff=1248739080&oldid=1245688727">Nara Lokesh: Difference between revisions - Wikipedia</a></li>
+<li> 13:49 <a href="https://en.wikipedia.org/w/index.php?title=Nara_Lokesh&action=history">Nara Lokesh: Revision history - Wikipedia</a></li>
+<li> 13:49 <a href="https://en.wikipedia.org/wiki/Nara_Lokesh">Nara Lokesh - Wikipedia</a></li>
+<li> 13:49 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:49 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:49 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:49 <a href="https://en.wikipedia.org/wiki/Calum_McSwiggan">Calum McSwiggan - Wikipedia</a></li>
+<li> 13:48 <a href="https://en.wikipedia.org/w/index.php?title=Calum_McSwiggan&action=history">Calum McSwiggan: Revision history - Wikipedia</a></li>
+<li> 13:48 <a href="https://en.wikipedia.org/wiki/Calum_McSwiggan">Calum McSwiggan - Wikipedia</a></li>
+<li> 13:48 <a href="https://en.wikipedia.org/wiki/Talk:Calum_McSwiggan">Talk:Calum McSwiggan - Wikipedia</a></li>
+<li> 13:48 <a href="https://en.wikipedia.org/wiki/Calum_McSwiggan#Controversy">Calum McSwiggan - Wikipedia</a></li>
+<li> 13:47 www.bbc.com</li>
+<li> 13:47 <a href="https://www.bbc.co.uk/news/newsbeat-37919042">British YouTube star Calum McSwiggan admits to vandalism after LA 'hate crime' - BBC News</a></li>
+<li> 13:47 <a href="https://en.wikipedia.org/w/index.php?title=Calum_McSwiggan&action=edit&section=7">Editing Calum McSwiggan - Wikipedia</a></li>
+<li> 13:47 <a href="https://en.wikipedia.org/wiki/Calum_McSwiggan">Calum McSwiggan - Wikipedia</a></li>
+<li> 13:46 <a href="https://www.bbc.co.uk/news/newsbeat-37919042">British YouTube star Calum McSwiggan admits to vandalism after LA 'hate crime' - BBC News</a></li>
+<li> 13:46 www.bbc.com</li>
+<li> 13:45 <a href="https://en.wikipedia.org/w/index.php?title=Calum_McSwiggan&curid=58303609&diff=1248760766&oldid=1247634466">Calum McSwiggan: Difference between revisions - Wikipedia</a></li>
 <li> 13:45 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 13:45 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 13:45 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -33606,8 +33707,8 @@ With number of accesses/minutes in parentheses
 <li> 06:39 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#References">Yahoo! data breaches - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=12">Editing Yahoo! data breaches - Wikipedia</a></li>
-<li> 06:39 <a href="https://en.wikipedia.org/wiki/Yahoo!_Voices">Yahoo! Voices - Wikipedia</a></li>
-<li> 06:39 <a href="https://en.wikipedia.org/wiki/2012_Yahoo!_Voices_hack">2012 Yahoo! Voices hack - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/wiki/Yahoo!_Voices">Yahoo Voices - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/wiki/2012_Yahoo!_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
 <li> 06:38 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches#Late_2014_breach">Yahoo! data breaches - Wikipedia</a></li>
 <li> 06:38 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit&section=2">Yahoo! data breaches - Wikipedia</a></li>
 <li> 06:38 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo!_data_breaches&action=edit">Yahoo! data breaches - Wikipedia</a></li>
@@ -34369,7 +34470,7 @@ With number of accesses/minutes in parentheses
 <li> 12:37 outlook.office.com</li>
 <li class='same'> 12:36 outlook.office.com</li>
 <li class='same'> 12:34 outlook.office.com</li>
-<li> 12:31 <a href="https://en.wikipedia.org/wiki/2012_Yahoo!_Voices_hack">2012 Yahoo! Voices hack - Wikipedia</a></li>
+<li> 12:31 <a href="https://en.wikipedia.org/wiki/2012_Yahoo!_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
 <li> 12:31 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 12:30 <a href="https://en.wikipedia.org/w/index.php?title=2014_Sony_Pictures_hack&action=history">2014 Sony Pictures hack: Revision history - Wikipedia</a></li>
 <li> 12:30 <a href="https://en.wikipedia.org/wiki/Sony_hack">Sony hack - Wikipedia</a></li>
