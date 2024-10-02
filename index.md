@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8029)</li>
 <li>mail.google.com (5706)</li>
-<li>outlook.office.com (3421)</li>
+<li>outlook.office.com (3427)</li>
 <li>www.facebook.com (2607)</li>
 <li>docs.google.com (1835)</li>
 <li>calendar.google.com (1333)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (311)</li>
 <li>www.giantitp.com (299)</li>
-<li>Local file (271)</li>
+<li>Local file (272)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:19 venue.royalholloway.ac.uk</li>
+<ul><li> 09:28 venue.royalholloway.ac.uk</li>
+<li> 09:24 Local file</li>
+<li> 09:24 outlook.office.com</li>
+<li class='same'> 09:23 outlook.office.com</li>
+<li class='same'> 09:22 outlook.office.com</li>
+<li class='same'> 09:21 outlook.office.com</li>
+<li class='same'> 09:20 outlook.office.com</li>
+<li class='same'> 09:19 outlook.office.com</li>
+<li> 09:19 venue.royalholloway.ac.uk</li>
 <li> 09:18 outlook.office.com</li>
 <li> 09:18 venue.royalholloway.ac.uk</li>
 <li> 09:17 www.google.com</li>
