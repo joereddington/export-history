@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8037)</li>
+<ol><li>www.google.com (8040)</li>
 <li>mail.google.com (5708)</li>
-<li>outlook.office.com (3430)</li>
+<li>outlook.office.com (3432)</li>
 <li>www.facebook.com (2609)</li>
 <li>docs.google.com (1835)</li>
 <li>calendar.google.com (1335)</li>
-<li>moodle.royalholloway.ac.uk (1202)</li>
+<li>moodle.royalholloway.ac.uk (1203)</li>
 <li>www.amazon.co.uk (1184)</li>
-<li>www.reddit.com (1174)</li>
+<li>www.reddit.com (1175)</li>
 <li>github.com (1009)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (658)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (584)</li>
 <li>app.qbo.intuit.com (559)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>outlook.office365.com (475)</li>
+<li>outlook.office365.com (481)</li>
 <li>kdp.amazon.com (430)</li>
 <li>login.microsoftonline.com (424)</li>
 <li>web.whatsapp.com (423)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:45 www.google.com</li>
+<ul><li> 11:08 outlook.office.com</li>
+<li class='same'> 11:07 outlook.office.com</li>
+<li> 11:06 www.reddit.com</li>
+<li> 11:06 community.folivora.ai</li>
+<li> 11:06 www.google.com</li>
+<li> 11:03 outlook.office365.com</li>
+<li> 11:00 www.google.com</li>
+<li> 10:58 librarysearch.royalholloway.ac.uk</li>
+<li> 10:57 www.google.com</li>
+<li> 10:54 outlook.office365.com</li>
+<li class='same'> 10:53 outlook.office365.com</li>
+<li> 10:52 moodle.royalholloway.ac.uk</li>
+<li> 10:51 outlook.office365.com</li>
+<li class='same'> 10:50 outlook.office365.com</li>
+<li class='same'> 10:49 outlook.office365.com</li>
+<li> 10:45 www.google.com</li>
 <li> 10:43 www.yiannistselekounis.com</li>
 <li> 10:40 rhul.sharepoint.com</li>
 <li> 10:39 teams.microsoft.com</li>
