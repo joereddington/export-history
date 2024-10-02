@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8023)</li>
-<li>mail.google.com (5705)</li>
+<ol><li>www.google.com (8019)</li>
+<li>mail.google.com (5704)</li>
 <li>outlook.office.com (3418)</li>
 <li>www.facebook.com (2607)</li>
 <li>docs.google.com (1835)</li>
-<li>calendar.google.com (1335)</li>
+<li>calendar.google.com (1333)</li>
 <li>moodle.royalholloway.ac.uk (1191)</li>
 <li>www.amazon.co.uk (1184)</li>
 <li>www.reddit.com (1174)</li>
-<li>github.com (1010)</li>
+<li>github.com (1009)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (658)</li>
 <li>tvtropes.org (646)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (559)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>outlook.office365.com (451)</li>
-<li>kdp.amazon.com (431)</li>
+<li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (423)</li>
 <li>teams.microsoft.com (420)</li>
 <li>login.microsoftonline.com (420)</li>
@@ -15403,12 +15403,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:30 mail.google.com</li>
 <li> 13:29 docs.google.com</li>
 <li> 13:29 mail.google.com</li>
-<li> 13:22 cc.amazon.com</li>
 <li> 13:21 kdp.amazon.com</li>
 <li> 13:19 web.whatsapp.com</li>
-<li> 13:18 cc.amazon.com</li>
-<li> 13:18 kdp.amazon.com</li>
-<li> 13:18 s3.amazonaws.com</li>
 <li> 13:18 kdp.amazon.com</li>
 <li class='same'> 13:17 kdp.amazon.com</li>
 <li> 13:16 mail.google.com</li>
@@ -15429,8 +15425,7 @@ With number of accesses/minutes in parentheses
 <li> 12:57 www.google.com</li>
 <li> 12:57 mail.google.com</li>
 <li class='same'> 12:56 mail.google.com</li>
-<li> 12:56 intuit-qbo-prod-6.s3.amazonaws.com</li>
-<li> 12:55 mail.google.com</li>
+<li class='same'> 12:55 mail.google.com</li>
 <li> 12:54 qbo.intuit.com</li>
 <li> 12:54 online.unity.co.uk</li>
 <li> 12:53 qbo.intuit.com</li>
@@ -15455,10 +15450,7 @@ With number of accesses/minutes in parentheses
 <li> 12:47 c14.qbo.intuit.com</li>
 <li> 12:47 mail.google.com</li>
 <li> 12:47 accounts.google.com</li>
-<li> 12:47 mail.google.com</li>
-<li> 12:47 accounts.google.com</li>
 <li> 12:47 gmail.com</li>
-<li> 12:47 accounts.google.com</li>
 <li> 12:47 mail.google.com</li>
 <li> 12:47 accounts.google.com</li>
 <li> 12:47 gmail.com</li>
@@ -15520,8 +15512,6 @@ With number of accesses/minutes in parentheses
 <li> 11:28 dashboard.gitguardian.com</li>
 <li> 11:28 github.com</li>
 <li class='same'> 11:27 github.com</li>
-<li> 11:27 www.google.com</li>
-<li> 11:27 github.com</li>
 <li> 11:27 dashboard.gitguardian.com</li>
 <li> 11:27 mail.google.com</li>
 <li> 11:26 kdpreports.amazon.com</li>
@@ -15538,8 +15528,6 @@ With number of accesses/minutes in parentheses
 <li> 11:09 ads.google.com</li>
 <li> 11:09 mail.google.com</li>
 <li> 11:08 calendar.google.com</li>
-<li> 11:08 www.google.com</li>
-<li> 11:08 calendar.google.com</li>
 <li> 11:08 mail.google.com</li>
 <li class='same'> 11:07 mail.google.com</li>
 <li> 11:06 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -15554,8 +15542,6 @@ With number of accesses/minutes in parentheses
 <li> 10:50 www.facebook.com</li>
 <li> 10:50 web.whatsapp.com</li>
 <li> 10:49 www.linkedin.com</li>
-<li> 10:46 nwsw.pro</li>
-<li> 10:46 l.facebook.com</li>
 <li> 10:43 www.facebook.com</li>
 <li class='same'> 10:40 www.facebook.com</li>
 <li> 10:39 calendar.google.com</li>
@@ -15567,8 +15553,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:35 www.google.com</li>
 <li> 10:35 mail.google.com</li>
 <li> 10:35 calendar.google.com</li>
-<li> 10:35 www.google.com</li>
-<li> 10:35 calendar.google.com</li>
 <li> 10:35 mail.google.com</li>
 <li class='same'> 10:34 mail.google.com</li>
 <li class='same'> 10:33 mail.google.com</li>
@@ -15577,7 +15561,6 @@ With number of accesses/minutes in parentheses
 <li> 10:32 instagram.com</li>
 <li> 10:32 mail.google.com</li>
 <li class='same'> 10:31 mail.google.com</li>
-<li> 10:31 www.google.com</li>
 <li> 10:31 scholar.google.com</li>
 <li> 10:31 arxiv.org</li>
 <li> 10:31 mail.google.com</li>
