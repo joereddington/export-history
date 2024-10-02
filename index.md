@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8022)</li>
+<ol><li>www.google.com (8029)</li>
 <li>mail.google.com (5706)</li>
-<li>outlook.office.com (3420)</li>
+<li>outlook.office.com (3421)</li>
 <li>www.facebook.com (2607)</li>
 <li>docs.google.com (1835)</li>
 <li>calendar.google.com (1333)</li>
-<li>moodle.royalholloway.ac.uk (1194)</li>
+<li>moodle.royalholloway.ac.uk (1195)</li>
 <li>www.amazon.co.uk (1184)</li>
 <li>www.reddit.com (1174)</li>
 <li>github.com (1009)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (488)</li>
 <li>outlook.office365.com (461)</li>
 <li>kdp.amazon.com (430)</li>
+<li>login.microsoftonline.com (423)</li>
 <li>web.whatsapp.com (423)</li>
-<li>login.microsoftonline.com (422)</li>
 <li>teams.microsoft.com (420)</li>
 <li>drive.google.com (419)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:09 outlook.office.com</li>
+<ul><li> 09:19 venue.royalholloway.ac.uk</li>
+<li> 09:18 outlook.office.com</li>
+<li> 09:18 venue.royalholloway.ac.uk</li>
+<li> 09:17 www.google.com</li>
+<li> 09:16 erinlawless.wordpress.com</li>
+<li> 09:15 www.google.com</li>
+<li class='same'> 09:14 www.google.com</li>
+<li> 09:13 login.microsoftonline.com</li>
+<li> 09:13 forms.office.com</li>
+<li> 09:13 venue.royalholloway.ac.uk</li>
+<li> 09:12 www.google.com</li>
+<li> 09:12 www.royalholloway.ac.uk</li>
+<li> 09:12 intranet.royalholloway.ac.uk</li>
+<li> 09:11 www.royalholloway.ac.uk</li>
+<li> 09:11 intranet.royalholloway.ac.uk</li>
+<li> 09:11 www.google.com</li>
+<li> 09:11 venue.royalholloway.ac.uk</li>
+<li> 09:11 www.google.com</li>
+<li> 09:11 venue.royalholloway.ac.uk</li>
+<li class='same'> 09:10 venue.royalholloway.ac.uk</li>
+<li> 09:10 www.google.com</li>
+<li> 09:10 moodle.royalholloway.ac.uk</li>
+<li> 09:09 outlook.office.com</li>
 <li> 09:09 moodle.royalholloway.ac.uk</li>
 <li> 09:09 outlook.office365.com</li>
 <li> 09:09 outlook.office.com</li>
