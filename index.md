@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8043)</li>
-<li>mail.google.com (5715)</li>
+<li>mail.google.com (5719)</li>
 <li>outlook.office.com (3434)</li>
 <li>www.facebook.com (2609)</li>
 <li>docs.google.com (1835)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (598)</li>
 <li>www.linkedin.com (587)</li>
 <li>app.qbo.intuit.com (561)</li>
-<li>outlook.office365.com (493)</li>
+<li>outlook.office365.com (495)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>kdp.amazon.com (430)</li>
 <li>login.microsoftonline.com (427)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:08 qbo.intuit.com</li>
+<ul><li> 12:15 mail.google.com</li>
+<li class='same'> 12:14 mail.google.com</li>
+<li class='same'> 12:13 mail.google.com</li>
+<li class='same'> 12:12 mail.google.com</li>
+<li> 12:11 outlook.office365.com</li>
+<li class='same'> 12:10 outlook.office365.com</li>
+<li> 12:08 qbo.intuit.com</li>
 <li> 12:06 mail.google.com</li>
 <li> 12:06 qbo.intuit.com</li>
 <li> 12:06 intuit-qbo-prod-5.s3.amazonaws.com</li>
