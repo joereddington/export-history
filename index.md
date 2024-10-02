@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8019)</li>
-<li>mail.google.com (5704)</li>
+<ol><li>www.google.com (8022)</li>
+<li>mail.google.com (5706)</li>
 <li>outlook.office.com (3418)</li>
 <li>www.facebook.com (2607)</li>
 <li>docs.google.com (1835)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (579)</li>
 <li>app.qbo.intuit.com (559)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>outlook.office365.com (451)</li>
+<li>outlook.office365.com (460)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (423)</li>
 <li>teams.microsoft.com (420)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:20 www.uss.co.uk</li>
+<ul><li> 07:17 www.google.com</li>
+<li> 07:07 easychair.org</li>
+<li> 07:06 outlook.office365.com</li>
+<li> 07:06 easychair.org</li>
+<li> 06:59 cisse.info</li>
+<li> 06:54 easychair.org</li>
+<li class='same'> 06:53 easychair.org</li>
+<li> 06:53 outlook.office365.com</li>
+<li> 06:52 easychair.org</li>
+<li> 06:47 cisse.info</li>
+<li> 06:46 www.google.com</li>
+<li> 06:42 outlook.office365.com</li>
+<li> 06:42 mail.google.com</li>
+<li> 06:41 rhul.hosted.panopto.com</li>
+<li> 06:40 outlook.office365.com</li>
+<li class='same'> 06:39 outlook.office365.com</li>
+<li> 06:36 easychair.org</li>
+<li> 06:35 claude.ai</li>
+<li> 06:29 www.google.com</li>
+<li> 06:26 easychair.org</li>
+<li> 06:26 outlook.office365.com</li>
+<li class='same'> 06:25 outlook.office365.com</li>
+<li> 06:24 rhul-my.sharepoint.com</li>
+<li> 06:24 outlook.office365.com</li>
+<li class='same'> 06:23 outlook.office365.com</li>
+<li> 06:23 mail.google.com</li>
+<li> 06:22 www.uss.co.uk</li>
+<li class='same'> 06:21 www.uss.co.uk</li>
+<li class='same'> 06:20 www.uss.co.uk</li>
 <li> 06:20 mail.google.com</li>
 <li> 06:20 gmail.com</li>
 <li> 06:19 www.uss.co.uk</li>
