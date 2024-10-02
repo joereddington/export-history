@@ -70,11 +70,11 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8022)</li>
 <li>mail.google.com (5706)</li>
-<li>outlook.office.com (3418)</li>
+<li>outlook.office.com (3420)</li>
 <li>www.facebook.com (2607)</li>
 <li>docs.google.com (1835)</li>
 <li>calendar.google.com (1333)</li>
-<li>moodle.royalholloway.ac.uk (1191)</li>
+<li>moodle.royalholloway.ac.uk (1194)</li>
 <li>www.amazon.co.uk (1184)</li>
 <li>www.reddit.com (1174)</li>
 <li>github.com (1009)</li>
@@ -87,11 +87,11 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (579)</li>
 <li>app.qbo.intuit.com (559)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>outlook.office365.com (460)</li>
+<li>outlook.office365.com (461)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (423)</li>
+<li>login.microsoftonline.com (422)</li>
 <li>teams.microsoft.com (420)</li>
-<li>login.microsoftonline.com (420)</li>
 <li>drive.google.com (419)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 02/10/24</H3>
+
+<br>
+
+<ul><li> 09:09 outlook.office.com</li>
+<li> 09:09 moodle.royalholloway.ac.uk</li>
+<li> 09:09 outlook.office365.com</li>
+<li> 09:09 outlook.office.com</li>
+<li> 09:09 mail.rhul.ac.uk</li>
+<li> 09:09 moodle.royalholloway.ac.uk</li>
+<li> 09:09 login.microsoftonline.com</li>
+<li> 09:09 moodle.royalholloway.ac.uk</li>
+<li> 09:09 login.microsoftonline.com</li>
+<li> 09:09 forms.office.com</li>
+</ul>
 
 <br>
 
