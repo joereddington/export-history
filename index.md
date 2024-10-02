@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8017)</li>
-<li>mail.google.com (5680)</li>
+<ol><li>www.google.com (8023)</li>
+<li>mail.google.com (5705)</li>
 <li>outlook.office.com (3418)</li>
 <li>www.facebook.com (2607)</li>
-<li>docs.google.com (1830)</li>
-<li>calendar.google.com (1327)</li>
-<li>moodle.royalholloway.ac.uk (1188)</li>
-<li>www.amazon.co.uk (1182)</li>
+<li>docs.google.com (1835)</li>
+<li>calendar.google.com (1335)</li>
+<li>moodle.royalholloway.ac.uk (1191)</li>
+<li>www.amazon.co.uk (1184)</li>
 <li>www.reddit.com (1174)</li>
-<li>github.com (1007)</li>
+<li>github.com (1010)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (655)</li>
+<li>gmail.com (658)</li>
 <li>tvtropes.org (646)</li>
 <li>www.theguardian.com (616)</li>
-<li>whitewaterwriters.com (612)</li>
+<li>whitewaterwriters.com (613)</li>
 <li>chat.openai.com (598)</li>
-<li>www.linkedin.com (577)</li>
-<li>app.qbo.intuit.com (558)</li>
+<li>www.linkedin.com (579)</li>
+<li>app.qbo.intuit.com (559)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>outlook.office365.com (447)</li>
-<li>kdp.amazon.com (430)</li>
-<li>web.whatsapp.com (422)</li>
-<li>teams.microsoft.com (419)</li>
-<li>login.microsoftonline.com (419)</li>
-<li>drive.google.com (418)</li>
+<li>outlook.office365.com (451)</li>
+<li>kdp.amazon.com (431)</li>
+<li>web.whatsapp.com (423)</li>
+<li>teams.microsoft.com (420)</li>
+<li>login.microsoftonline.com (420)</li>
+<li>drive.google.com (419)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
-<li>rhul.sharepoint.com (309)</li>
+<li>rhul.sharepoint.com (311)</li>
 <li>www.giantitp.com (299)</li>
 <li>Local file (271)</li>
 
@@ -104,11 +104,157 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 02/10/24</H3>
+
+<br>
+
+<ul><li> 06:20 www.uss.co.uk</li>
+<li> 06:20 mail.google.com</li>
+<li> 06:20 gmail.com</li>
+<li> 06:19 www.uss.co.uk</li>
+<li class='same'> 06:18 www.uss.co.uk</li>
+<li> 06:18 outlook.office365.com</li>
+<li class='same'> 06:17 outlook.office365.com</li>
+<li> 06:17 mail.google.com</li>
+<li class='same'> 06:16 mail.google.com</li>
+<li class='same'> 06:15 mail.google.com</li>
+<li> 06:13 whitewaterwriters.com</li>
+<li> 06:13 docs.google.com</li>
+<li class='same'> 06:12 docs.google.com</li>
+<li> 06:12 mail.google.com</li>
+<li> 06:07 docs.google.com</li>
+<li> 06:06 mail.google.com</li>
+<li> 06:06 www.amazon.co.uk</li>
+<li class='same'> 06:04 www.amazon.co.uk</li>
+<li> 06:04 kdpreports.amazon.com</li>
+<li> 06:04 kdp.amazon.com</li>
+<li> 06:03 mail.google.com</li>
+<li> 06:03 us06web.zoom.us</li>
+<li> 06:03 www.zoom.us</li>
+<li> 06:03 www.zoom.com</li>
+<li> 06:03 www.google.com</li>
+<li> 06:03 mail.google.com</li>
+<li class='same'> 06:02 mail.google.com</li>
+<li class='same'> 06:01 mail.google.com</li>
+<li> 06:00 web.whatsapp.com</li>
+<li> 06:00 mail.google.com</li>
+<li> 06:00 moodle.royalholloway.ac.uk</li>
+<li class='same'> 05:58 moodle.royalholloway.ac.uk</li>
+<li> 05:57 rhul.hosted.panopto.com</li>
+<li> 05:56 moodle.royalholloway.ac.uk</li>
+<li> 05:56 rhul.hosted.panopto.com</li>
+<li> 05:55 mail.google.com</li>
+<li> 05:55 accounts.google.com</li>
+<li> 05:54 mail.google.com</li>
+<li> 05:54 gmail.com</li>
+<li> 05:54 rhul.hosted.panopto.com</li>
+<li class='same'> 05:53 rhul.hosted.panopto.com</li>
+<li> 05:50 mail.google.com</li>
+<li class='same'> 05:49 mail.google.com</li>
+<li class='same'> 05:47 mail.google.com</li>
+<li> 05:46 rhul.sharepoint.com</li>
+<li class='same'> 05:45 rhul.sharepoint.com</li>
+<li> 05:41 <a href="https://joereddington.com/2022/08/26/coverage.html">Working out website coverage bugs | Joe Reddington</a></li>
+<li> 05:41 calendar.google.com</li>
+<li> 05:41 teams.microsoft.com</li>
+<li> 05:40 rhul.hosted.panopto.com</li>
+<li class='same'> 05:39 rhul.hosted.panopto.com</li>
+<li> 05:38 outlook.office365.com</li>
+<li class='same'> 05:37 outlook.office365.com</li>
+<li> 05:37 rhul.hosted.panopto.com</li>
+<li class='same'> 05:36 rhul.hosted.panopto.com</li>
+<li> 05:36 login.microsoftonline.com</li>
+<li> 05:36 rhul.hosted.panopto.com</li>
+<li> 05:36 mail.google.com</li>
+<li> 05:36 calendar.google.com</li>
+<li> 05:35 mail.google.com</li>
+<li> 05:35 www.linkedin.com</li>
+<li class='same'> 05:34 www.linkedin.com</li>
+<li> 05:33 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 05:33 mail.google.com</li>
+<li class='same'> 05:32 mail.google.com</li>
+<li> 05:31 calendar.google.com</li>
+<li class='same'> 05:30 calendar.google.com</li>
+<li> 05:30 mail.google.com</li>
+<li> 05:23 <a href="https://joereddington.com/2021/01/28/Finder-Zero-You-use-far-fewer-files-than-you-think,-so-stop-hoarding-them.html">Finder Zero - You use far fewer files than you think, so stop hoarding them | Joe Reddington</a></li>
+<li> 05:23 search.google.com</li>
+<li class='same'> 05:22 search.google.com</li>
+<li class='same'> 05:20 search.google.com</li>
+<li> 05:20 <a href="https://joereddington.com/sitemap.xml"></a></li>
+<li> 05:18 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 05:17 github.com</li>
+<li> 05:17 www.google.com</li>
+<li> 05:17 <a href="https://joereddington.com/723/2011/01/03/emma/">Emma | Joe Reddington</a></li>
+<li> 05:15 support.google.com</li>
+<li> 05:14 <a href="https://stackoverflow.com/questions/1702004/why-wont-google-accept-my-sitemap-xml-url-not-allowed-this-url-is-not-allowed">asp.net - Why won't google accept my Sitemap.xml? "URL not allowed This url is not allowed for a Sitemap at this location." - Stack Overflow</a></li>
+<li> 05:14 www.google.com</li>
+<li> 05:14 <a href="https://stackoverflow.com/sitemap-questions-92.xml">Page not found - Stack Overflow</a></li>
+<li> 05:13 <a href="https://joereddington.com/723/2011/01/03/emma/">Emma | Joe Reddington</a></li>
+<li> 05:12 hermannyung.com</li>
+<li> 05:12 www.google.com</li>
+<li> 05:11 search.google.com</li>
+<li> 05:11 <a href="https://joereddington.com/sitemap.xml"></a></li>
+<li> 05:10 search.google.com</li>
+<li> 05:08 joereddington.github.io</li>
+<li> 05:08 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 05:08 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
+<li> 05:08 github.com</li>
+<li class='same'> 05:06 github.com</li>
+<li> 05:06 www.google.com</li>
+<li> 05:05 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 05:05 search.google.com</li>
+<li> 05:05 <a href="https://joereddington.com/Delores/process_notes">Process Notes | Delores</a></li>
+<li> 05:04 search.google.com</li>
+<li> 05:03 claude.ai</li>
+<li> 05:03 <a href="https://joereddington.com/sitemap.xml"></a></li>
+<li> 05:02 search.google.com</li>
+<li class='same'> 05:01 search.google.com</li>
+<li class='same'> 05:00 search.google.com</li>
+<li class='same'> 04:59 search.google.com</li>
+<li class='same'> 04:58 search.google.com</li>
+<li> 04:57 <a href="https://joereddington.com/2022/08/26/coverage.html">Working out website coverage bugs | Joe Reddington</a></li>
+<li> 04:57 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 04:57 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 04:57 search.google.com</li>
+<li class='same'> 04:56 search.google.com</li>
+<li> 04:56 mail.google.com</li>
+<li> 04:56 calendar.google.com</li>
+<li class='same'> 04:55 calendar.google.com</li>
+<li> 04:55 mail.google.com</li>
+<li class='same'> 04:54 mail.google.com</li>
+<li> 04:53 calendar.google.com</li>
+<li> 04:53 mail.google.com</li>
+<li> 04:53 gmail.com</li>
+<li> 04:51 docs.google.com</li>
+<li> 04:50 qbo.intuit.com</li>
+<li class='same'> 04:49 qbo.intuit.com</li>
+<li> 04:49 app.qbo.intuit.com</li>
+<li> 04:49 accounts.intuit.com</li>
+<li> 04:48 quickbooks.intuit.com</li>
+<li class='same'> 04:47 quickbooks.intuit.com</li>
+<li> 04:47 www.google.com</li>
+<li> 04:46 docs.google.com</li>
+<li> 04:46 drive.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Tuesday, 01/10/24</H3>
 
 <br>
 
-<ul><li> 21:21 learning.oreilly.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:28 <a href="https://en.wikipedia.org/wiki/John_W._Campbell_Memorial_Award_for_Best_Science_Fiction_Novel">John W. Campbell Memorial Award for Best Science Fiction Novel - Wikipedia</a></li>
+<li> 21:26 <a href="https://en.wikipedia.org/wiki/Foyles_Books_of_the_Year">Foyles Books of the Year - Wikipedia</a></li>
+<li> 21:25 <a href="https://en.wikipedia.org/wiki/Terry_Pratchett_First_Novel_Award">Terry Pratchett First Novel Award - Wikipedia</a></li>
+<li> 21:25 <a href="https://en.wikipedia.org/wiki/Category:Novel_awards">Category:Novel awards - Wikipedia</a></li>
+<li> 21:21 learning.oreilly.com</li>
 <li> 21:21 login.openathens.net</li>
 <li class='same'> 21:20 login.openathens.net</li>
 <li> 21:20 login.microsoftonline.com</li>
