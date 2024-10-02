@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8057)</li>
-<li>mail.google.com (5724)</li>
+<ol><li>www.google.com (8063)</li>
+<li>mail.google.com (5729)</li>
 <li>outlook.office.com (3436)</li>
-<li>www.facebook.com (2609)</li>
-<li>docs.google.com (1839)</li>
-<li>calendar.google.com (1340)</li>
+<li>www.facebook.com (2610)</li>
+<li>docs.google.com (1846)</li>
+<li>calendar.google.com (1341)</li>
 <li>moodle.royalholloway.ac.uk (1207)</li>
-<li>www.amazon.co.uk (1187)</li>
-<li>www.reddit.com (1176)</li>
-<li>github.com (1009)</li>
+<li>www.amazon.co.uk (1188)</li>
+<li>www.reddit.com (1179)</li>
+<li>github.com (1010)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (660)</li>
+<li>gmail.com (663)</li>
 <li>tvtropes.org (646)</li>
 <li>www.theguardian.com (617)</li>
 <li>whitewaterwriters.com (615)</li>
 <li>chat.openai.com (598)</li>
-<li>www.linkedin.com (592)</li>
+<li>www.linkedin.com (593)</li>
 <li>app.qbo.intuit.com (561)</li>
-<li>outlook.office365.com (506)</li>
+<li>outlook.office365.com (507)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (431)</li>
 <li>kdp.amazon.com (430)</li>
-<li>web.whatsapp.com (425)</li>
+<li>web.whatsapp.com (427)</li>
+<li>drive.google.com (425)</li>
 <li>teams.microsoft.com (421)</li>
-<li>drive.google.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
@@ -108,7 +108,63 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:40 web.whatsapp.com</li>
+<ul><li> 16:34 www.google.com</li>
+<li> 16:33 calendar.google.com</li>
+<li> 16:32 docs.google.com</li>
+<li> 16:31 drive.google.com</li>
+<li> 16:29 www.vinted.co.uk</li>
+<li> 16:29 www.google.com</li>
+<li> 16:29 www.ebay.co.uk</li>
+<li class='same'> 16:28 www.ebay.co.uk</li>
+<li> 16:26 www.amazon.co.uk</li>
+<li> 16:26 www.google.com</li>
+<li> 16:25 web.whatsapp.com</li>
+<li> 16:20 feedly.com</li>
+<li> 16:19 www.reddit.com</li>
+<li class='same'> 16:16 www.reddit.com</li>
+<li class='same'> 16:15 www.reddit.com</li>
+<li> 16:15 mail.google.com</li>
+<li> 16:15 gmail.com</li>
+<li> 16:15 outlook.office365.com</li>
+<li> 16:15 mail.google.com</li>
+<li> 16:11 drive.google.com</li>
+<li> 16:11 docs.google.com</li>
+<li> 16:11 drive.google.com</li>
+<li class='same'> 16:10 drive.google.com</li>
+<li> 16:10 docs.google.com</li>
+<li class='same'> 16:09 docs.google.com</li>
+<li class='same'> 16:08 docs.google.com</li>
+<li> 16:08 online.unity.co.uk</li>
+<li> 16:05 apply.unity.co.uk</li>
+<li class='same'> 16:04 apply.unity.co.uk</li>
+<li class='same'> 16:03 apply.unity.co.uk</li>
+<li> 16:02 online.unity.co.uk</li>
+<li> 16:02 www.natesilver.net</li>
+<li> 16:01 www.unity-online.co.uk</li>
+<li> 16:01 online.unity.co.uk</li>
+<li> 16:01 apply.unity.co.uk</li>
+<li class='same'> 16:00 apply.unity.co.uk</li>
+<li> 15:59 mail.google.com</li>
+<li> 15:59 gmail.com</li>
+<li> 15:58 find-and-update.company-information.service.gov.uk</li>
+<li> 15:58 www.gov.uk</li>
+<li> 15:58 www.google.com</li>
+<li class='same'> 15:57 www.google.com</li>
+<li> 15:56 www.facebook.com</li>
+<li> 15:55 web.whatsapp.com</li>
+<li> 15:53 contacts.google.com</li>
+<li class='same'> 15:52 contacts.google.com</li>
+<li> 15:52 mail.google.com</li>
+<li> 15:52 contacts.google.com</li>
+<li> 15:52 www.google.com</li>
+<li> 15:51 mail.google.com</li>
+<li> 15:51 gmail.com</li>
+<li> 15:49 www.linkedin.com</li>
+<li> 15:48 docs.google.com</li>
+<li> 15:47 github.com</li>
+<li> 15:46 docs.google.com</li>
+<li> 15:46 drive.google.com</li>
+<li> 15:40 web.whatsapp.com</li>
 <li> 15:40 apply.unity.co.uk</li>
 <li> 15:39 online.unity.co.uk</li>
 <li> 15:39 www.unity-online.co.uk</li>
