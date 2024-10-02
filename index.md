@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8029)</li>
+<ol><li>www.google.com (8030)</li>
 <li>mail.google.com (5706)</li>
-<li>outlook.office.com (3427)</li>
-<li>www.facebook.com (2607)</li>
+<li>outlook.office.com (3429)</li>
+<li>www.facebook.com (2609)</li>
 <li>docs.google.com (1835)</li>
 <li>calendar.google.com (1333)</li>
-<li>moodle.royalholloway.ac.uk (1195)</li>
+<li>moodle.royalholloway.ac.uk (1196)</li>
 <li>www.amazon.co.uk (1184)</li>
 <li>www.reddit.com (1174)</li>
 <li>github.com (1009)</li>
@@ -84,10 +84,10 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (616)</li>
 <li>whitewaterwriters.com (613)</li>
 <li>chat.openai.com (598)</li>
-<li>www.linkedin.com (579)</li>
+<li>www.linkedin.com (580)</li>
 <li>app.qbo.intuit.com (559)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>outlook.office365.com (461)</li>
+<li>outlook.office365.com (463)</li>
 <li>kdp.amazon.com (430)</li>
 <li>login.microsoftonline.com (424)</li>
 <li>web.whatsapp.com (423)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:34 venue.royalholloway.ac.uk</li>
+<ul><li> 09:43 venue.royalholloway.ac.uk</li>
+<li> 09:41 www.facebook.com</li>
+<li class='same'> 09:40 www.facebook.com</li>
+<li> 09:40 royalsociety.org</li>
+<li> 09:40 eur03.safelinks.protection.outlook.com</li>
+<li> 09:40 outlook.office.com</li>
+<li> 09:39 www.google.com</li>
+<li> 09:34 venue.royalholloway.ac.uk</li>
+<li> 09:34 moodle.royalholloway.ac.uk</li>
+<li> 09:33 intranet.royalholloway.ac.uk</li>
+<li> 09:33 outlook.office.com</li>
+<li> 09:33 outlook.office365.com</li>
 <li> 09:32 myview.rhul.zellis.com</li>
 <li> 09:32 venue.royalholloway.ac.uk</li>
 <li> 09:31 myview.rhul.zellis.com</li>
@@ -158,7 +169,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:17 www.google.com</li>
+<ul><li> 07:27 www.linkedin.com</li>
+<li> 07:26 outlook.office365.com</li>
+<li> 07:17 www.google.com</li>
 <li> 07:07 easychair.org</li>
 <li> 07:06 outlook.office365.com</li>
 <li> 07:06 easychair.org</li>
