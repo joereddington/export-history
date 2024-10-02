@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8063)</li>
+<ol><li>www.google.com (8069)</li>
 <li>mail.google.com (5729)</li>
 <li>outlook.office.com (3436)</li>
 <li>www.facebook.com (2610)</li>
@@ -81,8 +81,8 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (978)</li>
 <li>gmail.com (663)</li>
 <li>tvtropes.org (646)</li>
-<li>www.theguardian.com (619)</li>
-<li>whitewaterwriters.com (615)</li>
+<li>whitewaterwriters.com (637)</li>
+<li>www.theguardian.com (627)</li>
 <li>chat.openai.com (598)</li>
 <li>www.linkedin.com (594)</li>
 <li>app.qbo.intuit.com (561)</li>
@@ -108,6 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:08 www.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 16:46 www.linkedin.com</li>
 <li> 16:43 <a href="https://www.youtube.com/watch?v=mtvFH8OgR8c">(37) Someone Tries to Poach Penny | The Big Bang Theory - YouTube</a></li>
 <li> 16:42 <a href="https://www.youtube.com/">(37) YouTube</a></li>
@@ -115,6 +120,12 @@ With number of accesses/minutes in parentheses
 <li> 16:41 <a href="https://www.youtube.com/">(37) YouTube</a></li>
 <li> 16:41 www.theguardian.com</li>
 <li class='same'> 16:40 www.theguardian.com</li>
+<li> 16:37 forms.tvlicensing.co.uk</li>
+<li> 16:37 www.tvlicensing.co.uk</li>
+<li> 16:37 www.google.com</li>
+<li> 16:37 www.my-council.uk</li>
+<li> 16:37 www.google.com</li>
+<li> 16:37 www.theguardian.com</li>
 <li> 16:34 www.google.com</li>
 <li> 16:33 calendar.google.com</li>
 <li> 16:32 docs.google.com</li>
@@ -224,11 +235,12 @@ With number of accesses/minutes in parentheses
 <li> 15:12 calendar.google.com</li>
 <li> 15:10 librarysearch.royalholloway.ac.uk</li>
 <li> 15:10 moodle.royalholloway.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 14:31 www.linkedin.com</li>
+<li> 14:46 www.theguardian.com</li>
+<li> 14:46 www.google.com</li>
+<li> 14:45 www.theguardian.com</li>
+<li> 14:45 www.google.com</li>
+<li> 14:45 www.theguardian.com</li>
+<li> 14:31 www.linkedin.com</li>
 <li> 14:31 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 14:31 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=history">2012 Yahoo Voices hack: Revision history - Wikipedia</a></li>
 <li> 14:31 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
@@ -577,6 +589,11 @@ With number of accesses/minutes in parentheses
 <li> 09:09 moodle.royalholloway.ac.uk</li>
 <li> 09:09 login.microsoftonline.com</li>
 <li> 09:09 forms.office.com</li>
+<li> 09:05 support.theguardian.com</li>
+<li> 09:04 www.theguardian.com</li>
+<li class='same'> 09:02 www.theguardian.com</li>
+<li> 09:02 www.google.com</li>
+<li> 09:02 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -781,6 +798,11 @@ With number of accesses/minutes in parentheses
 <li> 21:04 <a href="https://en.wikipedia.org/wiki/Hugo_Award">Hugo Award - Wikipedia</a></li>
 <li> 20:59 <a href="https://en.wikipedia.org/wiki/List_of_winners_and_nominated_authors_of_the_Booker_Prize">List of winners and nominated authors of the Booker Prize - Wikipedia</a></li>
 <li> 20:59 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:28 www.google.com</li>
 </ul>
 
 <br>
@@ -71802,11 +71824,8 @@ With number of accesses/minutes in parentheses
 <li> 07:47 forum.artofmemory.com</li>
 <li> 07:29 docs.google.com</li>
 <li> 07:17 www.dropbox.com</li>
-</ul>
-
-<br>
-
-<ul><li> 06:47 docs.google.com</li>
+<li> 06:51 whitewaterwriters.com</li>
+<li> 06:47 docs.google.com</li>
 <li> 06:44 www.feedly.com</li>
 <li> 06:44 discord.com</li>
 <li> 06:40 app.qbo.intuit.com</li>
@@ -72118,6 +72137,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:53 app.qbo.intuit.com</li>
 <li> 10:41 whitewaterwriters.com</li>
+<li class='same'> 10:38 whitewaterwriters.com</li>
 <li> 10:35 app.qbo.intuit.com</li>
 <li class='same'> 10:25 app.qbo.intuit.com</li>
 <li> 10:17 mail.google.com</li>
@@ -73940,6 +73960,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:26 kdp.amazon.com</li>
 <li> 16:05 whitewaterwriters.com</li>
+<li class='same'> 16:03 whitewaterwriters.com</li>
+<li class='same'> 15:59 whitewaterwriters.com</li>
+<li class='same'> 15:54 whitewaterwriters.com</li>
 <li> 15:54 kdp.amazon.com</li>
 </ul>
 
@@ -73988,7 +74011,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:16 analytics.google.com</li>
+<ul><li> 15:18 whitewaterwriters.com</li>
+<li> 15:16 analytics.google.com</li>
 <li> 15:09 ads.google.com</li>
 </ul>
 
@@ -74022,7 +74046,8 @@ With number of accesses/minutes in parentheses
 <li> 10:30 docs.google.com</li>
 <li class='same'> 10:26 docs.google.com</li>
 <li> 10:16 www.projectreal.co.uk</li>
-<li> 09:56 whitewaterwriters.com</li>
+<li> 10:07 whitewaterwriters.com</li>
+<li class='same'> 09:56 whitewaterwriters.com</li>
 <li> 09:53 www.facebook.com</li>
 <li> 09:51 andsoshethinks.co.uk</li>
 <li> 09:50 calendar.google.com</li>
@@ -74062,12 +74087,14 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:20 whitewaterwriters.com</li>
 <li> 14:15 discord.com</li>
 <li class='same'> 14:10 discord.com</li>
-<li class='same'> 14:08 discord.com</li>
+<li> 14:09 whitewaterwriters.com</li>
+<li> 14:08 discord.com</li>
+<li> 14:04 whitewaterwriters.com</li>
 </ul>
 
 <br>
 
-<ul><li> 12:58 whitewaterwriters.com</li>
+<ul><li class='same'> 12:58 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -74111,6 +74138,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:53 whitewaterwriters.com</li>
+<li class='same'> 11:29 whitewaterwriters.com</li>
+<li class='same'> 11:27 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
 <ul><li> 05:52 www.lutontowncommunity.co.uk</li>
 </ul>
 
@@ -74138,7 +74172,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:02 whitewaterwriters.com</li>
+<ul><li> 15:05 whitewaterwriters.com</li>
+<li class='same'> 15:02 whitewaterwriters.com</li>
 <li class='same'> 15:01 whitewaterwriters.com</li>
 <li class='same'> 14:57 whitewaterwriters.com</li>
 <li class='same'> 14:56 whitewaterwriters.com</li>
@@ -74947,11 +74982,10 @@ With number of accesses/minutes in parentheses
 <li> 15:18 mail.google.com</li>
 <li> 14:56 kdp.amazon.com</li>
 <li class='same'> 14:55 kdp.amazon.com</li>
-</ul>
-
-<br>
-
-<ul><li> 14:16 www.amazon.co.uk</li>
+<li> 14:51 whitewaterwriters.com</li>
+<li class='same'> 14:48 whitewaterwriters.com</li>
+<li class='same'> 14:44 whitewaterwriters.com</li>
+<li> 14:16 www.amazon.co.uk</li>
 <li> 14:06 github.com</li>
 <li> 13:39 discord.com</li>
 <li class='same'> 13:38 discord.com</li>
@@ -75023,6 +75057,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:37 github.com</li>
 <li> 09:36 docs.google.com</li>
 <li> 09:34 github.com</li>
+<li> 09:24 whitewaterwriters.com</li>
+<li class='same'> 09:02 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -75115,13 +75151,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:44 kdp.amazon.com</li>
+<ul><li> 15:52 whitewaterwriters.com</li>
+<li> 15:44 kdp.amazon.com</li>
 <li class='same'> 15:42 kdp.amazon.com</li>
 <li> 15:18 discord.com</li>
 <li class='same'> 15:17 discord.com</li>
 <li class='same'> 15:16 discord.com</li>
 <li class='same'> 15:15 discord.com</li>
 <li class='same'> 15:09 discord.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:34 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -75138,6 +75180,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:24 equalitytime.co.uk</li>
 <li class='same'> 10:19 equalitytime.co.uk</li>
 <li class='same'> 10:18 equalitytime.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 09:28 whitewaterwriters.com</li>
+<li class='same'> 09:26 whitewaterwriters.com</li>
 </ul>
 
 <br>
