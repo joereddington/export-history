@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8042)</li>
-<li>mail.google.com (5710)</li>
+<ol><li>www.google.com (8043)</li>
+<li>mail.google.com (5715)</li>
 <li>outlook.office.com (3434)</li>
 <li>www.facebook.com (2609)</li>
 <li>docs.google.com (1835)</li>
@@ -79,18 +79,18 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1175)</li>
 <li>github.com (1009)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (659)</li>
+<li>gmail.com (660)</li>
 <li>tvtropes.org (646)</li>
 <li>www.theguardian.com (616)</li>
 <li>whitewaterwriters.com (613)</li>
 <li>chat.openai.com (598)</li>
-<li>www.linkedin.com (585)</li>
-<li>app.qbo.intuit.com (559)</li>
+<li>www.linkedin.com (587)</li>
+<li>app.qbo.intuit.com (561)</li>
+<li>outlook.office365.com (493)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>outlook.office365.com (487)</li>
 <li>kdp.amazon.com (430)</li>
-<li>login.microsoftonline.com (424)</li>
-<li>web.whatsapp.com (423)</li>
+<li>login.microsoftonline.com (427)</li>
+<li>web.whatsapp.com (424)</li>
 <li>teams.microsoft.com (421)</li>
 <li>drive.google.com (419)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:14 mail.google.com</li>
+<ul><li> 12:08 qbo.intuit.com</li>
+<li> 12:06 mail.google.com</li>
+<li> 12:06 qbo.intuit.com</li>
+<li> 12:06 intuit-qbo-prod-5.s3.amazonaws.com</li>
+<li> 12:05 qbo.intuit.com</li>
+<li class='same'> 12:02 qbo.intuit.com</li>
+<li> 12:02 app.qbo.intuit.com</li>
+<li> 12:02 www.linkedin.com</li>
+<li class='same'> 12:01 www.linkedin.com</li>
+<li> 12:01 mail.google.com</li>
+<li class='same'> 11:57 mail.google.com</li>
+<li> 11:57 gmail.com</li>
+<li> 11:57 outlook.office365.com</li>
+<li class='same'> 11:56 outlook.office365.com</li>
+<li class='same'> 11:55 outlook.office365.com</li>
+<li> 11:53 rhul-my.sharepoint.com</li>
+<li> 11:53 outlook.office365.com</li>
+<li> 11:53 mail.google.com</li>
+<li> 11:51 www.google.com</li>
+<li> 11:51 web.whatsapp.com</li>
+<li> 11:51 outlook.office365.com</li>
+<li> 11:28 login.microsoftonline.com</li>
+<li> 11:28 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
+<li> 11:25 login.microsoftonline.com</li>
+<li> 11:25 forms.office.com</li>
+<li> 11:25 rhul-my.sharepoint.com</li>
+<li> 11:25 forms.office.com</li>
+<li class='same'> 11:24 forms.office.com</li>
+<li> 11:24 login.microsoftonline.com</li>
+<li> 11:24 forms.office.com</li>
+<li> 11:24 qbo.intuit.com</li>
+<li class='same'> 11:22 qbo.intuit.com</li>
+<li> 11:22 outlook.office365.com</li>
+<li> 11:22 accounts.intuit.com</li>
+<li> 11:22 qbo.intuit.com</li>
+<li> 11:22 app.qbo.intuit.com</li>
+<li> 11:22 c14.qbo.intuit.com</li>
+<li> 11:21 mail.google.com</li>
+<li class='same'> 11:14 mail.google.com</li>
 <li class='same'> 11:13 mail.google.com</li>
 <li> 11:13 gmail.com</li>
 <li> 11:13 outlook.office365.com</li>
