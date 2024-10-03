@@ -68,43 +68,180 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8071)</li>
+<ol><li>www.google.com (8082)</li>
 <li>mail.google.com (5729)</li>
 <li>outlook.office.com (3436)</li>
 <li>www.facebook.com (2610)</li>
-<li>docs.google.com (1846)</li>
+<li>docs.google.com (1864)</li>
 <li>calendar.google.com (1341)</li>
 <li>moodle.royalholloway.ac.uk (1207)</li>
-<li>www.amazon.co.uk (1188)</li>
-<li>www.reddit.com (1179)</li>
+<li>www.amazon.co.uk (1194)</li>
+<li>www.reddit.com (1183)</li>
 <li>github.com (1010)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (663)</li>
 <li>tvtropes.org (646)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>www.theguardian.com (627)</li>
-<li>chat.openai.com (598)</li>
-<li>www.linkedin.com (594)</li>
+<li>www.theguardian.com (633)</li>
+<li>chat.openai.com (599)</li>
+<li>www.linkedin.com (596)</li>
 <li>app.qbo.intuit.com (561)</li>
 <li>outlook.office365.com (507)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (431)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (427)</li>
-<li>drive.google.com (425)</li>
+<li>drive.google.com (426)</li>
 <li>teams.microsoft.com (421)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
 <li>www.giantitp.com (299)</li>
-<li>Local file (272)</li>
+<li><a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a> (273)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Thursday, 03/10/24</H3>
+
+<br>
+
+<ul><li> 07:19 www.reddit.com</li>
+<li class='same'> 07:18 www.reddit.com</li>
+<li class='same'> 07:17 www.reddit.com</li>
+<li class='same'> 07:15 www.reddit.com</li>
+<li> 07:14 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:14 docs.google.com</li>
+<li class='same'> 07:13 docs.google.com</li>
+<li class='same'> 07:12 docs.google.com</li>
+<li> 07:12 www.amazon.co.uk</li>
+<li> 07:12 docs.google.com</li>
+<li class='same'> 07:11 docs.google.com</li>
+<li class='same'> 07:10 docs.google.com</li>
+<li class='same'> 07:09 docs.google.com</li>
+<li> 07:09 www.amazon.co.uk</li>
+<li class='same'> 07:08 www.amazon.co.uk</li>
+<li> 07:08 docs.google.com</li>
+<li class='same'> 07:07 docs.google.com</li>
+<li> 07:07 www.amazon.co.uk</li>
+<li> 07:07 docs.google.com</li>
+<li class='same'> 07:06 docs.google.com</li>
+<li> 07:06 www.amazon.co.uk</li>
+<li> 07:06 www.google.com</li>
+<li> 07:05 docs.google.com</li>
+<li class='same'> 07:04 docs.google.com</li>
+<li class='same'> 07:03 docs.google.com</li>
+<li> 07:03 www.amazon.co.uk</li>
+<li> 07:03 www.google.com</li>
+<li> 07:03 docs.google.com</li>
+<li class='same'> 07:02 docs.google.com</li>
+<li> 07:01 chatgpt.com</li>
+<li> 07:01 chat.openai.com</li>
+<li> 06:58 claude.ai</li>
+<li> 06:57 www.goodreads.com</li>
+<li> 06:57 docs.google.com</li>
+<li> 06:56 www.goodreads.com</li>
+<li> 06:55 www.amazon.com</li>
+<li> 06:55 www.goodreads.com</li>
+<li> 06:54 www.natesilver.net</li>
+<li> 06:54 www.google.com</li>
+<li> 06:53 www.theguardian.com</li>
+<li> 06:53 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:51 www.electoralcommission.org.uk</li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Electoral_Commission_(United_Kingdom)">Electoral Commission (United Kingdom) - Wikipedia</a></li>
+<li> 06:51 www.google.com</li>
+<li> 06:51 www.legislation.gov.uk</li>
+<li> 06:50 bills.parliament.uk</li>
+<li> 06:50 www.electoralcommission.org.uk</li>
+<li> 06:50 www.google.com</li>
+<li> 06:50 www.gov.uk</li>
+<li> 06:49 www.google.com</li>
+<li> 06:49 www.theguardian.com</li>
+<li> 06:48 <a href="https://en.wikipedia.org/wiki/Electoral_Commission_(United_Kingdom)#National_commissions">Electoral Commission (United Kingdom) - Wikipedia</a></li>
+<li> 06:47 <a href="https://en.wikipedia.org/w/index.php?title=Electoral_Commission_(United_Kingdom)&action=edit&section=10">Editing Electoral Commission (United Kingdom) - Wikipedia</a></li>
+<li> 06:47 www.electoralcommission.org.uk</li>
+<li class='same'> 06:46 www.electoralcommission.org.uk</li>
+<li> 06:46 www.google.com</li>
+<li> 06:45 <a href="https://en.wikipedia.org/wiki/Talk:Electoral_Commission_(United_Kingdom)">Talk:Electoral Commission (United Kingdom) - Wikipedia</a></li>
+<li> 06:45 <a href="https://en.wikipedia.org/wiki/Electoral_Commission_(United_Kingdom)#Criticism">Electoral Commission (United Kingdom) - Wikipedia</a></li>
+<li> 06:45 <a href="https://en.wikipedia.org/w/index.php?title=Electoral_Commission_(United_Kingdom)&action=edit&section=15">Editing Electoral Commission (United Kingdom) - Wikipedia</a></li>
+<li> 06:45 <a href="https://en.wikipedia.org/w/index.php?title=Electoral_Commission_(United_Kingdom)&action=edit&section=1">Electoral Commission (United Kingdom) - Wikipedia</a></li>
+<li> 06:45 <a href="https://en.wikipedia.org/wiki/Electoral_Commission_(United_Kingdom)#Creation">Electoral Commission (United Kingdom) - Wikipedia</a></li>
+<li> 06:40 www.legislation.gov.uk</li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/Political_Parties_and_Elections_Act_2009#cite_note-4">Political Parties and Elections Act 2009 - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/wiki/Political_Parties_and_Elections_Act_2009">Political Parties and Elections Act 2009 - Wikipedia</a></li>
+<li> 06:38 <a href="https://en.wikipedia.org/w/index.php?title=Electoral_Commission_(United_Kingdom)&action=edit&section=1">Electoral Commission (United Kingdom) - Wikipedia</a></li>
+<li> 06:38 <a href="https://en.wikipedia.org/wiki/Talk:Electoral_Commission_(United_Kingdom)">Talk:Electoral Commission (United Kingdom) - Wikipedia</a></li>
+<li> 06:35 <a href="https://en.wikipedia.org/wiki/Electoral_Commission_(United_Kingdom)">Electoral Commission (United Kingdom) - Wikipedia</a></li>
+<li> 06:35 www.google.com</li>
+<li> 06:35 ico.org.uk</li>
+<li> 06:34 www.theverge.com</li>
+<li> 06:34 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 06:34 <a href="https://www.bbc.co.uk/news/technology-18811300">Yahoo investigating exposure of 400,000 passwords - BBC News</a></li>
+<li> 06:34 www.technologyreview.com</li>
+<li> 06:34 www.theguardian.com</li>
+<li class='same'> 06:33 www.theguardian.com</li>
+<li> 06:33 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 06:32 www.theverge.com</li>
+<li> 06:32 www.theguardian.com</li>
+<li> 06:32 <a href="https://www.bbc.co.uk/news/technology-18811300">Yahoo investigating exposure of 400,000 passwords - BBC News</a></li>
+<li> 06:32 www.technologyreview.com</li>
+<li> 06:31 www.theverge.com</li>
+<li> 06:31 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 06:31 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 06:31 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 06:31 <a href="https://en.wikipedia.org/wiki/Police_Service_of_Northern_Ireland">Police Service of Northern Ireland - Wikipedia</a></li>
+<li> 06:31 <a href="https://en.wikipedia.org/wiki/Police_Service_of_Northern_Ireland?venotify=saved">Police Service of Northern Ireland - Wikipedia</a></li>
+<li> 06:31 <a href="https://en.wikipedia.org/w/index.php?title=Police_Service_of_Northern_Ireland&action=edit">Police Service of Northern Ireland - Wikipedia</a></li>
+<li> 06:30 <a href="https://en.wikipedia.org/w/index.php?title=Police_Service_of_Northern_Ireland&oldid=1249101989&action=edit">Editing Police Service of Northern Ireland - Wikipedia</a></li>
+<li> 06:29 ico.org.uk</li>
+<li> 06:28 <a href="https://www.bbc.co.uk/news/uk-northern-ireland-66445452">PSNI: Major data breach identifies thousands of officers and civilian staff - BBC News</a></li>
+<li> 06:28 <a href="https://www.bbc.co.uk/news/articles/cg4q26vnrklo">PSNI data breach: 'Disappointment' after no reduction in £750k fine - BBC News</a></li>
+<li> 06:27 www.google.com</li>
+<li> 06:27 <a href="https://en.wikipedia.org/w/index.php?title=Police_Service_of_Northern_Ireland&action=edit&section=23">Editing Police Service of Northern Ireland (section) - Wikipedia</a></li>
+<li> 06:27 ico.org.uk</li>
+<li> 06:27 www.bbc.com</li>
+<li> 06:26 <a href="https://en.wikipedia.org/wiki/Police_Service_of_Northern_Ireland">Police Service of Northern Ireland - Wikipedia</a></li>
+<li> 06:26 claude.ai</li>
+<li class='same'> 06:25 claude.ai</li>
+<li> 06:24 <a href="https://en.wikipedia.org/wiki/Police_Service_of_Northern_Ireland#Tactical_Support_Group">Police Service of Northern Ireland - Wikipedia</a></li>
+<li> 06:24 <a href="https://en.wikipedia.org/w/index.php?title=Police_Service_of_Northern_Ireland&action=edit&section=12">Editing Police Service of Northern Ireland (section) - Wikipedia</a></li>
+<li> 06:23 <a href="https://en.wikipedia.org/wiki/Police_Service_of_Northern_Ireland">Police Service of Northern Ireland - Wikipedia</a></li>
+<li> 06:23 www.google.com</li>
+<li> 06:23 ico.org.uk</li>
+<li> 06:23 www.google.com</li>
+<li> 06:22 <a href="https://en.wikipedia.org/wiki/2024_National_Public_Data_breach">2024 National Public Data breach - Wikipedia</a></li>
+<li> 06:22 <a href="https://en.wikipedia.org/wiki/National_Public_Data">2024 National Public Data breach - Wikipedia</a></li>
+<li> 06:19 <a href="https://en.wikipedia.org/wiki/Talk:List_of_data_breaches">Talk:List of data breaches - Wikipedia</a></li>
+<li> 06:19 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 06:18 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 06:17 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
+<li> 06:17 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 06:17 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 06:17 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:17 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:17 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:17 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:13 rhul-my.sharepoint.com</li>
+<li class='same'> 06:11 rhul-my.sharepoint.com</li>
+<li> 06:10 www.linkedin.com</li>
+<li class='same'> 06:09 www.linkedin.com</li>
+<li> 06:08 feedly.com</li>
+<li> 06:08 discord.com</li>
+<li class='same'> 06:07 discord.com</li>
+<li class='same'> 06:05 discord.com</li>
+<li> 06:02 www.theguardian.com</li>
+<li> 06:01 docs.google.com</li>
+<li> 06:01 drive.google.com</li>
+</ul>
+
 <H3>Wednesday, 02/10/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
