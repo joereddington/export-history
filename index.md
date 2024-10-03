@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8111)</li>
-<li>mail.google.com (5729)</li>
+<ol><li>www.google.com (8113)</li>
+<li>mail.google.com (5739)</li>
 <li>outlook.office.com (3449)</li>
 <li>www.facebook.com (2610)</li>
-<li>docs.google.com (1864)</li>
-<li>calendar.google.com (1342)</li>
+<li>docs.google.com (1865)</li>
+<li>calendar.google.com (1346)</li>
 <li>moodle.royalholloway.ac.uk (1207)</li>
 <li>www.amazon.co.uk (1196)</li>
 <li>www.reddit.com (1190)</li>
 <li>github.com (1010)</li>
 <li>m.facebook.com (978)</li>
-<li>gmail.com (663)</li>
+<li>gmail.com (668)</li>
 <li>tvtropes.org (646)</li>
+<li>www.theguardian.com (639)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>www.theguardian.com (637)</li>
 <li>chat.openai.com (604)</li>
-<li>www.linkedin.com (598)</li>
+<li>www.linkedin.com (601)</li>
 <li>app.qbo.intuit.com (561)</li>
-<li>outlook.office365.com (509)</li>
+<li>outlook.office365.com (513)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (432)</li>
 <li>kdp.amazon.com (430)</li>
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:34 www.google.com</li>
+<ul><li> 16:31 mail.google.com</li>
+<li class='same'> 16:30 mail.google.com</li>
+<li class='same'> 16:29 mail.google.com</li>
+<li> 16:28 www.linkedin.com</li>
+<li> 16:28 www.google.com</li>
+<li> 16:27 outlook.office365.com</li>
+<li> 16:27 mail.google.com</li>
+<li class='same'> 16:26 mail.google.com</li>
+<li> 16:26 gmail.com</li>
+<li> 16:26 calendar.google.com</li>
+<li> 16:25 mail.google.com</li>
+<li> 16:25 calendar.google.com</li>
+<li> 16:24 mail.google.com</li>
+<li> 16:24 gmail.com</li>
+<li> 16:24 mail.google.com</li>
+<li> 16:24 gmail.com</li>
+<li> 16:23 mail.google.com</li>
+<li> 16:23 gmail.com</li>
+<li> 16:23 mail.google.com</li>
+<li> 16:23 gmail.com</li>
+<li> 16:20 calendar.google.com</li>
+<li> 16:20 www.natwest.com</li>
+<li> 16:20 calendar.google.com</li>
+<li> 16:13 docs.google.com</li>
+<li> 16:11 www.onlinebanking.natwest.com</li>
+<li> 16:11 www.natwest.com</li>
+<li> 16:11 natwest.com</li>
+<li> 16:10 outlook.office365.com</li>
+<li> 16:10 info.lookout.com</li>
+<li> 16:10 outlook.office365.com</li>
+<li class='same'> 16:09 outlook.office365.com</li>
+<li> 16:09 search.google.com</li>
+<li> 16:09 www.google.com</li>
+<li> 16:08 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:08 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 16:08 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li> 15:37 www.theguardian.com</li>
+<li> 15:34 www.google.com</li>
 <li> 15:33 www.theguardian.com</li>
 <li class='same'> 15:32 www.theguardian.com</li>
 <li> 15:31 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -231,6 +272,38 @@ With number of accesses/minutes in parentheses
 <li> 11:00 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 11:00 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 11:00 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 10:59 www.linkedin.com</li>
+<li class='same'> 10:58 www.linkedin.com</li>
+<li> 10:58 <a href="https://www.youtube.com/shorts/HkvOf3xlh1E">(38) i told the ugliest town in the uk it was beautiful - YouTube</a></li>
+<li> 10:58 <a href="https://www.youtube.com/shorts/g9aH2asIKkI">(38) Climbers face sudden avalanche! 😳🫣 - 🎥 BVIRAL / redddlong - YouTube</a></li>
+<li> 10:58 <a href="https://www.youtube.com/shorts/eJgzG99WD7s">(38) YouTube</a></li>
+<li> 10:58 <a href="https://www.youtube.com/shorts/TSQA2im9BVo">(38) Mark Buys 100% of HyConn! - YouTube</a></li>
+<li> 10:58 <a href="https://www.youtube.com/shorts/xzqF548J1gA">(38) DIY Vanishing Bottle 🟢👀 #magic - YouTube</a></li>
+<li> 10:57 <a href="https://www.youtube.com/shorts/lQjLJbJlRX0">(38) YouTube</a></li>
+<li> 10:57 <a href="https://www.youtube.com/shorts/N4WBQ62X00M">(38) Ray was angry about this ,but there was a limit #movie #shorts #viralvideo - YouTube</a></li>
+<li> 10:57 <a href="https://www.youtube.com/shorts/IpBpyneVupw">(38) When The Chef Roasts You! 👨‍🍳 | Thank God You're Here #shorts - YouTube</a></li>
+<li> 10:57 <a href="https://www.youtube.com/shorts/5MtgPGtFuSo">(38) LIFE HACK ALERT- have you been lacing up your shoes wrong? #shoes #shoestransition #shoeschallenge - YouTube</a></li>
+<li> 10:57 <a href="https://www.youtube.com/shorts/0EMHuaTwO8U">(38) Once upon a time, the world actually came to an end #movie #series - YouTube</a></li>
+<li> 10:56 <a href="https://www.youtube.com/shorts/-wdqVz9Kcls">(38) Wolverine saved a man from a nuclear blast #shorts #movie - YouTube</a></li>
+<li> 10:56 <a href="https://www.youtube.com/shorts/lQjLJbJlRX0">(38) YouTube</a></li>
+<li> 10:56 <a href="https://www.youtube.com/shorts/cmHP2wqh7HM">(38) How Did Tom Platz RUIN His Career? 🫠|#tomplatz #mrolympia #bodybuilding #gym - YouTube</a></li>
+<li> 10:56 <a href="https://www.youtube.com/shorts/_j3DJI_Bewc">(38) Because of his skin colour,he was called black trash by his rivals #viral #movie #film - YouTube</a></li>
+<li> 10:56 <a href="https://www.youtube.com/shorts/eJgzG99WD7s">(38) YouTube</a></li>
+<li> 10:56 <a href="https://www.youtube.com/shorts/cP7vEm9P2Ew">(38) They'll demolish the building | Suits #suits #suitstvshow #movie #suitsofficial #viralshorts #video - YouTube</a></li>
+<li> 10:55 <a href="https://www.youtube.com/shorts/b8-BxZse10I">(38) David Spade Got in TROUBLE With Eddie Murphy | #shorts - YouTube</a></li>
+<li> 10:55 <a href="https://www.youtube.com/shorts/bJnYdl3bkEQ">(38) Most People DONT KNOW This TRICK! - YouTube</a></li>
+<li> 10:54 <a href="https://www.youtube.com/shorts/eJgzG99WD7s">(38) YouTube</a></li>
+<li> 10:54 <a href="https://www.youtube.com/shorts/bnsvX4AVwMM">(38) "I Don't Gamble Where I Don't Feel Welcome." - Boardwalk Empire (TV Series 2010–2014) #shorts #movie - YouTube</a></li>
+<li> 10:53 <a href="https://www.youtube.com/shorts/V4coN5ur4AE">(38) He was underestimated😌#bettercallsaul - YouTube</a></li>
+<li> 10:53 <a href="https://www.youtube.com/shorts/XoRhU5SraMg">(38) She showed NO RESPECT, so the WORLD CHAMPION decided to TEACH HER SOME MANNERS #shorts - YouTube</a></li>
+<li> 10:52 <a href="https://www.youtube.com/shorts/lQjLJbJlRX0">(38) YouTube</a></li>
+<li> 10:52 <a href="https://www.youtube.com/shorts/VpwdOVcAYZg">(38) Guard Exploit #shorts - YouTube</a></li>
+<li> 10:52 <a href="https://www.youtube.com/shorts/i6Pi9g9JW7I">(38) Punished an impudent guy | Devon larratt vs Adam Scherr #armwrestling - YouTube</a></li>
+<li> 10:52 <a href="https://www.youtube.com/shorts/dlKu_afCqrc">(38) 2024年10月2日 - YouTube</a></li>
+<li> 10:52 <a href="https://www.youtube.com/shorts/DgKUV8vR1f8">(38) Capturing Fine Gold in Papua New Guinea with a Highbanker. - YouTube</a></li>
+<li> 10:51 <a href="https://www.youtube.com/shorts/QB7-r6WNLgY">(38) You can either get out of here right now,or you can be buried here. #yellowstone #shorts #crime - YouTube</a></li>
+<li> 10:51 <a href="https://www.youtube.com/shorts/htrSRf_N8cc">(38) Real Gold Found! | Improved Gold Panning in a Mountain Stream #GoldPanning #RealGold - YouTube</a></li>
+<li> 10:50 <a href="https://www.youtube.com/shorts/KtgTlsEC93Q">(38) I Made A Mistake And This Is How I Handled It - YouTube</a></li>
 <li> 10:50 <a href="https://www.youtube.com/shorts/mdMVUUy2r-k">(38) He escaped the Imperial officers in his latest ship #movie #shorts #video - YouTube</a></li>
 <li> 10:50 <a href="https://www.youtube.com/shorts/iFa8yoIy8S4">(38) YouTube</a></li>
 <li> 10:49 <a href="https://www.youtube.com/shorts/MN2l-inEgnI">(38) He set a record, but the senior chief wasn't impressed 😒 | Movie title: The Guardian | #movie #film - YouTube</a></li>
@@ -340,6 +413,11 @@ With number of accesses/minutes in parentheses
 <li> 08:56 <a href="https://en.wikipedia.org/wiki/Revealed_preference">Revealed preference - Wikipedia</a></li>
 <li> 08:56 www.google.com</li>
 <li> 08:55 www.giantitp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:04 www.theguardian.com</li>
 </ul>
 
 <br>
