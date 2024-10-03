@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (646)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>www.theguardian.com (635)</li>
-<li>chat.openai.com (603)</li>
+<li>chat.openai.com (604)</li>
 <li>www.linkedin.com (598)</li>
 <li>app.qbo.intuit.com (561)</li>
 <li>outlook.office365.com (509)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:08 www.tempest-events.co.uk</li>
+<ul><li> 14:18 www.tempest-events.co.uk</li>
+<li class='same'> 14:17 www.tempest-events.co.uk</li>
+<li> 14:11 chatgpt.com</li>
+<li class='same'> 14:10 chatgpt.com</li>
+<li> 14:10 chat.openai.com</li>
+<li> 14:09 www.tempest-events.co.uk</li>
+<li class='same'> 14:08 www.tempest-events.co.uk</li>
 <li class='same'> 14:07 www.tempest-events.co.uk</li>
 <li class='same'> 14:06 www.tempest-events.co.uk</li>
 <li class='same'> 14:05 www.tempest-events.co.uk</li>
