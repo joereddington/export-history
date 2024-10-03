@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8084)</li>
+<ol><li>www.google.com (8093)</li>
 <li>mail.google.com (5729)</li>
 <li>outlook.office.com (3436)</li>
 <li>www.facebook.com (2610)</li>
 <li>docs.google.com (1864)</li>
 <li>calendar.google.com (1341)</li>
 <li>moodle.royalholloway.ac.uk (1207)</li>
-<li>www.amazon.co.uk (1194)</li>
+<li>www.amazon.co.uk (1196)</li>
 <li>www.reddit.com (1187)</li>
 <li>github.com (1010)</li>
 <li>m.facebook.com (978)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (646)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>www.theguardian.com (633)</li>
-<li>chat.openai.com (599)</li>
+<li>chat.openai.com (600)</li>
 <li>www.linkedin.com (597)</li>
 <li>app.qbo.intuit.com (561)</li>
 <li>outlook.office365.com (507)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
 <li>www.giantitp.com (300)</li>
-<li><a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a> (274)</li>
+<li><a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a> (275)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:16 rhul-my.sharepoint.com</li>
+<ul><li> 10:19 <a href="https://en.wikipedia.org/wiki/Industrial_espionage">Industrial espionage - Wikipedia</a></li>
+<li> 10:19 www.google.com</li>
+<li> 10:14 <a href="https://en.wikipedia.org/wiki/Script_kiddie">Script kiddie - Wikipedia</a></li>
+<li> 10:13 www.google.com</li>
+<li> 10:12 www.researchgate.net</li>
+<li> 10:11 <a href="https://en.wikipedia.org/w/index.php?title=Script_kiddie&action=edit&section=1">Editing Script kiddie - Wikipedia</a></li>
+<li> 10:11 scholar.googleusercontent.com</li>
+<li> 10:10 scholar.google.com</li>
+<li> 10:10 www.google.com</li>
+<li> 10:10 www.amazon.co.uk</li>
+<li class='same'> 10:09 www.amazon.co.uk</li>
+<li> 10:09 www.google.co.uk</li>
+<li> 10:09 www.google.com</li>
+<li> 10:09 www.google.co.uk</li>
+<li> 10:08 www.google.com</li>
+<li> 10:08 books.google.co.uk</li>
+<li> 10:08 www.google.com</li>
+<li> 10:08 <a href="https://en.wikipedia.org/wiki/Script_kiddie">Script kiddie - Wikipedia</a></li>
+<li> 10:08 www.google.com</li>
+<li> 10:01 <a href="https://en.wikipedia.org/wiki/Hacktivism">Hacktivism - Wikipedia</a></li>
+<li> 10:01 www.google.com</li>
+<li> 10:00 wikileaks.org</li>
+<li> 09:59 www.google.com</li>
+<li> 09:41 chatgpt.com</li>
+<li class='same'> 09:40 chatgpt.com</li>
+<li> 09:40 chat.openai.com</li>
+<li> 09:27 rhul-my.sharepoint.com</li>
+<li> 09:22 <a href="https://en.wikipedia.org/w/index.php?title=Special:Contributions/Joereddington&target=Joereddington&offset=20240508194903">User contributions for Joereddington - Wikipedia</a></li>
+<li> 09:22 <a href="https://en.wikipedia.org/w/index.php?title=Special:Contributions/Joereddington&target=Joereddington&offset=20240527044328">User contributions for Joereddington - Wikipedia</a></li>
+<li> 09:22 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 09:22 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 09:22 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 09:22 www.wikipedia.org</li>
+<li> 09:20 rhul-my.sharepoint.com</li>
+<li class='same'> 09:19 rhul-my.sharepoint.com</li>
+<li class='same'> 09:16 rhul-my.sharepoint.com</li>
 <li> 09:15 <a href="https://en.wikipedia.org/wiki/Clearview_AI">Clearview AI - Wikipedia</a></li>
 <li> 09:15 <a href="https://en.wikipedia.org/wiki/Andrew_Hunter_Murray">Andrew Hunter Murray - Wikipedia</a></li>
 <li> 09:14 <a href="https://en.wikipedia.org/wiki/Joe_Brumm">Joe Brumm - Wikipedia</a></li>
