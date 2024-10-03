@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8082)</li>
+<ol><li>www.google.com (8084)</li>
 <li>mail.google.com (5729)</li>
 <li>outlook.office.com (3436)</li>
 <li>www.facebook.com (2610)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1341)</li>
 <li>moodle.royalholloway.ac.uk (1207)</li>
 <li>www.amazon.co.uk (1194)</li>
-<li>www.reddit.com (1183)</li>
+<li>www.reddit.com (1185)</li>
 <li>github.com (1010)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (663)</li>
@@ -84,20 +84,20 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (637)</li>
 <li>www.theguardian.com (633)</li>
 <li>chat.openai.com (599)</li>
-<li>www.linkedin.com (596)</li>
+<li>www.linkedin.com (597)</li>
 <li>app.qbo.intuit.com (561)</li>
 <li>outlook.office365.com (507)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (431)</li>
 <li>kdp.amazon.com (430)</li>
-<li>web.whatsapp.com (427)</li>
+<li>web.whatsapp.com (428)</li>
 <li>drive.google.com (426)</li>
 <li>teams.microsoft.com (421)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
-<li>www.giantitp.com (299)</li>
-<li><a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a> (273)</li>
+<li>www.giantitp.com (300)</li>
+<li><a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a> (274)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:19 www.reddit.com</li>
+<ul><li> 09:15 <a href="https://en.wikipedia.org/wiki/Andrew_Hunter_Murray">Andrew Hunter Murray - Wikipedia</a></li>
+<li> 09:14 <a href="https://en.wikipedia.org/wiki/Joe_Brumm">Joe Brumm - Wikipedia</a></li>
+<li> 09:14 <a href="https://en.wikipedia.org/wiki/Bluey_(2018_TV_series)">Bluey (2018 TV series) - Wikipedia</a></li>
+<li> 09:13 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:13 adblockplus.org</li>
+<li> 09:13 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:13 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 09:13 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 09:13 <a href="https://en.wikipedia.org/"></a></li>
+<li> 09:13 <a href="http://en.wikipedia.org/"></a></li>
+<li> 08:57 web.whatsapp.com</li>
+<li> 08:57 www.linkedin.com</li>
+<li> 08:56 <a href="https://en.wikipedia.org/wiki/Contingent_valuation">Contingent valuation - Wikipedia</a></li>
+<li> 08:56 <a href="https://en.wikipedia.org/wiki/Revealed_preference">Revealed preference - Wikipedia</a></li>
+<li> 08:56 www.google.com</li>
+<li> 08:55 www.giantitp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:22 www.foxnews.com</li>
+<li> 07:22 www.google.com</li>
+<li> 07:21 www.reddit.com</li>
+<li class='same'> 07:20 www.reddit.com</li>
+<li class='same'> 07:19 www.reddit.com</li>
 <li class='same'> 07:18 www.reddit.com</li>
 <li class='same'> 07:17 www.reddit.com</li>
 <li class='same'> 07:15 www.reddit.com</li>
