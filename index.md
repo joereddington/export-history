@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8110)</li>
+<ol><li>www.google.com (8111)</li>
 <li>mail.google.com (5729)</li>
 <li>outlook.office.com (3449)</li>
 <li>www.facebook.com (2610)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (663)</li>
 <li>tvtropes.org (646)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>www.theguardian.com (635)</li>
+<li>www.theguardian.com (637)</li>
 <li>chat.openai.com (604)</li>
 <li>www.linkedin.com (598)</li>
 <li>app.qbo.intuit.com (561)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:20 calendar.google.com</li>
+<ul><li> 15:34 www.google.com</li>
+<li> 15:33 www.theguardian.com</li>
+<li class='same'> 15:32 www.theguardian.com</li>
+<li> 15:31 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:24 arxiv.org</li>
+<li> 15:20 calendar.google.com</li>
 <li> 15:20 rhul-my.sharepoint.com</li>
 <li class='same'> 15:19 rhul-my.sharepoint.com</li>
 <li> 15:18 www.google.com</li>
