@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1341)</li>
 <li>moodle.royalholloway.ac.uk (1207)</li>
 <li>www.amazon.co.uk (1194)</li>
-<li>www.reddit.com (1185)</li>
+<li>www.reddit.com (1187)</li>
 <li>github.com (1010)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (663)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (561)</li>
 <li>outlook.office365.com (507)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (431)</li>
+<li>login.microsoftonline.com (432)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (428)</li>
 <li>drive.google.com (426)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:15 <a href="https://en.wikipedia.org/wiki/Andrew_Hunter_Murray">Andrew Hunter Murray - Wikipedia</a></li>
+<ul><li> 09:16 rhul-my.sharepoint.com</li>
+<li> 09:15 <a href="https://en.wikipedia.org/wiki/Clearview_AI">Clearview AI - Wikipedia</a></li>
+<li> 09:15 <a href="https://en.wikipedia.org/wiki/Andrew_Hunter_Murray">Andrew Hunter Murray - Wikipedia</a></li>
 <li> 09:14 <a href="https://en.wikipedia.org/wiki/Joe_Brumm">Joe Brumm - Wikipedia</a></li>
 <li> 09:14 <a href="https://en.wikipedia.org/wiki/Bluey_(2018_TV_series)">Bluey (2018 TV series) - Wikipedia</a></li>
 <li> 09:13 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
@@ -118,6 +120,12 @@ With number of accesses/minutes in parentheses
 <li> 09:13 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 09:13 <a href="https://en.wikipedia.org/"></a></li>
 <li> 09:13 <a href="http://en.wikipedia.org/"></a></li>
+<li> 09:12 www.reddit.com</li>
+<li class='same'> 09:11 www.reddit.com</li>
+<li> 09:07 rhul-my.sharepoint.com</li>
+<li> 09:07 forms.office.com</li>
+<li> 09:07 login.microsoftonline.com</li>
+<li> 09:07 forms.office.com</li>
 <li> 08:57 web.whatsapp.com</li>
 <li> 08:57 www.linkedin.com</li>
 <li> 08:56 <a href="https://en.wikipedia.org/wiki/Contingent_valuation">Contingent valuation - Wikipedia</a></li>
