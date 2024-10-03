@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8099)</li>
+<ol><li>www.google.com (8100)</li>
 <li>mail.google.com (5729)</li>
-<li>outlook.office.com (3441)</li>
+<li>outlook.office.com (3442)</li>
 <li>www.facebook.com (2610)</li>
 <li>docs.google.com (1864)</li>
 <li>calendar.google.com (1341)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (646)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>www.theguardian.com (635)</li>
-<li>chat.openai.com (600)</li>
+<li>chat.openai.com (601)</li>
 <li>www.linkedin.com (598)</li>
 <li>app.qbo.intuit.com (561)</li>
 <li>outlook.office365.com (508)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:13 www.exploring-islam.com</li>
+<ul><li> 11:23 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 11:23 chatgpt.com</li>
+<li class='same'> 11:22 chatgpt.com</li>
+<li> 11:22 chat.openai.com</li>
+<li> 11:22 outlook.office.com</li>
+<li> 11:13 www.eastlondonmosque.org.uk</li>
+<li> 11:13 www.google.com</li>
+<li> 11:13 www.exploring-islam.com</li>
 <li> 11:13 www.google.com</li>
 <li> 11:11 <a href="https://en.wikipedia.org/wiki/Salah_times">Salah times - Wikipedia</a></li>
 <li> 11:11 www.google.com</li>
