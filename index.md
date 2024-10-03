@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8101)</li>
+<ol><li>www.google.com (8102)</li>
 <li>mail.google.com (5729)</li>
-<li>outlook.office.com (3442)</li>
+<li>outlook.office.com (3446)</li>
 <li>www.facebook.com (2610)</li>
 <li>docs.google.com (1864)</li>
 <li>calendar.google.com (1341)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (602)</li>
 <li>www.linkedin.com (598)</li>
 <li>app.qbo.intuit.com (561)</li>
-<li>outlook.office365.com (508)</li>
+<li>outlook.office365.com (509)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (432)</li>
 <li>kdp.amazon.com (430)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 03/10/24</H3>
+
+<br>
+
+<ul><li> 12:38 www.tempest-events.co.uk</li>
+<li class='same'> 12:35 www.tempest-events.co.uk</li>
+<li> 12:35 eur03.safelinks.protection.outlook.com</li>
+<li> 12:34 outlook.office.com</li>
+<li> 12:33 rhul-my.sharepoint.com</li>
+<li> 12:32 outlook.office.com</li>
+<li class='same'> 12:31 outlook.office.com</li>
+<li> 12:31 outlook.office365.com</li>
+<li> 12:31 outlook.office.com</li>
+<li> 12:31 mail.rhul.ac.uk</li>
+<li> 12:31 rhul-my.sharepoint.com</li>
+<li class='same'> 12:30 rhul-my.sharepoint.com</li>
+<li> 12:30 www.google.com</li>
+</ul>
 
 <br>
 
