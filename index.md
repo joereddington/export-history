@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8100)</li>
+<ol><li>www.google.com (8101)</li>
 <li>mail.google.com (5729)</li>
 <li>outlook.office.com (3442)</li>
 <li>www.facebook.com (2610)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1341)</li>
 <li>moodle.royalholloway.ac.uk (1207)</li>
 <li>www.amazon.co.uk (1196)</li>
-<li>www.reddit.com (1189)</li>
+<li>www.reddit.com (1190)</li>
 <li>github.com (1010)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (663)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:23 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<ul><li> 11:46 www.reddit.com</li>
+<li> 11:45 <a href="https://stackoverflow.com/questions/61557619/python-appending-json-and-getting-too-many-curly-brackets?rq=3">Python: Appending JSON and getting too many Curly Brackets - Stack Overflow</a></li>
+<li> 11:41 <a href="https://stackoverflow.com/questions/43662236/my-program-sometimes-writes-an-extra-or-at-the-end-of-data-in-json-file">python - My program sometimes writes an extra ] or } at the end of data in json file? - Stack Overflow</a></li>
+<li> 11:41 www.google.com</li>
+<li> 11:41 chatgpt.com</li>
+<li> 11:23 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 11:23 chatgpt.com</li>
 <li class='same'> 11:22 chatgpt.com</li>
 <li> 11:22 chat.openai.com</li>
