@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (646)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>www.theguardian.com (635)</li>
-<li>chat.openai.com (601)</li>
+<li>chat.openai.com (602)</li>
 <li>www.linkedin.com (598)</li>
 <li>app.qbo.intuit.com (561)</li>
 <li>outlook.office365.com (508)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:46 www.reddit.com</li>
+<ul><li> 11:57 chatgpt.com</li>
+<li> 11:57 chat.openai.com</li>
+<li> 11:52 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:46 www.reddit.com</li>
 <li> 11:45 <a href="https://stackoverflow.com/questions/61557619/python-appending-json-and-getting-too-many-curly-brackets?rq=3">Python: Appending JSON and getting too many Curly Brackets - Stack Overflow</a></li>
 <li> 11:41 <a href="https://stackoverflow.com/questions/43662236/my-program-sometimes-writes-an-extra-or-at-the-end-of-data-in-json-file">python - My program sometimes writes an extra ] or } at the end of data in json file? - Stack Overflow</a></li>
 <li> 11:41 www.google.com</li>
