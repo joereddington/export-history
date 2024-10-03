@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8113)</li>
+<ol><li>www.google.com (8114)</li>
 <li>mail.google.com (5739)</li>
 <li>outlook.office.com (3449)</li>
 <li>www.facebook.com (2610)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (978)</li>
 <li>gmail.com (668)</li>
 <li>tvtropes.org (646)</li>
-<li>www.theguardian.com (639)</li>
+<li>www.theguardian.com (640)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>chat.openai.com (604)</li>
 <li>www.linkedin.com (601)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 03/10/24</H3>
+
+<br>
+
+<ul><li> 19:09 www.google.com</li>
+</ul>
 
 <br>
 
@@ -144,11 +149,8 @@ With number of accesses/minutes in parentheses
 <li> 16:08 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:08 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:08 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-</ul>
-
-<br>
-
-<ul><li> 15:37 www.theguardian.com</li>
+<li> 15:38 www.theguardian.com</li>
+<li class='same'> 15:37 www.theguardian.com</li>
 <li> 15:34 www.google.com</li>
 <li> 15:33 www.theguardian.com</li>
 <li class='same'> 15:32 www.theguardian.com</li>
