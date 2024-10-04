@@ -86,9 +86,9 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (605)</li>
 <li>www.linkedin.com (601)</li>
 <li>app.qbo.intuit.com (561)</li>
-<li>outlook.office365.com (519)</li>
+<li>outlook.office365.com (523)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (433)</li>
+<li>login.microsoftonline.com (435)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (428)</li>
 <li>drive.google.com (426)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
 <li>www.giantitp.com (301)</li>
-<li>chatgpt.com (277)</li>
+<li>rhul-my.sharepoint.com (277)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 04/10/24</H3>
+
+<br>
+
+<ul><li> 10:08 outlook.office365.com</li>
+<li class='same'> 10:07 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -127,6 +133,15 @@ With number of accesses/minutes in parentheses
 <li> 06:52 outlook.office365.com</li>
 <li> 06:52 outlook.office.com</li>
 <li> 06:52 mail.rhul.ac.uk</li>
+<li> 06:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:47 outlook.office365.com</li>
+<li> 06:43 forms.office.com</li>
+<li> 06:43 login.microsoftonline.com</li>
+<li> 06:43 rhul-my.sharepoint.com</li>
+<li> 06:43 forms.office.com</li>
+<li> 06:43 login.microsoftonline.com</li>
+<li> 06:43 forms.office.com</li>
+<li> 06:42 outlook.office365.com</li>
 <li> 06:33 www.facebook.com</li>
 <li class='same'> 06:32 www.facebook.com</li>
 <li class='same'> 06:31 www.facebook.com</li>
