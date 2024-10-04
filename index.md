@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8117)</li>
+<ol><li>www.google.com (8115)</li>
 <li>mail.google.com (5747)</li>
-<li>outlook.office.com (3453)</li>
+<li>outlook.office.com (3455)</li>
 <li>www.facebook.com (2613)</li>
 <li>docs.google.com (1865)</li>
 <li>calendar.google.com (1350)</li>
@@ -88,11 +88,11 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (561)</li>
 <li>outlook.office365.com (519)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (434)</li>
+<li>login.microsoftonline.com (433)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (428)</li>
 <li>drive.google.com (426)</li>
-<li>teams.microsoft.com (421)</li>
+<li>teams.microsoft.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:05 login.microsoftonline.com</li>
+<ul><li> 07:12 outlook.office.com</li>
+<li class='same'> 07:08 outlook.office.com</li>
+<li> 07:05 login.microsoftonline.com</li>
 <li> 07:05 forms.office.com</li>
 <li> 07:04 rhul-my.sharepoint.com</li>
 <li> 07:04 forms.office.com</li>
@@ -16125,7 +16127,6 @@ With number of accesses/minutes in parentheses
 <li> 16:59 www.theguardian.com</li>
 <li> 16:59 equalitytime.github.io</li>
 <li> 16:56 127.0.0.1:4000</li>
-<li class='same'> 16:52 127.0.0.1:4000</li>
 <li class='same'> 16:50 127.0.0.1:4000</li>
 <li> 16:46 www.paypal.com</li>
 <li> 16:46 jekyllrb.com</li>
@@ -16140,8 +16141,6 @@ With number of accesses/minutes in parentheses
 <li> 16:24 docs.google.com</li>
 <li> 16:22 mail.google.com</li>
 <li> 16:21 teams.microsoft.com</li>
-<li> 16:21 login.microsoftonline.com</li>
-<li> 16:21 teams.microsoft.com</li>
 <li class='same'> 16:20 teams.microsoft.com</li>
 <li> 16:20 outlook.office.com</li>
 <li> 16:20 login.microsoftonline.com</li>
@@ -16152,7 +16151,6 @@ With number of accesses/minutes in parentheses
 <li> 16:17 gmail.com</li>
 <li> 16:11 qbo.intuit.com</li>
 <li> 16:10 calendar.google.com</li>
-<li> 16:09 intuit-qbo-prod-13.s3.amazonaws.com</li>
 <li> 16:09 qbo.intuit.com</li>
 <li class='same'> 16:07 qbo.intuit.com</li>
 <li> 16:07 app.qbo.intuit.com</li>
@@ -16200,7 +16198,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:31 mail.google.com</li>
 <li> 14:31 www.paypal.com</li>
 <li class='same'> 14:30 www.paypal.com</li>
-<li> 14:30 www.google.com</li>
 <li> 14:30 mail.google.com</li>
 <li> 14:30 www.paypal.com</li>
 <li class='same'> 14:29 www.paypal.com</li>
@@ -16227,8 +16224,6 @@ With number of accesses/minutes in parentheses
 <li> 14:04 docs.google.com</li>
 <li> 14:03 mail.google.com</li>
 <li class='same'> 14:02 mail.google.com</li>
-<li> 14:02 www.dropbox.com</li>
-<li> 14:02 www.google.com</li>
 <li> 14:02 www.dropbox.com</li>
 <li> 14:01 mail.google.com</li>
 <li class='same'> 14:00 mail.google.com</li>
