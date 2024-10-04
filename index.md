@@ -83,16 +83,16 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (646)</li>
 <li>www.theguardian.com (640)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>chat.openai.com (605)</li>
+<li>chat.openai.com (606)</li>
 <li>www.linkedin.com (601)</li>
 <li>app.qbo.intuit.com (561)</li>
-<li>outlook.office365.com (535)</li>
+<li>outlook.office365.com (536)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (438)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (429)</li>
 <li>drive.google.com (426)</li>
-<li>teams.microsoft.com (420)</li>
+<li>teams.microsoft.com (421)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:22 moodle.royalholloway.ac.uk</li>
+<ul><li> 15:48 outlook.office365.com</li>
+<li> 15:23 chatgpt.com</li>
+<li> 15:23 chat.openai.com</li>
+<li> 15:23 teams.microsoft.com</li>
+<li> 15:22 moodle.royalholloway.ac.uk</li>
 <li> 15:22 login.microsoftonline.com</li>
 <li> 15:22 moodle.royalholloway.ac.uk</li>
 <li class='same'> 15:21 moodle.royalholloway.ac.uk</li>
