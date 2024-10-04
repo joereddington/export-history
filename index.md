@@ -86,9 +86,9 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (605)</li>
 <li>www.linkedin.com (601)</li>
 <li>app.qbo.intuit.com (561)</li>
-<li>outlook.office365.com (528)</li>
+<li>outlook.office365.com (531)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (435)</li>
+<li>login.microsoftonline.com (436)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (429)</li>
 <li>drive.google.com (426)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
 <li>www.giantitp.com (301)</li>
-<li>rhul-my.sharepoint.com (277)</li>
+<li>rhul-my.sharepoint.com (278)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 04/10/24</H3>
+
+<br>
+
+<ul><li> 12:26 forms.office.com</li>
+<li class='same'> 12:23 forms.office.com</li>
+<li> 12:23 login.microsoftonline.com</li>
+<li> 12:23 forms.office.com</li>
+<li> 12:23 rhul-my.sharepoint.com</li>
+<li> 12:22 outlook.office365.com</li>
+<li class='same'> 12:21 outlook.office365.com</li>
+<li class='same'> 12:20 outlook.office365.com</li>
+</ul>
 
 <br>
 
