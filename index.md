@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8116)</li>
+<ol><li>www.google.com (8122)</li>
 <li>mail.google.com (5747)</li>
 <li>outlook.office.com (3455)</li>
 <li>www.facebook.com (2615)</li>
@@ -81,14 +81,14 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (978)</li>
 <li>gmail.com (669)</li>
 <li>tvtropes.org (646)</li>
-<li>www.theguardian.com (640)</li>
+<li>www.theguardian.com (643)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>chat.openai.com (606)</li>
 <li>www.linkedin.com (601)</li>
 <li>app.qbo.intuit.com (561)</li>
 <li>outlook.office365.com (537)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (438)</li>
+<li>login.microsoftonline.com (439)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (429)</li>
 <li>drive.google.com (426)</li>
@@ -104,7 +104,39 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 05/10/24</H3>
+
+<br>
+
+<ul><li> 17:53 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:38 m.youtube.com</li>
+<li class='same'> 15:35 m.youtube.com</li>
+<li> 15:35 www.google.com</li>
+<li> 15:35 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:44 www.theguardian.com</li>
+<li class='same'> 09:43 www.theguardian.com</li>
+<li> 09:38 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:25 login.microsoftonline.com</li>
+<li> 08:25 forms.office.com</li>
+</ul>
+
 <H3>Friday, 04/10/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -121,6 +153,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:48 outlook.office365.com</li>
+<li> 15:44 www.google.com</li>
+<li class='same'> 15:43 www.google.com</li>
 <li> 15:23 chatgpt.com</li>
 <li> 15:23 chat.openai.com</li>
 <li> 15:23 teams.microsoft.com</li>
@@ -152,6 +186,7 @@ With number of accesses/minutes in parentheses
 <li> 12:22 outlook.office365.com</li>
 <li class='same'> 12:21 outlook.office365.com</li>
 <li class='same'> 12:20 outlook.office365.com</li>
+<li> 12:02 www.google.com</li>
 </ul>
 
 <br>
