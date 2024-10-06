@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8122)</li>
+<ol><li>www.google.com (8128)</li>
 <li>mail.google.com (5747)</li>
 <li>outlook.office.com (3455)</li>
 <li>www.facebook.com (2615)</li>
@@ -80,8 +80,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (1010)</li>
 <li>m.facebook.com (978)</li>
 <li>gmail.com (669)</li>
+<li>www.theguardian.com (649)</li>
 <li>tvtropes.org (646)</li>
-<li>www.theguardian.com (643)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>chat.openai.com (606)</li>
 <li>www.linkedin.com (601)</li>
@@ -105,6 +105,27 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 06/10/24</H3>
+
+<br>
+
+<ul><li> 16:41 www.olderdrivers.org.uk</li>
+<li> 16:41 www.google.com</li>
+<li> 16:41 www.thrillist.com</li>
+<li class='same'> 16:21 www.thrillist.com</li>
+<li> 16:21 getpocket.com</li>
+<li> 16:20 www.foxnews.com</li>
+<li> 16:20 www.theguardian.com</li>
+<li class='same'> 16:19 www.theguardian.com</li>
+<li class='same'> 16:15 www.theguardian.com</li>
+<li class='same'> 16:13 www.theguardian.com</li>
+<li class='same'> 16:12 www.theguardian.com</li>
+<li class='same'> 16:11 www.theguardian.com</li>
+<li> 16:10 www.google.com</li>
+<li> 16:10 www.natesilver.net</li>
+<li class='same'> 16:09 www.natesilver.net</li>
+<li> 16:09 www.google.com</li>
+<li> 16:09 www.eurobricks.com</li>
+</ul>
 
 <br>
 
@@ -282,7 +303,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:09 www.google.com</li>
+<ul><li> 21:51 www.eurobricks.com</li>
+<li class='same'> 21:43 www.eurobricks.com</li>
+<li> 21:43 www.google.com</li>
+<li class='same'> 21:42 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:09 www.google.com</li>
 </ul>
 
 <br>
@@ -747,7 +776,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:02 www.google.com</li>
+<ul><li> 19:06 www.google.com</li>
+<li class='same'> 19:02 www.google.com</li>
 </ul>
 
 <br>
