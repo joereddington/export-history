@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (561)</li>
 <li>outlook.office365.com (537)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (439)</li>
+<li>login.microsoftonline.com (440)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (429)</li>
 <li>drive.google.com (426)</li>
@@ -104,7 +104,19 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 06/10/24</H3>
+
+<br>
+
+<ul><li> 08:57 login.microsoftonline.com</li>
+<li> 08:57 forms.office.com</li>
+</ul>
+
 <H3>Saturday, 05/10/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
