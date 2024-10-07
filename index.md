@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8120)</li>
+<ol><li>www.google.com (8121)</li>
 <li>mail.google.com (5747)</li>
 <li>outlook.office.com (3455)</li>
 <li>www.facebook.com (2615)</li>
@@ -83,10 +83,10 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (649)</li>
 <li>tvtropes.org (646)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>chat.openai.com (606)</li>
+<li>chat.openai.com (607)</li>
 <li>www.linkedin.com (601)</li>
 <li>app.qbo.intuit.com (561)</li>
-<li>outlook.office365.com (548)</li>
+<li>outlook.office365.com (551)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (446)</li>
 <li>kdp.amazon.com (430)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
 <li>www.giantitp.com (302)</li>
-<li>rhul-my.sharepoint.com (280)</li>
+<li>rhul-my.sharepoint.com (281)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:04 rhul.hosted.panopto.com</li>
+<ul><li> 07:20 answers.microsoft.com</li>
+<li> 07:20 www.google.com</li>
+<li> 07:17 rhul-my.sharepoint.com</li>
+<li> 07:14 chatgpt.com</li>
+<li class='same'> 07:12 chatgpt.com</li>
+<li> 07:12 chat.openai.com</li>
+<li> 07:11 outlook.office365.com</li>
+<li class='same'> 07:10 outlook.office365.com</li>
+<li class='same'> 07:09 outlook.office365.com</li>
+<li> 07:04 rhul.hosted.panopto.com</li>
 <li> 06:57 personaltutoring.royalholloway.ac.uk</li>
 <li> 06:57 adfs.rhul.ac.uk</li>
 <li> 06:57 personaltutoring.royalholloway.ac.uk</li>
