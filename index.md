@@ -86,9 +86,9 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (607)</li>
 <li>www.linkedin.com (601)</li>
 <li>app.qbo.intuit.com (561)</li>
-<li>outlook.office365.com (551)</li>
+<li>outlook.office365.com (552)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (446)</li>
+<li>login.microsoftonline.com (447)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (429)</li>
 <li>drive.google.com (425)</li>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 07/10/24</H3>
+
+<br>
+
+<ul><li> 09:28 login.microsoftonline.com</li>
+<li> 08:59 dashboards.rhul.ac.uk</li>
+<li> 08:57 forms.office.com</li>
+<li> 08:56 outlook.office365.com</li>
+</ul>
 
 <br>
 
