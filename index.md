@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8121)</li>
+<ol><li>www.google.com (8125)</li>
 <li>mail.google.com (5747)</li>
 <li>outlook.office.com (3455)</li>
 <li>www.facebook.com (2615)</li>
 <li>docs.google.com (1865)</li>
-<li>calendar.google.com (1353)</li>
+<li>calendar.google.com (1354)</li>
 <li>moodle.royalholloway.ac.uk (1212)</li>
 <li>www.amazon.co.uk (1196)</li>
 <li>www.reddit.com (1192)</li>
@@ -85,10 +85,10 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (637)</li>
 <li>chat.openai.com (607)</li>
 <li>www.linkedin.com (601)</li>
-<li>app.qbo.intuit.com (561)</li>
-<li>outlook.office365.com (552)</li>
+<li>app.qbo.intuit.com (562)</li>
+<li>outlook.office365.com (558)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (447)</li>
+<li>login.microsoftonline.com (449)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (429)</li>
 <li>drive.google.com (425)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:28 login.microsoftonline.com</li>
+<ul><li> 10:05 www.google.com</li>
+<li> 10:03 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 10:03 experience.elluciancloud.ie</li>
+<li> 10:01 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 10:01 outlook.office365.com</li>
+<li class='same'> 09:49 outlook.office365.com</li>
+<li class='same'> 09:47 outlook.office365.com</li>
+<li> 09:45 banner.jcu.edu</li>
+<li> 09:44 www.google.com</li>
+<li> 09:44 www.ellucian.com</li>
+<li> 09:44 www.google.com</li>
+<li class='same'> 09:43 www.google.com</li>
+<li> 09:34 dashboards.rhul.ac.uk</li>
+<li> 09:34 accounts.intuit.com</li>
+<li> 09:34 qbo.intuit.com</li>
+<li> 09:34 app.qbo.intuit.com</li>
+<li> 09:28 login.microsoftonline.com</li>
+<li> 09:28 forms.office.com</li>
+<li> 09:10 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 09:10 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 09:10 login.microsoftonline.com</li>
+<li> 09:10 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 09:10 outlook.office365.com</li>
+<li> 09:10 calendar.google.com</li>
+<li> 09:09 outlook.office365.com</li>
+<li> 09:09 experience.elluciancloud.ie</li>
+<li> 09:09 outlook.office365.com</li>
+<li> 09:09 login.microsoftonline.com</li>
+<li> 09:09 experience.elluciancloud.ie</li>
 <li> 08:59 dashboards.rhul.ac.uk</li>
 <li> 08:57 forms.office.com</li>
 <li> 08:56 outlook.office365.com</li>
