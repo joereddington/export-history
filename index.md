@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8125)</li>
+<ol><li>www.google.com (8126)</li>
 <li>mail.google.com (5747)</li>
 <li>outlook.office.com (3455)</li>
 <li>www.facebook.com (2615)</li>
@@ -85,10 +85,10 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (637)</li>
 <li>chat.openai.com (607)</li>
 <li>www.linkedin.com (601)</li>
+<li>outlook.office365.com (565)</li>
 <li>app.qbo.intuit.com (562)</li>
-<li>outlook.office365.com (558)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (449)</li>
+<li>login.microsoftonline.com (452)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (429)</li>
 <li>drive.google.com (425)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
 <li>www.giantitp.com (302)</li>
-<li>rhul-my.sharepoint.com (281)</li>
+<li>rhul-my.sharepoint.com (282)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:05 www.google.com</li>
+<ul><li> 11:01 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:00 experience.elluciancloud.ie</li>
+<li> 11:00 login.microsoftonline.com</li>
+<li> 10:59 experience.elluciancloud.ie</li>
+<li> 10:58 outlook.office365.com</li>
+<li> 10:57 dashboards.rhul.ac.uk</li>
+<li class='same'> 10:56 dashboards.rhul.ac.uk</li>
+<li> 10:36 outlook.office365.com</li>
+<li> 10:35 login.microsoftonline.com</li>
+<li> 10:35 rhul-my.sharepoint.com</li>
+<li> 10:35 outlook.office365.com</li>
+<li> 10:34 www.google.com</li>
+<li> 10:33 outlook.office365.com</li>
+<li class='same'> 10:28 outlook.office365.com</li>
+<li> 10:27 doodle.com</li>
+<li class='same'> 10:26 doodle.com</li>
+<li> 10:26 login.microsoftonline.com</li>
+<li> 10:26 outlook.office365.com</li>
+<li class='same'> 10:25 outlook.office365.com</li>
+<li> 10:05 www.google.com</li>
 <li> 10:03 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 10:03 experience.elluciancloud.ie</li>
 <li> 10:01 generalssb-prod.ec.royalholloway.ac.uk</li>
