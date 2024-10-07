@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8131)</li>
+<ol><li>www.google.com (8132)</li>
 <li>mail.google.com (5747)</li>
 <li>outlook.office.com (3455)</li>
 <li>www.facebook.com (2615)</li>
 <li>docs.google.com (1865)</li>
-<li>calendar.google.com (1356)</li>
-<li>moodle.royalholloway.ac.uk (1216)</li>
+<li>calendar.google.com (1361)</li>
+<li>moodle.royalholloway.ac.uk (1218)</li>
 <li>www.amazon.co.uk (1196)</li>
 <li>www.reddit.com (1192)</li>
 <li>github.com (1010)</li>
@@ -85,19 +85,19 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (637)</li>
 <li>chat.openai.com (607)</li>
 <li>www.linkedin.com (601)</li>
-<li>outlook.office365.com (570)</li>
+<li>outlook.office365.com (588)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (454)</li>
+<li>login.microsoftonline.com (457)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (429)</li>
 <li>drive.google.com (425)</li>
-<li>teams.microsoft.com (421)</li>
+<li>teams.microsoft.com (423)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
 <li>www.giantitp.com (302)</li>
-<li>rhul-my.sharepoint.com (286)</li>
+<li>rhul-my.sharepoint.com (287)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:46 moodle.royalholloway.ac.uk</li>
+<ul><li> 12:37 outlook.office365.com</li>
+<li class='same'> 12:33 outlook.office365.com</li>
+<li class='same'> 12:32 outlook.office365.com</li>
+<li> 12:32 www.howtopronounce.com</li>
+<li> 12:32 www.google.com</li>
+<li> 12:30 otter.ai</li>
+<li class='same'> 12:29 otter.ai</li>
+<li> 12:29 teams.microsoft.com</li>
+<li class='same'> 12:28 teams.microsoft.com</li>
+<li> 12:21 rhul-my.sharepoint.com</li>
+<li> 12:21 forms.office.com</li>
+<li> 12:21 login.microsoftonline.com</li>
+<li> 12:21 forms.office.com</li>
+<li> 12:20 outlook.office365.com</li>
+<li> 12:20 dashboards.rhul.ac.uk</li>
+<li> 12:14 outlook.office365.com</li>
+<li class='same'> 12:13 outlook.office365.com</li>
+<li class='same'> 12:11 outlook.office365.com</li>
+<li class='same'> 12:08 outlook.office365.com</li>
+<li> 12:08 calendar.google.com</li>
+<li> 12:08 moodle.royalholloway.ac.uk</li>
+<li> 12:08 calendar.google.com</li>
+<li class='same'> 12:07 calendar.google.com</li>
+<li> 12:07 outlook.office365.com</li>
+<li> 12:07 calendar.google.com</li>
+<li> 12:05 outlook.office365.com</li>
+<li> 12:05 login.microsoftonline.com</li>
+<li> 12:04 outlook.office365.com</li>
+<li class='same'> 12:02 outlook.office365.com</li>
+<li class='same'> 12:01 outlook.office365.com</li>
+<li class='same'> 12:00 outlook.office365.com</li>
+<li> 11:59 login.microsoftonline.com</li>
+<li> 11:56 outlook.office365.com</li>
+<li class='same'> 11:55 outlook.office365.com</li>
+<li class='same'> 11:54 outlook.office365.com</li>
+<li> 11:54 calendar.google.com</li>
+<li> 11:54 outlook.office365.com</li>
+<li> 11:48 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:46 moodle.royalholloway.ac.uk</li>
 <li> 11:46 rhul-my.sharepoint.com</li>
 <li> 11:45 outlook.office365.com</li>
 <li> 11:41 www.google.com</li>
