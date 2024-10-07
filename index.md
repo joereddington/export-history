@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (8134)</li>
 <li>mail.google.com (5747)</li>
 <li>outlook.office.com (3455)</li>
-<li>www.facebook.com (2617)</li>
+<li>www.facebook.com (2623)</li>
 <li>docs.google.com (1865)</li>
 <li>calendar.google.com (1363)</li>
 <li>moodle.royalholloway.ac.uk (1218)</li>
@@ -85,10 +85,10 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (637)</li>
 <li>chat.openai.com (607)</li>
 <li>www.linkedin.com (603)</li>
-<li>outlook.office365.com (600)</li>
+<li>outlook.office365.com (603)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (461)</li>
+<li>login.microsoftonline.com (465)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (429)</li>
 <li>drive.google.com (425)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
 <li>www.giantitp.com (303)</li>
-<li>rhul-my.sharepoint.com (290)</li>
+<li>rhul-my.sharepoint.com (291)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:45 www.reddit.com</li>
+<ul><li> 15:38 www.facebook.com</li>
+<li class='same'> 15:37 www.facebook.com</li>
+<li class='same'> 15:36 www.facebook.com</li>
+<li class='same'> 15:35 www.facebook.com</li>
+<li class='same'> 15:33 www.facebook.com</li>
+<li class='same'> 15:32 www.facebook.com</li>
+<li> 15:32 outlook.office365.com</li>
+<li> 15:12 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:12 login.microsoftonline.com</li>
+<li> 15:12 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 15:12 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:12 experience.elluciancloud.ie</li>
+<li> 15:12 login.microsoftonline.com</li>
+<li> 15:12 experience.elluciancloud.ie</li>
+<li> 15:12 rhul-my.sharepoint.com</li>
+<li> 15:12 forms.office.com</li>
+<li> 15:11 login.microsoftonline.com</li>
+<li> 15:11 forms.office.com</li>
+<li> 15:11 www.microsoft.com</li>
+<li> 15:11 forms.office.com</li>
+<li> 15:11 www.microsoft.com</li>
+<li> 15:11 forms.office.com</li>
+<li> 15:10 outlook.office365.com</li>
+<li> 15:10 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 15:10 login.microsoftonline.com</li>
+<li> 15:10 experience.elluciancloud.ie</li>
+<li> 15:10 outlook.office365.com</li>
+<li> 14:45 www.reddit.com</li>
 <li> 14:45 tvtropes.org</li>
 <li class='same'> 14:42 tvtropes.org</li>
 <li> 14:42 www.google.com</li>
