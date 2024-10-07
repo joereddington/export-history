@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8128)</li>
+<ol><li>www.google.com (8120)</li>
 <li>mail.google.com (5747)</li>
 <li>outlook.office.com (3455)</li>
 <li>www.facebook.com (2615)</li>
 <li>docs.google.com (1865)</li>
-<li>calendar.google.com (1352)</li>
-<li>moodle.royalholloway.ac.uk (1210)</li>
+<li>calendar.google.com (1353)</li>
+<li>moodle.royalholloway.ac.uk (1212)</li>
 <li>www.amazon.co.uk (1196)</li>
-<li>www.reddit.com (1193)</li>
+<li>www.reddit.com (1192)</li>
 <li>github.com (1010)</li>
-<li>m.facebook.com (978)</li>
+<li>m.facebook.com (977)</li>
 <li>gmail.com (669)</li>
 <li>www.theguardian.com (649)</li>
 <li>tvtropes.org (646)</li>
@@ -86,25 +86,78 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (606)</li>
 <li>www.linkedin.com (601)</li>
 <li>app.qbo.intuit.com (561)</li>
-<li>outlook.office365.com (537)</li>
+<li>outlook.office365.com (548)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (440)</li>
+<li>login.microsoftonline.com (446)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (429)</li>
-<li>drive.google.com (426)</li>
+<li>drive.google.com (425)</li>
 <li>teams.microsoft.com (421)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
-<li>www.giantitp.com (301)</li>
-<li>rhul-my.sharepoint.com (279)</li>
+<li>www.giantitp.com (302)</li>
+<li>rhul-my.sharepoint.com (280)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Monday, 07/10/24</H3>
+
+<br>
+
+<ul><li> 07:04 rhul.hosted.panopto.com</li>
+<li> 06:57 personaltutoring.royalholloway.ac.uk</li>
+<li> 06:57 adfs.rhul.ac.uk</li>
+<li> 06:57 personaltutoring.royalholloway.ac.uk</li>
+<li> 06:57 adfs.rhul.ac.uk</li>
+<li> 06:54 dashboards.rhul.ac.uk</li>
+<li> 06:53 rhul.hosted.panopto.com</li>
+<li class='same'> 06:52 rhul.hosted.panopto.com</li>
+<li> 06:51 moodle.royalholloway.ac.uk</li>
+<li> 06:51 login.microsoftonline.com</li>
+<li> 06:51 moodle.royalholloway.ac.uk</li>
+<li> 06:51 rhul.hosted.panopto.com</li>
+<li class='same'> 06:50 rhul.hosted.panopto.com</li>
+<li> 06:50 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
+<li> 06:50 login.microsoftonline.com</li>
+<li> 06:50 rhul.hosted.panopto.com</li>
+<li class='same'> 06:49 rhul.hosted.panopto.com</li>
+<li> 06:49 outlook.office365.com</li>
+<li> 06:49 dashboards.rhul.ac.uk</li>
+<li> 06:48 outlook.office365.com</li>
+<li> 06:46 login.microsoftonline.com</li>
+<li> 06:46 forms.office.com</li>
+<li> 06:46 rhul-my.sharepoint.com</li>
+<li> 06:46 forms.office.com</li>
+<li> 06:46 calendar.google.com</li>
+<li> 06:46 outlook.office365.com</li>
+<li class='same'> 06:45 outlook.office365.com</li>
+<li class='same'> 06:43 outlook.office365.com</li>
+<li class='same'> 06:42 outlook.office365.com</li>
+<li class='same'> 06:41 outlook.office365.com</li>
+<li class='same'> 06:40 outlook.office365.com</li>
+<li class='same'> 06:38 outlook.office365.com</li>
+<li class='same'> 06:37 outlook.office365.com</li>
+<li> 06:37 answers.microsoft.com</li>
+<li> 06:37 login.microsoftonline.com</li>
+<li> 06:37 answers.microsoft.com</li>
+<li> 06:36 www.google.com</li>
+<li> 06:36 forms.office.com</li>
+<li> 06:36 login.microsoftonline.com</li>
+<li> 06:36 forms.office.com</li>
+<li> 06:36 outlook.office365.com</li>
+<li> 06:36 login.microsoftonline.com</li>
+<li> 06:35 www.giantitp.com</li>
+</ul>
+
 <H3>Sunday, 06/10/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -15998,9 +16051,7 @@ With number of accesses/minutes in parentheses
 <li> 15:07 calendar.google.com</li>
 <li> 15:02 zoe.com</li>
 <li class='same'> 15:01 zoe.com</li>
-<li> 15:01 <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbC0xZjFMQWdTT0hVcEdDd2pEeG9BYzBNVXBMQXxBQ3Jtc0tuZGR2R2N0R2IxT3VqX2JORjVOYVlraTEzbGpjRk5Bb0ZtM2g1ZGF6SzdPcjJ6bG80Qkx3cUd3UERXY3JiWFNrU2s0QldrUS1yc1NrNm1rMlk5LUFyc0Ruay1OQzNnYnRCdHJ6d3V4cV9vSGFodjFHVQ&q=https%3A%2F%2Fzoe.com%2Flearn%2Fcategory%2Fpodcasts&v=IBB_8vR7wpU"></a></li>
 <li> 15:00 <a href="https://www.youtube.com/watch?v=IBB_8vR7wpU">(57) Coffee's hidden health benefits | James Hoffmann and Prof. Tim Spector - YouTube</a></li>
-<li> 15:00 youtube.com</li>
 <li> 15:00 <a href="https://www.youtube.com/watch?v=IBB_8vR7wpU&si=gFchcw7qiz0cwJj7">Coffee's hidden health benefits | James Hoffmann and Prof. Tim Spector - YouTube</a></li>
 <li> 14:59 www.facebook.com</li>
 <li> 14:57 calendar.google.com</li>
@@ -16039,12 +16090,10 @@ With number of accesses/minutes in parentheses
 <li> 13:45 www.picturecorrect.com</li>
 <li> 13:45 www.google.com</li>
 <li> 13:35 <a href="https://en.wikipedia.org/wiki/Talk:British_Government_frontbench">Talk:British Government frontbench - Wikipedia</a></li>
-<li> 13:34 www.google.com</li>
 <li> 13:32 www.reddit.com</li>
 <li> 13:32 www.google.com</li>
 <li> 13:29 <a href="https://www.youtube.com/watch?v=UApRsoiwtvU">(57) Yoko Tomoe Nage | Online Judo Lesson You Can Do At Home Alone! - YouTube</a></li>
 <li> 13:29 www.facebook.com</li>
-<li> 13:29 m.facebook.com</li>
 <li> 13:27 www.reddit.com</li>
 <li> 13:27 www.google.com</li>
 <li> 13:27 cinemorgue.fandom.com</li>
@@ -16070,7 +16119,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:01 calendar.google.com</li>
 <li class='same'> 12:59 calendar.google.com</li>
 <li> 12:53 www.amazon.co.uk</li>
-<li> 12:53 ad.doubleclick.net</li>
 <li> 12:52 0.0.0.0:8000</li>
 <li> 12:51 127.0.0.1:4000</li>
 <li> 12:51 www.google.com</li>
@@ -16084,31 +16132,19 @@ With number of accesses/minutes in parentheses
 <li> 12:01 docs.google.com</li>
 <li> 12:00 dunstabledownschallenge.wordpress.com</li>
 <li> 11:59 runabc.co.uk</li>
-<li> 11:59 www.google.com</li>
 <li> 11:59 www.richardgower.com</li>
-<li> 11:59 www.google.com</li>
-<li class='same'> 11:58 www.google.com</li>
-<li> 11:58 dunstabledownschallenge.wordpress.com</li>
-<li> 11:58 drive.usercontent.google.com</li>
-<li> 11:58 drive.google.com</li>
+<li> 11:58 www.google.com</li>
 <li> 11:58 dunstabledownschallenge.wordpress.com</li>
 <li class='same'> 11:56 dunstabledownschallenge.wordpress.com</li>
 <li> 11:56 www.google.com</li>
 <li> 11:55 <a href="https://joereddington.com/2024/03/12/half-marathon.html">Long Distance Running | Joe Reddington</a></li>
 <li> 11:52 www.google.com</li>
-<li class='same'> 11:50 www.google.com</li>
 <li> 11:49 github.com</li>
-<li> 11:49 www.google.com</li>
-<li> 11:49 www.reddit.com</li>
-<li> 11:49 www.google.com</li>
 <li> 11:49 www.reddit.com</li>
 <li> 11:49 pypi.org</li>
-<li> 11:49 www.google.com</li>
 <li> 11:47 www.reddit.com</li>
-<li> 11:47 www.google.com</li>
 <li> 11:47 docs.libretro.com</li>
 <li> 11:47 www.retroarch.com</li>
-<li> 11:47 www.google.com</li>
 <li> 11:46 hackaday.com</li>
 <li> 11:46 www.google.com</li>
 <li class='same'> 11:45 www.google.com</li>
