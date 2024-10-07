@@ -85,19 +85,19 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (637)</li>
 <li>chat.openai.com (607)</li>
 <li>www.linkedin.com (601)</li>
-<li>outlook.office365.com (588)</li>
+<li>outlook.office365.com (594)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (457)</li>
+<li>login.microsoftonline.com (461)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (429)</li>
 <li>drive.google.com (425)</li>
-<li>teams.microsoft.com (423)</li>
+<li>teams.microsoft.com (424)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (313)</li>
 <li>rhul.sharepoint.com (312)</li>
 <li>www.giantitp.com (302)</li>
-<li>rhul-my.sharepoint.com (287)</li>
+<li>rhul-my.sharepoint.com (290)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:37 outlook.office365.com</li>
+<ul><li> 14:01 dashboards.rhul.ac.uk</li>
+<li class='same'> 14:00 dashboards.rhul.ac.uk</li>
+<li> 14:00 outlook.office365.com</li>
+<li class='same'> 13:58 outlook.office365.com</li>
+<li> 13:58 login.microsoftonline.com</li>
+<li> 13:57 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:20 rhul-my.sharepoint.com</li>
+<li> 13:20 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 13:20 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 13:20 login.microsoftonline.com</li>
+<li> 13:00 outlook.office365.com</li>
+<li> 12:59 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:59 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 12:59 login.microsoftonline.com</li>
+<li> 12:59 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:58 experience.elluciancloud.ie</li>
+<li> 12:58 login.microsoftonline.com</li>
+<li> 12:58 experience.elluciancloud.ie</li>
+<li> 12:56 rhul-my.sharepoint.com</li>
+<li class='same'> 12:52 rhul-my.sharepoint.com</li>
+<li> 12:52 teams.microsoft.com</li>
+<li> 12:52 outlook.office365.com</li>
+<li class='same'> 12:51 outlook.office365.com</li>
+<li class='same'> 12:37 outlook.office365.com</li>
 <li class='same'> 12:33 outlook.office365.com</li>
 <li class='same'> 12:32 outlook.office365.com</li>
 <li> 12:32 www.howtopronounce.com</li>
