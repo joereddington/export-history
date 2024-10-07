@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (2615)</li>
 <li>docs.google.com (1865)</li>
 <li>calendar.google.com (1354)</li>
-<li>moodle.royalholloway.ac.uk (1212)</li>
+<li>moodle.royalholloway.ac.uk (1214)</li>
 <li>www.amazon.co.uk (1196)</li>
 <li>www.reddit.com (1192)</li>
 <li>github.com (1010)</li>
@@ -85,10 +85,10 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (637)</li>
 <li>chat.openai.com (607)</li>
 <li>www.linkedin.com (601)</li>
-<li>outlook.office365.com (566)</li>
+<li>outlook.office365.com (568)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (453)</li>
+<li>login.microsoftonline.com (454)</li>
 <li>kdp.amazon.com (430)</li>
 <li>web.whatsapp.com (429)</li>
 <li>drive.google.com (425)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:16 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 11:25 moodle.royalholloway.ac.uk</li>
+<li> 11:25 login.microsoftonline.com</li>
+<li> 11:25 moodle.royalholloway.ac.uk</li>
+<li> 11:19 outlook.office365.com</li>
+<li class='same'> 11:18 outlook.office365.com</li>
+<li> 11:16 webtimetables.royalholloway.ac.uk</li>
 <li> 11:13 rhul-my.sharepoint.com</li>
 <li> 11:13 forms.office.com</li>
 <li> 11:11 outlook.office365.com</li>
