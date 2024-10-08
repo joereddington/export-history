@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8143)</li>
+<ol><li>www.google.com (8144)</li>
 <li>mail.google.com (5759)</li>
 <li>outlook.office.com (3457)</li>
 <li>www.facebook.com (2624)</li>
@@ -83,12 +83,12 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (652)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>outlook.office365.com (620)</li>
+<li>outlook.office365.com (622)</li>
 <li>www.linkedin.com (609)</li>
 <li>chat.openai.com (607)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (467)</li>
+<li>login.microsoftonline.com (468)</li>
 <li>web.whatsapp.com (432)</li>
 <li>kdp.amazon.com (431)</li>
 <li>drive.google.com (426)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:48 x.com</li>
+<ul><li> 18:11 www.google.com</li>
+<li> 18:07 blog.cloudflare.com</li>
+<li> 18:05 feedly.com</li>
+<li> 18:05 outlook.office365.com</li>
+<li> 18:04 forms.office.com</li>
+<li> 18:04 login.microsoftonline.com</li>
+<li> 18:04 forms.office.com</li>
+<li> 18:04 outlook.office365.com</li>
+<li> 18:03 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_Security">Wikipedia talk:WikiProject Computer Security - Wikipedia</a></li>
+<li> 18:02 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways&curid=3970&diff=1249921475&oldid=1248892627">British Airways: Difference between revisions - Wikipedia</a></li>
+<li> 18:02 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:02 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:02 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 18:01 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 18:01 x.com</li>
+<li class='same'> 17:48 x.com</li>
 <li class='same'> 17:46 x.com</li>
 <li> 17:46 www.natesilver.net</li>
 <li> 17:46 www.google.com</li>
