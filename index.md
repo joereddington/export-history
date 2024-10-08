@@ -84,8 +84,8 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>chat.openai.com (607)</li>
-<li>www.linkedin.com (603)</li>
-<li>outlook.office365.com (603)</li>
+<li>www.linkedin.com (604)</li>
+<li>outlook.office365.com (604)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (465)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 07/10/24</H3>
+
+<br>
+
+<ul><li> 16:42 online.unity.co.uk</li>
+<li> 16:42 www.unity-online.co.uk</li>
+<li> 16:42 www.linkedin.com</li>
+<li class='same'> 16:41 www.linkedin.com</li>
+<li> 16:41 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -16214,8 +16223,7 @@ With number of accesses/minutes in parentheses
 <li> 07:28 mail.rhul.ac.uk</li>
 <li> 07:27 www.linkedin.com</li>
 <li> 07:26 web.whatsapp.com</li>
-<li> 07:25 www.linkedin.com</li>
-<li class='same'> 07:16 www.linkedin.com</li>
+<li> 07:16 www.linkedin.com</li>
 <li> 07:16 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li> 07:12 www.linkedin.com</li>
 <li> 07:06 www.google.com</li>
@@ -16232,7 +16240,6 @@ With number of accesses/minutes in parentheses
 <li> 06:55 docs.google.com</li>
 <li class='same'> 06:53 docs.google.com</li>
 <li> 06:53 drive.google.com</li>
-<li> 06:52 kars-generated-reports-prod-530320105507-us-east-1.s3.amazonaws.com</li>
 <li> 06:51 kdpreports.amazon.com</li>
 <li> 06:51 kdp.amazon.com</li>
 <li> 06:49 www.facebook.com</li>
