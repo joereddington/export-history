@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8160)</li>
-<li>mail.google.com (5762)</li>
+<ol><li>www.google.com (8161)</li>
+<li>mail.google.com (5765)</li>
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2625)</li>
-<li>docs.google.com (1872)</li>
-<li>calendar.google.com (1367)</li>
+<li>docs.google.com (1874)</li>
+<li>calendar.google.com (1368)</li>
 <li>moodle.royalholloway.ac.uk (1218)</li>
 <li>www.reddit.com (1204)</li>
 <li>www.amazon.co.uk (1196)</li>
-<li>github.com (1010)</li>
+<li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>gmail.com (673)</li>
+<li>gmail.com (674)</li>
 <li>www.theguardian.com (652)</li>
 <li>tvtropes.org (648)</li>
+<li>outlook.office365.com (639)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>outlook.office365.com (633)</li>
+<li>chat.openai.com (610)</li>
 <li>www.linkedin.com (609)</li>
-<li>chat.openai.com (609)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (469)</li>
@@ -105,6 +105,35 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 09/10/24</H3>
+
+<br>
+
+<ul><li> 20:58 docs.google.com</li>
+<li> 20:54 www.google.com</li>
+<li> 20:54 docs.google.com</li>
+<li> 20:44 chatgpt.com</li>
+<li> 20:44 chat.openai.com</li>
+<li> 20:42 github.com</li>
+<li> 20:39 www.ebay.co.uk</li>
+<li class='same'> 20:38 www.ebay.co.uk</li>
+<li> 20:36 www.lutongymnastics.co.uk</li>
+<li class='same'> 20:33 www.lutongymnastics.co.uk</li>
+<li class='same'> 20:32 www.lutongymnastics.co.uk</li>
+<li> 20:28 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 20:27 calendar.google.com</li>
+<li> 20:27 outlook.office365.com</li>
+<li class='same'> 20:26 outlook.office365.com</li>
+<li> 20:26 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 20:26 mail.google.com</li>
+<li> 20:25 outlook.office365.com</li>
+<li class='same'> 20:24 outlook.office365.com</li>
+<li> 20:24 mail.google.com</li>
+<li> 20:24 outlook.office365.com</li>
+<li class='same'> 20:23 outlook.office365.com</li>
+<li> 20:23 mail.google.com</li>
+<li> 20:23 gmail.com</li>
+<li> 20:23 fast.com</li>
+</ul>
 
 <br>
 
