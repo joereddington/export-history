@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8158)</li>
+<ol><li>www.google.com (8160)</li>
 <li>mail.google.com (5759)</li>
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2624)</li>
-<li>docs.google.com (1868)</li>
+<li>docs.google.com (1869)</li>
 <li>calendar.google.com (1367)</li>
 <li>moodle.royalholloway.ac.uk (1218)</li>
 <li>www.reddit.com (1204)</li>
@@ -83,12 +83,12 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (652)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>outlook.office365.com (627)</li>
+<li>outlook.office365.com (631)</li>
 <li>www.linkedin.com (609)</li>
-<li>chat.openai.com (608)</li>
+<li>chat.openai.com (609)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (467)</li>
+<li>login.microsoftonline.com (468)</li>
 <li>web.whatsapp.com (432)</li>
 <li>kdp.amazon.com (431)</li>
 <li>drive.google.com (426)</li>
@@ -108,7 +108,47 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:29 <a href="https://en.wikipedia.org/wiki/Talk:Shaggy_defense">Talk:Shaggy defense - Wikipedia</a></li>
+<ul><li> 12:09 chatgpt.com</li>
+<li class='same'> 12:08 chatgpt.com</li>
+<li class='same'> 12:03 chatgpt.com</li>
+<li> 12:03 chat.openai.com</li>
+<li> 12:02 outlook.office365.com</li>
+<li class='same'> 12:01 outlook.office365.com</li>
+<li class='same'> 12:00 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:11 login.microsoftonline.com</li>
+<li> 10:11 forms.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:18 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:37 outlook.office365.com</li>
+<li> 07:36 <a href="https://en.wikipedia.org/wiki/Wikipedia:Existence_%E2%89%A0_Notability">Wikipedia:Existence ≠ Notability - Wikipedia</a></li>
+<li> 07:36 www.google.com</li>
+<li> 07:34 <a href="https://en.wikipedia.org/wiki/Defense_(legal)">Defense (legal) - Wikipedia</a></li>
+<li> 07:34 <a href="https://en.wikipedia.org/wiki/Category:Legal_defenses">Category:Legal defenses - Wikipedia</a></li>
+<li> 07:34 www.google.com</li>
+<li> 07:33 slate.com</li>
+<li> 07:33 <a href="https://en.wikipedia.org/wiki/R._Kelly_sexual_abuse_cases">R. Kelly sexual abuse cases - Wikipedia</a></li>
+<li class='same'> 07:32 <a href="https://en.wikipedia.org/wiki/R._Kelly_sexual_abuse_cases">R. Kelly sexual abuse cases - Wikipedia</a></li>
+<li> 07:32 <a href="https://en.wikipedia.org/wiki/R._Kelly#Sexual_abuse_allegations">R. Kelly - Wikipedia</a></li>
+<li> 07:32 <a href="https://en.wikipedia.org/wiki/R._Kelly">R. Kelly - Wikipedia</a></li>
+<li> 07:32 <a href="https://en.wikipedia.org/wiki/Shaggy_defense?venotify=saved">Shaggy defense - Wikipedia</a></li>
+<li> 07:32 <a href="https://en.wikipedia.org/wiki/Shaggy_defense">Shaggy defense - Wikipedia</a></li>
+<li> 07:32 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit">Editing Shaggy defense - Wikipedia</a></li>
+<li> 07:31 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&section=1&oldid=1245154241&action=edit">Editing Shaggy defense - Wikipedia</a></li>
+<li> 07:31 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit&section=1">Editing Shaggy defense - Wikipedia</a></li>
+<li> 07:30 <a href="https://en.wikipedia.org/wiki/Chewbacca_defense">Chewbacca defense - Wikipedia</a></li>
+<li> 07:30 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/Shaggy_defense">Pages that link to "Shaggy defense" - Wikipedia</a></li>
+<li> 07:29 <a href="https://en.wikipedia.org/wiki/Talk:Shaggy_defense">Talk:Shaggy defense - Wikipedia</a></li>
 <li> 07:28 <a href="https://en.wikipedia.org/wiki/Shaggy_defense">Shaggy defense - Wikipedia</a></li>
 <li> 07:28 outlook.office365.com</li>
 <li> 07:27 rhul-my.sharepoint.com</li>
