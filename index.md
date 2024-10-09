@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8156)</li>
+<ol><li>www.google.com (8158)</li>
 <li>mail.google.com (5759)</li>
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2624)</li>
 <li>docs.google.com (1868)</li>
 <li>calendar.google.com (1367)</li>
 <li>moodle.royalholloway.ac.uk (1218)</li>
-<li>www.reddit.com (1203)</li>
+<li>www.reddit.com (1204)</li>
 <li>www.amazon.co.uk (1196)</li>
 <li>github.com (1010)</li>
 <li>m.facebook.com (977)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (652)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>outlook.office365.com (625)</li>
+<li>outlook.office365.com (627)</li>
 <li>www.linkedin.com (609)</li>
 <li>chat.openai.com (608)</li>
 <li>app.qbo.intuit.com (562)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (314)</li>
 <li>bsky.app (313)</li>
 <li>www.giantitp.com (303)</li>
-<li>rhul-my.sharepoint.com (294)</li>
+<li>rhul-my.sharepoint.com (296)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:49 support.mozilla.org</li>
+<ul><li> 07:29 <a href="https://en.wikipedia.org/wiki/Talk:Shaggy_defense">Talk:Shaggy defense - Wikipedia</a></li>
+<li> 07:28 <a href="https://en.wikipedia.org/wiki/Shaggy_defense">Shaggy defense - Wikipedia</a></li>
+<li> 07:28 outlook.office365.com</li>
+<li> 07:27 rhul-my.sharepoint.com</li>
+<li class='same'> 07:26 rhul-my.sharepoint.com</li>
+<li> 07:15 outlook.office365.com</li>
+<li> 07:11 www.google.com</li>
+<li> 07:09 safety.twitch.tv</li>
+<li> 07:09 www.reddit.com</li>
+<li> 07:08 www.google.com</li>
+<li> 06:49 support.mozilla.org</li>
 <li> 06:49 www.handbook.fca.org.uk</li>
 <li> 06:49 www.google.com</li>
 <li> 06:47 learning.oreilly.com</li>
