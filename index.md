@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8156)</li>
 <li>mail.google.com (5759)</li>
-<li>outlook.office.com (3457)</li>
+<li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2624)</li>
 <li>docs.google.com (1868)</li>
 <li>calendar.google.com (1367)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (608)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (469)</li>
+<li>login.microsoftonline.com (467)</li>
 <li>web.whatsapp.com (432)</li>
 <li>kdp.amazon.com (431)</li>
 <li>drive.google.com (426)</li>
@@ -16151,17 +16151,12 @@ With number of accesses/minutes in parentheses
 <li> 14:59 dashboards.rhul.ac.uk</li>
 <li> 14:58 outlook.office.com</li>
 <li> 14:57 events.teams.microsoft.com</li>
-<li> 14:57 login.microsoftonline.com</li>
-<li> 14:57 events.teams.microsoft.com</li>
-<li> 14:57 login.microsoftonline.com</li>
-<li> 14:57 events.teams.microsoft.com</li>
 <li> 14:57 intranet.royalholloway.ac.uk</li>
 <li class='same'> 14:56 intranet.royalholloway.ac.uk</li>
 <li> 14:55 outlook.office.com</li>
 <li class='same'> 14:54 outlook.office.com</li>
 <li class='same'> 14:53 outlook.office.com</li>
 <li class='same'> 14:52 outlook.office.com</li>
-<li class='same'> 14:51 outlook.office.com</li>
 <li class='same'> 14:50 outlook.office.com</li>
 <li> 14:49 www.camerajungle.co.uk</li>
 <li class='same'> 14:48 www.camerajungle.co.uk</li>
@@ -16227,9 +16222,7 @@ With number of accesses/minutes in parentheses
 <li> 13:59 gmail.com</li>
 <li> 13:59 mail.google.com</li>
 <li> 13:58 Local file</li>
-<li> 13:58 doc-04-04-docstext.googleusercontent.com</li>
-<li class='same'> 13:56 doc-04-04-docstext.googleusercontent.com</li>
-<li> 13:56 Local file</li>
+<li class='same'> 13:56 Local file</li>
 <li> 13:56 docs.google.com</li>
 <li class='same'> 13:55 docs.google.com</li>
 <li class='same'> 13:53 docs.google.com</li>
