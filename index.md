@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8150)</li>
+<ol><li>www.google.com (8156)</li>
 <li>mail.google.com (5759)</li>
 <li>outlook.office.com (3457)</li>
 <li>www.facebook.com (2624)</li>
@@ -83,12 +83,12 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (652)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>outlook.office365.com (622)</li>
+<li>outlook.office365.com (625)</li>
 <li>www.linkedin.com (609)</li>
-<li>chat.openai.com (607)</li>
+<li>chat.openai.com (608)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (468)</li>
+<li>login.microsoftonline.com (469)</li>
 <li>web.whatsapp.com (432)</li>
 <li>kdp.amazon.com (431)</li>
 <li>drive.google.com (426)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (314)</li>
 <li>bsky.app (313)</li>
 <li>www.giantitp.com (303)</li>
-<li>rhul-my.sharepoint.com (291)</li>
+<li>rhul-my.sharepoint.com (294)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 05:59 www.google.com</li>
+<ul><li> 06:49 support.mozilla.org</li>
+<li> 06:49 www.handbook.fca.org.uk</li>
+<li> 06:49 www.google.com</li>
+<li> 06:47 learning.oreilly.com</li>
+<li> 06:47 www.google.com</li>
+<li> 06:43 www.upguard.com</li>
+<li> 06:43 medium.com</li>
+<li> 06:43 www.google.com</li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/Non-repudiation">Non-repudiation - Wikipedia</a></li>
+<li> 06:40 www.google.com</li>
+<li> 06:39 chatgpt.com</li>
+<li> 06:39 chat.openai.com</li>
+<li> 06:38 www.google.com</li>
+<li> 06:36 rhul-my.sharepoint.com</li>
+<li> 06:36 login.microsoftonline.com</li>
+<li> 06:36 rhul-my.sharepoint.com</li>
+<li> 06:35 outlook.office365.com</li>
+<li> 06:35 rhul-my.sharepoint.com</li>
+<li> 06:35 outlook.office365.com</li>
+<li class='same'> 06:34 outlook.office365.com</li>
+<li> 06:34 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:00 www.google.com</li>
+<li class='same'> 05:59 www.google.com</li>
 </ul>
 
 <H3>Tuesday, 08/10/24</H3>
