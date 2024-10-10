@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8164)</li>
+<ol><li>www.google.com (8163)</li>
 <li>mail.google.com (5765)</li>
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2625)</li>
 <li>docs.google.com (1874)</li>
-<li>calendar.google.com (1368)</li>
+<li>calendar.google.com (1369)</li>
 <li>moodle.royalholloway.ac.uk (1218)</li>
 <li>www.reddit.com (1204)</li>
 <li>www.amazon.co.uk (1196)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 10/10/24</H3>
+
+<br>
+
+<ul><li> 03:52 calendar.google.com</li>
+</ul>
 
 <br>
 
@@ -16066,15 +16071,7 @@ With number of accesses/minutes in parentheses
 <li> 18:43 www.linkedin.com</li>
 <li> 18:41 www.facebook.com</li>
 <li> 18:36 calendar.google.com</li>
-<li> 18:34 www.airbnb.co.uk</li>
-<li class='same'> 18:28 www.airbnb.co.uk</li>
-<li class='same'> 18:27 www.airbnb.co.uk</li>
-<li class='same'> 18:26 www.airbnb.co.uk</li>
-<li class='same'> 18:25 www.airbnb.co.uk</li>
-<li class='same'> 18:24 www.airbnb.co.uk</li>
-<li class='same'> 18:23 www.airbnb.co.uk</li>
-<li class='same'> 18:22 www.airbnb.co.uk</li>
-<li class='same'> 18:21 www.airbnb.co.uk</li>
+<li> 18:27 www.airbnb.co.uk</li>
 <li class='same'> 18:20 www.airbnb.co.uk</li>
 </ul>
 
@@ -16122,12 +16119,10 @@ With number of accesses/minutes in parentheses
 <li> 12:27 claude.ai</li>
 <li> 12:10 chatgpt.com</li>
 <li> 12:10 auth0.openai.com</li>
-<li> 12:10 auth.openai.com</li>
 <li> 12:10 chatgpt.com</li>
 <li> 12:03 <a href="https://en.wikipedia.org/wiki/Luhansk">Luhansk - Wikipedia</a></li>
 <li> 12:02 <a href="https://en.wikipedia.org/wiki/East_Ukrainian_National_University">East Ukrainian National University - Wikipedia</a></li>
-<li> 12:02 www.google.com</li>
-<li class='same'> 12:01 www.google.com</li>
+<li> 12:01 www.google.com</li>
 <li> 12:01 outlook.office.com</li>
 <li> 11:59 <a href="https://en.wikipedia.org/wiki/Leo_Tolstoy">Leo Tolstoy - Wikipedia</a></li>
 <li> 11:59 www.google.com</li>
@@ -16142,7 +16137,6 @@ With number of accesses/minutes in parentheses
 <li> 11:29 www.facebook.com</li>
 <li> 11:29 www.lutonjudo.co.uk</li>
 <li class='same'> 11:28 www.lutonjudo.co.uk</li>
-<li> 11:28 l.facebook.com</li>
 <li> 11:28 www.facebook.com</li>
 <li> 11:28 lutonjudo.clubeo.com</li>
 <li> 11:28 www.google.com</li>
