@@ -72,8 +72,8 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (5765)</li>
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2625)</li>
-<li>docs.google.com (1874)</li>
-<li>calendar.google.com (1369)</li>
+<li>docs.google.com (1876)</li>
+<li>calendar.google.com (1370)</li>
 <li>moodle.royalholloway.ac.uk (1218)</li>
 <li>www.reddit.com (1204)</li>
 <li>www.amazon.co.uk (1196)</li>
@@ -82,9 +82,9 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (674)</li>
 <li>www.theguardian.com (656)</li>
 <li>tvtropes.org (648)</li>
-<li>outlook.office365.com (639)</li>
+<li>outlook.office365.com (640)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>chat.openai.com (610)</li>
+<li>chat.openai.com (611)</li>
 <li>www.linkedin.com (609)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 03:52 calendar.google.com</li>
+<ul><li> 09:24 docs.google.com</li>
+<li class='same'> 09:23 docs.google.com</li>
+<li> 09:17 chatgpt.com</li>
+<li> 09:17 chat.openai.com</li>
+<li> 09:16 outlook.office365.com</li>
+<li> 09:15 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 03:52 calendar.google.com</li>
 </ul>
 
 <br>
