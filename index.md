@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8171)</li>
+<ol><li>www.google.com (8173)</li>
 <li>mail.google.com (5766)</li>
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2625)</li>
@@ -79,9 +79,9 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1196)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (682)</li>
+<li>outlook.office365.com (690)</li>
 <li>gmail.com (675)</li>
-<li>www.theguardian.com (662)</li>
+<li>www.theguardian.com (663)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>www.linkedin.com (611)</li>
@@ -91,13 +91,13 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (476)</li>
 <li>web.whatsapp.com (434)</li>
 <li>kdp.amazon.com (431)</li>
-<li>teams.microsoft.com (430)</li>
+<li>teams.microsoft.com (431)</li>
 <li>drive.google.com (427)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul.sharepoint.com (314)</li>
+<li>rhul.sharepoint.com (316)</li>
 <li>bsky.app (313)</li>
 <li>www.giantitp.com (303)</li>
-<li>rhul-my.sharepoint.com (301)</li>
+<li>rhul-my.sharepoint.com (302)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:35 calendar.google.com</li>
+<ul><li> 16:05 www.theguardian.com</li>
+<li> 16:04 outlook.office365.com</li>
+<li> 16:04 rhul.sharepoint.com</li>
+<li> 16:03 outlook.office365.com</li>
+<li class='same'> 16:01 outlook.office365.com</li>
+<li> 15:58 <a href="https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird">To Kill a Mockingbird - Wikipedia</a></li>
+<li> 15:58 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:58 www.wikipedia.org</li>
+<li> 15:53 rhul-my.sharepoint.com</li>
+<li> 15:53 outlook.office365.com</li>
+<li> 15:50 support.tophat.com</li>
+<li> 15:50 www.google.com</li>
+<li class='same'> 15:49 www.google.com</li>
+<li> 15:45 outlook.office365.com</li>
+<li> 15:42 rhul.sharepoint.com</li>
+<li> 15:38 teams.microsoft.com</li>
+<li> 15:38 outlook.office365.com</li>
+<li class='same'> 15:37 outlook.office365.com</li>
+<li class='same'> 15:36 outlook.office365.com</li>
+<li> 15:35 calendar.google.com</li>
 <li> 15:34 outlook.office365.com</li>
 <li> 15:33 calendar.google.com</li>
 <li> 15:33 outlook.office365.com</li>
