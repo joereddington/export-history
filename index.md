@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8166)</li>
+<ol><li>www.google.com (8167)</li>
 <li>mail.google.com (5765)</li>
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2625)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<ul><li> 10:34 www.google.com</li>
+<li> 10:31 <a href="https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird#Social_commentary_and_challenges">To Kill a Mockingbird - Wikipedia</a></li>
+<li> 10:29 <a href="https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird">To Kill a Mockingbird - Wikipedia</a></li>
+<li> 10:29 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 10:29 <a href="https://en.wikipedia.org/"></a></li>
 <li> 10:29 www.google.com</li>
 <li> 10:28 www.theguardian.com</li>
