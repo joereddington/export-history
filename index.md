@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8163)</li>
+<ol><li>www.google.com (8166)</li>
 <li>mail.google.com (5765)</li>
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2625)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>gmail.com (674)</li>
-<li>www.theguardian.com (656)</li>
+<li>www.theguardian.com (659)</li>
 <li>tvtropes.org (648)</li>
 <li>outlook.office365.com (640)</li>
 <li>whitewaterwriters.com (637)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:24 docs.google.com</li>
+<ul><li> 10:29 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 10:29 <a href="https://en.wikipedia.org/"></a></li>
+<li> 10:29 www.google.com</li>
+<li> 10:28 www.theguardian.com</li>
+<li class='same'> 10:26 www.theguardian.com</li>
+<li class='same'> 10:25 www.theguardian.com</li>
+<li> 10:25 feedly.com</li>
+<li class='same'> 10:24 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:39 www.ncsc.gov.uk</li>
+<li> 09:38 www.google.com</li>
+<li> 09:24 docs.google.com</li>
 <li class='same'> 09:23 docs.google.com</li>
 <li> 09:17 chatgpt.com</li>
 <li> 09:17 chat.openai.com</li>
@@ -123,7 +137,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 01:38 www.natesilver.net</li>
+<ul><li> 01:42 www.google.com</li>
+<li> 01:38 www.natesilver.net</li>
 <li> 01:22 x.com</li>
 <li> 01:22 twitter.com</li>
 <li> 01:22 x.com</li>
