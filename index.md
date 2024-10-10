@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8173)</li>
+<ol><li>www.google.com (8176)</li>
 <li>mail.google.com (5766)</li>
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2625)</li>
@@ -79,12 +79,12 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1196)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (690)</li>
+<li>outlook.office365.com (693)</li>
 <li>gmail.com (675)</li>
 <li>www.theguardian.com (663)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>www.linkedin.com (611)</li>
+<li>www.linkedin.com (612)</li>
 <li>chat.openai.com (611)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:05 www.theguardian.com</li>
+<ul><li> 16:13 www.google.com</li>
+<li class='same'> 16:12 www.google.com</li>
+<li> 16:12 www.cisse.info</li>
+<li> 16:11 www.stmartin.edu</li>
+<li> 16:11 www.google.com</li>
+<li> 16:11 outlook.office365.com</li>
+<li class='same'> 16:09 outlook.office365.com</li>
+<li> 16:09 www.ukri.org</li>
+<li class='same'> 16:07 www.ukri.org</li>
+<li> 16:07 outlook.office365.com</li>
+<li> 16:06 www.linkedin.com</li>
+<li> 16:05 www.theguardian.com</li>
 <li> 16:04 outlook.office365.com</li>
 <li> 16:04 rhul.sharepoint.com</li>
 <li> 16:03 outlook.office365.com</li>
