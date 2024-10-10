@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8167)</li>
-<li>mail.google.com (5765)</li>
+<ol><li>www.google.com (8168)</li>
+<li>mail.google.com (5766)</li>
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2625)</li>
 <li>docs.google.com (1876)</li>
@@ -79,20 +79,20 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1196)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>gmail.com (674)</li>
-<li>www.theguardian.com (659)</li>
+<li>gmail.com (675)</li>
+<li>www.theguardian.com (662)</li>
 <li>tvtropes.org (648)</li>
-<li>outlook.office365.com (640)</li>
+<li>outlook.office365.com (647)</li>
 <li>whitewaterwriters.com (637)</li>
+<li>www.linkedin.com (611)</li>
 <li>chat.openai.com (611)</li>
-<li>www.linkedin.com (609)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (469)</li>
 <li>web.whatsapp.com (433)</li>
 <li>kdp.amazon.com (431)</li>
 <li>drive.google.com (427)</li>
-<li>teams.microsoft.com (424)</li>
+<li>teams.microsoft.com (425)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (314)</li>
 <li>bsky.app (313)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 10/10/24</H3>
+
+<br>
+
+<ul><li> 13:35 outlook.office365.com</li>
+<li> 13:34 teams.microsoft.com</li>
+<li> 13:33 outlook.office365.com</li>
+<li> 13:10 www.linkedin.com</li>
+<li> 13:09 outlook.office365.com</li>
+<li> 13:09 www.linkedin.com</li>
+<li> 13:09 outlook.office365.com</li>
+<li class='same'> 13:08 outlook.office365.com</li>
+<li> 13:08 mail.google.com</li>
+<li> 13:08 gmail.com</li>
+<li> 12:53 www.google.com</li>
+<li> 12:53 www.theguardian.com</li>
+<li class='same'> 12:44 www.theguardian.com</li>
+<li class='same'> 12:43 www.theguardian.com</li>
+<li> 12:36 outlook.office365.com</li>
+<li class='same'> 12:35 outlook.office365.com</li>
+</ul>
 
 <br>
 
