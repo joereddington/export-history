@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (612)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (481)</li>
+<li>login.microsoftonline.com (485)</li>
 <li>web.whatsapp.com (435)</li>
 <li>teams.microsoft.com (432)</li>
 <li>kdp.amazon.com (431)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (319)</li>
 <li>bsky.app (313)</li>
-<li>rhul-my.sharepoint.com (306)</li>
+<li>rhul-my.sharepoint.com (307)</li>
 <li>www.giantitp.com (303)</li>
 
 
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:34 www.instagram.com</li>
+<ul><li> 16:12 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
+<li> 16:12 login.microsoftonline.com</li>
+<li> 16:10 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 15:57 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:57 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 15:57 login.microsoftonline.com</li>
+<li> 15:57 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:57 experience.elluciancloud.ie</li>
+<li> 15:54 rhul-my.sharepoint.com</li>
+<li> 15:54 forms.office.com</li>
+<li class='same'> 15:45 forms.office.com</li>
+<li> 15:45 login.microsoftonline.com</li>
+<li> 15:45 forms.office.com</li>
+<li> 15:43 dashboards.rhul.ac.uk</li>
+<li class='same'> 15:42 dashboards.rhul.ac.uk</li>
+<li> 15:37 experience.elluciancloud.ie</li>
+<li> 15:37 login.microsoftonline.com</li>
+<li> 15:37 experience.elluciancloud.ie</li>
+<li> 15:34 www.instagram.com</li>
 <li> 15:34 www.google.com</li>
 <li> 15:34 gasuco.com</li>
 <li> 15:34 www.google.com</li>
