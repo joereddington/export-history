@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8174)</li>
+<ol><li>www.google.com (8178)</li>
 <li>mail.google.com (5766)</li>
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2625)</li>
 <li>docs.google.com (1876)</li>
 <li>calendar.google.com (1375)</li>
-<li>moodle.royalholloway.ac.uk (1218)</li>
+<li>moodle.royalholloway.ac.uk (1220)</li>
 <li>www.reddit.com (1204)</li>
 <li>www.amazon.co.uk (1194)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (695)</li>
+<li>outlook.office365.com (708)</li>
 <li>gmail.com (675)</li>
-<li>www.theguardian.com (669)</li>
+<li>www.theguardian.com (673)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>www.linkedin.com (612)</li>
 <li>chat.openai.com (611)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (476)</li>
+<li>login.microsoftonline.com (478)</li>
 <li>web.whatsapp.com (434)</li>
+<li>teams.microsoft.com (432)</li>
 <li>kdp.amazon.com (431)</li>
-<li>teams.microsoft.com (431)</li>
 <li>drive.google.com (427)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul.sharepoint.com (316)</li>
+<li>rhul.sharepoint.com (318)</li>
 <li>bsky.app (313)</li>
 <li>www.giantitp.com (303)</li>
 <li>rhul-my.sharepoint.com (302)</li>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:42 www.theguardian.com</li>
+<ul><li> 10:41 rhul.hosted.panopto.com</li>
+<li class='same'> 10:40 rhul.hosted.panopto.com</li>
+<li class='same'> 10:39 rhul.hosted.panopto.com</li>
+<li class='same'> 10:38 rhul.hosted.panopto.com</li>
+<li> 10:38 outlook.office365.com</li>
+<li> 10:36 moodle.royalholloway.ac.uk</li>
+<li> 10:35 mysignins.microsoft.com</li>
+<li> 10:35 account.activedirectory.windowsazure.com</li>
+<li> 10:35 login.microsoftonline.com</li>
+<li> 10:35 account.activedirectory.windowsazure.com</li>
+<li> 10:35 moodle.royalholloway.ac.uk</li>
+<li> 10:35 login.microsoftonline.com</li>
+<li> 10:34 outlook.office365.com</li>
+<li class='same'> 10:32 outlook.office365.com</li>
+<li class='same'> 10:31 outlook.office365.com</li>
+<li> 10:31 dashboards.rhul.ac.uk</li>
+<li> 10:31 rhul.sharepoint.com</li>
+<li> 10:31 outlook.office365.com</li>
+<li class='same'> 10:30 outlook.office365.com</li>
+<li class='same'> 10:29 outlook.office365.com</li>
+<li> 10:28 www.google.com</li>
+<li class='same'> 10:27 www.google.com</li>
+<li> 10:26 outlook.office365.com</li>
+<li class='same'> 10:25 outlook.office365.com</li>
+<li> 10:25 rhul.sharepoint.com</li>
+<li> 10:24 teams.microsoft.com</li>
+<li> 10:24 rhul.hosted.panopto.com</li>
+<li> 10:24 outlook.office365.com</li>
+<li class='same'> 10:23 outlook.office365.com</li>
+<li class='same'> 10:21 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:21 www.theguardian.com</li>
+<li> 07:16 outlook.office365.com</li>
+<li> 07:14 www.theguardian.com</li>
+<li> 06:45 www.natesilver.net</li>
+<li class='same'> 06:44 www.natesilver.net</li>
+<li> 06:44 www.google.com</li>
+<li> 06:44 www.theguardian.com</li>
+<li> 06:43 www.google.com</li>
+<li> 06:43 www.theguardian.com</li>
+<li class='same'> 06:42 www.theguardian.com</li>
 </ul>
 
 <br>
