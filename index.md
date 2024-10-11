@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8176)</li>
+<ol><li>www.google.com (8174)</li>
 <li>mail.google.com (5766)</li>
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2625)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1375)</li>
 <li>moodle.royalholloway.ac.uk (1218)</li>
 <li>www.reddit.com (1204)</li>
-<li>www.amazon.co.uk (1196)</li>
+<li>www.amazon.co.uk (1194)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (695)</li>
@@ -16064,7 +16064,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 17:03 docs.google.com</li>
 <li> 17:03 drive.google.com</li>
-<li> 16:53 www.google.com</li>
 <li> 16:53 cse.google.com</li>
 <li> 16:52 www.vim.org</li>
 <li> 16:51 <a href="https://stackoverflow.com/questions/1157410/how-to-automatically-update-tag-file-in-vim">ctags - How to automatically update tag file in vim? - Stack Overflow</a></li>
@@ -16074,7 +16073,6 @@ With number of accesses/minutes in parentheses
 <li> 16:33 chatgpt.com</li>
 <li> 16:33 auth0.openai.com</li>
 <li class='same'> 16:32 auth0.openai.com</li>
-<li> 16:32 auth.openai.com</li>
 <li> 16:32 chatgpt.com</li>
 <li> 16:30 docs.google.com</li>
 <li class='same'> 16:29 docs.google.com</li>
@@ -16091,15 +16089,13 @@ With number of accesses/minutes in parentheses
 <li> 16:11 <a href="https://en.wikipedia.org/wiki/Target_audience">Target audience - Wikipedia</a></li>
 <li> 16:11 chatgpt.com</li>
 <li> 16:11 chat.openai.com</li>
-<li> 16:10 www.amazon.co.uk</li>
-<li class='same'> 16:09 www.amazon.co.uk</li>
+<li> 16:09 www.amazon.co.uk</li>
 <li class='same'> 16:08 www.amazon.co.uk</li>
 <li> 16:08 <a href="https://en.wikipedia.org/wiki/Nikon_D7000">Nikon D7000 - Wikipedia</a></li>
 <li> 16:08 www.google.com</li>
 <li> 16:07 www.amazon.co.uk</li>
 <li class='same'> 16:06 www.amazon.co.uk</li>
 <li> 16:05 www.frogbikes.com</li>
-<li> 16:05 www.googleadservices.com</li>
 <li> 16:05 bikeclub.com</li>
 <li> 16:04 www.google.com</li>
 <li> 16:03 www.reddit.com</li>
@@ -16108,7 +16104,6 @@ With number of accesses/minutes in parentheses
 <li> 16:02 www.google.com</li>
 <li> 16:02 www.amazon.co.uk</li>
 <li> 16:01 kidvelobikes.co.uk</li>
-<li> 16:01 www.googleadservices.com</li>
 <li> 16:01 bikeclub.com</li>
 <li> 16:01 www.google.com</li>
 <li> 16:01 mail.google.com</li>
@@ -16137,7 +16132,6 @@ With number of accesses/minutes in parentheses
 <li> 15:54 <a href="https://www.youtube.com/watch?v=96AO6L9qp2U&list=WL">(59) All tony Stark creating and Inventing gadgets Scenes | Iron Man | Storm Hack - YouTube</a></li>
 <li> 15:54 <a href="https://www.youtube.com/feed/playlists">(59) YouTube</a></li>
 <li> 15:54 <a href="https://www.youtube.com/@JoeReddington">(59) Joe Reddington - YouTube</a></li>
-<li> 15:54 <a href="http://www.youtube.com/@JoeReddington"></a></li>
 <li> 15:54 <a href="https://www.youtube.com/">(42) YouTube</a></li>
 <li> 15:44 www.whatdotheyknow.com</li>
 <li class='same'> 15:42 www.whatdotheyknow.com</li>
@@ -16186,14 +16180,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:15 www.facebook.com</li>
 <li class='same'> 14:14 www.facebook.com</li>
 <li class='same'> 14:12 www.facebook.com</li>
-<li> 13:59 www.amazon.co.uk</li>
-<li class='same'> 13:58 www.amazon.co.uk</li>
+<li> 13:58 www.amazon.co.uk</li>
 <li> 13:58 www.ebay.co.uk</li>
 <li class='same'> 13:57 www.ebay.co.uk</li>
 <li> 13:56 www.fitness-superstore.co.uk</li>
 <li> 13:56 www.google.com</li>
-<li> 13:56 www.ebay.co.uk</li>
-<li class='same'> 13:55 www.ebay.co.uk</li>
+<li> 13:55 www.ebay.co.uk</li>
 <li> 13:54 mail.google.com</li>
 <li> 13:54 gmail.com</li>
 <li> 13:50 www.facebook.com</li>
@@ -16205,7 +16197,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:35 www.facebook.com</li>
 <li> 13:33 doodle.com</li>
 <li> 13:33 outlook.office.com</li>
-<li> 13:30 www.google.com</li>
 <li> 13:30 finalfantasy.fandom.com</li>
 <li> 13:30 www.google.com</li>
 <li> 13:30 outlook.office.com</li>
