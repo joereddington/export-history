@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8182)</li>
+<ol><li>www.google.com (8190)</li>
 <li>mail.google.com (5766)</li>
 <li>outlook.office.com (3457)</li>
-<li>www.facebook.com (2625)</li>
+<li>www.facebook.com (2628)</li>
 <li>docs.google.com (1876)</li>
 <li>calendar.google.com (1377)</li>
 <li>moodle.royalholloway.ac.uk (1221)</li>
@@ -79,17 +79,17 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1194)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (726)</li>
+<li>outlook.office365.com (729)</li>
 <li>gmail.com (675)</li>
 <li>www.theguardian.com (673)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>www.linkedin.com (615)</li>
-<li>chat.openai.com (611)</li>
+<li>chat.openai.com (612)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (481)</li>
-<li>web.whatsapp.com (434)</li>
+<li>web.whatsapp.com (435)</li>
 <li>teams.microsoft.com (432)</li>
 <li>kdp.amazon.com (431)</li>
 <li>drive.google.com (427)</li>
@@ -105,6 +105,39 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 11/10/24</H3>
+
+<br>
+
+<ul><li> 15:34 www.instagram.com</li>
+<li> 15:34 www.google.com</li>
+<li> 15:34 gasuco.com</li>
+<li> 15:34 www.google.com</li>
+<li> 15:32 www.johnabbott.qc.ca</li>
+<li> 15:32 www.google.com</li>
+<li> 15:31 www.tandfonline.com</li>
+<li> 15:31 scholar.google.com</li>
+<li> 15:30 www.researchgate.net</li>
+<li> 15:30 www.tandfonline.com</li>
+<li> 15:29 scholar.google.com</li>
+<li> 15:29 www.google.com</li>
+<li> 15:25 www.researchgate.net</li>
+<li> 15:24 www.w12conferences.co.uk</li>
+<li> 15:24 www.google.com</li>
+<li class='same'> 15:23 www.google.com</li>
+<li> 15:19 www.facebook.com</li>
+<li> 15:19 www.google.com</li>
+<li> 15:18 www.facebook.com</li>
+<li class='same'> 15:17 www.facebook.com</li>
+<li> 15:17 chatgpt.com</li>
+<li class='same'> 15:16 chatgpt.com</li>
+<li> 15:16 chat.openai.com</li>
+<li> 15:12 www.google.com</li>
+<li> 15:02 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 15:01 web.whatsapp.com</li>
+<li> 15:01 outlook.office365.com</li>
+<li class='same'> 15:00 outlook.office365.com</li>
+<li class='same'> 14:59 outlook.office365.com</li>
+</ul>
 
 <br>
 
