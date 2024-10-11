@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8179)</li>
+<ol><li>www.google.com (8182)</li>
 <li>mail.google.com (5766)</li>
-<li>outlook.office.com (3456)</li>
+<li>outlook.office.com (3457)</li>
 <li>www.facebook.com (2625)</li>
 <li>docs.google.com (1876)</li>
 <li>calendar.google.com (1377)</li>
@@ -79,24 +79,24 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1194)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (715)</li>
+<li>outlook.office365.com (725)</li>
 <li>gmail.com (675)</li>
 <li>www.theguardian.com (673)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>www.linkedin.com (612)</li>
+<li>www.linkedin.com (615)</li>
 <li>chat.openai.com (611)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (479)</li>
+<li>login.microsoftonline.com (480)</li>
 <li>web.whatsapp.com (434)</li>
 <li>teams.microsoft.com (432)</li>
 <li>kdp.amazon.com (431)</li>
 <li>drive.google.com (427)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul.sharepoint.com (318)</li>
+<li>rhul.sharepoint.com (319)</li>
 <li>bsky.app (313)</li>
-<li>rhul-my.sharepoint.com (304)</li>
+<li>rhul-my.sharepoint.com (305)</li>
 <li>www.giantitp.com (303)</li>
 
 
@@ -105,6 +105,40 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 11/10/24</H3>
+
+<br>
+
+<ul><li> 12:27 outlook.office365.com</li>
+<li> 12:26 www.google.com</li>
+<li> 12:24 intranet.royalholloway.ac.uk</li>
+<li> 12:24 www.google.com</li>
+<li> 12:23 rhul.sharepoint.com</li>
+<li> 12:23 outlook.office.com</li>
+<li> 12:23 outlook.office365.com</li>
+<li class='same'> 12:22 outlook.office365.com</li>
+<li> 12:22 rhul-my.sharepoint.com</li>
+<li> 12:22 forms.office.com</li>
+<li class='same'> 12:21 forms.office.com</li>
+<li> 12:21 www.mozilla.org</li>
+<li> 12:21 outlook.office365.com</li>
+<li class='same'> 12:20 outlook.office365.com</li>
+<li> 12:19 login.openathens.net</li>
+<li> 12:19 login.microsoftonline.com</li>
+<li> 12:19 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 12:18 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 12:17 librarysearch.royalholloway.ac.uk</li>
+<li> 12:17 www.google.com</li>
+<li> 12:17 www.cybok.org</li>
+<li> 12:17 outlook.office365.com</li>
+<li class='same'> 12:16 outlook.office365.com</li>
+<li> 12:10 www.linkedin.com</li>
+<li class='same'> 12:09 www.linkedin.com</li>
+<li class='same'> 12:08 www.linkedin.com</li>
+<li> 12:08 outlook.office365.com</li>
+<li class='same'> 12:07 outlook.office365.com</li>
+<li class='same'> 12:06 outlook.office365.com</li>
+<li> 12:05 www.ebay.co.uk</li>
+</ul>
 
 <br>
 
