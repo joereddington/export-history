@@ -73,15 +73,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3456)</li>
 <li>www.facebook.com (2625)</li>
 <li>docs.google.com (1876)</li>
-<li>calendar.google.com (1374)</li>
+<li>calendar.google.com (1375)</li>
 <li>moodle.royalholloway.ac.uk (1218)</li>
 <li>www.reddit.com (1204)</li>
 <li>www.amazon.co.uk (1196)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (693)</li>
+<li>outlook.office365.com (695)</li>
 <li>gmail.com (675)</li>
-<li>www.theguardian.com (663)</li>
+<li>www.theguardian.com (669)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>www.linkedin.com (612)</li>
@@ -104,7 +104,39 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 11/10/24</H3>
+
+<br>
+
+<ul><li> 06:42 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:28 calendar.google.com</li>
+</ul>
+
 <H3>Thursday, 10/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 19:44 www.theguardian.com</li>
+<li class='same'> 19:43 www.theguardian.com</li>
+<li class='same'> 19:41 www.theguardian.com</li>
+<li class='same'> 19:40 www.theguardian.com</li>
+<li class='same'> 19:39 www.theguardian.com</li>
+<li> 19:39 getpocket.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:35 outlook.office365.com</li>
+<li class='same'> 18:34 outlook.office365.com</li>
+</ul>
 
 <br>
 
