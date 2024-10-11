@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1194)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (725)</li>
+<li>outlook.office365.com (726)</li>
 <li>gmail.com (675)</li>
 <li>www.theguardian.com (673)</li>
 <li>tvtropes.org (648)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (611)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (480)</li>
+<li>login.microsoftonline.com (481)</li>
 <li>web.whatsapp.com (434)</li>
 <li>teams.microsoft.com (432)</li>
 <li>kdp.amazon.com (431)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 11/10/24</H3>
+
+<br>
+
+<ul><li> 14:18 login.microsoftonline.com</li>
+<li> 14:18 forms.office.com</li>
+<li> 14:00 outlook.office365.com</li>
+</ul>
 
 <br>
 
