@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8198)</li>
+<ol><li>www.google.com (8201)</li>
 <li>mail.google.com (5770)</li>
 <li>outlook.office.com (3460)</li>
 <li>www.facebook.com (2629)</li>
@@ -80,8 +80,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (754)</li>
+<li>www.theguardian.com (677)</li>
 <li>gmail.com (677)</li>
-<li>www.theguardian.com (675)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>www.linkedin.com (617)</li>
@@ -104,7 +104,27 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 12/10/24</H3>
+
+<br>
+
+<ul><li> 07:57 www.theguardian.com</li>
+<li> 07:56 www.google.com</li>
+<li> 07:55 www.savethestudent.org</li>
+<li> 07:55 www.google.com</li>
+</ul>
+
 <H3>Friday, 11/10/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 23:19 www.gov.uk</li>
+<li> 23:19 www.google.com</li>
+</ul>
 
 <br>
 
@@ -344,7 +364,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:21 www.theguardian.com</li>
+<ul><li> 07:22 www.theguardian.com</li>
+<li class='same'> 07:21 www.theguardian.com</li>
 <li> 07:16 outlook.office365.com</li>
 <li> 07:14 www.theguardian.com</li>
 <li> 06:45 www.natesilver.net</li>
