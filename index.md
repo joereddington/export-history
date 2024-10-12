@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8201)</li>
+<ol><li>www.google.com (8210)</li>
 <li>mail.google.com (5770)</li>
 <li>outlook.office.com (3460)</li>
 <li>www.facebook.com (2629)</li>
 <li>docs.google.com (1876)</li>
-<li>calendar.google.com (1383)</li>
+<li>calendar.google.com (1384)</li>
 <li>moodle.royalholloway.ac.uk (1221)</li>
 <li>www.reddit.com (1206)</li>
 <li>www.amazon.co.uk (1194)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (754)</li>
-<li>www.theguardian.com (677)</li>
+<li>www.theguardian.com (679)</li>
 <li>gmail.com (677)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:57 www.theguardian.com</li>
+<ul><li> 19:23 www.google.com</li>
+<li class='same'> 19:03 www.google.com</li>
+<li class='same'> 19:02 www.google.com</li>
+<li class='same'> 19:01 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:56 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:03 www.google.com</li>
+<li> 08:03 www.natesilver.net</li>
+<li> 08:03 t.co</li>
+<li> 08:03 x.com</li>
+<li> 08:03 www.natesilver.net</li>
+<li> 08:03 www.google.com</li>
+<li> 08:03 www.natesilver.net</li>
+<li> 08:03 x.com</li>
+<li> 08:03 www.google.com</li>
+<li> 08:03 x.com</li>
+<li> 08:03 twitter.com</li>
+<li> 08:03 x.com</li>
+<li> 08:03 www.google.com</li>
+<li> 08:02 www.npr.org</li>
+<li> 08:02 www.google.com</li>
+<li> 08:01 www.theguardian.com</li>
+<li class='same'> 08:00 www.theguardian.com</li>
+<li class='same'> 07:57 www.theguardian.com</li>
 <li> 07:56 www.google.com</li>
 <li> 07:55 www.savethestudent.org</li>
 <li> 07:55 www.google.com</li>
