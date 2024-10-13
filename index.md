@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8221)</li>
+<ol><li>www.google.com (8226)</li>
 <li>mail.google.com (5770)</li>
 <li>outlook.office.com (3460)</li>
 <li>www.facebook.com (2629)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1203)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (754)</li>
+<li>outlook.office365.com (758)</li>
 <li>www.theguardian.com (679)</li>
 <li>gmail.com (677)</li>
 <li>tvtropes.org (648)</li>
@@ -88,9 +88,9 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (612)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (485)</li>
+<li>login.microsoftonline.com (486)</li>
 <li>web.whatsapp.com (437)</li>
-<li>teams.microsoft.com (432)</li>
+<li>teams.microsoft.com (433)</li>
 <li>kdp.amazon.com (431)</li>
 <li>drive.google.com (427)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,10 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:30 dl.acm.org</li>
+<ul><li> 09:22 outlook.office365.com</li>
+<li class='same'> 09:19 outlook.office365.com</li>
+<li class='same'> 09:18 outlook.office365.com</li>
+<li> 09:18 support.microsoft.com</li>
+<li> 09:17 teams.microsoft.com</li>
+<li> 09:17 support.microsoft.com</li>
+<li> 09:17 www.google.com</li>
+<li> 09:16 dl.acm.org</li>
+<li> 09:14 outlook.office365.com</li>
+<li> 09:14 login.microsoftonline.com</li>
+<li> 09:14 onlinelibrary.wiley.com</li>
+<li class='same'> 09:10 onlinelibrary.wiley.com</li>
+<li> 09:10 scholar.google.com</li>
+<li> 09:10 www.google.com</li>
+<li> 09:09 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model">Gordon–Loeb model - Wikipedia</a></li>
+<li> 09:09 www.google.com</li>
+<li> 09:09 scholar.google.com</li>
+<li> 09:09 www.google.com</li>
+<li> 09:09 citeseerx.ist.psu.edu</li>
+<li> 09:07 scholar.google.com</li>
+<li> 09:06 discovery.ucl.ac.uk</li>
+<li> 09:06 scholar.google.com</li>
+<li> 09:06 www.taylorfrancis.com</li>
+<li> 09:05 scholar.google.com</li>
+<li class='same'> 09:04 scholar.google.com</li>
+<li> 09:04 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model#Overview">Gordon–Loeb model - Wikipedia</a></li>
+<li> 09:03 <a href="https://en.wikipedia.org/w/index.php?title=Gordon%E2%80%93Loeb_model&action=edit&section=1">Editing Gordon–Loeb model - Wikipedia</a></li>
+<li> 09:03 econinfosec.org</li>
+<li> 08:55 claude.ai</li>
+<li> 08:50 dl.acm.org</li>
+<li> 08:49 scholar.google.com</li>
+<li> 08:49 www.google.com</li>
+<li> 08:49 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model">Gordon–Loeb model - Wikipedia</a></li>
+<li class='same'> 08:41 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model">Gordon–Loeb model - Wikipedia</a></li>
+<li> 08:40 <a href="https://en.wikipedia.org/wiki/Information_security#Sources_of_standards">Information security - Wikipedia</a></li>
+<li> 08:38 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=history">Information security: Revision history - Wikipedia</a></li>
+<li> 08:38 <a href="https://en.wikipedia.org/wiki/Information_security#Business_continuity">Information security - Wikipedia</a></li>
+<li> 08:37 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=34">Information security - Wikipedia</a></li>
+<li> 08:37 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit">Editing Information security - Wikipedia</a></li>
+<li> 08:34 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=history">Information security: Revision history - Wikipedia</a></li>
+<li> 08:30 dl.acm.org</li>
 <li> 08:30 <a href="https://en.wikipedia.org/wiki/Information_security#Business_continuity">Information security - Wikipedia</a></li>
 <li> 08:29 <a href="https://en.wikipedia.org/wiki/Information_security#Risk_management">Information security - Wikipedia</a></li>
-<li> 08:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=34">Editing Information security - Wikipedia</a></li>
+<li> 08:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=34">Information security - Wikipedia</a></li>
 <li> 08:29 <a href="https://en.wikipedia.org/wiki/Information_security#Business_continuity">Information security - Wikipedia</a></li>
 <li> 08:29 <a href="https://en.wikipedia.org/wiki/Business_continuity_planning">Business continuity planning - Wikipedia</a></li>
 <li> 08:29 www.google.com</li>
@@ -119,10 +159,10 @@ With number of accesses/minutes in parentheses
 <li> 08:23 <a href="https://en.wikipedia.org/wiki/Information_security#Risk_management">Information security - Wikipedia</a></li>
 <li> 08:22 <a href="https://en.wikipedia.org/wiki/Information_security#Cryptography">Information security - Wikipedia</a></li>
 <li> 08:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=23">Editing Information security - Wikipedia</a></li>
-<li> 08:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit">Information security - Wikipedia</a></li>
+<li> 08:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit">Editing Information security - Wikipedia</a></li>
 <li> 08:20 <a href="https://en.wikipedia.org/wiki/Information_security#Responses_to_threats">Information security - Wikipedia</a></li>
 <li> 08:19 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=4">Information security - Wikipedia</a></li>
-<li> 08:19 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit">Information security - Wikipedia</a></li>
+<li> 08:19 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit">Editing Information security - Wikipedia</a></li>
 <li> 08:19 <a href="https://en.wikipedia.org/wiki/Information_security#Responses_to_threats">Information security - Wikipedia</a></li>
 <li> 08:18 www.amazon.co.uk</li>
 <li class='same'> 08:17 www.amazon.co.uk</li>
