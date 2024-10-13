@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8210)</li>
+<ol><li>www.google.com (8216)</li>
 <li>mail.google.com (5770)</li>
 <li>outlook.office.com (3460)</li>
 <li>www.facebook.com (2629)</li>
 <li>docs.google.com (1876)</li>
 <li>calendar.google.com (1384)</li>
 <li>moodle.royalholloway.ac.uk (1221)</li>
-<li>www.reddit.com (1206)</li>
-<li>www.amazon.co.uk (1194)</li>
+<li>www.reddit.com (1207)</li>
+<li>www.amazon.co.uk (1198)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (754)</li>
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:52 arxiv.org</li>
+<ul><li> 07:33 <a href="https://en.wikipedia.org/wiki/Talk:Information_security">Talk:Information security - Wikipedia</a></li>
+<li> 07:28 <a href="https://en.wikipedia.org/wiki/Information_security#Key_concepts">Information security - Wikipedia</a></li>
+<li> 07:28 <a href="https://en.wikipedia.org/wiki/CIA_triad">Information security - Wikipedia</a></li>
+<li> 07:28 <a href="https://en.wikipedia.org/w/index.php?search=accounability++security&title=Special%3ASearch&ns0=1">accounability security - Search results - Wikipedia</a></li>
+<li> 07:25 firstmonday.org</li>
+<li> 07:23 <a href="https://en.wikipedia.org/wiki/Non-repudiation#See_also">Non-repudiation - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?title=Non-repudiation&action=edit&section=4">Editing Non-repudiation - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Non-repudiation">Non-repudiation - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/Shaggy_defense">Pages that link to "Shaggy defense" - Wikipedia</a></li>
+<li> 07:20 www.google.com</li>
+<li> 07:20 <a href="https://en.wikipedia.org/wiki/Category:Equitable_defenses">Category:Equitable defenses - Wikipedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/wiki/Legal_defense">Defense (legal) - Wikipedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/wiki/Defense_(legal)">Defense (legal) - Wikipedia</a></li>
+<li> 07:19 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit">Shaggy defense - Wikipedia</a></li>
+<li> 07:03 claude.ai</li>
+<li> 07:03 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit">Shaggy defense - Wikipedia</a></li>
+<li> 06:55 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=history">Shaggy defense: Revision history - Wikipedia</a></li>
+<li> 06:55 <a href="https://en.wikipedia.org/wiki/Shaggy_defense">Shaggy defense - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:53 arxiv.org</li>
+<li class='same'> 06:52 arxiv.org</li>
+<li> 06:41 www.reddit.com</li>
+<li> 06:41 www.google.com</li>
+<li> 06:40 www.amazon.co.uk</li>
+<li class='same'> 06:39 www.amazon.co.uk</li>
+<li> 06:39 www.google.com</li>
+<li> 06:39 www.amazon.co.uk</li>
+<li class='same'> 06:37 www.amazon.co.uk</li>
+<li> 06:34 www.lego.com</li>
+<li> 06:32 www.google.com</li>
+<li> 06:31 www.ebay.co.uk</li>
+<li> 06:31 signin.ebay.co.uk</li>
+<li> 06:31 www.ebay.co.uk</li>
+<li class='same'> 06:30 www.ebay.co.uk</li>
+<li> 06:30 altitudeni.co.uk</li>
+<li> 06:30 www.google.com</li>
+<li> 06:30 www.ebay.co.uk</li>
+<li class='same'> 06:29 www.ebay.co.uk</li>
+<li class='same'> 06:28 www.ebay.co.uk</li>
+<li> 06:27 appleid.apple.com</li>
+<li> 06:27 www.vinted.co.uk</li>
+<li> 06:27 www.google.com</li>
 </ul>
 
 <H3>Saturday, 12/10/24</H3>
@@ -119,7 +166,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:23 www.google.com</li>
+<ul><li class='same'> 19:23 www.google.com</li>
 <li class='same'> 19:03 www.google.com</li>
 <li class='same'> 19:02 www.google.com</li>
 <li class='same'> 19:01 www.google.com</li>
@@ -729,7 +776,7 @@ With number of accesses/minutes in parentheses
 <li> 07:32 <a href="https://en.wikipedia.org/wiki/R._Kelly">R. Kelly - Wikipedia</a></li>
 <li> 07:32 <a href="https://en.wikipedia.org/wiki/Shaggy_defense?venotify=saved">Shaggy defense - Wikipedia</a></li>
 <li> 07:32 <a href="https://en.wikipedia.org/wiki/Shaggy_defense">Shaggy defense - Wikipedia</a></li>
-<li> 07:32 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit">Editing Shaggy defense - Wikipedia</a></li>
+<li> 07:32 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit">Shaggy defense - Wikipedia</a></li>
 <li> 07:31 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&section=1&oldid=1245154241&action=edit">Editing Shaggy defense - Wikipedia</a></li>
 <li> 07:31 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit&section=1">Editing Shaggy defense - Wikipedia</a></li>
 <li> 07:30 <a href="https://en.wikipedia.org/wiki/Chewbacca_defense">Chewbacca defense - Wikipedia</a></li>
