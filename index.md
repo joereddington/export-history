@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1876)</li>
 <li>calendar.google.com (1384)</li>
 <li>moodle.royalholloway.ac.uk (1221)</li>
-<li>www.reddit.com (1207)</li>
+<li>www.reddit.com (1209)</li>
 <li>www.amazon.co.uk (1203)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (486)</li>
-<li>web.whatsapp.com (437)</li>
+<li>web.whatsapp.com (438)</li>
 <li>teams.microsoft.com (433)</li>
 <li>kdp.amazon.com (431)</li>
 <li>drive.google.com (427)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:22 outlook.office365.com</li>
+<ul><li> 17:27 www.paypal.com</li>
+<li> 17:27 store.bricklink.com</li>
+<li> 17:27 www.bricklink.com</li>
+<li> 17:27 www.paypal.com</li>
+<li> 17:26 store.bricklink.com</li>
+<li> 17:25 www.bricklink.com</li>
+<li class='same'> 17:24 www.bricklink.com</li>
+<li> 17:24 store.bricklink.com</li>
+<li> 17:23 www.bricklink.com</li>
+<li class='same'> 17:22 www.bricklink.com</li>
+<li class='same'> 17:20 www.bricklink.com</li>
+<li class='same'> 17:19 www.bricklink.com</li>
+<li class='same'> 17:18 www.bricklink.com</li>
+<li class='same'> 17:17 www.bricklink.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:30 web.whatsapp.com</li>
+<li> 09:29 www.reddit.com</li>
+<li class='same'> 09:28 www.reddit.com</li>
+<li> 09:22 outlook.office365.com</li>
 <li class='same'> 09:19 outlook.office365.com</li>
 <li class='same'> 09:18 outlook.office365.com</li>
 <li> 09:18 support.microsoft.com</li>
