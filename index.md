@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8204)</li>
+<ol><li>www.google.com (8211)</li>
 <li>mail.google.com (5770)</li>
 <li>outlook.office.com (3460)</li>
-<li>www.facebook.com (2629)</li>
-<li>docs.google.com (1876)</li>
-<li>calendar.google.com (1384)</li>
+<li>www.facebook.com (2631)</li>
+<li>docs.google.com (1877)</li>
+<li>calendar.google.com (1385)</li>
 <li>moodle.royalholloway.ac.uk (1221)</li>
-<li>www.reddit.com (1209)</li>
-<li>www.amazon.co.uk (1203)</li>
+<li>www.reddit.com (1211)</li>
+<li>www.amazon.co.uk (1204)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (758)</li>
+<li>outlook.office365.com (760)</li>
 <li>www.theguardian.com (679)</li>
 <li>gmail.com (677)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>www.linkedin.com (617)</li>
+<li>www.linkedin.com (620)</li>
 <li>chat.openai.com (613)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (486)</li>
-<li>web.whatsapp.com (438)</li>
+<li>web.whatsapp.com (439)</li>
 <li>teams.microsoft.com (433)</li>
 <li>kdp.amazon.com (431)</li>
-<li>drive.google.com (427)</li>
+<li>drive.google.com (428)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (323)</li>
 <li>bsky.app (313)</li>
-<li>rhul-my.sharepoint.com (307)</li>
+<li>rhul-my.sharepoint.com (308)</li>
 <li>www.giantitp.com (304)</li>
 
 
@@ -104,7 +104,71 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 14/10/24</H3>
+
+<br>
+
+<ul><li> 07:29 www.google.com</li>
+<li> 07:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=39">Editing Information security - Wikipedia</a></li>
+<li> 07:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=11">Information security - Wikipedia</a></li>
+<li> 07:29 <a href="https://en.wikipedia.org/wiki/Standard_of_Good_Practice_for_Information_Security">Standard of Good Practice for Information Security - Wikipedia</a></li>
+<li> 07:29 <a href="https://en.wikipedia.org/wiki/Information_Security_Forum">Information Security Forum - Wikipedia</a></li>
+<li> 07:28 <a href="https://en.wikipedia.org/wiki/Information_security_indicators">Information security indicators - Wikipedia</a></li>
+<li> 07:27 <a href="https://en.wikipedia.org/wiki/ETSI">ETSI - Wikipedia</a></li>
+<li> 07:27 <a href="https://en.wikipedia.org/wiki/European_Telecommunications_Standards_Institute">ETSI - Wikipedia</a></li>
+<li> 07:27 <a href="https://en.wikipedia.org/wiki/Information_security#Sources_of_standards">Information security - Wikipedia</a></li>
+<li> 07:26 <a href="https://en.wikipedia.org/wiki/Data_integrity">Data integrity - Wikipedia</a></li>
+<li> 07:26 www.google.com</li>
+<li> 07:26 <a href="https://en.wikipedia.org/wiki/Confidentiality">Confidentiality - Wikipedia</a></li>
+<li> 07:26 www.google.com</li>
+<li> 07:26 <a href="https://en.wikipedia.org/wiki/Information_security#Non-repudiation">Information security - Wikipedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=12">Information security - Wikipedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=11">Information security - Wikipedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/?title=CIA_triad&redirect=no">CIA triad - Wikipedia</a></li>
+<li> 07:21 www.google.com</li>
+<li> 07:21 <a href="https://en.wikipedia.org/wiki/Information_security#Risk_management">Information security - Wikipedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=6">Information security - Wikipedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=12">Information security - Wikipedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/wiki/Risk_management">Risk management - Wikipedia</a></li>
+<li> 07:19 <a href="https://en.wikipedia.org/wiki/Information_security#The_CIA_triad">Information security - Wikipedia</a></li>
+<li> 07:15 rhul-my.sharepoint.com</li>
+<li> 07:12 www.crcnetbase.com</li>
+<li> 07:11 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=6">Information security - Wikipedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/wiki/Black_hat_hacker">Black hat (computer security) - Wikipedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&oldid=prev&diff=1250905409&markasread=329264499&markasreadwiki=enwiki">Information security: Difference between revisions - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&oldid=prev&diff=1250905409">Information security: Difference between revisions - Wikipedia</a></li>
+<li> 07:08 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:08 www.humblebundle.com</li>
+<li class='same'> 07:07 www.humblebundle.com</li>
+<li> 07:07 www.google.com</li>
+<li> 07:06 www.reddit.com</li>
+<li> 07:06 www.google.com</li>
+<li> 07:06 www.reddit.com</li>
+<li> 07:06 www.google.com</li>
+<li> 07:05 www.amazon.co.uk</li>
+<li> 06:58 <a href="https://xkcd.com/simplewriter/"></a></li>
+<li> 06:57 docs.google.com</li>
+<li> 06:57 drive.google.com</li>
+<li> 06:56 www.facebook.com</li>
+<li class='same'> 06:54 www.facebook.com</li>
+<li> 06:54 www.natesilver.net</li>
+<li> 06:53 outlook.office365.com</li>
+<li> 06:53 www.linkedin.com</li>
+<li class='same'> 06:52 www.linkedin.com</li>
+<li class='same'> 06:51 www.linkedin.com</li>
+<li> 06:50 outlook.office365.com</li>
+<li> 06:50 web.whatsapp.com</li>
+<li> 06:49 calendar.google.com</li>
+</ul>
+
 <H3>Sunday, 13/10/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
