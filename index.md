@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
 <li>www.linkedin.com (617)</li>
-<li>chat.openai.com (612)</li>
+<li>chat.openai.com (613)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>login.microsoftonline.com (486)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:27 www.paypal.com</li>
+<ul><li> 20:51 chatgpt.com</li>
+<li> 20:51 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:28 store.bricklink.com</li>
+<li> 17:28 www.bricklink.com</li>
+<li> 17:27 www.paypal.com</li>
 <li> 17:27 store.bricklink.com</li>
 <li> 17:27 www.bricklink.com</li>
 <li> 17:27 www.paypal.com</li>
