@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8226)</li>
+<ol><li>www.google.com (8229)</li>
 <li>mail.google.com (5770)</li>
 <li>outlook.office.com (3461)</li>
 <li>www.facebook.com (2634)</li>
@@ -79,12 +79,12 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1204)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (783)</li>
+<li>outlook.office365.com (787)</li>
 <li>www.theguardian.com (679)</li>
 <li>gmail.com (677)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>www.linkedin.com (621)</li>
+<li>www.linkedin.com (622)</li>
 <li>chat.openai.com (613)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>login.microsoftonline.com (489)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:59 outlook.office365.com</li>
+<ul><li> 14:17 www.google.com</li>
+<li> 14:13 pure.royalholloway.ac.uk</li>
+<li> 14:13 www.google.com</li>
+<li> 14:12 rikkebjerg.gitlab.io</li>
+<li> 14:12 www.royalholloway.ac.uk</li>
+<li> 14:11 www.google.com</li>
+<li> 14:02 outlook.office365.com</li>
+<li class='same'> 14:01 outlook.office365.com</li>
+<li> 14:00 www.linkedin.com</li>
+<li> 13:58 outlook.office365.com</li>
+<li class='same'> 13:57 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:25 intranet.royalholloway.ac.uk</li>
+<li> 13:24 www.royalholloway.ac.uk</li>
+<li> 13:24 intranet.royalholloway.ac.uk</li>
+<li> 12:59 outlook.office365.com</li>
 <li class='same'> 12:57 outlook.office365.com</li>
 <li> 12:57 rhul-my.sharepoint.com</li>
 <li class='same'> 12:56 rhul-my.sharepoint.com</li>
