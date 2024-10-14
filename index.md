@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8236)</li>
-<li>mail.google.com (5777)</li>
+<ol><li>www.google.com (8239)</li>
+<li>mail.google.com (5783)</li>
 <li>outlook.office.com (3461)</li>
 <li>www.facebook.com (2635)</li>
 <li>docs.google.com (1881)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (816)</li>
 <li>www.theguardian.com (680)</li>
-<li>gmail.com (679)</li>
+<li>gmail.com (680)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (638)</li>
 <li>www.linkedin.com (626)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:30 www.google.com</li>
+<ul><li> 20:18 electronics.stackexchange.com</li>
+<li class='same'> 20:17 electronics.stackexchange.com</li>
+<li> 20:17 www.google.com</li>
+<li> 20:17 mail.google.com</li>
+<li class='same'> 20:14 mail.google.com</li>
+<li> 20:02 claude.ai</li>
+<li> 20:01 www.google.com</li>
+<li> 20:00 mail.google.com</li>
+<li class='same'> 19:58 mail.google.com</li>
+<li class='same'> 19:57 mail.google.com</li>
+<li class='same'> 19:54 mail.google.com</li>
+<li> 19:54 gmail.com</li>
+<li> 19:54 www.tvlicensing.co.uk</li>
+<li> 19:53 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:30 www.google.com</li>
 </ul>
 
 <br>
