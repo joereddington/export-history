@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8239)</li>
+<ol><li>www.google.com (8243)</li>
 <li>mail.google.com (5783)</li>
 <li>outlook.office.com (3461)</li>
-<li>www.facebook.com (2635)</li>
+<li>www.facebook.com (2638)</li>
 <li>docs.google.com (1881)</li>
-<li>calendar.google.com (1388)</li>
-<li>moodle.royalholloway.ac.uk (1256)</li>
+<li>calendar.google.com (1391)</li>
+<li>moodle.royalholloway.ac.uk (1261)</li>
 <li>www.reddit.com (1211)</li>
 <li>www.amazon.co.uk (1204)</li>
 <li>github.com (1011)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (626)</li>
 <li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (562)</li>
-<li>login.microsoftonline.com (493)</li>
+<li>login.microsoftonline.com (495)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (440)</li>
 <li>teams.microsoft.com (436)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:18 electronics.stackexchange.com</li>
+<ul><li> 21:02 www.facebook.com</li>
+<li> 21:01 calendar.google.com</li>
+<li class='same'> 21:00 calendar.google.com</li>
+<li class='same'> 20:57 calendar.google.com</li>
+<li> 20:57 claude.ai</li>
+<li class='same'> 20:56 claude.ai</li>
+<li> 20:54 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 20:53 moodle1920.royalholloway.ac.uk</li>
+<li> 20:53 www.google.com</li>
+<li> 20:53 rhul.rl.talis.com</li>
+<li> 20:53 www.google.com</li>
+<li> 20:53 rl.talis.com</li>
+<li> 20:53 rhul.rl.talis.com</li>
+<li> 20:52 rl.talis.com</li>
+<li> 20:52 rhul.rl.talis.com</li>
+<li> 20:52 rl.talis.com</li>
+<li> 20:51 moodle2324.royalholloway.ac.uk</li>
+<li> 20:51 login.microsoftonline.com</li>
+<li> 20:51 moodle2324.royalholloway.ac.uk</li>
+<li> 20:51 moodle.royalholloway.ac.uk</li>
+<li class='same'> 20:50 moodle.royalholloway.ac.uk</li>
+<li class='same'> 20:49 moodle.royalholloway.ac.uk</li>
+<li> 20:48 www.royalholloway.ac.uk</li>
+<li> 20:48 www.google.com</li>
+<li> 20:48 moodle.royalholloway.ac.uk</li>
+<li> 20:48 login.microsoftonline.com</li>
+<li> 20:47 moodle.royalholloway.ac.uk</li>
+<li> 20:37 www.facebook.com</li>
+<li class='same'> 20:36 www.facebook.com</li>
+<li> 20:23 www.arduino.cc</li>
+<li class='same'> 20:22 www.arduino.cc</li>
+<li> 20:22 docs.arduino.cc</li>
+<li> 20:22 www.google.com</li>
+<li> 20:18 electronics.stackexchange.com</li>
 <li class='same'> 20:17 electronics.stackexchange.com</li>
 <li> 20:17 www.google.com</li>
 <li> 20:17 mail.google.com</li>
