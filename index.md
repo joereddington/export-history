@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8225)</li>
+<ol><li>www.google.com (8226)</li>
 <li>mail.google.com (5770)</li>
 <li>outlook.office.com (3461)</li>
-<li>www.facebook.com (2633)</li>
+<li>www.facebook.com (2634)</li>
 <li>docs.google.com (1877)</li>
 <li>calendar.google.com (1385)</li>
 <li>moodle.royalholloway.ac.uk (1256)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1204)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (777)</li>
+<li>outlook.office365.com (783)</li>
 <li>www.theguardian.com (679)</li>
 <li>gmail.com (677)</li>
 <li>tvtropes.org (648)</li>
@@ -90,12 +90,12 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (489)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (439)</li>
-<li>teams.microsoft.com (433)</li>
+<li>teams.microsoft.com (434)</li>
 <li>kdp.amazon.com (431)</li>
 <li>drive.google.com (428)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (325)</li>
-<li>rhul-my.sharepoint.com (316)</li>
+<li>rhul-my.sharepoint.com (318)</li>
 <li>bsky.app (313)</li>
 <li>www.giantitp.com (304)</li>
 
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:09 www.facebook.com</li>
+<ul><li> 12:59 outlook.office365.com</li>
+<li class='same'> 12:57 outlook.office365.com</li>
+<li> 12:57 rhul-my.sharepoint.com</li>
+<li class='same'> 12:56 rhul-my.sharepoint.com</li>
+<li> 12:56 outlook.office365.com</li>
+<li class='same'> 12:53 outlook.office365.com</li>
+<li class='same'> 12:52 outlook.office365.com</li>
+<li> 12:47 teams.microsoft.com</li>
+<li> 12:17 outlook.office365.com</li>
+<li> 12:17 www.google.com</li>
+<li> 12:16 www.facebook.com</li>
+<li class='same'> 12:09 www.facebook.com</li>
 <li class='same'> 12:07 www.facebook.com</li>
 <li> 12:07 outlook.office365.com</li>
 <li class='same'> 12:05 outlook.office365.com</li>
