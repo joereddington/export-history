@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8226)</li>
+<ol><li>www.google.com (8204)</li>
 <li>mail.google.com (5770)</li>
 <li>outlook.office.com (3460)</li>
 <li>www.facebook.com (2629)</li>
@@ -16336,51 +16336,28 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:51 www.google.com</li>
 <li> 07:50 docs.google.com</li>
 <li> 07:49 www.penkethhigh.org</li>
-<li> 07:49 penkethhigh.org</li>
 <li> 07:49 docs.google.com</li>
 <li> 07:48 <a href="https://en.wikipedia.org/wiki/Penketh_High_School">Penketh High School - Wikipedia</a></li>
-<li> 07:48 www.google.com</li>
-<li class='same'> 07:47 www.google.com</li>
-<li class='same'> 07:46 www.google.com</li>
+<li> 07:46 www.google.com</li>
 <li> 07:46 <a href="https://en.wikipedia.org/wiki/Newcastle-under-Lyme_College">Newcastle-under-Lyme College - Wikipedia</a></li>
-<li> 07:45 www.google.com</li>
-<li class='same'> 07:43 www.google.com</li>
-<li class='same'> 07:42 www.google.com</li>
 <li> 07:41 <a href="https://en.wikipedia.org/wiki/Jamie_Flatters">Jamie Flatters - Wikipedia</a></li>
 <li> 07:40 <a href="https://en.wikipedia.org/wiki/Lambeth_Academy">Lambeth Academy - Wikipedia</a></li>
-<li> 07:37 www.google.com</li>
-<li class='same'> 07:36 www.google.com</li>
-<li class='same'> 07:35 www.google.com</li>
-<li class='same'> 07:34 www.google.com</li>
-<li class='same'> 07:33 www.google.com</li>
-<li class='same'> 07:32 www.google.com</li>
-<li class='same'> 07:31 www.google.com</li>
+<li> 07:31 www.google.com</li>
 <li> 07:30 <a href="https://en.wikipedia.org/wiki/Glenburn_Sports_College">Glenburn Sports College - Wikipedia</a></li>
-<li> 07:30 www.google.com</li>
-<li class='same'> 07:29 www.google.com</li>
+<li> 07:29 www.google.com</li>
 <li> 07:29 docs.google.com</li>
 <li class='same'> 07:28 docs.google.com</li>
 <li> 07:27 www.google.com</li>
-<li class='same'> 07:26 www.google.com</li>
-<li class='same'> 07:25 www.google.com</li>
-<li class='same'> 07:24 www.google.com</li>
 <li> 07:24 www.chislehurstschoolforgirls.co.uk</li>
-<li> 07:24 www.google.com</li>
-<li class='same'> 07:23 www.google.com</li>
 <li> 07:23 docs.google.com</li>
 <li class='same'> 07:22 docs.google.com</li>
-<li> 07:22 www.google.com</li>
-<li class='same'> 07:21 www.google.com</li>
-<li> 07:21 kaleidoscopeschool.co.uk</li>
 <li> 07:21 www.google.com</li>
-<li class='same'> 07:20 www.google.com</li>
+<li> 07:21 kaleidoscopeschool.co.uk</li>
+<li> 07:20 www.google.com</li>
 <li> 07:19 <a href="https://en.wikipedia.org/wiki/Bath_Community_Academy">Bath Community Academy - Wikipedia</a></li>
-<li> 07:19 www.google.com</li>
 <li> 07:19 docs.google.com</li>
 <li class='same'> 07:18 docs.google.com</li>
-<li> 07:18 www.google.com</li>
-<li class='same'> 07:17 www.google.com</li>
-<li class='same'> 07:16 www.google.com</li>
+<li> 07:16 www.google.com</li>
 <li> 07:15 docs.google.com</li>
 <li class='same'> 07:11 docs.google.com</li>
 <li class='same'> 07:08 docs.google.com</li>
