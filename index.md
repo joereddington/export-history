@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8211)</li>
+<ol><li>www.google.com (8219)</li>
 <li>mail.google.com (5770)</li>
 <li>outlook.office.com (3460)</li>
 <li>www.facebook.com (2631)</li>
@@ -79,16 +79,16 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1204)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (760)</li>
+<li>outlook.office365.com (763)</li>
 <li>www.theguardian.com (679)</li>
 <li>gmail.com (677)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (637)</li>
-<li>www.linkedin.com (620)</li>
+<li>www.linkedin.com (621)</li>
 <li>chat.openai.com (613)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>login.microsoftonline.com (486)</li>
+<li>login.microsoftonline.com (487)</li>
 <li>web.whatsapp.com (439)</li>
 <li>teams.microsoft.com (433)</li>
 <li>kdp.amazon.com (431)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (323)</li>
 <li>bsky.app (313)</li>
-<li>rhul-my.sharepoint.com (308)</li>
+<li>rhul-my.sharepoint.com (309)</li>
 <li>www.giantitp.com (304)</li>
 
 
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:29 www.google.com</li>
+<ul><li> 10:07 www.wired.com</li>
+<li> 10:07 www.google.com</li>
+<li> 10:01 <a href="https://en.wikipedia.org/wiki/Letter_and_spirit_of_the_law#Gaming_the_system">Letter and spirit of the law - Wikipedia</a></li>
+<li> 10:01 <a href="https://en.wikipedia.org/wiki/Gaming_the_system">Letter and spirit of the law - Wikipedia</a></li>
+<li> 10:01 <a href="https://en.wikipedia.org/wiki/Fine_print">Fine print - Wikipedia</a></li>
+<li> 10:01 <a href="https://en.wikipedia.org/wiki/Loophole">Loophole - Wikipedia</a></li>
+<li> 10:01 www.google.com</li>
+<li> 10:00 <a href="https://en.wikipedia.org/wiki/Rider_(theater)#Notable_rider_requests">Rider (theater) - Wikipedia</a></li>
+<li> 09:59 <a href="https://en.wikipedia.org/w/index.php?title=Rider_(theater)&action=edit&section=8">Editing Rider (theater) - Wikipedia</a></li>
+<li> 09:58 <a href="https://en.wikipedia.org/wiki/Hi-C">Hi-C - Wikipedia</a></li>
+<li> 09:57 <a href="https://en.wikipedia.org/wiki/Rider_(theater)">Rider (theater) - Wikipedia</a></li>
+<li> 09:57 www.google.com</li>
+<li> 09:52 gettingthingsdone.com</li>
+<li> 09:52 www.google.com</li>
+<li> 09:43 rl.talis.com</li>
+<li> 09:41 identity-bsigroup-com.royalholloway.idm.oclc.org</li>
+<li> 09:41 federation-bsigroup-com.royalholloway.idm.oclc.org</li>
+<li> 09:41 login.openathens.net</li>
+<li> 09:41 federation-bsigroup-com.royalholloway.idm.oclc.org</li>
+<li> 09:41 login.microsoftonline.com</li>
+<li> 09:41 libguides.rhul.ac.uk</li>
+<li> 09:41 www.google.com</li>
+<li> 09:40 librarysearch.royalholloway.ac.uk</li>
+<li> 09:40 www.google.com</li>
+<li> 09:39 staff.derbyshire.gov.uk</li>
+<li class='same'> 09:38 staff.derbyshire.gov.uk</li>
+<li> 09:36 certikit.com</li>
+<li> 09:36 www.google.com</li>
+<li> 09:36 try.drata.com</li>
+<li> 09:36 www.google.com</li>
+<li> 09:35 outlook.office365.com</li>
+<li class='same'> 09:33 outlook.office365.com</li>
+<li class='same'> 09:32 outlook.office365.com</li>
+<li> 09:32 rhul-my.sharepoint.com</li>
+<li> 09:30 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:31 <a href="https://en.wikipedia.org/wiki/Information_security_standards">Information security standards - Wikipedia</a></li>
+<li> 07:31 <a href="https://en.wikipedia.org/wiki/Cyber_Security_Standards">Information security standards - Wikipedia</a></li>
+<li> 07:30 <a href="https://en.wikipedia.org/wiki/Information_security#Sources_of_standards">Information security - Wikipedia</a></li>
+<li> 07:29 www.google.com</li>
 <li> 07:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=39">Editing Information security - Wikipedia</a></li>
 <li> 07:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=11">Information security - Wikipedia</a></li>
 <li> 07:29 <a href="https://en.wikipedia.org/wiki/Standard_of_Good_Practice_for_Information_Security">Standard of Good Practice for Information Security - Wikipedia</a></li>
