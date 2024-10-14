@@ -79,15 +79,15 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1204)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (787)</li>
-<li>www.theguardian.com (679)</li>
+<li>outlook.office365.com (792)</li>
+<li>www.theguardian.com (680)</li>
 <li>gmail.com (678)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (638)</li>
-<li>www.linkedin.com (622)</li>
+<li>www.linkedin.com (623)</li>
 <li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (562)</li>
-<li>login.microsoftonline.com (489)</li>
+<li>login.microsoftonline.com (491)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (440)</li>
 <li>teams.microsoft.com (434)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 14/10/24</H3>
+
+<br>
+
+<ul><li> 16:19 outlook.office365.com</li>
+<li> 16:10 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:10 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:10 login.microsoftonline.com</li>
+<li> 16:10 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:09 experience.elluciancloud.ie</li>
+<li> 16:09 login.microsoftonline.com</li>
+<li> 16:09 experience.elluciancloud.ie</li>
+<li> 16:04 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:04 outlook.office365.com</li>
+<li> 16:04 www.linkedin.com</li>
+<li> 15:55 www.theguardian.com</li>
+<li> 15:55 outlook.office365.com</li>
+<li> 15:54 feedly.com</li>
+<li> 15:54 outlook.office365.com</li>
+<li class='same'> 15:53 outlook.office365.com</li>
+</ul>
 
 <br>
 
