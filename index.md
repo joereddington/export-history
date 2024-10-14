@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8223)</li>
+<ol><li>www.google.com (8225)</li>
 <li>mail.google.com (5770)</li>
 <li>outlook.office.com (3461)</li>
-<li>www.facebook.com (2631)</li>
+<li>www.facebook.com (2633)</li>
 <li>docs.google.com (1877)</li>
 <li>calendar.google.com (1385)</li>
-<li>moodle.royalholloway.ac.uk (1234)</li>
+<li>moodle.royalholloway.ac.uk (1256)</li>
 <li>www.reddit.com (1211)</li>
 <li>www.amazon.co.uk (1204)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (767)</li>
+<li>outlook.office365.com (777)</li>
 <li>www.theguardian.com (679)</li>
 <li>gmail.com (677)</li>
 <li>tvtropes.org (648)</li>
@@ -95,8 +95,8 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (428)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (325)</li>
+<li>rhul-my.sharepoint.com (316)</li>
 <li>bsky.app (313)</li>
-<li>rhul-my.sharepoint.com (310)</li>
 <li>www.giantitp.com (304)</li>
 
 
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:17 moodle.royalholloway.ac.uk</li>
+<ul><li> 12:09 www.facebook.com</li>
+<li class='same'> 12:07 www.facebook.com</li>
+<li> 12:07 outlook.office365.com</li>
+<li class='same'> 12:05 outlook.office365.com</li>
+<li> 12:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:03 moodle.royalholloway.ac.uk</li>
+<li> 12:02 claude.ai</li>
+<li> 12:02 outlook.office365.com</li>
+<li class='same'> 12:00 outlook.office365.com</li>
+<li class='same'> 11:59 outlook.office365.com</li>
+<li> 11:59 rhul-my.sharepoint.com</li>
+<li> 11:59 claude.ai</li>
+<li> 11:58 rhul-my.sharepoint.com</li>
+<li> 11:58 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:57 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:56 moodle.royalholloway.ac.uk</li>
+<li> 11:55 outlook.office365.com</li>
+<li> 11:55 www.google.com</li>
+<li> 11:54 <a href="https://en.wikipedia.org/wiki/Peter_Pan">Peter Pan - Wikipedia</a></li>
+<li> 11:54 www.google.com</li>
+<li> 11:54 outlook.office365.com</li>
+<li class='same'> 11:53 outlook.office365.com</li>
+<li class='same'> 11:52 outlook.office365.com</li>
+<li class='same'> 11:51 outlook.office365.com</li>
+<li> 11:51 rhul-my.sharepoint.com</li>
+<li> 11:50 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:49 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:48 moodle.royalholloway.ac.uk</li>
+<li> 11:46 rhul-my.sharepoint.com</li>
+<li> 11:46 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:45 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:44 moodle.royalholloway.ac.uk</li>
+<li> 11:43 claude.ai</li>
+<li> 11:42 rhul-my.sharepoint.com</li>
+<li> 11:41 claude.ai</li>
+<li> 11:41 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:40 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:39 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:38 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:36 moodle.royalholloway.ac.uk</li>
+<li> 11:35 rhul-my.sharepoint.com</li>
+<li> 11:34 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:31 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:30 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:28 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:26 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:17 moodle.royalholloway.ac.uk</li>
 <li class='same'> 11:16 moodle.royalholloway.ac.uk</li>
 <li class='same'> 11:15 moodle.royalholloway.ac.uk</li>
 <li class='same'> 11:14 moodle.royalholloway.ac.uk</li>
