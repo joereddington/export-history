@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8229)</li>
-<li>mail.google.com (5770)</li>
+<ol><li>www.google.com (8230)</li>
+<li>mail.google.com (5775)</li>
 <li>outlook.office.com (3461)</li>
 <li>www.facebook.com (2634)</li>
-<li>docs.google.com (1877)</li>
+<li>docs.google.com (1881)</li>
 <li>calendar.google.com (1385)</li>
 <li>moodle.royalholloway.ac.uk (1256)</li>
 <li>www.reddit.com (1211)</li>
@@ -81,18 +81,18 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (787)</li>
 <li>www.theguardian.com (679)</li>
-<li>gmail.com (677)</li>
+<li>gmail.com (678)</li>
 <li>tvtropes.org (648)</li>
-<li>whitewaterwriters.com (637)</li>
+<li>whitewaterwriters.com (638)</li>
 <li>www.linkedin.com (622)</li>
-<li>chat.openai.com (613)</li>
+<li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (562)</li>
 <li>login.microsoftonline.com (489)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (439)</li>
+<li>web.whatsapp.com (440)</li>
 <li>teams.microsoft.com (434)</li>
 <li>kdp.amazon.com (431)</li>
-<li>drive.google.com (428)</li>
+<li>drive.google.com (429)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (325)</li>
 <li>rhul-my.sharepoint.com (318)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:17 www.google.com</li>
+<ul><li> 14:58 claude.ai</li>
+<li class='same'> 14:57 claude.ai</li>
+<li> 14:56 docs.google.com</li>
+<li class='same'> 14:55 docs.google.com</li>
+<li class='same'> 14:54 docs.google.com</li>
+<li class='same'> 14:53 docs.google.com</li>
+<li> 14:53 drive.google.com</li>
+<li> 14:47 www.google.com</li>
+<li> 14:43 chatgpt.com</li>
+<li> 14:43 chat.openai.com</li>
+<li> 14:40 mail.google.com</li>
+<li class='same'> 14:38 mail.google.com</li>
+<li class='same'> 14:31 mail.google.com</li>
+<li> 14:26 web.whatsapp.com</li>
+<li> 14:25 whitewaterwriters.com</li>
+<li> 14:24 mail.google.com</li>
+<li> 14:20 uofglasgow.zoom.us</li>
+<li> 14:20 mail.google.com</li>
+<li> 14:20 gmail.com</li>
+<li> 14:17 www.google.com</li>
 <li> 14:13 pure.royalholloway.ac.uk</li>
 <li> 14:13 www.google.com</li>
 <li> 14:12 rikkebjerg.gitlab.io</li>
