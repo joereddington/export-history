@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8257)</li>
+<ol><li>www.google.com (8261)</li>
 <li>mail.google.com (5814)</li>
-<li>outlook.office.com (3464)</li>
+<li>outlook.office.com (3465)</li>
 <li>www.facebook.com (2645)</li>
 <li>docs.google.com (1884)</li>
 <li>calendar.google.com (1402)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (635)</li>
 <li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (565)</li>
-<li>login.microsoftonline.com (498)</li>
+<li>login.microsoftonline.com (499)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (444)</li>
 <li>teams.microsoft.com (437)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:13 padlet.com</li>
+<ul><li> 14:08 accounts.intuit.com</li>
+<li> 13:59 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 13:57 www.royalholloway.ac.uk</li>
+<li> 13:57 pure.royalholloway.ac.uk</li>
+<li> 13:57 www.google.com</li>
+<li> 13:57 pure.royalholloway.ac.uk</li>
+<li> 13:57 www.google.com</li>
+<li> 13:56 pure.royalholloway.ac.uk</li>
+<li> 13:56 www.google.com</li>
+<li> 13:48 padlet.com</li>
+<li class='same'> 13:43 padlet.com</li>
+<li> 13:36 login.microsoftonline.com</li>
+<li> 13:27 padlet.com</li>
+<li> 13:23 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 13:21 outlook.office.com</li>
+<li> 13:20 padlet.com</li>
+<li class='same'> 13:19 padlet.com</li>
+<li> 13:19 www.google.com</li>
+<li> 13:18 padlet.com</li>
+<li class='same'> 13:17 padlet.com</li>
+<li class='same'> 13:13 padlet.com</li>
 <li> 13:11 projects.cs.rhul.ac.uk</li>
 <li> 13:11 outlook.office.com</li>
 <li> 13:11 outlook.office365.com</li>
