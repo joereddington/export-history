@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8261)</li>
-<li>mail.google.com (5814)</li>
-<li>outlook.office.com (3465)</li>
-<li>www.facebook.com (2645)</li>
+<ol><li>www.google.com (8262)</li>
+<li>mail.google.com (5815)</li>
+<li>outlook.office.com (3466)</li>
+<li>www.facebook.com (2649)</li>
 <li>docs.google.com (1884)</li>
 <li>calendar.google.com (1402)</li>
 <li>moodle.royalholloway.ac.uk (1261)</li>
-<li>www.reddit.com (1222)</li>
+<li>www.reddit.com (1231)</li>
 <li>www.amazon.co.uk (1208)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (829)</li>
-<li>www.theguardian.com (687)</li>
-<li>gmail.com (685)</li>
+<li>outlook.office365.com (831)</li>
+<li>www.theguardian.com (689)</li>
+<li>gmail.com (686)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (638)</li>
-<li>www.linkedin.com (635)</li>
+<li>www.linkedin.com (636)</li>
 <li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (565)</li>
 <li>login.microsoftonline.com (499)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (330)</li>
 <li>rhul-my.sharepoint.com (319)</li>
 <li>bsky.app (313)</li>
-<li>www.giantitp.com (305)</li>
+<li>www.giantitp.com (306)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:08 accounts.intuit.com</li>
+<ul><li> 14:58 www.facebook.com</li>
+<li class='same'> 14:57 www.facebook.com</li>
+<li class='same'> 14:56 www.facebook.com</li>
+<li class='same'> 14:55 www.facebook.com</li>
+<li> 14:46 outlook.office365.com</li>
+<li> 14:45 projects.cs.rhul.ac.uk</li>
+<li> 14:45 outlook.office.com</li>
+<li> 14:45 outlook.office365.com</li>
+<li> 14:43 www.theguardian.com</li>
+<li> 14:42 www.giantitp.com</li>
+<li> 14:42 mail.google.com</li>
+<li> 14:42 gmail.com</li>
+<li> 14:41 www.linkedin.com</li>
+<li> 14:41 www.schneier.com</li>
+<li> 14:39 feedly.com</li>
+<li> 14:39 www.google.com</li>
+<li> 14:37 www.theguardian.com</li>
+<li> 14:36 <a href="https://en.wikipedia.org/wiki/Sharon_Carter_(Marvel_Cinematic_Universe)">Sharon Carter (Marvel Cinematic Universe) - Wikipedia</a></li>
+<li> 14:36 <a href="https://en.wikipedia.org/wiki/Power_Broker_(Marvel_Cinematic_Universe)">Sharon Carter (Marvel Cinematic Universe) - Wikipedia</a></li>
+<li> 14:36 <a href="https://en.wikipedia.org/wiki/Power_Broker_(The_Falcon_and_the_Winter_Soldier)">Power Broker (The Falcon and the Winter Soldier) - Wikipedia</a></li>
+<li> 14:36 <a href="https://en.wikipedia.org/wiki/Talk:Power_Broker_(The_Falcon_and_the_Winter_Soldier)">Talk:Power Broker (The Falcon and the Winter Soldier) - Wikipedia</a></li>
+<li> 14:35 <a href="https://en.wikipedia.org/wiki/Power_Broker_(The_Falcon_and_the_Winter_Soldier)">Power Broker (The Falcon and the Winter Soldier) - Wikipedia</a></li>
+<li> 14:35 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:35 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:35 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:34 www.reddit.com</li>
+<li class='same'> 14:32 www.reddit.com</li>
+<li class='same'> 14:31 www.reddit.com</li>
+<li class='same'> 14:30 www.reddit.com</li>
+<li class='same'> 14:29 www.reddit.com</li>
+<li class='same'> 14:28 www.reddit.com</li>
+<li class='same'> 14:24 www.reddit.com</li>
+<li class='same'> 14:23 www.reddit.com</li>
+<li class='same'> 14:22 www.reddit.com</li>
+<li> 14:08 accounts.intuit.com</li>
 <li> 13:59 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 13:57 www.royalholloway.ac.uk</li>
 <li> 13:57 pure.royalholloway.ac.uk</li>
