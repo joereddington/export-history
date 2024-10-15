@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8228)</li>
-<li>mail.google.com (5783)</li>
+<ol><li>www.google.com (8237)</li>
+<li>mail.google.com (5786)</li>
 <li>outlook.office.com (3461)</li>
 <li>www.facebook.com (2638)</li>
-<li>docs.google.com (1881)</li>
+<li>docs.google.com (1883)</li>
 <li>calendar.google.com (1392)</li>
 <li>moodle.royalholloway.ac.uk (1261)</li>
-<li>www.reddit.com (1211)</li>
+<li>www.reddit.com (1217)</li>
 <li>www.amazon.co.uk (1204)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (816)</li>
-<li>www.theguardian.com (680)</li>
-<li>gmail.com (680)</li>
+<li>outlook.office365.com (817)</li>
+<li>www.theguardian.com (685)</li>
+<li>gmail.com (681)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (638)</li>
-<li>www.linkedin.com (626)</li>
+<li>www.linkedin.com (628)</li>
 <li>chat.openai.com (614)</li>
-<li>app.qbo.intuit.com (562)</li>
+<li>app.qbo.intuit.com (563)</li>
 <li>login.microsoftonline.com (495)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (440)</li>
 <li>teams.microsoft.com (436)</li>
+<li>drive.google.com (434)</li>
 <li>kdp.amazon.com (431)</li>
-<li>drive.google.com (429)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (330)</li>
 <li>rhul-my.sharepoint.com (319)</li>
 <li>bsky.app (313)</li>
-<li>www.giantitp.com (304)</li>
+<li>www.giantitp.com (305)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,82 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 15/10/24</H3>
+
+<br>
+
+<ul><li> 07:16 <a href="https://en.wikipedia.org/wiki/Bradford_Factor">Bradford Factor - Wikipedia</a></li>
+<li> 07:16 www.google.com</li>
+<li> 07:16 www.reddit.com</li>
+<li class='same'> 07:15 www.reddit.com</li>
+<li class='same'> 07:14 www.reddit.com</li>
+<li class='same'> 07:13 www.reddit.com</li>
+<li> 07:10 www.theguardian.com</li>
+<li class='same'> 07:09 www.theguardian.com</li>
+<li> 07:09 outlook.office365.com</li>
+<li> 07:09 www.linkedin.com</li>
+<li class='same'> 07:08 www.linkedin.com</li>
+<li> 07:06 qbo.intuit.com</li>
+<li class='same'> 07:05 qbo.intuit.com</li>
+<li class='same'> 07:04 qbo.intuit.com</li>
+<li class='same'> 07:03 qbo.intuit.com</li>
+<li class='same'> 07:02 qbo.intuit.com</li>
+<li> 07:02 accounts.intuit.com</li>
+<li> 07:02 qbo.intuit.com</li>
+<li> 07:02 app.qbo.intuit.com</li>
+<li> 07:02 mail.google.com</li>
+<li class='same'> 07:01 mail.google.com</li>
+<li class='same'> 06:59 mail.google.com</li>
+<li> 06:59 gmail.com</li>
+<li> 06:52 equalitytime.co.uk</li>
+<li> 06:52 equalitytime.github.io</li>
+<li> 06:50 www.theguardian.com</li>
+<li class='same'> 06:48 www.theguardian.com</li>
+<li> 06:46 www.dropbox.com</li>
+<li> 06:46 www.theguardian.com</li>
+<li> 06:46 www.dropbox.com</li>
+<li class='same'> 06:44 www.dropbox.com</li>
+<li class='same'> 06:43 www.dropbox.com</li>
+<li class='same'> 06:42 www.dropbox.com</li>
+<li class='same'> 06:41 www.dropbox.com</li>
+<li> 06:40 www.google.com</li>
+<li> 06:40 www.doxdirect.com</li>
+<li> 06:39 fast.com</li>
+<li> 06:39 www.doxdirect.com</li>
+<li> 06:38 doxzoo.com</li>
+<li class='same'> 06:37 doxzoo.com</li>
+<li> 06:37 www.inkylittlefingers.co.uk</li>
+<li> 06:37 www.google.com</li>
+<li> 06:36 ka-blam.com</li>
+<li> 06:36 www.google.com</li>
+<li> 06:36 www.reddit.com</li>
+<li> 06:36 imgur.com</li>
+<li> 06:35 www.reddit.com</li>
+<li> 06:35 www.google.com</li>
+<li> 06:33 drive.google.com</li>
+<li class='same'> 06:32 drive.google.com</li>
+<li> 06:31 www.dropbox.com</li>
+<li class='same'> 06:30 www.dropbox.com</li>
+<li class='same'> 06:29 www.dropbox.com</li>
+<li class='same'> 06:27 www.dropbox.com</li>
+<li class='same'> 06:26 www.dropbox.com</li>
+<li> 06:26 drive.google.com</li>
+<li> 06:26 www.dropbox.com</li>
+<li> 06:22 docs.google.com</li>
+<li> 06:20 drive.google.com</li>
+<li> 06:19 docs.google.com</li>
+<li> 06:19 drive.google.com</li>
+<li> 06:16 www.gov.uk</li>
+<li> 06:16 www.google.com</li>
+<li> 06:16 assets.publishing.service.gov.uk</li>
+<li> 06:16 www.gov.uk</li>
+<li class='same'> 06:15 www.gov.uk</li>
+<li> 06:13 assets.publishing.service.gov.uk</li>
+<li> 06:13 www.google.com</li>
+<li> 06:11 www.giantitp.com</li>
+<li> 06:09 www.google.com</li>
+<li> 06:08 books.google.co.uk</li>
+<li> 06:08 www.google.com</li>
+</ul>
 
 <br>
 
