@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8287)</li>
+<ol><li>www.google.com (8288)</li>
 <li>mail.google.com (5817)</li>
 <li>outlook.office.com (3466)</li>
 <li>www.facebook.com (2651)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (842)</li>
-<li>www.theguardian.com (707)</li>
+<li>www.theguardian.com (715)</li>
 <li>gmail.com (687)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (638)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:54 www.theguardian.com</li>
+<ul><li> 19:21 www.theguardian.com</li>
+<li class='same'> 19:14 www.theguardian.com</li>
+<li class='same'> 19:13 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:34 www.theguardian.com</li>
+<li class='same'> 18:33 www.theguardian.com</li>
+<li class='same'> 18:32 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:56 www.google.com</li>
+<li> 17:56 www.theguardian.com</li>
+<li class='same'> 17:55 www.theguardian.com</li>
+<li class='same'> 17:54 www.theguardian.com</li>
 <li> 17:26 mail.google.com</li>
 <li class='same'> 17:25 mail.google.com</li>
 <li> 17:25 gmail.com</li>
