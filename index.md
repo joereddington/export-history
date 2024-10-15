@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8241)</li>
-<li>mail.google.com (5789)</li>
+<ol><li>www.google.com (8248)</li>
+<li>mail.google.com (5792)</li>
 <li>outlook.office.com (3461)</li>
-<li>www.facebook.com (2640)</li>
-<li>docs.google.com (1883)</li>
+<li>www.facebook.com (2641)</li>
+<li>docs.google.com (1884)</li>
 <li>calendar.google.com (1392)</li>
 <li>moodle.royalholloway.ac.uk (1261)</li>
 <li>www.reddit.com (1218)</li>
@@ -108,7 +108,55 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:49 www.tickettailor.com</li>
+<ul><li> 09:23 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 09:23 www.google.com</li>
+<li> 09:21 <a href="https://en.wikipedia.org/wiki/Talk:Computer_security">Talk:Computer security - Wikipedia</a></li>
+<li> 09:21 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
+<li> 09:20 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security&diff=1251271611&oldid=1249156597">Computer security: Difference between revisions - Wikipedia</a></li>
+<li> 09:20 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security&diff=1251271611&oldid=1251271298">Computer security: Difference between revisions - Wikipedia</a></li>
+<li> 09:20 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security&action=history">Computer security: Revision history - Wikipedia</a></li>
+<li> 09:20 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
+<li> 09:20 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 09:20 www.google.com</li>
+<li> 09:18 www.tvlicensing.co.uk</li>
+<li> 09:17 <a href="https://en.wikipedia.org/wiki/Matrix_defense">Matrix defense - Wikipedia</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/wiki/The_Matrix_defense">Matrix defense - Wikipedia</a></li>
+<li> 09:16 <a href="https://en.wikipedia.org/wiki/Succ%C3%A8s_de_scandale">Succès de scandale - Wikipedia</a></li>
+<li> 09:15 <a href="https://en.wikipedia.org/wiki/Internet_water_army">Internet water army - Wikipedia</a></li>
+<li> 09:15 <a href="https://en.wikipedia.org/wiki/Category:Public_relations_techniques">Category:Public relations techniques - Wikipedia</a></li>
+<li> 09:15 www.google.com</li>
+<li> 09:14 <a href="https://en.wikipedia.org/wiki/Plea#Types_of_plea">Plea - Wikipedia</a></li>
+<li> 09:14 <a href="https://en.wikipedia.org/wiki/Not_guilty_plea">Plea - Wikipedia</a></li>
+<li> 09:14 <a href="https://en.wikipedia.org/wiki/Not_guilty">Not guilty - Wikipedia</a></li>
+<li> 09:14 www.google.com</li>
+<li> 09:14 <a href="https://en.wikipedia.org/wiki/Denial_(disambiguation)">Denial (disambiguation) - Wikipedia</a></li>
+<li> 09:14 <a href="https://en.wikipedia.org/wiki/Denial">Denial - Wikipedia</a></li>
+<li> 09:14 www.google.com</li>
+<li> 09:12 <a href="https://en.wikipedia.org/wiki/Talk:Shaggy_defense">Replying on Talk:Shaggy defense - Wikipedia</a></li>
+<li> 09:11 <a href="https://en.wikipedia.org/wiki/R._Kelly#Sexual_abuse_allegations">R. Kelly - Wikipedia</a></li>
+<li> 09:11 <a href="https://en.wikipedia.org/wiki/R._Kelly">R. Kelly - Wikipedia</a></li>
+<li> 09:10 <a href="https://en.wikipedia.org/wiki/R._Kelly_sexual_abuse_cases">R. Kelly sexual abuse cases - Wikipedia</a></li>
+<li> 09:10 <a href="https://en.wikipedia.org/wiki/R._Kelly">R. Kelly - Wikipedia</a></li>
+<li> 09:10 <a href="https://en.wikipedia.org/wiki/Shaggy_defense#Origin">Shaggy defense - Wikipedia</a></li>
+<li> 09:09 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit&section=1">Editing Shaggy defense - Wikipedia</a></li>
+<li> 09:09 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit">Shaggy defense - Wikipedia</a></li>
+<li> 09:08 <a href="https://en.wikipedia.org/wiki/Shaggy_defense#Use">Shaggy defense - Wikipedia</a></li>
+<li> 09:07 www.google.com</li>
+<li> 09:06 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit&section=2">Shaggy defense - Wikipedia</a></li>
+<li> 09:06 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit">Shaggy defense - Wikipedia</a></li>
+<li> 09:06 <a href="https://en.wikipedia.org/wiki/Drain_the_swamp">Drain the swamp - Wikipedia</a></li>
+<li> 09:06 <a href="https://en.wikipedia.org/wiki/Category:Sayings">Category:Sayings - Wikipedia</a></li>
+<li> 09:06 www.google.com</li>
+<li> 09:04 docs.google.com</li>
+<li> 08:55 www.facebook.com</li>
+<li> 08:55 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:54 mail.google.com</li>
+<li class='same'> 07:53 mail.google.com</li>
+<li> 07:49 www.tickettailor.com</li>
 <li> 07:48 www.facebook.com</li>
 <li class='same'> 07:47 www.facebook.com</li>
 <li> 07:47 mail.google.com</li>
@@ -123,9 +171,9 @@ With number of accesses/minutes in parentheses
 <li> 07:26 <a href="https://en.wikipedia.org/wiki/Inherently_funny_word">Inherently funny word - Wikipedia</a></li>
 <li> 07:26 www.google.com</li>
 <li> 07:26 <a href="https://en.wikipedia.org/wiki/Shaggy_defense#Use">Shaggy defense - Wikipedia</a></li>
-<li> 07:26 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit&section=2">Editing Shaggy defense - Wikipedia</a></li>
+<li> 07:26 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit&section=2">Shaggy defense - Wikipedia</a></li>
 <li> 07:25 <a href="https://en.wikipedia.org/wiki/Shaggy_defense">Shaggy defense - Wikipedia</a></li>
-<li> 07:25 <a href="https://en.wikipedia.org/wiki/Talk:Shaggy_defense">Talk:Shaggy defense - Wikipedia</a></li>
+<li> 07:25 <a href="https://en.wikipedia.org/wiki/Talk:Shaggy_defense">Replying on Talk:Shaggy defense - Wikipedia</a></li>
 <li> 07:24 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&curid=51708172&diff=1251113278&oldid=1245513127">Yahoo data breaches: Difference between revisions - Wikipedia</a></li>
 <li> 07:23 <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Computer_Security&curid=20806451&diff=1251172936&oldid=1250203512">Wikipedia talk:WikiProject Computer Security: Difference between revisions - Wikipedia</a></li>
 <li> 07:23 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_Security">Wikipedia talk:WikiProject Computer Security - Wikipedia</a></li>
@@ -1442,7 +1490,7 @@ With number of accesses/minutes in parentheses
 <li> 07:31 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit&section=1">Editing Shaggy defense - Wikipedia</a></li>
 <li> 07:30 <a href="https://en.wikipedia.org/wiki/Chewbacca_defense">Chewbacca defense - Wikipedia</a></li>
 <li> 07:30 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/Shaggy_defense">Pages that link to "Shaggy defense" - Wikipedia</a></li>
-<li> 07:29 <a href="https://en.wikipedia.org/wiki/Talk:Shaggy_defense">Talk:Shaggy defense - Wikipedia</a></li>
+<li> 07:29 <a href="https://en.wikipedia.org/wiki/Talk:Shaggy_defense">Replying on Talk:Shaggy defense - Wikipedia</a></li>
 <li> 07:28 <a href="https://en.wikipedia.org/wiki/Shaggy_defense">Shaggy defense - Wikipedia</a></li>
 <li> 07:28 outlook.office365.com</li>
 <li> 07:27 rhul-my.sharepoint.com</li>
