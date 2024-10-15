@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8250)</li>
-<li>mail.google.com (5807)</li>
+<li>mail.google.com (5810)</li>
 <li>outlook.office.com (3462)</li>
-<li>www.facebook.com (2641)</li>
+<li>www.facebook.com (2645)</li>
 <li>docs.google.com (1884)</li>
 <li>calendar.google.com (1402)</li>
 <li>moodle.royalholloway.ac.uk (1261)</li>
-<li>www.reddit.com (1219)</li>
+<li>www.reddit.com (1221)</li>
 <li>www.amazon.co.uk (1208)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (818)</li>
 <li>www.theguardian.com (687)</li>
-<li>gmail.com (683)</li>
+<li>gmail.com (684)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (638)</li>
-<li>www.linkedin.com (634)</li>
+<li>www.linkedin.com (635)</li>
 <li>chat.openai.com (614)</li>
-<li>app.qbo.intuit.com (563)</li>
+<li>app.qbo.intuit.com (565)</li>
 <li>login.microsoftonline.com (496)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (442)</li>
+<li>web.whatsapp.com (443)</li>
 <li>teams.microsoft.com (436)</li>
 <li>drive.google.com (434)</li>
 <li>kdp.amazon.com (431)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:13 web.whatsapp.com</li>
+<ul><li> 12:23 www.qiq.support</li>
+<li> 12:22 qbo.intuit.com</li>
+<li> 12:22 c14.qbo.intuit.com</li>
+<li> 12:22 app.qbo.intuit.com</li>
+<li> 12:20 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:20 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:20 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:16 www.facebook.com</li>
+<li class='same'> 12:13 www.facebook.com</li>
+<li> 12:11 web.whatsapp.com</li>
+<li> 12:11 www.facebook.com</li>
+<li class='same'> 12:10 www.facebook.com</li>
+<li> 12:07 www.reddit.com</li>
+<li class='same'> 12:06 www.reddit.com</li>
+<li> 12:05 www.linkedin.com</li>
+<li> 11:58 mail.google.com</li>
+<li class='same'> 11:51 mail.google.com</li>
+<li class='same'> 11:49 mail.google.com</li>
+<li> 11:49 gmail.com</li>
+<li> 11:42 www.natwest.com</li>
+<li> 11:31 www.onlinebanking.natwest.com</li>
+<li> 11:31 www.natwest.com</li>
+<li> 11:30 qbo.intuit.com</li>
+<li class='same'> 11:29 qbo.intuit.com</li>
+<li class='same'> 11:28 qbo.intuit.com</li>
+<li> 11:28 accounts.intuit.com</li>
+<li> 11:28 qbo.intuit.com</li>
+<li> 11:28 app.qbo.intuit.com</li>
+<li> 11:28 c14.qbo.intuit.com</li>
+<li> 11:13 web.whatsapp.com</li>
 <li> 11:04 www.reddit.com</li>
 <li> 11:01 www.theguardian.com</li>
 <li> 11:00 outlook.office.com</li>
