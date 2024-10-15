@@ -70,26 +70,26 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8250)</li>
 <li>mail.google.com (5807)</li>
-<li>outlook.office.com (3461)</li>
+<li>outlook.office.com (3462)</li>
 <li>www.facebook.com (2641)</li>
 <li>docs.google.com (1884)</li>
-<li>calendar.google.com (1400)</li>
+<li>calendar.google.com (1402)</li>
 <li>moodle.royalholloway.ac.uk (1261)</li>
-<li>www.reddit.com (1218)</li>
+<li>www.reddit.com (1219)</li>
 <li>www.amazon.co.uk (1208)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (817)</li>
-<li>www.theguardian.com (686)</li>
+<li>outlook.office365.com (818)</li>
+<li>www.theguardian.com (687)</li>
 <li>gmail.com (683)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (638)</li>
-<li>www.linkedin.com (632)</li>
+<li>www.linkedin.com (634)</li>
 <li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (563)</li>
-<li>login.microsoftonline.com (495)</li>
+<li>login.microsoftonline.com (496)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (441)</li>
+<li>web.whatsapp.com (442)</li>
 <li>teams.microsoft.com (436)</li>
 <li>drive.google.com (434)</li>
 <li>kdp.amazon.com (431)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:22 www.google.com</li>
+<ul><li> 11:13 web.whatsapp.com</li>
+<li> 11:04 www.reddit.com</li>
+<li> 11:01 www.theguardian.com</li>
+<li> 11:00 outlook.office.com</li>
+<li> 11:00 login.microsoftonline.com</li>
+<li> 10:59 www.linkedin.com</li>
+<li class='same'> 10:57 www.linkedin.com</li>
+<li> 10:42 outlook.office365.com</li>
+<li> 10:41 calendar.google.com</li>
+<li class='same'> 10:36 calendar.google.com</li>
+<li> 10:22 www.google.com</li>
 <li> 10:16 mail.google.com</li>
 <li> 10:15 <a href="https://en.wikipedia.org/wiki/I_Write_Sins_Not_Tragedies">I Write Sins Not Tragedies - Wikipedia</a></li>
 <li> 10:15 www.google.com</li>
