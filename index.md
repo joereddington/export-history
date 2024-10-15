@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8243)</li>
+<ol><li>www.google.com (8228)</li>
 <li>mail.google.com (5783)</li>
 <li>outlook.office.com (3461)</li>
 <li>www.facebook.com (2638)</li>
@@ -16634,24 +16634,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:43 www.buzzfeed.com</li>
 <li> 19:42 mail.google.com</li>
 <li> 19:42 www.google.com</li>
-<li class='same'> 19:41 www.google.com</li>
 <li> 19:21 docs.google.com</li>
 <li class='same'> 19:20 docs.google.com</li>
-<li> 19:20 www.google.com</li>
-<li class='same'> 19:19 www.google.com</li>
-<li class='same'> 19:18 www.google.com</li>
-<li> 19:17 docs.google.com</li>
-<li> 19:17 www.google.com</li>
-<li class='same'> 19:16 www.google.com</li>
-<li class='same'> 19:15 www.google.com</li>
+<li class='same'> 19:17 docs.google.com</li>
 <li> 19:14 www.facebook.com</li>
 <li class='same'> 19:13 www.facebook.com</li>
-<li> 19:13 www.google.com</li>
-<li class='same'> 19:12 www.google.com</li>
-<li class='same'> 19:11 www.google.com</li>
-<li class='same'> 19:10 www.google.com</li>
 <li> 19:10 docs.google.com</li>
-<li> 19:09 www.google.com</li>
 <li> 19:09 www.stcatherinesnewcastle.org</li>
 <li class='same'> 19:08 www.stcatherinesnewcastle.org</li>
 <li> 19:08 stcatherinesnewcastle.org</li>
@@ -16669,7 +16657,6 @@ With number of accesses/minutes in parentheses
 <li> 19:05 mail.google.com</li>
 <li> 19:05 gmail.com</li>
 <li> 19:05 www.google.com</li>
-<li> 19:05 maps.google.com</li>
 <li> 19:04 lfata.org.uk</li>
 <li> 19:04 www.google.com</li>
 </ul>
@@ -16735,8 +16722,7 @@ With number of accesses/minutes in parentheses
 <li> 12:20 claude.ai</li>
 <li class='same'> 11:58 claude.ai</li>
 <li> 11:53 kdp.amazon.com</li>
-<li> 11:49 cc.amazon.com</li>
-<li> 11:37 kdp.amazon.com</li>
+<li class='same'> 11:37 kdp.amazon.com</li>
 <li> 11:32 discord.com</li>
 <li> 11:30 chatgpt.com</li>
 <li> 11:30 chat.openai.com</li>
@@ -16772,13 +16758,10 @@ With number of accesses/minutes in parentheses
 <li> 08:07 www.theguardian.com</li>
 <li> 07:55 www.google.com</li>
 <li> 07:55 <a href="https://en.wikipedia.org/wiki/St_Aloysius%27_College,_Highgate">St Aloysius' College, Highgate - Wikipedia</a></li>
-<li> 07:54 www.google.com</li>
-<li class='same'> 07:53 www.google.com</li>
-<li> 07:53 www.shaftesburyyoungpeople.org</li>
 <li> 07:53 www.google.com</li>
+<li> 07:53 www.shaftesburyyoungpeople.org</li>
 <li> 07:52 docs.google.com</li>
-<li> 07:52 www.google.com</li>
-<li class='same'> 07:51 www.google.com</li>
+<li> 07:51 www.google.com</li>
 <li> 07:50 docs.google.com</li>
 <li> 07:49 www.penkethhigh.org</li>
 <li> 07:49 docs.google.com</li>
