@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8264)</li>
-<li>mail.google.com (5815)</li>
+<ol><li>www.google.com (8287)</li>
+<li>mail.google.com (5817)</li>
 <li>outlook.office.com (3466)</li>
 <li>www.facebook.com (2651)</li>
 <li>docs.google.com (1884)</li>
@@ -80,8 +80,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (842)</li>
-<li>www.theguardian.com (690)</li>
-<li>gmail.com (686)</li>
+<li>www.theguardian.com (707)</li>
+<li>gmail.com (687)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (638)</li>
 <li>www.linkedin.com (637)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:22 deeplibby.com</li>
+<ul><li> 17:54 www.theguardian.com</li>
+<li> 17:26 mail.google.com</li>
+<li class='same'> 17:25 mail.google.com</li>
+<li> 17:25 gmail.com</li>
+<li> 17:23 deeplibby.com</li>
+<li> 17:23 libbyapp.com</li>
+<li class='same'> 17:22 libbyapp.com</li>
+<li> 17:22 deeplibby.com</li>
 <li> 17:22 www.reddit.com</li>
 <li class='same'> 17:21 www.reddit.com</li>
 <li class='same'> 17:20 www.reddit.com</li>
@@ -135,6 +142,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:59 outlook.office365.com</li>
 <li> 16:58 www.linkedin.com</li>
 <li> 16:45 www.theguardian.com</li>
+<li> 16:27 www.ign.com</li>
+<li> 16:27 www.google.com</li>
+<li> 16:24 www.npr.org</li>
+<li> 16:23 www.menshealth.com</li>
+<li> 16:23 www.google.com</li>
 </ul>
 
 <br>
@@ -957,6 +969,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 16:08 www.google.com</li>
+<li class='same'> 15:58 www.google.com</li>
+<li class='same'> 15:57 www.google.com</li>
+<li class='same'> 15:53 www.google.com</li>
+<li> 15:53 www.theguardian.com</li>
+<li class='same'> 15:49 www.theguardian.com</li>
+<li class='same'> 15:42 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:26 www.theguardian.com</li>
+<li class='same'> 14:24 www.theguardian.com</li>
+<li class='same'> 14:21 www.theguardian.com</li>
+<li class='same'> 14:15 www.theguardian.com</li>
+<li class='same'> 14:13 www.theguardian.com</li>
+<li> 14:12 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+</ul>
+
+<br>
+
+<ul><li> 13:18 www.theguardian.com</li>
+<li> 13:08 www.natesilver.net</li>
+<li> 13:08 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:13 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 09:30 web.whatsapp.com</li>
 <li> 09:29 www.reddit.com</li>
 <li class='same'> 09:28 www.reddit.com</li>
@@ -1113,7 +1158,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li class='same'> 16:28 www.google.com</li>
+<li class='same'> 16:27 www.google.com</li>
+<li> 16:27 www.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:56 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:36 www.theguardian.com</li>
+<li class='same'> 11:18 www.theguardian.com</li>
+<li> 11:17 www.google.com</li>
+<li class='same'> 10:58 www.google.com</li>
+<li class='same'> 10:57 www.google.com</li>
+<li class='same'> 10:56 www.google.com</li>
+<li class='same'> 10:55 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:24 www.google.com</li>
+<li> 10:24 descendants.fandom.com</li>
+<li> 10:23 www.google.com</li>
+<li class='same'> 10:22 www.google.com</li>
+<li> 10:22 www.vox.com</li>
+<li> 10:22 www.google.com</li>
+<li> 10:22 www.vox.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:44 www.vox.com</li>
+<li> 09:44 www.google.com</li>
+<li> 09:43 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -1391,7 +1472,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:22 www.theguardian.com</li>
+<ul><li> 08:04 www.theguardian.com</li>
+<li class='same'> 07:46 www.theguardian.com</li>
+<li> 07:43 www.fastcompany.com</li>
+<li> 07:22 www.theguardian.com</li>
 <li class='same'> 07:21 www.theguardian.com</li>
 <li> 07:16 outlook.office365.com</li>
 <li> 07:14 www.theguardian.com</li>
@@ -1414,6 +1498,23 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:58 www.theguardian.com</li>
+<li> 21:57 x.com</li>
+<li> 21:57 www.google.com</li>
+<li> 21:55 theonion.com</li>
+<li> 21:55 reductress.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:19 reductress.com</li>
+<li> 20:16 www.thedailymash.co.uk</li>
+<li class='same'> 20:15 www.thedailymash.co.uk</li>
+<li> 20:15 www.google.com</li>
+</ul>
 
 <br>
 
@@ -1576,7 +1677,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:39 www.ncsc.gov.uk</li>
+<ul><li> 09:41 www.google.com</li>
+<li> 09:40 www.ncsc.gov.uk</li>
+<li class='same'> 09:39 www.ncsc.gov.uk</li>
 <li> 09:38 www.google.com</li>
 <li> 09:24 docs.google.com</li>
 <li class='same'> 09:23 docs.google.com</li>
@@ -72137,6 +72240,7 @@ With number of accesses/minutes in parentheses
 <li> 11:02 www.ebay.co.uk</li>
 <li> 10:58 joereddington.github.io</li>
 <li> 10:46 www.ebay.co.uk</li>
+<li> 10:46 accountsettings.ebay.co.uk</li>
 <li> 10:45 mesg.ebay.co.uk</li>
 <li class='same'> 10:34 mesg.ebay.co.uk</li>
 <li> 10:33 www.ebay.co.uk</li>
@@ -72179,6 +72283,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:15 www.amazon.co.uk</li>
+<li> 17:14 accountsettings.ebay.co.uk</li>
 <li> 17:11 www.reddit.com</li>
 <li> 17:11 mesg.ebay.co.uk</li>
 <li> 17:09 www.facebook.com</li>
@@ -74434,6 +74539,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:45 panel.dreamhost.com</li>
 <li> 14:45 www.dreamhost.com</li>
 <li> 14:38 www.paypal.com</li>
+<li class='same'> 14:37 www.paypal.com</li>
 <li class='same'> 14:36 www.paypal.com</li>
 <li> 14:26 equalitytime.co.uk</li>
 <li class='same'> 14:23 equalitytime.co.uk</li>
