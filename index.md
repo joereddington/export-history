@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8248)</li>
-<li>mail.google.com (5792)</li>
+<ol><li>www.google.com (8250)</li>
+<li>mail.google.com (5807)</li>
 <li>outlook.office.com (3461)</li>
 <li>www.facebook.com (2641)</li>
 <li>docs.google.com (1884)</li>
-<li>calendar.google.com (1392)</li>
+<li>calendar.google.com (1400)</li>
 <li>moodle.royalholloway.ac.uk (1261)</li>
 <li>www.reddit.com (1218)</li>
-<li>www.amazon.co.uk (1204)</li>
+<li>www.amazon.co.uk (1208)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (817)</li>
 <li>www.theguardian.com (686)</li>
-<li>gmail.com (682)</li>
+<li>gmail.com (683)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (638)</li>
-<li>www.linkedin.com (628)</li>
+<li>www.linkedin.com (632)</li>
 <li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (563)</li>
 <li>login.microsoftonline.com (495)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (440)</li>
+<li>web.whatsapp.com (441)</li>
 <li>teams.microsoft.com (436)</li>
 <li>drive.google.com (434)</li>
 <li>kdp.amazon.com (431)</li>
@@ -108,7 +108,60 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:23 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<ul><li> 10:22 www.google.com</li>
+<li> 10:16 mail.google.com</li>
+<li> 10:15 <a href="https://en.wikipedia.org/wiki/I_Write_Sins_Not_Tragedies">I Write Sins Not Tragedies - Wikipedia</a></li>
+<li> 10:15 www.google.com</li>
+<li> 10:15 ppcapp.ebay.co.uk</li>
+<li> 10:14 accounts.ebay.co.uk</li>
+<li> 10:14 signin.ebay.co.uk</li>
+<li> 10:14 accountsettings.ebay.co.uk</li>
+<li> 10:14 www.ebay.co.uk</li>
+<li> 10:13 mail.google.com</li>
+<li> 10:13 calendar.google.com</li>
+<li class='same'> 10:11 calendar.google.com</li>
+<li> 10:11 mail.google.com</li>
+<li class='same'> 10:10 mail.google.com</li>
+<li class='same'> 10:09 mail.google.com</li>
+<li> 10:09 calendar.google.com</li>
+<li> 10:08 www.amazon.co.uk</li>
+<li> 10:08 mail.google.com</li>
+<li> 10:07 www.qiq.support</li>
+<li> 10:06 www.paypal.com</li>
+<li class='same'> 10:05 www.paypal.com</li>
+<li class='same'> 10:02 www.paypal.com</li>
+<li class='same'> 10:01 www.paypal.com</li>
+<li> 10:00 mail.google.com</li>
+<li> 10:00 calendar.google.com</li>
+<li> 09:57 mail.google.com</li>
+<li class='same'> 09:56 mail.google.com</li>
+<li> 09:56 calendar.google.com</li>
+<li> 09:55 www.qiq.support</li>
+<li> 09:53 calendar.google.com</li>
+<li> 09:52 web.whatsapp.com</li>
+<li> 09:52 www.paypal.com</li>
+<li class='same'> 09:51 www.paypal.com</li>
+<li class='same'> 09:50 www.paypal.com</li>
+<li> 09:50 mail.google.com</li>
+<li class='same'> 09:48 mail.google.com</li>
+<li class='same'> 09:47 mail.google.com</li>
+<li> 09:47 calendar.google.com</li>
+<li> 09:47 mail.google.com</li>
+<li class='same'> 09:46 mail.google.com</li>
+<li> 09:46 www.amazon.co.uk</li>
+<li> 09:46 mail.google.com</li>
+<li> 09:46 gmail.com</li>
+<li> 09:46 www.amazon.co.uk</li>
+<li class='same'> 09:45 www.amazon.co.uk</li>
+<li> 09:44 www.qiq.support</li>
+<li> 09:42 calendar.google.com</li>
+<li> 09:39 claude.ai</li>
+<li class='same'> 09:38 claude.ai</li>
+<li> 09:35 www.linkedin.com</li>
+<li class='same'> 09:34 www.linkedin.com</li>
+<li class='same'> 09:31 www.linkedin.com</li>
+<li class='same'> 09:30 www.linkedin.com</li>
+<li> 09:23 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
 <li> 09:23 www.google.com</li>
 <li> 09:21 <a href="https://en.wikipedia.org/wiki/Talk:Computer_security">Talk:Computer security - Wikipedia</a></li>
 <li> 09:21 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
