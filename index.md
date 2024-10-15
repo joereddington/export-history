@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8237)</li>
-<li>mail.google.com (5786)</li>
+<ol><li>www.google.com (8241)</li>
+<li>mail.google.com (5789)</li>
 <li>outlook.office.com (3461)</li>
-<li>www.facebook.com (2638)</li>
+<li>www.facebook.com (2640)</li>
 <li>docs.google.com (1883)</li>
 <li>calendar.google.com (1392)</li>
 <li>moodle.royalholloway.ac.uk (1261)</li>
-<li>www.reddit.com (1217)</li>
+<li>www.reddit.com (1218)</li>
 <li>www.amazon.co.uk (1204)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (817)</li>
-<li>www.theguardian.com (685)</li>
-<li>gmail.com (681)</li>
+<li>www.theguardian.com (686)</li>
+<li>gmail.com (682)</li>
 <li>tvtropes.org (648)</li>
 <li>whitewaterwriters.com (638)</li>
 <li>www.linkedin.com (628)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:16 <a href="https://en.wikipedia.org/wiki/Bradford_Factor">Bradford Factor - Wikipedia</a></li>
+<ul><li> 07:49 www.tickettailor.com</li>
+<li> 07:48 www.facebook.com</li>
+<li class='same'> 07:47 www.facebook.com</li>
+<li> 07:47 mail.google.com</li>
+<li class='same'> 07:41 mail.google.com</li>
+<li class='same'> 07:36 mail.google.com</li>
+<li> 07:36 gmail.com</li>
+<li> 07:30 www.google.com</li>
+<li> 07:28 www.reddit.com</li>
+<li> 07:28 www.google.com</li>
+<li> 07:27 en.wiktionary.org</li>
+<li> 07:27 <a href="https://en.wikipedia.org/wiki/List_of_proverbial_phrases">List of proverbial phrases - Wikipedia</a></li>
+<li> 07:26 <a href="https://en.wikipedia.org/wiki/Inherently_funny_word">Inherently funny word - Wikipedia</a></li>
+<li> 07:26 www.google.com</li>
+<li> 07:26 <a href="https://en.wikipedia.org/wiki/Shaggy_defense#Use">Shaggy defense - Wikipedia</a></li>
+<li> 07:26 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&action=edit&section=2">Editing Shaggy defense - Wikipedia</a></li>
+<li> 07:25 <a href="https://en.wikipedia.org/wiki/Shaggy_defense">Shaggy defense - Wikipedia</a></li>
+<li> 07:25 <a href="https://en.wikipedia.org/wiki/Talk:Shaggy_defense">Talk:Shaggy defense - Wikipedia</a></li>
+<li> 07:24 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&curid=51708172&diff=1251113278&oldid=1245513127">Yahoo data breaches: Difference between revisions - Wikipedia</a></li>
+<li> 07:23 <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Computer_Security&curid=20806451&diff=1251172936&oldid=1250203512">Wikipedia talk:WikiProject Computer Security: Difference between revisions - Wikipedia</a></li>
+<li> 07:23 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_Security">Wikipedia talk:WikiProject Computer Security - Wikipedia</a></li>
+<li> 07:23 <a href="https://en.wikipedia.org/w/index.php?title=Information_security_standards&curid=3392742&diff=1251175197&oldid=1251086091">Information security standards: Difference between revisions - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol">Hyper Text Coffee Pot Control Protocol - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:21 feedly.com</li>
+<li> 07:20 www.theguardian.com</li>
+<li> 07:19 www.pokernews.com</li>
+<li> 07:19 www.google.com</li>
+<li> 07:16 <a href="https://en.wikipedia.org/wiki/Bradford_Factor">Bradford Factor - Wikipedia</a></li>
 <li> 07:16 www.google.com</li>
 <li> 07:16 www.reddit.com</li>
 <li class='same'> 07:15 www.reddit.com</li>
