@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8293)</li>
+<ol><li>www.google.com (8295)</li>
 <li>mail.google.com (5818)</li>
 <li>outlook.office.com (3466)</li>
 <li>www.facebook.com (2651)</li>
-<li>docs.google.com (1887)</li>
+<li>docs.google.com (1889)</li>
 <li>calendar.google.com (1403)</li>
 <li>moodle.royalholloway.ac.uk (1261)</li>
 <li>www.reddit.com (1242)</li>
-<li>www.amazon.co.uk (1210)</li>
+<li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (844)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:09 docs.google.com</li>
+<ul><li> 07:19 docs.google.com</li>
+<li class='same'> 07:18 docs.google.com</li>
+<li> 07:15 claude.ai</li>
+<li class='same'> 07:14 claude.ai</li>
+<li> 07:13 <a href="https://en.wikipedia.org/wiki/Stellan_Skarsg%C3%A5rd">Stellan Skarsgård - Wikipedia</a></li>
+<li> 07:12 <a href="https://en.wikipedia.org/wiki/Alexander_Skarsg%C3%A5rd">Alexander Skarsgård - Wikipedia</a></li>
+<li> 07:12 <a href="https://en.wikipedia.org/wiki/The_Murderbot_Diaries">The Murderbot Diaries - Wikipedia</a></li>
+<li> 07:11 www.google.com</li>
+<li> 07:10 www.amazon.co.uk</li>
+<li> 07:10 www.google.com</li>
+<li> 07:09 docs.google.com</li>
 <li> 07:08 www.amazon.co.uk</li>
 <li> 07:08 www.google.com</li>
 <li> 07:08 www.amazon.co.uk</li>
