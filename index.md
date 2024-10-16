@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8317)</li>
-<li>mail.google.com (5872)</li>
-<li>outlook.office.com (3487)</li>
-<li>www.facebook.com (2658)</li>
+<ol><li>www.google.com (8322)</li>
+<li>mail.google.com (5874)</li>
+<li>outlook.office.com (3489)</li>
+<li>www.facebook.com (2667)</li>
 <li>docs.google.com (1894)</li>
 <li>calendar.google.com (1412)</li>
+<li>www.reddit.com (1277)</li>
 <li>moodle.royalholloway.ac.uk (1266)</li>
-<li>www.reddit.com (1265)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (330)</li>
 <li>rhul-my.sharepoint.com (326)</li>
+<li>www.giantitp.com (315)</li>
 <li>bsky.app (313)</li>
-<li>www.giantitp.com (310)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,60 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:24 www.reddit.com</li>
+<ul><li> 21:14 www.facebook.com</li>
+<li class='same'> 21:13 www.facebook.com</li>
+<li class='same'> 21:12 www.facebook.com</li>
+<li class='same'> 21:11 www.facebook.com</li>
+<li class='same'> 21:09 www.facebook.com</li>
+<li class='same'> 21:08 www.facebook.com</li>
+<li class='same'> 21:07 www.facebook.com</li>
+<li> 21:07 www.google.com</li>
+<li class='same'> 21:06 www.google.com</li>
+<li> 21:06 www.wayfair.co.uk</li>
+<li> 21:06 www.google.com</li>
+<li> 21:05 www.facebook.com</li>
+<li class='same'> 21:04 www.facebook.com</li>
+<li> 21:03 www.ebay.co.uk</li>
+<li class='same'> 21:02 www.ebay.co.uk</li>
+<li> 21:02 mesg.ebay.co.uk</li>
+<li> 21:02 www.ebay.co.uk</li>
+<li class='same'> 21:01 www.ebay.co.uk</li>
+<li class='same'> 21:00 www.ebay.co.uk</li>
+<li> 20:59 www.google.com</li>
+<li> 20:59 www.ebay.co.uk</li>
+<li> 20:59 www.google.com</li>
+<li> 20:58 www.ebay.co.uk</li>
+<li> 20:58 mesg.ebay.co.uk</li>
+<li> 20:58 www.ebay.co.uk</li>
+<li> 20:56 mail.google.com</li>
+<li> 20:55 outlook.office.com</li>
+<li> 20:54 cisse.info</li>
+<li> 20:53 mail.google.com</li>
+<li> 20:50 cisse.info</li>
+<li> 20:49 www.reddit.com</li>
+<li class='same'> 20:48 www.reddit.com</li>
+<li> 20:47 outlook.office.com</li>
+<li> 20:46 www.reddit.com</li>
+<li> 20:46 www.giantitp.com</li>
+<li class='same'> 20:45 www.giantitp.com</li>
+<li class='same'> 20:44 www.giantitp.com</li>
+<li> 20:39 www.reddit.com</li>
+<li class='same'> 20:36 www.reddit.com</li>
+<li> 20:36 app.gumroad.com</li>
+<li> 20:35 richburlew.gumroad.com</li>
+<li> 20:35 www.reddit.com</li>
+<li> 20:34 www.ebay.co.uk</li>
+<li class='same'> 20:33 www.ebay.co.uk</li>
+<li class='same'> 20:32 www.ebay.co.uk</li>
+<li> 20:32 www.reddit.com</li>
+<li class='same'> 20:31 www.reddit.com</li>
+<li class='same'> 20:30 www.reddit.com</li>
+<li class='same'> 20:28 www.reddit.com</li>
+<li class='same'> 20:27 www.reddit.com</li>
+<li class='same'> 20:26 www.reddit.com</li>
+<li> 20:26 www.giantitp.com</li>
+<li class='same'> 20:25 www.giantitp.com</li>
+<li> 20:24 www.reddit.com</li>
 <li> 20:22 www.giantitp.com</li>
 <li> 20:21 www.reddit.com</li>
 <li> 20:21 www.google.com</li>
