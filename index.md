@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8292)</li>
-<li>mail.google.com (5824)</li>
+<li>mail.google.com (5827)</li>
 <li>outlook.office.com (3466)</li>
 <li>www.facebook.com (2656)</li>
 <li>docs.google.com (1894)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (855)</li>
 <li>www.theguardian.com (717)</li>
-<li>gmail.com (689)</li>
+<li>gmail.com (690)</li>
 <li>tvtropes.org (648)</li>
 <li>www.linkedin.com (638)</li>
 <li>whitewaterwriters.com (638)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (444)</li>
 <li>teams.microsoft.com (437)</li>
-<li>drive.google.com (435)</li>
+<li>drive.google.com (436)</li>
 <li>kdp.amazon.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (330)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:47 eur03.safelinks.protection.outlook.com</li>
+<ul><li> 09:53 claude.ai</li>
+<li> 09:53 drive.usercontent.google.com</li>
+<li> 09:53 Local file</li>
+<li> 09:52 drive.google.com</li>
+<li> 09:52 mail.google.com</li>
+<li class='same'> 09:51 mail.google.com</li>
+<li class='same'> 09:50 mail.google.com</li>
+<li> 09:50 gmail.com</li>
+<li> 09:47 claude.ai</li>
+<li> 09:47 engagementhub.ukri.org</li>
+<li> 09:47 eur03.safelinks.protection.outlook.com</li>
 <li> 09:47 engagementhub.ukri.org</li>
 <li> 09:47 outlook.office365.com</li>
 <li class='same'> 09:46 outlook.office365.com</li>
