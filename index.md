@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8306)</li>
-<li>mail.google.com (5868)</li>
+<li>mail.google.com (5871)</li>
 <li>outlook.office.com (3477)</li>
 <li>www.facebook.com (2656)</li>
 <li>docs.google.com (1894)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (722)</li>
 <li>gmail.com (697)</li>
 <li>tvtropes.org (649)</li>
-<li>www.linkedin.com (643)</li>
+<li>www.linkedin.com (644)</li>
 <li>whitewaterwriters.com (638)</li>
 <li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (567)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:11 mail.google.com</li>
+<ul><li> 14:23 claude.ai</li>
+<li> 14:22 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 14:18 mail.google.com</li>
+<li> 14:18 www.linkedin.com</li>
+<li> 14:18 mail.google.com</li>
+<li class='same'> 14:12 mail.google.com</li>
+<li class='same'> 14:11 mail.google.com</li>
 <li class='same'> 14:10 mail.google.com</li>
 <li> 14:10 Local file</li>
 <li> 14:02 mail.google.com</li>
