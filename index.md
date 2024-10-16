@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8306)</li>
+<ol><li>www.google.com (8309)</li>
 <li>mail.google.com (5872)</li>
 <li>outlook.office.com (3477)</li>
 <li>www.facebook.com (2656)</li>
 <li>docs.google.com (1894)</li>
 <li>calendar.google.com (1412)</li>
 <li>moodle.royalholloway.ac.uk (1266)</li>
-<li>www.reddit.com (1254)</li>
+<li>www.reddit.com (1256)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
@@ -108,8 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:58 www.linkedin.com</li>
+<ul><li> 15:02 www.google.com</li>
+<li> 15:02 www.nhs.uk</li>
+<li> 15:02 www.google.com</li>
+<li class='same'> 15:01 www.google.com</li>
+<li> 15:00 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:58 www.linkedin.com</li>
 <li> 14:58 mail.google.com</li>
+<li> 14:56 www.reddit.com</li>
+<li class='same'> 14:55 www.reddit.com</li>
 <li> 14:54 <a href="https://en.wikipedia.org/wiki/Garry_Hoy">Death of Garry Hoy - Wikipedia</a></li>
 <li> 14:54 <a href="https://en.wikipedia.org/wiki/Death_of_Garry_Hoy">Death of Garry Hoy - Wikipedia</a></li>
 <li> 14:53 <a href="https://en.wikipedia.org/wiki/Darwin_Awards">Darwin Awards - Wikipedia</a></li>
