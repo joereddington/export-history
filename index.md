@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8296)</li>
 <li>mail.google.com (5827)</li>
-<li>outlook.office.com (3466)</li>
+<li>outlook.office.com (3469)</li>
 <li>www.facebook.com (2656)</li>
 <li>docs.google.com (1894)</li>
 <li>calendar.google.com (1404)</li>
@@ -79,15 +79,15 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (855)</li>
+<li>outlook.office365.com (856)</li>
 <li>www.theguardian.com (717)</li>
 <li>gmail.com (690)</li>
 <li>tvtropes.org (648)</li>
-<li>www.linkedin.com (638)</li>
+<li>www.linkedin.com (639)</li>
 <li>whitewaterwriters.com (638)</li>
 <li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (565)</li>
-<li>login.microsoftonline.com (502)</li>
+<li>login.microsoftonline.com (505)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (444)</li>
 <li>teams.microsoft.com (437)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (330)</li>
-<li>rhul-my.sharepoint.com (323)</li>
+<li>rhul-my.sharepoint.com (324)</li>
 <li>bsky.app (313)</li>
 <li>www.giantitp.com (307)</li>
 
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 www.ukri.org</li>
+<ul><li> 10:35 outlook.office.com</li>
+<li> 10:35 login.microsoftonline.com</li>
+<li> 10:35 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
+<li> 10:34 login.microsoftonline.com</li>
+<li> 10:34 forms.office.com</li>
+<li> 10:34 rhul-my.sharepoint.com</li>
+<li> 10:34 forms.office.com</li>
+<li> 10:33 outlook.office.com</li>
+<li> 10:33 login.microsoftonline.com</li>
+<li> 10:33 outlook.office365.com</li>
+<li> 10:33 outlook.office.com</li>
+<li> 10:33 mail.rhul.ac.uk</li>
+<li> 10:32 www.linkedin.com</li>
+<li> 10:31 engagementhub.ukri.org</li>
+<li> 10:29 www.ukri.org</li>
 <li> 10:29 www.google.com</li>
 <li> 10:28 engagementhub.ukri.org</li>
 <li> 10:27 <a href="https://xkcd.com/simplewriter/"></a></li>
