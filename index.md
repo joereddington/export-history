@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8313)</li>
+<ol><li>www.google.com (8316)</li>
 <li>mail.google.com (5872)</li>
 <li>outlook.office.com (3486)</li>
 <li>www.facebook.com (2658)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:30 www.google.com</li>
+<ul><li> 17:02 www.google.com</li>
+<li class='same'> 17:01 www.google.com</li>
+<li> 16:35 scholar.google.com</li>
+<li> 16:35 www.google.com</li>
+<li class='same'> 16:30 www.google.com</li>
 <li> 16:28 <a href="https://en.wikipedia.org/wiki/Chartered_Institute_of_Information_Security#History">Chartered Institute of Information Security - Wikipedia</a></li>
 <li> 16:28 <a href="https://en.wikipedia.org/w/index.php?title=Chartered_Institute_of_Information_Security&action=edit&section=3">Editing Chartered Institute of Information Security - Wikipedia</a></li>
 <li> 16:27 <a href="https://en.wikipedia.org/wiki/UK_cyber_security_community">UK cyber security community - Wikipedia</a></li>
