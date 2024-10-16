@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8303)</li>
-<li>mail.google.com (5855)</li>
+<ol><li>www.google.com (8306)</li>
+<li>mail.google.com (5866)</li>
 <li>outlook.office.com (3477)</li>
 <li>www.facebook.com (2656)</li>
 <li>docs.google.com (1894)</li>
 <li>calendar.google.com (1412)</li>
 <li>moodle.royalholloway.ac.uk (1265)</li>
-<li>www.reddit.com (1243)</li>
+<li>www.reddit.com (1247)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (879)</li>
-<li>www.theguardian.com (718)</li>
-<li>gmail.com (695)</li>
-<li>tvtropes.org (648)</li>
+<li>outlook.office365.com (880)</li>
+<li>www.theguardian.com (722)</li>
+<li>gmail.com (697)</li>
+<li>tvtropes.org (649)</li>
 <li>www.linkedin.com (643)</li>
 <li>whitewaterwriters.com (638)</li>
 <li>chat.openai.com (614)</li>
-<li>app.qbo.intuit.com (566)</li>
+<li>app.qbo.intuit.com (567)</li>
 <li>login.microsoftonline.com (508)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (445)</li>
+<li>drive.google.com (437)</li>
 <li>teams.microsoft.com (437)</li>
-<li>drive.google.com (436)</li>
 <li>kdp.amazon.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (330)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:15 qbo.intuit.com</li>
+<ul><li> 14:02 mail.google.com</li>
+<li class='same'> 14:01 mail.google.com</li>
+<li class='same'> 14:00 mail.google.com</li>
+<li> 14:00 qbo.intuit.com</li>
+<li class='same'> 13:59 qbo.intuit.com</li>
+<li> 13:59 accounts.intuit.com</li>
+<li> 13:59 c14.qbo.intuit.com</li>
+<li> 13:59 app.qbo.intuit.com</li>
+<li> 13:59 mail.google.com</li>
+<li class='same'> 13:58 mail.google.com</li>
+<li> 13:58 www.reddit.com</li>
+<li class='same'> 13:57 www.reddit.com</li>
+<li class='same'> 13:56 www.reddit.com</li>
+<li class='same'> 13:55 www.reddit.com</li>
+<li> 13:54 mail.google.com</li>
+<li> 13:46 tvtropes.org</li>
+<li> 13:46 www.google.com</li>
+<li class='same'> 13:45 www.google.com</li>
+<li> 13:45 www.theguardian.com</li>
+<li class='same'> 13:44 www.theguardian.com</li>
+<li> 13:42 www.google.com</li>
+<li> 13:41 www.theguardian.com</li>
+<li class='same'> 13:40 www.theguardian.com</li>
+<li> 13:39 mail.google.com</li>
+<li> 13:39 gmail.com</li>
+<li> 13:38 mail.google.com</li>
+<li class='same'> 13:37 mail.google.com</li>
+<li class='same'> 13:35 mail.google.com</li>
+<li> 13:33 equalitytime.co.uk</li>
+<li> 13:32 drive.google.com</li>
+<li> 13:30 mail.google.com</li>
+<li> 13:30 gmail.com</li>
+<li> 13:22 outlook.office365.com</li>
+<li> 13:15 qbo.intuit.com</li>
 <li> 13:14 mail.google.com</li>
 <li class='same'> 13:13 mail.google.com</li>
 <li class='same'> 13:12 mail.google.com</li>
