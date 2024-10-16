@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8296)</li>
-<li>mail.google.com (5835)</li>
-<li>outlook.office.com (3470)</li>
+<ol><li>www.google.com (8300)</li>
+<li>mail.google.com (5837)</li>
+<li>outlook.office.com (3472)</li>
 <li>www.facebook.com (2656)</li>
 <li>docs.google.com (1894)</li>
 <li>calendar.google.com (1405)</li>
 <li>moodle.royalholloway.ac.uk (1265)</li>
-<li>www.reddit.com (1242)</li>
+<li>www.reddit.com (1243)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (861)</li>
+<li>outlook.office365.com (878)</li>
 <li>www.theguardian.com (718)</li>
-<li>gmail.com (692)</li>
+<li>gmail.com (693)</li>
 <li>tvtropes.org (648)</li>
-<li>www.linkedin.com (639)</li>
+<li>www.linkedin.com (641)</li>
 <li>whitewaterwriters.com (638)</li>
 <li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (565)</li>
@@ -105,6 +105,44 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 16/10/24</H3>
+
+<br>
+
+<ul><li> 12:24 outlook.office365.com</li>
+<li class='same'> 12:23 outlook.office365.com</li>
+<li> 12:23 outlook.office.com</li>
+<li> 12:23 gitlab.cim.rhul.ac.uk</li>
+<li> 12:22 outlook.office365.com</li>
+<li class='same'> 12:21 outlook.office365.com</li>
+<li> 12:14 <a href="https://www.bbc.co.uk/news/articles/cger11kjk1jo">Ucas to reform university admissions personal statements - BBC News</a></li>
+<li> 12:14 outlook.office.com</li>
+<li> 12:13 outlook.office365.com</li>
+<li class='same'> 12:11 outlook.office365.com</li>
+<li> 12:11 www.royalholloway.ac.uk</li>
+<li> 12:10 www.google.com</li>
+<li> 12:10 outlook.office365.com</li>
+<li class='same'> 12:08 outlook.office365.com</li>
+<li> 12:08 mail.google.com</li>
+<li class='same'> 12:07 mail.google.com</li>
+<li> 12:07 gmail.com</li>
+<li> 12:07 outlook.office365.com</li>
+<li class='same'> 12:05 outlook.office365.com</li>
+<li class='same'> 12:04 outlook.office365.com</li>
+<li> 12:04 universitycompare.com</li>
+<li> 12:03 www.google.com</li>
+<li> 12:03 <a href="https://www.bbc.co.uk/news/articles/cger11kjk1jo">Ucas to reform university admissions personal statements - BBC News</a></li>
+<li> 12:02 www.reddit.com</li>
+<li> 12:02 www.google.com</li>
+<li> 12:01 www.linkedin.com</li>
+<li> 12:01 outlook.office365.com</li>
+<li> 11:59 www.linkedin.com</li>
+<li> 11:59 www.google.com</li>
+<li> 11:59 outlook.office365.com</li>
+<li class='same'> 11:56 outlook.office365.com</li>
+<li class='same'> 11:55 outlook.office365.com</li>
+<li class='same'> 11:51 outlook.office365.com</li>
+<li class='same'> 11:50 outlook.office365.com</li>
+</ul>
 
 <br>
 
