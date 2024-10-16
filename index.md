@@ -75,12 +75,12 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1894)</li>
 <li>calendar.google.com (1412)</li>
 <li>moodle.royalholloway.ac.uk (1266)</li>
-<li>www.reddit.com (1259)</li>
+<li>www.reddit.com (1260)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (880)</li>
-<li>www.theguardian.com (722)</li>
+<li>www.theguardian.com (723)</li>
 <li>gmail.com (697)</li>
 <li>tvtropes.org (649)</li>
 <li>www.linkedin.com (645)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (567)</li>
 <li>login.microsoftonline.com (512)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (446)</li>
+<li>web.whatsapp.com (447)</li>
 <li>teams.microsoft.com (439)</li>
 <li>drive.google.com (437)</li>
 <li>kdp.amazon.com (431)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (330)</li>
 <li>rhul-my.sharepoint.com (326)</li>
 <li>bsky.app (313)</li>
-<li>www.giantitp.com (307)</li>
+<li>www.giantitp.com (308)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:02 www.google.com</li>
+<ul><li> 17:20 www.reddit.com</li>
+<li> 17:19 www.theguardian.com</li>
+<li> 17:17 www.giantitp.com</li>
+<li> 17:09 web.whatsapp.com</li>
+<li> 17:02 www.google.com</li>
 <li class='same'> 17:01 www.google.com</li>
 <li> 16:35 scholar.google.com</li>
 <li> 16:35 www.google.com</li>
