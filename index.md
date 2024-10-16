@@ -70,12 +70,12 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8309)</li>
 <li>mail.google.com (5872)</li>
-<li>outlook.office.com (3477)</li>
-<li>www.facebook.com (2656)</li>
+<li>outlook.office.com (3484)</li>
+<li>www.facebook.com (2658)</li>
 <li>docs.google.com (1894)</li>
 <li>calendar.google.com (1412)</li>
 <li>moodle.royalholloway.ac.uk (1266)</li>
-<li>www.reddit.com (1256)</li>
+<li>www.reddit.com (1259)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (638)</li>
 <li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (567)</li>
-<li>login.microsoftonline.com (509)</li>
+<li>login.microsoftonline.com (512)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (445)</li>
 <li>drive.google.com (437)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:08 rhul-my.sharepoint.com</li>
+<ul><li> 16:04 www.facebook.com</li>
+<li class='same'> 16:01 www.facebook.com</li>
+<li> 16:00 outlook.office.com</li>
+<li> 15:59 www.reddit.com</li>
+<li class='same'> 15:57 www.reddit.com</li>
+<li class='same'> 15:55 www.reddit.com</li>
+<li> 15:50 outlook.office.com</li>
+<li class='same'> 15:49 outlook.office.com</li>
+<li class='same'> 15:42 outlook.office.com</li>
+<li class='same'> 15:29 outlook.office.com</li>
+<li class='same'> 15:27 outlook.office.com</li>
+<li class='same'> 15:21 outlook.office.com</li>
+<li> 15:21 login.microsoftonline.com</li>
+<li> 15:19 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:19 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 15:19 login.microsoftonline.com</li>
+<li> 15:19 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:19 experience.elluciancloud.ie</li>
+<li> 15:19 login.microsoftonline.com</li>
+<li> 15:19 experience.elluciancloud.ie</li>
+<li> 15:16 dashboards.rhul.ac.uk</li>
+<li class='same'> 15:15 dashboards.rhul.ac.uk</li>
+<li> 15:08 rhul-my.sharepoint.com</li>
 <li> 15:08 forms.office.com</li>
 <li> 15:02 www.google.com</li>
 <li> 15:02 www.nhs.uk</li>
