@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8310)</li>
+<ol><li>www.google.com (8313)</li>
 <li>mail.google.com (5872)</li>
-<li>outlook.office.com (3484)</li>
+<li>outlook.office.com (3486)</li>
 <li>www.facebook.com (2658)</li>
 <li>docs.google.com (1894)</li>
 <li>calendar.google.com (1412)</li>
@@ -89,9 +89,9 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (567)</li>
 <li>login.microsoftonline.com (512)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (445)</li>
+<li>web.whatsapp.com (446)</li>
+<li>teams.microsoft.com (439)</li>
 <li>drive.google.com (437)</li>
-<li>teams.microsoft.com (437)</li>
 <li>kdp.amazon.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (330)</li>
@@ -108,8 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:21 www.ntu.ac.uk</li>
+<ul><li> 16:30 www.google.com</li>
+<li> 16:28 <a href="https://en.wikipedia.org/wiki/Chartered_Institute_of_Information_Security#History">Chartered Institute of Information Security - Wikipedia</a></li>
+<li> 16:28 <a href="https://en.wikipedia.org/w/index.php?title=Chartered_Institute_of_Information_Security&action=edit&section=3">Editing Chartered Institute of Information Security - Wikipedia</a></li>
+<li> 16:27 <a href="https://en.wikipedia.org/wiki/UK_cyber_security_community">UK cyber security community - Wikipedia</a></li>
+<li> 16:27 <a href="https://en.wikipedia.org/wiki/British_cyber_security_community">UK cyber security community - Wikipedia</a></li>
+<li> 16:26 www.ncsc.gov.uk</li>
+<li> 16:26 <a href="https://en.wikipedia.org/wiki/Chartered_Institute_of_Information_Security">Chartered Institute of Information Security - Wikipedia</a></li>
+<li> 16:26 www.google.com</li>
+<li> 16:25 teams.microsoft.com</li>
+<li> 16:22 www.dmu.ac.uk</li>
+<li> 16:22 www.google.com</li>
+<li> 16:21 www.ntu.ac.uk</li>
 <li> 16:20 www.google.com</li>
+<li> 16:16 teams.microsoft.com</li>
+<li> 16:15 outlook.office.com</li>
+<li> 16:14 web.whatsapp.com</li>
+<li> 16:11 outlook.office.com</li>
 <li> 16:04 www.facebook.com</li>
 <li class='same'> 16:01 www.facebook.com</li>
 <li> 16:00 outlook.office.com</li>
