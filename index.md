@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8292)</li>
-<li>mail.google.com (5821)</li>
+<li>mail.google.com (5824)</li>
 <li>outlook.office.com (3466)</li>
 <li>www.facebook.com (2654)</li>
 <li>docs.google.com (1894)</li>
-<li>calendar.google.com (1403)</li>
+<li>calendar.google.com (1404)</li>
 <li>moodle.royalholloway.ac.uk (1261)</li>
 <li>www.reddit.com (1242)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (845)</li>
-<li>www.theguardian.com (716)</li>
+<li>outlook.office365.com (847)</li>
+<li>www.theguardian.com (717)</li>
 <li>gmail.com (689)</li>
 <li>tvtropes.org (648)</li>
 <li>www.linkedin.com (638)</li>
 <li>whitewaterwriters.com (638)</li>
 <li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (565)</li>
-<li>login.microsoftonline.com (499)</li>
+<li>login.microsoftonline.com (500)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (444)</li>
 <li>teams.microsoft.com (437)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:17 mail.google.com</li>
+<ul><li> 09:28 calendar.google.com</li>
+<li> 09:25 outlook.office365.com</li>
+<li class='same'> 09:24 outlook.office365.com</li>
+<li> 09:24 login.microsoftonline.com</li>
+<li> 09:24 mail.rhul.ac.uk</li>
+<li> 09:24 mail.google.com</li>
+<li> 09:23 Local file</li>
+<li> 09:22 mail.google.com</li>
+<li> 09:22 mail-attachment.googleusercontent.com</li>
+<li> 09:22 mail.google.com</li>
+<li> 09:19 www.theguardian.com</li>
+<li> 09:17 mail.google.com</li>
 <li> 09:17 accounts.google.co.uk</li>
 <li> 09:17 mail.google.com</li>
 <li> 09:17 accounts.youtube.com</li>
