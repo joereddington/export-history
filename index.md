@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8296)</li>
 <li>mail.google.com (5827)</li>
-<li>outlook.office.com (3469)</li>
+<li>outlook.office.com (3470)</li>
 <li>www.facebook.com (2656)</li>
 <li>docs.google.com (1894)</li>
 <li>calendar.google.com (1404)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (638)</li>
 <li>chat.openai.com (614)</li>
 <li>app.qbo.intuit.com (565)</li>
-<li>login.microsoftonline.com (505)</li>
+<li>login.microsoftonline.com (506)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (444)</li>
 <li>teams.microsoft.com (437)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:35 outlook.office.com</li>
+<ul><li> 10:54 login.microsoftonline.com</li>
+<li> 10:54 forms.office.com</li>
+<li> 10:47 outlook.office.com</li>
+<li class='same'> 10:35 outlook.office.com</li>
 <li> 10:35 login.microsoftonline.com</li>
 <li> 10:35 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
 <li> 10:34 login.microsoftonline.com</li>
