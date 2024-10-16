@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8302)</li>
-<li>mail.google.com (5845)</li>
+<ol><li>www.google.com (8303)</li>
+<li>mail.google.com (5850)</li>
 <li>outlook.office.com (3477)</li>
 <li>www.facebook.com (2656)</li>
 <li>docs.google.com (1894)</li>
@@ -81,12 +81,12 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (879)</li>
 <li>www.theguardian.com (718)</li>
-<li>gmail.com (694)</li>
+<li>gmail.com (695)</li>
 <li>tvtropes.org (648)</li>
 <li>www.linkedin.com (643)</li>
 <li>whitewaterwriters.com (638)</li>
 <li>chat.openai.com (614)</li>
-<li>app.qbo.intuit.com (565)</li>
+<li>app.qbo.intuit.com (566)</li>
 <li>login.microsoftonline.com (508)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (445)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:58 mail.google.com</li>
+<ul><li> 13:09 mail.google.com</li>
+<li> 13:09 qbo.intuit.com</li>
+<li class='same'> 13:07 qbo.intuit.com</li>
+<li> 13:07 mail-attachment.googleusercontent.com</li>
+<li> 13:07 mail.google.com</li>
+<li> 13:07 qbo.intuit.com</li>
+<li class='same'> 13:06 qbo.intuit.com</li>
+<li> 13:06 app.qbo.intuit.com</li>
+<li> 13:06 accounts.intuit.com</li>
+<li> 13:06 c14.qbo.intuit.com</li>
+<li> 13:05 mail.google.com</li>
+<li> 13:05 gmail.com</li>
+<li> 13:03 mail.google.com</li>
+<li class='same'> 13:02 mail.google.com</li>
+<li> 13:01 script.google.com</li>
+<li> 13:01 accounts.google.com</li>
+<li> 13:00 script.google.com</li>
+<li> 13:00 accounts.google.com</li>
+<li> 13:00 script.google.com</li>
+<li> 13:00 claude.ai</li>
+<li> 12:59 www.google.com</li>
+<li> 12:58 mail.google.com</li>
 <li class='same'> 12:57 mail.google.com</li>
 <li> 12:57 www.linkedin.com</li>
 <li> 12:57 outlook.office.com</li>
