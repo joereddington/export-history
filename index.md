@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8292)</li>
-<li>mail.google.com (5818)</li>
+<li>mail.google.com (5821)</li>
 <li>outlook.office.com (3466)</li>
 <li>www.facebook.com (2654)</li>
-<li>docs.google.com (1889)</li>
+<li>docs.google.com (1894)</li>
 <li>calendar.google.com (1403)</li>
 <li>moodle.royalholloway.ac.uk (1261)</li>
 <li>www.reddit.com (1242)</li>
@@ -80,8 +80,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (845)</li>
-<li>www.theguardian.com (715)</li>
-<li>gmail.com (687)</li>
+<li>www.theguardian.com (716)</li>
+<li>gmail.com (689)</li>
 <li>tvtropes.org (648)</li>
 <li>www.linkedin.com (638)</li>
 <li>whitewaterwriters.com (638)</li>
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 16/10/24</H3>
+
+<br>
+
+<ul><li> 09:17 mail.google.com</li>
+<li> 09:17 accounts.google.co.uk</li>
+<li> 09:17 mail.google.com</li>
+<li> 09:17 accounts.youtube.com</li>
+<li> 09:17 accounts.google.com</li>
+<li class='same'> 09:16 accounts.google.com</li>
+<li> 09:16 mail.google.com</li>
+<li> 09:16 gmail.com</li>
+<li> 09:16 accounts.google.com</li>
+<li> 09:16 gmail.com</li>
+<li> 09:16 Local file</li>
+<li> 09:16 doc-0k-04-docstext.googleusercontent.com</li>
+<li> 09:16 docs.google.com</li>
+<li class='same'> 09:14 docs.google.com</li>
+<li class='same'> 09:13 docs.google.com</li>
+<li class='same'> 09:12 docs.google.com</li>
+<li class='same'> 09:10 docs.google.com</li>
+<li> 08:53 www.theguardian.com</li>
+<li> 08:53 econjobmarket.org</li>
+</ul>
 
 <br>
 
