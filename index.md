@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (2671)</li>
 <li>docs.google.com (1895)</li>
 <li>calendar.google.com (1415)</li>
-<li>moodle.royalholloway.ac.uk (1361)</li>
+<li>moodle.royalholloway.ac.uk (1365)</li>
 <li>www.reddit.com (1277)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:46 moodle.royalholloway.ac.uk</li>
+<ul><li> 14:57 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:56 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:50 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:49 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:46 moodle.royalholloway.ac.uk</li>
 <li> 14:46 Local file</li>
 <li> 14:45 calendar.google.com</li>
 <li> 14:44 www.linkedin.com</li>
