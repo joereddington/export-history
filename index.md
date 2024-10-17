@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8322)</li>
+<ol><li>www.google.com (8323)</li>
 <li>mail.google.com (5874)</li>
 <li>outlook.office.com (3489)</li>
 <li>www.facebook.com (2671)</li>
 <li>docs.google.com (1895)</li>
 <li>calendar.google.com (1414)</li>
+<li>moodle.royalholloway.ac.uk (1278)</li>
 <li>www.reddit.com (1277)</li>
-<li>moodle.royalholloway.ac.uk (1273)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
@@ -87,14 +87,14 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (638)</li>
 <li>chat.openai.com (616)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (513)</li>
+<li>login.microsoftonline.com (514)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (447)</li>
 <li>teams.microsoft.com (439)</li>
 <li>drive.google.com (438)</li>
 <li>kdp.amazon.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul.sharepoint.com (330)</li>
+<li>rhul.sharepoint.com (331)</li>
 <li>rhul-my.sharepoint.com (327)</li>
 <li>www.giantitp.com (315)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:54 moodle.royalholloway.ac.uk</li>
+<ul><li> 07:07 moodle.royalholloway.ac.uk</li>
+<li> 07:06 rhul.sharepoint.com</li>
+<li> 07:06 login.microsoftonline.com</li>
+<li> 07:06 teachinghub.bath.ac.uk</li>
+<li> 07:05 moodle.royalholloway.ac.uk</li>
+<li> 07:04 digi-ed.uk</li>
+<li> 07:04 www.google.com</li>
+<li> 07:03 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:01 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:54 moodle.royalholloway.ac.uk</li>
 <li> 06:54 Local file</li>
 <li> 06:52 rhul-my.sharepoint.com</li>
 <li> 06:52 drive.google.com</li>
