@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8330)</li>
+<ol><li>www.google.com (8331)</li>
 <li>mail.google.com (5874)</li>
 <li>outlook.office.com (3489)</li>
 <li>www.facebook.com (2671)</li>
 <li>docs.google.com (1895)</li>
 <li>calendar.google.com (1414)</li>
-<li>moodle.royalholloway.ac.uk (1304)</li>
+<li>moodle.royalholloway.ac.uk (1308)</li>
 <li>www.reddit.com (1277)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:55 moodle.royalholloway.ac.uk</li>
+<ul><li> 11:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:34 moodle.royalholloway.ac.uk</li>
+<li> 11:33 www.csis.org</li>
+<li> 11:33 csis.org</li>
+<li> 11:32 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:31 moodle.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:55 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:54 moodle.royalholloway.ac.uk</li>
 <li> 10:53 www.google.com</li>
 <li> 10:50 moodle.royalholloway.ac.uk</li>
@@ -161,6 +171,7 @@ With number of accesses/minutes in parentheses
 <li> 10:24 <a href="https://en.wikipedia.org/wiki/Stuxnet">Stuxnet - Wikipedia</a></li>
 <li> 10:24 www.google.com</li>
 <li> 10:22 moodle.royalholloway.ac.uk</li>
+<li> 10:13 www.google.com</li>
 <li> 10:06 rhul-my.sharepoint.com</li>
 <li class='same'> 10:05 rhul-my.sharepoint.com</li>
 <li> 10:05 rhul.sharepoint.com</li>
