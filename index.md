@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8328)</li>
+<ol><li>www.google.com (8329)</li>
 <li>mail.google.com (5874)</li>
 <li>outlook.office.com (3489)</li>
 <li>www.facebook.com (2671)</li>
 <li>docs.google.com (1895)</li>
 <li>calendar.google.com (1414)</li>
-<li>moodle.royalholloway.ac.uk (1298)</li>
+<li>moodle.royalholloway.ac.uk (1301)</li>
 <li>www.reddit.com (1277)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:39 moodle.royalholloway.ac.uk</li>
+<ul><li> 10:49 moodle.royalholloway.ac.uk</li>
+<li> 10:49 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)#Web_applications">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:48 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)?action=edit&section=9&veswitched=1">Editing Vulnerability (computer security) (section) - Wikipedia</a></li>
+<li> 10:48 <a href="https://en.wikipedia.org/w/index.php?title=Vulnerability_(computer_security)&action=edit&section=9">Editing Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:48 <a href="https://en.wikipedia.org/w/index.php?title=Vulnerability_(computer_security)&action=edit&section=18">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:48 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)?venotify=saved">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:48 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:48 <a href="https://en.wikipedia.org/w/index.php?title=Vulnerability_%28computer_security%29&veswitched=1&action=edit">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:47 <a href="https://en.wikipedia.org/w/index.php?title=Vulnerability_%28computer_security%29&veswitched=1&oldid=1248998051&action=edit">Editing Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:45 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:45 <a href="https://en.wikipedia.org/w/index.php?title=Vulnerability_(computer_security)&action=edit&section=9">Editing Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:45 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)#cite_ref-FOOTNOTEStrout202314_29-2">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:45 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)#cite_note-FOOTNOTEStrout202314-29">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:45 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)#cite_ref-FOOTNOTEStrout202315_26-1">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:45 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)#CITEREFStrout2023">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:43 <a href="https://en.wikipedia.org/wiki/Vulnerability_scanner">Vulnerability scanner - Wikipedia</a></li>
+<li> 10:43 <a href="https://en.wikipedia.org/wiki/Vulnerability_assessment">Vulnerability assessment - Wikipedia</a></li>
+<li> 10:43 <a href="https://en.wikipedia.org/wiki/Vulnerability_management">Vulnerability management - Wikipedia</a></li>
+<li> 10:42 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:42 www.google.com</li>
+<li> 10:41 moodle.royalholloway.ac.uk</li>
+<li> 10:41 www.bbc.com</li>
+<li> 10:41 <a href="https://www.bbc.co.uk/news/world-us-canada-42407488">Cyber-attack: US and UK blame North Korea for WannaCry - BBC News</a></li>
+<li> 10:40 Local file</li>
+<li> 10:40 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:39 moodle.royalholloway.ac.uk</li>
 <li> 10:38 rhul-my.sharepoint.com</li>
 <li class='same'> 10:37 rhul-my.sharepoint.com</li>
 <li> 10:37 login.microsoftonline.com</li>
