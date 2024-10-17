@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8335)</li>
+<ol><li>www.google.com (8336)</li>
 <li>mail.google.com (5874)</li>
 <li>outlook.office.com (3491)</li>
 <li>www.facebook.com (2671)</li>
 <li>docs.google.com (1895)</li>
 <li>calendar.google.com (1414)</li>
-<li>moodle.royalholloway.ac.uk (1331)</li>
+<li>moodle.royalholloway.ac.uk (1336)</li>
 <li>www.reddit.com (1277)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:23 moodle.royalholloway.ac.uk</li>
+<ul><li> 13:39 moodle.royalholloway.ac.uk</li>
+<li> 13:39 Local file</li>
+<li> 13:39 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:38 moodle.royalholloway.ac.uk</li>
+<li> 13:38 Local file</li>
+<li> 13:37 moodle.royalholloway.ac.uk</li>
+<li> 13:31 <a href="https://en.wikipedia.org/wiki/BAE_Systems_Platforms_%26_Services">BAE Systems Platforms & Services - Wikipedia</a></li>
+<li> 13:31 www.google.com</li>
+<li> 13:28 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:23 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:18 moodle.royalholloway.ac.uk</li>
 <li> 13:17 Local file</li>
 <li> 13:17 moodle.royalholloway.ac.uk</li>
