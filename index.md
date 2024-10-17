@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (2671)</li>
 <li>docs.google.com (1895)</li>
 <li>calendar.google.com (1414)</li>
-<li>moodle.royalholloway.ac.uk (1336)</li>
+<li>moodle.royalholloway.ac.uk (1340)</li>
 <li>www.reddit.com (1277)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:39 moodle.royalholloway.ac.uk</li>
+<ul><li> 13:48 moodle.royalholloway.ac.uk</li>
+<li> 13:47 <a href="https://en.wikipedia.org/wiki/Timeline_of_events_associated_with_Anonymous#:~:text=On%20May%2017%2C%202012%2C%20Anonymous,sites%20like%20The%20Pirate%20Bay.">Timeline of events associated with Anonymous - Wikipedia</a></li>
+<li> 13:46 www.cloudflare.com</li>
+<li> 13:46 <a href="https://en.wikipedia.org/wiki/Edward_Snowden#:~:text=Kunia%20Camp%2C%20Hawaii%2C%20U.S.&text=In%202013%2C%20while%20working%20as,He%20was%20indicted%20for%20espionage.">Edward Snowden - Wikipedia</a></li>
+<li> 13:46 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:45 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:40 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:39 moodle.royalholloway.ac.uk</li>
 <li> 13:39 Local file</li>
 <li> 13:39 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:38 moodle.royalholloway.ac.uk</li>
