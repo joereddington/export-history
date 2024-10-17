@@ -94,8 +94,8 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (438)</li>
 <li>kdp.amazon.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul.sharepoint.com (331)</li>
-<li>rhul-my.sharepoint.com (327)</li>
+<li>rhul.sharepoint.com (332)</li>
+<li>rhul-my.sharepoint.com (329)</li>
 <li>www.giantitp.com (315)</li>
 <li>bsky.app (313)</li>
 
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:03 moodle.royalholloway.ac.uk</li>
+<ul><li> 10:06 rhul-my.sharepoint.com</li>
+<li class='same'> 10:05 rhul-my.sharepoint.com</li>
+<li> 10:05 rhul.sharepoint.com</li>
+<li> 10:03 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:50 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:49 moodle.royalholloway.ac.uk</li>
 <li> 09:48 Local file</li>
