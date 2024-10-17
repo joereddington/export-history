@@ -71,11 +71,11 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (8322)</li>
 <li>mail.google.com (5874)</li>
 <li>outlook.office.com (3489)</li>
-<li>www.facebook.com (2667)</li>
-<li>docs.google.com (1894)</li>
-<li>calendar.google.com (1412)</li>
+<li>www.facebook.com (2671)</li>
+<li>docs.google.com (1895)</li>
+<li>calendar.google.com (1414)</li>
 <li>www.reddit.com (1277)</li>
-<li>moodle.royalholloway.ac.uk (1266)</li>
+<li>moodle.royalholloway.ac.uk (1273)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
@@ -85,17 +85,17 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (649)</li>
 <li>www.linkedin.com (645)</li>
 <li>whitewaterwriters.com (638)</li>
-<li>chat.openai.com (614)</li>
-<li>app.qbo.intuit.com (567)</li>
-<li>login.microsoftonline.com (512)</li>
+<li>chat.openai.com (616)</li>
+<li>app.qbo.intuit.com (568)</li>
+<li>login.microsoftonline.com (513)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (447)</li>
 <li>teams.microsoft.com (439)</li>
-<li>drive.google.com (437)</li>
+<li>drive.google.com (438)</li>
 <li>kdp.amazon.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (330)</li>
-<li>rhul-my.sharepoint.com (326)</li>
+<li>rhul-my.sharepoint.com (327)</li>
 <li>www.giantitp.com (315)</li>
 <li>bsky.app (313)</li>
 
@@ -104,11 +104,62 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 17/10/24</H3>
+
+<br>
+
+<ul><li> 06:54 moodle.royalholloway.ac.uk</li>
+<li> 06:54 Local file</li>
+<li> 06:52 rhul-my.sharepoint.com</li>
+<li> 06:52 drive.google.com</li>
+<li> 06:51 claude.ai</li>
+<li class='same'> 06:50 claude.ai</li>
+<li> 06:45 moodle.royalholloway.ac.uk</li>
+<li> 06:43 chatgpt.com</li>
+<li> 06:43 auth0.openai.com</li>
+<li> 06:43 auth.openai.com</li>
+<li> 06:43 chatgpt.com</li>
+<li> 06:42 moodle.royalholloway.ac.uk</li>
+<li> 06:42 chatgpt.com</li>
+<li> 06:42 chat.openai.com</li>
+<li> 06:41 moodle.royalholloway.ac.uk</li>
+<li> 06:41 Local file</li>
+<li> 06:41 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:40 moodle.royalholloway.ac.uk</li>
+<li> 06:40 login.microsoftonline.com</li>
+<li> 06:40 moodle.royalholloway.ac.uk</li>
+<li> 06:30 qbo.intuit.com</li>
+<li> 06:19 calendar.google.com</li>
+<li class='same'> 06:17 calendar.google.com</li>
+<li> 06:09 chatgpt.com</li>
+<li class='same'> 06:08 chatgpt.com</li>
+<li> 06:08 chat.openai.com</li>
+<li> 06:02 intuit-qbo-prod-10.s3.amazonaws.com</li>
+<li> 06:02 qbo.intuit.com</li>
+<li class='same'> 06:01 qbo.intuit.com</li>
+<li class='same'> 06:00 qbo.intuit.com</li>
+<li class='same'> 05:59 qbo.intuit.com</li>
+<li class='same'> 05:58 qbo.intuit.com</li>
+<li> 05:58 accounts.intuit.com</li>
+<li> 05:58 qbo.intuit.com</li>
+<li> 05:58 c14.qbo.intuit.com</li>
+<li> 05:58 app.qbo.intuit.com</li>
+<li> 05:56 docs.google.com</li>
+</ul>
+
 <H3>Wednesday, 16/10/24</H3>
 
 <br>
 
-<ul><li> 21:14 www.facebook.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:18 www.facebook.com</li>
+<li class='same'> 21:17 www.facebook.com</li>
+<li class='same'> 21:16 www.facebook.com</li>
+<li class='same'> 21:15 www.facebook.com</li>
+<li class='same'> 21:14 www.facebook.com</li>
 <li class='same'> 21:13 www.facebook.com</li>
 <li class='same'> 21:12 www.facebook.com</li>
 <li class='same'> 21:11 www.facebook.com</li>
