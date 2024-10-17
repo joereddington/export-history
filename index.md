@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8333)</li>
+<ol><li>www.google.com (8334)</li>
 <li>mail.google.com (5874)</li>
 <li>outlook.office.com (3489)</li>
 <li>www.facebook.com (2671)</li>
 <li>docs.google.com (1895)</li>
 <li>calendar.google.com (1414)</li>
-<li>moodle.royalholloway.ac.uk (1310)</li>
+<li>moodle.royalholloway.ac.uk (1313)</li>
 <li>www.reddit.com (1277)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:51 <a href="https://en.wikipedia.org/wiki/SolarWinds#2019%E2%80%932020_supply_chain_attacks"></a></li>
+<ul><li> 12:05 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:00 moodle.royalholloway.ac.uk</li>
+<li> 11:54 <a href="https://en.wikipedia.org/wiki/Operation_Payback">Operation Payback - Wikipedia</a></li>
+<li> 11:54 www.google.com</li>
+<li> 11:51 <a href="https://en.wikipedia.org/wiki/SolarWinds#2019%E2%80%932020_supply_chain_attacks">SolarWinds - Wikipedia</a></li>
 <li> 11:51 <a href="https://en.wikipedia.org/wiki/SolarWinds">SolarWinds - Wikipedia</a></li>
 <li> 11:51 www.google.com</li>
 <li> 11:47 Local file</li>
