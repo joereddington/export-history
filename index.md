@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8337)</li>
+<ol><li>www.google.com (8340)</li>
 <li>mail.google.com (5874)</li>
 <li>outlook.office.com (3491)</li>
 <li>www.facebook.com (2671)</li>
 <li>docs.google.com (1895)</li>
 <li>calendar.google.com (1414)</li>
-<li>moodle.royalholloway.ac.uk (1350)</li>
+<li>moodle.royalholloway.ac.uk (1353)</li>
 <li>www.reddit.com (1277)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:06 moodle.royalholloway.ac.uk</li>
+<ul><li> 14:18 moodle.royalholloway.ac.uk</li>
+<li> 14:17 ico.org.uk</li>
+<li> 14:13 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 14:12 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:10 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:06 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:04 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:02 moodle.royalholloway.ac.uk</li>
 <li> 14:02 Local file</li>
@@ -402,6 +407,14 @@ With number of accesses/minutes in parentheses
 <li> 20:21 www.google.com</li>
 <li> 20:20 www.giantitp.com</li>
 <li> 20:19 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:01 www.google.com</li>
+<li class='same'> 19:00 www.google.com</li>
+<li> 19:00 www.grammarly.com</li>
+<li> 18:59 www.google.com</li>
 </ul>
 
 <br>
