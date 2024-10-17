@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (2671)</li>
 <li>docs.google.com (1895)</li>
 <li>calendar.google.com (1414)</li>
-<li>moodle.royalholloway.ac.uk (1282)</li>
+<li>moodle.royalholloway.ac.uk (1285)</li>
 <li>www.reddit.com (1277)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:27 moodle.royalholloway.ac.uk</li>
+<ul><li> 09:37 moodle.royalholloway.ac.uk</li>
+<li> 09:36 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:36 www.bbc.com</li>
+<li> 09:35 moodle.royalholloway.ac.uk</li>
+<li> 09:31 Local file</li>
+<li> 09:31 moodle.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 07:41 accounts.intuit.com</li>
+<li class='same'> 07:38 accounts.intuit.com</li>
+<li> 07:27 moodle.royalholloway.ac.uk</li>
 <li> 07:24 <a href="https://en.wikipedia.org/wiki/Operation_Ababil">Operation Ababil - Wikipedia</a></li>
 <li> 07:24 www.google.com</li>
 <li> 07:23 ddanchev.blogspot.com</li>
@@ -146,7 +158,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:40 moodle.royalholloway.ac.uk</li>
 <li> 06:40 login.microsoftonline.com</li>
 <li> 06:40 moodle.royalholloway.ac.uk</li>
-<li> 06:30 qbo.intuit.com</li>
+<li> 06:35 qbo.intuit.com</li>
+<li class='same'> 06:34 qbo.intuit.com</li>
+<li class='same'> 06:31 qbo.intuit.com</li>
+<li class='same'> 06:30 qbo.intuit.com</li>
 <li> 06:19 calendar.google.com</li>
 <li class='same'> 06:17 calendar.google.com</li>
 <li> 06:09 chatgpt.com</li>
@@ -17138,7 +17153,6 @@ With number of accesses/minutes in parentheses
 <li> 15:51 www.facebook.com</li>
 <li class='same'> 15:45 www.facebook.com</li>
 <li> 15:40 www.chortle.co.uk</li>
-<li> 15:40 l.facebook.com</li>
 <li> 15:39 www.linkedin.com</li>
 <li> 15:38 outlook.office.com</li>
 <li> 15:37 www.facebook.com</li>
