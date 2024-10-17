@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8346)</li>
+<ol><li>www.google.com (8352)</li>
 <li>mail.google.com (5879)</li>
 <li>outlook.office.com (3493)</li>
 <li>www.facebook.com (2683)</li>
-<li>docs.google.com (1895)</li>
+<li>docs.google.com (1896)</li>
 <li>calendar.google.com (1418)</li>
 <li>moodle.royalholloway.ac.uk (1368)</li>
 <li>www.reddit.com (1277)</li>
-<li>www.amazon.co.uk (1213)</li>
+<li>www.amazon.co.uk (1215)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (881)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:06 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<ul><li> 17:38 www.amazon.co.uk</li>
+<li class='same'> 17:37 www.amazon.co.uk</li>
+<li> 17:37 www.google.com</li>
+<li> 17:21 docs.google.com</li>
+<li> 17:21 <a href="https://en.wikipedia.org/wiki/Hartree_energy">Hartree - Wikipedia</a></li>
+<li> 17:21 <a href="https://en.wikipedia.org/wiki/Hartree">Hartree - Wikipedia</a></li>
+<li> 17:21 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+<li> 17:21 www.google.com</li>
+<li class='same'> 17:17 www.google.com</li>
+<li class='same'> 17:16 www.google.com</li>
+<li class='same'> 17:15 www.google.com</li>
+<li> 17:15 books.google.co.uk</li>
+<li> 17:15 www.google.com</li>
+<li> 17:07 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_Security">Wikipedia talk:WikiProject Computer Security - Wikipedia</a></li>
+<li> 17:07 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&curid=15036&diff=1251466188&oldid=1251086650">Information security: Difference between revisions - Wikipedia</a></li>
+<li> 17:06 <a href="https://en.wikipedia.org/w/index.php?title=University_of_the_Third_Age&curid=668610&diff=1251581379&oldid=1244982689">University of the Third Age: Difference between revisions - Wikipedia</a></li>
+<li> 17:06 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 17:06 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 17:06 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 </ul>
