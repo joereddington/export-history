@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8327)</li>
+<ol><li>www.google.com (8328)</li>
 <li>mail.google.com (5874)</li>
 <li>outlook.office.com (3489)</li>
 <li>www.facebook.com (2671)</li>
 <li>docs.google.com (1895)</li>
 <li>calendar.google.com (1414)</li>
-<li>moodle.royalholloway.ac.uk (1295)</li>
+<li>moodle.royalholloway.ac.uk (1298)</li>
 <li>www.reddit.com (1277)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
@@ -87,15 +87,15 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (638)</li>
 <li>chat.openai.com (616)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (514)</li>
+<li>login.microsoftonline.com (515)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (447)</li>
+<li>web.whatsapp.com (448)</li>
 <li>teams.microsoft.com (439)</li>
 <li>drive.google.com (438)</li>
 <li>kdp.amazon.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (332)</li>
-<li>rhul-my.sharepoint.com (329)</li>
+<li>rhul-my.sharepoint.com (331)</li>
 <li>www.giantitp.com (315)</li>
 <li>bsky.app (313)</li>
 
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:28 web.archive.org</li>
+<ul><li> 10:39 moodle.royalholloway.ac.uk</li>
+<li> 10:38 rhul-my.sharepoint.com</li>
+<li class='same'> 10:37 rhul-my.sharepoint.com</li>
+<li> 10:37 login.microsoftonline.com</li>
+<li> 10:37 moodle.royalholloway.ac.uk</li>
+<li> 10:37 Local file</li>
+<li> 10:32 web.whatsapp.com</li>
+<li> 10:32 moodle.royalholloway.ac.uk</li>
+<li> 10:32 <a href="https://xkcd.com/327/">xkcd: Exploits of a Mom</a></li>
+<li> 10:32 www.google.com</li>
+<li> 10:28 <a href="https://en.wikipedia.org/wiki/Stuxnet">Stuxnet - Wikipedia</a></li>
+<li> 10:28 web.archive.org</li>
 <li> 10:26 <a href="https://en.wikipedia.org/wiki/Equation_Group">Equation Group - Wikipedia</a></li>
 <li> 10:26 www.google.com</li>
 <li> 10:25 <a href="https://en.wikipedia.org/wiki/Edward_Snowden">Edward Snowden - Wikipedia</a></li>
