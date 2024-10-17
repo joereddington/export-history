@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8329)</li>
+<ol><li>www.google.com (8330)</li>
 <li>mail.google.com (5874)</li>
 <li>outlook.office.com (3489)</li>
 <li>www.facebook.com (2671)</li>
 <li>docs.google.com (1895)</li>
 <li>calendar.google.com (1414)</li>
-<li>moodle.royalholloway.ac.uk (1301)</li>
+<li>moodle.royalholloway.ac.uk (1304)</li>
 <li>www.reddit.com (1277)</li>
 <li>www.amazon.co.uk (1211)</li>
 <li>github.com (1011)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:49 moodle.royalholloway.ac.uk</li>
+<ul><li> 10:55 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:54 moodle.royalholloway.ac.uk</li>
+<li> 10:53 www.google.com</li>
+<li> 10:50 moodle.royalholloway.ac.uk</li>
+<li> 10:50 Local file</li>
+<li> 10:49 moodle.royalholloway.ac.uk</li>
 <li> 10:49 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)#Web_applications">Vulnerability (computer security) - Wikipedia</a></li>
 <li> 10:48 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)?action=edit&section=9&veswitched=1">Editing Vulnerability (computer security) (section) - Wikipedia</a></li>
 <li> 10:48 <a href="https://en.wikipedia.org/w/index.php?title=Vulnerability_(computer_security)&action=edit&section=9">Editing Vulnerability (computer security) - Wikipedia</a></li>
