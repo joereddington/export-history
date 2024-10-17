@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8342)</li>
-<li>mail.google.com (5874)</li>
+<ol><li>www.google.com (8344)</li>
+<li>mail.google.com (5879)</li>
 <li>outlook.office.com (3493)</li>
-<li>www.facebook.com (2671)</li>
+<li>www.facebook.com (2679)</li>
 <li>docs.google.com (1895)</li>
-<li>calendar.google.com (1415)</li>
+<li>calendar.google.com (1418)</li>
 <li>moodle.royalholloway.ac.uk (1368)</li>
 <li>www.reddit.com (1277)</li>
 <li>www.amazon.co.uk (1213)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (881)</li>
-<li>www.theguardian.com (725)</li>
-<li>gmail.com (697)</li>
-<li>www.linkedin.com (650)</li>
+<li>www.theguardian.com (727)</li>
+<li>gmail.com (698)</li>
+<li>www.linkedin.com (652)</li>
 <li>tvtropes.org (649)</li>
 <li>whitewaterwriters.com (638)</li>
 <li>chat.openai.com (616)</li>
 <li>app.qbo.intuit.com (568)</li>
 <li>login.microsoftonline.com (517)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (448)</li>
+<li>web.whatsapp.com (449)</li>
 <li>teams.microsoft.com (439)</li>
 <li>drive.google.com (438)</li>
 <li>kdp.amazon.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
+<li>rhul-my.sharepoint.com (333)</li>
 <li>rhul.sharepoint.com (332)</li>
-<li>rhul-my.sharepoint.com (332)</li>
 <li>www.giantitp.com (315)</li>
 <li>bsky.app (313)</li>
 
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:03 outlook.office.com</li>
+<ul><li> 16:02 www.facebook.com</li>
+<li class='same'> 16:01 www.facebook.com</li>
+<li class='same'> 16:00 www.facebook.com</li>
+<li class='same'> 15:59 www.facebook.com</li>
+<li class='same'> 15:58 www.facebook.com</li>
+<li class='same'> 15:56 www.facebook.com</li>
+<li class='same'> 15:55 www.facebook.com</li>
+<li> 15:51 mail.google.com</li>
+<li> 15:49 rhul-my.sharepoint.com</li>
+<li> 15:49 feedly.com</li>
+<li> 15:49 mail.google.com</li>
+<li class='same'> 15:48 mail.google.com</li>
+<li> 15:45 www.facebook.com</li>
+<li> 15:41 mail.google.com</li>
+<li> 15:41 www.linkedin.com</li>
+<li> 15:40 mail.google.com</li>
+<li> 15:40 gmail.com</li>
+<li> 15:37 www.disneyholidays.co.uk</li>
+<li> 15:37 www.google.com</li>
+<li> 15:36 calendar.google.com</li>
+<li class='same'> 15:35 calendar.google.com</li>
+<li class='same'> 15:34 calendar.google.com</li>
+<li> 15:32 web.whatsapp.com</li>
+<li> 15:22 www.linkedin.com</li>
+<li> 15:19 feedly.com</li>
+<li> 15:19 x.com</li>
+<li> 15:19 twitter.com</li>
+<li> 15:18 www.google.com</li>
+<li> 15:18 www.theguardian.com</li>
+<li class='same'> 15:12 www.theguardian.com</li>
+<li> 15:03 outlook.office.com</li>
 <li class='same'> 15:02 outlook.office.com</li>
 <li> 15:02 outlook.office365.com</li>
 <li> 15:02 mail.rhul.ac.uk</li>
