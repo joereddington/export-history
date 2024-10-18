@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8383)</li>
 <li>mail.google.com (5885)</li>
-<li>outlook.office.com (3496)</li>
+<li>outlook.office.com (3497)</li>
 <li>www.facebook.com (2690)</li>
 <li>docs.google.com (1896)</li>
 <li>calendar.google.com (1422)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (647)</li>
 <li>chat.openai.com (620)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (528)</li>
+<li>login.microsoftonline.com (529)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (451)</li>
 <li>teams.microsoft.com (439)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:31 www.facebook.com</li>
+<ul><li> 19:37 outlook.office.com</li>
+<li> 19:37 login.microsoftonline.com</li>
+<li> 19:31 www.facebook.com</li>
 <li> 19:25 moodle.royalholloway.ac.uk</li>
 <li class='same'> 19:24 moodle.royalholloway.ac.uk</li>
 <li class='same'> 19:23 moodle.royalholloway.ac.uk</li>
