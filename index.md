@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8364)</li>
-<li>mail.google.com (5880)</li>
+<ol><li>www.google.com (8365)</li>
+<li>mail.google.com (5881)</li>
 <li>outlook.office.com (3494)</li>
 <li>www.facebook.com (2685)</li>
 <li>docs.google.com (1896)</li>
@@ -79,22 +79,22 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1215)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (888)</li>
+<li>outlook.office365.com (889)</li>
 <li>www.theguardian.com (731)</li>
 <li>gmail.com (699)</li>
-<li>www.linkedin.com (653)</li>
+<li>www.linkedin.com (656)</li>
 <li>tvtropes.org (649)</li>
 <li>whitewaterwriters.com (647)</li>
 <li>chat.openai.com (618)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (518)</li>
+<li>login.microsoftonline.com (521)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (451)</li>
 <li>teams.microsoft.com (439)</li>
 <li>drive.google.com (438)</li>
 <li>kdp.amazon.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (334)</li>
+<li>rhul-my.sharepoint.com (335)</li>
 <li>rhul.sharepoint.com (332)</li>
 <li>www.giantitp.com (315)</li>
 <li>bsky.app (313)</li>
@@ -105,6 +105,27 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 18/10/24</H3>
+
+<br>
+
+<ul><li> 12:50 forms.office.com</li>
+<li> 12:50 login.microsoftonline.com</li>
+<li> 12:50 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
+<li> 12:50 login.microsoftonline.com</li>
+<li> 12:50 forms.office.com</li>
+<li> 12:50 rhul-my.sharepoint.com</li>
+<li> 12:50 forms.office.com</li>
+<li class='same'> 12:49 forms.office.com</li>
+<li> 12:49 login.microsoftonline.com</li>
+<li> 12:49 forms.office.com</li>
+<li> 12:48 mail.google.com</li>
+<li> 12:48 www.linkedin.com</li>
+<li> 12:48 outlook.office365.com</li>
+<li> 12:48 www.linkedin.com</li>
+<li class='same'> 12:47 www.linkedin.com</li>
+<li> 12:47 uk.linkedin.com</li>
+<li> 12:47 www.google.com</li>
+</ul>
 
 <br>
 
