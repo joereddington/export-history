@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8365)</li>
+<ol><li>www.google.com (8373)</li>
 <li>mail.google.com (5881)</li>
 <li>outlook.office.com (3494)</li>
 <li>www.facebook.com (2685)</li>
 <li>docs.google.com (1896)</li>
-<li>calendar.google.com (1419)</li>
-<li>moodle.royalholloway.ac.uk (1367)</li>
+<li>calendar.google.com (1420)</li>
+<li>moodle.royalholloway.ac.uk (1368)</li>
 <li>www.reddit.com (1280)</li>
 <li>www.amazon.co.uk (1215)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (889)</li>
-<li>www.theguardian.com (731)</li>
+<li>outlook.office365.com (895)</li>
+<li>www.theguardian.com (739)</li>
 <li>gmail.com (699)</li>
 <li>www.linkedin.com (656)</li>
-<li>tvtropes.org (649)</li>
+<li>tvtropes.org (650)</li>
 <li>whitewaterwriters.com (647)</li>
-<li>chat.openai.com (618)</li>
+<li>chat.openai.com (619)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (521)</li>
+<li>login.microsoftonline.com (522)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (451)</li>
 <li>teams.microsoft.com (439)</li>
@@ -105,6 +105,43 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 18/10/24</H3>
+
+<br>
+
+<ul><li> 16:16 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 16:16 <a href="https://en.wikipedia.org/wiki/Israel%E2%80%93Hamas_war">Israel–Hamas war - Wikipedia</a></li>
+<li> 16:16 www.google.com</li>
+<li> 16:11 outlook.office365.com</li>
+<li class='same'> 16:10 outlook.office365.com</li>
+<li> 16:07 moodle.royalholloway.ac.uk</li>
+<li> 16:07 login.microsoftonline.com</li>
+<li> 16:03 libguides.rhul.ac.uk</li>
+<li> 16:03 outlook.office365.com</li>
+<li class='same'> 16:02 outlook.office365.com</li>
+<li> 15:54 intranet.royalholloway.ac.uk</li>
+<li> 15:46 libguides.rhul.ac.uk</li>
+<li> 15:46 calendar.google.com</li>
+<li> 15:46 www.google.com</li>
+<li> 15:42 <a href="https://en.wikipedia.org/wiki/United_States_dollar">United States dollar - Wikipedia</a></li>
+<li> 15:42 www.thewriter.com</li>
+<li> 15:42 www.google.com</li>
+<li> 15:42 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&action=edit">Editing Yahoo data breaches - Wikipedia</a></li>
+<li> 15:41 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 15:41 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 15:38 outlook.office365.com</li>
+<li> 15:36 <a href="https://en.wikipedia.org/wiki/Lord_Chancellor">Lord Chancellor - Wikipedia</a></li>
+<li> 15:35 <a href="https://en.wikipedia.org/wiki/Court_of_equity">Court of equity - Wikipedia</a></li>
+<li> 15:35 www.google.com</li>
+<li> 15:34 chatgpt.com</li>
+<li> 15:34 chat.openai.com</li>
+<li> 15:31 www.theguardian.com</li>
+<li> 15:21 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:50 <a href="https://xkcd.com/simplewriter/"></a></li>
+</ul>
 
 <br>
 
@@ -243,6 +280,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:53 www.theguardian.com</li>
+<li class='same'> 18:52 www.theguardian.com</li>
+<li> 18:51 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 18:51 www.google.com</li>
+<li> 18:51 www.pluralsight.com</li>
+<li class='same'> 18:50 www.pluralsight.com</li>
+<li> 18:38 www.google.com</li>
+<li class='same'> 18:37 www.google.com</li>
+<li class='same'> 18:36 www.google.com</li>
+<li> 18:36 www.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 17:38 www.amazon.co.uk</li>
 <li class='same'> 17:37 www.amazon.co.uk</li>
 <li> 17:37 www.google.com</li>
@@ -262,11 +313,13 @@ With number of accesses/minutes in parentheses
 <li> 17:06 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 17:06 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 17:06 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-</ul>
-
-<br>
-
-<ul><li> 16:16 <a href="https://en.wikipedia.org/wiki/List_of_phishing_incidents">List of phishing incidents - Wikipedia</a></li>
+<li> 16:40 www.theguardian.com</li>
+<li class='same'> 16:39 www.theguardian.com</li>
+<li class='same'> 16:36 www.theguardian.com</li>
+<li class='same'> 16:33 www.theguardian.com</li>
+<li> 16:31 <a href="https://www.bbc.co.uk/news/articles/cvglzndx81ko?utm_source=pocket-newtab-en-gb">Fines and convictions for minor mistakes - how rail tickets confuse passengers - BBC News</a></li>
+<li> 16:31 www.bbc.com</li>
+<li> 16:16 <a href="https://en.wikipedia.org/wiki/List_of_phishing_incidents">List of phishing incidents - Wikipedia</a></li>
 <li> 16:16 <a href="https://en.wikipedia.org/wiki/Phishing">Phishing - Wikipedia</a></li>
 <li> 16:15 <a href="https://en.wikipedia.org/wiki/Hacktivism#Notable_hacktivist_events">Hacktivism - Wikipedia</a></li>
 <li> 16:15 <a href="https://en.wikipedia.org/wiki/Blended_threat">Blended threat - Wikipedia</a></li>
@@ -657,6 +710,10 @@ With number of accesses/minutes in parentheses
 <li> 20:21 www.google.com</li>
 <li> 20:20 www.giantitp.com</li>
 <li> 20:19 outlook.office.com</li>
+<li> 20:00 www.popsugar.com</li>
+<li> 20:00 inews.co.uk</li>
+<li class='same'> 19:59 inews.co.uk</li>
+<li> 19:59 tvtropes.org</li>
 </ul>
 
 <br>
@@ -76626,6 +76683,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:32 m.youtube.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:56 platform.openai.com</li>
+<li class='same'> 18:55 platform.openai.com</li>
 </ul>
 
 <br>
