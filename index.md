@@ -79,17 +79,17 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1215)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (881)</li>
-<li>www.theguardian.com (727)</li>
+<li>outlook.office365.com (883)</li>
+<li>www.theguardian.com (731)</li>
 <li>gmail.com (698)</li>
 <li>www.linkedin.com (653)</li>
 <li>tvtropes.org (649)</li>
-<li>whitewaterwriters.com (646)</li>
+<li>whitewaterwriters.com (647)</li>
 <li>chat.openai.com (617)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (516)</li>
+<li>login.microsoftonline.com (517)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (450)</li>
+<li>web.whatsapp.com (451)</li>
 <li>teams.microsoft.com (439)</li>
 <li>drive.google.com (438)</li>
 <li>kdp.amazon.com (431)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:13 www.facebook.com</li>
+<ul><li> 07:23 outlook.office365.com</li>
+<li class='same'> 07:22 outlook.office365.com</li>
+<li> 07:22 login.microsoftonline.com</li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/WJEC_(exam_board)">WJEC (exam board) - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&curid=24369186&diff=1251331045&oldid=1251270857">Shaggy defense: Difference between revisions - Wikipedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=2014_Sony_Pictures_hack&curid=44732528&diff=1251621641&oldid=1248960950">2014 Sony Pictures hack: Difference between revisions - Wikipedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:20 www.theguardian.com</li>
+<li class='same'> 07:18 www.theguardian.com</li>
+<li class='same'> 07:17 www.theguardian.com</li>
+<li class='same'> 07:16 www.theguardian.com</li>
+<li> 07:14 web.whatsapp.com</li>
+<li> 07:13 whitewaterwriters.com</li>
+<li> 07:13 www.facebook.com</li>
 <li class='same'> 07:10 www.facebook.com</li>
 <li> 07:09 www.reddit.com</li>
 <li class='same'> 07:08 www.reddit.com</li>
