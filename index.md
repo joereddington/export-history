@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8353)</li>
+<ol><li>www.google.com (8355)</li>
 <li>mail.google.com (5879)</li>
 <li>outlook.office.com (3494)</li>
 <li>www.facebook.com (2685)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1215)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (883)</li>
+<li>outlook.office365.com (885)</li>
 <li>www.theguardian.com (731)</li>
 <li>gmail.com (698)</li>
 <li>www.linkedin.com (653)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (647)</li>
 <li>chat.openai.com (617)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (517)</li>
+<li>login.microsoftonline.com (518)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (451)</li>
 <li>teams.microsoft.com (439)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:23 outlook.office365.com</li>
+<ul><li> 07:31 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 07:30 www.google.com</li>
+<li> 07:30 experience.elluciancloud.ie</li>
+<li> 07:30 login.microsoftonline.com</li>
+<li> 07:30 experience.elluciancloud.ie</li>
+<li> 07:30 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li class='same'> 07:29 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 07:29 www.valdosta.edu</li>
+<li> 07:29 www.ellucian.com</li>
+<li> 07:28 www.google.com</li>
+<li> 07:28 banner.jcu.edu</li>
+<li class='same'> 07:27 banner.jcu.edu</li>
+<li> 07:26 outlook.office365.com</li>
+<li> 07:25 banner.jcu.edu</li>
+<li> 07:25 outlook.office.com</li>
+<li> 07:25 outlook.office365.com</li>
+<li class='same'> 07:23 outlook.office365.com</li>
 <li class='same'> 07:22 outlook.office365.com</li>
 <li> 07:22 login.microsoftonline.com</li>
 <li> 07:22 <a href="https://en.wikipedia.org/wiki/WJEC_(exam_board)">WJEC (exam board) - Wikipedia</a></li>
@@ -17382,8 +17398,7 @@ With number of accesses/minutes in parentheses
 <li> 12:18 mail.google.com</li>
 <li> 12:17 pure.royalholloway.ac.uk</li>
 <li> 12:15 rhul-my.sharepoint.com</li>
-<li> 12:15 outlook.office.com</li>
-<li> 12:14 rhul-my.sharepoint.com</li>
+<li class='same'> 12:14 rhul-my.sharepoint.com</li>
 <li> 12:12 outlook.office.com</li>
 <li class='same'> 12:11 outlook.office.com</li>
 <li> 12:04 teams.microsoft.com</li>
