@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8352)</li>
+<ol><li>www.google.com (8353)</li>
 <li>mail.google.com (5879)</li>
-<li>outlook.office.com (3493)</li>
+<li>outlook.office.com (3494)</li>
 <li>www.facebook.com (2683)</li>
 <li>docs.google.com (1896)</li>
-<li>calendar.google.com (1418)</li>
-<li>moodle.royalholloway.ac.uk (1368)</li>
+<li>calendar.google.com (1419)</li>
+<li>moodle.royalholloway.ac.uk (1367)</li>
 <li>www.reddit.com (1277)</li>
 <li>www.amazon.co.uk (1215)</li>
 <li>github.com (1011)</li>
@@ -84,10 +84,10 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (698)</li>
 <li>www.linkedin.com (653)</li>
 <li>tvtropes.org (649)</li>
-<li>whitewaterwriters.com (638)</li>
-<li>chat.openai.com (616)</li>
+<li>whitewaterwriters.com (646)</li>
+<li>chat.openai.com (617)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (517)</li>
+<li>login.microsoftonline.com (516)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (449)</li>
 <li>teams.microsoft.com (439)</li>
@@ -104,7 +104,47 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 18/10/24</H3>
+
+<br>
+
+<ul><li> 06:53 whitewaterwriters.com</li>
+<li class='same'> 06:47 whitewaterwriters.com</li>
+<li class='same'> 06:46 whitewaterwriters.com</li>
+<li class='same'> 06:35 whitewaterwriters.com</li>
+<li class='same'> 06:34 whitewaterwriters.com</li>
+<li class='same'> 06:28 whitewaterwriters.com</li>
+<li class='same'> 06:22 whitewaterwriters.com</li>
+<li> 06:17 platform.openai.com</li>
+<li> 06:13 chatgpt.com</li>
+<li> 06:11 whitewaterwriters.com</li>
+<li> 06:09 platform.openai.com</li>
+<li class='same'> 06:07 platform.openai.com</li>
+<li class='same'> 06:05 platform.openai.com</li>
+<li class='same'> 06:04 platform.openai.com</li>
+<li> 06:04 auth0.openai.com</li>
+<li> 06:04 auth.openai.com</li>
+<li> 06:04 platform.openai.com</li>
+<li> 06:04 chatgpt.com</li>
+<li class='same'> 06:03 chatgpt.com</li>
+<li> 06:03 www.merge.dev</li>
+<li> 06:03 www.google.com</li>
+<li> 06:03 chatgpt.com</li>
+<li class='same'> 06:02 chatgpt.com</li>
+<li> 06:02 chat.openai.com</li>
+<li> 06:02 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Thursday, 17/10/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -429,8 +469,6 @@ With number of accesses/minutes in parentheses
 <li> 06:41 Local file</li>
 <li> 06:41 moodle.royalholloway.ac.uk</li>
 <li class='same'> 06:40 moodle.royalholloway.ac.uk</li>
-<li> 06:40 login.microsoftonline.com</li>
-<li> 06:40 moodle.royalholloway.ac.uk</li>
 <li> 06:35 qbo.intuit.com</li>
 <li class='same'> 06:34 qbo.intuit.com</li>
 <li class='same'> 06:31 qbo.intuit.com</li>
