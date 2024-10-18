@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8378)</li>
+<ol><li>www.google.com (8383)</li>
 <li>mail.google.com (5885)</li>
-<li>outlook.office.com (3495)</li>
-<li>www.facebook.com (2686)</li>
+<li>outlook.office.com (3496)</li>
+<li>www.facebook.com (2690)</li>
 <li>docs.google.com (1896)</li>
 <li>calendar.google.com (1422)</li>
-<li>moodle.royalholloway.ac.uk (1368)</li>
+<li>moodle.royalholloway.ac.uk (1372)</li>
 <li>www.reddit.com (1280)</li>
 <li>www.amazon.co.uk (1215)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (913)</li>
-<li>www.theguardian.com (739)</li>
+<li>outlook.office365.com (926)</li>
+<li>www.theguardian.com (740)</li>
 <li>gmail.com (700)</li>
-<li>www.linkedin.com (658)</li>
+<li>www.linkedin.com (660)</li>
 <li>tvtropes.org (650)</li>
 <li>whitewaterwriters.com (647)</li>
 <li>chat.openai.com (620)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (526)</li>
+<li>login.microsoftonline.com (528)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (451)</li>
 <li>teams.microsoft.com (439)</li>
 <li>drive.google.com (438)</li>
 <li>kdp.amazon.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (337)</li>
+<li>rhul-my.sharepoint.com (338)</li>
 <li>rhul.sharepoint.com (332)</li>
 <li>www.giantitp.com (316)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:18 www.excelforum.com</li>
+<ul><li> 19:31 www.facebook.com</li>
+<li> 19:25 moodle.royalholloway.ac.uk</li>
+<li class='same'> 19:24 moodle.royalholloway.ac.uk</li>
+<li class='same'> 19:23 moodle.royalholloway.ac.uk</li>
+<li> 19:23 login.microsoftonline.com</li>
+<li> 19:23 moodle.royalholloway.ac.uk</li>
+<li> 19:22 librarysearch.royalholloway.ac.uk</li>
+<li> 19:22 login.openathens.net</li>
+<li> 19:22 librarysearch.royalholloway.ac.uk</li>
+<li> 19:22 login.openathens.net</li>
+<li> 19:22 login.microsoftonline.com</li>
+<li> 19:22 librarysearch.royalholloway.ac.uk</li>
+<li> 19:22 www.google.com</li>
+<li class='same'> 19:13 www.google.com</li>
+<li> 19:13 www.theguardian.com</li>
+<li> 19:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 19:09 www.google.com</li>
+<li> 19:05 www.linkedin.com</li>
+<li class='same'> 19:04 www.linkedin.com</li>
+<li> 19:01 outlook.office365.com</li>
+<li> 18:57 www.facebook.com</li>
+<li> 18:57 www.google.com</li>
+<li class='same'> 18:56 www.google.com</li>
+<li> 18:55 www.facebook.com</li>
+<li class='same'> 18:53 www.facebook.com</li>
+<li> 18:52 outlook.office365.com</li>
+<li> 18:51 rhul-my.sharepoint.com</li>
+<li> 18:51 forms.office.com</li>
+<li> 18:50 outlook.office365.com</li>
+<li class='same'> 18:46 outlook.office365.com</li>
+<li class='same'> 18:45 outlook.office365.com</li>
+<li class='same'> 18:42 outlook.office365.com</li>
+<li class='same'> 18:41 outlook.office365.com</li>
+<li class='same'> 18:39 outlook.office365.com</li>
+<li class='same'> 18:38 outlook.office365.com</li>
+<li class='same'> 18:27 outlook.office365.com</li>
+<li> 18:27 outlook.office.com</li>
+<li> 18:27 forms.office.com</li>
+<li> 18:26 outlook.office365.com</li>
+<li> 18:22 dashboards.rhul.ac.uk</li>
+<li> 18:22 outlook.office365.com</li>
+<li class='same'> 18:21 outlook.office365.com</li>
+<li> 18:18 www.excelforum.com</li>
 <li> 18:18 www.google.com</li>
 <li> 18:17 chatgpt.com</li>
 <li class='same'> 18:16 chatgpt.com</li>
