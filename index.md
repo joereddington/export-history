@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8361)</li>
+<ol><li>www.google.com (8364)</li>
 <li>mail.google.com (5880)</li>
 <li>outlook.office.com (3494)</li>
 <li>www.facebook.com (2685)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1215)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (887)</li>
+<li>outlook.office365.com (888)</li>
 <li>www.theguardian.com (731)</li>
 <li>gmail.com (699)</li>
 <li>www.linkedin.com (653)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:13 mail.google.com</li>
+<ul><li> 11:25 www.thesaurus.com</li>
+<li> 11:25 www.google.com</li>
+<li class='same'> 11:24 www.google.com</li>
+<li> 11:23 outlook.office365.com</li>
+<li> 11:20 <a href="https://xkcd.com/327/">xkcd: Exploits of a Mom</a></li>
+<li> 11:20 www.google.com</li>
+<li> 11:13 mail.google.com</li>
 <li> 11:13 gmail.com</li>
 <li> 11:11 www.google.com</li>
 <li> 11:10 www.ncsc.gov.uk</li>
