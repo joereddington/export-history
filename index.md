@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8355)</li>
-<li>mail.google.com (5879)</li>
+<ol><li>www.google.com (8361)</li>
+<li>mail.google.com (5880)</li>
 <li>outlook.office.com (3494)</li>
 <li>www.facebook.com (2685)</li>
 <li>docs.google.com (1896)</li>
 <li>calendar.google.com (1419)</li>
 <li>moodle.royalholloway.ac.uk (1367)</li>
-<li>www.reddit.com (1279)</li>
+<li>www.reddit.com (1280)</li>
 <li>www.amazon.co.uk (1215)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (885)</li>
+<li>outlook.office365.com (887)</li>
 <li>www.theguardian.com (731)</li>
-<li>gmail.com (698)</li>
+<li>gmail.com (699)</li>
 <li>www.linkedin.com (653)</li>
 <li>tvtropes.org (649)</li>
 <li>whitewaterwriters.com (647)</li>
-<li>chat.openai.com (617)</li>
+<li>chat.openai.com (618)</li>
 <li>app.qbo.intuit.com (568)</li>
 <li>login.microsoftonline.com (518)</li>
 <li>en.m.wikipedia.org (488)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (438)</li>
 <li>kdp.amazon.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (333)</li>
+<li>rhul-my.sharepoint.com (334)</li>
 <li>rhul.sharepoint.com (332)</li>
 <li>www.giantitp.com (315)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:31 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<ul><li> 11:13 mail.google.com</li>
+<li> 11:13 gmail.com</li>
+<li> 11:11 www.google.com</li>
+<li> 11:10 www.ncsc.gov.uk</li>
+<li class='same'> 11:09 www.ncsc.gov.uk</li>
+<li class='same'> 11:08 www.ncsc.gov.uk</li>
+<li> 11:08 www.google.com</li>
+<li> 11:07 getreadyforcyberessentials.iasme.co.uk</li>
+<li> 11:07 www.ncsc.gov.uk</li>
+<li> 10:57 www.reddit.com</li>
+<li> 10:56 www.google.com</li>
+<li> 10:56 rhul-my.sharepoint.com</li>
+<li> 10:55 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:57 chatgpt.com</li>
+<li class='same'> 07:56 chatgpt.com</li>
+<li> 07:56 chat.openai.com</li>
+<li> 07:37 outlook.office365.com</li>
+<li> 07:36 www.google.com</li>
+<li> 07:36 chromewebstore.google.com</li>
+<li> 07:36 www.google.com</li>
+<li> 07:36 webspace.potsdam.edu</li>
+<li class='same'> 07:35 webspace.potsdam.edu</li>
+<li> 07:35 www.google.com</li>
+<li> 07:31 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 07:30 www.google.com</li>
 <li> 07:30 experience.elluciancloud.ie</li>
 <li> 07:30 login.microsoftonline.com</li>
