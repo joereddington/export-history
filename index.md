@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (8353)</li>
 <li>mail.google.com (5879)</li>
 <li>outlook.office.com (3494)</li>
-<li>www.facebook.com (2683)</li>
+<li>www.facebook.com (2685)</li>
 <li>docs.google.com (1896)</li>
 <li>calendar.google.com (1419)</li>
 <li>moodle.royalholloway.ac.uk (1367)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:09 www.reddit.com</li>
+<ul><li> 07:13 www.facebook.com</li>
+<li class='same'> 07:10 www.facebook.com</li>
+<li> 07:09 www.reddit.com</li>
 <li class='same'> 07:08 www.reddit.com</li>
 <li> 07:02 web.whatsapp.com</li>
 <li> 06:53 whitewaterwriters.com</li>
