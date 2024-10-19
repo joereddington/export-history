@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8383)</li>
+<ol><li>www.google.com (8387)</li>
 <li>mail.google.com (5885)</li>
 <li>outlook.office.com (3497)</li>
 <li>www.facebook.com (2690)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (926)</li>
-<li>www.theguardian.com (740)</li>
+<li>www.theguardian.com (750)</li>
 <li>gmail.com (700)</li>
 <li>www.linkedin.com (660)</li>
 <li>tvtropes.org (650)</li>
@@ -104,7 +104,38 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 19/10/24</H3>
+
+<br>
+
+<ul><li> 10:24 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:12 www.datacenterdynamics.com</li>
+<li> 09:12 www.google.com</li>
+<li> 09:12 www.justice.gov</li>
+<li> 09:12 www.google.com</li>
+<li> 09:09 www.theguardian.com</li>
+<li class='same'> 09:06 www.theguardian.com</li>
+<li class='same'> 09:05 www.theguardian.com</li>
+<li> 09:00 www.natesilver.net</li>
+<li> 09:00 www.google.com</li>
+<li> 09:00 www.theguardian.com</li>
+<li class='same'> 08:57 www.theguardian.com</li>
+<li class='same'> 08:56 www.theguardian.com</li>
+<li class='same'> 08:55 www.theguardian.com</li>
+<li class='same'> 08:54 www.theguardian.com</li>
+<li class='same'> 08:53 www.theguardian.com</li>
+<li> 08:53 pure.royalholloway.ac.uk</li>
+</ul>
+
 <H3>Friday, 18/10/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -250,6 +281,9 @@ With number of accesses/minutes in parentheses
 <li> 15:35 www.google.com</li>
 <li> 15:34 chatgpt.com</li>
 <li> 15:34 chat.openai.com</li>
+<li> 15:32 pure.royalholloway.ac.uk</li>
+<li> 15:32 www.royalholloway.ac.uk</li>
+<li> 15:32 www.google.com</li>
 <li> 15:31 www.theguardian.com</li>
 <li> 15:21 outlook.office365.com</li>
 </ul>
@@ -76799,7 +76833,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:56 platform.openai.com</li>
+<ul><li> 19:00 platform.openai.com</li>
+<li class='same'> 18:59 platform.openai.com</li>
+<li class='same'> 18:56 platform.openai.com</li>
 <li class='same'> 18:55 platform.openai.com</li>
 </ul>
 
