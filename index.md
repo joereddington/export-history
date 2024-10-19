@@ -17510,8 +17510,7 @@ With number of accesses/minutes in parentheses
 <li> 17:39 www.channel4.com</li>
 <li> 17:39 mail.google.com</li>
 <li> 17:38 kdp.amazon.com</li>
-<li> 17:36 cc.amazon.com</li>
-<li> 17:36 kdp.amazon.com</li>
+<li class='same'> 17:36 kdp.amazon.com</li>
 <li> 17:34 mail.google.com</li>
 <li class='same'> 17:33 mail.google.com</li>
 <li class='same'> 17:32 mail.google.com</li>
@@ -17540,13 +17539,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:44 www.facebook.com</li>
 <li class='same'> 16:43 www.facebook.com</li>
 <li> 16:43 checkout.paypal.com</li>
-<li> 16:43 www.paypal.com</li>
-<li class='same'> 16:42 www.paypal.com</li>
+<li> 16:42 www.paypal.com</li>
 <li> 16:42 checkout.paypal.com</li>
 <li> 16:41 www.airbnb.co.uk</li>
 <li class='same'> 16:40 www.airbnb.co.uk</li>
-<li class='same'> 16:39 www.airbnb.co.uk</li>
-<li class='same'> 16:38 www.airbnb.co.uk</li>
 <li class='same'> 16:37 www.airbnb.co.uk</li>
 <li class='same'> 16:36 www.airbnb.co.uk</li>
 <li class='same'> 16:35 www.airbnb.co.uk</li>
