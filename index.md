@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8400)</li>
-<li>mail.google.com (5885)</li>
-<li>outlook.office.com (3497)</li>
-<li>www.facebook.com (2690)</li>
+<ol><li>www.google.com (8407)</li>
+<li>mail.google.com (5887)</li>
+<li>outlook.office.com (3498)</li>
+<li>www.facebook.com (2693)</li>
 <li>docs.google.com (1896)</li>
 <li>calendar.google.com (1422)</li>
 <li>moodle.royalholloway.ac.uk (1372)</li>
-<li>www.reddit.com (1281)</li>
+<li>www.reddit.com (1295)</li>
 <li>www.amazon.co.uk (1215)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (926)</li>
 <li>www.theguardian.com (751)</li>
-<li>gmail.com (700)</li>
-<li>www.linkedin.com (660)</li>
+<li>gmail.com (701)</li>
+<li>www.linkedin.com (662)</li>
 <li>tvtropes.org (650)</li>
 <li>whitewaterwriters.com (647)</li>
 <li>chat.openai.com (620)</li>
 <li>app.qbo.intuit.com (568)</li>
 <li>login.microsoftonline.com (529)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (451)</li>
+<li>web.whatsapp.com (452)</li>
 <li>teams.microsoft.com (439)</li>
 <li>drive.google.com (438)</li>
 <li>kdp.amazon.com (431)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 20/10/24</H3>
+
+<br>
+
+<ul><li> 11:35 www.google.com</li>
+<li> 11:33 www.facebook.com</li>
+<li class='same'> 11:32 www.facebook.com</li>
+<li> 11:31 www.ebay.co.uk</li>
+<li class='same'> 11:30 www.ebay.co.uk</li>
+<li> 11:30 mail.google.com</li>
+<li> 11:30 web.whatsapp.com</li>
+<li> 11:29 mail.google.com</li>
+<li> 11:29 gmail.com</li>
+</ul>
 
 <br>
 
@@ -132,6 +145,38 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 19:15 www.google.com</li>
 <li> 19:14 www.italki.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:57 www.facebook.com</li>
+<li> 16:57 www.linkedin.com</li>
+<li class='same'> 16:56 www.linkedin.com</li>
+<li> 16:56 www.google.com</li>
+<li class='same'> 16:55 www.google.com</li>
+<li class='same'> 16:52 www.google.com</li>
+<li class='same'> 16:51 www.google.com</li>
+<li> 16:51 <a href="https://en.wikipedia.org/wiki/Power_Court_Stadium#/map/0">Power Court Stadium - Wikipedia</a></li>
+<li> 16:51 <a href="https://en.wikipedia.org/wiki/Power_Court_Stadium">Power Court Stadium - Wikipedia</a></li>
+<li> 16:50 www.google.com</li>
+<li> 16:50 constructionmanagement.co.uk</li>
+<li> 16:50 footballgroundguide.com</li>
+<li> 16:50 www.google.com</li>
+<li> 16:42 www.reddit.com</li>
+<li class='same'> 16:40 www.reddit.com</li>
+<li class='same'> 16:39 www.reddit.com</li>
+<li class='same'> 16:38 www.reddit.com</li>
+<li class='same'> 16:36 www.reddit.com</li>
+<li class='same'> 16:35 www.reddit.com</li>
+<li class='same'> 16:34 www.reddit.com</li>
+<li class='same'> 16:33 www.reddit.com</li>
+<li class='same'> 16:32 www.reddit.com</li>
+<li class='same'> 16:31 www.reddit.com</li>
+<li class='same'> 16:30 www.reddit.com</li>
+<li class='same'> 16:29 www.reddit.com</li>
+<li class='same'> 16:28 www.reddit.com</li>
+<li class='same'> 16:27 www.reddit.com</li>
+<li> 16:27 outlook.office.com</li>
 </ul>
 
 <br>
