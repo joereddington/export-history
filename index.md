@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8407)</li>
+<ol><li>www.google.com (8413)</li>
 <li>mail.google.com (5889)</li>
 <li>outlook.office.com (3498)</li>
 <li>www.facebook.com (2693)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (751)</li>
 <li>gmail.com (701)</li>
 <li>www.linkedin.com (662)</li>
-<li>tvtropes.org (650)</li>
+<li>tvtropes.org (651)</li>
 <li>whitewaterwriters.com (647)</li>
 <li>chat.openai.com (620)</li>
 <li>app.qbo.intuit.com (568)</li>
@@ -105,6 +105,35 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 20/10/24</H3>
+
+<br>
+
+<ul><li> 17:37 www.google.com</li>
+<li class='same'> 17:36 www.google.com</li>
+<li> 17:35 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 17:35 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=history">Information security: Revision history - Wikipedia</a></li>
+<li> 17:34 <a href="https://en.wikipedia.org/wiki/Information_governance">Information governance - Wikipedia</a></li>
+<li> 17:34 <a href="https://en.wikipedia.org/wiki/Information_Security_Governance">Information governance - Wikipedia</a></li>
+<li> 17:34 <a href="https://en.wikipedia.org/wiki/Information_security#Basic_principles">Information security - Wikipedia</a></li>
+<li> 17:34 <a href="https://en.wikipedia.org/wiki/Information_security#Incident_response_plans">Information security - Wikipedia</a></li>
+<li> 17:33 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=24">Editing Information security (section) - Wikipedia</a></li>
+<li> 17:33 <a href="https://en.wikipedia.org/wiki/Information_security#Security_controls">Information security - Wikipedia</a></li>
+<li> 17:32 www.google.com</li>
+<li> 17:32 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=14">Editing Information security (section) - Wikipedia</a></li>
+<li> 17:31 <a href="https://en.wikipedia.org/wiki/Security_controls">Security controls - Wikipedia</a></li>
+<li> 17:31 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 17:31 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=14">Editing Information security (section) - Wikipedia</a></li>
+<li> 17:30 <a href="https://en.wikipedia.org/wiki/Risk_management">Risk management - Wikipedia</a></li>
+<li> 17:29 <a href="https://en.wikipedia.org/wiki/Threat_(computer_security)">Threat (computer security) - Wikipedia</a></li>
+<li> 17:29 <a href="https://en.wikipedia.org/wiki/Threat_(computer)">Threat (computer security) - Wikipedia</a></li>
+<li> 17:29 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 17:29 www.google.com</li>
+<li> 17:29 <a href="https://en.wikipedia.org/wiki/Scientific_research_on_the_International_Space_Station">Scientific research on the International Space Station - Wikipedia</a></li>
+<li> 17:27 <a href="https://en.wikipedia.org/wiki/International_Space_Station">International Space Station - Wikipedia</a></li>
+<li> 17:27 www.google.com</li>
+<li> 17:25 tvtropes.org</li>
+<li> 17:25 www.google.com</li>
+</ul>
 
 <br>
 
