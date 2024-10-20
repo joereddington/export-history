@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:28 <a href="https://en.wikipedia.org/wiki/Cyber_self-defense">Cyber self-defense - Wikipedia</a></li>
+<ul><li> 18:32 <a href="https://en.wikipedia.org/wiki/Computer_security_software">Computer security software - Wikipedia</a></li>
+<li> 18:32 <a href="https://en.wikipedia.org/wiki/Secure_coding">Secure coding - Wikipedia</a></li>
+<li> 18:32 <a href="https://en.wikipedia.org/wiki/Application_security">Application security - Wikipedia</a></li>
+<li> 18:31 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
+<li> 18:31 www.natwest.com</li>
+<li> 18:31 <a href="https://en.wikipedia.org/wiki/Panda_Security">Panda Security - Wikipedia</a></li>
+<li> 18:30 <a href="https://en.wikipedia.org/wiki/Digital_self-defense">Editing Digital self-defense - Wikipedia</a></li>
+<li> 18:30 <a href="https://en.wikipedia.org/w/index.php?title=Digital_self-defense&action=edit">Editing Digital self-defense - Wikipedia</a></li>
+<li> 18:30 <a href="https://en.wikipedia.org/w/index.php?title=Digital_self-defense&action=history">Digital self-defense: Revision history - Wikipedia</a></li>
+<li> 18:29 <a href="https://en.wikipedia.org/wiki/Digital_self-defense">Editing Digital self-defense - Wikipedia</a></li>
+<li> 18:29 <a href="https://en.wikipedia.org/wiki/Proactive_cyber_defence">Proactive cyber defence - Wikipedia</a></li>
+<li> 18:28 <a href="https://en.wikipedia.org/wiki/Cyber_self-defense">Cyber self-defense - Wikipedia</a></li>
 <li> 18:28 wp1.openzim.org</li>
 <li class='same'> 18:27 wp1.openzim.org</li>
 <li> 18:27 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computer_Security">Wikipedia:WikiProject Computer Security - Wikipedia</a></li>
