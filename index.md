@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1896)</li>
 <li>calendar.google.com (1423)</li>
 <li>moodle.royalholloway.ac.uk (1372)</li>
-<li>www.reddit.com (1295)</li>
+<li>www.reddit.com (1296)</li>
 <li>www.amazon.co.uk (1216)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (453)</li>
 <li>teams.microsoft.com (439)</li>
 <li>drive.google.com (438)</li>
-<li>kdp.amazon.com (431)</li>
+<li>kdp.amazon.com (432)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (338)</li>
 <li>rhul.sharepoint.com (332)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:05 www.google.com</li>
+<ul><li> 07:10 kdpreports.amazon.com</li>
+<li> 07:10 kdp.amazon.com</li>
+<li> 07:06 www.reddit.com</li>
+<li> 07:05 www.google.com</li>
 <li> 07:04 www.theguardian.com</li>
 <li> 06:58 whitewaterwriters.com</li>
 </ul>
