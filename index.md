@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8433)</li>
-<li>mail.google.com (5895)</li>
+<ol><li>www.google.com (8434)</li>
+<li>mail.google.com (5897)</li>
 <li>outlook.office.com (3499)</li>
 <li>www.facebook.com (2694)</li>
 <li>docs.google.com (1896)</li>
 <li>calendar.google.com (1427)</li>
-<li>moodle.royalholloway.ac.uk (1379)</li>
+<li>moodle.royalholloway.ac.uk (1382)</li>
 <li>www.reddit.com (1296)</li>
 <li>www.amazon.co.uk (1216)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (929)</li>
 <li>www.theguardian.com (753)</li>
-<li>gmail.com (704)</li>
-<li>www.linkedin.com (665)</li>
+<li>gmail.com (705)</li>
+<li>www.linkedin.com (666)</li>
 <li>tvtropes.org (651)</li>
 <li>whitewaterwriters.com (648)</li>
 <li>chat.openai.com (620)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:39 moodle.royalholloway.ac.uk</li>
+<ul><li> 09:45 mail.google.com</li>
+<li> 09:43 www.tvlicensing.co.uk</li>
+<li class='same'> 09:42 www.tvlicensing.co.uk</li>
+<li> 09:42 mail.google.com</li>
+<li> 09:42 gmail.com</li>
+<li> 09:42 www.tvlicensing.co.uk</li>
+<li> 09:42 www.googleadservices.com</li>
+<li> 09:42 ad.doubleclick.net</li>
+<li> 09:42 www.google.com</li>
+<li> 09:41 www.linkedin.com</li>
+<li> 09:41 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:40 moodle.royalholloway.ac.uk</li>
+<li> 09:40 Local file</li>
+<li> 09:40 euc-word-edit.officeapps.live.com</li>
+<li> 09:40 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:39 moodle.royalholloway.ac.uk</li>
 <li> 09:38 calendar.google.com</li>
 <li> 09:38 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:37 moodle.royalholloway.ac.uk</li>
