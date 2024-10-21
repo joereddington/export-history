@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8452)</li>
+<ol><li>www.google.com (8453)</li>
 <li>mail.google.com (5900)</li>
 <li>outlook.office.com (3502)</li>
 <li>www.facebook.com (2696)</li>
@@ -79,17 +79,17 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1218)</li>
 <li>github.com (1012)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (969)</li>
+<li>outlook.office365.com (972)</li>
 <li>www.theguardian.com (753)</li>
 <li>gmail.com (707)</li>
-<li>www.linkedin.com (667)</li>
+<li>www.linkedin.com (668)</li>
 <li>tvtropes.org (651)</li>
-<li>whitewaterwriters.com (648)</li>
+<li>whitewaterwriters.com (650)</li>
 <li>chat.openai.com (622)</li>
 <li>app.qbo.intuit.com (568)</li>
 <li>login.microsoftonline.com (536)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (456)</li>
+<li>web.whatsapp.com (457)</li>
 <li>teams.microsoft.com (440)</li>
 <li>kdp.amazon.com (438)</li>
 <li>drive.google.com (438)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 21/10/24</H3>
+
+<br>
+
+<ul><li> 14:37 whitewaterwriters.com</li>
+<li class='same'> 14:35 whitewaterwriters.com</li>
+<li> 14:33 www.linkedin.com</li>
+<li> 14:33 www.google.com</li>
+<li> 14:31 outlook.office365.com</li>
+<li class='same'> 14:30 outlook.office365.com</li>
+<li> 14:30 uofglasgow.zoom.us</li>
+<li> 14:30 web.whatsapp.com</li>
+<li> 14:29 outlook.office365.com</li>
+</ul>
 
 <br>
 
