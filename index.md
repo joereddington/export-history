@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8431)</li>
-<li>mail.google.com (5889)</li>
+<ol><li>www.google.com (8432)</li>
+<li>mail.google.com (5891)</li>
 <li>outlook.office.com (3498)</li>
-<li>www.facebook.com (2693)</li>
+<li>www.facebook.com (2694)</li>
 <li>docs.google.com (1896)</li>
-<li>calendar.google.com (1423)</li>
+<li>calendar.google.com (1425)</li>
 <li>moodle.royalholloway.ac.uk (1372)</li>
 <li>www.reddit.com (1296)</li>
 <li>www.amazon.co.uk (1216)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (926)</li>
+<li>outlook.office365.com (928)</li>
 <li>www.theguardian.com (752)</li>
-<li>gmail.com (701)</li>
-<li>www.linkedin.com (663)</li>
+<li>gmail.com (703)</li>
+<li>www.linkedin.com (664)</li>
 <li>tvtropes.org (651)</li>
 <li>whitewaterwriters.com (648)</li>
 <li>chat.openai.com (620)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (529)</li>
+<li>login.microsoftonline.com (531)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (453)</li>
 <li>teams.microsoft.com (439)</li>
@@ -117,6 +117,28 @@ With number of accesses/minutes in parentheses
 <li> 07:05 www.google.com</li>
 <li> 07:04 www.theguardian.com</li>
 <li> 06:58 whitewaterwriters.com</li>
+<li> 06:56 calendar.google.com</li>
+<li class='same'> 06:55 calendar.google.com</li>
+<li> 06:55 www.facebook.com</li>
+<li> 06:51 www.linkedin.com</li>
+<li> 06:50 mail.google.com</li>
+<li> 06:50 gmail.com</li>
+<li> 06:50 mail.google.com</li>
+<li> 06:50 accounts.google.com</li>
+<li> 06:50 gmail.com</li>
+<li> 06:49 <a href="https://en.wikipedia.org/wiki/Special:FewestRevisions">Pages with the fewest revisions - Wikipedia</a></li>
+<li> 06:49 www.google.com</li>
+<li> 06:45 www.schneier.com</li>
+<li> 06:39 www.microsoft365.com</li>
+<li> 06:39 login.microsoftonline.com</li>
+<li> 06:39 outlook.office365.com</li>
+<li class='same'> 06:38 outlook.office365.com</li>
+<li> 06:38 login.microsoftonline.com</li>
+<li> 06:37 <a href="https://en.wikipedia.org/wiki/Outline_of_computer_security">Outline of computer security - Wikipedia</a></li>
+<li> 06:37 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:37 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:37 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:37 <a href="https://en.wikipedia.org/wiki/Computer_security_software">Computer security software - Wikipedia</a></li>
 </ul>
 
 <H3>Sunday, 20/10/24</H3>
@@ -127,7 +149,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:32 <a href="https://en.wikipedia.org/wiki/Computer_security_software">Computer security software - Wikipedia</a></li>
+<ul><li class='same'> 18:32 <a href="https://en.wikipedia.org/wiki/Computer_security_software">Computer security software - Wikipedia</a></li>
 <li> 18:32 <a href="https://en.wikipedia.org/wiki/Secure_coding">Secure coding - Wikipedia</a></li>
 <li> 18:32 <a href="https://en.wikipedia.org/wiki/Application_security">Application security - Wikipedia</a></li>
 <li> 18:31 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
@@ -158,9 +180,9 @@ With number of accesses/minutes in parentheses
 <li> 18:18 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
 <li> 18:18 www.google.com</li>
 <li> 18:18 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 18:18 <a href="https://en.wikipedia.org/wiki/Outline_of_computer_security">Computer security - Wikipedia</a></li>
+<li> 18:18 <a href="https://en.wikipedia.org/wiki/Outline_of_computer_security">Outline of computer security - Wikipedia</a></li>
 <li> 18:18 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
-<li> 18:17 <a href="https://en.wikipedia.org/wiki/Outline_of_computer_security">Computer security - Wikipedia</a></li>
+<li> 18:17 <a href="https://en.wikipedia.org/wiki/Outline_of_computer_security">Outline of computer security - Wikipedia</a></li>
 <li> 18:17 <a href="https://en.wikipedia.org/w/index.php?title=Outline_of_computer_security&action=edit">Editing Outline of computer security - Wikipedia</a></li>
 <li> 18:16 www.google.com</li>
 <li> 18:16 <a href="https://en.wikipedia.org/wiki/Wikipedia:Template_messages/Redirect_pages">Wikipedia:Template index/Redirect pages - Wikipedia</a></li>
@@ -169,7 +191,7 @@ With number of accesses/minutes in parentheses
 <li> 18:16 <a href="https://en.wikipedia.org/wiki/Wikipedia:Page_blanking">Wikipedia:Page blanking - Wikipedia</a></li>
 <li> 18:16 <a href="https://en.wikipedia.org/wiki/Wikipedia:BLANK">Wikipedia:Page blanking - Wikipedia</a></li>
 <li> 18:15 <a href="https://en.wikipedia.org/w/index.php?title=Outline_of_computer_security&action=edit">Editing Outline of computer security - Wikipedia</a></li>
-<li> 18:14 <a href="https://en.wikipedia.org/wiki/Outline_of_computer_security">Computer security - Wikipedia</a></li>
+<li> 18:14 <a href="https://en.wikipedia.org/wiki/Outline_of_computer_security">Outline of computer security - Wikipedia</a></li>
 <li> 18:14 <a href="https://en.wikipedia.org/wiki/Template:Blank_and_redirect_notice">Template:Blank and redirect notice - Wikipedia</a></li>
 <li> 18:14 <a href="https://en.wikipedia.org/wiki/Wikipedia:Redirect#Redirects_that_replace_previous_articles">Wikipedia:Redirect - Wikipedia</a></li>
 <li> 18:14 <a href="https://en.wikipedia.org/wiki/Wikipedia:BLANKANDREDIRECT">Wikipedia:Redirect - Wikipedia</a></li>
@@ -193,7 +215,7 @@ With number of accesses/minutes in parentheses
 <li> 18:10 <a href="https://en.wikipedia.org/w/index.php?title=Outline_of_computer_security&action=history&offset=20150531050546%7C664814240">Outline of computer security: Revision history - Wikipedia</a></li>
 <li> 18:10 <a href="https://en.wikipedia.org/w/index.php?title=Outline_of_computer_security&action=history&offset=20190702011105%7C904418262">Outline of computer security: Revision history - Wikipedia</a></li>
 <li> 18:10 <a href="https://en.wikipedia.org/w/index.php?title=Outline_of_computer_security&action=history">Outline of computer security: Revision history - Wikipedia</a></li>
-<li> 18:09 <a href="https://en.wikipedia.org/wiki/Outline_of_computer_security">Computer security - Wikipedia</a></li>
+<li> 18:09 <a href="https://en.wikipedia.org/wiki/Outline_of_computer_security">Outline of computer security - Wikipedia</a></li>
 <li> 18:09 <a href="https://en.wikipedia.org/wiki/Exploit_(computer_security)">Exploit (computer security) - Wikipedia</a></li>
 <li> 18:09 <a href="https://en.wikipedia.org/wiki/Exploit">Exploit - Wikipedia</a></li>
 <li> 18:09 www.google.com</li>
