@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8455)</li>
-<li>mail.google.com (5900)</li>
-<li>outlook.office.com (3502)</li>
+<li>mail.google.com (5905)</li>
+<li>outlook.office.com (3503)</li>
 <li>www.facebook.com (2696)</li>
 <li>docs.google.com (1897)</li>
 <li>calendar.google.com (1427)</li>
@@ -79,22 +79,22 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1218)</li>
 <li>github.com (1012)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (972)</li>
+<li>outlook.office365.com (973)</li>
 <li>www.theguardian.com (753)</li>
-<li>gmail.com (707)</li>
+<li>gmail.com (710)</li>
 <li>www.linkedin.com (668)</li>
 <li>tvtropes.org (651)</li>
 <li>whitewaterwriters.com (650)</li>
-<li>chat.openai.com (622)</li>
+<li>chat.openai.com (623)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (537)</li>
+<li>login.microsoftonline.com (538)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (457)</li>
 <li>teams.microsoft.com (440)</li>
 <li>drive.google.com (439)</li>
 <li>kdp.amazon.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (343)</li>
+<li>rhul-my.sharepoint.com (344)</li>
 <li>rhul.sharepoint.com (332)</li>
 <li>www.giantitp.com (316)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:51 www.google.com</li>
+<ul><li> 15:16 outlook.office365.com</li>
+<li> 15:14 mail.google.com</li>
+<li> 15:14 gmail.com</li>
+<li> 15:11 outlook.office.com</li>
+<li> 15:11 login.microsoftonline.com</li>
+<li> 15:11 mail.google.com</li>
+<li class='same'> 15:10 mail.google.com</li>
+<li> 15:10 gmail.com</li>
+<li> 15:10 rhul-my.sharepoint.com</li>
+<li> 15:10 mail.google.com</li>
+<li class='same'> 15:09 mail.google.com</li>
+<li> 15:09 gmail.com</li>
+<li> 15:09 www.elysee.fr</li>
+<li> 14:55 chatgpt.com</li>
+<li> 14:55 chat.openai.com</li>
+<li> 14:51 www.google.com</li>
 <li> 14:46 community.spiceworks.com</li>
 <li> 14:46 www.google.com</li>
 <li> 14:44 login.microsoftonline.com</li>
