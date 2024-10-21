@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8455)</li>
+<ol><li>www.google.com (8460)</li>
 <li>mail.google.com (5905)</li>
 <li>outlook.office.com (3503)</li>
 <li>www.facebook.com (2696)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (668)</li>
 <li>tvtropes.org (651)</li>
 <li>whitewaterwriters.com (650)</li>
-<li>chat.openai.com (623)</li>
+<li>chat.openai.com (624)</li>
 <li>app.qbo.intuit.com (568)</li>
 <li>login.microsoftonline.com (538)</li>
 <li>en.m.wikipedia.org (488)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 21/10/24</H3>
+
+<br>
+
+<ul><li> 16:49 iss.internationaljournallabs.com</li>
+<li> 16:49 scholar.google.com</li>
+<li> 16:49 www.google.com</li>
+<li class='same'> 16:48 www.google.com</li>
+<li> 16:48 www.google.co.uk</li>
+<li> 16:48 books.google.co.uk</li>
+<li> 16:47 www.google.com</li>
+<li> 16:46 books.google.co.uk</li>
+<li> 16:46 www.google.com</li>
+<li> 16:45 www.thestudentroom.co.uk</li>
+<li> 16:45 www.google.com</li>
+<li> 16:45 chatgpt.com</li>
+<li class='same'> 16:44 chatgpt.com</li>
+<li> 16:44 chat.openai.com</li>
+</ul>
 
 <br>
 
