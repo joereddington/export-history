@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8464)</li>
+<ol><li>www.google.com (8465)</li>
 <li>mail.google.com (5905)</li>
-<li>outlook.office.com (3503)</li>
+<li>outlook.office.com (3504)</li>
 <li>www.facebook.com (2696)</li>
 <li>docs.google.com (1897)</li>
 <li>calendar.google.com (1427)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1219)</li>
 <li>github.com (1012)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (973)</li>
+<li>outlook.office365.com (974)</li>
 <li>www.theguardian.com (753)</li>
 <li>gmail.com (710)</li>
 <li>www.linkedin.com (668)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:58 librarysearch.royalholloway.ac.uk</li>
+<ul><li> 17:06 link.springer.com</li>
+<li> 17:06 idp.springer.com</li>
+<li> 17:06 www.google.com</li>
+<li> 17:04 outlook.office365.com</li>
+<li> 17:04 outlook.office.com</li>
+<li> 17:04 mail.rhul.ac.uk</li>
+<li> 16:58 librarysearch.royalholloway.ac.uk</li>
 <li> 16:57 www.amazon.co.uk</li>
 <li> 16:56 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 16:55 librarysearch.royalholloway.ac.uk</li>
