@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8445)</li>
+<ol><li>www.google.com (8452)</li>
 <li>mail.google.com (5899)</li>
-<li>outlook.office.com (3501)</li>
+<li>outlook.office.com (3502)</li>
 <li>www.facebook.com (2696)</li>
 <li>docs.google.com (1896)</li>
 <li>calendar.google.com (1427)</li>
 <li>moodle.royalholloway.ac.uk (1388)</li>
 <li>www.reddit.com (1298)</li>
 <li>www.amazon.co.uk (1218)</li>
-<li>github.com (1011)</li>
+<li>github.com (1012)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (959)</li>
+<li>outlook.office365.com (968)</li>
 <li>www.theguardian.com (753)</li>
 <li>gmail.com (706)</li>
 <li>www.linkedin.com (667)</li>
 <li>tvtropes.org (651)</li>
 <li>whitewaterwriters.com (648)</li>
-<li>chat.openai.com (621)</li>
+<li>chat.openai.com (622)</li>
 <li>app.qbo.intuit.com (568)</li>
 <li>login.microsoftonline.com (536)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (456)</li>
-<li>teams.microsoft.com (439)</li>
+<li>teams.microsoft.com (440)</li>
+<li>kdp.amazon.com (438)</li>
 <li>drive.google.com (438)</li>
-<li>kdp.amazon.com (432)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (342)</li>
 <li>rhul.sharepoint.com (332)</li>
@@ -108,7 +108,56 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:08 moodle.royalholloway.ac.uk</li>
+<ul><li> 12:57 <a href="https://en.wikipedia.org/wiki/Outline_of_computer_security">Outline of computer security - Wikipedia</a></li>
+<li> 12:56 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 12:56 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 12:55 wp1.openzim.org</li>
+<li> 12:53 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computer_Security">Wikipedia:WikiProject Computer Security - Wikipedia</a></li>
+<li> 12:53 www.google.com</li>
+<li> 12:53 <a href="https://en.wikipedia.org/wiki/Talk:Information_security">Talk:Information security - Wikipedia</a></li>
+<li> 12:53 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:53 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:52 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:52 outlook.office365.com</li>
+<li> 12:47 teams.microsoft.com</li>
+<li> 12:47 outlook.office365.com</li>
+<li class='same'> 12:41 outlook.office365.com</li>
+<li> 12:41 kdp.amazon.com</li>
+<li> 12:40 www.google.com</li>
+<li> 12:39 kdp.amazon.com</li>
+<li class='same'> 12:38 kdp.amazon.com</li>
+<li class='same'> 12:36 kdp.amazon.com</li>
+<li> 12:35 outlook.office365.com</li>
+<li> 12:34 www.google.com</li>
+<li> 12:33 outlook.office365.com</li>
+<li> 12:33 www.google.com</li>
+<li> 12:33 outlook.office365.com</li>
+<li class='same'> 12:32 outlook.office365.com</li>
+<li> 12:32 pure.royalholloway.ac.uk</li>
+<li> 12:32 www.google.com</li>
+<li> 12:32 pure.royalholloway.ac.uk</li>
+<li> 12:32 www.google.com</li>
+<li class='same'> 12:31 www.google.com</li>
+<li> 12:31 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:31 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:31 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:30 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
+<li> 12:30 <a href="https://joereddington.com/2024/07/21/the-difficult-second-book.html">The difficult second book | Joe Reddington</a></li>
+<li> 12:30 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:30 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:29 cc.amazon.com</li>
+<li> 12:29 kdp.amazon.com</li>
+<li class='same'> 12:28 kdp.amazon.com</li>
+<li> 12:23 outlook.office365.com</li>
+<li> 12:15 chatgpt.com</li>
+<li> 12:15 chat.openai.com</li>
+<li> 12:15 github.com</li>
+<li> 12:14 gitlab.cim.rhul.ac.uk</li>
+<li> 12:14 outlook.office.com</li>
+<li> 12:14 outlook.office365.com</li>
+<li> 12:08 moodle.royalholloway.ac.uk</li>
 <li> 12:05 www.royalholloway.ac.uk</li>
 <li> 12:05 www.google.com</li>
 <li> 12:04 moodle.royalholloway.ac.uk</li>
