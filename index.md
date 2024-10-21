@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8460)</li>
+<ol><li>www.google.com (8464)</li>
 <li>mail.google.com (5905)</li>
 <li>outlook.office.com (3503)</li>
 <li>www.facebook.com (2696)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1427)</li>
 <li>moodle.royalholloway.ac.uk (1388)</li>
 <li>www.reddit.com (1298)</li>
-<li>www.amazon.co.uk (1218)</li>
+<li>www.amazon.co.uk (1219)</li>
 <li>github.com (1012)</li>
 <li>m.facebook.com (977)</li>
 <li>outlook.office365.com (973)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:49 iss.internationaljournallabs.com</li>
+<ul><li> 16:58 librarysearch.royalholloway.ac.uk</li>
+<li> 16:57 www.amazon.co.uk</li>
+<li> 16:56 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 16:55 librarysearch.royalholloway.ac.uk</li>
+<li> 16:54 www.google.com</li>
+<li> 16:54 www.google.co.uk</li>
+<li class='same'> 16:52 www.google.co.uk</li>
+<li class='same'> 16:51 www.google.co.uk</li>
+<li> 16:51 books.google.co.uk</li>
+<li> 16:51 www.google.com</li>
+<li> 16:51 books.google.co.uk</li>
+<li> 16:51 www.google.com</li>
+<li> 16:51 <a href="https://en.wikipedia.org/wiki/Flipped_classroom">Flipped classroom - Wikipedia</a></li>
+<li> 16:50 www.google.com</li>
+<li> 16:50 scholar.google.com</li>
+<li> 16:49 iss.internationaljournallabs.com</li>
 <li> 16:49 scholar.google.com</li>
 <li> 16:49 www.google.com</li>
 <li class='same'> 16:48 www.google.com</li>
