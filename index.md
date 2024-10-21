@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8453)</li>
+<ol><li>www.google.com (8455)</li>
 <li>mail.google.com (5900)</li>
 <li>outlook.office.com (3502)</li>
 <li>www.facebook.com (2696)</li>
-<li>docs.google.com (1896)</li>
+<li>docs.google.com (1897)</li>
 <li>calendar.google.com (1427)</li>
 <li>moodle.royalholloway.ac.uk (1388)</li>
 <li>www.reddit.com (1298)</li>
@@ -87,14 +87,14 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (650)</li>
 <li>chat.openai.com (622)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (536)</li>
+<li>login.microsoftonline.com (537)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (457)</li>
 <li>teams.microsoft.com (440)</li>
+<li>drive.google.com (439)</li>
 <li>kdp.amazon.com (438)</li>
-<li>drive.google.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (342)</li>
+<li>rhul-my.sharepoint.com (343)</li>
 <li>rhul.sharepoint.com (332)</li>
 <li>www.giantitp.com (316)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:37 whitewaterwriters.com</li>
+<ul><li> 14:51 www.google.com</li>
+<li> 14:46 community.spiceworks.com</li>
+<li> 14:46 www.google.com</li>
+<li> 14:44 login.microsoftonline.com</li>
+<li> 14:43 rhul-my.sharepoint.com</li>
+<li> 14:40 docs.google.com</li>
+<li> 14:40 drive.google.com</li>
+<li> 14:37 whitewaterwriters.com</li>
 <li class='same'> 14:35 whitewaterwriters.com</li>
 <li> 14:33 www.linkedin.com</li>
 <li> 14:33 www.google.com</li>
