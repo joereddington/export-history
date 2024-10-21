@@ -73,8 +73,8 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3499)</li>
 <li>www.facebook.com (2694)</li>
 <li>docs.google.com (1896)</li>
-<li>calendar.google.com (1426)</li>
-<li>moodle.royalholloway.ac.uk (1374)</li>
+<li>calendar.google.com (1427)</li>
+<li>moodle.royalholloway.ac.uk (1379)</li>
 <li>www.reddit.com (1296)</li>
 <li>www.amazon.co.uk (1216)</li>
 <li>github.com (1011)</li>
@@ -87,14 +87,14 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (648)</li>
 <li>chat.openai.com (620)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (533)</li>
+<li>login.microsoftonline.com (535)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (454)</li>
 <li>teams.microsoft.com (439)</li>
 <li>drive.google.com (438)</li>
 <li>kdp.amazon.com (432)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (338)</li>
+<li>rhul-my.sharepoint.com (340)</li>
 <li>rhul.sharepoint.com (332)</li>
 <li>www.giantitp.com (316)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:22 moodle.royalholloway.ac.uk</li>
+<ul><li> 09:39 moodle.royalholloway.ac.uk</li>
+<li> 09:38 calendar.google.com</li>
+<li> 09:38 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:37 moodle.royalholloway.ac.uk</li>
+<li> 09:37 login.microsoftonline.com</li>
+<li> 09:37 moodle.royalholloway.ac.uk</li>
+<li> 09:36 euc-word-edit.officeapps.live.com</li>
+<li> 09:36 Local file</li>
+<li> 09:36 rhul-my.sharepoint.com</li>
+<li class='same'> 09:35 rhul-my.sharepoint.com</li>
+<li> 09:32 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 09:31 moodle2324.royalholloway.ac.uk</li>
+<li> 09:31 login.microsoftonline.com</li>
+<li> 09:31 moodle2324.royalholloway.ac.uk</li>
+<li> 09:31 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:22 moodle.royalholloway.ac.uk</li>
 <li> 09:22 login.microsoftonline.com</li>
 <li> 09:22 moodle.royalholloway.ac.uk</li>
 <li> 09:22 www.google.com</li>
