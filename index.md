@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (975)</li>
 <li>www.theguardian.com (753)</li>
 <li>gmail.com (710)</li>
-<li>www.linkedin.com (668)</li>
+<li>www.linkedin.com (669)</li>
 <li>tvtropes.org (651)</li>
 <li>whitewaterwriters.com (650)</li>
 <li>chat.openai.com (624)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:29 www.google.com</li>
+<ul><li> 17:30 www.linkedin.com</li>
+<li> 17:30 x.com</li>
+<li> 17:30 twitter.com</li>
+<li> 17:29 www.google.com</li>
 <li> 17:28 feedly.com</li>
 <li> 17:28 outlook.office365.com</li>
 <li> 17:28 outlook.office.com</li>
