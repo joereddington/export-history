@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8467)</li>
+<ol><li>www.google.com (8468)</li>
 <li>mail.google.com (5905)</li>
-<li>outlook.office.com (3504)</li>
+<li>outlook.office.com (3505)</li>
 <li>www.facebook.com (2696)</li>
 <li>docs.google.com (1897)</li>
 <li>calendar.google.com (1427)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1219)</li>
 <li>github.com (1012)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (974)</li>
+<li>outlook.office365.com (975)</li>
 <li>www.theguardian.com (753)</li>
 <li>gmail.com (710)</li>
 <li>www.linkedin.com (668)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:13 www.reddit.com</li>
+<ul><li> 17:29 www.google.com</li>
+<li> 17:28 feedly.com</li>
+<li> 17:28 outlook.office365.com</li>
+<li> 17:28 outlook.office.com</li>
+<li> 17:28 mail.rhul.ac.uk</li>
+<li> 17:13 www.reddit.com</li>
 <li> 17:13 latex.org</li>
 <li> 17:12 www.google.com</li>
 <li> 17:09 <a href="https://en.wikipedia.org/wiki/Flipped_classroom">Flipped classroom - Wikipedia</a></li>
