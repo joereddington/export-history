@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8434)</li>
-<li>mail.google.com (5897)</li>
-<li>outlook.office.com (3499)</li>
+<ol><li>www.google.com (8438)</li>
+<li>mail.google.com (5899)</li>
+<li>outlook.office.com (3500)</li>
 <li>www.facebook.com (2694)</li>
 <li>docs.google.com (1896)</li>
 <li>calendar.google.com (1427)</li>
 <li>moodle.royalholloway.ac.uk (1382)</li>
 <li>www.reddit.com (1296)</li>
-<li>www.amazon.co.uk (1216)</li>
+<li>www.amazon.co.uk (1217)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (929)</li>
+<li>outlook.office365.com (950)</li>
 <li>www.theguardian.com (753)</li>
-<li>gmail.com (705)</li>
-<li>www.linkedin.com (666)</li>
+<li>gmail.com (706)</li>
+<li>www.linkedin.com (667)</li>
 <li>tvtropes.org (651)</li>
 <li>whitewaterwriters.com (648)</li>
-<li>chat.openai.com (620)</li>
+<li>chat.openai.com (621)</li>
 <li>app.qbo.intuit.com (568)</li>
 <li>login.microsoftonline.com (535)</li>
 <li>en.m.wikipedia.org (488)</li>
@@ -108,7 +108,52 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:45 mail.google.com</li>
+<ul><li> 11:01 mynameis.raceequalitymatters.com</li>
+<li> 10:59 mail.google.com</li>
+<li> 10:59 gmail.com</li>
+<li> 10:59 chatgpt.com</li>
+<li class='same'> 10:58 chatgpt.com</li>
+<li> 10:58 chat.openai.com</li>
+<li> 10:58 www.google.com</li>
+<li> 10:57 outlook.office365.com</li>
+<li class='same'> 10:56 outlook.office365.com</li>
+<li> 10:56 www.linkedin.com</li>
+<li> 10:56 www.google.com</li>
+<li> 10:55 www.ciisec.org</li>
+<li> 10:55 members.ciisec.org</li>
+<li> 10:55 www.google.com</li>
+<li> 10:55 outlook.office365.com</li>
+<li class='same'> 10:54 outlook.office365.com</li>
+<li class='same'> 10:53 outlook.office365.com</li>
+<li class='same'> 10:52 outlook.office365.com</li>
+<li class='same'> 10:51 outlook.office365.com</li>
+<li class='same'> 10:50 outlook.office365.com</li>
+<li class='same'> 10:49 outlook.office365.com</li>
+<li class='same'> 10:48 outlook.office365.com</li>
+<li class='same'> 10:47 outlook.office365.com</li>
+<li class='same'> 10:46 outlook.office365.com</li>
+<li class='same'> 10:45 outlook.office365.com</li>
+<li class='same'> 10:44 outlook.office365.com</li>
+<li class='same'> 10:43 outlook.office365.com</li>
+<li class='same'> 10:42 outlook.office365.com</li>
+<li class='same'> 10:41 outlook.office365.com</li>
+<li class='same'> 10:40 outlook.office365.com</li>
+<li> 10:40 pure.royalholloway.ac.uk</li>
+<li> 10:39 www.ebay.co.uk</li>
+<li> 10:39 www.amazon.co.uk</li>
+<li> 10:38 www.google.com</li>
+<li> 10:36 webtimetables.royalholloway.ac.uk</li>
+<li> 10:35 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 10:34 gitlab.cim.rhul.ac.uk</li>
+<li> 10:34 outlook.office.com</li>
+<li> 10:34 outlook.office365.com</li>
+<li> 10:34 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:34 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:34 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 10:33 outlook.office365.com</li>
+<li class='same'> 10:32 outlook.office365.com</li>
+<li> 10:09 mail.google.com</li>
+<li class='same'> 09:45 mail.google.com</li>
 <li> 09:43 www.tvlicensing.co.uk</li>
 <li class='same'> 09:42 www.tvlicensing.co.uk</li>
 <li> 09:42 mail.google.com</li>
