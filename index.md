@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8438)</li>
+<ol><li>www.google.com (8445)</li>
 <li>mail.google.com (5899)</li>
-<li>outlook.office.com (3500)</li>
-<li>www.facebook.com (2694)</li>
+<li>outlook.office.com (3501)</li>
+<li>www.facebook.com (2696)</li>
 <li>docs.google.com (1896)</li>
 <li>calendar.google.com (1427)</li>
-<li>moodle.royalholloway.ac.uk (1382)</li>
-<li>www.reddit.com (1296)</li>
-<li>www.amazon.co.uk (1217)</li>
+<li>moodle.royalholloway.ac.uk (1388)</li>
+<li>www.reddit.com (1298)</li>
+<li>www.amazon.co.uk (1218)</li>
 <li>github.com (1011)</li>
 <li>m.facebook.com (977)</li>
-<li>outlook.office365.com (950)</li>
+<li>outlook.office365.com (959)</li>
 <li>www.theguardian.com (753)</li>
 <li>gmail.com (706)</li>
 <li>www.linkedin.com (667)</li>
@@ -87,14 +87,14 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (648)</li>
 <li>chat.openai.com (621)</li>
 <li>app.qbo.intuit.com (568)</li>
-<li>login.microsoftonline.com (535)</li>
+<li>login.microsoftonline.com (536)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (454)</li>
+<li>web.whatsapp.com (456)</li>
 <li>teams.microsoft.com (439)</li>
 <li>drive.google.com (438)</li>
 <li>kdp.amazon.com (432)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (340)</li>
+<li>rhul-my.sharepoint.com (342)</li>
 <li>rhul.sharepoint.com (332)</li>
 <li>www.giantitp.com (316)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:01 mynameis.raceequalitymatters.com</li>
+<ul><li> 12:08 moodle.royalholloway.ac.uk</li>
+<li> 12:05 www.royalholloway.ac.uk</li>
+<li> 12:05 www.google.com</li>
+<li> 12:04 moodle.royalholloway.ac.uk</li>
+<li> 12:04 outlook.office365.com</li>
+<li> 12:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:03 moodle.royalholloway.ac.uk</li>
+<li> 11:56 <a href="https://www.bbc.co.uk/news/articles/cg3exzpd5yjo">Hacker jailed for creating malware that targeted Braintree site - BBC News</a></li>
+<li> 11:56 www.google.com</li>
+<li> 11:54 www.amazon.co.uk</li>
+<li> 11:52 moodle.royalholloway.ac.uk</li>
+<li> 11:52 login.microsoftonline.com</li>
+<li> 11:52 moodle.royalholloway.ac.uk</li>
+<li> 11:51 rhul-my.sharepoint.com</li>
+<li> 11:51 outlook.office.com</li>
+<li> 11:51 outlook.office365.com</li>
+<li> 11:50 rhul-my.sharepoint.com</li>
+<li> 11:49 outlook.office365.com</li>
+<li> 11:47 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 11:47 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 11:47 www.google.com</li>
+<li> 11:47 <a href="https://www.bbc.co.uk/news/technology-54568784">British Airways fined £20m over data breach - BBC News</a></li>
+<li> 11:38 www.facebook.com</li>
+<li> 11:32 www.reddit.com</li>
+<li> 11:32 <a href="https://en.wikipedia.org/wiki/Cinderella_Ate_My_Daughter">Cinderella Ate My Daughter - Wikipedia</a></li>
+<li> 11:31 www.google.com</li>
+<li> 11:30 www.reddit.com</li>
+<li> 11:29 web.whatsapp.com</li>
+<li> 11:28 www.facebook.com</li>
+<li> 11:28 outlook.office365.com</li>
+<li class='same'> 11:26 outlook.office365.com</li>
+<li class='same'> 11:07 outlook.office365.com</li>
+<li class='same'> 11:06 outlook.office365.com</li>
+<li> 11:05 www.google.com</li>
+<li> 11:05 outlook.office365.com</li>
+<li class='same'> 11:04 outlook.office365.com</li>
+<li> 11:04 web.whatsapp.com</li>
+<li> 11:03 www.google.com</li>
+<li class='same'> 11:02 www.google.com</li>
+<li> 11:01 mynameis.raceequalitymatters.com</li>
 <li> 10:59 mail.google.com</li>
 <li> 10:59 gmail.com</li>
 <li> 10:59 chatgpt.com</li>
