@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8473)</li>
-<li>mail.google.com (5941)</li>
+<ol><li>www.google.com (8477)</li>
+<li>mail.google.com (5948)</li>
 <li>outlook.office.com (3516)</li>
 <li>www.facebook.com (2699)</li>
-<li>docs.google.com (1899)</li>
+<li>docs.google.com (1900)</li>
 <li>calendar.google.com (1433)</li>
 <li>moodle.royalholloway.ac.uk (1388)</li>
 <li>www.reddit.com (1299)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (986)</li>
 <li>m.facebook.com (977)</li>
 <li>www.theguardian.com (754)</li>
-<li>gmail.com (715)</li>
+<li>gmail.com (716)</li>
 <li>www.linkedin.com (673)</li>
 <li>tvtropes.org (651)</li>
 <li>whitewaterwriters.com (650)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (538)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (459)</li>
-<li>drive.google.com (441)</li>
+<li>drive.google.com (444)</li>
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:18 mail.google.com</li>
+<ul><li> 15:29 mail.google.com</li>
+<li> 15:29 docs.google.com</li>
+<li> 15:29 drive.google.com</li>
+<li> 15:28 www.google.com</li>
+<li> 15:28 drive.google.com</li>
+<li class='same'> 15:27 drive.google.com</li>
+<li> 15:27 www.google.com</li>
+<li> 15:27 mail.google.com</li>
+<li class='same'> 15:25 mail.google.com</li>
+<li> 15:24 www.aisi.gov.uk</li>
+<li> 15:24 forms.office.com</li>
+<li> 15:24 www.google.com</li>
+<li> 15:24 www.aisi.gov.uk</li>
+<li> 15:22 www.google.com</li>
+<li> 15:22 cdn.prod.website-files.com</li>
+<li> 15:22 mail.google.com</li>
+<li> 15:22 gmail.com</li>
+<li> 15:21 mail.google.com</li>
+<li> 15:21 www.disneyholidays.co.uk</li>
+<li class='same'> 15:20 www.disneyholidays.co.uk</li>
+<li> 15:20 mail.google.com</li>
+<li class='same'> 15:19 mail.google.com</li>
+<li class='same'> 15:18 mail.google.com</li>
 <li> 15:18 gmail.com</li>
 <li> 15:17 qbo.intuit.com</li>
 <li class='same'> 15:16 qbo.intuit.com</li>
