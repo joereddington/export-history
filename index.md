@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8477)</li>
-<li>mail.google.com (5948)</li>
-<li>outlook.office.com (3516)</li>
+<ol><li>www.google.com (8478)</li>
+<li>mail.google.com (5955)</li>
+<li>outlook.office.com (3519)</li>
 <li>www.facebook.com (2699)</li>
 <li>docs.google.com (1900)</li>
 <li>calendar.google.com (1433)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1299)</li>
 <li>www.amazon.co.uk (1221)</li>
 <li>github.com (1012)</li>
-<li>outlook.office365.com (986)</li>
+<li>outlook.office365.com (987)</li>
 <li>m.facebook.com (977)</li>
 <li>www.theguardian.com (754)</li>
 <li>gmail.com (716)</li>
@@ -87,10 +87,10 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (650)</li>
 <li>chat.openai.com (625)</li>
 <li>app.qbo.intuit.com (569)</li>
-<li>login.microsoftonline.com (538)</li>
+<li>login.microsoftonline.com (540)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (459)</li>
-<li>drive.google.com (444)</li>
+<li>drive.google.com (445)</li>
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:29 mail.google.com</li>
+<ul><li> 15:39 events.teams.microsoft.com</li>
+<li> 15:39 login.microsoftonline.com</li>
+<li> 15:39 events.teams.microsoft.com</li>
+<li> 15:39 login.microsoftonline.com</li>
+<li> 15:39 events.teams.microsoft.com</li>
+<li> 15:39 eur03.safelinks.protection.outlook.com</li>
+<li> 15:39 outlook.office.com</li>
+<li class='same'> 15:38 outlook.office.com</li>
+<li> 15:38 outlook.office365.com</li>
+<li> 15:38 outlook.office.com</li>
+<li> 15:38 mail.rhul.ac.uk</li>
+<li> 15:36 mail.google.com</li>
+<li> 15:35 ico.org.uk</li>
+<li> 15:34 www.campaignmonitor.com</li>
+<li> 15:34 ico.org.uk</li>
+<li> 15:34 www.google.com</li>
+<li> 15:33 www.dsc.org.uk</li>
+<li> 15:33 dsc.org.uk</li>
+<li> 15:33 mail.google.com</li>
+<li class='same'> 15:32 mail.google.com</li>
+<li> 15:32 mail-attachment.googleusercontent.com</li>
+<li> 15:31 mail.google.com</li>
+<li class='same'> 15:30 mail.google.com</li>
+<li> 15:30 Local file</li>
+<li> 15:30 mail.google.com</li>
+<li> 15:30 drive.usercontent.google.com</li>
+<li> 15:30 drive.google.com</li>
+<li> 15:30 mail.google.com</li>
+<li class='same'> 15:29 mail.google.com</li>
 <li> 15:29 docs.google.com</li>
 <li> 15:29 drive.google.com</li>
 <li> 15:28 www.google.com</li>
