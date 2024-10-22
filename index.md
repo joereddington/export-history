@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8468)</li>
+<ol><li>www.google.com (8463)</li>
 <li>mail.google.com (5907)</li>
 <li>outlook.office.com (3510)</li>
 <li>www.facebook.com (2698)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1427)</li>
 <li>moodle.royalholloway.ac.uk (1388)</li>
 <li>www.reddit.com (1299)</li>
-<li>www.amazon.co.uk (1219)</li>
+<li>www.amazon.co.uk (1217)</li>
 <li>github.com (1012)</li>
 <li>outlook.office365.com (985)</li>
 <li>m.facebook.com (977)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<ul><li> 07:21 feedly.com</li>
+<li> 07:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Digital_self-defense&oldid=prev&diff=1252555866&markasread=330227926&markasreadwiki=enwiki">Digital self-defense: Difference between revisions - Wikipedia</a></li>
 <li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Digital_self-defense&oldid=prev&diff=1252555866">Digital self-defense: Difference between revisions - Wikipedia</a></li>
 <li> 07:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
@@ -17877,13 +17878,9 @@ With number of accesses/minutes in parentheses
 <li> 08:06 www.amazon.co.uk</li>
 <li> 08:03 www.google.com</li>
 <li class='same'> 08:02 www.google.com</li>
-<li> 08:02 maps.google.com</li>
 <li> 08:02 sayi.do</li>
 <li> 08:02 docs.google.com</li>
-<li> 08:02 www.google.com</li>
-<li> 08:02 www.amazon.co.uk</li>
-<li class='same'> 08:01 www.amazon.co.uk</li>
-<li class='same'> 08:00 www.amazon.co.uk</li>
+<li> 08:00 www.amazon.co.uk</li>
 <li> 08:00 mail.google.com</li>
 <li> 08:00 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 <li> 07:59 mail.google.com</li>
@@ -17895,13 +17892,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:53 mail.google.com</li>
 <li class='same'> 07:42 mail.google.com</li>
 <li> 07:37 calendar.google.com</li>
-<li> 07:35 www.google.com</li>
 <li> 07:33 sayi.do</li>
 <li> 07:32 www.google.com</li>
-<li> 07:32 maps.google.com</li>
-<li> 07:32 www.google.com</li>
 <li> 07:30 sayi.do</li>
-<li> 07:30 www.google.com</li>
 <li> 07:30 r.send.sayi.do</li>
 <li> 07:30 mail.google.com</li>
 <li class='same'> 07:29 mail.google.com</li>
@@ -17918,7 +17911,6 @@ With number of accesses/minutes in parentheses
 <li> 07:19 calendar.google.com</li>
 <li class='same'> 07:18 calendar.google.com</li>
 <li> 07:17 mail.google.com</li>
-<li> 07:17 www.google.com</li>
 <li> 07:17 claude.ai</li>
 <li> 07:17 mail.google.com</li>
 <li> 07:17 gmail.com</li>
