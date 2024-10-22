@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8468)</li>
 <li>mail.google.com (5907)</li>
-<li>outlook.office.com (3505)</li>
+<li>outlook.office.com (3510)</li>
 <li>www.facebook.com (2698)</li>
 <li>docs.google.com (1897)</li>
 <li>calendar.google.com (1427)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1299)</li>
 <li>www.amazon.co.uk (1219)</li>
 <li>github.com (1012)</li>
-<li>outlook.office365.com (984)</li>
+<li>outlook.office365.com (985)</li>
 <li>m.facebook.com (977)</li>
 <li>www.theguardian.com (753)</li>
 <li>gmail.com (710)</li>
@@ -104,11 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 22/10/24</H3>
+
+<br>
+
+<ul><li> 07:18 outlook.office.com</li>
+<li class='same'> 07:16 outlook.office.com</li>
+<li class='same'> 07:15 outlook.office.com</li>
+<li class='same'> 07:14 outlook.office.com</li>
+<li> 07:14 adblockplus.org</li>
+<li> 07:14 outlook.office.com</li>
+<li> 07:14 outlook.office365.com</li>
+<li> 07:14 mail.rhul.ac.uk</li>
+</ul>
+
 <H3>Monday, 21/10/24</H3>
 
 <br>
 
-<ul><li> 18:07 <a href="https://www.youtube.com/">(61) YouTube</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 18:08 <a href="https://www.youtube.com/watch?v=6XjS8emae1E">(61) Are You Using the Right Jigsaw Blade? - YouTube</a></li>
+<li> 18:07 <a href="https://www.youtube.com/">(61) YouTube</a></li>
 <li> 18:06 <a href="https://www.youtube.com/watch?v=VtYVbnVQR6M">(61) The Lord of The Rings: The Fellowship of the Ring | Battle of Moria | ClipZone: Heroes & Villains - YouTube</a></li>
 <li> 18:06 <a href="https://www.youtube.com/">(61) YouTube</a></li>
 <li> 18:05 <a href="https://www.youtube.com/watch?v=yu-BVj5RouQ">(61) Everything GREAT About Inside Out 2! - YouTube</a></li>
