@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8469)</li>
-<li>mail.google.com (5922)</li>
-<li>outlook.office.com (3514)</li>
+<li>mail.google.com (5928)</li>
+<li>outlook.office.com (3516)</li>
 <li>www.facebook.com (2699)</li>
 <li>docs.google.com (1899)</li>
 <li>calendar.google.com (1432)</li>
@@ -78,23 +78,23 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1299)</li>
 <li>www.amazon.co.uk (1221)</li>
 <li>github.com (1012)</li>
-<li>outlook.office365.com (985)</li>
+<li>outlook.office365.com (986)</li>
 <li>m.facebook.com (977)</li>
 <li>www.theguardian.com (754)</li>
-<li>gmail.com (712)</li>
+<li>gmail.com (714)</li>
 <li>www.linkedin.com (673)</li>
 <li>tvtropes.org (651)</li>
 <li>whitewaterwriters.com (650)</li>
-<li>chat.openai.com (624)</li>
+<li>chat.openai.com (625)</li>
 <li>app.qbo.intuit.com (568)</li>
 <li>login.microsoftonline.com (538)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (458)</li>
+<li>web.whatsapp.com (459)</li>
+<li>drive.google.com (441)</li>
 <li>teams.microsoft.com (441)</li>
-<li>drive.google.com (439)</li>
 <li>kdp.amazon.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (348)</li>
+<li>rhul-my.sharepoint.com (349)</li>
 <li>rhul.sharepoint.com (332)</li>
 <li>www.giantitp.com (316)</li>
 <li>bsky.app (313)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:39 mail.google.com</li>
+<ul><li> 14:48 mail.google.com</li>
+<li> 14:48 claude.ai</li>
+<li> 14:46 mail.google.com</li>
+<li> 14:46 mail-attachment.googleusercontent.com</li>
+<li> 14:46 mail.google.com</li>
+<li> 14:46 claude.ai</li>
+<li> 14:46 chatgpt.com</li>
+<li> 14:46 chat.openai.com</li>
+<li> 14:43 web.whatsapp.com</li>
+<li> 14:43 mail.google.com</li>
+<li> 14:43 gmail.com</li>
+<li> 14:43 mail.google.com</li>
+<li> 14:43 gmail.com</li>
+<li> 14:42 mail.google.com</li>
+<li> 14:41 drive.google.com</li>
+<li class='same'> 14:40 drive.google.com</li>
+<li> 14:40 rhul-my.sharepoint.com</li>
+<li> 14:40 outlook.office.com</li>
+<li> 14:40 outlook.office365.com</li>
+<li> 14:40 outlook.office.com</li>
+<li> 14:40 mail.rhul.ac.uk</li>
+<li> 14:39 mail.google.com</li>
 <li> 14:39 gmail.com</li>
 <li> 14:38 rhul-my.sharepoint.com</li>
 <li> 14:38 calendar.google.com</li>
