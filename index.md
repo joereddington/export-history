@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1012)</li>
 <li>outlook.office365.com (985)</li>
 <li>m.facebook.com (977)</li>
-<li>www.theguardian.com (753)</li>
+<li>www.theguardian.com (754)</li>
 <li>gmail.com (710)</li>
 <li>www.linkedin.com (671)</li>
 <li>tvtropes.org (651)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:18 outlook.office.com</li>
+<ul><li> 07:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Digital_self-defense&oldid=prev&diff=1252555866&markasread=330227926&markasreadwiki=enwiki">Digital self-defense: Difference between revisions - Wikipedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Digital_self-defense&oldid=prev&diff=1252555866">Digital self-defense: Difference between revisions - Wikipedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:20 <a href="https://en.wikipedia.org/"></a></li>
+<li> 07:18 www.theguardian.com</li>
+<li> 07:18 outlook.office.com</li>
 <li class='same'> 07:16 outlook.office.com</li>
 <li class='same'> 07:15 outlook.office.com</li>
 <li class='same'> 07:14 outlook.office.com</li>
