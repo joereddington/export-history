@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8464)</li>
-<li>mail.google.com (5909)</li>
+<ol><li>www.google.com (8467)</li>
+<li>mail.google.com (5914)</li>
 <li>outlook.office.com (3514)</li>
 <li>www.facebook.com (2698)</li>
-<li>docs.google.com (1897)</li>
+<li>docs.google.com (1898)</li>
 <li>calendar.google.com (1427)</li>
 <li>moodle.royalholloway.ac.uk (1388)</li>
 <li>www.reddit.com (1299)</li>
-<li>www.amazon.co.uk (1217)</li>
+<li>www.amazon.co.uk (1221)</li>
 <li>github.com (1012)</li>
 <li>outlook.office365.com (985)</li>
 <li>m.facebook.com (977)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:19 mail.google.com</li>
+<ul><li> 14:29 mail.google.com</li>
+<li> 14:28 www.amazon.co.uk</li>
+<li class='same'> 14:27 www.amazon.co.uk</li>
+<li> 14:27 www.google.com</li>
+<li> 14:26 www.amazon.co.uk</li>
+<li> 14:25 www.googleadservices.com</li>
+<li> 14:25 www.amazon.co.uk</li>
+<li> 14:25 www.google.com</li>
+<li> 14:25 docs.google.com</li>
+<li> 14:25 mail.google.com</li>
+<li class='same'> 14:24 mail.google.com</li>
+<li class='same'> 14:23 mail.google.com</li>
+<li class='same'> 14:22 mail.google.com</li>
+<li> 14:20 www.paypal.com</li>
+<li> 14:20 www.google.com</li>
+<li> 14:19 mail.google.com</li>
 <li> 14:18 www.google.com</li>
 <li> 14:18 v6.kittleorders.com</li>
 <li> 14:18 mail.google.com</li>
