@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8479)</li>
+<ol><li>www.google.com (8488)</li>
 <li>mail.google.com (5955)</li>
 <li>outlook.office.com (3526)</li>
 <li>www.facebook.com (2703)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (754)</li>
 <li>gmail.com (716)</li>
 <li>www.linkedin.com (673)</li>
-<li>tvtropes.org (651)</li>
+<li>tvtropes.org (654)</li>
 <li>whitewaterwriters.com (650)</li>
 <li>chat.openai.com (625)</li>
 <li>app.qbo.intuit.com (569)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 22/10/24</H3>
+
+<br>
+
+<ul><li> 19:00 www.google.com</li>
+</ul>
 
 <br>
 
@@ -281,6 +286,16 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:16 outlook.office.com</li>
 <li class='same'> 14:15 outlook.office.com</li>
 <li class='same'> 14:14 outlook.office.com</li>
+<li> 14:08 www.google.com</li>
+<li> 14:08 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:36 tvtropes.org</li>
+<li> 10:35 www.google.com</li>
+<li> 10:35 tvtropes.org</li>
+<li> 10:35 www.google.com</li>
 </ul>
 
 <br>
@@ -310,7 +325,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:08 <a href="https://www.youtube.com/watch?v=6XjS8emae1E">(61) Are You Using the Right Jigsaw Blade? - YouTube</a></li>
+<ul><li> 18:49 www.google.com</li>
+<li class='same'> 18:48 www.google.com</li>
+<li class='same'> 18:34 www.google.com</li>
+<li class='same'> 18:33 www.google.com</li>
+<li> 18:08 <a href="https://www.youtube.com/watch?v=6XjS8emae1E">(61) Are You Using the Right Jigsaw Blade? - YouTube</a></li>
 <li> 18:07 <a href="https://www.youtube.com/">(61) YouTube</a></li>
 <li> 18:06 <a href="https://www.youtube.com/watch?v=VtYVbnVQR6M">(61) The Lord of The Rings: The Fellowship of the Ring | Battle of Moria | ClipZone: Heroes & Villains - YouTube</a></li>
 <li> 18:06 <a href="https://www.youtube.com/">(61) YouTube</a></li>
@@ -866,6 +885,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:46 www.google.com</li>
+</ul>
 
 <br>
 
