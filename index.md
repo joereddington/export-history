@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8489)</li>
+<ol><li>www.google.com (8492)</li>
 <li>mail.google.com (5961)</li>
 <li>outlook.office.com (3527)</li>
 <li>www.facebook.com (2756)</li>
@@ -78,18 +78,18 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1302)</li>
 <li>www.amazon.co.uk (1221)</li>
 <li>github.com (1012)</li>
-<li>outlook.office365.com (1003)</li>
+<li>outlook.office365.com (1005)</li>
 <li>m.facebook.com (977)</li>
 <li>www.theguardian.com (757)</li>
 <li>gmail.com (717)</li>
-<li>www.linkedin.com (677)</li>
+<li>www.linkedin.com (680)</li>
 <li>tvtropes.org (654)</li>
 <li>whitewaterwriters.com (650)</li>
 <li>chat.openai.com (625)</li>
 <li>app.qbo.intuit.com (569)</li>
 <li>login.microsoftonline.com (542)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (461)</li>
+<li>web.whatsapp.com (462)</li>
 <li>drive.google.com (446)</li>
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (438)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:57 rhul-my.sharepoint.com</li>
+<ul><li> 11:20 www.linkedin.com</li>
+<li> 11:20 uk.linkedin.com</li>
+<li> 11:20 www.google.com</li>
+<li> 11:19 web.whatsapp.com</li>
+<li> 11:17 claude.ai</li>
+<li> 11:17 www.royalholloway.ac.uk</li>
+<li> 11:16 <a href="https://www.youtube.com/watch?v=19_B6i9OjYA">(62) Explore our RH2030s strategy - YouTube</a></li>
+<li> 11:16 <a href="https://www.youtube.com/watch?v=19_B6i9OjYA&embeds_referring_euri=https%3A%2F%2Fwww.royalholloway.ac.uk%2F&embeds_referring_origin=https%3A%2F%2Fwww.royalholloway.ac.uk&source_ve_path=MzY4NDIsMjg2NjY&themeRefresh=1">Explore our RH2030s strategy - YouTube</a></li>
+<li> 11:16 <a href="https://www.youtube.com/watch?v=19_B6i9OjYA">(62) Explore our RH2030s strategy - YouTube</a></li>
+<li> 11:16 <a href="https://www.youtube.com/watch?v=19_B6i9OjYA&embeds_referring_euri=https%3A%2F%2Fwww.royalholloway.ac.uk%2F&embeds_referring_origin=https%3A%2F%2Fwww.royalholloway.ac.uk&source_ve_path=MzY4NDIsMjg2NjY">Explore our RH2030s strategy - YouTube</a></li>
+<li> 11:16 www.royalholloway.ac.uk</li>
+<li class='same'> 11:15 www.royalholloway.ac.uk</li>
+<li class='same'> 11:14 www.royalholloway.ac.uk</li>
+<li> 11:14 www.google.com</li>
+<li> 11:13 www.linkedin.com</li>
+<li> 11:13 outlook.office365.com</li>
+<li> 11:12 www.linkedin.com</li>
+<li> 11:12 www.google.com</li>
+<li> 11:11 outlook.office365.com</li>
+<li> 10:57 rhul-my.sharepoint.com</li>
 <li> 10:57 login.microsoftonline.com</li>
 <li> 10:56 rhul-my.sharepoint.com</li>
 <li> 10:55 rhul.sharepoint.com</li>
