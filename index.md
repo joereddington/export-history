@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8527)</li>
+<ol><li>www.google.com (8528)</li>
 <li>mail.google.com (5964)</li>
 <li>outlook.office.com (3529)</li>
-<li>www.facebook.com (2759)</li>
+<li>www.facebook.com (2764)</li>
 <li>docs.google.com (1912)</li>
 <li>calendar.google.com (1437)</li>
 <li>moodle.royalholloway.ac.uk (1389)</li>
 <li>www.reddit.com (1313)</li>
 <li>www.amazon.co.uk (1221)</li>
-<li>outlook.office365.com (1031)</li>
+<li>outlook.office365.com (1032)</li>
 <li>github.com (1012)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (767)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (569)</li>
 <li>login.microsoftonline.com (546)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (462)</li>
+<li>web.whatsapp.com (463)</li>
 <li>drive.google.com (446)</li>
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (438)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:53 historicengland.org.uk</li>
+<ul><li> 17:39 www.facebook.com</li>
+<li class='same'> 17:38 www.facebook.com</li>
+<li class='same'> 17:37 www.facebook.com</li>
+<li> 17:34 outlook.office365.com</li>
+<li> 17:34 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:55 www.facebook.com</li>
+<li> 15:54 historicengland.org.uk</li>
+<li class='same'> 15:53 historicengland.org.uk</li>
 <li> 15:53 www.google.com</li>
 <li> 15:53 rhul.sharepoint.com</li>
 <li class='same'> 15:52 rhul.sharepoint.com</li>
@@ -156,6 +167,12 @@ With number of accesses/minutes in parentheses
 <li> 14:22 chat.openai.com</li>
 <li> 14:22 mail.google.com</li>
 <li> 14:21 www.linkedin.com</li>
+<li> 14:19 www.ebay.co.uk</li>
+<li class='same'> 14:18 www.ebay.co.uk</li>
+<li> 14:17 web.whatsapp.com</li>
+<li> 14:17 x.com</li>
+<li> 14:17 twitter.com</li>
+<li> 14:17 www.google.com</li>
 <li> 14:15 www.theguardian.com</li>
 <li> 14:14 www.linkedin.com</li>
 <li> 14:14 outlook.office365.com</li>
