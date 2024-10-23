@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8515)</li>
+<ol><li>www.google.com (8517)</li>
 <li>mail.google.com (5964)</li>
 <li>outlook.office.com (3528)</li>
 <li>www.facebook.com (2759)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (358)</li>
+<li>rhul-my.sharepoint.com (359)</li>
 <li>rhul.sharepoint.com (335)</li>
 <li>www.giantitp.com (317)</li>
 <li>chatgpt.com (315)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:49 www.hornetsecurity.com</li>
+<ul><li> 14:54 rhul-my.sharepoint.com</li>
+<li> 14:54 www.google.com</li>
+<li class='same'> 14:53 www.google.com</li>
+<li> 14:53 www.hornetsecurity.com</li>
+<li> 14:50 www.edureka.co</li>
+<li> 14:49 www.hornetsecurity.com</li>
 <li> 14:48 hbr.org</li>
 <li> 14:48 www.google.com</li>
 <li> 14:37 rhul-my.sharepoint.com</li>
