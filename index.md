@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8524)</li>
+<ol><li>www.google.com (8527)</li>
 <li>mail.google.com (5964)</li>
-<li>outlook.office.com (3528)</li>
+<li>outlook.office.com (3529)</li>
 <li>www.facebook.com (2759)</li>
 <li>docs.google.com (1912)</li>
 <li>calendar.google.com (1437)</li>
 <li>moodle.royalholloway.ac.uk (1389)</li>
 <li>www.reddit.com (1313)</li>
 <li>www.amazon.co.uk (1221)</li>
-<li>outlook.office365.com (1030)</li>
+<li>outlook.office365.com (1031)</li>
 <li>github.com (1012)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (767)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (650)</li>
 <li>chat.openai.com (627)</li>
 <li>app.qbo.intuit.com (569)</li>
-<li>login.microsoftonline.com (545)</li>
+<li>login.microsoftonline.com (546)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (462)</li>
 <li>drive.google.com (446)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (359)</li>
-<li>rhul.sharepoint.com (335)</li>
+<li>rhul.sharepoint.com (338)</li>
 <li>www.giantitp.com (317)</li>
 <li>chatgpt.com (315)</li>
 
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:48 www.google.com</li>
+<ul><li> 15:53 historicengland.org.uk</li>
+<li> 15:53 www.google.com</li>
+<li> 15:53 rhul.sharepoint.com</li>
+<li class='same'> 15:52 rhul.sharepoint.com</li>
+<li> 15:52 login.microsoftonline.com</li>
+<li> 15:52 rhul.sharepoint.com</li>
+<li> 15:51 outlook.office365.com</li>
+<li> 15:51 outlook.office.com</li>
+<li> 15:51 mail.rhul.ac.uk</li>
+<li> 15:51 www.royalholloway.ac.uk</li>
+<li> 15:51 royalholloway.ac.uk</li>
+<li> 15:51 www.google.com</li>
+<li> 15:50 www.royalholloway.ac.uk</li>
+<li> 15:50 www.google.com</li>
+<li> 15:49 www.london.ac.uk</li>
+<li> 15:48 www.google.com</li>
 <li> 15:47 royalhollowayucu.wordpress.com</li>
 <li> 15:47 www.google.com</li>
 <li> 15:46 intranet.royalholloway.ac.uk</li>
