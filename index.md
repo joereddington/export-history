@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (357)</li>
+<li>rhul-my.sharepoint.com (358)</li>
 <li>rhul.sharepoint.com (335)</li>
 <li>www.giantitp.com (317)</li>
 <li>chatgpt.com (315)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:26 rhul-my.sharepoint.com</li>
+<ul><li> 14:37 rhul-my.sharepoint.com</li>
+<li class='same'> 14:26 rhul-my.sharepoint.com</li>
 <li> 14:25 chatgpt.com</li>
 <li> 14:25 chat.openai.com</li>
 <li> 14:23 rhul-my.sharepoint.com</li>
