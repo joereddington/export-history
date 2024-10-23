@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8487)</li>
+<ol><li>www.google.com (8488)</li>
 <li>mail.google.com (5960)</li>
 <li>outlook.office.com (3527)</li>
-<li>www.facebook.com (2732)</li>
-<li>docs.google.com (1910)</li>
+<li>www.facebook.com (2756)</li>
+<li>docs.google.com (1912)</li>
 <li>calendar.google.com (1436)</li>
 <li>moodle.royalholloway.ac.uk (1388)</li>
 <li>www.reddit.com (1302)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (569)</li>
 <li>login.microsoftonline.com (540)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (459)</li>
+<li>web.whatsapp.com (460)</li>
 <li>drive.google.com (446)</li>
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (438)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:57 www.linkedin.com</li>
+<ul><li> 09:33 www.facebook.com</li>
+<li class='same'> 09:32 www.facebook.com</li>
+<li class='same'> 09:31 www.facebook.com</li>
+<li class='same'> 09:30 www.facebook.com</li>
+<li class='same'> 09:29 www.facebook.com</li>
+<li class='same'> 09:28 www.facebook.com</li>
+<li class='same'> 09:27 www.facebook.com</li>
+<li class='same'> 09:26 www.facebook.com</li>
+<li class='same'> 09:25 www.facebook.com</li>
+<li class='same'> 09:24 www.facebook.com</li>
+<li class='same'> 09:23 www.facebook.com</li>
+<li class='same'> 09:22 www.facebook.com</li>
+<li class='same'> 09:21 www.facebook.com</li>
+<li class='same'> 09:20 www.facebook.com</li>
+<li class='same'> 09:19 www.facebook.com</li>
+<li> 09:17 docs.google.com</li>
+<li class='same'> 09:16 docs.google.com</li>
+<li> 09:16 claude.ai</li>
+<li> 09:16 www.google.com</li>
+<li> 09:15 web.whatsapp.com</li>
+<li> 09:13 www.facebook.com</li>
+<li class='same'> 09:12 www.facebook.com</li>
+<li class='same'> 09:11 www.facebook.com</li>
+<li class='same'> 09:10 www.facebook.com</li>
+<li class='same'> 09:09 www.facebook.com</li>
+<li class='same'> 09:08 www.facebook.com</li>
+<li class='same'> 09:07 www.facebook.com</li>
+<li> 08:57 www.linkedin.com</li>
 <li> 08:57 mail.google.com</li>
 <li> 08:57 www.linkedin.com</li>
 <li> 08:57 outlook.office.com</li>
@@ -116,7 +143,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:20 www.facebook.com</li>
+<ul><li> 07:22 www.facebook.com</li>
+<li class='same'> 07:21 www.facebook.com</li>
+<li class='same'> 07:20 www.facebook.com</li>
 <li class='same'> 07:19 www.facebook.com</li>
 <li class='same'> 07:18 www.facebook.com</li>
 <li class='same'> 07:17 www.facebook.com</li>
