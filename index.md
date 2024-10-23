@@ -75,12 +75,12 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1912)</li>
 <li>calendar.google.com (1437)</li>
 <li>moodle.royalholloway.ac.uk (1389)</li>
-<li>www.reddit.com (1313)</li>
+<li>www.reddit.com (1319)</li>
 <li>www.amazon.co.uk (1221)</li>
 <li>outlook.office365.com (1032)</li>
 <li>github.com (1012)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (767)</li>
+<li>www.theguardian.com (770)</li>
 <li>gmail.com (719)</li>
 <li>www.linkedin.com (688)</li>
 <li>tvtropes.org (654)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 23/10/24</H3>
+
+<br>
+
+<ul><li> 18:19 www.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -190,7 +195,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:17 www.reddit.com</li>
+<ul><li> 13:25 www.theguardian.com</li>
+<li class='same'> 13:24 www.theguardian.com</li>
+<li> 13:23 www.reddit.com</li>
+<li class='same'> 13:22 www.reddit.com</li>
+<li class='same'> 13:21 www.reddit.com</li>
+<li class='same'> 13:20 www.reddit.com</li>
+<li class='same'> 13:19 www.reddit.com</li>
+<li class='same'> 13:18 www.reddit.com</li>
+<li class='same'> 13:17 www.reddit.com</li>
 <li> 13:17 www.google.com</li>
 <li> 13:17 www.pluralsight.com</li>
 <li> 13:17 www.google.com</li>
