@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (719)</li>
 <li>www.linkedin.com (695)</li>
 <li>tvtropes.org (655)</li>
-<li>whitewaterwriters.com (653)</li>
+<li>whitewaterwriters.com (654)</li>
 <li>chat.openai.com (628)</li>
 <li>app.qbo.intuit.com (569)</li>
 <li>login.microsoftonline.com (553)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:44 community.openai.com</li>
+<ul><li> 13:51 whitewaterwriters.com</li>
+<li> 13:44 community.openai.com</li>
 <li> 13:44 www.google.com</li>
 <li> 13:40 whitewaterwriters.com</li>
 <li> 13:30 github.com</li>
