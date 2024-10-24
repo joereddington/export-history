@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8531)</li>
+<ol><li>www.google.com (8543)</li>
 <li>mail.google.com (5964)</li>
 <li>outlook.office.com (3529)</li>
-<li>www.facebook.com (2772)</li>
+<li>www.facebook.com (2784)</li>
 <li>docs.google.com (1912)</li>
-<li>calendar.google.com (1437)</li>
+<li>calendar.google.com (1438)</li>
 <li>moodle.royalholloway.ac.uk (1389)</li>
-<li>www.reddit.com (1321)</li>
+<li>www.reddit.com (1337)</li>
 <li>www.amazon.co.uk (1221)</li>
-<li>outlook.office365.com (1035)</li>
+<li>outlook.office365.com (1039)</li>
 <li>github.com (1012)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (770)</li>
+<li>www.theguardian.com (772)</li>
 <li>gmail.com (719)</li>
-<li>www.linkedin.com (688)</li>
+<li>www.linkedin.com (689)</li>
 <li>tvtropes.org (655)</li>
 <li>whitewaterwriters.com (650)</li>
 <li>chat.openai.com (627)</li>
 <li>app.qbo.intuit.com (569)</li>
-<li>login.microsoftonline.com (550)</li>
+<li>login.microsoftonline.com (551)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (463)</li>
 <li>drive.google.com (446)</li>
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (361)</li>
+<li>rhul-my.sharepoint.com (362)</li>
 <li>rhul.sharepoint.com (338)</li>
 <li>www.giantitp.com (317)</li>
 <li>chatgpt.com (315)</li>
@@ -104,11 +104,115 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 24/10/24</H3>
+
+<br>
+
+<ul><li> 06:57 www.reddit.com</li>
+<li class='same'> 06:55 www.reddit.com</li>
+<li class='same'> 06:54 www.reddit.com</li>
+<li class='same'> 06:53 www.reddit.com</li>
+<li> 06:52 www.google.com</li>
+<li> 06:51 www.reddit.com</li>
+<li> 06:51 www.google.com</li>
+<li class='same'> 06:50 www.google.com</li>
+<li class='same'> 06:49 www.google.com</li>
+<li> 06:49 www.howtomeasureanything.com</li>
+<li> 06:48 www.researchgate.net</li>
+<li> 06:47 www.wrike.com</li>
+<li> 06:47 www.google.com</li>
+<li> 06:46 www.reddit.com</li>
+<li> 06:46 www.google.com</li>
+<li> 06:46 www.reddit.com</li>
+<li> 06:45 www.google.com</li>
+<li> 06:44 www.reddit.com</li>
+<li> 06:44 www.google.com</li>
+<li> 06:42 www.reddit.com</li>
+<li> 06:42 www.google.com</li>
+<li> 06:41 www.reddit.com</li>
+<li class='same'> 06:39 www.reddit.com</li>
+<li> 06:39 www.google.com</li>
+<li> 06:23 www.facebook.com</li>
+<li class='same'> 06:20 www.facebook.com</li>
+<li class='same'> 06:19 www.facebook.com</li>
+<li class='same'> 06:18 www.facebook.com</li>
+<li class='same'> 06:17 www.facebook.com</li>
+<li class='same'> 06:16 www.facebook.com</li>
+<li class='same'> 06:15 www.facebook.com</li>
+<li class='same'> 06:14 www.facebook.com</li>
+<li class='same'> 06:13 www.facebook.com</li>
+<li class='same'> 06:12 www.facebook.com</li>
+<li class='same'> 06:10 www.facebook.com</li>
+<li> 06:09 www.linkedin.com</li>
+<li> 06:07 www.reddit.com</li>
+<li class='same'> 06:03 www.reddit.com</li>
+<li> 06:03 outlook.office365.com</li>
+<li class='same'> 06:01 outlook.office365.com</li>
+<li class='same'> 06:00 outlook.office365.com</li>
+<li> 05:59 rhul-my.sharepoint.com</li>
+<li> 05:58 forms.office.com</li>
+<li> 05:58 adblockplus.org</li>
+<li> 05:58 forms.office.com</li>
+<li> 05:58 login.microsoftonline.com</li>
+<li> 05:58 forms.office.com</li>
+<li> 05:57 outlook.office365.com</li>
+<li> 05:56 www.facebook.com</li>
+<li> 05:54 <a href="https://en.wikipedia.org/wiki/Roger_Michell">Roger Michell - Wikipedia</a></li>
+<li> 05:53 <a href="https://en.wikipedia.org/wiki/Anna_Maxwell_Martin">Anna Maxwell Martin - Wikipedia</a></li>
+<li> 05:53 <a href="https://en.wikipedia.org/wiki/Ludwig_(TV_series)">Ludwig (TV series) - Wikipedia</a></li>
+<li> 05:53 www.google.com</li>
+<li class='same'> 05:52 www.google.com</li>
+<li> 05:52 calendar.google.com</li>
+<li> 05:52 www.theguardian.com</li>
+<li class='same'> 05:50 www.theguardian.com</li>
+<li> 05:49 www.reddit.com</li>
+<li class='same'> 05:48 www.reddit.com</li>
+<li class='same'> 05:47 www.reddit.com</li>
+</ul>
+
 <H3>Wednesday, 23/10/24</H3>
 
 <br>
 
-<ul><li> 21:44 <a href="https://www.youtube.com/shorts/ERuPhJFCC2A">(63) His methods work😎#mentalist - YouTube</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:52 <a href="https://www.youtube.com/shorts/ym3zIiZxQaI">(63) YouTube</a></li>
+<li> 21:52 <a href="https://www.youtube.com/shorts/7v4lh5Q8xDQ">(63) Pod disturbed Bronn at his great moment - YouTube</a></li>
+<li> 21:52 <a href="https://www.youtube.com/shorts/YqTQIhoEqUU">(63) Remember when @nike #tigerwoods #rorymcllroy #golf #fyp #golfing #golfer #foryou #pga #golfgame - YouTube</a></li>
+<li> 21:52 <a href="https://www.youtube.com/shorts/aqMXcmdkxts">(63) Superman solves the battle with a single move #shorts #justiceleague #fantasy #movie - YouTube</a></li>
+<li> 21:51 <a href="https://www.youtube.com/shorts/ycBOBgo3QSo">(63) Kind Of Obvious || Spider-Man: Far From Home #spiderman - YouTube</a></li>
+<li> 21:51 <a href="https://www.youtube.com/shorts/eBBPjHXigv0">(63) YouTube</a></li>
+<li> 21:51 <a href="https://www.youtube.com/shorts/IY15ofgBkWQ">(63) @werner_bronkhorst #art #artist #painting #painter #acrylicpainting #abstractart #realism #paint - YouTube</a></li>
+<li> 21:50 <a href="https://www.youtube.com/shorts/0_UEAk4BC4c">(63) Dr.House is only interested in the condition,not the patient #movie #shorts #video - YouTube</a></li>
+<li> 21:49 <a href="https://www.youtube.com/shorts/ym3zIiZxQaI">(63) YouTube</a></li>
+<li> 21:49 <a href="https://www.youtube.com/shorts/3bkrCU3EffY">(63) Checking the suspension in Citroen and BMW🚙🏎️ #car #bmw #citroen - YouTube</a></li>
+<li> 21:49 <a href="https://www.youtube.com/shorts/3aWjufXxBXg">(63) Concrete... Italians Put That S*** On Everything! - YouTube</a></li>
+<li> 21:48 <a href="https://www.youtube.com/shorts/RNU8OiV7rYo">(63) Pt.4b. "Kill Bill" 2003. Hit subscribe to my channel #ytchannel #ytsubscribers #ytshort #mustwatch - YouTube</a></li>
+<li> 21:48 <a href="https://www.youtube.com/shorts/F3mD-B-5lvA">(63) Dr. House knew it wasn’t smallpox, but the CDC came #movie #shorts #video - YouTube</a></li>
+<li> 21:48 <a href="https://www.youtube.com/shorts/-Xu-bc1TgNA">(63) YouTube</a></li>
+<li> 21:48 <a href="https://www.youtube.com/shorts/MjiDigQzNdA">(63) トリマーガイドによくある問題を解決する　#shorts - YouTube</a></li>
+<li> 21:48 <a href="https://www.youtube.com/shorts/pY_dNWp8Vrs">(63) Neil Patrick Harris - The Shining is the Scariest Movie - YouTube</a></li>
+<li> 21:48 <a href="https://www.youtube.com/shorts/elBGXnGogxk">(63) Anna Kendrick Got CONFUSED With British Accent | #shorts - YouTube</a></li>
+<li> 21:48 <a href="https://www.youtube.com/shorts/pY_dNWp8Vrs">(63) Neil Patrick Harris - The Shining is the Scariest Movie - YouTube</a></li>
+<li> 21:47 <a href="https://www.youtube.com/shorts/elBGXnGogxk">(63) Anna Kendrick Got CONFUSED With British Accent | #shorts - YouTube</a></li>
+<li> 21:47 <a href="https://www.youtube.com/shorts/vrc45K2ZU2o">(63) YouTube</a></li>
+<li> 21:46 <a href="https://www.youtube.com/shorts/JDVJUD1Ho98">(63) Trying To Catch Up || Captain America: The Winter Soldier #captainamerica - YouTube</a></li>
+<li> 21:46 <a href="https://www.youtube.com/shorts/3HQyFbTnaD4">(63) How his TV Show Finally Got Made - Heels Creator, Michael Waldron on the TV Process #TVWriting - YouTube</a></li>
+<li> 21:46 <a href="https://www.youtube.com/shorts/IbAcEWr7jFQ">(63) The RIGHT Way to Breathe While Swimming Freestyle - YouTube</a></li>
+<li> 21:46 <a href="https://www.youtube.com/shorts/dAfzrIpXhmE">(63) Most Mammals Don't Sleep On Their Back 😴 w/ Neil deGrasse Tyson - YouTube</a></li>
+<li> 21:46 <a href="https://www.youtube.com/shorts/FWwK13D8we4">(63) YouTube</a></li>
+<li> 21:46 <a href="https://www.youtube.com/shorts/iely3Q70Bps">(63) How does an electric V8 engine work? - YouTube</a></li>
+<li> 21:46 <a href="https://www.youtube.com/shorts/EVPKHPbuyRs">(63) How I am Using Listed to Buy My Dream House - YouTube</a></li>
+<li> 21:46 <a href="https://www.youtube.com/shorts/3CIWdIICR7I">(63) Making a Bronze Symphony Triangle #music #musicinstruments #bronze #diy - YouTube</a></li>
+<li> 21:46 <a href="https://www.youtube.com/shorts/eBBPjHXigv0">(63) YouTube</a></li>
+<li> 21:46 <a href="https://www.youtube.com/shorts/kueySFEXav4">(63) The Big Bang Theory | Sheldon: I'm Gonna Go Scream On The Roof. #shorts #thebigbangtheory - YouTube</a></li>
+<li> 21:45 <a href="https://www.youtube.com/shorts/yz-pfeSkpP0">(63) Hugh Jackman CAN'T STOP LAUGHING at Patrick Stewart's Story | #shorts - YouTube</a></li>
+<li> 21:45 <a href="https://www.youtube.com/shorts/RQItlfdxVp4">(63) Making Fake Ice for a Photoshoot 🧊 - YouTube</a></li>
+<li> 21:45 <a href="https://www.youtube.com/shorts/-Xu-bc1TgNA">(63) YouTube</a></li>
+<li> 21:45 <a href="https://www.youtube.com/shorts/U0iVzuKM0Hs">(63) Putting A Rubber Band in Liquid Nitrogen... - YouTube</a></li>
+<li> 21:44 <a href="https://www.youtube.com/shorts/ERuPhJFCC2A">(63) His methods work😎#mentalist - YouTube</a></li>
 <li> 21:44 <a href="https://www.youtube.com/shorts/uRMEEYWpQdA">(63) Calisthenics leg exercises with beginner modifications (pistol squats, shrimp squats, splits) - YouTube</a></li>
 <li> 21:44 <a href="https://www.youtube.com/shorts/2CG3eRP2pvo">(63) YouTube</a></li>
 <li> 21:44 <a href="https://www.youtube.com/shorts/4JCDxGRLpWg">(63) Customer’s strict budget #wow #free - YouTube</a></li>
