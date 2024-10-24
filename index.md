@@ -78,14 +78,14 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1357)</li>
 <li>www.amazon.co.uk (1221)</li>
 <li>outlook.office365.com (1046)</li>
-<li>github.com (1013)</li>
+<li>github.com (1015)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (775)</li>
+<li>www.theguardian.com (779)</li>
 <li>gmail.com (719)</li>
 <li>www.linkedin.com (695)</li>
 <li>tvtropes.org (655)</li>
-<li>whitewaterwriters.com (650)</li>
-<li>chat.openai.com (627)</li>
+<li>whitewaterwriters.com (651)</li>
+<li>chat.openai.com (628)</li>
 <li>app.qbo.intuit.com (569)</li>
 <li>login.microsoftonline.com (553)</li>
 <li>en.m.wikipedia.org (488)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (364)</li>
 <li>rhul.sharepoint.com (340)</li>
 <li>www.giantitp.com (320)</li>
-<li>chatgpt.com (315)</li>
+<li>chatgpt.com (317)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:14 www.reddit.com</li>
+<ul><li> 13:29 chatgpt.com</li>
+<li> 13:27 whitewaterwriters.com</li>
+<li> 13:26 github.com</li>
+<li class='same'> 13:22 github.com</li>
+<li> 13:21 www.pluralsight.com</li>
+<li> 13:19 chatgpt.com</li>
+<li> 13:19 chat.openai.com</li>
+<li> 13:14 www.reddit.com</li>
 <li class='same'> 13:10 www.reddit.com</li>
 <li class='same'> 13:09 www.reddit.com</li>
 <li class='same'> 13:08 www.reddit.com</li>
@@ -164,7 +171,15 @@ With number of accesses/minutes in parentheses
 <li> 10:14 outlook.office365.com</li>
 <li> 10:14 outlook.office.com</li>
 <li> 10:14 mail.rhul.ac.uk</li>
-<li> 09:48 www.theguardian.com</li>
+<li> 10:13 www.independent.co.uk</li>
+<li> 10:13 theconversation.com</li>
+<li class='same'> 10:12 theconversation.com</li>
+<li> 10:11 www.theguardian.com</li>
+<li> 10:06 theconversation.com</li>
+<li> 10:06 www.theguardian.com</li>
+<li class='same'> 10:02 www.theguardian.com</li>
+<li class='same'> 10:00 www.theguardian.com</li>
+<li class='same'> 09:48 www.theguardian.com</li>
 <li> 09:46 gizmodo.com</li>
 <li> 09:45 www.theguardian.com</li>
 <li class='same'> 09:43 www.theguardian.com</li>
