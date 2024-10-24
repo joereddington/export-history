@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3546)</li>
 <li>www.facebook.com (2788)</li>
 <li>docs.google.com (1912)</li>
-<li>calendar.google.com (1441)</li>
+<li>calendar.google.com (1442)</li>
 <li>moodle.royalholloway.ac.uk (1396)</li>
 <li>www.reddit.com (1361)</li>
 <li>www.amazon.co.uk (1221)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (364)</li>
 <li>rhul.sharepoint.com (340)</li>
 <li>www.giantitp.com (320)</li>
-<li>chatgpt.com (317)</li>
+<li>chatgpt.com (319)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:38 Local file</li>
+<ul><li> 15:53 chatgpt.com</li>
+<li> 15:52 calendar.google.com</li>
+<li> 15:51 chatgpt.com</li>
+<li> 15:38 Local file</li>
 <li> 15:36 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 15:34 yiannistselekounis.com</li>
 <li> 15:34 www.yiannistselekounis.com</li>
