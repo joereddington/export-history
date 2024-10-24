@@ -77,13 +77,13 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1396)</li>
 <li>www.reddit.com (1360)</li>
 <li>www.amazon.co.uk (1221)</li>
-<li>outlook.office365.com (1047)</li>
+<li>outlook.office365.com (1048)</li>
 <li>github.com (1016)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (782)</li>
 <li>gmail.com (720)</li>
-<li>www.linkedin.com (696)</li>
-<li>whitewaterwriters.com (657)</li>
+<li>www.linkedin.com (698)</li>
+<li>whitewaterwriters.com (660)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (628)</li>
 <li>app.qbo.intuit.com (569)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:09 www.theguardian.com</li>
+<ul><li> 14:19 www.pluralsight.com</li>
+<li> 14:19 whitewaterwriters.com</li>
+<li> 14:19 www.pluralsight.com</li>
+<li class='same'> 14:18 www.pluralsight.com</li>
+<li> 14:15 whitewaterwriters.com</li>
+<li class='same'> 14:14 whitewaterwriters.com</li>
+<li> 14:12 outlook.office365.com</li>
+<li> 14:11 www.linkedin.com</li>
+<li class='same'> 14:10 www.linkedin.com</li>
+<li> 14:09 www.theguardian.com</li>
 <li class='same'> 14:08 www.theguardian.com</li>
 <li class='same'> 14:07 www.theguardian.com</li>
 <li> 14:07 mail.google.com</li>
@@ -128,7 +137,8 @@ With number of accesses/minutes in parentheses
 <li> 13:29 chatgpt.com</li>
 <li> 13:27 whitewaterwriters.com</li>
 <li> 13:26 github.com</li>
-<li class='same'> 13:22 github.com</li>
+<li> 13:25 www.pluralsight.com</li>
+<li> 13:22 github.com</li>
 <li> 13:21 www.pluralsight.com</li>
 <li> 13:19 chatgpt.com</li>
 <li> 13:19 chat.openai.com</li>
