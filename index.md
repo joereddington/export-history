@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8557)</li>
-<li>mail.google.com (5966)</li>
-<li>outlook.office.com (3539)</li>
+<ol><li>www.google.com (8562)</li>
+<li>mail.google.com (5968)</li>
+<li>outlook.office.com (3542)</li>
 <li>www.facebook.com (2788)</li>
 <li>docs.google.com (1912)</li>
-<li>calendar.google.com (1438)</li>
+<li>calendar.google.com (1441)</li>
 <li>moodle.royalholloway.ac.uk (1396)</li>
-<li>www.reddit.com (1360)</li>
+<li>www.reddit.com (1361)</li>
 <li>www.amazon.co.uk (1221)</li>
-<li>outlook.office365.com (1048)</li>
+<li>outlook.office365.com (1054)</li>
 <li>github.com (1016)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (782)</li>
+<li>www.theguardian.com (783)</li>
 <li>gmail.com (720)</li>
-<li>www.linkedin.com (698)</li>
-<li>whitewaterwriters.com (660)</li>
+<li>www.linkedin.com (699)</li>
+<li>whitewaterwriters.com (663)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (628)</li>
 <li>app.qbo.intuit.com (569)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:19 www.pluralsight.com</li>
+<ul><li> 15:19 calendar.google.com</li>
+<li> 15:19 outlook.office.com</li>
+<li class='same'> 15:18 outlook.office.com</li>
+<li> 15:18 outlook.office365.com</li>
+<li> 15:18 outlook.office.com</li>
+<li> 15:18 mail.rhul.ac.uk</li>
+<li> 15:18 calendar.google.com</li>
+<li> 15:13 www.reddit.com</li>
+<li> 15:12 www.theguardian.com</li>
+<li> 15:11 www.linkedin.com</li>
+<li> 15:11 outlook.office365.com</li>
+<li> 15:10 mail.google.com</li>
+<li> 15:09 <a href="https://joereddington.com/erger">Joe Reddington | Things I make.</a></li>
+<li> 15:05 mail.google.com</li>
+<li> 15:05 outlook.office365.com</li>
+<li class='same'> 15:04 outlook.office365.com</li>
+<li class='same'> 15:03 outlook.office365.com</li>
+<li> 15:03 calendar.google.com</li>
+<li> 15:03 www.google.com</li>
+<li> 15:02 outlook.office365.com</li>
+<li> 14:49 www.google.com</li>
+<li> 14:49 www.royalholloway.ac.uk</li>
+<li> 14:49 www.google.com</li>
+<li> 14:49 whitewaterwriters.com</li>
+<li> 14:49 intranet.royalholloway.ac.uk</li>
+<li> 14:49 www.google.com</li>
+<li> 14:49 whitewaterwriters.com</li>
+<li> 14:49 www.pluralsight.com</li>
+<li> 14:49 whitewaterwriters.com</li>
+<li> 14:48 www.google.com</li>
+<li> 14:19 www.pluralsight.com</li>
 <li> 14:19 whitewaterwriters.com</li>
 <li> 14:19 www.pluralsight.com</li>
 <li class='same'> 14:18 www.pluralsight.com</li>
