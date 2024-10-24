@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8546)</li>
+<ol><li>www.google.com (8550)</li>
 <li>mail.google.com (5964)</li>
-<li>outlook.office.com (3529)</li>
-<li>www.facebook.com (2784)</li>
+<li>outlook.office.com (3532)</li>
+<li>www.facebook.com (2785)</li>
 <li>docs.google.com (1912)</li>
 <li>calendar.google.com (1438)</li>
 <li>moodle.royalholloway.ac.uk (1389)</li>
 <li>www.reddit.com (1352)</li>
 <li>www.amazon.co.uk (1221)</li>
-<li>outlook.office365.com (1039)</li>
+<li>outlook.office365.com (1041)</li>
 <li>github.com (1012)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (772)</li>
+<li>www.theguardian.com (775)</li>
 <li>gmail.com (719)</li>
 <li>www.linkedin.com (691)</li>
 <li>tvtropes.org (655)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (362)</li>
 <li>rhul.sharepoint.com (338)</li>
-<li>www.giantitp.com (317)</li>
+<li>www.giantitp.com (320)</li>
 <li>chatgpt.com (315)</li>
 
 
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 24/10/24</H3>
+
+<br>
+
+<ul><li> 10:16 events.zoom.us</li>
+<li> 10:16 cisse.info</li>
+<li> 10:16 outlook.office.com</li>
+<li class='same'> 10:14 outlook.office.com</li>
+<li> 10:14 outlook.office365.com</li>
+<li> 10:14 outlook.office.com</li>
+<li> 10:14 mail.rhul.ac.uk</li>
+<li> 09:48 www.theguardian.com</li>
+<li> 09:46 gizmodo.com</li>
+<li> 09:45 www.theguardian.com</li>
+<li class='same'> 09:43 www.theguardian.com</li>
+<li> 09:42 www.google.com</li>
+<li class='same'> 09:41 www.google.com</li>
+</ul>
 
 <br>
 
@@ -155,7 +172,12 @@ With number of accesses/minutes in parentheses
 <li> 06:41 www.reddit.com</li>
 <li class='same'> 06:39 www.reddit.com</li>
 <li> 06:39 www.google.com</li>
-<li> 06:23 www.facebook.com</li>
+<li> 06:28 www.giantitp.com</li>
+<li class='same'> 06:26 www.giantitp.com</li>
+<li class='same'> 06:25 www.giantitp.com</li>
+<li> 06:25 outlook.office365.com</li>
+<li> 06:24 www.facebook.com</li>
+<li class='same'> 06:23 www.facebook.com</li>
 <li class='same'> 06:20 www.facebook.com</li>
 <li class='same'> 06:19 www.facebook.com</li>
 <li class='same'> 06:18 www.facebook.com</li>
@@ -357,7 +379,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:19 www.theguardian.com</li>
+<ul><li> 19:54 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:22 www.google.com</li>
+<li> 18:19 www.theguardian.com</li>
 </ul>
 
 <br>
