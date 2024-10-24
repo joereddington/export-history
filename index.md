@@ -74,10 +74,10 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (2786)</li>
 <li>docs.google.com (1912)</li>
 <li>calendar.google.com (1438)</li>
-<li>moodle.royalholloway.ac.uk (1389)</li>
+<li>moodle.royalholloway.ac.uk (1390)</li>
 <li>www.reddit.com (1352)</li>
 <li>www.amazon.co.uk (1221)</li>
-<li>outlook.office365.com (1041)</li>
+<li>outlook.office365.com (1042)</li>
 <li>github.com (1013)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (775)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (362)</li>
-<li>rhul.sharepoint.com (339)</li>
+<li>rhul.sharepoint.com (340)</li>
 <li>www.giantitp.com (320)</li>
 <li>chatgpt.com (315)</li>
 
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:46 github.com</li>
+<ul><li> 12:27 moodle.royalholloway.ac.uk</li>
+<li> 12:26 rhul.sharepoint.com</li>
+<li> 12:02 outlook.office365.com</li>
+<li> 11:46 github.com</li>
 <li> 11:35 outlook.office.com</li>
 <li class='same'> 11:24 outlook.office.com</li>
 <li class='same'> 11:14 outlook.office.com</li>
