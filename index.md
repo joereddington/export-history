@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8556)</li>
 <li>mail.google.com (5964)</li>
-<li>outlook.office.com (3534)</li>
+<li>outlook.office.com (3536)</li>
 <li>www.facebook.com (2786)</li>
 <li>docs.google.com (1912)</li>
 <li>calendar.google.com (1438)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (362)</li>
-<li>rhul.sharepoint.com (338)</li>
+<li>rhul.sharepoint.com (339)</li>
 <li>www.giantitp.com (320)</li>
 <li>chatgpt.com (315)</li>
 
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:03 www.facebook.com</li>
+<ul><li> 11:14 outlook.office.com</li>
+<li> 11:12 rhul.sharepoint.com</li>
+<li> 11:12 outlook.office.com</li>
+<li> 11:03 www.facebook.com</li>
 <li> 11:03 www.google.com</li>
 <li class='same'> 11:02 www.google.com</li>
 <li class='same'> 10:48 www.google.com</li>
