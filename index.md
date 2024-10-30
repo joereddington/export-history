@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8662)</li>
+<ol><li>www.google.com (8673)</li>
 <li>mail.google.com (5980)</li>
 <li>outlook.office.com (3545)</li>
-<li>www.facebook.com (2825)</li>
+<li>www.facebook.com (2828)</li>
 <li>docs.google.com (1919)</li>
-<li>calendar.google.com (1445)</li>
+<li>calendar.google.com (1446)</li>
 <li>moodle.royalholloway.ac.uk (1401)</li>
-<li>www.reddit.com (1393)</li>
-<li>www.amazon.co.uk (1227)</li>
+<li>www.reddit.com (1396)</li>
+<li>www.amazon.co.uk (1230)</li>
 <li>outlook.office365.com (1121)</li>
 <li>github.com (1017)</li>
 <li>m.facebook.com (978)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (569)</li>
 <li>login.microsoftonline.com (563)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (468)</li>
+<li>web.whatsapp.com (469)</li>
 <li>drive.google.com (449)</li>
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (439)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:05 www.reddit.com</li>
+<ul><li> 07:34 www.atlasobscura.com</li>
+<li> 07:34 www.gloverall.com</li>
+<li> 07:34 www.google.com</li>
+<li> 07:32 <a href="https://en.wikipedia.org/wiki/1920s_in_Western_fashion">1920s in Western fashion - Wikipedia</a></li>
+<li> 07:31 www.google.com</li>
+<li> 07:28 <a href="https://en.wikipedia.org/wiki/Warhammer_40,000:_Space_Marine_2">Warhammer 40,000: Space Marine 2 - Wikipedia</a></li>
+<li> 07:28 www.google.com</li>
+<li> 07:27 www.thegamer.com</li>
+<li> 07:27 www.google.com</li>
+<li class='same'> 07:26 www.google.com</li>
+<li> 07:26 <a href="https://en.wikipedia.org/wiki/Gran_Turismo_6">Gran Turismo 6 - Wikipedia</a></li>
+<li> 07:26 www.google.com</li>
+<li> 07:26 www.amazon.co.uk</li>
+<li class='same'> 07:25 www.amazon.co.uk</li>
+<li> 07:25 www.google.com</li>
+<li> 07:23 www.facebook.com</li>
+<li> 07:23 <a href="https://en.wikipedia.org/wiki/List_of_best-selling_PlayStation_4_video_games">List of best-selling PlayStation 4 video games - Wikipedia</a></li>
+<li> 07:23 www.google.com</li>
+<li> 07:23 www.amazon.co.uk</li>
+<li> 07:21 www.google.com</li>
+<li> 07:18 calendar.google.com</li>
+<li> 07:18 web.whatsapp.com</li>
+<li> 07:18 51.148.131.133:8000</li>
+<li> 07:12 www.facebook.com</li>
+<li class='same'> 07:11 www.facebook.com</li>
+<li> 07:11 www.reddit.com</li>
+<li> 07:09 www.google.com</li>
+<li class='same'> 07:08 www.google.com</li>
+<li> 07:07 www.reddit.com</li>
+<li class='same'> 07:06 www.reddit.com</li>
+<li class='same'> 07:05 www.reddit.com</li>
 <li> 07:01 51.148.131.133:8000</li>
 <li> 07:01 fritz.box</li>
 <li class='same'> 07:00 fritz.box</li>
