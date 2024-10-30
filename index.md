@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8661)</li>
+<ol><li>www.google.com (8662)</li>
 <li>mail.google.com (5980)</li>
 <li>outlook.office.com (3545)</li>
-<li>www.facebook.com (2823)</li>
+<li>www.facebook.com (2825)</li>
 <li>docs.google.com (1919)</li>
 <li>calendar.google.com (1445)</li>
 <li>moodle.royalholloway.ac.uk (1401)</li>
-<li>www.reddit.com (1390)</li>
+<li>www.reddit.com (1393)</li>
 <li>www.amazon.co.uk (1227)</li>
-<li>outlook.office365.com (1118)</li>
+<li>outlook.office365.com (1121)</li>
 <li>github.com (1017)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (805)</li>
+<li>www.theguardian.com (813)</li>
 <li>gmail.com (724)</li>
 <li>www.linkedin.com (706)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (630)</li>
+<li>chat.openai.com (631)</li>
 <li>app.qbo.intuit.com (569)</li>
 <li>login.microsoftonline.com (563)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (467)</li>
+<li>web.whatsapp.com (468)</li>
 <li>drive.google.com (449)</li>
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (439)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (374)</li>
 <li>rhul.sharepoint.com (339)</li>
-<li>chatgpt.com (324)</li>
+<li>chatgpt.com (326)</li>
 <li>www.giantitp.com (321)</li>
 
 
@@ -108,10 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:55 0.0.0.0:8000</li>
+<ul><li> 07:05 www.reddit.com</li>
+<li> 07:01 51.148.131.133:8000</li>
+<li> 07:01 fritz.box</li>
+<li class='same'> 07:00 fritz.box</li>
+<li class='same'> 06:59 fritz.box</li>
+<li class='same'> 06:58 fritz.box</li>
+<li> 06:58 192.168.178.128:8000</li>
+<li> 06:55 fritz.box</li>
+<li> 06:55 0.0.0.0:8000</li>
+<li> 06:53 fritz.box</li>
+<li class='same'> 06:52 fritz.box</li>
+<li class='same'> 06:51 fritz.box</li>
 <li> 06:50 chatgpt.com</li>
 <li> 06:50 chat.openai.com</li>
 <li> 06:47 0.0.0.0:8000</li>
+<li> 06:43 chatgpt.com</li>
+<li> 06:41 fritz.box</li>
+<li class='same'> 06:40 fritz.box</li>
+<li> 06:40 chatgpt.com</li>
+<li> 06:40 chat.openai.com</li>
+<li> 06:39 outlook.office365.com</li>
 </ul>
 
 <H3>Tuesday, 29/10/24</H3>
@@ -119,6 +136,31 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 22:04 www.reddit.com</li>
+<li class='same'> 22:03 www.reddit.com</li>
+<li> 22:03 feedly.com</li>
+<li> 22:02 www.theguardian.com</li>
+<li class='same'> 22:00 www.theguardian.com</li>
+<li class='same'> 21:59 www.theguardian.com</li>
+<li class='same'> 21:55 www.theguardian.com</li>
+<li class='same'> 21:54 www.theguardian.com</li>
+<li class='same'> 21:53 www.theguardian.com</li>
+<li class='same'> 21:52 www.theguardian.com</li>
+<li class='same'> 21:51 www.theguardian.com</li>
+<li> 21:51 www.google.com</li>
+<li> 21:50 www.facebook.com</li>
+<li class='same'> 21:49 www.facebook.com</li>
+<li> 21:48 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:36 outlook.office365.com</li>
+<li class='same'> 20:35 outlook.office365.com</li>
+</ul>
 
 <br>
 
