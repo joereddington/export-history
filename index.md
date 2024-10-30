@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (8673)</li>
 <li>mail.google.com (5980)</li>
 <li>outlook.office.com (3545)</li>
-<li>www.facebook.com (2828)</li>
+<li>www.facebook.com (2829)</li>
 <li>docs.google.com (1919)</li>
-<li>calendar.google.com (1446)</li>
+<li>calendar.google.com (1447)</li>
 <li>moodle.royalholloway.ac.uk (1401)</li>
 <li>www.reddit.com (1396)</li>
-<li>www.amazon.co.uk (1230)</li>
-<li>outlook.office365.com (1121)</li>
+<li>www.amazon.co.uk (1235)</li>
+<li>outlook.office365.com (1125)</li>
 <li>github.com (1017)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (813)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (631)</li>
 <li>app.qbo.intuit.com (569)</li>
-<li>login.microsoftonline.com (563)</li>
+<li>login.microsoftonline.com (568)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (469)</li>
 <li>drive.google.com (449)</li>
@@ -105,6 +105,35 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 30/10/24</H3>
+
+<br>
+
+<ul><li> 11:29 outlook.office365.com</li>
+<li class='same'> 11:28 outlook.office365.com</li>
+<li> 11:28 calendar.google.com</li>
+<li> 11:28 outlook.office365.com</li>
+<li> 11:28 www.amazon.co.uk</li>
+<li> 11:28 outlook.office365.com</li>
+<li> 11:28 www.amazon.co.uk</li>
+<li> 11:28 forms.office.com</li>
+<li> 11:28 login.microsoftonline.com</li>
+<li> 11:28 www.amazon.co.uk</li>
+<li class='same'> 11:27 www.amazon.co.uk</li>
+<li> 11:26 login.microsoftonline.com</li>
+<li> 11:26 forms.office.com</li>
+<li> 11:26 login.microsoftonline.com</li>
+<li> 11:26 forms.office.com</li>
+<li> 11:26 www.amazon.co.uk</li>
+<li> 11:25 login.microsoftonline.com</li>
+<li> 11:25 forms.office.com</li>
+<li> 11:24 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:48 login.microsoftonline.com</li>
+<li> 09:48 forms.office.com</li>
+</ul>
 
 <br>
 
