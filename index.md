@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8666)</li>
+<ol><li>www.google.com (8669)</li>
 <li>mail.google.com (5980)</li>
-<li>outlook.office.com (3553)</li>
+<li>outlook.office.com (3556)</li>
 <li>www.facebook.com (2835)</li>
 <li>docs.google.com (1919)</li>
 <li>calendar.google.com (1447)</li>
-<li>www.reddit.com (1402)</li>
+<li>www.reddit.com (1405)</li>
 <li>moodle.royalholloway.ac.uk (1401)</li>
 <li>www.amazon.co.uk (1235)</li>
 <li>outlook.office365.com (1127)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (374)</li>
 <li>rhul.sharepoint.com (339)</li>
 <li>chatgpt.com (326)</li>
-<li>www.giantitp.com (322)</li>
+<li>www.giantitp.com (323)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,100 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:54 www.disneyplus.com</li>
+<ul><li> 15:36 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Starting new topic on Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
+<li> 15:36 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computing">Wikipedia:WikiProject Computing - Wikipedia</a></li>
+<li> 15:35 www.google.com</li>
+<li> 15:35 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 15:34 <a href="https://en.wikipedia.org/wiki/Talk:Information_security">Talk:Information security - Wikipedia</a></li>
+<li> 15:33 <a href="https://en.wikipedia.org/wiki/Risk_management">Risk management - Wikipedia</a></li>
+<li> 15:32 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 15:31 <a href="https://en.wikipedia.org/wiki/Offensive_Security">Offensive Security - Wikipedia</a></li>
+<li> 15:31 <a href="https://en.wikipedia.org/wiki/Category:Computer_network_security">Category:Computer network security - Wikipedia</a></li>
+<li> 15:30 outlook.office.com</li>
+<li> 15:30 <a href="https://en.wikipedia.org/wiki/Category:Computer_security_in_the_United_Kingdom">Category:Computer security in the United Kingdom - Wikipedia</a></li>
+<li> 15:30 <a href="https://en.wikipedia.org/wiki/Category:Computer_security_by_country">Category:Computer security by country - Wikipedia</a></li>
+<li> 15:30 <a href="https://en.wikipedia.org/wiki/Category:InfoSec_Twitter">Category:InfoSec Twitter - Wikipedia</a></li>
+<li> 15:29 <a href="https://en.wikipedia.org/wiki/National_Cyber_Security_Policy_2013">National Cyber Security Policy 2013 - Wikipedia</a></li>
+<li> 15:28 <a href="https://en.wikipedia.org/wiki/Talk:Israeli_cybersecurity_industry">Talk:Israeli cybersecurity industry - Wikipedia</a></li>
+<li> 15:28 <a href="https://en.wikipedia.org/w/index.php?title=Israeli_cybersecurity_industry&action=history">Israeli cybersecurity industry: Revision history - Wikipedia</a></li>
+<li> 15:28 <a href="https://en.wikipedia.org/wiki/Israeli_cybersecurity_industry">Israeli cybersecurity industry - Wikipedia</a></li>
+<li> 15:27 <a href="https://en.wikipedia.org/wiki/Macro_and_security">Macro and security - Wikipedia</a></li>
+<li> 15:27 <a href="https://en.wikipedia.org/wiki/Category:Computer_security">Category:Computer security - Wikipedia</a></li>
+<li> 15:27 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
+<li> 15:27 www.google.com</li>
+<li> 15:26 <a href="https://en.wikipedia.org/wiki/Loss_of_United_Kingdom_child_benefit_data_(2007)">Loss of United Kingdom child benefit data (2007) - Wikipedia</a></li>
+<li> 15:26 web.archive.org</li>
+<li> 15:25 <a href="https://en.wikipedia.org/wiki/Certified_penetration_testing_engineer#cite_note-4">Certified penetration testing engineer - Wikipedia</a></li>
+<li> 15:25 <a href="https://en.wikipedia.org/wiki/Certified_ethical_hacker">Certified ethical hacker - Wikipedia</a></li>
+<li> 15:25 <a href="https://en.wikipedia.org/wiki/Certified_Network_Defense_Architect">Certified ethical hacker - Wikipedia</a></li>
+<li> 15:25 www.monster.com</li>
+<li> 15:25 <a href="https://en.wikipedia.org/wiki/Certified_penetration_testing_engineer">Certified penetration testing engineer - Wikipedia</a></li>
+<li> 15:24 <a href="https://en.wikipedia.org/wiki/Security_information_and_event_management">Security information and event management - Wikipedia</a></li>
+<li> 15:24 <a href="https://en.wikipedia.org/wiki/Security_level_management">Security level management - Wikipedia</a></li>
+<li> 15:24 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 15:23 <a href="https://en.wikipedia.org/w/index.php?title=United_Kingdom_government_security_breaches&action=history">United Kingdom government security breaches: Revision history - Wikipedia</a></li>
+<li> 15:23 <a href="https://en.wikipedia.org/wiki/United_Kingdom_government_security_breaches">United Kingdom government security breaches - Wikipedia</a></li>
+<li> 15:22 <a href="https://en.wikipedia.org/wiki/Medical_data_breach#cite_note-:1-1">Medical data breach - Wikipedia</a></li>
+<li> 15:22 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 15:22 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 15:21 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 15:21 <a href="https://en.wikipedia.org/wiki/Mayfield%27s_paradox">Mayfield's paradox - Wikipedia</a></li>
+<li> 15:21 <a href="https://en.wikipedia.org/wiki/Category:Data_security">Category:Data security - Wikipedia</a></li>
+<li> 15:20 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 15:20 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=history">Information security: Revision history - Wikipedia</a></li>
+<li> 15:20 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 15:20 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 15:20 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 15:19 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:19 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&action=history">Sarah Owen: Revision history - Wikipedia</a></li>
+<li> 15:18 <a href="https://en.wikipedia.org/wiki/Luton_Borough_Council_elections">Luton Borough Council elections - Wikipedia</a></li>
+<li> 15:18 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:18 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:18 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:18 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:18 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security&curid=7398&action=history">Computer security: Revision history - Wikipedia</a></li>
+<li> 15:17 <a href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol">Hyper Text Coffee Pot Control Protocol - Wikipedia</a></li>
+<li> 15:17 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:17 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:17 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/w/index.php?title=Tulip_Siddiq&curid=33131881&diff=1254327799&oldid=1252611713">Tulip Siddiq: Difference between revisions - Wikipedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/wiki/Special:Contributions/240F:CA:2CE5:1:158D:3099:FDBB:DB3A">User contributions for 240F:CA:2CE5:1:158D:3099:FDBB:DB3A - Wikipedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/wiki/User_talk:240F:CA:2CE5:1:158D:3099:FDBB:DB3A">User talk:240F:CA:2CE5:1:158D:3099:FDBB:DB3A - Wikipedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/wiki/Sarah_Owen">Sarah Owen - Wikipedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/w/index.php?title=User_talk:240F:CA:2CE5:1:158D:3099:FDBB:DB3A&action=edit&preview=yes&vanarticle=Sarah%20Owen&vanarticlerevid=1254445350&vantimestamp=2024-10-31T01%3A03%3A28Z&vanarticlegoodrevid=1246489529&type=norm&count=2">Creating User talk:240F:CA:2CE5:1:158D:3099:FDBB:DB3A - Wikipedia</a></li>
+<li> 15:15 <a href="https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources_and_undue_weight">Wikipedia:Reliable sources and undue weight - Wikipedia</a></li>
+<li> 15:15 www.google.com</li>
+<li> 15:15 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&diff=next&oldid=1254445088">Sarah Owen: Difference between revisions - Wikipedia</a></li>
+<li> 15:15 claude.ai</li>
+<li class='same'> 15:14 claude.ai</li>
+<li> 15:14 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&diff=prev&oldid=1254445088">Sarah Owen: Difference between revisions - Wikipedia</a></li>
+<li> 15:14 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&diff=1254445350&oldid=1254445088">Sarah Owen: Difference between revisions - Wikipedia</a></li>
+<li> 15:14 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&action=history">Sarah Owen: Revision history - Wikipedia</a></li>
+<li> 15:14 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&curid=62569479&diff=1254445350&oldid=1246489529">Sarah Owen: Difference between revisions - Wikipedia</a></li>
+<li> 15:13 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:13 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:13 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:13 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:13 feedly.com</li>
+<li> 15:12 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:58 feedly.com</li>
+<li> 12:58 www.giantitp.com</li>
+<li> 12:57 outlook.office.com</li>
+<li> 12:57 www.reddit.com</li>
+<li class='same'> 12:56 www.reddit.com</li>
+<li class='same'> 12:55 www.reddit.com</li>
+<li> 12:55 www.disneyplus.com</li>
+<li class='same'> 12:54 www.disneyplus.com</li>
 <li class='same'> 12:53 www.disneyplus.com</li>
 <li class='same'> 12:52 www.disneyplus.com</li>
 <li class='same'> 12:51 www.disneyplus.com</li>
