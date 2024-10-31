@@ -70,24 +70,24 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8666)</li>
 <li>mail.google.com (5980)</li>
-<li>outlook.office.com (3544)</li>
-<li>www.facebook.com (2832)</li>
+<li>outlook.office.com (3548)</li>
+<li>www.facebook.com (2835)</li>
 <li>docs.google.com (1919)</li>
 <li>calendar.google.com (1447)</li>
+<li>www.reddit.com (1402)</li>
 <li>moodle.royalholloway.ac.uk (1401)</li>
-<li>www.reddit.com (1401)</li>
 <li>www.amazon.co.uk (1235)</li>
 <li>outlook.office365.com (1127)</li>
 <li>github.com (1017)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (813)</li>
+<li>www.theguardian.com (817)</li>
 <li>gmail.com (724)</li>
-<li>www.linkedin.com (706)</li>
+<li>www.linkedin.com (707)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (631)</li>
 <li>app.qbo.intuit.com (569)</li>
-<li>login.microsoftonline.com (568)</li>
+<li>login.microsoftonline.com (569)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (469)</li>
 <li>drive.google.com (449)</li>
@@ -97,18 +97,43 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (374)</li>
 <li>rhul.sharepoint.com (339)</li>
 <li>chatgpt.com (326)</li>
-<li>www.giantitp.com (321)</li>
+<li>www.giantitp.com (322)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Thursday, 31/10/24</H3>
+
+<br>
+
+<ul><li> 07:10 www.theguardian.com</li>
+<li> 07:10 www.reddit.com</li>
+<li> 07:09 outlook.office.com</li>
+<li> 07:08 www.facebook.com</li>
+<li class='same'> 07:02 www.facebook.com</li>
+<li class='same'> 07:01 www.facebook.com</li>
+<li> 07:01 www.theguardian.com</li>
+<li class='same'> 07:00 www.theguardian.com</li>
+<li> 07:00 www.linkedin.com</li>
+<li> 06:58 outlook.office.com</li>
+<li> 06:58 www.giantitp.com</li>
+<li> 06:50 outlook.office.com</li>
+<li class='same'> 06:49 outlook.office.com</li>
+<li> 06:49 login.microsoftonline.com</li>
+</ul>
+
 <H3>Wednesday, 30/10/24</H3>
 
 <br>
 
-<ul><li> 15:08 www.facebook.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 15:10 www.theguardian.com</li>
+<li> 15:08 www.facebook.com</li>
 <li class='same'> 15:04 www.facebook.com</li>
 </ul>
 
