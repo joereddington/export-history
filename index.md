@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8666)</li>
 <li>mail.google.com (5980)</li>
-<li>outlook.office.com (3550)</li>
+<li>outlook.office.com (3551)</li>
 <li>www.facebook.com (2835)</li>
 <li>docs.google.com (1919)</li>
 <li>calendar.google.com (1447)</li>
@@ -80,13 +80,13 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1127)</li>
 <li>github.com (1017)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (817)</li>
+<li>www.theguardian.com (818)</li>
 <li>gmail.com (724)</li>
 <li>www.linkedin.com (707)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (631)</li>
-<li>login.microsoftonline.com (570)</li>
+<li>login.microsoftonline.com (571)</li>
 <li>app.qbo.intuit.com (569)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (469)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:27 outlook.office.com</li>
+<ul><li> 08:33 login.microsoftonline.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:32 www.theguardian.com</li>
+<li> 07:32 outlook.office.com</li>
+<li> 07:29 intranet.royalholloway.ac.uk</li>
+<li class='same'> 07:28 intranet.royalholloway.ac.uk</li>
+<li> 07:27 outlook.office.com</li>
 <li> 07:27 intranet.royalholloway.ac.uk</li>
 <li> 07:25 experience.elluciancloud.ie</li>
 <li class='same'> 07:24 experience.elluciancloud.ie</li>
