@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8666)</li>
 <li>mail.google.com (5980)</li>
-<li>outlook.office.com (3548)</li>
+<li>outlook.office.com (3550)</li>
 <li>www.facebook.com (2835)</li>
 <li>docs.google.com (1919)</li>
 <li>calendar.google.com (1447)</li>
@@ -86,8 +86,8 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (631)</li>
+<li>login.microsoftonline.com (570)</li>
 <li>app.qbo.intuit.com (569)</li>
-<li>login.microsoftonline.com (569)</li>
 <li>en.m.wikipedia.org (488)</li>
 <li>web.whatsapp.com (469)</li>
 <li>drive.google.com (449)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:10 www.theguardian.com</li>
+<ul><li> 07:27 outlook.office.com</li>
+<li> 07:27 intranet.royalholloway.ac.uk</li>
+<li> 07:25 experience.elluciancloud.ie</li>
+<li class='same'> 07:24 experience.elluciancloud.ie</li>
+<li> 07:24 login.microsoftonline.com</li>
+<li> 07:24 experience.elluciancloud.ie</li>
+<li> 07:12 outlook.office.com</li>
+<li> 07:10 www.theguardian.com</li>
 <li> 07:10 www.reddit.com</li>
 <li> 07:09 outlook.office.com</li>
 <li> 07:08 www.facebook.com</li>
