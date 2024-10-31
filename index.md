@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8677)</li>
+<ol><li>www.google.com (8666)</li>
 <li>mail.google.com (5980)</li>
-<li>outlook.office.com (3545)</li>
+<li>outlook.office.com (3544)</li>
 <li>www.facebook.com (2832)</li>
 <li>docs.google.com (1919)</li>
 <li>calendar.google.com (1447)</li>
@@ -18259,7 +18259,6 @@ With number of accesses/minutes in parentheses
 <li> 15:30 github.com</li>
 <li> 15:29 www.google.com</li>
 <li> 15:29 socket.io</li>
-<li> 15:29 www.google.com</li>
 <li> 15:28 <a href="https://stackoverflow.com/questions/23775215/can-not-established-websocket-secure-connection-on-firefox">javascript - Can not established Websocket secure connection on Firefox - Stack Overflow</a></li>
 <li> 15:28 www.google.com</li>
 <li> 15:27 <a href="https://stackoverflow.com/questions/75246354/cannot-connect-to-websocket-server-app-inside-docker-compose">c# - Cannot connect to websocket server app inside docker-compose - Stack Overflow</a></li>
@@ -18279,12 +18278,10 @@ With number of accesses/minutes in parentheses
 <li> 15:01 scanner.etherpad.org</li>
 <li> 15:01 pad.systemli.org</li>
 <li> 15:01 github.com</li>
-<li> 15:00 www.google.com</li>
 <li> 15:00 etherpad.org</li>
 <li> 15:00 www.google.com</li>
 <li> 14:52 github.com</li>
 <li> 14:52 www.google.com</li>
-<li class='same'> 14:47 www.google.com</li>
 <li class='same'> 14:46 www.google.com</li>
 <li> 14:46 github.com</li>
 <li> 14:45 <a href="https://stackoverflow.com/questions/45153599/error-with-log4js-configuration-must-have-a-property-appenders-of-type-object">protractor - Error with log4js configuration: must have a property "appenders" of type object - Stack Overflow</a></li>
@@ -18393,8 +18390,7 @@ With number of accesses/minutes in parentheses
 <li> 07:31 <a href="https://www.bbc.co.uk/bitesize/subjects/zjxhfg8/year/z7s22sg">Year 2 Maths - BBC Bitesize</a></li>
 <li> 07:31 www.google.com</li>
 <li> 07:24 www.facebook.com</li>
-<li> 07:23 www.google.com</li>
-<li class='same'> 07:22 www.google.com</li>
+<li> 07:22 www.google.com</li>
 <li> 07:22 www.britishjudo.org.uk</li>
 <li> 07:22 www.google.com</li>
 <li> 07:20 www.britishjudocouncil.org</li>
@@ -18412,15 +18408,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:02 mail.google.com</li>
 <li> 06:55 www.facebook.com</li>
 <li> 06:55 mail.google.com</li>
-<li> 06:54 www.google.com</li>
-<li class='same'> 06:53 www.google.com</li>
+<li> 06:53 www.google.com</li>
 <li> 06:52 mail.google.com</li>
 <li> 06:51 www.google.com</li>
 <li> 06:50 hellosafe.co.uk</li>
 <li> 06:50 www.work-day.co.uk</li>
 <li class='same'> 06:49 www.work-day.co.uk</li>
-<li> 06:49 www.google.com</li>
-<li class='same'> 06:48 www.google.com</li>
+<li> 06:48 www.google.com</li>
 <li> 06:48 mail.google.com</li>
 <li class='same'> 06:45 mail.google.com</li>
 <li> 06:44 register-of-charities.charitycommission.gov.uk</li>
@@ -18454,8 +18448,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:19 www.theguardian.com</li>
 <li> 06:19 mail.google.com</li>
 <li> 06:19 docs.google.com</li>
-<li> 06:19 accounts.google.com</li>
-<li class='same'> 06:18 accounts.google.com</li>
+<li> 06:18 accounts.google.com</li>
 <li> 06:18 whitewaterwriters.com</li>
 <li> 06:15 docs.google.com</li>
 <li> 06:15 mail.google.com</li>
@@ -18509,7 +18502,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:10 chatgpt.com</li>
 <li> 12:10 chat.openai.com</li>
 <li> 11:49 www.google.com</li>
-<li class='same'> 11:48 www.google.com</li>
 <li> 11:47 www.facebook.com</li>
 <li class='same'> 11:46 www.facebook.com</li>
 <li class='same'> 11:45 www.facebook.com</li>
@@ -18574,7 +18566,6 @@ With number of accesses/minutes in parentheses
 <li> 09:22 <a href="https://www.bbc.co.uk/programmes/b0b23j7w">CBBC - Gym Stars</a></li>
 <li> 09:22 www.google.com</li>
 <li> 09:22 <a href="https://en.wikipedia.org/wiki/Amelie_Morgan">Amelie Morgan - Wikipedia</a></li>
-<li> 09:22 www.google.com</li>
 <li> 09:21 gym-stars.fandom.com</li>
 <li> 09:21 www.google.com</li>
 </ul>
@@ -18630,8 +18621,7 @@ With number of accesses/minutes in parentheses
 <li> 07:18 fast.com</li>
 <li> 07:18 outlook.office.com</li>
 <li class='same'> 07:15 outlook.office.com</li>
-<li> 07:14 www.google.com</li>
-<li> 07:14 outlook.office.com</li>
+<li class='same'> 07:14 outlook.office.com</li>
 <li class='same'> 07:13 outlook.office.com</li>
 <li class='same'> 07:12 outlook.office.com</li>
 <li class='same'> 07:11 outlook.office.com</li>
@@ -18641,8 +18631,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:06 outlook.office.com</li>
 <li class='same'> 07:04 outlook.office.com</li>
 <li class='same'> 06:41 outlook.office.com</li>
-<li> 06:41 www.google.com</li>
-<li> 06:41 outlook.office.com</li>
 <li class='same'> 06:40 outlook.office.com</li>
 <li> 06:37 mail.google.com</li>
 <li> 06:34 www.google.com</li>
@@ -18674,7 +18662,6 @@ With number of accesses/minutes in parentheses
 <li> 18:38 www.google.com</li>
 <li> 18:25 www.facebook.com</li>
 <li class='same'> 18:24 www.facebook.com</li>
-<li> 18:23 www.google.com</li>
 <li> 18:23 www.reddit.com</li>
 <li> 18:23 www.google.com</li>
 <li> 18:22 medium.com</li>
