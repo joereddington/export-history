@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8669)</li>
 <li>mail.google.com (5980)</li>
-<li>outlook.office.com (3556)</li>
+<li>outlook.office.com (3558)</li>
 <li>www.facebook.com (2835)</li>
 <li>docs.google.com (1919)</li>
-<li>calendar.google.com (1447)</li>
+<li>calendar.google.com (1448)</li>
 <li>www.reddit.com (1405)</li>
-<li>moodle.royalholloway.ac.uk (1401)</li>
+<li>moodle.royalholloway.ac.uk (1403)</li>
 <li>www.amazon.co.uk (1235)</li>
-<li>outlook.office365.com (1127)</li>
+<li>outlook.office365.com (1139)</li>
 <li>github.com (1017)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (818)</li>
@@ -85,18 +85,18 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (707)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (631)</li>
-<li>login.microsoftonline.com (571)</li>
+<li>chat.openai.com (632)</li>
+<li>login.microsoftonline.com (573)</li>
 <li>app.qbo.intuit.com (569)</li>
 <li>en.m.wikipedia.org (488)</li>
-<li>web.whatsapp.com (469)</li>
+<li>web.whatsapp.com (470)</li>
 <li>drive.google.com (449)</li>
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (439)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (374)</li>
+<li>rhul-my.sharepoint.com (376)</li>
 <li>rhul.sharepoint.com (339)</li>
-<li>chatgpt.com (326)</li>
+<li>chatgpt.com (327)</li>
 <li>www.giantitp.com (323)</li>
 
 
@@ -104,7 +104,59 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 01/11/24</H3>
+
+<br>
+
+<ul><li> 11:09 online.unity.co.uk</li>
+<li> 11:09 www.unity-online.co.uk</li>
+<li> 11:09 online.unity.co.uk</li>
+<li> 11:08 chatgpt.com</li>
+<li> 11:08 chat.openai.com</li>
+<li> 11:07 outlook.office365.com</li>
+<li class='same'> 11:06 outlook.office365.com</li>
+<li class='same'> 11:05 outlook.office365.com</li>
+<li> 11:02 www.accessable.co.uk</li>
+<li> 11:02 www.google.com</li>
+<li> 11:00 outlook.office365.com</li>
+<li> 10:59 www.google.com</li>
+<li> 10:57 outlook.office365.com</li>
+<li class='same'> 10:53 outlook.office365.com</li>
+<li class='same'> 10:52 outlook.office365.com</li>
+<li class='same'> 10:51 outlook.office365.com</li>
+<li class='same'> 10:50 outlook.office365.com</li>
+<li> 10:44 calendar.google.com</li>
+<li> 10:43 outlook.office365.com</li>
+<li> 10:42 moodle.royalholloway.ac.uk</li>
+<li> 10:42 login.microsoftonline.com</li>
+<li> 10:42 moodle.royalholloway.ac.uk</li>
+<li> 10:38 web.whatsapp.com</li>
+<li> 10:38 rhul-my.sharepoint.com</li>
+<li class='same'> 10:37 rhul-my.sharepoint.com</li>
+<li> 10:37 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:00 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 08:59 outlook.office365.com</li>
+<li> 08:58 login.microsoftonline.com</li>
+<li> 08:52 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Biography#Opening_paragraph">Wikipedia:Manual of Style/Biography - Wikipedia</a></li>
+<li> 08:52 <a href="https://en.wikipedia.org/wiki/MOS:FIRSTBIO">Wikipedia:Manual of Style/Biography - Wikipedia</a></li>
+<li> 08:51 <a href="https://en.wikipedia.org/wiki/Talk:Tommy_Robinson">Talk:Tommy Robinson - Wikipedia</a></li>
+<li> 08:51 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 08:51 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 08:51 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 08:51 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing#Information_Security">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
+<li> 08:51 outlook.office.com</li>
+<li class='same'> 08:50 outlook.office.com</li>
+</ul>
+
 <H3>Thursday, 31/10/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -18173,11 +18225,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:23 caselaw.findlaw.com</li>
 <li> 16:21 www.reddit.com</li>
-<li> 16:21 www.google.com</li>
 <li> 16:20 www.monderlaw.com</li>
 <li> 16:20 www.reddit.com</li>
-<li> 16:20 www.google.com</li>
-<li class='same'> 16:19 www.google.com</li>
+<li> 16:19 www.google.com</li>
 <li> 16:19 www.legislation.gov.uk</li>
 <li class='same'> 16:18 www.legislation.gov.uk</li>
 <li> 16:17 www.nintendolife.com</li>
