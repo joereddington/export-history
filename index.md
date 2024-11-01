@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8680)</li>
-<li>mail.google.com (5985)</li>
+<ol><li>www.google.com (8682)</li>
+<li>mail.google.com (5986)</li>
 <li>outlook.office.com (3559)</li>
 <li>www.facebook.com (2840)</li>
-<li>docs.google.com (1924)</li>
-<li>calendar.google.com (1449)</li>
+<li>docs.google.com (1925)</li>
+<li>calendar.google.com (1450)</li>
 <li>www.reddit.com (1407)</li>
 <li>moodle.royalholloway.ac.uk (1403)</li>
 <li>www.amazon.co.uk (1235)</li>
-<li>outlook.office365.com (1160)</li>
+<li>outlook.office365.com (1176)</li>
 <li>github.com (1019)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (819)</li>
-<li>gmail.com (726)</li>
-<li>www.linkedin.com (712)</li>
+<li>gmail.com (727)</li>
+<li>www.linkedin.com (714)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (633)</li>
-<li>login.microsoftonline.com (579)</li>
+<li>chat.openai.com (635)</li>
+<li>login.microsoftonline.com (582)</li>
 <li>app.qbo.intuit.com (569)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (470)</li>
@@ -94,9 +94,9 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (439)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (380)</li>
+<li>rhul-my.sharepoint.com (383)</li>
 <li>rhul.sharepoint.com (341)</li>
-<li>chatgpt.com (329)</li>
+<li>chatgpt.com (331)</li>
 <li>www.giantitp.com (323)</li>
 
 
@@ -108,7 +108,59 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:08 rhul.sharepoint.com</li>
+<ul><li> 16:10 chatgpt.com</li>
+<li> 16:10 chat.openai.com</li>
+<li> 16:07 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 16:07 outlook.office365.com</li>
+<li> 16:07 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:07 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:07 login.microsoftonline.com</li>
+<li> 16:06 calendar.google.com</li>
+<li> 16:06 outlook.office365.com</li>
+<li class='same'> 16:05 outlook.office365.com</li>
+<li> 16:04 cisse.info</li>
+<li> 16:04 outlook.office365.com</li>
+<li> 16:04 www.paypal.com</li>
+<li> 16:03 www.google.com</li>
+<li> 16:02 events.zoom.us</li>
+<li> 16:02 mail.google.com</li>
+<li> 16:02 gmail.com</li>
+<li> 16:02 us06web.zoom.us</li>
+<li> 16:02 zoom.us</li>
+<li> 16:02 outlook.office365.com</li>
+<li> 16:01 events.zoom.us</li>
+<li> 16:01 outlook.office365.com</li>
+<li class='same'> 16:00 outlook.office365.com</li>
+<li> 16:00 events.zoom.us</li>
+<li> 16:00 cisse.info</li>
+<li> 16:00 www.google.com</li>
+<li> 16:00 outlook.office365.com</li>
+<li> 15:52 rhul-my.sharepoint.com</li>
+<li class='same'> 15:47 rhul-my.sharepoint.com</li>
+<li> 15:43 outlook.office365.com</li>
+<li> 15:40 rhul-my.sharepoint.com</li>
+<li> 15:40 login.microsoftonline.com</li>
+<li> 15:40 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:40 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 15:40 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:38 experience.elluciancloud.ie</li>
+<li> 15:38 login.microsoftonline.com</li>
+<li> 15:38 experience.elluciancloud.ie</li>
+<li> 15:37 outlook.office365.com</li>
+<li class='same'> 15:36 outlook.office365.com</li>
+<li class='same'> 15:35 outlook.office365.com</li>
+<li> 15:35 www.linkedin.com</li>
+<li> 15:20 outlook.office365.com</li>
+<li> 15:19 docs.google.com</li>
+<li> 15:19 outlook.office365.com</li>
+<li> 15:16 projects.cs.rhul.ac.uk</li>
+<li class='same'> 15:15 projects.cs.rhul.ac.uk</li>
+<li> 15:14 chatgpt.com</li>
+<li> 15:14 chat.openai.com</li>
+<li> 15:13 www.linkedin.com</li>
+<li> 15:13 outlook.office365.com</li>
+<li class='same'> 15:12 outlook.office365.com</li>
+<li> 15:08 rhul.sharepoint.com</li>
 <li> 15:08 outlook.office.com</li>
 <li> 15:08 outlook.office365.com</li>
 <li class='same'> 15:07 outlook.office365.com</li>
