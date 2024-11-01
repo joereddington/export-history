@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8669)</li>
-<li>mail.google.com (5980)</li>
+<ol><li>www.google.com (8678)</li>
+<li>mail.google.com (5985)</li>
 <li>outlook.office.com (3558)</li>
-<li>www.facebook.com (2835)</li>
-<li>docs.google.com (1919)</li>
+<li>www.facebook.com (2838)</li>
+<li>docs.google.com (1924)</li>
 <li>calendar.google.com (1448)</li>
-<li>www.reddit.com (1405)</li>
+<li>www.reddit.com (1407)</li>
 <li>moodle.royalholloway.ac.uk (1403)</li>
 <li>www.amazon.co.uk (1235)</li>
-<li>outlook.office365.com (1139)</li>
-<li>github.com (1017)</li>
+<li>outlook.office365.com (1148)</li>
+<li>github.com (1018)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (818)</li>
-<li>gmail.com (724)</li>
-<li>www.linkedin.com (707)</li>
+<li>www.theguardian.com (819)</li>
+<li>gmail.com (726)</li>
+<li>www.linkedin.com (710)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (632)</li>
-<li>login.microsoftonline.com (573)</li>
+<li>chat.openai.com (633)</li>
+<li>login.microsoftonline.com (575)</li>
 <li>app.qbo.intuit.com (569)</li>
-<li>en.m.wikipedia.org (488)</li>
+<li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (470)</li>
-<li>drive.google.com (449)</li>
+<li>drive.google.com (451)</li>
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (439)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (376)</li>
+<li>rhul-my.sharepoint.com (377)</li>
 <li>rhul.sharepoint.com (339)</li>
-<li>chatgpt.com (327)</li>
+<li>chatgpt.com (329)</li>
 <li>www.giantitp.com (323)</li>
 
 
@@ -108,7 +108,76 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:09 online.unity.co.uk</li>
+<ul><li> 12:10 github.com</li>
+<li> 12:10 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:10 www.google.com</li>
+<li> 12:09 <a href="https://joereddington.com/2021/01/02/mynameis.html">Hello, my name is Joe! | Joe Reddington</a></li>
+<li> 12:09 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:09 www.google.com</li>
+<li> 12:09 docs.google.com</li>
+<li class='same'> 12:08 docs.google.com</li>
+<li class='same'> 12:07 docs.google.com</li>
+<li> 12:07 mail.google.com</li>
+<li> 12:07 accounts.google.com</li>
+<li> 12:07 mail.google.com</li>
+<li class='same'> 12:06 mail.google.com</li>
+<li> 12:06 accounts.google.com</li>
+<li> 12:06 mail.google.com</li>
+<li> 12:06 gmail.com</li>
+<li> 12:06 mail.google.com</li>
+<li> 12:06 gmail.com</li>
+<li> 12:06 docs.google.com</li>
+<li> 12:06 drive.google.com</li>
+<li> 12:06 docs.google.com</li>
+<li> 12:06 drive.google.com</li>
+<li> 12:05 outlook.office365.com</li>
+<li class='same'> 12:04 outlook.office365.com</li>
+<li> 12:03 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 12:03 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:03 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
+<li> 12:03 outlook.office365.com</li>
+<li class='same'> 12:02 outlook.office365.com</li>
+<li class='same'> 12:01 outlook.office365.com</li>
+<li> 12:00 <a href="https://en.wikipedia.org/wiki/2022_Optus_data_breach#:~:text=In%20September%202022%2C%20Australian%20telecommunications%20company%20Optus%20suffered,former%20customers%20comprising%20a%20third%20of%20Australia%27s%20population.)">2022 Optus data breach - Wikipedia</a></li>
+<li> 11:59 outlook.office365.com</li>
+<li> 11:59 www.facebook.com</li>
+<li class='same'> 11:58 www.facebook.com</li>
+<li class='same'> 11:53 www.facebook.com</li>
+<li> 11:53 outlook.office365.com</li>
+<li> 11:51 www.reddit.com</li>
+<li> 11:49 en.m.wikipedia.org</li>
+<li> 11:49 www.reddit.com</li>
+<li> 11:44 www.google.com</li>
+<li> 11:35 chatgpt.com</li>
+<li class='same'> 11:34 chatgpt.com</li>
+<li> 11:34 chat.openai.com</li>
+<li> 11:29 www.google.com</li>
+<li> 11:28 www.linkedin.com</li>
+<li class='same'> 11:27 www.linkedin.com</li>
+<li> 11:25 scholar.google.com</li>
+<li> 11:22 www.fcc.gov</li>
+<li> 11:20 docs.fcc.gov</li>
+<li> 11:20 www.fcc.gov</li>
+<li> 11:20 www.google.com</li>
+<li> 11:19 www.reuters.com</li>
+<li> 11:19 www.google.com</li>
+<li class='same'> 11:18 www.google.com</li>
+<li> 11:18 outlook.office365.com</li>
+<li> 11:18 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 11:18 www.google.com</li>
+<li> 11:16 forms.office.com</li>
+<li> 11:16 login.microsoftonline.com</li>
+<li> 11:15 rhul-my.sharepoint.com</li>
+<li> 11:15 forms.office.com</li>
+<li> 11:15 login.microsoftonline.com</li>
+<li> 11:15 forms.office.com</li>
+<li> 11:15 outlook.office365.com</li>
+<li> 11:12 www.linkedin.com</li>
+<li> 11:11 www.theguardian.com</li>
+<li> 11:11 edition.cnn.com</li>
+<li> 11:11 www.google.com</li>
+<li> 11:09 online.unity.co.uk</li>
 <li> 11:09 www.unity-online.co.uk</li>
 <li> 11:09 online.unity.co.uk</li>
 <li> 11:08 chatgpt.com</li>
