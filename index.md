@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8685)</li>
-<li>mail.google.com (5990)</li>
+<ol><li>www.google.com (8687)</li>
+<li>mail.google.com (6006)</li>
 <li>outlook.office.com (3559)</li>
 <li>www.facebook.com (2840)</li>
-<li>docs.google.com (1925)</li>
-<li>calendar.google.com (1451)</li>
+<li>docs.google.com (1926)</li>
+<li>calendar.google.com (1453)</li>
 <li>www.reddit.com (1407)</li>
-<li>moodle.royalholloway.ac.uk (1403)</li>
-<li>www.amazon.co.uk (1235)</li>
-<li>outlook.office365.com (1194)</li>
+<li>moodle.royalholloway.ac.uk (1405)</li>
+<li>www.amazon.co.uk (1237)</li>
+<li>outlook.office365.com (1201)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (820)</li>
-<li>gmail.com (728)</li>
-<li>www.linkedin.com (723)</li>
+<li>gmail.com (730)</li>
+<li>www.linkedin.com (725)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (637)</li>
-<li>login.microsoftonline.com (588)</li>
+<li>login.microsoftonline.com (589)</li>
 <li>app.qbo.intuit.com (569)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>web.whatsapp.com (472)</li>
+<li>web.whatsapp.com (474)</li>
 <li>drive.google.com (451)</li>
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (439)</li>
@@ -108,7 +108,59 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:07 projects.cs.rhul.ac.uk</li>
+<ul><li> 19:14 mail.google.com</li>
+<li> 19:13 web.whatsapp.com</li>
+<li> 19:13 online.unity.co.uk</li>
+<li class='same'> 19:12 online.unity.co.uk</li>
+<li class='same'> 19:11 online.unity.co.uk</li>
+<li class='same'> 19:10 online.unity.co.uk</li>
+<li> 19:10 www.unity-online.co.uk</li>
+<li> 19:10 online.unity.co.uk</li>
+<li> 19:10 mail.google.com</li>
+<li> 19:10 www.linkedin.com</li>
+<li> 19:10 mail.google.com</li>
+<li class='same'> 19:09 mail.google.com</li>
+<li class='same'> 19:08 mail.google.com</li>
+<li class='same'> 19:07 mail.google.com</li>
+<li class='same'> 19:06 mail.google.com</li>
+<li> 19:06 web.whatsapp.com</li>
+<li> 19:05 mail.google.com</li>
+<li> 19:05 herts.spydus.co.uk</li>
+<li> 19:05 mail.google.com</li>
+<li class='same'> 19:04 mail.google.com</li>
+<li> 19:04 postsign.docusign.com</li>
+<li> 19:04 mail.google.com</li>
+<li> 19:02 eu.docusign.net</li>
+<li> 19:02 mail.google.com</li>
+<li> 19:02 calendar.google.com</li>
+<li> 19:02 mail.google.com</li>
+<li> 19:01 eu.docusign.net</li>
+<li> 19:01 mail.google.com</li>
+<li> 18:59 www.amazon.co.uk</li>
+<li> 18:59 www.google.com</li>
+<li> 18:59 www.amazon.co.uk</li>
+<li> 18:58 www.google.com</li>
+<li> 18:58 docs.google.com</li>
+<li> 18:58 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 18:58 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 18:58 mail.google.com</li>
+<li> 18:58 gmail.com</li>
+<li> 18:58 mail.google.com</li>
+<li> 18:58 gmail.com</li>
+<li> 18:57 www.linkedin.com</li>
+<li> 18:57 outlook.office365.com</li>
+<li class='same'> 18:55 outlook.office365.com</li>
+<li> 18:55 moodle.royalholloway.ac.uk</li>
+<li> 18:55 projects.cs.rhul.ac.uk</li>
+<li> 18:50 calendar.google.com</li>
+<li> 18:49 outlook.office365.com</li>
+<li class='same'> 18:48 outlook.office365.com</li>
+<li class='same'> 18:47 outlook.office365.com</li>
+<li class='same'> 18:46 outlook.office365.com</li>
+<li class='same'> 18:38 outlook.office365.com</li>
+<li> 18:19 login.microsoftonline.com</li>
+<li> 18:17 moodle.royalholloway.ac.uk</li>
+<li> 18:07 projects.cs.rhul.ac.uk</li>
 <li> 18:07 outlook.office365.com</li>
 <li> 18:07 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 18:06 web.whatsapp.com</li>
