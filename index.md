@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8678)</li>
+<ol><li>www.google.com (8680)</li>
 <li>mail.google.com (5985)</li>
 <li>outlook.office.com (3558)</li>
-<li>www.facebook.com (2838)</li>
+<li>www.facebook.com (2840)</li>
 <li>docs.google.com (1924)</li>
-<li>calendar.google.com (1448)</li>
+<li>calendar.google.com (1449)</li>
 <li>www.reddit.com (1407)</li>
 <li>moodle.royalholloway.ac.uk (1403)</li>
 <li>www.amazon.co.uk (1235)</li>
-<li>outlook.office365.com (1148)</li>
-<li>github.com (1018)</li>
+<li>outlook.office365.com (1156)</li>
+<li>github.com (1019)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (819)</li>
 <li>gmail.com (726)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (633)</li>
-<li>login.microsoftonline.com (575)</li>
+<li>login.microsoftonline.com (578)</li>
 <li>app.qbo.intuit.com (569)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (470)</li>
@@ -94,8 +94,8 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (439)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (377)</li>
-<li>rhul.sharepoint.com (339)</li>
+<li>rhul-my.sharepoint.com (379)</li>
+<li>rhul.sharepoint.com (340)</li>
 <li>chatgpt.com (329)</li>
 <li>www.giantitp.com (323)</li>
 
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:10 github.com</li>
+<ul><li> 12:45 forms.office.com</li>
+<li> 12:45 discord.com</li>
+<li class='same'> 12:44 discord.com</li>
+<li> 12:44 outlook.office365.com</li>
+<li class='same'> 12:43 outlook.office365.com</li>
+<li> 12:41 calendar.google.com</li>
+<li> 12:41 outlook.office365.com</li>
+<li> 12:40 <a href="https://en.wikipedia.org/wiki/2022_Optus_data_breach#:~:text=In%20September%202022%2C%20Australian%20telecommunications%20company%20Optus%20suffered,former%20customers%20comprising%20a%20third%20of%20Australia%27s%20population.)">2022 Optus data breach - Wikipedia</a></li>
+<li> 12:39 rhul-my.sharepoint.com</li>
+<li> 12:39 login.microsoftonline.com</li>
+<li> 12:39 forms.office.com</li>
+<li class='same'> 12:38 forms.office.com</li>
+<li> 12:38 login.microsoftonline.com</li>
+<li> 12:38 forms.office.com</li>
+<li> 12:38 outlook.office365.com</li>
+<li> 12:37 rhul.sharepoint.com</li>
+<li> 12:37 login.microsoftonline.com</li>
+<li> 12:36 outlook.office365.com</li>
+<li> 12:32 ico.org.uk</li>
+<li> 12:32 www.gorvins.com</li>
+<li> 12:31 www.google.com</li>
+<li> 12:30 ico.org.uk</li>
+<li> 12:30 www.google.com</li>
+<li> 12:30 outlook.office365.com</li>
+<li class='same'> 12:29 outlook.office365.com</li>
+<li> 12:26 www.facebook.com</li>
+<li> 12:13 rhul-my.sharepoint.com</li>
+<li> 12:13 www.facebook.com</li>
+<li> 12:12 <a href="https://joereddington.com/2013/09/12/so-im-in-the-edition-of-new-scientist-that-came-out-today/">Joe Reddington | Things I make.</a></li>
+<li> 12:12 <a href="https://joereddington.com/media.html">Joe Reddington | Things I make.</a></li>
+<li> 12:11 outlook.office365.com</li>
+<li> 12:11 github.com</li>
+<li class='same'> 12:10 github.com</li>
 <li> 12:10 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:10 www.google.com</li>
 <li> 12:09 <a href="https://joereddington.com/2021/01/02/mynameis.html">Hello, my name is Joe! | Joe Reddington</a></li>
