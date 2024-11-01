@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8680)</li>
 <li>mail.google.com (5985)</li>
-<li>outlook.office.com (3558)</li>
+<li>outlook.office.com (3559)</li>
 <li>www.facebook.com (2840)</li>
 <li>docs.google.com (1924)</li>
 <li>calendar.google.com (1449)</li>
 <li>www.reddit.com (1407)</li>
 <li>moodle.royalholloway.ac.uk (1403)</li>
 <li>www.amazon.co.uk (1235)</li>
-<li>outlook.office365.com (1156)</li>
+<li>outlook.office365.com (1160)</li>
 <li>github.com (1019)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (819)</li>
 <li>gmail.com (726)</li>
-<li>www.linkedin.com (710)</li>
+<li>www.linkedin.com (712)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (633)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (439)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (380)</li>
-<li>rhul.sharepoint.com (340)</li>
+<li>rhul.sharepoint.com (341)</li>
 <li>chatgpt.com (329)</li>
 <li>www.giantitp.com (323)</li>
 
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 01/11/24</H3>
+
+<br>
+
+<ul><li> 15:08 rhul.sharepoint.com</li>
+<li> 15:08 outlook.office.com</li>
+<li> 15:08 outlook.office365.com</li>
+<li class='same'> 15:07 outlook.office365.com</li>
+<li> 15:07 www.linkedin.com</li>
+<li class='same'> 15:02 www.linkedin.com</li>
+<li> 15:02 outlook.office365.com</li>
+<li class='same'> 15:01 outlook.office365.com</li>
+</ul>
 
 <br>
 
