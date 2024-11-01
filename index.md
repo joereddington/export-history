@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8687)</li>
-<li>mail.google.com (6006)</li>
+<li>mail.google.com (6013)</li>
 <li>outlook.office.com (3559)</li>
 <li>www.facebook.com (2840)</li>
-<li>docs.google.com (1926)</li>
+<li>docs.google.com (1929)</li>
 <li>calendar.google.com (1453)</li>
 <li>www.reddit.com (1407)</li>
 <li>moodle.royalholloway.ac.uk (1405)</li>
@@ -81,8 +81,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (820)</li>
-<li>gmail.com (730)</li>
-<li>www.linkedin.com (725)</li>
+<li>gmail.com (732)</li>
+<li>www.linkedin.com (726)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (637)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:14 mail.google.com</li>
+<ul><li> 19:29 www.linkedin.com</li>
+<li> 19:28 mail.google.com</li>
+<li class='same'> 19:27 mail.google.com</li>
+<li> 19:27 gmail.com</li>
+<li> 19:27 mail.google.com</li>
+<li> 19:27 gmail.com</li>
+<li> 19:23 docs.google.com</li>
+<li class='same'> 19:21 docs.google.com</li>
+<li> 19:21 mail.google.com</li>
+<li> 19:21 docs.google.com</li>
+<li> 19:20 mail.google.com</li>
+<li class='same'> 19:19 mail.google.com</li>
+<li class='same'> 19:18 mail.google.com</li>
+<li> 19:18 online.unity.co.uk</li>
+<li> 19:14 mail.google.com</li>
 <li> 19:13 web.whatsapp.com</li>
 <li> 19:13 online.unity.co.uk</li>
 <li class='same'> 19:12 online.unity.co.uk</li>
