@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8687)</li>
+<ol><li>www.google.com (8690)</li>
 <li>mail.google.com (6013)</li>
-<li>outlook.office.com (3559)</li>
-<li>www.facebook.com (2840)</li>
+<li>outlook.office.com (3561)</li>
+<li>www.facebook.com (2841)</li>
 <li>docs.google.com (1929)</li>
-<li>calendar.google.com (1453)</li>
+<li>calendar.google.com (1456)</li>
 <li>www.reddit.com (1407)</li>
 <li>moodle.royalholloway.ac.uk (1405)</li>
 <li>www.amazon.co.uk (1237)</li>
-<li>outlook.office365.com (1201)</li>
+<li>outlook.office365.com (1202)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (820)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (637)</li>
-<li>login.microsoftonline.com (589)</li>
+<li>login.microsoftonline.com (590)</li>
 <li>app.qbo.intuit.com (569)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (475)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:48 marsh-farm.digitickets.co.uk</li>
+<ul><li> 12:54 calendar.google.com</li>
+<li> 12:53 outlook.office.com</li>
+<li> 12:53 outlook.office365.com</li>
+<li> 12:53 outlook.office.com</li>
+<li> 12:53 login.microsoftonline.com</li>
+<li> 12:53 mail.rhul.ac.uk</li>
+<li> 12:53 calendar.google.com</li>
+<li class='same'> 12:52 calendar.google.com</li>
+<li> 12:52 www.google.com</li>
+<li class='same'> 12:51 www.google.com</li>
+<li> 12:51 maps.google.com</li>
+<li> 12:51 www.google.com</li>
+<li> 12:50 www.facebook.com</li>
+<li> 12:50 x.com</li>
+<li> 12:50 twitter.com</li>
+<li> 12:50 x.com</li>
+<li> 12:50 twitter.com</li>
+<li> 12:50 www.instagram.com</li>
+<li> 12:48 marsh-farm.digitickets.co.uk</li>
 <li> 12:42 www.google.com</li>
 <li> 12:42 marsh-farm.digitickets.co.uk</li>
 <li class='same'> 12:41 marsh-farm.digitickets.co.uk</li>
