@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8691)</li>
+<ol><li>www.google.com (8694)</li>
 <li>mail.google.com (6013)</li>
 <li>outlook.office.com (3561)</li>
-<li>www.facebook.com (2841)</li>
+<li>www.facebook.com (2842)</li>
 <li>docs.google.com (1930)</li>
 <li>calendar.google.com (1456)</li>
 <li>www.reddit.com (1407)</li>
 <li>moodle.royalholloway.ac.uk (1405)</li>
-<li>www.amazon.co.uk (1239)</li>
+<li>www.amazon.co.uk (1244)</li>
 <li>outlook.office365.com (1202)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:49 www.amazon.co.uk</li>
+<ul><li> 16:57 www.amazon.co.uk</li>
+<li class='same'> 16:56 www.amazon.co.uk</li>
+<li> 16:56 www.google.com</li>
+<li> 16:54 www.amazon.co.uk</li>
+<li> 16:53 www.google.com</li>
+<li> 16:53 www.amazon.co.uk</li>
+<li class='same'> 16:52 www.amazon.co.uk</li>
+<li> 16:51 www.facebook.com</li>
+<li> 16:49 <a href="https://en.wikipedia.org/wiki/List_of_Game_of_the_Year_awards">List of Game of the Year awards - Wikipedia</a></li>
+<li> 16:49 www.google.com</li>
+<li> 16:49 www.amazon.co.uk</li>
 <li class='same'> 16:48 www.amazon.co.uk</li>
 <li> 16:46 docs.google.com</li>
 </ul>
