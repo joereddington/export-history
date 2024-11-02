@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (388)</li>
 <li>rhul.sharepoint.com (342)</li>
-<li>chatgpt.com (335)</li>
+<li>chatgpt.com (336)</li>
 <li>www.giantitp.com (323)</li>
 
 
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:12 0.0.0.0:8000</li>
+<ul><li> 12:29 0.0.0.0:8000</li>
+<li class='same'> 12:24 0.0.0.0:8000</li>
+<li> 12:15 chatgpt.com</li>
+<li> 12:12 0.0.0.0:8000</li>
 </ul>
 
 <H3>Friday, 01/11/24</H3>
