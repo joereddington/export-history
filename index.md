@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8721)</li>
-<li>mail.google.com (6021)</li>
+<ol><li>www.google.com (8724)</li>
+<li>mail.google.com (6023)</li>
 <li>outlook.office.com (3565)</li>
-<li>www.facebook.com (2848)</li>
+<li>www.facebook.com (2849)</li>
 <li>docs.google.com (1930)</li>
 <li>calendar.google.com (1459)</li>
 <li>www.reddit.com (1418)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (827)</li>
 <li>www.linkedin.com (736)</li>
-<li>gmail.com (735)</li>
+<li>gmail.com (736)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (638)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (569)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (475)</li>
-<li>drive.google.com (451)</li>
+<li>drive.google.com (452)</li>
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (439)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:05 www.reddit.com</li>
+<ul><li> 07:44 www.facebook.com</li>
+<li> 07:44 www.google.com</li>
+<li> 07:38 mail.google.com</li>
+<li class='same'> 07:37 mail.google.com</li>
+<li> 07:37 gmail.com</li>
+<li> 07:34 support.apple.com</li>
+<li> 07:34 www.google.com</li>
+<li class='same'> 07:24 www.google.com</li>
+<li> 07:15 <a href="https://joereddington.com/Comics/2024-08-07.html">2024-08-07 | Joe’s Comics</a></li>
+<li> 07:15 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 07:14 drive.google.com</li>
+<li> 07:05 www.reddit.com</li>
 <li class='same'> 07:03 www.reddit.com</li>
 <li> 07:03 mail.google.com</li>
 <li class='same'> 07:01 mail.google.com</li>
