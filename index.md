@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8739)</li>
-<li>mail.google.com (6051)</li>
-<li>outlook.office.com (3582)</li>
+<ol><li>www.google.com (8742)</li>
+<li>mail.google.com (6053)</li>
+<li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2852)</li>
 <li>docs.google.com (1931)</li>
-<li>calendar.google.com (1464)</li>
+<li>calendar.google.com (1467)</li>
 <li>www.reddit.com (1418)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
 <li>www.amazon.co.uk (1243)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (639)</li>
 <li>login.microsoftonline.com (594)</li>
-<li>app.qbo.intuit.com (570)</li>
+<li>app.qbo.intuit.com (571)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (478)</li>
 <li>drive.google.com (452)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:58 mail.google.com</li>
+<ul><li> 16:06 blog.duolingo.com</li>
+<li> 16:06 www.google.com</li>
+<li> 16:06 community.spotify.com</li>
+<li> 16:06 www.google.com</li>
+<li> 16:05 mail.google.com</li>
+<li> 16:04 calendar.google.com</li>
+<li> 16:03 mail.google.com</li>
+<li> 16:02 outlook.office.com</li>
+<li> 16:02 calendar.google.com</li>
+<li> 16:02 accounts.intuit.com</li>
+<li> 16:02 calendar.google.com</li>
+<li> 16:01 qbo.intuit.com</li>
+<li> 16:01 app.qbo.intuit.com</li>
+<li> 16:01 accounts.intuit.com</li>
+<li> 16:01 c14.qbo.intuit.com</li>
+<li> 15:58 www.google.com</li>
+<li> 15:58 forms.office.com</li>
+<li> 15:58 mail.google.com</li>
 <li> 15:57 web.whatsapp.com</li>
 <li> 15:57 docs.google.com</li>
 <li> 15:56 kdp.amazon.com</li>
