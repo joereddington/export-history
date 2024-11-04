@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8718)</li>
-<li>mail.google.com (6013)</li>
+<ol><li>www.google.com (8721)</li>
+<li>mail.google.com (6021)</li>
 <li>outlook.office.com (3565)</li>
-<li>www.facebook.com (2842)</li>
+<li>www.facebook.com (2848)</li>
 <li>docs.google.com (1930)</li>
 <li>calendar.google.com (1459)</li>
-<li>www.reddit.com (1411)</li>
+<li>www.reddit.com (1418)</li>
 <li>moodle.royalholloway.ac.uk (1405)</li>
 <li>www.amazon.co.uk (1243)</li>
-<li>outlook.office365.com (1203)</li>
+<li>outlook.office365.com (1204)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (827)</li>
-<li>gmail.com (732)</li>
-<li>www.linkedin.com (729)</li>
+<li>www.linkedin.com (736)</li>
+<li>gmail.com (735)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (637)</li>
+<li>chat.openai.com (638)</li>
 <li>login.microsoftonline.com (590)</li>
 <li>app.qbo.intuit.com (569)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (388)</li>
 <li>rhul.sharepoint.com (342)</li>
-<li>chatgpt.com (336)</li>
+<li>chatgpt.com (337)</li>
 <li>www.giantitp.com (323)</li>
 
 
@@ -104,7 +104,64 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 04/11/24</H3>
+
+<br>
+
+<ul><li> 07:05 www.reddit.com</li>
+<li class='same'> 07:03 www.reddit.com</li>
+<li> 07:03 mail.google.com</li>
+<li class='same'> 07:01 mail.google.com</li>
+<li> 07:01 gmail.com</li>
+<li> 06:55 apple.stackexchange.com</li>
+<li> 06:55 www.google.com</li>
+<li> 06:49 chatgpt.com</li>
+<li> 06:49 chat.openai.com</li>
+<li> 06:47 www.facebook.com</li>
+<li> 06:47 harrypotter.fandom.com</li>
+<li class='same'> 06:45 harrypotter.fandom.com</li>
+<li class='same'> 06:44 harrypotter.fandom.com</li>
+<li class='same'> 06:43 harrypotter.fandom.com</li>
+<li> 06:43 www.google.com</li>
+<li> 06:41 www.facebook.com</li>
+<li> 06:41 www.mozilla.org</li>
+<li> 06:41 www.facebook.com</li>
+<li> 06:35 <a href="https://en.wikipedia.org/wiki/Kate_O%27Mara">Kate O'Mara - Wikipedia</a></li>
+<li> 06:30 <a href="https://en.wikipedia.org/wiki/Lois_Maxwell">Lois Maxwell - Wikipedia</a></li>
+<li> 06:29 <a href="https://en.wikipedia.org/wiki/You_Only_Live_Twice_(film)">You Only Live Twice (film) - Wikipedia</a></li>
+<li> 06:29 www.google.com</li>
+<li> 06:29 www.facebook.com</li>
+<li> 06:29 mail.google.com</li>
+<li> 06:27 www.linkedin.com</li>
+<li class='same'> 06:26 www.linkedin.com</li>
+<li class='same'> 06:25 www.linkedin.com</li>
+<li class='same'> 06:24 www.linkedin.com</li>
+<li> 06:24 www.paypal.com</li>
+<li> 06:24 www.linkedin.com</li>
+<li class='same'> 06:23 www.linkedin.com</li>
+<li> 06:22 mail.google.com</li>
+<li> 06:22 www.linkedin.com</li>
+<li> 06:21 www.facebook.com</li>
+<li class='same'> 06:20 www.facebook.com</li>
+<li> 06:20 mail.google.com</li>
+<li class='same'> 06:19 mail.google.com</li>
+<li> 06:19 gmail.com</li>
+<li> 06:16 www.reddit.com</li>
+<li class='same'> 06:15 www.reddit.com</li>
+<li class='same'> 06:14 www.reddit.com</li>
+<li class='same'> 06:13 www.reddit.com</li>
+<li class='same'> 06:12 www.reddit.com</li>
+<li> 06:12 mail.google.com</li>
+<li> 06:12 gmail.com</li>
+<li> 06:12 mail.google.com</li>
+<li> 06:11 outlook.office365.com</li>
+</ul>
+
 <H3>Sunday, 03/11/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
