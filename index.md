@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8733)</li>
-<li>mail.google.com (6044)</li>
+<ol><li>www.google.com (8738)</li>
+<li>mail.google.com (6047)</li>
 <li>outlook.office.com (3580)</li>
 <li>www.facebook.com (2850)</li>
 <li>docs.google.com (1930)</li>
 <li>calendar.google.com (1464)</li>
 <li>www.reddit.com (1418)</li>
-<li>moodle.royalholloway.ac.uk (1407)</li>
+<li>moodle.royalholloway.ac.uk (1410)</li>
 <li>www.amazon.co.uk (1243)</li>
-<li>outlook.office365.com (1208)</li>
+<li>outlook.office365.com (1217)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (828)</li>
 <li>gmail.com (741)</li>
-<li>www.linkedin.com (739)</li>
+<li>www.linkedin.com (740)</li>
 <li>whitewaterwriters.com (667)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (639)</li>
-<li>login.microsoftonline.com (592)</li>
+<li>login.microsoftonline.com (594)</li>
 <li>app.qbo.intuit.com (570)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>web.whatsapp.com (476)</li>
+<li>web.whatsapp.com (477)</li>
 <li>drive.google.com (452)</li>
-<li>teams.microsoft.com (442)</li>
+<li>teams.microsoft.com (444)</li>
 <li>kdp.amazon.com (439)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (394)</li>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:53 mail-attachment.googleusercontent.com</li>
+<ul><li> 12:59 <a href="https://en.wikipedia.org/w/index.php?title=Outline_of_computer_security&curid=44249235&diff=1252923263&oldid=1252793705">Outline of computer security: Difference between revisions - Wikipedia</a></li>
+<li> 12:58 <a href="https://en.wikipedia.org/w/index.php?title=The_Lego_Movie_2:_The_Second_Part&curid=42026670&diff=1255307187&oldid=1255104745">The Lego Movie 2: The Second Part: Difference between revisions - Wikipedia</a></li>
+<li> 12:56 <a href="https://en.wikipedia.org/w/index.php?title=Margaret_Mitchell_(scientist)&curid=66831679&diff=1254931434&oldid=1236626293">Margaret Mitchell (scientist): Difference between revisions - Wikipedia</a></li>
+<li> 12:56 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:53 teams.microsoft.com</li>
+<li> 12:47 outlook.office365.com</li>
+<li> 12:47 www.su.rhul.ac.uk</li>
+<li> 12:46 intranet.royalholloway.ac.uk</li>
+<li> 12:46 www.google.com</li>
+<li> 12:46 mail.google.com</li>
+<li> 12:45 royalholloway.akarisoftware.com</li>
+<li class='same'> 12:44 royalholloway.akarisoftware.com</li>
+<li> 12:44 login.microsoftonline.com</li>
+<li> 12:44 royalholloway.akarisoftware.com</li>
+<li> 12:44 outlook.office365.com</li>
+<li> 12:41 dashboards.rhul.ac.uk</li>
+<li> 12:38 moodle.royalholloway.ac.uk</li>
+<li> 12:38 projects.cs.rhul.ac.uk</li>
+<li> 12:38 outlook.office365.com</li>
+<li class='same'> 12:27 outlook.office365.com</li>
+<li> 12:26 www.google.com</li>
+<li> 12:24 scholar.google.com</li>
+<li> 12:24 www.google.com</li>
+<li> 12:24 scholar.google.com</li>
+<li> 12:23 www.twingate.com</li>
+<li> 12:22 www.google.com</li>
+<li> 12:22 outlook.office365.com</li>
+<li> 12:18 web.whatsapp.com</li>
+<li> 12:17 www.hayesconnor.co.uk</li>
+<li> 12:17 www.google.com</li>
+<li> 12:17 www.infosecurity-magazine.com</li>
+<li> 12:17 outlook.office365.com</li>
+<li> 12:06 mail.google.com</li>
+<li> 12:05 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:04 moodle.royalholloway.ac.uk</li>
+<li> 12:04 login.microsoftonline.com</li>
+<li> 12:04 outlook.office365.com</li>
+<li> 12:01 teams.microsoft.com</li>
+<li> 12:01 mail.google.com</li>
+<li> 11:53 mail-attachment.googleusercontent.com</li>
 <li> 11:52 mail.google.com</li>
 <li> 11:52 outlook.office.com</li>
 <li> 11:47 whitewaterwriters.com</li>
@@ -127,6 +170,12 @@ With number of accesses/minutes in parentheses
 <li> 11:41 gmail.com</li>
 <li> 11:41 mail.google.com</li>
 <li> 11:41 gmail.com</li>
+<li> 11:38 www.linkedin.com</li>
+<li> 11:38 outlook.office365.com</li>
+<li class='same'> 11:37 outlook.office365.com</li>
+<li> 11:37 discord.com</li>
+<li class='same'> 11:36 discord.com</li>
+<li class='same'> 11:35 discord.com</li>
 <li> 11:31 www.linkedin.com</li>
 <li class='same'> 11:30 www.linkedin.com</li>
 <li> 11:30 www.google.com</li>
@@ -833,7 +882,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:38 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing#Information_Security-DoesNotExist-DiscussionToolsHack">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
 <li> 15:38 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing#Information_Security">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
-<li> 15:36 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Starting new topic on Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
+<li> 15:36 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
 <li> 15:36 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computing">Wikipedia:WikiProject Computing - Wikipedia</a></li>
 <li> 15:35 www.google.com</li>
 <li> 15:35 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
