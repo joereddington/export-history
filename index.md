@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8738)</li>
+<ol><li>www.google.com (8739)</li>
 <li>mail.google.com (6047)</li>
 <li>outlook.office.com (3580)</li>
 <li>www.facebook.com (2850)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1418)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
 <li>www.amazon.co.uk (1243)</li>
-<li>outlook.office365.com (1217)</li>
+<li>outlook.office365.com (1221)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (828)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:59 <a href="https://en.wikipedia.org/w/index.php?title=Outline_of_computer_security&curid=44249235&diff=1252923263&oldid=1252793705">Outline of computer security: Difference between revisions - Wikipedia</a></li>
+<ul><li> 13:37 www.google.com</li>
+<li> 13:30 outlook.office365.com</li>
+<li class='same'> 13:28 outlook.office365.com</li>
+<li class='same'> 13:20 outlook.office365.com</li>
+<li class='same'> 13:17 outlook.office365.com</li>
+<li> 12:59 <a href="https://en.wikipedia.org/w/index.php?title=Outline_of_computer_security&curid=44249235&diff=1252923263&oldid=1252793705">Outline of computer security: Difference between revisions - Wikipedia</a></li>
 <li> 12:58 <a href="https://en.wikipedia.org/w/index.php?title=The_Lego_Movie_2:_The_Second_Part&curid=42026670&diff=1255307187&oldid=1255104745">The Lego Movie 2: The Second Part: Difference between revisions - Wikipedia</a></li>
 <li> 12:56 <a href="https://en.wikipedia.org/w/index.php?title=Margaret_Mitchell_(scientist)&curid=66831679&diff=1254931434&oldid=1236626293">Margaret Mitchell (scientist): Difference between revisions - Wikipedia</a></li>
 <li> 12:56 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
