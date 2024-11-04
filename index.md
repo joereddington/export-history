@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8746)</li>
+<ol><li>www.google.com (8749)</li>
 <li>mail.google.com (6057)</li>
 <li>outlook.office.com (3583)</li>
-<li>www.facebook.com (2852)</li>
-<li>docs.google.com (1934)</li>
+<li>www.facebook.com (2853)</li>
+<li>docs.google.com (1935)</li>
 <li>calendar.google.com (1470)</li>
 <li>www.reddit.com (1418)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:37 Local file</li>
+<ul><li> 16:48 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
+<li> 16:48 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:48 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 16:47 docs.google.com</li>
+<li> 16:47 www.google.com</li>
+<li> 16:46 docs.arduino.cc</li>
+<li> 16:46 www.arduino.cc</li>
+<li> 16:46 docs.arduino.cc</li>
+<li> 16:46 www.google.com</li>
+<li class='same'> 16:45 www.google.com</li>
+<li> 16:45 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:44 www.facebook.com</li>
+<li> 16:37 Local file</li>
 <li> 16:37 c14.qbo.intuit.com</li>
 <li> 16:36 qbo.intuit.com</li>
 <li> 16:36 <a href="https://en.wikipedia.org/wiki/Wikipedia:Peer_review/Jenna_Ortega/archive1">Wikipedia:Peer review/Jenna Ortega/archive1 - Wikipedia</a></li>
