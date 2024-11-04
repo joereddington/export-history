@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1470)</li>
 <li>www.reddit.com (1418)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
-<li>www.amazon.co.uk (1243)</li>
+<li>www.amazon.co.uk (1244)</li>
 <li>outlook.office365.com (1223)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:48 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
+<ul><li> 16:55 www.amazon.co.uk</li>
+<li> 16:48 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
 <li> 16:48 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:48 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:47 docs.google.com</li>
