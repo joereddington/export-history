@@ -73,10 +73,10 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3565)</li>
 <li>www.facebook.com (2842)</li>
 <li>docs.google.com (1930)</li>
-<li>calendar.google.com (1458)</li>
+<li>calendar.google.com (1459)</li>
 <li>www.reddit.com (1411)</li>
 <li>moodle.royalholloway.ac.uk (1405)</li>
-<li>www.amazon.co.uk (1244)</li>
+<li>www.amazon.co.uk (1243)</li>
 <li>outlook.office365.com (1203)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
@@ -222,6 +222,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 08:28 www.natesilver.net</li>
 <li> 08:28 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:19 calendar.google.com</li>
 </ul>
 
 <H3>Friday, 01/11/24</H3>
@@ -18056,8 +18061,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:04 mail.google.com</li>
 <li class='same'> 17:03 mail.google.com</li>
 <li> 17:03 web.whatsapp.com</li>
-<li> 17:03 www.amazon.co.uk</li>
-<li class='same'> 17:02 www.amazon.co.uk</li>
+<li> 17:02 www.amazon.co.uk</li>
 <li> 17:02 mail.google.com</li>
 <li class='same'> 17:01 mail.google.com</li>
 <li class='same'> 17:00 mail.google.com</li>
