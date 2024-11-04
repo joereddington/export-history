@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8730)</li>
-<li>mail.google.com (6041)</li>
-<li>outlook.office.com (3576)</li>
+<ol><li>www.google.com (8733)</li>
+<li>mail.google.com (6043)</li>
+<li>outlook.office.com (3579)</li>
 <li>www.facebook.com (2850)</li>
 <li>docs.google.com (1930)</li>
 <li>calendar.google.com (1464)</li>
@@ -81,17 +81,17 @@ With number of accesses/minutes in parentheses
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (828)</li>
-<li>gmail.com (739)</li>
-<li>www.linkedin.com (737)</li>
+<li>gmail.com (741)</li>
+<li>www.linkedin.com (739)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (639)</li>
-<li>login.microsoftonline.com (591)</li>
+<li>login.microsoftonline.com (592)</li>
 <li>app.qbo.intuit.com (570)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (476)</li>
 <li>drive.google.com (452)</li>
-<li>teams.microsoft.com (441)</li>
+<li>teams.microsoft.com (442)</li>
 <li>kdp.amazon.com (439)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (394)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:22 discord.com</li>
+<ul><li> 11:45 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 11:44 outlook.office.com</li>
+<li class='same'> 11:43 outlook.office.com</li>
+<li> 11:43 royalholloway.akarisoftware.com</li>
+<li class='same'> 11:42 royalholloway.akarisoftware.com</li>
+<li> 11:42 eur03.safelinks.protection.outlook.com</li>
+<li> 11:42 royalholloway.akarisoftware.com</li>
+<li> 11:42 login.microsoftonline.com</li>
+<li> 11:41 royalholloway.akarisoftware.com</li>
+<li> 11:41 eur03.safelinks.protection.outlook.com</li>
+<li> 11:41 outlook.office.com</li>
+<li> 11:41 mail.google.com</li>
+<li> 11:41 gmail.com</li>
+<li> 11:41 mail.google.com</li>
+<li> 11:41 gmail.com</li>
+<li> 11:31 www.linkedin.com</li>
+<li class='same'> 11:30 www.linkedin.com</li>
+<li> 11:30 www.google.com</li>
+<li> 11:30 fullymerched.com</li>
+<li> 11:30 www.google.com</li>
+<li> 11:24 teams.microsoft.com</li>
+<li> 11:24 www.su.rhul.ac.uk</li>
+<li> 11:24 www.google.com</li>
+<li> 11:22 discord.com</li>
 <li> 11:21 outlook.office365.com</li>
 <li class='same'> 11:20 outlook.office365.com</li>
 <li> 11:20 mail.google.com</li>
