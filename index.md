@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8742)</li>
-<li>mail.google.com (6053)</li>
+<ol><li>www.google.com (8744)</li>
+<li>mail.google.com (6055)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2852)</li>
-<li>docs.google.com (1931)</li>
-<li>calendar.google.com (1467)</li>
+<li>docs.google.com (1932)</li>
+<li>calendar.google.com (1469)</li>
 <li>www.reddit.com (1418)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
 <li>www.amazon.co.uk (1243)</li>
@@ -86,15 +86,15 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (667)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (639)</li>
-<li>login.microsoftonline.com (594)</li>
+<li>login.microsoftonline.com (595)</li>
 <li>app.qbo.intuit.com (571)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (478)</li>
-<li>drive.google.com (452)</li>
+<li>drive.google.com (453)</li>
 <li>teams.microsoft.com (444)</li>
 <li>kdp.amazon.com (441)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (394)</li>
+<li>rhul-my.sharepoint.com (396)</li>
 <li>rhul.sharepoint.com (342)</li>
 <li>chatgpt.com (339)</li>
 <li>www.giantitp.com (323)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:06 blog.duolingo.com</li>
+<ul><li> 16:16 docs.google.com</li>
+<li> 16:16 drive.google.com</li>
+<li> 16:16 rhul-my.sharepoint.com</li>
+<li> 16:16 login.microsoftonline.com</li>
+<li> 16:16 rhul-my.sharepoint.com</li>
+<li> 16:15 mail.google.com</li>
+<li class='same'> 16:14 mail.google.com</li>
+<li> 16:13 www.google.com</li>
+<li> 16:13 www.nhs.uk</li>
+<li> 16:13 www.google.com</li>
+<li> 16:12 calendar.google.com</li>
+<li class='same'> 16:11 calendar.google.com</li>
+<li> 16:07 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 16:06 www.sharesub.com</li>
+<li> 16:06 blog.duolingo.com</li>
 <li> 16:06 www.google.com</li>
 <li> 16:06 community.spotify.com</li>
 <li> 16:06 www.google.com</li>
