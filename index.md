@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8727)</li>
-<li>mail.google.com (6023)</li>
+<ol><li>www.google.com (8728)</li>
+<li>mail.google.com (6028)</li>
 <li>outlook.office.com (3572)</li>
 <li>www.facebook.com (2850)</li>
 <li>docs.google.com (1930)</li>
@@ -77,12 +77,12 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1418)</li>
 <li>moodle.royalholloway.ac.uk (1407)</li>
 <li>www.amazon.co.uk (1243)</li>
-<li>outlook.office365.com (1204)</li>
+<li>outlook.office365.com (1205)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (828)</li>
-<li>www.linkedin.com (736)</li>
-<li>gmail.com (736)</li>
+<li>www.linkedin.com (737)</li>
+<li>gmail.com (737)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (638)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (441)</li>
 <li>kdp.amazon.com (439)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (388)</li>
+<li>rhul-my.sharepoint.com (393)</li>
 <li>rhul.sharepoint.com (342)</li>
 <li>chatgpt.com (337)</li>
 <li>www.giantitp.com (323)</li>
@@ -108,12 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:28 moodle.royalholloway.ac.uk</li>
+<ul><li> 09:37 rhul-my.sharepoint.com</li>
+<li class='same'> 09:36 rhul-my.sharepoint.com</li>
+<li> 09:33 mail.google.com</li>
+<li> 09:32 www.linkedin.com</li>
+<li> 09:32 mail.google.com</li>
+<li class='same'> 09:31 mail.google.com</li>
+<li> 09:31 gmail.com</li>
+<li> 09:28 moodle.royalholloway.ac.uk</li>
 <li> 09:28 login.microsoftonline.com</li>
 <li> 09:28 moodle.royalholloway.ac.uk</li>
 <li> 09:27 outlook.office.com</li>
 <li class='same'> 09:26 outlook.office.com</li>
-<li class='same'> 09:25 outlook.office.com</li>
+<li> 09:25 rhul-my.sharepoint.com</li>
+<li> 09:25 www.google.com</li>
+<li> 09:25 outlook.office.com</li>
+<li> 09:21 rhul-my.sharepoint.com</li>
+<li class='same'> 09:20 rhul-my.sharepoint.com</li>
 <li> 09:19 www.facebook.com</li>
 <li> 09:19 www.oecd.org</li>
 <li class='same'> 09:18 www.oecd.org</li>
@@ -139,7 +150,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:44 www.facebook.com</li>
+<ul><li> 08:16 outlook.office365.com</li>
+<li> 08:16 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:46 mail.google.com</li>
+<li> 07:44 www.facebook.com</li>
 <li> 07:44 www.google.com</li>
 <li> 07:38 mail.google.com</li>
 <li class='same'> 07:37 mail.google.com</li>
