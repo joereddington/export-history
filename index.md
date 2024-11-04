@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8744)</li>
-<li>mail.google.com (6055)</li>
+<ol><li>www.google.com (8746)</li>
+<li>mail.google.com (6057)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2852)</li>
-<li>docs.google.com (1932)</li>
-<li>calendar.google.com (1469)</li>
+<li>docs.google.com (1934)</li>
+<li>calendar.google.com (1470)</li>
 <li>www.reddit.com (1418)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
 <li>www.amazon.co.uk (1243)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (830)</li>
 <li>www.linkedin.com (742)</li>
-<li>gmail.com (741)</li>
+<li>gmail.com (742)</li>
 <li>whitewaterwriters.com (667)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (639)</li>
@@ -91,8 +91,8 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (478)</li>
 <li>drive.google.com (453)</li>
+<li>kdp.amazon.com (444)</li>
 <li>teams.microsoft.com (444)</li>
-<li>kdp.amazon.com (441)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (396)</li>
 <li>rhul.sharepoint.com (342)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:16 docs.google.com</li>
+<ul><li> 16:28 <a href="https://en.wikipedia.org/wiki/Wikipedia:Peer_review"></a></li>
+<li> 16:28 <a href="https://en.wikipedia.org/wiki/Peer_review">Peer review - Wikipedia</a></li>
+<li> 16:28 www.google.com</li>
+<li> 16:28 kdp.amazon.com</li>
+<li> 16:27 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:26 cc.amazon.com</li>
+<li> 16:26 kdp.amazon.com</li>
+<li class='same'> 16:25 kdp.amazon.com</li>
+<li> 16:24 mail.google.com</li>
+<li class='same'> 16:23 mail.google.com</li>
+<li> 16:23 gmail.com</li>
+<li> 16:23 www.google.com</li>
+<li> 16:21 calendar.google.com</li>
+<li> 16:18 docs.google.com</li>
+<li class='same'> 16:17 docs.google.com</li>
+<li class='same'> 16:16 docs.google.com</li>
 <li> 16:16 drive.google.com</li>
 <li> 16:16 rhul-my.sharepoint.com</li>
 <li> 16:16 login.microsoftonline.com</li>
