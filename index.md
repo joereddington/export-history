@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8750)</li>
-<li>mail.google.com (6061)</li>
+<ol><li>www.google.com (8752)</li>
+<li>mail.google.com (6062)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2853)</li>
 <li>docs.google.com (1935)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (478)</li>
 <li>drive.google.com (453)</li>
-<li>kdp.amazon.com (446)</li>
+<li>kdp.amazon.com (447)</li>
 <li>teams.microsoft.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (396)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:37 qbo.intuit.com</li>
+<ul><li> 18:01 theonion.com</li>
+<li> 17:37 accounts.intuit.com</li>
+<li> 17:37 qbo.intuit.com</li>
+<li> 17:37 accounts.intuit.com</li>
 <li> 17:17 www.computerweekly.com</li>
 <li> 17:16 www.google.com</li>
 <li> 17:14 mail.google.com</li>
@@ -392,11 +395,13 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:16 outlook.office365.com</li>
 <li> 08:16 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 07:46 mail.google.com</li>
+<li> 08:10 theonion.com</li>
+<li> 08:08 newsthump.com</li>
+<li> 08:05 reductress.com</li>
+<li> 08:05 www.google.com</li>
+<li class='same'> 07:56 www.google.com</li>
+<li> 07:56 www.natesilver.net</li>
+<li> 07:46 mail.google.com</li>
 <li> 07:44 www.facebook.com</li>
 <li> 07:44 www.google.com</li>
 <li> 07:38 mail.google.com</li>
@@ -465,7 +470,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:49 www.google.com</li>
+<ul><li> 11:49 www.natesilver.net</li>
+<li> 11:49 www.google.com</li>
 <li> 11:31 www.nytimes.com</li>
 <li> 11:30 www.reddit.com</li>
 <li> 11:30 www.google.com</li>
@@ -77892,6 +77898,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:48 equalitytime.co.uk</li>
 <li> 07:45 www.qiq.support</li>
 <li> 07:42 mail.google.com</li>
+<li> 07:40 admin.google.com</li>
 <li> 07:40 workspace.google.com</li>
 <li> 07:40 www.google.com</li>
 <li> 07:11 www.cineworld.co.uk</li>
@@ -78332,7 +78339,8 @@ With number of accesses/minutes in parentheses
 <li> 15:51 kdp.amazon.com</li>
 <li class='same'> 15:50 kdp.amazon.com</li>
 <li> 15:48 forum.artofmemory.com</li>
-<li> 15:44 kdp.amazon.com</li>
+<li> 15:47 kdp.amazon.com</li>
+<li class='same'> 15:44 kdp.amazon.com</li>
 <li> 15:39 www.amazon.co.uk</li>
 <li> 15:39 www.google.com</li>
 <li> 15:39 kdp.amazon.com</li>
@@ -79078,7 +79086,8 @@ With number of accesses/minutes in parentheses
 <li> 20:09 www.dropbox.com</li>
 <li class='same'> 20:08 www.dropbox.com</li>
 <li class='same'> 19:48 www.dropbox.com</li>
-<li class='same'> 19:42 www.dropbox.com</li>
+<li> 19:46 mail.google.com</li>
+<li> 19:42 www.dropbox.com</li>
 <li class='same'> 19:32 www.dropbox.com</li>
 <li class='same'> 19:31 www.dropbox.com</li>
 <li> 19:30 mail.google.com</li>
