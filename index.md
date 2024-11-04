@@ -70,12 +70,12 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8727)</li>
 <li>mail.google.com (6023)</li>
-<li>outlook.office.com (3569)</li>
+<li>outlook.office.com (3572)</li>
 <li>www.facebook.com (2850)</li>
 <li>docs.google.com (1930)</li>
 <li>calendar.google.com (1464)</li>
 <li>www.reddit.com (1418)</li>
-<li>moodle.royalholloway.ac.uk (1405)</li>
+<li>moodle.royalholloway.ac.uk (1407)</li>
 <li>www.amazon.co.uk (1243)</li>
 <li>outlook.office365.com (1204)</li>
 <li>github.com (1022)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (638)</li>
-<li>login.microsoftonline.com (590)</li>
+<li>login.microsoftonline.com (591)</li>
 <li>app.qbo.intuit.com (569)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (476)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:19 www.facebook.com</li>
+<ul><li> 09:28 moodle.royalholloway.ac.uk</li>
+<li> 09:28 login.microsoftonline.com</li>
+<li> 09:28 moodle.royalholloway.ac.uk</li>
+<li> 09:27 outlook.office.com</li>
+<li class='same'> 09:26 outlook.office.com</li>
+<li class='same'> 09:25 outlook.office.com</li>
+<li> 09:19 www.facebook.com</li>
 <li> 09:19 www.oecd.org</li>
 <li class='same'> 09:18 www.oecd.org</li>
 <li> 09:18 www.google.com</li>
