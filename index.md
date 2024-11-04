@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8749)</li>
-<li>mail.google.com (6057)</li>
+<li>mail.google.com (6059)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2853)</li>
 <li>docs.google.com (1935)</li>
@@ -81,8 +81,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (830)</li>
+<li>gmail.com (743)</li>
 <li>www.linkedin.com (742)</li>
-<li>gmail.com (742)</li>
 <li>whitewaterwriters.com (667)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (639)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:55 www.amazon.co.uk</li>
+<ul><li> 17:02 mail.google.com</li>
+<li class='same'> 17:01 mail.google.com</li>
+<li> 17:01 gmail.com</li>
+<li> 16:55 www.amazon.co.uk</li>
 <li> 16:48 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
 <li> 16:48 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:48 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
