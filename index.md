@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8739)</li>
-<li>mail.google.com (6047)</li>
-<li>outlook.office.com (3580)</li>
+<li>mail.google.com (6051)</li>
+<li>outlook.office.com (3582)</li>
 <li>www.facebook.com (2852)</li>
-<li>docs.google.com (1930)</li>
+<li>docs.google.com (1931)</li>
 <li>calendar.google.com (1464)</li>
 <li>www.reddit.com (1418)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
@@ -89,10 +89,10 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (594)</li>
 <li>app.qbo.intuit.com (570)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>web.whatsapp.com (477)</li>
+<li>web.whatsapp.com (478)</li>
 <li>drive.google.com (452)</li>
 <li>teams.microsoft.com (444)</li>
-<li>kdp.amazon.com (439)</li>
+<li>kdp.amazon.com (441)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (394)</li>
 <li>rhul.sharepoint.com (342)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 04/11/24</H3>
+
+<br>
+
+<ul><li> 15:58 mail.google.com</li>
+<li> 15:57 web.whatsapp.com</li>
+<li> 15:57 docs.google.com</li>
+<li> 15:56 kdp.amazon.com</li>
+<li> 15:56 kdpreports.amazon.com</li>
+<li class='same'> 15:55 kdpreports.amazon.com</li>
+<li> 15:55 www.amazon.com</li>
+<li> 15:55 kdpreports.amazon.com</li>
+<li> 15:55 kdp.amazon.com</li>
+<li> 15:54 mail.google.com</li>
+<li> 15:54 outlook.office.com</li>
+<li class='same'> 15:53 outlook.office.com</li>
+<li> 15:53 mail.google.com</li>
+<li class='same'> 15:52 mail.google.com</li>
+</ul>
 
 <br>
 
