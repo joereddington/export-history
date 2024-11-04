@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8733)</li>
-<li>mail.google.com (6043)</li>
-<li>outlook.office.com (3579)</li>
+<li>mail.google.com (6044)</li>
+<li>outlook.office.com (3580)</li>
 <li>www.facebook.com (2850)</li>
 <li>docs.google.com (1930)</li>
 <li>calendar.google.com (1464)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (828)</li>
 <li>gmail.com (741)</li>
 <li>www.linkedin.com (739)</li>
-<li>whitewaterwriters.com (666)</li>
+<li>whitewaterwriters.com (667)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (639)</li>
 <li>login.microsoftonline.com (592)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:45 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<ul><li> 11:53 mail-attachment.googleusercontent.com</li>
+<li> 11:52 mail.google.com</li>
+<li> 11:52 outlook.office.com</li>
+<li> 11:47 whitewaterwriters.com</li>
+<li> 11:45 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 11:44 outlook.office.com</li>
 <li class='same'> 11:43 outlook.office.com</li>
 <li> 11:43 royalholloway.akarisoftware.com</li>
