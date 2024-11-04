@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8730)</li>
-<li>mail.google.com (6033)</li>
-<li>outlook.office.com (3572)</li>
+<li>mail.google.com (6039)</li>
+<li>outlook.office.com (3575)</li>
 <li>www.facebook.com (2850)</li>
 <li>docs.google.com (1930)</li>
 <li>calendar.google.com (1464)</li>
 <li>www.reddit.com (1418)</li>
 <li>moodle.royalholloway.ac.uk (1407)</li>
 <li>www.amazon.co.uk (1243)</li>
-<li>outlook.office365.com (1205)</li>
+<li>outlook.office365.com (1206)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (828)</li>
-<li>gmail.com (738)</li>
+<li>gmail.com (739)</li>
 <li>www.linkedin.com (737)</li>
 <li>whitewaterwriters.com (666)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (638)</li>
+<li>chat.openai.com (639)</li>
 <li>login.microsoftonline.com (591)</li>
 <li>app.qbo.intuit.com (570)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (393)</li>
 <li>rhul.sharepoint.com (342)</li>
-<li>chatgpt.com (337)</li>
+<li>chatgpt.com (339)</li>
 <li>www.giantitp.com (323)</li>
 
 
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:08 admin.google.com</li>
+<ul><li> 10:19 mail.google.com</li>
+<li class='same'> 10:18 mail.google.com</li>
+<li> 10:18 pay.ebay.co.uk</li>
+<li> 10:18 www.paypal.com</li>
+<li> 10:18 pay.ebay.co.uk</li>
+<li> 10:17 mail.google.com</li>
+<li class='same'> 10:16 mail.google.com</li>
+<li> 10:15 www.ebay.co.uk</li>
+<li> 10:14 admin.google.com</li>
+<li> 10:14 outlook.office.com</li>
+<li> 10:14 mail.google.com</li>
+<li class='same'> 10:13 mail.google.com</li>
+<li> 10:13 gmail.com</li>
+<li> 10:13 outlook.office.com</li>
+<li class='same'> 10:12 outlook.office.com</li>
+<li> 10:12 outlook.office365.com</li>
+<li> 10:12 mail.rhul.ac.uk</li>
+<li> 10:11 admin.google.com</li>
+<li class='same'> 10:10 admin.google.com</li>
+<li> 10:09 chatgpt.com</li>
+<li class='same'> 10:08 chatgpt.com</li>
+<li> 10:08 chat.openai.com</li>
+<li> 10:08 admin.google.com</li>
 <li> 10:08 accounts.google.com</li>
 <li> 10:08 admin.google.com</li>
 <li> 10:08 accounts.google.com</li>
