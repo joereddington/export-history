@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (743)</li>
 <li>whitewaterwriters.com (668)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (640)</li>
-<li>login.microsoftonline.com (595)</li>
+<li>chat.openai.com (641)</li>
+<li>login.microsoftonline.com (597)</li>
 <li>app.qbo.intuit.com (572)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (480)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (396)</li>
 <li>rhul.sharepoint.com (342)</li>
-<li>chatgpt.com (341)</li>
+<li>chatgpt.com (342)</li>
 <li>www.giantitp.com (324)</li>
 
 
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:00 cwe.mitre.org</li>
+<ul><li> 13:09 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 13:04 chatgpt.com</li>
+<li> 13:04 chat.openai.com</li>
+<li> 13:02 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 13:02 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 13:02 login.microsoftonline.com</li>
+<li> 13:02 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 13:02 experience.elluciancloud.ie</li>
+<li> 13:02 login.microsoftonline.com</li>
+<li> 13:02 experience.elluciancloud.ie</li>
+<li> 13:00 cwe.mitre.org</li>
 <li> 13:00 www.cve.org</li>
 <li> 12:58 www.reddit.com</li>
 <li> 12:57 www.cve.org</li>
