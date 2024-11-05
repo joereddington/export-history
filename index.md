@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8789)</li>
-<li>mail.google.com (6093)</li>
+<ol><li>www.google.com (8796)</li>
+<li>mail.google.com (6094)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2868)</li>
 <li>docs.google.com (1945)</li>
-<li>calendar.google.com (1474)</li>
-<li>www.reddit.com (1424)</li>
+<li>calendar.google.com (1475)</li>
+<li>www.reddit.com (1427)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
 <li>www.amazon.co.uk (1244)</li>
 <li>outlook.office365.com (1223)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (851)</li>
-<li>gmail.com (752)</li>
+<li>gmail.com (753)</li>
 <li>www.linkedin.com (747)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
@@ -110,11 +110,31 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:14 accounts.intuit.com</li>
 <li> 20:14 qbo.intuit.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 19:15 qbo.intuit.com</li>
+<li> 20:12 www.criticalpublishing.com</li>
+<li> 20:08 www.ntu.ac.uk</li>
+<li> 20:08 www.google.com</li>
+<li class='same'> 20:07 www.google.com</li>
+<li> 20:05 www.reddit.com</li>
+<li> 20:05 www.google.com</li>
+<li> 20:03 fft.org.uk</li>
+<li> 20:03 www.google.com</li>
+<li> 20:02 www.reddit.com</li>
+<li> 19:59 www.ebay.co.uk</li>
+<li class='same'> 19:55 www.ebay.co.uk</li>
+<li> 19:53 challengeworks.org</li>
+<li class='same'> 19:52 challengeworks.org</li>
+<li> 19:52 www.nesta.org.uk</li>
+<li> 19:52 www.google.com</li>
+<li> 19:52 www.myfundingcentral.co.uk</li>
+<li class='same'> 19:47 www.myfundingcentral.co.uk</li>
+<li> 19:41 mail.google.com</li>
+<li> 19:41 gmail.com</li>
+<li> 19:40 www.google.com</li>
+<li> 19:40 calendar.google.com</li>
+<li> 19:40 www.reddit.com</li>
+<li> 19:35 www.peninsulagrouplimited.com</li>
+<li> 19:35 www.google.com</li>
+<li> 19:15 qbo.intuit.com</li>
 <li class='same'> 19:14 qbo.intuit.com</li>
 <li> 19:14 accounts.intuit.com</li>
 <li> 19:14 qbo.intuit.com</li>
