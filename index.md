@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8796)</li>
+<ol><li>www.google.com (8797)</li>
 <li>mail.google.com (6094)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2868)</li>
 <li>docs.google.com (1945)</li>
 <li>calendar.google.com (1475)</li>
-<li>www.reddit.com (1427)</li>
+<li>www.reddit.com (1428)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
 <li>www.amazon.co.uk (1244)</li>
 <li>outlook.office365.com (1223)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (851)</li>
+<li>www.theguardian.com (853)</li>
 <li>gmail.com (753)</li>
-<li>www.linkedin.com (747)</li>
+<li>www.linkedin.com (749)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (641)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:14 accounts.intuit.com</li>
+<ul><li> 20:28 www.reddit.com</li>
+<li> 20:27 www.google.com</li>
+<li> 20:26 www.linkedin.com</li>
+<li> 20:22 www.theguardian.com</li>
+<li class='same'> 20:21 www.theguardian.com</li>
+<li> 20:19 www.linkedin.com</li>
+<li> 20:14 accounts.intuit.com</li>
 <li> 20:14 qbo.intuit.com</li>
 <li> 20:12 www.criticalpublishing.com</li>
 <li> 20:08 www.ntu.ac.uk</li>
