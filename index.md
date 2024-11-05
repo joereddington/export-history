@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8758)</li>
-<li>mail.google.com (6076)</li>
+<li>mail.google.com (6080)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2862)</li>
 <li>docs.google.com (1941)</li>
@@ -83,13 +83,13 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (830)</li>
 <li>gmail.com (747)</li>
 <li>www.linkedin.com (743)</li>
-<li>whitewaterwriters.com (667)</li>
+<li>whitewaterwriters.com (668)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (640)</li>
 <li>login.microsoftonline.com (595)</li>
 <li>app.qbo.intuit.com (572)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>web.whatsapp.com (479)</li>
+<li>web.whatsapp.com (480)</li>
 <li>drive.google.com (455)</li>
 <li>kdp.amazon.com (446)</li>
 <li>teams.microsoft.com (444)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:37 mail.google.com</li>
+<ul><li> 11:45 www.reading.ac.uk</li>
+<li> 11:43 mail.google.com</li>
+<li> 11:43 www.gmail.com</li>
+<li> 11:43 mail.google.com</li>
+<li> 11:43 www.gmail.com</li>
+<li> 11:43 web.whatsapp.com</li>
+<li> 11:42 whitewaterwriters.com</li>
+<li> 11:41 mail.google.com</li>
+<li> 11:38 Local file</li>
+<li> 11:38 mail.google.com</li>
+<li class='same'> 11:37 mail.google.com</li>
 <li> 11:37 gmail.com</li>
 <li> 11:37 mail.google.com</li>
 <li> 11:23 accounts.intuit.com</li>
