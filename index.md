@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8754)</li>
-<li>mail.google.com (6071)</li>
+<ol><li>www.google.com (8756)</li>
+<li>mail.google.com (6073)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2862)</li>
 <li>docs.google.com (1941)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:39 mail-attachment.googleusercontent.com</li>
+<ul><li> 10:49 www.gov.uk</li>
+<li> 10:49 www.google.com</li>
+<li> 10:44 mail.google.com</li>
+<li> 10:43 <a href="https://en.wikipedia.org/wiki/Stay_Lucky">Stay Lucky - Wikipedia</a></li>
+<li> 10:43 www.google.com</li>
+<li> 10:40 mail.google.com</li>
+<li> 10:39 mail-attachment.googleusercontent.com</li>
 <li> 10:38 mail.google.com</li>
 <li> 10:36 docs.google.com</li>
 <li> 10:35 www.dropbox.com</li>
