@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:58 www.reddit.com</li>
+<ul><li> 13:00 cwe.mitre.org</li>
+<li> 13:00 www.cve.org</li>
+<li> 12:58 www.reddit.com</li>
 <li> 12:57 www.cve.org</li>
 <li> 12:57 www.cisa.gov</li>
 <li> 12:57 us-cert.cisa.gov</li>
