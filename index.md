@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8764)</li>
-<li>mail.google.com (6084)</li>
+<ol><li>www.google.com (8766)</li>
+<li>mail.google.com (6087)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2868)</li>
-<li>docs.google.com (1943)</li>
+<li>docs.google.com (1944)</li>
 <li>calendar.google.com (1473)</li>
 <li>www.reddit.com (1421)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
@@ -80,17 +80,17 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1223)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (830)</li>
-<li>gmail.com (748)</li>
-<li>www.linkedin.com (744)</li>
+<li>www.theguardian.com (831)</li>
+<li>gmail.com (750)</li>
+<li>www.linkedin.com (746)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (641)</li>
 <li>login.microsoftonline.com (598)</li>
 <li>app.qbo.intuit.com (572)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>web.whatsapp.com (481)</li>
-<li>drive.google.com (456)</li>
+<li>web.whatsapp.com (482)</li>
+<li>drive.google.com (457)</li>
 <li>kdp.amazon.com (446)</li>
 <li>teams.microsoft.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:49 apply.unity.co.uk</li>
+<ul><li> 15:59 mail.google.com</li>
+<li> 15:59 gmail.com</li>
+<li> 15:59 admin.google.com</li>
+<li> 15:59 accounts.youtube.com</li>
+<li> 15:59 accounts.google.co.uk</li>
+<li> 15:59 admin.google.com</li>
+<li> 15:59 accounts.google.com</li>
+<li> 15:59 admin.google.com</li>
+<li> 15:59 accounts.google.com</li>
+<li> 15:59 workspace.google.com</li>
+<li> 15:59 www.google.com</li>
+<li> 15:57 docs.google.com</li>
+<li> 15:57 drive.google.com</li>
+<li> 15:56 x.com</li>
+<li> 15:56 twitter.com</li>
+<li> 15:56 www.google.com</li>
+<li> 15:55 www.theguardian.com</li>
+<li> 15:54 www.linkedin.com</li>
+<li class='same'> 15:53 www.linkedin.com</li>
+<li> 15:53 mail.google.com</li>
+<li> 15:53 gmail.com</li>
+<li> 15:53 mail.google.com</li>
+<li> 15:50 web.whatsapp.com</li>
+<li> 15:50 apply.unity.co.uk</li>
+<li class='same'> 15:49 apply.unity.co.uk</li>
 <li> 15:49 www.google.com</li>
 <li> 15:49 mail.google.com</li>
 <li class='same'> 15:48 mail.google.com</li>
