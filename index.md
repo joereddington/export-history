@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8752)</li>
-<li>mail.google.com (6062)</li>
+<ol><li>www.google.com (8753)</li>
+<li>mail.google.com (6067)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2853)</li>
 <li>docs.google.com (1935)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (830)</li>
-<li>gmail.com (743)</li>
+<li>gmail.com (744)</li>
 <li>www.linkedin.com (742)</li>
 <li>whitewaterwriters.com (667)</li>
 <li>tvtropes.org (655)</li>
@@ -97,14 +97,33 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (396)</li>
 <li>rhul.sharepoint.com (342)</li>
 <li>chatgpt.com (339)</li>
-<li>www.giantitp.com (323)</li>
+<li>www.giantitp.com (324)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Tuesday, 05/11/24</H3>
+
+<br>
+
+<ul><li> 07:22 mail.google.com</li>
+<li> 07:22 www.giantitp.com</li>
+<li> 07:22 mail.google.com</li>
+<li class='same'> 07:21 mail.google.com</li>
+<li> 07:21 gmail.com</li>
+<li> 07:21 mail.google.com</li>
+<li> 07:21 www.imdb.com</li>
+<li> 07:21 www.google.com</li>
+<li> 07:20 mail.google.com</li>
+</ul>
+
 <H3>Monday, 04/11/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
