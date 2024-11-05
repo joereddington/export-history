@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (478)</li>
 <li>drive.google.com (453)</li>
-<li>kdp.amazon.com (447)</li>
+<li>kdp.amazon.com (446)</li>
 <li>teams.microsoft.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (396)</li>
@@ -18183,7 +18183,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:27 m.facebook.com</li>
 <li> 16:12 moodle2324.royalholloway.ac.uk</li>
 <li> 16:12 login.microsoftonline.com</li>
-<li> 16:12 eur03.safelinks.protection.outlook.com</li>
 <li> 16:10 outlook.office.com</li>
 <li> 16:10 www.linkedin.com</li>
 <li class='same'> 16:09 www.linkedin.com</li>
@@ -18272,7 +18271,6 @@ With number of accesses/minutes in parentheses
 <li> 07:44 <a href="https://joereddington.com/2023/12/07/i-m-producing-the-kindle-version-of-advanced-memory-palaces.html">I’m producing the kindle version of Advanced Memory Palaces | Joe Reddington</a></li>
 <li> 07:44 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:44 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 07:43 kdp.amazon.com</li>
 <li> 07:43 outlook.office.com</li>
 <li class='same'> 07:42 outlook.office.com</li>
 <li> 07:42 forum.artofmemory.com</li>
@@ -18317,14 +18315,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:50 mail.google.com</li>
 <li class='same'> 06:49 mail.google.com</li>
 <li> 06:49 accounts.youtube.com</li>
-<li> 06:49 accounts.google.com</li>
 <li> 06:49 accounts.google.co.uk</li>
 <li> 06:49 accounts.google.com</li>
 <li> 06:49 mail.google.com</li>
 <li> 06:49 gmail.com</li>
 <li> 06:48 qbo.intuit.com</li>
 <li> 06:48 www.amazon.co.uk</li>
-<li> 06:46 financialdocument.platform.intuit.com</li>
 <li> 06:46 qbo.intuit.com</li>
 <li> 06:46 online.unity.co.uk</li>
 <li> 06:46 qbo.intuit.com</li>
