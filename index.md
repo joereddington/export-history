@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8761)</li>
+<ol><li>www.google.com (8762)</li>
 <li>mail.google.com (6082)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2863)</li>
@@ -83,10 +83,10 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (830)</li>
 <li>gmail.com (747)</li>
 <li>www.linkedin.com (743)</li>
-<li>whitewaterwriters.com (668)</li>
+<li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (641)</li>
-<li>login.microsoftonline.com (597)</li>
+<li>login.microsoftonline.com (598)</li>
 <li>app.qbo.intuit.com (572)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (480)</li>
@@ -95,8 +95,8 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (396)</li>
+<li>chatgpt.com (348)</li>
 <li>rhul.sharepoint.com (342)</li>
-<li>chatgpt.com (342)</li>
 <li>www.giantitp.com (324)</li>
 
 
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:09 generalssb-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 14:01 login.microsoftonline.com</li>
+<li> 13:57 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li class='same'> 13:56 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 13:56 experience.elluciancloud.ie</li>
+<li> 13:56 extensions.royalholloway.ac.uk</li>
+<li> 13:56 adfs.rhul.ac.uk</li>
+<li> 13:56 experience.elluciancloud.ie</li>
+<li> 13:55 www.flaticon.com</li>
+<li> 13:55 whitewaterwriters.com</li>
+<li> 13:55 www.flaticon.com</li>
+<li> 13:55 www.google.com</li>
+<li> 13:44 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 13:40 chatgpt.com</li>
+<li class='same'> 13:36 chatgpt.com</li>
+<li class='same'> 13:32 chatgpt.com</li>
+<li> 13:29 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 13:26 chatgpt.com</li>
+<li class='same'> 13:22 chatgpt.com</li>
+<li class='same'> 13:21 chatgpt.com</li>
+<li> 13:09 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 13:04 chatgpt.com</li>
 <li> 13:04 chat.openai.com</li>
 <li> 13:02 generalssb-prod.ec.royalholloway.ac.uk</li>
