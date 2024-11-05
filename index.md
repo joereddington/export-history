@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (8762)</li>
 <li>mail.google.com (6082)</li>
 <li>outlook.office.com (3583)</li>
-<li>www.facebook.com (2863)</li>
+<li>www.facebook.com (2867)</li>
 <li>docs.google.com (1943)</li>
 <li>calendar.google.com (1473)</li>
 <li>www.reddit.com (1421)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (598)</li>
 <li>app.qbo.intuit.com (572)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>web.whatsapp.com (480)</li>
+<li>web.whatsapp.com (481)</li>
 <li>drive.google.com (456)</li>
 <li>kdp.amazon.com (446)</li>
 <li>teams.microsoft.com (444)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:01 login.microsoftonline.com</li>
+<ul><li> 14:55 www.facebook.com</li>
+<li> 14:53 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 14:50 www.facebook.com</li>
+<li class='same'> 14:49 www.facebook.com</li>
+<li> 14:45 bsky.app</li>
+<li> 14:41 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li class='same'> 14:29 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 14:24 web.whatsapp.com</li>
+<li> 14:22 www.facebook.com</li>
+<li> 14:01 login.microsoftonline.com</li>
 <li> 13:57 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li class='same'> 13:56 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 13:56 experience.elluciancloud.ie</li>
