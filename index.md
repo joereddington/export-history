@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8759)</li>
+<ol><li>www.google.com (8761)</li>
 <li>mail.google.com (6082)</li>
 <li>outlook.office.com (3583)</li>
-<li>www.facebook.com (2862)</li>
+<li>www.facebook.com (2863)</li>
 <li>docs.google.com (1943)</li>
 <li>calendar.google.com (1473)</li>
-<li>www.reddit.com (1419)</li>
+<li>www.reddit.com (1421)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
 <li>www.amazon.co.uk (1244)</li>
 <li>outlook.office365.com (1223)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:46 feedly.com</li>
+<ul><li> 12:58 www.reddit.com</li>
+<li> 12:57 www.cve.org</li>
+<li> 12:57 www.cisa.gov</li>
+<li> 12:57 us-cert.cisa.gov</li>
+<li> 12:57 www.reddit.com</li>
+<li> 12:57 www.google.com</li>
+<li> 12:56 www.cvsukltd.co.uk</li>
+<li> 12:56 www.google.com</li>
+<li> 12:55 bsky.app</li>
+<li class='same'> 12:52 bsky.app</li>
+<li> 12:51 www.facebook.com</li>
+<li> 12:46 feedly.com</li>
 <li> 12:44 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:19 docs.google.com</li>
 <li class='same'> 12:13 docs.google.com</li>
