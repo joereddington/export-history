@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8753)</li>
-<li>mail.google.com (6067)</li>
+<li>mail.google.com (6069)</li>
 <li>outlook.office.com (3583)</li>
-<li>www.facebook.com (2853)</li>
+<li>www.facebook.com (2862)</li>
 <li>docs.google.com (1935)</li>
-<li>calendar.google.com (1470)</li>
-<li>www.reddit.com (1418)</li>
+<li>calendar.google.com (1473)</li>
+<li>www.reddit.com (1419)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
 <li>www.amazon.co.uk (1244)</li>
 <li>outlook.office365.com (1223)</li>
@@ -82,14 +82,14 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (830)</li>
 <li>gmail.com (744)</li>
-<li>www.linkedin.com (742)</li>
+<li>www.linkedin.com (743)</li>
 <li>whitewaterwriters.com (667)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (639)</li>
 <li>login.microsoftonline.com (595)</li>
 <li>app.qbo.intuit.com (571)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>web.whatsapp.com (478)</li>
+<li>web.whatsapp.com (479)</li>
 <li>drive.google.com (453)</li>
 <li>kdp.amazon.com (446)</li>
 <li>teams.microsoft.com (444)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:22 mail.google.com</li>
+<ul><li> 09:45 bsky.app</li>
+<li> 09:43 jobs.royalholloway.ac.uk</li>
+<li> 09:43 www.linkedin.com</li>
+<li> 09:38 www.facebook.com</li>
+<li class='same'> 09:37 www.facebook.com</li>
+<li> 09:34 bsky.app</li>
+<li class='same'> 09:31 bsky.app</li>
+<li class='same'> 09:30 bsky.app</li>
+<li> 09:28 www.facebook.com</li>
+<li class='same'> 09:27 www.facebook.com</li>
+<li> 09:27 calendar.google.com</li>
+<li> 09:27 www.facebook.com</li>
+<li class='same'> 09:26 www.facebook.com</li>
+<li> 09:25 calendar.google.com</li>
+<li class='same'> 09:24 calendar.google.com</li>
+<li> 09:24 www.facebook.com</li>
+<li class='same'> 09:23 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:10 www.reddit.com</li>
+<li> 08:08 www.facebook.com</li>
+<li> 07:45 web.whatsapp.com</li>
+<li> 07:24 mail.google.com</li>
+<li class='same'> 07:23 mail.google.com</li>
+<li class='same'> 07:22 mail.google.com</li>
 <li> 07:22 www.giantitp.com</li>
 <li> 07:22 mail.google.com</li>
 <li class='same'> 07:21 mail.google.com</li>
