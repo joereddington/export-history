@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8766)</li>
-<li>mail.google.com (6087)</li>
+<ol><li>www.google.com (8767)</li>
+<li>mail.google.com (6092)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2868)</li>
 <li>docs.google.com (1944)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (831)</li>
-<li>gmail.com (750)</li>
+<li>gmail.com (751)</li>
 <li>www.linkedin.com (746)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:59 mail.google.com</li>
+<ul><li> 16:09 my-charity-account.charitycommission.gov.uk</li>
+<li class='same'> 16:08 my-charity-account.charitycommission.gov.uk</li>
+<li> 16:07 mail.google.com</li>
+<li> 16:06 my-charity-account.charitycommission.gov.uk</li>
+<li> 16:06 mail.google.com</li>
+<li class='same'> 16:05 mail.google.com</li>
+<li> 16:05 my-charity-account.charitycommission.gov.uk</li>
+<li class='same'> 16:04 my-charity-account.charitycommission.gov.uk</li>
+<li> 16:04 mail.google.com</li>
+<li> 16:04 gmail.com</li>
+<li> 16:04 my-charity-account.charitycommission.gov.uk</li>
+<li> 16:04 www.gov.uk</li>
+<li> 16:04 www.google.com</li>
+<li> 16:00 mail.google.com</li>
+<li class='same'> 15:59 mail.google.com</li>
 <li> 15:59 gmail.com</li>
 <li> 15:59 admin.google.com</li>
 <li> 15:59 accounts.youtube.com</li>
