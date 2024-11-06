@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8797)</li>
+<ol><li>www.google.com (8798)</li>
 <li>mail.google.com (6094)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2868)</li>
 <li>docs.google.com (1945)</li>
 <li>calendar.google.com (1475)</li>
-<li>www.reddit.com (1428)</li>
+<li>www.reddit.com (1430)</li>
 <li>moodle.royalholloway.ac.uk (1410)</li>
-<li>www.amazon.co.uk (1244)</li>
+<li>www.amazon.co.uk (1243)</li>
 <li>outlook.office365.com (1223)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (853)</li>
+<li>www.theguardian.com (861)</li>
 <li>gmail.com (753)</li>
 <li>www.linkedin.com (749)</li>
 <li>whitewaterwriters.com (669)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (598)</li>
 <li>app.qbo.intuit.com (573)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>web.whatsapp.com (483)</li>
+<li>web.whatsapp.com (484)</li>
 <li>drive.google.com (457)</li>
 <li>kdp.amazon.com (446)</li>
 <li>teams.microsoft.com (444)</li>
@@ -104,11 +104,33 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 06/11/24</H3>
+
+<br>
+
+<ul><li> 06:38 www.theguardian.com</li>
+<li class='same'> 06:31 www.theguardian.com</li>
+<li class='same'> 06:19 www.theguardian.com</li>
+<li class='same'> 06:18 www.theguardian.com</li>
+<li class='same'> 06:16 www.theguardian.com</li>
+<li class='same'> 06:15 www.theguardian.com</li>
+<li class='same'> 06:14 www.theguardian.com</li>
+<li class='same'> 06:09 www.theguardian.com</li>
+<li> 06:09 www.google.com</li>
+</ul>
+
 <H3>Tuesday, 05/11/24</H3>
 
 <br>
 
-<ul><li> 20:28 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:36 web.whatsapp.com</li>
+<li> 20:33 www.reddit.com</li>
+<li class='same'> 20:29 www.reddit.com</li>
+<li class='same'> 20:28 www.reddit.com</li>
 <li> 20:27 www.google.com</li>
 <li> 20:26 www.linkedin.com</li>
 <li> 20:22 www.theguardian.com</li>
@@ -153,7 +175,8 @@ With number of accesses/minutes in parentheses
 <li> 19:00 meet.google.com</li>
 <li> 19:00 calendar.google.com</li>
 <li> 19:00 web.whatsapp.com</li>
-<li> 18:44 www.google.com</li>
+<li> 18:45 www.google.com</li>
+<li class='same'> 18:44 www.google.com</li>
 <li class='same'> 18:40 www.google.com</li>
 <li> 18:40 www.theguardian.com</li>
 </ul>
@@ -18492,7 +18515,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:59 outlook.office.com</li>
 <li> 07:58 shop.uk.keto-mojo.com</li>
 <li> 07:58 www.paypal.com</li>
-<li class='same'> 07:57 www.paypal.com</li>
 <li> 07:57 shop.uk.keto-mojo.com</li>
 <li> 07:56 www.reddit.com</li>
 <li> 07:56 www.google.com</li>
@@ -18501,7 +18523,6 @@ With number of accesses/minutes in parentheses
 <li> 07:55 www.ebay.co.uk</li>
 <li> 07:55 www.amazon.co.uk</li>
 <li class='same'> 07:54 www.amazon.co.uk</li>
-<li class='same'> 07:48 www.amazon.co.uk</li>
 <li> 07:47 store.bricklink.com</li>
 <li> 07:47 www.bricklink.com</li>
 <li class='same'> 07:46 www.bricklink.com</li>
@@ -18539,7 +18560,6 @@ With number of accesses/minutes in parentheses
 <li> 07:11 moodle.royalholloway.ac.uk</li>
 <li> 07:10 forum.artofmemory.com</li>
 <li class='same'> 07:09 forum.artofmemory.com</li>
-<li> 07:09 www.google.com</li>
 <li> 07:09 email.forum.artofmemory.com</li>
 <li> 07:09 mail.google.com</li>
 <li> 07:09 outlook.office.com</li>
@@ -18547,7 +18567,6 @@ With number of accesses/minutes in parentheses
 <li> 07:07 moodle.royalholloway.ac.uk</li>
 <li> 07:07 login.microsoftonline.com</li>
 <li> 07:07 moodle.royalholloway.ac.uk</li>
-<li> 07:07 eur03.safelinks.protection.outlook.com</li>
 <li> 07:07 outlook.office.com</li>
 <li class='same'> 07:06 outlook.office.com</li>
 <li> 07:06 chatgpt.com</li>
