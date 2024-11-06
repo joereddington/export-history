@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8807)</li>
+<ol><li>www.google.com (8812)</li>
 <li>mail.google.com (6094)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2870)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1243)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (874)</li>
+<li>www.theguardian.com (877)</li>
 <li>gmail.com (753)</li>
 <li>www.linkedin.com (749)</li>
 <li>whitewaterwriters.com (669)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 06/11/24</H3>
+
+<br>
+
+<ul><li> 17:38 m.youtube.com</li>
+<li> 17:38 www.google.com</li>
+</ul>
 
 <br>
 
@@ -133,11 +139,17 @@ With number of accesses/minutes in parentheses
 <li> 14:57 outlook.office365.com</li>
 <li> 14:57 adblockplus.org</li>
 <li> 14:57 outlook.office365.com</li>
+<li> 14:32 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 13:02 51.148.131.133:8000</li>
+<ul><li class='same'> 13:33 www.google.com</li>
+<li> 13:28 micklefieldjudoclub.com</li>
+<li> 13:28 www.google.com</li>
+<li> 13:28 micklefieldjudoclub.com</li>
+<li> 13:28 www.google.com</li>
+<li> 13:02 51.148.131.133:8000</li>
 <li> 13:00 outlook.office365.com</li>
 <li> 12:59 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:58 moodle.royalholloway.ac.uk</li>
@@ -148,7 +160,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:11 51.148.131.133:8000</li>
+<ul><li> 12:15 www.theguardian.com</li>
+<li> 12:11 51.148.131.133:8000</li>
 <li> 12:11 outlook.office365.com</li>
 <li> 12:10 www.tesco.com</li>
 <li> 12:10 www.google.com</li>
@@ -245,11 +258,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:13 outlook.office365.com</li>
 <li class='same'> 09:12 outlook.office365.com</li>
 <li> 09:11 login.microsoftonline.com</li>
+<li> 09:07 www.theguardian.com</li>
+<li class='same'> 08:50 www.theguardian.com</li>
 </ul>
 
 <br>
 
-<ul><li> 08:02 www.theguardian.com</li>
+<ul><li class='same'> 08:02 www.theguardian.com</li>
 <li> 07:35 search.app.goo.gl</li>
 <li> 07:34 www.theguardian.com</li>
 <li class='same'> 07:10 www.theguardian.com</li>
@@ -78682,6 +78697,8 @@ With number of accesses/minutes in parentheses
 <li> 06:46 app.qbo.intuit.com</li>
 <li> 06:45 accounts.google.com</li>
 <li> 06:34 challengeworks.org</li>
+<li> 06:32 www.nesta.org.uk</li>
+<li class='same'> 06:31 www.nesta.org.uk</li>
 <li> 06:25 skeet.labnotes.org</li>
 <li> 06:19 www.qiq.support</li>
 <li class='same'> 06:18 www.qiq.support</li>
