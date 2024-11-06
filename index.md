@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8805)</li>
+<ol><li>www.google.com (8806)</li>
 <li>mail.google.com (6094)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2870)</li>
 <li>docs.google.com (1945)</li>
 <li>calendar.google.com (1481)</li>
 <li>www.reddit.com (1430)</li>
-<li>moodle.royalholloway.ac.uk (1416)</li>
-<li>outlook.office365.com (1255)</li>
+<li>moodle.royalholloway.ac.uk (1418)</li>
+<li>outlook.office365.com (1262)</li>
 <li>www.amazon.co.uk (1243)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:06 www.twingate.com</li>
+<ul><li> 13:02 51.148.131.133:8000</li>
+<li> 13:00 outlook.office365.com</li>
+<li> 12:59 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:58 moodle.royalholloway.ac.uk</li>
+<li> 12:58 outlook.office365.com</li>
+<li> 12:58 www.ebay.co.uk</li>
+<li class='same'> 12:57 www.ebay.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 12:11 51.148.131.133:8000</li>
+<li> 12:11 outlook.office365.com</li>
+<li> 12:10 www.tesco.com</li>
+<li> 12:10 www.google.com</li>
+<li> 12:10 outlook.office365.com</li>
+<li class='same'> 12:09 outlook.office365.com</li>
+<li class='same'> 12:08 outlook.office365.com</li>
+<li class='same'> 12:07 outlook.office365.com</li>
+<li> 12:06 www.twingate.com</li>
 <li> 12:06 www.google.com</li>
 <li> 12:06 outlook.office365.com</li>
 <li> 12:03 <a href="https://en.wikipedia.org/wiki/Wikipedia:PSTS">Wikipedia:No original research - Wikipedia</a></li>
