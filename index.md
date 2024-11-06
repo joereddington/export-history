@@ -75,8 +75,8 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1945)</li>
 <li>calendar.google.com (1481)</li>
 <li>www.reddit.com (1430)</li>
-<li>moodle.royalholloway.ac.uk (1421)</li>
-<li>outlook.office365.com (1268)</li>
+<li>moodle.royalholloway.ac.uk (1423)</li>
+<li>outlook.office365.com (1270)</li>
 <li>www.amazon.co.uk (1243)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (396)</li>
 <li>chatgpt.com (349)</li>
 <li>rhul.sharepoint.com (342)</li>
-<li>www.giantitp.com (324)</li>
+<li>www.giantitp.com (325)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:37 ev.turnitinuk.com</li>
+<ul><li> 15:58 www.giantitp.com</li>
+<li> 15:58 outlook.office365.com</li>
+<li> 15:54 ev.turnitinuk.com</li>
+<li> 15:53 moodle.royalholloway.ac.uk</li>
+<li> 15:53 outlook.office365.com</li>
+<li> 15:52 moodle.royalholloway.ac.uk</li>
+<li> 15:37 ev.turnitinuk.com</li>
 <li class='same'> 15:31 ev.turnitinuk.com</li>
 <li class='same'> 15:25 ev.turnitinuk.com</li>
 <li> 15:23 www.google.com</li>
