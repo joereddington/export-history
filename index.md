@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1223)</li>
 <li>github.com (1022)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (861)</li>
+<li>www.theguardian.com (874)</li>
 <li>gmail.com (753)</li>
 <li>www.linkedin.com (749)</li>
 <li>whitewaterwriters.com (669)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:38 www.theguardian.com</li>
+<ul><li> 08:02 www.theguardian.com</li>
+<li> 07:35 search.app.goo.gl</li>
+<li> 07:34 www.theguardian.com</li>
+<li class='same'> 07:10 www.theguardian.com</li>
+<li class='same'> 07:09 www.theguardian.com</li>
+<li class='same'> 07:08 www.theguardian.com</li>
+<li class='same'> 07:07 www.theguardian.com</li>
+<li class='same'> 07:06 www.theguardian.com</li>
+<li class='same'> 06:48 www.theguardian.com</li>
+<li class='same'> 06:47 www.theguardian.com</li>
+<li class='same'> 06:46 www.theguardian.com</li>
+<li class='same'> 06:45 www.theguardian.com</li>
+<li class='same'> 06:44 www.theguardian.com</li>
+<li class='same'> 06:39 www.theguardian.com</li>
+<li class='same'> 06:38 www.theguardian.com</li>
 <li class='same'> 06:31 www.theguardian.com</li>
 <li class='same'> 06:19 www.theguardian.com</li>
 <li class='same'> 06:18 www.theguardian.com</li>
