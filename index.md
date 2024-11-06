@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8799)</li>
+<ol><li>www.google.com (8800)</li>
 <li>mail.google.com (6094)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2868)</li>
 <li>docs.google.com (1945)</li>
 <li>calendar.google.com (1477)</li>
 <li>www.reddit.com (1430)</li>
-<li>moodle.royalholloway.ac.uk (1414)</li>
+<li>moodle.royalholloway.ac.uk (1416)</li>
 <li>www.amazon.co.uk (1243)</li>
-<li>outlook.office365.com (1233)</li>
-<li>github.com (1022)</li>
+<li>outlook.office365.com (1238)</li>
+<li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (874)</li>
 <li>gmail.com (753)</li>
 <li>www.linkedin.com (749)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (641)</li>
-<li>login.microsoftonline.com (601)</li>
-<li>app.qbo.intuit.com (573)</li>
+<li>chat.openai.com (642)</li>
+<li>login.microsoftonline.com (602)</li>
+<li>app.qbo.intuit.com (574)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (485)</li>
 <li>drive.google.com (457)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (396)</li>
-<li>chatgpt.com (348)</li>
+<li>chatgpt.com (349)</li>
 <li>rhul.sharepoint.com (342)</li>
 <li>www.giantitp.com (324)</li>
 
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:40 outlook.office365.com</li>
+<ul><li> 10:44 51.148.131.133:8000</li>
+<li class='same'> 10:32 51.148.131.133:8000</li>
+<li class='same'> 10:25 51.148.131.133:8000</li>
+<li> 10:21 foss-notes.blog.nomagic.uk</li>
+<li> 10:21 fullcalendar.io</li>
+<li> 10:20 <a href="https://stackoverflow.com/questions/300849/html-viewer-for-ics-ical-files">icalendar - HTML viewer for ics (iCal) files - Stack Overflow</a></li>
+<li> 10:20 www.google.com</li>
+<li> 10:15 github.com</li>
+<li> 10:09 chatgpt.com</li>
+<li> 10:09 chat.openai.com</li>
+<li> 10:07 51.148.131.133:8000</li>
+<li> 10:04 outlook.office365.com</li>
+<li class='same'> 10:02 outlook.office365.com</li>
+<li> 10:01 51.148.131.133:8000</li>
+<li> 10:00 outlook.office365.com</li>
+<li> 09:54 dashboards.rhul.ac.uk</li>
+<li> 09:53 outlook.office365.com</li>
+<li> 09:52 dashboards.rhul.ac.uk</li>
+<li> 09:49 outlook.office365.com</li>
+<li> 09:46 accounts.intuit.com</li>
+<li> 09:46 qbo.intuit.com</li>
+<li> 09:46 app.qbo.intuit.com</li>
+<li> 09:45 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:44 moodle.royalholloway.ac.uk</li>
+<li> 09:44 login.microsoftonline.com</li>
+<li> 09:40 outlook.office365.com</li>
 <li class='same'> 09:39 outlook.office365.com</li>
 <li class='same'> 09:38 outlook.office365.com</li>
 <li> 09:36 moodle2324.royalholloway.ac.uk</li>
