@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8806)</li>
+<ol><li>www.google.com (8807)</li>
 <li>mail.google.com (6094)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2870)</li>
 <li>docs.google.com (1945)</li>
 <li>calendar.google.com (1481)</li>
 <li>www.reddit.com (1430)</li>
-<li>moodle.royalholloway.ac.uk (1418)</li>
-<li>outlook.office365.com (1262)</li>
+<li>moodle.royalholloway.ac.uk (1421)</li>
+<li>outlook.office365.com (1268)</li>
 <li>www.amazon.co.uk (1243)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 06/11/24</H3>
+
+<br>
+
+<ul><li> 15:37 ev.turnitinuk.com</li>
+<li class='same'> 15:31 ev.turnitinuk.com</li>
+<li class='same'> 15:25 ev.turnitinuk.com</li>
+<li> 15:23 www.google.com</li>
+<li> 15:10 ev.turnitinuk.com</li>
+<li class='same'> 15:08 ev.turnitinuk.com</li>
+<li> 15:07 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:03 moodle.royalholloway.ac.uk</li>
+<li> 15:03 outlook.office365.com</li>
+<li> 15:02 51.148.131.133:8000</li>
+<li> 15:01 outlook.office365.com</li>
+<li class='same'> 15:00 outlook.office365.com</li>
+<li class='same'> 14:59 outlook.office365.com</li>
+<li> 14:59 scholar.google.com</li>
+<li class='same'> 14:58 scholar.google.com</li>
+<li> 14:57 outlook.office365.com</li>
+<li> 14:57 adblockplus.org</li>
+<li> 14:57 outlook.office365.com</li>
+</ul>
 
 <br>
 
