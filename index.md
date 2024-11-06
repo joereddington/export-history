@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8800)</li>
+<ol><li>www.google.com (8805)</li>
 <li>mail.google.com (6094)</li>
 <li>outlook.office.com (3583)</li>
 <li>www.facebook.com (2870)</li>
 <li>docs.google.com (1945)</li>
-<li>calendar.google.com (1480)</li>
+<li>calendar.google.com (1481)</li>
 <li>www.reddit.com (1430)</li>
 <li>moodle.royalholloway.ac.uk (1416)</li>
-<li>outlook.office365.com (1244)</li>
+<li>outlook.office365.com (1255)</li>
 <li>www.amazon.co.uk (1243)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:27 outlook.office365.com</li>
+<ul><li> 12:06 www.twingate.com</li>
+<li> 12:06 www.google.com</li>
+<li> 12:06 outlook.office365.com</li>
+<li> 12:03 <a href="https://en.wikipedia.org/wiki/Wikipedia:PSTS">Wikipedia:No original research - Wikipedia</a></li>
+<li> 12:03 <a href="https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources">Wikipedia:No original research - Wikipedia</a></li>
+<li> 12:03 <a href="https://en.wikipedia.org/wiki/Wikipedia:Primary_Secondary_and_Tertiary_Sources">Wikipedia:Primary Secondary and Tertiary Sources - Wikipedia</a></li>
+<li> 12:03 www.google.com</li>
+<li> 11:54 <a href="https://en.wikipedia.org/wiki/Nazi_human_experimentation#Modern_ethical_issues">Nazi human experimentation - Wikipedia</a></li>
+<li> 11:54 <a href="https://en.wikipedia.org/wiki/Nazi_human_experimentation">Nazi human experimentation - Wikipedia</a></li>
+<li> 11:54 www.google.com</li>
+<li> 11:53 ia800602.us.archive.org</li>
+<li class='same'> 11:52 ia800602.us.archive.org</li>
+<li> 11:51 outlook.office365.com</li>
+<li> 11:50 scholar.google.com</li>
+<li> 11:50 www.google.com</li>
+<li> 11:50 outlook.office365.com</li>
+<li class='same'> 11:49 outlook.office365.com</li>
+<li class='same'> 11:47 outlook.office365.com</li>
+<li> 11:45 www.google.com</li>
+<li> 11:45 www.infosecurity-magazine.com</li>
+<li> 11:45 outlook.office365.com</li>
+<li class='same'> 11:44 outlook.office365.com</li>
+<li> 11:44 calendar.google.com</li>
+<li> 11:44 outlook.office365.com</li>
+<li class='same'> 11:43 outlook.office365.com</li>
+<li class='same'> 11:42 outlook.office365.com</li>
+<li class='same'> 11:37 outlook.office365.com</li>
+<li class='same'> 11:27 outlook.office365.com</li>
 <li> 11:26 teams.microsoft.com</li>
 <li> 11:24 outlook.office365.com</li>
 <li class='same'> 11:19 outlook.office365.com</li>
