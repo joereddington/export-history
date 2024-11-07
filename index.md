@@ -82,14 +82,14 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (877)</li>
 <li>gmail.com (754)</li>
-<li>www.linkedin.com (750)</li>
+<li>www.linkedin.com (751)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (642)</li>
 <li>login.microsoftonline.com (603)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>web.whatsapp.com (485)</li>
+<li>web.whatsapp.com (486)</li>
 <li>drive.google.com (457)</li>
 <li>kdp.amazon.com (446)</li>
 <li>teams.microsoft.com (445)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:06 www.linkedin.com</li>
+<ul><li> 09:19 web.whatsapp.com</li>
+<li> 09:11 51.148.131.133:8000</li>
+<li> 09:08 www.linkedin.com</li>
+<li class='same'> 09:06 www.linkedin.com</li>
 <li> 09:05 calendar.google.com</li>
 <li class='same'> 09:04 calendar.google.com</li>
 <li class='same'> 09:03 calendar.google.com</li>
