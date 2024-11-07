@@ -74,27 +74,27 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (2878)</li>
 <li>docs.google.com (1949)</li>
 <li>calendar.google.com (1484)</li>
-<li>www.reddit.com (1430)</li>
+<li>www.reddit.com (1433)</li>
 <li>moodle.royalholloway.ac.uk (1423)</li>
-<li>outlook.office365.com (1284)</li>
+<li>outlook.office365.com (1297)</li>
 <li>www.amazon.co.uk (1249)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (877)</li>
+<li>www.linkedin.com (754)</li>
 <li>gmail.com (754)</li>
-<li>www.linkedin.com (753)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (642)</li>
-<li>login.microsoftonline.com (604)</li>
+<li>login.microsoftonline.com (605)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>web.whatsapp.com (486)</li>
+<li>web.whatsapp.com (487)</li>
 <li>drive.google.com (457)</li>
 <li>kdp.amazon.com (446)</li>
 <li>teams.microsoft.com (445)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (400)</li>
+<li>rhul-my.sharepoint.com (401)</li>
 <li>chatgpt.com (349)</li>
 <li>rhul.sharepoint.com (342)</li>
 <li>www.giantitp.com (325)</li>
@@ -105,6 +105,32 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 07/11/24</H3>
+
+<br>
+
+<ul><li> 13:15 login.microsoftonline.com</li>
+<li> 13:15 forms.office.com</li>
+<li> 13:13 www.reddit.com</li>
+<li> 13:11 web.whatsapp.com</li>
+<li> 13:11 outlook.office365.com</li>
+<li class='same'> 13:10 outlook.office365.com</li>
+<li class='same'> 13:09 outlook.office365.com</li>
+<li> 13:06 rhul-my.sharepoint.com</li>
+<li> 13:00 outlook.office365.com</li>
+<li> 12:56 www.reddit.com</li>
+<li class='same'> 12:55 www.reddit.com</li>
+<li> 12:54 outlook.office365.com</li>
+<li class='same'> 12:53 outlook.office365.com</li>
+<li class='same'> 12:47 outlook.office365.com</li>
+<li class='same'> 12:46 outlook.office365.com</li>
+<li> 12:39 51.148.131.133:8000</li>
+<li> 12:35 outlook.office365.com</li>
+<li> 12:35 www.linkedin.com</li>
+<li> 12:34 outlook.office365.com</li>
+<li class='same'> 12:29 outlook.office365.com</li>
+<li class='same'> 12:27 outlook.office365.com</li>
+<li class='same'> 12:26 outlook.office365.com</li>
+</ul>
 
 <br>
 
