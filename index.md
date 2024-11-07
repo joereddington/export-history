@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8816)</li>
+<ol><li>www.google.com (8817)</li>
 <li>mail.google.com (6097)</li>
-<li>outlook.office.com (3583)</li>
+<li>outlook.office.com (3585)</li>
 <li>www.facebook.com (2873)</li>
-<li>docs.google.com (1946)</li>
+<li>docs.google.com (1947)</li>
 <li>calendar.google.com (1481)</li>
 <li>www.reddit.com (1430)</li>
 <li>moodle.royalholloway.ac.uk (1423)</li>
-<li>outlook.office365.com (1278)</li>
-<li>www.amazon.co.uk (1245)</li>
+<li>outlook.office365.com (1279)</li>
+<li>www.amazon.co.uk (1248)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (877)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (642)</li>
-<li>login.microsoftonline.com (602)</li>
+<li>login.microsoftonline.com (603)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (485)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (446)</li>
 <li>teams.microsoft.com (445)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (396)</li>
+<li>rhul-my.sharepoint.com (398)</li>
 <li>chatgpt.com (349)</li>
 <li>rhul.sharepoint.com (342)</li>
 <li>www.giantitp.com (325)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:00 feedly.com</li>
+<ul><li> 07:18 Local file</li>
+<li> 07:18 rhul-my.sharepoint.com</li>
+<li class='same'> 07:17 rhul-my.sharepoint.com</li>
+<li> 07:17 outlook.office.com</li>
+<li> 07:17 outlook.office365.com</li>
+<li> 07:17 outlook.office.com</li>
+<li> 07:17 login.microsoftonline.com</li>
+<li> 07:17 mail.rhul.ac.uk</li>
+<li> 07:16 www.amazon.co.uk</li>
+<li class='same'> 07:15 www.amazon.co.uk</li>
+<li> 07:15 docs.google.com</li>
+<li> 07:15 www.amazon.co.uk</li>
+<li> 07:15 www.google.com</li>
+<li> 07:00 feedly.com</li>
 <li> 06:59 www.google.com</li>
 <li> 06:59 www.amazon.co.uk</li>
 <li> 06:59 www.facebook.com</li>
@@ -18414,7 +18427,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:28 www.amazon.co.uk</li>
 <li class='same'> 18:27 www.amazon.co.uk</li>
 <li class='same'> 18:26 www.amazon.co.uk</li>
-<li> 18:25 www.ebay.co.uk</li>
 <li> 18:25 www.halfords.com</li>
 <li> 18:24 www.google.com</li>
 <li> 18:24 www.ebay.co.uk</li>
