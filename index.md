@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8824)</li>
+<ol><li>www.google.com (8827)</li>
 <li>mail.google.com (6097)</li>
 <li>outlook.office.com (3586)</li>
 <li>www.facebook.com (2878)</li>
@@ -76,17 +76,17 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1484)</li>
 <li>www.reddit.com (1430)</li>
 <li>moodle.royalholloway.ac.uk (1423)</li>
-<li>outlook.office365.com (1279)</li>
+<li>outlook.office365.com (1284)</li>
 <li>www.amazon.co.uk (1249)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (877)</li>
 <li>gmail.com (754)</li>
-<li>www.linkedin.com (751)</li>
+<li>www.linkedin.com (753)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (642)</li>
-<li>login.microsoftonline.com (603)</li>
+<li>login.microsoftonline.com (604)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (486)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (446)</li>
 <li>teams.microsoft.com (445)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (398)</li>
+<li>rhul-my.sharepoint.com (400)</li>
 <li>chatgpt.com (349)</li>
 <li>rhul.sharepoint.com (342)</li>
 <li>www.giantitp.com (325)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:07 <a href="https://en.wikipedia.org/wiki/Security_controls">Security controls - Wikipedia</a></li>
+<ul><li> 11:55 rhul-my.sharepoint.com</li>
+<li> 11:55 outlook.office365.com</li>
+<li class='same'> 11:53 outlook.office365.com</li>
+<li> 11:52 www.lboro.ac.uk</li>
+<li> 11:52 www.gre.ac.uk</li>
+<li> 11:51 www.google.com</li>
+<li> 11:51 www.nottingham.ac.uk</li>
+<li> 11:51 wonkhe.com</li>
+<li> 11:51 www.membershipresources.qaa.ac.uk</li>
+<li> 11:50 www.hepi.ac.uk</li>
+<li> 11:50 www.google.com</li>
+<li> 11:50 www.varsity.co.uk</li>
+<li class='same'> 11:49 www.varsity.co.uk</li>
+<li> 11:49 www.google.com</li>
+<li> 11:43 www.linkedin.com</li>
+<li class='same'> 11:42 www.linkedin.com</li>
+<li> 11:42 outlook.office365.com</li>
+<li> 11:35 <a href="https://en.wikipedia.org/wiki/Starship_Troopers_(film)">Starship Troopers (film) - Wikipedia</a></li>
+<li> 11:35 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 11:35 outlook.office365.com</li>
+<li> 11:23 rhul-my.sharepoint.com</li>
+<li> 11:23 outlook.office365.com</li>
+<li> 11:23 login.microsoftonline.com</li>
+<li> 11:07 <a href="https://en.wikipedia.org/wiki/Security_controls">Security controls - Wikipedia</a></li>
 <li> 11:00 rhul.hosted.panopto.com</li>
 <li class='same'> 10:59 rhul.hosted.panopto.com</li>
 <li> 10:56 <a href="https://en.wikipedia.org/wiki/ISO/IEC_27001">ISO/IEC 27001 - Wikipedia</a></li>
