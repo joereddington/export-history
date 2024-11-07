@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8827)</li>
-<li>mail.google.com (6097)</li>
+<ol><li>www.google.com (8833)</li>
+<li>mail.google.com (6098)</li>
 <li>outlook.office.com (3586)</li>
-<li>www.facebook.com (2878)</li>
+<li>www.facebook.com (2880)</li>
 <li>docs.google.com (1949)</li>
 <li>calendar.google.com (1484)</li>
 <li>www.reddit.com (1433)</li>
@@ -81,8 +81,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (877)</li>
-<li>www.linkedin.com (754)</li>
-<li>gmail.com (754)</li>
+<li>www.linkedin.com (755)</li>
+<li>gmail.com (755)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (642)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:15 login.microsoftonline.com</li>
+<ul><li> 14:07 www.google.com</li>
+<li> 14:04 equalitytime.co.uk</li>
+<li> 14:04 www.google.com</li>
+<li> 14:00 www.mmu.ac.uk</li>
+<li> 14:00 www.facebook.com</li>
+<li> 14:00 www.google.com</li>
+<li> 14:00 www.hashtagme.com</li>
+<li class='same'> 13:56 www.hashtagme.com</li>
+<li> 13:53 static1.squarespace.com</li>
+<li> 13:53 www.hashtagme.com</li>
+<li> 13:53 www.google.com</li>
+<li> 13:44 www.ntu.ac.uk</li>
+<li> 13:43 www.google.com</li>
+<li> 13:43 www.prospects.ac.uk</li>
+<li> 13:42 www.google.com</li>
+<li> 13:42 www.facebook.com</li>
+<li> 13:29 www.linkedin.com</li>
+<li> 13:27 mail.google.com</li>
+<li> 13:27 gmail.com</li>
+<li> 13:16 forms.office.com</li>
+<li> 13:15 login.microsoftonline.com</li>
 <li> 13:15 forms.office.com</li>
 <li> 13:13 www.reddit.com</li>
 <li> 13:11 web.whatsapp.com</li>
