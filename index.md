@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8833)</li>
+<ol><li>www.google.com (8836)</li>
 <li>mail.google.com (6098)</li>
 <li>outlook.office.com (3586)</li>
-<li>www.facebook.com (2880)</li>
+<li>www.facebook.com (2888)</li>
 <li>docs.google.com (1949)</li>
 <li>calendar.google.com (1484)</li>
 <li>www.reddit.com (1433)</li>
 <li>moodle.royalholloway.ac.uk (1423)</li>
-<li>outlook.office365.com (1297)</li>
+<li>outlook.office365.com (1303)</li>
 <li>www.amazon.co.uk (1249)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (605)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>web.whatsapp.com (487)</li>
+<li>web.whatsapp.com (488)</li>
 <li>drive.google.com (457)</li>
 <li>kdp.amazon.com (446)</li>
 <li>teams.microsoft.com (445)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:07 www.google.com</li>
+<ul><li> 15:22 outlook.office365.com</li>
+<li> 15:21 www.google.com</li>
+<li> 15:19 outlook.office365.com</li>
+<li class='same'> 15:17 outlook.office365.com</li>
+<li class='same'> 15:15 outlook.office365.com</li>
+<li> 15:14 www.legislation.gov.uk</li>
+<li> 15:14 www.google.com</li>
+<li> 15:13 www.ocado.com</li>
+<li> 15:13 www.google.com</li>
+<li> 15:12 outlook.office365.com</li>
+<li class='same'> 15:11 outlook.office365.com</li>
+<li> 15:05 www.facebook.com</li>
+<li class='same'> 15:01 www.facebook.com</li>
+<li class='same'> 15:00 www.facebook.com</li>
+<li class='same'> 14:52 www.facebook.com</li>
+<li class='same'> 14:51 www.facebook.com</li>
+<li class='same'> 14:50 www.facebook.com</li>
+<li class='same'> 14:47 www.facebook.com</li>
+<li class='same'> 14:45 www.facebook.com</li>
+<li> 14:28 web.whatsapp.com</li>
+<li> 14:07 www.google.com</li>
 <li> 14:04 equalitytime.co.uk</li>
 <li> 14:04 www.google.com</li>
 <li> 14:00 www.mmu.ac.uk</li>
