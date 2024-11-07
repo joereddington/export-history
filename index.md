@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8812)</li>
-<li>mail.google.com (6096)</li>
+<ol><li>www.google.com (8816)</li>
+<li>mail.google.com (6097)</li>
 <li>outlook.office.com (3583)</li>
-<li>www.facebook.com (2870)</li>
-<li>docs.google.com (1945)</li>
+<li>www.facebook.com (2873)</li>
+<li>docs.google.com (1946)</li>
 <li>calendar.google.com (1481)</li>
 <li>www.reddit.com (1430)</li>
 <li>moodle.royalholloway.ac.uk (1423)</li>
 <li>outlook.office365.com (1278)</li>
-<li>www.amazon.co.uk (1243)</li>
+<li>www.amazon.co.uk (1245)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (877)</li>
@@ -104,11 +104,36 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 07/11/24</H3>
+
+<br>
+
+<ul><li> 06:59 www.google.com</li>
+<li> 06:59 www.amazon.co.uk</li>
+<li> 06:59 www.facebook.com</li>
+<li class='same'> 06:55 www.facebook.com</li>
+<li> 06:54 adblockplus.org</li>
+<li> 06:54 www.facebook.com</li>
+<li> 06:53 51.148.131.133:8000</li>
+<li> 06:48 www.amazon.co.uk</li>
+<li> 06:48 www.google.com</li>
+<li> 06:47 docs.google.com</li>
+<li> 06:47 www.google.com</li>
+<li> 06:47 51.148.131.133:8000</li>
+</ul>
+
 <H3>Wednesday, 06/11/24</H3>
 
 <br>
 
-<ul><li> 18:02 www.ebay.co.uk</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 18:28 51.148.131.133:8000</li>
+<li> 18:27 mail.google.com</li>
+<li> 18:26 www.google.com</li>
+<li> 18:02 www.ebay.co.uk</li>
 <li class='same'> 18:01 www.ebay.co.uk</li>
 <li> 18:01 mail.google.com</li>
 <li class='same'> 18:00 mail.google.com</li>
