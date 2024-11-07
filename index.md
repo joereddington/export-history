@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:59 www.google.com</li>
+<ul><li> 07:00 feedly.com</li>
+<li> 06:59 www.google.com</li>
 <li> 06:59 www.amazon.co.uk</li>
 <li> 06:59 www.facebook.com</li>
 <li class='same'> 06:55 www.facebook.com</li>
