@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8839)</li>
+<ol><li>www.google.com (8836)</li>
 <li>mail.google.com (6098)</li>
-<li>outlook.office.com (3588)</li>
+<li>outlook.office.com (3587)</li>
 <li>www.facebook.com (2888)</li>
 <li>docs.google.com (1949)</li>
 <li>calendar.google.com (1484)</li>
@@ -91,8 +91,8 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (488)</li>
 <li>drive.google.com (457)</li>
-<li>kdp.amazon.com (446)</li>
 <li>teams.microsoft.com (445)</li>
+<li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (401)</li>
 <li>chatgpt.com (349)</li>
@@ -18372,7 +18372,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:32 forum.artofmemory.com</li>
 <li> 17:31 artofmemory.com</li>
 <li> 17:31 kdp.amazon.com</li>
-<li class='same'> 17:30 kdp.amazon.com</li>
 <li class='same'> 17:28 kdp.amazon.com</li>
 <li> 17:22 <a href="https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird#/media/File:Lockheed_SR-71A_Blackbird,_National_Museum_of_the_United_States_Air_Force,_Wright-Patterson_Air_Force_Base,_near_Dayton,_Ohio,_USA,_cockpit,_forward_view.png">Lockheed SR-71 Blackbird - Wikipedia</a></li>
 <li> 17:22 <a href="https://en.wikipedia.org/wiki/Lockheed_Martin_SR-72">Lockheed Martin SR-72 - Wikipedia</a></li>
@@ -18428,8 +18427,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:23 gitlab.cim.rhul.ac.uk</li>
 <li> 13:23 outlook.office.com</li>
 <li class='same'> 13:22 outlook.office.com</li>
-<li> 13:22 kdp.amazon.com</li>
-<li> 13:22 outlook.office.com</li>
 <li> 13:22 kdp.amazon.com</li>
 <li> 13:22 outlook.office.com</li>
 <li> 13:22 kdp.amazon.com</li>
@@ -18520,8 +18517,7 @@ With number of accesses/minutes in parentheses
 <li> 11:29 mail.google.com</li>
 <li> 11:27 <a href="https://www.youtube.com/watch?v=HlBYdiXdUa8">(79) I Want It That Way | Brooklyn Nine-Nine - YouTube</a></li>
 <li> 11:27 www.reddit.com</li>
-<li> 11:27 www.google.com</li>
-<li> 11:26 www.reddit.com</li>
+<li class='same'> 11:26 www.reddit.com</li>
 <li> 11:26 www.google.com</li>
 <li> 11:25 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 11:20 www.qiq.support</li>
@@ -18594,9 +18590,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:32 mail.google.com</li>
 <li> 09:32 calendar.google.com</li>
 <li> 09:32 mail.google.com</li>
-<li> 09:28 www.google.com</li>
-<li class='same'> 09:27 www.google.com</li>
-<li class='same'> 09:26 www.google.com</li>
+<li> 09:26 www.google.com</li>
 <li> 09:24 www.reddit.com</li>
 <li> 09:24 www.google.com</li>
 <li> 09:22 mail.google.com</li>
