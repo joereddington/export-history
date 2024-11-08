@@ -86,14 +86,14 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (643)</li>
-<li>login.microsoftonline.com (609)</li>
+<li>login.microsoftonline.com (612)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (488)</li>
 <li>drive.google.com (457)</li>
 <li>teams.microsoft.com (445)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (405)</li>
+<li>rhul-my.sharepoint.com (407)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (351)</li>
 <li>rhul.sharepoint.com (344)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 08/11/24</H3>
+
+<br>
+
+<ul><li> 14:39 rhul-my.sharepoint.com</li>
+<li> 14:32 login.microsoftonline.com</li>
+<li> 14:32 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
+<li> 14:26 login.microsoftonline.com</li>
+<li> 14:26 forms.office.com</li>
+<li> 14:26 rhul-my.sharepoint.com</li>
+<li> 14:26 forms.office.com</li>
+<li class='same'> 14:25 forms.office.com</li>
+<li> 14:25 login.microsoftonline.com</li>
+<li> 14:25 forms.office.com</li>
+</ul>
 
 <br>
 
