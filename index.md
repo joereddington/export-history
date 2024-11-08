@@ -75,26 +75,26 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1949)</li>
 <li>calendar.google.com (1484)</li>
 <li>www.reddit.com (1433)</li>
-<li>moodle.royalholloway.ac.uk (1425)</li>
-<li>outlook.office365.com (1339)</li>
+<li>moodle.royalholloway.ac.uk (1429)</li>
+<li>outlook.office365.com (1350)</li>
 <li>www.amazon.co.uk (1249)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (877)</li>
-<li>www.linkedin.com (755)</li>
+<li>www.linkedin.com (756)</li>
 <li>gmail.com (755)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (643)</li>
-<li>login.microsoftonline.com (608)</li>
+<li>login.microsoftonline.com (609)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (488)</li>
 <li>drive.google.com (457)</li>
 <li>teams.microsoft.com (445)</li>
 <li>kdp.amazon.com (444)</li>
+<li>rhul-my.sharepoint.com (405)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (403)</li>
 <li>chatgpt.com (351)</li>
 <li>rhul.sharepoint.com (344)</li>
 <li>www.giantitp.com (325)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:07 rhul-my.sharepoint.com</li>
+<ul><li> 12:56 outlook.office365.com</li>
+<li class='same'> 12:53 outlook.office365.com</li>
+<li> 12:46 www.linkedin.com</li>
+<li> 12:46 outlook.office365.com</li>
+<li> 12:45 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:44 moodle.royalholloway.ac.uk</li>
+<li> 12:44 outlook.office365.com</li>
+<li class='same'> 12:43 outlook.office365.com</li>
+<li class='same'> 12:22 outlook.office365.com</li>
+<li class='same'> 12:21 outlook.office365.com</li>
+<li class='same'> 12:19 outlook.office365.com</li>
+<li> 12:18 moodle.royalholloway.ac.uk</li>
+<li> 12:18 login.microsoftonline.com</li>
+<li> 12:18 moodle.royalholloway.ac.uk</li>
+<li> 12:17 rhul-my.sharepoint.com</li>
+<li> 12:14 outlook.office365.com</li>
+<li class='same'> 12:13 outlook.office365.com</li>
+<li class='same'> 12:11 outlook.office365.com</li>
+<li> 12:11 rhul-my.sharepoint.com</li>
+<li class='same'> 12:07 rhul-my.sharepoint.com</li>
 <li> 12:07 login.microsoftonline.com</li>
 <li> 12:07 rhul-my.sharepoint.com</li>
 <li> 12:05 outlook.office365.com</li>
