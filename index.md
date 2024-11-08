@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8839)</li>
+<ol><li>www.google.com (8845)</li>
 <li>mail.google.com (6124)</li>
 <li>outlook.office.com (3587)</li>
 <li>www.facebook.com (2905)</li>
 <li>docs.google.com (1949)</li>
 <li>calendar.google.com (1488)</li>
-<li>www.reddit.com (1436)</li>
+<li>www.reddit.com (1437)</li>
 <li>moodle.royalholloway.ac.uk (1429)</li>
-<li>outlook.office365.com (1361)</li>
+<li>outlook.office365.com (1362)</li>
 <li>www.amazon.co.uk (1249)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -105,6 +105,41 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 08/11/24</H3>
+
+<br>
+
+<ul><li> 18:50 www.reddit.com</li>
+<li> 18:50 www.google.com</li>
+<li class='same'> 18:46 www.google.com</li>
+<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(12957386475).jpg">Guy Standing (economist) - Wikipedia</a></li>
+<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(sitting)_in_2012.jpg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
+<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(12957386475).jpg">Guy Standing (economist) - Wikipedia</a></li>
+<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Co-op_activism5.svg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
+<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(sitting)_in_2012.jpg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
+<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Co-op_activism5.svg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
+<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(12957386475).jpg">Guy Standing (economist) - Wikipedia</a></li>
+<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)#/media/File:Guy_Standing_(sitting)_in_2012.jpg">Guy Standing (12957386475) - Guy Standing (economist) - Wikipedia</a></li>
+<li> 18:37 <a href="https://en.wikipedia.org/wiki/Guy_Standing_(economist)">Guy Standing (economist) - Wikipedia</a></li>
+<li> 18:37 www.google.com</li>
+<li> 18:36 <a href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol?wprov=srpw1_0">Hyper Text Coffee Pot Control Protocol - Wikipedia</a></li>
+<li> 18:36 <a href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol">Hyper Text Coffee Pot Control Protocol - Wikipedia</a></li>
+<li> 18:36 <a href="https://en.wikipedia.org/w/index.php?search=error+418&title=Special%3ASearch&ns0=1&searchToken=1bic247u5m5n8wunpwixvb4ni">error 418 - Search results - Wikipedia</a></li>
+<li> 18:36 <a href="https://en.wikipedia.org/w/index.php?search=error+418&title=Special%3ASearch&ns0=1">error 418 - Search results - Wikipedia</a></li>
+<li> 18:34 <a href="https://en.wikipedia.org/wiki/Box">Box - Wikipedia</a></li>
+<li> 18:34 <a href="https://en.wikipedia.org/wiki/Jacob%27s_Ladder">Jacob's Ladder - Wikipedia</a></li>
+<li> 18:34 www.google.com</li>
+<li class='same'> 18:33 www.google.com</li>
+<li> 18:14 outlook.office365.com</li>
+<li> 18:12 jobs.royalholloway.ac.uk</li>
+<li class='same'> 18:11 jobs.royalholloway.ac.uk</li>
+<li class='same'> 18:10 jobs.royalholloway.ac.uk</li>
+<li> 18:10 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:31 rhul.hosted.panopto.com</li>
+</ul>
 
 <br>
 
