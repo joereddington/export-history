@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8836)</li>
-<li>mail.google.com (6098)</li>
+<ol><li>www.google.com (8837)</li>
+<li>mail.google.com (6100)</li>
 <li>outlook.office.com (3587)</li>
-<li>www.facebook.com (2896)</li>
+<li>www.facebook.com (2904)</li>
 <li>docs.google.com (1949)</li>
 <li>calendar.google.com (1484)</li>
-<li>www.reddit.com (1433)</li>
+<li>www.reddit.com (1436)</li>
 <li>moodle.royalholloway.ac.uk (1429)</li>
-<li>outlook.office365.com (1350)</li>
+<li>outlook.office365.com (1356)</li>
 <li>www.amazon.co.uk (1249)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (877)</li>
-<li>www.linkedin.com (756)</li>
-<li>gmail.com (755)</li>
+<li>www.linkedin.com (758)</li>
+<li>gmail.com (756)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (643)</li>
-<li>login.microsoftonline.com (612)</li>
+<li>chat.openai.com (644)</li>
+<li>login.microsoftonline.com (613)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>web.whatsapp.com (488)</li>
+<li>web.whatsapp.com (489)</li>
 <li>drive.google.com (457)</li>
 <li>teams.microsoft.com (445)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (407)</li>
+<li>rhul-my.sharepoint.com (410)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (351)</li>
+<li>chatgpt.com (353)</li>
 <li>rhul.sharepoint.com (344)</li>
 <li>www.giantitp.com (325)</li>
 
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:39 rhul-my.sharepoint.com</li>
+<ul><li> 16:01 mail.google.com</li>
+<li class='same'> 16:00 mail.google.com</li>
+<li> 16:00 gmail.com</li>
+<li> 16:00 outlook.office365.com</li>
+<li class='same'> 15:59 outlook.office365.com</li>
+<li> 15:52 www.reddit.com</li>
+<li class='same'> 15:51 www.reddit.com</li>
+<li class='same'> 15:50 www.reddit.com</li>
+<li> 15:50 web.whatsapp.com</li>
+<li> 15:47 www.linkedin.com</li>
+<li> 15:44 rhul-my.sharepoint.com</li>
+<li> 15:44 forms.office.com</li>
+<li class='same'> 15:40 forms.office.com</li>
+<li> 15:40 login.microsoftonline.com</li>
+<li> 15:40 forms.office.com</li>
+<li> 15:40 rhul-my.sharepoint.com</li>
+<li> 15:39 www.facebook.com</li>
+<li> 15:38 www.adobe.com</li>
+<li> 15:38 www.google.com</li>
+<li> 15:36 www.facebook.com</li>
+<li> 15:36 outlook.office365.com</li>
+<li> 15:30 rhul-my.sharepoint.com</li>
+<li> 15:23 www.linkedin.com</li>
+<li> 15:20 www.facebook.com</li>
+<li class='same'> 15:19 www.facebook.com</li>
+<li class='same'> 15:18 www.facebook.com</li>
+<li class='same'> 15:17 www.facebook.com</li>
+<li class='same'> 15:16 www.facebook.com</li>
+<li class='same'> 15:13 www.facebook.com</li>
+<li> 15:11 chatgpt.com</li>
+<li class='same'> 15:10 chatgpt.com</li>
+<li> 15:10 chat.openai.com</li>
+<li> 15:10 outlook.office365.com</li>
+<li class='same'> 15:03 outlook.office365.com</li>
+<li class='same'> 15:02 outlook.office365.com</li>
+<li> 14:39 rhul-my.sharepoint.com</li>
 <li> 14:32 login.microsoftonline.com</li>
 <li> 14:32 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
 <li> 14:26 login.microsoftonline.com</li>
