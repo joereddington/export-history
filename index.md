@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (755)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (642)</li>
+<li>chat.openai.com (643)</li>
 <li>login.microsoftonline.com (607)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul-my.sharepoint.com (401)</li>
-<li>chatgpt.com (349)</li>
+<li>chatgpt.com (351)</li>
 <li>rhul.sharepoint.com (344)</li>
 <li>www.giantitp.com (325)</li>
 
@@ -104,7 +104,20 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 08/11/24</H3>
+
+<br>
+
+<ul><li> 08:00 chatgpt.com</li>
+<li class='same'> 07:59 chatgpt.com</li>
+<li> 07:59 chat.openai.com</li>
+</ul>
+
 <H3>Thursday, 07/11/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
