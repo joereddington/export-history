@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (8836)</li>
 <li>mail.google.com (6098)</li>
 <li>outlook.office.com (3587)</li>
-<li>www.facebook.com (2888)</li>
+<li>www.facebook.com (2896)</li>
 <li>docs.google.com (1949)</li>
 <li>calendar.google.com (1484)</li>
 <li>www.reddit.com (1433)</li>
 <li>moodle.royalholloway.ac.uk (1425)</li>
-<li>outlook.office365.com (1319)</li>
+<li>outlook.office365.com (1339)</li>
 <li>www.amazon.co.uk (1249)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (643)</li>
-<li>login.microsoftonline.com (607)</li>
+<li>login.microsoftonline.com (608)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>web.whatsapp.com (488)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (445)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul-my.sharepoint.com (401)</li>
+<li>rhul-my.sharepoint.com (403)</li>
 <li>chatgpt.com (351)</li>
 <li>rhul.sharepoint.com (344)</li>
 <li>www.giantitp.com (325)</li>
@@ -105,6 +105,42 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 08/11/24</H3>
+
+<br>
+
+<ul><li> 12:07 rhul-my.sharepoint.com</li>
+<li> 12:07 login.microsoftonline.com</li>
+<li> 12:07 rhul-my.sharepoint.com</li>
+<li> 12:05 outlook.office365.com</li>
+<li class='same'> 12:00 outlook.office365.com</li>
+<li class='same'> 11:56 outlook.office365.com</li>
+<li class='same'> 11:55 outlook.office365.com</li>
+<li class='same'> 11:54 outlook.office365.com</li>
+<li class='same'> 11:37 outlook.office365.com</li>
+<li class='same'> 11:36 outlook.office365.com</li>
+<li class='same'> 11:33 outlook.office365.com</li>
+<li class='same'> 11:32 outlook.office365.com</li>
+<li class='same'> 11:31 outlook.office365.com</li>
+<li class='same'> 11:30 outlook.office365.com</li>
+<li> 11:30 www.facebook.com</li>
+<li class='same'> 11:29 www.facebook.com</li>
+<li class='same'> 11:28 www.facebook.com</li>
+<li class='same'> 11:27 www.facebook.com</li>
+<li class='same'> 11:26 www.facebook.com</li>
+<li class='same'> 11:25 www.facebook.com</li>
+<li class='same'> 11:23 www.facebook.com</li>
+<li class='same'> 11:22 www.facebook.com</li>
+<li> 11:22 outlook.office365.com</li>
+<li class='same'> 11:21 outlook.office365.com</li>
+<li class='same'> 11:19 outlook.office365.com</li>
+<li class='same'> 11:18 outlook.office365.com</li>
+<li class='same'> 11:14 outlook.office365.com</li>
+<li> 11:14 adventofcode.com</li>
+<li> 11:13 outlook.office365.com</li>
+<li class='same'> 11:12 outlook.office365.com</li>
+<li class='same'> 11:11 outlook.office365.com</li>
+<li class='same'> 11:09 outlook.office365.com</li>
+</ul>
 
 <br>
 
