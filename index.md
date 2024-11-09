@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8849)</li>
+<ol><li>www.google.com (8850)</li>
 <li>mail.google.com (6126)</li>
 <li>outlook.office.com (3589)</li>
 <li>www.facebook.com (2906)</li>
-<li>docs.google.com (1949)</li>
+<li>docs.google.com (1950)</li>
 <li>calendar.google.com (1489)</li>
 <li>www.reddit.com (1437)</li>
 <li>moodle.royalholloway.ac.uk (1429)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:48 bsky.app</li>
+<ul><li> 14:55 www.google.com</li>
+<li> 14:53 <a href="https://joereddington.com/2024/02/26/emotional-vampires.html">Emotional Vampires! | Joe Reddington</a></li>
+<li> 14:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 14:53 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 14:50 docs.google.com</li>
+<li> 14:50 www.instagram.com</li>
+<li> 14:48 bsky.app</li>
 <li class='same'> 14:47 bsky.app</li>
 <li> 14:46 www.google.com</li>
 <li> 14:45 mail.google.com</li>
