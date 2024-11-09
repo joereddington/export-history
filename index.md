@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (8850)</li>
 <li>mail.google.com (6126)</li>
 <li>outlook.office.com (3589)</li>
-<li>www.facebook.com (2906)</li>
+<li>www.facebook.com (2909)</li>
 <li>docs.google.com (1950)</li>
 <li>calendar.google.com (1489)</li>
 <li>www.reddit.com (1437)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:55 www.google.com</li>
+<ul><li> 15:05 www.facebook.com</li>
+<li class='same'> 15:01 www.facebook.com</li>
+<li> 15:01 claude.ai</li>
+<li> 15:00 www.facebook.com</li>
+<li> 15:00 www.instagram.com</li>
+<li> 14:55 www.google.com</li>
 <li> 14:53 <a href="https://joereddington.com/2024/02/26/emotional-vampires.html">Emotional Vampires! | Joe Reddington</a></li>
 <li> 14:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:53 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
