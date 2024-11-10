@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8850)</li>
-<li>mail.google.com (6126)</li>
+<li>mail.google.com (6127)</li>
 <li>outlook.office.com (3589)</li>
 <li>www.facebook.com (2909)</li>
 <li>docs.google.com (1950)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:05 www.facebook.com</li>
+<ul><li> 15:07 mail.google.com</li>
+<li> 15:05 www.facebook.com</li>
 <li class='same'> 15:01 www.facebook.com</li>
 <li> 15:01 claude.ai</li>
 <li> 15:00 www.facebook.com</li>
