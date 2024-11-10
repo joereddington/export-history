@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8850)</li>
+<ol><li>www.google.com (8857)</li>
 <li>mail.google.com (6127)</li>
 <li>outlook.office.com (3589)</li>
 <li>www.facebook.com (2909)</li>
 <li>docs.google.com (1950)</li>
 <li>calendar.google.com (1489)</li>
-<li>www.reddit.com (1437)</li>
+<li>www.reddit.com (1438)</li>
 <li>moodle.royalholloway.ac.uk (1429)</li>
 <li>outlook.office365.com (1363)</li>
 <li>www.amazon.co.uk (1249)</li>
@@ -104,7 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 10/11/24</H3>
+
+<br>
+
+<ul><li> 13:38 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:24 www.reddit.com</li>
+<li> 07:24 www.google.com</li>
+</ul>
+
 <H3>Saturday, 09/11/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:19 www.google.com</li>
+<li> 21:19 www.britishjudo.org.uk</li>
+</ul>
 
 <br>
 
@@ -137,6 +160,19 @@ With number of accesses/minutes in parentheses
 <li> 14:28 www.facebook.com</li>
 </ul>
 
+<br>
+
+<ul><li> 11:11 www.britishjudo.org.uk</li>
+<li> 11:11 www.google.com</li>
+<li> 11:11 www.britishjudo.org.uk</li>
+<li> 11:11 www.google.com</li>
+<li> 11:10 www.britishjudo.org.uk</li>
+<li class='same'> 11:09 www.britishjudo.org.uk</li>
+<li> 11:09 www.google.com</li>
+<li> 11:09 www.britishjudo.org.uk</li>
+<li> 11:09 www.google.com</li>
+</ul>
+
 <H3>Friday, 08/11/24</H3>
 
 <br>
@@ -145,7 +181,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 23:57 www.google.com</li>
+<ul><li class='same'> 23:57 www.google.com</li>
 </ul>
 
 <br>
