@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8863)</li>
-<li>mail.google.com (6129)</li>
+<ol><li>www.google.com (8869)</li>
+<li>mail.google.com (6132)</li>
 <li>outlook.office.com (3594)</li>
 <li>www.facebook.com (2919)</li>
 <li>docs.google.com (1951)</li>
 <li>calendar.google.com (1490)</li>
 <li>www.reddit.com (1438)</li>
-<li>moodle.royalholloway.ac.uk (1429)</li>
+<li>moodle.royalholloway.ac.uk (1431)</li>
 <li>outlook.office365.com (1364)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (877)</li>
-<li>www.linkedin.com (763)</li>
-<li>gmail.com (758)</li>
+<li>www.linkedin.com (766)</li>
+<li>gmail.com (760)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (646)</li>
-<li>login.microsoftonline.com (618)</li>
+<li>login.microsoftonline.com (620)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (492)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (457)</li>
-<li>teams.microsoft.com (445)</li>
+<li>teams.microsoft.com (446)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (411)</li>
+<li>rhul-my.sharepoint.com (412)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (356)</li>
-<li>rhul.sharepoint.com (345)</li>
+<li>rhul.sharepoint.com (346)</li>
 <li>bsky.app (332)</li>
 
 
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:39 rhul-my.sharepoint.com</li>
+<ul><li> 11:34 www.linkedin.com</li>
+<li> 11:32 mail.google.com</li>
+<li> 11:32 gmail.com</li>
+<li> 11:30 ico.org.uk</li>
+<li> 11:30 www.google.com</li>
+<li> 11:29 privacyportal-de.onetrust.com</li>
+<li> 11:29 help.hollandandbarrett.com</li>
+<li> 11:29 www.google.com</li>
+<li> 11:25 rhul.hosted.panopto.com</li>
+<li> 11:16 moodle2324.royalholloway.ac.uk</li>
+<li> 11:16 login.microsoftonline.com</li>
+<li> 11:16 moodle2324.royalholloway.ac.uk</li>
+<li> 11:16 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:15 moodle.royalholloway.ac.uk</li>
+<li> 11:08 mail.google.com</li>
+<li> 11:05 www.linkedin.com</li>
+<li class='same'> 11:03 www.linkedin.com</li>
+<li> 11:01 rhul.hosted.panopto.com</li>
+<li> 11:00 www.google.com</li>
+<li> 10:59 rhul.hosted.panopto.com</li>
+<li class='same'> 10:58 rhul.hosted.panopto.com</li>
+<li> 10:58 login.microsoftonline.com</li>
+<li> 10:58 rhul.hosted.panopto.com</li>
+<li> 10:56 mail.google.com</li>
+<li> 10:56 gmail.com</li>
+<li> 10:54 kk.org</li>
+<li> 10:52 www.google.com</li>
+<li> 10:46 www.eff.org</li>
+<li> 10:46 rhul-my.sharepoint.com</li>
+<li> 10:45 rhul.sharepoint.com</li>
+<li> 10:44 teams.microsoft.com</li>
+<li> 10:43 www.google.com</li>
+<li class='same'> 10:41 www.google.com</li>
+<li> 10:39 rhul-my.sharepoint.com</li>
 <li> 10:32 0.0.0.0:8080</li>
 <li> 10:29 www.facebook.com</li>
 <li class='same'> 10:28 www.facebook.com</li>
