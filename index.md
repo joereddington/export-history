@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8881)</li>
+<ol><li>www.google.com (8882)</li>
 <li>mail.google.com (6133)</li>
 <li>outlook.office.com (3596)</li>
-<li>www.facebook.com (2921)</li>
+<li>www.facebook.com (2922)</li>
 <li>docs.google.com (1953)</li>
 <li>calendar.google.com (1495)</li>
 <li>www.reddit.com (1439)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (878)</li>
-<li>www.linkedin.com (780)</li>
+<li>www.linkedin.com (783)</li>
 <li>gmail.com (761)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (417)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>bsky.app (367)</li>
+<li>bsky.app (368)</li>
 <li>chatgpt.com (359)</li>
 <li>rhul.sharepoint.com (348)</li>
 
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:24 www.facebook.com</li>
+<li> 18:24 bsky.app</li>
+<li> 18:24 www.linkedin.com</li>
+<li class='same'> 18:23 www.linkedin.com</li>
+</ul>
+
+<br>
+
 <ul><li> 17:40 0.0.0.0:8080</li>
+<li> 17:38 www.linkedin.com</li>
+<li> 17:38 www.google.com</li>
 <li> 17:37 docs.google.com</li>
 <li> 17:35 www.facebook.com</li>
 <li> 17:33 www.linkedin.com</li>
