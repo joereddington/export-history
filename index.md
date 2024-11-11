@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8880)</li>
-<li>mail.google.com (6132)</li>
+<li>mail.google.com (6133)</li>
 <li>outlook.office.com (3594)</li>
 <li>www.facebook.com (2919)</li>
 <li>docs.google.com (1951)</li>
 <li>calendar.google.com (1490)</li>
 <li>www.reddit.com (1438)</li>
 <li>moodle.royalholloway.ac.uk (1431)</li>
-<li>outlook.office365.com (1375)</li>
+<li>outlook.office365.com (1378)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (878)</li>
-<li>www.linkedin.com (775)</li>
-<li>gmail.com (760)</li>
+<li>www.linkedin.com (776)</li>
+<li>gmail.com (761)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (647)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (414)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (357)</li>
-<li>bsky.app (349)</li>
+<li>bsky.app (352)</li>
 <li>rhul.sharepoint.com (346)</li>
 
 
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:37 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
+<ul><li> 15:16 www.linkedin.com</li>
+<li> 15:15 bsky.app</li>
+<li class='same'> 15:14 bsky.app</li>
+<li class='same'> 14:50 bsky.app</li>
+<li> 14:50 outlook.office365.com</li>
+<li> 14:49 mail.google.com</li>
+<li> 14:49 gmail.com</li>
+<li> 14:47 www.giantitp.com</li>
+<li> 14:47 outlook.office365.com</li>
+<li> 14:43 app.onlinesurveys.jisc.ac.uk</li>
+<li> 14:42 outlook.office365.com</li>
+<li> 14:37 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
 <li> 14:37 www.google.com</li>
 <li> 14:36 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 14:36 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
