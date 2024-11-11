@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8881)</li>
 <li>mail.google.com (6133)</li>
-<li>outlook.office.com (3594)</li>
+<li>outlook.office.com (3596)</li>
 <li>www.facebook.com (2919)</li>
-<li>docs.google.com (1951)</li>
-<li>calendar.google.com (1493)</li>
+<li>docs.google.com (1952)</li>
+<li>calendar.google.com (1495)</li>
 <li>www.reddit.com (1439)</li>
 <li>moodle.royalholloway.ac.uk (1431)</li>
-<li>outlook.office365.com (1382)</li>
+<li>outlook.office365.com (1383)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -90,12 +90,12 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (497)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (457)</li>
+<li>drive.google.com (459)</li>
 <li>teams.microsoft.com (447)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (417)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>bsky.app (363)</li>
+<li>bsky.app (365)</li>
 <li>chatgpt.com (359)</li>
 <li>rhul.sharepoint.com (348)</li>
 
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:19 calendar.google.com</li>
+<ul><li> 17:28 docs.google.com</li>
+<li> 17:28 drive.google.com</li>
+<li class='same'> 17:27 drive.google.com</li>
+<li> 17:26 bsky.app</li>
+<li class='same'> 17:25 bsky.app</li>
+<li> 17:25 outlook.office.com</li>
+<li> 17:25 calendar.google.com</li>
+<li> 17:24 outlook.office.com</li>
+<li> 17:24 outlook.office365.com</li>
+<li> 17:24 mail.rhul.ac.uk</li>
+<li> 17:24 calendar.google.com</li>
+<li class='same'> 17:19 calendar.google.com</li>
 <li> 17:15 web.whatsapp.com</li>
 <li> 17:13 www.google.com</li>
 <li> 17:12 calendar.google.com</li>
