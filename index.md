@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1490)</li>
 <li>www.reddit.com (1438)</li>
 <li>moodle.royalholloway.ac.uk (1431)</li>
-<li>outlook.office365.com (1378)</li>
+<li>outlook.office365.com (1379)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (414)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (357)</li>
-<li>bsky.app (352)</li>
-<li>rhul.sharepoint.com (346)</li>
+<li>bsky.app (353)</li>
+<li>rhul.sharepoint.com (347)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,9 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:16 www.linkedin.com</li>
+<ul><li> 15:19 rhul.sharepoint.com</li>
+<li> 15:16 www.linkedin.com</li>
 <li> 15:15 bsky.app</li>
 <li class='same'> 15:14 bsky.app</li>
+<li> 14:52 outlook.office365.com</li>
+<li> 14:51 bsky.app</li>
 <li class='same'> 14:50 bsky.app</li>
 <li> 14:50 outlook.office365.com</li>
 <li> 14:49 mail.google.com</li>
