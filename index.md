@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8880)</li>
+<ol><li>www.google.com (8881)</li>
 <li>mail.google.com (6133)</li>
 <li>outlook.office.com (3594)</li>
 <li>www.facebook.com (2919)</li>
 <li>docs.google.com (1951)</li>
-<li>calendar.google.com (1491)</li>
+<li>calendar.google.com (1493)</li>
 <li>www.reddit.com (1439)</li>
 <li>moodle.royalholloway.ac.uk (1431)</li>
 <li>outlook.office365.com (1382)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (648)</li>
 <li>login.microsoftonline.com (627)</li>
 <li>app.qbo.intuit.com (574)</li>
-<li>web.whatsapp.com (496)</li>
+<li>web.whatsapp.com (497)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (457)</li>
 <li>teams.microsoft.com (447)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:06 feedly.com</li>
+<ul><li> 17:19 calendar.google.com</li>
+<li> 17:15 web.whatsapp.com</li>
+<li> 17:13 www.google.com</li>
+<li> 17:12 calendar.google.com</li>
+<li> 17:06 feedly.com</li>
 <li> 17:03 0.0.0.0:8080</li>
 <li> 16:55 europeancyber.org</li>
 <li> 16:55 bsky.app</li>
