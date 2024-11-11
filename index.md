@@ -93,11 +93,11 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (457)</li>
 <li>teams.microsoft.com (445)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (410)</li>
+<li>rhul-my.sharepoint.com (411)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (356)</li>
 <li>rhul.sharepoint.com (345)</li>
-<li>bsky.app (330)</li>
+<li>bsky.app (332)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 www.facebook.com</li>
+<ul><li> 10:39 rhul-my.sharepoint.com</li>
+<li> 10:32 0.0.0.0:8080</li>
+<li> 10:29 www.facebook.com</li>
 <li class='same'> 10:28 www.facebook.com</li>
 <li class='same'> 10:27 www.facebook.com</li>
 <li class='same'> 10:26 www.facebook.com</li>
@@ -122,6 +124,8 @@ With number of accesses/minutes in parentheses
 <li> 10:14 chat.openai.com</li>
 <li> 10:06 web.whatsapp.com</li>
 <li> 10:05 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 09:48 bsky.app</li>
+<li class='same'> 09:46 bsky.app</li>
 <li> 09:41 docs.google.com</li>
 <li> 09:41 www.amazon.co.uk</li>
 <li> 09:41 www.google.com</li>
