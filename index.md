@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8862)</li>
 <li>mail.google.com (6129)</li>
-<li>outlook.office.com (3589)</li>
+<li>outlook.office.com (3592)</li>
 <li>www.facebook.com (2915)</li>
 <li>docs.google.com (1950)</li>
-<li>calendar.google.com (1489)</li>
+<li>calendar.google.com (1490)</li>
 <li>www.reddit.com (1438)</li>
 <li>moodle.royalholloway.ac.uk (1429)</li>
-<li>outlook.office365.com (1363)</li>
+<li>outlook.office365.com (1364)</li>
 <li>www.amazon.co.uk (1249)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (645)</li>
-<li>login.microsoftonline.com (617)</li>
+<li>login.microsoftonline.com (618)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (491)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:24 Local file</li>
+<ul><li> 09:38 outlook.office.com</li>
+<li class='same'> 09:37 outlook.office.com</li>
+<li> 09:37 outlook.office365.com</li>
+<li> 09:37 outlook.office.com</li>
+<li> 09:37 login.microsoftonline.com</li>
+<li> 09:37 mail.rhul.ac.uk</li>
+<li> 09:25 calendar.google.com</li>
+<li> 09:24 Local file</li>
 <li> 09:19 0.0.0.0:8000</li>
 <li> 09:02 mail.google.com</li>
 </ul>
