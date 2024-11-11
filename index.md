@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8871)</li>
+<ol><li>www.google.com (8874)</li>
 <li>mail.google.com (6132)</li>
 <li>outlook.office.com (3594)</li>
 <li>www.facebook.com (2919)</li>
@@ -76,28 +76,28 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1490)</li>
 <li>www.reddit.com (1438)</li>
 <li>moodle.royalholloway.ac.uk (1431)</li>
-<li>outlook.office365.com (1365)</li>
+<li>outlook.office365.com (1369)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (878)</li>
-<li>www.linkedin.com (771)</li>
+<li>www.linkedin.com (772)</li>
 <li>gmail.com (760)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (647)</li>
 <li>login.microsoftonline.com (621)</li>
 <li>app.qbo.intuit.com (574)</li>
-<li>web.whatsapp.com (492)</li>
+<li>web.whatsapp.com (493)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (457)</li>
-<li>teams.microsoft.com (446)</li>
+<li>teams.microsoft.com (447)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (414)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (357)</li>
 <li>rhul.sharepoint.com (346)</li>
-<li>bsky.app (336)</li>
+<li>bsky.app (338)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:40 bsky.app</li>
+<ul><li> 13:18 web.whatsapp.com</li>
+<li> 12:48 teams.microsoft.com</li>
+<li> 12:48 outlook.office365.com</li>
+<li> 12:48 bsky.app</li>
+<li class='same'> 12:47 bsky.app</li>
+<li> 12:47 www.linkedin.com</li>
+<li> 12:42 outlook.office365.com</li>
+<li> 12:41 thehackernews.com</li>
+<li> 12:41 www.google.com</li>
+<li> 12:41 <a href="https://en.wikipedia.org/wiki/Robinhood_Markets">Robinhood Markets - Wikipedia</a></li>
+<li> 12:41 www.google.com</li>
+<li> 12:41 outlook.office365.com</li>
+<li class='same'> 12:40 outlook.office365.com</li>
+<li> 12:40 www.google.com</li>
+<li> 12:40 bsky.app</li>
 <li> 12:36 www.linkedin.com</li>
 <li> 12:35 amp.theguardian.com</li>
 <li> 12:34 www.theguardian.com</li>
