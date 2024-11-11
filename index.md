@@ -73,31 +73,31 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3594)</li>
 <li>www.facebook.com (2919)</li>
 <li>docs.google.com (1951)</li>
-<li>calendar.google.com (1490)</li>
-<li>www.reddit.com (1438)</li>
+<li>calendar.google.com (1491)</li>
+<li>www.reddit.com (1439)</li>
 <li>moodle.royalholloway.ac.uk (1431)</li>
-<li>outlook.office365.com (1379)</li>
+<li>outlook.office365.com (1382)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (878)</li>
-<li>www.linkedin.com (776)</li>
+<li>www.linkedin.com (777)</li>
 <li>gmail.com (761)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (647)</li>
-<li>login.microsoftonline.com (621)</li>
+<li>login.microsoftonline.com (626)</li>
 <li>app.qbo.intuit.com (574)</li>
-<li>web.whatsapp.com (493)</li>
+<li>web.whatsapp.com (495)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (457)</li>
 <li>teams.microsoft.com (447)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (414)</li>
+<li>rhul-my.sharepoint.com (415)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (357)</li>
-<li>bsky.app (353)</li>
-<li>rhul.sharepoint.com (347)</li>
+<li>bsky.app (356)</li>
+<li>rhul.sharepoint.com (348)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:19 rhul.sharepoint.com</li>
+<ul><li> 16:04 calendar.google.com</li>
+<li> 16:03 www.reddit.com</li>
+<li> 16:02 outlook.office365.com</li>
+<li class='same'> 16:01 outlook.office365.com</li>
+<li> 16:00 www.linkedin.com</li>
+<li> 15:59 bsky.app</li>
+<li> 15:59 web.whatsapp.com</li>
+<li> 15:58 bsky.app</li>
+<li> 15:58 outlook.office365.com</li>
+<li> 15:57 web.whatsapp.com</li>
+<li> 15:54 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:54 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 15:54 login.microsoftonline.com</li>
+<li> 15:54 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:53 rhul.hosted.panopto.com</li>
+<li> 15:34 login.microsoftonline.com</li>
+<li> 15:34 forms.office.com</li>
+<li> 15:34 rhul-my.sharepoint.com</li>
+<li> 15:33 forms.office.com</li>
+<li> 15:33 login.microsoftonline.com</li>
+<li> 15:33 forms.office.com</li>
+<li> 15:33 experience.elluciancloud.ie</li>
+<li> 15:33 login.microsoftonline.com</li>
+<li> 15:33 experience.elluciancloud.ie</li>
+<li> 15:31 bsky.app</li>
+<li> 15:31 rhul.hosted.panopto.com</li>
+<li> 15:31 login.microsoftonline.com</li>
+<li> 15:30 rhul.hosted.panopto.com</li>
+<li> 15:25 rhul.sharepoint.com</li>
+<li class='same'> 15:19 rhul.sharepoint.com</li>
 <li> 15:16 www.linkedin.com</li>
 <li> 15:15 bsky.app</li>
 <li class='same'> 15:14 bsky.app</li>
