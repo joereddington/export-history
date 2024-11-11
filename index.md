@@ -86,17 +86,17 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (648)</li>
-<li>login.microsoftonline.com (626)</li>
+<li>login.microsoftonline.com (627)</li>
 <li>app.qbo.intuit.com (574)</li>
-<li>web.whatsapp.com (495)</li>
+<li>web.whatsapp.com (496)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (457)</li>
 <li>teams.microsoft.com (447)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (416)</li>
+<li>rhul-my.sharepoint.com (417)</li>
 <li>forum.artofmemory.com (403)</li>
+<li>bsky.app (363)</li>
 <li>chatgpt.com (359)</li>
-<li>bsky.app (356)</li>
 <li>rhul.sharepoint.com (348)</li>
 
 
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:09 rhul-my.sharepoint.com</li>
+<ul><li> 17:06 feedly.com</li>
+<li> 17:03 0.0.0.0:8080</li>
+<li> 16:55 europeancyber.org</li>
+<li> 16:55 bsky.app</li>
+<li class='same'> 16:54 bsky.app</li>
+<li class='same'> 16:42 bsky.app</li>
+<li class='same'> 16:41 bsky.app</li>
+<li class='same'> 16:40 bsky.app</li>
+<li class='same'> 16:39 bsky.app</li>
+<li> 16:32 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:32 login.microsoftonline.com</li>
+<li> 16:32 rhul-my.sharepoint.com</li>
+<li> 16:25 bsky.app</li>
+<li> 16:24 web.whatsapp.com</li>
+<li> 16:21 forms.office.com</li>
+<li> 16:18 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:09 rhul-my.sharepoint.com</li>
 <li> 16:08 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 16:08 chatgpt.com</li>
 <li class='same'> 16:07 chatgpt.com</li>
