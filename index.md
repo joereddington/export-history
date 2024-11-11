@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8863)</li>
+<ol><li>www.google.com (8861)</li>
 <li>mail.google.com (6128)</li>
 <li>outlook.office.com (3589)</li>
 <li>www.facebook.com (2909)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (644)</li>
-<li>login.microsoftonline.com (614)</li>
+<li>login.microsoftonline.com (613)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (491)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -18357,8 +18357,7 @@ With number of accesses/minutes in parentheses
 <li> 14:16 www.linkedin.com</li>
 <li class='same'> 14:15 www.linkedin.com</li>
 <li> 14:15 teams.microsoft.com</li>
-<li> 14:15 login.microsoftonline.com</li>
-<li> 14:14 teams.microsoft.com</li>
+<li class='same'> 14:14 teams.microsoft.com</li>
 <li> 14:14 myview.rhul.zellis.com</li>
 <li> 14:13 login.microsoftonline.com</li>
 <li> 14:13 myview.rhul.zellis.com</li>
@@ -18401,7 +18400,6 @@ With number of accesses/minutes in parentheses
 <li> 11:20 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
 <li> 11:20 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:20 kdp.amazon.com</li>
-<li> 11:17 cc.amazon.com</li>
 <li> 11:16 <a href="https://joereddington.com/2023/12/07/i-m-producing-the-kindle-version-of-advanced-memory-palaces.html">I’m producing the kindle version of Advanced Memory Palaces | Joe Reddington</a></li>
 <li> 11:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -18421,8 +18419,6 @@ With number of accesses/minutes in parentheses
 <li> 10:41 claude.ai</li>
 <li class='same'> 10:37 claude.ai</li>
 <li class='same'> 10:36 claude.ai</li>
-<li> 10:36 www.google.com</li>
-<li> 10:36 claude.ai</li>
 <li> 10:36 mail.google.com</li>
 <li> 10:36 claude.ai</li>
 <li> 10:36 mail.google.com</li>
@@ -18433,7 +18429,6 @@ With number of accesses/minutes in parentheses
 <li> 10:35 gmail.com</li>
 <li> 10:35 mail.google.com</li>
 <li> 10:34 claude.ai</li>
-<li> 10:34 www.google.com</li>
 <li> 10:34 mail.google.com</li>
 <li> 10:34 gmail.com</li>
 <li> 10:34 claude.ai</li>
@@ -18463,7 +18458,6 @@ With number of accesses/minutes in parentheses
 <li> 08:32 outlook.office.com</li>
 <li class='same'> 08:31 outlook.office.com</li>
 <li class='same'> 08:30 outlook.office.com</li>
-<li> 08:30 mysignins.microsoft.com</li>
 <li> 08:30 account.activedirectory.windowsazure.com</li>
 <li> 08:30 login.microsoftonline.com</li>
 <li> 08:30 account.activedirectory.windowsazure.com</li>
