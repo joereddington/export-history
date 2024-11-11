@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (758)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (645)</li>
+<li>chat.openai.com (646)</li>
 <li>login.microsoftonline.com (618)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (492)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (410)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (354)</li>
+<li>chatgpt.com (356)</li>
 <li>rhul.sharepoint.com (345)</li>
 <li>bsky.app (330)</li>
 
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:06 web.whatsapp.com</li>
+<ul><li> 10:16 0.0.0.0:8080</li>
+<li> 10:15 chatgpt.com</li>
+<li class='same'> 10:14 chatgpt.com</li>
+<li> 10:14 chat.openai.com</li>
+<li> 10:06 web.whatsapp.com</li>
 <li> 10:05 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 09:41 docs.google.com</li>
 <li> 09:41 www.amazon.co.uk</li>
