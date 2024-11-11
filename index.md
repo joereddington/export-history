@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8874)</li>
+<ol><li>www.google.com (8880)</li>
 <li>mail.google.com (6132)</li>
 <li>outlook.office.com (3594)</li>
 <li>www.facebook.com (2919)</li>
@@ -76,12 +76,12 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1490)</li>
 <li>www.reddit.com (1438)</li>
 <li>moodle.royalholloway.ac.uk (1431)</li>
-<li>outlook.office365.com (1369)</li>
+<li>outlook.office365.com (1375)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (878)</li>
-<li>www.linkedin.com (772)</li>
+<li>www.linkedin.com (775)</li>
 <li>gmail.com (760)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (414)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (357)</li>
+<li>bsky.app (349)</li>
 <li>rhul.sharepoint.com (346)</li>
-<li>bsky.app (338)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,42 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 11/11/24</H3>
+
+<br>
+
+<ul><li> 14:37 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
+<li> 14:37 www.google.com</li>
+<li> 14:36 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 14:36 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 14:33 www.linkedin.com</li>
+<li> 14:33 outlook.office365.com</li>
+<li> 14:32 bsky.app</li>
+<li> 14:31 www.google.com</li>
+<li> 14:30 bsky.app</li>
+<li> 14:29 www.google.com</li>
+<li> 14:29 outlook.office365.com</li>
+<li class='same'> 14:28 outlook.office365.com</li>
+<li class='same'> 14:27 outlook.office365.com</li>
+<li> 14:26 bsky.app</li>
+<li class='same'> 14:25 bsky.app</li>
+<li> 14:23 trends.google.com</li>
+<li> 14:23 www.google.com</li>
+<li> 14:22 trends.google.com</li>
+<li> 14:22 www.google.com</li>
+<li> 14:21 bsky.app</li>
+<li class='same'> 14:20 bsky.app</li>
+<li class='same'> 14:19 bsky.app</li>
+<li class='same'> 14:18 bsky.app</li>
+<li> 14:18 www.linkedin.com</li>
+<li class='same'> 14:17 www.linkedin.com</li>
+<li> 14:07 <a href="https://en.wikipedia.org/wiki/T-Mobile_US">T-Mobile US - Wikipedia</a></li>
+<li> 14:07 www.google.com</li>
+<li> 14:02 bsky.app</li>
+<li class='same'> 14:01 bsky.app</li>
+<li class='same'> 14:00 bsky.app</li>
+<li> 14:00 outlook.office365.com</li>
+<li class='same'> 13:59 outlook.office365.com</li>
+</ul>
 
 <br>
 
