@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (761)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (647)</li>
+<li>chat.openai.com (648)</li>
 <li>login.microsoftonline.com (626)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (495)</li>
@@ -93,9 +93,9 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (457)</li>
 <li>teams.microsoft.com (447)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (415)</li>
+<li>rhul-my.sharepoint.com (416)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (357)</li>
+<li>chatgpt.com (359)</li>
 <li>bsky.app (356)</li>
 <li>rhul.sharepoint.com (348)</li>
 
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:04 calendar.google.com</li>
+<ul><li> 16:09 rhul-my.sharepoint.com</li>
+<li> 16:08 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:08 chatgpt.com</li>
+<li class='same'> 16:07 chatgpt.com</li>
+<li> 16:07 chat.openai.com</li>
+<li> 16:04 calendar.google.com</li>
 <li> 16:03 www.reddit.com</li>
 <li> 16:02 outlook.office365.com</li>
 <li class='same'> 16:01 outlook.office365.com</li>
