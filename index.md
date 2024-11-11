@@ -71,8 +71,8 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (8881)</li>
 <li>mail.google.com (6133)</li>
 <li>outlook.office.com (3596)</li>
-<li>www.facebook.com (2919)</li>
-<li>docs.google.com (1952)</li>
+<li>www.facebook.com (2921)</li>
+<li>docs.google.com (1953)</li>
 <li>calendar.google.com (1495)</li>
 <li>www.reddit.com (1439)</li>
 <li>moodle.royalholloway.ac.uk (1431)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (878)</li>
-<li>www.linkedin.com (777)</li>
+<li>www.linkedin.com (780)</li>
 <li>gmail.com (761)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (417)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>bsky.app (365)</li>
+<li>bsky.app (367)</li>
 <li>chatgpt.com (359)</li>
 <li>rhul.sharepoint.com (348)</li>
 
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:28 docs.google.com</li>
+<ul><li> 17:40 0.0.0.0:8080</li>
+<li> 17:37 docs.google.com</li>
+<li> 17:35 www.facebook.com</li>
+<li> 17:33 www.linkedin.com</li>
+<li class='same'> 17:32 www.linkedin.com</li>
+<li> 17:32 doc-0o-34-sheets.googleusercontent.com</li>
+<li> 17:32 Local file</li>
+<li> 17:28 docs.google.com</li>
 <li> 17:28 drive.google.com</li>
 <li class='same'> 17:27 drive.google.com</li>
 <li> 17:26 bsky.app</li>
@@ -125,6 +132,10 @@ With number of accesses/minutes in parentheses
 <li> 17:12 calendar.google.com</li>
 <li> 17:06 feedly.com</li>
 <li> 17:03 0.0.0.0:8080</li>
+<li> 17:02 www.linkedin.com</li>
+<li> 16:58 www.facebook.com</li>
+<li> 16:57 bsky.app</li>
+<li class='same'> 16:56 bsky.app</li>
 <li> 16:55 europeancyber.org</li>
 <li> 16:55 bsky.app</li>
 <li class='same'> 16:54 bsky.app</li>
