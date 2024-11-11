@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8861)</li>
+<ol><li>www.google.com (8862)</li>
 <li>mail.google.com (6128)</li>
 <li>outlook.office.com (3589)</li>
-<li>www.facebook.com (2909)</li>
+<li>www.facebook.com (2915)</li>
 <li>docs.google.com (1950)</li>
 <li>calendar.google.com (1489)</li>
 <li>www.reddit.com (1438)</li>
@@ -81,12 +81,12 @@ With number of accesses/minutes in parentheses
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (877)</li>
-<li>www.linkedin.com (760)</li>
+<li>www.linkedin.com (763)</li>
 <li>gmail.com (758)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (644)</li>
-<li>login.microsoftonline.com (613)</li>
+<li>chat.openai.com (645)</li>
+<li>login.microsoftonline.com (617)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (491)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -95,9 +95,9 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (410)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (353)</li>
+<li>chatgpt.com (354)</li>
 <li>rhul.sharepoint.com (345)</li>
-<li>www.giantitp.com (325)</li>
+<li>bsky.app (330)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -119,6 +119,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 17:39 bsky.app</li>
+<li class='same'> 17:35 bsky.app</li>
+<li> 17:35 www.facebook.com</li>
+<li class='same'> 17:34 www.facebook.com</li>
+<li class='same'> 17:32 www.facebook.com</li>
+<li class='same'> 17:31 www.facebook.com</li>
+<li class='same'> 17:30 www.facebook.com</li>
+<li class='same'> 17:24 www.facebook.com</li>
+<li> 17:22 bsky.app</li>
+<li> 17:22 www.linkedin.com</li>
+<li> 17:12 chatgpt.com</li>
+<li> 17:12 chat.openai.com</li>
+<li> 17:12 www.linkedin.com</li>
+<li class='same'> 17:11 www.linkedin.com</li>
+<li> 17:10 www.google.com</li>
+<li> 17:10 bsky.app</li>
+<li class='same'> 17:09 bsky.app</li>
+<li class='same'> 17:07 bsky.app</li>
+<li> 17:04 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 17:03 bsky.app</li>
+<li class='same'> 17:00 bsky.app</li>
+</ul>
+
+<br>
+
 <ul><li> 13:43 mail.google.com</li>
 <li> 13:38 www.google.com</li>
 </ul>
@@ -129,6 +154,12 @@ With number of accesses/minutes in parentheses
 <li> 07:24 www.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 01:06 forms.office.com</li>
+<li> 01:06 login.microsoftonline.com</li>
+</ul>
+
 <H3>Saturday, 09/11/24</H3>
 
 <br>
@@ -137,8 +168,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 21:19 www.google.com</li>
+<ul><li> 21:19 www.google.com</li>
 <li> 21:19 www.britishjudo.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 20:00 login.microsoftonline.com</li>
+<li> 20:00 forms.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:14 forms.office.com</li>
+<li> 18:14 login.microsoftonline.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:40 login.microsoftonline.com</li>
+<li> 15:40 forms.office.com</li>
 </ul>
 
 <br>
