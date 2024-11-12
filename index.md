@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8891)</li>
-<li>mail.google.com (6135)</li>
+<ol><li>www.google.com (8909)</li>
+<li>mail.google.com (6139)</li>
 <li>outlook.office.com (3601)</li>
 <li>www.facebook.com (2930)</li>
-<li>docs.google.com (1954)</li>
-<li>calendar.google.com (1498)</li>
+<li>docs.google.com (1963)</li>
+<li>calendar.google.com (1500)</li>
 <li>www.reddit.com (1439)</li>
 <li>moodle.royalholloway.ac.uk (1431)</li>
-<li>outlook.office365.com (1397)</li>
+<li>outlook.office365.com (1403)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (879)</li>
 <li>www.linkedin.com (788)</li>
-<li>gmail.com (763)</li>
+<li>gmail.com (765)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (648)</li>
@@ -90,12 +90,12 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (497)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (460)</li>
-<li>teams.microsoft.com (447)</li>
+<li>drive.google.com (464)</li>
+<li>teams.microsoft.com (448)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (417)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>bsky.app (378)</li>
+<li>bsky.app (380)</li>
 <li>chatgpt.com (359)</li>
 <li>rhul.sharepoint.com (348)</li>
 
@@ -108,7 +108,77 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:57 outlook.office.com</li>
+<ul><li> 13:46 www.google.com</li>
+<li class='same'> 13:45 www.google.com</li>
+<li class='same'> 13:44 www.google.com</li>
+<li class='same'> 13:43 www.google.com</li>
+<li> 13:42 tenor.com</li>
+<li> 13:42 www.google.com</li>
+<li class='same'> 13:41 www.google.com</li>
+<li class='same'> 13:40 www.google.com</li>
+<li class='same'> 13:39 www.google.com</li>
+<li class='same'> 13:38 www.google.com</li>
+<li> 13:38 media.isc2.org</li>
+<li> 13:38 www.google.com</li>
+<li> 13:37 www.overleaf.com</li>
+<li> 13:36 library.cyentia.com</li>
+<li> 13:34 edge.sitecorecloud.io</li>
+<li> 13:34 www.isc2.org</li>
+<li class='same'> 13:33 www.isc2.org</li>
+<li> 13:33 www.google.com</li>
+<li> 13:33 cujo.com</li>
+<li class='same'> 13:32 cujo.com</li>
+<li> 13:31 mail.google.com</li>
+<li class='same'> 13:30 mail.google.com</li>
+<li> 13:30 gmail.com</li>
+<li> 13:30 cujo.com</li>
+<li> 13:30 www.google.com</li>
+<li> 13:29 www.secureworld.io</li>
+<li> 13:29 delinea.com</li>
+<li class='same'> 13:28 delinea.com</li>
+<li> 13:28 digitalisationworld.com</li>
+<li> 13:28 www.google.com</li>
+<li> 13:28 delinea.com</li>
+<li class='same'> 13:27 delinea.com</li>
+<li class='same'> 13:26 delinea.com</li>
+<li> 13:26 thenextweb.com</li>
+<li> 13:26 www.google.com</li>
+<li> 13:14 teams.microsoft.com</li>
+<li> 13:14 outlook.office365.com</li>
+<li> 13:12 bsky.app</li>
+<li> 13:11 docs.google.com</li>
+<li> 13:11 www.google.com</li>
+<li class='same'> 13:10 www.google.com</li>
+<li> 13:10 docs.google.com</li>
+<li> 13:10 bimtechnologies.co.uk</li>
+<li> 13:10 www.google.com</li>
+<li> 13:10 www.royalholloway.ac.uk</li>
+<li> 13:10 www.google.com</li>
+<li> 13:09 docs.google.com</li>
+<li class='same'> 13:08 docs.google.com</li>
+<li> 13:08 calendar.google.com</li>
+<li> 13:08 docs.google.com</li>
+<li> 13:08 calendar.google.com</li>
+<li> 13:08 docs.google.com</li>
+<li class='same'> 13:07 docs.google.com</li>
+<li> 13:07 mail.google.com</li>
+<li class='same'> 13:06 mail.google.com</li>
+<li> 13:06 gmail.com</li>
+<li> 13:05 drive.google.com</li>
+<li> 13:05 docs.google.com</li>
+<li> 13:05 drive.google.com</li>
+<li> 13:05 docs.google.com</li>
+<li> 13:04 drive.google.com</li>
+<li> 13:04 cisse.info</li>
+<li> 13:04 drive.google.com</li>
+<li> 13:04 outlook.office365.com</li>
+<li> 13:04 bsky.app</li>
+<li> 13:01 cisse.info</li>
+<li> 13:01 outlook.office365.com</li>
+<li class='same'> 13:00 outlook.office365.com</li>
+<li class='same'> 12:59 outlook.office365.com</li>
+<li class='same'> 12:57 outlook.office365.com</li>
+<li> 12:57 outlook.office.com</li>
 </ul>
 
 <br>
