@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8946)</li>
+<ol><li>www.google.com (8947)</li>
 <li>mail.google.com (6144)</li>
 <li>outlook.office.com (3605)</li>
 <li>www.facebook.com (2933)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1501)</li>
 <li>www.reddit.com (1446)</li>
 <li>moodle.royalholloway.ac.uk (1444)</li>
-<li>outlook.office365.com (1435)</li>
+<li>outlook.office365.com (1436)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -108,6 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 19:50 outlook.office365.com</li>
+</ul>
+
+<br>
+
 <ul><li> 19:07 www.britishjudo.org.uk</li>
 <li class='same'> 19:04 www.britishjudo.org.uk</li>
 <li class='same'> 18:51 www.britishjudo.org.uk</li>
@@ -126,7 +131,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:45 mail.google.com</li>
+<ul><li> 17:50 www.chronicle.com</li>
+<li> 17:49 <a href="https://en.wikipedia.org/wiki/Flipped_classroom">Flipped classroom - Wikipedia</a></li>
+<li> 17:49 <a href="https://en.wikipedia.org/wiki/Flip_teaching">Flipped classroom - Wikipedia</a></li>
+<li> 17:49 slate.com</li>
+<li> 17:47 <a href="https://en.wikipedia.org/wiki/Flipped_classroom">Flipped classroom - Wikipedia</a></li>
+<li> 17:47 www.google.com</li>
+<li> 17:45 mail.google.com</li>
 <li class='same'> 17:44 mail.google.com</li>
 <li> 17:43 myaccount.microsoft.com</li>
 <li> 17:43 login.microsoftonline.com</li>
