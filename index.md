@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8882)</li>
-<li>mail.google.com (6133)</li>
-<li>outlook.office.com (3596)</li>
-<li>www.facebook.com (2926)</li>
+<li>mail.google.com (6134)</li>
+<li>outlook.office.com (3598)</li>
+<li>www.facebook.com (2927)</li>
 <li>docs.google.com (1954)</li>
-<li>calendar.google.com (1496)</li>
+<li>calendar.google.com (1497)</li>
 <li>www.reddit.com (1439)</li>
 <li>moodle.royalholloway.ac.uk (1431)</li>
-<li>outlook.office365.com (1385)</li>
+<li>outlook.office365.com (1390)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (879)</li>
-<li>www.linkedin.com (786)</li>
-<li>gmail.com (761)</li>
+<li>www.linkedin.com (788)</li>
+<li>gmail.com (762)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (648)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (417)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>bsky.app (370)</li>
+<li>bsky.app (374)</li>
 <li>chatgpt.com (359)</li>
 <li>rhul.sharepoint.com (348)</li>
 
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:08 outlook.office365.com</li>
+<ul><li> 11:50 outlook.office365.com</li>
+<li> 11:50 calendar.google.com</li>
+<li> 11:50 www.linkedin.com</li>
+<li class='same'> 11:49 www.linkedin.com</li>
+<li> 11:48 www.facebook.com</li>
+<li> 11:48 mail.google.com</li>
+<li> 11:48 gmail.com</li>
+<li> 11:47 outlook.office365.com</li>
+<li> 11:47 outlook.office.com</li>
+<li> 11:46 outlook.office365.com</li>
+<li> 11:46 outlook.office.com</li>
+<li> 11:45 outlook.office365.com</li>
+<li> 11:43 bsky.app</li>
+<li> 11:42 outlook.office365.com</li>
+<li> 11:42 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:24 bsky.app</li>
+<li class='same'> 09:23 bsky.app</li>
+<li> 09:08 outlook.office365.com</li>
 <li> 09:07 www.facebook.com</li>
 <li class='same'> 09:06 www.facebook.com</li>
 <li class='same'> 09:04 www.facebook.com</li>
