@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8930)</li>
+<ol><li>www.google.com (8935)</li>
 <li>mail.google.com (6139)</li>
-<li>outlook.office.com (3601)</li>
+<li>outlook.office.com (3603)</li>
 <li>www.facebook.com (2932)</li>
 <li>docs.google.com (1963)</li>
-<li>calendar.google.com (1500)</li>
+<li>calendar.google.com (1501)</li>
 <li>www.reddit.com (1446)</li>
-<li>moodle.royalholloway.ac.uk (1431)</li>
-<li>outlook.office365.com (1418)</li>
+<li>moodle.royalholloway.ac.uk (1437)</li>
+<li>outlook.office365.com (1422)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (879)</li>
-<li>www.linkedin.com (792)</li>
+<li>www.theguardian.com (880)</li>
+<li>www.linkedin.com (795)</li>
 <li>gmail.com (765)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (648)</li>
-<li>login.microsoftonline.com (628)</li>
+<li>chat.openai.com (649)</li>
+<li>login.microsoftonline.com (630)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (497)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -95,9 +95,9 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (417)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>bsky.app (385)</li>
-<li>chatgpt.com (359)</li>
-<li>rhul.sharepoint.com (348)</li>
+<li>bsky.app (386)</li>
+<li>chatgpt.com (360)</li>
+<li>rhul.sharepoint.com (349)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:47 www.google.com</li>
+<ul><li> 16:09 ev.turnitinuk.com</li>
+<li class='same'> 16:08 ev.turnitinuk.com</li>
+<li> 16:08 api.turnitinuk.com</li>
+<li> 16:08 moodle.royalholloway.ac.uk</li>
+<li> 16:07 www.google.com</li>
+<li> 16:07 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:06 moodle.royalholloway.ac.uk</li>
+<li> 16:06 login.microsoftonline.com</li>
+<li> 16:06 outlook.office.com</li>
+<li class='same'> 16:05 outlook.office.com</li>
+<li> 16:05 moodle.royalholloway.ac.uk</li>
+<li> 16:05 www.google.com</li>
+<li> 15:56 rhul.sharepoint.com</li>
+<li> 15:56 outlook.office365.com</li>
+<li> 15:55 calendar.google.com</li>
+<li> 15:55 login.microsoftonline.com</li>
+<li> 15:55 moodle.royalholloway.ac.uk</li>
+<li> 15:54 outlook.office365.com</li>
+<li> 15:53 chatgpt.com</li>
+<li> 15:53 chat.openai.com</li>
+<li> 15:52 <a href="https://en.wikipedia.org/wiki/Data_breaches_in_India">Data breaches in India - Wikipedia</a></li>
+<li> 15:52 www.google.com</li>
+<li> 15:52 www.tribuneindia.com</li>
+<li> 15:52 www.theguardian.com</li>
+<li> 15:51 www.google.com</li>
+<li> 15:51 scholar.google.com</li>
+<li> 15:51 moodle.royalholloway.ac.uk</li>
+<li> 15:51 bsky.app</li>
+<li> 15:50 www.linkedin.com</li>
+<li> 15:50 scholar.google.com</li>
+<li> 15:50 www.google.com</li>
+<li> 15:50 outlook.office365.com</li>
+<li class='same'> 15:49 outlook.office365.com</li>
+<li> 15:49 www.linkedin.com</li>
+<li class='same'> 15:48 www.linkedin.com</li>
+<li> 15:47 www.google.com</li>
 <li> 15:46 outlook.office365.com</li>
 <li> 15:46 www.google.com</li>
 <li> 15:46 outlook.office365.com</li>
