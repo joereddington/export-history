@@ -69,24 +69,24 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8935)</li>
-<li>mail.google.com (6140)</li>
+<li>mail.google.com (6144)</li>
 <li>outlook.office.com (3605)</li>
-<li>www.facebook.com (2932)</li>
+<li>www.facebook.com (2933)</li>
 <li>docs.google.com (1965)</li>
 <li>calendar.google.com (1501)</li>
 <li>www.reddit.com (1446)</li>
 <li>moodle.royalholloway.ac.uk (1444)</li>
-<li>outlook.office365.com (1433)</li>
+<li>outlook.office365.com (1435)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (880)</li>
-<li>www.linkedin.com (796)</li>
+<li>www.linkedin.com (798)</li>
 <li>gmail.com (766)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (649)</li>
-<li>login.microsoftonline.com (632)</li>
+<li>login.microsoftonline.com (633)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (497)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (417)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>bsky.app (387)</li>
+<li>bsky.app (388)</li>
 <li>chatgpt.com (360)</li>
 <li>rhul.sharepoint.com (349)</li>
 
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:52 mail.google.com</li>
+<ul><li> 17:45 mail.google.com</li>
+<li class='same'> 17:44 mail.google.com</li>
+<li> 17:43 myaccount.microsoft.com</li>
+<li> 17:43 login.microsoftonline.com</li>
+<li> 17:43 myaccount.microsoft.com</li>
+<li> 17:43 outlook.office365.com</li>
+<li> 17:43 mail.google.com</li>
+<li> 17:41 www.facebook.com</li>
+<li> 17:40 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 16:55 www.linkedin.com</li>
+<li class='same'> 16:54 www.linkedin.com</li>
+<li> 16:53 outlook.office365.com</li>
+<li> 16:53 mail.google.com</li>
+<li class='same'> 16:52 mail.google.com</li>
 <li> 16:52 gmail.com</li>
 <li> 16:52 outlook.office365.com</li>
 <li> 16:52 outlook.office.com</li>
