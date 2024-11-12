@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8935)</li>
+<ol><li>www.google.com (8946)</li>
 <li>mail.google.com (6144)</li>
 <li>outlook.office.com (3605)</li>
 <li>www.facebook.com (2933)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 12/11/24</H3>
+
+<br>
+
+<ul><li> 19:07 www.britishjudo.org.uk</li>
+<li class='same'> 19:04 www.britishjudo.org.uk</li>
+<li class='same'> 18:51 www.britishjudo.org.uk</li>
+<li class='same'> 18:50 www.britishjudo.org.uk</li>
+<li class='same'> 18:42 www.britishjudo.org.uk</li>
+<li> 18:42 www.google.com</li>
+<li class='same'> 18:41 www.google.com</li>
+<li class='same'> 18:35 www.google.com</li>
+<li> 18:35 www.bonappetit.com</li>
+<li class='same'> 18:34 www.bonappetit.com</li>
+<li> 18:33 www.google.com</li>
+<li> 18:29 www.washingtonpost.com</li>
+<li> 18:29 www.google.com</li>
+<li> 18:29 discussions.apple.com</li>
+</ul>
 
 <br>
 
@@ -494,7 +512,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 09:24 bsky.app</li>
+<ul><li> 10:42 discussions.apple.com</li>
+<li class='same'> 10:18 discussions.apple.com</li>
+<li> 10:18 www.google.com</li>
+<li> 10:18 discussions.apple.com</li>
+<li> 10:18 www.google.com</li>
+<li> 10:18 fast.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:24 bsky.app</li>
 <li class='same'> 09:23 bsky.app</li>
 <li> 09:08 outlook.office365.com</li>
 <li> 09:07 www.facebook.com</li>
@@ -520,6 +548,8 @@ With number of accesses/minutes in parentheses
 <li> 07:48 bsky.app</li>
 <li> 07:41 docs.google.com</li>
 <li> 07:41 drive.google.com</li>
+<li> 07:13 fast.com</li>
+<li class='same'> 07:09 fast.com</li>
 </ul>
 
 <br>
@@ -705,11 +735,11 @@ With number of accesses/minutes in parentheses
 <li> 12:19 www.google.com</li>
 <li> 12:16 rhul-my.sharepoint.com</li>
 <li> 12:14 www.linkedin.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 11:34 www.linkedin.com</li>
+<li> 12:00 www.google.com</li>
+<li> 12:00 ico.org.uk</li>
+<li> 12:00 www.google.com</li>
+<li class='same'> 11:59 www.google.com</li>
+<li> 11:34 www.linkedin.com</li>
 <li> 11:32 mail.google.com</li>
 <li> 11:32 gmail.com</li>
 <li> 11:30 ico.org.uk</li>
@@ -785,7 +815,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:42 www.google.com</li>
+<ul><li> 18:48 www.google.com</li>
+<li> 18:43 lwtheatres.co.uk</li>
+<li> 18:43 ticketing.lwtheatres.co.uk</li>
+<li class='same'> 18:42 ticketing.lwtheatres.co.uk</li>
+<li> 18:42 lwtheatres.co.uk</li>
+<li> 18:42 www.google.com</li>
 <li class='same'> 18:31 www.google.com</li>
 <li class='same'> 18:30 www.google.com</li>
 <li class='same'> 18:29 www.google.com</li>
