@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8909)</li>
+<ol><li>www.google.com (8927)</li>
 <li>mail.google.com (6139)</li>
 <li>outlook.office.com (3601)</li>
 <li>www.facebook.com (2930)</li>
@@ -76,12 +76,12 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1500)</li>
 <li>www.reddit.com (1439)</li>
 <li>moodle.royalholloway.ac.uk (1431)</li>
-<li>outlook.office365.com (1403)</li>
+<li>outlook.office365.com (1408)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (879)</li>
-<li>www.linkedin.com (788)</li>
+<li>www.linkedin.com (790)</li>
 <li>gmail.com (765)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (417)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>bsky.app (380)</li>
+<li>bsky.app (383)</li>
 <li>chatgpt.com (359)</li>
 <li>rhul.sharepoint.com (348)</li>
 
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:46 www.google.com</li>
+<ul><li> 14:41 outlook.office365.com</li>
+<li> 14:39 <a href="https://en.wikipedia.org/wiki/Brexit_and_the_Irish_border">Brexit and the Irish border - Wikipedia</a></li>
+<li> 14:39 www.google.com</li>
+<li> 14:37 <a href="https://en.wikipedia.org/wiki/Economic_effects_of_Brexit">Economic effects of Brexit - Wikipedia</a></li>
+<li> 14:37 www.google.com</li>
+<li> 14:28 bsky.app</li>
+<li> 14:28 outlook.office365.com</li>
+<li> 14:26 scholar.google.com</li>
+<li class='same'> 14:25 scholar.google.com</li>
+<li> 14:25 www.google.com</li>
+<li class='same'> 14:24 www.google.com</li>
+<li> 14:24 d1wqtxts1xzle7.cloudfront.net</li>
+<li> 14:24 scholar.google.co.uk</li>
+<li> 14:24 www.google.com</li>
+<li> 14:24 <a href="https://en.wikipedia.org/wiki/Keffals">Keffals - Wikipedia</a></li>
+<li> 14:24 www.google.com</li>
+<li> 14:24 <a href="https://en.wikipedia.org/wiki/Greta_Thunberg#/media/File:Greta_Thunberg_in_Stockholm_(3x4_cropped).jpg">Greta Thunberg - Wikipedia</a></li>
+<li> 14:24 <a href="https://en.wikipedia.org/wiki/Greta_Thunberg">Greta Thunberg - Wikipedia</a></li>
+<li> 14:24 www.google.com</li>
+<li class='same'> 14:23 www.google.com</li>
+<li> 14:22 <a href="https://www.bbc.co.uk/news/blogs-trending-48871400">A web of abuse: How the far right disproportionately targets female politicians - BBC News</a></li>
+<li> 14:22 www.google.com</li>
+<li class='same'> 14:21 www.google.com</li>
+<li> 14:20 ieeexplore.ieee.org</li>
+<li> 14:20 scholar.google.com</li>
+<li class='same'> 14:18 scholar.google.com</li>
+<li> 14:18 scholar.dsu.edu</li>
+<li> 14:18 scholar.google.com</li>
+<li> 14:17 www.google.com</li>
+<li> 14:14 bsky.app</li>
+<li> 14:14 www.linkedin.com</li>
+<li class='same'> 14:13 www.linkedin.com</li>
+<li> 14:13 www.isc2.org</li>
+<li> 14:13 www.google.com</li>
+<li> 14:12 media.isc2.org</li>
+<li> 14:11 bsky.app</li>
+<li> 14:11 www.google.com</li>
+<li> 13:56 outlook.office365.com</li>
+<li class='same'> 13:55 outlook.office365.com</li>
+<li class='same'> 13:54 outlook.office365.com</li>
+<li> 13:52 www.brighteducation.com.au</li>
+<li> 13:52 www.google.com</li>
+<li> 13:51 elearninginfographics.com</li>
+<li> 13:50 www.google.com</li>
+<li class='same'> 13:49 www.google.com</li>
+<li class='same'> 13:48 www.google.com</li>
+<li class='same'> 13:47 www.google.com</li>
+<li class='same'> 13:46 www.google.com</li>
 <li class='same'> 13:45 www.google.com</li>
 <li class='same'> 13:44 www.google.com</li>
 <li class='same'> 13:43 www.google.com</li>
