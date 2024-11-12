@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8935)</li>
-<li>mail.google.com (6139)</li>
-<li>outlook.office.com (3603)</li>
+<li>mail.google.com (6140)</li>
+<li>outlook.office.com (3605)</li>
 <li>www.facebook.com (2932)</li>
-<li>docs.google.com (1963)</li>
+<li>docs.google.com (1965)</li>
 <li>calendar.google.com (1501)</li>
 <li>www.reddit.com (1446)</li>
-<li>moodle.royalholloway.ac.uk (1440)</li>
-<li>outlook.office365.com (1424)</li>
+<li>moodle.royalholloway.ac.uk (1444)</li>
+<li>outlook.office365.com (1433)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (880)</li>
-<li>www.linkedin.com (795)</li>
-<li>gmail.com (765)</li>
+<li>www.linkedin.com (796)</li>
+<li>gmail.com (766)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (649)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (497)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (464)</li>
+<li>drive.google.com (465)</li>
 <li>teams.microsoft.com (448)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (417)</li>
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:10 ev.turnitinuk.com</li>
+<ul><li> 16:52 mail.google.com</li>
+<li> 16:52 gmail.com</li>
+<li> 16:52 outlook.office365.com</li>
+<li> 16:52 outlook.office.com</li>
+<li> 16:52 outlook.office365.com</li>
+<li class='same'> 16:46 outlook.office365.com</li>
+<li class='same'> 16:44 outlook.office365.com</li>
+<li> 16:44 docs.google.com</li>
+<li class='same'> 16:43 docs.google.com</li>
+<li> 16:43 drive.google.com</li>
+<li> 16:42 www.linkedin.com</li>
+<li> 16:42 outlook.office365.com</li>
+<li> 16:42 claude.ai</li>
+<li class='same'> 16:41 claude.ai</li>
+<li> 16:41 outlook.office365.com</li>
+<li> 16:41 outlook.office.com</li>
+<li> 16:41 outlook.office365.com</li>
+<li class='same'> 16:37 outlook.office365.com</li>
+<li> 16:36 ev.turnitinuk.com</li>
+<li class='same'> 16:32 ev.turnitinuk.com</li>
+<li> 16:30 bluegoatcyber.com</li>
+<li> 16:30 ev.turnitinuk.com</li>
+<li> 16:30 moodle.royalholloway.ac.uk</li>
+<li> 16:29 ev.turnitinuk.com</li>
+<li class='same'> 16:28 ev.turnitinuk.com</li>
+<li class='same'> 16:27 ev.turnitinuk.com</li>
+<li class='same'> 16:26 ev.turnitinuk.com</li>
+<li class='same'> 16:25 ev.turnitinuk.com</li>
+<li class='same'> 16:24 ev.turnitinuk.com</li>
+<li class='same'> 16:23 ev.turnitinuk.com</li>
+<li class='same'> 16:22 ev.turnitinuk.com</li>
+<li class='same'> 16:21 ev.turnitinuk.com</li>
+<li> 16:19 moodle.royalholloway.ac.uk</li>
+<li> 16:19 ev.turnitinuk.com</li>
+<li class='same'> 16:18 ev.turnitinuk.com</li>
+<li class='same'> 16:17 ev.turnitinuk.com</li>
+<li class='same'> 16:15 ev.turnitinuk.com</li>
+<li class='same'> 16:13 ev.turnitinuk.com</li>
+<li> 16:13 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:12 moodle.royalholloway.ac.uk</li>
+<li> 16:12 outlook.office365.com</li>
+<li> 16:10 ev.turnitinuk.com</li>
 <li> 16:10 moodle.royalholloway.ac.uk</li>
 <li> 16:10 login.microsoftonline.com</li>
 <li> 16:09 moodle.royalholloway.ac.uk</li>
