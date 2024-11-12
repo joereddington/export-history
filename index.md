@@ -71,17 +71,17 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (8882)</li>
 <li>mail.google.com (6133)</li>
 <li>outlook.office.com (3596)</li>
-<li>www.facebook.com (2922)</li>
-<li>docs.google.com (1953)</li>
+<li>www.facebook.com (2926)</li>
+<li>docs.google.com (1954)</li>
 <li>calendar.google.com (1496)</li>
 <li>www.reddit.com (1439)</li>
 <li>moodle.royalholloway.ac.uk (1431)</li>
-<li>outlook.office365.com (1383)</li>
+<li>outlook.office365.com (1385)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (878)</li>
-<li>www.linkedin.com (783)</li>
+<li>www.theguardian.com (879)</li>
+<li>www.linkedin.com (786)</li>
 <li>gmail.com (761)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
@@ -90,12 +90,12 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (497)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (459)</li>
+<li>drive.google.com (460)</li>
 <li>teams.microsoft.com (447)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (417)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>bsky.app (368)</li>
+<li>bsky.app (370)</li>
 <li>chatgpt.com (359)</li>
 <li>rhul.sharepoint.com (348)</li>
 
@@ -105,6 +105,34 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 12/11/24</H3>
+
+<br>
+
+<ul><li> 09:08 outlook.office365.com</li>
+<li> 09:07 www.facebook.com</li>
+<li class='same'> 09:06 www.facebook.com</li>
+<li class='same'> 09:04 www.facebook.com</li>
+<li> 09:04 www.linkedin.com</li>
+<li> 09:03 bsky.app</li>
+<li> 09:02 outlook.office365.com</li>
+<li> 09:01 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:03 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
+<li> 08:03 <a href="https://en.wikipedia.org/wiki/Talk:2014_Sony_Pictures_hack">Talk:2014 Sony Pictures hack - Wikipedia</a></li>
+<li> 08:03 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 08:03 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 08:03 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 08:02 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:53 www.facebook.com</li>
+<li> 07:51 www.linkedin.com</li>
+<li> 07:49 www.theguardian.com</li>
+<li> 07:48 bsky.app</li>
+<li> 07:41 docs.google.com</li>
+<li> 07:41 drive.google.com</li>
+</ul>
 
 <br>
 
@@ -18591,7 +18619,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:38 sourceforge.net</li>
 <li> 07:38 paintbrush.sourceforge.io</li>
 <li> 07:38 www.google.com</li>
-<li> 07:37 cc.amazon.com</li>
 <li> 07:37 kdp.amazon.com</li>
 <li> 07:36 claude.ai</li>
 <li class='same'> 07:35 claude.ai</li>
