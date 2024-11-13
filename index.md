@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8953)</li>
 <li>mail.google.com (6144)</li>
-<li>outlook.office.com (3605)</li>
+<li>outlook.office.com (3611)</li>
 <li>www.facebook.com (2933)</li>
 <li>docs.google.com (1965)</li>
 <li>calendar.google.com (1504)</li>
 <li>www.reddit.com (1446)</li>
 <li>moodle.royalholloway.ac.uk (1444)</li>
-<li>outlook.office365.com (1437)</li>
+<li>outlook.office365.com (1438)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:39 findarace.com</li>
+<ul><li> 11:46 Local file</li>
+<li> 11:46 outlook.office.com</li>
+<li class='same'> 11:45 outlook.office.com</li>
+<li class='same'> 11:44 outlook.office.com</li>
+<li> 11:44 intranet.royalholloway.ac.uk</li>
+<li> 11:44 outlook.office.com</li>
+<li class='same'> 11:43 outlook.office.com</li>
+<li> 11:42 crossoverresearchllc.qualtrics.com</li>
+<li> 11:42 eur03.safelinks.protection.outlook.com</li>
+<li> 11:42 crossoverresearchllc.qualtrics.com</li>
+<li> 11:42 eur03.safelinks.protection.outlook.com</li>
+<li> 11:41 outlook.office.com</li>
+<li> 11:41 outlook.office365.com</li>
+<li> 11:41 mail.rhul.ac.uk</li>
+<li> 11:40 findarace.com</li>
+<li class='same'> 11:39 findarace.com</li>
 <li class='same'> 11:38 findarace.com</li>
 <li> 11:38 www.runthrough.co.uk</li>
 <li> 11:38 www.google.com</li>
