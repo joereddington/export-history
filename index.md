@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8966)</li>
-<li>mail.google.com (6179)</li>
+<ol><li>www.google.com (8968)</li>
+<li>mail.google.com (6186)</li>
 <li>outlook.office.com (3617)</li>
-<li>www.facebook.com (2933)</li>
+<li>www.facebook.com (2935)</li>
 <li>docs.google.com (1966)</li>
 <li>calendar.google.com (1509)</li>
-<li>outlook.office365.com (1482)</li>
+<li>outlook.office365.com (1491)</li>
 <li>www.reddit.com (1446)</li>
 <li>moodle.royalholloway.ac.uk (1444)</li>
 <li>www.amazon.co.uk (1251)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (880)</li>
-<li>www.linkedin.com (799)</li>
-<li>gmail.com (772)</li>
+<li>www.linkedin.com (802)</li>
+<li>gmail.com (775)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (653)</li>
-<li>login.microsoftonline.com (636)</li>
+<li>chat.openai.com (654)</li>
+<li>login.microsoftonline.com (639)</li>
 <li>app.qbo.intuit.com (574)</li>
-<li>web.whatsapp.com (498)</li>
+<li>web.whatsapp.com (499)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (468)</li>
 <li>teams.microsoft.com (448)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (388)</li>
-<li>chatgpt.com (366)</li>
-<li>rhul.sharepoint.com (349)</li>
+<li>chatgpt.com (367)</li>
+<li>rhul.sharepoint.com (351)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,56 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:52 outlook.office365.com</li>
+<ul><li> 16:49 www.facebook.com</li>
+<li> 16:47 <a href="https://joereddington.com/2024/11/13/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 16:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:47 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 16:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:46 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 16:46 www.facebook.com</li>
+<li> 16:45 web.whatsapp.com</li>
+<li> 16:32 www.google.com</li>
+<li> 16:28 chatgpt.com</li>
+<li> 16:28 chat.openai.com</li>
+<li> 16:26 mail.google.com</li>
+<li> 16:26 gmail.com</li>
+<li> 16:26 mail.google.com</li>
+<li> 16:25 www.ncl.ac.uk</li>
+<li> 16:25 www.google.com</li>
+<li> 16:24 outlook.office365.com</li>
+<li> 16:23 www.linkedin.com</li>
+<li> 16:22 www.ciisec.org</li>
+<li> 16:22 events.teams.microsoft.com</li>
+<li> 16:22 login.microsoftonline.com</li>
+<li> 16:22 events.teams.microsoft.com</li>
+<li> 16:22 www.linkedin.com</li>
+<li> 16:20 mail.google.com</li>
+<li> 16:20 gmail.com</li>
+<li> 16:19 www.linkedin.com</li>
+<li> 16:19 mail.google.com</li>
+<li class='same'> 16:14 mail.google.com</li>
+<li class='same'> 16:13 mail.google.com</li>
+<li class='same'> 16:12 mail.google.com</li>
+<li> 16:12 gmail.com</li>
+<li> 16:12 outlook.office365.com</li>
+<li class='same'> 16:11 outlook.office365.com</li>
+<li class='same'> 16:10 outlook.office365.com</li>
+<li class='same'> 16:09 outlook.office365.com</li>
+<li class='same'> 16:08 outlook.office365.com</li>
+<li class='same'> 16:03 outlook.office365.com</li>
+<li class='same'> 16:00 outlook.office365.com</li>
+<li> 15:58 royalholloway.akarisoftware.com</li>
+<li> 15:57 rhul.sharepoint.com</li>
+<li> 15:57 login.microsoftonline.com</li>
+<li> 15:56 rhul.sharepoint.com</li>
+<li> 15:56 royalholloway.akarisoftware.com</li>
+<li class='same'> 15:55 royalholloway.akarisoftware.com</li>
+<li class='same'> 15:54 royalholloway.akarisoftware.com</li>
+<li class='same'> 15:53 royalholloway.akarisoftware.com</li>
+<li> 15:53 login.microsoftonline.com</li>
+<li> 15:53 royalholloway.akarisoftware.com</li>
+<li> 15:53 outlook.office365.com</li>
+<li class='same'> 15:52 outlook.office365.com</li>
 <li class='same'> 15:51 outlook.office365.com</li>
 <li> 15:50 chatgpt.com</li>
 <li> 15:49 drive.google.com</li>
