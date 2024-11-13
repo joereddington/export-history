@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8951)</li>
+<ol><li>www.google.com (8953)</li>
 <li>mail.google.com (6144)</li>
 <li>outlook.office.com (3605)</li>
 <li>www.facebook.com (2933)</li>
 <li>docs.google.com (1965)</li>
-<li>calendar.google.com (1503)</li>
+<li>calendar.google.com (1504)</li>
 <li>www.reddit.com (1446)</li>
 <li>moodle.royalholloway.ac.uk (1444)</li>
 <li>outlook.office365.com (1437)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:17 web.whatsapp.com</li>
+<ul><li> 11:39 findarace.com</li>
+<li class='same'> 11:38 findarace.com</li>
+<li> 11:38 www.runthrough.co.uk</li>
+<li> 11:38 www.google.com</li>
+<li> 11:37 sites.google.com</li>
+<li> 11:37 pure.royalholloway.ac.uk</li>
+<li> 11:37 www.google.com</li>
+<li> 11:33 calendar.google.com</li>
+<li> 11:17 web.whatsapp.com</li>
 <li> 11:15 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 11:09 0.0.0.0:8080</li>
 <li> 10:46 calendar.google.com</li>
