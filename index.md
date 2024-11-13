@@ -71,11 +71,11 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (8968)</li>
 <li>mail.google.com (6186)</li>
 <li>outlook.office.com (3617)</li>
-<li>www.facebook.com (2935)</li>
+<li>www.facebook.com (2949)</li>
 <li>docs.google.com (1966)</li>
 <li>calendar.google.com (1509)</li>
 <li>outlook.office365.com (1491)</li>
-<li>www.reddit.com (1446)</li>
+<li>www.reddit.com (1447)</li>
 <li>moodle.royalholloway.ac.uk (1444)</li>
 <li>www.amazon.co.uk (1251)</li>
 <li>github.com (1023)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (388)</li>
-<li>chatgpt.com (367)</li>
+<li>chatgpt.com (368)</li>
 <li>rhul.sharepoint.com (351)</li>
 
 
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:49 www.facebook.com</li>
+<ul><li> 17:10 www.reddit.com</li>
+<li> 17:10 www.facebook.com</li>
+<li class='same'> 17:09 www.facebook.com</li>
+<li class='same'> 17:08 www.facebook.com</li>
+<li class='same'> 17:07 www.facebook.com</li>
+<li class='same'> 17:06 www.facebook.com</li>
+<li class='same'> 17:05 www.facebook.com</li>
+<li class='same'> 17:04 www.facebook.com</li>
+<li class='same'> 17:03 www.facebook.com</li>
+<li class='same'> 17:02 www.facebook.com</li>
+<li class='same'> 17:01 www.facebook.com</li>
+<li class='same'> 17:00 www.facebook.com</li>
+<li class='same'> 16:58 www.facebook.com</li>
+<li class='same'> 16:55 www.facebook.com</li>
+<li class='same'> 16:53 www.facebook.com</li>
+<li> 16:52 chatgpt.com</li>
+<li> 16:49 www.facebook.com</li>
 <li> 16:47 <a href="https://joereddington.com/2024/11/13/gratitude.html">Gratitude | Joe Reddington</a></li>
 <li> 16:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:47 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
