@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8953)</li>
+<ol><li>www.google.com (8955)</li>
 <li>mail.google.com (6144)</li>
-<li>outlook.office.com (3612)</li>
+<li>outlook.office.com (3614)</li>
 <li>www.facebook.com (2933)</li>
 <li>docs.google.com (1965)</li>
 <li>calendar.google.com (1504)</li>
 <li>www.reddit.com (1446)</li>
 <li>moodle.royalholloway.ac.uk (1444)</li>
-<li>outlook.office365.com (1440)</li>
+<li>outlook.office365.com (1441)</li>
 <li>www.amazon.co.uk (1250)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (766)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (650)</li>
-<li>login.microsoftonline.com (633)</li>
+<li>chat.openai.com (651)</li>
+<li>login.microsoftonline.com (634)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (498)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (417)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (388)</li>
-<li>chatgpt.com (361)</li>
+<li>chatgpt.com (363)</li>
 <li>rhul.sharepoint.com (349)</li>
 
 
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:48 outlook.office365.com</li>
+<ul><li> 12:28 www.google.com</li>
+<li> 12:26 outlook.office.com</li>
+<li class='same'> 12:25 outlook.office.com</li>
+<li> 12:08 forms.office.com</li>
+<li> 12:07 www.google.com</li>
+<li> 12:05 cisse.info</li>
+<li> 12:05 outlook.office365.com</li>
+<li> 11:53 forms.office.com</li>
+<li class='same'> 11:51 forms.office.com</li>
+<li> 11:51 login.microsoftonline.com</li>
+<li> 11:51 forms.office.com</li>
+<li> 11:50 chatgpt.com</li>
+<li class='same'> 11:49 chatgpt.com</li>
+<li> 11:49 chat.openai.com</li>
+<li> 11:48 outlook.office365.com</li>
 <li class='same'> 11:47 outlook.office365.com</li>
 <li> 11:46 outlook.office.com</li>
 <li> 11:46 Local file</li>
