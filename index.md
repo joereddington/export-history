@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8960)</li>
-<li>mail.google.com (6166)</li>
+<ol><li>www.google.com (8966)</li>
+<li>mail.google.com (6173)</li>
 <li>outlook.office.com (3616)</li>
 <li>www.facebook.com (2933)</li>
-<li>docs.google.com (1965)</li>
+<li>docs.google.com (1966)</li>
 <li>calendar.google.com (1506)</li>
-<li>outlook.office365.com (1448)</li>
+<li>outlook.office365.com (1476)</li>
 <li>www.reddit.com (1446)</li>
 <li>moodle.royalholloway.ac.uk (1444)</li>
-<li>www.amazon.co.uk (1250)</li>
+<li>www.amazon.co.uk (1251)</li>
 <li>github.com (1023)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (880)</li>
-<li>www.linkedin.com (798)</li>
-<li>gmail.com (769)</li>
+<li>www.linkedin.com (799)</li>
+<li>gmail.com (770)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (651)</li>
+<li>chat.openai.com (652)</li>
 <li>login.microsoftonline.com (636)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (498)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (465)</li>
+<li>drive.google.com (466)</li>
 <li>teams.microsoft.com (448)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (388)</li>
-<li>chatgpt.com (363)</li>
+<li>chatgpt.com (364)</li>
 <li>rhul.sharepoint.com (349)</li>
 
 
@@ -108,7 +108,61 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:50 whitewaterwriters.com</li>
+<ul><li> 14:40 <a href="https://en.wikipedia.org/wiki/University_of_Tampa">University of Tampa - Wikipedia</a></li>
+<li> 14:40 www.google.com</li>
+<li> 14:39 mail.google.com</li>
+<li> 14:39 www.amazon.co.uk</li>
+<li> 14:38 www.google.com</li>
+<li> 14:38 docs.google.com</li>
+<li> 14:35 outlook.office365.com</li>
+<li class='same'> 14:34 outlook.office365.com</li>
+<li class='same'> 14:33 outlook.office365.com</li>
+<li class='same'> 14:32 outlook.office365.com</li>
+<li> 14:30 researchprofiles.herts.ac.uk</li>
+<li> 14:30 www.google.com</li>
+<li> 14:29 www.linkedin.com</li>
+<li> 14:29 uk.linkedin.com</li>
+<li> 14:29 www.google.com</li>
+<li> 14:28 www.du9.org</li>
+<li> 14:28 www.google.com</li>
+<li> 14:28 outlook.office365.com</li>
+<li class='same'> 14:27 outlook.office365.com</li>
+<li class='same'> 14:26 outlook.office365.com</li>
+<li class='same'> 14:25 outlook.office365.com</li>
+<li class='same'> 14:24 outlook.office365.com</li>
+<li class='same'> 14:23 outlook.office365.com</li>
+<li class='same'> 14:22 outlook.office365.com</li>
+<li class='same'> 14:21 outlook.office365.com</li>
+<li class='same'> 14:20 outlook.office365.com</li>
+<li class='same'> 14:19 outlook.office365.com</li>
+<li class='same'> 14:18 outlook.office365.com</li>
+<li class='same'> 14:17 outlook.office365.com</li>
+<li class='same'> 14:16 outlook.office365.com</li>
+<li class='same'> 14:15 outlook.office365.com</li>
+<li class='same'> 14:14 outlook.office365.com</li>
+<li class='same'> 14:13 outlook.office365.com</li>
+<li class='same'> 14:12 outlook.office365.com</li>
+<li class='same'> 14:11 outlook.office365.com</li>
+<li class='same'> 14:10 outlook.office365.com</li>
+<li class='same'> 14:08 outlook.office365.com</li>
+<li> 14:07 www.google.com</li>
+<li> 14:06 outlook.office365.com</li>
+<li class='same'> 14:05 outlook.office365.com</li>
+<li class='same'> 14:04 outlook.office365.com</li>
+<li class='same'> 14:02 outlook.office365.com</li>
+<li> 14:01 drive.google.com</li>
+<li> 14:01 mail.google.com</li>
+<li> 13:59 events.zoom.us</li>
+<li> 13:59 mail.google.com</li>
+<li class='same'> 13:58 mail.google.com</li>
+<li> 13:58 gmail.com</li>
+<li> 13:58 mail.google.com</li>
+<li> 13:58 chatgpt.com</li>
+<li> 13:58 chat.openai.com</li>
+<li> 13:57 events.zoom.us</li>
+<li> 13:57 mail.google.com</li>
+<li class='same'> 13:56 mail.google.com</li>
+<li> 13:50 whitewaterwriters.com</li>
 <li> 13:49 www.gla.ac.uk</li>
 <li> 13:49 www.google.com</li>
 <li> 13:48 mail.google.com</li>
