@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8955)</li>
-<li>mail.google.com (6144)</li>
-<li>outlook.office.com (3614)</li>
+<ol><li>www.google.com (8957)</li>
+<li>mail.google.com (6150)</li>
+<li>outlook.office.com (3615)</li>
 <li>www.facebook.com (2933)</li>
 <li>docs.google.com (1965)</li>
-<li>calendar.google.com (1504)</li>
+<li>calendar.google.com (1506)</li>
 <li>www.reddit.com (1446)</li>
 <li>moodle.royalholloway.ac.uk (1444)</li>
 <li>outlook.office365.com (1441)</li>
@@ -82,18 +82,18 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (880)</li>
 <li>www.linkedin.com (798)</li>
-<li>gmail.com (766)</li>
+<li>gmail.com (767)</li>
 <li>whitewaterwriters.com (669)</li>
 <li>tvtropes.org (655)</li>
 <li>chat.openai.com (651)</li>
-<li>login.microsoftonline.com (634)</li>
+<li>login.microsoftonline.com (636)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (498)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (465)</li>
 <li>teams.microsoft.com (448)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (417)</li>
+<li>rhul-my.sharepoint.com (419)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (388)</li>
 <li>chatgpt.com (363)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:28 www.google.com</li>
+<ul><li> 12:37 <a href="https://joereddington.com/2024/11/07/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 12:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:37 mail.google.com</li>
+<li class='same'> 12:36 mail.google.com</li>
+<li> 12:36 calendar.google.com</li>
+<li> 12:36 www.google.com</li>
+<li> 12:36 calendar.google.com</li>
+<li> 12:36 mail.google.com</li>
+<li class='same'> 12:35 mail.google.com</li>
+<li class='same'> 12:33 mail.google.com</li>
+<li> 12:33 www.google.com</li>
+<li> 12:32 mail.google.com</li>
+<li> 12:32 gmail.com</li>
+<li> 12:32 rhul-my.sharepoint.com</li>
+<li> 12:32 login.microsoftonline.com</li>
+<li> 12:32 rhul-my.sharepoint.com</li>
+<li> 12:32 forms.office.com</li>
+<li class='same'> 12:31 forms.office.com</li>
+<li> 12:31 login.microsoftonline.com</li>
+<li> 12:31 forms.office.com</li>
+<li> 12:31 outlook.office.com</li>
+<li> 12:28 royalhollowayucu.wordpress.com</li>
+<li> 12:28 www.google.com</li>
 <li> 12:26 outlook.office.com</li>
 <li class='same'> 12:25 outlook.office.com</li>
 <li> 12:08 forms.office.com</li>
