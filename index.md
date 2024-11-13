@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (650)</li>
 <li>login.microsoftonline.com (633)</li>
 <li>app.qbo.intuit.com (574)</li>
-<li>web.whatsapp.com (497)</li>
+<li>web.whatsapp.com (498)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (465)</li>
 <li>teams.microsoft.com (448)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:09 0.0.0.0:8080</li>
+<ul><li> 11:17 web.whatsapp.com</li>
+<li> 11:15 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 11:09 0.0.0.0:8080</li>
 <li> 10:46 calendar.google.com</li>
 <li class='same'> 10:37 calendar.google.com</li>
 </ul>
