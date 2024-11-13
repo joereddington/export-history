@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8957)</li>
-<li>mail.google.com (6150)</li>
-<li>outlook.office.com (3615)</li>
+<li>mail.google.com (6153)</li>
+<li>outlook.office.com (3616)</li>
 <li>www.facebook.com (2933)</li>
 <li>docs.google.com (1965)</li>
 <li>calendar.google.com (1506)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:37 <a href="https://joereddington.com/2024/11/07/gratitude.html">Gratitude | Joe Reddington</a></li>
+<ul><li> 12:42 mail.google.com</li>
+<li class='same'> 12:41 mail.google.com</li>
+<li> 12:41 contacts.google.com</li>
+<li> 12:41 mail.google.com</li>
+<li> 12:41 outlook.office.com</li>
+<li> 12:37 <a href="https://joereddington.com/2024/11/07/gratitude.html">Gratitude | Joe Reddington</a></li>
 <li> 12:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:37 mail.google.com</li>
