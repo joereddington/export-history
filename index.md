@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8953)</li>
+<ol><li>www.google.com (8951)</li>
 <li>mail.google.com (6144)</li>
 <li>outlook.office.com (3605)</li>
 <li>www.facebook.com (2933)</li>
@@ -18985,8 +18985,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:43 www.google.com</li>
-<li> 13:40 photos.google.com</li>
+<ul><li> 13:40 photos.google.com</li>
 <li> 13:40 www.google.com</li>
 <li> 13:40 chatgpt.com</li>
 <li> 13:40 chat.openai.com</li>
@@ -18999,8 +18998,7 @@ With number of accesses/minutes in parentheses
 <li> 13:26 www.dsource.in</li>
 <li> 13:26 www.google.com</li>
 <li> 13:24 apps.apple.com</li>
-<li> 13:24 www.google.com</li>
-<li class='same'> 13:23 www.google.com</li>
+<li> 13:23 www.google.com</li>
 <li> 13:21 <a href="https://joereddington.com/Comics/2024-08-07.html">2024-08-07 | Joe’s Comics</a></li>
 <li> 13:21 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 13:21 www.google.com</li>
