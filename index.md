@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8966)</li>
-<li>mail.google.com (6173)</li>
-<li>outlook.office.com (3616)</li>
+<li>mail.google.com (6179)</li>
+<li>outlook.office.com (3617)</li>
 <li>www.facebook.com (2933)</li>
 <li>docs.google.com (1966)</li>
-<li>calendar.google.com (1506)</li>
-<li>outlook.office365.com (1476)</li>
+<li>calendar.google.com (1509)</li>
+<li>outlook.office365.com (1482)</li>
 <li>www.reddit.com (1446)</li>
 <li>moodle.royalholloway.ac.uk (1444)</li>
 <li>www.amazon.co.uk (1251)</li>
@@ -82,21 +82,21 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (880)</li>
 <li>www.linkedin.com (799)</li>
-<li>gmail.com (770)</li>
+<li>gmail.com (772)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (652)</li>
+<li>chat.openai.com (653)</li>
 <li>login.microsoftonline.com (636)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (498)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (466)</li>
+<li>drive.google.com (468)</li>
 <li>teams.microsoft.com (448)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (388)</li>
-<li>chatgpt.com (364)</li>
+<li>chatgpt.com (366)</li>
 <li>rhul.sharepoint.com (349)</li>
 
 
@@ -105,6 +105,40 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 13/11/24</H3>
+
+<br>
+
+<ul><li> 15:52 outlook.office365.com</li>
+<li class='same'> 15:51 outlook.office365.com</li>
+<li> 15:50 chatgpt.com</li>
+<li> 15:49 drive.google.com</li>
+<li> 15:49 mail.google.com</li>
+<li> 15:48 analytics.google.com</li>
+<li class='same'> 15:47 analytics.google.com</li>
+<li> 15:47 accounts.google.co.uk</li>
+<li> 15:47 gds.google.com</li>
+<li> 15:47 accounts.google.com</li>
+<li> 15:47 analytics.google.com</li>
+<li> 15:47 mail.google.com</li>
+<li> 15:46 drive.google.com</li>
+<li> 15:46 chatgpt.com</li>
+<li> 15:46 chat.openai.com</li>
+<li> 15:45 mail.google.com</li>
+<li class='same'> 15:37 mail.google.com</li>
+<li> 15:37 gmail.com</li>
+<li> 15:33 calendar.google.com</li>
+<li> 15:30 mail.google.com</li>
+<li> 15:30 gmail.com</li>
+<li> 15:29 outlook.office365.com</li>
+<li> 15:28 calendar.google.com</li>
+<li class='same'> 15:27 calendar.google.com</li>
+<li> 15:27 outlook.office365.com</li>
+<li> 15:26 cim.rhul.ac.uk</li>
+<li> 15:26 outlook.office.com</li>
+<li> 15:26 outlook.office365.com</li>
+<li> 15:24 mail.google.com</li>
+<li> 15:23 outlook.office365.com</li>
+</ul>
 
 <br>
 
