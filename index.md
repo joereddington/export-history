@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8971)</li>
+<ol><li>www.google.com (8975)</li>
 <li>mail.google.com (6197)</li>
 <li>outlook.office.com (3617)</li>
 <li>www.facebook.com (2949)</li>
 <li>docs.google.com (1966)</li>
 <li>calendar.google.com (1510)</li>
 <li>outlook.office365.com (1491)</li>
-<li>www.reddit.com (1448)</li>
+<li>www.reddit.com (1451)</li>
 <li>moodle.royalholloway.ac.uk (1444)</li>
-<li>www.amazon.co.uk (1253)</li>
+<li>www.amazon.co.uk (1254)</li>
 <li>github.com (1026)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (880)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:49 www.amazon.co.uk</li>
+<ul><li> 06:56 www.google.com</li>
+<li> 06:54 www.amazon.co.uk</li>
+<li> 06:53 www.reddit.com</li>
+<li> 06:53 www.google.com</li>
+<li> 06:53 www.reddit.com</li>
+<li class='same'> 06:52 www.reddit.com</li>
+<li> 06:52 www.google.com</li>
+<li> 06:52 community.cartalk.com</li>
+<li class='same'> 06:51 community.cartalk.com</li>
+<li class='same'> 06:50 community.cartalk.com</li>
+<li> 06:50 www.google.com</li>
+<li> 06:49 www.amazon.co.uk</li>
 <li> 06:42 github.com</li>
 <li class='same'> 06:41 github.com</li>
 <li class='same'> 06:40 github.com</li>
@@ -19118,8 +19129,6 @@ With number of accesses/minutes in parentheses
 <li> 21:21 www.facebook.com</li>
 <li class='same'> 21:19 www.facebook.com</li>
 <li class='same'> 21:15 www.facebook.com</li>
-<li> 21:14 www.lutontoday.co.uk</li>
-<li> 21:14 l.facebook.com</li>
 <li> 21:14 forum.artofmemory.com</li>
 <li class='same'> 21:13 forum.artofmemory.com</li>
 <li> 21:13 artofmemory.com</li>
@@ -19165,8 +19174,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:17 www.reddit.com</li>
 <li> 16:16 outlook.office.com</li>
 <li class='same'> 16:14 outlook.office.com</li>
-<li> 16:10 x.com</li>
-<li> 16:10 twitter.com</li>
 <li> 16:09 www.theguardian.com</li>
 <li class='same'> 16:07 www.theguardian.com</li>
 <li class='same'> 16:03 www.theguardian.com</li>
