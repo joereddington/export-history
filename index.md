@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8993)</li>
-<li>mail.google.com (6209)</li>
+<ol><li>www.google.com (8994)</li>
+<li>mail.google.com (6210)</li>
 <li>outlook.office.com (3647)</li>
 <li>www.facebook.com (2968)</li>
 <li>docs.google.com (1974)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1453)</li>
 <li>www.reddit.com (1451)</li>
 <li>www.amazon.co.uk (1254)</li>
-<li>github.com (1026)</li>
+<li>github.com (1027)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (880)</li>
 <li>www.linkedin.com (807)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:29 outlook.office.com</li>
+<ul><li> 13:44 github.com</li>
+<li> 13:44 askubuntu.com</li>
+<li> 13:44 www.google.com</li>
+<li> 13:43 mail.google.com</li>
+<li> 13:29 outlook.office.com</li>
 <li> 13:27 www.linkedin.com</li>
 <li class='same'> 13:26 www.linkedin.com</li>
 <li> 13:25 teams.microsoft.com</li>
