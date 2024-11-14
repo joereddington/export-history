@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8989)</li>
-<li>mail.google.com (6197)</li>
-<li>outlook.office.com (3633)</li>
+<ol><li>www.google.com (8993)</li>
+<li>mail.google.com (6207)</li>
+<li>outlook.office.com (3643)</li>
 <li>www.facebook.com (2949)</li>
-<li>docs.google.com (1966)</li>
-<li>calendar.google.com (1511)</li>
+<li>docs.google.com (1974)</li>
+<li>calendar.google.com (1512)</li>
 <li>outlook.office365.com (1491)</li>
+<li>moodle.royalholloway.ac.uk (1453)</li>
 <li>www.reddit.com (1451)</li>
-<li>moodle.royalholloway.ac.uk (1447)</li>
 <li>www.amazon.co.uk (1254)</li>
 <li>github.com (1026)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (880)</li>
-<li>www.linkedin.com (802)</li>
-<li>gmail.com (775)</li>
+<li>www.linkedin.com (805)</li>
+<li>gmail.com (779)</li>
 <li>whitewaterwriters.com (670)</li>
-<li>chat.openai.com (657)</li>
+<li>chat.openai.com (658)</li>
 <li>tvtropes.org (655)</li>
 <li>login.microsoftonline.com (642)</li>
 <li>app.qbo.intuit.com (574)</li>
-<li>web.whatsapp.com (499)</li>
+<li>web.whatsapp.com (502)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (468)</li>
+<li>drive.google.com (473)</li>
 <li>teams.microsoft.com (448)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (422)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (388)</li>
-<li>chatgpt.com (374)</li>
+<li>chatgpt.com (375)</li>
 <li>rhul.sharepoint.com (351)</li>
 
 
@@ -108,7 +108,80 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:47 outlook.office.com</li>
+<ul><li> 12:45 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:45 feedly.com</li>
+<li class='same'> 12:42 feedly.com</li>
+<li class='same'> 12:41 feedly.com</li>
+<li> 12:41 ev.turnitinuk.com</li>
+<li> 12:41 guides.turnitin.com</li>
+<li> 12:41 www.turnitinuk.com</li>
+<li class='same'> 12:40 www.turnitinuk.com</li>
+<li> 12:40 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:39 moodle.royalholloway.ac.uk</li>
+<li> 12:38 ev.turnitinuk.com</li>
+<li> 12:38 moodle.royalholloway.ac.uk</li>
+<li> 12:28 outlook.office.com</li>
+<li> 12:27 calendar.google.com</li>
+<li> 12:26 scholar.google.com</li>
+<li> 12:26 pure.royalholloway.ac.uk</li>
+<li> 12:26 www.google.com</li>
+<li class='same'> 12:24 www.google.com</li>
+<li> 12:24 www.linkedin.com</li>
+<li class='same'> 12:23 www.linkedin.com</li>
+<li class='same'> 12:21 www.linkedin.com</li>
+<li> 12:18 outlook.office.com</li>
+<li> 12:18 mail.google.com</li>
+<li> 12:18 24timezones.com</li>
+<li> 12:17 web.whatsapp.com</li>
+<li> 12:17 24timezones.com</li>
+<li> 12:16 cisse.info</li>
+<li> 12:16 outlook.office.com</li>
+<li> 12:15 mail.google.com</li>
+<li> 12:15 gmail.com</li>
+<li> 12:15 outlook.office.com</li>
+<li class='same'> 12:14 outlook.office.com</li>
+<li> 12:12 moodle.royalholloway.ac.uk</li>
+<li> 12:12 fast.com</li>
+<li> 12:12 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:11 moodle.royalholloway.ac.uk</li>
+<li> 12:11 outlook.office.com</li>
+<li class='same'> 12:10 outlook.office.com</li>
+<li> 12:09 mail.google.com</li>
+<li> 12:09 web.whatsapp.com</li>
+<li> 12:08 drive.google.com</li>
+<li> 12:07 mail.google.com</li>
+<li> 12:07 gmail.com</li>
+<li> 12:06 mail.google.com</li>
+<li> 12:06 gmail.com</li>
+<li> 12:06 outlook.office.com</li>
+<li> 12:06 mail.google.com</li>
+<li> 12:04 web.whatsapp.com</li>
+<li> 12:04 mail.google.com</li>
+<li class='same'> 12:03 mail.google.com</li>
+<li> 12:03 docs.google.com</li>
+<li class='same'> 12:02 docs.google.com</li>
+<li class='same'> 12:01 docs.google.com</li>
+<li> 12:01 drive.google.com</li>
+<li> 11:59 chatgpt.com</li>
+<li> 11:59 chat.openai.com</li>
+<li> 11:59 mail.google.com</li>
+<li class='same'> 11:58 mail.google.com</li>
+<li> 11:58 gmail.com</li>
+<li> 11:55 docs.google.com</li>
+<li> 11:55 drive.google.com</li>
+<li> 11:55 outlook.office.com</li>
+<li> 11:54 www.google.com</li>
+<li> 11:51 docs.google.com</li>
+<li class='same'> 11:50 docs.google.com</li>
+<li class='same'> 11:49 docs.google.com</li>
+<li class='same'> 11:48 docs.google.com</li>
+<li> 11:48 drive.google.com</li>
+<li> 11:48 www.google.com</li>
+<li> 11:47 cisse.info</li>
+<li> 11:47 drive.google.com</li>
+<li> 11:47 outlook.office.com</li>
+<li> 11:47 cisse.info</li>
+<li> 11:47 outlook.office.com</li>
 <li class='same'> 11:44 outlook.office.com</li>
 <li class='same'> 11:42 outlook.office.com</li>
 <li class='same'> 11:41 outlook.office.com</li>
