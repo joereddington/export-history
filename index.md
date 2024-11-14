@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8996)</li>
-<li>mail.google.com (6210)</li>
-<li>outlook.office.com (3647)</li>
+<ol><li>www.google.com (8997)</li>
+<li>mail.google.com (6211)</li>
+<li>outlook.office.com (3648)</li>
 <li>www.facebook.com (2968)</li>
 <li>docs.google.com (1974)</li>
 <li>calendar.google.com (1514)</li>
@@ -81,8 +81,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (1027)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (880)</li>
-<li>www.linkedin.com (807)</li>
-<li>gmail.com (780)</li>
+<li>www.linkedin.com (808)</li>
+<li>gmail.com (781)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (658)</li>
 <li>tvtropes.org (655)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:28 <a href="https://en.wikipedia.org/wiki/Information_security#Threats">Information security - Wikipedia</a></li>
+<ul><li> 14:33 www.linkedin.com</li>
+<li> 14:31 events.zoom.us</li>
+<li> 14:31 mail.google.com</li>
+<li> 14:31 gmail.com</li>
+<li> 14:30 outlook.office.com</li>
+<li> 14:28 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
+<li> 14:28 www.google.com</li>
+<li> 14:28 <a href="https://en.wikipedia.org/wiki/Information_security#Threats">Information security - Wikipedia</a></li>
 <li> 14:27 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=3">Editing Information security (section) - Wikipedia</a></li>
 <li> 14:27 <a href="https://en.wikipedia.org/wiki/Talk:Information_security#Merger_discussion">Talk:Information security - Wikipedia</a></li>
 <li> 14:27 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
