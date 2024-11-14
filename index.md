@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8989)</li>
 <li>mail.google.com (6197)</li>
-<li>outlook.office.com (3628)</li>
+<li>outlook.office.com (3633)</li>
 <li>www.facebook.com (2949)</li>
 <li>docs.google.com (1966)</li>
 <li>calendar.google.com (1511)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (468)</li>
 <li>teams.microsoft.com (448)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (421)</li>
+<li>rhul-my.sharepoint.com (422)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (388)</li>
 <li>chatgpt.com (374)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:30 www.tightrope.co.uk</li>
+<ul><li> 11:47 outlook.office.com</li>
+<li class='same'> 11:44 outlook.office.com</li>
+<li class='same'> 11:42 outlook.office.com</li>
+<li class='same'> 11:41 outlook.office.com</li>
+<li class='same'> 11:40 outlook.office.com</li>
+<li> 11:40 rhul-my.sharepoint.com</li>
+<li> 11:30 www.tightrope.co.uk</li>
 <li class='same'> 11:29 www.tightrope.co.uk</li>
 <li> 11:26 outlook.office.com</li>
 <li> 11:05 www.glamourmagazine.co.uk</li>
