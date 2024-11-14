@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8977)</li>
+<ol><li>www.google.com (8989)</li>
 <li>mail.google.com (6197)</li>
-<li>outlook.office.com (3624)</li>
+<li>outlook.office.com (3628)</li>
 <li>www.facebook.com (2949)</li>
 <li>docs.google.com (1966)</li>
-<li>calendar.google.com (1510)</li>
+<li>calendar.google.com (1511)</li>
 <li>outlook.office365.com (1491)</li>
 <li>www.reddit.com (1451)</li>
 <li>moodle.royalholloway.ac.uk (1447)</li>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:44 outlook.office.com</li>
+<ul><li> 11:26 outlook.office.com</li>
+<li> 11:05 www.glamourmagazine.co.uk</li>
+<li> 11:05 www.google.com</li>
+<li class='same'> 10:55 www.google.com</li>
+<li class='same'> 10:54 www.google.com</li>
+<li> 10:52 <a href="https://en.wikipedia.org/wiki/Clarence_House">Clarence House - Wikipedia</a></li>
+<li> 10:52 www.google.com</li>
+<li> 10:52 english.elpais.com</li>
+<li> 10:52 www.google.com</li>
+<li> 10:51 <a href="https://en.wikipedia.org/wiki/Ascot_tie">Ascot tie - Wikipedia</a></li>
+<li> 10:51 <a href="https://en.wikipedia.org/wiki/Ascot">Ascot - Wikipedia</a></li>
+<li> 10:51 www.google.com</li>
+<li> 10:48 cisse.info</li>
+<li class='same'> 10:47 cisse.info</li>
+<li> 10:47 calendar.google.com</li>
+<li> 10:44 imgflip.com</li>
+<li> 10:44 www.google.com</li>
+<li> 10:41 www.tightrope.co.uk</li>
+<li> 10:41 www.google.com</li>
+<li class='same'> 10:40 www.google.com</li>
+<li> 10:37 imgflip.com</li>
+<li> 10:37 www.google.com</li>
+<li> 10:37 knowyourmeme.com</li>
+<li> 10:37 www.google.com</li>
+<li> 10:37 imgflip.com</li>
+<li> 10:37 www.google.com</li>
+<li> 10:35 analytics.google.com</li>
+<li class='same'> 10:34 analytics.google.com</li>
+<li> 10:33 cisse.info</li>
+<li> 10:32 analytics.google.com</li>
+<li class='same'> 10:31 analytics.google.com</li>
+<li> 10:31 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 10:30 outlook.office.com</li>
+<li class='same'> 10:13 outlook.office.com</li>
+<li class='same'> 10:11 outlook.office.com</li>
+<li class='same'> 09:44 outlook.office.com</li>
 <li class='same'> 09:43 outlook.office.com</li>
 <li> 09:42 huawei.agorize.com</li>
 <li> 09:41 outlook.office.com</li>
