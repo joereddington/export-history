@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8976)</li>
 <li>mail.google.com (6197)</li>
-<li>outlook.office.com (3621)</li>
+<li>outlook.office.com (3624)</li>
 <li>www.facebook.com (2949)</li>
 <li>docs.google.com (1966)</li>
 <li>calendar.google.com (1510)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:30 chatgpt.com</li>
+<ul><li> 09:44 outlook.office.com</li>
+<li class='same'> 09:43 outlook.office.com</li>
+<li> 09:42 huawei.agorize.com</li>
+<li> 09:41 outlook.office.com</li>
+<li> 09:30 chatgpt.com</li>
 <li class='same'> 09:29 chatgpt.com</li>
 <li> 09:29 chat.openai.com</li>
 <li> 09:06 rhul-my.sharepoint.com</li>
