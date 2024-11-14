@@ -73,19 +73,19 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3617)</li>
 <li>www.facebook.com (2949)</li>
 <li>docs.google.com (1966)</li>
-<li>calendar.google.com (1509)</li>
+<li>calendar.google.com (1510)</li>
 <li>outlook.office365.com (1491)</li>
 <li>www.reddit.com (1448)</li>
 <li>moodle.royalholloway.ac.uk (1444)</li>
-<li>www.amazon.co.uk (1251)</li>
-<li>github.com (1023)</li>
+<li>www.amazon.co.uk (1253)</li>
+<li>github.com (1026)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (880)</li>
 <li>www.linkedin.com (802)</li>
 <li>gmail.com (775)</li>
 <li>whitewaterwriters.com (670)</li>
+<li>chat.openai.com (656)</li>
 <li>tvtropes.org (655)</li>
-<li>chat.openai.com (655)</li>
 <li>login.microsoftonline.com (639)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (499)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (388)</li>
-<li>chatgpt.com (370)</li>
+<li>chatgpt.com (372)</li>
 <li>rhul.sharepoint.com (351)</li>
 
 
@@ -104,7 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 14/11/24</H3>
+
+<br>
+
+<ul><li> 06:49 www.amazon.co.uk</li>
+<li> 06:42 github.com</li>
+<li class='same'> 06:41 github.com</li>
+<li class='same'> 06:40 github.com</li>
+<li> 06:40 www.amazon.co.uk</li>
+<li> 06:32 fritz.box</li>
+<li> 06:29 chatgpt.com</li>
+<li class='same'> 06:28 chatgpt.com</li>
+<li> 06:28 chat.openai.com</li>
+<li> 06:27 fritz.box</li>
+<li class='same'> 06:25 fritz.box</li>
+<li class='same'> 06:24 fritz.box</li>
+<li> 06:24 fast.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Wednesday, 13/11/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
