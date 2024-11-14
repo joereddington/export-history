@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (8975)</li>
+<ol><li>www.google.com (8976)</li>
 <li>mail.google.com (6197)</li>
-<li>outlook.office.com (3617)</li>
+<li>outlook.office.com (3621)</li>
 <li>www.facebook.com (2949)</li>
 <li>docs.google.com (1966)</li>
 <li>calendar.google.com (1510)</li>
 <li>outlook.office365.com (1491)</li>
 <li>www.reddit.com (1451)</li>
-<li>moodle.royalholloway.ac.uk (1444)</li>
+<li>moodle.royalholloway.ac.uk (1447)</li>
 <li>www.amazon.co.uk (1254)</li>
 <li>github.com (1026)</li>
 <li>m.facebook.com (978)</li>
@@ -84,19 +84,19 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (802)</li>
 <li>gmail.com (775)</li>
 <li>whitewaterwriters.com (670)</li>
-<li>chat.openai.com (656)</li>
+<li>chat.openai.com (657)</li>
 <li>tvtropes.org (655)</li>
-<li>login.microsoftonline.com (639)</li>
+<li>login.microsoftonline.com (642)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (499)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (468)</li>
 <li>teams.microsoft.com (448)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (420)</li>
+<li>rhul-my.sharepoint.com (421)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>bsky.app (388)</li>
-<li>chatgpt.com (372)</li>
+<li>chatgpt.com (374)</li>
 <li>rhul.sharepoint.com (351)</li>
 
 
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:56 www.google.com</li>
+<ul><li> 09:30 chatgpt.com</li>
+<li class='same'> 09:29 chatgpt.com</li>
+<li> 09:29 chat.openai.com</li>
+<li> 09:06 rhul-my.sharepoint.com</li>
+<li> 09:04 moodle.royalholloway.ac.uk</li>
+<li> 09:04 outlook.office.com</li>
+<li> 09:04 extensions.royalholloway.ac.uk</li>
+<li> 09:04 adfs.rhul.ac.uk</li>
+<li> 09:03 experience.elluciancloud.ie</li>
+<li> 09:03 login.microsoftonline.com</li>
+<li> 09:03 experience.elluciancloud.ie</li>
+<li> 09:03 intranet.royalholloway.ac.uk</li>
+<li> 09:03 www.google.com</li>
+<li> 09:02 moodle.royalholloway.ac.uk</li>
+<li> 09:02 login.microsoftonline.com</li>
+<li> 09:02 moodle.royalholloway.ac.uk</li>
+<li> 09:01 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:32 outlook.office.com</li>
+<li class='same'> 07:31 outlook.office.com</li>
+<li> 07:31 login.microsoftonline.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:00 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:56 www.google.com</li>
 <li> 06:54 www.amazon.co.uk</li>
 <li> 06:53 www.reddit.com</li>
 <li> 06:53 www.google.com</li>
