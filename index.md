@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (8993)</li>
 <li>mail.google.com (6209)</li>
-<li>outlook.office.com (3646)</li>
+<li>outlook.office.com (3647)</li>
 <li>www.facebook.com (2968)</li>
 <li>docs.google.com (1974)</li>
 <li>calendar.google.com (1514)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1026)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (880)</li>
-<li>www.linkedin.com (805)</li>
+<li>www.linkedin.com (807)</li>
 <li>gmail.com (780)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (658)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:25 teams.microsoft.com</li>
+<ul><li> 13:29 outlook.office.com</li>
+<li> 13:27 www.linkedin.com</li>
+<li class='same'> 13:26 www.linkedin.com</li>
+<li> 13:25 teams.microsoft.com</li>
 <li> 13:25 outlook.office.com</li>
 <li> 13:19 <a href="https://www.youtube.com/watch?v=09pVWHzOpOw">(84) Tai Otoshi: Full Instructional - YouTube</a></li>
 <li> 13:19 <a href="https://www.youtube.com/results?search_query=judo+tai+otoshi">(84) judo tai otoshi - YouTube</a></li>
