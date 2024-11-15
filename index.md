@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9013)</li>
-<li>mail.google.com (6214)</li>
-<li>outlook.office.com (3649)</li>
+<li>mail.google.com (6216)</li>
+<li>outlook.office.com (3651)</li>
 <li>www.facebook.com (2968)</li>
 <li>docs.google.com (1974)</li>
 <li>calendar.google.com (1516)</li>
-<li>outlook.office365.com (1507)</li>
+<li>outlook.office365.com (1508)</li>
 <li>moodle.royalholloway.ac.uk (1453)</li>
 <li>www.reddit.com (1451)</li>
 <li>www.amazon.co.uk (1254)</li>
@@ -82,21 +82,21 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (881)</li>
 <li>www.linkedin.com (817)</li>
-<li>gmail.com (781)</li>
+<li>gmail.com (782)</li>
 <li>whitewaterwriters.com (670)</li>
-<li>chat.openai.com (660)</li>
+<li>chat.openai.com (661)</li>
 <li>tvtropes.org (655)</li>
-<li>login.microsoftonline.com (644)</li>
+<li>login.microsoftonline.com (646)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (503)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (473)</li>
 <li>teams.microsoft.com (450)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (425)</li>
+<li>rhul-my.sharepoint.com (426)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>bsky.app (391)</li>
-<li>chatgpt.com (377)</li>
+<li>bsky.app (394)</li>
+<li>chatgpt.com (379)</li>
 <li>rhul.sharepoint.com (351)</li>
 
 
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:34 www.linkedin.com</li>
+<ul><li> 13:01 forms.office.com</li>
+<li class='same'> 13:00 forms.office.com</li>
+<li class='same'> 12:59 forms.office.com</li>
+<li> 12:59 login.microsoftonline.com</li>
+<li> 12:59 forms.office.com</li>
+<li> 12:58 chatgpt.com</li>
+<li class='same'> 12:47 chatgpt.com</li>
+<li> 12:47 chat.openai.com</li>
+<li> 12:46 dashboards.rhul.ac.uk</li>
+<li> 12:46 rhul-my.sharepoint.com</li>
+<li> 12:46 outlook.office365.com</li>
+<li> 12:46 outlook.office.com</li>
+<li class='same'> 12:45 outlook.office.com</li>
+<li> 12:45 login.microsoftonline.com</li>
+<li> 12:45 mail.google.com</li>
+<li> 12:45 accounts.google.com</li>
+<li> 12:45 mail.google.com</li>
+<li> 12:45 gmail.com</li>
+<li> 12:44 bsky.app</li>
+<li class='same'> 12:43 bsky.app</li>
+<li class='same'> 12:42 bsky.app</li>
+<li> 12:34 www.linkedin.com</li>
 <li class='same'> 12:33 www.linkedin.com</li>
 <li> 12:27 chatgpt.com</li>
 <li> 12:27 chat.openai.com</li>
