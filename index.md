@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9018)</li>
-<li>mail.google.com (6222)</li>
+<ol><li>www.google.com (9022)</li>
+<li>mail.google.com (6226)</li>
 <li>outlook.office.com (3652)</li>
-<li>www.facebook.com (2968)</li>
+<li>www.facebook.com (2987)</li>
 <li>docs.google.com (1974)</li>
 <li>calendar.google.com (1516)</li>
-<li>outlook.office365.com (1511)</li>
+<li>outlook.office365.com (1515)</li>
 <li>moodle.royalholloway.ac.uk (1455)</li>
-<li>www.reddit.com (1451)</li>
+<li>www.reddit.com (1453)</li>
 <li>www.amazon.co.uk (1254)</li>
 <li>github.com (1027)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (881)</li>
-<li>www.linkedin.com (819)</li>
+<li>www.theguardian.com (882)</li>
+<li>www.linkedin.com (821)</li>
 <li>gmail.com (783)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (663)</li>
@@ -94,8 +94,8 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (451)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (428)</li>
+<li>bsky.app (407)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>bsky.app (401)</li>
 <li>chatgpt.com (382)</li>
 <li>rhul.sharepoint.com (351)</li>
 
@@ -105,6 +105,60 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 15/11/24</H3>
+
+<br>
+
+<ul><li> 16:34 clearsky.app</li>
+<li class='same'> 16:33 clearsky.app</li>
+<li> 16:33 www.reddit.com</li>
+<li> 16:33 www.google.com</li>
+<li> 16:33 clearsky.app</li>
+<li> 16:32 www.reddit.com</li>
+<li> 16:32 www.google.com</li>
+<li> 16:32 bsky.app</li>
+<li class='same'> 16:31 bsky.app</li>
+<li> 16:31 mail.google.com</li>
+<li> 16:31 appliedcomicsetc.com</li>
+<li> 16:31 outlook.office365.com</li>
+<li> 16:30 mail.google.com</li>
+<li> 16:30 privacyportal-de.onetrust.com</li>
+<li> 16:30 help.hollandandbarrett.com</li>
+<li> 16:30 www.google.com</li>
+<li> 16:29 privacyportal-de.onetrust.com</li>
+<li> 16:29 mail.google.com</li>
+<li> 16:29 privacyportal-de.onetrust.com</li>
+<li> 16:29 mail.google.com</li>
+<li> 16:29 bsky.app</li>
+<li> 16:28 www.facebook.com</li>
+<li class='same'> 16:27 www.facebook.com</li>
+<li class='same'> 16:26 www.facebook.com</li>
+<li class='same'> 16:25 www.facebook.com</li>
+<li class='same'> 16:24 www.facebook.com</li>
+<li> 16:24 bsky.app</li>
+<li> 16:24 outlook.office365.com</li>
+<li> 16:23 www.facebook.com</li>
+<li class='same'> 16:22 www.facebook.com</li>
+<li class='same'> 16:21 www.facebook.com</li>
+<li class='same'> 16:20 www.facebook.com</li>
+<li class='same'> 16:19 www.facebook.com</li>
+<li class='same'> 16:18 www.facebook.com</li>
+<li class='same'> 16:17 www.facebook.com</li>
+<li class='same'> 16:15 www.facebook.com</li>
+<li class='same'> 16:14 www.facebook.com</li>
+<li class='same'> 16:13 www.facebook.com</li>
+<li class='same'> 16:12 www.facebook.com</li>
+<li class='same'> 16:11 www.facebook.com</li>
+<li> 16:08 www.theguardian.com</li>
+<li> 16:08 www.google.com</li>
+<li> 16:07 www.facebook.com</li>
+<li class='same'> 16:06 www.facebook.com</li>
+<li> 16:05 www.linkedin.com</li>
+<li> 16:05 outlook.office365.com</li>
+<li class='same'> 16:04 outlook.office365.com</li>
+<li> 16:04 www.linkedin.com</li>
+<li> 16:03 bsky.app</li>
+<li class='same'> 16:02 bsky.app</li>
+</ul>
 
 <br>
 
