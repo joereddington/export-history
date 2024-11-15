@@ -74,27 +74,27 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (2987)</li>
 <li>docs.google.com (1974)</li>
 <li>calendar.google.com (1516)</li>
-<li>outlook.office365.com (1515)</li>
+<li>outlook.office365.com (1516)</li>
 <li>moodle.royalholloway.ac.uk (1455)</li>
 <li>www.reddit.com (1455)</li>
 <li>www.amazon.co.uk (1254)</li>
 <li>github.com (1027)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (882)</li>
-<li>www.linkedin.com (822)</li>
+<li>www.linkedin.com (823)</li>
 <li>gmail.com (783)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (664)</li>
 <li>tvtropes.org (655)</li>
-<li>login.microsoftonline.com (653)</li>
+<li>login.microsoftonline.com (654)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (503)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (473)</li>
 <li>teams.microsoft.com (451)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (430)</li>
-<li>bsky.app (412)</li>
+<li>rhul-my.sharepoint.com (432)</li>
+<li>bsky.app (423)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (383)</li>
 <li>rhul.sharepoint.com (351)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:34 bsky.app</li>
+<ul><li> 17:58 outlook.office365.com</li>
+<li> 17:57 bsky.app</li>
+<li class='same'> 17:56 bsky.app</li>
+<li class='same'> 17:55 bsky.app</li>
+<li> 17:54 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 17:54 bsky.app</li>
+<li class='same'> 17:53 bsky.app</li>
+<li class='same'> 17:51 bsky.app</li>
+<li class='same'> 17:50 bsky.app</li>
+<li class='same'> 17:49 bsky.app</li>
+<li> 17:49 forms.office.com</li>
+<li> 17:49 login.microsoftonline.com</li>
+<li> 17:49 forms.office.com</li>
+<li> 17:49 rhul-my.sharepoint.com</li>
+<li> 17:47 discord.com</li>
+<li class='same'> 17:46 discord.com</li>
+<li> 17:45 rhul-my.sharepoint.com</li>
+<li> 17:44 bsky.app</li>
+<li> 17:42 www.linkedin.com</li>
+<li> 17:42 bsky.app</li>
+<li class='same'> 17:41 bsky.app</li>
+<li> 17:41 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 17:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 17:41 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 17:41 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
+<li> 17:34 bsky.app</li>
 <li> 17:34 chatgpt.com</li>
 <li> 17:34 chat.openai.com</li>
 <li> 17:33 login.microsoftonline.com</li>
