@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9027)</li>
+<ol><li>www.google.com (9025)</li>
 <li>mail.google.com (6229)</li>
 <li>outlook.office.com (3652)</li>
 <li>www.facebook.com (2987)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 16/11/24</H3>
+
+<br>
+
+<ul><li> 11:09 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+</ul>
+
 <H3>Friday, 15/11/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -19557,20 +19568,16 @@ With number of accesses/minutes in parentheses
 <li> 08:28 m.facebook.com</li>
 <li> 08:28 en.m.wikipedia.org</li>
 <li> 08:23 www.google.com</li>
-<li> 08:23 maps.google.com</li>
-<li> 08:23 www.google.com</li>
 <li> 08:22 www.facebook.com</li>
 <li> 08:21 photos.google.com</li>
 <li class='same'> 08:20 photos.google.com</li>
 <li> 08:20 accounts.google.com</li>
-<li> 08:20 photos.google.com</li>
 <li> 08:20 www.google.com</li>
 <li> 08:13 www.facebook.com</li>
 <li class='same'> 08:12 www.facebook.com</li>
 <li> 08:03 www.google.com</li>
 <li> 08:01 web.whatsapp.com</li>
-<li> 07:58 www.google.com</li>
-<li class='same'> 07:57 www.google.com</li>
+<li> 07:57 www.google.com</li>
 <li> 07:45 www.parkrun.org.uk</li>
 <li> 07:45 www.parkrun.com</li>
 <li> 07:45 www.google.com</li>
