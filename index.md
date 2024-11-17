@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9032)</li>
+<ol><li>www.google.com (9040)</li>
 <li>mail.google.com (6229)</li>
 <li>outlook.office.com (3652)</li>
 <li>www.facebook.com (2987)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:11 www.google.com</li>
+<ul><li> 18:23 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 18:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 18:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 18:04 buffer.com</li>
+<li> 18:04 www.google.com</li>
+<li> 18:04 www.autoexpress.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:43 www.autoexpress.co.uk</li>
+<li> 13:43 www.google.com</li>
+<li> 13:43 clearsky.app</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:29 clearsky.app</li>
+<li> 08:27 www.google.com</li>
+<li class='same'> 08:26 www.google.com</li>
+<li class='same'> 08:14 www.google.com</li>
+<li> 08:14 www.flightstats.com</li>
+<li class='same'> 08:13 www.flightstats.com</li>
+<li> 08:13 www.google.com</li>
+<li> 08:13 www.britishairways.com</li>
+<li> 08:12 www.google.com</li>
+<li class='same'> 08:11 www.google.com</li>
 </ul>
 
 <br>
@@ -81931,7 +81957,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:22 twitter.com</li>
+<ul><li> 08:26 www.google.com</li>
+<li> 08:22 twitter.com</li>
 <li class='same'> 08:21 twitter.com</li>
 <li> 08:18 joereddington.github.io</li>
 </ul>
