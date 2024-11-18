@@ -71,32 +71,32 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9080)</li>
 <li>mail.google.com (6231)</li>
 <li>outlook.office.com (3652)</li>
-<li>www.facebook.com (2988)</li>
+<li>www.facebook.com (2992)</li>
 <li>docs.google.com (1974)</li>
-<li>outlook.office365.com (1545)</li>
+<li>outlook.office365.com (1548)</li>
 <li>calendar.google.com (1518)</li>
 <li>moodle.royalholloway.ac.uk (1460)</li>
-<li>www.reddit.com (1456)</li>
+<li>www.reddit.com (1457)</li>
 <li>www.amazon.co.uk (1254)</li>
 <li>github.com (1028)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (884)</li>
-<li>www.linkedin.com (828)</li>
+<li>www.linkedin.com (829)</li>
 <li>gmail.com (783)</li>
 <li>whitewaterwriters.com (670)</li>
-<li>chat.openai.com (666)</li>
+<li>chat.openai.com (667)</li>
 <li>tvtropes.org (659)</li>
 <li>login.microsoftonline.com (658)</li>
 <li>app.qbo.intuit.com (574)</li>
-<li>web.whatsapp.com (505)</li>
+<li>web.whatsapp.com (506)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (473)</li>
+<li>bsky.app (453)</li>
 <li>teams.microsoft.com (452)</li>
-<li>bsky.app (449)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (437)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (386)</li>
+<li>chatgpt.com (387)</li>
 <li>rhul.sharepoint.com (351)</li>
 
 
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:12 bsky.app</li>
+<ul><li> 17:32 chatgpt.com</li>
+<li> 17:32 chat.openai.com</li>
+<li> 17:30 bsky.app</li>
+<li> 17:29 www.linkedin.com</li>
+<li> 17:28 www.facebook.com</li>
+<li class='same'> 17:26 www.facebook.com</li>
+<li class='same'> 17:25 www.facebook.com</li>
+<li> 17:23 web.whatsapp.com</li>
+<li> 17:17 www.facebook.com</li>
+<li> 17:13 www.reddit.com</li>
+<li> 17:12 outlook.office365.com</li>
+<li> 17:11 bsky.app</li>
+<li class='same'> 17:10 bsky.app</li>
+<li> 17:09 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:14 outlook.office365.com</li>
+<li> 16:13 bsky.app</li>
+<li class='same'> 16:12 bsky.app</li>
 </ul>
 
 <br>
