@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9080)</li>
+<ol><li>www.google.com (9081)</li>
 <li>mail.google.com (6231)</li>
 <li>outlook.office.com (3652)</li>
-<li>www.facebook.com (2992)</li>
+<li>www.facebook.com (2993)</li>
 <li>docs.google.com (1974)</li>
 <li>outlook.office365.com (1548)</li>
 <li>calendar.google.com (1518)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1028)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (884)</li>
-<li>www.linkedin.com (829)</li>
+<li>www.linkedin.com (830)</li>
 <li>gmail.com (783)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (667)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (506)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (473)</li>
-<li>bsky.app (453)</li>
+<li>bsky.app (459)</li>
 <li>teams.microsoft.com (452)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (437)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:32 chatgpt.com</li>
+<ul><li> 18:24 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 18:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 18:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 18:23 bsky.app</li>
+<li class='same'> 18:22 bsky.app</li>
+<li> 18:22 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:43 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 17:43 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 17:43 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 17:43 publish.buffer.com</li>
+<li> 17:42 support.buffer.com</li>
+<li> 17:42 www.google.com</li>
+<li> 17:41 publish.buffer.com</li>
+<li> 17:41 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 17:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 17:41 <a href="https://joereddington.com/2024/06/18/history.html">Rebuilding public history | Joe Reddington</a></li>
+<li> 17:41 <a href="https://joereddington.com/2024/07/17/tih.html">Today I have… | Joe Reddington</a></li>
+<li> 17:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 17:41 publish.buffer.com</li>
+<li> 17:41 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 17:40 publish.buffer.com</li>
+<li> 17:40 login.buffer.com</li>
+<li> 17:40 buffer.com</li>
+<li> 17:40 bsky.app</li>
+<li class='same'> 17:39 bsky.app</li>
+<li> 17:35 www.linkedin.com</li>
+<li> 17:34 bsky.app</li>
+<li class='same'> 17:33 bsky.app</li>
+<li> 17:32 chatgpt.com</li>
 <li> 17:32 chat.openai.com</li>
 <li> 17:30 bsky.app</li>
 <li> 17:29 www.linkedin.com</li>
