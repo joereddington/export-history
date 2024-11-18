@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9051)</li>
+<ol><li>www.google.com (9071)</li>
 <li>mail.google.com (6231)</li>
 <li>outlook.office.com (3652)</li>
 <li>www.facebook.com (2987)</li>
 <li>docs.google.com (1974)</li>
-<li>outlook.office365.com (1525)</li>
+<li>outlook.office365.com (1526)</li>
 <li>calendar.google.com (1517)</li>
 <li>moodle.royalholloway.ac.uk (1455)</li>
 <li>www.reddit.com (1455)</li>
@@ -81,10 +81,10 @@ With number of accesses/minutes in parentheses
 <li>github.com (1027)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (884)</li>
-<li>www.linkedin.com (823)</li>
+<li>www.linkedin.com (826)</li>
 <li>gmail.com (783)</li>
 <li>whitewaterwriters.com (670)</li>
-<li>chat.openai.com (664)</li>
+<li>chat.openai.com (665)</li>
 <li>tvtropes.org (659)</li>
 <li>login.microsoftonline.com (657)</li>
 <li>app.qbo.intuit.com (574)</li>
@@ -93,10 +93,10 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (473)</li>
 <li>teams.microsoft.com (451)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (435)</li>
-<li>bsky.app (432)</li>
+<li>bsky.app (438)</li>
+<li>rhul-my.sharepoint.com (436)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (383)</li>
+<li>chatgpt.com (385)</li>
 <li>rhul.sharepoint.com (351)</li>
 
 
@@ -108,7 +108,56 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:30 forms.office.com</li>
+<ul><li> 12:32 eprints.soton.ac.uk</li>
+<li> 12:32 ico.org.uk</li>
+<li> 12:31 www.google.com</li>
+<li> 12:31 ico.org.uk</li>
+<li> 12:30 www.privacycompany.eu</li>
+<li> 12:30 www.google.com</li>
+<li class='same'> 12:26 www.google.com</li>
+<li> 12:23 bsky.app</li>
+<li> 12:23 www.google.com</li>
+<li> 12:23 chatgpt.com</li>
+<li> 12:20 forms.office.com</li>
+<li> 12:18 www.dataprotection.ie</li>
+<li> 12:18 www.google.com</li>
+<li> 12:16 www.linkedin.com</li>
+<li> 12:12 gdpr-info.eu</li>
+<li> 12:12 www.google.com</li>
+<li> 12:10 rhul-my.sharepoint.com</li>
+<li> 12:10 forms.office.com</li>
+<li class='same'> 12:09 forms.office.com</li>
+<li> 12:09 www.linkedin.com</li>
+<li class='same'> 12:08 www.linkedin.com</li>
+<li> 12:08 bsky.app</li>
+<li> 12:06 www.google.com</li>
+<li class='same'> 12:05 www.google.com</li>
+<li class='same'> 12:04 www.google.com</li>
+<li class='same'> 12:03 www.google.com</li>
+<li class='same'> 12:02 www.google.com</li>
+<li> 12:00 outlook.office365.com</li>
+<li> 12:00 www.google.com</li>
+<li> 12:00 bsky.app</li>
+<li class='same'> 11:59 bsky.app</li>
+<li> 11:59 chatgpt.com</li>
+<li> 11:59 chat.openai.com</li>
+<li> 11:59 www.google.com</li>
+<li class='same'> 11:58 www.google.com</li>
+<li> 11:57 bsky.app</li>
+<li class='same'> 11:54 bsky.app</li>
+<li> 11:54 www.google.com</li>
+<li class='same'> 11:53 www.google.com</li>
+<li> 11:51 assets.publishing.service.gov.uk</li>
+<li> 11:51 www.gov.uk</li>
+<li class='same'> 11:50 www.gov.uk</li>
+<li> 11:50 www.scope.org.uk</li>
+<li> 11:50 www.google.com</li>
+<li> 11:45 news.cgtn.com</li>
+<li> 11:45 www.google.com</li>
+<li> 11:43 fun4thedisabled.com</li>
+<li> 11:43 www.google.com</li>
+<li class='same'> 11:36 www.google.com</li>
+<li> 11:30 forms.office.com</li>
 <li> 11:30 login.microsoftonline.com</li>
 <li> 11:30 rhul-my.sharepoint.com</li>
 <li> 11:30 forms.office.com</li>
