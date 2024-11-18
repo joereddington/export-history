@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9040)</li>
+<ol><li>www.google.com (9050)</li>
 <li>mail.google.com (6229)</li>
 <li>outlook.office.com (3652)</li>
 <li>www.facebook.com (2987)</li>
@@ -80,12 +80,12 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1254)</li>
 <li>github.com (1027)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (882)</li>
+<li>www.theguardian.com (884)</li>
 <li>www.linkedin.com (823)</li>
 <li>gmail.com (783)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (664)</li>
-<li>tvtropes.org (655)</li>
+<li>tvtropes.org (659)</li>
 <li>login.microsoftonline.com (654)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (503)</li>
@@ -104,7 +104,31 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 18/11/24</H3>
+
+<br>
+
+<ul><li> 10:06 www.google.com</li>
+</ul>
+
 <H3>Sunday, 17/11/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 23:15 www.google.com</li>
+<li class='same'> 23:14 www.google.com</li>
+<li> 23:14 tvtropes.org</li>
+<li class='same'> 23:13 tvtropes.org</li>
+<li class='same'> 23:12 tvtropes.org</li>
+<li class='same'> 23:08 tvtropes.org</li>
+<li> 23:08 www.google.com</li>
+<li class='same'> 23:03 www.google.com</li>
+<li> 23:02 www.giantitp.com</li>
+</ul>
 
 <br>
 
@@ -189,6 +213,12 @@ With number of accesses/minutes in parentheses
 <li> 11:09 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&section=1&oldid=1257467068&action=edit">Editing Information security - Wikipedia</a></li>
 <li> 11:09 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=1">Editing Information security (section) - Wikipedia</a></li>
 <li> 11:09 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 08:27 www.giantitp.com</li>
+<li> 08:27 www.google.com</li>
 </ul>
 
 <H3>Friday, 15/11/24</H3>
@@ -1572,7 +1602,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:24 www.facebook.com</li>
+<ul><li> 18:45 <a href="https://www.youtube.com/watch?v=9A9ZsNDf5tM">Google AutoDraw Tutorial - A.I. Experiment - YouTube</a></li>
+<li> 18:45 <a href="https://www.youtube.com/watch?v=9A9ZsNDf5tM&themeRefresh=1">Google AutoDraw Tutorial - A.I. Experiment - YouTube</a></li>
+<li> 18:45 <a href="https://www.youtube.com/watch?v=9A9ZsNDf5tM">Google AutoDraw Tutorial - A.I. Experiment - YouTube</a></li>
+<li> 18:45 www.google.com</li>
+<li> 18:45 <a href="https://www.youtube.com/watch?v=9A9ZsNDf5tM&themeRefresh=1">Google AutoDraw Tutorial - A.I. Experiment - YouTube</a></li>
+<li> 18:24 www.facebook.com</li>
 <li> 18:24 bsky.app</li>
 <li> 18:24 www.linkedin.com</li>
 <li class='same'> 18:23 www.linkedin.com</li>
@@ -1865,6 +1900,16 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:43 mail.google.com</li>
 <li> 13:38 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:40 www.google.com</li>
+<li> 08:27 www.autodraw.com</li>
+<li> 08:27 www.google.com</li>
+<li> 08:27 www.autodraw.com</li>
+<li> 08:27 www.google.com</li>
+<li> 08:27 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -2709,7 +2754,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 08:02 www.theguardian.com</li>
+<ul><li class='same'> 08:03 www.theguardian.com</li>
+<li class='same'> 08:02 www.theguardian.com</li>
 <li> 07:35 search.app.goo.gl</li>
 <li> 07:34 www.theguardian.com</li>
 <li class='same'> 07:10 www.theguardian.com</li>
@@ -19470,7 +19516,6 @@ With number of accesses/minutes in parentheses
 <li> 08:22 www.linkedin.com</li>
 <li> 08:20 chatgpt.com</li>
 <li> 08:20 auth0.openai.com</li>
-<li> 08:20 auth.openai.com</li>
 <li> 08:20 www.google.com</li>
 <li> 08:19 docs.google.com</li>
 <li> 08:18 chatgpt.com</li>
