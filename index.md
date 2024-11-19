@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9083)</li>
-<li>mail.google.com (6262)</li>
+<ol><li>www.google.com (9085)</li>
+<li>mail.google.com (6273)</li>
 <li>outlook.office.com (3652)</li>
-<li>www.facebook.com (2993)</li>
+<li>www.facebook.com (2995)</li>
 <li>docs.google.com (1976)</li>
-<li>outlook.office365.com (1567)</li>
-<li>calendar.google.com (1525)</li>
+<li>outlook.office365.com (1570)</li>
+<li>calendar.google.com (1528)</li>
 <li>moodle.royalholloway.ac.uk (1460)</li>
 <li>www.reddit.com (1457)</li>
 <li>www.amazon.co.uk (1256)</li>
@@ -82,21 +82,21 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (884)</li>
 <li>www.linkedin.com (834)</li>
-<li>gmail.com (785)</li>
+<li>gmail.com (786)</li>
 <li>whitewaterwriters.com (670)</li>
-<li>chat.openai.com (667)</li>
-<li>login.microsoftonline.com (661)</li>
+<li>chat.openai.com (669)</li>
+<li>login.microsoftonline.com (663)</li>
 <li>tvtropes.org (659)</li>
-<li>app.qbo.intuit.com (574)</li>
+<li>app.qbo.intuit.com (576)</li>
 <li>web.whatsapp.com (508)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>bsky.app (479)</li>
+<li>bsky.app (486)</li>
 <li>drive.google.com (473)</li>
 <li>teams.microsoft.com (452)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (389)</li>
+<li>chatgpt.com (392)</li>
 <li>rhul.sharepoint.com (352)</li>
 
 
@@ -108,7 +108,70 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:27 outlook.office365.com</li>
+<ul><li> 13:26 chatgpt.com</li>
+<li> 13:26 chat.openai.com</li>
+<li> 13:25 mail.google.com</li>
+<li> 13:21 qbo.intuit.com</li>
+<li class='same'> 13:19 qbo.intuit.com</li>
+<li class='same'> 13:18 qbo.intuit.com</li>
+<li> 13:17 accounts.intuit.com</li>
+<li> 13:17 qbo.intuit.com</li>
+<li> 13:17 c14.qbo.intuit.com</li>
+<li> 13:17 app.qbo.intuit.com</li>
+<li> 13:16 accounts.intuit.com</li>
+<li> 13:16 qbo.intuit.com</li>
+<li> 13:16 c14.qbo.intuit.com</li>
+<li> 13:16 app.qbo.intuit.com</li>
+<li> 13:16 jakebailey.dev</li>
+<li> 13:13 bsky.app</li>
+<li> 13:13 mail.google.com</li>
+<li> 13:12 app.geckoform.com</li>
+<li> 13:12 mail.google.com</li>
+<li> 13:12 bsky.app</li>
+<li> 13:12 mail.google.com</li>
+<li> 13:12 gmail.com</li>
+<li> 13:12 outlook.office365.com</li>
+<li> 13:12 mail.google.com</li>
+<li class='same'> 13:11 mail.google.com</li>
+<li> 13:11 calendar.google.com</li>
+<li> 13:11 mail.google.com</li>
+<li class='same'> 13:10 mail.google.com</li>
+<li> 13:10 outlook.office365.com</li>
+<li> 13:09 mail.google.com</li>
+<li> 13:08 bsky.app</li>
+<li class='same'> 13:06 bsky.app</li>
+<li> 13:03 discworldquotes.tumblr.com</li>
+<li> 13:03 www.google.com</li>
+<li> 12:59 bsky.app</li>
+<li class='same'> 12:57 bsky.app</li>
+<li> 12:50 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li class='same'> 12:45 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:45 experience.elluciancloud.ie</li>
+<li> 12:41 chatgpt.com</li>
+<li class='same'> 12:40 chatgpt.com</li>
+<li> 12:40 chat.openai.com</li>
+<li> 12:39 login.microsoftonline.com</li>
+<li> 12:39 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:39 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 12:39 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:39 experience.elluciancloud.ie</li>
+<li> 12:39 adfs.rhul.ac.uk</li>
+<li> 12:39 extensions.royalholloway.ac.uk</li>
+<li> 12:39 adfs.rhul.ac.uk</li>
+<li> 12:39 experience.elluciancloud.ie</li>
+<li> 12:39 login.microsoftonline.com</li>
+<li> 12:39 experience.elluciancloud.ie</li>
+<li> 12:39 rhul.hosted.panopto.com</li>
+<li> 12:39 mail.google.com</li>
+<li> 12:39 calendar.google.com</li>
+<li class='same'> 12:38 calendar.google.com</li>
+<li> 12:38 bsky.app</li>
+<li> 12:36 outlook.office365.com</li>
+<li> 12:29 www.google.com</li>
+<li> 12:29 www.facebook.com</li>
+<li class='same'> 12:28 www.facebook.com</li>
+<li> 12:28 mail.google.com</li>
+<li> 12:27 outlook.office365.com</li>
 <li class='same'> 12:26 outlook.office365.com</li>
 <li> 12:26 mail.google.com</li>
 <li class='same'> 12:25 mail.google.com</li>
