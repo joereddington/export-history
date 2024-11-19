@@ -72,29 +72,29 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6231)</li>
 <li>outlook.office.com (3652)</li>
 <li>www.facebook.com (2993)</li>
-<li>docs.google.com (1974)</li>
-<li>outlook.office365.com (1548)</li>
-<li>calendar.google.com (1518)</li>
+<li>docs.google.com (1975)</li>
+<li>outlook.office365.com (1555)</li>
+<li>calendar.google.com (1519)</li>
 <li>moodle.royalholloway.ac.uk (1460)</li>
 <li>www.reddit.com (1457)</li>
-<li>www.amazon.co.uk (1254)</li>
+<li>www.amazon.co.uk (1256)</li>
 <li>github.com (1028)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (884)</li>
-<li>www.linkedin.com (830)</li>
+<li>www.linkedin.com (833)</li>
 <li>gmail.com (783)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (667)</li>
 <li>tvtropes.org (659)</li>
-<li>login.microsoftonline.com (658)</li>
+<li>login.microsoftonline.com (659)</li>
 <li>app.qbo.intuit.com (574)</li>
 <li>web.whatsapp.com (506)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (473)</li>
-<li>bsky.app (461)</li>
+<li>bsky.app (468)</li>
 <li>teams.microsoft.com (452)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (437)</li>
+<li>rhul-my.sharepoint.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (387)</li>
 <li>rhul.sharepoint.com (351)</li>
@@ -104,7 +104,53 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 19/11/24</H3>
+
+<br>
+
+<ul><li> 10:32 outlook.office365.com</li>
+<li class='same'> 10:31 outlook.office365.com</li>
+<li> 10:31 bsky.app</li>
+<li class='same'> 10:19 bsky.app</li>
+<li> 10:19 www.linkedin.com</li>
+<li> 10:19 outlook.office365.com</li>
+<li class='same'> 10:17 outlook.office365.com</li>
+<li class='same'> 10:02 outlook.office365.com</li>
+<li class='same'> 10:01 outlook.office365.com</li>
+<li> 10:01 bsky.app</li>
+<li> 10:00 www.google.com</li>
+<li> 09:59 bsky.app</li>
+<li> 09:56 www.google.com</li>
+<li> 09:51 rhul-my.sharepoint.com</li>
+<li> 09:51 forms.office.com</li>
+<li> 09:51 login.microsoftonline.com</li>
+<li> 09:51 forms.office.com</li>
+<li> 09:48 outlook.office365.com</li>
+<li> 09:48 www.linkedin.com</li>
+<li class='same'> 09:47 www.linkedin.com</li>
+<li> 09:47 www.google.com</li>
+<li> 09:47 bsky.app</li>
+<li> 09:47 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:39 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:06 bsky.app</li>
+<li> 07:04 www.amazon.co.uk</li>
+<li class='same'> 07:03 www.amazon.co.uk</li>
+<li> 07:02 docs.google.com</li>
+</ul>
+
 <H3>Monday, 18/11/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -19450,7 +19496,6 @@ With number of accesses/minutes in parentheses
 <li> 14:38 mail.google.com</li>
 <li> 14:36 us05web.zoom.us</li>
 <li> 14:36 mail.google.com</li>
-<li> 14:35 us05web.zoom.us</li>
 <li> 14:35 zoom.us</li>
 <li> 14:35 www.google.com</li>
 <li> 14:35 us05web.zoom.us</li>
@@ -19550,14 +19595,12 @@ With number of accesses/minutes in parentheses
 <li> 09:18 docs.google.com</li>
 <li class='same'> 09:17 docs.google.com</li>
 <li> 09:17 www.livescience.com</li>
-<li> 09:17 www.google.com</li>
 <li> 09:16 docs.google.com</li>
 <li> 09:15 www.maastrichtuniversity.nl</li>
 <li> 09:15 nl4xai.eu</li>
 <li> 09:14 www.google.com</li>
 <li> 09:14 docs.google.com</li>
-<li> 09:14 www.google.com</li>
-<li class='same'> 09:13 www.google.com</li>
+<li> 09:13 www.google.com</li>
 <li> 09:13 docs.google.com</li>
 <li> 09:11 www.livescience.com</li>
 <li> 09:11 www.google.com</li>
@@ -19566,7 +19609,6 @@ With number of accesses/minutes in parentheses
 <li> 09:07 www.theverge.com</li>
 <li> 09:07 www.google.com</li>
 <li> 09:07 mail.google.com</li>
-<li> 09:06 www.google.com</li>
 <li> 09:05 www.tudelft.nl</li>
 <li> 09:05 www.google.com</li>
 <li> 09:05 mail.google.com</li>
