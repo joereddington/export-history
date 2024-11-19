@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9082)</li>
-<li>mail.google.com (6240)</li>
+<ol><li>www.google.com (9083)</li>
+<li>mail.google.com (6262)</li>
 <li>outlook.office.com (3652)</li>
 <li>www.facebook.com (2993)</li>
-<li>docs.google.com (1975)</li>
-<li>outlook.office365.com (1557)</li>
-<li>calendar.google.com (1519)</li>
+<li>docs.google.com (1976)</li>
+<li>outlook.office365.com (1567)</li>
+<li>calendar.google.com (1525)</li>
 <li>moodle.royalholloway.ac.uk (1460)</li>
 <li>www.reddit.com (1457)</li>
 <li>www.amazon.co.uk (1256)</li>
-<li>github.com (1029)</li>
+<li>github.com (1031)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (884)</li>
 <li>www.linkedin.com (834)</li>
 <li>gmail.com (785)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (667)</li>
+<li>login.microsoftonline.com (661)</li>
 <li>tvtropes.org (659)</li>
-<li>login.microsoftonline.com (659)</li>
 <li>app.qbo.intuit.com (574)</li>
-<li>web.whatsapp.com (506)</li>
+<li>web.whatsapp.com (508)</li>
 <li>en.m.wikipedia.org (489)</li>
+<li>bsky.app (479)</li>
 <li>drive.google.com (473)</li>
-<li>bsky.app (473)</li>
 <li>teams.microsoft.com (452)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (438)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (387)</li>
-<li>rhul.sharepoint.com (351)</li>
+<li>chatgpt.com (389)</li>
+<li>rhul.sharepoint.com (352)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,76 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:26 www.nestpensions.org.uk</li>
+<ul><li> 12:27 outlook.office365.com</li>
+<li class='same'> 12:26 outlook.office365.com</li>
+<li> 12:26 mail.google.com</li>
+<li class='same'> 12:25 mail.google.com</li>
+<li> 12:25 rhul.hosted.panopto.com</li>
+<li class='same'> 12:24 rhul.hosted.panopto.com</li>
+<li> 12:23 outlook.office365.com</li>
+<li> 12:22 bsky.app</li>
+<li> 12:21 rhul.sharepoint.com</li>
+<li> 12:21 login.microsoftonline.com</li>
+<li> 12:19 mail.google.com</li>
+<li class='same'> 12:18 mail.google.com</li>
+<li> 12:16 rhul.hosted.panopto.com</li>
+<li class='same'> 12:15 rhul.hosted.panopto.com</li>
+<li class='same'> 12:14 rhul.hosted.panopto.com</li>
+<li> 12:14 login.microsoftonline.com</li>
+<li> 12:14 rhul.hosted.panopto.com</li>
+<li> 12:11 calendar.google.com</li>
+<li> 12:11 outlook.office365.com</li>
+<li> 12:11 mail.google.com</li>
+<li> 12:09 bsky.app</li>
+<li> 12:08 outlook.office365.com</li>
+<li> 12:07 web.whatsapp.com</li>
+<li> 11:58 calendar.google.com</li>
+<li class='same'> 11:57 calendar.google.com</li>
+<li> 11:57 adblockplus.org</li>
+<li> 11:57 calendar.google.com</li>
+<li> 11:57 mail.google.com</li>
+<li class='same'> 11:56 mail.google.com</li>
+<li> 11:56 outlook.office365.com</li>
+<li class='same'> 11:54 outlook.office365.com</li>
+<li> 11:54 mail.google.com</li>
+<li class='same'> 11:53 mail.google.com</li>
+<li class='same'> 11:52 mail.google.com</li>
+<li class='same'> 11:51 mail.google.com</li>
+<li> 11:51 outlook.office365.com</li>
+<li class='same'> 11:50 outlook.office365.com</li>
+<li> 11:50 mail.google.com</li>
+<li> 11:48 www.natwest.com</li>
+<li> 11:42 www.onlinebanking.natwest.com</li>
+<li> 11:42 www.natwest.com</li>
+<li> 11:42 docs.google.com</li>
+<li> 11:41 mail.google.com</li>
+<li> 11:40 github.com</li>
+<li class='same'> 11:39 github.com</li>
+<li> 11:39 outlook.office365.com</li>
+<li> 11:39 calendar.google.com</li>
+<li> 11:39 mail.google.com</li>
+<li> 11:39 bsky.app</li>
+<li> 11:38 mail.google.com</li>
+<li> 11:35 web.whatsapp.com</li>
+<li> 11:35 mail.google.com</li>
+<li> 11:35 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-MediaWiki_message_delivery-20241119003400-ArbCom_2024_Elections_voter_message">User talk:Joereddington - Wikipedia</a></li>
+<li> 11:35 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
+<li> 11:35 mail.google.com</li>
+<li> 11:35 open.spotify.com</li>
+<li> 11:35 www.google.com</li>
+<li> 11:34 bsky.app</li>
+<li> 11:33 open.spotify.com</li>
+<li> 11:33 bsky.app</li>
+<li> 11:33 mail.google.com</li>
+<li> 11:33 calendar.google.com</li>
+<li> 11:33 mail.google.com</li>
+<li class='same'> 11:32 mail.google.com</li>
+<li> 11:30 bsky.app</li>
+<li> 11:30 mail.google.com</li>
+<li> 11:27 chatgpt.com</li>
+<li class='same'> 11:26 chatgpt.com</li>
+<li> 11:26 mail.google.com</li>
+<li> 11:26 www.nestpensions.org.uk</li>
 <li class='same'> 11:25 www.nestpensions.org.uk</li>
 <li> 11:25 mail.google.com</li>
 <li class='same'> 11:24 mail.google.com</li>
