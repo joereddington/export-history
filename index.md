@@ -71,9 +71,9 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9095)</li>
 <li>mail.google.com (6292)</li>
 <li>outlook.office.com (3675)</li>
-<li>www.facebook.com (2995)</li>
+<li>www.facebook.com (3001)</li>
 <li>docs.google.com (1978)</li>
-<li>outlook.office365.com (1590)</li>
+<li>outlook.office365.com (1591)</li>
 <li>calendar.google.com (1529)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
 <li>www.reddit.com (1458)</li>
@@ -81,15 +81,15 @@ With number of accesses/minutes in parentheses
 <li>github.com (1031)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (884)</li>
-<li>www.linkedin.com (835)</li>
+<li>www.linkedin.com (837)</li>
 <li>gmail.com (787)</li>
 <li>login.microsoftonline.com (671)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (669)</li>
 <li>tvtropes.org (659)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>web.whatsapp.com (510)</li>
-<li>bsky.app (499)</li>
+<li>bsky.app (511)</li>
+<li>web.whatsapp.com (511)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (476)</li>
 <li>teams.microsoft.com (452)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:55 www.linkedin.com</li>
+<ul><li> 15:23 www.linkedin.com</li>
+<li> 15:22 www.facebook.com</li>
+<li class='same'> 15:21 www.facebook.com</li>
+<li class='same'> 15:20 www.facebook.com</li>
+<li class='same'> 15:15 www.facebook.com</li>
+<li class='same'> 15:13 www.facebook.com</li>
+<li class='same'> 15:12 www.facebook.com</li>
+<li> 15:12 bsky.app</li>
+<li> 15:12 outlook.office365.com</li>
+<li> 15:11 web.whatsapp.com</li>
+<li> 15:11 bsky.app</li>
+<li class='same'> 15:10 bsky.app</li>
+<li class='same'> 15:09 bsky.app</li>
+<li class='same'> 15:05 bsky.app</li>
+<li class='same'> 15:04 bsky.app</li>
+<li class='same'> 15:03 bsky.app</li>
+<li class='same'> 15:02 bsky.app</li>
+<li class='same'> 15:01 bsky.app</li>
+<li class='same'> 14:59 bsky.app</li>
+<li class='same'> 14:58 bsky.app</li>
+<li> 14:56 www.linkedin.com</li>
+<li class='same'> 14:55 www.linkedin.com</li>
 <li> 14:55 accounts.intuit.com</li>
 <li> 14:55 outlook.office365.com</li>
 <li> 14:55 accounts.intuit.com</li>
@@ -163,6 +184,7 @@ With number of accesses/minutes in parentheses
 <li> 14:32 outlook.office365.com</li>
 <li> 14:32 outlook.office.com</li>
 <li class='same'> 14:31 outlook.office.com</li>
+<li> 14:30 bsky.app</li>
 <li> 14:29 moodle.royalholloway.ac.uk</li>
 <li> 14:29 forms.office.com</li>
 <li> 14:29 login.microsoftonline.com</li>
