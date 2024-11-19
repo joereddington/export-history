@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9089)</li>
+<ol><li>www.google.com (9094)</li>
 <li>mail.google.com (6292)</li>
-<li>outlook.office.com (3654)</li>
+<li>outlook.office.com (3658)</li>
 <li>www.facebook.com (2995)</li>
 <li>docs.google.com (1978)</li>
-<li>outlook.office365.com (1577)</li>
-<li>calendar.google.com (1528)</li>
-<li>moodle.royalholloway.ac.uk (1462)</li>
+<li>outlook.office365.com (1579)</li>
+<li>calendar.google.com (1529)</li>
+<li>moodle.royalholloway.ac.uk (1463)</li>
 <li>www.reddit.com (1458)</li>
 <li>www.amazon.co.uk (1256)</li>
 <li>github.com (1031)</li>
@@ -85,11 +85,11 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (787)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (669)</li>
-<li>login.microsoftonline.com (667)</li>
+<li>login.microsoftonline.com (668)</li>
 <li>tvtropes.org (659)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>web.whatsapp.com (508)</li>
-<li>bsky.app (496)</li>
+<li>web.whatsapp.com (509)</li>
+<li>bsky.app (498)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (476)</li>
 <li>teams.microsoft.com (452)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:27 api.turnitinuk.com</li>
+<ul><li> 14:39 bsky.app</li>
+<li> 14:39 outlook.office.com</li>
+<li class='same'> 14:38 outlook.office.com</li>
+<li> 14:36 st-albans-judo-club-shop.mymawebsite.com</li>
+<li> 14:36 www.stalbansjudo.org.uk</li>
+<li class='same'> 14:35 www.stalbansjudo.org.uk</li>
+<li> 14:35 www.google.com</li>
+<li> 14:35 calendar.google.com</li>
+<li> 14:35 www.google.com</li>
+<li class='same'> 14:34 www.google.com</li>
+<li> 14:34 maps.google.com</li>
+<li> 14:33 www.google.com</li>
+<li> 14:32 outlook.office.com</li>
+<li class='same'> 14:31 outlook.office.com</li>
+<li> 14:29 moodle.royalholloway.ac.uk</li>
+<li> 14:27 api.turnitinuk.com</li>
 <li> 14:26 moodle.royalholloway.ac.uk</li>
 <li> 14:26 login.microsoftonline.com</li>
 <li> 14:26 moodle.royalholloway.ac.uk</li>
@@ -118,7 +133,18 @@ With number of accesses/minutes in parentheses
 <li> 14:25 outlook.office365.com</li>
 <li> 14:25 outlook.office.com</li>
 <li> 14:25 mail.rhul.ac.uk</li>
-<li> 14:16 bsky.app</li>
+<li> 14:23 outlook.office365.com</li>
+<li class='same'> 14:22 outlook.office365.com</li>
+<li> 14:21 web.whatsapp.com</li>
+<li> 14:21 myview.rhul.zellis.com</li>
+<li> 14:20 login.microsoftonline.com</li>
+<li> 14:20 myview.rhul.zellis.com</li>
+<li> 14:20 www.royalholloway.ac.uk</li>
+<li> 14:20 www.chrismitchell.net</li>
+<li> 14:19 intranet.royalholloway.ac.uk</li>
+<li> 14:19 www.google.com</li>
+<li> 14:18 bsky.app</li>
+<li class='same'> 14:16 bsky.app</li>
 <li> 14:16 www.google.com</li>
 <li class='same'> 14:15 www.google.com</li>
 <li> 14:15 intranet.royalholloway.ac.uk</li>
