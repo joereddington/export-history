@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9085)</li>
-<li>mail.google.com (6273)</li>
-<li>outlook.office.com (3652)</li>
+<ol><li>www.google.com (9089)</li>
+<li>mail.google.com (6292)</li>
+<li>outlook.office.com (3654)</li>
 <li>www.facebook.com (2995)</li>
-<li>docs.google.com (1976)</li>
-<li>outlook.office365.com (1570)</li>
+<li>docs.google.com (1978)</li>
+<li>outlook.office365.com (1577)</li>
 <li>calendar.google.com (1528)</li>
-<li>moodle.royalholloway.ac.uk (1460)</li>
-<li>www.reddit.com (1457)</li>
+<li>moodle.royalholloway.ac.uk (1462)</li>
+<li>www.reddit.com (1458)</li>
 <li>www.amazon.co.uk (1256)</li>
 <li>github.com (1031)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (884)</li>
 <li>www.linkedin.com (834)</li>
-<li>gmail.com (786)</li>
+<li>gmail.com (787)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (669)</li>
-<li>login.microsoftonline.com (663)</li>
+<li>login.microsoftonline.com (667)</li>
 <li>tvtropes.org (659)</li>
-<li>app.qbo.intuit.com (576)</li>
+<li>app.qbo.intuit.com (577)</li>
 <li>web.whatsapp.com (508)</li>
+<li>bsky.app (496)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>bsky.app (486)</li>
-<li>drive.google.com (473)</li>
+<li>drive.google.com (476)</li>
 <li>teams.microsoft.com (452)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (438)</li>
+<li>rhul-my.sharepoint.com (440)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (392)</li>
 <li>rhul.sharepoint.com (352)</li>
@@ -108,7 +108,78 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:26 chatgpt.com</li>
+<ul><li> 14:27 api.turnitinuk.com</li>
+<li> 14:26 moodle.royalholloway.ac.uk</li>
+<li> 14:26 login.microsoftonline.com</li>
+<li> 14:26 moodle.royalholloway.ac.uk</li>
+<li> 14:25 adblockplus.org</li>
+<li> 14:25 outlook.office.com</li>
+<li> 14:25 login.microsoftonline.com</li>
+<li> 14:25 outlook.office365.com</li>
+<li> 14:25 outlook.office.com</li>
+<li> 14:25 mail.rhul.ac.uk</li>
+<li> 14:16 bsky.app</li>
+<li> 14:16 www.google.com</li>
+<li class='same'> 14:15 www.google.com</li>
+<li> 14:15 intranet.royalholloway.ac.uk</li>
+<li> 14:15 www.google.com</li>
+<li> 14:14 bsky.app</li>
+<li class='same'> 14:13 bsky.app</li>
+<li class='same'> 14:12 bsky.app</li>
+<li> 14:12 outlook.office365.com</li>
+<li class='same'> 14:09 outlook.office365.com</li>
+<li> 14:07 forms.office.com</li>
+<li class='same'> 14:06 forms.office.com</li>
+<li> 14:06 login.microsoftonline.com</li>
+<li> 14:06 forms.office.com</li>
+<li> 14:06 outlook.office365.com</li>
+<li> 14:06 bsky.app</li>
+<li> 14:06 mail.google.com</li>
+<li class='same'> 14:05 mail.google.com</li>
+<li class='same'> 14:04 mail.google.com</li>
+<li class='same'> 14:03 mail.google.com</li>
+<li class='same'> 14:02 mail.google.com</li>
+<li class='same'> 14:01 mail.google.com</li>
+<li class='same'> 14:00 mail.google.com</li>
+<li class='same'> 13:59 mail.google.com</li>
+<li class='same'> 13:58 mail.google.com</li>
+<li class='same'> 13:57 mail.google.com</li>
+<li class='same'> 13:56 mail.google.com</li>
+<li class='same'> 13:55 mail.google.com</li>
+<li> 13:55 qbo.intuit.com</li>
+<li> 13:53 mail.google.com</li>
+<li> 13:52 docs.google.com</li>
+<li> 13:52 drive.google.com</li>
+<li> 13:52 mail.google.com</li>
+<li> 13:52 gmail.com</li>
+<li> 13:52 outlook.office365.com</li>
+<li> 13:52 qbo.intuit.com</li>
+<li> 13:51 www.reddit.com</li>
+<li> 13:50 qbo.intuit.com</li>
+<li class='same'> 13:49 qbo.intuit.com</li>
+<li> 13:49 bsky.app</li>
+<li class='same'> 13:48 bsky.app</li>
+<li class='same'> 13:47 bsky.app</li>
+<li> 13:47 qbo.intuit.com</li>
+<li> 13:47 app.qbo.intuit.com</li>
+<li> 13:47 c14.qbo.intuit.com</li>
+<li> 13:45 mail.google.com</li>
+<li class='same'> 13:41 mail.google.com</li>
+<li class='same'> 13:40 mail.google.com</li>
+<li class='same'> 13:36 mail.google.com</li>
+<li> 13:33 docs.google.com</li>
+<li> 13:33 drive.google.com</li>
+<li> 13:33 rhul-my.sharepoint.com</li>
+<li> 13:33 login.microsoftonline.com</li>
+<li> 13:33 rhul-my.sharepoint.com</li>
+<li> 13:33 drive.google.com</li>
+<li> 13:32 outlook.office365.com</li>
+<li> 13:31 bsky.app</li>
+<li> 13:29 www.google.com</li>
+<li> 13:28 bsky.app</li>
+<li> 13:28 outlook.office365.com</li>
+<li> 13:27 mail.google.com</li>
+<li> 13:26 chatgpt.com</li>
 <li> 13:26 chat.openai.com</li>
 <li> 13:25 mail.google.com</li>
 <li> 13:21 qbo.intuit.com</li>
