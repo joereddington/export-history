@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9109)</li>
+<ol><li>www.google.com (9117)</li>
 <li>mail.google.com (6292)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3001)</li>
-<li>docs.google.com (1979)</li>
+<li>docs.google.com (1981)</li>
 <li>outlook.office365.com (1591)</li>
-<li>calendar.google.com (1535)</li>
+<li>calendar.google.com (1536)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
 <li>www.reddit.com (1462)</li>
-<li>www.amazon.co.uk (1257)</li>
-<li>github.com (1031)</li>
+<li>www.amazon.co.uk (1260)</li>
+<li>github.com (1036)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (884)</li>
 <li>www.linkedin.com (837)</li>
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:56 www.google.com</li>
+<ul><li> 13:56 www.google.com</li>
+<li class='same'> 13:54 www.google.com</li>
+<li> 13:52 clubfinder.britishjudo.org.uk</li>
+<li class='same'> 13:51 clubfinder.britishjudo.org.uk</li>
+<li class='same'> 13:50 clubfinder.britishjudo.org.uk</li>
+<li> 13:49 docs.google.com</li>
+<li> 13:49 clubfinder.britishjudo.org.uk</li>
+<li class='same'> 13:48 clubfinder.britishjudo.org.uk</li>
+<li> 13:48 www.google.com</li>
+<li> 13:46 www.210jiujitsu.com</li>
+<li> 13:46 www.google.com</li>
+<li> 13:42 calendar.google.com</li>
+<li> 13:41 www.britishjudo.org.uk</li>
+<li> 13:41 www.google.com</li>
+<li> 13:40 github.com</li>
+<li class='same'> 13:39 github.com</li>
+<li> 13:38 <a href="https://joereddington.com/2023/12/19/10-000-pages.html">10,000 pages | Joe Reddington</a></li>
+<li> 13:38 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 13:38 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 13:37 www.amazon.co.uk</li>
+<li class='same'> 13:35 www.amazon.co.uk</li>
+<li> 13:35 www.google.com</li>
+<li> 13:35 www.amazon.co.uk</li>
+<li> 13:35 www.google.com</li>
+<li> 13:35 docs.google.com</li>
+<li> 13:34 github.com</li>
+<li class='same'> 13:33 github.com</li>
+<li class='same'> 13:32 github.com</li>
+<li> 13:32 uamma.uk</li>
+<li class='same'> 13:31 uamma.uk</li>
+<li> 13:31 www.lutongrapplingclub.co.uk</li>
+<li> 13:31 www.instagram.com</li>
+<li class='same'> 13:30 www.instagram.com</li>
+<li> 13:30 www.google.com</li>
+<li> 13:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:58 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:57 <a href="https://en.wikipedia.org/wiki/Talk:Information_security">Talk:Information security - Wikipedia</a></li>
+<li> 12:57 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=history">Information security: Revision history - Wikipedia</a></li>
+<li> 12:56 www.google.com</li>
 <li> 12:56 <a href="https://en.wikipedia.org/wiki/Information_security#Process">Information security - Wikipedia</a></li>
 <li> 12:55 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
 <li> 12:55 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=21">Editing Information security - Wikipedia</a></li>
