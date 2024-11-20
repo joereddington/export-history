@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9117)</li>
+<ol><li>www.google.com (9139)</li>
 <li>mail.google.com (6292)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3001)</li>
 <li>docs.google.com (1981)</li>
 <li>outlook.office365.com (1591)</li>
 <li>calendar.google.com (1537)</li>
+<li>www.reddit.com (1470)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
-<li>www.reddit.com (1462)</li>
-<li>www.amazon.co.uk (1260)</li>
+<li>www.amazon.co.uk (1261)</li>
 <li>github.com (1036)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (884)</li>
@@ -109,11 +109,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:35 calendar.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:56 www.google.com</li>
+<li> 14:17 www.infowars.com</li>
+<li> 14:17 www.google.com</li>
+<li> 14:17 www.vanityfair.com</li>
+<li> 14:16 <a href="https://www.bbc.co.uk/news/articles/c8rl8knmg8eo?utm_source=firefox-newtab-en-gb">Trump picks Linda McMahon and Mehmet Oz to serve in top roles - BBC News</a></li>
+<li> 14:16 www.bbc.com</li>
+<li> 14:16 www.google.com</li>
+<li class='same'> 13:56 www.google.com</li>
 <li class='same'> 13:54 www.google.com</li>
 <li> 13:52 clubfinder.britishjudo.org.uk</li>
 <li class='same'> 13:51 clubfinder.britishjudo.org.uk</li>
@@ -256,6 +258,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li class='same'> 07:54 www.google.com</li>
+<li class='same'> 07:53 www.google.com</li>
+<li class='same'> 07:52 www.google.com</li>
+<li> 07:50 www.reddit.com</li>
+<li class='same'> 07:49 www.reddit.com</li>
+<li> 07:49 www.google.com</li>
+<li> 07:45 www.underluckystars.com</li>
+<li> 07:45 www.google.com</li>
+<li class='same'> 07:44 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:04 www.google.com</li>
+<li> 07:03 johnden.org</li>
+<li> 07:03 www.google.com</li>
+<li> 07:03 www.magneticmemorymethod.com</li>
+<li> 07:01 www.google.com</li>
+<li> 07:00 www.quora.com</li>
+<li> 07:00 www.google.com</li>
+<li> 06:59 www.reddit.com</li>
+<li class='same'> 06:58 www.reddit.com</li>
+</ul>
+
+<br>
+
 <ul><li> 00:00 calendar.google.com</li>
 </ul>
 
@@ -270,6 +298,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:09 www.amazon.co.uk</li>
 <li> 16:09 www.google.com</li>
 <li> 16:08 docs.google.com</li>
+<li> 15:56 www.reddit.com</li>
+<li> 15:56 www.google.com</li>
+<li> 15:56 www.chegg.com</li>
+<li> 15:56 www.google.com</li>
+<li> 15:53 www.reddit.com</li>
+<li> 15:53 www.google.com</li>
 </ul>
 
 <br>
@@ -619,11 +653,30 @@ With number of accesses/minutes in parentheses
 <li> 09:47 www.google.com</li>
 <li> 09:47 bsky.app</li>
 <li> 09:47 calendar.google.com</li>
+<li> 09:43 www.amazon.co.uk</li>
+<li> 09:43 www.google.com</li>
+<li> 09:35 www.reddit.com</li>
+<li> 09:35 www.google.com</li>
+<li> 09:35 www.reddit.com</li>
+<li> 09:35 www.google.com</li>
+<li> 09:34 buffer.com</li>
+<li> 09:34 www.google.com</li>
+<li> 09:34 support.buffer.com</li>
+<li> 09:34 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 07:39 bsky.app</li>
+<ul><li> 09:01 ico.org.uk</li>
+<li> 09:01 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:05 www.flightstats.com</li>
+<li> 08:05 www.google.com</li>
+<li> 08:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:39 bsky.app</li>
 </ul>
 
 <br>
@@ -885,7 +938,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:23 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<ul><li> 18:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 18:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 18:23 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
 <li> 18:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 18:04 buffer.com</li>
@@ -80585,6 +80640,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:13 ifttt.com</li>
 <li class='same'> 10:12 ifttt.com</li>
 <li class='same'> 10:11 ifttt.com</li>
+<li> 10:10 publish.buffer.com</li>
+<li> 10:10 buffer.com</li>
 <li> 10:09 www.linkedin.com</li>
 </ul>
 
@@ -80985,6 +81042,7 @@ With number of accesses/minutes in parentheses
 <li> 11:48 joereddington.github.io</li>
 <li> 11:43 127.0.0.1:4000</li>
 <li> 11:16 lutonjudo.clubeo.com</li>
+<li> 11:14 uamma.uk</li>
 <li> 11:12 docs.google.com</li>
 <li> 11:00 themeads.org.uk</li>
 <li class='same'> 10:59 themeads.org.uk</li>
