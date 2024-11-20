@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9159)</li>
+<ol><li>www.google.com (9162)</li>
 <li>mail.google.com (6292)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3001)</li>
-<li>docs.google.com (1982)</li>
+<li>docs.google.com (1983)</li>
 <li>outlook.office365.com (1591)</li>
 <li>calendar.google.com (1538)</li>
 <li>www.reddit.com (1470)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
-<li>www.amazon.co.uk (1261)</li>
-<li>github.com (1038)</li>
+<li>www.amazon.co.uk (1264)</li>
+<li>github.com (1039)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (884)</li>
-<li>www.linkedin.com (837)</li>
+<li>www.linkedin.com (838)</li>
 <li>gmail.com (787)</li>
 <li>login.microsoftonline.com (671)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (670)</li>
-<li>tvtropes.org (667)</li>
+<li>tvtropes.org (668)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>bsky.app (511)</li>
 <li>web.whatsapp.com (511)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:55 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 17:26 tvtropes.org</li>
+<li> 17:26 www.google.com</li>
+<li> 17:17 www.amazon.co.uk</li>
+<li> 17:17 docs.google.com</li>
+<li> 17:17 www.amazon.co.uk</li>
+<li class='same'> 17:16 www.amazon.co.uk</li>
+<li> 17:12 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:11 www.vimgolf.com</li>
+<li class='same'> 16:57 www.vimgolf.com</li>
+<li> 16:56 publish.buffer.com</li>
+<li> 16:56 account.buffer.com</li>
+<li> 16:56 www.linkedin.com</li>
+<li> 16:56 publish.buffer.com</li>
+<li> 16:56 login.buffer.com</li>
+<li> 16:56 buffer.com</li>
+<li> 16:55 www.google.com</li>
+<li> 16:55 www.vimgolf.com</li>
+<li> 16:55 github.com</li>
+<li> 16:55 www.vimgolf.com</li>
+<li> 16:55 www.google.com</li>
+<li> 16:55 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 16:55 192.168.178.128:7000</li>
 <li> 16:48 claude.ai</li>
 <li> 16:48 www.google.com</li>
