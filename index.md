@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9102)</li>
+<ol><li>www.google.com (9109)</li>
 <li>mail.google.com (6292)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3001)</li>
 <li>docs.google.com (1979)</li>
 <li>outlook.office365.com (1591)</li>
-<li>calendar.google.com (1532)</li>
+<li>calendar.google.com (1535)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
 <li>www.reddit.com (1462)</li>
 <li>www.amazon.co.uk (1257)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (671)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (670)</li>
-<li>tvtropes.org (659)</li>
+<li>tvtropes.org (667)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>bsky.app (511)</li>
 <li>web.whatsapp.com (511)</li>
@@ -108,7 +108,77 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:53 www.reddit.com</li>
+<ul><li> 12:56 www.google.com</li>
+<li> 12:56 <a href="https://en.wikipedia.org/wiki/Information_security#Process">Information security - Wikipedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=21">Editing Information security - Wikipedia</a></li>
+<li> 12:54 <a href="https://en.wikipedia.org/wiki/Information_security#Defense_in_depth">Information security - Wikipedia</a></li>
+<li> 12:53 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit">Information security - Wikipedia</a></li>
+<li> 12:51 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&oldid=1258572012&action=edit">Editing Information security - Wikipedia</a></li>
+<li> 12:51 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit">Information security - Wikipedia</a></li>
+<li> 12:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lead_section">Wikipedia:Manual of Style/Lead section - Wikipedia</a></li>
+<li> 12:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Lead_section">Wikipedia:Manual of Style/Lead section - Wikipedia</a></li>
+<li> 12:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout#Specialized_layout">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
+<li> 12:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout#Body_sections">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
+<li> 12:49 <a href="https://en.wikipedia.org/wiki/Wikipedia:Simplified_Manual_of_Style">Wikipedia:Simplified Manual of Style - Wikipedia</a></li>
+<li> 12:49 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
+<li> 12:48 <a href="https://en.wikipedia.org/wiki/Information_security#Standards">Information security - Wikipedia</a></li>
+<li> 12:48 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=2">Editing Information security (section) - Wikipedia</a></li>
+<li> 12:47 <a href="https://en.wikipedia.org/wiki/Information_security#Security_Goals">Information security - Wikipedia</a></li>
+<li> 12:47 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=5">Editing Information security (section) - Wikipedia</a></li>
+<li> 12:46 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=history">Information security: Revision history - Wikipedia</a></li>
+<li> 12:46 <a href="https://en.wikipedia.org/wiki/Information_security#See_also">Information security - Wikipedia</a></li>
+<li> 12:45 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=29">Editing Information security (section) - Wikipedia</a></li>
+<li> 12:45 <a href="https://en.wikipedia.org/wiki/Information_security#See_also">Information security - Wikipedia</a></li>
+<li> 12:45 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 12:45 claude.ai</li>
+<li class='same'> 12:44 claude.ai</li>
+<li> 12:44 <a href="https://en.wikipedia.org/wiki/Information_security?action=edit&veswitched=1">Editing Information security - Wikipedia</a></li>
+<li> 12:44 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit">Information security - Wikipedia</a></li>
+<li> 12:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout#%22See_also%22_section">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
+<li> 12:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
+<li> 12:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#See_also">Wikipedia:Manual of Style - Wikipedia</a></li>
+<li> 12:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style">Wikipedia:Manual of Style - Wikipedia</a></li>
+<li> 12:43 www.google.com</li>
+<li> 12:42 <a href="https://en.wikipedia.org/wiki/Information_assurance">Information assurance - Wikipedia</a></li>
+<li> 12:42 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
+<li> 12:42 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 12:42 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 12:42 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:41 feedly.com</li>
+<li class='same'> 12:40 feedly.com</li>
+<li class='same'> 12:39 feedly.com</li>
+<li class='same'> 12:36 feedly.com</li>
+<li> 12:35 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:27 tvtropes.org</li>
+<li class='same'> 12:26 tvtropes.org</li>
+<li class='same'> 12:24 tvtropes.org</li>
+<li class='same'> 12:23 tvtropes.org</li>
+<li class='same'> 12:18 tvtropes.org</li>
+<li class='same'> 12:14 tvtropes.org</li>
+<li class='same'> 12:13 tvtropes.org</li>
+<li class='same'> 12:09 tvtropes.org</li>
+<li> 12:09 www.google.com</li>
+<li> 12:02 calendar.google.com</li>
+<li class='same'> 12:01 calendar.google.com</li>
+<li> 12:01 tesco-bookings.qudini.com</li>
+<li> 11:59 www.woodlandavenuepractice.nhs.uk</li>
+<li> 11:59 www.google.com</li>
+<li> 11:59 tesco-bookings.qudini.com</li>
+<li class='same'> 11:58 tesco-bookings.qudini.com</li>
+<li class='same'> 11:57 tesco-bookings.qudini.com</li>
+<li> 11:57 www.tesco.com</li>
+<li> 11:57 tesco-bookings.qudini.com</li>
+<li> 11:56 www.google.com</li>
+<li> 11:56 calendar.google.com</li>
+<li> 11:56 tesco-bookings.qudini.com</li>
+<li> 11:55 www.tesco.com</li>
+<li> 11:55 www.google.com</li>
+<li> 11:55 www.nhs.uk</li>
+<li> 11:55 www.google.com</li>
+<li> 11:54 <a href="https://www.bbc.co.uk/news/articles/c62d8r0nnl6o">Drop in UK flu vaccination warning ahead of winter - BBC News</a></li>
+<li> 11:53 www.reddit.com</li>
 <li class='same'> 11:51 www.reddit.com</li>
 <li class='same'> 11:50 www.reddit.com</li>
 <li> 11:50 www.google.com</li>
@@ -3126,7 +3196,7 @@ With number of accesses/minutes in parentheses
 <li> 10:31 www.schneier.com</li>
 <li> 10:30 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
 <li> 10:30 <a href="https://en.wikipedia.org/wiki/Information_security#Classification">Information security - Wikipedia</a></li>
-<li> 10:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=2">Information security - Wikipedia</a></li>
+<li> 10:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=2">Editing Information security (section) - Wikipedia</a></li>
 <li> 10:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=16">Information security - Wikipedia</a></li>
 <li> 10:29 <a href="https://en.wikipedia.org/wiki/Information_security#Defense_in_depth">Information security - Wikipedia</a></li>
 <li> 10:28 <a href="https://en.wikipedia.org/wiki/Information_security#Information_Security_Standards">Information security - Wikipedia</a></li>
@@ -3140,7 +3210,7 @@ With number of accesses/minutes in parentheses
 <li> 10:22 <a href="https://en.wikipedia.org/wiki/Information_security#Information_Security_Standards">Information security - Wikipedia</a></li>
 <li> 10:22 <a href="https://en.wikipedia.org/wiki/Information_security#Overview">Information security - Wikipedia</a></li>
 <li> 10:21 <a href="https://en.wikipedia.org/wiki/Information_security#cite_note-27">Information security - Wikipedia</a></li>
-<li> 10:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=2">Information security - Wikipedia</a></li>
+<li> 10:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=2">Editing Information security (section) - Wikipedia</a></li>
 <li> 10:21 <a href="https://en.wikipedia.org/wiki/Information_security#cite_ref-27">Information security - Wikipedia</a></li>
 <li> 10:21 knowledge.bsigroup.com</li>
 <li> 10:21 <a href="https://en.wikipedia.org/wiki/Information_security#cite_note-27">Information security - Wikipedia</a></li>
@@ -9546,7 +9616,7 @@ With number of accesses/minutes in parentheses
 <li> 07:42 sid.onlinelibrary.wiley.com</li>
 <li> 07:42 <a href="https://en.wikipedia.org/wiki/Information_security#Overview">Information security - Wikipedia</a></li>
 <li> 07:41 www.google.com</li>
-<li> 07:40 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=2">Information security - Wikipedia</a></li>
+<li> 07:40 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=2">Editing Information security (section) - Wikipedia</a></li>
 <li> 07:38 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=history">Information security: Revision history - Wikipedia</a></li>
 <li> 07:38 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
 <li> 07:38 www.google.com</li>
