@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9162)</li>
+<ol><li>www.google.com (9174)</li>
 <li>mail.google.com (6292)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3001)</li>
@@ -80,13 +80,13 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1264)</li>
 <li>github.com (1039)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (884)</li>
+<li>www.theguardian.com (885)</li>
 <li>www.linkedin.com (838)</li>
 <li>gmail.com (787)</li>
 <li>login.microsoftonline.com (671)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (670)</li>
-<li>tvtropes.org (668)</li>
+<li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>bsky.app (511)</li>
 <li>web.whatsapp.com (511)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:26 tvtropes.org</li>
+<ul><li> 19:13 tvtropes.org</li>
+<li> 19:13 www.google.com</li>
+<li class='same'> 18:45 www.google.com</li>
+<li class='same'> 18:44 www.google.com</li>
+<li class='same'> 18:42 www.google.com</li>
+<li class='same'> 18:41 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:09 www.google.com</li>
+<li> 17:51 www.theguardian.com</li>
+<li> 17:51 www.google.com</li>
+<li> 17:26 tvtropes.org</li>
 <li> 17:26 www.google.com</li>
 <li> 17:17 www.amazon.co.uk</li>
 <li> 17:17 docs.google.com</li>
@@ -200,7 +213,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:35 calendar.google.com</li>
+<ul><li> 14:47 www.google.com</li>
+<li class='same'> 14:46 www.google.com</li>
+<li> 14:35 calendar.google.com</li>
+<li> 14:25 www.google.com</li>
 <li> 14:17 www.infowars.com</li>
 <li> 14:17 www.google.com</li>
 <li> 14:17 www.vanityfair.com</li>
@@ -391,6 +407,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 18:42 www.google.com</li>
+</ul>
 
 <br>
 
@@ -1006,7 +1027,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:06 www.google.com</li>
+<ul><li> 10:07 www.google.com</li>
+<li class='same'> 10:06 www.google.com</li>
 <li> 09:55 mail.google.com</li>
 <li> 09:55 outlook.office365.com</li>
 <li class='same'> 09:54 outlook.office365.com</li>
