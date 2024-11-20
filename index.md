@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9142)</li>
+<ol><li>www.google.com (9159)</li>
 <li>mail.google.com (6292)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3001)</li>
-<li>docs.google.com (1981)</li>
+<li>docs.google.com (1982)</li>
 <li>outlook.office365.com (1591)</li>
-<li>calendar.google.com (1537)</li>
+<li>calendar.google.com (1538)</li>
 <li>www.reddit.com (1470)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
 <li>www.amazon.co.uk (1261)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (511)</li>
 <li>web.whatsapp.com (511)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (476)</li>
+<li>drive.google.com (478)</li>
 <li>teams.microsoft.com (452)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (441)</li>
@@ -105,6 +105,78 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 20/11/24</H3>
+
+<br>
+
+<ul><li> 16:55 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:55 192.168.178.128:7000</li>
+<li> 16:48 claude.ai</li>
+<li> 16:48 www.google.com</li>
+<li> 16:45 myaccount.google.com</li>
+<li> 16:45 accounts.google.com</li>
+<li> 16:45 myaccount.google.com</li>
+<li> 16:45 www.google.com</li>
+<li> 16:45 drive.google.com</li>
+<li class='same'> 16:44 drive.google.com</li>
+<li> 16:44 support.google.com</li>
+<li> 16:44 www.google.com</li>
+<li> 16:38 www.giantitp.com</li>
+<li> 16:38 www.google.com</li>
+<li> 16:37 britishjudocouncil.org</li>
+<li> 16:37 lutonjudo.clubeo.com</li>
+<li class='same'> 16:36 lutonjudo.clubeo.com</li>
+<li> 16:35 docs.google.com</li>
+<li> 16:33 www.instagram.com</li>
+<li class='same'> 16:32 www.instagram.com</li>
+<li class='same'> 16:31 www.instagram.com</li>
+<li> 16:31 www.google.com</li>
+<li class='same'> 16:30 www.google.com</li>
+<li> 16:30 britishjudocouncil.org</li>
+<li> 16:28 www.instagram.com</li>
+<li> 16:28 l.instagram.com</li>
+<li> 16:27 www.instagram.com</li>
+<li> 16:27 judoinside.com</li>
+<li> 16:27 www.google.com</li>
+<li> 16:27 britishjudocouncil.org</li>
+<li class='same'> 16:26 britishjudocouncil.org</li>
+<li> 16:26 www.google.com</li>
+<li> 16:26 clubfinder.britishjudo.org.uk</li>
+<li> 16:25 www.google.co.uk</li>
+<li> 16:25 clubfinder.britishjudo.org.uk</li>
+<li> 16:25 www.google.co.uk</li>
+<li class='same'> 16:24 www.google.co.uk</li>
+<li> 16:23 clubfinder.britishjudo.org.uk</li>
+<li> 16:23 www.google.co.uk</li>
+<li class='same'> 16:22 www.google.co.uk</li>
+<li> 16:22 www.google.com</li>
+<li> 16:22 clubfinder.britishjudo.org.uk</li>
+<li class='same'> 16:21 clubfinder.britishjudo.org.uk</li>
+<li> 16:19 192.168.178.128:7000</li>
+<li> 16:18 clubfinder.britishjudo.org.uk</li>
+<li class='same'> 16:17 clubfinder.britishjudo.org.uk</li>
+<li> 16:15 pinewoodjudoclub.mymawebsite.com</li>
+<li> 16:14 www.google.com</li>
+<li> 16:14 camberleyjudo.uk</li>
+<li> 16:14 www.google.com</li>
+<li> 16:14 clubfinder.britishjudo.org.uk</li>
+<li> 16:02 calendar.google.com</li>
+<li> 16:02 www.google.com</li>
+<li> 16:02 osswa.co.uk</li>
+<li class='same'> 16:01 osswa.co.uk</li>
+<li> 16:01 www.google.com</li>
+<li> 16:01 intranet.royalholloway.ac.uk</li>
+<li> 16:01 www.google.com</li>
+<li> 16:00 stalbansbjj.co.uk</li>
+<li> 15:59 www.google.com</li>
+<li> 15:59 clubfinder.britishjudo.org.uk</li>
+<li> 15:58 www.wycombejudocentre.co.uk</li>
+<li> 15:58 www.bookergymclub.co.uk</li>
+<li> 15:58 www.wycombejudocentre.co.uk</li>
+<li class='same'> 15:57 www.wycombejudocentre.co.uk</li>
+<li> 15:57 www.google.com</li>
+<li class='same'> 15:56 www.google.com</li>
+<li> 15:55 clubfinder.britishjudo.org.uk</li>
+</ul>
 
 <br>
 
