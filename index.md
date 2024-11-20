@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9096)</li>
+<ol><li>www.google.com (9102)</li>
 <li>mail.google.com (6292)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3001)</li>
 <li>docs.google.com (1979)</li>
 <li>outlook.office365.com (1591)</li>
-<li>calendar.google.com (1530)</li>
+<li>calendar.google.com (1532)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
-<li>www.reddit.com (1458)</li>
+<li>www.reddit.com (1462)</li>
 <li>www.amazon.co.uk (1257)</li>
 <li>github.com (1031)</li>
 <li>m.facebook.com (978)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (787)</li>
 <li>login.microsoftonline.com (671)</li>
 <li>whitewaterwriters.com (670)</li>
-<li>chat.openai.com (669)</li>
+<li>chat.openai.com (670)</li>
 <li>tvtropes.org (659)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>bsky.app (511)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (441)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (392)</li>
+<li>chatgpt.com (394)</li>
 <li>rhul.sharepoint.com (352)</li>
 
 
@@ -105,6 +105,37 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 20/11/24</H3>
+
+<br>
+
+<ul><li> 11:53 www.reddit.com</li>
+<li class='same'> 11:51 www.reddit.com</li>
+<li class='same'> 11:50 www.reddit.com</li>
+<li> 11:50 www.google.com</li>
+<li> 11:50 www.nhs.uk</li>
+<li> 11:49 www.google.com</li>
+<li> 11:49 ukhsa.blog.gov.uk</li>
+<li> 11:49 www.google.com</li>
+<li> 11:48 calendar.google.com</li>
+<li> 11:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:47 192.168.178.128:7000</li>
+<li> 11:47 fritz.box</li>
+<li class='same'> 11:46 fritz.box</li>
+<li> 11:46 sso.myfritz.net</li>
+<li> 11:46 www.myfritz.net</li>
+<li> 11:46 www.google.com</li>
+<li> 11:46 chatgpt.com</li>
+<li class='same'> 11:45 chatgpt.com</li>
+<li> 11:45 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:09 www.google.com</li>
+<li> 09:46 www.reddit.com</li>
+<li> 09:33 <a href="https://en.wikipedia.org/wiki/Pelops">Pelops - Wikipedia</a></li>
+<li> 09:33 www.google.com</li>
+</ul>
 
 <br>
 
@@ -219,6 +250,7 @@ With number of accesses/minutes in parentheses
 <li> 14:23 outlook.office365.com</li>
 <li class='same'> 14:22 outlook.office365.com</li>
 <li> 14:21 web.whatsapp.com</li>
+<li> 14:21 calendar.google.com</li>
 <li> 14:21 myview.rhul.zellis.com</li>
 <li> 14:20 login.microsoftonline.com</li>
 <li> 14:20 myview.rhul.zellis.com</li>
