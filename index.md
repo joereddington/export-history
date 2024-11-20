@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9139)</li>
+<ol><li>www.google.com (9142)</li>
 <li>mail.google.com (6292)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3001)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1470)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
 <li>www.amazon.co.uk (1261)</li>
-<li>github.com (1036)</li>
+<li>github.com (1038)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (884)</li>
 <li>www.linkedin.com (837)</li>
@@ -115,7 +115,14 @@ With number of accesses/minutes in parentheses
 <li> 14:16 <a href="https://www.bbc.co.uk/news/articles/c8rl8knmg8eo?utm_source=firefox-newtab-en-gb">Trump picks Linda McMahon and Mehmet Oz to serve in top roles - BBC News</a></li>
 <li> 14:16 www.bbc.com</li>
 <li> 14:16 www.google.com</li>
-<li class='same'> 13:56 www.google.com</li>
+<li> 14:01 github.com</li>
+<li class='same'> 14:00 github.com</li>
+<li> 13:58 www.google.com</li>
+<li> 13:58 clubfinder.britishjudo.org.uk</li>
+<li> 13:58 www.google.com</li>
+<li class='same'> 13:57 www.google.com</li>
+<li> 13:56 clubfinder.britishjudo.org.uk</li>
+<li> 13:56 www.google.com</li>
 <li class='same'> 13:54 www.google.com</li>
 <li> 13:52 clubfinder.britishjudo.org.uk</li>
 <li class='same'> 13:51 clubfinder.britishjudo.org.uk</li>
