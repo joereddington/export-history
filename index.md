@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9185)</li>
+<ol><li>www.google.com (9188)</li>
 <li>mail.google.com (6304)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3003)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>bsky.app (543)</li>
+<li>bsky.app (544)</li>
 <li>web.whatsapp.com (513)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (478)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:42 privacyportal-de.onetrust.com</li>
+<ul><li> 13:06 www.google.com</li>
+<li> 13:02 bsky.app</li>
+<li> 13:01 firerisk.co.uk</li>
+<li> 13:01 www.google.com</li>
+<li> 13:01 www.glocktalk.com</li>
+<li> 13:00 <a href="https://en.wikipedia.org/wiki/List_of_firefighting_mnemonics">List of firefighting mnemonics - Wikipedia</a></li>
+<li> 13:00 www.isri.org</li>
+<li> 13:00 www.google.com</li>
+<li> 12:42 privacyportal-de.onetrust.com</li>
 <li> 12:36 chatgpt.com</li>
 <li> 12:36 chat.openai.com</li>
 <li> 12:35 www.firesafe.org.uk</li>
