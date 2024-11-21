@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>bsky.app (548)</li>
+<li>bsky.app (551)</li>
 <li>web.whatsapp.com (514)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:37 web.whatsapp.com</li>
+<ul><li> 13:59 bsky.app</li>
+<li class='same'> 13:57 bsky.app</li>
+<li class='same'> 13:56 bsky.app</li>
+<li> 13:55 0.0.0.0:7000</li>
+<li class='same'> 13:47 0.0.0.0:7000</li>
+<li> 13:37 web.whatsapp.com</li>
 <li> 13:36 docs.google.com</li>
 <li> 13:36 drive.google.com</li>
 <li class='same'> 13:35 drive.google.com</li>
