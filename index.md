@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9197)</li>
+<ol><li>www.google.com (9199)</li>
 <li>mail.google.com (6313)</li>
 <li>outlook.office.com (3682)</li>
 <li>www.facebook.com (3003)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 21/11/24</H3>
+
+<br>
+
+<ul><li> 18:57 clearsky.app</li>
+</ul>
 
 <br>
 
@@ -302,6 +307,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:26 mail.google.com</li>
 <li class='same'> 12:25 mail.google.com</li>
 <li> 12:25 gmail.com</li>
+<li> 12:22 clearsky.app</li>
+<li class='same'> 12:21 clearsky.app</li>
+<li> 12:21 www.google.com</li>
 <li> 12:16 forms.tvlicensing.co.uk</li>
 <li> 12:16 www.tvlicensing.co.uk</li>
 <li> 12:16 www.google.com</li>
@@ -436,7 +444,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 18:09 www.google.com</li>
+<ul><li class='same'> 18:10 www.google.com</li>
+<li> 18:09 www.merriam-webster.com</li>
+<li> 18:09 www.google.com</li>
 <li> 17:51 www.theguardian.com</li>
 <li> 17:51 www.google.com</li>
 <li> 17:26 tvtropes.org</li>
