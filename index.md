@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6297)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3001)</li>
-<li>docs.google.com (1983)</li>
+<li>docs.google.com (1984)</li>
 <li>outlook.office365.com (1595)</li>
-<li>calendar.google.com (1539)</li>
+<li>calendar.google.com (1540)</li>
 <li>www.reddit.com (1470)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
-<li>www.amazon.co.uk (1262)</li>
+<li>www.amazon.co.uk (1264)</li>
 <li>github.com (1039)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (886)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (670)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>bsky.app (538)</li>
+<li>bsky.app (540)</li>
 <li>web.whatsapp.com (512)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (478)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:09 bsky.app</li>
+<ul><li> 11:19 www.amazon.co.uk</li>
+<li class='same'> 11:18 www.amazon.co.uk</li>
+<li> 11:16 bsky.app</li>
+<li class='same'> 11:15 bsky.app</li>
+<li> 11:12 calendar.google.com</li>
+<li> 11:09 docs.google.com</li>
+<li> 11:09 bsky.app</li>
 <li class='same'> 11:07 bsky.app</li>
 <li> 11:05 www.niaid.nih.gov</li>
 <li> 11:05 bsky.app</li>
