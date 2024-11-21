@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9174)</li>
+<ol><li>www.google.com (9172)</li>
 <li>mail.google.com (6292)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3001)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1538)</li>
 <li>www.reddit.com (1470)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
-<li>www.amazon.co.uk (1264)</li>
+<li>www.amazon.co.uk (1262)</li>
 <li>github.com (1039)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (885)</li>
@@ -19795,7 +19795,6 @@ With number of accesses/minutes in parentheses
 <li> 22:26 x.com</li>
 <li class='same'> 22:24 x.com</li>
 <li class='same'> 22:23 x.com</li>
-<li> 22:23 twitter.com</li>
 <li> 22:23 www.google.com</li>
 </ul>
 
@@ -19867,9 +19866,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:26 www.facebook.com</li>
 <li> 15:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 15:23 login.buffer.com</li>
 <li> 15:23 publish.buffer.com</li>
-<li> 15:23 buffer.com</li>
 <li> 15:19 feedly.com</li>
 <li> 15:09 www.facebook.com</li>
 <li> 15:09 feedly.com</li>
@@ -19883,9 +19880,6 @@ With number of accesses/minutes in parentheses
 <li> 13:31 feedly.com</li>
 <li> 13:31 mail.google.com</li>
 <li class='same'> 13:30 mail.google.com</li>
-<li> 13:29 www.amazon.co.uk</li>
-<li class='same'> 13:28 www.amazon.co.uk</li>
-<li> 13:28 www.googleadservices.com</li>
 <li> 13:28 www.amazon.co.uk</li>
 <li> 13:28 www.google.com</li>
 <li> 13:27 mail.google.com</li>
@@ -19922,21 +19916,16 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:58 mail.google.com</li>
 <li class='same'> 10:57 mail.google.com</li>
 <li> 10:57 accounts.youtube.com</li>
-<li> 10:57 accounts.google.com</li>
 <li> 10:57 accounts.google.co.uk</li>
 <li> 10:57 accounts.google.com</li>
 <li> 10:57 mail.google.com</li>
 <li> 10:57 gmail.com</li>
 <li> 10:57 mail.google.com</li>
 <li> 10:56 drive.google.com</li>
-<li> 10:56 www.google.com</li>
 <li> 10:56 mail.google.com</li>
-<li> 10:55 cc.amazon.com</li>
-<li> 10:55 mail.google.com</li>
+<li class='same'> 10:55 mail.google.com</li>
 <li> 10:55 www.google.com</li>
 <li class='same'> 10:54 www.google.com</li>
-<li> 10:54 maps.google.com</li>
-<li> 10:54 www.google.com</li>
 <li> 10:54 kdp.amazon.com</li>
 <li class='same'> 10:53 kdp.amazon.com</li>
 <li> 10:53 kdpreports.amazon.com</li>
