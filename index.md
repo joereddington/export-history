@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9196)</li>
+<ol><li>www.google.com (9197)</li>
 <li>mail.google.com (6313)</li>
 <li>outlook.office.com (3682)</li>
 <li>www.facebook.com (3003)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1621)</li>
+<li>outlook.office365.com (1623)</li>
 <li>calendar.google.com (1541)</li>
 <li>www.reddit.com (1471)</li>
-<li>moodle.royalholloway.ac.uk (1466)</li>
+<li>moodle.royalholloway.ac.uk (1468)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1041)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (886)</li>
 <li>www.linkedin.com (850)</li>
 <li>gmail.com (791)</li>
-<li>login.microsoftonline.com (674)</li>
-<li>chat.openai.com (673)</li>
+<li>login.microsoftonline.com (676)</li>
+<li>chat.openai.com (674)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>bsky.app (567)</li>
-<li>web.whatsapp.com (515)</li>
+<li>bsky.app (568)</li>
+<li>web.whatsapp.com (516)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
 <li>teams.microsoft.com (454)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (441)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (399)</li>
+<li>chatgpt.com (401)</li>
 <li>rhul.sharepoint.com (352)</li>
 
 
@@ -108,12 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:33 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 16:58 www.linkedin.com</li>
+<ul><li> 17:39 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:39 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:39 login.microsoftonline.com</li>
+<li> 17:39 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:39 experience.elluciancloud.ie</li>
+<li> 17:39 login.microsoftonline.com</li>
+<li> 17:39 experience.elluciancloud.ie</li>
+<li> 17:38 chatgpt.com</li>
+<li class='same'> 17:37 chatgpt.com</li>
+<li> 17:37 chat.openai.com</li>
+<li> 17:33 mail.google.com</li>
+<li> 17:12 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:12 bsky.app</li>
+<li> 17:12 web.whatsapp.com</li>
+<li> 17:11 www.google.com</li>
+<li> 17:11 outlook.office365.com</li>
+<li> 17:11 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:10 moodle.royalholloway.ac.uk</li>
+<li> 17:10 outlook.office365.com</li>
+<li> 16:58 www.linkedin.com</li>
 <li> 16:58 www.google.com</li>
 <li> 16:57 pure.royalholloway.ac.uk</li>
 <li> 16:57 www.google.com</li>
