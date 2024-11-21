@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9172)</li>
+<ol><li>www.google.com (9179)</li>
 <li>mail.google.com (6292)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3001)</li>
 <li>docs.google.com (1983)</li>
-<li>outlook.office365.com (1591)</li>
-<li>calendar.google.com (1538)</li>
+<li>outlook.office365.com (1595)</li>
+<li>calendar.google.com (1539)</li>
 <li>www.reddit.com (1470)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
 <li>www.amazon.co.uk (1262)</li>
 <li>github.com (1039)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (885)</li>
-<li>www.linkedin.com (838)</li>
+<li>www.theguardian.com (886)</li>
+<li>www.linkedin.com (843)</li>
 <li>gmail.com (787)</li>
-<li>login.microsoftonline.com (671)</li>
+<li>login.microsoftonline.com (672)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>chat.openai.com (670)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>bsky.app (511)</li>
-<li>web.whatsapp.com (511)</li>
+<li>bsky.app (528)</li>
+<li>web.whatsapp.com (512)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (478)</li>
 <li>teams.microsoft.com (452)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (441)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (394)</li>
+<li>chatgpt.com (395)</li>
 <li>rhul.sharepoint.com (352)</li>
 
 
@@ -104,7 +104,79 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 21/11/24</H3>
+
+<br>
+
+<ul><li> 10:12 calendar.google.com</li>
+<li> 10:12 192.168.178.128:7000</li>
+<li> 10:12 www.theguardian.com</li>
+<li> 10:11 chatgpt.com</li>
+<li> 10:10 www.linkedin.com</li>
+<li> 10:10 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 10:10 outlook.office365.com</li>
+<li class='same'> 10:09 outlook.office365.com</li>
+<li class='same'> 10:08 outlook.office365.com</li>
+<li class='same'> 10:07 outlook.office365.com</li>
+<li> 10:07 login.microsoftonline.com</li>
+<li> 10:02 bsky.app</li>
+<li> 10:02 www.google.com</li>
+<li> 10:00 finalfantasy.fandom.com</li>
+<li> 10:00 www.google.com</li>
+<li> 09:59 bsky.app</li>
+<li class='same'> 09:58 bsky.app</li>
+<li> 09:58 www.linkedin.com</li>
+<li class='same'> 09:57 www.linkedin.com</li>
+<li class='same'> 09:56 www.linkedin.com</li>
+<li> 09:56 www.google.com</li>
+<li> 09:55 www.linkedin.com</li>
+<li> 09:55 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 09:45 bsky.app</li>
+<li> 09:45 blueskydirectory.com</li>
+<li class='same'> 09:44 blueskydirectory.com</li>
+<li> 09:42 web.whatsapp.com</li>
+<li> 09:42 bsky.app</li>
+<li class='same'> 09:41 bsky.app</li>
+<li> 09:41 blueskydirectory.com</li>
+<li> 09:40 www.google.com</li>
+<li> 09:39 theopenvoicefactory.org</li>
+<li> 09:39 bsky.app</li>
+<li class='same'> 09:38 bsky.app</li>
+<li class='same'> 09:37 bsky.app</li>
+<li class='same'> 09:17 bsky.app</li>
+<li> 09:17 blueskydirectory.com</li>
+<li> 09:16 bsky.app</li>
+<li> 09:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:16 bsky.app</li>
+<li> 09:16 blueskydirectory.com</li>
+<li> 09:15 bsky.app</li>
+<li> 09:15 blueskydirectory.com</li>
+<li> 09:13 bsky.app</li>
+<li class='same'> 09:10 bsky.app</li>
+<li class='same'> 09:08 bsky.app</li>
+<li class='same'> 09:07 bsky.app</li>
+<li> 09:07 192.168.178.128:7000</li>
+<li> 09:07 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
 <H3>Wednesday, 20/11/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:19 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 20:09 www.google.com</li>
+<li> 20:07 www.ikea.com</li>
+<li class='same'> 20:06 www.ikea.com</li>
+<li class='same'> 20:05 www.ikea.com</li>
+<li> 20:05 www.wayfair.co.uk</li>
+<li> 20:05 www.google.com</li>
+<li> 20:05 www.ikea.com</li>
+<li> 20:05 www.google.com</li>
+</ul>
 
 <br>
 
