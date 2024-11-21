@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9188)</li>
 <li>mail.google.com (6308)</li>
-<li>outlook.office.com (3681)</li>
+<li>outlook.office.com (3682)</li>
 <li>www.facebook.com (3003)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1602)</li>
+<li>outlook.office365.com (1612)</li>
 <li>calendar.google.com (1541)</li>
 <li>www.reddit.com (1470)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
@@ -81,14 +81,14 @@ With number of accesses/minutes in parentheses
 <li>github.com (1041)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (886)</li>
-<li>www.linkedin.com (844)</li>
+<li>www.linkedin.com (846)</li>
 <li>gmail.com (790)</li>
 <li>login.microsoftonline.com (673)</li>
 <li>chat.openai.com (672)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>bsky.app (551)</li>
+<li>bsky.app (553)</li>
 <li>web.whatsapp.com (514)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:28 teams.microsoft.com</li>
+<ul><li> 14:57 projects.cs.rhul.ac.uk</li>
+<li> 14:57 outlook.office.com</li>
+<li> 14:57 outlook.office365.com</li>
+<li> 14:56 gitlab.cim.rhul.ac.uk</li>
+<li> 14:56 outlook.office365.com</li>
+<li class='same'> 14:55 outlook.office365.com</li>
+<li class='same'> 14:54 outlook.office365.com</li>
+<li class='same'> 14:53 outlook.office365.com</li>
+<li class='same'> 14:52 outlook.office365.com</li>
+<li class='same'> 14:51 outlook.office365.com</li>
+<li> 14:51 www.linkedin.com</li>
+<li class='same'> 14:50 www.linkedin.com</li>
+<li> 14:50 outlook.office365.com</li>
+<li class='same'> 14:49 outlook.office365.com</li>
+<li class='same'> 14:48 outlook.office365.com</li>
+<li> 14:47 bsky.app</li>
+<li class='same'> 14:46 bsky.app</li>
+<li> 14:28 teams.microsoft.com</li>
 <li> 14:28 outlook.office365.com</li>
 <li> 14:27 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 14:26 gitlab.cim.rhul.ac.uk</li>
