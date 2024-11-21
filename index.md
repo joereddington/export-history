@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9183)</li>
-<li>mail.google.com (6299)</li>
+<ol><li>www.google.com (9185)</li>
+<li>mail.google.com (6304)</li>
 <li>outlook.office.com (3675)</li>
 <li>www.facebook.com (3003)</li>
 <li>docs.google.com (1984)</li>
@@ -84,8 +84,8 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (843)</li>
 <li>gmail.com (790)</li>
 <li>login.microsoftonline.com (672)</li>
+<li>chat.openai.com (671)</li>
 <li>whitewaterwriters.com (670)</li>
-<li>chat.openai.com (670)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>bsky.app (543)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (441)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (395)</li>
+<li>chatgpt.com (396)</li>
 <li>rhul.sharepoint.com (352)</li>
 
 
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:26 mail.google.com</li>
+<ul><li> 12:36 chatgpt.com</li>
+<li> 12:36 chat.openai.com</li>
+<li> 12:35 www.firesafe.org.uk</li>
+<li> 12:35 www.google.com</li>
+<li> 12:34 0.0.0.0:7000</li>
+<li> 12:34 mail.google.com</li>
+<li> 12:32 Local file</li>
+<li> 12:32 privacyportal-de.onetrust.com</li>
+<li> 12:31 mail.google.com</li>
+<li> 12:31 www.google.com</li>
+<li> 12:31 privacyportal-de.onetrust.com</li>
+<li> 12:31 mail.google.com</li>
+<li class='same'> 12:30 mail.google.com</li>
+<li> 12:30 www.tvlicensing.co.uk</li>
+<li> 12:30 forms.tvlicensing.co.uk</li>
+<li> 12:28 mail.google.com</li>
+<li class='same'> 12:26 mail.google.com</li>
 <li class='same'> 12:25 mail.google.com</li>
 <li> 12:25 gmail.com</li>
 <li> 12:16 forms.tvlicensing.co.uk</li>
