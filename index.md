@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3681)</li>
 <li>www.facebook.com (3003)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1601)</li>
+<li>outlook.office365.com (1602)</li>
 <li>calendar.google.com (1541)</li>
 <li>www.reddit.com (1470)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (514)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
-<li>teams.microsoft.com (452)</li>
+<li>teams.microsoft.com (453)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (441)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:22 projects.cs.rhul.ac.uk</li>
+<ul><li> 14:28 teams.microsoft.com</li>
+<li> 14:28 outlook.office365.com</li>
+<li> 14:27 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 14:26 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 14:25 gitlab.cim.rhul.ac.uk</li>
+<li> 14:22 projects.cs.rhul.ac.uk</li>
 <li> 14:22 outlook.office.com</li>
 <li> 14:22 outlook.office365.com</li>
 <li class='same'> 14:21 outlook.office365.com</li>
