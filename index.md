@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9188)</li>
 <li>mail.google.com (6306)</li>
-<li>outlook.office.com (3675)</li>
+<li>outlook.office.com (3680)</li>
 <li>www.facebook.com (3003)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1596)</li>
+<li>outlook.office365.com (1597)</li>
 <li>calendar.google.com (1541)</li>
 <li>www.reddit.com (1470)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (886)</li>
 <li>www.linkedin.com (843)</li>
 <li>gmail.com (790)</li>
-<li>login.microsoftonline.com (672)</li>
+<li>login.microsoftonline.com (673)</li>
 <li>chat.openai.com (671)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (669)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:59 bsky.app</li>
+<ul><li> 14:06 outlook.office.com</li>
+<li class='same'> 14:05 outlook.office.com</li>
+<li class='same'> 14:04 outlook.office.com</li>
+<li class='same'> 14:03 outlook.office.com</li>
+<li> 14:03 outlook.office365.com</li>
+<li> 14:03 outlook.office.com</li>
+<li> 14:03 login.microsoftonline.com</li>
+<li> 14:03 mail.rhul.ac.uk</li>
+<li> 14:03 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:59 bsky.app</li>
 <li class='same'> 13:57 bsky.app</li>
 <li class='same'> 13:56 bsky.app</li>
 <li> 13:55 0.0.0.0:7000</li>
