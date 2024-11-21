@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9199)</li>
+<ol><li>www.google.com (9200)</li>
 <li>mail.google.com (6313)</li>
 <li>outlook.office.com (3682)</li>
 <li>www.facebook.com (3003)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1624)</li>
+<li>outlook.office365.com (1625)</li>
 <li>calendar.google.com (1541)</li>
 <li>www.reddit.com (1471)</li>
 <li>moodle.royalholloway.ac.uk (1468)</li>
@@ -83,18 +83,18 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (886)</li>
 <li>www.linkedin.com (850)</li>
 <li>gmail.com (791)</li>
-<li>login.microsoftonline.com (677)</li>
+<li>login.microsoftonline.com (678)</li>
 <li>chat.openai.com (674)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>bsky.app (568)</li>
+<li>bsky.app (572)</li>
 <li>web.whatsapp.com (516)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
 <li>teams.microsoft.com (454)</li>
 <li>kdp.amazon.com (444)</li>
-<li>rhul-my.sharepoint.com (443)</li>
+<li>rhul-my.sharepoint.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (401)</li>
 <li>rhul.sharepoint.com (352)</li>
@@ -108,12 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:57 clearsky.app</li>
+<ul><li> 20:10 clearsky.app</li>
 </ul>
 
 <br>
 
-<ul><li> 17:50 www.giantitp.com</li>
+<ul><li class='same'> 18:59 clearsky.app</li>
+<li class='same'> 18:58 clearsky.app</li>
+<li class='same'> 18:57 clearsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 17:57 rhul-my.sharepoint.com</li>
+<li> 17:56 forms.office.com</li>
+<li> 17:56 login.microsoftonline.com</li>
+<li> 17:56 forms.office.com</li>
+<li> 17:56 bsky.app</li>
+<li class='same'> 17:55 bsky.app</li>
+<li> 17:55 www.google.com</li>
+<li> 17:55 bsky.app</li>
+<li class='same'> 17:54 bsky.app</li>
+<li> 17:53 outlook.office365.com</li>
+<li> 17:50 www.giantitp.com</li>
 <li> 17:45 outlook.office365.com</li>
 <li> 17:44 forms.office.com</li>
 <li> 17:44 login.microsoftonline.com</li>
