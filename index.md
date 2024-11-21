@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9188)</li>
 <li>mail.google.com (6308)</li>
-<li>outlook.office.com (3680)</li>
+<li>outlook.office.com (3681)</li>
 <li>www.facebook.com (3003)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1597)</li>
+<li>outlook.office365.com (1601)</li>
 <li>calendar.google.com (1541)</li>
 <li>www.reddit.com (1470)</li>
 <li>moodle.royalholloway.ac.uk (1463)</li>
@@ -81,10 +81,10 @@ With number of accesses/minutes in parentheses
 <li>github.com (1041)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (886)</li>
-<li>www.linkedin.com (843)</li>
+<li>www.linkedin.com (844)</li>
 <li>gmail.com (790)</li>
 <li>login.microsoftonline.com (673)</li>
-<li>chat.openai.com (671)</li>
+<li>chat.openai.com (672)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (441)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (396)</li>
+<li>chatgpt.com (398)</li>
 <li>rhul.sharepoint.com (352)</li>
 
 
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:15 mail.google.com</li>
+<ul><li> 14:22 projects.cs.rhul.ac.uk</li>
+<li> 14:22 outlook.office.com</li>
+<li> 14:22 outlook.office365.com</li>
+<li class='same'> 14:21 outlook.office365.com</li>
+<li class='same'> 14:20 outlook.office365.com</li>
+<li> 14:19 projects.cs.rhul.ac.uk</li>
+<li> 14:17 outlook.office365.com</li>
+<li> 14:16 cim.rhul.ac.uk</li>
+<li> 14:15 mail.google.com</li>
 <li class='same'> 14:14 mail.google.com</li>
 <li> 14:13 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:13 0.0.0.0:7000</li>
@@ -125,6 +133,12 @@ With number of accesses/minutes in parentheses
 <li> 14:03 login.microsoftonline.com</li>
 <li> 14:03 mail.rhul.ac.uk</li>
 <li> 14:03 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:01 www.linkedin.com</li>
+<li> 14:00 chatgpt.com</li>
+<li> 14:00 auth0.openai.com</li>
+<li> 14:00 auth.openai.com</li>
+<li> 13:59 chatgpt.com</li>
+<li> 13:59 chat.openai.com</li>
 <li> 13:59 bsky.app</li>
 <li class='same'> 13:57 bsky.app</li>
 <li class='same'> 13:56 bsky.app</li>
