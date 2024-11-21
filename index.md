@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9188)</li>
-<li>mail.google.com (6308)</li>
+<ol><li>www.google.com (9190)</li>
+<li>mail.google.com (6310)</li>
 <li>outlook.office.com (3682)</li>
 <li>www.facebook.com (3003)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1612)</li>
+<li>outlook.office365.com (1614)</li>
 <li>calendar.google.com (1541)</li>
 <li>www.reddit.com (1470)</li>
-<li>moodle.royalholloway.ac.uk (1463)</li>
+<li>moodle.royalholloway.ac.uk (1466)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1041)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (886)</li>
-<li>www.linkedin.com (846)</li>
-<li>gmail.com (790)</li>
-<li>login.microsoftonline.com (673)</li>
+<li>www.linkedin.com (848)</li>
+<li>gmail.com (791)</li>
+<li>login.microsoftonline.com (674)</li>
 <li>chat.openai.com (672)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>bsky.app (553)</li>
+<li>bsky.app (557)</li>
 <li>web.whatsapp.com (514)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
-<li>teams.microsoft.com (453)</li>
+<li>teams.microsoft.com (454)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (441)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:57 projects.cs.rhul.ac.uk</li>
+<ul><li> 15:53 fightingfilms.com</li>
+<li> 15:53 www.google.com</li>
+<li> 15:53 mail.google.com</li>
+<li class='same'> 15:50 mail.google.com</li>
+<li> 15:50 gmail.com</li>
+<li> 15:49 www.linkedin.com</li>
+<li> 15:49 bsky.app</li>
+<li class='same'> 15:48 bsky.app</li>
+<li class='same'> 15:47 bsky.app</li>
+<li class='same'> 15:46 bsky.app</li>
+<li> 15:46 www.linkedin.com</li>
+<li> 15:45 projects.cs.rhul.ac.uk</li>
+<li> 15:22 outlook.office365.com</li>
+<li> 15:14 projects.cs.rhul.ac.uk</li>
+<li class='same'> 15:10 projects.cs.rhul.ac.uk</li>
+<li> 15:08 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 15:07 gitlab.cim.rhul.ac.uk</li>
+<li> 15:07 projects.cs.rhul.ac.uk</li>
+<li> 15:04 outlook.office365.com</li>
+<li> 15:00 teams.microsoft.com</li>
+<li> 14:59 projects.cs.rhul.ac.uk</li>
+<li> 14:59 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:58 moodle.royalholloway.ac.uk</li>
+<li> 14:58 login.microsoftonline.com</li>
+<li> 14:58 moodle.royalholloway.ac.uk</li>
+<li> 14:58 www.google.com</li>
+<li> 14:58 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 14:57 gitlab.cim.rhul.ac.uk</li>
+<li> 14:57 projects.cs.rhul.ac.uk</li>
 <li> 14:57 outlook.office.com</li>
 <li> 14:57 outlook.office365.com</li>
 <li> 14:56 gitlab.cim.rhul.ac.uk</li>
