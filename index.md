@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (670)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>bsky.app (528)</li>
+<li>bsky.app (532)</li>
 <li>web.whatsapp.com (512)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (478)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:12 calendar.google.com</li>
+<ul><li> 10:39 bsky.app</li>
+<li class='same'> 10:38 bsky.app</li>
+<li> 10:34 0.0.0.0:8000</li>
+<li> 10:33 0.0.0.0:7000</li>
+<li> 10:32 bsky.app</li>
+<li class='same'> 10:29 bsky.app</li>
+<li> 10:12 calendar.google.com</li>
 <li> 10:12 192.168.178.128:7000</li>
 <li> 10:12 www.theguardian.com</li>
 <li> 10:11 chatgpt.com</li>
