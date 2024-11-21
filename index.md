@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9190)</li>
-<li>mail.google.com (6310)</li>
+<ol><li>www.google.com (9196)</li>
+<li>mail.google.com (6312)</li>
 <li>outlook.office.com (3682)</li>
 <li>www.facebook.com (3003)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1614)</li>
+<li>outlook.office365.com (1621)</li>
 <li>calendar.google.com (1541)</li>
-<li>www.reddit.com (1470)</li>
+<li>www.reddit.com (1471)</li>
 <li>moodle.royalholloway.ac.uk (1466)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1041)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (886)</li>
-<li>www.linkedin.com (848)</li>
+<li>www.linkedin.com (850)</li>
 <li>gmail.com (791)</li>
 <li>login.microsoftonline.com (674)</li>
-<li>chat.openai.com (672)</li>
+<li>chat.openai.com (673)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>bsky.app (557)</li>
-<li>web.whatsapp.com (514)</li>
+<li>bsky.app (567)</li>
+<li>web.whatsapp.com (515)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
 <li>teams.microsoft.com (454)</li>
 <li>kdp.amazon.com (444)</li>
 <li>rhul-my.sharepoint.com (441)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (398)</li>
+<li>chatgpt.com (399)</li>
 <li>rhul.sharepoint.com (352)</li>
 
 
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:53 fightingfilms.com</li>
+<ul><li> 16:58 www.linkedin.com</li>
+<li> 16:58 www.google.com</li>
+<li> 16:57 pure.royalholloway.ac.uk</li>
+<li> 16:57 www.google.com</li>
+<li> 16:57 outlook.office365.com</li>
+<li> 16:56 store.isaca.org</li>
+<li> 16:56 isaca.secure-platform.com</li>
+<li> 16:55 ukcyberteam.sans.org</li>
+<li> 16:55 outlook.office365.com</li>
+<li> 16:54 bsky.app</li>
+<li class='same'> 16:53 bsky.app</li>
+<li class='same'> 16:50 bsky.app</li>
+<li> 16:49 <a href="https://en.wikipedia.org/wiki/Tequila">Tequila - Wikipedia</a></li>
+<li> 16:49 www.google.com</li>
+<li> 16:49 bsky.app</li>
+<li class='same'> 16:48 bsky.app</li>
+<li> 16:42 outlook.office365.com</li>
+<li class='same'> 16:41 outlook.office365.com</li>
+<li class='same'> 16:40 outlook.office365.com</li>
+<li> 16:36 www.linkedin.com</li>
+<li> 16:35 mail.google.com</li>
+<li> 16:35 softwareengineering.stackexchange.com</li>
+<li class='same'> 16:19 softwareengineering.stackexchange.com</li>
+<li> 16:19 www.google.com</li>
+<li> 16:18 chatgpt.com</li>
+<li> 16:18 chat.openai.com</li>
+<li> 16:17 projects.cs.rhul.ac.uk</li>
+<li> 16:16 outlook.office365.com</li>
+<li> 16:16 bsky.app</li>
+<li> 16:15 outlook.office365.com</li>
+<li> 16:01 bsky.app</li>
+<li> 16:00 <a href="https://en.wikipedia.org/wiki/Beowulf_%26_Grendel">Beowulf & Grendel - Wikipedia</a></li>
+<li> 15:59 <a href="https://en.wikipedia.org/wiki/Rory_McCann">Rory McCann - Wikipedia</a></li>
+<li> 15:59 www.google.com</li>
+<li> 15:58 www.reddit.com</li>
+<li> 15:57 www.google.com</li>
+<li> 15:57 bsky.app</li>
+<li class='same'> 15:56 bsky.app</li>
+<li class='same'> 15:55 bsky.app</li>
+<li> 15:55 mail.google.com</li>
+<li> 15:55 web.whatsapp.com</li>
+<li> 15:54 fightingfilms.com</li>
+<li class='same'> 15:53 fightingfilms.com</li>
 <li> 15:53 www.google.com</li>
 <li> 15:53 mail.google.com</li>
 <li class='same'> 15:50 mail.google.com</li>
