@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9205)</li>
+<ol><li>www.google.com (9207)</li>
 <li>mail.google.com (6315)</li>
 <li>outlook.office.com (3682)</li>
-<li>www.facebook.com (3003)</li>
+<li>www.facebook.com (3005)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1637)</li>
+<li>outlook.office365.com (1640)</li>
 <li>calendar.google.com (1541)</li>
 <li>www.reddit.com (1471)</li>
 <li>moodle.royalholloway.ac.uk (1470)</li>
-<li>www.amazon.co.uk (1269)</li>
+<li>www.amazon.co.uk (1271)</li>
 <li>github.com (1041)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (852)</li>
 <li>gmail.com (792)</li>
 <li>login.microsoftonline.com (680)</li>
-<li>chat.openai.com (674)</li>
+<li>chat.openai.com (675)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (669)</li>
-<li>bsky.app (578)</li>
+<li>bsky.app (582)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>web.whatsapp.com (516)</li>
+<li>web.whatsapp.com (517)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
 <li>teams.microsoft.com (454)</li>
 <li>rhul-my.sharepoint.com (448)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (401)</li>
+<li>chatgpt.com (402)</li>
 <li>rhul.sharepoint.com (353)</li>
 
 
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 22/11/24</H3>
+
+<br>
+
+<ul><li> 15:37 www.amazon.co.uk</li>
+<li class='same'> 15:36 www.amazon.co.uk</li>
+<li> 15:36 www.google.com</li>
+<li> 15:32 bsky.app</li>
+<li class='same'> 15:31 bsky.app</li>
+<li> 15:31 www.facebook.com</li>
+<li class='same'> 15:30 www.facebook.com</li>
+<li> 15:29 outlook.office365.com</li>
+<li> 15:21 rl.talis.com</li>
+<li> 15:16 web.whatsapp.com</li>
+<li> 15:15 www.google.com</li>
+<li> 15:14 outlook.office365.com</li>
+<li> 15:12 bsky.app</li>
+<li> 15:12 chatgpt.com</li>
+<li> 15:12 chat.openai.com</li>
+<li> 15:11 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 15:10 bsky.app</li>
+<li> 15:10 outlook.office365.com</li>
+</ul>
 
 <br>
 
