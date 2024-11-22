@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (852)</li>
 <li>gmail.com (792)</li>
-<li>login.microsoftonline.com (679)</li>
+<li>login.microsoftonline.com (680)</li>
 <li>chat.openai.com (674)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (669)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
 <li>teams.microsoft.com (454)</li>
-<li>rhul-my.sharepoint.com (447)</li>
+<li>rhul-my.sharepoint.com (448)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (401)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 22/11/24</H3>
+
+<br>
+
+<ul><li> 14:10 rhul-my.sharepoint.com</li>
+<li> 14:10 forms.office.com</li>
+<li class='same'> 14:09 forms.office.com</li>
+<li> 14:09 login.microsoftonline.com</li>
+<li> 14:09 forms.office.com</li>
+</ul>
 
 <br>
 
