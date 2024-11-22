@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9200)</li>
+<ol><li>www.google.com (9205)</li>
 <li>mail.google.com (6313)</li>
 <li>outlook.office.com (3682)</li>
 <li>www.facebook.com (3003)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1625)</li>
+<li>outlook.office365.com (1636)</li>
 <li>calendar.google.com (1541)</li>
 <li>www.reddit.com (1471)</li>
 <li>moodle.royalholloway.ac.uk (1468)</li>
-<li>www.amazon.co.uk (1270)</li>
+<li>www.amazon.co.uk (1269)</li>
 <li>github.com (1041)</li>
 <li>m.facebook.com (978)</li>
-<li>www.theguardian.com (886)</li>
-<li>www.linkedin.com (850)</li>
+<li>www.theguardian.com (888)</li>
+<li>www.linkedin.com (852)</li>
 <li>gmail.com (791)</li>
 <li>login.microsoftonline.com (678)</li>
 <li>chat.openai.com (674)</li>
 <li>whitewaterwriters.com (670)</li>
 <li>tvtropes.org (669)</li>
+<li>bsky.app (578)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>bsky.app (572)</li>
 <li>web.whatsapp.com (516)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
@@ -97,14 +97,58 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>chatgpt.com (401)</li>
-<li>rhul.sharepoint.com (352)</li>
+<li>rhul.sharepoint.com (353)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Friday, 22/11/24</H3>
+
+<br>
+
+<ul><li> 11:28 outlook.office365.com</li>
+<li class='same'> 11:23 outlook.office365.com</li>
+<li> 11:17 www.windsor.gov.uk</li>
+<li> 11:17 www.google.com</li>
+<li class='same'> 11:14 www.google.com</li>
+<li> 11:12 www.ucisa.ac.uk</li>
+<li> 11:12 www.google.com</li>
+<li> 11:12 outlook.office365.com</li>
+<li class='same'> 11:11 outlook.office365.com</li>
+<li> 11:11 media.nesta.org.uk</li>
+<li> 11:10 www.disability-grants.org</li>
+<li> 11:10 www.google.com</li>
+<li> 11:10 www.theguardian.com</li>
+<li> 11:10 www.google.com</li>
+<li> 11:09 <a href="https://joereddington.com/media.html">Joe Reddington | Things I make.</a></li>
+<li> 11:09 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:09 www.theguardian.com</li>
+<li> 11:09 www.google.com</li>
+<li> 11:07 outlook.office365.com</li>
+<li> 11:02 rhul.sharepoint.com</li>
+<li> 11:02 outlook.office365.com</li>
+<li class='same'> 11:01 outlook.office365.com</li>
+<li> 11:01 bsky.app</li>
+<li> 10:59 outlook.office365.com</li>
+<li> 10:59 bsky.app</li>
+<li class='same'> 10:55 bsky.app</li>
+<li class='same'> 10:54 bsky.app</li>
+<li class='same'> 10:53 bsky.app</li>
+<li> 10:53 www.linkedin.com</li>
+<li class='same'> 10:52 www.linkedin.com</li>
+<li> 10:46 bsky.app</li>
+<li> 10:46 outlook.office365.com</li>
+<li class='same'> 10:45 outlook.office365.com</li>
+<li class='same'> 10:44 outlook.office365.com</li>
+</ul>
+
 <H3>Thursday, 21/11/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -20080,7 +20124,6 @@ With number of accesses/minutes in parentheses
 <li> 15:32 www.wob.com</li>
 <li> 15:31 www.google.com</li>
 <li> 15:31 www.amazon.co.uk</li>
-<li class='same'> 15:30 www.amazon.co.uk</li>
 <li class='same'> 15:29 www.amazon.co.uk</li>
 <li> 15:29 docs.google.com</li>
 </ul>
@@ -20109,8 +20152,7 @@ With number of accesses/minutes in parentheses
 <li> 09:54 <a href="https://en.wikipedia.org/wiki/John_F._Kennedy_document_hoax#/media/File:JFK_and_Marilyn_Monroe_1962.jpg">John F. Kennedy document hoax - Wikipedia</a></li>
 <li> 09:54 <a href="https://en.wikipedia.org/wiki/John_F._Kennedy_document_hoax">John F. Kennedy document hoax - Wikipedia</a></li>
 <li> 09:53 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 09:53 www.google.com</li>
-<li class='same'> 09:52 www.google.com</li>
+<li> 09:52 www.google.com</li>
 <li> 09:51 www.natesilver.net</li>
 <li> 09:51 feedly.com</li>
 <li> 09:51 www.giantitp.com</li>
