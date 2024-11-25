@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9223)</li>
+<ol><li>www.google.com (9225)</li>
 <li>mail.google.com (6324)</li>
 <li>outlook.office.com (3686)</li>
 <li>www.facebook.com (3006)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1656)</li>
+<li>outlook.office365.com (1657)</li>
 <li>calendar.google.com (1543)</li>
 <li>www.reddit.com (1478)</li>
 <li>moodle.royalholloway.ac.uk (1475)</li>
@@ -83,16 +83,16 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (857)</li>
 <li>gmail.com (796)</li>
-<li>login.microsoftonline.com (691)</li>
+<li>login.microsoftonline.com (692)</li>
 <li>chat.openai.com (682)</li>
 <li>whitewaterwriters.com (681)</li>
 <li>tvtropes.org (669)</li>
-<li>bsky.app (632)</li>
+<li>bsky.app (642)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>web.whatsapp.com (519)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
-<li>rhul-my.sharepoint.com (456)</li>
+<li>rhul-my.sharepoint.com (459)</li>
 <li>teams.microsoft.com (455)</li>
 <li>kdp.amazon.com (444)</li>
 <li>chatgpt.com (414)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:33 bsky.app</li>
+<ul><li> 07:09 bsky.app</li>
+<li> 07:09 0.0.0.0:8000</li>
+<li> 06:54 bsky.app</li>
+<li class='same'> 06:53 bsky.app</li>
+<li class='same'> 06:52 bsky.app</li>
+<li class='same'> 06:48 bsky.app</li>
+<li class='same'> 06:47 bsky.app</li>
+<li> 06:47 blueskydirectory.com</li>
+<li> 06:45 outlook.office365.com</li>
+<li> 06:45 login.microsoftonline.com</li>
+<li> 06:44 rhul-my.sharepoint.com</li>
+<li> 06:44 bsky.app</li>
+<li class='same'> 06:43 bsky.app</li>
+<li> 06:43 rhul-my.sharepoint.com</li>
+<li> 06:42 www.google.com</li>
+<li> 06:42 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 06:42 www.google.com</li>
+<li> 06:41 bsky.app</li>
+<li class='same'> 06:39 bsky.app</li>
+<li> 06:37 rhul-my.sharepoint.com</li>
+<li> 06:33 bsky.app</li>
 <li class='same'> 06:32 bsky.app</li>
 <li> 06:30 outlook.office.com</li>
 <li> 06:30 rhul-my.sharepoint.com</li>
