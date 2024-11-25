@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (694)</li>
 <li>chat.openai.com (686)</li>
 <li>whitewaterwriters.com (682)</li>
-<li>tvtropes.org (669)</li>
+<li>tvtropes.org (671)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (522)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -531,7 +531,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:57 blueskydirectory.com</li>
+<ul><li> 18:17 blueskyfeeds.com</li>
+<li class='same'> 18:16 blueskyfeeds.com</li>
+<li> 18:16 clearsky.app</li>
+<li> 18:16 blueskyfeeds.com</li>
+<li> 17:57 blueskydirectory.com</li>
 <li class='same'> 17:56 blueskydirectory.com</li>
 <li> 17:56 m.facebook.com</li>
 </ul>
@@ -618,6 +622,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 09:19 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:35 tvtropes.org</li>
+<li class='same'> 08:34 tvtropes.org</li>
 </ul>
 
 <H3>Friday, 22/11/24</H3>
