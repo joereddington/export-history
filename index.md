@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (522)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (483)</li>
-<li>rhul-my.sharepoint.com (468)</li>
+<li>rhul-my.sharepoint.com (469)</li>
 <li>teams.microsoft.com (457)</li>
 <li>kdp.amazon.com (444)</li>
 <li>chatgpt.com (421)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:28 rhul-my.sharepoint.com</li>
+<ul><li> 17:29 rhul-my.sharepoint.com</li>
+<li class='same'> 17:28 rhul-my.sharepoint.com</li>
 <li> 17:28 moodle.royalholloway.ac.uk</li>
 <li> 17:27 Local file</li>
 <li> 17:27 moodle.royalholloway.ac.uk</li>
