@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9249)</li>
+<ol><li>www.google.com (9253)</li>
 <li>mail.google.com (6326)</li>
 <li>outlook.office.com (3688)</li>
-<li>www.facebook.com (3013)</li>
+<li>www.facebook.com (3021)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1674)</li>
-<li>calendar.google.com (1544)</li>
-<li>www.reddit.com (1481)</li>
+<li>outlook.office365.com (1676)</li>
+<li>calendar.google.com (1545)</li>
+<li>www.reddit.com (1483)</li>
 <li>moodle.royalholloway.ac.uk (1478)</li>
 <li>www.amazon.co.uk (1272)</li>
 <li>github.com (1053)</li>
@@ -83,10 +83,10 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (857)</li>
 <li>gmail.com (797)</li>
+<li>bsky.app (694)</li>
 <li>login.microsoftonline.com (693)</li>
-<li>chat.openai.com (683)</li>
+<li>chat.openai.com (684)</li>
 <li>whitewaterwriters.com (682)</li>
-<li>bsky.app (673)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>web.whatsapp.com (519)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (461)</li>
 <li>teams.microsoft.com (457)</li>
 <li>kdp.amazon.com (444)</li>
-<li>chatgpt.com (416)</li>
+<li>chatgpt.com (417)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (357)</li>
 
@@ -108,7 +108,60 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:36 bsky.app</li>
+<ul><li> 14:45 www.facebook.com</li>
+<li class='same'> 14:44 www.facebook.com</li>
+<li class='same'> 14:43 www.facebook.com</li>
+<li class='same'> 14:42 www.facebook.com</li>
+<li class='same'> 14:41 www.facebook.com</li>
+<li class='same'> 14:40 www.facebook.com</li>
+<li class='same'> 14:39 www.facebook.com</li>
+<li> 14:38 www.reddit.com</li>
+<li class='same'> 14:37 www.reddit.com</li>
+<li> 14:37 outlook.office365.com</li>
+<li class='same'> 14:36 outlook.office365.com</li>
+<li> 14:35 bsky.app</li>
+<li class='same'> 14:33 bsky.app</li>
+<li> 14:32 blueskydirectory.com</li>
+<li> 14:31 bsky.app</li>
+<li> 14:31 blueskydirectory.com</li>
+<li class='same'> 14:30 blueskydirectory.com</li>
+<li> 14:29 bsky.app</li>
+<li> 14:28 blueskydirectory.com</li>
+<li class='same'> 14:27 blueskydirectory.com</li>
+<li> 14:26 bsky.app</li>
+<li class='same'> 14:25 bsky.app</li>
+<li> 14:25 www.google.com</li>
+<li> 14:24 bsky.app</li>
+<li> 14:24 chatgpt.com</li>
+<li> 14:24 chat.openai.com</li>
+<li> 14:24 www.google.com</li>
+<li> 14:23 bsky.app</li>
+<li> 14:23 blueskydirectory.com</li>
+<li> 14:22 theopenvoicefactory.org</li>
+<li> 14:22 bsky.app</li>
+<li class='same'> 14:21 bsky.app</li>
+<li> 14:21 blueskydirectory.com</li>
+<li class='same'> 14:17 blueskydirectory.com</li>
+<li> 14:16 bsky.app</li>
+<li> 14:13 www.facebook.com</li>
+<li> 14:13 calendar.google.com</li>
+<li> 14:11 bsky.app</li>
+<li class='same'> 14:10 bsky.app</li>
+<li class='same'> 14:09 bsky.app</li>
+<li class='same'> 14:08 bsky.app</li>
+<li class='same'> 14:07 bsky.app</li>
+<li class='same'> 14:02 bsky.app</li>
+<li> 14:02 www.google.com</li>
+<li> 14:00 www.yahoo.com</li>
+<li> 14:00 consent.yahoo.com</li>
+<li> 14:00 www.wired.com</li>
+<li> 14:00 www.google.com</li>
+<li> 13:57 bsky.app</li>
+<li> 13:57 blueskydirectory.com</li>
+<li> 13:55 bsky.app</li>
+<li class='same'> 13:53 bsky.app</li>
+<li class='same'> 13:51 bsky.app</li>
+<li class='same'> 13:36 bsky.app</li>
 </ul>
 
 <br>
