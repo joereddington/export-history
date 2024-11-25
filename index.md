@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9260)</li>
-<li>mail.google.com (6326)</li>
-<li>outlook.office.com (3689)</li>
+<ol><li>www.google.com (9270)</li>
+<li>mail.google.com (6332)</li>
+<li>outlook.office.com (3690)</li>
 <li>www.facebook.com (3024)</li>
-<li>docs.google.com (1986)</li>
-<li>outlook.office365.com (1679)</li>
+<li>docs.google.com (1987)</li>
+<li>outlook.office365.com (1683)</li>
 <li>calendar.google.com (1545)</li>
-<li>www.reddit.com (1483)</li>
+<li>www.reddit.com (1485)</li>
 <li>moodle.royalholloway.ac.uk (1478)</li>
 <li>www.amazon.co.uk (1273)</li>
-<li>github.com (1053)</li>
+<li>github.com (1055)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (888)</li>
-<li>www.linkedin.com (859)</li>
-<li>gmail.com (797)</li>
-<li>bsky.app (701)</li>
+<li>www.linkedin.com (860)</li>
+<li>gmail.com (799)</li>
+<li>bsky.app (710)</li>
 <li>login.microsoftonline.com (693)</li>
-<li>chat.openai.com (684)</li>
+<li>chat.openai.com (685)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (522)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (482)</li>
-<li>rhul-my.sharepoint.com (461)</li>
+<li>drive.google.com (483)</li>
+<li>rhul-my.sharepoint.com (462)</li>
 <li>teams.microsoft.com (457)</li>
 <li>kdp.amazon.com (444)</li>
-<li>chatgpt.com (417)</li>
+<li>chatgpt.com (419)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (357)</li>
 
@@ -108,7 +108,78 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:32 outlook.office365.com</li>
+<ul><li> 16:49 outlook.office.com</li>
+<li> 16:49 rhul-my.sharepoint.com</li>
+<li> 16:49 fast.com</li>
+<li> 16:49 mail.rhul.ac.uk</li>
+<li> 16:32 www.reddit.com</li>
+<li> 16:32 www.google.com</li>
+<li class='same'> 16:31 www.google.com</li>
+<li> 16:31 www.monster.co.uk</li>
+<li class='same'> 16:30 www.monster.co.uk</li>
+<li> 16:30 accounts.google.com</li>
+<li> 16:30 identity.monster.com</li>
+<li> 16:30 www.monster.co.uk</li>
+<li class='same'> 16:29 www.monster.co.uk</li>
+<li> 16:29 www.google.com</li>
+<li> 16:28 www.linkedin.com</li>
+<li> 16:27 careers.amey.co.uk</li>
+<li> 16:27 uk.indeed.com</li>
+<li class='same'> 16:26 uk.indeed.com</li>
+<li class='same'> 16:25 uk.indeed.com</li>
+<li> 16:25 profile.indeed.com</li>
+<li class='same'> 16:24 profile.indeed.com</li>
+<li> 16:24 mail.google.com</li>
+<li> 16:23 profile.indeed.com</li>
+<li class='same'> 16:22 profile.indeed.com</li>
+<li> 16:20 bsky.app</li>
+<li class='same'> 16:19 bsky.app</li>
+<li class='same'> 16:18 bsky.app</li>
+<li class='same'> 16:17 bsky.app</li>
+<li> 16:17 mail.google.com</li>
+<li> 16:15 scholar.google.com</li>
+<li> 16:14 cisse.info</li>
+<li> 16:14 www.google.com</li>
+<li> 16:14 scholar.google.com</li>
+<li> 16:14 www.google.com</li>
+<li> 16:12 chatgpt.com</li>
+<li class='same'> 16:11 chatgpt.com</li>
+<li> 16:11 chat.openai.com</li>
+<li> 16:09 github.com</li>
+<li class='same'> 16:08 github.com</li>
+<li> 16:08 mail.google.com</li>
+<li> 16:08 profile.indeed.com</li>
+<li> 16:08 mail.google.com</li>
+<li> 16:08 gmail.com</li>
+<li> 16:07 secure.indeed.com</li>
+<li> 16:07 mail.google.com</li>
+<li> 16:06 www.meads.w-sussex.sch.uk</li>
+<li> 16:06 themeads.org.uk</li>
+<li> 16:05 www.google.com</li>
+<li> 16:04 mail.google.com</li>
+<li> 16:04 gmail.com</li>
+<li> 16:04 secure.indeed.com</li>
+<li> 16:04 profile.indeed.com</li>
+<li> 16:04 uk.indeed.com</li>
+<li> 16:04 www.google.com</li>
+<li> 16:03 www.reddit.com</li>
+<li> 16:03 www.google.com</li>
+<li class='same'> 16:02 www.google.com</li>
+<li> 15:58 www.ons.gov.uk</li>
+<li> 15:58 www.google.com</li>
+<li> 15:57 docs.google.com</li>
+<li> 15:57 drive.google.com</li>
+<li> 15:56 bsky.app</li>
+<li class='same'> 15:50 bsky.app</li>
+<li class='same'> 15:49 bsky.app</li>
+<li> 15:49 outlook.office365.com</li>
+<li class='same'> 15:48 outlook.office365.com</li>
+<li> 15:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:48 bsky.app</li>
+<li> 15:48 outlook.office365.com</li>
+<li class='same'> 15:47 outlook.office365.com</li>
+<li> 15:37 bsky.app</li>
+<li> 15:32 outlook.office365.com</li>
 <li> 15:31 web.whatsapp.com</li>
 <li> 15:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 15:30 www.linkedin.com</li>
