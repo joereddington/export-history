@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (683)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (669)</li>
-<li>bsky.app (644)</li>
+<li>bsky.app (648)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>web.whatsapp.com (519)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:25 github.com</li>
+<ul><li> 07:34 bsky.app</li>
+<li class='same'> 07:33 bsky.app</li>
+<li class='same'> 07:32 bsky.app</li>
+<li> 07:32 feedly.com</li>
+<li> 07:30 www.giantitp.com</li>
+<li> 07:29 feedly.com</li>
+<li> 07:25 github.com</li>
 <li class='same'> 07:24 github.com</li>
 <li> 07:23 bsky.app</li>
 <li> 07:18 chatgpt.com</li>
@@ -125,7 +131,8 @@ With number of accesses/minutes in parentheses
 <li> 07:13 www.google.com</li>
 <li> 07:09 bsky.app</li>
 <li> 07:09 0.0.0.0:8000</li>
-<li> 06:54 bsky.app</li>
+<li> 06:56 bsky.app</li>
+<li class='same'> 06:54 bsky.app</li>
 <li class='same'> 06:53 bsky.app</li>
 <li class='same'> 06:52 bsky.app</li>
 <li class='same'> 06:48 bsky.app</li>
