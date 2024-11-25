@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9270)</li>
 <li>mail.google.com (6332)</li>
-<li>outlook.office.com (3697)</li>
+<li>outlook.office.com (3698)</li>
 <li>www.facebook.com (3024)</li>
 <li>docs.google.com (1987)</li>
 <li>outlook.office365.com (1684)</li>
 <li>calendar.google.com (1545)</li>
 <li>www.reddit.com (1485)</li>
-<li>moodle.royalholloway.ac.uk (1478)</li>
+<li>moodle.royalholloway.ac.uk (1481)</li>
 <li>www.amazon.co.uk (1273)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (978)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (860)</li>
 <li>gmail.com (799)</li>
 <li>bsky.app (710)</li>
-<li>login.microsoftonline.com (693)</li>
+<li>login.microsoftonline.com (694)</li>
 <li>chat.openai.com (686)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (669)</li>
@@ -92,10 +92,10 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (522)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (483)</li>
-<li>rhul-my.sharepoint.com (462)</li>
+<li>rhul-my.sharepoint.com (468)</li>
 <li>teams.microsoft.com (457)</li>
 <li>kdp.amazon.com (444)</li>
-<li>chatgpt.com (420)</li>
+<li>chatgpt.com (421)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (357)</li>
 
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:13 chatgpt.com</li>
+<ul><li> 17:28 rhul-my.sharepoint.com</li>
+<li> 17:28 moodle.royalholloway.ac.uk</li>
+<li> 17:27 Local file</li>
+<li> 17:27 moodle.royalholloway.ac.uk</li>
+<li> 17:27 login.microsoftonline.com</li>
+<li> 17:27 moodle.royalholloway.ac.uk</li>
+<li> 17:27 rhul-my.sharepoint.com</li>
+<li class='same'> 17:26 rhul-my.sharepoint.com</li>
+<li class='same'> 17:25 rhul-my.sharepoint.com</li>
+<li> 17:24 euc-excel.officeapps.live.com</li>
+<li> 17:24 rhul-my.sharepoint.com</li>
+<li class='same'> 17:23 rhul-my.sharepoint.com</li>
+<li> 17:23 www.giantitp.com</li>
+<li> 17:22 outlook.office.com</li>
+<li> 17:14 chatgpt.com</li>
+<li class='same'> 17:13 chatgpt.com</li>
 <li> 17:13 chat.openai.com</li>
 <li> 17:02 Local file</li>
 <li> 17:02 outlook.office.com</li>
