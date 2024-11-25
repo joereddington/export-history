@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9253)</li>
+<ol><li>www.google.com (9260)</li>
 <li>mail.google.com (6326)</li>
-<li>outlook.office.com (3688)</li>
-<li>www.facebook.com (3021)</li>
-<li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1676)</li>
+<li>outlook.office.com (3689)</li>
+<li>www.facebook.com (3024)</li>
+<li>docs.google.com (1986)</li>
+<li>outlook.office365.com (1679)</li>
 <li>calendar.google.com (1545)</li>
 <li>www.reddit.com (1483)</li>
 <li>moodle.royalholloway.ac.uk (1478)</li>
-<li>www.amazon.co.uk (1272)</li>
+<li>www.amazon.co.uk (1273)</li>
 <li>github.com (1053)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (888)</li>
-<li>www.linkedin.com (857)</li>
+<li>www.linkedin.com (859)</li>
 <li>gmail.com (797)</li>
-<li>bsky.app (694)</li>
+<li>bsky.app (701)</li>
 <li>login.microsoftonline.com (693)</li>
 <li>chat.openai.com (684)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (669)</li>
-<li>app.qbo.intuit.com (577)</li>
-<li>web.whatsapp.com (519)</li>
+<li>app.qbo.intuit.com (578)</li>
+<li>web.whatsapp.com (522)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (481)</li>
+<li>drive.google.com (482)</li>
 <li>rhul-my.sharepoint.com (461)</li>
 <li>teams.microsoft.com (457)</li>
 <li>kdp.amazon.com (444)</li>
@@ -108,7 +108,58 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:45 www.facebook.com</li>
+<ul><li> 15:32 outlook.office365.com</li>
+<li> 15:31 web.whatsapp.com</li>
+<li> 15:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:30 www.linkedin.com</li>
+<li> 15:30 elitecyber-group.com</li>
+<li class='same'> 15:29 elitecyber-group.com</li>
+<li> 15:29 www.google.com</li>
+<li> 15:29 bsky.app</li>
+<li> 15:25 support.google.com</li>
+<li> 15:25 www.google.com</li>
+<li> 15:25 admin.google.com</li>
+<li class='same'> 15:24 admin.google.com</li>
+<li> 15:24 accounts.google.com</li>
+<li> 15:24 workspace.google.com</li>
+<li> 15:24 www.google.com</li>
+<li> 15:24 admin.google.com</li>
+<li> 15:24 accounts.google.com</li>
+<li> 15:24 support.google.com</li>
+<li> 15:24 www.google.com</li>
+<li> 15:23 myaccount.google.com</li>
+<li> 15:23 www.google.com</li>
+<li> 15:22 one.google.com</li>
+<li> 15:22 drive.google.com</li>
+<li> 15:22 www.google.com</li>
+<li> 15:19 bsky.app</li>
+<li class='same'> 15:18 bsky.app</li>
+<li> 15:15 www.holycarrot.co.uk</li>
+<li> 15:14 web.whatsapp.com</li>
+<li> 15:14 www.facebook.com</li>
+<li> 15:14 bsky.app</li>
+<li class='same'> 15:13 bsky.app</li>
+<li> 14:58 projects.cs.rhul.ac.uk</li>
+<li> 14:58 outlook.office.com</li>
+<li> 14:58 outlook.office365.com</li>
+<li> 14:57 projects.cs.rhul.ac.uk</li>
+<li> 14:57 dashboards.rhul.ac.uk</li>
+<li> 14:57 qbo.intuit.com</li>
+<li> 14:57 app.qbo.intuit.com</li>
+<li> 14:57 accounts.intuit.com</li>
+<li> 14:52 web.whatsapp.com</li>
+<li> 14:51 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:51 bsky.app</li>
+<li> 14:50 www.amazon.co.uk</li>
+<li> 14:50 www.google.com</li>
+<li> 14:49 docs.google.com</li>
+<li> 14:49 bsky.app</li>
+<li> 14:49 www.giantitp.com</li>
+<li> 14:48 outlook.office365.com</li>
+<li> 14:48 www.linkedin.com</li>
+<li> 14:47 www.facebook.com</li>
+<li class='same'> 14:46 www.facebook.com</li>
+<li class='same'> 14:45 www.facebook.com</li>
 <li class='same'> 14:44 www.facebook.com</li>
 <li class='same'> 14:43 www.facebook.com</li>
 <li class='same'> 14:42 www.facebook.com</li>
