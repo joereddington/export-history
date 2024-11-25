@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1478)</li>
 <li>moodle.royalholloway.ac.uk (1475)</li>
 <li>www.amazon.co.uk (1271)</li>
-<li>github.com (1051)</li>
+<li>github.com (1053)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (857)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (683)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (669)</li>
-<li>bsky.app (643)</li>
+<li>bsky.app (644)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>web.whatsapp.com (519)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (459)</li>
 <li>teams.microsoft.com (455)</li>
 <li>kdp.amazon.com (444)</li>
-<li>chatgpt.com (415)</li>
+<li>chatgpt.com (416)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (357)</li>
 
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:17 chatgpt.com</li>
+<ul><li> 07:25 github.com</li>
+<li class='same'> 07:24 github.com</li>
+<li> 07:23 bsky.app</li>
+<li> 07:18 chatgpt.com</li>
+<li class='same'> 07:17 chatgpt.com</li>
 <li> 07:17 chat.openai.com</li>
 <li> 07:17 github.com</li>
 <li class='same'> 07:16 github.com</li>
