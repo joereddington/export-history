@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9227)</li>
+<ol><li>www.google.com (9230)</li>
 <li>mail.google.com (6324)</li>
-<li>outlook.office.com (3686)</li>
-<li>www.facebook.com (3006)</li>
+<li>outlook.office.com (3687)</li>
+<li>www.facebook.com (3011)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1657)</li>
+<li>outlook.office365.com (1664)</li>
 <li>calendar.google.com (1543)</li>
+<li>moodle.royalholloway.ac.uk (1478)</li>
 <li>www.reddit.com (1478)</li>
-<li>moodle.royalholloway.ac.uk (1475)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1053)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (857)</li>
 <li>gmail.com (796)</li>
-<li>login.microsoftonline.com (692)</li>
+<li>login.microsoftonline.com (693)</li>
 <li>chat.openai.com (683)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (669)</li>
-<li>bsky.app (648)</li>
+<li>bsky.app (662)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>web.whatsapp.com (519)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:34 bsky.app</li>
+<ul><li> 10:38 www.google.com</li>
+<li> 10:34 moodle.royalholloway.ac.uk</li>
+<li> 10:34 login.microsoftonline.com</li>
+<li> 10:34 moodle.royalholloway.ac.uk</li>
+<li> 10:32 intranet.royalholloway.ac.uk</li>
+<li class='same'> 10:31 intranet.royalholloway.ac.uk</li>
+<li> 10:30 bsky.app</li>
+<li class='same'> 10:29 bsky.app</li>
+<li class='same'> 10:28 bsky.app</li>
+<li class='same'> 10:25 bsky.app</li>
+<li> 10:25 www.google.com</li>
+<li> 10:24 bsky.app</li>
+<li> 10:22 intranet.royalholloway.ac.uk</li>
+<li> 10:22 www.facebook.com</li>
+<li class='same'> 10:16 www.facebook.com</li>
+<li class='same'> 10:15 www.facebook.com</li>
+<li> 10:15 outlook.office365.com</li>
+<li> 10:14 www.facebook.com</li>
+<li class='same'> 10:13 www.facebook.com</li>
+<li> 10:13 intranet.royalholloway.ac.uk</li>
+<li> 10:13 outlook.office.com</li>
+<li> 10:13 outlook.office365.com</li>
+<li class='same'> 10:12 outlook.office365.com</li>
+<li> 10:12 blueskydirectory.com</li>
+<li> 10:11 outlook.office365.com</li>
+<li> 10:11 bsky.app</li>
+<li class='same'> 10:09 bsky.app</li>
+<li> 10:09 www.google.com</li>
+<li> 10:08 bsky.app</li>
+<li class='same'> 10:07 bsky.app</li>
+<li> 09:45 outlook.office365.com</li>
+<li class='same'> 09:44 outlook.office365.com</li>
+<li class='same'> 09:43 outlook.office365.com</li>
+<li> 09:40 bsky.app</li>
+<li class='same'> 09:39 bsky.app</li>
+<li class='same'> 09:38 bsky.app</li>
+<li class='same'> 09:35 bsky.app</li>
+<li class='same'> 09:34 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:34 bsky.app</li>
 <li class='same'> 07:33 bsky.app</li>
 <li class='same'> 07:32 bsky.app</li>
 <li> 07:32 feedly.com</li>
@@ -421,6 +463,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:52 moodle.royalholloway.ac.uk</li>
 <li> 16:52 login.microsoftonline.com</li>
 <li> 16:52 web.whatsapp.com</li>
+<li> 16:50 moodle.royalholloway.ac.uk</li>
 <li> 16:50 outlook.office365.com</li>
 <li> 16:49 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 16:49 eis-prod.ec.royalholloway.ac.uk</li>
