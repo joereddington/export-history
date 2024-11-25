@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9230)</li>
-<li>mail.google.com (6324)</li>
+<ol><li>www.google.com (9248)</li>
+<li>mail.google.com (6326)</li>
 <li>outlook.office.com (3687)</li>
 <li>www.facebook.com (3011)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1664)</li>
+<li>outlook.office365.com (1665)</li>
 <li>calendar.google.com (1543)</li>
 <li>moodle.royalholloway.ac.uk (1478)</li>
 <li>www.reddit.com (1478)</li>
-<li>www.amazon.co.uk (1271)</li>
+<li>www.amazon.co.uk (1272)</li>
 <li>github.com (1053)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (857)</li>
-<li>gmail.com (796)</li>
+<li>gmail.com (797)</li>
 <li>login.microsoftonline.com (693)</li>
 <li>chat.openai.com (683)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (669)</li>
-<li>bsky.app (662)</li>
+<li>bsky.app (664)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>web.whatsapp.com (519)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -108,7 +108,55 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:38 www.google.com</li>
+<ul><li> 11:42 www.instagram.com</li>
+<li> 11:37 relationshipsproject.org</li>
+<li> 11:37 www.google.com</li>
+<li class='same'> 11:32 www.google.com</li>
+<li> 11:30 www.legislation.gov.uk</li>
+<li> 11:30 www.google.com</li>
+<li> 11:29 www.gov.uk</li>
+<li> 11:29 www.google.com</li>
+<li> 11:28 www.gov.uk</li>
+<li> 11:27 www.google.com</li>
+<li> 11:26 www.timpson-group.co.uk</li>
+<li> 11:26 www.google.com</li>
+<li> 11:24 mail.google.com</li>
+<li class='same'> 11:23 mail.google.com</li>
+<li> 11:23 gmail.com</li>
+<li> 11:23 www.google.com</li>
+<li> 11:20 www.gov.uk</li>
+<li> 11:20 www.google.com</li>
+<li> 11:20 unlock.org.uk</li>
+<li> 11:18 www.gov.uk</li>
+<li> 11:18 www.google.com</li>
+<li> 11:08 bsky.app</li>
+<li> 11:08 outlook.office365.com</li>
+<li> 11:01 www.editoraroncarati.com.br</li>
+<li> 11:01 www.google.com</li>
+<li> 11:01 www.ibm.com</li>
+<li> 11:00 www.google.com</li>
+<li> 11:00 i.crn.com</li>
+<li> 11:00 www.breachsense.com</li>
+<li> 11:00 www.google.com</li>
+<li> 10:59 www2.deloitte.com</li>
+<li> 10:58 bsky.app</li>
+<li> 10:58 www.isaca.org</li>
+<li> 10:57 securityintelligence.com</li>
+<li> 10:57 www.idwatchdog.com</li>
+<li> 10:56 www.isaca.org</li>
+<li> 10:56 www.google.com</li>
+<li> 10:56 www.gov.uk</li>
+<li> 10:55 www.google.com</li>
+<li> 10:55 go.crowdstrike.com</li>
+<li class='same'> 10:54 go.crowdstrike.com</li>
+<li> 10:54 www.google.com</li>
+<li class='same'> 10:53 www.google.com</li>
+<li> 10:53 books.google.co.uk</li>
+<li> 10:53 www.google.com</li>
+<li> 10:50 www.amazon.co.uk</li>
+<li> 10:45 legal.thomsonreuters.com</li>
+<li> 10:45 www.google.com</li>
+<li class='same'> 10:38 www.google.com</li>
 <li> 10:34 moodle.royalholloway.ac.uk</li>
 <li> 10:34 login.microsoftonline.com</li>
 <li> 10:34 moodle.royalholloway.ac.uk</li>
