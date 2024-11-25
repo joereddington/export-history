@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9248)</li>
+<ol><li>www.google.com (9249)</li>
 <li>mail.google.com (6326)</li>
 <li>outlook.office.com (3687)</li>
 <li>www.facebook.com (3011)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1665)</li>
-<li>calendar.google.com (1543)</li>
+<li>outlook.office365.com (1669)</li>
+<li>calendar.google.com (1544)</li>
+<li>www.reddit.com (1481)</li>
 <li>moodle.royalholloway.ac.uk (1478)</li>
-<li>www.reddit.com (1478)</li>
 <li>www.amazon.co.uk (1272)</li>
 <li>github.com (1053)</li>
 <li>m.facebook.com (978)</li>
@@ -87,12 +87,12 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (683)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (669)</li>
-<li>bsky.app (664)</li>
+<li>bsky.app (668)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>web.whatsapp.com (519)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
-<li>rhul-my.sharepoint.com (459)</li>
+<li>rhul-my.sharepoint.com (461)</li>
 <li>teams.microsoft.com (455)</li>
 <li>kdp.amazon.com (444)</li>
 <li>chatgpt.com (416)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 25/11/24</H3>
+
+<br>
+
+<ul><li> 12:36 bsky.app</li>
+<li> 12:36 outlook.office365.com</li>
+<li> 12:35 www.reddit.com</li>
+<li class='same'> 12:34 www.reddit.com</li>
+<li class='same'> 12:33 www.reddit.com</li>
+<li> 12:33 bsky.app</li>
+<li> 12:31 www.google.com</li>
+<li> 12:30 bsky.app</li>
+<li class='same'> 12:29 bsky.app</li>
+<li> 12:29 rhul-my.sharepoint.com</li>
+<li> 12:29 outlook.office365.com</li>
+<li> 12:28 calendar.google.com</li>
+<li> 12:28 outlook.office365.com</li>
+<li class='same'> 12:27 outlook.office365.com</li>
+<li> 12:27 rhul-my.sharepoint.com</li>
+</ul>
 
 <br>
 
