@@ -68,47 +68,324 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9209)</li>
-<li>mail.google.com (6317)</li>
-<li>outlook.office.com (3683)</li>
-<li>www.facebook.com (3005)</li>
+<ol><li>www.google.com (9223)</li>
+<li>mail.google.com (6324)</li>
+<li>outlook.office.com (3686)</li>
+<li>www.facebook.com (3006)</li>
 <li>docs.google.com (1985)</li>
-<li>outlook.office365.com (1643)</li>
-<li>calendar.google.com (1541)</li>
-<li>www.reddit.com (1471)</li>
-<li>moodle.royalholloway.ac.uk (1470)</li>
+<li>outlook.office365.com (1656)</li>
+<li>calendar.google.com (1543)</li>
+<li>www.reddit.com (1478)</li>
+<li>moodle.royalholloway.ac.uk (1475)</li>
 <li>www.amazon.co.uk (1271)</li>
-<li>github.com (1041)</li>
+<li>github.com (1049)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (888)</li>
-<li>www.linkedin.com (853)</li>
-<li>gmail.com (793)</li>
-<li>login.microsoftonline.com (683)</li>
-<li>chat.openai.com (676)</li>
-<li>whitewaterwriters.com (670)</li>
+<li>www.linkedin.com (857)</li>
+<li>gmail.com (796)</li>
+<li>login.microsoftonline.com (691)</li>
+<li>chat.openai.com (682)</li>
+<li>whitewaterwriters.com (681)</li>
 <li>tvtropes.org (669)</li>
-<li>bsky.app (597)</li>
+<li>bsky.app (632)</li>
 <li>app.qbo.intuit.com (577)</li>
-<li>web.whatsapp.com (518)</li>
+<li>web.whatsapp.com (519)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (481)</li>
+<li>rhul-my.sharepoint.com (456)</li>
 <li>teams.microsoft.com (455)</li>
-<li>rhul-my.sharepoint.com (449)</li>
 <li>kdp.amazon.com (444)</li>
+<li>chatgpt.com (414)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>chatgpt.com (403)</li>
-<li>rhul.sharepoint.com (353)</li>
+<li>rhul.sharepoint.com (357)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Monday, 25/11/24</H3>
+
+<br>
+
+<ul><li> 06:33 bsky.app</li>
+<li class='same'> 06:32 bsky.app</li>
+<li> 06:30 outlook.office.com</li>
+<li> 06:30 rhul-my.sharepoint.com</li>
+<li class='same'> 06:29 rhul-my.sharepoint.com</li>
+<li> 06:26 outlook.office.com</li>
+<li class='same'> 06:25 outlook.office.com</li>
+<li> 06:25 login.microsoftonline.com</li>
+<li> 06:25 outlook.office365.com</li>
+<li> 06:25 mail.rhul.ac.uk</li>
+<li> 06:25 rhul-my.sharepoint.com</li>
+<li> 06:25 login.microsoftonline.com</li>
+<li> 06:25 rhul-my.sharepoint.com</li>
+<li> 06:19 chatgpt.com</li>
+<li class='same'> 06:18 chatgpt.com</li>
+<li> 06:18 chat.openai.com</li>
+<li> 06:15 dashboards.rhul.ac.uk</li>
+<li> 06:14 blueskydirectory.com</li>
+<li> 06:13 bsky.app</li>
+<li class='same'> 06:12 bsky.app</li>
+<li> 06:12 blueskydirectory.com</li>
+<li class='same'> 06:11 blueskydirectory.com</li>
+<li> 06:10 clearsky.app</li>
+<li> 06:09 bsky.app</li>
+<li class='same'> 06:08 bsky.app</li>
+<li> 06:08 clearsky.app</li>
+<li class='same'> 06:07 clearsky.app</li>
+<li class='same'> 06:06 clearsky.app</li>
+<li> 06:06 api.turnitinuk.com</li>
+<li> 06:06 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:05 moodle.royalholloway.ac.uk</li>
+<li> 06:05 login.microsoftonline.com</li>
+<li> 06:05 moodle.royalholloway.ac.uk</li>
+</ul>
+
+<H3>Sunday, 24/11/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 12:41 www.google.com</li>
+<li> 12:40 www.reddit.com</li>
+<li class='same'> 12:39 www.reddit.com</li>
+<li> 12:38 bsky.app</li>
+<li> 12:37 www.reddit.com</li>
+<li> 12:37 bsky.app</li>
+<li> 12:36 uk.indeed.com</li>
+<li class='same'> 12:35 uk.indeed.com</li>
+<li class='same'> 12:34 uk.indeed.com</li>
+<li class='same'> 12:33 uk.indeed.com</li>
+<li> 12:33 www.google.com</li>
+<li> 12:33 www.reddit.com</li>
+<li class='same'> 12:32 www.reddit.com</li>
+<li> 12:32 www.linkedin.com</li>
+<li> 12:32 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 11:11 www.google.com</li>
+<li> 11:11 clearsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 06:51 bsky.app</li>
+<li> 06:48 chatgpt.com</li>
+<li> 06:48 chat.openai.com</li>
+<li> 06:48 www.google.com</li>
+<li> 06:48 clearsky.app</li>
+<li> 06:45 bsky.app</li>
+<li class='same'> 06:43 bsky.app</li>
+<li class='same'> 06:42 bsky.app</li>
+<li class='same'> 06:41 bsky.app</li>
+<li> 06:40 blueskydirectory.com</li>
+<li> 06:26 clearsky.app</li>
+</ul>
+
+<H3>Saturday, 23/11/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:54 www.google.com</li>
+<li class='same'> 21:44 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:38 www.google.com</li>
+<li> 18:38 bsky.social</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:04 bsky.social</li>
+<li> 16:04 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:33 graziadaily.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:45 graziadaily.co.uk</li>
+<li> 13:44 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:19 www.google.com</li>
+</ul>
+
 <H3>Friday, 22/11/24</H3>
 
 <br>
 
-<ul><li> 16:31 chatgpt.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 23:23 bsky.app</li>
+<li> 23:23 clearsky.app</li>
+<li> 23:22 bsky.app</li>
+<li class='same'> 23:20 bsky.app</li>
+<li class='same'> 23:19 bsky.app</li>
+<li class='same'> 23:18 bsky.app</li>
+<li class='same'> 23:17 bsky.app</li>
+<li> 23:17 clearsky.app</li>
+<li> 23:17 bsky.app</li>
+<li class='same'> 23:16 bsky.app</li>
+<li> 23:16 blueskydirectory.com</li>
+<li> 23:15 bsky.app</li>
+<li class='same'> 23:14 bsky.app</li>
+<li> 23:14 blueskydirectory.com</li>
+<li> 23:14 bsky.app</li>
+<li> 23:14 blueskydirectory.com</li>
+<li class='same'> 23:13 blueskydirectory.com</li>
+<li class='same'> 23:12 blueskydirectory.com</li>
+<li> 23:10 bsky.app</li>
+<li class='same'> 23:09 bsky.app</li>
+<li class='same'> 23:07 bsky.app</li>
+<li class='same'> 23:06 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 19:08 chatgpt.com</li>
+<li> 19:08 chat.openai.com</li>
+<li> 19:07 www.researchgate.net</li>
+<li> 19:07 www.google.com</li>
+<li> 19:07 <a href="https://en.wikipedia.org/wiki/Human_security">Human security - Wikipedia</a></li>
+<li> 19:07 www.google.com</li>
+<li> 18:57 rhul.sharepoint.com</li>
+<li class='same'> 18:56 rhul.sharepoint.com</li>
+<li class='same'> 18:55 rhul.sharepoint.com</li>
+<li class='same'> 18:53 rhul.sharepoint.com</li>
+<li> 18:52 rhul-my.sharepoint.com</li>
+<li> 18:51 www.google.com</li>
+<li> 18:51 rhul-my.sharepoint.com</li>
+<li> 18:51 github.com</li>
+<li class='same'> 18:50 github.com</li>
+<li> 18:50 www.google.com</li>
+<li> 18:50 mail.google.com</li>
+<li> 18:49 whitewaterwriters.com</li>
+<li> 18:49 equalitytime.github.io</li>
+<li> 18:49 bsky.app</li>
+<li class='same'> 18:48 bsky.app</li>
+<li> 18:47 mail.google.com</li>
+<li> 18:47 gmail.com</li>
+<li> 18:47 mail.google.com</li>
+<li> 18:47 gmail.com</li>
+<li> 18:45 whitewaterwriters.com</li>
+<li> 18:45 equalitytime.github.io</li>
+<li> 18:45 whitewaterwriters.com</li>
+<li> 18:45 equalitytime.github.io</li>
+<li> 18:45 github.com</li>
+<li> 18:44 whitewaterwriters.com</li>
+<li> 18:44 equalitytime.github.io</li>
+<li> 18:44 whitewaterwriters.com</li>
+<li> 18:44 equalitytime.github.io</li>
+<li> 18:44 github.com</li>
+<li> 18:44 whitewaterwriters.com</li>
+<li> 18:44 equalitytime.github.io</li>
+<li> 18:43 whitewaterwriters.com</li>
+<li> 18:43 equalitytime.github.io</li>
+<li> 18:43 whitewaterwriters.com</li>
+<li> 18:43 equalitytime.github.io</li>
+<li> 18:43 whitewaterwriters.com</li>
+<li> 18:43 equalitytime.github.io</li>
+<li> 18:43 github.com</li>
+<li> 18:43 whitewaterwriters.com</li>
+<li> 18:43 equalitytime.github.io</li>
+<li> 18:42 whitewaterwriters.com</li>
+<li> 18:42 github.com</li>
+<li class='same'> 18:41 github.com</li>
+<li> 18:38 equalitytime.github.io</li>
+<li> 18:38 theopenvoicefactory.org</li>
+<li> 18:38 github.com</li>
+<li> 18:33 www.facebook.com</li>
+<li> 18:31 feedly.com</li>
+<li> 18:31 www.linkedin.com</li>
+<li> 18:30 www.reddit.com</li>
+<li class='same'> 18:28 www.reddit.com</li>
+<li> 18:28 bsky.app</li>
+<li> 18:27 www.linkedin.com</li>
+<li class='same'> 18:22 www.linkedin.com</li>
+<li> 18:22 outlook.office365.com</li>
+<li> 18:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 18:20 bsky.app</li>
+<li class='same'> 18:18 bsky.app</li>
+<li> 17:49 outlook.office365.com</li>
+<li class='same'> 17:48 outlook.office365.com</li>
+<li class='same'> 17:47 outlook.office365.com</li>
+<li class='same'> 17:46 outlook.office365.com</li>
+<li> 17:45 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:30 rhul-my.sharepoint.com</li>
+<li> 17:30 forms.office.com</li>
+<li> 17:29 login.microsoftonline.com</li>
+<li> 17:29 forms.office.com</li>
+<li> 17:28 login.microsoftonline.com</li>
+<li> 17:28 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:28 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:28 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:28 experience.elluciancloud.ie</li>
+<li> 17:28 login.microsoftonline.com</li>
+<li> 17:28 experience.elluciancloud.ie</li>
+<li> 17:27 chatgpt.com</li>
+<li class='same'> 17:26 chatgpt.com</li>
+<li> 17:26 chat.openai.com</li>
+<li> 17:26 mail.google.com</li>
+<li> 17:26 calendar.google.com</li>
+<li class='same'> 17:25 calendar.google.com</li>
+<li> 17:25 mail.google.com</li>
+<li class='same'> 17:24 mail.google.com</li>
+<li class='same'> 17:23 mail.google.com</li>
+<li> 17:23 gmail.com</li>
+<li> 17:23 outlook.office365.com</li>
+<li class='same'> 17:22 outlook.office365.com</li>
+<li class='same'> 17:21 outlook.office365.com</li>
+<li> 17:20 bsky.app</li>
+<li> 17:20 outlook.office365.com</li>
+<li class='same'> 17:12 outlook.office365.com</li>
+<li> 17:07 chatgpt.com</li>
+<li class='same'> 17:06 chatgpt.com</li>
+<li class='same'> 17:03 chatgpt.com</li>
+<li> 17:03 chat.openai.com</li>
+<li> 17:02 clearsky.app</li>
+<li class='same'> 17:01 clearsky.app</li>
+<li> 17:00 <a href="https://www.youtube.com/watch?v=_DBP9OWIyB0">(90) Alanis Morissette - Jagged Little Pill (Full Album) - YouTube</a></li>
+<li> 17:00 <a href="https://www.youtube.com/results?search_query=alanis+morissette+jagged+little+pill+">(90) alanis morissette jagged little pill - YouTube</a></li>
+<li> 17:00 <a href="https://www.youtube.com/">(90) YouTube</a></li>
+<li> 17:00 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
+<li> 17:00 <a href="https://www.youtube.com/">(90) YouTube</a></li>
+<li> 16:59 www.xquartz.org</li>
+<li> 16:59 www.google.com</li>
+<li> 16:56 chatgpt.com</li>
+<li> 16:56 chat.openai.com</li>
+<li> 16:55 outlook.office365.com</li>
+<li> 16:53 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:52 moodle.royalholloway.ac.uk</li>
+<li> 16:52 login.microsoftonline.com</li>
+<li> 16:52 web.whatsapp.com</li>
+<li> 16:50 outlook.office365.com</li>
+<li> 16:49 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:49 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:48 login.microsoftonline.com</li>
+<li> 16:48 chatgpt.com</li>
+<li> 16:43 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:31 chatgpt.com</li>
 <li> 16:31 chat.openai.com</li>
 <li> 16:28 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 16:28 outlook.office365.com</li>
@@ -183,6 +460,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 13:28 www.nytimes.com</li>
+<li> 13:28 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 12:45 mail.google.com</li>
 <li class='same'> 12:44 mail.google.com</li>
 <li> 12:44 gmail.com</li>
@@ -241,7 +524,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:10 clearsky.app</li>
+<ul><li> 20:10 www.nytimes.com</li>
+<li> 20:10 clearsky.app</li>
 </ul>
 
 <br>
@@ -20099,9 +20383,6 @@ With number of accesses/minutes in parentheses
 <li> 07:52 www.amazon.co.uk</li>
 <li class='same'> 07:51 www.amazon.co.uk</li>
 <li> 07:50 forum.artofmemory.com</li>
-<li> 07:49 www.google.com</li>
-<li> 07:48 <a href="https://www.youtube.com/watch?v=-6HOdHEeosc">(95) Lecture #1: Introduction — Brandon Sanderson on Writing Science Fiction and Fantasy - YouTube</a></li>
-<li> 07:48 www.google.com</li>
 <li> 07:48 <a href="https://www.youtube.com/watch?v=-6HOdHEeosc">(95) Lecture #1: Introduction — Brandon Sanderson on Writing Science Fiction and Fantasy - YouTube</a></li>
 <li> 07:48 <a href="https://www.youtube.com/@BrandSanderson/playlists">(95) Brandon Sanderson - YouTube</a></li>
 <li> 07:47 <a href="https://www.youtube.com/@BrandSanderson/podcasts">(95) Brandon Sanderson - YouTube</a></li>
