@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9225)</li>
+<ol><li>www.google.com (9227)</li>
 <li>mail.google.com (6324)</li>
 <li>outlook.office.com (3686)</li>
 <li>www.facebook.com (3006)</li>
@@ -78,16 +78,16 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1478)</li>
 <li>moodle.royalholloway.ac.uk (1475)</li>
 <li>www.amazon.co.uk (1271)</li>
-<li>github.com (1049)</li>
+<li>github.com (1051)</li>
 <li>m.facebook.com (978)</li>
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (857)</li>
 <li>gmail.com (796)</li>
 <li>login.microsoftonline.com (692)</li>
-<li>chat.openai.com (682)</li>
-<li>whitewaterwriters.com (681)</li>
+<li>chat.openai.com (683)</li>
+<li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (669)</li>
-<li>bsky.app (642)</li>
+<li>bsky.app (643)</li>
 <li>app.qbo.intuit.com (577)</li>
 <li>web.whatsapp.com (519)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (459)</li>
 <li>teams.microsoft.com (455)</li>
 <li>kdp.amazon.com (444)</li>
-<li>chatgpt.com (414)</li>
+<li>chatgpt.com (415)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (357)</li>
 
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:09 bsky.app</li>
+<ul><li> 07:17 chatgpt.com</li>
+<li> 07:17 chat.openai.com</li>
+<li> 07:17 github.com</li>
+<li class='same'> 07:16 github.com</li>
+<li> 07:16 whitewaterwriters.com</li>
+<li> 07:16 www.google.com</li>
+<li> 07:15 equalitytime.github.io</li>
+<li> 07:15 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:14 bsky.app</li>
+<li> 07:13 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
+<li> 07:13 www.google.com</li>
+<li> 07:09 bsky.app</li>
 <li> 07:09 0.0.0.0:8000</li>
 <li> 06:54 bsky.app</li>
 <li class='same'> 06:53 bsky.app</li>
