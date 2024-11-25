@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9270)</li>
 <li>mail.google.com (6332)</li>
-<li>outlook.office.com (3696)</li>
+<li>outlook.office.com (3697)</li>
 <li>www.facebook.com (3024)</li>
 <li>docs.google.com (1987)</li>
 <li>outlook.office365.com (1684)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (799)</li>
 <li>bsky.app (710)</li>
 <li>login.microsoftonline.com (693)</li>
-<li>chat.openai.com (685)</li>
+<li>chat.openai.com (686)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (669)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (462)</li>
 <li>teams.microsoft.com (457)</li>
 <li>kdp.amazon.com (444)</li>
-<li>chatgpt.com (419)</li>
+<li>chatgpt.com (420)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (357)</li>
 
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:01 outlook.office.com</li>
+<ul><li> 17:13 chatgpt.com</li>
+<li> 17:13 chat.openai.com</li>
+<li> 17:02 Local file</li>
+<li> 17:02 outlook.office.com</li>
+<li class='same'> 17:01 outlook.office.com</li>
 <li class='same'> 17:00 outlook.office.com</li>
 <li> 16:54 outlook.office365.com</li>
 <li> 16:54 outlook.office.com</li>
