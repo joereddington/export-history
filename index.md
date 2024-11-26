@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9311)</li>
-<li>mail.google.com (6335)</li>
+<ol><li>www.google.com (9315)</li>
+<li>mail.google.com (6338)</li>
 <li>outlook.office.com (3700)</li>
 <li>www.facebook.com (3024)</li>
 <li>docs.google.com (1988)</li>
@@ -81,15 +81,15 @@ With number of accesses/minutes in parentheses
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (888)</li>
-<li>www.linkedin.com (861)</li>
-<li>gmail.com (800)</li>
-<li>bsky.app (720)</li>
+<li>www.linkedin.com (862)</li>
+<li>gmail.com (801)</li>
+<li>bsky.app (724)</li>
 <li>login.microsoftonline.com (696)</li>
 <li>chat.openai.com (688)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (671)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (525)</li>
+<li>web.whatsapp.com (526)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (484)</li>
 <li>rhul-my.sharepoint.com (469)</li>
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:59 chatgpt.com</li>
+<ul><li> 16:56 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&section=3&oldid=1259699817&action=edit">Editing T-Mobile data breach - Wikipedia</a></li>
+<li> 16:55 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=3">Editing T-Mobile data breach (section) - Wikipedia</a></li>
+<li> 16:55 www.google.com</li>
+<li> 16:55 medium.com</li>
+<li> 16:54 www.google.com</li>
+<li> 16:54 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
+<li> 16:53 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 16:53 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 16:53 securityboulevard.com</li>
+<li> 16:49 mail.google.com</li>
+<li> 16:49 findarace.com</li>
+<li> 16:49 mail.google.com</li>
+<li class='same'> 16:48 mail.google.com</li>
+<li> 16:48 gmail.com</li>
+<li> 16:48 www.linkedin.com</li>
+<li> 16:47 bsky.app</li>
+<li> 16:40 web.whatsapp.com</li>
+<li> 16:40 bsky.app</li>
+<li class='same'> 16:32 bsky.app</li>
+<li class='same'> 16:31 bsky.app</li>
+<li> 16:19 www.sciencedirect.com</li>
+<li> 16:19 www.google.com</li>
+<li> 16:06 www.nytimes.com</li>
+<li> 16:05 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
+<li> 16:05 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 16:05 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 16:05 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:05 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:05 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:03 docs.justia.com</li>
+<li> 16:03 www.govinfo.gov</li>
+<li> 16:03 www.google.com</li>
+<li> 16:02 www.scribd.com</li>
+<li> 16:02 www.foxbusiness.com</li>
+<li> 16:02 www.fox13seattle.com</li>
+<li> 16:02 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#August_2021">T-Mobile data breach - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=4">Editing T-Mobile data breach (section) - Wikipedia</a></li>
+<li> 16:00 www.reuters.com</li>
+<li> 15:59 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
+<li> 15:59 chatgpt.com</li>
 <li> 15:58 www.reuters.com</li>
 <li> 15:58 chatgpt.com</li>
 <li> 15:58 chat.openai.com</li>
@@ -168,19 +207,19 @@ With number of accesses/minutes in parentheses
 <li> 14:33 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=history">T-Mobile data breach: Revision history - Wikipedia</a></li>
 <li> 14:32 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#September_2021">T-Mobile data breach - Wikipedia</a></li>
 <li> 14:32 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=5">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:32 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=4">T-Mobile data breach - Wikipedia</a></li>
+<li> 14:32 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=4">Editing T-Mobile data breach (section) - Wikipedia</a></li>
 <li> 14:32 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#August_2021">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:31 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=4">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:31 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=3">T-Mobile data breach - Wikipedia</a></li>
+<li> 14:31 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=4">Editing T-Mobile data breach (section) - Wikipedia</a></li>
+<li> 14:31 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=3">Editing T-Mobile data breach (section) - Wikipedia</a></li>
 <li> 14:31 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#July_2021">T-Mobile data breach - Wikipedia</a></li>
 <li> 14:28 <a href="https://en.wikipedia.org/wiki/Brute-force_attack">Brute-force attack - Wikipedia</a></li>
 <li> 14:28 www.google.com</li>
-<li> 14:28 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=4">T-Mobile data breach - Wikipedia</a></li>
-<li> 14:28 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=3">T-Mobile data breach - Wikipedia</a></li>
+<li> 14:28 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=4">Editing T-Mobile data breach (section) - Wikipedia</a></li>
+<li> 14:28 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=3">Editing T-Mobile data breach (section) - Wikipedia</a></li>
 <li> 14:26 ieeexplore.ieee.org</li>
 <li> 14:20 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#August_2021">T-Mobile data breach - Wikipedia</a></li>
 <li> 14:19 www.wsj.com</li>
-<li> 14:19 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=4">T-Mobile data breach - Wikipedia</a></li>
+<li> 14:19 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=4">Editing T-Mobile data breach (section) - Wikipedia</a></li>
 <li> 14:18 krebsonsecurity.com</li>
 <li> 14:18 www.wsj.com</li>
 <li> 14:18 www.google.com</li>
