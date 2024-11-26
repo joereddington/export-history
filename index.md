@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9281)</li>
+<ol><li>www.google.com (9286)</li>
 <li>mail.google.com (6335)</li>
 <li>outlook.office.com (3700)</li>
 <li>www.facebook.com (3024)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:27 <a href="https://en.wikipedia.org/wiki/Largest_airlines_in_the_world">Largest airlines in the world - Wikipedia</a></li>
+<ul><li> 11:39 <a href="https://en.wikipedia.org/wiki/T-Mobile_US?wprov=srpw1_0"></a></li>
+<li> 11:39 <a href="https://en.wikipedia.org/wiki/Special:Search?search=tmobile+data+breach&ns0=1&ns118=1&fulltext=Search&searchToken=5b4xbsyuuctw70w0ag3kfsbp">tmobile data breach - Search results - Wikipedia</a></li>
+<li> 11:39 <a href="https://en.wikipedia.org/wiki/Special:Search?search=tmobile+data+breach&ns0=1&ns118=1&fulltext=Search">tmobile data breach - Search results - Wikipedia</a></li>
+<li> 11:39 <a href="https://en.wikipedia.org/wiki/T-Mobile_US">T-Mobile US - Wikipedia</a></li>
+<li> 11:39 <a href="https://en.wikipedia.org/wiki/T-Mobile_US?action=edit&section=72&veswitched=1">Editing T-Mobile US (section) - Wikipedia</a></li>
+<li> 11:39 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_US&action=edit&section=72">Editing T-Mobile US - Wikipedia</a></li>
+<li> 11:38 <a href="https://en.wikipedia.org/wiki/T-Mobile_US">T-Mobile US - Wikipedia</a></li>
+<li> 11:38 <a href="https://en.wikipedia.org/wiki/T-Mobile">T-Mobile - Wikipedia</a></li>
+<li> 11:38 www.google.com</li>
+<li> 11:38 <a href="https://en.wikipedia.org/wiki/Help:Your_first_article">Help:Your first article - Wikipedia</a></li>
+<li> 11:38 www.google.com</li>
+<li> 11:38 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 11:38 www.google.com</li>
+<li> 11:36 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 11:35 www.google.com</li>
+<li class='same'> 11:33 www.google.com</li>
+<li> 11:27 <a href="https://en.wikipedia.org/wiki/Largest_airlines_in_the_world">Largest airlines in the world - Wikipedia</a></li>
 <li> 11:27 www.google.com</li>
 </ul>
 
