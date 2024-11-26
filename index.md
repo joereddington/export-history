@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9280)</li>
 <li>mail.google.com (6335)</li>
-<li>outlook.office.com (3698)</li>
+<li>outlook.office.com (3700)</li>
 <li>www.facebook.com (3024)</li>
 <li>docs.google.com (1987)</li>
 <li>outlook.office365.com (1684)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:54 ico.org.uk</li>
+<ul><li> 10:08 outlook.office.com</li>
+<li class='same'> 10:07 outlook.office.com</li>
+<li> 09:54 ico.org.uk</li>
 <li> 09:54 mediacentre.britishairways.com</li>
 <li> 09:54 www.google.com</li>
 <li> 09:33 <a href="https://en.wikipedia.org/wiki/EasyJet">EasyJet - Wikipedia</a></li>
