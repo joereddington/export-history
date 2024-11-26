@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9286)</li>
+<ol><li>www.google.com (9289)</li>
 <li>mail.google.com (6335)</li>
 <li>outlook.office.com (3700)</li>
 <li>www.facebook.com (3024)</li>
@@ -105,6 +105,27 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 26/11/24</H3>
+
+<br>
+
+<ul><li> 12:57 www.wired.com</li>
+<li> 12:57 www.google.com</li>
+<li> 12:56 <a href="https://en.wikipedia.org/wiki/Modernizr">Modernizr - Wikipedia</a></li>
+<li> 12:54 <a href="https://www.bbc.co.uk/news/technology-57734946">British Airways data-breach compensation claim settled - BBC News</a></li>
+<li> 12:54 www.google.com</li>
+<li> 12:54 www.independent.co.uk</li>
+<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&oldid=1256144369&action=edit">Editing British Airways data breach - Wikipedia</a></li>
+<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit">Editing British Airways data breach - Wikipedia</a></li>
+<li> 12:53 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 12:53 www.google.com</li>
+<li> 12:52 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach?wprov=srpw1_2">British Airways data breach - Wikipedia</a></li>
+<li> 12:52 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 12:52 <a href="https://en.wikipedia.org/w/index.php?search=ba+data+breach&title=Special%3ASearch&ns0=1&searchToken=8aghzpfb540bdkbsj2mqv6gjz">ba data breach - Search results - Wikipedia</a></li>
+<li> 12:52 <a href="https://en.wikipedia.org/w/index.php?search=ba+data+breach&title=Special%3ASearch&ns0=1">ba data breach - Search results - Wikipedia</a></li>
+<li> 12:52 <a href="https://en.wikipedia.org/w/index.php?search=ba+data+breach&title=Special%3ASearch&wprov=acrw1_-1"></a></li>
+<li> 12:52 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:52 <a href="https://en.wikipedia.org/"></a></li>
+</ul>
 
 <br>
 
