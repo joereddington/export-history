@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (862)</li>
 <li>gmail.com (801)</li>
-<li>bsky.app (724)</li>
+<li>bsky.app (726)</li>
 <li>login.microsoftonline.com (696)</li>
 <li>chat.openai.com (688)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:38 docs.fcc.gov</li>
+<ul><li> 17:43 bsky.app</li>
+<li class='same'> 17:42 bsky.app</li>
+<li> 17:39 s3.amazonaws.com</li>
+<li> 17:38 docs.fcc.gov</li>
 <li class='same'> 17:36 docs.fcc.gov</li>
 <li> 17:34 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 17:34 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=7">Editing T-Mobile data breach - Wikipedia</a></li>
