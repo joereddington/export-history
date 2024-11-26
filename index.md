@@ -108,7 +108,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:33 <a href="https://en.wikipedia.org/wiki/EasyJet"></a></li>
+<ul><li> 09:33 <a href="https://en.wikipedia.org/wiki/EasyJet">EasyJet - Wikipedia</a></li>
 <li> 09:33 www.google.com</li>
 <li class='same'> 09:32 www.google.com</li>
 <li> 09:24 wikimania.wikimedia.org</li>
