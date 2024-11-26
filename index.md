@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9295)</li>
+<ol><li>www.google.com (9298)</li>
 <li>mail.google.com (6335)</li>
 <li>outlook.office.com (3700)</li>
 <li>www.facebook.com (3024)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:59 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
+<ul><li> 14:08 firewalltimes.com</li>
+<li> 14:08 www.google.com</li>
+<li> 14:07 www.complianceweek.com</li>
+<li> 14:07 www.google.com</li>
+<li> 14:07 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&oldid=1259680545&action=edit">Editing T-Mobile data breach - Wikipedia</a></li>
+<li> 14:05 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit">Editing T-Mobile data breach - Wikipedia</a></li>
+<li> 14:03 www.theverge.com</li>
+<li> 14:03 www.engadget.com</li>
+<li> 14:02 www.t-mobile.com</li>
+<li> 14:01 <a href="https://www.bbc.co.uk/news/business-58263521">40 million T-Mobile customers hit by US data breach - BBC News</a></li>
+<li> 14:01 www.wsj.com</li>
+<li> 14:01 www.google.com</li>
+<li> 13:59 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
 <li> 13:57 www.t-mobile.com</li>
 <li> 13:56 chatgpt.com</li>
 <li> 13:56 chat.openai.com</li>
