@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6335)</li>
 <li>outlook.office.com (3700)</li>
 <li>www.facebook.com (3024)</li>
-<li>docs.google.com (1987)</li>
+<li>docs.google.com (1988)</li>
 <li>outlook.office365.com (1684)</li>
 <li>calendar.google.com (1545)</li>
 <li>www.reddit.com (1487)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (523)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (483)</li>
+<li>drive.google.com (484)</li>
 <li>rhul-my.sharepoint.com (469)</li>
 <li>teams.microsoft.com (457)</li>
 <li>kdp.amazon.com (444)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:08 pogustgoodhead.com</li>
+<ul><li> 13:13 docs.google.com</li>
+<li> 13:12 drive.google.com</li>
+<li> 13:08 pogustgoodhead.com</li>
 <li> 13:08 www.google.com</li>
 <li> 13:08 pogustgoodhead.com</li>
 <li> 13:08 pgmbm.com</li>
