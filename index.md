@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9289)</li>
+<ol><li>www.google.com (9292)</li>
 <li>mail.google.com (6335)</li>
 <li>outlook.office.com (3700)</li>
 <li>www.facebook.com (3024)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:57 www.wired.com</li>
+<ul><li> 13:08 pogustgoodhead.com</li>
+<li> 13:08 www.google.com</li>
+<li> 13:08 pogustgoodhead.com</li>
+<li> 13:08 pgmbm.com</li>
+<li> 13:07 <a href="https://www.bbc.co.uk/news/technology-57734946">British Airways data-breach compensation claim settled - BBC News</a></li>
+<li> 13:07 www.google.com</li>
+<li> 13:07 www.independent.co.uk</li>
+<li> 13:05 <a href="https://www.bbc.co.uk/news/technology-54568784">British Airways fined £20m over data breach - BBC News</a></li>
+<li> 13:05 www.bbc.com</li>
+<li> 13:03 <a href="https://en.wikipedia.org/wiki/Portal:Current_events/2018_September_7">Portal:Current events/2018 September 7 - Wikipedia</a></li>
+<li> 13:03 www.google.com</li>
+<li> 13:03 www.reuters.com</li>
+<li class='same'> 13:02 www.reuters.com</li>
+<li> 13:00 ieeexplore.ieee.org</li>
+<li> 13:00 login.openathens.net</li>
+<li> 13:00 ieeexplore.ieee.org</li>
+<li> 12:57 www.wired.com</li>
 <li> 12:57 www.google.com</li>
 <li> 12:56 <a href="https://en.wikipedia.org/wiki/Modernizr">Modernizr - Wikipedia</a></li>
 <li> 12:54 <a href="https://www.bbc.co.uk/news/technology-57734946">British Airways data-breach compensation claim settled - BBC News</a></li>
