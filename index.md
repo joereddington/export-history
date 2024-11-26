@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9315)</li>
+<ol><li>www.google.com (9320)</li>
 <li>mail.google.com (6338)</li>
 <li>outlook.office.com (3700)</li>
 <li>www.facebook.com (3024)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:19 s29.q4cdn.com</li>
+<ul><li> 17:27 www.reuters.com</li>
+<li> 17:27 www.google.com</li>
+<li> 17:26 www.cnet.com</li>
+<li> 17:25 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 17:25 www.google.com</li>
+<li> 17:25 www.cnet.com</li>
+<li> 17:23 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=2">Editing T-Mobile data breach - Wikipedia</a></li>
+<li> 17:23 www.cnet.com</li>
+<li> 17:22 www.t-mobilesettlement.com</li>
+<li> 17:22 www.google.com</li>
+<li> 17:22 Local file</li>
+<li> 17:22 www.academia.edu</li>
+<li> 17:22 d1wqtxts1xzle7.cloudfront.net</li>
+<li> 17:22 www.academia.edu</li>
+<li> 17:22 www.google.com</li>
+<li class='same'> 17:21 www.google.com</li>
+<li> 17:21 www.sec.gov</li>
+<li> 17:19 s29.q4cdn.com</li>
 <li> 16:59 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
 <li> 16:59 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach?venotify=saved">T-Mobile data breach - Wikipedia</a></li>
 <li> 16:59 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit">T-Mobile data breach - Wikipedia</a></li>
