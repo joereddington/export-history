@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9276)</li>
+<ol><li>www.google.com (9277)</li>
 <li>mail.google.com (6335)</li>
 <li>outlook.office.com (3698)</li>
 <li>www.facebook.com (3024)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (861)</li>
 <li>gmail.com (800)</li>
 <li>bsky.app (713)</li>
-<li>login.microsoftonline.com (694)</li>
+<li>login.microsoftonline.com (695)</li>
 <li>chat.openai.com (686)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (671)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:19 Local file</li>
+<ul><li> 09:24 wikimania.wikimedia.org</li>
+<li> 09:23 www.jstor.org</li>
+<li class='same'> 09:22 www.jstor.org</li>
+<li> 09:22 shibbolethsp.jstor.org</li>
+<li> 09:22 login.openathens.net</li>
+<li> 09:22 login.microsoftonline.com</li>
+<li> 09:22 shibbolethsp.jstor.org</li>
+<li> 09:21 www.jstor.org</li>
+<li> 09:21 www.google.com</li>
+<li> 09:19 Local file</li>
 <li> 09:19 www.researchgate.net</li>
 </ul>
 
