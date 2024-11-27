@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9339)</li>
+<ol><li>www.google.com (9341)</li>
 <li>mail.google.com (6343)</li>
 <li>outlook.office.com (3702)</li>
 <li>www.facebook.com (3024)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 27/11/24</H3>
+
+<br>
+
+<ul><li> 11:19 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit&section=4">British Airways data breach - Wikipedia</a></li>
+<li> 11:19 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 11:19 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 11:19 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&action=history">Yahoo data breaches: Revision history - Wikipedia</a></li>
+<li> 11:18 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 11:18 www.google.com</li>
+<li> 11:18 <a href="https://en.wikipedia.org/wiki/Grid_energy_storage">Grid energy storage - Wikipedia</a></li>
+<li> 11:17 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 11:17 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_articles">Wikipedia:Good articles - Wikipedia</a></li>
+<li> 11:17 <a href="https://en.wikipedia.org/wiki/Wikipedia:GA">Wikipedia:Good articles - Wikipedia</a></li>
+<li> 11:17 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 11:17 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 11:17 <a href="https://en.wikipedia.org/w/index.php?title=User:Joereddington&action=edit">Editing User:Joereddington - Wikipedia</a></li>
+<li> 11:17 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 11:16 <a href="https://en.wikipedia.org/wiki/Twitch_(service)">Twitch (service) - Wikipedia</a></li>
+<li> 11:16 www.google.com</li>
+</ul>
 
 <br>
 
