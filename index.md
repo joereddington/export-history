@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9335)</li>
+<ol><li>www.google.com (9336)</li>
 <li>mail.google.com (6340)</li>
 <li>outlook.office.com (3702)</li>
 <li>www.facebook.com (3024)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:15 www.rapid7.com</li>
+<ul><li> 09:24 <a href="https://en.wikipedia.org/wiki/Insomniac_Games#cite_note-59">Insomniac Games - Wikipedia</a></li>
+<li> 09:23 <a href="https://en.wikipedia.org/wiki/Insomniac_Games#December_2023_leak">Insomniac Games - Wikipedia</a></li>
+<li> 09:23 <a href="https://en.wikipedia.org/wiki/Insomniac_Games">Insomniac Games - Wikipedia</a></li>
+<li> 09:23 www.google.com</li>
+<li> 09:18 www.cybersecuritydive.com</li>
+<li> 09:15 www.rapid7.com</li>
 <li> 09:13 bsky.app</li>
 <li> 09:12 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
 <li> 09:12 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
