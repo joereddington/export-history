@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9350)</li>
-<li>mail.google.com (6347)</li>
+<ol><li>www.google.com (9354)</li>
+<li>mail.google.com (6355)</li>
 <li>outlook.office.com (3702)</li>
 <li>www.facebook.com (3031)</li>
 <li>docs.google.com (1989)</li>
-<li>outlook.office365.com (1693)</li>
+<li>outlook.office365.com (1705)</li>
 <li>calendar.google.com (1547)</li>
 <li>www.reddit.com (1487)</li>
 <li>moodle.royalholloway.ac.uk (1481)</li>
@@ -81,19 +81,19 @@ With number of accesses/minutes in parentheses
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (888)</li>
-<li>www.linkedin.com (863)</li>
-<li>gmail.com (805)</li>
-<li>bsky.app (748)</li>
+<li>www.linkedin.com (865)</li>
+<li>gmail.com (806)</li>
+<li>bsky.app (752)</li>
 <li>login.microsoftonline.com (696)</li>
 <li>chat.openai.com (692)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (671)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (526)</li>
+<li>web.whatsapp.com (527)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (485)</li>
 <li>rhul-my.sharepoint.com (469)</li>
-<li>teams.microsoft.com (459)</li>
+<li>teams.microsoft.com (460)</li>
 <li>kdp.amazon.com (444)</li>
 <li>chatgpt.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,52 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:52 bsky.app</li>
+<ul><li> 14:52 outlook.office365.com</li>
+<li class='same'> 14:51 outlook.office365.com</li>
+<li> 14:51 www.google.com</li>
+<li> 14:50 outlook.office365.com</li>
+<li class='same'> 14:49 outlook.office365.com</li>
+<li class='same'> 14:48 outlook.office365.com</li>
+<li> 14:47 mail.google.com</li>
+<li> 14:47 gmail.com</li>
+<li> 14:47 mail.google.com</li>
+<li> 14:43 teams.microsoft.com</li>
+<li> 14:43 outlook.office365.com</li>
+<li> 14:43 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&diff=1259846981&oldid=1254551606">Sarah Owen: Difference between revisions - Wikipedia</a></li>
+<li> 14:42 <a href="https://en.wikipedia.org/w/index.php?title=Sarah_Owen&curid=62569479&action=history">Sarah Owen: Revision history - Wikipedia</a></li>
+<li> 14:42 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:42 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:42 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:42 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:42 web.whatsapp.com</li>
+<li> 14:33 outlook.office365.com</li>
+<li class='same'> 14:32 outlook.office365.com</li>
+<li> 14:32 bsky.app</li>
+<li> 14:31 sxswlondon.com</li>
+<li class='same'> 14:30 sxswlondon.com</li>
+<li class='same'> 14:29 sxswlondon.com</li>
+<li> 14:29 www.google.com</li>
+<li> 14:29 <a href="https://www.youtube.com/sxsw?themeRefresh=1">SXSW - YouTube</a></li>
+<li> 14:29 <a href="https://www.youtube.com/sxsw">(5) SXSW - YouTube</a></li>
+<li> 14:29 www.google.com</li>
+<li> 14:28 www.linkedin.com</li>
+<li class='same'> 14:27 www.linkedin.com</li>
+<li> 14:27 outlook.office365.com</li>
+<li> 14:27 bsky.app</li>
+<li> 14:26 outlook.office365.com</li>
+<li> 14:17 www.google.com</li>
+<li> 14:14 outlook.office365.com</li>
+<li> 14:14 mail.google.com</li>
+<li class='same'> 14:13 mail.google.com</li>
+<li class='same'> 14:12 mail.google.com</li>
+<li class='same'> 14:11 mail.google.com</li>
+<li class='same'> 14:10 mail.google.com</li>
+<li> 14:09 www.rightmove.co.uk</li>
+<li> 14:08 mail.google.com</li>
+<li> 14:07 outlook.office365.com</li>
+<li> 14:07 bsky.app</li>
+<li class='same'> 14:04 bsky.app</li>
+<li class='same'> 13:52 bsky.app</li>
 <li> 13:49 www.google.com</li>
 <li class='same'> 13:47 www.google.com</li>
 <li> 13:45 claude.ai</li>
