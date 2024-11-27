@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (862)</li>
 <li>gmail.com (804)</li>
-<li>bsky.app (728)</li>
+<li>bsky.app (729)</li>
 <li>login.microsoftonline.com (696)</li>
 <li>chat.openai.com (690)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 27/11/24</H3>
+
+<br>
+
+<ul><li> 10:13 bsky.app</li>
+</ul>
 
 <br>
 
