@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (862)</li>
 <li>gmail.com (803)</li>
-<li>bsky.app (727)</li>
+<li>bsky.app (728)</li>
 <li>login.microsoftonline.com (696)</li>
 <li>chat.openai.com (690)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:07 <a href="https://en.wikipedia.org/w/index.php?title=2023_MOVEit_data_breach&action=edit&section=5">2023 MOVEit data breach - Wikipedia</a></li>
+<ul><li> 09:15 www.rapid7.com</li>
+<li> 09:13 bsky.app</li>
+<li> 09:12 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
+<li> 09:12 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:12 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:12 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 09:12 <a href="https://en.wikipedia.org/w/index.php?title=2023_MOVEit_data_breach&action=history">2023 MOVEit data breach: Revision history - Wikipedia</a></li>
+<li> 09:12 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach">2023 MOVEit data breach - Wikipedia</a></li>
+<li> 09:12 <a href="https://en.wikipedia.org/wiki/Talk:2023_MOVEit_data_breach">Talk:2023 MOVEit data breach - Wikipedia</a></li>
+<li> 09:12 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach#Response">2023 MOVEit data breach - Wikipedia</a></li>
+<li> 09:07 <a href="https://en.wikipedia.org/w/index.php?title=2023_MOVEit_data_breach&action=edit&section=5">2023 MOVEit data breach - Wikipedia</a></li>
 <li> 09:07 <a href="https://en.wikipedia.org/w/index.php?title=2023_MOVEit_data_breach&action=edit">Editing 2023 MOVEit data breach - Wikipedia</a></li>
 <li> 09:02 outlook.office365.com</li>
 <li class='same'> 09:01 outlook.office365.com</li>
