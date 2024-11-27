@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9336)</li>
-<li>mail.google.com (6340)</li>
+<ol><li>www.google.com (9338)</li>
+<li>mail.google.com (6343)</li>
 <li>outlook.office.com (3702)</li>
 <li>www.facebook.com (3024)</li>
 <li>docs.google.com (1988)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (862)</li>
-<li>gmail.com (803)</li>
+<li>gmail.com (804)</li>
 <li>bsky.app (728)</li>
 <li>login.microsoftonline.com (696)</li>
 <li>chat.openai.com (690)</li>
@@ -108,10 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:24 <a href="https://en.wikipedia.org/wiki/Insomniac_Games#cite_note-59">Insomniac Games - Wikipedia</a></li>
+<ul><li> 09:35 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 09:35 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 09:34 <a href="https://en.wikipedia.org/wiki/Special:Log/Joereddington">Main public logs - Wikipedia</a></li>
+<li> 09:34 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 09:34 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 09:30 <a href="https://en.wikipedia.org/wiki/23andMe_data_leak">23andMe data leak - Wikipedia</a></li>
+<li> 09:30 www.google.com</li>
+<li> 09:24 <a href="https://en.wikipedia.org/wiki/Insomniac_Games#cite_note-59">Insomniac Games - Wikipedia</a></li>
 <li> 09:23 <a href="https://en.wikipedia.org/wiki/Insomniac_Games#December_2023_leak">Insomniac Games - Wikipedia</a></li>
 <li> 09:23 <a href="https://en.wikipedia.org/wiki/Insomniac_Games">Insomniac Games - Wikipedia</a></li>
 <li> 09:23 www.google.com</li>
+<li class='same'> 09:19 www.google.com</li>
 <li> 09:18 www.cybersecuritydive.com</li>
 <li> 09:15 www.rapid7.com</li>
 <li> 09:13 bsky.app</li>
@@ -125,6 +133,10 @@ With number of accesses/minutes in parentheses
 <li> 09:12 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach#Response">2023 MOVEit data breach - Wikipedia</a></li>
 <li> 09:07 <a href="https://en.wikipedia.org/w/index.php?title=2023_MOVEit_data_breach&action=edit&section=5">2023 MOVEit data breach - Wikipedia</a></li>
 <li> 09:07 <a href="https://en.wikipedia.org/w/index.php?title=2023_MOVEit_data_breach&action=edit">Editing 2023 MOVEit data breach - Wikipedia</a></li>
+<li> 09:04 mail.google.com</li>
+<li class='same'> 09:03 mail.google.com</li>
+<li> 09:03 gmail.com</li>
+<li> 09:03 mail.google.com</li>
 <li> 09:02 outlook.office365.com</li>
 <li class='same'> 09:01 outlook.office365.com</li>
 <li> 09:01 calendar.google.com</li>
@@ -47241,7 +47253,7 @@ With number of accesses/minutes in parentheses
 <li> 12:38 <a href="https://en.wikipedia.org/w/index.php?title=Special:Contributions/Joereddington&target=Joereddington&offset=20240320184046">User contributions for Joereddington - Wikipedia</a></li>
 <li> 12:38 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
 <li> 12:38 <a href="https://en.wikipedia.org/wiki/Special:Log?type=&user=Joereddington&page=&wpdate=&tagfilter=&wpFormIdentifier=logeventslist">All public logs - Wikipedia</a></li>
-<li> 12:37 <a href="https://en.wikipedia.org/wiki/Special:Log/Joereddington">All public logs - Wikipedia</a></li>
+<li> 12:37 <a href="https://en.wikipedia.org/wiki/Special:Log/Joereddington">Main public logs - Wikipedia</a></li>
 <li> 12:37 <a href="https://en.wikipedia.org/w/index.php?title=User:Joereddington&action=history">User:Joereddington: Revision history - Wikipedia</a></li>
 <li> 12:37 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 12:36 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches">Talk:Yahoo! data breaches - Wikipedia</a></li>
