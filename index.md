@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9333)</li>
+<ol><li>www.google.com (9334)</li>
 <li>mail.google.com (6338)</li>
 <li>outlook.office.com (3702)</li>
 <li>www.facebook.com (3024)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:29 www.bitsight.com</li>
+<ul><li> 07:35 www.emsisoft.com</li>
+<li> 07:34 <a href="https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach">2020 United States federal government data breach - Wikipedia</a></li>
+<li> 07:34 <a href="https://en.wikipedia.org/wiki/SolarWinds#2019%E2%80%932020_supply_chain_attacks">SolarWinds - Wikipedia</a></li>
+<li> 07:33 go.gale.com</li>
+<li> 07:33 galeapps.gale.com</li>
+<li> 07:33 go.gale.com</li>
+<li> 07:33 galeapps.gale.com</li>
+<li> 07:32 scholar.google.com</li>
+<li> 07:32 www.google.com</li>
+<li> 07:32 www.ibm.com</li>
+<li> 07:31 hadrian.io</li>
+<li> 07:31 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach#Response">2023 MOVEit data breach - Wikipedia</a></li>
+<li> 07:30 www.washingtonpost.com</li>
+<li> 07:30 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach#cite_note-17">2023 MOVEit data breach - Wikipedia</a></li>
+<li> 07:30 <a href="https://en.wikipedia.org/w/index.php?title=2023_MOVEit_data_breach&action=edit&section=5">Editing 2023 MOVEit data breach - Wikipedia</a></li>
+<li> 07:30 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach#cite_ref-18">2023 MOVEit data breach - Wikipedia</a></li>
+<li> 07:29 www.bitsight.com</li>
 <li> 07:29 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach#cite_note-18">2023 MOVEit data breach - Wikipedia</a></li>
 <li> 07:29 www.infosecurity-magazine.com</li>
 <li> 07:29 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach#cite_note-17">2023 MOVEit data breach - Wikipedia</a></li>
