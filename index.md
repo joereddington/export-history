@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9362)</li>
+<ol><li>www.google.com (9364)</li>
 <li>mail.google.com (6359)</li>
-<li>outlook.office.com (3702)</li>
+<li>outlook.office.com (3704)</li>
 <li>www.facebook.com (3046)</li>
 <li>docs.google.com (1989)</li>
-<li>outlook.office365.com (1713)</li>
-<li>calendar.google.com (1548)</li>
+<li>outlook.office365.com (1714)</li>
+<li>calendar.google.com (1551)</li>
 <li>www.reddit.com (1487)</li>
 <li>moodle.royalholloway.ac.uk (1481)</li>
 <li>www.amazon.co.uk (1273)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:53 <a href="https://en.wikipedia.org/wiki/T-Mobile_US#cite_note-210">T-Mobile US - Wikipedia</a></li>
+<ul><li> 17:08 calendar.google.com</li>
+<li class='same'> 17:07 calendar.google.com</li>
+<li> 17:07 outlook.office.com</li>
+<li> 17:07 outlook.office365.com</li>
+<li> 17:07 outlook.office.com</li>
+<li> 17:07 mail.rhul.ac.uk</li>
+<li> 17:07 calendar.google.com</li>
+<li> 17:06 0.0.0.0:8000</li>
+<li> 17:04 www.imperva.com</li>
+<li> 17:04 www.google.com</li>
+<li> 17:04 www.twingate.com</li>
+<li> 17:04 www.google.com</li>
+<li> 16:53 <a href="https://en.wikipedia.org/wiki/T-Mobile_US#cite_note-210">T-Mobile US - Wikipedia</a></li>
 <li> 16:53 www.google.com</li>
 <li> 16:52 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach#Background">T-Mobile data breach - Wikipedia</a></li>
 <li> 16:51 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit&section=1">Editing T-Mobile data breach - Wikipedia</a></li>
