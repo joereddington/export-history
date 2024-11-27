@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9341)</li>
-<li>mail.google.com (6344)</li>
+<ol><li>www.google.com (9350)</li>
+<li>mail.google.com (6347)</li>
 <li>outlook.office.com (3702)</li>
-<li>www.facebook.com (3024)</li>
-<li>docs.google.com (1988)</li>
-<li>outlook.office365.com (1689)</li>
+<li>www.facebook.com (3031)</li>
+<li>docs.google.com (1989)</li>
+<li>outlook.office365.com (1693)</li>
 <li>calendar.google.com (1547)</li>
 <li>www.reddit.com (1487)</li>
 <li>moodle.royalholloway.ac.uk (1481)</li>
@@ -81,21 +81,21 @@ With number of accesses/minutes in parentheses
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (888)</li>
-<li>www.linkedin.com (862)</li>
-<li>gmail.com (804)</li>
-<li>bsky.app (729)</li>
+<li>www.linkedin.com (863)</li>
+<li>gmail.com (805)</li>
+<li>bsky.app (748)</li>
 <li>login.microsoftonline.com (696)</li>
-<li>chat.openai.com (691)</li>
+<li>chat.openai.com (692)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (671)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (526)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (484)</li>
+<li>drive.google.com (485)</li>
 <li>rhul-my.sharepoint.com (469)</li>
-<li>teams.microsoft.com (458)</li>
+<li>teams.microsoft.com (459)</li>
 <li>kdp.amazon.com (444)</li>
-<li>chatgpt.com (428)</li>
+<li>chatgpt.com (431)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (357)</li>
 
@@ -108,7 +108,67 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:27 mail.google.com</li>
+<ul><li> 13:52 bsky.app</li>
+<li> 13:49 www.google.com</li>
+<li class='same'> 13:47 www.google.com</li>
+<li> 13:45 claude.ai</li>
+<li class='same'> 13:44 claude.ai</li>
+<li> 13:44 www.google.com</li>
+<li> 13:43 bsky.app</li>
+<li> 13:42 www.facebook.com</li>
+<li> 13:41 bsky.app</li>
+<li class='same'> 13:40 bsky.app</li>
+<li> 13:40 www.facebook.com</li>
+<li> 13:40 bsky.app</li>
+<li> 13:39 www.facebook.com</li>
+<li> 13:38 bsky.app</li>
+<li> 13:37 www.facebook.com</li>
+<li> 13:37 bsky.app</li>
+<li> 13:37 outlook.office365.com</li>
+<li> 13:35 chatgpt.com</li>
+<li> 13:35 www.forbes.com</li>
+<li> 13:34 chatgpt.com</li>
+<li> 13:27 trends.google.com</li>
+<li> 13:27 www.google.com</li>
+<li> 13:25 docs.google.com</li>
+<li> 13:25 drive.google.com</li>
+<li> 13:23 www.forbes.com</li>
+<li> 13:23 www.google.com</li>
+<li class='same'> 13:21 www.google.com</li>
+<li class='same'> 13:20 www.google.com</li>
+<li class='same'> 13:16 www.google.com</li>
+<li class='same'> 13:15 www.google.com</li>
+<li> 13:14 chatgpt.com</li>
+<li> 13:14 chat.openai.com</li>
+<li> 13:04 outlook.office365.com</li>
+<li> 13:02 bsky.app</li>
+<li> 13:01 l.facebook.com</li>
+<li> 13:01 bsky.app</li>
+<li> 13:01 l.facebook.com</li>
+<li> 13:01 bsky.app</li>
+<li> 13:01 l.facebook.com</li>
+<li> 13:00 bsky.app</li>
+<li> 13:00 www.facebook.com</li>
+<li> 12:59 bsky.app</li>
+<li> 12:58 www.facebook.com</li>
+<li class='same'> 12:57 www.facebook.com</li>
+<li> 12:57 bsky.app</li>
+<li> 12:56 outlook.office365.com</li>
+<li class='same'> 12:55 outlook.office365.com</li>
+<li> 12:53 teams.microsoft.com</li>
+<li> 12:53 mail.google.com</li>
+<li> 12:53 gmail.com</li>
+<li> 12:53 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:35 bsky.app</li>
+<li class='same'> 11:34 bsky.app</li>
+<li class='same'> 11:33 bsky.app</li>
+<li class='same'> 11:32 bsky.app</li>
+<li class='same'> 11:31 bsky.app</li>
+<li> 11:27 mail.google.com</li>
 <li> 11:27 <a href="https://en.wikipedia.org/wiki/Susanna_Hoffs">Susanna Hoffs - Wikipedia</a></li>
 <li> 11:27 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 11:26 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#Legal_consequences">British Airways data breach - Wikipedia</a></li>
@@ -151,6 +211,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:40 thedirect.com</li>
 <li> 09:40 www.google.com</li>
+<li> 09:36 bsky.app</li>
+<li> 09:36 www.linkedin.com</li>
+<li> 09:36 mail.google.com</li>
 <li> 09:35 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 09:35 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 09:34 <a href="https://en.wikipedia.org/wiki/Special:Log/Joereddington">Main public logs - Wikipedia</a></li>
