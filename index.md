@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9331)</li>
+<ol><li>www.google.com (9332)</li>
 <li>mail.google.com (6338)</li>
 <li>outlook.office.com (3702)</li>
 <li>www.facebook.com (3024)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:08 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<ul><li> 07:19 www.google.com</li>
+<li> 07:08 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 07:08 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
 <li> 07:08 www.google.com</li>
 <li> 07:07 bsky.app</li>
