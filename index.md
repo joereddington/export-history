@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9332)</li>
+<ol><li>www.google.com (9333)</li>
 <li>mail.google.com (6338)</li>
 <li>outlook.office.com (3702)</li>
 <li>www.facebook.com (3024)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:19 www.google.com</li>
+<ul><li> 07:29 www.bitsight.com</li>
+<li> 07:29 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach#cite_note-18">2023 MOVEit data breach - Wikipedia</a></li>
+<li> 07:29 www.infosecurity-magazine.com</li>
+<li> 07:29 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach#cite_note-17">2023 MOVEit data breach - Wikipedia</a></li>
+<li> 07:29 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach">2023 MOVEit data breach - Wikipedia</a></li>
+<li> 07:27 <a href="https://en.wikipedia.org/w/index.php?title=2023_MOVEit_data_breach&action=edit">Editing 2023 MOVEit data breach - Wikipedia</a></li>
+<li> 07:26 <a href="https://en.wikipedia.org/w/index.php?title=2023_MOVEit_data_breach&action=history">2023 MOVEit data breach: Revision history - Wikipedia</a></li>
+<li> 07:24 therecord.media</li>
+<li> 07:24 investors.progress.com</li>
+<li> 07:24 www.google.com</li>
+<li> 07:23 www.csoonline.com</li>
+<li> 07:21 www.sec.gov</li>
+<li> 07:19 <a href="https://en.wikipedia.org/wiki/MOVEit">MOVEit - Wikipedia</a></li>
+<li> 07:19 <a href="https://en.wikipedia.org/wiki/2023_MOVEit_data_breach">2023 MOVEit data breach - Wikipedia</a></li>
+<li> 07:19 www.google.com</li>
 <li> 07:08 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 07:08 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
 <li> 07:08 www.google.com</li>
