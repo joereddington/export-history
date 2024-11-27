@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9359)</li>
+<ol><li>www.google.com (9361)</li>
 <li>mail.google.com (6359)</li>
 <li>outlook.office.com (3702)</li>
 <li>www.facebook.com (3046)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (869)</li>
 <li>gmail.com (806)</li>
 <li>bsky.app (757)</li>
-<li>login.microsoftonline.com (698)</li>
+<li>login.microsoftonline.com (699)</li>
 <li>chat.openai.com (693)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (671)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:27 www.google.com</li>
+<ul><li> 16:39 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack#Attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
+<li> 16:38 <a href="https://en.wikipedia.org/w/index.php?title=Colonial_Pipeline_ransomware_attack&action=edit&section=2">Editing Colonial Pipeline ransomware attack - Wikipedia</a></li>
+<li> 16:38 <a href="https://en.wikipedia.org/w/index.php?title=Colonial_Pipeline_ransomware_attack&action=edit">Colonial Pipeline ransomware attack - Wikipedia</a></li>
+<li> 16:37 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
+<li> 16:35 www.cnn.com</li>
+<li> 16:35 edition.cnn.com</li>
+<li> 16:35 www.bloomberg.com</li>
+<li> 16:35 www.google.com</li>
+<li> 16:34 <a href="https://en.wikipedia.org/w/index.php?title=Colonial_Pipeline_ransomware_attack&action=edit">Colonial Pipeline ransomware attack - Wikipedia</a></li>
+<li> 16:33 ieeexplore.ieee.org</li>
+<li> 16:33 login.openathens.net</li>
+<li> 16:33 login.microsoftonline.com</li>
+<li> 16:33 login.openathens.net</li>
+<li> 16:33 ieeexplore.ieee.org</li>
+<li> 16:33 www.semanticscholar.org</li>
+<li> 16:32 www.google.com</li>
+<li> 16:27 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
+<li> 16:27 www.google.com</li>
 <li> 16:12 www.gov.uk</li>
 <li> 16:11 www.google.com</li>
 <li> 16:09 www.facebook.com</li>
