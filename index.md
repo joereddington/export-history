@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9327)</li>
+<ol><li>www.google.com (9331)</li>
 <li>mail.google.com (6338)</li>
-<li>outlook.office.com (3700)</li>
+<li>outlook.office.com (3702)</li>
 <li>www.facebook.com (3024)</li>
 <li>docs.google.com (1988)</li>
-<li>outlook.office365.com (1686)</li>
-<li>calendar.google.com (1545)</li>
+<li>outlook.office365.com (1687)</li>
+<li>calendar.google.com (1546)</li>
 <li>www.reddit.com (1487)</li>
 <li>moodle.royalholloway.ac.uk (1481)</li>
 <li>www.amazon.co.uk (1273)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (888)</li>
 <li>www.linkedin.com (862)</li>
 <li>gmail.com (801)</li>
-<li>bsky.app (726)</li>
+<li>bsky.app (727)</li>
 <li>login.microsoftonline.com (696)</li>
 <li>chat.openai.com (690)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:59 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_US&action=info"></a></li>
+<ul><li> 07:08 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 07:08 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 07:08 www.google.com</li>
+<li> 07:07 bsky.app</li>
+<li> 07:06 calendar.google.com</li>
+<li> 07:06 outlook.office.com</li>
+<li> 07:06 outlook.office365.com</li>
+<li> 07:06 outlook.office.com</li>
+<li> 07:06 mail.rhul.ac.uk</li>
+<li> 07:04 www.wired.com</li>
+<li> 07:04 www.bleepingcomputer.com</li>
+<li> 07:04 www.google.com</li>
+<li> 07:04 krebsonsecurity.com</li>
+<li> 07:04 www.google.com</li>
+<li class='same'> 07:03 www.google.com</li>
+<li> 07:03 <a href="https://en.wikipedia.org/wiki/Talk:T-Mobile_data_breach">Talk:T-Mobile data breach - Wikipedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 07:01 xtools.wmcloud.org</li>
+<li class='same'> 07:00 xtools.wmcloud.org</li>
+<li> 07:00 xtools.wmflabs.org</li>
+<li> 07:00 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_US&action=info">Information for "T-Mobile US" - Wikipedia</a></li>
+<li> 07:00 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_US&action=info#Page_properties">Information for "T-Mobile US" - Wikipedia</a></li>
+<li> 06:59 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_US&action=info">Information for "T-Mobile US" - Wikipedia</a></li>
 <li> 06:59 <a href="https://en.wikipedia.org/wiki/Wikipedia:Stub">Wikipedia:Stub - Wikipedia</a></li>
 <li> 06:59 <a href="https://en.wikipedia.org/wiki/T-Mobile_US">T-Mobile US - Wikipedia</a></li>
 <li> 06:59 www.google.com</li>
