@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9386)</li>
+<ol><li>www.google.com (9387)</li>
 <li>mail.google.com (6367)</li>
 <li>outlook.office.com (3721)</li>
 <li>www.facebook.com (3058)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (872)</li>
 <li>gmail.com (809)</li>
-<li>bsky.app (782)</li>
+<li>bsky.app (784)</li>
 <li>login.microsoftonline.com (699)</li>
 <li>chat.openai.com (694)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:07 rhul-my.sharepoint.com</li>
+<ul><li> 12:25 community.crossref.org</li>
+<li> 12:25 www.google.com</li>
+<li> 12:24 bsky.app</li>
+<li class='same'> 12:23 bsky.app</li>
+<li> 12:21 www.sec.gov</li>
+<li> 12:07 rhul-my.sharepoint.com</li>
 <li> 12:06 bsky.app</li>
 <li> 12:05 mail.google.com</li>
 <li class='same'> 12:04 mail.google.com</li>
