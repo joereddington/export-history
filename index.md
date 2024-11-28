@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (808)</li>
 <li>bsky.app (781)</li>
 <li>login.microsoftonline.com (699)</li>
-<li>chat.openai.com (693)</li>
+<li>chat.openai.com (694)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (671)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (472)</li>
 <li>teams.microsoft.com (461)</li>
 <li>kdp.amazon.com (444)</li>
-<li>chatgpt.com (433)</li>
+<li>chatgpt.com (434)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (357)</li>
 
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:26 bsky.app</li>
+<ul><li> 11:34 chatgpt.com</li>
+<li> 11:34 chat.openai.com</li>
+<li> 11:26 bsky.app</li>
 <li class='same'> 11:25 bsky.app</li>
 <li class='same'> 11:24 bsky.app</li>
 <li class='same'> 11:23 bsky.app</li>
