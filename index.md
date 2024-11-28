@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9386)</li>
-<li>mail.google.com (6364)</li>
-<li>outlook.office.com (3720)</li>
+<li>mail.google.com (6367)</li>
+<li>outlook.office.com (3721)</li>
 <li>www.facebook.com (3058)</li>
 <li>docs.google.com (1989)</li>
 <li>outlook.office365.com (1717)</li>
@@ -82,8 +82,8 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (872)</li>
-<li>gmail.com (808)</li>
-<li>bsky.app (781)</li>
+<li>gmail.com (809)</li>
+<li>bsky.app (782)</li>
 <li>login.microsoftonline.com (699)</li>
 <li>chat.openai.com (694)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (529)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (485)</li>
-<li>rhul-my.sharepoint.com (472)</li>
+<li>rhul-my.sharepoint.com (473)</li>
 <li>teams.microsoft.com (461)</li>
 <li>kdp.amazon.com (444)</li>
 <li>chatgpt.com (434)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:53 Local file</li>
+<ul><li> 12:07 rhul-my.sharepoint.com</li>
+<li> 12:06 bsky.app</li>
+<li> 12:05 mail.google.com</li>
+<li class='same'> 12:04 mail.google.com</li>
+<li class='same'> 12:03 mail.google.com</li>
+<li> 12:03 gmail.com</li>
+<li> 12:03 outlook.office.com</li>
+<li> 11:53 Local file</li>
 <li> 11:53 outlook.office.com</li>
 <li> 11:51 Local file</li>
 <li> 11:51 outlook.office.com</li>
