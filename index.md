@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9386)</li>
 <li>mail.google.com (6364)</li>
-<li>outlook.office.com (3716)</li>
+<li>outlook.office.com (3720)</li>
 <li>www.facebook.com (3058)</li>
 <li>docs.google.com (1989)</li>
-<li>outlook.office365.com (1716)</li>
+<li>outlook.office365.com (1717)</li>
 <li>calendar.google.com (1554)</li>
 <li>www.reddit.com (1487)</li>
 <li>moodle.royalholloway.ac.uk (1481)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:46 askubuntu.com</li>
+<ul><li> 11:53 Local file</li>
+<li> 11:53 outlook.office.com</li>
+<li> 11:51 Local file</li>
+<li> 11:51 outlook.office.com</li>
+<li> 11:50 outlook.office365.com</li>
+<li> 11:50 outlook.office.com</li>
+<li> 11:50 mail.rhul.ac.uk</li>
+<li> 11:50 outlook.office.com</li>
+<li> 11:46 askubuntu.com</li>
 <li> 11:46 www.google.com</li>
 <li> 11:42 Local file</li>
 <li> 11:42 outlook.office.com</li>
