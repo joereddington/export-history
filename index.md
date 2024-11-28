@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9390)</li>
+<ol><li>www.google.com (9392)</li>
 <li>mail.google.com (6367)</li>
 <li>outlook.office.com (3721)</li>
 <li>www.facebook.com (3058)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:50 <a href="https://en.wikipedia.org/wiki/Albert_Gonzalez#Heartland_Payment_Systems"></a></li>
+<ul><li> 13:28 www.google.com</li>
+<li class='same'> 13:27 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:50 <a href="https://en.wikipedia.org/wiki/Albert_Gonzalez#Heartland_Payment_Systems">Albert Gonzalez - Wikipedia</a></li>
 <li> 12:50 <a href="https://en.wikipedia.org/wiki/Heartland_Payment_Systems">Heartland Payment Systems - Wikipedia</a></li>
 <li> 12:50 www.google.com</li>
 <li> 12:49 <a href="https://en.wikipedia.org/wiki/UK_cyber_security_community">UK cyber security community - Wikipedia</a></li>
