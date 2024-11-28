@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (872)</li>
 <li>gmail.com (808)</li>
-<li>bsky.app (775)</li>
+<li>bsky.app (781)</li>
 <li>login.microsoftonline.com (699)</li>
 <li>chat.openai.com (693)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (529)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (485)</li>
-<li>rhul-my.sharepoint.com (471)</li>
+<li>rhul-my.sharepoint.com (472)</li>
 <li>teams.microsoft.com (461)</li>
 <li>kdp.amazon.com (444)</li>
 <li>chatgpt.com (433)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:16 www.linkedin.com</li>
+<ul><li> 11:26 bsky.app</li>
+<li class='same'> 11:25 bsky.app</li>
+<li class='same'> 11:24 bsky.app</li>
+<li class='same'> 11:23 bsky.app</li>
+<li class='same'> 11:22 bsky.app</li>
+<li class='same'> 11:20 bsky.app</li>
+<li> 11:19 rhul-my.sharepoint.com</li>
+<li> 11:16 www.linkedin.com</li>
 <li class='same'> 11:14 www.linkedin.com</li>
 <li class='same'> 11:13 www.linkedin.com</li>
 <li> 11:04 outlook.office.com</li>
