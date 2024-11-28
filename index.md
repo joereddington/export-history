@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9364)</li>
-<li>mail.google.com (6359)</li>
-<li>outlook.office.com (3707)</li>
+<ol><li>www.google.com (9382)</li>
+<li>mail.google.com (6362)</li>
+<li>outlook.office.com (3710)</li>
 <li>www.facebook.com (3058)</li>
 <li>docs.google.com (1989)</li>
-<li>outlook.office365.com (1714)</li>
-<li>calendar.google.com (1551)</li>
+<li>outlook.office365.com (1715)</li>
+<li>calendar.google.com (1552)</li>
 <li>www.reddit.com (1487)</li>
 <li>moodle.royalholloway.ac.uk (1481)</li>
-<li>www.amazon.co.uk (1273)</li>
+<li>www.amazon.co.uk (1274)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (869)</li>
-<li>gmail.com (806)</li>
-<li>bsky.app (765)</li>
+<li>gmail.com (807)</li>
+<li>bsky.app (771)</li>
 <li>login.microsoftonline.com (699)</li>
 <li>chat.openai.com (693)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (671)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (528)</li>
+<li>web.whatsapp.com (529)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (485)</li>
 <li>rhul-my.sharepoint.com (471)</li>
@@ -104,11 +104,64 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 28/11/24</H3>
+
+<br>
+
+<ul><li> 06:59 mail.google.com</li>
+<li class='same'> 06:57 mail.google.com</li>
+<li> 06:57 outlook.office.com</li>
+<li class='same'> 06:56 outlook.office.com</li>
+<li class='same'> 06:55 outlook.office.com</li>
+<li> 06:55 outlook.office365.com</li>
+<li> 06:55 mail.rhul.ac.uk</li>
+<li> 06:55 mail.google.com</li>
+<li> 06:55 gmail.com</li>
+<li> 06:55 calendar.google.com</li>
+<li> 06:50 0.0.0.0:8000</li>
+<li> 06:49 0.0.0.0:7000</li>
+<li> 06:48 Local file</li>
+</ul>
+
 <H3>Wednesday, 27/11/24</H3>
 
 <br>
 
-<ul><li> 17:40 www.facebook.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:42 www.google.com</li>
+<li> 21:27 www.amazon.co.uk</li>
+<li> 21:26 www.google.com</li>
+<li> 21:02 pmc.ncbi.nlm.nih.gov</li>
+<li> 21:02 www.google.com</li>
+<li> 21:01 www.frontiersin.org</li>
+<li> 21:01 www.google.com</li>
+<li> 21:00 www.cell.com</li>
+<li> 21:00 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:28 www.google.com</li>
+<li class='same'> 19:27 www.google.com</li>
+<li class='same'> 19:26 www.google.com</li>
+<li class='same'> 19:24 www.google.com</li>
+<li class='same'> 19:18 www.google.com</li>
+<li class='same'> 19:11 www.google.com</li>
+<li class='same'> 19:10 www.google.com</li>
+<li class='same'> 19:09 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:08 bsky.app</li>
+<li class='same'> 18:07 bsky.app</li>
+<li class='same'> 18:06 bsky.app</li>
+<li class='same'> 18:05 bsky.app</li>
+<li> 17:41 web.whatsapp.com</li>
+<li> 17:40 www.facebook.com</li>
 <li class='same'> 17:39 www.facebook.com</li>
 <li class='same'> 17:38 www.facebook.com</li>
 <li class='same'> 17:37 www.facebook.com</li>
@@ -182,6 +235,9 @@ With number of accesses/minutes in parentheses
 <li> 16:32 www.google.com</li>
 <li> 16:27 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
 <li> 16:27 www.google.com</li>
+<li> 16:16 bsky.app</li>
+<li class='same'> 16:15 bsky.app</li>
+<li> 16:14 feedly.com</li>
 <li> 16:12 www.gov.uk</li>
 <li> 16:11 www.google.com</li>
 <li> 16:09 www.facebook.com</li>
@@ -910,6 +966,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:24 www.google.com</li>
+<li> 19:24 bjjfanatics.com</li>
+<li> 19:23 www.google.com</li>
+<li class='same'> 19:19 www.google.com</li>
+<li class='same'> 19:18 www.google.com</li>
+<li> 19:16 www.flograppling.com</li>
+<li> 19:14 www.google.com</li>
+</ul>
 
 <br>
 
