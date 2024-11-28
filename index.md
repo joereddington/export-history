@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
-<li>www.linkedin.com (869)</li>
+<li>www.linkedin.com (872)</li>
 <li>gmail.com (808)</li>
 <li>bsky.app (775)</li>
 <li>login.microsoftonline.com (699)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:04 outlook.office.com</li>
+<ul><li> 11:16 www.linkedin.com</li>
+<li class='same'> 11:14 www.linkedin.com</li>
+<li class='same'> 11:13 www.linkedin.com</li>
+<li> 11:04 outlook.office.com</li>
 <li class='same'> 11:03 outlook.office.com</li>
 <li class='same'> 11:02 outlook.office.com</li>
 <li> 11:02 outlook.office365.com</li>
