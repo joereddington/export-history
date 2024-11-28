@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:50 www.plymouth.ac.uk</li>
+<ul><li> 10:54 impact.ref.ac.uk</li>
+<li> 10:53 find-and-update.company-information.service.gov.uk</li>
+<li> 10:53 www.transport.gov.scot</li>
+<li class='same'> 10:52 www.transport.gov.scot</li>
+<li> 10:52 researchportal.plymouth.ac.uk</li>
+<li> 10:52 www.plymouth.ac.uk</li>
+<li> 10:50 <a href="https://www.youtube.com/watch?v=AjG6_vmBQ5k">(6) Professor Jon Shaw & Dr Andrew Seedhouse - REF Impact Case Study - YouTube</a></li>
+<li> 10:50 www.plymouth.ac.uk</li>
 <li> 10:49 www.transport-ticketing.com</li>
 <li> 10:48 www.talktosam.co.uk</li>
 <li> 10:48 www.google.com</li>
