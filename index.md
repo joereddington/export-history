@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9393)</li>
+<ol><li>www.google.com (9394)</li>
 <li>mail.google.com (6367)</li>
 <li>outlook.office.com (3721)</li>
 <li>www.facebook.com (3058)</li>
@@ -85,9 +85,9 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (809)</li>
 <li>bsky.app (787)</li>
 <li>login.microsoftonline.com (699)</li>
-<li>chat.openai.com (694)</li>
+<li>chat.openai.com (695)</li>
 <li>whitewaterwriters.com (682)</li>
-<li>tvtropes.org (671)</li>
+<li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (529)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (473)</li>
 <li>teams.microsoft.com (461)</li>
 <li>kdp.amazon.com (444)</li>
-<li>chatgpt.com (434)</li>
+<li>chatgpt.com (435)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (357)</li>
 
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:48 <a href="https://en.wikipedia.org/wiki/Skanderbeg"></a></li>
+<ul><li> 13:52 tvtropes.org</li>
+<li> 13:51 chatgpt.com</li>
+<li> 13:51 chat.openai.com</li>
+<li> 13:51 tvtropes.org</li>
+<li> 13:51 www.google.com</li>
+<li> 13:48 <a href="https://en.wikipedia.org/wiki/Skanderbeg">Skanderbeg - Wikipedia</a></li>
 <li> 13:47 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 13:31 bsky.app</li>
 <li> 13:30 money.cnn.com</li>
