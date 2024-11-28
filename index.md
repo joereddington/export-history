@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (872)</li>
 <li>gmail.com (809)</li>
-<li>bsky.app (784)</li>
+<li>bsky.app (786)</li>
 <li>login.microsoftonline.com (699)</li>
 <li>chat.openai.com (694)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:25 community.crossref.org</li>
+<ul><li> 12:31 bsky.app</li>
+<li class='same'> 12:28 bsky.app</li>
+<li> 12:25 community.crossref.org</li>
 <li> 12:25 www.google.com</li>
 <li> 12:24 bsky.app</li>
 <li class='same'> 12:23 bsky.app</li>
