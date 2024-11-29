@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9414)</li>
-<li>mail.google.com (6393)</li>
-<li>outlook.office.com (3748)</li>
+<li>mail.google.com (6399)</li>
+<li>outlook.office.com (3758)</li>
 <li>www.facebook.com (3063)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1742)</li>
-<li>calendar.google.com (1559)</li>
+<li>calendar.google.com (1561)</li>
 <li>www.reddit.com (1496)</li>
-<li>moodle.royalholloway.ac.uk (1494)</li>
+<li>moodle.royalholloway.ac.uk (1495)</li>
 <li>www.amazon.co.uk (1272)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
-<li>www.linkedin.com (881)</li>
-<li>gmail.com (818)</li>
-<li>bsky.app (813)</li>
+<li>www.linkedin.com (883)</li>
+<li>gmail.com (820)</li>
+<li>bsky.app (816)</li>
 <li>login.microsoftonline.com (714)</li>
 <li>chat.openai.com (701)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:58 www.unity-online.co.uk</li>
+<ul><li> 18:19 bsky.app</li>
+<li class='same'> 18:18 bsky.app</li>
+<li class='same'> 18:17 bsky.app</li>
+<li> 18:16 outlook.office.com</li>
+<li> 18:16 www.linkedin.com</li>
+<li> 18:14 mail.google.com</li>
+<li> 18:14 gmail.com</li>
+<li> 18:14 mail.google.com</li>
+<li> 18:14 gmail.com</li>
+<li> 18:12 www.linkedin.com</li>
+<li> 18:12 outlook.office.com</li>
+<li> 18:12 calendar.google.com</li>
+<li> 18:12 outlook.office.com</li>
+<li class='same'> 18:11 outlook.office.com</li>
+<li> 18:11 calendar.google.com</li>
+<li> 18:11 outlook.office.com</li>
+<li> 18:10 moodle.royalholloway.ac.uk</li>
+<li> 18:10 outlook.office.com</li>
+<li class='same'> 18:08 outlook.office.com</li>
+<li> 18:07 cim.rhul.ac.uk</li>
+<li> 18:07 outlook.office.com</li>
+<li> 18:06 mfa.cim.rhul.ac.uk</li>
+<li class='same'> 18:05 mfa.cim.rhul.ac.uk</li>
+<li> 18:04 linux.cim.rhul.ac.uk</li>
+<li> 18:03 cim.rhul.ac.uk</li>
+<li> 18:02 linux.cim.rhul.ac.uk</li>
+<li> 18:01 cim.rhul.ac.uk</li>
+<li> 18:01 rhul.hosted.panopto.com</li>
+<li> 18:01 mail.google.com</li>
+<li> 18:01 cim.rhul.ac.uk</li>
+<li> 18:01 outlook.office.com</li>
+<li class='same'> 18:00 outlook.office.com</li>
+<li> 18:00 rhul.hosted.panopto.com</li>
+<li> 18:00 mail.google.com</li>
+<li class='same'> 17:59 mail.google.com</li>
+<li> 17:59 communications.british-gymnastics.org</li>
+<li> 17:59 mail.google.com</li>
+<li> 17:58 online.unity.co.uk</li>
+<li> 17:58 www.unity-online.co.uk</li>
 <li> 17:58 online.unity.co.uk</li>
 <li> 17:58 mail.google.com</li>
 <li class='same'> 17:57 mail.google.com</li>
