@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9402)</li>
+<ol><li>www.google.com (9401)</li>
 <li>mail.google.com (6377)</li>
 <li>outlook.office.com (3721)</li>
 <li>www.facebook.com (3061)</li>
 <li>docs.google.com (1991)</li>
 <li>outlook.office365.com (1730)</li>
-<li>calendar.google.com (1555)</li>
+<li>calendar.google.com (1556)</li>
 <li>www.reddit.com (1495)</li>
 <li>moodle.royalholloway.ac.uk (1486)</li>
-<li>www.amazon.co.uk (1274)</li>
+<li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 29/11/24</H3>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Thursday, 28/11/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -21467,12 +21478,9 @@ With number of accesses/minutes in parentheses
 <li> 17:26 www.amazon.co.uk</li>
 <li class='same'> 17:25 www.amazon.co.uk</li>
 <li class='same'> 17:24 www.amazon.co.uk</li>
-<li class='same'> 17:23 www.amazon.co.uk</li>
 <li class='same'> 17:22 www.amazon.co.uk</li>
-<li class='same'> 17:11 www.amazon.co.uk</li>
 <li class='same'> 17:10 www.amazon.co.uk</li>
 <li class='same'> 17:09 www.amazon.co.uk</li>
-<li class='same'> 16:44 www.amazon.co.uk</li>
 <li class='same'> 16:43 www.amazon.co.uk</li>
 <li> 16:43 www.ebay.co.uk</li>
 <li class='same'> 16:42 www.ebay.co.uk</li>
@@ -21492,15 +21500,12 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:12 calendar.google.com</li>
 <li> 15:11 Local file</li>
-<li> 15:11 mail-attachment.googleusercontent.com</li>
 <li> 15:11 mail.google.com</li>
 <li> 15:10 mesg.ebay.co.uk</li>
 <li class='same'> 15:09 mesg.ebay.co.uk</li>
 <li> 15:08 www.ebay.co.uk</li>
 <li> 15:08 contact.ebay.co.uk</li>
-<li> 15:08 www.ebay.co.uk</li>
 <li> 15:08 mesg.ebay.co.uk</li>
-<li> 15:08 accountsettings.ebay.co.uk</li>
 <li> 15:08 signin.ebay.co.uk</li>
 <li> 15:08 mesg.ebay.co.uk</li>
 <li> 15:08 www.ebay.co.uk</li>
@@ -21527,7 +21532,6 @@ With number of accesses/minutes in parentheses
 <li> 11:13 www.google.com</li>
 <li> 11:13 www.thrivecambridge.com</li>
 <li> 11:13 www.google.com</li>
-<li class='same'> 11:12 www.google.com</li>
 <li class='same'> 11:11 www.google.com</li>
 <li> 11:11 www.hanksdirty.com</li>
 <li> 11:10 wixlabs-pdf-dev.appspot.com</li>
