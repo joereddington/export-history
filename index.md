@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9413)</li>
-<li>mail.google.com (6382)</li>
-<li>outlook.office.com (3737)</li>
+<ol><li>www.google.com (9414)</li>
+<li>mail.google.com (6393)</li>
+<li>outlook.office.com (3748)</li>
 <li>www.facebook.com (3063)</li>
-<li>docs.google.com (1994)</li>
+<li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1742)</li>
-<li>calendar.google.com (1558)</li>
+<li>calendar.google.com (1559)</li>
 <li>www.reddit.com (1496)</li>
-<li>moodle.royalholloway.ac.uk (1493)</li>
+<li>moodle.royalholloway.ac.uk (1494)</li>
 <li>www.amazon.co.uk (1272)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
-<li>www.linkedin.com (879)</li>
-<li>gmail.com (814)</li>
-<li>bsky.app (806)</li>
+<li>www.linkedin.com (881)</li>
+<li>gmail.com (818)</li>
+<li>bsky.app (813)</li>
 <li>login.microsoftonline.com (714)</li>
 <li>chat.openai.com (701)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (534)</li>
+<li>web.whatsapp.com (537)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (487)</li>
+<li>drive.google.com (488)</li>
 <li>rhul-my.sharepoint.com (479)</li>
 <li>teams.microsoft.com (461)</li>
 <li>kdp.amazon.com (444)</li>
@@ -105,6 +105,65 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 29/11/24</H3>
+
+<br>
+
+<ul><li> 17:58 www.unity-online.co.uk</li>
+<li> 17:58 online.unity.co.uk</li>
+<li> 17:58 mail.google.com</li>
+<li class='same'> 17:57 mail.google.com</li>
+<li> 17:56 docs.google.com</li>
+<li> 17:56 drive.google.com</li>
+<li> 17:55 mail.google.com</li>
+<li class='same'> 17:53 mail.google.com</li>
+<li> 17:53 gmail.com</li>
+<li> 17:53 mail.google.com</li>
+<li> 17:52 web.whatsapp.com</li>
+<li> 17:52 mail.google.com</li>
+<li> 17:51 calendar.google.com</li>
+<li> 17:51 mail.google.com</li>
+<li> 17:51 gmail.com</li>
+<li> 17:51 bsky.app</li>
+<li class='same'> 17:50 bsky.app</li>
+<li class='same'> 17:49 bsky.app</li>
+<li> 17:49 blueskydirectory.com</li>
+<li> 17:49 bsky.app</li>
+<li> 17:49 www.linkedin.com</li>
+<li class='same'> 17:48 www.linkedin.com</li>
+<li> 17:45 outlook.office.com</li>
+<li class='same'> 17:39 outlook.office.com</li>
+<li> 17:36 moodle.royalholloway.ac.uk</li>
+<li> 17:35 www.royalholloway.ac.uk</li>
+<li> 17:35 www.google.com</li>
+<li> 17:32 outlook.office.com</li>
+<li class='same'> 17:31 outlook.office.com</li>
+<li> 17:30 web.whatsapp.com</li>
+<li> 17:30 bsky.app</li>
+<li class='same'> 17:29 bsky.app</li>
+<li> 17:29 blueskydirectory.com</li>
+<li class='same'> 17:28 blueskydirectory.com</li>
+<li> 17:28 mail.google.com</li>
+<li> 17:28 bsky.app</li>
+<li> 17:27 outlook.office.com</li>
+<li> 17:27 www.coursera.org</li>
+<li> 17:27 mail.google.com</li>
+<li> 17:27 gmail.com</li>
+<li> 17:27 outlook.office.com</li>
+<li class='same'> 17:26 outlook.office.com</li>
+<li> 17:26 www.coursera.org</li>
+<li> 17:26 mail.google.com</li>
+<li> 17:26 www.coursera.org</li>
+<li> 17:26 mail.google.com</li>
+<li> 17:26 gmail.com</li>
+<li> 17:26 www.coursera.org</li>
+<li class='same'> 17:25 www.coursera.org</li>
+<li class='same'> 17:24 www.coursera.org</li>
+<li> 17:24 outlook.office.com</li>
+<li> 17:23 web.whatsapp.com</li>
+<li> 17:23 outlook.office.com</li>
+<li class='same'> 17:22 outlook.office.com</li>
+<li class='same'> 17:21 outlook.office.com</li>
+</ul>
 
 <br>
 
