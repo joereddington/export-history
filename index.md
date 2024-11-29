@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9411)</li>
-<li>mail.google.com (6381)</li>
+<li>mail.google.com (6382)</li>
 <li>outlook.office.com (3721)</li>
 <li>www.facebook.com (3061)</li>
 <li>docs.google.com (1991)</li>
-<li>outlook.office365.com (1733)</li>
+<li>outlook.office365.com (1738)</li>
 <li>calendar.google.com (1557)</li>
 <li>www.reddit.com (1496)</li>
 <li>moodle.royalholloway.ac.uk (1487)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (814)</li>
 <li>bsky.app (797)</li>
 <li>login.microsoftonline.com (705)</li>
-<li>chat.openai.com (697)</li>
+<li>chat.openai.com (698)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (476)</li>
 <li>teams.microsoft.com (461)</li>
 <li>kdp.amazon.com (444)</li>
-<li>chatgpt.com (437)</li>
+<li>chatgpt.com (439)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (357)</li>
 
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:49 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
+<ul><li> 10:19 chatgpt.com</li>
+<li class='same'> 10:18 chatgpt.com</li>
+<li> 10:18 chat.openai.com</li>
+<li> 10:16 outlook.office365.com</li>
+<li class='same'> 10:15 outlook.office365.com</li>
+<li class='same'> 10:08 outlook.office365.com</li>
+<li class='same'> 10:07 outlook.office365.com</li>
+<li class='same'> 10:04 outlook.office365.com</li>
+<li> 10:02 mail.google.com</li>
+<li> 09:49 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
 <li> 09:49 www.techtarget.com</li>
 <li> 09:49 www.google.com</li>
 <li> 09:44 www.amazon.co.uk</li>
