@@ -71,28 +71,28 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9411)</li>
 <li>mail.google.com (6382)</li>
 <li>outlook.office.com (3721)</li>
-<li>www.facebook.com (3061)</li>
+<li>www.facebook.com (3063)</li>
 <li>docs.google.com (1991)</li>
-<li>outlook.office365.com (1738)</li>
+<li>outlook.office365.com (1739)</li>
 <li>calendar.google.com (1557)</li>
 <li>www.reddit.com (1496)</li>
-<li>moodle.royalholloway.ac.uk (1487)</li>
+<li>moodle.royalholloway.ac.uk (1489)</li>
 <li>www.amazon.co.uk (1272)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
-<li>www.linkedin.com (874)</li>
+<li>www.linkedin.com (877)</li>
 <li>gmail.com (814)</li>
-<li>bsky.app (797)</li>
-<li>login.microsoftonline.com (705)</li>
+<li>bsky.app (799)</li>
+<li>login.microsoftonline.com (706)</li>
 <li>chat.openai.com (698)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (531)</li>
+<li>web.whatsapp.com (532)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (487)</li>
-<li>rhul-my.sharepoint.com (476)</li>
+<li>rhul-my.sharepoint.com (477)</li>
 <li>teams.microsoft.com (461)</li>
 <li>kdp.amazon.com (444)</li>
 <li>chatgpt.com (439)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 29/11/24</H3>
+
+<br>
+
+<ul><li> 12:37 outlook.office365.com</li>
+<li> 12:36 bsky.app</li>
+<li> 12:35 rhul-my.sharepoint.com</li>
+<li> 12:35 forms.office.com</li>
+<li> 12:35 login.microsoftonline.com</li>
+<li> 12:35 forms.office.com</li>
+<li> 12:35 moodle.royalholloway.ac.uk</li>
+<li> 12:16 bsky.app</li>
+<li> 12:14 www.linkedin.com</li>
+<li> 12:14 www.facebook.com</li>
+<li> 12:13 web.whatsapp.com</li>
+<li> 12:12 www.facebook.com</li>
+<li> 12:10 www.linkedin.com</li>
+<li class='same'> 12:09 www.linkedin.com</li>
+<li> 12:08 moodle.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
