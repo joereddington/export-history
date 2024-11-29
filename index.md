@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9404)</li>
+<ol><li>www.google.com (9411)</li>
 <li>mail.google.com (6381)</li>
 <li>outlook.office.com (3721)</li>
 <li>www.facebook.com (3061)</li>
@@ -77,13 +77,13 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1557)</li>
 <li>www.reddit.com (1496)</li>
 <li>moodle.royalholloway.ac.uk (1487)</li>
-<li>www.amazon.co.uk (1271)</li>
+<li>www.amazon.co.uk (1272)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (874)</li>
 <li>gmail.com (814)</li>
-<li>bsky.app (795)</li>
+<li>bsky.app (797)</li>
 <li>login.microsoftonline.com (705)</li>
 <li>chat.openai.com (697)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:01 <a href="https://en.wikipedia.org/wiki/Non-disclosure_agreement">Non-disclosure agreement - Wikipedia</a></li>
+<ul><li> 09:49 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
+<li> 09:49 www.techtarget.com</li>
+<li> 09:49 www.google.com</li>
+<li> 09:44 www.amazon.co.uk</li>
+<li> 09:44 www.google.com</li>
+<li> 09:43 <a href="https://en.wikipedia.org/wiki/Security_theater">Security theater - Wikipedia</a></li>
+<li> 09:43 www.google.com</li>
+<li> 09:24 citationhunt.toolforge.org</li>
+<li> 09:24 <a href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed">Wikipedia:Citation needed - Wikipedia</a></li>
+<li> 09:24 www.google.com</li>
+<li class='same'> 09:22 www.google.com</li>
+<li> 09:15 bsky.app</li>
+<li class='same'> 09:07 bsky.app</li>
+<li> 09:05 www.ucl.ac.uk</li>
+<li> 09:05 www.google.com</li>
+<li> 09:03 <a href="https://en.wikipedia.org/wiki/Golden_handcuffs">Golden handcuffs - Wikipedia</a></li>
+<li> 09:03 www.google.com</li>
+<li> 09:01 <a href="https://en.wikipedia.org/wiki/Non-disclosure_agreement">Non-disclosure agreement - Wikipedia</a></li>
 <li> 08:59 www.reddit.com</li>
 <li> 08:59 <a href="https://en.wikipedia.org/wiki/Non-disclosure_agreement">Non-disclosure agreement - Wikipedia</a></li>
 <li> 08:59 www.google.com</li>
