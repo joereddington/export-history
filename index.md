@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9414)</li>
+<ol><li>www.google.com (9419)</li>
 <li>mail.google.com (6399)</li>
 <li>outlook.office.com (3758)</li>
 <li>www.facebook.com (3063)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1742)</li>
+<li>outlook.office365.com (1743)</li>
 <li>calendar.google.com (1561)</li>
-<li>www.reddit.com (1496)</li>
+<li>www.reddit.com (1500)</li>
 <li>moodle.royalholloway.ac.uk (1495)</li>
 <li>www.amazon.co.uk (1272)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (883)</li>
+<li>bsky.app (842)</li>
 <li>gmail.com (820)</li>
-<li>bsky.app (816)</li>
 <li>login.microsoftonline.com (714)</li>
-<li>chat.openai.com (701)</li>
+<li>chat.openai.com (702)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (479)</li>
 <li>teams.microsoft.com (461)</li>
 <li>kdp.amazon.com (444)</li>
-<li>chatgpt.com (442)</li>
+<li>chatgpt.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (358)</li>
 
@@ -105,6 +105,62 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 29/11/24</H3>
+
+<br>
+
+<ul><li> 23:04 outlook.office365.com</li>
+<li> 23:03 www.reddit.com</li>
+<li> 23:03 www.bbc.com</li>
+<li> 23:03 <a href="https://www.bbc.co.uk/news/articles/c207xzrvle6o">University of Essex to cut 200 jobs amid £29m shortfall - BBC News</a></li>
+<li> 23:02 www.reddit.com</li>
+<li> 23:02 bsky.app</li>
+<li class='same'> 23:01 bsky.app</li>
+<li> 23:00 www.google.com</li>
+<li> 23:00 bsky.app</li>
+<li class='same'> 22:59 bsky.app</li>
+<li class='same'> 22:58 bsky.app</li>
+<li class='same'> 22:57 bsky.app</li>
+<li> 22:56 www.citationneeded.news</li>
+<li> 22:55 bsky.app</li>
+<li class='same'> 22:54 bsky.app</li>
+<li> 22:54 bluesky.mgcounts.com</li>
+<li> 22:53 bsky.app</li>
+<li class='same'> 22:52 bsky.app</li>
+<li class='same'> 22:51 bsky.app</li>
+<li class='same'> 22:49 bsky.app</li>
+<li class='same'> 22:47 bsky.app</li>
+<li> 22:46 unfollow.blue</li>
+<li> 22:46 bsky.app</li>
+<li class='same'> 22:45 bsky.app</li>
+<li> 22:45 unfollow.blue</li>
+<li class='same'> 22:44 unfollow.blue</li>
+<li> 22:44 bsky.social</li>
+<li> 22:43 unfollow.blue</li>
+<li> 22:43 www.google.com</li>
+<li> 22:43 www.reddit.com</li>
+<li> 22:43 www.google.com</li>
+<li> 22:42 bsky.app</li>
+<li class='same'> 22:39 bsky.app</li>
+<li class='same'> 22:38 bsky.app</li>
+<li> 22:37 apnews.com</li>
+<li> 22:32 bsky.app</li>
+<li> 22:32 vqv.app</li>
+<li> 22:31 bsky.app</li>
+<li> 22:30 www.google.com</li>
+<li> 22:30 bsky.app</li>
+<li class='same'> 22:28 bsky.app</li>
+<li class='same'> 22:27 bsky.app</li>
+<li> 22:17 vqv.app</li>
+<li> 22:16 bsky.app</li>
+<li class='same'> 22:15 bsky.app</li>
+<li> 22:15 chatgpt.com</li>
+<li class='same'> 22:14 chatgpt.com</li>
+<li> 22:14 chat.openai.com</li>
+<li> 22:14 bsky.app</li>
+<li> 22:14 www.reddit.com</li>
+<li> 22:14 www.google.com</li>
+<li> 22:14 blueskydirectory.com</li>
+</ul>
 
 <br>
 
