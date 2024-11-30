@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1561)</li>
 <li>www.reddit.com (1500)</li>
 <li>moodle.royalholloway.ac.uk (1495)</li>
-<li>www.amazon.co.uk (1272)</li>
+<li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
@@ -21764,12 +21764,9 @@ With number of accesses/minutes in parentheses
 <li> 06:51 www.google.com</li>
 <li> 06:50 forums.raspberrypi.com</li>
 <li> 06:50 www.google.com</li>
-<li> 06:48 www.amazon.co.uk</li>
-<li class='same'> 06:47 www.amazon.co.uk</li>
+<li> 06:47 www.amazon.co.uk</li>
 <li> 06:44 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 06:32 www.ebay.co.uk</li>
-<li class='same'> 06:31 www.ebay.co.uk</li>
-<li class='same'> 06:30 www.ebay.co.uk</li>
+<li> 06:30 www.ebay.co.uk</li>
 <li class='same'> 06:29 www.ebay.co.uk</li>
 <li> 06:27 adblockplus.org</li>
 <li> 06:27 www.google.com</li>
