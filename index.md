@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9419)</li>
-<li>mail.google.com (6399)</li>
+<ol><li>www.google.com (9429)</li>
+<li>mail.google.com (6405)</li>
 <li>outlook.office.com (3758)</li>
-<li>www.facebook.com (3063)</li>
+<li>www.facebook.com (3064)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1743)</li>
+<li>outlook.office365.com (1748)</li>
 <li>calendar.google.com (1561)</li>
-<li>www.reddit.com (1500)</li>
+<li>www.reddit.com (1501)</li>
 <li>moodle.royalholloway.ac.uk (1495)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
-<li>www.linkedin.com (883)</li>
-<li>bsky.app (842)</li>
-<li>gmail.com (820)</li>
+<li>www.linkedin.com (885)</li>
+<li>bsky.app (848)</li>
+<li>gmail.com (822)</li>
 <li>login.microsoftonline.com (714)</li>
-<li>chat.openai.com (702)</li>
+<li>chat.openai.com (703)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (537)</li>
+<li>web.whatsapp.com (538)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>drive.google.com (488)</li>
 <li>rhul-my.sharepoint.com (479)</li>
 <li>teams.microsoft.com (461)</li>
+<li>chatgpt.com (445)</li>
 <li>kdp.amazon.com (444)</li>
-<li>chatgpt.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (358)</li>
 
@@ -104,11 +104,74 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 30/11/24</H3>
+
+<br>
+
+<ul><li> 12:01 bsky.app</li>
+<li> 12:01 outlook.office365.com</li>
+<li> 12:00 www.google.com</li>
+<li> 12:00 outlook.office365.com</li>
+<li> 11:58 www.google.com</li>
+<li> 11:53 outlook.office365.com</li>
+<li> 11:53 mail.google.com</li>
+<li class='same'> 11:52 mail.google.com</li>
+<li> 11:52 gmail.com</li>
+<li> 11:52 www.linkedin.com</li>
+<li> 11:28 ltharper.com</li>
+<li> 11:28 nexusitgroup.com</li>
+<li> 11:28 www.google.com</li>
+<li> 11:27 outlook.office365.com</li>
+<li> 11:27 mail.google.com</li>
+<li> 11:26 www.google.com</li>
+<li> 11:22 mail.google.com</li>
+<li> 11:22 www.citationneeded.news</li>
+<li> 11:22 mail.google.com</li>
+<li> 11:22 mayantm.com</li>
+<li> 11:21 mail.google.com</li>
+<li> 11:21 gmail.com</li>
+<li> 11:21 www.fryermiles.com</li>
+<li> 11:21 applybe.com</li>
+<li> 11:21 www.fryermiles.com</li>
+<li> 11:21 www.google.com</li>
+<li> 11:21 www.cwjobs.co.uk</li>
+<li> 11:20 www.google.com</li>
+<li> 11:20 www.cwjobs.co.uk</li>
+<li> 11:19 chatgpt.com</li>
+<li> 11:19 chat.openai.com</li>
+<li> 11:19 www.cwjobs.co.uk</li>
+<li class='same'> 11:18 www.cwjobs.co.uk</li>
+<li> 11:17 www.ciisec.org</li>
+<li> 11:17 www.ukcybersecuritycouncil.org.uk</li>
+<li class='same'> 11:16 www.ukcybersecuritycouncil.org.uk</li>
+<li> 11:16 www.google.com</li>
+<li> 11:16 www.cwjobs.co.uk</li>
+<li> 11:16 www.google.com</li>
+<li> 11:15 www.reddit.com</li>
+<li> 11:15 www.google.com</li>
+<li> 11:14 www.linkedin.com</li>
+<li> 11:14 outlook.office365.com</li>
+<li> 11:13 bsky.app</li>
+<li> 11:13 www.bluey.tv</li>
+<li class='same'> 11:12 www.bluey.tv</li>
+<li> 11:12 www.google.com</li>
+<li> 11:11 bsky.app</li>
+<li> 11:08 www.facebook.com</li>
+<li> 11:07 web.whatsapp.com</li>
+<li> 11:03 bsky.app</li>
+<li class='same'> 11:02 bsky.app</li>
+</ul>
+
 <H3>Friday, 29/11/24</H3>
 
 <br>
 
-<ul><li> 23:04 outlook.office365.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 23:04 bsky.app</li>
+<li> 23:04 outlook.office365.com</li>
 <li> 23:03 www.reddit.com</li>
 <li> 23:03 www.bbc.com</li>
 <li> 23:03 <a href="https://www.bbc.co.uk/news/articles/c207xzrvle6o">University of Essex to cut 200 jobs amid £29m shortfall - BBC News</a></li>
