@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9432)</li>
+<ol><li>www.google.com (9450)</li>
 <li>mail.google.com (6409)</li>
 <li>outlook.office.com (3758)</li>
 <li>www.facebook.com (3064)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1749)</li>
 <li>calendar.google.com (1561)</li>
-<li>www.reddit.com (1503)</li>
+<li>www.reddit.com (1508)</li>
 <li>moodle.royalholloway.ac.uk (1495)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (885)</li>
-<li>bsky.app (860)</li>
+<li>bsky.app (861)</li>
 <li>gmail.com (823)</li>
 <li>login.microsoftonline.com (714)</li>
 <li>chat.openai.com (704)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:37 pure.royalholloway.ac.uk</li>
+<ul><li> 20:38 www.google.com</li>
+<li class='same'> 20:29 www.google.com</li>
+<li> 20:28 blueskydirectory.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:38 www.academia.edu</li>
+<li> 18:38 www.google.com</li>
+<li> 18:37 pure.royalholloway.ac.uk</li>
 <li> 18:37 www.google.com</li>
 <li> 18:29 mail.google.com</li>
 <li> 18:29 gmail.com</li>
@@ -208,6 +217,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:02 bsky.app</li>
 </ul>
 
+<br>
+
+<ul><li> 07:53 blueskydirectory.com</li>
+<li class='same'> 07:51 blueskydirectory.com</li>
+</ul>
+
 <H3>Friday, 29/11/24</H3>
 
 <br>
@@ -216,7 +231,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 23:04 bsky.app</li>
+<ul><li> 23:04 bsky.app</li>
 <li> 23:04 outlook.office365.com</li>
 <li> 23:03 www.reddit.com</li>
 <li> 23:03 www.bbc.com</li>
@@ -269,6 +284,23 @@ With number of accesses/minutes in parentheses
 <li> 22:14 www.reddit.com</li>
 <li> 22:14 www.google.com</li>
 <li> 22:14 blueskydirectory.com</li>
+<li> 22:12 clearsky.app</li>
+<li> 22:10 vqv.app</li>
+<li> 22:10 www.google.com</li>
+<li> 22:08 blueskydirectory.com</li>
+<li class='same'> 22:07 blueskydirectory.com</li>
+<li> 22:06 clearsky.app</li>
+<li> 22:04 www.google.com</li>
+<li> 22:04 www.independent.co.uk</li>
+<li> 22:04 www.google.com</li>
+<li> 22:03 www.independent.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:24 www.independent.co.uk</li>
+<li class='same'> 19:23 www.independent.co.uk</li>
+<li> 19:23 theweek.com</li>
 </ul>
 
 <br>
@@ -564,6 +596,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:57 theweek.com</li>
+<li> 20:55 news.sky.com</li>
+</ul>
+
+<br>
+
 <ul><li> 20:06 www.reddit.com</li>
 <li> 20:05 <a href="https://www.youtube.com/watch?v=SwYl-BmTUdw">(6) 1940s - The Ideal Diet - YouTube</a></li>
 <li> 20:05 <a href="https://www.youtube.com/watch?si=YOIPhK0HM2DFzCZP&v=SwYl-BmTUdw&feature=youtu.be&themeRefresh=1">1940s - The Ideal Diet - YouTube</a></li>
@@ -614,7 +652,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:53 bsky.app</li>
+<ul><li> 18:03 m.youtube.com</li>
+<li class='same'> 18:02 m.youtube.com</li>
+<li class='same'> 18:01 m.youtube.com</li>
+<li> 18:01 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:20 www.google.com</li>
+<li> 16:19 www.gsk.com</li>
+<li> 16:19 www.google.com</li>
+<li class='same'> 16:18 www.google.com</li>
+<li> 16:18 careers.ba.com</li>
+<li> 16:17 www.google.com</li>
+<li> 16:17 www.reddit.com</li>
+<li> 15:53 bsky.app</li>
 <li class='same'> 15:52 bsky.app</li>
 <li> 15:52 www.linkedin.com</li>
 <li> 15:50 www.royalholloway.ac.uk</li>
@@ -655,7 +708,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:53 mail.google.com</li>
+<ul><li> 14:40 www.reddit.com</li>
+<li class='same'> 14:21 www.reddit.com</li>
+<li> 14:20 www.google.com</li>
+<li> 14:20 www.reddit.com</li>
+<li> 14:20 www.google.com</li>
+<li> 14:19 www.reddit.com</li>
+<li> 14:19 www.google.com</li>
+<li> 13:53 mail.google.com</li>
 <li> 13:52 tvtropes.org</li>
 <li> 13:51 chatgpt.com</li>
 <li> 13:51 chat.openai.com</li>
@@ -1556,6 +1616,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:20 www.google.com</li>
+<li class='same'> 12:19 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:41 claude.ai</li>
 <li class='same'> 11:40 claude.ai</li>
 <li> 11:40 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=edit">T-Mobile data breach - Wikipedia</a></li>
@@ -1611,6 +1677,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:15 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 07:15 www.google.com</li>
+<li class='same'> 06:57 www.google.com</li>
+<li> 06:56 accounts.google.com</li>
 <li> 06:47 www.lexology.com</li>
 <li> 06:44 <a href="https://en.wikipedia.org/wiki/British_Airways">British Airways - Wikipedia</a></li>
 <li> 06:44 www.google.com</li>
@@ -1631,13 +1699,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 19:24 www.google.com</li>
+<ul><li class='same'> 23:07 www.google.com</li>
+<li> 23:07 accounts.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:24 www.google.com</li>
 <li> 19:24 bjjfanatics.com</li>
 <li> 19:23 www.google.com</li>
 <li class='same'> 19:19 www.google.com</li>
 <li class='same'> 19:18 www.google.com</li>
 <li> 19:16 www.flograppling.com</li>
 <li> 19:14 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:32 accounts.google.com</li>
+<li class='same'> 18:31 accounts.google.com</li>
 </ul>
 
 <br>
@@ -85795,6 +85875,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:30 bsky.app</li>
 <li> 17:27 www.facebook.com</li>
 <li> 17:25 bsky.app</li>
+<li class='same'> 17:24 bsky.app</li>
 <li class='same'> 17:23 bsky.app</li>
 </ul>
 
