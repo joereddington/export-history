@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9429)</li>
-<li>mail.google.com (6405)</li>
+<ol><li>www.google.com (9430)</li>
+<li>mail.google.com (6407)</li>
 <li>outlook.office.com (3758)</li>
 <li>www.facebook.com (3064)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1749)</li>
 <li>calendar.google.com (1561)</li>
-<li>www.reddit.com (1501)</li>
+<li>www.reddit.com (1502)</li>
 <li>moodle.royalholloway.ac.uk (1495)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (885)</li>
-<li>bsky.app (848)</li>
+<li>bsky.app (857)</li>
 <li>gmail.com (822)</li>
 <li>login.microsoftonline.com (714)</li>
-<li>chat.openai.com (703)</li>
+<li>chat.openai.com (704)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (488)</li>
 <li>rhul-my.sharepoint.com (479)</li>
 <li>teams.microsoft.com (461)</li>
-<li>chatgpt.com (445)</li>
+<li>chatgpt.com (446)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (358)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:02 outlook.office365.com</li>
+<ul><li> 13:27 lantto.github.io</li>
+<li> 13:27 www.reddit.com</li>
+<li> 13:27 www.google.com</li>
+<li> 13:25 bsky.app</li>
+<li class='same'> 13:24 bsky.app</li>
+<li class='same'> 13:23 bsky.app</li>
+<li> 13:23 mail.google.com</li>
+<li> 13:23 bsky.app</li>
+<li class='same'> 13:22 bsky.app</li>
+<li class='same'> 13:21 bsky.app</li>
+<li> 13:19 chatgpt.com</li>
+<li> 13:19 chat.openai.com</li>
+<li> 13:19 bsky.app</li>
+<li class='same'> 13:18 bsky.app</li>
+<li> 13:18 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:14 bsky.app</li>
+<li> 12:02 outlook.office365.com</li>
 <li> 12:01 bsky.app</li>
 <li> 12:01 outlook.office365.com</li>
 <li> 12:00 www.google.com</li>
