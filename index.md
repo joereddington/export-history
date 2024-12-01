@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9467)</li>
+<ol><li>www.google.com (9469)</li>
 <li>mail.google.com (6418)</li>
 <li>outlook.office.com (3758)</li>
-<li>www.facebook.com (3070)</li>
+<li>www.facebook.com (3071)</li>
 <li>docs.google.com (1996)</li>
 <li>outlook.office365.com (1749)</li>
 <li>calendar.google.com (1561)</li>
@@ -80,12 +80,12 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
+<li>bsky.app (892)</li>
 <li>www.theguardian.com (890)</li>
-<li>bsky.app (888)</li>
 <li>www.linkedin.com (886)</li>
 <li>gmail.com (823)</li>
 <li>login.microsoftonline.com (715)</li>
-<li>chat.openai.com (704)</li>
+<li>chat.openai.com (705)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (489)</li>
 <li>rhul-my.sharepoint.com (479)</li>
 <li>teams.microsoft.com (461)</li>
-<li>chatgpt.com (446)</li>
+<li>chatgpt.com (447)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (358)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:35 www.facebook.com</li>
+<ul><li> 13:54 <a href="https://en.wikipedia.org/wiki/Talk:Peter_Lely">Talk:Peter Lely - Wikipedia</a></li>
+<li> 13:54 <a href="https://en.wikipedia.org/wiki/Peter_Lely">Peter Lely - Wikipedia</a></li>
+<li> 13:54 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Lely&action=info">Information for "Peter Lely" - Wikipedia</a></li>
+<li> 13:54 <a href="https://en.wikipedia.org/wiki/Peter_Lely">Peter Lely - Wikipedia</a></li>
+<li> 13:53 bsky.app</li>
+<li> 13:53 <a href="https://en.wikipedia.org/wiki/Talk:Peter_Lely#Date_of_Death">Talk:Peter Lely - Wikipedia</a></li>
+<li> 13:53 <a href="https://en.wikipedia.org/wiki/Talk:Peter_Lely#Date_of_Death-DoesNotExist-DiscussionToolsHack">Talk:Peter Lely - Wikipedia</a></li>
+<li> 13:52 <a href="https://en.wikipedia.org/wiki/Talk:Peter_Lely">Talk:Peter Lely - Wikipedia</a></li>
+<li> 13:52 <a href="https://en.wikipedia.org/wiki/Peter_Lely">Peter Lely - Wikipedia</a></li>
+<li> 13:51 chatgpt.com</li>
+<li> 13:51 chat.openai.com</li>
+<li> 13:49 blueskydirectory.com</li>
+<li> 13:48 <a href="https://en.wikipedia.org/wiki/Peter_Lely?veswitched=1&oldid=1259855415&action=edit">Editing Peter Lely - Wikipedia</a></li>
+<li> 13:48 <a href="https://en.wikipedia.org/wiki/Peter_Lely?action=edit&veswitched=1">Editing Peter Lely - Wikipedia</a></li>
+<li> 13:48 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Lely&action=edit">Editing Peter Lely - Wikipedia</a></li>
+<li> 13:47 bsky.app</li>
+<li> 13:47 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Lely&action=history">Peter Lely: Revision history - Wikipedia</a></li>
+<li> 13:47 <a href="https://en.wikipedia.org/wiki/Talk:Peter_Lely">Talk:Peter Lely - Wikipedia</a></li>
+<li> 13:46 <a href="https://en.wikipedia.org/wiki/Peter_Lely">Peter Lely - Wikipedia</a></li>
+<li> 13:46 www.google.com</li>
+<li> 13:46 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:46 www.google.com</li>
+<li> 13:46 bsky.app</li>
+<li class='same'> 13:45 bsky.app</li>
+<li> 13:45 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:35 www.facebook.com</li>
 <li> 12:35 mail.google.com</li>
 <li> 12:34 bsky.app</li>
 <li class='same'> 12:31 bsky.app</li>
