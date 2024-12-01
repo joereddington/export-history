@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9467)</li>
-<li>mail.google.com (6415)</li>
+<li>mail.google.com (6418)</li>
 <li>outlook.office.com (3758)</li>
-<li>www.facebook.com (3066)</li>
+<li>www.facebook.com (3070)</li>
 <li>docs.google.com (1996)</li>
 <li>outlook.office365.com (1749)</li>
 <li>calendar.google.com (1561)</li>
@@ -81,8 +81,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
+<li>bsky.app (888)</li>
 <li>www.linkedin.com (886)</li>
-<li>bsky.app (878)</li>
 <li>gmail.com (823)</li>
 <li>login.microsoftonline.com (715)</li>
 <li>chat.openai.com (704)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:02 twinings.co.uk</li>
+<ul><li> 12:35 www.facebook.com</li>
+<li> 12:35 mail.google.com</li>
+<li> 12:34 bsky.app</li>
+<li class='same'> 12:31 bsky.app</li>
+<li class='same'> 12:30 bsky.app</li>
+<li class='same'> 12:29 bsky.app</li>
+<li class='same'> 12:28 bsky.app</li>
+<li> 12:22 mail.google.com</li>
+<li> 12:22 bsky.app</li>
+<li class='same'> 12:21 bsky.app</li>
+<li class='same'> 12:19 bsky.app</li>
+<li> 12:19 www.facebook.com</li>
+<li class='same'> 12:18 www.facebook.com</li>
+<li class='same'> 12:16 www.facebook.com</li>
+<li> 12:15 unfollow.blue</li>
+<li> 12:15 mail.google.com</li>
+<li> 12:15 bsky.app</li>
+<li class='same'> 12:14 bsky.app</li>
+<li> 12:02 twinings.co.uk</li>
 <li> 12:02 www.google.com</li>
 <li> 12:02 bsky.app</li>
 <li class='same'> 12:00 bsky.app</li>
