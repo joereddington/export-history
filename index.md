@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9462)</li>
+<ol><li>www.google.com (9467)</li>
 <li>mail.google.com (6415)</li>
 <li>outlook.office.com (3758)</li>
-<li>www.facebook.com (3065)</li>
+<li>www.facebook.com (3066)</li>
 <li>docs.google.com (1996)</li>
 <li>outlook.office365.com (1749)</li>
 <li>calendar.google.com (1561)</li>
-<li>www.reddit.com (1509)</li>
+<li>www.reddit.com (1510)</li>
 <li>moodle.royalholloway.ac.uk (1497)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (886)</li>
-<li>bsky.app (871)</li>
+<li>bsky.app (878)</li>
 <li>gmail.com (823)</li>
 <li>login.microsoftonline.com (715)</li>
 <li>chat.openai.com (704)</li>
@@ -105,6 +105,36 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 01/12/24</H3>
+
+<br>
+
+<ul><li> 12:02 twinings.co.uk</li>
+<li> 12:02 www.google.com</li>
+<li> 12:02 bsky.app</li>
+<li class='same'> 12:00 bsky.app</li>
+<li class='same'> 11:59 bsky.app</li>
+<li class='same'> 11:58 bsky.app</li>
+<li> 11:58 <a href="https://en.wikipedia.org/wiki/Peter_Lely#/media/File:Lely,_Sir_Peter_-_Nymphs_by_a_Fountain_-_Google_Art_Project.jpg">Peter Lely - Wikipedia</a></li>
+<li> 11:58 <a href="https://en.wikipedia.org/wiki/Peter_Lely#/media/File:Lely_-_Portrait_of_an_Unknown_Woman_-_Tate.jpg">Peter Lely - Wikipedia</a></li>
+<li> 11:56 www.britannica.com</li>
+<li> 11:56 www.nga.gov</li>
+<li> 11:56 www.britannica.com</li>
+<li> 11:56 <a href="https://en.wikipedia.org/wiki/Peter_Lely">Peter Lely - Wikipedia</a></li>
+<li> 11:56 www.paul-mellon-centre.ac.uk</li>
+<li> 11:56 www.google.com</li>
+<li> 11:56 bsky.app</li>
+<li> 11:52 www.facebook.com</li>
+<li> 11:51 www.google.com</li>
+<li> 11:51 www.reddit.com</li>
+<li> 11:51 www.google.com</li>
+<li> 11:51 bsky.app</li>
+<li class='same'> 11:46 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 10:25 www.google.com</li>
+</ul>
 
 <br>
 
