@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9450)</li>
-<li>mail.google.com (6409)</li>
+<ol><li>www.google.com (9457)</li>
+<li>mail.google.com (6410)</li>
 <li>outlook.office.com (3758)</li>
 <li>www.facebook.com (3064)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1749)</li>
 <li>calendar.google.com (1561)</li>
-<li>www.reddit.com (1508)</li>
-<li>moodle.royalholloway.ac.uk (1495)</li>
+<li>www.reddit.com (1509)</li>
+<li>moodle.royalholloway.ac.uk (1497)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (885)</li>
 <li>bsky.app (861)</li>
 <li>gmail.com (823)</li>
-<li>login.microsoftonline.com (714)</li>
+<li>login.microsoftonline.com (715)</li>
 <li>chat.openai.com (704)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
@@ -104,11 +104,42 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 01/12/24</H3>
+
+<br>
+
+<ul><li> 07:03 next-ventures.com</li>
+<li class='same'> 07:02 next-ventures.com</li>
+<li> 07:02 www.google.com</li>
+<li class='same'> 07:00 www.google.com</li>
+<li> 06:59 repository.royalholloway.ac.uk</li>
+<li> 06:59 moodle.royalholloway.ac.uk</li>
+<li> 06:59 login.microsoftonline.com</li>
+<li> 06:59 moodle.royalholloway.ac.uk</li>
+<li> 06:58 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:56 www.barclaysimpson.com</li>
+<li> 06:56 www.google.com</li>
+<li class='same'> 06:55 www.google.com</li>
+<li> 06:55 nexusitgroup.com</li>
+<li> 06:53 www.reddit.com</li>
+<li> 06:53 nexusitgroup.com</li>
+<li> 06:53 www.google.com</li>
+<li> 06:53 mail.google.com</li>
+<li> 06:27 www.google.com</li>
+</ul>
+
 <H3>Saturday, 30/11/24</H3>
 
 <br>
 
-<ul><li> 20:38 www.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:52 www.google.com</li>
+<li class='same'> 20:38 www.google.com</li>
 <li class='same'> 20:29 www.google.com</li>
 <li> 20:28 blueskydirectory.com</li>
 </ul>
