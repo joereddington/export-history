@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9457)</li>
-<li>mail.google.com (6410)</li>
+<ol><li>www.google.com (9462)</li>
+<li>mail.google.com (6412)</li>
 <li>outlook.office.com (3758)</li>
 <li>www.facebook.com (3064)</li>
-<li>docs.google.com (1995)</li>
+<li>docs.google.com (1996)</li>
 <li>outlook.office365.com (1749)</li>
 <li>calendar.google.com (1561)</li>
 <li>www.reddit.com (1509)</li>
@@ -81,8 +81,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
-<li>www.linkedin.com (885)</li>
-<li>bsky.app (861)</li>
+<li>www.linkedin.com (886)</li>
+<li>bsky.app (863)</li>
 <li>gmail.com (823)</li>
 <li>login.microsoftonline.com (715)</li>
 <li>chat.openai.com (704)</li>
@@ -90,8 +90,8 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (538)</li>
+<li>drive.google.com (489)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>drive.google.com (488)</li>
 <li>rhul-my.sharepoint.com (479)</li>
 <li>teams.microsoft.com (461)</li>
 <li>chatgpt.com (446)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:03 next-ventures.com</li>
+<ul><li> 08:07 bsky.app</li>
+<li> 08:07 stevepavlina.bsky.social</li>
+<li> 08:07 bsky.app</li>
+<li> 08:07 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:24 infosecpeople.vincere-digital.io</li>
+<li> 07:24 www.infosecpeople.co.uk</li>
+<li> 07:24 www.viqu.co.uk</li>
+<li> 07:24 www.google.com</li>
+<li> 07:24 www.infosecpeople.co.uk</li>
+<li> 07:24 www.google.com</li>
+<li> 07:23 elitecyber-group.com</li>
+<li> 07:23 www.barclaysimpson.com</li>
+<li class='same'> 07:22 www.barclaysimpson.com</li>
+<li> 07:22 elitecyber-group.com</li>
+<li> 07:22 www.google.com</li>
+<li> 07:22 www.barclaysimpson.com</li>
+<li> 07:21 mail.google.com</li>
+<li> 07:20 ltharper.com</li>
+<li> 07:19 docs.google.com</li>
+<li> 07:19 drive.google.com</li>
+<li> 07:19 www.google.com</li>
+<li> 07:18 elitecyber-group.com</li>
+<li class='same'> 07:17 elitecyber-group.com</li>
+<li> 07:16 next-ventures.com</li>
+<li> 07:15 mail.google.com</li>
+<li> 07:06 www.linkedin.com</li>
+<li> 07:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:03 www.google.com</li>
+<li> 07:03 next-ventures.com</li>
 <li class='same'> 07:02 next-ventures.com</li>
 <li> 07:02 www.google.com</li>
 <li class='same'> 07:00 www.google.com</li>
