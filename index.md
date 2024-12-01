@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9462)</li>
-<li>mail.google.com (6412)</li>
+<li>mail.google.com (6415)</li>
 <li>outlook.office.com (3758)</li>
-<li>www.facebook.com (3064)</li>
+<li>www.facebook.com (3065)</li>
 <li>docs.google.com (1996)</li>
 <li>outlook.office365.com (1749)</li>
 <li>calendar.google.com (1561)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (886)</li>
-<li>bsky.app (866)</li>
+<li>bsky.app (871)</li>
 <li>gmail.com (823)</li>
 <li>login.microsoftonline.com (715)</li>
 <li>chat.openai.com (704)</li>
@@ -115,11 +115,18 @@ With number of accesses/minutes in parentheses
 <li> 08:07 stevepavlina.bsky.social</li>
 <li> 08:07 bsky.app</li>
 <li> 08:07 feedly.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:24 infosecpeople.vincere-digital.io</li>
+<li> 07:40 www.facebook.com</li>
+<li> 07:40 mail.google.com</li>
+<li> 07:40 bsky.app</li>
+<li class='same'> 07:39 bsky.app</li>
+<li> 07:39 unfollow.blue</li>
+<li> 07:39 mail.google.com</li>
+<li> 07:39 bsky.app</li>
+<li class='same'> 07:38 bsky.app</li>
+<li class='same'> 07:37 bsky.app</li>
+<li> 07:36 www.viqu.co.uk</li>
+<li> 07:35 mail.google.com</li>
+<li> 07:24 infosecpeople.vincere-digital.io</li>
 <li> 07:24 www.infosecpeople.co.uk</li>
 <li> 07:24 www.viqu.co.uk</li>
 <li> 07:24 www.google.com</li>
