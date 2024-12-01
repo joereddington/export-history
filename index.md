@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (980)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (886)</li>
-<li>bsky.app (863)</li>
+<li>bsky.app (866)</li>
 <li>gmail.com (823)</li>
 <li>login.microsoftonline.com (715)</li>
 <li>chat.openai.com (704)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:07 bsky.app</li>
+<ul><li> 08:14 bsky.app</li>
+<li class='same'> 08:12 bsky.app</li>
+<li class='same'> 08:09 bsky.app</li>
+<li class='same'> 08:07 bsky.app</li>
 <li> 08:07 stevepavlina.bsky.social</li>
 <li> 08:07 bsky.app</li>
 <li> 08:07 feedly.com</li>
