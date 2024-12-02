@@ -69,32 +69,32 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9459)</li>
-<li>mail.google.com (6422)</li>
+<li>mail.google.com (6423)</li>
 <li>outlook.office.com (3758)</li>
 <li>www.facebook.com (3073)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1750)</li>
+<li>outlook.office365.com (1753)</li>
 <li>calendar.google.com (1561)</li>
 <li>www.reddit.com (1517)</li>
-<li>moodle.royalholloway.ac.uk (1499)</li>
+<li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
-<li>bsky.app (897)</li>
+<li>bsky.app (898)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (886)</li>
 <li>gmail.com (824)</li>
 <li>login.microsoftonline.com (717)</li>
-<li>chat.openai.com (705)</li>
+<li>chat.openai.com (706)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (539)</li>
 <li>drive.google.com (489)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>rhul-my.sharepoint.com (482)</li>
+<li>rhul-my.sharepoint.com (483)</li>
 <li>teams.microsoft.com (461)</li>
-<li>chatgpt.com (447)</li>
+<li>chatgpt.com (449)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (358)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 03:36 www.reddit.com</li>
+<ul><li> 10:22 outlook.office365.com</li>
+<li class='same'> 10:21 outlook.office365.com</li>
+<li> 10:21 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 03:55 mail.google.com</li>
+<li> 03:55 outlook.office365.com</li>
+<li> 03:53 moodle.royalholloway.ac.uk</li>
+<li> 03:52 rhul-my.sharepoint.com</li>
+<li> 03:49 chatgpt.com</li>
+<li class='same'> 03:48 chatgpt.com</li>
+<li> 03:48 chat.openai.com</li>
+<li> 03:36 www.reddit.com</li>
 <li class='same'> 03:35 www.reddit.com</li>
 <li class='same'> 03:33 www.reddit.com</li>
 <li> 03:31 bsky.app</li>
