@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9480)</li>
+<ol><li>www.google.com (9483)</li>
 <li>mail.google.com (6424)</li>
 <li>outlook.office.com (3758)</li>
-<li>www.facebook.com (3076)</li>
+<li>www.facebook.com (3077)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1774)</li>
+<li>outlook.office365.com (1778)</li>
 <li>calendar.google.com (1562)</li>
-<li>www.reddit.com (1518)</li>
+<li>www.reddit.com (1520)</li>
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
-<li>bsky.app (914)</li>
+<li>bsky.app (926)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (887)</li>
 <li>gmail.com (824)</li>
 <li>login.microsoftonline.com (717)</li>
-<li>chat.openai.com (707)</li>
+<li>chat.openai.com (708)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (489)</li>
 <li>rhul-my.sharepoint.com (485)</li>
 <li>teams.microsoft.com (462)</li>
-<li>chatgpt.com (450)</li>
+<li>chatgpt.com (451)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (358)</li>
@@ -105,6 +105,35 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 02/12/24</H3>
+
+<br>
+
+<ul><li> 14:20 www.reddit.com</li>
+<li> 14:20 www.google.com</li>
+<li> 14:19 chatgpt.com</li>
+<li> 14:19 chat.openai.com</li>
+<li> 14:19 www.google.com</li>
+<li> 14:17 <a href="https://en.wikipedia.org/wiki/Coursera">Coursera - Wikipedia</a></li>
+<li> 14:17 www.google.com</li>
+<li> 14:15 www.reddit.com</li>
+<li> 14:15 outlook.office365.com</li>
+<li class='same'> 14:14 outlook.office365.com</li>
+<li> 14:13 bsky.app</li>
+<li class='same'> 14:12 bsky.app</li>
+<li class='same'> 14:11 bsky.app</li>
+<li> 14:11 outlook.office365.com</li>
+<li> 14:11 bsky.app</li>
+<li class='same'> 14:10 bsky.app</li>
+<li> 14:10 www.facebook.com</li>
+<li> 14:02 outlook.office365.com</li>
+<li> 14:02 bsky.app</li>
+<li class='same'> 14:01 bsky.app</li>
+<li class='same'> 14:00 bsky.app</li>
+<li class='same'> 13:56 bsky.app</li>
+<li class='same'> 13:55 bsky.app</li>
+<li class='same'> 13:53 bsky.app</li>
+<li class='same'> 13:52 bsky.app</li>
+</ul>
 
 <br>
 
