@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9459)</li>
-<li>mail.google.com (6423)</li>
+<ol><li>www.google.com (9472)</li>
+<li>mail.google.com (6424)</li>
 <li>outlook.office.com (3758)</li>
-<li>www.facebook.com (3073)</li>
+<li>www.facebook.com (3076)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1753)</li>
-<li>calendar.google.com (1561)</li>
+<li>outlook.office365.com (1768)</li>
+<li>calendar.google.com (1562)</li>
 <li>www.reddit.com (1517)</li>
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
-<li>bsky.app (898)</li>
+<li>bsky.app (902)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (886)</li>
 <li>gmail.com (824)</li>
 <li>login.microsoftonline.com (717)</li>
-<li>chat.openai.com (706)</li>
+<li>chat.openai.com (707)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (539)</li>
 <li>drive.google.com (489)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>rhul-my.sharepoint.com (483)</li>
+<li>rhul-my.sharepoint.com (485)</li>
 <li>teams.microsoft.com (461)</li>
-<li>chatgpt.com (449)</li>
+<li>chatgpt.com (450)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (358)</li>
@@ -108,7 +108,70 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:22 outlook.office365.com</li>
+<ul><li> 11:18 chatgpt.com</li>
+<li> 11:18 chat.openai.com</li>
+<li> 11:14 <a href="https://en.wikipedia.org/wiki/Audit">Audit - Wikipedia</a></li>
+<li> 11:14 www.google.com</li>
+<li> 11:14 elisoftware.org</li>
+<li> 11:13 www.google.com</li>
+<li> 11:12 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 11:12 bsky.app</li>
+<li> 11:12 webstersdictionary1828.com</li>
+<li> 11:11 www.google.com</li>
+<li> 11:10 www.coursera.org</li>
+<li class='same'> 11:09 www.coursera.org</li>
+<li> 11:08 www.itgovernance.co.uk</li>
+<li> 11:08 www.google.com</li>
+<li> 11:05 rhul-my.sharepoint.com</li>
+<li> 11:03 www.coursera.org</li>
+<li> 11:03 www.google.com</li>
+<li> 11:02 www.coursera.org</li>
+<li> 11:02 www.google.com</li>
+<li> 11:01 www.coursera.org</li>
+<li> 11:01 bsky.app</li>
+<li class='same'> 11:00 bsky.app</li>
+<li> 11:00 mail.google.com</li>
+<li> 11:00 www.businessinsider.com</li>
+<li> 10:59 www.google.com</li>
+<li> 10:59 www.coursera.org</li>
+<li> 10:59 www.google.com</li>
+<li> 10:59 www.coursera.org</li>
+<li class='same'> 10:58 www.coursera.org</li>
+<li> 10:58 www.google.com</li>
+<li> 10:58 www.coursera.org</li>
+<li> 10:57 www.google.com</li>
+<li> 10:57 intranet.royalholloway.ac.uk</li>
+<li> 10:57 www.google.com</li>
+<li> 10:56 calendar.google.com</li>
+<li> 10:56 outlook.office365.com</li>
+<li class='same'> 10:55 outlook.office365.com</li>
+<li class='same'> 10:54 outlook.office365.com</li>
+<li> 10:53 www.coursera.org</li>
+<li> 10:53 outlook.office365.com</li>
+<li class='same'> 10:52 outlook.office365.com</li>
+<li> 10:52 www.coursera.org</li>
+<li class='same'> 10:51 www.coursera.org</li>
+<li> 10:51 outlook.office365.com</li>
+<li> 10:51 www.coursera.org</li>
+<li class='same'> 10:50 www.coursera.org</li>
+<li> 10:49 outlook.office365.com</li>
+<li class='same'> 10:48 outlook.office365.com</li>
+<li class='same'> 10:47 outlook.office365.com</li>
+<li class='same'> 10:46 outlook.office365.com</li>
+<li> 10:43 rhul-my.sharepoint.com</li>
+<li> 10:42 outlook.office365.com</li>
+<li> 10:42 intranet.royalholloway.ac.uk</li>
+<li> 10:42 outlook.office365.com</li>
+<li> 10:40 www.google.com</li>
+<li> 10:39 www.facebook.com</li>
+<li class='same'> 10:38 www.facebook.com</li>
+<li class='same'> 10:37 www.facebook.com</li>
+<li> 10:37 www.google.com</li>
+<li> 10:36 outlook.office365.com</li>
+<li> 10:35 bsky.app</li>
+<li> 10:35 outlook.office365.com</li>
+<li class='same'> 10:34 outlook.office365.com</li>
+<li class='same'> 10:22 outlook.office365.com</li>
 <li class='same'> 10:21 outlook.office365.com</li>
 <li> 10:21 bsky.app</li>
 </ul>
