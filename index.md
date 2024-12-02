@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:55 www.linkedin.com</li>
+<ul><li> 16:59 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
+<li> 16:59 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:59 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 16:55 www.linkedin.com</li>
 <li> 16:55 outlook.office.com</li>
 <li> 16:55 www.linkedin.com</li>
 <li> 16:54 publish.buffer.com</li>
