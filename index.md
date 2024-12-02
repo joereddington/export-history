@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9483)</li>
+<ol><li>www.google.com (9486)</li>
 <li>mail.google.com (6424)</li>
 <li>outlook.office.com (3758)</li>
 <li>www.facebook.com (3077)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1778)</li>
+<li>outlook.office365.com (1785)</li>
 <li>calendar.google.com (1562)</li>
-<li>www.reddit.com (1520)</li>
+<li>www.reddit.com (1522)</li>
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
-<li>bsky.app (926)</li>
+<li>bsky.app (939)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (887)</li>
 <li>gmail.com (824)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:20 www.reddit.com</li>
+<ul><li> 15:16 outlook.office365.com</li>
+<li class='same'> 15:14 outlook.office365.com</li>
+<li> 15:14 bsky.app</li>
+<li class='same'> 15:13 bsky.app</li>
+<li class='same'> 15:12 bsky.app</li>
+<li class='same'> 15:11 bsky.app</li>
+<li> 15:11 outlook.office365.com</li>
+<li> 15:11 bsky.app</li>
+<li> 15:11 outlook.office365.com</li>
+<li class='same'> 14:55 outlook.office365.com</li>
+<li> 14:53 www.coursera.org</li>
+<li class='same'> 14:51 www.coursera.org</li>
+<li> 14:50 clearsky.app</li>
+<li class='same'> 14:49 clearsky.app</li>
+<li> 14:49 bsky.app</li>
+<li> 14:49 www.google.com</li>
+<li> 14:48 bsky.app</li>
+<li> 14:48 www.google.com</li>
+<li> 14:30 bsky.app</li>
+<li class='same'> 14:29 bsky.app</li>
+<li class='same'> 14:28 bsky.app</li>
+<li class='same'> 14:27 bsky.app</li>
+<li class='same'> 14:25 bsky.app</li>
+<li> 14:24 outlook.office365.com</li>
+<li> 14:24 www.google.com</li>
+<li> 14:23 bsky.app</li>
+<li> 14:23 outlook.office365.com</li>
+<li> 14:22 www.reddit.com</li>
+<li class='same'> 14:21 www.reddit.com</li>
+<li class='same'> 14:20 www.reddit.com</li>
 <li> 14:20 www.google.com</li>
 <li> 14:19 chatgpt.com</li>
 <li> 14:19 chat.openai.com</li>
