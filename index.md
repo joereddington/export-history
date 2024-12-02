@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9470)</li>
+<ol><li>www.google.com (9459)</li>
 <li>mail.google.com (6422)</li>
 <li>outlook.office.com (3758)</li>
 <li>www.facebook.com (3073)</li>
-<li>docs.google.com (1996)</li>
+<li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1750)</li>
-<li>calendar.google.com (1562)</li>
+<li>calendar.google.com (1561)</li>
 <li>www.reddit.com (1517)</li>
 <li>moodle.royalholloway.ac.uk (1499)</li>
 <li>www.amazon.co.uk (1271)</li>
@@ -21656,7 +21656,6 @@ With number of accesses/minutes in parentheses
 <li> 11:47 forms.office.com</li>
 <li> 11:47 login.microsoftonline.com</li>
 <li> 11:47 forms.office.com</li>
-<li> 11:47 eur03.safelinks.protection.outlook.com</li>
 <li> 11:47 outlook.office.com</li>
 <li class='same'> 11:46 outlook.office.com</li>
 <li> 11:45 calendar.google.com</li>
@@ -21691,14 +21690,12 @@ With number of accesses/minutes in parentheses
 <li> 10:58 moodle2324.royalholloway.ac.uk</li>
 <li class='same'> 10:57 moodle2324.royalholloway.ac.uk</li>
 <li> 10:57 login.microsoftonline.com</li>
-<li> 10:57 eur03.safelinks.protection.outlook.com</li>
 <li> 10:57 outlook.office.com</li>
 <li class='same'> 10:56 outlook.office.com</li>
 <li> 10:55 Local file</li>
 <li> 10:55 outlook.office.com</li>
 <li> 10:54 docs.google.com</li>
 <li> 10:54 forms.gle</li>
-<li> 10:54 eur03.safelinks.protection.outlook.com</li>
 <li> 10:54 outlook.office.com</li>
 <li class='same'> 10:50 outlook.office.com</li>
 <li class='same'> 10:49 outlook.office.com</li>
@@ -21723,23 +21720,18 @@ With number of accesses/minutes in parentheses
 <li> 10:39 mail.rhul.ac.uk</li>
 <li> 10:39 mail.google.com</li>
 <li> 10:39 calendar.google.com</li>
-<li> 10:39 www.google.com</li>
-<li> 10:39 calendar.google.com</li>
 <li> 10:39 mail.google.com</li>
 <li> 10:39 admin.google.com</li>
 <li> 10:39 accounts.google.com</li>
-<li> 10:39 www.google.com</li>
 <li> 10:39 calendar.google.com</li>
 <li> 10:39 accounts.google.com</li>
 <li> 10:39 mail.google.com</li>
 <li class='same'> 10:38 mail.google.com</li>
 <li class='same'> 10:37 mail.google.com</li>
-<li> 10:37 www.google.com</li>
 <li> 10:37 charitiesbuyinggroup.us18.list-manage.com</li>
 <li> 10:35 mail.google.com</li>
 <li class='same'> 10:34 mail.google.com</li>
-<li> 10:34 mail-attachment.googleusercontent.com</li>
-<li> 10:33 mail.google.com</li>
+<li class='same'> 10:33 mail.google.com</li>
 <li class='same'> 10:32 mail.google.com</li>
 <li> 10:32 www.amazon.co.uk</li>
 <li class='same'> 10:31 www.amazon.co.uk</li>
@@ -21748,11 +21740,9 @@ With number of accesses/minutes in parentheses
 <li> 10:29 mail.google.com</li>
 <li> 10:26 qbo.intuit.com</li>
 <li> 10:26 mail.google.com</li>
-<li> 10:26 mail-attachment.googleusercontent.com</li>
-<li> 10:25 mail.google.com</li>
+<li class='same'> 10:25 mail.google.com</li>
 <li> 10:24 qbo.intuit.com</li>
 <li> 10:24 mail.google.com</li>
-<li> 10:23 intuit-qbo-prod-27.s3.amazonaws.com</li>
 <li> 10:23 qbo.intuit.com</li>
 <li class='same'> 10:22 qbo.intuit.com</li>
 <li class='same'> 10:21 qbo.intuit.com</li>
@@ -21761,7 +21751,6 @@ With number of accesses/minutes in parentheses
 <li> 10:19 c14.qbo.intuit.com</li>
 <li> 10:19 app.qbo.intuit.com</li>
 <li> 10:19 accounts.intuit.com</li>
-<li> 10:19 mail-attachment.googleusercontent.com</li>
 <li> 10:19 mail.google.com</li>
 <li class='same'> 10:18 mail.google.com</li>
 <li> 10:11 equalitytime.co.uk</li>
@@ -21774,7 +21763,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:59 kdp.amazon.com</li>
 <li> 09:58 mail.google.com</li>
 <li class='same'> 09:57 mail.google.com</li>
-<li> 09:56 alb.reddit.com</li>
 <li> 09:56 accounts.reddit.com</li>
 <li> 09:55 www.reddit.com</li>
 <li> 09:55 www.google.com</li>
@@ -21786,7 +21774,6 @@ With number of accesses/minutes in parentheses
 <li> 09:52 mail.google.com</li>
 <li class='same'> 09:39 mail.google.com</li>
 <li> 09:36 idam-ui.company-information.service.gov.uk</li>
-<li> 09:36 ewf.companieshouse.gov.uk</li>
 <li> 09:34 mail.google.com</li>
 <li> 09:26 web.whatsapp.com</li>
 <li> 09:25 mail.google.com</li>
@@ -21825,20 +21812,16 @@ With number of accesses/minutes in parentheses
 <li> 08:57 mail.google.com</li>
 <li> 08:56 ewf.companieshouse.gov.uk</li>
 <li class='same'> 08:55 ewf.companieshouse.gov.uk</li>
-<li> 08:55 api-payments.company-information.service.gov.uk</li>
 <li> 08:54 www.paypal.com</li>
 <li class='same'> 08:53 www.paypal.com</li>
 <li> 08:53 payments.company-information.service.gov.uk</li>
 <li> 08:53 ewf.companieshouse.gov.uk</li>
 <li class='same'> 08:52 ewf.companieshouse.gov.uk</li>
-<li> 08:52 idam.company-information.service.gov.uk</li>
-<li> 08:52 ewf.companieshouse.gov.uk</li>
 <li> 08:51 idam-ui.company-information.service.gov.uk</li>
 <li> 08:51 ewf.companieshouse.gov.uk</li>
 <li> 08:51 idam-ui.company-information.service.gov.uk</li>
 <li> 08:51 mail.google.com</li>
 <li> 08:51 idam-ui.company-information.service.gov.uk</li>
-<li> 08:51 ewf.companieshouse.gov.uk</li>
 <li> 08:51 www.gov.uk</li>
 <li> 08:51 www.google.com</li>
 <li> 08:50 docs.google.com</li>
@@ -21856,13 +21839,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:41 www.facebook.com</li>
 <li> 08:41 www.moonpig.com</li>
 <li> 08:40 docs.google.com</li>
-<li> 08:40 www.google.com</li>
-<li> 08:40 docs.google.com</li>
 <li> 08:40 mail.google.com</li>
 <li class='same'> 08:36 mail.google.com</li>
 <li class='same'> 08:35 mail.google.com</li>
 <li> 08:35 contacts.globenewswire.com</li>
-<li> 08:35 www.google.com</li>
 <li> 08:35 mail.google.com</li>
 <li class='same'> 08:34 mail.google.com</li>
 <li> 08:34 www.linkedin.com</li>
@@ -21870,18 +21850,12 @@ With number of accesses/minutes in parentheses
 <li> 08:33 mail.google.com</li>
 <li> 08:32 www.nestpensions.org.uk</li>
 <li class='same'> 08:31 www.nestpensions.org.uk</li>
-<li> 08:31 www.google.com</li>
-<li> 08:31 www.nestpensions.org.uk</li>
 <li> 08:31 mail.google.com</li>
 <li> 08:30 calendar.google.com</li>
 <li> 08:30 mail.google.com</li>
 <li> 08:28 kdp.amazon.com</li>
-<li> 08:24 drive.usercontent.google.com</li>
 <li> 08:23 drive.google.com</li>
-<li> 08:23 www.google.com</li>
 <li> 08:23 mail.google.com</li>
-<li> 08:23 www.brickborrow.com</li>
-<li> 08:23 www.google.com</li>
 <li> 08:23 www.brickborrow.com</li>
 <li> 08:23 mail.google.com</li>
 <li> 08:23 paymentportal.bjadojo.co.uk</li>
@@ -21896,16 +21870,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:18 mail.google.com</li>
 <li class='same'> 08:17 mail.google.com</li>
 <li> 08:17 app.mycoughdrop.com</li>
-<li> 08:17 www.google.com</li>
 <li> 08:17 mail.google.com</li>
-<li> 08:17 mail-attachment.googleusercontent.com</li>
 <li> 08:17 Local file</li>
 <li> 08:17 mail.google.com</li>
 <li class='same'> 08:16 mail.google.com</li>
 <li> 08:08 calendar.google.com</li>
 <li class='same'> 08:07 calendar.google.com</li>
 <li> 08:06 tradehq.co.uk</li>
-<li> 08:06 www.google.com</li>
 <li> 08:06 mail.google.com</li>
 <li class='same'> 08:05 mail.google.com</li>
 <li> 08:05 app.mycoughdrop.com</li>
@@ -21914,7 +21885,6 @@ With number of accesses/minutes in parentheses
 <li> 08:04 mail.google.com</li>
 <li> 08:04 www.qiq.support</li>
 <li class='same'> 08:03 www.qiq.support</li>
-<li> 08:03 www.google.com</li>
 <li> 08:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 08:03 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
 <li> 08:03 mail.google.com</li>
