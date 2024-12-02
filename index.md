@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9472)</li>
+<ol><li>www.google.com (9476)</li>
 <li>mail.google.com (6424)</li>
 <li>outlook.office.com (3758)</li>
 <li>www.facebook.com (3076)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1768)</li>
+<li>outlook.office365.com (1770)</li>
 <li>calendar.google.com (1562)</li>
-<li>www.reddit.com (1517)</li>
+<li>www.reddit.com (1518)</li>
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
-<li>bsky.app (902)</li>
+<li>bsky.app (908)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (886)</li>
 <li>gmail.com (824)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:18 chatgpt.com</li>
+<ul><li> 12:17 www.google.com</li>
+<li class='same'> 12:15 www.google.com</li>
+<li> 12:14 bsky.app</li>
+<li class='same'> 11:59 bsky.app</li>
+<li> 11:59 reactormag.com</li>
+<li> 11:58 gizmodo.com</li>
+<li> 11:57 reactormag.com</li>
+<li> 11:57 www.reddit.com</li>
+<li> 11:57 www.google.com</li>
+<li> 11:57 bsky.app</li>
+<li class='same'> 11:54 bsky.app</li>
+<li class='same'> 11:53 bsky.app</li>
+<li class='same'> 11:51 bsky.app</li>
+<li> 11:51 www.coursera.org</li>
+<li class='same'> 11:50 www.coursera.org</li>
+<li class='same'> 11:49 www.coursera.org</li>
+<li class='same'> 11:48 www.coursera.org</li>
+<li class='same'> 11:47 www.coursera.org</li>
+<li> 11:47 outlook.office365.com</li>
+<li class='same'> 11:46 outlook.office365.com</li>
+<li> 11:42 www.google.co.uk</li>
+<li> 11:42 <a href="https://en.wikipedia.org/wiki/Risk_compensation#cite_note-19">Risk compensation - Wikipedia</a></li>
+<li> 11:41 <a href="https://en.wikipedia.org/wiki/Risk_compensation">Risk compensation - Wikipedia</a></li>
+<li> 11:41 www.google.com</li>
+<li> 11:18 chatgpt.com</li>
 <li> 11:18 chat.openai.com</li>
 <li> 11:14 <a href="https://en.wikipedia.org/wiki/Audit">Audit - Wikipedia</a></li>
 <li> 11:14 www.google.com</li>
