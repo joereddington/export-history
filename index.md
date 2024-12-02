@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9486)</li>
+<ol><li>www.google.com (9489)</li>
 <li>mail.google.com (6424)</li>
 <li>outlook.office.com (3758)</li>
 <li>www.facebook.com (3077)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1785)</li>
+<li>outlook.office365.com (1796)</li>
 <li>calendar.google.com (1562)</li>
-<li>www.reddit.com (1522)</li>
+<li>www.reddit.com (1525)</li>
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
-<li>bsky.app (939)</li>
+<li>bsky.app (947)</li>
 <li>www.theguardian.com (890)</li>
-<li>www.linkedin.com (887)</li>
+<li>www.linkedin.com (889)</li>
 <li>gmail.com (824)</li>
 <li>login.microsoftonline.com (717)</li>
 <li>chat.openai.com (708)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:16 outlook.office365.com</li>
+<ul><li> 16:10 bsky.app</li>
+<li class='same'> 16:09 bsky.app</li>
+<li class='same'> 16:06 bsky.app</li>
+<li> 16:06 www.linkedin.com</li>
+<li> 16:05 outlook.office365.com</li>
+<li> 16:02 www.linkedin.com</li>
+<li> 16:02 www.royalholloway.ac.uk</li>
+<li> 16:02 www.google.com</li>
+<li> 16:00 outlook.office365.com</li>
+<li class='same'> 15:53 outlook.office365.com</li>
+<li class='same'> 15:52 outlook.office365.com</li>
+<li class='same'> 15:51 outlook.office365.com</li>
+<li class='same'> 15:50 outlook.office365.com</li>
+<li class='same'> 15:49 outlook.office365.com</li>
+<li class='same'> 15:48 outlook.office365.com</li>
+<li> 15:47 bsky.app</li>
+<li> 15:47 outlook.office365.com</li>
+<li> 15:47 bsky.app</li>
+<li class='same'> 15:46 bsky.app</li>
+<li class='same'> 15:45 bsky.app</li>
+<li> 15:44 outlook.office365.com</li>
+<li> 15:36 bsky.app</li>
+<li> 15:36 www.reddit.com</li>
+<li class='same'> 15:35 www.reddit.com</li>
+<li> 15:33 outlook.office365.com</li>
+<li> 15:32 www.youngminds.org.uk</li>
+<li> 15:32 www.google.com</li>
+<li> 15:30 stateofchildhealth.rcpch.ac.uk</li>
+<li> 15:30 www.google.com</li>
+<li> 15:29 www.reddit.com</li>
+<li> 15:16 outlook.office365.com</li>
 <li class='same'> 15:14 outlook.office365.com</li>
 <li> 15:14 bsky.app</li>
 <li class='same'> 15:13 bsky.app</li>
