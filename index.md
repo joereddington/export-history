@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9469)</li>
-<li>mail.google.com (6418)</li>
+<ol><li>www.google.com (9470)</li>
+<li>mail.google.com (6422)</li>
 <li>outlook.office.com (3758)</li>
-<li>www.facebook.com (3071)</li>
+<li>www.facebook.com (3073)</li>
 <li>docs.google.com (1996)</li>
-<li>outlook.office365.com (1749)</li>
-<li>calendar.google.com (1561)</li>
-<li>www.reddit.com (1510)</li>
-<li>moodle.royalholloway.ac.uk (1497)</li>
+<li>outlook.office365.com (1750)</li>
+<li>calendar.google.com (1562)</li>
+<li>www.reddit.com (1517)</li>
+<li>moodle.royalholloway.ac.uk (1499)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
-<li>bsky.app (892)</li>
+<li>bsky.app (897)</li>
 <li>www.theguardian.com (890)</li>
 <li>www.linkedin.com (886)</li>
-<li>gmail.com (823)</li>
-<li>login.microsoftonline.com (715)</li>
+<li>gmail.com (824)</li>
+<li>login.microsoftonline.com (717)</li>
 <li>chat.openai.com (705)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (538)</li>
+<li>web.whatsapp.com (539)</li>
 <li>drive.google.com (489)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>rhul-my.sharepoint.com (479)</li>
+<li>rhul-my.sharepoint.com (482)</li>
 <li>teams.microsoft.com (461)</li>
 <li>chatgpt.com (447)</li>
 <li>kdp.amazon.com (444)</li>
@@ -104,11 +104,60 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 02/12/24</H3>
+
+<br>
+
+<ul><li> 03:36 www.reddit.com</li>
+<li class='same'> 03:35 www.reddit.com</li>
+<li class='same'> 03:33 www.reddit.com</li>
+<li> 03:31 bsky.app</li>
+<li> 03:30 feedly.com</li>
+<li> 03:30 mail.google.com</li>
+<li> 03:30 gmail.com</li>
+<li> 03:29 calendar.google.com</li>
+<li> 03:29 web.whatsapp.com</li>
+<li> 03:28 www.reddit.com</li>
+<li class='same'> 03:26 www.reddit.com</li>
+<li class='same'> 03:25 www.reddit.com</li>
+<li class='same'> 03:24 www.reddit.com</li>
+<li> 03:24 outlook.office365.com</li>
+<li> 03:24 login.microsoftonline.com</li>
+<li> 03:23 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 03:23 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 03:23 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 03:23 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-94.44.225.95-20241201162800-Schierbecker-20240422182300-DoesNotExist-DiscussionToolsHack">User talk:Joereddington - Wikipedia</a></li>
+<li> 03:23 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 03:23 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=332463559&markasreadwiki=enwiki#c-94.44.225.95-20241201162800-Schierbecker-20240422182300">User talk:Joereddington - Wikipedia</a></li>
+<li> 03:23 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-94.44.225.95-20241201162800-Schierbecker-20240422182300">User talk:Joereddington - Wikipedia</a></li>
+<li> 03:23 mail.google.com</li>
+<li class='same'> 03:22 mail.google.com</li>
+<li> 03:20 www.facebook.com</li>
+<li> 03:17 bsky.app</li>
+<li> 03:15 rhul-my.sharepoint.com</li>
+<li class='same'> 03:14 rhul-my.sharepoint.com</li>
+<li class='same'> 03:13 rhul-my.sharepoint.com</li>
+<li> 03:13 moodle.royalholloway.ac.uk</li>
+<li> 03:13 login.microsoftonline.com</li>
+<li> 03:13 moodle.royalholloway.ac.uk</li>
+<li> 03:11 www.facebook.com</li>
+<li> 03:11 bsky.app</li>
+<li class='same'> 03:10 bsky.app</li>
+<li> 03:09 www.nhs.uk</li>
+<li> 03:09 www.google.com</li>
+</ul>
+
 <H3>Sunday, 01/12/24</H3>
 
 <br>
 
-<ul><li> 13:54 <a href="https://en.wikipedia.org/wiki/Talk:Peter_Lely">Talk:Peter Lely - Wikipedia</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 13:56 mail.google.com</li>
+<li> 13:56 bsky.app</li>
+<li> 13:54 <a href="https://en.wikipedia.org/wiki/Talk:Peter_Lely">Talk:Peter Lely - Wikipedia</a></li>
 <li> 13:54 <a href="https://en.wikipedia.org/wiki/Peter_Lely">Peter Lely - Wikipedia</a></li>
 <li> 13:54 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Lely&action=info">Information for "Peter Lely" - Wikipedia</a></li>
 <li> 13:54 <a href="https://en.wikipedia.org/wiki/Peter_Lely">Peter Lely - Wikipedia</a></li>
