@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9494)</li>
+<ol><li>www.google.com (9495)</li>
 <li>mail.google.com (6427)</li>
 <li>outlook.office.com (3762)</li>
-<li>www.facebook.com (3077)</li>
+<li>www.facebook.com (3078)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1802)</li>
 <li>calendar.google.com (1562)</li>
-<li>www.reddit.com (1525)</li>
+<li>www.reddit.com (1527)</li>
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
-<li>bsky.app (954)</li>
-<li>www.linkedin.com (893)</li>
+<li>bsky.app (967)</li>
+<li>www.linkedin.com (894)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (825)</li>
 <li>login.microsoftonline.com (718)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:08 www.linkedin.com</li>
+<ul><li> 20:36 www.facebook.com</li>
+<li> 20:35 bsky.app</li>
+<li class='same'> 20:34 bsky.app</li>
+<li class='same'> 20:33 bsky.app</li>
+<li class='same'> 20:32 bsky.app</li>
+<li> 20:32 clearsky.app</li>
+<li class='same'> 20:31 clearsky.app</li>
+<li> 20:30 bsky.app</li>
+<li class='same'> 20:28 bsky.app</li>
+<li class='same'> 20:27 bsky.app</li>
+<li class='same'> 20:26 bsky.app</li>
+<li class='same'> 20:25 bsky.app</li>
+<li class='same'> 20:24 bsky.app</li>
+<li> 20:24 clearsky.app</li>
+<li> 20:24 bsky.app</li>
+<li class='same'> 20:23 bsky.app</li>
+<li> 20:23 clearsky.app</li>
+<li> 20:23 blueskydirectory.com</li>
+<li> 20:23 www.reddit.com</li>
+<li> 20:23 www.google.com</li>
+<li> 20:22 vqv.app</li>
+<li> 20:20 bsky.app</li>
+<li> 20:17 www.reddit.com</li>
+<li> 20:17 ookoodook.myshopify.com</li>
+<li> 20:17 www.giantitp.com</li>
+<li> 20:17 ookoodook.myshopify.com</li>
+<li class='same'> 20:16 ookoodook.myshopify.com</li>
+<li> 20:16 www.paypal.com</li>
+<li> 20:16 ookoodook.myshopify.com</li>
+<li> 20:14 www.giantitp.com</li>
+<li> 20:10 feedly.com</li>
+<li> 20:10 www.linkedin.com</li>
+<li class='same'> 20:08 www.linkedin.com</li>
 <li> 20:08 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 20:07 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 20:07 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
