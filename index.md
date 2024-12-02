@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9476)</li>
+<ol><li>www.google.com (9480)</li>
 <li>mail.google.com (6424)</li>
 <li>outlook.office.com (3758)</li>
 <li>www.facebook.com (3076)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1770)</li>
+<li>outlook.office365.com (1774)</li>
 <li>calendar.google.com (1562)</li>
 <li>www.reddit.com (1518)</li>
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
-<li>bsky.app (908)</li>
+<li>bsky.app (914)</li>
 <li>www.theguardian.com (890)</li>
-<li>www.linkedin.com (886)</li>
+<li>www.linkedin.com (887)</li>
 <li>gmail.com (824)</li>
 <li>login.microsoftonline.com (717)</li>
 <li>chat.openai.com (707)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (489)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>rhul-my.sharepoint.com (485)</li>
-<li>teams.microsoft.com (461)</li>
+<li>teams.microsoft.com (462)</li>
 <li>chatgpt.com (450)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:17 www.google.com</li>
+<ul><li> 12:52 teams.microsoft.com</li>
+<li> 12:52 outlook.office365.com</li>
+<li> 12:49 bsky.app</li>
+<li class='same'> 12:40 bsky.app</li>
+<li> 12:39 outlook.office365.com</li>
+<li class='same'> 12:37 outlook.office365.com</li>
+<li> 12:37 bsky.app</li>
+<li> 12:36 www.google.com</li>
+<li> 12:34 bsky.app</li>
+<li> 12:33 <a href="https://en.wikipedia.org/wiki/Pirton,_Hertfordshire">Pirton, Hertfordshire - Wikipedia</a></li>
+<li> 12:32 www.google.com</li>
+<li> 12:32 bsky.app</li>
+<li class='same'> 12:31 bsky.app</li>
+<li> 12:31 www.linkedin.com</li>
+<li> 12:29 outlook.office365.com</li>
+<li> 12:17 www.google.com</li>
 <li class='same'> 12:15 www.google.com</li>
 <li> 12:14 bsky.app</li>
 <li class='same'> 11:59 bsky.app</li>
@@ -198,6 +213,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:22 outlook.office365.com</li>
 <li class='same'> 10:21 outlook.office365.com</li>
 <li> 10:21 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 09:23 www.google.com</li>
+<li class='same'> 09:22 www.google.com</li>
 </ul>
 
 <br>
