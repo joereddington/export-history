@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (827)</li>
 <li>login.microsoftonline.com (720)</li>
-<li>chat.openai.com (708)</li>
+<li>chat.openai.com (709)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>en.m.wikipedia.org (489)</li>
 <li>rhul-my.sharepoint.com (485)</li>
 <li>teams.microsoft.com (462)</li>
-<li>chatgpt.com (451)</li>
+<li>chatgpt.com (452)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (358)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:27 www.google.com</li>
+<ul><li> 15:46 chatgpt.com</li>
+<li> 15:46 chat.openai.com</li>
+<li> 15:27 www.google.com</li>
 <li> 15:23 bsky.app</li>
 <li class='same'> 15:22 bsky.app</li>
 <li> 14:53 reductress.com</li>
