@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9495)</li>
+<ol><li>www.google.com (9496)</li>
 <li>mail.google.com (6428)</li>
-<li>outlook.office.com (3762)</li>
+<li>outlook.office.com (3763)</li>
 <li>www.facebook.com (3078)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1802)</li>
@@ -79,8 +79,8 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1271)</li>
 <li>github.com (1055)</li>
+<li>bsky.app (983)</li>
 <li>m.facebook.com (980)</li>
-<li>bsky.app (967)</li>
 <li>www.linkedin.com (894)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (826)</li>
@@ -104,7 +104,42 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 03/12/24</H3>
+
+<br>
+
+<ul><li> 06:59 bsky.app</li>
+<li> 06:57 clearsky.app</li>
+<li> 06:54 bsky.app</li>
+<li class='same'> 06:53 bsky.app</li>
+<li> 06:53 clearsky.app</li>
+<li class='same'> 06:52 clearsky.app</li>
+<li> 06:52 bsky.app</li>
+<li class='same'> 06:31 bsky.app</li>
+<li class='same'> 06:20 bsky.app</li>
+<li class='same'> 06:19 bsky.app</li>
+<li class='same'> 06:18 bsky.app</li>
+<li class='same'> 06:16 bsky.app</li>
+<li class='same'> 06:14 bsky.app</li>
+<li class='same'> 06:13 bsky.app</li>
+<li class='same'> 06:12 bsky.app</li>
+<li class='same'> 06:11 bsky.app</li>
+<li> 06:06 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:03 medium.com</li>
+<li> 05:58 bsky.app</li>
+<li> 05:53 <a href="https://en.wikipedia.org/wiki/Adobe_Inc.#cite_note-111">Adobe Inc. - Wikipedia</a></li>
+<li> 05:52 <a href="https://en.wikipedia.org/wiki/Adobe_Inc.">Adobe Inc. - Wikipedia</a></li>
+<li> 05:52 www.google.com</li>
+<li> 05:47 bsky.app</li>
+<li class='same'> 05:42 bsky.app</li>
+<li> 05:41 outlook.office.com</li>
+</ul>
+
 <H3>Monday, 02/12/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
