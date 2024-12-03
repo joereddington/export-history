@@ -70,16 +70,16 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9509)</li>
 <li>mail.google.com (6435)</li>
-<li>outlook.office.com (3804)</li>
+<li>outlook.office.com (3805)</li>
 <li>www.facebook.com (3081)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1813)</li>
 <li>calendar.google.com (1569)</li>
 <li>www.reddit.com (1528)</li>
-<li>moodle.royalholloway.ac.uk (1504)</li>
+<li>moodle.royalholloway.ac.uk (1505)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1055)</li>
-<li>bsky.app (1025)</li>
+<li>bsky.app (1026)</li>
 <li>m.facebook.com (980)</li>
 <li>www.linkedin.com (897)</li>
 <li>www.theguardian.com (890)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:00 moodle.royalholloway.ac.uk</li>
+<ul><li> 18:07 bsky.app</li>
+<li> 18:07 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:24 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:00 moodle.royalholloway.ac.uk</li>
 <li> 17:00 eur03.safelinks.protection.outlook.com</li>
 <li> 17:00 outlook.office.com</li>
 <li class='same'> 16:59 outlook.office.com</li>
