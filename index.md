@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9496)</li>
-<li>mail.google.com (6427)</li>
+<li>mail.google.com (6431)</li>
 <li>outlook.office.com (3775)</li>
 <li>www.facebook.com (3079)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1804)</li>
-<li>calendar.google.com (1563)</li>
+<li>calendar.google.com (1564)</li>
 <li>www.reddit.com (1527)</li>
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1055)</li>
-<li>bsky.app (995)</li>
+<li>bsky.app (996)</li>
 <li>m.facebook.com (980)</li>
 <li>www.linkedin.com (894)</li>
 <li>www.theguardian.com (890)</li>
-<li>gmail.com (826)</li>
+<li>gmail.com (827)</li>
 <li>login.microsoftonline.com (718)</li>
 <li>chat.openai.com (708)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:45 bsky.app</li>
+<ul><li> 09:51 mail.google.com</li>
+<li> 09:50 teams.live.com</li>
+<li> 09:50 mail.google.com</li>
+<li class='same'> 09:49 mail.google.com</li>
+<li> 09:49 calendar.google.com</li>
+<li> 09:48 mail.google.com</li>
+<li> 09:48 gmail.com</li>
+<li> 09:46 bsky.app</li>
+<li class='same'> 09:45 bsky.app</li>
 <li> 09:44 equalitytime.github.io</li>
 <li> 09:44 flow.joereddington.com</li>
 <li> 09:43 bsky.app</li>
