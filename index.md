@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9510)</li>
 <li>mail.google.com (6435)</li>
-<li>outlook.office.com (3808)</li>
+<li>outlook.office.com (3809)</li>
 <li>www.facebook.com (3081)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1814)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (542)</li>
 <li>drive.google.com (489)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>rhul-my.sharepoint.com (485)</li>
+<li>rhul-my.sharepoint.com (486)</li>
 <li>teams.microsoft.com (462)</li>
 <li>chatgpt.com (452)</li>
 <li>kdp.amazon.com (444)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:27 outlook.office.com</li>
+<ul><li> 18:31 outlook.office.com</li>
+<li> 18:28 rhul-my.sharepoint.com</li>
+<li> 18:27 outlook.office.com</li>
 <li class='same'> 18:26 outlook.office.com</li>
 <li> 18:26 outlook.office365.com</li>
 <li> 18:26 outlook.office.com</li>
