@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9510)</li>
-<li>mail.google.com (6435)</li>
+<ol><li>www.google.com (9511)</li>
+<li>mail.google.com (6436)</li>
 <li>outlook.office.com (3809)</li>
 <li>www.facebook.com (3081)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1814)</li>
+<li>outlook.office365.com (1816)</li>
 <li>calendar.google.com (1569)</li>
 <li>www.reddit.com (1528)</li>
 <li>moodle.royalholloway.ac.uk (1505)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1055)</li>
-<li>bsky.app (1028)</li>
+<li>bsky.app (1029)</li>
 <li>m.facebook.com (980)</li>
 <li>www.linkedin.com (897)</li>
 <li>www.theguardian.com (890)</li>
-<li>gmail.com (827)</li>
+<li>gmail.com (828)</li>
 <li>login.microsoftonline.com (721)</li>
 <li>chat.openai.com (709)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 03/12/24</H3>
+
+<br>
+
+<ul><li> 19:43 us06web.zoom.us</li>
+<li class='same'> 19:38 us06web.zoom.us</li>
+<li> 19:38 www.google.com</li>
+<li> 19:38 us06web.zoom.us</li>
+<li> 19:37 mail.google.com</li>
+<li> 19:37 gmail.com</li>
+<li> 19:37 outlook.office365.com</li>
+<li> 19:37 bsky.app</li>
+<li> 19:36 outlook.office365.com</li>
+</ul>
 
 <br>
 
