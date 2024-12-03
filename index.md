@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9509)</li>
 <li>mail.google.com (6435)</li>
-<li>outlook.office.com (3796)</li>
+<li>outlook.office.com (3803)</li>
 <li>www.facebook.com (3081)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1813)</li>
 <li>calendar.google.com (1569)</li>
 <li>www.reddit.com (1528)</li>
-<li>moodle.royalholloway.ac.uk (1501)</li>
+<li>moodle.royalholloway.ac.uk (1503)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1055)</li>
 <li>bsky.app (1025)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (897)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (827)</li>
-<li>login.microsoftonline.com (720)</li>
+<li>login.microsoftonline.com (721)</li>
 <li>chat.openai.com (709)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:49 outlook.office.com</li>
+<ul><li> 16:59 outlook.office.com</li>
+<li> 16:58 moodle.royalholloway.ac.uk</li>
+<li> 16:58 eur03.safelinks.protection.outlook.com</li>
+<li> 16:55 moodle.royalholloway.ac.uk</li>
+<li> 16:55 login.microsoftonline.com</li>
+<li> 16:55 eur03.safelinks.protection.outlook.com</li>
+<li> 16:55 outlook.office.com</li>
+<li class='same'> 16:54 outlook.office.com</li>
+<li class='same'> 16:53 outlook.office.com</li>
+<li class='same'> 16:52 outlook.office.com</li>
+<li class='same'> 16:51 outlook.office.com</li>
+<li class='same'> 16:50 outlook.office.com</li>
+<li class='same'> 16:49 outlook.office.com</li>
 <li> 16:39 calendar.google.com</li>
 <li> 16:35 bsky.app</li>
 <li> 16:32 outlook.office.com</li>
