@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9498)</li>
-<li>mail.google.com (6428)</li>
-<li>outlook.office.com (3765)</li>
+<ol><li>www.google.com (9495)</li>
+<li>mail.google.com (6427)</li>
+<li>outlook.office.com (3766)</li>
 <li>www.facebook.com (3078)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1803)</li>
 <li>calendar.google.com (1562)</li>
 <li>www.reddit.com (1527)</li>
 <li>moodle.royalholloway.ac.uk (1500)</li>
-<li>www.amazon.co.uk (1271)</li>
+<li>www.amazon.co.uk (1270)</li>
 <li>github.com (1055)</li>
-<li>bsky.app (983)</li>
+<li>bsky.app (984)</li>
 <li>m.facebook.com (980)</li>
 <li>www.linkedin.com (894)</li>
 <li>www.theguardian.com (890)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:07 outlook.office.com</li>
+<ul><li> 07:13 www.giac.org</li>
+<li> 07:10 bsky.app</li>
+<li> 07:09 outlook.office.com</li>
+<li class='same'> 07:07 outlook.office.com</li>
 <li> 07:07 outlook.office365.com</li>
 <li> 07:07 outlook.office.com</li>
 <li> 07:07 mail.rhul.ac.uk</li>
@@ -21610,20 +21613,17 @@ With number of accesses/minutes in parentheses
 <li> 21:31 www.buzzfeed.com</li>
 <li> 21:31 www.google.com</li>
 <li class='same'> 21:30 www.google.com</li>
-<li class='same'> 21:29 www.google.com</li>
 <li> 21:29 www.politico.com</li>
 <li> 21:28 www.google.com</li>
 <li> 21:28 www.facebook.com</li>
 <li class='same'> 21:27 www.facebook.com</li>
 <li> 21:27 web.whatsapp.com</li>
 <li> 21:26 www.facebook.com</li>
-<li> 21:26 www.google.com</li>
 <li> 21:25 www.reddit.com</li>
 <li class='same'> 21:24 www.reddit.com</li>
 <li class='same'> 21:23 www.reddit.com</li>
 <li> 21:22 www.facebook.com</li>
-<li> 21:22 www.google.com</li>
-<li class='same'> 21:21 www.google.com</li>
+<li> 21:21 www.google.com</li>
 <li> 21:20 www.facebook.com</li>
 <li class='same'> 21:16 www.facebook.com</li>
 <li> 21:14 web.whatsapp.com</li>
@@ -21725,8 +21725,7 @@ With number of accesses/minutes in parentheses
 <li> 07:41 outlook.office365.com</li>
 <li> 07:41 outlook.office.com</li>
 <li> 07:41 mail.rhul.ac.uk</li>
-<li> 07:38 www.amazon.co.uk</li>
-<li class='same'> 07:37 www.amazon.co.uk</li>
+<li> 07:37 www.amazon.co.uk</li>
 <li class='same'> 07:34 www.amazon.co.uk</li>
 <li> 07:19 feedly.com</li>
 <li> 07:16 equalitytime.github.io</li>
@@ -21815,7 +21814,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:25 mail.google.com</li>
 <li class='same'> 17:23 mail.google.com</li>
-<li> 17:18 cc.amazon.com</li>
 <li> 17:17 kdp.amazon.com</li>
 <li> 17:15 mail.google.com</li>
 </ul>
@@ -21827,8 +21825,6 @@ With number of accesses/minutes in parentheses
 <li> 16:14 gmail.com</li>
 <li> 16:14 mail.google.com</li>
 <li class='same'> 16:13 mail.google.com</li>
-<li> 16:13 accounts.google.com</li>
-<li> 16:13 mail.google.com</li>
 <li> 16:13 accounts.google.com</li>
 <li> 16:13 gmail.com</li>
 <li> 16:13 mail.google.com</li>
