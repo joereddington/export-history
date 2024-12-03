@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1501)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1055)</li>
-<li>bsky.app (1013)</li>
+<li>bsky.app (1016)</li>
 <li>m.facebook.com (980)</li>
 <li>www.linkedin.com (897)</li>
 <li>www.theguardian.com (890)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:17 www.specsavers.co.uk</li>
+<ul><li> 14:38 bsky.app</li>
+<li class='same'> 14:37 bsky.app</li>
+<li class='same'> 14:35 bsky.app</li>
+<li> 14:17 www.specsavers.co.uk</li>
 <li> 14:16 www.google.com</li>
 <li> 14:05 <a href="https://en.wikipedia.org/wiki/Kaseya_VSA_ransomware_attack">Kaseya VSA ransomware attack - Wikipedia</a></li>
 <li> 14:05 www.google.com</li>
