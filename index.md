@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9495)</li>
 <li>mail.google.com (6427)</li>
 <li>outlook.office.com (3766)</li>
-<li>www.facebook.com (3078)</li>
+<li>www.facebook.com (3079)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1803)</li>
 <li>calendar.google.com (1562)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1055)</li>
-<li>bsky.app (984)</li>
+<li>bsky.app (987)</li>
 <li>m.facebook.com (980)</li>
 <li>www.linkedin.com (894)</li>
 <li>www.theguardian.com (890)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:13 www.giac.org</li>
+<ul><li> 07:27 bsky.app</li>
+<li> 07:26 www.facebook.com</li>
+<li> 07:19 discussions.apple.com</li>
+<li> 07:13 www.giac.org</li>
 <li> 07:10 bsky.app</li>
 <li> 07:09 outlook.office.com</li>
 <li class='same'> 07:07 outlook.office.com</li>
@@ -217,7 +220,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:05 www.google.com</li>
+<ul><li> 18:05 discussions.apple.com</li>
+<li> 18:05 www.google.com</li>
 </ul>
 
 <br>
@@ -84072,6 +84076,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:07 bsky.app</li>
+</ul>
+
+<br>
+
 <ul><li> 17:26 app.qbo.intuit.com</li>
 <li> 17:24 docs.google.com</li>
 <li> 17:24 www.amazon.co.uk</li>
@@ -85870,6 +85879,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:40 bsky.app</li>
+<li class='same'> 07:34 bsky.app</li>
 </ul>
 
 <br>
