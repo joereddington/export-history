@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9498)</li>
-<li>mail.google.com (6432)</li>
-<li>outlook.office.com (3775)</li>
-<li>www.facebook.com (3079)</li>
+<ol><li>www.google.com (9500)</li>
+<li>mail.google.com (6434)</li>
+<li>outlook.office.com (3776)</li>
+<li>www.facebook.com (3080)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1804)</li>
-<li>calendar.google.com (1565)</li>
-<li>www.reddit.com (1527)</li>
+<li>outlook.office365.com (1810)</li>
+<li>calendar.google.com (1566)</li>
+<li>www.reddit.com (1528)</li>
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1055)</li>
-<li>bsky.app (999)</li>
+<li>bsky.app (1001)</li>
 <li>m.facebook.com (980)</li>
 <li>www.linkedin.com (897)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (827)</li>
-<li>login.microsoftonline.com (718)</li>
+<li>login.microsoftonline.com (719)</li>
 <li>chat.openai.com (708)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (541)</li>
+<li>web.whatsapp.com (542)</li>
 <li>drive.google.com (489)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>rhul-my.sharepoint.com (485)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:48 calendar.google.com</li>
+<ul><li> 11:40 mail.google.com</li>
+<li class='same'> 11:39 mail.google.com</li>
+<li> 11:37 www.facebook.com</li>
+<li> 11:37 outlook.office.com</li>
+<li> 11:37 outlook.office365.com</li>
+<li> 11:34 www.reddit.com</li>
+<li> 11:34 bsky.app</li>
+<li> 11:31 www.timeshighereducation.com</li>
+<li> 11:26 bsky.app</li>
+<li> 11:26 outlook.office365.com</li>
+<li class='same'> 11:13 outlook.office365.com</li>
+<li> 11:13 www.google.com</li>
+<li> 11:10 web.whatsapp.com</li>
+<li> 11:10 www.google.com</li>
+<li> 10:57 outlook.office365.com</li>
+<li class='same'> 10:53 outlook.office365.com</li>
+<li class='same'> 10:52 outlook.office365.com</li>
+<li> 10:52 login.microsoftonline.com</li>
+<li> 10:50 calendar.google.com</li>
+<li class='same'> 10:48 calendar.google.com</li>
 <li> 10:48 bsky.app</li>
 <li class='same'> 10:36 bsky.app</li>
 <li> 10:31 www.google.com</li>
