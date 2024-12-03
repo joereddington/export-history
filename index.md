@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9509)</li>
 <li>mail.google.com (6435)</li>
-<li>outlook.office.com (3786)</li>
+<li>outlook.office.com (3792)</li>
 <li>www.facebook.com (3081)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1813)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1501)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1055)</li>
-<li>bsky.app (1021)</li>
+<li>bsky.app (1022)</li>
 <li>m.facebook.com (980)</li>
 <li>www.linkedin.com (897)</li>
 <li>www.theguardian.com (890)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:13 bsky.app</li>
+<ul><li> 16:25 outlook.office.com</li>
+<li class='same'> 16:24 outlook.office.com</li>
+<li class='same'> 16:23 outlook.office.com</li>
+<li> 16:23 Local file</li>
+<li> 16:23 outlook.office.com</li>
+<li class='same'> 16:22 outlook.office.com</li>
+<li class='same'> 16:21 outlook.office.com</li>
+<li> 16:14 bsky.app</li>
+<li class='same'> 16:13 bsky.app</li>
 <li> 16:04 outlook.office.com</li>
 <li> 15:59 bsky.app</li>
 <li> 15:55 www.google.com</li>
