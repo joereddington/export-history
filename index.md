@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1055)</li>
-<li>bsky.app (987)</li>
+<li>bsky.app (990)</li>
 <li>m.facebook.com (980)</li>
 <li>www.linkedin.com (894)</li>
 <li>www.theguardian.com (890)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:27 bsky.app</li>
+<ul><li> 07:36 bsky.app</li>
+<li> 07:35 blueskydirectory.com</li>
+<li> 07:34 bsky.app</li>
+<li> 07:32 ketikagarg.github.io</li>
+<li> 07:32 bsky.app</li>
+<li class='same'> 07:27 bsky.app</li>
 <li> 07:26 www.facebook.com</li>
 <li> 07:19 discussions.apple.com</li>
 <li> 07:13 www.giac.org</li>
