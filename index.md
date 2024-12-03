@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9500)</li>
 <li>mail.google.com (6434)</li>
-<li>outlook.office.com (3779)</li>
+<li>outlook.office.com (3783)</li>
 <li>www.facebook.com (3080)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1810)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1500)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1055)</li>
-<li>bsky.app (1001)</li>
+<li>bsky.app (1003)</li>
 <li>m.facebook.com (980)</li>
 <li>www.linkedin.com (897)</li>
 <li>www.theguardian.com (890)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:17 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<ul><li> 12:28 outlook.office.com</li>
+<li class='same'> 12:27 outlook.office.com</li>
+<li> 12:27 bsky.app</li>
+<li class='same'> 12:26 bsky.app</li>
+<li> 12:22 outlook.office.com</li>
+<li class='same'> 12:21 outlook.office.com</li>
+<li> 12:17 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 12:17 <a href="https://en.wikipedia.org/w/index.php?title=Alan_Turing_Memorial&curid=1216597&diff=1260865351&oldid=1260845721">Alan Turing Memorial: Difference between revisions - Wikipedia</a></li>
 <li> 12:17 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 12:17 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
