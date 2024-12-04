@@ -71,15 +71,15 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9518)</li>
 <li>mail.google.com (6437)</li>
 <li>outlook.office.com (3807)</li>
-<li>www.facebook.com (3081)</li>
+<li>www.facebook.com (3082)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1833)</li>
+<li>outlook.office365.com (1842)</li>
 <li>calendar.google.com (1570)</li>
-<li>www.reddit.com (1529)</li>
-<li>moodle.royalholloway.ac.uk (1508)</li>
+<li>www.reddit.com (1535)</li>
+<li>moodle.royalholloway.ac.uk (1509)</li>
 <li>www.amazon.co.uk (1270)</li>
+<li>bsky.app (1059)</li>
 <li>github.com (1055)</li>
-<li>bsky.app (1046)</li>
 <li>m.facebook.com (980)</li>
 <li>www.linkedin.com (897)</li>
 <li>www.theguardian.com (890)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (542)</li>
-<li>rhul-my.sharepoint.com (491)</li>
+<li>rhul-my.sharepoint.com (492)</li>
 <li>drive.google.com (489)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>teams.microsoft.com (462)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:28 bsky.app</li>
+<ul><li> 10:32 outlook.office365.com</li>
+<li class='same'> 10:27 outlook.office365.com</li>
+<li class='same'> 10:26 outlook.office365.com</li>
+<li class='same'> 10:23 outlook.office365.com</li>
+<li> 10:23 bsky.app</li>
+<li class='same'> 10:22 bsky.app</li>
+<li> 10:21 outlook.office365.com</li>
+<li class='same'> 10:20 outlook.office365.com</li>
+<li class='same'> 10:19 outlook.office365.com</li>
+<li> 10:18 rhul-my.sharepoint.com</li>
+<li> 10:17 moodle.royalholloway.ac.uk</li>
+<li> 10:16 outlook.office365.com</li>
+<li> 09:59 www.reddit.com</li>
+<li class='same'> 09:58 www.reddit.com</li>
+<li class='same'> 09:57 www.reddit.com</li>
+<li class='same'> 09:56 www.reddit.com</li>
+<li> 09:56 outlook.office365.com</li>
+<li> 09:55 bsky.app</li>
+<li class='same'> 09:54 bsky.app</li>
+<li class='same'> 09:50 bsky.app</li>
+<li class='same'> 09:49 bsky.app</li>
+<li class='same'> 09:48 bsky.app</li>
+<li class='same'> 09:46 bsky.app</li>
+<li class='same'> 09:45 bsky.app</li>
+<li> 09:43 www.facebook.com</li>
+<li> 09:43 www.reddit.com</li>
+<li class='same'> 09:41 www.reddit.com</li>
+<li> 09:40 bsky.app</li>
+<li class='same'> 09:39 bsky.app</li>
+<li class='same'> 09:37 bsky.app</li>
+<li class='same'> 09:36 bsky.app</li>
+<li class='same'> 09:28 bsky.app</li>
 <li class='same'> 09:26 bsky.app</li>
 <li class='same'> 09:25 bsky.app</li>
 <li class='same'> 09:24 bsky.app</li>
