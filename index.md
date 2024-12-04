@@ -73,15 +73,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3085)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1876)</li>
+<li>outlook.office365.com (1878)</li>
 <li>calendar.google.com (1576)</li>
 <li>www.reddit.com (1535)</li>
 <li>moodle.royalholloway.ac.uk (1511)</li>
 <li>www.amazon.co.uk (1270)</li>
-<li>bsky.app (1061)</li>
+<li>bsky.app (1065)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (899)</li>
+<li>www.linkedin.com (902)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (830)</li>
 <li>login.microsoftonline.com (722)</li>
@@ -115,7 +115,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:57 www.facebook.com</li>
+<ul><li> 15:08 outlook.office365.com</li>
+<li> 15:08 bsky.app</li>
+<li class='same'> 15:07 bsky.app</li>
+<li class='same'> 15:06 bsky.app</li>
+<li class='same'> 15:03 bsky.app</li>
+<li> 15:02 www.linkedin.com</li>
+<li> 15:02 outlook.office365.com</li>
+<li> 15:02 <a href="https://joereddington.com/2024/12/04/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 15:02 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 15:02 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 15:01 www.linkedin.com</li>
+<li class='same'> 15:00 www.linkedin.com</li>
+<li> 14:57 www.facebook.com</li>
 <li> 14:56 <a href="https://joereddington.com/2024/12/04/gratitude.html">Gratitude | Joe Reddington</a></li>
 <li> 14:56 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:56 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
