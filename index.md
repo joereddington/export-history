@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9523)</li>
+<ol><li>www.google.com (9528)</li>
 <li>mail.google.com (6456)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3085)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (722)</li>
 <li>chat.openai.com (713)</li>
 <li>whitewaterwriters.com (682)</li>
-<li>tvtropes.org (673)</li>
+<li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (545)</li>
 <li>rhul-my.sharepoint.com (494)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 04/12/24</H3>
+
+<br>
+
+<ul><li> 16:09 fast.com</li>
+<li> 16:02 www.statista.com</li>
+<li class='same'> 16:01 www.statista.com</li>
+</ul>
 
 <br>
 
@@ -324,7 +331,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:53 bsky.app</li>
+<ul><li> 21:24 tvtropes.org</li>
+<li class='same'> 21:23 tvtropes.org</li>
+<li class='same'> 21:20 tvtropes.org</li>
+<li> 20:53 bsky.app</li>
 <li> 20:52 www.google.com</li>
 <li class='same'> 20:51 www.google.com</li>
 <li> 20:51 bsky.app</li>
@@ -343,6 +353,13 @@ With number of accesses/minutes in parentheses
 <li> 19:37 outlook.office365.com</li>
 <li> 19:37 bsky.app</li>
 <li> 19:36 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:06 tvtropes.org</li>
+<li class='same'> 19:05 tvtropes.org</li>
+<li> 19:05 www.google.com</li>
 </ul>
 
 <br>
@@ -604,11 +621,14 @@ With number of accesses/minutes in parentheses
 <ul><li> 21:11 mail.google.com</li>
 <li> 21:11 gmail.com</li>
 <li> 21:10 web.whatsapp.com</li>
-</ul>
-
-<br>
-
-<ul><li> 20:36 www.facebook.com</li>
+<li> 21:02 www.statista.com</li>
+<li> 21:02 www.google.com</li>
+<li> 21:01 tradingeconomics.com</li>
+<li> 21:01 www.google.com</li>
+<li> 21:00 www.statista.com</li>
+<li> 21:00 www.google.com</li>
+<li> 21:00 www.express.co.uk</li>
+<li> 20:36 www.facebook.com</li>
 <li> 20:35 bsky.app</li>
 <li class='same'> 20:34 bsky.app</li>
 <li class='same'> 20:33 bsky.app</li>
@@ -1135,7 +1155,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:28 <a href="https://www.youtube.com/watch?v=DadpHzTVqs4&t=404s">(8) Everything GREAT About Gladiator! (Part 1) - YouTube</a></li>
+<ul><li> 13:58 www.express.co.uk</li>
+<li> 13:56 www.google.com</li>
+<li> 13:28 <a href="https://www.youtube.com/watch?v=DadpHzTVqs4&t=404s">(8) Everything GREAT About Gladiator! (Part 1) - YouTube</a></li>
 <li> 13:28 <a href="https://www.youtube.com/">(13) YouTube</a></li>
 <li> 13:27 lantto.github.io</li>
 <li> 13:27 www.reddit.com</li>
