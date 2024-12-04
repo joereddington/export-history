@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9519)</li>
-<li>mail.google.com (6437)</li>
+<ol><li>www.google.com (9521)</li>
+<li>mail.google.com (6443)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3082)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1851)</li>
-<li>calendar.google.com (1570)</li>
+<li>outlook.office365.com (1870)</li>
+<li>calendar.google.com (1573)</li>
 <li>www.reddit.com (1535)</li>
-<li>moodle.royalholloway.ac.uk (1509)</li>
+<li>moodle.royalholloway.ac.uk (1511)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>bsky.app (1061)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (980)</li>
-<li>www.linkedin.com (897)</li>
+<li>www.linkedin.com (899)</li>
 <li>www.theguardian.com (890)</li>
-<li>gmail.com (828)</li>
+<li>gmail.com (829)</li>
 <li>login.microsoftonline.com (722)</li>
-<li>chat.openai.com (711)</li>
+<li>chat.openai.com (712)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (542)</li>
-<li>rhul-my.sharepoint.com (492)</li>
+<li>rhul-my.sharepoint.com (494)</li>
 <li>drive.google.com (489)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>teams.microsoft.com (462)</li>
-<li>chatgpt.com (454)</li>
+<li>chatgpt.com (455)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul.sharepoint.com (359)</li>
+<li>rhul.sharepoint.com (360)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,63 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:55 outlook.office365.com</li>
+<ul><li> 13:30 mail.google.com</li>
+<li class='same'> 13:24 mail.google.com</li>
+<li> 13:24 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:24 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:24 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:24 <a href="https://en.wikipedia.org/w/index.php?title=User_talk:Joereddington&action=history">User talk:Joereddington: Revision history - Wikipedia</a></li>
+<li> 13:23 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-94.44.225.95-20241201162800-Schierbecker-20240422182300">User talk:Joereddington - Wikipedia</a></li>
+<li> 13:23 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=332463559&markasreadwiki=enwiki#c-94.44.225.95-20241201162800-Schierbecker-20240422182300">User talk:Joereddington - Wikipedia</a></li>
+<li> 13:23 mail.google.com</li>
+<li> 13:22 calendar.google.com</li>
+<li> 13:22 mail.google.com</li>
+<li> 13:22 www.linkedin.com</li>
+<li class='same'> 13:21 www.linkedin.com</li>
+<li> 13:21 www.paypal.com</li>
+<li> 13:21 mail.google.com</li>
+<li class='same'> 13:20 mail.google.com</li>
+<li> 13:20 gmail.com</li>
+<li> 13:20 outlook.office365.com</li>
+<li> 13:15 rhul-my.sharepoint.com</li>
+<li> 13:14 chatgpt.com</li>
+<li> 13:14 chat.openai.com</li>
+<li> 13:14 claude.ai</li>
+<li> 13:13 outlook.office365.com</li>
+<li> 13:13 calendar.google.com</li>
+<li> 13:13 outlook.office365.com</li>
+<li class='same'> 13:12 outlook.office365.com</li>
+<li class='same'> 13:11 outlook.office365.com</li>
+<li> 13:10 rhul-my.sharepoint.com</li>
+<li> 13:10 rhul.sharepoint.com</li>
+<li> 13:10 outlook.office365.com</li>
+<li class='same'> 13:02 outlook.office365.com</li>
+<li> 13:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:01 moodle.royalholloway.ac.uk</li>
+<li> 12:57 outlook.office365.com</li>
+<li class='same'> 12:56 outlook.office365.com</li>
+<li> 12:56 www.google.com</li>
+<li> 12:55 outlook.office365.com</li>
+<li class='same'> 12:54 outlook.office365.com</li>
+<li class='same'> 12:53 outlook.office365.com</li>
+<li class='same'> 12:52 outlook.office365.com</li>
+<li class='same'> 12:49 outlook.office365.com</li>
+<li> 12:49 jobs.royalholloway.ac.uk</li>
+<li class='same'> 12:48 jobs.royalholloway.ac.uk</li>
+<li class='same'> 12:47 jobs.royalholloway.ac.uk</li>
+<li class='same'> 12:46 jobs.royalholloway.ac.uk</li>
+<li> 12:46 outlook.office365.com</li>
+<li class='same'> 12:45 outlook.office365.com</li>
+<li> 12:42 www.google.com</li>
+<li> 12:39 outlook.office365.com</li>
+<li> 12:39 calendar.google.com</li>
+<li> 12:39 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:02 outlook.office365.com</li>
+<li class='same'> 10:55 outlook.office365.com</li>
 <li class='same'> 10:46 outlook.office365.com</li>
 <li class='same'> 10:45 outlook.office365.com</li>
 <li class='same'> 10:44 outlook.office365.com</li>
