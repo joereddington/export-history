@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9517)</li>
-<li>mail.google.com (6436)</li>
+<ol><li>www.google.com (9518)</li>
+<li>mail.google.com (6437)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3081)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1831)</li>
+<li>outlook.office365.com (1833)</li>
 <li>calendar.google.com (1570)</li>
-<li>www.reddit.com (1528)</li>
+<li>www.reddit.com (1529)</li>
 <li>moodle.royalholloway.ac.uk (1508)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>github.com (1055)</li>
-<li>bsky.app (1033)</li>
+<li>bsky.app (1046)</li>
 <li>m.facebook.com (980)</li>
 <li>www.linkedin.com (897)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (828)</li>
 <li>login.microsoftonline.com (722)</li>
-<li>chat.openai.com (709)</li>
+<li>chat.openai.com (711)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (489)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>teams.microsoft.com (462)</li>
-<li>chatgpt.com (452)</li>
+<li>chatgpt.com (454)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (359)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:14 dashboards.rhul.ac.uk</li>
+<ul><li> 09:28 bsky.app</li>
+<li class='same'> 09:26 bsky.app</li>
+<li class='same'> 09:25 bsky.app</li>
+<li class='same'> 09:24 bsky.app</li>
+<li> 09:21 www.google.com</li>
+<li> 09:20 bsky.app</li>
+<li class='same'> 09:18 bsky.app</li>
+<li> 09:18 www.reddit.com</li>
+<li> 09:17 bsky.app</li>
+<li class='same'> 09:16 bsky.app</li>
+<li> 09:15 outlook.office365.com</li>
+<li> 09:15 bsky.app</li>
+<li class='same'> 09:14 bsky.app</li>
+<li class='same'> 09:13 bsky.app</li>
+<li> 09:11 chatgpt.com</li>
+<li> 09:11 chat.openai.com</li>
+<li> 09:09 bsky.app</li>
+<li class='same'> 09:07 bsky.app</li>
+<li> 09:07 mail.google.com</li>
+<li> 09:04 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:21 chatgpt.com</li>
+<li> 07:21 chat.openai.com</li>
+<li> 07:14 dashboards.rhul.ac.uk</li>
 <li> 07:01 rhul-my.sharepoint.com</li>
 <li> 06:47 outlook.office365.com</li>
 <li> 06:45 rhul-my.sharepoint.com</li>
