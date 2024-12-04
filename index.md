@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9521)</li>
-<li>mail.google.com (6443)</li>
+<li>mail.google.com (6454)</li>
 <li>outlook.office.com (3807)</li>
-<li>www.facebook.com (3082)</li>
+<li>www.facebook.com (3083)</li>
 <li>docs.google.com (1995)</li>
 <li>outlook.office365.com (1870)</li>
-<li>calendar.google.com (1573)</li>
+<li>calendar.google.com (1576)</li>
 <li>www.reddit.com (1535)</li>
 <li>moodle.royalholloway.ac.uk (1511)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>bsky.app (1061)</li>
 <li>github.com (1055)</li>
-<li>m.facebook.com (980)</li>
+<li>m.facebook.com (981)</li>
 <li>www.linkedin.com (899)</li>
 <li>www.theguardian.com (890)</li>
-<li>gmail.com (829)</li>
+<li>gmail.com (830)</li>
 <li>login.microsoftonline.com (722)</li>
 <li>chat.openai.com (712)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (542)</li>
+<li>web.whatsapp.com (544)</li>
 <li>rhul-my.sharepoint.com (494)</li>
 <li>drive.google.com (489)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:30 mail.google.com</li>
+<ul><li> 13:41 mail.google.com</li>
+<li> 13:41 gmail.com</li>
+<li> 13:41 mail.google.com</li>
+<li> 13:41 calendar.google.com</li>
+<li class='same'> 13:40 calendar.google.com</li>
+<li> 13:40 mail.google.com</li>
+<li> 13:40 calendar.google.com</li>
+<li> 13:40 mail.google.com</li>
+<li class='same'> 13:39 mail.google.com</li>
+<li> 13:39 web.whatsapp.com</li>
+<li> 13:39 mail.google.com</li>
+<li> 13:38 www.facebook.com</li>
+<li> 13:38 m.facebook.com</li>
+<li> 13:37 mail.google.com</li>
+<li class='same'> 13:36 mail.google.com</li>
+<li class='same'> 13:35 mail.google.com</li>
+<li> 13:35 www.thedailymash.co.uk</li>
+<li class='same'> 13:34 www.thedailymash.co.uk</li>
+<li class='same'> 13:33 www.thedailymash.co.uk</li>
+<li> 13:33 mail.google.com</li>
+<li> 13:32 web.whatsapp.com</li>
+<li> 13:32 mail.google.com</li>
+<li class='same'> 13:30 mail.google.com</li>
 <li class='same'> 13:24 mail.google.com</li>
 <li> 13:24 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 13:24 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
