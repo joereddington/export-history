@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9515)</li>
+<ol><li>www.google.com (9517)</li>
 <li>mail.google.com (6436)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3081)</li>
 <li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1825)</li>
+<li>outlook.office365.com (1831)</li>
 <li>calendar.google.com (1570)</li>
 <li>www.reddit.com (1528)</li>
 <li>moodle.royalholloway.ac.uk (1508)</li>
@@ -90,14 +90,14 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (673)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (542)</li>
+<li>rhul-my.sharepoint.com (491)</li>
 <li>drive.google.com (489)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>rhul-my.sharepoint.com (489)</li>
 <li>teams.microsoft.com (462)</li>
 <li>chatgpt.com (452)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul.sharepoint.com (358)</li>
+<li>rhul.sharepoint.com (359)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:36 www.royalholloway.ac.uk</li>
+<ul><li> 07:14 dashboards.rhul.ac.uk</li>
+<li> 07:01 rhul-my.sharepoint.com</li>
+<li> 06:47 outlook.office365.com</li>
+<li> 06:45 rhul-my.sharepoint.com</li>
+<li> 06:43 outlook.office365.com</li>
+<li class='same'> 06:42 outlook.office365.com</li>
+<li class='same'> 06:41 outlook.office365.com</li>
+<li class='same'> 06:40 outlook.office365.com</li>
+<li class='same'> 06:39 outlook.office365.com</li>
+<li> 06:39 intranet.royalholloway.ac.uk</li>
+<li> 06:39 www.google.com</li>
+<li> 06:38 www.royalholloway.ac.uk</li>
+<li> 06:38 www.google.com</li>
+<li> 06:37 rhul.sharepoint.com</li>
+<li> 06:36 www.royalholloway.ac.uk</li>
 <li> 06:36 rhul.sharepoint.com</li>
 <li> 06:35 www.google.com</li>
 <li> 06:34 moodle.royalholloway.ac.uk</li>
