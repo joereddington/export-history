@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9547)</li>
+<ol><li>www.google.com (9557)</li>
 <li>mail.google.com (6495)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3089)</li>
 <li>docs.google.com (1998)</li>
 <li>outlook.office365.com (1925)</li>
 <li>calendar.google.com (1580)</li>
-<li>www.reddit.com (1535)</li>
+<li>www.reddit.com (1538)</li>
 <li>moodle.royalholloway.ac.uk (1514)</li>
 <li>www.amazon.co.uk (1280)</li>
 <li>bsky.app (1076)</li>
@@ -108,6 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:42 www.reddit.com</li>
+<li class='same'> 20:38 www.reddit.com</li>
+</ul>
+
+<br>
+
 <ul><li> 20:02 www.linkedin.com</li>
 <li> 20:01 feedly.com</li>
 </ul>
@@ -132,6 +138,10 @@ With number of accesses/minutes in parentheses
 <li> 19:18 www.google.com</li>
 <li> 19:18 www.amazon.co.uk</li>
 <li class='same'> 19:17 www.amazon.co.uk</li>
+<li> 19:15 www.reddit.com</li>
+<li> 19:15 www.google.com</li>
+<li> 19:14 www.which.co.uk</li>
+<li> 19:13 www.google.com</li>
 </ul>
 
 <br>
@@ -398,6 +408,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:03 outlook.office365.com</li>
 <li> 14:03 mail.google.com</li>
 <li> 14:02 outlook.office365.com</li>
+<li> 13:51 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 13:51 www.google.com</li>
 <li> 13:41 mail.google.com</li>
 <li> 13:41 gmail.com</li>
 <li> 13:41 mail.google.com</li>
@@ -594,7 +606,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:24 tvtropes.org</li>
+<ul><li> 21:40 www.google.com</li>
+<li> 21:38 www.veggiekitchen.co.uk</li>
+<li class='same'> 21:37 www.veggiekitchen.co.uk</li>
+<li> 21:37 www.google.com</li>
+<li class='same'> 21:36 www.google.com</li>
+<li> 21:36 www.deliciouslyella.com</li>
+<li> 21:35 www.google.com</li>
+<li> 21:34 www.virginexperiencedays.co.uk</li>
+<li> 21:34 www.google.com</li>
+<li> 21:34 theavenuecookeryschool.com</li>
+<li class='same'> 21:33 theavenuecookeryschool.com</li>
+<li> 21:33 www.google.com</li>
+<li> 21:33 m.youtube.com</li>
+<li> 21:24 tvtropes.org</li>
 <li class='same'> 21:23 tvtropes.org</li>
 <li class='same'> 21:20 tvtropes.org</li>
 <li> 20:53 bsky.app</li>
@@ -688,6 +713,8 @@ With number of accesses/minutes in parentheses
 <li> 15:46 chatgpt.com</li>
 <li> 15:46 chat.openai.com</li>
 <li> 15:27 www.google.com</li>
+<li> 15:25 m.youtube.com</li>
+<li> 15:25 www.google.com</li>
 <li> 15:23 bsky.app</li>
 <li class='same'> 15:22 bsky.app</li>
 <li> 14:53 reductress.com</li>
