@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9529)</li>
-<li>mail.google.com (6465)</li>
+<ol><li>www.google.com (9533)</li>
+<li>mail.google.com (6471)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3085)</li>
-<li>docs.google.com (1996)</li>
-<li>outlook.office365.com (1885)</li>
+<li>docs.google.com (1998)</li>
+<li>outlook.office365.com (1886)</li>
 <li>calendar.google.com (1577)</li>
 <li>www.reddit.com (1535)</li>
 <li>moodle.royalholloway.ac.uk (1511)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (545)</li>
 <li>rhul-my.sharepoint.com (494)</li>
-<li>drive.google.com (491)</li>
+<li>drive.google.com (493)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>teams.microsoft.com (462)</li>
 <li>chatgpt.com (457)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:37 mail.google.com</li>
+<ul><li> 07:14 www.avantiwestcoast.co.uk</li>
+<li> 07:13 www.google.com</li>
+<li> 07:11 publish.buffer.com</li>
+<li> 07:11 login.buffer.com</li>
+<li> 07:11 buffer.com</li>
+<li> 07:10 <a href="https://en.wikipedia.org/wiki/Mobile_phone_jammer">Mobile phone jammer - Wikipedia</a></li>
+<li> 07:10 www.google.com</li>
+<li> 06:58 mail.google.com</li>
+<li> 06:51 drive.google.com</li>
+<li class='same'> 06:50 drive.google.com</li>
+<li> 06:50 mail.google.com</li>
+<li> 06:49 outlook.office365.com</li>
+<li> 06:49 mail.google.com</li>
+<li> 06:48 www.google.com</li>
+<li> 06:48 www.smartran.co.uk</li>
+<li> 06:47 www.google.com</li>
+<li> 06:47 mail.google.com</li>
+<li> 06:45 docs.google.com</li>
+<li> 06:39 mail.google.com</li>
+<li class='same'> 06:38 mail.google.com</li>
+<li> 06:37 docs.google.com</li>
+<li> 06:37 mail.google.com</li>
 <li> 06:37 www.google.com</li>
 <li class='same'> 06:36 www.google.com</li>
 <li> 06:36 docs.google.com</li>
