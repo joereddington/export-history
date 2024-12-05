@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9528)</li>
-<li>mail.google.com (6456)</li>
+<ol><li>www.google.com (9531)</li>
+<li>mail.google.com (6465)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3085)</li>
-<li>docs.google.com (1995)</li>
-<li>outlook.office365.com (1878)</li>
-<li>calendar.google.com (1576)</li>
+<li>docs.google.com (1996)</li>
+<li>outlook.office365.com (1885)</li>
+<li>calendar.google.com (1577)</li>
 <li>www.reddit.com (1535)</li>
 <li>moodle.royalholloway.ac.uk (1511)</li>
 <li>www.amazon.co.uk (1270)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (902)</li>
 <li>www.theguardian.com (890)</li>
-<li>gmail.com (830)</li>
+<li>gmail.com (831)</li>
 <li>login.microsoftonline.com (722)</li>
 <li>chat.openai.com (713)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (545)</li>
 <li>rhul-my.sharepoint.com (494)</li>
-<li>drive.google.com (489)</li>
+<li>drive.google.com (491)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>teams.microsoft.com (462)</li>
 <li>chatgpt.com (457)</li>
@@ -104,7 +104,46 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 05/12/24</H3>
+
+<br>
+
+<ul><li> 06:37 mail.google.com</li>
+<li> 06:37 www.google.com</li>
+<li class='same'> 06:36 www.google.com</li>
+<li> 06:36 docs.google.com</li>
+<li> 06:36 mail.google.com</li>
+<li> 06:36 drive.google.com</li>
+<li> 06:35 mail.google.com</li>
+<li class='same'> 06:34 mail.google.com</li>
+<li> 06:34 drive.google.com</li>
+<li> 06:34 www.google.com</li>
+<li> 06:33 mail.google.com</li>
+<li class='same'> 06:32 mail.google.com</li>
+<li> 06:32 gmail.com</li>
+<li> 06:32 outlook.office365.com</li>
+<li> 06:32 mail.google.com</li>
+<li> 06:29 outlook.office365.com</li>
+<li> 06:26 projects.cs.rhul.ac.uk</li>
+<li> 06:25 outlook.office365.com</li>
+<li class='same'> 06:22 outlook.office365.com</li>
+<li class='same'> 06:19 outlook.office365.com</li>
+<li class='same'> 06:18 outlook.office365.com</li>
+<li class='same'> 06:17 outlook.office365.com</li>
+<li> 06:16 mail.google.com</li>
+<li class='same'> 06:15 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 02:23 calendar.google.com</li>
+</ul>
+
 <H3>Wednesday, 04/12/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
