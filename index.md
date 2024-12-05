@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9544)</li>
-<li>mail.google.com (6494)</li>
+<ol><li>www.google.com (9547)</li>
+<li>mail.google.com (6495)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3089)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1924)</li>
+<li>outlook.office365.com (1925)</li>
 <li>calendar.google.com (1580)</li>
 <li>www.reddit.com (1535)</li>
 <li>moodle.royalholloway.ac.uk (1514)</li>
-<li>www.amazon.co.uk (1273)</li>
+<li>www.amazon.co.uk (1280)</li>
 <li>bsky.app (1076)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (908)</li>
+<li>www.linkedin.com (909)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (832)</li>
 <li>login.microsoftonline.com (725)</li>
@@ -105,6 +105,34 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 05/12/24</H3>
+
+<br>
+
+<ul><li> 20:02 www.linkedin.com</li>
+<li> 20:01 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:21 outlook.office365.com</li>
+<li> 19:21 mail.google.com</li>
+<li> 19:21 www.amazon.co.uk</li>
+<li class='same'> 19:20 www.amazon.co.uk</li>
+<li> 19:20 www.yours.co.uk</li>
+<li> 19:20 www.amazon.co.uk</li>
+<li> 19:20 www.yours.co.uk</li>
+<li> 19:20 www.google.com</li>
+<li> 19:20 forums.moneysavingexpert.com</li>
+<li class='same'> 19:19 forums.moneysavingexpert.com</li>
+<li> 19:19 www.google.com</li>
+<li> 19:19 www.amazon.co.uk</li>
+<li class='same'> 19:18 www.amazon.co.uk</li>
+<li> 19:18 www.amazon.com</li>
+<li> 19:18 code-authorities.ul.com</li>
+<li> 19:18 www.google.com</li>
+<li> 19:18 www.amazon.co.uk</li>
+<li class='same'> 19:17 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
