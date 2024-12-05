@@ -71,30 +71,30 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9544)</li>
 <li>mail.google.com (6490)</li>
 <li>outlook.office.com (3807)</li>
-<li>www.facebook.com (3085)</li>
+<li>www.facebook.com (3089)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1906)</li>
+<li>outlook.office365.com (1909)</li>
 <li>calendar.google.com (1578)</li>
 <li>www.reddit.com (1535)</li>
 <li>moodle.royalholloway.ac.uk (1514)</li>
-<li>www.amazon.co.uk (1270)</li>
-<li>bsky.app (1065)</li>
+<li>www.amazon.co.uk (1273)</li>
+<li>bsky.app (1067)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (908)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (831)</li>
 <li>login.microsoftonline.com (723)</li>
-<li>chat.openai.com (714)</li>
+<li>chat.openai.com (715)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (545)</li>
-<li>rhul-my.sharepoint.com (495)</li>
+<li>rhul-my.sharepoint.com (497)</li>
 <li>drive.google.com (493)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>teams.microsoft.com (463)</li>
-<li>chatgpt.com (459)</li>
+<li>chatgpt.com (461)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (360)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:15 mail.google.com</li>
+<ul><li> 13:52 bsky.app</li>
+<li class='same'> 13:51 bsky.app</li>
+<li> 13:50 www.facebook.com</li>
+<li> 13:50 www.amazon.co.uk</li>
+<li> 13:50 www.facebook.com</li>
+<li> 13:50 www.amazon.co.uk</li>
+<li class='same'> 13:49 www.amazon.co.uk</li>
+<li> 13:49 l.facebook.com</li>
+<li> 13:49 www.facebook.com</li>
+<li class='same'> 13:48 www.facebook.com</li>
+<li> 13:48 outlook.office365.com</li>
+<li> 13:47 rhul-my.sharepoint.com</li>
+<li class='same'> 13:46 rhul-my.sharepoint.com</li>
+<li> 13:44 outlook.office365.com</li>
+<li> 13:21 chatgpt.com</li>
+<li class='same'> 13:20 chatgpt.com</li>
+<li> 13:20 chat.openai.com</li>
+<li> 13:19 outlook.office365.com</li>
+<li> 13:15 mail.google.com</li>
 <li> 13:15 publish.buffer.com</li>
 <li> 13:15 login.buffer.com</li>
 <li> 13:15 buffer.com</li>
