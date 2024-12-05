@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9544)</li>
-<li>mail.google.com (6490)</li>
+<li>mail.google.com (6493)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3089)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1912)</li>
-<li>calendar.google.com (1578)</li>
+<li>outlook.office365.com (1917)</li>
+<li>calendar.google.com (1579)</li>
 <li>www.reddit.com (1535)</li>
 <li>moodle.royalholloway.ac.uk (1514)</li>
 <li>www.amazon.co.uk (1273)</li>
-<li>bsky.app (1070)</li>
+<li>bsky.app (1075)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (908)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (545)</li>
+<li>web.whatsapp.com (546)</li>
 <li>rhul-my.sharepoint.com (497)</li>
 <li>drive.google.com (493)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:13 outlook.office365.com</li>
+<ul><li> 16:10 bsky.app</li>
+<li> 16:07 outlook.office365.com</li>
+<li> 16:07 bsky.app</li>
+<li> 16:07 mail.google.com</li>
+<li> 16:06 bsky.app</li>
+<li> 16:06 mail.google.com</li>
+<li> 16:03 web.whatsapp.com</li>
+<li> 16:03 bsky.app</li>
+<li class='same'> 16:02 bsky.app</li>
+<li> 16:02 outlook.office365.com</li>
+<li> 16:02 doodle.com</li>
+<li> 16:01 calendar.google.com</li>
+<li> 16:00 doodle.com</li>
+<li> 16:00 outlook.office365.com</li>
+<li> 15:30 mail.google.com</li>
+<li> 15:30 outlook.office365.com</li>
+<li class='same'> 15:25 outlook.office365.com</li>
+<li class='same'> 15:13 outlook.office365.com</li>
 <li class='same'> 14:58 outlook.office365.com</li>
 <li class='same'> 14:57 outlook.office365.com</li>
 </ul>
