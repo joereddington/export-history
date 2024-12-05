@@ -73,24 +73,24 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3089)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1917)</li>
-<li>calendar.google.com (1579)</li>
+<li>outlook.office365.com (1922)</li>
+<li>calendar.google.com (1580)</li>
 <li>www.reddit.com (1535)</li>
 <li>moodle.royalholloway.ac.uk (1514)</li>
 <li>www.amazon.co.uk (1273)</li>
-<li>bsky.app (1075)</li>
+<li>bsky.app (1076)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (908)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (831)</li>
-<li>login.microsoftonline.com (723)</li>
+<li>login.microsoftonline.com (725)</li>
 <li>chat.openai.com (715)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (546)</li>
-<li>rhul-my.sharepoint.com (497)</li>
+<li>rhul-my.sharepoint.com (498)</li>
 <li>drive.google.com (493)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>teams.microsoft.com (463)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:10 bsky.app</li>
+<ul><li> 17:41 dashboards.rhul.ac.uk</li>
+<li> 17:35 outlook.office365.com</li>
+<li> 17:33 forms.office.com</li>
+<li> 17:33 login.microsoftonline.com</li>
+<li> 17:33 rhul-my.sharepoint.com</li>
+<li> 17:33 forms.office.com</li>
+<li> 17:33 login.microsoftonline.com</li>
+<li> 17:33 forms.office.com</li>
+<li> 17:32 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:17 calendar.google.com</li>
+<li> 16:17 outlook.office365.com</li>
+<li> 16:17 bsky.app</li>
+<li> 16:15 outlook.office365.com</li>
+<li class='same'> 16:11 outlook.office365.com</li>
+<li> 16:10 www.ft.com</li>
+<li> 16:10 bsky.app</li>
 <li> 16:07 outlook.office365.com</li>
 <li> 16:07 bsky.app</li>
 <li> 16:07 mail.google.com</li>
