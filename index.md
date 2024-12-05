@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9543)</li>
-<li>mail.google.com (6487)</li>
+<ol><li>www.google.com (9544)</li>
+<li>mail.google.com (6490)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3085)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1899)</li>
-<li>calendar.google.com (1577)</li>
+<li>outlook.office365.com (1906)</li>
+<li>calendar.google.com (1578)</li>
 <li>www.reddit.com (1535)</li>
-<li>moodle.royalholloway.ac.uk (1512)</li>
+<li>moodle.royalholloway.ac.uk (1514)</li>
 <li>www.amazon.co.uk (1270)</li>
 <li>bsky.app (1065)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (906)</li>
+<li>www.linkedin.com (908)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (831)</li>
 <li>login.microsoftonline.com (723)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (495)</li>
 <li>drive.google.com (493)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>teams.microsoft.com (462)</li>
+<li>teams.microsoft.com (463)</li>
 <li>chatgpt.com (459)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:14 mail.google.com</li>
+<ul><li> 13:15 mail.google.com</li>
+<li> 13:15 publish.buffer.com</li>
+<li> 13:15 login.buffer.com</li>
+<li> 13:15 buffer.com</li>
+<li> 13:15 outlook.office365.com</li>
+<li class='same'> 13:14 outlook.office365.com</li>
+<li> 13:12 teams.microsoft.com</li>
+<li> 13:11 mail.google.com</li>
+<li class='same'> 13:10 mail.google.com</li>
+<li> 13:10 outlook.office365.com</li>
+<li class='same'> 13:09 outlook.office365.com</li>
+<li> 13:09 calendar.google.com</li>
+<li> 13:04 www.google.com</li>
+<li> 13:03 publish.buffer.com</li>
+<li> 13:03 login.buffer.com</li>
+<li> 13:03 buffer.com</li>
+<li> 13:03 outlook.office365.com</li>
+<li class='same'> 13:02 outlook.office365.com</li>
+<li> 12:58 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:57 moodle.royalholloway.ac.uk</li>
+<li> 12:56 outlook.office365.com</li>
+<li> 12:30 buffer.com</li>
+<li> 12:29 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:29 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:29 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:29 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:27 www.linkedin.com</li>
+<li class='same'> 12:26 www.linkedin.com</li>
+<li> 12:14 mail.google.com</li>
 <li> 12:14 www.linkedin.com</li>
 <li class='same'> 12:13 www.linkedin.com</li>
 <li> 12:13 typeset.io</li>
