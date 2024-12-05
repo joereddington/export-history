@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9537)</li>
-<li>mail.google.com (6481)</li>
+<ol><li>www.google.com (9543)</li>
+<li>mail.google.com (6487)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3085)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1893)</li>
+<li>outlook.office365.com (1899)</li>
 <li>calendar.google.com (1577)</li>
 <li>www.reddit.com (1535)</li>
 <li>moodle.royalholloway.ac.uk (1512)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1065)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (902)</li>
+<li>www.linkedin.com (906)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (831)</li>
 <li>login.microsoftonline.com (723)</li>
@@ -105,6 +105,37 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 05/12/24</H3>
+
+<br>
+
+<ul><li> 12:14 mail.google.com</li>
+<li> 12:14 www.linkedin.com</li>
+<li class='same'> 12:13 www.linkedin.com</li>
+<li> 12:13 typeset.io</li>
+<li> 12:13 patents.justia.com</li>
+<li> 12:13 www.google.com</li>
+<li class='same'> 12:12 www.google.com</li>
+<li class='same'> 12:11 www.google.com</li>
+<li class='same'> 12:10 www.google.com</li>
+<li> 12:10 find-and-update.company-information.service.gov.uk</li>
+<li> 12:10 www.google.com</li>
+<li> 12:10 cjsconsultancy.com</li>
+<li> 12:09 mail.google.com</li>
+<li> 12:09 www.linkedin.com</li>
+<li class='same'> 12:08 www.linkedin.com</li>
+<li> 12:08 www.google.com</li>
+<li> 12:07 cjsconsultancy.com</li>
+<li> 12:07 mail.google.com</li>
+<li> 12:04 outlook.office365.com</li>
+<li> 12:03 mail.google.com</li>
+<li class='same'> 12:01 mail.google.com</li>
+<li> 12:00 outlook.office365.com</li>
+<li> 12:00 mail.google.com</li>
+<li> 11:59 outlook.office365.com</li>
+<li class='same'> 11:47 outlook.office365.com</li>
+<li class='same'> 11:28 outlook.office365.com</li>
+<li class='same'> 11:27 outlook.office365.com</li>
+</ul>
 
 <br>
 
