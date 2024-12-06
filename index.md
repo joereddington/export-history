@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9557)</li>
+<ol><li>www.google.com (9551)</li>
 <li>mail.google.com (6495)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3089)</li>
@@ -21684,14 +21684,12 @@ With number of accesses/minutes in parentheses
 <li> 20:34 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
 <li> 20:34 docs.google.com</li>
 <li> 20:33 www.linkedin.com</li>
-<li> 20:24 content.explore-education-statistics.service.gov.uk</li>
 <li> 20:24 explore-education-statistics.service.gov.uk</li>
 <li> 20:24 chatgpt.com</li>
 <li class='same'> 20:23 chatgpt.com</li>
 <li> 20:23 chat.openai.com</li>
 <li> 20:22 analytics.ofqual.gov.uk</li>
-<li> 20:22 www.google.com</li>
-<li class='same'> 20:21 www.google.com</li>
+<li> 20:21 www.google.com</li>
 <li> 20:20 arxiv.org</li>
 <li> 20:19 www.amazon.co.uk</li>
 <li> 20:12 www.theguardian.com</li>
@@ -21757,8 +21755,7 @@ With number of accesses/minutes in parentheses
 <li> 15:31 www.facebook.com</li>
 <li class='same'> 15:30 www.facebook.com</li>
 <li> 15:22 docs.google.com</li>
-<li> 15:20 media.discordapp.net</li>
-<li> 15:19 docs.google.com</li>
+<li class='same'> 15:19 docs.google.com</li>
 <li> 15:19 equalitytime.github.io</li>
 <li> 15:18 docs.google.com</li>
 <li> 15:16 web.whatsapp.com</li>
@@ -21778,13 +21775,10 @@ With number of accesses/minutes in parentheses
 <li> 14:56 www.u3a.org.uk</li>
 <li> 14:56 <a href="https://en.wikipedia.org/wiki/University_of_the_Third_Age#cite_note-:0-1">University of the Third Age - Wikipedia</a></li>
 <li> 14:56 www.telegraph.co.uk</li>
-<li> 14:56 www.google.com</li>
-<li class='same'> 14:55 www.google.com</li>
+<li> 14:55 www.google.com</li>
 <li> 14:54 www.u3a.org.uk</li>
-<li> 14:54 www.google.com</li>
-<li> 14:52 www.u3a.org.uk</li>
+<li class='same'> 14:52 www.u3a.org.uk</li>
 <li> 14:52 <a href="https://en.wikipedia.org/wiki/University_of_the_Third_Age">University of the Third Age - Wikipedia</a></li>
-<li> 14:51 www.google.com</li>
 <li> 14:51 www.u3a.org.uk</li>
 <li> 14:51 www.google.com</li>
 <li> 14:49 <a href="https://en.wikipedia.org/w/index.php?title=Persecution_of_Zoroastrians&diff=prev&oldid=1244319536">Persecution of Zoroastrians: Difference between revisions - Wikipedia</a></li>
@@ -21833,8 +21827,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:27 www.google.com</li>
-<li> 13:26 explore-education-statistics.service.gov.uk</li>
+<ul><li> 13:26 explore-education-statistics.service.gov.uk</li>
 <li> 13:26 www.google.com</li>
 <li> 13:18 docs.google.com</li>
 <li> 13:17 www.cybok.org</li>
@@ -21843,7 +21836,6 @@ With number of accesses/minutes in parentheses
 <li> 13:08 outlook.office.com</li>
 <li> 13:08 www.linkedin.com</li>
 <li class='same'> 13:07 www.linkedin.com</li>
-<li> 13:07 eur03.safelinks.protection.outlook.com</li>
 <li> 13:07 outlook.office.com</li>
 <li> 13:07 mail.google.com</li>
 <li class='same'> 13:06 mail.google.com</li>
@@ -21855,9 +21847,7 @@ With number of accesses/minutes in parentheses
 <li> 12:40 analytics.google.com</li>
 <li class='same'> 12:39 analytics.google.com</li>
 <li class='same'> 12:38 analytics.google.com</li>
-<li> 12:38 accounts.google.com</li>
 <li> 12:38 accounts.google.co.uk</li>
-<li> 12:37 gds.google.com</li>
 <li> 12:37 myaccount.google.com</li>
 <li> 12:37 gds.google.com</li>
 <li> 12:37 accounts.google.com</li>
@@ -21873,15 +21863,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:12 calendar.google.com</li>
-<li> 10:46 accounts.google.com</li>
-<li> 10:41 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:41 chatgpt.com</li>
 <li class='same'> 10:40 chatgpt.com</li>
 <li> 10:40 chat.openai.com</li>
 <li> 10:40 docs.google.com</li>
 <li class='same'> 10:39 docs.google.com</li>
 <li> 10:28 web.whatsapp.com</li>
 <li> 10:27 discord.com</li>
-<li> 10:25 accounts.google.com</li>
 <li> 10:24 analytics.google.com</li>
 <li> 10:24 accounts.google.com</li>
 <li> 10:12 docs.google.com</li>
@@ -21890,9 +21882,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:59 docs.google.com</li>
 <li> 09:56 www.usenix.org</li>
 <li class='same'> 09:55 www.usenix.org</li>
-<li> 09:55 www.google.com</li>
-<li class='same'> 09:53 www.google.com</li>
-<li> 09:33 mail-attachment.googleusercontent.com</li>
+<li> 09:53 www.google.com</li>
 <li> 09:33 mail.google.com</li>
 <li class='same'> 09:32 mail.google.com</li>
 <li> 09:32 gmail.com</li>
@@ -21928,10 +21918,8 @@ With number of accesses/minutes in parentheses
 <li> 09:14 Local file</li>
 <li> 09:13 mail.google.com</li>
 <li> 09:13 accounts.youtube.com</li>
-<li> 09:13 accounts.google.com</li>
 <li> 09:13 accounts.google.co.uk</li>
-<li> 09:13 accounts.google.com</li>
-<li class='same'> 09:12 accounts.google.com</li>
+<li> 09:12 accounts.google.com</li>
 <li> 09:12 mail.google.com</li>
 <li> 09:12 gmail.com</li>
 <li> 09:12 Local file</li>
@@ -21974,7 +21962,6 @@ With number of accesses/minutes in parentheses
 <li> 08:12 www.reddit.com</li>
 <li> 08:11 mail.google.com</li>
 <li> 08:11 x.com</li>
-<li> 08:11 twitter.com</li>
 <li> 08:10 www.google.com</li>
 <li> 08:10 www.facebook.com</li>
 <li> 08:09 www.theguardian.com</li>
