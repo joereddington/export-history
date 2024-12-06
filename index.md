@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9574)</li>
-<li>mail.google.com (6502)</li>
+<li>mail.google.com (6503)</li>
 <li>outlook.office.com (3807)</li>
-<li>www.facebook.com (3091)</li>
+<li>www.facebook.com (3092)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1944)</li>
+<li>outlook.office365.com (1947)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1545)</li>
-<li>moodle.royalholloway.ac.uk (1519)</li>
+<li>moodle.royalholloway.ac.uk (1520)</li>
 <li>www.amazon.co.uk (1280)</li>
-<li>bsky.app (1080)</li>
+<li>bsky.app (1082)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (916)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:32 outlook.office365.com</li>
+<ul><li> 16:39 outlook.office365.com</li>
+<li> 16:38 www.facebook.com</li>
+<li> 16:38 bsky.app</li>
+<li class='same'> 16:37 bsky.app</li>
+<li> 16:37 outlook.office365.com</li>
+<li> 16:36 projects.cs.rhul.ac.uk</li>
+<li class='same'> 16:35 projects.cs.rhul.ac.uk</li>
+<li> 16:35 mail.google.com</li>
+<li> 16:34 projects.cs.rhul.ac.uk</li>
+<li> 16:32 moodle.royalholloway.ac.uk</li>
+<li> 16:28 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:32 outlook.office365.com</li>
 <li> 15:29 projects.cs.rhul.ac.uk</li>
 <li> 15:29 moodle.royalholloway.ac.uk</li>
 <li> 15:27 outlook.office365.com</li>
