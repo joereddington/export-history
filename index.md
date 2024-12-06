@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9565)</li>
+<ol><li>www.google.com (9574)</li>
 <li>mail.google.com (6497)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3091)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1937)</li>
+<li>outlook.office365.com (1940)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1545)</li>
 <li>moodle.royalholloway.ac.uk (1514)</li>
@@ -81,11 +81,11 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1080)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (913)</li>
+<li>www.linkedin.com (916)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (833)</li>
 <li>login.microsoftonline.com (725)</li>
-<li>chat.openai.com (716)</li>
+<li>chat.openai.com (717)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (493)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>teams.microsoft.com (463)</li>
-<li>chatgpt.com (462)</li>
+<li>chatgpt.com (463)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (360)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:17 www.facebook.com</li>
+<ul><li> 12:36 outlook.office365.com</li>
+<li class='same'> 12:35 outlook.office365.com</li>
+<li> 12:31 www.linkedin.com</li>
+<li> 12:28 www.google.com</li>
+<li> 12:28 www.linkedin.com</li>
+<li class='same'> 12:27 www.linkedin.com</li>
+<li> 12:27 www.google.com</li>
+<li class='same'> 12:26 www.google.com</li>
+<li class='same'> 12:25 www.google.com</li>
+<li> 12:24 outlook.office365.com</li>
+<li> 12:24 chatgpt.com</li>
+<li> 12:24 chat.openai.com</li>
+<li> 12:23 www.pinterest.com</li>
+<li> 12:23 www.google.com</li>
+<li class='same'> 12:22 www.google.com</li>
+<li class='same'> 12:21 www.google.com</li>
+<li class='same'> 12:20 www.google.com</li>
+<li class='same'> 12:19 www.google.com</li>
+<li> 12:17 www.facebook.com</li>
 <li> 12:17 mail.google.com</li>
 <li> 12:17 outlook.office365.com</li>
 <li> 12:14 rhul-my.sharepoint.com</li>
