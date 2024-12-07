@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9574)</li>
+<ol><li>www.google.com (9575)</li>
 <li>mail.google.com (6503)</li>
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3092)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1947)</li>
+<li>outlook.office365.com (1951)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1545)</li>
 <li>moodle.royalholloway.ac.uk (1520)</li>
 <li>www.amazon.co.uk (1280)</li>
-<li>bsky.app (1082)</li>
+<li>bsky.app (1083)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (916)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (834)</li>
-<li>login.microsoftonline.com (726)</li>
+<li>login.microsoftonline.com (728)</li>
 <li>chat.openai.com (717)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (546)</li>
-<li>rhul-my.sharepoint.com (501)</li>
+<li>rhul-my.sharepoint.com (502)</li>
 <li>drive.google.com (493)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>teams.microsoft.com (463)</li>
@@ -104,7 +104,44 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 07/12/24</H3>
+
+<br>
+
+<ul><li> 10:05 support.apple.com</li>
+<li> 10:04 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:20 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+</ul>
+
+<br>
+
+<ul><li> 07:07 bsky.app</li>
+<li> 07:06 login.microsoftonline.com</li>
+<li> 07:06 rhul-my.sharepoint.com</li>
+<li> 07:06 forms.office.com</li>
+<li class='same'> 07:05 forms.office.com</li>
+<li> 07:05 login.microsoftonline.com</li>
+<li> 07:05 forms.office.com</li>
+<li> 07:05 outlook.office365.com</li>
+<li class='same'> 07:03 outlook.office365.com</li>
+<li class='same'> 07:02 outlook.office365.com</li>
+<li class='same'> 07:01 outlook.office365.com</li>
+</ul>
+
 <H3>Friday, 06/12/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:21 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+</ul>
 
 <br>
 
@@ -220,6 +257,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:36 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:21 reductress.com</li>
 </ul>
 
 <br>
