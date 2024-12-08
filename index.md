@@ -73,15 +73,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3807)</li>
 <li>www.facebook.com (3092)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1965)</li>
+<li>outlook.office365.com (1969)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1545)</li>
 <li>moodle.royalholloway.ac.uk (1521)</li>
 <li>www.amazon.co.uk (1280)</li>
-<li>bsky.app (1087)</li>
+<li>bsky.app (1091)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (916)</li>
+<li>www.linkedin.com (918)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (834)</li>
 <li>login.microsoftonline.com (730)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:20 outlook.office365.com</li>
+<ul><li> 15:55 bsky.app</li>
+<li class='same'> 15:54 bsky.app</li>
+<li> 15:54 www.linkedin.com</li>
+<li> 15:54 <a href="https://www.bbc.co.uk/news/articles/c0rngrjejy7o">Histon-based Internet Watch Foundation identifies 564,000 victims - BBC News</a></li>
+<li> 15:53 www.bbc.com</li>
+<li> 15:53 www.linkedin.com</li>
+<li> 15:53 outlook.office365.com</li>
+<li class='same'> 15:46 outlook.office365.com</li>
+<li class='same'> 15:37 outlook.office365.com</li>
+<li> 15:33 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:33 bsky.app</li>
+<li class='same'> 15:31 bsky.app</li>
+<li> 15:30 outlook.office365.com</li>
+<li class='same'> 15:20 outlook.office365.com</li>
 </ul>
 
 <br>
