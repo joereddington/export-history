@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9579)</li>
 <li>mail.google.com (6505)</li>
 <li>outlook.office.com (3815)</li>
-<li>www.facebook.com (3092)</li>
+<li>www.facebook.com (3095)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1969)</li>
+<li>outlook.office365.com (1971)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1545)</li>
 <li>moodle.royalholloway.ac.uk (1528)</li>
 <li>www.amazon.co.uk (1280)</li>
-<li>bsky.app (1091)</li>
+<li>bsky.app (1095)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (918)</li>
@@ -158,7 +158,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:55 bsky.app</li>
+<ul><li> 17:53 www.facebook.com</li>
+<li> 17:53 l.facebook.com</li>
+<li> 17:53 chat.whatsapp.com</li>
+<li> 17:52 www.facebook.com</li>
+<li> 17:52 bsky.app</li>
+<li class='same'> 17:51 bsky.app</li>
+<li> 17:50 www.facebook.com</li>
+<li> 17:50 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:59 bsky.app</li>
+<li class='same'> 15:57 bsky.app</li>
+<li> 15:56 outlook.office365.com</li>
+<li> 15:55 bsky.app</li>
 <li class='same'> 15:54 bsky.app</li>
 <li> 15:54 www.linkedin.com</li>
 <li> 15:54 <a href="https://www.bbc.co.uk/news/articles/c0rngrjejy7o">Histon-based Internet Watch Foundation identifies 564,000 victims - BBC News</a></li>
