@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9577)</li>
+<ol><li>www.google.com (9578)</li>
 <li>mail.google.com (6505)</li>
-<li>outlook.office.com (3809)</li>
+<li>outlook.office.com (3810)</li>
 <li>www.facebook.com (3092)</li>
 <li>docs.google.com (1998)</li>
 <li>outlook.office365.com (1969)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1545)</li>
-<li>moodle.royalholloway.ac.uk (1521)</li>
+<li>moodle.royalholloway.ac.uk (1524)</li>
 <li>www.amazon.co.uk (1280)</li>
 <li>bsky.app (1091)</li>
 <li>github.com (1055)</li>
@@ -84,13 +84,13 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (918)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (834)</li>
-<li>login.microsoftonline.com (731)</li>
+<li>login.microsoftonline.com (732)</li>
 <li>chat.openai.com (718)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (548)</li>
-<li>rhul-my.sharepoint.com (502)</li>
+<li>rhul-my.sharepoint.com (503)</li>
 <li>drive.google.com (493)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>chatgpt.com (465)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:57 rhul.sharepoint.com</li>
+<ul><li> 20:07 ev.turnitinuk.com</li>
+<li> 20:07 api.turnitinuk.com</li>
+<li> 20:05 www.breaches.cloud</li>
+<li> 20:05 ev.turnitinuk.com</li>
+<li> 20:05 api.turnitinuk.com</li>
+<li> 20:04 ev.turnitinuk.com</li>
+<li> 20:04 api.turnitinuk.com</li>
+<li> 20:03 moodle.royalholloway.ac.uk</li>
+<li> 20:02 ev.turnitinuk.com</li>
+<li> 20:02 api.turnitinuk.com</li>
+<li> 20:01 moodle.royalholloway.ac.uk</li>
+<li> 20:01 login.microsoftonline.com</li>
+<li> 20:01 moodle.royalholloway.ac.uk</li>
+<li> 20:01 www.google.com</li>
+<li> 20:00 outlook.office.com</li>
+<li> 19:58 rhul-my.sharepoint.com</li>
+<li> 19:57 rhul.sharepoint.com</li>
 <li> 19:57 login.microsoftonline.com</li>
 <li> 19:57 outlook.office.com</li>
 <li class='same'> 19:56 outlook.office.com</li>
