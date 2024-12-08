@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9579)</li>
 <li>mail.google.com (6505)</li>
-<li>outlook.office.com (3815)</li>
+<li>outlook.office.com (3817)</li>
 <li>www.facebook.com (3095)</li>
 <li>docs.google.com (1998)</li>
 <li>outlook.office365.com (1971)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1545)</li>
 <li>moodle.royalholloway.ac.uk (1528)</li>
 <li>www.amazon.co.uk (1280)</li>
-<li>bsky.app (1095)</li>
+<li>bsky.app (1099)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (918)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (548)</li>
+<li>web.whatsapp.com (549)</li>
 <li>rhul-my.sharepoint.com (504)</li>
 <li>drive.google.com (493)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 08/12/24</H3>
+
+<br>
+
+<ul><li> 22:06 bsky.app</li>
+<li> 22:05 web.whatsapp.com</li>
+<li> 22:05 www.energynetworks.org</li>
+<li> 22:05 bsky.app</li>
+<li class='same'> 22:02 bsky.app</li>
+<li class='same'> 22:01 bsky.app</li>
+<li> 22:01 outlook.office.com</li>
+<li class='same'> 22:00 outlook.office.com</li>
+</ul>
 
 <br>
 
