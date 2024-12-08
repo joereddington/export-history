@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9577)</li>
 <li>mail.google.com (6505)</li>
-<li>outlook.office.com (3807)</li>
+<li>outlook.office.com (3809)</li>
 <li>www.facebook.com (3092)</li>
 <li>docs.google.com (1998)</li>
 <li>outlook.office365.com (1969)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (918)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (834)</li>
-<li>login.microsoftonline.com (730)</li>
+<li>login.microsoftonline.com (731)</li>
 <li>chat.openai.com (718)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (463)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
-<li>rhul.sharepoint.com (360)</li>
+<li>rhul.sharepoint.com (361)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 08/12/24</H3>
+
+<br>
+
+<ul><li> 19:57 rhul.sharepoint.com</li>
+<li> 19:57 login.microsoftonline.com</li>
+<li> 19:57 outlook.office.com</li>
+<li class='same'> 19:56 outlook.office.com</li>
+</ul>
 
 <br>
 
