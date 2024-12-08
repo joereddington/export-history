@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1969)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1545)</li>
-<li>moodle.royalholloway.ac.uk (1527)</li>
+<li>moodle.royalholloway.ac.uk (1528)</li>
 <li>www.amazon.co.uk (1280)</li>
 <li>bsky.app (1091)</li>
 <li>github.com (1055)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:01 intranet.royalholloway.ac.uk</li>
+<ul><li> 21:08 moodle.royalholloway.ac.uk</li>
+<li> 21:01 intranet.royalholloway.ac.uk</li>
 <li> 21:01 www.google.com</li>
 <li> 21:01 moodle.royalholloway.ac.uk</li>
 <li> 21:01 Local file</li>
