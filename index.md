@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1969)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1545)</li>
-<li>moodle.royalholloway.ac.uk (1524)</li>
+<li>moodle.royalholloway.ac.uk (1525)</li>
 <li>www.amazon.co.uk (1280)</li>
 <li>bsky.app (1091)</li>
 <li>github.com (1055)</li>
@@ -84,13 +84,13 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (918)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (834)</li>
-<li>login.microsoftonline.com (732)</li>
+<li>login.microsoftonline.com (734)</li>
 <li>chat.openai.com (718)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (548)</li>
-<li>rhul-my.sharepoint.com (503)</li>
+<li>rhul-my.sharepoint.com (504)</li>
 <li>drive.google.com (493)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>chatgpt.com (465)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:19 rhul.sharepoint.com</li>
+<ul><li> 20:39 login.microsoftonline.com</li>
+<li> 20:39 rhul-my.sharepoint.com</li>
+<li> 20:39 forms.office.com</li>
+<li> 20:39 login.microsoftonline.com</li>
+<li> 20:39 forms.office.com</li>
+<li> 20:33 ev.turnitinuk.com</li>
+<li> 20:33 api.turnitinuk.com</li>
+<li> 20:33 moodle.royalholloway.ac.uk</li>
+<li> 20:19 rhul.sharepoint.com</li>
 <li> 20:19 outlook.office.com</li>
 <li class='same'> 20:18 outlook.office.com</li>
 <li> 20:08 rhul.sharepoint.com</li>
