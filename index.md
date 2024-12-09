@@ -72,11 +72,11 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6505)</li>
 <li>outlook.office.com (3817)</li>
 <li>www.facebook.com (3099)</li>
-<li>docs.google.com (1998)</li>
+<li>docs.google.com (1999)</li>
 <li>outlook.office365.com (1983)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1548)</li>
-<li>moodle.royalholloway.ac.uk (1531)</li>
+<li>moodle.royalholloway.ac.uk (1538)</li>
 <li>www.amazon.co.uk (1281)</li>
 <li>bsky.app (1103)</li>
 <li>github.com (1055)</li>
@@ -84,14 +84,14 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (921)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (834)</li>
-<li>login.microsoftonline.com (735)</li>
+<li>login.microsoftonline.com (741)</li>
 <li>chat.openai.com (718)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (550)</li>
-<li>rhul-my.sharepoint.com (505)</li>
-<li>drive.google.com (493)</li>
+<li>rhul-my.sharepoint.com (507)</li>
+<li>drive.google.com (494)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>chatgpt.com (465)</li>
 <li>teams.microsoft.com (463)</li>
@@ -108,7 +108,53 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:43 ev.turnitinuk.com</li>
+<ul><li> 10:56 ev.turnitinuk.com</li>
+<li> 10:55 moodle.royalholloway.ac.uk</li>
+<li> 10:41 login.microsoftonline.com</li>
+<li> 10:41 forms.office.com</li>
+<li> 10:41 rhul-my.sharepoint.com</li>
+<li> 10:41 forms.office.com</li>
+<li> 10:40 login.microsoftonline.com</li>
+<li> 10:40 forms.office.com</li>
+<li> 10:34 rhul-my.sharepoint.com</li>
+<li> 10:33 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:32 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:31 moodle.royalholloway.ac.uk</li>
+<li> 10:31 login.microsoftonline.com</li>
+<li> 10:31 moodle.royalholloway.ac.uk</li>
+<li> 10:31 moodle2324.royalholloway.ac.uk</li>
+<li> 10:31 login.microsoftonline.com</li>
+<li> 10:31 moodle2324.royalholloway.ac.uk</li>
+<li> 10:31 login.microsoftonline.com</li>
+<li> 10:31 moodle2324.royalholloway.ac.uk</li>
+<li> 10:23 docs.google.com</li>
+<li> 10:23 drive.google.com</li>
+<li> 10:23 moodle2324.royalholloway.ac.uk</li>
+<li class='same'> 10:22 moodle2324.royalholloway.ac.uk</li>
+<li> 10:22 login.microsoftonline.com</li>
+<li> 10:22 moodle2324.royalholloway.ac.uk</li>
+<li> 10:22 moodle.royalholloway.ac.uk</li>
+<li> 10:21 ev.turnitinuk.com</li>
+<li class='same'> 10:20 ev.turnitinuk.com</li>
+<li class='same'> 10:19 ev.turnitinuk.com</li>
+<li class='same'> 10:18 ev.turnitinuk.com</li>
+<li class='same'> 10:17 ev.turnitinuk.com</li>
+<li class='same'> 10:16 ev.turnitinuk.com</li>
+<li class='same'> 10:15 ev.turnitinuk.com</li>
+<li class='same'> 10:14 ev.turnitinuk.com</li>
+<li class='same'> 10:13 ev.turnitinuk.com</li>
+<li class='same'> 10:12 ev.turnitinuk.com</li>
+<li class='same'> 10:11 ev.turnitinuk.com</li>
+<li> 10:10 moodle.royalholloway.ac.uk</li>
+<li> 10:10 ev.turnitinuk.com</li>
+<li class='same'> 10:09 ev.turnitinuk.com</li>
+<li class='same'> 10:08 ev.turnitinuk.com</li>
+<li class='same'> 10:07 ev.turnitinuk.com</li>
+<li class='same'> 10:06 ev.turnitinuk.com</li>
+<li class='same'> 10:05 ev.turnitinuk.com</li>
+<li> 10:03 <a href="https://en.wikipedia.org/wiki/Thomas_Sewell_(neo-Nazi)">Thomas Sewell (neo-Nazi) - Wikipedia</a></li>
+<li> 10:02 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 09:43 ev.turnitinuk.com</li>
 <li class='same'> 09:42 ev.turnitinuk.com</li>
 <li class='same'> 09:41 ev.turnitinuk.com</li>
 <li class='same'> 09:40 ev.turnitinuk.com</li>
