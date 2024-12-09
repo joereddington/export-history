@@ -71,17 +71,17 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9578)</li>
 <li>mail.google.com (6505)</li>
 <li>outlook.office.com (3817)</li>
-<li>www.facebook.com (3095)</li>
+<li>www.facebook.com (3097)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1971)</li>
+<li>outlook.office365.com (1979)</li>
 <li>calendar.google.com (1581)</li>
-<li>www.reddit.com (1545)</li>
+<li>www.reddit.com (1548)</li>
 <li>moodle.royalholloway.ac.uk (1528)</li>
 <li>www.amazon.co.uk (1280)</li>
-<li>bsky.app (1099)</li>
+<li>bsky.app (1103)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (918)</li>
+<li>www.linkedin.com (920)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (834)</li>
 <li>login.microsoftonline.com (734)</li>
@@ -105,6 +105,39 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 09/12/24</H3>
+
+<br>
+
+<ul><li> 09:05 www.explainxkcd.com</li>
+<li class='same'> 09:02 www.explainxkcd.com</li>
+<li> 09:01 <a href="https://xkcd.com/3019/">xkcd: Advent Calendar Advent Calendar</a></li>
+<li> 09:01 <a href="https://xkcd.com/3020/">xkcd: Infinite Armada Chess</a></li>
+<li> 09:01 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
+<li> 09:01 www.giantitp.com</li>
+<li> 09:01 www.linkedin.com</li>
+<li class='same'> 09:00 www.linkedin.com</li>
+<li> 08:57 www.facebook.com</li>
+<li> 08:56 www.reddit.com</li>
+<li class='same'> 08:52 www.reddit.com</li>
+<li class='same'> 08:51 www.reddit.com</li>
+<li> 08:50 www.facebook.com</li>
+<li> 08:50 bsky.app</li>
+<li class='same'> 08:48 bsky.app</li>
+<li class='same'> 08:46 bsky.app</li>
+<li class='same'> 08:45 bsky.app</li>
+<li> 08:45 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:39 outlook.office365.com</li>
+<li class='same'> 07:30 outlook.office365.com</li>
+<li class='same'> 07:29 outlook.office365.com</li>
+<li class='same'> 07:22 outlook.office365.com</li>
+<li class='same'> 07:04 outlook.office365.com</li>
+<li class='same'> 07:01 outlook.office365.com</li>
+<li class='same'> 07:00 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -20290,7 +20323,7 @@ With number of accesses/minutes in parentheses
 <li> 11:19 <a href="https://xkcd.com/2984/">xkcd: Asteroid News</a></li>
 <li> 11:19 <a href="https://xkcd.com/2983/">xkcd: Monocaster</a></li>
 <li> 11:19 <a href="https://xkcd.com/2985/">xkcd: Craters</a></li>
-<li> 11:18 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 11:18 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 11:18 <a href="https://joereddington.com/Comics/2022-09-14.html">2022-09-14 | Joe’s Comics</a></li>
 <li> 11:18 <a href="https://joereddington.com/Comics/2023-03-10.html">2023-03-10 | Joe’s Comics</a></li>
 <li> 11:18 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
@@ -21994,7 +22027,7 @@ With number of accesses/minutes in parentheses
 <li> 20:52 www.tightrope.co.uk</li>
 <li> 20:52 www.google.com</li>
 <li> 20:34 www.facebook.com</li>
-<li> 20:34 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 20:34 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 20:34 docs.google.com</li>
 <li> 20:33 www.linkedin.com</li>
 <li> 20:24 explore-education-statistics.service.gov.uk</li>
@@ -22347,7 +22380,7 @@ With number of accesses/minutes in parentheses
 <li> 21:09 <a href="https://xkcd.com/2978/">xkcd: Stranded</a></li>
 <li> 21:09 <a href="https://xkcd.com/2979/">xkcd: Sky Alarm</a></li>
 <li> 21:09 <a href="https://xkcd.com/2980/">xkcd: Lava Lakes</a></li>
-<li> 21:09 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 21:09 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 21:09 www.giantitp.com</li>
 <li> 21:09 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 21:09 mail.google.com</li>
@@ -23407,7 +23440,7 @@ With number of accesses/minutes in parentheses
 <li> 17:18 <a href="https://xkcd.com/2976/">xkcd: Time Traveler Causes of Death</a></li>
 <li> 17:18 <a href="https://xkcd.com/2977/">xkcd: Three Kinds of Research</a></li>
 <li> 17:18 <a href="https://xkcd.com/2978/">xkcd: Stranded</a></li>
-<li> 17:18 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 17:18 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 17:18 <a href="https://www.youtube.com/watch?v=GxUu2g1vNQU">(98) darktable ep 140 - A noobies guide to processing RAW files in darktable - YouTube</a></li>
 <li> 17:16 www.reddit.com</li>
 <li class='same'> 17:15 www.reddit.com</li>
@@ -24801,7 +24834,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:04 www.facebook.com</li>
 <li class='same'> 08:03 www.facebook.com</li>
 <li class='same'> 07:57 www.facebook.com</li>
-<li> 07:57 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 07:57 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 07:57 www.giantitp.com</li>
 <li> 07:56 mail.google.com</li>
 <li> 07:56 gmail.com</li>
@@ -24996,7 +25029,7 @@ With number of accesses/minutes in parentheses
 <li> 16:26 www.linkedin.com</li>
 <li> 16:26 mail.google.com</li>
 <li> 16:26 gmail.com</li>
-<li> 16:26 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 16:26 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 16:26 www.giantitp.com</li>
 <li> 16:20 www.facebook.com</li>
 <li class='same'> 16:19 www.facebook.com</li>
@@ -25098,7 +25131,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:21 www.facebook.com</li>
 <li> 16:20 <a href="https://xkcd.com/2970/">xkcd: Meteor Shower PSA</a></li>
 <li> 16:20 <a href="https://xkcd.com/2971/">xkcd: Celestial Event</a></li>
-<li> 16:19 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 16:19 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 16:19 www.giantitp.com</li>
 <li> 16:19 www.facebook.com</li>
 <li> 16:18 www.reddit.com</li>
@@ -25530,7 +25563,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:06 www.google.com</li>
 <li> 06:45 www.buzzfeed.com</li>
 <li> 06:45 <a href="https://xkcd.com/2969/">xkcd: Vice President First Names</a></li>
-<li> 06:44 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 06:44 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 06:43 www.giantitp.com</li>
 <li class='same'> 06:42 www.giantitp.com</li>
 <li> 06:42 kdpreports.amazon.com</li>
@@ -26240,7 +26273,7 @@ With number of accesses/minutes in parentheses
 <li> 06:47 <a href="https://xkcd.com/2966/">xkcd: Exam Numbers</a></li>
 <li> 06:47 <a href="https://xkcd.com/2967/">xkcd: Matter</a></li>
 <li> 06:47 <a href="https://xkcd.com/2968/">xkcd: University Age</a></li>
-<li> 06:46 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 06:46 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 06:46 www.giantitp.com</li>
 <li> 06:43 www.imdb.com</li>
 <li> 06:43 www.google.com</li>
@@ -26964,7 +26997,7 @@ With number of accesses/minutes in parentheses
 <li> 09:44 <a href="https://xkcd.com/2964/">xkcd: Olympic Sports</a></li>
 <li> 09:44 <a href="https://xkcd.com/2965/">xkcd: Chili Tornado Quake</a></li>
 <li> 09:44 <a href="https://xkcd.com/2966/">xkcd: Exam Numbers</a></li>
-<li> 09:43 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 09:43 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 09:42 www.reddit.com</li>
 <li class='same'> 09:41 www.reddit.com</li>
 <li class='same'> 09:40 www.reddit.com</li>
@@ -29220,7 +29253,7 @@ With number of accesses/minutes in parentheses
 <li> 12:46 <a href="https://xkcd.com/2958/">xkcd: Hatchery</a></li>
 <li> 12:46 <a href="https://xkcd.com/2959/">xkcd: Beam of Light</a></li>
 <li> 12:46 <a href="https://xkcd.com/2960/">xkcd: Organ Meanings</a></li>
-<li> 12:46 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 12:46 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 12:45 www.giantitp.com</li>
 <li> 12:45 www.google.com</li>
 <li> 12:44 mail.google.com</li>
@@ -34151,7 +34184,7 @@ With number of accesses/minutes in parentheses
 <li> 11:08 <a href="https://xkcd.com/2944/">xkcd: Magnet Fishing</a></li>
 <li> 11:08 <a href="https://xkcd.com/2945/">xkcd: Broken Model</a></li>
 <li> 11:08 <a href="https://xkcd.com/2944/">xkcd: Magnet Fishing</a></li>
-<li> 11:08 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 11:08 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 11:08 www.giantitp.com</li>
 <li> 11:07 mail.google.com</li>
 <li> 11:06 www.natesilver.net</li>
@@ -35295,7 +35328,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:51 www.giantitp.com</li>
 <li> 14:50 theopenvoicefactory.org</li>
 <li> 14:49 feedly.com</li>
-<li> 14:49 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 14:49 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 14:48 theopenvoicefactory.org</li>
 <li class='same'> 14:47 theopenvoicefactory.org</li>
 <li> 14:45 www.politico.com</li>
@@ -38329,7 +38362,7 @@ With number of accesses/minutes in parentheses
 <li> 18:20 www.giantitp.com</li>
 <li> 18:20 www.google.com</li>
 <li> 18:20 <a href="https://xkcd.com/2935/">xkcd: Ocean Loop</a></li>
-<li> 18:19 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 18:19 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 18:19 www.facebook.com</li>
 <li class='same'> 18:18 www.facebook.com</li>
 <li> 18:18 mail.google.com</li>
@@ -39022,7 +39055,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 15:40 mail.google.com</li>
 <li> 15:40 www.giantitp.com</li>
-<li> 15:39 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 15:39 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 15:38 outlook.office365.com</li>
 <li> 15:38 outlook.office.com</li>
 <li> 15:38 mail.rhul.ac.uk</li>
@@ -39816,7 +39849,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:13 www.giantitp.com</li>
 <li class='same'> 11:12 www.giantitp.com</li>
 <li> 11:12 www.google.com</li>
-<li> 11:11 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 11:11 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 11:11 <a href="https://xkcd.com/2301/">xkcd: Turtle Sandwich Standard Model</a></li>
 <li> 11:11 outlook.office.com</li>
 <li> 11:10 mail.google.com</li>
@@ -39934,7 +39967,7 @@ With number of accesses/minutes in parentheses
 <li> 11:19 www.independent.co.uk</li>
 <li> 10:55 <a href="https://xkcd.com/2930/">xkcd: Google Solar Cycle</a></li>
 <li> 10:55 <a href="https://xkcd.com/2931/">xkcd: Chasing</a></li>
-<li> 10:54 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 10:54 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 10:54 mail.google.com</li>
 <li> 10:53 app.qbo.intuit.com</li>
 <li class='same'> 10:52 app.qbo.intuit.com</li>
@@ -40348,7 +40381,7 @@ With number of accesses/minutes in parentheses
 <li> 13:58 <a href="https://xkcd.com/2928/">xkcd: Software Testing Day</a></li>
 <li> 13:58 <a href="https://xkcd.com/2929/">xkcd: Good and Bad Ideas</a></li>
 <li> 13:58 <a href="https://xkcd.com/2930/">xkcd: Google Solar Cycle</a></li>
-<li> 13:58 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 13:58 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 13:58 www.giantitp.com</li>
 <li> 13:45 web.whatsapp.com</li>
 <li> 13:41 docs.google.com</li>
@@ -41178,7 +41211,7 @@ With number of accesses/minutes in parentheses
 <li> 06:28 <a href="https://xkcd.com/2927/">xkcd: Alphabetical Cartogram</a></li>
 <li> 06:28 <a href="https://xkcd.com/2928/">xkcd: Software Testing Day</a></li>
 <li> 06:27 <a href="https://xkcd.com/2929/">xkcd: Good and Bad Ideas</a></li>
-<li> 06:27 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 06:27 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 06:27 outlook.office.com</li>
 <li class='same'> 06:26 outlook.office.com</li>
 <li> 06:26 outlook.office365.com</li>
@@ -41988,7 +42021,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:58 www.explainxkcd.com</li>
 <li class='same'> 12:57 www.explainxkcd.com</li>
 <li> 12:57 <a href="https://xkcd.com/2927/">xkcd: Alphabetical Cartogram</a></li>
-<li> 12:56 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 12:56 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 </ul>
 
 <br>
@@ -42080,7 +42113,7 @@ With number of accesses/minutes in parentheses
 <li> 09:26 <a href="https://xkcd.com/2925/">xkcd: Earth Formation Site</a></li>
 <li> 09:26 <a href="https://xkcd.com/2926/">xkcd: Doppler Effect</a></li>
 <li> 09:25 <a href="https://xkcd.com/2927/">xkcd: Alphabetical Cartogram</a></li>
-<li> 09:25 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 09:25 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 09:24 www.natesilver.net</li>
 <li> 09:09 www.google.com</li>
 <li> 09:09 www.reddit.com</li>
@@ -42218,7 +42251,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 14:32 Local file</li>
 <li> 14:10 intranet.royalholloway.ac.uk</li>
-<li> 14:00 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 14:00 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 14:00 www.giantitp.com</li>
 <li> 13:59 outlook.office.com</li>
 <li> 13:59 teams.microsoft.com</li>
@@ -44970,7 +45003,7 @@ With number of accesses/minutes in parentheses
 <li> 08:03 <a href="https://xkcd.com/2920/">xkcd: Survey Marker</a></li>
 <li> 08:02 <a href="https://xkcd.com/2921/">xkcd: Eclipse Path Maps</a></li>
 <li> 08:01 <a href="https://xkcd.com/2922/">xkcd: Pub Trivia</a></li>
-<li> 08:01 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 08:01 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 08:01 www.giantitp.com</li>
 <li> 08:00 mail.google.com</li>
 <li> 07:49 www.facebook.com</li>
@@ -47543,7 +47576,7 @@ With number of accesses/minutes in parentheses
 <li> 21:16 <a href="https://xkcd.com/2916/#xt=8&yt=58">xkcd: Machine</a></li>
 <li> 21:14 <a href="https://xkcd.com/2916/#xt=0&yt=57">xkcd: Machine</a></li>
 <li> 21:06 <a href="https://xkcd.com/2916/">xkcd: Machine</a></li>
-<li> 21:06 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 21:06 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 21:06 calendar.google.com</li>
 </ul>
 
@@ -50781,7 +50814,7 @@ With number of accesses/minutes in parentheses
 <li> 13:15 mail.google.com</li>
 <li class='same'> 13:14 mail.google.com</li>
 <li> 13:14 gmail.com</li>
-<li> 13:14 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 13:14 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 13:14 <a href="https://xkcd.com/2886/">xkcd: Fast Radio Bursts</a></li>
 <li> 13:12 amp.theguardian.com</li>
 <li> 13:12 www.google.com</li>
@@ -51602,7 +51635,7 @@ With number of accesses/minutes in parentheses
 <li> 09:52 <a href="https://xkcd.com/2908/">xkcd: Moon Armor Index</a></li>
 <li> 09:52 <a href="https://xkcd.com/2909/">xkcd: Moon Landing Mission Profiles</a></li>
 <li> 09:51 <a href="https://xkcd.com/2910/">xkcd: The Wreck of the Edmund Fitzgerald</a></li>
-<li> 09:51 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 09:51 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 09:49 www.giantitp.com</li>
 <li> 09:48 www.amazon.co.uk</li>
 </ul>
@@ -53830,7 +53863,7 @@ With number of accesses/minutes in parentheses
 <li> 18:13 <a href="https://xkcd.com/2904/">xkcd: Physics vs. Magic</a></li>
 <li> 18:13 <a href="https://xkcd.com/2905/">xkcd: Supergroup</a></li>
 <li> 18:12 <a href="https://xkcd.com/2906/">xkcd: Earth</a></li>
-<li> 18:12 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 18:12 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 18:09 www.theguardian.com</li>
 <li class='same'> 18:07 www.theguardian.com</li>
 <li> 18:07 profile.theguardian.com</li>
@@ -55634,7 +55667,7 @@ With number of accesses/minutes in parentheses
 <li> 15:10 kdp.amazon.com</li>
 <li> 15:10 www.facebook.com</li>
 <li> 15:10 <a href="https://xkcd.com/2902/">xkcd: Ice Core</a></li>
-<li> 15:10 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 15:10 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 15:10 www.giantitp.com</li>
 <li> 15:05 www.google.com</li>
 <li> 15:04 moodle.royalholloway.ac.uk</li>
@@ -56029,7 +56062,7 @@ With number of accesses/minutes in parentheses
 <li> 17:22 outlook.office.com</li>
 <li> 17:15 time.com</li>
 <li> 17:15 <a href="https://xkcd.com/2901/">xkcd: Geographic Qualifiers</a></li>
-<li> 17:14 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 17:14 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 17:11 mail.google.com</li>
 <li> 17:10 rhul.sharepoint.com</li>
 <li class='same'> 17:04 rhul.sharepoint.com</li>
@@ -59769,7 +59802,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:50 www.reddit.com</li>
 <li> 13:41 0.0.0.0:8000</li>
 <li> 13:40 <a href="https://xkcd.com/2892/">xkcd: Banana Prices</a></li>
-<li> 13:39 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 13:39 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 13:39 www.giantitp.com</li>
 <li> 13:38 feedly.com</li>
 <li> 13:36 www.facebook.com</li>
@@ -60448,7 +60481,7 @@ With number of accesses/minutes in parentheses
 <li> 11:03 rhul-eblib-com.ezproxy01.rhul.ac.uk</li>
 <li> 11:03 login.ezproxy01.rhul.ac.uk</li>
 <li> 11:03 ebookcentral.proquest.com</li>
-<li> 11:02 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 11:02 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 11:02 www.giantitp.com</li>
 <li> 10:39 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:38 moodle.royalholloway.ac.uk</li>
@@ -60962,7 +60995,7 @@ With number of accesses/minutes in parentheses
 <li> 15:12 <a href="https://xkcd.com/2460/">xkcd: Vaccinated</a></li>
 <li> 15:12 <a href="https://xkcd.com/2664/">xkcd: Cloud Swirls</a></li>
 <li> 15:12 <a href="https://xkcd.com/2890/">xkcd: Relationship Advice</a></li>
-<li> 15:12 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 15:12 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 15:11 www.facebook.com</li>
 <li> 15:07 forms.office.com</li>
 <li class='same'> 15:06 forms.office.com</li>
@@ -61193,7 +61226,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:29 www.google.com</li>
 <li> 11:28 docs.google.com</li>
 <li> 11:28 drive.google.com</li>
-<li> 11:28 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 11:28 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 11:28 www.giantitp.com</li>
 <li> 11:22 mail.google.com</li>
 <li> 11:21 www.bricklink.com</li>
@@ -62051,7 +62084,7 @@ With number of accesses/minutes in parentheses
 <li> 06:33 login.microsoftonline.com</li>
 <li> 06:33 mail.rhul.ac.uk</li>
 <li> 06:23 <a href="https://www.bbc.co.uk/news/uk-england-68197109">Jaywick dog attack: Woman visiting grandson is killed by dogs - BBC News</a></li>
-<li> 06:23 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 06:23 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 06:22 www.google.com</li>
 <li class='same'> 06:15 www.google.com</li>
 </ul>
@@ -62074,7 +62107,7 @@ With number of accesses/minutes in parentheses
 <li> 21:12 <a href="https://www.bbc.co.uk/sport/football/68120787">Chelsea 3-0 Everton: Guro Reiten scores twice from spot as Blues reclaim WSL top spot - BBC Sport</a></li>
 <li> 21:11 <a href="https://www.bbc.co.uk/news/uk-england-london-68196939">Oxford Circus Tube push: Man arrested for attempted murder - BBC News</a></li>
 <li> 21:10 <a href="https://www.bbc.co.uk/news/entertainment-arts-68198592">Scoop film: Netflix releases first photos of Prince Andrew movie - BBC News</a></li>
-<li> 21:09 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 21:09 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 21:09 www.giantitp.com</li>
 <li> 21:07 www.parkrun.org.uk</li>
 </ul>
@@ -62100,7 +62133,7 @@ With number of accesses/minutes in parentheses
 <li> 15:58 <a href="https://xkcd.com/2886/">xkcd: Fast Radio Bursts</a></li>
 <li> 15:58 <a href="https://xkcd.com/2887/">xkcd: Minnesota</a></li>
 <li> 15:57 <a href="https://xkcd.com/2888/">xkcd: US Survey Foot</a></li>
-<li> 15:57 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 15:57 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 15:56 <a href="https://www.bbc.co.uk/sport/football/premier-league/scores-fixtures/2024-02">Premier League - Scores & Fixtures - Football - BBC Sport</a></li>
 <li> 15:56 <a href="https://www.bbc.co.uk/sport/football/premier-league/scores-fixtures/2024-02?filter=fixtures">Premier League - Scores & Fixtures - Football - BBC Sport</a></li>
 <li> 15:56 <a href="https://www.bbc.co.uk/sport/football/premier-league/scores-fixtures">Premier League - Scores & Fixtures - Football - BBC Sport</a></li>
@@ -63344,7 +63377,7 @@ With number of accesses/minutes in parentheses
 <li> 21:55 <a href="https://xkcd.com/2883/">xkcd: Astronaut Guests</a></li>
 <li> 21:55 <a href="https://xkcd.com/2884/">xkcd: Log Alignment</a></li>
 <li> 21:55 <a href="https://xkcd.com/2885/">xkcd: Spelling</a></li>
-<li> 21:54 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 21:54 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 21:32 www.google.com</li>
 <li> 21:31 uk.linkedin.com</li>
 <li> 21:31 www.google.com</li>
@@ -64297,7 +64330,7 @@ With number of accesses/minutes in parentheses
 <li> 17:24 <a href="https://xkcd.com/2879/">xkcd: Like This One</a></li>
 <li> 17:24 <a href="https://xkcd.com/2880/">xkcd: Sheet Bend</a></li>
 <li> 17:23 <a href="https://xkcd.com/2881/">xkcd: Bug Thread</a></li>
-<li> 17:23 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 17:23 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 17:23 www.giantitp.com</li>
 <li class='same'> 17:22 www.giantitp.com</li>
 <li> 17:20 <a href="https://www.bbc.co.uk/news/world-europe-68015612">Arnold Schwarzenegger detained over EU tax for luxury watch - BBC News</a></li>
@@ -66458,7 +66491,7 @@ With number of accesses/minutes in parentheses
 <li> 07:52 <a href="https://xkcd.com/2874/">xkcd: Iceland</a></li>
 <li> 07:51 <a href="https://xkcd.com/2875/">xkcd: 2024</a></li>
 <li> 07:51 <a href="https://xkcd.com/2876/">xkcd: Range Safety</a></li>
-<li> 07:50 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 07:50 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 07:50 www.giantitp.com</li>
 <li> 07:50 rpg.stackexchange.com</li>
 <li> 07:46 <a href="https://unix.stackexchange.com/questions/289999/how-to-zip-directory-with-encryption-for-file-names">command line - How to zip directory with encryption for file names? - Unix & Linux Stack Exchange</a></li>
@@ -68617,7 +68650,7 @@ With number of accesses/minutes in parentheses
 <li> 15:02 <a href="https://xkcd.com/2868/">xkcd: Label the States</a></li>
 <li> 15:02 <a href="https://xkcd.com/2869/">xkcd: Puzzles</a></li>
 <li> 15:01 <a href="https://xkcd.com/2870/">xkcd: Love Songs</a></li>
-<li> 15:01 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 15:01 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 </ul>
 
 <br>
@@ -69274,7 +69307,7 @@ With number of accesses/minutes in parentheses
 <li> 09:58 advertising.amazon.com</li>
 <li> 09:58 ads.amazon</li>
 <li> 09:58 kdp.amazon.com</li>
-<li> 09:58 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 09:58 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 09:55 Local file</li>
 <li class='same'> 09:54 Local file</li>
 <li> 09:47 chat.openai.com</li>
@@ -70018,7 +70051,7 @@ With number of accesses/minutes in parentheses
 <li> 11:05 www.mozilla.org</li>
 <li> 11:00 mail.google.com</li>
 <li> 10:54 <a href="https://xkcd.com/2865/">xkcd: The Wrong Stuff</a></li>
-<li> 10:54 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 10:54 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 10:32 chat.openai.com</li>
 <li> 10:24 schoolgovernors.thekeysupport.com</li>
 <li> 10:21 www.google.com</li>
@@ -70500,7 +70533,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:13 chat.openai.com</li>
 <li> 17:11 intranet.royalholloway.ac.uk</li>
 <li> 17:10 <a href="https://xkcd.com/2864/">xkcd: Compact Graphs</a></li>
-<li> 17:09 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 17:09 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 17:09 <a href="https://joereddington.com/2023/11/22/how-many-sublists.html">How many sublists? | Joe Reddington</a></li>
 <li> 17:09 <a href="https://joereddington.com/2023/12/07/i-m-producing-the-kindle-version-of-advanced-memory-palaces.html">I’m producing the kindle version of Advanced Memory Palaces | Joe Reddington</a></li>
 <li> 17:09 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
@@ -71114,7 +71147,7 @@ With number of accesses/minutes in parentheses
 <li> 13:33 <a href="https://xkcd.com/2861/">xkcd: X Value</a></li>
 <li> 13:32 <a href="https://xkcd.com/2862/">xkcd: Typical Seating Chart</a></li>
 <li> 13:31 <a href="https://xkcd.com/2863/">xkcd: Space Typography</a></li>
-<li> 13:30 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 13:30 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 13:30 mail.google.com</li>
 <li> 13:06 web.whatsapp.com</li>
 <li> 13:05 docs.google.com</li>
@@ -72692,7 +72725,7 @@ With number of accesses/minutes in parentheses
 <li> 07:04 calendar.google.com</li>
 <li class='same'> 07:00 calendar.google.com</li>
 <li> 06:58 www.google.com</li>
-<li> 06:43 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 06:43 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 06:43 www.giantitp.com</li>
 <li class='same'> 06:42 www.giantitp.com</li>
 <li> 06:41 <a href="https://www.bbc.co.uk/news/education-67433036">Teachers use AI for planning and marking, says report - BBC News</a></li>
@@ -74629,7 +74662,7 @@ With number of accesses/minutes in parentheses
 <li> 14:36 kdp.amazon.com</li>
 <li> 14:32 <a href="https://xkcd.com/2853/">xkcd: Redshift</a></li>
 <li> 14:32 <a href="https://xkcd.com/2854/">xkcd: Date Line</a></li>
-<li> 14:32 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 14:32 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 14:31 web.whatsapp.com</li>
 <li> 14:31 reductress.com</li>
 <li> 14:30 mail.google.com</li>
@@ -75998,7 +76031,7 @@ With number of accesses/minutes in parentheses
 <li> 11:40 <a href="https://xkcd.com/2849/">xkcd: Under the Stars</a></li>
 <li> 11:39 <a href="https://xkcd.com/2850/">xkcd: Doctor's Office</a></li>
 <li> 11:39 <a href="https://xkcd.com/2851/">xkcd: Messier Objects</a></li>
-<li> 11:39 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 11:39 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 11:32 jobs.royalholloway.ac.uk</li>
 <li class='same'> 11:30 jobs.royalholloway.ac.uk</li>
 <li> 11:30 www.google.com</li>
@@ -78538,10 +78571,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:14 chat.openai.com</li>
 <li> 08:14 www.androidauthority.com</li>
 <li> 08:11 bsky.app</li>
-<li> 08:11 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 08:11 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 08:05 <a href="https://xkcd.com/simplewriter/"></a></li>
 <li> 08:05 <a href="http://xkcd.com/simplewriter/"></a></li>
-<li> 08:05 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 08:05 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 07:59 equalitytime.co.uk</li>
 <li> 07:57 chat.openai.com</li>
 <li> 07:57 auth0.openai.com</li>
@@ -84108,7 +84141,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:05 <a href="https://xkcd.com/2823/">xkcd: Fossil</a></li>
-<li> 15:04 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 15:04 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 15:03 www.giantitp.com</li>
 <li> 14:58 bsky.app</li>
 <li> 14:36 calendar.google.com</li>
@@ -84584,7 +84617,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:02 <a href="https://xkcd.com/2823/">xkcd: Fossil</a></li>
-<li> 14:02 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 14:02 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 </ul>
 
 <br>
@@ -85372,7 +85405,7 @@ With number of accesses/minutes in parentheses
 <li> 19:42 www.britishjudo.org.uk</li>
 <li> 19:42 new.adblockplus.org</li>
 <li> 19:35 showtimecircus.classforkids.io</li>
-<li> 19:30 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 19:30 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 19:30 www.giantitp.com</li>
 <li> 19:30 www.google.com</li>
 </ul>
@@ -88453,8 +88486,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 05:33 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
-<li class='same'> 05:27 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<ul><li> 05:33 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
+<li class='same'> 05:27 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 </ul>
 
 <H3>Monday, 19/06/23</H3>
@@ -88593,7 +88626,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:49 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<ul><li> 07:49 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 </ul>
 
 <br>
@@ -89024,8 +89057,8 @@ With number of accesses/minutes in parentheses
 <li> 12:55 joereddington.github.io</li>
 <li> 12:48 www.dropbox.com</li>
 <li class='same'> 12:44 www.dropbox.com</li>
-<li> 12:29 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
-<li class='same'> 12:28 <a href="https://xkcd.com/">xkcd: Every Scientific Field</a></li>
+<li> 12:29 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
+<li class='same'> 12:28 <a href="https://xkcd.com/">xkcd: Seismologists</a></li>
 <li> 12:18 whitewaterwriters.com</li>
 </ul>
 
