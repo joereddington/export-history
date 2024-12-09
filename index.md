@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6507)</li>
 <li>outlook.office.com (3821)</li>
 <li>www.facebook.com (3101)</li>
-<li>outlook.office365.com (2011)</li>
+<li>outlook.office365.com (2012)</li>
 <li>docs.google.com (1999)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1548)</li>
 <li>moodle.royalholloway.ac.uk (1545)</li>
-<li>www.amazon.co.uk (1281)</li>
+<li>www.amazon.co.uk (1282)</li>
 <li>bsky.app (1110)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
@@ -89,13 +89,13 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (553)</li>
-<li>rhul-my.sharepoint.com (511)</li>
+<li>web.whatsapp.com (554)</li>
+<li>rhul-my.sharepoint.com (512)</li>
 <li>drive.google.com (494)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>chatgpt.com (465)</li>
 <li>teams.microsoft.com (464)</li>
-<li>kdp.amazon.com (444)</li>
+<li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (363)</li>
 
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:15 outlook.office365.com</li>
+<ul><li> 18:43 gitlab.cim.rhul.ac.uk</li>
+<li> 18:40 rhul-my.sharepoint.com</li>
+<li> 18:38 kdpreports.amazon.com</li>
+<li> 18:38 kdp.amazon.com</li>
+<li> 18:38 www.amazon.co.uk</li>
+<li> 18:37 outlook.office365.com</li>
+<li> 18:37 web.whatsapp.com</li>
+<li> 18:15 outlook.office365.com</li>
 <li> 18:13 www.facebook.com</li>
 <li> 18:07 outlook.office365.com</li>
 <li class='same'> 18:06 outlook.office365.com</li>
