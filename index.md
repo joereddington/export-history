@@ -78,18 +78,18 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1548)</li>
 <li>moodle.royalholloway.ac.uk (1538)</li>
 <li>www.amazon.co.uk (1281)</li>
-<li>bsky.app (1103)</li>
+<li>bsky.app (1104)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (921)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (834)</li>
-<li>login.microsoftonline.com (741)</li>
+<li>login.microsoftonline.com (743)</li>
 <li>chat.openai.com (718)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (550)</li>
+<li>web.whatsapp.com (551)</li>
 <li>rhul-my.sharepoint.com (507)</li>
 <li>drive.google.com (494)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 09/12/24</H3>
+
+<br>
+
+<ul><li> 11:38 bsky.app</li>
+<li> 11:38 blueskydirectory.com</li>
+<li> 11:38 login.microsoftonline.com</li>
+<li> 11:38 forms.office.com</li>
+<li> 11:38 login.microsoftonline.com</li>
+<li> 11:38 forms.office.com</li>
+<li> 11:37 web.whatsapp.com</li>
+</ul>
 
 <br>
 
