@@ -73,28 +73,28 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3820)</li>
 <li>www.facebook.com (3100)</li>
 <li>docs.google.com (1999)</li>
-<li>outlook.office365.com (1984)</li>
+<li>outlook.office365.com (1989)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1548)</li>
-<li>moodle.royalholloway.ac.uk (1540)</li>
+<li>moodle.royalholloway.ac.uk (1543)</li>
 <li>www.amazon.co.uk (1281)</li>
-<li>bsky.app (1106)</li>
+<li>bsky.app (1109)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (921)</li>
-<li>www.theguardian.com (890)</li>
+<li>www.theguardian.com (891)</li>
 <li>gmail.com (835)</li>
 <li>login.microsoftonline.com (744)</li>
 <li>chat.openai.com (718)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (551)</li>
-<li>rhul-my.sharepoint.com (507)</li>
+<li>web.whatsapp.com (552)</li>
+<li>rhul-my.sharepoint.com (509)</li>
 <li>drive.google.com (494)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>chatgpt.com (465)</li>
-<li>teams.microsoft.com (463)</li>
+<li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (444)</li>
 <li>forum.artofmemory.com (403)</li>
 <li>rhul.sharepoint.com (363)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:09 ev.turnitinuk.com</li>
+<ul><li> 13:15 moodle.royalholloway.ac.uk</li>
+<li> 12:59 outlook.office365.com</li>
+<li> 12:56 bsky.app</li>
+<li class='same'> 12:52 bsky.app</li>
+<li class='same'> 12:50 bsky.app</li>
+<li> 12:46 teams.microsoft.com</li>
+<li> 12:44 outlook.office365.com</li>
+<li class='same'> 12:43 outlook.office365.com</li>
+<li> 12:38 feedly.com</li>
+<li> 12:31 outlook.office365.com</li>
+<li> 12:28 moodle.royalholloway.ac.uk</li>
+<li> 12:24 outlook.office365.com</li>
+<li> 12:21 web.whatsapp.com</li>
+<li> 12:20 rhul-my.sharepoint.com</li>
+<li> 12:20 moodle.royalholloway.ac.uk</li>
+<li> 12:16 rhul-my.sharepoint.com</li>
+<li> 12:12 www.theguardian.com</li>
+<li> 12:09 ev.turnitinuk.com</li>
 <li> 12:09 api.turnitinuk.com</li>
 <li> 12:09 ev.turnitinuk.com</li>
 <li class='same'> 12:08 ev.turnitinuk.com</li>
