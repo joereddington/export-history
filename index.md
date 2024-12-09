@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (921)</li>
 <li>www.theguardian.com (891)</li>
 <li>gmail.com (835)</li>
-<li>login.microsoftonline.com (748)</li>
+<li>login.microsoftonline.com (749)</li>
 <li>chat.openai.com (718)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:04 outlook.office365.com</li>
+<ul><li> 17:10 login.microsoftonline.com</li>
+<li> 17:04 outlook.office365.com</li>
 <li class='same'> 16:59 outlook.office365.com</li>
 <li> 16:57 moodle.royalholloway.ac.uk</li>
 <li> 16:57 outlook.office365.com</li>
