@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9584)</li>
-<li>mail.google.com (6505)</li>
+<li>mail.google.com (6506)</li>
 <li>outlook.office.com (3817)</li>
-<li>www.facebook.com (3099)</li>
+<li>www.facebook.com (3100)</li>
 <li>docs.google.com (1999)</li>
 <li>outlook.office365.com (1983)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1548)</li>
 <li>moodle.royalholloway.ac.uk (1538)</li>
 <li>www.amazon.co.uk (1281)</li>
-<li>bsky.app (1104)</li>
+<li>bsky.app (1106)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (921)</li>
 <li>www.theguardian.com (890)</li>
-<li>gmail.com (834)</li>
+<li>gmail.com (835)</li>
 <li>login.microsoftonline.com (743)</li>
 <li>chat.openai.com (718)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:38 bsky.app</li>
+<ul><li> 11:42 mail.google.com</li>
+<li> 11:42 gmail.com</li>
+<li> 11:42 www.facebook.com</li>
+<li> 11:40 bsky.app</li>
+<li class='same'> 11:39 bsky.app</li>
+<li class='same'> 11:38 bsky.app</li>
 <li> 11:38 blueskydirectory.com</li>
 <li> 11:38 login.microsoftonline.com</li>
 <li> 11:38 forms.office.com</li>
