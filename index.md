@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3820)</li>
 <li>www.facebook.com (3100)</li>
 <li>docs.google.com (1999)</li>
-<li>outlook.office365.com (1989)</li>
+<li>outlook.office365.com (1990)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1548)</li>
 <li>moodle.royalholloway.ac.uk (1543)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 09/12/24</H3>
+
+<br>
+
+<ul><li> 13:51 outlook.office365.com</li>
+<li> 13:50 www.rhulisc.com</li>
+</ul>
 
 <br>
 
