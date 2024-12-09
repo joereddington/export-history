@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9585)</li>
 <li>mail.google.com (6507)</li>
 <li>outlook.office.com (3821)</li>
-<li>www.facebook.com (3100)</li>
-<li>outlook.office365.com (2006)</li>
+<li>www.facebook.com (3101)</li>
+<li>outlook.office365.com (2011)</li>
 <li>docs.google.com (1999)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1548)</li>
 <li>moodle.royalholloway.ac.uk (1545)</li>
 <li>www.amazon.co.uk (1281)</li>
-<li>bsky.app (1109)</li>
+<li>bsky.app (1110)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (921)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 09/12/24</H3>
+
+<br>
+
+<ul><li> 18:15 outlook.office365.com</li>
+<li> 18:13 www.facebook.com</li>
+<li> 18:07 outlook.office365.com</li>
+<li class='same'> 18:06 outlook.office365.com</li>
+<li> 18:04 bsky.app</li>
+<li> 18:04 feedly.com</li>
+<li class='same'> 18:03 feedly.com</li>
+<li> 18:03 www.giantitp.com</li>
+<li> 18:03 outlook.office365.com</li>
+<li class='same'> 18:02 outlook.office365.com</li>
+</ul>
 
 <br>
 
