@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9579)</li>
+<ol><li>www.google.com (9578)</li>
 <li>mail.google.com (6505)</li>
 <li>outlook.office.com (3817)</li>
 <li>www.facebook.com (3095)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 09/12/24</H3>
+
+<br>
+
+<ul><li> 02:10 fast.com</li>
+</ul>
+
 <H3>Sunday, 08/12/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -21662,12 +21673,9 @@ With number of accesses/minutes in parentheses
 <li> 11:55 www.google.com</li>
 <li class='same'> 11:54 www.google.com</li>
 <li> 11:54 www.thetrainline.com</li>
-<li> 11:53 www.paypal.com</li>
-<li> 11:52 www.thetrainline.com</li>
-<li class='same'> 11:51 www.thetrainline.com</li>
+<li class='same'> 11:52 www.thetrainline.com</li>
 <li> 11:48 www.google.com</li>
-<li> 11:48 www.thetrainline.com</li>
-<li> 11:47 www.google.com</li>
+<li class='same'> 11:47 www.google.com</li>
 <li> 11:47 sayi.do</li>
 <li> 11:46 www.thetrainline.com</li>
 <li> 11:46 www.google.co.uk</li>
@@ -21692,12 +21700,10 @@ With number of accesses/minutes in parentheses
 <li> 11:26 www.reddit.com</li>
 <li class='same'> 11:25 www.reddit.com</li>
 <li> 10:56 Local file</li>
-<li> 10:56 www.overleaf.com</li>
-<li class='same'> 10:49 www.overleaf.com</li>
+<li> 10:49 www.overleaf.com</li>
 <li> 10:49 www.linkedin.com</li>
 <li class='same'> 10:48 www.linkedin.com</li>
 <li> 10:46 Local file</li>
-<li> 10:46 www.overleaf.com</li>
 <li> 10:36 www.google.com</li>
 <li> 10:34 scholar.googleusercontent.com</li>
 <li> 10:34 scholar.google.com</li>
@@ -21710,10 +21716,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:31 drive.google.com</li>
 <li> 10:26 web.whatsapp.com</li>
 <li> 10:20 Local file</li>
-<li> 10:20 www.overleaf.com</li>
 <li> 10:16 claude.ai</li>
 <li> 10:16 Local file</li>
-<li> 10:16 www.overleaf.com</li>
 <li> 10:11 scholar.googleusercontent.com</li>
 <li> 10:11 scholar.google.com</li>
 <li class='same'> 10:10 scholar.google.com</li>
@@ -21723,7 +21727,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:38 Local file</li>
-<li> 09:38 www.overleaf.com</li>
 <li> 09:38 mail.google.com</li>
 <li> 09:38 gmail.com</li>
 <li> 09:37 mail.google.com</li>
@@ -21747,7 +21750,6 @@ With number of accesses/minutes in parentheses
 <li> 09:00 www.frontiersin.org</li>
 <li> 09:00 scholar.google.co.uk</li>
 <li class='same'> 08:59 scholar.google.co.uk</li>
-<li> 08:59 www.google.com</li>
 <li> 08:59 hbsc.org</li>
 <li> 08:59 www.google.com</li>
 <li> 08:59 scholar.google.com</li>
