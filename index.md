@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9585)</li>
 <li>mail.google.com (6507)</li>
-<li>outlook.office.com (3820)</li>
+<li>outlook.office.com (3821)</li>
 <li>www.facebook.com (3100)</li>
+<li>outlook.office365.com (2006)</li>
 <li>docs.google.com (1999)</li>
-<li>outlook.office365.com (1990)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1548)</li>
-<li>moodle.royalholloway.ac.uk (1543)</li>
+<li>moodle.royalholloway.ac.uk (1545)</li>
 <li>www.amazon.co.uk (1281)</li>
 <li>bsky.app (1109)</li>
 <li>github.com (1055)</li>
@@ -84,13 +84,13 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (921)</li>
 <li>www.theguardian.com (891)</li>
 <li>gmail.com (835)</li>
-<li>login.microsoftonline.com (744)</li>
+<li>login.microsoftonline.com (748)</li>
 <li>chat.openai.com (718)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (552)</li>
-<li>rhul-my.sharepoint.com (509)</li>
+<li>web.whatsapp.com (553)</li>
+<li>rhul-my.sharepoint.com (511)</li>
 <li>drive.google.com (494)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>chatgpt.com (465)</li>
@@ -108,7 +108,52 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:51 outlook.office365.com</li>
+<ul><li> 17:04 outlook.office365.com</li>
+<li class='same'> 16:59 outlook.office365.com</li>
+<li> 16:57 moodle.royalholloway.ac.uk</li>
+<li> 16:57 outlook.office365.com</li>
+<li class='same'> 16:56 outlook.office365.com</li>
+<li> 16:56 outlook.office.com</li>
+<li> 16:55 outlook.office365.com</li>
+<li class='same'> 16:52 outlook.office365.com</li>
+<li class='same'> 16:51 outlook.office365.com</li>
+<li> 16:48 rhul-my.sharepoint.com</li>
+<li> 16:48 outlook.office365.com</li>
+<li class='same'> 16:46 outlook.office365.com</li>
+<li> 16:45 projects.cs.rhul.ac.uk</li>
+<li> 16:45 outlook.office365.com</li>
+<li> 16:38 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:38 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:38 login.microsoftonline.com</li>
+<li> 16:38 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:37 experience.elluciancloud.ie</li>
+<li> 16:37 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:37 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 16:32 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:32 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:32 login.microsoftonline.com</li>
+<li> 16:24 moodle.royalholloway.ac.uk</li>
+<li> 16:16 outlook.office365.com</li>
+<li> 16:15 rhul-my.sharepoint.com</li>
+<li> 16:14 outlook.office365.com</li>
+<li> 16:10 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:10 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:10 login.microsoftonline.com</li>
+<li> 16:10 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:10 experience.elluciancloud.ie</li>
+<li> 16:10 login.microsoftonline.com</li>
+<li> 16:10 experience.elluciancloud.ie</li>
+<li> 16:09 outlook.office365.com</li>
+<li> 16:09 web.whatsapp.com</li>
+<li> 16:09 outlook.office365.com</li>
+<li class='same'> 16:08 outlook.office365.com</li>
+<li> 16:08 adblockplus.org</li>
+<li> 16:08 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:51 outlook.office365.com</li>
 <li> 13:50 www.rhulisc.com</li>
 </ul>
 
