@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9585)</li>
-<li>mail.google.com (6506)</li>
-<li>outlook.office.com (3817)</li>
+<li>mail.google.com (6507)</li>
+<li>outlook.office.com (3820)</li>
 <li>www.facebook.com (3100)</li>
 <li>docs.google.com (1999)</li>
-<li>outlook.office365.com (1983)</li>
+<li>outlook.office365.com (1984)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1548)</li>
-<li>moodle.royalholloway.ac.uk (1538)</li>
+<li>moodle.royalholloway.ac.uk (1540)</li>
 <li>www.amazon.co.uk (1281)</li>
 <li>bsky.app (1106)</li>
 <li>github.com (1055)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (921)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (835)</li>
-<li>login.microsoftonline.com (743)</li>
+<li>login.microsoftonline.com (744)</li>
 <li>chat.openai.com (718)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:50 www.google.com</li>
+<ul><li> 12:09 ev.turnitinuk.com</li>
+<li> 12:09 api.turnitinuk.com</li>
+<li> 12:09 ev.turnitinuk.com</li>
+<li class='same'> 12:08 ev.turnitinuk.com</li>
+<li> 12:08 api.turnitinuk.com</li>
+<li> 12:08 ev.turnitinuk.com</li>
+<li> 12:08 api.turnitinuk.com</li>
+<li> 12:06 ev.turnitinuk.com</li>
+<li> 12:06 api.turnitinuk.com</li>
+<li> 12:06 ev.turnitinuk.com</li>
+<li> 12:06 api.turnitinuk.com</li>
+<li> 12:05 moodle.royalholloway.ac.uk</li>
+<li> 12:05 login.microsoftonline.com</li>
+<li> 12:05 moodle.royalholloway.ac.uk</li>
+<li> 12:05 outlook.office.com</li>
+<li class='same'> 12:04 outlook.office.com</li>
+<li> 12:04 outlook.office365.com</li>
+<li> 12:04 outlook.office.com</li>
+<li> 12:04 mail.rhul.ac.uk</li>
+<li> 12:04 mail.google.com</li>
+<li> 11:50 <a href="https://en.wikipedia.org/wiki/Avanti_West_Coast">Avanti West Coast - Wikipedia</a></li>
+<li> 11:50 <a href="https://en.wikipedia.org/wiki/Virgin_Trains">Virgin Trains - Wikipedia</a></li>
+<li> 11:50 www.google.com</li>
 <li> 11:42 mail.google.com</li>
 <li> 11:42 gmail.com</li>
 <li> 11:42 www.facebook.com</li>
