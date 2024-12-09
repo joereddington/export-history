@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9578)</li>
+<ol><li>www.google.com (9584)</li>
 <li>mail.google.com (6505)</li>
 <li>outlook.office.com (3817)</li>
-<li>www.facebook.com (3097)</li>
+<li>www.facebook.com (3099)</li>
 <li>docs.google.com (1998)</li>
-<li>outlook.office365.com (1979)</li>
+<li>outlook.office365.com (1983)</li>
 <li>calendar.google.com (1581)</li>
 <li>www.reddit.com (1548)</li>
-<li>moodle.royalholloway.ac.uk (1528)</li>
-<li>www.amazon.co.uk (1280)</li>
+<li>moodle.royalholloway.ac.uk (1531)</li>
+<li>www.amazon.co.uk (1281)</li>
 <li>bsky.app (1103)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (920)</li>
+<li>www.linkedin.com (921)</li>
 <li>www.theguardian.com (890)</li>
 <li>gmail.com (834)</li>
-<li>login.microsoftonline.com (734)</li>
+<li>login.microsoftonline.com (735)</li>
 <li>chat.openai.com (718)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (549)</li>
-<li>rhul-my.sharepoint.com (504)</li>
+<li>web.whatsapp.com (550)</li>
+<li>rhul-my.sharepoint.com (505)</li>
 <li>drive.google.com (493)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>chatgpt.com (465)</li>
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:05 www.explainxkcd.com</li>
+<ul><li> 09:43 ev.turnitinuk.com</li>
+<li class='same'> 09:42 ev.turnitinuk.com</li>
+<li class='same'> 09:41 ev.turnitinuk.com</li>
+<li class='same'> 09:40 ev.turnitinuk.com</li>
+<li class='same'> 09:39 ev.turnitinuk.com</li>
+<li> 09:39 moodle.royalholloway.ac.uk</li>
+<li> 09:39 ev.turnitinuk.com</li>
+<li class='same'> 09:38 ev.turnitinuk.com</li>
+<li class='same'> 09:37 ev.turnitinuk.com</li>
+<li class='same'> 09:36 ev.turnitinuk.com</li>
+<li class='same'> 09:35 ev.turnitinuk.com</li>
+<li class='same'> 09:34 ev.turnitinuk.com</li>
+<li class='same'> 09:32 ev.turnitinuk.com</li>
+<li> 09:32 outlook.office365.com</li>
+<li class='same'> 09:29 outlook.office365.com</li>
+<li class='same'> 09:28 outlook.office365.com</li>
+<li> 09:25 ev.turnitinuk.com</li>
+<li> 09:25 moodle.royalholloway.ac.uk</li>
+<li> 09:25 login.microsoftonline.com</li>
+<li> 09:25 moodle.royalholloway.ac.uk</li>
+<li> 09:22 rhul-my.sharepoint.com</li>
+<li> 09:22 outlook.office365.com</li>
+<li> 09:22 www.google.com</li>
+<li> 09:21 www.thecottagebakery.uk</li>
+<li> 09:21 www.bakerymasterclass.co.uk</li>
+<li> 09:21 www.google.com</li>
+<li class='same'> 09:20 www.google.com</li>
+<li> 09:20 www.virginexperiencedays.co.uk</li>
+<li class='same'> 09:19 www.virginexperiencedays.co.uk</li>
+<li> 09:19 www.google.com</li>
+<li> 09:18 jamieolivercookeryschool.com</li>
+<li> 09:18 www.google.com</li>
+<li> 09:18 www.amazon.co.uk</li>
+<li> 09:17 www.linkedin.com</li>
+<li> 09:17 web.whatsapp.com</li>
+<li> 09:17 www.google.com</li>
+<li> 09:14 www.facebook.com</li>
+<li class='same'> 09:10 www.facebook.com</li>
+<li> 09:09 <a href="https://en.wikipedia.org/wiki/Line_house">Line house - Wikipedia</a></li>
+<li> 09:08 www.explainxkcd.com</li>
+<li class='same'> 09:06 www.explainxkcd.com</li>
+<li class='same'> 09:05 www.explainxkcd.com</li>
 <li class='same'> 09:02 www.explainxkcd.com</li>
 <li> 09:01 <a href="https://xkcd.com/3019/">xkcd: Advent Calendar Advent Calendar</a></li>
 <li> 09:01 <a href="https://xkcd.com/3020/">xkcd: Infinite Armada Chess</a></li>
