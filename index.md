@@ -69,22 +69,22 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9587)</li>
-<li>mail.google.com (6510)</li>
+<li>mail.google.com (6512)</li>
 <li>outlook.office.com (3821)</li>
-<li>www.facebook.com (3106)</li>
-<li>outlook.office365.com (2037)</li>
+<li>www.facebook.com (3116)</li>
+<li>outlook.office365.com (2039)</li>
 <li>docs.google.com (1999)</li>
 <li>calendar.google.com (1582)</li>
 <li>moodle.royalholloway.ac.uk (1551)</li>
 <li>www.reddit.com (1550)</li>
 <li>www.amazon.co.uk (1282)</li>
-<li>bsky.app (1139)</li>
+<li>bsky.app (1140)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (926)</li>
 <li>www.theguardian.com (892)</li>
 <li>gmail.com (836)</li>
-<li>login.microsoftonline.com (765)</li>
+<li>login.microsoftonline.com (774)</li>
 <li>chat.openai.com (720)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
@@ -108,8 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:08 bsky.app</li>
-<li class='same'> 12:07 bsky.app</li>
+<ul><li> 13:06 outlook.office365.com</li>
+<li> 13:06 www.facebook.com</li>
+<li class='same'> 13:05 www.facebook.com</li>
+<li class='same'> 13:04 www.facebook.com</li>
+<li class='same'> 13:03 www.facebook.com</li>
+<li class='same'> 13:02 www.facebook.com</li>
+<li class='same'> 13:01 www.facebook.com</li>
+<li class='same'> 13:00 www.facebook.com</li>
+<li class='same'> 12:59 www.facebook.com</li>
+<li class='same'> 12:58 www.facebook.com</li>
+<li> 12:57 mail.google.com</li>
+<li> 12:57 www.facebook.com</li>
+<li> 12:56 outlook.office365.com</li>
+<li> 12:56 bsky.app</li>
+<li> 12:56 mail.google.com</li>
+<li> 12:56 login.microsoftonline.com</li>
+<li class='same'> 12:41 login.microsoftonline.com</li>
+<li class='same'> 12:23 login.microsoftonline.com</li>
+<li class='same'> 12:20 login.microsoftonline.com</li>
+<li class='same'> 12:18 login.microsoftonline.com</li>
+<li class='same'> 12:15 login.microsoftonline.com</li>
+<li class='same'> 12:13 login.microsoftonline.com</li>
+<li class='same'> 12:10 login.microsoftonline.com</li>
+<li> 12:08 bsky.app</li>
+<li> 12:08 login.microsoftonline.com</li>
+<li> 12:07 bsky.app</li>
 <li class='same'> 12:06 bsky.app</li>
 <li> 12:05 login.microsoftonline.com</li>
 <li> 12:05 bsky.app</li>
