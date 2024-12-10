@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9587)</li>
-<li>mail.google.com (6509)</li>
+<li>mail.google.com (6510)</li>
 <li>outlook.office.com (3820)</li>
-<li>www.facebook.com (3103)</li>
-<li>outlook.office365.com (2028)</li>
+<li>www.facebook.com (3106)</li>
+<li>outlook.office365.com (2033)</li>
 <li>docs.google.com (1999)</li>
 <li>calendar.google.com (1582)</li>
 <li>moodle.royalholloway.ac.uk (1551)</li>
 <li>www.reddit.com (1550)</li>
 <li>www.amazon.co.uk (1282)</li>
-<li>bsky.app (1126)</li>
+<li>bsky.app (1133)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (925)</li>
+<li>www.linkedin.com (926)</li>
 <li>www.theguardian.com (892)</li>
 <li>gmail.com (836)</li>
 <li>login.microsoftonline.com (750)</li>
@@ -105,6 +105,38 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 10/12/24</H3>
+
+<br>
+
+<ul><li> 10:41 www.linkedin.com</li>
+<li> 10:41 feedly.com</li>
+<li class='same'> 10:40 feedly.com</li>
+<li> 10:40 mail.google.com</li>
+<li> 10:40 bsky.app</li>
+<li class='same'> 10:39 bsky.app</li>
+<li> 10:39 <a href="https://www.youtube.com/">(80) YouTube</a></li>
+<li> 10:39 outlook.office365.com</li>
+<li> 10:36 <a href="https://www.youtube.com/watch?v=EElzlIMjk_c&pp=ygUSc3dpbW0gYnJlYXN0c3Ryb2tl">(80) swimm breaststroke - YouTube</a></li>
+<li> 10:36 <a href="https://www.youtube.com/watch?v=EElzlIMjk_c">(80) How To Swim Breaststroke | Technique For Breaststroke Swimming - YouTube</a></li>
+<li> 10:36 outlook.office365.com</li>
+<li class='same'> 10:35 outlook.office365.com</li>
+<li class='same'> 10:34 outlook.office365.com</li>
+<li> 10:34 <a href="https://www.youtube.com/results?search_query=swimm+breaststroke">(80) swimm breaststroke - YouTube</a></li>
+<li> 10:34 <a href="https://www.youtube.com/watch?v=EElzlIMjk_c">(80) How To Swim Breaststroke | Technique For Breaststroke Swimming - YouTube</a></li>
+<li> 10:34 <a href="https://www.youtube.com/results?search_query=swimm+breaststroke">(80) swimm breaststroke - YouTube</a></li>
+<li> 10:34 <a href="https://www.youtube.com/">(80) YouTube</a></li>
+<li> 10:33 www.geeksoutfit.com</li>
+<li> 10:33 l.facebook.com</li>
+<li> 10:31 www.facebook.com</li>
+<li> 10:31 bsky.app</li>
+<li class='same'> 10:27 bsky.app</li>
+<li> 10:25 www.facebook.com</li>
+<li class='same'> 10:24 www.facebook.com</li>
+<li> 10:24 bsky.app</li>
+<li class='same'> 10:23 bsky.app</li>
+<li> 10:22 outlook.office365.com</li>
+<li> 10:22 bsky.app</li>
+</ul>
 
 <br>
 
