@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9595)</li>
-<li>mail.google.com (6514)</li>
+<ol><li>www.google.com (9596)</li>
+<li>mail.google.com (6516)</li>
 <li>outlook.office.com (3834)</li>
-<li>www.facebook.com (3116)</li>
-<li>outlook.office365.com (2041)</li>
+<li>www.facebook.com (3117)</li>
+<li>outlook.office365.com (2043)</li>
 <li>docs.google.com (2000)</li>
 <li>calendar.google.com (1583)</li>
 <li>www.reddit.com (1552)</li>
 <li>moodle.royalholloway.ac.uk (1551)</li>
 <li>www.amazon.co.uk (1283)</li>
-<li>bsky.app (1144)</li>
+<li>bsky.app (1148)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (927)</li>
+<li>www.linkedin.com (929)</li>
 <li>www.theguardian.com (901)</li>
 <li>gmail.com (836)</li>
-<li>login.microsoftonline.com (778)</li>
+<li>login.microsoftonline.com (779)</li>
 <li>chat.openai.com (721)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
@@ -105,6 +105,27 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 10/12/24</H3>
+
+<br>
+
+<ul><li> 21:49 open.spotify.com</li>
+<li> 21:49 accounts.spotify.com</li>
+<li> 21:49 open.spotify.com</li>
+<li> 21:49 www.spotify.com</li>
+<li> 21:49 www.google.com</li>
+<li> 21:48 bsky.app</li>
+<li> 21:48 www.linkedin.com</li>
+<li class='same'> 21:47 www.linkedin.com</li>
+<li> 21:38 www.facebook.com</li>
+<li> 21:36 bsky.app</li>
+<li class='same'> 21:33 bsky.app</li>
+<li> 21:33 outlook.office365.com</li>
+<li class='same'> 21:32 outlook.office365.com</li>
+<li> 21:32 bsky.app</li>
+<li> 21:32 mail.google.com</li>
+<li> 21:32 login.microsoftonline.com</li>
+<li> 21:32 mail.google.com</li>
+</ul>
 
 <br>
 
