@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9587)</li>
+<ol><li>www.google.com (9588)</li>
 <li>mail.google.com (6512)</li>
-<li>outlook.office.com (3822)</li>
+<li>outlook.office.com (3824)</li>
 <li>www.facebook.com (3116)</li>
 <li>outlook.office365.com (2039)</li>
 <li>docs.google.com (1999)</li>
-<li>calendar.google.com (1582)</li>
+<li>calendar.google.com (1583)</li>
 <li>moodle.royalholloway.ac.uk (1551)</li>
 <li>www.reddit.com (1550)</li>
 <li>www.amazon.co.uk (1282)</li>
-<li>bsky.app (1140)</li>
+<li>bsky.app (1141)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (926)</li>
 <li>www.theguardian.com (892)</li>
 <li>gmail.com (836)</li>
 <li>login.microsoftonline.com (774)</li>
-<li>chat.openai.com (720)</li>
+<li>chat.openai.com (721)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (555)</li>
-<li>rhul-my.sharepoint.com (515)</li>
+<li>rhul-my.sharepoint.com (516)</li>
 <li>drive.google.com (495)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>chatgpt.com (468)</li>
+<li>chatgpt.com (469)</li>
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (408)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:49 outlook.office.com</li>
+<ul><li> 15:58 chatgpt.com</li>
+<li> 15:58 chat.openai.com</li>
+<li> 15:57 rhul-my.sharepoint.com</li>
+<li> 15:57 calendar.google.com</li>
+<li> 15:55 outlook.office.com</li>
+<li> 15:53 0.0.0.0:8000</li>
+<li> 15:52 wallpapers.com</li>
+<li class='same'> 15:51 wallpapers.com</li>
+<li> 15:51 mfiles.alphacoders.com</li>
+<li> 15:51 mobile.alphacoders.com</li>
+<li> 15:51 alphacoders.com</li>
+<li class='same'> 15:50 alphacoders.com</li>
+<li> 15:50 www.google.com</li>
+<li> 15:50 bsky.app</li>
+<li> 15:50 outlook.office.com</li>
+<li class='same'> 15:49 outlook.office.com</li>
 <li> 15:49 0.0.0.0:8000</li>
 </ul>
 
