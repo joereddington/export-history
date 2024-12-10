@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9589)</li>
+<ol><li>www.google.com (9594)</li>
 <li>mail.google.com (6513)</li>
 <li>outlook.office.com (3834)</li>
 <li>www.facebook.com (3116)</li>
 <li>outlook.office365.com (2041)</li>
 <li>docs.google.com (2000)</li>
 <li>calendar.google.com (1583)</li>
+<li>www.reddit.com (1552)</li>
 <li>moodle.royalholloway.ac.uk (1551)</li>
-<li>www.reddit.com (1550)</li>
-<li>www.amazon.co.uk (1282)</li>
+<li>www.amazon.co.uk (1283)</li>
 <li>bsky.app (1144)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (927)</li>
-<li>www.theguardian.com (892)</li>
+<li>www.theguardian.com (901)</li>
 <li>gmail.com (836)</li>
 <li>login.microsoftonline.com (777)</li>
 <li>chat.openai.com (721)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 10/12/24</H3>
+
+<br>
+
+<ul><li> 18:37 www.google.com</li>
+<li class='same'> 18:26 www.google.com</li>
+<li> 18:25 www.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -165,6 +172,11 @@ With number of accesses/minutes in parentheses
 <li> 15:50 outlook.office.com</li>
 <li class='same'> 15:49 outlook.office.com</li>
 <li> 15:49 0.0.0.0:8000</li>
+</ul>
+
+<br>
+
+<ul><li> 15:02 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -427,11 +439,15 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:08 outlook.office365.com</li>
 <li> 16:08 adblockplus.org</li>
 <li> 16:08 outlook.office365.com</li>
+<li> 16:06 www.theguardian.com</li>
+<li> 16:06 inews.co.uk</li>
+<li class='same'> 16:05 inews.co.uk</li>
+<li> 16:05 www.theguardian.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 13:51 outlook.office365.com</li>
+<ul><li> 13:51 outlook.office365.com</li>
 <li> 13:50 www.rhulisc.com</li>
 </ul>
 
@@ -694,6 +710,20 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:51 bsky.app</li>
 <li> 17:50 www.facebook.com</li>
 <li> 17:50 outlook.office365.com</li>
+<li> 17:24 www.theguardian.com</li>
+<li> 17:24 www.thedailymash.co.uk</li>
+<li class='same'> 17:22 www.thedailymash.co.uk</li>
+<li> 17:22 theonion.com</li>
+<li> 17:22 reductress.com</li>
+<li> 17:21 newsthump.com</li>
+<li class='same'> 17:20 newsthump.com</li>
+<li> 17:20 www.theguardian.com</li>
+<li class='same'> 16:51 www.theguardian.com</li>
+<li class='same'> 16:45 www.theguardian.com</li>
+<li class='same'> 16:44 www.theguardian.com</li>
+<li> 16:43 www.amazon.co.uk</li>
+<li> 16:43 www.google.com</li>
+<li> 16:42 www.reddit.com</li>
 </ul>
 
 <br>
@@ -760,7 +790,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:05 support.apple.com</li>
+<ul><li> 15:15 www.reddit.com</li>
+<li> 15:15 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:10 getsupport.apple.com</li>
+<li class='same'> 11:09 getsupport.apple.com</li>
+<li> 11:09 idmsa.apple.com</li>
+<li> 11:09 getsupport.apple.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:10 getsupport.apple.com</li>
+<li class='same'> 10:09 getsupport.apple.com</li>
+<li class='same'> 10:08 getsupport.apple.com</li>
+<li> 10:08 idmsa.apple.com</li>
+<li> 10:08 getsupport.apple.com</li>
+<li> 10:08 support.apple.com</li>
+<li> 10:07 www.google.com</li>
+<li> 10:07 support.apple.com</li>
+<li> 10:07 getsupport.apple.com</li>
+<li> 10:07 idmsa.apple.com</li>
+<li> 10:07 getsupport.apple.com</li>
+<li> 10:05 support.apple.com</li>
 <li> 10:04 www.google.com</li>
 </ul>
 
@@ -85847,6 +85902,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:45 github.com</li>
 <li class='same'> 20:44 github.com</li>
 <li class='same'> 20:43 github.com</li>
+<li> 20:39 getsupport.apple.com</li>
 <li> 20:38 calendar.google.com</li>
 <li class='same'> 20:28 calendar.google.com</li>
 <li> 20:19 github.com</li>
@@ -87687,14 +87743,17 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 14:06 bsky.app</li>
 <li> 14:04 twitter.com</li>
 <li> 14:04 www.giantitp.com</li>
-<li class='same'> 14:03 www.giantitp.com</li>
+<li> 14:03 studio.youtube.com</li>
+<li> 14:03 www.giantitp.com</li>
 <li> 13:54 studio.youtube.com</li>
 </ul>
 
 <br>
 
 <ul><li class='same'> 12:06 studio.youtube.com</li>
+<li class='same'> 12:05 studio.youtube.com</li>
 <li> 12:05 <a href="https://www.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A">(37) Joe edits Wikipedia! - YouTube</a></li>
+<li> 11:57 studio.youtube.com</li>
 <li> 11:56 <a href="https://www.youtube.com/@joeeditswikipedia4486/shorts">(94) Joe edits Wikipedia! - YouTube</a></li>
 <li> 11:56 <a href="https://www.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A">(37) Joe edits Wikipedia! - YouTube</a></li>
 <li> 11:54 www.instagram.com</li>
