@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (555)</li>
+<li>web.whatsapp.com (556)</li>
 <li>rhul-my.sharepoint.com (516)</li>
 <li>drive.google.com (495)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:39 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<ul><li> 16:43 web.whatsapp.com</li>
+<li> 16:39 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 16:39 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
