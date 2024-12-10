@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9582)</li>
+<ol><li>www.google.com (9583)</li>
 <li>mail.google.com (6507)</li>
 <li>outlook.office.com (3820)</li>
-<li>www.facebook.com (3101)</li>
-<li>outlook.office365.com (2012)</li>
+<li>www.facebook.com (3102)</li>
+<li>outlook.office365.com (2016)</li>
 <li>docs.google.com (1999)</li>
 <li>calendar.google.com (1581)</li>
-<li>www.reddit.com (1548)</li>
+<li>www.reddit.com (1549)</li>
 <li>moodle.royalholloway.ac.uk (1545)</li>
 <li>www.amazon.co.uk (1282)</li>
-<li>bsky.app (1110)</li>
+<li>bsky.app (1112)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (921)</li>
+<li>www.linkedin.com (923)</li>
 <li>www.theguardian.com (891)</li>
 <li>gmail.com (835)</li>
 <li>login.microsoftonline.com (749)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (465)</li>
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
-<li>forum.artofmemory.com (403)</li>
+<li>forum.artofmemory.com (408)</li>
 <li>rhul.sharepoint.com (363)</li>
 
 
@@ -104,7 +104,44 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 10/12/24</H3>
+
+<br>
+
+<ul><li> 07:17 intranet.royalholloway.ac.uk</li>
+<li> 07:17 www.google.com</li>
+<li> 07:17 outlook.office365.com</li>
+<li> 07:17 discord.com</li>
+<li class='same'> 07:16 discord.com</li>
+<li class='same'> 07:15 discord.com</li>
+<li class='same'> 07:05 discord.com</li>
+<li class='same'> 07:03 discord.com</li>
+<li class='same'> 07:02 discord.com</li>
+<li> 07:02 cfp.securitybsides.org.uk</li>
+<li> 07:01 bsides.london</li>
+<li> 07:01 discord.com</li>
+<li> 07:01 forum.artofmemory.com</li>
+<li class='same'> 07:00 forum.artofmemory.com</li>
+<li class='same'> 06:59 forum.artofmemory.com</li>
+<li class='same'> 06:58 forum.artofmemory.com</li>
+<li class='same'> 06:57 forum.artofmemory.com</li>
+<li> 06:57 artofmemory.com</li>
+<li> 06:57 www.linkedin.com</li>
+<li class='same'> 06:56 www.linkedin.com</li>
+<li> 06:52 www.facebook.com</li>
+<li> 06:52 bsky.app</li>
+<li class='same'> 06:48 bsky.app</li>
+<li> 06:46 www.reddit.com</li>
+<li> 06:46 outlook.office365.com</li>
+<li class='same'> 06:45 outlook.office365.com</li>
+<li class='same'> 06:44 outlook.office365.com</li>
+</ul>
+
 <H3>Monday, 09/12/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
