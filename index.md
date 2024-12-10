@@ -72,19 +72,19 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6510)</li>
 <li>outlook.office.com (3821)</li>
 <li>www.facebook.com (3106)</li>
-<li>outlook.office365.com (2033)</li>
+<li>outlook.office365.com (2037)</li>
 <li>docs.google.com (1999)</li>
 <li>calendar.google.com (1582)</li>
 <li>moodle.royalholloway.ac.uk (1551)</li>
 <li>www.reddit.com (1550)</li>
 <li>www.amazon.co.uk (1282)</li>
-<li>bsky.app (1136)</li>
+<li>bsky.app (1139)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (926)</li>
 <li>www.theguardian.com (892)</li>
 <li>gmail.com (836)</li>
-<li>login.microsoftonline.com (759)</li>
+<li>login.microsoftonline.com (765)</li>
 <li>chat.openai.com (720)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
@@ -108,10 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:07 bsky.app</li>
+<ul><li> 12:08 bsky.app</li>
+<li class='same'> 12:07 bsky.app</li>
 <li class='same'> 12:06 bsky.app</li>
-<li class='same'> 12:05 bsky.app</li>
+<li> 12:05 login.microsoftonline.com</li>
+<li> 12:05 bsky.app</li>
 <li> 11:58 outlook.office.com</li>
+<li> 11:58 login.microsoftonline.com</li>
 <li> 11:49 files.oaiusercontent.com</li>
 <li class='same'> 11:46 files.oaiusercontent.com</li>
 <li> 11:46 0.0.0.0:8000</li>
@@ -120,6 +123,16 @@ With number of accesses/minutes in parentheses
 <li> 11:43 chat.openai.com</li>
 <li> 11:43 0.0.0.0:8000</li>
 <li> 11:42 adblockplus.org</li>
+<li> 11:39 outlook.office365.com</li>
+<li class='same'> 11:38 outlook.office365.com</li>
+<li> 11:38 login.microsoftonline.com</li>
+<li class='same'> 11:37 login.microsoftonline.com</li>
+<li class='same'> 11:36 login.microsoftonline.com</li>
+<li> 11:35 outlook.office365.com</li>
+<li> 11:35 login.microsoftonline.com</li>
+<li> 11:35 bsky.app</li>
+<li class='same'> 11:34 bsky.app</li>
+<li> 11:34 outlook.office365.com</li>
 <li> 11:32 login.microsoftonline.com</li>
 <li class='same'> 11:29 login.microsoftonline.com</li>
 <li class='same'> 11:26 login.microsoftonline.com</li>
