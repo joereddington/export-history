@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (926)</li>
 <li>www.theguardian.com (892)</li>
 <li>gmail.com (836)</li>
-<li>login.microsoftonline.com (750)</li>
+<li>login.microsoftonline.com (759)</li>
 <li>chat.openai.com (719)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:41 www.linkedin.com</li>
+<ul><li> 11:32 login.microsoftonline.com</li>
+<li class='same'> 11:29 login.microsoftonline.com</li>
+<li class='same'> 11:26 login.microsoftonline.com</li>
+<li class='same'> 11:23 login.microsoftonline.com</li>
+<li class='same'> 11:20 login.microsoftonline.com</li>
+<li class='same'> 11:17 login.microsoftonline.com</li>
+<li class='same'> 11:14 login.microsoftonline.com</li>
+<li class='same'> 11:12 login.microsoftonline.com</li>
+<li class='same'> 11:10 login.microsoftonline.com</li>
+<li> 10:41 www.linkedin.com</li>
 <li> 10:41 feedly.com</li>
 <li class='same'> 10:40 feedly.com</li>
 <li> 10:40 mail.google.com</li>
