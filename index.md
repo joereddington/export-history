@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (892)</li>
 <li>gmail.com (836)</li>
 <li>login.microsoftonline.com (759)</li>
-<li>chat.openai.com (719)</li>
+<li>chat.openai.com (720)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (515)</li>
 <li>drive.google.com (495)</li>
 <li>en.m.wikipedia.org (489)</li>
-<li>chatgpt.com (466)</li>
+<li>chatgpt.com (468)</li>
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (408)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:32 login.microsoftonline.com</li>
+<ul><li> 11:49 files.oaiusercontent.com</li>
+<li class='same'> 11:46 files.oaiusercontent.com</li>
+<li> 11:46 0.0.0.0:8000</li>
+<li> 11:45 chatgpt.com</li>
+<li class='same'> 11:43 chatgpt.com</li>
+<li> 11:43 chat.openai.com</li>
+<li> 11:43 0.0.0.0:8000</li>
+<li> 11:42 adblockplus.org</li>
+<li> 11:32 login.microsoftonline.com</li>
 <li class='same'> 11:29 login.microsoftonline.com</li>
 <li class='same'> 11:26 login.microsoftonline.com</li>
 <li class='same'> 11:23 login.microsoftonline.com</li>
