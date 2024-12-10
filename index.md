@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9585)</li>
+<ol><li>www.google.com (9582)</li>
 <li>mail.google.com (6507)</li>
-<li>outlook.office.com (3821)</li>
+<li>outlook.office.com (3820)</li>
 <li>www.facebook.com (3101)</li>
 <li>outlook.office365.com (2012)</li>
 <li>docs.google.com (1999)</li>
@@ -21641,8 +21641,7 @@ With number of accesses/minutes in parentheses
 <li> 07:25 www.google.com</li>
 <li> 07:23 drive.google.com</li>
 <li> 07:22 www.watfordobserver.co.uk</li>
-<li> 07:22 www.google.com</li>
-<li class='same'> 07:21 www.google.com</li>
+<li> 07:21 www.google.com</li>
 <li> 07:21 www.bbc.com</li>
 <li> 07:21 <a href="https://www.bbc.co.uk/news/articles/cl5yv23pw13o">Luton: Tortoise and hare sculptures take over the town - BBC News</a></li>
 <li> 07:21 www.google.com</li>
@@ -21717,15 +21716,12 @@ With number of accesses/minutes in parentheses
 <li> 16:50 link.springer.com</li>
 <li> 16:50 idp.springer.com</li>
 <li> 16:50 books.google.co.uk</li>
-<li> 16:50 books.google.com</li>
-<li> 16:50 books.google.co.uk</li>
 <li> 16:49 www.tandfonline.com</li>
 <li> 16:49 outlook.office.com</li>
 <li> 16:49 cybercrimejournal.com</li>
 <li> 16:48 dspace.ub.uni-siegen.de</li>
 <li> 16:48 scholar.google.com</li>
 <li> 16:48 books.google.co.uk</li>
-<li> 16:48 books.google.com</li>
 <li> 16:47 scholar.google.com</li>
 <li class='same'> 16:46 scholar.google.com</li>
 <li> 16:46 www.google.com</li>
@@ -21822,8 +21818,7 @@ With number of accesses/minutes in parentheses
 <li> 13:52 outlook.office.com</li>
 <li class='same'> 13:49 outlook.office.com</li>
 <li> 13:48 calendar.google.com</li>
-<li> 13:47 outlook.office.com</li>
-<li> 13:47 calendar.google.com</li>
+<li class='same'> 13:47 calendar.google.com</li>
 <li> 13:47 outlook.office.com</li>
 <li class='same'> 13:46 outlook.office.com</li>
 <li> 13:46 docs.google.com</li>
@@ -21831,9 +21826,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:44 www.facebook.com</li>
 <li class='same'> 13:43 www.facebook.com</li>
 <li class='same'> 13:42 www.facebook.com</li>
-<li> 13:38 www.lutontoday.co.uk</li>
-<li> 13:38 l.facebook.com</li>
-<li> 13:37 www.facebook.com</li>
+<li class='same'> 13:37 www.facebook.com</li>
 <li class='same'> 13:36 www.facebook.com</li>
 <li> 13:35 docs.google.com</li>
 <li class='same'> 13:34 docs.google.com</li>
@@ -21867,8 +21860,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:48 docs.google.com</li>
 <li class='same'> 12:47 docs.google.com</li>
 <li> 12:44 <a href="https://en.wikipedia.org/wiki/Self-publishing">Self-publishing - Wikipedia</a></li>
-<li> 12:44 www.google.com</li>
-<li class='same'> 12:43 www.google.com</li>
+<li> 12:43 www.google.com</li>
 <li> 12:42 maps.wikilovesmonuments.org</li>
 <li> 12:42 www.wikilovesmonuments.org.uk</li>
 <li> 12:41 <a href="https://en.wikipedia.org/w/index.php?title=Barnfield_College&action=history">Barnfield College: Revision history - Wikipedia</a></li>
@@ -21913,14 +21905,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:02 outlook.office.com</li>
 <li class='same'> 11:59 outlook.office.com</li>
 <li class='same'> 11:58 outlook.office.com</li>
-<li> 11:58 cloud.email.generac.com</li>
 <li> 11:58 mail.google.com</li>
 <li> 11:58 cloud.email.generac.com</li>
 <li> 11:58 mail.google.com</li>
 <li class='same'> 11:57 mail.google.com</li>
 <li class='same'> 11:55 mail.google.com</li>
-<li> 11:55 www.google.com</li>
-<li class='same'> 11:54 www.google.com</li>
+<li> 11:54 www.google.com</li>
 <li> 11:54 www.thetrainline.com</li>
 <li class='same'> 11:52 www.thetrainline.com</li>
 <li> 11:48 www.google.com</li>
