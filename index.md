@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9588)</li>
+<ol><li>www.google.com (9589)</li>
 <li>mail.google.com (6512)</li>
-<li>outlook.office.com (3830)</li>
+<li>outlook.office.com (3834)</li>
 <li>www.facebook.com (3116)</li>
-<li>outlook.office365.com (2040)</li>
-<li>docs.google.com (1999)</li>
+<li>outlook.office365.com (2041)</li>
+<li>docs.google.com (2000)</li>
 <li>calendar.google.com (1583)</li>
 <li>moodle.royalholloway.ac.uk (1551)</li>
 <li>www.reddit.com (1550)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (556)</li>
+<li>web.whatsapp.com (558)</li>
 <li>rhul-my.sharepoint.com (516)</li>
 <li>drive.google.com (495)</li>
 <li>en.m.wikipedia.org (489)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:43 web.whatsapp.com</li>
+<ul><li> 16:59 outlook.office.com</li>
+<li> 16:59 outlook.office365.com</li>
+<li> 16:59 outlook.office.com</li>
+<li> 16:59 mail.rhul.ac.uk</li>
+<li> 16:59 eur03.safelinks.protection.outlook.com</li>
+<li> 16:59 download.moodle.org</li>
+<li> 16:58 outlook.office.com</li>
+<li class='same'> 16:57 outlook.office.com</li>
+<li> 16:55 web.whatsapp.com</li>
+<li> 16:53 www.google.com</li>
+<li> 16:48 web.whatsapp.com</li>
+<li> 16:48 docs.google.com</li>
+<li> 16:43 web.whatsapp.com</li>
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
