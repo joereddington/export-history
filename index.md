@@ -75,8 +75,8 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (2055)</li>
 <li>docs.google.com (2002)</li>
 <li>calendar.google.com (1587)</li>
+<li>moodle.royalholloway.ac.uk (1553)</li>
 <li>www.reddit.com (1552)</li>
-<li>moodle.royalholloway.ac.uk (1551)</li>
 <li>www.amazon.co.uk (1285)</li>
 <li>bsky.app (1153)</li>
 <li>github.com (1056)</li>
@@ -84,13 +84,13 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (929)</li>
 <li>www.theguardian.com (902)</li>
 <li>gmail.com (836)</li>
-<li>login.microsoftonline.com (790)</li>
+<li>login.microsoftonline.com (791)</li>
 <li>chat.openai.com (738)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (564)</li>
-<li>rhul-my.sharepoint.com (519)</li>
+<li>rhul-my.sharepoint.com (520)</li>
 <li>drive.google.com (496)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>chatgpt.com (487)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:22 rhul.hosted.panopto.com</li>
+<ul><li> 11:42 ev.turnitinuk.com</li>
+<li> 11:42 api.turnitinuk.com</li>
+<li> 11:42 51.148.131.133:8000</li>
+<li> 11:41 moodle.royalholloway.ac.uk</li>
+<li> 11:41 login.microsoftonline.com</li>
+<li> 11:41 moodle.royalholloway.ac.uk</li>
+<li> 11:38 rhul-my.sharepoint.com</li>
+<li> 11:22 rhul.hosted.panopto.com</li>
 <li> 11:21 analyze.buffer.com</li>
 <li> 11:21 publish.buffer.com</li>
 <li> 11:21 login.buffer.com</li>
