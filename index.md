@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9604)</li>
+<ol><li>www.google.com (9608)</li>
 <li>mail.google.com (6516)</li>
 <li>outlook.office.com (3834)</li>
 <li>www.facebook.com (3120)</li>
 <li>outlook.office365.com (2050)</li>
-<li>docs.google.com (2001)</li>
-<li>calendar.google.com (1585)</li>
+<li>docs.google.com (2002)</li>
+<li>calendar.google.com (1586)</li>
 <li>www.reddit.com (1552)</li>
 <li>moodle.royalholloway.ac.uk (1551)</li>
 <li>www.amazon.co.uk (1285)</li>
 <li>bsky.app (1153)</li>
-<li>github.com (1055)</li>
+<li>github.com (1056)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (929)</li>
-<li>www.theguardian.com (901)</li>
+<li>www.theguardian.com (902)</li>
 <li>gmail.com (836)</li>
 <li>login.microsoftonline.com (781)</li>
-<li>chat.openai.com (723)</li>
+<li>chat.openai.com (730)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (559)</li>
 <li>rhul-my.sharepoint.com (517)</li>
-<li>drive.google.com (495)</li>
+<li>drive.google.com (496)</li>
 <li>en.m.wikipedia.org (491)</li>
-<li>chatgpt.com (470)</li>
+<li>chatgpt.com (478)</li>
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (408)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:51 chat.openai.com</li>
+<ul><li> 09:05 claude.ai</li>
+<li> 09:05 chatgpt.com</li>
+<li> 09:05 chat.openai.com</li>
+<li> 09:05 51.148.131.133:8000</li>
+<li> 09:05 chatgpt.com</li>
+<li> 09:05 chat.openai.com</li>
+<li> 09:05 51.148.131.133:8000</li>
+<li> 09:04 chatgpt.com</li>
+<li> 09:04 chat.openai.com</li>
+<li> 09:04 51.148.131.133:8000</li>
+<li> 09:03 openai.com</li>
+<li> 09:03 github.com</li>
+<li> 09:03 docs.google.com</li>
+<li> 09:03 drive.google.com</li>
+<li> 09:03 www.google.com</li>
+<li> 09:03 51.148.131.133:8000</li>
+<li> 09:03 www.google.com</li>
+<li> 09:03 51.148.131.133:8000</li>
+<li> 09:02 chatgpt.com</li>
+<li> 09:02 chat.openai.com</li>
+<li> 09:02 51.148.131.133:8000</li>
+<li> 09:02 chatgpt.com</li>
+<li> 09:02 chat.openai.com</li>
+<li> 09:02 51.148.131.133:8000</li>
+<li> 09:02 chatgpt.com</li>
+<li> 09:02 chat.openai.com</li>
+<li> 09:02 51.148.131.133:8000</li>
+<li> 09:02 experience.elluciancloud.ie</li>
+<li> 09:02 51.148.131.133:8000</li>
+<li> 09:01 calendar.google.com</li>
+<li> 09:01 www.google.com</li>
+<li> 09:01 51.148.131.133:8000</li>
+<li> 08:58 www.google.com</li>
+<li> 08:58 51.148.131.133:8000</li>
+<li> 08:58 www.theguardian.com</li>
+<li> 08:57 chatgpt.com</li>
+<li> 08:57 chat.openai.com</li>
+<li> 08:51 chatgpt.com</li>
+<li> 08:51 chat.openai.com</li>
 <li> 08:49 www.facebook.com</li>
 </ul>
 
