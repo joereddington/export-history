@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9609)</li>
+<ol><li>www.google.com (9610)</li>
 <li>mail.google.com (6516)</li>
 <li>outlook.office.com (3834)</li>
 <li>www.facebook.com (3121)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (561)</li>
+<li>web.whatsapp.com (562)</li>
 <li>rhul-my.sharepoint.com (517)</li>
 <li>drive.google.com (496)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:58 <a href="https://joereddington.com/2024/12/11/audio.html"></a></li>
+<ul><li> 10:05 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
+<li> 10:03 publish.buffer.com</li>
+<li> 10:03 login.buffer.com</li>
+<li> 10:03 buffer.com</li>
+<li class='same'> 10:02 buffer.com</li>
+<li> 10:02 51.148.131.133:8000</li>
+<li> 10:02 www.google.com</li>
+<li> 10:02 51.148.131.133:8000</li>
+<li> 10:02 web.whatsapp.com</li>
+<li> 09:58 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
 <li> 09:55 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:51 www.google.com</li>
 <li> 09:51 51.148.131.133:8000</li>
