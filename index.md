@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9604)</li>
 <li>mail.google.com (6516)</li>
 <li>outlook.office.com (3834)</li>
-<li>www.facebook.com (3119)</li>
+<li>www.facebook.com (3120)</li>
 <li>outlook.office365.com (2050)</li>
 <li>docs.google.com (2001)</li>
 <li>calendar.google.com (1585)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (901)</li>
 <li>gmail.com (836)</li>
 <li>login.microsoftonline.com (781)</li>
-<li>chat.openai.com (722)</li>
+<li>chat.openai.com (723)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 11/12/24</H3>
+
+<br>
+
+<ul><li> 08:51 chat.openai.com</li>
+<li> 08:49 www.facebook.com</li>
+</ul>
 
 <br>
 
