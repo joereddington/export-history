@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9597)</li>
+<ol><li>www.google.com (9604)</li>
 <li>mail.google.com (6516)</li>
 <li>outlook.office.com (3834)</li>
-<li>www.facebook.com (3117)</li>
-<li>outlook.office365.com (2049)</li>
+<li>www.facebook.com (3119)</li>
+<li>outlook.office365.com (2050)</li>
 <li>docs.google.com (2001)</li>
 <li>calendar.google.com (1585)</li>
 <li>www.reddit.com (1552)</li>
@@ -85,15 +85,15 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (901)</li>
 <li>gmail.com (836)</li>
 <li>login.microsoftonline.com (781)</li>
-<li>chat.openai.com (721)</li>
+<li>chat.openai.com (722)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (558)</li>
+<li>web.whatsapp.com (559)</li>
 <li>rhul-my.sharepoint.com (517)</li>
 <li>drive.google.com (495)</li>
-<li>en.m.wikipedia.org (489)</li>
-<li>chatgpt.com (469)</li>
+<li>en.m.wikipedia.org (491)</li>
+<li>chatgpt.com (470)</li>
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (408)</li>
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:05 bsky.app</li>
+<ul><li> 07:52 www.google.com</li>
+<li> 07:52 en.m.wikipedia.org</li>
+<li> 07:38 outlook.office365.com</li>
+<li> 07:37 addons.mozilla.org</li>
+<li class='same'> 07:36 addons.mozilla.org</li>
+<li> 07:36 www.homebase.co.uk</li>
+<li> 07:36 www.google.com</li>
+<li> 07:35 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:35 www.google.com</li>
+<li> 07:35 www.facebook.com</li>
+<li> 07:35 www.google.com</li>
+<li class='same'> 07:34 www.google.com</li>
+<li> 07:34 addons.mozilla.org</li>
+<li> 07:34 www.google.com</li>
+<li> 07:34 x.com</li>
+<li> 07:33 einaregilsson.com</li>
+<li> 07:29 web.whatsapp.com</li>
+<li> 07:28 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 07:24 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
+<li> 07:24 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&action=history">T-Mobile data breach: Revision history - Wikipedia</a></li>
+<li> 07:24 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
+<li> 07:23 <a href="https://en.wikipedia.org/wiki/Talk:T-Mobile_data_breach#Potential_future_source-DoesNotExist-DiscussionToolsHack">Talk:T-Mobile data breach - Wikipedia</a></li>
+<li> 07:23 <a href="https://en.wikipedia.org/wiki/Talk:T-Mobile_data_breach#Potential_future_source">Talk:T-Mobile data breach - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Talk:T-Mobile_data_breach">Talk:T-Mobile data breach - Wikipedia</a></li>
+<li> 07:22 s3.amazonaws.com</li>
+<li> 07:21 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach#Some_Sources_that_are_potentially_useful.-DoesNotExist-DiscussionToolsHack">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach#Some_Sources_that_are_potentially_useful.">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 07:20 chatgpt.com</li>
+<li> 07:20 chat.openai.com</li>
+<li> 07:19 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 07:18 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 07:09 www.google.com</li>
+<li> 07:09 www.facebook.com</li>
+<li> 07:05 bsky.app</li>
 <li> 07:05 51.148.131.133:8000</li>
 <li> 07:05 bsky.app</li>
 <li> 06:56 www.amazon.co.uk</li>
@@ -186,7 +220,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:37 www.google.com</li>
+<ul><li> 18:38 en.m.wikipedia.org</li>
+<li> 18:37 www.google.com</li>
 <li class='same'> 18:26 www.google.com</li>
 <li> 18:25 www.theguardian.com</li>
 </ul>
@@ -21739,7 +21774,6 @@ With number of accesses/minutes in parentheses
 <li> 15:11 gmail.com</li>
 <li> 15:11 penaltynotice.homeoffice.gov.uk</li>
 <li> 15:11 www.theguardian.com</li>
-<li> 15:10 penaltynotice.homeoffice.gov.uk</li>
 <li> 15:10 methodurl.psp-solutions.com</li>
 <li> 15:10 penaltynotice.homeoffice.gov.uk</li>
 <li class='same'> 15:09 penaltynotice.homeoffice.gov.uk</li>
@@ -21850,7 +21884,6 @@ With number of accesses/minutes in parentheses
 <li> 06:24 www.natesilver.net</li>
 <li class='same'> 06:21 www.natesilver.net</li>
 <li> 06:21 x.com</li>
-<li> 06:21 twitter.com</li>
 <li> 06:20 www.google.com</li>
 </ul>
 
@@ -85986,7 +86019,8 @@ With number of accesses/minutes in parentheses
 <li> 20:19 github.com</li>
 <li> 20:19 www.diy.com</li>
 <li class='same'> 20:18 www.diy.com</li>
-<li class='same'> 20:11 www.diy.com</li>
+<li> 20:12 www.homebase.co.uk</li>
+<li> 20:11 www.diy.com</li>
 <li class='same'> 20:09 www.diy.com</li>
 <li class='same'> 20:07 www.diy.com</li>
 <li class='same'> 20:06 www.diy.com</li>
@@ -88404,7 +88438,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:46 www.diy.com</li>
 <li class='same'> 11:45 www.diy.com</li>
 <li class='same'> 11:44 www.diy.com</li>
-<li class='same'> 11:31 www.diy.com</li>
+<li> 11:32 www.homebase.co.uk</li>
+<li> 11:31 www.diy.com</li>
 <li class='same'> 11:30 www.diy.com</li>
 <li class='same'> 11:27 www.diy.com</li>
 </ul>
