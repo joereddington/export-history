@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (902)</li>
 <li>gmail.com (836)</li>
 <li>login.microsoftonline.com (781)</li>
-<li>chat.openai.com (731)</li>
+<li>chat.openai.com (732)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (517)</li>
 <li>drive.google.com (496)</li>
 <li>en.m.wikipedia.org (491)</li>
-<li>chatgpt.com (480)</li>
+<li>chatgpt.com (481)</li>
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (408)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:20 chatgpt.com</li>
+<ul><li> 09:38 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
+<li> 09:38 <a href="https://joereddington.com/2024/11/13/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li class='same'> 09:37 <a href="https://joereddington.com/2024/11/13/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 09:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:35 0.0.0.0:8000</li>
+<li> 09:31 chatgpt.com</li>
+<li> 09:31 chat.openai.com</li>
+<li> 09:20 chatgpt.com</li>
 <li class='same'> 09:19 chatgpt.com</li>
 <li> 09:19 chat.openai.com</li>
 <li> 09:16 www.facebook.com</li>
