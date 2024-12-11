@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9596)</li>
+<ol><li>www.google.com (9597)</li>
 <li>mail.google.com (6516)</li>
 <li>outlook.office.com (3834)</li>
 <li>www.facebook.com (3117)</li>
-<li>outlook.office365.com (2043)</li>
-<li>docs.google.com (2000)</li>
+<li>outlook.office365.com (2049)</li>
+<li>docs.google.com (2001)</li>
 <li>calendar.google.com (1585)</li>
 <li>www.reddit.com (1552)</li>
 <li>moodle.royalholloway.ac.uk (1551)</li>
-<li>www.amazon.co.uk (1283)</li>
-<li>bsky.app (1148)</li>
+<li>www.amazon.co.uk (1285)</li>
+<li>bsky.app (1153)</li>
 <li>github.com (1055)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (929)</li>
 <li>www.theguardian.com (901)</li>
 <li>gmail.com (836)</li>
-<li>login.microsoftonline.com (779)</li>
+<li>login.microsoftonline.com (781)</li>
 <li>chat.openai.com (721)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (558)</li>
-<li>rhul-my.sharepoint.com (516)</li>
+<li>rhul-my.sharepoint.com (517)</li>
 <li>drive.google.com (495)</li>
 <li>en.m.wikipedia.org (489)</li>
 <li>chatgpt.com (469)</li>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 11/12/24</H3>
+
+<br>
+
+<ul><li> 07:05 bsky.app</li>
+<li> 07:05 51.148.131.133:8000</li>
+<li> 07:05 bsky.app</li>
+<li> 06:56 www.amazon.co.uk</li>
+<li class='same'> 06:55 www.amazon.co.uk</li>
+<li> 06:55 www.google.com</li>
+<li> 06:54 docs.google.com</li>
+<li> 06:54 51.148.131.133:8000</li>
+<li> 06:53 outlook.office365.com</li>
+<li> 06:53 login.microsoftonline.com</li>
+<li> 06:53 outlook.office365.com</li>
+<li> 06:52 rhul-my.sharepoint.com</li>
+<li> 06:52 outlook.office365.com</li>
+<li class='same'> 06:51 outlook.office365.com</li>
+<li class='same'> 06:50 outlook.office365.com</li>
+<li> 06:49 51.148.131.133:8000</li>
+<li> 06:43 bluesky-thread-composer.pages.dev</li>
+<li> 06:39 bsky.app</li>
+<li> 06:39 login.microsoftonline.com</li>
+<li> 06:39 bsky.app</li>
+</ul>
 
 <br>
 
@@ -124,7 +148,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:49 open.spotify.com</li>
+<ul><li> 21:55 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 21:55 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 21:55 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 21:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 21:55 feedly.com</li>
+<li> 21:55 outlook.office365.com</li>
+<li> 21:52 bsky.app</li>
+<li> 21:49 open.spotify.com</li>
 <li> 21:49 accounts.spotify.com</li>
 <li> 21:49 open.spotify.com</li>
 <li> 21:49 www.spotify.com</li>
