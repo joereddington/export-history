@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9608)</li>
 <li>mail.google.com (6516)</li>
 <li>outlook.office.com (3834)</li>
-<li>www.facebook.com (3120)</li>
+<li>www.facebook.com (3121)</li>
 <li>outlook.office365.com (2050)</li>
 <li>docs.google.com (2002)</li>
 <li>calendar.google.com (1586)</li>
@@ -85,15 +85,15 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (902)</li>
 <li>gmail.com (836)</li>
 <li>login.microsoftonline.com (781)</li>
-<li>chat.openai.com (730)</li>
+<li>chat.openai.com (731)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (559)</li>
+<li>web.whatsapp.com (561)</li>
 <li>rhul-my.sharepoint.com (517)</li>
 <li>drive.google.com (496)</li>
 <li>en.m.wikipedia.org (491)</li>
-<li>chatgpt.com (478)</li>
+<li>chatgpt.com (479)</li>
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (408)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:05 claude.ai</li>
+<ul><li> 09:19 chatgpt.com</li>
+<li> 09:19 chat.openai.com</li>
+<li> 09:16 www.facebook.com</li>
+<li> 09:16 51.148.131.133:8000</li>
+<li> 09:11 web.whatsapp.com</li>
+<li class='same'> 09:09 web.whatsapp.com</li>
+<li> 09:05 claude.ai</li>
 <li> 09:05 chatgpt.com</li>
 <li> 09:05 chat.openai.com</li>
 <li> 09:05 51.148.131.133:8000</li>
