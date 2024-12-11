@@ -72,9 +72,9 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6516)</li>
 <li>outlook.office.com (3834)</li>
 <li>www.facebook.com (3121)</li>
-<li>outlook.office365.com (2050)</li>
+<li>outlook.office365.com (2055)</li>
 <li>docs.google.com (2002)</li>
-<li>calendar.google.com (1586)</li>
+<li>calendar.google.com (1587)</li>
 <li>www.reddit.com (1552)</li>
 <li>moodle.royalholloway.ac.uk (1551)</li>
 <li>www.amazon.co.uk (1285)</li>
@@ -84,20 +84,20 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (929)</li>
 <li>www.theguardian.com (902)</li>
 <li>gmail.com (836)</li>
-<li>login.microsoftonline.com (781)</li>
-<li>chat.openai.com (733)</li>
+<li>login.microsoftonline.com (790)</li>
+<li>chat.openai.com (738)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (562)</li>
-<li>rhul-my.sharepoint.com (517)</li>
+<li>web.whatsapp.com (564)</li>
+<li>rhul-my.sharepoint.com (519)</li>
 <li>drive.google.com (496)</li>
 <li>en.m.wikipedia.org (491)</li>
-<li>chatgpt.com (482)</li>
+<li>chatgpt.com (487)</li>
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (408)</li>
-<li>rhul.sharepoint.com (363)</li>
+<li>rhul.sharepoint.com (365)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:05 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
+<ul><li> 11:22 rhul.hosted.panopto.com</li>
+<li> 11:21 analyze.buffer.com</li>
+<li> 11:21 publish.buffer.com</li>
+<li> 11:21 login.buffer.com</li>
+<li> 11:21 buffer.com</li>
+<li> 11:21 outlook.office365.com</li>
+<li class='same'> 11:19 outlook.office365.com</li>
+<li class='same'> 11:18 outlook.office365.com</li>
+<li> 11:13 rhul-my.sharepoint.com</li>
+<li> 11:12 rhul.sharepoint.com</li>
+<li> 11:01 chatgpt.com</li>
+<li> 11:01 chat.openai.com</li>
+<li> 11:00 login.microsoftonline.com</li>
+<li> 11:00 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
+<li> 10:57 login.microsoftonline.com</li>
+<li> 10:57 forms.office.com</li>
+<li> 10:57 rhul-my.sharepoint.com</li>
+<li> 10:57 login.microsoftonline.com</li>
+<li> 10:57 forms.office.com</li>
+<li> 10:57 login.microsoftonline.com</li>
+<li> 10:57 forms.office.com</li>
+<li> 10:48 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 10:47 chatgpt.com</li>
+<li class='same'> 10:46 chatgpt.com</li>
+<li> 10:46 chat.openai.com</li>
+<li> 10:40 rhul.sharepoint.com</li>
+<li> 10:40 login.microsoftonline.com</li>
+<li> 10:39 rhul.hosted.panopto.com</li>
+<li> 10:39 login.microsoftonline.com</li>
+<li> 10:39 rhul.hosted.panopto.com</li>
+<li> 10:37 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 10:37 login.microsoftonline.com</li>
+<li> 10:37 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 10:37 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 10:37 adfs.rhul.ac.uk</li>
+<li> 10:36 outlook.office365.com</li>
+<li> 10:36 experience.elluciancloud.ie</li>
+<li> 10:36 mysignins.microsoft.com</li>
+<li> 10:36 account.activedirectory.windowsazure.com</li>
+<li> 10:36 login.microsoftonline.com</li>
+<li> 10:36 account.activedirectory.windowsazure.com</li>
+<li> 10:36 outlook.office365.com</li>
+<li> 10:36 login.microsoftonline.com</li>
+<li> 10:36 experience.elluciancloud.ie</li>
+<li> 10:36 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 10:36 51.148.131.133:8000</li>
+<li> 10:06 calendar.google.com</li>
+<li> 10:05 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
 <li> 10:03 publish.buffer.com</li>
 <li> 10:03 login.buffer.com</li>
 <li> 10:03 buffer.com</li>
@@ -138,6 +185,18 @@ With number of accesses/minutes in parentheses
 <li> 09:16 51.148.131.133:8000</li>
 <li> 09:11 web.whatsapp.com</li>
 <li class='same'> 09:09 web.whatsapp.com</li>
+<li> 09:08 buffer.com</li>
+<li> 09:08 51.148.131.133:8000</li>
+<li> 09:08 web.whatsapp.com</li>
+<li> 09:07 chatgpt.com</li>
+<li> 09:07 chat.openai.com</li>
+<li> 09:07 chatgpt.com</li>
+<li> 09:07 chat.openai.com</li>
+<li> 09:07 51.148.131.133:8000</li>
+<li> 09:06 chat.openai.com</li>
+<li> 09:06 51.148.131.133:8000</li>
+<li> 09:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:06 web.whatsapp.com</li>
 <li> 09:05 claude.ai</li>
 <li> 09:05 chatgpt.com</li>
 <li> 09:05 chat.openai.com</li>
