@@ -71,21 +71,21 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9638)</li>
 <li>mail.google.com (6528)</li>
 <li>outlook.office.com (3836)</li>
-<li>www.facebook.com (3123)</li>
-<li>outlook.office365.com (2125)</li>
+<li>www.facebook.com (3124)</li>
+<li>outlook.office365.com (2127)</li>
 <li>docs.google.com (2005)</li>
 <li>calendar.google.com (1589)</li>
 <li>moodle.royalholloway.ac.uk (1574)</li>
 <li>www.reddit.com (1557)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1177)</li>
+<li>bsky.app (1178)</li>
 <li>github.com (1057)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (936)</li>
-<li>www.theguardian.com (906)</li>
+<li>www.theguardian.com (908)</li>
 <li>gmail.com (841)</li>
 <li>login.microsoftonline.com (798)</li>
-<li>chat.openai.com (739)</li>
+<li>chat.openai.com (740)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (542)</li>
 <li>drive.google.com (497)</li>
 <li>en.m.wikipedia.org (491)</li>
-<li>chatgpt.com (489)</li>
+<li>chatgpt.com (490)</li>
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (408)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:05 www.theguardian.com</li>
+<ul><li> 18:31 chatgpt.com</li>
+<li> 18:31 chat.openai.com</li>
+<li> 18:24 bsky.app</li>
+<li> 18:22 www.facebook.com</li>
+<li> 18:22 outlook.office365.com</li>
+<li class='same'> 18:21 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:07 www.theguardian.com</li>
+<li class='same'> 16:06 www.theguardian.com</li>
+<li class='same'> 16:05 www.theguardian.com</li>
 <li> 16:05 www.giantitp.com</li>
 <li> 16:04 <a href="https://en.wikipedia.org/wiki/Talk:T-Mobile_data_breach">Talk:T-Mobile data breach - Wikipedia</a></li>
 <li> 16:04 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach?markasread=332708076&markasreadwiki=enwiki">T-Mobile data breach - Wikipedia</a></li>
