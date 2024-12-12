@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6528)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3123)</li>
-<li>outlook.office365.com (2115)</li>
+<li>outlook.office365.com (2117)</li>
 <li>docs.google.com (2005)</li>
 <li>calendar.google.com (1589)</li>
 <li>moodle.royalholloway.ac.uk (1569)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (567)</li>
-<li>rhul-my.sharepoint.com (535)</li>
+<li>rhul-my.sharepoint.com (537)</li>
 <li>drive.google.com (497)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>chatgpt.com (489)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:29 outlook.office365.com</li>
+<ul><li> 12:33 outlook.office365.com</li>
+<li> 12:32 rhul-my.sharepoint.com</li>
+<li> 12:32 outlook.office365.com</li>
+<li> 12:29 discord.com</li>
+<li> 12:29 rhul-my.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:56 discord.com</li>
+<li> 11:29 outlook.office365.com</li>
 <li> 11:29 mail.google.com</li>
 <li class='same'> 11:28 mail.google.com</li>
 <li> 11:28 gmail.com</li>
