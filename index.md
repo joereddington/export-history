@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9610)</li>
-<li>mail.google.com (6516)</li>
-<li>outlook.office.com (3834)</li>
-<li>www.facebook.com (3121)</li>
-<li>outlook.office365.com (2055)</li>
-<li>docs.google.com (2002)</li>
-<li>calendar.google.com (1587)</li>
-<li>moodle.royalholloway.ac.uk (1553)</li>
-<li>www.reddit.com (1552)</li>
-<li>www.amazon.co.uk (1285)</li>
-<li>bsky.app (1153)</li>
-<li>github.com (1056)</li>
+<ol><li>www.google.com (9632)</li>
+<li>mail.google.com (6528)</li>
+<li>outlook.office.com (3836)</li>
+<li>www.facebook.com (3123)</li>
+<li>outlook.office365.com (2114)</li>
+<li>docs.google.com (2005)</li>
+<li>calendar.google.com (1589)</li>
+<li>moodle.royalholloway.ac.uk (1569)</li>
+<li>www.reddit.com (1556)</li>
+<li>www.amazon.co.uk (1286)</li>
+<li>bsky.app (1170)</li>
+<li>github.com (1057)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (929)</li>
-<li>www.theguardian.com (902)</li>
-<li>gmail.com (836)</li>
-<li>login.microsoftonline.com (791)</li>
-<li>chat.openai.com (738)</li>
+<li>www.linkedin.com (933)</li>
+<li>www.theguardian.com (903)</li>
+<li>gmail.com (841)</li>
+<li>login.microsoftonline.com (798)</li>
+<li>chat.openai.com (739)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (564)</li>
-<li>rhul-my.sharepoint.com (520)</li>
-<li>drive.google.com (496)</li>
+<li>web.whatsapp.com (567)</li>
+<li>rhul-my.sharepoint.com (535)</li>
+<li>drive.google.com (497)</li>
 <li>en.m.wikipedia.org (491)</li>
-<li>chatgpt.com (487)</li>
+<li>chatgpt.com (489)</li>
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (408)</li>
@@ -104,17 +104,289 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 12/12/24</H3>
+
+<br>
+
+<ul><li> 11:29 mail.google.com</li>
+<li class='same'> 11:28 mail.google.com</li>
+<li> 11:28 gmail.com</li>
+<li> 11:25 outlook.office365.com</li>
+<li class='same'> 11:24 outlook.office365.com</li>
+<li> 11:22 tabloid.vercel.app</li>
+<li> 11:22 l.facebook.com</li>
+<li> 11:22 web.whatsapp.com</li>
+<li> 11:21 ixwater.com</li>
+<li> 11:20 www.almonds.com</li>
+<li> 11:19 www.reddit.com</li>
+<li> 11:19 www.theguardian.com</li>
+<li> 11:18 www.google.com</li>
+<li> 11:17 www.facebook.com</li>
+<li> 11:17 bsky.app</li>
+<li> 11:16 outlook.office365.com</li>
+<li> 11:16 bsky.app</li>
+<li> 11:07 www.linkedin.com</li>
+<li class='same'> 11:06 www.linkedin.com</li>
+<li> 11:06 outlook.office365.com</li>
+<li> 11:05 docs.google.com</li>
+<li class='same'> 11:04 docs.google.com</li>
+<li> 10:51 outlook.office365.com</li>
+<li class='same'> 10:50 outlook.office365.com</li>
+<li> 10:50 mail.google.com</li>
+<li> 10:50 gmail.com</li>
+<li> 10:45 docs.google.com</li>
+<li> 10:45 drive.google.com</li>
+<li> 10:45 outlook.office365.com</li>
+<li> 10:40 www.google.com</li>
+<li> 10:30 intranet.royalholloway.ac.uk</li>
+<li> 10:29 www.google.com</li>
+<li class='same'> 10:28 www.google.com</li>
+<li> 10:27 ev.turnitinuk.com</li>
+<li> 10:27 intranet.royalholloway.ac.uk</li>
+<li class='same'> 10:26 intranet.royalholloway.ac.uk</li>
+<li> 10:25 moodle.royalholloway.ac.uk</li>
+<li> 10:22 dashboards.rhul.ac.uk</li>
+<li> 10:22 moodle.royalholloway.ac.uk</li>
+<li> 10:20 intranet.royalholloway.ac.uk</li>
+<li> 10:20 forms.office.com</li>
+<li> 10:20 login.microsoftonline.com</li>
+<li> 10:20 forms.office.com</li>
+<li> 10:18 intranet.royalholloway.ac.uk</li>
+<li> 10:17 bsky.app</li>
+<li> 10:16 rhul-my.sharepoint.com</li>
+<li> 10:16 bsky.app</li>
+<li> 10:12 moodle.royalholloway.ac.uk</li>
+<li> 10:10 bsky.app</li>
+<li class='same'> 10:09 bsky.app</li>
+<li> 10:09 outlook.office365.com</li>
+<li> 10:08 moodle.royalholloway.ac.uk</li>
+<li> 09:59 outlook.office365.com</li>
+<li> 09:59 moodle.royalholloway.ac.uk</li>
+<li> 09:55 outlook.office365.com</li>
+<li class='same'> 09:54 outlook.office365.com</li>
+<li class='same'> 09:53 outlook.office365.com</li>
+<li class='same'> 09:52 outlook.office365.com</li>
+<li> 09:51 moodle.royalholloway.ac.uk</li>
+<li> 09:51 login.microsoftonline.com</li>
+<li> 09:51 outlook.office365.com</li>
+<li class='same'> 09:49 outlook.office365.com</li>
+<li> 09:48 rhul-my.sharepoint.com</li>
+<li> 09:47 chatgpt.com</li>
+<li class='same'> 09:44 chatgpt.com</li>
+<li> 09:44 chat.openai.com</li>
+<li> 09:43 outlook.office365.com</li>
+<li> 09:42 web.whatsapp.com</li>
+<li> 09:30 outlook.office365.com</li>
+<li> 09:30 bsky.app</li>
+<li> 09:29 outlook.office365.com</li>
+<li> 09:28 bsky.app</li>
+<li class='same'> 09:26 bsky.app</li>
+<li class='same'> 09:25 bsky.app</li>
+<li> 09:24 www.reddit.com</li>
+<li> 09:23 outlook.office365.com</li>
+<li class='same'> 09:22 outlook.office365.com</li>
+<li class='same'> 09:21 outlook.office365.com</li>
+<li> 09:16 www.reddit.com</li>
+<li> 09:16 www.google.com</li>
+<li> 09:12 mechanics.stackexchange.com</li>
+<li> 09:12 www.google.com</li>
+<li> 09:11 www.reddit.com</li>
+<li> 09:10 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:57 reductress.com</li>
+</ul>
+
 <H3>Wednesday, 11/12/24</H3>
 
 <br>
 
-<ul><li> 11:42 ev.turnitinuk.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:29 reductress.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:50 reductress.com</li>
+<li> 17:48 www.thedailymash.co.uk</li>
+<li> 17:48 newsthump.com</li>
+<li> 17:48 www.google.com</li>
+<li> 17:46 www.linkedin.com</li>
+<li class='same'> 17:44 www.linkedin.com</li>
+<li> 17:43 feedly.com</li>
+<li> 17:43 mail.google.com</li>
+<li class='same'> 17:42 mail.google.com</li>
+<li> 17:42 accounts.google.com</li>
+<li> 17:42 mail.google.com</li>
+<li> 17:42 gmail.com</li>
+<li> 17:42 mail.google.com</li>
+<li class='same'> 17:41 mail.google.com</li>
+<li> 17:41 www.followthatpage.com</li>
+<li> 17:40 mail.google.com</li>
+<li> 17:38 web.whatsapp.com</li>
+<li> 17:38 mail.google.com</li>
+<li> 17:38 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
+<li> 17:38 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 17:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 17:37 mail.google.com</li>
+<li> 17:37 gmail.com</li>
+<li> 17:37 outlook.office365.com</li>
+<li> 17:36 calendar.google.com</li>
+<li> 17:36 outlook.office365.com</li>
+<li class='same'> 17:35 outlook.office365.com</li>
+<li class='same'> 17:34 outlook.office365.com</li>
+<li> 17:33 intranet.royalholloway.ac.uk</li>
+<li> 17:32 outlook.office365.com</li>
+<li class='same'> 17:31 outlook.office365.com</li>
+<li class='same'> 17:30 outlook.office365.com</li>
+<li> 17:29 intranet.royalholloway.ac.uk</li>
+<li> 17:28 outlook.office365.com</li>
+<li class='same'> 17:27 outlook.office365.com</li>
+<li> 17:26 ev.turnitinuk.com</li>
+<li> 17:26 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:25 moodle.royalholloway.ac.uk</li>
+<li> 17:25 rhul-my.sharepoint.com</li>
+<li> 17:24 outlook.office365.com</li>
+<li class='same'> 17:23 outlook.office365.com</li>
+<li class='same'> 17:22 outlook.office365.com</li>
+<li class='same'> 17:21 outlook.office365.com</li>
+<li class='same'> 17:20 outlook.office365.com</li>
+<li> 17:17 rhul-my.sharepoint.com</li>
+<li> 17:17 outlook.office365.com</li>
+<li> 17:15 answers.microsoft.com</li>
+<li> 17:15 login.microsoftonline.com</li>
+<li> 17:15 answers.microsoft.com</li>
+<li> 17:15 www.google.com</li>
+<li> 17:14 rhul-my.sharepoint.com</li>
+<li> 17:00 outlook.office365.com</li>
+<li class='same'> 16:59 outlook.office365.com</li>
+<li class='same'> 16:58 outlook.office365.com</li>
+<li class='same'> 16:57 outlook.office365.com</li>
+<li class='same'> 16:53 outlook.office365.com</li>
+<li> 16:52 discord.com</li>
+<li class='same'> 16:51 discord.com</li>
+<li> 16:51 bsky.app</li>
+<li class='same'> 16:50 bsky.app</li>
+<li class='same'> 16:49 bsky.app</li>
+<li> 16:45 outlook.office365.com</li>
+<li class='same'> 16:41 outlook.office365.com</li>
+<li class='same'> 16:40 outlook.office365.com</li>
+<li> 16:31 www.google.com</li>
+<li> 16:29 calendar.google.com</li>
+<li> 16:28 outlook.office365.com</li>
+<li> 16:27 discord.com</li>
+<li class='same'> 16:26 discord.com</li>
+<li> 16:15 outlook.office365.com</li>
+<li> 16:15 www.google.com</li>
+<li> 16:14 outlook.office365.com</li>
+<li> 16:14 mail.google.com</li>
+<li> 16:14 gmail.com</li>
+<li> 16:13 www.google.com</li>
+<li> 16:12 bsky.app</li>
+<li class='same'> 16:08 bsky.app</li>
+<li> 15:47 www.giac.org</li>
+<li> 15:44 ev.turnitinuk.com</li>
+<li> 15:41 cacm.acm.org</li>
+<li> 15:40 www.google.com</li>
+<li> 15:25 ev.turnitinuk.com</li>
+<li> 15:16 www.google.com</li>
+<li> 15:06 <a href="https://en.wikipedia.org/wiki/Eastern_seaboard">Eastern seaboard - Wikipedia</a></li>
+<li> 15:06 www.google.com</li>
+<li> 15:05 ev.turnitinuk.com</li>
+<li> 14:46 www.journalppw.com</li>
+<li> 14:45 www.fbi.gov</li>
+<li> 14:43 ev.turnitinuk.com</li>
+<li> 14:43 moodle.royalholloway.ac.uk</li>
+<li> 14:25 outlook.office.com</li>
+<li class='same'> 14:21 outlook.office.com</li>
+<li> 14:21 outlook.office365.com</li>
+<li> 14:21 login.microsoftonline.com</li>
+<li> 14:19 ev.turnitinuk.com</li>
+<li> 14:19 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:18 moodle.royalholloway.ac.uk</li>
+<li> 13:56 www.google.com</li>
+<li> 13:52 www.facebook.com</li>
+<li> 13:52 bsky.app</li>
+<li> 13:40 ev.turnitinuk.com</li>
+<li> 13:39 moodle.royalholloway.ac.uk</li>
+<li> 13:39 login.microsoftonline.com</li>
+<li> 13:39 moodle.royalholloway.ac.uk</li>
+<li> 13:39 rhul-my.sharepoint.com</li>
+<li> 13:38 outlook.office365.com</li>
+<li class='same'> 13:37 outlook.office365.com</li>
+<li> 13:35 bsky.app</li>
+<li> 13:33 ev.turnitinuk.com</li>
+<li> 13:33 moodle.royalholloway.ac.uk</li>
+<li> 13:33 moodle2324.royalholloway.ac.uk</li>
+<li> 13:27 login.microsoftonline.com</li>
+<li> 13:27 outlook.office365.com</li>
+<li> 13:27 intranet.royalholloway.ac.uk</li>
+<li> 13:27 www.google.com</li>
+<li> 13:26 outlook.office365.com</li>
+<li class='same'> 13:25 outlook.office365.com</li>
+<li class='same'> 13:23 outlook.office365.com</li>
+<li class='same'> 13:22 outlook.office365.com</li>
+<li> 13:17 rhul-my.sharepoint.com</li>
+<li> 13:14 www.google.com</li>
+<li> 13:05 ico.org.uk</li>
+<li> 13:03 companiesmarketcap.com</li>
+<li> 13:03 www.google.com</li>
+<li> 13:01 ev.turnitinuk.com</li>
+<li> 12:46 hstalks.com</li>
+<li> 12:44 rhul-my.sharepoint.com</li>
+<li> 12:44 ev.turnitinuk.com</li>
+<li> 12:43 rhul-my.sharepoint.com</li>
+<li class='same'> 12:42 rhul-my.sharepoint.com</li>
+<li> 12:34 intranet.royalholloway.ac.uk</li>
+<li> 12:34 outlook.office365.com</li>
+<li> 12:29 ev.turnitinuk.com</li>
+<li> 12:19 rhul-my.sharepoint.com</li>
+<li class='same'> 12:18 rhul-my.sharepoint.com</li>
+<li> 12:11 outlook.office365.com</li>
+<li class='same'> 12:10 outlook.office365.com</li>
+<li> 12:09 www.breaches.cloud</li>
+<li> 12:08 ev.turnitinuk.com</li>
+<li class='same'> 12:07 ev.turnitinuk.com</li>
+<li class='same'> 12:06 ev.turnitinuk.com</li>
+<li> 12:03 outlook.office365.com</li>
+<li> 12:03 ev.turnitinuk.com</li>
+<li class='same'> 12:02 ev.turnitinuk.com</li>
+<li class='same'> 12:01 ev.turnitinuk.com</li>
+<li> 12:00 infosecurity-magazine.com</li>
+<li> 12:00 ev.turnitinuk.com</li>
+<li class='same'> 11:59 ev.turnitinuk.com</li>
+<li class='same'> 11:58 ev.turnitinuk.com</li>
+<li> 11:57 rhul-my.sharepoint.com</li>
+<li> 11:57 ev.turnitinuk.com</li>
+<li> 11:56 rhul-my.sharepoint.com</li>
+<li> 11:54 www.amazon.co.uk</li>
+<li> 11:54 www.meritalk.com</li>
+<li> 11:53 www.google.com</li>
+<li> 11:52 icdt.osu.edu</li>
+<li> 11:52 er.educause.edu</li>
+<li> 11:52 www.google.com</li>
+<li> 11:51 ev.turnitinuk.com</li>
+<li class='same'> 11:50 ev.turnitinuk.com</li>
+<li> 11:46 www.google.com</li>
+<li> 11:45 ev.turnitinuk.com</li>
+<li> 11:45 moodle.royalholloway.ac.uk</li>
+<li> 11:44 rhul-my.sharepoint.com</li>
+<li> 11:44 moodle.royalholloway.ac.uk</li>
+<li> 11:42 ev.turnitinuk.com</li>
 <li> 11:42 api.turnitinuk.com</li>
 <li> 11:42 51.148.131.133:8000</li>
 <li> 11:41 moodle.royalholloway.ac.uk</li>
 <li> 11:41 login.microsoftonline.com</li>
 <li> 11:41 moodle.royalholloway.ac.uk</li>
 <li> 11:38 rhul-my.sharepoint.com</li>
+<li> 11:36 login.microsoftonline.com</li>
+<li> 11:35 experience.elluciancloud.ie</li>
+<li> 11:32 github.com</li>
 <li> 11:22 rhul.hosted.panopto.com</li>
 <li> 11:21 analyze.buffer.com</li>
 <li> 11:21 publish.buffer.com</li>
@@ -89903,6 +90175,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:01 github.com</li>
 <li class='same'> 12:00 github.com</li>
 <li> 11:59 docs.google.com</li>
+<li> 11:44 openai.com</li>
 <li> 11:42 mail.google.com</li>
 </ul>
 
@@ -91821,6 +92094,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 19:32 openai.com</li>
+</ul>
+
+<br>
+
 <ul><li> 18:01 us02web.zoom.us</li>
 </ul>
 
@@ -92493,6 +92771,7 @@ With number of accesses/minutes in parentheses
 <li> 17:13 chat.openai.com</li>
 <li class='same'> 16:56 chat.openai.com</li>
 <li class='same'> 16:50 chat.openai.com</li>
+<li> 16:49 openai.com</li>
 <li> 16:48 accounts.google.com</li>
 <li class='same'> 16:47 accounts.google.com</li>
 </ul>
