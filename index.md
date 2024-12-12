@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9632)</li>
+<ol><li>www.google.com (9630)</li>
 <li>mail.google.com (6528)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3123)</li>
-<li>outlook.office365.com (2114)</li>
+<li>outlook.office365.com (2115)</li>
 <li>docs.google.com (2005)</li>
 <li>calendar.google.com (1589)</li>
 <li>moodle.royalholloway.ac.uk (1569)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (408)</li>
-<li>rhul.sharepoint.com (365)</li>
+<li>rhul.sharepoint.com (362)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:29 mail.google.com</li>
+<ul><li> 11:29 outlook.office365.com</li>
+<li> 11:29 mail.google.com</li>
 <li class='same'> 11:28 mail.google.com</li>
 <li> 11:28 gmail.com</li>
 <li> 11:25 outlook.office365.com</li>
@@ -21983,11 +21984,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:29 mail.google.com</li>
 <li> 14:29 gmail.com</li>
 <li> 14:29 outlook.office.com</li>
-<li> 14:28 rhul.sharepoint.com</li>
 <li> 14:27 <a href="https://en.wikipedia.org/wiki/Wikipedia:Responding_to_threats_of_harm">Wikipedia:Responding to threats of harm - Wikipedia</a></li>
 <li> 14:27 www.google.com</li>
-<li> 14:25 rhul.sharepoint.com</li>
-<li class='same'> 14:22 rhul.sharepoint.com</li>
 <li> 14:22 outlook.office.com</li>
 <li class='same'> 14:21 outlook.office.com</li>
 <li> 14:05 web.whatsapp.com</li>
@@ -22052,14 +22050,12 @@ With number of accesses/minutes in parentheses
 <li> 11:48 www.google.com</li>
 <li> 11:46 www.facebook.com</li>
 <li class='same'> 11:45 www.facebook.com</li>
-<li> 11:45 www.google.com</li>
-<li class='same'> 11:44 www.google.com</li>
+<li> 11:44 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 10:14 joereddington.github.io</li>
-<li> 10:14 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<ul><li> 10:14 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 10:14 <a href="http://joereddington.com/export-history/"></a></li>
 <li> 10:09 www.royalholloway.ac.uk</li>
 <li> 10:09 www.google.com</li>
@@ -22090,8 +22086,6 @@ With number of accesses/minutes in parentheses
 <li> 09:11 www.paypal.com</li>
 <li> 09:11 www.spotify.com</li>
 <li> 09:11 accounts.spotify.com</li>
-<li> 09:11 www.spotify.com</li>
-<li> 09:11 accounts.spotify.com</li>
 <li> 09:10 www.linkedin.com</li>
 <li class='same'> 09:09 www.linkedin.com</li>
 <li> 09:05 www.theguardian.com</li>
@@ -22120,7 +22114,6 @@ With number of accesses/minutes in parentheses
 <li> 06:53 www.linkedin.com</li>
 <li> 06:47 0.0.0.0:8000</li>
 <li> 06:46 mybg.british-gymnastics.org</li>
-<li> 06:46 www.google.com</li>
 <li> 06:46 u1099264.ct.sendgrid.net</li>
 <li> 06:46 mybg.british-gymnastics.org</li>
 <li> 06:46 mail.google.com</li>
