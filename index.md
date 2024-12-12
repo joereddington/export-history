@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6528)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3123)</li>
-<li>outlook.office365.com (2120)</li>
+<li>outlook.office365.com (2123)</li>
 <li>docs.google.com (2005)</li>
 <li>calendar.google.com (1589)</li>
-<li>moodle.royalholloway.ac.uk (1571)</li>
+<li>moodle.royalholloway.ac.uk (1574)</li>
 <li>www.reddit.com (1557)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1173)</li>
+<li>bsky.app (1176)</li>
 <li>github.com (1057)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (935)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (567)</li>
-<li>rhul-my.sharepoint.com (539)</li>
+<li>rhul-my.sharepoint.com (542)</li>
 <li>drive.google.com (497)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>chatgpt.com (489)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:35 www.theguardian.com</li>
+<ul><li> 15:12 ev.turnitinuk.com</li>
+<li> 15:12 moodle.royalholloway.ac.uk</li>
+<li> 15:11 rhul-my.sharepoint.com</li>
+<li class='same'> 15:10 rhul-my.sharepoint.com</li>
+<li class='same'> 15:08 rhul-my.sharepoint.com</li>
+<li> 15:07 ev.turnitinuk.com</li>
+<li class='same'> 15:03 ev.turnitinuk.com</li>
+<li class='same'> 15:02 ev.turnitinuk.com</li>
+<li> 15:02 outlook.office365.com</li>
+<li class='same'> 15:01 outlook.office365.com</li>
+<li> 15:01 ev.turnitinuk.com</li>
+<li> 15:01 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:00 moodle.royalholloway.ac.uk</li>
+<li> 14:59 bsky.app</li>
+<li> 14:55 unfollow.blue</li>
+<li> 14:55 bsky.social</li>
+<li> 14:55 unfollow.blue</li>
+<li> 14:55 clearsky.app</li>
+<li class='same'> 14:54 clearsky.app</li>
+<li> 14:54 bsky.app</li>
+<li> 14:54 outlook.office365.com</li>
+<li> 14:53 bsky.app</li>
+<li> 14:42 ev.turnitinuk.com</li>
+<li> 14:35 www.theguardian.com</li>
 <li> 14:35 www.google.com</li>
 <li> 14:21 ev.turnitinuk.com</li>
 <li> 14:13 www.theguardian.com</li>
