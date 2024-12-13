@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9650)</li>
+<ol><li>www.google.com (9651)</li>
 <li>mail.google.com (6537)</li>
 <li>outlook.office.com (3836)</li>
-<li>www.facebook.com (3129)</li>
-<li>outlook.office365.com (2141)</li>
+<li>www.facebook.com (3131)</li>
+<li>outlook.office365.com (2143)</li>
 <li>docs.google.com (2009)</li>
 <li>calendar.google.com (1589)</li>
-<li>moodle.royalholloway.ac.uk (1577)</li>
+<li>moodle.royalholloway.ac.uk (1578)</li>
 <li>www.reddit.com (1558)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1199)</li>
+<li>bsky.app (1200)</li>
 <li>github.com (1058)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (941)</li>
+<li>www.linkedin.com (942)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (844)</li>
 <li>login.microsoftonline.com (800)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (570)</li>
-<li>rhul-my.sharepoint.com (544)</li>
+<li>web.whatsapp.com (571)</li>
+<li>rhul-my.sharepoint.com (545)</li>
 <li>drive.google.com (499)</li>
 <li>chatgpt.com (493)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:29 ev.turnitinuk.com</li>
+<ul><li> 17:25 outlook.office365.com</li>
+<li> 17:08 <a href="https://xkcd.com/simplewriter/"></a></li>
+<li> 16:59 www.facebook.com</li>
+<li> 16:59 web.whatsapp.com</li>
+<li> 16:41 ico.org.uk</li>
+<li> 16:41 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 16:41 www.google.com</li>
+<li> 16:39 moodle.royalholloway.ac.uk</li>
+<li> 16:38 rhul-my.sharepoint.com</li>
+<li> 16:37 ev.turnitinuk.com</li>
+<li> 16:37 www.facebook.com</li>
+<li> 16:37 www.linkedin.com</li>
+<li> 16:36 bsky.app</li>
+<li> 16:35 outlook.office365.com</li>
+<li> 16:29 ev.turnitinuk.com</li>
 <li> 16:25 bsky.app</li>
 <li> 16:25 www.google.com</li>
 <li> 16:25 intranet.royalholloway.ac.uk</li>
