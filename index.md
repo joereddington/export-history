@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9651)</li>
-<li>mail.google.com (6537)</li>
+<ol><li>www.google.com (9652)</li>
+<li>mail.google.com (6545)</li>
 <li>outlook.office.com (3836)</li>
-<li>www.facebook.com (3131)</li>
-<li>outlook.office365.com (2143)</li>
+<li>www.facebook.com (3132)</li>
+<li>outlook.office365.com (2148)</li>
 <li>docs.google.com (2009)</li>
-<li>calendar.google.com (1589)</li>
+<li>calendar.google.com (1591)</li>
 <li>moodle.royalholloway.ac.uk (1578)</li>
 <li>www.reddit.com (1558)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1200)</li>
-<li>github.com (1058)</li>
+<li>bsky.app (1205)</li>
+<li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (942)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (844)</li>
+<li>gmail.com (845)</li>
 <li>login.microsoftonline.com (800)</li>
 <li>chat.openai.com (742)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (493)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
-<li>kdp.amazon.com (445)</li>
+<li>kdp.amazon.com (446)</li>
 <li>forum.artofmemory.com (408)</li>
 <li>rhul.sharepoint.com (362)</li>
 
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:25 outlook.office365.com</li>
+<ul><li> 18:21 github.com</li>
+<li class='same'> 18:20 github.com</li>
+<li> 18:19 mail.google.com</li>
+<li class='same'> 18:18 mail.google.com</li>
+<li> 18:17 rhul.hosted.panopto.com</li>
+<li class='same'> 18:16 rhul.hosted.panopto.com</li>
+<li class='same'> 18:15 rhul.hosted.panopto.com</li>
+<li class='same'> 18:14 rhul.hosted.panopto.com</li>
+<li> 18:14 mail.google.com</li>
+<li> 18:09 kdpreports.amazon.com</li>
+<li> 18:08 kdp.amazon.com</li>
+<li> 18:08 mail.google.com</li>
+<li> 18:08 bsky.app</li>
+<li> 18:08 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 18:07 mail.google.com</li>
+<li> 18:07 outlook.office365.com</li>
+<li> 18:07 calendar.google.com</li>
+<li> 18:07 outlook.office365.com</li>
+<li> 18:07 calendar.google.com</li>
+<li> 18:07 outlook.office365.com</li>
+<li> 18:05 bsky.app</li>
+<li> 18:05 outlook.office365.com</li>
+<li> 18:04 mail.google.com</li>
+<li> 17:41 x.com</li>
+<li class='same'> 17:38 x.com</li>
+<li class='same'> 17:37 x.com</li>
+<li> 17:37 www.google.com</li>
+<li> 17:36 mail.google.com</li>
+<li> 17:36 u4887795.ct.sendgrid.net</li>
+<li> 17:36 mail.google.com</li>
+<li> 17:36 gmail.com</li>
+<li> 17:36 bsky.app</li>
+<li class='same'> 17:35 bsky.app</li>
+<li class='same'> 17:27 bsky.app</li>
+<li> 17:26 www.facebook.com</li>
+<li> 17:26 outlook.office365.com</li>
+<li class='same'> 17:25 outlook.office365.com</li>
 <li> 17:08 <a href="https://xkcd.com/simplewriter/"></a></li>
 <li> 16:59 www.facebook.com</li>
 <li> 16:59 web.whatsapp.com</li>
