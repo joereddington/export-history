@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9652)</li>
-<li>mail.google.com (6545)</li>
+<li>mail.google.com (6549)</li>
 <li>outlook.office.com (3836)</li>
-<li>www.facebook.com (3132)</li>
-<li>outlook.office365.com (2148)</li>
+<li>www.facebook.com (3134)</li>
+<li>outlook.office365.com (2153)</li>
 <li>docs.google.com (2009)</li>
 <li>calendar.google.com (1591)</li>
-<li>moodle.royalholloway.ac.uk (1578)</li>
+<li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1558)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1205)</li>
+<li>bsky.app (1206)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (942)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (845)</li>
-<li>login.microsoftonline.com (800)</li>
+<li>login.microsoftonline.com (805)</li>
 <li>chat.openai.com (742)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (571)</li>
-<li>rhul-my.sharepoint.com (545)</li>
+<li>web.whatsapp.com (573)</li>
+<li>rhul-my.sharepoint.com (548)</li>
 <li>drive.google.com (499)</li>
 <li>chatgpt.com (493)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,7 +108,57 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:21 github.com</li>
+<ul><li> 19:24 web.whatsapp.com</li>
+<li> 19:21 rhul-my.sharepoint.com</li>
+<li> 19:21 dashboards.rhul.ac.uk</li>
+<li> 19:20 ev.turnitinuk.com</li>
+<li class='same'> 19:19 ev.turnitinuk.com</li>
+<li> 19:19 api.turnitinuk.com</li>
+<li> 19:19 outlook.office365.com</li>
+<li> 19:18 ev.turnitinuk.com</li>
+<li> 19:18 forms.office.com</li>
+<li> 19:18 intranet.royalholloway.ac.uk</li>
+<li> 19:13 moodle.royalholloway.ac.uk</li>
+<li> 19:08 outlook.office365.com</li>
+<li> 19:08 mail.google.com</li>
+<li> 19:07 bsky.app</li>
+<li> 19:07 www.facebook.com</li>
+<li> 19:07 vpn.cim.rhul.ac.uk</li>
+<li> 19:06 www.facebook.com</li>
+<li> 19:06 mail.google.com</li>
+<li> 19:06 vpn.cim.rhul.ac.uk</li>
+<li class='same'> 19:05 vpn.cim.rhul.ac.uk</li>
+<li class='same'> 19:03 vpn.cim.rhul.ac.uk</li>
+<li class='same'> 19:02 vpn.cim.rhul.ac.uk</li>
+<li> 19:00 mfa.cim.rhul.ac.uk</li>
+<li class='same'> 18:59 mfa.cim.rhul.ac.uk</li>
+<li class='same'> 18:58 mfa.cim.rhul.ac.uk</li>
+<li> 18:58 cim.rhul.ac.uk</li>
+<li> 18:58 outlook.office365.com</li>
+<li class='same'> 18:57 outlook.office365.com</li>
+<li> 18:57 rhul-my.sharepoint.com</li>
+<li> 18:57 outlook.office365.com</li>
+<li> 18:57 mail.google.com</li>
+<li> 18:57 discord.com</li>
+<li class='same'> 18:56 discord.com</li>
+<li> 18:54 web.whatsapp.com</li>
+<li> 18:54 mail.google.com</li>
+<li> 18:49 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 18:49 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 18:48 login.microsoftonline.com</li>
+<li> 18:48 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 18:48 experience.elluciancloud.ie</li>
+<li> 18:48 login.microsoftonline.com</li>
+<li> 18:48 experience.elluciancloud.ie</li>
+<li> 18:42 forms.office.com</li>
+<li> 18:42 login.microsoftonline.com</li>
+<li> 18:42 forms.office.com</li>
+<li> 18:41 login.microsoftonline.com</li>
+<li> 18:41 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
+<li> 18:25 forms.office.com</li>
+<li> 18:25 login.microsoftonline.com</li>
+<li> 18:25 rhul-my.sharepoint.com</li>
+<li> 18:21 github.com</li>
 <li class='same'> 18:20 github.com</li>
 <li> 18:19 mail.google.com</li>
 <li class='same'> 18:18 mail.google.com</li>
@@ -662,7 +712,8 @@ With number of accesses/minutes in parentheses
 <li> 11:52 er.educause.edu</li>
 <li> 11:52 www.google.com</li>
 <li> 11:51 ev.turnitinuk.com</li>
-<li class='same'> 11:50 ev.turnitinuk.com</li>
+<li> 11:51 api.turnitinuk.com</li>
+<li> 11:50 ev.turnitinuk.com</li>
 <li> 11:46 www.google.com</li>
 <li> 11:45 ev.turnitinuk.com</li>
 <li> 11:45 moodle.royalholloway.ac.uk</li>
