@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9646)</li>
+<ol><li>www.google.com (9650)</li>
 <li>mail.google.com (6537)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3129)</li>
@@ -78,10 +78,10 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1577)</li>
 <li>www.reddit.com (1558)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1198)</li>
+<li>bsky.app (1199)</li>
 <li>github.com (1058)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (940)</li>
+<li>www.linkedin.com (941)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (844)</li>
 <li>login.microsoftonline.com (800)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (570)</li>
-<li>rhul-my.sharepoint.com (543)</li>
+<li>rhul-my.sharepoint.com (544)</li>
 <li>drive.google.com (499)</li>
 <li>chatgpt.com (493)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:41 ev.turnitinuk.com</li>
+<ul><li> 16:29 ev.turnitinuk.com</li>
+<li> 16:25 bsky.app</li>
+<li> 16:25 www.google.com</li>
+<li> 16:25 intranet.royalholloway.ac.uk</li>
+<li> 16:25 www.linkedin.com</li>
+<li> 16:25 uk.linkedin.com</li>
+<li> 16:25 www.google.com</li>
+<li> 16:23 rhul-my.sharepoint.com</li>
+<li> 16:15 www.google.com</li>
+<li> 16:04 ev.turnitinuk.com</li>
+<li> 15:47 <a href="https://en.wikipedia.org/wiki/New_Year_Honours">New Year Honours - Wikipedia</a></li>
+<li> 15:47 www.google.com</li>
+<li> 15:41 ev.turnitinuk.com</li>
 <li> 15:35 www.google.com</li>
 <li> 15:35 <a href="https://en.wikipedia.org/wiki/3rd_Party">3rd Party - Wikipedia</a></li>
 <li> 15:35 www.google.com</li>
