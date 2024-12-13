@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9638)</li>
+<ol><li>www.google.com (9639)</li>
 <li>mail.google.com (6528)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3124)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:31 chatgpt.com</li>
+<ul><li> 18:44 <a href="https://en.wikipedia.org/wiki/2009_Bank_of_Ireland_robbery">2009 Bank of Ireland robbery - Wikipedia</a></li>
+<li> 18:43 <a href="https://en.wikipedia.org/wiki/Northern_Bank_robbery">Northern Bank robbery - Wikipedia</a></li>
+<li> 18:43 <a href="https://en.wikipedia.org/wiki/2009_Bank_of_Ireland_robbery">2009 Bank of Ireland robbery - Wikipedia</a></li>
+<li> 18:43 <a href="https://en.wikipedia.org/wiki/Northern_Bank_robbery">Northern Bank robbery - Wikipedia</a></li>
+<li> 18:43 <a href="https://en.wikipedia.org/wiki/2009_Bank_of_Ireland_robbery">2009 Bank of Ireland robbery - Wikipedia</a></li>
+<li> 18:41 <a href="https://en.wikipedia.org/wiki/Murder_of_Brian_Wells">Death of Brian Wells - Wikipedia</a></li>
+<li> 18:41 <a href="https://en.wikipedia.org/wiki/Death_of_Brian_Wells">Death of Brian Wells - Wikipedia</a></li>
+<li> 18:41 <a href="https://en.wikipedia.org/wiki/Tiger_kidnapping">Tiger kidnapping - Wikipedia</a></li>
+<li> 18:41 www.google.com</li>
+<li> 18:31 chatgpt.com</li>
 <li> 18:31 chat.openai.com</li>
 <li> 18:24 bsky.app</li>
 <li> 18:22 www.facebook.com</li>
