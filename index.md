@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9639)</li>
-<li>mail.google.com (6529)</li>
+<ol><li>www.google.com (9644)</li>
+<li>mail.google.com (6536)</li>
 <li>outlook.office.com (3836)</li>
-<li>www.facebook.com (3124)</li>
-<li>outlook.office365.com (2130)</li>
-<li>docs.google.com (2006)</li>
+<li>www.facebook.com (3129)</li>
+<li>outlook.office365.com (2136)</li>
+<li>docs.google.com (2009)</li>
 <li>calendar.google.com (1589)</li>
 <li>moodle.royalholloway.ac.uk (1574)</li>
-<li>www.reddit.com (1557)</li>
+<li>www.reddit.com (1558)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1186)</li>
+<li>bsky.app (1197)</li>
 <li>github.com (1057)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (936)</li>
+<li>www.linkedin.com (940)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (842)</li>
+<li>gmail.com (843)</li>
 <li>login.microsoftonline.com (798)</li>
 <li>chat.openai.com (741)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (569)</li>
+<li>web.whatsapp.com (570)</li>
 <li>rhul-my.sharepoint.com (542)</li>
-<li>drive.google.com (498)</li>
+<li>drive.google.com (499)</li>
 <li>chatgpt.com (492)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (464)</li>
@@ -108,7 +108,64 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:42 www.google.com</li>
+<ul><li> 12:36 bsky.app</li>
+<li class='same'> 12:35 bsky.app</li>
+<li> 12:35 web.whatsapp.com</li>
+<li> 12:33 thehustle.co</li>
+<li> 12:33 www.google.com</li>
+<li> 12:32 hypebeast.com</li>
+<li> 12:32 www.reddit.com</li>
+<li> 12:32 www.google.com</li>
+<li> 12:30 bsky.app</li>
+<li class='same'> 12:29 bsky.app</li>
+<li> 12:29 mail.google.com</li>
+<li> 12:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:29 mail.google.com</li>
+<li class='same'> 12:28 mail.google.com</li>
+<li> 12:28 gmail.com</li>
+<li> 12:23 outlook.office365.com</li>
+<li> 12:20 <a href="https://en.wikipedia.org/wiki/Central_Bank_of_Iraq">Central Bank of Iraq - Wikipedia</a></li>
+<li> 12:18 <a href="https://en.wikipedia.org/wiki/Securitas_depot_robbery">Securitas depot robbery - Wikipedia</a></li>
+<li> 12:18 www.google.com</li>
+<li> 12:18 docs.google.com</li>
+<li class='same'> 12:17 docs.google.com</li>
+<li class='same'> 12:16 docs.google.com</li>
+<li> 12:16 drive.google.com</li>
+<li> 12:16 outlook.office365.com</li>
+<li> 12:15 bsky.app</li>
+<li> 12:15 outlook.office365.com</li>
+<li> 12:14 www.linkedin.com</li>
+<li> 12:14 bsky.app</li>
+<li class='same'> 12:12 bsky.app</li>
+<li> 12:07 outlook.office365.com</li>
+<li> 12:07 mail.google.com</li>
+<li> 12:05 bsky.app</li>
+<li> 12:02 mail.google.com</li>
+<li> 11:58 tickets.cirquedusoleil.com</li>
+<li> 11:58 www.cirquedusoleil.com</li>
+<li> 11:58 www.google.com</li>
+<li> 11:58 www.cirquedusoleil.com</li>
+<li class='same'> 11:57 www.cirquedusoleil.com</li>
+<li> 11:57 www.google.com</li>
+<li> 11:57 mail.google.com</li>
+<li class='same'> 11:56 mail.google.com</li>
+<li> 11:55 www.linkedin.com</li>
+<li> 11:55 bsky.app</li>
+<li> 11:55 outlook.office365.com</li>
+<li class='same'> 11:54 outlook.office365.com</li>
+<li> 11:51 bsky.app</li>
+<li> 11:50 www.facebook.com</li>
+<li> 11:47 bsky.app</li>
+<li> 11:47 www.linkedin.com</li>
+<li class='same'> 11:46 www.linkedin.com</li>
+<li> 11:46 www.facebook.com</li>
+<li class='same'> 11:45 www.facebook.com</li>
+<li class='same'> 11:44 www.facebook.com</li>
+<li class='same'> 11:43 www.facebook.com</li>
+<li> 11:43 <a href="https://joereddington.com/2024/12/13/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 11:43 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 11:43 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 11:42 www.google.com</li>
 <li> 11:40 bsky.app</li>
 <li class='same'> 11:34 bsky.app</li>
 <li class='same'> 11:33 bsky.app</li>
