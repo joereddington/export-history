@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9644)</li>
-<li>mail.google.com (6536)</li>
+<li>mail.google.com (6537)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3129)</li>
-<li>outlook.office365.com (2136)</li>
+<li>outlook.office365.com (2138)</li>
 <li>docs.google.com (2009)</li>
 <li>calendar.google.com (1589)</li>
 <li>moodle.royalholloway.ac.uk (1574)</li>
 <li>www.reddit.com (1558)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1197)</li>
-<li>github.com (1057)</li>
+<li>bsky.app (1198)</li>
+<li>github.com (1058)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (940)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (843)</li>
+<li>gmail.com (844)</li>
 <li>login.microsoftonline.com (798)</li>
-<li>chat.openai.com (741)</li>
+<li>chat.openai.com (742)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (570)</li>
 <li>rhul-my.sharepoint.com (542)</li>
 <li>drive.google.com (499)</li>
-<li>chatgpt.com (492)</li>
+<li>chatgpt.com (493)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:36 bsky.app</li>
+<ul><li> 12:59 github.com</li>
+<li> 12:58 chatgpt.com</li>
+<li> 12:58 chat.openai.com</li>
+<li> 12:55 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:53 mail.google.com</li>
+<li> 12:53 gmail.com</li>
+<li> 12:53 outlook.office365.com</li>
+<li class='same'> 12:52 outlook.office365.com</li>
+<li> 12:52 bsky.app</li>
+<li class='same'> 12:36 bsky.app</li>
 <li class='same'> 12:35 bsky.app</li>
 <li> 12:35 web.whatsapp.com</li>
 <li> 12:33 thehustle.co</li>
