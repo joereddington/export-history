@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9652)</li>
+<ol><li>www.google.com (9655)</li>
 <li>mail.google.com (6549)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3134)</li>
@@ -81,18 +81,18 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1206)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (942)</li>
+<li>www.linkedin.com (943)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (845)</li>
-<li>login.microsoftonline.com (805)</li>
-<li>chat.openai.com (742)</li>
+<li>login.microsoftonline.com (806)</li>
+<li>chat.openai.com (743)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (573)</li>
-<li>rhul-my.sharepoint.com (548)</li>
+<li>rhul-my.sharepoint.com (550)</li>
 <li>drive.google.com (499)</li>
-<li>chatgpt.com (493)</li>
+<li>chatgpt.com (494)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
 <li>kdp.amazon.com (446)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:24 web.whatsapp.com</li>
+<ul><li> 19:54 www.linkedin.com</li>
+<li> 19:54 pure.royalholloway.ac.uk</li>
+<li class='same'> 19:52 pure.royalholloway.ac.uk</li>
+<li> 19:52 www.google.com</li>
+<li class='same'> 19:47 www.google.com</li>
+<li> 19:44 ev.turnitinuk.com</li>
+<li> 19:43 dashboards.rhul.ac.uk</li>
+<li> 19:41 ev.turnitinuk.com</li>
+<li class='same'> 19:37 ev.turnitinuk.com</li>
+<li> 19:35 rhul-my.sharepoint.com</li>
+<li class='same'> 19:34 rhul-my.sharepoint.com</li>
+<li> 19:34 forms.office.com</li>
+<li> 19:31 chatgpt.com</li>
+<li> 19:31 chat.openai.com</li>
+<li> 19:28 www.google.com</li>
+<li> 19:26 login.microsoftonline.com</li>
+<li> 19:26 forms.office.com</li>
+<li> 19:24 web.whatsapp.com</li>
 <li> 19:21 rhul-my.sharepoint.com</li>
 <li> 19:21 dashboards.rhul.ac.uk</li>
 <li> 19:20 ev.turnitinuk.com</li>
