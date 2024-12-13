@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9638)</li>
-<li>mail.google.com (6528)</li>
+<ol><li>www.google.com (9639)</li>
+<li>mail.google.com (6529)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3124)</li>
-<li>outlook.office365.com (2127)</li>
-<li>docs.google.com (2005)</li>
+<li>outlook.office365.com (2130)</li>
+<li>docs.google.com (2006)</li>
 <li>calendar.google.com (1589)</li>
 <li>moodle.royalholloway.ac.uk (1574)</li>
 <li>www.reddit.com (1557)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1179)</li>
+<li>bsky.app (1186)</li>
 <li>github.com (1057)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (936)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (841)</li>
+<li>gmail.com (842)</li>
 <li>login.microsoftonline.com (798)</li>
-<li>chat.openai.com (740)</li>
+<li>chat.openai.com (741)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (568)</li>
+<li>web.whatsapp.com (569)</li>
 <li>rhul-my.sharepoint.com (542)</li>
-<li>drive.google.com (497)</li>
+<li>drive.google.com (498)</li>
+<li>chatgpt.com (492)</li>
 <li>en.m.wikipedia.org (491)</li>
-<li>chatgpt.com (490)</li>
 <li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (408)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:37 bsky.app</li>
+<ul><li> 11:42 www.google.com</li>
+<li> 11:40 bsky.app</li>
+<li class='same'> 11:34 bsky.app</li>
+<li class='same'> 11:33 bsky.app</li>
+<li> 11:33 bluesky-thread-composer.pages.dev</li>
+<li> 11:32 <a href="https://joereddington.com/2024/12/13/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 11:32 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li class='same'> 11:08 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 11:08 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:03 chatgpt.com</li>
+<li> 11:03 docs.google.com</li>
+<li> 11:02 drive.google.com</li>
+<li> 10:59 chatgpt.com</li>
+<li> 10:59 chat.openai.com</li>
+<li> 10:58 bsky.app</li>
+<li> 10:52 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 10:52 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 10:52 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 10:49 mail.google.com</li>
+<li> 10:49 gmail.com</li>
+<li> 10:47 web.whatsapp.com</li>
+<li> 10:45 bsky.app</li>
+<li class='same'> 10:42 bsky.app</li>
+<li class='same'> 10:39 bsky.app</li>
+<li> 10:39 outlook.office365.com</li>
+<li class='same'> 10:38 outlook.office365.com</li>
+<li class='same'> 10:37 outlook.office365.com</li>
+<li> 10:37 bsky.app</li>
 </ul>
 
 <H3>Thursday, 12/12/24</H3>
