@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9639)</li>
+<ol><li>www.google.com (9638)</li>
 <li>mail.google.com (6528)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3124)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1574)</li>
 <li>www.reddit.com (1557)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1178)</li>
+<li>bsky.app (1179)</li>
 <li>github.com (1057)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (936)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 13/12/24</H3>
+
+<br>
+
+<ul><li> 10:37 bsky.app</li>
+</ul>
+
 <H3>Thursday, 12/12/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -21907,7 +21918,6 @@ With number of accesses/minutes in parentheses
 <li> 23:13 www.facebook.com</li>
 <li class='same'> 23:07 www.facebook.com</li>
 <li> 22:59 www.amazon.co.uk</li>
-<li> 22:58 www.google.com</li>
 <li> 22:58 www.reddit.com</li>
 <li class='same'> 22:56 www.reddit.com</li>
 <li> 22:56 www.google.com</li>
@@ -21966,11 +21976,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:44 www.google.co.uk</li>
 <li> 20:44 www.google.com</li>
 <li class='same'> 20:43 www.google.com</li>
-<li> 20:43 www.thetrainline.com</li>
-<li class='same'> 20:42 www.thetrainline.com</li>
-<li> 20:41 www.paypal.com</li>
-<li> 20:40 www.thetrainline.com</li>
-<li class='same'> 20:39 www.thetrainline.com</li>
+<li> 20:42 www.thetrainline.com</li>
+<li class='same'> 20:40 www.thetrainline.com</li>
 <li class='same'> 20:38 www.thetrainline.com</li>
 <li> 20:09 www.theguardian.com</li>
 <li class='same'> 20:08 www.theguardian.com</li>
