@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9644)</li>
+<ol><li>www.google.com (9646)</li>
 <li>mail.google.com (6537)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3129)</li>
-<li>outlook.office365.com (2139)</li>
+<li>outlook.office365.com (2141)</li>
 <li>docs.google.com (2009)</li>
 <li>calendar.google.com (1589)</li>
-<li>moodle.royalholloway.ac.uk (1574)</li>
+<li>moodle.royalholloway.ac.uk (1577)</li>
 <li>www.reddit.com (1558)</li>
 <li>www.amazon.co.uk (1286)</li>
 <li>bsky.app (1198)</li>
@@ -84,17 +84,17 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (940)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (844)</li>
-<li>login.microsoftonline.com (799)</li>
+<li>login.microsoftonline.com (800)</li>
 <li>chat.openai.com (742)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (570)</li>
-<li>rhul-my.sharepoint.com (542)</li>
+<li>rhul-my.sharepoint.com (543)</li>
 <li>drive.google.com (499)</li>
 <li>chatgpt.com (493)</li>
 <li>en.m.wikipedia.org (491)</li>
-<li>teams.microsoft.com (464)</li>
+<li>teams.microsoft.com (465)</li>
 <li>kdp.amazon.com (445)</li>
 <li>forum.artofmemory.com (408)</li>
 <li>rhul.sharepoint.com (362)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 13/12/24</H3>
+
+<br>
+
+<ul><li> 15:41 ev.turnitinuk.com</li>
+<li> 15:35 www.google.com</li>
+<li> 15:35 <a href="https://en.wikipedia.org/wiki/3rd_Party">3rd Party - Wikipedia</a></li>
+<li> 15:35 www.google.com</li>
+<li> 15:21 ev.turnitinuk.com</li>
+<li> 15:07 outlook.office365.com</li>
+<li> 15:04 ev.turnitinuk.com</li>
+<li> 15:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:02 moodle.royalholloway.ac.uk</li>
+<li> 15:02 login.microsoftonline.com</li>
+<li> 15:02 moodle.royalholloway.ac.uk</li>
+<li> 15:02 rhul-my.sharepoint.com</li>
+<li> 15:01 outlook.office365.com</li>
+<li> 15:01 teams.microsoft.com</li>
+</ul>
 
 <br>
 
