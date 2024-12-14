@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9655)</li>
+<ol><li>www.google.com (9651)</li>
 <li>mail.google.com (6549)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3134)</li>
@@ -22058,12 +22058,10 @@ With number of accesses/minutes in parentheses
 <li> 23:34 www.reddit.com</li>
 <li> 23:34 www.google.com</li>
 <li> 23:34 library.wsc.nsw.gov.au</li>
-<li> 23:33 www.google.com</li>
 <li> 23:33 www.reddit.com</li>
 <li> 23:33 www.myli.org.au</li>
 <li> 23:32 www.threads.net</li>
 <li> 23:32 www.mumsnet.com</li>
-<li> 23:32 www.google.com</li>
 <li> 23:31 amt-lab.org</li>
 <li> 23:31 www.google.com</li>
 <li> 23:31 www.amazon.co.uk</li>
@@ -22072,8 +22070,7 @@ With number of accesses/minutes in parentheses
 <li> 23:29 the5krunner.com</li>
 <li> 23:28 www.thepowerof10.info</li>
 <li> 23:28 www.runnersworld.com</li>
-<li> 23:28 www.google.com</li>
-<li class='same'> 23:27 www.google.com</li>
+<li> 23:27 www.google.com</li>
 <li> 23:27 <a href="https://en.wikipedia.org/wiki/Slighting">Slighting - Wikipedia</a></li>
 <li> 23:25 <a href="https://en.wikipedia.org/wiki/Clitheroe_Castle">Clitheroe Castle - Wikipedia</a></li>
 <li> 23:25 www.google.com</li>
@@ -22121,7 +22118,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:12 www.reddit.com</li>
 <li> 21:11 www.facebook.com</li>
 <li> 21:08 arekuse.net</li>
-<li> 21:08 www.google.com</li>
 <li> 21:06 www.eurogamer.net</li>
 <li> 21:06 appleinsider.com</li>
 <li> 21:06 www.google.com</li>
