@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9652)</li>
-<li>mail.google.com (6549)</li>
+<ol><li>www.google.com (9654)</li>
+<li>mail.google.com (6550)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3134)</li>
 <li>outlook.office365.com (2153)</li>
@@ -83,13 +83,13 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (943)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (845)</li>
+<li>gmail.com (846)</li>
 <li>login.microsoftonline.com (806)</li>
 <li>chat.openai.com (743)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (573)</li>
+<li>web.whatsapp.com (574)</li>
 <li>rhul-my.sharepoint.com (550)</li>
 <li>drive.google.com (499)</li>
 <li>chatgpt.com (494)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:05 bsky.app</li>
+<ul><li> 09:19 mail.google.com</li>
+<li> 09:19 gmail.com</li>
+<li> 09:17 www.google.com</li>
+<li> 09:14 www.britishjudo.org.uk</li>
+<li> 09:13 web.whatsapp.com</li>
+<li> 09:13 www.onlineentries.co.uk</li>
+<li> 09:12 www.britishjudo.org.uk</li>
+<li> 09:12 www.google.com</li>
+<li> 09:05 bsky.app</li>
 <li class='same'> 09:03 bsky.app</li>
 <li> 09:03 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 09:03 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
