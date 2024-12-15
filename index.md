@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 15/12/24</H3>
+
+<br>
+
+<ul><li> 07:24 fritz.box</li>
+</ul>
+
 <H3>Friday, 13/12/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
