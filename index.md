@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:24 fritz.box</li>
+<ul><li> 07:39 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=332463559&markasreadwiki=enwiki#c-94.44.225.95-20241201162800-Schierbecker-20240422182300">User talk:Joereddington - Wikipedia</a></li>
+<li> 07:39 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:39 <a href="https://en.wikipedia.org/"></a></li>
+<li> 07:24 fritz.box</li>
 </ul>
 
 <H3>Friday, 13/12/24</H3>
