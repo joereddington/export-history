@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9657)</li>
-<li>mail.google.com (6555)</li>
+<ol><li>www.google.com (9664)</li>
+<li>mail.google.com (6556)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3135)</li>
-<li>outlook.office365.com (2153)</li>
-<li>docs.google.com (2016)</li>
+<li>outlook.office365.com (2158)</li>
+<li>docs.google.com (2023)</li>
 <li>calendar.google.com (1592)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1558)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1210)</li>
+<li>bsky.app (1211)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (943)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (848)</li>
-<li>login.microsoftonline.com (806)</li>
+<li>login.microsoftonline.com (807)</li>
 <li>chat.openai.com (744)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (575)</li>
+<li>web.whatsapp.com (577)</li>
 <li>rhul-my.sharepoint.com (550)</li>
-<li>drive.google.com (500)</li>
+<li>drive.google.com (501)</li>
 <li>chatgpt.com (495)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:58 www.transport-ticketing.com</li>
+<ul><li> 10:02 docs.google.com</li>
+<li> 10:00 outlook.office365.com</li>
+<li> 09:59 www.ispreview.co.uk</li>
+<li> 09:57 srn.org.uk</li>
+<li> 09:57 www.google.com</li>
+<li> 09:56 commonslibrary.parliament.uk</li>
+<li> 09:56 www.google.com</li>
+<li> 09:56 www.mobileuk.org</li>
+<li> 09:56 www.google.com</li>
+<li> 09:55 docs.google.com</li>
+<li> 09:55 drive.google.com</li>
+<li> 09:53 www.google.com</li>
+<li class='same'> 09:51 www.google.com</li>
+<li> 09:51 bsky.app</li>
+<li> 09:47 web.whatsapp.com</li>
+<li> 09:47 mail.google.com</li>
+<li> 09:47 outlook.office365.com</li>
+<li class='same'> 09:46 outlook.office365.com</li>
+<li class='same'> 09:45 outlook.office365.com</li>
+<li> 09:45 login.microsoftonline.com</li>
+<li> 09:45 outlook.office365.com</li>
+<li> 09:36 docs.google.com</li>
+<li class='same'> 09:35 docs.google.com</li>
+<li> 09:31 web.whatsapp.com</li>
+<li> 09:31 www.researchgate.net</li>
+<li> 09:31 www.google.com</li>
+<li> 09:16 docs.google.com</li>
+<li> 09:15 www.drive.com.au</li>
+<li> 09:14 www.uberpeople.net</li>
+<li> 09:14 www.google.com</li>
+<li> 09:01 docs.google.com</li>
+<li class='same'> 09:00 docs.google.com</li>
+<li> 08:58 www.transport-ticketing.com</li>
 <li> 08:58 www.google.com</li>
 <li> 08:57 www.transport-ticketing.com</li>
 <li> 08:57 www.google.com</li>
