@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9655)</li>
-<li>mail.google.com (6552)</li>
+<ol><li>www.google.com (9657)</li>
+<li>mail.google.com (6555)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3135)</li>
 <li>outlook.office365.com (2153)</li>
-<li>docs.google.com (2013)</li>
-<li>calendar.google.com (1591)</li>
+<li>docs.google.com (2016)</li>
+<li>calendar.google.com (1592)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1558)</li>
 <li>www.amazon.co.uk (1286)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (943)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (846)</li>
+<li>gmail.com (848)</li>
 <li>login.microsoftonline.com (806)</li>
 <li>chat.openai.com (744)</li>
 <li>whitewaterwriters.com (682)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:48 docs.google.com</li>
+<ul><li> 08:58 www.transport-ticketing.com</li>
+<li> 08:58 www.google.com</li>
+<li> 08:57 www.transport-ticketing.com</li>
+<li> 08:57 www.google.com</li>
+<li> 08:55 mail.google.com</li>
+<li class='same'> 08:54 mail.google.com</li>
+<li> 08:54 gmail.com</li>
+<li> 08:54 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 08:54 mail.google.com</li>
+<li> 08:54 gmail.com</li>
+<li> 08:53 calendar.google.com</li>
+<li> 08:51 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:12 docs.google.com</li>
+<li class='same'> 07:11 docs.google.com</li>
+<li class='same'> 06:48 docs.google.com</li>
 <li class='same'> 06:47 docs.google.com</li>
 <li class='same'> 06:41 docs.google.com</li>
 </ul>
