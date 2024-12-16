@@ -73,26 +73,26 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3135)</li>
 <li>outlook.office365.com (2153)</li>
-<li>docs.google.com (2009)</li>
+<li>docs.google.com (2010)</li>
 <li>calendar.google.com (1591)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1558)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1209)</li>
+<li>bsky.app (1210)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (943)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (846)</li>
 <li>login.microsoftonline.com (806)</li>
-<li>chat.openai.com (743)</li>
+<li>chat.openai.com (744)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (574)</li>
+<li>web.whatsapp.com (575)</li>
 <li>rhul-my.sharepoint.com (550)</li>
-<li>drive.google.com (499)</li>
-<li>chatgpt.com (494)</li>
+<li>drive.google.com (500)</li>
+<li>chatgpt.com (495)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
 <li>kdp.amazon.com (446)</li>
@@ -104,11 +104,27 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 16/12/24</H3>
+
+<br>
+
+<ul><li> 05:56 chatgpt.com</li>
+<li> 05:56 chat.openai.com</li>
+<li> 05:50 docs.google.com</li>
+<li> 05:50 drive.google.com</li>
+<li> 05:49 web.whatsapp.com</li>
+</ul>
+
 <H3>Sunday, 15/12/24</H3>
 
 <br>
 
-<ul><li> 12:48 bsky.app</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 12:49 bsky.app</li>
+<li class='same'> 12:48 bsky.app</li>
 <li> 12:47 www.facebook.com</li>
 <li> 12:46 www.google.com</li>
 <li> 12:44 <a href="https://en.wikipedia.org/wiki/Zoe_Sugg">Zoe Sugg - Wikipedia</a></li>
