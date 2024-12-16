@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9668)</li>
-<li>mail.google.com (6558)</li>
+<ol><li>www.google.com (9669)</li>
+<li>mail.google.com (6560)</li>
 <li>outlook.office.com (3836)</li>
-<li>www.facebook.com (3135)</li>
-<li>outlook.office365.com (2160)</li>
-<li>docs.google.com (2030)</li>
+<li>www.facebook.com (3136)</li>
+<li>outlook.office365.com (2162)</li>
+<li>docs.google.com (2032)</li>
 <li>calendar.google.com (1592)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
-<li>www.reddit.com (1558)</li>
+<li>www.reddit.com (1561)</li>
 <li>www.amazon.co.uk (1287)</li>
-<li>bsky.app (1220)</li>
+<li>bsky.app (1222)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (943)</li>
+<li>www.linkedin.com (944)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (848)</li>
 <li>login.microsoftonline.com (807)</li>
@@ -91,8 +91,8 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (578)</li>
 <li>rhul-my.sharepoint.com (550)</li>
-<li>chatgpt.com (509)</li>
-<li>drive.google.com (503)</li>
+<li>chatgpt.com (510)</li>
+<li>drive.google.com (505)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
 <li>kdp.amazon.com (446)</li>
@@ -108,7 +108,51 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:17 chatgpt.com</li>
+<ul><li> 12:57 docs.google.com</li>
+<li> 12:56 drive.google.com</li>
+<li> 12:56 www.reddit.com</li>
+<li class='same'> 12:55 www.reddit.com</li>
+<li> 12:55 <a href="https://www.bbc.co.uk/news/articles/cn0xz4938z9o">Councils to be merged in major overhaul of local powers - BBC News</a></li>
+<li> 12:54 <a href="https://www.bbc.co.uk/news/articles/c5ywp7lgwvro">Woman sentenced for hurling milkshake over Nigel Farage in Essex - BBC News</a></li>
+<li> 12:51 <a href="https://www.bbc.co.uk/news/articles/c0mzdejg1d3o">Universities enrolling foreign students with poor English, BBC finds - BBC News</a></li>
+<li> 12:46 www.reddit.com</li>
+<li> 12:45 www.facebook.com</li>
+<li> 12:44 www.linkedin.com</li>
+<li> 12:43 <a href="https://en.wikipedia.org/wiki/Bluesky">Bluesky - Wikipedia</a></li>
+<li> 12:42 www.google.com</li>
+<li> 12:42 bsky.app</li>
+<li> 12:41 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:41 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:41 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:40 <a href="https://en.wikipedia.org/wiki/Wikipedia:Requests_for_adminship_by_year#mostrecent">Wikipedia:Requests for adminship by year - Wikipedia</a></li>
+<li> 12:40 <a href="https://en.wikipedia.org/wiki/Wikipedia:Requests_for_adminship#About_administrators">Wikipedia:Requests for adminship - Wikipedia</a></li>
+<li> 12:40 <a href="https://en.wikipedia.org/wiki/Wikipedia:Requests_for_adminship#Nominations">Wikipedia:Requests for adminship - Wikipedia</a></li>
+<li> 12:39 <a href="https://en.wikipedia.org/w/index.php?diff=1255536673">User talk:Mariewan: Difference between revisions - Wikipedia</a></li>
+<li class='same'> 12:38 <a href="https://en.wikipedia.org/w/index.php?diff=1255536673">User talk:Mariewan: Difference between revisions - Wikipedia</a></li>
+<li> 12:34 <a href="https://en.wikipedia.org/wiki/Wikipedia:Requests_for_adminship/Graham87_2">Wikipedia:Requests for adminship/Graham87 2 - Wikipedia</a></li>
+<li> 12:34 <a href="https://en.wikipedia.org/wiki/Wikipedia:Requests_for_adminship">Wikipedia:Requests for adminship - Wikipedia</a></li>
+<li> 12:32 <a href="https://en.wikipedia.org/wiki/Wikipedia:Requests_for_adminship/Hog_Farm_2">Wikipedia:Requests for adminship/Hog Farm 2 - Wikipedia</a></li>
+<li> 12:31 <a href="https://en.wikipedia.org/wiki/Neptune_All_Night">Neptune All Night - Wikipedia</a></li>
+<li> 12:31 <a href="https://en.wikipedia.org/wiki/Special:Contributions/RoySmith">User contributions for RoySmith - Wikipedia</a></li>
+<li> 12:31 <a href="https://en.wikipedia.org/wiki/User:RoySmith">User:RoySmith - Wikipedia</a></li>
+<li> 12:31 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach/GA1">Talk:British Airways data breach/GA1 - Wikipedia</a></li>
+<li> 12:31 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 12:31 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 12:30 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:30 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:30 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:30 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:30 mail.google.com</li>
+<li> 12:29 bsky.app</li>
+<li> 12:28 docs.google.com</li>
+<li> 12:28 drive.google.com</li>
+<li> 12:27 academia.stackexchange.com</li>
+<li> 12:26 apple.stackexchange.com</li>
+<li> 12:25 mail.google.com</li>
+<li> 12:25 outlook.office365.com</li>
+<li class='same'> 12:24 outlook.office365.com</li>
+<li> 12:18 chatgpt.com</li>
+<li class='same'> 12:17 chatgpt.com</li>
 <li> 12:16 script.google.com</li>
 <li> 12:16 docs.google.com</li>
 <li> 12:16 script.google.com</li>
