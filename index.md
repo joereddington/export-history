@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9672)</li>
+<ol><li>www.google.com (9677)</li>
 <li>mail.google.com (6570)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3136)</li>
 <li>outlook.office365.com (2167)</li>
-<li>docs.google.com (2052)</li>
+<li>docs.google.com (2054)</li>
 <li>calendar.google.com (1592)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1561)</li>
 <li>www.amazon.co.uk (1287)</li>
-<li>bsky.app (1240)</li>
+<li>bsky.app (1241)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (946)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (850)</li>
-<li>login.microsoftonline.com (807)</li>
-<li>chat.openai.com (749)</li>
+<li>login.microsoftonline.com (808)</li>
+<li>chat.openai.com (750)</li>
 <li>whitewaterwriters.com (684)</li>
 <li>tvtropes.org (678)</li>
 <li>web.whatsapp.com (582)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (550)</li>
-<li>chatgpt.com (511)</li>
+<li>chatgpt.com (512)</li>
 <li>drive.google.com (507)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
@@ -108,7 +108,56 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:18 docs.google.com</li>
+<ul><li> 18:00 bsky.app</li>
+<li> 18:00 fast.com</li>
+<li> 17:47 ieeexplore.ieee.org</li>
+<li> 17:47 scholar.google.com</li>
+<li class='same'> 17:46 scholar.google.com</li>
+<li> 17:45 www.sciencedirect.com</li>
+<li> 17:45 scholar.google.com</li>
+<li> 17:44 www.icevirtuallibrary.com</li>
+<li> 17:44 www.google.co.uk</li>
+<li> 17:43 scholar.google.com</li>
+<li> 17:42 www.inderscienceonline.com</li>
+<li> 17:39 link.springer.com</li>
+<li> 17:38 scholar.google.com</li>
+<li> 17:37 chatgpt.com</li>
+<li> 17:37 chat.openai.com</li>
+<li> 17:36 www.sciencedirect.com</li>
+<li class='same'> 17:35 www.sciencedirect.com</li>
+<li> 17:35 scholar.google.com</li>
+<li> 17:35 www.ijresm.com</li>
+<li> 17:34 iopscience.iop.org</li>
+<li> 17:34 scholar.google.com</li>
+<li> 17:34 www.google.com</li>
+<li> 17:33 pure.plymouth.ac.uk</li>
+<li> 17:33 researchportal.plymouth.ac.uk</li>
+<li> 17:31 web.archive.org</li>
+<li> 17:30 scholar.google.com</li>
+<li> 17:30 login.openathens.net</li>
+<li> 17:30 bristoluniversitypressdigital.com</li>
+<li> 17:29 login.openathens.net</li>
+<li> 17:29 bristoluniversitypressdigital.com</li>
+<li class='same'> 17:28 bristoluniversitypressdigital.com</li>
+<li> 17:28 login.openathens.net</li>
+<li> 17:28 login.microsoftonline.com</li>
+<li> 17:28 bristoluniversitypressdigital.com</li>
+<li> 17:28 scholar.google.com</li>
+<li> 17:28 www.google.com</li>
+<li> 17:28 researchportal.plymouth.ac.uk</li>
+<li class='same'> 17:27 researchportal.plymouth.ac.uk</li>
+<li> 17:27 www.plymouth.ac.uk</li>
+<li> 17:27 www.google.com</li>
+<li> 17:27 www.futureplymouth2030.co.uk</li>
+<li> 17:27 www.google.com</li>
+<li> 17:27 <a href="https://www.youtube.com/watch?v=AjG6_vmBQ5k">Professor Jon Shaw & Dr Andrew Seedhouse - REF Impact Case Study - YouTube</a></li>
+<li> 17:27 <a href="https://www.youtube.com/watch?v=AjG6_vmBQ5k&themeRefresh=1">Professor Jon Shaw & Dr Andrew Seedhouse - REF Impact Case Study - YouTube</a></li>
+<li> 17:27 <a href="https://www.youtube.com/watch?v=AjG6_vmBQ5k">Professor Jon Shaw & Dr Andrew Seedhouse - REF Impact Case Study - YouTube</a></li>
+<li> 17:27 www.plymouth.ac.uk</li>
+<li> 17:26 www.google.com</li>
+<li> 17:26 docs.google.com</li>
+<li class='same'> 17:25 docs.google.com</li>
+<li class='same'> 17:18 docs.google.com</li>
 <li> 17:14 web.whatsapp.com</li>
 <li> 17:13 docs.google.com</li>
 <li class='same'> 17:12 docs.google.com</li>
@@ -4229,7 +4278,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:52 www.transport.gov.scot</li>
 <li> 10:52 researchportal.plymouth.ac.uk</li>
 <li> 10:52 www.plymouth.ac.uk</li>
-<li> 10:50 <a href="https://www.youtube.com/watch?v=AjG6_vmBQ5k">(6) Professor Jon Shaw & Dr Andrew Seedhouse - REF Impact Case Study - YouTube</a></li>
+<li> 10:50 <a href="https://www.youtube.com/watch?v=AjG6_vmBQ5k">Professor Jon Shaw & Dr Andrew Seedhouse - REF Impact Case Study - YouTube</a></li>
 <li> 10:50 www.plymouth.ac.uk</li>
 <li> 10:49 www.transport-ticketing.com</li>
 <li> 10:48 www.talktosam.co.uk</li>
