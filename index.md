@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9664)</li>
-<li>mail.google.com (6556)</li>
+<ol><li>www.google.com (9667)</li>
+<li>mail.google.com (6557)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3135)</li>
-<li>outlook.office365.com (2158)</li>
-<li>docs.google.com (2023)</li>
+<li>outlook.office365.com (2160)</li>
+<li>docs.google.com (2026)</li>
 <li>calendar.google.com (1592)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1558)</li>
 <li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1211)</li>
+<li>bsky.app (1217)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (943)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (848)</li>
 <li>login.microsoftonline.com (807)</li>
-<li>chat.openai.com (744)</li>
+<li>chat.openai.com (745)</li>
 <li>whitewaterwriters.com (682)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>web.whatsapp.com (577)</li>
 <li>rhul-my.sharepoint.com (550)</li>
-<li>drive.google.com (501)</li>
-<li>chatgpt.com (495)</li>
+<li>drive.google.com (502)</li>
+<li>chatgpt.com (499)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
 <li>kdp.amazon.com (446)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:02 docs.google.com</li>
+<ul><li> 11:10 bsky.app</li>
+<li> 11:09 doctorow.medium.com</li>
+<li> 11:09 www.google.com</li>
+<li> 11:08 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 11:04 bsky.app</li>
+<li> 11:03 chatgpt.com</li>
+<li class='same'> 11:02 chatgpt.com</li>
+<li> 10:55 outlook.office365.com</li>
+<li> 10:55 mail.google.com</li>
+<li> 10:52 bsky.app</li>
+<li class='same'> 10:51 bsky.app</li>
+<li> 10:48 <a href="https://en.wikipedia.org/wiki/Re-education">Re-education - Wikipedia</a></li>
+<li> 10:48 www.google.com</li>
+<li class='same'> 10:47 www.google.com</li>
+<li> 10:36 bsky.app</li>
+<li> 10:34 outlook.office365.com</li>
+<li> 10:33 bsky.app</li>
+<li> 10:33 app.podseeker.co</li>
+<li class='same'> 10:30 app.podseeker.co</li>
+<li class='same'> 10:28 app.podseeker.co</li>
+<li class='same'> 10:27 app.podseeker.co</li>
+<li> 10:18 chatgpt.com</li>
+<li class='same'> 10:17 chatgpt.com</li>
+<li> 10:17 chat.openai.com</li>
+<li> 10:14 docs.google.com</li>
+<li class='same'> 10:13 docs.google.com</li>
+<li> 10:12 drive.google.com</li>
+<li> 10:09 docs.google.com</li>
+<li class='same'> 10:02 docs.google.com</li>
 <li> 10:00 outlook.office365.com</li>
 <li> 09:59 www.ispreview.co.uk</li>
 <li> 09:57 srn.org.uk</li>
