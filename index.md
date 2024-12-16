@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9667)</li>
-<li>mail.google.com (6557)</li>
+<ol><li>www.google.com (9668)</li>
+<li>mail.google.com (6558)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3135)</li>
 <li>outlook.office365.com (2160)</li>
-<li>docs.google.com (2026)</li>
+<li>docs.google.com (2030)</li>
 <li>calendar.google.com (1592)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1558)</li>
-<li>www.amazon.co.uk (1286)</li>
-<li>bsky.app (1217)</li>
+<li>www.amazon.co.uk (1287)</li>
+<li>bsky.app (1220)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (943)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (848)</li>
 <li>login.microsoftonline.com (807)</li>
-<li>chat.openai.com (745)</li>
-<li>whitewaterwriters.com (682)</li>
+<li>chat.openai.com (748)</li>
+<li>whitewaterwriters.com (684)</li>
 <li>tvtropes.org (678)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>web.whatsapp.com (577)</li>
+<li>web.whatsapp.com (578)</li>
 <li>rhul-my.sharepoint.com (550)</li>
-<li>drive.google.com (502)</li>
-<li>chatgpt.com (499)</li>
+<li>chatgpt.com (509)</li>
+<li>drive.google.com (503)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
 <li>kdp.amazon.com (446)</li>
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:10 bsky.app</li>
+<ul><li> 12:17 chatgpt.com</li>
+<li> 12:16 script.google.com</li>
+<li> 12:16 docs.google.com</li>
+<li> 12:16 script.google.com</li>
+<li> 12:15 docs.google.com</li>
+<li> 12:09 chatgpt.com</li>
+<li class='same'> 12:08 chatgpt.com</li>
+<li> 12:01 finance.yahoo.com</li>
+<li> 12:01 news.google.com</li>
+<li> 12:01 www.google.com</li>
+<li> 11:58 script.google.com</li>
+<li> 11:58 accounts.google.com</li>
+<li> 11:57 script.google.com</li>
+<li> 11:55 chatgpt.com</li>
+<li> 11:55 chat.openai.com</li>
+<li> 11:54 docs.google.com</li>
+<li> 11:53 drive.google.com</li>
+<li> 11:52 chatgpt.com</li>
+<li> 11:52 chat.openai.com</li>
+<li> 11:49 www.google.com</li>
+<li> 11:48 chatgpt.com</li>
+<li class='same'> 11:47 chatgpt.com</li>
+<li> 11:47 chat.openai.com</li>
+<li> 11:47 web.whatsapp.com</li>
+<li> 11:44 script.google.com</li>
+<li class='same'> 11:42 script.google.com</li>
+<li> 11:42 docs.google.com</li>
+<li> 11:37 pay.openai.com</li>
+<li> 11:37 chatgpt.com</li>
+<li> 11:36 help.openai.com</li>
+<li> 11:36 www.google.com</li>
+<li> 11:36 chatgpt.com</li>
+<li> 11:35 whitewaterwriters.com</li>
+<li> 11:35 chatgpt.com</li>
+<li> 11:34 whitewaterwriters.com</li>
+<li> 11:30 mail.google.com</li>
+<li> 11:27 bsky.app</li>
+<li> 11:24 www.amazon.co.uk</li>
+<li> 11:24 www.google.com</li>
+<li> 11:23 bsky.app</li>
+<li class='same'> 11:12 bsky.app</li>
+<li class='same'> 11:10 bsky.app</li>
 <li> 11:09 doctorow.medium.com</li>
 <li> 11:09 www.google.com</li>
 <li> 11:08 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
@@ -22045,16 +22086,13 @@ With number of accesses/minutes in parentheses
 <li> 20:20 www.google.com</li>
 <li> 20:20 discussions.apple.com</li>
 <li> 20:20 www.google.com</li>
-<li class='same'> 20:19 www.google.com</li>
 <li class='same'> 20:18 www.google.com</li>
 <li> 20:18 www.reddit.com</li>
-<li> 20:18 www.google.com</li>
-<li> 20:15 www.reddit.com</li>
+<li class='same'> 20:15 www.reddit.com</li>
 <li> 20:13 discussions.apple.com</li>
 <li> 20:13 www.google.com</li>
 <li> 20:12 www.reddit.com</li>
 <li> 20:12 www.google.com</li>
-<li class='same'> 20:10 www.google.com</li>
 <li class='same'> 20:09 www.google.com</li>
 <li class='same'> 20:08 www.google.com</li>
 <li> 20:06 ifttt.com</li>
