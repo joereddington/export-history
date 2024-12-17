@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9681)</li>
-<li>mail.google.com (6579)</li>
+<ol><li>www.google.com (9691)</li>
+<li>mail.google.com (6580)</li>
 <li>outlook.office.com (3836)</li>
-<li>www.facebook.com (3138)</li>
+<li>www.facebook.com (3140)</li>
 <li>outlook.office365.com (2169)</li>
 <li>docs.google.com (2081)</li>
 <li>calendar.google.com (1593)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
-<li>www.reddit.com (1561)</li>
-<li>www.amazon.co.uk (1287)</li>
-<li>bsky.app (1257)</li>
+<li>www.reddit.com (1562)</li>
+<li>www.amazon.co.uk (1289)</li>
+<li>bsky.app (1262)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (949)</li>
+<li>www.linkedin.com (950)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (852)</li>
 <li>login.microsoftonline.com (806)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:24 mail.google.com</li>
+<ul><li> 13:14 www.facebook.com</li>
+<li class='same'> 13:13 www.facebook.com</li>
+<li> 13:12 yhangry.com</li>
+<li class='same'> 13:07 yhangry.com</li>
+<li class='same'> 13:03 yhangry.com</li>
+<li> 13:01 www.chefsimonmckenzie.com</li>
+<li> 13:01 www.google.com</li>
+<li> 13:00 bsky.app</li>
+<li> 12:59 www.google.com</li>
+<li> 12:59 www.linkedin.com</li>
+<li> 12:58 www.takeachef.com</li>
+<li> 12:58 www.amazon.co.uk</li>
+<li> 12:58 www.takeachef.com</li>
+<li> 12:58 www.amazon.co.uk</li>
+<li> 12:57 www.takeachef.com</li>
+<li> 12:57 www.superprof.co.uk</li>
+<li> 12:57 www.google.com</li>
+<li> 12:56 www.reddit.com</li>
+<li> 12:56 www.rovingchef.net</li>
+<li class='same'> 12:55 www.rovingchef.net</li>
+<li> 12:55 www.google.com</li>
+<li> 12:55 www.cheftjburch.com</li>
+<li> 12:55 www.google.com</li>
+<li class='same'> 12:54 www.google.com</li>
+<li class='same'> 12:52 www.google.com</li>
+<li> 12:51 www.patriciascuisine.co.uk</li>
+<li> 12:51 www.google.com</li>
+<li> 12:50 yhangry.com</li>
+<li> 12:49 accounts.google.com</li>
+<li> 12:48 yhangry.com</li>
+<li> 12:48 www.google.com</li>
+<li> 12:48 bsky.app</li>
+<li class='same'> 12:47 bsky.app</li>
+<li class='same'> 12:46 bsky.app</li>
+<li class='same'> 12:43 bsky.app</li>
+<li> 12:43 mail.google.com</li>
+<li> 12:38 <a href="https://en.wikipedia.org/wiki/Enshittification">Enshittification - Wikipedia</a></li>
+<li> 12:38 www.google.com</li>
+<li> 12:24 mail.google.com</li>
 <li> 12:24 gmail.com</li>
 <li> 12:07 www.writetothem.com</li>
 <li> 12:06 web.whatsapp.com</li>
