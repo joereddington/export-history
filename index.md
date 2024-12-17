@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9679)</li>
-<li>mail.google.com (6577)</li>
+<ol><li>www.google.com (9681)</li>
+<li>mail.google.com (6579)</li>
 <li>outlook.office.com (3836)</li>
-<li>www.facebook.com (3136)</li>
-<li>outlook.office365.com (2167)</li>
-<li>docs.google.com (2079)</li>
+<li>www.facebook.com (3138)</li>
+<li>outlook.office365.com (2169)</li>
+<li>docs.google.com (2081)</li>
 <li>calendar.google.com (1593)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
-<li>www.reddit.com (1560)</li>
+<li>www.reddit.com (1561)</li>
 <li>www.amazon.co.uk (1287)</li>
-<li>bsky.app (1243)</li>
+<li>bsky.app (1257)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (948)</li>
+<li>www.linkedin.com (949)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (851)</li>
-<li>login.microsoftonline.com (805)</li>
+<li>gmail.com (852)</li>
+<li>login.microsoftonline.com (806)</li>
 <li>chat.openai.com (753)</li>
-<li>whitewaterwriters.com (684)</li>
+<li>whitewaterwriters.com (685)</li>
 <li>tvtropes.org (678)</li>
-<li>web.whatsapp.com (584)</li>
+<li>web.whatsapp.com (585)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (547)</li>
 <li>chatgpt.com (516)</li>
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:12 web.whatsapp.com</li>
+<ul><li> 12:24 mail.google.com</li>
+<li> 12:24 gmail.com</li>
+<li> 12:07 www.writetothem.com</li>
+<li> 12:06 web.whatsapp.com</li>
+<li> 12:06 themeads.org.uk</li>
+<li> 12:06 myaccount.governorhub.com</li>
+<li> 12:06 app.governorhub.com</li>
+<li> 12:06 www.writetothem.com</li>
+<li> 12:05 www.theyworkforyou.com</li>
+<li> 12:05 bsky.app</li>
+<li> 12:05 outlook.office365.com</li>
+<li class='same'> 12:04 outlook.office365.com</li>
+<li> 12:04 login.microsoftonline.com</li>
+<li> 12:04 www.linkedin.com</li>
+<li> 12:03 bsky.app</li>
+<li> 12:03 www.facebook.com</li>
+<li class='same'> 12:02 www.facebook.com</li>
+<li> 12:01 whitewaterwriters.com</li>
+<li> 12:00 www.sciencedirect.com</li>
+<li> 12:00 linkinghub.elsevier.com</li>
+<li> 12:00 www.sciencedirect.com</li>
+<li> 12:00 www.google.com</li>
+<li> 11:59 mail.google.com</li>
+<li> 11:59 bsky.app</li>
+<li class='same'> 11:57 bsky.app</li>
+<li class='same'> 11:54 bsky.app</li>
+<li class='same'> 11:52 bsky.app</li>
+<li> 11:48 <a href="https://www.youtube.com/watch?v=HmvSgvy7a34">The Simpsons S11E05 E-I-E-I- D'oh - Glove Slap - YouTube</a></li>
+<li> 11:48 <a href="https://www.youtube.com/watch?v=HmvSgvy7a34&feature=youtu.be&themeRefresh=1">The Simpsons S11E05 E-I-E-I- D'oh - Glove Slap - YouTube</a></li>
+<li> 11:48 <a href="https://www.youtube.com/watch?v=HmvSgvy7a34&feature=youtu.be">The Simpsons S11E05 E-I-E-I- D'oh - Glove Slap - YouTube</a></li>
+<li> 11:46 bsky.app</li>
+<li> 11:45 www.reddit.com</li>
+<li> 11:45 www.google.com</li>
+<li> 11:43 bsky.app</li>
+<li class='same'> 11:42 bsky.app</li>
+<li class='same'> 11:41 bsky.app</li>
+<li class='same'> 11:38 bsky.app</li>
+<li class='same'> 11:37 bsky.app</li>
+<li class='same'> 11:36 bsky.app</li>
+<li class='same'> 11:32 bsky.app</li>
+<li> 11:31 docs.google.com</li>
+<li class='same'> 11:30 docs.google.com</li>
+<li> 11:12 web.whatsapp.com</li>
 <li> 10:56 chatgpt.com</li>
 <li class='same'> 10:55 chatgpt.com</li>
 <li> 10:55 chat.openai.com</li>
