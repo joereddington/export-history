@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1561)</li>
 <li>www.amazon.co.uk (1287)</li>
-<li>bsky.app (1241)</li>
+<li>bsky.app (1242)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (946)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:00 bsky.app</li>
+<ul><li> 18:02 www.theverge.com</li>
+<li> 18:02 bsky.app</li>
+<li> 18:01 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 18:00 bsky.app</li>
 <li> 18:00 fast.com</li>
 <li> 17:47 ieeexplore.ieee.org</li>
 <li> 17:47 scholar.google.com</li>
