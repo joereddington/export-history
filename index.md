@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9682)</li>
-<li>mail.google.com (6573)</li>
+<ol><li>www.google.com (9683)</li>
+<li>mail.google.com (6577)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3136)</li>
 <li>outlook.office365.com (2167)</li>
-<li>docs.google.com (2069)</li>
-<li>calendar.google.com (1592)</li>
+<li>docs.google.com (2075)</li>
+<li>calendar.google.com (1593)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1561)</li>
 <li>www.amazon.co.uk (1287)</li>
-<li>bsky.app (1242)</li>
+<li>bsky.app (1243)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (946)</li>
+<li>www.linkedin.com (948)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (850)</li>
+<li>gmail.com (851)</li>
 <li>login.microsoftonline.com (808)</li>
 <li>chat.openai.com (752)</li>
 <li>whitewaterwriters.com (684)</li>
 <li>tvtropes.org (678)</li>
-<li>web.whatsapp.com (582)</li>
+<li>web.whatsapp.com (583)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (550)</li>
 <li>chatgpt.com (514)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:19 mail.google.com</li>
+<ul><li> 10:16 docs.google.com</li>
+<li class='same'> 10:13 docs.google.com</li>
+<li class='same'> 10:12 docs.google.com</li>
+<li class='same'> 10:11 docs.google.com</li>
+<li class='same'> 10:08 docs.google.com</li>
+<li class='same'> 10:07 docs.google.com</li>
+<li> 09:55 mail.google.com</li>
+<li class='same'> 09:54 mail.google.com</li>
+<li> 09:54 gmail.com</li>
+<li> 09:53 www.linkedin.com</li>
+<li class='same'> 09:52 www.linkedin.com</li>
+<li> 09:49 mail.google.com</li>
+<li> 09:48 bsky.app</li>
+<li> 09:48 mail.google.com</li>
+<li> 09:43 web.whatsapp.com</li>
+<li> 09:37 www.google.com</li>
+<li> 09:30 calendar.google.com</li>
+<li> 09:19 mail.google.com</li>
 <li> 09:18 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
 <li> 09:18 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-RoySmith-20241216170100-Your_GA_nomination_of_British_Airways_data_breach_2">User talk:Joereddington - Wikipedia</a></li>
 <li> 09:18 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=332831220&markasreadwiki=enwiki#c-RoySmith-20241216170100-Your_GA_nomination_of_British_Airways_data_breach_2">User talk:Joereddington - Wikipedia</a></li>
