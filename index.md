@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9691)</li>
-<li>mail.google.com (6580)</li>
+<ol><li>www.google.com (9692)</li>
+<li>mail.google.com (6583)</li>
 <li>outlook.office.com (3836)</li>
-<li>www.facebook.com (3140)</li>
-<li>outlook.office365.com (2169)</li>
+<li>www.facebook.com (3165)</li>
+<li>outlook.office365.com (2171)</li>
 <li>docs.google.com (2081)</li>
 <li>calendar.google.com (1593)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1562)</li>
 <li>www.amazon.co.uk (1289)</li>
-<li>bsky.app (1262)</li>
+<li>bsky.app (1266)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (950)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (852)</li>
+<li>gmail.com (853)</li>
 <li>login.microsoftonline.com (806)</li>
 <li>chat.openai.com (753)</li>
 <li>whitewaterwriters.com (685)</li>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:14 www.facebook.com</li>
+<ul><li> 13:50 bsky.app</li>
+<li> 13:49 www.facebook.com</li>
+<li class='same'> 13:48 www.facebook.com</li>
+<li> 13:48 mail.google.com</li>
+<li> 13:48 gmail.com</li>
+<li> 13:48 mail.google.com</li>
+<li class='same'> 13:47 mail.google.com</li>
+<li> 13:47 outlook.office365.com</li>
+<li> 13:46 bsky.app</li>
+<li> 13:46 www.facebook.com</li>
+<li class='same'> 13:45 www.facebook.com</li>
+<li class='same'> 13:44 www.facebook.com</li>
+<li class='same'> 13:43 www.facebook.com</li>
+<li class='same'> 13:42 www.facebook.com</li>
+<li class='same'> 13:41 www.facebook.com</li>
+<li class='same'> 13:40 www.facebook.com</li>
+<li class='same'> 13:39 www.facebook.com</li>
+<li class='same'> 13:38 www.facebook.com</li>
+<li class='same'> 13:37 www.facebook.com</li>
+<li class='same'> 13:36 www.facebook.com</li>
+<li class='same'> 13:35 www.facebook.com</li>
+<li class='same'> 13:34 www.facebook.com</li>
+<li class='same'> 13:33 www.facebook.com</li>
+<li class='same'> 13:32 www.facebook.com</li>
+<li class='same'> 13:31 www.facebook.com</li>
+<li class='same'> 13:30 www.facebook.com</li>
+<li class='same'> 13:29 www.facebook.com</li>
+<li class='same'> 13:28 www.facebook.com</li>
+<li class='same'> 13:27 www.facebook.com</li>
+<li class='same'> 13:26 www.facebook.com</li>
+<li class='same'> 13:25 www.facebook.com</li>
+<li> 13:24 www.google.com</li>
+<li> 13:22 www.facebook.com</li>
+<li> 13:21 bsky.app</li>
+<li class='same'> 13:20 bsky.app</li>
+<li> 13:20 outlook.office365.com</li>
+<li> 13:14 www.facebook.com</li>
 <li class='same'> 13:13 www.facebook.com</li>
 <li> 13:12 yhangry.com</li>
 <li class='same'> 13:07 yhangry.com</li>
