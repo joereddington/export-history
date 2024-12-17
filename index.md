@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9692)</li>
-<li>mail.google.com (6583)</li>
+<ol><li>www.google.com (9697)</li>
+<li>mail.google.com (6586)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3165)</li>
 <li>outlook.office365.com (2171)</li>
-<li>docs.google.com (2081)</li>
+<li>docs.google.com (2090)</li>
 <li>calendar.google.com (1593)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1562)</li>
 <li>www.amazon.co.uk (1289)</li>
-<li>bsky.app (1266)</li>
+<li>bsky.app (1267)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (950)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (853)</li>
+<li>gmail.com (854)</li>
 <li>login.microsoftonline.com (806)</li>
-<li>chat.openai.com (753)</li>
+<li>chat.openai.com (755)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>tvtropes.org (678)</li>
-<li>web.whatsapp.com (585)</li>
+<li>web.whatsapp.com (586)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (547)</li>
-<li>chatgpt.com (516)</li>
-<li>drive.google.com (508)</li>
+<li>chatgpt.com (520)</li>
+<li>drive.google.com (510)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
 <li>kdp.amazon.com (446)</li>
@@ -105,6 +105,53 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 17/12/24</H3>
+
+<br>
+
+<ul><li> 18:59 chatgpt.com</li>
+<li> 18:58 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:22 docs.google.com</li>
+<li class='same'> 18:21 docs.google.com</li>
+<li class='same'> 18:18 docs.google.com</li>
+<li class='same'> 18:15 docs.google.com</li>
+<li> 18:12 chatgpt.com</li>
+<li> 18:12 chat.openai.com</li>
+<li> 18:12 docs.google.com</li>
+<li> 18:10 chatgpt.com</li>
+<li class='same'> 18:09 chatgpt.com</li>
+<li> 18:09 chat.openai.com</li>
+<li> 18:09 scholar.google.com</li>
+<li> 18:09 www.mdpi.com</li>
+<li> 18:09 scholar.google.com</li>
+<li> 18:09 www.google.com</li>
+<li> 18:09 researchbriefings.files.parliament.uk</li>
+<li> 18:08 www.google.com</li>
+<li> 18:08 commonslibrary.parliament.uk</li>
+<li> 18:07 find-and-update.company-information.service.gov.uk</li>
+<li> 18:07 www.google.com</li>
+<li> 18:07 cjsconsultancy.com</li>
+<li> 18:07 mail.google.com</li>
+<li class='same'> 18:06 mail.google.com</li>
+<li class='same'> 18:05 mail.google.com</li>
+<li> 18:05 gmail.com</li>
+<li> 18:05 docs.google.com</li>
+<li class='same'> 18:04 docs.google.com</li>
+<li> 18:03 www.sciencedirect.com</li>
+<li> 18:03 www.google.com</li>
+<li> 18:03 link.springer.com</li>
+<li> 18:02 www.sciencedirect.com</li>
+<li> 18:02 www.google.com</li>
+<li> 18:01 ieeexplore.ieee.org</li>
+<li> 18:01 docs.google.com</li>
+<li> 17:59 bsky.app</li>
+<li> 17:59 drive.google.com</li>
+<li class='same'> 17:58 drive.google.com</li>
+<li> 17:58 web.whatsapp.com</li>
+</ul>
 
 <br>
 
