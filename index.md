@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9677)</li>
+<ol><li>www.google.com (9679)</li>
 <li>mail.google.com (6570)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3136)</li>
 <li>outlook.office365.com (2167)</li>
-<li>docs.google.com (2054)</li>
+<li>docs.google.com (2069)</li>
 <li>calendar.google.com (1592)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1561)</li>
@@ -85,14 +85,14 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (850)</li>
 <li>login.microsoftonline.com (808)</li>
-<li>chat.openai.com (750)</li>
+<li>chat.openai.com (751)</li>
 <li>whitewaterwriters.com (684)</li>
 <li>tvtropes.org (678)</li>
 <li>web.whatsapp.com (582)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (550)</li>
-<li>chatgpt.com (512)</li>
-<li>drive.google.com (507)</li>
+<li>chatgpt.com (513)</li>
+<li>drive.google.com (508)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
 <li>kdp.amazon.com (446)</li>
@@ -104,7 +104,39 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 17/12/24</H3>
+
+<br>
+
+<ul><li> 07:23 docs.google.com</li>
+<li> 07:10 www.google.com</li>
+<li> 07:09 adblockplus.org</li>
+<li> 07:09 www.google.com</li>
+<li> 07:03 docs.google.com</li>
+<li class='same'> 06:59 docs.google.com</li>
+<li class='same'> 06:58 docs.google.com</li>
+<li class='same'> 06:54 docs.google.com</li>
+<li class='same'> 06:53 docs.google.com</li>
+<li class='same'> 06:52 docs.google.com</li>
+<li class='same'> 06:51 docs.google.com</li>
+<li class='same'> 06:47 docs.google.com</li>
+<li class='same'> 06:46 docs.google.com</li>
+<li class='same'> 06:45 docs.google.com</li>
+<li> 06:44 chatgpt.com</li>
+<li> 06:44 chat.openai.com</li>
+<li> 06:44 docs.google.com</li>
+<li class='same'> 06:39 docs.google.com</li>
+<li class='same'> 06:34 docs.google.com</li>
+<li class='same'> 06:33 docs.google.com</li>
+<li> 06:32 drive.google.com</li>
+<li> 06:31 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+</ul>
+
 <H3>Monday, 16/12/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
