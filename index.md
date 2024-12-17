@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9679)</li>
-<li>mail.google.com (6570)</li>
+<ol><li>www.google.com (9682)</li>
+<li>mail.google.com (6573)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3136)</li>
 <li>outlook.office365.com (2167)</li>
@@ -85,13 +85,13 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (850)</li>
 <li>login.microsoftonline.com (808)</li>
-<li>chat.openai.com (751)</li>
+<li>chat.openai.com (752)</li>
 <li>whitewaterwriters.com (684)</li>
 <li>tvtropes.org (678)</li>
 <li>web.whatsapp.com (582)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (550)</li>
-<li>chatgpt.com (513)</li>
+<li>chatgpt.com (514)</li>
 <li>drive.google.com (508)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:23 docs.google.com</li>
+<ul><li> 09:19 mail.google.com</li>
+<li> 09:18 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 09:18 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-RoySmith-20241216170100-Your_GA_nomination_of_British_Airways_data_breach_2">User talk:Joereddington - Wikipedia</a></li>
+<li> 09:18 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=332831220&markasreadwiki=enwiki#c-RoySmith-20241216170100-Your_GA_nomination_of_British_Airways_data_breach_2">User talk:Joereddington - Wikipedia</a></li>
+<li> 09:18 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 09:18 mail.google.com</li>
+<li class='same'> 09:17 mail.google.com</li>
+<li> 09:12 firebase.google.com</li>
+<li> 09:11 developers.google.com</li>
+<li> 09:11 developer.apple.com</li>
+<li> 09:11 www.google.com</li>
+<li class='same'> 09:10 www.google.com</li>
+<li> 09:04 chatgpt.com</li>
+<li> 09:04 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:30 www.google.com</li>
+<li> 07:23 docs.google.com</li>
 <li> 07:10 www.google.com</li>
 <li> 07:09 adblockplus.org</li>
 <li> 07:09 www.google.com</li>
