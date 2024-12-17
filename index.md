@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9683)</li>
+<ol><li>www.google.com (9679)</li>
 <li>mail.google.com (6577)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3136)</li>
 <li>outlook.office365.com (2167)</li>
-<li>docs.google.com (2075)</li>
+<li>docs.google.com (2079)</li>
 <li>calendar.google.com (1593)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
-<li>www.reddit.com (1561)</li>
+<li>www.reddit.com (1560)</li>
 <li>www.amazon.co.uk (1287)</li>
 <li>bsky.app (1243)</li>
 <li>github.com (1060)</li>
@@ -84,14 +84,14 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (948)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (851)</li>
-<li>login.microsoftonline.com (808)</li>
-<li>chat.openai.com (752)</li>
+<li>login.microsoftonline.com (805)</li>
+<li>chat.openai.com (753)</li>
 <li>whitewaterwriters.com (684)</li>
 <li>tvtropes.org (678)</li>
-<li>web.whatsapp.com (583)</li>
+<li>web.whatsapp.com (584)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>rhul-my.sharepoint.com (550)</li>
-<li>chatgpt.com (514)</li>
+<li>rhul-my.sharepoint.com (547)</li>
+<li>chatgpt.com (516)</li>
 <li>drive.google.com (508)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:16 docs.google.com</li>
+<ul><li> 11:12 web.whatsapp.com</li>
+<li> 10:56 chatgpt.com</li>
+<li class='same'> 10:55 chatgpt.com</li>
+<li> 10:55 chat.openai.com</li>
+<li> 10:44 docs.google.com</li>
+<li class='same'> 10:43 docs.google.com</li>
+<li> 10:39 tohtml.com</li>
+<li> 10:39 <a href="https://stackoverflow.com/questions/225830/syntax-highlighting-when-pasting-into-emails">html - Syntax highlighting when pasting into emails - Stack Overflow</a></li>
+<li> 10:39 www.google.com</li>
+<li> 10:35 docs.google.com</li>
+<li class='same'> 10:25 docs.google.com</li>
+<li class='same'> 10:16 docs.google.com</li>
 <li class='same'> 10:13 docs.google.com</li>
 <li class='same'> 10:12 docs.google.com</li>
 <li class='same'> 10:11 docs.google.com</li>
@@ -21994,7 +22005,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:38 www.amazon.co.uk</li>
-<li> 20:38 www.google.com</li>
 <li> 20:37 www.kickstarter.com</li>
 <li class='same'> 20:36 www.kickstarter.com</li>
 <li class='same'> 20:35 www.kickstarter.com</li>
@@ -22014,10 +22024,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:27 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
-<li> 19:27 login.microsoftonline.com</li>
-<li> 19:26 rhul-my.sharepoint.com</li>
-<li> 19:26 forms.office.com</li>
+<ul><li> 19:26 forms.office.com</li>
 <li> 19:26 login.microsoftonline.com</li>
 <li> 19:26 forms.office.com</li>
 <li> 19:25 intranet.royalholloway.ac.uk</li>
@@ -22138,13 +22145,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:51 chatgpt.com</li>
 <li> 11:42 docs.google.com</li>
 <li> 11:42 drive.google.com</li>
-<li> 11:39 www.google.com</li>
 <li> 11:33 <a href="https://www.youtube.com/watch?v=H7xCo0CJ02A">(20) Investment Analyst Explains Margin Call - YouTube</a></li>
 <li> 11:31 <a href="https://www.youtube.com/watch?v=1ycYGuI8SkU">(20) BEST of MARGIN CALL #6 - Fire Sale of Mortgage Bonds - YouTube</a></li>
 <li> 11:26 <a href="https://www.youtube.com/watch?v=RR4_mLmR1FE">(20) BEST of MARGIN CALL #5 - Fire Sale Pep Talk - YouTube</a></li>
 <li> 11:23 blacknerdproblems.com</li>
-<li> 11:22 www.google.com</li>
-<li class='same'> 11:21 www.google.com</li>
+<li> 11:21 www.google.com</li>
 <li> 11:21 <a href="https://xkcd.com/2937/">xkcd: Room Code</a></li>
 <li> 11:21 <a href="https://xkcd.com/2938/">xkcd: Local Group</a></li>
 <li> 11:21 <a href="https://xkcd.com/2939/">xkcd: Complexity Analysis</a></li>
@@ -22204,7 +22209,6 @@ With number of accesses/minutes in parentheses
 <li> 11:18 <a href="https://joereddington.com/Comics/2022-09-14.html">2022-09-14 | Joe’s Comics</a></li>
 <li> 11:18 <a href="https://joereddington.com/Comics/2023-03-10.html">2023-03-10 | Joe’s Comics</a></li>
 <li> 11:18 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
-<li> 11:17 www.google.com</li>
 <li> 11:17 adblockplus.org</li>
 <li> 11:17 www.google.com</li>
 <li> 11:16 <a href="https://www.youtube.com/watch?v=7prnY2FOxns">(20) BEST of MARGIN CALL #4 - Senior Partners Emergency Meeting - YouTube</a></li>
@@ -22247,10 +22251,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:24 www.reddit.com</li>
 <li> 07:24 www.google.com</li>
-<li> 07:24 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
-<li> 07:24 login.microsoftonline.com</li>
-<li> 07:24 www.reddit.com</li>
-<li> 07:24 www.google.com</li>
 <li class='same'> 07:23 www.google.com</li>
 <li> 07:23 support.microsoft.com</li>
 <li> 07:22 www.google.com</li>
@@ -22260,13 +22260,8 @@ With number of accesses/minutes in parentheses
 <li> 07:14 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:13 chatgpt.com</li>
 <li> 07:13 chat.openai.com</li>
-<li> 07:12 rhul-my.sharepoint.com</li>
 <li> 07:12 forms.office.com</li>
 <li class='same'> 07:11 forms.office.com</li>
-<li> 07:11 login.microsoftonline.com</li>
-<li> 07:11 forms.office.com</li>
-<li> 07:11 rhul-my.sharepoint.com</li>
-<li> 07:11 forms.office.com</li>
 <li class='same'> 07:10 forms.office.com</li>
 <li> 07:10 login.microsoftonline.com</li>
 <li> 07:10 forms.office.com</li>
