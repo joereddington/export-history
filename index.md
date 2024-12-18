@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9718)</li>
+<ol><li>www.google.com (9719)</li>
 <li>mail.google.com (6629)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3185)</li>
@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2102)</li>
 <li>calendar.google.com (1599)</li>
 <li>moodle.royalholloway.ac.uk (1585)</li>
-<li>www.reddit.com (1566)</li>
+<li>www.reddit.com (1567)</li>
 <li>www.amazon.co.uk (1289)</li>
-<li>bsky.app (1277)</li>
+<li>bsky.app (1278)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (954)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:37 outlook.office365.com</li>
+<ul><li> 16:41 www.reddit.com</li>
+<li> 16:41 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:39 bsky.app</li>
+<li> 15:37 outlook.office365.com</li>
 <li> 15:08 tvtropes.org</li>
 <li class='same'> 15:06 tvtropes.org</li>
 <li class='same'> 15:01 tvtropes.org</li>
