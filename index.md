@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9715)</li>
+<ol><li>www.google.com (9718)</li>
 <li>mail.google.com (6629)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3185)</li>
-<li>outlook.office365.com (2204)</li>
+<li>outlook.office365.com (2205)</li>
 <li>docs.google.com (2102)</li>
 <li>calendar.google.com (1599)</li>
 <li>moodle.royalholloway.ac.uk (1585)</li>
-<li>www.reddit.com (1565)</li>
+<li>www.reddit.com (1566)</li>
 <li>www.amazon.co.uk (1289)</li>
 <li>bsky.app (1277)</li>
 <li>github.com (1060)</li>
@@ -86,8 +86,8 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (863)</li>
 <li>login.microsoftonline.com (814)</li>
 <li>chat.openai.com (758)</li>
+<li>tvtropes.org (692)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>tvtropes.org (678)</li>
 <li>web.whatsapp.com (594)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (553)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:25 outlook.office365.com</li>
+<ul><li> 15:37 outlook.office365.com</li>
+<li> 15:08 tvtropes.org</li>
+<li class='same'> 15:06 tvtropes.org</li>
+<li class='same'> 15:01 tvtropes.org</li>
+<li class='same'> 14:59 tvtropes.org</li>
+<li class='same'> 14:55 tvtropes.org</li>
+<li class='same'> 14:54 tvtropes.org</li>
+<li class='same'> 14:50 tvtropes.org</li>
+<li class='same'> 14:47 tvtropes.org</li>
+<li class='same'> 14:46 tvtropes.org</li>
+<li class='same'> 14:45 tvtropes.org</li>
+<li class='same'> 14:43 tvtropes.org</li>
+<li class='same'> 14:41 tvtropes.org</li>
+<li class='same'> 14:37 tvtropes.org</li>
+<li class='same'> 14:36 tvtropes.org</li>
+<li> 14:32 customerorder.zen.co.uk</li>
+<li> 14:25 outlook.office365.com</li>
 <li> 14:17 reductress.com</li>
 <li> 14:17 www.jspowerhour.com</li>
 <li> 14:17 <a href="https://xkcd.com/3020/">xkcd: Infinite Armada Chess</a></li>
@@ -1358,6 +1374,20 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 19:59 customerorder.zen.co.uk</li>
+<li> 19:59 www.zen.co.uk</li>
+<li class='same'> 19:58 www.zen.co.uk</li>
+<li> 19:58 www.google.com</li>
+<li> 19:57 www.speedtest.net</li>
+<li> 19:57 forums.moneysavingexpert.com</li>
+<li> 19:56 www.google.com</li>
+<li> 19:55 www.reddit.com</li>
+<li> 19:55 www.google.com</li>
+<li> 19:54 fritz.box</li>
+</ul>
 
 <br>
 
