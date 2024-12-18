@@ -70,25 +70,25 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9719)</li>
 <li>mail.google.com (6629)</li>
-<li>outlook.office.com (3836)</li>
+<li>outlook.office.com (3837)</li>
 <li>www.facebook.com (3185)</li>
-<li>outlook.office365.com (2205)</li>
+<li>outlook.office365.com (2206)</li>
 <li>docs.google.com (2102)</li>
 <li>calendar.google.com (1599)</li>
 <li>moodle.royalholloway.ac.uk (1585)</li>
-<li>www.reddit.com (1567)</li>
+<li>www.reddit.com (1568)</li>
 <li>www.amazon.co.uk (1289)</li>
-<li>bsky.app (1278)</li>
+<li>bsky.app (1280)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (954)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (863)</li>
-<li>login.microsoftonline.com (814)</li>
+<li>login.microsoftonline.com (815)</li>
 <li>chat.openai.com (758)</li>
 <li>tvtropes.org (692)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (594)</li>
+<li>web.whatsapp.com (596)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (553)</li>
 <li>chatgpt.com (530)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:41 www.reddit.com</li>
+<ul><li> 17:53 bsky.app</li>
+<li> 17:53 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:48 bsky.app</li>
+<li> 16:47 outlook.office.com</li>
+<li> 16:46 outlook.office365.com</li>
+<li> 16:46 login.microsoftonline.com</li>
+<li> 16:46 web.whatsapp.com</li>
+<li> 16:46 www.reddit.com</li>
+<li class='same'> 16:41 www.reddit.com</li>
 <li> 16:41 www.google.com</li>
 </ul>
 
