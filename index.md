@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9719)</li>
+<ol><li>www.google.com (9721)</li>
 <li>mail.google.com (6629)</li>
 <li>outlook.office.com (3837)</li>
-<li>www.facebook.com (3185)</li>
+<li>www.facebook.com (3187)</li>
 <li>outlook.office365.com (2206)</li>
 <li>docs.google.com (2102)</li>
 <li>calendar.google.com (1599)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (863)</li>
 <li>login.microsoftonline.com (815)</li>
 <li>chat.openai.com (758)</li>
-<li>tvtropes.org (692)</li>
+<li>tvtropes.org (693)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (596)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:53 bsky.app</li>
+<ul><li> 18:53 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:01 www.facebook.com</li>
+<li class='same'> 18:00 www.facebook.com</li>
+<li> 17:53 bsky.app</li>
 <li> 17:53 web.whatsapp.com</li>
 </ul>
 
@@ -128,7 +135,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:39 bsky.app</li>
 <li> 15:37 outlook.office365.com</li>
-<li> 15:08 tvtropes.org</li>
+<li> 15:17 www.google.com</li>
+<li> 15:16 newsthump.com</li>
+<li> 15:15 theonion.com</li>
+<li> 15:13 tvtropes.org</li>
+<li class='same'> 15:08 tvtropes.org</li>
 <li class='same'> 15:06 tvtropes.org</li>
 <li class='same'> 15:01 tvtropes.org</li>
 <li class='same'> 14:59 tvtropes.org</li>
