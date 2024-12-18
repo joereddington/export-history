@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9700)</li>
-<li>mail.google.com (6593)</li>
+<ol><li>www.google.com (9702)</li>
+<li>mail.google.com (6599)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3167)</li>
-<li>outlook.office365.com (2182)</li>
-<li>docs.google.com (2094)</li>
+<li>outlook.office365.com (2187)</li>
+<li>docs.google.com (2096)</li>
 <li>calendar.google.com (1597)</li>
 <li>moodle.royalholloway.ac.uk (1581)</li>
 <li>www.reddit.com (1562)</li>
@@ -83,16 +83,16 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (950)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (855)</li>
+<li>gmail.com (858)</li>
 <li>login.microsoftonline.com (807)</li>
-<li>chat.openai.com (757)</li>
+<li>chat.openai.com (758)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>tvtropes.org (678)</li>
-<li>web.whatsapp.com (588)</li>
+<li>web.whatsapp.com (589)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>rhul-my.sharepoint.com (549)</li>
-<li>chatgpt.com (525)</li>
-<li>drive.google.com (510)</li>
+<li>rhul-my.sharepoint.com (551)</li>
+<li>chatgpt.com (530)</li>
+<li>drive.google.com (511)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
 <li>kdp.amazon.com (446)</li>
@@ -108,7 +108,67 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:06 moodle.royalholloway.ac.uk</li>
+<ul><li> 10:01 www.evernote.com</li>
+<li> 10:01 www.tax.service.gov.uk</li>
+<li class='same'> 10:00 www.tax.service.gov.uk</li>
+<li> 09:59 www.gov.uk</li>
+<li> 09:58 mail.google.com</li>
+<li> 09:58 gmail.com</li>
+<li> 09:58 www.tax.service.gov.uk</li>
+<li class='same'> 09:57 www.tax.service.gov.uk</li>
+<li class='same'> 09:56 www.tax.service.gov.uk</li>
+<li> 09:52 web.whatsapp.com</li>
+<li> 09:52 www.gov.uk</li>
+<li> 09:52 www.google.com</li>
+<li> 09:48 www.tax.service.gov.uk</li>
+<li class='same'> 09:47 www.tax.service.gov.uk</li>
+<li class='same'> 09:46 www.tax.service.gov.uk</li>
+<li> 09:45 www.access.service.gov.uk</li>
+<li> 09:45 www.tax.service.gov.uk</li>
+<li> 09:45 mail.google.com</li>
+<li> 09:45 gmail.com</li>
+<li> 09:43 chatgpt.com</li>
+<li> 09:42 www.access.service.gov.uk</li>
+<li> 09:42 mail.google.com</li>
+<li> 09:42 www.access.service.gov.uk</li>
+<li class='same'> 09:41 www.access.service.gov.uk</li>
+<li> 09:41 www.tax.service.gov.uk</li>
+<li> 09:40 www.gov.uk</li>
+<li class='same'> 09:39 www.gov.uk</li>
+<li> 09:37 www.access.service.gov.uk</li>
+<li> 09:36 www.evernote.com</li>
+<li class='same'> 09:35 www.evernote.com</li>
+<li class='same'> 09:34 www.evernote.com</li>
+<li> 09:34 accounts.evernote.com</li>
+<li> 09:34 www.evernote.com</li>
+<li> 09:34 evernote.com</li>
+<li> 09:33 www.access.service.gov.uk</li>
+<li> 09:33 www.tax.service.gov.uk</li>
+<li> 09:32 chatgpt.com</li>
+<li class='same'> 09:31 chatgpt.com</li>
+<li> 09:31 accounts.google.com</li>
+<li> 09:31 chatgpt.com</li>
+<li class='same'> 09:29 chatgpt.com</li>
+<li> 09:29 chat.openai.com</li>
+<li> 09:28 docs.google.com</li>
+<li class='same'> 09:26 docs.google.com</li>
+<li> 09:25 drive.google.com</li>
+<li> 09:25 www.gov.uk</li>
+<li class='same'> 09:24 www.gov.uk</li>
+<li> 09:24 mail.google.com</li>
+<li class='same'> 09:23 mail.google.com</li>
+<li> 09:23 jobs.royalholloway.ac.uk</li>
+<li> 09:23 mail.google.com</li>
+<li> 09:23 gmail.com</li>
+<li> 09:23 outlook.office365.com</li>
+<li> 09:21 www.google.com</li>
+<li> 09:18 outlook.office365.com</li>
+<li class='same'> 09:14 outlook.office365.com</li>
+<li class='same'> 09:11 outlook.office365.com</li>
+<li class='same'> 09:09 outlook.office365.com</li>
+<li> 09:09 rhul-my.sharepoint.com</li>
+<li class='same'> 09:08 rhul-my.sharepoint.com</li>
+<li> 09:06 moodle.royalholloway.ac.uk</li>
 <li> 09:06 login.microsoftonline.com</li>
 <li> 09:06 moodle.royalholloway.ac.uk</li>
 <li> 09:06 rhul-my.sharepoint.com</li>
