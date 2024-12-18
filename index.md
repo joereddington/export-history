@@ -72,25 +72,25 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6593)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3167)</li>
-<li>outlook.office365.com (2175)</li>
+<li>outlook.office365.com (2182)</li>
 <li>docs.google.com (2094)</li>
-<li>calendar.google.com (1594)</li>
-<li>moodle.royalholloway.ac.uk (1579)</li>
+<li>calendar.google.com (1597)</li>
+<li>moodle.royalholloway.ac.uk (1581)</li>
 <li>www.reddit.com (1562)</li>
 <li>www.amazon.co.uk (1289)</li>
-<li>bsky.app (1268)</li>
+<li>bsky.app (1269)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (950)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (855)</li>
-<li>login.microsoftonline.com (806)</li>
+<li>login.microsoftonline.com (807)</li>
 <li>chat.openai.com (757)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>tvtropes.org (678)</li>
-<li>web.whatsapp.com (587)</li>
+<li>web.whatsapp.com (588)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>rhul-my.sharepoint.com (547)</li>
+<li>rhul-my.sharepoint.com (549)</li>
 <li>chatgpt.com (525)</li>
 <li>drive.google.com (510)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:27 0.0.0.0:8000</li>
+<ul><li> 09:06 moodle.royalholloway.ac.uk</li>
+<li> 09:06 login.microsoftonline.com</li>
+<li> 09:06 moodle.royalholloway.ac.uk</li>
+<li> 09:06 rhul-my.sharepoint.com</li>
+<li> 09:06 outlook.office365.com</li>
+<li class='same'> 09:05 outlook.office365.com</li>
+<li> 09:04 jobs.royalholloway.ac.uk</li>
+<li> 09:04 outlook.office365.com</li>
+<li> 09:04 jobs.royalholloway.ac.uk</li>
+<li class='same'> 09:03 jobs.royalholloway.ac.uk</li>
+<li> 09:03 outlook.office365.com</li>
+<li> 09:02 calendar.google.com</li>
+<li> 09:01 web.whatsapp.com</li>
+<li> 09:01 calendar.google.com</li>
+<li class='same'> 09:00 calendar.google.com</li>
+<li> 09:00 bsky.app</li>
+<li> 08:57 safeguardingdigital.co.uk</li>
+<li> 08:53 outlook.office365.com</li>
+<li> 08:53 studio.youtube.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:31 outlook.office365.com</li>
+<li> 07:30 rhul-my.sharepoint.com</li>
+<li> 07:29 outlook.office365.com</li>
+<li> 07:27 0.0.0.0:8000</li>
 <li> 07:21 outlook.office365.com</li>
 <li> 07:20 studio.youtube.com</li>
 <li> 07:20 <a href="https://www.youtube.com/">(35) YouTube</a></li>
