@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9708)</li>
-<li>mail.google.com (6607)</li>
+<ol><li>www.google.com (9709)</li>
+<li>mail.google.com (6608)</li>
 <li>outlook.office.com (3836)</li>
 <li>www.facebook.com (3167)</li>
-<li>outlook.office365.com (2187)</li>
-<li>docs.google.com (2100)</li>
+<li>outlook.office365.com (2191)</li>
+<li>docs.google.com (2102)</li>
 <li>calendar.google.com (1597)</li>
 <li>moodle.royalholloway.ac.uk (1581)</li>
 <li>www.reddit.com (1565)</li>
@@ -84,13 +84,13 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (950)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (861)</li>
-<li>login.microsoftonline.com (808)</li>
+<li>login.microsoftonline.com (812)</li>
 <li>chat.openai.com (758)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>tvtropes.org (678)</li>
 <li>web.whatsapp.com (589)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>rhul-my.sharepoint.com (551)</li>
+<li>rhul-my.sharepoint.com (552)</li>
 <li>chatgpt.com (530)</li>
 <li>drive.google.com (514)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:59 www.google.com</li>
+<ul><li> 11:51 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:51 dashboards.rhul.ac.uk</li>
+<li class='same'> 11:50 dashboards.rhul.ac.uk</li>
+<li> 11:49 outlook.office365.com</li>
+<li> 11:43 login.microsoftonline.com</li>
+<li> 11:43 forms.office.com</li>
+<li> 11:43 rhul-my.sharepoint.com</li>
+<li> 11:28 outlook.office365.com</li>
+<li> 11:26 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:26 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:26 login.microsoftonline.com</li>
+<li> 11:26 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:26 experience.elluciancloud.ie</li>
+<li> 11:26 login.microsoftonline.com</li>
+<li> 11:26 experience.elluciancloud.ie</li>
+<li> 11:21 outlook.office365.com</li>
+<li class='same'> 11:18 outlook.office365.com</li>
+<li> 11:18 login.microsoftonline.com</li>
+<li> 11:17 mail.google.com</li>
+<li> 11:16 docs.google.com</li>
+<li class='same'> 11:15 docs.google.com</li>
+<li> 11:13 www.tax.service.gov.uk</li>
+<li class='same'> 11:12 www.tax.service.gov.uk</li>
+<li class='same'> 11:11 www.tax.service.gov.uk</li>
+<li class='same'> 11:10 www.tax.service.gov.uk</li>
+<li class='same'> 11:09 www.tax.service.gov.uk</li>
+<li> 11:09 www.access.service.gov.uk</li>
+<li> 11:07 www.gov.uk</li>
+<li> 11:07 www.google.com</li>
+<li> 11:07 www.access.service.gov.uk</li>
+<li> 11:07 www.tax.service.gov.uk</li>
+<li> 11:06 www.access.service.gov.uk</li>
+<li> 10:59 www.google.com</li>
 <li> 10:57 kdpreports.amazon.com</li>
 <li> 10:55 docs.google.com</li>
 <li> 10:54 www.reddit.com</li>
