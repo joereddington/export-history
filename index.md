@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9698)</li>
-<li>mail.google.com (6587)</li>
+<ol><li>www.google.com (9699)</li>
+<li>mail.google.com (6593)</li>
 <li>outlook.office.com (3836)</li>
-<li>www.facebook.com (3165)</li>
-<li>outlook.office365.com (2171)</li>
+<li>www.facebook.com (3167)</li>
+<li>outlook.office365.com (2172)</li>
 <li>docs.google.com (2090)</li>
-<li>calendar.google.com (1593)</li>
+<li>calendar.google.com (1594)</li>
 <li>moodle.royalholloway.ac.uk (1579)</li>
 <li>www.reddit.com (1562)</li>
 <li>www.amazon.co.uk (1289)</li>
-<li>bsky.app (1267)</li>
+<li>bsky.app (1268)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (950)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (855)</li>
 <li>login.microsoftonline.com (806)</li>
-<li>chat.openai.com (755)</li>
+<li>chat.openai.com (756)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>tvtropes.org (678)</li>
-<li>web.whatsapp.com (586)</li>
+<li>web.whatsapp.com (587)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (547)</li>
-<li>chatgpt.com (520)</li>
+<li>chatgpt.com (523)</li>
 <li>drive.google.com (510)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
@@ -104,7 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 18/12/24</H3>
+
+<br>
+
+<ul><li> 07:07 outlook.office365.com</li>
+<li> 07:07 mail.google.com</li>
+<li class='same'> 06:57 mail.google.com</li>
+<li> 06:55 calendar.google.com</li>
+<li> 06:54 www.facebook.com</li>
+<li class='same'> 06:53 www.facebook.com</li>
+<li> 06:49 mail.google.com</li>
+<li> 06:33 chatgpt.com</li>
+<li class='same'> 06:32 chatgpt.com</li>
+<li> 06:32 chat.openai.com</li>
+<li> 06:25 bsky.app</li>
+<li> 06:25 mail.google.com</li>
+<li> 06:23 <a href="https://en.wikipedia.org/wiki/One-time_pad">One-time pad - Wikipedia</a></li>
+<li> 06:23 www.google.com</li>
+<li> 06:19 web.whatsapp.com</li>
+<li> 06:05 chatgpt.com</li>
+<li> 06:04 mail.google.com</li>
+<li class='same'> 06:03 mail.google.com</li>
+</ul>
+
 <H3>Tuesday, 17/12/24</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
