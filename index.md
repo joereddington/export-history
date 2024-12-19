@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9723)</li>
+<ol><li>www.google.com (9718)</li>
 <li>mail.google.com (6632)</li>
 <li>outlook.office.com (3839)</li>
 <li>www.facebook.com (3187)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (954)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (865)</li>
-<li>login.microsoftonline.com (815)</li>
+<li>login.microsoftonline.com (814)</li>
 <li>chat.openai.com (760)</li>
 <li>tvtropes.org (693)</li>
 <li>whitewaterwriters.com (685)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>teams.microsoft.com (465)</li>
 <li>kdp.amazon.com (447)</li>
 <li>forum.artofmemory.com (408)</li>
-<li>rhul.sharepoint.com (362)</li>
+<li>rhul.sharepoint.com (361)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -22309,7 +22309,6 @@ With number of accesses/minutes in parentheses
 <li> 17:40 www.northyorks.gov.uk</li>
 <li> 17:40 catalogue.exploreyork.org.uk</li>
 <li> 17:40 exploreyork.org.uk</li>
-<li> 17:40 www.google.com</li>
 <li> 17:39 outlook.office.com</li>
 <li class='same'> 17:38 outlook.office.com</li>
 <li class='same'> 17:37 outlook.office.com</li>
@@ -22346,8 +22345,7 @@ With number of accesses/minutes in parentheses
 <li> 15:22 blogs.kent.ac.uk</li>
 <li> 15:22 www.google.com</li>
 <li> 15:22 www.ciisec.org</li>
-<li> 15:22 www.google.com</li>
-<li class='same'> 15:21 www.google.com</li>
+<li> 15:21 www.google.com</li>
 <li> 15:20 outlook.office.com</li>
 <li> 14:54 www.atlanticcouncil.org</li>
 <li class='same'> 14:53 www.atlanticcouncil.org</li>
@@ -22358,17 +22356,13 @@ With number of accesses/minutes in parentheses
 <li> 14:24 otter.ai</li>
 <li> 14:23 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 14:22 webtimetables.royalholloway.ac.uk</li>
-<li> 14:22 www.google.com</li>
-<li class='same'> 14:21 www.google.com</li>
-<li class='same'> 14:16 www.google.com</li>
+<li> 14:21 www.google.com</li>
 <li class='same'> 14:15 www.google.com</li>
 <li> 14:15 www.ciisec.org</li>
 <li> 14:14 www.google.com</li>
 <li> 14:09 otter.ai</li>
 <li> 14:06 rhul.sharepoint.com</li>
 <li class='same'> 14:05 rhul.sharepoint.com</li>
-<li> 14:05 login.microsoftonline.com</li>
-<li> 14:05 rhul.sharepoint.com</li>
 <li> 14:05 rhul-my.sharepoint.com</li>
 <li> 14:04 otter.ai</li>
 <li> 14:04 help.otter.ai</li>
@@ -22482,8 +22476,7 @@ With number of accesses/minutes in parentheses
 <li> 10:55 support.mozilla.org</li>
 <li> 10:55 www.google.com</li>
 <li> 10:55 support.mozilla.org</li>
-<li> 10:54 www.google.com</li>
-<li> 10:53 support.mozilla.org</li>
+<li class='same'> 10:53 support.mozilla.org</li>
 <li> 10:53 www.google.com</li>
 <li> 10:53 virtual-library.culturalservices.net</li>
 <li> 10:53 www.bedford.gov.uk</li>
