@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9722)</li>
-<li>mail.google.com (6629)</li>
-<li>outlook.office.com (3837)</li>
+<ol><li>www.google.com (9723)</li>
+<li>mail.google.com (6632)</li>
+<li>outlook.office.com (3839)</li>
 <li>www.facebook.com (3187)</li>
-<li>outlook.office365.com (2206)</li>
-<li>docs.google.com (2107)</li>
+<li>outlook.office365.com (2207)</li>
+<li>docs.google.com (2108)</li>
 <li>calendar.google.com (1599)</li>
 <li>moodle.royalholloway.ac.uk (1585)</li>
 <li>www.reddit.com (1568)</li>
 <li>www.amazon.co.uk (1297)</li>
-<li>bsky.app (1280)</li>
+<li>bsky.app (1281)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (954)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (863)</li>
+<li>gmail.com (865)</li>
 <li>login.microsoftonline.com (815)</li>
-<li>chat.openai.com (759)</li>
+<li>chat.openai.com (760)</li>
 <li>tvtropes.org (693)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (597)</li>
+<li>web.whatsapp.com (598)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (553)</li>
-<li>chatgpt.com (532)</li>
+<li>chatgpt.com (533)</li>
 <li>drive.google.com (514)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:16 docs.google.com</li>
+<ul><li> 11:09 <a href="https://en.wikipedia.org/wiki/Salt_(cryptography)">Salt (cryptography) - Wikipedia</a></li>
+<li> 11:09 www.google.com</li>
+<li> 11:06 chatgpt.com</li>
+<li> 11:06 chat.openai.com</li>
+<li> 11:05 web.whatsapp.com</li>
+<li> 11:05 outlook.office.com</li>
+<li> 11:03 teams.live.com</li>
+<li class='same'> 11:02 teams.live.com</li>
+<li class='same'> 11:01 teams.live.com</li>
+<li> 10:58 bsky.app</li>
+<li> 10:58 teams.live.com</li>
+<li> 10:58 mail.google.com</li>
+<li class='same'> 10:57 mail.google.com</li>
+<li> 10:57 gmail.com</li>
+<li> 10:57 mail.google.com</li>
+<li> 10:57 gmail.com</li>
+<li> 10:57 outlook.office.com</li>
+<li> 10:57 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:17 docs.google.com</li>
+<li class='same'> 07:16 docs.google.com</li>
 <li> 07:07 files.oaiusercontent.com</li>
 <li> 07:07 docs.google.com</li>
 <li> 07:04 www.amazon.co.uk</li>
