@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9722)</li>
-<li>mail.google.com (6637)</li>
+<ol><li>www.google.com (9724)</li>
+<li>mail.google.com (6639)</li>
 <li>outlook.office.com (3849)</li>
-<li>www.facebook.com (3203)</li>
+<li>www.facebook.com (3207)</li>
 <li>outlook.office365.com (2207)</li>
 <li>docs.google.com (2108)</li>
 <li>calendar.google.com (1599)</li>
 <li>moodle.royalholloway.ac.uk (1585)</li>
 <li>www.reddit.com (1568)</li>
 <li>www.amazon.co.uk (1297)</li>
-<li>bsky.app (1283)</li>
+<li>bsky.app (1286)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (955)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (865)</li>
+<li>gmail.com (866)</li>
 <li>login.microsoftonline.com (815)</li>
 <li>chat.openai.com (760)</li>
 <li>tvtropes.org (693)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (599)</li>
+<li>web.whatsapp.com (600)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (556)</li>
 <li>chatgpt.com (533)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:03 www.facebook.com</li>
+<ul><li> 19:10 us06web.zoom.us</li>
+<li> 19:10 www.google.com</li>
+<li> 19:10 us06web.zoom.us</li>
+<li> 19:10 mail.google.com</li>
+<li> 19:10 bsky.app</li>
+<li> 19:10 mail.google.com</li>
+<li> 19:10 gmail.com</li>
+<li> 18:58 www.facebook.com</li>
+<li class='same'> 18:55 www.facebook.com</li>
+<li class='same'> 18:54 www.facebook.com</li>
+<li> 18:54 web.whatsapp.com</li>
+<li> 18:50 www.google.com</li>
+<li> 18:47 bsky.app</li>
+<li class='same'> 18:44 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 16:05 www.facebook.com</li>
+<li class='same'> 16:03 www.facebook.com</li>
 <li class='same'> 16:02 www.facebook.com</li>
 <li class='same'> 16:01 www.facebook.com</li>
 <li class='same'> 16:00 www.facebook.com</li>
