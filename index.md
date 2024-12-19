@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9718)</li>
+<ol><li>www.google.com (9720)</li>
 <li>mail.google.com (6632)</li>
 <li>outlook.office.com (3839)</li>
 <li>www.facebook.com (3187)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 19/12/24</H3>
+
+<br>
+
+<ul><li> 12:19 www.google.com</li>
+<li> 12:19 www.victorinox.com</li>
+</ul>
 
 <br>
 
@@ -161,7 +167,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:53 www.google.com</li>
+<ul><li> 19:00 www.victorinox.com</li>
+<li class='same'> 18:58 www.victorinox.com</li>
+<li class='same'> 18:55 www.victorinox.com</li>
+<li class='same'> 18:54 www.victorinox.com</li>
+<li> 18:54 www.google.com</li>
+<li> 18:54 www.victorinox.com</li>
+<li class='same'> 18:53 www.victorinox.com</li>
+<li> 18:53 www.google.com</li>
 </ul>
 
 <br>
