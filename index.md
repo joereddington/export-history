@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9734)</li>
-<li>mail.google.com (6639)</li>
+<li>mail.google.com (6642)</li>
 <li>outlook.office.com (3849)</li>
 <li>www.facebook.com (3207)</li>
-<li>outlook.office365.com (2211)</li>
+<li>outlook.office365.com (2214)</li>
 <li>docs.google.com (2135)</li>
-<li>calendar.google.com (1599)</li>
+<li>calendar.google.com (1600)</li>
 <li>moodle.royalholloway.ac.uk (1585)</li>
 <li>www.reddit.com (1573)</li>
-<li>www.amazon.co.uk (1301)</li>
+<li>www.amazon.co.uk (1304)</li>
 <li>bsky.app (1286)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (955)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (866)</li>
+<li>gmail.com (867)</li>
 <li>login.microsoftonline.com (816)</li>
 <li>chat.openai.com (760)</li>
 <li>tvtropes.org (693)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:24 www.tax.service.gov.uk</li>
+<ul><li> 09:47 www.tax.service.gov.uk</li>
+<li class='same'> 09:46 www.tax.service.gov.uk</li>
+<li class='same'> 09:45 www.tax.service.gov.uk</li>
+<li> 09:44 mail.google.com</li>
+<li> 09:44 accounts.youtube.com</li>
+<li> 09:44 accounts.google.co.uk</li>
+<li> 09:44 mail.google.com</li>
+<li> 09:44 accounts.google.com</li>
+<li> 09:44 mail.google.com</li>
+<li> 09:44 accounts.google.com</li>
+<li> 09:44 gmail.com</li>
+<li> 09:44 www.tax.service.gov.uk</li>
+<li class='same'> 09:43 www.tax.service.gov.uk</li>
+<li> 09:43 www.access.service.gov.uk</li>
+<li> 09:43 outlook.office365.com</li>
+<li> 09:42 calendar.google.com</li>
+<li> 09:42 outlook.office365.com</li>
+<li class='same'> 09:41 outlook.office365.com</li>
+<li> 09:40 www.amazon.co.uk</li>
+<li> 09:40 www.access.service.gov.uk</li>
+<li> 09:40 www.tax.service.gov.uk</li>
+<li> 09:40 www.amazon.co.uk</li>
+<li> 09:40 www.access.service.gov.uk</li>
+<li> 09:40 www.amazon.co.uk</li>
+<li> 09:39 www.tax.service.gov.uk</li>
+<li class='same'> 09:24 www.tax.service.gov.uk</li>
 <li> 09:11 www.access.service.gov.uk</li>
 <li> 09:11 www.tax.service.gov.uk</li>
 <li> 09:11 www.access.service.gov.uk</li>
