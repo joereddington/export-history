@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9737)</li>
-<li>mail.google.com (6643)</li>
-<li>outlook.office.com (3849)</li>
+<ol><li>www.google.com (9738)</li>
+<li>mail.google.com (6646)</li>
+<li>outlook.office.com (3858)</li>
 <li>www.facebook.com (3207)</li>
-<li>outlook.office365.com (2214)</li>
+<li>outlook.office365.com (2215)</li>
 <li>docs.google.com (2135)</li>
 <li>calendar.google.com (1600)</li>
 <li>moodle.royalholloway.ac.uk (1585)</li>
 <li>www.reddit.com (1573)</li>
 <li>www.amazon.co.uk (1304)</li>
-<li>bsky.app (1286)</li>
+<li>bsky.app (1287)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (955)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (868)</li>
-<li>login.microsoftonline.com (816)</li>
+<li>login.microsoftonline.com (817)</li>
 <li>chat.openai.com (760)</li>
 <li>tvtropes.org (693)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (600)</li>
+<li>web.whatsapp.com (601)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>rhul-my.sharepoint.com (556)</li>
+<li>rhul-my.sharepoint.com (557)</li>
 <li>chatgpt.com (533)</li>
 <li>drive.google.com (516)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:45 www.google.com</li>
+<ul><li> 11:44 www.google.com</li>
+<li> 11:41 web.whatsapp.com</li>
+<li> 11:41 outlook.office.com</li>
+<li class='same'> 11:39 outlook.office.com</li>
+<li> 11:37 rhul-my.sharepoint.com</li>
+<li> 11:37 outlook.office.com</li>
+<li class='same'> 11:36 outlook.office.com</li>
+<li class='same'> 11:31 outlook.office.com</li>
+<li> 11:30 projects.cs.rhul.ac.uk</li>
+<li> 11:22 outlook.office.com</li>
+<li class='same'> 11:06 outlook.office.com</li>
+<li class='same'> 11:05 outlook.office.com</li>
+<li class='same'> 11:04 outlook.office.com</li>
+<li> 11:04 outlook.office365.com</li>
+<li> 11:04 login.microsoftonline.com</li>
+<li> 11:03 mail.google.com</li>
+<li> 11:03 jamesplaces.us2.list-manage.com</li>
+<li> 11:03 mail.google.com</li>
+<li class='same'> 11:02 mail.google.com</li>
+<li> 11:02 bsky.app</li>
+<li> 10:45 www.google.com</li>
 <li> 10:42 www.tax.service.gov.uk</li>
 <li class='same'> 10:37 www.tax.service.gov.uk</li>
 <li> 10:37 www.access.service.gov.uk</li>
