@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9733)</li>
+<ol><li>www.google.com (9734)</li>
 <li>mail.google.com (6639)</li>
 <li>outlook.office.com (3849)</li>
 <li>www.facebook.com (3207)</li>
-<li>outlook.office365.com (2207)</li>
-<li>docs.google.com (2133)</li>
+<li>outlook.office365.com (2208)</li>
+<li>docs.google.com (2135)</li>
 <li>calendar.google.com (1599)</li>
 <li>moodle.royalholloway.ac.uk (1585)</li>
 <li>www.reddit.com (1573)</li>
-<li>www.amazon.co.uk (1300)</li>
+<li>www.amazon.co.uk (1301)</li>
 <li>bsky.app (1286)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (955)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (866)</li>
-<li>login.microsoftonline.com (815)</li>
+<li>login.microsoftonline.com (816)</li>
 <li>chat.openai.com (760)</li>
 <li>tvtropes.org (693)</li>
 <li>whitewaterwriters.com (685)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (556)</li>
 <li>chatgpt.com (533)</li>
-<li>drive.google.com (514)</li>
+<li>drive.google.com (515)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
 <li>kdp.amazon.com (447)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:59 www.amazon.co.uk</li>
+<ul><li> 09:09 www.tax.service.gov.uk</li>
+<li> 09:09 www.access.service.gov.uk</li>
+<li> 09:09 www.tax.service.gov.uk</li>
+<li> 09:09 outlook.office365.com</li>
+<li> 09:09 login.microsoftonline.com</li>
+<li> 09:09 mail.rhul.ac.uk</li>
+<li> 09:09 www.gov.uk</li>
+<li> 09:08 www.google.com</li>
+<li> 09:04 docs.google.com</li>
+<li> 09:04 drive.google.com</li>
+<li> 09:03 docs.google.com</li>
+<li> 09:00 www.amazon.co.uk</li>
+<li class='same'> 08:59 www.amazon.co.uk</li>
 <li class='same'> 08:58 www.amazon.co.uk</li>
 <li class='same'> 08:57 www.amazon.co.uk</li>
 <li> 08:55 www.bbcgoodfood.com</li>
