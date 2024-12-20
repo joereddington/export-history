@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9746)</li>
-<li>mail.google.com (6656)</li>
+<ol><li>www.google.com (9750)</li>
+<li>mail.google.com (6659)</li>
 <li>outlook.office.com (3862)</li>
-<li>www.facebook.com (3215)</li>
+<li>www.facebook.com (3220)</li>
 <li>outlook.office365.com (2216)</li>
 <li>docs.google.com (2136)</li>
 <li>calendar.google.com (1601)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1573)</li>
+<li>bsky.app (1320)</li>
 <li>www.amazon.co.uk (1304)</li>
-<li>bsky.app (1299)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (957)</li>
 <li>www.theguardian.com (910)</li>
-<li>gmail.com (871)</li>
+<li>gmail.com (872)</li>
 <li>login.microsoftonline.com (818)</li>
 <li>chat.openai.com (761)</li>
 <li>tvtropes.org (693)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (604)</li>
+<li>web.whatsapp.com (605)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (557)</li>
 <li>chatgpt.com (534)</li>
@@ -108,12 +108,52 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:31 www.theguardian.com</li>
+<ul><li> 16:37 www.facebook.com</li>
+<li> 16:36 bsky.app</li>
+<li class='same'> 16:34 bsky.app</li>
+<li> 16:31 web.whatsapp.com</li>
+<li> 16:31 bsky.app</li>
+<li class='same'> 16:30 bsky.app</li>
+<li class='same'> 16:29 bsky.app</li>
+<li class='same'> 16:28 bsky.app</li>
+<li> 16:28 www.google.com</li>
+<li> 16:27 bsky.app</li>
+<li class='same'> 16:26 bsky.app</li>
+<li> 16:26 www.facebook.com</li>
+<li class='same'> 16:23 www.facebook.com</li>
+<li> 16:23 www.google.com</li>
+<li> 16:21 bsky.app</li>
+<li class='same'> 16:20 bsky.app</li>
+<li class='same'> 16:16 bsky.app</li>
+<li class='same'> 16:13 bsky.app</li>
+<li class='same'> 16:10 bsky.app</li>
+<li class='same'> 16:09 bsky.app</li>
+<li> 16:07 www.facebook.com</li>
+<li> 16:05 bsky.app</li>
+<li> 16:03 www.google.com</li>
+<li> 16:03 bsky.app</li>
+<li> 15:55 www.leshuttle.com</li>
+<li> 15:55 www.google.com</li>
+<li> 15:54 bsky.app</li>
+<li class='same'> 15:53 bsky.app</li>
+<li class='same'> 15:52 bsky.app</li>
+<li> 15:52 mail.google.com</li>
+<li> 15:52 bsky.app</li>
 </ul>
 
 <br>
 
-<ul><li> 13:19 www.google.com</li>
+<ul><li> 14:57 mail.google.com</li>
+<li class='same'> 14:56 mail.google.com</li>
+<li> 14:56 gmail.com</li>
+<li> 14:31 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:25 www.facebook.com</li>
+<li> 13:25 bsky.app</li>
+<li> 13:19 www.google.com</li>
 <li> 13:18 bsky.app</li>
 <li class='same'> 13:17 bsky.app</li>
 <li class='same'> 13:15 bsky.app</li>
