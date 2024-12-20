@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9738)</li>
-<li>mail.google.com (6646)</li>
-<li>outlook.office.com (3858)</li>
-<li>www.facebook.com (3207)</li>
+<ol><li>www.google.com (9744)</li>
+<li>mail.google.com (6651)</li>
+<li>outlook.office.com (3860)</li>
+<li>www.facebook.com (3215)</li>
 <li>outlook.office365.com (2215)</li>
-<li>docs.google.com (2135)</li>
-<li>calendar.google.com (1600)</li>
-<li>moodle.royalholloway.ac.uk (1585)</li>
+<li>docs.google.com (2136)</li>
+<li>calendar.google.com (1601)</li>
+<li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1573)</li>
 <li>www.amazon.co.uk (1304)</li>
-<li>bsky.app (1287)</li>
+<li>bsky.app (1293)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (955)</li>
+<li>www.linkedin.com (957)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (868)</li>
-<li>login.microsoftonline.com (817)</li>
-<li>chat.openai.com (760)</li>
+<li>gmail.com (870)</li>
+<li>login.microsoftonline.com (818)</li>
+<li>chat.openai.com (761)</li>
 <li>tvtropes.org (693)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (601)</li>
+<li>web.whatsapp.com (603)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (557)</li>
-<li>chatgpt.com (533)</li>
+<li>chatgpt.com (534)</li>
 <li>drive.google.com (516)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
@@ -108,7 +108,62 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:44 www.google.com</li>
+<ul><li> 12:49 bsky.app</li>
+<li> 12:48 bluesky-thread-composer.pages.dev</li>
+<li> 12:46 www.facebook.com</li>
+<li class='same'> 12:45 www.facebook.com</li>
+<li> 12:45 bluesky-thread-composer.pages.dev</li>
+<li> 12:45 www.facebook.com</li>
+<li> 12:39 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:37 www.facebook.com</li>
+<li> 12:35 calendar.google.com</li>
+<li> 12:31 www.facebook.com</li>
+<li class='same'> 12:30 www.facebook.com</li>
+<li class='same'> 12:21 www.facebook.com</li>
+<li> 12:19 docs.google.com</li>
+<li> 12:14 www.facebook.com</li>
+<li> 12:13 <a href="https://joereddington.com/2024/12/13/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 12:13 mail.google.com</li>
+<li class='same'> 12:12 mail.google.com</li>
+<li> 12:12 gmail.com</li>
+<li> 12:12 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:12 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:11 web.whatsapp.com</li>
+<li> 12:08 bsky.app</li>
+<li> 12:08 mail.google.com</li>
+<li> 12:07 www.google.com</li>
+<li class='same'> 12:06 www.google.com</li>
+<li class='same'> 12:04 www.google.com</li>
+<li class='same'> 12:03 www.google.com</li>
+<li class='same'> 12:02 www.google.com</li>
+<li> 12:02 bsky.app</li>
+<li> 12:02 mail.google.com</li>
+<li class='same'> 12:00 mail.google.com</li>
+<li> 12:00 gmail.com</li>
+<li> 12:00 bsky.app</li>
+<li> 12:00 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 12:00 live.opayo.eu.elavon.com</li>
+<li class='same'> 11:59 live.opayo.eu.elavon.com</li>
+<li class='same'> 11:58 live.opayo.eu.elavon.com</li>
+<li> 11:58 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 11:57 web.whatsapp.com</li>
+<li> 11:55 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 11:55 www.orbitaltrampolinepark.co.uk</li>
+<li> 11:55 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 11:55 www.orbitaltrampolinepark.co.uk</li>
+<li> 11:55 www.google.com</li>
+<li> 11:54 bsky.app</li>
+<li class='same'> 11:53 bsky.app</li>
+<li> 11:53 www.linkedin.com</li>
+<li class='same'> 11:52 www.linkedin.com</li>
+<li> 11:52 moodle.royalholloway.ac.uk</li>
+<li> 11:51 chatgpt.com</li>
+<li> 11:51 chat.openai.com</li>
+<li> 11:50 moodle.royalholloway.ac.uk</li>
+<li> 11:50 login.microsoftonline.com</li>
+<li> 11:49 outlook.office.com</li>
+<li class='same'> 11:48 outlook.office.com</li>
+<li> 11:44 www.google.com</li>
 <li> 11:41 web.whatsapp.com</li>
 <li> 11:41 outlook.office.com</li>
 <li class='same'> 11:39 outlook.office.com</li>
