@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6639)</li>
 <li>outlook.office.com (3849)</li>
 <li>www.facebook.com (3207)</li>
-<li>outlook.office365.com (2208)</li>
+<li>outlook.office365.com (2211)</li>
 <li>docs.google.com (2135)</li>
 <li>calendar.google.com (1599)</li>
 <li>moodle.royalholloway.ac.uk (1585)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:09 www.tax.service.gov.uk</li>
+<ul><li> 09:11 www.access.service.gov.uk</li>
+<li> 09:11 www.tax.service.gov.uk</li>
+<li> 09:11 www.access.service.gov.uk</li>
+<li> 09:11 outlook.office365.com</li>
+<li class='same'> 09:10 outlook.office365.com</li>
+<li class='same'> 09:09 outlook.office365.com</li>
+<li> 09:09 www.tax.service.gov.uk</li>
 <li> 09:09 www.access.service.gov.uk</li>
 <li> 09:09 www.tax.service.gov.uk</li>
 <li> 09:09 outlook.office365.com</li>
