@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9744)</li>
-<li>mail.google.com (6651)</li>
-<li>outlook.office.com (3860)</li>
+<ol><li>www.google.com (9746)</li>
+<li>mail.google.com (6656)</li>
+<li>outlook.office.com (3862)</li>
 <li>www.facebook.com (3215)</li>
-<li>outlook.office365.com (2215)</li>
+<li>outlook.office365.com (2216)</li>
 <li>docs.google.com (2136)</li>
 <li>calendar.google.com (1601)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1573)</li>
 <li>www.amazon.co.uk (1304)</li>
-<li>bsky.app (1293)</li>
+<li>bsky.app (1299)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (957)</li>
 <li>www.theguardian.com (908)</li>
-<li>gmail.com (870)</li>
+<li>gmail.com (871)</li>
 <li>login.microsoftonline.com (818)</li>
 <li>chat.openai.com (761)</li>
 <li>tvtropes.org (693)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (603)</li>
+<li>web.whatsapp.com (604)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (557)</li>
 <li>chatgpt.com (534)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:49 bsky.app</li>
+<ul><li> 13:19 www.google.com</li>
+<li> 13:18 bsky.app</li>
+<li class='same'> 13:17 bsky.app</li>
+<li class='same'> 13:15 bsky.app</li>
+<li class='same'> 13:12 bsky.app</li>
+<li> 13:04 www.google.com</li>
+<li> 12:57 mail.google.com</li>
+<li class='same'> 12:56 mail.google.com</li>
+<li class='same'> 12:55 mail.google.com</li>
+<li> 12:55 web.whatsapp.com</li>
+<li> 12:55 mail.google.com</li>
+<li class='same'> 12:54 mail.google.com</li>
+<li> 12:54 gmail.com</li>
+<li> 12:54 outlook.office.com</li>
+<li> 12:54 outlook.office365.com</li>
+<li> 12:54 outlook.office.com</li>
+<li> 12:52 bsky.app</li>
+<li class='same'> 12:51 bsky.app</li>
+<li class='same'> 12:49 bsky.app</li>
 <li> 12:48 bluesky-thread-composer.pages.dev</li>
 <li> 12:46 www.facebook.com</li>
 <li class='same'> 12:45 www.facebook.com</li>
