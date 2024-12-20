@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9734)</li>
+<ol><li>www.google.com (9735)</li>
 <li>mail.google.com (6643)</li>
 <li>outlook.office.com (3849)</li>
 <li>www.facebook.com (3207)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (955)</li>
 <li>www.theguardian.com (908)</li>
 <li>gmail.com (868)</li>
-<li>login.microsoftonline.com (816)</li>
+<li>login.microsoftonline.com (817)</li>
 <li>chat.openai.com (760)</li>
 <li>tvtropes.org (693)</li>
 <li>whitewaterwriters.com (685)</li>
@@ -108,11 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:59 www.tax.service.gov.uk</li>
+<ul><li> 10:09 www.tax.service.gov.uk</li>
+<li class='same'> 10:08 www.tax.service.gov.uk</li>
+<li class='same'> 10:07 www.tax.service.gov.uk</li>
+<li class='same'> 10:06 www.tax.service.gov.uk</li>
+<li> 10:05 www.google.com</li>
+<li> 10:05 www.tax.service.gov.uk</li>
+<li class='same'> 10:04 www.tax.service.gov.uk</li>
+<li> 10:03 www.gov.uk</li>
+<li> 10:03 www.tax.service.gov.uk</li>
+<li class='same'> 10:02 www.tax.service.gov.uk</li>
+<li class='same'> 10:01 www.tax.service.gov.uk</li>
+<li class='same'> 10:00 www.tax.service.gov.uk</li>
+<li class='same'> 09:59 www.tax.service.gov.uk</li>
 <li class='same'> 09:58 www.tax.service.gov.uk</li>
 <li class='same'> 09:57 www.tax.service.gov.uk</li>
 <li class='same'> 09:56 www.tax.service.gov.uk</li>
 <li class='same'> 09:55 www.tax.service.gov.uk</li>
+<li> 09:55 myview.rhul.zellis.com</li>
+<li class='same'> 09:54 myview.rhul.zellis.com</li>
+<li class='same'> 09:53 myview.rhul.zellis.com</li>
+<li> 09:53 login.microsoftonline.com</li>
+<li> 09:53 myview.rhul.zellis.com</li>
 <li> 09:52 mail.google.com</li>
 <li> 09:52 gmail.com</li>
 <li> 09:47 www.tax.service.gov.uk</li>
