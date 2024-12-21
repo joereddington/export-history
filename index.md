@@ -73,15 +73,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3862)</li>
 <li>www.facebook.com (3224)</li>
 <li>outlook.office365.com (2216)</li>
-<li>docs.google.com (2136)</li>
+<li>docs.google.com (2137)</li>
 <li>calendar.google.com (1602)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1574)</li>
-<li>bsky.app (1328)</li>
-<li>www.amazon.co.uk (1305)</li>
+<li>bsky.app (1333)</li>
+<li>www.amazon.co.uk (1306)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (957)</li>
+<li>www.linkedin.com (959)</li>
 <li>www.theguardian.com (910)</li>
 <li>gmail.com (872)</li>
 <li>login.microsoftonline.com (818)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:43 <a href="https://www.youtube.com/watch?v=4GuEj2ii-m4">(40) Why You Actually Aren't Training To Failure (And You Shouldn't) - YouTube</a></li>
+<ul><li> 07:59 support.google.com</li>
+<li> 07:58 www.amazon.co.uk</li>
+<li> 07:58 docs.google.com</li>
+<li> 07:58 www.linkedin.com</li>
+<li class='same'> 07:57 www.linkedin.com</li>
+<li> 07:57 open.spotify.com</li>
+<li> 07:56 linktr.ee</li>
+<li> 07:56 bsky.app</li>
+<li class='same'> 07:55 bsky.app</li>
+<li class='same'> 07:53 bsky.app</li>
+<li class='same'> 07:52 bsky.app</li>
+<li class='same'> 07:51 bsky.app</li>
+<li> 07:44 <a href="https://www.youtube.com/watch?v=x4u40zmCEd8">(40) Unveiling The Truth: Does Intermittent Fasting Really Deliver Results? - YouTube</a></li>
+<li> 07:43 <a href="https://www.youtube.com/results?search_query=mike+israetel+intermittent+fasting">(40) mike israetel intermittent fasting - YouTube</a></li>
+<li> 07:43 <a href="https://www.youtube.com/watch?v=4GuEj2ii-m4">(40) Why You Actually Aren't Training To Failure (And You Shouldn't) - YouTube</a></li>
 <li> 07:43 <a href="https://www.youtube.com/shorts/c7sl3xYE450">(40) You Can’t Do 38 Pull-Ups - YouTube</a></li>
 <li> 07:43 <a href="https://www.youtube.com/shorts/MJwSxjy3To0">(40) 3 Steps To More Pullups - YouTube</a></li>
 <li> 07:43 <a href="https://www.youtube.com/shorts/c7sl3xYE450">(40) You Can’t Do 38 Pull-Ups - YouTube</a></li>
