@@ -74,11 +74,11 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (3220)</li>
 <li>outlook.office365.com (2216)</li>
 <li>docs.google.com (2136)</li>
-<li>calendar.google.com (1601)</li>
+<li>calendar.google.com (1602)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1573)</li>
-<li>bsky.app (1320)</li>
-<li>www.amazon.co.uk (1304)</li>
+<li>bsky.app (1324)</li>
+<li>www.amazon.co.uk (1305)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (957)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (761)</li>
 <li>tvtropes.org (693)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (605)</li>
+<li>web.whatsapp.com (606)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (557)</li>
 <li>chatgpt.com (534)</li>
@@ -104,16 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 21/12/24</H3>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Friday, 20/12/24</H3>
 
 <br>
 
-<ul><li> 17:23 www.google.com</li>
-</ul>
+<ul></ul>
 
 <br>
 
-<ul><li> 16:37 www.facebook.com</li>
+<ul><li> 17:23 www.google.com</li>
+<li> 17:05 bsky.app</li>
+<li> 17:01 web.whatsapp.com</li>
+<li> 17:01 bsky.app</li>
+<li> 16:59 www.theverge.com</li>
+<li> 16:59 bsky.app</li>
+<li class='same'> 16:58 bsky.app</li>
+<li> 16:57 www.amazon.co.uk</li>
+<li> 16:37 www.facebook.com</li>
 <li> 16:36 bsky.app</li>
 <li class='same'> 16:34 bsky.app</li>
 <li> 16:31 web.whatsapp.com</li>
