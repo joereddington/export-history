@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9752)</li>
+<ol><li>www.google.com (9757)</li>
 <li>mail.google.com (6659)</li>
 <li>outlook.office.com (3862)</li>
 <li>www.facebook.com (3224)</li>
@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2137)</li>
 <li>calendar.google.com (1602)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>www.reddit.com (1574)</li>
+<li>www.reddit.com (1575)</li>
 <li>bsky.app (1333)</li>
-<li>www.amazon.co.uk (1306)</li>
+<li>www.amazon.co.uk (1305)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (959)</li>
@@ -104,7 +104,25 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 22/12/24</H3>
+
+<br>
+
+<ul><li> 07:01 www.google.com</li>
+</ul>
+
 <H3>Saturday, 21/12/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 18:15 www.google.com</li>
+<li> 18:15 <a href="https://joereddington.com/gifts">Gifts I love | Joe Reddington</a></li>
+<li> 18:15 www.google.com</li>
+</ul>
 
 <br>
 
@@ -163,7 +181,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:23 www.google.com</li>
+<ul><li> 22:13 www.google.com</li>
+<li> 22:12 www.reddit.com</li>
+<li> 22:12 www.google.com</li>
+<li> 22:12 place.stepforwardluton.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:23 place.stepforwardluton.co.uk</li>
+<li> 17:23 www.google.com</li>
 <li> 17:05 bsky.app</li>
 <li> 17:01 web.whatsapp.com</li>
 <li> 17:01 bsky.app</li>
@@ -22291,8 +22318,7 @@ With number of accesses/minutes in parentheses
 <li> 18:15 www.goodreads.com</li>
 <li> 18:14 www.reddit.com</li>
 <li> 18:14 www.google.com</li>
-<li> 18:14 www.amazon.co.uk</li>
-<li class='same'> 18:13 www.amazon.co.uk</li>
+<li> 18:13 www.amazon.co.uk</li>
 <li class='same'> 18:12 www.amazon.co.uk</li>
 <li class='same'> 18:11 www.amazon.co.uk</li>
 </ul>
