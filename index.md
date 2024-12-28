@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9768)</li>
-<li>mail.google.com (6661)</li>
+<ol><li>www.google.com (9854)</li>
+<li>mail.google.com (6665)</li>
 <li>outlook.office.com (3862)</li>
-<li>www.facebook.com (3241)</li>
+<li>www.facebook.com (3279)</li>
 <li>outlook.office365.com (2216)</li>
-<li>docs.google.com (2139)</li>
+<li>docs.google.com (2153)</li>
 <li>calendar.google.com (1602)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>www.reddit.com (1576)</li>
-<li>bsky.app (1339)</li>
-<li>www.amazon.co.uk (1305)</li>
+<li>www.reddit.com (1580)</li>
+<li>bsky.app (1365)</li>
+<li>www.amazon.co.uk (1338)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (959)</li>
-<li>www.theguardian.com (910)</li>
-<li>gmail.com (873)</li>
+<li>www.linkedin.com (960)</li>
+<li>www.theguardian.com (917)</li>
+<li>gmail.com (874)</li>
 <li>login.microsoftonline.com (818)</li>
-<li>chat.openai.com (761)</li>
-<li>tvtropes.org (693)</li>
+<li>chat.openai.com (763)</li>
+<li>tvtropes.org (695)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (608)</li>
+<li>web.whatsapp.com (610)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (557)</li>
-<li>chatgpt.com (534)</li>
+<li>chatgpt.com (538)</li>
 <li>drive.google.com (516)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (465)</li>
@@ -104,7 +104,452 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 28/12/24</H3>
+
+<br>
+
+<ul><li> 07:59 www.lawyersgunsmoneyblog.com</li>
+<li> 07:59 bsky.app</li>
+<li class='same'> 07:58 bsky.app</li>
+</ul>
+
+<H3>Friday, 27/12/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:05 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:28 www.poetryfoundation.org</li>
+<li> 20:28 www.google.com</li>
+<li class='same'> 20:27 www.google.com</li>
+<li class='same'> 20:15 www.google.com</li>
+<li> 20:14 www.tolkiensociety.org</li>
+<li class='same'> 20:13 www.tolkiensociety.org</li>
+<li> 20:13 www.google.com</li>
+<li class='same'> 20:10 www.google.com</li>
+<li class='same'> 20:07 www.google.com</li>
+<li> 19:49 www.amazon.co.uk</li>
+<li> 19:48 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:13 www.google.com</li>
+<li> 13:13 www.redbubble.com</li>
+<li> 13:13 www.google.com</li>
+<li> 13:13 rot13.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:03 web.whatsapp.com</li>
+<li> 09:03 docs.google.com</li>
+<li> 09:03 www.facebook.com</li>
+<li> 09:03 bsky.app</li>
+<li> 08:37 www.facebook.com</li>
+<li class='same'> 08:33 www.facebook.com</li>
+<li> 08:30 bsky.app</li>
+<li class='same'> 08:28 bsky.app</li>
+<li> 08:13 docs.google.com</li>
+<li class='same'> 08:12 docs.google.com</li>
+<li> 08:11 www.amazon.co.uk</li>
+<li> 08:11 docs.google.com</li>
+<li class='same'> 08:10 docs.google.com</li>
+<li class='same'> 08:09 docs.google.com</li>
+<li> 08:09 www.facebook.com</li>
+<li class='same'> 08:06 www.facebook.com</li>
+<li> 08:06 bsky.app</li>
+<li> 08:06 www.facebook.com</li>
+<li class='same'> 08:02 www.facebook.com</li>
+<li> 07:53 bsky.app</li>
+<li class='same'> 07:52 bsky.app</li>
+<li class='same'> 07:51 bsky.app</li>
+<li class='same'> 07:50 bsky.app</li>
+<li> 07:50 www.facebook.com</li>
+<li class='same'> 07:49 www.facebook.com</li>
+<li class='same'> 07:48 www.facebook.com</li>
+<li class='same'> 07:47 www.facebook.com</li>
+<li class='same'> 07:46 www.facebook.com</li>
+<li class='same'> 07:45 www.facebook.com</li>
+<li class='same'> 07:44 www.facebook.com</li>
+<li class='same'> 07:43 www.facebook.com</li>
+<li class='same'> 07:42 www.facebook.com</li>
+<li class='same'> 07:41 www.facebook.com</li>
+<li class='same'> 07:40 www.facebook.com</li>
+<li class='same'> 07:39 www.facebook.com</li>
+<li class='same'> 07:38 www.facebook.com</li>
+<li class='same'> 07:37 www.facebook.com</li>
+<li class='same'> 07:36 www.facebook.com</li>
+<li class='same'> 07:35 www.facebook.com</li>
+<li class='same'> 07:33 www.facebook.com</li>
+<li class='same'> 07:32 www.facebook.com</li>
+<li> 07:32 scifier.com</li>
+<li> 07:31 bsky.app</li>
+<li class='same'> 07:30 bsky.app</li>
+<li> 07:28 www.amazon.co.uk</li>
+<li> 07:28 www.google.com</li>
+<li> 07:27 bsky.app</li>
+<li class='same'> 07:26 bsky.app</li>
+<li class='same'> 07:25 bsky.app</li>
+</ul>
+
+<H3>Thursday, 26/12/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:15 bsky.app</li>
+<li> 20:13 bluesky-thread-composer.pages.dev</li>
+<li> 20:13 bsky.app</li>
+<li> 20:13 blueskydirectory.com</li>
+<li> 20:13 www.facebook.com</li>
+<li class='same'> 20:12 www.facebook.com</li>
+<li> 20:11 www.linkedin.com</li>
+<li> 20:10 chatgpt.com</li>
+<li> 20:10 chat.openai.com</li>
+<li> 20:08 www.google.com</li>
+<li> 20:04 www.facebook.com</li>
+<li> 20:02 docs.google.com</li>
+<li class='same'> 20:00 docs.google.com</li>
+<li class='same'> 19:59 docs.google.com</li>
+<li class='same'> 19:58 docs.google.com</li>
+<li> 19:57 <a href="https://joereddington.com/2023/12/19/10-000-pages.html">10,000 pages | Joe Reddington</a></li>
+<li> 19:57 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 19:56 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 19:56 docs.google.com</li>
+<li> 19:42 rot13.com</li>
+<li> 19:42 www.google.com</li>
+<li class='same'> 19:29 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:50 www.amazon.co.uk</li>
+<li> 17:50 www.google.com</li>
+<li> 17:50 www.amazon.co.uk</li>
+<li> 17:45 www.reddit.com</li>
+<li> 17:45 www.google.com</li>
+<li> 17:40 www.amazon.co.uk</li>
+<li class='same'> 17:39 www.amazon.co.uk</li>
+<li> 17:37 docs.google.com</li>
+<li> 17:29 www.amazon.co.uk</li>
+<li class='same'> 17:28 www.amazon.co.uk</li>
+<li class='same'> 17:26 www.amazon.co.uk</li>
+<li class='same'> 17:25 www.amazon.co.uk</li>
+<li class='same'> 17:24 www.amazon.co.uk</li>
+<li> 17:24 www.google.com</li>
+<li> 17:24 www.amazon.co.uk</li>
+<li class='same'> 17:23 www.amazon.co.uk</li>
+<li class='same'> 17:22 www.amazon.co.uk</li>
+<li class='same'> 17:21 www.amazon.co.uk</li>
+<li class='same'> 17:20 www.amazon.co.uk</li>
+<li> 17:20 www.google.com</li>
+<li> 17:18 docs.google.com</li>
+<li> 17:10 www.google.com</li>
+<li> 17:10 www.whatshalfway.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:51 www.whatshalfway.com</li>
+<li> 13:51 www.google.com</li>
+<li class='same'> 13:50 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:55 www.facebook.com</li>
+<li> 09:51 bsky.app</li>
+<li> 09:50 <a href="https://en.wikipedia.org/wiki/The_Body_Keeps_the_Score">The Body Keeps the Score - Wikipedia</a></li>
+<li> 09:50 www.google.com</li>
+<li class='same'> 09:48 www.google.com</li>
+<li class='same'> 09:47 www.google.com</li>
+<li> 09:45 bsky.app</li>
+<li> 09:37 www.tatler.com</li>
+<li> 09:37 www.google.com</li>
+<li class='same'> 09:36 www.google.com</li>
+<li> 09:34 www.amazon.co.uk</li>
+<li class='same'> 09:30 www.amazon.co.uk</li>
+<li> 09:30 www.google.com</li>
+<li class='same'> 09:29 www.google.com</li>
+<li> 09:27 www.amazon.co.uk</li>
+<li class='same'> 09:26 www.amazon.co.uk</li>
+<li class='same'> 09:25 www.amazon.co.uk</li>
+<li class='same'> 09:24 www.amazon.co.uk</li>
+<li> 09:19 www.google.com</li>
+<li class='same'> 09:18 www.google.com</li>
+<li> 09:18 www.amazon.co.uk</li>
+<li class='same'> 09:14 www.amazon.co.uk</li>
+<li> 09:14 www.google.com</li>
+<li class='same'> 09:13 www.google.com</li>
+<li class='same'> 09:10 www.google.com</li>
+<li> 09:10 www.amazon.co.uk</li>
+<li> 09:09 script.google.com</li>
+<li> 09:09 www.amazon.co.uk</li>
+<li> 09:09 script.google.com</li>
+<li> 09:09 www.google.com</li>
+<li> 09:06 chatgpt.com</li>
+<li> 08:58 docs.google.com</li>
+<li> 08:58 www.amazon.co.uk</li>
+<li> 08:58 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:27 www.google.com</li>
+<li class='same'> 07:26 www.google.com</li>
+<li> 07:26 scholar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:08 scholar.google.com</li>
+<li class='same'> 06:07 scholar.google.com</li>
+<li class='same'> 06:06 scholar.google.com</li>
+<li> 06:06 www.google.com</li>
+<li> 05:59 www.amazon.co.uk</li>
+<li> 05:59 www.google.com</li>
+<li> 05:56 amp.theguardian.com</li>
+<li> 05:55 www.google.com</li>
+<li class='same'> 05:53 www.google.com</li>
+</ul>
+
+<H3>Wednesday, 25/12/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:06 www.google.com</li>
+<li class='same'> 21:00 www.google.com</li>
+<li> 21:00 www.gettyimages.co.uk</li>
+<li> 21:00 www.google.com</li>
+<li> 21:00 www.reddit.com</li>
+<li> 20:59 www.google.com</li>
+<li class='same'> 20:47 www.google.com</li>
+<li> 20:47 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:22 www.reddit.com</li>
+<li> 18:22 www.google.com</li>
+<li> 18:20 www.todaysparent.com</li>
+<li class='same'> 18:19 www.todaysparent.com</li>
+<li> 18:19 www.google.com</li>
+<li> 18:03 www.buzzfeed.com</li>
+<li class='same'> 17:51 www.buzzfeed.com</li>
+<li class='same'> 17:50 www.buzzfeed.com</li>
+<li class='same'> 17:47 www.buzzfeed.com</li>
+<li class='same'> 17:44 www.buzzfeed.com</li>
+<li> 17:42 theonion.com</li>
+<li> 17:41 newsthump.com</li>
+<li> 17:30 www.theguardian.com</li>
+<li class='same'> 17:29 www.theguardian.com</li>
+<li class='same'> 17:28 www.theguardian.com</li>
+<li class='same'> 17:01 www.theguardian.com</li>
+<li class='same'> 17:00 www.theguardian.com</li>
+<li class='same'> 16:59 www.theguardian.com</li>
+<li class='same'> 16:58 www.theguardian.com</li>
+<li> 16:58 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:26 www.google.com</li>
+<li> 13:26 volunteer.parkrun.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:37 bsky.app</li>
+<li> 11:37 mail.google.com</li>
+<li> 11:35 www.facebook.com</li>
+<li> 11:32 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:40 volunteer.parkrun.com</li>
+<li> 08:40 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:01 www.google.com</li>
+<li> 08:01 www.artofmanliness.com</li>
+<li> 08:01 www.google.com</li>
+<li> 08:00 m.youtube.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:06 m.youtube.com</li>
+<li> 07:05 www.google.com</li>
+<li> 07:05 www.tiktok.com</li>
+<li> 07:05 www.google.com</li>
+</ul>
+
+<H3>Tuesday, 24/12/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:46 www.google.com</li>
+<li> 21:46 tvtropes.org</li>
+<li> 21:45 www.google.com</li>
+<li> 21:45 reductress.com</li>
+<li> 21:45 lotr.fandom.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:40 lotr.fandom.com</li>
+<li class='same'> 20:38 lotr.fandom.com</li>
+<li> 20:37 www.google.com</li>
+<li class='same'> 20:27 www.google.com</li>
+<li> 19:59 tvtropes.org</li>
+<li> 19:59 www.google.com</li>
+<li> 19:59 plantagreenhouses.com</li>
+<li> 19:44 www.google.com</li>
+<li> 19:42 genius.com</li>
+<li> 19:42 www.google.com</li>
+<li> 19:41 chatgpt.com</li>
+<li class='same'> 19:40 chatgpt.com</li>
+<li> 19:40 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:35 www.facebook.com</li>
+<li> 11:32 bsky.app</li>
+<li class='same'> 11:31 bsky.app</li>
+<li> 11:31 mail.google.com</li>
+<li> 11:15 plantagreenhouses.com</li>
+<li> 11:15 www.google.com</li>
+<li> 11:06 us05web.zoom.us</li>
+<li class='same'> 11:01 us05web.zoom.us</li>
+<li> 11:01 www.google.com</li>
+<li> 11:01 us05web.zoom.us</li>
+<li> 11:01 mail.google.com</li>
+<li> 11:01 gmail.com</li>
+<li> 10:35 agacottages.co.uk</li>
+<li class='same'> 10:33 agacottages.co.uk</li>
+<li> 10:33 www.google.com</li>
+<li> 10:33 agacottages.co.uk</li>
+<li> 10:33 www.google.com</li>
+<li class='same'> 10:32 www.google.com</li>
+<li> 10:18 www.facebook.com</li>
+<li class='same'> 10:17 www.facebook.com</li>
+<li> 10:15 bsky.app</li>
+<li class='same'> 10:14 bsky.app</li>
+<li> 10:12 web.whatsapp.com</li>
+<li> 10:12 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 07:27 www.google.com</li>
+</ul>
+
+<H3>Monday, 23/12/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:37 www.google.com</li>
+<li class='same'> 20:36 www.google.com</li>
+<li class='same'> 20:15 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:01 www.google.com</li>
+<li> 17:01 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:10 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 14:04 www.google.com</li>
+<li> 13:48 www.facebook.com</li>
+<li class='same'> 13:47 www.facebook.com</li>
+<li class='same'> 13:46 www.facebook.com</li>
+<li class='same'> 13:45 www.facebook.com</li>
+<li class='same'> 13:44 www.facebook.com</li>
+<li> 13:43 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 08:34 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:36 www.google.com</li>
+<li class='same'> 06:26 www.google.com</li>
+<li class='same'> 06:25 www.google.com</li>
+</ul>
+
 <H3>Sunday, 22/12/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:42 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 20:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 20:42 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 20:42 lovingitvegan.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:10 lovingitvegan.com</li>
+<li> 20:10 www.google.com</li>
+<li class='same'> 19:54 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:47 www.google.com</li>
+<li> 18:47 www.amazon.co.uk</li>
+<li> 18:47 www.google.com</li>
+<li class='same'> 18:46 www.google.com</li>
+<li> 18:46 groceries.asda.com</li>
+<li> 18:46 www.google.com</li>
+<li> 18:46 groceries.asda.com</li>
+<li class='same'> 18:45 groceries.asda.com</li>
+<li> 18:45 www.google.com</li>
+<li> 18:45 groceries.asda.com</li>
+<li class='same'> 18:44 groceries.asda.com</li>
+<li> 18:43 www.google.com</li>
+<li> 18:43 www.amazon.co.uk</li>
+<li> 18:43 www.google.com</li>
+<li> 18:20 www.amazon.co.uk</li>
+<li class='same'> 18:19 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
