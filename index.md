@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9854)</li>
+<ol><li>www.google.com (9850)</li>
 <li>mail.google.com (6665)</li>
-<li>outlook.office.com (3862)</li>
-<li>www.facebook.com (3285)</li>
+<li>outlook.office.com (3861)</li>
+<li>www.facebook.com (3288)</li>
 <li>outlook.office365.com (2216)</li>
 <li>docs.google.com (2156)</li>
 <li>calendar.google.com (1602)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1580)</li>
-<li>bsky.app (1366)</li>
+<li>bsky.app (1367)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (963)</li>
+<li>www.linkedin.com (964)</li>
 <li>www.theguardian.com (917)</li>
 <li>gmail.com (874)</li>
 <li>login.microsoftonline.com (818)</li>
 <li>chat.openai.com (763)</li>
 <li>tvtropes.org (695)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (611)</li>
+<li>web.whatsapp.com (612)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>rhul-my.sharepoint.com (557)</li>
+<li>rhul-my.sharepoint.com (553)</li>
 <li>chatgpt.com (538)</li>
 <li>drive.google.com (516)</li>
 <li>en.m.wikipedia.org (491)</li>
-<li>teams.microsoft.com (465)</li>
+<li>teams.microsoft.com (464)</li>
 <li>kdp.amazon.com (447)</li>
 <li>forum.artofmemory.com (408)</li>
 <li>rhul.sharepoint.com (361)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:19 www.facebook.com</li>
+<ul><li> 08:27 www.ebay.co.uk</li>
+<li> 08:27 web.whatsapp.com</li>
+<li> 08:25 www.facebook.com</li>
+<li class='same'> 08:23 www.facebook.com</li>
+<li class='same'> 08:22 www.facebook.com</li>
+<li> 08:22 www.instagram.com</li>
+<li> 08:21 bsky.app</li>
+<li> 08:21 www.linkedin.com</li>
+<li> 08:19 www.facebook.com</li>
 <li class='same'> 08:16 www.facebook.com</li>
 <li class='same'> 08:13 www.facebook.com</li>
 <li> 08:13 web.whatsapp.com</li>
@@ -22044,21 +22052,16 @@ With number of accesses/minutes in parentheses
 <li> 07:18 www.google.com</li>
 <li> 07:17 docs.google.com</li>
 <li class='same'> 07:16 docs.google.com</li>
-<li> 07:13 doc-0o-04-docstext.googleusercontent.com</li>
-<li> 07:13 docs.google.com</li>
+<li class='same'> 07:13 docs.google.com</li>
 <li> 07:13 drive.google.com</li>
 <li> 07:12 equalitytime.co.uk</li>
 <li> 07:12 equalitytime.github.io</li>
 <li> 07:12 claude.ai</li>
 <li> 07:07 docs.google.com</li>
 <li> 07:06 drive.google.com</li>
-<li> 07:06 gds.google.com</li>
-<li> 07:06 accounts.google.com</li>
 <li> 06:59 myaccount.google.com</li>
 <li> 06:59 gds.google.com</li>
 <li> 06:59 accounts.google.com</li>
-<li class='same'> 06:58 accounts.google.com</li>
-<li class='same'> 06:57 accounts.google.com</li>
 <li> 06:56 www.sidechef.com</li>
 <li> 06:56 www.google.com</li>
 <li> 06:56 drive.google.com</li>
@@ -22095,11 +22098,9 @@ With number of accesses/minutes in parentheses
 <li> 06:04 outlook.office.com</li>
 <li class='same'> 06:03 outlook.office.com</li>
 <li> 06:01 projects.cs.rhul.ac.uk</li>
-<li> 05:54 scholar.google.com</li>
 <li> 05:53 www.amazon.co.uk</li>
 <li> 05:53 kdp.amazon.com</li>
-<li> 05:53 scholar.google.com</li>
-<li class='same'> 05:52 scholar.google.com</li>
+<li> 05:52 scholar.google.com</li>
 <li class='same'> 05:51 scholar.google.com</li>
 <li> 05:51 www.google.com</li>
 <li> 05:49 outlook.office.com</li>
@@ -22297,7 +22298,6 @@ With number of accesses/minutes in parentheses
 <li> 16:03 www.google.com</li>
 <li> 15:44 rhul-my.sharepoint.com</li>
 <li> 15:42 intranet.royalholloway.ac.uk</li>
-<li> 15:42 www.google.com</li>
 <li> 15:42 royalholloway.ac.uk</li>
 <li> 15:41 intranet.royalholloway.ac.uk</li>
 <li> 15:41 www.google.com</li>
@@ -22305,11 +22305,9 @@ With number of accesses/minutes in parentheses
 <li> 15:41 royalhollowayucu.wordpress.com</li>
 <li> 15:40 www.google.com</li>
 <li> 15:40 www.royalholloway.ac.uk</li>
-<li> 15:40 www.google.com</li>
-<li class='same'> 15:39 www.google.com</li>
+<li> 15:39 www.google.com</li>
 <li> 15:39 intranet.royalholloway.ac.uk</li>
 <li> 15:36 rhul-my.sharepoint.com</li>
-<li class='same'> 15:34 rhul-my.sharepoint.com</li>
 <li> 15:31 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 15:30 webtimetables.royalholloway.ac.uk</li>
 <li> 15:27 rhul-my.sharepoint.com</li>
@@ -22406,7 +22404,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:56 calendar.google.com</li>
 <li> 10:56 www.royalholloway.ac.uk</li>
 <li> 10:56 www.google.com</li>
-<li> 10:54 rhul-my.sharepoint.com</li>
 <li> 10:54 calendar.google.com</li>
 <li class='same'> 10:53 calendar.google.com</li>
 <li> 10:52 rhul-my.sharepoint.com</li>
@@ -22418,8 +22415,7 @@ With number of accesses/minutes in parentheses
 <li> 10:48 mail.google.com</li>
 <li> 10:47 outlook.office.com</li>
 <li> 10:47 teams.microsoft.com</li>
-<li> 10:47 outlook.office.com</li>
-<li class='same'> 10:46 outlook.office.com</li>
+<li> 10:46 outlook.office.com</li>
 <li> 10:45 claude.ai</li>
 <li class='same'> 10:44 claude.ai</li>
 <li class='same'> 10:43 claude.ai</li>
@@ -22454,13 +22450,11 @@ With number of accesses/minutes in parentheses
 <li> 07:19 mail.google.com</li>
 <li> 07:18 chatgpt.com</li>
 <li> 07:18 auth0.openai.com</li>
-<li> 07:18 auth.openai.com</li>
 <li> 07:18 chatgpt.com</li>
 <li class='same'> 07:17 chatgpt.com</li>
 <li> 07:17 whitewaterwriters.com</li>
 <li> 07:17 mail.google.com</li>
 <li class='same'> 07:16 mail.google.com</li>
-<li> 07:16 us06web.zoom.us</li>
 <li> 07:16 zoom.us</li>
 <li> 07:16 www.google.com</li>
 <li> 07:16 mail.google.com</li>
@@ -22620,7 +22614,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:29 outlook.office.com</li>
 <li class='same'> 13:27 outlook.office.com</li>
 <li> 13:24 claude.ai</li>
-<li> 13:24 rhul-my.sharepoint.com</li>
 <li> 13:24 intranet.royalholloway.ac.uk</li>
 <li class='same'> 13:23 intranet.royalholloway.ac.uk</li>
 <li> 13:22 www.royalholloway.ac.uk</li>
@@ -22643,7 +22636,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:12 rhul-my.sharepoint.com</li>
 <li class='same'> 13:11 rhul-my.sharepoint.com</li>
 <li class='same'> 13:10 rhul-my.sharepoint.com</li>
-<li class='same'> 13:09 rhul-my.sharepoint.com</li>
 <li> 13:08 mail.google.com</li>
 <li> 13:08 intranet.royalholloway.ac.uk</li>
 <li> 13:08 www.google.com</li>
@@ -22729,8 +22721,6 @@ With number of accesses/minutes in parentheses
 <li> 10:56 whitewaterwriters.com</li>
 <li class='same'> 10:52 whitewaterwriters.com</li>
 <li> 10:30 teams.microsoft.com</li>
-<li> 10:30 www.google.com</li>
-<li> 10:30 teams.microsoft.com</li>
 <li> 10:21 outlook.office.com</li>
 <li class='same'> 10:20 outlook.office.com</li>
 <li class='same'> 10:19 outlook.office.com</li>
@@ -22755,8 +22745,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:35 www.google.com</li>
-<li> 07:30 chatgpt.com</li>
+<ul><li> 07:30 chatgpt.com</li>
 <li class='same'> 07:29 chatgpt.com</li>
 <li> 07:29 chat.openai.com</li>
 <li> 07:27 iopscience.iop.org</li>
