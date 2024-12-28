@@ -71,17 +71,17 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9854)</li>
 <li>mail.google.com (6665)</li>
 <li>outlook.office.com (3862)</li>
-<li>www.facebook.com (3279)</li>
+<li>www.facebook.com (3282)</li>
 <li>outlook.office365.com (2216)</li>
 <li>docs.google.com (2153)</li>
 <li>calendar.google.com (1602)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1580)</li>
-<li>bsky.app (1365)</li>
+<li>bsky.app (1366)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (960)</li>
+<li>www.linkedin.com (963)</li>
 <li>www.theguardian.com (917)</li>
 <li>gmail.com (874)</li>
 <li>login.microsoftonline.com (818)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:59 www.lawyersgunsmoneyblog.com</li>
+<ul><li> 08:09 www.facebook.com</li>
+<li> 08:07 www.linkedin.com</li>
+<li class='same'> 08:05 www.linkedin.com</li>
+<li class='same'> 08:04 www.linkedin.com</li>
+<li> 08:04 www.instagram.com</li>
+<li class='same'> 08:03 www.instagram.com</li>
+<li> 08:03 www.facebook.com</li>
+<li class='same'> 08:02 www.facebook.com</li>
+<li> 08:01 bsky.app</li>
+<li> 07:59 www.lawyersgunsmoneyblog.com</li>
 <li> 07:59 bsky.app</li>
 <li class='same'> 07:58 bsky.app</li>
 </ul>
