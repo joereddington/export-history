@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1602)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1580)</li>
-<li>bsky.app (1367)</li>
+<li>bsky.app (1370)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:27 www.ebay.co.uk</li>
+<ul><li> 08:32 bsky.app</li>
+<li class='same'> 08:29 bsky.app</li>
+<li class='same'> 08:28 bsky.app</li>
+<li> 08:27 www.ebay.co.uk</li>
 <li> 08:27 web.whatsapp.com</li>
 <li> 08:25 www.facebook.com</li>
 <li class='same'> 08:23 www.facebook.com</li>
