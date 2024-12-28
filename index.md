@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (964)</li>
-<li>www.theguardian.com (917)</li>
+<li>www.theguardian.com (921)</li>
 <li>gmail.com (874)</li>
 <li>login.microsoftonline.com (818)</li>
 <li>chat.openai.com (763)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:32 bsky.app</li>
+<ul><li> 16:37 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:06 www.theguardian.com</li>
+<li class='same'> 16:04 www.theguardian.com</li>
+<li class='same'> 16:03 www.theguardian.com</li>
+<li> 16:03 www.goodhousekeeping.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:43 www.goodhousekeeping.com</li>
+<li> 08:32 bsky.app</li>
 <li class='same'> 08:29 bsky.app</li>
 <li class='same'> 08:28 bsky.app</li>
 <li> 08:27 www.ebay.co.uk</li>
@@ -140,6 +154,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:58 bsky.app</li>
 </ul>
 
+<br>
+
+<ul><li> 06:55 www.cmlibrary.org</li>
+</ul>
+
 <H3>Friday, 27/12/24</H3>
 
 <br>
@@ -148,7 +167,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:05 www.google.com</li>
+<ul><li class='same'> 21:06 www.cmlibrary.org</li>
+<li class='same'> 21:05 www.cmlibrary.org</li>
+<li> 21:05 www.google.com</li>
 </ul>
 
 <br>
