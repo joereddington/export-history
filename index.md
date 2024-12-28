@@ -71,9 +71,9 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9854)</li>
 <li>mail.google.com (6665)</li>
 <li>outlook.office.com (3862)</li>
-<li>www.facebook.com (3282)</li>
+<li>www.facebook.com (3285)</li>
 <li>outlook.office365.com (2216)</li>
-<li>docs.google.com (2153)</li>
+<li>docs.google.com (2156)</li>
 <li>calendar.google.com (1602)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1580)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (763)</li>
 <li>tvtropes.org (695)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (610)</li>
+<li>web.whatsapp.com (611)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (557)</li>
 <li>chatgpt.com (538)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:09 www.facebook.com</li>
+<ul><li> 08:19 www.facebook.com</li>
+<li class='same'> 08:16 www.facebook.com</li>
+<li class='same'> 08:13 www.facebook.com</li>
+<li> 08:13 web.whatsapp.com</li>
+<li> 08:12 docs.google.com</li>
+<li class='same'> 08:11 docs.google.com</li>
+<li class='same'> 08:10 docs.google.com</li>
+<li> 08:09 www.facebook.com</li>
 <li> 08:07 www.linkedin.com</li>
 <li class='same'> 08:05 www.linkedin.com</li>
 <li class='same'> 08:04 www.linkedin.com</li>
