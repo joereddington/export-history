@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9850)</li>
+<ol><li>www.google.com (9847)</li>
 <li>mail.google.com (6665)</li>
-<li>outlook.office.com (3861)</li>
+<li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3288)</li>
 <li>outlook.office365.com (2216)</li>
 <li>docs.google.com (2156)</li>
@@ -84,20 +84,20 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (964)</li>
 <li>www.theguardian.com (921)</li>
 <li>gmail.com (874)</li>
-<li>login.microsoftonline.com (818)</li>
+<li>login.microsoftonline.com (814)</li>
 <li>chat.openai.com (763)</li>
 <li>tvtropes.org (695)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (612)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>rhul-my.sharepoint.com (553)</li>
+<li>rhul-my.sharepoint.com (550)</li>
 <li>chatgpt.com (538)</li>
 <li>drive.google.com (516)</li>
 <li>en.m.wikipedia.org (491)</li>
-<li>teams.microsoft.com (464)</li>
+<li>teams.microsoft.com (463)</li>
 <li>kdp.amazon.com (447)</li>
 <li>forum.artofmemory.com (408)</li>
-<li>rhul.sharepoint.com (361)</li>
+<li>rhul.sharepoint.com (360)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -21381,9 +21381,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:52 outlook.office.com</li>
 <li> 15:52 www.expedia.co.uk</li>
 <li class='same'> 15:50 www.expedia.co.uk</li>
-<li class='same'> 15:49 www.expedia.co.uk</li>
 <li class='same'> 15:48 www.expedia.co.uk</li>
-<li class='same'> 15:47 www.expedia.co.uk</li>
 <li class='same'> 15:46 www.expedia.co.uk</li>
 <li class='same'> 15:45 www.expedia.co.uk</li>
 <li> 15:45 www.google.com</li>
@@ -21421,8 +21419,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:45 outlook.office.com</li>
 <li> 14:45 rhul.sharepoint.com</li>
 <li class='same'> 14:44 rhul.sharepoint.com</li>
-<li> 14:44 login.microsoftonline.com</li>
-<li> 14:44 rhul.sharepoint.com</li>
 <li> 14:44 outlook.office.com</li>
 <li class='same'> 14:43 outlook.office.com</li>
 <li class='same'> 14:42 outlook.office.com</li>
@@ -21461,7 +21457,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:23 easychair.org</li>
 <li class='same'> 14:22 easychair.org</li>
 <li> 14:22 outlook.office.com</li>
-<li class='same'> 14:21 outlook.office.com</li>
 <li class='same'> 14:20 outlook.office.com</li>
 <li> 14:19 www.google.com</li>
 <li> 14:19 forms.office.com</li>
@@ -21528,7 +21523,6 @@ With number of accesses/minutes in parentheses
 <li> 09:13 moodle.royalholloway.ac.uk</li>
 <li> 09:12 rhul-my.sharepoint.com</li>
 <li class='same'> 09:11 rhul-my.sharepoint.com</li>
-<li class='same'> 09:05 rhul-my.sharepoint.com</li>
 <li> 09:01 www.natesilver.net</li>
 <li> 09:00 www.google.com</li>
 <li> 09:00 twitter.com</li>
@@ -21549,7 +21543,6 @@ With number of accesses/minutes in parentheses
 <li> 07:52 en.wiktionary.org</li>
 <li> 07:34 outlook.office.com</li>
 <li class='same'> 07:32 outlook.office.com</li>
-<li> 07:31 rhul-my.sharepoint.com</li>
 <li> 07:31 forms.office.com</li>
 <li class='same'> 07:28 forms.office.com</li>
 <li> 07:28 login.microsoftonline.com</li>
@@ -21609,11 +21602,6 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 16:10 www.linkedin.com</li>
 <li> 16:10 outlook.office.com</li>
 <li> 16:10 mail.google.com</li>
-<li> 16:05 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
-<li> 16:05 login.microsoftonline.com</li>
-<li> 16:02 forms.office.com</li>
-<li> 16:02 login.microsoftonline.com</li>
-<li> 16:02 rhul-my.sharepoint.com</li>
 <li> 16:02 forms.office.com</li>
 <li> 16:02 login.microsoftonline.com</li>
 <li> 16:02 forms.office.com</li>
@@ -21627,8 +21615,6 @@ With number of accesses/minutes in parentheses
 <li> 14:52 claude.ai</li>
 <li> 14:52 csrc.nist.gov</li>
 <li> 14:52 www.linkedin.com</li>
-<li> 14:52 teams.microsoft.com</li>
-<li> 14:52 login.microsoftonline.com</li>
 <li> 14:52 teams.microsoft.com</li>
 <li> 14:51 outlook.office.com</li>
 <li> 14:51 claude.ai</li>
@@ -21663,8 +21649,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:26 mail.google.com</li>
 <li> 11:25 rhul-my.sharepoint.com</li>
-<li> 11:25 outlook.office.com</li>
-<li class='same'> 11:24 outlook.office.com</li>
+<li> 11:24 outlook.office.com</li>
 <li> 11:20 projects.cs.rhul.ac.uk</li>
 <li> 11:20 outlook.office.com</li>
 <li class='same'> 11:19 outlook.office.com</li>
@@ -21720,7 +21705,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:48 us06web.zoom.us</li>
 <li> 16:47 mail.google.com</li>
 <li> 16:47 gmail.com</li>
-<li> 16:47 us06web.zoom.us</li>
 <li> 16:47 www.zoom.us</li>
 <li> 16:47 www.zoom.com</li>
 <li> 16:47 www.google.com</li>
@@ -21879,7 +21863,6 @@ With number of accesses/minutes in parentheses
 <li> 13:19 outlook.office.com</li>
 <li class='same'> 13:18 outlook.office.com</li>
 <li> 13:18 claude.ai</li>
-<li> 13:18 www.expedia.co.uk</li>
 <li> 13:17 mail.google.com</li>
 <li> 13:17 calendar.google.com</li>
 <li> 13:17 mail.google.com</li>
@@ -21896,8 +21879,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:27 mail.google.com</li>
 <li> 12:27 gmail.com</li>
 <li> 12:26 mail.google.com</li>
-<li> 12:25 www.expedia.co.uk</li>
-<li> 12:23 mail.google.com</li>
+<li class='same'> 12:23 mail.google.com</li>
 <li> 12:22 www.expedia.co.uk</li>
 <li> 12:22 www.google.com</li>
 <li> 12:20 mail.google.com</li>
@@ -21980,13 +21962,10 @@ With number of accesses/minutes in parentheses
 <li> 10:35 <a href="https://en.wikipedia.org/wiki/Advance_HE#Historical_Activities:_Subject_Centres">Advance HE - Wikipedia</a></li>
 <li> 10:34 <a href="https://en.wikipedia.org/w/index.php?title=Advance_HE&action=edit&section=11">Editing Advance HE - Wikipedia</a></li>
 <li> 10:33 <a href="https://en.wikipedia.org/wiki/Advance_HE">Advance HE - Wikipedia</a></li>
-<li> 10:33 www.google.com</li>
 <li> 10:33 hear.ac.uk</li>
-<li> 10:32 www.google.com</li>
 <li> 10:32 mail.google.com</li>
 <li class='same'> 10:31 mail.google.com</li>
-<li> 10:31 www.google.com</li>
-<li class='same'> 10:30 www.google.com</li>
+<li> 10:30 www.google.com</li>
 <li> 10:30 www.advance-he.ac.uk</li>
 <li> 10:30 mail.google.com</li>
 <li class='same'> 10:29 mail.google.com</li>
