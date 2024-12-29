@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9851)</li>
-<li>mail.google.com (6667)</li>
+<ol><li>www.google.com (9853)</li>
+<li>mail.google.com (6668)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3288)</li>
 <li>outlook.office365.com (2216)</li>
 <li>docs.google.com (2156)</li>
-<li>calendar.google.com (1602)</li>
+<li>calendar.google.com (1603)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1580)</li>
 <li>bsky.app (1370)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (763)</li>
 <li>tvtropes.org (695)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (612)</li>
+<li>web.whatsapp.com (613)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (550)</li>
 <li>chatgpt.com (538)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:29 www.parkrun.org.uk</li>
+<ul><li> 13:34 www.google.com</li>
+<li class='same'> 13:33 www.google.com</li>
+<li> 13:33 maps.app.goo.gl</li>
+<li> 13:32 mail.google.com</li>
+<li> 13:31 www.parkrun.org.uk</li>
+<li class='same'> 13:30 www.parkrun.org.uk</li>
+<li> 13:30 web.whatsapp.com</li>
+<li> 13:30 calendar.google.com</li>
+<li> 13:29 www.parkrun.org.uk</li>
 <li> 13:29 www.parkrun.com</li>
 <li> 13:29 www.google.com</li>
 <li> 13:29 www.parkrun.com</li>
