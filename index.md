@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (9856)</li>
-<li>mail.google.com (6671)</li>
+<li>mail.google.com (6672)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3291)</li>
 <li>outlook.office365.com (2216)</li>
-<li>docs.google.com (2157)</li>
+<li>docs.google.com (2161)</li>
 <li>calendar.google.com (1603)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>www.reddit.com (1580)</li>
-<li>bsky.app (1377)</li>
+<li>www.reddit.com (1581)</li>
+<li>bsky.app (1380)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (964)</li>
+<li>www.linkedin.com (966)</li>
 <li>www.theguardian.com (921)</li>
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (814)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:32 www.tesco.com</li>
+<ul><li> 16:42 bsky.app</li>
+<li> 16:42 pay.ebay.co.uk</li>
+<li> 16:42 www.ebay.co.uk</li>
+<li> 16:42 pay.ebay.co.uk</li>
+<li> 16:42 www.ebay.co.uk</li>
+<li> 16:41 mail.google.com</li>
+<li> 16:41 www.reddit.com</li>
+<li> 16:41 www.linkedin.com</li>
+<li class='same'> 16:40 www.linkedin.com</li>
+<li> 16:39 bsky.app</li>
+<li> 16:39 docs.google.com</li>
+<li> 16:38 bsky.app</li>
+<li> 16:36 docs.google.com</li>
+<li class='same'> 16:35 docs.google.com</li>
+<li class='same'> 16:34 docs.google.com</li>
+<li> 16:32 www.tesco.com</li>
 <li> 16:32 bsky.app</li>
 <li> 16:32 www.google.com</li>
 <li> 16:32 blueskydirectory.com</li>
