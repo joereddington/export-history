@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9861)</li>
+<ol><li>www.google.com (9867)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3296)</li>
+<li>www.facebook.com (3307)</li>
 <li>outlook.office365.com (2216)</li>
-<li>docs.google.com (2187)</li>
+<li>docs.google.com (2195)</li>
 <li>calendar.google.com (1603)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>www.reddit.com (1581)</li>
-<li>bsky.app (1385)</li>
+<li>www.reddit.com (1584)</li>
+<li>bsky.app (1387)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (811)</li>
 <li>chat.openai.com (765)</li>
-<li>tvtropes.org (695)</li>
+<li>tvtropes.org (696)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (613)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:47 www.facebook.com</li>
+<ul><li> 08:40 bsky.app</li>
+<li class='same'> 08:39 bsky.app</li>
+<li> 08:36 www.facebook.com</li>
+<li> 08:35 docs.google.com</li>
+<li class='same'> 08:34 docs.google.com</li>
+<li class='same'> 08:33 docs.google.com</li>
+<li class='same'> 08:32 docs.google.com</li>
+<li class='same'> 08:30 docs.google.com</li>
+<li> 08:29 www.google.com</li>
+<li> 08:29 www.tesco.com</li>
+<li> 08:29 www.google.com</li>
+<li> 08:27 www.tesco.com</li>
+<li class='same'> 08:26 www.tesco.com</li>
+<li class='same'> 08:24 www.tesco.com</li>
+<li> 08:24 www.google.com</li>
+<li> 08:21 docs.google.com</li>
+<li class='same'> 08:20 docs.google.com</li>
+<li class='same'> 08:03 docs.google.com</li>
+<li> 08:03 www.facebook.com</li>
+<li class='same'> 08:02 www.facebook.com</li>
+<li class='same'> 08:01 www.facebook.com</li>
+<li class='same'> 08:00 www.facebook.com</li>
+<li class='same'> 07:58 www.facebook.com</li>
+<li class='same'> 07:57 www.facebook.com</li>
+<li class='same'> 07:56 www.facebook.com</li>
+<li class='same'> 07:54 www.facebook.com</li>
+<li class='same'> 07:53 www.facebook.com</li>
+<li class='same'> 07:52 www.facebook.com</li>
+<li class='same'> 07:47 www.facebook.com</li>
 <li> 07:45 docs.google.com</li>
 <li> 07:43 <a href="https://en.wikipedia.org/wiki/Blood_sugar_level">Blood sugar level - Wikipedia</a></li>
 <li> 07:43 www.google.com</li>
@@ -141,7 +169,10 @@ With number of accesses/minutes in parentheses
 <li> 06:57 www.ocado.com</li>
 <li> 06:57 docs.google.com</li>
 <li> 06:56 www.facebook.com</li>
-<li class='same'> 06:41 www.facebook.com</li>
+<li> 06:44 tvtropes.org</li>
+<li> 06:44 www.google.com</li>
+<li> 06:44 www.instagram.com</li>
+<li> 06:41 www.facebook.com</li>
 <li> 06:40 docs.google.com</li>
 <li> 06:37 bsky.app</li>
 <li class='same'> 06:35 bsky.app</li>
@@ -178,6 +209,11 @@ With number of accesses/minutes in parentheses
 <li> 20:20 docs.google.com</li>
 <li> 20:20 www.instagram.com</li>
 <li> 20:20 www.google.com</li>
+<li> 19:54 www.instagram.com</li>
+<li class='same'> 19:53 www.instagram.com</li>
+<li> 19:52 www.eatingwell.com</li>
+<li class='same'> 19:51 www.eatingwell.com</li>
+<li> 19:51 www.google.com</li>
 </ul>
 
 <br>
@@ -243,7 +279,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:46 www.google.com</li>
+<ul><li> 12:18 www.reddit.com</li>
+<li> 12:18 www.google.com</li>
+<li> 12:18 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:46 www.reddit.com</li>
+<li> 07:46 www.google.com</li>
 </ul>
 
 <H3>Saturday, 28/12/24</H3>
