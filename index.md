@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9867)</li>
+<ol><li>www.google.com (9872)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3307)</li>
+<li>www.facebook.com (3308)</li>
 <li>outlook.office365.com (2216)</li>
-<li>docs.google.com (2195)</li>
+<li>docs.google.com (2215)</li>
 <li>calendar.google.com (1603)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>www.reddit.com (1584)</li>
-<li>bsky.app (1387)</li>
+<li>www.reddit.com (1586)</li>
+<li>bsky.app (1388)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (968)</li>
+<li>www.linkedin.com (969)</li>
 <li>www.theguardian.com (921)</li>
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (811)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (549)</li>
 <li>chatgpt.com (540)</li>
-<li>drive.google.com (517)</li>
+<li>drive.google.com (518)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (463)</li>
 <li>kdp.amazon.com (447)</li>
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:40 bsky.app</li>
+<ul><li> 09:49 www.reddit.com</li>
+<li class='same'> 09:48 www.reddit.com</li>
+<li> 09:48 docs.google.com</li>
+<li class='same'> 09:47 docs.google.com</li>
+<li> 09:46 bsky.app</li>
+<li> 09:43 docs.google.com</li>
+<li> 09:43 drive.google.com</li>
+<li> 09:41 docs.google.com</li>
+<li class='same'> 09:40 docs.google.com</li>
+<li class='same'> 09:39 docs.google.com</li>
+<li class='same'> 09:38 docs.google.com</li>
+<li class='same'> 09:37 docs.google.com</li>
+<li class='same'> 09:36 docs.google.com</li>
+<li class='same'> 09:34 docs.google.com</li>
+<li> 09:32 www.google.com</li>
+<li class='same'> 09:29 www.google.com</li>
+<li> 09:19 docs.google.com</li>
+<li class='same'> 09:12 docs.google.com</li>
+<li class='same'> 09:09 docs.google.com</li>
+<li class='same'> 09:08 docs.google.com</li>
+<li class='same'> 09:07 docs.google.com</li>
+<li class='same'> 09:06 docs.google.com</li>
+<li class='same'> 09:05 docs.google.com</li>
+<li class='same'> 09:00 docs.google.com</li>
+<li class='same'> 08:59 docs.google.com</li>
+<li> 08:58 www.vidrate.com</li>
+<li> 08:58 www.google.com</li>
+<li> 08:57 www.tesco.com</li>
+<li> 08:57 docs.google.com</li>
+<li> 08:53 www.google.com</li>
+<li> 08:53 officeofadamthede.com</li>
+<li> 08:53 www.google.com</li>
+<li> 08:44 www.linkedin.com</li>
+<li> 08:41 www.facebook.com</li>
+<li> 08:40 bsky.app</li>
 <li class='same'> 08:39 bsky.app</li>
 <li> 08:36 www.facebook.com</li>
 <li> 08:35 docs.google.com</li>
