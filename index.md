@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9862)</li>
+<ol><li>www.google.com (9861)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3296)</li>
@@ -84,13 +84,13 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (968)</li>
 <li>www.theguardian.com (921)</li>
 <li>gmail.com (875)</li>
-<li>login.microsoftonline.com (814)</li>
+<li>login.microsoftonline.com (811)</li>
 <li>chat.openai.com (765)</li>
 <li>tvtropes.org (695)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (613)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>rhul-my.sharepoint.com (550)</li>
+<li>rhul-my.sharepoint.com (549)</li>
 <li>chatgpt.com (540)</li>
 <li>drive.google.com (517)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -21006,7 +21006,6 @@ With number of accesses/minutes in parentheses
 <li> 15:38 www.google.com</li>
 <li> 15:34 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 15:34 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 15:34 login.microsoftonline.com</li>
 <li> 15:34 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 15:33 mail.google.com</li>
 <li> 15:33 gmail.com</li>
@@ -21040,7 +21039,6 @@ With number of accesses/minutes in parentheses
 <li> 14:37 intranet.royalholloway.ac.uk</li>
 <li> 14:37 outlook.office.com</li>
 <li> 14:37 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 14:37 login.microsoftonline.com</li>
 <li> 14:37 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 14:37 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 14:37 intranet.royalholloway.ac.uk</li>
@@ -21078,8 +21076,7 @@ With number of accesses/minutes in parentheses
 <li> 12:22 mail.google.com</li>
 <li> 12:22 gmail.com</li>
 <li> 12:22 my.advance-he.ac.uk</li>
-<li> 12:22 advanceheb2c.b2clogin.com</li>
-<li class='same'> 12:21 advanceheb2c.b2clogin.com</li>
+<li> 12:21 advanceheb2c.b2clogin.com</li>
 <li> 12:21 my.advance-he.ac.uk</li>
 <li> 12:21 outlook.office365.com</li>
 <li class='same'> 12:14 outlook.office365.com</li>
@@ -21108,7 +21105,6 @@ With number of accesses/minutes in parentheses
 <li> 11:27 docs.google.com</li>
 <li class='same'> 11:20 docs.google.com</li>
 <li> 11:18 www.theguardian.com</li>
-<li> 11:18 www.google.com</li>
 <li> 11:18 <a href="https://www.bbc.co.uk/news/articles/cq8xvw4pe52o">UK aid spending may hit 17-year low, charities warn - BBC News</a></li>
 <li> 11:18 www.google.com</li>
 <li> 11:16 docs.google.com</li>
@@ -21131,9 +21127,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:45 studio.youtube.com</li>
 <li> 10:45 <a href="https://www.youtube.com/">(40) YouTube</a></li>
 <li> 10:41 www.google.com</li>
-<li> 10:40 forms.office.com</li>
-<li> 10:40 login.microsoftonline.com</li>
-<li> 10:40 rhul-my.sharepoint.com</li>
 <li> 10:40 forms.office.com</li>
 <li> 10:40 login.microsoftonline.com</li>
 <li> 10:40 forms.office.com</li>
@@ -21184,7 +21177,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:55 www.facebook.com</li>
 <li class='same'> 09:52 www.facebook.com</li>
 <li> 09:52 www.google.com</li>
-<li> 09:52 l.facebook.com</li>
 <li> 09:51 www.facebook.com</li>
 <li> 09:51 outlook.office365.com</li>
 <li> 09:50 mail.google.com</li>
