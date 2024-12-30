@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9874)</li>
+<ol><li>www.google.com (9878)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3310)</li>
-<li>docs.google.com (2221)</li>
+<li>docs.google.com (2226)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1603)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1586)</li>
-<li>bsky.app (1390)</li>
+<li>bsky.app (1391)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (765)</li>
 <li>tvtropes.org (698)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (614)</li>
+<li>web.whatsapp.com (615)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (549)</li>
 <li>chatgpt.com (540)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:27 docs.google.com</li>
+<ul><li> 15:33 web.whatsapp.com</li>
+<li> 15:32 bsky.app</li>
+<li> 15:31 docs.google.com</li>
+<li> 15:30 www.nutritionix.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:36 www.google.com</li>
+<li> 12:35 docs.google.com</li>
+<li class='same'> 12:34 docs.google.com</li>
+<li class='same'> 12:33 docs.google.com</li>
+<li> 12:32 www.google.com</li>
+<li> 12:32 www.nutritionix.com</li>
+<li> 12:32 www.google.com</li>
+<li> 12:32 www.tesco.com</li>
+<li> 12:32 docs.google.com</li>
+<li> 12:31 www.tesco.com</li>
+<li> 12:30 www.google.com</li>
+<li> 12:27 docs.google.com</li>
 <li> 12:27 www.tesco.com</li>
 <li class='same'> 12:26 www.tesco.com</li>
 <li> 12:26 www.google.com</li>
