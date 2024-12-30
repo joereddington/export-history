@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (811)</li>
 <li>chat.openai.com (765)</li>
-<li>tvtropes.org (696)</li>
+<li>tvtropes.org (698)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (613)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -140,6 +140,8 @@ With number of accesses/minutes in parentheses
 <li> 08:53 www.google.com</li>
 <li> 08:53 officeofadamthede.com</li>
 <li> 08:53 www.google.com</li>
+<li> 08:49 tvtropes.org</li>
+<li class='same'> 08:48 tvtropes.org</li>
 <li> 08:44 www.linkedin.com</li>
 <li> 08:41 www.facebook.com</li>
 <li> 08:40 bsky.app</li>
