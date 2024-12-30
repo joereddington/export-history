@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9878)</li>
+<ol><li>www.google.com (9882)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3310)</li>
-<li>docs.google.com (2226)</li>
+<li>www.facebook.com (3312)</li>
+<li>docs.google.com (2242)</li>
 <li>outlook.office365.com (2216)</li>
-<li>calendar.google.com (1603)</li>
+<li>calendar.google.com (1604)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1586)</li>
-<li>bsky.app (1391)</li>
+<li>bsky.app (1392)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (765)</li>
 <li>tvtropes.org (698)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (615)</li>
+<li>web.whatsapp.com (616)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (549)</li>
 <li>chatgpt.com (540)</li>
@@ -105,6 +105,38 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 30/12/24</H3>
+
+<br>
+
+<ul><li> 16:43 docs.google.com</li>
+<li class='same'> 16:42 docs.google.com</li>
+<li class='same'> 16:41 docs.google.com</li>
+<li class='same'> 16:40 docs.google.com</li>
+<li class='same'> 16:39 docs.google.com</li>
+<li class='same'> 16:38 docs.google.com</li>
+<li class='same'> 16:37 docs.google.com</li>
+<li> 16:37 www.google.com</li>
+<li> 16:35 docs.google.com</li>
+<li> 16:35 www.google.com</li>
+<li> 16:33 web.whatsapp.com</li>
+<li> 16:29 www.facebook.com</li>
+<li> 16:29 docs.google.com</li>
+<li class='same'> 16:28 docs.google.com</li>
+<li class='same'> 16:27 docs.google.com</li>
+<li class='same'> 16:24 docs.google.com</li>
+<li> 16:24 <a href="https://en.wikipedia.org/wiki/Dopamine">Dopamine - Wikipedia</a></li>
+<li> 16:24 www.google.com</li>
+<li> 16:23 papers.ssrn.com</li>
+<li> 16:23 bsky.app</li>
+<li> 16:21 calendar.google.com</li>
+<li> 16:20 www.facebook.com</li>
+<li> 16:19 docs.google.com</li>
+<li class='same'> 16:17 docs.google.com</li>
+<li class='same'> 16:16 docs.google.com</li>
+<li class='same'> 16:14 docs.google.com</li>
+<li> 16:14 www.tesco.com</li>
+<li> 16:14 www.google.com</li>
+</ul>
 
 <br>
 
