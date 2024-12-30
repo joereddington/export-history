@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9858)</li>
+<ol><li>www.google.com (9862)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3293)</li>
+<li>www.facebook.com (3296)</li>
 <li>outlook.office365.com (2216)</li>
-<li>docs.google.com (2165)</li>
+<li>docs.google.com (2187)</li>
 <li>calendar.google.com (1603)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1581)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:41 www.facebook.com</li>
+<ul><li> 07:47 www.facebook.com</li>
+<li> 07:45 docs.google.com</li>
+<li> 07:43 <a href="https://en.wikipedia.org/wiki/Blood_sugar_level">Blood sugar level - Wikipedia</a></li>
+<li> 07:43 www.google.com</li>
+<li> 07:41 docs.google.com</li>
+<li class='same'> 07:40 docs.google.com</li>
+<li class='same'> 07:39 docs.google.com</li>
+<li class='same'> 07:38 docs.google.com</li>
+<li class='same'> 07:23 docs.google.com</li>
+<li class='same'> 07:18 docs.google.com</li>
+<li> 07:15 www.facebook.com</li>
+<li> 07:14 docs.google.com</li>
+<li class='same'> 07:13 docs.google.com</li>
+<li class='same'> 07:12 docs.google.com</li>
+<li class='same'> 07:11 docs.google.com</li>
+<li> 07:10 www.tesco.com</li>
+<li> 07:10 www.google.com</li>
+<li> 07:10 docs.google.com</li>
+<li class='same'> 07:09 docs.google.com</li>
+<li class='same'> 07:08 docs.google.com</li>
+<li class='same'> 07:07 docs.google.com</li>
+<li class='same'> 07:06 docs.google.com</li>
+<li class='same'> 07:05 docs.google.com</li>
+<li> 07:03 www.tesco.com</li>
+<li> 07:03 www.google.com</li>
+<li class='same'> 07:02 www.google.com</li>
+<li> 07:02 docs.google.com</li>
+<li class='same'> 07:01 docs.google.com</li>
+<li class='same'> 07:00 docs.google.com</li>
+<li class='same'> 06:57 docs.google.com</li>
+<li> 06:57 www.ocado.com</li>
+<li> 06:57 docs.google.com</li>
+<li> 06:56 www.facebook.com</li>
+<li class='same'> 06:41 www.facebook.com</li>
 <li> 06:40 docs.google.com</li>
 <li> 06:37 bsky.app</li>
 <li class='same'> 06:35 bsky.app</li>
