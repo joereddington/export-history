@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9856)</li>
-<li>mail.google.com (6672)</li>
+<ol><li>www.google.com (9858)</li>
+<li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3291)</li>
+<li>www.facebook.com (3293)</li>
 <li>outlook.office365.com (2216)</li>
-<li>docs.google.com (2161)</li>
+<li>docs.google.com (2165)</li>
 <li>calendar.google.com (1603)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>www.reddit.com (1581)</li>
-<li>bsky.app (1380)</li>
+<li>bsky.app (1385)</li>
 <li>www.amazon.co.uk (1338)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (966)</li>
+<li>www.linkedin.com (968)</li>
 <li>www.theguardian.com (921)</li>
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (814)</li>
-<li>chat.openai.com (764)</li>
+<li>chat.openai.com (765)</li>
 <li>tvtropes.org (695)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (613)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (550)</li>
-<li>chatgpt.com (539)</li>
+<li>chatgpt.com (540)</li>
 <li>drive.google.com (517)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (463)</li>
@@ -104,7 +104,48 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 30/12/24</H3>
+
+<br>
+
+<ul><li> 06:41 www.facebook.com</li>
+<li> 06:40 docs.google.com</li>
+<li> 06:37 bsky.app</li>
+<li class='same'> 06:35 bsky.app</li>
+<li class='same'> 06:34 bsky.app</li>
+<li> 06:33 <a href="https://xkcd.com/">xkcd: Lasering Incidents</a></li>
+<li> 06:33 www.giantitp.com</li>
+<li> 06:33 www.linkedin.com</li>
+<li class='same'> 06:32 www.linkedin.com</li>
+<li> 06:32 www.facebook.com</li>
+<li> 06:31 bsky.app</li>
+<li> 06:31 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 05:19 docs.google.com</li>
+</ul>
+
 <H3>Sunday, 29/12/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:25 bsky.app</li>
+<li> 20:24 www.ocado.com</li>
+<li> 20:24 www.google.com</li>
+<li> 20:23 docs.google.com</li>
+<li> 20:22 chatgpt.com</li>
+<li> 20:22 chat.openai.com</li>
+<li> 20:21 www.yahoo.com</li>
+<li> 20:20 docs.google.com</li>
+<li> 20:20 www.instagram.com</li>
+<li> 20:20 www.google.com</li>
+</ul>
 
 <br>
 
