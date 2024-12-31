@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3324)</li>
-<li>docs.google.com (2269)</li>
+<li>docs.google.com (2271)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1605)</li>
 <li>www.reddit.com (1593)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1339)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (971)</li>
+<li>www.linkedin.com (974)</li>
 <li>www.theguardian.com (921)</li>
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (808)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:14 www.tesco.com</li>
+<ul><li> 14:19 www.linkedin.com</li>
+<li class='same'> 14:18 www.linkedin.com</li>
+<li class='same'> 14:17 www.linkedin.com</li>
+<li> 14:17 docs.google.com</li>
+<li class='same'> 14:16 docs.google.com</li>
+<li> 14:16 www.tesco.com</li>
+<li class='same'> 14:15 www.tesco.com</li>
+<li class='same'> 14:14 www.tesco.com</li>
 <li> 14:13 bsky.app</li>
 <li> 14:13 www.tesco.com</li>
 <li class='same'> 14:12 www.tesco.com</li>
