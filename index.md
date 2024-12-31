@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9882)</li>
+<ol><li>www.google.com (9878)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3312)</li>
-<li>docs.google.com (2242)</li>
+<li>www.facebook.com (3311)</li>
+<li>docs.google.com (2244)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1604)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
@@ -84,13 +84,13 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (969)</li>
 <li>www.theguardian.com (921)</li>
 <li>gmail.com (875)</li>
-<li>login.microsoftonline.com (811)</li>
+<li>login.microsoftonline.com (808)</li>
 <li>chat.openai.com (765)</li>
 <li>tvtropes.org (698)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (616)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>rhul-my.sharepoint.com (549)</li>
+<li>rhul-my.sharepoint.com (547)</li>
 <li>chatgpt.com (540)</li>
 <li>drive.google.com (518)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:43 docs.google.com</li>
+<ul><li> 16:46 docs.google.com</li>
+<li class='same'> 16:44 docs.google.com</li>
+<li class='same'> 16:43 docs.google.com</li>
 <li class='same'> 16:42 docs.google.com</li>
 <li class='same'> 16:41 docs.google.com</li>
 <li class='same'> 16:40 docs.google.com</li>
@@ -20802,9 +20804,7 @@ With number of accesses/minutes in parentheses
 <li> 18:24 www.amazon.co.uk</li>
 <li class='same'> 18:23 www.amazon.co.uk</li>
 <li> 18:23 www.ebooks.com</li>
-<li> 18:22 www.google.com</li>
 <li> 18:22 play.google.com</li>
-<li> 18:21 www.google.com</li>
 <li> 18:20 wtf.tw</li>
 <li> 18:20 www.google.com</li>
 <li> 18:20 www.amazon.co.uk</li>
@@ -20914,7 +20914,6 @@ With number of accesses/minutes in parentheses
 <li> 14:37 <a href="https://joereddington.com/2021/01/28/Finder-Zero-You-use-far-fewer-files-than-you-think,-so-stop-hoarding-them.html">Finder Zero - You use far fewer files than you think, so stop hoarding them | Joe Reddington</a></li>
 <li> 14:35 www.google.com</li>
 <li> 14:32 superuser.com</li>
-<li> 14:32 www.google.com</li>
 <li> 14:31 outlook.office365.com</li>
 <li> 14:31 www.google.com</li>
 <li class='same'> 14:11 www.google.com</li>
@@ -20952,20 +20951,14 @@ With number of accesses/minutes in parentheses
 <li> 13:12 login.microsoftonline.com</li>
 <li> 13:12 eee-api-eu-west-1.10005.elluciancloud.ie</li>
 <li> 13:12 www.facebook.com</li>
-<li> 13:12 experience.elluciancloud.ie</li>
-<li> 13:12 www.facebook.com</li>
 <li> 13:11 www.slido.com</li>
-<li> 13:11 l.facebook.com</li>
 <li> 13:09 www.facebook.com</li>
 <li> 13:09 outlook.office365.com</li>
 <li> 12:40 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 12:40 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 12:40 login.microsoftonline.com</li>
 <li> 12:40 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 12:40 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 12:18 royalholloway.ac.uk</li>
-<li> 12:13 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 12:13 login.microsoftonline.com</li>
 <li> 12:13 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 12:13 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 12:13 experience.elluciancloud.ie</li>
@@ -20984,7 +20977,6 @@ With number of accesses/minutes in parentheses
 <li> 11:27 www.google.com</li>
 <li class='same'> 11:26 www.google.com</li>
 <li> 11:05 outlook.office.com</li>
-<li> 10:54 rhul-my.sharepoint.com</li>
 <li> 10:46 www.google.com</li>
 <li> 10:45 learn.microsoft.com</li>
 <li> 10:45 www.google.com</li>
@@ -21004,7 +20996,6 @@ With number of accesses/minutes in parentheses
 <li> 09:38 www.google.com</li>
 <li> 09:38 rhul-my.sharepoint.com</li>
 <li class='same'> 09:37 rhul-my.sharepoint.com</li>
-<li> 09:37 login.microsoftonline.com</li>
 <li> 09:37 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
 <li> 09:37 outlook.office.com</li>
 <li> 09:37 outlook.office365.com</li>
@@ -21018,14 +21009,12 @@ With number of accesses/minutes in parentheses
 <li> 09:34 learn.microsoft.com</li>
 <li> 09:34 www.google.com</li>
 <li class='same'> 09:31 www.google.com</li>
-<li> 09:31 rhul-my.sharepoint.com</li>
 <li> 09:31 forms.office.com</li>
 <li> 09:30 rhul-my.sharepoint.com</li>
 <li> 09:30 docs.google.com</li>
 <li> 09:30 drive.google.com</li>
 <li> 09:28 www.google.com</li>
 <li> 09:27 www.reddit.com</li>
-<li> 09:27 www.google.com</li>
 <li> 09:26 ubuntu-mate.community</li>
 <li> 09:26 support.google.com</li>
 <li> 09:25 www.mozilla.org</li>
@@ -21034,7 +21023,6 @@ With number of accesses/minutes in parentheses
 <li> 09:24 chat.openai.com</li>
 <li> 09:23 support.mozilla.org</li>
 <li> 09:23 www.google.com</li>
-<li> 09:23 login.microsoftonline.com</li>
 <li> 09:23 forms.office.com</li>
 <li> 09:22 rhul-my.sharepoint.com</li>
 <li> 09:22 login.microsoftonline.com</li>
