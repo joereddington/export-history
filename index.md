@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9878)</li>
+<ol><li>www.google.com (9892)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3311)</li>
-<li>docs.google.com (2244)</li>
+<li>www.facebook.com (3319)</li>
+<li>docs.google.com (2265)</li>
 <li>outlook.office365.com (2216)</li>
-<li>calendar.google.com (1604)</li>
+<li>calendar.google.com (1605)</li>
+<li>www.reddit.com (1593)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>www.reddit.com (1586)</li>
-<li>bsky.app (1392)</li>
-<li>www.amazon.co.uk (1338)</li>
+<li>bsky.app (1401)</li>
+<li>www.amazon.co.uk (1339)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (969)</li>
+<li>www.linkedin.com (971)</li>
 <li>www.theguardian.com (921)</li>
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (808)</li>
-<li>chat.openai.com (765)</li>
+<li>chat.openai.com (766)</li>
 <li>tvtropes.org (698)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (616)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (547)</li>
-<li>chatgpt.com (540)</li>
+<li>chatgpt.com (541)</li>
 <li>drive.google.com (518)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (463)</li>
@@ -104,7 +104,114 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 31/12/24</H3>
+
+<br>
+
+<ul><li> 09:31 www.tesco.com</li>
+<li> 09:30 www.healthline.com</li>
+<li> 09:30 www.google.com</li>
+<li> 09:30 www.amazon.co.uk</li>
+<li> 09:30 www.google.com</li>
+<li> 09:29 docs.google.com</li>
+<li> 09:29 www.tesco.com</li>
+<li> 09:28 docs.google.com</li>
+<li class='same'> 09:27 docs.google.com</li>
+<li class='same'> 09:26 docs.google.com</li>
+<li> 09:26 www.google.com</li>
+<li> 09:26 www.tesco.com</li>
+<li> 09:26 www.google.com</li>
+<li> 09:25 www.tesco.com</li>
+<li> 09:25 www.google.com</li>
+<li> 09:25 www.tesco.com</li>
+<li> 09:25 www.google.com</li>
+<li> 09:24 www.tesco.com</li>
+<li> 09:24 www.google.com</li>
+<li> 09:24 www.tesco.com</li>
+<li> 09:23 docs.google.com</li>
+<li> 09:22 www.tesco.com</li>
+<li> 09:22 docs.google.com</li>
+<li class='same'> 09:21 docs.google.com</li>
+<li> 09:20 bsky.app</li>
+<li> 09:20 www.reddit.com</li>
+<li class='same'> 09:19 www.reddit.com</li>
+<li class='same'> 09:18 www.reddit.com</li>
+<li> 09:18 www.facebook.com</li>
+<li class='same'> 09:17 www.facebook.com</li>
+<li class='same'> 09:16 www.facebook.com</li>
+<li> 09:16 www.giantitp.com</li>
+<li> 09:15 docs.google.com</li>
+<li class='same'> 09:14 docs.google.com</li>
+<li> 09:14 www.tesco.com</li>
+<li> 09:13 docs.google.com</li>
+<li> 09:12 www.tesco.com</li>
+<li> 09:12 www.google.com</li>
+<li> 09:11 bsky.app</li>
+<li> 09:10 mainemapleproducers.com</li>
+<li> 09:10 www.google.com</li>
+<li> 09:10 docs.google.com</li>
+<li> 09:01 bsky.app</li>
+<li> 09:00 docs.google.com</li>
+<li> 09:00 chatgpt.com</li>
+<li> 09:00 chat.openai.com</li>
+<li> 09:00 www.theppk.com</li>
+<li> 09:00 www.google.com</li>
+<li> 08:59 docs.google.com</li>
+<li> 08:58 www.facebook.com</li>
+<li class='same'> 08:57 www.facebook.com</li>
+<li class='same'> 08:56 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:56 calendar.google.com</li>
+</ul>
+
 <H3>Monday, 30/12/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:42 www.linkedin.com</li>
+<li> 21:41 www.acdwyer.co.uk</li>
+<li> 21:41 www.linkedin.com</li>
+<li> 21:40 www.reddit.com</li>
+<li> 21:38 www.facebook.com</li>
+<li> 21:38 bsky.app</li>
+<li class='same'> 21:37 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 20:09 onedaytests.com</li>
+<li> 20:08 www.google.com</li>
+<li> 20:07 www.reddit.com</li>
+<li class='same'> 20:06 www.reddit.com</li>
+<li class='same'> 20:05 www.reddit.com</li>
+<li> 20:02 bsky.app</li>
+<li class='same'> 19:59 bsky.app</li>
+<li class='same'> 19:57 bsky.app</li>
+<li> 19:52 docs.google.com</li>
+<li class='same'> 19:51 docs.google.com</li>
+<li class='same'> 19:50 docs.google.com</li>
+<li> 19:50 www.sainsburys.co.uk</li>
+<li> 19:50 www.google.com</li>
+<li> 19:50 docs.google.com</li>
+<li class='same'> 19:49 docs.google.com</li>
+<li> 19:48 www.nutritionix.com</li>
+<li> 19:48 www.google.com</li>
+<li> 19:48 docs.google.com</li>
+<li class='same'> 19:47 docs.google.com</li>
+<li> 19:46 www.tesco.com</li>
+<li> 19:46 docs.google.com</li>
+<li> 19:46 www.tesco.com</li>
+<li> 19:46 www.google.com</li>
+<li> 19:45 www.facebook.com</li>
+<li> 19:45 bsky.app</li>
+</ul>
 
 <br>
 
