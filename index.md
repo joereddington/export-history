@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9893)</li>
+<ol><li>www.google.com (9895)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3320)</li>
-<li>docs.google.com (2266)</li>
+<li>www.facebook.com (3324)</li>
+<li>docs.google.com (2269)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1605)</li>
 <li>www.reddit.com (1593)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>bsky.app (1401)</li>
+<li>bsky.app (1405)</li>
 <li>www.amazon.co.uk (1339)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
@@ -105,6 +105,36 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 31/12/24</H3>
+
+<br>
+
+<ul><li> 14:14 www.tesco.com</li>
+<li> 14:13 bsky.app</li>
+<li> 14:13 www.tesco.com</li>
+<li class='same'> 14:12 www.tesco.com</li>
+<li> 14:12 docs.google.com</li>
+<li> 14:12 www.tesco.com</li>
+<li class='same'> 14:11 www.tesco.com</li>
+<li> 14:11 www.google.com</li>
+<li class='same'> 14:08 www.google.com</li>
+<li> 14:07 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:30 www.facebook.com</li>
+<li class='same'> 13:29 www.facebook.com</li>
+<li> 13:29 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 11:21 www.facebook.com</li>
+<li class='same'> 11:19 www.facebook.com</li>
+<li> 11:18 bsky.app</li>
+<li class='same'> 11:17 bsky.app</li>
+<li> 11:17 docs.google.com</li>
+</ul>
 
 <br>
 
