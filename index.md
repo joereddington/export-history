@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9895)</li>
+<ol><li>www.google.com (9898)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3324)</li>
-<li>docs.google.com (2271)</li>
+<li>www.facebook.com (3325)</li>
+<li>docs.google.com (2274)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1605)</li>
 <li>www.reddit.com (1593)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>bsky.app (1405)</li>
+<li>bsky.app (1406)</li>
 <li>www.amazon.co.uk (1339)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 31/12/24</H3>
+
+<br>
+
+<ul><li> 21:30 docs.google.com</li>
+<li> 21:01 www.facebook.com</li>
+<li> 21:01 bsky.app</li>
+<li> 21:00 docs.google.com</li>
+<li class='same'> 20:59 docs.google.com</li>
+<li> 20:59 www.tesco.com</li>
+<li class='same'> 20:58 www.tesco.com</li>
+<li> 20:58 www.google.com</li>
+<li> 20:57 lovingitvegan.com</li>
+<li> 20:57 www.google.com</li>
+<li> 20:57 proteinchefs.com</li>
+<li> 20:57 www.mynetdiary.com</li>
+<li> 20:57 www.google.com</li>
+</ul>
 
 <br>
 
