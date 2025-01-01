@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9915)</li>
+<ol><li>www.google.com (9922)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3328)</li>
 <li>docs.google.com (2291)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1605)</li>
-<li>www.reddit.com (1594)</li>
+<li>www.reddit.com (1596)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>bsky.app (1413)</li>
 <li>www.amazon.co.uk (1339)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (805)</li>
 <li>chat.openai.com (767)</li>
-<li>tvtropes.org (699)</li>
+<li>tvtropes.org (700)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (617)</li>
 <li>app.qbo.intuit.com (578)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:23 www.google.com</li>
+<ul><li> 13:05 www.google.com</li>
+<li> 12:49 jamilamusayeva.com</li>
+<li class='same'> 12:48 jamilamusayeva.com</li>
+<li> 12:47 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:23 www.google.com</li>
 <li> 10:23 <a href="https://www.youtube.com/results?search_query=tau+mass+protons">(61) tau mass protons - YouTube</a></li>
 <li> 10:23 <a href="https://www.youtube.com/results?search_query=tau+mass">(61) tau mass - YouTube</a></li>
 <li> 10:22 <a href="https://www.youtube.com/">(61) YouTube</a></li>
@@ -214,6 +222,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 21:30 docs.google.com</li>
+<li> 21:13 www.google.com</li>
+<li> 21:13 www.reddit.com</li>
 <li> 21:01 www.facebook.com</li>
 <li> 21:01 bsky.app</li>
 <li> 21:00 docs.google.com</li>
@@ -230,7 +240,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:19 www.linkedin.com</li>
+<ul><li> 14:23 www.reddit.com</li>
+<li> 14:21 www.google.com</li>
+<li> 14:20 bookings.freshcarvaleting.com</li>
+<li> 14:19 www.linkedin.com</li>
 <li class='same'> 14:18 www.linkedin.com</li>
 <li class='same'> 14:17 www.linkedin.com</li>
 <li> 14:17 docs.google.com</li>
@@ -377,6 +390,24 @@ With number of accesses/minutes in parentheses
 <li> 19:46 www.google.com</li>
 <li> 19:45 www.facebook.com</li>
 <li> 19:45 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 18:57 bookings.freshcarvaleting.com</li>
+<li class='same'> 18:56 bookings.freshcarvaleting.com</li>
+<li class='same'> 18:54 bookings.freshcarvaleting.com</li>
+<li class='same'> 18:53 bookings.freshcarvaleting.com</li>
+<li> 18:52 www.freshcar.co.uk</li>
+<li class='same'> 18:50 www.freshcar.co.uk</li>
+<li> 18:50 www.google.com</li>
+<li class='same'> 18:49 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:55 www.google.com</li>
+<li> 17:55 tvtropes.org</li>
 </ul>
 
 <br>
@@ -93764,6 +93795,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:07 docs.google.com</li>
 <li class='same'> 06:37 docs.google.com</li>
+<li> 06:15 www.caffeineinformer.com</li>
 <li> 06:10 twitter.com</li>
 </ul>
 
