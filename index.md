@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9902)</li>
+<ol><li>www.google.com (9905)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3325)</li>
-<li>docs.google.com (2284)</li>
+<li>www.facebook.com (3326)</li>
+<li>docs.google.com (2287)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1605)</li>
-<li>www.reddit.com (1593)</li>
+<li>www.reddit.com (1594)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>bsky.app (1412)</li>
+<li>bsky.app (1413)</li>
 <li>www.amazon.co.uk (1339)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:38 www.tesco.com</li>
+<ul><li> 08:02 www.reddit.com</li>
+<li> 08:02 www.google.com</li>
+<li> 08:01 www.giantitp.com</li>
+<li> 08:01 bsky.app</li>
+<li> 08:00 www.facebook.com</li>
+<li> 08:00 www.google.com</li>
+<li> 07:59 www.everyoneactive.com</li>
+<li> 07:59 www.google.com</li>
+<li> 07:44 docs.google.com</li>
+<li class='same'> 07:43 docs.google.com</li>
+<li class='same'> 07:42 docs.google.com</li>
+<li> 07:38 www.tesco.com</li>
 <li class='same'> 07:37 www.tesco.com</li>
 <li> 07:26 <a href="https://www.youtube.com/watch?v=d8WCTEQACAk">(61) Everything GREAT About Sonic the Hedgehog 2! - YouTube</a></li>
 <li> 07:25 <a href="https://www.youtube.com/">(61) YouTube</a></li>
