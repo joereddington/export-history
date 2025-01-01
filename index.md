@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9927)</li>
+<ol><li>www.google.com (9928)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3371)</li>
+<li>www.facebook.com (3373)</li>
 <li>docs.google.com (2307)</li>
 <li>outlook.office365.com (2216)</li>
-<li>calendar.google.com (1605)</li>
+<li>calendar.google.com (1610)</li>
 <li>www.reddit.com (1597)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>bsky.app (1417)</li>
-<li>www.amazon.co.uk (1339)</li>
+<li>bsky.app (1420)</li>
+<li>www.amazon.co.uk (1340)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (974)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (768)</li>
 <li>tvtropes.org (700)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (618)</li>
+<li>web.whatsapp.com (619)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (545)</li>
 <li>chatgpt.com (543)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:56 help.libbyapp.com</li>
+<ul><li> 21:17 www.amazon.co.uk</li>
+<li> 21:12 bsky.app</li>
+<li class='same'> 21:10 bsky.app</li>
+<li class='same'> 21:08 bsky.app</li>
+<li> 21:08 www.facebook.com</li>
+<li> 21:06 calendar.google.com</li>
+<li> 21:01 www.google.co.uk</li>
+<li> 21:01 www.google.com</li>
+<li> 21:00 calendar.google.com</li>
+<li class='same'> 20:59 calendar.google.com</li>
+<li> 20:59 web.whatsapp.com</li>
+<li> 20:59 calendar.google.com</li>
+<li class='same'> 20:58 calendar.google.com</li>
+<li> 20:58 www.facebook.com</li>
+<li> 20:58 www.giantitp.com</li>
+<li> 20:56 help.libbyapp.com</li>
 <li> 20:55 www.reddit.com</li>
 <li> 20:55 www.google.com</li>
 <li> 20:55 <a href="https://www.youtube.com/results?search_query=libby+notes+">(64) libby notes - YouTube</a></li>
