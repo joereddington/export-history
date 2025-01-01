@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9905)</li>
+<ol><li>www.google.com (9911)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3326)</li>
-<li>docs.google.com (2287)</li>
+<li>www.facebook.com (3327)</li>
+<li>docs.google.com (2291)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1605)</li>
 <li>www.reddit.com (1594)</li>
@@ -85,14 +85,14 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (921)</li>
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (805)</li>
-<li>chat.openai.com (766)</li>
-<li>tvtropes.org (698)</li>
+<li>chat.openai.com (767)</li>
+<li>tvtropes.org (699)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (617)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (545)</li>
-<li>chatgpt.com (541)</li>
-<li>drive.google.com (519)</li>
+<li>chatgpt.com (542)</li>
+<li>drive.google.com (520)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (463)</li>
 <li>kdp.amazon.com (447)</li>
@@ -105,6 +105,34 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 01/01/25</H3>
+
+<br>
+
+<ul><li> 09:46 docs.google.com</li>
+<li> 09:42 www.facebook.com</li>
+<li> 09:40 www.google.com</li>
+<li class='same'> 09:39 www.google.com</li>
+<li> 09:32 tvtropes.org</li>
+<li> 09:32 www.google.com</li>
+<li> 09:29 <a href="https://en.wikipedia.org/wiki/Walther_Bothe">Walther Bothe - Wikipedia</a></li>
+<li> 09:26 <a href="https://en.wikipedia.org/wiki/Max_Planck">Max Planck - Wikipedia</a></li>
+<li> 09:26 <a href="https://en.wikipedia.org/wiki/Planck_constant">Planck constant - Wikipedia</a></li>
+<li> 09:26 www.google.com</li>
+<li> 09:23 chatgpt.com</li>
+<li> 09:23 chat.openai.com</li>
+<li> 09:20 <a href="https://en.wikipedia.org/wiki/Hayden_Christensen">Hayden Christensen - Wikipedia</a></li>
+<li> 09:18 <a href="https://en.wikipedia.org/wiki/Darth_Vader">Darth Vader - Wikipedia</a></li>
+<li> 09:18 www.google.com</li>
+<li> 09:18 starwars.fandom.com</li>
+<li class='same'> 09:17 starwars.fandom.com</li>
+<li> 09:17 www.google.com</li>
+<li> 09:07 docs.google.com</li>
+<li> 09:07 drive.google.com</li>
+<li> 08:57 <a href="https://www.youtube.com/">(61) YouTube</a></li>
+<li> 08:57 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
+<li> 08:57 docs.google.com</li>
+<li class='same'> 08:48 docs.google.com</li>
+</ul>
 
 <br>
 
