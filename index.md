@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9898)</li>
+<ol><li>www.google.com (9902)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3325)</li>
-<li>docs.google.com (2274)</li>
+<li>docs.google.com (2280)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1605)</li>
 <li>www.reddit.com (1593)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>bsky.app (1406)</li>
+<li>bsky.app (1410)</li>
 <li>www.amazon.co.uk (1339)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
@@ -104,11 +104,43 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 01/01/25</H3>
+
+<br>
+
+<ul><li> 07:12 docs.google.com</li>
+<li> 07:11 www.tesco.com</li>
+<li> 07:11 docs.google.com</li>
+<li class='same'> 07:10 docs.google.com</li>
+<li class='same'> 07:09 docs.google.com</li>
+<li> 07:07 fdc.nal.usda.gov</li>
+<li class='same'> 07:05 fdc.nal.usda.gov</li>
+<li class='same'> 07:04 fdc.nal.usda.gov</li>
+<li> 07:04 www.google.com</li>
+<li> 07:02 fdc.nal.usda.gov</li>
+<li> 07:02 www.google.com</li>
+<li> 07:02 bsky.app</li>
+<li class='same'> 07:01 bsky.app</li>
+<li class='same'> 07:00 bsky.app</li>
+<li class='same'> 06:56 bsky.app</li>
+<li> 06:54 <a href="https://en.wikipedia.org/wiki/Diesel_(company)">Diesel (company) - Wikipedia</a></li>
+<li> 06:54 www.google.com</li>
+<li> 06:54 www.galaxychocolate.co.uk</li>
+<li> 06:54 www.google.com</li>
+<li> 06:53 www.tesco.com</li>
+<li> 06:53 docs.google.com</li>
+<li class='same'> 06:52 docs.google.com</li>
+</ul>
+
 <H3>Tuesday, 31/12/24</H3>
 
 <br>
 
-<ul><li> 21:30 docs.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:30 docs.google.com</li>
 <li> 21:01 www.facebook.com</li>
 <li> 21:01 bsky.app</li>
 <li> 21:00 docs.google.com</li>
