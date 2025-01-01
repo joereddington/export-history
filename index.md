@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9906)</li>
+<ol><li>www.google.com (9902)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3325)</li>
@@ -84,13 +84,13 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (974)</li>
 <li>www.theguardian.com (921)</li>
 <li>gmail.com (875)</li>
-<li>login.microsoftonline.com (808)</li>
+<li>login.microsoftonline.com (805)</li>
 <li>chat.openai.com (766)</li>
 <li>tvtropes.org (698)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (617)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>rhul-my.sharepoint.com (547)</li>
+<li>rhul-my.sharepoint.com (545)</li>
 <li>chatgpt.com (541)</li>
 <li>drive.google.com (519)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -20396,7 +20396,6 @@ With number of accesses/minutes in parentheses
 <li> 15:30 www.wikipedia.org</li>
 <li> 15:29 outlook.office365.com</li>
 <li> 15:29 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 15:29 login.microsoftonline.com</li>
 <li> 15:29 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 15:29 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 15:29 experience.elluciancloud.ie</li>
@@ -20468,8 +20467,7 @@ With number of accesses/minutes in parentheses
 <li> 14:20 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit&section=1">Editing 2012 Yahoo Voices hack (section) - Wikipedia</a></li>
 <li> 14:20 <a href="https://en.wikipedia.org/wiki/2012_Yahoo_Voices_hack">2012 Yahoo Voices hack - Wikipedia</a></li>
 <li> 14:16 ssl.engineering.nyu.edu</li>
-<li> 14:15 www.researchgate.net</li>
-<li class='same'> 14:14 www.researchgate.net</li>
+<li> 14:14 www.researchgate.net</li>
 <li> 14:14 scholar.google.co.uk</li>
 <li> 14:14 www.google.com</li>
 <li> 14:14 <a href="https://en.wikipedia.org/w/index.php?title=2012_Yahoo_Voices_hack&action=edit">Editing 2012 Yahoo Voices hack - Wikipedia</a></li>
@@ -20588,7 +20586,6 @@ With number of accesses/minutes in parentheses
 <li> 12:55 moodle.royalholloway.ac.uk</li>
 <li> 12:55 outlook.office365.com</li>
 <li> 12:53 mail.google.com</li>
-<li> 12:46 rhul-my.sharepoint.com</li>
 <li> 12:46 forms.office.com</li>
 <li class='same'> 12:45 forms.office.com</li>
 <li> 12:45 login.microsoftonline.com</li>
@@ -20617,8 +20614,7 @@ With number of accesses/minutes in parentheses
 <li> 12:08 qbo.intuit.com</li>
 <li> 12:06 mail.google.com</li>
 <li> 12:06 qbo.intuit.com</li>
-<li> 12:06 intuit-qbo-prod-5.s3.amazonaws.com</li>
-<li> 12:05 qbo.intuit.com</li>
+<li class='same'> 12:05 qbo.intuit.com</li>
 <li class='same'> 12:02 qbo.intuit.com</li>
 <li> 12:02 app.qbo.intuit.com</li>
 <li> 12:02 www.linkedin.com</li>
@@ -20635,11 +20631,6 @@ With number of accesses/minutes in parentheses
 <li> 11:51 www.google.com</li>
 <li> 11:51 web.whatsapp.com</li>
 <li> 11:51 outlook.office365.com</li>
-<li> 11:28 login.microsoftonline.com</li>
-<li> 11:28 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
-<li> 11:25 login.microsoftonline.com</li>
-<li> 11:25 forms.office.com</li>
-<li> 11:25 rhul-my.sharepoint.com</li>
 <li> 11:25 forms.office.com</li>
 <li class='same'> 11:24 forms.office.com</li>
 <li> 11:24 login.microsoftonline.com</li>
@@ -20729,7 +20720,6 @@ With number of accesses/minutes in parentheses
 <li> 09:41 www.facebook.com</li>
 <li class='same'> 09:40 www.facebook.com</li>
 <li> 09:40 royalsociety.org</li>
-<li> 09:40 eur03.safelinks.protection.outlook.com</li>
 <li> 09:40 outlook.office.com</li>
 <li> 09:39 www.google.com</li>
 <li> 09:34 venue.royalholloway.ac.uk</li>
@@ -20753,18 +20743,13 @@ With number of accesses/minutes in parentheses
 <li> 09:19 venue.royalholloway.ac.uk</li>
 <li> 09:18 outlook.office.com</li>
 <li> 09:18 venue.royalholloway.ac.uk</li>
-<li> 09:17 www.google.com</li>
 <li> 09:16 erinlawless.wordpress.com</li>
-<li> 09:15 www.google.com</li>
-<li class='same'> 09:14 www.google.com</li>
+<li> 09:14 www.google.com</li>
 <li> 09:13 login.microsoftonline.com</li>
 <li> 09:13 forms.office.com</li>
 <li> 09:13 venue.royalholloway.ac.uk</li>
-<li> 09:12 www.google.com</li>
 <li> 09:12 www.royalholloway.ac.uk</li>
-<li> 09:12 intranet.royalholloway.ac.uk</li>
-<li> 09:11 www.royalholloway.ac.uk</li>
-<li> 09:11 intranet.royalholloway.ac.uk</li>
+<li class='same'> 09:11 www.royalholloway.ac.uk</li>
 <li> 09:11 www.google.com</li>
 <li> 09:11 venue.royalholloway.ac.uk</li>
 <li> 09:11 www.google.com</li>
@@ -20781,7 +20766,6 @@ With number of accesses/minutes in parentheses
 <li> 09:09 login.microsoftonline.com</li>
 <li> 09:09 moodle.royalholloway.ac.uk</li>
 <li> 09:09 login.microsoftonline.com</li>
-<li> 09:09 forms.office.com</li>
 <li> 09:05 support.theguardian.com</li>
 <li> 09:04 www.theguardian.com</li>
 <li class='same'> 09:02 www.theguardian.com</li>
@@ -20900,7 +20884,6 @@ With number of accesses/minutes in parentheses
 <li> 05:17 <a href="https://joereddington.com/723/2011/01/03/emma/">Emma | Joe Reddington</a></li>
 <li> 05:15 support.google.com</li>
 <li> 05:14 <a href="https://stackoverflow.com/questions/1702004/why-wont-google-accept-my-sitemap-xml-url-not-allowed-this-url-is-not-allowed">asp.net - Why won't google accept my Sitemap.xml? "URL not allowed This url is not allowed for a Sitemap at this location." - Stack Overflow</a></li>
-<li> 05:14 www.google.com</li>
 <li> 05:14 <a href="https://stackoverflow.com/sitemap-questions-92.xml">Page not found - Stack Overflow</a></li>
 <li> 05:13 <a href="https://joereddington.com/723/2011/01/03/emma/">Emma | Joe Reddington</a></li>
 <li> 05:12 hermannyung.com</li>
