@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9922)</li>
+<ol><li>www.google.com (9926)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3328)</li>
-<li>docs.google.com (2291)</li>
+<li>www.facebook.com (3333)</li>
+<li>docs.google.com (2296)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1605)</li>
 <li>www.reddit.com (1596)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>bsky.app (1413)</li>
+<li>bsky.app (1415)</li>
 <li>www.amazon.co.uk (1339)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
@@ -85,13 +85,13 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (921)</li>
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (805)</li>
-<li>chat.openai.com (767)</li>
+<li>chat.openai.com (768)</li>
 <li>tvtropes.org (700)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (617)</li>
+<li>web.whatsapp.com (618)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>rhul-my.sharepoint.com (545)</li>
-<li>chatgpt.com (542)</li>
+<li>chatgpt.com (543)</li>
 <li>drive.google.com (520)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (463)</li>
@@ -108,6 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:33 www.facebook.com</li>
+<li class='same'> 14:32 www.facebook.com</li>
+<li class='same'> 14:31 www.facebook.com</li>
+<li class='same'> 14:29 www.facebook.com</li>
+<li> 14:27 www.onlinebanking.natwest.com</li>
+<li> 14:27 www.natwest.com</li>
+<li> 14:25 web.whatsapp.com</li>
+<li> 14:24 www.facebook.com</li>
+<li> 14:23 bsky.app</li>
+<li> 14:22 www.tesco.com</li>
+<li> 14:22 www.google.com</li>
+<li> 14:21 fdc.nal.usda.gov</li>
+<li class='same'> 14:20 fdc.nal.usda.gov</li>
+<li class='same'> 14:19 fdc.nal.usda.gov</li>
+<li class='same'> 14:18 fdc.nal.usda.gov</li>
+<li class='same'> 14:17 fdc.nal.usda.gov</li>
+<li> 14:17 www.google.com</li>
+<li> 14:17 docs.google.com</li>
+<li class='same'> 14:16 docs.google.com</li>
+<li class='same'> 14:15 docs.google.com</li>
+<li class='same'> 14:14 docs.google.com</li>
+<li> 14:12 www.tesco.com</li>
+<li> 14:11 chatgpt.com</li>
+<li> 14:11 chat.openai.com</li>
+<li> 14:10 docs.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:05 www.google.com</li>
 <li> 12:49 jamilamusayeva.com</li>
 <li class='same'> 12:48 jamilamusayeva.com</li>
@@ -116,7 +145,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 10:23 www.google.com</li>
+<ul><li> 10:32 bsky.app</li>
+<li> 10:30 www.google.com</li>
+<li> 10:30 www.diggypod.com</li>
+<li> 10:30 www.google.com</li>
+<li class='same'> 10:23 www.google.com</li>
 <li> 10:23 <a href="https://www.youtube.com/results?search_query=tau+mass+protons">(61) tau mass protons - YouTube</a></li>
 <li> 10:23 <a href="https://www.youtube.com/results?search_query=tau+mass">(61) tau mass - YouTube</a></li>
 <li> 10:22 <a href="https://www.youtube.com/">(61) YouTube</a></li>
