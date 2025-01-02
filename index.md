@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9931)</li>
+<ol><li>www.google.com (9932)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3376)</li>
 <li>docs.google.com (2321)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1610)</li>
-<li>www.reddit.com (1606)</li>
+<li>www.reddit.com (1607)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>bsky.app (1424)</li>
 <li>www.amazon.co.uk (1344)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:06 chatgpt.com</li>
+<ul><li> 11:19 www.reddit.com</li>
+<li> 11:19 www.google.com</li>
+<li> 11:14 <a href="https://joereddington.com/2025/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 11:06 chatgpt.com</li>
 <li> 11:06 chat.openai.com</li>
 <li> 11:05 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
 <li> 11:05 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
