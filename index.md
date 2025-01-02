@@ -72,10 +72,10 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3376)</li>
-<li>docs.google.com (2321)</li>
+<li>docs.google.com (2322)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1610)</li>
-<li>www.reddit.com (1607)</li>
+<li>www.reddit.com (1608)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>bsky.app (1424)</li>
 <li>www.amazon.co.uk (1344)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (621)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>chatgpt.com (547)</li>
+<li>chatgpt.com (548)</li>
 <li>rhul-my.sharepoint.com (543)</li>
 <li>drive.google.com (520)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:19 www.reddit.com</li>
+<ul><li> 11:28 chatgpt.com</li>
+<li> 11:25 docs.google.com</li>
+<li> 11:20 www.reddit.com</li>
+<li class='same'> 11:19 www.reddit.com</li>
 <li> 11:19 www.google.com</li>
 <li> 11:14 <a href="https://joereddington.com/2025/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
 <li> 11:06 chatgpt.com</li>
