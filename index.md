@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9946)</li>
-<li>mail.google.com (6673)</li>
+<ol><li>www.google.com (9947)</li>
+<li>mail.google.com (6675)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3377)</li>
 <li>docs.google.com (2322)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (974)</li>
 <li>www.theguardian.com (922)</li>
-<li>gmail.com (875)</li>
+<li>gmail.com (876)</li>
 <li>login.microsoftonline.com (805)</li>
 <li>chat.openai.com (773)</li>
 <li>tvtropes.org (700)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:26 www.google.com</li>
+<ul><li> 12:30 mail.google.com</li>
+<li class='same'> 12:29 mail.google.com</li>
+<li> 12:29 gmail.com</li>
+<li> 12:27 www.disneylandparis.com</li>
+<li> 12:27 www.google.com</li>
+<li class='same'> 12:26 www.google.com</li>
 <li class='same'> 12:25 www.google.com</li>
 <li> 12:25 www.disneylandparis.com</li>
 <li> 12:25 www.google.com</li>
