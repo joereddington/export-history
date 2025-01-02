@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1610)</li>
 <li>www.reddit.com (1608)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>bsky.app (1427)</li>
+<li>bsky.app (1428)</li>
 <li>www.amazon.co.uk (1344)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:58 www.wolframalpha.com</li>
+<ul><li> 12:06 bsky.app</li>
+<li> 12:02 www.wolframalpha.com</li>
+<li class='same'> 12:00 www.wolframalpha.com</li>
+<li class='same'> 11:58 www.wolframalpha.com</li>
 <li> 11:56 <a href="https://en.wikipedia.org/wiki/Electron">Electron - Wikipedia</a></li>
 <li> 11:45 <a href="https://www.youtube.com/watch?v=E7cY6J9GyMU">(64) Death Star Size Comparison with Earth and Moon - YouTube</a></li>
 <li> 11:45 www.google.com</li>
