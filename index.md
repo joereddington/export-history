@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9947)</li>
+<ol><li>www.google.com (9955)</li>
 <li>mail.google.com (6675)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3377)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:30 mail.google.com</li>
+<ul><li> 14:25 www.huffpost.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:01 www.google.com</li>
+<li class='same'> 12:57 www.google.com</li>
+<li class='same'> 12:56 www.google.com</li>
+<li class='same'> 12:40 www.google.com</li>
+<li class='same'> 12:39 www.google.com</li>
+<li> 12:30 mail.google.com</li>
 <li class='same'> 12:29 mail.google.com</li>
 <li> 12:29 gmail.com</li>
 <li> 12:27 www.disneylandparis.com</li>
@@ -334,6 +344,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:24 www.google.com</li>
+<li> 18:24 weather.metoffice.gov.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:17 weather.metoffice.gov.uk</li>
+<li class='same'> 17:16 weather.metoffice.gov.uk</li>
+<li> 17:16 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 15:01 <a href="https://www.youtube.com/watch?v=iHVdvny9kbs">(62) A Vegan Diet is Bad For Gains - YouTube</a></li>
 <li> 15:01 <a href="https://www.youtube.com/watch?v=iHVdvny9kbs&pp=ygUZcmVuYWlzc2FuY2UgcHJvdGVpbiB2ZWdhbg%3D%3D">(62) renaissance protein vegan - YouTube</a></li>
 <li> 15:01 <a href="https://www.youtube.com/results?search_query=renaissance+protein+vegan">(62) renaissance protein vegan - YouTube</a></li>
@@ -373,7 +396,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:05 www.google.com</li>
+<ul><li> 13:06 www.google.com</li>
+<li class='same'> 13:05 www.google.com</li>
 <li> 12:49 jamilamusayeva.com</li>
 <li class='same'> 12:48 jamilamusayeva.com</li>
 <li> 12:47 www.google.com</li>
