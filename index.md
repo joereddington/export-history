@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9938)</li>
+<ol><li>www.google.com (9941)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3376)</li>
@@ -85,12 +85,12 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (922)</li>
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (805)</li>
-<li>chat.openai.com (772)</li>
+<li>chat.openai.com (773)</li>
 <li>tvtropes.org (700)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (621)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>chatgpt.com (548)</li>
+<li>chatgpt.com (549)</li>
 <li>rhul-my.sharepoint.com (543)</li>
 <li>drive.google.com (520)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:36 <a href="https://www.youtube.com/watch?v=l_GdborsqLo">(64) Death Star Laser Kills Everybody... at Scarif - Rogue One HD - YouTube</a></li>
+<ul><li> 11:43 chatgpt.com</li>
+<li> 11:43 chat.openai.com</li>
+<li> 11:43 www.google.com</li>
+<li> 11:42 www.wolframalpha.com</li>
+<li> 11:41 <a href="https://en.wikipedia.org/wiki/Electron">Electron - Wikipedia</a></li>
+<li> 11:40 www.google.com</li>
+<li> 11:40 www.wolframalpha.com</li>
+<li> 11:39 <a href="https://en.wikipedia.org/wiki/Death_Star">Death Star - Wikipedia</a></li>
+<li> 11:39 www.google.com</li>
+<li> 11:36 <a href="https://www.youtube.com/watch?v=l_GdborsqLo">(64) Death Star Laser Kills Everybody... at Scarif - Rogue One HD - YouTube</a></li>
 <li> 11:36 <a href="https://www.youtube.com/results?search_query=death+star+firing+sequence">(64) death star firing sequence - YouTube</a></li>
 <li> 11:36 <a href="https://www.youtube.com/">(64) YouTube</a></li>
 <li> 11:36 www.google.com</li>
