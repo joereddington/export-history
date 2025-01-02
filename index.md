@@ -85,13 +85,13 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (922)</li>
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (805)</li>
-<li>chat.openai.com (768)</li>
+<li>chat.openai.com (769)</li>
 <li>tvtropes.org (700)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (620)</li>
 <li>app.qbo.intuit.com (578)</li>
+<li>chatgpt.com (544)</li>
 <li>rhul-my.sharepoint.com (543)</li>
-<li>chatgpt.com (543)</li>
 <li>drive.google.com (520)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (463)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:39 bsky.app</li>
+<ul><li> 10:53 chatgpt.com</li>
+<li> 10:53 chat.openai.com</li>
+<li> 10:50 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
+<li> 10:50 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 10:50 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 10:50 0.0.0.0:8000</li>
+<li> 10:39 bsky.app</li>
 <li> 10:37 www.facebook.com</li>
 <li> 10:16 www.theguardian.com</li>
 <li> 09:56 www.reddit.com</li>
