@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9929)</li>
+<ol><li>www.google.com (9931)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3376)</li>
 <li>docs.google.com (2321)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1610)</li>
-<li>www.reddit.com (1605)</li>
+<li>www.reddit.com (1606)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>bsky.app (1424)</li>
 <li>www.amazon.co.uk (1344)</li>
@@ -85,12 +85,12 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (922)</li>
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (805)</li>
-<li>chat.openai.com (769)</li>
+<li>chat.openai.com (772)</li>
 <li>tvtropes.org (700)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (620)</li>
+<li>web.whatsapp.com (621)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>chatgpt.com (544)</li>
+<li>chatgpt.com (547)</li>
 <li>rhul-my.sharepoint.com (543)</li>
 <li>drive.google.com (520)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,12 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:53 chatgpt.com</li>
+<ul><li> 11:06 chatgpt.com</li>
+<li> 11:06 chat.openai.com</li>
+<li> 11:05 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
+<li> 11:05 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 11:05 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:03 chatgpt.com</li>
+<li> 11:03 chat.openai.com</li>
+<li> 11:03 <a href="https://joereddington.com/2025/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 11:02 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 11:02 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:02 web.whatsapp.com</li>
+<li> 10:53 chatgpt.com</li>
 <li> 10:53 chat.openai.com</li>
 <li> 10:50 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
 <li> 10:50 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:50 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:50 0.0.0.0:8000</li>
+<li> 10:49 <a href="https://joereddington.com/2024/01/02/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 10:48 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 10:48 chatgpt.com</li>
+<li> 10:48 chat.openai.com</li>
+<li> 10:48 <a href="https://joereddington.com/2024/12/26/20-000-pages-in-2024.html">20,000 pages in 2024 | Joe Reddington</a></li>
+<li> 10:48 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 10:48 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 10:46 www.reddit.com</li>
+<li> 10:46 www.google.com</li>
+<li> 10:44 www.health.harvard.edu</li>
+<li> 10:43 www.google.com</li>
 <li> 10:39 bsky.app</li>
 <li> 10:37 www.facebook.com</li>
 <li> 10:16 www.theguardian.com</li>
