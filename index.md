@@ -71,18 +71,18 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9929)</li>
 <li>mail.google.com (6673)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3375)</li>
+<li>www.facebook.com (3376)</li>
 <li>docs.google.com (2321)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1610)</li>
-<li>www.reddit.com (1604)</li>
+<li>www.reddit.com (1605)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>bsky.app (1423)</li>
+<li>bsky.app (1424)</li>
 <li>www.amazon.co.uk (1344)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (974)</li>
-<li>www.theguardian.com (921)</li>
+<li>www.theguardian.com (922)</li>
 <li>gmail.com (875)</li>
 <li>login.microsoftonline.com (805)</li>
 <li>chat.openai.com (768)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:55 www.reddit.com</li>
+<ul><li> 10:39 bsky.app</li>
+<li> 10:37 www.facebook.com</li>
+<li> 10:16 www.theguardian.com</li>
+<li> 09:56 www.reddit.com</li>
+<li class='same'> 09:55 www.reddit.com</li>
 <li class='same'> 09:54 www.reddit.com</li>
 <li class='same'> 09:53 www.reddit.com</li>
 <li> 09:43 <a href="https://www.youtube.com/">YouTube</a></li>
