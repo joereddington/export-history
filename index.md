@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9956)</li>
+<ol><li>www.google.com (9960)</li>
 <li>mail.google.com (6675)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3379)</li>
-<li>docs.google.com (2333)</li>
+<li>docs.google.com (2334)</li>
 <li>outlook.office365.com (2216)</li>
-<li>calendar.google.com (1610)</li>
+<li>calendar.google.com (1611)</li>
 <li>www.reddit.com (1610)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>bsky.app (1432)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (974)</li>
-<li>www.theguardian.com (924)</li>
+<li>www.theguardian.com (925)</li>
 <li>gmail.com (876)</li>
 <li>login.microsoftonline.com (805)</li>
 <li>chat.openai.com (774)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:04 www.amazon.co.uk</li>
+<ul><li> 20:20 www.google.com</li>
+<li> 20:19 www.theguardian.com</li>
+<li> 20:19 www.oca.ac.uk</li>
+<li> 20:19 www.google.com</li>
+<li> 20:19 docs.google.com</li>
+<li> 20:18 <a href="https://joereddington.com/2024/12/26/20-000-pages-in-2024.html">20,000 pages in 2024 | Joe Reddington</a></li>
+<li> 20:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 20:18 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
+<li> 20:18 calendar.google.com</li>
+<li> 20:18 thebookerprizes.com</li>
+<li class='same'> 20:17 thebookerprizes.com</li>
+<li> 20:17 <a href="https://en.wikipedia.org/wiki/Booker_Prize">Booker Prize - Wikipedia</a></li>
+<li> 20:17 www.google.com</li>
+<li> 20:16 nebulas.sfwa.org</li>
+<li> 20:16 www.google.com</li>
+<li> 20:04 www.amazon.co.uk</li>
 <li class='same'> 20:03 www.amazon.co.uk</li>
 <li> 19:59 www.googleadservices.com</li>
 <li> 19:59 www.amazon.co.uk</li>
