@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9960)</li>
+<ol><li>www.google.com (9962)</li>
 <li>mail.google.com (6675)</li>
 <li>outlook.office.com (3859)</li>
 <li>www.facebook.com (3379)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1610)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>bsky.app (1432)</li>
-<li>www.amazon.co.uk (1347)</li>
+<li>www.amazon.co.uk (1349)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (974)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:20 www.google.com</li>
+<ul><li> 20:21 www.google.com</li>
+<li> 20:21 www.amazon.co.uk</li>
+<li> 20:21 www.google.com</li>
+<li> 20:21 www.amazon.co.uk</li>
+<li> 20:20 www.ethnicity-facts-figures.service.gov.uk</li>
+<li> 20:20 www.google.com</li>
 <li> 20:19 www.theguardian.com</li>
 <li> 20:19 www.oca.ac.uk</li>
 <li> 20:19 www.google.com</li>
