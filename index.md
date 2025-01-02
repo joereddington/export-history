@@ -71,26 +71,26 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (9955)</li>
 <li>mail.google.com (6675)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3377)</li>
-<li>docs.google.com (2322)</li>
+<li>www.facebook.com (3379)</li>
+<li>docs.google.com (2332)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1610)</li>
-<li>www.reddit.com (1608)</li>
+<li>www.reddit.com (1610)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>bsky.app (1429)</li>
+<li>bsky.app (1432)</li>
 <li>www.amazon.co.uk (1344)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
 <li>www.linkedin.com (974)</li>
-<li>www.theguardian.com (922)</li>
+<li>www.theguardian.com (924)</li>
 <li>gmail.com (876)</li>
 <li>login.microsoftonline.com (805)</li>
-<li>chat.openai.com (773)</li>
+<li>chat.openai.com (774)</li>
 <li>tvtropes.org (700)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (621)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>chatgpt.com (549)</li>
+<li>chatgpt.com (551)</li>
 <li>rhul-my.sharepoint.com (543)</li>
 <li>drive.google.com (520)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 17:14 bsky.app</li>
+<li class='same'> 17:13 bsky.app</li>
+<li> 16:53 www.reddit.com</li>
+<li class='same'> 16:52 www.reddit.com</li>
+<li> 16:45 docs.google.com</li>
+<li> 16:44 www.lutontoday.co.uk</li>
+<li> 16:44 l.facebook.com</li>
+<li> 16:44 www.facebook.com</li>
+<li> 16:43 docs.google.com</li>
+<li> 16:43 www.facebook.com</li>
+<li> 16:42 www.theguardian.com</li>
+<li> 16:42 docs.google.com</li>
+<li> 16:40 bsky.app</li>
+<li> 16:39 www.theguardian.com</li>
+<li> 16:38 docs.google.com</li>
+<li class='same'> 16:37 docs.google.com</li>
+<li class='same'> 16:36 docs.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 14:25 www.huffpost.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:38 docs.google.com</li>
+<li> 13:38 www.tesco.com</li>
+<li class='same'> 13:37 www.tesco.com</li>
+<li class='same'> 13:36 www.tesco.com</li>
+<li> 13:36 docs.google.com</li>
+<li class='same'> 13:35 docs.google.com</li>
+<li> 13:34 www.tesco.com</li>
+<li> 13:33 chatgpt.com</li>
+<li class='same'> 13:32 chatgpt.com</li>
+<li> 13:32 chat.openai.com</li>
+<li> 13:32 docs.google.com</li>
 </ul>
 
 <br>
