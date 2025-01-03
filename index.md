@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (3379)</li>
 <li>docs.google.com (2334)</li>
 <li>outlook.office365.com (2216)</li>
-<li>calendar.google.com (1611)</li>
+<li>calendar.google.com (1612)</li>
 <li>www.reddit.com (1610)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
 <li>bsky.app (1432)</li>
@@ -84,14 +84,14 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (974)</li>
 <li>www.theguardian.com (925)</li>
 <li>gmail.com (876)</li>
-<li>login.microsoftonline.com (805)</li>
+<li>login.microsoftonline.com (802)</li>
 <li>chat.openai.com (774)</li>
 <li>tvtropes.org (700)</li>
 <li>whitewaterwriters.com (685)</li>
 <li>web.whatsapp.com (621)</li>
 <li>app.qbo.intuit.com (578)</li>
 <li>chatgpt.com (551)</li>
-<li>rhul-my.sharepoint.com (543)</li>
+<li>rhul-my.sharepoint.com (540)</li>
 <li>drive.google.com (520)</li>
 <li>en.m.wikipedia.org (491)</li>
 <li>teams.microsoft.com (463)</li>
@@ -104,11 +104,23 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 03/01/25</H3>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Thursday, 02/01/25</H3>
 
 <br>
 
-<ul><li> 20:21 www.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:21 <a href="https://en.wikipedia.org/wiki/Travis_Baldree">Travis Baldree - Wikipedia</a></li>
+<li> 20:21 www.google.com</li>
 <li> 20:21 www.amazon.co.uk</li>
 <li> 20:21 www.google.com</li>
 <li> 20:21 www.amazon.co.uk</li>
@@ -20146,10 +20158,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:12 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
-<li> 14:12 login.microsoftonline.com</li>
-<li> 13:44 rhul-my.sharepoint.com</li>
-<li> 13:44 forms.office.com</li>
+<ul><li> 13:44 forms.office.com</li>
 </ul>
 
 <br>
@@ -20183,10 +20192,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:12 outlook.office.com</li>
 <li class='same'> 07:08 outlook.office.com</li>
-<li> 07:05 login.microsoftonline.com</li>
 <li> 07:05 forms.office.com</li>
-<li> 07:04 rhul-my.sharepoint.com</li>
-<li> 07:04 forms.office.com</li>
+<li class='same'> 07:04 forms.office.com</li>
 <li> 07:02 rhul-my.sharepoint.com</li>
 <li> 07:02 login.microsoftonline.com</li>
 <li> 07:02 forms.office.com</li>
@@ -20202,9 +20209,6 @@ With number of accesses/minutes in parentheses
 <li> 06:52 mail.rhul.ac.uk</li>
 <li> 06:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 06:47 outlook.office365.com</li>
-<li> 06:43 forms.office.com</li>
-<li> 06:43 login.microsoftonline.com</li>
-<li> 06:43 rhul-my.sharepoint.com</li>
 <li> 06:43 forms.office.com</li>
 <li> 06:43 login.microsoftonline.com</li>
 <li> 06:43 forms.office.com</li>
