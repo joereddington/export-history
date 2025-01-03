@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9962)</li>
+<ol><li>www.google.com (9970)</li>
 <li>mail.google.com (6675)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3379)</li>
-<li>docs.google.com (2334)</li>
+<li>www.facebook.com (3386)</li>
+<li>docs.google.com (2339)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1612)</li>
-<li>www.reddit.com (1610)</li>
+<li>www.reddit.com (1611)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>bsky.app (1432)</li>
-<li>www.amazon.co.uk (1349)</li>
+<li>bsky.app (1438)</li>
+<li>www.amazon.co.uk (1354)</li>
 <li>github.com (1060)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (974)</li>
+<li>www.linkedin.com (979)</li>
 <li>www.theguardian.com (925)</li>
 <li>gmail.com (876)</li>
 <li>login.microsoftonline.com (802)</li>
-<li>chat.openai.com (774)</li>
+<li>chat.openai.com (776)</li>
 <li>tvtropes.org (700)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (621)</li>
+<li>web.whatsapp.com (622)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>chatgpt.com (551)</li>
+<li>chatgpt.com (553)</li>
 <li>rhul-my.sharepoint.com (540)</li>
 <li>drive.google.com (520)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -105,6 +105,33 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 03/01/25</H3>
+
+<br>
+
+<ul><li> 14:25 www.facebook.com</li>
+<li> 14:25 bsky.app</li>
+<li> 14:22 www.ocado.com</li>
+<li> 14:19 bsky.app</li>
+<li> 14:17 www.linkedin.com</li>
+<li class='same'> 14:16 www.linkedin.com</li>
+<li> 14:16 www.ign.com</li>
+<li> 14:15 bsky.app</li>
+<li> 14:15 www.facebook.com</li>
+<li> 14:14 www.ocado.com</li>
+<li> 14:14 www.google.com</li>
+<li> 14:14 docs.google.com</li>
+<li> 14:12 chatgpt.com</li>
+<li> 14:12 chat.openai.com</li>
+<li> 14:12 docs.google.com</li>
+<li> 14:12 www.ocado.com</li>
+<li> 14:12 www.google.com</li>
+<li> 14:11 docs.google.com</li>
+<li> 14:11 zoom.ocado.com</li>
+<li> 14:11 lumoeats.co.uk</li>
+<li> 14:11 www.google.com</li>
+<li> 14:10 docs.google.com</li>
+<li class='same'> 14:09 docs.google.com</li>
+</ul>
 
 <br>
 
@@ -140,12 +167,48 @@ With number of accesses/minutes in parentheses
 <li> 20:17 www.google.com</li>
 <li> 20:16 nebulas.sfwa.org</li>
 <li> 20:16 www.google.com</li>
+<li> 20:16 www.facebook.com</li>
+<li> 20:16 www.linkedin.com</li>
+<li class='same'> 20:15 www.linkedin.com</li>
+<li> 20:13 chatgpt.com</li>
+<li> 20:13 chat.openai.com</li>
+<li> 20:13 www.facebook.com</li>
+<li class='same'> 20:12 www.facebook.com</li>
+<li> 20:11 www.linkedin.com</li>
+<li> 20:11 www.amazon.co.uk</li>
+<li class='same'> 20:10 www.amazon.co.uk</li>
+<li class='same'> 20:09 www.amazon.co.uk</li>
+<li class='same'> 20:08 www.amazon.co.uk</li>
+<li> 20:07 www.google.com</li>
+<li> 20:07 www.amazon.co.uk</li>
+<li> 20:07 www.google.com</li>
 <li> 20:04 www.amazon.co.uk</li>
 <li class='same'> 20:03 www.amazon.co.uk</li>
+<li> 20:02 web.whatsapp.com</li>
+<li> 20:02 www.reddit.com</li>
+<li> 20:02 www.google.com</li>
+<li> 20:00 www.disneylandparis.com</li>
 <li> 19:59 www.googleadservices.com</li>
 <li> 19:59 www.amazon.co.uk</li>
 <li> 19:59 www.google.com</li>
 <li> 19:59 docs.google.com</li>
+<li> 19:57 bsky.app</li>
+<li class='same'> 19:56 bsky.app</li>
+<li class='same'> 19:55 bsky.app</li>
+<li> 19:55 www.facebook.com</li>
+<li class='same'> 19:54 www.facebook.com</li>
+<li> 19:54 www.disneylandparis.com</li>
+<li class='same'> 19:53 www.disneylandparis.com</li>
+<li class='same'> 19:52 www.disneylandparis.com</li>
+<li> 19:52 www.google.com</li>
+<li> 19:52 guest.disneylandparis.com</li>
+<li class='same'> 19:51 guest.disneylandparis.com</li>
+<li> 19:51 book.disneylandparis.com</li>
+<li> 19:50 guest.disneylandparis.com</li>
+<li> 19:50 www.disneylandparis.com</li>
+<li> 19:50 guest.disneylandparis.com</li>
+<li> 19:50 www.disneylandparis.com</li>
+<li> 19:49 www.google.com</li>
 </ul>
 
 <br>
