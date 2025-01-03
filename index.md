@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (9972)</li>
+<ol><li>www.google.com (9973)</li>
 <li>mail.google.com (6675)</li>
 <li>outlook.office.com (3859)</li>
-<li>www.facebook.com (3386)</li>
-<li>docs.google.com (2346)</li>
+<li>www.facebook.com (3388)</li>
+<li>docs.google.com (2354)</li>
 <li>outlook.office365.com (2216)</li>
 <li>calendar.google.com (1612)</li>
 <li>www.reddit.com (1611)</li>
 <li>moodle.royalholloway.ac.uk (1587)</li>
-<li>bsky.app (1438)</li>
+<li>bsky.app (1439)</li>
 <li>www.amazon.co.uk (1354)</li>
 <li>github.com (1060)</li>
+<li>www.linkedin.com (982)</li>
 <li>m.facebook.com (981)</li>
-<li>www.linkedin.com (979)</li>
 <li>www.theguardian.com (925)</li>
 <li>gmail.com (876)</li>
 <li>login.microsoftonline.com (802)</li>
-<li>chat.openai.com (776)</li>
+<li>chat.openai.com (777)</li>
 <li>tvtropes.org (700)</li>
 <li>whitewaterwriters.com (685)</li>
-<li>web.whatsapp.com (622)</li>
+<li>web.whatsapp.com (624)</li>
 <li>app.qbo.intuit.com (578)</li>
-<li>chatgpt.com (553)</li>
+<li>chatgpt.com (556)</li>
 <li>rhul-my.sharepoint.com (540)</li>
 <li>drive.google.com (520)</li>
 <li>en.m.wikipedia.org (491)</li>
@@ -108,12 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:25 0.0.0.0:8000</li>
+<ul><li> 20:19 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 20:19 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 20:18 www.linkedin.com</li>
+<li class='same'> 20:15 www.linkedin.com</li>
+<li class='same'> 20:14 www.linkedin.com</li>
+<li> 20:14 bsky.app</li>
+<li> 20:14 www.google.com</li>
+<li> 20:14 www.giantitp.com</li>
+<li> 20:12 web.whatsapp.com</li>
+<li> 20:11 docs.google.com</li>
+<li class='same'> 20:10 docs.google.com</li>
+<li class='same'> 20:09 docs.google.com</li>
+<li class='same'> 20:08 docs.google.com</li>
+<li class='same'> 20:07 docs.google.com</li>
+<li class='same'> 20:06 docs.google.com</li>
+<li> 20:04 www.facebook.com</li>
+<li> 20:03 chatgpt.com</li>
+<li> 20:03 auth0.openai.com</li>
+<li> 20:03 auth.openai.com</li>
+<li> 20:03 chatgpt.com</li>
+<li> 20:02 docs.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 14:39 docs.google.com</li>
+<ul><li> 16:25 0.0.0.0:8000</li>
+<li> 16:25 www.facebook.com</li>
+<li> 16:24 web.whatsapp.com</li>
+<li> 16:23 chatgpt.com</li>
+<li> 16:23 chat.openai.com</li>
+<li> 16:22 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:39 docs.google.com</li>
 <li class='same'> 14:38 docs.google.com</li>
 <li class='same'> 14:37 docs.google.com</li>
 <li> 14:37 www.tesco.com</li>
