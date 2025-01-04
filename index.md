@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>m.facebook.com (981)</li>
 <li>www.theguardian.com (925)</li>
 <li>gmail.com (877)</li>
-<li>login.microsoftonline.com (802)</li>
+<li>login.microsoftonline.com (801)</li>
 <li>chat.openai.com (777)</li>
 <li>tvtropes.org (700)</li>
 <li>whitewaterwriters.com (685)</li>
@@ -20253,8 +20253,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:25 login.microsoftonline.com</li>
-<li> 08:25 forms.office.com</li>
+<ul><li> 08:25 forms.office.com</li>
 </ul>
 
 <H3>Friday, 04/10/24</H3>
