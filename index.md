@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1487)</li>
-<li>outlook.office365.com (983)</li>
-<li>mail.google.com (757)</li>
-<li>bsky.app (744)</li>
-<li>outlook.office.com (526)</li>
+<ol><li>www.google.com (1490)</li>
+<li>outlook.office365.com (984)</li>
+<li>mail.google.com (767)</li>
+<li>bsky.app (745)</li>
+<li>outlook.office.com (527)</li>
 <li>www.facebook.com (486)</li>
 <li>docs.google.com (468)</li>
 <li>rhul-my.sharepoint.com (249)</li>
@@ -88,8 +88,8 @@ With number of accesses/minutes in parentheses
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
 <li>drive.google.com (105)</li>
+<li>fritz.box (92)</li>
 <li>discord.com (89)</li>
-<li>fritz.box (82)</li>
 <li>www.theguardian.com (80)</li>
 <li>www.instagram.com (73)</li>
 <li>gitlab.cim.rhul.ac.uk (73)</li>
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:10 www.giantitp.com</li>
+<ul><li> 20:16 mail.google.com</li>
+<li> 20:16 fritz.box</li>
+<li class='same'> 20:15 fritz.box</li>
+<li class='same'> 20:14 fritz.box</li>
+<li class='same'> 20:13 fritz.box</li>
+<li> 20:07 mail.google.com</li>
+<li> 20:06 fritz.box</li>
+<li class='same'> 20:05 fritz.box</li>
+<li> 20:05 mail.google.com</li>
+<li class='same'> 20:04 mail.google.com</li>
+<li> 20:04 gmail.com</li>
+<li> 20:04 <a href="https://www.youtube.com/watch?v=1l1KgEh4kHU">(83) How to input your Fritz!box 7530 settings for FTTP / Full Fibre / CityFibre - YouTube</a></li>
+<li> 20:04 <a href="https://www.youtube.com/watch?v=1l1KgEh4kHU&themeRefresh=1">How to input your Fritz!box 7530 settings for FTTP / Full Fibre / CityFibre - YouTube</a></li>
+<li> 20:04 <a href="https://www.youtube.com/watch?v=1l1KgEh4kHU">(83) How to input your Fritz!box 7530 settings for FTTP / Full Fibre / CityFibre - YouTube</a></li>
+<li> 20:02 www.zen.co.uk</li>
+<li> 20:02 www.google.com</li>
+<li> 20:02 fritz.box</li>
+<li class='same'> 20:01 fritz.box</li>
+<li> 20:01 192.168.188.1</li>
+<li> 20:00 business.zen.co.uk</li>
+<li> 20:00 www.google.com</li>
+<li> 20:00 mail.google.com</li>
+<li class='same'> 19:55 mail.google.com</li>
+<li> 19:55 gmail.com</li>
+<li> 19:52 192.168.188.1</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:29 192.168.188.1</li>
+<li class='same'> 18:12 192.168.188.1</li>
+<li> 18:12 fast.com</li>
+<li> 18:12 192.168.188.1</li>
+<li> 18:02 fritz.box</li>
+<li class='same'> 18:01 fritz.box</li>
+<li> 18:01 fast.com</li>
+<li class='same'> 17:57 fast.com</li>
+<li class='same'> 17:56 fast.com</li>
+<li> 17:32 mail.google.com</li>
+<li> 17:22 www.disneylandparis.com</li>
+<li> 17:22 www.google.com</li>
+<li> 17:22 mail.google.com</li>
+<li class='same'> 17:20 mail.google.com</li>
+<li class='same'> 17:19 mail.google.com</li>
+<li> 17:16 bsky.app</li>
+<li> 17:16 outlook.office365.com</li>
+<li> 17:16 outlook.office.com</li>
+<li> 17:10 www.giantitp.com</li>
 <li> 17:10 mail.google.com</li>
 <li> 17:10 gmail.com</li>
 <li> 17:09 www.giantitp.com</li>
