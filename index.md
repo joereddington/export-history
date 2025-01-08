@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (722)</li>
 <li>outlook.office.com (505)</li>
 <li>www.facebook.com (477)</li>
-<li>docs.google.com (463)</li>
+<li>docs.google.com (464)</li>
 <li>rhul-my.sharepoint.com (249)</li>
 <li>www.amazon.co.uk (220)</li>
 <li>login.microsoftonline.com (213)</li>
@@ -87,8 +87,8 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (137)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
+<li>drive.google.com (92)</li>
 <li>discord.com (89)</li>
-<li>drive.google.com (89)</li>
 <li>www.theguardian.com (80)</li>
 <li>www.instagram.com (73)</li>
 <li>gitlab.cim.rhul.ac.uk (73)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:02 chatgpt.com</li>
+<ul><li> 10:11 docs.google.com</li>
+<li> 10:09 drive.google.com</li>
+<li class='same'> 10:08 drive.google.com</li>
+<li> 10:08 accounts.google.com</li>
+<li> 10:08 drive.google.com</li>
+<li> 10:02 chatgpt.com</li>
 <li> 10:02 chat.openai.com</li>
 <li> 09:57 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 09:53 <a href="https://stackoverflow.com/questions/6590688/is-it-bad-to-have-my-virtualenv-directory-inside-my-git-repository">python - Is it bad to have my virtualenv directory inside my git repository? - Stack Overflow</a></li>
