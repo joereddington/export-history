@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1490)</li>
+<ol><li>www.google.com (1491)</li>
 <li>outlook.office365.com (984)</li>
-<li>mail.google.com (767)</li>
+<li>mail.google.com (769)</li>
 <li>bsky.app (745)</li>
 <li>outlook.office.com (527)</li>
 <li>www.facebook.com (486)</li>
-<li>docs.google.com (468)</li>
+<li>docs.google.com (469)</li>
 <li>rhul-my.sharepoint.com (249)</li>
 <li>www.amazon.co.uk (220)</li>
 <li>chatgpt.com (219)</li>
@@ -85,10 +85,10 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (200)</li>
 <li>www.linkedin.com (198)</li>
 <li>forms.office.com (137)</li>
+<li>fritz.box (113)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
 <li>drive.google.com (105)</li>
-<li>fritz.box (92)</li>
 <li>discord.com (89)</li>
 <li>www.theguardian.com (80)</li>
 <li>www.instagram.com (73)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:16 mail.google.com</li>
+<ul><li> 20:52 docs.google.com</li>
+<li> 20:52 community.bt.com</li>
+<li> 20:52 www.google.com</li>
+<li> 20:51 fritz.box</li>
+<li class='same'> 20:50 fritz.box</li>
+<li class='same'> 20:43 fritz.box</li>
+<li class='same'> 20:42 fritz.box</li>
+<li class='same'> 20:40 fritz.box</li>
+<li class='same'> 20:39 fritz.box</li>
+<li class='same'> 20:38 fritz.box</li>
+<li class='same'> 20:34 fritz.box</li>
+<li class='same'> 20:33 fritz.box</li>
+<li class='same'> 20:32 fritz.box</li>
+<li class='same'> 20:31 fritz.box</li>
+<li class='same'> 20:30 fritz.box</li>
+<li class='same'> 20:29 fritz.box</li>
+<li class='same'> 20:23 fritz.box</li>
+<li class='same'> 20:22 fritz.box</li>
+<li> 20:22 fast.com</li>
+<li> 20:22 fritz.box</li>
+<li class='same'> 20:20 fritz.box</li>
+<li class='same'> 20:19 fritz.box</li>
+<li class='same'> 20:18 fritz.box</li>
+<li> 20:18 mail.google.com</li>
+<li> 20:18 fritz.box</li>
+<li class='same'> 20:17 fritz.box</li>
+<li> 20:17 mail.google.com</li>
+<li class='same'> 20:16 mail.google.com</li>
 <li> 20:16 fritz.box</li>
 <li class='same'> 20:15 fritz.box</li>
 <li class='same'> 20:14 fritz.box</li>
