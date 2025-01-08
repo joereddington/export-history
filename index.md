@@ -71,18 +71,18 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (1479)</li>
 <li>outlook.office365.com (981)</li>
 <li>mail.google.com (753)</li>
-<li>bsky.app (732)</li>
+<li>bsky.app (733)</li>
 <li>outlook.office.com (507)</li>
 <li>www.facebook.com (481)</li>
 <li>docs.google.com (468)</li>
 <li>rhul-my.sharepoint.com (249)</li>
 <li>www.amazon.co.uk (220)</li>
-<li>chatgpt.com (216)</li>
+<li>chatgpt.com (218)</li>
 <li>login.microsoftonline.com (214)</li>
 <li>www.reddit.com (204)</li>
 <li>calendar.google.com (202)</li>
 <li>moodle.royalholloway.ac.uk (200)</li>
-<li>github.com (195)</li>
+<li>github.com (198)</li>
 <li>www.linkedin.com (194)</li>
 <li>forms.office.com (137)</li>
 <li>ev.turnitinuk.com (110)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:48 bsky.app</li>
+<ul><li> 15:02 chatgpt.com</li>
+<li class='same'> 15:01 chatgpt.com</li>
+<li> 15:01 chat.openai.com</li>
+<li> 15:01 github.com</li>
+<li class='same'> 15:00 github.com</li>
+<li class='same'> 14:59 github.com</li>
+<li> 14:48 bsky.app</li>
+<li> 14:48 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 14:48 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 14:48 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 14:48 bsky.app</li>
 <li> 14:46 127.0.0.1:4000</li>
 <li class='same'> 14:45 127.0.0.1:4000</li>
 <li> 14:45 askubuntu.com</li>
