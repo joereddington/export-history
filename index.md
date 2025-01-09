@@ -104,7 +104,20 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 09/01/25</H3>
+
+<br>
+
+<ul><li> 09:46 0.0.0.0:8000</li>
+<li class='same'> 09:43 0.0.0.0:8000</li>
+<li class='same'> 09:42 0.0.0.0:8000</li>
+</ul>
+
 <H3>Wednesday, 08/01/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
