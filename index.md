@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1491)</li>
-<li>outlook.office365.com (984)</li>
-<li>mail.google.com (769)</li>
-<li>bsky.app (745)</li>
-<li>outlook.office.com (527)</li>
-<li>www.facebook.com (486)</li>
-<li>docs.google.com (469)</li>
+<ol><li>www.google.com (1550)</li>
+<li>outlook.office365.com (989)</li>
+<li>mail.google.com (780)</li>
+<li>bsky.app (753)</li>
+<li>outlook.office.com (542)</li>
+<li>www.facebook.com (487)</li>
+<li>docs.google.com (485)</li>
 <li>rhul-my.sharepoint.com (249)</li>
-<li>www.amazon.co.uk (220)</li>
-<li>chatgpt.com (219)</li>
+<li>chatgpt.com (228)</li>
+<li>www.amazon.co.uk (222)</li>
+<li>www.reddit.com (217)</li>
 <li>login.microsoftonline.com (215)</li>
-<li>www.reddit.com (206)</li>
+<li>github.com (206)</li>
 <li>calendar.google.com (203)</li>
-<li>github.com (200)</li>
 <li>moodle.royalholloway.ac.uk (200)</li>
 <li>www.linkedin.com (198)</li>
+<li>fritz.box (169)</li>
 <li>forms.office.com (137)</li>
-<li>fritz.box (113)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
 <li>drive.google.com (105)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>www.instagram.com (73)</li>
 <li>gitlab.cim.rhul.ac.uk (73)</li>
 <li>whitewaterwriters.com (72)</li>
-<li>www.tesco.com (67)</li>
+<li>www.tesco.com (69)</li>
 <li>online.unity.co.uk (66)</li>
 <li>myview.rhul.zellis.com (65)</li>
 <li>rhul.hosted.panopto.com (63)</li>
@@ -104,13 +104,254 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 10/01/25</H3>
+
+<br>
+
+<ul><li> 11:11 fritz.box</li>
+<li class='same'> 11:10 fritz.box</li>
+<li> 11:07 chatgpt.com</li>
+<li> 11:07 chat.openai.com</li>
+<li> 11:07 fast.com</li>
+<li class='same'> 11:06 fast.com</li>
+<li> 10:56 fritz.box</li>
+<li class='same'> 10:51 fritz.box</li>
+<li> 10:51 www.reddit.com</li>
+<li> 10:51 www.google.com</li>
+<li> 10:50 smartathome.co.uk</li>
+<li> 10:50 www.reddit.com</li>
+<li> 10:50 www.google.com</li>
+<li> 10:50 github.com</li>
+<li> 10:50 www.google.com</li>
+<li> 10:49 chatgpt.com</li>
+<li class='same'> 10:48 chatgpt.com</li>
+<li> 10:48 community.openhab.org</li>
+<li> 10:48 www.google.com</li>
+<li> 10:45 www.reddit.com</li>
+<li> 10:45 www.google.com</li>
+<li> 10:44 fritz.box</li>
+<li class='same'> 10:43 fritz.box</li>
+<li class='same'> 10:42 fritz.box</li>
+<li class='same'> 10:40 fritz.box</li>
+<li class='same'> 10:39 fritz.box</li>
+<li class='same'> 10:38 fritz.box</li>
+<li class='same'> 10:37 fritz.box</li>
+<li class='same'> 10:36 fritz.box</li>
+<li class='same'> 10:35 fritz.box</li>
+<li class='same'> 10:34 fritz.box</li>
+<li class='same'> 10:33 fritz.box</li>
+<li class='same'> 10:32 fritz.box</li>
+<li> 10:31 www.google.com</li>
+<li> 10:31 fritz.box</li>
+<li class='same'> 10:30 fritz.box</li>
+<li class='same'> 10:29 fritz.box</li>
+<li class='same'> 10:28 fritz.box</li>
+<li> 10:24 www.wireshark.org</li>
+<li> 10:24 www.reddit.com</li>
+<li> 10:24 www.google.com</li>
+<li> 10:24 dnschecker.org</li>
+<li class='same'> 10:23 dnschecker.org</li>
+<li> 10:22 fritz.box</li>
+<li> 10:22 dnschecker.org</li>
+<li> 10:22 www.google.com</li>
+<li> 10:17 fritz.box</li>
+<li class='same'> 10:16 fritz.box</li>
+<li class='same'> 10:15 fritz.box</li>
+<li class='same'> 10:14 fritz.box</li>
+<li class='same'> 10:13 fritz.box</li>
+<li class='same'> 10:11 fritz.box</li>
+<li> 10:08 chatgpt.com</li>
+<li class='same'> 10:07 chatgpt.com</li>
+<li> 09:58 www.google.com</li>
+<li> 09:57 www.amazon.co.uk</li>
+<li class='same'> 09:56 www.amazon.co.uk</li>
+<li> 09:52 fritz.box</li>
+<li class='same'> 09:51 fritz.box</li>
+<li> 09:51 192.168.178.30</li>
+<li> 09:51 fritz.box</li>
+<li> 09:47 chatgpt.com</li>
+<li> 09:47 chat.openai.com</li>
+<li> 09:45 fritz.box</li>
+<li class='same'> 09:44 fritz.box</li>
+<li> 09:40 en.avm.de</li>
+<li> 09:40 www.google.com</li>
+<li> 09:40 outlook.office.com</li>
+<li> 09:38 bsky.app</li>
+<li> 09:38 outlook.office.com</li>
+<li class='same'> 09:37 outlook.office.com</li>
+<li class='same'> 09:36 outlook.office.com</li>
+<li> 09:36 outlook.office365.com</li>
+<li> 09:36 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:39 www.reddit.com</li>
+<li> 07:39 www.google.com</li>
+<li> 07:39 www.reddit.com</li>
+<li> 07:38 www.google.com</li>
+<li> 07:38 www.reddit.com</li>
+<li class='same'> 07:37 www.reddit.com</li>
+<li> 07:37 www.google.com</li>
+<li class='same'> 07:36 www.google.com</li>
+<li> 07:36 www.reddit.com</li>
+<li> 07:36 www.google.com</li>
+<li> 07:35 fritz.box</li>
+<li> 07:34 chatgpt.com</li>
+<li> 07:34 chat.openai.com</li>
+<li> 07:33 www.reddit.com</li>
+<li> 07:33 www.google.com</li>
+<li> 07:31 www.reddit.com</li>
+<li> 07:30 www.google.com</li>
+<li> 07:29 fritz.box</li>
+<li> 07:13 fast.com</li>
+<li class='same'> 07:12 fast.com</li>
+<li> 07:12 www.facebook.com</li>
+<li> 07:11 bsky.app</li>
+<li> 07:09 fritz.box</li>
+<li class='same'> 07:06 fritz.box</li>
+<li class='same'> 07:02 fritz.box</li>
+<li class='same'> 07:01 fritz.box</li>
+<li class='same'> 07:00 fritz.box</li>
+<li class='same'> 06:59 fritz.box</li>
+<li class='same'> 06:58 fritz.box</li>
+</ul>
+
 <H3>Thursday, 09/01/25</H3>
 
 <br>
 
-<ul><li> 09:46 0.0.0.0:8000</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 19:24 mail.google.com</li>
+<li> 19:23 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:51 bsky.app</li>
+<li> 15:35 docs.google.com</li>
+<li> 15:11 outlook.office.com</li>
+<li class='same'> 15:10 outlook.office.com</li>
+<li class='same'> 15:05 outlook.office.com</li>
+<li class='same'> 14:59 outlook.office.com</li>
+<li> 14:59 outlook.office365.com</li>
+<li> 14:59 outlook.office.com</li>
+<li> 14:55 www.findamasters.com</li>
+<li> 14:55 www.herts.ac.uk</li>
+<li> 14:55 www.google.com</li>
+<li> 14:54 docs.google.com</li>
+<li class='same'> 14:53 docs.google.com</li>
+<li> 14:40 www.britishjudo.org.uk</li>
+<li> 14:40 www.google.com</li>
+<li> 14:11 bsky.app</li>
+<li class='same'> 14:10 bsky.app</li>
+<li> 14:10 askubuntu.com</li>
+<li> 14:10 www.google.com</li>
+<li> 14:09 harrisonized.github.io</li>
+<li> 14:09 www.google.com</li>
+<li class='same'> 14:08 www.google.com</li>
+<li> 14:03 mail.google.com</li>
+<li class='same'> 14:02 mail.google.com</li>
+<li class='same'> 14:00 mail.google.com</li>
+<li class='same'> 13:57 mail.google.com</li>
+<li class='same'> 13:56 mail.google.com</li>
+<li> 13:55 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:16 bsky.app</li>
+<li> 12:15 www.evri.com</li>
+<li> 12:15 www.google.com</li>
+<li> 11:55 docs.google.com</li>
+<li> 11:55 www.google.com</li>
+<li> 11:55 www.tesco.com</li>
+<li> 11:55 www.google.com</li>
+<li> 11:55 www.sainsburys.co.uk</li>
+<li> 11:54 docs.google.com</li>
+<li> 11:53 www.sainsburys.co.uk</li>
+<li class='same'> 11:52 www.sainsburys.co.uk</li>
+<li> 11:52 www.google.com</li>
+<li> 11:52 www.tesco.com</li>
+<li> 11:51 mail.google.com</li>
+<li> 11:51 gmail.com</li>
+<li> 11:51 outlook.office.com</li>
+<li> 11:51 outlook.office365.com</li>
+<li> 11:50 docs.google.com</li>
+<li class='same'> 11:33 docs.google.com</li>
+<li class='same'> 11:27 docs.google.com</li>
+<li> 11:19 mail.google.com</li>
+<li class='same'> 11:17 mail.google.com</li>
+<li class='same'> 11:14 mail.google.com</li>
+<li> 11:14 gmail.com</li>
+<li> 11:14 docs.google.com</li>
+<li class='same'> 11:13 docs.google.com</li>
+<li class='same'> 11:12 docs.google.com</li>
+<li class='same'> 11:11 docs.google.com</li>
+<li> 11:10 chatgpt.com</li>
+<li> 11:10 chat.openai.com</li>
+<li> 11:10 docs.google.com</li>
+<li class='same'> 11:09 docs.google.com</li>
+<li> 11:08 www.google.com</li>
+<li> 11:00 status.zen.co.uk</li>
+<li> 10:59 www.google.com</li>
+<li> 10:59 tvtropes.org</li>
+<li> 10:51 status.zen.co.uk</li>
+<li> 10:51 www.google.com</li>
+<li> 10:42 docs.google.com</li>
+<li> 10:18 tvtropes.org</li>
+<li class='same'> 10:17 tvtropes.org</li>
+<li class='same'> 10:11 tvtropes.org</li>
+<li> 10:11 www.google.com</li>
+<li class='same'> 10:06 www.google.com</li>
+<li> 09:46 0.0.0.0:8000</li>
 <li class='same'> 09:43 0.0.0.0:8000</li>
 <li class='same'> 09:42 0.0.0.0:8000</li>
+<li> 09:36 outlook.office.com</li>
+<li> 09:36 outlook.office365.com</li>
+<li> 09:32 www.google.com</li>
+<li class='same'> 09:31 www.google.com</li>
+<li class='same'> 09:30 www.google.com</li>
+<li> 09:25 fritz.box</li>
+<li> 09:24 www.google.com</li>
+<li> 09:23 community.talktalk.co.uk</li>
+<li> 09:22 www.google.com</li>
+<li> 09:22 fritz.box</li>
+<li> 09:21 groups.google.com</li>
+<li> 09:21 www.google.com</li>
+<li> 09:20 fritz.box</li>
+<li class='same'> 09:19 fritz.box</li>
+<li class='same'> 09:09 fritz.box</li>
+<li class='same'> 09:08 fritz.box</li>
+<li> 09:06 www.quora.com</li>
+<li> 09:06 www.google.com</li>
+<li class='same'> 09:05 www.google.com</li>
+<li> 09:05 www.airliners.net</li>
+<li class='same'> 09:04 www.airliners.net</li>
+<li> 09:04 www.google.com</li>
+<li> 09:03 fritz.box</li>
+<li> 09:02 www.quora.com</li>
+<li> 09:01 fritz.box</li>
+<li> 09:00 www.google.com</li>
+<li> 08:58 www.uea.ac.uk</li>
+<li> 08:58 www.google.com</li>
+<li> 08:57 tradingeconomics.com</li>
+<li> 08:56 www.google.com</li>
+<li class='same'> 08:30 www.google.com</li>
+<li class='same'> 08:29 www.google.com</li>
+<li> 08:29 disney.fandom.com</li>
+<li class='same'> 08:27 disney.fandom.com</li>
+<li> 08:27 www.google.com</li>
+<li class='same'> 08:26 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 05:57 www.google.com</li>
+<li class='same'> 05:56 www.google.com</li>
 </ul>
 
 <H3>Wednesday, 08/01/25</H3>
@@ -121,14 +362,47 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:52 docs.google.com</li>
+<ul><li> 21:36 bsky.app</li>
+<li class='same'> 21:34 bsky.app</li>
+<li> 21:22 outlook.office.com</li>
+<li class='same'> 21:21 outlook.office.com</li>
+<li> 21:21 outlook.office365.com</li>
+<li> 21:21 outlook.office.com</li>
+<li> 21:19 mail.google.com</li>
+<li> 21:19 gmail.com</li>
+<li> 21:06 docs.google.com</li>
+<li> 21:05 fritz.box</li>
+<li class='same'> 21:04 fritz.box</li>
+<li class='same'> 21:02 fritz.box</li>
+<li class='same'> 21:01 fritz.box</li>
+<li> 21:01 www.zen.co.uk</li>
+<li> 21:01 www.google.com</li>
+<li> 21:00 chatgpt.com</li>
+<li> 21:00 chat.openai.com</li>
+<li> 20:58 www.zen.co.uk</li>
+<li> 20:58 portal.zenbusiness.co.uk</li>
+<li> 20:58 www.zen.co.uk</li>
+<li class='same'> 20:57 www.zen.co.uk</li>
+<li> 20:57 www.google.com</li>
+<li class='same'> 20:56 www.google.com</li>
+<li> 20:55 community.bt.com</li>
+<li> 20:55 www.google.com</li>
+<li class='same'> 20:54 www.google.com</li>
+<li> 20:52 docs.google.com</li>
 <li> 20:52 community.bt.com</li>
 <li> 20:52 www.google.com</li>
 <li> 20:51 fritz.box</li>
 <li class='same'> 20:50 fritz.box</li>
-<li class='same'> 20:43 fritz.box</li>
-<li class='same'> 20:42 fritz.box</li>
-<li class='same'> 20:40 fritz.box</li>
+<li> 20:44 forums.thinkbroadband.com</li>
+<li> 20:44 www.google.com</li>
+<li> 20:43 fritz.box</li>
+<li> 20:43 forums.thinkbroadband.com</li>
+<li> 20:42 fritz.box</li>
+<li> 20:42 www.google.com</li>
+<li> 20:41 forums.thinkbroadband.com</li>
+<li> 20:41 www.google.com</li>
+<li class='same'> 20:40 www.google.com</li>
+<li> 20:40 fritz.box</li>
 <li class='same'> 20:39 fritz.box</li>
 <li class='same'> 20:38 fritz.box</li>
 <li class='same'> 20:34 fritz.box</li>
@@ -141,8 +415,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:22 fritz.box</li>
 <li> 20:22 fast.com</li>
 <li> 20:22 fritz.box</li>
-<li class='same'> 20:20 fritz.box</li>
-<li class='same'> 20:19 fritz.box</li>
+<li> 20:20 www.zen.co.uk</li>
+<li> 20:20 fritz.box</li>
+<li> 20:19 www.zen.co.uk</li>
+<li> 20:19 www.google.com</li>
+<li> 20:19 fritz.box</li>
 <li class='same'> 20:18 fritz.box</li>
 <li> 20:18 mail.google.com</li>
 <li> 20:18 fritz.box</li>
@@ -12216,6 +12493,7 @@ With number of accesses/minutes in parentheses
 <li> 06:55 0.0.0.0:8000</li>
 <li> 06:53 fritz.box</li>
 <li class='same'> 06:52 fritz.box</li>
+<li class='same'> 06:51 fritz.box</li>
 <li> 06:47 0.0.0.0:8000</li>
 <li> 06:41 fritz.box</li>
 <li class='same'> 06:40 fritz.box</li>
@@ -14494,11 +14772,9 @@ With number of accesses/minutes in parentheses
 <ul><li> 21:51 calendar.google.com</li>
 <li> 21:23 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
 <li class='same'> 21:22 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
-</ul>
-
-<br>
-
-<ul><li> 20:44 www.google.co.uk</li>
+<li> 21:12 127.0.0.1:4000</li>
+<li class='same'> 21:11 127.0.0.1:4000</li>
+<li> 20:44 www.google.co.uk</li>
 <li> 20:44 www.google.com</li>
 <li class='same'> 20:43 www.google.com</li>
 </ul>
@@ -15569,6 +15845,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:32 127.0.0.1:4000</li>
+</ul>
+
+<br>
+
 <ul><li> 09:43 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
 <li> 09:35 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 </ul>
@@ -15579,6 +15860,11 @@ With number of accesses/minutes in parentheses
 <li> 08:47 www.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 07:24 127.0.0.1:4000</li>
+</ul>
+
 <H3>Sunday, 04/08/24</H3>
 
 <br>
@@ -15587,7 +15873,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:27 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<ul><li class='same'> 21:47 127.0.0.1:4000</li>
+<li> 21:27 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 21:25 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 </ul>
 
@@ -16243,6 +16530,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:06 www.instagram.com</li>
 <li class='same'> 13:04 www.instagram.com</li>
 <li class='same'> 13:03 www.instagram.com</li>
+<li> 12:51 127.0.0.1:4000</li>
 </ul>
 
 <br>
@@ -16754,6 +17042,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:52 127.0.0.1:4000</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:15 127.0.0.1:4000</li>
+</ul>
+
+<br>
+
 <ul><li> 09:37 equalitytime.github.io</li>
 </ul>
 
@@ -16767,6 +17065,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:16 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 15:05 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 14:44 127.0.0.1:4000</li>
 </ul>
 
 <br>
@@ -16911,6 +17210,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:26 theopenvoicefactory.org</li>
 <li class='same'> 07:20 theopenvoicefactory.org</li>
+<li> 07:02 127.0.0.1:4000</li>
 <li> 06:51 github.com</li>
 </ul>
 
@@ -18174,7 +18474,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:49 gitlab.cim.rhul.ac.uk</li>
-<li class='same'> 09:20 gitlab.cim.rhul.ac.uk</li>
+<li> 09:33 status.zen.co.uk</li>
+<li> 09:20 gitlab.cim.rhul.ac.uk</li>
 <li> 08:53 www.royalholloway.ac.uk</li>
 </ul>
 
@@ -19120,6 +19421,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 09:48 rhul-my.sharepoint.com</li>
 <li> 09:42 sso.myfritz.net</li>
 <li> 09:42 www.myfritz.net</li>
+<li> 09:37 127.0.0.1:4000</li>
 </ul>
 
 <br>
@@ -19159,6 +19461,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:01 outlook.office.com</li>
 <li class='same'> 11:00 outlook.office.com</li>
 <li class='same'> 10:59 outlook.office.com</li>
+</ul>
+
+<H3>Saturday, 09/03/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 12:57 127.0.0.1:4000</li>
 </ul>
 
 <H3>Thursday, 07/03/24</H3>
@@ -19806,6 +20119,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:46 whitewaterwriters.com</li>
+<li> 11:42 127.0.0.1:4000</li>
 <li> 11:18 github.com</li>
 <li> 11:17 whitewaterwriters.com</li>
 </ul>
@@ -19836,6 +20150,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:18 online.unity.co.uk</li>
 <li class='same'> 13:09 online.unity.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 12:05 127.0.0.1:4000</li>
 </ul>
 
 <br>
@@ -20307,6 +20626,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:31 <a href="https://joereddington.com/2024/01/10/todo-txt-script-q-a.html">From email: todo.txt | Joe Reddington</a></li>
 <li> 13:31 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
+<li> 13:26 127.0.0.1:4000</li>
 </ul>
 
 <br>
@@ -20317,7 +20637,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:54 jekyllrb.com</li>
+<ul><li> 07:15 github.com</li>
+<li> 07:05 127.0.0.1:4000</li>
+<li> 06:54 jekyllrb.com</li>
 </ul>
 
 <H3>Tuesday, 09/01/24</H3>
@@ -21043,6 +21365,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:16 github.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:23 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
 <li> 07:10 bsky.app</li>
 </ul>
@@ -21168,6 +21495,11 @@ With number of accesses/minutes in parentheses
 <li> 12:46 drive.google.com</li>
 <li> 12:42 www.dropbox.com</li>
 <li> 12:28 drive.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:16 github.com</li>
 </ul>
 
 <H3>Monday, 20/11/23</H3>
@@ -21316,6 +21648,13 @@ With number of accesses/minutes in parentheses
 <li> 15:01 www.dropbox.com</li>
 </ul>
 
+<br>
+
+<ul><li> 07:17 127.0.0.1:4000</li>
+<li> 07:13 github.com</li>
+<li class='same'> 07:12 github.com</li>
+</ul>
+
 <H3>Monday, 13/11/23</H3>
 
 <br>
@@ -21324,7 +21663,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:23 github.com</li>
+<ul><li class='same'> 15:23 github.com</li>
 </ul>
 
 <br>
@@ -21757,7 +22096,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:31 bsky.app</li>
+<ul><li> 13:31 127.0.0.1:4000</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:01 127.0.0.1:4000</li>
+<li> 11:31 bsky.app</li>
 </ul>
 
 <br>
@@ -21923,6 +22268,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:41 fritz.box</li>
 <li class='same'> 18:38 fritz.box</li>
 <li class='same'> 18:37 fritz.box</li>
+<li class='same'> 18:36 fritz.box</li>
+<li class='same'> 18:34 fritz.box</li>
 </ul>
 
 <br>
@@ -21984,9 +22331,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 13:50 127.0.0.1:4000</li>
+</ul>
+
+<br>
+
 <ul><li> 12:42 scholar.google.com</li>
 <li> 12:42 equalitytime.github.io</li>
-<li class='same'> 12:20 equalitytime.github.io</li>
+<li> 12:23 127.0.0.1:4000</li>
+<li> 12:20 equalitytime.github.io</li>
 <li class='same'> 12:18 equalitytime.github.io</li>
 <li> 12:16 github.com</li>
 <li> 12:16 equalitytime.github.io</li>
@@ -22104,6 +22457,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:44 www.dropbox.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:25 127.0.0.1:4000</li>
+<li class='same'> 07:22 127.0.0.1:4000</li>
+<li class='same'> 06:53 127.0.0.1:4000</li>
 </ul>
 
 <H3>Tuesday, 19/09/23</H3>
@@ -22358,6 +22718,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:30 scholar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:22 127.0.0.1:4000</li>
 </ul>
 
 <H3>Thursday, 31/08/23</H3>
@@ -23039,6 +23404,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:26 github.com</li>
+<li> 11:22 127.0.0.1:4000</li>
 </ul>
 
 <br>
