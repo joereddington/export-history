@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1572)</li>
+<ol><li>www.google.com (1580)</li>
 <li>outlook.office365.com (993)</li>
-<li>mail.google.com (785)</li>
-<li>bsky.app (755)</li>
-<li>outlook.office.com (558)</li>
+<li>mail.google.com (802)</li>
+<li>bsky.app (760)</li>
+<li>outlook.office.com (571)</li>
 <li>docs.google.com (494)</li>
-<li>www.facebook.com (487)</li>
+<li>www.facebook.com (492)</li>
 <li>rhul-my.sharepoint.com (249)</li>
-<li>chatgpt.com (234)</li>
+<li>chatgpt.com (237)</li>
 <li>www.amazon.co.uk (222)</li>
 <li>www.reddit.com (218)</li>
-<li>login.microsoftonline.com (217)</li>
+<li>login.microsoftonline.com (218)</li>
 <li>github.com (206)</li>
+<li>calendar.google.com (205)</li>
 <li>moodle.royalholloway.ac.uk (203)</li>
-<li>calendar.google.com (203)</li>
+<li>www.linkedin.com (200)</li>
 <li>fritz.box (199)</li>
-<li>www.linkedin.com (198)</li>
 <li>forms.office.com (137)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
@@ -93,8 +93,8 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (80)</li>
 <li>www.tesco.com (75)</li>
 <li>www.instagram.com (73)</li>
+<li>whitewaterwriters.com (73)</li>
 <li>gitlab.cim.rhul.ac.uk (73)</li>
-<li>whitewaterwriters.com (72)</li>
 <li>online.unity.co.uk (66)</li>
 <li>myview.rhul.zellis.com (65)</li>
 <li>rhul.hosted.panopto.com (63)</li>
@@ -108,7 +108,87 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:46 www.coursera.org</li>
+<ul><li> 16:46 mail.google.com</li>
+<li> 16:46 accounts.google.com</li>
+<li> 16:46 gmail.com</li>
+<li> 16:46 www.facebook.com</li>
+<li> 16:45 chatgpt.com</li>
+<li> 16:45 www.google.com</li>
+<li> 16:45 www.facebook.com</li>
+<li> 16:44 www.google.com</li>
+<li> 16:43 claude.ai</li>
+<li> 16:43 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
+<li> 16:43 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:43 mail.google.com</li>
+<li> 16:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:42 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 16:40 mail.google.com</li>
+<li> 16:39 bsky.app</li>
+<li> 16:39 mail.google.com</li>
+<li class='same'> 16:38 mail.google.com</li>
+<li> 16:38 bsky.app</li>
+<li> 16:37 l.facebook.com</li>
+<li> 16:37 bsky.app</li>
+<li> 16:37 www.facebook.com</li>
+<li class='same'> 16:36 www.facebook.com</li>
+<li class='same'> 16:35 www.facebook.com</li>
+<li> 16:35 fast.com</li>
+<li> 16:34 mail.google.com</li>
+<li> 16:34 www.linkedin.com</li>
+<li class='same'> 16:33 www.linkedin.com</li>
+<li> 16:33 mail.google.com</li>
+<li> 16:33 forum.artofmemory.com</li>
+<li> 16:33 mail.google.com</li>
+<li> 16:32 calendar.google.com</li>
+<li> 16:32 mail.google.com</li>
+<li class='same'> 16:31 mail.google.com</li>
+<li> 16:30 www.google.com</li>
+<li> 16:28 web.whatsapp.com</li>
+<li> 16:27 bsky.app</li>
+<li> 16:27 mail.google.com</li>
+<li class='same'> 16:25 mail.google.com</li>
+<li class='same'> 16:24 mail.google.com</li>
+<li> 16:23 calendar.google.com</li>
+<li> 16:23 mail.google.com</li>
+<li class='same'> 16:22 mail.google.com</li>
+<li class='same'> 16:21 mail.google.com</li>
+<li class='same'> 16:20 mail.google.com</li>
+<li> 16:20 gmail.com</li>
+<li> 16:20 outlook.office.com</li>
+<li> 16:20 myaccount.microsoft.com</li>
+<li> 16:20 login.microsoftonline.com</li>
+<li> 16:20 myaccount.microsoft.com</li>
+<li> 16:19 bsky.app</li>
+<li> 16:19 outlook.office.com</li>
+<li class='same'> 16:18 outlook.office.com</li>
+<li class='same'> 16:17 outlook.office.com</li>
+<li> 16:16 chatgpt.com</li>
+<li class='same'> 16:15 chatgpt.com</li>
+<li> 16:15 chat.openai.com</li>
+<li> 16:15 whitewaterwriters.com</li>
+<li> 16:11 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 16:06 www.google.com</li>
+<li class='same'> 16:05 www.google.com</li>
+<li class='same'> 16:03 www.google.com</li>
+<li class='same'> 16:01 www.google.com</li>
+<li class='same'> 16:00 www.google.com</li>
+<li> 15:57 outlook.office.com</li>
+<li class='same'> 15:56 outlook.office.com</li>
+<li> 15:55 intranet.royalholloway.ac.uk</li>
+<li> 15:55 outlook.office.com</li>
+<li class='same'> 15:54 outlook.office.com</li>
+<li class='same'> 15:53 outlook.office.com</li>
+<li> 15:53 projects.cs.rhul.ac.uk</li>
+<li> 15:52 outlook.office.com</li>
+<li> 15:51 www.uolacademiccontractors.com</li>
+<li class='same'> 15:50 www.uolacademiccontractors.com</li>
+<li> 15:50 outlook.office.com</li>
+<li class='same'> 15:49 outlook.office.com</li>
+<li> 15:48 www.coursera.org</li>
+<li class='same'> 15:47 www.coursera.org</li>
+<li> 15:47 outlook.office.com</li>
+<li> 15:47 www.coursera.org</li>
+<li class='same'> 15:46 www.coursera.org</li>
 <li class='same'> 15:45 www.coursera.org</li>
 <li class='same'> 15:44 www.coursera.org</li>
 <li class='same'> 15:43 www.coursera.org</li>
@@ -19099,6 +19179,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:51 www.facebook.com</li>
+<li> 11:42 intranet.royalholloway.ac.uk</li>
 </ul>
 
 <br>
