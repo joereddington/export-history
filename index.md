@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1553)</li>
-<li>outlook.office365.com (989)</li>
+<ol><li>www.google.com (1554)</li>
+<li>outlook.office365.com (990)</li>
 <li>mail.google.com (780)</li>
 <li>bsky.app (753)</li>
-<li>outlook.office.com (542)</li>
+<li>outlook.office.com (546)</li>
 <li>www.facebook.com (487)</li>
-<li>docs.google.com (485)</li>
+<li>docs.google.com (486)</li>
 <li>rhul-my.sharepoint.com (249)</li>
 <li>chatgpt.com (229)</li>
 <li>www.amazon.co.uk (222)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (203)</li>
 <li>moodle.royalholloway.ac.uk (200)</li>
 <li>www.linkedin.com (198)</li>
-<li>fritz.box (187)</li>
+<li>fritz.box (188)</li>
 <li>forms.office.com (137)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:20 chatgpt.com</li>
+<ul><li> 12:29 outlook.office.com</li>
+<li> 12:28 projects.cs.rhul.ac.uk</li>
+<li> 12:28 outlook.office.com</li>
+<li class='same'> 12:27 outlook.office.com</li>
+<li> 12:27 outlook.office365.com</li>
+<li> 12:27 outlook.office.com</li>
+<li> 12:25 docs.google.com</li>
+<li> 12:24 192.168.178.38</li>
+<li> 12:23 fritz.box</li>
+<li> 12:23 www.google.com</li>
+<li> 12:20 chatgpt.com</li>
 <li> 12:13 fritz.box</li>
 <li class='same'> 12:02 fritz.box</li>
 <li class='same'> 11:59 fritz.box</li>
