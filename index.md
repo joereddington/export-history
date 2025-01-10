@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1552)</li>
+<ol><li>www.google.com (1553)</li>
 <li>outlook.office365.com (989)</li>
 <li>mail.google.com (780)</li>
 <li>bsky.app (753)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (203)</li>
 <li>moodle.royalholloway.ac.uk (200)</li>
 <li>www.linkedin.com (198)</li>
-<li>fritz.box (175)</li>
+<li>fritz.box (183)</li>
 <li>forms.office.com (137)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
@@ -108,13 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:44 fritz.box</li>
+<ul><li> 11:57 fritz.box</li>
+<li class='same'> 11:56 fritz.box</li>
+<li class='same'> 11:51 fritz.box</li>
+<li class='same'> 11:50 fritz.box</li>
+<li class='same'> 11:49 fritz.box</li>
+<li> 11:46 whatismyipaddress.com</li>
+<li> 11:46 www.google.com</li>
+<li> 11:44 fritz.box</li>
 <li class='same'> 11:43 fritz.box</li>
 <li> 11:42 fritzhelp.avm.de</li>
 <li> 11:42 fritz.box</li>
 <li class='same'> 11:41 fritz.box</li>
 <li> 11:41 fritzhelp.avm.de</li>
 <li> 11:41 fritz.box</li>
+<li class='same'> 11:38 fritz.box</li>
 <li class='same'> 11:34 fritz.box</li>
 <li> 11:21 askubuntu.com</li>
 <li> 11:21 www.google.com</li>
@@ -127,7 +135,9 @@ With number of accesses/minutes in parentheses
 <li> 11:07 chat.openai.com</li>
 <li> 11:07 fast.com</li>
 <li class='same'> 11:06 fast.com</li>
-<li> 10:56 fritz.box</li>
+<li> 11:03 fritz.box</li>
+<li class='same'> 11:00 fritz.box</li>
+<li class='same'> 10:56 fritz.box</li>
 <li class='same'> 10:51 fritz.box</li>
 <li> 10:51 www.reddit.com</li>
 <li> 10:51 www.google.com</li>
