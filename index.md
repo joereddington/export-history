@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (487)</li>
 <li>docs.google.com (485)</li>
 <li>rhul-my.sharepoint.com (249)</li>
-<li>chatgpt.com (228)</li>
+<li>chatgpt.com (229)</li>
 <li>www.amazon.co.uk (222)</li>
 <li>www.reddit.com (217)</li>
 <li>login.microsoftonline.com (215)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (203)</li>
 <li>moodle.royalholloway.ac.uk (200)</li>
 <li>www.linkedin.com (198)</li>
-<li>fritz.box (186)</li>
+<li>fritz.box (187)</li>
 <li>forms.office.com (137)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:02 fritz.box</li>
+<ul><li> 12:20 chatgpt.com</li>
+<li> 12:13 fritz.box</li>
+<li class='same'> 12:02 fritz.box</li>
 <li class='same'> 11:59 fritz.box</li>
 <li class='same'> 11:58 fritz.box</li>
 <li class='same'> 11:57 fritz.box</li>
