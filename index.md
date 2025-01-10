@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1564)</li>
-<li>outlook.office365.com (990)</li>
-<li>mail.google.com (782)</li>
+<ol><li>www.google.com (1570)</li>
+<li>outlook.office365.com (992)</li>
+<li>mail.google.com (785)</li>
 <li>bsky.app (755)</li>
-<li>outlook.office.com (547)</li>
+<li>outlook.office.com (557)</li>
+<li>docs.google.com (491)</li>
 <li>www.facebook.com (487)</li>
-<li>docs.google.com (486)</li>
 <li>rhul-my.sharepoint.com (249)</li>
 <li>chatgpt.com (234)</li>
 <li>www.amazon.co.uk (222)</li>
 <li>www.reddit.com (218)</li>
 <li>login.microsoftonline.com (217)</li>
 <li>github.com (206)</li>
+<li>moodle.royalholloway.ac.uk (203)</li>
 <li>calendar.google.com (203)</li>
-<li>moodle.royalholloway.ac.uk (202)</li>
 <li>www.linkedin.com (198)</li>
-<li>fritz.box (195)</li>
+<li>fritz.box (196)</li>
 <li>forms.office.com (137)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
 <li>drive.google.com (105)</li>
 <li>discord.com (89)</li>
 <li>www.theguardian.com (80)</li>
+<li>www.tesco.com (75)</li>
 <li>www.instagram.com (73)</li>
 <li>gitlab.cim.rhul.ac.uk (73)</li>
 <li>whitewaterwriters.com (72)</li>
-<li>www.tesco.com (69)</li>
 <li>online.unity.co.uk (66)</li>
 <li>myview.rhul.zellis.com (65)</li>
 <li>rhul.hosted.panopto.com (63)</li>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:07 pureportal.strath.ac.uk</li>
+<ul><li> 15:29 ubuntuforums.org</li>
+<li> 15:29 www.google.com</li>
+<li> 15:24 www.tesco.com</li>
+<li> 15:21 claude.ai</li>
+<li class='same'> 15:20 claude.ai</li>
+<li> 15:19 www.tesco.com</li>
+<li> 15:19 www.google.com</li>
+<li> 15:18 docs.google.com</li>
+<li> 15:17 www.google.com</li>
+<li> 15:16 outlook.office.com</li>
+<li> 15:16 outlook.office365.com</li>
+<li> 15:16 outlook.office.com</li>
+<li> 15:15 docs.google.com</li>
+<li> 15:11 www.tesco.com</li>
+<li> 15:11 docs.google.com</li>
+<li> 15:10 www.tesco.com</li>
+<li> 15:10 www.google.com</li>
+<li> 15:10 www.tesco.com</li>
+<li> 15:08 web.whatsapp.com</li>
+<li> 15:05 docs.google.com</li>
+<li> 15:05 www.tesco.com</li>
+<li> 15:05 www.google.com</li>
+<li> 15:05 docs.google.com</li>
+<li> 14:56 mail.google.com</li>
+<li class='same'> 14:55 mail.google.com</li>
+<li class='same'> 14:54 mail.google.com</li>
+<li> 14:54 outlook.office.com</li>
+<li> 14:42 claude.ai</li>
+<li> 14:41 outlook.office.com</li>
+<li class='same'> 14:40 outlook.office.com</li>
+<li> 14:32 moodle.royalholloway.ac.uk</li>
+<li> 14:32 outlook.office.com</li>
+<li class='same'> 14:31 outlook.office.com</li>
+<li class='same'> 14:30 outlook.office.com</li>
+<li> 14:30 jobs.royalholloway.ac.uk</li>
+<li> 14:25 outlook.office.com</li>
+<li> 14:25 outlook.office365.com</li>
+<li> 14:23 pure.royalholloway.ac.uk</li>
+<li> 14:22 www.google.com</li>
+<li> 14:19 fast.com</li>
+<li> 14:18 192.168.178.57</li>
+<li class='same'> 14:17 192.168.178.57</li>
+<li> 14:17 fritz.box</li>
+<li> 14:07 pureportal.strath.ac.uk</li>
 <li> 14:06 www.google.com</li>
 <li> 14:06 pureportal.strath.ac.uk</li>
 <li> 14:06 www.google.com</li>
@@ -150,6 +193,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:03 fast.com</li>
 <li> 13:01 chatgpt.com</li>
 <li> 13:01 chat.openai.com</li>
+<li> 13:01 fast.com</li>
+<li class='same'> 13:00 fast.com</li>
 <li> 13:00 192.168.178.1</li>
 <li class='same'> 12:59 192.168.178.1</li>
 <li> 12:56 fritz.box</li>
@@ -14464,7 +14509,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 12:16 outlook.office.com</li>
 <li> 12:11 mail.google.com</li>
-<li> 11:44 outlook.office.com</li>
+<li> 11:51 outlook.office.com</li>
+<li class='same'> 11:44 outlook.office.com</li>
 <li> 11:42 rhul-my.sharepoint.com</li>
 <li> 11:21 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 11:12 moodle.royalholloway.ac.uk</li>
