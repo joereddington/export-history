@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1559)</li>
+<ol><li>www.google.com (1564)</li>
 <li>outlook.office365.com (990)</li>
-<li>mail.google.com (781)</li>
+<li>mail.google.com (782)</li>
 <li>bsky.app (755)</li>
 <li>outlook.office.com (547)</li>
 <li>www.facebook.com (487)</li>
 <li>docs.google.com (486)</li>
 <li>rhul-my.sharepoint.com (249)</li>
-<li>chatgpt.com (232)</li>
+<li>chatgpt.com (234)</li>
 <li>www.amazon.co.uk (222)</li>
 <li>www.reddit.com (218)</li>
-<li>login.microsoftonline.com (216)</li>
+<li>login.microsoftonline.com (217)</li>
 <li>github.com (206)</li>
 <li>calendar.google.com (203)</li>
 <li>moodle.royalholloway.ac.uk (202)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:17 claude.ai</li>
+<ul><li> 14:07 pureportal.strath.ac.uk</li>
+<li> 14:06 www.google.com</li>
+<li> 14:06 pureportal.strath.ac.uk</li>
+<li> 14:06 www.google.com</li>
+<li class='same'> 14:02 www.google.com</li>
+<li> 13:59 pure.royalholloway.ac.uk</li>
+<li> 13:59 www.google.com</li>
+<li class='same'> 13:52 www.google.com</li>
+<li> 13:49 chatgpt.com</li>
+<li> 13:49 jobs.royalholloway.ac.uk</li>
+<li> 13:48 chatgpt.com</li>
+<li> 13:44 teams.microsoft.com</li>
+<li class='same'> 13:43 teams.microsoft.com</li>
+<li> 13:43 login.microsoftonline.com</li>
+<li> 13:43 teams.microsoft.com</li>
+<li> 13:43 mail.google.com</li>
+<li> 13:43 gmail.com</li>
+<li> 13:42 projects.cs.rhul.ac.uk</li>
+<li> 13:21 claude.ai</li>
+<li class='same'> 13:17 claude.ai</li>
 <li class='same'> 13:16 claude.ai</li>
 <li> 13:12 bsky.app</li>
 <li class='same'> 13:11 bsky.app</li>
@@ -13441,7 +13460,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 12:00 outlook.office365.com</li>
+<ul><li> 14:13 pure.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 12:00 outlook.office365.com</li>
 <li> 11:59 rhul-my.sharepoint.com</li>
 <li class='same'> 11:58 rhul-my.sharepoint.com</li>
 <li> 11:55 outlook.office365.com</li>
@@ -16643,6 +16667,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:01 x.com</li>
 <li> 16:46 jekyllrb.com</li>
 <li> 16:33 github.com</li>
+<li> 16:21 teams.microsoft.com</li>
 </ul>
 
 <br>
@@ -16780,6 +16805,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:05 mail.google.com</li>
 <li class='same'> 15:04 mail.google.com</li>
 <li> 14:56 equalitytime.github.io</li>
+<li> 14:27 teams.microsoft.com</li>
 </ul>
 
 <br>
