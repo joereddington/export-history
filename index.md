@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (1559)</li>
 <li>outlook.office365.com (990)</li>
-<li>mail.google.com (780)</li>
-<li>bsky.app (753)</li>
+<li>mail.google.com (781)</li>
+<li>bsky.app (755)</li>
 <li>outlook.office.com (547)</li>
 <li>www.facebook.com (487)</li>
 <li>docs.google.com (486)</li>
 <li>rhul-my.sharepoint.com (249)</li>
-<li>chatgpt.com (231)</li>
+<li>chatgpt.com (232)</li>
 <li>www.amazon.co.uk (222)</li>
 <li>www.reddit.com (218)</li>
 <li>login.microsoftonline.com (216)</li>
@@ -108,11 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:08 fast.com</li>
+<ul><li> 13:17 claude.ai</li>
+<li class='same'> 13:16 claude.ai</li>
+<li> 13:12 bsky.app</li>
+<li class='same'> 13:11 bsky.app</li>
+<li> 13:11 mail.google.com</li>
+<li> 13:11 gmail.com</li>
+<li> 13:10 192.168.178.1</li>
+<li class='same'> 13:09 192.168.178.1</li>
+<li class='same'> 13:08 192.168.178.1</li>
+<li> 13:08 fast.com</li>
 <li> 13:08 www.google.com</li>
 <li> 13:08 fritz.box</li>
+<li> 13:08 192.168.178.1</li>
+<li class='same'> 13:07 192.168.178.1</li>
+<li> 13:07 192.168.178.57</li>
+<li class='same'> 13:06 192.168.178.57</li>
+<li class='same'> 13:05 192.168.178.57</li>
+<li> 13:05 192.168.178.1</li>
+<li class='same'> 13:04 192.168.178.1</li>
 <li> 13:04 fast.com</li>
 <li class='same'> 13:03 fast.com</li>
+<li> 13:01 chatgpt.com</li>
+<li> 13:01 chat.openai.com</li>
 <li> 13:00 192.168.178.1</li>
 <li class='same'> 12:59 192.168.178.1</li>
 <li> 12:56 fritz.box</li>
