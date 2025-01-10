@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1554)</li>
+<ol><li>www.google.com (1559)</li>
 <li>outlook.office365.com (990)</li>
 <li>mail.google.com (780)</li>
 <li>bsky.app (753)</li>
-<li>outlook.office.com (546)</li>
+<li>outlook.office.com (547)</li>
 <li>www.facebook.com (487)</li>
 <li>docs.google.com (486)</li>
 <li>rhul-my.sharepoint.com (249)</li>
-<li>chatgpt.com (229)</li>
+<li>chatgpt.com (231)</li>
 <li>www.amazon.co.uk (222)</li>
-<li>www.reddit.com (217)</li>
-<li>login.microsoftonline.com (215)</li>
+<li>www.reddit.com (218)</li>
+<li>login.microsoftonline.com (216)</li>
 <li>github.com (206)</li>
 <li>calendar.google.com (203)</li>
-<li>moodle.royalholloway.ac.uk (200)</li>
+<li>moodle.royalholloway.ac.uk (202)</li>
 <li>www.linkedin.com (198)</li>
-<li>fritz.box (188)</li>
+<li>fritz.box (195)</li>
 <li>forms.office.com (137)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:29 outlook.office.com</li>
+<ul><li> 13:08 fast.com</li>
+<li> 13:08 www.google.com</li>
+<li> 13:08 fritz.box</li>
+<li> 13:04 fast.com</li>
+<li class='same'> 13:03 fast.com</li>
+<li> 13:00 192.168.178.1</li>
+<li class='same'> 12:59 192.168.178.1</li>
+<li> 12:56 fritz.box</li>
+<li class='same'> 12:55 fritz.box</li>
+<li> 12:52 www.google.com</li>
+<li> 12:49 chatgpt.com</li>
+<li> 12:48 www.reddit.com</li>
+<li> 12:48 www.google.com</li>
+<li> 12:48 chatgpt.com</li>
+<li> 12:48 chat.openai.com</li>
+<li> 12:48 fast.com</li>
+<li> 12:47 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:46 moodle.royalholloway.ac.uk</li>
+<li> 12:46 login.microsoftonline.com</li>
+<li> 12:43 projects.cs.rhul.ac.uk</li>
+<li> 12:43 outlook.office.com</li>
+<li> 12:43 fritz.box</li>
+<li> 12:42 en.avm.de</li>
+<li> 12:42 www.google.com</li>
+<li class='same'> 12:41 www.google.com</li>
+<li> 12:41 fritz.box</li>
+<li class='same'> 12:40 fritz.box</li>
+<li class='same'> 12:39 fritz.box</li>
+<li> 12:34 www.wireshark.org</li>
+<li> 12:29 outlook.office.com</li>
 <li> 12:28 projects.cs.rhul.ac.uk</li>
 <li> 12:28 outlook.office.com</li>
 <li class='same'> 12:27 outlook.office.com</li>
@@ -250,7 +279,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:06 fritz.box</li>
 <li class='same'> 07:02 fritz.box</li>
 <li class='same'> 07:01 fritz.box</li>
-<li class='same'> 07:00 fritz.box</li>
+<li> 07:01 fast.com</li>
+<li> 07:00 fritz.box</li>
 <li class='same'> 06:59 fritz.box</li>
 <li class='same'> 06:58 fritz.box</li>
 </ul>
@@ -384,11 +414,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:27 disney.fandom.com</li>
 <li> 08:27 www.google.com</li>
 <li class='same'> 08:26 www.google.com</li>
+<li> 08:26 fast.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 05:57 www.google.com</li>
+<ul><li class='same'> 05:58 fast.com</li>
+<li> 05:57 www.google.com</li>
 <li class='same'> 05:56 www.google.com</li>
 </ul>
 
@@ -468,6 +500,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:15 fritz.box</li>
 <li class='same'> 20:14 fritz.box</li>
 <li class='same'> 20:13 fritz.box</li>
+<li> 20:13 fast.com</li>
 <li> 20:07 mail.google.com</li>
 <li> 20:06 fritz.box</li>
 <li class='same'> 20:05 fritz.box</li>
@@ -492,7 +525,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 18:29 192.168.188.1</li>
+<ul><li> 18:38 fast.com</li>
+<li> 18:29 192.168.188.1</li>
 <li class='same'> 18:12 192.168.188.1</li>
 <li> 18:12 fast.com</li>
 <li> 18:12 192.168.188.1</li>
@@ -19456,7 +19490,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 09:48 rhul-my.sharepoint.com</li>
+<ul><li> 10:02 192.168.178.1</li>
+<li class='same'> 10:01 192.168.178.1</li>
+<li> 09:48 rhul-my.sharepoint.com</li>
 <li> 09:42 sso.myfritz.net</li>
 <li> 09:42 www.myfritz.net</li>
 <li> 09:37 127.0.0.1:4000</li>
