@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (203)</li>
 <li>moodle.royalholloway.ac.uk (200)</li>
 <li>www.linkedin.com (198)</li>
-<li>fritz.box (169)</li>
+<li>fritz.box (175)</li>
 <li>forms.office.com (137)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:21 askubuntu.com</li>
+<ul><li> 11:44 fritz.box</li>
+<li class='same'> 11:43 fritz.box</li>
+<li> 11:42 fritzhelp.avm.de</li>
+<li> 11:42 fritz.box</li>
+<li class='same'> 11:41 fritz.box</li>
+<li> 11:41 fritzhelp.avm.de</li>
+<li> 11:41 fritz.box</li>
+<li class='same'> 11:34 fritz.box</li>
+<li> 11:21 askubuntu.com</li>
 <li> 11:21 www.google.com</li>
 <li> 11:18 www.pistonheads.com</li>
 <li> 11:17 www.iegeek.com</li>
