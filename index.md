@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (1572)</li>
-<li>outlook.office365.com (992)</li>
+<li>outlook.office365.com (993)</li>
 <li>mail.google.com (785)</li>
 <li>bsky.app (755)</li>
-<li>outlook.office.com (557)</li>
-<li>docs.google.com (491)</li>
+<li>outlook.office.com (558)</li>
+<li>docs.google.com (494)</li>
 <li>www.facebook.com (487)</li>
 <li>rhul-my.sharepoint.com (249)</li>
 <li>chatgpt.com (234)</li>
@@ -83,8 +83,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (206)</li>
 <li>moodle.royalholloway.ac.uk (203)</li>
 <li>calendar.google.com (203)</li>
+<li>fritz.box (199)</li>
 <li>www.linkedin.com (198)</li>
-<li>fritz.box (196)</li>
 <li>forms.office.com (137)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:33 askubuntu.com</li>
+<ul><li> 15:46 www.coursera.org</li>
+<li class='same'> 15:45 www.coursera.org</li>
+<li class='same'> 15:44 www.coursera.org</li>
+<li class='same'> 15:43 www.coursera.org</li>
+<li> 15:43 docs.google.com</li>
+<li> 15:43 www.coursera.org</li>
+<li> 15:43 outlook.office.com</li>
+<li> 15:43 outlook.office365.com</li>
+<li> 15:41 192.168.178.57</li>
+<li class='same'> 15:40 192.168.178.57</li>
+<li> 15:40 fast.com</li>
+<li> 15:40 192.168.178.57</li>
+<li class='same'> 15:37 192.168.178.57</li>
+<li> 15:37 fritz.box</li>
+<li class='same'> 15:36 fritz.box</li>
+<li> 15:35 docs.google.com</li>
+<li class='same'> 15:34 docs.google.com</li>
+<li> 15:33 fritz.box</li>
+<li> 15:33 askubuntu.com</li>
 <li class='same'> 15:32 askubuntu.com</li>
 <li class='same'> 15:30 askubuntu.com</li>
 <li> 15:30 www.google.com</li>
