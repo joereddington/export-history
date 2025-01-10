@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1580)</li>
+<ol><li>www.google.com (1582)</li>
 <li>outlook.office365.com (993)</li>
-<li>mail.google.com (802)</li>
-<li>bsky.app (760)</li>
+<li>mail.google.com (807)</li>
+<li>bsky.app (771)</li>
 <li>outlook.office.com (571)</li>
-<li>docs.google.com (494)</li>
-<li>www.facebook.com (492)</li>
+<li>docs.google.com (495)</li>
+<li>www.facebook.com (495)</li>
 <li>rhul-my.sharepoint.com (249)</li>
 <li>chatgpt.com (237)</li>
-<li>www.amazon.co.uk (222)</li>
-<li>www.reddit.com (218)</li>
+<li>www.amazon.co.uk (224)</li>
+<li>www.reddit.com (220)</li>
 <li>login.microsoftonline.com (218)</li>
-<li>github.com (206)</li>
+<li>github.com (207)</li>
 <li>calendar.google.com (205)</li>
 <li>moodle.royalholloway.ac.uk (203)</li>
 <li>www.linkedin.com (200)</li>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:46 mail.google.com</li>
+<ul><li> 17:35 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
+<li> 17:35 bsky.app</li>
+<li class='same'> 17:29 bsky.app</li>
+<li> 17:28 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
+<li> 17:25 bsky.app</li>
+<li class='same'> 17:14 bsky.app</li>
+<li> 17:14 www.reddit.com</li>
+<li class='same'> 17:13 www.reddit.com</li>
+<li> 17:13 www.google.com</li>
+<li> 17:12 www.facebook.com</li>
+<li> 17:08 bsky.app</li>
+<li class='same'> 17:06 bsky.app</li>
+<li> 17:02 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
+<li> 17:02 bsky.app</li>
+<li class='same'> 16:59 bsky.app</li>
+<li class='same'> 16:57 bsky.app</li>
+<li class='same'> 16:56 bsky.app</li>
+<li> 16:54 web.whatsapp.com</li>
+<li> 16:54 github.com</li>
+<li> 16:54 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
+<li> 16:53 bsky.app</li>
+<li> 16:53 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 16:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:53 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 16:53 www.facebook.com</li>
+<li class='same'> 16:52 www.facebook.com</li>
+<li> 16:52 www.amazon.co.uk</li>
+<li class='same'> 16:51 www.amazon.co.uk</li>
+<li> 16:51 docs.google.com</li>
+<li> 16:51 mail.google.com</li>
+<li class='same'> 16:49 mail.google.com</li>
+<li class='same'> 16:48 mail.google.com</li>
+<li class='same'> 16:47 mail.google.com</li>
+<li class='same'> 16:46 mail.google.com</li>
+<li> 16:46 gmail.com</li>
+<li> 16:46 mail.google.com</li>
 <li> 16:46 accounts.google.com</li>
 <li> 16:46 gmail.com</li>
 <li> 16:46 www.facebook.com</li>
@@ -14384,6 +14419,7 @@ With number of accesses/minutes in parentheses
 <li> 10:27 ico.org.uk</li>
 <li> 10:26 <a href="https://en.wikipedia.org/wiki/Modernizr">Modernizr - Wikipedia</a></li>
 <li> 10:26 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 10:21 www.google.com</li>
 <li> 10:20 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 09:50 mail.google.com</li>
 <li> 09:35 moodle.royalholloway.ac.uk</li>
