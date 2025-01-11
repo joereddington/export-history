@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (1584)</li>
 <li>outlook.office365.com (993)</li>
 <li>mail.google.com (812)</li>
-<li>bsky.app (771)</li>
+<li>bsky.app (776)</li>
 <li>outlook.office.com (571)</li>
-<li>www.facebook.com (497)</li>
+<li>www.facebook.com (498)</li>
 <li>docs.google.com (495)</li>
 <li>rhul-my.sharepoint.com (249)</li>
 <li>chatgpt.com (237)</li>
-<li>www.amazon.co.uk (224)</li>
-<li>www.reddit.com (222)</li>
+<li>www.amazon.co.uk (225)</li>
+<li>www.reddit.com (223)</li>
 <li>login.microsoftonline.com (218)</li>
 <li>github.com (207)</li>
 <li>calendar.google.com (205)</li>
@@ -104,11 +104,40 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 11/01/25</H3>
+
+<br>
+
+<ul><li> 07:43 www.reddit.com</li>
+<li> 07:25 web.whatsapp.com</li>
+<li> 07:25 fast.com</li>
+</ul>
+
 <H3>Friday, 10/01/25</H3>
 
 <br>
 
-<ul><li> 18:33 www.facebook.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 22:36 www.facebook.com</li>
+<li> 22:35 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 21:48 bsky.app</li>
+<li class='same'> 21:47 bsky.app</li>
+<li class='same'> 21:46 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:34 bsky.app</li>
+<li> 18:33 www.amazon.co.uk</li>
+<li> 18:33 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 18:33 www.facebook.com</li>
 <li> 18:12 mail.google.com</li>
 <li> 18:11 www.reddit.com</li>
 <li class='same'> 18:10 www.reddit.com</li>
