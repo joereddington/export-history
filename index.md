@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (1587)</li>
 <li>outlook.office365.com (993)</li>
 <li>mail.google.com (812)</li>
-<li>bsky.app (776)</li>
+<li>bsky.app (778)</li>
 <li>outlook.office.com (571)</li>
-<li>docs.google.com (503)</li>
+<li>docs.google.com (514)</li>
 <li>www.facebook.com (498)</li>
 <li>rhul-my.sharepoint.com (249)</li>
-<li>chatgpt.com (237)</li>
+<li>chatgpt.com (238)</li>
 <li>www.amazon.co.uk (225)</li>
 <li>www.reddit.com (223)</li>
 <li>login.microsoftonline.com (218)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (105)</li>
 <li>discord.com (89)</li>
 <li>www.theguardian.com (80)</li>
-<li>www.tesco.com (77)</li>
+<li>www.tesco.com (78)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 <li>gitlab.cim.rhul.ac.uk (73)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:44 www.google.com</li>
+<ul><li> 15:01 bsky.app</li>
+<li class='same'> 15:00 bsky.app</li>
+<li> 14:59 web.whatsapp.com</li>
+<li> 14:59 docs.google.com</li>
+<li class='same'> 14:58 docs.google.com</li>
+<li class='same'> 14:57 docs.google.com</li>
+<li class='same'> 14:56 docs.google.com</li>
+<li class='same'> 14:55 docs.google.com</li>
+<li> 14:54 chatgpt.com</li>
+<li> 14:53 docs.google.com</li>
+<li class='same'> 14:52 docs.google.com</li>
+<li class='same'> 14:51 docs.google.com</li>
+<li class='same'> 14:50 docs.google.com</li>
+<li class='same'> 14:48 docs.google.com</li>
+<li class='same'> 14:47 docs.google.com</li>
+<li> 14:47 www.tesco.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:45 <a href="https://en.wikipedia.org/wiki/Sam_Bain">Sam Bain - Wikipedia</a></li>
+<li> 08:44 <a href="https://en.wikipedia.org/wiki/Jesse_Armstrong">Jesse Armstrong - Wikipedia</a></li>
+<li> 08:44 www.google.com</li>
 <li> 08:43 docs.google.com</li>
 <li class='same'> 08:42 docs.google.com</li>
 <li class='same'> 08:41 docs.google.com</li>
