@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1584)</li>
+<ol><li>www.google.com (1587)</li>
 <li>outlook.office365.com (993)</li>
 <li>mail.google.com (812)</li>
 <li>bsky.app (776)</li>
 <li>outlook.office.com (571)</li>
+<li>docs.google.com (503)</li>
 <li>www.facebook.com (498)</li>
-<li>docs.google.com (495)</li>
 <li>rhul-my.sharepoint.com (249)</li>
 <li>chatgpt.com (237)</li>
 <li>www.amazon.co.uk (225)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (105)</li>
 <li>discord.com (89)</li>
 <li>www.theguardian.com (80)</li>
-<li>www.tesco.com (75)</li>
+<li>www.tesco.com (77)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 <li>gitlab.cim.rhul.ac.uk (73)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 11/01/25</H3>
+
+<br>
+
+<ul><li> 08:44 www.google.com</li>
+<li> 08:43 docs.google.com</li>
+<li class='same'> 08:42 docs.google.com</li>
+<li class='same'> 08:41 docs.google.com</li>
+<li> 08:40 groceries.aldi.co.uk</li>
+<li> 08:40 www.google.com</li>
+<li class='same'> 08:39 www.google.com</li>
+<li> 08:38 docs.google.com</li>
+<li class='same'> 08:37 docs.google.com</li>
+<li> 08:37 www.tesco.com</li>
+<li> 08:37 docs.google.com</li>
+<li class='same'> 08:36 docs.google.com</li>
+<li> 08:35 www.tesco.com</li>
+<li> 08:34 docs.google.com</li>
+</ul>
 
 <br>
 
