@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1622)</li>
+<ol><li>www.google.com (1630)</li>
 <li>outlook.office365.com (993)</li>
 <li>mail.google.com (812)</li>
 <li>bsky.app (780)</li>
@@ -77,8 +77,8 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (502)</li>
 <li>rhul-my.sharepoint.com (249)</li>
 <li>chatgpt.com (240)</li>
-<li>www.reddit.com (227)</li>
-<li>www.amazon.co.uk (225)</li>
+<li>www.reddit.com (231)</li>
+<li>www.amazon.co.uk (227)</li>
 <li>login.microsoftonline.com (218)</li>
 <li>github.com (207)</li>
 <li>calendar.google.com (205)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
 <li>drive.google.com (105)</li>
+<li>www.theguardian.com (91)</li>
 <li>discord.com (89)</li>
-<li>www.theguardian.com (81)</li>
 <li>www.tesco.com (79)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:19 www.google.com</li>
+<ul><li> 14:19 waltdisneytravel.queue-it.net</li>
+<li> 14:19 www.disneyholidays.co.uk</li>
+<li> 14:19 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:19 www.google.com</li>
 </ul>
 
 <br>
@@ -2830,6 +2837,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:50 tvtropes.org</li>
+<li class='same'> 18:49 tvtropes.org</li>
+<li class='same'> 18:47 tvtropes.org</li>
+<li> 18:47 www.google.com</li>
+<li> 18:47 www.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 14:23 www.reddit.com</li>
 <li> 14:21 www.google.com</li>
 <li> 14:20 bookings.freshcarvaleting.com</li>
@@ -3208,7 +3224,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:43 www.goodhousekeeping.com</li>
+<ul><li> 10:19 www.theguardian.com</li>
+<li> 10:19 www.reddit.com</li>
+<li class='same'> 10:17 www.reddit.com</li>
+<li class='same'> 10:14 www.reddit.com</li>
+<li> 10:13 www.theguardian.com</li>
+<li class='same'> 10:09 www.theguardian.com</li>
+<li class='same'> 10:08 www.theguardian.com</li>
+<li class='same'> 10:06 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:59 www.theguardian.com</li>
+<li class='same'> 08:57 www.theguardian.com</li>
+<li class='same'> 08:56 www.theguardian.com</li>
+<li class='same'> 08:53 www.theguardian.com</li>
+<li> 08:43 www.goodhousekeeping.com</li>
 <li> 08:32 bsky.app</li>
 <li class='same'> 08:29 bsky.app</li>
 <li> 08:23 www.facebook.com</li>
@@ -3242,7 +3274,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 21:06 www.cmlibrary.org</li>
+<ul><li> 21:30 www.projectaon.org</li>
+<li class='same'> 21:29 www.projectaon.org</li>
+<li> 21:29 www.google.com</li>
+<li> 21:06 www.cmlibrary.org</li>
 <li class='same'> 21:05 www.cmlibrary.org</li>
 <li> 21:05 www.google.com</li>
 </ul>
@@ -3313,6 +3348,10 @@ With number of accesses/minutes in parentheses
 <li> 07:27 bsky.app</li>
 <li class='same'> 07:26 bsky.app</li>
 <li class='same'> 07:25 bsky.app</li>
+<li> 07:09 www.amazon.co.uk</li>
+<li class='same'> 07:08 www.amazon.co.uk</li>
+<li> 07:08 www.google.com</li>
+<li> 07:08 claywithcarole.co.uk</li>
 </ul>
 
 <H3>Thursday, 26/12/24</H3>
@@ -3323,7 +3362,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 20:15 bsky.app</li>
+<ul><li> 20:15 bsky.app</li>
 <li> 20:13 bluesky-thread-composer.pages.dev</li>
 <li> 20:13 blueskydirectory.com</li>
 <li> 20:13 www.facebook.com</li>
@@ -3341,6 +3380,16 @@ With number of accesses/minutes in parentheses
 <li> 19:42 rot13.com</li>
 <li> 19:42 www.google.com</li>
 <li class='same'> 19:29 www.google.com</li>
+<li> 19:23 claywithcarole.co.uk</li>
+<li class='same'> 19:22 claywithcarole.co.uk</li>
+<li class='same'> 19:21 claywithcarole.co.uk</li>
+<li> 19:20 www.google.com</li>
+<li> 19:19 www.kilnshare.com</li>
+<li> 19:19 www.google.com</li>
+<li> 19:18 www.reddit.com</li>
+<li> 19:18 www.google.com</li>
+<li> 19:15 edu.rsc.org</li>
+<li> 19:15 www.google.com</li>
 </ul>
 
 <br>
@@ -4062,7 +4111,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:19 www.google.com</li>
+<ul><li> 12:31 lifehacker.com</li>
+<li class='same'> 12:29 lifehacker.com</li>
+<li> 12:19 <a href="https://www.bbc.co.uk/news/articles/cp3zqen209go">Minister Tulip Siddiq named in Bangladesh corruption probe - BBC News</a></li>
+<li> 12:19 www.google.com</li>
 <li> 12:19 www.victorinox.com</li>
 </ul>
 
