@@ -68,43 +68,59 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1603)</li>
+<ol><li>www.google.com (1622)</li>
 <li>outlook.office365.com (993)</li>
 <li>mail.google.com (812)</li>
 <li>bsky.app (780)</li>
 <li>outlook.office.com (571)</li>
 <li>docs.google.com (522)</li>
-<li>www.facebook.com (501)</li>
+<li>www.facebook.com (502)</li>
 <li>rhul-my.sharepoint.com (249)</li>
 <li>chatgpt.com (240)</li>
+<li>www.reddit.com (227)</li>
 <li>www.amazon.co.uk (225)</li>
-<li>www.reddit.com (223)</li>
 <li>login.microsoftonline.com (218)</li>
 <li>github.com (207)</li>
 <li>calendar.google.com (205)</li>
 <li>moodle.royalholloway.ac.uk (203)</li>
 <li>www.linkedin.com (200)</li>
-<li>fritz.box (199)</li>
+<li>fritz.box (200)</li>
 <li>forms.office.com (137)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
 <li>drive.google.com (105)</li>
 <li>discord.com (89)</li>
-<li>www.theguardian.com (80)</li>
+<li>www.theguardian.com (81)</li>
 <li>www.tesco.com (79)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 <li>gitlab.cim.rhul.ac.uk (73)</li>
 <li>online.unity.co.uk (66)</li>
 <li>myview.rhul.zellis.com (65)</li>
-<li>rhul.hosted.panopto.com (63)</li>
+<li>fast.com (65)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Sunday, 12/01/25</H3>
+
+<br>
+
+<ul><li> 12:19 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:04 www.google.com</li>
+</ul>
+
 <H3>Saturday, 11/01/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -132,6 +148,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:44 www.google.com</li>
+<li> 20:39 www.lutonairportexpress.co.uk</li>
+<li> 20:39 www.google.com</li>
+<li> 20:39 www.reddit.com</li>
+<li class='same'> 20:38 www.reddit.com</li>
+</ul>
+
+<br>
+
 <ul><li> 19:30 <a href="https://www.youtube.com/watch?v=XOnHtStmbCI">(88) Mickey and Donald Have a Farm 🚜 | S4 E1 | Full Episode | Mickey Mouse Clubhouse | ‪@disneyjr‬ - YouTube</a></li>
 <li> 19:29 <a href="https://www.youtube.com/results?search_query=micky">(88) micky - YouTube</a></li>
 <li> 19:29 <a href="https://www.youtube.com/shorts/b7N2eutxQ4g">(88) Mickey Mouse meets Thomas The Train Engine #shorts - YouTube</a></li>
@@ -145,6 +170,12 @@ With number of accesses/minutes in parentheses
 <li> 19:23 <a href="https://www.youtube.com/channel/UCVzLLZkDuFGAE2BGdBuBNBg">(88) Bluey - Official Channel - YouTube</a></li>
 <li> 19:23 www.google.com</li>
 <li class='same'> 19:22 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:25 www.reddit.com</li>
+<li> 17:25 www.google.com</li>
 </ul>
 
 <br>
@@ -232,11 +263,10 @@ With number of accesses/minutes in parentheses
 <li> 18:06 mail.google.com</li>
 <li class='same'> 18:05 mail.google.com</li>
 <li> 18:05 gmail.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:35 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
+<li> 17:46 www.google.com</li>
+<li class='same'> 17:45 www.google.com</li>
+<li> 17:45 fast.com</li>
+<li> 17:35 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
 <li> 17:35 bsky.app</li>
 <li class='same'> 17:29 bsky.app</li>
 <li> 17:28 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
@@ -569,12 +599,16 @@ With number of accesses/minutes in parentheses
 <li> 10:22 fritz.box</li>
 <li> 10:22 dnschecker.org</li>
 <li> 10:22 www.google.com</li>
+<li> 10:20 fast.com</li>
+<li class='same'> 10:17 fast.com</li>
 <li> 10:17 fritz.box</li>
 <li class='same'> 10:16 fritz.box</li>
 <li class='same'> 10:15 fritz.box</li>
 <li class='same'> 10:14 fritz.box</li>
 <li class='same'> 10:13 fritz.box</li>
 <li class='same'> 10:11 fritz.box</li>
+<li> 10:09 fast.com</li>
+<li> 10:09 fritz.box</li>
 <li> 10:08 chatgpt.com</li>
 <li class='same'> 10:07 chatgpt.com</li>
 <li> 09:58 www.google.com</li>
@@ -588,6 +622,7 @@ With number of accesses/minutes in parentheses
 <li> 09:47 chat.openai.com</li>
 <li> 09:45 fritz.box</li>
 <li class='same'> 09:44 fritz.box</li>
+<li> 09:43 fast.com</li>
 <li> 09:40 en.avm.de</li>
 <li> 09:40 www.google.com</li>
 <li> 09:40 outlook.office.com</li>
@@ -675,6 +710,15 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:57 mail.google.com</li>
 <li class='same'> 13:56 mail.google.com</li>
 <li> 13:55 gmail.com</li>
+<li> 13:37 www.theguardian.com</li>
+<li> 13:37 www.google.com</li>
+<li class='same'> 13:36 www.google.com</li>
+<li> 13:36 www.reddit.com</li>
+<li> 13:36 bookings.freshcarvaleting.com</li>
+<li> 13:36 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
+<li> 13:36 tradingeconomics.com</li>
+<li> 13:36 www.google.com</li>
+<li class='same'> 13:35 www.google.com</li>
 </ul>
 
 <br>
@@ -15799,6 +15843,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:57 accounts.google.com</li>
 <li> 10:53 kdpreports.amazon.com</li>
+<li> 10:41 www.google.com</li>
 <li> 10:28 feedly.com</li>
 <li class='same'> 10:27 feedly.com</li>
 <li class='same'> 10:26 feedly.com</li>
@@ -16621,7 +16666,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:41 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 18:58 m.youtube.com</li>
+<li> 18:50 www.google.com</li>
 <li> 18:47 tvtropes.org</li>
 </ul>
 
@@ -16829,6 +16880,18 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:32 discord.com</li>
 <li> 11:30 chatgpt.com</li>
+<li> 11:25 whatismyipaddress.com</li>
+</ul>
+
+<H3>Sunday, 14/07/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 12:22 www.google.com</li>
 </ul>
 
 <H3>Saturday, 13/07/24</H3>
@@ -16933,6 +16996,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:14 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:16 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li class='same'> 07:04 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li class='same'> 07:02 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
@@ -16975,6 +17043,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:07 <a href="https://joereddington.com/2024/03/12/half-marathon.html">Long Distance Running | Joe Reddington</a></li>
 <li> 12:04 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 11:55 <a href="https://joereddington.com/2024/03/12/half-marathon.html">Long Distance Running | Joe Reddington</a></li>
+</ul>
+
+<H3>Sunday, 07/07/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 14:14 www.google.com</li>
 </ul>
 
 <H3>Friday, 05/07/24</H3>
@@ -17162,6 +17241,16 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:15 www.facebook.com</li>
 <li class='same'> 17:14 www.facebook.com</li>
 <li class='same'> 17:05 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:39 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:10 www.google.com</li>
 </ul>
 
 <H3>Saturday, 29/06/24</H3>
@@ -21096,6 +21185,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 07:51 www.facebook.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:15 github.com</li>
 <li> 07:05 127.0.0.1:4000</li>
 <li> 06:54 jekyllrb.com</li>
@@ -21549,6 +21643,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:45 www.dropbox.com</li>
+<li> 19:40 whatismyipaddress.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:46 whatismyipaddress.com</li>
 </ul>
 
 <br>
