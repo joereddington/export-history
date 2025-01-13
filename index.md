@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1630)</li>
+<ol><li>www.google.com (1638)</li>
 <li>outlook.office365.com (993)</li>
 <li>mail.google.com (812)</li>
 <li>bsky.app (780)</li>
@@ -95,9 +95,9 @@ With number of accesses/minutes in parentheses
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 <li>gitlab.cim.rhul.ac.uk (73)</li>
+<li>tvtropes.org (68)</li>
 <li>online.unity.co.uk (66)</li>
 <li>myview.rhul.zellis.com (65)</li>
-<li>fast.com (65)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:19 waltdisneytravel.queue-it.net</li>
+<ul><li> 21:56 www.google.com</li>
+<li> 21:33 theopenvoicefactory.org</li>
+<li> 21:16 tvtropes.org</li>
+<li class='same'> 21:15 tvtropes.org</li>
+<li class='same'> 21:14 tvtropes.org</li>
+<li class='same'> 21:09 tvtropes.org</li>
+<li> 21:09 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:14 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:22 www.google.com</li>
+<li class='same'> 14:21 www.google.com</li>
+<li class='same'> 14:20 www.google.com</li>
+<li> 14:20 www.disneylandparis.com</li>
+<li> 14:20 www.google.com</li>
+<li class='same'> 14:19 www.google.com</li>
+<li> 14:19 waltdisneytravel.queue-it.net</li>
 <li> 14:19 www.disneyholidays.co.uk</li>
 <li> 14:19 www.google.com</li>
 </ul>
