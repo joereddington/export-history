@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1639)</li>
+<ol><li>www.google.com (1645)</li>
 <li>outlook.office365.com (993)</li>
 <li>mail.google.com (812)</li>
 <li>bsky.app (780)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:12 www.dominos.com</li>
+<ul><li> 19:06 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 19:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 19:06 www.google.com</li>
+<li> 18:40 www.researchgate.net</li>
+<li> 18:40 variety.com</li>
+<li> 18:39 www.google.com</li>
+<li> 18:38 nymag.com</li>
+<li> 18:38 www.google.com</li>
+<li> 18:38 www.newyorker.com</li>
+<li> 18:38 www.google.com</li>
+<li class='same'> 18:37 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:14 www.google.com</li>
+<li> 17:13 commande.dominos.fr</li>
+<li class='same'> 17:12 commande.dominos.fr</li>
+<li> 17:12 www.dominos.fr</li>
+<li> 17:12 www.dominos.com</li>
 </ul>
 
 <br>
