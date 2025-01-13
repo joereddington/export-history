@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1638)</li>
+<ol><li>www.google.com (1639)</li>
 <li>outlook.office365.com (993)</li>
 <li>mail.google.com (812)</li>
 <li>bsky.app (780)</li>
@@ -104,11 +104,29 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 13/01/25</H3>
+
+<br>
+
+<ul><li> 17:12 www.dominos.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:32 www.researchgate.net</li>
+</ul>
+
 <H3>Sunday, 12/01/25</H3>
 
 <br>
 
+<ul></ul>
+
+<br>
+
 <ul><li> 21:56 www.google.com</li>
+<li> 21:34 www.researchgate.net</li>
+<li> 21:34 www.google.com</li>
 <li> 21:33 theopenvoicefactory.org</li>
 <li> 21:16 tvtropes.org</li>
 <li class='same'> 21:15 tvtropes.org</li>
