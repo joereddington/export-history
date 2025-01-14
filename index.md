@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1645)</li>
+<ol><li>www.google.com (1652)</li>
 <li>outlook.office365.com (993)</li>
 <li>mail.google.com (812)</li>
 <li>bsky.app (780)</li>
@@ -104,11 +104,42 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 14/01/25</H3>
+
+<br>
+
+<ul><li> 09:14 www.google.com</li>
+<li> 09:14 www.mousehacking.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 05:11 www.mousehacking.com</li>
+<li> 05:10 www.google.com</li>
+<li> 05:10 www.thewholeworldisaplayground.com</li>
+<li> 05:10 www.google.com</li>
+<li> 05:10 www.disneylandparis.com</li>
+<li class='same'> 05:09 www.disneylandparis.com</li>
+<li> 05:09 www.google.com</li>
+</ul>
+
 <H3>Monday, 13/01/25</H3>
 
 <br>
 
-<ul><li> 19:06 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:11 www.google.com</li>
+<li> 19:10 mashable.com</li>
+<li> 19:10 www.google.com</li>
+<li> 19:08 www.thecut.com</li>
+<li> 19:08 www.washingtonpost.com</li>
+<li> 19:07 www.thecut.com</li>
+<li> 19:07 www.google.com</li>
+<li> 19:06 <a href="https://joereddington.com/2024/12/26/20-000-pages-in-2024.html">20,000 pages in 2024 | Joe Reddington</a></li>
+<li> 19:06 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 19:06 www.google.com</li>
 <li> 18:40 www.researchgate.net</li>
