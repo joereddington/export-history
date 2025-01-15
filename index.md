@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1652)</li>
+<ol><li>www.google.com (1670)</li>
 <li>outlook.office365.com (993)</li>
 <li>mail.google.com (812)</li>
 <li>bsky.app (780)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (502)</li>
 <li>rhul-my.sharepoint.com (249)</li>
 <li>chatgpt.com (240)</li>
-<li>www.reddit.com (231)</li>
+<li>www.reddit.com (234)</li>
 <li>www.amazon.co.uk (227)</li>
 <li>login.microsoftonline.com (218)</li>
 <li>github.com (207)</li>
@@ -104,11 +104,42 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 15/01/25</H3>
+
+<br>
+
+<ul><li> 15:01 www.google.com</li>
+<li class='same'> 14:55 www.google.com</li>
+</ul>
+
 <H3>Tuesday, 14/01/25</H3>
 
 <br>
 
-<ul><li> 09:14 www.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 18:58 www.magicalkingdoms.com</li>
+<li> 18:58 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:55 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:17 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:15 www.reddit.com</li>
+<li> 09:15 www.google.com</li>
+<li> 09:15 www.reddit.com</li>
+<li> 09:14 www.google.com</li>
 <li> 09:14 www.mousehacking.com</li>
 </ul>
 
@@ -23268,6 +23299,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 19:22 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:56 www.dropbox.com</li>
 </ul>
 
@@ -23431,6 +23467,19 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:46 docs.google.com</li>
+</ul>
+
+<H3>Saturday, 02/09/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 10:06 www.google.com</li>
+<li class='same'> 09:55 www.google.com</li>
+<li class='same'> 09:54 www.google.com</li>
 </ul>
 
 <H3>Friday, 01/09/23</H3>
@@ -24254,6 +24303,11 @@ With number of accesses/minutes in parentheses
 <li> 10:55 analytics.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 07:48 www.google.com</li>
+</ul>
+
 <H3>Wednesday, 28/06/23</H3>
 
 <br>
@@ -24981,6 +25035,16 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:38 discord.com</li>
 </ul>
 
+<br>
+
+<ul><li> 11:13 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:03 www.google.com</li>
+</ul>
+
 <H3>Friday, 21/04/23</H3>
 
 <br>
@@ -25435,6 +25499,28 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:18 forum.artofmemory.com</li>
 </ul>
 
+<H3>Monday, 30/01/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 11:28 www.google.com</li>
+</ul>
+
+<H3>Wednesday, 25/01/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 13:05 www.google.com</li>
+</ul>
+
 <H3>Wednesday, 18/01/23</H3>
 
 <br>
@@ -25454,6 +25540,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 16:55 www.google.com</li>
+</ul>
 
 <br>
 
@@ -25651,6 +25742,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:00 forum.artofmemory.com</li>
 </ul>
 
+<H3>Thursday, 01/12/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 13:32 www.google.com</li>
+</ul>
+
 <H3>Wednesday, 30/11/22</H3>
 
 <br>
@@ -25659,7 +25761,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 07:41 forum.artofmemory.com</li>
+<ul><li> 07:41 forum.artofmemory.com</li>
 </ul>
 
 <H3>Wednesday, 23/11/22</H3>
@@ -26247,6 +26349,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:15 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
 </ul>
 
+<br>
+
+<ul><li> 14:58 www.google.com</li>
+</ul>
+
 <H3>Monday, 27/06/22</H3>
 
 <br>
@@ -26258,6 +26365,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:15 find-and-update.company-information.service.gov.uk</li>
 </ul>
 
+<H3>Saturday, 11/06/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 12:16 www.google.com</li>
+</ul>
+
 <H3>Wednesday, 08/06/22</H3>
 
 <br>
@@ -26266,7 +26384,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:12 www.google.com</li>
+<ul><li class='same'> 06:12 www.google.com</li>
 </ul>
 
 <H3>Tuesday, 24/05/22</H3>
