@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1687)</li>
-<li>outlook.office365.com (995)</li>
+<ol><li>www.google.com (1692)</li>
+<li>outlook.office365.com (997)</li>
 <li>mail.google.com (812)</li>
-<li>bsky.app (780)</li>
-<li>outlook.office.com (584)</li>
+<li>bsky.app (782)</li>
+<li>outlook.office.com (606)</li>
 <li>docs.google.com (527)</li>
 <li>www.facebook.com (507)</li>
 <li>rhul-my.sharepoint.com (252)</li>
-<li>chatgpt.com (240)</li>
+<li>chatgpt.com (242)</li>
 <li>www.reddit.com (235)</li>
 <li>www.amazon.co.uk (230)</li>
 <li>login.microsoftonline.com (222)</li>
-<li>moodle.royalholloway.ac.uk (210)</li>
+<li>moodle.royalholloway.ac.uk (211)</li>
 <li>github.com (207)</li>
-<li>calendar.google.com (205)</li>
+<li>calendar.google.com (206)</li>
 <li>www.linkedin.com (201)</li>
 <li>fritz.box (200)</li>
 <li>forms.office.com (138)</li>
@@ -108,7 +108,61 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:47 www.tesco.com</li>
+<ul><li> 10:54 doodle.com</li>
+<li class='same'> 10:53 doodle.com</li>
+<li> 10:52 calendar.google.com</li>
+<li> 10:51 doodle.com</li>
+<li> 10:51 outlook.office.com</li>
+<li class='same'> 10:50 outlook.office.com</li>
+<li class='same'> 10:48 outlook.office.com</li>
+<li> 10:48 www.google.com</li>
+<li class='same'> 10:47 www.google.com</li>
+<li> 10:45 www.coursera.org</li>
+<li class='same'> 10:43 www.coursera.org</li>
+<li> 10:43 onlinelibrary.london.ac.uk</li>
+<li> 10:40 outlook.office.com</li>
+<li class='same'> 10:39 outlook.office.com</li>
+<li> 10:39 outlook.office365.com</li>
+<li> 10:38 outlook.office.com</li>
+<li class='same'> 10:37 outlook.office.com</li>
+<li> 10:35 bsky.app</li>
+<li class='same'> 10:34 bsky.app</li>
+<li> 10:34 www.coursera.org</li>
+<li> 10:32 chatgpt.com</li>
+<li class='same'> 10:31 chatgpt.com</li>
+<li> 10:31 chat.openai.com</li>
+<li> 10:29 www.coursera.org</li>
+<li class='same'> 10:28 www.coursera.org</li>
+<li class='same'> 10:27 www.coursera.org</li>
+<li class='same'> 10:26 www.coursera.org</li>
+<li> 10:26 outlook.office.com</li>
+<li> 10:21 www.utctime.net</li>
+<li> 10:21 www.google.com</li>
+<li> 10:20 outlook.office.com</li>
+<li> 10:19 www.google.com</li>
+<li> 10:19 www.coursera.org</li>
+<li class='same'> 10:18 www.coursera.org</li>
+<li> 10:16 outlook.office.com</li>
+<li> 10:15 www.coursera.org</li>
+<li class='same'> 10:13 www.coursera.org</li>
+<li class='same'> 10:12 www.coursera.org</li>
+<li> 10:12 www.google.com</li>
+<li> 10:12 outlook.office.com</li>
+<li class='same'> 10:11 outlook.office.com</li>
+<li class='same'> 10:10 outlook.office.com</li>
+<li class='same'> 10:09 outlook.office.com</li>
+<li> 10:08 projects.cs.rhul.ac.uk</li>
+<li> 10:04 outlook.office.com</li>
+<li class='same'> 10:03 outlook.office.com</li>
+<li class='same'> 10:02 outlook.office.com</li>
+<li> 10:01 projects.cs.rhul.ac.uk</li>
+<li> 09:59 moodle.royalholloway.ac.uk</li>
+<li> 09:59 outlook.office.com</li>
+<li class='same'> 09:55 outlook.office.com</li>
+<li class='same'> 09:54 outlook.office.com</li>
+<li> 09:54 outlook.office365.com</li>
+<li> 09:54 outlook.office.com</li>
+<li> 09:47 www.tesco.com</li>
 <li> 09:47 forms.office.com</li>
 <li> 09:47 login.microsoftonline.com</li>
 <li> 09:47 rhul-my.sharepoint.com</li>
@@ -12998,6 +13052,7 @@ With number of accesses/minutes in parentheses
 <li> 09:45 c14.qbo.intuit.com</li>
 <li> 09:45 app.qbo.intuit.com</li>
 <li> 09:33 mail.google.com</li>
+<li> 09:26 outlook.office.com</li>
 <li> 09:25 rhul-my.sharepoint.com</li>
 <li class='same'> 09:21 rhul-my.sharepoint.com</li>
 <li> 09:10 24timezones.com</li>
