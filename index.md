@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1675)</li>
-<li>outlook.office365.com (993)</li>
+<ol><li>www.google.com (1687)</li>
+<li>outlook.office365.com (995)</li>
 <li>mail.google.com (812)</li>
 <li>bsky.app (780)</li>
-<li>outlook.office.com (571)</li>
-<li>docs.google.com (522)</li>
-<li>www.facebook.com (502)</li>
-<li>rhul-my.sharepoint.com (249)</li>
+<li>outlook.office.com (584)</li>
+<li>docs.google.com (527)</li>
+<li>www.facebook.com (507)</li>
+<li>rhul-my.sharepoint.com (252)</li>
 <li>chatgpt.com (240)</li>
-<li>www.reddit.com (234)</li>
-<li>www.amazon.co.uk (227)</li>
-<li>login.microsoftonline.com (218)</li>
+<li>www.reddit.com (235)</li>
+<li>www.amazon.co.uk (230)</li>
+<li>login.microsoftonline.com (222)</li>
+<li>moodle.royalholloway.ac.uk (210)</li>
 <li>github.com (207)</li>
 <li>calendar.google.com (205)</li>
-<li>moodle.royalholloway.ac.uk (203)</li>
-<li>www.linkedin.com (200)</li>
+<li>www.linkedin.com (201)</li>
 <li>fritz.box (200)</li>
-<li>forms.office.com (137)</li>
+<li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (110)</li>
 <li>qbo.intuit.com (109)</li>
 <li>drive.google.com (105)</li>
 <li>www.theguardian.com (91)</li>
 <li>discord.com (89)</li>
-<li>www.tesco.com (79)</li>
+<li>www.tesco.com (80)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 <li>gitlab.cim.rhul.ac.uk (73)</li>
@@ -108,7 +108,73 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:40 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<ul><li> 09:47 www.tesco.com</li>
+<li> 09:47 forms.office.com</li>
+<li> 09:47 login.microsoftonline.com</li>
+<li> 09:47 rhul-my.sharepoint.com</li>
+<li> 09:41 outlook.office.com</li>
+<li class='same'> 09:40 outlook.office.com</li>
+<li> 09:34 moodle.royalholloway.ac.uk</li>
+<li> 09:32 rhul-my.sharepoint.com</li>
+<li> 09:32 login.microsoftonline.com</li>
+<li> 09:32 rhul-my.sharepoint.com</li>
+<li> 09:32 outlook.office.com</li>
+<li class='same'> 09:31 outlook.office.com</li>
+<li> 09:29 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:28 moodle.royalholloway.ac.uk</li>
+<li> 09:28 login.microsoftonline.com</li>
+<li> 09:28 outlook.office.com</li>
+<li> 09:25 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 09:22 outlook.office.com</li>
+<li> 09:22 projects.cs.rhul.ac.uk</li>
+<li> 09:22 outlook.office.com</li>
+<li> 09:22 outlook.office365.com</li>
+<li> 09:22 outlook.office.com</li>
+<li> 09:19 docs.google.com</li>
+<li class='same'> 09:18 docs.google.com</li>
+<li> 09:17 www.google.com</li>
+<li> 09:16 www.reddit.com</li>
+<li> 09:16 support.google.com</li>
+<li> 09:16 www.google.com</li>
+<li class='same'> 09:15 www.google.com</li>
+<li> 09:11 www.amazon.co.uk</li>
+<li class='same'> 09:10 www.amazon.co.uk</li>
+<li class='same'> 09:09 www.amazon.co.uk</li>
+<li> 09:09 www.google.com</li>
+<li class='same'> 09:08 www.google.com</li>
+<li> 09:08 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:01 www.google.com</li>
+<li> 07:55 www.facebook.com</li>
+<li class='same'> 07:54 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:14 outlook.office.com</li>
+<li class='same'> 07:13 outlook.office.com</li>
+<li> 07:13 www.tue.nl</li>
+<li> 07:13 outlook.office.com</li>
+<li class='same'> 07:12 outlook.office.com</li>
+<li class='same'> 07:11 outlook.office.com</li>
+<li> 07:11 login.microsoftonline.com</li>
+<li> 07:11 outlook.office365.com</li>
+<li> 06:45 www.cdc.gov</li>
+<li> 06:45 wwwnc.cdc.gov</li>
+<li> 06:45 www.cdc.gov</li>
+<li class='same'> 06:44 www.cdc.gov</li>
+<li> 06:44 www.google.com</li>
+<li> 06:43 www.nhs.uk</li>
+<li> 06:43 www.google.com</li>
+<li> 06:43 www.gov.uk</li>
+<li> 06:43 www.google.com</li>
+<li class='same'> 06:42 www.google.com</li>
+<li> 06:42 <a href="https://www.bbc.co.uk/news/articles/c5y83ejz7eeo">DR Congo unknown disease kills 79 people - BBC News</a></li>
+<li> 06:41 www.google.com</li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 06:23 www.google.com</li>
 </ul>
 
@@ -246,7 +312,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 14:22 www.google.com</li>
+<ul><li> 16:47 www.linkedin.com</li>
+<li> 16:46 docs.google.com</li>
+<li class='same'> 16:43 docs.google.com</li>
+<li> 16:43 www.google.com</li>
+<li> 16:37 www.facebook.com</li>
+<li class='same'> 16:36 www.facebook.com</li>
+<li class='same'> 16:35 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:22 www.google.com</li>
 <li class='same'> 14:21 www.google.com</li>
 <li class='same'> 14:20 www.google.com</li>
 <li> 14:20 www.disneylandparis.com</li>
@@ -14594,6 +14671,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:56 webtimetables.royalholloway.ac.uk</li>
+<li> 12:55 moodle.royalholloway.ac.uk</li>
 <li> 12:55 outlook.office365.com</li>
 <li> 12:44 moodle.royalholloway.ac.uk</li>
 </ul>
@@ -14846,6 +14924,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:08 accounts.intuit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:59 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:58 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:57 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <br>
