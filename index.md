@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1714)</li>
-<li>outlook.office365.com (1001)</li>
+<ol><li>www.google.com (1721)</li>
+<li>outlook.office365.com (1002)</li>
 <li>mail.google.com (835)</li>
 <li>bsky.app (804)</li>
-<li>outlook.office.com (660)</li>
+<li>outlook.office.com (662)</li>
 <li>docs.google.com (529)</li>
 <li>www.facebook.com (515)</li>
 <li>rhul-my.sharepoint.com (255)</li>
 <li>www.reddit.com (243)</li>
 <li>chatgpt.com (243)</li>
 <li>www.amazon.co.uk (233)</li>
-<li>moodle.royalholloway.ac.uk (222)</li>
-<li>login.microsoftonline.com (222)</li>
+<li>moodle.royalholloway.ac.uk (223)</li>
+<li>login.microsoftonline.com (223)</li>
 <li>www.linkedin.com (208)</li>
 <li>github.com (207)</li>
 <li>calendar.google.com (207)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (105)</li>
 <li>www.theguardian.com (91)</li>
 <li>discord.com (89)</li>
-<li>gitlab.cim.rhul.ac.uk (83)</li>
+<li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>www.tesco.com (80)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:45 en.wiktionary.org</li>
+<ul><li> 20:51 moodle.royalholloway.ac.uk</li>
+<li> 20:51 login.microsoftonline.com</li>
+<li> 20:47 outlook.office.com</li>
+<li> 20:47 outlook.office365.com</li>
+<li> 20:47 outlook.office.com</li>
+<li> 20:38 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 20:37 gitlab.cim.rhul.ac.uk</li>
+<li> 20:16 projects.cs.rhul.ac.uk</li>
+<li> 19:51 www.google.com</li>
+<li class='same'> 19:48 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:50 projects.cs.rhul.ac.uk</li>
+<li> 18:45 en.wiktionary.org</li>
 <li> 18:45 www.google.com</li>
 <li> 18:44 www.reddit.com</li>
 <li class='same'> 18:41 www.reddit.com</li>
@@ -238,6 +253,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:31 mail.google.com</li>
 <li> 13:31 bsky.app</li>
 <li> 13:31 outlook.office.com</li>
+<li> 13:06 www.google.com</li>
 </ul>
 
 <br>
@@ -435,7 +451,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:01 www.google.com</li>
+<ul><li> 08:02 www.google.com</li>
+<li class='same'> 08:01 www.google.com</li>
 <li> 07:55 www.facebook.com</li>
 <li class='same'> 07:54 www.facebook.com</li>
 </ul>
@@ -471,6 +488,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:48 www.google.com</li>
+<li> 21:47 disney.fandom.com</li>
+<li> 21:47 www.google.com</li>
+<li class='same'> 21:46 www.google.com</li>
+</ul>
 
 <br>
 
@@ -22109,6 +22134,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:27 <a href="https://joereddington.com/2021/01/02/mynameis.html">Hello, my name is Joe! | Joe Reddington</a></li>
+</ul>
+
+<br>
+
+<ul><li> 06:44 pure.royalholloway.ac.uk</li>
 </ul>
 
 <H3>Tuesday, 19/12/23</H3>
