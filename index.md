@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1706)</li>
+<ol><li>www.google.com (1707)</li>
 <li>outlook.office365.com (999)</li>
 <li>mail.google.com (835)</li>
-<li>bsky.app (792)</li>
-<li>outlook.office.com (655)</li>
+<li>bsky.app (795)</li>
+<li>outlook.office.com (656)</li>
 <li>docs.google.com (528)</li>
-<li>www.facebook.com (513)</li>
+<li>www.facebook.com (514)</li>
 <li>rhul-my.sharepoint.com (255)</li>
 <li>chatgpt.com (243)</li>
 <li>www.reddit.com (240)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (222)</li>
 <li>github.com (207)</li>
 <li>calendar.google.com (207)</li>
-<li>www.linkedin.com (205)</li>
+<li>www.linkedin.com (206)</li>
 <li>fritz.box (200)</li>
 <li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (113)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:37 gitlab.cim.rhul.ac.uk</li>
+<ul><li> 15:09 www.google.com</li>
+<li> 15:08 www.facebook.com</li>
+<li> 15:07 www.linkedin.com</li>
+<li> 15:07 bsky.app</li>
+<li class='same'> 14:54 bsky.app</li>
+<li class='same'> 14:46 bsky.app</li>
+<li> 14:45 outlook.office.com</li>
+<li> 14:45 <a href="https://www.youtube.com/watch?v=3g8LAPPMg20&feature=youtu.be&themeRefresh=1"></a></li>
+<li> 14:45 <a href="https://www.youtube.com/watch?v=3g8LAPPMg20&feature=youtu.be">Regev Proof of concept LWE Interim demo - YouTube</a></li>
+<li> 14:37 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 14:36 gitlab.cim.rhul.ac.uk</li>
 <li> 14:28 www.sciencedirect.com</li>
 <li> 14:28 linkinghub.elsevier.com</li>
