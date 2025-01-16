@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1707)</li>
-<li>outlook.office365.com (999)</li>
+<ol><li>www.google.com (1711)</li>
+<li>outlook.office365.com (1000)</li>
 <li>mail.google.com (835)</li>
-<li>bsky.app (795)</li>
-<li>outlook.office.com (656)</li>
-<li>docs.google.com (528)</li>
+<li>bsky.app (798)</li>
+<li>outlook.office.com (657)</li>
+<li>docs.google.com (529)</li>
 <li>www.facebook.com (514)</li>
 <li>rhul-my.sharepoint.com (255)</li>
 <li>chatgpt.com (243)</li>
@@ -81,9 +81,9 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (233)</li>
 <li>moodle.royalholloway.ac.uk (222)</li>
 <li>login.microsoftonline.com (222)</li>
+<li>www.linkedin.com (208)</li>
 <li>github.com (207)</li>
 <li>calendar.google.com (207)</li>
-<li>www.linkedin.com (206)</li>
 <li>fritz.box (200)</li>
 <li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (113)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (105)</li>
 <li>www.theguardian.com (91)</li>
 <li>discord.com (89)</li>
-<li>gitlab.cim.rhul.ac.uk (80)</li>
+<li>gitlab.cim.rhul.ac.uk (82)</li>
 <li>www.tesco.com (80)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
@@ -105,6 +105,34 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 16/01/25</H3>
+
+<br>
+
+<ul><li> 16:46 <a href="https://www.youtube.com/watch?v=AukN440a-T8">(96) Interim Project Video - Mauriton Fernandes - YouTube</a></li>
+<li> 16:46 <a href="https://www.youtube.com/watch?v=AukN440a-T8&feature=youtu.be&themeRefresh=1">Interim Project Video - Mauriton Fernandes - YouTube</a></li>
+<li> 16:46 <a href="https://www.youtube.com/watch?v=AukN440a-T8&feature=youtu.be">Interim Project Video - Mauriton Fernandes - YouTube</a></li>
+<li> 16:41 www.linkedin.com</li>
+<li> 16:41 bsky.app</li>
+<li class='same'> 16:40 bsky.app</li>
+<li> 16:40 docs.google.com</li>
+<li> 16:40 www.google.com</li>
+<li> 16:25 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 16:24 gitlab.cim.rhul.ac.uk</li>
+<li> 16:16 dl.acm.org</li>
+<li> 16:16 www.google.com</li>
+<li> 16:15 www.sciencedirect.com</li>
+<li> 16:15 www.google.com</li>
+<li> 16:06 <a href="https://www.youtube.com/watch?v=DPWsqMTv07Q">(96) FYP CODE DEMO - YouTube</a></li>
+<li> 16:06 <a href="https://www.youtube.com/watch?v=DPWsqMTv07Q&feature=youtu.be">FYP CODE DEMO - YouTube</a></li>
+<li> 16:03 www.google.com</li>
+<li> 15:53 eprint.iacr.org</li>
+<li> 15:53 www.techrxiv.org</li>
+<li> 15:53 dl.acm.org</li>
+<li> 15:52 www.linkedin.com</li>
+<li> 15:51 bsky.app</li>
+<li> 15:51 outlook.office365.com</li>
+<li> 15:51 outlook.office.com</li>
+</ul>
 
 <br>
 
