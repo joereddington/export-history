@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1711)</li>
-<li>outlook.office365.com (1000)</li>
+<ol><li>www.google.com (1712)</li>
+<li>outlook.office365.com (1001)</li>
 <li>mail.google.com (835)</li>
-<li>bsky.app (798)</li>
-<li>outlook.office.com (657)</li>
+<li>bsky.app (803)</li>
+<li>outlook.office.com (660)</li>
 <li>docs.google.com (529)</li>
-<li>www.facebook.com (514)</li>
+<li>www.facebook.com (515)</li>
 <li>rhul-my.sharepoint.com (255)</li>
 <li>chatgpt.com (243)</li>
 <li>www.reddit.com (240)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:46 <a href="https://www.youtube.com/watch?v=AukN440a-T8">(96) Interim Project Video - Mauriton Fernandes - YouTube</a></li>
+<ul><li> 17:52 www.timeshighereducation.com</li>
+<li> 17:52 bsky.app</li>
+<li class='same'> 17:51 bsky.app</li>
+<li> 17:49 <a href="https://www.youtube.com/watch?v=0y2ThzR7qYs">(97) Project Demo - YouTube</a></li>
+<li> 17:49 <a href="https://www.youtube.com/watch?v=0y2ThzR7qYs&feature=youtu.be">Project Demo - YouTube</a></li>
+<li> 17:49 <a href="https://www.youtube.com/watch?v=wbUaRclPPi8">(97) interim report - YouTube</a></li>
+<li> 17:47 outlook.office.com</li>
+<li class='same'> 17:46 outlook.office.com</li>
+<li> 17:46 outlook.office365.com</li>
+<li> 17:46 outlook.office.com</li>
+<li> 17:46 bsky.app</li>
+<li> 17:44 www.facebook.com</li>
+<li> 17:44 claude.ai</li>
+<li> 17:37 www.jstor.org</li>
+<li> 17:36 <a href="https://www.youtube.com/watch?v=wbUaRclPPi8">(97) interim report - YouTube</a></li>
+<li> 17:35 bsky.app</li>
+<li> 17:28 <a href="https://www.youtube.com/watch?v=wbUaRclPPi8">(97) interim report - YouTube</a></li>
+<li> 17:24 www.google.com</li>
+<li> 17:23 claude.ai</li>
+<li> 17:19 <a href="https://www.youtube.com/watch?v=tyzvJhDItO0">(96) project demo - YouTube</a></li>
+<li> 17:19 bsky.app</li>
+<li> 17:01 <a href="https://www.youtube.com/watch?v=6n3fb49JQcQ">(96) FYP interim video - YouTube</a></li>
+<li> 17:01 <a href="https://www.youtube.com/watch?v=6n3fb49JQcQ&feature=youtu.be">FYP interim video - YouTube</a></li>
+<li> 16:46 <a href="https://www.youtube.com/watch?v=AukN440a-T8">(96) Interim Project Video - Mauriton Fernandes - YouTube</a></li>
 <li> 16:46 <a href="https://www.youtube.com/watch?v=AukN440a-T8&feature=youtu.be&themeRefresh=1">Interim Project Video - Mauriton Fernandes - YouTube</a></li>
 <li> 16:46 <a href="https://www.youtube.com/watch?v=AukN440a-T8&feature=youtu.be">Interim Project Video - Mauriton Fernandes - YouTube</a></li>
 <li> 16:41 www.linkedin.com</li>
