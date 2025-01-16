@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1712)</li>
+<ol><li>www.google.com (1714)</li>
 <li>outlook.office365.com (1001)</li>
 <li>mail.google.com (835)</li>
-<li>bsky.app (803)</li>
+<li>bsky.app (804)</li>
 <li>outlook.office.com (660)</li>
 <li>docs.google.com (529)</li>
 <li>www.facebook.com (515)</li>
 <li>rhul-my.sharepoint.com (255)</li>
+<li>www.reddit.com (243)</li>
 <li>chatgpt.com (243)</li>
-<li>www.reddit.com (240)</li>
 <li>www.amazon.co.uk (233)</li>
 <li>moodle.royalholloway.ac.uk (222)</li>
 <li>login.microsoftonline.com (222)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (105)</li>
 <li>www.theguardian.com (91)</li>
 <li>discord.com (89)</li>
-<li>gitlab.cim.rhul.ac.uk (82)</li>
+<li>gitlab.cim.rhul.ac.uk (83)</li>
 <li>www.tesco.com (80)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:52 www.timeshighereducation.com</li>
+<ul><li> 18:45 en.wiktionary.org</li>
+<li> 18:45 www.google.com</li>
+<li> 18:44 www.reddit.com</li>
+<li class='same'> 18:41 www.reddit.com</li>
+<li> 18:40 www.google.com</li>
+<li> 18:40 www.reddit.com</li>
+<li> 18:35 <a href="https://www.youtube.com/watch?v=Xposy65Wc4Q&feature=youtu.be">A secure attendance tracking system by Zuhair Farooq-Khan - YouTube</a></li>
+<li> 18:35 <a href="https://www.youtube.com/watch?v=Xposy65Wc4Q">(97) A secure attendance tracking system by Zuhair Farooq-Khan - YouTube</a></li>
+<li> 18:34 bsky.app</li>
+<li> 18:33 www.ebay.co.uk</li>
+<li class='same'> 18:32 www.ebay.co.uk</li>
+<li class='same'> 18:31 www.ebay.co.uk</li>
+<li> 18:02 claude.ai</li>
+<li> 17:57 gitlab.cim.rhul.ac.uk</li>
+<li> 17:52 www.timeshighereducation.com</li>
 <li> 17:52 bsky.app</li>
 <li class='same'> 17:51 bsky.app</li>
 <li> 17:49 <a href="https://www.youtube.com/watch?v=0y2ThzR7qYs">(97) Project Demo - YouTube</a></li>
