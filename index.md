@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1703)</li>
-<li>outlook.office365.com (998)</li>
+<ol><li>www.google.com (1706)</li>
+<li>outlook.office365.com (999)</li>
 <li>mail.google.com (835)</li>
 <li>bsky.app (792)</li>
-<li>outlook.office.com (653)</li>
+<li>outlook.office.com (655)</li>
 <li>docs.google.com (528)</li>
 <li>www.facebook.com (513)</li>
 <li>rhul-my.sharepoint.com (255)</li>
 <li>chatgpt.com (243)</li>
 <li>www.reddit.com (240)</li>
 <li>www.amazon.co.uk (233)</li>
+<li>moodle.royalholloway.ac.uk (222)</li>
 <li>login.microsoftonline.com (222)</li>
-<li>moodle.royalholloway.ac.uk (213)</li>
 <li>github.com (207)</li>
 <li>calendar.google.com (207)</li>
 <li>www.linkedin.com (205)</li>
@@ -91,10 +91,10 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (105)</li>
 <li>www.theguardian.com (91)</li>
 <li>discord.com (89)</li>
+<li>gitlab.cim.rhul.ac.uk (80)</li>
 <li>www.tesco.com (80)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
-<li>gitlab.cim.rhul.ac.uk (73)</li>
 <li>tvtropes.org (68)</li>
 <li>online.unity.co.uk (66)</li>
 <li>myview.rhul.zellis.com (65)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:50 bsky.app</li>
+<ul><li> 14:37 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 14:36 gitlab.cim.rhul.ac.uk</li>
+<li> 14:28 www.sciencedirect.com</li>
+<li> 14:28 linkinghub.elsevier.com</li>
+<li> 14:28 www.researchgate.net</li>
+<li> 14:24 projects.cs.rhul.ac.uk</li>
+<li> 14:24 moodle.royalholloway.ac.uk</li>
+<li> 14:24 gitlab.cim.rhul.ac.uk</li>
+<li> 14:18 elearningroyalholloway.blog</li>
+<li> 14:18 intranet.royalholloway.ac.uk</li>
+<li> 14:18 www.google.com</li>
+<li> 14:18 intranet.royalholloway.ac.uk</li>
+<li class='same'> 14:17 intranet.royalholloway.ac.uk</li>
+<li> 14:17 www.google.com</li>
+<li> 14:15 intranet.royalholloway.ac.uk</li>
+<li> 14:15 www.google.com</li>
+<li> 14:12 claude.ai</li>
+<li> 14:11 moodle.royalholloway.ac.uk</li>
+<li> 14:08 projects.cs.rhul.ac.uk</li>
+<li> 14:06 moodle.royalholloway.ac.uk</li>
+<li> 14:04 projects.cs.rhul.ac.uk</li>
+<li class='same'> 14:03 projects.cs.rhul.ac.uk</li>
+<li> 14:01 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:00 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:59 moodle.royalholloway.ac.uk</li>
+<li> 13:57 outlook.office.com</li>
+<li> 13:57 outlook.office365.com</li>
+<li> 13:57 outlook.office.com</li>
+<li> 13:55 projects.cs.rhul.ac.uk</li>
+<li> 13:54 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:53 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:52 moodle.royalholloway.ac.uk</li>
+<li> 13:50 bsky.app</li>
 <li> 13:50 play.google.com</li>
 <li> 13:49 www.reddit.com</li>
 <li class='same'> 13:45 www.reddit.com</li>
@@ -19054,7 +19086,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:02 www.royalholloway.ac.uk</li>
+<ul><li> 11:02 intranet.royalholloway.ac.uk</li>
+<li> 11:02 www.royalholloway.ac.uk</li>
 </ul>
 
 <H3>Wednesday, 01/05/24</H3>
@@ -19707,7 +19740,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:05 rhul-my.sharepoint.com</li>
 <li> 10:39 rhul.hosted.panopto.com</li>
-<li> 10:26 gitlab.cim.rhul.ac.uk</li>
+<li> 10:27 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 10:26 gitlab.cim.rhul.ac.uk</li>
 <li> 10:25 moodle.royalholloway.ac.uk</li>
 <li> 10:11 rhul.hosted.panopto.com</li>
 <li> 09:47 outlook.office.com</li>
@@ -19980,7 +20014,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:44 gitlab.cim.rhul.ac.uk</li>
+<ul><li> 17:45 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 17:44 gitlab.cim.rhul.ac.uk</li>
 </ul>
 
 <br>
@@ -20368,7 +20403,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:12 rhul.sharepoint.com</li>
-<li> 12:49 gitlab.cim.rhul.ac.uk</li>
+<li> 12:50 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 12:49 gitlab.cim.rhul.ac.uk</li>
 </ul>
 
 <br>
@@ -20393,7 +20429,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:01 www.tightrope.co.uk</li>
+<ul><li> 16:11 gitlab.cim.rhul.ac.uk</li>
+<li> 16:01 www.tightrope.co.uk</li>
 <li> 16:01 theopenvoicefactory.org</li>
 </ul>
 
