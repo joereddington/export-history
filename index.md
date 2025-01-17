@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1728)</li>
-<li>outlook.office365.com (1002)</li>
+<ol><li>www.google.com (1729)</li>
+<li>outlook.office365.com (1004)</li>
 <li>mail.google.com (835)</li>
-<li>bsky.app (826)</li>
-<li>outlook.office.com (663)</li>
-<li>docs.google.com (529)</li>
+<li>bsky.app (828)</li>
+<li>outlook.office.com (667)</li>
+<li>docs.google.com (550)</li>
 <li>www.facebook.com (518)</li>
 <li>rhul-my.sharepoint.com (255)</li>
+<li>chatgpt.com (245)</li>
 <li>www.reddit.com (243)</li>
-<li>chatgpt.com (243)</li>
 <li>www.amazon.co.uk (239)</li>
 <li>moodle.royalholloway.ac.uk (223)</li>
 <li>login.microsoftonline.com (223)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (91)</li>
 <li>discord.com (89)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
-<li>www.tesco.com (80)</li>
+<li>www.tesco.com (85)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 <li>tvtropes.org (69)</li>
@@ -104,7 +104,56 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 17/01/25</H3>
+
+<br>
+
+<ul><li> 07:34 docs.google.com</li>
+<li class='same'> 07:33 docs.google.com</li>
+<li> 07:32 web.whatsapp.com</li>
+<li> 07:32 docs.google.com</li>
+<li class='same'> 07:31 docs.google.com</li>
+<li class='same'> 07:30 docs.google.com</li>
+<li class='same'> 07:29 docs.google.com</li>
+<li class='same'> 07:28 docs.google.com</li>
+<li class='same'> 07:27 docs.google.com</li>
+<li class='same'> 07:26 docs.google.com</li>
+<li class='same'> 07:25 docs.google.com</li>
+<li class='same'> 07:24 docs.google.com</li>
+<li class='same'> 07:23 docs.google.com</li>
+<li class='same'> 07:22 docs.google.com</li>
+<li class='same'> 07:21 docs.google.com</li>
+<li class='same'> 07:15 docs.google.com</li>
+<li class='same'> 07:14 docs.google.com</li>
+<li> 07:14 www.tesco.com</li>
+<li class='same'> 07:13 www.tesco.com</li>
+<li class='same'> 07:11 www.tesco.com</li>
+<li> 07:10 docs.google.com</li>
+<li> 07:10 chatgpt.com</li>
+<li> 07:10 www.tesco.com</li>
+<li class='same'> 07:09 www.tesco.com</li>
+<li> 07:09 www.google.com</li>
+<li> 07:08 chatgpt.com</li>
+<li> 07:08 chat.openai.com</li>
+<li> 07:08 docs.google.com</li>
+<li class='same'> 07:06 docs.google.com</li>
+<li class='same'> 07:04 docs.google.com</li>
+<li class='same'> 07:02 docs.google.com</li>
+<li> 06:57 bsky.app</li>
+<li class='same'> 06:54 bsky.app</li>
+<li> 06:54 outlook.office.com</li>
+<li> 06:54 outlook.office365.com</li>
+<li> 06:54 outlook.office.com</li>
+<li class='same'> 06:52 outlook.office.com</li>
+<li> 06:52 outlook.office365.com</li>
+<li> 06:52 outlook.office.com</li>
+</ul>
+
 <H3>Thursday, 16/01/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
