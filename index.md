@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1734)</li>
-<li>outlook.office365.com (1005)</li>
+<ol><li>www.google.com (1742)</li>
+<li>outlook.office365.com (1006)</li>
 <li>mail.google.com (835)</li>
-<li>bsky.app (828)</li>
-<li>outlook.office.com (668)</li>
-<li>docs.google.com (573)</li>
+<li>bsky.app (830)</li>
+<li>outlook.office.com (670)</li>
+<li>docs.google.com (586)</li>
 <li>www.facebook.com (520)</li>
 <li>rhul-my.sharepoint.com (255)</li>
 <li>chatgpt.com (245)</li>
@@ -91,8 +91,8 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (105)</li>
 <li>www.theguardian.com (91)</li>
 <li>discord.com (89)</li>
+<li>www.tesco.com (86)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
-<li>www.tesco.com (85)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 <li>tvtropes.org (69)</li>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:55 docs.google.com</li>
+<ul><li> 10:52 www.coursera.org</li>
+<li> 10:51 outlook.office.com</li>
+<li> 10:51 outlook.office365.com</li>
+<li> 10:51 outlook.office.com</li>
+<li> 10:49 www.coursera.org</li>
+<li> 10:48 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 10:48 bsky.app</li>
+<li class='same'> 10:45 bsky.app</li>
+<li> 10:42 docs.google.com</li>
+<li class='same'> 10:40 docs.google.com</li>
+<li class='same'> 10:38 docs.google.com</li>
+<li> 10:35 www.tesco.com</li>
+<li> 10:35 docs.google.com</li>
+<li> 10:33 <a href="https://en.wikipedia.org/wiki/Blood_sugar_level">Blood sugar level - Wikipedia</a></li>
+<li> 10:33 www.google.com</li>
+<li> 10:32 www.sciencedirect.com</li>
+<li> 10:32 www.google.com</li>
+<li> 10:31 www.medicalnewstoday.com</li>
+<li> 10:29 pmc.ncbi.nlm.nih.gov</li>
+<li> 10:29 www.google.com</li>
+<li> 10:26 docs.google.com</li>
+<li class='same'> 10:21 docs.google.com</li>
+<li class='same'> 10:20 docs.google.com</li>
+<li class='same'> 10:18 docs.google.com</li>
+<li> 10:17 www.google.com</li>
+<li class='same'> 10:16 www.google.com</li>
+<li class='same'> 10:15 www.google.com</li>
+<li> 10:14 www.mayoclinichealthsystem.org</li>
+<li> 10:13 www.google.com</li>
+<li class='same'> 10:12 www.google.com</li>
+<li> 10:10 docs.google.com</li>
+<li class='same'> 10:04 docs.google.com</li>
+<li class='same'> 10:01 docs.google.com</li>
+<li class='same'> 10:00 docs.google.com</li>
+<li class='same'> 09:58 docs.google.com</li>
+<li class='same'> 09:55 docs.google.com</li>
 <li class='same'> 09:54 docs.google.com</li>
 <li class='same'> 09:53 docs.google.com</li>
 <li class='same'> 09:52 docs.google.com</li>
