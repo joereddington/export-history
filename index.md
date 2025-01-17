@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1742)</li>
+<ol><li>www.google.com (1743)</li>
 <li>outlook.office365.com (1006)</li>
 <li>mail.google.com (835)</li>
-<li>bsky.app (830)</li>
-<li>outlook.office.com (670)</li>
+<li>bsky.app (831)</li>
+<li>outlook.office.com (673)</li>
 <li>docs.google.com (586)</li>
 <li>www.facebook.com (520)</li>
-<li>rhul-my.sharepoint.com (255)</li>
+<li>rhul-my.sharepoint.com (258)</li>
 <li>chatgpt.com (245)</li>
 <li>www.reddit.com (243)</li>
 <li>www.amazon.co.uk (239)</li>
-<li>moodle.royalholloway.ac.uk (223)</li>
-<li>login.microsoftonline.com (223)</li>
+<li>moodle.royalholloway.ac.uk (224)</li>
+<li>login.microsoftonline.com (224)</li>
 <li>www.linkedin.com (209)</li>
 <li>github.com (207)</li>
 <li>calendar.google.com (207)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:52 www.coursera.org</li>
+<ul><li> 11:02 rhul-my.sharepoint.com</li>
+<li class='same'> 11:01 rhul-my.sharepoint.com</li>
+<li> 11:01 www.google.com</li>
+<li> 11:00 moodle.royalholloway.ac.uk</li>
+<li> 11:00 login.microsoftonline.com</li>
+<li> 10:59 bsky.app</li>
+<li> 10:59 outlook.office.com</li>
+<li class='same'> 10:56 outlook.office.com</li>
+<li class='same'> 10:55 outlook.office.com</li>
+<li> 10:52 www.coursera.org</li>
 <li> 10:51 outlook.office.com</li>
 <li> 10:51 outlook.office365.com</li>
 <li> 10:51 outlook.office.com</li>
@@ -18986,6 +18995,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:48 rhul-my.sharepoint.com</li>
+<li class='same'> 12:42 rhul-my.sharepoint.com</li>
 </ul>
 
 <H3>Thursday, 16/05/24</H3>
