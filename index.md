@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1764)</li>
+<ol><li>www.google.com (1765)</li>
 <li>outlook.office365.com (1017)</li>
 <li>bsky.app (849)</li>
 <li>mail.google.com (838)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (522)</li>
 <li>rhul-my.sharepoint.com (277)</li>
 <li>chatgpt.com (258)</li>
-<li>www.reddit.com (246)</li>
+<li>www.reddit.com (247)</li>
 <li>www.amazon.co.uk (244)</li>
 <li>moodle.royalholloway.ac.uk (228)</li>
 <li>login.microsoftonline.com (225)</li>
@@ -108,8 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:56 fast.com</li>
-<li> 13:47 192.168.178.1</li>
+<ul><li> 13:57 www.reddit.com</li>
+<li> 13:57 www.google.com</li>
+<li> 13:56 fast.com</li>
+<li> 13:56 192.168.178.57</li>
+<li class='same'> 13:55 192.168.178.57</li>
+<li> 13:55 scope.avm.de</li>
+<li> 13:55 zack.avm.de</li>
+<li> 13:55 192.168.178.57</li>
+<li class='same'> 13:54 192.168.178.57</li>
+<li class='same'> 13:53 192.168.178.57</li>
+<li> 13:53 192.168.178.1</li>
+<li> 13:52 192.168.178.57</li>
+<li class='same'> 13:51 192.168.178.57</li>
+<li> 13:51 192.168.178.1</li>
+<li> 13:50 fast.com</li>
+<li> 13:50 192.168.178.1</li>
+<li class='same'> 13:49 192.168.178.1</li>
+<li class='same'> 13:47 192.168.178.1</li>
 <li> 13:46 fritz.box</li>
 <li> 13:46 iperf.fr</li>
 <li> 13:46 www.google.com</li>
