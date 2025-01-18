@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1774)</li>
+<ol><li>www.google.com (1782)</li>
 <li>outlook.office365.com (1017)</li>
-<li>bsky.app (849)</li>
-<li>mail.google.com (838)</li>
+<li>bsky.app (854)</li>
+<li>mail.google.com (840)</li>
 <li>outlook.office.com (712)</li>
 <li>docs.google.com (603)</li>
-<li>www.facebook.com (522)</li>
+<li>www.facebook.com (526)</li>
 <li>rhul-my.sharepoint.com (277)</li>
-<li>chatgpt.com (258)</li>
-<li>www.reddit.com (247)</li>
-<li>www.amazon.co.uk (244)</li>
+<li>chatgpt.com (260)</li>
+<li>www.amazon.co.uk (252)</li>
+<li>www.reddit.com (250)</li>
 <li>moodle.royalholloway.ac.uk (228)</li>
 <li>login.microsoftonline.com (225)</li>
 <li>www.linkedin.com (218)</li>
@@ -105,6 +105,57 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 18/01/25</H3>
+
+<br>
+
+<ul><li> 18:04 www.amazon.co.uk</li>
+<li class='same'> 18:03 www.amazon.co.uk</li>
+<li class='same'> 18:02 www.amazon.co.uk</li>
+<li class='same'> 18:01 www.amazon.co.uk</li>
+<li> 18:00 <a href="https://en.wikipedia.org/wiki/Kobo_eReader">Kobo eReader - Wikipedia</a></li>
+<li> 18:00 www.ebay.co.uk</li>
+<li> 17:59 bsky.app</li>
+<li> 17:59 signin.ebay.co.uk</li>
+<li> 17:57 <a href="https://en.wikipedia.org/wiki/Kobo_Mini">Kobo Mini - Wikipedia</a></li>
+<li> 17:56 www.ebay.co.uk</li>
+<li class='same'> 17:55 www.ebay.co.uk</li>
+<li class='same'> 17:54 www.ebay.co.uk</li>
+<li> 17:54 www.vinted.co.uk</li>
+<li class='same'> 17:53 www.vinted.co.uk</li>
+<li> 17:53 appleid.apple.com</li>
+<li> 17:52 www.vinted.co.uk</li>
+<li> 17:52 bsky.app</li>
+<li> 17:52 <a href="https://en.wikipedia.org/wiki/Kobo_eReader">Kobo eReader - Wikipedia</a></li>
+<li> 17:52 www.google.com</li>
+<li> 17:51 www.reddit.com</li>
+<li> 17:51 www.google.com</li>
+<li class='same'> 17:50 www.google.com</li>
+<li> 17:49 apps.apple.com</li>
+<li> 17:49 www.google.com</li>
+<li class='same'> 17:47 www.google.com</li>
+<li> 17:45 scratch.mit.edu</li>
+<li> 17:45 www.google.com</li>
+<li> 17:44 www.facebook.com</li>
+<li> 17:44 <a href="https://en.wikipedia.org/wiki/Scratch_(programming_language)">Scratch (programming language) - Wikipedia</a></li>
+<li> 17:44 www.google.com</li>
+<li> 17:43 www.fiverr.com</li>
+<li class='same'> 17:42 www.fiverr.com</li>
+<li> 17:42 mail.google.com</li>
+<li> 17:42 www.facebook.com</li>
+<li> 17:38 chatgpt.com</li>
+<li class='same'> 17:37 chatgpt.com</li>
+<li> 17:35 www.fiverr.com</li>
+<li> 17:34 mail.google.com</li>
+<li> 17:34 gmail.com</li>
+<li> 17:34 www.fiverr.com</li>
+<li> 17:33 www.google.com</li>
+<li> 17:26 www.facebook.com</li>
+<li> 17:24 web.whatsapp.com</li>
+<li> 17:23 www.facebook.com</li>
+<li> 17:22 bsky.app</li>
+<li class='same'> 17:21 bsky.app</li>
+<li class='same'> 17:20 bsky.app</li>
+</ul>
 
 <br>
 
@@ -14979,6 +15030,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 07:15 rhul-my.sharepoint.com</li>
+<li> 07:06 www.reddit.com</li>
 <li> 06:58 <a href="https://xkcd.com/simplewriter/"></a></li>
 <li> 06:50 outlook.office365.com</li>
 </ul>
@@ -15019,8 +15071,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:37 www.amazon.co.uk</li>
+<ul><li> 06:41 www.reddit.com</li>
+<li> 06:37 www.amazon.co.uk</li>
 <li> 06:28 www.ebay.co.uk</li>
+<li> 06:27 www.vinted.co.uk</li>
 </ul>
 
 <H3>Saturday, 12/10/24</H3>
@@ -15482,6 +15536,7 @@ With number of accesses/minutes in parentheses
 <li> 17:04 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 16:37 forms.tvlicensing.co.uk</li>
 <li> 16:34 www.google.com</li>
+<li> 16:29 www.vinted.co.uk</li>
 <li> 16:28 www.ebay.co.uk</li>
 <li> 16:15 outlook.office365.com</li>
 <li> 16:11 docs.google.com</li>
@@ -18463,7 +18518,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:48 www.nestpensions.org.uk</li>
+<ul><li> 14:51 www.vinted.co.uk</li>
+<li> 14:48 www.nestpensions.org.uk</li>
 <li class='same'> 14:47 www.nestpensions.org.uk</li>
 <li> 14:46 mail.google.com</li>
 <li> 14:45 www.nestpensions.org.uk</li>
@@ -20529,6 +20585,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:44 mail.google.com</li>
 <li class='same'> 07:43 mail.google.com</li>
 <li> 07:34 www.amazon.co.uk</li>
+<li class='same'> 07:33 www.amazon.co.uk</li>
 <li class='same'> 07:28 www.amazon.co.uk</li>
 <li class='same'> 07:20 www.amazon.co.uk</li>
 <li class='same'> 07:15 www.amazon.co.uk</li>
@@ -24736,11 +24793,21 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:28 www.vimgolf.com</li>
 </ul>
 
+<br>
+
+<ul><li> 09:40 www.amazon.co.uk</li>
+</ul>
+
 <H3>Sunday, 20/08/23</H3>
 
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 12:39 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
@@ -25014,6 +25081,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 14:58 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
