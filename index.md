@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1765)</li>
+<ol><li>www.google.com (1774)</li>
 <li>outlook.office365.com (1017)</li>
 <li>bsky.app (849)</li>
 <li>mail.google.com (838)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (75)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
-<li>tvtropes.org (69)</li>
+<li>fast.com (73)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:57 www.reddit.com</li>
+<ul><li> 15:05 www.google.com</li>
+<li class='same'> 14:48 www.google.com</li>
+<li class='same'> 14:26 www.google.com</li>
+<li> 14:25 fast.com</li>
+<li> 14:14 192.168.178.57</li>
+<li> 14:10 192.168.178.1</li>
+<li> 14:10 www.scratchjr.org</li>
+<li> 14:09 www.google.com</li>
+<li class='same'> 14:08 www.google.com</li>
+<li> 14:06 fast.com</li>
+<li class='same'> 14:05 fast.com</li>
+<li class='same'> 14:03 fast.com</li>
+<li class='same'> 14:01 fast.com</li>
+<li class='same'> 14:00 fast.com</li>
+<li> 14:00 www.google.com</li>
+<li> 13:57 www.reddit.com</li>
 <li> 13:57 www.google.com</li>
 <li> 13:56 fast.com</li>
 <li> 13:56 192.168.178.57</li>
@@ -150,6 +165,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:51 www.google.com</li>
+<li> 11:51 www.redbubble.com</li>
+<li> 11:51 www.google.com</li>
 </ul>
 
 <br>
@@ -352,7 +369,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:52 www.coursera.org</li>
 <li class='same'> 12:51 www.coursera.org</li>
 <li class='same'> 12:50 www.coursera.org</li>
-<li class='same'> 12:48 www.coursera.org</li>
+<li> 12:49 www.google.com</li>
+<li> 12:48 www.coursera.org</li>
 <li class='same'> 12:47 www.coursera.org</li>
 <li class='same'> 12:44 www.coursera.org</li>
 <li class='same'> 12:43 www.coursera.org</li>
@@ -617,6 +635,9 @@ With number of accesses/minutes in parentheses
 <li> 20:38 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 20:37 gitlab.cim.rhul.ac.uk</li>
 <li> 20:16 projects.cs.rhul.ac.uk</li>
+<li> 19:52 www.google.com</li>
+<li> 19:52 www.hellomagazine.com</li>
+<li class='same'> 19:51 www.hellomagazine.com</li>
 <li> 19:51 www.google.com</li>
 <li class='same'> 19:48 www.google.com</li>
 </ul>
