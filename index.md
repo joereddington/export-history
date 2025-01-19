@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1784)</li>
+<ol><li>www.google.com (1787)</li>
 <li>outlook.office365.com (1017)</li>
-<li>bsky.app (854)</li>
-<li>mail.google.com (840)</li>
+<li>bsky.app (855)</li>
+<li>mail.google.com (842)</li>
 <li>outlook.office.com (712)</li>
-<li>docs.google.com (603)</li>
-<li>www.facebook.com (526)</li>
+<li>docs.google.com (612)</li>
+<li>www.facebook.com (528)</li>
 <li>rhul-my.sharepoint.com (277)</li>
 <li>chatgpt.com (260)</li>
-<li>www.amazon.co.uk (252)</li>
-<li>www.reddit.com (250)</li>
+<li>www.amazon.co.uk (258)</li>
+<li>www.reddit.com (251)</li>
 <li>moodle.royalholloway.ac.uk (228)</li>
 <li>login.microsoftonline.com (225)</li>
 <li>www.linkedin.com (218)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (96)</li>
 <li>www.theguardian.com (92)</li>
 <li>discord.com (89)</li>
-<li>www.tesco.com (86)</li>
+<li>www.tesco.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (75)</li>
 <li>www.instagram.com (73)</li>
@@ -104,7 +104,43 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 19/01/25</H3>
+
+<br>
+
+<ul><li> 07:30 docs.google.com</li>
+<li> 07:27 www.tesco.com</li>
+<li> 07:27 www.google.com</li>
+<li> 07:26 docs.google.com</li>
+<li class='same'> 07:21 docs.google.com</li>
+<li class='same'> 07:20 docs.google.com</li>
+<li class='same'> 07:19 docs.google.com</li>
+<li class='same'> 07:16 docs.google.com</li>
+<li> 07:16 mail.google.com</li>
+<li> 07:12 www.facebook.com</li>
+<li> 07:10 docs.google.com</li>
+<li class='same'> 07:08 docs.google.com</li>
+<li> 07:06 bsky.app</li>
+<li> 07:04 www.reddit.com</li>
+<li> 07:04 www.google.com</li>
+<li> 07:03 www.amazon.co.uk</li>
+<li class='same'> 07:02 www.amazon.co.uk</li>
+<li class='same'> 07:01 www.amazon.co.uk</li>
+<li class='same'> 07:00 www.amazon.co.uk</li>
+<li> 06:59 <a href="https://en.wikipedia.org/wiki/Bonnie_Garmus">Bonnie Garmus - Wikipedia</a></li>
+<li> 06:58 www.google.com</li>
+<li> 06:58 www.amazon.co.uk</li>
+<li class='same'> 06:57 www.amazon.co.uk</li>
+<li> 06:57 docs.google.com</li>
+<li> 06:45 www.facebook.com</li>
+<li> 06:45 mail.google.com</li>
+</ul>
+
 <H3>Saturday, 18/01/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
