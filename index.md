@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1787)</li>
+<ol><li>www.google.com (1791)</li>
 <li>outlook.office365.com (1017)</li>
-<li>bsky.app (858)</li>
-<li>mail.google.com (844)</li>
+<li>bsky.app (861)</li>
+<li>mail.google.com (850)</li>
 <li>outlook.office.com (712)</li>
-<li>docs.google.com (617)</li>
-<li>www.facebook.com (531)</li>
+<li>docs.google.com (618)</li>
+<li>www.facebook.com (532)</li>
 <li>rhul-my.sharepoint.com (277)</li>
 <li>chatgpt.com (260)</li>
 <li>www.amazon.co.uk (259)</li>
-<li>www.reddit.com (253)</li>
+<li>www.reddit.com (256)</li>
 <li>moodle.royalholloway.ac.uk (228)</li>
 <li>login.microsoftonline.com (225)</li>
 <li>www.linkedin.com (220)</li>
-<li>calendar.google.com (208)</li>
+<li>calendar.google.com (209)</li>
 <li>github.com (207)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:27 www.reddit.com</li>
+<ul><li> 16:36 www.facebook.com</li>
+<li> 16:34 bsky.app</li>
+<li> 16:33 mail.google.com</li>
+<li class='same'> 16:32 mail.google.com</li>
+<li> 16:31 calendar.google.com</li>
+<li> 16:30 mail.google.com</li>
+<li> 16:30 www.myfritz.net</li>
+<li> 16:30 mail.google.com</li>
+<li class='same'> 16:29 mail.google.com</li>
+<li> 16:29 gmail.com</li>
+<li> 16:28 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:32 www.physiofit.uk.com</li>
+<li> 14:31 www.google.com</li>
+<li> 14:17 streetsofrage.fandom.com</li>
+<li> 14:17 www.google.com</li>
+<li> 14:17 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li> 13:36 bsky.app</li>
+<li class='same'> 13:35 bsky.app</li>
+<li> 13:32 www.reddit.com</li>
+<li class='same'> 13:31 www.reddit.com</li>
+<li class='same'> 13:30 www.reddit.com</li>
+<li class='same'> 13:27 www.reddit.com</li>
 <li class='same'> 13:26 www.reddit.com</li>
 <li> 13:26 <a href="https://www.youtube.com/shorts/GfgT5TO-ljI">(106) Uk New Build Snagging Inspection #123 - YouTube</a></li>
 <li> 13:25 <a href="https://www.youtube.com/shorts/yA6QkvuQABk">(106) Dave Chappelle On Why White People Are Perfect News Anchors #davechappelle #standupcomedy #funny - YouTube</a></li>
@@ -142,6 +171,13 @@ With number of accesses/minutes in parentheses
 <li> 13:01 www.facebook.com</li>
 <li> 12:59 docs.google.com</li>
 <li class='same'> 12:56 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:03 tvtropes.org</li>
+<li> 11:03 www.google.com</li>
+<li> 11:03 newsthump.com</li>
 </ul>
 
 <br>
@@ -249,11 +285,15 @@ With number of accesses/minutes in parentheses
 <li> 17:22 bsky.app</li>
 <li class='same'> 17:21 bsky.app</li>
 <li class='same'> 17:20 bsky.app</li>
+<li> 17:14 newsthump.com</li>
+<li> 17:13 reductress.com</li>
+<li class='same'> 17:12 reductress.com</li>
+<li> 17:12 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 15:05 www.google.com</li>
+<ul><li class='same'> 15:05 www.google.com</li>
 <li class='same'> 14:48 www.google.com</li>
 <li> 14:28 www.create-learn.us</li>
 <li> 14:27 www.google.com</li>
@@ -22065,6 +22105,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:48 www.dropbox.com</li>
 <li class='same'> 10:47 www.dropbox.com</li>
 <li> 10:35 github.com</li>
+<li> 10:17 mail.google.com</li>
 </ul>
 
 <H3>Tuesday, 06/02/24</H3>
