@@ -120,7 +120,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:10 www.theguardian.com</li>
-<li> 19:42 kidshealth.org</li>
+<li> 19:43 kidshealth.org</li>
+<li class='same'> 19:42 kidshealth.org</li>
 <li> 19:42 www.google.com</li>
 <li class='same'> 19:41 www.google.com</li>
 <li class='same'> 19:40 www.google.com</li>
