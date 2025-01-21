@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1842)</li>
+<ol><li>www.google.com (1846)</li>
 <li>outlook.office365.com (1024)</li>
-<li>bsky.app (880)</li>
-<li>mail.google.com (871)</li>
-<li>outlook.office.com (778)</li>
-<li>docs.google.com (621)</li>
+<li>bsky.app (883)</li>
+<li>mail.google.com (874)</li>
+<li>outlook.office.com (784)</li>
+<li>docs.google.com (622)</li>
 <li>www.facebook.com (539)</li>
 <li>rhul-my.sharepoint.com (294)</li>
 <li>chatgpt.com (266)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (257)</li>
 <li>login.microsoftonline.com (229)</li>
 <li>www.linkedin.com (228)</li>
-<li>calendar.google.com (217)</li>
+<li>calendar.google.com (218)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
@@ -105,6 +105,31 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 21/01/25</H3>
+
+<br>
+
+<ul><li> 20:02 mail.google.com</li>
+<li> 20:02 bsky.app</li>
+<li> 20:02 www.google.com</li>
+<li class='same'> 20:01 www.google.com</li>
+<li> 20:01 bsky.app</li>
+<li> 20:01 outlook.office.com</li>
+<li class='same'> 20:00 outlook.office.com</li>
+<li class='same'> 19:59 outlook.office.com</li>
+<li class='same'> 19:58 outlook.office.com</li>
+<li class='same'> 19:56 outlook.office.com</li>
+<li> 19:56 mail.google.com</li>
+<li> 19:54 calendar.google.com</li>
+<li> 19:53 mail.google.com</li>
+<li> 19:53 www.google.com</li>
+<li> 19:52 web.whatsapp.com</li>
+<li> 19:52 docs.google.com</li>
+<li> 19:46 outlook.office.com</li>
+<li> 19:46 www.oracle.com</li>
+<li> 19:45 <a href="https://en.wikipedia.org/wiki/Magnetic-tape_data_storage">Magnetic-tape data storage - Wikipedia</a></li>
+<li> 19:45 www.google.com</li>
+<li> 19:44 bsky.app</li>
+</ul>
 
 <br>
 
