@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1815)</li>
+<ol><li>www.google.com (1826)</li>
 <li>outlook.office365.com (1022)</li>
-<li>bsky.app (873)</li>
-<li>mail.google.com (869)</li>
+<li>bsky.app (877)</li>
+<li>mail.google.com (870)</li>
 <li>outlook.office.com (771)</li>
-<li>docs.google.com (620)</li>
+<li>docs.google.com (621)</li>
 <li>www.facebook.com (539)</li>
-<li>rhul-my.sharepoint.com (292)</li>
-<li>chatgpt.com (264)</li>
-<li>www.amazon.co.uk (259)</li>
+<li>rhul-my.sharepoint.com (293)</li>
+<li>chatgpt.com (265)</li>
+<li>www.amazon.co.uk (262)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
 <li>www.reddit.com (257)</li>
-<li>login.microsoftonline.com (228)</li>
+<li>login.microsoftonline.com (229)</li>
 <li>www.linkedin.com (226)</li>
 <li>calendar.google.com (216)</li>
 <li>github.com (209)</li>
@@ -88,16 +88,16 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (125)</li>
 <li>qbo.intuit.com (110)</li>
+<li>www.coursera.org (107)</li>
 <li>drive.google.com (105)</li>
-<li>www.coursera.org (99)</li>
 <li>www.theguardian.com (93)</li>
 <li>discord.com (89)</li>
 <li>www.tesco.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
+<li>tvtropes.org (74)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
-<li>tvtropes.org (73)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,51 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:02 outlook.office.com</li>
+<ul><li> 15:10 www.amazon.co.uk</li>
+<li class='same'> 15:09 www.amazon.co.uk</li>
+<li> 15:09 www.google.com</li>
+<li> 15:09 docs.google.com</li>
+<li> 15:01 rhul-my.sharepoint.com</li>
+<li> 14:40 www.coursera.org</li>
+<li> 14:39 www.coursera.support</li>
+<li> 14:39 www.coursera.org</li>
+<li> 14:39 www.coursera.support</li>
+<li class='same'> 14:38 www.coursera.support</li>
+<li> 14:38 www.google.com</li>
+<li> 14:36 www.coursera.org</li>
+<li> 14:36 www.coursera.support</li>
+<li> 14:35 www.coursera.org</li>
+<li class='same'> 14:34 www.coursera.org</li>
+<li class='same'> 14:33 www.coursera.org</li>
+<li> 14:33 bsky.app</li>
+<li class='same'> 14:32 bsky.app</li>
+<li class='same'> 14:29 bsky.app</li>
+<li> 14:28 account.adobe.com</li>
+<li> 14:28 web.whatsapp.com</li>
+<li> 14:27 auth.services.adobe.com</li>
+<li> 14:27 account.adobe.com</li>
+<li> 14:27 mail.google.com</li>
+<li> 14:27 gmail.com</li>
+<li> 14:26 account.adobe.com</li>
+<li> 14:25 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li> 14:25 apps.apple.com</li>
+<li> 14:23 chatgpt.com</li>
+<li> 14:22 bsky.app</li>
+<li> 14:20 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li> 14:20 login.openathens.net</li>
+<li> 14:20 login.microsoftonline.com</li>
+<li> 14:19 librarysearch.royalholloway.ac.uk</li>
+<li> 14:18 www.amazon.co.uk</li>
+<li> 14:17 www.google.com</li>
+<li> 14:17 www.coursera.org</li>
+<li class='same'> 14:16 www.coursera.org</li>
+<li> 14:16 www.google.com</li>
+<li> 14:15 www.landwehr.org</li>
+<li> 14:15 www.google.com</li>
+<li> 14:15 librarysearch.royalholloway.ac.uk</li>
+<li> 14:15 www.google.com</li>
+<li> 14:12 tvtropes.org</li>
+<li> 14:02 outlook.office.com</li>
 <li> 14:01 www.google.com</li>
 <li> 14:01 outlook.office.com</li>
 <li class='same'> 14:00 outlook.office.com</li>
@@ -14902,6 +14946,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:39 claude.ai</li>
 <li> 17:38 rhul-my.sharepoint.com</li>
 <li> 17:09 <a href="https://en.wikipedia.org/wiki/Flipped_classroom">Flipped classroom - Wikipedia</a></li>
+<li> 16:55 librarysearch.royalholloway.ac.uk</li>
 <li> 16:51 books.google.co.uk</li>
 <li> 16:51 <a href="https://en.wikipedia.org/wiki/Flipped_classroom">Flipped classroom - Wikipedia</a></li>
 <li> 16:49 scholar.google.com</li>
@@ -15039,7 +15084,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 19:22 librarysearch.royalholloway.ac.uk</li>
+<li> 19:22 www.google.com</li>
+<li> 19:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 18:51 forms.office.com</li>
 <li> 18:22 dashboards.rhul.ac.uk</li>
 <li> 18:15 generalssb-prod.ec.royalholloway.ac.uk</li>
@@ -15554,7 +15601,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:16 outlook.office365.com</li>
+<ul><li> 12:17 librarysearch.royalholloway.ac.uk</li>
+<li> 12:17 www.google.com</li>
+<li> 12:16 outlook.office365.com</li>
 <li> 12:09 www.linkedin.com</li>
 <li class='same'> 12:08 www.linkedin.com</li>
 <li> 12:08 outlook.office365.com</li>
@@ -16007,6 +16056,8 @@ With number of accesses/minutes in parentheses
 <li> 11:07 outlook.office.com</li>
 <li> 11:03 outlook.office365.com</li>
 <li> 11:00 www.google.com</li>
+<li> 10:58 librarysearch.royalholloway.ac.uk</li>
+<li> 10:57 www.google.com</li>
 <li> 10:39 teams.microsoft.com</li>
 <li> 10:22 outlook.office365.com</li>
 <li> 10:02 myview.rhul.zellis.com</li>
@@ -16060,7 +16111,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:12 calendar.google.com</li>
+<ul><li> 21:19 librarysearch.royalholloway.ac.uk</li>
+<li> 21:12 calendar.google.com</li>
 <li> 21:10 <a href="https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel">Nebula Award for Best Novel - Wikipedia</a></li>
 </ul>
 
@@ -16255,7 +16307,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:47 qbo.intuit.com</li>
 <li> 16:30 outlook.office.com</li>
 <li class='same'> 16:22 outlook.office.com</li>
-<li class='same'> 16:21 outlook.office.com</li>
+<li> 16:21 librarysearch.royalholloway.ac.uk</li>
+<li> 16:21 www.google.com</li>
+<li> 16:21 outlook.office.com</li>
 <li class='same'> 16:20 outlook.office.com</li>
 <li> 16:16 projects.cs.rhul.ac.uk</li>
 <li> 16:08 moodle2324.royalholloway.ac.uk</li>
@@ -16501,6 +16555,8 @@ With number of accesses/minutes in parentheses
 <li> 18:12 ccrld.bywatersolutions.com</li>
 <li class='same'> 18:09 ccrld.bywatersolutions.com</li>
 <li> 18:05 ccrld.org</li>
+<li> 17:58 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 17:57 librarysearch.royalholloway.ac.uk</li>
 <li> 17:57 libbyapp.com</li>
 <li> 17:56 outlook.office.com</li>
 <li> 17:52 www.linkedin.com</li>
@@ -18608,6 +18664,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:16 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li class='same'> 07:04 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li class='same'> 07:02 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 06:59 librarysearch.royalholloway.ac.uk</li>
 <li> 06:51 kdpreports.amazon.com</li>
 <li> 06:49 www.facebook.com</li>
 </ul>
@@ -20264,7 +20321,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:04 rhul-my.sharepoint.com</li>
+<ul><li> 11:05 librarysearch.royalholloway.ac.uk</li>
+<li> 11:04 rhul-my.sharepoint.com</li>
 <li> 10:59 github.com</li>
 <li class='same'> 10:58 github.com</li>
 </ul>
@@ -20461,7 +20519,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:57 www.ebay.co.uk</li>
+<ul><li> 22:15 librarysearch.royalholloway.ac.uk</li>
+<li> 22:15 www.google.com</li>
+<li> 21:57 www.ebay.co.uk</li>
 <li> 21:54 www.camerajungle.co.uk</li>
 </ul>
 
@@ -21721,6 +21781,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:52 outlook.office.com</li>
+<li> 06:39 librarysearch.royalholloway.ac.uk</li>
 <li> 06:27 docs.google.com</li>
 </ul>
 
@@ -21802,6 +21863,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 20:46 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 20:44 librarysearch.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
@@ -21907,6 +21974,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:31 librarysearch.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
@@ -22568,6 +22640,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:44 drive.google.com</li>
+<li> 12:39 apps.apple.com</li>
 </ul>
 
 <br>
@@ -23584,6 +23657,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:34 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
+</ul>
+
+<H3>Wednesday, 29/11/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 06:56 equalitytime.github.io</li>
 </ul>
 
 <H3>Tuesday, 28/11/23</H3>
