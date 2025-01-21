@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1830)</li>
-<li>outlook.office365.com (1022)</li>
-<li>bsky.app (879)</li>
-<li>mail.google.com (870)</li>
-<li>outlook.office.com (771)</li>
+<ol><li>www.google.com (1835)</li>
+<li>outlook.office365.com (1024)</li>
+<li>bsky.app (880)</li>
+<li>mail.google.com (871)</li>
+<li>outlook.office.com (774)</li>
 <li>docs.google.com (621)</li>
 <li>www.facebook.com (539)</li>
-<li>rhul-my.sharepoint.com (293)</li>
+<li>rhul-my.sharepoint.com (294)</li>
+<li>www.amazon.co.uk (265)</li>
 <li>chatgpt.com (265)</li>
-<li>www.amazon.co.uk (264)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
 <li>www.reddit.com (257)</li>
 <li>login.microsoftonline.com (229)</li>
-<li>www.linkedin.com (226)</li>
+<li>www.linkedin.com (228)</li>
 <li>calendar.google.com (216)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (125)</li>
+<li>www.coursera.org (124)</li>
 <li>qbo.intuit.com (110)</li>
-<li>www.coursera.org (107)</li>
 <li>drive.google.com (105)</li>
 <li>www.theguardian.com (93)</li>
 <li>discord.com (89)</li>
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:08 www.pearson.com</li>
+<ul><li> 17:10 www.coursera.org</li>
+<li class='same'> 17:05 www.coursera.org</li>
+<li> 17:04 outlook.office.com</li>
+<li> 17:04 outlook.office365.com</li>
+<li> 17:04 www.coursera.org</li>
+<li> 17:01 www.coursera.support</li>
+<li> 16:54 web.whatsapp.com</li>
+<li> 16:53 rhul-my.sharepoint.com</li>
+<li> 16:52 www.coursera.org</li>
+<li class='same'> 16:51 www.coursera.org</li>
+<li class='same'> 16:50 www.coursera.org</li>
+<li> 16:47 outlook.office.com</li>
+<li> 16:46 outlook.office365.com</li>
+<li> 16:46 outlook.office.com</li>
+<li> 16:45 www.google.com</li>
+<li> 16:43 www.coursera.org</li>
+<li class='same'> 16:42 www.coursera.org</li>
+<li class='same'> 16:41 www.coursera.org</li>
+<li class='same'> 16:40 www.coursera.org</li>
+<li> 16:40 scholar.google.com</li>
+<li class='same'> 16:34 scholar.google.com</li>
+<li> 16:33 web.archive.org</li>
+<li> 16:33 www.google.com</li>
+<li> 16:30 web.whatsapp.com</li>
+<li> 16:30 vulndb.wordpress.com</li>
+<li> 16:29 www.linkedin.com</li>
+<li> 16:29 www.google.com</li>
+<li> 16:29 www.riskbasedsecurity.com</li>
+<li> 16:29 www.linkedin.com</li>
+<li> 16:28 www.coursera.org</li>
+<li class='same'> 16:27 www.coursera.org</li>
+<li class='same'> 16:26 www.coursera.org</li>
+<li class='same'> 16:25 www.coursera.org</li>
+<li class='same'> 16:24 www.coursera.org</li>
+<li class='same'> 16:23 www.coursera.org</li>
+<li class='same'> 16:22 www.coursera.org</li>
+<li> 16:22 www.google.com</li>
+<li> 16:11 mail.google.com</li>
+<li> 16:10 bsky.app</li>
+<li> 16:09 www.amazon.co.uk</li>
+<li> 16:09 www.pearson.com</li>
+<li class='same'> 16:08 www.pearson.com</li>
 <li class='same'> 16:07 www.pearson.com</li>
 <li> 16:07 www.google.com</li>
 <li> 16:07 qualifications.pearson.com</li>
@@ -21735,11 +21776,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:39 rhul.sharepoint.com</li>
 <li class='same'> 15:37 rhul.sharepoint.com</li>
-</ul>
-
-<br>
-
-<ul><li> 15:06 rhul-my.sharepoint.com</li>
+<li> 15:32 www.google.com</li>
+<li> 15:06 rhul-my.sharepoint.com</li>
 </ul>
 
 <br>
