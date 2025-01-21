@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1835)</li>
+<ol><li>www.google.com (1842)</li>
 <li>outlook.office365.com (1024)</li>
 <li>bsky.app (880)</li>
 <li>mail.google.com (871)</li>
-<li>outlook.office.com (774)</li>
+<li>outlook.office.com (778)</li>
 <li>docs.google.com (621)</li>
 <li>www.facebook.com (539)</li>
 <li>rhul-my.sharepoint.com (294)</li>
+<li>chatgpt.com (266)</li>
 <li>www.amazon.co.uk (265)</li>
-<li>chatgpt.com (265)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
 <li>www.reddit.com (257)</li>
 <li>login.microsoftonline.com (229)</li>
 <li>www.linkedin.com (228)</li>
-<li>calendar.google.com (216)</li>
+<li>calendar.google.com (217)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
+<li>www.coursera.org (127)</li>
 <li>ev.turnitinuk.com (125)</li>
-<li>www.coursera.org (124)</li>
 <li>qbo.intuit.com (110)</li>
 <li>drive.google.com (105)</li>
 <li>www.theguardian.com (93)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:10 www.coursera.org</li>
+<ul><li> 17:43 outlook.office.com</li>
+<li> 17:41 chatgpt.com</li>
+<li> 17:41 chat.openai.com</li>
+<li> 17:41 www.google.com</li>
+<li> 17:36 zoom.us</li>
+<li> 17:34 www.google.com</li>
+<li class='same'> 17:33 www.google.com</li>
+<li class='same'> 17:32 www.google.com</li>
+<li> 17:32 outlook.office.com</li>
+<li> 17:32 www.google.com</li>
+<li> 17:31 zoom.us</li>
+<li> 17:30 outlook.office.com</li>
+<li> 17:29 calendar.google.com</li>
+<li> 17:28 outlook.office.com</li>
+<li> 17:26 www.coursera.org</li>
+<li class='same'> 17:22 www.coursera.org</li>
+<li> 17:20 www.google.com</li>
+<li> 17:18 <a href="https://en.wikipedia.org/wiki/Cyber_kill_chain">Cyber kill chain - Wikipedia</a></li>
+<li> 17:18 www.google.com</li>
+<li> 17:18 www.coursera.org</li>
+<li class='same'> 17:10 www.coursera.org</li>
 <li class='same'> 17:05 www.coursera.org</li>
 <li> 17:04 outlook.office.com</li>
 <li> 17:04 outlook.office365.com</li>
@@ -16668,6 +16688,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:27 www.linkedin.com</li>
 <li> 07:26 outlook.office.com</li>
 <li> 07:17 whitewaterwriters.com</li>
+<li> 07:16 zoom.us</li>
 <li> 07:16 c14.qbo.intuit.com</li>
 <li> 07:13 calendar.google.com</li>
 <li> 07:12 www.giantitp.com</li>
@@ -17594,7 +17615,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 14:30 chatgpt.com</li>
+<ul><li> 14:35 zoom.us</li>
+<li> 14:30 chatgpt.com</li>
 </ul>
 
 <br>
