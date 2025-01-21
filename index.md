@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1809)</li>
-<li>outlook.office365.com (1020)</li>
-<li>bsky.app (869)</li>
-<li>mail.google.com (861)</li>
-<li>outlook.office.com (753)</li>
+<ol><li>www.google.com (1812)</li>
+<li>outlook.office365.com (1021)</li>
+<li>bsky.app (872)</li>
+<li>mail.google.com (867)</li>
+<li>outlook.office.com (761)</li>
 <li>docs.google.com (620)</li>
 <li>www.facebook.com (539)</li>
-<li>rhul-my.sharepoint.com (288)</li>
+<li>rhul-my.sharepoint.com (290)</li>
 <li>chatgpt.com (264)</li>
 <li>www.amazon.co.uk (259)</li>
-<li>moodle.royalholloway.ac.uk (258)</li>
+<li>moodle.royalholloway.ac.uk (259)</li>
 <li>www.reddit.com (256)</li>
 <li>login.microsoftonline.com (228)</li>
-<li>www.linkedin.com (220)</li>
-<li>calendar.google.com (213)</li>
-<li>github.com (207)</li>
+<li>www.linkedin.com (226)</li>
+<li>calendar.google.com (214)</li>
+<li>github.com (209)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
-<li>ev.turnitinuk.com (124)</li>
+<li>ev.turnitinuk.com (125)</li>
 <li>qbo.intuit.com (110)</li>
 <li>drive.google.com (105)</li>
 <li>www.coursera.org (97)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>discord.com (89)</li>
 <li>www.tesco.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
-<li>rhul.sharepoint.com (78)</li>
+<li>rhul.sharepoint.com (83)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 <li>tvtropes.org (73)</li>
@@ -105,6 +105,44 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 21/01/25</H3>
+
+<br>
+
+<ul><li> 13:02 bsky.app</li>
+<li class='same'> 12:58 bsky.app</li>
+<li class='same'> 12:57 bsky.app</li>
+<li> 12:57 www.linkedin.com</li>
+<li> 12:56 github.com</li>
+<li> 12:55 equalitytime.github.io</li>
+<li> 12:55 www.google.com</li>
+<li> 12:52 github.com</li>
+<li> 12:50 www.linkedin.com</li>
+<li> 12:50 mail.google.com</li>
+<li> 12:45 www.google.com</li>
+<li class='same'> 12:44 www.google.com</li>
+<li> 12:44 mail.google.com</li>
+<li> 12:40 outlook.office.com</li>
+<li class='same'> 12:39 outlook.office.com</li>
+<li class='same'> 12:36 outlook.office.com</li>
+<li> 12:36 mail.google.com</li>
+<li class='same'> 12:35 mail.google.com</li>
+<li> 12:35 outlook.office365.com</li>
+<li> 12:35 outlook.office.com</li>
+<li> 12:34 rhul.sharepoint.com</li>
+<li class='same'> 12:32 rhul.sharepoint.com</li>
+<li class='same'> 12:31 rhul.sharepoint.com</li>
+<li class='same'> 12:30 rhul.sharepoint.com</li>
+<li> 12:30 rhul-my.sharepoint.com</li>
+<li> 12:29 outlook.office.com</li>
+<li> 12:28 calendar.google.com</li>
+<li> 12:27 outlook.office.com</li>
+<li> 12:26 rhul.sharepoint.com</li>
+<li> 12:26 outlook.office.com</li>
+<li class='same'> 12:25 outlook.office.com</li>
+<li> 12:23 rhul-my.sharepoint.com</li>
+<li> 12:22 ev.turnitinuk.com</li>
+<li> 12:22 moodle.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
@@ -14254,11 +14292,9 @@ With number of accesses/minutes in parentheses
 <li> 08:05 reductress.com</li>
 <li> 08:05 www.google.com</li>
 <li class='same'> 07:56 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:15 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 07:38 mail.google.com</li>
+<li class='same'> 07:37 mail.google.com</li>
+<li> 07:15 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 </ul>
 
 <br>
@@ -22329,6 +22365,11 @@ With number of accesses/minutes in parentheses
 <li> 10:17 mail.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 07:23 www.linkedin.com</li>
+</ul>
+
 <H3>Tuesday, 06/02/24</H3>
 
 <br>
@@ -22533,7 +22574,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:25 docs.google.com</li>
+<ul><li> 10:53 www.linkedin.com</li>
+<li> 10:25 docs.google.com</li>
 </ul>
 
 <br>
@@ -22915,6 +22957,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:50 moodle.royalholloway.ac.uk</li>
 <li class='same'> 11:49 moodle.royalholloway.ac.uk</li>
 <li class='same'> 11:48 moodle.royalholloway.ac.uk</li>
+<li> 11:35 www.linkedin.com</li>
 </ul>
 
 <br>
@@ -22975,6 +23018,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 10:32 <a href="https://joereddington.com/2021/01/02/mynameis.html">Hello, my name is Joe! | Joe Reddington</a></li>
 <li> 10:28 equalitytime.github.io</li>
+<li> 10:28 www.linkedin.com</li>
 </ul>
 
 <br>
