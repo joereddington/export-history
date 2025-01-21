@@ -69,13 +69,13 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (1809)</li>
-<li>outlook.office365.com (1019)</li>
+<li>outlook.office365.com (1020)</li>
 <li>bsky.app (869)</li>
 <li>mail.google.com (861)</li>
-<li>outlook.office.com (751)</li>
+<li>outlook.office.com (753)</li>
 <li>docs.google.com (620)</li>
 <li>www.facebook.com (539)</li>
-<li>rhul-my.sharepoint.com (287)</li>
+<li>rhul-my.sharepoint.com (288)</li>
 <li>chatgpt.com (264)</li>
 <li>www.amazon.co.uk (259)</li>
 <li>moodle.royalholloway.ac.uk (258)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (207)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
-<li>ev.turnitinuk.com (121)</li>
+<li>ev.turnitinuk.com (124)</li>
 <li>qbo.intuit.com (110)</li>
 <li>drive.google.com (105)</li>
 <li>www.coursera.org (97)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>discord.com (89)</li>
 <li>www.tesco.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
-<li>rhul.sharepoint.com (77)</li>
+<li>rhul.sharepoint.com (78)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 <li>tvtropes.org (73)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:09 ev.turnitinuk.com</li>
+<ul><li> 11:48 web.whatsapp.com</li>
+<li> 11:48 rhul-my.sharepoint.com</li>
+<li> 11:45 intranet.royalholloway.ac.uk</li>
+<li> 11:45 rhul.sharepoint.com</li>
+<li> 11:45 outlook.office.com</li>
+<li> 11:45 outlook.office365.com</li>
+<li> 11:45 outlook.office.com</li>
+<li> 11:44 intranet.royalholloway.ac.uk</li>
+<li> 11:42 ev.turnitinuk.com</li>
+<li class='same'> 11:41 ev.turnitinuk.com</li>
+<li class='same'> 11:28 ev.turnitinuk.com</li>
+<li class='same'> 11:09 ev.turnitinuk.com</li>
 <li class='same'> 11:08 ev.turnitinuk.com</li>
 <li class='same'> 11:07 ev.turnitinuk.com</li>
 <li class='same'> 11:04 ev.turnitinuk.com</li>
