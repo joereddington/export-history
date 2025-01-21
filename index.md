@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1808)</li>
+<ol><li>www.google.com (1809)</li>
 <li>outlook.office365.com (1019)</li>
 <li>bsky.app (869)</li>
 <li>mail.google.com (861)</li>
-<li>outlook.office.com (745)</li>
+<li>outlook.office.com (751)</li>
 <li>docs.google.com (620)</li>
 <li>www.facebook.com (539)</li>
-<li>rhul-my.sharepoint.com (284)</li>
-<li>chatgpt.com (263)</li>
+<li>rhul-my.sharepoint.com (287)</li>
+<li>chatgpt.com (264)</li>
 <li>www.amazon.co.uk (259)</li>
+<li>moodle.royalholloway.ac.uk (258)</li>
 <li>www.reddit.com (256)</li>
-<li>moodle.royalholloway.ac.uk (256)</li>
 <li>login.microsoftonline.com (228)</li>
 <li>www.linkedin.com (220)</li>
-<li>calendar.google.com (212)</li>
+<li>calendar.google.com (213)</li>
 <li>github.com (207)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
-<li>ev.turnitinuk.com (113)</li>
+<li>ev.turnitinuk.com (121)</li>
 <li>qbo.intuit.com (110)</li>
 <li>drive.google.com (105)</li>
 <li>www.coursera.org (97)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>discord.com (89)</li>
 <li>www.tesco.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
-<li>rhul.sharepoint.com (76)</li>
+<li>rhul.sharepoint.com (77)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 <li>tvtropes.org (73)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:14 outlook.office.com</li>
+<ul><li> 11:09 ev.turnitinuk.com</li>
+<li class='same'> 11:08 ev.turnitinuk.com</li>
+<li class='same'> 11:07 ev.turnitinuk.com</li>
+<li class='same'> 11:04 ev.turnitinuk.com</li>
+<li class='same'> 11:02 ev.turnitinuk.com</li>
+<li class='same'> 11:01 ev.turnitinuk.com</li>
+<li class='same'> 10:58 ev.turnitinuk.com</li>
+<li> 10:57 moodle.royalholloway.ac.uk</li>
+<li> 10:49 ev.turnitinuk.com</li>
+<li> 10:47 moodle.royalholloway.ac.uk</li>
+<li> 10:43 outlook.office.com</li>
+<li> 10:39 intranet.royalholloway.ac.uk</li>
+<li class='same'> 10:32 intranet.royalholloway.ac.uk</li>
+<li> 10:29 chatgpt.com</li>
+<li> 10:29 www.ablebits.com</li>
+<li> 10:28 www.google.com</li>
+<li> 10:26 rhul-my.sharepoint.com</li>
+<li> 10:25 rhul.sharepoint.com</li>
+<li> 10:24 rhul-my.sharepoint.com</li>
+<li class='same'> 10:23 rhul-my.sharepoint.com</li>
+<li> 10:23 outlook.office.com</li>
+<li class='same'> 10:22 outlook.office.com</li>
+<li class='same'> 10:20 outlook.office.com</li>
+<li> 10:19 calendar.google.com</li>
+<li> 10:16 outlook.office.com</li>
+<li class='same'> 10:15 outlook.office.com</li>
+<li class='same'> 10:14 outlook.office.com</li>
 <li> 10:13 moodle.royalholloway.ac.uk</li>
 <li> 10:10 mail.google.com</li>
 <li> 10:08 chatgpt.com</li>
