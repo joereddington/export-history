@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1796)</li>
-<li>outlook.office365.com (1017)</li>
-<li>bsky.app (861)</li>
-<li>mail.google.com (850)</li>
-<li>outlook.office.com (712)</li>
-<li>docs.google.com (618)</li>
-<li>www.facebook.com (532)</li>
+<ol><li>www.google.com (1806)</li>
+<li>outlook.office365.com (1018)</li>
+<li>bsky.app (868)</li>
+<li>mail.google.com (854)</li>
+<li>outlook.office.com (721)</li>
+<li>docs.google.com (620)</li>
+<li>www.facebook.com (537)</li>
 <li>rhul-my.sharepoint.com (277)</li>
-<li>chatgpt.com (260)</li>
+<li>chatgpt.com (262)</li>
 <li>www.amazon.co.uk (259)</li>
 <li>www.reddit.com (256)</li>
 <li>moodle.royalholloway.ac.uk (228)</li>
-<li>login.microsoftonline.com (225)</li>
+<li>login.microsoftonline.com (226)</li>
 <li>www.linkedin.com (220)</li>
-<li>calendar.google.com (210)</li>
+<li>calendar.google.com (211)</li>
 <li>github.com (207)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
@@ -97,14 +97,103 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (75)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
-<li>fast.com (73)</li>
+<li>tvtropes.org (73)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Tuesday, 21/01/25</H3>
+
+<br>
+
+<ul><li> 09:14 www.smbc-comics.com</li>
+<li class='same'> 09:13 www.smbc-comics.com</li>
+<li class='same'> 09:12 www.smbc-comics.com</li>
+<li class='same'> 09:11 www.smbc-comics.com</li>
+<li class='same'> 09:10 www.smbc-comics.com</li>
+<li class='same'> 09:09 www.smbc-comics.com</li>
+<li class='same'> 09:08 www.smbc-comics.com</li>
+<li class='same'> 09:07 www.smbc-comics.com</li>
+<li class='same'> 09:06 www.smbc-comics.com</li>
+<li> 09:04 bsky.app</li>
+<li> 09:04 www.facebook.com</li>
+<li class='same'> 09:03 www.facebook.com</li>
+<li> 09:01 web.whatsapp.com</li>
+<li> 09:01 calendar.google.com</li>
+<li> 09:01 mail.google.com</li>
+<li> 09:01 gmail.com</li>
+<li> 08:59 docs.google.com</li>
+<li> 08:58 bsky.app</li>
+<li> 08:58 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:09 docs.google.com</li>
+<li> 08:09 www.google.com</li>
+<li> 08:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 08:06 dnschecker.org</li>
+<li> 08:04 www.google.com</li>
+<li> 08:04 <a href="https://stackoverflow.com/questions/4984719/what-is-the-mechanism-of-the-ghs-google-com-domain">What is the mechanism of the `ghs.google.com` domain? - Stack Overflow</a></li>
+<li> 08:04 support.google.com</li>
+<li> 08:03 www.google.com</li>
+<li> 08:01 www.whois.com</li>
+<li> 08:01 www.google.com</li>
+<li> 08:01 who.is</li>
+<li> 08:01 www.google.com</li>
+<li> 08:01 www.facebook.com</li>
+<li> 08:00 support.google.com</li>
+<li> 08:00 www.google.com</li>
+<li> 08:00 142.250.65.243</li>
+<li> 08:00 dnschecker.org</li>
+<li> 07:59 www.blogger.com</li>
+<li> 07:59 chatgpt.com</li>
+<li class='same'> 07:58 chatgpt.com</li>
+<li> 07:58 chat.openai.com</li>
+<li> 07:58 dnschecker.org</li>
+<li class='same'> 07:57 dnschecker.org</li>
+<li> 07:57 mxtoolbox.com</li>
+<li> 07:57 www.google.com</li>
+<li> 07:57 www.downssideup.com</li>
+<li> 07:57 www.google.com</li>
+<li> 07:55 www.facebook.com</li>
+<li class='same'> 07:54 www.facebook.com</li>
+<li> 07:54 outlook.office.com</li>
+<li class='same'> 07:52 outlook.office.com</li>
+<li class='same'> 07:51 outlook.office.com</li>
+<li class='same'> 07:48 outlook.office.com</li>
+<li> 07:42 bsky.app</li>
+<li class='same'> 07:41 bsky.app</li>
+<li class='same'> 07:40 bsky.app</li>
+<li class='same'> 07:39 bsky.app</li>
+<li class='same'> 07:38 bsky.app</li>
+<li> 07:38 mail.google.com</li>
+<li class='same'> 07:37 mail.google.com</li>
+<li> 07:35 outlook.office.com</li>
+<li class='same'> 07:34 outlook.office.com</li>
+<li> 07:32 projects.cs.rhul.ac.uk</li>
+<li> 07:32 outlook.office.com</li>
+<li class='same'> 07:31 outlook.office.com</li>
+<li> 07:31 login.microsoftonline.com</li>
+<li> 07:31 outlook.office365.com</li>
+<li> 07:31 mail.google.com</li>
+</ul>
+
 <H3>Monday, 20/01/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 08:11 tvtropes.org</li>
+<li class='same'> 08:09 tvtropes.org</li>
+<li> 08:09 www.google.com</li>
+<li class='same'> 08:08 www.google.com</li>
+</ul>
 
 <br>
 
