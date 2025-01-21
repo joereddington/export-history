@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1826)</li>
+<ol><li>www.google.com (1830)</li>
 <li>outlook.office365.com (1022)</li>
-<li>bsky.app (877)</li>
+<li>bsky.app (879)</li>
 <li>mail.google.com (870)</li>
 <li>outlook.office.com (771)</li>
 <li>docs.google.com (621)</li>
 <li>www.facebook.com (539)</li>
 <li>rhul-my.sharepoint.com (293)</li>
 <li>chatgpt.com (265)</li>
-<li>www.amazon.co.uk (262)</li>
+<li>www.amazon.co.uk (264)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
 <li>www.reddit.com (257)</li>
 <li>login.microsoftonline.com (229)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:10 www.amazon.co.uk</li>
+<ul><li> 16:08 www.pearson.com</li>
+<li class='same'> 16:07 www.pearson.com</li>
+<li> 16:07 www.google.com</li>
+<li> 16:07 qualifications.pearson.com</li>
+<li> 16:07 www.google.com</li>
+<li> 16:05 www.bookdeal.com</li>
+<li> 16:05 www.google.com</li>
+<li> 16:03 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 15:15 bsky.app</li>
+<li class='same'> 15:14 bsky.app</li>
+<li> 15:11 www.google.com</li>
+<li> 15:11 www.amazon.co.uk</li>
+<li class='same'> 15:10 www.amazon.co.uk</li>
 <li class='same'> 15:09 www.amazon.co.uk</li>
 <li> 15:09 www.google.com</li>
 <li> 15:09 docs.google.com</li>
