@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1806)</li>
-<li>outlook.office365.com (1018)</li>
-<li>bsky.app (868)</li>
-<li>mail.google.com (854)</li>
-<li>outlook.office.com (721)</li>
+<ol><li>www.google.com (1808)</li>
+<li>outlook.office365.com (1019)</li>
+<li>bsky.app (869)</li>
+<li>mail.google.com (861)</li>
+<li>outlook.office.com (745)</li>
 <li>docs.google.com (620)</li>
-<li>www.facebook.com (537)</li>
-<li>rhul-my.sharepoint.com (277)</li>
-<li>chatgpt.com (262)</li>
+<li>www.facebook.com (539)</li>
+<li>rhul-my.sharepoint.com (284)</li>
+<li>chatgpt.com (263)</li>
 <li>www.amazon.co.uk (259)</li>
 <li>www.reddit.com (256)</li>
-<li>moodle.royalholloway.ac.uk (228)</li>
-<li>login.microsoftonline.com (226)</li>
+<li>moodle.royalholloway.ac.uk (256)</li>
+<li>login.microsoftonline.com (228)</li>
 <li>www.linkedin.com (220)</li>
-<li>calendar.google.com (211)</li>
+<li>calendar.google.com (212)</li>
 <li>github.com (207)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (113)</li>
 <li>qbo.intuit.com (110)</li>
 <li>drive.google.com (105)</li>
-<li>www.coursera.org (96)</li>
+<li>www.coursera.org (97)</li>
 <li>www.theguardian.com (93)</li>
 <li>discord.com (89)</li>
 <li>www.tesco.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
-<li>rhul.sharepoint.com (75)</li>
+<li>rhul.sharepoint.com (76)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 <li>tvtropes.org (73)</li>
@@ -108,7 +108,69 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:14 www.smbc-comics.com</li>
+<ul><li> 10:14 outlook.office.com</li>
+<li> 10:13 moodle.royalholloway.ac.uk</li>
+<li> 10:10 mail.google.com</li>
+<li> 10:08 chatgpt.com</li>
+<li> 10:06 mail.google.com</li>
+<li> 10:05 outlook.office.com</li>
+<li> 10:05 mail.google.com</li>
+<li class='same'> 10:04 mail.google.com</li>
+<li> 10:04 accounts.google.com</li>
+<li> 10:04 mail.google.com</li>
+<li> 10:04 gmail.com</li>
+<li> 10:04 mail.google.com</li>
+<li> 10:04 gmail.com</li>
+<li> 10:03 outlook.office.com</li>
+<li class='same'> 10:02 outlook.office.com</li>
+<li> 10:00 www.google.com</li>
+<li class='same'> 09:59 www.google.com</li>
+<li> 09:58 web.whatsapp.com</li>
+<li> 09:55 rhul-my.sharepoint.com</li>
+<li> 09:54 outlook.office.com</li>
+<li> 09:53 projects.cs.rhul.ac.uk</li>
+<li> 09:52 rhul-my.sharepoint.com</li>
+<li class='same'> 09:51 rhul-my.sharepoint.com</li>
+<li> 09:50 outlook.office.com</li>
+<li> 09:50 www.microsoft365.com</li>
+<li> 09:50 login.microsoftonline.com</li>
+<li> 09:49 calendar.google.com</li>
+<li> 09:49 outlook.office.com</li>
+<li class='same'> 09:48 outlook.office.com</li>
+<li class='same'> 09:47 outlook.office.com</li>
+<li class='same'> 09:46 outlook.office.com</li>
+<li> 09:42 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:41 moodle.royalholloway.ac.uk</li>
+<li> 09:39 outlook.office.com</li>
+<li> 09:39 outlook.office365.com</li>
+<li> 09:39 outlook.office.com</li>
+<li> 09:39 mail.google.com</li>
+<li> 09:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:35 moodle.royalholloway.ac.uk</li>
+<li> 09:35 login.microsoftonline.com</li>
+<li> 09:35 moodle.royalholloway.ac.uk</li>
+<li> 09:32 bsky.app</li>
+<li> 09:31 outlook.office.com</li>
+<li> 09:30 rhul-my.sharepoint.com</li>
+<li> 09:29 rhul.sharepoint.com</li>
+<li> 09:29 outlook.office.com</li>
+<li class='same'> 09:28 outlook.office.com</li>
+<li> 09:28 rhul-my.sharepoint.com</li>
+<li> 09:27 outlook.office.com</li>
+<li class='same'> 09:26 outlook.office.com</li>
+<li> 09:24 rhul-my.sharepoint.com</li>
+<li class='same'> 09:23 rhul-my.sharepoint.com</li>
+<li> 09:23 projects.cs.rhul.ac.uk</li>
+<li> 09:21 outlook.office.com</li>
+<li> 09:20 www.facebook.com</li>
+<li> 09:18 l.facebook.com</li>
+<li> 09:18 www.facebook.com</li>
+<li> 09:17 www.coursera.org</li>
+<li> 09:17 outlook.office.com</li>
+<li class='same'> 09:16 outlook.office.com</li>
+<li> 09:16 www.smbc-comics.com</li>
+<li class='same'> 09:15 www.smbc-comics.com</li>
+<li class='same'> 09:14 www.smbc-comics.com</li>
 <li class='same'> 09:13 www.smbc-comics.com</li>
 <li class='same'> 09:12 www.smbc-comics.com</li>
 <li class='same'> 09:11 www.smbc-comics.com</li>
@@ -13875,7 +13937,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 12:58 outlook.office365.com</li>
+<ul><li> 12:59 moodle.royalholloway.ac.uk</li>
+<li> 12:58 outlook.office365.com</li>
 <li> 12:57 www.ebay.co.uk</li>
 </ul>
 
@@ -13904,6 +13967,8 @@ With number of accesses/minutes in parentheses
 <li> 09:46 accounts.intuit.com</li>
 <li> 09:46 qbo.intuit.com</li>
 <li> 09:46 app.qbo.intuit.com</li>
+<li> 09:45 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:44 moodle.royalholloway.ac.uk</li>
 <li> 09:39 outlook.office365.com</li>
 <li class='same'> 09:38 outlook.office365.com</li>
 <li> 09:33 moodle2324.royalholloway.ac.uk</li>
@@ -14889,11 +14954,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:16 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-</ul>
-
-<br>
-
-<ul><li> 15:46 calendar.google.com</li>
+<li> 16:07 moodle.royalholloway.ac.uk</li>
+<li> 15:46 calendar.google.com</li>
 <li> 15:42 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&action=edit">Editing Yahoo data breaches - Wikipedia</a></li>
 <li> 15:41 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 15:41 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
@@ -14987,6 +15049,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:06 rhul.sharepoint.com</li>
+<li> 07:01 moodle.royalholloway.ac.uk</li>
 <li> 06:50 claude.ai</li>
 <li> 06:35 qbo.intuit.com</li>
 <li class='same'> 06:34 qbo.intuit.com</li>
@@ -16330,7 +16393,9 @@ With number of accesses/minutes in parentheses
 <li> 18:39 www.google.com</li>
 <li> 18:37 calendar.google.com</li>
 <li> 18:37 rhul-my.sharepoint.com</li>
+<li> 18:37 outlook.office.com</li>
 <li> 18:31 rhul.sharepoint.com</li>
+<li> 18:30 outlook.office.com</li>
 <li> 18:19 calendar.google.com</li>
 <li> 18:15 ccrld.org</li>
 <li> 18:12 ccrld.bywatersolutions.com</li>
@@ -16364,11 +16429,13 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:43 projects.cs.rhul.ac.uk</li>
 <li> 14:42 outlook.office.com</li>
+<li> 14:18 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <br>
 
 <ul><li> 11:50 calendar.google.com</li>
+<li> 11:48 moodle.royalholloway.ac.uk</li>
 <li> 11:45 github.com</li>
 <li class='same'> 11:20 github.com</li>
 <li> 11:19 rhul-my.sharepoint.com</li>
@@ -16418,11 +16485,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:08 dashboards.rhul.ac.uk</li>
 <li> 15:03 outlook.office.com</li>
 <li class='same'> 15:02 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 14:24 intranet.royalholloway.ac.uk</li>
+<li class='same'> 14:52 outlook.office.com</li>
+<li> 14:24 intranet.royalholloway.ac.uk</li>
 <li> 14:24 outlook.office.com</li>
 <li class='same'> 14:22 outlook.office.com</li>
 </ul>
@@ -16573,6 +16637,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:30 www.linkedin.com</li>
 <li> 11:29 outlook.office.com</li>
 <li> 11:11 libbyapp.com</li>
+<li> 10:43 outlook.office.com</li>
 </ul>
 
 <br>
@@ -20951,7 +21016,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:57 analytics.google.com</li>
+<ul><li> 10:13 moodle.royalholloway.ac.uk</li>
+<li> 09:57 analytics.google.com</li>
 <li class='same'> 09:55 analytics.google.com</li>
 </ul>
 
@@ -21505,6 +21571,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:01 outlook.office.com</li>
 <li class='same'> 11:00 outlook.office.com</li>
 <li class='same'> 10:59 outlook.office.com</li>
+<li> 10:59 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <H3>Saturday, 09/03/24</H3>
@@ -21601,6 +21668,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:15 ico.org.uk</li>
 <li> 12:08 kk.org</li>
 <li> 11:53 ico.org.uk</li>
+<li> 11:45 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -21620,11 +21688,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:51 rhul.hosted.panopto.com</li>
-</ul>
-
-<br>
-
-<ul><li> 06:18 moodle.royalholloway.ac.uk</li>
+<li> 06:38 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:18 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <H3>Tuesday, 05/03/24</H3>
@@ -21824,6 +21889,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:54 www.royalholloway.ac.uk</li>
+<li> 13:50 www.microsoft365.com</li>
 </ul>
 
 <br>
@@ -22172,6 +22238,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:21 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:18 moodle.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 11:46 whitewaterwriters.com</li>
 <li> 11:42 127.0.0.1:4000</li>
 <li> 11:18 github.com</li>
@@ -22345,6 +22417,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:35 www.buzzfeed.com</li>
 </ul>
 
+<br>
+
+<ul><li> 07:56 moodle.royalholloway.ac.uk</li>
+</ul>
+
 <H3>Tuesday, 30/01/24</H3>
 
 <br>
@@ -22353,7 +22430,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 17:27 www.buzzfeed.com</li>
+<ul><li> 17:27 www.buzzfeed.com</li>
 <li class='same'> 17:23 www.buzzfeed.com</li>
 </ul>
 
@@ -22605,8 +22682,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:57 moodle.royalholloway.ac.uk</li>
+<ul><li> 10:22 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:03 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:57 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:55 moodle.royalholloway.ac.uk</li>
 <li> 09:40 www.facebook.com</li>
+<li> 09:38 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:36 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <H3>Sunday, 14/01/24</H3>
@@ -22793,6 +22876,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:50 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:49 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:48 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <br>
