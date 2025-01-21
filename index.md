@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1812)</li>
-<li>outlook.office365.com (1021)</li>
-<li>bsky.app (872)</li>
-<li>mail.google.com (867)</li>
-<li>outlook.office.com (761)</li>
+<ol><li>www.google.com (1815)</li>
+<li>outlook.office365.com (1022)</li>
+<li>bsky.app (873)</li>
+<li>mail.google.com (869)</li>
+<li>outlook.office.com (771)</li>
 <li>docs.google.com (620)</li>
 <li>www.facebook.com (539)</li>
-<li>rhul-my.sharepoint.com (290)</li>
+<li>rhul-my.sharepoint.com (292)</li>
 <li>chatgpt.com (264)</li>
 <li>www.amazon.co.uk (259)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
-<li>www.reddit.com (256)</li>
+<li>www.reddit.com (257)</li>
 <li>login.microsoftonline.com (228)</li>
 <li>www.linkedin.com (226)</li>
-<li>calendar.google.com (214)</li>
+<li>calendar.google.com (216)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (125)</li>
 <li>qbo.intuit.com (110)</li>
 <li>drive.google.com (105)</li>
-<li>www.coursera.org (97)</li>
+<li>www.coursera.org (99)</li>
 <li>www.theguardian.com (93)</li>
 <li>discord.com (89)</li>
 <li>www.tesco.com (87)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:02 bsky.app</li>
+<ul><li> 14:02 outlook.office.com</li>
+<li> 14:01 www.google.com</li>
+<li> 14:01 outlook.office.com</li>
+<li class='same'> 14:00 outlook.office.com</li>
+<li> 14:00 outlook.office365.com</li>
+<li> 13:56 bsky.app</li>
+<li> 13:52 rhul-my.sharepoint.com</li>
+<li> 13:51 mail.google.com</li>
+<li> 13:38 www.coursera.org</li>
+<li class='same'> 13:37 www.coursera.org</li>
+<li> 13:37 outlook.office.com</li>
+<li class='same'> 13:36 outlook.office.com</li>
+<li> 13:35 rhul-my.sharepoint.com</li>
+<li> 13:35 outlook.office.com</li>
+<li> 13:22 www.google.com</li>
+<li> 13:21 www.reddit.com</li>
+<li> 13:21 www.google.com</li>
+<li> 13:21 safeguardingdigital.co.uk</li>
+<li> 13:19 web.whatsapp.com</li>
+<li> 13:18 calendar.google.com</li>
+<li> 13:17 safeguardingdigital.co.uk</li>
+<li> 13:17 www.bigmarker.com</li>
+<li> 13:16 outlook.office.com</li>
+<li class='same'> 13:15 outlook.office.com</li>
+<li> 13:15 mail.google.com</li>
+<li> 13:14 calendar.google.com</li>
+<li> 13:13 outlook.office.com</li>
+<li> 13:02 bsky.app</li>
 <li class='same'> 12:58 bsky.app</li>
 <li class='same'> 12:57 bsky.app</li>
 <li> 12:57 www.linkedin.com</li>
@@ -20511,6 +20538,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 18:23 rhul-my.sharepoint.com</li>
 <li> 18:20 rhul.hosted.panopto.com</li>
 <li class='same'> 18:19 rhul.hosted.panopto.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:25 outlook.office.com</li>
 </ul>
 
 <br>
