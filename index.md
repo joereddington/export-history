@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1920)</li>
+<ol><li>www.google.com (1926)</li>
 <li>outlook.office365.com (1029)</li>
-<li>bsky.app (934)</li>
+<li>bsky.app (937)</li>
 <li>mail.google.com (899)</li>
 <li>outlook.office.com (805)</li>
-<li>docs.google.com (718)</li>
-<li>www.facebook.com (548)</li>
+<li>docs.google.com (733)</li>
+<li>www.facebook.com (556)</li>
 <li>rhul-my.sharepoint.com (294)</li>
-<li>chatgpt.com (271)</li>
-<li>www.reddit.com (268)</li>
-<li>www.amazon.co.uk (267)</li>
+<li>chatgpt.com (272)</li>
+<li>www.reddit.com (271)</li>
+<li>www.amazon.co.uk (269)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
-<li>calendar.google.com (236)</li>
+<li>calendar.google.com (237)</li>
 <li>www.linkedin.com (231)</li>
 <li>login.microsoftonline.com (229)</li>
 <li>github.com (209)</li>
@@ -108,7 +108,55 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:37 www.amazon.co.uk</li>
+<ul><li> 21:33 bsky.app</li>
+<li> 21:32 docs.google.com</li>
+<li class='same'> 21:31 docs.google.com</li>
+<li class='same'> 21:30 docs.google.com</li>
+<li> 21:28 www.google.com</li>
+<li> 21:27 docs.google.com</li>
+<li> 21:27 www.reddit.com</li>
+<li> 21:26 docs.google.com</li>
+<li> 21:24 www.reddit.com</li>
+<li> 21:24 www.google.com</li>
+<li> 21:23 www.reddit.com</li>
+<li> 21:23 www.google.com</li>
+<li> 21:13 docs.google.com</li>
+<li class='same'> 21:12 docs.google.com</li>
+<li class='same'> 21:10 docs.google.com</li>
+<li class='same'> 21:09 docs.google.com</li>
+<li> 21:08 www.google.com</li>
+<li> 21:05 docs.google.com</li>
+<li> 21:05 www.nutritionix.com</li>
+<li> 21:05 www.google.com</li>
+<li> 21:04 docs.google.com</li>
+<li class='same'> 21:03 docs.google.com</li>
+<li class='same'> 21:02 docs.google.com</li>
+<li class='same'> 21:01 docs.google.com</li>
+<li class='same'> 20:56 docs.google.com</li>
+<li> 20:55 bsky.app</li>
+<li class='same'> 20:54 bsky.app</li>
+<li> 20:53 www.giantitp.com</li>
+<li> 20:52 calendar.google.com</li>
+<li> 20:52 web.whatsapp.com</li>
+<li> 20:51 www.facebook.com</li>
+<li class='same'> 20:50 www.facebook.com</li>
+<li class='same'> 20:49 www.facebook.com</li>
+<li class='same'> 20:48 www.facebook.com</li>
+<li class='same'> 20:47 www.facebook.com</li>
+<li class='same'> 20:46 www.facebook.com</li>
+<li> 20:44 www.gov.uk</li>
+<li> 20:44 www.google.com</li>
+<li> 20:43 chatgpt.com</li>
+<li> 20:43 chat.openai.com</li>
+<li> 20:42 kdpreports.amazon.com</li>
+<li> 20:42 kdp.amazon.com</li>
+<li class='same'> 20:41 kdp.amazon.com</li>
+<li> 20:41 www.facebook.com</li>
+<li class='same'> 20:40 www.facebook.com</li>
+<li> 20:39 web.whatsapp.com</li>
+<li> 20:39 www.amazon.co.uk</li>
+<li class='same'> 20:38 www.amazon.co.uk</li>
+<li class='same'> 20:37 www.amazon.co.uk</li>
 <li> 20:37 www.overdrive.com</li>
 <li> 20:36 bsky.app</li>
 <li> 20:32 www.overdrive.com</li>
