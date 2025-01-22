@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1846)</li>
+<ol><li>www.google.com (1850)</li>
 <li>outlook.office365.com (1024)</li>
 <li>bsky.app (883)</li>
 <li>mail.google.com (874)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>www.tesco.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
-<li>tvtropes.org (74)</li>
+<li>tvtropes.org (81)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 21/01/25</H3>
+
+<br>
+
+<ul><li> 23:00 tvtropes.org</li>
+<li class='same'> 22:59 tvtropes.org</li>
+<li class='same'> 22:57 tvtropes.org</li>
+<li class='same'> 22:56 tvtropes.org</li>
+<li class='same'> 22:44 tvtropes.org</li>
+<li class='same'> 22:41 tvtropes.org</li>
+<li> 22:41 www.google.com</li>
+<li class='same'> 22:39 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 21:32 www.google.com</li>
+<li> 21:32 www.cladcodecking.co.uk</li>
+<li> 21:31 www.google.com</li>
+<li> 21:31 www.bookdeal.com</li>
+</ul>
 
 <br>
 
@@ -17089,7 +17109,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:26 tvtropes.org</li>
+<ul><li> 19:30 tvtropes.org</li>
+<li class='same'> 19:26 tvtropes.org</li>
 </ul>
 
 <br>
