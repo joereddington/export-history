@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1850)</li>
-<li>outlook.office365.com (1024)</li>
-<li>bsky.app (885)</li>
-<li>mail.google.com (875)</li>
-<li>outlook.office.com (784)</li>
-<li>docs.google.com (623)</li>
-<li>www.facebook.com (539)</li>
+<ol><li>www.google.com (1853)</li>
+<li>outlook.office365.com (1025)</li>
+<li>bsky.app (892)</li>
+<li>mail.google.com (876)</li>
+<li>outlook.office.com (786)</li>
+<li>docs.google.com (626)</li>
+<li>www.facebook.com (542)</li>
 <li>rhul-my.sharepoint.com (294)</li>
 <li>chatgpt.com (266)</li>
 <li>www.amazon.co.uk (265)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:09 bsky.app</li>
+<ul><li> 07:34 www.facebook.com</li>
+<li> 07:33 community.letsencrypt.org</li>
+<li> 07:32 www.google.com</li>
+<li> 07:32 www.facebook.com</li>
+<li> 07:31 bsky.app</li>
+<li> 07:31 www.facebook.com</li>
+<li> 07:29 bsky.app</li>
+<li> 07:28 vimeo.com</li>
+<li> 07:28 www.hanselman.com</li>
+<li> 07:28 www.google.com</li>
+<li> 07:27 bsky.app</li>
+<li class='same'> 07:26 bsky.app</li>
+<li> 07:24 docs.google.com</li>
+<li> 07:22 bsky.app</li>
+<li> 07:21 outlook.office.com</li>
+<li> 07:21 outlook.office365.com</li>
+<li> 07:21 outlook.office.com</li>
+<li> 07:20 bsky.app</li>
+<li> 07:18 <a href="https://www.youtube.com/watch?v=oTugjssqOT0">Randy Pausch Lecture: Time Management - YouTube</a></li>
+<li> 07:18 www.google.com</li>
+<li> 07:14 bsky.app</li>
+<li> 07:12 mail.google.com</li>
+<li> 07:12 gmail.com</li>
+<li> 07:12 web.whatsapp.com</li>
+<li> 07:11 docs.google.com</li>
+<li class='same'> 07:10 docs.google.com</li>
+<li> 07:09 bsky.app</li>
 <li> 07:08 docs.google.com</li>
 <li> 07:08 bsky.app</li>
 <li> 07:08 mail.google.com</li>
