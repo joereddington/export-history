@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1895)</li>
+<ol><li>www.google.com (1896)</li>
 <li>outlook.office365.com (1028)</li>
-<li>bsky.app (914)</li>
-<li>mail.google.com (891)</li>
-<li>outlook.office.com (800)</li>
-<li>docs.google.com (634)</li>
-<li>www.facebook.com (545)</li>
+<li>bsky.app (919)</li>
+<li>mail.google.com (892)</li>
+<li>outlook.office.com (804)</li>
+<li>docs.google.com (656)</li>
+<li>www.facebook.com (546)</li>
 <li>rhul-my.sharepoint.com (294)</li>
 <li>chatgpt.com (271)</li>
 <li>www.amazon.co.uk (265)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (127)</li>
 <li>ev.turnitinuk.com (125)</li>
 <li>qbo.intuit.com (110)</li>
-<li>drive.google.com (105)</li>
+<li>drive.google.com (107)</li>
 <li>www.theguardian.com (93)</li>
 <li>discord.com (89)</li>
 <li>www.tesco.com (87)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:36 www.bigmarker.com</li>
+<ul><li> 15:31 docs.google.com</li>
+<li class='same'> 15:30 docs.google.com</li>
+<li class='same'> 15:29 docs.google.com</li>
+<li class='same'> 15:28 docs.google.com</li>
+<li class='same'> 15:27 docs.google.com</li>
+<li> 15:27 drive.google.com</li>
+<li class='same'> 15:24 drive.google.com</li>
+<li> 15:23 www.birmingham.ac.uk</li>
+<li> 15:23 www.google.com</li>
+<li> 15:23 safeguardingdigital.co.uk</li>
+<li> 15:23 web.whatsapp.com</li>
+<li> 15:22 bsky.app</li>
+<li class='same'> 15:21 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:51 bsky.app</li>
+<li class='same'> 14:50 bsky.app</li>
+<li> 14:50 outlook.office.com</li>
+<li> 14:50 bsky.app</li>
+<li> 14:49 www.facebook.com</li>
+<li> 14:48 docs.google.com</li>
+<li> 14:47 outlook.office.com</li>
+<li class='same'> 14:45 outlook.office.com</li>
+<li> 14:39 web.whatsapp.com</li>
+<li> 14:39 outlook.office.com</li>
+<li> 14:39 www.bigmarker.com</li>
+<li> 14:38 safeguardingdigital.co.uk</li>
+<li> 14:38 www.bigmarker.com</li>
+<li> 14:38 mail.google.com</li>
+<li> 14:36 www.bigmarker.com</li>
 <li> 14:36 outlook.office.com</li>
 <li> 14:36 outlook.office365.com</li>
 <li> 14:36 outlook.office.com</li>
@@ -14864,6 +14895,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:08 docs.google.com</li>
 <li class='same'> 12:07 docs.google.com</li>
 <li> 12:06 accounts.google.com</li>
+<li> 12:06 docs.google.com</li>
 <li> 12:03 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
 <li> 12:03 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
 </ul>
@@ -15803,6 +15835,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 15:53 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:53 docs.google.com</li>
 </ul>
 
 <br>
@@ -17892,6 +17929,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:04 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 16:36 docs.google.com</li>
 </ul>
 
 <br>
@@ -17901,23 +17939,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:35 zoom.us</li>
+<ul><li> 14:41 docs.google.com</li>
+<li class='same'> 14:38 docs.google.com</li>
+<li> 14:35 zoom.us</li>
 <li> 14:30 chatgpt.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 10:23 chatgpt.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 09:45 chatgpt.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:02 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<ul><li> 10:29 docs.google.com</li>
+<li> 10:23 chatgpt.com</li>
+<li> 10:21 docs.google.com</li>
+<li class='same'> 10:19 docs.google.com</li>
+<li class='same'> 10:12 docs.google.com</li>
+<li class='same'> 10:02 docs.google.com</li>
+<li class='same'> 09:53 docs.google.com</li>
+<li> 09:45 chatgpt.com</li>
+<li> 09:38 docs.google.com</li>
+<li class='same'> 09:17 docs.google.com</li>
+<li> 09:02 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 09:02 docs.google.com</li>
 </ul>
 
 <H3>Monday, 19/08/24</H3>
@@ -17950,9 +17991,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:22 www.linkedin.com</li>
+<ul><li> 08:48 docs.google.com</li>
+<li> 08:22 www.linkedin.com</li>
 <li> 08:16 <a href="https://joereddington.com/media.html">Joe Reddington | Things I make.</a></li>
 <li> 08:13 www.linkedin.com</li>
+<li> 08:08 docs.google.com</li>
 <li> 08:07 www.google.com</li>
 <li> 07:57 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
 </ul>
