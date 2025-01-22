@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1871)</li>
+<ol><li>www.google.com (1872)</li>
 <li>outlook.office365.com (1027)</li>
 <li>bsky.app (907)</li>
-<li>mail.google.com (879)</li>
+<li>mail.google.com (880)</li>
 <li>outlook.office.com (798)</li>
 <li>docs.google.com (631)</li>
-<li>www.facebook.com (544)</li>
+<li>www.facebook.com (545)</li>
 <li>rhul-my.sharepoint.com (294)</li>
-<li>chatgpt.com (266)</li>
+<li>chatgpt.com (268)</li>
 <li>www.amazon.co.uk (265)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
 <li>www.reddit.com (258)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:15 mysupport.apple.com</li>
+<ul><li> 11:38 www.google.com</li>
+<li> 11:36 chatgpt.com</li>
+<li> 11:35 adblockplus.org</li>
+<li> 11:35 chatgpt.com</li>
+<li> 11:35 chat.openai.com</li>
+<li> 11:18 www.facebook.com</li>
+<li> 11:17 mail.google.com</li>
+<li> 11:17 getsupport.apple.com</li>
+<li class='same'> 11:16 getsupport.apple.com</li>
+<li> 11:16 mysupport.apple.com</li>
+<li class='same'> 11:15 mysupport.apple.com</li>
 <li> 11:15 idmsa.apple.com</li>
 <li> 11:15 support.apple.com</li>
 <li> 11:14 discussions.apple.com</li>
