@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1853)</li>
+<ol><li>www.google.com (1867)</li>
 <li>outlook.office365.com (1025)</li>
-<li>bsky.app (892)</li>
-<li>mail.google.com (876)</li>
-<li>outlook.office.com (786)</li>
-<li>docs.google.com (626)</li>
+<li>bsky.app (895)</li>
+<li>mail.google.com (877)</li>
+<li>outlook.office.com (789)</li>
+<li>docs.google.com (631)</li>
 <li>www.facebook.com (542)</li>
 <li>rhul-my.sharepoint.com (294)</li>
 <li>chatgpt.com (266)</li>
 <li>www.amazon.co.uk (265)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
-<li>www.reddit.com (257)</li>
+<li>www.reddit.com (258)</li>
 <li>login.microsoftonline.com (229)</li>
 <li>www.linkedin.com (228)</li>
-<li>calendar.google.com (218)</li>
+<li>calendar.google.com (220)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
@@ -93,8 +93,8 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (93)</li>
 <li>discord.com (89)</li>
 <li>www.tesco.com (87)</li>
+<li>tvtropes.org (86)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
-<li>tvtropes.org (84)</li>
 <li>rhul.sharepoint.com (83)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
@@ -105,6 +105,41 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 22/01/25</H3>
+
+<br>
+
+<ul><li> 10:15 www.google.com</li>
+<li class='same'> 10:14 www.google.com</li>
+<li class='same'> 10:13 www.google.com</li>
+<li> 10:12 calendar.google.com</li>
+<li> 10:12 outlook.office.com</li>
+<li> 10:12 bsky.app</li>
+<li> 10:10 <a href="https://en.wikipedia.org/wiki/Overton_window">Overton window - Wikipedia</a></li>
+<li> 10:10 www.google.com</li>
+<li> 10:09 bsky.app</li>
+<li> 10:08 www.google.com</li>
+<li> 10:04 bsky.app</li>
+<li> 10:03 calendar.google.com</li>
+<li> 10:02 mail.google.com</li>
+<li> 10:01 outlook.office.com</li>
+<li class='same'> 10:00 outlook.office.com</li>
+<li> 09:50 docs.google.com</li>
+<li class='same'> 09:49 docs.google.com</li>
+<li class='same'> 09:48 docs.google.com</li>
+<li class='same'> 09:45 docs.google.com</li>
+<li class='same'> 09:44 docs.google.com</li>
+<li> 09:31 www.google.com</li>
+<li class='same'> 09:24 www.google.com</li>
+<li> 09:24 study.com</li>
+<li> 09:23 www.google.com</li>
+<li class='same'> 09:21 www.google.com</li>
+<li class='same'> 09:19 www.google.com</li>
+<li class='same'> 09:17 www.google.com</li>
+<li> 09:16 www.reddit.com</li>
+<li> 09:15 www.google.com</li>
+<li class='same'> 09:14 www.google.com</li>
+<li> 09:14 tvtropes.org</li>
+</ul>
 
 <br>
 
@@ -566,6 +601,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:09 tvtropes.org</li>
 <li> 08:09 www.google.com</li>
 <li class='same'> 08:08 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:23 tvtropes.org</li>
+<li> 06:23 www.google.com</li>
 </ul>
 
 <br>
@@ -25384,6 +25425,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:12 askubuntu.com</li>
 </ul>
 
+<br>
+
+<ul><li> 10:58 <a href="https://www.youtube.com/watch?v=oTugjssqOT0">Randy Pausch Lecture: Time Management - YouTube</a></li>
+</ul>
+
 <H3>Sunday, 27/08/23</H3>
 
 <br>
@@ -25588,6 +25634,11 @@ With number of accesses/minutes in parentheses
 <li> 10:22 askubuntu.com</li>
 </ul>
 
+<br>
+
+<ul><li> 07:00 dnschecker.org</li>
+</ul>
+
 <H3>Tuesday, 01/08/23</H3>
 
 <br>
@@ -25596,7 +25647,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:40 workspace.google.com</li>
+<ul><li class='same'> 07:45 dnschecker.org</li>
+<li> 07:44 mxtoolbox.com</li>
+<li> 07:40 workspace.google.com</li>
 </ul>
 
 <H3>Monday, 31/07/23</H3>
