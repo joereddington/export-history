@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1899)</li>
-<li>outlook.office365.com (1028)</li>
-<li>bsky.app (925)</li>
-<li>mail.google.com (892)</li>
-<li>outlook.office.com (804)</li>
-<li>docs.google.com (691)</li>
+<ol><li>www.google.com (1911)</li>
+<li>outlook.office365.com (1029)</li>
+<li>bsky.app (931)</li>
+<li>mail.google.com (896)</li>
+<li>outlook.office.com (805)</li>
+<li>docs.google.com (716)</li>
 <li>www.facebook.com (548)</li>
 <li>rhul-my.sharepoint.com (294)</li>
 <li>chatgpt.com (271)</li>
 <li>www.amazon.co.uk (265)</li>
 <li>www.reddit.com (264)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
-<li>calendar.google.com (235)</li>
-<li>www.linkedin.com (230)</li>
+<li>calendar.google.com (236)</li>
+<li>www.linkedin.com (231)</li>
 <li>login.microsoftonline.com (229)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
@@ -92,12 +92,12 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (108)</li>
 <li>www.theguardian.com (93)</li>
 <li>discord.com (89)</li>
+<li>tvtropes.org (88)</li>
 <li>www.tesco.com (87)</li>
-<li>tvtropes.org (86)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
+<li>www.instagram.com (74)</li>
 <li>fast.com (74)</li>
-<li>www.instagram.com (73)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,69 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:38 bsky.app</li>
+<ul><li> 17:41 www.sciencedirect.com</li>
+<li> 17:40 www.google.com</li>
+<li> 17:40 tvtropes.org</li>
+<li> 17:33 docs.google.com</li>
+<li class='same'> 17:32 docs.google.com</li>
+<li class='same'> 17:31 docs.google.com</li>
+<li class='same'> 17:30 docs.google.com</li>
+<li> 17:29 www.google.com</li>
+<li> 17:29 docs.google.com</li>
+<li> 17:27 mail.google.com</li>
+<li class='same'> 17:26 mail.google.com</li>
+<li> 17:26 calendar.google.com</li>
+<li> 17:26 mail.google.com</li>
+<li class='same'> 17:24 mail.google.com</li>
+<li> 17:24 gmail.com</li>
+<li> 17:21 intranet.royalholloway.ac.uk</li>
+<li> 17:21 www.google.com</li>
+<li> 17:19 bsky.app</li>
+<li class='same'> 17:18 bsky.app</li>
+<li class='same'> 17:17 bsky.app</li>
+<li class='same'> 17:16 bsky.app</li>
+<li class='same'> 17:15 bsky.app</li>
+<li> 17:15 www.google.com</li>
+<li> 17:15 docs.google.com</li>
+<li class='same'> 17:14 docs.google.com</li>
+<li class='same'> 17:13 docs.google.com</li>
+<li class='same'> 17:12 docs.google.com</li>
+<li class='same'> 17:09 docs.google.com</li>
+<li class='same'> 17:08 docs.google.com</li>
+<li class='same'> 17:07 docs.google.com</li>
+<li class='same'> 17:06 docs.google.com</li>
+<li> 17:05 <a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
+<li> 17:05 www.google.com</li>
+<li> 17:02 docs.google.com</li>
+<li class='same'> 16:59 docs.google.com</li>
+<li class='same'> 16:58 docs.google.com</li>
+<li class='same'> 16:56 docs.google.com</li>
+<li class='same'> 16:53 docs.google.com</li>
+<li class='same'> 16:52 docs.google.com</li>
+<li> 16:52 photos.com</li>
+<li> 16:52 www.google.com</li>
+<li> 16:51 www.pinterest.com</li>
+<li> 16:51 www.google.com</li>
+<li> 16:51 docs.google.com</li>
+<li> 16:51 www.google.com</li>
+<li> 16:51 www.shutterstock.com</li>
+<li class='same'> 16:50 www.shutterstock.com</li>
+<li> 16:49 docs.google.com</li>
+<li> 16:49 www.shutterstock.com</li>
+<li> 16:49 www.google.com</li>
+<li class='same'> 16:48 www.google.com</li>
+<li class='same'> 16:47 www.google.com</li>
+<li> 16:46 docs.google.com</li>
+<li> 16:45 www.linkedin.com</li>
+<li> 16:44 outlook.office.com</li>
+<li> 16:44 outlook.office365.com</li>
+<li> 16:44 bsky.app</li>
+<li> 16:43 docs.google.com</li>
+<li class='same'> 16:42 docs.google.com</li>
+<li class='same'> 16:40 docs.google.com</li>
+<li> 16:39 www.instagram.com</li>
+<li> 16:39 www.google.com</li>
+<li> 16:38 bsky.app</li>
 <li> 16:38 docs.google.com</li>
 <li> 16:37 www.facebook.com</li>
 <li class='same'> 16:36 www.facebook.com</li>
@@ -404,7 +466,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 23:23 tvtropes.org</li>
+<ul><li> 23:24 tvtropes.org</li>
+<li class='same'> 23:23 tvtropes.org</li>
 <li class='same'> 23:22 tvtropes.org</li>
 <li class='same'> 23:11 tvtropes.org</li>
 <li class='same'> 23:00 tvtropes.org</li>
@@ -19420,6 +19483,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:25 claude.ai</li>
+<li> 07:23 <a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
 </ul>
 
 <H3>Wednesday, 26/06/24</H3>
@@ -22819,7 +22883,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:54 www.evri.com</li>
+<ul><li> 07:58 <a href="https://www.youtube.com/account">(114) YouTube</a></li>
+<li> 07:58 <a href="https://www.youtube.com/signin_prompt?next=https%3A%2F%2Fwww.youtube.com%2F"></a></li>
+<li> 07:54 www.evri.com</li>
 <li class='same'> 07:50 www.evri.com</li>
 <li class='same'> 07:49 www.evri.com</li>
 <li class='same'> 07:48 www.evri.com</li>
@@ -24344,7 +24410,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 14:43 accounts.google.com</li>
+<ul><li> 15:47 <a href="https://www.youtube.com/account">(114) YouTube</a></li>
+<li> 15:47 <a href="https://www.youtube.com/signin_prompt?next=https%3A%2F%2Fwww.youtube.com%2F"></a></li>
+</ul>
+
+<br>
+
+<ul><li> 14:43 accounts.google.com</li>
 <li class='same'> 14:25 accounts.google.com</li>
 <li> 14:17 github.com</li>
 </ul>
@@ -26680,6 +26752,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:27 andsoshethinks.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 05:53 <a href="https://www.youtube.com/account">(114) YouTube</a></li>
+<li> 05:53 <a href="https://www.youtube.com/signin_prompt?next=https%3A%2F%2Fwww.youtube.com%2F"></a></li>
 </ul>
 
 <H3>Tuesday, 13/06/23</H3>
