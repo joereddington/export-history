@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1919)</li>
+<ol><li>www.google.com (1920)</li>
 <li>outlook.office365.com (1029)</li>
-<li>bsky.app (932)</li>
-<li>mail.google.com (898)</li>
+<li>bsky.app (934)</li>
+<li>mail.google.com (899)</li>
 <li>outlook.office.com (805)</li>
-<li>docs.google.com (716)</li>
+<li>docs.google.com (718)</li>
 <li>www.facebook.com (548)</li>
 <li>rhul-my.sharepoint.com (294)</li>
 <li>chatgpt.com (271)</li>
-<li>www.amazon.co.uk (266)</li>
-<li>www.reddit.com (265)</li>
+<li>www.reddit.com (268)</li>
+<li>www.amazon.co.uk (267)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
 <li>calendar.google.com (236)</li>
 <li>www.linkedin.com (231)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (138)</li>
 <li>www.coursera.org (127)</li>
 <li>ev.turnitinuk.com (125)</li>
-<li>drive.google.com (110)</li>
+<li>drive.google.com (111)</li>
 <li>qbo.intuit.com (110)</li>
 <li>www.theguardian.com (93)</li>
 <li>tvtropes.org (91)</li>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:38 www.overdrive.com</li>
+<ul><li> 20:37 www.amazon.co.uk</li>
+<li> 20:37 www.overdrive.com</li>
+<li> 20:36 bsky.app</li>
+<li> 20:32 www.overdrive.com</li>
+<li> 20:32 auth.overdrive.com</li>
+<li> 20:31 docs.google.com</li>
+<li> 20:30 drive.google.com</li>
+<li> 20:29 auth.overdrive.com</li>
+<li> 20:29 libbyapp.com</li>
+<li> 20:28 www.overdrive.com</li>
+<li> 20:28 auth.overdrive.com</li>
+<li> 20:27 www.overdrive.com</li>
+<li> 20:27 auth.overdrive.com</li>
+<li class='same'> 20:26 auth.overdrive.com</li>
+<li> 20:24 tedbrakob.medium.com</li>
+<li> 20:21 www.reddit.com</li>
+<li> 20:21 www.google.com</li>
+<li> 20:19 www.overdrive.com</li>
+<li> 20:17 web.whatsapp.com</li>
+<li> 20:16 www.overdrive.com</li>
+<li> 20:12 imgur.com</li>
+<li> 20:12 www.overdrive.com</li>
+<li class='same'> 20:11 www.overdrive.com</li>
+<li> 20:11 mail.google.com</li>
+<li> 20:11 gmail.com</li>
+<li> 20:10 www.overdrive.com</li>
+<li> 20:10 www.kobo.com</li>
+<li class='same'> 20:09 www.kobo.com</li>
+<li> 20:08 www.reddit.com</li>
+<li> 20:08 www.kobo.com</li>
+<li> 20:06 authorize.kobo.com</li>
+<li> 20:06 www.kobo.com</li>
+<li> 20:06 www.reddit.com</li>
+<li> 20:06 www.overdrive.com</li>
+<li class='same'> 20:05 www.overdrive.com</li>
+<li> 20:05 docs.google.com</li>
+<li> 20:04 bsky.app</li>
+<li> 19:45 cardiffuk.overdrive.com</li>
+<li class='same'> 19:44 cardiffuk.overdrive.com</li>
+<li class='same'> 19:42 cardiffuk.overdrive.com</li>
+<li class='same'> 19:41 cardiffuk.overdrive.com</li>
+<li class='same'> 19:39 cardiffuk.overdrive.com</li>
+<li class='same'> 19:38 cardiffuk.overdrive.com</li>
+<li> 19:38 www.overdrive.com</li>
 <li class='same'> 19:23 www.overdrive.com</li>
 <li class='same'> 19:22 www.overdrive.com</li>
 <li> 19:21 help.kobo.com</li>
@@ -17422,6 +17465,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 23:41 libbyapp.com</li>
+<li class='same'> 23:37 libbyapp.com</li>
 </ul>
 
 <H3>Friday, 13/09/24</H3>
