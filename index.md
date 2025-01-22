@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1914)</li>
+<ol><li>www.google.com (1919)</li>
 <li>outlook.office365.com (1029)</li>
 <li>bsky.app (932)</li>
 <li>mail.google.com (898)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (294)</li>
 <li>chatgpt.com (271)</li>
 <li>www.amazon.co.uk (266)</li>
-<li>www.reddit.com (264)</li>
+<li>www.reddit.com (265)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
 <li>calendar.google.com (236)</li>
 <li>www.linkedin.com (231)</li>
@@ -91,8 +91,8 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (110)</li>
 <li>qbo.intuit.com (110)</li>
 <li>www.theguardian.com (93)</li>
+<li>tvtropes.org (91)</li>
 <li>discord.com (89)</li>
-<li>tvtropes.org (88)</li>
 <li>www.tesco.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:36 bsky.app</li>
+<ul><li> 19:38 www.overdrive.com</li>
+<li class='same'> 19:23 www.overdrive.com</li>
+<li class='same'> 19:22 www.overdrive.com</li>
+<li> 19:21 help.kobo.com</li>
+<li> 19:20 www.reddit.com</li>
+<li> 19:20 www.google.com</li>
+<li> 19:08 tvtropes.org</li>
+<li class='same'> 19:04 tvtropes.org</li>
+<li class='same'> 19:03 tvtropes.org</li>
+<li> 19:03 www.google.com</li>
+<li> 18:50 help.kobo.com</li>
+<li> 18:50 help.overdrive.com</li>
+<li> 18:49 www.google.com</li>
+<li class='same'> 18:47 www.google.com</li>
+<li> 18:47 help.libbyapp.com</li>
+<li> 18:47 www.overdrive.com</li>
+<li> 18:39 help.libbyapp.com</li>
+<li> 18:39 www.google.com</li>
+<li> 18:37 web.whatsapp.com</li>
+<li> 18:36 bsky.app</li>
 <li> 18:36 track.dhlparcel.co.uk</li>
 <li> 18:35 www.amazon.co.uk</li>
 <li> 18:35 mail.google.com</li>
