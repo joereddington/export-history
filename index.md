@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (632)</li>
 <li>www.facebook.com (545)</li>
 <li>rhul-my.sharepoint.com (294)</li>
-<li>chatgpt.com (268)</li>
+<li>chatgpt.com (270)</li>
 <li>www.amazon.co.uk (265)</li>
 <li>www.reddit.com (260)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:56 0.0.0.0:8000</li>
+<ul><li> 12:14 0.0.0.0:8000</li>
+<li> 12:12 chatgpt.com</li>
+<li class='same'> 12:01 chatgpt.com</li>
+<li> 12:01 chat.openai.com</li>
+<li> 11:56 0.0.0.0:8000</li>
 <li> 11:55 www.linuxuntu.com</li>
 <li> 11:55 www.google.com</li>
 <li> 11:55 lynx.invisible-island.net</li>
