@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (1850)</li>
 <li>outlook.office365.com (1024)</li>
-<li>bsky.app (883)</li>
-<li>mail.google.com (874)</li>
+<li>bsky.app (885)</li>
+<li>mail.google.com (875)</li>
 <li>outlook.office.com (784)</li>
-<li>docs.google.com (622)</li>
+<li>docs.google.com (623)</li>
 <li>www.facebook.com (539)</li>
 <li>rhul-my.sharepoint.com (294)</li>
 <li>chatgpt.com (266)</li>
@@ -94,8 +94,8 @@ With number of accesses/minutes in parentheses
 <li>discord.com (89)</li>
 <li>www.tesco.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
+<li>tvtropes.org (84)</li>
 <li>rhul.sharepoint.com (83)</li>
-<li>tvtropes.org (81)</li>
 <li>www.instagram.com (73)</li>
 <li>whitewaterwriters.com (73)</li>
 
@@ -104,11 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 22/01/25</H3>
+
+<br>
+
+<ul><li> 07:09 bsky.app</li>
+<li> 07:08 docs.google.com</li>
+<li> 07:08 bsky.app</li>
+<li> 07:08 mail.google.com</li>
+</ul>
+
 <H3>Tuesday, 21/01/25</H3>
 
 <br>
 
-<ul><li> 23:00 tvtropes.org</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 23:23 tvtropes.org</li>
+<li class='same'> 23:22 tvtropes.org</li>
+<li class='same'> 23:11 tvtropes.org</li>
+<li class='same'> 23:00 tvtropes.org</li>
 <li class='same'> 22:59 tvtropes.org</li>
 <li class='same'> 22:57 tvtropes.org</li>
 <li class='same'> 22:56 tvtropes.org</li>
