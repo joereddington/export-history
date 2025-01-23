@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (937)</li>
 <li>mail.google.com (899)</li>
 <li>outlook.office.com (805)</li>
-<li>docs.google.com (733)</li>
+<li>docs.google.com (735)</li>
 <li>www.facebook.com (556)</li>
 <li>rhul-my.sharepoint.com (294)</li>
 <li>chatgpt.com (272)</li>
@@ -104,7 +104,23 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 23/01/25</H3>
+
+<br>
+
+<ul><li> 08:58 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:27 docs.google.com</li>
+</ul>
+
 <H3>Wednesday, 22/01/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
