@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1948)</li>
+<ol><li>www.google.com (1952)</li>
 <li>outlook.office365.com (1034)</li>
-<li>bsky.app (966)</li>
+<li>bsky.app (970)</li>
 <li>mail.google.com (900)</li>
-<li>outlook.office.com (851)</li>
-<li>docs.google.com (776)</li>
-<li>www.facebook.com (559)</li>
+<li>outlook.office.com (852)</li>
+<li>docs.google.com (777)</li>
+<li>www.facebook.com (560)</li>
 <li>rhul-my.sharepoint.com (296)</li>
-<li>www.reddit.com (278)</li>
+<li>www.reddit.com (280)</li>
 <li>chatgpt.com (274)</li>
-<li>www.amazon.co.uk (269)</li>
+<li>www.amazon.co.uk (271)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
+<li>www.linkedin.com (239)</li>
 <li>calendar.google.com (238)</li>
-<li>www.linkedin.com (238)</li>
 <li>login.microsoftonline.com (230)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:06 www.reddit.com</li>
+<ul><li> 21:01 bsky.app</li>
+<li> 21:01 www.facebook.com</li>
+<li> 21:00 <a href="https://en.wikipedia.org/wiki/Becky_Chambers">Becky Chambers - Wikipedia</a></li>
+<li> 21:00 www.google.com</li>
+<li> 21:00 www.amazon.co.uk</li>
+<li> 20:59 docs.google.com</li>
+<li> 20:59 www.amazon.co.uk</li>
+<li> 20:59 www.google.com</li>
+<li> 20:59 bsky.app</li>
+<li> 20:47 www.reddit.com</li>
+<li> 20:44 www.google.com</li>
+<li> 20:43 www.reddit.com</li>
+<li> 20:34 www.herts.ac.uk</li>
+<li> 20:34 www.google.com</li>
+<li> 20:33 outlook.office.com</li>
+<li> 20:32 <a href="https://joereddington.com/smashup/"></a></li>
+<li> 20:32 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 19:40 www.linkedin.com</li>
+<li> 19:40 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 19:06 web.whatsapp.com</li>
+<li> 19:06 www.reddit.com</li>
 <li class='same'> 19:04 www.reddit.com</li>
 <li class='same'> 19:03 www.reddit.com</li>
 <li> 19:03 bsky.app</li>
