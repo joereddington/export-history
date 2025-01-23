@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1939)</li>
+<ol><li>www.google.com (1948)</li>
 <li>outlook.office365.com (1034)</li>
-<li>bsky.app (956)</li>
+<li>bsky.app (966)</li>
 <li>mail.google.com (900)</li>
-<li>outlook.office.com (847)</li>
-<li>docs.google.com (774)</li>
+<li>outlook.office.com (851)</li>
+<li>docs.google.com (776)</li>
 <li>www.facebook.com (559)</li>
 <li>rhul-my.sharepoint.com (296)</li>
-<li>www.reddit.com (275)</li>
+<li>www.reddit.com (278)</li>
 <li>chatgpt.com (274)</li>
 <li>www.amazon.co.uk (269)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (238)</li>
-<li>www.linkedin.com (235)</li>
+<li>www.linkedin.com (238)</li>
 <li>login.microsoftonline.com (230)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (93)</li>
 <li>discord.com (91)</li>
 <li>tvtropes.org (91)</li>
-<li>www.tesco.com (87)</li>
+<li>www.tesco.com (88)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
 <li>www.instagram.com (74)</li>
@@ -108,7 +108,52 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:56 www.coursera.org</li>
+<ul><li> 19:06 www.reddit.com</li>
+<li class='same'> 19:04 www.reddit.com</li>
+<li class='same'> 19:03 www.reddit.com</li>
+<li> 19:03 bsky.app</li>
+<li class='same'> 19:02 bsky.app</li>
+<li> 19:01 chocolatecoveredkatie.com</li>
+<li> 19:01 www.google.com</li>
+<li> 19:01 www.linkedin.com</li>
+<li> 19:00 docs.google.com</li>
+<li> 18:59 www.healthline.com</li>
+<li> 18:59 www.google.com</li>
+<li> 18:58 www.tesco.com</li>
+<li> 18:57 docs.google.com</li>
+<li> 18:52 outlook.office.com</li>
+<li> 18:51 www.linkedin.com</li>
+<li class='same'> 18:50 www.linkedin.com</li>
+<li> 18:50 bsky.app</li>
+<li> 18:49 fosters-solicitors.co.uk</li>
+<li> 18:49 www.google.com</li>
+<li> 18:48 bsky.app</li>
+<li> 18:46 www.istockphoto.com</li>
+<li> 18:46 bsky.app</li>
+<li> 18:46 www.google.com</li>
+<li class='same'> 18:44 www.google.com</li>
+<li class='same'> 18:43 www.google.com</li>
+<li> 18:43 sites.google.com</li>
+<li> 18:43 www.google.com</li>
+<li> 18:42 www.forbes.com</li>
+<li> 18:42 bsky.app</li>
+<li> 18:41 www.timeshighereducation.com</li>
+<li> 18:40 bsky.app</li>
+<li> 18:40 <a href="https://en.wikipedia.org/wiki/Newcastle_University">Newcastle University - Wikipedia</a></li>
+<li> 18:39 www.google.com</li>
+<li> 18:39 <a href="https://en.wikipedia.org/wiki/List_of_universities_in_the_United_Kingdom_by_enrolment">List of universities in the United Kingdom by enrolment - Wikipedia</a></li>
+<li> 18:39 www.google.com</li>
+<li> 18:38 bsky.app</li>
+<li> 18:37 outlook.office.com</li>
+<li class='same'> 18:36 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:11 bsky.app</li>
+<li> 16:11 outlook.office.com</li>
+<li> 16:08 bsky.app</li>
+<li> 15:56 www.coursera.org</li>
 <li> 15:56 outlook.office.com</li>
 <li> 15:55 www.coursera.org</li>
 <li class='same'> 15:54 www.coursera.org</li>
