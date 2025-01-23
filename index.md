@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1932)</li>
-<li>outlook.office365.com (1031)</li>
-<li>bsky.app (943)</li>
+<ol><li>www.google.com (1935)</li>
+<li>outlook.office365.com (1032)</li>
+<li>bsky.app (945)</li>
 <li>mail.google.com (900)</li>
-<li>outlook.office.com (814)</li>
+<li>outlook.office.com (822)</li>
 <li>docs.google.com (768)</li>
-<li>www.facebook.com (556)</li>
+<li>www.facebook.com (557)</li>
 <li>rhul-my.sharepoint.com (294)</li>
+<li>www.reddit.com (274)</li>
 <li>chatgpt.com (274)</li>
-<li>www.reddit.com (273)</li>
 <li>www.amazon.co.uk (269)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
 <li>calendar.google.com (237)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:51 safeguardingdigital.co.uk</li>
+<ul><li> 12:52 www.bigmarker.com</li>
+<li> 12:51 outlook.office.com</li>
+<li> 12:51 www.bigmarker.com</li>
+<li> 12:51 outlook.office.com</li>
+<li> 12:50 www.bigmarker.com</li>
+<li> 12:50 outlook.office.com</li>
+<li class='same'> 12:49 outlook.office.com</li>
+<li class='same'> 12:48 outlook.office.com</li>
+<li> 12:48 outlook.office365.com</li>
+<li> 12:48 outlook.office.com</li>
+<li> 12:48 www.reddit.com</li>
+<li> 12:47 www.google.com</li>
+<li> 12:47 www.ebay.co.uk</li>
+<li> 12:47 www.google.com</li>
+<li class='same'> 12:46 www.google.com</li>
+<li> 12:46 www.facebook.com</li>
+<li> 12:45 bsky.app</li>
+<li> 12:45 teams.microsoft.com</li>
+<li> 12:45 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:59 outlook.office.com</li>
+<li> 11:59 bsky.app</li>
+<li> 11:51 safeguardingdigital.co.uk</li>
 <li> 11:51 www.bigmarker.com</li>
 <li> 11:50 outlook.office.com</li>
 <li> 11:46 www.lexology.com</li>
