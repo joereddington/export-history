@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1935)</li>
-<li>outlook.office365.com (1032)</li>
-<li>bsky.app (945)</li>
+<ol><li>www.google.com (1936)</li>
+<li>outlook.office365.com (1033)</li>
+<li>bsky.app (948)</li>
 <li>mail.google.com (900)</li>
-<li>outlook.office.com (822)</li>
+<li>outlook.office.com (830)</li>
 <li>docs.google.com (768)</li>
 <li>www.facebook.com (557)</li>
-<li>rhul-my.sharepoint.com (294)</li>
+<li>rhul-my.sharepoint.com (295)</li>
 <li>www.reddit.com (274)</li>
 <li>chatgpt.com (274)</li>
 <li>www.amazon.co.uk (269)</li>
-<li>moodle.royalholloway.ac.uk (259)</li>
-<li>calendar.google.com (237)</li>
-<li>www.linkedin.com (232)</li>
-<li>login.microsoftonline.com (229)</li>
+<li>moodle.royalholloway.ac.uk (261)</li>
+<li>calendar.google.com (238)</li>
+<li>www.linkedin.com (233)</li>
+<li>login.microsoftonline.com (230)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
-<li>www.coursera.org (127)</li>
+<li>www.coursera.org (128)</li>
 <li>ev.turnitinuk.com (125)</li>
 <li>drive.google.com (112)</li>
 <li>qbo.intuit.com (110)</li>
 <li>www.theguardian.com (93)</li>
+<li>discord.com (91)</li>
 <li>tvtropes.org (91)</li>
-<li>discord.com (89)</li>
 <li>www.tesco.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:52 www.bigmarker.com</li>
+<ul><li> 13:55 www.google.com</li>
+<li> 13:53 bsky.app</li>
+<li> 13:52 outlook.office.com</li>
+<li class='same'> 13:49 outlook.office.com</li>
+<li> 13:48 www.coursera.org</li>
+<li> 13:47 outlook.office.com</li>
+<li> 13:47 web.whatsapp.com</li>
+<li> 13:41 moodle.royalholloway.ac.uk</li>
+<li> 13:41 login.microsoftonline.com</li>
+<li> 13:41 moodle.royalholloway.ac.uk</li>
+<li> 13:41 rhul-my.sharepoint.com</li>
+<li> 13:40 outlook.office.com</li>
+<li> 13:36 calendar.google.com</li>
+<li> 13:35 web.whatsapp.com</li>
+<li> 13:34 outlook.office.com</li>
+<li> 13:34 www.linkedin.com</li>
+<li> 13:28 bsky.app</li>
+<li class='same'> 13:26 bsky.app</li>
+<li> 13:25 outlook.office.com</li>
+<li class='same'> 13:24 outlook.office.com</li>
+<li> 13:24 outlook.office365.com</li>
+<li> 13:23 discord.com</li>
+<li class='same'> 13:22 discord.com</li>
+<li> 13:20 www.bigmarker.com</li>
+<li> 13:15 outlook.office.com</li>
+<li> 12:52 www.bigmarker.com</li>
 <li> 12:51 outlook.office.com</li>
 <li> 12:51 www.bigmarker.com</li>
 <li> 12:51 outlook.office.com</li>
