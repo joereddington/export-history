@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (1936)</li>
-<li>outlook.office365.com (1033)</li>
-<li>bsky.app (948)</li>
+<li>outlook.office365.com (1034)</li>
+<li>bsky.app (950)</li>
 <li>mail.google.com (900)</li>
-<li>outlook.office.com (830)</li>
-<li>docs.google.com (768)</li>
-<li>www.facebook.com (557)</li>
+<li>outlook.office.com (834)</li>
+<li>docs.google.com (770)</li>
+<li>www.facebook.com (559)</li>
 <li>rhul-my.sharepoint.com (295)</li>
 <li>www.reddit.com (274)</li>
 <li>chatgpt.com (274)</li>
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 23/01/25</H3>
+
+<br>
+
+<ul><li> 15:01 onlineplea.cjscp.org.uk</li>
+<li class='same'> 15:00 onlineplea.cjscp.org.uk</li>
+<li> 14:59 rhul.hosted.panopto.com</li>
+<li class='same'> 14:58 rhul.hosted.panopto.com</li>
+<li> 14:58 outlook.office.com</li>
+<li> 14:58 bsky.app</li>
+<li> 14:58 www.facebook.com</li>
+<li class='same'> 14:51 www.facebook.com</li>
+<li> 14:51 outlook.office.com</li>
+<li> 14:51 outlook.office365.com</li>
+<li> 14:51 outlook.office.com</li>
+<li> 14:50 docs.google.com</li>
+<li class='same'> 14:48 docs.google.com</li>
+<li> 14:48 outlook.office.com</li>
+<li> 14:48 www.bigmarker.com</li>
+<li> 14:48 bsky.app</li>
+<li> 14:46 www.bigmarker.com</li>
+<li class='same'> 14:43 www.bigmarker.com</li>
+<li class='same'> 14:41 www.bigmarker.com</li>
+</ul>
 
 <br>
 
