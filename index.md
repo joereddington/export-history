@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1930)</li>
-<li>outlook.office365.com (1030)</li>
-<li>bsky.app (938)</li>
-<li>mail.google.com (899)</li>
-<li>outlook.office.com (810)</li>
-<li>docs.google.com (758)</li>
+<ol><li>www.google.com (1932)</li>
+<li>outlook.office365.com (1031)</li>
+<li>bsky.app (943)</li>
+<li>mail.google.com (900)</li>
+<li>outlook.office.com (814)</li>
+<li>docs.google.com (768)</li>
 <li>www.facebook.com (556)</li>
 <li>rhul-my.sharepoint.com (294)</li>
-<li>chatgpt.com (272)</li>
-<li>www.reddit.com (271)</li>
+<li>chatgpt.com (274)</li>
+<li>www.reddit.com (273)</li>
 <li>www.amazon.co.uk (269)</li>
 <li>moodle.royalholloway.ac.uk (259)</li>
 <li>calendar.google.com (237)</li>
-<li>www.linkedin.com (231)</li>
+<li>www.linkedin.com (232)</li>
 <li>login.microsoftonline.com (229)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:07 docs.google.com</li>
+<ul><li> 11:51 safeguardingdigital.co.uk</li>
+<li> 11:51 www.bigmarker.com</li>
+<li> 11:50 outlook.office.com</li>
+<li> 11:46 www.lexology.com</li>
+<li> 11:46 bsky.app</li>
+<li> 11:44 www.insideprivacy.com</li>
+<li> 11:44 www.gov.uk</li>
+<li class='same'> 11:43 www.gov.uk</li>
+<li class='same'> 11:42 www.gov.uk</li>
+<li> 11:42 www.google.com</li>
+<li> 11:40 www.meadopenfarm.co.uk</li>
+<li class='same'> 11:38 www.meadopenfarm.co.uk</li>
+<li> 11:38 web.whatsapp.com</li>
+<li> 11:35 rusi.org</li>
+<li> 11:35 www.google.com</li>
+<li> 11:35 bsky.app</li>
+<li class='same'> 11:34 bsky.app</li>
+<li> 11:34 www.reddit.com</li>
+<li class='same'> 11:33 www.reddit.com</li>
+<li> 11:33 www.linkedin.com</li>
+<li> 11:32 mail.google.com</li>
+<li> 11:32 gmail.com</li>
+<li> 11:30 bsky.app</li>
+<li> 11:30 outlook.office.com</li>
+<li> 11:27 docs.google.com</li>
+<li class='same'> 11:26 docs.google.com</li>
+<li class='same'> 11:25 docs.google.com</li>
+<li class='same'> 11:24 docs.google.com</li>
+<li class='same'> 11:23 docs.google.com</li>
+<li> 11:23 chatgpt.com</li>
+<li class='same'> 11:22 chatgpt.com</li>
+<li> 11:22 chat.openai.com</li>
+<li> 11:22 docs.google.com</li>
+<li> 11:22 www.biography.com</li>
+<li> 11:20 outlook.office.com</li>
+<li> 11:20 outlook.office365.com</li>
+<li> 11:20 outlook.office.com</li>
+<li> 11:19 bsky.app</li>
+<li> 11:19 docs.google.com</li>
+<li> 11:14 web.whatsapp.com</li>
+<li> 11:11 docs.google.com</li>
+<li class='same'> 11:09 docs.google.com</li>
+<li class='same'> 11:08 docs.google.com</li>
+<li class='same'> 11:07 docs.google.com</li>
 <li class='same'> 11:06 docs.google.com</li>
 <li class='same'> 11:05 docs.google.com</li>
 <li class='same'> 11:04 docs.google.com</li>
