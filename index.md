@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1936)</li>
+<ol><li>www.google.com (1939)</li>
 <li>outlook.office365.com (1034)</li>
-<li>bsky.app (950)</li>
+<li>bsky.app (956)</li>
 <li>mail.google.com (900)</li>
-<li>outlook.office.com (834)</li>
-<li>docs.google.com (770)</li>
+<li>outlook.office.com (847)</li>
+<li>docs.google.com (774)</li>
 <li>www.facebook.com (559)</li>
-<li>rhul-my.sharepoint.com (295)</li>
-<li>www.reddit.com (274)</li>
+<li>rhul-my.sharepoint.com (296)</li>
+<li>www.reddit.com (275)</li>
 <li>chatgpt.com (274)</li>
 <li>www.amazon.co.uk (269)</li>
-<li>moodle.royalholloway.ac.uk (261)</li>
+<li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (238)</li>
-<li>www.linkedin.com (233)</li>
+<li>www.linkedin.com (235)</li>
 <li>login.microsoftonline.com (230)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
 <li>forms.office.com (138)</li>
-<li>www.coursera.org (128)</li>
-<li>ev.turnitinuk.com (125)</li>
-<li>drive.google.com (112)</li>
+<li>www.coursera.org (138)</li>
+<li>ev.turnitinuk.com (126)</li>
+<li>drive.google.com (113)</li>
 <li>qbo.intuit.com (110)</li>
 <li>www.theguardian.com (93)</li>
 <li>discord.com (91)</li>
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:01 onlineplea.cjscp.org.uk</li>
+<ul><li> 15:56 www.coursera.org</li>
+<li> 15:56 outlook.office.com</li>
+<li> 15:55 www.coursera.org</li>
+<li class='same'> 15:54 www.coursera.org</li>
+<li> 15:54 outlook.office.com</li>
+<li> 15:53 bsky.app</li>
+<li> 15:53 outlook.office.com</li>
+<li> 15:53 bsky.app</li>
+<li> 15:49 www.forbes.com</li>
+<li> 15:47 bsky.app</li>
+<li> 15:46 www.timeshighereducation.com</li>
+<li> 15:45 bsky.app</li>
+<li> 15:45 outlook.office.com</li>
+<li> 15:44 www.coursera.org</li>
+<li> 15:44 www.riskbasedsecurity.com</li>
+<li> 15:44 www.coursera.org</li>
+<li class='same'> 15:43 www.coursera.org</li>
+<li> 15:42 www.reddit.com</li>
+<li> 15:42 www.coursera.org</li>
+<li class='same'> 15:41 www.coursera.org</li>
+<li> 15:41 bsky.app</li>
+<li> 15:40 www.linkedin.com</li>
+<li class='same'> 15:39 www.linkedin.com</li>
+<li> 15:39 www.google.com</li>
+<li> 15:38 www.coursera.org</li>
+<li class='same'> 15:37 www.coursera.org</li>
+<li> 15:37 outlook.office.com</li>
+<li class='same'> 15:36 outlook.office.com</li>
+<li class='same'> 15:35 outlook.office.com</li>
+<li class='same'> 15:34 outlook.office.com</li>
+<li> 15:33 ev.turnitinuk.com</li>
+<li> 15:33 moodle.royalholloway.ac.uk</li>
+<li> 15:26 rhul-my.sharepoint.com</li>
+<li> 15:26 outlook.office.com</li>
+<li class='same'> 15:25 outlook.office.com</li>
+<li> 15:24 docs.google.com</li>
+<li class='same'> 15:23 docs.google.com</li>
+<li> 15:22 outlook.office.com</li>
+<li> 15:21 docs.google.com</li>
+<li class='same'> 15:19 docs.google.com</li>
+<li> 15:19 drive.google.com</li>
+<li> 15:18 outlook.office.com</li>
+<li class='same'> 15:17 outlook.office.com</li>
+<li> 15:13 www.google.com</li>
+<li> 15:13 login.cjscp.org.uk</li>
+<li> 15:13 www.google.com</li>
+<li> 15:09 bsky.app</li>
+<li> 15:01 onlineplea.cjscp.org.uk</li>
 <li class='same'> 15:00 onlineplea.cjscp.org.uk</li>
 <li> 14:59 rhul.hosted.panopto.com</li>
 <li class='same'> 14:58 rhul.hosted.panopto.com</li>
