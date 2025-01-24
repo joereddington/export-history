@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1985)</li>
+<ol><li>www.google.com (1991)</li>
 <li>outlook.office365.com (1044)</li>
-<li>bsky.app (1008)</li>
+<li>bsky.app (1011)</li>
 <li>mail.google.com (923)</li>
 <li>outlook.office.com (894)</li>
-<li>docs.google.com (792)</li>
+<li>docs.google.com (793)</li>
 <li>www.facebook.com (564)</li>
 <li>rhul-my.sharepoint.com (298)</li>
+<li>chatgpt.com (286)</li>
 <li>www.reddit.com (280)</li>
-<li>chatgpt.com (279)</li>
-<li>www.amazon.co.uk (271)</li>
+<li>www.amazon.co.uk (272)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (245)</li>
 <li>www.linkedin.com (245)</li>
 <li>login.microsoftonline.com (232)</li>
-<li>github.com (218)</li>
+<li>github.com (223)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (169)</li>
 <li>forms.office.com (138)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>www.tesco.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
+<li>chat.openai.com (75)</li>
 <li>www.instagram.com (74)</li>
-<li>fast.com (74)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,34 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 24/01/25</H3>
+
+<br>
+
+<ul><li> 21:05 bsky.app</li>
+<li> 21:05 www.google.com</li>
+<li> 21:05 www.amazon.co.uk</li>
+<li> 21:05 docs.google.com</li>
+<li> 20:56 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 20:56 <a href="https://stackoverflow.com/questions/990754/how-to-leave-exit-deactivate-a-python-virtualenv">How to leave/exit/deactivate a Python virtualenv - Stack Overflow</a></li>
+<li> 20:56 www.google.com</li>
+<li> 20:53 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 20:52 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 20:52 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 20:43 chatgpt.com</li>
+<li class='same'> 20:42 chatgpt.com</li>
+<li> 20:42 github.com</li>
+<li> 20:42 ww12.gitub.com</li>
+<li> 20:39 chatgpt.com</li>
+<li> 20:38 linuxize.com</li>
+<li> 20:38 www.google.com</li>
+<li> 20:35 chatgpt.com</li>
+<li class='same'> 20:34 chatgpt.com</li>
+<li> 20:32 bsky.app</li>
+<li> 20:32 chatgpt.com</li>
+<li> 20:32 bsky.app</li>
+<li> 20:32 chatgpt.com</li>
+<li> 20:32 chat.openai.com</li>
+</ul>
 
 <br>
 
@@ -379,6 +407,18 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:29 www.coursera.org</li>
 <li> 09:28 outlook.office.com</li>
 <li> 09:28 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:32 www.gov.scot</li>
+<li> 08:32 www.google.com</li>
+<li> 08:32 www.gov.uk</li>
+<li> 08:32 www.google.com</li>
+<li> 08:32 www.gov.uk</li>
+<li class='same'> 08:31 www.gov.uk</li>
+<li> 08:31 www.google.com</li>
+<li> 08:31 www.overdrive.com</li>
 </ul>
 
 <br>
@@ -20139,7 +20179,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:27 github.com</li>
+<ul><li> 10:41 github.com</li>
+<li class='same'> 10:27 github.com</li>
 <li> 10:26 drive.google.com</li>
 <li class='same'> 10:25 drive.google.com</li>
 <li> 10:11 docs.google.com</li>
@@ -21297,6 +21338,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:37 docs.google.com</li>
 <li> 09:37 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 08:02 github.com</li>
 </ul>
 
 <br>
@@ -24236,6 +24282,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:19 webtimetables.royalholloway.ac.uk</li>
 <li> 10:01 accounts.google.co.uk</li>
+<li> 09:55 github.com</li>
 </ul>
 
 <br>
@@ -24835,6 +24882,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:10 m.youtube.com</li>
 <li> 11:47 github.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:54 github.com</li>
 </ul>
 
 <H3>Tuesday, 05/12/23</H3>
