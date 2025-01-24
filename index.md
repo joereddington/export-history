@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1952)</li>
-<li>outlook.office365.com (1036)</li>
+<ol><li>www.google.com (1959)</li>
+<li>outlook.office365.com (1037)</li>
 <li>bsky.app (973)</li>
 <li>mail.google.com (900)</li>
-<li>outlook.office.com (854)</li>
+<li>outlook.office.com (859)</li>
 <li>docs.google.com (780)</li>
 <li>www.facebook.com (561)</li>
 <li>rhul-my.sharepoint.com (296)</li>
 <li>www.reddit.com (280)</li>
-<li>chatgpt.com (274)</li>
+<li>chatgpt.com (275)</li>
 <li>www.amazon.co.uk (271)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>www.linkedin.com (239)</li>
@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (230)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
+<li>www.coursera.org (158)</li>
 <li>forms.office.com (138)</li>
-<li>www.coursera.org (138)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>drive.google.com (113)</li>
 <li>qbo.intuit.com (110)</li>
@@ -105,6 +105,51 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 24/01/25</H3>
+
+<br>
+
+<ul><li> 10:05 www.coursera.org</li>
+<li class='same'> 10:04 www.coursera.org</li>
+<li> 10:04 www.zoom.us</li>
+<li class='same'> 10:03 www.zoom.us</li>
+<li> 10:01 www.coursera.org</li>
+<li class='same'> 10:00 www.coursera.org</li>
+<li class='same'> 09:59 www.coursera.org</li>
+<li class='same'> 09:58 www.coursera.org</li>
+<li class='same'> 09:57 www.coursera.org</li>
+<li class='same'> 09:55 www.coursera.org</li>
+<li> 09:55 outlook.office.com</li>
+<li class='same'> 09:54 outlook.office.com</li>
+<li> 09:54 www.zoom.us</li>
+<li> 09:51 www.coursera.org</li>
+<li class='same'> 09:50 www.coursera.org</li>
+<li class='same'> 09:49 www.coursera.org</li>
+<li> 09:47 www.google.com</li>
+<li> 09:46 outlook.office.com</li>
+<li> 09:46 www.zoom.us</li>
+<li class='same'> 09:45 www.zoom.us</li>
+<li> 09:45 www.zoom.com</li>
+<li> 09:45 www.google.com</li>
+<li> 09:45 outlook.office.com</li>
+<li> 09:45 www.coursera.org</li>
+<li> 09:45 marketplace.zoom.us</li>
+<li> 09:45 www.coursera.org</li>
+<li class='same'> 09:44 www.coursera.org</li>
+<li> 09:42 www.coursera.support</li>
+<li class='same'> 09:41 www.coursera.support</li>
+<li> 09:41 www.coursera.org</li>
+<li class='same'> 09:40 www.coursera.org</li>
+<li class='same'> 09:39 www.coursera.org</li>
+<li> 09:38 chatgpt.com</li>
+<li> 09:38 chat.openai.com</li>
+<li> 09:37 blog.coursera.org</li>
+<li> 09:36 www.coursera.org</li>
+<li> 09:35 www.google.com</li>
+<li> 09:30 www.coursera.org</li>
+<li class='same'> 09:29 www.coursera.org</li>
+<li> 09:28 outlook.office.com</li>
+<li> 09:28 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -17031,6 +17076,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:04 www.amazon.co.uk</li>
 <li> 06:04 kdpreports.amazon.com</li>
 <li> 06:04 kdp.amazon.com</li>
+<li> 06:03 www.zoom.com</li>
+<li> 06:03 www.google.com</li>
 <li> 05:57 rhul.hosted.panopto.com</li>
 <li class='same'> 05:56 rhul.hosted.panopto.com</li>
 <li> 05:55 accounts.google.com</li>
@@ -17366,6 +17413,8 @@ With number of accesses/minutes in parentheses
 <li> 16:55 discord.com</li>
 <li class='same'> 16:52 discord.com</li>
 <li class='same'> 16:50 discord.com</li>
+<li> 16:47 www.zoom.com</li>
+<li> 16:47 www.google.com</li>
 <li> 16:46 mail.google.com</li>
 <li> 16:45 online.unity.co.uk</li>
 <li class='same'> 16:44 online.unity.co.uk</li>
@@ -17553,6 +17602,7 @@ With number of accesses/minutes in parentheses
 <li> 07:26 outlook.office.com</li>
 <li> 07:17 whitewaterwriters.com</li>
 <li> 07:16 zoom.us</li>
+<li> 07:16 www.google.com</li>
 <li> 07:16 c14.qbo.intuit.com</li>
 <li> 07:13 calendar.google.com</li>
 <li> 07:12 www.giantitp.com</li>
@@ -18491,6 +18541,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:41 docs.google.com</li>
 <li class='same'> 14:38 docs.google.com</li>
 <li> 14:35 zoom.us</li>
+<li> 14:35 www.google.com</li>
 <li> 14:30 chatgpt.com</li>
 <li> 14:29 docs.google.com</li>
 </ul>
