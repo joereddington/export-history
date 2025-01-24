@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1966)</li>
-<li>outlook.office365.com (1037)</li>
-<li>bsky.app (973)</li>
+<ol><li>www.google.com (1968)</li>
+<li>outlook.office365.com (1038)</li>
+<li>bsky.app (981)</li>
 <li>mail.google.com (900)</li>
-<li>outlook.office.com (859)</li>
-<li>docs.google.com (787)</li>
+<li>outlook.office.com (865)</li>
+<li>docs.google.com (788)</li>
 <li>www.facebook.com (561)</li>
 <li>rhul-my.sharepoint.com (296)</li>
 <li>www.reddit.com (280)</li>
 <li>chatgpt.com (277)</li>
 <li>www.amazon.co.uk (271)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
-<li>www.linkedin.com (239)</li>
+<li>www.linkedin.com (241)</li>
 <li>calendar.google.com (238)</li>
-<li>login.microsoftonline.com (231)</li>
+<li>login.microsoftonline.com (232)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (158)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:32 <a href="https://en.wikipedia.org/wiki/Attack_tree">Attack tree - Wikipedia</a></li>
+<ul><li> 12:02 bsky.app</li>
+<li class='same'> 12:00 bsky.app</li>
+<li class='same'> 11:59 bsky.app</li>
+<li class='same'> 11:58 bsky.app</li>
+<li> 11:57 tommorris.org</li>
+<li> 11:54 bsky.app</li>
+<li> 11:53 outlook.office.com</li>
+<li class='same'> 11:43 outlook.office.com</li>
+<li> 11:38 www.linkedin.com</li>
+<li class='same'> 11:37 www.linkedin.com</li>
+<li> 11:36 outlook.office.com</li>
+<li> 11:28 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li> 11:28 login.openathens.net</li>
+<li> 11:28 login.microsoftonline.com</li>
+<li> 11:28 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 11:27 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 11:26 librarysearch.royalholloway.ac.uk</li>
+<li> 11:26 docs.google.com</li>
+<li> 11:26 librarysearch.royalholloway.ac.uk</li>
+<li> 11:26 www.google.com</li>
+<li> 11:02 outlook.office.com</li>
+<li class='same'> 11:01 outlook.office.com</li>
+<li> 11:01 outlook.office365.com</li>
+<li> 11:01 outlook.office.com</li>
+<li> 11:00 web.whatsapp.com</li>
+<li> 10:32 <a href="https://en.wikipedia.org/wiki/Attack_tree">Attack tree - Wikipedia</a></li>
 <li> 10:32 www.google.com</li>
 <li> 10:31 chatgpt.com</li>
 <li> 10:31 chat.openai.com</li>
@@ -8385,6 +8410,7 @@ With number of accesses/minutes in parentheses
 <li> 21:55 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 21:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 21:55 feedly.com</li>
+<li> 21:52 bsky.app</li>
 <li> 21:49 open.spotify.com</li>
 <li> 21:49 accounts.spotify.com</li>
 <li> 21:49 open.spotify.com</li>
@@ -8922,7 +8948,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:57 bsky.app</li>
 <li> 15:56 outlook.office365.com</li>
-<li> 15:54 bsky.app</li>
+<li> 15:55 bsky.app</li>
+<li class='same'> 15:54 bsky.app</li>
 <li> 15:54 <a href="https://www.bbc.co.uk/news/articles/c0rngrjejy7o">Histon-based Internet Watch Foundation identifies 564,000 victims - BBC News</a></li>
 <li> 15:53 www.bbc.com</li>
 <li> 15:53 outlook.office365.com</li>
@@ -11046,6 +11073,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:35 bsky.app</li>
+<li class='same'> 11:34 bsky.app</li>
 <li class='same'> 11:33 bsky.app</li>
 <li class='same'> 11:32 bsky.app</li>
 <li> 11:27 mail.google.com</li>
@@ -17126,6 +17154,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:19 librarysearch.royalholloway.ac.uk</li>
+<li> 21:19 www.google.com</li>
 <li> 21:12 calendar.google.com</li>
 <li> 21:10 <a href="https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel">Nebula Award for Best Novel - Wikipedia</a></li>
 </ul>
