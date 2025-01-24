@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1983)</li>
-<li>outlook.office365.com (1040)</li>
-<li>bsky.app (1006)</li>
+<ol><li>www.google.com (1985)</li>
+<li>outlook.office365.com (1044)</li>
+<li>bsky.app (1008)</li>
 <li>mail.google.com (923)</li>
-<li>outlook.office.com (888)</li>
+<li>outlook.office.com (894)</li>
 <li>docs.google.com (792)</li>
 <li>www.facebook.com (564)</li>
-<li>rhul-my.sharepoint.com (296)</li>
+<li>rhul-my.sharepoint.com (298)</li>
 <li>www.reddit.com (280)</li>
 <li>chatgpt.com (279)</li>
 <li>www.amazon.co.uk (271)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (245)</li>
-<li>www.linkedin.com (244)</li>
+<li>www.linkedin.com (245)</li>
 <li>login.microsoftonline.com (232)</li>
-<li>github.com (209)</li>
+<li>github.com (218)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (169)</li>
 <li>forms.office.com (138)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:03 bsky.app</li>
+<ul><li> 17:22 www.google.com</li>
+<li> 17:21 learn.microsoft.com</li>
+<li> 17:21 www.google.com</li>
+<li> 17:20 bsky.app</li>
+<li> 17:19 outlook.office365.com</li>
+<li> 17:19 outlook.office.com</li>
+<li> 17:17 web.whatsapp.com</li>
+<li> 17:16 outlook.office365.com</li>
+<li> 17:16 outlook.office.com</li>
+<li> 17:14 github.com</li>
+<li> 17:13 outlook.office.com</li>
+<li> 17:13 rhul-my.sharepoint.com</li>
+<li class='same'> 17:12 rhul-my.sharepoint.com</li>
+<li> 17:12 outlook.office365.com</li>
+<li> 17:12 outlook.office.com</li>
+<li class='same'> 17:11 outlook.office.com</li>
+<li> 17:11 outlook.office365.com</li>
+<li> 17:11 outlook.office.com</li>
+<li> 17:07 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:06 bsky.app</li>
+<li> 17:05 www.linkedin.com</li>
+<li> 17:03 bsky.app</li>
 <li> 17:02 www.linkedin.com</li>
 <li> 17:01 bsky.app</li>
 <li> 17:00 outlook.office.com</li>
@@ -20386,7 +20407,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:24 whitewaterwriters.com</li>
 <li> 09:56 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li class='same'> 09:42 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
-<li> 09:35 github.com</li>
+<li> 09:36 github.com</li>
+<li class='same'> 09:35 github.com</li>
 </ul>
 
 <br>
@@ -23919,6 +23941,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 21:56 www.explainxkcd.com</li>
 </ul>
 
+<br>
+
+<ul><li> 14:25 github.com</li>
+</ul>
+
 <H3>Thursday, 25/01/24</H3>
 
 <br>
@@ -25327,6 +25354,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 18:33 discord.com</li>
 </ul>
 
+<br>
+
+<ul><li> 09:57 github.com</li>
+</ul>
+
 <H3>Wednesday, 08/11/23</H3>
 
 <br>
@@ -25335,7 +25367,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 13:35 discord.com</li>
+<ul><li> 13:35 discord.com</li>
 </ul>
 
 <H3>Tuesday, 07/11/23</H3>
@@ -26852,6 +26884,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 08:00 github.com</li>
+</ul>
+
+<br>
+
 <ul><li> 06:57 www.google.com</li>
 </ul>
 
@@ -27587,6 +27624,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:48 ubuntu.com</li>
 </ul>
 
+<H3>Wednesday, 07/06/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 07:04 github.com</li>
+</ul>
+
 <H3>Tuesday, 06/06/23</H3>
 
 <br>
@@ -27664,6 +27712,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:08 www.wikipedia.org</li>
 </ul>
 
+<H3>Wednesday, 31/05/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 12:43 github.com</li>
+</ul>
+
 <H3>Tuesday, 30/05/23</H3>
 
 <br>
@@ -27672,7 +27731,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:07 github.com</li>
+<ul><li class='same'> 07:07 github.com</li>
 </ul>
 
 <br>
@@ -28891,6 +28950,16 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:29 www.doxdirect.com</li>
 <li class='same'> 14:27 www.doxdirect.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:38 github.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:08 github.com</li>
 </ul>
 
 <H3>Tuesday, 08/11/22</H3>
