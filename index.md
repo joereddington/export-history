@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (1952)</li>
-<li>outlook.office365.com (1034)</li>
-<li>bsky.app (970)</li>
+<li>outlook.office365.com (1036)</li>
+<li>bsky.app (973)</li>
 <li>mail.google.com (900)</li>
-<li>outlook.office.com (852)</li>
-<li>docs.google.com (777)</li>
-<li>www.facebook.com (560)</li>
+<li>outlook.office.com (854)</li>
+<li>docs.google.com (780)</li>
+<li>www.facebook.com (561)</li>
 <li>rhul-my.sharepoint.com (296)</li>
 <li>www.reddit.com (280)</li>
 <li>chatgpt.com (274)</li>
@@ -104,7 +104,29 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 24/01/25</H3>
+
+<br>
+
+<ul><li> 07:21 web.whatsapp.com</li>
+<li> 07:21 docs.google.com</li>
+<li class='same'> 07:20 docs.google.com</li>
+<li> 07:19 bsky.app</li>
+<li class='same'> 07:18 bsky.app</li>
+<li> 07:18 outlook.office365.com</li>
+<li> 07:18 outlook.office.com</li>
+<li> 07:18 bsky.app</li>
+<li> 07:18 www.facebook.com</li>
+<li> 07:18 outlook.office.com</li>
+<li> 07:18 outlook.office365.com</li>
+<li> 07:17 docs.google.com</li>
+</ul>
+
 <H3>Thursday, 23/01/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -386,7 +408,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 07:27 docs.google.com</li>
+<ul><li> 07:56 www.overdrive.com</li>
+<li> 07:27 docs.google.com</li>
 </ul>
 
 <H3>Wednesday, 22/01/25</H3>
@@ -482,7 +505,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:05 www.overdrive.com</li>
 <li> 20:05 docs.google.com</li>
 <li> 20:04 bsky.app</li>
-<li> 19:45 cardiffuk.overdrive.com</li>
+<li> 19:52 www.overdrive.com</li>
+<li class='same'> 19:51 www.overdrive.com</li>
+<li> 19:51 cardiffuk.overdrive.com</li>
+<li class='same'> 19:50 cardiffuk.overdrive.com</li>
+<li class='same'> 19:45 cardiffuk.overdrive.com</li>
 <li class='same'> 19:44 cardiffuk.overdrive.com</li>
 <li class='same'> 19:42 cardiffuk.overdrive.com</li>
 <li class='same'> 19:41 cardiffuk.overdrive.com</li>
