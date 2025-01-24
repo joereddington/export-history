@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1991)</li>
+<ol><li>www.google.com (2000)</li>
 <li>outlook.office365.com (1044)</li>
-<li>bsky.app (1011)</li>
+<li>bsky.app (1018)</li>
 <li>mail.google.com (923)</li>
 <li>outlook.office.com (894)</li>
 <li>docs.google.com (793)</li>
 <li>www.facebook.com (564)</li>
 <li>rhul-my.sharepoint.com (298)</li>
-<li>chatgpt.com (286)</li>
+<li>chatgpt.com (287)</li>
 <li>www.reddit.com (280)</li>
-<li>www.amazon.co.uk (272)</li>
+<li>www.amazon.co.uk (273)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
-<li>calendar.google.com (245)</li>
+<li>calendar.google.com (247)</li>
 <li>www.linkedin.com (245)</li>
 <li>login.microsoftonline.com (232)</li>
-<li>github.com (223)</li>
+<li>github.com (224)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (169)</li>
 <li>forms.office.com (138)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>www.tesco.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
-<li>chat.openai.com (75)</li>
+<li>chat.openai.com (76)</li>
 <li>www.instagram.com (74)</li>
 
 
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:05 bsky.app</li>
+<ul><li> 21:44 chatgpt.com</li>
+<li> 21:44 chat.openai.com</li>
+<li> 21:41 bsky.app</li>
+<li> 21:41 www.google.com</li>
+<li> 21:40 bsky.app</li>
+<li class='same'> 21:39 bsky.app</li>
+<li class='same'> 21:38 bsky.app</li>
+<li> 21:38 www.google.com</li>
+<li> 21:38 www.amazon.co.uk</li>
+<li> 21:37 www.google.com</li>
+<li> 21:36 bsky.app</li>
+<li class='same'> 21:35 bsky.app</li>
+<li> 21:35 web.whatsapp.com</li>
+<li> 21:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 21:25 www.gov.uk</li>
+<li> 21:25 www.google.com</li>
+<li> 21:21 www.halfords.com</li>
+<li class='same'> 21:20 www.halfords.com</li>
+<li class='same'> 21:19 www.halfords.com</li>
+<li> 21:19 www.google.com</li>
+<li> 21:19 calendar.google.com</li>
+<li class='same'> 21:18 calendar.google.com</li>
+<li> 21:17 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 21:15 github.com</li>
+<li> 21:15 www.google.com</li>
+<li> 21:14 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 21:14 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 21:10 <a href="https://en.wikipedia.org/wiki/Decagonal_number">Decagonal number - Wikipedia</a></li>
+<li> 21:10 <a href="https://en.wikipedia.org/wiki/4000_(number)">4000 (number) - Wikipedia</a></li>
+<li> 21:10 www.google.com</li>
+<li> 21:09 bsky.app</li>
+<li class='same'> 21:05 bsky.app</li>
 <li> 21:05 www.google.com</li>
 <li> 21:05 www.amazon.co.uk</li>
 <li> 21:05 docs.google.com</li>
@@ -17274,6 +17305,7 @@ With number of accesses/minutes in parentheses
 <li> 15:39 www.unity-online.co.uk</li>
 <li> 15:37 docs.google.com</li>
 <li> 15:30 www.wikipedia.org</li>
+<li> 15:27 www.google.com</li>
 <li> 15:27 myview.rhul.zellis.com</li>
 <li> 15:20 outlook.office365.com</li>
 <li> 15:19 www.royalholloway.ac.uk</li>
@@ -20684,6 +20716,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:00 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 11:34 www.google.com</li>
 </ul>
 
 <H3>Monday, 03/06/24</H3>
