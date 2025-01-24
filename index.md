@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1978)</li>
-<li>outlook.office365.com (1039)</li>
-<li>bsky.app (992)</li>
-<li>mail.google.com (904)</li>
-<li>outlook.office.com (880)</li>
-<li>docs.google.com (789)</li>
-<li>www.facebook.com (563)</li>
+<ol><li>www.google.com (1983)</li>
+<li>outlook.office365.com (1040)</li>
+<li>bsky.app (1006)</li>
+<li>mail.google.com (923)</li>
+<li>outlook.office.com (888)</li>
+<li>docs.google.com (792)</li>
+<li>www.facebook.com (564)</li>
 <li>rhul-my.sharepoint.com (296)</li>
 <li>www.reddit.com (280)</li>
 <li>chatgpt.com (279)</li>
 <li>www.amazon.co.uk (271)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
-<li>calendar.google.com (242)</li>
-<li>www.linkedin.com (241)</li>
+<li>calendar.google.com (245)</li>
+<li>www.linkedin.com (244)</li>
 <li>login.microsoftonline.com (232)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
@@ -108,7 +108,80 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:50 <a href="https://en.wikipedia.org/wiki/Hugh_Grant">Hugh Grant - Wikipedia</a></li>
+<ul><li> 17:03 bsky.app</li>
+<li> 17:02 www.linkedin.com</li>
+<li> 17:01 bsky.app</li>
+<li> 17:00 outlook.office.com</li>
+<li> 17:00 outlook.office365.com</li>
+<li> 17:00 mail.google.com</li>
+<li> 17:00 www.nestpensions.org.uk</li>
+<li class='same'> 16:59 www.nestpensions.org.uk</li>
+<li> 16:59 mail.google.com</li>
+<li class='same'> 16:57 mail.google.com</li>
+<li class='same'> 16:56 mail.google.com</li>
+<li class='same'> 16:55 mail.google.com</li>
+<li> 16:53 www.videoscribe.co</li>
+<li> 16:53 www.google.com</li>
+<li> 16:53 <a href="https://www.youtube.com/watch?v=_UORzUfKR2c">Whiteboard Explainer Video Example - YouTube</a></li>
+<li class='same'> 16:51 <a href="https://www.youtube.com/watch?v=_UORzUfKR2c">Whiteboard Explainer Video Example - YouTube</a></li>
+<li> 16:51 mail.google.com</li>
+<li> 16:51 bsky.app</li>
+<li> 16:50 www.ssrn.com</li>
+<li> 16:47 bsky.app</li>
+<li> 16:47 mail.google.com</li>
+<li class='same'> 16:46 mail.google.com</li>
+<li class='same'> 16:42 mail.google.com</li>
+<li class='same'> 16:41 mail.google.com</li>
+<li class='same'> 16:40 mail.google.com</li>
+<li> 16:40 gmail.com</li>
+<li> 16:40 mail.google.com</li>
+<li> 16:39 www.linkedin.com</li>
+<li class='same'> 16:38 www.linkedin.com</li>
+<li> 16:38 mail.google.com</li>
+<li class='same'> 16:37 mail.google.com</li>
+<li> 16:37 outlook.office.com</li>
+<li> 16:34 bsky.app</li>
+<li> 16:33 <a href="https://en.wikipedia.org/wiki/University_of_Connecticut">University of Connecticut - Wikipedia</a></li>
+<li> 16:33 www.google.com</li>
+<li> 16:32 bsky.app</li>
+<li class='same'> 16:30 bsky.app</li>
+<li> 16:30 www.google.com</li>
+<li> 16:29 www.jostephenson.com</li>
+<li> 16:29 outlook.office.com</li>
+<li class='same'> 16:28 outlook.office.com</li>
+<li> 16:27 bsky.app</li>
+<li> 16:24 mail.google.com</li>
+<li> 16:23 bsky.app</li>
+<li> 16:23 docs.google.com</li>
+<li class='same'> 16:22 docs.google.com</li>
+<li> 16:22 www.sainsburys.co.uk</li>
+<li> 16:22 www.google.com</li>
+<li> 16:21 docs.google.com</li>
+<li> 16:21 mail.google.com</li>
+<li class='same'> 16:20 mail.google.com</li>
+<li> 16:20 forum.artofmemory.com</li>
+<li class='same'> 16:19 forum.artofmemory.com</li>
+<li class='same'> 16:17 forum.artofmemory.com</li>
+<li> 16:17 mail.google.com</li>
+<li> 16:17 calendar.google.com</li>
+<li> 16:16 mail.google.com</li>
+<li> 16:16 bsky.app</li>
+<li> 16:12 outlook.office.com</li>
+<li> 16:10 www.writersdigest.com</li>
+<li> 16:10 l.facebook.com</li>
+<li> 16:10 www.facebook.com</li>
+<li> 16:09 bsky.app</li>
+<li class='same'> 16:08 bsky.app</li>
+<li> 16:06 outlook.office.com</li>
+<li> 16:06 bsky.app</li>
+<li> 16:06 outlook.office.com</li>
+<li> 15:52 web.whatsapp.com</li>
+<li> 15:52 calendar.google.com</li>
+<li class='same'> 15:51 calendar.google.com</li>
+<li> 15:51 outlook.office.com</li>
+<li> 15:51 bsky.app</li>
+<li> 15:50 www.google.com</li>
+<li> 15:50 <a href="https://en.wikipedia.org/wiki/Hugh_Grant">Hugh Grant - Wikipedia</a></li>
 <li> 15:50 www.google.com</li>
 <li class='same'> 15:48 www.google.com</li>
 <li> 15:48 bsky.app</li>
@@ -20498,7 +20571,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:34 docs.google.com</li>
+<ul><li> 15:38 forum.artofmemory.com</li>
+<li> 15:34 docs.google.com</li>
 </ul>
 
 <br>
