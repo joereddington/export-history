@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1968)</li>
+<ol><li>www.google.com (1969)</li>
 <li>outlook.office365.com (1038)</li>
-<li>bsky.app (981)</li>
-<li>mail.google.com (900)</li>
-<li>outlook.office.com (865)</li>
-<li>docs.google.com (788)</li>
+<li>bsky.app (984)</li>
+<li>mail.google.com (901)</li>
+<li>outlook.office.com (869)</li>
+<li>docs.google.com (789)</li>
 <li>www.facebook.com (561)</li>
 <li>rhul-my.sharepoint.com (296)</li>
 <li>www.reddit.com (280)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:02 bsky.app</li>
+<ul><li> 12:50 bsky.app</li>
+<li> 12:47 zoom.us</li>
+<li> 12:44 outlook.office.com</li>
+<li> 12:44 bsky.app</li>
+<li> 12:42 outlook.office.com</li>
+<li> 12:42 zoom.us</li>
+<li> 12:42 outlook.office.com</li>
+<li class='same'> 12:41 outlook.office.com</li>
+<li> 12:23 <a href="https://en.wikipedia.org/wiki/ENIAC">ENIAC - Wikipedia</a></li>
+<li> 12:23 www.google.com</li>
+<li> 12:08 docs.google.com</li>
+<li> 12:08 mail.google.com</li>
+<li> 12:08 gmail.com</li>
+<li> 12:03 bsky.app</li>
+<li class='same'> 12:02 bsky.app</li>
 <li class='same'> 12:00 bsky.app</li>
 <li class='same'> 11:59 bsky.app</li>
 <li class='same'> 11:58 bsky.app</li>
