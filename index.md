@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1959)</li>
+<ol><li>www.google.com (1966)</li>
 <li>outlook.office365.com (1037)</li>
 <li>bsky.app (973)</li>
 <li>mail.google.com (900)</li>
 <li>outlook.office.com (859)</li>
-<li>docs.google.com (780)</li>
+<li>docs.google.com (787)</li>
 <li>www.facebook.com (561)</li>
 <li>rhul-my.sharepoint.com (296)</li>
 <li>www.reddit.com (280)</li>
-<li>chatgpt.com (275)</li>
+<li>chatgpt.com (277)</li>
 <li>www.amazon.co.uk (271)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>www.linkedin.com (239)</li>
 <li>calendar.google.com (238)</li>
-<li>login.microsoftonline.com (230)</li>
+<li>login.microsoftonline.com (231)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (158)</li>
@@ -91,9 +91,9 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (113)</li>
 <li>qbo.intuit.com (110)</li>
 <li>www.theguardian.com (93)</li>
+<li>tvtropes.org (92)</li>
 <li>discord.com (91)</li>
-<li>tvtropes.org (91)</li>
-<li>www.tesco.com (88)</li>
+<li>www.tesco.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
 <li>www.instagram.com (74)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:05 www.coursera.org</li>
+<ul><li> 10:32 <a href="https://en.wikipedia.org/wiki/Attack_tree">Attack tree - Wikipedia</a></li>
+<li> 10:32 www.google.com</li>
+<li> 10:31 chatgpt.com</li>
+<li> 10:31 chat.openai.com</li>
+<li> 10:29 www.google.com</li>
+<li> 10:28 onlinelibrary.wiley.com</li>
+<li> 10:28 www.google.com</li>
+<li> 10:23 docs.google.com</li>
+<li> 10:22 chatgpt.com</li>
+<li> 10:22 chat.openai.com</li>
+<li> 10:20 docs.google.com</li>
+<li> 10:20 www.tesco.com</li>
+<li> 10:20 www.google.com</li>
+<li> 10:18 www.tesco.com</li>
+<li class='same'> 10:17 www.tesco.com</li>
+<li> 10:17 www.google.com</li>
+<li> 10:16 docs.google.com</li>
+<li class='same'> 10:11 docs.google.com</li>
+<li> 10:11 www.google.com</li>
+<li> 10:10 docs.google.com</li>
+<li class='same'> 10:09 docs.google.com</li>
+<li class='same'> 10:07 docs.google.com</li>
+<li> 10:05 www.coursera.org</li>
 <li class='same'> 10:04 www.coursera.org</li>
 <li> 10:04 www.zoom.us</li>
 <li class='same'> 10:03 www.zoom.us</li>
@@ -153,7 +175,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:21 web.whatsapp.com</li>
+<ul><li> 07:41 www.google.com</li>
+<li> 07:41 tvtropes.org</li>
+<li> 07:21 web.whatsapp.com</li>
 <li> 07:21 docs.google.com</li>
 <li class='same'> 07:20 docs.google.com</li>
 <li> 07:19 bsky.app</li>
@@ -590,7 +614,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:41 www.sciencedirect.com</li>
+<ul><li> 17:41 login.microsoftonline.com</li>
+<li> 17:41 id.elsevier.com</li>
+<li> 17:41 www.sciencedirect.com</li>
 <li> 17:40 www.google.com</li>
 <li> 17:40 tvtropes.org</li>
 <li> 17:33 docs.google.com</li>
