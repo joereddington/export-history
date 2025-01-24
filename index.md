@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (1969)</li>
-<li>outlook.office365.com (1038)</li>
-<li>bsky.app (984)</li>
-<li>mail.google.com (901)</li>
-<li>outlook.office.com (869)</li>
+<ol><li>www.google.com (1978)</li>
+<li>outlook.office365.com (1039)</li>
+<li>bsky.app (992)</li>
+<li>mail.google.com (904)</li>
+<li>outlook.office.com (880)</li>
 <li>docs.google.com (789)</li>
-<li>www.facebook.com (561)</li>
+<li>www.facebook.com (563)</li>
 <li>rhul-my.sharepoint.com (296)</li>
 <li>www.reddit.com (280)</li>
-<li>chatgpt.com (277)</li>
+<li>chatgpt.com (279)</li>
 <li>www.amazon.co.uk (271)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
+<li>calendar.google.com (242)</li>
 <li>www.linkedin.com (241)</li>
-<li>calendar.google.com (238)</li>
 <li>login.microsoftonline.com (232)</li>
 <li>github.com (209)</li>
 <li>fritz.box (201)</li>
-<li>www.coursera.org (158)</li>
+<li>www.coursera.org (169)</li>
 <li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>drive.google.com (113)</li>
@@ -105,6 +105,81 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 24/01/25</H3>
+
+<br>
+
+<ul><li> 15:50 <a href="https://en.wikipedia.org/wiki/Hugh_Grant">Hugh Grant - Wikipedia</a></li>
+<li> 15:50 www.google.com</li>
+<li class='same'> 15:48 www.google.com</li>
+<li> 15:48 bsky.app</li>
+<li class='same'> 15:45 bsky.app</li>
+<li class='same'> 15:43 bsky.app</li>
+<li> 15:43 blueskydirectory.com</li>
+<li> 15:42 mail.google.com</li>
+<li class='same'> 15:41 mail.google.com</li>
+<li> 15:41 outlook.office.com</li>
+<li> 15:39 www.coursera.org</li>
+<li class='same'> 15:38 www.coursera.org</li>
+<li> 15:34 outlook.office.com</li>
+<li> 15:32 www.first.org</li>
+<li> 15:32 www.google.com</li>
+<li> 15:29 www.coursera.org</li>
+<li> 15:29 outlook.office.com</li>
+<li> 15:28 <a href="https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)">Spectre (security vulnerability) - Wikipedia</a></li>
+<li> 15:28 <a href="https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)">Meltdown (security vulnerability) - Wikipedia</a></li>
+<li> 15:28 www.google.com</li>
+<li> 15:27 www.dell.com</li>
+<li> 15:27 nvd.nist.gov</li>
+<li> 15:27 www.google.com</li>
+<li> 15:26 <a href="https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)">Meltdown (security vulnerability) - Wikipedia</a></li>
+<li> 15:26 www.google.com</li>
+<li> 15:26 nvd.nist.gov</li>
+<li> 15:25 www.google.com</li>
+<li> 15:25 chatgpt.com</li>
+<li> 15:25 chat.openai.com</li>
+<li> 15:24 www.coursera.org</li>
+<li class='same'> 15:23 www.coursera.org</li>
+<li> 15:22 www.first.org</li>
+<li> 15:22 www.google.com</li>
+<li> 15:21 nvd.nist.gov</li>
+<li> 15:20 www.coursera.org</li>
+<li> 15:19 chatgpt.com</li>
+<li> 15:19 chat.openai.com</li>
+<li> 15:18 www.coursera.org</li>
+<li class='same'> 15:17 www.coursera.org</li>
+<li class='same'> 15:16 www.coursera.org</li>
+<li class='same'> 15:15 www.coursera.org</li>
+<li class='same'> 15:14 www.coursera.org</li>
+<li> 15:13 outlook.office.com</li>
+<li> 15:12 calendar.google.com</li>
+<li> 15:12 outlook.office.com</li>
+<li> 15:11 bsky.app</li>
+<li> 15:11 calendar.google.com</li>
+<li> 15:10 web.whatsapp.com</li>
+<li> 15:10 outlook.office.com</li>
+<li> 15:10 calendar.google.com</li>
+<li class='same'> 15:09 calendar.google.com</li>
+<li> 15:09 outlook.office.com</li>
+<li class='same'> 15:06 outlook.office.com</li>
+<li> 15:02 bsky.app</li>
+<li> 15:02 www.facebook.com</li>
+<li> 15:01 bsky.app</li>
+<li> 15:00 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:02 outlook.office.com</li>
+<li> 14:02 outlook.office365.com</li>
+<li> 14:02 outlook.office.com</li>
+<li> 14:02 mail.google.com</li>
+<li> 14:02 gmail.com</li>
+<li> 14:01 bsky.app</li>
+<li class='same'> 13:58 bsky.app</li>
+<li> 13:58 www.facebook.com</li>
+<li> 13:46 commonslibrary.parliament.uk</li>
+<li> 13:46 www.google.com</li>
+</ul>
 
 <br>
 
