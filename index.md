@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2000)</li>
-<li>outlook.office365.com (1044)</li>
-<li>bsky.app (1018)</li>
+<ol><li>www.google.com (2004)</li>
+<li>outlook.office365.com (1045)</li>
+<li>bsky.app (1020)</li>
 <li>mail.google.com (923)</li>
-<li>outlook.office.com (894)</li>
-<li>docs.google.com (793)</li>
+<li>outlook.office.com (896)</li>
+<li>docs.google.com (798)</li>
 <li>www.facebook.com (564)</li>
 <li>rhul-my.sharepoint.com (298)</li>
 <li>chatgpt.com (287)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (169)</li>
 <li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (126)</li>
-<li>drive.google.com (113)</li>
+<li>drive.google.com (114)</li>
 <li>qbo.intuit.com (110)</li>
 <li>www.theguardian.com (93)</li>
 <li>tvtropes.org (92)</li>
@@ -104,7 +104,45 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 25/01/25</H3>
+
+<br>
+
+<ul><li> 08:00 docs.google.com</li>
+<li> 08:00 drive.google.com</li>
+<li> 07:58 www.onlinebanking.natwest.com</li>
+<li> 07:58 www.natwest.com</li>
+<li> 07:55 docs.google.com</li>
+<li> 07:55 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:53 docs.google.com</li>
+<li> 07:53 www.sainsburys.co.uk</li>
+<li> 07:53 www.google.com</li>
+<li class='same'> 07:51 www.google.com</li>
+<li> 07:50 docs.google.com</li>
+<li> 07:46 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:46 operator.chatgpt.com</li>
+<li> 07:45 openai.com</li>
+<li> 07:45 www.google.com</li>
+<li> 07:44 outlook.office.com</li>
+<li> 07:44 outlook.office365.com</li>
+<li> 07:44 outlook.office.com</li>
+<li> 07:42 bsky.app</li>
+<li> 07:40 <a href="https://en.wikipedia.org/wiki/Hopepunk">Hopepunk - Wikipedia</a></li>
+<li> 07:40 <a href="https://en.wikipedia.org/wiki/Becky_Chambers">Becky Chambers - Wikipedia</a></li>
+<li> 07:40 www.google.com</li>
+<li> 07:39 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 03:41 docs.google.com</li>
+</ul>
+
 <H3>Friday, 24/01/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
