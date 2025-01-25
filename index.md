@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2004)</li>
+<ol><li>www.google.com (2008)</li>
 <li>outlook.office365.com (1045)</li>
-<li>bsky.app (1021)</li>
+<li>bsky.app (1026)</li>
 <li>mail.google.com (923)</li>
 <li>outlook.office.com (896)</li>
-<li>docs.google.com (798)</li>
-<li>www.facebook.com (566)</li>
+<li>docs.google.com (807)</li>
+<li>www.facebook.com (567)</li>
 <li>rhul-my.sharepoint.com (298)</li>
 <li>chatgpt.com (287)</li>
 <li>www.reddit.com (280)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (247)</li>
 <li>www.linkedin.com (247)</li>
 <li>login.microsoftonline.com (232)</li>
-<li>github.com (224)</li>
+<li>github.com (226)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (169)</li>
 <li>forms.office.com (138)</li>
@@ -92,8 +92,8 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (110)</li>
 <li>www.theguardian.com (93)</li>
 <li>tvtropes.org (92)</li>
+<li>www.tesco.com (92)</li>
 <li>discord.com (91)</li>
-<li>www.tesco.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
 <li>chat.openai.com (76)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:28 x.com</li>
+<ul><li> 17:09 bsky.app</li>
+<li class='same'> 17:08 bsky.app</li>
+<li> 17:08 docs.google.com</li>
+<li class='same'> 17:07 docs.google.com</li>
+<li class='same'> 17:05 docs.google.com</li>
+<li> 17:05 www.tesco.com</li>
+<li> 17:05 www.google.com</li>
+<li> 17:05 docs.google.com</li>
+<li class='same'> 17:04 docs.google.com</li>
+<li class='same'> 17:02 docs.google.com</li>
+<li> 17:02 www.ocado.com</li>
+<li> 17:02 www.google.com</li>
+<li> 17:01 docs.google.com</li>
+<li class='same'> 16:59 docs.google.com</li>
+<li> 16:59 www.ocado.com</li>
+<li> 16:59 www.google.com</li>
+<li> 16:58 docs.google.com</li>
+<li> 16:58 bsky.app</li>
+<li class='same'> 16:57 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 14:38 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li> 08:34 info.sarkarijoblive.com</li>
+<li> 08:34 l.facebook.com</li>
+<li> 08:34 www.facebook.com</li>
+<li> 08:33 x.com</li>
+<li class='same'> 08:28 x.com</li>
 <li class='same'> 08:26 x.com</li>
 <li> 08:26 twitter.com</li>
 <li> 08:25 bsky.app</li>
@@ -218,7 +250,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:22 www.google.com</li>
+<ul><li> 19:35 <a href="https://joereddington.com/smashup/">Joe Reddington | Things I make.</a></li>
+<li> 19:35 <a href="https://joereddington.com/smashup">Joe Reddington | Things I make.</a></li>
+<li> 19:35 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 19:32 www.chinahighlights.com</li>
+<li> 19:31 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:22 www.google.com</li>
 <li> 17:21 learn.microsoft.com</li>
 <li> 17:21 www.google.com</li>
 <li> 17:20 bsky.app</li>
@@ -544,7 +585,7 @@ With number of accesses/minutes in parentheses
 <li> 20:34 www.herts.ac.uk</li>
 <li> 20:34 www.google.com</li>
 <li> 20:33 outlook.office.com</li>
-<li> 20:32 <a href="https://joereddington.com/smashup/"></a></li>
+<li> 20:32 <a href="https://joereddington.com/smashup/">Joe Reddington | Things I make.</a></li>
 <li> 20:32 bsky.app</li>
 </ul>
 
@@ -26321,7 +26362,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:58 github.com</li>
+<ul><li> 16:13 github.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:58 github.com</li>
 <li class='same'> 14:52 github.com</li>
 <li class='same'> 14:51 github.com</li>
 </ul>
@@ -27290,7 +27336,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 16:10 www.wikipedia.org</li>
+<ul><li> 17:55 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 16:10 www.wikipedia.org</li>
 <li> 15:42 bsky.app</li>
 </ul>
 
@@ -28357,6 +28408,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 18:40 github.com</li>
+</ul>
 
 <br>
 
