@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2008)</li>
+<ol><li>www.google.com (2013)</li>
 <li>outlook.office365.com (1045)</li>
-<li>bsky.app (1026)</li>
+<li>bsky.app (1033)</li>
 <li>mail.google.com (923)</li>
 <li>outlook.office.com (896)</li>
-<li>docs.google.com (807)</li>
-<li>www.facebook.com (567)</li>
+<li>docs.google.com (808)</li>
+<li>www.facebook.com (578)</li>
 <li>rhul-my.sharepoint.com (298)</li>
-<li>chatgpt.com (287)</li>
-<li>www.reddit.com (280)</li>
+<li>chatgpt.com (289)</li>
+<li>www.reddit.com (281)</li>
 <li>www.amazon.co.uk (273)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
+<li>www.linkedin.com (249)</li>
 <li>calendar.google.com (247)</li>
-<li>www.linkedin.com (247)</li>
 <li>login.microsoftonline.com (232)</li>
 <li>github.com (226)</li>
 <li>fritz.box (201)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>discord.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
-<li>chat.openai.com (76)</li>
+<li>chat.openai.com (77)</li>
 <li>www.instagram.com (74)</li>
 
 
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:09 bsky.app</li>
+<ul><li> 17:59 feedly.com</li>
+<li class='same'> 17:58 feedly.com</li>
+<li class='same'> 17:57 feedly.com</li>
+<li class='same'> 17:55 feedly.com</li>
+<li class='same'> 17:54 feedly.com</li>
+<li class='same'> 17:53 feedly.com</li>
+<li class='same'> 17:49 feedly.com</li>
+<li class='same'> 17:48 feedly.com</li>
+<li> 17:46 docs.google.com</li>
+<li> 17:45 www.linkedin.com</li>
+<li class='same'> 17:44 www.linkedin.com</li>
+<li> 17:36 www.google.com</li>
+<li> 17:29 equalitytime.github.io</li>
+<li> 17:28 chatgpt.com</li>
+<li class='same'> 17:27 chatgpt.com</li>
+<li> 17:27 chat.openai.com</li>
+<li> 17:27 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:26 bsky.app</li>
+<li> 17:26 www.google.com</li>
+<li> 17:25 bsky.app</li>
+<li class='same'> 17:24 bsky.app</li>
+<li class='same'> 17:23 bsky.app</li>
+<li class='same'> 17:22 bsky.app</li>
+<li class='same'> 17:21 bsky.app</li>
+<li> 17:21 graysky.app</li>
+<li> 17:21 www.google.com</li>
+<li> 17:20 www.reddit.com</li>
+<li> 17:19 www.google.com</li>
+<li> 17:17 bsky.app</li>
+<li> 17:15 www.facebook.com</li>
+<li class='same'> 17:14 www.facebook.com</li>
+<li class='same'> 17:13 www.facebook.com</li>
+<li class='same'> 17:12 www.facebook.com</li>
+<li class='same'> 17:11 www.facebook.com</li>
+<li> 17:11 web.whatsapp.com</li>
+<li> 17:11 www.google.com</li>
+<li> 17:09 bsky.app</li>
 <li class='same'> 17:08 bsky.app</li>
 <li> 17:08 docs.google.com</li>
 <li class='same'> 17:07 docs.google.com</li>
@@ -17453,7 +17489,8 @@ With number of accesses/minutes in parentheses
 <li> 09:52 calendar.google.com</li>
 <li> 09:49 outlook.office365.com</li>
 <li class='same'> 09:45 outlook.office365.com</li>
-<li> 09:40 www.facebook.com</li>
+<li> 09:41 www.facebook.com</li>
+<li class='same'> 09:40 www.facebook.com</li>
 <li> 09:40 outlook.office.com</li>
 <li> 09:31 myview.rhul.zellis.com</li>
 <li> 09:22 outlook.office.com</li>
@@ -18509,7 +18546,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:30 www.facebook.com</li>
+<ul><li> 15:31 www.facebook.com</li>
+<li class='same'> 15:30 www.facebook.com</li>
 <li> 15:19 equalitytime.github.io</li>
 </ul>
 
@@ -18643,6 +18681,7 @@ With number of accesses/minutes in parentheses
 <li> 07:59 www.orbitaltrampolinepark.co.uk</li>
 <li class='same'> 07:58 www.orbitaltrampolinepark.co.uk</li>
 <li> 07:34 www.amazon.co.uk</li>
+<li> 07:16 equalitytime.github.io</li>
 <li> 07:10 online.unity.co.uk</li>
 <li> 07:08 equalitytime.github.io</li>
 <li> 07:03 docs.google.com</li>
@@ -18813,7 +18852,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:36 www.facebook.com</li>
+<ul><li> 14:05 www.facebook.com</li>
+<li class='same'> 13:36 www.facebook.com</li>
 </ul>
 
 <br>
@@ -20150,9 +20190,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:04 x.com</li>
+<ul><li> 17:04 equalitytime.github.io</li>
+<li> 17:04 x.com</li>
 <li class='same'> 17:02 x.com</li>
 <li class='same'> 17:01 x.com</li>
+<li> 16:59 equalitytime.github.io</li>
 <li> 16:46 jekyllrb.com</li>
 <li> 16:33 github.com</li>
 <li> 16:21 teams.microsoft.com</li>
@@ -20960,6 +21002,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:22 rhul.sharepoint.com</li>
 <li> 15:20 moodle.royalholloway.ac.uk</li>
 <li> 15:15 projects.cs.rhul.ac.uk</li>
+<li> 14:46 www.facebook.com</li>
 </ul>
 
 <br>
@@ -21487,7 +21530,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:48 www.facebook.com</li>
+<ul><li> 08:51 www.facebook.com</li>
+<li class='same'> 08:48 www.facebook.com</li>
 <li> 08:44 github.com</li>
 <li> 08:20 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 08:20 www.google.com</li>
@@ -21633,8 +21677,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:36 artofmemory.com</li>
 <li class='same'> 07:33 artofmemory.com</li>
+<li> 07:31 equalitytime.github.io</li>
 <li> 07:07 docs.google.com</li>
 <li> 06:59 rhul-my.sharepoint.com</li>
+<li> 06:53 equalitytime.github.io</li>
 </ul>
 
 <H3>Monday, 06/05/24</H3>
@@ -22089,6 +22135,11 @@ With number of accesses/minutes in parentheses
 <li> 07:46 mail.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 06:12 equalitytime.github.io</li>
+</ul>
+
 <H3>Tuesday, 23/04/24</H3>
 
 <br>
@@ -22239,7 +22290,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:33 www.nestpensions.org.uk</li>
+<ul><li> 09:55 www.facebook.com</li>
+<li> 09:33 www.nestpensions.org.uk</li>
 <li class='same'> 09:32 www.nestpensions.org.uk</li>
 <li class='same'> 09:31 www.nestpensions.org.uk</li>
 <li> 09:30 mail.google.com</li>
@@ -26699,6 +26751,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 16:46 equalitytime.github.io</li>
+</ul>
+
+<br>
+
 <ul><li> 16:11 andsoshethinks.co.uk</li>
 </ul>
 
@@ -27414,7 +27471,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:37 studio.youtube.com</li>
+<ul><li> 11:52 equalitytime.github.io</li>
+<li> 11:37 studio.youtube.com</li>
 <li class='same'> 11:35 studio.youtube.com</li>
 <li class='same'> 11:33 studio.youtube.com</li>
 </ul>
@@ -27424,6 +27482,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:07 drive.google.com</li>
 <li class='same'> 10:06 drive.google.com</li>
 <li class='same'> 09:57 drive.google.com</li>
+<li> 09:44 equalitytime.github.io</li>
 </ul>
 
 <br>
@@ -27490,11 +27549,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:12 accounts.google.co.uk</li>
+<li> 11:59 equalitytime.github.io</li>
 </ul>
 
 <br>
 
-<ul><li> 11:03 www.tightrope.co.uk</li>
+<ul><li class='same'> 11:14 equalitytime.github.io</li>
+<li> 11:03 www.tightrope.co.uk</li>
 <li> 11:02 accounts.google.com</li>
 <li> 10:56 analytics.google.com</li>
 <li> 10:56 accounts.google.co.uk</li>
@@ -27553,11 +27614,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:37 www.dropbox.com</li>
 <li> 13:18 docs.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 12:44 calendar.google.com</li>
+<li> 13:07 equalitytime.github.io</li>
+<li> 12:44 calendar.google.com</li>
 </ul>
 
 <br>
@@ -27599,6 +27657,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:29 www.google.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 11:04 equalitytime.github.io</li>
 </ul>
 
 <br>
@@ -27954,6 +28017,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:43 github.com</li>
 </ul>
 
+<br>
+
+<ul><li> 11:13 equalitytime.github.io</li>
+</ul>
+
 <H3>Tuesday, 30/05/23</H3>
 
 <br>
@@ -27962,7 +28030,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 07:07 github.com</li>
+<ul><li> 07:07 github.com</li>
 </ul>
 
 <br>
@@ -28160,6 +28228,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 10:15 analytics.google.com</li>
+<li> 10:14 equalitytime.github.io</li>
 </ul>
 
 <br>
