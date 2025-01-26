@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2015)</li>
+<ol><li>www.google.com (2019)</li>
 <li>outlook.office365.com (1045)</li>
 <li>bsky.app (1037)</li>
 <li>mail.google.com (923)</li>
 <li>outlook.office.com (896)</li>
-<li>docs.google.com (812)</li>
+<li>docs.google.com (813)</li>
 <li>www.facebook.com (578)</li>
 <li>rhul-my.sharepoint.com (298)</li>
 <li>chatgpt.com (289)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:26 www.theguardian.com</li>
+<ul><li> 18:34 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:34 blog.thermoworks.com</li>
+<li> 18:12 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:37 blog.thermoworks.com</li>
+<li> 16:37 www.google.com</li>
+<li> 16:36 www.nigella.com</li>
+<li> 16:36 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:29 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:43 www.overdrive.com</li>
+<li> 12:43 help.kobo.com</li>
+<li> 12:43 www.gov.scot</li>
+<li> 12:43 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:42 www.google.com</li>
+<li> 12:26 www.theguardian.com</li>
 <li class='same'> 12:25 www.theguardian.com</li>
 <li> 12:23 www.vox.com</li>
 <li> 12:23 metro.co.uk</li>
