@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>ev.turnitinuk.com (126)</li>
 <li>drive.google.com (114)</li>
 <li>qbo.intuit.com (110)</li>
-<li>www.theguardian.com (94)</li>
+<li>www.theguardian.com (96)</li>
 <li>tvtropes.org (92)</li>
 <li>www.tesco.com (92)</li>
 <li>discord.com (91)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 26/01/25</H3>
+
+<br>
+
+<ul><li> 12:26 www.theguardian.com</li>
+<li class='same'> 12:25 www.theguardian.com</li>
+<li> 12:23 www.vox.com</li>
+<li> 12:23 metro.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:10 metro.co.uk</li>
+</ul>
 
 <br>
 
