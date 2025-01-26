@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2021)</li>
+<ol><li>www.google.com (2026)</li>
 <li>outlook.office365.com (1045)</li>
-<li>bsky.app (1037)</li>
+<li>bsky.app (1039)</li>
 <li>mail.google.com (923)</li>
 <li>outlook.office.com (896)</li>
-<li>docs.google.com (813)</li>
-<li>www.facebook.com (578)</li>
+<li>docs.google.com (842)</li>
+<li>www.facebook.com (579)</li>
 <li>rhul-my.sharepoint.com (298)</li>
-<li>chatgpt.com (289)</li>
-<li>www.reddit.com (284)</li>
-<li>www.amazon.co.uk (273)</li>
+<li>chatgpt.com (290)</li>
+<li>www.reddit.com (286)</li>
+<li>www.amazon.co.uk (274)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
+<li>calendar.google.com (249)</li>
 <li>www.linkedin.com (249)</li>
-<li>calendar.google.com (247)</li>
+<li>github.com (246)</li>
 <li>login.microsoftonline.com (232)</li>
-<li>github.com (226)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (169)</li>
 <li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>drive.google.com (114)</li>
 <li>qbo.intuit.com (110)</li>
+<li>tvtropes.org (99)</li>
 <li>www.theguardian.com (97)</li>
-<li>tvtropes.org (92)</li>
 <li>www.tesco.com (92)</li>
 <li>discord.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
-<li>chat.openai.com (77)</li>
+<li>chat.openai.com (78)</li>
 <li>www.instagram.com (74)</li>
 
 
@@ -108,7 +108,44 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:29 www.theguardian.com</li>
+<ul><li> 20:47 <a href="https://en.wikipedia.org/wiki/Kit_Culkin">Kit Culkin - Wikipedia</a></li>
+<li> 20:47 <a href="https://en.wikipedia.org/wiki/Macaulay_Culkin">Macaulay Culkin - Wikipedia</a></li>
+<li> 20:47 www.google.com</li>
+<li> 20:46 tvtropes.org</li>
+<li class='same'> 20:45 tvtropes.org</li>
+<li class='same'> 20:44 tvtropes.org</li>
+<li class='same'> 20:31 tvtropes.org</li>
+<li> 20:31 www.google.com</li>
+<li> 20:30 newsthump.com</li>
+<li> 20:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 20:29 bsky.app</li>
+<li> 20:21 www.reddit.com</li>
+<li class='same'> 20:20 www.reddit.com</li>
+<li> 20:20 www.google.com</li>
+<li> 20:11 chatgpt.com</li>
+<li> 20:11 chat.openai.com</li>
+<li> 20:02 web.whatsapp.com</li>
+<li> 20:02 docs.google.com</li>
+<li> 20:01 calendar.google.com</li>
+<li class='same'> 20:00 calendar.google.com</li>
+<li> 19:57 www.amazon.co.uk</li>
+<li> 19:57 docs.google.com</li>
+<li> 19:56 github.com</li>
+<li class='same'> 19:55 github.com</li>
+<li> 19:54 www.google.com</li>
+<li> 19:49 bsky.app</li>
+<li> 19:49 www.facebook.com</li>
+<li> 19:48 docs.google.com</li>
+<li class='same'> 19:47 docs.google.com</li>
+<li class='same'> 19:46 docs.google.com</li>
+<li class='same'> 19:45 docs.google.com</li>
+<li class='same'> 19:44 docs.google.com</li>
+<li class='same'> 19:43 docs.google.com</li>
+<li> 19:43 vegetarianexpress.co.uk</li>
+<li> 19:43 www.google.com</li>
+<li> 19:43 docs.google.com</li>
+<li class='same'> 19:41 docs.google.com</li>
+<li> 19:29 www.theguardian.com</li>
 <li> 19:27 www.google.com</li>
 <li> 19:27 www.magicalkingdoms.com</li>
 </ul>
@@ -16434,6 +16471,13 @@ With number of accesses/minutes in parentheses
 <li> 14:28 www.amazon.co.uk</li>
 <li class='same'> 14:27 www.amazon.co.uk</li>
 <li> 14:16 outlook.office.com</li>
+<li> 14:08 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:36 tvtropes.org</li>
+<li class='same'> 10:35 tvtropes.org</li>
 </ul>
 
 <H3>Monday, 21/10/24</H3>
@@ -17516,6 +17560,7 @@ With number of accesses/minutes in parentheses
 <li> 15:58 find-and-update.company-information.service.gov.uk</li>
 <li> 15:57 www.google.com</li>
 <li> 15:51 mail.google.com</li>
+<li> 15:47 github.com</li>
 <li> 15:46 docs.google.com</li>
 <li> 15:39 www.unity-online.co.uk</li>
 <li> 15:37 docs.google.com</li>
@@ -20235,6 +20280,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:41 github.com</li>
+</ul>
+
+<br>
+
 <ul><li> 14:52 docs.google.com</li>
 <li class='same'> 14:51 docs.google.com</li>
 </ul>
@@ -20257,6 +20307,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:07 <a href="https://joereddington.com/2024/03/12/half-marathon.html">Long Distance Running | Joe Reddington</a></li>
 <li> 12:04 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 11:55 <a href="https://joereddington.com/2024/03/12/half-marathon.html">Long Distance Running | Joe Reddington</a></li>
+</ul>
+
+<br>
+
+<ul><li> 10:47 github.com</li>
+<li class='same'> 10:46 github.com</li>
 </ul>
 
 <H3>Sunday, 07/07/24</H3>
@@ -20321,7 +20377,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 08:35 accounts.intuit.com</li>
 <li> 08:25 localhost:8000</li>
-<li> 07:56 github.com</li>
+<li> 07:57 github.com</li>
+<li class='same'> 07:56 github.com</li>
 <li class='same'> 07:55 github.com</li>
 <li> 07:35 equalitytime.github.io</li>
 <li> 07:11 qbo.intuit.com</li>
@@ -20384,6 +20441,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:22 github.com</li>
 </ul>
 
+<br>
+
+<ul><li class='same'> 19:35 github.com</li>
+</ul>
+
 <H3>Monday, 01/07/24</H3>
 
 <br>
@@ -20434,14 +20496,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:41 github.com</li>
+<li class='same'> 10:35 github.com</li>
 <li class='same'> 10:27 github.com</li>
 <li> 10:26 drive.google.com</li>
 <li class='same'> 10:25 drive.google.com</li>
+<li> 10:18 github.com</li>
 <li> 10:11 docs.google.com</li>
 <li> 10:03 drive.google.com</li>
 <li> 10:03 docs.google.com</li>
 <li> 10:01 chatgpt.com</li>
 <li class='same'> 10:00 chatgpt.com</li>
+<li> 09:48 github.com</li>
 </ul>
 
 <H3>Sunday, 30/06/24</H3>
@@ -20787,6 +20852,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:58 github.com</li>
+</ul>
+
+<br>
+
 <ul><li> 10:52 127.0.0.1:4000</li>
 </ul>
 
@@ -20809,6 +20879,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:16 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<li> 15:07 github.com</li>
 <li> 15:05 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li> 14:44 127.0.0.1:4000</li>
 </ul>
@@ -20825,7 +20896,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:25 www.facebook.com</li>
+<ul><li> 11:46 docs.google.com</li>
+<li class='same'> 11:45 docs.google.com</li>
+<li> 11:25 www.facebook.com</li>
 <li> 11:18 forum.artofmemory.com</li>
 <li> 11:18 www.amazon.co.uk</li>
 <li> 11:12 forum.artofmemory.com</li>
@@ -21579,7 +21652,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:54 github.com</li>
+<ul><li> 19:21 docs.google.com</li>
+<li> 18:54 github.com</li>
 </ul>
 
 <br>
@@ -21625,6 +21699,11 @@ With number of accesses/minutes in parentheses
 <li> 08:20 www.google.com</li>
 <li> 08:10 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 08:10 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 03:06 docs.google.com</li>
 </ul>
 
 <H3>Friday, 10/05/24</H3>
@@ -21682,7 +21761,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:58 outlook.office.com</li>
-<li class='same'> 11:48 outlook.office.com</li>
+<li> 11:56 docs.google.com</li>
+<li> 11:48 outlook.office.com</li>
 </ul>
 
 <br>
@@ -21771,6 +21851,11 @@ With number of accesses/minutes in parentheses
 <li> 07:07 docs.google.com</li>
 <li> 06:59 rhul-my.sharepoint.com</li>
 <li> 06:53 equalitytime.github.io</li>
+</ul>
+
+<br>
+
+<ul><li> 06:16 github.com</li>
 </ul>
 
 <H3>Monday, 06/05/24</H3>
@@ -21898,7 +21983,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:17 docs.google.com</li>
+<ul><li> 12:22 github.com</li>
+<li> 12:17 docs.google.com</li>
 <li> 11:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 </ul>
 
@@ -22227,7 +22313,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:12 equalitytime.github.io</li>
+<ul><li> 06:13 github.com</li>
+<li> 06:12 equalitytime.github.io</li>
+<li> 06:11 github.com</li>
 </ul>
 
 <H3>Tuesday, 23/04/24</H3>
@@ -22500,6 +22588,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:05 docs.google.com</li>
 <li class='same'> 09:02 docs.google.com</li>
 <li class='same'> 09:01 docs.google.com</li>
+<li> 09:00 github.com</li>
 <li> 08:41 theopenvoicefactory.org</li>
 </ul>
 
@@ -23271,7 +23360,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:49 andsoshethinks.co.uk</li>
+<ul><li> 06:56 github.com</li>
+<li> 06:49 andsoshethinks.co.uk</li>
 <li> 06:44 github.com</li>
 <li> 06:29 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 06:20 gitlab.cim.rhul.ac.uk</li>
@@ -23286,6 +23376,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:40 projects.cs.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 13:23 github.com</li>
 </ul>
 
 <br>
@@ -23771,7 +23866,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:29 www.wolframalpha.com</li>
+<ul><li> 12:36 docs.google.com</li>
+<li> 12:29 www.wolframalpha.com</li>
 </ul>
 
 <br>
@@ -24085,7 +24181,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:05 127.0.0.1:4000</li>
+<ul><li> 12:17 docs.google.com</li>
+<li> 12:05 127.0.0.1:4000</li>
 </ul>
 
 <br>
@@ -24684,6 +24781,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 17:12 docs.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 15:48 github.com</li>
 </ul>
 
@@ -24732,7 +24834,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:24 <a href="https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html">Saving Keystokes, Baby Advice | Joe Reddington</a></li>
+<ul><li class='same'> 07:42 docs.google.com</li>
+<li> 07:24 <a href="https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html">Saving Keystokes, Baby Advice | Joe Reddington</a></li>
 <li> 06:56 www.reddit.com</li>
 </ul>
 
@@ -25415,7 +25518,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:49 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<ul><li> 11:49 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:01 docs.google.com</li>
+<li class='same'> 11:00 docs.google.com</li>
+<li> 10:49 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 10:48 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
 <li> 10:29 analytics.google.com</li>
 <li> 10:29 accounts.google.co.uk</li>
@@ -25636,11 +25746,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:46 www.goodreads.com</li>
 <li class='same'> 15:45 www.goodreads.com</li>
 <li> 15:45 www.amazon.co.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 15:12 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
+<li> 15:31 docs.google.com</li>
+<li> 15:12 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
 <li> 15:01 www.dropbox.com</li>
 </ul>
 
@@ -25757,6 +25864,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:16 www.dropbox.com</li>
 </ul>
 
+<H3>Monday, 06/11/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 09:55 docs.google.com</li>
+</ul>
+
 <H3>Friday, 03/11/23</H3>
 
 <br>
@@ -25766,6 +25884,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:09 www.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 07:51 docs.google.com</li>
+<li class='same'> 07:46 docs.google.com</li>
+<li class='same'> 07:45 docs.google.com</li>
 </ul>
 
 <H3>Thursday, 02/11/23</H3>
@@ -25851,6 +25976,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:55 bsky.app</li>
 <li class='same'> 07:47 bsky.app</li>
+<li> 07:45 docs.google.com</li>
 <li> 07:40 mail.google.com</li>
 <li class='same'> 07:39 mail.google.com</li>
 <li> 07:12 docs.google.com</li>
@@ -26016,6 +26142,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:31 www.parkrun.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 11:02 docs.google.com</li>
 </ul>
 
 <H3>Friday, 20/10/23</H3>
