@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2019)</li>
+<ol><li>www.google.com (2021)</li>
 <li>outlook.office365.com (1045)</li>
 <li>bsky.app (1037)</li>
 <li>mail.google.com (923)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (578)</li>
 <li>rhul-my.sharepoint.com (298)</li>
 <li>chatgpt.com (289)</li>
-<li>www.reddit.com (283)</li>
+<li>www.reddit.com (284)</li>
 <li>www.amazon.co.uk (273)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>www.linkedin.com (249)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>ev.turnitinuk.com (126)</li>
 <li>drive.google.com (114)</li>
 <li>qbo.intuit.com (110)</li>
-<li>www.theguardian.com (96)</li>
+<li>www.theguardian.com (97)</li>
 <li>tvtropes.org (92)</li>
 <li>www.tesco.com (92)</li>
 <li>discord.com (91)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:34 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 19:29 www.theguardian.com</li>
+<li> 19:27 www.google.com</li>
+<li> 19:27 www.magicalkingdoms.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:37 www.magicalkingdoms.com</li>
+<li> 18:37 www.google.com</li>
+<li> 18:37 www.reddit.com</li>
+<li> 18:37 <a href="https://www.bbc.co.uk/news/articles/crr0qq491z4o">Claire Chick: Man charged with murder of Plymouth university lecturer - BBC News</a></li>
+<li> 18:36 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:36 <a href="https://www.bbc.co.uk/news/articles/cj48571qq7vo">'I don't want to buy a £4 coffee just so I can use the loo' - BBC News</a></li>
+<li> 18:36 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:35 <a href="https://www.bbc.co.uk/news/articles/c0lz69ndnreo">Nick Cave tells Desert Island Discs work repelled him after sons' deaths - BBC News</a></li>
+<li> 18:34 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 18:34 blog.thermoworks.com</li>
 <li> 18:12 docs.google.com</li>
 </ul>
