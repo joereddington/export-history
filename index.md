@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2027)</li>
-<li>outlook.office365.com (1046)</li>
-<li>bsky.app (1040)</li>
+<ol><li>www.google.com (2033)</li>
+<li>outlook.office365.com (1047)</li>
+<li>bsky.app (1044)</li>
 <li>mail.google.com (923)</li>
-<li>outlook.office.com (898)</li>
-<li>docs.google.com (842)</li>
-<li>www.facebook.com (582)</li>
+<li>outlook.office.com (902)</li>
+<li>docs.google.com (850)</li>
+<li>www.facebook.com (583)</li>
 <li>rhul-my.sharepoint.com (298)</li>
-<li>chatgpt.com (290)</li>
-<li>www.reddit.com (286)</li>
+<li>chatgpt.com (292)</li>
+<li>www.reddit.com (288)</li>
 <li>www.amazon.co.uk (274)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
-<li>www.linkedin.com (250)</li>
-<li>calendar.google.com (249)</li>
+<li>calendar.google.com (251)</li>
+<li>www.linkedin.com (251)</li>
 <li>github.com (246)</li>
 <li>login.microsoftonline.com (233)</li>
 <li>fritz.box (201)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>discord.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
-<li>chat.openai.com (78)</li>
+<li>chat.openai.com (79)</li>
 <li>www.instagram.com (74)</li>
 
 
@@ -108,7 +108,52 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:21 www.google.com</li>
+<ul><li> 09:26 calendar.google.com</li>
+<li class='same'> 09:25 calendar.google.com</li>
+<li> 09:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 09:21 bsky.app</li>
+<li class='same'> 09:19 bsky.app</li>
+<li> 09:18 outlook.office.com</li>
+<li> 09:18 www.linkedin.com</li>
+<li> 09:17 bsky.app</li>
+<li> 09:17 outlook.office.com</li>
+<li> 09:15 www.reddit.com</li>
+<li> 09:13 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 09:12 docs.google.com</li>
+<li class='same'> 09:11 docs.google.com</li>
+<li class='same'> 09:10 docs.google.com</li>
+<li> 09:10 chatgpt.com</li>
+<li class='same'> 09:09 chatgpt.com</li>
+<li> 09:09 chat.openai.com</li>
+<li> 09:09 docs.google.com</li>
+<li class='same'> 09:08 docs.google.com</li>
+<li class='same'> 09:04 docs.google.com</li>
+<li> 09:02 www.royalholloway.ac.uk</li>
+<li> 09:02 www.google.com</li>
+<li> 09:00 outlook.office.com</li>
+<li> 09:00 outlook.office365.com</li>
+<li> 09:00 outlook.office.com</li>
+<li> 08:59 www.reddit.com</li>
+<li> 08:59 www.google.com</li>
+<li class='same'> 08:58 www.google.com</li>
+<li> 08:58 www.ucl.ac.uk</li>
+<li> 08:58 www.google.com</li>
+<li> 08:58 libbyapp.com</li>
+<li class='same'> 08:57 libbyapp.com</li>
+<li> 08:57 www.google.com</li>
+<li class='same'> 08:56 www.google.com</li>
+<li> 08:56 www.companyofcooks.com</li>
+<li class='same'> 08:55 www.companyofcooks.com</li>
+<li> 08:55 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:26 bsky.app</li>
+<li> 07:23 www.facebook.com</li>
+<li> 07:22 docs.google.com</li>
+<li class='same'> 07:21 docs.google.com</li>
+<li> 07:21 www.google.com</li>
 <li> 07:19 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 07:18 www.linkedin.com</li>
 <li> 07:18 www.facebook.com</li>
