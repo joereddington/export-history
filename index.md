@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2038)</li>
+<ol><li>www.google.com (2040)</li>
 <li>outlook.office365.com (1047)</li>
 <li>bsky.app (1044)</li>
 <li>mail.google.com (923)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (254)</li>
 <li>www.linkedin.com (251)</li>
-<li>github.com (247)</li>
+<li>github.com (248)</li>
 <li>login.microsoftonline.com (233)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (170)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:31 github.com</li>
+<ul><li> 11:54 <a href="https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size">List of Solar System objects by size - Wikipedia</a></li>
+<li> 11:54 www.google.com</li>
+<li> 11:53 <a href="https://en.wikipedia.org/wiki/Solar_System">Solar System - Wikipedia</a></li>
+<li> 11:53 www.google.com</li>
+<li> 11:52 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:32 github.com</li>
+<li class='same'> 11:31 github.com</li>
 <li> 11:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 11:24 www.amazon.co.uk</li>
 <li> 11:07 www.google.com</li>
