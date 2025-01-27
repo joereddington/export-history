@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (254)</li>
 <li>www.linkedin.com (251)</li>
-<li>github.com (246)</li>
+<li>github.com (247)</li>
 <li>login.microsoftonline.com (233)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (170)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 11:31 github.com</li>
+<li> 11:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 11:24 www.amazon.co.uk</li>
 <li> 11:07 www.google.com</li>
 <li class='same'> 11:06 www.google.com</li>
