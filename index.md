@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (858)</li>
 <li>www.facebook.com (583)</li>
 <li>rhul-my.sharepoint.com (298)</li>
-<li>chatgpt.com (292)</li>
+<li>chatgpt.com (293)</li>
 <li>www.reddit.com (289)</li>
 <li>www.amazon.co.uk (276)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>discord.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
+<li>chat.openai.com (80)</li>
 <li>fast.com (79)</li>
-<li>chat.openai.com (79)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:43 www.reddit.com</li>
+<ul><li> 10:48 chatgpt.com</li>
+<li> 10:48 chat.openai.com</li>
+<li> 10:43 www.reddit.com</li>
 <li> 10:43 www.google.com</li>
 <li> 10:39 docs.google.com</li>
 <li class='same'> 10:37 docs.google.com</li>
