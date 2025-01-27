@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (255)</li>
 <li>www.linkedin.com (251)</li>
-<li>github.com (248)</li>
+<li>github.com (250)</li>
 <li>login.microsoftonline.com (234)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (171)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 localhost:8000</li>
+<ul><li> 15:10 github.com</li>
+<li class='same'> 15:09 github.com</li>
+<li> 14:59 localhost:8000</li>
 <li> 14:57 www.w3schools.com</li>
 <li> 14:57 www.google.com</li>
 <li> 14:53 Local file</li>
