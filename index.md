@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2045)</li>
+<ol><li>www.google.com (2046)</li>
 <li>outlook.office365.com (1047)</li>
 <li>bsky.app (1045)</li>
 <li>mail.google.com (935)</li>
 <li>outlook.office.com (903)</li>
-<li>docs.google.com (865)</li>
+<li>docs.google.com (866)</li>
 <li>www.facebook.com (583)</li>
 <li>rhul-my.sharepoint.com (300)</li>
 <li>chatgpt.com (294)</li>
 <li>www.reddit.com (289)</li>
 <li>www.amazon.co.uk (277)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
-<li>calendar.google.com (254)</li>
+<li>calendar.google.com (255)</li>
 <li>www.linkedin.com (251)</li>
 <li>github.com (248)</li>
 <li>login.microsoftonline.com (234)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<ul><li> 13:54 docs.google.com</li>
+<li> 13:53 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:52 calendar.google.com</li>
+<li> 13:46 www.google.com</li>
+<li> 13:37 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 13:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:35 chatgpt.com</li>
 <li> 13:35 chat.openai.com</li>
