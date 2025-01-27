@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2047)</li>
+<ol><li>www.google.com (2049)</li>
 <li>outlook.office365.com (1047)</li>
 <li>bsky.app (1046)</li>
 <li>mail.google.com (943)</li>
 <li>outlook.office.com (903)</li>
-<li>docs.google.com (867)</li>
+<li>docs.google.com (869)</li>
 <li>www.facebook.com (583)</li>
 <li>rhul-my.sharepoint.com (300)</li>
-<li>chatgpt.com (295)</li>
+<li>chatgpt.com (297)</li>
 <li>www.reddit.com (289)</li>
 <li>www.amazon.co.uk (277)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>discord.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
-<li>chat.openai.com (82)</li>
+<li>chat.openai.com (83)</li>
 <li>fast.com (80)</li>
 
 
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:44 claude.ai</li>
+<ul><li> 14:59 localhost:8000</li>
+<li> 14:57 www.w3schools.com</li>
+<li> 14:57 www.google.com</li>
+<li> 14:53 Local file</li>
+<li> 14:51 docs.google.com</li>
+<li class='same'> 14:50 docs.google.com</li>
+<li> 14:50 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:48 Local file</li>
+<li> 14:46 chatgpt.com</li>
+<li> 14:45 <a href="https://en.wikipedia.org/wiki/List_of_the_most_common_passwords">List of the most common passwords - Wikipedia</a></li>
+<li> 14:45 www.google.com</li>
+<li> 14:44 chatgpt.com</li>
+<li> 14:44 chat.openai.com</li>
+<li> 14:44 claude.ai</li>
 <li> 14:32 bsky.app</li>
 <li> 14:32 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:21 mail.google.com</li>
