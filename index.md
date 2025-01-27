@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2033)</li>
+<ol><li>www.google.com (2034)</li>
 <li>outlook.office365.com (1047)</li>
 <li>bsky.app (1044)</li>
 <li>mail.google.com (923)</li>
 <li>outlook.office.com (902)</li>
-<li>docs.google.com (850)</li>
+<li>docs.google.com (851)</li>
 <li>www.facebook.com (583)</li>
 <li>rhul-my.sharepoint.com (298)</li>
 <li>chatgpt.com (292)</li>
 <li>www.reddit.com (288)</li>
-<li>www.amazon.co.uk (274)</li>
+<li>www.amazon.co.uk (276)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
-<li>calendar.google.com (251)</li>
+<li>calendar.google.com (253)</li>
 <li>www.linkedin.com (251)</li>
 <li>github.com (246)</li>
 <li>login.microsoftonline.com (233)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>discord.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
+<li>fast.com (79)</li>
 <li>chat.openai.com (79)</li>
-<li>www.instagram.com (74)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 27/01/25</H3>
+
+<br>
+
+<ul><li> 10:19 www.amazon.co.uk</li>
+<li class='same'> 10:18 www.amazon.co.uk</li>
+<li> 10:16 docs.google.com</li>
+<li> 10:09 www.google.com</li>
+<li> 10:02 fast.com</li>
+<li class='same'> 10:01 fast.com</li>
+<li class='same'> 10:00 fast.com</li>
+<li class='same'> 09:57 fast.com</li>
+<li class='same'> 09:56 fast.com</li>
+</ul>
 
 <br>
 
@@ -214,6 +227,8 @@ With number of accesses/minutes in parentheses
 <li> 19:43 www.google.com</li>
 <li> 19:43 docs.google.com</li>
 <li class='same'> 19:41 docs.google.com</li>
+<li> 19:31 www.independent.co.uk</li>
+<li class='same'> 19:30 www.independent.co.uk</li>
 <li> 19:29 www.theguardian.com</li>
 <li> 19:27 www.google.com</li>
 <li> 19:27 www.magicalkingdoms.com</li>
@@ -18916,6 +18931,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:13 accounts.google.com</li>
 <li> 16:13 calendar.google.com</li>
 <li class='same'> 16:09 calendar.google.com</li>
+<li class='same'> 16:08 calendar.google.com</li>
+<li class='same'> 16:07 calendar.google.com</li>
 <li class='same'> 16:06 calendar.google.com</li>
 <li> 16:04 www.amazon.co.uk</li>
 <li> 15:51 www.linkedin.com</li>
