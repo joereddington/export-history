@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2047)</li>
 <li>outlook.office365.com (1047)</li>
-<li>bsky.app (1045)</li>
-<li>mail.google.com (935)</li>
+<li>bsky.app (1046)</li>
+<li>mail.google.com (943)</li>
 <li>outlook.office.com (903)</li>
-<li>docs.google.com (866)</li>
+<li>docs.google.com (867)</li>
 <li>www.facebook.com (583)</li>
 <li>rhul-my.sharepoint.com (300)</li>
 <li>chatgpt.com (295)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:54 docs.google.com</li>
+<ul><li> 14:44 claude.ai</li>
+<li> 14:32 bsky.app</li>
+<li> 14:32 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:21 mail.google.com</li>
+<li class='same'> 14:20 mail.google.com</li>
+<li class='same'> 14:19 mail.google.com</li>
+<li> 14:19 shopify.com</li>
+<li> 14:18 mail.google.com</li>
+<li> 14:18 shopify.com</li>
+<li> 14:18 mail.google.com</li>
+<li class='same'> 14:17 mail.google.com</li>
+<li class='same'> 14:16 mail.google.com</li>
+<li> 14:16 gmail.com</li>
+<li> 14:14 web.whatsapp.com</li>
+<li> 14:05 www.natwest.com</li>
+<li> 13:59 www.onlinebanking.natwest.com</li>
+<li> 13:58 www.natwest.com</li>
+<li> 13:58 docs.google.com</li>
+<li class='same'> 13:54 docs.google.com</li>
 <li> 13:53 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 13:52 calendar.google.com</li>
 <li> 13:46 www.google.com</li>
@@ -17092,6 +17110,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:36 calendar.google.com</li>
 <li> 10:14 www.ebay.co.uk</li>
+<li> 10:11 mail.google.com</li>
 <li> 09:46 www.amazon.co.uk</li>
 <li> 09:42 calendar.google.com</li>
 <li> 09:38 claude.ai</li>
