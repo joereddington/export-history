@@ -73,10 +73,10 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1045)</li>
 <li>mail.google.com (935)</li>
 <li>outlook.office.com (903)</li>
-<li>docs.google.com (864)</li>
+<li>docs.google.com (865)</li>
 <li>www.facebook.com (583)</li>
 <li>rhul-my.sharepoint.com (300)</li>
-<li>chatgpt.com (293)</li>
+<li>chatgpt.com (294)</li>
 <li>www.reddit.com (289)</li>
 <li>www.amazon.co.uk (277)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>discord.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (83)</li>
-<li>chat.openai.com (80)</li>
-<li>fast.com (79)</li>
+<li>chat.openai.com (81)</li>
+<li>fast.com (80)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:20 docs.google.com</li>
+<ul><li> 13:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 13:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 13:35 chatgpt.com</li>
+<li> 13:35 chat.openai.com</li>
+<li> 13:34 0.0.0.0:8000</li>
+<li> 13:32 docs.google.com</li>
+<li> 13:31 fast.com</li>
+<li> 13:20 docs.google.com</li>
 <li class='same'> 13:19 docs.google.com</li>
 <li> 13:19 mail.google.com</li>
 <li> 13:19 docs.google.com</li>
