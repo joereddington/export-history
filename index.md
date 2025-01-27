@@ -71,10 +71,10 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2051)</li>
 <li>bsky.app (1048)</li>
 <li>outlook.office365.com (1048)</li>
-<li>mail.google.com (945)</li>
+<li>mail.google.com (949)</li>
 <li>outlook.office.com (918)</li>
 <li>docs.google.com (871)</li>
-<li>www.facebook.com (583)</li>
+<li>www.facebook.com (584)</li>
 <li>rhul-my.sharepoint.com (301)</li>
 <li>chatgpt.com (297)</li>
 <li>www.reddit.com (291)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:34 <a href="https://joereddington.com/reasdiary"></a></li>
+<ul><li> 16:50 mail.google.com</li>
+<li> 16:49 web.whatsapp.com</li>
+<li> 16:49 www.facebook.com</li>
+<li> 16:49 mail.google.com</li>
+<li> 16:49 gmail.com</li>
+<li> 16:49 mail.google.com</li>
+<li> 16:49 gmail.com</li>
+<li> 16:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:34 <a href="https://joereddington.com/reasdiary/?">Login</a></li>
+<li> 16:34 <a href="https://joereddington.com/reasdiary/">Login</a></li>
+<li> 16:34 <a href="https://joereddington.com/reasdiary"></a></li>
 <li> 16:34 joereddington.github.io</li>
 <li> 16:34 <a href="https://joereddington.com/raesdiary">Joe Reddington | Things I make.</a></li>
 <li> 16:34 joereddington.github.io</li>
@@ -120,6 +130,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:25 www.reddit.com</li>
 <li> 16:25 www.google.com</li>
 <li> 16:19 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:17 mail.google.com</li>
 <li> 16:16 bsky.app</li>
 <li> 16:16 mail.google.com</li>
 <li> 16:16 bsky.app</li>
