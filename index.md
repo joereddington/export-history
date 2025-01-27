@@ -71,9 +71,9 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2045)</li>
 <li>outlook.office365.com (1047)</li>
 <li>bsky.app (1045)</li>
-<li>mail.google.com (930)</li>
+<li>mail.google.com (935)</li>
 <li>outlook.office.com (903)</li>
-<li>docs.google.com (860)</li>
+<li>docs.google.com (864)</li>
 <li>www.facebook.com (583)</li>
 <li>rhul-my.sharepoint.com (300)</li>
 <li>chatgpt.com (293)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (170)</li>
 <li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (126)</li>
-<li>drive.google.com (116)</li>
+<li>drive.google.com (117)</li>
 <li>qbo.intuit.com (110)</li>
 <li>tvtropes.org (99)</li>
 <li>www.theguardian.com (97)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:14 mail.google.com</li>
+<ul><li> 13:20 docs.google.com</li>
+<li class='same'> 13:19 docs.google.com</li>
+<li> 13:19 mail.google.com</li>
+<li> 13:19 docs.google.com</li>
+<li class='same'> 13:18 docs.google.com</li>
+<li> 13:18 drive.google.com</li>
+<li> 13:18 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:18 mail.google.com</li>
+<li class='same'> 13:17 mail.google.com</li>
+<li class='same'> 13:16 mail.google.com</li>
+<li class='same'> 13:15 mail.google.com</li>
+<li class='same'> 13:14 mail.google.com</li>
 <li> 13:14 gmail.com</li>
 <li> 13:13 drive.google.com</li>
 <li> 13:13 docs.google.com</li>
