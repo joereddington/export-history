@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2051)</li>
+<ol><li>www.google.com (2054)</li>
 <li>bsky.app (1048)</li>
 <li>outlook.office365.com (1048)</li>
 <li>mail.google.com (949)</li>
 <li>outlook.office.com (918)</li>
-<li>docs.google.com (871)</li>
+<li>docs.google.com (876)</li>
 <li>www.facebook.com (584)</li>
 <li>rhul-my.sharepoint.com (301)</li>
-<li>chatgpt.com (297)</li>
+<li>chatgpt.com (299)</li>
 <li>www.reddit.com (291)</li>
 <li>www.amazon.co.uk (277)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
@@ -90,13 +90,13 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (134)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>qbo.intuit.com (110)</li>
-<li>tvtropes.org (99)</li>
+<li>tvtropes.org (102)</li>
 <li>www.theguardian.com (97)</li>
 <li>www.tesco.com (92)</li>
 <li>discord.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (84)</li>
-<li>chat.openai.com (83)</li>
+<li>chat.openai.com (84)</li>
 <li>fast.com (80)</li>
 
 
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 27/01/25</H3>
+
+<br>
+
+<ul><li> 21:12 tvtropes.org</li>
+<li class='same'> 21:11 tvtropes.org</li>
+<li class='same'> 21:06 tvtropes.org</li>
+<li> 21:06 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:58 www.ncbi.nlm.nih.gov</li>
+<li> 19:58 www.google.com</li>
+<li> 19:54 docs.google.com</li>
+<li class='same'> 19:53 docs.google.com</li>
+<li> 19:52 chatgpt.com</li>
+<li class='same'> 19:51 chatgpt.com</li>
+<li> 19:51 chat.openai.com</li>
+<li> 19:51 www.google.com</li>
+<li> 19:50 docs.google.com</li>
+<li class='same'> 19:49 docs.google.com</li>
+<li class='same'> 19:48 docs.google.com</li>
+</ul>
 
 <br>
 
