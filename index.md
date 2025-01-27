@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (277)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (256)</li>
-<li>github.com (251)</li>
+<li>github.com (252)</li>
 <li>www.linkedin.com (251)</li>
 <li>login.microsoftonline.com (235)</li>
 <li>fritz.box (201)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:29 github.com</li>
+<ul><li> 16:34 <a href="https://joereddington.com/reasdiary"></a></li>
+<li> 16:34 joereddington.github.io</li>
+<li> 16:34 <a href="https://joereddington.com/raesdiary">Joe Reddington | Things I make.</a></li>
+<li> 16:34 joereddington.github.io</li>
+<li> 16:34 <a href="http://joereddington.com/raesdiary"></a></li>
+<li> 16:33 github.com</li>
+<li> 16:33 equalitytime.github.io</li>
+<li> 16:29 github.com</li>
 <li> 16:26 www.reddit.com</li>
 <li class='same'> 16:25 www.reddit.com</li>
 <li> 16:25 www.google.com</li>
