@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2049)</li>
-<li>outlook.office365.com (1047)</li>
+<li>outlook.office365.com (1048)</li>
 <li>bsky.app (1046)</li>
 <li>mail.google.com (943)</li>
-<li>outlook.office.com (903)</li>
+<li>outlook.office.com (908)</li>
 <li>docs.google.com (869)</li>
 <li>www.facebook.com (583)</li>
 <li>rhul-my.sharepoint.com (300)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (289)</li>
 <li>www.amazon.co.uk (277)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
-<li>calendar.google.com (255)</li>
+<li>calendar.google.com (256)</li>
 <li>www.linkedin.com (251)</li>
 <li>github.com (250)</li>
 <li>login.microsoftonline.com (234)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:10 github.com</li>
+<ul><li> 15:16 outlook.office.com</li>
+<li class='same'> 15:15 outlook.office.com</li>
+<li class='same'> 15:14 outlook.office.com</li>
+<li> 15:13 calendar.google.com</li>
+<li> 15:13 outlook.office.com</li>
+<li> 15:13 outlook.office365.com</li>
+<li> 15:13 outlook.office.com</li>
+<li> 15:11 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:10 github.com</li>
 <li class='same'> 15:09 github.com</li>
 <li> 14:59 localhost:8000</li>
 <li> 14:57 www.w3schools.com</li>
