@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2040)</li>
+<ol><li>www.google.com (2045)</li>
 <li>outlook.office365.com (1047)</li>
-<li>bsky.app (1044)</li>
-<li>mail.google.com (923)</li>
-<li>outlook.office.com (902)</li>
-<li>docs.google.com (858)</li>
+<li>bsky.app (1045)</li>
+<li>mail.google.com (930)</li>
+<li>outlook.office.com (903)</li>
+<li>docs.google.com (860)</li>
 <li>www.facebook.com (583)</li>
-<li>rhul-my.sharepoint.com (298)</li>
+<li>rhul-my.sharepoint.com (300)</li>
 <li>chatgpt.com (293)</li>
 <li>www.reddit.com (289)</li>
 <li>www.amazon.co.uk (277)</li>
@@ -83,12 +83,12 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (254)</li>
 <li>www.linkedin.com (251)</li>
 <li>github.com (248)</li>
-<li>login.microsoftonline.com (233)</li>
+<li>login.microsoftonline.com (234)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (170)</li>
 <li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (126)</li>
-<li>drive.google.com (114)</li>
+<li>drive.google.com (116)</li>
 <li>qbo.intuit.com (110)</li>
 <li>tvtropes.org (99)</li>
 <li>www.theguardian.com (97)</li>
@@ -105,6 +105,42 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 27/01/25</H3>
+
+<br>
+
+<ul><li> 13:14 mail.google.com</li>
+<li> 13:14 gmail.com</li>
+<li> 13:13 drive.google.com</li>
+<li> 13:13 docs.google.com</li>
+<li class='same'> 13:12 docs.google.com</li>
+<li> 13:12 drive.google.com</li>
+<li> 13:12 rhul-my.sharepoint.com</li>
+<li> 13:12 login.microsoftonline.com</li>
+<li> 13:12 rhul-my.sharepoint.com</li>
+<li> 13:10 gorsehall.tameside.sch.uk</li>
+<li> 13:10 www.google.com</li>
+<li class='same'> 13:08 www.google.com</li>
+<li> 13:08 maps.google.com</li>
+<li> 13:08 www.google.com</li>
+<li> 13:07 www.shuttleworth.org</li>
+<li class='same'> 13:06 www.shuttleworth.org</li>
+<li> 13:06 www.google.com</li>
+<li> 12:51 mail.google.com</li>
+<li class='same'> 12:50 mail.google.com</li>
+<li> 12:50 gmail.com</li>
+<li> 12:50 mail.google.com</li>
+<li class='same'> 12:49 mail.google.com</li>
+<li> 12:48 www.google.com</li>
+<li> 12:47 bsky.app</li>
+<li> 12:47 web.whatsapp.com</li>
+<li> 12:46 www.queerliberationlibrary.org</li>
+<li> 12:46 mail.google.com</li>
+<li class='same'> 12:45 mail.google.com</li>
+<li> 12:45 gmail.com</li>
+<li> 12:45 web.whatsapp.com</li>
+<li> 12:43 outlook.office.com</li>
+<li> 12:43 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
 
 <br>
 
