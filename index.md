@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2026)</li>
-<li>outlook.office365.com (1045)</li>
-<li>bsky.app (1039)</li>
+<ol><li>www.google.com (2027)</li>
+<li>outlook.office365.com (1046)</li>
+<li>bsky.app (1040)</li>
 <li>mail.google.com (923)</li>
-<li>outlook.office.com (896)</li>
+<li>outlook.office.com (898)</li>
 <li>docs.google.com (842)</li>
-<li>www.facebook.com (579)</li>
+<li>www.facebook.com (582)</li>
 <li>rhul-my.sharepoint.com (298)</li>
 <li>chatgpt.com (290)</li>
 <li>www.reddit.com (286)</li>
 <li>www.amazon.co.uk (274)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
+<li>www.linkedin.com (250)</li>
 <li>calendar.google.com (249)</li>
-<li>www.linkedin.com (249)</li>
 <li>github.com (246)</li>
-<li>login.microsoftonline.com (232)</li>
+<li>login.microsoftonline.com (233)</li>
 <li>fritz.box (201)</li>
-<li>www.coursera.org (169)</li>
+<li>www.coursera.org (170)</li>
 <li>forms.office.com (138)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>drive.google.com (114)</li>
@@ -104,11 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 27/01/25</H3>
+
+<br>
+
+<ul><li> 07:21 www.google.com</li>
+<li> 07:19 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:18 www.linkedin.com</li>
+<li> 07:18 www.facebook.com</li>
+<li class='same'> 07:17 www.facebook.com</li>
+<li class='same'> 07:16 www.facebook.com</li>
+<li> 07:16 outlook.office.com</li>
+<li> 07:14 samcurry.net</li>
+<li> 07:14 www.coursera.org</li>
+<li> 07:13 outlook.office.com</li>
+<li> 07:13 outlook.office365.com</li>
+<li> 07:13 login.microsoftonline.com</li>
+<li> 07:09 bsky.app</li>
+</ul>
+
 <H3>Sunday, 26/01/25</H3>
 
 <br>
 
-<ul><li> 20:47 <a href="https://en.wikipedia.org/wiki/Kit_Culkin">Kit Culkin - Wikipedia</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 20:47 <a href="https://en.wikipedia.org/wiki/Kit_Culkin">Kit Culkin - Wikipedia</a></li>
 <li> 20:47 <a href="https://en.wikipedia.org/wiki/Macaulay_Culkin">Macaulay Culkin - Wikipedia</a></li>
 <li> 20:47 www.google.com</li>
 <li> 20:46 tvtropes.org</li>
