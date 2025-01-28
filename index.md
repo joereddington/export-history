@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2058)</li>
-<li>bsky.app (1052)</li>
-<li>outlook.office365.com (1051)</li>
-<li>mail.google.com (961)</li>
-<li>outlook.office.com (935)</li>
-<li>docs.google.com (883)</li>
+<ol><li>www.google.com (2065)</li>
+<li>bsky.app (1055)</li>
+<li>outlook.office365.com (1052)</li>
+<li>mail.google.com (974)</li>
+<li>outlook.office.com (941)</li>
+<li>docs.google.com (884)</li>
 <li>www.facebook.com (585)</li>
 <li>chatgpt.com (304)</li>
 <li>rhul-my.sharepoint.com (301)</li>
-<li>www.reddit.com (292)</li>
-<li>www.amazon.co.uk (277)</li>
+<li>www.reddit.com (296)</li>
+<li>www.amazon.co.uk (278)</li>
+<li>github.com (262)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
-<li>calendar.google.com (259)</li>
-<li>github.com (258)</li>
-<li>www.linkedin.com (253)</li>
-<li>login.microsoftonline.com (235)</li>
+<li>calendar.google.com (260)</li>
+<li>www.linkedin.com (255)</li>
+<li>login.microsoftonline.com (236)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (177)</li>
 <li>forms.office.com (138)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (86)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (84)</li>
-<li>fast.com (82)</li>
+<li>fast.com (83)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,57 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:49 mail.google.com</li>
+<ul><li> 11:54 www.google.com</li>
+<li> 11:53 bsky.app</li>
+<li class='same'> 11:51 bsky.app</li>
+<li class='same'> 11:50 bsky.app</li>
+<li> 11:49 www.linkedin.com</li>
+<li class='same'> 11:47 www.linkedin.com</li>
+<li> 11:45 outlook.office.com</li>
+<li> 11:28 web.whatsapp.com</li>
+<li> 11:24 github.com</li>
+<li> 11:24 outlook.office.com</li>
+<li class='same'> 11:23 outlook.office.com</li>
+<li> 11:23 outlook.office365.com</li>
+<li> 11:23 login.microsoftonline.com</li>
+<li> 11:21 kdpreports.amazon.com</li>
+<li> 11:21 kdp.amazon.com</li>
+<li> 11:21 docs.google.com</li>
+<li> 11:20 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:19 github.com</li>
+<li> 11:19 pay.ebay.co.uk</li>
+<li class='same'> 11:18 pay.ebay.co.uk</li>
+<li> 11:15 www.ebay.co.uk</li>
+<li> 11:15 www.screwfix.com</li>
+<li> 11:14 www.google.com</li>
+<li> 11:13 www.ebay.co.uk</li>
+<li> 11:12 www.reddit.com</li>
+<li> 11:12 www.google.com</li>
+<li> 11:11 www.hafele.co.uk</li>
+<li> 11:11 www.reddit.com</li>
+<li> 11:11 www.google.com</li>
+<li> 11:08 mail.google.com</li>
+<li class='same'> 11:07 mail.google.com</li>
+<li class='same'> 11:06 mail.google.com</li>
+<li> 11:05 fast.com</li>
+<li> 11:04 www.amazon.co.uk</li>
+<li> 11:04 www.google.com</li>
+<li> 11:02 www.reddit.com</li>
+<li> 11:02 www.google.com</li>
+<li> 11:01 www.reddit.com</li>
+<li> 11:01 www.google.com</li>
+<li> 11:00 github.com</li>
+<li class='same'> 10:59 github.com</li>
+<li> 10:59 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 10:59 mail.google.com</li>
+<li class='same'> 10:54 mail.google.com</li>
+<li> 10:54 equalitytime.github.io</li>
+<li> 10:54 mail.google.com</li>
+<li> 10:54 gmail.com</li>
+<li> 10:53 outlook.office.com</li>
+<li> 10:52 calendar.google.com</li>
+<li> 10:50 outlook.office.com</li>
+<li> 10:49 mail.google.com</li>
 <li> 10:49 gmail.com</li>
 <li> 10:49 accounts.google.com</li>
 <li> 10:49 gmail.com</li>
@@ -125,7 +175,9 @@ With number of accesses/minutes in parentheses
 <li> 10:15 chatgpt.com</li>
 <li> 10:15 www.google.com</li>
 <li> 10:11 docs.google.com</li>
-<li> 10:01 outlook.office.com</li>
+<li> 10:04 mail.google.com</li>
+<li> 10:03 outlook.office.com</li>
+<li class='same'> 10:01 outlook.office.com</li>
 <li class='same'> 10:00 outlook.office.com</li>
 <li> 09:57 localhost:8000</li>
 <li> 09:56 docs.google.com</li>
@@ -21804,7 +21856,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:05 artofmemory.com</li>
+<ul><li> 10:15 mail.google.com</li>
+<li> 10:05 artofmemory.com</li>
 <li> 09:50 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:21 moodle.royalholloway.ac.uk</li>
 </ul>
@@ -21814,6 +21867,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 17:05 mail.google.com</li>
+</ul>
 
 <br>
 
@@ -22024,6 +22082,13 @@ With number of accesses/minutes in parentheses
 <li> 11:22 www.amazon.co.uk</li>
 <li> 11:11 calendar.google.com</li>
 <li class='same'> 11:10 calendar.google.com</li>
+<li> 11:09 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:47 mail.google.com</li>
+<li class='same'> 07:39 mail.google.com</li>
 </ul>
 
 <H3>Monday, 13/05/24</H3>
@@ -22037,6 +22102,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 18:53 outlook.office.com</li>
 <li> 18:52 mail.google.com</li>
 <li> 18:48 www.amazon.co.uk</li>
+<li> 18:47 mail.google.com</li>
 </ul>
 
 <br>
