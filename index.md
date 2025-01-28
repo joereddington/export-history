@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2079)</li>
-<li>bsky.app (1080)</li>
+<li>bsky.app (1083)</li>
 <li>outlook.office365.com (1056)</li>
-<li>mail.google.com (988)</li>
+<li>mail.google.com (990)</li>
 <li>outlook.office.com (956)</li>
 <li>docs.google.com (904)</li>
-<li>www.facebook.com (602)</li>
+<li>www.facebook.com (603)</li>
 <li>www.amazon.co.uk (308)</li>
 <li>chatgpt.com (308)</li>
 <li>rhul-my.sharepoint.com (303)</li>
-<li>www.reddit.com (297)</li>
-<li>www.linkedin.com (266)</li>
+<li>www.reddit.com (299)</li>
+<li>www.linkedin.com (267)</li>
 <li>github.com (264)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (261)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (138)</li>
 <li>drive.google.com (136)</li>
 <li>ev.turnitinuk.com (126)</li>
+<li>tvtropes.org (116)</li>
 <li>qbo.intuit.com (110)</li>
-<li>tvtropes.org (107)</li>
 <li>www.theguardian.com (97)</li>
 <li>rhul.sharepoint.com (96)</li>
 <li>www.tesco.com (93)</li>
@@ -105,6 +105,35 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 28/01/25</H3>
+
+<br>
+
+<ul><li> 21:19 tvtropes.org</li>
+<li class='same'> 21:17 tvtropes.org</li>
+<li class='same'> 21:16 tvtropes.org</li>
+<li class='same'> 21:15 tvtropes.org</li>
+<li class='same'> 21:14 tvtropes.org</li>
+<li class='same'> 21:12 tvtropes.org</li>
+<li class='same'> 21:11 tvtropes.org</li>
+<li class='same'> 21:09 tvtropes.org</li>
+<li class='same'> 21:06 tvtropes.org</li>
+<li> 21:06 <a href="https://joereddington.com/2025/01/28/cliche.html">Cliche | Joe Reddington</a></li>
+<li> 21:06 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 21:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 21:04 bsky.app</li>
+<li> 21:04 web.whatsapp.com</li>
+<li> 21:03 www.reddit.com</li>
+<li class='same'> 21:02 www.reddit.com</li>
+<li> 21:02 duckduckgo.com</li>
+<li> 21:02 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 21:01 www.linkedin.com</li>
+<li> 21:01 feedly.com</li>
+<li> 21:00 www.facebook.com</li>
+<li> 21:00 bsky.app</li>
+<li class='same'> 20:59 bsky.app</li>
+<li> 20:59 mail.google.com</li>
+<li class='same'> 20:52 mail.google.com</li>
+</ul>
 
 <br>
 
