@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2055)</li>
+<ol><li>www.google.com (2056)</li>
 <li>bsky.app (1052)</li>
 <li>outlook.office365.com (1050)</li>
 <li>mail.google.com (958)</li>
@@ -81,8 +81,8 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (277)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (259)</li>
+<li>github.com (254)</li>
 <li>www.linkedin.com (253)</li>
-<li>github.com (252)</li>
 <li>login.microsoftonline.com (235)</li>
 <li>fritz.box (201)</li>
 <li>www.coursera.org (177)</li>
@@ -95,9 +95,9 @@ With number of accesses/minutes in parentheses
 <li>www.tesco.com (92)</li>
 <li>discord.com (91)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
+<li>chat.openai.com (85)</li>
 <li>rhul.sharepoint.com (84)</li>
-<li>chat.openai.com (84)</li>
-<li>fast.com (80)</li>
+<li>fast.com (82)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:50 www.natesilver.net</li>
+<ul><li> 09:44 chat.openai.com</li>
+<li> 09:35 localhost:8000</li>
+<li> 09:34 fast.com</li>
+<li> 09:33 github.com</li>
+<li> 09:33 fast.com</li>
+<li> 09:31 github.com</li>
+<li> 09:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li> 08:10 candlewineproject.wordpress.com</li>
+<li class='same'> 08:09 candlewineproject.wordpress.com</li>
+<li> 08:09 www.google.com</li>
+<li> 07:50 www.natesilver.net</li>
 <li> 07:50 feedly.com</li>
 <li> 07:49 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 07:47 docs.google.com</li>
