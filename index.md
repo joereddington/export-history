@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2054)</li>
-<li>bsky.app (1048)</li>
-<li>outlook.office365.com (1048)</li>
-<li>mail.google.com (949)</li>
-<li>outlook.office.com (918)</li>
-<li>docs.google.com (876)</li>
-<li>www.facebook.com (584)</li>
+<ol><li>www.google.com (2055)</li>
+<li>bsky.app (1052)</li>
+<li>outlook.office365.com (1050)</li>
+<li>mail.google.com (958)</li>
+<li>outlook.office.com (931)</li>
+<li>docs.google.com (879)</li>
+<li>www.facebook.com (585)</li>
 <li>rhul-my.sharepoint.com (301)</li>
 <li>chatgpt.com (299)</li>
-<li>www.reddit.com (291)</li>
+<li>www.reddit.com (292)</li>
 <li>www.amazon.co.uk (277)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
-<li>calendar.google.com (256)</li>
+<li>calendar.google.com (259)</li>
+<li>www.linkedin.com (253)</li>
 <li>github.com (252)</li>
-<li>www.linkedin.com (251)</li>
 <li>login.microsoftonline.com (235)</li>
 <li>fritz.box (201)</li>
-<li>www.coursera.org (174)</li>
+<li>www.coursera.org (177)</li>
 <li>forms.office.com (138)</li>
 <li>drive.google.com (134)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>qbo.intuit.com (110)</li>
-<li>tvtropes.org (102)</li>
+<li>tvtropes.org (106)</li>
 <li>www.theguardian.com (97)</li>
 <li>www.tesco.com (92)</li>
 <li>discord.com (91)</li>
@@ -104,14 +104,76 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 28/01/25</H3>
+
+<br>
+
+<ul><li> 07:50 www.natesilver.net</li>
+<li> 07:50 feedly.com</li>
+<li> 07:49 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:47 docs.google.com</li>
+<li class='same'> 07:46 docs.google.com</li>
+<li class='same'> 07:45 docs.google.com</li>
+<li> 07:42 outlook.office.com</li>
+<li class='same'> 07:27 outlook.office.com</li>
+<li> 07:26 calendar.google.com</li>
+<li> 07:21 outlook.office.com</li>
+<li class='same'> 07:20 outlook.office.com</li>
+<li class='same'> 07:19 outlook.office.com</li>
+<li class='same'> 07:18 outlook.office.com</li>
+<li> 07:17 calendar.google.com</li>
+<li> 07:17 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:16 outlook.office.com</li>
+<li class='same'> 07:15 outlook.office.com</li>
+<li> 07:15 outlook.office365.com</li>
+<li> 07:15 outlook.office.com</li>
+<li> 07:14 mail.google.com</li>
+<li> 07:14 calendar.google.com</li>
+<li> 07:13 www.google.com</li>
+<li> 07:12 mail.google.com</li>
+<li class='same'> 07:11 mail.google.com</li>
+<li class='same'> 07:10 mail.google.com</li>
+<li class='same'> 07:09 mail.google.com</li>
+<li> 07:06 www.linkedin.com</li>
+<li class='same'> 07:05 www.linkedin.com</li>
+<li> 07:05 mail.google.com</li>
+<li> 07:05 gmail.com</li>
+<li> 07:05 web.whatsapp.com</li>
+<li> 07:01 www.reddit.com</li>
+<li> 07:01 outlook.office.com</li>
+<li> 07:00 www.coursera.org</li>
+<li class='same'> 06:59 www.coursera.org</li>
+<li class='same'> 06:58 www.coursera.org</li>
+<li> 06:58 mail.google.com</li>
+<li> 06:58 outlook.office.com</li>
+<li class='same'> 06:57 outlook.office.com</li>
+<li> 06:57 bsky.app</li>
+<li class='same'> 06:56 bsky.app</li>
+<li> 06:56 outlook.office365.com</li>
+<li> 06:56 outlook.office.com</li>
+<li> 06:56 bsky.app</li>
+</ul>
+
 <H3>Monday, 27/01/25</H3>
 
 <br>
 
-<ul><li> 21:12 tvtropes.org</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:23 tvtropes.org</li>
+<li class='same'> 21:20 tvtropes.org</li>
+<li class='same'> 21:16 tvtropes.org</li>
+<li class='same'> 21:15 tvtropes.org</li>
+<li class='same'> 21:12 tvtropes.org</li>
 <li class='same'> 21:11 tvtropes.org</li>
 <li class='same'> 21:06 tvtropes.org</li>
 <li> 21:06 www.google.com</li>
+<li> 20:50 mail.google.com</li>
+<li> 20:48 www.facebook.com</li>
+<li> 20:48 bsky.app</li>
+<li> 20:48 mail.google.com</li>
 </ul>
 
 <br>
