@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2056)</li>
+<ol><li>www.google.com (2058)</li>
 <li>bsky.app (1052)</li>
-<li>outlook.office365.com (1050)</li>
-<li>mail.google.com (958)</li>
-<li>outlook.office.com (931)</li>
-<li>docs.google.com (882)</li>
+<li>outlook.office365.com (1051)</li>
+<li>mail.google.com (960)</li>
+<li>outlook.office.com (935)</li>
+<li>docs.google.com (883)</li>
 <li>www.facebook.com (585)</li>
-<li>chatgpt.com (302)</li>
+<li>chatgpt.com (304)</li>
 <li>rhul-my.sharepoint.com (301)</li>
 <li>www.reddit.com (292)</li>
 <li>www.amazon.co.uk (277)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (259)</li>
-<li>github.com (256)</li>
+<li>github.com (258)</li>
 <li>www.linkedin.com (253)</li>
 <li>login.microsoftonline.com (235)</li>
 <li>fritz.box (201)</li>
@@ -94,8 +94,8 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (97)</li>
 <li>www.tesco.com (92)</li>
 <li>discord.com (91)</li>
+<li>chat.openai.com (86)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
-<li>chat.openai.com (85)</li>
 <li>rhul.sharepoint.com (84)</li>
 <li>fast.com (82)</li>
 
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:57 localhost:8000</li>
+<ul><li> 10:25 www.google.com</li>
+<li> 10:22 localhost:8000</li>
+<li class='same'> 10:21 localhost:8000</li>
+<li class='same'> 10:20 localhost:8000</li>
+<li> 10:18 chatgpt.com</li>
+<li> 10:18 chat.openai.com</li>
+<li> 10:17 github.com</li>
+<li> 10:15 chatgpt.com</li>
+<li> 10:15 www.google.com</li>
+<li> 10:11 docs.google.com</li>
+<li> 10:01 outlook.office.com</li>
+<li class='same'> 10:00 outlook.office.com</li>
+<li> 09:57 localhost:8000</li>
 <li> 09:56 docs.google.com</li>
 <li class='same'> 09:55 docs.google.com</li>
 <li class='same'> 09:53 docs.google.com</li>
@@ -119,6 +131,16 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:45 chatgpt.com</li>
 <li class='same'> 09:44 chatgpt.com</li>
 <li> 09:44 chat.openai.com</li>
+<li> 09:44 mail.google.com</li>
+<li class='same'> 09:43 mail.google.com</li>
+<li> 09:42 unit42.paloaltonetworks.com</li>
+<li> 09:41 feedproxy.google.com</li>
+<li> 09:40 github.com</li>
+<li> 09:40 hackaday.com</li>
+<li> 09:39 feedly.com</li>
+<li> 09:39 outlook.office.com</li>
+<li> 09:39 outlook.office365.com</li>
+<li> 09:39 outlook.office.com</li>
 <li> 09:35 localhost:8000</li>
 <li> 09:34 fast.com</li>
 <li> 09:33 github.com</li>
@@ -132,6 +154,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:10 candlewineproject.wordpress.com</li>
 <li class='same'> 08:09 candlewineproject.wordpress.com</li>
 <li> 08:09 www.google.com</li>
+<li> 07:51 feedly.com</li>
 <li> 07:50 www.natesilver.net</li>
 <li> 07:50 feedly.com</li>
 <li> 07:49 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
