@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2077)</li>
+<ol><li>www.google.com (2078)</li>
 <li>bsky.app (1078)</li>
 <li>outlook.office365.com (1056)</li>
-<li>mail.google.com (984)</li>
+<li>mail.google.com (986)</li>
 <li>outlook.office.com (956)</li>
-<li>docs.google.com (901)</li>
+<li>docs.google.com (903)</li>
 <li>www.facebook.com (600)</li>
+<li>www.amazon.co.uk (308)</li>
 <li>chatgpt.com (308)</li>
 <li>rhul-my.sharepoint.com (303)</li>
 <li>www.reddit.com (297)</li>
-<li>www.amazon.co.uk (279)</li>
 <li>github.com (264)</li>
 <li>www.linkedin.com (264)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
@@ -93,10 +93,10 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (107)</li>
 <li>www.theguardian.com (97)</li>
 <li>rhul.sharepoint.com (96)</li>
-<li>www.tesco.com (92)</li>
+<li>www.tesco.com (93)</li>
 <li>discord.com (91)</li>
 <li>chat.openai.com (89)</li>
-<li>fast.com (86)</li>
+<li>fast.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 
 
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:24 www.pcspecialist.co.uk</li>
+<ul><li> 19:35 docs.google.com</li>
+<li> 19:35 www.tesco.com</li>
+<li> 19:34 docs.google.com</li>
+<li> 19:34 mail.google.com</li>
+<li> 19:28 us06web.zoom.us</li>
+<li> 19:28 www.google.com</li>
+<li> 19:28 us06web.zoom.us</li>
+<li> 19:28 mail.google.com</li>
+<li> 19:28 gmail.com</li>
+<li> 19:28 www.amazon.co.uk</li>
+<li class='same'> 19:27 www.amazon.co.uk</li>
+<li class='same'> 19:26 www.amazon.co.uk</li>
+<li> 19:26 duckduckgo.com</li>
+<li> 19:24 www.pcspecialist.co.uk</li>
 <li class='same'> 19:23 www.pcspecialist.co.uk</li>
 <li> 19:23 www.google.com</li>
 <li> 19:22 <a href="https://en.wikipedia.org/wiki/IEEE_802.11">IEEE 802.11 - Wikipedia</a></li>
@@ -117,7 +130,8 @@ With number of accesses/minutes in parentheses
 <li> 19:22 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
 <li> 19:22 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:22 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 19:20 fast.com</li>
+<li> 19:21 fast.com</li>
+<li class='same'> 19:20 fast.com</li>
 <li> 19:15 chatgpt.com</li>
 <li> 19:15 chat.openai.com</li>
 <li> 19:14 duckduckgo.com</li>
@@ -16494,7 +16508,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:48 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
+<ul><li> 16:55 www.amazon.co.uk</li>
+<li> 16:48 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
 <li> 16:47 docs.google.com</li>
 <li> 16:36 qbo.intuit.com</li>
 <li class='same'> 16:31 qbo.intuit.com</li>
@@ -18982,7 +18997,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:36 calendar.google.com</li>
 <li> 10:29 www.ebay.co.uk</li>
-<li> 10:25 www.amazon.co.uk</li>
+<li> 10:27 www.amazon.co.uk</li>
+<li class='same'> 10:25 www.amazon.co.uk</li>
 <li class='same'> 10:23 www.amazon.co.uk</li>
 <li> 10:21 kdp.amazon.com</li>
 <li> 10:19 kdpreports.amazon.com</li>
@@ -19588,7 +19604,8 @@ With number of accesses/minutes in parentheses
 <li> 11:27 accounts.intuit.com</li>
 <li> 10:58 moodle2324.royalholloway.ac.uk</li>
 <li> 10:33 mail.google.com</li>
-<li> 10:30 www.amazon.co.uk</li>
+<li> 10:31 www.amazon.co.uk</li>
+<li class='same'> 10:30 www.amazon.co.uk</li>
 <li> 10:26 qbo.intuit.com</li>
 <li class='same'> 10:24 qbo.intuit.com</li>
 <li class='same'> 10:21 qbo.intuit.com</li>
@@ -20753,8 +20770,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:43 claude.ai</li>
-<li> 10:17 www.amazon.co.uk</li>
+<li> 10:20 www.amazon.co.uk</li>
+<li class='same'> 10:18 www.amazon.co.uk</li>
+<li class='same'> 10:17 www.amazon.co.uk</li>
+<li class='same'> 10:16 www.amazon.co.uk</li>
 <li class='same'> 10:14 www.amazon.co.uk</li>
+<li class='same'> 10:13 www.amazon.co.uk</li>
+<li class='same'> 10:12 www.amazon.co.uk</li>
 <li class='same'> 10:10 www.amazon.co.uk</li>
 </ul>
 
@@ -21334,6 +21356,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:35 www.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 07:30 www.amazon.co.uk</li>
+</ul>
+
 <H3>Saturday, 22/06/24</H3>
 
 <br>
@@ -21807,11 +21834,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:53 whitewaterwriters.com</li>
+<li> 13:48 www.amazon.co.uk</li>
+<li class='same'> 13:47 www.amazon.co.uk</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 13:01 whitewaterwriters.com</li>
+<ul><li> 13:01 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -22476,11 +22505,9 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:37 outlook.office.com</li>
 <li class='same'> 12:35 outlook.office.com</li>
 <li class='same'> 12:33 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 11:58 outlook.office.com</li>
+<li> 12:14 www.amazon.co.uk</li>
+<li class='same'> 12:13 www.amazon.co.uk</li>
+<li> 11:58 outlook.office.com</li>
 <li> 11:56 docs.google.com</li>
 <li> 11:48 outlook.office.com</li>
 </ul>
@@ -23310,6 +23337,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:01 docs.google.com</li>
 <li> 09:00 github.com</li>
 <li> 08:41 theopenvoicefactory.org</li>
+<li> 08:35 www.amazon.co.uk</li>
+<li class='same'> 08:34 www.amazon.co.uk</li>
 </ul>
 
 <H3>Wednesday, 10/04/24</H3>
@@ -23376,7 +23405,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:04 www.amazon.co.uk</li>
+<ul><li> 13:07 www.amazon.co.uk</li>
+<li class='same'> 13:06 www.amazon.co.uk</li>
+<li class='same'> 13:04 www.amazon.co.uk</li>
+<li class='same'> 13:01 www.amazon.co.uk</li>
 <li> 12:48 www.nestpensions.org.uk</li>
 </ul>
 
@@ -23752,7 +23784,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:56 <a href="https://joereddington.com/2024/03/20/exploiting-electric-blinds.html">Exploiting electric blinds | Joe Reddington</a></li>
+<ul><li> 07:06 www.amazon.co.uk</li>
+<li> 06:56 <a href="https://joereddington.com/2024/03/20/exploiting-electric-blinds.html">Exploiting electric blinds | Joe Reddington</a></li>
 </ul>
 
 <H3>Friday, 22/03/24</H3>
@@ -24158,6 +24191,11 @@ With number of accesses/minutes in parentheses
 <li> 10:59 moodle.royalholloway.ac.uk</li>
 </ul>
 
+<br>
+
+<ul><li> 07:23 www.amazon.co.uk</li>
+</ul>
+
 <H3>Saturday, 09/03/24</H3>
 
 <br>
@@ -24280,6 +24318,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:37 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:54 www.amazon.co.uk</li>
 </ul>
 
 <br>
@@ -24755,13 +24798,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:41 www.amazon.co.uk</li>
+<ul><li> 12:42 www.amazon.co.uk</li>
+<li class='same'> 12:41 www.amazon.co.uk</li>
 <li> 12:34 twitter.com</li>
 </ul>
 
 <br>
 
 <ul><li> 11:39 www.google.com</li>
+<li> 11:39 www.amazon.co.uk</li>
 </ul>
 
 <br>
@@ -24790,6 +24835,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:42 eu-west-2.console.aws.amazon.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:12 www.amazon.co.uk</li>
+<li class='same'> 12:05 www.amazon.co.uk</li>
 </ul>
 
 <br>
@@ -24858,6 +24909,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:48 www.royalholloway.ac.uk</li>
 <li> 06:46 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:10 www.amazon.co.uk</li>
 </ul>
 
 <H3>Thursday, 08/02/24</H3>
