@@ -73,15 +73,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1050)</li>
 <li>mail.google.com (958)</li>
 <li>outlook.office.com (931)</li>
-<li>docs.google.com (879)</li>
+<li>docs.google.com (882)</li>
 <li>www.facebook.com (585)</li>
+<li>chatgpt.com (302)</li>
 <li>rhul-my.sharepoint.com (301)</li>
-<li>chatgpt.com (299)</li>
 <li>www.reddit.com (292)</li>
 <li>www.amazon.co.uk (277)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (259)</li>
-<li>github.com (254)</li>
+<li>github.com (256)</li>
 <li>www.linkedin.com (253)</li>
 <li>login.microsoftonline.com (235)</li>
 <li>fritz.box (201)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:44 chat.openai.com</li>
+<ul><li> 09:57 localhost:8000</li>
+<li> 09:56 docs.google.com</li>
+<li class='same'> 09:55 docs.google.com</li>
+<li class='same'> 09:53 docs.google.com</li>
+<li> 09:53 <a href="https://joereddington.com/reasdiary/?">Login</a></li>
+<li> 09:53 github.com</li>
+<li class='same'> 09:52 github.com</li>
+<li> 09:46 chatgpt.com</li>
+<li class='same'> 09:45 chatgpt.com</li>
+<li class='same'> 09:44 chatgpt.com</li>
+<li> 09:44 chat.openai.com</li>
 <li> 09:35 localhost:8000</li>
 <li> 09:34 fast.com</li>
 <li> 09:33 github.com</li>
