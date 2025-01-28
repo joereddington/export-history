@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2075)</li>
 <li>bsky.app (1065)</li>
-<li>outlook.office365.com (1053)</li>
+<li>outlook.office365.com (1054)</li>
 <li>mail.google.com (982)</li>
-<li>outlook.office.com (948)</li>
-<li>docs.google.com (889)</li>
+<li>outlook.office.com (950)</li>
+<li>docs.google.com (893)</li>
 <li>www.facebook.com (587)</li>
 <li>chatgpt.com (305)</li>
 <li>rhul-my.sharepoint.com (301)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (84)</li>
-<li>fast.com (83)</li>
+<li>web.whatsapp.com (84)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:36 docs.google.com</li>
+<ul><li> 14:37 web.whatsapp.com</li>
+<li> 14:31 www.gov.uk</li>
+<li> 14:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:29 outlook.office.com</li>
+<li> 14:29 outlook.office365.com</li>
+<li> 14:29 outlook.office.com</li>
+<li> 14:03 <a href="https://en.wikipedia.org/wiki/Baby_carrot">Baby carrot - Wikipedia</a></li>
+<li> 14:03 duckduckgo.com</li>
+<li> 13:55 web.whatsapp.com</li>
+<li> 13:52 docs.google.com</li>
+<li class='same'> 13:50 docs.google.com</li>
+<li class='same'> 13:49 docs.google.com</li>
+<li class='same'> 13:48 docs.google.com</li>
+<li> 13:41 bulbapedia.bulbagarden.net</li>
+<li class='same'> 13:40 bulbapedia.bulbagarden.net</li>
+<li> 13:40 duckduckgo.com</li>
+<li> 13:36 docs.google.com</li>
 <li> 13:36 addons.mozilla.org</li>
 <li class='same'> 13:35 addons.mozilla.org</li>
 <li> 13:35 duckduckgo.com</li>
