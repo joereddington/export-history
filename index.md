@@ -71,15 +71,15 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2073)</li>
 <li>bsky.app (1065)</li>
 <li>outlook.office365.com (1053)</li>
-<li>mail.google.com (975)</li>
+<li>mail.google.com (978)</li>
 <li>outlook.office.com (947)</li>
 <li>docs.google.com (888)</li>
 <li>www.facebook.com (587)</li>
-<li>chatgpt.com (304)</li>
+<li>chatgpt.com (305)</li>
 <li>rhul-my.sharepoint.com (301)</li>
 <li>www.reddit.com (297)</li>
-<li>www.amazon.co.uk (278)</li>
-<li>github.com (262)</li>
+<li>www.amazon.co.uk (279)</li>
+<li>github.com (264)</li>
 <li>moodle.royalholloway.ac.uk (262)</li>
 <li>calendar.google.com (260)</li>
 <li>www.linkedin.com (259)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (97)</li>
 <li>www.tesco.com (92)</li>
 <li>discord.com (91)</li>
-<li>chat.openai.com (86)</li>
+<li>chat.openai.com (87)</li>
 <li>gitlab.cim.rhul.ac.uk (85)</li>
 <li>rhul.sharepoint.com (84)</li>
 <li>fast.com (83)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 13:23 whitewaterwriters.com</li>
+<li> 13:22 accounts.firefox.com</li>
+<li class='same'> 13:20 accounts.firefox.com</li>
+<li> 13:20 mail.google.com</li>
+<li> 13:20 gmail.com</li>
+<li> 13:20 accounts.google.com</li>
+<li> 13:20 gmail.com</li>
+<li> 13:20 mail.google.com</li>
+<li> 13:20 gmail.com</li>
+<li> 13:20 accounts.google.com</li>
+<li> 13:20 gmail.com</li>
+<li> 13:19 localhost:7000</li>
+<li> 13:13 chatgpt.com</li>
+<li> 13:13 chat.openai.com</li>
+<li> 13:10 github.com</li>
+<li class='same'> 13:09 github.com</li>
+<li> 13:07 mail.google.com</li>
+<li> 13:07 gmail.com</li>
+<li> 13:07 www.vinted.co.uk</li>
+<li> 13:04 www.amazon.co.uk</li>
+<li> 13:02 librarysearch.royalholloway.ac.uk</li>
+<li> 12:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:56 mail.google.com</li>
 <li> 12:56 gmail.com</li>
 <li> 12:54 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
