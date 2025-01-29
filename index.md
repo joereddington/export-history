@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1061)</li>
 <li>mail.google.com (1020)</li>
-<li>outlook.office.com (977)</li>
-<li>docs.google.com (913)</li>
+<li>outlook.office.com (980)</li>
+<li>docs.google.com (916)</li>
 <li>www.facebook.com (626)</li>
-<li>www.reddit.com (330)</li>
+<li>www.reddit.com (337)</li>
 <li>www.amazon.co.uk (325)</li>
+<li>chatgpt.com (313)</li>
 <li>rhul-my.sharepoint.com (312)</li>
-<li>chatgpt.com (312)</li>
 <li>www.linkedin.com (274)</li>
 <li>moodle.royalholloway.ac.uk (268)</li>
 <li>github.com (266)</li>
@@ -93,8 +93,8 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (110)</li>
 <li>www.theguardian.com (98)</li>
 <li>rhul.sharepoint.com (96)</li>
+<li>chat.openai.com (93)</li>
 <li>www.tesco.com (93)</li>
-<li>chat.openai.com (92)</li>
 <li>discord.com (91)</li>
 <li>web.whatsapp.com (91)</li>
 <li>gmail.com (90)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 29/01/25</H3>
+
+<br>
+
+<ul><li> 16:24 chatgpt.com</li>
+<li> 16:24 chat.openai.com</li>
+<li> 16:18 outlook.office.com</li>
+<li> 16:18 duckduckgo.com</li>
+<li> 16:16 www.reddit.com</li>
+<li class='same'> 16:15 www.reddit.com</li>
+<li> 16:15 duckduckgo.com</li>
+<li> 16:13 www.reddit.com</li>
+<li class='same'> 16:11 www.reddit.com</li>
+<li class='same'> 16:10 www.reddit.com</li>
+<li class='same'> 16:09 www.reddit.com</li>
+<li class='same'> 16:07 www.reddit.com</li>
+<li> 16:07 duckduckgo.com</li>
+<li> 16:06 docs.google.com</li>
+<li class='same'> 16:05 docs.google.com</li>
+<li class='same'> 16:01 docs.google.com</li>
+<li> 16:01 outlook.office.com</li>
+<li class='same'> 16:00 outlook.office.com</li>
+</ul>
 
 <br>
 
