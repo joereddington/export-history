@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2091)</li>
+<ol><li>www.google.com (2092)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office365.com (1061)</li>
-<li>mail.google.com (1020)</li>
-<li>outlook.office.com (980)</li>
-<li>docs.google.com (916)</li>
-<li>www.facebook.com (626)</li>
-<li>www.reddit.com (337)</li>
+<li>outlook.office365.com (1062)</li>
+<li>mail.google.com (1026)</li>
+<li>outlook.office.com (982)</li>
+<li>docs.google.com (926)</li>
+<li>www.facebook.com (628)</li>
+<li>www.reddit.com (339)</li>
 <li>www.amazon.co.uk (325)</li>
 <li>chatgpt.com (313)</li>
 <li>rhul-my.sharepoint.com (312)</li>
-<li>www.linkedin.com (274)</li>
+<li>www.linkedin.com (275)</li>
+<li>github.com (268)</li>
 <li>moodle.royalholloway.ac.uk (268)</li>
-<li>github.com (266)</li>
 <li>calendar.google.com (262)</li>
 <li>login.microsoftonline.com (241)</li>
-<li>fritz.box (207)</li>
+<li>fritz.box (208)</li>
 <li>www.coursera.org (177)</li>
 <li>forms.office.com (143)</li>
 <li>drive.google.com (136)</li>
@@ -93,11 +93,11 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (110)</li>
 <li>www.theguardian.com (98)</li>
 <li>rhul.sharepoint.com (96)</li>
+<li>www.tesco.com (95)</li>
 <li>chat.openai.com (93)</li>
-<li>www.tesco.com (93)</li>
 <li>discord.com (91)</li>
+<li>gmail.com (91)</li>
 <li>web.whatsapp.com (91)</li>
-<li>gmail.com (90)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:24 chatgpt.com</li>
+<ul><li> 18:43 docs.google.com</li>
+<li class='same'> 18:40 docs.google.com</li>
+<li class='same'> 18:39 docs.google.com</li>
+<li class='same'> 18:38 docs.google.com</li>
+<li class='same'> 18:37 docs.google.com</li>
+<li class='same'> 18:36 docs.google.com</li>
+<li> 18:35 www.tesco.com</li>
+<li> 18:35 www.google.com</li>
+<li> 18:35 docs.google.com</li>
+<li> 18:34 www.tesco.com</li>
+<li> 18:33 docs.google.com</li>
+<li> 18:33 mail.google.com</li>
+<li> 18:33 outlook.office.com</li>
+<li class='same'> 18:32 outlook.office.com</li>
+<li> 18:32 mail.google.com</li>
+<li class='same'> 18:31 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:57 www.linkedin.com</li>
+<li> 16:57 mail.google.com</li>
+<li class='same'> 16:37 mail.google.com</li>
+<li class='same'> 16:36 mail.google.com</li>
+<li> 16:36 gmail.com</li>
+<li> 16:36 outlook.office365.com</li>
+<li> 16:35 docs.google.com</li>
+<li class='same'> 16:34 docs.google.com</li>
+<li> 16:34 www.reddit.com</li>
+<li> 16:33 github.com</li>
+<li class='same'> 16:32 github.com</li>
+<li> 16:32 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:31 duckduckgo.com</li>
+<li> 16:24 chatgpt.com</li>
 <li> 16:24 chat.openai.com</li>
 <li> 16:18 outlook.office.com</li>
 <li> 16:18 duckduckgo.com</li>
@@ -210,11 +243,12 @@ With number of accesses/minutes in parentheses
 <li> 12:21 outlook.office365.com</li>
 <li> 12:21 outlook.office.com</li>
 <li> 12:20 www.linkedin.com</li>
+<li> 12:11 fritz.box</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 10:49 www.linkedin.com</li>
+<ul><li> 10:49 www.linkedin.com</li>
 <li> 10:48 thecyberscheme.org</li>
 <li> 10:48 duckduckgo.com</li>
 <li class='same'> 10:47 duckduckgo.com</li>
@@ -23582,7 +23616,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:59 projects.cs.rhul.ac.uk</li>
 <li> 10:48 mail.google.com</li>
-<li class='same'> 10:40 mail.google.com</li>
+<li> 10:48 www.facebook.com</li>
+<li> 10:40 mail.google.com</li>
 <li class='same'> 10:39 mail.google.com</li>
 <li class='same'> 10:38 mail.google.com</li>
 <li class='same'> 10:37 mail.google.com</li>
@@ -23863,11 +23898,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 22:08 www.buzzfeed.com</li>
-</ul>
-
-<br>
-
-<ul><li> 21:27 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
+<li> 21:41 www.facebook.com</li>
+<li> 21:27 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
 </ul>
 
 <br>
@@ -27949,6 +27981,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:41 github.com</li>
 <li> 07:34 www.tightrope.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 06:23 www.reddit.com</li>
 </ul>
 
 <H3>Monday, 18/09/23</H3>
