@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2091)</li>
-<li>bsky.app (1089)</li>
-<li>outlook.office365.com (1059)</li>
-<li>mail.google.com (1000)</li>
-<li>outlook.office.com (963)</li>
-<li>docs.google.com (905)</li>
-<li>www.facebook.com (605)</li>
-<li>www.reddit.com (327)</li>
+<li>bsky.app (1091)</li>
+<li>outlook.office365.com (1060)</li>
+<li>mail.google.com (1020)</li>
+<li>outlook.office.com (967)</li>
+<li>docs.google.com (912)</li>
+<li>www.facebook.com (626)</li>
+<li>www.reddit.com (329)</li>
 <li>www.amazon.co.uk (325)</li>
-<li>chatgpt.com (309)</li>
+<li>chatgpt.com (312)</li>
 <li>rhul-my.sharepoint.com (303)</li>
-<li>www.linkedin.com (271)</li>
+<li>www.linkedin.com (274)</li>
 <li>moodle.royalholloway.ac.uk (268)</li>
 <li>github.com (265)</li>
 <li>calendar.google.com (262)</li>
@@ -94,10 +94,10 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (98)</li>
 <li>rhul.sharepoint.com (96)</li>
 <li>www.tesco.com (93)</li>
+<li>chat.openai.com (92)</li>
 <li>discord.com (91)</li>
-<li>chat.openai.com (90)</li>
-<li>gmail.com (89)</li>
-<li>fast.com (88)</li>
+<li>gmail.com (90)</li>
+<li>web.whatsapp.com (90)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:49 www.linkedin.com</li>
+<ul><li> 12:42 docs.google.com</li>
+<li class='same'> 12:41 docs.google.com</li>
+<li class='same'> 12:40 docs.google.com</li>
+<li class='same'> 12:39 docs.google.com</li>
+<li> 12:39 chatgpt.com</li>
+<li class='same'> 12:38 chatgpt.com</li>
+<li> 12:38 chat.openai.com</li>
+<li> 12:38 docs.google.com</li>
+<li class='same'> 12:36 docs.google.com</li>
+<li class='same'> 12:34 docs.google.com</li>
+<li> 12:34 mail.google.com</li>
+<li class='same'> 12:33 mail.google.com</li>
+<li> 12:33 www.linkedin.com</li>
+<li class='same'> 12:32 www.linkedin.com</li>
+<li> 12:31 www.facebook.com</li>
+<li> 12:31 web.whatsapp.com</li>
+<li> 12:30 mail.google.com</li>
+<li> 12:29 outlook.office.com</li>
+<li> 12:28 mail.google.com</li>
+<li> 12:28 accountscenter.facebook.com</li>
+<li class='same'> 12:27 accountscenter.facebook.com</li>
+<li> 12:27 www.facebook.com</li>
+<li class='same'> 12:26 www.facebook.com</li>
+<li> 12:26 www.reddit.com</li>
+<li class='same'> 12:25 www.reddit.com</li>
+<li> 12:24 web.whatsapp.com</li>
+<li> 12:24 chatgpt.com</li>
+<li> 12:24 chat.openai.com</li>
+<li> 12:24 mail.google.com</li>
+<li class='same'> 12:23 mail.google.com</li>
+<li> 12:23 gmail.com</li>
+<li> 12:23 bsky.app</li>
+<li class='same'> 12:22 bsky.app</li>
+<li> 12:22 outlook.office.com</li>
+<li> 12:22 web.whatsapp.com</li>
+<li> 12:21 outlook.office.com</li>
+<li> 12:21 outlook.office365.com</li>
+<li> 12:21 outlook.office.com</li>
+<li> 12:20 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:49 www.linkedin.com</li>
 <li> 10:48 thecyberscheme.org</li>
 <li> 10:48 duckduckgo.com</li>
 <li class='same'> 10:47 duckduckgo.com</li>
@@ -17469,7 +17512,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:43 www.tvlicensing.co.uk</li>
+<ul><li> 09:45 mail.google.com</li>
+<li> 09:43 www.tvlicensing.co.uk</li>
 <li> 09:42 mail.google.com</li>
 <li> 09:39 moodle.royalholloway.ac.uk</li>
 <li> 09:38 calendar.google.com</li>
@@ -19993,7 +20037,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:19 feedly.com</li>
+<ul><li> 15:26 www.facebook.com</li>
+<li> 15:19 feedly.com</li>
 <li class='same'> 15:09 feedly.com</li>
 </ul>
 
@@ -20120,6 +20165,7 @@ With number of accesses/minutes in parentheses
 <li> 08:22 www.linkedin.com</li>
 <li> 08:16 <a href="https://joereddington.com/media.html">Joe Reddington | Things I make.</a></li>
 <li> 08:13 www.linkedin.com</li>
+<li> 08:12 mail.google.com</li>
 <li> 08:08 docs.google.com</li>
 <li> 08:07 www.google.com</li>
 <li> 07:57 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
@@ -20398,7 +20444,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:23 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li class='same'> 07:22 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 07:06 mail.google.com</li>
-<li class='same'> 07:02 mail.google.com</li>
+<li> 07:06 www.facebook.com</li>
+<li> 07:02 mail.google.com</li>
 <li> 06:46 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
 <li> 06:37 mail.google.com</li>
 </ul>
@@ -21001,11 +21048,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:50 intranet.royalholloway.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 13:16 gitlab.cim.rhul.ac.uk</li>
+<li> 13:29 www.facebook.com</li>
+<li> 13:16 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:11 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:05 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:03 gitlab.cim.rhul.ac.uk</li>
@@ -21515,6 +21559,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 08:05 www.facebook.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:25 claude.ai</li>
 <li> 07:23 <a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
 </ul>
@@ -21631,6 +21680,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:37 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 13:37 www.linkedin.com</li>
+<li> 13:34 www.facebook.com</li>
 </ul>
 
 <H3>Wednesday, 19/06/24</H3>
@@ -21809,11 +21859,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 10:15 127.0.0.1:4000</li>
-</ul>
-
-<br>
-
-<ul><li> 09:37 equalitytime.github.io</li>
+<li> 10:07 www.facebook.com</li>
+<li> 09:37 equalitytime.github.io</li>
 <li> 09:26 www.reddit.com</li>
 </ul>
 
@@ -21862,6 +21909,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 15:23 www.facebook.com</li>
+</ul>
 
 <br>
 
@@ -21926,6 +21978,7 @@ With number of accesses/minutes in parentheses
 <li> 14:20 artofmemory.com</li>
 <li> 14:19 theopenvoicefactory.org</li>
 <li> 14:04 www.facebook.com</li>
+<li class='same'> 14:00 www.facebook.com</li>
 </ul>
 
 <br>
@@ -22062,6 +22115,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:11 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<li> 12:10 www.facebook.com</li>
 <li> 12:05 outlook.office.com</li>
 <li class='same'> 12:02 outlook.office.com</li>
 <li class='same'> 12:01 outlook.office.com</li>
@@ -22102,6 +22156,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:59 m.youtube.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:20 www.facebook.com</li>
 </ul>
 
 <br>
@@ -22157,6 +22216,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:45 mail.google.com</li>
 <li class='same'> 06:41 mail.google.com</li>
 <li> 06:38 docs.google.com</li>
+<li> 06:38 www.facebook.com</li>
 <li> 06:36 www.reddit.com</li>
 <li> 06:17 www.facebook.com</li>
 <li> 06:04 andsoshethinks.co.uk</li>
@@ -22233,6 +22293,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:13 www.facebook.com</li>
+<li class='same'> 10:01 www.facebook.com</li>
 <li> 09:58 www.amazon.co.uk</li>
 <li> 09:54 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
 <li> 09:51 www.parkrun.org.uk</li>
@@ -22264,6 +22325,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:50 www.facebook.com</li>
+<li class='same'> 21:29 www.facebook.com</li>
 </ul>
 
 <br>
@@ -22297,6 +22359,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 18:50 www.facebook.com</li>
+</ul>
 
 <br>
 
@@ -22718,7 +22785,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 15:40 outlook.office.com</li>
+<ul><li> 16:19 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:40 outlook.office.com</li>
 </ul>
 
 <br>
@@ -22798,7 +22870,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:09 <a href="https://joereddington.com/gifts">Gifts I love | Joe Reddington</a></li>
+<ul><li> 16:13 www.facebook.com</li>
+<li> 16:09 <a href="https://joereddington.com/gifts">Gifts I love | Joe Reddington</a></li>
 <li> 16:09 www.google.com</li>
 </ul>
 
@@ -23095,7 +23168,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:04 www.facebook.com</li>
+<ul><li> 19:44 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:04 www.facebook.com</li>
 </ul>
 
 <br>
@@ -23273,6 +23351,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:23 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 10:35 mail.google.com</li>
 </ul>
 
 <br>
@@ -23878,6 +23961,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:36 accountscenter.facebook.com</li>
+<li class='same'> 20:35 accountscenter.facebook.com</li>
+<li> 20:35 www.facebook.com</li>
+</ul>
+
+<br>
+
 <ul><li> 19:19 www.wikipedia.org</li>
 </ul>
 
@@ -24325,6 +24415,7 @@ With number of accesses/minutes in parentheses
 <li> 13:07 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:00 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 12:57 gitlab.cim.rhul.ac.uk</li>
+<li> 12:48 mail.google.com</li>
 <li> 12:34 projects.cs.rhul.ac.uk</li>
 <li> 12:22 www.tightrope.co.uk</li>
 <li> 12:07 rhul.sharepoint.com</li>
@@ -24550,6 +24641,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:53 www.theguardian.com</li>
 <li> 10:50 www.wolframalpha.com</li>
 <li> 10:48 amp.theguardian.com</li>
+<li> 10:45 mail.google.com</li>
 <li> 10:36 <a href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed">Wikipedia:Citation needed - Wikipedia</a></li>
 <li> 10:08 www.eff.org</li>
 </ul>
@@ -25007,9 +25099,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:27 outlook.office.com</li>
+<ul><li> 12:29 mail.google.com</li>
+<li> 12:27 outlook.office.com</li>
 <li> 12:26 admin.google.com</li>
 <li> 12:26 workspace.google.com</li>
+<li> 12:25 mail.google.com</li>
 </ul>
 
 <br>
@@ -25656,7 +25750,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:33 www.amazon.co.uk</li>
+<ul><li> 20:54 mail.google.com</li>
+<li> 20:33 www.amazon.co.uk</li>
 </ul>
 
 <H3>Friday, 12/01/24</H3>
@@ -26348,6 +26443,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 19:52 mail.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 18:00 www.wikipedia.org</li>
 </ul>
 
@@ -26585,6 +26685,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 07:22 mail.google.com</li>
+<li class='same'> 07:21 mail.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 06:42 accounts.google.com</li>
 </ul>
 
@@ -26795,6 +26901,8 @@ With number of accesses/minutes in parentheses
 <li> 15:31 docs.google.com</li>
 <li> 15:12 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
 <li> 15:01 www.dropbox.com</li>
+<li> 14:34 mail.google.com</li>
+<li class='same'> 14:10 mail.google.com</li>
 </ul>
 
 <br>
@@ -26879,7 +26987,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:35 discord.com</li>
+<ul><li> 14:02 mail.google.com</li>
+<li> 13:35 discord.com</li>
 </ul>
 
 <H3>Tuesday, 07/11/23</H3>
