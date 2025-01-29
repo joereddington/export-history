@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2085)</li>
-<li>bsky.app (1083)</li>
-<li>outlook.office365.com (1056)</li>
-<li>mail.google.com (990)</li>
-<li>outlook.office.com (956)</li>
+<ol><li>www.google.com (2091)</li>
+<li>bsky.app (1085)</li>
+<li>outlook.office365.com (1058)</li>
+<li>mail.google.com (992)</li>
+<li>outlook.office.com (958)</li>
 <li>docs.google.com (905)</li>
-<li>www.facebook.com (603)</li>
-<li>www.amazon.co.uk (309)</li>
+<li>www.facebook.com (604)</li>
+<li>www.amazon.co.uk (310)</li>
+<li>www.reddit.com (309)</li>
 <li>chatgpt.com (308)</li>
-<li>www.reddit.com (307)</li>
 <li>rhul-my.sharepoint.com (303)</li>
-<li>www.linkedin.com (267)</li>
-<li>github.com (264)</li>
-<li>moodle.royalholloway.ac.uk (262)</li>
+<li>www.linkedin.com (269)</li>
+<li>moodle.royalholloway.ac.uk (268)</li>
+<li>github.com (265)</li>
 <li>calendar.google.com (261)</li>
-<li>login.microsoftonline.com (236)</li>
-<li>fritz.box (205)</li>
+<li>login.microsoftonline.com (238)</li>
+<li>fritz.box (207)</li>
 <li>www.coursera.org (177)</li>
 <li>forms.office.com (138)</li>
 <li>drive.google.com (136)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>www.tesco.com (93)</li>
 <li>discord.com (91)</li>
 <li>chat.openai.com (89)</li>
+<li>gmail.com (88)</li>
 <li>fast.com (87)</li>
-<li>gmail.com (87)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,9 +108,75 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:32 docs.google.com</li>
-<li> 07:27 www.google.com</li>
+<ul><li> 08:04 fritz.box</li>
+<li class='same'> 08:03 fritz.box</li>
+<li> 07:44 www.google.com</li>
+<li> 07:44 www.leighday.co.uk</li>
+<li> 07:43 www.google.com</li>
+<li> 07:43 pogustgoodhead.com</li>
+<li> 07:42 www.google.com</li>
+<li class='same'> 07:41 www.google.com</li>
+<li> 07:32 docs.google.com</li>
+<li> 07:29 www.google.com</li>
+<li class='same'> 07:28 www.google.com</li>
+<li class='same'> 07:27 www.google.com</li>
 <li> 07:27 www.reddit.com</li>
+<li> 07:00 mail.google.com</li>
+<li> 06:59 www.classtools.net</li>
+<li> 06:59 mail.google.com</li>
+<li> 06:59 gmail.com</li>
+<li> 06:58 www.royalholloway.ac.uk</li>
+<li class='same'> 06:57 www.royalholloway.ac.uk</li>
+<li> 06:57 duckduckgo.com</li>
+<li> 06:56 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:55 moodle.royalholloway.ac.uk</li>
+<li> 06:55 rhul.hosted.panopto.com</li>
+<li> 06:53 <a href="https://en.wikipedia.org/w/index.php?title=Keech_Hospice_Care&diff=1272423452&oldid=1272420799">Keech Hospice Care: Difference between revisions - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/w/index.php?title=Keech_Hospice_Care&diff=1272423452&oldid=1245554687">Keech Hospice Care: Difference between revisions - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/w/index.php?title=Keech_Hospice_Care&action=history">Keech Hospice Care: Revision history - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/wiki/Keech_Hospice_Care">Keech Hospice Care - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:51 outlook.office.com</li>
+<li> 06:51 outlook.office365.com</li>
+<li> 06:51 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:50 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:49 moodle.royalholloway.ac.uk</li>
+<li> 06:49 login.microsoftonline.com</li>
+<li> 06:49 moodle.royalholloway.ac.uk</li>
+<li> 06:48 warwick.rl.talis.com</li>
+<li class='same'> 06:47 warwick.rl.talis.com</li>
+<li> 06:47 duckduckgo.com</li>
+<li> 06:47 login.microsoftonline.com</li>
+<li> 06:47 users.talis.com</li>
+<li> 06:47 rl.talis.com</li>
+<li> 06:47 durham.rl.talis.com</li>
+<li> 06:46 rl.talis.com</li>
+<li> 06:46 durham.rl.talis.com</li>
+<li> 06:46 github.com</li>
+<li> 06:45 rl.talis.com</li>
+<li> 06:45 durham.rl.talis.com</li>
+<li class='same'> 06:44 durham.rl.talis.com</li>
+<li> 06:44 duckduckgo.com</li>
+<li> 06:44 learning.lincoln.ac.uk</li>
+<li> 06:44 oxbridgemind.co.uk</li>
+<li> 06:44 duckduckgo.com</li>
+<li class='same'> 06:43 duckduckgo.com</li>
+<li> 06:43 www.linkedin.com</li>
+<li class='same'> 06:42 www.linkedin.com</li>
+<li> 06:41 bsky.app</li>
+<li> 06:40 www.reddit.com</li>
+<li class='same'> 06:39 www.reddit.com</li>
+<li> 06:39 www.amazon.co.uk</li>
+<li> 06:35 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:35 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:35 <a href="https://joereddington.com/2025/01/28/cliche.html">Cliche | Joe Reddington</a></li>
+<li> 06:35 outlook.office.com</li>
+<li> 06:35 outlook.office365.com</li>
+<li> 06:34 www.facebook.com</li>
+<li> 06:33 bsky.app</li>
 </ul>
 
 <H3>Tuesday, 28/01/25</H3>
@@ -17956,15 +18022,18 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:56 forms.office.com</li>
 <li class='same'> 10:55 forms.office.com</li>
 <li> 10:50 rhul-my.sharepoint.com</li>
+<li> 10:48 rhul.hosted.panopto.com</li>
 <li> 10:43 www.royalholloway.ac.uk</li>
 <li> 10:40 rhul.hosted.panopto.com</li>
 <li class='same'> 10:39 rhul.hosted.panopto.com</li>
+<li class='same'> 10:38 rhul.hosted.panopto.com</li>
 <li> 10:36 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:35 moodle.royalholloway.ac.uk</li>
 <li> 10:32 outlook.office365.com</li>
 <li class='same'> 10:29 outlook.office365.com</li>
 <li class='same'> 10:26 outlook.office365.com</li>
 <li> 10:24 teams.microsoft.com</li>
+<li> 10:24 rhul.hosted.panopto.com</li>
 </ul>
 
 <H3>Thursday, 10/10/24</H3>
@@ -19266,7 +19335,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:13 outlook.office.com</li>
+<ul><li> 18:27 <a href="https://en.wikipedia.org/wiki/Keech_Hospice_Care">Keech Hospice Care - Wikipedia</a></li>
+<li> 18:23 <a href="https://en.wikipedia.org/w/index.php?title=Keech_Hospice_Care&action=history">Keech Hospice Care: Revision history - Wikipedia</a></li>
+<li> 18:23 <a href="https://en.wikipedia.org/wiki/Keech_Hospice_Care">Keech Hospice Care - Wikipedia</a></li>
+<li> 18:13 outlook.office.com</li>
 </ul>
 
 <H3>Thursday, 12/09/24</H3>
@@ -19354,7 +19426,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:16 www.wikipedia.org</li>
+<ul><li> 07:20 <a href="https://en.wikipedia.org/wiki/Keech_Hospice_Care">Keech Hospice Care - Wikipedia</a></li>
+<li> 07:16 www.wikipedia.org</li>
 <li> 07:09 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo_data_breaches">Talk:Yahoo data breaches - Wikipedia</a></li>
 <li> 07:07 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&action=history">Yahoo data breaches: Revision history - Wikipedia</a></li>
 <li> 07:07 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
@@ -20356,11 +20429,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:20 outlook.office.com</li>
 <li> 14:08 teams.microsoft.com</li>
 <li class='same'> 13:51 teams.microsoft.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:15 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 13:25 rhul.hosted.panopto.com</li>
+<li> 13:15 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
 <li> 13:11 moodle2324.royalholloway.ac.uk</li>
 <li class='same'> 13:10 moodle2324.royalholloway.ac.uk</li>
 <li> 13:07 teams.microsoft.com</li>
@@ -23438,6 +23508,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:04 www.facebook.com</li>
 <li> 13:00 mail.google.com</li>
 <li class='same'> 12:39 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:06 rhul.hosted.panopto.com</li>
+<li class='same'> 12:03 rhul.hosted.panopto.com</li>
 </ul>
 
 <br>
