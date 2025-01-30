@@ -70,32 +70,32 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2110)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office365.com (1064)</li>
-<li>mail.google.com (1040)</li>
-<li>outlook.office.com (985)</li>
-<li>docs.google.com (959)</li>
+<li>outlook.office365.com (1067)</li>
+<li>mail.google.com (1046)</li>
+<li>outlook.office.com (994)</li>
+<li>docs.google.com (963)</li>
 <li>www.facebook.com (628)</li>
-<li>www.amazon.co.uk (351)</li>
+<li>www.amazon.co.uk (353)</li>
 <li>www.reddit.com (342)</li>
 <li>chatgpt.com (319)</li>
-<li>rhul-my.sharepoint.com (312)</li>
+<li>rhul-my.sharepoint.com (314)</li>
 <li>www.linkedin.com (275)</li>
 <li>github.com (268)</li>
 <li>moodle.royalholloway.ac.uk (268)</li>
-<li>calendar.google.com (262)</li>
+<li>calendar.google.com (264)</li>
 <li>login.microsoftonline.com (241)</li>
 <li>fritz.box (211)</li>
 <li>www.coursera.org (177)</li>
 <li>drive.google.com (163)</li>
+<li>qbo.intuit.com (143)</li>
 <li>forms.office.com (143)</li>
-<li>qbo.intuit.com (132)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>tvtropes.org (116)</li>
 <li>www.theguardian.com (100)</li>
 <li>rhul.sharepoint.com (96)</li>
 <li>chat.openai.com (96)</li>
 <li>www.tesco.com (95)</li>
-<li>gmail.com (92)</li>
+<li>gmail.com (93)</li>
 <li>web.whatsapp.com (92)</li>
 <li>discord.com (91)</li>
 
@@ -108,7 +108,52 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:11 qbo.intuit.com</li>
+<ul><li> 11:57 qbo.intuit.com</li>
+<li> 11:54 www.google.co.uk</li>
+<li class='same'> 11:53 www.google.co.uk</li>
+<li> 11:53 duckduckgo.com</li>
+<li> 11:53 calendar.google.com</li>
+<li> 11:52 qbo.intuit.com</li>
+<li> 11:52 mail.google.com</li>
+<li> 11:52 outlook.office365.com</li>
+<li class='same'> 11:51 outlook.office365.com</li>
+<li> 11:51 mail.google.com</li>
+<li class='same'> 11:50 mail.google.com</li>
+<li> 11:50 gmail.com</li>
+<li> 11:50 docs.google.com</li>
+<li class='same'> 11:49 docs.google.com</li>
+<li class='same'> 11:48 docs.google.com</li>
+<li> 11:47 www.amazon.co.uk</li>
+<li> 11:47 duckduckgo.com</li>
+<li> 11:46 www.amazon.co.uk</li>
+<li> 11:46 outlook.office.com</li>
+<li class='same'> 11:44 outlook.office.com</li>
+<li> 11:44 mail.google.com</li>
+<li> 11:35 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:35 mail.google.com</li>
+<li> 11:33 outlook.office.com</li>
+<li class='same'> 11:32 outlook.office.com</li>
+<li class='same'> 11:30 outlook.office.com</li>
+<li> 11:30 rhul-my.sharepoint.com</li>
+<li> 11:30 outlook.office.com</li>
+<li class='same'> 11:29 outlook.office.com</li>
+<li> 11:29 rhul-my.sharepoint.com</li>
+<li> 11:28 outlook.office.com</li>
+<li> 11:28 outlook.office365.com</li>
+<li> 11:28 outlook.office.com</li>
+<li> 11:27 calendar.google.com</li>
+<li> 11:27 qbo.intuit.com</li>
+<li> 11:27 docs.google.com</li>
+<li> 11:26 qbo.intuit.com</li>
+<li class='same'> 11:25 qbo.intuit.com</li>
+<li class='same'> 11:24 qbo.intuit.com</li>
+<li class='same'> 11:23 qbo.intuit.com</li>
+<li class='same'> 11:22 qbo.intuit.com</li>
+<li> 11:22 mail.google.com</li>
+<li> 11:17 qbo.intuit.com</li>
+<li class='same'> 11:16 qbo.intuit.com</li>
+<li class='same'> 11:15 qbo.intuit.com</li>
+<li class='same'> 11:11 qbo.intuit.com</li>
 <li class='same'> 11:10 qbo.intuit.com</li>
 <li class='same'> 11:09 qbo.intuit.com</li>
 <li> 11:09 www.amazon.co.uk</li>
