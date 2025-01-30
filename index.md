@@ -78,9 +78,9 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (353)</li>
 <li>www.reddit.com (344)</li>
 <li>chatgpt.com (319)</li>
-<li>rhul-my.sharepoint.com (315)</li>
+<li>rhul-my.sharepoint.com (316)</li>
 <li>www.linkedin.com (275)</li>
-<li>moodle.royalholloway.ac.uk (271)</li>
+<li>moodle.royalholloway.ac.uk (272)</li>
 <li>github.com (268)</li>
 <li>calendar.google.com (264)</li>
 <li>login.microsoftonline.com (242)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:10 outlook.office.com</li>
+<ul><li> 14:49 accounts.intuit.com</li>
+<li> 14:31 rhul-my.sharepoint.com</li>
+<li> 14:20 moodle.royalholloway.ac.uk</li>
+<li> 14:10 outlook.office.com</li>
 <li> 14:08 <a href="https://www.youtube.com/watch?v=0y2ThzR7qYs">(129) Project Demo - YouTube</a></li>
 <li> 14:08 <a href="https://www.youtube.com/watch?v=0y2ThzR7qYs&feature=youtu.be">Project Demo - YouTube</a></li>
 <li> 13:58 projects.cs.rhul.ac.uk</li>
