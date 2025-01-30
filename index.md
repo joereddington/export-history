@@ -70,17 +70,17 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2110)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office365.com (1068)</li>
-<li>mail.google.com (1052)</li>
-<li>outlook.office.com (1007)</li>
+<li>outlook.office365.com (1069)</li>
+<li>mail.google.com (1053)</li>
+<li>outlook.office.com (1047)</li>
 <li>docs.google.com (1000)</li>
 <li>www.facebook.com (628)</li>
-<li>www.amazon.co.uk (353)</li>
+<li>www.amazon.co.uk (354)</li>
 <li>www.reddit.com (344)</li>
 <li>chatgpt.com (319)</li>
-<li>rhul-my.sharepoint.com (316)</li>
+<li>rhul-my.sharepoint.com (317)</li>
 <li>www.linkedin.com (275)</li>
-<li>moodle.royalholloway.ac.uk (272)</li>
+<li>moodle.royalholloway.ac.uk (273)</li>
 <li>github.com (268)</li>
 <li>calendar.google.com (264)</li>
 <li>login.microsoftonline.com (242)</li>
@@ -91,13 +91,13 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (143)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>tvtropes.org (116)</li>
+<li>rhul.sharepoint.com (108)</li>
 <li>www.theguardian.com (100)</li>
-<li>rhul.sharepoint.com (96)</li>
 <li>chat.openai.com (96)</li>
 <li>www.tesco.com (95)</li>
 <li>gmail.com (95)</li>
+<li>gitlab.cim.rhul.ac.uk (93)</li>
 <li>web.whatsapp.com (93)</li>
-<li>discord.com (91)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,31 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 30/01/25</H3>
+
+<br>
+
+<ul><li> 16:03 moodle.royalholloway.ac.uk</li>
+<li> 16:01 outlook.office.com</li>
+<li> 15:59 projects.cs.rhul.ac.uk</li>
+<li> 15:58 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 15:57 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 15:56 gitlab.cim.rhul.ac.uk</li>
+<li> 15:55 outlook.office.com</li>
+<li class='same'> 15:54 outlook.office.com</li>
+<li> 15:53 rhul.sharepoint.com</li>
+<li> 15:53 rhul-my.sharepoint.com</li>
+<li> 15:52 rhul.sharepoint.com</li>
+<li> 15:52 outlook.office.com</li>
+<li class='same'> 15:51 outlook.office.com</li>
+<li> 15:51 www.amazon.co.uk</li>
+<li> 15:51 mail.google.com</li>
+<li> 15:34 outlook.office.com</li>
+<li class='same'> 15:33 outlook.office.com</li>
+<li class='same'> 15:32 outlook.office.com</li>
+<li class='same'> 15:31 outlook.office.com</li>
+<li> 15:31 outlook.office365.com</li>
+<li> 15:31 outlook.office.com</li>
+</ul>
 
 <br>
 
@@ -19358,6 +19383,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:04 moodle.royalholloway.ac.uk</li>
+<li> 17:04 projects.cs.rhul.ac.uk</li>
 <li> 16:55 discord.com</li>
 <li class='same'> 16:52 discord.com</li>
 <li class='same'> 16:50 discord.com</li>
@@ -19420,6 +19446,7 @@ With number of accesses/minutes in parentheses
 <li> 11:42 rhul-my.sharepoint.com</li>
 <li> 11:21 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 11:12 moodle.royalholloway.ac.uk</li>
+<li> 11:11 projects.cs.rhul.ac.uk</li>
 <li> 11:09 rhul-my.sharepoint.com</li>
 </ul>
 
@@ -19711,11 +19738,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:07 outlook.office.com</li>
 <li> 16:06 calendar.google.com</li>
 <li> 16:06 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 15:23 www.linkedin.com</li>
+<li class='same'> 15:44 outlook.office.com</li>
+<li> 15:23 www.linkedin.com</li>
 </ul>
 
 <br>
@@ -19739,6 +19763,7 @@ With number of accesses/minutes in parentheses
 <li> 11:29 outlook.office.com</li>
 <li> 11:11 libbyapp.com</li>
 <li> 10:43 outlook.office.com</li>
+<li class='same'> 10:37 outlook.office.com</li>
 </ul>
 
 <br>
@@ -20097,6 +20122,7 @@ With number of accesses/minutes in parentheses
 <li> 09:12 accounts.google.com</li>
 <li> 09:08 outlook.office.com</li>
 <li class='same'> 09:07 outlook.office.com</li>
+<li class='same'> 09:00 outlook.office.com</li>
 <li> 08:56 0.0.0.0:8000</li>
 </ul>
 
@@ -21218,6 +21244,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:42 outlook.office.com</li>
+<li class='same'> 16:36 outlook.office.com</li>
+<li class='same'> 16:33 outlook.office.com</li>
+<li class='same'> 16:27 outlook.office.com</li>
+<li class='same'> 16:26 outlook.office.com</li>
+<li class='same'> 16:22 outlook.office.com</li>
 <li> 16:15 github.com</li>
 <li> 16:08 outlook.office.com</li>
 <li> 16:07 github.com</li>
@@ -22434,7 +22465,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:27 outlook.office.com</li>
+<ul><li> 12:36 outlook.office.com</li>
+<li class='same'> 12:29 outlook.office.com</li>
+<li class='same'> 12:27 outlook.office.com</li>
+<li class='same'> 12:25 outlook.office.com</li>
+<li class='same'> 12:17 outlook.office.com</li>
 </ul>
 
 <br>
@@ -22575,6 +22610,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 09:30 outlook.office.com</li>
+<li> 09:09 rhul.sharepoint.com</li>
 </ul>
 
 <H3>Thursday, 30/05/24</H3>
@@ -22619,6 +22655,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:16 projects.cs.rhul.ac.uk</li>
 <li> 16:09 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 15:53 gitlab.cim.rhul.ac.uk</li>
+<li> 15:48 rhul.sharepoint.com</li>
 <li> 15:25 moodle.royalholloway.ac.uk</li>
 <li> 15:23 rhul.sharepoint.com</li>
 <li class='same'> 15:22 rhul.sharepoint.com</li>
@@ -22640,12 +22677,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:06 dashboards.rhul.ac.uk</li>
-<li> 11:49 rhul.sharepoint.com</li>
+<li> 11:53 rhul.sharepoint.com</li>
+<li class='same'> 11:49 rhul.sharepoint.com</li>
 </ul>
 
 <br>
 
-<ul><li> 10:49 projects.cs.rhul.ac.uk</li>
+<ul><li class='same'> 11:15 rhul.sharepoint.com</li>
+<li> 10:49 projects.cs.rhul.ac.uk</li>
 <li> 10:43 dashboards.rhul.ac.uk</li>
 <li> 10:43 myview.rhul.zellis.com</li>
 <li> 10:15 outlook.office.com</li>
@@ -22854,6 +22893,7 @@ With number of accesses/minutes in parentheses
 <li> 10:17 www.royalholloway.ac.uk</li>
 <li class='same'> 10:10 www.royalholloway.ac.uk</li>
 <li> 09:59 www.amazon.co.uk</li>
+<li> 09:40 rhul.sharepoint.com</li>
 </ul>
 
 <br>
@@ -23560,11 +23600,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:53 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:02 mail.google.com</li>
+<li class='same'> 11:27 outlook.office.com</li>
+<li class='same'> 11:26 outlook.office.com</li>
+<li> 11:02 mail.google.com</li>
 </ul>
 
 <br>
@@ -24139,11 +24177,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:04 www.facebook.com</li>
 <li> 13:00 mail.google.com</li>
 <li class='same'> 12:39 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 12:06 rhul.hosted.panopto.com</li>
+<li> 12:21 rhul.sharepoint.com</li>
+<li> 12:06 rhul.hosted.panopto.com</li>
 <li class='same'> 12:03 rhul.hosted.panopto.com</li>
 </ul>
 
@@ -24151,9 +24186,14 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:05 rhul-my.sharepoint.com</li>
 <li> 10:39 rhul.hosted.panopto.com</li>
+<li> 10:32 gitlab.cim.rhul.ac.uk</li>
+<li> 10:29 outlook.office.com</li>
+<li> 10:27 projects.cs.rhul.ac.uk</li>
 <li> 10:27 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 10:26 gitlab.cim.rhul.ac.uk</li>
 <li> 10:25 moodle.royalholloway.ac.uk</li>
+<li> 10:24 projects.cs.rhul.ac.uk</li>
+<li class='same'> 10:17 projects.cs.rhul.ac.uk</li>
 <li> 10:11 rhul.hosted.panopto.com</li>
 <li> 09:47 outlook.office.com</li>
 <li class='same'> 09:44 outlook.office.com</li>
@@ -24245,6 +24285,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:54 www.dropbox.com</li>
+<li> 06:37 outlook.office.com</li>
 <li> 06:26 www.facebook.com</li>
 <li> 06:22 github.com</li>
 <li class='same'> 06:19 github.com</li>
@@ -24279,7 +24320,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:20 books.google.co.uk</li>
+<ul><li> 15:23 outlook.office.com</li>
+<li> 15:20 books.google.co.uk</li>
 <li> 15:17 www.google.com</li>
 <li> 15:17 books.google.co.uk</li>
 <li> 15:12 gitlab.cim.rhul.ac.uk</li>
@@ -24297,6 +24339,7 @@ With number of accesses/minutes in parentheses
 <li> 07:15 www.goodreads.com</li>
 <li> 06:53 www.ebay.co.uk</li>
 <li> 06:51 projects.cs.rhul.ac.uk</li>
+<li> 06:50 outlook.office.com</li>
 </ul>
 
 <H3>Tuesday, 02/04/24</H3>
@@ -24391,18 +24434,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:49 <a href="https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach">2020 United States federal government data breach - Wikipedia</a></li>
+<li> 13:49 outlook.office.com</li>
 <li> 13:43 gitlab.cim.rhul.ac.uk</li>
+<li> 13:43 outlook.office.com</li>
 </ul>
 
 <br>
 
-<ul><li> 12:36 outlook.office.com</li>
+<ul><li class='same'> 12:36 outlook.office.com</li>
 <li> 12:30 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
-</ul>
-
-<br>
-
-<ul><li> 11:51 www.facebook.com</li>
+<li> 12:08 outlook.office.com</li>
+<li> 11:51 www.facebook.com</li>
 <li> 11:42 intranet.royalholloway.ac.uk</li>
 </ul>
 
@@ -24415,7 +24457,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:11 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
+<ul><li> 06:20 outlook.office.com</li>
+<li> 06:11 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
 </ul>
 
 <H3>Wednesday, 27/03/24</H3>
@@ -24434,6 +24477,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:19 www.wikipedia.org</li>
+<li> 19:10 outlook.office.com</li>
+<li class='same'> 18:57 outlook.office.com</li>
 </ul>
 
 <br>
@@ -24443,7 +24488,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:45 gitlab.cim.rhul.ac.uk</li>
+<ul><li> 17:49 outlook.office.com</li>
+<li class='same'> 17:46 outlook.office.com</li>
+<li> 17:45 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 17:44 gitlab.cim.rhul.ac.uk</li>
 </ul>
 
@@ -24515,9 +24562,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:38 rhul.sharepoint.com</li>
+<ul><li> 07:40 outlook.office.com</li>
+<li> 07:38 rhul.sharepoint.com</li>
 <li class='same'> 07:34 rhul.sharepoint.com</li>
 <li class='same'> 07:30 rhul.sharepoint.com</li>
+<li> 07:29 outlook.office.com</li>
 </ul>
 
 <H3>Monday, 25/03/24</H3>
@@ -24528,9 +24577,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:47 outlook.office365.com</li>
+<ul><li> 15:51 projects.cs.rhul.ac.uk</li>
+<li> 15:47 outlook.office365.com</li>
 <li class='same'> 15:45 outlook.office365.com</li>
-<li class='same'> 15:40 outlook.office365.com</li>
+<li> 15:43 rhul.sharepoint.com</li>
+<li> 15:40 outlook.office365.com</li>
 <li class='same'> 15:35 outlook.office365.com</li>
 <li class='same'> 15:27 outlook.office365.com</li>
 </ul>
@@ -24695,7 +24746,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:21 outlook.office.com</li>
+<ul><li> 07:37 outlook.office.com</li>
+<li> 07:37 projects.cs.rhul.ac.uk</li>
+<li> 07:36 outlook.office.com</li>
+<li class='same'> 07:21 outlook.office.com</li>
 <li class='same'> 07:20 outlook.office.com</li>
 </ul>
 
@@ -24760,6 +24814,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:18 track.dhlparcel.co.uk</li>
 <li> 12:17 www.evri.com</li>
+<li> 12:03 projects.cs.rhul.ac.uk</li>
 </ul>
 
 <br>
@@ -24798,6 +24853,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:03 rhul.sharepoint.com</li>
+<li> 12:02 projects.cs.rhul.ac.uk</li>
+<li class='same'> 11:45 projects.cs.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 11:09 rhul.sharepoint.com</li>
 </ul>
 
 <H3>Saturday, 16/03/24</H3>
@@ -24847,6 +24909,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:12 rhul.sharepoint.com</li>
+<li class='same'> 12:53 rhul.sharepoint.com</li>
+<li class='same'> 12:51 rhul.sharepoint.com</li>
 <li> 12:50 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 12:49 gitlab.cim.rhul.ac.uk</li>
 <li> 12:20 rhul.sharepoint.com</li>
@@ -24874,7 +24938,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:11 gitlab.cim.rhul.ac.uk</li>
+<ul><li> 16:12 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 16:11 gitlab.cim.rhul.ac.uk</li>
 <li> 16:01 www.tightrope.co.uk</li>
 <li> 16:01 theopenvoicefactory.org</li>
 </ul>
@@ -24933,6 +24998,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:40 projects.cs.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:57 projects.cs.rhul.ac.uk</li>
+<li class='same'> 13:55 projects.cs.rhul.ac.uk</li>
 </ul>
 
 <br>
