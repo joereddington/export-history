@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2110)</li>
+<ol><li>www.google.com (2113)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1069)</li>
 <li>mail.google.com (1053)</li>
 <li>outlook.office.com (1047)</li>
 <li>docs.google.com (1000)</li>
 <li>www.facebook.com (628)</li>
-<li>www.amazon.co.uk (354)</li>
+<li>www.amazon.co.uk (355)</li>
 <li>www.reddit.com (344)</li>
 <li>chatgpt.com (319)</li>
 <li>rhul-my.sharepoint.com (317)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>ev.turnitinuk.com (126)</li>
 <li>tvtropes.org (116)</li>
 <li>rhul.sharepoint.com (108)</li>
-<li>www.theguardian.com (100)</li>
+<li>www.theguardian.com (105)</li>
 <li>chat.openai.com (96)</li>
 <li>www.tesco.com (95)</li>
 <li>gmail.com (95)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 30/01/25</H3>
+
+<br>
+
+<ul><li> 18:41 fast.com</li>
+<li> 18:31 rog-forum.asus.com</li>
+<li> 18:31 www.google.com</li>
+<li> 18:25 fast.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:19 www.google.com</li>
+<li class='same'> 17:13 www.google.com</li>
+<li> 17:13 www.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -319,6 +334,7 @@ With number of accesses/minutes in parentheses
 <li> 09:51 outlook.office.com</li>
 <li> 09:50 mail.google.com</li>
 <li class='same'> 09:49 mail.google.com</li>
+<li> 09:43 www.allure.com</li>
 </ul>
 
 <br>
@@ -363,11 +379,11 @@ With number of accesses/minutes in parentheses
 <li> 07:13 <a href="https://www.youtube.com/">(128) YouTube</a></li>
 <li> 07:13 outlook.office365.com</li>
 <li> 07:13 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 06:38 www.theguardian.com</li>
+<li> 06:57 www.theguardian.com</li>
+<li class='same'> 06:55 www.theguardian.com</li>
+<li class='same'> 06:54 www.theguardian.com</li>
+<li class='same'> 06:53 www.theguardian.com</li>
+<li class='same'> 06:38 www.theguardian.com</li>
 <li class='same'> 06:37 www.theguardian.com</li>
 <li> 06:37 addictionsuk.com</li>
 <li class='same'> 06:36 addictionsuk.com</li>
@@ -30291,6 +30307,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:16 analytics.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:03 www.amazon.co.uk</li>
 </ul>
 
 <br>
