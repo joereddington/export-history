@@ -71,9 +71,9 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2093)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1062)</li>
-<li>mail.google.com (1026)</li>
-<li>outlook.office.com (982)</li>
-<li>docs.google.com (926)</li>
+<li>mail.google.com (1030)</li>
+<li>outlook.office.com (983)</li>
+<li>docs.google.com (927)</li>
 <li>www.facebook.com (628)</li>
 <li>www.reddit.com (339)</li>
 <li>www.amazon.co.uk (325)</li>
@@ -95,9 +95,9 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (96)</li>
 <li>www.tesco.com (95)</li>
 <li>chat.openai.com (94)</li>
+<li>gmail.com (92)</li>
+<li>web.whatsapp.com (92)</li>
 <li>discord.com (91)</li>
-<li>gmail.com (91)</li>
-<li>web.whatsapp.com (91)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,11 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:03 <a href="https://stackoverflow.com/questions/76979568/how-to-rebase-my-local-commits-on-top-of-new-commits-in-base-branch-in-remote">git - How to rebase my local commits on top of new commits in base branch in remote - Stack Overflow</a></li>
+<ul><li> 21:07 adblockplus.org</li>
+<li> 21:07 mail.google.com</li>
+<li class='same'> 21:06 mail.google.com</li>
+<li class='same'> 21:05 mail.google.com</li>
+<li class='same'> 21:04 mail.google.com</li>
+<li> 21:04 gmail.com</li>
+<li> 21:04 docs.google.com</li>
+<li> 21:03 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 21:03 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:12 feedly.com</li>
+<li class='same'> 20:11 feedly.com</li>
+<li> 20:11 web.whatsapp.com</li>
+<li> 20:05 claude.ai</li>
+<li class='same'> 20:04 claude.ai</li>
+<li> 20:03 <a href="https://stackoverflow.com/questions/76979568/how-to-rebase-my-local-commits-on-top-of-new-commits-in-base-branch-in-remote">git - How to rebase my local commits on top of new commits in base branch in remote - Stack Overflow</a></li>
 <li> 20:03 www.google.com</li>
 <li> 20:03 chatgpt.com</li>
 <li class='same'> 20:02 chatgpt.com</li>
 <li> 20:02 chat.openai.com</li>
+<li> 20:00 outlook.office.com</li>
 <li> 19:53 www.cypnow.co.uk</li>
 <li> 19:53 duckduckgo.com</li>
 </ul>
