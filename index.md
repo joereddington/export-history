@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2093)</li>
+<ol><li>www.google.com (2110)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1062)</li>
 <li>mail.google.com (1030)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>ev.turnitinuk.com (126)</li>
 <li>tvtropes.org (116)</li>
 <li>qbo.intuit.com (110)</li>
-<li>www.theguardian.com (98)</li>
+<li>www.theguardian.com (100)</li>
 <li>rhul.sharepoint.com (96)</li>
 <li>www.tesco.com (95)</li>
 <li>chat.openai.com (94)</li>
@@ -104,7 +104,27 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 30/01/25</H3>
+
+<br>
+
+<ul><li> 06:38 www.theguardian.com</li>
+<li class='same'> 06:37 www.theguardian.com</li>
+<li> 06:37 addictionsuk.com</li>
+<li class='same'> 06:36 addictionsuk.com</li>
+<li> 06:34 megancoyle.com</li>
+<li> 06:34 addictionsuk.com</li>
+<li> 06:34 www.google.com</li>
+<li> 06:33 americanaddictioncenters.org</li>
+<li> 06:33 www.google.com</li>
+<li class='same'> 06:32 www.google.com</li>
+</ul>
+
 <H3>Wednesday, 29/01/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -134,11 +154,21 @@ With number of accesses/minutes in parentheses
 <li> 20:00 outlook.office.com</li>
 <li> 19:53 www.cypnow.co.uk</li>
 <li> 19:53 duckduckgo.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:43 docs.google.com</li>
+<li> 19:24 megancoyle.com</li>
+<li class='same'> 19:23 megancoyle.com</li>
+<li class='same'> 19:20 megancoyle.com</li>
+<li> 19:20 www.google.com</li>
+<li class='same'> 19:19 www.google.com</li>
+<li> 19:14 www.nationalgallery.org.uk</li>
+<li> 19:14 www.google.com</li>
+<li> 19:13 www.savevenice.org</li>
+<li class='same'> 19:10 www.savevenice.org</li>
+<li> 19:10 www.google.com</li>
+<li> 19:05 en.wiktionary.org</li>
+<li> 19:02 www.google.com</li>
+<li class='same'> 19:01 www.google.com</li>
+<li> 19:00 voodoo.io</li>
+<li> 18:43 docs.google.com</li>
 <li class='same'> 18:40 docs.google.com</li>
 <li class='same'> 18:39 docs.google.com</li>
 <li class='same'> 18:38 docs.google.com</li>
@@ -875,6 +905,10 @@ With number of accesses/minutes in parentheses
 <li> 06:56 outlook.office365.com</li>
 <li> 06:56 outlook.office.com</li>
 <li> 06:56 bsky.app</li>
+<li> 06:39 www.google.com</li>
+<li> 06:38 www.homebrewtalk.com</li>
+<li> 06:37 www.google.com</li>
+<li class='same'> 06:35 www.google.com</li>
 </ul>
 
 <H3>Monday, 27/01/25</H3>
@@ -1279,11 +1313,23 @@ With number of accesses/minutes in parentheses
 <li> 08:16 bsky.app</li>
 </ul>
 
+<br>
+
+<ul><li> 07:18 www.google.com</li>
+<li> 07:17 liloandstitch.fandom.com</li>
+<li> 07:17 www.google.com</li>
+</ul>
+
 <H3>Saturday, 25/01/25</H3>
 
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:24 www.google.com</li>
+</ul>
 
 <br>
 
@@ -1411,6 +1457,8 @@ With number of accesses/minutes in parentheses
 <li> 07:40 <a href="https://en.wikipedia.org/wiki/Becky_Chambers">Becky Chambers - Wikipedia</a></li>
 <li> 07:40 www.google.com</li>
 <li> 07:39 bsky.app</li>
+<li> 07:20 www.google.com</li>
+<li> 07:19 www.csoonline.com</li>
 </ul>
 
 <br>
@@ -1702,6 +1750,8 @@ With number of accesses/minutes in parentheses
 <li> 11:01 outlook.office365.com</li>
 <li> 11:01 outlook.office.com</li>
 <li> 11:00 web.whatsapp.com</li>
+<li> 10:50 www.csoonline.com</li>
+<li> 10:48 www.google.com</li>
 <li> 10:32 <a href="https://en.wikipedia.org/wiki/Attack_tree">Attack tree - Wikipedia</a></li>
 <li> 10:32 www.google.com</li>
 <li> 10:31 chatgpt.com</li>
