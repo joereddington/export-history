@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1069)</li>
 <li>mail.google.com (1053)</li>
 <li>outlook.office.com (1047)</li>
-<li>docs.google.com (1000)</li>
+<li>docs.google.com (1003)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (355)</li>
 <li>www.reddit.com (345)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (268)</li>
 <li>calendar.google.com (264)</li>
 <li>login.microsoftonline.com (242)</li>
-<li>fritz.box (223)</li>
+<li>fritz.box (224)</li>
 <li>www.coursera.org (177)</li>
 <li>drive.google.com (165)</li>
 <li>qbo.intuit.com (146)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:25 fritz.box</li>
+<ul><li> 19:44 docs.google.com</li>
+<li class='same'> 19:43 docs.google.com</li>
+<li class='same'> 19:41 docs.google.com</li>
+<li> 19:39 fritz.box</li>
+<li class='same'> 19:25 fritz.box</li>
 <li> 19:21 192.168.178.57</li>
 <li> 19:05 fritz.box</li>
 <li class='same'> 19:04 fritz.box</li>
