@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2116)</li>
+<ol><li>www.google.com (2118)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1069)</li>
 <li>mail.google.com (1053)</li>
 <li>outlook.office.com (1047)</li>
-<li>docs.google.com (1005)</li>
+<li>docs.google.com (1008)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (355)</li>
-<li>www.reddit.com (345)</li>
+<li>www.reddit.com (346)</li>
 <li>chatgpt.com (322)</li>
 <li>rhul-my.sharepoint.com (317)</li>
 <li>www.linkedin.com (275)</li>
@@ -93,8 +93,8 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (116)</li>
 <li>rhul.sharepoint.com (108)</li>
 <li>www.theguardian.com (105)</li>
+<li>www.tesco.com (103)</li>
 <li>chat.openai.com (97)</li>
-<li>www.tesco.com (95)</li>
 <li>gmail.com (95)</li>
 <li>gitlab.cim.rhul.ac.uk (93)</li>
 <li>web.whatsapp.com (93)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 30/01/25</H3>
+
+<br>
+
+<ul><li> 21:26 www.tesco.com</li>
+<li class='same'> 21:25 www.tesco.com</li>
+<li class='same'> 21:24 www.tesco.com</li>
+<li class='same'> 21:23 www.tesco.com</li>
+<li class='same'> 21:22 www.tesco.com</li>
+<li class='same'> 21:21 www.tesco.com</li>
+<li class='same'> 21:20 www.tesco.com</li>
+<li class='same'> 21:18 www.tesco.com</li>
+<li> 21:18 www.google.com</li>
+<li> 21:17 docs.google.com</li>
+<li> 21:15 www.reddit.com</li>
+<li> 21:15 www.google.com</li>
+<li> 21:15 docs.google.com</li>
+<li class='same'> 21:14 docs.google.com</li>
+</ul>
 
 <br>
 
