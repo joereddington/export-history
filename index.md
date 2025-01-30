@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2113)</li>
+<ol><li>www.google.com (2115)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1069)</li>
 <li>mail.google.com (1053)</li>
@@ -76,15 +76,15 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1000)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (355)</li>
-<li>www.reddit.com (344)</li>
-<li>chatgpt.com (319)</li>
+<li>www.reddit.com (345)</li>
+<li>chatgpt.com (321)</li>
 <li>rhul-my.sharepoint.com (317)</li>
 <li>www.linkedin.com (275)</li>
 <li>moodle.royalholloway.ac.uk (273)</li>
 <li>github.com (268)</li>
 <li>calendar.google.com (264)</li>
 <li>login.microsoftonline.com (242)</li>
-<li>fritz.box (211)</li>
+<li>fritz.box (217)</li>
 <li>www.coursera.org (177)</li>
 <li>drive.google.com (165)</li>
 <li>qbo.intuit.com (146)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (116)</li>
 <li>rhul.sharepoint.com (108)</li>
 <li>www.theguardian.com (105)</li>
-<li>chat.openai.com (96)</li>
+<li>chat.openai.com (97)</li>
 <li>www.tesco.com (95)</li>
 <li>gmail.com (95)</li>
 <li>gitlab.cim.rhul.ac.uk (93)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:41 fast.com</li>
+<ul><li> 18:59 192.168.178.57</li>
+<li> 18:58 en.avm.de</li>
+<li> 18:58 www.google.com</li>
+<li> 18:58 fritz.box</li>
+<li class='same'> 18:57 fritz.box</li>
+<li> 18:56 192.168.178.57</li>
+<li> 18:56 fritz.box</li>
+<li class='same'> 18:54 fritz.box</li>
+<li class='same'> 18:52 fritz.box</li>
+<li> 18:51 www.reddit.com</li>
+<li> 18:51 www.google.com</li>
+<li> 18:50 fritz.box</li>
+<li> 18:48 feedly.com</li>
+<li> 18:46 chatgpt.com</li>
+<li class='same'> 18:45 chatgpt.com</li>
+<li> 18:45 chat.openai.com</li>
+<li> 18:41 fast.com</li>
 <li> 18:31 rog-forum.asus.com</li>
 <li> 18:31 www.google.com</li>
 <li> 18:25 fast.com</li>
