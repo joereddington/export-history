@@ -72,8 +72,8 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1071)</li>
 <li>docs.google.com (1063)</li>
+<li>mail.google.com (1061)</li>
 <li>outlook.office.com (1057)</li>
-<li>mail.google.com (1053)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (355)</li>
 <li>www.reddit.com (347)</li>
@@ -81,8 +81,8 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (324)</li>
 <li>www.linkedin.com (275)</li>
 <li>moodle.royalholloway.ac.uk (275)</li>
+<li>calendar.google.com (269)</li>
 <li>github.com (268)</li>
-<li>calendar.google.com (265)</li>
 <li>login.microsoftonline.com (244)</li>
 <li>fritz.box (228)</li>
 <li>www.coursera.org (177)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (105)</li>
 <li>www.tesco.com (103)</li>
 <li>chat.openai.com (98)</li>
-<li>gmail.com (95)</li>
+<li>gmail.com (96)</li>
 <li>gitlab.cim.rhul.ac.uk (93)</li>
 <li>web.whatsapp.com (93)</li>
 
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:45 fritz.box</li>
+<ul><li> 10:04 mail.google.com</li>
+<li class='same'> 10:03 mail.google.com</li>
+<li> 10:00 www.tax.service.gov.uk</li>
+<li class='same'> 09:59 www.tax.service.gov.uk</li>
+<li> 09:58 www.gov.uk</li>
+<li> 09:58 calendar.google.com</li>
+<li> 09:58 mail.google.com</li>
+<li class='same'> 09:56 mail.google.com</li>
+<li> 09:56 www.sibs.org.uk</li>
+<li> 09:56 mail.google.com</li>
+<li> 09:56 calendar.google.com</li>
+<li class='same'> 09:55 calendar.google.com</li>
+<li> 09:55 mail.google.com</li>
+<li> 09:55 calendar.google.com</li>
+<li> 09:55 mail.google.com</li>
+<li class='same'> 09:53 mail.google.com</li>
+<li> 09:53 gmail.com</li>
+<li> 09:45 fritz.box</li>
 <li> 09:45 outlook.office.com</li>
 <li> 09:38 rhul.sharepoint.com</li>
 <li class='same'> 09:37 rhul.sharepoint.com</li>
