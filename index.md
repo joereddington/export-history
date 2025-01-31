@@ -69,24 +69,24 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2119)</li>
-<li>outlook.office.com (1099)</li>
+<li>outlook.office.com (1102)</li>
 <li>bsky.app (1091)</li>
-<li>mail.google.com (1082)</li>
+<li>mail.google.com (1085)</li>
+<li>docs.google.com (1075)</li>
 <li>outlook.office365.com (1075)</li>
-<li>docs.google.com (1070)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (357)</li>
-<li>www.reddit.com (349)</li>
+<li>www.reddit.com (353)</li>
 <li>rhul-my.sharepoint.com (346)</li>
 <li>chatgpt.com (324)</li>
 <li>moodle.royalholloway.ac.uk (276)</li>
 <li>www.linkedin.com (275)</li>
-<li>calendar.google.com (271)</li>
-<li>github.com (268)</li>
+<li>calendar.google.com (272)</li>
+<li>github.com (270)</li>
 <li>login.microsoftonline.com (245)</li>
 <li>fritz.box (228)</li>
 <li>www.coursera.org (177)</li>
-<li>qbo.intuit.com (172)</li>
+<li>qbo.intuit.com (174)</li>
 <li>drive.google.com (167)</li>
 <li>forms.office.com (146)</li>
 <li>ev.turnitinuk.com (126)</li>
@@ -95,9 +95,9 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (105)</li>
 <li>www.tesco.com (103)</li>
 <li>chat.openai.com (98)</li>
-<li>gmail.com (97)</li>
-<li>web.whatsapp.com (94)</li>
-<li>gitlab.cim.rhul.ac.uk (93)</li>
+<li>gmail.com (98)</li>
+<li>web.whatsapp.com (95)</li>
+<li>gitlab.cim.rhul.ac.uk (94)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,67 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:01 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 15:08 <a href="https://en.wikipedia.org/wiki/Harvard_University_Press">Harvard University Press - Wikipedia</a></li>
+<li> 15:07 cup.columbia.edu</li>
+<li> 15:07 <a href="https://en.wikipedia.org/wiki/Columbia_University_Press">Columbia University Press - Wikipedia</a></li>
+<li> 15:07 press.uchicago.edu</li>
+<li class='same'> 15:04 press.uchicago.edu</li>
+<li> 15:04 <a href="https://en.wikipedia.org/wiki/University_of_Chicago_Press">University of Chicago Press - Wikipedia</a></li>
+<li> 15:03 www.cambridge.org</li>
+<li class='same'> 15:02 www.cambridge.org</li>
+<li> 15:01 duckduckgo.com</li>
+<li> 15:01 <a href="https://en.wikipedia.org/wiki/Rankings_of_academic_publishers">Rankings of academic publishers - Wikipedia</a></li>
+<li> 15:01 duckduckgo.com</li>
+<li> 15:00 open.umn.edu</li>
+<li> 15:00 github.com</li>
+<li class='same'> 14:59 github.com</li>
+<li> 14:59 open.umn.edu</li>
+<li class='same'> 14:58 open.umn.edu</li>
+<li> 14:57 www.reddit.com</li>
+<li class='same'> 14:56 www.reddit.com</li>
+<li> 14:56 duckduckgo.com</li>
+<li> 14:56 warwick.rl.talis.com</li>
+<li class='same'> 14:55 warwick.rl.talis.com</li>
+<li> 14:55 duckduckgo.com</li>
+<li> 14:54 www.collegevine.com</li>
+<li> 14:54 www.academia.edu</li>
+<li> 14:54 www.sba-research.org</li>
+<li> 14:54 duckduckgo.com</li>
+<li class='same'> 14:53 duckduckgo.com</li>
+<li> 14:52 web.whatsapp.com</li>
+<li> 14:50 docs.google.com</li>
+<li class='same'> 14:49 docs.google.com</li>
+<li class='same'> 14:48 docs.google.com</li>
+<li class='same'> 14:47 docs.google.com</li>
+<li> 14:47 qbo.intuit.com</li>
+<li> 14:47 accounts.intuit.com</li>
+<li> 14:47 qbo.intuit.com</li>
+<li> 14:47 c14.qbo.intuit.com</li>
+<li> 14:47 app.qbo.intuit.com</li>
+<li> 14:47 outlook.office.com</li>
+<li> 14:46 gitlab.cim.rhul.ac.uk</li>
+<li> 14:45 calendar.google.com</li>
+<li> 14:43 mail.google.com</li>
+<li class='same'> 14:42 mail.google.com</li>
+<li> 14:42 gmail.com</li>
+<li> 14:41 <a href="https://xkcd.com/3039/">xkcd: Human Altitude</a></li>
+<li> 14:41 <a href="https://xkcd.com/3040/">xkcd: Chemical Formulas</a></li>
+<li> 14:41 <a href="https://xkcd.com/3041/">xkcd: Unit Circle</a></li>
+<li> 14:41 <a href="https://xkcd.com/3042/">xkcd: T. Rex Evolution</a></li>
+<li> 14:41 <a href="https://xkcd.com/3043/">xkcd: Muons</a></li>
+<li> 14:41 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
+<li> 14:40 www.reddit.com</li>
+<li class='same'> 14:39 www.reddit.com</li>
+<li> 14:39 mail.google.com</li>
+<li> 14:39 outlook.office.com</li>
+<li class='same'> 14:38 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:03 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:03 docs.google.com</li>
+<li> 14:01 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:01 outlook.office.com</li>
 <li> 14:00 www.giantitp.com</li>
 <li> 14:00 mail.google.com</li>
@@ -7059,7 +7119,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:55 www.reddit.com</li>
 <li> 19:51 bsky.app</li>
-<li> 19:50 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 19:50 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 <li> 19:49 docs.google.com</li>
 <li> 19:47 bsky.app</li>
 <li class='same'> 19:46 bsky.app</li>
@@ -7907,7 +7967,7 @@ With number of accesses/minutes in parentheses
 <li> 06:41 www.facebook.com</li>
 <li> 06:37 bsky.app</li>
 <li class='same'> 06:35 bsky.app</li>
-<li> 06:33 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 06:33 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 <li> 06:33 www.giantitp.com</li>
 <li> 06:33 www.linkedin.com</li>
 <li class='same'> 06:32 www.linkedin.com</li>
@@ -8039,7 +8099,7 @@ With number of accesses/minutes in parentheses
 <li> 15:03 <a href="https://xkcd.com/3027/">xkcd: Exclusion Principle</a></li>
 <li> 15:03 <a href="https://xkcd.com/3028/">xkcd: D Roll</a></li>
 <li> 15:02 <a href="https://xkcd.com/3029/">xkcd: Sun Avoidance</a></li>
-<li> 15:02 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 15:02 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 <li> 15:02 www.giantitp.com</li>
 <li> 15:01 www.ebay.co.uk</li>
 <li> 15:00 blueskydirectory.com</li>
@@ -9050,7 +9110,7 @@ With number of accesses/minutes in parentheses
 <li> 14:17 <a href="https://xkcd.com/3023/">xkcd: The Maritime Approximation</a></li>
 <li> 14:17 <a href="https://xkcd.com/3024/">xkcd: METAR</a></li>
 <li> 14:16 <a href="https://xkcd.com/3025/">xkcd: Phase Change</a></li>
-<li> 14:16 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 14:16 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 <li> 14:14 www.giantitp.com</li>
 <li> 14:14 outlook.office365.com</li>
 <li> 14:14 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
@@ -9662,7 +9722,7 @@ With number of accesses/minutes in parentheses
 <li> 13:40 <a href="https://xkcd.com/3021/">xkcd: Seismologists</a></li>
 <li> 13:39 <a href="https://xkcd.com/3022/">xkcd: Making Tea</a></li>
 <li> 13:39 <a href="https://xkcd.com/3023/">xkcd: The Maritime Approximation</a></li>
-<li> 13:39 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 13:39 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 <li> 13:39 www.giantitp.com</li>
 <li> 13:37 bsky.app</li>
 <li class='same'> 13:36 bsky.app</li>
@@ -11081,7 +11141,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:02 www.explainxkcd.com</li>
 <li> 09:01 <a href="https://xkcd.com/3019/">xkcd: Advent Calendar Advent Calendar</a></li>
 <li> 09:01 <a href="https://xkcd.com/3020/">xkcd: Infinite Armada Chess</a></li>
-<li> 09:01 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 09:01 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 <li> 09:01 www.giantitp.com</li>
 <li> 09:01 www.linkedin.com</li>
 <li class='same'> 09:00 www.linkedin.com</li>
@@ -20203,7 +20263,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 11:52 chatgpt.com</li>
 <li> 11:42 docs.google.com</li>
-<li> 11:18 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 11:18 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 <li> 11:18 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 11:01 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
 </ul>
@@ -20469,7 +20529,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:54 www.overleaf.com</li>
 <li> 20:52 www.tightrope.co.uk</li>
-<li> 20:34 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 20:34 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 </ul>
 
 <br>
@@ -20530,7 +20590,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:09 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<ul><li> 21:09 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 </ul>
 
 <br>
@@ -20750,7 +20810,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:18 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<ul><li> 17:18 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 </ul>
 
 <br>
@@ -21012,7 +21072,7 @@ With number of accesses/minutes in parentheses
 <li> 08:12 mail.google.com</li>
 <li> 08:08 docs.google.com</li>
 <li> 08:07 www.google.com</li>
-<li> 07:57 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 07:57 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 </ul>
 
 <H3>Saturday, 17/08/24</H3>
@@ -21037,7 +21097,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:26 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<ul><li> 16:26 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 </ul>
 
 <H3>Thursday, 15/08/24</H3>
@@ -21061,7 +21121,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:19 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<ul><li> 16:19 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 </ul>
 
 <br>
@@ -21186,7 +21246,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:44 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<ul><li> 06:44 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 <li> 06:42 kdpreports.amazon.com</li>
 <li> 06:32 www.buzzfeed.com</li>
 </ul>
@@ -21292,7 +21352,7 @@ With number of accesses/minutes in parentheses
 <li> 07:06 www.facebook.com</li>
 <li> 07:03 www.amazon.co.uk</li>
 <li> 07:02 mail.google.com</li>
-<li> 06:46 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 06:46 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 <li> 06:37 mail.google.com</li>
 </ul>
 
@@ -21412,7 +21472,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:43 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<ul><li> 09:43 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 <li> 09:35 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 </ul>
 
@@ -21787,7 +21847,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:46 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<ul><li> 12:46 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 <li> 12:45 www.google.com</li>
 <li> 12:29 www.amazon.co.uk</li>
 <li> 12:28 kdpreports.amazon.com</li>
@@ -22679,7 +22739,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:19 webtimetables.royalholloway.ac.uk</li>
-<li> 11:08 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 11:08 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 </ul>
 
 <br>
@@ -22849,7 +22909,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:59 equalitytime.github.io</li>
-<li> 14:49 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 14:49 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 <li> 14:41 theopenvoicefactory.org</li>
 <li> 14:28 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 14:27 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
@@ -23258,7 +23318,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:20 www.google.com</li>
-<li> 18:19 <a href="https://xkcd.com/">xkcd: Origami Black Hole</a></li>
+<li> 18:19 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
 </ul>
 
 <br>
