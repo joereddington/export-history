@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2119)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office365.com (1071)</li>
-<li>docs.google.com (1063)</li>
-<li>mail.google.com (1061)</li>
-<li>outlook.office.com (1057)</li>
+<li>mail.google.com (1074)</li>
+<li>outlook.office365.com (1072)</li>
+<li>outlook.office.com (1069)</li>
+<li>docs.google.com (1064)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (355)</li>
 <li>www.reddit.com (347)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (324)</li>
 <li>www.linkedin.com (275)</li>
 <li>moodle.royalholloway.ac.uk (275)</li>
-<li>calendar.google.com (269)</li>
+<li>calendar.google.com (271)</li>
 <li>github.com (268)</li>
 <li>login.microsoftonline.com (244)</li>
 <li>fritz.box (228)</li>
@@ -91,13 +91,13 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (146)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>tvtropes.org (116)</li>
-<li>rhul.sharepoint.com (113)</li>
+<li>rhul.sharepoint.com (114)</li>
 <li>www.theguardian.com (105)</li>
 <li>www.tesco.com (103)</li>
 <li>chat.openai.com (98)</li>
 <li>gmail.com (96)</li>
+<li>web.whatsapp.com (94)</li>
 <li>gitlab.cim.rhul.ac.uk (93)</li>
-<li>web.whatsapp.com (93)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:04 mail.google.com</li>
+<ul><li> 10:29 mail.google.com</li>
+<li> 10:28 calendar.google.com</li>
+<li class='same'> 10:27 calendar.google.com</li>
+<li> 10:27 weather.metoffice.gov.uk</li>
+<li> 10:27 duckduckgo.com</li>
+<li> 10:26 mail.google.com</li>
+<li> 10:26 web.whatsapp.com</li>
+<li> 10:26 mail.google.com</li>
+<li class='same'> 10:25 mail.google.com</li>
+<li class='same'> 10:22 mail.google.com</li>
+<li> 10:21 docs.google.com</li>
+<li> 10:20 www.sfadb.com</li>
+<li> 10:20 <a href="https://en.wikipedia.org/wiki/Science_Fiction_Awards_Database">Science Fiction Awards Database - Wikipedia</a></li>
+<li> 10:20 <a href="https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel">Nebula Award for Best Novel - Wikipedia</a></li>
+<li> 10:20 mail.google.com</li>
+<li> 10:19 www.truefood.tech</li>
+<li> 10:18 outlook.office.com</li>
+<li> 10:18 mail.google.com</li>
+<li> 10:17 www.ihg.com</li>
+<li> 10:17 click.mc.ihg.com</li>
+<li> 10:17 support.google.com</li>
+<li> 10:15 www.tax.service.gov.uk</li>
+<li> 10:12 mail.google.com</li>
+<li class='same'> 10:11 mail.google.com</li>
+<li> 10:11 outlook.office.com</li>
+<li class='same'> 10:10 outlook.office.com</li>
+<li> 10:10 rhul.sharepoint.com</li>
+<li> 10:10 outlook.office.com</li>
+<li> 10:10 outlook.office365.com</li>
+<li> 10:10 outlook.office.com</li>
+<li> 10:09 mail.google.com</li>
+<li> 10:09 monitor.mozilla.org</li>
+<li class='same'> 10:08 monitor.mozilla.org</li>
+<li class='same'> 10:07 monitor.mozilla.org</li>
+<li> 10:07 accounts.firefox.com</li>
+<li> 10:07 monitor.mozilla.org</li>
+<li> 10:07 mail.google.com</li>
+<li class='same'> 10:06 mail.google.com</li>
+<li class='same'> 10:05 mail.google.com</li>
+<li class='same'> 10:04 mail.google.com</li>
 <li class='same'> 10:03 mail.google.com</li>
 <li> 10:00 www.tax.service.gov.uk</li>
 <li class='same'> 09:59 www.tax.service.gov.uk</li>
@@ -19095,6 +19134,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:34 outlook.office.com</li>
+<li class='same'> 12:32 outlook.office.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:23 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 </ul>
 
@@ -19635,6 +19680,7 @@ With number of accesses/minutes in parentheses
 <li> 14:23 outlook.office.com</li>
 <li class='same'> 14:10 outlook.office.com</li>
 <li class='same'> 14:05 outlook.office.com</li>
+<li class='same'> 14:02 outlook.office.com</li>
 <li> 13:49 www.amazon.co.uk</li>
 <li> 13:39 mail.google.com</li>
 <li> 13:19 outlook.office.com</li>
@@ -19658,7 +19704,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:29 mail.google.com</li>
-<li> 10:16 outlook.office.com</li>
+<li> 10:22 outlook.office.com</li>
+<li class='same'> 10:16 outlook.office.com</li>
 <li class='same'> 10:14 outlook.office.com</li>
 <li> 10:08 rl.talis.com</li>
 <li> 09:47 www.google.com</li>
@@ -19708,6 +19755,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:00 moodle.royalholloway.ac.uk</li>
 <li> 19:50 webtimetables.royalholloway.ac.uk</li>
 <li> 19:50 moodle.royalholloway.ac.uk</li>
+<li> 19:48 outlook.office.com</li>
 <li> 19:43 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 19:42 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
 <li> 19:40 <a href="https://www.bbc.co.uk/news/technology-54568784">British Airways fined £20m over data breach - BBC News</a></li>
@@ -19835,12 +19883,18 @@ With number of accesses/minutes in parentheses
 <li> 13:05 rhul-my.sharepoint.com</li>
 <li class='same'> 13:04 rhul-my.sharepoint.com</li>
 <li class='same'> 13:03 rhul-my.sharepoint.com</li>
+<li> 12:49 outlook.office.com</li>
 </ul>
 
 <br>
 
 <ul><li> 12:10 www.google.com</li>
 <li> 12:06 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:34 outlook.office.com</li>
 </ul>
 
 <br>
@@ -24710,6 +24764,9 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:36 accountscenter.facebook.com</li>
 <li class='same'> 20:35 accountscenter.facebook.com</li>
 <li> 20:35 www.facebook.com</li>
+<li> 20:32 monitor.mozilla.org</li>
+<li class='same'> 20:31 monitor.mozilla.org</li>
+<li class='same'> 20:30 monitor.mozilla.org</li>
 </ul>
 
 <br>
