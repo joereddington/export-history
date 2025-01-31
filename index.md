@@ -72,15 +72,15 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1069)</li>
 <li>mail.google.com (1053)</li>
-<li>outlook.office.com (1047)</li>
-<li>docs.google.com (1013)</li>
+<li>outlook.office.com (1048)</li>
+<li>docs.google.com (1016)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (355)</li>
-<li>www.reddit.com (346)</li>
+<li>www.reddit.com (347)</li>
 <li>chatgpt.com (322)</li>
 <li>rhul-my.sharepoint.com (317)</li>
 <li>www.linkedin.com (275)</li>
-<li>moodle.royalholloway.ac.uk (273)</li>
+<li>moodle.royalholloway.ac.uk (275)</li>
 <li>github.com (268)</li>
 <li>calendar.google.com (264)</li>
 <li>login.microsoftonline.com (242)</li>
@@ -104,11 +104,25 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 31/01/25</H3>
+
+<br>
+
+<ul><li> 06:57 docs.google.com</li>
+<li class='same'> 06:56 docs.google.com</li>
+</ul>
+
 <H3>Thursday, 30/01/25</H3>
 
 <br>
 
-<ul><li> 21:36 www.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:37 docs.google.com</li>
+<li> 21:36 www.reddit.com</li>
+<li> 21:36 www.google.com</li>
 <li> 21:36 docs.google.com</li>
 <li class='same'> 21:34 docs.google.com</li>
 <li class='same'> 21:33 docs.google.com</li>
@@ -180,7 +194,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:03 moodle.royalholloway.ac.uk</li>
+<ul><li> 16:09 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:09 outlook.office.com</li>
+<li> 16:07 duckduckgo.com</li>
+<li> 16:05 projects.cs.rhul.ac.uk</li>
+<li> 16:05 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:03 moodle.royalholloway.ac.uk</li>
 <li> 16:01 outlook.office.com</li>
 <li> 15:59 projects.cs.rhul.ac.uk</li>
 <li> 15:58 gitlab.cim.rhul.ac.uk</li>
