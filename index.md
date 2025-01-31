@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2119)</li>
-<li>outlook.office.com (1095)</li>
+<li>outlook.office.com (1099)</li>
 <li>bsky.app (1091)</li>
-<li>mail.google.com (1081)</li>
+<li>mail.google.com (1082)</li>
 <li>outlook.office365.com (1075)</li>
-<li>docs.google.com (1064)</li>
+<li>docs.google.com (1070)</li>
 <li>www.facebook.com (628)</li>
-<li>www.amazon.co.uk (355)</li>
-<li>www.reddit.com (347)</li>
+<li>www.amazon.co.uk (357)</li>
+<li>www.reddit.com (349)</li>
 <li>rhul-my.sharepoint.com (346)</li>
 <li>chatgpt.com (324)</li>
 <li>moodle.royalholloway.ac.uk (276)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (228)</li>
 <li>www.coursera.org (177)</li>
 <li>qbo.intuit.com (172)</li>
-<li>drive.google.com (166)</li>
+<li>drive.google.com (167)</li>
 <li>forms.office.com (146)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:02 duckduckgo.com</li>
+<ul><li> 14:01 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:01 outlook.office.com</li>
+<li> 14:00 www.giantitp.com</li>
+<li> 14:00 mail.google.com</li>
+<li> 13:56 www.reddit.com</li>
+<li class='same'> 13:53 www.reddit.com</li>
+<li> 13:52 docs.google.com</li>
+<li> 13:52 drive.google.com</li>
+<li> 13:51 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:17 outlook.office.com</li>
+<li class='same'> 13:15 outlook.office.com</li>
+<li> 13:10 docs.google.com</li>
+<li class='same'> 13:08 docs.google.com</li>
+<li class='same'> 13:07 docs.google.com</li>
+<li class='same'> 13:06 docs.google.com</li>
+<li> 13:04 <a href="https://en.wikipedia.org/wiki/Ursula_Vernon">Ursula Vernon - Wikipedia</a></li>
+<li> 13:04 <a href="https://en.wikipedia.org/wiki/Nettle_%26_Bone">Nettle & Bone - Wikipedia</a></li>
+<li> 13:04 duckduckgo.com</li>
+<li> 13:04 www.amazon.co.uk</li>
+<li> 13:03 docs.google.com</li>
+<li> 13:03 www.amazon.co.uk</li>
+<li> 13:03 duckduckgo.com</li>
+<li class='same'> 13:02 duckduckgo.com</li>
 <li> 12:59 mail.google.com</li>
 <li> 12:59 outlook.office.com</li>
 <li> 12:59 www.giantitp.com</li>
