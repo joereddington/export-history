@@ -73,11 +73,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1069)</li>
 <li>mail.google.com (1053)</li>
 <li>outlook.office.com (1048)</li>
-<li>docs.google.com (1016)</li>
+<li>docs.google.com (1038)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (355)</li>
 <li>www.reddit.com (347)</li>
-<li>chatgpt.com (322)</li>
+<li>chatgpt.com (324)</li>
 <li>rhul-my.sharepoint.com (317)</li>
 <li>www.linkedin.com (275)</li>
 <li>moodle.royalholloway.ac.uk (275)</li>
@@ -86,15 +86,15 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (242)</li>
 <li>fritz.box (225)</li>
 <li>www.coursera.org (177)</li>
-<li>drive.google.com (165)</li>
-<li>qbo.intuit.com (146)</li>
+<li>drive.google.com (166)</li>
+<li>qbo.intuit.com (149)</li>
 <li>forms.office.com (143)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>tvtropes.org (116)</li>
 <li>rhul.sharepoint.com (108)</li>
 <li>www.theguardian.com (105)</li>
 <li>www.tesco.com (103)</li>
-<li>chat.openai.com (97)</li>
+<li>chat.openai.com (98)</li>
 <li>gmail.com (95)</li>
 <li>gitlab.cim.rhul.ac.uk (93)</li>
 <li>web.whatsapp.com (93)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:57 docs.google.com</li>
+<ul><li> 07:52 chatgpt.com</li>
+<li class='same'> 07:51 chatgpt.com</li>
+<li> 07:51 chat.openai.com</li>
+<li> 07:50 docs.google.com</li>
+<li class='same'> 07:49 docs.google.com</li>
+<li> 07:40 qbo.intuit.com</li>
+<li class='same'> 07:39 qbo.intuit.com</li>
+<li> 07:39 accounts.intuit.com</li>
+<li> 07:39 c14.qbo.intuit.com</li>
+<li> 07:39 app.qbo.intuit.com</li>
+<li> 07:33 docs.google.com</li>
+<li class='same'> 07:23 docs.google.com</li>
+<li class='same'> 07:22 docs.google.com</li>
+<li class='same'> 07:21 docs.google.com</li>
+<li class='same'> 07:20 docs.google.com</li>
+<li class='same'> 07:19 docs.google.com</li>
+<li class='same'> 07:18 docs.google.com</li>
+<li class='same'> 07:17 docs.google.com</li>
+<li class='same'> 07:16 docs.google.com</li>
+<li class='same'> 07:14 docs.google.com</li>
+<li class='same'> 07:13 docs.google.com</li>
+<li class='same'> 07:12 docs.google.com</li>
+<li class='same'> 07:11 docs.google.com</li>
+<li class='same'> 07:10 docs.google.com</li>
+<li class='same'> 07:09 docs.google.com</li>
+<li class='same'> 07:07 docs.google.com</li>
+<li class='same'> 07:06 docs.google.com</li>
+<li class='same'> 07:05 docs.google.com</li>
+<li class='same'> 07:04 docs.google.com</li>
+<li class='same'> 07:03 docs.google.com</li>
+<li> 07:03 drive.google.com</li>
+<li> 06:57 docs.google.com</li>
 <li class='same'> 06:56 docs.google.com</li>
 </ul>
 
@@ -20410,6 +20441,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:30 www.amazon.co.uk</li>
 <li> 10:26 qbo.intuit.com</li>
 <li class='same'> 10:24 qbo.intuit.com</li>
+<li class='same'> 10:22 qbo.intuit.com</li>
 <li class='same'> 10:21 qbo.intuit.com</li>
 </ul>
 
