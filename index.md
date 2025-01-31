@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2119)</li>
-<li>outlook.office.com (1102)</li>
+<li>outlook.office.com (1107)</li>
 <li>bsky.app (1091)</li>
-<li>mail.google.com (1087)</li>
+<li>mail.google.com (1088)</li>
+<li>outlook.office365.com (1076)</li>
 <li>docs.google.com (1075)</li>
-<li>outlook.office365.com (1075)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (367)</li>
-<li>www.reddit.com (353)</li>
+<li>www.reddit.com (355)</li>
 <li>rhul-my.sharepoint.com (346)</li>
 <li>chatgpt.com (324)</li>
 <li>moodle.royalholloway.ac.uk (276)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:51 theonion.com</li>
+<ul><li> 17:28 www.reddit.com</li>
+<li> 17:28 outlook.office.com</li>
+<li> 17:26 www.reddit.com</li>
+<li> 17:25 mail.google.com</li>
+<li> 17:25 outlook.office.com</li>
+<li class='same'> 17:23 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:56 outlook.office.com</li>
+<li> 15:56 outlook.office365.com</li>
+<li> 15:56 outlook.office.com</li>
+<li> 15:56 www.thedailymash.co.uk</li>
+<li class='same'> 15:55 www.thedailymash.co.uk</li>
+<li class='same'> 15:54 www.thedailymash.co.uk</li>
+<li> 15:54 duckduckgo.com</li>
+<li> 15:53 newsthump.com</li>
+<li> 15:52 theonion.com</li>
+<li class='same'> 15:51 theonion.com</li>
 <li class='same'> 15:50 theonion.com</li>
 <li> 15:50 web.whatsapp.com</li>
 <li> 15:50 reductress.com</li>
