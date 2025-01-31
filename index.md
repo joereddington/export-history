@@ -69,29 +69,29 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2119)</li>
+<li>outlook.office.com (1095)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office.com (1082)</li>
-<li>mail.google.com (1078)</li>
-<li>outlook.office365.com (1074)</li>
+<li>mail.google.com (1081)</li>
+<li>outlook.office365.com (1075)</li>
 <li>docs.google.com (1064)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (355)</li>
 <li>www.reddit.com (347)</li>
-<li>rhul-my.sharepoint.com (340)</li>
+<li>rhul-my.sharepoint.com (346)</li>
 <li>chatgpt.com (324)</li>
+<li>moodle.royalholloway.ac.uk (276)</li>
 <li>www.linkedin.com (275)</li>
-<li>moodle.royalholloway.ac.uk (275)</li>
 <li>calendar.google.com (271)</li>
 <li>github.com (268)</li>
-<li>login.microsoftonline.com (244)</li>
+<li>login.microsoftonline.com (245)</li>
 <li>fritz.box (228)</li>
 <li>www.coursera.org (177)</li>
-<li>qbo.intuit.com (168)</li>
+<li>qbo.intuit.com (172)</li>
 <li>drive.google.com (166)</li>
 <li>forms.office.com (146)</li>
 <li>ev.turnitinuk.com (126)</li>
+<li>rhul.sharepoint.com (120)</li>
 <li>tvtropes.org (116)</li>
-<li>rhul.sharepoint.com (114)</li>
 <li>www.theguardian.com (105)</li>
 <li>www.tesco.com (103)</li>
 <li>chat.openai.com (98)</li>
@@ -108,7 +108,57 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:01 outlook.office.com</li>
+<ul><li> 13:02 duckduckgo.com</li>
+<li> 12:59 mail.google.com</li>
+<li> 12:59 outlook.office.com</li>
+<li> 12:59 www.giantitp.com</li>
+<li> 12:59 outlook.office.com</li>
+<li class='same'> 12:57 outlook.office.com</li>
+<li class='same'> 12:56 outlook.office.com</li>
+<li> 12:56 outlook.office365.com</li>
+<li> 12:56 mail.google.com</li>
+<li> 12:55 rhul-my.sharepoint.com</li>
+<li> 12:53 rhul.sharepoint.com</li>
+<li class='same'> 12:50 rhul.sharepoint.com</li>
+<li> 12:50 rhul-my.sharepoint.com</li>
+<li> 12:49 rhul.sharepoint.com</li>
+<li> 12:49 rhul-my.sharepoint.com</li>
+<li> 12:47 outlook.office.com</li>
+<li class='same'> 12:45 outlook.office.com</li>
+<li class='same'> 12:44 outlook.office.com</li>
+<li> 12:43 duckduckgo.com</li>
+<li> 12:41 <a href="https://en.wikipedia.org/wiki/Exclusive_or">Exclusive or - Wikipedia</a></li>
+<li> 12:41 duckduckgo.com</li>
+<li> 12:40 rhul.sharepoint.com</li>
+<li class='same'> 12:38 rhul.sharepoint.com</li>
+<li> 12:38 rhul-my.sharepoint.com</li>
+<li class='same'> 12:37 rhul-my.sharepoint.com</li>
+<li> 12:35 outlook.office.com</li>
+<li class='same'> 12:34 outlook.office.com</li>
+<li> 12:24 duckduckgo.com</li>
+<li> 12:24 rhul.sharepoint.com</li>
+<li> 12:24 rhul-my.sharepoint.com</li>
+<li> 12:22 login.microsoftonline.com</li>
+<li> 12:21 moodle2324.royalholloway.ac.uk</li>
+<li> 12:21 moodle.royalholloway.ac.uk</li>
+<li> 12:21 www.royalholloway.ac.uk</li>
+<li> 12:21 duckduckgo.com</li>
+<li> 12:20 outlook.office.com</li>
+<li> 12:19 duckduckgo.com</li>
+<li> 12:18 thecyberscheme.org</li>
+<li> 12:18 duckduckgo.com</li>
+<li> 12:17 outlook.office.com</li>
+<li class='same'> 12:16 outlook.office.com</li>
+<li> 12:15 mail.google.com</li>
+<li> 12:15 qbo.intuit.com</li>
+<li class='same'> 12:13 qbo.intuit.com</li>
+<li class='same'> 12:12 qbo.intuit.com</li>
+<li> 12:12 accounts.intuit.com</li>
+<li> 12:12 qbo.intuit.com</li>
+<li> 12:12 app.qbo.intuit.com</li>
+<li> 12:12 c14.qbo.intuit.com</li>
+<li> 12:12 outlook.office.com</li>
+<li class='same'> 12:01 outlook.office.com</li>
 <li class='same'> 12:00 outlook.office.com</li>
 <li> 12:00 duckduckgo.com</li>
 <li> 11:58 outlook.office.com</li>
