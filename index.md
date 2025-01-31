@@ -71,11 +71,11 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2119)</li>
 <li>outlook.office.com (1102)</li>
 <li>bsky.app (1091)</li>
-<li>mail.google.com (1085)</li>
+<li>mail.google.com (1087)</li>
 <li>docs.google.com (1075)</li>
 <li>outlook.office365.com (1075)</li>
 <li>www.facebook.com (628)</li>
-<li>www.amazon.co.uk (357)</li>
+<li>www.amazon.co.uk (367)</li>
 <li>www.reddit.com (353)</li>
 <li>rhul-my.sharepoint.com (346)</li>
 <li>chatgpt.com (324)</li>
@@ -94,10 +94,10 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (116)</li>
 <li>www.theguardian.com (105)</li>
 <li>www.tesco.com (103)</li>
+<li>gmail.com (99)</li>
 <li>chat.openai.com (98)</li>
-<li>gmail.com (98)</li>
-<li>web.whatsapp.com (95)</li>
-<li>gitlab.cim.rhul.ac.uk (94)</li>
+<li>web.whatsapp.com (96)</li>
+<li>discord.com (94)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,53 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:08 <a href="https://en.wikipedia.org/wiki/Harvard_University_Press">Harvard University Press - Wikipedia</a></li>
+<ul><li> 15:51 theonion.com</li>
+<li class='same'> 15:50 theonion.com</li>
+<li> 15:50 web.whatsapp.com</li>
+<li> 15:50 reductress.com</li>
+<li class='same'> 15:49 reductress.com</li>
+<li class='same'> 15:48 reductress.com</li>
+<li> 15:47 feedly.com</li>
+<li> 15:47 accounts.intuit.com</li>
+<li> 15:47 feedly.com</li>
+<li class='same'> 15:46 feedly.com</li>
+<li> 15:37 mail.google.com</li>
+<li> 15:34 discord.com</li>
+<li class='same'> 15:33 discord.com</li>
+<li class='same'> 15:32 discord.com</li>
+<li> 15:32 lite.classdojo.com</li>
+<li> 15:32 mail.google.com</li>
+<li> 15:32 gmail.com</li>
+<li> 15:31 home.classdojo.com</li>
+<li> 15:31 vimeo.com</li>
+<li class='same'> 15:29 vimeo.com</li>
+<li class='same'> 15:28 vimeo.com</li>
+<li> 15:26 podcasts.apple.com</li>
+<li> 15:26 cookingissues.com</li>
+<li> 15:26 duckduckgo.com</li>
+<li class='same'> 15:25 duckduckgo.com</li>
+<li> 15:25 prezi.com</li>
+<li> 15:24 technorati.com</li>
+<li> 15:24 login.teamviewer.com</li>
+<li> 15:24 api.lulu.com</li>
+<li> 15:24 www.lulu.com</li>
+<li> 15:23 id.railcard.co.uk</li>
+<li> 15:23 secure.railcard.co.uk</li>
+<li> 15:23 panel.dreamhost.com</li>
+<li> 15:21 www.duolingo.com</li>
+<li> 15:18 www.amazon.co.uk</li>
+<li class='same'> 15:17 www.amazon.co.uk</li>
+<li class='same'> 15:16 www.amazon.co.uk</li>
+<li class='same'> 15:15 www.amazon.co.uk</li>
+<li class='same'> 15:14 www.amazon.co.uk</li>
+<li class='same'> 15:13 www.amazon.co.uk</li>
+<li class='same'> 15:12 www.amazon.co.uk</li>
+<li class='same'> 15:11 www.amazon.co.uk</li>
+<li class='same'> 15:10 www.amazon.co.uk</li>
+<li class='same'> 15:09 www.amazon.co.uk</li>
+<li> 15:09 www.hup.harvard.edu</li>
+<li class='same'> 15:08 www.hup.harvard.edu</li>
+<li> 15:08 <a href="https://en.wikipedia.org/wiki/Harvard_University_Press">Harvard University Press - Wikipedia</a></li>
 <li> 15:07 cup.columbia.edu</li>
 <li> 15:07 <a href="https://en.wikipedia.org/wiki/Columbia_University_Press">Columbia University Press - Wikipedia</a></li>
 <li> 15:07 press.uchicago.edu</li>
@@ -22433,7 +22479,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:15 www.facebook.com</li>
 <li class='same'> 17:14 www.facebook.com</li>
-<li class='same'> 17:05 www.facebook.com</li>
+<li> 17:06 home.classdojo.com</li>
+<li> 17:05 www.facebook.com</li>
 </ul>
 
 <br>
@@ -22825,6 +22872,7 @@ With number of accesses/minutes in parentheses
 <li> 13:36 whitewaterwriters.com</li>
 <li> 13:30 accounts.google.com</li>
 <li> 13:08 <a href="https://en.wikipedia.org/wiki/Bluey_(2018_TV_series)">Bluey (2018 TV series) - Wikipedia</a></li>
+<li> 13:03 home.classdojo.com</li>
 <li> 12:47 webtimetables.royalholloway.ac.uk</li>
 </ul>
 
@@ -27542,11 +27590,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:46 themeads.org.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 18:13 app.governorhub.com</li>
+<li> 18:17 home.classdojo.com</li>
+<li> 18:13 app.governorhub.com</li>
 </ul>
 
 <br>
@@ -27861,7 +27906,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:43 accounts.google.com</li>
+<ul><li> 15:04 home.classdojo.com</li>
+<li> 14:43 accounts.google.com</li>
 <li class='same'> 14:25 accounts.google.com</li>
 <li> 14:17 github.com</li>
 </ul>
@@ -30072,6 +30118,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 15:14 home.classdojo.com</li>
+</ul>
 
 <br>
 
