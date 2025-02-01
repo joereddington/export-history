@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2121)</li>
 <li>outlook.office.com (1107)</li>
-<li>docs.google.com (1096)</li>
+<li>docs.google.com (1097)</li>
 <li>bsky.app (1091)</li>
 <li>mail.google.com (1088)</li>
 <li>outlook.office365.com (1076)</li>
@@ -90,8 +90,8 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (167)</li>
 <li>forms.office.com (146)</li>
 <li>ev.turnitinuk.com (126)</li>
+<li>tvtropes.org (124)</li>
 <li>rhul.sharepoint.com (120)</li>
-<li>tvtropes.org (118)</li>
 <li>www.theguardian.com (105)</li>
 <li>www.tesco.com (103)</li>
 <li>chat.openai.com (99)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 01/02/25</H3>
+
+<br>
+
+<ul><li> 20:06 tvtropes.org</li>
+<li class='same'> 20:05 tvtropes.org</li>
+<li> 20:04 docs.google.com</li>
+<li> 20:03 tvtropes.org</li>
+<li class='same'> 20:02 tvtropes.org</li>
+<li class='same'> 20:00 tvtropes.org</li>
+<li class='same'> 19:58 tvtropes.org</li>
+<li> 19:56 duckduckgo.com</li>
+</ul>
 
 <br>
 
