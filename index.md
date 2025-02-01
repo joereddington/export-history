@@ -72,8 +72,8 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (1107)</li>
 <li>bsky.app (1091)</li>
 <li>mail.google.com (1088)</li>
+<li>docs.google.com (1077)</li>
 <li>outlook.office365.com (1076)</li>
-<li>docs.google.com (1075)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (367)</li>
 <li>www.reddit.com (355)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (272)</li>
 <li>github.com (270)</li>
 <li>login.microsoftonline.com (245)</li>
-<li>fritz.box (228)</li>
+<li>fritz.box (230)</li>
 <li>www.coursera.org (177)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (167)</li>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 31/01/25</H3>
+
+<br>
+
+<ul><li> 20:12 feedly.com</li>
+<li class='same'> 20:11 feedly.com</li>
+<li> 20:11 docs.google.com</li>
+<li class='same'> 20:10 docs.google.com</li>
+</ul>
 
 <br>
 
@@ -25088,7 +25096,8 @@ With number of accesses/minutes in parentheses
 <li> 11:20 findarace.com</li>
 <li> 11:14 gitlab.cim.rhul.ac.uk</li>
 <li> 10:59 www.amazon.co.uk</li>
-<li> 10:40 fritz.box</li>
+<li> 10:41 fritz.box</li>
+<li class='same'> 10:40 fritz.box</li>
 </ul>
 
 <br>
@@ -25640,6 +25649,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:54 fritz.box</li>
+<li class='same'> 20:49 fritz.box</li>
 <li class='same'> 20:47 fritz.box</li>
 </ul>
 
@@ -29271,7 +29281,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:30 www.royalholloway.ac.uk</li>
+<ul><li> 11:42 www.duolingo.com</li>
+<li class='same'> 11:38 www.duolingo.com</li>
+<li> 11:30 www.royalholloway.ac.uk</li>
 </ul>
 
 <H3>Wednesday, 06/09/23</H3>
@@ -29454,6 +29466,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 17:04 www.duolingo.com</li>
+<li class='same'> 16:59 www.duolingo.com</li>
+</ul>
 
 <br>
 
@@ -30141,6 +30159,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:14 home.classdojo.com</li>
+<li> 15:11 www.duolingo.com</li>
+<li class='same'> 15:07 www.duolingo.com</li>
+<li class='same'> 15:06 www.duolingo.com</li>
 </ul>
 
 <br>
