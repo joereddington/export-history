@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2119)</li>
+<ol><li>www.google.com (2121)</li>
 <li>outlook.office.com (1107)</li>
 <li>bsky.app (1091)</li>
 <li>mail.google.com (1088)</li>
-<li>docs.google.com (1079)</li>
+<li>docs.google.com (1086)</li>
 <li>outlook.office365.com (1076)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (367)</li>
-<li>www.reddit.com (355)</li>
+<li>www.reddit.com (360)</li>
 <li>rhul-my.sharepoint.com (346)</li>
 <li>chatgpt.com (326)</li>
 <li>moodle.royalholloway.ac.uk (276)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:07 chatgpt.com</li>
+<ul><li> 16:07 www.google.com</li>
+<li> 15:50 www.reddit.com</li>
+<li class='same'> 15:48 www.reddit.com</li>
+<li class='same'> 15:46 www.reddit.com</li>
+<li class='same'> 15:45 www.reddit.com</li>
+<li class='same'> 15:44 www.reddit.com</li>
+<li> 15:42 docs.google.com</li>
+<li class='same'> 15:41 docs.google.com</li>
+<li> 15:41 deliciouslyguiltfree.com</li>
+<li> 15:41 duckduckgo.com</li>
+<li> 15:40 docs.google.com</li>
+<li class='same'> 15:39 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:14 docs.google.com</li>
+<li class='same'> 13:13 docs.google.com</li>
+<li class='same'> 13:11 docs.google.com</li>
+<li> 13:07 chatgpt.com</li>
 <li class='same'> 13:06 chatgpt.com</li>
 <li> 13:06 chat.openai.com</li>
 <li> 13:06 www.bosh.tv</li>
@@ -116,6 +135,16 @@ With number of accesses/minutes in parentheses
 <li> 13:06 web.whatsapp.com</li>
 <li> 13:05 docs.google.com</li>
 <li class='same'> 13:04 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:58 www.sfadb.com</li>
+<li class='same'> 11:57 www.sfadb.com</li>
+<li class='same'> 11:52 www.sfadb.com</li>
+<li class='same'> 11:48 www.sfadb.com</li>
+<li class='same'> 11:46 www.sfadb.com</li>
+<li> 11:46 www.google.com</li>
 </ul>
 
 <br>
