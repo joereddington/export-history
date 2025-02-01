@@ -71,17 +71,17 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2121)</li>
 <li>outlook.office.com (1107)</li>
 <li>bsky.app (1091)</li>
+<li>docs.google.com (1089)</li>
 <li>mail.google.com (1088)</li>
-<li>docs.google.com (1086)</li>
 <li>outlook.office365.com (1076)</li>
 <li>www.facebook.com (628)</li>
-<li>www.amazon.co.uk (367)</li>
-<li>www.reddit.com (360)</li>
+<li>www.amazon.co.uk (370)</li>
+<li>www.reddit.com (368)</li>
 <li>rhul-my.sharepoint.com (346)</li>
 <li>chatgpt.com (326)</li>
 <li>moodle.royalholloway.ac.uk (276)</li>
+<li>calendar.google.com (275)</li>
 <li>www.linkedin.com (275)</li>
-<li>calendar.google.com (273)</li>
 <li>github.com (270)</li>
 <li>login.microsoftonline.com (245)</li>
 <li>fritz.box (230)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>www.tesco.com (103)</li>
 <li>chat.openai.com (99)</li>
 <li>gmail.com (99)</li>
-<li>web.whatsapp.com (97)</li>
+<li>web.whatsapp.com (99)</li>
 <li>discord.com (94)</li>
 
 
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:07 www.google.com</li>
+<ul><li> 18:03 www.amazon.co.uk</li>
+<li> 18:02 feedly.com</li>
+<li class='same'> 18:01 feedly.com</li>
+<li> 18:00 www.reddit.com</li>
+<li class='same'> 17:58 www.reddit.com</li>
+<li class='same'> 17:57 www.reddit.com</li>
+<li class='same'> 17:56 www.reddit.com</li>
+<li> 17:48 web.whatsapp.com</li>
+<li> 17:48 calendar.google.com</li>
+<li> 17:45 duckduckgo.com</li>
+<li> 17:43 calendar.google.com</li>
+<li> 17:38 docs.google.com</li>
+<li class='same'> 17:37 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:17 web.whatsapp.com</li>
+<li> 16:16 jobs.royalholloway.ac.uk</li>
+<li> 16:16 duckduckgo.com</li>
+<li> 16:16 www.reddit.com</li>
+<li class='same'> 16:15 www.reddit.com</li>
+<li class='same'> 16:13 www.reddit.com</li>
+<li class='same'> 16:12 www.reddit.com</li>
+<li> 16:12 docs.google.com</li>
+<li> 16:07 www.google.com</li>
+<li> 16:01 www.amazon.co.uk</li>
+<li class='same'> 16:00 www.amazon.co.uk</li>
+<li> 16:00 duckduckgo.com</li>
 <li> 15:50 www.reddit.com</li>
 <li class='same'> 15:48 www.reddit.com</li>
 <li class='same'> 15:46 www.reddit.com</li>
