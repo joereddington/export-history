@@ -70,8 +70,8 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2121)</li>
 <li>outlook.office.com (1107)</li>
+<li>docs.google.com (1096)</li>
 <li>bsky.app (1091)</li>
-<li>docs.google.com (1089)</li>
 <li>mail.google.com (1088)</li>
 <li>outlook.office365.com (1076)</li>
 <li>www.facebook.com (628)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (146)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
-<li>tvtropes.org (116)</li>
+<li>tvtropes.org (118)</li>
 <li>www.theguardian.com (105)</li>
 <li>www.tesco.com (103)</li>
 <li>chat.openai.com (99)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:03 www.amazon.co.uk</li>
+<ul><li> 18:39 tvtropes.org</li>
+<li class='same'> 18:37 tvtropes.org</li>
+<li> 18:37 duckduckgo.com</li>
+<li> 18:37 docs.google.com</li>
+<li class='same'> 18:36 docs.google.com</li>
+<li class='same'> 18:35 docs.google.com</li>
+<li class='same'> 18:34 docs.google.com</li>
+<li class='same'> 18:33 docs.google.com</li>
+<li class='same'> 18:32 docs.google.com</li>
+<li class='same'> 18:30 docs.google.com</li>
+<li> 18:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 18:13 digital-photography-school.com</li>
+<li> 18:13 duckduckgo.com</li>
+<li> 18:04 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 18:03 www.amazon.co.uk</li>
 <li> 18:02 feedly.com</li>
 <li class='same'> 18:01 feedly.com</li>
 <li> 18:00 www.reddit.com</li>
@@ -22388,6 +22402,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:14 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:30 digital-photography-school.com</li>
 </ul>
 
 <H3>Friday, 05/07/24</H3>
