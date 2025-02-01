@@ -72,16 +72,16 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (1107)</li>
 <li>bsky.app (1091)</li>
 <li>mail.google.com (1088)</li>
-<li>docs.google.com (1077)</li>
+<li>docs.google.com (1079)</li>
 <li>outlook.office365.com (1076)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (367)</li>
 <li>www.reddit.com (355)</li>
 <li>rhul-my.sharepoint.com (346)</li>
-<li>chatgpt.com (324)</li>
+<li>chatgpt.com (326)</li>
 <li>moodle.royalholloway.ac.uk (276)</li>
 <li>www.linkedin.com (275)</li>
-<li>calendar.google.com (272)</li>
+<li>calendar.google.com (273)</li>
 <li>github.com (270)</li>
 <li>login.microsoftonline.com (245)</li>
 <li>fritz.box (230)</li>
@@ -94,9 +94,9 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (116)</li>
 <li>www.theguardian.com (105)</li>
 <li>www.tesco.com (103)</li>
+<li>chat.openai.com (99)</li>
 <li>gmail.com (99)</li>
-<li>chat.openai.com (98)</li>
-<li>web.whatsapp.com (96)</li>
+<li>web.whatsapp.com (97)</li>
 <li>discord.com (94)</li>
 
 
@@ -104,7 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 01/02/25</H3>
+
+<br>
+
+<ul><li> 13:07 chatgpt.com</li>
+<li class='same'> 13:06 chatgpt.com</li>
+<li> 13:06 chat.openai.com</li>
+<li> 13:06 www.bosh.tv</li>
+<li> 13:06 duckduckgo.com</li>
+<li> 13:06 web.whatsapp.com</li>
+<li> 13:05 docs.google.com</li>
+<li class='same'> 13:04 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:51 calendar.google.com</li>
+</ul>
+
 <H3>Friday, 31/01/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
