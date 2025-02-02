@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2121)</li>
 <li>outlook.office.com (1107)</li>
-<li>docs.google.com (1097)</li>
+<li>docs.google.com (1101)</li>
 <li>bsky.app (1091)</li>
 <li>mail.google.com (1088)</li>
 <li>outlook.office365.com (1076)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (124)</li>
 <li>rhul.sharepoint.com (120)</li>
 <li>www.theguardian.com (105)</li>
-<li>www.tesco.com (103)</li>
+<li>www.tesco.com (104)</li>
 <li>chat.openai.com (99)</li>
 <li>gmail.com (99)</li>
 <li>web.whatsapp.com (99)</li>
@@ -104,7 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 02/02/25</H3>
+
+<br>
+
+<ul><li> 09:20 docs.google.com</li>
+<li class='same'> 09:19 docs.google.com</li>
+<li> 09:17 www.tesco.com</li>
+<li> 09:17 duckduckgo.com</li>
+<li> 09:17 docs.google.com</li>
+<li class='same'> 08:54 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:05 www.nhs.uk</li>
+<li class='same'> 06:04 www.nhs.uk</li>
+<li> 06:04 duckduckgo.com</li>
+</ul>
+
 <H3>Saturday, 01/02/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
