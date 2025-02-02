@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2121)</li>
+<ol><li>www.google.com (2122)</li>
 <li>outlook.office.com (1107)</li>
 <li>docs.google.com (1101)</li>
 <li>bsky.app (1091)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (275)</li>
 <li>github.com (270)</li>
 <li>login.microsoftonline.com (245)</li>
-<li>fritz.box (230)</li>
+<li>fritz.box (236)</li>
 <li>www.coursera.org (177)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (167)</li>
@@ -94,9 +94,9 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (120)</li>
 <li>www.theguardian.com (105)</li>
 <li>www.tesco.com (104)</li>
+<li>web.whatsapp.com (100)</li>
 <li>chat.openai.com (99)</li>
 <li>gmail.com (99)</li>
-<li>web.whatsapp.com (99)</li>
 <li>discord.com (94)</li>
 
 
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 02/02/25</H3>
+
+<br>
+
+<ul><li> 11:52 docs.arduino.cc</li>
+<li> 11:42 fritz.box</li>
+<li> 11:25 duckduckgo.com</li>
+<li> 11:25 fritz.box</li>
+<li> 11:24 www.gadcet.com</li>
+<li> 11:24 duckduckgo.com</li>
+<li> 11:24 www.tp-link.com</li>
+<li> 11:24 duckduckgo.com</li>
+<li> 11:20 fritz.box</li>
+<li class='same'> 11:19 fritz.box</li>
+<li class='same'> 11:17 fritz.box</li>
+<li class='same'> 11:16 fritz.box</li>
+<li> 11:00 web.whatsapp.com</li>
+<li> 10:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 10:33 www.google.com</li>
+</ul>
 
 <br>
 
@@ -17808,6 +17827,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:55 www.amazon.co.uk</li>
 <li> 16:48 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
 <li> 16:47 docs.google.com</li>
+<li> 16:46 docs.arduino.cc</li>
 <li> 16:36 qbo.intuit.com</li>
 <li class='same'> 16:31 qbo.intuit.com</li>
 <li> 16:25 kdp.amazon.com</li>
