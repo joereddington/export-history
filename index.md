@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2158)</li>
+<li>docs.google.com (1110)</li>
 <li>outlook.office.com (1107)</li>
-<li>docs.google.com (1101)</li>
 <li>bsky.app (1091)</li>
 <li>mail.google.com (1088)</li>
 <li>outlook.office365.com (1076)</li>
@@ -83,8 +83,8 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (275)</li>
 <li>www.linkedin.com (275)</li>
 <li>github.com (270)</li>
+<li>fritz.box (250)</li>
 <li>login.microsoftonline.com (245)</li>
-<li>fritz.box (244)</li>
 <li>www.coursera.org (177)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (167)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (127)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
-<li>www.theguardian.com (108)</li>
+<li>www.theguardian.com (109)</li>
 <li>www.tesco.com (104)</li>
 <li>chat.openai.com (100)</li>
 <li>web.whatsapp.com (100)</li>
@@ -108,8 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:09 fast.com</li>
+<ul><li> 13:41 docs.google.com</li>
+<li class='same'> 13:40 docs.google.com</li>
+<li class='same'> 13:37 docs.google.com</li>
+<li> 13:37 fritz.box</li>
+<li> 13:37 docs.google.com</li>
+<li class='same'> 13:36 docs.google.com</li>
+<li class='same'> 13:33 docs.google.com</li>
+<li class='same'> 13:31 docs.google.com</li>
+<li class='same'> 13:30 docs.google.com</li>
+<li> 13:28 <a href="https://en.wikipedia.org/wiki/La-Z-Boy">La-Z-Boy - Wikipedia</a></li>
+<li> 13:28 duckduckgo.com</li>
+<li> 13:26 docs.google.com</li>
+<li> 13:18 www.theguardian.com</li>
+<li> 13:18 192.168.178.30</li>
+<li class='same'> 13:17 192.168.178.30</li>
+<li> 13:17 fritz.box</li>
+<li class='same'> 13:11 fritz.box</li>
+<li> 13:09 fast.com</li>
 <li> 13:08 www.google.com</li>
+<li> 13:07 fritz.box</li>
+<li class='same'> 13:06 fritz.box</li>
+<li class='same'> 13:05 fritz.box</li>
+<li> 13:05 duckduckgo.com</li>
+<li> 13:02 192.168.0.254</li>
+<li> 13:02 tplinkplc.net</li>
 <li> 13:01 www.tp-link.com</li>
 <li> 13:01 duckduckgo.com</li>
 <li> 13:00 192.168.0.254</li>
