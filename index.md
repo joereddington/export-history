@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2158)</li>
+<ol><li>www.google.com (2160)</li>
 <li>docs.google.com (1113)</li>
 <li>outlook.office.com (1107)</li>
 <li>bsky.app (1091)</li>
 <li>mail.google.com (1088)</li>
 <li>outlook.office365.com (1076)</li>
 <li>www.facebook.com (628)</li>
-<li>www.amazon.co.uk (379)</li>
-<li>www.reddit.com (375)</li>
+<li>www.amazon.co.uk (382)</li>
+<li>www.reddit.com (376)</li>
 <li>rhul-my.sharepoint.com (346)</li>
 <li>chatgpt.com (329)</li>
 <li>moodle.royalholloway.ac.uk (276)</li>
@@ -95,9 +95,9 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (109)</li>
 <li>www.tesco.com (104)</li>
 <li>chat.openai.com (101)</li>
-<li>web.whatsapp.com (100)</li>
+<li>web.whatsapp.com (101)</li>
 <li>gmail.com (99)</li>
-<li>discord.com (94)</li>
+<li>duckduckgo.com (96)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:09 www.screwfix.com</li>
+<ul><li> 15:21 web.whatsapp.com</li>
+<li> 15:20 www.reddit.com</li>
+<li> 15:19 duckduckgo.com</li>
+<li> 15:18 www.amazon.co.uk</li>
+<li class='same'> 15:17 www.amazon.co.uk</li>
+<li> 15:17 www.diydoctor.org.uk</li>
+<li> 15:15 forums.pelicanparts.com</li>
+<li> 15:15 duckduckgo.com</li>
+<li> 15:13 www.amazon.co.uk</li>
+<li> 15:11 www.zoro.co.uk</li>
+<li> 15:11 duckduckgo.com</li>
+<li> 15:11 www.google.com</li>
+<li> 15:11 duckduckgo.com</li>
+<li> 15:11 www.google.com</li>
+<li> 15:09 www.screwfix.com</li>
 <li> 15:09 duckduckgo.com</li>
 <li> 15:09 <a href="https://www.youtube.com/shorts/y6nfycF8fSI">(135) Pivot hinges for cabinet #diycrafts #carpenter - YouTube</a></li>
 <li> 15:09 <a href="https://www.youtube.com/results?search_query=pivot+hinge">(135) pivot hinge - YouTube</a></li>
