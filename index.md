@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2165)</li>
+<ol><li>www.google.com (2169)</li>
+<li>outlook.office.com (1118)</li>
 <li>docs.google.com (1117)</li>
-<li>outlook.office.com (1117)</li>
 <li>bsky.app (1091)</li>
 <li>mail.google.com (1088)</li>
 <li>outlook.office365.com (1078)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (382)</li>
-<li>www.reddit.com (376)</li>
+<li>www.reddit.com (378)</li>
 <li>rhul-my.sharepoint.com (346)</li>
 <li>chatgpt.com (329)</li>
+<li>calendar.google.com (278)</li>
 <li>moodle.royalholloway.ac.uk (277)</li>
-<li>calendar.google.com (276)</li>
 <li>www.linkedin.com (275)</li>
 <li>github.com (270)</li>
 <li>fritz.box (250)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:09 web.whatsapp.com</li>
+<ul><li> 09:10 outlook.office.com</li>
+<li> 09:10 calendar.google.com</li>
+<li> 08:59 www.google.com</li>
+<li> 08:59 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:47 zoom.us</li>
+</ul>
+
+<br>
+
+<ul><li> 07:16 calendar.google.com</li>
+<li> 07:13 zoom.us</li>
+<li> 07:09 web.whatsapp.com</li>
 <li> 07:08 duckduckgo.com</li>
 <li> 07:07 www.coursera.org</li>
 <li class='same'> 07:06 www.coursera.org</li>
@@ -169,7 +184,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:21 web.whatsapp.com</li>
+<ul><li> 15:43 www.reddit.com</li>
+<li> 15:42 www.google.com</li>
+<li> 15:42 www.bullerltd.co.uk</li>
+<li> 15:42 www.google.com</li>
+<li class='same'> 15:41 www.google.com</li>
+<li> 15:41 fast.com</li>
+<li> 15:21 web.whatsapp.com</li>
 <li> 15:20 www.reddit.com</li>
 <li> 15:19 duckduckgo.com</li>
 <li> 15:18 www.amazon.co.uk</li>
@@ -232,8 +253,10 @@ With number of accesses/minutes in parentheses
 <li> 13:18 192.168.178.30</li>
 <li class='same'> 13:17 192.168.178.30</li>
 <li> 13:17 fritz.box</li>
-<li class='same'> 13:11 fritz.box</li>
-<li> 13:09 fast.com</li>
+<li> 13:11 fast.com</li>
+<li> 13:11 fritz.box</li>
+<li> 13:11 fast.com</li>
+<li class='same'> 13:09 fast.com</li>
 <li> 13:08 www.google.com</li>
 <li> 13:07 fritz.box</li>
 <li class='same'> 13:06 fritz.box</li>
