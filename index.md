@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2171)</li>
-<li>outlook.office.com (1139)</li>
+<ol><li>www.google.com (2173)</li>
+<li>outlook.office.com (1146)</li>
 <li>docs.google.com (1117)</li>
 <li>mail.google.com (1096)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office365.com (1078)</li>
-<li>www.facebook.com (628)</li>
+<li>outlook.office365.com (1079)</li>
+<li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (382)</li>
 <li>www.reddit.com (378)</li>
 <li>rhul-my.sharepoint.com (346)</li>
 <li>chatgpt.com (329)</li>
-<li>calendar.google.com (278)</li>
+<li>calendar.google.com (279)</li>
 <li>moodle.royalholloway.ac.uk (277)</li>
 <li>www.linkedin.com (275)</li>
 <li>github.com (270)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:40 www.google.com</li>
+<ul><li> 13:05 outlook.office.com</li>
+<li class='same'> 13:04 outlook.office.com</li>
+<li> 13:04 calendar.google.com</li>
+<li> 13:03 outlook.office.com</li>
+<li class='same'> 12:59 outlook.office.com</li>
+<li> 12:59 outlook.office365.com</li>
+<li> 12:59 www.facebook.com</li>
+<li> 12:51 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:40 www.google.com</li>
+<li> 11:40 www.gov.uk</li>
+<li> 11:40 www.google.com</li>
 </ul>
 
 <br>
@@ -20607,6 +20621,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:02 outlook.office.com</li>
 <li> 14:52 rhul-my.sharepoint.com</li>
 <li> 14:52 outlook.office.com</li>
+<li class='same'> 14:25 outlook.office.com</li>
 <li> 14:24 intranet.royalholloway.ac.uk</li>
 <li> 14:24 outlook.office.com</li>
 <li class='same'> 14:22 outlook.office.com</li>
@@ -22215,6 +22230,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:24 outlook.office.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:17 moodle2324.royalholloway.ac.uk</li>
 <li> 11:10 claude.ai</li>
 <li> 10:57 github.com</li>
@@ -22283,11 +22303,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:13 www.evernote.com</li>
 <li> 15:13 accounts.evernote.com</li>
 <li> 15:13 www.evernote.com</li>
-</ul>
-
-<br>
-
-<ul><li> 14:38 myview.rhul.zellis.com</li>
+<li> 15:07 outlook.office.com</li>
+<li> 14:38 myview.rhul.zellis.com</li>
 <li> 14:37 dashboards.rhul.ac.uk</li>
 <li> 14:37 myview.rhul.zellis.com</li>
 <li> 14:27 dashboards.rhul.ac.uk</li>
