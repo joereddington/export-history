@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2179)</li>
+<ol><li>www.google.com (2180)</li>
 <li>outlook.office.com (1178)</li>
-<li>docs.google.com (1135)</li>
+<li>docs.google.com (1137)</li>
 <li>mail.google.com (1124)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1082)</li>
 <li>www.facebook.com (629)</li>
+<li>www.amazon.co.uk (391)</li>
 <li>www.reddit.com (386)</li>
-<li>www.amazon.co.uk (384)</li>
 <li>rhul-my.sharepoint.com (356)</li>
-<li>chatgpt.com (332)</li>
+<li>chatgpt.com (333)</li>
 <li>calendar.google.com (280)</li>
 <li>moodle.royalholloway.ac.uk (277)</li>
 <li>www.linkedin.com (275)</li>
@@ -89,13 +89,13 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (168)</li>
 <li>forms.office.com (146)</li>
-<li>tvtropes.org (127)</li>
+<li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
+<li>duckduckgo.com (111)</li>
 <li>www.theguardian.com (109)</li>
 <li>gmail.com (107)</li>
-<li>web.whatsapp.com (106)</li>
-<li>duckduckgo.com (106)</li>
+<li>web.whatsapp.com (107)</li>
 <li>www.tesco.com (104)</li>
 <li>chat.openai.com (103)</li>
 
@@ -105,6 +105,37 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 03/02/25</H3>
+
+<br>
+
+<ul><li> 21:05 www.amazon.co.uk</li>
+<li class='same'> 21:04 www.amazon.co.uk</li>
+<li> 21:03 www.arduino.cc</li>
+<li> 21:03 www.ebay.co.uk</li>
+<li> 21:03 uk.redbrain.shop</li>
+<li> 21:03 duckduckgo.com</li>
+<li> 21:02 www.amazon.co.uk</li>
+<li> 20:57 duckduckgo.com</li>
+<li> 20:52 www.amazon.co.uk</li>
+<li class='same'> 20:51 www.amazon.co.uk</li>
+<li class='same'> 20:49 www.amazon.co.uk</li>
+<li class='same'> 20:48 www.amazon.co.uk</li>
+<li> 20:48 duckduckgo.com</li>
+<li> 20:42 www.arduino.cc</li>
+<li> 20:25 duckduckgo.com</li>
+<li> 20:17 <a href="https://en.wikipedia.org/wiki/Apollo_Guidance_Computer">Apollo Guidance Computer - Wikipedia</a></li>
+<li> 20:17 duckduckgo.com</li>
+<li> 20:16 chatgpt.com</li>
+<li> 19:48 tvtropes.org</li>
+<li> 19:48 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:21 web.whatsapp.com</li>
+<li> 18:19 docs.google.com</li>
+<li class='same'> 18:18 docs.google.com</li>
+</ul>
 
 <br>
 
