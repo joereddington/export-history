@@ -69,42 +69,89 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2165)</li>
-<li>docs.google.com (1113)</li>
-<li>outlook.office.com (1107)</li>
+<li>docs.google.com (1117)</li>
+<li>outlook.office.com (1117)</li>
 <li>bsky.app (1091)</li>
 <li>mail.google.com (1088)</li>
-<li>outlook.office365.com (1076)</li>
+<li>outlook.office365.com (1078)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (382)</li>
 <li>www.reddit.com (376)</li>
 <li>rhul-my.sharepoint.com (346)</li>
 <li>chatgpt.com (329)</li>
-<li>moodle.royalholloway.ac.uk (276)</li>
-<li>calendar.google.com (275)</li>
+<li>moodle.royalholloway.ac.uk (277)</li>
+<li>calendar.google.com (276)</li>
 <li>www.linkedin.com (275)</li>
 <li>github.com (270)</li>
 <li>fritz.box (250)</li>
-<li>login.microsoftonline.com (245)</li>
-<li>www.coursera.org (177)</li>
+<li>login.microsoftonline.com (246)</li>
+<li>www.coursera.org (183)</li>
 <li>qbo.intuit.com (174)</li>
-<li>drive.google.com (167)</li>
+<li>drive.google.com (168)</li>
 <li>forms.office.com (146)</li>
 <li>tvtropes.org (127)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
 <li>www.theguardian.com (109)</li>
 <li>www.tesco.com (104)</li>
+<li>web.whatsapp.com (103)</li>
 <li>chat.openai.com (101)</li>
-<li>web.whatsapp.com (101)</li>
 <li>gmail.com (99)</li>
-<li>duckduckgo.com (96)</li>
+<li>duckduckgo.com (99)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Monday, 03/02/25</H3>
+
+<br>
+
+<ul><li> 07:09 web.whatsapp.com</li>
+<li> 07:08 duckduckgo.com</li>
+<li> 07:07 www.coursera.org</li>
+<li class='same'> 07:06 www.coursera.org</li>
+<li class='same'> 07:05 www.coursera.org</li>
+<li> 07:04 calendar.google.com</li>
+<li> 07:04 www.coursera.org</li>
+<li class='same'> 07:03 www.coursera.org</li>
+<li> 07:02 web.whatsapp.com</li>
+<li> 07:02 www.coursera.org</li>
+<li> 07:02 outlook.office.com</li>
+<li class='same'> 06:56 outlook.office.com</li>
+<li class='same'> 06:55 outlook.office.com</li>
+<li> 06:45 duckduckgo.com</li>
+<li> 06:44 moodle.royalholloway.ac.uk</li>
+<li> 06:44 login.microsoftonline.com</li>
+<li> 06:43 outlook.office.com</li>
+<li class='same'> 06:42 outlook.office.com</li>
+<li class='same'> 06:40 outlook.office.com</li>
+<li> 06:40 outlook.office365.com</li>
+<li> 06:40 outlook.office.com</li>
+<li> 06:39 projects.cs.rhul.ac.uk</li>
+<li> 06:39 outlook.office.com</li>
+<li> 06:39 outlook.office365.com</li>
+<li> 06:39 outlook.office.com</li>
+<li> 06:38 docs.google.com</li>
+<li> 06:38 drive.google.com</li>
+<li> 06:37 docs.google.com</li>
+<li> 06:36 outlook.office.com</li>
+</ul>
+
 <H3>Sunday, 02/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:13 roamingchina.com</li>
+<li> 21:13 duckduckgo.com</li>
+<li> 21:12 docs.google.com</li>
+<li class='same'> 21:11 docs.google.com</li>
+</ul>
 
 <br>
 
