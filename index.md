@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2173)</li>
-<li>outlook.office.com (1146)</li>
-<li>docs.google.com (1117)</li>
-<li>mail.google.com (1096)</li>
+<li>outlook.office.com (1160)</li>
+<li>docs.google.com (1120)</li>
+<li>mail.google.com (1101)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1079)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (382)</li>
 <li>www.reddit.com (378)</li>
-<li>rhul-my.sharepoint.com (346)</li>
-<li>chatgpt.com (329)</li>
+<li>rhul-my.sharepoint.com (347)</li>
+<li>chatgpt.com (331)</li>
 <li>calendar.google.com (279)</li>
 <li>moodle.royalholloway.ac.uk (277)</li>
 <li>www.linkedin.com (275)</li>
@@ -94,10 +94,10 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (120)</li>
 <li>www.theguardian.com (109)</li>
 <li>www.tesco.com (104)</li>
-<li>web.whatsapp.com (103)</li>
+<li>web.whatsapp.com (104)</li>
+<li>chat.openai.com (102)</li>
 <li>gmail.com (102)</li>
-<li>chat.openai.com (101)</li>
-<li>duckduckgo.com (100)</li>
+<li>duckduckgo.com (102)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:05 outlook.office.com</li>
+<ul><li> 14:08 mail.google.com</li>
+<li> 14:06 outlook.office.com</li>
+<li class='same'> 14:05 outlook.office.com</li>
+<li class='same'> 14:02 outlook.office.com</li>
+<li class='same'> 14:01 outlook.office.com</li>
+<li class='same'> 14:00 outlook.office.com</li>
+<li> 13:59 mail.google.com</li>
+<li> 13:57 outlook.office.com</li>
+<li class='same'> 13:55 outlook.office.com</li>
+<li> 13:54 web.whatsapp.com</li>
+<li> 13:53 rhul-my.sharepoint.com</li>
+<li> 13:53 outlook.office.com</li>
+<li class='same'> 13:52 outlook.office.com</li>
+<li class='same'> 13:51 outlook.office.com</li>
+<li class='same'> 13:49 outlook.office.com</li>
+<li class='same'> 13:48 outlook.office.com</li>
+<li class='same'> 13:47 outlook.office.com</li>
+<li> 13:44 yougov.co.uk</li>
+<li> 13:44 duckduckgo.com</li>
+<li> 13:44 yougov.co.uk</li>
+<li> 13:39 <a href="https://en.wikipedia.org/wiki/Wedding_of_Prince_Charles_and_Camilla_Parker_Bowles">Wedding of Prince Charles and Camilla Parker Bowles - Wikipedia</a></li>
+<li> 13:38 duckduckgo.com</li>
+<li> 13:32 mail.google.com</li>
+<li class='same'> 13:31 mail.google.com</li>
+<li class='same'> 13:29 mail.google.com</li>
+<li> 13:28 outlook.office.com</li>
+<li> 13:24 chatgpt.com</li>
+<li class='same'> 13:23 chatgpt.com</li>
+<li> 13:23 chat.openai.com</li>
+<li> 13:22 docs.google.com</li>
+<li class='same'> 13:21 docs.google.com</li>
+<li class='same'> 13:19 docs.google.com</li>
+<li> 13:05 outlook.office.com</li>
 <li class='same'> 13:04 outlook.office.com</li>
 <li> 13:04 calendar.google.com</li>
 <li> 13:03 outlook.office.com</li>
