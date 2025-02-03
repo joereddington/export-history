@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2173)</li>
+<ol><li>www.google.com (2179)</li>
 <li>outlook.office.com (1176)</li>
 <li>docs.google.com (1135)</li>
-<li>mail.google.com (1108)</li>
+<li>mail.google.com (1122)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1081)</li>
 <li>www.facebook.com (629)</li>
+<li>www.reddit.com (386)</li>
 <li>www.amazon.co.uk (384)</li>
-<li>www.reddit.com (380)</li>
-<li>rhul-my.sharepoint.com (351)</li>
+<li>rhul-my.sharepoint.com (356)</li>
 <li>chatgpt.com (332)</li>
 <li>calendar.google.com (280)</li>
 <li>moodle.royalholloway.ac.uk (277)</li>
@@ -93,11 +93,11 @@ With number of accesses/minutes in parentheses
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
 <li>www.theguardian.com (109)</li>
-<li>web.whatsapp.com (105)</li>
-<li>duckduckgo.com (105)</li>
+<li>gmail.com (107)</li>
+<li>web.whatsapp.com (106)</li>
+<li>duckduckgo.com (106)</li>
 <li>www.tesco.com (104)</li>
 <li>chat.openai.com (103)</li>
-<li>gmail.com (102)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,31 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 03/02/25</H3>
+
+<br>
+
+<ul><li> 17:04 www.google.com</li>
+<li> 16:44 rhul-my.sharepoint.com</li>
+<li> 16:44 mail.google.com</li>
+<li> 16:44 gmail.com</li>
+<li> 16:43 mail.google.com</li>
+<li> 16:43 gmail.com</li>
+<li> 16:43 mail.google.com</li>
+<li> 16:43 rhul-my.sharepoint.com</li>
+<li class='same'> 16:42 rhul-my.sharepoint.com</li>
+<li> 16:42 mail.google.com</li>
+<li> 16:42 gmail.com</li>
+<li> 16:41 rhul-my.sharepoint.com</li>
+<li class='same'> 16:40 rhul-my.sharepoint.com</li>
+<li> 16:39 mail.google.com</li>
+<li> 16:39 web.whatsapp.com</li>
+<li> 16:38 mail.google.com</li>
+<li> 16:38 gmail.com</li>
+<li> 16:38 mail.google.com</li>
+<li> 16:38 gmail.com</li>
+<li> 16:38 www.citizensadvice.org.uk</li>
+<li> 16:37 duckduckgo.com</li>
+</ul>
 
 <br>
 
@@ -159,6 +184,16 @@ With number of accesses/minutes in parentheses
 <li> 14:35 www.reddit.com</li>
 <li> 14:35 duckduckgo.com</li>
 <li> 14:33 docs.google.com</li>
+<li> 14:31 www.reddit.com</li>
+<li> 14:30 www.google.com</li>
+<li> 14:30 www.reddit.com</li>
+<li class='same'> 14:29 www.reddit.com</li>
+<li> 14:29 www.google.com</li>
+<li> 14:29 www.reddit.com</li>
+<li class='same'> 14:28 www.reddit.com</li>
+<li class='same'> 14:27 www.reddit.com</li>
+<li> 14:27 www.google.com</li>
+<li class='same'> 14:26 www.google.com</li>
 <li> 14:26 outlook.office.com</li>
 <li class='same'> 14:25 outlook.office.com</li>
 <li> 14:25 rhul-my.sharepoint.com</li>
@@ -353,7 +388,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:28 www.google.com</li>
+<ul><li> 19:29 www.google.com</li>
+<li class='same'> 19:28 www.google.com</li>
 <li class='same'> 19:14 www.google.com</li>
 <li class='same'> 19:13 www.google.com</li>
 </ul>
@@ -18387,7 +18423,8 @@ With number of accesses/minutes in parentheses
 <li> 08:05 reductress.com</li>
 <li> 08:05 www.google.com</li>
 <li class='same'> 07:56 www.google.com</li>
-<li> 07:38 mail.google.com</li>
+<li> 07:46 mail.google.com</li>
+<li class='same'> 07:38 mail.google.com</li>
 <li class='same'> 07:37 mail.google.com</li>
 <li> 07:15 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 </ul>
@@ -18992,6 +19029,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:40 teams.microsoft.com</li>
 <li> 15:40 outlook.office365.com</li>
 <li class='same'> 15:39 outlook.office365.com</li>
+<li> 15:11 mail.google.com</li>
 <li> 15:10 rhul-my.sharepoint.com</li>
 </ul>
 
@@ -21998,6 +22036,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:50 mail.google.com</li>
 <li> 10:31 www.instagram.com</li>
 <li class='same'> 10:29 www.instagram.com</li>
+<li> 10:10 mail.google.com</li>
 <li> 10:02 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 09:57 www.royalholloway.ac.uk</li>
 <li> 09:57 www.google.com</li>
@@ -25903,6 +25942,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:13 andsoshethinks.co.uk</li>
+<li> 12:13 mail.google.com</li>
+<li class='same'> 12:12 mail.google.com</li>
+<li class='same'> 12:08 mail.google.com</li>
 <li> 12:04 myview.rhul.zellis.com</li>
 <li> 11:38 accounts.google.com</li>
 <li> 11:37 accounts.firefox.com</li>
@@ -28982,7 +29024,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:55 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<ul><li> 10:09 mail.google.com</li>
+<li> 09:55 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 </ul>
 
 <br>
