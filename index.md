@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2169)</li>
-<li>outlook.office.com (1118)</li>
+<li>outlook.office.com (1131)</li>
 <li>docs.google.com (1117)</li>
+<li>mail.google.com (1095)</li>
 <li>bsky.app (1091)</li>
-<li>mail.google.com (1088)</li>
 <li>outlook.office365.com (1078)</li>
 <li>www.facebook.com (628)</li>
 <li>www.amazon.co.uk (382)</li>
@@ -84,8 +84,8 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (275)</li>
 <li>github.com (270)</li>
 <li>fritz.box (250)</li>
-<li>login.microsoftonline.com (246)</li>
-<li>www.coursera.org (183)</li>
+<li>login.microsoftonline.com (247)</li>
+<li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (168)</li>
 <li>forms.office.com (146)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>www.tesco.com (104)</li>
 <li>web.whatsapp.com (103)</li>
 <li>chat.openai.com (101)</li>
-<li>gmail.com (99)</li>
-<li>duckduckgo.com (99)</li>
+<li>gmail.com (101)</li>
+<li>duckduckgo.com (100)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,44 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:10 outlook.office.com</li>
+<ul><li> 09:58 yougov.co.uk</li>
+<li class='same'> 09:57 yougov.co.uk</li>
+<li> 09:57 duckduckgo.com</li>
+<li> 09:55 outlook.office.com</li>
+<li> 09:55 mail.google.com</li>
+<li class='same'> 09:54 mail.google.com</li>
+<li class='same'> 09:53 mail.google.com</li>
+<li> 09:52 myview.rhul.zellis.com</li>
+<li> 09:52 mail.google.com</li>
+<li> 09:52 gmail.com</li>
+<li> 09:51 myview.rhul.zellis.com</li>
+<li> 09:51 login.microsoftonline.com</li>
+<li> 09:51 myview.rhul.zellis.com</li>
+<li> 09:44 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 09:32 jobs.royalholloway.ac.uk</li>
+<li class='same'> 09:31 jobs.royalholloway.ac.uk</li>
+<li> 09:31 outlook.office.com</li>
+<li> 09:31 www.uolacademiccontractors.com</li>
+<li> 09:31 outlook.office.com</li>
+<li class='same'> 09:30 outlook.office.com</li>
+<li class='same'> 09:28 outlook.office.com</li>
+<li class='same'> 09:27 outlook.office.com</li>
+<li> 09:27 www.coursera.org</li>
+<li class='same'> 09:25 www.coursera.org</li>
+<li> 09:24 outlook.office.com</li>
+<li class='same'> 09:23 outlook.office.com</li>
+<li> 09:23 mail.google.com</li>
+<li> 09:23 outlook.office.com</li>
+<li class='same'> 09:21 outlook.office.com</li>
+<li> 09:21 www.coursera.org</li>
+<li class='same'> 09:20 www.coursera.org</li>
+<li> 09:19 outlook.office.com</li>
+<li> 09:18 mail.google.com</li>
+<li class='same'> 09:16 mail.google.com</li>
+<li> 09:16 gmail.com</li>
+<li> 09:16 outlook.office.com</li>
+<li class='same'> 09:11 outlook.office.com</li>
+<li class='same'> 09:10 outlook.office.com</li>
 <li> 09:10 calendar.google.com</li>
 <li> 08:59 www.google.com</li>
 <li> 08:59 www.reddit.com</li>
@@ -26423,7 +26460,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:47 myview.rhul.zellis.com</li>
-<li> 12:43 jobs.royalholloway.ac.uk</li>
+<li> 12:44 jobs.royalholloway.ac.uk</li>
+<li class='same'> 12:43 jobs.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -28234,7 +28272,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:32 jobs.royalholloway.ac.uk</li>
+<ul><li> 10:58 jobs.royalholloway.ac.uk</li>
+<li class='same'> 10:57 jobs.royalholloway.ac.uk</li>
+<li class='same'> 10:32 jobs.royalholloway.ac.uk</li>
 </ul>
 
 <br>
