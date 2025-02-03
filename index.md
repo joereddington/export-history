@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2169)</li>
-<li>outlook.office.com (1131)</li>
+<li>outlook.office.com (1139)</li>
 <li>docs.google.com (1117)</li>
-<li>mail.google.com (1095)</li>
+<li>mail.google.com (1096)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1078)</li>
 <li>www.facebook.com (628)</li>
@@ -95,8 +95,8 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (109)</li>
 <li>www.tesco.com (104)</li>
 <li>web.whatsapp.com (103)</li>
+<li>gmail.com (102)</li>
 <li>chat.openai.com (101)</li>
-<li>gmail.com (101)</li>
 <li>duckduckgo.com (100)</li>
 
 
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:58 yougov.co.uk</li>
+<ul><li> 10:44 outlook.office.com</li>
+<li class='same'> 10:43 outlook.office.com</li>
+<li class='same'> 10:42 outlook.office.com</li>
+<li class='same'> 10:41 outlook.office.com</li>
+<li> 10:40 www.uolacademiccontractors.com</li>
+<li> 10:40 mail.google.com</li>
+<li> 10:40 gmail.com</li>
+<li> 10:40 outlook.office.com</li>
+<li class='same'> 10:30 outlook.office.com</li>
+<li class='same'> 10:29 outlook.office.com</li>
+<li> 10:29 feedly.com</li>
+<li> 10:29 www.natesilver.net</li>
+<li> 10:27 feedly.com</li>
+<li> 10:26 outlook.office.com</li>
+<li> 09:58 yougov.co.uk</li>
 <li class='same'> 09:57 yougov.co.uk</li>
 <li> 09:57 duckduckgo.com</li>
 <li> 09:55 outlook.office.com</li>
