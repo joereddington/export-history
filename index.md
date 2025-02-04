@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2182)</li>
 <li>outlook.office.com (1183)</li>
-<li>docs.google.com (1150)</li>
+<li>docs.google.com (1155)</li>
 <li>mail.google.com (1124)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1083)</li>
@@ -94,9 +94,9 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (120)</li>
 <li>duckduckgo.com (117)</li>
 <li>www.theguardian.com (109)</li>
+<li>www.tesco.com (107)</li>
 <li>gmail.com (107)</li>
 <li>web.whatsapp.com (107)</li>
-<li>www.tesco.com (105)</li>
 <li>chat.openai.com (103)</li>
 
 
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:11 docs.google.com</li>
+<ul><li> 07:18 docs.google.com</li>
+<li> 07:17 www.tesco.com</li>
+<li> 07:16 docs.google.com</li>
+<li class='same'> 07:15 docs.google.com</li>
+<li> 07:14 www.tesco.com</li>
+<li> 07:13 docs.google.com</li>
+<li class='same'> 07:12 docs.google.com</li>
+<li class='same'> 07:11 docs.google.com</li>
 <li class='same'> 07:10 docs.google.com</li>
 <li class='same'> 07:09 docs.google.com</li>
 <li class='same'> 07:08 docs.google.com</li>
