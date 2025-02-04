@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2186)</li>
-<li>outlook.office.com (1215)</li>
+<ol><li>www.google.com (2187)</li>
+<li>outlook.office.com (1217)</li>
 <li>docs.google.com (1166)</li>
-<li>mail.google.com (1143)</li>
+<li>mail.google.com (1145)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office365.com (1084)</li>
+<li>outlook.office365.com (1085)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (395)</li>
 <li>www.reddit.com (386)</li>
 <li>rhul-my.sharepoint.com (356)</li>
-<li>chatgpt.com (337)</li>
+<li>chatgpt.com (338)</li>
 <li>github.com (295)</li>
 <li>moodle.royalholloway.ac.uk (286)</li>
 <li>calendar.google.com (283)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>www.tesco.com (109)</li>
 <li>gmail.com (109)</li>
 <li>web.whatsapp.com (109)</li>
-<li>chat.openai.com (104)</li>
+<li>chat.openai.com (105)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 04/02/25</H3>
+
+<br>
+
+<ul><li> 21:11 outlook.office.com</li>
+<li class='same'> 21:10 outlook.office.com</li>
+<li> 21:10 outlook.office365.com</li>
+<li> 21:10 chatgpt.com</li>
+<li> 21:10 chat.openai.com</li>
+<li> 20:50 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:49 us06web.zoom.us</li>
+<li class='same'> 19:44 us06web.zoom.us</li>
+<li> 19:44 www.google.com</li>
+<li> 19:44 us06web.zoom.us</li>
+<li> 19:44 mail.google.com</li>
+</ul>
 
 <br>
 
