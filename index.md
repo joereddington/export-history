@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2180)</li>
-<li>outlook.office.com (1178)</li>
-<li>docs.google.com (1137)</li>
+<ol><li>www.google.com (2182)</li>
+<li>outlook.office.com (1183)</li>
+<li>docs.google.com (1150)</li>
 <li>mail.google.com (1124)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office365.com (1082)</li>
+<li>outlook.office365.com (1083)</li>
 <li>www.facebook.com (629)</li>
-<li>www.amazon.co.uk (391)</li>
+<li>www.amazon.co.uk (392)</li>
 <li>www.reddit.com (386)</li>
 <li>rhul-my.sharepoint.com (356)</li>
 <li>chatgpt.com (333)</li>
-<li>calendar.google.com (280)</li>
-<li>moodle.royalholloway.ac.uk (277)</li>
+<li>calendar.google.com (281)</li>
+<li>moodle.royalholloway.ac.uk (279)</li>
 <li>www.linkedin.com (275)</li>
 <li>github.com (270)</li>
 <li>fritz.box (250)</li>
-<li>login.microsoftonline.com (247)</li>
+<li>login.microsoftonline.com (249)</li>
 <li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (168)</li>
@@ -92,11 +92,11 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
-<li>duckduckgo.com (111)</li>
+<li>duckduckgo.com (117)</li>
 <li>www.theguardian.com (109)</li>
 <li>gmail.com (107)</li>
 <li>web.whatsapp.com (107)</li>
-<li>www.tesco.com (104)</li>
+<li>www.tesco.com (105)</li>
 <li>chat.openai.com (103)</li>
 
 
@@ -104,11 +104,77 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 04/02/25</H3>
+
+<br>
+
+<ul><li> 07:11 docs.google.com</li>
+<li class='same'> 07:10 docs.google.com</li>
+<li class='same'> 07:09 docs.google.com</li>
+<li class='same'> 07:08 docs.google.com</li>
+<li> 07:08 www.tesco.com</li>
+<li> 07:08 duckduckgo.com</li>
+<li> 07:08 docs.google.com</li>
+<li class='same'> 07:07 docs.google.com</li>
+<li class='same'> 07:06 docs.google.com</li>
+<li class='same'> 07:05 docs.google.com</li>
+<li class='same'> 07:04 docs.google.com</li>
+<li> 07:04 www.google.com</li>
+<li> 07:03 www.su.rhul.ac.uk</li>
+<li> 07:03 www.ukesf.org</li>
+<li> 07:02 www.cs.rhul.ac.uk</li>
+<li> 07:02 www.google.com</li>
+<li> 07:02 forum.arduino.cc</li>
+<li> 07:01 www.royalholloway.ac.uk</li>
+<li> 07:01 duckduckgo.com</li>
+<li> 06:58 outlook.office.com</li>
+<li> 06:58 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 06:57 librarysearch.royalholloway.ac.uk</li>
+<li> 06:57 learning.oreilly.com</li>
+<li> 06:57 librarysearch.royalholloway.ac.uk</li>
+<li> 06:57 link.springer.com</li>
+<li> 06:57 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 06:56 librarysearch.royalholloway.ac.uk</li>
+<li> 06:56 learning.oreilly.com</li>
+<li> 06:56 login.openathens.net</li>
+<li> 06:56 login.microsoftonline.com</li>
+<li> 06:55 login.openathens.net</li>
+<li> 06:55 www.oreilly.com</li>
+<li> 06:55 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 06:54 librarysearch.royalholloway.ac.uk</li>
+<li> 06:54 www.royalholloway.ac.uk</li>
+<li> 06:54 duckduckgo.com</li>
+<li> 06:54 moodle.royalholloway.ac.uk</li>
+<li> 06:54 login.microsoftonline.com</li>
+<li> 06:54 moodle.royalholloway.ac.uk</li>
+<li> 06:52 outlook.office.com</li>
+<li> 06:51 www.nationalgallery.org.uk</li>
+<li> 06:51 duckduckgo.com</li>
+<li> 06:47 calendar.google.com</li>
+<li> 06:47 outlook.office.com</li>
+<li class='same'> 06:46 outlook.office.com</li>
+<li> 06:46 outlook.office365.com</li>
+<li> 06:46 outlook.office.com</li>
+<li> 06:46 docs.google.com</li>
+<li class='same'> 06:45 docs.google.com</li>
+<li class='same'> 06:44 docs.google.com</li>
+<li class='same'> 06:43 docs.google.com</li>
+</ul>
+
 <H3>Monday, 03/02/25</H3>
 
 <br>
 
-<ul><li> 21:05 www.amazon.co.uk</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:12 hackaday.com</li>
+<li> 21:12 duckduckgo.com</li>
+<li> 21:08 www.instructables.com</li>
+<li> 21:08 duckduckgo.com</li>
+<li> 21:07 www.amazon.co.uk</li>
+<li class='same'> 21:05 www.amazon.co.uk</li>
 <li class='same'> 21:04 www.amazon.co.uk</li>
 <li> 21:03 www.arduino.cc</li>
 <li> 21:03 www.ebay.co.uk</li>
@@ -24941,6 +25007,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 18:20 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_criteria">Wikipedia:Good article criteria - Wikipedia</a></li>
 <li> 18:09 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 <li class='same'> 18:05 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
+<li> 18:04 librarysearch.royalholloway.ac.uk</li>
+<li> 18:04 www.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -26469,7 +26537,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:46 librarysearch.royalholloway.ac.uk</li>
+<ul><li> 20:58 librarysearch.royalholloway.ac.uk</li>
+<li> 20:58 www.royalholloway.ac.uk</li>
+<li> 20:46 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 20:44 librarysearch.royalholloway.ac.uk</li>
 </ul>
 
@@ -26546,7 +26616,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:44 rhul-my.sharepoint.com</li>
+<ul><li> 09:45 librarysearch.royalholloway.ac.uk</li>
+<li> 09:44 rhul-my.sharepoint.com</li>
+<li> 09:41 www.royalholloway.ac.uk</li>
 </ul>
 
 <H3>Sunday, 03/03/24</H3>
@@ -26785,6 +26857,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:36 docs.google.com</li>
 <li> 12:29 www.wolframalpha.com</li>
+<li> 12:08 librarysearch.royalholloway.ac.uk</li>
+<li> 12:08 www.royalholloway.ac.uk</li>
 </ul>
 
 <br>
