@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2182)</li>
-<li>outlook.office.com (1197)</li>
+<li>outlook.office.com (1202)</li>
 <li>docs.google.com (1161)</li>
-<li>mail.google.com (1131)</li>
+<li>mail.google.com (1133)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1084)</li>
 <li>www.facebook.com (629)</li>
@@ -82,21 +82,21 @@ With number of accesses/minutes in parentheses
 <li>github.com (286)</li>
 <li>calendar.google.com (283)</li>
 <li>moodle.royalholloway.ac.uk (279)</li>
-<li>www.linkedin.com (275)</li>
+<li>www.linkedin.com (277)</li>
 <li>fritz.box (250)</li>
 <li>login.microsoftonline.com (249)</li>
 <li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
 <li>forms.office.com (146)</li>
-<li>duckduckgo.com (129)</li>
+<li>duckduckgo.com (132)</li>
 <li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
 <li>www.theguardian.com (109)</li>
+<li>gmail.com (109)</li>
 <li>www.tesco.com (108)</li>
-<li>gmail.com (108)</li>
-<li>web.whatsapp.com (107)</li>
+<li>web.whatsapp.com (108)</li>
 <li>chat.openai.com (104)</li>
 
 
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:02 chatgpt.com</li>
+<ul><li> 14:11 mail.google.com</li>
+<li class='same'> 14:09 mail.google.com</li>
+<li> 14:09 gmail.com</li>
+<li> 14:09 outlook.office.com</li>
+<li class='same'> 14:07 outlook.office.com</li>
+<li> 14:03 dashboards.rhul.ac.uk</li>
+<li> 13:56 www.ucu.org.uk</li>
+<li> 13:56 duckduckgo.com</li>
+<li> 13:52 www.linkedin.com</li>
+<li> 13:43 outlook.office.com</li>
+<li class='same'> 13:38 outlook.office.com</li>
+<li> 13:37 web.whatsapp.com</li>
+<li> 13:36 outlook.office.com</li>
+<li> 13:17 www.edraw.ai</li>
+<li> 13:17 accounts.wondershare.com</li>
+<li> 13:17 accounts.google.com</li>
+<li> 13:17 accounts.wondershare.com</li>
+<li> 13:17 www.edraw.ai</li>
+<li> 13:17 duckduckgo.com</li>
+<li> 13:16 app.creately.com</li>
+<li> 13:16 creately.com</li>
+<li> 13:16 duckduckgo.com</li>
+<li> 13:12 claude.ai</li>
+<li> 13:02 chatgpt.com</li>
 <li> 12:54 <a href="https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown">Changing image size in Markdown - Stack Overflow</a></li>
 <li> 12:54 duckduckgo.com</li>
 <li> 12:50 github.com</li>
@@ -22731,6 +22754,7 @@ With number of accesses/minutes in parentheses
 <li> 15:13 accounts.evernote.com</li>
 <li> 15:13 www.evernote.com</li>
 <li> 15:07 outlook.office.com</li>
+<li> 14:56 www.linkedin.com</li>
 <li> 14:38 myview.rhul.zellis.com</li>
 <li> 14:37 dashboards.rhul.ac.uk</li>
 <li> 14:37 myview.rhul.zellis.com</li>
@@ -26710,7 +26734,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:51 rhul.hosted.panopto.com</li>
 <li> 06:38 moodle.royalholloway.ac.uk</li>
-<li class='same'> 06:18 moodle.royalholloway.ac.uk</li>
+<li> 06:26 dashboards.rhul.ac.uk</li>
+<li class='same'> 06:19 dashboards.rhul.ac.uk</li>
+<li> 06:18 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <H3>Tuesday, 05/03/24</H3>
@@ -26917,7 +26943,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 06:07 outlook.office.com</li>
 <li class='same'> 06:05 outlook.office.com</li>
 <li> 06:00 projects.cs.rhul.ac.uk</li>
-<li class='same'> 05:43 projects.cs.rhul.ac.uk</li>
+<li> 05:49 dashboards.rhul.ac.uk</li>
+<li> 05:43 projects.cs.rhul.ac.uk</li>
 </ul>
 
 <br>
