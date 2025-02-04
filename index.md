@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2182)</li>
-<li>outlook.office.com (1202)</li>
-<li>docs.google.com (1161)</li>
-<li>mail.google.com (1133)</li>
+<li>outlook.office.com (1205)</li>
+<li>docs.google.com (1164)</li>
+<li>mail.google.com (1140)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1084)</li>
 <li>www.facebook.com (629)</li>
@@ -80,23 +80,23 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (356)</li>
 <li>chatgpt.com (337)</li>
 <li>github.com (286)</li>
+<li>moodle.royalholloway.ac.uk (286)</li>
 <li>calendar.google.com (283)</li>
-<li>moodle.royalholloway.ac.uk (279)</li>
 <li>www.linkedin.com (277)</li>
 <li>fritz.box (250)</li>
-<li>login.microsoftonline.com (249)</li>
+<li>login.microsoftonline.com (250)</li>
 <li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
 <li>forms.office.com (146)</li>
-<li>duckduckgo.com (132)</li>
+<li>duckduckgo.com (136)</li>
 <li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
 <li>www.theguardian.com (109)</li>
+<li>www.tesco.com (109)</li>
 <li>gmail.com (109)</li>
-<li>www.tesco.com (108)</li>
-<li>web.whatsapp.com (108)</li>
+<li>web.whatsapp.com (109)</li>
 <li>chat.openai.com (104)</li>
 
 
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:11 mail.google.com</li>
+<ul><li> 14:43 docs.google.com</li>
+<li class='same'> 14:42 docs.google.com</li>
+<li> 14:41 outlook.office.com</li>
+<li class='same'> 14:40 outlook.office.com</li>
+<li> 14:40 www.tesco.com</li>
+<li> 14:40 duckduckgo.com</li>
+<li> 14:39 docs.google.com</li>
+<li> 14:38 mail.google.com</li>
+<li> 14:37 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 14:36 mail.google.com</li>
+<li class='same'> 14:34 mail.google.com</li>
+<li class='same'> 14:33 mail.google.com</li>
+<li> 14:26 duckduckgo.com</li>
+<li class='same'> 14:25 duckduckgo.com</li>
+<li> 14:24 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:23 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:22 moodle.royalholloway.ac.uk</li>
+<li> 14:22 login.microsoftonline.com</li>
+<li> 14:22 moodle.royalholloway.ac.uk</li>
+<li> 14:21 web.whatsapp.com</li>
+<li> 14:21 outlook.office.com</li>
+<li> 14:14 mail.google.com</li>
+<li> 14:14 docs.arduino.cc</li>
+<li> 14:13 duckduckgo.com</li>
+<li> 14:12 mail.google.com</li>
+<li class='same'> 14:11 mail.google.com</li>
+<li> 14:11 gitlab.cim.rhul.ac.uk</li>
+<li> 14:11 mail.google.com</li>
 <li class='same'> 14:09 mail.google.com</li>
 <li> 14:09 gmail.com</li>
 <li> 14:09 outlook.office.com</li>
@@ -27318,7 +27345,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:34 moodle.royalholloway.ac.uk</li>
+<ul><li> 13:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:35 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:34 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:33 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:32 moodle.royalholloway.ac.uk</li>
 </ul>
 
