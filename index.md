@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2182)</li>
-<li>outlook.office.com (1195)</li>
+<li>outlook.office.com (1197)</li>
 <li>docs.google.com (1161)</li>
 <li>mail.google.com (1131)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office365.com (1083)</li>
+<li>outlook.office365.com (1084)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (392)</li>
 <li>www.reddit.com (386)</li>
 <li>rhul-my.sharepoint.com (356)</li>
-<li>chatgpt.com (336)</li>
-<li>github.com (285)</li>
+<li>chatgpt.com (337)</li>
+<li>github.com (286)</li>
 <li>calendar.google.com (283)</li>
 <li>moodle.royalholloway.ac.uk (279)</li>
 <li>www.linkedin.com (275)</li>
@@ -89,9 +89,9 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
 <li>forms.office.com (146)</li>
+<li>duckduckgo.com (129)</li>
 <li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
-<li>duckduckgo.com (124)</li>
 <li>rhul.sharepoint.com (120)</li>
 <li>www.theguardian.com (109)</li>
 <li>www.tesco.com (108)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:40 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
+<ul><li> 13:02 chatgpt.com</li>
+<li> 12:54 <a href="https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown">Changing image size in Markdown - Stack Overflow</a></li>
+<li> 12:54 duckduckgo.com</li>
+<li> 12:50 github.com</li>
+<li> 12:44 duckduckgo.com</li>
+<li class='same'> 12:43 duckduckgo.com</li>
+<li class='same'> 12:42 duckduckgo.com</li>
+<li class='same'> 12:41 duckduckgo.com</li>
+<li> 12:35 outlook.office.com</li>
+<li> 12:35 outlook.office365.com</li>
+<li> 12:35 outlook.office.com</li>
+<li> 12:35 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
+<li> 12:35 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
+<li> 12:35 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
+<li> 12:35 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
+<li> 12:35 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:40 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
 <li> 11:40 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
 <li class='same'> 11:39 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
 <li> 11:39 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
