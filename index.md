@@ -69,35 +69,35 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2192)</li>
-<li>outlook.office.com (1221)</li>
+<li>outlook.office.com (1229)</li>
 <li>docs.google.com (1171)</li>
-<li>mail.google.com (1145)</li>
+<li>mail.google.com (1147)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office365.com (1086)</li>
+<li>outlook.office365.com (1089)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (395)</li>
 <li>www.reddit.com (388)</li>
 <li>rhul-my.sharepoint.com (356)</li>
-<li>chatgpt.com (338)</li>
-<li>github.com (295)</li>
+<li>chatgpt.com (339)</li>
+<li>github.com (298)</li>
 <li>moodle.royalholloway.ac.uk (286)</li>
 <li>calendar.google.com (283)</li>
 <li>www.linkedin.com (277)</li>
+<li>login.microsoftonline.com (253)</li>
 <li>fritz.box (250)</li>
-<li>login.microsoftonline.com (250)</li>
 <li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
-<li>forms.office.com (146)</li>
-<li>duckduckgo.com (140)</li>
+<li>forms.office.com (148)</li>
+<li>duckduckgo.com (143)</li>
 <li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
+<li>gmail.com (111)</li>
+<li>web.whatsapp.com (110)</li>
 <li>www.theguardian.com (109)</li>
 <li>www.tesco.com (109)</li>
-<li>gmail.com (109)</li>
-<li>web.whatsapp.com (109)</li>
-<li>chat.openai.com (105)</li>
+<li>chat.openai.com (106)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,72 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 05/02/25</H3>
+
+<br>
+
+<ul><li> 10:04 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 10:04 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
+<li> 10:03 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 10:03 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
+<li> 10:03 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 10:03 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
+<li> 10:03 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 10:03 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
+<li> 10:03 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 10:03 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
+<li> 10:01 <a href="https://joereddington.com/paperwriting/#slide3">Why this talk is a good idea</a></li>
+<li> 10:01 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 10:01 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
+<li> 10:01 <a href="https://joereddington.com/paperwriting/#slide3">Why this talk is a good idea</a></li>
+<li> 10:01 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
+<li> 10:01 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
+<li> 09:59 github.com</li>
+<li class='same'> 09:58 github.com</li>
+<li class='same'> 09:57 github.com</li>
+<li> 09:57 <a href="https://joereddington.com/paperwriting/">Effective Collaborative Paper Writing</a></li>
+<li> 09:55 web.whatsapp.com</li>
+<li> 09:55 <a href="https://joereddington.com/paperwriting/buck.jpg">buck.jpg (PNG Image, 1231 × 908 pixels)</a></li>
+<li> 09:55 <a href="https://joereddington.com/paperwriting/">Effective Collaborative Paper Writing</a></li>
+<li class='same'> 09:54 <a href="https://joereddington.com/paperwriting/">Effective Collaborative Paper Writing</a></li>
+<li> 09:54 outlook.office.com</li>
+<li> 09:54 outlook.office365.com</li>
+<li> 09:54 outlook.office.com</li>
+<li> 09:51 mail.google.com</li>
+<li> 09:51 gmail.com</li>
+<li> 09:51 outlook.office.com</li>
+<li class='same'> 09:49 outlook.office.com</li>
+<li> 09:49 outlook.office365.com</li>
+<li> 09:49 outlook.office.com</li>
+<li> 09:49 mail.google.com</li>
+<li> 09:49 gmail.com</li>
+<li> 09:46 myview.rhul.zellis.com</li>
+<li class='same'> 09:45 myview.rhul.zellis.com</li>
+<li> 09:45 login.microsoftonline.com</li>
+<li> 09:45 myview.rhul.zellis.com</li>
+<li class='same'> 09:44 myview.rhul.zellis.com</li>
+<li> 09:44 login.microsoftonline.com</li>
+<li> 09:44 myview.rhul.zellis.com</li>
+<li> 09:41 forms.office.com</li>
+<li> 09:41 login.microsoftonline.com</li>
+<li> 09:41 forms.office.com</li>
+<li> 09:38 chatgpt.com</li>
+<li> 09:38 chat.openai.com</li>
+<li> 09:30 duckduckgo.com</li>
+<li class='same'> 09:26 duckduckgo.com</li>
+<li> 09:26 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:25 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 09:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:25 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 09:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:24 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 09:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:18 outlook.office.com</li>
+<li> 09:18 outlook.office365.com</li>
+<li> 09:18 outlook.office.com</li>
+<li> 09:13 duckduckgo.com</li>
+<li> 08:59 outlook.office.com</li>
+</ul>
 
 <br>
 
@@ -265,17 +331,17 @@ With number of accesses/minutes in parentheses
 <li> 12:35 outlook.office365.com</li>
 <li> 12:35 outlook.office.com</li>
 <li> 12:35 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
-<li> 12:35 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
+<li> 12:35 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
 <li> 12:35 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
-<li> 12:35 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
+<li> 12:35 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
 <li> 12:35 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
 </ul>
 
 <br>
 
 <ul><li class='same'> 11:40 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
-<li> 11:40 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
-<li class='same'> 11:39 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
+<li> 11:40 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
+<li class='same'> 11:39 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
 <li> 11:39 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
 <li> 11:39 <a href="https://joereddington.com/paperwriting/">Effective Collaborative Paper Writing</a></li>
 <li> 11:34 chatgpt.com</li>
@@ -287,15 +353,15 @@ With number of accesses/minutes in parentheses
 <li> 11:32 github.com</li>
 <li class='same'> 11:31 github.com</li>
 <li> 11:31 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
-<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
+<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
 <li> 11:31 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
 <li> 11:31 <a href="https://joereddington.com/paperwriting/#slide8">Paper drama</a></li>
 <li> 11:31 <a href="https://joereddington.com/paperwriting/#slide7">The first email.</a></li>
-<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide6">The research</a></li>
-<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide5">Contents</a></li>
-<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide4">Goals for Talk</a></li>
-<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide3">Ego slide</a></li>
-<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
+<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
+<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
+<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide3">Why this talk is a good idea</a></li>
+<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
 <li> 11:31 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
 <li> 11:30 <a href="https://joereddington.com/paperwriting/#slide9">Presenter Notes</a></li>
 <li> 11:30 <a href="https://joereddington.com/paperwriting/#slide18">Veto Reviewer</a></li>
@@ -322,26 +388,26 @@ With number of accesses/minutes in parentheses
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide9">Presenter Notes</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide8">Paper drama</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide7">The first email.</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide6">The research</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide5">Contents</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide6">The research</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide5">Contents</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide6">The research</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide5">Contents</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide4">Goals for Talk</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide3">Ego slide</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide3">Why this talk is a good idea</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide3">Ego slide</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide3">Why this talk is a good idea</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide7">The first email.</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide6">The research</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide5">Contents</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide4">Goals for Talk</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide3">Ego slide</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide3">Why this talk is a good idea</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide9">Presenter Notes</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide8">Paper drama</a></li>
@@ -369,11 +435,11 @@ With number of accesses/minutes in parentheses
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide9">Presenter Notes</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide8">Paper drama</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide7">The first email.</a></li>
-<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide6">The research</a></li>
-<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide5">Contents</a></li>
-<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide4">Goals for Talk</a></li>
-<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide3">Ego slide</a></li>
-<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide2">Housekeeping</a></li>
+<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
+<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
+<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide3">Why this talk is a good idea</a></li>
+<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/">Effective Collaborative Paper Writing</a></li>
 <li> 11:28 github.com</li>
 <li class='same'> 11:27 github.com</li>
@@ -20549,6 +20615,7 @@ With number of accesses/minutes in parentheses
 <li> 15:39 www.unity-online.co.uk</li>
 <li> 15:37 docs.google.com</li>
 <li> 15:30 www.wikipedia.org</li>
+<li> 15:28 myview.rhul.zellis.com</li>
 <li> 15:27 www.google.com</li>
 <li> 15:27 myview.rhul.zellis.com</li>
 <li> 15:20 outlook.office365.com</li>
@@ -20608,7 +20675,8 @@ With number of accesses/minutes in parentheses
 <li> 09:41 www.facebook.com</li>
 <li class='same'> 09:40 www.facebook.com</li>
 <li> 09:40 outlook.office.com</li>
-<li> 09:31 myview.rhul.zellis.com</li>
+<li> 09:32 myview.rhul.zellis.com</li>
+<li class='same'> 09:31 myview.rhul.zellis.com</li>
 <li> 09:22 outlook.office.com</li>
 <li class='same'> 09:21 outlook.office.com</li>
 <li class='same'> 09:20 outlook.office.com</li>
@@ -22889,7 +22957,8 @@ With number of accesses/minutes in parentheses
 <li> 15:13 www.evernote.com</li>
 <li> 15:07 outlook.office.com</li>
 <li> 14:56 www.linkedin.com</li>
-<li> 14:38 myview.rhul.zellis.com</li>
+<li> 14:51 myview.rhul.zellis.com</li>
+<li class='same'> 14:38 myview.rhul.zellis.com</li>
 <li> 14:37 dashboards.rhul.ac.uk</li>
 <li> 14:37 myview.rhul.zellis.com</li>
 <li> 14:27 dashboards.rhul.ac.uk</li>
@@ -23096,14 +23165,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:34 myview.rhul.zellis.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 15:04 myview.rhul.zellis.com</li>
+<li class='same'> 15:10 myview.rhul.zellis.com</li>
+<li class='same'> 15:04 myview.rhul.zellis.com</li>
 <li class='same'> 14:54 myview.rhul.zellis.com</li>
 <li> 14:26 claude.ai</li>
-<li> 14:24 myview.rhul.zellis.com</li>
+<li> 14:25 myview.rhul.zellis.com</li>
+<li class='same'> 14:24 myview.rhul.zellis.com</li>
 <li class='same'> 14:23 myview.rhul.zellis.com</li>
 </ul>
 
@@ -28121,6 +28188,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:51 accounts.google.com</li>
 <li> 14:48 myview.rhul.zellis.com</li>
+<li class='same'> 14:47 myview.rhul.zellis.com</li>
 </ul>
 
 <br>
