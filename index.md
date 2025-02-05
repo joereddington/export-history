@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2192)</li>
-<li>outlook.office.com (1231)</li>
+<li>outlook.office.com (1233)</li>
 <li>docs.google.com (1171)</li>
 <li>mail.google.com (1147)</li>
 <li>bsky.app (1091)</li>
@@ -83,12 +83,12 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (286)</li>
 <li>calendar.google.com (283)</li>
 <li>www.linkedin.com (277)</li>
-<li>login.microsoftonline.com (253)</li>
+<li>login.microsoftonline.com (254)</li>
 <li>fritz.box (250)</li>
 <li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
-<li>forms.office.com (148)</li>
+<li>forms.office.com (150)</li>
 <li>duckduckgo.com (144)</li>
 <li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:52 outlook.office.com</li>
+<ul><li> 13:35 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
+<li> 13:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 13:33 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 13:33 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 13:33 outlook.office.com</li>
+<li> 13:17 forms.office.com</li>
+<li> 13:17 login.microsoftonline.com</li>
+<li> 13:17 forms.office.com</li>
+<li> 13:14 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 13:14 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:52 outlook.office.com</li>
 <li> 10:52 outlook.office365.com</li>
 <li> 10:52 outlook.office.com</li>
 <li> 10:43 <a href="https://joereddington.com/paperwriting/#slide20">Questions, opinions, thoughts...</a></li>
@@ -19602,6 +19616,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:56 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 12:56 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 12:53 <a href="https://en.wikipedia.org/wiki/Talk:Information_security">Talk:Information security - Wikipedia</a></li>
+<li> 12:30 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
 <li> 12:28 kdp.amazon.com</li>
 <li> 12:15 github.com</li>
 <li> 12:14 gitlab.cim.rhul.ac.uk</li>
@@ -22514,6 +22529,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:07 outlook.office.com</li>
 <li> 11:48 forum.artofmemory.com</li>
 <li> 11:48 artofmemory.com</li>
+<li> 11:20 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
 </ul>
 
 <br>
@@ -23142,7 +23158,8 @@ With number of accesses/minutes in parentheses
 <li> 12:29 www.amazon.co.uk</li>
 <li> 12:28 kdpreports.amazon.com</li>
 <li> 12:17 www.amazon.co.uk</li>
-<li class='same'> 11:49 www.amazon.co.uk</li>
+<li> 11:59 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
+<li> 11:49 www.amazon.co.uk</li>
 </ul>
 
 <H3>Sunday, 21/07/24</H3>
@@ -23262,16 +23279,18 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:50 intranet.royalholloway.ac.uk</li>
 <li> 13:29 www.facebook.com</li>
+<li> 13:18 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
 <li> 13:16 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:11 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:05 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:03 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:02 gitlab.cim.rhul.ac.uk</li>
+<li> 12:40 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 12:06 gitlab.cim.rhul.ac.uk</li>
+<ul><li> 12:06 gitlab.cim.rhul.ac.uk</li>
 </ul>
 
 <br>
