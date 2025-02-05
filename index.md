@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2192)</li>
-<li>outlook.office.com (1229)</li>
+<li>outlook.office.com (1231)</li>
 <li>docs.google.com (1171)</li>
 <li>mail.google.com (1147)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office365.com (1089)</li>
+<li>outlook.office365.com (1090)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (395)</li>
 <li>www.reddit.com (388)</li>
 <li>rhul-my.sharepoint.com (356)</li>
 <li>chatgpt.com (339)</li>
-<li>github.com (298)</li>
+<li>github.com (299)</li>
 <li>moodle.royalholloway.ac.uk (286)</li>
 <li>calendar.google.com (283)</li>
 <li>www.linkedin.com (277)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
 <li>forms.office.com (148)</li>
-<li>duckduckgo.com (143)</li>
+<li>duckduckgo.com (144)</li>
 <li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
@@ -108,7 +108,57 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:04 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<ul><li> 10:52 outlook.office.com</li>
+<li> 10:52 outlook.office365.com</li>
+<li> 10:52 outlook.office.com</li>
+<li> 10:43 <a href="https://joereddington.com/paperwriting/#slide20">Questions, opinions, thoughts...</a></li>
+<li> 10:43 <a href="https://joereddington.com/paperwriting/#slide19">Summary</a></li>
+<li> 10:43 <a href="https://joereddington.com/paperwriting/#slide18">Veto Reviewer</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide19">Summary</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide18">Veto Reviewer</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide20">Questions, opinions, thoughts...</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide19">Summary</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide18">Veto Reviewer</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide17">Why a structural reviewer?</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide16">Reviewers</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide15">The room where it happens.</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide14">What problems do we have left?</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide9">Presenter Notes</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide8">Presenter Notes</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide7">Prep</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide13">Specialisation 2: Roles of Writers</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide12">Specialities part 1: groups</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide11">Specification</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide10">Presenter Notes</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide3">Why this talk is a good idea</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
+<li> 10:41 <a href="https://joereddington.com/paperwriting/">Effective Collaborative Paper Writing</a></li>
+<li> 10:20 github.com</li>
+<li> 10:20 duckduckgo.com</li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide20">Questions, opinions, thoughts...</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide19">Summary</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide18">Veto Reviewer</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide19">Summary</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide20">Questions, opinions, thoughts...</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide19">Summary</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide18">Veto Reviewer</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide17">Why a structural reviewer?</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide16">Reviewers</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide15">The room where it happens.</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide14">What problems do we have left?</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide13">Specialisation 2: Roles of Writers</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide12">Specialities part 1: groups</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide9">Presenter Notes</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide8">Presenter Notes</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide7">Prep</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide11">Specification</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide10">Presenter Notes</a></li>
+<li> 10:18 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
+<li> 10:04 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
 <li> 10:04 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
 <li> 10:03 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
 <li> 10:03 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
@@ -355,8 +405,8 @@ With number of accesses/minutes in parentheses
 <li> 11:31 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
 <li> 11:31 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
 <li> 11:31 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
-<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide8">Paper drama</a></li>
-<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide7">The first email.</a></li>
+<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide8">Presenter Notes</a></li>
+<li> 11:31 <a href="https://joereddington.com/paperwriting/#slide7">Prep</a></li>
 <li> 11:31 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
 <li> 11:31 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
 <li> 11:31 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
@@ -369,25 +419,25 @@ With number of accesses/minutes in parentheses
 <li> 11:30 <a href="https://joereddington.com/paperwriting/#slide16">Reviewers</a></li>
 <li> 11:30 <a href="https://joereddington.com/paperwriting/#slide15">The room where it happens.</a></li>
 <li> 11:30 <a href="https://joereddington.com/paperwriting/#slide14">What problems do we have left?</a></li>
-<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide13">Roles of Writers.</a></li>
-<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide12">Roles</a></li>
-<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide11">Presenter Notes</a></li>
+<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide13">Specialisation 2: Roles of Writers</a></li>
+<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide12">Specialities part 1: groups</a></li>
+<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide11">Specification</a></li>
 <li> 11:30 <a href="https://joereddington.com/paperwriting/#slide10">Presenter Notes</a></li>
-<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide19">What we know so far.</a></li>
-<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide20">Revisiting the problems from the start</a></li>
-<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide19">What we know so far.</a></li>
+<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide19">Summary</a></li>
+<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide20">Questions, opinions, thoughts...</a></li>
+<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide19">Summary</a></li>
 <li> 11:30 <a href="https://joereddington.com/paperwriting/#slide18">Veto Reviewer</a></li>
 <li> 11:30 <a href="https://joereddington.com/paperwriting/#slide17">Why a structural reviewer?</a></li>
 <li> 11:30 <a href="https://joereddington.com/paperwriting/#slide16">Reviewers</a></li>
 <li> 11:30 <a href="https://joereddington.com/paperwriting/#slide15">The room where it happens.</a></li>
 <li> 11:30 <a href="https://joereddington.com/paperwriting/#slide14">What problems do we have left?</a></li>
-<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide13">Roles of Writers.</a></li>
-<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide12">Roles</a></li>
-<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide11">Presenter Notes</a></li>
+<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide13">Specialisation 2: Roles of Writers</a></li>
+<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide12">Specialities part 1: groups</a></li>
+<li> 11:30 <a href="https://joereddington.com/paperwriting/#slide11">Specification</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide10">Presenter Notes</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide9">Presenter Notes</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide8">Paper drama</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide7">The first email.</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide8">Presenter Notes</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide7">Prep</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
@@ -402,7 +452,7 @@ With number of accesses/minutes in parentheses
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide3">Why this talk is a good idea</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide7">The first email.</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide7">Prep</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
@@ -410,31 +460,31 @@ With number of accesses/minutes in parentheses
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide2">Why this talk is a bad idea</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide9">Presenter Notes</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide8">Paper drama</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide11">Presenter Notes</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide8">Presenter Notes</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide11">Specification</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide10">Presenter Notes</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide16">Reviewers</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide15">The room where it happens.</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide14">What problems do we have left?</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide13">Roles of Writers.</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide12">Roles</a></li>
-<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide19">What we know so far.</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide13">Specialisation 2: Roles of Writers</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide12">Specialities part 1: groups</a></li>
+<li> 11:29 <a href="https://joereddington.com/paperwriting/#slide19">Summary</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide18">Veto Reviewer</a></li>
 <li> 11:29 <a href="https://joereddington.com/paperwriting/#slide17">Why a structural reviewer?</a></li>
-<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide20">Revisiting the problems from the start</a></li>
-<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide19">What we know so far.</a></li>
+<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide20">Questions, opinions, thoughts...</a></li>
+<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide19">Summary</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide18">Veto Reviewer</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide17">Why a structural reviewer?</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide16">Reviewers</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide15">The room where it happens.</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide14">What problems do we have left?</a></li>
-<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide13">Roles of Writers.</a></li>
-<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide12">Roles</a></li>
-<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide11">Presenter Notes</a></li>
+<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide13">Specialisation 2: Roles of Writers</a></li>
+<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide12">Specialities part 1: groups</a></li>
+<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide11">Specification</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide10">Presenter Notes</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide9">Presenter Notes</a></li>
-<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide8">Paper drama</a></li>
-<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide7">The first email.</a></li>
+<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide8">Presenter Notes</a></li>
+<li> 11:28 <a href="https://joereddington.com/paperwriting/#slide7">Prep</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide6">Specification</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide5">Paper drama</a></li>
 <li> 11:28 <a href="https://joereddington.com/paperwriting/#slide4">Buckaroo</a></li>
