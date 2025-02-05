@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2192)</li>
 <li>outlook.office.com (1236)</li>
-<li>docs.google.com (1176)</li>
+<li>docs.google.com (1192)</li>
 <li>mail.google.com (1147)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1090)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (395)</li>
 <li>www.reddit.com (388)</li>
 <li>rhul-my.sharepoint.com (356)</li>
-<li>chatgpt.com (340)</li>
+<li>chatgpt.com (343)</li>
 <li>github.com (299)</li>
 <li>moodle.royalholloway.ac.uk (286)</li>
 <li>calendar.google.com (283)</li>
@@ -89,14 +89,14 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
 <li>forms.office.com (150)</li>
-<li>duckduckgo.com (144)</li>
+<li>duckduckgo.com (146)</li>
 <li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
 <li>gmail.com (111)</li>
-<li>web.whatsapp.com (110)</li>
+<li>web.whatsapp.com (111)</li>
+<li>www.tesco.com (110)</li>
 <li>www.theguardian.com (109)</li>
-<li>www.tesco.com (109)</li>
 <li>chat.openai.com (107)</li>
 
 
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:56 docs.google.com</li>
+<ul><li> 21:08 docs.google.com</li>
+<li class='same'> 21:07 docs.google.com</li>
+<li class='same'> 21:06 docs.google.com</li>
+<li class='same'> 21:05 docs.google.com</li>
+<li class='same'> 21:04 docs.google.com</li>
+<li> 21:04 duckduckgo.com</li>
+<li> 21:03 docs.google.com</li>
+<li class='same'> 21:02 docs.google.com</li>
+<li class='same'> 21:01 docs.google.com</li>
+<li class='same'> 21:00 docs.google.com</li>
+<li class='same'> 20:59 docs.google.com</li>
+<li> 20:59 www.tesco.com</li>
+<li> 20:59 duckduckgo.com</li>
+<li> 20:57 www.waterstones.com</li>
+<li> 20:56 chatgpt.com</li>
+<li> 20:56 auth0.openai.com</li>
+<li> 20:56 auth.openai.com</li>
+<li> 20:56 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:03 docs.google.com</li>
+<li class='same'> 19:55 docs.google.com</li>
+<li> 19:54 web.whatsapp.com</li>
+<li> 19:53 docs.google.com</li>
+<li class='same'> 19:52 docs.google.com</li>
+<li class='same'> 19:51 docs.google.com</li>
+<li> 19:40 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:58 docs.google.com</li>
+<li class='same'> 18:56 docs.google.com</li>
 <li> 18:33 outlook.office.com</li>
 </ul>
 
