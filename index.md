@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2192)</li>
-<li>outlook.office.com (1235)</li>
-<li>docs.google.com (1175)</li>
+<li>outlook.office.com (1236)</li>
+<li>docs.google.com (1176)</li>
 <li>mail.google.com (1147)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1090)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (395)</li>
 <li>www.reddit.com (388)</li>
 <li>rhul-my.sharepoint.com (356)</li>
-<li>chatgpt.com (339)</li>
+<li>chatgpt.com (340)</li>
 <li>github.com (299)</li>
 <li>moodle.royalholloway.ac.uk (286)</li>
 <li>calendar.google.com (283)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (110)</li>
 <li>www.theguardian.com (109)</li>
 <li>www.tesco.com (109)</li>
-<li>chat.openai.com (106)</li>
+<li>chat.openai.com (107)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:13 <a href="https://www.youtube.com/watch?v=wno_qUB02lM&t=123s">(142) Jamie’s Green Curry | Jamie Oliver - YouTube</a></li>
+<ul><li> 18:56 docs.google.com</li>
+<li> 18:33 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:21 chatgpt.com</li>
+<li> 17:21 chat.openai.com</li>
+<li> 17:17 <a href="https://www.youtube.com/watch?v=Y4xrMkl5yJs">(142) Exercise Scientist Critiques Hulk Hogan's Training and Diet - YouTube</a></li>
+<li> 17:17 <a href="https://www.youtube.com/">(142) YouTube</a></li>
+<li> 17:13 <a href="https://www.youtube.com/watch?v=wno_qUB02lM&t=123s">(142) Jamie’s Green Curry | Jamie Oliver - YouTube</a></li>
 <li> 17:12 <a href="https://www.youtube.com/results?search_query=thai+curry">(142) thai curry - YouTube</a></li>
 <li> 17:12 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 17:11 docs.google.com</li>
