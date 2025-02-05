@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2187)</li>
-<li>outlook.office.com (1217)</li>
-<li>docs.google.com (1166)</li>
+<ol><li>www.google.com (2192)</li>
+<li>outlook.office.com (1221)</li>
+<li>docs.google.com (1171)</li>
 <li>mail.google.com (1145)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office365.com (1085)</li>
+<li>outlook.office365.com (1086)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (395)</li>
-<li>www.reddit.com (386)</li>
+<li>www.reddit.com (388)</li>
 <li>rhul-my.sharepoint.com (356)</li>
 <li>chatgpt.com (338)</li>
 <li>github.com (295)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
 <li>forms.office.com (146)</li>
-<li>duckduckgo.com (139)</li>
+<li>duckduckgo.com (140)</li>
 <li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
@@ -104,7 +104,41 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 05/02/25</H3>
+
+<br>
+
+<ul><li> 07:19 <a href="https://joereddington.com/paperwriting/">Effective Collaborative Paper Writing</a></li>
+</ul>
+
+<br>
+
+<ul><li> 06:26 outlook.office.com</li>
+<li> 06:25 www.reddit.com</li>
+<li class='same'> 06:24 www.reddit.com</li>
+<li> 06:23 outlook.office.com</li>
+<li class='same'> 06:22 outlook.office.com</li>
+<li class='same'> 06:21 outlook.office.com</li>
+<li> 06:21 outlook.office365.com</li>
+<li> 06:21 feedly.com</li>
+<li class='same'> 06:20 feedly.com</li>
+<li class='same'> 06:18 feedly.com</li>
+<li> 06:17 docs.google.com</li>
+<li class='same'> 06:16 docs.google.com</li>
+<li class='same'> 06:15 docs.google.com</li>
+<li> 06:14 www.nutritionix.com</li>
+<li> 06:13 www.google.com</li>
+<li> 06:13 www.fatsecret.com</li>
+<li> 06:13 duckduckgo.com</li>
+<li> 06:12 docs.google.com</li>
+<li class='same'> 06:11 docs.google.com</li>
+</ul>
+
 <H3>Tuesday, 04/02/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -127,7 +161,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:54 www.google.com</li>
+<ul><li> 19:01 www.nationalgallery.org.uk</li>
+<li class='same'> 19:00 www.nationalgallery.org.uk</li>
+<li> 19:00 www.google.com</li>
+<li> 18:59 www.nationalgallery.org.uk</li>
+<li> 18:59 www.google.com</li>
+<li> 18:58 www.nationalgallery.org.uk</li>
+<li> 18:58 www.google.com</li>
+<li class='same'> 18:55 www.google.com</li>
+<li class='same'> 18:54 www.google.com</li>
 <li> 18:53 www.heart.org</li>
 </ul>
 
