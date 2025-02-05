@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2192)</li>
-<li>outlook.office.com (1233)</li>
-<li>docs.google.com (1171)</li>
+<li>outlook.office.com (1235)</li>
+<li>docs.google.com (1175)</li>
 <li>mail.google.com (1147)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1090)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 05/02/25</H3>
+
+<br>
+
+<ul><li> 17:13 <a href="https://www.youtube.com/watch?v=wno_qUB02lM&t=123s">(142) Jamie’s Green Curry | Jamie Oliver - YouTube</a></li>
+<li> 17:12 <a href="https://www.youtube.com/results?search_query=thai+curry">(142) thai curry - YouTube</a></li>
+<li> 17:12 <a href="https://www.youtube.com/">(142) YouTube</a></li>
+<li> 17:11 docs.google.com</li>
+<li class='same'> 17:10 docs.google.com</li>
+<li class='same'> 17:09 docs.google.com</li>
+<li class='same'> 17:06 docs.google.com</li>
+<li> 17:06 outlook.office.com</li>
+<li class='same'> 17:05 outlook.office.com</li>
+</ul>
 
 <br>
 
@@ -1000,7 +1013,7 @@ With number of accesses/minutes in parentheses
 <li> 15:09 duckduckgo.com</li>
 <li> 15:09 <a href="https://www.youtube.com/shorts/y6nfycF8fSI">(135) Pivot hinges for cabinet #diycrafts #carpenter - YouTube</a></li>
 <li> 15:09 <a href="https://www.youtube.com/results?search_query=pivot+hinge">(135) pivot hinge - YouTube</a></li>
-<li> 15:09 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 15:09 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 15:09 duckduckgo.com</li>
 <li> 15:07 www.diydoctor.org.uk</li>
 <li> 15:07 duckduckgo.com</li>
@@ -2064,7 +2077,7 @@ With number of accesses/minutes in parentheses
 <li> 07:14 www.reddit.com</li>
 <li> 07:14 duckduckgo.com</li>
 <li> 07:13 <a href="https://www.youtube.com/results?search_query=progression+to+chin+ups">(128) progression to chin ups - YouTube</a></li>
-<li> 07:13 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 07:13 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 07:13 outlook.office365.com</li>
 <li> 07:13 outlook.office.com</li>
 <li> 06:57 www.theguardian.com</li>
@@ -2598,7 +2611,7 @@ With number of accesses/minutes in parentheses
 <li> 14:45 <a href="https://www.youtube.com/results?search_query=hiding+wires+for+dash+cam">(126) hiding wires for dash cam - YouTube</a></li>
 <li> 14:41 <a href="https://www.youtube.com/watch?v=cbASQ3ymmu0">(126) How to install a Dashcam by hiding the cables - YouTube</a></li>
 <li> 14:41 <a href="https://www.youtube.com/results?search_query=hiding+wires+for+dash+cam">(126) hiding wires for dash cam - YouTube</a></li>
-<li> 14:41 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 14:41 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 14:37 web.whatsapp.com</li>
 <li> 14:31 www.gov.uk</li>
 <li> 14:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -4379,11 +4392,11 @@ With number of accesses/minutes in parentheses
 <li> 14:20 studio.youtube.com</li>
 <li> 14:20 <a href="https://www.youtube.com/upload"></a></li>
 <li> 14:20 studio.youtube.com</li>
-<li> 14:19 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 14:19 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 14:19 <a href="https://www.youtube.com/signin?action_handle_signin=true&authuser=0&next=https%3A%2F%2Fwww.youtube.com%2F&feature=identity_prompt&skip_identity_prompt=true"></a></li>
 <li> 14:19 <a href="https://www.youtube.com/account">(114) YouTube</a></li>
 <li> 14:19 <a href="https://www.youtube.com/signin_prompt?next=https%3A%2F%2Fwww.youtube.com%2F"></a></li>
-<li> 14:19 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 14:19 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 14:19 www.google.com</li>
 <li class='same'> 14:18 www.google.com</li>
 <li class='same'> 14:17 www.google.com</li>
@@ -5097,13 +5110,13 @@ With number of accesses/minutes in parentheses
 <li> 13:22 <a href="https://www.youtube.com/shorts/C6BR1gtgS28">(106) YouTube</a></li>
 <li> 13:22 <a href="https://www.youtube.com/shorts/U4WdNw0uMWw">(106) DIY Giant Wardrobe Transformation: from Empty Wall to Dream Closet #shorts - YouTube</a></li>
 <li> 13:21 <a href="https://www.youtube.com/shorts/MhjmKJfzFwQ">(106) Don't Eat At Night!? - YouTube</a></li>
-<li> 13:21 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 13:21 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 13:18 <a href="https://www.youtube.com/watch?v=7xALolZzhSM">(106) Marvel Television's Daredevil: Born Again | Official Trailer | Disney+ - YouTube</a></li>
-<li> 13:18 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 13:18 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 13:12 <a href="https://www.youtube.com/watch?v=Gi93Dbh_E3c">(106) Disney's Aladdin (1992) Pitch Meeting - YouTube</a></li>
-<li> 13:12 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 13:12 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 13:12 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 13:12 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 13:12 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 13:09 bsky.app</li>
 <li> 13:08 www.facebook.com</li>
 <li> 13:07 www.amazon.co.uk</li>
@@ -7153,8 +7166,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:28 <a href="https://www.youtube.com/">(135) YouTube</a></li>
-<li class='same'> 16:27 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<ul><li> 16:28 <a href="https://www.youtube.com/">(142) YouTube</a></li>
+<li class='same'> 16:27 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 16:25 outlook.office.com</li>
 <li> 16:25 bsky.app</li>
 <li> 16:24 www.linkedin.com</li>
@@ -7169,9 +7182,9 @@ With number of accesses/minutes in parentheses
 <li> 15:58 <a href="https://en.wikipedia.org/wiki/The_Children_of_H%C3%BArin">The Children of Húrin - Wikipedia</a></li>
 <li> 15:58 www.google.com</li>
 <li class='same'> 15:54 www.google.com</li>
-<li> 15:52 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 15:52 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 15:52 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 15:52 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 15:52 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 15:50 claude.ai</li>
 <li> 15:49 <a href="https://joereddington.com/2025/01/08/gratitude.html">Gratitude! | Joe Reddington</a></li>
 <li> 15:49 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
@@ -7412,7 +7425,7 @@ With number of accesses/minutes in parentheses
 <li> 09:25 chatgpt.com</li>
 <li> 09:25 chat.openai.com</li>
 <li> 09:18 <a href="https://www.youtube.com/watch?v=g_UoMzjei2g">Music for Stress Healing, Anxiety and Depression, Remove Inner Anger and Sadness - YouTube</a></li>
-<li> 09:18 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 09:18 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 09:15 chatgpt.com</li>
 <li> 09:13 www.reddit.com</li>
 <li> 09:13 www.google.com</li>
@@ -7443,7 +7456,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:36 trends.google.com</li>
 <li> 07:36 www.google.com</li>
 <li> 07:21 <a href="https://www.youtube.com/watch?v=DfSkKYQiwoU">Deep Focus Music To Improve Concentration - 12 Hours of Ambient Study Music to Concentrate - YouTube</a></li>
-<li> 07:21 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 07:21 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 07:19 askubuntu.com</li>
 <li> 07:19 www.google.com</li>
 <li> 07:19 bbs.archlinux.org</li>
@@ -7453,9 +7466,9 @@ With number of accesses/minutes in parentheses
 <li> 07:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:03 <a href="https://www.youtube.com/watch?v=9SltrMMeytU">Deep Focus Music To Improve Concentration - Ambient Music For Studying, Concentration and Work #1 - YouTube</a></li>
 <li> 07:03 <a href="https://www.youtube.com/results?search_query=focus+music">focus music - YouTube</a></li>
-<li> 07:03 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 07:03 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 07:03 accounts.google.com</li>
-<li> 07:03 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 07:03 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 07:01 bsky.app</li>
 <li> 06:59 calendar.google.com</li>
 <li> 06:37 yattara.medium.com</li>
@@ -7580,9 +7593,9 @@ With number of accesses/minutes in parentheses
 <li> 17:04 packages.ubuntu.com</li>
 <li> 16:58 <a href="https://www.youtube.com/watch?v=LGqBQrUYua4">(5) Math Antics - Long Division - YouTube</a></li>
 <li> 16:58 <a href="https://www.youtube.com/results?search_query=long+division">(5) long division - YouTube</a></li>
-<li> 16:58 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 16:58 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 16:58 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 16:58 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 16:58 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 16:42 i3wm.org</li>
 <li> 16:42 www.google.com</li>
 <li> 16:42 www.mozilla.org</li>
@@ -7669,7 +7682,7 @@ With number of accesses/minutes in parentheses
 <li> 13:51 <a href="https://www.youtube.com/watch?v=iDr5ySr1htQ">(5) Stylianos Meaning - YouTube</a></li>
 <li> 13:51 <a href="https://www.youtube.com/results?search_query=Stilianos+name">(5) Stilianos name - YouTube</a></li>
 <li> 13:51 <a href="https://www.youtube.com/results?search_query=Stilianos">(5) Stilianos - YouTube</a></li>
-<li> 13:51 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 13:51 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 13:51 www.linkedin.com</li>
 <li class='same'> 13:50 www.linkedin.com</li>
 <li> 13:50 scholar.google.co.uk</li>
@@ -7743,8 +7756,8 @@ With number of accesses/minutes in parentheses
 <li> 12:49 <a href="https://www.youtube.com/watch?v=dj0Z1Ho18Kg&list=WL&index=10&t=74s">(5) Drawing Frozen2 - Elsa [Drawing Hands] - YouTube</a></li>
 <li> 12:49 <a href="https://www.youtube.com/playlist?list=WL">(5) Watch later - YouTube</a></li>
 <li> 12:49 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 12:49 <a href="https://www.youtube.com/">(135) YouTube</a></li>
-<li class='same'> 12:48 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 12:49 <a href="https://www.youtube.com/">(142) YouTube</a></li>
+<li class='same'> 12:48 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 12:44 www.google.com</li>
 <li> 12:42 mail.google.com</li>
 <li> 12:41 web.whatsapp.com</li>
@@ -8186,7 +8199,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:57 fast.com</li>
-<li> 11:53 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 11:53 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 11:49 www.facebook.com</li>
 </ul>
 
@@ -8216,7 +8229,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:15 askubuntu.com</li>
 <li> 08:15 www.google.com</li>
 <li> 08:10 <a href="https://www.youtube.com/watch?v=bwu6rJl1cOw">(75) Honest Trailers | Venom: The Last Dance - YouTube</a></li>
-<li> 08:09 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 08:09 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 08:05 askubuntu.com</li>
 <li> 08:05 www.google.com</li>
 <li> 08:05 www.linkedin.com</li>
@@ -8334,7 +8347,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:39 <a href="https://www.youtube.com/watch?v=EC6Poq1655k&list=PLH2oEwFFXbYNy6OQpMnLolP_Q3Zt_e5BH">(1) Maya FALLS out of a TREE !!! - YouTube</a></li>
 <li> 14:39 <a href="https://www.youtube.com/results?search_query=tik+tak+toys">(1) tik tak toys - YouTube</a></li>
-<li> 14:38 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 14:38 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 14:24 www.theguardian.com</li>
 <li> 14:22 news.sky.com</li>
 <li> 14:21 www.theguardian.com</li>
@@ -8365,9 +8378,9 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:27 www.facebook.com</li>
 <li> 08:21 web.whatsapp.com</li>
 <li> 07:54 <a href="https://www.youtube.com/watch?v=VVxocz5bCms">(73) Black Widow Pitch Meeting - YouTube</a></li>
-<li> 07:54 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 07:54 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 07:54 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 07:54 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 07:54 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 07:54 bsky.app</li>
 <li> 07:54 www.facebook.com</li>
 <li class='same'> 07:53 www.facebook.com</li>
@@ -8482,9 +8495,9 @@ With number of accesses/minutes in parentheses
 <li> 22:15 <a href="https://www.youtube.com/watch?v=FE9Xo4fQrqU">(69) Supplements and Hydration | Fat Loss Dieting Made Simple #5 - YouTube</a></li>
 <li> 22:10 <a href="https://www.youtube.com/watch?v=z88r8bq0S3U">(69) Supplements and Hydration - YouTube</a></li>
 <li> 22:10 <a href="https://www.youtube.com/results?search_query=renaissance+electrolytes">(69) renaissance electrolytes - YouTube</a></li>
-<li> 22:10 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 22:10 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 22:10 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 22:10 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 22:10 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 22:10 www.naak.com</li>
 <li> 22:10 www.google.com</li>
 </ul>
@@ -8701,7 +8714,7 @@ With number of accesses/minutes in parentheses
 <li> 11:39 www.google.com</li>
 <li> 11:36 <a href="https://www.youtube.com/watch?v=l_GdborsqLo">(64) Death Star Laser Kills Everybody... at Scarif - Rogue One HD - YouTube</a></li>
 <li> 11:36 <a href="https://www.youtube.com/results?search_query=death+star+firing+sequence">(64) death star firing sequence - YouTube</a></li>
-<li> 11:36 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 11:36 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 11:36 www.google.com</li>
 <li class='same'> 11:35 www.google.com</li>
 <li> 11:33 en.wiktionary.org</li>
@@ -8755,10 +8768,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:55 www.reddit.com</li>
 <li class='same'> 09:54 www.reddit.com</li>
 <li class='same'> 09:53 www.reddit.com</li>
-<li> 09:43 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 09:43 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 09:43 web.whatsapp.com</li>
 <li> 09:43 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 09:43 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 09:43 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 09:28 fdc.nal.usda.gov</li>
 <li> 09:27 www.google.com</li>
 <li> 09:27 www.tesco.com</li>
@@ -8816,7 +8829,7 @@ With number of accesses/minutes in parentheses
 <li> 20:55 www.reddit.com</li>
 <li> 20:55 www.google.com</li>
 <li> 20:55 <a href="https://www.youtube.com/results?search_query=libby+notes+">(64) libby notes - YouTube</a></li>
-<li> 20:55 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 20:55 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 20:55 libbyapp.com</li>
 <li> 20:52 www.facebook.com</li>
 <li class='same'> 20:50 www.facebook.com</li>
@@ -8889,7 +8902,7 @@ With number of accesses/minutes in parentheses
 <li> 14:54 <a href="https://www.youtube.com/results?search_query=renaissance+protein+vegan">(62) renaissance protein vegan - YouTube</a></li>
 <li> 14:47 <a href="https://www.youtube.com/watch?v=nkIKesKHIIE">(62) The Protein Lie: Why You Don't Need As Much As You Think - YouTube</a></li>
 <li> 14:47 <a href="https://www.youtube.com/results?search_query=renaissance+protein">(62) renaissance protein - YouTube</a></li>
-<li> 14:47 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 14:47 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 14:33 www.facebook.com</li>
 <li class='same'> 14:32 www.facebook.com</li>
 <li class='same'> 14:31 www.facebook.com</li>
@@ -8927,7 +8940,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:23 www.google.com</li>
 <li> 10:23 <a href="https://www.youtube.com/results?search_query=tau+mass+protons">(61) tau mass protons - YouTube</a></li>
 <li> 10:23 <a href="https://www.youtube.com/results?search_query=tau+mass">(61) tau mass - YouTube</a></li>
-<li> 10:22 <a href="https://www.youtube.com/">(135) YouTube</a></li>
+<li> 10:22 <a href="https://www.youtube.com/">(142) YouTube</a></li>
 <li> 10:20 warhammer40k.fandom.com</li>
 <li class='same'> 10:18 warhammer40k.fandom.com</li>
 <li> 10:18 www.google.com</li>
