@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2194)</li>
-<li>outlook.office.com (1238)</li>
+<ol><li>www.google.com (2195)</li>
+<li>outlook.office.com (1248)</li>
 <li>docs.google.com (1197)</li>
-<li>mail.google.com (1147)</li>
-<li>bsky.app (1091)</li>
+<li>mail.google.com (1148)</li>
+<li>bsky.app (1094)</li>
 <li>outlook.office365.com (1091)</li>
 <li>www.facebook.com (629)</li>
-<li>www.amazon.co.uk (396)</li>
+<li>www.amazon.co.uk (397)</li>
 <li>www.reddit.com (388)</li>
 <li>rhul-my.sharepoint.com (356)</li>
 <li>chatgpt.com (344)</li>
 <li>github.com (299)</li>
 <li>moodle.royalholloway.ac.uk (286)</li>
-<li>calendar.google.com (283)</li>
+<li>calendar.google.com (284)</li>
 <li>www.linkedin.com (277)</li>
 <li>login.microsoftonline.com (254)</li>
 <li>fritz.box (250)</li>
 <li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
-<li>duckduckgo.com (158)</li>
+<li>duckduckgo.com (165)</li>
 <li>forms.office.com (150)</li>
 <li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
-<li>gmail.com (111)</li>
-<li>web.whatsapp.com (111)</li>
+<li>gmail.com (112)</li>
+<li>web.whatsapp.com (112)</li>
 <li>www.tesco.com (110)</li>
 <li>www.theguardian.com (109)</li>
 <li>chat.openai.com (108)</li>
@@ -108,7 +108,69 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:13 duckduckgo.com</li>
+<ul><li> 10:13 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
+<li> 10:13 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 10:11 publish.buffer.com</li>
+<li> 10:11 account.buffer.com</li>
+<li> 10:10 bsky.app</li>
+<li> 10:10 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 10:10 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 10:10 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 10:08 bsky.app</li>
+<li class='same'> 10:07 bsky.app</li>
+<li> 10:07 account.buffer.com</li>
+<li> 10:07 publish.buffer.com</li>
+<li> 10:07 login.buffer.com</li>
+<li class='same'> 10:06 login.buffer.com</li>
+<li> 10:06 mail.google.com</li>
+<li> 10:06 gmail.com</li>
+<li> 10:06 web.whatsapp.com</li>
+<li> 10:06 login.buffer.com</li>
+<li> 10:06 buffer.com</li>
+<li> 09:59 outlook.office.com</li>
+<li class='same'> 09:58 outlook.office.com</li>
+<li class='same'> 09:55 outlook.office.com</li>
+<li class='same'> 09:54 outlook.office.com</li>
+<li class='same'> 09:51 outlook.office.com</li>
+<li class='same'> 09:49 outlook.office.com</li>
+<li> 09:48 calendar.google.com</li>
+<li> 09:47 outlook.office.com</li>
+<li class='same'> 09:46 outlook.office.com</li>
+<li class='same'> 09:33 outlook.office.com</li>
+<li> 09:32 www.amazon.co.uk</li>
+<li> 09:29 outlook.office.com</li>
+<li> 09:28 duckduckgo.com</li>
+<li> 09:27 www.tate.org.uk</li>
+<li> 09:27 duckduckgo.com</li>
+<li> 09:27 www.nationalgallery.org.uk</li>
+<li class='same'> 09:26 www.nationalgallery.org.uk</li>
+<li class='same'> 09:25 www.nationalgallery.org.uk</li>
+<li> 09:25 duckduckgo.com</li>
+<li> 09:24 <a href="https://en.wikipedia.org/wiki/Portrait_of_Madame_Moitessier">Portrait of Madame Moitessier - Wikipedia</a></li>
+<li> 09:24 duckduckgo.com</li>
+<li> 09:20 <a href="https://en.wikipedia.org/wiki/List_of_paintings_by_Paul_Gauguin">List of paintings by Paul Gauguin - Wikipedia</a></li>
+<li> 09:20 <a href="https://en.wikipedia.org/wiki/List_of_paintings_by_Paul_Gauguin?wprov=srpw1_0">List of paintings by Paul Gauguin - Wikipedia</a></li>
+<li> 09:20 <a href="https://en.wikipedia.org/w/index.php?fulltext=1&profile=default&search=tahiti+pastoral&title=Special%3ASearch&ns0=1&searchToken=4ogcr9nwi7jwtqqopwiarcc43">tahiti pastoral - Search results - Wikipedia</a></li>
+<li> 09:20 <a href="https://en.wikipedia.org/w/index.php?fulltext=1&profile=default&search=tahiti+pastoral&title=Special:Search&ns0=1">tahiti pastoral - Search results - Wikipedia</a></li>
+<li> 09:20 <a href="https://en.wikipedia.org/w/index.php?search=tahitian+pastorals&title=Special%3ASearch&ns0=1&searchToken=831k9br6ihzetde24ygcorcru">tahitian pastorals - Search results - Wikipedia</a></li>
+<li> 09:20 <a href="https://en.wikipedia.org/w/index.php?search=tahitian+pastorals&title=Special%3ASearch&ns0=1">tahitian pastorals - Search results - Wikipedia</a></li>
+<li> 09:19 <a href="https://en.wikipedia.org/wiki/Still_Life_with_Apples_and_Oranges">Still Life with Apples and Oranges - Wikipedia</a></li>
+<li> 09:19 <a href="https://en.wikipedia.org/wiki/Apples_and_oranges_(disambiguation)">Apples and oranges (disambiguation) - Wikipedia</a></li>
+<li> 09:18 <a href="https://en.wikipedia.org/wiki/Caf%C3%A9_Terrace_at_Night">Café Terrace at Night - Wikipedia</a></li>
+<li> 09:18 duckduckgo.com</li>
+<li> 09:17 www.google.com</li>
+<li> 09:17 www.nga.gov</li>
+<li> 09:17 duckduckgo.com</li>
+<li> 09:17 <a href="https://en.wikipedia.org/w/index.php?search=breton+girls+dancing&title=Special%3ASearch&ns0=1">breton girls dancing - Search results - Wikipedia</a></li>
+<li> 09:16 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 09:15 duckduckgo.com</li>
+<li> 09:14 <a href="https://en.wikipedia.org/wiki/Blue_Dancers?wprov=srpw1_0">Blue Dancers - Wikipedia</a></li>
+<li> 09:14 <a href="https://en.wikipedia.org/wiki/Blue_Dancers">Blue Dancers - Wikipedia</a></li>
+<li> 09:14 <a href="https://en.wikipedia.org/w/index.php?fulltext=1&search=dancers+in+blue&title=Special%3ASearch&ns0=1&searchToken=8mrkim5y2aupub65p6qyy2ggf">dancers in blue - Search results - Wikipedia</a></li>
+<li> 09:14 <a href="https://en.wikipedia.org/w/index.php?fulltext=1&search=dancers+in+blue&title=Special%3ASearch&ns0=1">dancers in blue - Search results - Wikipedia</a></li>
+<li> 09:14 <a href="https://en.wikipedia.org/wiki/At_the_Theatre">At the Theatre - Wikipedia</a></li>
+<li> 09:13 <a href="https://en.wikipedia.org/wiki/The_Poppy_Field_near_Argenteuil">The Poppy Field near Argenteuil - Wikipedia</a></li>
+<li> 09:13 duckduckgo.com</li>
 <li> 09:12 <a href="https://en.wikipedia.org/wiki/A_Girl_with_a_Watering_Can">A Girl with a Watering Can - Wikipedia</a></li>
 <li> 09:12 www.google.com</li>
 <li class='same'> 09:11 www.google.com</li>
