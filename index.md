@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2192)</li>
 <li>outlook.office.com (1236)</li>
-<li>docs.google.com (1192)</li>
+<li>docs.google.com (1196)</li>
 <li>mail.google.com (1147)</li>
 <li>bsky.app (1091)</li>
 <li>outlook.office365.com (1090)</li>
 <li>www.facebook.com (629)</li>
-<li>www.amazon.co.uk (395)</li>
+<li>www.amazon.co.uk (396)</li>
 <li>www.reddit.com (388)</li>
 <li>rhul-my.sharepoint.com (356)</li>
-<li>chatgpt.com (343)</li>
+<li>chatgpt.com (344)</li>
 <li>github.com (299)</li>
 <li>moodle.royalholloway.ac.uk (286)</li>
 <li>calendar.google.com (283)</li>
@@ -88,8 +88,8 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
+<li>duckduckgo.com (152)</li>
 <li>forms.office.com (150)</li>
-<li>duckduckgo.com (146)</li>
 <li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
@@ -97,18 +97,53 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (111)</li>
 <li>www.tesco.com (110)</li>
 <li>www.theguardian.com (109)</li>
-<li>chat.openai.com (107)</li>
+<li>chat.openai.com (108)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Thursday, 06/02/25</H3>
+
+<br>
+
+<ul><li> 07:30 sciencelessonsthatrock.com</li>
+<li> 07:30 duckduckgo.com</li>
+<li> 07:29 cookingissues.com</li>
+<li class='same'> 07:28 cookingissues.com</li>
+<li> 07:28 duckduckgo.com</li>
+<li> 07:27 www.libbylife.com</li>
+<li> 07:27 <a href="https://en.wikipedia.org/wiki/List_of_largest_libraries">List of largest libraries - Wikipedia</a></li>
+<li> 07:27 duckduckgo.com</li>
+<li class='same'> 07:26 duckduckgo.com</li>
+<li> 07:24 www.google.co.uk</li>
+<li class='same'> 07:23 www.google.co.uk</li>
+<li> 07:23 library.lsbu.ac.uk</li>
+<li> 07:23 duckduckgo.com</li>
+<li> 07:23 www.google.co.uk</li>
+<li class='same'> 07:22 www.google.co.uk</li>
+<li class='same'> 07:21 www.google.co.uk</li>
+<li> 07:21 duckduckgo.com</li>
+<li> 07:18 chatgpt.com</li>
+<li> 07:18 chat.openai.com</li>
+<li> 07:14 www.amazon.co.uk</li>
+<li> 07:14 docs.google.com</li>
+<li> 07:13 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 07:13 docs.google.com</li>
+<li class='same'> 07:12 docs.google.com</li>
+</ul>
+
 <H3>Wednesday, 05/02/25</H3>
 
 <br>
 
-<ul><li> 21:08 docs.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:12 docs.google.com</li>
+<li class='same'> 21:08 docs.google.com</li>
 <li class='same'> 21:07 docs.google.com</li>
 <li class='same'> 21:06 docs.google.com</li>
 <li class='same'> 21:05 docs.google.com</li>
