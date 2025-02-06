@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2195)</li>
+<ol><li>www.google.com (2205)</li>
 <li>outlook.office.com (1258)</li>
 <li>docs.google.com (1197)</li>
 <li>mail.google.com (1148)</li>
@@ -76,10 +76,10 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1092)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (397)</li>
-<li>www.reddit.com (388)</li>
+<li>www.reddit.com (390)</li>
 <li>rhul-my.sharepoint.com (356)</li>
 <li>chatgpt.com (344)</li>
-<li>github.com (299)</li>
+<li>github.com (302)</li>
 <li>moodle.royalholloway.ac.uk (286)</li>
 <li>calendar.google.com (284)</li>
 <li>www.linkedin.com (277)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (170)</li>
 <li>duckduckgo.com (167)</li>
 <li>forms.office.com (150)</li>
-<li>tvtropes.org (128)</li>
+<li>tvtropes.org (130)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
 <li>gmail.com (112)</li>
@@ -108,6 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 19:35 www.google.com</li>
+<li class='same'> 19:25 www.google.com</li>
+<li> 19:21 tvtropes.org</li>
+<li> 19:21 www.google.com</li>
+<li> 19:21 tvtropes.org</li>
+<li> 19:21 www.google.com</li>
+<li> 19:21 www.nationalgallery.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:06 www.nationalgallery.org.uk</li>
+<li class='same'> 17:03 www.nationalgallery.org.uk</li>
+<li> 17:03 www.google.com</li>
+<li> 17:01 www.tortilla.co.uk</li>
+<li> 17:01 www.gov.uk</li>
+<li> 17:01 www.tortilla.co.uk</li>
+<li> 17:01 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:32 outlook.office.com</li>
 <li class='same'> 13:31 outlook.office.com</li>
 <li class='same'> 13:30 outlook.office.com</li>
@@ -119,6 +141,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:22 outlook.office.com</li>
 <li> 13:22 outlook.office365.com</li>
 <li> 13:22 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:25 www.gov.uk</li>
+<li> 12:25 www.google.com</li>
 </ul>
 
 <br>
@@ -303,6 +331,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:52 docs.google.com</li>
 <li class='same'> 19:51 docs.google.com</li>
 <li> 19:40 chatgpt.com</li>
+<li> 19:35 www.google.com</li>
+<li> 19:35 www.reddit.com</li>
 </ul>
 
 <br>
@@ -327,6 +357,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:06 docs.google.com</li>
 <li> 17:06 outlook.office.com</li>
 <li class='same'> 17:05 outlook.office.com</li>
+<li> 16:49 www.reddit.com</li>
+<li> 16:49 www.google.com</li>
+<li class='same'> 16:19 www.google.com</li>
+<li> 16:19 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
 </ul>
 
 <br>
@@ -30914,7 +30948,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:10 publish.buffer.com</li>
+<ul><li> 10:11 account.buffer.com</li>
+<li class='same'> 10:10 account.buffer.com</li>
+<li> 10:10 publish.buffer.com</li>
 <li> 10:10 buffer.com</li>
 <li> 10:09 www.linkedin.com</li>
 </ul>
@@ -31533,17 +31569,16 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:18 <a href="https://en.wikipedia.org/wiki/Bluey_(2018_TV_series)">Bluey (2018 TV series) - Wikipedia</a></li>
-</ul>
-
-<br>
-
-<ul><li> 13:41 scholar.google.com</li>
+<li> 14:06 github.com</li>
+<li> 13:41 scholar.google.com</li>
 <li> 13:23 whitewaterwriters.com</li>
+<li> 13:17 github.com</li>
 </ul>
 
 <br>
 
-<ul><li> 12:39 github.com</li>
+<ul><li class='same'> 12:40 github.com</li>
+<li class='same'> 12:39 github.com</li>
 <li class='same'> 12:37 github.com</li>
 </ul>
 
