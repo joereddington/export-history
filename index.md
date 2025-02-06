@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2192)</li>
-<li>outlook.office.com (1236)</li>
-<li>docs.google.com (1196)</li>
+<ol><li>www.google.com (2194)</li>
+<li>outlook.office.com (1238)</li>
+<li>docs.google.com (1197)</li>
 <li>mail.google.com (1147)</li>
 <li>bsky.app (1091)</li>
-<li>outlook.office365.com (1090)</li>
+<li>outlook.office365.com (1091)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (396)</li>
 <li>www.reddit.com (388)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
-<li>duckduckgo.com (152)</li>
+<li>duckduckgo.com (158)</li>
 <li>forms.office.com (150)</li>
 <li>tvtropes.org (128)</li>
 <li>ev.turnitinuk.com (126)</li>
@@ -105,6 +105,54 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 06/02/25</H3>
+
+<br>
+
+<ul><li> 09:13 duckduckgo.com</li>
+<li> 09:12 <a href="https://en.wikipedia.org/wiki/A_Girl_with_a_Watering_Can">A Girl with a Watering Can - Wikipedia</a></li>
+<li> 09:12 www.google.com</li>
+<li class='same'> 09:11 www.google.com</li>
+<li> 09:10 www.vincentvangogh.org</li>
+<li> 09:10 duckduckgo.com</li>
+<li> 09:10 www.google.co.uk</li>
+<li> 09:05 www.artchive.com</li>
+<li> 09:05 duckduckgo.com</li>
+<li> 09:04 www.artchive.com</li>
+<li> 09:04 duckduckgo.com</li>
+<li> 09:03 <a href="https://en.wikipedia.org/w/index.php?search=woman+hanging+up+the+washing&title=Special%3ASearch&ns0=1">woman hanging up the washing - Search results - Wikipedia</a></li>
+<li> 09:03 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 08:59 outlook.office.com</li>
+<li class='same'> 08:58 outlook.office.com</li>
+<li> 08:58 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:07 www.artchive.com</li>
+<li> 08:07 duckduckgo.com</li>
+<li> 08:07 <a href="https://en.wikipedia.org/w/index.php?search=port+of+the+honfluer&title=Special%3ASearch&ns0=1">port of the honfluer - Search results - Wikipedia</a></li>
+<li> 08:05 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:Georges_Seurat_-_Les_Poseuses.jpg">A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:05 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:Georges_Seurat_035.jpg">Georges Seurat - Les Poseuses - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:05 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:Georges_Seurat_-_Les_Poseuses.jpg">A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:05 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:Georges_Seurat_034.jpg">A Sunday on La Grande Jatte, Georges Seurat, 1884 - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:05 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg">Georges Seurat - Les Poseuses - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:05 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:Northwest_portion_of_La_Grande_Jatte.jpg">Georges Seurat 034 - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:05 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:Baigneurs_a_Asnieres.jpg">Northwest portion of La Grande Jatte - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:05 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:Northwest_portion_of_La_Grande_Jatte.jpg">Georges Seurat 034 - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:05 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:Georges_Seurat_034.jpg">A Sunday on La Grande Jatte, Georges Seurat, 1884 - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:04 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg">Georges Seurat - Les Poseuses - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:04 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:Georges_Seurat_034.jpg">A Sunday on La Grande Jatte, Georges Seurat, 1884 - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:04 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg">Georges Seurat - Les Poseuses - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:04 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:Georges_Seurat_034.jpg">A Sunday on La Grande Jatte, Georges Seurat, 1884 - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:04 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:Northwest_portion_of_La_Grande_Jatte.jpg">Georges Seurat 034 - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:04 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:Georges_Seurat_034.jpg">A Sunday on La Grande Jatte, Georges Seurat, 1884 - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:04 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte#/media/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg">Georges Seurat - Les Poseuses - A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:03 <a href="https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte">A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia</a></li>
+<li> 08:03 <a href="https://en.wikipedia.org/wiki/Bathers_at_Asni%C3%A8res">Bathers at Asnières - Wikipedia</a></li>
+<li> 08:02 www.nationalgallery.org.uk</li>
+<li> 08:02 duckduckgo.com</li>
+<li> 08:01 docs.google.com</li>
+</ul>
 
 <br>
 
