@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (397)</li>
 <li>www.reddit.com (391)</li>
 <li>rhul-my.sharepoint.com (356)</li>
-<li>chatgpt.com (344)</li>
+<li>chatgpt.com (345)</li>
 <li>github.com (302)</li>
 <li>moodle.royalholloway.ac.uk (286)</li>
 <li>calendar.google.com (284)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (250)</li>
 <li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (174)</li>
-<li>duckduckgo.com (172)</li>
+<li>duckduckgo.com (174)</li>
 <li>drive.google.com (170)</li>
 <li>forms.office.com (150)</li>
 <li>tvtropes.org (130)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (112)</li>
 <li>www.tesco.com (110)</li>
 <li>www.theguardian.com (109)</li>
-<li>chat.openai.com (108)</li>
+<li>chat.openai.com (109)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:07 outlook.office.com</li>
+<ul><li> 10:07 www.diabetes.org.uk</li>
+<li> 10:06 duckduckgo.com</li>
+<li> 09:57 <a href="https://en.wikipedia.org/wiki/Blood_sugar_level">Blood sugar level - Wikipedia</a></li>
+<li> 09:56 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:11 chatgpt.com</li>
+<li> 09:11 chat.openai.com</li>
+<li> 09:07 outlook.office.com</li>
 <li class='same'> 09:06 outlook.office.com</li>
 <li class='same'> 09:05 outlook.office.com</li>
 <li> 09:05 outlook.office365.com</li>
