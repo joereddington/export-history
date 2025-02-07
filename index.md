@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2205)</li>
 <li>outlook.office.com (1258)</li>
-<li>docs.google.com (1203)</li>
+<li>docs.google.com (1209)</li>
 <li>mail.google.com (1148)</li>
 <li>bsky.app (1099)</li>
 <li>outlook.office365.com (1092)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (250)</li>
 <li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (174)</li>
-<li>duckduckgo.com (171)</li>
+<li>duckduckgo.com (172)</li>
 <li>drive.google.com (170)</li>
 <li>forms.office.com (150)</li>
 <li>tvtropes.org (130)</li>
@@ -104,11 +104,34 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 07/02/25</H3>
+
+<br>
+
+<ul><li> 06:28 docs.google.com</li>
+<li class='same'> 06:27 docs.google.com</li>
+<li class='same'> 06:26 docs.google.com</li>
+<li class='same'> 06:25 docs.google.com</li>
+</ul>
+
 <H3>Thursday, 06/02/25</H3>
 
 <br>
 
-<ul><li> 23:04 docs.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 23:10 publish.buffer.com</li>
+<li class='same'> 23:09 publish.buffer.com</li>
+<li> 23:09 account.buffer.com</li>
+<li> 23:09 publish.buffer.com</li>
+<li class='same'> 23:08 publish.buffer.com</li>
+<li> 23:08 buffer.com</li>
+<li> 23:08 duckduckgo.com</li>
+<li> 23:07 docs.google.com</li>
+<li class='same'> 23:06 docs.google.com</li>
+<li class='same'> 23:04 docs.google.com</li>
 <li> 23:04 publish.buffer.com</li>
 <li class='same'> 23:03 publish.buffer.com</li>
 <li> 22:59 duckduckgo.com</li>
