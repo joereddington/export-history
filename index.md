@@ -70,9 +70,9 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2205)</li>
 <li>outlook.office.com (1258)</li>
-<li>docs.google.com (1197)</li>
+<li>docs.google.com (1203)</li>
 <li>mail.google.com (1148)</li>
-<li>bsky.app (1095)</li>
+<li>bsky.app (1099)</li>
 <li>outlook.office365.com (1092)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (397)</li>
@@ -82,19 +82,19 @@ With number of accesses/minutes in parentheses
 <li>github.com (302)</li>
 <li>moodle.royalholloway.ac.uk (286)</li>
 <li>calendar.google.com (284)</li>
-<li>www.linkedin.com (277)</li>
+<li>www.linkedin.com (283)</li>
 <li>login.microsoftonline.com (254)</li>
 <li>fritz.box (250)</li>
 <li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (174)</li>
+<li>duckduckgo.com (171)</li>
 <li>drive.google.com (170)</li>
-<li>duckduckgo.com (167)</li>
 <li>forms.office.com (150)</li>
 <li>tvtropes.org (130)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
+<li>web.whatsapp.com (113)</li>
 <li>gmail.com (112)</li>
-<li>web.whatsapp.com (112)</li>
 <li>www.tesco.com (110)</li>
 <li>www.theguardian.com (109)</li>
 <li>chat.openai.com (108)</li>
@@ -105,6 +105,40 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 06/02/25</H3>
+
+<br>
+
+<ul><li> 23:04 docs.google.com</li>
+<li> 23:04 publish.buffer.com</li>
+<li class='same'> 23:03 publish.buffer.com</li>
+<li> 22:59 duckduckgo.com</li>
+<li> 22:58 bsky.app</li>
+<li class='same'> 22:57 bsky.app</li>
+<li> 22:57 www.waterstones.com</li>
+<li> 22:53 bsky.app</li>
+<li class='same'> 22:52 bsky.app</li>
+<li> 22:46 www.linkedin.com</li>
+<li> 22:45 web.whatsapp.com</li>
+<li> 22:37 www.linkedin.com</li>
+<li class='same'> 22:36 www.linkedin.com</li>
+<li class='same'> 22:35 www.linkedin.com</li>
+<li class='same'> 22:34 www.linkedin.com</li>
+<li> 22:34 accounts.google.com</li>
+<li> 22:34 www.linkedin.com</li>
+<li> 22:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 22:33 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 22:33 publish.buffer.com</li>
+<li class='same'> 22:32 publish.buffer.com</li>
+<li> 22:32 login.buffer.com</li>
+<li> 22:32 buffer.com</li>
+<li> 22:32 feedly.com</li>
+<li class='same'> 22:31 feedly.com</li>
+<li> 22:22 docs.google.com</li>
+<li class='same'> 22:20 docs.google.com</li>
+<li class='same'> 22:19 docs.google.com</li>
+<li class='same'> 22:18 docs.google.com</li>
+<li class='same'> 22:17 docs.google.com</li>
+</ul>
 
 <br>
 
@@ -130,7 +164,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:32 outlook.office.com</li>
+<ul><li> 13:39 questions-statements.parliament.uk</li>
+<li> 13:39 www.gov.uk</li>
+<li> 13:38 eclipse-foundation.blog</li>
+<li> 13:36 <a href="https://en.wikipedia.org/wiki/Cyber_Resilience_Act">Cyber Resilience Act - Wikipedia</a></li>
+<li> 13:36 duckduckgo.com</li>
+<li> 13:35 digital-strategy.ec.europa.eu</li>
+<li> 13:35 duckduckgo.com</li>
+<li> 13:35 www.gov.uk</li>
+<li> 13:34 duckduckgo.com</li>
+<li> 13:32 outlook.office.com</li>
 <li class='same'> 13:31 outlook.office.com</li>
 <li class='same'> 13:30 outlook.office.com</li>
 <li class='same'> 13:28 outlook.office.com</li>
