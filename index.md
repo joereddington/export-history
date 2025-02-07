@@ -69,31 +69,31 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2207)</li>
-<li>outlook.office.com (1277)</li>
-<li>docs.google.com (1214)</li>
+<li>outlook.office.com (1287)</li>
+<li>docs.google.com (1216)</li>
 <li>mail.google.com (1149)</li>
 <li>bsky.app (1099)</li>
-<li>outlook.office365.com (1094)</li>
+<li>outlook.office365.com (1095)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (397)</li>
 <li>www.reddit.com (393)</li>
 <li>rhul-my.sharepoint.com (356)</li>
 <li>chatgpt.com (345)</li>
-<li>github.com (303)</li>
-<li>moodle.royalholloway.ac.uk (292)</li>
+<li>github.com (304)</li>
+<li>moodle.royalholloway.ac.uk (293)</li>
 <li>calendar.google.com (284)</li>
 <li>www.linkedin.com (283)</li>
 <li>login.microsoftonline.com (256)</li>
 <li>fritz.box (250)</li>
 <li>www.coursera.org (187)</li>
-<li>duckduckgo.com (178)</li>
+<li>duckduckgo.com (182)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
 <li>forms.office.com (150)</li>
 <li>tvtropes.org (130)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
-<li>web.whatsapp.com (113)</li>
+<li>web.whatsapp.com (114)</li>
 <li>gmail.com (112)</li>
 <li>www.tesco.com (110)</li>
 <li>www.theguardian.com (109)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:05 moodle.royalholloway.ac.uk</li>
+<ul><li> 12:09 outlook.office.com</li>
+<li class='same'> 12:08 outlook.office.com</li>
+<li> 11:59 web.whatsapp.com</li>
+<li> 11:59 outlook.office.com</li>
+<li class='same'> 11:45 outlook.office.com</li>
+<li class='same'> 11:44 outlook.office.com</li>
+<li class='same'> 11:43 outlook.office.com</li>
+<li class='same'> 11:42 outlook.office.com</li>
+<li> 11:41 pure.royalholloway.ac.uk</li>
+<li> 11:41 duckduckgo.com</li>
+<li> 11:41 www.tightrope.co.uk</li>
+<li> 11:40 intranet.royalholloway.ac.uk</li>
+<li> 11:40 duckduckgo.com</li>
+<li> 11:34 outlook.office.com</li>
+<li class='same'> 11:33 outlook.office.com</li>
+<li> 11:33 outlook.office365.com</li>
+<li> 11:33 outlook.office.com</li>
+<li> 11:33 github.com</li>
+<li> 11:30 docs.google.com</li>
+<li> 11:30 duckduckgo.com</li>
+<li class='same'> 11:08 duckduckgo.com</li>
+<li> 11:06 docs.google.com</li>
+<li> 11:06 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:05 moodle.royalholloway.ac.uk</li>
 <li> 11:03 rl.talis.com</li>
 <li> 11:01 moodle.royalholloway.ac.uk</li>
 <li> 11:01 github.com</li>
