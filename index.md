@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2208)</li>
-<li>outlook.office.com (1302)</li>
+<ol><li>www.google.com (2209)</li>
+<li>outlook.office.com (1308)</li>
 <li>docs.google.com (1240)</li>
-<li>mail.google.com (1158)</li>
+<li>mail.google.com (1162)</li>
+<li>outlook.office365.com (1101)</li>
 <li>bsky.app (1099)</li>
-<li>outlook.office365.com (1099)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (397)</li>
 <li>www.reddit.com (396)</li>
-<li>rhul-my.sharepoint.com (356)</li>
-<li>chatgpt.com (346)</li>
+<li>rhul-my.sharepoint.com (358)</li>
+<li>chatgpt.com (348)</li>
 <li>github.com (304)</li>
-<li>moodle.royalholloway.ac.uk (293)</li>
+<li>moodle.royalholloway.ac.uk (295)</li>
 <li>www.linkedin.com (291)</li>
 <li>calendar.google.com (284)</li>
-<li>login.microsoftonline.com (256)</li>
+<li>login.microsoftonline.com (257)</li>
 <li>fritz.box (250)</li>
-<li>duckduckgo.com (189)</li>
+<li>duckduckgo.com (194)</li>
 <li>www.coursera.org (187)</li>
 <li>qbo.intuit.com (179)</li>
 <li>drive.google.com (173)</li>
 <li>forms.office.com (150)</li>
 <li>tvtropes.org (130)</li>
 <li>ev.turnitinuk.com (126)</li>
+<li>web.whatsapp.com (121)</li>
 <li>rhul.sharepoint.com (120)</li>
-<li>web.whatsapp.com (119)</li>
-<li>gmail.com (114)</li>
+<li>gmail.com (117)</li>
+<li>chat.openai.com (112)</li>
 <li>www.tesco.com (112)</li>
-<li>chat.openai.com (110)</li>
 <li>www.theguardian.com (109)</li>
 
 
@@ -108,7 +108,55 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:00 mail.google.com</li>
+<ul><li> 17:57 chatgpt.com</li>
+<li> 17:57 chat.openai.com</li>
+<li> 17:50 claude.ai</li>
+<li> 17:49 equalitytime.github.io</li>
+<li> 17:49 claude.ai</li>
+<li> 17:46 outlook.office365.com</li>
+<li> 17:46 outlook.office.com</li>
+<li> 17:45 creativecloud.adobe.com</li>
+<li> 17:45 productrouter.adobe.com</li>
+<li> 17:45 commerce.adobe.com</li>
+<li> 17:45 www.paypal.com</li>
+<li class='same'> 17:44 www.paypal.com</li>
+<li class='same'> 17:43 www.paypal.com</li>
+<li class='same'> 17:42 www.paypal.com</li>
+<li> 17:42 commerce.adobe.com</li>
+<li> 17:41 www.adobe.com</li>
+<li> 17:41 duckduckgo.com</li>
+<li class='same'> 17:40 duckduckgo.com</li>
+<li> 17:37 mail.google.com</li>
+<li> 17:37 gmail.com</li>
+<li> 17:37 www.myfonts.com</li>
+<li class='same'> 17:36 www.myfonts.com</li>
+<li> 17:36 duckduckgo.com</li>
+<li> 17:35 chatgpt.com</li>
+<li> 17:35 chat.openai.com</li>
+<li> 17:35 web.whatsapp.com</li>
+<li> 17:31 mail.google.com</li>
+<li> 17:18 web.whatsapp.com</li>
+<li> 17:17 mail.google.com</li>
+<li> 17:17 gmail.com</li>
+<li> 17:17 mail.google.com</li>
+<li> 17:17 gmail.com</li>
+<li> 17:16 rhul-my.sharepoint.com</li>
+<li class='same'> 17:15 rhul-my.sharepoint.com</li>
+<li> 17:15 moodle.royalholloway.ac.uk</li>
+<li> 17:15 login.microsoftonline.com</li>
+<li> 17:15 moodle.royalholloway.ac.uk</li>
+<li> 17:13 outlook.office.com</li>
+<li class='same'> 17:12 outlook.office.com</li>
+<li class='same'> 17:11 outlook.office.com</li>
+<li> 17:10 duckduckgo.com</li>
+<li> 17:08 www.thejc.com</li>
+<li> 17:08 www.google.com</li>
+<li> 17:07 www.thejc.com</li>
+<li> 17:07 duckduckgo.com</li>
+<li> 17:06 outlook.office.com</li>
+<li> 17:06 outlook.office365.com</li>
+<li> 17:06 outlook.office.com</li>
+<li> 17:00 mail.google.com</li>
 <li> 16:59 docs.google.com</li>
 <li> 16:57 mail.google.com</li>
 <li> 16:53 web.whatsapp.com</li>
