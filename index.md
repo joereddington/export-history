@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2207)</li>
-<li>outlook.office.com (1265)</li>
-<li>docs.google.com (1211)</li>
+<li>outlook.office.com (1277)</li>
+<li>docs.google.com (1214)</li>
 <li>mail.google.com (1149)</li>
 <li>bsky.app (1099)</li>
 <li>outlook.office365.com (1094)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (397)</li>
-<li>www.reddit.com (391)</li>
+<li>www.reddit.com (393)</li>
 <li>rhul-my.sharepoint.com (356)</li>
 <li>chatgpt.com (345)</li>
-<li>github.com (302)</li>
-<li>moodle.royalholloway.ac.uk (286)</li>
+<li>github.com (303)</li>
+<li>moodle.royalholloway.ac.uk (292)</li>
 <li>calendar.google.com (284)</li>
 <li>www.linkedin.com (283)</li>
-<li>login.microsoftonline.com (255)</li>
+<li>login.microsoftonline.com (256)</li>
 <li>fritz.box (250)</li>
 <li>www.coursera.org (187)</li>
+<li>duckduckgo.com (178)</li>
 <li>qbo.intuit.com (174)</li>
-<li>duckduckgo.com (174)</li>
 <li>drive.google.com (170)</li>
 <li>forms.office.com (150)</li>
 <li>tvtropes.org (130)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:07 www.diabetes.org.uk</li>
+<ul><li> 11:05 moodle.royalholloway.ac.uk</li>
+<li> 11:03 rl.talis.com</li>
+<li> 11:01 moodle.royalholloway.ac.uk</li>
+<li> 11:01 github.com</li>
+<li> 11:00 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:59 moodle.royalholloway.ac.uk</li>
+<li> 10:58 www.advance-he.ac.uk</li>
+<li> 10:58 duckduckgo.com</li>
+<li> 10:39 moodle.royalholloway.ac.uk</li>
+<li> 10:39 login.microsoftonline.com</li>
+<li> 10:39 moodle.royalholloway.ac.uk</li>
+<li> 10:30 teams.microsoft.com</li>
+<li> 10:29 outlook.office.com</li>
+<li> 10:29 www.royalholloway.ac.uk</li>
+<li> 10:29 outlook.office.com</li>
+<li> 10:27 docs.google.com</li>
+<li> 10:27 fast.com</li>
+<li> 10:27 outlook.office.com</li>
+<li class='same'> 10:26 outlook.office.com</li>
+<li> 10:26 www.royalholloway.ac.uk</li>
+<li> 10:25 intranet.royalholloway.ac.uk</li>
+<li> 10:25 duckduckgo.com</li>
+<li> 10:25 outlook.office.com</li>
+<li class='same'> 10:24 outlook.office.com</li>
+<li class='same'> 10:23 outlook.office.com</li>
+<li> 10:17 www.reddit.com</li>
+<li class='same'> 10:16 www.reddit.com</li>
+<li> 10:16 duckduckgo.com</li>
+<li> 10:15 docs.google.com</li>
+<li class='same'> 10:14 docs.google.com</li>
+<li> 10:12 www.nhs.uk</li>
+<li> 10:12 duckduckgo.com</li>
+<li> 10:07 www.diabetes.org.uk</li>
 <li> 10:06 duckduckgo.com</li>
 <li> 09:57 <a href="https://en.wikipedia.org/wiki/Blood_sugar_level">Blood sugar level - Wikipedia</a></li>
 <li> 09:56 duckduckgo.com</li>
@@ -20953,6 +20985,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:13 www.advance-he.ac.uk</li>
+<li class='same'> 15:12 www.advance-he.ac.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 13:20 chatgpt.com</li>
 </ul>
 
@@ -21251,11 +21289,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:42 moodle.royalholloway.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 12:06 outlook.office365.com</li>
+<li> 12:25 www.advance-he.ac.uk</li>
+<li> 12:06 outlook.office365.com</li>
 <li class='same'> 12:03 outlook.office365.com</li>
 <li class='same'> 12:01 outlook.office365.com</li>
 </ul>
@@ -21527,7 +21562,8 @@ With number of accesses/minutes in parentheses
 <li> 11:11 projects.cs.rhul.ac.uk</li>
 <li> 11:09 rhul-my.sharepoint.com</li>
 <li> 11:08 outlook.office.com</li>
-<li class='same'> 10:54 outlook.office.com</li>
+<li> 10:56 www.advance-he.ac.uk</li>
+<li> 10:54 outlook.office.com</li>
 <li> 10:29 mail.google.com</li>
 <li> 10:22 outlook.office.com</li>
 <li class='same'> 10:16 outlook.office.com</li>
@@ -23550,6 +23586,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 13:01 www.advance-he.ac.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 11:58 rhul-my.sharepoint.com</li>
 </ul>
 
@@ -24731,11 +24772,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:01 whitewaterwriters.com</li>
-</ul>
-
-<br>
-
-<ul><li> 12:11 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<li> 12:35 outlook.office.com</li>
+<li> 12:11 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 12:10 www.facebook.com</li>
 <li> 12:05 outlook.office.com</li>
 <li class='same'> 12:02 outlook.office.com</li>
@@ -26649,6 +26687,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:46 www.facebook.com</li>
 <li class='same'> 14:45 www.facebook.com</li>
+<li> 14:15 outlook.office.com</li>
 </ul>
 
 <br>
@@ -27204,6 +27243,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:25 outlook.office.com</li>
+<li class='same'> 14:04 outlook.office.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:28 www.linkedin.com</li>
 </ul>
 
@@ -27753,6 +27798,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:41 outlook.office.com</li>
 <li class='same'> 12:40 outlook.office.com</li>
 <li class='same'> 12:39 outlook.office.com</li>
+<li class='same'> 12:17 outlook.office.com</li>
 </ul>
 
 <br>
