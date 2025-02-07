@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2207)</li>
-<li>outlook.office.com (1287)</li>
-<li>docs.google.com (1216)</li>
+<li>outlook.office.com (1291)</li>
+<li>docs.google.com (1218)</li>
 <li>mail.google.com (1149)</li>
 <li>bsky.app (1099)</li>
-<li>outlook.office365.com (1095)</li>
+<li>outlook.office365.com (1097)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (397)</li>
 <li>www.reddit.com (393)</li>
@@ -81,19 +81,19 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (345)</li>
 <li>github.com (304)</li>
 <li>moodle.royalholloway.ac.uk (293)</li>
+<li>www.linkedin.com (289)</li>
 <li>calendar.google.com (284)</li>
-<li>www.linkedin.com (283)</li>
 <li>login.microsoftonline.com (256)</li>
 <li>fritz.box (250)</li>
 <li>www.coursera.org (187)</li>
-<li>duckduckgo.com (182)</li>
+<li>duckduckgo.com (185)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
 <li>forms.office.com (150)</li>
 <li>tvtropes.org (130)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
-<li>web.whatsapp.com (114)</li>
+<li>web.whatsapp.com (115)</li>
 <li>gmail.com (112)</li>
 <li>www.tesco.com (110)</li>
 <li>www.theguardian.com (109)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:09 outlook.office.com</li>
+<ul><li> 12:48 docs.google.com</li>
+<li class='same'> 12:28 docs.google.com</li>
+<li> 12:27 www.linkedin.com</li>
+<li class='same'> 12:26 www.linkedin.com</li>
+<li> 12:26 uk.linkedin.com</li>
+<li> 12:26 duckduckgo.com</li>
+<li> 12:24 outlook.office365.com</li>
+<li> 12:24 outlook.office.com</li>
+<li> 12:24 www.linkedin.com</li>
+<li> 12:24 uk.linkedin.com</li>
+<li> 12:24 duckduckgo.com</li>
+<li> 12:24 www.linkedin.com</li>
+<li> 12:22 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 12:20 www.linkedin.com</li>
+<li class='same'> 12:19 www.linkedin.com</li>
+<li> 12:18 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 12:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:17 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 12:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:17 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:16 www.royalholloway.ac.uk</li>
+<li> 12:16 duckduckgo.com</li>
+<li> 12:15 outlook.office365.com</li>
+<li> 12:15 outlook.office.com</li>
+<li> 12:15 web.whatsapp.com</li>
+<li> 12:13 outlook.office.com</li>
+<li class='same'> 12:12 outlook.office.com</li>
+<li class='same'> 12:09 outlook.office.com</li>
 <li class='same'> 12:08 outlook.office.com</li>
 <li> 11:59 web.whatsapp.com</li>
 <li> 11:59 outlook.office.com</li>
