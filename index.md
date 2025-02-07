@@ -69,35 +69,35 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2208)</li>
-<li>outlook.office.com (1300)</li>
-<li>docs.google.com (1223)</li>
-<li>mail.google.com (1150)</li>
+<li>outlook.office.com (1302)</li>
+<li>docs.google.com (1240)</li>
+<li>mail.google.com (1158)</li>
 <li>bsky.app (1099)</li>
 <li>outlook.office365.com (1099)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (397)</li>
 <li>www.reddit.com (396)</li>
 <li>rhul-my.sharepoint.com (356)</li>
-<li>chatgpt.com (345)</li>
+<li>chatgpt.com (346)</li>
 <li>github.com (304)</li>
 <li>moodle.royalholloway.ac.uk (293)</li>
-<li>www.linkedin.com (289)</li>
+<li>www.linkedin.com (291)</li>
 <li>calendar.google.com (284)</li>
 <li>login.microsoftonline.com (256)</li>
 <li>fritz.box (250)</li>
+<li>duckduckgo.com (189)</li>
 <li>www.coursera.org (187)</li>
-<li>duckduckgo.com (187)</li>
-<li>qbo.intuit.com (174)</li>
-<li>drive.google.com (170)</li>
+<li>qbo.intuit.com (179)</li>
+<li>drive.google.com (173)</li>
 <li>forms.office.com (150)</li>
 <li>tvtropes.org (130)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
-<li>web.whatsapp.com (116)</li>
-<li>gmail.com (113)</li>
+<li>web.whatsapp.com (119)</li>
+<li>gmail.com (114)</li>
 <li>www.tesco.com (112)</li>
+<li>chat.openai.com (110)</li>
 <li>www.theguardian.com (109)</li>
-<li>chat.openai.com (109)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,64 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:52 outlook.office.com</li>
+<ul><li> 17:00 mail.google.com</li>
+<li> 16:59 docs.google.com</li>
+<li> 16:57 mail.google.com</li>
+<li> 16:53 web.whatsapp.com</li>
+<li> 16:53 mail.google.com</li>
+<li class='same'> 16:51 mail.google.com</li>
+<li> 16:51 gmail.com</li>
+<li> 16:48 docs.google.com</li>
+<li class='same'> 16:47 docs.google.com</li>
+<li class='same'> 16:46 docs.google.com</li>
+<li class='same'> 16:45 docs.google.com</li>
+<li class='same'> 16:44 docs.google.com</li>
+<li class='same'> 16:43 docs.google.com</li>
+<li class='same'> 16:42 docs.google.com</li>
+<li> 16:41 web.whatsapp.com</li>
+<li> 16:39 equalitytime.co.uk</li>
+<li> 16:39 theopenvoicefactory.org</li>
+<li> 16:37 docs.google.com</li>
+<li class='same'> 16:36 docs.google.com</li>
+<li class='same'> 16:32 docs.google.com</li>
+<li class='same'> 16:31 docs.google.com</li>
+<li> 16:28 www.pixartprinting.co.uk</li>
+<li> 16:28 duckduckgo.com</li>
+<li> 16:28 qbo.intuit.com</li>
+<li class='same'> 16:27 qbo.intuit.com</li>
+<li class='same'> 16:26 qbo.intuit.com</li>
+<li class='same'> 16:25 qbo.intuit.com</li>
+<li> 16:25 docs.google.com</li>
+<li> 16:25 drive.google.com</li>
+<li> 16:25 qbo.intuit.com</li>
+<li> 16:25 accounts.intuit.com</li>
+<li> 16:25 c14.qbo.intuit.com</li>
+<li> 16:25 app.qbo.intuit.com</li>
+<li> 16:25 drive.google.com</li>
+<li> 16:22 www.linkedin.com</li>
+<li class='same'> 16:21 www.linkedin.com</li>
+<li> 16:20 www.giantitp.com</li>
+<li> 16:20 feedly.com</li>
+<li class='same'> 16:19 feedly.com</li>
+<li> 16:15 codepen.io</li>
+<li> 16:09 web.whatsapp.com</li>
+<li> 16:09 chatgpt.com</li>
+<li> 16:09 chat.openai.com</li>
+<li> 16:08 docs.google.com</li>
+<li> 16:08 drive.google.com</li>
+<li> 15:55 <a href="https://en.wikipedia.org/wiki/Blood_sugar_level">Blood sugar level - Wikipedia</a></li>
+<li> 15:53 docs.google.com</li>
+<li> 15:52 www.amazon.com</li>
+<li> 15:52 duckduckgo.com</li>
+<li> 15:51 docs.google.com</li>
+<li class='same'> 15:50 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:18 outlook.office.com</li>
+<li class='same'> 15:12 outlook.office.com</li>
+<li class='same'> 14:52 outlook.office.com</li>
 <li class='same'> 14:46 outlook.office.com</li>
 <li class='same'> 14:45 outlook.office.com</li>
 <li> 14:33 www.reddit.com</li>
@@ -19262,11 +19319,8 @@ With number of accesses/minutes in parentheses
 <li> 19:14 qbo.intuit.com</li>
 <li> 19:14 c14.qbo.intuit.com</li>
 <li> 19:14 app.qbo.intuit.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:40 www.google.com</li>
+<li> 19:08 equalitytime.co.uk</li>
+<li> 18:40 www.google.com</li>
 <li> 18:40 www.theguardian.com</li>
 </ul>
 
@@ -20381,6 +20435,7 @@ With number of accesses/minutes in parentheses
 <li> 13:59 c14.qbo.intuit.com</li>
 <li> 13:59 app.qbo.intuit.com</li>
 <li> 13:56 www.reddit.com</li>
+<li> 13:33 equalitytime.co.uk</li>
 <li> 13:32 drive.google.com</li>
 <li> 13:07 qbo.intuit.com</li>
 <li class='same'> 13:06 qbo.intuit.com</li>
@@ -20512,6 +20567,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:05 qbo.intuit.com</li>
 <li class='same'> 07:02 qbo.intuit.com</li>
 <li> 07:02 app.qbo.intuit.com</li>
+<li> 06:52 equalitytime.co.uk</li>
 <li> 06:43 www.dropbox.com</li>
 <li class='same'> 06:41 www.dropbox.com</li>
 <li> 06:40 www.doxdirect.com</li>
@@ -21666,7 +21722,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:29 www.gov.uk</li>
 <li> 07:13 docs.google.com</li>
 <li> 07:13 drive.google.com</li>
-<li class='same'> 07:06 drive.google.com</li>
+<li> 07:12 equalitytime.co.uk</li>
+<li> 07:06 drive.google.com</li>
 </ul>
 
 <br>
@@ -23101,6 +23158,8 @@ With number of accesses/minutes in parentheses
 <li> 09:52 www.royalholloway.ac.uk</li>
 <li> 09:50 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 09:45 myview.rhul.zellis.com</li>
+<li> 09:37 mail.google.com</li>
+<li class='same'> 09:35 mail.google.com</li>
 <li> 09:33 qbo.intuit.com</li>
 <li> 09:32 mail.google.com</li>
 <li> 09:14 qbo.intuit.com</li>
@@ -23377,7 +23436,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:33 mail.google.com</li>
+<ul><li> 06:44 equalitytime.co.uk</li>
+<li> 06:33 mail.google.com</li>
 <li> 06:33 claude.ai</li>
 <li class='same'> 06:32 claude.ai</li>
 <li> 06:18 whitewaterwriters.com</li>
@@ -25211,6 +25271,7 @@ With number of accesses/minutes in parentheses
 <li> 12:19 www.unity-online.co.uk</li>
 <li> 12:10 accounts.google.com</li>
 <li> 12:05 equalitytime.github.io</li>
+<li> 11:52 equalitytime.co.uk</li>
 <li> 11:39 theopenvoicefactory.org</li>
 <li> 11:32 equalitytime.github.io</li>
 <li> 11:17 docs.google.com</li>
@@ -25395,6 +25456,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:55 www.natwest.com</li>
 <li> 12:44 www.google.com</li>
+<li> 12:38 mail.google.com</li>
 <li> 12:19 www.dropbox.com</li>
 </ul>
 
@@ -26397,6 +26459,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:07 drive.google.com</li>
 <li class='same'> 10:00 drive.google.com</li>
 <li> 09:55 docs.google.com</li>
+<li> 09:54 equalitytime.co.uk</li>
 <li> 09:36 www.access.service.gov.uk</li>
 <li class='same'> 09:35 www.access.service.gov.uk</li>
 <li> 09:34 docs.google.com</li>
@@ -26500,6 +26563,7 @@ With number of accesses/minutes in parentheses
 <li> 12:45 my-charity-account.charitycommission.gov.uk</li>
 <li class='same'> 12:44 my-charity-account.charitycommission.gov.uk</li>
 <li> 12:44 www.gov.uk</li>
+<li> 12:41 equalitytime.co.uk</li>
 </ul>
 
 <br>
@@ -26805,6 +26869,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:31 www.facebook.com</li>
 <li class='same'> 15:30 www.facebook.com</li>
 <li class='same'> 15:29 www.facebook.com</li>
+<li> 15:21 equalitytime.co.uk</li>
 </ul>
 
 <br>
@@ -27287,7 +27352,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:50 docs.google.com</li>
+<ul><li> 12:05 equalitytime.co.uk</li>
+<li> 11:50 docs.google.com</li>
 <li> 11:41 rhul-my.sharepoint.com</li>
 </ul>
 
@@ -27440,11 +27506,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:15 theopenvoicefactory.org</li>
-</ul>
-
-<br>
-
-<ul><li> 13:44 www.oii.ox.ac.uk</li>
+<li> 14:13 equalitytime.co.uk</li>
+<li> 13:44 www.oii.ox.ac.uk</li>
 <li> 13:34 www.ncsc.gov.uk</li>
 <li> 13:26 <a href="https://joereddington.com/media.html">Joe Reddington | Things I make.</a></li>
 </ul>
@@ -27474,6 +27537,7 @@ With number of accesses/minutes in parentheses
 <li> 10:48 amp.theguardian.com</li>
 <li> 10:45 mail.google.com</li>
 <li> 10:36 <a href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed">Wikipedia:Citation needed - Wikipedia</a></li>
+<li> 10:34 equalitytime.co.uk</li>
 <li> 10:08 www.eff.org</li>
 </ul>
 
@@ -27956,6 +28020,7 @@ With number of accesses/minutes in parentheses
 <li> 12:25 mail.google.com</li>
 <li> 12:25 register-of-charities.charitycommission.gov.uk</li>
 <li> 12:23 www.gov.uk</li>
+<li> 12:10 equalitytime.co.uk</li>
 <li> 12:08 my-charity-account.charitycommission.gov.uk</li>
 <li> 12:08 register-of-charities.charitycommission.gov.uk</li>
 <li> 11:45 drive.google.com</li>
@@ -29441,6 +29506,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:44 www.instagram.com</li>
 <li> 12:40 www.amazon.com</li>
 <li> 12:12 github.com</li>
+<li> 12:03 mail.google.com</li>
 </ul>
 
 <br>
