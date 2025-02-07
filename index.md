@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2207)</li>
-<li>outlook.office.com (1291)</li>
-<li>docs.google.com (1218)</li>
+<ol><li>www.google.com (2208)</li>
+<li>outlook.office.com (1296)</li>
+<li>docs.google.com (1222)</li>
 <li>mail.google.com (1149)</li>
 <li>bsky.app (1099)</li>
-<li>outlook.office365.com (1097)</li>
+<li>outlook.office365.com (1098)</li>
 <li>www.facebook.com (629)</li>
 <li>www.amazon.co.uk (397)</li>
-<li>www.reddit.com (393)</li>
+<li>www.reddit.com (394)</li>
 <li>rhul-my.sharepoint.com (356)</li>
 <li>chatgpt.com (345)</li>
 <li>github.com (304)</li>
@@ -86,16 +86,16 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (256)</li>
 <li>fritz.box (250)</li>
 <li>www.coursera.org (187)</li>
-<li>duckduckgo.com (185)</li>
+<li>duckduckgo.com (187)</li>
 <li>qbo.intuit.com (174)</li>
 <li>drive.google.com (170)</li>
 <li>forms.office.com (150)</li>
 <li>tvtropes.org (130)</li>
 <li>ev.turnitinuk.com (126)</li>
 <li>rhul.sharepoint.com (120)</li>
-<li>web.whatsapp.com (115)</li>
+<li>web.whatsapp.com (116)</li>
+<li>www.tesco.com (112)</li>
 <li>gmail.com (112)</li>
-<li>www.tesco.com (110)</li>
 <li>www.theguardian.com (109)</li>
 <li>chat.openai.com (109)</li>
 
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:48 docs.google.com</li>
+<ul><li> 13:31 docs.google.com</li>
+<li> 13:28 outlook.office.com</li>
+<li> 13:25 web.whatsapp.com</li>
+<li> 13:25 outlook.office.com</li>
+<li> 13:24 efdn.notion.site</li>
+<li> 13:24 outlook.office.com</li>
+<li class='same'> 13:21 outlook.office.com</li>
+<li> 13:21 outlook.office365.com</li>
+<li> 13:21 outlook.office.com</li>
+<li> 13:20 feedly.com</li>
+<li> 13:20 docs.google.com</li>
+<li> 13:20 www.ocado.com</li>
+<li> 13:20 www.google.com</li>
+<li> 13:19 docs.google.com</li>
+<li> 13:19 www.tesco.com</li>
+<li class='same'> 13:18 www.tesco.com</li>
+<li> 13:18 duckduckgo.com</li>
+<li> 13:18 docs.google.com</li>
+<li> 13:17 www.ketogenicforums.com</li>
+<li> 13:17 duckduckgo.com</li>
+<li> 13:16 www.reddit.com</li>
+<li> 12:48 docs.google.com</li>
 <li class='same'> 12:28 docs.google.com</li>
 <li> 12:27 www.linkedin.com</li>
 <li class='same'> 12:26 www.linkedin.com</li>
