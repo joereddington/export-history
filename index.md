@@ -80,11 +80,11 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (402)</li>
 <li>rhul-my.sharepoint.com (380)</li>
 <li>duckduckgo.com (344)</li>
-<li>github.com (311)</li>
+<li>github.com (312)</li>
 <li>calendar.google.com (307)</li>
 <li>www.linkedin.com (306)</li>
 <li>moodle.royalholloway.ac.uk (301)</li>
-<li>fritz.box (268)</li>
+<li>fritz.box (271)</li>
 <li>login.microsoftonline.com (266)</li>
 <li>www.coursera.org (198)</li>
 <li>tvtropes.org (184)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:17 astronomy.stackexchange.com</li>
+<ul><li> 12:50 fritz.box</li>
+<li> 12:23 github.com</li>
+<li> 12:22 51.148.131.133:8008</li>
+<li> 12:22 www.whatsmyip.org</li>
+<li> 12:22 fritz.box</li>
+<li class='same'> 12:21 fritz.box</li>
+<li> 12:20 192.168.178.81:8008</li>
+<li> 12:17 astronomy.stackexchange.com</li>
 <li class='same'> 12:16 astronomy.stackexchange.com</li>
 <li> 12:15 skeptics.stackexchange.com</li>
 <li> 12:14 <a href="https://stackoverflow.com/questions/11893678/warning-remote-head-refers-to-nonexistent-ref-unable-to-checkout">git - warning: remote HEAD refers to nonexistent ref, unable to checkout - Stack Overflow</a></li>
