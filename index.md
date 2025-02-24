@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2375)</li>
+<ol><li>www.google.com (2378)</li>
 <li>outlook.office.com (1441)</li>
-<li>mail.google.com (1395)</li>
+<li>mail.google.com (1402)</li>
 <li>docs.google.com (1325)</li>
 <li>bsky.app (1131)</li>
 <li>outlook.office365.com (1121)</li>
@@ -93,8 +93,8 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (148)</li>
 <li>forms.office.com (145)</li>
 <li>web.whatsapp.com (143)</li>
+<li>gmail.com (141)</li>
 <li>rhul.sharepoint.com (140)</li>
-<li>gmail.com (137)</li>
 <li>www.theguardian.com (135)</li>
 <li>chat.openai.com (128)</li>
 <li>ev.turnitinuk.com (126)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<ul><li> 10:57 mail.google.com</li>
+<li class='same'> 10:56 mail.google.com</li>
+<li> 10:56 equalitytime.github.io</li>
+<li> 10:56 www.google.com</li>
+<li> 10:56 equalitytime.github.io</li>
+<li> 10:56 www.google.com</li>
+<li> 10:56 equalitytime.github.io</li>
+<li> 10:55 mail.google.com</li>
+<li class='same'> 10:53 mail.google.com</li>
+<li> 10:53 accounts.google.co.uk</li>
+<li> 10:53 mail.google.com</li>
+<li> 10:53 accounts.youtube.com</li>
+<li> 10:53 accounts.google.com</li>
+<li class='same'> 10:52 accounts.google.com</li>
+<li> 10:52 mail.google.com</li>
+<li> 10:52 gmail.com</li>
+<li> 10:52 accounts.google.com</li>
+<li> 10:52 gmail.com</li>
+<li> 10:52 mail.google.com</li>
+<li> 10:52 gmail.com</li>
+<li> 10:52 accounts.google.com</li>
+<li> 10:52 gmail.com</li>
+<li> 10:51 gcore.com</li>
+<li> 10:51 www.google.com</li>
+<li> 10:29 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 10:24 <a href="https://en.wikipedia.org/wiki/Triathlon">Triathlon - Wikipedia</a></li>
 <li> 10:24 www.google.com</li>
 </ul>
