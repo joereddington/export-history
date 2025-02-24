@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2373)</li>
+<ol><li>www.google.com (2374)</li>
 <li>outlook.office.com (1441)</li>
 <li>mail.google.com (1395)</li>
 <li>docs.google.com (1325)</li>
@@ -79,20 +79,20 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (498)</li>
 <li>chatgpt.com (398)</li>
 <li>rhul-my.sharepoint.com (380)</li>
-<li>duckduckgo.com (342)</li>
+<li>duckduckgo.com (343)</li>
 <li>github.com (311)</li>
 <li>calendar.google.com (307)</li>
 <li>www.linkedin.com (306)</li>
 <li>moodle.royalholloway.ac.uk (301)</li>
+<li>fritz.box (267)</li>
 <li>login.microsoftonline.com (266)</li>
-<li>fritz.box (265)</li>
 <li>www.coursera.org (198)</li>
 <li>tvtropes.org (184)</li>
 <li>drive.google.com (182)</li>
 <li>qbo.intuit.com (179)</li>
 <li>feedly.com (148)</li>
 <li>forms.office.com (145)</li>
-<li>web.whatsapp.com (142)</li>
+<li>web.whatsapp.com (143)</li>
 <li>rhul.sharepoint.com (140)</li>
 <li>gmail.com (137)</li>
 <li>www.theguardian.com (135)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:16 <a href="https://en.wikipedia.org/wiki/Romeo_%2B_Juliet">Romeo + Juliet - Wikipedia</a></li>
+<ul><li> 09:38 fritz.box</li>
+<li class='same'> 09:37 fritz.box</li>
+<li> 09:36 fast.com</li>
+<li> 09:35 sso.myfritz.net</li>
+<li> 09:35 www.myfritz.net</li>
+<li> 09:35 fast.com</li>
+<li> 09:27 duckduckgo.com</li>
+<li> 09:26 www.google.com</li>
+<li> 09:16 <a href="https://en.wikipedia.org/wiki/Romeo_%2B_Juliet">Romeo + Juliet - Wikipedia</a></li>
 <li> 09:16 www.google.com</li>
 <li> 09:11 <a href="https://joereddington.com/2020/08/26/plays.html">Shakespeare | Joe Reddington</a></li>
 <li> 09:11 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
@@ -125,7 +133,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:03 docs.google.com</li>
+<ul><li> 07:10 web.whatsapp.com</li>
+<li> 07:03 docs.google.com</li>
 <li class='same'> 06:58 docs.google.com</li>
 <li> 06:50 calendar.google.com</li>
 <li> 06:49 web.whatsapp.com</li>
