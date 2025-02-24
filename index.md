@@ -70,30 +70,30 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2378)</li>
 <li>outlook.office.com (1441)</li>
-<li>mail.google.com (1402)</li>
+<li>mail.google.com (1422)</li>
 <li>docs.google.com (1325)</li>
 <li>bsky.app (1131)</li>
 <li>outlook.office365.com (1121)</li>
 <li>www.facebook.com (637)</li>
-<li>www.reddit.com (599)</li>
-<li>www.amazon.co.uk (498)</li>
+<li>www.reddit.com (600)</li>
+<li>www.amazon.co.uk (500)</li>
 <li>chatgpt.com (402)</li>
 <li>rhul-my.sharepoint.com (380)</li>
-<li>duckduckgo.com (344)</li>
+<li>duckduckgo.com (345)</li>
 <li>github.com (312)</li>
 <li>calendar.google.com (307)</li>
 <li>www.linkedin.com (306)</li>
 <li>moodle.royalholloway.ac.uk (301)</li>
 <li>fritz.box (271)</li>
 <li>login.microsoftonline.com (266)</li>
+<li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (198)</li>
 <li>tvtropes.org (184)</li>
 <li>drive.google.com (182)</li>
-<li>qbo.intuit.com (179)</li>
 <li>feedly.com (148)</li>
 <li>forms.office.com (145)</li>
 <li>web.whatsapp.com (144)</li>
-<li>gmail.com (141)</li>
+<li>gmail.com (142)</li>
 <li>rhul.sharepoint.com (140)</li>
 <li>www.theguardian.com (135)</li>
 <li>chat.openai.com (128)</li>
@@ -108,7 +108,82 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:50 fritz.box</li>
+<ul><li> 14:16 www.reddit.com</li>
+<li> 14:15 mail.google.com</li>
+<li class='same'> 14:14 mail.google.com</li>
+<li class='same'> 14:03 mail.google.com</li>
+<li class='same'> 14:02 mail.google.com</li>
+<li> 14:01 51.148.131.133:8008</li>
+<li class='same'> 14:00 51.148.131.133:8008</li>
+<li> 13:57 imgflip.com</li>
+<li> 13:57 duckduckgo.com</li>
+<li> 13:56 online.unity.co.uk</li>
+<li> 13:54 51.148.131.133:8008</li>
+<li> 13:53 mail.google.com</li>
+<li class='same'> 13:52 mail.google.com</li>
+<li class='same'> 13:51 mail.google.com</li>
+<li> 13:51 online.unity.co.uk</li>
+<li class='same'> 13:50 online.unity.co.uk</li>
+<li class='same'> 13:49 online.unity.co.uk</li>
+<li class='same'> 13:48 online.unity.co.uk</li>
+<li> 13:48 qbo.intuit.com</li>
+<li class='same'> 13:47 qbo.intuit.com</li>
+<li> 13:47 c14.qbo.intuit.com</li>
+<li> 13:47 app.qbo.intuit.com</li>
+<li> 13:47 192.168.178.81:8008</li>
+<li> 13:47 online.unity.co.uk</li>
+<li class='same'> 13:44 online.unity.co.uk</li>
+<li class='same'> 13:43 online.unity.co.uk</li>
+<li> 13:42 mail.google.com</li>
+<li> 13:42 qbo.intuit.com</li>
+<li class='same'> 13:41 qbo.intuit.com</li>
+<li> 13:41 mail.google.com</li>
+<li class='same'> 13:40 mail.google.com</li>
+<li> 13:40 qbo.intuit.com</li>
+<li> 13:40 intuit-qbo-prod-28.s3.amazonaws.com</li>
+<li> 13:40 qbo.intuit.com</li>
+<li class='same'> 13:39 qbo.intuit.com</li>
+<li> 13:39 mail.google.com</li>
+<li> 13:38 qbo.intuit.com</li>
+<li> 13:38 mail.google.com</li>
+<li> 13:38 qbo.intuit.com</li>
+<li> 13:38 intuit-qbo-prod-28.s3.amazonaws.com</li>
+<li> 13:37 qbo.intuit.com</li>
+<li> 13:37 mail.google.com</li>
+<li> 13:37 online.unity.co.uk</li>
+<li> 13:37 mail.google.com</li>
+<li> 13:36 qbo.intuit.com</li>
+<li> 13:35 www.amazon.co.uk</li>
+<li> 13:35 qbo.intuit.com</li>
+<li> 13:35 www.paypal.com</li>
+<li> 13:35 qbo.intuit.com</li>
+<li> 13:34 www.amazon.co.uk</li>
+<li> 13:32 qbo.intuit.com</li>
+<li> 13:31 www.paypal.com</li>
+<li class='same'> 13:30 www.paypal.com</li>
+<li> 13:29 qbo.intuit.com</li>
+<li class='same'> 13:28 qbo.intuit.com</li>
+<li class='same'> 13:27 qbo.intuit.com</li>
+<li class='same'> 13:26 qbo.intuit.com</li>
+<li> 13:26 online.unity.co.uk</li>
+<li> 13:24 www.unity-online.co.uk</li>
+<li> 13:24 online.unity.co.uk</li>
+<li> 13:24 mail.google.com</li>
+<li> 13:23 qbo.intuit.com</li>
+<li class='same'> 13:22 qbo.intuit.com</li>
+<li class='same'> 13:21 qbo.intuit.com</li>
+<li class='same'> 13:20 qbo.intuit.com</li>
+<li> 13:20 accounts.intuit.com</li>
+<li> 13:20 qbo.intuit.com</li>
+<li> 13:20 c14.qbo.intuit.com</li>
+<li> 13:20 app.qbo.intuit.com</li>
+<li> 13:19 mail.google.com</li>
+<li class='same'> 13:18 mail.google.com</li>
+<li class='same'> 13:17 mail.google.com</li>
+<li> 13:17 accounts.google.com</li>
+<li> 13:16 mail.google.com</li>
+<li> 13:16 gmail.com</li>
+<li> 12:50 fritz.box</li>
 <li> 12:23 github.com</li>
 <li> 12:22 51.148.131.133:8008</li>
 <li> 12:22 www.whatsmyip.org</li>
@@ -22182,6 +22257,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:41 www.facebook.com</li>
 <li> 06:25 www.linkedin.com</li>
+<li> 06:22 mail.google.com</li>
 </ul>
 
 <H3>Sunday, 03/11/24</H3>
@@ -26308,7 +26384,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:18 qbo.intuit.com</li>
+<ul><li> 12:20 qbo.intuit.com</li>
+<li class='same'> 12:18 qbo.intuit.com</li>
 <li class='same'> 12:17 qbo.intuit.com</li>
 <li> 12:16 www.amazon.co.uk</li>
 <li> 12:13 qbo.intuit.com</li>
@@ -26837,7 +26914,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:02 x.com</li>
 <li class='same'> 17:01 x.com</li>
 <li> 16:59 equalitytime.github.io</li>
+<li> 16:46 www.paypal.com</li>
 <li> 16:46 jekyllrb.com</li>
+<li> 16:41 www.paypal.com</li>
 <li> 16:33 github.com</li>
 <li> 16:21 teams.microsoft.com</li>
 </ul>
@@ -26850,15 +26929,15 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:04 docs.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 14:16 www.natwest.com</li>
+<li> 14:36 www.paypal.com</li>
+<li class='same'> 14:29 www.paypal.com</li>
+<li class='same'> 14:21 www.paypal.com</li>
+<li> 14:16 www.natwest.com</li>
 <li> 14:09 www.onlinebanking.natwest.com</li>
 <li> 14:05 www.natwest.com</li>
 <li> 14:04 docs.google.com</li>
 <li> 13:40 outlook.office.com</li>
+<li> 13:39 www.paypal.com</li>
 </ul>
 
 <br>
@@ -26878,6 +26957,7 @@ With number of accesses/minutes in parentheses
 <li> 07:57 github.com</li>
 <li class='same'> 07:56 github.com</li>
 <li class='same'> 07:55 github.com</li>
+<li> 07:51 qbo.intuit.com</li>
 <li> 07:35 equalitytime.github.io</li>
 <li> 07:12 qbo.intuit.com</li>
 <li class='same'> 07:11 qbo.intuit.com</li>
@@ -26998,6 +27078,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:51 drive.google.com</li>
 <li class='same'> 13:50 drive.google.com</li>
 <li> 13:26 accounts.google.com</li>
+<li> 13:22 www.paypal.com</li>
+<li class='same'> 13:21 www.paypal.com</li>
 <li> 13:03 www.dropbox.com</li>
 </ul>
 
@@ -27168,6 +27250,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:13 www.facebook.com</li>
+<li> 07:54 www.paypal.com</li>
+<li class='same'> 07:49 www.paypal.com</li>
+<li class='same'> 07:37 www.paypal.com</li>
 </ul>
 
 <H3>Friday, 21/06/24</H3>
@@ -27217,6 +27302,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:37 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 13:37 www.linkedin.com</li>
 <li> 13:34 www.facebook.com</li>
+<li> 13:22 www.paypal.com</li>
+<li class='same'> 13:21 www.paypal.com</li>
 </ul>
 
 <H3>Wednesday, 19/06/24</H3>
@@ -27346,6 +27433,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:19 webtimetables.royalholloway.ac.uk</li>
 <li> 11:08 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
+<li> 11:04 www.paypal.com</li>
+<li class='same'> 10:59 www.paypal.com</li>
 </ul>
 
 <br>
@@ -27511,6 +27600,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:59 www.amazon.co.uk</li>
+<li> 15:39 www.paypal.com</li>
 <li> 15:38 forum.artofmemory.com</li>
 <li> 15:34 docs.google.com</li>
 </ul>
@@ -27542,7 +27632,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:32 accounts.intuit.com</li>
+<ul><li> 11:34 www.paypal.com</li>
+<li> 11:32 accounts.intuit.com</li>
 <li> 11:23 www.google.com</li>
 </ul>
 
@@ -27591,6 +27682,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:29 calendar.google.com</li>
 <li class='same'> 17:28 calendar.google.com</li>
 <li> 17:20 mail.google.com</li>
+<li> 17:10 www.paypal.com</li>
 </ul>
 
 <br>
@@ -27851,12 +27943,11 @@ With number of accesses/minutes in parentheses
 <li> 10:52 www.wolframalpha.com</li>
 <li> 10:52 www.statista.com</li>
 <li> 10:51 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
-</ul>
-
-<br>
-
-<ul><li> 10:13 www.facebook.com</li>
-<li class='same'> 10:01 www.facebook.com</li>
+<li> 10:25 www.paypal.com</li>
+<li class='same'> 10:20 www.paypal.com</li>
+<li> 10:13 www.facebook.com</li>
+<li> 10:13 www.paypal.com</li>
+<li> 10:01 www.facebook.com</li>
 <li> 09:58 www.amazon.co.uk</li>
 <li> 09:54 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
 <li> 09:51 www.parkrun.org.uk</li>
@@ -27974,7 +28065,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:28 <a href="https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html">Saving Keystokes, Baby Advice | Joe Reddington</a></li>
+<ul><li> 07:31 www.paypal.com</li>
+<li> 07:28 <a href="https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html">Saving Keystokes, Baby Advice | Joe Reddington</a></li>
+<li> 07:26 www.paypal.com</li>
+<li class='same'> 07:25 www.paypal.com</li>
 <li> 07:21 equalitytime.github.io</li>
 <li> 07:11 docs.google.com</li>
 </ul>
@@ -27995,7 +28089,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:15 mail.google.com</li>
 <li> 10:05 artofmemory.com</li>
 <li> 09:50 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:21 moodle.royalholloway.ac.uk</li>
+<li> 09:25 www.paypal.com</li>
+<li> 09:21 moodle.royalholloway.ac.uk</li>
+<li> 09:20 www.paypal.com</li>
+<li class='same'> 09:19 www.paypal.com</li>
 </ul>
 
 <H3>Tuesday, 21/05/24</H3>
@@ -28006,12 +28103,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li class='same'> 19:39 www.paypal.com</li>
+<li class='same'> 19:38 www.paypal.com</li>
+</ul>
+
+<br>
+
 <ul><li> 17:05 mail.google.com</li>
 </ul>
 
 <br>
 
 <ul><li> 15:18 github.com</li>
+<li> 15:06 www.paypal.com</li>
+<li class='same'> 14:57 www.paypal.com</li>
+<li class='same'> 14:31 www.paypal.com</li>
 </ul>
 
 <br>
@@ -28034,12 +28140,17 @@ With number of accesses/minutes in parentheses
 <li> 11:39 theopenvoicefactory.org</li>
 <li> 11:32 equalitytime.github.io</li>
 <li> 11:17 docs.google.com</li>
+<li> 11:13 www.paypal.com</li>
+<li class='same'> 11:10 www.paypal.com</li>
+<li class='same'> 11:08 www.paypal.com</li>
+<li class='same'> 11:07 www.paypal.com</li>
 </ul>
 
 <br>
 
 <ul><li> 08:00 equalitytime.github.io</li>
 <li> 07:54 whitewaterwriters.com</li>
+<li> 07:52 www.paypal.com</li>
 </ul>
 
 <br>
@@ -28053,6 +28164,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:31 theopenvoicefactory.org</li>
 <li> 06:26 equalitytime.github.io</li>
+<li> 06:19 www.paypal.com</li>
+<li class='same'> 06:16 www.paypal.com</li>
 </ul>
 
 <H3>Monday, 20/05/24</H3>
@@ -29999,6 +30112,7 @@ With number of accesses/minutes in parentheses
 <li> 10:23 trends.google.com</li>
 <li> 10:23 www.google.com</li>
 <li> 10:07 www.gmail.com</li>
+<li> 09:57 www.paypal.com</li>
 <li> 09:39 calendar.google.com</li>
 </ul>
 
@@ -30189,7 +30303,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:05 equalitytime.co.uk</li>
+<ul><li> 12:33 www.paypal.com</li>
+<li> 12:05 equalitytime.co.uk</li>
+<li> 12:02 www.paypal.com</li>
 <li> 11:50 docs.google.com</li>
 <li> 11:41 rhul-my.sharepoint.com</li>
 </ul>
@@ -33482,6 +33598,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:59 www.facebook.com</li>
 <li class='same'> 12:58 www.facebook.com</li>
+<li> 12:57 www.paypal.com</li>
 </ul>
 
 <br>
@@ -34496,6 +34613,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:38 www.natwest.com</li>
+<li> 11:37 www.paypal.com</li>
+<li class='same'> 11:36 www.paypal.com</li>
 <li> 11:31 www.onlinebanking.natwest.com</li>
 <li> 11:31 www.natwest.com</li>
 </ul>
@@ -34972,7 +35091,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:01 www.gmail.com</li>
+<ul><li> 10:11 www.paypal.com</li>
+<li> 10:01 www.gmail.com</li>
 </ul>
 
 <H3>Monday, 17/07/23</H3>
@@ -35263,6 +35383,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:07 www.duolingo.com</li>
 <li class='same'> 15:06 www.duolingo.com</li>
 <li class='same'> 15:04 www.duolingo.com</li>
+<li> 14:36 www.paypal.com</li>
 </ul>
 
 <br>
@@ -35349,7 +35470,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:12 accounts.google.co.uk</li>
+<ul><li> 12:34 www.paypal.com</li>
+<li> 12:12 accounts.google.co.uk</li>
 <li> 11:59 equalitytime.github.io</li>
 </ul>
 
