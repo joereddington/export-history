@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2369)</li>
+<ol><li>www.google.com (2372)</li>
 <li>outlook.office.com (1441)</li>
 <li>mail.google.com (1395)</li>
 <li>docs.google.com (1325)</li>
 <li>bsky.app (1131)</li>
 <li>outlook.office365.com (1121)</li>
 <li>www.facebook.com (637)</li>
-<li>www.reddit.com (598)</li>
+<li>www.reddit.com (599)</li>
 <li>www.amazon.co.uk (498)</li>
-<li>chatgpt.com (397)</li>
+<li>chatgpt.com (398)</li>
 <li>rhul-my.sharepoint.com (380)</li>
 <li>duckduckgo.com (342)</li>
 <li>github.com (311)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:56 chatgpt.com</li>
+<ul><li> 09:11 <a href="https://joereddington.com/2020/08/26/plays.html"></a></li>
+<li> 09:11 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:11 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:02 www.google.com</li>
+<li> 09:01 www.reddit.com</li>
+<li> 09:01 www.google.com</li>
+<li> 09:00 askubuntu.com</li>
+<li> 09:00 www.google.com</li>
+<li> 08:57 chatgpt.com</li>
+<li class='same'> 08:56 chatgpt.com</li>
 <li> 08:56 chat.openai.com</li>
 </ul>
 
