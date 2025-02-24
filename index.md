@@ -77,14 +77,14 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (637)</li>
 <li>www.reddit.com (599)</li>
 <li>www.amazon.co.uk (498)</li>
-<li>chatgpt.com (398)</li>
+<li>chatgpt.com (400)</li>
 <li>rhul-my.sharepoint.com (380)</li>
 <li>duckduckgo.com (343)</li>
 <li>github.com (311)</li>
 <li>calendar.google.com (307)</li>
 <li>www.linkedin.com (306)</li>
 <li>moodle.royalholloway.ac.uk (301)</li>
-<li>fritz.box (267)</li>
+<li>fritz.box (268)</li>
 <li>login.microsoftonline.com (266)</li>
 <li>www.coursera.org (198)</li>
 <li>tvtropes.org (184)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:57 mail.google.com</li>
+<ul><li> 11:03 chatgpt.com</li>
+<li class='same'> 11:02 chatgpt.com</li>
+<li> 10:57 mail.google.com</li>
 <li class='same'> 10:56 mail.google.com</li>
 <li> 10:56 equalitytime.github.io</li>
 <li> 10:56 www.google.com</li>
@@ -135,11 +137,8 @@ With number of accesses/minutes in parentheses
 <li> 10:29 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 10:24 <a href="https://en.wikipedia.org/wiki/Triathlon">Triathlon - Wikipedia</a></li>
 <li> 10:24 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:38 fritz.box</li>
+<li> 10:02 fritz.box</li>
+<li class='same'> 09:38 fritz.box</li>
 <li class='same'> 09:37 fritz.box</li>
 <li> 09:36 fast.com</li>
 <li> 09:35 sso.myfritz.net</li>
