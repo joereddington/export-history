@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2385)</li>
+<ol><li>www.google.com (2386)</li>
 <li>outlook.office.com (1441)</li>
 <li>mail.google.com (1424)</li>
-<li>docs.google.com (1329)</li>
-<li>bsky.app (1131)</li>
+<li>docs.google.com (1331)</li>
+<li>bsky.app (1135)</li>
 <li>outlook.office365.com (1121)</li>
 <li>www.facebook.com (637)</li>
-<li>www.reddit.com (603)</li>
+<li>www.reddit.com (607)</li>
 <li>www.amazon.co.uk (500)</li>
 <li>chatgpt.com (402)</li>
 <li>rhul-my.sharepoint.com (380)</li>
-<li>duckduckgo.com (348)</li>
+<li>duckduckgo.com (351)</li>
 <li>github.com (313)</li>
 <li>calendar.google.com (307)</li>
 <li>www.linkedin.com (306)</li>
@@ -90,9 +90,9 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (198)</li>
 <li>tvtropes.org (186)</li>
 <li>drive.google.com (182)</li>
-<li>feedly.com (150)</li>
+<li>feedly.com (153)</li>
 <li>forms.office.com (145)</li>
-<li>web.whatsapp.com (144)</li>
+<li>web.whatsapp.com (145)</li>
 <li>gmail.com (143)</li>
 <li>rhul.sharepoint.com (140)</li>
 <li>www.theguardian.com (135)</li>
@@ -105,6 +105,38 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 24/02/25</H3>
+
+<br>
+
+<ul><li> 19:19 www.vimgolf.com</li>
+<li> 19:18 <a href="https://stackoverflow.com/questions/28178239/how-do-i-swap-two-lines-in-vim">How do I swap two lines in vim? - Stack Overflow</a></li>
+<li> 19:18 duckduckgo.com</li>
+<li class='same'> 19:12 duckduckgo.com</li>
+<li> 19:11 <a href="https://stackoverflow.com/questions/28224540/vim-backwards-range-ok-to-swap">Vim: Backwards range -- OK to swap - Stack Overflow</a></li>
+<li> 19:11 duckduckgo.com</li>
+<li> 18:59 www.vimgolf.com</li>
+<li> 18:58 store.steampowered.com</li>
+<li class='same'> 18:57 store.steampowered.com</li>
+<li> 18:57 www.google.com</li>
+<li> 18:57 bsky.app</li>
+<li class='same'> 18:53 bsky.app</li>
+<li class='same'> 18:52 bsky.app</li>
+<li> 18:52 web.whatsapp.com</li>
+<li> 18:51 bsky.app</li>
+<li> 18:51 feedly.com</li>
+<li> 18:51 docs.google.com</li>
+<li> 18:51 feedly.com</li>
+<li class='same'> 18:50 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:54 docs.google.com</li>
+<li> 17:54 www.reddit.com</li>
+<li class='same'> 17:52 www.reddit.com</li>
+<li class='same'> 17:49 www.reddit.com</li>
+<li class='same'> 17:48 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -27788,7 +27820,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:56 accounts.intuit.com</li>
+<ul><li> 15:10 store.steampowered.com</li>
+<li> 14:56 accounts.intuit.com</li>
 </ul>
 
 <br>
@@ -28036,7 +28069,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:20 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<ul><li> 14:25 store.steampowered.com</li>
+<li> 14:20 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li class='same'> 14:08 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 </ul>
 
@@ -28094,6 +28128,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:00 store.steampowered.com</li>
+</ul>
+
+<br>
+
 <ul><li> 10:45 dashboards.rhul.ac.uk</li>
 <li> 10:17 www.royalholloway.ac.uk</li>
 <li> 10:12 intranet.royalholloway.ac.uk</li>
@@ -28127,8 +28166,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:25 store.steampowered.com</li>
+<li class='same'> 15:24 store.steampowered.com</li>
+</ul>
+
+<br>
+
 <ul><li> 10:15 mail.google.com</li>
 <li> 10:05 artofmemory.com</li>
+<li> 09:59 store.steampowered.com</li>
+<li class='same'> 09:58 store.steampowered.com</li>
 <li> 09:50 moodle.royalholloway.ac.uk</li>
 <li> 09:25 www.paypal.com</li>
 <li> 09:21 moodle.royalholloway.ac.uk</li>
@@ -28351,6 +28398,7 @@ With number of accesses/minutes in parentheses
 <li> 10:00 www.dropbox.com</li>
 <li> 09:52 outlook.office.com</li>
 <li class='same'> 09:51 outlook.office.com</li>
+<li> 09:42 store.steampowered.com</li>
 </ul>
 
 <br>
