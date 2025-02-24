@@ -77,9 +77,9 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (637)</li>
 <li>www.reddit.com (599)</li>
 <li>www.amazon.co.uk (498)</li>
-<li>chatgpt.com (400)</li>
+<li>chatgpt.com (402)</li>
 <li>rhul-my.sharepoint.com (380)</li>
-<li>duckduckgo.com (343)</li>
+<li>duckduckgo.com (344)</li>
 <li>github.com (311)</li>
 <li>calendar.google.com (307)</li>
 <li>www.linkedin.com (306)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (179)</li>
 <li>feedly.com (148)</li>
 <li>forms.office.com (145)</li>
-<li>web.whatsapp.com (143)</li>
+<li>web.whatsapp.com (144)</li>
 <li>gmail.com (141)</li>
 <li>rhul.sharepoint.com (140)</li>
 <li>www.theguardian.com (135)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:03 chatgpt.com</li>
+<ul><li> 12:17 astronomy.stackexchange.com</li>
+<li class='same'> 12:16 astronomy.stackexchange.com</li>
+<li> 12:15 skeptics.stackexchange.com</li>
+<li> 12:14 <a href="https://stackoverflow.com/questions/11893678/warning-remote-head-refers-to-nonexistent-ref-unable-to-checkout">git - warning: remote HEAD refers to nonexistent ref, unable to checkout - Stack Overflow</a></li>
+<li> 12:14 duckduckgo.com</li>
+<li> 12:12 support.mozilla.org</li>
+<li> 12:09 chatgpt.com</li>
+<li> 11:42 web.whatsapp.com</li>
+<li> 11:29 chatgpt.com</li>
+<li class='same'> 11:03 chatgpt.com</li>
 <li class='same'> 11:02 chatgpt.com</li>
 <li> 10:57 mail.google.com</li>
 <li class='same'> 10:56 mail.google.com</li>
@@ -23590,7 +23599,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 06:36 rhul-my.sharepoint.com</li>
+<ul><li> 06:49 support.mozilla.org</li>
+<li> 06:36 rhul-my.sharepoint.com</li>
 </ul>
 
 <H3>Tuesday, 08/10/24</H3>
@@ -29688,6 +29698,7 @@ With number of accesses/minutes in parentheses
 <li> 10:59 www.amazon.co.uk</li>
 <li> 10:41 fritz.box</li>
 <li class='same'> 10:40 fritz.box</li>
+<li> 10:39 support.mozilla.org</li>
 </ul>
 
 <br>
