@@ -79,10 +79,10 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (500)</li>
 <li>chatgpt.com (402)</li>
 <li>rhul-my.sharepoint.com (380)</li>
-<li>duckduckgo.com (351)</li>
+<li>duckduckgo.com (353)</li>
 <li>github.com (313)</li>
 <li>calendar.google.com (307)</li>
-<li>www.linkedin.com (306)</li>
+<li>www.linkedin.com (307)</li>
 <li>moodle.royalholloway.ac.uk (301)</li>
 <li>fritz.box (271)</li>
 <li>login.microsoftonline.com (266)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:19 www.vimgolf.com</li>
+<ul><li> 20:24 www.linkedin.com</li>
+<li> 20:22 www.vimgolf.com</li>
+<li> 20:02 <a href="https://stackoverflow.com/questions/57783292/get-length-of-string-using-vimscript">vim - Get length of string using Vimscript - Stack Overflow</a></li>
+<li> 20:02 duckduckgo.com</li>
+<li> 19:55 www.vimgolf.com</li>
+<li> 19:32 blog.clayliu.com</li>
+<li> 19:32 duckduckgo.com</li>
+<li> 19:19 www.vimgolf.com</li>
 <li> 19:18 <a href="https://stackoverflow.com/questions/28178239/how-do-i-swap-two-lines-in-vim">How do I swap two lines in vim? - Stack Overflow</a></li>
 <li> 19:18 duckduckgo.com</li>
 <li class='same'> 19:12 duckduckgo.com</li>
