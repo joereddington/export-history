@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (637)</li>
 <li>www.reddit.com (598)</li>
 <li>www.amazon.co.uk (498)</li>
-<li>chatgpt.com (396)</li>
+<li>chatgpt.com (397)</li>
 <li>rhul-my.sharepoint.com (380)</li>
 <li>duckduckgo.com (342)</li>
 <li>github.com (311)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (140)</li>
 <li>gmail.com (137)</li>
 <li>www.theguardian.com (135)</li>
-<li>chat.openai.com (127)</li>
+<li>chat.openai.com (128)</li>
 <li>ev.turnitinuk.com (126)</li>
 
 
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 24/02/25</H3>
+
+<br>
+
+<ul><li> 08:56 chatgpt.com</li>
+<li> 08:56 chat.openai.com</li>
+</ul>
 
 <br>
 
