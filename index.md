@@ -68,43 +68,2587 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2209)</li>
-<li>outlook.office.com (1308)</li>
-<li>docs.google.com (1240)</li>
-<li>mail.google.com (1162)</li>
-<li>outlook.office365.com (1101)</li>
-<li>bsky.app (1099)</li>
-<li>www.facebook.com (629)</li>
-<li>www.amazon.co.uk (397)</li>
-<li>www.reddit.com (396)</li>
-<li>rhul-my.sharepoint.com (358)</li>
-<li>chatgpt.com (348)</li>
-<li>github.com (304)</li>
-<li>moodle.royalholloway.ac.uk (295)</li>
-<li>www.linkedin.com (291)</li>
-<li>calendar.google.com (284)</li>
-<li>login.microsoftonline.com (257)</li>
-<li>fritz.box (250)</li>
-<li>duckduckgo.com (194)</li>
-<li>www.coursera.org (187)</li>
+<ol><li>www.google.com (2369)</li>
+<li>outlook.office.com (1441)</li>
+<li>mail.google.com (1395)</li>
+<li>docs.google.com (1323)</li>
+<li>bsky.app (1131)</li>
+<li>outlook.office365.com (1121)</li>
+<li>www.facebook.com (637)</li>
+<li>www.reddit.com (598)</li>
+<li>www.amazon.co.uk (498)</li>
+<li>chatgpt.com (396)</li>
+<li>rhul-my.sharepoint.com (380)</li>
+<li>duckduckgo.com (342)</li>
+<li>github.com (311)</li>
+<li>calendar.google.com (307)</li>
+<li>www.linkedin.com (306)</li>
+<li>moodle.royalholloway.ac.uk (301)</li>
+<li>login.microsoftonline.com (266)</li>
+<li>fritz.box (265)</li>
+<li>www.coursera.org (198)</li>
+<li>tvtropes.org (184)</li>
+<li>drive.google.com (182)</li>
 <li>qbo.intuit.com (179)</li>
-<li>drive.google.com (173)</li>
-<li>forms.office.com (150)</li>
-<li>tvtropes.org (130)</li>
+<li>feedly.com (148)</li>
+<li>forms.office.com (145)</li>
+<li>web.whatsapp.com (142)</li>
+<li>rhul.sharepoint.com (140)</li>
+<li>gmail.com (137)</li>
+<li>www.theguardian.com (135)</li>
+<li>chat.openai.com (127)</li>
 <li>ev.turnitinuk.com (126)</li>
-<li>web.whatsapp.com (121)</li>
-<li>rhul.sharepoint.com (120)</li>
-<li>gmail.com (117)</li>
-<li>chat.openai.com (112)</li>
-<li>www.tesco.com (112)</li>
-<li>www.theguardian.com (109)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Monday, 24/02/25</H3>
+
+<br>
+
+<ul><li> 06:50 calendar.google.com</li>
+<li> 06:49 web.whatsapp.com</li>
+<li> 06:46 docs.google.com</li>
+<li class='same'> 06:45 docs.google.com</li>
+<li> 06:44 0.0.0.0:8000</li>
+<li> 06:35 chatgpt.com</li>
+<li> 06:35 chat.openai.com</li>
+<li> 06:31 adblockplus.org</li>
+<li> 06:31 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
+<li> 06:31 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:31 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 06:31 <a href="https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep,_Where_Do_We_Go%3F#Track_listing">When We All Fall Asleep, Where Do We Go? - Wikipedia</a></li>
+<li> 06:31 <a href="https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep,_Where_Do_We_Go%3F">When We All Fall Asleep, Where Do We Go? - Wikipedia</a></li>
+<li> 06:29 <a href="https://en.wikipedia.org/wiki/Serban_Ghenea">Serban Ghenea - Wikipedia</a></li>
+<li> 06:29 <a href="https://en.wikipedia.org/wiki/Grammy_Award_for_Album_of_the_Year">Grammy Award for Album of the Year - Wikipedia</a></li>
+<li> 06:29 www.google.com</li>
+<li> 06:29 open.spotify.com</li>
+<li> 06:29 127.0.0.1:4381</li>
+<li> 06:29 accounts.spotify.com</li>
+<li> 06:29 languagetool.org</li>
+<li> 06:28 accounts.spotify.com</li>
+</ul>
+
+<br>
+
+<ul><li> 01:09 docs.google.com</li>
+</ul>
+
+<H3>Sunday, 23/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 18:03 www.google.com</li>
+<li> 17:39 jwstfeed.com</li>
+<li> 17:39 www.google.com</li>
+<li class='same'> 17:38 www.google.com</li>
+<li class='same'> 17:36 www.google.com</li>
+<li class='same'> 17:35 www.google.com</li>
+<li class='same'> 17:34 www.google.com</li>
+<li class='same'> 17:27 www.google.com</li>
+<li> 17:27 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:39 feedly.com</li>
+<li> 16:29 www.reddit.com</li>
+<li> 16:28 www.google.com</li>
+<li> 16:07 www.amazon.co.uk</li>
+<li> 16:03 <a href="https://www.youtube.com/watch?v=-F2NIGwhTwM">(192) where to lubricate inside an exercise bike - YouTube</a></li>
+<li> 16:02 <a href="https://www.youtube.com/results?search_query=spin+bike+teardown">(192) spin bike teardown - YouTube</a></li>
+<li> 16:01 <a href="https://www.youtube.com/watch?v=in5cQNFHDEY">(192) Teardown: Exercise Bike - YouTube</a></li>
+<li> 16:01 <a href="https://www.youtube.com/results?search_query=spin+bike+teardown">(192) spin bike teardown - YouTube</a></li>
+<li> 16:01 <a href="https://www.youtube.com/">(192) YouTube</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/wiki/Bicycle_trainer">Bicycle trainer - Wikipedia</a></li>
+<li> 16:01 duckduckgo.com</li>
+<li> 16:00 www.pedalpowergenerator.com</li>
+<li> 16:00 www.google.co.uk</li>
+<li class='same'> 15:59 www.google.co.uk</li>
+<li> 15:59 duckduckgo.com</li>
+<li> 15:52 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
+<li> 15:51 <a href="https://en.wikipedia.org/wiki/Robert_C._Martin">Robert C. Martin - Wikipedia</a></li>
+<li> 15:51 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&curid=15036&diff=1276916847&oldid=1272553325">Information security: Difference between revisions - Wikipedia</a></li>
+<li> 15:51 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:51 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:51 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:50 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:50 docs.google.com</li>
+<li> 15:49 www.ebay.co.uk</li>
+<li> 15:48 www.giantitp.com</li>
+<li class='same'> 15:47 www.giantitp.com</li>
+<li class='same'> 15:46 www.giantitp.com</li>
+<li class='same'> 15:45 www.giantitp.com</li>
+<li class='same'> 15:44 www.giantitp.com</li>
+<li class='same'> 15:43 www.giantitp.com</li>
+<li> 15:42 www.ebay.co.uk</li>
+<li class='same'> 15:41 www.ebay.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 14:56 feedly.com</li>
+<li> 14:43 www.ebay.co.uk</li>
+<li class='same'> 14:42 www.ebay.co.uk</li>
+<li> 14:38 www.theguardian.com</li>
+<li> 14:38 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:55 www.linkedin.com</li>
+<li class='same'> 13:53 www.linkedin.com</li>
+<li class='same'> 13:52 www.linkedin.com</li>
+<li> 13:51 www.reddit.com</li>
+<li class='same'> 13:50 www.reddit.com</li>
+<li class='same'> 13:48 www.reddit.com</li>
+<li class='same'> 13:47 www.reddit.com</li>
+<li class='same'> 13:44 www.reddit.com</li>
+<li class='same'> 13:43 www.reddit.com</li>
+<li> 13:39 abcd-in-luton.org</li>
+<li> 13:37 store.duolingo.com</li>
+<li> 13:37 duckduckgo.com</li>
+<li> 13:36 www.canopyandstars.co.uk</li>
+<li class='same'> 13:35 www.canopyandstars.co.uk</li>
+<li class='same'> 13:32 www.canopyandstars.co.uk</li>
+<li class='same'> 13:31 www.canopyandstars.co.uk</li>
+<li> 13:31 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:11 docs.google.com</li>
+<li class='same'> 12:10 docs.google.com</li>
+<li> 12:05 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants#cite_ref-10">List of physical constants - Wikipedia</a></li>
+<li> 12:05 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants#cite_note-10">List of physical constants - Wikipedia</a></li>
+<li> 12:05 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+<li> 12:04 duckduckgo.com</li>
+<li> 12:02 <a href="https://en.wikipedia.org/wiki/Cosmological_constant">Cosmological constant - Wikipedia</a></li>
+<li> 12:02 duckduckgo.com</li>
+<li> 12:01 docs.google.com</li>
+<li class='same'> 12:00 docs.google.com</li>
+<li> 11:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:56 web.whatsapp.com</li>
+<li> 11:54 docs.google.com</li>
+<li> 11:52 www.hotelchocolat.com</li>
+<li> 11:51 docs.google.com</li>
+<li> 11:51 duckduckgo.com</li>
+<li> 11:50 docs.google.com</li>
+<li class='same'> 11:49 docs.google.com</li>
+<li> 11:49 www.tesco.com</li>
+<li> 11:49 docs.google.com</li>
+<li> 11:48 www.tesco.com</li>
+<li> 11:48 docs.google.com</li>
+<li> 11:48 www.tesco.com</li>
+<li> 11:47 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:03 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:33 www.google.com</li>
+<li> 09:33 www.reddit.com</li>
+<li> 09:31 www.google.com</li>
+<li> 09:31 patient.info</li>
+<li> 09:31 www.google.com</li>
+<li> 09:31 www.gov.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 07:53 docs.google.com</li>
+<li> 07:40 <a href="https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html">Saving Keystokes, Baby Advice | Joe Reddington</a></li>
+<li> 07:32 duckduckgo.com</li>
+<li> 07:32 chatgpt.com</li>
+<li> 07:32 chat.openai.com</li>
+<li> 07:32 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<li> 07:32 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:30 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:30 <a href="https://joereddington.com/2025/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 07:30 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:28 <a href="https://joereddington.com/2024/12/26/20-000-pages-in-2024.html">20,000 pages in 2024 | Joe Reddington</a></li>
+<li> 07:28 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:28 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<li> 07:28 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:28 <a href="https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html">Saving Keystokes, Baby Advice | Joe Reddington</a></li>
+<li> 07:27 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:27 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:26 bsky.app</li>
+<li class='same'> 07:24 bsky.app</li>
+<li> 07:23 docs.google.com</li>
+<li> 07:14 www.gov.uk</li>
+<li> 07:14 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
+<H3>Saturday, 22/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:10 www.google.com</li>
+<li class='same'> 19:48 www.google.com</li>
+<li> 19:23 <a href="https://www.bbc.co.uk/food/recipes/mashedpotatoes_90230">How to make mashed potato recipe - BBC Food</a></li>
+<li> 19:23 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:30 www.google.com</li>
+<li> 18:08 docs.google.com</li>
+<li> 18:05 www.reddit.com</li>
+<li class='same'> 18:03 www.reddit.com</li>
+<li class='same'> 18:02 www.reddit.com</li>
+<li class='same'> 18:01 www.reddit.com</li>
+<li class='same'> 18:00 www.reddit.com</li>
+<li> 17:55 tvtropes.org</li>
+<li class='same'> 17:52 tvtropes.org</li>
+<li class='same'> 17:41 tvtropes.org</li>
+<li class='same'> 17:38 tvtropes.org</li>
+<li> 17:38 duckduckgo.com</li>
+<li> 17:37 publish.buffer.com</li>
+<li class='same'> 17:36 publish.buffer.com</li>
+<li> 17:36 login.buffer.com</li>
+<li> 17:36 buffer.com</li>
+<li> 17:34 www.amazon.co.uk</li>
+<li class='same'> 17:33 www.amazon.co.uk</li>
+<li class='same'> 17:32 www.amazon.co.uk</li>
+<li class='same'> 17:31 www.amazon.co.uk</li>
+<li class='same'> 17:30 www.amazon.co.uk</li>
+<li class='same'> 17:29 www.amazon.co.uk</li>
+<li class='same'> 17:28 www.amazon.co.uk</li>
+<li> 17:27 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:27 docs.google.com</li>
+<li> 17:25 www.reddit.com</li>
+<li class='same'> 17:24 www.reddit.com</li>
+<li> 17:24 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:48 fritz.box</li>
+<li> 14:40 calendar.google.com</li>
+<li> 14:36 mail.google.com</li>
+<li class='same'> 14:35 mail.google.com</li>
+<li> 14:35 calendar.google.com</li>
+<li> 14:33 themeads.org.uk</li>
+<li> 14:33 duckduckgo.com</li>
+<li> 14:33 themeads.org.uk</li>
+<li> 14:31 mail.google.com</li>
+<li> 14:31 calendar.google.com</li>
+<li> 14:30 www.google.com</li>
+<li> 14:30 duckduckgo.com</li>
+<li> 14:29 www.google.com</li>
+<li class='same'> 14:28 www.google.com</li>
+<li> 14:28 web.whatsapp.com</li>
+<li> 14:26 fritz.box</li>
+<li> 14:24 www.theguardian.com</li>
+<li> 14:24 chatgpt.com</li>
+<li> 14:24 sora.com</li>
+<li> 14:23 chatgpt.com</li>
+<li> 14:19 fritz.box</li>
+<li class='same'> 14:12 fritz.box</li>
+<li class='same'> 14:11 fritz.box</li>
+<li> 14:11 www.whatsmyip.org</li>
+<li> 14:10 fritz.box</li>
+<li> 14:07 www.diabetes.org.uk</li>
+<li> 14:07 duckduckgo.com</li>
+<li> 14:05 www.woodlandavenuepractice.nhs.uk</li>
+<li> 14:05 duckduckgo.com</li>
+<li> 14:05 www.passport.service.gov.uk</li>
+<li> 14:05 card.payments.service.gov.uk</li>
+<li class='same'> 14:04 card.payments.service.gov.uk</li>
+<li> 14:04 www.passport.service.gov.uk</li>
+<li> 14:04 card.payments.service.gov.uk</li>
+<li> 14:04 www.passport.service.gov.uk</li>
+<li> 14:04 card.payments.service.gov.uk</li>
+<li> 14:04 www.passport.service.gov.uk</li>
+<li class='same'> 14:03 www.passport.service.gov.uk</li>
+<li class='same'> 14:02 www.passport.service.gov.uk</li>
+<li class='same'> 13:59 www.passport.service.gov.uk</li>
+<li class='same'> 13:56 www.passport.service.gov.uk</li>
+<li class='same'> 13:55 www.passport.service.gov.uk</li>
+<li> 13:55 www.gov.uk</li>
+<li> 13:54 mail.google.com</li>
+<li class='same'> 13:53 mail.google.com</li>
+<li> 13:52 www.reddit.com</li>
+<li> 13:52 duckduckgo.com</li>
+<li> 13:51 mail.google.com</li>
+<li class='same'> 13:50 mail.google.com</li>
+<li> 13:48 fritz.box</li>
+<li class='same'> 13:47 fritz.box</li>
+<li class='same'> 13:46 fritz.box</li>
+<li class='same'> 13:45 fritz.box</li>
+<li> 13:44 mail.google.com</li>
+<li class='same'> 13:43 mail.google.com</li>
+<li class='same'> 13:42 mail.google.com</li>
+<li class='same'> 13:41 mail.google.com</li>
+<li class='same'> 13:40 mail.google.com</li>
+<li> 13:40 gmail.com</li>
+<li> 13:37 chatgpt.com</li>
+<li> 13:37 chat.openai.com</li>
+<li> 13:36 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:36 docs.google.com</li>
+<li class='same'> 13:35 docs.google.com</li>
+<li class='same'> 13:34 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:03 www.google.com</li>
+<li class='same'> 11:51 www.google.com</li>
+<li> 11:51 www.merriam-webster.com</li>
+<li> 11:51 www.google.com</li>
+<li> 11:48 www.etymonline.com</li>
+<li> 11:47 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:52 www.lutonlibraries.co.uk</li>
+<li> 10:52 www.google.com</li>
+<li class='same'> 10:36 www.google.com</li>
+<li class='same'> 10:30 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:15 bsky.app</li>
+<li> 09:14 voice.cymru</li>
+<li> 09:10 bsky.app</li>
+<li class='same'> 09:09 bsky.app</li>
+<li> 09:08 docs.google.com</li>
+<li class='same'> 09:07 docs.google.com</li>
+<li> 09:07 feedly.com</li>
+<li class='same'> 09:06 feedly.com</li>
+<li> 09:06 docs.google.com</li>
+<li class='same'> 09:05 docs.google.com</li>
+<li class='same'> 09:04 docs.google.com</li>
+</ul>
+
+<H3>Friday, 21/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:42 www.amazon.co.uk</li>
+<li class='same'> 20:41 www.amazon.co.uk</li>
+<li class='same'> 20:40 www.amazon.co.uk</li>
+<li> 20:40 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:28 bsky.app</li>
+<li class='same'> 17:26 bsky.app</li>
+<li class='same'> 17:21 bsky.app</li>
+<li class='same'> 17:20 bsky.app</li>
+<li> 17:20 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 17:19 www.amazon.co.uk</li>
+<li> 17:18 docs.google.com</li>
+<li> 17:18 web.whatsapp.com</li>
+<li> 17:18 webtimetables.royalholloway.ac.uk</li>
+<li> 17:15 www.reddit.com</li>
+<li> 17:15 duckduckgo.com</li>
+<li> 17:13 www.ebay.co.uk</li>
+<li class='same'> 17:12 www.ebay.co.uk</li>
+<li> 17:08 www.reddit.com</li>
+<li> 17:08 duckduckgo.com</li>
+<li> 17:08 www.reddit.com</li>
+<li> 17:08 duckduckgo.com</li>
+<li> 17:04 support-downloads.tcl.com</li>
+<li> 17:04 duckduckgo.com</li>
+<li class='same'> 17:03 duckduckgo.com</li>
+<li> 17:03 www.epey.co.uk</li>
+<li> 17:03 duckduckgo.com</li>
+<li> 17:02 superuser.com</li>
+<li> 17:02 www.manuals.co.uk</li>
+<li class='same'> 17:01 www.manuals.co.uk</li>
+<li> 17:01 duckduckgo.com</li>
+<li> 16:58 chatgpt.com</li>
+<li class='same'> 16:57 chatgpt.com</li>
+<li> 16:57 chat.openai.com</li>
+<li> 16:57 www.amazon.co.uk</li>
+<li> 16:56 askubuntu.com</li>
+<li> 16:56 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+<li> 16:56 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
+<li> 16:55 www.amazon.co.uk</li>
+<li> 16:54 duckduckgo.com</li>
+<li> 16:54 feedly.com</li>
+<li> 16:53 adblockplus.org</li>
+<li> 16:52 www.giantitp.com</li>
+<li> 16:52 feedly.com</li>
+<li> 16:51 www.google.com</li>
+<li class='same'> 16:50 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:10 www.google.com</li>
+<li> 16:10 www.themarysue.com</li>
+<li> 16:09 www.google.com</li>
+<li class='same'> 15:49 www.google.com</li>
+<li> 15:48 www.reddit.com</li>
+<li> 15:48 www.google.com</li>
+<li> 15:45 theonion.com</li>
+<li> 15:45 www.google.com</li>
+<li> 15:44 intranet.royalholloway.ac.uk</li>
+<li> 15:44 www.google.com</li>
+<li> 15:44 www.su.rhul.ac.uk</li>
+<li> 15:44 www.google.com</li>
+<li> 15:35 theonion.com</li>
+<li> 15:34 newsthump.com</li>
+<li> 15:33 reductress.com</li>
+<li> 15:33 www.theguardian.com</li>
+<li class='same'> 15:05 www.theguardian.com</li>
+<li class='same'> 15:04 www.theguardian.com</li>
+<li class='same'> 15:03 www.theguardian.com</li>
+<li class='same'> 15:02 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:28 www.apple.com</li>
+<li> 13:17 feedly.com</li>
+<li> 13:16 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:43 feedly.com</li>
+<li class='same'> 11:41 feedly.com</li>
+<li> 11:40 docs.google.com</li>
+<li> 11:40 www.reddit.com</li>
+<li> 11:39 old.reddit.com</li>
+<li class='same'> 11:38 old.reddit.com</li>
+<li> 11:37 www.reddit.com</li>
+<li> 11:36 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:22 www.apple.com</li>
+<li class='same'> 08:21 www.apple.com</li>
+<li class='same'> 08:20 www.apple.com</li>
+<li> 08:20 www.google.com</li>
+<li> 07:52 www.theguardian.com</li>
+<li class='same'> 07:51 www.theguardian.com</li>
+</ul>
+
+<H3>Thursday, 20/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:50 www.better.org.uk</li>
+<li> 20:49 www.reddit.com</li>
+<li> 20:49 duckduckgo.com</li>
+<li> 20:48 libbyapp.com</li>
+<li> 20:48 libbysearch.com</li>
+<li class='same'> 20:47 libbysearch.com</li>
+<li> 20:47 www.amazon.com</li>
+<li> 20:47 www.sfadb.com</li>
+<li> 20:47 duckduckgo.com</li>
+<li> 20:46 libbysearch.com</li>
+<li class='same'> 20:45 libbysearch.com</li>
+<li> 20:45 www.reddit.com</li>
+<li> 20:45 duckduckgo.com</li>
+<li> 20:44 mail.google.com</li>
+<li> 20:44 lancashire.borrowbox.com</li>
+<li> 20:35 hertfordshire.borrowbox.com</li>
+<li class='same'> 20:34 hertfordshire.borrowbox.com</li>
+<li class='same'> 20:33 hertfordshire.borrowbox.com</li>
+<li class='same'> 20:32 hertfordshire.borrowbox.com</li>
+<li class='same'> 20:31 hertfordshire.borrowbox.com</li>
+<li class='same'> 20:29 hertfordshire.borrowbox.com</li>
+<li> 20:28 www.hertfordshire.gov.uk</li>
+<li> 20:28 duckduckgo.com</li>
+<li> 20:27 lancashire.borrowbox.com</li>
+<li class='same'> 20:26 lancashire.borrowbox.com</li>
+<li class='same'> 20:25 lancashire.borrowbox.com</li>
+<li> 20:24 mail.google.com</li>
+<li class='same'> 20:23 mail.google.com</li>
+<li> 20:23 gmail.com</li>
+<li> 20:23 docs.google.com</li>
+<li> 20:23 drive.google.com</li>
+<li class='same'> 20:22 drive.google.com</li>
+<li> 20:22 lancashire.borrowbox.com</li>
+<li class='same'> 20:20 lancashire.borrowbox.com</li>
+<li> 20:20 duckduckgo.com</li>
+<li> 20:20 lancs.borrowbox.com</li>
+<li> 20:20 westsussex.borrowbox.com</li>
+<li> 20:20 arena.westsussex.gov.uk</li>
+<li> 20:19 duckduckgo.com</li>
+<li> 20:19 www.borrowbox.com</li>
+<li> 20:19 duckduckgo.com</li>
+<li> 20:19 www.google.com</li>
+<li> 20:18 www.reddit.com</li>
+<li> 20:18 www.google.com</li>
+<li> 20:18 forums.whirlpool.net.au</li>
+<li> 20:17 www.google.com</li>
+<li> 20:15 www.amazon.co.uk</li>
+<li> 20:15 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:48 www.reddit.com</li>
+<li class='same'> 18:47 www.reddit.com</li>
+<li> 18:46 vintageclothingguides.com</li>
+<li> 18:28 www.darkakademia.com</li>
+<li> 18:25 www.realmenrealstyle.com</li>
+<li> 18:25 duckduckgo.com</li>
+<li> 18:24 www.reddit.com</li>
+<li class='same'> 18:23 www.reddit.com</li>
+<li> 18:23 duckduckgo.com</li>
+<li> 18:20 www.theguardian.com</li>
+<li> 18:20 web.whatsapp.com</li>
+<li> 18:18 www.theguardian.com</li>
+<li> 18:18 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:05 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:52 bsky.app</li>
+<li class='same'> 14:51 bsky.app</li>
+<li> 14:50 docs.google.com</li>
+<li> 14:49 web.whatsapp.com</li>
+<li> 14:48 www.redbull.com</li>
+<li> 14:48 duckduckgo.com</li>
+<li> 14:47 docs.google.com</li>
+<li class='same'> 14:46 docs.google.com</li>
+<li class='same'> 14:45 docs.google.com</li>
+<li> 14:44 www.costa.co.uk</li>
+<li class='same'> 14:43 www.costa.co.uk</li>
+<li> 14:43 duckduckgo.com</li>
+<li> 14:43 docs.google.com</li>
+<li class='same'> 14:42 docs.google.com</li>
+<li> 14:41 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:39 www.google.com</li>
+<li> 13:25 tvtropes.org</li>
+<li class='same'> 13:24 tvtropes.org</li>
+<li class='same'> 13:23 tvtropes.org</li>
+<li> 13:22 www.google.com</li>
+<li> 13:22 abcnews.go.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:08 abcnews.go.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:32 www.reddit.com</li>
+<li> 08:32 www.google.com</li>
+<li class='same'> 08:31 www.google.com</li>
+<li class='same'> 08:21 www.google.com</li>
+<li> 08:10 www.reddit.com</li>
+<li class='same'> 08:09 www.reddit.com</li>
+<li> 08:09 www.snakes-and-ladders.co.uk</li>
+<li> 08:08 duckduckgo.com</li>
+<li> 08:06 www.reddit.com</li>
+<li class='same'> 08:04 www.reddit.com</li>
+<li class='same'> 08:03 www.reddit.com</li>
+<li> 08:03 www.inflationtool.com</li>
+<li class='same'> 08:02 www.inflationtool.com</li>
+<li> 08:02 duckduckgo.com</li>
+<li> 08:01 feedly.com</li>
+<li> 07:59 chatgpt.com</li>
+<li> 07:57 docs.google.com</li>
+<li class='same'> 07:56 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:24 www.tesco.com</li>
+<li> 07:24 www.google.com</li>
+<li> 07:23 www.tesco.com</li>
+<li> 07:23 www.google.com</li>
+<li> 07:23 docs.google.com</li>
+<li class='same'> 07:22 docs.google.com</li>
+<li class='same'> 07:21 docs.google.com</li>
+<li> 07:20 bsky.app</li>
+<li class='same'> 07:15 bsky.app</li>
+<li> 07:15 oro.open.ac.uk</li>
+<li> 07:15 bsky.app</li>
+<li class='same'> 07:14 bsky.app</li>
+<li> 07:12 www.reddit.com</li>
+<li class='same'> 07:11 www.reddit.com</li>
+<li class='same'> 07:07 www.reddit.com</li>
+<li> 07:07 www.spotify.com</li>
+<li> 07:07 accounts.spotify.com</li>
+</ul>
+
+<H3>Wednesday, 19/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:46 www.google.com</li>
+<li class='same'> 21:43 www.google.com</li>
+<li class='same'> 21:18 www.google.com</li>
+<li> 21:18 www.reddit.com</li>
+<li> 21:18 www.google.com</li>
+<li> 21:17 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:41 www.spotify.com</li>
+<li class='same'> 20:40 www.spotify.com</li>
+<li> 20:39 payments.spotify.com</li>
+<li> 20:39 www.spotify.com</li>
+<li> 20:39 services.sheerid.com</li>
+<li> 20:38 login.openathens.net</li>
+<li> 20:38 login.microsoftonline.com</li>
+<li> 20:38 login.openathens.net</li>
+<li> 20:38 access.verifid.ac.uk</li>
+<li> 20:38 services.sheerid.com</li>
+<li> 20:38 www.spotify.com</li>
+<li> 20:38 accounts.spotify.com</li>
+<li> 20:35 www.reddit.com</li>
+<li> 20:35 www.google.com</li>
+<li> 20:34 www.reddit.com</li>
+<li> 20:34 www.google.com</li>
+<li> 20:33 www.reddit.com</li>
+<li> 20:30 www.google.com</li>
+<li> 20:29 www.reddit.com</li>
+<li> 20:29 www.google.com</li>
+<li> 20:16 bsky.app</li>
+<li class='same'> 20:15 bsky.app</li>
+<li class='same'> 20:14 bsky.app</li>
+<li> 20:10 www.amazon.co.uk</li>
+<li class='same'> 20:09 www.amazon.co.uk</li>
+<li> 20:09 bsky.app</li>
+<li class='same'> 20:08 bsky.app</li>
+<li> 20:08 www.tandfonline.com</li>
+<li class='same'> 20:07 www.tandfonline.com</li>
+<li> 20:07 duckduckgo.com</li>
+<li> 20:05 www.reddit.com</li>
+<li class='same'> 20:04 www.reddit.com</li>
+<li> 20:03 weather.metoffice.gov.uk</li>
+<li> 20:03 duckduckgo.com</li>
+<li> 20:03 www.reddit.com</li>
+<li class='same'> 20:02 www.reddit.com</li>
+<li class='same'> 20:01 www.reddit.com</li>
+<li class='same'> 19:59 www.reddit.com</li>
+<li class='same'> 19:58 www.reddit.com</li>
+<li class='same'> 19:57 www.reddit.com</li>
+<li class='same'> 19:56 www.reddit.com</li>
+<li class='same'> 19:55 www.reddit.com</li>
+<li class='same'> 19:54 www.reddit.com</li>
+<li> 19:54 duckduckgo.com</li>
+<li> 19:54 www.reddit.com</li>
+<li class='same'> 19:53 www.reddit.com</li>
+<li class='same'> 19:52 www.reddit.com</li>
+<li class='same'> 19:50 www.reddit.com</li>
+<li class='same'> 19:49 www.reddit.com</li>
+<li class='same'> 19:48 www.reddit.com</li>
+<li class='same'> 19:46 www.reddit.com</li>
+<li class='same'> 19:45 www.reddit.com</li>
+<li> 19:20 www.google.com</li>
+<li> 19:20 www.domerama.com</li>
+<li class='same'> 19:19 www.domerama.com</li>
+<li> 19:19 www.google.com</li>
+<li> 19:18 cyclonesurakkha.com</li>
+<li> 19:18 barcely.gallels.fun</li>
+<li> 19:18 www.google.com</li>
+<li> 19:18 take-note.co.za</li>
+<li> 19:18 www.google.com</li>
+<li> 19:17 www.readersheds.co.uk</li>
+<li> 19:17 www.google.com</li>
+<li class='same'> 19:16 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:03 fast.com</li>
+<li class='same'> 18:02 fast.com</li>
+<li class='same'> 18:01 fast.com</li>
+<li class='same'> 18:00 fast.com</li>
+<li> 18:00 www.google.com</li>
+<li> 17:52 bsky.app</li>
+<li class='same'> 17:49 bsky.app</li>
+<li> 17:48 calendar.google.com</li>
+<li class='same'> 17:47 calendar.google.com</li>
+<li> 17:47 web.whatsapp.com</li>
+<li> 17:47 www.theguardian.com</li>
+<li class='same'> 17:44 www.theguardian.com</li>
+<li class='same'> 17:43 www.theguardian.com</li>
+<li> 17:42 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:39 www.reddit.com</li>
+<li> 14:38 chatgpt.com</li>
+<li class='same'> 14:37 chatgpt.com</li>
+<li> 14:31 tdeecalculator.net</li>
+<li> 14:31 duckduckgo.com</li>
+<li> 14:30 tdeecalculator.net</li>
+<li> 14:30 duckduckgo.com</li>
+<li> 14:25 docs.google.com</li>
+<li class='same'> 14:24 docs.google.com</li>
+<li> 14:22 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:52 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:26 www.reddit.com</li>
+<li class='same'> 07:25 www.reddit.com</li>
+<li> 07:24 feedly.com</li>
+<li> 07:22 docs.google.com</li>
+<li class='same'> 07:20 docs.google.com</li>
+<li> 07:20 feedly.com</li>
+<li class='same'> 07:19 feedly.com</li>
+<li class='same'> 07:18 feedly.com</li>
+<li> 07:18 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:18 <a href="https://joereddington.com/2025/01/28/cliche.html">Cliche | Joe Reddington</a></li>
+<li> 07:18 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 07:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:18 <a href="https://joereddington.com/2025/02/15/sweet-sweet-potatoes.html">Sweet Sweet Potatoes | Joe Reddington</a></li>
+<li> 07:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:18 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:15 docs.google.com</li>
+<li> 07:14 mail.google.com</li>
+</ul>
+
+<H3>Tuesday, 18/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 19:49 us06web.zoom.us</li>
+<li class='same'> 19:44 us06web.zoom.us</li>
+<li> 19:44 www.google.com</li>
+<li> 19:44 us06web.zoom.us</li>
+<li> 19:44 mail.google.com</li>
+<li class='same'> 19:40 mail.google.com</li>
+<li class='same'> 19:28 mail.google.com</li>
+<li class='same'> 19:27 mail.google.com</li>
+<li> 19:27 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:27 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:41 <a href="https://en.wikipedia.org/wiki/Sophie_Dahl">Sophie Dahl - Wikipedia</a></li>
+<li> 17:41 duckduckgo.com</li>
+<li> 17:40 support.theguardian.com</li>
+<li> 17:40 www.theguardian.com</li>
+<li> 17:40 docs.google.com</li>
+<li class='same'> 17:39 docs.google.com</li>
+<li class='same'> 17:38 docs.google.com</li>
+<li> 17:36 www.reddit.com</li>
+<li class='same'> 17:35 www.reddit.com</li>
+<li class='same'> 17:34 www.reddit.com</li>
+<li class='same'> 17:32 www.reddit.com</li>
+<li class='same'> 17:27 www.reddit.com</li>
+<li class='same'> 17:26 www.reddit.com</li>
+<li> 17:25 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:51 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:22 www.reddit.com</li>
+<li class='same'> 14:20 www.reddit.com</li>
+<li class='same'> 14:16 www.reddit.com</li>
+<li class='same'> 14:13 www.reddit.com</li>
+<li> 14:10 docs.google.com</li>
+<li> 14:09 www.tesco.com</li>
+<li> 14:09 docs.google.com</li>
+<li> 14:07 www.tesco.com</li>
+<li> 14:06 feedly.com</li>
+<li class='same'> 14:05 feedly.com</li>
+<li class='same'> 14:04 feedly.com</li>
+<li> 14:03 www.tesco.com</li>
+<li> 14:02 www.buywholefoodsonline.co.uk</li>
+<li> 14:02 duckduckgo.com</li>
+<li> 14:02 web.whatsapp.com</li>
+<li> 14:02 docs.google.com</li>
+<li class='same'> 14:01 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:10 duckduckgo.com</li>
+<li> 11:58 www.reddit.com</li>
+<li class='same'> 11:57 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:19 www.reddit.com</li>
+<li class='same'> 11:18 www.reddit.com</li>
+<li> 11:16 docs.google.com</li>
+<li class='same'> 11:15 docs.google.com</li>
+<li> 11:14 web.whatsapp.com</li>
+<li> 10:59 www.amazon.co.uk</li>
+<li class='same'> 10:58 www.amazon.co.uk</li>
+<li> 10:57 www.google.com</li>
+<li> 10:57 www.sfadb.com</li>
+<li> 10:56 nebulas.sfwa.org</li>
+<li> 10:50 www.amazon.co.uk</li>
+<li class='same'> 10:49 www.amazon.co.uk</li>
+<li> 10:46 nebulas.sfwa.org</li>
+<li> 10:46 www.google.com</li>
+<li> 10:44 <a href="https://en.wikipedia.org/wiki/Tamsyn_Muir#/media/File:Tamsyn_Muir_at_BookExpo_(15987).jpg">Tamsyn Muir - Wikipedia</a></li>
+<li class='same'> 10:43 <a href="https://en.wikipedia.org/wiki/Tamsyn_Muir#/media/File:Tamsyn_Muir_at_BookExpo_(15987).jpg">Tamsyn Muir - Wikipedia</a></li>
+<li> 10:41 <a href="https://en.wikipedia.org/wiki/Clarion_Workshop">Clarion Workshop - Wikipedia</a></li>
+<li> 10:41 <a href="https://en.wikipedia.org/wiki/Tamsyn_Muir">Tamsyn Muir - Wikipedia</a></li>
+<li> 10:41 duckduckgo.com</li>
+<li> 10:41 www.amazon.co.uk</li>
+<li class='same'> 10:40 www.amazon.co.uk</li>
+<li> 10:40 www.google.com</li>
+<li> 10:40 docs.google.com</li>
+<li> 10:38 web.whatsapp.com</li>
+</ul>
+
+<H3>Monday, 17/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:44 www.google.com</li>
+<li class='same'> 17:43 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:51 www.google.com</li>
+<li class='same'> 15:50 www.google.com</li>
+<li class='same'> 15:49 www.google.com</li>
+<li> 15:46 www.reddit.com</li>
+<li> 15:46 www.google.com</li>
+<li> 15:29 fivethirtyeight.com</li>
+<li> 15:29 www.google.com</li>
+<li> 15:29 fivethirtyeight.com</li>
+<li> 15:28 www.independent.co.uk</li>
+<li class='same'> 15:27 www.independent.co.uk</li>
+<li> 15:26 www.google.com</li>
+<li> 15:26 www.corrchilled.co.uk</li>
+<li> 15:26 www.google.com</li>
+<li> 15:20 fivethirtyeight.com</li>
+<li> 15:20 www.google.com</li>
+<li> 15:13 patient.info</li>
+</ul>
+
+<br>
+
+<ul><li> 06:57 www.reddit.com</li>
+<li class='same'> 06:56 www.reddit.com</li>
+<li class='same'> 06:52 www.reddit.com</li>
+<li class='same'> 06:50 www.reddit.com</li>
+<li class='same'> 06:49 www.reddit.com</li>
+<li class='same'> 06:47 www.reddit.com</li>
+<li class='same'> 06:46 www.reddit.com</li>
+<li> 06:40 www.amazon.co.uk</li>
+<li class='same'> 06:39 www.amazon.co.uk</li>
+<li> 06:39 duckduckgo.com</li>
+<li> 06:38 calendar.google.com</li>
+<li> 06:35 feedly.com</li>
+<li> 06:35 www.cl.cam.ac.uk</li>
+<li> 06:35 feedly.com</li>
+</ul>
+
+<H3>Sunday, 16/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:35 tvtropes.org</li>
+<li class='same'> 20:34 tvtropes.org</li>
+<li class='same'> 20:33 tvtropes.org</li>
+<li class='same'> 20:31 tvtropes.org</li>
+<li class='same'> 20:29 tvtropes.org</li>
+<li class='same'> 20:28 tvtropes.org</li>
+<li class='same'> 20:27 tvtropes.org</li>
+<li class='same'> 20:26 tvtropes.org</li>
+<li class='same'> 20:25 tvtropes.org</li>
+<li class='same'> 20:21 tvtropes.org</li>
+<li class='same'> 20:20 tvtropes.org</li>
+<li class='same'> 20:17 tvtropes.org</li>
+<li class='same'> 20:13 tvtropes.org</li>
+<li class='same'> 20:12 tvtropes.org</li>
+<li> 20:12 www.reddit.com</li>
+<li> 20:12 tvtropes.org</li>
+<li class='same'> 20:10 tvtropes.org</li>
+<li class='same'> 20:09 tvtropes.org</li>
+<li class='same'> 20:08 tvtropes.org</li>
+<li class='same'> 20:07 tvtropes.org</li>
+<li class='same'> 20:05 tvtropes.org</li>
+<li class='same'> 20:02 tvtropes.org</li>
+<li> 20:02 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:48 ask.metafilter.com</li>
+<li> 18:48 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:56 www.reddit.com</li>
+<li class='same'> 14:52 www.reddit.com</li>
+<li class='same'> 14:51 www.reddit.com</li>
+<li class='same'> 14:49 www.reddit.com</li>
+<li class='same'> 14:48 www.reddit.com</li>
+<li class='same'> 14:47 www.reddit.com</li>
+<li class='same'> 14:46 www.reddit.com</li>
+<li class='same'> 14:45 www.reddit.com</li>
+<li class='same'> 14:44 www.reddit.com</li>
+<li> 14:44 www.google.com</li>
+<li> 14:44 www.reddit.com</li>
+<li> 14:44 www.google.com</li>
+<li> 14:44 www.reddit.com</li>
+<li class='same'> 14:43 www.reddit.com</li>
+<li class='same'> 14:42 www.reddit.com</li>
+<li class='same'> 14:41 www.reddit.com</li>
+<li class='same'> 14:40 www.reddit.com</li>
+<li class='same'> 14:39 www.reddit.com</li>
+<li class='same'> 14:38 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:47 patient.info</li>
+<li> 11:46 www.google.com</li>
+<li class='same'> 11:45 www.google.com</li>
+<li> 11:45 www.medicinenet.com</li>
+<li class='same'> 11:44 www.medicinenet.com</li>
+<li> 11:44 www.google.com</li>
+<li> 11:43 www.reddit.com</li>
+<li> 11:43 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:15 feedly.com</li>
+<li class='same'> 08:14 feedly.com</li>
+<li> 08:14 web.whatsapp.com</li>
+<li> 08:13 www.reddit.com</li>
+<li class='same'> 08:11 www.reddit.com</li>
+<li class='same'> 08:06 www.reddit.com</li>
+<li class='same'> 08:04 www.reddit.com</li>
+<li class='same'> 08:01 www.reddit.com</li>
+<li class='same'> 07:59 www.reddit.com</li>
+<li class='same'> 07:54 www.reddit.com</li>
+<li> 07:52 www.advance-he.ac.uk</li>
+<li> 07:45 www.reddit.com</li>
+<li> 07:45 fast.com</li>
+<li> 07:44 fritz.box</li>
+<li class='same'> 07:43 fritz.box</li>
+<li> 07:42 www.reddit.com</li>
+<li> 07:42 qmucu.org</li>
+<li> 07:41 www.liverpoolecho.co.uk</li>
+<li> 07:41 duckduckgo.com</li>
+<li> 07:40 www.reddit.com</li>
+<li> 07:39 www.timeshighereducation.com</li>
+<li> 07:39 www.reddit.com</li>
+<li class='same'> 07:38 www.reddit.com</li>
+</ul>
+
+<H3>Saturday, 15/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:30 www.reddit.com</li>
+<li class='same'> 21:29 www.reddit.com</li>
+<li class='same'> 21:28 www.reddit.com</li>
+<li class='same'> 21:27 www.reddit.com</li>
+<li> 21:27 duckduckgo.com</li>
+<li> 21:27 www.amazon.co.uk</li>
+<li class='same'> 21:25 www.amazon.co.uk</li>
+<li class='same'> 21:23 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 17:57 www.google.com</li>
+<li class='same'> 17:56 www.google.com</li>
+<li class='same'> 17:55 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:30 www.reddit.com</li>
+<li> 15:30 www.google.com</li>
+<li> 15:27 www.reddit.com</li>
+<li> 15:27 www.google.com</li>
+<li> 15:27 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:25 www.reddit.com</li>
+<li class='same'> 14:24 www.reddit.com</li>
+<li> 14:24 www.google.com</li>
+<li> 14:12 www.reddit.com</li>
+<li class='same'> 14:11 www.reddit.com</li>
+<li> 14:11 www.alpenlore.com</li>
+<li> 14:10 www.amazon.co.uk</li>
+<li> 14:10 www.alpenlore.com</li>
+<li class='same'> 14:09 www.alpenlore.com</li>
+<li> 14:09 www.amazon.co.uk</li>
+<li> 14:09 securehomehero.com</li>
+<li> 14:09 duckduckgo.com</li>
+<li> 14:07 www.amazon.co.uk</li>
+<li class='same'> 14:06 www.amazon.co.uk</li>
+<li class='same'> 14:05 www.amazon.co.uk</li>
+<li class='same'> 14:04 www.amazon.co.uk</li>
+<li class='same'> 14:03 www.amazon.co.uk</li>
+<li class='same'> 14:02 www.amazon.co.uk</li>
+<li class='same'> 14:01 www.amazon.co.uk</li>
+<li class='same'> 14:00 www.amazon.co.uk</li>
+<li class='same'> 13:59 www.amazon.co.uk</li>
+<li class='same'> 13:58 www.amazon.co.uk</li>
+<li class='same'> 13:57 www.amazon.co.uk</li>
+<li class='same'> 13:56 www.amazon.co.uk</li>
+<li class='same'> 13:55 www.amazon.co.uk</li>
+<li class='same'> 13:54 www.amazon.co.uk</li>
+<li> 13:53 chatgpt.com</li>
+<li> 13:53 chat.openai.com</li>
+<li> 13:53 www.amazon.co.uk</li>
+<li class='same'> 13:52 www.amazon.co.uk</li>
+<li class='same'> 13:51 www.amazon.co.uk</li>
+<li class='same'> 13:50 www.amazon.co.uk</li>
+<li class='same'> 13:49 www.amazon.co.uk</li>
+<li class='same'> 13:47 www.amazon.co.uk</li>
+<li class='same'> 13:46 www.amazon.co.uk</li>
+<li class='same'> 13:45 www.amazon.co.uk</li>
+<li class='same'> 13:44 www.amazon.co.uk</li>
+<li class='same'> 13:43 www.amazon.co.uk</li>
+<li> 13:43 www.ebay.co.uk</li>
+<li> 13:40 www.swiss-store.co.uk</li>
+<li class='same'> 13:39 www.swiss-store.co.uk</li>
+<li class='same'> 13:38 www.swiss-store.co.uk</li>
+<li class='same'> 13:37 www.swiss-store.co.uk</li>
+<li class='same'> 13:36 www.swiss-store.co.uk</li>
+<li> 13:36 duckduckgo.com</li>
+<li> 13:31 www.amazon.co.uk</li>
+<li class='same'> 13:29 www.amazon.co.uk</li>
+<li class='same'> 13:28 www.amazon.co.uk</li>
+<li> 13:26 www.ebay.co.uk</li>
+<li> 13:25 www.amazon.co.uk</li>
+<li class='same'> 13:24 www.amazon.co.uk</li>
+<li> 13:24 www.victorinox.com</li>
+<li> 13:24 duckduckgo.com</li>
+<li> 13:23 www.victorinox.com</li>
+<li class='same'> 13:22 www.victorinox.com</li>
+<li class='same'> 13:21 www.victorinox.com</li>
+<li> 13:21 duckduckgo.com</li>
+<li> 13:20 www.amazon.co.uk</li>
+<li> 13:20 www.outdoorlife.com</li>
+<li> 13:19 knifeinformer.com</li>
+<li class='same'> 13:18 knifeinformer.com</li>
+<li class='same'> 13:17 knifeinformer.com</li>
+<li> 13:17 duckduckgo.com</li>
+<li> 13:16 www.ebay.co.uk</li>
+<li> 13:15 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 13:12 web.whatsapp.com</li>
+<li> 13:07 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+</ul>
+
+<br>
+
+<ul><li> 08:25 docs.google.com</li>
+<li> 08:21 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:20 mail.google.com</li>
+<li class='same'> 08:19 mail.google.com</li>
+<li> 08:19 gmail.com</li>
+<li> 08:19 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
+<li> 08:19 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:19 <a href="https://joereddington.com/social/">Connect with Me | Joe Reddington</a></li>
+<li> 08:19 <a href="https://joereddington.com/2025/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 08:19 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 08:18 <a href="https://joereddington.com/2024/08/09/sad.html">Sad | Joe Reddington</a></li>
+<li> 08:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:17 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
+<li> 08:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:17 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 08:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:17 <a href="https://joereddington.com/2025/01/28/cliche.html">Cliche | Joe Reddington</a></li>
+<li> 08:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:17 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 08:17 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 08:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:16 <a href="https://joereddington.com/2025/02/15/sweet-sweet-potatoes.html">Sweet Sweet Potatoes | Joe Reddington</a></li>
+<li> 08:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 08:15 <a href="https://joereddington.com/2025/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 08:15 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:14 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 08:12 <a href="https://joereddington.com/2025/02/15/sweet-sweet-potatoes.html">Sweet Sweet Potatoes | Joe Reddington</a></li>
+<li> 08:11 www.amazon.co.uk</li>
+<li class='same'> 08:10 www.amazon.co.uk</li>
+<li> 08:10 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:10 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 08:10 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 08:10 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 08:07 web.whatsapp.com</li>
+<li> 08:04 <a href="https://en.wikipedia.org/wiki/Thermal_immersion_circulator">Thermal immersion circulator - Wikipedia</a></li>
+<li> 08:04 duckduckgo.com</li>
+<li> 07:59 chatgpt.com</li>
+<li> 07:58 web.whatsapp.com</li>
+<li> 07:57 www.amazon.co.uk</li>
+<li> 07:52 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 07:52 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:50 pypi.org</li>
+<li> 07:50 duckduckgo.com</li>
+<li> 07:47 chatgpt.com</li>
+<li> 07:47 chat.openai.com</li>
+<li> 07:36 web.whatsapp.com</li>
+<li> 07:34 www.reddit.com</li>
+<li> 07:34 duckduckgo.com</li>
+</ul>
+
+<H3>Friday, 14/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:08 www.tesco.com</li>
+<li class='same'> 20:06 www.tesco.com</li>
+<li class='same'> 20:03 www.tesco.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:13 www.google.com</li>
+<li class='same'> 16:59 www.google.com</li>
+<li class='same'> 16:58 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:14 search.google.com</li>
+<li class='same'> 16:13 search.google.com</li>
+<li> 16:13 www.google.com</li>
+<li> 16:11 www.reddit.com</li>
+<li class='same'> 16:09 www.reddit.com</li>
+<li> 15:58 tvtropes.org</li>
+<li class='same'> 15:44 tvtropes.org</li>
+<li class='same'> 15:39 tvtropes.org</li>
+<li class='same'> 15:27 tvtropes.org</li>
+<li class='same'> 15:26 tvtropes.org</li>
+<li class='same'> 15:24 tvtropes.org</li>
+<li class='same'> 15:22 tvtropes.org</li>
+<li class='same'> 15:21 tvtropes.org</li>
+<li class='same'> 15:19 tvtropes.org</li>
+<li class='same'> 15:13 tvtropes.org</li>
+<li> 15:13 www.google.com</li>
+<li> 15:11 www.reddit.com</li>
+<li class='same'> 15:10 www.reddit.com</li>
+<li class='same'> 15:09 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:54 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:46 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:57 www.google.com</li>
+<li> 08:57 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:01 calendar.google.com</li>
+</ul>
+
+<H3>Thursday, 13/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:39 www.reddit.com</li>
+<li> 21:37 docs.google.com</li>
+<li> 21:36 feedly.com</li>
+<li class='same'> 21:32 feedly.com</li>
+<li> 21:16 www.google.com</li>
+<li class='same'> 21:15 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:35 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:36 docs.google.com</li>
+<li> 17:13 www.theguardian.com</li>
+<li class='same'> 17:09 www.theguardian.com</li>
+<li> 17:08 feedly.com</li>
+<li> 17:05 www.coursera.org</li>
+<li class='same'> 17:04 www.coursera.org</li>
+<li> 17:03 www.amazon.co.uk</li>
+<li> 17:03 www.goodreads.com</li>
+<li class='same'> 17:00 www.goodreads.com</li>
+<li> 17:00 duckduckgo.com</li>
+<li> 16:59 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:01 outlook.office.com</li>
+<li> 16:01 www.coursera.org</li>
+<li> 16:00 outlook.office.com</li>
+<li> 16:00 outlook.office365.com</li>
+<li> 16:00 outlook.office.com</li>
+<li> 15:59 zoom.us</li>
+<li> 15:54 www.zoom.us</li>
+<li> 15:54 www.zoom.com</li>
+<li> 15:32 www.coursera.org</li>
+<li class='same'> 15:31 www.coursera.org</li>
+<li> 15:31 outlook.office.com</li>
+<li class='same'> 15:30 outlook.office.com</li>
+<li class='same'> 15:29 outlook.office.com</li>
+<li> 15:29 outlook.office365.com</li>
+<li> 15:29 outlook.office.com</li>
+<li> 15:29 mail.google.com</li>
+<li> 15:29 feedly.com</li>
+<li class='same'> 15:27 feedly.com</li>
+<li> 15:25 chatgpt.com</li>
+<li> 15:23 gitlab.cim.rhul.ac.uk</li>
+<li> 15:13 web.whatsapp.com</li>
+<li> 15:02 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 14:59 gitlab.cim.rhul.ac.uk</li>
+<li> 14:59 rhul-my.sharepoint.com</li>
+<li> 14:57 mail.google.com</li>
+<li class='same'> 14:56 mail.google.com</li>
+<li class='same'> 14:55 mail.google.com</li>
+<li> 14:55 rhul-my.sharepoint.com</li>
+<li> 14:54 outlook.office.com</li>
+<li> 14:54 mail.google.com</li>
+<li> 14:54 outlook.office.com</li>
+<li> 14:53 mail.google.com</li>
+<li class='same'> 14:52 mail.google.com</li>
+<li class='same'> 14:48 mail.google.com</li>
+<li> 14:48 gmail.com</li>
+<li> 14:48 mail.google.com</li>
+<li> 14:48 gmail.com</li>
+<li> 14:34 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 14:33 gitlab.cim.rhul.ac.uk</li>
+<li> 14:30 rhul-my.sharepoint.com</li>
+<li> 14:29 mail.google.com</li>
+<li> 14:29 outlook.office.com</li>
+<li> 14:29 rhul-my.sharepoint.com</li>
+<li> 14:28 outlook.office.com</li>
+<li> 14:28 outlook.office365.com</li>
+<li> 14:28 outlook.office.com</li>
+<li> 14:28 web.whatsapp.com</li>
+<li> 14:28 mail.google.com</li>
+<li> 14:25 calendar.google.com</li>
+<li> 14:25 outlook.office.com</li>
+<li> 14:25 myaccount.microsoft.com</li>
+<li> 14:25 login.microsoftonline.com</li>
+<li> 14:25 myaccount.microsoft.com</li>
+<li> 14:20 outlook.office.com</li>
+<li> 14:20 outlook.office365.com</li>
+<li> 14:20 outlook.office.com</li>
+<li> 14:20 mail.google.com</li>
+<li> 14:20 web.whatsapp.com</li>
+<li> 14:19 bsky.app</li>
+<li class='same'> 14:16 bsky.app</li>
+<li> 14:15 web.whatsapp.com</li>
+<li> 14:15 publish.buffer.com</li>
+<li> 14:15 login.buffer.com</li>
+<li> 14:15 buffer.com</li>
+<li> 14:14 www.linkedin.com</li>
+<li class='same'> 14:13 www.linkedin.com</li>
+<li class='same'> 14:12 www.linkedin.com</li>
+<li class='same'> 14:07 www.linkedin.com</li>
+<li> 14:04 www.tightrope.co.uk</li>
+<li class='same'> 13:56 www.tightrope.co.uk</li>
+<li> 13:43 www.csoonline.com</li>
+<li> 13:43 duckduckgo.com</li>
+<li> 13:41 cyberepq.org.uk</li>
+<li class='same'> 13:40 cyberepq.org.uk</li>
+<li class='same'> 13:39 cyberepq.org.uk</li>
+<li> 13:39 www.ciisec.org</li>
+<li> 13:34 members.ciisec.org</li>
+<li> 13:32 chatgpt.com</li>
+<li> 13:32 chat.openai.com</li>
+<li> 13:29 teams.microsoft.com</li>
+<li> 13:24 www.reddit.com</li>
+<li> 13:24 www.findaphd.com</li>
+<li> 13:23 www.reddit.com</li>
+<li> 13:23 mail.google.com</li>
+<li> 13:23 gmail.com</li>
+<li> 13:23 outlook.office.com</li>
+<li> 13:23 web.whatsapp.com</li>
+<li> 13:23 outlook.office.com</li>
+<li> 13:21 rhul.sharepoint.com</li>
+<li> 13:21 outlook.office.com</li>
+<li> 12:57 projects.cs.rhul.ac.uk</li>
+<li> 12:54 outlook.office.com</li>
+<li> 12:53 gitlab.cim.rhul.ac.uk</li>
+<li> 12:47 <a href="https://en.wikipedia.org/wiki/Robert_C._Martin">Robert C. Martin - Wikipedia</a></li>
+<li> 12:47 duckduckgo.com</li>
+<li> 12:29 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 12:28 gitlab.cim.rhul.ac.uk</li>
+<li> 12:27 rhul-my.sharepoint.com</li>
+<li> 12:27 outlook.office.com</li>
+<li> 12:27 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:52 mail.google.com</li>
+<li> 11:52 equalitytime.github.io</li>
+<li> 11:50 outlook.office.com</li>
+<li> 11:50 outlook.office365.com</li>
+<li> 11:50 outlook.office.com</li>
+<li> 11:49 mail.google.com</li>
+<li class='same'> 11:48 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:05 outlook.office.com</li>
+<li class='same'> 11:01 outlook.office.com</li>
+<li class='same'> 10:56 outlook.office.com</li>
+<li> 10:43 duckduckgo.com</li>
+<li> 10:33 outlook.office.com</li>
+<li> 10:18 rhul.sharepoint.com</li>
+<li class='same'> 10:15 rhul.sharepoint.com</li>
+<li class='same'> 10:14 rhul.sharepoint.com</li>
+<li class='same'> 10:13 rhul.sharepoint.com</li>
+<li class='same'> 10:08 rhul.sharepoint.com</li>
+<li> 10:08 outlook.office.com</li>
+<li> 10:08 rhul.sharepoint.com</li>
+<li> 10:08 rhul-my.sharepoint.com</li>
+<li class='same'> 10:07 rhul-my.sharepoint.com</li>
+<li> 10:07 outlook.office.com</li>
+<li class='same'> 10:06 outlook.office.com</li>
+<li> 09:55 www.google.com</li>
+<li> 09:55 duckduckgo.com</li>
+<li class='same'> 09:54 duckduckgo.com</li>
+<li> 09:53 drive.google.com</li>
+<li> 09:51 mail.google.com</li>
+<li> 09:51 gmail.com</li>
+<li> 09:51 education.gov.scot</li>
+<li> 09:51 www.rpclegal.com</li>
+<li> 09:51 duckduckgo.com</li>
+<li> 09:46 outlook.office.com</li>
+<li class='same'> 09:41 outlook.office.com</li>
+<li> 09:41 outlook.office365.com</li>
+<li> 09:41 outlook.office.com</li>
+<li> 09:18 drive.google.com</li>
+<li> 09:17 rhul-my.sharepoint.com</li>
+<li class='same'> 09:16 rhul-my.sharepoint.com</li>
+<li class='same'> 09:13 rhul-my.sharepoint.com</li>
+<li> 09:12 mail.google.com</li>
+<li> 09:09 uofglasgow.zoom.us</li>
+<li> 09:09 mail.google.com</li>
+<li class='same'> 09:08 mail.google.com</li>
+<li class='same'> 09:07 mail.google.com</li>
+<li> 09:07 gmail.com</li>
+<li> 09:07 mail.google.com</li>
+<li> 09:07 gmail.com</li>
+<li> 09:06 equalitytime.github.io</li>
+<li> 09:00 feedly.com</li>
+<li class='same'> 08:59 feedly.com</li>
+<li> 08:58 outlook.office.com</li>
+<li class='same'> 08:57 outlook.office.com</li>
+<li> 08:57 outlook.office365.com</li>
+<li> 08:57 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:30 mail.google.com</li>
+<li> 07:30 gmail.com</li>
+<li> 07:30 equalitytime.github.io</li>
+<li class='same'> 07:29 equalitytime.github.io</li>
+<li> 07:29 github.com</li>
+<li> 07:29 equalitytime.github.io</li>
+<li> 07:25 duckduckgo.com</li>
+<li class='same'> 07:24 duckduckgo.com</li>
+<li class='same'> 07:19 duckduckgo.com</li>
+<li class='same'> 07:18 duckduckgo.com</li>
+<li class='same'> 07:17 duckduckgo.com</li>
+<li> 07:12 www.firstbus.co.uk</li>
+<li> 07:12 duckduckgo.com</li>
+<li> 07:10 <a href="https://en.wikipedia.org/wiki/First_Glasgow#/media/File:LG71DNF_First_Glasgow_64120_ADL_Enviro200EV_BYD_D9UR_(52511453657).jpg">LG71DNF First Glasgow 64120 ADL Enviro200EV BYD D9UR (52511453657) - First Glasgow - Wikipedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/wiki/First_Glasgow">First Glasgow - Wikipedia</a></li>
+<li> 07:10 www.google.com</li>
+<li> 07:08 what3words.com</li>
+<li class='same'> 07:07 what3words.com</li>
+<li> 07:07 duckduckgo.com</li>
+<li> 07:04 chatgpt.com</li>
+<li class='same'> 07:03 chatgpt.com</li>
+<li> 06:40 www.imdb.com</li>
+<li> 06:38 duckduckgo.com</li>
+<li> 06:37 mail.google.com</li>
+<li> 06:37 gmail.com</li>
+<li> 06:37 outlook.office.com</li>
+<li class='same'> 06:36 outlook.office.com</li>
+<li> 06:36 outlook.office365.com</li>
+<li> 06:36 outlook.office.com</li>
+<li> 06:27 chatgpt.com</li>
+<li> 06:21 feedly.com</li>
+<li class='same'> 06:20 feedly.com</li>
+<li> 06:20 dl.acm.org</li>
+<li> 06:20 feedly.com</li>
+<li class='same'> 06:19 feedly.com</li>
+<li class='same'> 06:18 feedly.com</li>
+</ul>
+
+<H3>Wednesday, 12/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:09 www.google.com</li>
+<li> 20:54 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 20:54 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 20:54 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
+<li> 20:54 www.theguardian.com</li>
+<li> 20:39 time.com</li>
+<li> 20:39 www.reddit.com</li>
+<li class='same'> 20:38 www.reddit.com</li>
+<li> 20:38 www.google.com</li>
+<li> 20:37 www.amazon.co.uk</li>
+<li> 20:25 chatgpt.com</li>
+<li> 20:23 www.gutenberg.org</li>
+<li> 20:23 duckduckgo.com</li>
+<li> 20:22 www.amazon.co.uk</li>
+<li class='same'> 20:21 www.amazon.co.uk</li>
+<li class='same'> 20:20 www.amazon.co.uk</li>
+<li> 20:19 docs.google.com</li>
+<li> 20:17 duckduckgo.com</li>
+<li> 20:14 mail.google.com</li>
+<li class='same'> 20:06 mail.google.com</li>
+<li> 19:53 rhul-my.sharepoint.com</li>
+<li class='same'> 19:52 rhul-my.sharepoint.com</li>
+<li> 19:31 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:13 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:42 www.amazon.co.uk</li>
+<li> 17:42 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:19 chatgpt.com</li>
+<li> 16:13 mail.google.com</li>
+<li> 16:13 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:33 rhul-my.sharepoint.com</li>
+<li> 15:30 mail.google.com</li>
+<li> 15:29 docs.google.com</li>
+<li> 15:29 drive.google.com</li>
+<li> 15:20 mail.google.com</li>
+<li class='same'> 15:19 mail.google.com</li>
+<li> 15:19 gmail.com</li>
+<li> 15:04 outlook.office.com</li>
+<li class='same'> 14:54 outlook.office.com</li>
+<li class='same'> 14:53 outlook.office.com</li>
+<li class='same'> 14:51 outlook.office.com</li>
+<li> 14:50 outlook.office365.com</li>
+<li> 14:40 rhul.sharepoint.com</li>
+<li> 14:12 mail.google.com</li>
+<li> 14:12 gmail.com</li>
+<li> 14:12 outlook.office.com</li>
+<li> 14:03 chatgpt.com</li>
+<li class='same'> 14:02 chatgpt.com</li>
+<li class='same'> 13:56 chatgpt.com</li>
+<li class='same'> 13:55 chatgpt.com</li>
+<li> 13:55 chat.openai.com</li>
+<li> 13:55 rhul.sharepoint.com</li>
+<li class='same'> 13:54 rhul.sharepoint.com</li>
+<li class='same'> 13:53 rhul.sharepoint.com</li>
+<li class='same'> 13:52 rhul.sharepoint.com</li>
+<li class='same'> 13:51 rhul.sharepoint.com</li>
+<li class='same'> 13:50 rhul.sharepoint.com</li>
+<li> 13:50 outlook.office.com</li>
+<li> 13:50 outlook.office365.com</li>
+<li> 13:50 outlook.office.com</li>
+<li> 13:49 rhul-my.sharepoint.com</li>
+<li> 13:44 outlook.office.com</li>
+<li class='same'> 13:43 outlook.office.com</li>
+<li class='same'> 13:42 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:10 mail.google.com</li>
+<li> 13:08 outlook.office.com</li>
+<li class='same'> 13:05 outlook.office.com</li>
+<li class='same'> 12:58 outlook.office.com</li>
+<li> 12:48 www.americastestkitchen.com</li>
+<li> 12:47 shungrill.com</li>
+<li> 12:47 duckduckgo.com</li>
+<li> 12:41 chatgpt.com</li>
+<li> 12:38 mail.google.com</li>
+<li class='same'> 12:37 mail.google.com</li>
+<li> 12:37 gmail.com</li>
+<li> 12:26 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:53 <a href="https://joereddington.com/assets/TeachingRoomFontSizes.pdf">Microsoft Word - Rooms with pictures for teaching award.docx - TeachingRoomFontSizes.pdf</a></li>
+<li> 11:53 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
+<li> 11:52 outlook.office.com</li>
+<li> 11:52 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:31 chatgpt.com</li>
+<li> 11:29 mail.google.com</li>
+<li> 11:29 outlook.office.com</li>
+<li> 11:25 calendar.google.com</li>
+<li> 11:24 publish.buffer.com</li>
+<li> 11:24 login.buffer.com</li>
+<li> 11:24 buffer.com</li>
+<li> 11:24 outlook.office365.com</li>
+<li> 11:24 mail.google.com</li>
+<li> 11:24 gmail.com</li>
+<li> 11:23 mail.google.com</li>
+<li class='same'> 11:22 mail.google.com</li>
+<li> 11:19 publish.buffer.com</li>
+<li> 11:18 languagetool.org</li>
+<li> 11:17 publish.buffer.com</li>
+<li class='same'> 11:16 publish.buffer.com</li>
+<li> 11:16 login.buffer.com</li>
+<li> 11:16 buffer.com</li>
+<li> 11:10 mail.google.com</li>
+<li> 11:05 account.adobe.com</li>
+<li> 11:05 auth.services.adobe.com</li>
+<li> 11:05 account.adobe.com</li>
+<li class='same'> 11:04 account.adobe.com</li>
+<li> 11:04 helpx.adobe.com</li>
+<li> 11:04 duckduckgo.com</li>
+<li> 11:04 mail.google.com</li>
+<li class='same'> 11:03 mail.google.com</li>
+<li> 11:03 outlook.office.com</li>
+<li class='same'> 11:02 outlook.office.com</li>
+<li> 11:02 gitlab.cim.rhul.ac.uk</li>
+<li> 11:02 outlook.office.com</li>
+<li> 11:01 myview.rhul.zellis.com</li>
+<li class='same'> 11:00 myview.rhul.zellis.com</li>
+<li class='same'> 10:57 myview.rhul.zellis.com</li>
+<li class='same'> 10:53 myview.rhul.zellis.com</li>
+<li class='same'> 10:52 myview.rhul.zellis.com</li>
+<li> 10:52 login.microsoftonline.com</li>
+<li> 10:52 myview.rhul.zellis.com</li>
+<li> 10:51 outlook.office.com</li>
+<li> 10:50 duckduckgo.com</li>
+<li> 10:50 mail.google.com</li>
+<li class='same'> 10:43 mail.google.com</li>
+<li> 10:43 gmail.com</li>
+<li> 10:40 www.westernunion.com</li>
+<li> 10:40 duckduckgo.com</li>
+<li> 10:31 mail.google.com</li>
+<li> 10:25 docs.google.com</li>
+<li> 10:25 drive.google.com</li>
+<li> 10:18 mail.google.com</li>
+<li> 10:17 outlook.office.com</li>
+<li> 10:01 www.myfonts.com</li>
+<li class='same'> 10:00 www.myfonts.com</li>
+<li> 10:00 duckduckgo.com</li>
+<li> 09:44 www.google.com</li>
+<li> 09:39 outlook.office.com</li>
+<li> 09:36 intranet.royalholloway.ac.uk</li>
+<li> 09:36 duckduckgo.com</li>
+<li> 09:35 chatgpt.com</li>
+<li class='same'> 09:34 chatgpt.com</li>
+<li class='same'> 09:33 chatgpt.com</li>
+<li> 09:33 chat.openai.com</li>
+<li> 09:28 <a href="https://www.youtube.com/watch?v=Sp6K3qpVFO0">(156) Introduction to Generative Fill | Adobe Photoshop - YouTube</a></li>
+<li> 09:27 <a href="https://www.youtube.com/results?search_query=photoshop+generative+fill">(156) photoshop generative fill - YouTube</a></li>
+<li> 09:27 <a href="https://www.youtube.com/">(192) YouTube</a></li>
+<li> 09:24 outlook.office.com</li>
+<li> 09:24 outlook.office365.com</li>
+<li> 09:24 mail.google.com</li>
+<li class='same'> 09:23 mail.google.com</li>
+<li> 09:22 myview.rhul.zellis.com</li>
+<li> 09:22 mail.google.com</li>
+<li> 09:17 chatgpt.com</li>
+<li class='same'> 09:16 chatgpt.com</li>
+<li> 09:13 outlook.office.com</li>
+<li class='same'> 09:12 outlook.office.com</li>
+<li> 09:12 mail.google.com</li>
+<li> 09:04 languagetool.org</li>
+<li> 09:04 addons.mozilla.org</li>
+<li> 09:04 duckduckgo.com</li>
+<li> 09:04 www.grammarly.com</li>
+<li> 09:04 duckduckgo.com</li>
+<li> 09:02 publish.buffer.com</li>
+<li> 09:02 login.buffer.com</li>
+<li> 09:02 buffer.com</li>
+<li> 09:02 <a href="https://en.wikipedia.org/wiki/Git">Git - Wikipedia</a></li>
+<li> 09:02 duckduckgo.com</li>
+<li> 09:01 mail.google.com</li>
+<li class='same'> 08:57 mail.google.com</li>
+<li> 08:56 gmail.com</li>
+<li> 08:56 mail.google.com</li>
+<li> 08:56 gmail.com</li>
+<li> 08:56 outlook.office.com</li>
+<li class='same'> 08:55 outlook.office.com</li>
+<li> 08:55 www.amazon.co.uk</li>
+<li> 08:55 outlook.office365.com</li>
+<li> 08:55 www.amazon.co.uk</li>
+<li class='same'> 08:54 www.amazon.co.uk</li>
+<li> 08:53 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:28 mail.google.com</li>
+<li> 07:19 outlook.office.com</li>
+<li> 07:19 zoom.us</li>
+<li class='same'> 07:18 zoom.us</li>
+<li> 07:18 duckduckgo.com</li>
+<li> 07:17 www.coursera.org</li>
+<li> 07:17 calendar.google.com</li>
+<li> 07:16 outlook.office.com</li>
+<li class='same'> 07:15 outlook.office.com</li>
+<li class='same'> 07:14 outlook.office.com</li>
+<li> 07:14 www.coursera.org</li>
+<li> 07:14 outlook.office.com</li>
+<li class='same'> 07:13 outlook.office.com</li>
+<li> 07:13 calendar.google.com</li>
+<li class='same'> 07:12 calendar.google.com</li>
+<li> 07:12 outlook.office.com</li>
+<li> 07:12 www.ncsc.gov.uk</li>
+<li> 07:12 outlook.office.com</li>
+<li class='same'> 07:10 outlook.office.com</li>
+<li class='same'> 07:08 outlook.office.com</li>
+<li class='same'> 07:06 outlook.office.com</li>
+<li class='same'> 07:05 outlook.office.com</li>
+<li class='same'> 07:03 outlook.office.com</li>
+<li class='same'> 07:02 outlook.office.com</li>
+<li class='same'> 07:01 outlook.office.com</li>
+<li class='same'> 07:00 outlook.office.com</li>
+<li class='same'> 06:49 outlook.office.com</li>
+<li class='same'> 06:46 outlook.office.com</li>
+<li> 06:45 rhul.hosted.panopto.com</li>
+<li> 06:45 login.microsoftonline.com</li>
+<li> 06:45 rhul.hosted.panopto.com</li>
+<li> 06:44 outlook.office.com</li>
+<li> 06:42 pure.royalholloway.ac.uk</li>
+<li> 06:42 duckduckgo.com</li>
+<li> 06:41 outlook.office.com</li>
+<li> 06:40 www.grammarly.com</li>
+<li> 06:40 duckduckgo.com</li>
+<li> 06:39 jobs.royalholloway.ac.uk</li>
+<li> 06:39 outlook.office.com</li>
+<li> 06:38 rhul.sharepoint.com</li>
+<li> 06:37 outlook.office.com</li>
+<li class='same'> 06:31 outlook.office.com</li>
+<li> 06:31 mail.google.com</li>
+<li> 06:28 myview.rhul.zellis.com</li>
+<li> 06:27 mail.google.com</li>
+<li> 06:25 bookings.silverstonemuseum.co.uk</li>
+<li> 06:25 mail.google.com</li>
+<li> 06:25 bookings.silverstonemuseum.co.uk</li>
+<li class='same'> 06:24 bookings.silverstonemuseum.co.uk</li>
+<li class='same'> 06:23 bookings.silverstonemuseum.co.uk</li>
+<li class='same'> 06:22 bookings.silverstonemuseum.co.uk</li>
+<li class='same'> 06:21 bookings.silverstonemuseum.co.uk</li>
+<li> 06:21 www.silverstonemuseum.co.uk</li>
+<li> 06:21 mail.google.com</li>
+<li> 06:21 outlook.office.com</li>
+<li class='same'> 06:20 outlook.office.com</li>
+<li> 06:14 chatgpt.com</li>
+<li> 06:14 chat.openai.com</li>
+<li> 06:07 www.google.com</li>
+<li> 06:04 duckduckgo.com</li>
+<li> 06:02 mail.google.com</li>
+<li class='same'> 06:01 mail.google.com</li>
+<li> 06:01 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:00 outlook.office.com</li>
+<li> 05:53 myview.rhul.zellis.com</li>
+<li class='same'> 05:52 myview.rhul.zellis.com</li>
+<li> 05:52 login.microsoftonline.com</li>
+<li> 05:52 myview.rhul.zellis.com</li>
+<li> 05:51 outlook.office.com</li>
+<li> 05:51 rhul.sharepoint.com</li>
+<li> 05:50 outlook.office.com</li>
+<li> 05:50 rhul.sharepoint.com</li>
+<li class='same'> 05:49 rhul.sharepoint.com</li>
+<li class='same'> 05:48 rhul.sharepoint.com</li>
+<li> 05:48 outlook.office.com</li>
+<li class='same'> 05:47 outlook.office.com</li>
+<li> 05:45 rhul.sharepoint.com</li>
+<li> 05:45 login.microsoftonline.com</li>
+<li> 05:45 outlook.office.com</li>
+<li class='same'> 05:44 outlook.office.com</li>
+<li class='same'> 05:43 outlook.office.com</li>
+<li> 05:43 rhul-my.sharepoint.com</li>
+<li> 05:40 outlook.office.com</li>
+<li> 05:40 outlook.office365.com</li>
+</ul>
+
+<H3>Tuesday, 11/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:36 www.theguardian.com</li>
+<li> 21:13 www.reddit.com</li>
+<li class='same'> 21:12 www.reddit.com</li>
+<li> 21:12 docs.google.com</li>
+<li> 21:10 <a href="https://www.youtube.com/shorts/WsJl4hRNYx8">(155) Mike Mentzer's SECRET Biceps EXERCISE!💪😲 - YouTube</a></li>
+<li> 21:09 <a href="https://www.youtube.com/shorts/aFPH3Fmn3vk">(155) When Jim Carrey Fight The Entire Audience for 2 Hours | #shorts - YouTube</a></li>
+<li> 21:07 <a href="https://www.youtube.com/shorts/DpDu_FzZsyI">(155) Walter Matthau's Hilarious Toilet Joke | December 10th, 1981 - YouTube</a></li>
+<li> 21:07 <a href="https://www.youtube.com/shorts/pOVbE0P5Qzc">(155) Carbs vs Fats for Fat Loss? | Dr Mike Israetel #Shorts - YouTube</a></li>
+<li> 21:07 <a href="https://www.youtube.com/shorts/6XcZIdF4uTo">(155) Making a Heart Box - YouTube</a></li>
+<li> 21:06 <a href="https://www.youtube.com/shorts/AwLT6m-rtrs">(155) the snowball effect is real #jetwashing #pressurewashing #roof #homeimprovement #fyp #cleaning - YouTube</a></li>
+<li> 21:06 <a href="https://www.youtube.com/shorts/JllsKe5sKco">(155) Reverse Gutter Cleaning #gutters #cleaning #satisfying #cleaningmotivation - YouTube</a></li>
+<li> 21:05 <a href="https://www.youtube.com/shorts/zOzzzbT-2qU">(155) What is Gutter Vac Cleaning - YouTube</a></li>
+<li> 21:05 <a href="https://www.youtube.com/shorts/tYI9zpzbtrw">(155) Effective Gutter Cleaning in Nottingham: Watch Us Clear Blocked Gutters with a Powerful Vacuum! - YouTube</a></li>
+<li> 21:05 <a href="https://www.youtube.com/shorts/zolCL3IRAUQ">(155) Effortless Way To Clean The Gutters - YouTube</a></li>
+<li> 21:05 <a href="https://www.youtube.com/shorts/bGgl0rmNDuo">(155) $200 in 30 min cleaning gutters ✅ #guttercleaning - YouTube</a></li>
+<li> 21:04 <a href="https://www.youtube.com/results?search_query=clearing+gutters">(155) clearing gutters - YouTube</a></li>
+<li> 21:03 <a href="https://www.youtube.com/watch?v=-zFoynqYkCM">(155) How to clear out gutters - YouTube</a></li>
+<li> 21:03 <a href="https://www.youtube.com/results?search_query=clearing+gutters">(155) clearing gutters - YouTube</a></li>
+<li> 21:02 <a href="https://www.youtube.com/">(192) YouTube</a></li>
+<li> 21:01 www.amazon.co.uk</li>
+<li> 21:01 duckduckgo.com</li>
+<li> 21:01 reductress.com</li>
+<li class='same'> 21:00 reductress.com</li>
+<li> 20:59 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:42 us06web.zoom.us</li>
+<li class='same'> 19:37 us06web.zoom.us</li>
+<li> 19:37 www.google.com</li>
+<li> 19:37 mail.google.com</li>
+<li class='same'> 19:36 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:03 www.theguardian.com</li>
+<li class='same'> 19:02 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:18 outlook.office.com</li>
+<li> 15:15 intranet.royalholloway.ac.uk</li>
+<li> 15:15 www.royalholloway.ac.uk</li>
+<li> 15:15 duckduckgo.com</li>
+<li> 15:11 rhul-my.sharepoint.com</li>
+<li class='same'> 15:10 rhul-my.sharepoint.com</li>
+<li> 15:10 outlook.office.com</li>
+<li class='same'> 15:08 outlook.office.com</li>
+<li> 15:08 outlook.office365.com</li>
+<li> 15:06 eprints.lse.ac.uk</li>
+<li> 15:06 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 15:04 librarysearch.royalholloway.ac.uk</li>
+<li> 15:00 chatgpt.com</li>
+<li> 15:00 chat.openai.com</li>
+<li> 14:59 calendar.google.com</li>
+<li> 14:44 rhul-my.sharepoint.com</li>
+<li> 14:35 duckduckgo.com</li>
+<li> 14:31 mail.google.com</li>
+<li> 14:20 www.reddit.com</li>
+<li> 14:19 mail.google.com</li>
+<li> 14:18 github.com</li>
+<li> 14:16 equalitytime.github.io</li>
+<li class='same'> 14:15 equalitytime.github.io</li>
+<li class='same'> 14:14 equalitytime.github.io</li>
+<li> 14:14 theopenvoicefactory.org</li>
+<li> 14:14 mail.google.com</li>
+<li class='same'> 14:13 mail.google.com</li>
+<li class='same'> 14:12 mail.google.com</li>
+<li> 14:10 www.facebook.com</li>
+<li class='same'> 14:07 www.facebook.com</li>
+<li> 14:07 duckduckgo.com</li>
+<li class='same'> 14:06 duckduckgo.com</li>
+<li> 14:02 www.facebook.com</li>
+<li class='same'> 14:01 www.facebook.com</li>
+<li> 14:01 bsky.app</li>
+<li> 14:00 docs.google.com</li>
+<li> 13:59 bsky.app</li>
+<li> 13:59 www.linkedin.com</li>
+<li class='same'> 13:58 www.linkedin.com</li>
+<li> 13:58 mail.google.com</li>
+<li class='same'> 13:57 mail.google.com</li>
+<li> 13:55 www.timeanddate.com</li>
+<li> 13:55 duckduckgo.com</li>
+<li> 13:54 mail.google.com</li>
+<li> 13:54 rhul-my.sharepoint.com</li>
+<li> 13:54 outlook.office.com</li>
+<li class='same'> 13:53 outlook.office.com</li>
+<li class='same'> 13:52 outlook.office.com</li>
+<li> 13:52 outlook.office365.com</li>
+<li> 13:51 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:16 www.asus.com</li>
+<li> 13:15 rog-forum.asus.com</li>
+<li> 13:15 www.google.com</li>
+<li> 13:15 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
+<li> 13:15 www.google.com</li>
+<li> 13:14 www.techpowerup.com</li>
+<li> 13:14 www.google.com</li>
+<li class='same'> 13:13 www.google.com</li>
+<li> 13:13 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
+<li> 13:12 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li class='same'> 13:11 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li class='same'> 13:10 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li class='same'> 13:09 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li class='same'> 13:08 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li class='same'> 13:07 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li class='same'> 13:06 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li class='same'> 13:05 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li> 13:04 login.openathens.net</li>
+<li> 13:04 librarysearch.royalholloway.ac.uk</li>
+<li> 13:04 login.openathens.net</li>
+<li> 13:04 login.microsoftonline.com</li>
+<li> 13:04 device.login.microsoftonline.com</li>
+<li> 13:04 login.microsoftonline.com</li>
+<li> 13:04 librarysearch.royalholloway.ac.uk</li>
+<li> 13:03 www.google.com</li>
+<li> 13:02 learn.microsoft.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:26 weather.metoffice.gov.uk</li>
+<li> 12:26 duckduckgo.com</li>
+<li> 12:23 www.reddit.com</li>
+<li> 12:23 duckduckgo.com</li>
+<li> 12:22 www.reddit.com</li>
+<li> 12:22 duckduckgo.com</li>
+<li> 12:20 feedly.com</li>
+<li> 12:19 jobs.royalholloway.ac.uk</li>
+<li> 12:18 duckduckgo.com</li>
+<li> 12:18 mail.google.com</li>
+<li> 12:17 duckduckgo.com</li>
+<li class='same'> 12:16 duckduckgo.com</li>
+<li> 12:16 jobs.royalholloway.ac.uk</li>
+<li class='same'> 12:15 jobs.royalholloway.ac.uk</li>
+<li> 12:15 mail.google.com</li>
+<li class='same'> 12:10 mail.google.com</li>
+<li class='same'> 12:07 mail.google.com</li>
+<li> 12:06 salamanderstoves.com</li>
+<li> 12:06 duckduckgo.com</li>
+<li> 12:05 mail.google.com</li>
+<li> 12:02 www.google.com</li>
+<li> 12:02 gettingthingsdone.com</li>
+<li> 12:00 duckduckgo.com</li>
+<li> 12:00 www.agacookshop.co.uk</li>
+<li class='same'> 11:59 www.agacookshop.co.uk</li>
+<li class='same'> 11:58 www.agacookshop.co.uk</li>
+<li> 11:58 duckduckgo.com</li>
+<li> 11:58 www.topstak.co.uk</li>
+<li> 11:58 duckduckgo.com</li>
+<li> 11:42 discussions.apple.com</li>
+<li> 11:42 duckduckgo.com</li>
+<li> 11:40 mail.google.com</li>
+<li class='same'> 11:38 mail.google.com</li>
+<li> 11:34 www.gov.uk</li>
+<li> 11:32 assets.publishing.service.gov.uk</li>
+<li> 11:32 www.gov.uk</li>
+<li> 11:32 duckduckgo.com</li>
+<li> 11:26 www.google.co.uk</li>
+<li> 11:26 duckduckgo.com</li>
+<li> 11:25 mail.google.com</li>
+<li class='same'> 11:24 mail.google.com</li>
+<li> 11:24 studio.youtube.com</li>
+<li> 11:23 <a href="https://www.youtube.com/">(192) YouTube</a></li>
+<li> 11:22 mail.google.com</li>
+<li> 11:21 outlook.office.com</li>
+<li> 11:21 mail.google.com</li>
+<li class='same'> 11:20 mail.google.com</li>
+<li class='same'> 11:19 mail.google.com</li>
+<li> 11:16 chatgpt.com</li>
+<li> 11:16 chat.openai.com</li>
+<li> 11:16 www.forbes.com</li>
+<li> 11:15 duckduckgo.com</li>
+<li> 11:13 calendar.google.com</li>
+<li> 11:13 duckduckgo.com</li>
+<li> 11:13 mail.google.com</li>
+<li> 11:12 outlook.office.com</li>
+<li> 11:11 docs.google.com</li>
+<li> 11:09 outlook.office.com</li>
+<li> 11:09 outlook.office365.com</li>
+<li> 11:09 duckduckgo.com</li>
+<li> 11:03 www.google.com</li>
+<li> 10:48 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
+<li> 10:23 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:48 outlook.office.com</li>
+<li class='same'> 09:46 outlook.office.com</li>
+<li class='same'> 09:42 outlook.office.com</li>
+<li> 09:34 www.coursera.org</li>
+<li class='same'> 09:33 www.coursera.org</li>
+<li class='same'> 09:32 www.coursera.org</li>
+<li class='same'> 09:31 www.coursera.org</li>
+<li> 09:31 outlook.office.com</li>
+<li> 09:31 time.is</li>
+<li class='same'> 09:30 time.is</li>
+<li> 09:30 duckduckgo.com</li>
+<li> 09:30 outlook.office.com</li>
+<li class='same'> 09:28 outlook.office.com</li>
+<li> 09:28 rhul-my.sharepoint.com</li>
+<li class='same'> 09:27 rhul-my.sharepoint.com</li>
+<li> 09:27 outlook.office.com</li>
+<li> 09:27 login.microsoftonline.com</li>
+<li> 09:27 outlook.office365.com</li>
+<li> 09:26 mail.google.com</li>
+<li class='same'> 09:25 mail.google.com</li>
+<li> 09:21 www.ncsc.gov.uk</li>
+<li> 09:21 duckduckgo.com</li>
+<li> 09:21 <a href="https://en.wikipedia.org/wiki/File:NCSC_(UK)_logo.png">File:NCSC (UK) logo.png - Wikipedia</a></li>
+<li> 09:21 <a href="https://en.wikipedia.org/wiki/National_Cyber_Security_Centre_(United_Kingdom)#/media/File:NCSC_(UK)_logo.png">NCSC (UK) logo - National Cyber Security Centre (United Kingdom) - Wikipedia</a></li>
+<li> 09:21 <a href="https://en.wikipedia.org/wiki/National_Cyber_Security_Centre_(United_Kingdom)">National Cyber Security Centre (United Kingdom) - Wikipedia</a></li>
+<li> 09:21 duckduckgo.com</li>
+<li> 09:21 commons.wikimedia.org</li>
+<li> 09:20 upload.wikimedia.org</li>
+<li> 09:20 commons.wikimedia.org</li>
+<li> 09:20 duckduckgo.com</li>
+<li> 09:19 mail.google.com</li>
+<li class='same'> 09:17 mail.google.com</li>
+<li class='same'> 09:16 mail.google.com</li>
+<li> 09:16 docs.google.com</li>
+<li> 09:16 drive.google.com</li>
+<li> 09:05 mail.google.com</li>
+<li> 09:04 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 09:01 mail.google.com</li>
+<li> 09:01 accounts.google.com</li>
+<li> 09:00 rhul-my.sharepoint.com</li>
+<li class='same'> 08:58 rhul-my.sharepoint.com</li>
+<li> 08:57 mail.google.com</li>
+<li> 08:56 outlook.office.com</li>
+<li class='same'> 08:55 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:30 outlook.office.com</li>
+<li> 07:30 outlook.office365.com</li>
+<li> 07:30 mail.google.com</li>
+<li class='same'> 07:29 mail.google.com</li>
+<li> 07:26 www.silverstonemuseum.co.uk</li>
+<li> 07:26 duckduckgo.com</li>
+<li class='same'> 07:25 duckduckgo.com</li>
+<li> 07:25 mail.google.com</li>
+<li> 07:25 calendar.google.com</li>
+<li> 07:25 mail.google.com</li>
+<li> 07:25 calendar.google.com</li>
+<li> 07:25 mail.google.com</li>
+<li class='same'> 07:24 mail.google.com</li>
+<li> 07:24 feedly.com</li>
+<li> 07:22 duckduckgo.com</li>
+<li> 07:21 www.ons.gov.uk</li>
+<li class='same'> 07:19 www.ons.gov.uk</li>
+<li> 07:19 duckduckgo.com</li>
+<li> 07:19 www.statista.com</li>
+<li class='same'> 07:18 www.statista.com</li>
+<li> 07:17 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 07:16 mail.google.com</li>
+<li> 07:16 calendar.google.com</li>
+<li class='same'> 07:15 calendar.google.com</li>
+<li> 07:15 mail.google.com</li>
+<li> 07:15 feedly.com</li>
+<li class='same'> 07:13 feedly.com</li>
+<li> 07:11 kdpreports.amazon.com</li>
+<li> 07:11 kdp.amazon.com</li>
+<li> 07:10 mail.google.com</li>
+<li> 07:10 ifttt.com</li>
+<li> 07:10 mail.google.com</li>
+<li class='same'> 07:09 mail.google.com</li>
+<li> 07:08 connect.mozilla.org</li>
+<li class='same'> 07:07 connect.mozilla.org</li>
+<li> 07:07 www.reddit.com</li>
+<li> 07:07 duckduckgo.com</li>
+<li> 07:06 openai.com</li>
+<li> 07:06 duckduckgo.com</li>
+<li class='same'> 07:05 duckduckgo.com</li>
+<li> 07:05 apply.tesco-careers.com</li>
+<li class='same'> 07:04 apply.tesco-careers.com</li>
+<li> 07:04 www.monster.co.uk</li>
+<li> 07:04 apply.tesco-careers.com</li>
+<li> 07:04 www.monster.co.uk</li>
+<li> 07:04 mail.google.com</li>
+<li> 07:03 identity.monster.com</li>
+<li> 07:02 www.monster.co.uk</li>
+<li> 07:02 mail.google.com</li>
+<li class='same'> 07:01 mail.google.com</li>
+<li class='same'> 07:00 mail.google.com</li>
+<li> 07:00 www.ebay.co.uk</li>
+<li> 07:00 mail.google.com</li>
+<li class='same'> 06:59 mail.google.com</li>
+<li> 06:59 jobs.royalholloway.ac.uk</li>
+<li class='same'> 06:58 jobs.royalholloway.ac.uk</li>
+<li> 06:58 mail.google.com</li>
+<li> 06:58 www.gov.uk</li>
+<li> 06:55 methodurl.psp-solutions.com</li>
+<li> 06:53 courtfines.justice.gov.uk</li>
+<li> 06:53 www.gov.uk</li>
+<li> 06:49 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:49 www.sfadb.com</li>
+<li class='same'> 06:48 www.sfadb.com</li>
+<li class='same'> 06:47 www.sfadb.com</li>
+<li> 06:47 www.google.com</li>
+<li> 06:45 docs.google.com</li>
+<li class='same'> 06:43 docs.google.com</li>
+</ul>
+
+<H3>Monday, 10/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:07 www.gov.uk</li>
+<li> 21:07 duckduckgo.com</li>
+<li> 21:06 www.ncsc.gov.uk</li>
+<li> 21:06 chatgpt.com</li>
+<li> 21:06 chat.openai.com</li>
+<li> 21:06 duckduckgo.com</li>
+<li> 21:06 outlook.office.com</li>
+<li> 21:02 www.tesco.com</li>
+<li> 21:02 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:29 www.reddit.com</li>
+<li> 20:29 www.google.com</li>
+<li> 20:29 www.reddit.com</li>
+<li> 20:29 www.google.com</li>
+<li> 20:26 www.reddit.com</li>
+<li> 20:26 www.google.com</li>
+<li> 20:25 www.reddit.com</li>
+<li> 20:25 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:46 mail.google.com</li>
+<li> 19:45 www.parliament.uk</li>
+<li> 19:45 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:54 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:54 www.reddit.com</li>
+<li> 17:54 en.androidayuda.com</li>
+<li> 17:53 duolingo.fandom.com</li>
+<li> 17:53 www.reddit.com</li>
+<li> 17:53 duckduckgo.com</li>
+<li> 17:52 www.bigbarn.co.uk</li>
+<li class='same'> 17:51 www.bigbarn.co.uk</li>
+<li> 17:51 duckduckgo.com</li>
+<li> 17:50 www.theguardian.com</li>
+<li> 17:26 <a href="https://www.youtube.com/watch?v=yQTFH91T570">(152) Scratch 3.0 - How to make a sprite continuously rotate from side to side - YouTube</a></li>
+<li> 17:26 duckduckgo.com</li>
+<li> 17:07 www.istockphoto.com</li>
+<li> 17:07 www.google.com</li>
+<li> 17:07 duckduckgo.com</li>
+<li> 17:02 chatgpt.com</li>
+<li class='same'> 17:01 chatgpt.com</li>
+<li> 16:33 outlook.office.com</li>
+<li> 16:32 mail.google.com</li>
+<li> 16:31 theopenvoicefactory.org</li>
+<li> 16:31 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:43 www.google.com</li>
+<li class='same'> 15:39 www.google.com</li>
+<li> 15:31 mail.google.com</li>
+<li class='same'> 15:29 mail.google.com</li>
+<li class='same'> 15:24 mail.google.com</li>
+<li class='same'> 15:22 mail.google.com</li>
+<li> 15:20 feedly.com</li>
+<li class='same'> 15:19 feedly.com</li>
+<li> 15:15 chatgpt.com</li>
+<li> 15:11 www.reddit.com</li>
+<li> 15:07 github.com</li>
+<li class='same'> 15:06 github.com</li>
+<li> 15:05 mail.google.com</li>
+<li> 15:05 outlook.office.com</li>
+<li> 15:04 mail.google.com</li>
+<li> 15:02 www.reddit.com</li>
+<li class='same'> 15:01 www.reddit.com</li>
+<li> 14:59 outlook.office.com</li>
+<li> 14:49 www.reddit.com</li>
+<li> 14:49 www.google.com</li>
+<li> 14:45 mail.google.com</li>
+<li> 14:40 docs.google.com</li>
+<li> 14:40 duckduckgo.com</li>
+<li> 14:37 mail.google.com</li>
+<li class='same'> 14:36 mail.google.com</li>
+<li> 14:36 www.doxdirect.com</li>
+<li> 14:35 www.paypal.com</li>
+<li> 14:35 www.doxdirect.com</li>
+<li class='same'> 14:34 www.doxdirect.com</li>
+<li class='same'> 14:33 www.doxdirect.com</li>
+<li class='same'> 14:32 www.doxdirect.com</li>
+<li> 14:24 chatgpt.com</li>
+<li> 14:08 calendar.google.com</li>
+<li> 14:06 lite.classdojo.com</li>
+<li> 14:06 mail.google.com</li>
+<li> 13:51 www.doxdirect.com</li>
+<li class='same'> 13:50 www.doxdirect.com</li>
+<li class='same'> 13:49 www.doxdirect.com</li>
+<li class='same'> 13:48 www.doxdirect.com</li>
+<li> 13:47 <a href="https://en.wikipedia.org/wiki/Nut_graph">Nut graph - Wikipedia</a></li>
+<li> 13:46 <a href="https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines">Betteridge's law of headlines - Wikipedia</a></li>
+<li> 13:46 duckduckgo.com</li>
+<li> 13:45 outlook.office.com</li>
+<li> 13:39 chatgpt.com</li>
+<li> 13:39 chat.openai.com</li>
+<li> 13:37 www.doxdirect.com</li>
+<li class='same'> 13:36 www.doxdirect.com</li>
+<li> 13:35 outlook.office.com</li>
+<li> 13:34 calendar.google.com</li>
+<li> 13:33 mail.google.com</li>
+<li class='same'> 13:32 mail.google.com</li>
+<li class='same'> 13:31 mail.google.com</li>
+<li class='same'> 13:30 mail.google.com</li>
+<li class='same'> 13:29 mail.google.com</li>
+<li class='same'> 13:27 mail.google.com</li>
+<li class='same'> 13:26 mail.google.com</li>
+<li class='same'> 13:25 mail.google.com</li>
+<li class='same'> 13:23 mail.google.com</li>
+<li class='same'> 13:21 mail.google.com</li>
+<li class='same'> 13:19 mail.google.com</li>
+<li class='same'> 13:13 mail.google.com</li>
+<li> 13:13 www.verywellfit.com</li>
+<li> 13:13 duckduckgo.com</li>
+<li> 13:13 mail.google.com</li>
+<li class='same'> 13:12 mail.google.com</li>
+<li class='same'> 13:11 mail.google.com</li>
+<li class='same'> 13:09 mail.google.com</li>
+<li class='same'> 13:08 mail.google.com</li>
+<li class='same'> 13:07 mail.google.com</li>
+<li class='same'> 13:06 mail.google.com</li>
+<li> 13:05 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:31 mail.google.com</li>
+<li class='same'> 12:28 mail.google.com</li>
+<li class='same'> 12:27 mail.google.com</li>
+<li class='same'> 12:26 mail.google.com</li>
+<li class='same'> 12:20 mail.google.com</li>
+<li class='same'> 12:18 mail.google.com</li>
+<li class='same'> 12:09 mail.google.com</li>
+<li> 12:05 duckduckgo.com</li>
+<li> 11:58 outlook.office.com</li>
+<li class='same'> 11:33 outlook.office.com</li>
+<li> 11:30 gitlab.cim.rhul.ac.uk</li>
+<li> 11:30 outlook.office.com</li>
+<li> 11:18 projects.cs.rhul.ac.uk</li>
+<li> 11:07 outlook.office.com</li>
+<li class='same'> 11:05 outlook.office.com</li>
+<li class='same'> 11:03 outlook.office.com</li>
+<li class='same'> 11:02 outlook.office.com</li>
+<li> 11:02 mysignins.microsoft.com</li>
+<li> 11:02 login.microsoftonline.com</li>
+<li> 11:02 account.activedirectory.windowsazure.com</li>
+<li> 11:02 login.microsoftonline.com</li>
+<li> 11:02 account.activedirectory.windowsazure.com</li>
+<li> 11:02 login.microsoftonline.com</li>
+<li> 11:01 mail.google.com</li>
+<li class='same'> 10:59 mail.google.com</li>
+<li> 10:57 docs.google.com</li>
+<li> 10:56 mail.google.com</li>
+<li class='same'> 10:55 mail.google.com</li>
+<li class='same'> 10:54 mail.google.com</li>
+<li class='same'> 10:52 mail.google.com</li>
+<li> 10:52 drive.google.com</li>
+<li> 10:52 mail.google.com</li>
+<li class='same'> 10:51 mail.google.com</li>
+<li class='same'> 10:50 mail.google.com</li>
+<li class='same'> 10:49 mail.google.com</li>
+<li> 10:47 www.doxdirect.com</li>
+<li class='same'> 10:46 www.doxdirect.com</li>
+<li class='same'> 10:45 www.doxdirect.com</li>
+<li> 10:44 mail.google.com</li>
+<li> 10:42 www.doxdirect.com</li>
+<li class='same'> 10:41 www.doxdirect.com</li>
+<li class='same'> 10:39 www.doxdirect.com</li>
+<li class='same'> 10:37 www.doxdirect.com</li>
+<li class='same'> 10:36 www.doxdirect.com</li>
+<li> 10:36 duckduckgo.com</li>
+<li> 10:36 www.doxdirect.com</li>
+<li class='same'> 10:33 www.doxdirect.com</li>
+<li class='same'> 10:23 www.doxdirect.com</li>
+<li> 10:19 fast.com</li>
+<li> 10:18 mail.google.com</li>
+<li class='same'> 10:17 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:47 duckduckgo.com</li>
+<li> 09:31 chatgpt.com</li>
+<li> 09:30 www.dafont.com</li>
+<li> 09:30 mail.google.com</li>
+<li> 09:30 duckduckgo.com</li>
+<li> 09:23 www.doxdirect.com</li>
+<li class='same'> 09:22 www.doxdirect.com</li>
+<li> 09:21 comicprintinguk.com</li>
+<li> 09:21 www.google.com</li>
+<li> 09:21 duckduckgo.com</li>
+<li class='same'> 09:20 duckduckgo.com</li>
+<li> 09:20 mixam.com</li>
+<li> 09:20 mixam.co.uk</li>
+<li> 09:20 duckduckgo.com</li>
+<li> 09:03 policies.google.com</li>
+<li> 09:00 mail.google.com</li>
+<li class='same'> 08:59 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:31 mail.google.com</li>
+<li class='same'> 07:30 mail.google.com</li>
+<li class='same'> 07:24 mail.google.com</li>
+<li class='same'> 07:23 mail.google.com</li>
+<li class='same'> 07:22 mail.google.com</li>
+<li class='same'> 07:19 mail.google.com</li>
+<li class='same'> 07:18 mail.google.com</li>
+<li class='same'> 07:17 mail.google.com</li>
+<li class='same'> 07:16 mail.google.com</li>
+<li class='same'> 07:15 mail.google.com</li>
+<li class='same'> 07:14 mail.google.com</li>
+<li class='same'> 07:12 mail.google.com</li>
+<li class='same'> 07:11 mail.google.com</li>
+<li class='same'> 07:10 mail.google.com</li>
+<li class='same'> 07:09 mail.google.com</li>
+<li class='same'> 07:07 mail.google.com</li>
+<li class='same'> 07:04 mail.google.com</li>
+<li> 07:03 chatgpt.com</li>
+<li class='same'> 07:02 chatgpt.com</li>
+<li> 07:02 chat.openai.com</li>
+<li> 06:59 mail.google.com</li>
+<li class='same'> 06:58 mail.google.com</li>
+<li> 06:57 docs.google.com</li>
+<li> 06:57 drive.google.com</li>
+<li> 06:57 mail.google.com</li>
+<li> 06:53 www.tesco.com</li>
+<li> 06:52 docs.google.com</li>
+<li> 06:49 <a href="https://en.wikipedia.org/wiki/Erin_Morgenstern">Erin Morgenstern - Wikipedia</a></li>
+<li> 06:49 duckduckgo.com</li>
+<li> 06:47 www.amazon.co.uk</li>
+<li> 06:47 docs.google.com</li>
+</ul>
+
+<H3>Sunday, 09/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 18:20 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:14 www.google.com</li>
+<li> 13:01 www.reddit.com</li>
+<li class='same'> 12:40 www.reddit.com</li>
+<li class='same'> 12:33 www.reddit.com</li>
+<li class='same'> 12:32 www.reddit.com</li>
+<li> 12:32 www.google.com</li>
+<li> 12:32 www.colwillandpeddle.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:30 www.carwow.co.uk</li>
+<li> 11:30 www.google.com</li>
+<li> 11:23 tvtropes.org</li>
+<li class='same'> 11:22 tvtropes.org</li>
+<li> 11:22 www.google.com</li>
+<li class='same'> 11:21 www.google.com</li>
+<li> 11:20 www.autotrader.co.uk</li>
+<li class='same'> 11:19 www.autotrader.co.uk</li>
+<li class='same'> 11:18 www.autotrader.co.uk</li>
+<li class='same'> 11:17 www.autotrader.co.uk</li>
+<li> 11:05 www.reddit.com</li>
+<li> 11:05 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:43 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:34 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 08:34 media.defcon.org</li>
+</ul>
+
+<br>
+
+<ul><li> 07:45 www.google.com</li>
+</ul>
+
+<H3>Saturday, 08/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 22:17 tvtropes.org</li>
+<li class='same'> 22:09 tvtropes.org</li>
+<li class='same'> 22:08 tvtropes.org</li>
+<li class='same'> 22:05 tvtropes.org</li>
+<li class='same'> 22:04 tvtropes.org</li>
+<li class='same'> 22:02 tvtropes.org</li>
+<li class='same'> 21:59 tvtropes.org</li>
+<li class='same'> 21:54 tvtropes.org</li>
+<li> 21:54 www.google.com</li>
+<li> 21:45 www.reddit.com</li>
+<li> 21:45 www.google.com</li>
+<li> 21:44 www.reddit.com</li>
+<li> 21:44 www.google.com</li>
+<li> 21:44 standardebooks.org</li>
+<li> 21:43 www.reddit.com</li>
+<li> 21:43 www.google.com</li>
+<li> 21:42 www.gutenberg.org</li>
+<li class='same'> 21:41 www.gutenberg.org</li>
+<li class='same'> 21:40 www.gutenberg.org</li>
+<li class='same'> 21:39 www.gutenberg.org</li>
+<li class='same'> 21:38 www.gutenberg.org</li>
+<li> 21:38 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:56 www.etymonline.com</li>
+<li> 19:56 www.google.com</li>
+<li class='same'> 19:55 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:18 hackaday.com</li>
+<li class='same'> 18:17 hackaday.com</li>
+<li> 18:16 www.ebay.co.uk</li>
+<li class='same'> 18:15 www.ebay.co.uk</li>
+<li class='same'> 18:14 www.ebay.co.uk</li>
+<li> 18:13 hackaday.com</li>
+<li class='same'> 18:12 hackaday.com</li>
+<li class='same'> 18:11 hackaday.com</li>
+<li class='same'> 18:10 hackaday.com</li>
+<li> 18:10 duckduckgo.com</li>
+<li> 18:09 feedly.com</li>
+<li class='same'> 18:08 feedly.com</li>
+<li> 18:08 www.facebook.com</li>
+<li class='same'> 18:07 www.facebook.com</li>
+<li class='same'> 18:06 www.facebook.com</li>
+<li class='same'> 18:05 www.facebook.com</li>
+<li> 18:04 feedly.com</li>
+<li class='same'> 18:02 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:03 www.google.com</li>
+<li> 16:44 docs.google.com</li>
+<li> 16:43 publish.buffer.com</li>
+<li> 16:43 login.buffer.com</li>
+<li> 16:43 buffer.com</li>
+<li> 16:43 bsky.app</li>
+<li class='same'> 16:40 bsky.app</li>
+<li class='same'> 16:39 bsky.app</li>
+<li class='same'> 16:38 bsky.app</li>
+<li class='same'> 16:37 bsky.app</li>
+<li class='same'> 16:25 bsky.app</li>
+<li> 16:25 www.google.com</li>
+<li> 16:25 www.linkedin.com</li>
+<li class='same'> 16:24 www.linkedin.com</li>
+<li> 16:24 www.google.com</li>
+<li> 16:24 duckduckgo.com</li>
+<li> 16:24 www.linkedin.com</li>
+<li class='same'> 16:23 www.linkedin.com</li>
+<li> 16:19 docs.google.com</li>
+<li> 15:55 keto-mojo.com</li>
+<li> 15:55 duckduckgo.com</li>
+<li> 15:52 www.verywellhealth.com</li>
+<li> 15:51 www.diabetes.co.uk</li>
+<li> 15:51 duckduckgo.com</li>
+<li> 15:51 chatgpt.com</li>
+<li> 15:49 www.mayoclinic.org</li>
+<li> 15:49 duckduckgo.com</li>
+<li> 15:48 chatgpt.com</li>
+<li> 15:46 www.bhf.org.uk</li>
+<li> 15:45 duckduckgo.com</li>
+<li class='same'> 15:42 duckduckgo.com</li>
+<li> 15:41 www.reddit.com</li>
+<li class='same'> 15:40 www.reddit.com</li>
+<li> 15:40 duckduckgo.com</li>
+<li> 15:40 <a href="https://en.wikipedia.org/wiki/Blood_sugar_level">Blood sugar level - Wikipedia</a></li>
+<li> 15:40 duckduckgo.com</li>
+<li> 15:38 docs.google.com</li>
+<li> 15:36 www.tesco.com</li>
+<li> 15:36 www.google.com</li>
+<li> 15:33 www.hotelchocolat.com</li>
+<li> 15:33 duckduckgo.com</li>
+<li> 15:29 www.aupress.ca</li>
+<li> 15:28 shimamurapubs.wordpress.com</li>
+<li> 15:27 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li> 15:27 login.openathens.net</li>
+<li> 15:27 login.microsoftonline.com</li>
+<li> 15:26 rl.talis.com</li>
+<li> 15:25 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:24 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:23 moodle.royalholloway.ac.uk</li>
+<li> 15:23 login.microsoftonline.com</li>
+<li> 15:22 moodle.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 08:34 www.theguardian.com</li>
+<li> 08:33 www.reddit.com</li>
+<li class='same'> 08:27 www.reddit.com</li>
+<li class='same'> 08:24 www.reddit.com</li>
+<li> 08:15 docs.google.com</li>
+<li class='same'> 08:13 docs.google.com</li>
+<li class='same'> 08:12 docs.google.com</li>
+<li> 08:05 insidethemagic.net</li>
+<li> 08:05 duckduckgo.com</li>
+</ul>
+
 <H3>Friday, 07/02/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:46 equalitytime.github.io</li>
+<li> 21:46 mail.google.com</li>
+<li> 21:45 equalitytime.github.io</li>
+<li class='same'> 21:24 equalitytime.github.io</li>
+<li> 21:16 chatgpt.com</li>
+<li class='same'> 21:08 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:11 outlook.office.com</li>
+</ul>
 
 <br>
 
@@ -223,11 +2767,13 @@ With number of accesses/minutes in parentheses
 <li> 14:30 gmail.com</li>
 <li> 14:20 docs.google.com</li>
 <li> 14:14 www.reddit.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:31 docs.google.com</li>
+<li> 14:01 media.defcon.org</li>
+<li> 14:01 defcon.org</li>
+<li class='same'> 14:00 defcon.org</li>
+<li> 14:00 www.google.com</li>
+<li> 14:00 www.q-dance.com</li>
+<li> 14:00 www.google.com</li>
+<li> 13:31 docs.google.com</li>
 <li> 13:28 outlook.office.com</li>
 <li> 13:25 web.whatsapp.com</li>
 <li> 13:25 outlook.office.com</li>
@@ -379,7 +2925,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 23:10 publish.buffer.com</li>
+<ul><li> 23:33 tvtropes.org</li>
+<li class='same'> 23:31 tvtropes.org</li>
+<li> 23:31 www.google.com</li>
+<li> 23:21 www.hcipretoria.gov.in</li>
+<li> 23:21 www.google.com</li>
+<li> 23:21 www.colwillandpeddle.com</li>
+<li> 23:10 publish.buffer.com</li>
 <li class='same'> 23:09 publish.buffer.com</li>
 <li> 23:09 account.buffer.com</li>
 <li> 23:09 publish.buffer.com</li>
@@ -476,7 +3028,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:28 <a href="https://www.youtube.com/watch?v=AzMo-FgRp64">(144) The Fantastic Four: First Steps | Official Teaser | Only in Theaters July 25 - YouTube</a></li>
 <li> 10:28 <a href="https://www.youtube.com/results?search_query=trailer">(144) trailer - YouTube</a></li>
-<li> 10:27 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 10:27 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 10:14 bsky.app</li>
 <li> 10:14 duckduckgo.com</li>
 <li class='same'> 10:13 duckduckgo.com</li>
@@ -670,10 +3222,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:21 chatgpt.com</li>
 <li> 17:21 chat.openai.com</li>
 <li> 17:17 <a href="https://www.youtube.com/watch?v=Y4xrMkl5yJs">(142) Exercise Scientist Critiques Hulk Hogan's Training and Diet - YouTube</a></li>
-<li> 17:17 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 17:17 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 17:13 <a href="https://www.youtube.com/watch?v=wno_qUB02lM&t=123s">(142) Jamie’s Green Curry | Jamie Oliver - YouTube</a></li>
 <li> 17:12 <a href="https://www.youtube.com/results?search_query=thai+curry">(142) thai curry - YouTube</a></li>
-<li> 17:12 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 17:12 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 17:11 docs.google.com</li>
 <li class='same'> 17:10 docs.google.com</li>
 <li class='same'> 17:09 docs.google.com</li>
@@ -1237,7 +3789,10 @@ With number of accesses/minutes in parentheses
 <li> 20:17 <a href="https://en.wikipedia.org/wiki/Apollo_Guidance_Computer">Apollo Guidance Computer - Wikipedia</a></li>
 <li> 20:17 duckduckgo.com</li>
 <li> 20:16 chatgpt.com</li>
-<li> 19:48 tvtropes.org</li>
+<li> 19:55 www.colwillandpeddle.com</li>
+<li> 19:55 www.google.com</li>
+<li> 19:51 tvtropes.org</li>
+<li class='same'> 19:48 tvtropes.org</li>
 <li> 19:48 www.google.com</li>
 </ul>
 
@@ -1580,7 +4135,7 @@ With number of accesses/minutes in parentheses
 <li> 15:09 duckduckgo.com</li>
 <li> 15:09 <a href="https://www.youtube.com/shorts/y6nfycF8fSI">(135) Pivot hinges for cabinet #diycrafts #carpenter - YouTube</a></li>
 <li> 15:09 <a href="https://www.youtube.com/results?search_query=pivot+hinge">(135) pivot hinge - YouTube</a></li>
-<li> 15:09 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 15:09 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 15:09 duckduckgo.com</li>
 <li> 15:07 www.diydoctor.org.uk</li>
 <li> 15:07 duckduckgo.com</li>
@@ -2644,7 +5199,7 @@ With number of accesses/minutes in parentheses
 <li> 07:14 www.reddit.com</li>
 <li> 07:14 duckduckgo.com</li>
 <li> 07:13 <a href="https://www.youtube.com/results?search_query=progression+to+chin+ups">(128) progression to chin ups - YouTube</a></li>
-<li> 07:13 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 07:13 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 07:13 outlook.office365.com</li>
 <li> 07:13 outlook.office.com</li>
 <li> 06:57 www.theguardian.com</li>
@@ -3178,7 +5733,7 @@ With number of accesses/minutes in parentheses
 <li> 14:45 <a href="https://www.youtube.com/results?search_query=hiding+wires+for+dash+cam">(126) hiding wires for dash cam - YouTube</a></li>
 <li> 14:41 <a href="https://www.youtube.com/watch?v=cbASQ3ymmu0">(126) How to install a Dashcam by hiding the cables - YouTube</a></li>
 <li> 14:41 <a href="https://www.youtube.com/results?search_query=hiding+wires+for+dash+cam">(126) hiding wires for dash cam - YouTube</a></li>
-<li> 14:41 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 14:41 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 14:37 web.whatsapp.com</li>
 <li> 14:31 www.gov.uk</li>
 <li> 14:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -4959,11 +7514,11 @@ With number of accesses/minutes in parentheses
 <li> 14:20 studio.youtube.com</li>
 <li> 14:20 <a href="https://www.youtube.com/upload"></a></li>
 <li> 14:20 studio.youtube.com</li>
-<li> 14:19 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 14:19 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 14:19 <a href="https://www.youtube.com/signin?action_handle_signin=true&authuser=0&next=https%3A%2F%2Fwww.youtube.com%2F&feature=identity_prompt&skip_identity_prompt=true"></a></li>
 <li> 14:19 <a href="https://www.youtube.com/account">(114) YouTube</a></li>
 <li> 14:19 <a href="https://www.youtube.com/signin_prompt?next=https%3A%2F%2Fwww.youtube.com%2F"></a></li>
-<li> 14:19 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 14:19 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 14:19 www.google.com</li>
 <li class='same'> 14:18 www.google.com</li>
 <li class='same'> 14:17 www.google.com</li>
@@ -5677,13 +8232,13 @@ With number of accesses/minutes in parentheses
 <li> 13:22 <a href="https://www.youtube.com/shorts/C6BR1gtgS28">(106) YouTube</a></li>
 <li> 13:22 <a href="https://www.youtube.com/shorts/U4WdNw0uMWw">(106) DIY Giant Wardrobe Transformation: from Empty Wall to Dream Closet #shorts - YouTube</a></li>
 <li> 13:21 <a href="https://www.youtube.com/shorts/MhjmKJfzFwQ">(106) Don't Eat At Night!? - YouTube</a></li>
-<li> 13:21 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 13:21 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 13:18 <a href="https://www.youtube.com/watch?v=7xALolZzhSM">(106) Marvel Television's Daredevil: Born Again | Official Trailer | Disney+ - YouTube</a></li>
-<li> 13:18 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 13:18 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 13:12 <a href="https://www.youtube.com/watch?v=Gi93Dbh_E3c">(106) Disney's Aladdin (1992) Pitch Meeting - YouTube</a></li>
-<li> 13:12 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 13:12 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 13:12 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 13:12 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 13:12 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 13:09 bsky.app</li>
 <li> 13:08 www.facebook.com</li>
 <li> 13:07 www.amazon.co.uk</li>
@@ -7733,8 +10288,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:28 <a href="https://www.youtube.com/">(144) YouTube</a></li>
-<li class='same'> 16:27 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<ul><li> 16:28 <a href="https://www.youtube.com/">(192) YouTube</a></li>
+<li class='same'> 16:27 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 16:25 outlook.office.com</li>
 <li> 16:25 bsky.app</li>
 <li> 16:24 www.linkedin.com</li>
@@ -7749,9 +10304,9 @@ With number of accesses/minutes in parentheses
 <li> 15:58 <a href="https://en.wikipedia.org/wiki/The_Children_of_H%C3%BArin">The Children of Húrin - Wikipedia</a></li>
 <li> 15:58 www.google.com</li>
 <li class='same'> 15:54 www.google.com</li>
-<li> 15:52 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 15:52 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 15:52 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 15:52 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 15:52 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 15:50 claude.ai</li>
 <li> 15:49 <a href="https://joereddington.com/2025/01/08/gratitude.html">Gratitude! | Joe Reddington</a></li>
 <li> 15:49 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
@@ -7992,7 +10547,7 @@ With number of accesses/minutes in parentheses
 <li> 09:25 chatgpt.com</li>
 <li> 09:25 chat.openai.com</li>
 <li> 09:18 <a href="https://www.youtube.com/watch?v=g_UoMzjei2g">Music for Stress Healing, Anxiety and Depression, Remove Inner Anger and Sadness - YouTube</a></li>
-<li> 09:18 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 09:18 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 09:15 chatgpt.com</li>
 <li> 09:13 www.reddit.com</li>
 <li> 09:13 www.google.com</li>
@@ -8023,7 +10578,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:36 trends.google.com</li>
 <li> 07:36 www.google.com</li>
 <li> 07:21 <a href="https://www.youtube.com/watch?v=DfSkKYQiwoU">Deep Focus Music To Improve Concentration - 12 Hours of Ambient Study Music to Concentrate - YouTube</a></li>
-<li> 07:21 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 07:21 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 07:19 askubuntu.com</li>
 <li> 07:19 www.google.com</li>
 <li> 07:19 bbs.archlinux.org</li>
@@ -8033,9 +10588,9 @@ With number of accesses/minutes in parentheses
 <li> 07:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:03 <a href="https://www.youtube.com/watch?v=9SltrMMeytU">Deep Focus Music To Improve Concentration - Ambient Music For Studying, Concentration and Work #1 - YouTube</a></li>
 <li> 07:03 <a href="https://www.youtube.com/results?search_query=focus+music">focus music - YouTube</a></li>
-<li> 07:03 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 07:03 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 07:03 accounts.google.com</li>
-<li> 07:03 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 07:03 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 07:01 bsky.app</li>
 <li> 06:59 calendar.google.com</li>
 <li> 06:37 yattara.medium.com</li>
@@ -8160,9 +10715,9 @@ With number of accesses/minutes in parentheses
 <li> 17:04 packages.ubuntu.com</li>
 <li> 16:58 <a href="https://www.youtube.com/watch?v=LGqBQrUYua4">(5) Math Antics - Long Division - YouTube</a></li>
 <li> 16:58 <a href="https://www.youtube.com/results?search_query=long+division">(5) long division - YouTube</a></li>
-<li> 16:58 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 16:58 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 16:58 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 16:58 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 16:58 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 16:42 i3wm.org</li>
 <li> 16:42 www.google.com</li>
 <li> 16:42 www.mozilla.org</li>
@@ -8249,7 +10804,7 @@ With number of accesses/minutes in parentheses
 <li> 13:51 <a href="https://www.youtube.com/watch?v=iDr5ySr1htQ">(5) Stylianos Meaning - YouTube</a></li>
 <li> 13:51 <a href="https://www.youtube.com/results?search_query=Stilianos+name">(5) Stilianos name - YouTube</a></li>
 <li> 13:51 <a href="https://www.youtube.com/results?search_query=Stilianos">(5) Stilianos - YouTube</a></li>
-<li> 13:51 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 13:51 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 13:51 www.linkedin.com</li>
 <li class='same'> 13:50 www.linkedin.com</li>
 <li> 13:50 scholar.google.co.uk</li>
@@ -8323,8 +10878,8 @@ With number of accesses/minutes in parentheses
 <li> 12:49 <a href="https://www.youtube.com/watch?v=dj0Z1Ho18Kg&list=WL&index=10&t=74s">(5) Drawing Frozen2 - Elsa [Drawing Hands] - YouTube</a></li>
 <li> 12:49 <a href="https://www.youtube.com/playlist?list=WL">(5) Watch later - YouTube</a></li>
 <li> 12:49 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 12:49 <a href="https://www.youtube.com/">(144) YouTube</a></li>
-<li class='same'> 12:48 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 12:49 <a href="https://www.youtube.com/">(192) YouTube</a></li>
+<li class='same'> 12:48 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 12:44 www.google.com</li>
 <li> 12:42 mail.google.com</li>
 <li> 12:41 web.whatsapp.com</li>
@@ -8766,7 +11321,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:57 fast.com</li>
-<li> 11:53 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 11:53 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 11:49 www.facebook.com</li>
 </ul>
 
@@ -8796,7 +11351,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:15 askubuntu.com</li>
 <li> 08:15 www.google.com</li>
 <li> 08:10 <a href="https://www.youtube.com/watch?v=bwu6rJl1cOw">(75) Honest Trailers | Venom: The Last Dance - YouTube</a></li>
-<li> 08:09 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 08:09 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 08:05 askubuntu.com</li>
 <li> 08:05 www.google.com</li>
 <li> 08:05 www.linkedin.com</li>
@@ -8914,7 +11469,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:39 <a href="https://www.youtube.com/watch?v=EC6Poq1655k&list=PLH2oEwFFXbYNy6OQpMnLolP_Q3Zt_e5BH">(1) Maya FALLS out of a TREE !!! - YouTube</a></li>
 <li> 14:39 <a href="https://www.youtube.com/results?search_query=tik+tak+toys">(1) tik tak toys - YouTube</a></li>
-<li> 14:38 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 14:38 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 14:24 www.theguardian.com</li>
 <li> 14:22 news.sky.com</li>
 <li> 14:21 www.theguardian.com</li>
@@ -8945,9 +11500,9 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:27 www.facebook.com</li>
 <li> 08:21 web.whatsapp.com</li>
 <li> 07:54 <a href="https://www.youtube.com/watch?v=VVxocz5bCms">(73) Black Widow Pitch Meeting - YouTube</a></li>
-<li> 07:54 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 07:54 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 07:54 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 07:54 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 07:54 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 07:54 bsky.app</li>
 <li> 07:54 www.facebook.com</li>
 <li class='same'> 07:53 www.facebook.com</li>
@@ -9062,9 +11617,9 @@ With number of accesses/minutes in parentheses
 <li> 22:15 <a href="https://www.youtube.com/watch?v=FE9Xo4fQrqU">(69) Supplements and Hydration | Fat Loss Dieting Made Simple #5 - YouTube</a></li>
 <li> 22:10 <a href="https://www.youtube.com/watch?v=z88r8bq0S3U">(69) Supplements and Hydration - YouTube</a></li>
 <li> 22:10 <a href="https://www.youtube.com/results?search_query=renaissance+electrolytes">(69) renaissance electrolytes - YouTube</a></li>
-<li> 22:10 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 22:10 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 22:10 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 22:10 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 22:10 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 22:10 www.naak.com</li>
 <li> 22:10 www.google.com</li>
 </ul>
@@ -9281,7 +11836,7 @@ With number of accesses/minutes in parentheses
 <li> 11:39 www.google.com</li>
 <li> 11:36 <a href="https://www.youtube.com/watch?v=l_GdborsqLo">(64) Death Star Laser Kills Everybody... at Scarif - Rogue One HD - YouTube</a></li>
 <li> 11:36 <a href="https://www.youtube.com/results?search_query=death+star+firing+sequence">(64) death star firing sequence - YouTube</a></li>
-<li> 11:36 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 11:36 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 11:36 www.google.com</li>
 <li class='same'> 11:35 www.google.com</li>
 <li> 11:33 en.wiktionary.org</li>
@@ -9335,10 +11890,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:55 www.reddit.com</li>
 <li class='same'> 09:54 www.reddit.com</li>
 <li class='same'> 09:53 www.reddit.com</li>
-<li> 09:43 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 09:43 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 09:43 web.whatsapp.com</li>
 <li> 09:43 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 09:43 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 09:43 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 09:28 fdc.nal.usda.gov</li>
 <li> 09:27 www.google.com</li>
 <li> 09:27 www.tesco.com</li>
@@ -9396,7 +11951,7 @@ With number of accesses/minutes in parentheses
 <li> 20:55 www.reddit.com</li>
 <li> 20:55 www.google.com</li>
 <li> 20:55 <a href="https://www.youtube.com/results?search_query=libby+notes+">(64) libby notes - YouTube</a></li>
-<li> 20:55 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 20:55 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 20:55 libbyapp.com</li>
 <li> 20:52 www.facebook.com</li>
 <li class='same'> 20:50 www.facebook.com</li>
@@ -9469,7 +12024,7 @@ With number of accesses/minutes in parentheses
 <li> 14:54 <a href="https://www.youtube.com/results?search_query=renaissance+protein+vegan">(62) renaissance protein vegan - YouTube</a></li>
 <li> 14:47 <a href="https://www.youtube.com/watch?v=nkIKesKHIIE">(62) The Protein Lie: Why You Don't Need As Much As You Think - YouTube</a></li>
 <li> 14:47 <a href="https://www.youtube.com/results?search_query=renaissance+protein">(62) renaissance protein - YouTube</a></li>
-<li> 14:47 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 14:47 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 14:33 www.facebook.com</li>
 <li class='same'> 14:32 www.facebook.com</li>
 <li class='same'> 14:31 www.facebook.com</li>
@@ -9507,7 +12062,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:23 www.google.com</li>
 <li> 10:23 <a href="https://www.youtube.com/results?search_query=tau+mass+protons">(61) tau mass protons - YouTube</a></li>
 <li> 10:23 <a href="https://www.youtube.com/results?search_query=tau+mass">(61) tau mass - YouTube</a></li>
-<li> 10:22 <a href="https://www.youtube.com/">(144) YouTube</a></li>
+<li> 10:22 <a href="https://www.youtube.com/">(192) YouTube</a></li>
 <li> 10:20 warhammer40k.fandom.com</li>
 <li class='same'> 10:18 warhammer40k.fandom.com</li>
 <li> 10:18 www.google.com</li>
@@ -18631,7 +21186,6 @@ With number of accesses/minutes in parentheses
 <li> 13:42 tenor.com</li>
 <li> 13:42 www.google.com</li>
 <li class='same'> 13:41 www.google.com</li>
-<li class='same'> 13:40 www.google.com</li>
 <li class='same'> 13:39 www.google.com</li>
 <li class='same'> 13:38 www.google.com</li>
 <li> 13:38 media.isc2.org</li>
@@ -18661,11 +21215,9 @@ With number of accesses/minutes in parentheses
 <li> 13:14 outlook.office365.com</li>
 <li> 13:12 bsky.app</li>
 <li> 13:11 docs.google.com</li>
-<li> 13:11 www.google.com</li>
-<li class='same'> 13:10 www.google.com</li>
+<li> 13:10 www.google.com</li>
 <li> 13:10 docs.google.com</li>
 <li> 13:10 bimtechnologies.co.uk</li>
-<li> 13:10 www.google.com</li>
 <li> 13:10 www.royalholloway.ac.uk</li>
 <li> 13:10 www.google.com</li>
 <li> 13:09 docs.google.com</li>
@@ -18814,11 +21366,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:01 outlook.office365.com</li>
 <li class='same'> 15:58 outlook.office365.com</li>
 <li> 15:54 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 15:54 login.microsoftonline.com</li>
 <li> 15:54 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 15:34 login.microsoftonline.com</li>
-<li> 15:34 forms.office.com</li>
-<li> 15:34 rhul-my.sharepoint.com</li>
 <li> 15:33 forms.office.com</li>
 <li> 15:33 login.microsoftonline.com</li>
 <li> 15:33 forms.office.com</li>
@@ -18841,7 +21389,6 @@ With number of accesses/minutes in parentheses
 <li> 14:36 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 14:36 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 14:33 outlook.office365.com</li>
-<li> 14:31 www.google.com</li>
 <li> 14:30 bsky.app</li>
 <li> 14:29 www.google.com</li>
 <li> 14:29 outlook.office365.com</li>
@@ -18878,7 +21425,6 @@ With number of accesses/minutes in parentheses
 <li> 12:41 outlook.office365.com</li>
 <li> 12:40 www.google.com</li>
 <li> 12:40 bsky.app</li>
-<li> 12:36 www.linkedin.com</li>
 <li> 12:35 amp.theguardian.com</li>
 <li> 12:34 www.theguardian.com</li>
 <li> 12:34 www.google.com</li>
@@ -18930,8 +21476,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:28 www.facebook.com</li>
 <li class='same'> 10:27 www.facebook.com</li>
 <li> 10:23 pay.ebay.co.uk</li>
-<li> 10:23 www.ebay.co.uk</li>
-<li class='same'> 10:22 www.ebay.co.uk</li>
+<li> 10:22 www.ebay.co.uk</li>
 <li class='same'> 10:21 www.ebay.co.uk</li>
 <li> 10:16 0.0.0.0:8080</li>
 <li> 10:15 chatgpt.com</li>
@@ -19011,12 +21556,6 @@ With number of accesses/minutes in parentheses
 <li> 07:24 www.google.com</li>
 </ul>
 
-<br>
-
-<ul><li> 01:06 forms.office.com</li>
-<li> 01:06 login.microsoftonline.com</li>
-</ul>
-
 <H3>Saturday, 09/11/24</H3>
 
 <br>
@@ -19025,26 +21564,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:19 www.google.com</li>
+<ul><li class='same'> 21:19 www.google.com</li>
 <li> 21:19 www.britishjudo.org.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 20:00 login.microsoftonline.com</li>
-<li> 20:00 forms.office.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 18:14 forms.office.com</li>
-<li> 18:14 login.microsoftonline.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 15:40 login.microsoftonline.com</li>
-<li> 15:40 forms.office.com</li>
 </ul>
 
 <br>
@@ -19110,6 +21631,8 @@ With number of accesses/minutes in parentheses
 <li> 16:57 calendar.google.com</li>
 <li> 16:57 mail.google.com</li>
 <li class='same'> 16:51 mail.google.com</li>
+<li> 16:51 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 16:51 mail.google.com</li>
 <li class='same'> 16:50 mail.google.com</li>
 <li class='same'> 16:47 mail.google.com</li>
 <li class='same'> 16:44 mail.google.com</li>
@@ -19486,7 +22009,8 @@ With number of accesses/minutes in parentheses
 <li> 16:16 rhul-my.sharepoint.com</li>
 <li> 16:12 calendar.google.com</li>
 <li class='same'> 16:11 calendar.google.com</li>
-<li class='same'> 16:04 calendar.google.com</li>
+<li> 16:07 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 16:04 calendar.google.com</li>
 <li> 16:02 outlook.office.com</li>
 <li> 16:02 accounts.intuit.com</li>
 <li> 16:01 qbo.intuit.com</li>
@@ -19529,7 +22053,8 @@ With number of accesses/minutes in parentheses
 <li> 12:24 scholar.google.com</li>
 <li> 12:05 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:04 moodle.royalholloway.ac.uk</li>
-<li> 11:52 mail.google.com</li>
+<li> 12:01 mail.google.com</li>
+<li class='same'> 11:52 mail.google.com</li>
 <li> 11:47 whitewaterwriters.com</li>
 <li> 11:45 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 11:43 outlook.office.com</li>
@@ -19782,7 +22307,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:11 www.reddit.com</li>
-<li> 06:58 fritz.box</li>
+<li> 07:01 fritz.box</li>
+<li class='same'> 07:00 fritz.box</li>
+<li class='same'> 06:59 fritz.box</li>
+<li class='same'> 06:58 fritz.box</li>
 <li> 06:55 0.0.0.0:8000</li>
 <li> 06:53 fritz.box</li>
 <li class='same'> 06:52 fritz.box</li>
@@ -19938,6 +22466,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:33 outlook.office365.com</li>
 <li class='same'> 11:28 outlook.office365.com</li>
 <li> 11:20 github.com</li>
+<li> 11:12 chatgpt.com</li>
 <li> 11:08 docs.google.com</li>
 <li> 11:03 www.amazon.co.uk</li>
 <li> 11:02 whitewaterwriters.com</li>
@@ -19947,11 +22476,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:17 www.facebook.com</li>
-</ul>
-
-<br>
-
-<ul><li> 06:28 osswa.co.uk</li>
+<li> 06:56 mail.google.com</li>
+<li class='same'> 06:30 mail.google.com</li>
+<li class='same'> 06:29 mail.google.com</li>
+<li> 06:28 osswa.co.uk</li>
 <li class='same'> 06:15 osswa.co.uk</li>
 </ul>
 
@@ -20004,6 +22532,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 13:27 whitewaterwriters.com</li>
 <li> 13:22 github.com</li>
+<li> 13:17 www.reddit.com</li>
 <li> 12:59 outlook.office365.com</li>
 <li> 12:59 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:58 moodle.royalholloway.ac.uk</li>
@@ -20026,7 +22555,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:09 www.linkedin.com</li>
+<ul><li> 06:28 www.giantitp.com</li>
+<li> 06:09 www.linkedin.com</li>
 <li> 05:58 forms.office.com</li>
 <li> 05:52 calendar.google.com</li>
 <li> 05:47 www.reddit.com</li>
@@ -20042,11 +22572,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:48 <a href="https://www.youtube.com/shorts/-Xu-bc1TgNA">(82) YouTube</a></li>
 <li class='same'> 21:45 <a href="https://www.youtube.com/shorts/-Xu-bc1TgNA">(82) YouTube</a></li>
-</ul>
-
-<br>
-
-<ul><li> 20:46 forms.office.com</li>
+<li> 21:15 www.reddit.com</li>
+<li> 20:46 forms.office.com</li>
 <li class='same'> 20:45 forms.office.com</li>
 <li> 20:31 generalssb-prod.ec.royalholloway.ac.uk</li>
 </ul>
@@ -20186,6 +22713,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:37 whitewaterwriters.com</li>
+<li> 14:30 uofglasgow.zoom.us</li>
 </ul>
 
 <br>
@@ -20368,6 +22896,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:21 docs.google.com</li>
+<li> 17:21 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
 <li> 17:15 books.google.co.uk</li>
 </ul>
 
@@ -20477,6 +23006,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 14:28 forms.office.com</li>
 <li> 14:23 claude.ai</li>
 <li> 14:22 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 14:11 mail.google.com</li>
 <li> 14:00 qbo.intuit.com</li>
 <li class='same'> 13:59 qbo.intuit.com</li>
 <li> 13:59 accounts.intuit.com</li>
@@ -20552,7 +23082,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:12 outlook.office365.com</li>
+<ul><li> 20:34 www.reddit.com</li>
+<li class='same'> 20:32 www.reddit.com</li>
+<li class='same'> 20:30 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:21 www.reddit.com</li>
+<li class='same'> 17:20 www.reddit.com</li>
+<li class='same'> 17:16 www.reddit.com</li>
+<li class='same'> 17:15 www.reddit.com</li>
+<li class='same'> 17:14 www.reddit.com</li>
+<li> 17:12 outlook.office365.com</li>
 <li class='same'> 17:11 outlook.office365.com</li>
 <li> 16:58 www.linkedin.com</li>
 </ul>
@@ -20621,6 +23163,7 @@ With number of accesses/minutes in parentheses
 <li> 06:40 www.doxdirect.com</li>
 <li> 06:39 fast.com</li>
 <li> 06:39 www.doxdirect.com</li>
+<li> 06:36 www.reddit.com</li>
 <li> 06:33 drive.google.com</li>
 <li class='same'> 06:32 drive.google.com</li>
 <li> 06:30 www.dropbox.com</li>
@@ -20649,11 +23192,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:41 www.ebay.co.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 17:05 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:19 search.google.com</li>
+<li class='same'> 17:18 search.google.com</li>
+<li> 17:18 www.google.com</li>
+<li> 17:05 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li class='same'> 17:04 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:02 outlook.office365.com</li>
 <li> 17:02 www.linkedin.com</li>
@@ -20681,7 +23223,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:13 pure.royalholloway.ac.uk</li>
+<ul><li> 14:20 uofglasgow.zoom.us</li>
+<li> 14:13 pure.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -20717,7 +23260,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:32 outlook.office365.com</li>
+<ul><li> 09:52 gettingthingsdone.com</li>
+<li> 09:32 outlook.office365.com</li>
 <li> 09:32 rhul-my.sharepoint.com</li>
 </ul>
 
@@ -20766,7 +23310,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:41 www.reddit.com</li>
-<li> 06:37 www.amazon.co.uk</li>
+<li> 06:40 www.amazon.co.uk</li>
+<li class='same'> 06:37 www.amazon.co.uk</li>
 <li> 06:28 www.ebay.co.uk</li>
 <li> 06:27 www.vinted.co.uk</li>
 </ul>
@@ -20923,7 +23468,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:24 docs.google.com</li>
+<ul><li> 09:40 www.ncsc.gov.uk</li>
+<li class='same'> 09:39 www.ncsc.gov.uk</li>
+<li> 09:24 docs.google.com</li>
 <li class='same'> 09:23 docs.google.com</li>
 </ul>
 
@@ -21154,7 +23701,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:25 calendar.google.com</li>
+<ul><li> 06:27 mail.google.com</li>
+<li> 06:25 calendar.google.com</li>
 </ul>
 
 <H3>Thursday, 03/10/24</H3>
@@ -21170,6 +23718,7 @@ With number of accesses/minutes in parentheses
 <li> 16:13 docs.google.com</li>
 <li> 16:11 www.onlinebanking.natwest.com</li>
 <li> 16:11 www.natwest.com</li>
+<li> 16:09 search.google.com</li>
 </ul>
 
 <br>
@@ -21360,6 +23909,7 @@ With number of accesses/minutes in parentheses
 <li> 05:08 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
 <li> 05:08 github.com</li>
 <li> 05:05 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 04:59 search.google.com</li>
 <li> 04:49 qbo.intuit.com</li>
 </ul>
 
@@ -21379,7 +23929,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:16 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
+<ul><li> 18:20 www.amazon.co.uk</li>
+<li> 18:16 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
 <li> 18:13 discord.com</li>
 <li> 18:09 webtimetables.royalholloway.ac.uk</li>
 <li> 18:08 moodle2324.royalholloway.ac.uk</li>
@@ -21495,6 +24046,7 @@ With number of accesses/minutes in parentheses
 <li> 10:31 outlook.office365.com</li>
 <li class='same'> 10:30 outlook.office365.com</li>
 <li> 10:28 feedly.com</li>
+<li class='same'> 10:27 feedly.com</li>
 <li> 10:27 ico.org.uk</li>
 <li> 10:26 <a href="https://en.wikipedia.org/wiki/Modernizr">Modernizr - Wikipedia</a></li>
 <li> 10:26 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
@@ -21510,7 +24062,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:13 outlook.office365.com</li>
+<ul><li> 07:27 search.google.com</li>
+<li class='same'> 07:24 search.google.com</li>
+<li> 07:23 www.google.com</li>
+<li> 07:23 search.google.com</li>
+<li> 07:23 www.google.com</li>
+<li> 07:13 outlook.office365.com</li>
 </ul>
 
 <H3>Sunday, 29/09/24</H3>
@@ -21548,6 +24105,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 20:03 comicprintinguk.com</li>
+<li> 19:55 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -21595,7 +24158,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 09:48 teams.microsoft.com</li>
+<ul><li> 09:52 <a href="https://joereddington.com/assets/TeachingRoomFontSizes.pdf">Microsoft Word - Rooms with pictures for teaching award.docx - TeachingRoomFontSizes.pdf</a></li>
+<li> 09:48 teams.microsoft.com</li>
+<li> 09:47 <a href="https://joereddington.com/assets/TeachingRoomFontSizes.pdf">Microsoft Word - Rooms with pictures for teaching award.docx - TeachingRoomFontSizes.pdf</a></li>
 <li> 09:47 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
 <li> 09:45 rhul-my.sharepoint.com</li>
 <li> 09:38 kdpreports.amazon.com</li>
@@ -21685,6 +24250,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:04 moodle.royalholloway.ac.uk</li>
 <li> 17:04 projects.cs.rhul.ac.uk</li>
+<li> 16:55 mail.google.com</li>
 <li> 16:55 discord.com</li>
 <li class='same'> 16:52 discord.com</li>
 <li class='same'> 16:50 discord.com</li>
@@ -21828,6 +24394,8 @@ With number of accesses/minutes in parentheses
 <li> 18:12 ccrld.bywatersolutions.com</li>
 <li class='same'> 18:09 ccrld.bywatersolutions.com</li>
 <li> 18:05 ccrld.org</li>
+<li> 18:03 www.reddit.com</li>
+<li> 17:59 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
 <li> 17:58 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 17:57 librarysearch.royalholloway.ac.uk</li>
 <li> 17:57 libbyapp.com</li>
@@ -22074,7 +24642,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:50 fritz.box</li>
+<ul><li> 13:02 www.reddit.com</li>
+<li> 12:50 fritz.box</li>
 <li class='same'> 12:49 fritz.box</li>
 <li> 12:46 calendar.google.com</li>
 </ul>
@@ -22173,6 +24742,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:06 ifttt.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:44 outlook.office.com</li>
 <li> 13:41 www.linkedin.com</li>
 <li> 13:34 outlook.office.com</li>
@@ -22189,6 +24763,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 23:41 libbyapp.com</li>
 <li class='same'> 23:37 libbyapp.com</li>
+<li> 23:34 www.reddit.com</li>
+<li> 23:34 www.google.com</li>
 </ul>
 
 <br>
@@ -22240,6 +24816,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:50 www.linkedin.com</li>
+</ul>
+
+<br>
+
 <ul><li> 14:51 www.reddit.com</li>
 </ul>
 
@@ -22288,7 +24869,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:13 kdpreports.amazon.com</li>
+<ul><li> 07:17 mail.google.com</li>
+<li> 07:13 kdpreports.amazon.com</li>
 <li> 07:13 kdp.amazon.com</li>
 <li> 07:07 outlook.office.com</li>
 <li class='same'> 07:04 outlook.office.com</li>
@@ -22302,7 +24884,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:30 tvtropes.org</li>
+<ul><li> 21:48 tvtropes.org</li>
+<li class='same'> 21:47 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:30 tvtropes.org</li>
 <li class='same'> 19:26 tvtropes.org</li>
 </ul>
 
@@ -22324,7 +24912,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:20 <a href="https://en.wikipedia.org/wiki/Keech_Hospice_Care">Keech Hospice Care - Wikipedia</a></li>
+<li> 07:19 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
 <li> 07:16 www.wikipedia.org</li>
+<li> 07:15 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
 <li> 07:09 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo_data_breaches">Talk:Yahoo data breaches - Wikipedia</a></li>
 <li> 07:07 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&action=history">Yahoo data breaches: Revision history - Wikipedia</a></li>
 <li> 07:07 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
@@ -22357,7 +24947,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:41 www.wikipedia.org</li>
+<ul><li> 12:41 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
+<li> 12:41 www.wikipedia.org</li>
 <li> 12:35 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lead_section">Wikipedia:Manual of Style/Lead section - Wikipedia</a></li>
 <li> 12:17 <a href="https://en.wikipedia.org/wiki/Flipped_classroom">Flipped classroom - Wikipedia</a></li>
 </ul>
@@ -22438,7 +25029,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:07 outlook.office.com</li>
+<ul><li> 13:08 www.linkedin.com</li>
+<li> 13:07 outlook.office.com</li>
 <li> 12:38 analytics.google.com</li>
 <li> 12:38 accounts.google.co.uk</li>
 <li> 12:19 chatgpt.com</li>
@@ -22495,7 +25087,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:47 qbo.intuit.com</li>
+<ul><li> 09:59 mail.google.com</li>
+<li> 09:47 qbo.intuit.com</li>
 <li class='same'> 09:46 qbo.intuit.com</li>
 </ul>
 
@@ -22525,7 +25118,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:17 www.google.com</li>
+<ul><li> 15:20 abcnews.go.com</li>
+<li> 15:17 www.google.com</li>
 </ul>
 
 <br>
@@ -22611,6 +25205,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:08 calendar.google.com</li>
 <li class='same'> 16:07 calendar.google.com</li>
 <li class='same'> 16:06 calendar.google.com</li>
+<li> 16:05 themeads.org.uk</li>
 <li> 16:04 www.amazon.co.uk</li>
 <li> 15:51 www.linkedin.com</li>
 </ul>
@@ -22663,11 +25258,17 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:17 www.pcspecialist.co.uk</li>
 <li> 08:58 www.amazon.co.uk</li>
 <li class='same'> 08:45 www.amazon.co.uk</li>
-<li> 08:33 www.linkedin.com</li>
+<li> 08:34 www.linkedin.com</li>
+<li class='same'> 08:33 www.linkedin.com</li>
 <li> 08:32 www.nestpensions.org.uk</li>
 <li class='same'> 08:31 www.nestpensions.org.uk</li>
 <li> 08:16 mail.google.com</li>
 <li> 08:03 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
+</ul>
+
+<br>
+
+<ul><li> 06:55 themeads.org.uk</li>
 </ul>
 
 <H3>Sunday, 01/09/24</H3>
@@ -23199,6 +25800,8 @@ With number of accesses/minutes in parentheses
 <li> 10:31 www.instagram.com</li>
 <li class='same'> 10:29 www.instagram.com</li>
 <li> 10:10 mail.google.com</li>
+<li class='same'> 10:03 mail.google.com</li>
+<li class='same'> 10:02 mail.google.com</li>
 <li> 10:02 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 09:57 www.royalholloway.ac.uk</li>
 <li> 09:57 www.google.com</li>
@@ -23206,7 +25809,8 @@ With number of accesses/minutes in parentheses
 <li> 09:52 www.royalholloway.ac.uk</li>
 <li> 09:50 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 09:45 myview.rhul.zellis.com</li>
-<li> 09:37 mail.google.com</li>
+<li> 09:42 mail.google.com</li>
+<li class='same'> 09:37 mail.google.com</li>
 <li class='same'> 09:35 mail.google.com</li>
 <li> 09:33 qbo.intuit.com</li>
 <li> 09:32 mail.google.com</li>
@@ -23234,7 +25838,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:23 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<ul><li> 07:26 mail.google.com</li>
+<li> 07:23 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li class='same'> 07:22 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 07:06 mail.google.com</li>
 <li> 07:06 www.facebook.com</li>
@@ -23361,6 +25966,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:43 <a href="https://xkcd.com/">xkcd: Humidifier Review</a></li>
+<li> 09:41 www.reddit.com</li>
 <li> 09:35 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 </ul>
 
@@ -23697,7 +26303,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:37 calendar.google.com</li>
+<ul><li> 08:00 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 07:37 calendar.google.com</li>
 <li> 07:29 www.nestpensions.org.uk</li>
 <li class='same'> 07:28 www.nestpensions.org.uk</li>
 <li> 07:18 calendar.google.com</li>
@@ -24050,7 +26657,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:43 <a href="https://joereddington.com/2024/06/18/history.html">Rebuilding public history | Joe Reddington</a></li>
+<ul><li> 06:54 <a href="https://joereddington.com/social/">Connect with Me | Joe Reddington</a></li>
+<li> 06:43 <a href="https://joereddington.com/2024/06/18/history.html">Rebuilding public history | Joe Reddington</a></li>
 <li> 06:41 github.com</li>
 </ul>
 
@@ -24222,6 +26830,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:03 www.google.com</li>
+<li> 13:02 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
 <li> 12:52 online.unity.co.uk</li>
 <li> 12:51 qbo.intuit.com</li>
 <li class='same'> 12:49 qbo.intuit.com</li>
@@ -24263,6 +26872,11 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 19:35 github.com</li>
 </ul>
 
+<br>
+
+<ul><li> 14:15 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+</ul>
+
 <H3>Monday, 01/07/24</H3>
 
 <br>
@@ -24298,6 +26912,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:05 mail.google.com</li>
 <li class='same'> 15:04 mail.google.com</li>
+<li class='same'> 15:02 mail.google.com</li>
+<li class='same'> 15:01 mail.google.com</li>
 <li> 14:56 equalitytime.github.io</li>
 <li> 14:27 teams.microsoft.com</li>
 </ul>
@@ -24376,6 +26992,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:02 www.linkedin.com</li>
+<li> 07:56 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
+<li class='same'> 07:42 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
+<li> 07:35 equalitytime.github.io</li>
+<li class='same'> 07:34 equalitytime.github.io</li>
+<li class='same'> 07:33 equalitytime.github.io</li>
 <li> 07:33 theopenvoicefactory.org</li>
 <li> 07:29 www.facebook.com</li>
 <li class='same'> 07:28 www.facebook.com</li>
@@ -24440,6 +27061,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:44 www.nestpensions.org.uk</li>
 <li> 14:25 mail.google.com</li>
 <li class='same'> 14:10 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:48 www.lutonlibraries.co.uk</li>
 </ul>
 
 <H3>Sunday, 23/06/24</H3>
@@ -24706,7 +27332,9 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 10:15 127.0.0.1:4000</li>
 <li> 10:07 www.facebook.com</li>
 <li> 09:37 equalitytime.github.io</li>
-<li> 09:26 www.reddit.com</li>
+<li> 09:29 www.reddit.com</li>
+<li class='same'> 09:27 www.reddit.com</li>
+<li class='same'> 09:26 www.reddit.com</li>
 </ul>
 
 <H3>Monday, 10/06/24</H3>
@@ -24892,7 +27520,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:00 rhul-my.sharepoint.com</li>
+<ul><li> 16:27 feedly.com</li>
+<li> 16:00 rhul-my.sharepoint.com</li>
 <li class='same'> 15:48 rhul-my.sharepoint.com</li>
 <li> 15:33 www.linkedin.com</li>
 </ul>
@@ -25121,6 +27750,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:21 www.wolframalpha.com</li>
 <li> 14:04 github.com</li>
 <li> 13:38 www.facebook.com</li>
+<li> 13:36 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 <li> 13:15 www.reddit.com</li>
 <li> 13:02 docs.google.com</li>
 <li class='same'> 13:01 docs.google.com</li>
@@ -25142,7 +27772,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 10:52 www.wolframalpha.com</li>
+<ul><li> 10:55 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 10:52 www.wolframalpha.com</li>
+<li> 10:52 www.statista.com</li>
+<li> 10:51 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 </ul>
 
 <br>
@@ -25256,7 +27889,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:45 dashboards.rhul.ac.uk</li>
 <li> 10:17 www.royalholloway.ac.uk</li>
-<li class='same'> 10:10 www.royalholloway.ac.uk</li>
+<li> 10:12 intranet.royalholloway.ac.uk</li>
+<li> 10:10 www.royalholloway.ac.uk</li>
+<li> 10:09 intranet.royalholloway.ac.uk</li>
+<li class='same'> 10:08 intranet.royalholloway.ac.uk</li>
 <li> 09:59 www.amazon.co.uk</li>
 <li> 09:40 rhul.sharepoint.com</li>
 </ul>
@@ -25511,6 +28147,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:39 mail.google.com</li>
+<li> 11:32 www.google.com</li>
+<li> 11:32 gettingthingsdone.com</li>
 <li> 11:31 andsoshethinks.co.uk</li>
 <li> 11:22 www.amazon.co.uk</li>
 <li> 11:11 calendar.google.com</li>
@@ -25520,7 +28158,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 07:47 mail.google.com</li>
+<ul><li> 07:47 intranet.royalholloway.ac.uk</li>
+<li> 07:47 mail.google.com</li>
 <li class='same'> 07:39 mail.google.com</li>
 </ul>
 
@@ -25551,6 +28190,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:02 gitlab.cim.rhul.ac.uk</li>
 <li> 14:00 rhul-my.sharepoint.com</li>
 <li> 13:33 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:16 uofglasgow.zoom.us</li>
 </ul>
 
 <H3>Sunday, 12/05/24</H3>
@@ -25628,6 +28272,11 @@ With number of accesses/minutes in parentheses
 <li> 21:21 www.facebook.com</li>
 </ul>
 
+<br>
+
+<ul><li> 12:08 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+</ul>
+
 <H3>Thursday, 09/05/24</H3>
 
 <br>
@@ -25689,7 +28338,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:22 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<ul><li> 07:26 www.ncsc.gov.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 06:36 mail.google.com</li>
+<li> 06:22 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
 </ul>
 
 <H3>Wednesday, 08/05/24</H3>
@@ -25862,7 +28517,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:54 artofmemory.com</li>
+<ul><li> 21:11 www.reddit.com</li>
+<li> 20:54 artofmemory.com</li>
 <li> 20:53 moodle.royalholloway.ac.uk</li>
 </ul>
 
@@ -25892,6 +28548,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:49 discord.com</li>
+<li> 13:28 www.reddit.com</li>
+<li class='same'> 13:25 www.reddit.com</li>
+<li class='same'> 13:24 www.reddit.com</li>
 </ul>
 
 <br>
@@ -26083,11 +28742,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:27 <a href="https://joereddington.com/2024/03/12/half-marathon.html">Long Distance Running | Joe Reddington</a></li>
-</ul>
-
-<br>
-
-<ul><li> 09:55 www.amazon.co.uk</li>
+<li> 10:04 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 09:55 www.amazon.co.uk</li>
+<li class='same'> 09:32 www.amazon.co.uk</li>
 <li class='same'> 09:31 www.amazon.co.uk</li>
 <li> 09:30 docs.google.com</li>
 <li> 09:29 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
@@ -26111,10 +28768,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:15 librarysearch.royalholloway.ac.uk</li>
+<ul><li> 22:23 intranet.royalholloway.ac.uk</li>
+<li class='same'> 22:22 intranet.royalholloway.ac.uk</li>
+<li> 22:15 librarysearch.royalholloway.ac.uk</li>
 <li> 22:15 www.google.com</li>
 <li> 21:57 www.ebay.co.uk</li>
 <li> 21:54 www.camerajungle.co.uk</li>
+<li> 21:31 www.amazon.co.uk</li>
 </ul>
 
 <br>
@@ -26176,6 +28836,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:06 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 20:55 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 </ul>
 
 <br>
@@ -26196,6 +28857,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:25 outlook.office.com</li>
+<li> 15:10 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 </ul>
 
 <br>
@@ -26247,6 +28909,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 14:55 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+</ul>
 
 <br>
 
@@ -26302,7 +28969,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:58 rhul.hosted.panopto.com</li>
 <li> 11:42 dashboards.rhul.ac.uk</li>
 <li> 11:26 www.royalholloway.ac.uk</li>
-<li class='same'> 11:14 www.royalholloway.ac.uk</li>
+<li> 11:25 <a href="https://joereddington.com/social/">Connect with Me | Joe Reddington</a></li>
+<li> 11:14 www.royalholloway.ac.uk</li>
 <li> 10:55 outlook.office.com</li>
 <li> 10:54 rhul.hosted.panopto.com</li>
 <li> 10:36 outlook.office.com</li>
@@ -26356,7 +29024,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:08 www.linkedin.com</li>
+<ul><li> 18:25 <a href="https://joereddington.com/social/">Connect with Me | Joe Reddington</a></li>
+<li class='same'> 18:24 <a href="https://joereddington.com/social/">Connect with Me | Joe Reddington</a></li>
+<li> 18:08 www.linkedin.com</li>
 <li> 18:05 github.com</li>
 <li> 17:50 www.royalholloway.ac.uk</li>
 </ul>
@@ -26377,6 +29047,11 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 12:36 rhul-my.sharepoint.com</li>
 <li> 12:35 repository.royalholloway.ac.uk</li>
 <li> 12:33 rhul-my.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:40 intranet.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -26526,6 +29201,7 @@ With number of accesses/minutes in parentheses
 <li> 09:02 docs.google.com</li>
 <li class='same'> 09:01 docs.google.com</li>
 <li> 09:00 github.com</li>
+<li> 08:57 equalitytime.github.io</li>
 <li> 08:41 theopenvoicefactory.org</li>
 <li> 08:35 www.amazon.co.uk</li>
 <li class='same'> 08:34 www.amazon.co.uk</li>
@@ -26539,7 +29215,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:39 www.goodreads.com</li>
+<ul><li> 21:47 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 21:39 www.goodreads.com</li>
 </ul>
 
 <br>
@@ -26626,6 +29303,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:44 www.google.com</li>
+<li> 10:44 gettingthingsdone.com</li>
+</ul>
+
+<br>
+
 <ul><li> 10:00 github.com</li>
 <li class='same'> 09:59 github.com</li>
 <li> 09:54 gitlab.cim.rhul.ac.uk</li>
@@ -26658,6 +29341,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 09:25 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+</ul>
 
 <br>
 
@@ -26711,6 +29399,7 @@ With number of accesses/minutes in parentheses
 <li> 07:34 www.amazon.co.uk</li>
 <li class='same'> 07:33 www.amazon.co.uk</li>
 <li class='same'> 07:28 www.amazon.co.uk</li>
+<li class='same'> 07:27 www.amazon.co.uk</li>
 <li class='same'> 07:20 www.amazon.co.uk</li>
 <li class='same'> 07:15 www.amazon.co.uk</li>
 <li> 07:15 www.goodreads.com</li>
@@ -26983,6 +29672,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:54 intranet.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:35 intranet.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 07:53 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
 <li class='same'> 07:52 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
 <li class='same'> 07:50 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
@@ -27061,11 +29760,12 @@ With number of accesses/minutes in parentheses
 <li> 11:28 www.google.com</li>
 <li> 11:06 gitlab.cim.rhul.ac.uk</li>
 <li> 10:44 www.amazon.co.uk</li>
+<li> 10:19 intranet.royalholloway.ac.uk</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 07:30 www.amazon.co.uk</li>
+<ul><li> 07:30 www.amazon.co.uk</li>
 <li> 07:10 <a href="https://en.wikipedia.org/wiki/Northern_Bank_robbery">Northern Bank robbery - Wikipedia</a></li>
 <li> 07:06 <a href="https://en.wikipedia.org/wiki/Securitas_depot_robbery">Securitas depot robbery - Wikipedia</a></li>
 <li> 07:04 <a href="https://en.wikipedia.org/wiki/2009_Bank_of_Ireland_robbery">2009 Bank of Ireland robbery - Wikipedia</a></li>
@@ -27122,6 +29822,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:13 andsoshethinks.co.uk</li>
 <li> 12:13 mail.google.com</li>
 <li class='same'> 12:12 mail.google.com</li>
+<li class='same'> 12:09 mail.google.com</li>
 <li class='same'> 12:08 mail.google.com</li>
 <li> 12:04 myview.rhul.zellis.com</li>
 <li> 11:38 accounts.google.com</li>
@@ -27192,6 +29893,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:20 login.microsoftonline.com</li>
+</ul>
+
+<br>
+
 <ul><li> 14:16 www.dropbox.com</li>
 <li> 13:53 open.spotify.com</li>
 </ul>
@@ -27208,11 +29914,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:16 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 11:14 gitlab.cim.rhul.ac.uk</li>
 <li> 11:04 www.gmail.com</li>
+<li> 10:59 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 10:27 www.gmail.com</li>
+<ul><li> 10:27 www.gmail.com</li>
 <li> 10:23 trends.google.com</li>
 <li> 10:23 www.google.com</li>
 <li> 10:07 www.gmail.com</li>
@@ -27288,6 +29995,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:42 rhul-my.sharepoint.com</li>
+<li> 15:34 equalitytime.github.io</li>
+<li class='same'> 15:33 equalitytime.github.io</li>
+<li class='same'> 15:31 equalitytime.github.io</li>
+<li class='same'> 15:30 equalitytime.github.io</li>
 <li> 15:23 theopenvoicefactory.org</li>
 </ul>
 
@@ -27345,6 +30056,7 @@ With number of accesses/minutes in parentheses
 <li> 12:07 rhul.sharepoint.com</li>
 <li class='same'> 12:06 rhul.sharepoint.com</li>
 <li class='same'> 12:05 rhul.sharepoint.com</li>
+<li> 11:52 intranet.royalholloway.ac.uk</li>
 <li> 11:49 rhul.hosted.panopto.com</li>
 <li class='same'> 11:48 rhul.hosted.panopto.com</li>
 </ul>
@@ -27371,6 +30083,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:56 github.com</li>
 <li> 06:49 andsoshethinks.co.uk</li>
+<li> 06:48 intranet.royalholloway.ac.uk</li>
 <li> 06:44 github.com</li>
 <li> 06:29 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 06:20 gitlab.cim.rhul.ac.uk</li>
@@ -27407,7 +30120,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:02 192.168.178.1</li>
+<ul><li> 10:27 www.whatsmyip.org</li>
+<li class='same'> 10:07 www.whatsmyip.org</li>
+<li> 10:02 192.168.178.1</li>
 <li class='same'> 10:01 192.168.178.1</li>
 <li> 09:53 feedly.com</li>
 <li> 09:48 rhul-my.sharepoint.com</li>
@@ -27470,6 +30185,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:23 www.amazon.co.uk</li>
 </ul>
 
+<br>
+
+<ul><li> 06:44 gettingthingsdone.com</li>
+</ul>
+
 <H3>Saturday, 09/03/24</H3>
 
 <br>
@@ -27519,6 +30239,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:14 rhul-my.sharepoint.com</li>
+<li> 13:54 www.amazon.co.uk</li>
 <li> 13:49 rhul.sharepoint.com</li>
 </ul>
 
@@ -27682,6 +30403,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:27 www.eff.org</li>
+<li> 12:07 pure.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -27692,7 +30414,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:18 theopenvoicefactory.org</li>
+<ul><li> 10:19 github.com</li>
+<li> 10:18 theopenvoicefactory.org</li>
 </ul>
 
 <br>
@@ -27700,6 +30423,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:45 librarysearch.royalholloway.ac.uk</li>
 <li> 09:44 rhul-my.sharepoint.com</li>
 <li> 09:41 www.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 07:29 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <H3>Sunday, 03/03/24</H3>
@@ -27939,6 +30667,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:36 docs.google.com</li>
 <li> 12:29 www.wolframalpha.com</li>
+<li> 12:28 www.statista.com</li>
+<li> 12:28 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 <li> 12:08 librarysearch.royalholloway.ac.uk</li>
 <li> 12:08 www.royalholloway.ac.uk</li>
 </ul>
@@ -27996,6 +30726,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:40 outlook.office.com</li>
 <li class='same'> 12:39 outlook.office.com</li>
 <li class='same'> 12:17 outlook.office.com</li>
+<li> 12:11 intranet.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -28108,7 +30839,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:42 www.amazon.co.uk</li>
+<ul><li> 13:31 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:42 www.amazon.co.uk</li>
 <li class='same'> 12:41 www.amazon.co.uk</li>
 <li> 12:34 twitter.com</li>
 </ul>
@@ -28117,6 +30853,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:39 www.google.com</li>
 <li> 11:39 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 09:55 gettingthingsdone.com</li>
 </ul>
 
 <br>
@@ -28144,7 +30885,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:42 eu-west-2.console.aws.amazon.com</li>
+<ul><li> 14:02 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+<li> 13:42 eu-west-2.console.aws.amazon.com</li>
 </ul>
 
 <br>
@@ -28366,7 +31108,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:06 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
 <li> 16:02 github.com</li>
-<li> 16:01 www.amazon.co.uk</li>
+<li> 16:02 www.amazon.co.uk</li>
+<li class='same'> 16:01 www.amazon.co.uk</li>
 </ul>
 
 <H3>Friday, 02/02/24</H3>
@@ -28492,6 +31235,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:29 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 11:23 webtimetables.royalholloway.ac.uk</li>
 <li> 11:12 thecyberscheme.org</li>
+</ul>
+
+<br>
+
+<ul><li> 07:47 www.amazon.co.uk</li>
 </ul>
 
 <br>
@@ -28630,6 +31378,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:48 abcnews.go.com</li>
+<li class='same'> 15:47 abcnews.go.com</li>
+<li class='same'> 15:46 abcnews.go.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:50 docs.google.com</li>
 </ul>
 
@@ -28641,7 +31396,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:08 mail.google.com</li>
+<ul><li> 11:18 www.amazon.co.uk</li>
+<li> 11:08 mail.google.com</li>
 </ul>
 
 <br>
@@ -28664,6 +31420,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:15 abcnews.go.com</li>
+<li class='same'> 21:14 abcnews.go.com</li>
+</ul>
 
 <br>
 
@@ -28690,6 +31452,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 15:37 gettingthingsdone.com</li>
+</ul>
 
 <br>
 
@@ -28729,6 +31496,7 @@ With number of accesses/minutes in parentheses
 <li> 09:38 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:37 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:36 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:25 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <H3>Sunday, 14/01/24</H3>
@@ -28748,6 +31516,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:22 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
@@ -28884,6 +31657,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:57 www.evernote.com</li>
 </ul>
 
+<br>
+
+<ul><li> 17:14 abcnews.go.com</li>
+<li class='same'> 17:11 abcnews.go.com</li>
+</ul>
+
 <H3>Friday, 05/01/24</H3>
 
 <br>
@@ -28919,7 +31698,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:03 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
+<ul><li> 13:04 <a href="https://joereddington.com/assets/TeachingRoomFontSizes.pdf">Microsoft Word - Rooms with pictures for teaching award.docx - TeachingRoomFontSizes.pdf</a></li>
+<li> 13:03 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
 </ul>
 
 <br>
@@ -28948,6 +31728,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:17 mail.google.com</li>
+<li> 07:16 equalitytime.co.uk</li>
 <li> 06:52 docs.google.com</li>
 </ul>
 
@@ -29180,6 +31961,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:49 app.governorhub.com</li>
+<li> 06:46 www.amazon.co.uk</li>
 </ul>
 
 <H3>Monday, 18/12/23</H3>
@@ -29219,6 +32001,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:36 www.royalholloway.ac.uk</li>
+<li> 09:35 pure.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -29280,6 +32063,18 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:51 docs.google.com</li>
+<li> 11:21 www.giantitp.com</li>
+<li class='same'> 11:20 www.giantitp.com</li>
+<li class='same'> 11:19 www.giantitp.com</li>
+<li class='same'> 11:18 www.giantitp.com</li>
+<li class='same'> 11:17 www.giantitp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:18 equalitytime.co.uk</li>
+<li> 10:12 www.amazon.co.uk</li>
+<li> 09:56 intranet.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -29296,6 +32091,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:00 forum.artofmemory.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:51 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 </ul>
 
 <H3>Monday, 11/12/23</H3>
@@ -29335,6 +32135,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:38 www.amazon.co.uk</li>
 <li> 11:37 online.unity.co.uk</li>
+<li> 11:25 equalitytime.co.uk</li>
+<li class='same'> 11:07 equalitytime.co.uk</li>
+<li class='same'> 11:03 equalitytime.co.uk</li>
+<li class='same'> 11:00 equalitytime.co.uk</li>
 </ul>
 
 <br>
@@ -29346,7 +32150,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:40 www.gov.uk</li>
+<ul><li> 09:48 mail.google.com</li>
+<li> 09:40 www.gov.uk</li>
 <li class='same'> 09:39 www.gov.uk</li>
 <li> 09:39 mail.google.com</li>
 <li> 09:35 drive.google.com</li>
@@ -29388,11 +32193,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:53 online.unity.co.uk</li>
+<li> 15:35 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 </ul>
 
 <br>
 
 <ul><li> 14:43 github.com</li>
+<li> 14:37 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 <li> 14:35 twitter.com</li>
 <li class='same'> 14:10 twitter.com</li>
 <li> 13:51 www.linkedin.com</li>
@@ -29406,7 +32213,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:22 www.tightrope.co.uk</li>
+<ul><li> 11:23 www.tightrope.co.uk</li>
+<li class='same'> 11:22 www.tightrope.co.uk</li>
 </ul>
 
 <br>
@@ -29469,6 +32277,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:59 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+</ul>
+
+<br>
+
 <ul><li> 19:52 mail.google.com</li>
 </ul>
 
@@ -29489,6 +32302,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 19:54 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+</ul>
 
 <br>
 
@@ -29527,12 +32345,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:38 www.google.com</li>
+<ul><li> 07:42 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+<li> 07:38 www.google.com</li>
 </ul>
 
 <br>
 
 <ul><li> 07:02 drive.google.com</li>
+<li> 06:57 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 </ul>
 
 <H3>Thursday, 30/11/23</H3>
@@ -29611,7 +32431,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 07:45 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+</ul>
+
+<br>
+
 <ul><li> 07:06 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
+<li> 06:43 www.giantitp.com</li>
+<li class='same'> 06:42 www.giantitp.com</li>
 </ul>
 
 <H3>Monday, 27/11/23</H3>
@@ -29678,7 +32505,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 10:58 jobs.royalholloway.ac.uk</li>
+<ul><li> 16:02 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:15 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+<li> 10:58 jobs.royalholloway.ac.uk</li>
 <li class='same'> 10:57 jobs.royalholloway.ac.uk</li>
 <li class='same'> 10:32 jobs.royalholloway.ac.uk</li>
 </ul>
@@ -29686,6 +32519,16 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:02 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 08:00 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:46 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 </ul>
 
 <H3>Thursday, 23/11/23</H3>
@@ -29696,7 +32539,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li class='same'> 19:29 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+</ul>
+
+<br>
+
 <ul><li> 14:12 drive.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:51 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 </ul>
 
 <br>
@@ -29734,6 +32587,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 06:11 discord.com</li>
 <li class='same'> 06:10 discord.com</li>
 <li> 06:02 www.amazon.com</li>
+<li> 05:52 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 </ul>
 
 <H3>Wednesday, 22/11/23</H3>
@@ -29909,6 +32763,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 08:00 github.com</li>
+<li> 07:54 equalitytime.github.io</li>
+<li class='same'> 07:53 equalitytime.github.io</li>
 <li> 07:46 twitter.com</li>
 <li> 07:19 analytics.google.com</li>
 </ul>
@@ -29998,6 +32854,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:00 askubuntu.com</li>
 <li class='same'> 12:41 askubuntu.com</li>
+<li> 12:40 www.google.co.uk</li>
 </ul>
 
 <br>
@@ -30008,6 +32865,29 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:21 www.icloud.com</li>
+</ul>
+
+<H3>Sunday, 12/11/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:21 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+</ul>
+
+<H3>Saturday, 11/11/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 07:41 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+<li class='same'> 07:21 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
 </ul>
 
 <H3>Friday, 10/11/23</H3>
@@ -30034,7 +32914,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:57 github.com</li>
+<ul><li> 10:09 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+<li> 09:57 github.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:16 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
 </ul>
 
 <H3>Wednesday, 08/11/23</H3>
@@ -30068,24 +32954,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:13 <a href="https://en.wikipedia.org/wiki/Planck_constant">Planck constant - Wikipedia</a></li>
+<ul><li> 18:26 <a href="https://en.wikipedia.org/wiki/Cosmological_constant">Cosmological constant - Wikipedia</a></li>
+<li> 18:15 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+<li> 18:13 <a href="https://en.wikipedia.org/wiki/Planck_constant">Planck constant - Wikipedia</a></li>
 </ul>
 
 <br>
 
-<ul><li> 15:59 <a href="https://en.wikipedia.org/wiki/Max_Planck">Max Planck - Wikipedia</a></li>
+<ul><li> 16:07 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+<li> 15:59 <a href="https://en.wikipedia.org/wiki/Max_Planck">Max Planck - Wikipedia</a></li>
+<li> 15:51 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
 </ul>
 
 <br>
 
 <ul><li> 15:09 <a href="https://en.wikipedia.org/wiki/Planck_constant">Planck constant - Wikipedia</a></li>
 <li class='same'> 15:06 <a href="https://en.wikipedia.org/wiki/Planck_constant">Planck constant - Wikipedia</a></li>
+<li> 14:52 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
 <li> 14:46 docs.google.com</li>
+<li> 14:37 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 12:46 docs.google.com</li>
+<ul><li> 12:46 docs.google.com</li>
 </ul>
 
 <br>
@@ -30093,11 +32985,26 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:16 www.dropbox.com</li>
 </ul>
 
+<br>
+
+<ul><li> 08:03 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:27 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+</ul>
+
 <H3>Monday, 06/11/23</H3>
 
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 12:39 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+</ul>
 
 <br>
 
@@ -30286,6 +33193,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:35 www.royalholloway.ac.uk</li>
 <li> 11:35 discord.com</li>
+<li> 11:34 intranet.royalholloway.ac.uk</li>
 <li> 11:26 scholar.google.com</li>
 <li> 11:10 jobs.royalholloway.ac.uk</li>
 <li class='same'> 11:05 jobs.royalholloway.ac.uk</li>
@@ -30319,6 +33227,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 22:26 abcnews.go.com</li>
+</ul>
 
 <br>
 
@@ -30411,7 +33324,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:33 www.stalbansjudo.org.uk</li>
 <li class='same'> 09:32 www.stalbansjudo.org.uk</li>
 <li class='same'> 09:31 www.stalbansjudo.org.uk</li>
-<li> 09:20 jobs.royalholloway.ac.uk</li>
+<li> 09:23 jobs.royalholloway.ac.uk</li>
+<li class='same'> 09:20 jobs.royalholloway.ac.uk</li>
 </ul>
 
 <H3>Sunday, 22/10/23</H3>
@@ -30468,6 +33382,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:46 andsoshethinks.co.uk</li>
+<li> 09:45 www.amazon.co.uk</li>
 </ul>
 
 <br>
@@ -30506,6 +33421,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:26 www.giantitp.com</li>
+<li class='same'> 15:25 www.giantitp.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:24 www.natwest.com</li>
 <li> 13:18 www.onlinebanking.natwest.com</li>
 <li> 13:18 www.natwest.com</li>
@@ -30538,7 +33459,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:18 whitewaterwriters.com</li>
+<ul><li> 10:29 www.amazon.co.uk</li>
+<li> 10:18 whitewaterwriters.com</li>
 <li> 09:57 mail.google.com</li>
 <li> 09:48 docs.google.com</li>
 </ul>
@@ -30552,6 +33474,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:07 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:17 search.google.com</li>
 </ul>
 
 <br>
@@ -30591,7 +33518,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:00 abcnews.go.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:32 bsky.app</li>
+<li> 13:28 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 11:58 gettingthingsdone.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:01 equalitytime.github.io</li>
+<li class='same'> 10:52 equalitytime.github.io</li>
+<li class='same'> 10:51 equalitytime.github.io</li>
 </ul>
 
 <br>
@@ -30604,6 +33549,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 17:09 www.giantitp.com</li>
+</ul>
 
 <br>
 
@@ -30635,11 +33585,12 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:56 findarace.com</li>
 <li> 07:48 <a href="https://www.youtube.com/playlist?list=WL">(5) Watch later - YouTube</a></li>
+<li> 07:35 www.amazon.co.uk</li>
 </ul>
 
 <br>
 
-<ul><li> 06:58 www.amazon.co.uk</li>
+<ul><li class='same'> 06:58 www.amazon.co.uk</li>
 <li> 06:54 jobs.royalholloway.ac.uk</li>
 </ul>
 
@@ -30669,6 +33620,16 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:56 docs.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 16:06 www.giantitp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:49 abcnews.go.com</li>
+</ul>
+
 <H3>Sunday, 08/10/23</H3>
 
 <br>
@@ -30692,6 +33653,18 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:49 www.amazon.co.uk</li>
 </ul>
 
+<H3>Friday, 06/10/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 07:27 equalitytime.github.io</li>
+<li class='same'> 07:19 equalitytime.github.io</li>
+</ul>
+
 <H3>Thursday, 05/10/23</H3>
 
 <br>
@@ -30710,6 +33683,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:37 fritz.box</li>
 <li class='same'> 18:36 fritz.box</li>
 <li class='same'> 18:34 fritz.box</li>
+</ul>
+
+<br>
+
+<ul><li> 14:10 search.google.com</li>
+<li> 14:10 www.google.com</li>
 </ul>
 
 <br>
@@ -30767,6 +33746,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 16:13 www.giantitp.com</li>
+<li class='same'> 16:12 www.giantitp.com</li>
+<li class='same'> 16:11 www.giantitp.com</li>
+</ul>
+
+<br>
+
 <ul><li> 15:28 fritz.box</li>
 </ul>
 
@@ -30816,6 +33802,22 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:19 accounts.google.com</li>
 <li> 10:49 www.gmail.com</li>
+</ul>
+
+<H3>Thursday, 28/09/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 13:49 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li> 11:22 www.silverstonemuseum.co.uk</li>
 </ul>
 
 <H3>Wednesday, 27/09/23</H3>
@@ -30871,12 +33873,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:00 www.google.com</li>
+<ul><li> 19:10 www.giantitp.com</li>
+<li> 19:00 www.google.com</li>
 </ul>
 
 <br>
 
 <ul><li> 14:51 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 10:29 uofglasgow.zoom.us</li>
+<li> 10:09 github.com</li>
 </ul>
 
 <H3>Sunday, 24/09/23</H3>
@@ -30928,6 +33937,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:25 127.0.0.1:4000</li>
 <li class='same'> 07:22 127.0.0.1:4000</li>
 <li class='same'> 06:53 127.0.0.1:4000</li>
+<li> 06:43 github.com</li>
 </ul>
 
 <H3>Tuesday, 19/09/23</H3>
@@ -30938,7 +33948,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:13 github.com</li>
+<ul><li class='same'> 16:13 github.com</li>
 </ul>
 
 <br>
@@ -31045,6 +34055,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:56 www.dropbox.com</li>
+<li> 07:31 www.giantitp.com</li>
+<li class='same'> 07:30 www.giantitp.com</li>
+<li class='same'> 07:29 www.giantitp.com</li>
+<li class='same'> 07:25 www.giantitp.com</li>
 </ul>
 
 <H3>Thursday, 14/09/23</H3>
@@ -31052,6 +34066,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 07:26 equalitytime.github.io</li>
+<li class='same'> 07:18 equalitytime.github.io</li>
+</ul>
 
 <br>
 
@@ -31067,11 +34087,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:56 <a href="https://en.wikipedia.org/wiki/Planck_constant">Planck constant - Wikipedia</a></li>
+<li> 20:46 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
 </ul>
 
 <br>
 
 <ul><li> 13:55 www.gla.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 11:42 equalitytime.github.io</li>
 </ul>
 
 <br>
@@ -31087,6 +34113,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:48 www.giantitp.com</li>
+<li class='same'> 21:47 www.giantitp.com</li>
+<li> 21:17 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+</ul>
 
 <br>
 
@@ -31134,6 +34167,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:30 fritz.box</li>
 <li class='same'> 13:29 fritz.box</li>
 <li class='same'> 13:27 fritz.box</li>
+<li> 13:10 www.amazon.co.uk</li>
 </ul>
 
 <br>
@@ -31182,11 +34216,21 @@ With number of accesses/minutes in parentheses
 <li> 11:30 www.royalholloway.ac.uk</li>
 </ul>
 
+<br>
+
+<ul><li> 09:45 www.gutenberg.org</li>
+</ul>
+
 <H3>Wednesday, 06/09/23</H3>
 
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 22:32 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+</ul>
 
 <br>
 
@@ -31271,11 +34315,21 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:22 127.0.0.1:4000</li>
 </ul>
 
+<br>
+
+<ul><li> 11:39 mail.google.com</li>
+</ul>
+
 <H3>Thursday, 31/08/23</H3>
 
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:00 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+</ul>
 
 <br>
 
@@ -31320,6 +34374,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 17:24 www.amazon.co.uk</li>
+<li class='same'> 17:21 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 16:46 equalitytime.github.io</li>
 </ul>
 
@@ -31338,6 +34398,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:58 www.meads.w-sussex.sch.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 07:15 mail.google.com</li>
 </ul>
 
 <br>
@@ -31379,7 +34444,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:12 askubuntu.com</li>
+<ul><li> 12:20 www.amazon.co.uk</li>
+<li> 12:12 askubuntu.com</li>
 </ul>
 
 <br>
@@ -31409,12 +34475,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 19:22 www.giantitp.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:26 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 12:34 analytics.google.com</li>
+<ul><li> 12:51 search.google.com</li>
+<li> 12:34 analytics.google.com</li>
 <li> 12:07 www.instagram.com</li>
 </ul>
 
@@ -31426,7 +34498,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:11 bsky.app</li>
+<ul><li> 10:15 www.amazon.co.uk</li>
+<li> 10:11 bsky.app</li>
 </ul>
 
 <br>
@@ -31442,7 +34515,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:47 www.google.com</li>
+<ul><li> 18:47 www.giantitp.com</li>
+<li> 18:47 www.google.com</li>
 </ul>
 
 <br>
@@ -31483,8 +34557,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:53 <a href="https://en.wikipedia.org/wiki/Planck_constant">Planck constant - Wikipedia</a></li>
+<ul><li> 20:53 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 20:09 <a href="https://en.wikipedia.org/wiki/Cosmological_constant">Cosmological constant - Wikipedia</a></li>
+<li> 19:53 <a href="https://en.wikipedia.org/wiki/Planck_constant">Planck constant - Wikipedia</a></li>
 <li> 19:43 www.wolframalpha.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:38 uofglasgow.zoom.us</li>
 </ul>
 
 <br>
@@ -31506,7 +34591,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 12:39 www.amazon.co.uk</li>
+<ul><li> 21:10 <a href="https://en.wikipedia.org/wiki/Cosmological_constant">Cosmological constant - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 12:39 www.amazon.co.uk</li>
 </ul>
 
 <br>
@@ -31540,6 +34630,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:02 forum.artofmemory.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:24 www.giantitp.com</li>
 </ul>
 
 <H3>Wednesday, 16/08/23</H3>
@@ -31585,6 +34680,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 15:30 www.giantitp.com</li>
+<li class='same'> 15:28 www.giantitp.com</li>
+</ul>
 
 <br>
 
@@ -31737,6 +34838,7 @@ With number of accesses/minutes in parentheses
 <li> 10:29 www.pcspecialist.co.uk</li>
 <li class='same'> 10:26 www.pcspecialist.co.uk</li>
 <li class='same'> 10:25 www.pcspecialist.co.uk</li>
+<li> 10:20 search.google.com</li>
 </ul>
 
 <br>
@@ -31914,7 +35016,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:18 <a href="https://en.wikipedia.org/wiki/Bluey_(2018_TV_series)">Bluey (2018 TV series) - Wikipedia</a></li>
+<ul><li> 14:19 mail.google.com</li>
+<li> 14:18 <a href="https://en.wikipedia.org/wiki/Bluey_(2018_TV_series)">Bluey (2018 TV series) - Wikipedia</a></li>
 <li> 14:06 github.com</li>
 <li> 13:41 scholar.google.com</li>
 <li> 13:23 whitewaterwriters.com</li>
@@ -32160,6 +35263,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:27 search.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 14:33 calendar.google.com</li>
 </ul>
 
@@ -32178,6 +35286,12 @@ With number of accesses/minutes in parentheses
 <li> 10:56 analytics.google.com</li>
 <li> 10:56 accounts.google.co.uk</li>
 <li> 10:55 analytics.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:25 www.amazon.co.uk</li>
+<li class='same'> 09:24 www.amazon.co.uk</li>
 </ul>
 
 <br>
@@ -32214,6 +35328,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:13 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:41 pypi.org</li>
 </ul>
 
 <H3>Tuesday, 27/06/23</H3>
@@ -32264,6 +35383,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:16 www.wolframalpha.com</li>
 <li> 17:15 www.meads.w-sussex.sch.uk</li>
+<li> 17:06 www.giantitp.com</li>
 <li> 17:06 www.google.com</li>
 </ul>
 
@@ -32341,10 +35461,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 09:59 askubuntu.com</li>
+<ul><li> 10:44 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:59 askubuntu.com</li>
 <li> 09:54 www.pcspecialist.co.uk</li>
 <li> 09:53 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
+<li> 09:51 www.amazon.co.uk</li>
 <li> 09:49 www.pcspecialist.co.uk</li>
+<li> 09:45 www.amazon.co.uk</li>
 <li> 09:41 askubuntu.com</li>
 </ul>
 
@@ -32610,6 +35737,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 07:38 www.reddit.com</li>
+<li class='same'> 07:36 www.reddit.com</li>
+</ul>
+
+<br>
+
 <ul><li> 06:42 www.google.com</li>
 </ul>
 
@@ -32670,11 +35803,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:07 github.com</li>
-</ul>
-
-<br>
-
-<ul><li> 06:34 www.onlinebanking.natwest.com</li>
+<li> 06:55 www.reddit.com</li>
+<li> 06:34 www.onlinebanking.natwest.com</li>
 <li> 06:34 www.natwest.com</li>
 </ul>
 
@@ -32851,6 +35981,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:08 www.camerajungle.co.uk</li>
 <li> 14:38 analytics.google.com</li>
 <li> 14:34 panel.dreamhost.com</li>
+<li> 14:20 equalitytime.github.io</li>
 </ul>
 
 <H3>Saturday, 13/05/23</H3>
@@ -32873,12 +36004,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:58 analytics.google.com</li>
+<ul><li> 13:13 equalitytime.github.io</li>
+<li> 12:58 analytics.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 11:33 www.amazon.co.uk</li>
+<ul><li> 11:34 www.amazon.co.uk</li>
+<li class='same'> 11:33 www.amazon.co.uk</li>
 </ul>
 
 <br>
@@ -32905,7 +36038,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 10:15 analytics.google.com</li>
+<ul><li> 13:36 gettingthingsdone.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:15 analytics.google.com</li>
 <li> 10:14 equalitytime.github.io</li>
 </ul>
 
@@ -33010,6 +36148,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:46 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:08 www.tightrope.co.uk</li>
 </ul>
 
 <H3>Wednesday, 26/04/23</H3>
@@ -33360,6 +36503,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:01 www.tightrope.co.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 10:05 account.kdp.amazon.com</li>
 </ul>
 
@@ -33410,6 +36558,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:52 andsoshethinks.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 15:07 gettingthingsdone.com</li>
 </ul>
 
 <br>
@@ -33787,6 +36940,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 09:54 docs.google.com</li>
+<li> 09:51 gettingthingsdone.com</li>
 </ul>
 
 <H3>Monday, 12/12/22</H3>
@@ -33882,6 +37036,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 15:06 search.google.com</li>
+</ul>
 
 <br>
 
@@ -34057,6 +37216,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:11 www.explainxkcd.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:27 search.google.com</li>
 </ul>
 
 <H3>Wednesday, 02/11/22</H3>
@@ -34237,6 +37401,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:07 equalitytime.github.io</li>
+</ul>
+
+<br>
+
 <ul><li> 09:42 panel.dreamhost.com</li>
 </ul>
 
@@ -34293,6 +37462,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:48 accounts.google.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 11:34 equalitytime.github.io</li>
 </ul>
 
 <br>
@@ -34472,7 +37646,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:25 search.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:32 find-and-update.company-information.service.gov.uk</li>
+</ul>
+
+<H3>Saturday, 03/09/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 07:18 search.google.com</li>
 </ul>
 
 <H3>Wednesday, 31/08/22</H3>
@@ -34564,6 +37754,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:11 mail.google.com</li>
 </ul>
 
+<H3>Sunday, 31/07/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 07:57 search.google.com</li>
+</ul>
+
 <H3>Thursday, 28/07/22</H3>
 
 <br>
@@ -34625,6 +37826,18 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:15 find-and-update.company-information.service.gov.uk</li>
 </ul>
 
+<H3>Sunday, 19/06/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 11:52 search.google.com</li>
+<li> 11:52 www.google.com</li>
+</ul>
+
 <H3>Saturday, 11/06/22</H3>
 
 <br>
@@ -34633,7 +37846,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:16 www.google.com</li>
+<ul><li class='same'> 12:16 www.google.com</li>
 </ul>
 
 <H3>Wednesday, 08/06/22</H3>
@@ -34802,6 +38015,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:40 whitewaterwriters.com</li>
 </ul>
 
+<H3>Monday, 11/04/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 15:15 search.google.com</li>
+</ul>
+
 <H3>Wednesday, 06/04/22</H3>
 
 <br>
@@ -34834,6 +38058,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 19:34 search.google.com</li>
+</ul>
 
 <br>
 
@@ -34870,6 +38099,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:14 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:26 search.google.com</li>
 </ul>
 
 <H3>Thursday, 17/03/22</H3>
@@ -35553,6 +38787,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:32 mail.google.com</li>
 </ul>
 
+<H3>Thursday, 04/03/21</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 08:05 www.google.com</li>
+</ul>
+
 <H3>Tuesday, 16/02/21</H3>
 
 <br>
@@ -35561,7 +38806,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 15:56 mail.google.com</li>
+<ul><li> 15:56 mail.google.com</li>
 </ul>
 
 <H3>Sunday, 14/02/21</H3>
@@ -35680,6 +38925,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:18 <a href="https://www.youtube.com/playlist?list=WL">(5) Watch later - YouTube</a></li>
 </ul>
 
+<H3>Sunday, 11/10/20</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 05:39 www.google.com</li>
+</ul>
+
 <H3>Sunday, 04/10/20</H3>
 
 <br>
@@ -35688,7 +38944,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 12:24 <a href="https://www.youtube.com/playlist?list=WL">(5) Watch later - YouTube</a></li>
+<ul><li> 12:24 <a href="https://www.youtube.com/playlist?list=WL">(5) Watch later - YouTube</a></li>
 </ul>
 
 <H3>Thursday, 03/09/20</H3>
