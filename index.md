@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2379)</li>
+<ol><li>www.google.com (2385)</li>
 <li>outlook.office.com (1441)</li>
 <li>mail.google.com (1424)</li>
 <li>docs.google.com (1329)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (402)</li>
 <li>rhul-my.sharepoint.com (380)</li>
 <li>duckduckgo.com (348)</li>
-<li>github.com (312)</li>
+<li>github.com (313)</li>
 <li>calendar.google.com (307)</li>
 <li>www.linkedin.com (306)</li>
 <li>moodle.royalholloway.ac.uk (301)</li>
@@ -105,6 +105,16 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 24/02/25</H3>
+
+<br>
+
+<ul><li> 16:22 www.google.com</li>
+<li> 16:22 weather.metoffice.gov.uk</li>
+<li class='same'> 15:56 weather.metoffice.gov.uk</li>
+<li> 15:56 www.google.com</li>
+<li class='same'> 15:55 www.google.com</li>
+<li> 15:55 www.camerajungle.co.uk</li>
+</ul>
 
 <br>
 
@@ -252,6 +262,9 @@ With number of accesses/minutes in parentheses
 <li> 10:29 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 10:24 <a href="https://en.wikipedia.org/wiki/Triathlon">Triathlon - Wikipedia</a></li>
 <li> 10:24 www.google.com</li>
+<li> 10:21 www.camerajungle.co.uk</li>
+<li class='same'> 10:20 www.camerajungle.co.uk</li>
+<li> 10:20 www.google.com</li>
 <li> 10:02 fritz.box</li>
 <li class='same'> 09:38 fritz.box</li>
 <li class='same'> 09:37 fritz.box</li>
@@ -317,7 +330,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:03 www.google.com</li>
+<ul><li> 18:05 www.google.com</li>
+<li> 18:05 www.tiktok.com</li>
+<li> 18:05 www.google.com</li>
+<li> 18:04 www.quora.com</li>
+<li> 18:03 www.google.com</li>
 <li> 17:39 jwstfeed.com</li>
 <li> 17:39 www.google.com</li>
 <li class='same'> 17:38 www.google.com</li>
@@ -28984,8 +29001,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 22:22 intranet.royalholloway.ac.uk</li>
 <li> 22:15 librarysearch.royalholloway.ac.uk</li>
 <li> 22:15 www.google.com</li>
+<li> 21:57 www.camerajungle.co.uk</li>
 <li> 21:57 www.ebay.co.uk</li>
 <li> 21:54 www.camerajungle.co.uk</li>
+<li class='same'> 21:46 www.camerajungle.co.uk</li>
 <li> 21:31 www.amazon.co.uk</li>
 </ul>
 
@@ -30041,7 +30060,8 @@ With number of accesses/minutes in parentheses
 <li> 11:38 accounts.google.com</li>
 <li> 11:37 accounts.firefox.com</li>
 <li> 11:34 myview.rhul.zellis.com</li>
-<li class='same'> 11:30 myview.rhul.zellis.com</li>
+<li> 11:33 open.spotify.com</li>
+<li> 11:30 myview.rhul.zellis.com</li>
 </ul>
 
 <br>
@@ -30176,7 +30196,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:53 www.camerajungle.co.uk</li>
+<ul><li> 15:54 www.camerajungle.co.uk</li>
+<li class='same'> 15:53 www.camerajungle.co.uk</li>
 </ul>
 
 <H3>Friday, 15/03/24</H3>
@@ -34165,7 +34186,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 16:13 github.com</li>
+<ul><li class='same'> 16:16 github.com</li>
+<li class='same'> 16:13 github.com</li>
 </ul>
 
 <br>
@@ -35720,6 +35742,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:02 open.spotify.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:56 www.google.co.uk</li>
 </ul>
 
@@ -35766,11 +35793,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:27 andsoshethinks.co.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 05:53 <a href="https://www.youtube.com/account">(114) YouTube</a></li>
+<li> 05:58 open.spotify.com</li>
+<li> 05:53 <a href="https://www.youtube.com/account">(114) YouTube</a></li>
 <li> 05:53 <a href="https://www.youtube.com/signin_prompt?next=https%3A%2F%2Fwww.youtube.com%2F"></a></li>
 </ul>
 
