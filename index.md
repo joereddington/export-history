@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2449)</li>
+<ol><li>www.google.com (2454)</li>
 <li>outlook.office.com (1660)</li>
 <li>mail.google.com (1558)</li>
 <li>docs.google.com (1394)</li>
 <li>bsky.app (1213)</li>
 <li>outlook.office365.com (1141)</li>
-<li>www.reddit.com (664)</li>
+<li>www.reddit.com (665)</li>
 <li>www.facebook.com (656)</li>
 <li>www.amazon.co.uk (525)</li>
 <li>chatgpt.com (439)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:08 www.google.com</li>
+<ul><li> 20:59 www.reddit.com</li>
+<li> 20:59 www.google.com</li>
+<li> 20:50 opera-guide.ch</li>
+<li> 20:50 www.google.com</li>
+<li class='same'> 20:49 www.google.com</li>
+<li class='same'> 20:44 www.google.com</li>
+<li class='same'> 20:43 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:08 www.google.com</li>
 <li> 18:50 tvtropes.org</li>
 <li> 18:50 www.google.com</li>
 <li class='same'> 18:49 www.google.com</li>
