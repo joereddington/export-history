@@ -69,22 +69,22 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2421)</li>
-<li>outlook.office.com (1643)</li>
+<li>outlook.office.com (1649)</li>
 <li>mail.google.com (1556)</li>
 <li>docs.google.com (1391)</li>
 <li>bsky.app (1212)</li>
-<li>outlook.office365.com (1139)</li>
-<li>www.reddit.com (658)</li>
+<li>outlook.office365.com (1141)</li>
+<li>www.reddit.com (660)</li>
 <li>www.facebook.com (653)</li>
 <li>www.amazon.co.uk (522)</li>
 <li>chatgpt.com (439)</li>
 <li>duckduckgo.com (426)</li>
 <li>rhul-my.sharepoint.com (401)</li>
 <li>www.linkedin.com (334)</li>
+<li>github.com (328)</li>
 <li>calendar.google.com (327)</li>
-<li>github.com (326)</li>
 <li>moodle.royalholloway.ac.uk (318)</li>
-<li>login.microsoftonline.com (277)</li>
+<li>login.microsoftonline.com (278)</li>
 <li>fritz.box (271)</li>
 <li>qbo.intuit.com (204)</li>
 <li>tvtropes.org (199)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:43 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 13:57 127.0.0.1:5000</li>
+<li> 13:56 outlook.office365.com</li>
+<li> 13:56 outlook.office.com</li>
+<li> 13:53 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:53 github.com</li>
+<li> 13:53 www.reddit.com</li>
+<li class='same'> 13:52 www.reddit.com</li>
+<li> 13:50 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:49 gitlab.cim.rhul.ac.uk</li>
+<li> 13:48 outlook.office.com</li>
+<li class='same'> 13:47 outlook.office.com</li>
+<li class='same'> 13:46 outlook.office.com</li>
+<li class='same'> 13:45 outlook.office.com</li>
+<li> 13:45 outlook.office365.com</li>
+<li> 13:45 login.microsoftonline.com</li>
+<li> 13:43 github.com</li>
+<li> 13:43 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 13:43 calendar.google.com</li>
 <li class='same'> 13:37 calendar.google.com</li>
 <li> 13:35 mail.google.com</li>
@@ -24390,7 +24406,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:39 events.teams.microsoft.com</li>
+<ul><li> 15:50 outlook.office.com</li>
+<li> 15:39 events.teams.microsoft.com</li>
 <li> 15:39 outlook.office.com</li>
 <li> 15:36 mail.google.com</li>
 <li> 15:28 drive.google.com</li>
