@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2419)</li>
 <li>outlook.office.com (1643)</li>
 <li>mail.google.com (1553)</li>
-<li>docs.google.com (1387)</li>
+<li>docs.google.com (1390)</li>
 <li>bsky.app (1210)</li>
 <li>outlook.office365.com (1139)</li>
 <li>www.reddit.com (658)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (426)</li>
 <li>rhul-my.sharepoint.com (401)</li>
 <li>www.linkedin.com (333)</li>
-<li>github.com (325)</li>
+<li>github.com (326)</li>
 <li>calendar.google.com (324)</li>
 <li>moodle.royalholloway.ac.uk (318)</li>
 <li>login.microsoftonline.com (277)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:44 bridportprize.org.uk</li>
+<ul><li> 13:12 docs.google.com</li>
+<li class='same'> 13:11 docs.google.com</li>
+<li class='same'> 13:10 docs.google.com</li>
+<li> 12:45 github.com</li>
+<li> 12:44 www.spreadtheword.org.uk</li>
+<li> 12:44 bridportprize.org.uk</li>
 <li> 12:44 www.google.com</li>
 <li class='same'> 12:43 www.google.com</li>
 <li> 12:42 www.reddit.com</li>
