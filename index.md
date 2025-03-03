@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2421)</li>
-<li>outlook.office.com (1649)</li>
+<li>outlook.office.com (1654)</li>
 <li>mail.google.com (1556)</li>
 <li>docs.google.com (1391)</li>
 <li>bsky.app (1212)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (522)</li>
 <li>chatgpt.com (439)</li>
 <li>duckduckgo.com (426)</li>
-<li>rhul-my.sharepoint.com (401)</li>
+<li>rhul-my.sharepoint.com (402)</li>
 <li>www.linkedin.com (334)</li>
 <li>github.com (328)</li>
 <li>calendar.google.com (327)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (188)</li>
 <li>gmail.com (169)</li>
 <li>feedly.com (168)</li>
-<li>web.whatsapp.com (167)</li>
+<li>web.whatsapp.com (168)</li>
 <li>rhul.sharepoint.com (155)</li>
 <li>www.theguardian.com (150)</li>
 <li>forms.office.com (148)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:57 127.0.0.1:5000</li>
+<ul><li> 14:32 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:25 outlook.office.com</li>
+<li> 14:25 careers.gevernova.com</li>
+<li class='same'> 14:24 careers.gevernova.com</li>
+<li> 14:24 www.gevernova.com</li>
+<li> 14:24 outlook.office.com</li>
+<li class='same'> 14:23 outlook.office.com</li>
+<li class='same'> 14:19 outlook.office.com</li>
+<li> 14:19 dashboards.rhul.ac.uk</li>
+<li class='same'> 14:18 dashboards.rhul.ac.uk</li>
+<li> 14:17 outlook.office.com</li>
+<li> 14:16 rhul-my.sharepoint.com</li>
+<li> 14:16 web.whatsapp.com</li>
+<li> 13:57 127.0.0.1:5000</li>
 <li> 13:56 outlook.office365.com</li>
 <li> 13:56 outlook.office.com</li>
 <li> 13:53 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
