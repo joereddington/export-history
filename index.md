@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2414)</li>
 <li>outlook.office.com (1643)</li>
-<li>mail.google.com (1551)</li>
+<li>mail.google.com (1552)</li>
 <li>docs.google.com (1387)</li>
 <li>bsky.app (1210)</li>
 <li>outlook.office365.com (1139)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (401)</li>
 <li>www.linkedin.com (333)</li>
 <li>calendar.google.com (324)</li>
-<li>github.com (322)</li>
+<li>github.com (323)</li>
 <li>moodle.royalholloway.ac.uk (318)</li>
 <li>login.microsoftonline.com (277)</li>
 <li>fritz.box (271)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (199)</li>
 <li>www.coursera.org (198)</li>
 <li>drive.google.com (188)</li>
-<li>gmail.com (168)</li>
+<li>gmail.com (169)</li>
 <li>feedly.com (167)</li>
 <li>web.whatsapp.com (166)</li>
 <li>rhul.sharepoint.com (155)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:12 mail.google.com</li>
+<ul><li> 12:27 github.com</li>
+<li> 12:25 whitewaterwriters.com</li>
+<li> 12:22 www.whitewaterwriters.com</li>
+<li> 12:21 13.40.0.39</li>
+<li class='same'> 12:19 13.40.0.39</li>
+<li class='same'> 12:18 13.40.0.39</li>
+<li> 12:18 support.mozilla.org</li>
+<li> 12:12 mail.google.com</li>
+<li> 12:12 gmail.com</li>
+<li> 12:12 mail.google.com</li>
 <li> 12:01 equalitytime.github.io</li>
 <li> 11:59 apply.unity.co.uk</li>
 <li> 11:59 eu-west-2.console.aws.amazon.com</li>
