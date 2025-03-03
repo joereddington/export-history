@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2414)</li>
 <li>outlook.office.com (1643)</li>
-<li>mail.google.com (1550)</li>
+<li>mail.google.com (1551)</li>
 <li>docs.google.com (1387)</li>
 <li>bsky.app (1210)</li>
 <li>outlook.office365.com (1139)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:59 apply.unity.co.uk</li>
+<ul><li> 12:12 mail.google.com</li>
+<li> 12:01 equalitytime.github.io</li>
+<li> 11:59 apply.unity.co.uk</li>
 <li> 11:59 eu-west-2.console.aws.amazon.com</li>
 <li> 11:59 eu-west-2.signin.aws.amazon.com</li>
 <li> 11:59 eu-west-2.console.aws.amazon.com</li>
