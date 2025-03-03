@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2412)</li>
 <li>outlook.office.com (1643)</li>
-<li>mail.google.com (1542)</li>
-<li>docs.google.com (1384)</li>
-<li>bsky.app (1207)</li>
+<li>mail.google.com (1544)</li>
+<li>docs.google.com (1386)</li>
+<li>bsky.app (1210)</li>
 <li>outlook.office365.com (1139)</li>
 <li>www.reddit.com (657)</li>
 <li>www.facebook.com (653)</li>
 <li>www.amazon.co.uk (518)</li>
 <li>chatgpt.com (439)</li>
-<li>duckduckgo.com (422)</li>
+<li>duckduckgo.com (423)</li>
 <li>rhul-my.sharepoint.com (401)</li>
 <li>www.linkedin.com (333)</li>
 <li>calendar.google.com (324)</li>
@@ -89,12 +89,12 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (204)</li>
 <li>tvtropes.org (199)</li>
 <li>www.coursera.org (198)</li>
-<li>drive.google.com (185)</li>
-<li>feedly.com (166)</li>
+<li>drive.google.com (186)</li>
+<li>feedly.com (167)</li>
 <li>web.whatsapp.com (165)</li>
-<li>gmail.com (163)</li>
+<li>gmail.com (164)</li>
 <li>rhul.sharepoint.com (155)</li>
-<li>www.theguardian.com (149)</li>
+<li>www.theguardian.com (150)</li>
 <li>forms.office.com (148)</li>
 <li>chat.openai.com (143)</li>
 <li>ev.turnitinuk.com (128)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:54 link.springer.com</li>
+<ul><li> 11:02 docs.google.com</li>
+<li> 11:02 drive.google.com</li>
+<li> 11:01 www.researchgate.net</li>
+<li> 11:01 duckduckgo.com</li>
+<li> 11:00 link.springer.com</li>
+<li class='same'> 10:54 link.springer.com</li>
 <li> 10:54 idp.springer.com</li>
 <li> 10:54 scholar.google.com</li>
 <li> 10:53 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
@@ -146,6 +151,15 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:28 localhost:8000</li>
 <li> 09:26 fast.com</li>
+<li> 09:23 docs.google.com</li>
+<li> 09:23 mail.google.com</li>
+<li class='same'> 09:22 mail.google.com</li>
+<li> 09:22 gmail.com</li>
+<li> 09:21 www.theguardian.com</li>
+<li> 09:21 feedly.com</li>
+<li> 09:21 bsky.app</li>
+<li class='same'> 09:20 bsky.app</li>
+<li class='same'> 09:19 bsky.app</li>
 <li> 09:18 <a href="https://xkcd.com/416/">xkcd: Zealous Autoconfig</a></li>
 <li> 09:15 www.reddit.com</li>
 <li class='same'> 09:13 www.reddit.com</li>
