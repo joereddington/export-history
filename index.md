@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2411)</li>
+<ol><li>www.google.com (2412)</li>
 <li>outlook.office.com (1643)</li>
 <li>mail.google.com (1542)</li>
 <li>docs.google.com (1384)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:40 chatgpt.com</li>
+<ul><li> 10:54 link.springer.com</li>
+<li> 10:54 idp.springer.com</li>
+<li> 10:54 scholar.google.com</li>
+<li> 10:53 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 10:53 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 10:53 scholar.google.com</li>
+<li> 10:53 www.google.com</li>
+<li> 10:51 <a href="https://en.wikipedia.org/wiki/User_talk:RoySmith">User talk:RoySmith - Wikipedia</a></li>
+<li> 10:51 <a href="https://en.wikipedia.org/wiki/User:RoySmith">User:RoySmith - Wikipedia</a></li>
+<li> 10:51 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 10:51 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 10:51 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:51 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:51 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 10:51 <a href="https://en.wikipedia.org/wiki/Special:CentralLogin/complete?token=809f0c2be075dd50ccceba98d36b7017&usesul3=0"></a></li>
+<li> 10:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 10:51 login.wikimedia.org</li>
+<li> 10:50 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 10:50 login.wikimedia.org</li>
+<li> 10:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page"></a></li>
+<li> 10:50 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 10:50 <a href="https://en.wikipedia.org/"></a></li>
+<li> 10:50 www.wikipedia.org</li>
+<li> 10:40 chatgpt.com</li>
 <li> 10:40 chat.openai.com</li>
 <li> 10:30 chatgpt.com</li>
 <li class='same'> 10:29 chatgpt.com</li>
