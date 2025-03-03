@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2414)</li>
+<ol><li>www.google.com (2419)</li>
 <li>outlook.office.com (1643)</li>
-<li>mail.google.com (1552)</li>
+<li>mail.google.com (1553)</li>
 <li>docs.google.com (1387)</li>
 <li>bsky.app (1210)</li>
 <li>outlook.office365.com (1139)</li>
-<li>www.reddit.com (657)</li>
+<li>www.reddit.com (658)</li>
 <li>www.facebook.com (653)</li>
-<li>www.amazon.co.uk (518)</li>
+<li>www.amazon.co.uk (520)</li>
 <li>chatgpt.com (439)</li>
 <li>duckduckgo.com (426)</li>
 <li>rhul-my.sharepoint.com (401)</li>
 <li>www.linkedin.com (333)</li>
+<li>github.com (325)</li>
 <li>calendar.google.com (324)</li>
-<li>github.com (323)</li>
 <li>moodle.royalholloway.ac.uk (318)</li>
 <li>login.microsoftonline.com (277)</li>
 <li>fritz.box (271)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:27 github.com</li>
+<ul><li> 12:44 bridportprize.org.uk</li>
+<li> 12:44 www.google.com</li>
+<li class='same'> 12:43 www.google.com</li>
+<li> 12:42 www.reddit.com</li>
+<li> 12:42 www.google.com</li>
+<li> 12:42 mail.google.com</li>
+<li> 12:41 www.amazon.co.uk</li>
+<li class='same'> 12:40 www.amazon.co.uk</li>
+<li> 12:40 www.amazon.com</li>
+<li class='same'> 12:39 www.amazon.com</li>
+<li> 12:37 www.sfadb.com</li>
+<li> 12:37 www.google.com</li>
+<li> 12:37 <a href="https://en.wikipedia.org/wiki/Arthur_C._Clarke_Award">Arthur C. Clarke Award - Wikipedia</a></li>
+<li> 12:37 www.google.com</li>
+<li> 12:36 github.com</li>
+<li class='same'> 12:28 github.com</li>
+<li class='same'> 12:27 github.com</li>
 <li> 12:25 whitewaterwriters.com</li>
 <li> 12:22 www.whitewaterwriters.com</li>
 <li> 12:21 13.40.0.39</li>
