@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (657)</li>
 <li>www.facebook.com (653)</li>
 <li>www.amazon.co.uk (518)</li>
-<li>chatgpt.com (436)</li>
+<li>chatgpt.com (439)</li>
 <li>duckduckgo.com (422)</li>
 <li>rhul-my.sharepoint.com (401)</li>
 <li>www.linkedin.com (333)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (155)</li>
 <li>www.theguardian.com (149)</li>
 <li>forms.office.com (148)</li>
-<li>chat.openai.com (141)</li>
+<li>chat.openai.com (143)</li>
 <li>ev.turnitinuk.com (128)</li>
 
 
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:25 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 10:40 chatgpt.com</li>
+<li> 10:40 chat.openai.com</li>
+<li> 10:30 chatgpt.com</li>
+<li class='same'> 10:29 chatgpt.com</li>
+<li> 10:29 chat.openai.com</li>
+<li> 10:25 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 10:25 docs.google.com</li>
 <li class='same'> 10:24 docs.google.com</li>
 <li class='same'> 10:22 docs.google.com</li>
