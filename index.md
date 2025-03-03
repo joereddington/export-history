@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2411)</li>
 <li>outlook.office.com (1643)</li>
 <li>mail.google.com (1542)</li>
-<li>docs.google.com (1381)</li>
+<li>docs.google.com (1384)</li>
 <li>bsky.app (1207)</li>
 <li>outlook.office365.com (1139)</li>
 <li>www.reddit.com (657)</li>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 03/03/25</H3>
+
+<br>
+
+<ul><li> 10:25 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 10:25 docs.google.com</li>
+<li class='same'> 10:24 docs.google.com</li>
+<li class='same'> 10:22 docs.google.com</li>
+</ul>
 
 <br>
 
