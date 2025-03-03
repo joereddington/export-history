@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2419)</li>
+<ol><li>www.google.com (2421)</li>
 <li>outlook.office.com (1643)</li>
-<li>mail.google.com (1553)</li>
-<li>docs.google.com (1390)</li>
-<li>bsky.app (1210)</li>
+<li>mail.google.com (1554)</li>
+<li>docs.google.com (1391)</li>
+<li>bsky.app (1212)</li>
 <li>outlook.office365.com (1139)</li>
 <li>www.reddit.com (658)</li>
 <li>www.facebook.com (653)</li>
-<li>www.amazon.co.uk (520)</li>
+<li>www.amazon.co.uk (522)</li>
 <li>chatgpt.com (439)</li>
 <li>duckduckgo.com (426)</li>
 <li>rhul-my.sharepoint.com (401)</li>
-<li>www.linkedin.com (333)</li>
+<li>www.linkedin.com (334)</li>
 <li>github.com (326)</li>
-<li>calendar.google.com (324)</li>
+<li>calendar.google.com (325)</li>
 <li>moodle.royalholloway.ac.uk (318)</li>
 <li>login.microsoftonline.com (277)</li>
 <li>fritz.box (271)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (198)</li>
 <li>drive.google.com (188)</li>
 <li>gmail.com (169)</li>
-<li>feedly.com (167)</li>
+<li>feedly.com (168)</li>
 <li>web.whatsapp.com (166)</li>
 <li>rhul.sharepoint.com (155)</li>
 <li>www.theguardian.com (150)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:12 docs.google.com</li>
+<ul><li> 13:25 www.amazon.co.uk</li>
+<li> 13:25 www.codelocks.co.uk</li>
+<li> 13:24 www.google.com</li>
+<li> 13:20 www.googleadservices.com</li>
+<li> 13:20 www.amazon.co.uk</li>
+<li> 13:20 www.google.com</li>
+<li> 13:13 docs.google.com</li>
+<li class='same'> 13:12 docs.google.com</li>
 <li class='same'> 13:11 docs.google.com</li>
 <li class='same'> 13:10 docs.google.com</li>
 <li> 12:45 github.com</li>
@@ -128,7 +135,12 @@ With number of accesses/minutes in parentheses
 <li> 12:37 <a href="https://en.wikipedia.org/wiki/Arthur_C._Clarke_Award">Arthur C. Clarke Award - Wikipedia</a></li>
 <li> 12:37 www.google.com</li>
 <li> 12:36 github.com</li>
-<li class='same'> 12:28 github.com</li>
+<li> 12:36 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:35 www.linkedin.com</li>
+<li> 12:30 bsky.app</li>
+<li class='same'> 12:29 bsky.app</li>
+<li> 12:29 calendar.google.com</li>
+<li> 12:28 github.com</li>
 <li class='same'> 12:27 github.com</li>
 <li> 12:25 whitewaterwriters.com</li>
 <li> 12:22 www.whitewaterwriters.com</li>
@@ -152,6 +164,8 @@ With number of accesses/minutes in parentheses
 <li> 11:57 signin.aws.amazon.com</li>
 <li> 11:57 eu-west-2.signin.aws.amazon.com</li>
 <li> 11:57 eu-west-2.console.aws.amazon.com</li>
+<li> 11:43 feedly.com</li>
+<li> 11:43 mail.google.com</li>
 <li> 11:40 web.whatsapp.com</li>
 <li> 11:38 apply.unity.co.uk</li>
 <li class='same'> 11:34 apply.unity.co.uk</li>
