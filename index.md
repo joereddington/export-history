@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2421)</li>
 <li>outlook.office.com (1643)</li>
-<li>mail.google.com (1554)</li>
+<li>mail.google.com (1556)</li>
 <li>docs.google.com (1391)</li>
 <li>bsky.app (1212)</li>
 <li>outlook.office365.com (1139)</li>
@@ -81,8 +81,8 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (426)</li>
 <li>rhul-my.sharepoint.com (401)</li>
 <li>www.linkedin.com (334)</li>
+<li>calendar.google.com (327)</li>
 <li>github.com (326)</li>
-<li>calendar.google.com (325)</li>
 <li>moodle.royalholloway.ac.uk (318)</li>
 <li>login.microsoftonline.com (277)</li>
 <li>fritz.box (271)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (188)</li>
 <li>gmail.com (169)</li>
 <li>feedly.com (168)</li>
-<li>web.whatsapp.com (166)</li>
+<li>web.whatsapp.com (167)</li>
 <li>rhul.sharepoint.com (155)</li>
 <li>www.theguardian.com (150)</li>
 <li>forms.office.com (148)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:25 www.amazon.co.uk</li>
+<ul><li> 13:43 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:43 calendar.google.com</li>
+<li class='same'> 13:37 calendar.google.com</li>
+<li> 13:35 mail.google.com</li>
+<li> 13:33 web.whatsapp.com</li>
+<li> 13:33 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:33 mail.google.com</li>
+<li> 13:25 urmet.co.uk</li>
+<li> 13:25 www.amazon.co.uk</li>
 <li> 13:25 www.codelocks.co.uk</li>
 <li> 13:24 www.google.com</li>
 <li> 13:20 www.googleadservices.com</li>
