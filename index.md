@@ -71,25 +71,25 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2412)</li>
 <li>outlook.office.com (1643)</li>
 <li>mail.google.com (1544)</li>
-<li>docs.google.com (1386)</li>
+<li>docs.google.com (1387)</li>
 <li>bsky.app (1210)</li>
 <li>outlook.office365.com (1139)</li>
 <li>www.reddit.com (657)</li>
 <li>www.facebook.com (653)</li>
 <li>www.amazon.co.uk (518)</li>
 <li>chatgpt.com (439)</li>
-<li>duckduckgo.com (423)</li>
+<li>duckduckgo.com (425)</li>
 <li>rhul-my.sharepoint.com (401)</li>
 <li>www.linkedin.com (333)</li>
 <li>calendar.google.com (324)</li>
 <li>github.com (322)</li>
 <li>moodle.royalholloway.ac.uk (318)</li>
-<li>login.microsoftonline.com (276)</li>
+<li>login.microsoftonline.com (277)</li>
 <li>fritz.box (271)</li>
 <li>qbo.intuit.com (204)</li>
 <li>tvtropes.org (199)</li>
 <li>www.coursera.org (198)</li>
-<li>drive.google.com (186)</li>
+<li>drive.google.com (188)</li>
 <li>feedly.com (167)</li>
 <li>web.whatsapp.com (165)</li>
 <li>gmail.com (164)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:02 docs.google.com</li>
+<ul><li> 11:15 docs.google.com</li>
+<li> 11:13 www.wired.com</li>
+<li> 11:12 drive.google.com</li>
+<li class='same'> 11:11 drive.google.com</li>
+<li> 11:11 ieeexplore.ieee.org</li>
+<li> 11:11 login.openathens.net</li>
+<li> 11:11 login.microsoftonline.com</li>
+<li> 11:10 ieeexplore.ieee.org</li>
+<li> 11:10 scholar.google.co.uk</li>
+<li> 11:10 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 11:10 scholar.google.co.uk</li>
+<li class='same'> 11:09 scholar.google.co.uk</li>
+<li> 11:09 pmc.ncbi.nlm.nih.gov</li>
+<li> 11:09 scholar.google.co.uk</li>
+<li> 11:08 link.springer.com</li>
+<li> 11:07 brightsec.com</li>
+<li> 11:06 pure.ulster.ac.uk</li>
+<li> 11:06 scholar.google.co.uk</li>
+<li> 11:06 duckduckgo.com</li>
+<li> 11:05 scholar.google.co.uk</li>
+<li> 11:05 duckduckgo.com</li>
+<li> 11:02 docs.google.com</li>
 <li> 11:02 drive.google.com</li>
 <li> 11:01 www.researchgate.net</li>
 <li> 11:01 duckduckgo.com</li>
@@ -25454,6 +25475,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:31 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 14:14 scholar.google.co.uk</li>
 <li> 14:14 www.google.com</li>
 <li> 13:52 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 13:52 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo_data_breaches">Talk:Yahoo data breaches - Wikipedia</a></li>
