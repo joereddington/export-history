@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2467)</li>
-<li>outlook.office.com (1660)</li>
-<li>mail.google.com (1565)</li>
+<ol><li>www.google.com (2458)</li>
+<li>outlook.office.com (1659)</li>
+<li>mail.google.com (1568)</li>
 <li>docs.google.com (1394)</li>
 <li>bsky.app (1214)</li>
 <li>outlook.office365.com (1141)</li>
@@ -79,12 +79,12 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (526)</li>
 <li>chatgpt.com (439)</li>
 <li>duckduckgo.com (427)</li>
-<li>rhul-my.sharepoint.com (402)</li>
+<li>rhul-my.sharepoint.com (399)</li>
 <li>www.linkedin.com (338)</li>
 <li>github.com (328)</li>
 <li>calendar.google.com (327)</li>
 <li>moodle.royalholloway.ac.uk (318)</li>
-<li>login.microsoftonline.com (278)</li>
+<li>login.microsoftonline.com (273)</li>
 <li>fritz.box (271)</li>
 <li>tvtropes.org (207)</li>
 <li>qbo.intuit.com (204)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (168)</li>
 <li>rhul.sharepoint.com (155)</li>
 <li>www.theguardian.com (152)</li>
-<li>forms.office.com (148)</li>
+<li>forms.office.com (147)</li>
 <li>chat.openai.com (143)</li>
 <li>ev.turnitinuk.com (128)</li>
 
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:12 www.google.com</li>
+<ul><li> 09:25 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 09:17 mail.google.com</li>
+<li class='same'> 09:16 mail.google.com</li>
+<li class='same'> 09:15 mail.google.com</li>
+<li> 09:12 www.google.com</li>
 <li> 09:12 clarkvision.com</li>
 <li> 09:11 www.reddit.com</li>
 <li> 09:11 www.orionoptics.co.uk</li>
@@ -22246,14 +22250,11 @@ With number of accesses/minutes in parentheses
 <li> 17:41 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
 <li> 17:34 bsky.app</li>
 <li> 17:34 chatgpt.com</li>
-<li> 17:33 login.microsoftonline.com</li>
 <li> 17:33 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 17:33 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:33 login.microsoftonline.com</li>
-<li> 17:20 rhul-my.sharepoint.com</li>
 <li> 17:20 forms.office.com</li>
-<li> 17:19 rhul-my.sharepoint.com</li>
-<li> 17:19 forms.office.com</li>
+<li class='same'> 17:19 forms.office.com</li>
 <li> 17:17 <a href="https://www.youtube.com/watch?v=S9aIiVfctMk">(84) 3 Levels of Tai Otoshi - YouTube</a></li>
 <li> 17:15 <a href="https://www.youtube.com/watch?v=LB2CWTcYeI8">(84) FUJI Pro Tip Tai Otoshi with Jimmy Pedro - YouTube</a></li>
 <li> 17:14 <a href="https://www.youtube.com/watch?v=fs1W60P4y3A&t=25s">(84) One handed taiotoshi - YouTube</a></li>
@@ -22334,8 +22335,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:28 chatgpt.com</li>
-<li> 15:25 www.google.com</li>
-<li class='same'> 15:22 www.google.com</li>
+<li> 15:22 www.google.com</li>
 <li> 15:12 forms.office.com</li>
 <li class='same'> 15:10 forms.office.com</li>
 <li> 15:10 mail.google.com</li>
@@ -22347,11 +22347,6 @@ With number of accesses/minutes in parentheses
 <li> 14:58 www.google.com</li>
 <li> 14:33 privacyportal-de.onetrust.com</li>
 <li> 14:33 mail.google.com</li>
-<li> 14:20 login.microsoftonline.com</li>
-<li> 14:20 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
-<li> 14:17 login.microsoftonline.com</li>
-<li> 14:17 forms.office.com</li>
-<li> 14:17 rhul-my.sharepoint.com</li>
 <li> 14:17 forms.office.com</li>
 <li class='same'> 14:16 forms.office.com</li>
 <li> 14:16 login.microsoftonline.com</li>
@@ -22359,7 +22354,6 @@ With number of accesses/minutes in parentheses
 <li> 14:15 bsky.app</li>
 <li> 14:13 chatgpt.com</li>
 <li> 13:59 www.dataprotection.ie</li>
-<li> 13:59 www.google.com</li>
 <li> 13:59 www.edps.europa.eu</li>
 <li> 13:59 www.google.com</li>
 <li> 13:49 chatgpt.com</li>
@@ -22392,7 +22386,6 @@ With number of accesses/minutes in parentheses
 <li> 12:24 <a href="https://en.wikipedia.org/wiki/Ward_Cunningham#%22Cunningham's_Law%22">Ward Cunningham - Wikipedia</a></li>
 <li> 12:23 <a href="https://en.wikipedia.org/wiki/Ward_Cunningham">Ward Cunningham - Wikipedia</a></li>
 <li> 12:23 www.google.com</li>
-<li class='same'> 12:21 www.google.com</li>
 <li class='same'> 12:20 www.google.com</li>
 <li> 12:16 outlook.office365.com</li>
 <li class='same'> 12:14 outlook.office365.com</li>
@@ -22403,9 +22396,6 @@ With number of accesses/minutes in parentheses
 <li> 12:07 bsky.app</li>
 <li> 11:57 www.linkedin.com</li>
 <li> 11:55 outlook.office365.com</li>
-<li> 11:55 www.google.com</li>
-<li> 11:55 www.ncsc.gov.uk</li>
-<li> 11:55 www.google.com</li>
 <li> 11:55 www.ncsc.gov.uk</li>
 <li> 11:54 www.google.com</li>
 <li> 11:52 gdpr.eu</li>
@@ -22434,7 +22424,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:11 outlook.office365.com</li>
 <li class='same'> 11:10 outlook.office365.com</li>
 <li> 11:09 rhul-my.sharepoint.com</li>
-<li> 11:09 outlook.office.com</li>
 <li> 11:09 outlook.office365.com</li>
 <li class='same'> 11:08 outlook.office365.com</li>
 <li class='same'> 11:07 outlook.office365.com</li>
@@ -22603,8 +22592,7 @@ With number of accesses/minutes in parentheses
 <li> 10:44 imgflip.com</li>
 <li> 10:44 www.google.com</li>
 <li> 10:41 www.tightrope.co.uk</li>
-<li> 10:41 www.google.com</li>
-<li class='same'> 10:40 www.google.com</li>
+<li> 10:40 www.google.com</li>
 <li> 10:37 imgflip.com</li>
 <li> 10:37 www.google.com</li>
 <li> 10:37 knowyourmeme.com</li>
@@ -22658,7 +22646,6 @@ With number of accesses/minutes in parentheses
 <li> 06:53 www.google.com</li>
 <li> 06:53 www.reddit.com</li>
 <li class='same'> 06:52 www.reddit.com</li>
-<li> 06:52 www.google.com</li>
 <li> 06:52 community.cartalk.com</li>
 <li class='same'> 06:51 community.cartalk.com</li>
 <li class='same'> 06:50 community.cartalk.com</li>
@@ -22717,8 +22704,6 @@ With number of accesses/minutes in parentheses
 <li> 16:24 outlook.office365.com</li>
 <li> 16:22 www.ciisec.org</li>
 <li> 16:22 events.teams.microsoft.com</li>
-<li> 16:22 login.microsoftonline.com</li>
-<li> 16:22 events.teams.microsoft.com</li>
 <li> 16:22 www.linkedin.com</li>
 <li> 16:19 mail.google.com</li>
 <li class='same'> 16:14 mail.google.com</li>
@@ -22733,8 +22718,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:00 outlook.office365.com</li>
 <li> 15:58 royalholloway.akarisoftware.com</li>
 <li> 15:57 rhul.sharepoint.com</li>
-<li> 15:57 login.microsoftonline.com</li>
-<li> 15:56 rhul.sharepoint.com</li>
+<li class='same'> 15:56 rhul.sharepoint.com</li>
 <li> 15:56 royalholloway.akarisoftware.com</li>
 <li class='same'> 15:55 royalholloway.akarisoftware.com</li>
 <li class='same'> 15:54 royalholloway.akarisoftware.com</li>
@@ -22777,10 +22761,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:33 outlook.office365.com</li>
 <li class='same'> 14:32 outlook.office365.com</li>
 <li> 14:30 researchprofiles.herts.ac.uk</li>
-<li> 14:30 www.google.com</li>
 <li> 14:29 www.linkedin.com</li>
 <li> 14:29 uk.linkedin.com</li>
-<li> 14:29 www.google.com</li>
 <li> 14:28 www.du9.org</li>
 <li> 14:28 www.google.com</li>
 <li> 14:28 outlook.office365.com</li>
