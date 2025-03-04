@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2461)</li>
+<ol><li>www.google.com (2467)</li>
 <li>outlook.office.com (1660)</li>
-<li>mail.google.com (1564)</li>
+<li>mail.google.com (1565)</li>
 <li>docs.google.com (1394)</li>
 <li>bsky.app (1214)</li>
 <li>outlook.office365.com (1141)</li>
-<li>www.reddit.com (667)</li>
+<li>www.reddit.com (668)</li>
 <li>www.facebook.com (659)</li>
 <li>www.amazon.co.uk (526)</li>
 <li>chatgpt.com (439)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:59 mail.google.com</li>
+<ul><li> 09:12 www.google.com</li>
+<li> 09:12 clarkvision.com</li>
+<li> 09:11 www.reddit.com</li>
+<li> 09:11 www.orionoptics.co.uk</li>
+<li> 09:11 www.google.com</li>
+<li> 09:09 www.darkskytelescopehire.co.uk</li>
+<li> 09:08 mail.google.com</li>
+<li> 09:08 www.darkskytelescopehire.co.uk</li>
+<li class='same'> 09:07 www.darkskytelescopehire.co.uk</li>
+<li> 09:07 www.google.com</li>
+<li> 09:07 maps.google.com</li>
+<li> 09:07 www.google.com</li>
+<li> 09:07 www.darkskytelescopehire.co.uk</li>
+<li class='same'> 09:06 www.darkskytelescopehire.co.uk</li>
+<li> 09:06 www.google.com</li>
+<li> 09:00 mommypoppins.com</li>
+<li> 09:00 www.google.com</li>
+<li> 08:59 mail.google.com</li>
 <li class='same'> 08:57 mail.google.com</li>
 </ul>
 
