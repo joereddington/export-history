@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2464)</li>
-<li>outlook.office.com (1715)</li>
-<li>mail.google.com (1589)</li>
+<li>outlook.office.com (1718)</li>
+<li>mail.google.com (1590)</li>
 <li>docs.google.com (1400)</li>
-<li>bsky.app (1231)</li>
-<li>outlook.office365.com (1147)</li>
+<li>bsky.app (1232)</li>
+<li>outlook.office365.com (1148)</li>
 <li>www.reddit.com (678)</li>
 <li>www.facebook.com (671)</li>
 <li>www.amazon.co.uk (532)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:48 arduinogetstarted.com</li>
+<ul><li> 18:41 outlook.office.com</li>
+<li class='same'> 18:33 outlook.office.com</li>
+<li> 18:32 outlook.office365.com</li>
+<li> 18:32 outlook.office.com</li>
+<li> 18:32 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:54 <a href="https://en.wikipedia.org/wiki/Template:POTD/2025-03-01">Template:POTD/2025-03-01 - Wikipedia</a></li>
+<li> 17:53 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:52 bsky.app</li>
+<li> 17:48 arduinogetstarted.com</li>
 <li> 17:48 duckduckgo.com</li>
 <li> 17:47 docs.google.com</li>
 <li> 17:45 www.theguardian.com</li>
