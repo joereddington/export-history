@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2464)</li>
-<li>outlook.office.com (1714)</li>
-<li>mail.google.com (1586)</li>
+<li>outlook.office.com (1715)</li>
+<li>mail.google.com (1587)</li>
 <li>docs.google.com (1399)</li>
 <li>bsky.app (1231)</li>
 <li>outlook.office365.com (1147)</li>
 <li>www.reddit.com (677)</li>
 <li>www.facebook.com (671)</li>
-<li>www.amazon.co.uk (528)</li>
-<li>chatgpt.com (446)</li>
-<li>duckduckgo.com (442)</li>
+<li>www.amazon.co.uk (532)</li>
+<li>chatgpt.com (448)</li>
+<li>duckduckgo.com (448)</li>
 <li>rhul-my.sharepoint.com (402)</li>
 <li>www.linkedin.com (346)</li>
 <li>calendar.google.com (330)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (155)</li>
 <li>www.theguardian.com (153)</li>
 <li>forms.office.com (147)</li>
-<li>chat.openai.com (145)</li>
+<li>chat.openai.com (146)</li>
 <li>ev.turnitinuk.com (128)</li>
 
 
@@ -105,6 +105,42 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 04/03/25</H3>
+
+<br>
+
+<ul><li> 16:58 projecthub.arduino.cc</li>
+<li> 16:58 hackaday.com</li>
+<li> 16:58 electronics.stackexchange.com</li>
+<li> 16:57 hackaday.com</li>
+<li> 16:56 electronics.stackexchange.com</li>
+<li> 16:56 hackaday.io</li>
+<li> 16:56 duckduckgo.com</li>
+<li> 16:51 en.hwlibre.com</li>
+<li> 16:49 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 16:48 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<li> 16:47 electronics.stackexchange.com</li>
+<li class='same'> 16:46 electronics.stackexchange.com</li>
+<li> 16:46 duckduckgo.com</li>
+<li> 16:46 en.hwlibre.com</li>
+<li> 16:46 duckduckgo.com</li>
+<li> 16:45 www.instructables.com</li>
+<li> 16:45 duckduckgo.com</li>
+<li> 16:34 www.amazon.co.uk</li>
+<li class='same'> 16:33 www.amazon.co.uk</li>
+<li class='same'> 16:32 www.amazon.co.uk</li>
+<li class='same'> 16:31 www.amazon.co.uk</li>
+<li> 16:26 duckduckgo.com</li>
+<li> 16:23 chatgpt.com</li>
+<li> 16:19 all3dp.com</li>
+<li> 16:19 duckduckgo.com</li>
+<li> 16:18 chatgpt.com</li>
+<li> 16:18 chat.openai.com</li>
+<li> 16:18 adblockplus.org</li>
+<li> 16:18 www.ebay.co.uk</li>
+<li> 16:17 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:17 outlook.office.com</li>
+<li> 16:17 mail.google.com</li>
+</ul>
 
 <br>
 
