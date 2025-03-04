@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2463)</li>
-<li>outlook.office.com (1694)</li>
-<li>mail.google.com (1580)</li>
+<li>outlook.office.com (1707)</li>
+<li>mail.google.com (1581)</li>
 <li>docs.google.com (1399)</li>
-<li>bsky.app (1224)</li>
-<li>outlook.office365.com (1144)</li>
-<li>www.reddit.com (672)</li>
-<li>www.facebook.com (667)</li>
+<li>bsky.app (1230)</li>
+<li>outlook.office365.com (1145)</li>
+<li>www.reddit.com (675)</li>
+<li>www.facebook.com (671)</li>
 <li>www.amazon.co.uk (527)</li>
-<li>chatgpt.com (443)</li>
-<li>duckduckgo.com (436)</li>
+<li>chatgpt.com (445)</li>
+<li>duckduckgo.com (437)</li>
 <li>rhul-my.sharepoint.com (401)</li>
-<li>www.linkedin.com (343)</li>
+<li>www.linkedin.com (346)</li>
 <li>calendar.google.com (329)</li>
 <li>github.com (328)</li>
-<li>moodle.royalholloway.ac.uk (318)</li>
-<li>login.microsoftonline.com (273)</li>
+<li>moodle.royalholloway.ac.uk (320)</li>
+<li>login.microsoftonline.com (274)</li>
 <li>fritz.box (271)</li>
 <li>tvtropes.org (207)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (198)</li>
 <li>drive.google.com (188)</li>
-<li>feedly.com (174)</li>
+<li>feedly.com (176)</li>
+<li>web.whatsapp.com (171)</li>
 <li>gmail.com (170)</li>
-<li>web.whatsapp.com (170)</li>
 <li>rhul.sharepoint.com (155)</li>
 <li>www.theguardian.com (153)</li>
 <li>forms.office.com (147)</li>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:53 outlook.office.com</li>
+<ul><li> 13:59 outlook.office.com</li>
+<li class='same'> 13:56 outlook.office.com</li>
+<li class='same'> 13:54 outlook.office.com</li>
+<li class='same'> 13:53 outlook.office.com</li>
+<li> 13:51 feedly.com</li>
+<li> 13:50 www.giantitp.com</li>
+<li> 13:50 outlook.office.com</li>
+<li> 13:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:47 mail.google.com</li>
+<li> 13:46 www.linkedin.com</li>
+<li class='same'> 13:45 www.linkedin.com</li>
+<li class='same'> 13:44 www.linkedin.com</li>
+<li> 13:44 www.facebook.com</li>
+<li> 13:44 bsky.app</li>
+<li> 13:44 feedly.com</li>
+<li> 13:41 web.whatsapp.com</li>
+<li> 13:39 www.facebook.com</li>
+<li class='same'> 13:38 www.facebook.com</li>
+<li class='same'> 13:37 www.facebook.com</li>
+<li> 13:37 bsky.app</li>
+<li> 13:34 outlook.office.com</li>
+<li class='same'> 13:30 outlook.office.com</li>
+<li> 13:26 chatgpt.com</li>
+<li class='same'> 13:19 chatgpt.com</li>
+<li> 13:18 www.reddit.com</li>
+<li class='same'> 13:17 www.reddit.com</li>
+<li> 13:17 outlook.office.com</li>
+<li> 13:16 bsky.app</li>
+<li class='same'> 13:15 bsky.app</li>
+<li class='same'> 13:14 bsky.app</li>
+<li class='same'> 13:13 bsky.app</li>
+<li> 13:11 www.reddit.com</li>
+<li> 13:11 outlook.office.com</li>
+<li> 13:10 pure.royalholloway.ac.uk</li>
+<li> 13:10 duckduckgo.com</li>
+<li> 13:10 moodle.royalholloway.ac.uk</li>
+<li> 13:10 login.microsoftonline.com</li>
+<li> 13:10 moodle.royalholloway.ac.uk</li>
+<li> 13:09 outlook.office.com</li>
+<li class='same'> 13:04 outlook.office.com</li>
+<li class='same'> 13:03 outlook.office.com</li>
+<li> 13:03 outlook.office365.com</li>
+<li> 13:00 outlook.office.com</li>
+<li class='same'> 12:53 outlook.office.com</li>
 <li class='same'> 12:52 outlook.office.com</li>
 <li> 12:52 chatgpt.com</li>
 <li> 12:52 chat.openai.com</li>
