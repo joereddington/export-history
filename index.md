@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2461)</li>
 <li>outlook.office.com (1660)</li>
-<li>mail.google.com (1562)</li>
+<li>mail.google.com (1564)</li>
 <li>docs.google.com (1394)</li>
 <li>bsky.app (1214)</li>
 <li>outlook.office365.com (1141)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 04/03/25</H3>
+
+<br>
+
+<ul><li> 08:59 mail.google.com</li>
+<li class='same'> 08:57 mail.google.com</li>
+</ul>
 
 <br>
 
