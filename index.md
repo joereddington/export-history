@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2463)</li>
-<li>outlook.office.com (1707)</li>
+<ol><li>www.google.com (2464)</li>
+<li>outlook.office.com (1708)</li>
 <li>mail.google.com (1581)</li>
 <li>docs.google.com (1399)</li>
 <li>bsky.app (1230)</li>
-<li>outlook.office365.com (1145)</li>
+<li>outlook.office365.com (1146)</li>
 <li>www.reddit.com (675)</li>
 <li>www.facebook.com (671)</li>
-<li>www.amazon.co.uk (527)</li>
-<li>chatgpt.com (445)</li>
-<li>duckduckgo.com (437)</li>
+<li>www.amazon.co.uk (528)</li>
+<li>chatgpt.com (446)</li>
+<li>duckduckgo.com (441)</li>
 <li>rhul-my.sharepoint.com (401)</li>
 <li>www.linkedin.com (346)</li>
 <li>calendar.google.com (329)</li>
 <li>github.com (328)</li>
-<li>moodle.royalholloway.ac.uk (320)</li>
-<li>login.microsoftonline.com (274)</li>
+<li>moodle.royalholloway.ac.uk (322)</li>
+<li>login.microsoftonline.com (275)</li>
 <li>fritz.box (271)</li>
 <li>tvtropes.org (207)</li>
 <li>qbo.intuit.com (204)</li>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:59 outlook.office.com</li>
+<ul><li> 14:51 www.researchgate.net</li>
+<li> 14:51 duckduckgo.com</li>
+<li> 14:29 outlook.office.com</li>
+<li> 14:28 outlook.office365.com</li>
+<li> 14:19 chatgpt.com</li>
+<li> 14:17 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li class='same'> 14:16 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
+<li> 14:16 login.openathens.net</li>
+<li> 14:16 login.microsoftonline.com</li>
+<li> 14:16 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 14:15 librarysearch.royalholloway.ac.uk</li>
+<li> 14:15 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:14 moodle.royalholloway.ac.uk</li>
+<li> 14:13 librarysearch.royalholloway.ac.uk</li>
+<li> 14:13 www.amazon.co.uk</li>
+<li> 14:12 librarysearch.royalholloway.ac.uk</li>
+<li> 14:12 mts.intechopen.com</li>
+<li> 14:12 directory.doabooks.org</li>
+<li> 14:11 librarysearch.royalholloway.ac.uk</li>
+<li> 14:11 books.openbookpublishers.com</li>
+<li> 14:10 mdpi-res.com</li>
+<li> 14:10 librarysearch.royalholloway.ac.uk</li>
+<li> 14:10 www.openbookpublishers.com</li>
+<li> 14:09 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 14:08 librarysearch.royalholloway.ac.uk</li>
+<li> 14:08 www.google.com</li>
+<li> 14:08 librarysearch.royalholloway.ac.uk</li>
+<li> 14:08 www.royalholloway.ac.uk</li>
+<li> 14:07 duckduckgo.com</li>
+<li> 14:07 hea.ie</li>
+<li class='same'> 14:06 hea.ie</li>
+<li> 14:06 duckduckgo.com</li>
+<li> 14:01 s3.eu-west-2.amazonaws.com</li>
+<li> 14:01 advance-he.ac.uk</li>
+<li> 14:01 www.advance-he.ac.uk</li>
+<li> 14:01 duckduckgo.com</li>
+<li> 13:59 outlook.office.com</li>
 <li class='same'> 13:56 outlook.office.com</li>
 <li class='same'> 13:54 outlook.office.com</li>
 <li class='same'> 13:53 outlook.office.com</li>
@@ -25919,7 +25955,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:13 www.advance-he.ac.uk</li>
+<ul><li> 15:14 advance-he.ac.uk</li>
+<li> 15:13 www.advance-he.ac.uk</li>
 <li class='same'> 15:12 www.advance-he.ac.uk</li>
 <li> 15:08 outlook.office.com</li>
 <li class='same'> 15:07 outlook.office.com</li>
