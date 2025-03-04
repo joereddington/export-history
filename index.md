@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2454)</li>
+<ol><li>www.google.com (2460)</li>
 <li>outlook.office.com (1660)</li>
-<li>mail.google.com (1558)</li>
+<li>mail.google.com (1562)</li>
 <li>docs.google.com (1394)</li>
-<li>bsky.app (1213)</li>
+<li>bsky.app (1214)</li>
 <li>outlook.office365.com (1141)</li>
 <li>www.reddit.com (665)</li>
-<li>www.facebook.com (656)</li>
+<li>www.facebook.com (659)</li>
 <li>www.amazon.co.uk (525)</li>
 <li>chatgpt.com (439)</li>
 <li>duckduckgo.com (427)</li>
 <li>rhul-my.sharepoint.com (402)</li>
-<li>www.linkedin.com (337)</li>
+<li>www.linkedin.com (338)</li>
 <li>github.com (328)</li>
 <li>calendar.google.com (327)</li>
 <li>moodle.royalholloway.ac.uk (318)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (198)</li>
 <li>drive.google.com (188)</li>
-<li>feedly.com (169)</li>
+<li>feedly.com (170)</li>
 <li>gmail.com (169)</li>
 <li>web.whatsapp.com (168)</li>
 <li>rhul.sharepoint.com (155)</li>
@@ -104,7 +104,65 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 04/03/25</H3>
+
+<br>
+
+<ul><li> 06:58 monitor.mozilla.org</li>
+<li class='same'> 06:57 monitor.mozilla.org</li>
+<li class='same'> 06:56 monitor.mozilla.org</li>
+<li class='same'> 06:55 monitor.mozilla.org</li>
+<li> 06:52 www.qiq.support</li>
+<li> 06:51 ticket.wikimedia.org</li>
+<li> 06:51 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogout&returnto=Special%3AChangeCredentials%2FMediaWiki%5CAuth%5CPasswordAuthenticationRequest&returntoquery=returnto%3DSpecial%253APreferences">Log out - Wikipedia</a></li>
+<li> 06:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:ChangeCredentials/MediaWiki%5CAuth%5CPasswordAuthenticationRequest&returnto=Special%3APreferences">Change credentials - Wikipedia</a></li>
+<li> 06:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:ChangePassword&returnto=Special%3APreferences"></a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/wiki/Special:Preferences">Preferences - Wikipedia</a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/w/index.php?title=Special:ChangePassword&returnto=Special%3APreferences"></a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/w/index.php?title=Special:ChangeCredentials/MediaWiki%5CAuth%5CPasswordAuthenticationRequest&returnto=Special%3APreferences">Change credentials - Wikipedia</a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/wiki/Special:Preferences">Preferences - Wikipedia</a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:49 login.wikimedia.org</li>
+<li> 06:49 <a href="https://en.wikipedia.org/wiki/Special:CentralLogin/complete?token=5bc5034cbec564ebc944f3a5cab6abb4&usesul3=0"></a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 06:49 login.wikimedia.org</li>
+<li> 06:49 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page"></a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogout&returnto=Main+Page">Log out - Wikipedia</a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/"></a></li>
+<li> 06:48 mail.google.com</li>
+<li> 06:47 gawker.com</li>
+<li> 06:47 www.dailymail.co.uk</li>
+<li> 06:47 gawker.com</li>
+<li> 06:45 forum.bits.media</li>
+<li> 06:45 forum.btcsec.com</li>
+<li> 06:45 monitor.mozilla.org</li>
+<li class='same'> 06:44 monitor.mozilla.org</li>
+<li> 06:44 mail.google.com</li>
+<li> 06:44 monitor.mozilla.org</li>
+<li> 06:44 accounts.firefox.com</li>
+<li> 06:44 oauth.accounts.firefox.com</li>
+<li> 06:44 accounts.firefox.com</li>
+<li> 06:44 monitor.mozilla.org</li>
+<li> 06:44 www.google.com</li>
+<li> 06:43 mail.google.com</li>
+<li> 06:43 www.google.com</li>
+<li> 06:43 myactivity.google.com</li>
+<li> 06:43 myaccount.google.com</li>
+<li> 06:43 accounts.google.com</li>
+<li> 06:43 mail.google.com</li>
+<li> 06:43 www.google.com</li>
+<li class='same'> 06:42 www.google.com</li>
+<li class='same'> 06:41 www.google.com</li>
+<li class='same'> 06:40 www.google.com</li>
+<li> 06:40 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
 <H3>Monday, 03/03/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -130,7 +188,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:33 docs.google.com</li>
+<ul><li> 17:39 www.linkedin.com</li>
+<li> 17:39 www.facebook.com</li>
+<li> 17:38 makecode.microbit.org</li>
+<li> 17:38 l.facebook.com</li>
+<li> 17:38 www.facebook.com</li>
+<li class='same'> 17:37 www.facebook.com</li>
+<li> 17:37 bsky.app</li>
+<li> 17:37 www.natesilver.net</li>
+<li> 17:35 feedly.com</li>
+<li> 17:33 docs.google.com</li>
 <li> 17:33 www.amazon.co.uk</li>
 <li> 17:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 17:30 outlook.office.com</li>
