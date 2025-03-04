@@ -76,8 +76,8 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1148)</li>
 <li>www.reddit.com (690)</li>
 <li>www.facebook.com (673)</li>
-<li>www.amazon.co.uk (540)</li>
-<li>duckduckgo.com (453)</li>
+<li>www.amazon.co.uk (544)</li>
+<li>duckduckgo.com (472)</li>
 <li>chatgpt.com (449)</li>
 <li>rhul-my.sharepoint.com (402)</li>
 <li>www.linkedin.com (347)</li>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:59 duckduckgo.com</li>
+<ul><li> 21:49 duckduckgo.com</li>
+<li> 21:48 hackaday.com</li>
+<li> 21:47 www.amazon.co.uk</li>
+<li class='same'> 21:46 www.amazon.co.uk</li>
+<li> 21:45 www.circuitbasics.com</li>
+<li> 21:45 duckduckgo.com</li>
+<li> 21:45 littlebirdelectronics.com.au</li>
+<li> 21:45 duckduckgo.com</li>
+<li> 21:44 electropeak.com</li>
+<li> 21:43 duckduckgo.com</li>
+<li> 21:42 www.amazon.co.uk</li>
+<li> 21:42 duckduckgo.com</li>
+<li> 21:39 learn.sparkfun.com</li>
+<li> 21:39 duckduckgo.com</li>
+<li> 21:38 electronics.stackexchange.com</li>
+<li> 21:38 hackaday.com</li>
+<li class='same'> 21:36 hackaday.com</li>
+<li> 21:36 duckduckgo.com</li>
+<li> 21:34 projecthub.arduino.cc</li>
+<li> 21:34 duckduckgo.com</li>
+<li class='same'> 21:32 duckduckgo.com</li>
+<li class='same'> 21:31 duckduckgo.com</li>
+<li> 21:28 www.amazon.co.uk</li>
+<li> 21:28 duckduckgo.com</li>
+<li> 21:26 arduinomodules.info</li>
+<li> 21:25 www.phippselectronics.com</li>
+<li> 21:25 duckduckgo.com</li>
+<li class='same'> 21:14 duckduckgo.com</li>
+<li class='same'> 21:13 duckduckgo.com</li>
+<li class='same'> 21:12 duckduckgo.com</li>
+<li class='same'> 21:11 duckduckgo.com</li>
+<li class='same'> 21:07 duckduckgo.com</li>
+<li class='same'> 21:02 duckduckgo.com</li>
+<li class='same'> 21:01 duckduckgo.com</li>
+<li> 20:59 thepihut.com</li>
+<li> 20:59 duckduckgo.com</li>
 <li> 20:59 projecthub.arduino.cc</li>
 <li> 20:58 duckduckgo.com</li>
 <li> 20:54 chatgpt.com</li>
