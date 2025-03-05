@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2461)</li>
-<li>outlook.office.com (1735)</li>
+<li>outlook.office.com (1737)</li>
 <li>mail.google.com (1600)</li>
-<li>docs.google.com (1403)</li>
-<li>bsky.app (1233)</li>
-<li>outlook.office365.com (1153)</li>
-<li>www.reddit.com (710)</li>
+<li>docs.google.com (1404)</li>
+<li>bsky.app (1234)</li>
+<li>outlook.office365.com (1154)</li>
+<li>www.reddit.com (717)</li>
 <li>www.facebook.com (674)</li>
 <li>www.amazon.co.uk (554)</li>
-<li>duckduckgo.com (484)</li>
+<li>duckduckgo.com (486)</li>
 <li>chatgpt.com (452)</li>
 <li>rhul-my.sharepoint.com (399)</li>
 <li>www.linkedin.com (347)</li>
 <li>calendar.google.com (332)</li>
-<li>github.com (328)</li>
+<li>github.com (331)</li>
 <li>moodle.royalholloway.ac.uk (322)</li>
 <li>login.microsoftonline.com (272)</li>
 <li>fritz.box (271)</li>
 <li>tvtropes.org (232)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (198)</li>
-<li>drive.google.com (188)</li>
+<li>drive.google.com (189)</li>
 <li>feedly.com (183)</li>
 <li>gmail.com (173)</li>
 <li>web.whatsapp.com (171)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:58 projecthub.arduino.cc</li>
+<ul><li> 16:55 www.reddit.com</li>
+<li class='same'> 16:53 www.reddit.com</li>
+<li class='same'> 16:52 www.reddit.com</li>
+<li> 16:26 docs.google.com</li>
+<li> 16:26 drive.google.com</li>
+<li> 16:18 www.reddit.com</li>
+<li class='same'> 16:17 www.reddit.com</li>
+<li class='same'> 16:15 www.reddit.com</li>
+<li class='same'> 16:14 www.reddit.com</li>
+<li> 16:14 www.giantitp.com</li>
+<li> 16:13 github.com</li>
+<li class='same'> 16:12 github.com</li>
+<li> 16:12 duckduckgo.com</li>
+<li> 16:12 www.ebay.co.uk</li>
+<li class='same'> 16:11 www.ebay.co.uk</li>
+<li> 16:11 outlook.office.com</li>
+<li> 16:10 outlook.office365.com</li>
+<li> 16:10 outlook.office.com</li>
+<li> 16:10 bsky.app</li>
+<li> 16:10 github.com</li>
+<li> 16:10 docs.arduino.cc</li>
+<li> 16:09 duckduckgo.com</li>
+<li> 16:09 tcmenu.github.io</li>
+<li> 16:09 www.thecoderscorner.com</li>
+<li> 15:58 projecthub.arduino.cc</li>
 <li> 15:57 duckduckgo.com</li>
 <li> 15:55 feedly.com</li>
 <li> 15:55 www.feedly.com</li>
