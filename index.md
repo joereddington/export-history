@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2461)</li>
-<li>outlook.office.com (1733)</li>
-<li>mail.google.com (1596)</li>
+<li>outlook.office.com (1735)</li>
+<li>mail.google.com (1600)</li>
 <li>docs.google.com (1403)</li>
 <li>bsky.app (1233)</li>
-<li>outlook.office365.com (1152)</li>
+<li>outlook.office365.com (1153)</li>
 <li>www.reddit.com (710)</li>
 <li>www.facebook.com (674)</li>
 <li>www.amazon.co.uk (554)</li>
-<li>duckduckgo.com (483)</li>
+<li>duckduckgo.com (484)</li>
 <li>chatgpt.com (452)</li>
 <li>rhul-my.sharepoint.com (399)</li>
 <li>www.linkedin.com (347)</li>
-<li>calendar.google.com (331)</li>
+<li>calendar.google.com (332)</li>
 <li>github.com (328)</li>
 <li>moodle.royalholloway.ac.uk (322)</li>
 <li>login.microsoftonline.com (272)</li>
@@ -90,8 +90,8 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (198)</li>
 <li>drive.google.com (188)</li>
-<li>feedly.com (180)</li>
-<li>gmail.com (172)</li>
+<li>feedly.com (183)</li>
+<li>gmail.com (173)</li>
 <li>web.whatsapp.com (171)</li>
 <li>www.theguardian.com (161)</li>
 <li>rhul.sharepoint.com (155)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:52 mail.google.com</li>
+<ul><li> 15:58 projecthub.arduino.cc</li>
+<li> 15:57 duckduckgo.com</li>
+<li> 15:55 feedly.com</li>
+<li> 15:55 www.feedly.com</li>
+<li> 15:55 feedly.com</li>
+<li> 15:54 outlook.office.com</li>
+<li> 15:54 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:18 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:18 mail.google.com</li>
+<li> 14:18 gmail.com</li>
+<li> 14:18 mail.google.com</li>
+<li class='same'> 14:17 mail.google.com</li>
+<li> 14:17 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:07 feedly.com</li>
+<li> 12:03 calendar.google.com</li>
+<li> 12:03 mail.google.com</li>
+<li class='same'> 11:52 mail.google.com</li>
 <li> 11:52 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 11:50 docs.google.com</li>
 <li> 11:49 outlook.office.com</li>
