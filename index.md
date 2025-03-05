@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2469)</li>
-<li>outlook.office.com (1737)</li>
+<ol><li>www.google.com (2471)</li>
+<li>outlook.office.com (1740)</li>
 <li>mail.google.com (1600)</li>
-<li>docs.google.com (1404)</li>
+<li>docs.google.com (1405)</li>
 <li>bsky.app (1234)</li>
-<li>outlook.office365.com (1154)</li>
-<li>www.reddit.com (721)</li>
+<li>outlook.office365.com (1155)</li>
+<li>www.reddit.com (725)</li>
 <li>www.facebook.com (674)</li>
 <li>www.amazon.co.uk (554)</li>
 <li>duckduckgo.com (486)</li>
@@ -108,12 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:05 www.google.com</li>
+<ul><li> 20:02 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 17:25 www.reddit.com</li>
+<ul><li> 19:21 www.reddit.com</li>
+<li class='same'> 19:20 www.reddit.com</li>
+<li> 19:19 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 19:19 www.reddit.com</li>
+<li class='same'> 19:18 www.reddit.com</li>
+<li> 19:18 www.aisi.gov.uk</li>
+<li> 19:18 outlook.office.com</li>
+<li> 19:18 outlook.office365.com</li>
+<li> 19:18 outlook.office.com</li>
+<li> 19:16 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:08 www.google.com</li>
+<li> 18:05 www.thenational.academy</li>
+<li> 18:05 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:28 outlook.office.com</li>
+<li> 17:25 www.reddit.com</li>
 <li class='same'> 17:24 www.reddit.com</li>
 <li class='same'> 17:22 www.reddit.com</li>
 <li class='same'> 16:55 www.reddit.com</li>
