@@ -74,9 +74,9 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1401)</li>
 <li>bsky.app (1232)</li>
 <li>outlook.office365.com (1148)</li>
-<li>www.reddit.com (699)</li>
+<li>www.reddit.com (706)</li>
 <li>www.facebook.com (673)</li>
-<li>www.amazon.co.uk (544)</li>
+<li>www.amazon.co.uk (552)</li>
 <li>duckduckgo.com (472)</li>
 <li>chatgpt.com (449)</li>
 <li>rhul-my.sharepoint.com (402)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (322)</li>
 <li>login.microsoftonline.com (275)</li>
 <li>fritz.box (271)</li>
-<li>tvtropes.org (228)</li>
+<li>tvtropes.org (232)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (198)</li>
 <li>drive.google.com (188)</li>
@@ -104,7 +104,26 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 05/03/25</H3>
+
+<br>
+
+<ul><li> 06:34 www.reddit.com</li>
+<li class='same'> 06:32 www.reddit.com</li>
+<li class='same'> 06:30 www.reddit.com</li>
+<li class='same'> 06:28 www.reddit.com</li>
+<li> 06:27 www.classicfootballshirts.co.uk</li>
+<li> 06:26 www.reddit.com</li>
+<li class='same'> 06:25 www.reddit.com</li>
+<li class='same'> 06:24 www.reddit.com</li>
+<li> 06:21 www.vox.com</li>
+</ul>
+
 <H3>Tuesday, 04/03/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -214,7 +233,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:37 www.facebook.com</li>
 <li> 19:36 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 19:27 tvtropes.org</li>
+<li> 19:32 tvtropes.org</li>
+<li class='same'> 19:31 tvtropes.org</li>
+<li class='same'> 19:29 tvtropes.org</li>
+<li class='same'> 19:28 tvtropes.org</li>
+<li class='same'> 19:27 tvtropes.org</li>
 <li class='same'> 19:26 tvtropes.org</li>
 <li class='same'> 19:21 tvtropes.org</li>
 <li class='same'> 19:20 tvtropes.org</li>
@@ -40908,6 +40931,28 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:38 www.theyworkforyou.com</li>
 </ul>
 
+<H3>Monday, 25/04/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 10:29 www.amazon.co.uk</li>
+</ul>
+
+<H3>Sunday, 24/04/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:53 www.amazon.co.uk</li>
+</ul>
+
 <H3>Wednesday, 20/04/22</H3>
 
 <br>
@@ -40954,6 +40999,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 16:16 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
@@ -41097,6 +41147,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:58 mail.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 10:03 www.amazon.co.uk</li>
+</ul>
+
 <H3>Sunday, 27/02/22</H3>
 
 <br>
@@ -41144,6 +41199,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:07 www.evernote.com</li>
+</ul>
+
+<H3>Monday, 07/02/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 16:35 www.amazon.co.uk</li>
 </ul>
 
 <H3>Saturday, 05/02/22</H3>
@@ -41260,6 +41326,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:35 www.instagram.com</li>
 </ul>
 
+<H3>Monday, 27/12/21</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 07:04 www.amazon.co.uk</li>
+</ul>
+
 <H3>Wednesday, 22/12/21</H3>
 
 <br>
@@ -41324,6 +41401,28 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:35 www.icloud.com</li>
+</ul>
+
+<H3>Tuesday, 09/11/21</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 15:46 www.amazon.co.uk</li>
+</ul>
+
+<H3>Monday, 08/11/21</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 14:49 www.amazon.co.uk</li>
 </ul>
 
 <H3>Thursday, 04/11/21</H3>
