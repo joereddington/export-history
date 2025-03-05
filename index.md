@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2461)</li>
+<ol><li>www.google.com (2469)</li>
 <li>outlook.office.com (1737)</li>
 <li>mail.google.com (1600)</li>
 <li>docs.google.com (1404)</li>
 <li>bsky.app (1234)</li>
 <li>outlook.office365.com (1154)</li>
-<li>www.reddit.com (717)</li>
+<li>www.reddit.com (721)</li>
 <li>www.facebook.com (674)</li>
 <li>www.amazon.co.uk (554)</li>
 <li>duckduckgo.com (486)</li>
@@ -86,14 +86,14 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (322)</li>
 <li>login.microsoftonline.com (272)</li>
 <li>fritz.box (271)</li>
-<li>tvtropes.org (232)</li>
+<li>tvtropes.org (233)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (198)</li>
 <li>drive.google.com (189)</li>
 <li>feedly.com (183)</li>
 <li>gmail.com (173)</li>
 <li>web.whatsapp.com (171)</li>
-<li>www.theguardian.com (161)</li>
+<li>www.theguardian.com (165)</li>
 <li>rhul.sharepoint.com (155)</li>
 <li>chat.openai.com (149)</li>
 <li>forms.office.com (145)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:55 www.reddit.com</li>
+<ul><li> 18:05 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:25 www.reddit.com</li>
+<li class='same'> 17:24 www.reddit.com</li>
+<li class='same'> 17:22 www.reddit.com</li>
+<li class='same'> 16:55 www.reddit.com</li>
 <li class='same'> 16:53 www.reddit.com</li>
 <li class='same'> 16:52 www.reddit.com</li>
 <li> 16:26 docs.google.com</li>
@@ -143,12 +151,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:18 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 14:42 www.google.com</li>
+<li> 14:18 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:18 mail.google.com</li>
 <li> 14:18 gmail.com</li>
 <li> 14:18 mail.google.com</li>
 <li class='same'> 14:17 mail.google.com</li>
 <li> 14:17 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:11 www.google.com</li>
+<li> 13:11 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -244,6 +259,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 23:16 www.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -347,11 +367,13 @@ With number of accesses/minutes in parentheses
 <li> 20:19 feedly.com</li>
 <li class='same'> 20:18 feedly.com</li>
 <li> 20:18 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 19:37 www.facebook.com</li>
+<li> 20:10 www.theguardian.com</li>
+<li class='same'> 20:09 www.theguardian.com</li>
+<li> 20:08 www.reddit.com</li>
+<li> 20:07 factorio.com</li>
+<li class='same'> 20:06 factorio.com</li>
+<li> 20:06 www.google.com</li>
+<li> 19:37 www.facebook.com</li>
 <li> 19:36 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 19:32 tvtropes.org</li>
 <li class='same'> 19:31 tvtropes.org</li>
@@ -374,11 +396,10 @@ With number of accesses/minutes in parentheses
 <li> 18:32 outlook.office365.com</li>
 <li> 18:32 outlook.office.com</li>
 <li> 18:32 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:54 <a href="https://en.wikipedia.org/wiki/Template:POTD/2025-03-01">Template:POTD/2025-03-01 - Wikipedia</a></li>
+<li> 18:25 www.google.com</li>
+<li class='same'> 18:00 www.google.com</li>
+<li class='same'> 17:59 www.google.com</li>
+<li> 17:54 <a href="https://en.wikipedia.org/wiki/Template:POTD/2025-03-01">Template:POTD/2025-03-01 - Wikipedia</a></li>
 <li> 17:53 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 17:52 bsky.app</li>
 <li> 17:48 arduinogetstarted.com</li>
@@ -449,6 +470,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:27 www.reddit.com</li>
 <li> 15:27 outlook.office.com</li>
 <li> 15:27 mail.google.com</li>
+<li> 15:25 www.google.com</li>
 <li> 15:18 outlook.office.com</li>
 <li> 15:10 duckduckgo.com</li>
 <li> 15:06 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -38438,6 +38460,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 17:15 tvtropes.org</li>
+</ul>
 
 <br>
 
