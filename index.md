@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2461)</li>
-<li>outlook.office.com (1724)</li>
-<li>mail.google.com (1592)</li>
+<li>outlook.office.com (1729)</li>
+<li>mail.google.com (1594)</li>
 <li>docs.google.com (1401)</li>
-<li>bsky.app (1232)</li>
-<li>outlook.office365.com (1150)</li>
-<li>www.reddit.com (706)</li>
+<li>bsky.app (1233)</li>
+<li>outlook.office365.com (1151)</li>
+<li>www.reddit.com (708)</li>
 <li>www.facebook.com (673)</li>
-<li>www.amazon.co.uk (552)</li>
-<li>duckduckgo.com (478)</li>
-<li>chatgpt.com (451)</li>
+<li>www.amazon.co.uk (554)</li>
+<li>duckduckgo.com (481)</li>
+<li>chatgpt.com (452)</li>
 <li>rhul-my.sharepoint.com (399)</li>
 <li>www.linkedin.com (347)</li>
 <li>calendar.google.com (331)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (171)</li>
 <li>www.theguardian.com (158)</li>
 <li>rhul.sharepoint.com (155)</li>
-<li>chat.openai.com (148)</li>
+<li>chat.openai.com (149)</li>
 <li>forms.office.com (145)</li>
 <li>ev.turnitinuk.com (128)</li>
 
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:57 outlook.office.com</li>
+<ul><li> 11:00 duckduckgo.com</li>
+<li> 10:59 www.amazon.co.uk</li>
+<li> 10:59 duckduckgo.com</li>
+<li> 10:59 www.amazon.co.uk</li>
+<li> 10:59 duckduckgo.com</li>
+<li> 10:57 mail.google.com</li>
+<li> 10:57 www.reddit.com</li>
+<li class='same'> 10:56 www.reddit.com</li>
+<li> 10:56 mail.google.com</li>
+<li> 10:51 bsky.app</li>
+<li> 10:51 outlook.office.com</li>
+<li class='same'> 10:50 outlook.office.com</li>
+<li> 10:50 outlook.office365.com</li>
+<li> 10:23 chatgpt.com</li>
+<li> 10:23 chat.openai.com</li>
+<li> 10:06 outlook.office.com</li>
+<li class='same'> 10:04 outlook.office.com</li>
+<li class='same'> 10:03 outlook.office.com</li>
+<li> 09:59 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<li> 09:57 outlook.office.com</li>
 <li> 09:55 calendar.google.com</li>
 <li> 09:35 duckduckgo.com</li>
 <li class='same'> 09:33 duckduckgo.com</li>
