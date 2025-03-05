@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2461)</li>
-<li>outlook.office.com (1721)</li>
-<li>mail.google.com (1591)</li>
+<li>outlook.office.com (1724)</li>
+<li>mail.google.com (1592)</li>
 <li>docs.google.com (1401)</li>
 <li>bsky.app (1232)</li>
-<li>outlook.office365.com (1148)</li>
+<li>outlook.office365.com (1150)</li>
 <li>www.reddit.com (706)</li>
 <li>www.facebook.com (673)</li>
 <li>www.amazon.co.uk (552)</li>
-<li>duckduckgo.com (472)</li>
-<li>chatgpt.com (449)</li>
+<li>duckduckgo.com (478)</li>
+<li>chatgpt.com (451)</li>
 <li>rhul-my.sharepoint.com (399)</li>
 <li>www.linkedin.com (347)</li>
-<li>calendar.google.com (330)</li>
+<li>calendar.google.com (331)</li>
 <li>github.com (328)</li>
 <li>moodle.royalholloway.ac.uk (322)</li>
 <li>login.microsoftonline.com (272)</li>
@@ -91,11 +91,11 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (198)</li>
 <li>drive.google.com (188)</li>
 <li>feedly.com (179)</li>
-<li>gmail.com (171)</li>
+<li>gmail.com (172)</li>
 <li>web.whatsapp.com (171)</li>
 <li>www.theguardian.com (158)</li>
 <li>rhul.sharepoint.com (155)</li>
-<li>chat.openai.com (147)</li>
+<li>chat.openai.com (148)</li>
 <li>forms.office.com (145)</li>
 <li>ev.turnitinuk.com (128)</li>
 
@@ -105,6 +105,35 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 05/03/25</H3>
+
+<br>
+
+<ul><li> 09:57 outlook.office.com</li>
+<li> 09:55 calendar.google.com</li>
+<li> 09:35 duckduckgo.com</li>
+<li class='same'> 09:33 duckduckgo.com</li>
+<li> 09:26 <a href="https://en.wikipedia.org/wiki/Voltage_divider">Voltage divider - Wikipedia</a></li>
+<li> 09:26 duckduckgo.com</li>
+<li> 09:24 www.instructables.com</li>
+<li> 09:24 forum.arduino.cc</li>
+<li> 09:23 duckduckgo.com</li>
+<li> 09:13 chatgpt.com</li>
+<li class='same'> 09:12 chatgpt.com</li>
+<li> 09:12 chat.openai.com</li>
+<li> 09:04 www.makerguides.com</li>
+<li> 09:04 duckduckgo.com</li>
+<li> 09:04 outlook.office365.com</li>
+<li> 09:04 outlook.office.com</li>
+<li> 09:03 mail.google.com</li>
+<li> 09:03 gmail.com</li>
+<li> 09:03 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:48 outlook.office365.com</li>
+<li> 07:48 outlook.office.com</li>
+</ul>
 
 <br>
 
