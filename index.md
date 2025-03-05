@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2471)</li>
-<li>outlook.office.com (1740)</li>
-<li>mail.google.com (1600)</li>
+<ol><li>www.google.com (2472)</li>
+<li>outlook.office.com (1741)</li>
+<li>mail.google.com (1601)</li>
 <li>docs.google.com (1405)</li>
 <li>bsky.app (1234)</li>
 <li>outlook.office365.com (1155)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (198)</li>
 <li>drive.google.com (189)</li>
 <li>feedly.com (183)</li>
-<li>gmail.com (173)</li>
+<li>gmail.com (174)</li>
 <li>web.whatsapp.com (171)</li>
 <li>www.theguardian.com (165)</li>
 <li>rhul.sharepoint.com (155)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:02 www.google.com</li>
+<ul><li> 21:58 space.stackexchange.com</li>
+<li class='same'> 21:56 space.stackexchange.com</li>
+<li class='same'> 21:54 space.stackexchange.com</li>
+<li> 21:52 academia.stackexchange.com</li>
+<li> 21:52 matheducators.stackexchange.com</li>
+<li class='same'> 21:50 matheducators.stackexchange.com</li>
+<li> 21:43 worldbuilding.stackexchange.com</li>
+<li> 21:39 www.reuters.com</li>
+<li> 21:39 academia.stackexchange.com</li>
+<li> 21:36 worldbuilding.stackexchange.com</li>
+<li> 21:36 writing.stackexchange.com</li>
+<li> 21:29 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 21:29 electronics.stackexchange.com</li>
+<li> 21:29 mail.google.com</li>
+<li> 21:29 gmail.com</li>
+<li> 21:28 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:42 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:02 www.google.com</li>
 </ul>
 
 <br>
