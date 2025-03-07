@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (676)</li>
 <li>www.amazon.co.uk (563)</li>
 <li>duckduckgo.com (502)</li>
-<li>chatgpt.com (454)</li>
+<li>chatgpt.com (456)</li>
 <li>rhul-my.sharepoint.com (400)</li>
 <li>www.linkedin.com (348)</li>
 <li>calendar.google.com (333)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (172)</li>
 <li>web.whatsapp.com (172)</li>
 <li>rhul.sharepoint.com (165)</li>
-<li>chat.openai.com (150)</li>
+<li>chat.openai.com (151)</li>
 <li>forms.office.com (145)</li>
 <li>www.tesco.com (130)</li>
 
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:40 www.google.com</li>
+<ul><li> 11:56 chatgpt.com</li>
+<li class='same'> 11:55 chatgpt.com</li>
+<li> 11:55 chat.openai.com</li>
+<li> 11:40 forums.factorio.com</li>
+<li> 11:40 www.google.com</li>
 <li class='same'> 11:39 www.google.com</li>
 <li> 11:15 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
 <li> 11:13 www.livestrong.com</li>
