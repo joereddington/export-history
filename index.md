@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2488)</li>
+<ol><li>www.google.com (2489)</li>
 <li>outlook.office.com (1789)</li>
-<li>mail.google.com (1629)</li>
+<li>mail.google.com (1633)</li>
 <li>docs.google.com (1416)</li>
 <li>bsky.app (1234)</li>
 <li>outlook.office365.com (1163)</li>
@@ -92,8 +92,8 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (189)</li>
 <li>feedly.com (188)</li>
 <li>gmail.com (178)</li>
+<li>www.theguardian.com (172)</li>
 <li>web.whatsapp.com (172)</li>
-<li>www.theguardian.com (171)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li>chat.openai.com (150)</li>
 <li>forms.office.com (145)</li>
@@ -108,12 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:09 www.activeluton.co.uk</li>
+<ul><li> 11:15 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
+<li> 11:13 www.livestrong.com</li>
+<li> 11:09 www.google.com</li>
+<li> 11:09 www.activeluton.co.uk</li>
 <li class='same'> 11:08 www.activeluton.co.uk</li>
 <li> 11:08 www.google.com</li>
 <li> 11:05 www.livestrong.com</li>
 <li> 11:05 www.google.com</li>
-<li class='same'> 11:00 www.google.com</li>
+<li> 11:01 www.theguardian.com</li>
+<li> 11:00 www.google.com</li>
 <li> 10:59 mail.google.com</li>
 <li> 10:59 factorio.com</li>
 <li> 10:59 dl.factorio.com</li>
@@ -36777,6 +36781,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:28 bsky.app</li>
 <li class='same'> 21:18 bsky.app</li>
 <li class='same'> 21:10 bsky.app</li>
+<li> 21:08 mail.google.com</li>
 <li> 20:59 github.com</li>
 </ul>
 
@@ -37790,6 +37795,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:51 search.google.com</li>
+<li> 12:48 mail.google.com</li>
 <li> 12:34 analytics.google.com</li>
 <li> 12:07 www.instagram.com</li>
 </ul>
@@ -38017,7 +38023,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:00 dnschecker.org</li>
+<ul><li> 07:04 mail.google.com</li>
+<li> 07:00 dnschecker.org</li>
 <li> 07:00 www.qiq.support</li>
 </ul>
 
@@ -38038,6 +38045,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:45 www.qiq.support</li>
 <li> 07:45 dnschecker.org</li>
 <li> 07:44 mxtoolbox.com</li>
+<li> 07:42 mail.google.com</li>
 <li> 07:40 workspace.google.com</li>
 <li> 07:11 panel.dreamhost.com</li>
 </ul>
