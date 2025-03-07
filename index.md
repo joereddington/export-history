@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2491)</li>
+<ol><li>www.google.com (2492)</li>
 <li>outlook.office.com (1790)</li>
 <li>mail.google.com (1635)</li>
 <li>docs.google.com (1418)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (189)</li>
 <li>feedly.com (188)</li>
 <li>gmail.com (178)</li>
-<li>www.theguardian.com (173)</li>
+<li>www.theguardian.com (175)</li>
 <li>web.whatsapp.com (172)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li>chat.openai.com (151)</li>
@@ -108,8 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:27 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:30 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 18:43 docs.google.com</li>
 <li class='same'> 18:42 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:08 www.theguardian.com</li>
+<li> 17:08 graziadaily.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:06 graziadaily.co.uk</li>
 </ul>
 
 <br>
