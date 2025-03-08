@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2491)</li>
-<li>outlook.office.com (1788)</li>
-<li>mail.google.com (1635)</li>
-<li>docs.google.com (1418)</li>
+<ol><li>www.google.com (2493)</li>
+<li>outlook.office.com (1793)</li>
+<li>mail.google.com (1637)</li>
+<li>docs.google.com (1425)</li>
 <li>bsky.app (1234)</li>
 <li>outlook.office365.com (1164)</li>
-<li>www.reddit.com (744)</li>
+<li>www.reddit.com (748)</li>
 <li>www.facebook.com (676)</li>
 <li>www.amazon.co.uk (560)</li>
 <li>duckduckgo.com (502)</li>
@@ -89,10 +89,10 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (233)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (199)</li>
+<li>feedly.com (191)</li>
 <li>drive.google.com (189)</li>
-<li>feedly.com (188)</li>
-<li>www.theguardian.com (178)</li>
-<li>gmail.com (178)</li>
+<li>www.theguardian.com (179)</li>
+<li>gmail.com (179)</li>
 <li>web.whatsapp.com (172)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li>chat.openai.com (151)</li>
@@ -104,7 +104,54 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 08/03/25</H3>
+
+<br>
+
+<ul><li> 20:31 docs.google.com</li>
+<li> 20:31 www.reddit.com</li>
+<li> 20:30 docs.google.com</li>
+<li class='same'> 20:29 docs.google.com</li>
+<li class='same'> 20:28 docs.google.com</li>
+<li class='same'> 20:27 docs.google.com</li>
+<li class='same'> 20:26 docs.google.com</li>
+<li class='same'> 20:24 docs.google.com</li>
+<li> 20:24 www.mozilla.org</li>
+<li> 20:22 www.reddit.com</li>
+<li class='same'> 20:21 www.reddit.com</li>
+<li> 20:21 mail.google.com</li>
+<li> 20:19 electronics.stackexchange.com</li>
+<li> 20:19 mail.google.com</li>
+<li> 20:19 gmail.com</li>
+<li> 20:16 www.theguardian.com</li>
+<li> 20:16 feedly.com</li>
+<li> 20:16 www.natesilver.net</li>
+<li> 20:16 feedly.com</li>
+<li class='same'> 20:15 feedly.com</li>
+<li> 20:15 www.reddit.com</li>
+<li> 20:15 outlook.office.com</li>
+<li class='same'> 20:14 outlook.office.com</li>
+<li class='same'> 20:13 outlook.office.com</li>
+<li class='same'> 20:11 outlook.office.com</li>
+<li class='same'> 20:10 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:36 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:32 www.google.com</li>
+<li> 10:30 www.gq-magazine.co.uk</li>
+</ul>
+
 <H3>Friday, 07/03/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
