@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2493)</li>
+<ol><li>www.google.com (2496)</li>
 <li>outlook.office.com (1793)</li>
 <li>mail.google.com (1637)</li>
 <li>docs.google.com (1425)</li>
 <li>bsky.app (1234)</li>
 <li>outlook.office365.com (1164)</li>
-<li>www.reddit.com (748)</li>
+<li>www.reddit.com (755)</li>
 <li>www.facebook.com (676)</li>
 <li>www.amazon.co.uk (560)</li>
 <li>duckduckgo.com (502)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (327)</li>
 <li>fritz.box (273)</li>
 <li>login.microsoftonline.com (271)</li>
-<li>tvtropes.org (233)</li>
+<li>tvtropes.org (240)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (199)</li>
 <li>feedly.com (191)</li>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 08/03/25</H3>
+
+<br>
+
+<ul><li> 21:34 tvtropes.org</li>
+<li class='same'> 21:20 tvtropes.org</li>
+<li class='same'> 21:18 tvtropes.org</li>
+<li class='same'> 21:14 tvtropes.org</li>
+</ul>
 
 <br>
 
@@ -330,11 +338,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:50 www.theguardian.com</li>
 <li class='same'> 21:47 www.theguardian.com</li>
 <li> 21:47 www.google.com</li>
+<li> 21:40 tvtropes.org</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 21:03 www.google.com</li>
+<ul><li> 21:03 www.google.com</li>
 </ul>
 
 <br>
@@ -509,7 +518,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 06:45 outlook.office.com</li>
+<ul><li> 07:35 www.google.com</li>
+<li> 07:34 www.etymonline.com</li>
+<li class='same'> 07:33 www.etymonline.com</li>
+<li class='same'> 07:32 www.etymonline.com</li>
+<li class='same'> 07:30 www.etymonline.com</li>
+<li class='same'> 07:29 www.etymonline.com</li>
+<li class='same'> 07:28 www.etymonline.com</li>
+<li class='same'> 07:27 www.etymonline.com</li>
+<li class='same'> 07:25 www.etymonline.com</li>
+<li> 07:25 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:45 outlook.office.com</li>
 <li> 06:44 www.facebook.com</li>
 <li> 06:44 web.whatsapp.com</li>
 <li> 06:44 mail.google.com</li>
@@ -580,11 +603,14 @@ With number of accesses/minutes in parentheses
 <li> 19:18 outlook.office365.com</li>
 <li> 19:18 outlook.office.com</li>
 <li> 19:16 docs.google.com</li>
+<li> 19:13 tvtropes.org</li>
 </ul>
 
 <br>
 
-<ul><li> 18:08 www.google.com</li>
+<ul><li class='same'> 18:29 tvtropes.org</li>
+<li> 18:29 www.google.com</li>
+<li class='same'> 18:08 www.google.com</li>
 <li> 18:05 www.thenational.academy</li>
 <li> 18:05 www.google.com</li>
 </ul>
@@ -722,7 +748,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:34 www.reddit.com</li>
+<ul><li> 06:42 www.reddit.com</li>
+<li class='same'> 06:41 www.reddit.com</li>
+<li class='same'> 06:40 www.reddit.com</li>
+<li class='same'> 06:39 www.reddit.com</li>
+<li class='same'> 06:38 www.reddit.com</li>
+<li class='same'> 06:37 www.reddit.com</li>
+<li class='same'> 06:35 www.reddit.com</li>
+<li class='same'> 06:34 www.reddit.com</li>
 <li class='same'> 06:32 www.reddit.com</li>
 <li class='same'> 06:30 www.reddit.com</li>
 <li class='same'> 06:28 www.reddit.com</li>
