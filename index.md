@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2492)</li>
-<li>outlook.office.com (1790)</li>
+<ol><li>www.google.com (2491)</li>
+<li>outlook.office.com (1788)</li>
 <li>mail.google.com (1635)</li>
 <li>docs.google.com (1418)</li>
 <li>bsky.app (1234)</li>
 <li>outlook.office365.com (1164)</li>
 <li>www.reddit.com (744)</li>
 <li>www.facebook.com (676)</li>
-<li>www.amazon.co.uk (563)</li>
+<li>www.amazon.co.uk (560)</li>
 <li>duckduckgo.com (502)</li>
 <li>chatgpt.com (456)</li>
-<li>rhul-my.sharepoint.com (400)</li>
+<li>rhul-my.sharepoint.com (396)</li>
 <li>www.linkedin.com (348)</li>
 <li>calendar.google.com (334)</li>
 <li>github.com (331)</li>
 <li>moodle.royalholloway.ac.uk (327)</li>
-<li>login.microsoftonline.com (275)</li>
 <li>fritz.box (273)</li>
+<li>login.microsoftonline.com (271)</li>
 <li>tvtropes.org (233)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (189)</li>
 <li>feedly.com (188)</li>
+<li>www.theguardian.com (178)</li>
 <li>gmail.com (178)</li>
-<li>www.theguardian.com (177)</li>
 <li>web.whatsapp.com (172)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li>chat.openai.com (151)</li>
-<li>forms.office.com (145)</li>
+<li>forms.office.com (144)</li>
 <li>www.tesco.com (130)</li>
 
 
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:33 www.theguardian.com</li>
+<ul><li> 22:37 www.theguardian.com</li>
+<li class='same'> 22:33 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -21921,11 +21922,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:48 outlook.office365.com</li>
 <li class='same'> 17:47 outlook.office365.com</li>
 <li> 17:45 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 17:30 rhul-my.sharepoint.com</li>
 <li> 17:30 forms.office.com</li>
 <li> 17:29 login.microsoftonline.com</li>
 <li> 17:29 forms.office.com</li>
-<li> 17:28 login.microsoftonline.com</li>
 <li> 17:28 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:28 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 17:28 generalssb-prod.ec.royalholloway.ac.uk</li>
@@ -21963,14 +21962,12 @@ With number of accesses/minutes in parentheses
 <li> 16:28 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 16:28 outlook.office365.com</li>
 <li> 16:28 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 16:28 login.microsoftonline.com</li>
 <li> 16:28 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 16:28 experience.elluciancloud.ie</li>
 <li> 16:28 login.microsoftonline.com</li>
 <li> 16:28 experience.elluciancloud.ie</li>
 <li> 16:28 www.camerajungle.co.uk</li>
 <li> 16:27 outlook.office365.com</li>
-<li> 16:16 rhul-my.sharepoint.com</li>
 <li> 16:16 login.microsoftonline.com</li>
 <li> 16:16 forms.office.com</li>
 <li> 16:15 bsky.app</li>
@@ -21989,7 +21986,6 @@ With number of accesses/minutes in parentheses
 <li> 15:55 bsky.app</li>
 <li class='same'> 15:54 bsky.app</li>
 <li> 15:52 teams.microsoft.com</li>
-<li> 15:52 outlook.office.com</li>
 <li> 15:52 outlook.office365.com</li>
 <li> 15:37 www.amazon.co.uk</li>
 <li class='same'> 15:36 www.amazon.co.uk</li>
@@ -22009,8 +22005,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:10 rhul-my.sharepoint.com</li>
-<li> 14:10 forms.office.com</li>
+<ul><li> 14:10 forms.office.com</li>
 <li class='same'> 14:09 forms.office.com</li>
 <li> 14:09 login.microsoftonline.com</li>
 <li> 14:09 forms.office.com</li>
@@ -22084,8 +22079,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:57 rhul-my.sharepoint.com</li>
-<li> 17:56 forms.office.com</li>
+<ul><li> 17:56 forms.office.com</li>
 <li> 17:56 login.microsoftonline.com</li>
 <li> 17:56 forms.office.com</li>
 <li> 17:55 www.google.com</li>
@@ -22093,11 +22087,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:54 bsky.app</li>
 <li> 17:50 www.giantitp.com</li>
 <li> 17:45 outlook.office365.com</li>
-<li> 17:44 forms.office.com</li>
-<li> 17:44 login.microsoftonline.com</li>
 <li> 17:44 rhul-my.sharepoint.com</li>
 <li> 17:39 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 17:39 login.microsoftonline.com</li>
 <li> 17:39 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:39 login.microsoftonline.com</li>
 <li> 17:38 chatgpt.com</li>
@@ -22200,17 +22191,14 @@ With number of accesses/minutes in parentheses
 <li> 14:13 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:13 0.0.0.0:7000</li>
 <li> 14:13 www.amazon.co.uk</li>
-<li class='same'> 14:12 www.amazon.co.uk</li>
 <li class='same'> 14:11 www.amazon.co.uk</li>
 <li class='same'> 14:10 www.amazon.co.uk</li>
 <li> 14:06 outlook.office.com</li>
-<li class='same'> 14:05 outlook.office.com</li>
 <li class='same'> 14:04 outlook.office.com</li>
 <li> 14:03 login.microsoftonline.com</li>
 <li> 14:03 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:00 chatgpt.com</li>
 <li> 14:00 auth0.openai.com</li>
-<li> 14:00 auth.openai.com</li>
 <li> 13:57 bsky.app</li>
 <li class='same'> 13:56 bsky.app</li>
 <li> 13:55 0.0.0.0:7000</li>
@@ -22266,7 +22254,6 @@ With number of accesses/minutes in parentheses
 <li> 11:20 www.amazon.co.uk</li>
 <li> 11:20 www.google.com</li>
 <li> 11:20 www.amazon.co.uk</li>
-<li class='same'> 11:19 www.amazon.co.uk</li>
 <li class='same'> 11:18 www.amazon.co.uk</li>
 <li> 11:16 bsky.app</li>
 <li class='same'> 11:15 bsky.app</li>
@@ -22366,8 +22353,7 @@ With number of accesses/minutes in parentheses
 <li> 17:26 www.google.com</li>
 <li> 17:17 www.amazon.co.uk</li>
 <li> 17:17 docs.google.com</li>
-<li> 17:17 www.amazon.co.uk</li>
-<li class='same'> 17:16 www.amazon.co.uk</li>
+<li> 17:16 www.amazon.co.uk</li>
 <li> 17:12 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 17:11 www.vimgolf.com</li>
 <li class='same'> 16:57 www.vimgolf.com</li>
@@ -22403,20 +22389,17 @@ With number of accesses/minutes in parentheses
 <li> 16:33 www.instagram.com</li>
 <li class='same'> 16:32 www.instagram.com</li>
 <li class='same'> 16:31 www.instagram.com</li>
-<li> 16:31 www.google.com</li>
-<li class='same'> 16:30 www.google.com</li>
+<li> 16:30 www.google.com</li>
 <li> 16:30 britishjudocouncil.org</li>
 <li> 16:28 www.instagram.com</li>
-<li> 16:28 l.instagram.com</li>
-<li> 16:27 www.instagram.com</li>
+<li class='same'> 16:27 www.instagram.com</li>
 <li> 16:27 judoinside.com</li>
 <li> 16:27 www.google.com</li>
 <li> 16:27 britishjudocouncil.org</li>
 <li class='same'> 16:26 britishjudocouncil.org</li>
 <li> 16:26 www.google.com</li>
 <li> 16:26 clubfinder.britishjudo.org.uk</li>
-<li> 16:25 www.google.co.uk</li>
-<li> 16:25 clubfinder.britishjudo.org.uk</li>
+<li class='same'> 16:25 clubfinder.britishjudo.org.uk</li>
 <li class='same'> 16:23 clubfinder.britishjudo.org.uk</li>
 <li> 16:22 www.google.co.uk</li>
 <li> 16:22 www.google.com</li>
