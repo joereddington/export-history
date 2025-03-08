@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (189)</li>
 <li>feedly.com (188)</li>
 <li>gmail.com (178)</li>
-<li>www.theguardian.com (175)</li>
+<li>www.theguardian.com (177)</li>
 <li>web.whatsapp.com (172)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li>chat.openai.com (151)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:27 www.theguardian.com</li>
+<ul><li> 22:33 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 21:29 www.theguardian.com</li>
+<li class='same'> 21:27 www.theguardian.com</li>
 </ul>
 
 <br>
