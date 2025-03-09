@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2486)</li>
+<ol><li>www.google.com (2491)</li>
 <li>outlook.office.com (1792)</li>
 <li>mail.google.com (1637)</li>
 <li>docs.google.com (1429)</li>
 <li>bsky.app (1233)</li>
 <li>outlook.office365.com (1163)</li>
-<li>www.reddit.com (755)</li>
+<li>www.reddit.com (758)</li>
 <li>www.facebook.com (675)</li>
 <li>www.amazon.co.uk (564)</li>
-<li>duckduckgo.com (506)</li>
+<li>duckduckgo.com (507)</li>
 <li>chatgpt.com (459)</li>
 <li>rhul-my.sharepoint.com (396)</li>
 <li>www.linkedin.com (348)</li>
 <li>calendar.google.com (334)</li>
-<li>github.com (331)</li>
+<li>github.com (334)</li>
 <li>moodle.royalholloway.ac.uk (327)</li>
 <li>fritz.box (273)</li>
 <li>login.microsoftonline.com (271)</li>
-<li>tvtropes.org (240)</li>
+<li>tvtropes.org (241)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (199)</li>
 <li>feedly.com (192)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:15 <a href="https://en.wikipedia.org/wiki/Speedometer">Speedometer - Wikipedia</a></li>
+<ul><li> 22:01 github.com</li>
+<li class='same'> 22:00 github.com</li>
+<li class='same'> 21:59 github.com</li>
+<li> 21:57 imateapot.dev</li>
+<li class='same'> 21:54 imateapot.dev</li>
+<li class='same'> 21:53 imateapot.dev</li>
+<li> 21:53 www.google.com</li>
+<li> 21:52 www.reddit.com</li>
+<li> 21:52 www.google.com</li>
+<li> 21:51 www.reddit.com</li>
+<li> 21:51 www.google.com</li>
+<li> 21:31 www.reddit.com</li>
+<li> 21:31 www.google.com</li>
+<li> 21:31 diy.stackexchange.com</li>
+<li class='same'> 21:30 diy.stackexchange.com</li>
+<li> 21:30 www.google.com</li>
+<li> 21:30 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li> 14:24 duckduckgo.com</li>
+<li> 14:15 <a href="https://en.wikipedia.org/wiki/Speedometer">Speedometer - Wikipedia</a></li>
 <li> 14:15 duckduckgo.com</li>
 <li> 14:14 electronics.stackexchange.com</li>
 <li class='same'> 14:13 electronics.stackexchange.com</li>
