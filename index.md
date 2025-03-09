@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2496)</li>
-<li>outlook.office.com (1793)</li>
+<ol><li>www.google.com (2486)</li>
+<li>outlook.office.com (1792)</li>
 <li>mail.google.com (1637)</li>
-<li>docs.google.com (1428)</li>
-<li>bsky.app (1234)</li>
-<li>outlook.office365.com (1164)</li>
+<li>docs.google.com (1429)</li>
+<li>bsky.app (1233)</li>
+<li>outlook.office365.com (1163)</li>
 <li>www.reddit.com (755)</li>
-<li>www.facebook.com (676)</li>
+<li>www.facebook.com (675)</li>
 <li>www.amazon.co.uk (564)</li>
 <li>duckduckgo.com (503)</li>
 <li>chatgpt.com (458)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 09/03/25</H3>
+
+<br>
+
+<ul><li> 10:04 docs.google.com</li>
+</ul>
 
 <br>
 
@@ -20932,7 +20937,6 @@ With number of accesses/minutes in parentheses
 <li> 14:31 sxswlondon.com</li>
 <li class='same'> 14:30 sxswlondon.com</li>
 <li class='same'> 14:29 sxswlondon.com</li>
-<li> 14:29 www.google.com</li>
 <li> 14:29 <a href="https://www.youtube.com/sxsw?themeRefresh=1">SXSW - YouTube</a></li>
 <li> 14:29 <a href="https://www.youtube.com/sxsw">(5) SXSW - YouTube</a></li>
 <li> 14:29 www.google.com</li>
@@ -20954,7 +20958,6 @@ With number of accesses/minutes in parentheses
 <li> 13:45 claude.ai</li>
 <li class='same'> 13:44 claude.ai</li>
 <li> 13:44 www.google.com</li>
-<li> 13:42 www.facebook.com</li>
 <li> 13:41 bsky.app</li>
 <li class='same'> 13:40 bsky.app</li>
 <li> 13:40 www.facebook.com</li>
@@ -20970,19 +20973,14 @@ With number of accesses/minutes in parentheses
 <li> 13:25 docs.google.com</li>
 <li> 13:23 www.forbes.com</li>
 <li> 13:23 www.google.com</li>
-<li class='same'> 13:21 www.google.com</li>
 <li class='same'> 13:20 www.google.com</li>
 <li class='same'> 13:16 www.google.com</li>
 <li class='same'> 13:15 www.google.com</li>
 <li> 13:14 chatgpt.com</li>
 <li> 13:04 outlook.office365.com</li>
 <li> 13:02 bsky.app</li>
-<li> 13:01 l.facebook.com</li>
-<li> 13:01 bsky.app</li>
-<li> 13:01 l.facebook.com</li>
-<li> 13:01 bsky.app</li>
-<li> 13:01 l.facebook.com</li>
-<li> 13:00 bsky.app</li>
+<li class='same'> 13:01 bsky.app</li>
+<li class='same'> 13:00 bsky.app</li>
 <li> 13:00 www.facebook.com</li>
 <li> 12:59 bsky.app</li>
 <li> 12:58 www.facebook.com</li>
@@ -21101,7 +21099,6 @@ With number of accesses/minutes in parentheses
 <li> 07:06 outlook.office.com</li>
 <li> 07:04 www.wired.com</li>
 <li> 07:04 www.bleepingcomputer.com</li>
-<li> 07:04 www.google.com</li>
 <li> 07:04 krebsonsecurity.com</li>
 <li> 07:04 www.google.com</li>
 <li class='same'> 07:03 www.google.com</li>
@@ -21217,8 +21214,7 @@ With number of accesses/minutes in parentheses
 <li> 17:22 www.t-mobilesettlement.com</li>
 <li> 17:22 www.google.com</li>
 <li> 17:22 www.academia.edu</li>
-<li> 17:22 www.google.com</li>
-<li class='same'> 17:21 www.google.com</li>
+<li> 17:21 www.google.com</li>
 <li> 17:21 www.sec.gov</li>
 <li> 17:19 s29.q4cdn.com</li>
 <li> 16:59 <a href="https://en.wikipedia.org/wiki/T-Mobile_data_breach">T-Mobile data breach - Wikipedia</a></li>
@@ -21325,7 +21321,6 @@ With number of accesses/minutes in parentheses
 <li> 14:10 www.google.com</li>
 <li class='same'> 14:09 www.google.com</li>
 <li> 14:08 firewalltimes.com</li>
-<li> 14:08 www.google.com</li>
 <li> 14:07 www.complianceweek.com</li>
 <li> 14:07 www.google.com</li>
 <li> 14:07 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_data_breach&oldid=1259680545&action=edit">Editing T-Mobile data breach - Wikipedia</a></li>
@@ -21446,8 +21441,7 @@ With number of accesses/minutes in parentheses
 <li> 09:54 mediacentre.britishairways.com</li>
 <li> 09:54 www.google.com</li>
 <li> 09:33 <a href="https://en.wikipedia.org/wiki/EasyJet">EasyJet - Wikipedia</a></li>
-<li> 09:33 www.google.com</li>
-<li class='same'> 09:32 www.google.com</li>
+<li> 09:32 www.google.com</li>
 <li> 09:24 wikimania.wikimedia.org</li>
 <li> 09:23 www.jstor.org</li>
 <li class='same'> 09:22 www.jstor.org</li>
@@ -21485,12 +21479,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 23:07 www.google.com</li>
-<li> 23:07 accounts.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 19:24 www.google.com</li>
+<ul><li class='same'> 19:24 www.google.com</li>
 <li> 19:24 bjjfanatics.com</li>
 <li> 19:23 www.google.com</li>
 <li class='same'> 19:19 www.google.com</li>
@@ -21501,8 +21494,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:32 accounts.google.com</li>
-<li class='same'> 18:31 accounts.google.com</li>
+<ul><li> 18:31 accounts.google.com</li>
 </ul>
 
 <br>
@@ -21538,8 +21530,7 @@ With number of accesses/minutes in parentheses
 <li> 16:37 bsky.app</li>
 <li> 16:33 www.monster.co.uk</li>
 <li> 16:32 www.reddit.com</li>
-<li> 16:32 www.google.com</li>
-<li class='same'> 16:31 www.google.com</li>
+<li> 16:31 www.google.com</li>
 <li> 16:31 www.monster.co.uk</li>
 <li class='same'> 16:30 www.monster.co.uk</li>
 <li> 16:30 accounts.google.com</li>
@@ -21581,8 +21572,7 @@ With number of accesses/minutes in parentheses
 <li> 16:04 uk.indeed.com</li>
 <li> 16:04 www.google.com</li>
 <li> 16:03 www.reddit.com</li>
-<li> 16:03 www.google.com</li>
-<li class='same'> 16:02 www.google.com</li>
+<li> 16:02 www.google.com</li>
 <li> 15:58 www.ons.gov.uk</li>
 <li> 15:58 www.google.com</li>
 <li> 15:57 docs.google.com</li>
@@ -21683,7 +21673,6 @@ With number of accesses/minutes in parentheses
 <li> 12:44 www.facebook.com</li>
 <li> 12:43 www.royalholloway.ac.uk</li>
 <li> 12:42 teams.microsoft.com</li>
-<li> 12:42 outlook.office.com</li>
 <li> 12:42 outlook.office365.com</li>
 <li class='same'> 12:41 outlook.office365.com</li>
 <li class='same'> 12:40 outlook.office365.com</li>
@@ -21709,7 +21698,6 @@ With number of accesses/minutes in parentheses
 <li> 11:29 www.gov.uk</li>
 <li> 11:29 www.google.com</li>
 <li> 11:28 www.gov.uk</li>
-<li> 11:27 www.google.com</li>
 <li> 11:26 www.timpson-group.co.uk</li>
 <li> 11:26 www.google.com</li>
 <li> 11:24 mail.google.com</li>
@@ -21722,7 +21710,6 @@ With number of accesses/minutes in parentheses
 <li> 11:18 www.google.com</li>
 <li> 11:08 outlook.office365.com</li>
 <li> 11:01 www.editoraroncarati.com.br</li>
-<li> 11:01 www.google.com</li>
 <li> 11:01 www.ibm.com</li>
 <li> 11:00 www.google.com</li>
 <li> 11:00 i.crn.com</li>
@@ -21771,7 +21758,6 @@ With number of accesses/minutes in parentheses
 <li> 10:08 bsky.app</li>
 <li class='same'> 10:07 bsky.app</li>
 <li> 09:45 outlook.office365.com</li>
-<li class='same'> 09:44 outlook.office365.com</li>
 <li class='same'> 09:43 outlook.office365.com</li>
 <li> 09:40 bsky.app</li>
 <li class='same'> 09:39 bsky.app</li>
