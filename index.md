@@ -77,8 +77,8 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (755)</li>
 <li>www.facebook.com (675)</li>
 <li>www.amazon.co.uk (564)</li>
-<li>duckduckgo.com (503)</li>
-<li>chatgpt.com (458)</li>
+<li>duckduckgo.com (506)</li>
+<li>chatgpt.com (459)</li>
 <li>rhul-my.sharepoint.com (396)</li>
 <li>www.linkedin.com (348)</li>
 <li>calendar.google.com (334)</li>
@@ -93,9 +93,9 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (189)</li>
 <li>www.theguardian.com (179)</li>
 <li>gmail.com (179)</li>
-<li>web.whatsapp.com (172)</li>
+<li>web.whatsapp.com (173)</li>
 <li>rhul.sharepoint.com (165)</li>
-<li>chat.openai.com (153)</li>
+<li>chat.openai.com (154)</li>
 <li>forms.office.com (144)</li>
 <li>www.tesco.com (130)</li>
 
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 09/03/25</H3>
+
+<br>
+
+<ul><li> 14:15 <a href="https://en.wikipedia.org/wiki/Speedometer">Speedometer - Wikipedia</a></li>
+<li> 14:15 duckduckgo.com</li>
+<li> 14:14 electronics.stackexchange.com</li>
+<li class='same'> 14:13 electronics.stackexchange.com</li>
+<li> 14:13 <a href="https://en.wikipedia.org/wiki/Hall_effect_sensor">Hall effect sensor - Wikipedia</a></li>
+<li> 14:13 duckduckgo.com</li>
+<li> 14:05 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 14:04 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:31 physics.stackexchange.com</li>
+<li> 13:31 duckduckgo.com</li>
+<li> 13:16 chatgpt.com</li>
+<li> 13:16 chat.openai.com</li>
+</ul>
 
 <br>
 
