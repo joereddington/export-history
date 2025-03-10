@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2495)</li>
+<ol><li>www.google.com (2489)</li>
 <li>outlook.office.com (1792)</li>
 <li>mail.google.com (1652)</li>
 <li>docs.google.com (1430)</li>
@@ -79,13 +79,13 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (565)</li>
 <li>duckduckgo.com (513)</li>
 <li>chatgpt.com (463)</li>
-<li>rhul-my.sharepoint.com (396)</li>
+<li>rhul-my.sharepoint.com (391)</li>
 <li>www.linkedin.com (348)</li>
 <li>github.com (335)</li>
 <li>calendar.google.com (334)</li>
 <li>moodle.royalholloway.ac.uk (327)</li>
 <li>fritz.box (273)</li>
-<li>login.microsoftonline.com (271)</li>
+<li>login.microsoftonline.com (266)</li>
 <li>tvtropes.org (243)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (199)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (173)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li>chat.openai.com (158)</li>
-<li>forms.office.com (144)</li>
+<li>forms.office.com (140)</li>
 <li>www.tesco.com (130)</li>
 
 
@@ -20251,7 +20251,6 @@ With number of accesses/minutes in parentheses
 <li> 11:56 www.paul-mellon-centre.ac.uk</li>
 <li> 11:56 www.google.com</li>
 <li> 11:56 bsky.app</li>
-<li> 11:51 www.google.com</li>
 <li> 11:51 www.reddit.com</li>
 <li> 11:51 www.google.com</li>
 <li> 11:51 bsky.app</li>
@@ -20296,8 +20295,7 @@ With number of accesses/minutes in parentheses
 <li> 07:03 www.google.com</li>
 <li> 07:03 next-ventures.com</li>
 <li class='same'> 07:02 next-ventures.com</li>
-<li> 07:02 www.google.com</li>
-<li class='same'> 07:00 www.google.com</li>
+<li> 07:00 www.google.com</li>
 <li> 06:59 repository.royalholloway.ac.uk</li>
 <li> 06:59 login.microsoftonline.com</li>
 <li> 06:59 moodle.royalholloway.ac.uk</li>
@@ -20332,7 +20330,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:38 www.academia.edu</li>
-<li> 18:38 www.google.com</li>
 <li> 18:37 pure.royalholloway.ac.uk</li>
 <li> 18:37 www.google.com</li>
 <li> 18:27 <a href="https://en.wikipedia.org/wiki/Barbara_Taylor_Bradford">Barbara Taylor Bradford - Wikipedia</a></li>
@@ -20604,7 +20601,6 @@ With number of accesses/minutes in parentheses
 <li> 15:24 rhul-my.sharepoint.com</li>
 <li> 15:24 login.microsoftonline.com</li>
 <li> 15:24 forms.office.com</li>
-<li> 15:18 login.microsoftonline.com</li>
 <li> 15:18 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 15:18 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 15:18 generalssb-prod.ec.royalholloway.ac.uk</li>
@@ -20620,8 +20616,6 @@ With number of accesses/minutes in parentheses
 <li> 15:06 forms.gle</li>
 <li> 15:06 docs.google.com</li>
 <li> 15:06 outlook.office.com</li>
-<li> 15:05 login.microsoftonline.com</li>
-<li> 15:05 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
 <li> 15:05 calendar.google.com</li>
 <li> 15:04 outlook.office.com</li>
 <li> 15:04 docs.google.com</li>
@@ -20630,7 +20624,6 @@ With number of accesses/minutes in parentheses
 <li> 15:04 forms.gle</li>
 <li> 15:04 outlook.office.com</li>
 <li class='same'> 15:03 outlook.office.com</li>
-<li> 15:02 rhul-my.sharepoint.com</li>
 <li> 15:02 forms.office.com</li>
 <li> 15:02 login.microsoftonline.com</li>
 <li> 15:02 forms.office.com</li>
@@ -20650,7 +20643,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:37 outlook.office365.com</li>
-<li> 12:35 rhul-my.sharepoint.com</li>
 <li> 12:35 forms.office.com</li>
 <li> 12:35 login.microsoftonline.com</li>
 <li> 12:35 forms.office.com</li>
@@ -20689,11 +20681,6 @@ With number of accesses/minutes in parentheses
 <li> 08:59 www.reddit.com</li>
 <li> 08:59 <a href="https://en.wikipedia.org/wiki/Non-disclosure_agreement">Non-disclosure agreement - Wikipedia</a></li>
 <li> 08:59 www.google.com</li>
-<li> 08:56 login.microsoftonline.com</li>
-<li> 08:56 forms.office.com</li>
-<li> 08:56 login.microsoftonline.com</li>
-<li> 08:56 forms.office.com</li>
-<li> 08:56 rhul-my.sharepoint.com</li>
 <li> 08:56 forms.office.com</li>
 <li> 08:56 login.microsoftonline.com</li>
 <li> 08:56 forms.office.com</li>
@@ -20835,8 +20822,7 @@ With number of accesses/minutes in parentheses
 <li> 13:30 money.cnn.com</li>
 <li> 13:30 www.google.com</li>
 <li> 13:28 <a href="https://en.wikipedia.org/wiki/Shamoon">Shamoon - Wikipedia</a></li>
-<li> 13:28 www.google.com</li>
-<li class='same'> 13:27 www.google.com</li>
+<li> 13:27 www.google.com</li>
 </ul>
 
 <br>
@@ -20981,7 +20967,6 @@ With number of accesses/minutes in parentheses
 <li> 17:07 outlook.office.com</li>
 <li> 17:06 0.0.0.0:8000</li>
 <li> 17:04 www.imperva.com</li>
-<li> 17:04 www.google.com</li>
 <li> 17:04 www.twingate.com</li>
 <li> 17:04 www.google.com</li>
 <li> 16:53 <a href="https://en.wikipedia.org/wiki/T-Mobile_US#cite_note-210">T-Mobile US - Wikipedia</a></li>
@@ -21012,11 +20997,9 @@ With number of accesses/minutes in parentheses
 <li> 16:35 www.google.com</li>
 <li> 16:34 <a href="https://en.wikipedia.org/w/index.php?title=Colonial_Pipeline_ransomware_attack&action=edit">Colonial Pipeline ransomware attack - Wikipedia</a></li>
 <li> 16:33 ieeexplore.ieee.org</li>
-<li> 16:33 login.openathens.net</li>
 <li> 16:33 login.microsoftonline.com</li>
 <li> 16:33 ieeexplore.ieee.org</li>
 <li> 16:33 www.semanticscholar.org</li>
-<li> 16:32 www.google.com</li>
 <li> 16:27 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
 <li> 16:27 www.google.com</li>
 <li> 16:16 bsky.app</li>
@@ -21034,11 +21017,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:59 discord.com</li>
 <li> 15:58 outlook.office365.com</li>
 <li class='same'> 15:53 outlook.office365.com</li>
-<li> 15:49 rhul-my.sharepoint.com</li>
-<li> 15:49 forms.office.com</li>
-<li> 15:49 login.microsoftonline.com</li>
-<li> 15:49 forms.office.com</li>
-<li> 15:49 rhul-my.sharepoint.com</li>
 <li> 15:49 forms.office.com</li>
 <li> 15:49 login.microsoftonline.com</li>
 <li> 15:49 forms.office.com</li>
