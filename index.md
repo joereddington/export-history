@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2495)</li>
 <li>outlook.office.com (1792)</li>
-<li>mail.google.com (1637)</li>
+<li>mail.google.com (1642)</li>
 <li>docs.google.com (1429)</li>
 <li>bsky.app (1233)</li>
 <li>outlook.office365.com (1163)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (675)</li>
 <li>www.amazon.co.uk (565)</li>
 <li>duckduckgo.com (510)</li>
-<li>chatgpt.com (461)</li>
+<li>chatgpt.com (462)</li>
 <li>rhul-my.sharepoint.com (396)</li>
 <li>www.linkedin.com (348)</li>
 <li>calendar.google.com (334)</li>
@@ -89,13 +89,13 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (243)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (199)</li>
-<li>feedly.com (192)</li>
-<li>drive.google.com (189)</li>
+<li>feedly.com (193)</li>
+<li>drive.google.com (190)</li>
+<li>gmail.com (181)</li>
 <li>www.theguardian.com (179)</li>
-<li>gmail.com (179)</li>
 <li>web.whatsapp.com (173)</li>
 <li>rhul.sharepoint.com (165)</li>
-<li>chat.openai.com (156)</li>
+<li>chat.openai.com (157)</li>
 <li>forms.office.com (144)</li>
 <li>www.tesco.com (130)</li>
 
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 10/03/25</H3>
+
+<br>
+
+<ul><li> 09:14 www.doxdirect.com</li>
+<li class='same'> 09:13 www.doxdirect.com</li>
+<li> 09:11 chatgpt.com</li>
+<li> 09:11 chat.openai.com</li>
+<li> 09:11 mail.google.com</li>
+<li class='same'> 09:10 mail.google.com</li>
+<li class='same'> 09:09 mail.google.com</li>
+<li class='same'> 09:08 mail.google.com</li>
+<li> 09:08 gmail.com</li>
+<li> 09:07 drive.google.com</li>
+</ul>
 
 <br>
 
@@ -121,6 +135,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:38 www.nhs.uk</li>
 <li> 07:38 www.google.com</li>
 <li> 07:38 tvtropes.org</li>
+<li> 07:28 feedly.com</li>
+<li> 07:28 mail.google.com</li>
+<li> 07:28 gmail.com</li>
 <li> 07:27 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:26 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
 <li> 07:26 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
