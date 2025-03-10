@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2490)</li>
+<ol><li>www.google.com (2491)</li>
 <li>outlook.office.com (1792)</li>
 <li>mail.google.com (1652)</li>
-<li>docs.google.com (1430)</li>
+<li>docs.google.com (1435)</li>
 <li>bsky.app (1235)</li>
 <li>outlook.office365.com (1163)</li>
 <li>www.reddit.com (758)</li>
-<li>www.facebook.com (678)</li>
+<li>www.facebook.com (680)</li>
 <li>www.amazon.co.uk (565)</li>
 <li>duckduckgo.com (513)</li>
 <li>chatgpt.com (464)</li>
@@ -86,13 +86,13 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (327)</li>
 <li>fritz.box (273)</li>
 <li>login.microsoftonline.com (266)</li>
-<li>tvtropes.org (249)</li>
+<li>tvtropes.org (256)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (199)</li>
 <li>feedly.com (193)</li>
 <li>drive.google.com (190)</li>
+<li>www.theguardian.com (183)</li>
 <li>gmail.com (183)</li>
-<li>www.theguardian.com (179)</li>
 <li>web.whatsapp.com (175)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li>chat.openai.com (159)</li>
@@ -105,6 +105,34 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 10/03/25</H3>
+
+<br>
+
+<ul><li> 19:53 tvtropes.org</li>
+<li class='same'> 19:51 tvtropes.org</li>
+<li class='same'> 19:48 tvtropes.org</li>
+<li class='same'> 19:41 tvtropes.org</li>
+<li class='same'> 19:38 tvtropes.org</li>
+<li class='same'> 19:31 tvtropes.org</li>
+<li> 19:30 www.google.com</li>
+<li> 19:29 reductress.com</li>
+<li> 19:28 www.theguardian.com</li>
+<li class='same'> 19:26 www.theguardian.com</li>
+<li class='same'> 19:25 www.theguardian.com</li>
+<li class='same'> 19:24 www.theguardian.com</li>
+<li> 19:24 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li> 17:26 docs.google.com</li>
+<li class='same'> 17:25 docs.google.com</li>
+<li class='same'> 17:24 docs.google.com</li>
+<li class='same'> 17:23 docs.google.com</li>
+<li class='same'> 17:21 docs.google.com</li>
+<li> 17:21 www.facebook.com</li>
+<li class='same'> 17:20 www.facebook.com</li>
+</ul>
 
 <br>
 
