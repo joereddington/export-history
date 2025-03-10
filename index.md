@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2491)</li>
+<ol><li>www.google.com (2495)</li>
 <li>outlook.office.com (1792)</li>
 <li>mail.google.com (1637)</li>
 <li>docs.google.com (1429)</li>
@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1163)</li>
 <li>www.reddit.com (758)</li>
 <li>www.facebook.com (675)</li>
-<li>www.amazon.co.uk (564)</li>
-<li>duckduckgo.com (507)</li>
-<li>chatgpt.com (459)</li>
+<li>www.amazon.co.uk (565)</li>
+<li>duckduckgo.com (510)</li>
+<li>chatgpt.com (461)</li>
 <li>rhul-my.sharepoint.com (396)</li>
 <li>www.linkedin.com (348)</li>
 <li>calendar.google.com (334)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (327)</li>
 <li>fritz.box (273)</li>
 <li>login.microsoftonline.com (271)</li>
-<li>tvtropes.org (241)</li>
+<li>tvtropes.org (243)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (199)</li>
 <li>feedly.com (192)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (179)</li>
 <li>web.whatsapp.com (173)</li>
 <li>rhul.sharepoint.com (165)</li>
-<li>chat.openai.com (154)</li>
+<li>chat.openai.com (156)</li>
 <li>forms.office.com (144)</li>
 <li>www.tesco.com (130)</li>
 
@@ -104,7 +104,57 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 10/03/25</H3>
+
+<br>
+
+<ul><li> 08:23 www.activeluton.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:45 www.activeluton.co.uk</li>
+<li> 07:45 www.google.com</li>
+<li> 07:42 www.diabetes.org.uk</li>
+<li> 07:42 www.google.com</li>
+<li> 07:40 www.nhs.uk</li>
+<li class='same'> 07:38 www.nhs.uk</li>
+<li> 07:38 www.google.com</li>
+<li> 07:38 tvtropes.org</li>
+<li> 07:27 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:26 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<li> 07:26 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:24 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<li> 07:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:22 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
+<li> 07:22 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:20 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<li> 07:20 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:17 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
+<li> 07:12 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:12 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<li> 07:12 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:48 www.amazon.co.uk</li>
+<li> 06:47 <a href="https://en.wikipedia.org/wiki/Arduino">Arduino - Wikipedia</a></li>
+<li> 06:47 duckduckgo.com</li>
+<li> 06:35 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 06:35 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:35 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 06:33 chatgpt.com</li>
+<li> 06:33 chat.openai.com</li>
+<li> 06:32 uk.wahoofitness.com</li>
+<li> 06:32 duckduckgo.com</li>
+<li> 06:31 chatgpt.com</li>
+<li> 06:31 chat.openai.com</li>
+<li> 06:31 <a href="https://en.wikipedia.org/wiki/Hall_effect_sensor">Hall effect sensor - Wikipedia</a></li>
+<li> 06:31 duckduckgo.com</li>
+</ul>
+
 <H3>Sunday, 09/03/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -229,7 +279,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:36 www.google.com</li>
+<ul><li> 14:03 tvtropes.org</li>
+<li> 14:03 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:36 www.google.com</li>
 </ul>
 
 <br>
