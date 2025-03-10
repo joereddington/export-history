@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2495)</li>
 <li>outlook.office.com (1792)</li>
-<li>mail.google.com (1642)</li>
-<li>docs.google.com (1429)</li>
+<li>mail.google.com (1652)</li>
+<li>docs.google.com (1430)</li>
 <li>bsky.app (1233)</li>
 <li>outlook.office365.com (1163)</li>
 <li>www.reddit.com (758)</li>
 <li>www.facebook.com (675)</li>
 <li>www.amazon.co.uk (565)</li>
-<li>duckduckgo.com (510)</li>
-<li>chatgpt.com (462)</li>
+<li>duckduckgo.com (513)</li>
+<li>chatgpt.com (463)</li>
 <li>rhul-my.sharepoint.com (396)</li>
 <li>www.linkedin.com (348)</li>
+<li>github.com (335)</li>
 <li>calendar.google.com (334)</li>
-<li>github.com (334)</li>
 <li>moodle.royalholloway.ac.uk (327)</li>
 <li>fritz.box (273)</li>
 <li>login.microsoftonline.com (271)</li>
@@ -91,11 +91,11 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (199)</li>
 <li>feedly.com (193)</li>
 <li>drive.google.com (190)</li>
-<li>gmail.com (181)</li>
+<li>gmail.com (183)</li>
 <li>www.theguardian.com (179)</li>
 <li>web.whatsapp.com (173)</li>
 <li>rhul.sharepoint.com (165)</li>
-<li>chat.openai.com (157)</li>
+<li>chat.openai.com (158)</li>
 <li>forms.office.com (144)</li>
 <li>www.tesco.com (130)</li>
 
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:14 www.doxdirect.com</li>
+<ul><li> 09:57 forums.libretro.com</li>
+<li class='same'> 09:56 forums.libretro.com</li>
+<li class='same'> 09:55 forums.libretro.com</li>
+<li class='same'> 09:54 forums.libretro.com</li>
+<li class='same'> 09:53 forums.libretro.com</li>
+<li class='same'> 09:52 forums.libretro.com</li>
+<li> 09:51 <a href="https://en.wikipedia.org/wiki/Inherently_funny_word">Inherently funny word - Wikipedia</a></li>
+<li> 09:51 forums.libretro.com</li>
+<li> 09:50 blog.discourse.org</li>
+<li> 09:50 forums.libretro.com</li>
+<li> 09:50 mail.google.com</li>
+<li> 09:49 fast.com</li>
+<li> 09:49 forums.libretro.com</li>
+<li> 09:48 whitewaterwriters.com</li>
+<li> 09:48 mail.google.com</li>
+<li> 09:48 docs.google.com</li>
+<li> 09:48 mail.google.com</li>
+<li> 09:48 gmail.com</li>
+<li> 09:48 forums.libretro.com</li>
+<li class='same'> 09:47 forums.libretro.com</li>
+<li class='same'> 09:46 forums.libretro.com</li>
+<li> 09:46 github.com</li>
+<li> 09:46 mail.google.com</li>
+<li> 09:46 gmail.com</li>
+<li> 09:45 forums.libretro.com</li>
+<li> 09:45 duckduckgo.com</li>
+<li> 09:45 docs.libretro.com</li>
+<li class='same'> 09:44 docs.libretro.com</li>
+<li class='same'> 09:43 docs.libretro.com</li>
+<li> 09:41 chatgpt.com</li>
+<li> 09:41 chat.openai.com</li>
+<li> 09:40 docs.libretro.com</li>
+<li> 09:40 duckduckgo.com</li>
+<li> 09:40 www.retroarch.com</li>
+<li class='same'> 09:39 www.retroarch.com</li>
+<li> 09:39 docs.libretro.com</li>
+<li> 09:39 duckduckgo.com</li>
+<li> 09:38 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 09:32 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<li> 09:32 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:32 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:32 mail.google.com</li>
+<li class='same'> 09:26 mail.google.com</li>
+<li class='same'> 09:22 mail.google.com</li>
+<li class='same'> 09:19 mail.google.com</li>
+<li class='same'> 09:16 mail.google.com</li>
+<li class='same'> 09:15 mail.google.com</li>
+<li> 09:14 www.doxdirect.com</li>
 <li class='same'> 09:13 www.doxdirect.com</li>
 <li> 09:11 chatgpt.com</li>
 <li> 09:11 chat.openai.com</li>
@@ -26379,7 +26426,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:06 qbo.intuit.com</li>
+<ul><li> 07:26 <a href="https://en.wikipedia.org/wiki/Inherently_funny_word">Inherently funny word - Wikipedia</a></li>
+<li> 07:06 qbo.intuit.com</li>
 <li class='same'> 07:05 qbo.intuit.com</li>
 <li class='same'> 07:02 qbo.intuit.com</li>
 <li> 07:02 app.qbo.intuit.com</li>
