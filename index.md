@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2489)</li>
+<ol><li>www.google.com (2490)</li>
 <li>outlook.office.com (1792)</li>
 <li>mail.google.com (1652)</li>
 <li>docs.google.com (1430)</li>
-<li>bsky.app (1233)</li>
+<li>bsky.app (1235)</li>
 <li>outlook.office365.com (1163)</li>
 <li>www.reddit.com (758)</li>
-<li>www.facebook.com (675)</li>
+<li>www.facebook.com (678)</li>
 <li>www.amazon.co.uk (565)</li>
 <li>duckduckgo.com (513)</li>
-<li>chatgpt.com (463)</li>
+<li>chatgpt.com (464)</li>
 <li>rhul-my.sharepoint.com (391)</li>
 <li>www.linkedin.com (348)</li>
 <li>github.com (335)</li>
@@ -86,16 +86,16 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (327)</li>
 <li>fritz.box (273)</li>
 <li>login.microsoftonline.com (266)</li>
-<li>tvtropes.org (243)</li>
+<li>tvtropes.org (249)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (199)</li>
 <li>feedly.com (193)</li>
 <li>drive.google.com (190)</li>
 <li>gmail.com (183)</li>
 <li>www.theguardian.com (179)</li>
-<li>web.whatsapp.com (173)</li>
+<li>web.whatsapp.com (175)</li>
 <li>rhul.sharepoint.com (165)</li>
-<li>chat.openai.com (158)</li>
+<li>chat.openai.com (159)</li>
 <li>forms.office.com (140)</li>
 <li>www.tesco.com (130)</li>
 
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 10/03/25</H3>
+
+<br>
+
+<ul><li> 11:52 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:03 tvtropes.org</li>
+<li class='same'> 11:02 tvtropes.org</li>
+<li class='same'> 11:01 tvtropes.org</li>
+<li class='same'> 10:59 tvtropes.org</li>
+<li class='same'> 10:58 tvtropes.org</li>
+<li> 10:41 www.facebook.com</li>
+<li> 10:38 web.whatsapp.com</li>
+<li> 10:37 www.facebook.com</li>
+<li> 10:37 bsky.app</li>
+<li class='same'> 10:36 bsky.app</li>
+<li> 10:35 web.whatsapp.com</li>
+<li> 10:35 www.facebook.com</li>
+<li> 10:31 chatgpt.com</li>
+<li> 10:31 chat.openai.com</li>
+</ul>
 
 <br>
 
@@ -222,7 +245,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:01 github.com</li>
+<ul><li> 22:12 www.roadbikereview.com</li>
+<li> 22:12 www.google.com</li>
+<li> 22:01 github.com</li>
 <li class='same'> 22:00 github.com</li>
 <li class='same'> 21:59 github.com</li>
 <li> 21:57 imateapot.dev</li>
