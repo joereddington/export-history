@@ -69,24 +69,24 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2491)</li>
-<li>outlook.office.com (1792)</li>
+<li>outlook.office.com (1823)</li>
 <li>mail.google.com (1652)</li>
-<li>docs.google.com (1435)</li>
-<li>bsky.app (1235)</li>
-<li>outlook.office365.com (1163)</li>
-<li>www.reddit.com (758)</li>
+<li>docs.google.com (1436)</li>
+<li>bsky.app (1236)</li>
+<li>outlook.office365.com (1167)</li>
+<li>www.reddit.com (760)</li>
 <li>www.facebook.com (680)</li>
 <li>www.amazon.co.uk (565)</li>
-<li>duckduckgo.com (513)</li>
+<li>duckduckgo.com (514)</li>
 <li>chatgpt.com (465)</li>
 <li>rhul-my.sharepoint.com (391)</li>
 <li>www.linkedin.com (348)</li>
+<li>calendar.google.com (338)</li>
 <li>github.com (335)</li>
-<li>calendar.google.com (334)</li>
-<li>moodle.royalholloway.ac.uk (327)</li>
+<li>moodle.royalholloway.ac.uk (330)</li>
 <li>fritz.box (273)</li>
+<li>login.microsoftonline.com (269)</li>
 <li>tvtropes.org (268)</li>
-<li>login.microsoftonline.com (266)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (199)</li>
 <li>feedly.com (193)</li>
@@ -104,7 +104,77 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 11/03/25</H3>
+
+<br>
+
+<ul><li> 08:09 outlook.office.com</li>
+<li class='same'> 08:08 outlook.office.com</li>
+<li class='same'> 08:07 outlook.office.com</li>
+<li class='same'> 08:06 outlook.office.com</li>
+<li class='same'> 08:03 outlook.office.com</li>
+<li class='same'> 08:02 outlook.office.com</li>
+<li> 07:32 docs.google.com</li>
+<li> 07:26 rikkebjerg.gitlab.io</li>
+<li> 07:26 duckduckgo.com</li>
+<li> 07:22 moodle.royalholloway.ac.uk</li>
+<li> 07:22 projects.cs.rhul.ac.uk</li>
+<li> 07:17 outlook.office.com</li>
+<li> 07:16 outlook.office365.com</li>
+<li> 07:16 outlook.office.com</li>
+<li> 07:16 projects.cs.rhul.ac.uk</li>
+<li> 07:16 moodle.royalholloway.ac.uk</li>
+<li> 07:16 login.microsoftonline.com</li>
+<li> 07:16 moodle.royalholloway.ac.uk</li>
+<li> 07:15 projects.cs.rhul.ac.uk</li>
+<li> 07:15 outlook.office.com</li>
+<li> 07:14 projects.cs.rhul.ac.uk</li>
+<li> 07:07 outlook.office.com</li>
+<li class='same'> 07:06 outlook.office.com</li>
+<li class='same'> 07:05 outlook.office.com</li>
+<li class='same'> 07:03 outlook.office.com</li>
+<li> 07:03 outlook.office365.com</li>
+<li> 07:03 outlook.office.com</li>
+<li> 07:02 bsky.app</li>
+<li> 07:02 www.reddit.com</li>
+<li class='same'> 07:00 www.reddit.com</li>
+<li> 07:00 outlook.office.com</li>
+<li class='same'> 06:59 outlook.office.com</li>
+<li class='same'> 06:58 outlook.office.com</li>
+<li> 06:58 outlook.office365.com</li>
+<li> 06:58 outlook.office.com</li>
+<li> 06:58 doodle.com</li>
+<li> 06:57 outlook.office.com</li>
+<li> 06:57 calendar.google.com</li>
+<li class='same'> 06:56 calendar.google.com</li>
+<li class='same'> 06:55 calendar.google.com</li>
+<li> 06:55 doodle.com</li>
+<li> 06:53 outlook.office.com</li>
+<li class='same'> 06:52 outlook.office.com</li>
+<li class='same'> 06:51 outlook.office.com</li>
+<li> 06:51 calendar.google.com</li>
+<li> 06:51 outlook.office.com</li>
+<li class='same'> 06:50 outlook.office.com</li>
+<li class='same'> 06:49 outlook.office.com</li>
+<li class='same'> 06:48 outlook.office.com</li>
+<li class='same'> 06:47 outlook.office.com</li>
+<li class='same'> 06:46 outlook.office.com</li>
+<li class='same'> 06:45 outlook.office.com</li>
+<li> 06:45 myaccount.microsoft.com</li>
+<li> 06:45 login.microsoftonline.com</li>
+<li> 06:45 myaccount.microsoft.com</li>
+<li> 06:45 teams.microsoft.com</li>
+<li> 06:45 outlook.office.com</li>
+<li class='same'> 06:43 outlook.office.com</li>
+<li> 06:43 login.microsoftonline.com</li>
+<li> 06:43 outlook.office365.com</li>
+</ul>
+
 <H3>Monday, 10/03/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
