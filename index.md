@@ -78,15 +78,15 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (680)</li>
 <li>www.amazon.co.uk (565)</li>
 <li>duckduckgo.com (513)</li>
-<li>chatgpt.com (464)</li>
+<li>chatgpt.com (465)</li>
 <li>rhul-my.sharepoint.com (391)</li>
 <li>www.linkedin.com (348)</li>
 <li>github.com (335)</li>
 <li>calendar.google.com (334)</li>
 <li>moodle.royalholloway.ac.uk (327)</li>
 <li>fritz.box (273)</li>
+<li>tvtropes.org (268)</li>
 <li>login.microsoftonline.com (266)</li>
-<li>tvtropes.org (256)</li>
 <li>qbo.intuit.com (204)</li>
 <li>www.coursera.org (199)</li>
 <li>feedly.com (193)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (183)</li>
 <li>web.whatsapp.com (175)</li>
 <li>rhul.sharepoint.com (165)</li>
-<li>chat.openai.com (159)</li>
+<li>chat.openai.com (160)</li>
 <li>forms.office.com (140)</li>
 <li>www.tesco.com (130)</li>
 
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:53 tvtropes.org</li>
+<ul><li> 20:57 tvtropes.org</li>
+<li class='same'> 20:56 tvtropes.org</li>
+<li class='same'> 20:52 tvtropes.org</li>
+<li class='same'> 20:51 tvtropes.org</li>
+<li class='same'> 20:46 tvtropes.org</li>
+<li class='same'> 20:41 tvtropes.org</li>
+<li class='same'> 20:39 tvtropes.org</li>
+<li class='same'> 20:38 tvtropes.org</li>
+<li class='same'> 20:35 tvtropes.org</li>
+<li class='same'> 20:34 tvtropes.org</li>
+<li class='same'> 20:24 tvtropes.org</li>
+<li class='same'> 20:17 tvtropes.org</li>
+<li class='same'> 19:53 tvtropes.org</li>
 <li class='same'> 19:51 tvtropes.org</li>
 <li class='same'> 19:48 tvtropes.org</li>
 <li class='same'> 19:41 tvtropes.org</li>
@@ -121,6 +133,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:25 www.theguardian.com</li>
 <li class='same'> 19:24 www.theguardian.com</li>
 <li> 19:24 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li> 18:02 chatgpt.com</li>
+<li> 18:02 chat.openai.com</li>
 </ul>
 
 <br>
