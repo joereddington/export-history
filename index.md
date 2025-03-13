@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2495)</li>
+<ol><li>www.google.com (2496)</li>
 <li>outlook.office.com (1870)</li>
 <li>mail.google.com (1729)</li>
 <li>docs.google.com (1516)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (394)</li>
 <li>calendar.google.com (362)</li>
 <li>www.linkedin.com (359)</li>
-<li>github.com (349)</li>
+<li>github.com (350)</li>
 <li>moodle.royalholloway.ac.uk (339)</li>
 <li>tvtropes.org (279)</li>
 <li>fritz.box (273)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:14 equalitytime.github.io</li>
+<ul><li> 09:27 github.com</li>
+<li> 09:27 julianstraub.com</li>
+<li> 09:27 forum.arduino.cc</li>
+<li class='same'> 09:26 forum.arduino.cc</li>
+<li> 09:26 www.google.com</li>
+<li> 09:25 www.vimgolf.com</li>
+<li> 09:14 equalitytime.github.io</li>
 <li> 09:14 github.com</li>
 <li class='same'> 09:13 github.com</li>
 <li> 09:11 whitewaterwriters.com</li>
