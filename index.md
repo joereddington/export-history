@@ -70,17 +70,17 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2498)</li>
 <li>outlook.office.com (1878)</li>
-<li>mail.google.com (1743)</li>
+<li>mail.google.com (1745)</li>
 <li>docs.google.com (1519)</li>
 <li>bsky.app (1248)</li>
 <li>outlook.office365.com (1176)</li>
 <li>www.reddit.com (795)</li>
 <li>www.facebook.com (715)</li>
 <li>www.amazon.co.uk (571)</li>
-<li>duckduckgo.com (549)</li>
+<li>duckduckgo.com (553)</li>
 <li>chatgpt.com (476)</li>
-<li>rhul-my.sharepoint.com (396)</li>
-<li>calendar.google.com (362)</li>
+<li>rhul-my.sharepoint.com (397)</li>
+<li>calendar.google.com (363)</li>
 <li>www.linkedin.com (359)</li>
 <li>github.com (355)</li>
 <li>moodle.royalholloway.ac.uk (339)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (197)</li>
 <li>www.theguardian.com (189)</li>
-<li>web.whatsapp.com (184)</li>
+<li>web.whatsapp.com (186)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li>chat.openai.com (165)</li>
 <li>forms.office.com (143)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:52 en.boardgamearena.com</li>
+<ul><li> 11:43 web.whatsapp.com</li>
+<li> 11:39 www.digitaltrends.com</li>
+<li> 11:39 duckduckgo.com</li>
+<li> 11:38 space.stackexchange.com</li>
+<li> 11:38 duckduckgo.com</li>
+<li class='same'> 11:37 duckduckgo.com</li>
+<li> 11:35 thebigbangoptics.com</li>
+<li> 11:35 duckduckgo.com</li>
+<li> 11:31 rhul-my.sharepoint.com</li>
+<li> 11:18 www.bricklink.com</li>
+<li class='same'> 11:17 www.bricklink.com</li>
+<li> 11:16 web.whatsapp.com</li>
+<li> 11:16 www.bricklink.com</li>
+<li class='same'> 11:09 www.bricklink.com</li>
+<li class='same'> 11:08 www.bricklink.com</li>
+<li class='same'> 11:04 www.bricklink.com</li>
+<li class='same'> 11:02 www.bricklink.com</li>
+<li class='same'> 11:01 www.bricklink.com</li>
+<li class='same'> 11:00 www.bricklink.com</li>
+<li class='same'> 10:59 www.bricklink.com</li>
+<li> 10:58 calendar.google.com</li>
+<li> 10:57 vim-adventures.com</li>
+<li> 10:55 store.steampowered.com</li>
+<li> 10:55 help.steampowered.com</li>
+<li> 10:55 mail.google.com</li>
+<li> 10:54 help.steampowered.com</li>
+<li> 10:54 store.steampowered.com</li>
+<li> 10:53 mail.google.com</li>
+<li> 10:53 store.steampowered.com</li>
+<li> 10:53 boardgamearena.com</li>
+<li> 10:53 en.boardgamearena.com</li>
+<li class='same'> 10:52 en.boardgamearena.com</li>
 <li> 10:52 mail.google.com</li>
 <li> 10:51 en.boardgamearena.com</li>
 <li> 10:51 www.eventbrite.co.uk</li>
@@ -30115,7 +30146,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 17:30 myview.rhul.zellis.com</li>
-<li> 17:16 www.bricklink.com</li>
+<li> 17:28 www.bricklink.com</li>
+<li class='same'> 17:16 www.bricklink.com</li>
 <li> 17:08 findarace.com</li>
 <li> 17:07 mail.google.com</li>
 </ul>
