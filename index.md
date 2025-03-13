@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2498)</li>
-<li>outlook.office.com (1881)</li>
-<li>mail.google.com (1745)</li>
+<li>outlook.office.com (1883)</li>
+<li>mail.google.com (1746)</li>
 <li>docs.google.com (1521)</li>
-<li>bsky.app (1251)</li>
-<li>outlook.office365.com (1177)</li>
+<li>bsky.app (1253)</li>
+<li>outlook.office365.com (1178)</li>
 <li>www.reddit.com (795)</li>
 <li>www.facebook.com (715)</li>
 <li>www.amazon.co.uk (571)</li>
-<li>duckduckgo.com (554)</li>
-<li>chatgpt.com (476)</li>
-<li>rhul-my.sharepoint.com (398)</li>
+<li>duckduckgo.com (556)</li>
+<li>chatgpt.com (478)</li>
+<li>rhul-my.sharepoint.com (399)</li>
 <li>calendar.google.com (363)</li>
 <li>www.linkedin.com (359)</li>
 <li>github.com (355)</li>
@@ -94,8 +94,8 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (197)</li>
 <li>www.theguardian.com (189)</li>
 <li>web.whatsapp.com (187)</li>
+<li>chat.openai.com (166)</li>
 <li>rhul.sharepoint.com (165)</li>
-<li>chat.openai.com (165)</li>
 <li>forms.office.com (143)</li>
 <li>www.tesco.com (133)</li>
 
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:51 duckduckgo.com</li>
+<ul><li> 13:46 bsky.app</li>
+<li class='same'> 13:45 bsky.app</li>
+<li> 13:45 outlook.office365.com</li>
+<li> 13:45 outlook.office.com</li>
+<li> 13:45 rhul-my.sharepoint.com</li>
+<li> 13:20 developer.android.com</li>
+<li> 13:20 duckduckgo.com</li>
+<li> 13:18 chatgpt.com</li>
+<li class='same'> 13:17 chatgpt.com</li>
+<li> 13:17 chat.openai.com</li>
+<li> 13:14 mail.google.com</li>
+<li> 13:14 outlook.office.com</li>
+<li> 12:59 localhost:3000</li>
+<li class='same'> 12:58 localhost:3000</li>
+<li class='same'> 12:57 localhost:3000</li>
+<li class='same'> 12:56 localhost:3000</li>
+<li> 12:52 nodejs.org</li>
+<li> 12:52 docs.npmjs.com</li>
+<li> 12:52 duckduckgo.com</li>
+<li class='same'> 12:51 duckduckgo.com</li>
 <li> 12:46 projects.cs.rhul.ac.uk</li>
 <li class='same'> 12:37 projects.cs.rhul.ac.uk</li>
 <li> 12:37 outlook.office.com</li>
