@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2498)</li>
-<li>outlook.office.com (1878)</li>
+<li>outlook.office.com (1881)</li>
 <li>mail.google.com (1745)</li>
-<li>docs.google.com (1519)</li>
-<li>bsky.app (1248)</li>
-<li>outlook.office365.com (1176)</li>
+<li>docs.google.com (1521)</li>
+<li>bsky.app (1251)</li>
+<li>outlook.office365.com (1177)</li>
 <li>www.reddit.com (795)</li>
 <li>www.facebook.com (715)</li>
 <li>www.amazon.co.uk (571)</li>
-<li>duckduckgo.com (553)</li>
+<li>duckduckgo.com (554)</li>
 <li>chatgpt.com (476)</li>
-<li>rhul-my.sharepoint.com (397)</li>
+<li>rhul-my.sharepoint.com (398)</li>
 <li>calendar.google.com (363)</li>
 <li>www.linkedin.com (359)</li>
 <li>github.com (355)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (197)</li>
 <li>www.theguardian.com (189)</li>
-<li>web.whatsapp.com (186)</li>
+<li>web.whatsapp.com (187)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li>chat.openai.com (165)</li>
 <li>forms.office.com (143)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:43 web.whatsapp.com</li>
+<ul><li> 12:51 duckduckgo.com</li>
+<li> 12:46 projects.cs.rhul.ac.uk</li>
+<li class='same'> 12:37 projects.cs.rhul.ac.uk</li>
+<li> 12:37 outlook.office.com</li>
+<li> 12:33 rhul-my.sharepoint.com</li>
+<li> 12:33 outlook.office.com</li>
+<li> 12:33 outlook.office365.com</li>
+<li> 12:33 outlook.office.com</li>
+<li> 12:32 bsky.app</li>
+<li class='same'> 12:11 bsky.app</li>
+<li class='same'> 12:10 bsky.app</li>
+<li> 12:09 docs.google.com</li>
+<li class='same'> 12:08 docs.google.com</li>
+<li> 11:59 web.whatsapp.com</li>
+<li class='same'> 11:43 web.whatsapp.com</li>
 <li> 11:39 www.digitaltrends.com</li>
 <li> 11:39 duckduckgo.com</li>
 <li> 11:38 space.stackexchange.com</li>
