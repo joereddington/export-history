@@ -72,10 +72,10 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (1883)</li>
 <li>mail.google.com (1746)</li>
 <li>docs.google.com (1521)</li>
-<li>bsky.app (1253)</li>
+<li>bsky.app (1255)</li>
 <li>outlook.office365.com (1178)</li>
 <li>www.reddit.com (795)</li>
-<li>www.facebook.com (715)</li>
+<li>www.facebook.com (717)</li>
 <li>www.amazon.co.uk (571)</li>
 <li>duckduckgo.com (556)</li>
 <li>chatgpt.com (478)</li>
@@ -88,11 +88,11 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (273)</li>
 <li>login.microsoftonline.com (273)</li>
 <li>qbo.intuit.com (211)</li>
+<li>feedly.com (202)</li>
 <li>gmail.com (202)</li>
-<li>feedly.com (201)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (197)</li>
-<li>www.theguardian.com (189)</li>
+<li>www.theguardian.com (190)</li>
 <li>web.whatsapp.com (187)</li>
 <li>chat.openai.com (166)</li>
 <li>rhul.sharepoint.com (165)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:46 bsky.app</li>
+<ul><li> 14:14 localhost:3000</li>
+<li class='same'> 14:07 localhost:3000</li>
+<li class='same'> 14:05 localhost:3000</li>
+<li class='same'> 14:04 localhost:3000</li>
+<li class='same'> 14:02 localhost:3000</li>
+<li class='same'> 14:01 localhost:3000</li>
+<li> 14:00 www.facebook.com</li>
+<li> 13:52 feedly.com</li>
+<li> 13:51 www.theguardian.com</li>
+<li> 13:49 www.facebook.com</li>
+<li> 13:49 bsky.app</li>
+<li class='same'> 13:48 bsky.app</li>
+<li class='same'> 13:46 bsky.app</li>
 <li class='same'> 13:45 bsky.app</li>
 <li> 13:45 outlook.office365.com</li>
 <li> 13:45 outlook.office.com</li>
