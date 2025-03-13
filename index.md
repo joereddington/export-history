@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2496)</li>
+<ol><li>www.google.com (2498)</li>
 <li>outlook.office.com (1870)</li>
-<li>mail.google.com (1729)</li>
+<li>mail.google.com (1730)</li>
 <li>docs.google.com (1516)</li>
 <li>bsky.app (1248)</li>
 <li>outlook.office365.com (1176)</li>
@@ -78,11 +78,11 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (715)</li>
 <li>www.amazon.co.uk (571)</li>
 <li>duckduckgo.com (548)</li>
-<li>chatgpt.com (475)</li>
+<li>chatgpt.com (476)</li>
 <li>rhul-my.sharepoint.com (394)</li>
 <li>calendar.google.com (362)</li>
 <li>www.linkedin.com (359)</li>
-<li>github.com (350)</li>
+<li>github.com (354)</li>
 <li>moodle.royalholloway.ac.uk (339)</li>
 <li>tvtropes.org (279)</li>
 <li>fritz.box (273)</li>
@@ -90,12 +90,12 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (211)</li>
 <li>feedly.com (201)</li>
 <li>www.coursera.org (199)</li>
-<li>gmail.com (198)</li>
+<li>gmail.com (199)</li>
 <li>drive.google.com (196)</li>
 <li>www.theguardian.com (189)</li>
 <li>web.whatsapp.com (183)</li>
 <li>rhul.sharepoint.com (165)</li>
-<li>chat.openai.com (164)</li>
+<li>chat.openai.com (165)</li>
 <li>forms.office.com (143)</li>
 <li>www.tesco.com (133)</li>
 
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:27 github.com</li>
+<ul><li> 09:43 whitewaterwriters.com</li>
+<li class='same'> 09:42 whitewaterwriters.com</li>
+<li> 09:42 equalitytime.github.io</li>
+<li> 09:42 www.whitewaterwriters.com</li>
+<li> 09:41 dash.cloudflare.com</li>
+<li class='same'> 09:40 dash.cloudflare.com</li>
+<li> 09:40 www.google.com</li>
+<li> 09:40 dash.cloudflare.com</li>
+<li> 09:40 mail.google.com</li>
+<li> 09:40 gmail.com</li>
+<li> 09:40 dash.cloudflare.com</li>
+<li class='same'> 09:39 dash.cloudflare.com</li>
+<li> 09:39 www.cloudflare.com</li>
+<li> 09:39 www.google.com</li>
+<li> 09:39 github.com</li>
+<li class='same'> 09:38 github.com</li>
+<li> 09:33 Local file</li>
+<li> 09:32 chatgpt.com</li>
+<li> 09:32 chat.openai.com</li>
+<li> 09:31 github.com</li>
+<li class='same'> 09:30 github.com</li>
+<li class='same'> 09:27 github.com</li>
 <li> 09:27 julianstraub.com</li>
 <li> 09:27 forum.arduino.cc</li>
 <li class='same'> 09:26 forum.arduino.cc</li>
