@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2521)</li>
+<ol><li>www.google.com (2532)</li>
 <li>outlook.office.com (1886)</li>
 <li>mail.google.com (1746)</li>
 <li>docs.google.com (1521)</li>
 <li>bsky.app (1255)</li>
 <li>outlook.office365.com (1179)</li>
-<li>www.reddit.com (803)</li>
+<li>www.reddit.com (814)</li>
 <li>www.facebook.com (717)</li>
 <li>www.amazon.co.uk (571)</li>
 <li>duckduckgo.com (556)</li>
@@ -84,20 +84,20 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (359)</li>
 <li>github.com (355)</li>
 <li>moodle.royalholloway.ac.uk (339)</li>
-<li>tvtropes.org (284)</li>
+<li>tvtropes.org (290)</li>
 <li>fritz.box (273)</li>
 <li>login.microsoftonline.com (272)</li>
 <li>qbo.intuit.com (211)</li>
+<li>www.theguardian.com (204)</li>
 <li>feedly.com (202)</li>
 <li>gmail.com (202)</li>
-<li>www.theguardian.com (199)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (197)</li>
 <li>web.whatsapp.com (187)</li>
 <li>chat.openai.com (166)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li>forms.office.com (142)</li>
-<li>www.tesco.com (133)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (134)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,51 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:45 sefton.borrowbox.com</li>
+<ul><li> 15:38 tvtropes.org</li>
+<li class='same'> 15:36 tvtropes.org</li>
+<li class='same'> 15:33 tvtropes.org</li>
+<li> 15:33 www.google.com</li>
+<li> 15:31 www.rollingstone.com</li>
+<li> 15:31 www.google.com</li>
+<li class='same'> 15:29 www.google.com</li>
+<li> 15:28 www.theguardian.com</li>
+<li> 15:22 www.google.com</li>
+<li> 15:22 www.reddit.com</li>
+<li> 15:22 learn.microsoft.com</li>
+<li> 15:21 tvtropes.org</li>
+<li> 15:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:21 libbysearch.com</li>
+<li> 15:21 www.thetimes.com</li>
+<li> 15:21 account.thetimes.co.uk</li>
+<li class='same'> 15:20 account.thetimes.co.uk</li>
+<li> 15:20 login.thetimes.com</li>
+<li> 15:20 www.thetimes.com</li>
+<li class='same'> 15:19 www.thetimes.com</li>
+<li> 15:19 www.google.com</li>
+<li class='same'> 15:09 www.google.com</li>
+<li> 15:08 www.sfadb.com</li>
+<li> 15:08 www.google.com</li>
+<li> 15:08 www.reddit.com</li>
+<li class='same'> 15:01 www.reddit.com</li>
+<li> 15:01 libbysearch.com</li>
+<li> 15:01 www.reddit.com</li>
+<li> 15:01 www.google.com</li>
+<li> 15:00 help.libbyapp.com</li>
+<li> 15:00 www.google.com</li>
+<li> 15:00 weather.metoffice.gov.uk</li>
+<li class='same'> 14:59 weather.metoffice.gov.uk</li>
+<li> 14:59 www.google.com</li>
+<li> 14:57 www.reddit.com</li>
+<li> 14:57 www.google.com</li>
+<li> 14:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:57 www.reddit.com</li>
+<li class='same'> 14:56 www.reddit.com</li>
+<li class='same'> 14:54 www.reddit.com</li>
+<li class='same'> 14:53 www.reddit.com</li>
+<li class='same'> 14:52 www.reddit.com</li>
+<li class='same'> 14:51 www.reddit.com</li>
+<li> 14:51 bjjfanatics.com</li>
+<li> 14:45 sefton.borrowbox.com</li>
 <li> 14:30 www.sfadb.com</li>
 <li> 14:30 www.google.com</li>
 </ul>
@@ -445,7 +489,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:25 www.lego.com</li>
+<ul><li> 18:39 bjjfanatics.com</li>
+<li> 18:39 <a href="https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbVVkUnA5MldMVFo1a1JDTk1VQmdqSFh2Szdvd3xBQ3Jtc0tubkh1R0tkVGhVVXZVazR2MDlFdnB3Y1dxaEQtbmVXS1VSUjkzZG5ReFh5Z1Y1RTA4WUpscmlfYTdrTkNBLWRoeUFuZ3VpeG1aZElzSEJERUVOdGZ2NXltUkRjZkloSDVFRGdKQ1lEUkJtSWVuRWtzbw&q=https%3A%2F%2Fbjjfanatics.com%2Fproducts%2Fweight-training-for-grappling-by-michael-israetel&html_redirect=1">YouTube</a></li>
+<li> 18:39 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 18:25 www.lego.com</li>
 <li> 18:25 www.theguardian.com</li>
 <li> 18:14 www.facebook.com</li>
 <li class='same'> 18:13 www.facebook.com</li>
@@ -468,8 +515,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:21 www.google.com</li>
-<li> 15:08 tvtropes.org</li>
+<ul><li> 15:53 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li class='same'> 15:46 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li class='same'> 15:26 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:26 <a href="https://joereddington.com/todo.txt">Joe Reddington | Things I make.</a></li>
+<li> 15:26 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 15:26 www.theguardian.com</li>
+<li class='same'> 15:25 www.theguardian.com</li>
+<li class='same'> 15:23 www.theguardian.com</li>
+<li class='same'> 15:21 www.theguardian.com</li>
+<li> 15:21 www.google.com</li>
+<li> 15:14 tvtropes.org</li>
+<li class='same'> 15:09 tvtropes.org</li>
+<li class='same'> 15:08 tvtropes.org</li>
 <li class='same'> 14:53 tvtropes.org</li>
 <li class='same'> 14:50 tvtropes.org</li>
 <li class='same'> 14:49 tvtropes.org</li>
