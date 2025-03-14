@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2514)</li>
+<ol><li>www.google.com (2521)</li>
 <li>outlook.office.com (1886)</li>
 <li>mail.google.com (1746)</li>
 <li>docs.google.com (1521)</li>
 <li>bsky.app (1255)</li>
 <li>outlook.office365.com (1179)</li>
-<li>www.reddit.com (802)</li>
+<li>www.reddit.com (803)</li>
 <li>www.facebook.com (717)</li>
 <li>www.amazon.co.uk (571)</li>
 <li>duckduckgo.com (556)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:05 www.grimdarkmagazine.com</li>
+<ul><li> 14:45 sefton.borrowbox.com</li>
+<li> 14:30 www.sfadb.com</li>
+<li> 14:30 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:52 www.google.com</li>
+<li> 13:52 www.reddit.com</li>
+<li> 13:52 www.google.com</li>
+<li> 13:51 www.edgehill.ac.uk</li>
+<li> 13:51 www.google.com</li>
+<li class='same'> 13:50 www.google.com</li>
+<li class='same'> 13:49 www.google.com</li>
+<li> 13:49 sefton.borrowbox.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:06 sefton.borrowbox.com</li>
+<li class='same'> 11:05 sefton.borrowbox.com</li>
+<li> 11:05 www.google.com</li>
+<li> 11:05 www.grimdarkmagazine.com</li>
 </ul>
 
 <br>
@@ -29085,7 +29107,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 23:41 libbyapp.com</li>
+<ul><li> 23:56 www.edgehill.ac.uk</li>
+<li> 23:41 libbyapp.com</li>
 <li class='same'> 23:37 libbyapp.com</li>
 <li> 23:34 www.reddit.com</li>
 <li> 23:34 www.google.com</li>
