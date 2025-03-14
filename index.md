@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2548)</li>
+<ol><li>www.google.com (2552)</li>
 <li>outlook.office.com (1886)</li>
 <li>mail.google.com (1747)</li>
 <li>docs.google.com (1521)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1179)</li>
 <li>www.reddit.com (814)</li>
 <li>www.facebook.com (717)</li>
-<li>www.amazon.co.uk (571)</li>
+<li>www.amazon.co.uk (573)</li>
 <li>duckduckgo.com (556)</li>
 <li>chatgpt.com (483)</li>
 <li>rhul-my.sharepoint.com (398)</li>
@@ -87,8 +87,8 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (290)</li>
 <li>fritz.box (273)</li>
 <li>login.microsoftonline.com (272)</li>
+<li>www.theguardian.com (212)</li>
 <li>qbo.intuit.com (211)</li>
-<li>www.theguardian.com (208)</li>
 <li>gmail.com (203)</li>
 <li>feedly.com (202)</li>
 <li>www.coursera.org (199)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:26 www.thedailymash.co.uk</li>
+<ul><li> 20:18 www.google.com</li>
+<li> 19:59 www.thedailymash.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:26 www.thedailymash.co.uk</li>
 <li> 19:25 newsthump.com</li>
 <li> 19:25 www.google.com</li>
 <li> 19:25 reductress.com</li>
@@ -143,6 +149,15 @@ With number of accesses/minutes in parentheses
 <li> 16:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:03 chatgpt.com</li>
+<li> 15:42 www.theguardian.com</li>
+<li> 15:42 <a href="https://www.youtube.com/watch?v=9A9ZsNDf5tM&themeRefresh=1">Google AutoDraw Tutorial - A.I. Experiment - YouTube</a></li>
+<li> 15:42 www.google.com</li>
+<li> 15:42 www.amazon.co.uk</li>
+<li> 15:41 www.google.com</li>
+<li> 15:41 clearsky.app</li>
+<li> 15:41 www.google.com</li>
+<li> 15:41 www.amazon.co.uk</li>
+<li> 15:41 fast.com</li>
 <li> 15:38 tvtropes.org</li>
 <li class='same'> 15:36 tvtropes.org</li>
 <li class='same'> 15:33 tvtropes.org</li>
@@ -26877,6 +26892,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:29 mail.google.com</li>
 <li> 06:28 osswa.co.uk</li>
 <li class='same'> 06:15 osswa.co.uk</li>
+<li> 06:09 www.theguardian.com</li>
 </ul>
 
 <H3>Thursday, 24/10/24</H3>
@@ -26887,7 +26903,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li class='same'> 21:30 www.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 19:59 www.google.com</li>
+<li> 19:54 www.theguardian.com</li>
 </ul>
 
 <br>
