@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2552)</li>
 <li>outlook.office.com (1886)</li>
-<li>mail.google.com (1747)</li>
-<li>docs.google.com (1521)</li>
+<li>mail.google.com (1749)</li>
+<li>docs.google.com (1527)</li>
 <li>bsky.app (1255)</li>
 <li>outlook.office365.com (1179)</li>
-<li>www.reddit.com (814)</li>
+<li>www.reddit.com (816)</li>
 <li>www.facebook.com (717)</li>
 <li>www.amazon.co.uk (573)</li>
-<li>duckduckgo.com (556)</li>
-<li>chatgpt.com (483)</li>
+<li>duckduckgo.com (559)</li>
+<li>chatgpt.com (485)</li>
 <li>rhul-my.sharepoint.com (398)</li>
 <li>calendar.google.com (365)</li>
 <li>www.linkedin.com (359)</li>
@@ -89,15 +89,15 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (272)</li>
 <li>www.theguardian.com (212)</li>
 <li>qbo.intuit.com (211)</li>
+<li>feedly.com (203)</li>
 <li>gmail.com (203)</li>
-<li>feedly.com (202)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (197)</li>
 <li>web.whatsapp.com (187)</li>
-<li>chat.openai.com (166)</li>
+<li>chat.openai.com (167)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li>forms.office.com (142)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (134)</li>
+<li>www.tesco.com (134)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,31 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 14/03/25</H3>
+
+<br>
+
+<ul><li> 21:17 <a href="https://en.wikipedia.org/wiki/Andre_Norton_Award">Andre Norton Award - Wikipedia</a></li>
+<li> 21:17 duckduckgo.com</li>
+<li> 21:17 <a href="https://en.wikipedia.org/wiki/Ray_Bradbury_Award">Ray Bradbury Award - Wikipedia</a></li>
+<li> 21:17 duckduckgo.com</li>
+<li> 21:13 www.sfadb.com</li>
+<li> 21:13 duckduckgo.com</li>
+<li> 21:12 docs.google.com</li>
+<li> 21:12 feedly.com</li>
+<li> 21:11 www.reddit.com</li>
+<li class='same'> 21:10 www.reddit.com</li>
+<li> 21:09 docs.google.com</li>
+<li> 21:08 www.tesco.com</li>
+<li> 21:07 docs.google.com</li>
+<li> 21:05 chatgpt.com</li>
+<li> 21:05 docs.google.com</li>
+<li class='same'> 21:04 docs.google.com</li>
+<li> 21:03 chatgpt.com</li>
+<li> 21:03 chat.openai.com</li>
+<li> 21:02 docs.google.com</li>
+<li> 21:02 mail.google.com</li>
+<li class='same'> 21:01 mail.google.com</li>
+</ul>
 
 <br>
 
