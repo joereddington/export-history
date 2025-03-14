@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2532)</li>
+<ol><li>www.google.com (2548)</li>
 <li>outlook.office.com (1886)</li>
-<li>mail.google.com (1746)</li>
+<li>mail.google.com (1747)</li>
 <li>docs.google.com (1521)</li>
 <li>bsky.app (1255)</li>
 <li>outlook.office365.com (1179)</li>
@@ -88,9 +88,9 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (273)</li>
 <li>login.microsoftonline.com (272)</li>
 <li>qbo.intuit.com (211)</li>
-<li>www.theguardian.com (204)</li>
+<li>www.theguardian.com (208)</li>
+<li>gmail.com (203)</li>
 <li>feedly.com (202)</li>
-<li>gmail.com (202)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (197)</li>
 <li>web.whatsapp.com (187)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:09 chatgpt.com</li>
+<ul><li> 19:26 www.thedailymash.co.uk</li>
+<li> 19:25 newsthump.com</li>
+<li> 19:25 www.google.com</li>
+<li> 19:25 reductress.com</li>
+<li class='same'> 19:24 reductress.com</li>
+<li> 19:17 www.theguardian.com</li>
+<li class='same'> 19:14 www.theguardian.com</li>
+<li class='same'> 19:12 www.theguardian.com</li>
+<li class='same'> 19:07 www.theguardian.com</li>
+<li> 19:07 www.giantitp.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:10 www.giantitp.com</li>
+<li> 17:10 www.google.com</li>
+<li> 17:10 www.giantitp.com</li>
+<li> 17:09 www.google.com</li>
+<li> 17:09 accounts.google.com</li>
+<li> 17:09 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:13 mail.google.com</li>
+<li> 16:13 gmail.com</li>
+<li> 16:09 chatgpt.com</li>
 <li class='same'> 16:07 chatgpt.com</li>
 <li class='same'> 16:06 chatgpt.com</li>
 <li class='same'> 16:05 chatgpt.com</li>
@@ -161,6 +187,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:52 www.reddit.com</li>
 <li class='same'> 14:51 www.reddit.com</li>
 <li> 14:51 bjjfanatics.com</li>
+<li> 14:46 www.sfadb.com</li>
+<li> 14:46 www.google.com</li>
 <li> 14:45 sefton.borrowbox.com</li>
 <li> 14:30 www.sfadb.com</li>
 <li> 14:30 www.google.com</li>
@@ -33030,6 +33058,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:57 www.thedailymash.co.uk</li>
+<li> 09:51 www.google.com</li>
 </ul>
 
 <H3>Sunday, 05/05/24</H3>
@@ -33741,6 +33770,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:30 www.royalholloway.ac.uk</li>
 <li> 12:09 docs.google.com</li>
 <li class='same'> 12:07 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:30 www.google.com</li>
 </ul>
 
 <H3>Thursday, 11/04/24</H3>
@@ -36416,6 +36450,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 22:36 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 18:14 www.reddit.com</li>
 </ul>
 
@@ -36490,7 +36529,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 07:42 docs.google.com</li>
+<ul><li> 19:00 www.google.com</li>
+<li class='same'> 18:46 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:42 docs.google.com</li>
 <li> 07:24 <a href="https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html">Saving Keystokes, Baby Advice | Joe Reddington</a></li>
 <li> 06:56 www.reddit.com</li>
 </ul>
@@ -36667,7 +36712,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:10 www.google.com</li>
+<ul><li> 21:58 www.google.com</li>
+<li class='same'> 21:56 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:10 www.google.com</li>
 </ul>
 
 <br>
@@ -37878,6 +37929,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:31 github.com</li>
 </ul>
 
+<br>
+
+<ul><li> 07:02 www.google.com</li>
+</ul>
+
 <H3>Monday, 30/10/23</H3>
 
 <br>
@@ -38082,6 +38138,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 20:04 www.google.com</li>
+</ul>
 
 <br>
 
@@ -39305,6 +39366,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:22 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 20:39 getsupport.apple.com</li>
 <li> 20:28 calendar.google.com</li>
 <li> 20:12 www.homebase.co.uk</li>
@@ -39487,6 +39553,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:16 m.youtube.com</li>
+</ul>
+
+<H3>Friday, 18/08/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 13:30 www.google.com</li>
 </ul>
 
 <H3>Thursday, 17/08/23</H3>
