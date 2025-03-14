@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (717)</li>
 <li>www.amazon.co.uk (571)</li>
 <li>duckduckgo.com (556)</li>
-<li>chatgpt.com (478)</li>
+<li>chatgpt.com (483)</li>
 <li>rhul-my.sharepoint.com (398)</li>
 <li>calendar.google.com (365)</li>
 <li>www.linkedin.com (359)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:38 tvtropes.org</li>
+<ul><li> 16:09 chatgpt.com</li>
+<li class='same'> 16:07 chatgpt.com</li>
+<li class='same'> 16:06 chatgpt.com</li>
+<li class='same'> 16:05 chatgpt.com</li>
+<li> 16:04 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<li> 16:04 <a href="https://joereddington.com/2025/03/11/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 16:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 16:03 chatgpt.com</li>
+<li> 15:38 tvtropes.org</li>
 <li class='same'> 15:36 tvtropes.org</li>
 <li class='same'> 15:33 tvtropes.org</li>
 <li> 15:33 www.google.com</li>
