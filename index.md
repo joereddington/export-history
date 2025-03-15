@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2544)</li>
 <li>outlook.office.com (1886)</li>
-<li>mail.google.com (1749)</li>
+<li>mail.google.com (1751)</li>
 <li>docs.google.com (1527)</li>
-<li>bsky.app (1255)</li>
+<li>bsky.app (1256)</li>
 <li>outlook.office365.com (1178)</li>
 <li>www.reddit.com (816)</li>
-<li>www.facebook.com (717)</li>
-<li>www.amazon.co.uk (575)</li>
-<li>duckduckgo.com (560)</li>
+<li>www.facebook.com (721)</li>
+<li>www.amazon.co.uk (578)</li>
+<li>duckduckgo.com (561)</li>
 <li>chatgpt.com (485)</li>
 <li>rhul-my.sharepoint.com (396)</li>
 <li>calendar.google.com (365)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (212)</li>
 <li>qbo.intuit.com (211)</li>
 <li>feedly.com (204)</li>
-<li>gmail.com (203)</li>
+<li>gmail.com (204)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (197)</li>
 <li>web.whatsapp.com (187)</li>
@@ -104,7 +104,40 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 15/03/25</H3>
+
+<br>
+
+<ul><li> 08:00 www.facebook.com</li>
+<li class='same'> 07:59 www.facebook.com</li>
+<li> 07:58 solar-benefit.co.uk</li>
+<li> 07:58 l.facebook.com</li>
+<li> 07:58 www.facebook.com</li>
+<li class='same'> 07:57 www.facebook.com</li>
+<li> 07:57 bsky.app</li>
+<li> 07:48 kdpreports.amazon.com</li>
+<li> 07:48 kdp.amazon.com</li>
+<li class='same'> 07:47 kdp.amazon.com</li>
+<li class='same'> 07:46 kdp.amazon.com</li>
+<li class='same'> 07:45 kdp.amazon.com</li>
+<li class='same'> 07:44 kdp.amazon.com</li>
+<li> 07:35 mail.google.com</li>
+<li class='same'> 07:34 mail.google.com</li>
+<li> 07:34 gmail.com</li>
+<li> 07:32 cc.amazon.com</li>
+<li> 07:32 kdp.amazon.com</li>
+<li> 07:31 www.myfonts.com</li>
+<li> 07:31 duckduckgo.com</li>
+<li> 07:31 www.amazon.co.uk</li>
+<li class='same'> 07:30 www.amazon.co.uk</li>
+<li class='same'> 07:29 www.amazon.co.uk</li>
+</ul>
+
 <H3>Friday, 14/03/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -26424,8 +26457,11 @@ With number of accesses/minutes in parentheses
 <li> 16:47 docs.google.com</li>
 <li> 16:46 docs.arduino.cc</li>
 <li> 16:36 qbo.intuit.com</li>
-<li class='same'> 16:31 qbo.intuit.com</li>
-<li> 16:25 kdp.amazon.com</li>
+<li> 16:32 kdp.amazon.com</li>
+<li> 16:31 qbo.intuit.com</li>
+<li> 16:30 kdp.amazon.com</li>
+<li class='same'> 16:28 kdp.amazon.com</li>
+<li class='same'> 16:25 kdp.amazon.com</li>
 <li> 16:18 docs.google.com</li>
 <li class='same'> 16:17 docs.google.com</li>
 <li class='same'> 16:16 docs.google.com</li>
@@ -30217,6 +30253,8 @@ With number of accesses/minutes in parentheses
 <li> 14:56 docs.google.com</li>
 <li class='same'> 14:55 docs.google.com</li>
 <li> 14:51 myview.rhul.zellis.com</li>
+<li> 14:27 kdp.amazon.com</li>
+<li class='same'> 14:26 kdp.amazon.com</li>
 <li> 14:25 forum.artofmemory.com</li>
 <li> 14:15 teams.microsoft.com</li>
 <li class='same'> 14:14 teams.microsoft.com</li>
@@ -30232,11 +30270,10 @@ With number of accesses/minutes in parentheses
 <li> 11:48 forum.artofmemory.com</li>
 <li> 11:48 artofmemory.com</li>
 <li> 11:20 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
-</ul>
-
-<br>
-
-<ul><li> 10:36 claude.ai</li>
+<li> 11:15 kdp.amazon.com</li>
+<li class='same'> 11:06 kdp.amazon.com</li>
+<li class='same'> 11:04 kdp.amazon.com</li>
+<li> 10:36 claude.ai</li>
 <li> 10:35 mail.google.com</li>
 <li> 10:34 claude.ai</li>
 <li> 10:27 github.com</li>
@@ -35142,6 +35179,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:27 www.amazon.co.uk</li>
 <li> 15:23 outlook.office.com</li>
 <li class='same'> 14:58 outlook.office.com</li>
+<li> 14:49 kdp.amazon.com</li>
 <li> 14:48 kdpreports.amazon.com</li>
 </ul>
 
@@ -39901,7 +39939,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:13 github.com</li>
+<ul><li> 15:51 kdp.amazon.com</li>
+<li class='same'> 15:50 kdp.amazon.com</li>
+<li class='same'> 15:47 kdp.amazon.com</li>
+<li class='same'> 15:39 kdp.amazon.com</li>
+<li> 15:13 github.com</li>
 <li> 14:53 www.amazon.co.uk</li>
 </ul>
 
@@ -40741,6 +40783,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:48 ubuntu.com</li>
 </ul>
 
+<br>
+
+<ul><li> 12:59 kdp.amazon.com</li>
+<li class='same'> 12:58 kdp.amazon.com</li>
+</ul>
+
 <H3>Wednesday, 07/06/23</H3>
 
 <br>
@@ -40910,6 +40958,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:22 www.pcspecialist.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 12:07 kdp.amazon.com</li>
 </ul>
 
 <br>
@@ -41777,7 +41830,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:44 github.com</li>
+<ul><li> 13:11 kdp.amazon.com</li>
+<li class='same'> 13:10 kdp.amazon.com</li>
+<li> 12:44 github.com</li>
 </ul>
 
 <br>
@@ -41992,6 +42047,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:01 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
+</ul>
+
+<H3>Monday, 09/01/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 15:51 kdp.amazon.com</li>
 </ul>
 
 <H3>Friday, 06/01/23</H3>
