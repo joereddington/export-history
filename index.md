@@ -76,8 +76,8 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1179)</li>
 <li>www.reddit.com (816)</li>
 <li>www.facebook.com (717)</li>
-<li>www.amazon.co.uk (573)</li>
-<li>duckduckgo.com (559)</li>
+<li>www.amazon.co.uk (575)</li>
+<li>duckduckgo.com (560)</li>
 <li>chatgpt.com (485)</li>
 <li>rhul-my.sharepoint.com (398)</li>
 <li>calendar.google.com (365)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (272)</li>
 <li>www.theguardian.com (212)</li>
 <li>qbo.intuit.com (211)</li>
-<li>feedly.com (203)</li>
+<li>feedly.com (204)</li>
 <li>gmail.com (203)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (197)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:17 <a href="https://en.wikipedia.org/wiki/Andre_Norton_Award">Andre Norton Award - Wikipedia</a></li>
+<ul><li> 21:27 www.sfadb.com</li>
+<li> 21:26 www.amazon.co.uk</li>
+<li class='same'> 21:25 www.amazon.co.uk</li>
+<li> 21:25 www.amazon.com</li>
+<li> 21:24 www.sfadb.com</li>
+<li> 21:24 www.worldtimebuddy.com</li>
+<li> 21:24 duckduckgo.com</li>
+<li> 21:24 feedly.com</li>
+<li> 21:23 www.sfadb.com</li>
+<li> 21:17 <a href="https://en.wikipedia.org/wiki/Andre_Norton_Award">Andre Norton Award - Wikipedia</a></li>
 <li> 21:17 duckduckgo.com</li>
 <li> 21:17 <a href="https://en.wikipedia.org/wiki/Ray_Bradbury_Award">Ray Bradbury Award - Wikipedia</a></li>
 <li> 21:17 duckduckgo.com</li>
