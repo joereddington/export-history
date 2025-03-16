@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (339)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (273)</li>
-<li>login.microsoftonline.com (267)</li>
+<li>login.microsoftonline.com (234)</li>
 <li>www.theguardian.com (212)</li>
 <li>qbo.intuit.com (211)</li>
 <li>gmail.com (205)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (188)</li>
 <li>chat.openai.com (167)</li>
 <li>rhul.sharepoint.com (165)</li>
-<li>forms.office.com (140)</li>
+<li>forms.office.com (139)</li>
 <li>www.tesco.com (134)</li>
 
 
@@ -19673,10 +19673,6 @@ With number of accesses/minutes in parentheses
 <li> 11:12 rhul.sharepoint.com</li>
 <li> 11:01 chatgpt.com</li>
 <li> 11:01 chat.openai.com</li>
-<li> 11:00 login.microsoftonline.com</li>
-<li> 11:00 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
-<li> 10:57 login.microsoftonline.com</li>
-<li> 10:57 forms.office.com</li>
 <li> 10:57 rhul-my.sharepoint.com</li>
 <li> 10:57 login.microsoftonline.com</li>
 <li> 10:57 forms.office.com</li>
@@ -19690,13 +19686,11 @@ With number of accesses/minutes in parentheses
 <li> 10:39 login.microsoftonline.com</li>
 <li> 10:39 rhul.hosted.panopto.com</li>
 <li> 10:37 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 10:37 login.microsoftonline.com</li>
 <li> 10:37 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 10:37 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 10:37 adfs.rhul.ac.uk</li>
 <li> 10:36 outlook.office365.com</li>
 <li> 10:36 experience.elluciancloud.ie</li>
-<li> 10:36 mysignins.microsoft.com</li>
 <li> 10:36 account.activedirectory.windowsazure.com</li>
 <li> 10:36 login.microsoftonline.com</li>
 <li> 10:36 account.activedirectory.windowsazure.com</li>
@@ -19802,7 +19796,6 @@ With number of accesses/minutes in parentheses
 <li> 06:52 outlook.office365.com</li>
 <li class='same'> 06:51 outlook.office365.com</li>
 <li> 06:43 bluesky-thread-composer.pages.dev</li>
-<li> 06:39 login.microsoftonline.com</li>
 </ul>
 
 <br>
@@ -19839,7 +19832,6 @@ With number of accesses/minutes in parentheses
 <li> 21:33 outlook.office365.com</li>
 <li class='same'> 21:32 outlook.office365.com</li>
 <li> 21:32 mail.google.com</li>
-<li> 21:32 login.microsoftonline.com</li>
 </ul>
 
 <br>
@@ -19849,7 +19841,6 @@ With number of accesses/minutes in parentheses
 <li> 19:26 www.google.com</li>
 <li> 19:26 us06web.zoom.us</li>
 <li> 19:26 mail.google.com</li>
-<li> 19:26 login.microsoftonline.com</li>
 </ul>
 
 <br>
@@ -19878,19 +19869,15 @@ With number of accesses/minutes in parentheses
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 16:38 theunitysoft.com</li>
 <li> 16:38 mail.google.com</li>
-<li> 16:38 login.microsoftonline.com</li>
 <li> 16:37 outlook.office.com</li>
 <li> 16:21 bsky.app</li>
 <li> 16:20 outlook.office.com</li>
 <li class='same'> 16:19 outlook.office.com</li>
 <li class='same'> 16:16 outlook.office.com</li>
-<li> 16:08 login.microsoftonline.com</li>
 <li> 15:58 chatgpt.com</li>
 <li> 15:57 rhul-my.sharepoint.com</li>
 <li> 15:55 outlook.office.com</li>
 <li> 15:53 0.0.0.0:8000</li>
-<li> 15:52 wallpapers.com</li>
-<li> 15:52 login.microsoftonline.com</li>
 <li> 15:52 wallpapers.com</li>
 <li class='same'> 15:51 wallpapers.com</li>
 <li> 15:51 mfiles.alphacoders.com</li>
@@ -19923,41 +19910,25 @@ With number of accesses/minutes in parentheses
 <li> 12:56 outlook.office365.com</li>
 <li> 12:56 bsky.app</li>
 <li> 12:56 mail.google.com</li>
-<li> 12:56 login.microsoftonline.com</li>
-<li class='same'> 12:41 login.microsoftonline.com</li>
-<li class='same'> 12:23 login.microsoftonline.com</li>
-<li class='same'> 12:20 login.microsoftonline.com</li>
-<li class='same'> 12:18 login.microsoftonline.com</li>
-<li class='same'> 12:15 login.microsoftonline.com</li>
-<li class='same'> 12:13 login.microsoftonline.com</li>
-<li class='same'> 12:10 login.microsoftonline.com</li>
-<li class='same'> 12:08 login.microsoftonline.com</li>
-<li> 12:07 bsky.app</li>
-<li> 12:05 login.microsoftonline.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:07 bsky.app</li>
 <li> 11:58 outlook.office.com</li>
-<li> 11:58 login.microsoftonline.com</li>
 <li> 11:46 0.0.0.0:8000</li>
 <li> 11:45 chatgpt.com</li>
 <li> 11:43 0.0.0.0:8000</li>
 <li> 11:42 adblockplus.org</li>
 <li> 11:39 outlook.office365.com</li>
 <li class='same'> 11:38 outlook.office365.com</li>
-<li> 11:38 login.microsoftonline.com</li>
-<li class='same'> 11:37 login.microsoftonline.com</li>
-<li class='same'> 11:36 login.microsoftonline.com</li>
-<li> 11:35 outlook.office365.com</li>
-<li> 11:35 login.microsoftonline.com</li>
+<li class='same'> 11:35 outlook.office365.com</li>
 <li> 11:35 bsky.app</li>
-<li> 11:32 login.microsoftonline.com</li>
-<li class='same'> 11:29 login.microsoftonline.com</li>
-<li class='same'> 11:26 login.microsoftonline.com</li>
-<li class='same'> 11:23 login.microsoftonline.com</li>
-<li class='same'> 11:20 login.microsoftonline.com</li>
-<li class='same'> 11:17 login.microsoftonline.com</li>
-<li class='same'> 11:14 login.microsoftonline.com</li>
-<li class='same'> 11:12 login.microsoftonline.com</li>
-<li class='same'> 11:10 login.microsoftonline.com</li>
-<li> 10:41 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:41 feedly.com</li>
 <li class='same'> 10:40 feedly.com</li>
 <li> 10:40 bsky.app</li>
 <li class='same'> 10:39 bsky.app</li>
@@ -19969,7 +19940,6 @@ With number of accesses/minutes in parentheses
 <li> 10:34 <a href="https://www.youtube.com/results?search_query=swimm+breaststroke">(80) swimm breaststroke - YouTube</a></li>
 <li> 10:34 <a href="https://www.youtube.com/watch?v=EElzlIMjk_c">(80) How To Swim Breaststroke | Technique For Breaststroke Swimming - YouTube</a></li>
 <li> 10:34 <a href="https://www.youtube.com/results?search_query=swimm+breaststroke">(80) swimm breaststroke - YouTube</a></li>
-<li> 10:33 www.geeksoutfit.com</li>
 <li> 10:31 bsky.app</li>
 <li class='same'> 10:27 bsky.app</li>
 <li> 10:25 www.facebook.com</li>
