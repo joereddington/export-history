@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2552)</li>
 <li>outlook.office.com (1886)</li>
-<li>mail.google.com (1751)</li>
-<li>docs.google.com (1527)</li>
+<li>mail.google.com (1755)</li>
+<li>docs.google.com (1539)</li>
 <li>bsky.app (1256)</li>
 <li>outlook.office365.com (1178)</li>
-<li>www.reddit.com (819)</li>
-<li>www.facebook.com (721)</li>
-<li>www.amazon.co.uk (579)</li>
-<li>duckduckgo.com (561)</li>
+<li>www.reddit.com (821)</li>
+<li>www.facebook.com (724)</li>
+<li>www.amazon.co.uk (582)</li>
+<li>duckduckgo.com (567)</li>
 <li>chatgpt.com (485)</li>
 <li>rhul-my.sharepoint.com (396)</li>
 <li>calendar.google.com (365)</li>
@@ -89,11 +89,11 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (267)</li>
 <li>www.theguardian.com (212)</li>
 <li>qbo.intuit.com (211)</li>
+<li>gmail.com (205)</li>
 <li>feedly.com (204)</li>
-<li>gmail.com (204)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (197)</li>
-<li>web.whatsapp.com (187)</li>
+<li>web.whatsapp.com (188)</li>
 <li>chat.openai.com (167)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li>forms.office.com (140)</li>
@@ -104,7 +104,53 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 16/03/25</H3>
+
+<br>
+
+<ul><li> 07:22 docs.google.com</li>
+<li> 07:22 mail.google.com</li>
+<li> 07:22 www.reddit.com</li>
+<li class='same'> 07:21 www.reddit.com</li>
+<li> 07:20 mail.google.com</li>
+<li class='same'> 07:19 mail.google.com</li>
+<li> 07:19 www.amazon.co.uk</li>
+<li> 07:19 mail.google.com</li>
+<li> 07:19 gmail.com</li>
+<li> 07:19 www.amazon.co.uk</li>
+<li class='same'> 07:18 www.amazon.co.uk</li>
+<li> 07:17 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<li> 07:16 docs.google.com</li>
+<li> 07:14 duckduckgo.com</li>
+<li class='same'> 07:13 duckduckgo.com</li>
+<li> 07:10 docs.google.com</li>
+<li> 07:08 www.thevegangym.com</li>
+<li> 07:08 duckduckgo.com</li>
+<li class='same'> 07:07 duckduckgo.com</li>
+<li> 07:07 docs.google.com</li>
+<li class='same'> 07:06 docs.google.com</li>
+<li class='same'> 07:05 docs.google.com</li>
+<li class='same'> 07:04 docs.google.com</li>
+<li class='same'> 07:03 docs.google.com</li>
+<li class='same'> 07:02 docs.google.com</li>
+<li class='same'> 07:01 docs.google.com</li>
+<li> 07:00 www.ocado.com</li>
+<li> 07:00 duckduckgo.com</li>
+<li class='same'> 06:59 duckduckgo.com</li>
+<li> 06:59 docs.google.com</li>
+<li class='same'> 06:58 docs.google.com</li>
+<li> 06:58 web.whatsapp.com</li>
+<li> 06:55 kdpreports.amazon.com</li>
+<li> 06:54 www.facebook.com</li>
+<li class='same'> 06:53 www.facebook.com</li>
+<li class='same'> 06:52 www.facebook.com</li>
+</ul>
+
 <H3>Saturday, 15/03/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
