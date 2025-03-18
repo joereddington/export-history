@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2555)</li>
+<ol><li>www.google.com (2558)</li>
 <li>outlook.office.com (1903)</li>
 <li>mail.google.com (1774)</li>
 <li>docs.google.com (1550)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (198)</li>
 <li>web.whatsapp.com (194)</li>
-<li>chat.openai.com (170)</li>
+<li>chat.openai.com (171)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (141)</li>
 <li>forms.office.com (136)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:58 calendar.google.com</li>
+<ul><li> 10:11 chat.openai.com</li>
+<li> 10:10 www.thingiverse.com</li>
+<li> 10:10 cdn.thingiverse.com</li>
+<li> 10:10 www.thingiverse.com</li>
+<li class='same'> 10:09 www.thingiverse.com</li>
+<li> 10:09 login.thingiverse.com</li>
+<li> 10:09 www.thingiverse.com</li>
+<li class='same'> 10:08 www.thingiverse.com</li>
+<li class='same'> 10:07 www.thingiverse.com</li>
+<li> 10:07 www.google.com</li>
+<li> 10:07 www.printables.com</li>
+<li class='same'> 10:06 www.printables.com</li>
+<li> 10:06 cults3d.com</li>
+<li class='same'> 10:05 cults3d.com</li>
+<li> 10:05 www.google.com</li>
+<li> 10:01 docs.arduino.cc</li>
+<li> 10:01 www.google.com</li>
+<li> 09:58 calendar.google.com</li>
 <li> 09:36 www.saltogym.org</li>
 <li> 09:24 outlook.office.com</li>
 </ul>
