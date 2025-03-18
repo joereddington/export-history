@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2559)</li>
+<ol><li>www.google.com (2561)</li>
 <li>outlook.office.com (1903)</li>
 <li>mail.google.com (1774)</li>
 <li>docs.google.com (1554)</li>
@@ -80,14 +80,14 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (589)</li>
 <li>chatgpt.com (500)</li>
 <li>rhul-my.sharepoint.com (397)</li>
-<li>calendar.google.com (373)</li>
+<li>calendar.google.com (375)</li>
 <li>www.linkedin.com (359)</li>
 <li>github.com (356)</li>
 <li>moodle.royalholloway.ac.uk (342)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (273)</li>
+<li>www.theguardian.com (233)</li>
 <li>login.microsoftonline.com (233)</li>
-<li>www.theguardian.com (232)</li>
 <li>qbo.intuit.com (211)</li>
 <li>gmail.com (209)</li>
 <li>feedly.com (207)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 18/03/25</H3>
+
+<br>
+
+<ul><li> 12:59 forums.moneysavingexpert.com</li>
+<li class='same'> 12:58 forums.moneysavingexpert.com</li>
+<li> 12:57 www.google.com</li>
+<li> 12:42 www.theguardian.com</li>
+<li> 12:42 www.huffpost.com</li>
+</ul>
 
 <br>
 
@@ -146,6 +155,8 @@ With number of accesses/minutes in parentheses
 <li> 10:01 docs.arduino.cc</li>
 <li> 10:01 www.google.com</li>
 <li> 09:58 calendar.google.com</li>
+<li> 09:36 www.huffpost.com</li>
+<li> 09:36 www.google.com</li>
 <li> 09:36 www.saltogym.org</li>
 <li> 09:33 www.facebook.com</li>
 <li class='same'> 09:31 www.facebook.com</li>
@@ -158,7 +169,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:05 www.theguardian.com</li>
+<ul><li> 08:14 www.bbcgoodfood.com</li>
+<li> 08:05 www.theguardian.com</li>
 <li class='same'> 08:04 www.theguardian.com</li>
 <li class='same'> 08:03 www.theguardian.com</li>
 <li class='same'> 08:02 www.theguardian.com</li>
@@ -31418,7 +31430,8 @@ With number of accesses/minutes in parentheses
 <li> 07:37 calendar.google.com</li>
 <li> 07:29 www.nestpensions.org.uk</li>
 <li class='same'> 07:28 www.nestpensions.org.uk</li>
-<li> 07:18 calendar.google.com</li>
+<li> 07:19 calendar.google.com</li>
+<li class='same'> 07:18 calendar.google.com</li>
 </ul>
 
 <br>
@@ -31522,6 +31535,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:52 www.buzzfeed.com</li>
 <li class='same'> 07:47 www.buzzfeed.com</li>
 <li class='same'> 07:43 www.buzzfeed.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:49 <a href="https://joereddington.com/export-history/slots.png">slots.png (PNG Image, 1200 × 800 pixels)</a></li>
 </ul>
 
 <H3>Thursday, 18/07/24</H3>
@@ -32365,11 +32383,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 12:04 github.com</li>
+<li> 11:35 <a href="https://joereddington.com/export-history/slots.png">slots.png (PNG Image, 1200 × 800 pixels)</a></li>
 </ul>
 
 <br>
 
 <ul><li> 10:24 whitewaterwriters.com</li>
+<li> 10:22 <a href="https://joereddington.com/export-history/slots.png">slots.png (PNG Image, 1200 × 800 pixels)</a></li>
 <li> 09:56 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li class='same'> 09:42 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 09:36 github.com</li>
@@ -38291,7 +38311,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:50 docs.google.com</li>
+<ul><li> 15:53 calendar.google.com</li>
+<li> 15:50 docs.google.com</li>
 <li> 15:23 github.com</li>
 </ul>
 
