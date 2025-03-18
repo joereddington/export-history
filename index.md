@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2568)</li>
 <li>outlook.office.com (1929)</li>
-<li>mail.google.com (1801)</li>
+<li>mail.google.com (1803)</li>
 <li>docs.google.com (1567)</li>
-<li>bsky.app (1270)</li>
+<li>bsky.app (1273)</li>
 <li>outlook.office365.com (1180)</li>
 <li>www.reddit.com (835)</li>
 <li>www.facebook.com (759)</li>
 <li>duckduckgo.com (600)</li>
 <li>www.amazon.co.uk (596)</li>
-<li>chatgpt.com (505)</li>
+<li>chatgpt.com (506)</li>
 <li>rhul-my.sharepoint.com (404)</li>
 <li>calendar.google.com (377)</li>
-<li>www.linkedin.com (365)</li>
+<li>www.linkedin.com (367)</li>
 <li>github.com (356)</li>
 <li>moodle.royalholloway.ac.uk (345)</li>
 <li>tvtropes.org (290)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (198)</li>
 <li>web.whatsapp.com (197)</li>
-<li>chat.openai.com (173)</li>
+<li>chat.openai.com (174)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (141)</li>
 <li>forms.office.com (136)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:58 www.tinkercad.com</li>
+<ul><li> 17:18 chatgpt.com</li>
+<li> 17:18 chat.openai.com</li>
+<li> 16:58 www.tinkercad.com</li>
 <li> 16:58 accounts.autodesk.com</li>
 <li class='same'> 16:57 accounts.autodesk.com</li>
 <li> 16:57 accounts.google.com</li>
@@ -117,7 +119,14 @@ With number of accesses/minutes in parentheses
 <li> 16:57 accounts.autodesk.com</li>
 <li> 16:57 www.tinkercad.com</li>
 <li> 16:46 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 16:33 bsky.app</li>
+<li> 16:39 www.linkedin.com</li>
+<li> 16:39 mail.google.com</li>
+<li> 16:38 www.linkedin.com</li>
+<li> 16:38 mail.google.com</li>
+<li> 16:38 bsky.app</li>
+<li class='same'> 16:37 bsky.app</li>
+<li class='same'> 16:35 bsky.app</li>
+<li class='same'> 16:33 bsky.app</li>
 <li class='same'> 16:32 bsky.app</li>
 <li class='same'> 16:31 bsky.app</li>
 <li class='same'> 16:29 bsky.app</li>
