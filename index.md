@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2558)</li>
+<ol><li>www.google.com (2559)</li>
 <li>outlook.office.com (1903)</li>
 <li>mail.google.com (1774)</li>
 <li>docs.google.com (1550)</li>
@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1180)</li>
 <li>www.reddit.com (835)</li>
 <li>www.facebook.com (746)</li>
-<li>www.amazon.co.uk (592)</li>
+<li>www.amazon.co.uk (594)</li>
 <li>duckduckgo.com (589)</li>
-<li>chatgpt.com (496)</li>
+<li>chatgpt.com (498)</li>
 <li>rhul-my.sharepoint.com (397)</li>
 <li>calendar.google.com (373)</li>
 <li>www.linkedin.com (359)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:11 chat.openai.com</li>
+<ul><li> 10:16 www.amazon.co.uk</li>
+<li class='same'> 10:15 www.amazon.co.uk</li>
+<li> 10:15 sensorkit.arduino.cc</li>
+<li> 10:15 www.google.com</li>
+<li> 10:12 chatgpt.com</li>
+<li class='same'> 10:11 chatgpt.com</li>
+<li> 10:11 chat.openai.com</li>
 <li> 10:10 www.thingiverse.com</li>
 <li> 10:10 cdn.thingiverse.com</li>
 <li> 10:10 www.thingiverse.com</li>
