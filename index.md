@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1263)</li>
 <li>outlook.office365.com (1180)</li>
 <li>www.reddit.com (835)</li>
-<li>www.facebook.com (746)</li>
+<li>www.facebook.com (754)</li>
 <li>www.amazon.co.uk (594)</li>
 <li>duckduckgo.com (589)</li>
 <li>chatgpt.com (498)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (232)</li>
 <li>qbo.intuit.com (211)</li>
 <li>gmail.com (209)</li>
-<li>feedly.com (206)</li>
+<li>feedly.com (207)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (198)</li>
 <li>web.whatsapp.com (194)</li>
@@ -133,6 +133,12 @@ With number of accesses/minutes in parentheses
 <li> 10:01 www.google.com</li>
 <li> 09:58 calendar.google.com</li>
 <li> 09:36 www.saltogym.org</li>
+<li> 09:33 www.facebook.com</li>
+<li class='same'> 09:31 www.facebook.com</li>
+<li class='same'> 09:30 www.facebook.com</li>
+<li class='same'> 09:29 www.facebook.com</li>
+<li class='same'> 09:28 www.facebook.com</li>
+<li> 09:26 feedly.com</li>
 <li> 09:24 outlook.office.com</li>
 </ul>
 
@@ -27918,7 +27924,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:00 www.ebay.co.uk</li>
+<ul><li> 21:04 www.facebook.com</li>
+<li> 21:00 www.ebay.co.uk</li>
 <li> 20:50 cisse.info</li>
 <li> 20:32 www.ebay.co.uk</li>
 <li> 20:22 www.giantitp.com</li>
@@ -31693,6 +31700,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:12 www.facebook.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:29 outlook.office.com</li>
 <li class='same'> 13:28 outlook.office.com</li>
 </ul>
@@ -32466,6 +32478,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 15:47 www.facebook.com</li>
+</ul>
 
 <br>
 
