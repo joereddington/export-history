@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (234)</li>
 <li>login.microsoftonline.com (234)</li>
 <li>qbo.intuit.com (211)</li>
+<li>feedly.com (210)</li>
 <li>gmail.com (210)</li>
-<li>feedly.com (209)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (198)</li>
 <li>web.whatsapp.com (197)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:18 chatgpt.com</li>
+<ul><li> 18:06 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:31 fast.com</li>
+<li> 17:18 chatgpt.com</li>
 <li> 17:18 chat.openai.com</li>
 <li> 16:58 www.tinkercad.com</li>
 <li> 16:58 accounts.autodesk.com</li>
