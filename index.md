@@ -79,18 +79,18 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (595)</li>
 <li>www.amazon.co.uk (594)</li>
 <li>chatgpt.com (504)</li>
-<li>rhul-my.sharepoint.com (402)</li>
+<li>rhul-my.sharepoint.com (404)</li>
 <li>calendar.google.com (375)</li>
 <li>www.linkedin.com (359)</li>
 <li>github.com (356)</li>
 <li>moodle.royalholloway.ac.uk (345)</li>
 <li>tvtropes.org (290)</li>
-<li>fritz.box (275)</li>
+<li>fritz.box (276)</li>
 <li>login.microsoftonline.com (234)</li>
 <li>www.theguardian.com (233)</li>
 <li>qbo.intuit.com (211)</li>
+<li>feedly.com (209)</li>
 <li>gmail.com (209)</li>
-<li>feedly.com (208)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (198)</li>
 <li>web.whatsapp.com (195)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:54 fast.com</li>
+<ul><li> 15:00 192.168.178.1</li>
+<li> 14:59 theonion.com</li>
+<li> 14:58 192.168.178.1</li>
+<li class='same'> 14:57 192.168.178.1</li>
+<li class='same'> 14:56 192.168.178.1</li>
+<li> 14:56 fritz.box</li>
+<li> 14:54 fast.com</li>
+<li> 14:53 feedly.com</li>
+<li> 14:52 rhul-my.sharepoint.com</li>
+<li class='same'> 14:51 rhul-my.sharepoint.com</li>
 <li> 14:37 192.168.178.57</li>
 <li> 14:37 192.168.178.1</li>
 <li class='same'> 14:29 192.168.178.1</li>
