@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:29 192.168.178.1</li>
+<ul><li> 14:54 fast.com</li>
+<li> 14:37 192.168.178.57</li>
+<li> 14:37 192.168.178.1</li>
+<li class='same'> 14:29 192.168.178.1</li>
 <li> 14:27 feedly.com</li>
 <li> 14:27 outlook.office.com</li>
 <li> 14:25 en.fritz.com</li>
