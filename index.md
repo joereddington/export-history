@@ -68,47 +68,284 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2557)</li>
-<li>outlook.office.com (1886)</li>
-<li>mail.google.com (1758)</li>
-<li>docs.google.com (1545)</li>
-<li>bsky.app (1261)</li>
-<li>outlook.office365.com (1178)</li>
-<li>www.reddit.com (826)</li>
-<li>www.facebook.com (737)</li>
-<li>www.amazon.co.uk (582)</li>
-<li>duckduckgo.com (570)</li>
-<li>chatgpt.com (488)</li>
+<ol><li>www.google.com (2554)</li>
+<li>outlook.office.com (1891)</li>
+<li>mail.google.com (1774)</li>
+<li>docs.google.com (1550)</li>
+<li>bsky.app (1263)</li>
+<li>outlook.office365.com (1179)</li>
+<li>www.reddit.com (835)</li>
+<li>www.facebook.com (746)</li>
+<li>www.amazon.co.uk (592)</li>
+<li>duckduckgo.com (589)</li>
+<li>chatgpt.com (496)</li>
 <li>rhul-my.sharepoint.com (396)</li>
-<li>calendar.google.com (368)</li>
+<li>calendar.google.com (370)</li>
 <li>www.linkedin.com (359)</li>
 <li>github.com (355)</li>
 <li>moodle.royalholloway.ac.uk (339)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (273)</li>
-<li>login.microsoftonline.com (234)</li>
-<li>www.theguardian.com (214)</li>
+<li>login.microsoftonline.com (232)</li>
+<li>www.theguardian.com (223)</li>
 <li>qbo.intuit.com (211)</li>
+<li>gmail.com (209)</li>
 <li>feedly.com (206)</li>
-<li>gmail.com (206)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (198)</li>
-<li>web.whatsapp.com (189)</li>
-<li>chat.openai.com (167)</li>
+<li>web.whatsapp.com (193)</li>
+<li>chat.openai.com (170)</li>
 <li>rhul.sharepoint.com (165)</li>
-<li>forms.office.com (139)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (136)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (141)</li>
+<li>forms.office.com (136)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Tuesday, 18/03/25</H3>
+
+<br>
+
+<ul><li> 06:25 calendar.google.com</li>
+<li> 06:25 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 05:48 chatgpt.com</li>
+<li class='same'> 05:47 chatgpt.com</li>
+<li> 05:47 chat.openai.com</li>
+</ul>
+
 <H3>Monday, 17/03/25</H3>
 
 <br>
 
-<ul><li> 07:18 fast.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 18:09 www.reuters.com</li>
+<li> 18:08 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#Customer_Data_Collection">British Airways data breach - Wikipedia</a></li>
+<li> 18:06 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit&section=2">Editing British Airways data breach (section) - Wikipedia</a></li>
+<li> 18:05 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#Discovery">British Airways data breach - Wikipedia</a></li>
+<li> 18:04 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit&section=3">Editing British Airways data breach (section) - Wikipedia</a></li>
+<li> 18:04 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#Customer_Data_Collection">British Airways data breach - Wikipedia</a></li>
+<li> 18:04 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit&section=2">Editing British Airways data breach (section) - Wikipedia</a></li>
+<li> 18:03 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 18:03 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit">Editing British Airways data breach - Wikipedia</a></li>
+<li> 18:03 <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation - Wikipedia</a></li>
+<li> 18:03 duckduckgo.com</li>
+<li> 18:01 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#Attack">British Airways data breach - Wikipedia</a></li>
+<li> 17:57 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit&section=1">Editing British Airways data breach (section) - Wikipedia</a></li>
+<li> 17:56 ico.org.uk</li>
+<li> 17:55 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#Discovery">British Airways data breach - Wikipedia</a></li>
+<li> 17:55 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit&section=3">Editing British Airways data breach (section) - Wikipedia</a></li>
+<li> 17:54 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 17:54 mail.google.com</li>
+<li class='same'> 17:53 mail.google.com</li>
+<li> 17:27 www.amazon.co.uk</li>
+<li> 17:25 www.natesilver.net</li>
+<li class='same'> 17:24 www.natesilver.net</li>
+<li> 17:23 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:35 www.theguardian.com</li>
+<li class='same'> 16:33 www.theguardian.com</li>
+<li class='same'> 16:32 www.theguardian.com</li>
+<li> 16:32 arduino.stackexchange.com</li>
+<li> 16:32 www.theguardian.com</li>
+<li class='same'> 16:31 www.theguardian.com</li>
+<li> 16:31 arduino.stackexchange.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:48 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:10 duckduckgo.com</li>
+<li> 15:10 docs.google.com</li>
+<li class='same'> 15:08 docs.google.com</li>
+<li class='same'> 15:07 docs.google.com</li>
+<li class='same'> 15:05 docs.google.com</li>
+<li> 14:53 chatgpt.com</li>
+<li class='same'> 14:52 chatgpt.com</li>
+<li class='same'> 14:48 chatgpt.com</li>
+<li> 14:48 chat.openai.com</li>
+<li> 14:47 duckduckgo.com</li>
+<li> 14:40 www.facebook.com</li>
+<li> 14:40 mail.google.com</li>
+<li class='same'> 14:39 mail.google.com</li>
+<li> 14:19 www.facebook.com</li>
+<li class='same'> 14:18 www.facebook.com</li>
+<li> 14:16 <a href="https://en.wikipedia.org/wiki/Tomorrow_Never_Dies">Tomorrow Never Dies - Wikipedia</a></li>
+<li> 14:16 duckduckgo.com</li>
+<li> 14:16 <a href="https://en.wikipedia.org/wiki/Austin_Powers">Austin Powers - Wikipedia</a></li>
+<li> 14:16 duckduckgo.com</li>
+<li class='same'> 14:14 duckduckgo.com</li>
+<li> 14:14 www.facebook.com</li>
+<li> 14:13 web.whatsapp.com</li>
+<li> 14:11 duckduckgo.com</li>
+<li> 14:06 www.facebook.com</li>
+<li class='same'> 14:05 www.facebook.com</li>
+<li> 14:05 web.whatsapp.com</li>
+<li> 14:05 www.facebook.com</li>
+<li> 14:05 mail.google.com</li>
+<li> 14:03 calendar.google.com</li>
+<li> 14:03 mail.google.com</li>
+<li class='same'> 14:02 mail.google.com</li>
+<li> 14:02 gmail.com</li>
+<li> 13:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:35 www.reddit.com</li>
+<li> 13:35 www.google.com</li>
+<li> 13:34 www.reddit.com</li>
+<li> 13:34 www.google.com</li>
+<li> 13:34 jonthysell.com</li>
+<li> 13:28 www.theguardian.com</li>
+<li> 13:26 www.facebook.com</li>
+<li> 13:26 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 13:26 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 13:26 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 13:25 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&oldid=1259966591">British Airways data breach - Wikipedia</a></li>
+<li> 13:25 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 13:25 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 13:24 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit">Editing British Airways data breach - Wikipedia</a></li>
+<li> 13:24 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 13:23 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit">Editing British Airways data breach - Wikipedia</a></li>
+<li> 13:23 <a href="https://en.wikipedia.org/wiki/Card_security_code">Card security code - Wikipedia</a></li>
+<li> 13:23 duckduckgo.com</li>
+<li class='same'> 13:22 duckduckgo.com</li>
+<li> 13:22 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 13:19 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Abbreviations">Wikipedia:Manual of Style/Abbreviations - Wikipedia</a></li>
+<li> 13:19 duckduckgo.com</li>
+<li> 13:19 <a href="https://en.wikipedia.org/wiki/Acronym">Acronym - Wikipedia</a></li>
+<li> 13:19 duckduckgo.com</li>
+<li> 13:18 <a href="https://en.wikipedia.org/wiki/British_Airways">British Airways - Wikipedia</a></li>
+<li> 13:18 duckduckgo.com</li>
+<li> 13:15 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 13:15 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 13:14 <a href="https://en.wikipedia.org/w/index.php?title=General_Data_Protection_Regulation&action=edit&section=21">Editing General Data Protection Regulation (section) - Wikipedia</a></li>
+<li> 13:13 <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation - Wikipedia</a></li>
+<li> 13:13 duckduckgo.com</li>
+<li> 13:13 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit">Editing British Airways data breach - Wikipedia</a></li>
+<li> 13:13 <a href="https://en.wikipedia.org/wiki/Geography_of_Ireland">Geography of Ireland - Wikipedia</a></li>
+<li> 13:13 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:12 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lead_section">Wikipedia:Manual of Style/Lead section - Wikipedia</a></li>
+<li> 13:12 <a href="https://en.wikipedia.org/wiki/Lead_paragraph">Lead paragraph - Wikipedia</a></li>
+<li> 13:12 duckduckgo.com</li>
+<li> 13:12 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 13:12 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 13:12 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 13:12 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&oldid=1214763715">British Airways data breach - Wikipedia</a></li>
+<li> 13:11 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 13:11 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 13:10 <a href="https://en.wikipedia.org/wiki/Talk:2022_Optus_data_breach">Talk:2022 Optus data breach - Wikipedia</a></li>
+<li> 13:10 <a href="https://en.wikipedia.org/wiki/2022_Optus_data_breach">2022 Optus data breach - Wikipedia</a></li>
+<li> 13:10 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 13:10 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 13:10 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 13:09 rateyourmusic.com</li>
+<li class='same'> 13:08 rateyourmusic.com</li>
+<li> 13:07 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 13:07 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:07 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:07 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:07 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:07 mail.google.com</li>
+<li class='same'> 13:06 mail.google.com</li>
+<li class='same'> 13:05 mail.google.com</li>
+<li> 13:05 web.whatsapp.com</li>
+<li> 13:05 mail.google.com</li>
+<li class='same'> 13:04 mail.google.com</li>
+<li class='same'> 13:03 mail.google.com</li>
+<li> 13:03 gmail.com</li>
+<li> 13:03 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:02 www.reddit.com</li>
+<li class='same'> 13:01 www.reddit.com</li>
+<li class='same'> 13:00 www.reddit.com</li>
+<li class='same'> 12:59 www.reddit.com</li>
+<li> 12:59 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:59 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
+<li> 12:59 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 12:59 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:41 <a href="https://en.wikipedia.org/wiki/Norah_Jones">Norah Jones - Wikipedia</a></li>
+<li> 12:38 web.whatsapp.com</li>
+<li> 12:36 <a href="https://en.wikipedia.org/wiki/List_of_best-selling_albums">List of best-selling albums - Wikipedia</a></li>
+<li> 12:36 duckduckgo.com</li>
+<li class='same'> 12:35 duckduckgo.com</li>
+<li> 12:35 mail.google.com</li>
+<li class='same'> 12:32 mail.google.com</li>
+<li class='same'> 12:31 mail.google.com</li>
+<li> 12:31 gmail.com</li>
+<li> 12:27 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:24 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 12:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:15 chatgpt.com</li>
+<li> 12:15 chat.openai.com</li>
+<li> 12:15 www.reddit.com</li>
+<li class='same'> 12:14 www.reddit.com</li>
+<li class='same'> 12:07 www.reddit.com</li>
+<li> 12:06 docs.google.com</li>
+<li> 11:55 bsky.app</li>
+<li class='same'> 11:53 bsky.app</li>
+<li> 11:52 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:50 www.etymonline.com</li>
+<li> 11:49 english.stackexchange.com</li>
+<li> 11:48 duckduckgo.com</li>
+<li> 11:48 www.etymonline.com</li>
+<li class='same'> 11:47 www.etymonline.com</li>
+<li class='same'> 11:46 www.etymonline.com</li>
+<li class='same'> 11:45 www.etymonline.com</li>
+<li> 11:45 duckduckgo.com</li>
+<li> 11:40 www.amazon.co.uk</li>
+<li class='same'> 11:39 www.amazon.co.uk</li>
+<li> 11:38 www.ebay.co.uk</li>
+<li class='same'> 11:37 www.ebay.co.uk</li>
+<li class='same'> 11:36 www.ebay.co.uk</li>
+<li> 11:36 www.amazon.co.uk</li>
+<li class='same'> 11:35 www.amazon.co.uk</li>
+<li> 11:33 chatgpt.com</li>
+<li> 11:32 www.amazon.co.uk</li>
+<li> 11:28 chatgpt.com</li>
+<li> 11:26 www.amazon.co.uk</li>
+<li class='same'> 11:25 www.amazon.co.uk</li>
+<li> 11:24 www.tinkercad.com</li>
+<li> 11:24 accounts.autodesk.com</li>
+<li> 11:24 accounts.google.com</li>
+<li> 11:24 accounts.autodesk.com</li>
+<li> 11:24 www.tinkercad.com</li>
+<li> 11:24 www.etechnophiles.com</li>
+<li> 11:24 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:28 www.theguardian.com</li>
+<li class='same'> 10:27 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:53 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:39 outlook.office.com</li>
+<li class='same'> 07:38 outlook.office.com</li>
+<li class='same'> 07:37 outlook.office.com</li>
+<li> 07:37 myaccount.microsoft.com</li>
+<li> 07:37 login.microsoftonline.com</li>
+<li> 07:37 myaccount.microsoft.com</li>
+<li> 07:37 outlook.office.com</li>
+<li class='same'> 07:36 outlook.office.com</li>
+<li> 07:36 login.microsoftonline.com</li>
+<li> 07:36 outlook.office365.com</li>
+<li> 07:18 fast.com</li>
 <li> 07:17 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 07:17 calendar.google.com</li>
 <li> 07:00 www.thingiverse.com</li>
@@ -145,7 +382,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:46 www.facebook.com</li>
+<ul><li> 20:00 arduino.stackexchange.com</li>
+<li> 20:00 www.google.com</li>
+<li> 20:00 forum.arduino.cc</li>
+<li class='same'> 19:59 forum.arduino.cc</li>
+<li> 19:59 www.google.com</li>
+<li> 19:46 www.facebook.com</li>
 <li class='same'> 19:45 www.facebook.com</li>
 <li> 19:45 feedly.com</li>
 <li> 19:44 calendar.google.com</li>
@@ -2906,7 +3148,7 @@ With number of accesses/minutes in parentheses
 <li> 06:49 <a href="https://en.wikipedia.org/wiki/Special:CentralLogin/complete?token=5bc5034cbec564ebc944f3a5cab6abb4&usesul3=0"></a></li>
 <li> 06:49 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
 <li> 06:49 login.wikimedia.org</li>
-<li> 06:49 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page"></a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 <li> 06:49 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogout&returnto=Main+Page">Log out - Wikipedia</a></li>
 <li> 06:49 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 06:49 <a href="https://en.wikipedia.org/"></a></li>
@@ -3217,7 +3459,7 @@ With number of accesses/minutes in parentheses
 <li> 10:51 login.wikimedia.org</li>
 <li> 10:50 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
 <li> 10:50 login.wikimedia.org</li>
-<li> 10:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page"></a></li>
+<li> 10:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 <li> 10:50 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 10:50 <a href="https://en.wikipedia.org/"></a></li>
 <li> 10:50 www.wikipedia.org</li>
@@ -18742,7 +18984,6 @@ With number of accesses/minutes in parentheses
 <li> 12:55 www.cheftjburch.com</li>
 <li> 12:55 www.google.com</li>
 <li class='same'> 12:54 www.google.com</li>
-<li class='same'> 12:52 www.google.com</li>
 <li> 12:51 www.patriciascuisine.co.uk</li>
 <li> 12:51 www.google.com</li>
 <li> 12:50 yhangry.com</li>
@@ -18820,8 +19061,7 @@ With number of accesses/minutes in parentheses
 <li> 09:12 firebase.google.com</li>
 <li> 09:11 developers.google.com</li>
 <li> 09:11 developer.apple.com</li>
-<li> 09:11 www.google.com</li>
-<li class='same'> 09:10 www.google.com</li>
+<li> 09:10 www.google.com</li>
 <li> 09:04 chatgpt.com</li>
 </ul>
 
@@ -18889,7 +19129,6 @@ With number of accesses/minutes in parentheses
 <li> 17:29 login.openathens.net</li>
 <li> 17:29 bristoluniversitypressdigital.com</li>
 <li class='same'> 17:28 bristoluniversitypressdigital.com</li>
-<li> 17:28 login.openathens.net</li>
 <li> 17:28 login.microsoftonline.com</li>
 <li> 17:28 bristoluniversitypressdigital.com</li>
 <li> 17:28 scholar.google.com</li>
@@ -18897,7 +19136,6 @@ With number of accesses/minutes in parentheses
 <li> 17:28 researchportal.plymouth.ac.uk</li>
 <li class='same'> 17:27 researchportal.plymouth.ac.uk</li>
 <li> 17:27 www.plymouth.ac.uk</li>
-<li> 17:27 www.google.com</li>
 <li> 17:27 www.futureplymouth2030.co.uk</li>
 <li> 17:27 www.google.com</li>
 <li> 17:27 <a href="https://www.youtube.com/watch?v=AjG6_vmBQ5k">Professor Jon Shaw & Dr Andrew Seedhouse - REF Impact Case Study - YouTube</a></li>
@@ -18915,8 +19153,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:07 docs.google.com</li>
 <li class='same'> 17:05 docs.google.com</li>
 <li> 16:54 www.quora.com</li>
-<li> 16:54 www.google.com</li>
-<li class='same'> 16:53 www.google.com</li>
+<li> 16:53 www.google.com</li>
 <li> 16:46 docs.google.com</li>
 <li class='same'> 16:45 docs.google.com</li>
 <li> 16:42 outlook.office365.com</li>
@@ -19029,7 +19266,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:08 chatgpt.com</li>
 <li> 12:01 finance.yahoo.com</li>
 <li> 12:01 news.google.com</li>
-<li> 12:01 www.google.com</li>
 <li> 11:58 script.google.com</li>
 <li> 11:58 accounts.google.com</li>
 <li> 11:57 script.google.com</li>
@@ -19064,8 +19300,7 @@ With number of accesses/minutes in parentheses
 <li> 10:55 mail.google.com</li>
 <li> 10:52 bsky.app</li>
 <li> 10:48 <a href="https://en.wikipedia.org/wiki/Re-education">Re-education - Wikipedia</a></li>
-<li> 10:48 www.google.com</li>
-<li class='same'> 10:47 www.google.com</li>
+<li> 10:47 www.google.com</li>
 <li> 10:34 outlook.office365.com</li>
 <li> 10:33 app.podseeker.co</li>
 <li class='same'> 10:30 app.podseeker.co</li>
@@ -19082,7 +19317,6 @@ With number of accesses/minutes in parentheses
 <li> 09:57 srn.org.uk</li>
 <li> 09:57 www.google.com</li>
 <li> 09:56 commonslibrary.parliament.uk</li>
-<li> 09:56 www.google.com</li>
 <li> 09:56 www.mobileuk.org</li>
 <li> 09:56 www.google.com</li>
 <li> 09:55 docs.google.com</li>
@@ -19218,11 +19452,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:37 ev.turnitinuk.com</li>
 <li> 19:35 rhul-my.sharepoint.com</li>
 <li class='same'> 19:34 rhul-my.sharepoint.com</li>
-<li> 19:34 forms.office.com</li>
 <li> 19:31 chatgpt.com</li>
 <li> 19:28 www.google.com</li>
-<li> 19:26 login.microsoftonline.com</li>
-<li> 19:26 forms.office.com</li>
 <li> 19:21 rhul-my.sharepoint.com</li>
 <li> 19:21 dashboards.rhul.ac.uk</li>
 <li> 19:20 ev.turnitinuk.com</li>
@@ -19255,7 +19486,6 @@ With number of accesses/minutes in parentheses
 <li> 18:54 mail.google.com</li>
 <li> 18:49 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 18:49 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 18:48 login.microsoftonline.com</li>
 <li> 18:48 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 18:48 experience.elluciancloud.ie</li>
 <li> 18:48 login.microsoftonline.com</li>
@@ -19263,10 +19493,6 @@ With number of accesses/minutes in parentheses
 <li> 18:42 forms.office.com</li>
 <li> 18:42 login.microsoftonline.com</li>
 <li> 18:42 forms.office.com</li>
-<li> 18:41 login.microsoftonline.com</li>
-<li> 18:41 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
-<li> 18:25 forms.office.com</li>
-<li> 18:25 login.microsoftonline.com</li>
 <li> 18:25 rhul-my.sharepoint.com</li>
 <li> 18:21 github.com</li>
 <li class='same'> 18:20 github.com</li>
@@ -19310,7 +19536,6 @@ With number of accesses/minutes in parentheses
 <li> 16:35 outlook.office365.com</li>
 <li> 16:29 ev.turnitinuk.com</li>
 <li> 16:25 bsky.app</li>
-<li> 16:25 www.google.com</li>
 <li> 16:25 intranet.royalholloway.ac.uk</li>
 <li> 16:25 www.linkedin.com</li>
 <li> 16:25 uk.linkedin.com</li>
@@ -19536,7 +19761,6 @@ With number of accesses/minutes in parentheses
 <li> 11:28 mail.google.com</li>
 <li> 11:25 outlook.office365.com</li>
 <li> 11:22 tabloid.vercel.app</li>
-<li> 11:22 l.facebook.com</li>
 <li> 11:21 ixwater.com</li>
 <li> 11:20 www.almonds.com</li>
 <li> 11:19 www.reddit.com</li>
@@ -19673,7 +19897,6 @@ With number of accesses/minutes in parentheses
 <li> 16:45 outlook.office365.com</li>
 <li class='same'> 16:41 outlook.office365.com</li>
 <li class='same'> 16:40 outlook.office365.com</li>
-<li> 16:31 www.google.com</li>
 <li> 16:29 calendar.google.com</li>
 <li> 16:28 outlook.office365.com</li>
 <li> 16:27 discord.com</li>
@@ -27208,6 +27431,7 @@ With number of accesses/minutes in parentheses
 <li> 21:15 www.reddit.com</li>
 <li> 20:46 forms.office.com</li>
 <li class='same'> 20:45 forms.office.com</li>
+<li> 20:41 www.natesilver.net</li>
 <li> 20:31 generalssb-prod.ec.royalholloway.ac.uk</li>
 </ul>
 
@@ -27462,6 +27686,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:51 www.google.com</li>
 <li> 16:30 www.reddit.com</li>
 <li class='same'> 16:29 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:00 www.natesilver.net</li>
 </ul>
 
 <H3>Friday, 18/10/24</H3>
@@ -27911,6 +28140,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 07:15 rhul-my.sharepoint.com</li>
 <li> 07:06 www.reddit.com</li>
 <li> 06:58 <a href="https://xkcd.com/simplewriter/"></a></li>
+<li> 06:54 www.natesilver.net</li>
 <li> 06:50 outlook.office365.com</li>
 </ul>
 
@@ -27956,6 +28186,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:54 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 <li> 06:41 www.reddit.com</li>
 <li> 06:40 www.amazon.co.uk</li>
 <li class='same'> 06:37 www.amazon.co.uk</li>
@@ -28129,6 +28360,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 01:42 www.google.com</li>
+<li> 01:38 www.natesilver.net</li>
 </ul>
 
 <H3>Wednesday, 09/10/24</H3>
@@ -28296,6 +28528,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:21 getpocket.com</li>
+<li> 16:10 www.natesilver.net</li>
+<li class='same'> 16:09 www.natesilver.net</li>
 </ul>
 
 <H3>Saturday, 05/10/24</H3>
@@ -28425,6 +28659,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:04 docs.google.com</li>
 <li> 06:56 www.goodreads.com</li>
 <li class='same'> 06:55 www.goodreads.com</li>
+<li> 06:54 www.natesilver.net</li>
 <li> 06:31 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 06:18 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
 <li> 06:17 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
@@ -28456,6 +28691,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:09 docs.google.com</li>
 <li> 16:03 apply.unity.co.uk</li>
 <li> 16:02 online.unity.co.uk</li>
+<li> 16:02 www.natesilver.net</li>
 <li> 16:01 www.unity-online.co.uk</li>
 <li> 16:01 apply.unity.co.uk</li>
 <li class='same'> 16:00 apply.unity.co.uk</li>
@@ -28664,6 +28900,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:04 www.google.com</li>
+<li> 17:04 www.natesilver.net</li>
 <li> 16:57 qbo.intuit.com</li>
 <li> 16:57 c14.qbo.intuit.com</li>
 <li> 16:57 www.unity-online.co.uk</li>
@@ -28735,6 +28972,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:30 www.natesilver.net</li>
+<li class='same'> 21:25 www.natesilver.net</li>
+</ul>
 
 <br>
 
@@ -28829,6 +29072,7 @@ With number of accesses/minutes in parentheses
 <li> 09:38 kdp.amazon.com</li>
 <li> 09:16 rhul-my.sharepoint.com</li>
 <li class='same'> 09:11 rhul-my.sharepoint.com</li>
+<li> 09:01 www.natesilver.net</li>
 </ul>
 
 <br>
@@ -28945,6 +29189,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:11 www.google.com</li>
+<li> 15:11 www.natesilver.net</li>
 <li> 15:06 outlook.office.com</li>
 <li> 15:04 moodle.royalholloway.ac.uk</li>
 <li class='same'> 15:03 moodle.royalholloway.ac.uk</li>
@@ -29005,7 +29250,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:25 www.linkedin.com</li>
+<ul><li> 06:28 www.natesilver.net</li>
+<li> 06:25 www.linkedin.com</li>
 </ul>
 
 <br>
@@ -31566,6 +31812,7 @@ With number of accesses/minutes in parentheses
 <li> 14:36 www.paypal.com</li>
 <li class='same'> 14:29 www.paypal.com</li>
 <li class='same'> 14:21 www.paypal.com</li>
+<li> 14:21 www.amazon.co.uk</li>
 <li> 14:16 www.natwest.com</li>
 <li> 14:09 www.onlinebanking.natwest.com</li>
 <li> 14:05 www.natwest.com</li>
@@ -32823,6 +33070,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:11 theopenvoicefactory.org</li>
 <li> 07:09 docs.google.com</li>
 <li> 07:09 equalitytime.github.io</li>
+<li> 07:04 <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -33457,11 +33705,13 @@ With number of accesses/minutes in parentheses
 <li> 21:43 www.google.com</li>
 <li> 21:41 <a href="https://en.wikipedia.org/wiki/EasyJet_data_breach">EasyJet data breach - Wikipedia</a></li>
 <li> 21:41 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit&section=4">Editing British Airways data breach - Wikipedia</a></li>
+<li> 21:41 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit&section=3">Editing British Airways data breach (section) - Wikipedia</a></li>
 <li> 21:40 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
 <li> 21:39 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
 <li> 21:39 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach?venotify=saved">British Airways data breach - Wikipedia</a></li>
 <li> 21:39 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit">Editing British Airways data breach - Wikipedia</a></li>
 <li> 21:36 www.reuters.com</li>
+<li> 21:22 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit&section=1">Editing British Airways data breach (section) - Wikipedia</a></li>
 <li> 21:19 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
 <li> 21:19 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
 <li> 21:18 ico.org.uk</li>
@@ -33513,7 +33763,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 07:53 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 <li class='same'> 07:32 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
+<li> 07:30 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 <li> 07:30 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 07:30 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 </ul>
 
 <H3>Monday, 29/04/24</H3>
@@ -33546,7 +33798,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 03:27 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<ul><li> 03:28 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
+<li> 03:27 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 03:27 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
+<li> 03:27 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
 </ul>
 
 <H3>Saturday, 27/04/24</H3>
@@ -33635,6 +33890,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:07 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 </ul>
 
+<br>
+
+<ul><li> 06:11 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
+</ul>
+
 <H3>Thursday, 25/04/24</H3>
 
 <br>
@@ -33657,6 +33917,8 @@ With number of accesses/minutes in parentheses
 <li> 21:54 www.camerajungle.co.uk</li>
 <li class='same'> 21:46 www.camerajungle.co.uk</li>
 <li> 21:31 www.amazon.co.uk</li>
+<li> 21:24 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 21:24 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 <li> 21:24 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
 </ul>
 
@@ -34229,7 +34491,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:36 <a href="https://en.wikipedia.org/wiki/Bluey_(2018_TV_series)">Bluey (2018 TV series) - Wikipedia</a></li>
+<li> 20:34 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 <li> 20:34 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 20:34 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 </ul>
 
 <H3>Thursday, 04/04/24</H3>
@@ -34298,6 +34562,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:33 www.amazon.co.uk</li>
 <li class='same'> 07:28 www.amazon.co.uk</li>
 <li class='same'> 07:27 www.amazon.co.uk</li>
+<li class='same'> 07:24 www.amazon.co.uk</li>
 <li class='same'> 07:20 www.amazon.co.uk</li>
 <li class='same'> 07:15 www.amazon.co.uk</li>
 <li> 07:15 www.goodreads.com</li>
@@ -34392,6 +34657,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:33 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
+</ul>
+
+<br>
+
 <ul><li> 18:43 gitlab.cim.rhul.ac.uk</li>
 </ul>
 
@@ -34417,6 +34687,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 12:36 outlook.office.com</li>
 <li> 12:30 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
+<li> 12:27 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 <li> 12:27 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
 <li> 12:08 outlook.office.com</li>
 <li> 11:51 www.facebook.com</li>
@@ -34482,6 +34753,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:50 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 14:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 <li> 14:46 www.facebook.com</li>
 <li class='same'> 14:45 www.facebook.com</li>
 <li> 14:15 outlook.office.com</li>
@@ -34496,6 +34768,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:01 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 11:01 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 <li> 10:55 myview.rhul.zellis.com</li>
 </ul>
 
@@ -34639,6 +34912,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:32 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 15:32 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -35264,6 +35538,7 @@ With number of accesses/minutes in parentheses
 <li> 12:08 kk.org</li>
 <li> 11:53 ico.org.uk</li>
 <li> 11:45 moodle.royalholloway.ac.uk</li>
+<li> 11:28 <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -36210,6 +36485,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:27 www.buzzfeed.com</li>
 <li class='same'> 17:23 www.buzzfeed.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:52 <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -38395,7 +38675,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:21 analytics.google.com</li>
+<ul><li> 10:31 www.facebook.com</li>
+<li> 10:21 analytics.google.com</li>
 <li class='same'> 10:20 analytics.google.com</li>
 </ul>
 
@@ -39673,6 +39954,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:59 www.linkedin.com</li>
+<li> 08:48 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 </ul>
 
 <H3>Thursday, 24/08/23</H3>
@@ -39685,6 +39967,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:47 www.giantitp.com</li>
 <li> 18:47 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -39950,7 +40237,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:00 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style">Wikipedia:Manual of Style - Wikipedia</a></li>
+<ul><li> 12:00 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Abbreviations">Wikipedia:Manual of Style/Abbreviations - Wikipedia</a></li>
+<li> 12:00 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style">Wikipedia:Manual of Style - Wikipedia</a></li>
 </ul>
 
 <H3>Sunday, 30/07/23</H3>
