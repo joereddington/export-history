@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (290)</li>
 <li>fritz.box (273)</li>
 <li>login.microsoftonline.com (233)</li>
-<li>www.theguardian.com (227)</li>
+<li>www.theguardian.com (232)</li>
 <li>qbo.intuit.com (211)</li>
 <li>gmail.com (209)</li>
 <li>feedly.com (206)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:00 www.google.com</li>
+<ul><li> 08:05 www.theguardian.com</li>
+<li class='same'> 08:04 www.theguardian.com</li>
+<li class='same'> 08:03 www.theguardian.com</li>
+<li class='same'> 08:02 www.theguardian.com</li>
+<li class='same'> 08:01 www.theguardian.com</li>
+<li> 08:01 spongebob.fandom.com</li>
+<li> 08:00 www.google.com</li>
 </ul>
 
 <br>
