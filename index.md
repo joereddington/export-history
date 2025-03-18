@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2568)</li>
+<ol><li>www.google.com (2570)</li>
 <li>outlook.office.com (1929)</li>
 <li>mail.google.com (1803)</li>
-<li>docs.google.com (1567)</li>
+<li>docs.google.com (1569)</li>
 <li>bsky.app (1273)</li>
 <li>outlook.office365.com (1180)</li>
-<li>www.reddit.com (835)</li>
+<li>www.reddit.com (836)</li>
 <li>www.facebook.com (759)</li>
 <li>duckduckgo.com (600)</li>
 <li>www.amazon.co.uk (596)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (345)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (276)</li>
-<li>www.theguardian.com (234)</li>
+<li>www.theguardian.com (235)</li>
 <li>login.microsoftonline.com (234)</li>
 <li>qbo.intuit.com (211)</li>
 <li>feedly.com (210)</li>
@@ -108,12 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:06 feedly.com</li>
+<ul><li> 19:22 www.reddit.com</li>
+<li> 19:22 docs.google.com</li>
+<li class='same'> 19:21 docs.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 17:31 fast.com</li>
+<ul><li> 18:46 en.m.wiktionary.org</li>
+</ul>
+
+<br>
+
+<ul><li> 18:06 feedly.com</li>
+<li> 17:52 en.m.wiktionary.org</li>
+<li class='same'> 17:51 en.m.wiktionary.org</li>
+<li> 17:51 www.google.com</li>
+<li> 17:51 www.moneysavingexpert.com</li>
+<li> 17:31 fast.com</li>
 <li> 17:18 chatgpt.com</li>
 <li> 17:18 chat.openai.com</li>
 <li> 16:58 www.tinkercad.com</li>
@@ -330,7 +342,11 @@ With number of accesses/minutes in parentheses
 <li> 12:59 forums.moneysavingexpert.com</li>
 <li class='same'> 12:58 forums.moneysavingexpert.com</li>
 <li> 12:57 www.google.com</li>
-<li> 12:42 www.theguardian.com</li>
+<li> 12:49 www.moneysavingexpert.com</li>
+<li class='same'> 12:46 www.moneysavingexpert.com</li>
+<li> 12:46 www.google.com</li>
+<li> 12:43 www.theguardian.com</li>
+<li class='same'> 12:42 www.theguardian.com</li>
 <li> 12:42 www.huffpost.com</li>
 </ul>
 
