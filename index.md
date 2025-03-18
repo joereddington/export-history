@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (754)</li>
 <li>www.amazon.co.uk (594)</li>
 <li>duckduckgo.com (589)</li>
-<li>chatgpt.com (498)</li>
+<li>chatgpt.com (500)</li>
 <li>rhul-my.sharepoint.com (397)</li>
 <li>calendar.google.com (373)</li>
 <li>www.linkedin.com (359)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (198)</li>
 <li>web.whatsapp.com (194)</li>
-<li>chat.openai.com (171)</li>
+<li>chat.openai.com (172)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (141)</li>
 <li>forms.office.com (136)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:22 <a href="https://joereddington.com/export-history/slots.png">slots.png (PNG Image, 1200 × 800 pixels)</a></li>
+<ul><li> 11:27 chatgpt.com</li>
+<li class='same'> 11:26 chatgpt.com</li>
+<li> 11:26 chat.openai.com</li>
+<li> 11:22 <a href="https://joereddington.com/export-history/slots.png">slots.png (PNG Image, 1200 × 800 pixels)</a></li>
 <li> 11:22 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 11:21 github.com</li>
 <li> 11:21 docs.google.com</li>
