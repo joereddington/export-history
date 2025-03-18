@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2561)</li>
-<li>outlook.office.com (1927)</li>
+<li>outlook.office.com (1928)</li>
 <li>mail.google.com (1774)</li>
 <li>docs.google.com (1554)</li>
 <li>bsky.app (1263)</li>
 <li>outlook.office365.com (1180)</li>
 <li>www.reddit.com (835)</li>
 <li>www.facebook.com (754)</li>
+<li>duckduckgo.com (595)</li>
 <li>www.amazon.co.uk (594)</li>
-<li>duckduckgo.com (592)</li>
-<li>chatgpt.com (501)</li>
+<li>chatgpt.com (504)</li>
 <li>rhul-my.sharepoint.com (402)</li>
 <li>calendar.google.com (375)</li>
 <li>www.linkedin.com (359)</li>
 <li>github.com (356)</li>
 <li>moodle.royalholloway.ac.uk (345)</li>
 <li>tvtropes.org (290)</li>
-<li>fritz.box (273)</li>
+<li>fritz.box (275)</li>
 <li>login.microsoftonline.com (234)</li>
 <li>www.theguardian.com (233)</li>
 <li>qbo.intuit.com (211)</li>
 <li>gmail.com (209)</li>
-<li>feedly.com (207)</li>
+<li>feedly.com (208)</li>
 <li>www.coursera.org (199)</li>
 <li>drive.google.com (198)</li>
 <li>web.whatsapp.com (195)</li>
@@ -108,10 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:25 192.168.178.1</li>
+<ul><li> 14:29 192.168.178.1</li>
+<li> 14:27 feedly.com</li>
+<li> 14:27 outlook.office.com</li>
+<li> 14:25 en.fritz.com</li>
+<li> 14:25 duckduckgo.com</li>
+<li> 14:25 192.168.178.1</li>
 <li class='same'> 14:24 192.168.178.1</li>
-<li class='same'> 14:23 192.168.178.1</li>
+<li> 14:24 www.hardreset.info</li>
+<li> 14:24 duckduckgo.com</li>
+<li> 14:24 192.168.178.1</li>
+<li> 14:23 www.hardreset.info</li>
+<li> 14:23 duckduckgo.com</li>
+<li> 14:23 192.168.178.1</li>
 <li class='same'> 14:22 192.168.178.1</li>
+<li> 14:21 fast.com</li>
+<li> 14:21 www.atom.com</li>
+<li> 14:16 chatgpt.com</li>
+<li class='same'> 14:15 chatgpt.com</li>
+<li class='same'> 14:13 chatgpt.com</li>
+<li> 14:12 192.168.178.1</li>
+<li class='same'> 14:11 192.168.178.1</li>
+<li> 14:11 fritz.box</li>
+<li> 14:11 192.168.178.57</li>
+<li class='same'> 14:10 192.168.178.57</li>
+<li> 14:10 fritz.box</li>
 <li> 14:07 outlook.office.com</li>
 <li class='same'> 14:03 outlook.office.com</li>
 <li class='same'> 13:54 outlook.office.com</li>
