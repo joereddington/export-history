@@ -75,10 +75,10 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1274)</li>
 <li>outlook.office365.com (1184)</li>
 <li>www.reddit.com (847)</li>
-<li>www.facebook.com (808)</li>
-<li>duckduckgo.com (605)</li>
+<li>www.facebook.com (814)</li>
+<li>duckduckgo.com (607)</li>
 <li>www.amazon.co.uk (597)</li>
-<li>chatgpt.com (510)</li>
+<li>chatgpt.com (512)</li>
 <li>rhul-my.sharepoint.com (404)</li>
 <li>calendar.google.com (380)</li>
 <li>www.linkedin.com (368)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:35 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<ul><li> 14:32 www.facebook.com</li>
+<li class='same'> 14:31 www.facebook.com</li>
+<li class='same'> 14:30 www.facebook.com</li>
+<li class='same'> 14:29 www.facebook.com</li>
+<li class='same'> 14:28 www.facebook.com</li>
+<li class='same'> 14:27 www.facebook.com</li>
+<li> 14:21 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 13:59 chatgpt.com</li>
+<li class='same'> 13:58 chatgpt.com</li>
+<li> 13:54 www.tandfonline.com</li>
+<li class='same'> 13:53 www.tandfonline.com</li>
+<li class='same'> 13:52 www.tandfonline.com</li>
+<li> 13:52 www.emerald.com</li>
+<li> 13:51 www.tandfonline.com</li>
+<li> 13:51 library.iated.org</li>
+<li> 13:51 scholar.google.co.uk</li>
+<li class='same'> 13:40 scholar.google.co.uk</li>
+<li> 13:39 www.aishe.org</li>
+<li> 13:39 scholar.google.co.uk</li>
+<li class='same'> 13:38 scholar.google.co.uk</li>
+<li> 13:38 duckduckgo.com</li>
+<li class='same'> 13:37 duckduckgo.com</li>
+<li> 13:35 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
 <li> 13:35 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:34 link.springer.com</li>
 <li> 13:34 scholar.google.com</li>
