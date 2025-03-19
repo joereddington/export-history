@@ -76,20 +76,20 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1184)</li>
 <li>www.reddit.com (847)</li>
 <li>www.facebook.com (814)</li>
-<li>duckduckgo.com (607)</li>
+<li>duckduckgo.com (610)</li>
 <li>www.amazon.co.uk (597)</li>
 <li>chatgpt.com (512)</li>
-<li>rhul-my.sharepoint.com (404)</li>
+<li>rhul-my.sharepoint.com (406)</li>
 <li>calendar.google.com (380)</li>
 <li>www.linkedin.com (368)</li>
 <li>github.com (356)</li>
 <li>moodle.royalholloway.ac.uk (345)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (276)</li>
-<li>www.theguardian.com (248)</li>
-<li>login.microsoftonline.com (232)</li>
+<li>www.theguardian.com (250)</li>
+<li>login.microsoftonline.com (233)</li>
+<li>feedly.com (215)</li>
 <li>gmail.com (215)</li>
-<li>feedly.com (214)</li>
 <li>qbo.intuit.com (211)</li>
 <li>web.whatsapp.com (204)</li>
 <li>drive.google.com (200)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:32 www.facebook.com</li>
+<ul><li> 15:01 rhul-my.sharepoint.com</li>
+<li> 14:55 www.hanselman.com</li>
+<li> 14:55 duckduckgo.com</li>
+<li> 14:54 learn.microsoft.com</li>
+<li> 14:54 answers.microsoft.com</li>
+<li> 14:54 login.microsoftonline.com</li>
+<li> 14:54 answers.microsoft.com</li>
+<li> 14:53 rhul-my.sharepoint.com</li>
+<li> 14:52 duckduckgo.com</li>
+<li> 14:45 www.research.ed.ac.uk</li>
+<li> 14:45 duckduckgo.com</li>
+<li> 14:41 www.theguardian.com</li>
+<li class='same'> 14:40 www.theguardian.com</li>
+<li> 14:40 feedly.com</li>
+<li> 14:32 www.facebook.com</li>
 <li class='same'> 14:31 www.facebook.com</li>
 <li class='same'> 14:30 www.facebook.com</li>
 <li class='same'> 14:29 www.facebook.com</li>
