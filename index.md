@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2573)</li>
-<li>outlook.office.com (1939)</li>
+<li>outlook.office.com (1944)</li>
 <li>mail.google.com (1828)</li>
 <li>docs.google.com (1570)</li>
 <li>bsky.app (1274)</li>
-<li>outlook.office365.com (1184)</li>
+<li>outlook.office365.com (1186)</li>
 <li>www.reddit.com (847)</li>
-<li>www.facebook.com (814)</li>
-<li>duckduckgo.com (610)</li>
+<li>www.facebook.com (820)</li>
+<li>duckduckgo.com (611)</li>
 <li>www.amazon.co.uk (597)</li>
 <li>chatgpt.com (512)</li>
 <li>rhul-my.sharepoint.com (406)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:01 rhul-my.sharepoint.com</li>
+<ul><li> 16:25 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
+<li> 16:25 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
+<li> 16:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 16:21 www.qmul.ac.uk</li>
+<li> 16:21 www.facebook.com</li>
+<li class='same'> 16:20 www.facebook.com</li>
+<li class='same'> 16:19 www.facebook.com</li>
+<li class='same'> 16:18 www.facebook.com</li>
+<li class='same'> 16:17 www.facebook.com</li>
+<li> 16:15 scholar.google.co.uk</li>
+<li> 16:15 assets.publishing.service.gov.uk</li>
+<li> 16:15 scholar.google.co.uk</li>
+<li> 16:15 duckduckgo.com</li>
+<li> 16:14 assets.publishing.service.gov.uk</li>
+<li> 16:14 outlook.office.com</li>
+<li class='same'> 16:13 outlook.office.com</li>
+<li> 16:13 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:10 www.facebook.com</li>
+<li> 15:09 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 15:09 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 15:09 outlook.office.com</li>
+<li class='same'> 15:08 outlook.office.com</li>
+<li> 15:07 outlook.office365.com</li>
+<li> 15:07 outlook.office.com</li>
+<li> 15:01 rhul-my.sharepoint.com</li>
 <li> 14:55 www.hanselman.com</li>
 <li> 14:55 duckduckgo.com</li>
 <li> 14:54 learn.microsoft.com</li>
@@ -32564,6 +32593,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:15 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 </ul>
 
+<br>
+
+<ul><li> 12:09 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
+</ul>
+
 <H3>Monday, 01/07/24</H3>
 
 <br>
@@ -32831,6 +32865,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:37 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 13:37 www.linkedin.com</li>
+<li> 13:36 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
 <li> 13:34 www.facebook.com</li>
 <li> 13:22 www.paypal.com</li>
 <li class='same'> 13:21 www.paypal.com</li>
@@ -32933,6 +32968,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 15:00 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
+</ul>
 
 <br>
 
@@ -33956,6 +33996,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:44 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
+</ul>
+
+<br>
+
 <ul><li> 10:16 uofglasgow.zoom.us</li>
 </ul>
 
@@ -34832,7 +34877,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:25 <a href="https://joereddington.com/social/">Connect with Me | Joe Reddington</a></li>
-<li class='same'> 18:24 <a href="https://joereddington.com/social/">Connect with Me | Joe Reddington</a></li>
+<li> 18:25 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
+<li> 18:24 <a href="https://joereddington.com/social/">Connect with Me | Joe Reddington</a></li>
 <li> 18:08 www.linkedin.com</li>
 <li> 18:05 github.com</li>
 <li> 17:50 www.royalholloway.ac.uk</li>
@@ -37819,6 +37865,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:26 <a href="https://joereddington.com/2023/12/27/spider-man.html">Spider-Man | Joe Reddington</a></li>
+<li> 08:26 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
 <li> 08:23 www.amazon.co.uk</li>
 <li> 08:00 docs.google.com</li>
 <li class='same'> 07:59 docs.google.com</li>
@@ -37834,6 +37881,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:33 www.parkrun.org.uk</li>
+</ul>
+
+<H3>Thursday, 28/12/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:40 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
 </ul>
 
 <H3>Wednesday, 27/12/23</H3>
@@ -38066,6 +38124,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:51 docs.google.com</li>
+<li> 11:30 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
 <li> 11:21 www.giantitp.com</li>
 <li class='same'> 11:20 www.giantitp.com</li>
 <li class='same'> 11:19 www.giantitp.com</li>
@@ -38232,6 +38291,7 @@ With number of accesses/minutes in parentheses
 <li> 10:18 www.gov.uk</li>
 <li> 10:04 docs.google.com</li>
 <li> 10:01 www.amazon.co.uk</li>
+<li> 09:54 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
 <li> 09:48 docs.google.com</li>
 </ul>
 
