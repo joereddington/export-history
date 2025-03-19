@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2573)</li>
 <li>outlook.office.com (1939)</li>
-<li>mail.google.com (1826)</li>
+<li>mail.google.com (1828)</li>
 <li>docs.google.com (1570)</li>
 <li>bsky.app (1274)</li>
 <li>outlook.office365.com (1184)</li>
 <li>www.reddit.com (847)</li>
-<li>www.facebook.com (800)</li>
-<li>duckduckgo.com (602)</li>
+<li>www.facebook.com (808)</li>
+<li>duckduckgo.com (605)</li>
 <li>www.amazon.co.uk (597)</li>
 <li>chatgpt.com (510)</li>
 <li>rhul-my.sharepoint.com (404)</li>
@@ -88,8 +88,8 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (276)</li>
 <li>www.theguardian.com (248)</li>
 <li>login.microsoftonline.com (232)</li>
+<li>gmail.com (215)</li>
 <li>feedly.com (214)</li>
-<li>gmail.com (214)</li>
 <li>qbo.intuit.com (211)</li>
 <li>web.whatsapp.com (204)</li>
 <li>drive.google.com (200)</li>
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:16 www.facebook.com</li>
+<ul><li> 13:35 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 13:35 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 13:34 link.springer.com</li>
+<li> 13:34 scholar.google.com</li>
+<li> 13:33 link.springer.com</li>
+<li> 13:33 scholar.google.com</li>
+<li> 13:31 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 13:31 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 13:31 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 13:29 scholar.google.com</li>
+<li> 13:29 pmc.ncbi.nlm.nih.gov</li>
+<li> 13:29 duckduckgo.com</li>
+<li> 13:22 www.tandfonline.com</li>
+<li> 13:22 scholar.google.co.uk</li>
+<li> 13:22 duckduckgo.com</li>
+<li> 13:21 s3.eu-west-2.amazonaws.com</li>
+<li> 13:21 www.advance-he.ac.uk</li>
+<li class='same'> 13:20 www.advance-he.ac.uk</li>
+<li> 13:20 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:25 mail.google.com</li>
+<li class='same'> 12:24 mail.google.com</li>
+<li> 12:24 gmail.com</li>
+<li> 12:24 www.facebook.com</li>
+<li class='same'> 12:23 www.facebook.com</li>
+<li class='same'> 12:22 www.facebook.com</li>
+<li class='same'> 12:21 www.facebook.com</li>
+<li class='same'> 12:20 www.facebook.com</li>
+<li class='same'> 12:19 www.facebook.com</li>
+<li class='same'> 12:18 www.facebook.com</li>
+<li class='same'> 12:17 www.facebook.com</li>
+<li class='same'> 12:16 www.facebook.com</li>
 <li class='same'> 12:15 www.facebook.com</li>
 <li class='same'> 12:14 www.facebook.com</li>
 <li class='same'> 12:13 www.facebook.com</li>
