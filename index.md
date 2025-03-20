@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (1994)</li>
 <li>mail.google.com (1834)</li>
 <li>docs.google.com (1573)</li>
-<li>bsky.app (1274)</li>
+<li>bsky.app (1276)</li>
 <li>outlook.office365.com (1193)</li>
 <li>www.reddit.com (852)</li>
 <li>www.facebook.com (834)</li>
@@ -86,12 +86,12 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (355)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (276)</li>
-<li>www.theguardian.com (260)</li>
+<li>www.theguardian.com (261)</li>
 <li>login.microsoftonline.com (234)</li>
 <li>gmail.com (217)</li>
 <li>feedly.com (215)</li>
 <li>qbo.intuit.com (211)</li>
-<li>web.whatsapp.com (205)</li>
+<li>web.whatsapp.com (206)</li>
 <li>www.coursera.org (202)</li>
 <li>drive.google.com (200)</li>
 <li>chat.openai.com (178)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 20/03/25</H3>
+
+<br>
+
+<ul><li> 17:26 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:48 bsky.app</li>
+<li> 16:47 web.whatsapp.com</li>
+<li> 16:47 bsky.app</li>
+</ul>
 
 <br>
 
@@ -41641,7 +41653,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:43 scholar.google.com</li>
+<ul><li> 10:48 scholar.google.com</li>
+<li class='same'> 10:43 scholar.google.com</li>
 <li> 10:14 docs.google.com</li>
 <li> 09:52 www.thetrainline.com</li>
 <li> 09:48 www.google.com</li>
