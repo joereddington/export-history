@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2578)</li>
+<ol><li>www.google.com (2586)</li>
 <li>outlook.office.com (1994)</li>
 <li>mail.google.com (1834)</li>
 <li>docs.google.com (1573)</li>
-<li>bsky.app (1276)</li>
+<li>bsky.app (1277)</li>
 <li>outlook.office365.com (1193)</li>
 <li>www.reddit.com (852)</li>
 <li>www.facebook.com (834)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:47 www.google.com</li>
+<ul><li> 21:24 www.google.com</li>
+<li class='same'> 21:07 www.google.com</li>
+<li class='same'> 20:42 www.google.com</li>
+<li class='same'> 20:33 www.google.com</li>
+<li class='same'> 20:32 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:32 www.google.com</li>
+<li> 18:32 <a href="https://www.bbc.co.uk/bitesize/articles/zdqwh4j">British Summer Time facts: When does BST start? - BBC Bitesize</a></li>
+<li> 18:32 www.google.com</li>
+<li> 18:31 <a href="https://www.bbc.co.uk/bitesize/articles/zdqwh4j">British Summer Time facts: When does BST start? - BBC Bitesize</a></li>
+<li> 18:29 www.google.com</li>
+<li> 18:28 www.saltogym.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:51 www.saltogym.org</li>
+<li class='same'> 17:50 www.saltogym.org</li>
+<li class='same'> 17:48 www.saltogym.org</li>
+<li> 17:47 www.google.com</li>
 <li> 17:30 www.strode-college.ac.uk</li>
 <li> 17:30 www.google.com</li>
 <li> 17:26 www.darkskytelescopehire.co.uk</li>
@@ -117,7 +139,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:48 bsky.app</li>
+<ul><li> 16:51 bsky.app</li>
+<li class='same'> 16:48 bsky.app</li>
 <li> 16:47 web.whatsapp.com</li>
 <li> 16:47 bsky.app</li>
 </ul>
