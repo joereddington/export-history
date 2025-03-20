@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2574)</li>
-<li>outlook.office.com (1945)</li>
+<li>outlook.office.com (1946)</li>
 <li>mail.google.com (1831)</li>
 <li>docs.google.com (1572)</li>
 <li>bsky.app (1274)</li>
 <li>outlook.office365.com (1186)</li>
-<li>www.reddit.com (847)</li>
-<li>www.facebook.com (820)</li>
-<li>duckduckgo.com (611)</li>
-<li>www.amazon.co.uk (596)</li>
+<li>www.reddit.com (848)</li>
+<li>www.facebook.com (822)</li>
+<li>duckduckgo.com (612)</li>
+<li>www.amazon.co.uk (597)</li>
 <li>chatgpt.com (514)</li>
 <li>rhul-my.sharepoint.com (406)</li>
 <li>calendar.google.com (380)</li>
@@ -104,7 +104,39 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 20/03/25</H3>
+
+<br>
+
+<ul><li> 06:50 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 06:50 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 06:50 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:48 <a href="https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html">You should have an Asked Questions list for your students | Joe Reddington</a></li>
+<li> 06:48 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
+<li> 06:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:47 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 06:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:46 www.oreilly.com</li>
+<li> 06:46 discord.com</li>
+<li class='same'> 06:45 discord.com</li>
+<li> 06:41 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 06:29 duckduckgo.com</li>
+<li> 06:24 www.amazon.co.uk</li>
+<li> 06:24 kdp.amazon.com</li>
+<li> 06:24 kdpreports.amazon.com</li>
+<li> 06:24 kdp.amazon.com</li>
+<li> 06:18 www.facebook.com</li>
+<li class='same'> 06:17 www.facebook.com</li>
+<li> 06:16 www.reddit.com</li>
+<li> 06:16 outlook.office.com</li>
+<li> 06:15 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+</ul>
+
 <H3>Wednesday, 19/03/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
