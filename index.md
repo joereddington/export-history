@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2576)</li>
-<li>outlook.office.com (1956)</li>
+<li>outlook.office.com (1971)</li>
 <li>mail.google.com (1834)</li>
 <li>docs.google.com (1572)</li>
 <li>bsky.app (1274)</li>
-<li>outlook.office365.com (1189)</li>
+<li>outlook.office365.com (1190)</li>
 <li>www.reddit.com (851)</li>
 <li>www.facebook.com (822)</li>
 <li>duckduckgo.com (616)</li>
 <li>www.amazon.co.uk (597)</li>
 <li>chatgpt.com (515)</li>
-<li>rhul-my.sharepoint.com (407)</li>
+<li>rhul-my.sharepoint.com (410)</li>
 <li>calendar.google.com (381)</li>
 <li>www.linkedin.com (369)</li>
 <li>github.com (356)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:16 outlook.office.com</li>
+<ul><li> 12:02 projects.cs.rhul.ac.uk</li>
+<li> 12:02 outlook.office.com</li>
+<li class='same'> 12:01 outlook.office.com</li>
+<li> 12:01 projects.cs.rhul.ac.uk</li>
+<li> 12:00 outlook.office.com</li>
+<li> 12:00 outlook.office365.com</li>
+<li> 12:00 outlook.office.com</li>
+<li> 11:52 rhul-my.sharepoint.com</li>
+<li> 11:40 outlook.office.com</li>
+<li> 11:38 rhul-my.sharepoint.com</li>
+<li> 11:37 outlook.office.com</li>
+<li> 11:31 rhul-my.sharepoint.com</li>
+<li> 11:29 outlook.office.com</li>
+<li class='same'> 11:27 outlook.office.com</li>
+<li class='same'> 11:26 outlook.office.com</li>
+<li class='same'> 11:16 outlook.office.com</li>
 <li> 11:16 outlook.office365.com</li>
 <li> 11:14 cisse.info</li>
 <li> 11:14 pure.royalholloway.ac.uk</li>
@@ -30199,7 +30214,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 13:35 outlook.office.com</li>
+<ul><li class='same'> 13:46 outlook.office.com</li>
+<li class='same'> 13:45 outlook.office.com</li>
+<li class='same'> 13:44 outlook.office.com</li>
+<li class='same'> 13:43 outlook.office.com</li>
+<li class='same'> 13:42 outlook.office.com</li>
+<li class='same'> 13:41 outlook.office.com</li>
+<li class='same'> 13:35 outlook.office.com</li>
 <li> 13:24 intranet.royalholloway.ac.uk</li>
 <li> 13:20 outlook.office.com</li>
 <li> 13:17 www.royalholloway.ac.uk</li>
