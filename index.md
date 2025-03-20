@@ -69,18 +69,18 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2576)</li>
-<li>outlook.office.com (1980)</li>
+<li>outlook.office.com (1985)</li>
 <li>mail.google.com (1834)</li>
-<li>docs.google.com (1572)</li>
+<li>docs.google.com (1573)</li>
 <li>bsky.app (1274)</li>
 <li>outlook.office365.com (1191)</li>
 <li>www.reddit.com (851)</li>
-<li>www.facebook.com (822)</li>
+<li>www.facebook.com (824)</li>
 <li>duckduckgo.com (616)</li>
 <li>www.amazon.co.uk (597)</li>
-<li>chatgpt.com (515)</li>
+<li>chatgpt.com (516)</li>
 <li>rhul-my.sharepoint.com (412)</li>
-<li>calendar.google.com (381)</li>
+<li>calendar.google.com (383)</li>
 <li>www.linkedin.com (369)</li>
 <li>github.com (356)</li>
 <li>moodle.royalholloway.ac.uk (355)</li>
@@ -91,11 +91,11 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (217)</li>
 <li>feedly.com (215)</li>
 <li>qbo.intuit.com (211)</li>
-<li>web.whatsapp.com (204)</li>
+<li>web.whatsapp.com (205)</li>
 <li>drive.google.com (200)</li>
 <li>www.coursera.org (199)</li>
-<li>chat.openai.com (177)</li>
-<li>rhul.sharepoint.com (166)</li>
+<li>chat.openai.com (178)</li>
+<li>rhul.sharepoint.com (167)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (142)</li>
 <li>forms.office.com (134)</li>
 
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:10 rhul.sharepoint.com</li>
+<ul><li> 14:22 www.facebook.com</li>
+<li class='same'> 14:20 www.facebook.com</li>
+<li> 14:19 docs.google.com</li>
+<li> 14:19 outlook.office.com</li>
+<li> 14:18 calendar.google.com</li>
+<li class='same'> 14:16 calendar.google.com</li>
+<li> 14:12 localhost:3000</li>
+<li class='same'> 14:10 localhost:3000</li>
+<li class='same'> 14:08 localhost:3000</li>
+<li class='same'> 14:07 localhost:3000</li>
+<li class='same'> 14:06 localhost:3000</li>
+<li class='same'> 14:00 localhost:3000</li>
+<li> 13:55 outlook.office.com</li>
+<li class='same'> 13:44 outlook.office.com</li>
+<li> 13:31 web.whatsapp.com</li>
+<li> 13:28 rhul.sharepoint.com</li>
+<li> 13:28 outlook.office.com</li>
+<li> 13:24 chatgpt.com</li>
+<li> 13:24 chat.openai.com</li>
+<li> 13:22 outlook.office.com</li>
+<li> 13:10 rhul.sharepoint.com</li>
 <li> 13:10 outlook.office.com</li>
 <li class='same'> 12:58 outlook.office.com</li>
 <li> 12:57 rhul-my.sharepoint.com</li>
