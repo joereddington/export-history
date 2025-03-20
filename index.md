@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2576)</li>
-<li>outlook.office.com (1951)</li>
+<li>outlook.office.com (1956)</li>
 <li>mail.google.com (1834)</li>
 <li>docs.google.com (1572)</li>
 <li>bsky.app (1274)</li>
-<li>outlook.office365.com (1187)</li>
+<li>outlook.office365.com (1189)</li>
 <li>www.reddit.com (851)</li>
 <li>www.facebook.com (822)</li>
-<li>duckduckgo.com (613)</li>
+<li>duckduckgo.com (616)</li>
 <li>www.amazon.co.uk (597)</li>
-<li>chatgpt.com (514)</li>
+<li>chatgpt.com (515)</li>
 <li>rhul-my.sharepoint.com (407)</li>
 <li>calendar.google.com (381)</li>
 <li>www.linkedin.com (369)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:47 duckduckgo.com</li>
+<ul><li> 11:16 outlook.office.com</li>
+<li> 11:16 outlook.office365.com</li>
+<li> 11:14 cisse.info</li>
+<li> 11:14 pure.royalholloway.ac.uk</li>
+<li> 11:14 duckduckgo.com</li>
+<li class='same'> 11:13 duckduckgo.com</li>
+<li> 11:13 scholar.google.com</li>
+<li> 11:12 outlook.office.com</li>
+<li class='same'> 11:11 outlook.office.com</li>
+<li> 11:11 outlook.office365.com</li>
+<li> 11:11 outlook.office.com</li>
+<li> 11:08 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 11:03 <a href="https://xkcd.com/simplewriter/"></a></li>
+<li> 11:02 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:48 duckduckgo.com</li>
+<li> 09:48 www.companydirectorcheck.com</li>
+<li> 09:47 duckduckgo.com</li>
 <li> 09:46 mail.google.com</li>
 <li> 09:46 gmail.com</li>
 <li> 09:30 www.theguardian.com</li>
@@ -33482,6 +33502,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:30 outlook.office.com</li>
 <li> 09:09 rhul.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:28 outlook.office.com</li>
 </ul>
 
 <H3>Thursday, 30/05/24</H3>
