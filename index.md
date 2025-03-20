@@ -69,18 +69,18 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2576)</li>
-<li>outlook.office.com (1988)</li>
+<li>outlook.office.com (1994)</li>
 <li>mail.google.com (1834)</li>
 <li>docs.google.com (1573)</li>
 <li>bsky.app (1274)</li>
 <li>outlook.office365.com (1193)</li>
-<li>www.reddit.com (851)</li>
-<li>www.facebook.com (830)</li>
-<li>duckduckgo.com (616)</li>
+<li>www.reddit.com (852)</li>
+<li>www.facebook.com (834)</li>
+<li>duckduckgo.com (617)</li>
 <li>www.amazon.co.uk (597)</li>
 <li>chatgpt.com (516)</li>
 <li>rhul-my.sharepoint.com (413)</li>
-<li>calendar.google.com (383)</li>
+<li>calendar.google.com (385)</li>
 <li>www.linkedin.com (369)</li>
 <li>github.com (356)</li>
 <li>moodle.royalholloway.ac.uk (355)</li>
@@ -92,8 +92,8 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (215)</li>
 <li>qbo.intuit.com (211)</li>
 <li>web.whatsapp.com (205)</li>
+<li>www.coursera.org (202)</li>
 <li>drive.google.com (200)</li>
-<li>www.coursera.org (199)</li>
 <li>chat.openai.com (178)</li>
 <li>rhul.sharepoint.com (167)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (142)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:05 www.facebook.com</li>
+<ul><li> 15:58 outlook.office.com</li>
+<li> 15:56 www.reddit.com</li>
+<li> 15:55 zoom.us</li>
+<li> 15:55 calendar.google.com</li>
+<li class='same'> 15:54 calendar.google.com</li>
+<li> 15:54 outlook.office.com</li>
+<li class='same'> 15:52 outlook.office.com</li>
+<li> 15:51 www.coursera.org</li>
+<li> 15:51 outlook.office.com</li>
+<li> 15:51 www.coursera.org</li>
+<li> 15:51 outlook.office.com</li>
+<li> 15:50 www.coursera.org</li>
+<li> 15:50 outlook.office.com</li>
+<li> 15:50 zoom.us</li>
+<li class='same'> 15:49 zoom.us</li>
+<li> 15:49 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:09 www.facebook.com</li>
+<li class='same'> 15:08 www.facebook.com</li>
+<li class='same'> 15:07 www.facebook.com</li>
+<li class='same'> 15:06 www.facebook.com</li>
+<li class='same'> 15:05 www.facebook.com</li>
 <li class='same'> 15:04 www.facebook.com</li>
 <li class='same'> 15:03 www.facebook.com</li>
 <li class='same'> 15:01 www.facebook.com</li>
