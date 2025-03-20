@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2577)</li>
-<li>outlook.office.com (1946)</li>
+<ol><li>www.google.com (2574)</li>
+<li>outlook.office.com (1945)</li>
 <li>mail.google.com (1831)</li>
 <li>docs.google.com (1572)</li>
 <li>bsky.app (1274)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (847)</li>
 <li>www.facebook.com (820)</li>
 <li>duckduckgo.com (611)</li>
-<li>www.amazon.co.uk (597)</li>
+<li>www.amazon.co.uk (596)</li>
 <li>chatgpt.com (514)</li>
 <li>rhul-my.sharepoint.com (406)</li>
 <li>calendar.google.com (380)</li>
@@ -86,8 +86,8 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (345)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (276)</li>
-<li>www.theguardian.com (257)</li>
-<li>login.microsoftonline.com (233)</li>
+<li>www.theguardian.com (259)</li>
+<li>login.microsoftonline.com (232)</li>
 <li>feedly.com (215)</li>
 <li>gmail.com (215)</li>
 <li>qbo.intuit.com (211)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (177)</li>
 <li>rhul.sharepoint.com (165)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (142)</li>
-<li>forms.office.com (135)</li>
+<li>forms.office.com (134)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:59 www.theguardian.com</li>
+<ul><li> 22:02 www.theguardian.com</li>
+<li class='same'> 22:01 www.theguardian.com</li>
+<li class='same'> 21:59 www.theguardian.com</li>
 <li class='same'> 21:58 www.theguardian.com</li>
 </ul>
 
@@ -19163,14 +19165,10 @@ With number of accesses/minutes in parentheses
 <li> 14:59 mail.google.com</li>
 <li> 14:59 outlook.office.com</li>
 <li class='same'> 14:57 outlook.office.com</li>
-<li class='same'> 14:56 outlook.office.com</li>
-<li> 14:45 www.google.com</li>
-<li class='same'> 14:44 www.google.com</li>
+<li> 14:44 www.google.com</li>
 <li> 14:28 outlook.office.com</li>
 <li> 14:22 rhul-my.sharepoint.com</li>
 <li> 14:22 outlook.office.com</li>
-<li> 14:21 forms.office.com</li>
-<li> 14:21 login.microsoftonline.com</li>
 <li> 14:21 rhul-my.sharepoint.com</li>
 <li> 14:21 outlook.office.com</li>
 <li class='same'> 14:20 outlook.office.com</li>
@@ -19209,8 +19207,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:17 docs.google.com</li>
 <li class='same'> 07:16 docs.google.com</li>
 <li class='same'> 07:07 docs.google.com</li>
-<li> 07:04 www.amazon.co.uk</li>
-<li> 07:04 www.google.com</li>
 <li> 07:04 www.amazon.co.uk</li>
 <li> 07:03 docs.google.com</li>
 <li class='same'> 07:02 docs.google.com</li>
@@ -19330,8 +19326,7 @@ With number of accesses/minutes in parentheses
 <li> 13:35 mail.google.com</li>
 <li class='same'> 13:33 mail.google.com</li>
 <li class='same'> 13:32 mail.google.com</li>
-<li> 13:29 www.google.com</li>
-<li class='same'> 13:27 www.google.com</li>
+<li> 13:27 www.google.com</li>
 <li class='same'> 13:26 www.google.com</li>
 <li> 13:26 mail.google.com</li>
 <li class='same'> 13:25 mail.google.com</li>
