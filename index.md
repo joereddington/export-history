@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2574)</li>
-<li>outlook.office.com (1946)</li>
-<li>mail.google.com (1831)</li>
+<li>outlook.office.com (1951)</li>
+<li>mail.google.com (1833)</li>
 <li>docs.google.com (1572)</li>
 <li>bsky.app (1274)</li>
-<li>outlook.office365.com (1186)</li>
-<li>www.reddit.com (848)</li>
+<li>outlook.office365.com (1187)</li>
+<li>www.reddit.com (851)</li>
 <li>www.facebook.com (822)</li>
 <li>duckduckgo.com (612)</li>
 <li>www.amazon.co.uk (597)</li>
 <li>chatgpt.com (514)</li>
-<li>rhul-my.sharepoint.com (406)</li>
-<li>calendar.google.com (380)</li>
-<li>www.linkedin.com (368)</li>
+<li>rhul-my.sharepoint.com (407)</li>
+<li>calendar.google.com (381)</li>
+<li>www.linkedin.com (369)</li>
 <li>github.com (356)</li>
-<li>moodle.royalholloway.ac.uk (345)</li>
+<li>moodle.royalholloway.ac.uk (350)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (276)</li>
 <li>www.theguardian.com (259)</li>
-<li>login.microsoftonline.com (232)</li>
+<li>login.microsoftonline.com (233)</li>
+<li>gmail.com (216)</li>
 <li>feedly.com (215)</li>
-<li>gmail.com (215)</li>
 <li>qbo.intuit.com (211)</li>
 <li>web.whatsapp.com (204)</li>
 <li>drive.google.com (200)</li>
@@ -105,6 +105,31 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 20/03/25</H3>
+
+<br>
+
+<ul><li> 09:12 www.reddit.com</li>
+<li> 09:12 rhul-my.sharepoint.com</li>
+<li> 09:11 calendar.google.com</li>
+<li> 09:11 mail.google.com</li>
+<li> 09:09 www.linkedin.com</li>
+<li> 09:08 mail.google.com</li>
+<li> 09:08 gmail.com</li>
+<li> 09:07 kdpreports.amazon.com</li>
+<li> 09:07 www.reddit.com</li>
+<li class='same'> 09:05 www.reddit.com</li>
+<li> 09:05 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:04 moodle.royalholloway.ac.uk</li>
+<li> 09:04 outlook.office.com</li>
+<li class='same'> 09:02 outlook.office.com</li>
+<li> 09:01 moodle.royalholloway.ac.uk</li>
+<li> 09:01 login.microsoftonline.com</li>
+<li> 09:01 moodle.royalholloway.ac.uk</li>
+<li> 09:01 outlook.office.com</li>
+<li class='same'> 09:00 outlook.office.com</li>
+<li> 09:00 outlook.office365.com</li>
+<li> 09:00 outlook.office.com</li>
+</ul>
 
 <br>
 
@@ -30497,6 +30522,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:03 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:52 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <br>
