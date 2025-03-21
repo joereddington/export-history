@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2597)</li>
-<li>outlook.office.com (2001)</li>
-<li>mail.google.com (1878)</li>
+<ol><li>www.google.com (2598)</li>
+<li>outlook.office.com (2004)</li>
+<li>mail.google.com (1886)</li>
 <li>docs.google.com (1573)</li>
 <li>bsky.app (1277)</li>
 <li>outlook.office365.com (1195)</li>
-<li>www.facebook.com (860)</li>
+<li>www.facebook.com (861)</li>
 <li>www.reddit.com (853)</li>
-<li>duckduckgo.com (629)</li>
+<li>duckduckgo.com (631)</li>
 <li>www.amazon.co.uk (600)</li>
 <li>chatgpt.com (517)</li>
 <li>rhul-my.sharepoint.com (413)</li>
@@ -86,9 +86,9 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (355)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (276)</li>
-<li>www.theguardian.com (262)</li>
+<li>www.theguardian.com (267)</li>
 <li>login.microsoftonline.com (234)</li>
-<li>gmail.com (224)</li>
+<li>gmail.com (225)</li>
 <li>qbo.intuit.com (221)</li>
 <li>feedly.com (215)</li>
 <li>web.whatsapp.com (208)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:15 mail.google.com</li>
+<ul><li> 13:21 www.theguardian.com</li>
+<li> 13:11 127.0.0.1:4000</li>
+<li class='same'> 13:10 127.0.0.1:4000</li>
+<li class='same'> 13:04 127.0.0.1:4000</li>
+<li> 13:02 www.midlandssbm.org</li>
+<li> 13:02 duckduckgo.com</li>
+<li> 12:58 127.0.0.1:4000</li>
+<li class='same'> 12:57 127.0.0.1:4000</li>
+<li> 12:56 mail.google.com</li>
+<li> 12:55 www.facebook.com</li>
+<li> 12:54 outlook.office.com</li>
+<li class='same'> 12:53 outlook.office.com</li>
+<li> 12:51 www.theguardian.com</li>
+<li class='same'> 12:50 www.theguardian.com</li>
+<li> 12:50 outlook.office.com</li>
+<li> 12:49 mail.google.com</li>
+<li> 12:49 gmail.com</li>
+<li> 12:43 duckduckgo.com</li>
+<li> 12:38 www.tightrope.co.uk</li>
+<li class='same'> 12:37 www.tightrope.co.uk</li>
+<li> 12:31 equalitytime.github.io</li>
+<li> 12:30 127.0.0.1:4000</li>
+<li> 12:15 mail.google.com</li>
 <li> 12:04 127.0.0.1:4000</li>
 <li class='same'> 12:03 127.0.0.1:4000</li>
 <li> 12:03 www.projectreal.co.uk</li>
@@ -212,11 +234,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:06 accounts.intuit.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:12 online.unity.co.uk</li>
+<li> 07:40 www.theguardian.com</li>
+<li class='same'> 07:39 www.theguardian.com</li>
+<li> 07:39 www.google.com</li>
+<li> 07:12 online.unity.co.uk</li>
 <li> 07:11 www.google.com</li>
 <li class='same'> 07:08 www.google.com</li>
 <li> 07:07 online.unity.co.uk</li>
@@ -40748,6 +40769,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:59 mail.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:42 equalitytime.github.io</li>
 </ul>
 
@@ -42760,6 +42786,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:25 mail.google.com</li>
+<li class='same'> 06:59 mail.google.com</li>
 </ul>
 
 <H3>Wednesday, 24/05/23</H3>
@@ -43671,6 +43698,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:58 www.selectspecs.com</li>
 </ul>
 
+<H3>Thursday, 09/02/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 14:34 mail.google.com</li>
+</ul>
+
 <H3>Monday, 06/02/23</H3>
 
 <br>
@@ -44153,6 +44191,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 13:31 mail.google.com</li>
+<li class='same'> 13:30 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:42 mail.google.com</li>
+</ul>
 
 <br>
 
