@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2596)</li>
-<li>outlook.office.com (1999)</li>
-<li>mail.google.com (1865)</li>
+<ol><li>www.google.com (2597)</li>
+<li>outlook.office.com (2001)</li>
+<li>mail.google.com (1876)</li>
 <li>docs.google.com (1573)</li>
 <li>bsky.app (1277)</li>
-<li>outlook.office365.com (1194)</li>
+<li>outlook.office365.com (1195)</li>
 <li>www.facebook.com (860)</li>
 <li>www.reddit.com (853)</li>
 <li>duckduckgo.com (628)</li>
 <li>www.amazon.co.uk (600)</li>
-<li>chatgpt.com (516)</li>
+<li>chatgpt.com (517)</li>
 <li>rhul-my.sharepoint.com (413)</li>
 <li>calendar.google.com (386)</li>
 <li>www.linkedin.com (369)</li>
@@ -88,14 +88,14 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (276)</li>
 <li>www.theguardian.com (262)</li>
 <li>login.microsoftonline.com (234)</li>
-<li>gmail.com (222)</li>
+<li>gmail.com (224)</li>
 <li>qbo.intuit.com (221)</li>
 <li>feedly.com (215)</li>
-<li>web.whatsapp.com (207)</li>
+<li>web.whatsapp.com (208)</li>
 <li>www.coursera.org (202)</li>
 <li>drive.google.com (200)</li>
-<li>chat.openai.com (178)</li>
-<li>rhul.sharepoint.com (167)</li>
+<li>chat.openai.com (179)</li>
+<li>rhul.sharepoint.com (168)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (142)</li>
 <li>forms.office.com (134)</li>
 
@@ -108,7 +108,47 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:21 github.com</li>
+<ul><li> 11:22 127.0.0.1:4000</li>
+<li class='same'> 11:20 127.0.0.1:4000</li>
+<li> 11:20 www.projectreal.co.uk</li>
+<li> 11:20 127.0.0.1:4000</li>
+<li class='same'> 11:19 127.0.0.1:4000</li>
+<li class='same'> 11:17 127.0.0.1:4000</li>
+<li class='same'> 11:16 127.0.0.1:4000</li>
+<li class='same'> 11:13 127.0.0.1:4000</li>
+<li class='same'> 11:12 127.0.0.1:4000</li>
+<li> 11:10 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 11:10 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 11:09 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:08 equalitytime.co.uk</li>
+<li> 11:08 www.google.com</li>
+<li> 11:08 equalitytime.github.io</li>
+<li> 11:05 127.0.0.1:4000</li>
+<li> 11:04 <a href="https://joereddington.com/chooseyourownadventure/1.html">Choose Your Own Adventure</a></li>
+<li> 11:04 mail.google.com</li>
+<li class='same'> 10:57 mail.google.com</li>
+<li> 10:57 gmail.com</li>
+<li> 10:56 127.0.0.1:4000</li>
+<li class='same'> 10:55 127.0.0.1:4000</li>
+<li> 10:54 mail.google.com</li>
+<li class='same'> 10:52 mail.google.com</li>
+<li> 10:52 gmail.com</li>
+<li> 10:52 mail.google.com</li>
+<li> 10:49 web.whatsapp.com</li>
+<li> 10:47 outlook.office.com</li>
+<li> 10:46 127.0.0.1:4000</li>
+<li class='same'> 10:42 127.0.0.1:4000</li>
+<li class='same'> 10:41 127.0.0.1:4000</li>
+<li> 10:31 rhul.sharepoint.com</li>
+<li> 10:31 outlook.office.com</li>
+<li> 10:31 outlook.office365.com</li>
+<li> 10:31 mail.google.com</li>
+<li> 10:27 127.0.0.1:4000</li>
+<li> 10:27 chatgpt.com</li>
+<li> 10:27 chat.openai.com</li>
+<li> 10:24 127.0.0.1:4000</li>
+<li class='same'> 10:23 127.0.0.1:4000</li>
+<li> 10:21 github.com</li>
 <li class='same'> 10:20 github.com</li>
 <li> 10:20 mail.google.com</li>
 <li> 10:20 www.projectreal.co.uk</li>
@@ -36411,7 +36451,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:22 outlook.office.com</li>
+<ul><li class='same'> 20:01 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:25 mail.google.com</li>
+<li class='same'> 19:24 mail.google.com</li>
+<li> 19:22 outlook.office.com</li>
 </ul>
 
 <br>
@@ -37260,7 +37307,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:39 www.google.com</li>
+<ul><li> 11:41 equalitytime.co.uk</li>
+<li> 11:39 www.google.com</li>
 <li> 11:39 www.amazon.co.uk</li>
 </ul>
 
@@ -39980,7 +40028,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:24 www.natwest.com</li>
+<ul><li> 13:50 equalitytime.co.uk</li>
+<li> 13:24 www.natwest.com</li>
 <li> 13:18 www.onlinebanking.natwest.com</li>
 <li> 13:18 www.natwest.com</li>
 <li> 13:09 www.onlinebanking.natwest.com</li>
@@ -40289,7 +40338,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:50 www.thedailymash.co.uk</li>
+<ul><li> 07:01 mail.google.com</li>
+<li> 06:50 www.thedailymash.co.uk</li>
 <li> 06:25 forum.artofmemory.com</li>
 </ul>
 
@@ -42355,6 +42405,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:06 github.com</li>
+<li> 06:50 mail.google.com</li>
 </ul>
 
 <H3>Monday, 12/06/23</H3>
