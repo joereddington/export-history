@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2598)</li>
 <li>outlook.office.com (2005)</li>
-<li>mail.google.com (1886)</li>
+<li>mail.google.com (1889)</li>
 <li>docs.google.com (1573)</li>
 <li>bsky.app (1277)</li>
 <li>outlook.office365.com (1195)</li>
-<li>www.facebook.com (861)</li>
-<li>www.reddit.com (853)</li>
-<li>duckduckgo.com (631)</li>
+<li>www.facebook.com (867)</li>
+<li>www.reddit.com (857)</li>
+<li>duckduckgo.com (632)</li>
 <li>www.amazon.co.uk (600)</li>
 <li>chatgpt.com (517)</li>
 <li>rhul-my.sharepoint.com (413)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (276)</li>
 <li>www.theguardian.com (268)</li>
 <li>login.microsoftonline.com (234)</li>
-<li>gmail.com (225)</li>
+<li>gmail.com (227)</li>
 <li>qbo.intuit.com (221)</li>
 <li>feedly.com (217)</li>
 <li>web.whatsapp.com (208)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:00 127.0.0.1:4000</li>
+<ul><li> 15:00 www.facebook.com</li>
+<li class='same'> 14:59 www.facebook.com</li>
+<li class='same'> 14:58 www.facebook.com</li>
+<li class='same'> 14:57 www.facebook.com</li>
+<li class='same'> 14:56 www.facebook.com</li>
+<li class='same'> 14:55 www.facebook.com</li>
+<li> 14:55 mail.google.com</li>
+<li> 14:55 accounts.google.com</li>
+<li> 14:55 gmail.com</li>
+<li> 14:55 127.0.0.1:4000</li>
+<li> 14:52 www.reddit.com</li>
+<li class='same'> 14:51 www.reddit.com</li>
+<li class='same'> 14:50 www.reddit.com</li>
+<li> 14:31 projects.cs.rhul.ac.uk</li>
+<li> 14:28 www.reddit.com</li>
+<li> 14:27 mail.google.com</li>
+<li> 14:26 duckduckgo.com</li>
+<li> 14:26 www.projectreal.co.uk</li>
+<li> 14:25 mail.google.com</li>
+<li> 14:25 gmail.com</li>
+<li> 14:24 127.0.0.1:4000</li>
+<li class='same'> 14:22 127.0.0.1:4000</li>
+<li class='same'> 14:21 127.0.0.1:4000</li>
+<li class='same'> 14:16 127.0.0.1:4000</li>
+<li class='same'> 14:14 127.0.0.1:4000</li>
+<li class='same'> 14:12 127.0.0.1:4000</li>
+<li class='same'> 14:10 127.0.0.1:4000</li>
+<li class='same'> 14:06 127.0.0.1:4000</li>
+<li class='same'> 14:05 127.0.0.1:4000</li>
+<li class='same'> 14:00 127.0.0.1:4000</li>
 <li class='same'> 13:55 127.0.0.1:4000</li>
 <li> 13:53 feedly.com</li>
 <li class='same'> 13:52 feedly.com</li>
