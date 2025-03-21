@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2597)</li>
 <li>outlook.office.com (2001)</li>
-<li>mail.google.com (1876)</li>
+<li>mail.google.com (1878)</li>
 <li>docs.google.com (1573)</li>
 <li>bsky.app (1277)</li>
 <li>outlook.office365.com (1195)</li>
 <li>www.facebook.com (860)</li>
 <li>www.reddit.com (853)</li>
-<li>duckduckgo.com (628)</li>
+<li>duckduckgo.com (629)</li>
 <li>www.amazon.co.uk (600)</li>
 <li>chatgpt.com (517)</li>
 <li>rhul-my.sharepoint.com (413)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:22 127.0.0.1:4000</li>
+<ul><li> 12:15 mail.google.com</li>
+<li> 12:04 127.0.0.1:4000</li>
+<li class='same'> 12:03 127.0.0.1:4000</li>
+<li> 12:03 www.projectreal.co.uk</li>
+<li> 12:03 127.0.0.1:4000</li>
+<li class='same'> 12:02 127.0.0.1:4000</li>
+<li class='same'> 12:01 127.0.0.1:4000</li>
+<li> 12:01 www.projectreal.co.uk</li>
+<li> 11:40 <a href="https://xkcd.com/1425/">xkcd: Tasks</a></li>
+<li> 11:40 duckduckgo.com</li>
+<li> 11:34 uofglasgow.zoom.us</li>
+<li> 11:33 mail.google.com</li>
+<li> 11:27 127.0.0.1:4000</li>
+<li class='same'> 11:22 127.0.0.1:4000</li>
 <li class='same'> 11:20 127.0.0.1:4000</li>
 <li> 11:20 www.projectreal.co.uk</li>
 <li> 11:20 127.0.0.1:4000</li>
