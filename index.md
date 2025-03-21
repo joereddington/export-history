@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2586)</li>
+<ol><li>www.google.com (2588)</li>
 <li>outlook.office.com (1994)</li>
 <li>mail.google.com (1834)</li>
 <li>docs.google.com (1573)</li>
@@ -104,11 +104,27 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 21/03/25</H3>
+
+<br>
+
+<ul><li> 05:40 astrobackyard.com</li>
+</ul>
+
 <H3>Thursday, 20/03/25</H3>
 
 <br>
 
-<ul><li> 21:24 www.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:28 astrobackyard.com</li>
+<li class='same'> 21:27 astrobackyard.com</li>
+<li> 21:27 www.google.com</li>
+<li> 21:25 www.cloudynights.com</li>
+<li> 21:25 www.google.com</li>
+<li class='same'> 21:24 www.google.com</li>
 <li class='same'> 21:07 www.google.com</li>
 <li class='same'> 20:42 www.google.com</li>
 <li class='same'> 20:33 www.google.com</li>
