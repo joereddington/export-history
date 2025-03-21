@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (355)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (276)</li>
-<li>www.theguardian.com (268)</li>
+<li>www.theguardian.com (272)</li>
 <li>login.microsoftonline.com (234)</li>
 <li>gmail.com (227)</li>
 <li>qbo.intuit.com (221)</li>
@@ -108,6 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 16:35 www.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 15:00 www.facebook.com</li>
 <li class='same'> 14:59 www.facebook.com</li>
 <li class='same'> 14:58 www.facebook.com</li>
@@ -121,6 +126,7 @@ With number of accesses/minutes in parentheses
 <li> 14:52 www.reddit.com</li>
 <li class='same'> 14:51 www.reddit.com</li>
 <li class='same'> 14:50 www.reddit.com</li>
+<li> 14:49 www.theguardian.com</li>
 <li> 14:31 projects.cs.rhul.ac.uk</li>
 <li> 14:28 www.reddit.com</li>
 <li> 14:27 mail.google.com</li>
@@ -141,7 +147,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:55 127.0.0.1:4000</li>
 <li> 13:53 feedly.com</li>
 <li class='same'> 13:52 feedly.com</li>
-<li> 13:49 www.theguardian.com</li>
+<li> 13:51 www.theguardian.com</li>
+<li class='same'> 13:50 www.theguardian.com</li>
+<li class='same'> 13:49 www.theguardian.com</li>
 <li> 13:48 outlook.office.com</li>
 <li> 13:21 www.theguardian.com</li>
 <li> 13:11 127.0.0.1:4000</li>
