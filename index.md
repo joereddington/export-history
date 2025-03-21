@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2588)</li>
-<li>outlook.office.com (1994)</li>
-<li>mail.google.com (1834)</li>
+<ol><li>www.google.com (2592)</li>
+<li>outlook.office.com (1997)</li>
+<li>mail.google.com (1849)</li>
 <li>docs.google.com (1573)</li>
 <li>bsky.app (1277)</li>
 <li>outlook.office365.com (1193)</li>
-<li>www.reddit.com (852)</li>
-<li>www.facebook.com (834)</li>
-<li>duckduckgo.com (617)</li>
-<li>www.amazon.co.uk (597)</li>
+<li>www.reddit.com (853)</li>
+<li>www.facebook.com (839)</li>
+<li>duckduckgo.com (623)</li>
+<li>www.amazon.co.uk (600)</li>
 <li>chatgpt.com (516)</li>
 <li>rhul-my.sharepoint.com (413)</li>
-<li>calendar.google.com (385)</li>
+<li>calendar.google.com (386)</li>
 <li>www.linkedin.com (369)</li>
 <li>github.com (356)</li>
 <li>moodle.royalholloway.ac.uk (355)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (276)</li>
-<li>www.theguardian.com (261)</li>
+<li>www.theguardian.com (262)</li>
 <li>login.microsoftonline.com (234)</li>
-<li>gmail.com (217)</li>
+<li>qbo.intuit.com (221)</li>
+<li>gmail.com (220)</li>
 <li>feedly.com (215)</li>
-<li>qbo.intuit.com (211)</li>
-<li>web.whatsapp.com (206)</li>
+<li>web.whatsapp.com (207)</li>
 <li>www.coursera.org (202)</li>
 <li>drive.google.com (200)</li>
 <li>chat.openai.com (178)</li>
@@ -108,7 +108,86 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 05:40 astrobackyard.com</li>
+<ul><li> 07:12 online.unity.co.uk</li>
+<li> 07:11 www.google.com</li>
+<li class='same'> 07:08 www.google.com</li>
+<li> 07:07 online.unity.co.uk</li>
+<li> 07:07 qbo.intuit.com</li>
+<li class='same'> 07:06 qbo.intuit.com</li>
+<li> 07:06 c14.qbo.intuit.com</li>
+<li> 07:06 app.qbo.intuit.com</li>
+<li> 07:01 online.unity.co.uk</li>
+<li class='same'> 07:00 online.unity.co.uk</li>
+<li> 06:59 mail.google.com</li>
+<li> 06:59 qbo.intuit.com</li>
+<li> 06:59 online.unity.co.uk</li>
+<li> 06:58 qbo.intuit.com</li>
+<li class='same'> 06:57 qbo.intuit.com</li>
+<li> 06:50 online.unity.co.uk</li>
+<li> 06:50 mail.google.com</li>
+<li> 06:49 web.whatsapp.com</li>
+<li> 06:48 qbo.intuit.com</li>
+<li> 06:47 www.amazon.co.uk</li>
+<li> 06:47 qbo.intuit.com</li>
+<li class='same'> 06:46 qbo.intuit.com</li>
+<li> 06:45 online.unity.co.uk</li>
+<li> 06:44 mail.google.com</li>
+<li> 06:41 www.amazon.co.uk</li>
+<li> 06:41 qbo.intuit.com</li>
+<li class='same'> 06:40 qbo.intuit.com</li>
+<li> 06:40 accounts.intuit.com</li>
+<li> 06:40 c14.qbo.intuit.com</li>
+<li> 06:40 app.qbo.intuit.com</li>
+<li> 06:40 www.amazon.co.uk</li>
+<li> 06:39 mail.google.com</li>
+<li> 06:39 www.nestpensions.org.uk</li>
+<li class='same'> 06:38 www.nestpensions.org.uk</li>
+<li class='same'> 06:37 www.nestpensions.org.uk</li>
+<li class='same'> 06:36 www.nestpensions.org.uk</li>
+<li> 06:36 duckduckgo.com</li>
+<li> 06:36 www.nestpensions.org.uk</li>
+<li class='same'> 06:35 www.nestpensions.org.uk</li>
+<li class='same'> 06:34 www.nestpensions.org.uk</li>
+<li class='same'> 06:33 www.nestpensions.org.uk</li>
+<li> 06:33 mail.google.com</li>
+<li class='same'> 06:32 mail.google.com</li>
+<li class='same'> 06:31 mail.google.com</li>
+<li> 06:31 gmail.com</li>
+<li> 06:26 outlook.office.com</li>
+<li> 06:25 calendar.google.com</li>
+<li> 06:25 outlook.office.com</li>
+<li> 06:24 mail.google.com</li>
+<li> 06:21 www.reddit.com</li>
+<li> 06:21 www.boredpanda.com</li>
+<li> 06:21 duckduckgo.com</li>
+<li> 06:20 www.theguardian.com</li>
+<li> 06:19 kdpreports.amazon.com</li>
+<li> 06:19 kdp.amazon.com</li>
+<li> 06:19 mail.google.com</li>
+<li class='same'> 06:18 mail.google.com</li>
+<li class='same'> 06:17 mail.google.com</li>
+<li class='same'> 06:16 mail.google.com</li>
+<li> 06:16 gmail.com</li>
+<li> 06:16 www.facebook.com</li>
+<li class='same'> 06:15 www.facebook.com</li>
+<li> 06:07 www.google.com</li>
+<li class='same'> 06:06 www.google.com</li>
+<li> 06:06 duckduckgo.com</li>
+<li> 06:06 mail.google.com</li>
+<li> 06:06 duckduckgo.com</li>
+<li> 06:05 mail.google.com</li>
+<li class='same'> 06:03 mail.google.com</li>
+<li> 06:03 gmail.com</li>
+<li> 06:03 duckduckgo.com</li>
+<li> 06:02 www.google.co.uk</li>
+<li> 06:02 www.facebook.com</li>
+<li> 06:01 duckduckgo.com</li>
+<li> 06:00 www.facebook.com</li>
+<li> 06:00 www.google.co.uk</li>
+<li class='same'> 05:59 www.google.co.uk</li>
+<li> 05:59 www.facebook.com</li>
+<li> 05:59 outlook.office.com</li>
+<li> 05:40 astrobackyard.com</li>
 </ul>
 
 <H3>Thursday, 20/03/25</H3>
