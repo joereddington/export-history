@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2598)</li>
-<li>outlook.office.com (2004)</li>
+<li>outlook.office.com (2005)</li>
 <li>mail.google.com (1886)</li>
 <li>docs.google.com (1573)</li>
 <li>bsky.app (1277)</li>
@@ -86,11 +86,11 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (355)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (276)</li>
-<li>www.theguardian.com (267)</li>
+<li>www.theguardian.com (268)</li>
 <li>login.microsoftonline.com (234)</li>
 <li>gmail.com (225)</li>
 <li>qbo.intuit.com (221)</li>
-<li>feedly.com (215)</li>
+<li>feedly.com (217)</li>
 <li>web.whatsapp.com (208)</li>
 <li>www.coursera.org (202)</li>
 <li>drive.google.com (200)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:21 www.theguardian.com</li>
+<ul><li> 14:00 127.0.0.1:4000</li>
+<li class='same'> 13:55 127.0.0.1:4000</li>
+<li> 13:53 feedly.com</li>
+<li class='same'> 13:52 feedly.com</li>
+<li> 13:49 www.theguardian.com</li>
+<li> 13:48 outlook.office.com</li>
+<li> 13:21 www.theguardian.com</li>
 <li> 13:11 127.0.0.1:4000</li>
 <li class='same'> 13:10 127.0.0.1:4000</li>
 <li class='same'> 13:04 127.0.0.1:4000</li>
