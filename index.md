@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2598)</li>
+<ol><li>www.google.com (2601)</li>
 <li>outlook.office.com (2005)</li>
 <li>mail.google.com (1889)</li>
-<li>docs.google.com (1573)</li>
+<li>docs.google.com (1574)</li>
 <li>bsky.app (1277)</li>
 <li>outlook.office365.com (1195)</li>
 <li>www.facebook.com (867)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (355)</li>
 <li>tvtropes.org (290)</li>
 <li>fritz.box (276)</li>
-<li>www.theguardian.com (272)</li>
+<li>www.theguardian.com (273)</li>
 <li>login.microsoftonline.com (234)</li>
 <li>gmail.com (227)</li>
 <li>qbo.intuit.com (221)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:35 www.theguardian.com</li>
+<ul><li> 20:43 www.google.com</li>
+<li class='same'> 20:28 www.google.com</li>
+<li class='same'> 20:27 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:14 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:39 www.theguardian.com</li>
+<li class='same'> 16:35 www.theguardian.com</li>
 </ul>
 
 <br>
