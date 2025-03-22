@@ -71,16 +71,16 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2599)</li>
 <li>outlook.office.com (2005)</li>
 <li>mail.google.com (1889)</li>
-<li>docs.google.com (1574)</li>
+<li>docs.google.com (1585)</li>
 <li>bsky.app (1277)</li>
 <li>outlook.office365.com (1195)</li>
 <li>www.facebook.com (867)</li>
 <li>www.reddit.com (857)</li>
-<li>duckduckgo.com (632)</li>
+<li>duckduckgo.com (633)</li>
 <li>www.amazon.co.uk (600)</li>
-<li>chatgpt.com (518)</li>
+<li>chatgpt.com (520)</li>
 <li>rhul-my.sharepoint.com (413)</li>
-<li>calendar.google.com (386)</li>
+<li>calendar.google.com (388)</li>
 <li>www.linkedin.com (369)</li>
 <li>github.com (358)</li>
 <li>moodle.royalholloway.ac.uk (355)</li>
@@ -93,8 +93,8 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (217)</li>
 <li>web.whatsapp.com (208)</li>
 <li>www.coursera.org (202)</li>
-<li>drive.google.com (200)</li>
-<li>chat.openai.com (180)</li>
+<li>drive.google.com (201)</li>
+<li>chat.openai.com (182)</li>
 <li>rhul.sharepoint.com (168)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (142)</li>
 <li>forms.office.com (134)</li>
@@ -108,9 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:56 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<ul><li> 07:31 chatgpt.com</li>
+<li> 07:31 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:59 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
+<li> 06:59 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:56 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 06:54 chatgpt.com</li>
+<li> 06:54 chat.openai.com</li>
 <li> 06:50 chatgpt.com</li>
 <li> 06:50 chat.openai.com</li>
+<li> 06:47 docs.google.com</li>
+<li class='same'> 06:46 docs.google.com</li>
+<li class='same'> 06:42 docs.google.com</li>
+<li class='same'> 06:41 docs.google.com</li>
+<li> 06:32 calendar.google.com</li>
+<li> 06:29 docs.google.com</li>
+<li class='same'> 06:25 docs.google.com</li>
+<li class='same'> 06:24 docs.google.com</li>
+<li> 06:24 calendar.google.com</li>
+<li> 06:18 <a href="https://en.wikipedia.org/wiki/Dumbbell">Dumbbell - Wikipedia</a></li>
+<li> 06:18 duckduckgo.com</li>
+<li> 06:09 docs.google.com</li>
+<li> 06:09 drive.google.com</li>
+<li> 06:09 docs.google.com</li>
+<li class='same'> 06:08 docs.google.com</li>
+<li class='same'> 06:07 docs.google.com</li>
 </ul>
 
 <H3>Friday, 21/03/25</H3>
