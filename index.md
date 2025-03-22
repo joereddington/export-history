@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2601)</li>
+<ol><li>www.google.com (2599)</li>
 <li>outlook.office.com (2005)</li>
 <li>mail.google.com (1889)</li>
 <li>docs.google.com (1574)</li>
@@ -78,13 +78,13 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (857)</li>
 <li>duckduckgo.com (632)</li>
 <li>www.amazon.co.uk (600)</li>
-<li>chatgpt.com (517)</li>
+<li>chatgpt.com (518)</li>
 <li>rhul-my.sharepoint.com (413)</li>
 <li>calendar.google.com (386)</li>
 <li>www.linkedin.com (369)</li>
 <li>github.com (358)</li>
 <li>moodle.royalholloway.ac.uk (355)</li>
-<li>tvtropes.org (290)</li>
+<li>tvtropes.org (291)</li>
 <li>fritz.box (276)</li>
 <li>www.theguardian.com (273)</li>
 <li>login.microsoftonline.com (234)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (208)</li>
 <li>www.coursera.org (202)</li>
 <li>drive.google.com (200)</li>
-<li>chat.openai.com (179)</li>
+<li>chat.openai.com (180)</li>
 <li>rhul.sharepoint.com (168)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (142)</li>
 <li>forms.office.com (134)</li>
@@ -104,11 +104,26 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 22/03/25</H3>
+
+<br>
+
+<ul><li> 06:56 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 06:50 chatgpt.com</li>
+<li> 06:50 chat.openai.com</li>
+</ul>
+
 <H3>Friday, 21/03/25</H3>
 
 <br>
 
-<ul><li> 20:43 www.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:11 tvtropes.org</li>
+<li> 21:11 www.google.com</li>
+<li class='same'> 20:43 www.google.com</li>
 <li class='same'> 20:28 www.google.com</li>
 <li class='same'> 20:27 www.google.com</li>
 </ul>
@@ -19321,23 +19336,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 21:11 www.google.com</li>
-<li> 21:10 www.tripadvisor.ie</li>
+<ul><li> 21:10 www.tripadvisor.ie</li>
 <li> 21:10 plandisney.disney.go.com</li>
 <li> 21:10 www.tripadvisor.co.uk</li>
 <li> 21:09 plandisney.disney.go.com</li>
 <li> 21:09 www.reddit.com</li>
 <li> 21:06 www.google.com</li>
 <li> 21:03 www.easyjet.com</li>
-<li> 21:03 www.google.com</li>
-<li class='same'> 21:02 www.google.com</li>
-<li class='same'> 20:48 www.google.com</li>
+<li> 21:02 www.google.com</li>
 <li class='same'> 20:47 www.google.com</li>
-<li> 20:46 www.google.co.uk</li>
-<li> 20:45 www.google.com</li>
+<li class='same'> 20:45 www.google.com</li>
 <li class='same'> 20:44 www.google.com</li>
-<li> 20:42 www.google.co.uk</li>
-<li class='same'> 20:41 www.google.co.uk</li>
+<li> 20:41 www.google.co.uk</li>
 <li> 20:41 www.google.com</li>
 <li> 20:41 www.leshuttle.com</li>
 <li> 20:41 www.google.com</li>
