@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1589)</li>
 <li>bsky.app (1277)</li>
 <li>outlook.office365.com (1195)</li>
-<li>www.facebook.com (870)</li>
+<li>www.facebook.com (874)</li>
 <li>www.reddit.com (858)</li>
 <li>duckduckgo.com (634)</li>
 <li>www.amazon.co.uk (600)</li>
@@ -85,13 +85,13 @@ With number of accesses/minutes in parentheses
 <li>github.com (358)</li>
 <li>moodle.royalholloway.ac.uk (355)</li>
 <li>tvtropes.org (292)</li>
+<li>www.theguardian.com (277)</li>
 <li>fritz.box (276)</li>
-<li>www.theguardian.com (275)</li>
 <li>login.microsoftonline.com (234)</li>
 <li>gmail.com (228)</li>
 <li>qbo.intuit.com (221)</li>
 <li>feedly.com (217)</li>
-<li>web.whatsapp.com (208)</li>
+<li>web.whatsapp.com (209)</li>
 <li>drive.google.com (203)</li>
 <li>www.coursera.org (202)</li>
 <li>chat.openai.com (182)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:05 www.facebook.com</li>
+<ul><li> 13:16 www.facebook.com</li>
+<li class='same'> 13:15 www.facebook.com</li>
+<li class='same'> 13:14 www.facebook.com</li>
+<li class='same'> 13:13 www.facebook.com</li>
+<li> 13:11 www.theguardian.com</li>
+<li class='same'> 13:10 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:26 web.whatsapp.com</li>
+<li> 07:05 www.facebook.com</li>
 <li> 06:54 duckduckgo.com</li>
 <li> 06:51 www.facebook.com</li>
 <li class='same'> 06:50 www.facebook.com</li>
