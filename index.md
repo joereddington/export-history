@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2604)</li>
-<li>outlook.office.com (2022)</li>
-<li>mail.google.com (1893)</li>
+<ol><li>www.google.com (2605)</li>
+<li>outlook.office.com (2027)</li>
+<li>mail.google.com (1896)</li>
 <li>docs.google.com (1591)</li>
 <li>bsky.app (1278)</li>
-<li>outlook.office365.com (1196)</li>
+<li>outlook.office365.com (1197)</li>
 <li>www.facebook.com (887)</li>
 <li>www.reddit.com (860)</li>
 <li>duckduckgo.com (637)</li>
-<li>www.amazon.co.uk (600)</li>
-<li>chatgpt.com (520)</li>
+<li>www.amazon.co.uk (601)</li>
+<li>chatgpt.com (521)</li>
 <li>rhul-my.sharepoint.com (413)</li>
-<li>calendar.google.com (389)</li>
+<li>calendar.google.com (390)</li>
 <li>github.com (369)</li>
 <li>www.linkedin.com (369)</li>
 <li>moodle.royalholloway.ac.uk (355)</li>
@@ -88,13 +88,13 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (281)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (235)</li>
-<li>gmail.com (228)</li>
+<li>gmail.com (229)</li>
 <li>qbo.intuit.com (221)</li>
 <li>feedly.com (219)</li>
-<li>web.whatsapp.com (210)</li>
+<li>web.whatsapp.com (211)</li>
 <li>drive.google.com (203)</li>
 <li>www.coursera.org (202)</li>
-<li>chat.openai.com (182)</li>
+<li>chat.openai.com (183)</li>
 <li>rhul.sharepoint.com (168)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (145)</li>
 <li>forms.office.com (134)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:31 www.google.co.uk</li>
+<ul><li> 14:00 web.whatsapp.com</li>
+<li> 13:57 outlook.office.com</li>
+<li class='same'> 13:56 outlook.office.com</li>
+<li class='same'> 13:55 outlook.office.com</li>
+<li class='same'> 13:54 outlook.office.com</li>
+<li> 13:54 www.amazon.co.uk</li>
+<li> 13:54 mail.google.com</li>
+<li class='same'> 13:53 mail.google.com</li>
+<li> 13:53 outlook.office.com</li>
+<li> 13:53 outlook.office365.com</li>
+<li> 13:53 mail.google.com</li>
+<li> 13:53 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:12 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:57 calendar.google.com</li>
+<li> 11:47 chatgpt.com</li>
+<li> 11:47 chat.openai.com</li>
+<li> 11:31 www.google.co.uk</li>
 <li> 11:30 10.10.10.136:8880</li>
 <li class='same'> 11:29 10.10.10.136:8880</li>
 <li> 11:08 www.evri.com</li>
