@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2605)</li>
 <li>outlook.office.com (2027)</li>
 <li>mail.google.com (1900)</li>
-<li>docs.google.com (1595)</li>
+<li>docs.google.com (1599)</li>
 <li>bsky.app (1278)</li>
 <li>outlook.office365.com (1197)</li>
-<li>www.facebook.com (887)</li>
+<li>www.facebook.com (888)</li>
 <li>www.reddit.com (860)</li>
-<li>duckduckgo.com (641)</li>
+<li>duckduckgo.com (643)</li>
 <li>www.amazon.co.uk (601)</li>
-<li>chatgpt.com (521)</li>
+<li>chatgpt.com (522)</li>
 <li>rhul-my.sharepoint.com (413)</li>
 <li>calendar.google.com (390)</li>
 <li>github.com (369)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (211)</li>
 <li>drive.google.com (204)</li>
 <li>www.coursera.org (202)</li>
-<li>chat.openai.com (183)</li>
+<li>chat.openai.com (184)</li>
 <li>rhul.sharepoint.com (168)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (145)</li>
 <li>www.tesco.com (135)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:58 www.tesco.com</li>
+<ul><li> 20:27 theskylive.com</li>
+<li> 20:27 duckduckgo.com</li>
+<li> 20:27 <a href="https://en.wikipedia.org/wiki/Jupiter">Jupiter - Wikipedia</a></li>
+<li> 20:26 duckduckgo.com</li>
+<li> 20:26 www.facebook.com</li>
+<li> 20:17 chatgpt.com</li>
+<li> 20:17 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:02 docs.google.com</li>
+<li class='same'> 18:01 docs.google.com</li>
+<li class='same'> 18:00 docs.google.com</li>
+<li class='same'> 17:59 docs.google.com</li>
+<li> 17:58 www.tesco.com</li>
 <li> 17:58 duckduckgo.com</li>
 <li> 17:48 docs.google.com</li>
 <li class='same'> 17:47 docs.google.com</li>
