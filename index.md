@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (369)</li>
 <li>moodle.royalholloway.ac.uk (355)</li>
 <li>tvtropes.org (292)</li>
-<li>www.theguardian.com (280)</li>
+<li>www.theguardian.com (281)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (235)</li>
 <li>gmail.com (228)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:18 www.theguardian.com</li>
+<ul><li> 11:31 www.google.co.uk</li>
+<li> 11:30 10.10.10.136:8880</li>
+<li class='same'> 11:29 10.10.10.136:8880</li>
+<li> 11:08 www.evri.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:19 www.theguardian.com</li>
+<li class='same'> 09:18 www.theguardian.com</li>
 </ul>
 
 <br>
