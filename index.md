@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2605)</li>
 <li>outlook.office.com (2027)</li>
-<li>mail.google.com (1896)</li>
-<li>docs.google.com (1591)</li>
+<li>mail.google.com (1900)</li>
+<li>docs.google.com (1595)</li>
 <li>bsky.app (1278)</li>
 <li>outlook.office365.com (1197)</li>
 <li>www.facebook.com (887)</li>
 <li>www.reddit.com (860)</li>
-<li>duckduckgo.com (637)</li>
+<li>duckduckgo.com (641)</li>
 <li>www.amazon.co.uk (601)</li>
 <li>chatgpt.com (521)</li>
 <li>rhul-my.sharepoint.com (413)</li>
@@ -88,16 +88,16 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (281)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (235)</li>
-<li>gmail.com (229)</li>
+<li>gmail.com (230)</li>
 <li>qbo.intuit.com (221)</li>
 <li>feedly.com (219)</li>
 <li>web.whatsapp.com (211)</li>
-<li>drive.google.com (203)</li>
+<li>drive.google.com (204)</li>
 <li>www.coursera.org (202)</li>
 <li>chat.openai.com (183)</li>
 <li>rhul.sharepoint.com (168)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (145)</li>
-<li>forms.office.com (134)</li>
+<li>www.tesco.com (135)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:00 web.whatsapp.com</li>
+<ul><li> 17:58 www.tesco.com</li>
+<li> 17:58 duckduckgo.com</li>
+<li> 17:48 docs.google.com</li>
+<li class='same'> 17:47 docs.google.com</li>
+<li> 17:46 www.lastpass.com</li>
+<li> 17:46 duckduckgo.com</li>
+<li> 17:44 www.saltogym.org</li>
+<li> 17:44 duckduckgo.com</li>
+<li> 17:43 docs.google.com</li>
+<li class='same'> 17:41 docs.google.com</li>
+<li> 17:41 drive.google.com</li>
+<li> 17:41 duckduckgo.com</li>
+<li> 17:40 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:52 mail.google.com</li>
+<li> 14:51 www.projectreal.co.uk</li>
+<li> 14:51 mail.google.com</li>
+<li class='same'> 14:50 mail.google.com</li>
+<li> 14:50 gmail.com</li>
+<li> 14:20 127.0.0.1:4000</li>
+<li class='same'> 14:18 127.0.0.1:4000</li>
+<li> 14:00 web.whatsapp.com</li>
 <li> 13:57 outlook.office.com</li>
 <li class='same'> 13:56 outlook.office.com</li>
 <li class='same'> 13:55 outlook.office.com</li>
