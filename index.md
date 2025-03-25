@@ -70,29 +70,29 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2611)</li>
 <li>outlook.office.com (2038)</li>
-<li>mail.google.com (1915)</li>
+<li>mail.google.com (1921)</li>
 <li>docs.google.com (1600)</li>
-<li>bsky.app (1283)</li>
+<li>bsky.app (1285)</li>
 <li>outlook.office365.com (1198)</li>
 <li>www.facebook.com (915)</li>
-<li>www.reddit.com (862)</li>
-<li>duckduckgo.com (644)</li>
+<li>www.reddit.com (864)</li>
+<li>duckduckgo.com (647)</li>
 <li>www.amazon.co.uk (603)</li>
 <li>chatgpt.com (525)</li>
 <li>rhul-my.sharepoint.com (414)</li>
 <li>calendar.google.com (396)</li>
-<li>www.linkedin.com (373)</li>
+<li>www.linkedin.com (374)</li>
 <li>github.com (369)</li>
 <li>moodle.royalholloway.ac.uk (355)</li>
 <li>tvtropes.org (292)</li>
 <li>www.theguardian.com (284)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (235)</li>
-<li>gmail.com (234)</li>
+<li>gmail.com (235)</li>
 <li>qbo.intuit.com (221)</li>
 <li>feedly.com (219)</li>
 <li>web.whatsapp.com (216)</li>
-<li>drive.google.com (205)</li>
+<li>drive.google.com (206)</li>
 <li>www.coursera.org (202)</li>
 <li>chat.openai.com (186)</li>
 <li>rhul.sharepoint.com (168)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:29 bsky.app</li>
+<ul><li> 13:28 sport.herts.ac.uk</li>
+<li class='same'> 13:27 sport.herts.ac.uk</li>
+<li> 13:27 duckduckgo.com</li>
+<li> 13:27 mail.google.com</li>
+<li> 13:27 www.google.co.uk</li>
+<li class='same'> 13:26 www.google.co.uk</li>
+<li class='same'> 13:25 www.google.co.uk</li>
+<li> 13:25 duckduckgo.com</li>
+<li> 13:24 www.herts.ac.uk</li>
+<li> 13:24 duckduckgo.com</li>
+<li> 13:23 mail.google.com</li>
+<li class='same'> 13:22 mail.google.com</li>
+<li> 13:22 e-eu.customeriomail.com</li>
+<li> 13:22 mail.google.com</li>
+<li class='same'> 13:19 mail.google.com</li>
+<li class='same'> 13:16 mail.google.com</li>
+<li> 13:16 gmail.com</li>
+<li> 13:06 www.reddit.com</li>
+<li class='same'> 13:05 www.reddit.com</li>
+<li> 12:38 drive.google.com</li>
+<li> 12:31 www.linkedin.com</li>
+<li> 12:31 bsky.app</li>
+<li class='same'> 12:30 bsky.app</li>
+<li class='same'> 12:29 bsky.app</li>
 <li> 12:29 www.facebook.com</li>
 <li> 12:28 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 12:21 www.tesco.com</li>
