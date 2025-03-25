@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1599)</li>
 <li>bsky.app (1278)</li>
 <li>outlook.office365.com (1197)</li>
-<li>www.facebook.com (888)</li>
+<li>www.facebook.com (899)</li>
 <li>www.reddit.com (860)</li>
 <li>duckduckgo.com (643)</li>
 <li>www.amazon.co.uk (601)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (230)</li>
 <li>qbo.intuit.com (221)</li>
 <li>feedly.com (219)</li>
-<li>web.whatsapp.com (211)</li>
+<li>web.whatsapp.com (212)</li>
 <li>drive.google.com (204)</li>
 <li>www.coursera.org (202)</li>
 <li>chat.openai.com (184)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:27 theskylive.com</li>
+<ul><li> 21:50 www.facebook.com</li>
+<li class='same'> 21:47 www.facebook.com</li>
+<li class='same'> 21:42 www.facebook.com</li>
+<li class='same'> 21:41 www.facebook.com</li>
+<li class='same'> 21:40 www.facebook.com</li>
+<li class='same'> 21:39 www.facebook.com</li>
+<li class='same'> 21:37 www.facebook.com</li>
+<li class='same'> 21:35 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:34 www.facebook.com</li>
+<li class='same'> 20:33 www.facebook.com</li>
+<li> 20:32 web.whatsapp.com</li>
+<li> 20:30 www.facebook.com</li>
+<li> 20:27 theskylive.com</li>
 <li> 20:27 duckduckgo.com</li>
 <li> 20:27 <a href="https://en.wikipedia.org/wiki/Jupiter">Jupiter - Wikipedia</a></li>
 <li> 20:26 duckduckgo.com</li>
