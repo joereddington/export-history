@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2611)</li>
 <li>outlook.office.com (2038)</li>
-<li>mail.google.com (1921)</li>
+<li>mail.google.com (1922)</li>
 <li>docs.google.com (1600)</li>
 <li>bsky.app (1285)</li>
 <li>outlook.office365.com (1198)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (369)</li>
 <li>moodle.royalholloway.ac.uk (355)</li>
 <li>tvtropes.org (292)</li>
-<li>www.theguardian.com (284)</li>
+<li>www.theguardian.com (287)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (235)</li>
 <li>gmail.com (235)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:28 sport.herts.ac.uk</li>
+<ul><li> 15:11 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:56 www.theguardian.com</li>
+<li class='same'> 13:55 www.theguardian.com</li>
+<li> 13:28 sport.herts.ac.uk</li>
 <li class='same'> 13:27 sport.herts.ac.uk</li>
 <li> 13:27 duckduckgo.com</li>
 <li> 13:27 mail.google.com</li>
@@ -282,7 +289,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 20:34 www.facebook.com</li>
+<ul><li> 20:41 ninathaimassages.com</li>
+<li> 20:34 www.facebook.com</li>
 <li class='same'> 20:33 www.facebook.com</li>
 <li> 20:32 web.whatsapp.com</li>
 <li> 20:30 www.facebook.com</li>
@@ -341,7 +349,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:12 www.google.com</li>
+<ul><li> 13:13 ninathaimassages.com</li>
+<li> 13:12 www.google.com</li>
 </ul>
 
 <br>
@@ -38610,7 +38619,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:53 mail.google.com</li>
+<ul><li> 21:55 mail.google.com</li>
+<li class='same'> 21:53 mail.google.com</li>
 <li> 21:49 24timezones.com</li>
 <li class='same'> 21:45 24timezones.com</li>
 <li> 21:33 mail.google.com</li>
@@ -41198,6 +41208,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:38 docs.google.com</li>
+<li> 12:33 kdp.amazon.com</li>
 </ul>
 
 <br>
@@ -42931,6 +42942,17 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 05:56 www.paypal.com</li>
 <li> 05:55 www.explainxkcd.com</li>
+</ul>
+
+<H3>Friday, 16/06/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 15:36 kdp.amazon.com</li>
 </ul>
 
 <H3>Thursday, 15/06/23</H3>
