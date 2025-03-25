@@ -72,15 +72,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2038)</li>
 <li>mail.google.com (1915)</li>
 <li>docs.google.com (1600)</li>
-<li>bsky.app (1282)</li>
+<li>bsky.app (1283)</li>
 <li>outlook.office365.com (1198)</li>
-<li>www.facebook.com (914)</li>
+<li>www.facebook.com (915)</li>
 <li>www.reddit.com (862)</li>
 <li>duckduckgo.com (644)</li>
-<li>www.amazon.co.uk (602)</li>
+<li>www.amazon.co.uk (603)</li>
 <li>chatgpt.com (525)</li>
 <li>rhul-my.sharepoint.com (414)</li>
-<li>calendar.google.com (394)</li>
+<li>calendar.google.com (396)</li>
 <li>www.linkedin.com (373)</li>
 <li>github.com (369)</li>
 <li>moodle.royalholloway.ac.uk (355)</li>
@@ -91,13 +91,13 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (234)</li>
 <li>qbo.intuit.com (221)</li>
 <li>feedly.com (219)</li>
-<li>web.whatsapp.com (215)</li>
+<li>web.whatsapp.com (216)</li>
 <li>drive.google.com (205)</li>
 <li>www.coursera.org (202)</li>
 <li>chat.openai.com (186)</li>
 <li>rhul.sharepoint.com (168)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (146)</li>
-<li>www.tesco.com (135)</li>
+<li>www.tesco.com (136)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 25/03/25</H3>
+
+<br>
+
+<ul><li> 12:29 bsky.app</li>
+<li> 12:29 www.facebook.com</li>
+<li> 12:28 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 12:21 www.tesco.com</li>
+<li> 12:21 www.ebay.co.uk</li>
+<li class='same'> 12:20 www.ebay.co.uk</li>
+<li> 12:20 www.amazon.co.uk</li>
+<li> 12:17 web.whatsapp.com</li>
+<li> 12:15 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 12:15 calendar.google.com</li>
+<li class='same'> 12:14 calendar.google.com</li>
+</ul>
 
 <br>
 
