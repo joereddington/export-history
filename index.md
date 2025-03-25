@@ -69,34 +69,34 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2611)</li>
-<li>outlook.office.com (2037)</li>
-<li>mail.google.com (1910)</li>
+<li>outlook.office.com (2038)</li>
+<li>mail.google.com (1915)</li>
 <li>docs.google.com (1600)</li>
-<li>bsky.app (1279)</li>
+<li>bsky.app (1282)</li>
 <li>outlook.office365.com (1198)</li>
 <li>www.facebook.com (914)</li>
 <li>www.reddit.com (862)</li>
-<li>duckduckgo.com (643)</li>
-<li>www.amazon.co.uk (601)</li>
-<li>chatgpt.com (522)</li>
+<li>duckduckgo.com (644)</li>
+<li>www.amazon.co.uk (602)</li>
+<li>chatgpt.com (525)</li>
 <li>rhul-my.sharepoint.com (414)</li>
 <li>calendar.google.com (394)</li>
 <li>www.linkedin.com (373)</li>
 <li>github.com (369)</li>
 <li>moodle.royalholloway.ac.uk (355)</li>
 <li>tvtropes.org (292)</li>
-<li>www.theguardian.com (283)</li>
+<li>www.theguardian.com (284)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (235)</li>
-<li>gmail.com (232)</li>
+<li>gmail.com (234)</li>
 <li>qbo.intuit.com (221)</li>
 <li>feedly.com (219)</li>
-<li>web.whatsapp.com (214)</li>
+<li>web.whatsapp.com (215)</li>
 <li>drive.google.com (205)</li>
 <li>www.coursera.org (202)</li>
-<li>chat.openai.com (184)</li>
+<li>chat.openai.com (186)</li>
 <li>rhul.sharepoint.com (168)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (145)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (146)</li>
 <li>www.tesco.com (135)</li>
 
 
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:30 bsky.app</li>
+<ul><li> 11:29 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 11:29 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 11:29 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:10 chatgpt.com</li>
+<li class='same'> 11:09 chatgpt.com</li>
+<li> 11:09 chat.openai.com</li>
+<li> 11:09 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 11:08 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 11:07 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 11:06 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 10:58 gitlab.cim.rhul.ac.uk</li>
+<li> 10:56 chatgpt.com</li>
+<li> 10:56 chat.openai.com</li>
+<li> 10:48 <a href="https://en.wikipedia.org/wiki/Little_Simz">Little Simz - Wikipedia</a></li>
+<li> 10:48 duckduckgo.com</li>
+<li> 10:45 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 10:45 www.amazon.co.uk</li>
+<li> 10:44 www.theguardian.com</li>
+<li> 10:44 mail.google.com</li>
+<li class='same'> 10:43 mail.google.com</li>
+<li> 10:43 gmail.com</li>
+<li> 10:42 outlook.office.com</li>
+<li> 10:41 mail.google.com</li>
+<li> 10:41 in.xero.com</li>
+<li> 10:39 kdpreports.amazon.com</li>
+<li> 10:39 kdp.amazon.com</li>
+<li> 10:39 mail.google.com</li>
+<li> 10:37 web.whatsapp.com</li>
+<li> 10:34 mail.google.com</li>
+<li> 10:34 gmail.com</li>
+<li> 10:34 bsky.app</li>
+<li class='same'> 10:32 bsky.app</li>
+<li class='same'> 10:31 bsky.app</li>
+<li class='same'> 10:30 bsky.app</li>
 <li> 10:28 www.linkedin.com</li>
 <li class='same'> 10:27 www.linkedin.com</li>
 <li> 10:27 www.facebook.com</li>
@@ -34344,7 +34377,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:12 gitlab.cim.rhul.ac.uk</li>
+<ul><li> 13:18 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:12 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:08 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:07 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:06 gitlab.cim.rhul.ac.uk</li>
@@ -36943,6 +36977,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:18 rhul.sharepoint.com</li>
 <li class='same'> 13:17 rhul.sharepoint.com</li>
 <li> 13:07 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 13:06 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:00 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 12:57 gitlab.cim.rhul.ac.uk</li>
 <li> 12:48 mail.google.com</li>
