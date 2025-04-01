@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2649)</li>
-<li>outlook.office.com (2129)</li>
-<li>mail.google.com (2012)</li>
-<li>docs.google.com (1673)</li>
-<li>bsky.app (1308)</li>
-<li>outlook.office365.com (1218)</li>
-<li>www.reddit.com (927)</li>
-<li>www.facebook.com (925)</li>
-<li>duckduckgo.com (720)</li>
+<ol><li>www.google.com (2650)</li>
+<li>outlook.office.com (2136)</li>
+<li>mail.google.com (2019)</li>
+<li>docs.google.com (1674)</li>
+<li>bsky.app (1311)</li>
+<li>outlook.office365.com (1219)</li>
+<li>www.facebook.com (931)</li>
+<li>www.reddit.com (929)</li>
+<li>duckduckgo.com (724)</li>
 <li>www.amazon.co.uk (625)</li>
-<li>chatgpt.com (557)</li>
-<li>calendar.google.com (433)</li>
-<li>rhul-my.sharepoint.com (420)</li>
-<li>www.linkedin.com (379)</li>
-<li>github.com (374)</li>
+<li>chatgpt.com (561)</li>
+<li>calendar.google.com (434)</li>
+<li>rhul-my.sharepoint.com (423)</li>
+<li>www.linkedin.com (381)</li>
+<li>github.com (375)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
-<li>www.theguardian.com (340)</li>
+<li>www.theguardian.com (341)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (257)</li>
+<li>gmail.com (258)</li>
 <li>login.microsoftonline.com (253)</li>
 <li>web.whatsapp.com (236)</li>
 <li>feedly.com (229)</li>
 <li>qbo.intuit.com (225)</li>
 <li>drive.google.com (219)</li>
 <li>www.coursera.org (205)</li>
-<li>chat.openai.com (195)</li>
+<li>chat.openai.com (196)</li>
 <li>rhul.sharepoint.com (170)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (156)</li>
 <li>www.tesco.com (139)</li>
@@ -108,7 +108,57 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:41 www.facebook.com</li>
+<ul><li> 13:42 chatgpt.com</li>
+<li> 13:40 mtrajk.github.io</li>
+<li> 13:40 github.com</li>
+<li> 13:39 duckduckgo.com</li>
+<li> 13:39 <a href="https://www.youtube.com/watch?v=PSUF8mAoTdg">(299) Disinformation Animation - YouTube</a></li>
+<li> 13:39 duckduckgo.com</li>
+<li> 13:38 chatgpt.com</li>
+<li> 13:38 outlook.office.com</li>
+<li> 13:36 chatgpt.com</li>
+<li> 13:35 www.facebook.com</li>
+<li class='same'> 13:34 www.facebook.com</li>
+<li class='same'> 13:33 www.facebook.com</li>
+<li class='same'> 13:32 www.facebook.com</li>
+<li> 13:30 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 13:29 docs.google.com</li>
+<li> 13:29 outlook.office.com</li>
+<li> 13:28 duckduckgo.com</li>
+<li class='same'> 13:27 duckduckgo.com</li>
+<li> 13:27 outlook.office.com</li>
+<li> 13:27 rhul-my.sharepoint.com</li>
+<li> 13:27 outlook.office.com</li>
+<li> 13:23 www.facebook.com</li>
+<li> 13:20 outlook.office.com</li>
+<li> 13:20 outlook.office365.com</li>
+<li> 13:20 outlook.office.com</li>
+<li> 13:19 gitlab.cim.rhul.ac.uk</li>
+<li> 13:17 rhul-my.sharepoint.com</li>
+<li class='same'> 13:16 rhul-my.sharepoint.com</li>
+<li> 13:15 chatgpt.com</li>
+<li> 13:15 chat.openai.com</li>
+<li> 13:14 mail.google.com</li>
+<li> 13:13 bsky.app</li>
+<li class='same'> 13:12 bsky.app</li>
+<li class='same'> 13:11 bsky.app</li>
+<li> 13:10 www.linkedin.com</li>
+<li> 13:06 www.reddit.com</li>
+<li> 13:05 mail.google.com</li>
+<li> 13:05 www.linkedin.com</li>
+<li> 13:05 mail.google.com</li>
+<li class='same'> 13:04 mail.google.com</li>
+<li> 13:04 calendar.google.com</li>
+<li> 13:04 mail.google.com</li>
+<li> 13:01 www.reddit.com</li>
+<li> 13:01 mail.google.com</li>
+<li class='same'> 13:00 mail.google.com</li>
+<li> 13:00 gmail.com</li>
+<li> 13:00 outlook.office.com</li>
+<li> 12:59 www.facebook.com</li>
+<li> 12:55 www.theguardian.com</li>
+<li> 12:45 www.google.com</li>
+<li> 12:41 www.facebook.com</li>
 <li> 12:41 outlook.office.com</li>
 <li class='same'> 12:40 outlook.office.com</li>
 <li> 12:37 www.coursera.org</li>
