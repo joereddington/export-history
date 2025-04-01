@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:23 chatgpt.com</li>
+<ul><li> 09:42 fast.com</li>
+<li class='same'> 09:41 fast.com</li>
+<li class='same'> 09:34 fast.com</li>
+<li class='same'> 09:33 fast.com</li>
+<li> 09:32 www.ebay.co.uk</li>
+<li> 09:31 adblockplus.org</li>
+<li> 09:30 fast.com</li>
+<li> 09:23 chatgpt.com</li>
 <li> 09:23 www.ebay.co.uk</li>
 <li> 09:22 chatgpt.com</li>
 <li> 09:22 chat.openai.com</li>
