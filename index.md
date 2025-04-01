@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2660)</li>
+<ol><li>www.google.com (2661)</li>
 <li>outlook.office.com (2148)</li>
 <li>mail.google.com (2019)</li>
-<li>docs.google.com (1676)</li>
-<li>bsky.app (1327)</li>
+<li>docs.google.com (1677)</li>
+<li>bsky.app (1328)</li>
 <li>outlook.office365.com (1221)</li>
-<li>www.facebook.com (955)</li>
+<li>www.facebook.com (956)</li>
 <li>www.reddit.com (932)</li>
 <li>duckduckgo.com (731)</li>
 <li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (561)</li>
 <li>calendar.google.com (435)</li>
 <li>rhul-my.sharepoint.com (425)</li>
-<li>www.linkedin.com (383)</li>
+<li>www.linkedin.com (384)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
-<li>www.theguardian.com (349)</li>
+<li>www.theguardian.com (352)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (258)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:32 www.facebook.com</li>
+<ul><li> 20:43 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:37 www.linkedin.com</li>
+<li> 19:36 docs.google.com</li>
+<li> 19:35 www.theguardian.com</li>
+<li> 19:35 bsky.app</li>
+<li> 19:35 <a href="https://en.wikipedia.org/wiki/Ghillie_suit">Ghillie suit - Wikipedia</a></li>
+<li> 19:34 <a href="https://en.wikipedia.org/wiki/Sal_Maida">Sal Maida - Wikipedia</a></li>
+<li> 19:34 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 19:33 www.facebook.com</li>
+<li class='same'> 19:32 www.facebook.com</li>
 <li> 19:30 bsky.app</li>
 <li class='same'> 19:29 bsky.app</li>
 <li> 19:28 <a href="https://en.wikipedia.org/wiki/Suzan_Palumbo">Suzan Palumbo - Wikipedia</a></li>
@@ -132,7 +145,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:33 www.theguardian.com</li>
+<ul><li> 18:34 www.google.com</li>
+<li> 18:34 www.theguardian.com</li>
+<li class='same'> 18:33 www.theguardian.com</li>
 <li> 18:28 www.facebook.com</li>
 <li class='same'> 18:26 www.facebook.com</li>
 <li class='same'> 18:25 www.facebook.com</li>
