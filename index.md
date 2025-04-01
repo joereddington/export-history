@@ -72,10 +72,10 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2148)</li>
 <li>mail.google.com (2019)</li>
 <li>docs.google.com (1677)</li>
-<li>bsky.app (1328)</li>
+<li>bsky.app (1334)</li>
 <li>outlook.office365.com (1221)</li>
-<li>www.facebook.com (956)</li>
-<li>www.reddit.com (932)</li>
+<li>www.facebook.com (984)</li>
+<li>www.reddit.com (933)</li>
 <li>duckduckgo.com (731)</li>
 <li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (561)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:43 www.theguardian.com</li>
+<ul><li> 21:53 www.facebook.com</li>
+<li class='same'> 21:52 www.facebook.com</li>
+<li class='same'> 21:51 www.facebook.com</li>
+<li class='same'> 21:50 www.facebook.com</li>
+<li class='same'> 21:49 www.facebook.com</li>
+<li class='same'> 21:47 www.facebook.com</li>
+<li class='same'> 21:46 www.facebook.com</li>
+<li class='same'> 21:45 www.facebook.com</li>
+<li class='same'> 21:44 www.facebook.com</li>
+<li class='same'> 21:43 www.facebook.com</li>
+<li class='same'> 21:42 www.facebook.com</li>
+<li class='same'> 21:41 www.facebook.com</li>
+<li class='same'> 21:40 www.facebook.com</li>
+<li class='same'> 21:39 www.facebook.com</li>
+<li class='same'> 21:38 www.facebook.com</li>
+<li class='same'> 21:37 www.facebook.com</li>
+<li class='same'> 21:36 www.facebook.com</li>
+<li class='same'> 21:35 www.facebook.com</li>
+<li class='same'> 21:34 www.facebook.com</li>
+<li class='same'> 21:33 www.facebook.com</li>
+<li class='same'> 21:32 www.facebook.com</li>
+<li class='same'> 21:31 www.facebook.com</li>
+<li class='same'> 21:30 www.facebook.com</li>
+<li class='same'> 21:29 www.facebook.com</li>
+<li class='same'> 21:27 www.facebook.com</li>
+<li> 21:26 qmucu.org</li>
+<li> 21:21 royalhollowayucu.wordpress.com</li>
+<li> 21:21 go.bsky.app</li>
+<li> 21:20 bsky.app</li>
+<li class='same'> 21:17 bsky.app</li>
+<li class='same'> 21:12 bsky.app</li>
+<li class='same'> 21:10 bsky.app</li>
+<li class='same'> 21:07 bsky.app</li>
+<li class='same'> 21:06 bsky.app</li>
+<li> 21:06 www.facebook.com</li>
+<li class='same'> 21:03 www.facebook.com</li>
+<li class='same'> 21:02 www.facebook.com</li>
+<li> 20:59 www.reddit.com</li>
+<li> 20:43 www.theguardian.com</li>
 </ul>
 
 <br>
