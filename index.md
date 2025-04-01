@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2648)</li>
-<li>outlook.office.com (2112)</li>
+<ol><li>www.google.com (2649)</li>
+<li>outlook.office.com (2129)</li>
 <li>mail.google.com (2012)</li>
-<li>docs.google.com (1672)</li>
+<li>docs.google.com (1673)</li>
 <li>bsky.app (1308)</li>
 <li>outlook.office365.com (1218)</li>
 <li>www.reddit.com (927)</li>
-<li>www.facebook.com (924)</li>
-<li>duckduckgo.com (717)</li>
+<li>www.facebook.com (925)</li>
+<li>duckduckgo.com (720)</li>
 <li>www.amazon.co.uk (625)</li>
-<li>chatgpt.com (555)</li>
+<li>chatgpt.com (557)</li>
 <li>calendar.google.com (433)</li>
 <li>rhul-my.sharepoint.com (420)</li>
-<li>www.linkedin.com (376)</li>
+<li>www.linkedin.com (379)</li>
 <li>github.com (374)</li>
-<li>moodle.royalholloway.ac.uk (357)</li>
+<li>moodle.royalholloway.ac.uk (360)</li>
 <li>www.theguardian.com (340)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (257)</li>
-<li>login.microsoftonline.com (251)</li>
-<li>web.whatsapp.com (235)</li>
+<li>login.microsoftonline.com (253)</li>
+<li>web.whatsapp.com (236)</li>
 <li>feedly.com (229)</li>
 <li>qbo.intuit.com (225)</li>
 <li>drive.google.com (219)</li>
-<li>www.coursera.org (204)</li>
+<li>www.coursera.org (205)</li>
 <li>chat.openai.com (195)</li>
 <li>rhul.sharepoint.com (170)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (156)</li>
@@ -108,7 +108,51 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:48 outlook.office.com</li>
+<ul><li> 12:41 www.facebook.com</li>
+<li> 12:41 outlook.office.com</li>
+<li class='same'> 12:40 outlook.office.com</li>
+<li> 12:37 www.coursera.org</li>
+<li> 12:37 outlook.office.com</li>
+<li class='same'> 12:36 outlook.office.com</li>
+<li class='same'> 12:35 outlook.office.com</li>
+<li class='same'> 12:34 outlook.office.com</li>
+<li class='same'> 12:30 outlook.office.com</li>
+<li class='same'> 12:29 outlook.office.com</li>
+<li> 12:28 orcid.org</li>
+<li> 12:28 outlook.office.com</li>
+<li> 12:28 orcid.org</li>
+<li class='same'> 12:27 orcid.org</li>
+<li> 12:27 duckduckgo.com</li>
+<li> 12:27 outlook.office.com</li>
+<li> 12:17 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 12:12 docs.google.com</li>
+<li> 12:12 outlook.office.com</li>
+<li class='same'> 12:10 outlook.office.com</li>
+<li> 12:09 duckduckgo.com</li>
+<li> 12:08 chatgpt.com</li>
+<li> 12:05 outlook.office.com</li>
+<li class='same'> 12:04 outlook.office.com</li>
+<li> 12:02 toruniversity.eff.org</li>
+<li> 12:02 scholar.google.com</li>
+<li> 12:02 www.linkedin.com</li>
+<li class='same'> 12:01 www.linkedin.com</li>
+<li> 12:01 scholar.google.com</li>
+<li> 12:00 www.linkedin.com</li>
+<li> 12:00 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:59 moodle.royalholloway.ac.uk</li>
+<li> 11:59 login.microsoftonline.com</li>
+<li> 11:59 moodle.royalholloway.ac.uk</li>
+<li> 11:59 login.microsoftonline.com</li>
+<li> 11:59 outlook.office.com</li>
+<li> 11:55 web.whatsapp.com</li>
+<li> 11:55 scholar.google.co.uk</li>
+<li> 11:55 duckduckgo.com</li>
+<li> 11:55 orcid.org</li>
+<li class='same'> 11:54 orcid.org</li>
+<li> 11:54 chatgpt.com</li>
+<li> 11:54 outlook.office.com</li>
+<li class='same'> 11:53 outlook.office.com</li>
+<li class='same'> 11:48 outlook.office.com</li>
 <li class='same'> 11:45 outlook.office.com</li>
 <li class='same'> 11:44 outlook.office.com</li>
 <li class='same'> 11:37 outlook.office.com</li>
@@ -154,7 +198,8 @@ With number of accesses/minutes in parentheses
 <li> 11:09 mail.google.com</li>
 <li class='same'> 11:08 mail.google.com</li>
 <li> 11:08 gmail.com</li>
-<li> 11:06 www.google.com</li>
+<li> 11:07 www.google.com</li>
+<li class='same'> 11:06 www.google.com</li>
 <li> 11:06 www.theguardian.com</li>
 <li> 11:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 11:05 outlook.office.com</li>
