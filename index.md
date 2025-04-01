@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2650)</li>
+<ol><li>www.google.com (2659)</li>
 <li>outlook.office.com (2143)</li>
 <li>mail.google.com (2019)</li>
 <li>docs.google.com (1674)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (381)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
-<li>www.theguardian.com (346)</li>
+<li>www.theguardian.com (348)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (258)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:19 www.theguardian.com</li>
+<ul><li> 16:09 www.google.com</li>
+<li class='same'> 16:03 www.google.com</li>
+<li> 16:03 www.theguardian.com</li>
+<li> 16:03 www.google.com</li>
+<li class='same'> 16:02 www.google.com</li>
+<li> 16:02 www.lutontoday.co.uk</li>
+<li> 16:02 www.google.com</li>
+<li> 16:02 www.beds.police.uk</li>
+<li> 16:01 www.google.com</li>
+<li> 16:01 www.beds.police.uk</li>
+<li> 16:01 www.google.com</li>
+<li> 16:01 www.itv.com</li>
+<li> 16:00 www.google.com</li>
+<li> 16:00 <a href="https://www.bbc.co.uk/news/uk-england-leeds-57517773.amp">Paul Shepherd: Ex-footballer guilty of drugs and gun offences - BBC News</a></li>
+<li> 16:00 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:20 www.theguardian.com</li>
+<li class='same'> 15:19 www.theguardian.com</li>
 <li> 14:58 bsky.app</li>
 <li> 14:57 www.habitatforhumanity.org.uk</li>
 <li> 14:57 duckduckgo.com</li>
