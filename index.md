@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2148)</li>
 <li>mail.google.com (2019)</li>
 <li>docs.google.com (1676)</li>
-<li>bsky.app (1320)</li>
+<li>bsky.app (1327)</li>
 <li>outlook.office365.com (1221)</li>
-<li>www.facebook.com (951)</li>
+<li>www.facebook.com (955)</li>
 <li>www.reddit.com (932)</li>
-<li>duckduckgo.com (729)</li>
-<li>www.amazon.co.uk (625)</li>
+<li>duckduckgo.com (731)</li>
+<li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (561)</li>
 <li>calendar.google.com (435)</li>
 <li>rhul-my.sharepoint.com (425)</li>
@@ -108,8 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 19:32 www.facebook.com</li>
+<li> 19:30 bsky.app</li>
+<li class='same'> 19:29 bsky.app</li>
+<li> 19:28 <a href="https://en.wikipedia.org/wiki/Suzan_Palumbo">Suzan Palumbo - Wikipedia</a></li>
+<li> 19:28 duckduckgo.com</li>
+<li> 19:27 open-book.ca</li>
+<li> 19:27 duckduckgo.com</li>
+<li> 19:26 bsky.app</li>
+<li> 19:26 www.amazon.co.uk</li>
+<li> 19:24 bsky.app</li>
+<li> 19:24 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Nbreznau">User contributions for Nbreznau - Wikipedia</a></li>
+<li> 19:23 <a href="https://en.wikipedia.org/w/index.php?title=Questionable_research_practices&oldid=1283170954">Questionable research practices - Wikipedia</a></li>
+<li> 19:23 <a href="https://en.wikipedia.org/w/index.php?title=Questionable_research_practices&action=history">Questionable research practices: Revision history - Wikipedia</a></li>
+<li> 19:23 <a href="https://en.wikipedia.org/w/index.php?title=Questionable_research_practices&redirect=no">Questionable research practices - Wikipedia</a></li>
+<li> 19:23 go.bsky.app</li>
+<li> 19:23 <a href="https://en.wikipedia.org/wiki/Research#Research_ethics">Research - Wikipedia</a></li>
+<li> 19:23 <a href="https://en.wikipedia.org/wiki/Questionable_research_practices">Research - Wikipedia</a></li>
+<li> 19:22 bsky.app</li>
+<li class='same'> 19:21 bsky.app</li>
+<li class='same'> 19:19 bsky.app</li>
+</ul>
+
+<br>
+
 <ul><li> 18:33 www.theguardian.com</li>
-<li> 18:22 www.facebook.com</li>
+<li> 18:28 www.facebook.com</li>
+<li class='same'> 18:26 www.facebook.com</li>
+<li class='same'> 18:25 www.facebook.com</li>
+<li class='same'> 18:22 www.facebook.com</li>
 <li class='same'> 18:21 www.facebook.com</li>
 <li class='same'> 18:20 www.facebook.com</li>
 <li> 17:55 <a href="https://www.youtube.com/watch?v=aP-qKaig84M">(300) Bluey FULL Episodes Seasons 1 - 3 💙 | Featuring Dad Baby, Faceytalk and more! | 2 HOURS | Bluey - YouTube</a></li>
