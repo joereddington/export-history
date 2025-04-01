@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2659)</li>
-<li>outlook.office.com (2143)</li>
+<li>outlook.office.com (2148)</li>
 <li>mail.google.com (2019)</li>
-<li>docs.google.com (1674)</li>
-<li>bsky.app (1317)</li>
-<li>outlook.office365.com (1220)</li>
-<li>www.facebook.com (933)</li>
-<li>www.reddit.com (929)</li>
+<li>docs.google.com (1676)</li>
+<li>bsky.app (1320)</li>
+<li>outlook.office365.com (1221)</li>
+<li>www.facebook.com (943)</li>
+<li>www.reddit.com (932)</li>
 <li>duckduckgo.com (729)</li>
 <li>www.amazon.co.uk (625)</li>
 <li>chatgpt.com (561)</li>
-<li>calendar.google.com (434)</li>
+<li>calendar.google.com (435)</li>
 <li>rhul-my.sharepoint.com (425)</li>
-<li>www.linkedin.com (381)</li>
+<li>www.linkedin.com (383)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
 <li>www.theguardian.com (348)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (276)</li>
 <li>gmail.com (258)</li>
 <li>login.microsoftonline.com (253)</li>
-<li>web.whatsapp.com (237)</li>
+<li>web.whatsapp.com (238)</li>
 <li>feedly.com (229)</li>
 <li>qbo.intuit.com (225)</li>
 <li>drive.google.com (219)</li>
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 01/04/25</H3>
+
+<br>
+
+<ul><li> 17:44 bsky.app</li>
+<li> 17:33 www.linkedin.com</li>
+<li> 17:32 www.reddit.com</li>
+<li> 17:30 calendar.google.com</li>
+<li> 17:27 www.reddit.com</li>
+<li class='same'> 17:26 www.reddit.com</li>
+<li> 17:25 docs.google.com</li>
+<li class='same'> 17:24 docs.google.com</li>
+<li> 17:23 www.linkedin.com</li>
+<li> 17:20 www.facebook.com</li>
+<li> 17:20 web.whatsapp.com</li>
+<li> 17:20 outlook.office.com</li>
+<li> 17:16 bsky.app</li>
+<li> 17:06 outlook.office.com</li>
+<li> 17:00 bsky.app</li>
+<li> 17:00 outlook.office.com</li>
+<li class='same'> 16:59 outlook.office.com</li>
+<li> 16:59 outlook.office365.com</li>
+<li> 16:59 outlook.office.com</li>
+</ul>
 
 <br>
 
@@ -129,6 +152,15 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:20 www.theguardian.com</li>
 <li class='same'> 15:19 www.theguardian.com</li>
+<li> 15:12 www.facebook.com</li>
+<li class='same'> 15:11 www.facebook.com</li>
+<li class='same'> 15:10 www.facebook.com</li>
+<li class='same'> 15:09 www.facebook.com</li>
+<li class='same'> 15:08 www.facebook.com</li>
+<li class='same'> 15:06 www.facebook.com</li>
+<li class='same'> 15:04 www.facebook.com</li>
+<li class='same'> 15:03 www.facebook.com</li>
+<li class='same'> 15:02 www.facebook.com</li>
 <li> 14:58 bsky.app</li>
 <li> 14:57 www.habitatforhumanity.org.uk</li>
 <li> 14:57 duckduckgo.com</li>
