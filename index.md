@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2646)</li>
-<li>outlook.office.com (2094)</li>
+<ol><li>www.google.com (2647)</li>
+<li>outlook.office.com (2096)</li>
 <li>mail.google.com (2000)</li>
 <li>docs.google.com (1671)</li>
 <li>bsky.app (1308)</li>
-<li>outlook.office365.com (1214)</li>
+<li>outlook.office365.com (1215)</li>
 <li>www.reddit.com (927)</li>
 <li>www.facebook.com (923)</li>
-<li>duckduckgo.com (702)</li>
+<li>duckduckgo.com (704)</li>
 <li>www.amazon.co.uk (625)</li>
 <li>chatgpt.com (550)</li>
-<li>calendar.google.com (429)</li>
-<li>rhul-my.sharepoint.com (419)</li>
+<li>calendar.google.com (431)</li>
+<li>rhul-my.sharepoint.com (420)</li>
 <li>www.linkedin.com (376)</li>
 <li>github.com (374)</li>
 <li>moodle.royalholloway.ac.uk (357)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (255)</li>
-<li>login.microsoftonline.com (250)</li>
+<li>login.microsoftonline.com (251)</li>
 <li>web.whatsapp.com (234)</li>
 <li>feedly.com (229)</li>
 <li>qbo.intuit.com (225)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:42 fast.com</li>
+<ul><li> 09:52 calendar.google.com</li>
+<li class='same'> 09:51 calendar.google.com</li>
+<li> 09:45 www.google.com</li>
+<li> 09:45 duckduckgo.com</li>
+<li class='same'> 09:44 duckduckgo.com</li>
+<li> 09:43 gitlab.cim.rhul.ac.uk</li>
+<li> 09:43 rhul-my.sharepoint.com</li>
+<li> 09:43 outlook.office.com</li>
+<li> 09:43 login.microsoftonline.com</li>
+<li> 09:43 outlook.office.com</li>
+<li> 09:43 outlook.office365.com</li>
+<li> 09:42 fast.com</li>
 <li class='same'> 09:41 fast.com</li>
 <li class='same'> 09:34 fast.com</li>
 <li class='same'> 09:33 fast.com</li>
