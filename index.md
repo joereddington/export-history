@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2650)</li>
-<li>outlook.office.com (2136)</li>
+<li>outlook.office.com (2143)</li>
 <li>mail.google.com (2019)</li>
 <li>docs.google.com (1674)</li>
-<li>bsky.app (1311)</li>
-<li>outlook.office365.com (1219)</li>
-<li>www.facebook.com (931)</li>
+<li>bsky.app (1316)</li>
+<li>outlook.office365.com (1220)</li>
+<li>www.facebook.com (933)</li>
 <li>www.reddit.com (929)</li>
-<li>duckduckgo.com (724)</li>
+<li>duckduckgo.com (728)</li>
 <li>www.amazon.co.uk (625)</li>
 <li>chatgpt.com (561)</li>
 <li>calendar.google.com (434)</li>
-<li>rhul-my.sharepoint.com (423)</li>
+<li>rhul-my.sharepoint.com (425)</li>
 <li>www.linkedin.com (381)</li>
-<li>github.com (375)</li>
+<li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
 <li>www.theguardian.com (341)</li>
 <li>tvtropes.org (292)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:42 chatgpt.com</li>
+<ul><li> 14:48 agresso.royalholloway.ac.uk</li>
+<li> 14:48 outlook.office.com</li>
+<li> 14:47 bsky.app</li>
+<li class='same'> 14:46 bsky.app</li>
+<li class='same'> 14:43 bsky.app</li>
+<li> 14:33 outlook.office.com</li>
+<li> 14:33 bsky.app</li>
+<li class='same'> 14:31 bsky.app</li>
+<li> 14:31 intranet.royalholloway.ac.uk</li>
+<li> 14:31 outlook.office.com</li>
+<li class='same'> 14:29 outlook.office.com</li>
+<li> 14:29 agresso.royalholloway.ac.uk</li>
+<li> 14:29 outlook.office.com</li>
+<li> 14:28 intranet.royalholloway.ac.uk</li>
+<li> 14:28 duckduckgo.com</li>
+<li> 14:27 rhul-my.sharepoint.com</li>
+<li> 14:27 www.bath.ac.uk</li>
+<li> 14:27 duckduckgo.com</li>
+<li> 14:27 outlook.office.com</li>
+<li class='same'> 14:26 outlook.office.com</li>
+<li> 14:26 outlook.office365.com</li>
+<li> 14:16 rhul-my.sharepoint.com</li>
+<li> 14:12 equalitytime.github.io</li>
+<li> 14:09 www.facebook.com</li>
+<li> 14:07 duckduckgo.com</li>
+<li class='same'> 14:06 duckduckgo.com</li>
+<li> 14:05 www.facebook.com</li>
+<li> 14:03 equalitytime.github.io</li>
+<li> 14:03 github.com</li>
+<li class='same'> 14:01 github.com</li>
+<li class='same'> 14:00 github.com</li>
+<li> 13:42 chatgpt.com</li>
 <li> 13:40 mtrajk.github.io</li>
 <li> 13:40 github.com</li>
 <li> 13:39 duckduckgo.com</li>
@@ -36810,7 +36841,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:02 intranet.royalholloway.ac.uk</li>
+<ul><li> 11:08 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:02 intranet.royalholloway.ac.uk</li>
 <li> 11:02 www.royalholloway.ac.uk</li>
 </ul>
 
