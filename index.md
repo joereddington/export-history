@@ -72,11 +72,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2143)</li>
 <li>mail.google.com (2019)</li>
 <li>docs.google.com (1674)</li>
-<li>bsky.app (1316)</li>
+<li>bsky.app (1317)</li>
 <li>outlook.office365.com (1220)</li>
 <li>www.facebook.com (933)</li>
 <li>www.reddit.com (929)</li>
-<li>duckduckgo.com (728)</li>
+<li>duckduckgo.com (729)</li>
 <li>www.amazon.co.uk (625)</li>
 <li>chatgpt.com (561)</li>
 <li>calendar.google.com (434)</li>
@@ -84,12 +84,12 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (381)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
-<li>www.theguardian.com (341)</li>
+<li>www.theguardian.com (346)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (258)</li>
 <li>login.microsoftonline.com (253)</li>
-<li>web.whatsapp.com (236)</li>
+<li>web.whatsapp.com (237)</li>
 <li>feedly.com (229)</li>
 <li>qbo.intuit.com (225)</li>
 <li>drive.google.com (219)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:48 agresso.royalholloway.ac.uk</li>
+<ul><li> 15:19 www.theguardian.com</li>
+<li> 14:58 bsky.app</li>
+<li> 14:57 www.habitatforhumanity.org.uk</li>
+<li> 14:57 duckduckgo.com</li>
+<li> 14:55 web.whatsapp.com</li>
+<li> 14:53 www.theguardian.com</li>
+<li class='same'> 14:51 www.theguardian.com</li>
+<li> 14:51 agresso.royalholloway.ac.uk</li>
+<li> 14:51 www.theguardian.com</li>
+<li> 14:48 agresso.royalholloway.ac.uk</li>
 <li> 14:48 outlook.office.com</li>
 <li> 14:47 bsky.app</li>
 <li class='same'> 14:46 bsky.app</li>
@@ -187,7 +196,8 @@ With number of accesses/minutes in parentheses
 <li> 13:00 gmail.com</li>
 <li> 13:00 outlook.office.com</li>
 <li> 12:59 www.facebook.com</li>
-<li> 12:55 www.theguardian.com</li>
+<li> 12:56 www.theguardian.com</li>
+<li class='same'> 12:55 www.theguardian.com</li>
 <li> 12:45 www.google.com</li>
 <li> 12:41 www.facebook.com</li>
 <li> 12:41 outlook.office.com</li>
