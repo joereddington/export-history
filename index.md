@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2647)</li>
-<li>outlook.office.com (2096)</li>
+<li>outlook.office.com (2102)</li>
 <li>mail.google.com (2000)</li>
-<li>docs.google.com (1671)</li>
+<li>docs.google.com (1672)</li>
 <li>bsky.app (1308)</li>
-<li>outlook.office365.com (1215)</li>
+<li>outlook.office365.com (1216)</li>
 <li>www.reddit.com (927)</li>
 <li>www.facebook.com (923)</li>
-<li>duckduckgo.com (704)</li>
+<li>duckduckgo.com (710)</li>
 <li>www.amazon.co.uk (625)</li>
-<li>chatgpt.com (550)</li>
-<li>calendar.google.com (431)</li>
+<li>chatgpt.com (555)</li>
+<li>calendar.google.com (433)</li>
 <li>rhul-my.sharepoint.com (420)</li>
 <li>www.linkedin.com (376)</li>
 <li>github.com (374)</li>
@@ -89,14 +89,14 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (276)</li>
 <li>gmail.com (255)</li>
 <li>login.microsoftonline.com (251)</li>
-<li>web.whatsapp.com (234)</li>
+<li>web.whatsapp.com (235)</li>
 <li>feedly.com (229)</li>
 <li>qbo.intuit.com (225)</li>
-<li>drive.google.com (218)</li>
+<li>drive.google.com (219)</li>
 <li>www.coursera.org (202)</li>
 <li>chat.openai.com (195)</li>
 <li>rhul.sharepoint.com (170)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (152)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (154)</li>
 <li>www.tesco.com (139)</li>
 
 
@@ -108,7 +108,64 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:52 calendar.google.com</li>
+<ul><li> 10:50 web.whatsapp.com</li>
+<li> 10:50 www.access2therapy.com</li>
+<li class='same'> 10:49 www.access2therapy.com</li>
+<li> 10:49 www.languagespeaks.com</li>
+<li> 10:49 www.yell.com</li>
+<li> 10:48 www.magicwordstherapy.co.uk</li>
+<li class='same'> 10:47 www.magicwordstherapy.co.uk</li>
+<li> 10:47 directory.luton.gov.uk</li>
+<li> 10:47 duckduckgo.com</li>
+<li> 10:47 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 10:47 outlook.office.com</li>
+<li> 10:46 calendar.google.com</li>
+<li> 10:44 www.the-awards.co.uk</li>
+<li> 10:42 outlook.office.com</li>
+<li> 10:42 www.advance-he.ac.uk</li>
+<li> 10:41 duckduckgo.com</li>
+<li> 10:34 www.advance-he.ac.uk</li>
+<li class='same'> 10:33 www.advance-he.ac.uk</li>
+<li> 10:33 www.wise-qatar.org</li>
+<li> 10:32 awards-list.co.uk</li>
+<li> 10:32 www.digitaleducationawards.com</li>
+<li> 10:31 britisheducationawards.co.uk</li>
+<li> 10:30 bettawards.com</li>
+<li> 10:29 excellenceawards.brandonhall.com</li>
+<li> 10:29 www.alt.ac.uk</li>
+<li> 10:28 undergraduateawards.com</li>
+<li> 10:27 max.adobe.com</li>
+<li> 10:27 nasen.org.uk</li>
+<li> 10:27 www.topuniversities.com</li>
+<li> 10:26 impactx2050.com</li>
+<li> 10:23 www.laca.co.uk</li>
+<li> 10:23 www.besa.org.uk</li>
+<li> 10:22 awards-list.co.uk</li>
+<li> 10:22 duckduckgo.com</li>
+<li> 10:22 outlook.office.com</li>
+<li> 10:21 www.the-awards.co.uk</li>
+<li class='same'> 10:19 www.the-awards.co.uk</li>
+<li> 10:18 www.pages06.net</li>
+<li> 10:18 outlook.office.com</li>
+<li class='same'> 10:17 outlook.office.com</li>
+<li> 10:17 outlook.office365.com</li>
+<li> 10:17 outlook.office.com</li>
+<li> 10:16 www.the-awards.co.uk</li>
+<li class='same'> 10:15 www.the-awards.co.uk</li>
+<li> 10:14 www.timeshighereducation.com</li>
+<li> 10:14 duckduckgo.com</li>
+<li> 10:14 www.su.rhul.ac.uk</li>
+<li> 10:14 pure.royalholloway.ac.uk</li>
+<li> 10:13 www.su.rhul.ac.uk</li>
+<li> 10:13 duckduckgo.com</li>
+<li> 10:12 calendar.google.com</li>
+<li> 10:12 www.herts.ac.uk</li>
+<li> 10:12 duckduckgo.com</li>
+<li> 10:11 docs.google.com</li>
+<li> 10:11 drive.google.com</li>
+<li> 10:10 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 09:55 chatgpt.com</li>
+<li> 09:52 calendar.google.com</li>
 <li class='same'> 09:51 calendar.google.com</li>
 <li> 09:45 www.google.com</li>
 <li> 09:45 duckduckgo.com</li>
@@ -224,6 +281,7 @@ With number of accesses/minutes in parentheses
 <li> 20:28 www.amazon.co.uk</li>
 <li> 20:20 www.eizo.be</li>
 <li> 20:15 chatgpt.com</li>
+<li class='same'> 20:14 chatgpt.com</li>
 <li> 20:10 <a href="https://www.youtube.com/watch?v=pbK1gYFjxmk">(298) VIDEO FOR TEST TV VERTICAL BANDING - YouTube</a></li>
 <li> 20:10 <a href="https://www.youtube.com/feed/you">(298) YouTube</a></li>
 <li> 20:10 <a href="https://www.youtube.com/">(298) YouTube</a></li>
@@ -482,6 +540,7 @@ With number of accesses/minutes in parentheses
 <li> 17:20 www.google.com</li>
 <li> 17:20 duckduckgo.com</li>
 <li> 17:19 chatgpt.com</li>
+<li class='same'> 17:18 chatgpt.com</li>
 </ul>
 
 <br>
@@ -1216,6 +1275,7 @@ With number of accesses/minutes in parentheses
 <li> 05:38 pure.royalholloway.ac.uk</li>
 <li> 05:38 duckduckgo.com</li>
 <li> 05:33 chatgpt.com</li>
+<li class='same'> 05:32 chatgpt.com</li>
 <li> 05:31 www.overleaf.com</li>
 <li class='same'> 05:30 www.overleaf.com</li>
 <li> 05:30 outlook.office.com</li>
@@ -1287,6 +1347,7 @@ With number of accesses/minutes in parentheses
 <li> 19:18 www.amazon.co.uk</li>
 <li class='same'> 19:16 www.amazon.co.uk</li>
 <li> 19:15 chatgpt.com</li>
+<li class='same'> 19:14 chatgpt.com</li>
 <li> 19:13 mail.google.com</li>
 <li> 19:10 www.amazon.co.uk</li>
 <li> 19:09 www.skywatcherusa.com</li>
@@ -38612,7 +38673,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:19 www.royalholloway.ac.uk</li>
+<ul><li> 17:30 www.advance-he.ac.uk</li>
+<li> 17:19 www.royalholloway.ac.uk</li>
 </ul>
 
 <br>
