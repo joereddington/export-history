@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2661)</li>
+<ol><li>www.google.com (2666)</li>
 <li>outlook.office.com (2151)</li>
 <li>mail.google.com (2023)</li>
 <li>docs.google.com (1680)</li>
 <li>bsky.app (1337)</li>
 <li>outlook.office365.com (1223)</li>
 <li>www.facebook.com (1010)</li>
-<li>www.reddit.com (936)</li>
+<li>www.reddit.com (940)</li>
 <li>duckduckgo.com (732)</li>
 <li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (561)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (425)</li>
 <li>www.linkedin.com (385)</li>
 <li>github.com (378)</li>
-<li>www.theguardian.com (364)</li>
+<li>www.theguardian.com (371)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:20 www.theguardian.com</li>
+<ul><li> 19:54 www.reddit.com</li>
+<li class='same'> 19:52 www.reddit.com</li>
+<li class='same'> 19:51 www.reddit.com</li>
+<li class='same'> 19:50 www.reddit.com</li>
+<li> 19:50 www.google.com</li>
+<li> 19:50 www.theguardian.com</li>
+<li class='same'> 19:49 www.theguardian.com</li>
+<li class='same'> 19:48 www.theguardian.com</li>
+<li class='same'> 19:27 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:20 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -163,7 +176,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:04 www.facebook.com</li>
+<ul><li class='same'> 07:19 www.theguardian.com</li>
+<li class='same'> 07:16 www.theguardian.com</li>
+<li class='same'> 07:15 www.theguardian.com</li>
+<li> 07:04 www.facebook.com</li>
 <li> 07:04 mail.google.com</li>
 <li> 07:04 gmail.com</li>
 <li> 07:04 www.facebook.com</li>
@@ -30613,6 +30629,11 @@ With number of accesses/minutes in parentheses
 <li> 20:18 mail.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 10:30 www.google.com</li>
+</ul>
+
 <H3>Saturday, 26/10/24</H3>
 
 <br>
@@ -34264,6 +34285,21 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:54 chatgpt.com</li>
 <li> 20:52 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 20:44 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:01 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:48 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:12 www.google.com</li>
 </ul>
 
 <br>
