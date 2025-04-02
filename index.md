@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2661)</li>
+<ol><li>www.google.com (2664)</li>
 <li>outlook.office.com (2148)</li>
 <li>mail.google.com (2019)</li>
 <li>docs.google.com (1677)</li>
@@ -79,12 +79,12 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (731)</li>
 <li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (561)</li>
-<li>calendar.google.com (435)</li>
+<li>calendar.google.com (436)</li>
 <li>rhul-my.sharepoint.com (425)</li>
 <li>www.linkedin.com (384)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
-<li>www.theguardian.com (354)</li>
+<li>www.theguardian.com (356)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (258)</li>
@@ -104,7 +104,29 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 02/04/25</H3>
+
+<br>
+
+<ul><li> 08:14 www.sfadb.com</li>
+<li> 08:14 www.google.com</li>
+<li> 08:14 www.sfadb.com</li>
+<li> 08:14 www.google.com</li>
+<li> 08:14 www.sfadb.com</li>
+<li> 08:14 www.google.com</li>
+<li> 08:14 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:59 calendar.google.com</li>
+</ul>
+
 <H3>Tuesday, 01/04/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -162,7 +184,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:03 www.facebook.com</li>
 <li class='same'> 21:02 www.facebook.com</li>
 <li> 20:59 www.reddit.com</li>
-<li> 20:43 www.theguardian.com</li>
+<li> 20:44 www.theguardian.com</li>
+<li class='same'> 20:43 www.theguardian.com</li>
 </ul>
 
 <br>
