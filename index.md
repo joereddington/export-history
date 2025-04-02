@@ -72,9 +72,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2148)</li>
 <li>mail.google.com (2019)</li>
 <li>docs.google.com (1677)</li>
-<li>bsky.app (1334)</li>
+<li>bsky.app (1335)</li>
 <li>outlook.office365.com (1221)</li>
-<li>www.facebook.com (984)</li>
+<li>www.facebook.com (997)</li>
 <li>www.reddit.com (933)</li>
 <li>duckduckgo.com (731)</li>
 <li>www.amazon.co.uk (626)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (384)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
-<li>www.theguardian.com (352)</li>
+<li>www.theguardian.com (354)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (258)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:53 www.facebook.com</li>
+<ul><li> 22:11 www.theguardian.com</li>
+<li class='same'> 22:10 www.theguardian.com</li>
+<li> 22:07 www.facebook.com</li>
+<li> 22:07 bsky.app</li>
+<li> 22:06 www.facebook.com</li>
+<li class='same'> 22:05 www.facebook.com</li>
+<li class='same'> 22:04 www.facebook.com</li>
+<li class='same'> 22:03 www.facebook.com</li>
+<li class='same'> 22:02 www.facebook.com</li>
+<li class='same'> 22:00 www.facebook.com</li>
+<li class='same'> 21:59 www.facebook.com</li>
+<li class='same'> 21:58 www.facebook.com</li>
+<li class='same'> 21:57 www.facebook.com</li>
+<li class='same'> 21:56 www.facebook.com</li>
+<li class='same'> 21:55 www.facebook.com</li>
+<li class='same'> 21:54 www.facebook.com</li>
+<li class='same'> 21:53 www.facebook.com</li>
 <li class='same'> 21:52 www.facebook.com</li>
 <li class='same'> 21:51 www.facebook.com</li>
 <li class='same'> 21:50 www.facebook.com</li>
