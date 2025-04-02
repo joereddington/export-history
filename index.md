@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2664)</li>
+<ol><li>www.google.com (2661)</li>
 <li>outlook.office.com (2148)</li>
 <li>mail.google.com (2019)</li>
 <li>docs.google.com (1677)</li>
 <li>bsky.app (1335)</li>
 <li>outlook.office365.com (1221)</li>
 <li>www.facebook.com (997)</li>
-<li>www.reddit.com (933)</li>
+<li>www.reddit.com (935)</li>
 <li>duckduckgo.com (731)</li>
 <li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (561)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:14 www.sfadb.com</li>
+<ul><li> 08:57 www.reddit.com</li>
+<li class='same'> 08:56 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:20 www.sfadb.com</li>
+<li class='same'> 08:14 www.sfadb.com</li>
 <li> 08:14 www.google.com</li>
 <li> 08:14 www.sfadb.com</li>
 <li> 08:14 www.google.com</li>
@@ -20462,7 +20469,6 @@ With number of accesses/minutes in parentheses
 <li> 08:02 www.google.com</li>
 <li> 08:01 www.giantitp.com</li>
 <li> 08:00 www.facebook.com</li>
-<li> 08:00 www.google.com</li>
 <li> 07:59 www.everyoneactive.com</li>
 <li> 07:59 www.google.com</li>
 <li> 07:38 www.tesco.com</li>
@@ -20473,8 +20479,7 @@ With number of accesses/minutes in parentheses
 <li> 07:18 docs.google.com</li>
 <li> 07:18 drive.google.com</li>
 <li> 07:17 www.tesco.com</li>
-<li> 07:17 www.google.com</li>
-<li> 07:16 www.tesco.com</li>
+<li class='same'> 07:16 www.tesco.com</li>
 <li> 07:15 www.google.com</li>
 <li> 07:15 www.tesco.com</li>
 <li class='same'> 07:14 www.tesco.com</li>
@@ -20485,8 +20490,7 @@ With number of accesses/minutes in parentheses
 <li> 07:07 fdc.nal.usda.gov</li>
 <li class='same'> 07:05 fdc.nal.usda.gov</li>
 <li class='same'> 07:04 fdc.nal.usda.gov</li>
-<li> 07:04 www.google.com</li>
-<li> 07:02 fdc.nal.usda.gov</li>
+<li class='same'> 07:02 fdc.nal.usda.gov</li>
 <li> 07:02 www.google.com</li>
 <li> 07:02 bsky.app</li>
 <li class='same'> 07:01 bsky.app</li>
