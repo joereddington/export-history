@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2661)</li>
-<li>outlook.office.com (2148)</li>
-<li>mail.google.com (2019)</li>
-<li>docs.google.com (1677)</li>
-<li>bsky.app (1335)</li>
-<li>outlook.office365.com (1221)</li>
-<li>www.facebook.com (997)</li>
-<li>www.reddit.com (935)</li>
-<li>duckduckgo.com (731)</li>
+<li>outlook.office.com (2150)</li>
+<li>mail.google.com (2021)</li>
+<li>docs.google.com (1680)</li>
+<li>bsky.app (1337)</li>
+<li>outlook.office365.com (1222)</li>
+<li>www.facebook.com (1010)</li>
+<li>www.reddit.com (936)</li>
+<li>duckduckgo.com (732)</li>
 <li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (561)</li>
 <li>calendar.google.com (436)</li>
 <li>rhul-my.sharepoint.com (425)</li>
-<li>www.linkedin.com (384)</li>
+<li>www.linkedin.com (385)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
-<li>www.theguardian.com (356)</li>
+<li>www.theguardian.com (359)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (258)</li>
+<li>gmail.com (259)</li>
 <li>login.microsoftonline.com (253)</li>
 <li>web.whatsapp.com (238)</li>
 <li>feedly.com (229)</li>
 <li>qbo.intuit.com (225)</li>
-<li>drive.google.com (219)</li>
+<li>drive.google.com (221)</li>
 <li>www.coursera.org (205)</li>
 <li>chat.openai.com (196)</li>
 <li>rhul.sharepoint.com (170)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 02/04/25</H3>
+
+<br>
+
+<ul><li> 12:37 docs.google.com</li>
+<li> 12:37 drive.google.com</li>
+<li> 12:27 bsky.app</li>
+<li> 12:27 www.facebook.com</li>
+<li> 12:10 www.theguardian.com</li>
+<li class='same'> 11:47 www.theguardian.com</li>
+<li> 11:38 docs.google.com</li>
+<li> 11:37 drive.google.com</li>
+<li> 11:29 duckduckgo.com</li>
+<li> 11:15 mail.google.com</li>
+</ul>
 
 <br>
 
@@ -122,6 +136,32 @@ With number of accesses/minutes in parentheses
 <li> 08:14 www.sfadb.com</li>
 <li> 08:14 www.google.com</li>
 <li> 08:14 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:04 www.facebook.com</li>
+<li> 07:04 mail.google.com</li>
+<li> 07:04 gmail.com</li>
+<li> 07:04 www.facebook.com</li>
+<li class='same'> 07:03 www.facebook.com</li>
+<li class='same'> 07:02 www.facebook.com</li>
+<li class='same'> 07:01 www.facebook.com</li>
+<li class='same'> 07:00 www.facebook.com</li>
+<li class='same'> 06:59 www.facebook.com</li>
+<li class='same'> 06:58 www.facebook.com</li>
+<li class='same'> 06:57 www.facebook.com</li>
+<li class='same'> 06:56 www.facebook.com</li>
+<li class='same'> 06:55 www.facebook.com</li>
+<li class='same'> 06:54 www.facebook.com</li>
+<li> 06:52 bsky.app</li>
+<li> 06:52 www.linkedin.com</li>
+<li> 06:51 outlook.office.com</li>
+<li> 06:51 outlook.office365.com</li>
+<li> 06:51 outlook.office.com</li>
+<li> 06:51 www.reddit.com</li>
+<li> 06:51 docs.google.com</li>
+<li> 06:49 www.theguardian.com</li>
 </ul>
 
 <br>
