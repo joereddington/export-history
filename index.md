@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2661)</li>
-<li>outlook.office.com (2150)</li>
-<li>mail.google.com (2021)</li>
+<li>outlook.office.com (2151)</li>
+<li>mail.google.com (2023)</li>
 <li>docs.google.com (1680)</li>
 <li>bsky.app (1337)</li>
-<li>outlook.office365.com (1222)</li>
+<li>outlook.office365.com (1223)</li>
 <li>www.facebook.com (1010)</li>
 <li>www.reddit.com (936)</li>
 <li>duckduckgo.com (732)</li>
@@ -83,12 +83,12 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (425)</li>
 <li>www.linkedin.com (385)</li>
 <li>github.com (378)</li>
+<li>www.theguardian.com (364)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
-<li>www.theguardian.com (359)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (259)</li>
-<li>login.microsoftonline.com (253)</li>
+<li>gmail.com (260)</li>
+<li>login.microsoftonline.com (254)</li>
 <li>web.whatsapp.com (238)</li>
 <li>feedly.com (229)</li>
 <li>qbo.intuit.com (225)</li>
@@ -108,11 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 17:20 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:08 www.theguardian.com</li>
+<li class='same'> 15:07 www.theguardian.com</li>
+<li class='same'> 15:06 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:21 outlook.office.com</li>
+<li> 13:21 login.microsoftonline.com</li>
+<li> 13:21 outlook.office365.com</li>
+<li> 13:20 mail.google.com</li>
+<li class='same'> 13:19 mail.google.com</li>
+<li> 13:19 gmail.com</li>
+</ul>
+
+<br>
+
 <ul><li> 12:37 docs.google.com</li>
 <li> 12:37 drive.google.com</li>
 <li> 12:27 bsky.app</li>
 <li> 12:27 www.facebook.com</li>
-<li> 12:10 www.theguardian.com</li>
+<li> 12:23 www.theguardian.com</li>
+<li class='same'> 12:10 www.theguardian.com</li>
 <li class='same'> 11:47 www.theguardian.com</li>
 <li> 11:38 docs.google.com</li>
 <li> 11:37 drive.google.com</li>
