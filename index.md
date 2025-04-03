@@ -69,22 +69,22 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2664)</li>
-<li>outlook.office.com (2192)</li>
+<li>outlook.office.com (2195)</li>
 <li>mail.google.com (2039)</li>
 <li>docs.google.com (1685)</li>
-<li>bsky.app (1343)</li>
-<li>outlook.office365.com (1227)</li>
-<li>www.facebook.com (1014)</li>
-<li>www.reddit.com (959)</li>
-<li>duckduckgo.com (741)</li>
+<li>bsky.app (1344)</li>
+<li>outlook.office365.com (1228)</li>
+<li>www.facebook.com (1023)</li>
+<li>www.reddit.com (964)</li>
+<li>duckduckgo.com (742)</li>
 <li>www.amazon.co.uk (624)</li>
 <li>chatgpt.com (563)</li>
 <li>calendar.google.com (437)</li>
-<li>rhul-my.sharepoint.com (429)</li>
+<li>rhul-my.sharepoint.com (430)</li>
 <li>www.linkedin.com (385)</li>
-<li>www.theguardian.com (381)</li>
+<li>www.theguardian.com (382)</li>
 <li>github.com (378)</li>
-<li>moodle.royalholloway.ac.uk (369)</li>
+<li>moodle.royalholloway.ac.uk (370)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (263)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:06 moodle.royalholloway.ac.uk</li>
+<ul><li> 14:00 www.facebook.com</li>
+<li class='same'> 13:59 www.facebook.com</li>
+<li class='same'> 13:58 www.facebook.com</li>
+<li class='same'> 13:57 www.facebook.com</li>
+<li class='same'> 13:56 www.facebook.com</li>
+<li class='same'> 13:55 www.facebook.com</li>
+<li class='same'> 13:54 www.facebook.com</li>
+<li class='same'> 13:52 www.facebook.com</li>
+<li> 13:52 www.reddit.com</li>
+<li class='same'> 13:51 www.reddit.com</li>
+<li class='same'> 13:49 www.reddit.com</li>
+<li class='same'> 13:48 www.reddit.com</li>
+<li> 13:47 outlook.office.com</li>
+<li> 13:47 outlook.office365.com</li>
+<li> 13:47 outlook.office.com</li>
+<li> 13:47 rhul-my.sharepoint.com</li>
+<li> 13:38 projects.cs.rhul.ac.uk</li>
+<li> 13:25 <a href="https://en.wikipedia.org/wiki/Wall_Street_stock_market_crash_of_October_1929">Wall Street crash of 1929 - Wikipedia</a></li>
+<li> 13:25 <a href="https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929">Wall Street crash of 1929 - Wikipedia</a></li>
+<li> 13:24 <a href="https://en.wikipedia.org/wiki/Great_Depression">Great Depression - Wikipedia</a></li>
+<li> 13:23 <a href="https://en.wikipedia.org/wiki/Autarky">Autarky - Wikipedia</a></li>
+<li> 13:23 <a href="https://en.wikipedia.org/wiki/Trade_war">Trade war - Wikipedia</a></li>
+<li> 13:23 duckduckgo.com</li>
+<li> 13:22 www.theguardian.com</li>
+<li> 13:21 bsky.app</li>
+<li> 13:21 www.reddit.com</li>
+<li> 13:20 www.facebook.com</li>
+<li> 13:12 projects.cs.rhul.ac.uk</li>
+<li class='same'> 13:11 projects.cs.rhul.ac.uk</li>
+<li> 13:08 outlook.office.com</li>
+<li> 13:08 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:06 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:04 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:03 moodle.royalholloway.ac.uk</li>
 <li> 13:02 projects.cs.rhul.ac.uk</li>
