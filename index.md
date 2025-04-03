@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2664)</li>
-<li>outlook.office.com (2199)</li>
+<li>outlook.office.com (2202)</li>
 <li>mail.google.com (2039)</li>
 <li>docs.google.com (1687)</li>
-<li>bsky.app (1346)</li>
-<li>outlook.office365.com (1229)</li>
-<li>www.facebook.com (1031)</li>
+<li>bsky.app (1347)</li>
+<li>outlook.office365.com (1230)</li>
+<li>www.facebook.com (1039)</li>
 <li>www.reddit.com (965)</li>
 <li>duckduckgo.com (742)</li>
 <li>www.amazon.co.uk (624)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:24 bsky.app</li>
+<ul><li> 18:56 outlook.office.com</li>
+<li> 18:56 outlook.office365.com</li>
+<li> 18:56 outlook.office.com</li>
+<li> 18:56 www.facebook.com</li>
+<li class='same'> 18:55 www.facebook.com</li>
+<li class='same'> 18:54 www.facebook.com</li>
+<li class='same'> 18:53 www.facebook.com</li>
+<li class='same'> 18:52 www.facebook.com</li>
+<li class='same'> 18:50 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:34 www.facebook.com</li>
+<li class='same'> 16:33 www.facebook.com</li>
+<li> 16:33 kdpreports.amazon.com</li>
+<li> 16:33 kdp.amazon.com</li>
+<li> 16:32 bsky.app</li>
+<li> 16:32 outlook.office.com</li>
+<li> 16:24 bsky.app</li>
 <li> 16:23 calendar.google.com</li>
 <li> 16:23 outlook.office.com</li>
 <li class='same'> 16:20 outlook.office.com</li>
