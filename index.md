@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (425)</li>
 <li>www.linkedin.com (385)</li>
 <li>github.com (378)</li>
-<li>www.theguardian.com (371)</li>
+<li>www.theguardian.com (373)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
@@ -104,7 +104,19 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 03/04/25</H3>
+
+<br>
+
+<ul><li> 07:02 www.theguardian.com</li>
+<li class='same'> 06:58 www.theguardian.com</li>
+</ul>
+
 <H3>Wednesday, 02/04/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
