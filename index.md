@@ -69,22 +69,22 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2664)</li>
-<li>outlook.office.com (2195)</li>
+<li>outlook.office.com (2196)</li>
 <li>mail.google.com (2039)</li>
-<li>docs.google.com (1685)</li>
-<li>bsky.app (1344)</li>
+<li>docs.google.com (1687)</li>
+<li>bsky.app (1345)</li>
 <li>outlook.office365.com (1228)</li>
-<li>www.facebook.com (1023)</li>
-<li>www.reddit.com (964)</li>
+<li>www.facebook.com (1031)</li>
+<li>www.reddit.com (965)</li>
 <li>duckduckgo.com (742)</li>
 <li>www.amazon.co.uk (624)</li>
 <li>chatgpt.com (563)</li>
 <li>calendar.google.com (437)</li>
-<li>rhul-my.sharepoint.com (430)</li>
+<li>rhul-my.sharepoint.com (433)</li>
 <li>www.linkedin.com (385)</li>
 <li>www.theguardian.com (382)</li>
 <li>github.com (378)</li>
-<li>moodle.royalholloway.ac.uk (370)</li>
+<li>moodle.royalholloway.ac.uk (371)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (263)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:00 www.facebook.com</li>
+<ul><li> 14:34 rhul-my.sharepoint.com</li>
+<li> 14:34 ev.turnitinuk.com</li>
+<li> 14:32 www.reddit.com</li>
+<li> 14:31 moodle.royalholloway.ac.uk</li>
+<li> 14:28 www.facebook.com</li>
+<li> 14:28 rhul-my.sharepoint.com</li>
+<li> 14:28 docs.google.com</li>
+<li> 14:28 rhul-my.sharepoint.com</li>
+<li> 14:09 bsky.app</li>
+<li> 14:08 docs.google.com</li>
+<li> 14:08 outlook.office.com</li>
+<li> 14:07 www.facebook.com</li>
+<li class='same'> 14:06 www.facebook.com</li>
+<li class='same'> 14:05 www.facebook.com</li>
+<li class='same'> 14:04 www.facebook.com</li>
+<li class='same'> 14:03 www.facebook.com</li>
+<li class='same'> 14:02 www.facebook.com</li>
+<li class='same'> 14:01 www.facebook.com</li>
+<li class='same'> 14:00 www.facebook.com</li>
 <li class='same'> 13:59 www.facebook.com</li>
 <li class='same'> 13:58 www.facebook.com</li>
 <li class='same'> 13:57 www.facebook.com</li>
