@@ -74,15 +74,15 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1687)</li>
 <li>bsky.app (1348)</li>
 <li>outlook.office365.com (1230)</li>
-<li>www.facebook.com (1046)</li>
+<li>www.facebook.com (1049)</li>
 <li>www.reddit.com (965)</li>
 <li>duckduckgo.com (742)</li>
-<li>www.amazon.co.uk (624)</li>
+<li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (563)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (433)</li>
+<li>www.theguardian.com (389)</li>
 <li>www.linkedin.com (385)</li>
-<li>www.theguardian.com (382)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
 <li>tvtropes.org (292)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (263)</li>
 <li>login.microsoftonline.com (257)</li>
 <li>web.whatsapp.com (239)</li>
-<li>feedly.com (234)</li>
+<li>feedly.com (235)</li>
 <li>qbo.intuit.com (225)</li>
 <li>drive.google.com (223)</li>
 <li>www.coursera.org (205)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:06 www.facebook.com</li>
+<ul><li> 21:19 feedly.com</li>
+<li> 21:19 www.amazon.co.uk</li>
+<li class='same'> 21:18 www.amazon.co.uk</li>
+<li> 21:05 <a href="https://www.bbc.co.uk/news/articles/cgenjl79v89o">Man shot dead by police at Milton Keynes railway station named - BBC News</a></li>
+<li> 21:05 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 21:05 www.theguardian.com</li>
+<li class='same'> 20:44 www.theguardian.com</li>
+<li class='same'> 20:43 www.theguardian.com</li>
+<li class='same'> 20:42 www.theguardian.com</li>
+<li class='same'> 20:41 www.theguardian.com</li>
+<li> 20:31 support.theguardian.com</li>
+<li> 20:30 www.theguardian.com</li>
+<li class='same'> 20:29 www.theguardian.com</li>
+<li> 20:09 www.facebook.com</li>
+<li class='same'> 20:08 www.facebook.com</li>
+<li class='same'> 20:07 www.facebook.com</li>
+<li class='same'> 20:06 www.facebook.com</li>
 <li class='same'> 20:05 www.facebook.com</li>
 <li class='same'> 20:04 www.facebook.com</li>
 <li class='same'> 20:03 www.facebook.com</li>
