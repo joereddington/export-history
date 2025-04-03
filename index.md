@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2664)</li>
-<li>outlook.office.com (2185)</li>
-<li>mail.google.com (2034)</li>
-<li>docs.google.com (1684)</li>
+<li>outlook.office.com (2188)</li>
+<li>mail.google.com (2035)</li>
+<li>docs.google.com (1685)</li>
 <li>bsky.app (1340)</li>
 <li>outlook.office365.com (1226)</li>
 <li>www.facebook.com (1012)</li>
 <li>www.reddit.com (958)</li>
-<li>duckduckgo.com (740)</li>
+<li>duckduckgo.com (741)</li>
 <li>www.amazon.co.uk (624)</li>
 <li>chatgpt.com (563)</li>
 <li>calendar.google.com (437)</li>
-<li>rhul-my.sharepoint.com (426)</li>
+<li>rhul-my.sharepoint.com (427)</li>
 <li>www.linkedin.com (385)</li>
+<li>www.theguardian.com (379)</li>
 <li>github.com (378)</li>
-<li>www.theguardian.com (378)</li>
-<li>moodle.royalholloway.ac.uk (360)</li>
+<li>moodle.royalholloway.ac.uk (363)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (261)</li>
-<li>login.microsoftonline.com (256)</li>
+<li>gmail.com (262)</li>
+<li>login.microsoftonline.com (257)</li>
 <li>web.whatsapp.com (239)</li>
 <li>feedly.com (234)</li>
 <li>qbo.intuit.com (225)</li>
-<li>drive.google.com (222)</li>
+<li>drive.google.com (223)</li>
 <li>www.coursera.org (205)</li>
 <li>chat.openai.com (197)</li>
 <li>rhul.sharepoint.com (173)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:59 outlook.office.com</li>
+<ul><li> 11:54 www.theguardian.com</li>
+<li> 11:40 duckduckgo.com</li>
+<li> 11:36 projects.cs.rhul.ac.uk</li>
+<li> 11:27 mail.google.com</li>
+<li> 11:27 gmail.com</li>
+<li> 11:27 outlook.office.com</li>
+<li> 11:18 docs.google.com</li>
+<li> 11:18 drive.google.com</li>
+<li> 11:10 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:06 moodle.royalholloway.ac.uk</li>
+<li> 11:06 login.microsoftonline.com</li>
+<li> 11:06 moodle.royalholloway.ac.uk</li>
+<li> 11:06 outlook.office.com</li>
+<li class='same'> 11:04 outlook.office.com</li>
+<li> 11:00 rhul-my.sharepoint.com</li>
+<li> 11:00 gitlab.cim.rhul.ac.uk</li>
+<li> 10:59 outlook.office.com</li>
 <li> 10:58 discord.com</li>
 <li class='same'> 10:57 discord.com</li>
 <li class='same'> 10:56 discord.com</li>
