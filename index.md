@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2666)</li>
-<li>outlook.office.com (2151)</li>
-<li>mail.google.com (2023)</li>
-<li>docs.google.com (1680)</li>
-<li>bsky.app (1337)</li>
-<li>outlook.office365.com (1223)</li>
-<li>www.facebook.com (1010)</li>
-<li>www.reddit.com (940)</li>
-<li>duckduckgo.com (732)</li>
+<ol><li>www.google.com (2667)</li>
+<li>outlook.office.com (2157)</li>
+<li>mail.google.com (2034)</li>
+<li>docs.google.com (1684)</li>
+<li>bsky.app (1340)</li>
+<li>outlook.office365.com (1224)</li>
+<li>www.facebook.com (1012)</li>
+<li>www.reddit.com (950)</li>
+<li>duckduckgo.com (736)</li>
 <li>www.amazon.co.uk (626)</li>
-<li>chatgpt.com (561)</li>
+<li>chatgpt.com (562)</li>
 <li>calendar.google.com (436)</li>
 <li>rhul-my.sharepoint.com (425)</li>
 <li>www.linkedin.com (385)</li>
@@ -87,15 +87,15 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (360)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (260)</li>
-<li>login.microsoftonline.com (254)</li>
+<li>gmail.com (261)</li>
+<li>login.microsoftonline.com (255)</li>
 <li>web.whatsapp.com (238)</li>
-<li>feedly.com (229)</li>
+<li>feedly.com (234)</li>
 <li>qbo.intuit.com (225)</li>
-<li>drive.google.com (221)</li>
+<li>drive.google.com (222)</li>
 <li>www.coursera.org (205)</li>
 <li>chat.openai.com (196)</li>
-<li>rhul.sharepoint.com (170)</li>
+<li>rhul.sharepoint.com (171)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (156)</li>
 <li>www.tesco.com (139)</li>
 
@@ -108,7 +108,81 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:54 www.reddit.com</li>
+<ul><li> 21:52 muscleandstrengthpyramids.com</li>
+<li> 21:36 feedly.com</li>
+<li class='same'> 21:35 feedly.com</li>
+<li class='same'> 21:33 feedly.com</li>
+<li class='same'> 21:32 feedly.com</li>
+<li class='same'> 21:31 feedly.com</li>
+<li> 21:31 mail.google.com</li>
+<li> 21:30 docs.google.com</li>
+<li> 21:30 duckduckgo.com</li>
+<li> 21:21 www.facebook.com</li>
+<li> 21:20 docs.google.com</li>
+<li class='same'> 21:17 docs.google.com</li>
+<li> 21:04 www.facebook.com</li>
+<li> 21:04 duckduckgo.com</li>
+<li> 21:04 outlook.office.com</li>
+<li> 21:04 outlook.office365.com</li>
+<li> 21:04 outlook.office.com</li>
+<li> 21:04 jobs.ravensbourne.ac.uk</li>
+<li class='same'> 21:03 jobs.ravensbourne.ac.uk</li>
+<li> 21:03 mail.google.com</li>
+<li> 21:02 jobs.ravensbourne.ac.uk</li>
+<li class='same'> 21:01 jobs.ravensbourne.ac.uk</li>
+<li class='same'> 21:00 jobs.ravensbourne.ac.uk</li>
+<li> 21:00 mail.google.com</li>
+<li> 21:00 jobs.ravensbourne.ac.uk</li>
+<li class='same'> 20:59 jobs.ravensbourne.ac.uk</li>
+<li> 20:59 www.jobs.ac.uk</li>
+<li> 20:59 mail.google.com</li>
+<li class='same'> 20:58 mail.google.com</li>
+<li> 20:57 chatgpt.com</li>
+<li> 20:56 mail.google.com</li>
+<li> 20:54 docs.google.com</li>
+<li> 20:54 drive.google.com</li>
+<li> 20:54 mail.google.com</li>
+<li class='same'> 20:53 mail.google.com</li>
+<li> 20:53 gmail.com</li>
+<li> 20:52 jobs.ravensbourne.ac.uk</li>
+<li> 20:51 www.jobs.ac.uk</li>
+<li> 20:51 mail.google.com</li>
+<li> 20:48 www.royalholloway.ac.uk</li>
+<li class='same'> 20:47 www.royalholloway.ac.uk</li>
+<li> 20:47 duckduckgo.com</li>
+<li> 20:46 royalhollowayucu.wordpress.com</li>
+<li> 20:46 go.bsky.app</li>
+<li> 20:46 bsky.app</li>
+<li class='same'> 20:45 bsky.app</li>
+<li> 20:45 alexmayarts.co.uk</li>
+<li> 20:44 cs-colloq.cs.herts.ac.uk</li>
+<li> 20:44 outlook.office.com</li>
+<li> 20:43 mail.google.com</li>
+<li> 20:43 dictionary.cambridge.org</li>
+<li> 20:43 duckduckgo.com</li>
+<li> 20:43 www.reddit.com</li>
+<li class='same'> 20:42 www.reddit.com</li>
+<li> 20:42 mail.google.com</li>
+<li> 20:42 bsky.app</li>
+<li> 20:42 outlook.office.com</li>
+<li class='same'> 20:41 outlook.office.com</li>
+<li> 20:37 rhul.sharepoint.com</li>
+<li> 20:37 login.microsoftonline.com</li>
+<li> 20:37 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:05 www.google.com</li>
+<li> 20:05 www.reddit.com</li>
+<li class='same'> 20:03 www.reddit.com</li>
+<li class='same'> 20:02 www.reddit.com</li>
+<li class='same'> 20:01 www.reddit.com</li>
+<li class='same'> 20:00 www.reddit.com</li>
+<li class='same'> 19:59 www.reddit.com</li>
+<li class='same'> 19:58 www.reddit.com</li>
+<li class='same'> 19:55 www.reddit.com</li>
+<li class='same'> 19:54 www.reddit.com</li>
 <li class='same'> 19:52 www.reddit.com</li>
 <li class='same'> 19:51 www.reddit.com</li>
 <li class='same'> 19:50 www.reddit.com</li>
