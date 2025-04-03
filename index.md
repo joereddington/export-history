@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2664)</li>
-<li>outlook.office.com (2188)</li>
-<li>mail.google.com (2035)</li>
+<li>outlook.office.com (2192)</li>
+<li>mail.google.com (2039)</li>
 <li>docs.google.com (1685)</li>
-<li>bsky.app (1340)</li>
-<li>outlook.office365.com (1226)</li>
-<li>www.facebook.com (1012)</li>
-<li>www.reddit.com (958)</li>
+<li>bsky.app (1343)</li>
+<li>outlook.office365.com (1227)</li>
+<li>www.facebook.com (1014)</li>
+<li>www.reddit.com (959)</li>
 <li>duckduckgo.com (741)</li>
 <li>www.amazon.co.uk (624)</li>
 <li>chatgpt.com (563)</li>
 <li>calendar.google.com (437)</li>
-<li>rhul-my.sharepoint.com (427)</li>
+<li>rhul-my.sharepoint.com (429)</li>
 <li>www.linkedin.com (385)</li>
-<li>www.theguardian.com (379)</li>
+<li>www.theguardian.com (381)</li>
 <li>github.com (378)</li>
-<li>moodle.royalholloway.ac.uk (363)</li>
+<li>moodle.royalholloway.ac.uk (369)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (262)</li>
+<li>gmail.com (263)</li>
 <li>login.microsoftonline.com (257)</li>
 <li>web.whatsapp.com (239)</li>
 <li>feedly.com (234)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:54 www.theguardian.com</li>
+<ul><li> 13:06 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:03 moodle.royalholloway.ac.uk</li>
+<li> 13:02 projects.cs.rhul.ac.uk</li>
+<li> 13:01 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:00 moodle.royalholloway.ac.uk</li>
+<li> 13:00 www.facebook.com</li>
+<li class='same'> 12:58 www.facebook.com</li>
+<li> 12:47 www.reddit.com</li>
+<li> 12:47 mail.google.com</li>
+<li> 12:44 bsky.app</li>
+<li> 12:43 www.timeshighereducation.com</li>
+<li> 12:43 go.bsky.app</li>
+<li> 12:43 www.timeshighereducation.com</li>
+<li> 12:43 go.bsky.app</li>
+<li> 12:41 bsky.app</li>
+<li class='same'> 12:40 bsky.app</li>
+<li> 12:40 mail.google.com</li>
+<li> 12:40 outlook.office.com</li>
+<li class='same'> 12:39 outlook.office.com</li>
+<li> 12:39 mail.google.com</li>
+<li> 12:39 outlook.office.com</li>
+<li> 12:39 mail.google.com</li>
+<li> 12:39 gmail.com</li>
+<li> 12:39 support.theguardian.com</li>
+<li> 12:22 rhul-my.sharepoint.com</li>
+<li> 12:20 <a href="https://en.wikipedia.org/wiki/Big_Butte_Creek">Big Butte Creek - Wikipedia</a></li>
+<li> 12:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:20 rhul-my.sharepoint.com</li>
+<li> 12:16 outlook.office.com</li>
+<li> 12:16 outlook.office365.com</li>
+<li> 11:58 www.theguardian.com</li>
+<li class='same'> 11:55 www.theguardian.com</li>
+<li class='same'> 11:54 www.theguardian.com</li>
 <li> 11:40 duckduckgo.com</li>
 <li> 11:36 projects.cs.rhul.ac.uk</li>
 <li> 11:27 mail.google.com</li>
@@ -36415,6 +36448,7 @@ With number of accesses/minutes in parentheses
 <li> 15:23 rhul.sharepoint.com</li>
 <li class='same'> 15:22 rhul.sharepoint.com</li>
 <li> 15:20 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:19 moodle.royalholloway.ac.uk</li>
 <li> 15:15 projects.cs.rhul.ac.uk</li>
 <li> 14:46 www.facebook.com</li>
 </ul>
