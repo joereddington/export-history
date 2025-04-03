@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2664)</li>
-<li>outlook.office.com (2196)</li>
+<li>outlook.office.com (2199)</li>
 <li>mail.google.com (2039)</li>
 <li>docs.google.com (1687)</li>
-<li>bsky.app (1345)</li>
-<li>outlook.office365.com (1228)</li>
+<li>bsky.app (1346)</li>
+<li>outlook.office365.com (1229)</li>
 <li>www.facebook.com (1031)</li>
 <li>www.reddit.com (965)</li>
 <li>duckduckgo.com (742)</li>
 <li>www.amazon.co.uk (624)</li>
 <li>chatgpt.com (563)</li>
-<li>calendar.google.com (437)</li>
+<li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (433)</li>
 <li>www.linkedin.com (385)</li>
 <li>www.theguardian.com (382)</li>
@@ -105,6 +105,16 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 03/04/25</H3>
+
+<br>
+
+<ul><li> 16:24 bsky.app</li>
+<li> 16:23 calendar.google.com</li>
+<li> 16:23 outlook.office.com</li>
+<li class='same'> 16:20 outlook.office.com</li>
+<li class='same'> 16:10 outlook.office.com</li>
+<li> 16:10 outlook.office365.com</li>
+</ul>
 
 <br>
 
