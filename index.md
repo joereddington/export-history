@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2667)</li>
+<ol><li>www.google.com (2668)</li>
 <li>outlook.office.com (2157)</li>
 <li>mail.google.com (2034)</li>
 <li>docs.google.com (1684)</li>
 <li>bsky.app (1340)</li>
 <li>outlook.office365.com (1224)</li>
 <li>www.facebook.com (1012)</li>
-<li>www.reddit.com (950)</li>
+<li>www.reddit.com (956)</li>
 <li>duckduckgo.com (736)</li>
 <li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (562)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (425)</li>
 <li>www.linkedin.com (385)</li>
 <li>github.com (378)</li>
-<li>www.theguardian.com (373)</li>
+<li>www.theguardian.com (374)</li>
 <li>moodle.royalholloway.ac.uk (360)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:02 www.theguardian.com</li>
+<ul><li> 09:06 www.reddit.com</li>
+<li> 09:05 www.google.com</li>
+<li> 08:55 www.reddit.com</li>
+<li class='same'> 08:54 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:08 www.reddit.com</li>
+<li class='same'> 07:40 www.reddit.com</li>
+<li class='same'> 07:39 www.reddit.com</li>
+<li> 07:39 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:02 www.theguardian.com</li>
 <li class='same'> 06:58 www.theguardian.com</li>
 </ul>
 
