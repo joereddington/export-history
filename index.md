@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2663)</li>
+<ol><li>www.google.com (2665)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2041)</li>
 <li>docs.google.com (1687)</li>
 <li>bsky.app (1350)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1060)</li>
-<li>www.reddit.com (974)</li>
+<li>www.facebook.com (1068)</li>
+<li>www.reddit.com (980)</li>
 <li>duckduckgo.com (744)</li>
 <li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (564)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.theguardian.com (395)</li>
+<li>www.theguardian.com (400)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:39 www.facebook.com</li>
+<ul><li> 15:54 www.theguardian.com</li>
+<li> 15:49 www.facebook.com</li>
+<li class='same'> 15:48 www.facebook.com</li>
+<li class='same'> 15:47 www.facebook.com</li>
+<li class='same'> 15:46 www.facebook.com</li>
+<li class='same'> 15:45 www.facebook.com</li>
+<li class='same'> 15:44 www.facebook.com</li>
+<li class='same'> 15:43 www.facebook.com</li>
+<li class='same'> 15:42 www.facebook.com</li>
+<li class='same'> 15:39 www.facebook.com</li>
 <li> 15:38 www.theguardian.com</li>
 <li class='same'> 15:37 www.theguardian.com</li>
 <li class='same'> 15:35 www.theguardian.com</li>
@@ -130,6 +139,11 @@ With number of accesses/minutes in parentheses
 <li> 15:02 login.microsoftonline.com</li>
 <li> 15:02 outlook.office365.com</li>
 <li> 15:02 outlook.office.com</li>
+<li> 15:01 www.theguardian.com</li>
+<li class='same'> 14:53 www.theguardian.com</li>
+<li class='same'> 14:51 www.theguardian.com</li>
+<li class='same'> 14:50 www.theguardian.com</li>
+<li> 14:50 www.reddit.com</li>
 </ul>
 
 <br>
@@ -183,6 +197,13 @@ With number of accesses/minutes in parentheses
 <ul><li> 21:19 feedly.com</li>
 <li> 21:19 www.amazon.co.uk</li>
 <li class='same'> 21:18 www.amazon.co.uk</li>
+<li> 21:16 www.reddit.com</li>
+<li class='same'> 21:14 www.reddit.com</li>
+<li> 21:14 www.google.com</li>
+<li> 21:11 www.reddit.com</li>
+<li class='same'> 21:10 www.reddit.com</li>
+<li class='same'> 21:06 www.reddit.com</li>
+<li> 21:06 www.google.com</li>
 <li> 21:05 <a href="https://www.bbc.co.uk/news/articles/cgenjl79v89o">Man shot dead by police at Milton Keynes railway station named - BBC News</a></li>
 <li> 21:05 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 21:05 www.theguardian.com</li>
