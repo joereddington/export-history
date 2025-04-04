@@ -72,20 +72,20 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2203)</li>
 <li>mail.google.com (2041)</li>
 <li>docs.google.com (1687)</li>
-<li>bsky.app (1349)</li>
+<li>bsky.app (1350)</li>
 <li>outlook.office365.com (1231)</li>
-<li>www.facebook.com (1057)</li>
+<li>www.facebook.com (1059)</li>
 <li>www.reddit.com (966)</li>
-<li>duckduckgo.com (742)</li>
+<li>duckduckgo.com (744)</li>
 <li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (563)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.theguardian.com (389)</li>
-<li>www.linkedin.com (385)</li>
+<li>www.theguardian.com (391)</li>
+<li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
-<li>tvtropes.org (292)</li>
+<li>tvtropes.org (293)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (264)</li>
 <li>login.microsoftonline.com (257)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 04/04/25</H3>
+
+<br>
+
+<ul><li> 13:55 tvtropes.org</li>
+<li> 13:55 www.linkedin.com</li>
+<li class='same'> 13:54 www.linkedin.com</li>
+<li> 13:54 duckduckgo.com</li>
+<li class='same'> 13:53 duckduckgo.com</li>
+<li> 13:50 www.theguardian.com</li>
+<li class='same'> 13:49 www.theguardian.com</li>
+<li> 13:49 bsky.app</li>
+<li> 13:49 www.facebook.com</li>
+<li class='same'> 13:48 www.facebook.com</li>
+</ul>
 
 <br>
 
