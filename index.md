@@ -71,17 +71,17 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2667)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2041)</li>
-<li>docs.google.com (1687)</li>
+<li>docs.google.com (1689)</li>
 <li>bsky.app (1350)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1068)</li>
+<li>www.facebook.com (1069)</li>
 <li>www.reddit.com (980)</li>
 <li>duckduckgo.com (744)</li>
 <li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (564)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.theguardian.com (401)</li>
+<li>www.theguardian.com (404)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:29 www.theguardian.com</li>
+<ul><li> 18:12 www.theguardian.com</li>
+<li class='same'> 18:11 www.theguardian.com</li>
+<li> 18:10 www.facebook.com</li>
+<li> 18:09 docs.google.com</li>
+<li class='same'> 18:08 docs.google.com</li>
+<li> 17:54 www.foxnews.com</li>
+<li> 17:54 www.foxbusiness.com</li>
+<li class='same'> 17:32 www.foxbusiness.com</li>
+<li> 17:32 www.foxnews.com</li>
+<li class='same'> 17:31 www.foxnews.com</li>
+<li class='same'> 17:30 www.foxnews.com</li>
+<li> 17:30 www.theguardian.com</li>
+<li class='same'> 17:29 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -30928,6 +30940,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:58 www.foxnews.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:28 outlook.office365.com</li>
 </ul>
 
@@ -32330,6 +32347,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:21 getpocket.com</li>
+<li> 16:20 www.foxnews.com</li>
 <li> 16:10 www.natesilver.net</li>
 <li class='same'> 16:09 www.natesilver.net</li>
 </ul>
@@ -32449,7 +32467,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:22 www.google.com</li>
+<ul><li> 07:22 www.foxnews.com</li>
+<li> 07:22 www.google.com</li>
 <li> 07:13 docs.google.com</li>
 <li class='same'> 07:12 docs.google.com</li>
 <li class='same'> 07:11 docs.google.com</li>
@@ -33533,7 +33552,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:34 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
+<ul><li> 22:37 www.foxnews.com</li>
+<li> 22:34 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
 </ul>
 
 <br>
@@ -33607,6 +33627,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:14 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 10:09 www.royalholloway.ac.uk</li>
+<li> 09:48 www.foxnews.com</li>
 <li> 09:44 calendar.google.com</li>
 <li class='same'> 09:42 calendar.google.com</li>
 <li> 09:38 uk.indeed.com</li>
@@ -33635,11 +33656,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:11 www.foxnews.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:17 mail.google.com</li>
 <li> 07:13 kdpreports.amazon.com</li>
 <li> 07:13 kdp.amazon.com</li>
 <li> 07:07 outlook.office.com</li>
 <li class='same'> 07:04 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:28 www.foxnews.com</li>
 </ul>
 
 <H3>Tuesday, 10/09/24</H3>
