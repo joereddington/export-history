@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2664)</li>
-<li>outlook.office.com (2202)</li>
-<li>mail.google.com (2039)</li>
+<ol><li>www.google.com (2663)</li>
+<li>outlook.office.com (2203)</li>
+<li>mail.google.com (2041)</li>
 <li>docs.google.com (1687)</li>
-<li>bsky.app (1348)</li>
-<li>outlook.office365.com (1230)</li>
-<li>www.facebook.com (1049)</li>
-<li>www.reddit.com (965)</li>
+<li>bsky.app (1349)</li>
+<li>outlook.office365.com (1231)</li>
+<li>www.facebook.com (1057)</li>
+<li>www.reddit.com (966)</li>
 <li>duckduckgo.com (742)</li>
 <li>www.amazon.co.uk (626)</li>
 <li>chatgpt.com (563)</li>
 <li>calendar.google.com (438)</li>
-<li>rhul-my.sharepoint.com (433)</li>
+<li>rhul-my.sharepoint.com (434)</li>
 <li>www.theguardian.com (389)</li>
 <li>www.linkedin.com (385)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
 <li>tvtropes.org (292)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (263)</li>
+<li>gmail.com (264)</li>
 <li>login.microsoftonline.com (257)</li>
 <li>web.whatsapp.com (239)</li>
 <li>feedly.com (235)</li>
@@ -104,7 +104,37 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 04/04/25</H3>
+
+<br>
+
+<ul><li> 13:04 rhul-my.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:58 www.facebook.com</li>
+<li> 06:58 bsky.app</li>
+<li> 06:53 www.reddit.com</li>
+<li> 06:52 mail.google.com</li>
+<li class='same'> 06:51 mail.google.com</li>
+<li> 06:51 gmail.com</li>
+<li> 06:49 www.facebook.com</li>
+<li class='same'> 06:48 www.facebook.com</li>
+<li class='same'> 06:47 www.facebook.com</li>
+<li class='same'> 06:46 www.facebook.com</li>
+<li class='same'> 06:45 www.facebook.com</li>
+<li class='same'> 06:44 www.facebook.com</li>
+<li class='same'> 06:41 www.facebook.com</li>
+<li> 06:41 outlook.office.com</li>
+<li> 06:41 outlook.office365.com</li>
+</ul>
+
 <H3>Thursday, 03/04/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -20423,7 +20453,6 @@ With number of accesses/minutes in parentheses
 <li> 14:37 www.tesco.com</li>
 <li> 14:37 docs.google.com</li>
 <li> 14:36 www.ocado.com</li>
-<li> 14:36 www.google.com</li>
 <li> 14:36 zoom.ocado.com</li>
 <li> 14:36 www.google.com</li>
 <li class='same'> 14:32 www.google.com</li>
