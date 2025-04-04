@@ -69,32 +69,32 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2663)</li>
-<li>outlook.office.com (2203)</li>
+<li>outlook.office.com (2207)</li>
 <li>mail.google.com (2041)</li>
 <li>docs.google.com (1687)</li>
 <li>bsky.app (1350)</li>
-<li>outlook.office365.com (1231)</li>
-<li>www.facebook.com (1059)</li>
-<li>www.reddit.com (966)</li>
+<li>outlook.office365.com (1232)</li>
+<li>www.facebook.com (1060)</li>
+<li>www.reddit.com (974)</li>
 <li>duckduckgo.com (744)</li>
 <li>www.amazon.co.uk (626)</li>
-<li>chatgpt.com (563)</li>
+<li>chatgpt.com (564)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.theguardian.com (391)</li>
+<li>www.theguardian.com (395)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
-<li>tvtropes.org (293)</li>
+<li>tvtropes.org (295)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (264)</li>
-<li>login.microsoftonline.com (257)</li>
-<li>web.whatsapp.com (239)</li>
+<li>login.microsoftonline.com (258)</li>
+<li>web.whatsapp.com (240)</li>
 <li>feedly.com (235)</li>
 <li>qbo.intuit.com (225)</li>
 <li>drive.google.com (223)</li>
 <li>www.coursera.org (205)</li>
-<li>chat.openai.com (197)</li>
+<li>chat.openai.com (198)</li>
 <li>rhul.sharepoint.com (173)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (156)</li>
 <li>www.tesco.com (139)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:55 tvtropes.org</li>
+<ul><li> 15:39 www.facebook.com</li>
+<li> 15:38 www.theguardian.com</li>
+<li class='same'> 15:37 www.theguardian.com</li>
+<li class='same'> 15:35 www.theguardian.com</li>
+<li class='same'> 15:34 www.theguardian.com</li>
+<li> 15:33 www.reddit.com</li>
+<li class='same'> 15:29 www.reddit.com</li>
+<li class='same'> 15:28 www.reddit.com</li>
+<li class='same'> 15:27 www.reddit.com</li>
+<li> 15:27 outlook.office.com</li>
+<li> 15:09 www.reddit.com</li>
+<li class='same'> 15:08 www.reddit.com</li>
+<li class='same'> 15:07 www.reddit.com</li>
+<li class='same'> 15:06 www.reddit.com</li>
+<li> 15:04 web.whatsapp.com</li>
+<li> 15:04 chatgpt.com</li>
+<li> 15:04 chat.openai.com</li>
+<li> 15:03 outlook.office.com</li>
+<li class='same'> 15:02 outlook.office.com</li>
+<li> 15:02 login.microsoftonline.com</li>
+<li> 15:02 outlook.office365.com</li>
+<li> 15:02 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:57 tvtropes.org</li>
+<li class='same'> 13:56 tvtropes.org</li>
+<li class='same'> 13:55 tvtropes.org</li>
 <li> 13:55 www.linkedin.com</li>
 <li class='same'> 13:54 www.linkedin.com</li>
 <li> 13:54 duckduckgo.com</li>
