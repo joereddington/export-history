@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2684)</li>
+<ol><li>www.google.com (2696)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2049)</li>
 <li>docs.google.com (1718)</li>
 <li>bsky.app (1357)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1101)</li>
-<li>www.reddit.com (989)</li>
-<li>duckduckgo.com (749)</li>
+<li>www.facebook.com (1102)</li>
+<li>www.reddit.com (1001)</li>
+<li>duckduckgo.com (751)</li>
 <li>www.amazon.co.uk (632)</li>
-<li>chatgpt.com (574)</li>
+<li>chatgpt.com (575)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.theguardian.com (418)</li>
+<li>www.theguardian.com (419)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
 <li>www.coursera.org (205)</li>
-<li>chat.openai.com (202)</li>
+<li>chat.openai.com (203)</li>
 <li>rhul.sharepoint.com (173)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (156)</li>
 <li>www.tesco.com (139)</li>
@@ -108,14 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:31 www.aljazeera.com</li>
+<ul><li> 21:23 chatgpt.com</li>
+<li> 21:23 chat.openai.com</li>
+<li> 21:23 www.medicalnewstoday.com</li>
+<li> 21:22 www.womenshealthmag.com</li>
+<li> 21:22 duckduckgo.com</li>
+<li> 21:21 www.reddit.com</li>
+<li class='same'> 21:20 www.reddit.com</li>
+<li class='same'> 21:19 www.reddit.com</li>
+<li class='same'> 21:18 www.reddit.com</li>
+<li> 21:18 duckduckgo.com</li>
+<li> 21:09 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:43 image-cdn.essentiallysports.com</li>
+<li> 19:39 www.reddit.com</li>
+<li> 19:39 www.google.com</li>
+<li> 19:39 www.reddit.com</li>
+<li> 19:38 www.google.com</li>
+<li> 19:38 www.reddit.com</li>
+<li> 19:38 www.google.com</li>
+<li> 19:38 www.reddit.com</li>
+<li class='same'> 19:37 www.reddit.com</li>
+<li class='same'> 19:35 www.reddit.com</li>
+<li> 19:35 www.google.com</li>
+<li> 19:33 www.reddit.com</li>
+<li> 19:33 www.google.com</li>
+<li> 19:32 www.reddit.com</li>
+<li> 19:32 www.google.com</li>
+<li> 19:31 www.aljazeera.com</li>
 </ul>
 
 <br>
 
 <ul><li class='same'> 18:53 www.aljazeera.com</li>
 <li> 18:53 www.google.com</li>
-<li> 18:33 www.facebook.com</li>
+<li> 18:35 www.facebook.com</li>
+<li class='same'> 18:33 www.facebook.com</li>
 <li class='same'> 18:32 www.facebook.com</li>
 <li> 18:29 www.theguardian.com</li>
 <li> 18:29 www.reddit.com</li>
@@ -219,6 +250,8 @@ With number of accesses/minutes in parentheses
 <li> 10:30 chat.openai.com</li>
 <li> 10:25 web.whatsapp.com</li>
 <li> 10:02 www.natesilver.net</li>
+<li> 09:46 www.politico.eu</li>
+<li> 09:46 www.google.com</li>
 <li> 09:35 www.facebook.com</li>
 <li class='same'> 09:33 www.facebook.com</li>
 <li> 09:32 www.troyhunt.com</li>
@@ -278,6 +311,75 @@ With number of accesses/minutes in parentheses
 <li> 08:02 www.facebook.com</li>
 <li class='same'> 08:01 www.facebook.com</li>
 <li class='same'> 07:58 www.facebook.com</li>
+<li> 07:57 www.google.com</li>
+<li class='same'> 07:56 www.google.com</li>
+<li> 07:55 spacecollege.org</li>
+<li class='same'> 07:54 spacecollege.org</li>
+<li> 07:54 blog.xkcd.com</li>
+<li> 07:53 www.explainxkcd.com</li>
+<li> 07:53 www.google.com</li>
+<li> 07:52 <a href="https://xkcd.com/1337/">xkcd: Hack</a></li>
+<li> 07:52 <a href="https://xkcd.com/87/">xkcd: Velociraptors</a></li>
+<li> 07:52 <a href="https://xkcd.com/2830/">xkcd: Haunted House</a></li>
+<li> 07:52 <a href="https://xkcd.com/3041/">xkcd: Unit Circle</a></li>
+<li> 07:52 <a href="https://xkcd.com/709/">xkcd: I Am</a></li>
+<li> 07:52 <a href="https://xkcd.com/484/">xkcd: Flash Games</a></li>
+<li> 07:52 <a href="https://xkcd.com/25/">xkcd: Barrel - Part 4</a></li>
+<li> 07:51 <a href="https://xkcd.com/94/">xkcd: Profile Creation Flowchart</a></li>
+<li> 07:51 <a href="https://xkcd.com/2527/">xkcd: New Nobel Prizes</a></li>
+<li> 07:51 <a href="https://xkcd.com/552/">xkcd: Correlation</a></li>
+<li> 07:51 <a href="https://xkcd.com/65/">xkcd: Banter</a></li>
+<li> 07:51 <a href="https://xkcd.com/1895/">xkcd: Worrying Scientist Interviews</a></li>
+<li> 07:50 <a href="https://xkcd.com/1605/">xkcd: DNA</a></li>
+<li> 07:50 <a href="https://xkcd.com/1604/">xkcd: Snakes</a></li>
+<li> 07:50 <a href="https://xkcd.com/1603/">xkcd: Flashlights</a></li>
+<li> 07:50 <a href="https://xkcd.com/1602/">xkcd: Linguistics Club</a></li>
+<li> 07:49 <a href="https://xkcd.com/1601/">xkcd: Isolation</a></li>
+<li> 07:49 <a href="https://xkcd.com/2692/">xkcd: Interior Decorating</a></li>
+<li> 07:49 <a href="https://xkcd.com/1219/">xkcd: Reports</a></li>
+<li> 07:48 <a href="https://xkcd.com/1672/">xkcd: Women on 20s</a></li>
+<li> 07:48 <a href="https://xkcd.com/1630/">xkcd: Quadcopter</a></li>
+<li> 07:48 <a href="https://xkcd.com/221/">xkcd: Random Number</a></li>
+<li> 07:47 <a href="https://xkcd.com/2055/">xkcd: Bluetooth</a></li>
+<li> 07:47 <a href="https://xkcd.com/2075/">xkcd: Update Your Address</a></li>
+<li> 07:47 <a href="https://xkcd.com/1873/">xkcd: Email Reply</a></li>
+<li> 07:46 <a href="https://xkcd.com/2197/">xkcd: Game Show</a></li>
+<li> 07:46 <a href="https://xkcd.com/95/">xkcd: The Sierpinski Penis Game</a></li>
+<li> 07:46 <a href="https://xkcd.com/1299/">xkcd: I Don't Own a TV</a></li>
+<li> 07:46 <a href="https://xkcd.com/719/">xkcd: Brain Worms</a></li>
+<li> 07:46 <a href="https://xkcd.com/516/">xkcd: Wood Chips</a></li>
+<li> 07:45 <a href="https://xkcd.com/2991/">xkcd: Beamsplitters</a></li>
+<li> 07:45 <a href="https://xkcd.com/1104/">xkcd: Feathers</a></li>
+<li> 07:44 <a href="https://xkcd.com/984/">xkcd: Space Launch System</a></li>
+<li> 07:44 <a href="https://xkcd.com/1297/">xkcd: Oort Cloud</a></li>
+<li> 07:44 <a href="https://xkcd.com/2150/">xkcd: XKeyboarCD</a></li>
+<li> 07:43 <a href="https://xkcd.com/2221/">xkcd: Emulation</a></li>
+<li> 07:43 <a href="https://xkcd.com/509/">xkcd: Induced Current</a></li>
+<li> 07:43 <a href="https://xkcd.com/2329/">xkcd: Universal Rating Scale</a></li>
+<li> 07:43 <a href="https://xkcd.com/1979/">xkcd: History</a></li>
+<li> 07:42 <a href="https://xkcd.com/2088/">xkcd: Schwarzschild's Cat</a></li>
+<li> 07:42 <a href="https://xkcd.com/7/">xkcd: Girl sleeping (Sketch -- 11th grade Spanish class)</a></li>
+<li> 07:42 <a href="https://xkcd.com/2756/">xkcd: Qualifications</a></li>
+<li> 07:42 <a href="https://xkcd.com/1194/">xkcd: Stratigraphic Record</a></li>
+<li> 07:42 <a href="https://xkcd.com/1384/">xkcd: Krypton</a></li>
+<li> 07:42 <a href="https://xkcd.com/3058/">xkcd: Tall Structures</a></li>
+<li> 07:41 <a href="https://xkcd.com/186/">xkcd: Console Lines</a></li>
+<li> 07:41 <a href="https://xkcd.com/2825/">xkcd: Autumn and Fall</a></li>
+<li> 07:41 <a href="https://xkcd.com/2223/">xkcd: Screen Time</a></li>
+<li> 07:41 <a href="https://xkcd.com/845/">xkcd: Modern History</a></li>
+<li> 07:41 <a href="https://xkcd.com/2625/">xkcd: Field Topology</a></li>
+<li> 07:41 www.google.com</li>
+<li> 07:38 www.explainxkcd.com</li>
+<li> 07:38 www.google.com</li>
+<li> 07:38 <a href="https://xkcd.com/2625/">xkcd: Field Topology</a></li>
+<li> 07:37 <a href="https://xkcd.com/941/">xkcd: Depth Perception</a></li>
+<li> 07:37 <a href="https://xkcd.com/1289/">xkcd: Simple Answers</a></li>
+<li> 07:37 <a href="https://xkcd.com/2487/">xkcd: Danger Mnemonic</a></li>
+<li> 07:37 <a href="https://xkcd.com/226/">xkcd: Swingset</a></li>
+<li> 07:36 <a href="https://xkcd.com/1538/">xkcd: Lyrics</a></li>
+<li> 07:36 <a href="https://xkcd.com/2618/">xkcd: Selection Bias</a></li>
+<li> 07:36 <a href="https://xkcd.com/2257/">xkcd: Unsubscribe Message</a></li>
+<li> 07:36 <a href="https://xkcd.com/342/">xkcd: 1337: Part 2</a></li>
 <li> 07:32 <a href="https://xkcd.com/2113/">xkcd: Physics Suppression</a></li>
 <li> 07:31 <a href="https://xkcd.com/725/">xkcd: Literally</a></li>
 <li> 07:31 <a href="https://xkcd.com/1619/">xkcd: Watson Medical Algorithm</a></li>
@@ -39109,11 +39211,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:09 outlook.office.com</li>
+<li> 10:06 <a href="https://xkcd.com/1603/">xkcd: Flashlights</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 07:40 outlook.office.com</li>
+<ul><li> 07:40 outlook.office.com</li>
 <li class='same'> 07:39 outlook.office.com</li>
 <li> 07:38 rhul.sharepoint.com</li>
 <li> 07:34 outlook.office.com</li>
@@ -40531,6 +40634,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 15:16 <a href="https://xkcd.com/1337/">xkcd: Hack</a></li>
+</ul>
 
 <br>
 
@@ -43833,6 +43941,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:05 <a href="https://xkcd.com/2825/">xkcd: Autumn and Fall</a></li>
+</ul>
+
+<br>
+
 <ul><li> 14:23 www.facebook.com</li>
 </ul>
 
@@ -45706,6 +45819,19 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 13:23 <a href="https://xkcd.com/1672/">xkcd: Women on 20s</a></li>
+<li> 13:23 <a href="https://xkcd.com/2150/">xkcd: XKeyboarCD</a></li>
+<li> 13:20 <a href="https://xkcd.com/1979/">xkcd: History</a></li>
+<li> 13:20 <a href="https://xkcd.com/7/">xkcd: Girl sleeping (Sketch -- 11th grade Spanish class)</a></li>
+</ul>
+
+<br>
+
+<ul><li> 12:31 <a href="https://xkcd.com/1194/">xkcd: Stratigraphic Record</a></li>
+</ul>
 
 <br>
 
