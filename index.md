@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1099)</li>
 <li>www.reddit.com (985)</li>
 <li>duckduckgo.com (749)</li>
-<li>www.amazon.co.uk (630)</li>
+<li>www.amazon.co.uk (632)</li>
 <li>chatgpt.com (566)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:27 www.amazon.co.uk</li>
+<ul><li> 15:06 www.amazon.co.uk</li>
+<li class='same'> 14:47 www.amazon.co.uk</li>
+<li class='same'> 14:27 www.amazon.co.uk</li>
 <li> 14:27 www.ebay.co.uk</li>
 <li> 14:27 www.google.com</li>
 <li> 14:26 <a href="https://www.youtube.com/watch?v=H78t6dnSoG0">(308) How to assemble the 2WD Smart Robot Car Chassis Kit for Arduino - YouTube</a></li>
