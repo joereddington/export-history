@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2671)</li>
+<ol><li>www.google.com (2684)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2049)</li>
 <li>docs.google.com (1718)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (574)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.theguardian.com (416)</li>
+<li>www.theguardian.com (418)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:33 www.facebook.com</li>
+<ul><li> 19:31 www.aljazeera.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:53 www.aljazeera.com</li>
+<li> 18:53 www.google.com</li>
+<li> 18:33 www.facebook.com</li>
 <li class='same'> 18:32 www.facebook.com</li>
 <li> 18:29 www.theguardian.com</li>
 <li> 18:29 www.reddit.com</li>
@@ -689,7 +696,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 07:02 www.theguardian.com</li>
+<ul><li> 07:08 www.google.com</li>
+<li> 07:06 www.theguardian.com</li>
+<li class='same'> 07:04 www.theguardian.com</li>
+<li class='same'> 07:02 www.theguardian.com</li>
 <li class='same'> 06:58 www.theguardian.com</li>
 </ul>
 
@@ -31290,11 +31300,12 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:22 www.facebook.com</li>
 <li> 20:18 mail.google.com</li>
+<li> 19:56 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 10:30 www.google.com</li>
+<ul><li class='same'> 10:30 www.google.com</li>
 </ul>
 
 <H3>Saturday, 26/10/24</H3>
@@ -31485,7 +31496,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:59 newsthump.com</li>
+<ul><li> 13:00 www.google.com</li>
+<li> 12:59 newsthump.com</li>
 </ul>
 
 <br>
@@ -31538,6 +31550,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 19:00 www.google.com</li>
+</ul>
 
 <br>
 
@@ -32587,6 +32604,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:21 getpocket.com</li>
 <li> 16:20 www.foxnews.com</li>
+<li> 16:10 www.google.com</li>
 <li> 16:10 www.natesilver.net</li>
 <li class='same'> 16:09 www.natesilver.net</li>
 </ul>
@@ -32962,7 +32980,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:04 www.google.com</li>
+<ul><li> 17:15 www.google.com</li>
+<li class='same'> 17:04 www.google.com</li>
 <li> 17:04 www.natesilver.net</li>
 <li> 16:57 qbo.intuit.com</li>
 <li> 16:57 c14.qbo.intuit.com</li>
@@ -33030,6 +33049,11 @@ With number of accesses/minutes in parentheses
 <li> 07:13 outlook.office365.com</li>
 </ul>
 
+<br>
+
+<ul><li> 06:29 www.google.com</li>
+</ul>
+
 <H3>Sunday, 29/09/24</H3>
 
 <br>
@@ -33064,6 +33088,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:59 x.com</li>
 <li> 17:53 www.instagram.com</li>
 <li class='same'> 17:52 www.instagram.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:52 www.google.com</li>
+<li class='same'> 07:48 www.google.com</li>
 </ul>
 
 <H3>Friday, 27/09/24</H3>
@@ -33526,6 +33556,22 @@ With number of accesses/minutes in parentheses
 <ul><li> 05:39 rhul-my.sharepoint.com</li>
 </ul>
 
+<H3>Saturday, 21/09/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 12:25 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:07 www.google.com</li>
+</ul>
+
 <H3>Friday, 20/09/24</H3>
 
 <br>
@@ -33688,6 +33734,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:18 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li> 05:52 www.google.com</li>
 </ul>
 
 <H3>Tuesday, 17/09/24</H3>
