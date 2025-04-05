@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2669)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2046)</li>
-<li>docs.google.com (1697)</li>
-<li>bsky.app (1350)</li>
+<li>docs.google.com (1699)</li>
+<li>bsky.app (1355)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1087)</li>
-<li>www.reddit.com (980)</li>
-<li>duckduckgo.com (746)</li>
+<li>www.facebook.com (1094)</li>
+<li>www.reddit.com (982)</li>
+<li>duckduckgo.com (747)</li>
 <li>www.amazon.co.uk (628)</li>
 <li>chatgpt.com (564)</li>
 <li>calendar.google.com (438)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (276)</li>
 <li>gmail.com (265)</li>
 <li>login.microsoftonline.com (258)</li>
-<li>web.whatsapp.com (240)</li>
-<li>feedly.com (235)</li>
+<li>web.whatsapp.com (241)</li>
+<li>feedly.com (237)</li>
 <li>qbo.intuit.com (225)</li>
 <li>drive.google.com (224)</li>
 <li>www.coursera.org (205)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:42 www.facebook.com</li>
+<ul><li> 09:35 www.facebook.com</li>
+<li class='same'> 09:33 www.facebook.com</li>
+<li> 09:32 www.troyhunt.com</li>
+<li> 09:32 feedly.com</li>
+<li> 09:32 www.natesilver.net</li>
+<li> 09:27 feedly.com</li>
+<li> 09:27 www.giantitp.com</li>
+<li> 09:26 www.reddit.com</li>
+<li class='same'> 09:25 www.reddit.com</li>
+<li> 09:12 <a href="https://www.bbc.co.uk/news/articles/cx208nkvw83o">Molly Russell: Meta and Pinterest make secret charity donation - BBC News</a></li>
+<li> 09:11 <a href="https://www.bbc.co.uk/news/articles/c77njdlvj66o">Donald Trump's tariffs have shaken the markets - how worried should we be? - BBC News</a></li>
+<li> 09:10 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:10 www.facebook.com</li>
+<li class='same'> 09:09 www.facebook.com</li>
+<li> 09:06 duckduckgo.com</li>
+<li> 09:06 www.ticketsource.co.uk</li>
+<li> 09:06 l.facebook.com</li>
+<li> 09:05 www.facebook.com</li>
+<li class='same'> 09:04 www.facebook.com</li>
+<li> 09:04 docs.google.com</li>
+<li class='same'> 09:03 docs.google.com</li>
+<li> 09:01 bsky.app</li>
+<li class='same'> 09:00 bsky.app</li>
+<li class='same'> 08:59 bsky.app</li>
+<li class='same'> 08:58 bsky.app</li>
+<li> 08:57 web.whatsapp.com</li>
+<li> 08:56 bsky.app</li>
+<li> 08:55 www.facebook.com</li>
+<li class='same'> 08:42 www.facebook.com</li>
 <li class='same'> 08:41 www.facebook.com</li>
 <li class='same'> 08:40 www.facebook.com</li>
 <li class='same'> 08:39 www.facebook.com</li>
