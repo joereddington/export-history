@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2669)</li>
 <li>outlook.office.com (2207)</li>
-<li>mail.google.com (2046)</li>
+<li>mail.google.com (2049)</li>
 <li>docs.google.com (1699)</li>
 <li>bsky.app (1355)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1094)</li>
+<li>www.facebook.com (1097)</li>
 <li>www.reddit.com (982)</li>
-<li>duckduckgo.com (747)</li>
+<li>duckduckgo.com (748)</li>
 <li>www.amazon.co.uk (628)</li>
 <li>chatgpt.com (566)</li>
 <li>calendar.google.com (438)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (371)</li>
 <li>tvtropes.org (295)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (265)</li>
+<li>gmail.com (267)</li>
 <li>login.microsoftonline.com (258)</li>
 <li>web.whatsapp.com (242)</li>
 <li>feedly.com (237)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:31 chatgpt.com</li>
+<ul><li> 10:52 www.facebook.com</li>
+<li class='same'> 10:51 www.facebook.com</li>
+<li> 10:51 electronics.stackexchange.com</li>
+<li> 10:50 history.stackexchange.com</li>
+<li> 10:50 hilariusbookbinder.substack.com</li>
+<li class='same'> 10:47 hilariusbookbinder.substack.com</li>
+<li> 10:47 duckduckgo.com</li>
+<li> 10:45 www.facebook.com</li>
+<li> 10:45 mail.google.com</li>
+<li class='same'> 10:44 mail.google.com</li>
+<li> 10:44 gmail.com</li>
+<li> 10:44 mail.google.com</li>
+<li> 10:44 gmail.com</li>
+<li> 10:31 chatgpt.com</li>
 <li class='same'> 10:30 chatgpt.com</li>
 <li> 10:30 chat.openai.com</li>
 <li> 10:25 web.whatsapp.com</li>
