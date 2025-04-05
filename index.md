@@ -72,11 +72,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2049)</li>
 <li>docs.google.com (1699)</li>
-<li>bsky.app (1355)</li>
+<li>bsky.app (1356)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1097)</li>
-<li>www.reddit.com (982)</li>
-<li>duckduckgo.com (748)</li>
+<li>www.facebook.com (1099)</li>
+<li>www.reddit.com (985)</li>
+<li>duckduckgo.com (749)</li>
 <li>www.amazon.co.uk (628)</li>
 <li>chatgpt.com (566)</li>
 <li>calendar.google.com (438)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
-<li>tvtropes.org (295)</li>
+<li>tvtropes.org (303)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (267)</li>
 <li>login.microsoftonline.com (258)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:52 www.facebook.com</li>
+<ul><li> 12:37 tvtropes.org</li>
+<li class='same'> 12:36 tvtropes.org</li>
+<li class='same'> 12:34 tvtropes.org</li>
+<li class='same'> 12:30 tvtropes.org</li>
+<li class='same'> 12:28 tvtropes.org</li>
+<li class='same'> 12:27 tvtropes.org</li>
+<li> 12:23 archive.is</li>
+<li> 12:23 tvtropes.org</li>
+<li class='same'> 12:11 tvtropes.org</li>
+<li> 12:11 duckduckgo.com</li>
+<li> 12:08 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:56 bsky.app</li>
+<li> 10:56 www.reddit.com</li>
+<li class='same'> 10:54 www.reddit.com</li>
+<li class='same'> 10:53 www.reddit.com</li>
+<li> 10:53 www.facebook.com</li>
+<li class='same'> 10:52 www.facebook.com</li>
 <li class='same'> 10:51 www.facebook.com</li>
 <li> 10:51 electronics.stackexchange.com</li>
 <li> 10:50 history.stackexchange.com</li>
