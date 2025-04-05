@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (982)</li>
 <li>duckduckgo.com (747)</li>
 <li>www.amazon.co.uk (628)</li>
-<li>chatgpt.com (564)</li>
+<li>chatgpt.com (566)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
 <li>www.theguardian.com (412)</li>
@@ -89,12 +89,12 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (276)</li>
 <li>gmail.com (265)</li>
 <li>login.microsoftonline.com (258)</li>
-<li>web.whatsapp.com (241)</li>
+<li>web.whatsapp.com (242)</li>
 <li>feedly.com (237)</li>
 <li>qbo.intuit.com (225)</li>
 <li>drive.google.com (224)</li>
 <li>www.coursera.org (205)</li>
-<li>chat.openai.com (198)</li>
+<li>chat.openai.com (199)</li>
 <li>rhul.sharepoint.com (173)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (156)</li>
 <li>www.tesco.com (139)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:35 www.facebook.com</li>
+<ul><li> 10:31 chatgpt.com</li>
+<li class='same'> 10:30 chatgpt.com</li>
+<li> 10:30 chat.openai.com</li>
+<li> 10:25 web.whatsapp.com</li>
+<li> 10:02 www.natesilver.net</li>
+<li> 09:35 www.facebook.com</li>
 <li class='same'> 09:33 www.facebook.com</li>
 <li> 09:32 www.troyhunt.com</li>
 <li> 09:32 feedly.com</li>
