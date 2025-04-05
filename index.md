@@ -71,17 +71,17 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2671)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2049)</li>
-<li>docs.google.com (1709)</li>
+<li>docs.google.com (1718)</li>
 <li>bsky.app (1357)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1099)</li>
-<li>www.reddit.com (985)</li>
+<li>www.facebook.com (1101)</li>
+<li>www.reddit.com (989)</li>
 <li>duckduckgo.com (749)</li>
 <li>www.amazon.co.uk (632)</li>
-<li>chatgpt.com (568)</li>
+<li>chatgpt.com (574)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.theguardian.com (415)</li>
+<li>www.theguardian.com (416)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
 <li>www.coursera.org (205)</li>
-<li>chat.openai.com (200)</li>
+<li>chat.openai.com (202)</li>
 <li>rhul.sharepoint.com (173)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (156)</li>
 <li>www.tesco.com (139)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:33 docs.google.com</li>
+<ul><li> 18:33 www.facebook.com</li>
+<li class='same'> 18:32 www.facebook.com</li>
+<li> 18:29 www.theguardian.com</li>
+<li> 18:29 www.reddit.com</li>
+<li class='same'> 18:28 www.reddit.com</li>
+<li class='same'> 18:27 www.reddit.com</li>
+<li class='same'> 18:26 www.reddit.com</li>
+<li> 18:25 docs.google.com</li>
+<li> 18:00 chatgpt.com</li>
+<li class='same'> 17:59 chatgpt.com</li>
+<li class='same'> 17:58 chatgpt.com</li>
+<li> 17:58 chat.openai.com</li>
+<li> 17:55 docs.google.com</li>
+<li class='same'> 17:49 docs.google.com</li>
+<li class='same'> 17:48 docs.google.com</li>
+<li class='same'> 17:47 docs.google.com</li>
+<li> 17:43 chatgpt.com</li>
+<li> 17:43 docs.google.com</li>
+<li> 17:42 chatgpt.com</li>
+<li> 17:41 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li class='same'> 17:40 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 17:39 docs.google.com</li>
+<li class='same'> 17:37 docs.google.com</li>
+<li> 17:36 chatgpt.com</li>
+<li> 17:36 chat.openai.com</li>
+<li> 17:34 docs.google.com</li>
+<li class='same'> 17:33 docs.google.com</li>
 <li class='same'> 17:32 docs.google.com</li>
 <li class='same'> 17:31 docs.google.com</li>
 <li class='same'> 17:30 docs.google.com</li>
