@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2671)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2049)</li>
-<li>docs.google.com (1700)</li>
+<li>docs.google.com (1709)</li>
 <li>bsky.app (1357)</li>
 <li>outlook.office365.com (1232)</li>
 <li>www.facebook.com (1099)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (568)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.theguardian.com (413)</li>
+<li>www.theguardian.com (415)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 05/04/25</H3>
+
+<br>
+
+<ul><li> 17:33 docs.google.com</li>
+<li class='same'> 17:32 docs.google.com</li>
+<li class='same'> 17:31 docs.google.com</li>
+<li class='same'> 17:30 docs.google.com</li>
+<li class='same'> 17:29 docs.google.com</li>
+<li class='same'> 17:28 docs.google.com</li>
+<li class='same'> 17:27 docs.google.com</li>
+<li class='same'> 17:26 docs.google.com</li>
+<li class='same'> 17:25 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:57 www.theguardian.com</li>
+<li class='same'> 15:56 www.theguardian.com</li>
+</ul>
 
 <br>
 
