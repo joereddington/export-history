@@ -70,29 +70,29 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2669)</li>
 <li>outlook.office.com (2207)</li>
-<li>mail.google.com (2041)</li>
-<li>docs.google.com (1695)</li>
+<li>mail.google.com (2046)</li>
+<li>docs.google.com (1697)</li>
 <li>bsky.app (1350)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1069)</li>
+<li>www.facebook.com (1087)</li>
 <li>www.reddit.com (980)</li>
-<li>duckduckgo.com (744)</li>
+<li>duckduckgo.com (746)</li>
 <li>www.amazon.co.uk (628)</li>
 <li>chatgpt.com (564)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.theguardian.com (411)</li>
+<li>www.theguardian.com (412)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
 <li>tvtropes.org (295)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (264)</li>
+<li>gmail.com (265)</li>
 <li>login.microsoftonline.com (258)</li>
 <li>web.whatsapp.com (240)</li>
 <li>feedly.com (235)</li>
 <li>qbo.intuit.com (225)</li>
-<li>drive.google.com (223)</li>
+<li>drive.google.com (224)</li>
 <li>www.coursera.org (205)</li>
 <li>chat.openai.com (198)</li>
 <li>rhul.sharepoint.com (173)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:32 <a href="https://xkcd.com/2113/">xkcd: Physics Suppression</a></li>
+<ul><li> 08:42 www.facebook.com</li>
+<li class='same'> 08:41 www.facebook.com</li>
+<li class='same'> 08:40 www.facebook.com</li>
+<li class='same'> 08:39 www.facebook.com</li>
+<li class='same'> 08:38 www.facebook.com</li>
+<li class='same'> 08:37 www.facebook.com</li>
+<li class='same'> 08:36 www.facebook.com</li>
+<li class='same'> 08:35 www.facebook.com</li>
+<li class='same'> 08:34 www.facebook.com</li>
+<li class='same'> 08:33 www.facebook.com</li>
+<li> 08:27 mail.google.com</li>
+<li class='same'> 08:26 mail.google.com</li>
+<li class='same'> 08:25 mail.google.com</li>
+<li class='same'> 08:24 mail.google.com</li>
+<li class='same'> 08:23 mail.google.com</li>
+<li> 08:23 gmail.com</li>
+<li> 08:23 docs.google.com</li>
+<li class='same'> 08:21 docs.google.com</li>
+<li> 08:21 drive.google.com</li>
+<li> 08:20 duckduckgo.com</li>
+<li> 08:20 www.theguardian.com</li>
+<li> 08:15 www.facebook.com</li>
+<li class='same'> 08:09 www.facebook.com</li>
+<li class='same'> 08:08 www.facebook.com</li>
+<li class='same'> 08:07 www.facebook.com</li>
+<li class='same'> 08:06 www.facebook.com</li>
+<li> 08:04 www.locala.org.uk</li>
+<li> 08:03 duckduckgo.com</li>
+<li> 08:02 www.facebook.com</li>
+<li class='same'> 08:01 www.facebook.com</li>
+<li class='same'> 07:58 www.facebook.com</li>
+<li> 07:32 <a href="https://xkcd.com/2113/">xkcd: Physics Suppression</a></li>
 <li> 07:31 <a href="https://xkcd.com/725/">xkcd: Literally</a></li>
 <li> 07:31 <a href="https://xkcd.com/1619/">xkcd: Watson Medical Algorithm</a></li>
 <li> 07:31 <a href="https://xkcd.com/277/">xkcd: Long Light</a></li>
