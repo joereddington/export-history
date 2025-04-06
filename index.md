@@ -70,24 +70,24 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2696)</li>
 <li>outlook.office.com (2207)</li>
-<li>mail.google.com (2049)</li>
+<li>mail.google.com (2050)</li>
 <li>docs.google.com (1718)</li>
 <li>bsky.app (1357)</li>
 <li>outlook.office365.com (1232)</li>
 <li>www.facebook.com (1102)</li>
 <li>www.reddit.com (1001)</li>
-<li>duckduckgo.com (751)</li>
+<li>duckduckgo.com (753)</li>
 <li>www.amazon.co.uk (632)</li>
 <li>chatgpt.com (575)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.theguardian.com (419)</li>
+<li>www.theguardian.com (425)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
 <li>tvtropes.org (303)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (267)</li>
+<li>gmail.com (268)</li>
 <li>login.microsoftonline.com (258)</li>
 <li>web.whatsapp.com (242)</li>
 <li>feedly.com (237)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:23 chatgpt.com</li>
+<ul><li> 21:33 www.bbc.com</li>
+<li> 21:33 <a href="https://www.bbc.co.uk/news/articles/cwy0xy21m7lo">Iranian president sacks deputy for 'lavish' Antarctic cruise - BBC News</a></li>
+<li> 21:33 www.google.co.uk</li>
+<li> 21:33 www.theguardian.com</li>
+<li> 21:33 www.google.co.uk</li>
+<li> 21:33 www.theguardian.com</li>
+<li> 21:31 www.msn.com</li>
+<li> 21:31 duckduckgo.com</li>
+<li class='same'> 21:30 duckduckgo.com</li>
+<li> 21:30 www.foxbusiness.com</li>
+<li> 21:29 www.foxnews.com</li>
+<li> 21:29 www.theguardian.com</li>
+<li> 21:28 mail.google.com</li>
+<li> 21:28 gmail.com</li>
+<li> 21:28 www.theguardian.com</li>
+<li class='same'> 21:27 www.theguardian.com</li>
+<li> 21:23 chatgpt.com</li>
 <li> 21:23 chat.openai.com</li>
 <li> 21:23 www.medicalnewstoday.com</li>
 <li> 21:22 www.womenshealthmag.com</li>
@@ -118,7 +134,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:19 www.reddit.com</li>
 <li class='same'> 21:18 www.reddit.com</li>
 <li> 21:18 duckduckgo.com</li>
-<li> 21:09 www.theguardian.com</li>
+<li> 21:13 www.theguardian.com</li>
+<li class='same'> 21:09 www.theguardian.com</li>
 </ul>
 
 <br>
