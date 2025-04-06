@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2703)</li>
+<ol><li>www.google.com (2704)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2056)</li>
-<li>docs.google.com (1718)</li>
-<li>bsky.app (1357)</li>
+<li>docs.google.com (1719)</li>
+<li>bsky.app (1359)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1112)</li>
-<li>www.reddit.com (1003)</li>
+<li>www.facebook.com (1113)</li>
+<li>www.reddit.com (1010)</li>
 <li>duckduckgo.com (754)</li>
 <li>www.amazon.co.uk (639)</li>
 <li>chatgpt.com (576)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.theguardian.com (429)</li>
+<li>www.theguardian.com (431)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (276)</li>
 <li>gmail.com (269)</li>
 <li>login.microsoftonline.com (258)</li>
-<li>web.whatsapp.com (244)</li>
+<li>web.whatsapp.com (245)</li>
 <li>feedly.com (237)</li>
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:01 www.facebook.com</li>
+<ul><li> 14:51 www.google.com</li>
+<li> 14:51 www.theguardian.com</li>
+<li> 14:48 web.whatsapp.com</li>
+<li> 14:48 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:05 www.reddit.com</li>
+<li class='same'> 13:04 www.reddit.com</li>
+<li class='same'> 13:03 www.reddit.com</li>
+<li> 13:03 www.theguardian.com</li>
+<li> 13:03 www.foxnews.com</li>
+<li> 13:03 bsky.app</li>
+<li class='same'> 13:02 bsky.app</li>
+<li> 13:02 www.facebook.com</li>
+<li class='same'> 13:01 www.facebook.com</li>
 <li class='same'> 13:00 www.facebook.com</li>
 <li class='same'> 12:59 www.facebook.com</li>
 <li class='same'> 12:58 www.facebook.com</li>
@@ -43203,6 +43219,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 20:57 www.reddit.com</li>
+<li class='same'> 20:56 www.reddit.com</li>
+<li class='same'> 20:55 www.reddit.com</li>
+<li class='same'> 20:54 www.reddit.com</li>
+</ul>
 
 <br>
 
