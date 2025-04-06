@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (575)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.theguardian.com (425)</li>
+<li>www.theguardian.com (428)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
@@ -104,7 +104,24 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 06/04/25</H3>
+
+<br>
+
+<ul><li> 08:02 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:27 www.theguardian.com</li>
+<li class='same'> 07:18 www.theguardian.com</li>
+</ul>
+
 <H3>Saturday, 05/04/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
