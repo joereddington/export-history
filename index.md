@@ -74,9 +74,9 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1718)</li>
 <li>bsky.app (1357)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1103)</li>
+<li>www.facebook.com (1112)</li>
 <li>www.reddit.com (1003)</li>
-<li>duckduckgo.com (753)</li>
+<li>duckduckgo.com (754)</li>
 <li>www.amazon.co.uk (639)</li>
 <li>chatgpt.com (576)</li>
 <li>calendar.google.com (438)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (276)</li>
 <li>gmail.com (269)</li>
 <li>login.microsoftonline.com (258)</li>
-<li>web.whatsapp.com (243)</li>
+<li>web.whatsapp.com (244)</li>
 <li>feedly.com (237)</li>
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 06/04/25</H3>
+
+<br>
+
+<ul><li> 13:01 www.facebook.com</li>
+<li class='same'> 13:00 www.facebook.com</li>
+<li class='same'> 12:59 www.facebook.com</li>
+<li class='same'> 12:58 www.facebook.com</li>
+<li class='same'> 12:57 www.facebook.com</li>
+<li class='same'> 12:56 www.facebook.com</li>
+<li class='same'> 12:54 www.facebook.com</li>
+<li> 12:53 duckduckgo.com</li>
+<li> 12:53 www.facebook.com</li>
+<li class='same'> 12:52 www.facebook.com</li>
+<li> 12:51 web.whatsapp.com</li>
+</ul>
 
 <br>
 
