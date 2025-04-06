@@ -74,11 +74,11 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1718)</li>
 <li>bsky.app (1357)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1102)</li>
+<li>www.facebook.com (1103)</li>
 <li>www.reddit.com (1003)</li>
 <li>duckduckgo.com (753)</li>
 <li>www.amazon.co.uk (639)</li>
-<li>chatgpt.com (575)</li>
+<li>chatgpt.com (576)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
 <li>www.theguardian.com (429)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
 <li>www.coursera.org (205)</li>
-<li>chat.openai.com (203)</li>
+<li>chat.openai.com (204)</li>
 <li>rhul.sharepoint.com (173)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (156)</li>
 <li>www.tesco.com (139)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:04 mail.google.com</li>
+<ul><li> 11:47 chatgpt.com</li>
+<li> 11:47 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:04 www.facebook.com</li>
+<li> 11:04 mail.google.com</li>
 <li> 11:02 www.amazon.co.uk</li>
 <li> 11:01 hollandbikeshop.com</li>
 <li> 11:00 www.google.com</li>
