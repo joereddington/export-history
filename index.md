@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2696)</li>
+<ol><li>www.google.com (2698)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2050)</li>
 <li>docs.google.com (1718)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:33 www.bbc.com</li>
+<ul><li> 21:37 www.google.com</li>
+<li> 21:37 x.com</li>
+<li> 21:37 www.google.com</li>
+<li> 21:36 pollingreport.uk</li>
+<li> 21:33 www.bbc.com</li>
 <li> 21:33 <a href="https://www.bbc.co.uk/news/articles/cwy0xy21m7lo">Iranian president sacks deputy for 'lavish' Antarctic cruise - BBC News</a></li>
 <li> 21:33 www.google.co.uk</li>
 <li> 21:33 www.theguardian.com</li>
