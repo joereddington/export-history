@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2706)</li>
+<ol><li>www.google.com (2707)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2057)</li>
 <li>docs.google.com (1719)</li>
-<li>bsky.app (1359)</li>
+<li>bsky.app (1361)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1115)</li>
+<li>www.facebook.com (1117)</li>
 <li>www.reddit.com (1010)</li>
 <li>duckduckgo.com (754)</li>
 <li>www.amazon.co.uk (639)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:15 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:40 www.foxnews.com</li>
+<li> 07:40 www.foxbusiness.com</li>
+<li> 07:40 www.foxnews.com</li>
 <li> 07:34 www.theguardian.com</li>
 <li class='same'> 07:30 www.theguardian.com</li>
 </ul>
@@ -116,7 +123,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 06:11 www.theguardian.com</li>
-<li> 05:49 www.facebook.com</li>
+<li> 05:55 bsky.app</li>
+<li class='same'> 05:51 bsky.app</li>
+<li> 05:51 www.facebook.com</li>
+<li class='same'> 05:50 www.facebook.com</li>
+<li class='same'> 05:49 www.facebook.com</li>
 <li class='same'> 05:48 www.facebook.com</li>
 <li> 05:47 www.theguardian.com</li>
 <li> 05:46 doc-0k-34-apps-viewer.googleusercontent.com</li>
