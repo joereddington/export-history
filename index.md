@@ -70,24 +70,24 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2706)</li>
 <li>outlook.office.com (2207)</li>
-<li>mail.google.com (2056)</li>
+<li>mail.google.com (2057)</li>
 <li>docs.google.com (1719)</li>
 <li>bsky.app (1359)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1113)</li>
+<li>www.facebook.com (1115)</li>
 <li>www.reddit.com (1010)</li>
 <li>duckduckgo.com (754)</li>
 <li>www.amazon.co.uk (639)</li>
 <li>chatgpt.com (576)</li>
 <li>calendar.google.com (438)</li>
-<li>www.theguardian.com (434)</li>
+<li>www.theguardian.com (435)</li>
 <li>rhul-my.sharepoint.com (434)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
 <li>tvtropes.org (303)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (269)</li>
+<li>gmail.com (270)</li>
 <li>login.microsoftonline.com (258)</li>
 <li>web.whatsapp.com (245)</li>
 <li>feedly.com (237)</li>
@@ -104,7 +104,23 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 07/04/25</H3>
+
+<br>
+
+<ul><li> 05:49 www.facebook.com</li>
+<li class='same'> 05:48 www.facebook.com</li>
+<li> 05:47 www.theguardian.com</li>
+<li> 05:46 doc-0k-34-apps-viewer.googleusercontent.com</li>
+<li> 05:46 mail.google.com</li>
+<li> 05:46 gmail.com</li>
+</ul>
+
 <H3>Sunday, 06/04/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
