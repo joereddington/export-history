@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (639)</li>
 <li>chatgpt.com (576)</li>
 <li>calendar.google.com (438)</li>
-<li>www.theguardian.com (435)</li>
+<li>www.theguardian.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 05:49 www.facebook.com</li>
+<ul><li> 07:40 www.foxnews.com</li>
+<li> 07:34 www.theguardian.com</li>
+<li class='same'> 07:30 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:11 www.theguardian.com</li>
+<li> 05:49 www.facebook.com</li>
 <li class='same'> 05:48 www.facebook.com</li>
 <li> 05:47 www.theguardian.com</li>
 <li> 05:46 doc-0k-34-apps-viewer.googleusercontent.com</li>
