@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2707)</li>
+<ol><li>www.google.com (2739)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2057)</li>
 <li>docs.google.com (1719)</li>
 <li>bsky.app (1361)</li>
 <li>outlook.office365.com (1232)</li>
 <li>www.facebook.com (1117)</li>
-<li>www.reddit.com (1010)</li>
+<li>www.reddit.com (1049)</li>
 <li>duckduckgo.com (754)</li>
-<li>www.amazon.co.uk (639)</li>
+<li>www.amazon.co.uk (641)</li>
 <li>chatgpt.com (576)</li>
+<li>www.theguardian.com (484)</li>
 <li>calendar.google.com (438)</li>
-<li>www.theguardian.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
 <li>www.linkedin.com (387)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
-<li>tvtropes.org (303)</li>
+<li>tvtropes.org (307)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (270)</li>
 <li>login.microsoftonline.com (258)</li>
@@ -104,11 +104,294 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 12/04/25</H3>
+
+<br>
+
+<ul><li> 16:59 adblockplus.org</li>
+<li> 16:53 www.factorio.com</li>
+<li> 16:53 dl.factorio.com</li>
+<li> 16:53 www.factorio.com</li>
+</ul>
+
+<br>
+
+<ul><li> 01:15 www.reddit.com</li>
+<li class='same'> 01:14 www.reddit.com</li>
+<li class='same'> 01:13 www.reddit.com</li>
+<li class='same'> 01:10 www.reddit.com</li>
+<li class='same'> 01:09 www.reddit.com</li>
+<li class='same'> 01:08 www.reddit.com</li>
+<li class='same'> 01:07 www.reddit.com</li>
+<li class='same'> 01:04 www.reddit.com</li>
+<li class='same'> 01:01 www.reddit.com</li>
+<li class='same'> 01:00 www.reddit.com</li>
+<li class='same'> 00:59 www.reddit.com</li>
+<li class='same'> 00:58 www.reddit.com</li>
+<li class='same'> 00:57 www.reddit.com</li>
+<li class='same'> 00:56 www.reddit.com</li>
+<li class='same'> 00:55 www.reddit.com</li>
+<li class='same'> 00:54 www.reddit.com</li>
+<li class='same'> 00:53 www.reddit.com</li>
+<li class='same'> 00:52 www.reddit.com</li>
+<li class='same'> 00:51 www.reddit.com</li>
+<li class='same'> 00:49 www.reddit.com</li>
+<li class='same'> 00:47 www.reddit.com</li>
+<li> 00:47 www.google.com</li>
+<li> 00:47 www.reddit.com</li>
+<li class='same'> 00:46 www.reddit.com</li>
+<li class='same'> 00:45 www.reddit.com</li>
+<li class='same'> 00:44 www.reddit.com</li>
+<li class='same'> 00:43 www.reddit.com</li>
+<li class='same'> 00:42 www.reddit.com</li>
+<li class='same'> 00:41 www.reddit.com</li>
+<li class='same'> 00:40 www.reddit.com</li>
+<li class='same'> 00:38 www.reddit.com</li>
+<li class='same'> 00:37 www.reddit.com</li>
+<li class='same'> 00:36 www.reddit.com</li>
+<li class='same'> 00:35 www.reddit.com</li>
+<li class='same'> 00:33 www.reddit.com</li>
+<li class='same'> 00:32 www.reddit.com</li>
+<li> 00:31 www.google.com</li>
+<li> 00:29 www.giantitp.com</li>
+<li> 00:29 www.google.com</li>
+<li> 00:29 www.theguardian.com</li>
+<li class='same'> 00:28 www.theguardian.com</li>
+<li class='same'> 00:27 www.theguardian.com</li>
+<li class='same'> 00:26 www.theguardian.com</li>
+<li> 00:26 www.google.com</li>
+<li> 00:25 tvtropes.org</li>
+<li class='same'> 00:23 tvtropes.org</li>
+<li class='same'> 00:20 tvtropes.org</li>
+<li class='same'> 00:19 tvtropes.org</li>
+<li> 00:19 www.google.com</li>
+</ul>
+
+<H3>Friday, 11/04/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 22:24 strengthlevel.com</li>
+<li> 22:24 www.google.com</li>
+<li> 22:06 www.theguardian.com</li>
+<li class='same'> 22:02 www.theguardian.com</li>
+<li class='same'> 21:59 www.theguardian.com</li>
+<li class='same'> 21:56 www.theguardian.com</li>
+<li class='same'> 21:55 www.theguardian.com</li>
+<li class='same'> 21:54 www.theguardian.com</li>
+<li class='same'> 21:53 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:44 www.theguardian.com</li>
+<li class='same'> 11:42 www.theguardian.com</li>
+<li class='same'> 11:41 www.theguardian.com</li>
+<li class='same'> 11:38 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:02 www.google.com</li>
+<li> 11:02 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 04:40 www.theguardian.com</li>
+<li> 04:39 www.foxnews.com</li>
+<li class='same'> 04:38 www.foxnews.com</li>
+<li class='same'> 04:37 www.foxnews.com</li>
+<li> 04:34 <a href="https://www.bbc.co.uk/news/articles/c20xxv3y9r2o">Trump has backtracked, but this is far from over - BBC News</a></li>
+<li> 04:33 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 04:33 <a href="https://www.bbc.co.uk/news/uk-england-merseyside-68197461">Southport: Boy still recovering months after zorb lifted by gust - BBC News</a></li>
+<li> 04:15 www.google.com</li>
+<li> 04:13 www.theguardian.com</li>
+<li class='same'> 04:12 www.theguardian.com</li>
+</ul>
+
+<H3>Thursday, 10/04/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:37 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:59 www.theguardian.com</li>
+<li> 17:58 profile.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:56 www.google.com</li>
+<li> 16:55 profile.theguardian.com</li>
+<li> 16:55 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:43 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:19 www.theguardian.com</li>
+<li class='same'> 08:17 www.theguardian.com</li>
+<li> 08:16 <a href="https://www.bbc.co.uk/news/uk-england-merseyside-68197461">Southport: Boy still recovering months after zorb lifted by gust - BBC News</a></li>
+<li> 08:16 www.google.com</li>
+<li class='same'> 08:08 www.google.com</li>
+</ul>
+
+<H3>Wednesday, 09/04/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:39 www.google.com</li>
+<li class='same'> 19:38 www.google.com</li>
+<li> 19:33 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:33 www.theguardian.com</li>
+<li> 18:32 www.foxnews.com</li>
+<li class='same'> 18:31 www.foxnews.com</li>
+<li> 18:26 www.foxbusiness.com</li>
+<li> 18:25 www.foxnews.com</li>
+<li> 18:23 www.theguardian.com</li>
+<li class='same'> 18:14 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:19 www.google.com</li>
+<li> 13:19 www.tidetimes.org.uk</li>
+<li class='same'> 13:17 www.tidetimes.org.uk</li>
+<li> 13:17 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:23 www.theguardian.com</li>
+<li class='same'> 12:17 www.theguardian.com</li>
+<li class='same'> 11:58 www.theguardian.com</li>
+<li> 11:57 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:37 www.google.com</li>
+<li> 09:37 mashable.com</li>
+<li> 09:37 www.google.com</li>
+<li class='same'> 09:36 www.google.com</li>
+<li> 09:36 stmichaelsmount.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:25 stmichaelsmount.co.uk</li>
+<li> 08:24 www.google.com</li>
+<li class='same'> 08:19 www.google.com</li>
+<li> 08:07 www.cornwalls.co.uk</li>
+<li class='same'> 08:06 www.cornwalls.co.uk</li>
+<li class='same'> 08:05 www.cornwalls.co.uk</li>
+<li> 08:05 www.google.com</li>
+<li> 08:05 stmichaelsmount.co.uk</li>
+<li> 08:04 www.google.com</li>
+<li> 08:04 www.stives-cornwall.co.uk</li>
+<li> 07:36 www.theguardian.com</li>
+<li class='same'> 07:35 www.theguardian.com</li>
+<li class='same'> 07:34 www.theguardian.com</li>
+<li class='same'> 07:33 www.theguardian.com</li>
+<li> 07:10 account.bbc.com</li>
+<li class='same'> 07:09 account.bbc.com</li>
+<li> 07:09 <a href="https://www.bbc.co.uk/sounds/play/m00289hv">Just a Minute - Series 94 - 6. Limoncello and Portobello - BBC Sounds</a></li>
+<li> 07:09 <a href="https://www.bbc.co.uk/programmes/m00289hv">BBC Radio 4 - Just a Minute, Series 94, 6. Limoncello and Portobello</a></li>
+<li> 07:09 <a href="https://www.bbc.co.uk/programmes/b006s5dp/episodes/player">BBC Radio 4 - Just a Minute - Available now</a></li>
+<li> 07:09 <a href="https://www.bbc.co.uk/programmes/b006s5dp">BBC Radio 4 - Just a Minute</a></li>
+<li> 07:09 www.google.com</li>
+<li class='same'> 07:08 www.google.com</li>
+<li class='same'> 07:01 www.google.com</li>
+<li class='same'> 07:00 www.google.com</li>
+</ul>
+
+<H3>Tuesday, 08/04/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:05 www.stives-cornwall.co.uk</li>
+<li> 21:05 www.google.com</li>
+<li> 21:05 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:25 www.amazon.co.uk</li>
+<li> 19:23 www.reddit.com</li>
+<li> 19:23 www.google.com</li>
+<li> 19:23 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:45 www.theguardian.com</li>
+<li> 18:29 www.foxnews.com</li>
+<li> 18:28 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:16 www.theguardian.com</li>
+<li class='same'> 16:06 www.theguardian.com</li>
+<li class='same'> 16:04 www.theguardian.com</li>
+</ul>
+
 <H3>Monday, 07/04/25</H3>
 
 <br>
 
-<ul><li> 12:15 www.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:37 www.google.com</li>
+<li> 21:37 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:46 www.theguardian.com</li>
+<li class='same'> 18:45 www.theguardian.com</li>
+<li class='same'> 18:44 www.theguardian.com</li>
+<li class='same'> 18:43 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:59 www.theguardian.com</li>
+<li> 12:37 www.foxnews.com</li>
+<li> 12:36 www.foxbusiness.com</li>
+<li class='same'> 12:16 www.foxbusiness.com</li>
+<li> 12:16 www.news.com.au</li>
+<li> 12:15 www.google.com</li>
 </ul>
 
 <br>
@@ -284,7 +567,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:43 image-cdn.essentiallysports.com</li>
+<ul><li> 19:48 www.google.com</li>
+<li> 19:47 www.reddit.com</li>
+<li class='same'> 19:46 www.reddit.com</li>
+<li class='same'> 19:45 www.reddit.com</li>
+<li> 19:43 image-cdn.essentiallysports.com</li>
 <li> 19:39 www.reddit.com</li>
 <li> 19:39 www.google.com</li>
 <li> 19:39 www.reddit.com</li>
@@ -20441,7 +20728,6 @@ With number of accesses/minutes in parentheses
 <li> 09:30 mail.google.com</li>
 <li> 09:29 www.google.com</li>
 <li class='same'> 09:28 www.google.com</li>
-<li class='same'> 09:27 www.google.com</li>
 <li class='same'> 09:26 www.google.com</li>
 <li class='same'> 09:25 www.google.com</li>
 <li class='same'> 09:24 www.google.com</li>
@@ -35821,6 +36107,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:38 x.com</li>
+<li> 14:28 profile.theguardian.com</li>
 <li> 14:20 mail.google.com</li>
 </ul>
 
@@ -35840,6 +36127,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:08 profile.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -36348,6 +36640,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:25 profile.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 14:32 drive.google.com</li>
 </ul>
 
@@ -36441,7 +36738,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:44 askubuntu.com</li>
+<ul><li> 16:04 profile.theguardian.com</li>
+<li> 15:44 askubuntu.com</li>
 </ul>
 
 <br>
@@ -36602,6 +36900,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:48 www.lutonlibraries.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 10:22 profile.theguardian.com</li>
 </ul>
 
 <H3>Sunday, 23/06/24</H3>
@@ -36936,6 +37239,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:39 outlook.office.com</li>
 <li> 10:34 dashboards.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 08:20 profile.theguardian.com</li>
 </ul>
 
 <H3>Friday, 07/06/24</H3>
@@ -39758,6 +40066,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 17:53 profile.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 15:42 rhul-my.sharepoint.com</li>
 <li> 15:34 equalitytime.github.io</li>
 <li class='same'> 15:33 equalitytime.github.io</li>
@@ -39998,6 +40311,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:44 gettingthingsdone.com</li>
+</ul>
+
+<H3>Sunday, 10/03/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 19:13 profile.theguardian.com</li>
 </ul>
 
 <H3>Saturday, 09/03/24</H3>
