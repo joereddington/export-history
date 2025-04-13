@@ -70,8 +70,8 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2739)</li>
 <li>outlook.office.com (2207)</li>
-<li>mail.google.com (2060)</li>
-<li>docs.google.com (1727)</li>
+<li>mail.google.com (2062)</li>
+<li>docs.google.com (1728)</li>
 <li>bsky.app (1361)</li>
 <li>outlook.office365.com (1232)</li>
 <li>www.facebook.com (1116)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (754)</li>
 <li>www.amazon.co.uk (642)</li>
 <li>chatgpt.com (580)</li>
-<li>www.theguardian.com (489)</li>
+<li>www.theguardian.com (491)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
 <li>www.linkedin.com (387)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:28 docs.google.com</li>
+<ul><li> 21:24 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:29 docs.google.com</li>
+<li class='same'> 20:28 docs.google.com</li>
 <li class='same'> 20:25 docs.google.com</li>
 <li class='same'> 20:24 docs.google.com</li>
 <li class='same'> 20:23 docs.google.com</li>
@@ -170,6 +176,11 @@ With number of accesses/minutes in parentheses
 <li> 16:31 www.freshcar.co.uk</li>
 <li> 16:31 www.google.com</li>
 <li> 16:31 www.natesilver.net</li>
+</ul>
+
+<br>
+
+<ul><li> 07:07 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -33686,7 +33697,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:15 rhul-my.sharepoint.com</li>
 <li> 07:10 moodle.royalholloway.ac.uk</li>
 <li> 07:05 www.parkrun.com</li>
-<li> 07:03 mail.google.com</li>
+<li> 07:04 mail.google.com</li>
+<li class='same'> 07:03 mail.google.com</li>
 <li class='same'> 07:01 mail.google.com</li>
 </ul>
 
@@ -36856,6 +36868,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:14 www.facebook.com</li>
 <li> 17:06 home.classdojo.com</li>
 <li> 17:05 www.facebook.com</li>
+<li> 17:02 mail.google.com</li>
 </ul>
 
 <br>
