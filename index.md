@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2741)</li>
+<ol><li>www.google.com (2739)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2060)</li>
 <li>docs.google.com (1719)</li>
 <li>bsky.app (1361)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1117)</li>
+<li>www.facebook.com (1116)</li>
 <li>www.reddit.com (1049)</li>
 <li>duckduckgo.com (754)</li>
-<li>www.amazon.co.uk (641)</li>
+<li>www.amazon.co.uk (640)</li>
 <li>chatgpt.com (578)</li>
 <li>www.theguardian.com (489)</li>
 <li>calendar.google.com (438)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:40 mail.google.com</li>
+<ul><li> 13:40 www.google.com</li>
+<li> 13:40 activeluton.legendonlineservices.co.uk</li>
+<li> 13:40 mail.google.com</li>
 <li> 13:40 gmail.com</li>
 <li> 13:38 mail.google.com</li>
 <li class='same'> 13:37 mail.google.com</li>
@@ -19784,7 +19786,6 @@ With number of accesses/minutes in parentheses
 <li> 12:15 www.evri.com</li>
 <li> 12:15 www.google.com</li>
 <li> 11:55 docs.google.com</li>
-<li> 11:55 www.google.com</li>
 <li> 11:55 www.tesco.com</li>
 <li> 11:55 www.google.com</li>
 <li> 11:55 www.sainsburys.co.uk</li>
@@ -20267,10 +20268,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:39 docs.google.com</li>
 <li class='same'> 09:37 docs.google.com</li>
 <li> 09:37 accounts.youtube.com</li>
-<li> 09:37 accounts.google.com</li>
 <li> 09:37 accounts.google.co.uk</li>
-<li> 09:37 accounts.google.com</li>
-<li class='same'> 09:36 accounts.google.com</li>
 <li> 09:36 docs.google.com</li>
 <li> 09:36 accounts.google.com</li>
 <li> 09:25 chatgpt.com</li>
@@ -20328,7 +20326,6 @@ With number of accesses/minutes in parentheses
 <li> 06:31 github.com</li>
 <li> 06:31 www.google.com</li>
 <li> 06:29 chatgpt.com</li>
-<li> 06:29 auth0.openai.com</li>
 <li> 06:29 auth.openai.com</li>
 <li> 06:29 auth0.openai.com</li>
 <li> 06:29 auth.openai.com</li>
@@ -20347,7 +20344,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 21:24 web.whatsapp.com</li>
 <li> 21:22 bsky.app</li>
 <li class='same'> 21:21 bsky.app</li>
-<li> 21:21 l.facebook.com</li>
 <li> 21:18 www.facebook.com</li>
 <li> 21:17 bsky.app</li>
 <li> 21:12 www.linkedin.com</li>
@@ -20398,14 +20394,12 @@ With number of accesses/minutes in parentheses
 <li> 19:33 bsky.app</li>
 <li> 19:33 mail.google.com</li>
 <li> 19:31 welcome.adblockplus.org</li>
-<li> 19:31 accounts.firefox.com</li>
 <li> 19:31 mail.google.com</li>
 <li> 19:31 gmail.com</li>
 <li> 19:30 accounts.firefox.com</li>
 <li> 19:22 www.google.com</li>
 <li> 19:22 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
-<li> 18:57 www.facebook.com</li>
-<li class='same'> 18:56 www.facebook.com</li>
+<li> 18:56 www.facebook.com</li>
 <li> 18:53 bsky.app</li>
 <li> 18:53 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
 <li> 18:26 calendar.google.com</li>
@@ -20437,7 +20431,6 @@ With number of accesses/minutes in parentheses
 <li> 17:20 www.amazon.co.uk</li>
 <li class='same'> 17:19 www.amazon.co.uk</li>
 <li class='same'> 17:18 www.amazon.co.uk</li>
-<li class='same'> 17:17 www.amazon.co.uk</li>
 <li class='same'> 17:16 www.amazon.co.uk</li>
 <li> 17:04 i3wm.org</li>
 <li> 17:04 www.google.com</li>
@@ -20663,7 +20656,6 @@ With number of accesses/minutes in parentheses
 <li> 11:28 fast.com</li>
 <li> 11:28 www.bigmarker.com</li>
 <li class='same'> 11:27 www.bigmarker.com</li>
-<li> 11:27 www.google.com</li>
 <li> 11:27 docs.google.com</li>
 <li> 11:26 mail.google.com</li>
 <li> 11:26 gmail.com</li>
@@ -20778,8 +20770,7 @@ With number of accesses/minutes in parentheses
 <li> 09:31 www.herts.ac.uk</li>
 <li> 09:31 www.google.com</li>
 <li> 09:30 mail.google.com</li>
-<li> 09:29 www.google.com</li>
-<li class='same'> 09:28 www.google.com</li>
+<li> 09:28 www.google.com</li>
 <li class='same'> 09:26 www.google.com</li>
 <li class='same'> 09:25 www.google.com</li>
 <li class='same'> 09:24 www.google.com</li>
