@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2739)</li>
+<ol><li>www.google.com (2741)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2057)</li>
 <li>docs.google.com (1719)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (754)</li>
 <li>www.amazon.co.uk (641)</li>
 <li>chatgpt.com (578)</li>
-<li>www.theguardian.com (484)</li>
+<li>www.theguardian.com (489)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
 <li>www.linkedin.com (387)</li>
@@ -108,6 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 22:58 www.freshcar.co.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 18:23 chatgpt.com</li>
 <li class='same'> 18:22 chatgpt.com</li>
 <li> 18:22 chat.openai.com</li>
@@ -122,6 +127,10 @@ With number of accesses/minutes in parentheses
 <li> 16:53 www.factorio.com</li>
 <li> 16:53 dl.factorio.com</li>
 <li> 16:53 www.factorio.com</li>
+<li> 16:31 www.google.com</li>
+<li> 16:31 www.freshcar.co.uk</li>
+<li> 16:31 www.google.com</li>
+<li> 16:31 www.natesilver.net</li>
 </ul>
 
 <br>
@@ -194,6 +203,24 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:55 www.theguardian.com</li>
 <li class='same'> 21:54 www.theguardian.com</li>
 <li class='same'> 21:53 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:37 www.natesilver.net</li>
+<li> 20:37 metro.co.uk</li>
+<li> 20:35 www.natesilver.net</li>
+<li class='same'> 20:33 www.natesilver.net</li>
+<li class='same'> 20:32 www.natesilver.net</li>
+<li> 20:31 www.theguardian.com</li>
+<li class='same'> 20:29 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:05 www.theguardian.com</li>
+<li class='same'> 18:04 www.theguardian.com</li>
+<li class='same'> 18:03 www.theguardian.com</li>
 </ul>
 
 <br>
