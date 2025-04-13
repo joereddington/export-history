@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2739)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2060)</li>
-<li>docs.google.com (1719)</li>
+<li>docs.google.com (1727)</li>
 <li>bsky.app (1361)</li>
 <li>outlook.office365.com (1232)</li>
 <li>www.facebook.com (1116)</li>
 <li>www.reddit.com (1049)</li>
 <li>duckduckgo.com (754)</li>
-<li>www.amazon.co.uk (641)</li>
+<li>www.amazon.co.uk (642)</li>
 <li>chatgpt.com (580)</li>
 <li>www.theguardian.com (489)</li>
 <li>calendar.google.com (438)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:14 www.amazon.co.uk</li>
+<ul><li> 20:28 docs.google.com</li>
+<li class='same'> 20:25 docs.google.com</li>
+<li class='same'> 20:24 docs.google.com</li>
+<li class='same'> 20:23 docs.google.com</li>
+<li class='same'> 20:22 docs.google.com</li>
+<li class='same'> 20:17 docs.google.com</li>
+<li class='same'> 20:16 docs.google.com</li>
+<li class='same'> 20:15 docs.google.com</li>
+<li> 20:15 www.amazon.co.uk</li>
+<li class='same'> 20:14 www.amazon.co.uk</li>
 <li> 20:14 <a href="https://joereddington.com/todo.txt//">Joe’s Todo List</a></li>
 </ul>
 
