@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2754)</li>
+<ol><li>www.google.com (2746)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2070)</li>
-<li>docs.google.com (1733)</li>
+<li>docs.google.com (1734)</li>
 <li>bsky.app (1373)</li>
 <li>outlook.office365.com (1232)</li>
 <li>www.facebook.com (1138)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (307)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (274)</li>
-<li>login.microsoftonline.com (258)</li>
+<li>login.microsoftonline.com (256)</li>
 <li>web.whatsapp.com (248)</li>
 <li>feedly.com (242)</li>
 <li>drive.google.com (225)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:39 docs.google.com</li>
+<ul><li> 16:40 docs.google.com</li>
+<li class='same'> 16:39 docs.google.com</li>
 <li class='same'> 16:38 docs.google.com</li>
 <li class='same'> 16:37 docs.google.com</li>
 <li class='same'> 16:35 docs.google.com</li>
@@ -19461,8 +19462,7 @@ With number of accesses/minutes in parentheses
 <li> 19:24 <a href="https://www.youtube.com/watch?v=gucd9KYXkv0">(88) Train Race! 🚆 💙 🚗 | Bluey Season 2 Highlight - Road Trip | Bluey - YouTube</a></li>
 <li> 19:23 <a href="https://www.youtube.com/@BlueyOfficialChannel/videos">(88) Bluey - Official Channel - YouTube</a></li>
 <li> 19:23 <a href="https://www.youtube.com/channel/UCVzLLZkDuFGAE2BGdBuBNBg">(88) Bluey - Official Channel - YouTube</a></li>
-<li> 19:23 www.google.com</li>
-<li class='same'> 19:22 www.google.com</li>
+<li> 19:22 www.google.com</li>
 </ul>
 
 <br>
@@ -19613,8 +19613,7 @@ With number of accesses/minutes in parentheses
 <li> 16:39 mail.google.com</li>
 <li class='same'> 16:38 mail.google.com</li>
 <li> 16:38 bsky.app</li>
-<li> 16:37 l.facebook.com</li>
-<li> 16:37 bsky.app</li>
+<li class='same'> 16:37 bsky.app</li>
 <li> 16:37 www.facebook.com</li>
 <li class='same'> 16:36 www.facebook.com</li>
 <li class='same'> 16:35 www.facebook.com</li>
@@ -19641,8 +19640,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:20 mail.google.com</li>
 <li> 16:20 gmail.com</li>
 <li> 16:20 outlook.office.com</li>
-<li> 16:20 myaccount.microsoft.com</li>
-<li> 16:20 login.microsoftonline.com</li>
 <li> 16:20 myaccount.microsoft.com</li>
 <li> 16:19 bsky.app</li>
 <li> 16:19 outlook.office.com</li>
@@ -19696,7 +19693,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:32 askubuntu.com</li>
 <li class='same'> 15:30 askubuntu.com</li>
 <li> 15:30 www.google.com</li>
-<li class='same'> 15:29 www.google.com</li>
 <li> 15:29 ubuntuforums.org</li>
 <li> 15:29 www.google.com</li>
 <li> 15:24 www.tesco.com</li>
@@ -19741,8 +19737,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:17 192.168.178.57</li>
 <li> 14:17 fritz.box</li>
 <li> 14:07 pureportal.strath.ac.uk</li>
-<li> 14:06 www.google.com</li>
-<li> 14:06 pureportal.strath.ac.uk</li>
+<li class='same'> 14:06 pureportal.strath.ac.uk</li>
 <li> 14:06 www.google.com</li>
 <li class='same'> 14:02 www.google.com</li>
 <li> 13:59 pure.royalholloway.ac.uk</li>
@@ -19753,8 +19748,6 @@ With number of accesses/minutes in parentheses
 <li> 13:48 chatgpt.com</li>
 <li> 13:44 teams.microsoft.com</li>
 <li class='same'> 13:43 teams.microsoft.com</li>
-<li> 13:43 login.microsoftonline.com</li>
-<li> 13:43 teams.microsoft.com</li>
 <li> 13:43 mail.google.com</li>
 <li> 13:43 gmail.com</li>
 <li> 13:42 projects.cs.rhul.ac.uk</li>
@@ -19802,8 +19795,7 @@ With number of accesses/minutes in parentheses
 <li> 12:43 outlook.office.com</li>
 <li> 12:43 fritz.box</li>
 <li> 12:42 en.avm.de</li>
-<li> 12:42 www.google.com</li>
-<li class='same'> 12:41 www.google.com</li>
+<li> 12:41 www.google.com</li>
 <li> 12:41 fritz.box</li>
 <li class='same'> 12:40 fritz.box</li>
 <li class='same'> 12:39 fritz.box</li>
@@ -19859,7 +19851,6 @@ With number of accesses/minutes in parentheses
 <li> 10:51 www.google.com</li>
 <li> 10:50 smartathome.co.uk</li>
 <li> 10:50 www.reddit.com</li>
-<li> 10:50 www.google.com</li>
 <li> 10:50 github.com</li>
 <li> 10:50 www.google.com</li>
 <li> 10:49 chatgpt.com</li>
@@ -19887,7 +19878,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:28 fritz.box</li>
 <li> 10:24 www.wireshark.org</li>
 <li> 10:24 www.reddit.com</li>
-<li> 10:24 www.google.com</li>
 <li> 10:24 dnschecker.org</li>
 <li class='same'> 10:23 dnschecker.org</li>
 <li> 10:22 fritz.box</li>
@@ -19937,7 +19927,6 @@ With number of accesses/minutes in parentheses
 <li> 07:38 www.reddit.com</li>
 <li class='same'> 07:37 www.reddit.com</li>
 <li> 07:37 www.google.com</li>
-<li class='same'> 07:36 www.google.com</li>
 <li> 07:36 www.reddit.com</li>
 <li> 07:36 www.google.com</li>
 <li> 07:35 fritz.box</li>
@@ -19996,8 +19985,7 @@ With number of accesses/minutes in parentheses
 <li> 14:10 askubuntu.com</li>
 <li> 14:10 www.google.com</li>
 <li> 14:09 harrisonized.github.io</li>
-<li> 14:09 www.google.com</li>
-<li class='same'> 14:08 www.google.com</li>
+<li> 14:08 www.google.com</li>
 <li> 14:03 mail.google.com</li>
 <li class='same'> 14:02 mail.google.com</li>
 <li class='same'> 14:00 mail.google.com</li>
