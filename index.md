@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2750)</li>
 <li>outlook.office.com (2207)</li>
-<li>mail.google.com (2062)</li>
+<li>mail.google.com (2064)</li>
 <li>docs.google.com (1728)</li>
-<li>bsky.app (1370)</li>
+<li>bsky.app (1372)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1133)</li>
+<li>www.facebook.com (1136)</li>
 <li>www.reddit.com (1051)</li>
 <li>duckduckgo.com (758)</li>
-<li>www.amazon.co.uk (642)</li>
-<li>chatgpt.com (581)</li>
+<li>www.amazon.co.uk (644)</li>
+<li>chatgpt.com (582)</li>
 <li>www.theguardian.com (501)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (371)</li>
 <li>tvtropes.org (307)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (272)</li>
+<li>gmail.com (273)</li>
 <li>login.microsoftonline.com (258)</li>
 <li>web.whatsapp.com (247)</li>
 <li>feedly.com (242)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:34 chatgpt.com</li>
+<ul><li> 11:57 <a href="https://xkcd.com/773/">xkcd: University Website</a></li>
+<li> 11:57 go.bsky.app</li>
+<li> 11:57 bsky.app</li>
+<li class='same'> 11:56 bsky.app</li>
+<li> 11:56 mail.google.com</li>
+<li class='same'> 11:55 mail.google.com</li>
+<li> 11:55 gmail.com</li>
+<li> 11:54 www.ebay.co.uk</li>
+<li> 11:43 www.facebook.com</li>
+<li class='same'> 11:42 www.facebook.com</li>
+<li class='same'> 11:41 www.facebook.com</li>
+<li> 11:40 www.amazon.co.uk</li>
+<li> 11:39 www.musicradar.com</li>
+<li> 11:39 www.amazon.co.uk</li>
+<li> 11:38 www.ebay.co.uk</li>
+<li class='same'> 11:37 www.ebay.co.uk</li>
+<li> 11:37 chatgpt.com</li>
+<li class='same'> 11:34 chatgpt.com</li>
 <li> 11:34 chat.openai.com</li>
 <li> 11:34 www.ebay.co.uk</li>
 <li> 11:28 www.reddit.com</li>
