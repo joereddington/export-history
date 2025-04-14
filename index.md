@@ -74,12 +74,12 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (1728)</li>
 <li>bsky.app (1362)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1124)</li>
+<li>www.facebook.com (1131)</li>
 <li>www.reddit.com (1049)</li>
-<li>duckduckgo.com (754)</li>
+<li>duckduckgo.com (755)</li>
 <li>www.amazon.co.uk (642)</li>
 <li>chatgpt.com (580)</li>
-<li>www.theguardian.com (491)</li>
+<li>www.theguardian.com (494)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
 <li>www.linkedin.com (389)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (272)</li>
 <li>login.microsoftonline.com (258)</li>
 <li>web.whatsapp.com (246)</li>
-<li>feedly.com (237)</li>
+<li>feedly.com (242)</li>
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
 <li>chat.openai.com (206)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:31 www.facebook.com</li>
+<ul><li> 08:31 www.niemanlab.org</li>
+<li> 08:31 feedly.com</li>
+<li class='same'> 08:30 feedly.com</li>
+<li class='same'> 08:29 feedly.com</li>
+<li> 08:29 www.sfadb.com</li>
+<li> 08:29 feedly.com</li>
+<li> 08:29 www.giantitp.com</li>
+<li> 08:29 feedly.com</li>
+<li> 08:26 www.facebook.com</li>
+<li class='same'> 08:25 www.facebook.com</li>
+<li class='same'> 08:24 www.facebook.com</li>
+<li class='same'> 08:09 www.facebook.com</li>
+<li class='same'> 08:08 www.facebook.com</li>
+<li class='same'> 08:06 www.facebook.com</li>
+<li> 07:55 www.theguardian.com</li>
+<li class='same'> 07:53 www.theguardian.com</li>
+<li class='same'> 07:51 www.theguardian.com</li>
+<li> 07:35 www.data.gov.uk</li>
+<li> 07:34 regarchive.com</li>
+<li> 07:34 duckduckgo.com</li>
+<li> 07:34 www.facebook.com</li>
+<li class='same'> 07:31 www.facebook.com</li>
 <li class='same'> 07:24 www.facebook.com</li>
 <li class='same'> 07:23 www.facebook.com</li>
 <li> 07:21 web.whatsapp.com</li>
