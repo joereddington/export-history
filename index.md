@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2062)</li>
 <li>docs.google.com (1728)</li>
-<li>bsky.app (1366)</li>
+<li>bsky.app (1370)</li>
 <li>outlook.office365.com (1232)</li>
 <li>www.facebook.com (1131)</li>
 <li>www.reddit.com (1049)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (276)</li>
 <li>gmail.com (272)</li>
 <li>login.microsoftonline.com (258)</li>
-<li>web.whatsapp.com (246)</li>
+<li>web.whatsapp.com (247)</li>
 <li>feedly.com (242)</li>
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:43 www.waymarking.com</li>
+<ul><li> 09:52 bsky.app</li>
+<li> 09:51 wonkhe.com</li>
+<li> 09:51 go.bsky.app</li>
+<li> 09:51 bsky.app</li>
+<li class='same'> 09:49 bsky.app</li>
+<li> 09:47 www.sfadb.com</li>
+<li> 09:46 web.whatsapp.com</li>
+<li> 09:44 bsky.app</li>
+<li> 09:43 www.waymarking.com</li>
 <li> 09:43 geohack.toolforge.org</li>
 <li> 09:42 <a href="https://en.wikipedia.org/wiki/List_of_gravity_hills#United_Kingdom">List of gravity hills - Wikipedia</a></li>
 <li> 09:42 www.sfadb.com</li>
