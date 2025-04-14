@@ -72,9 +72,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2062)</li>
 <li>docs.google.com (1728)</li>
-<li>bsky.app (1361)</li>
+<li>bsky.app (1362)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1116)</li>
+<li>www.facebook.com (1124)</li>
 <li>www.reddit.com (1049)</li>
 <li>duckduckgo.com (754)</li>
 <li>www.amazon.co.uk (642)</li>
@@ -82,14 +82,14 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (491)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
-<li>www.linkedin.com (387)</li>
+<li>www.linkedin.com (389)</li>
 <li>github.com (378)</li>
 <li>moodle.royalholloway.ac.uk (371)</li>
 <li>tvtropes.org (307)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (272)</li>
 <li>login.microsoftonline.com (258)</li>
-<li>web.whatsapp.com (245)</li>
+<li>web.whatsapp.com (246)</li>
 <li>feedly.com (237)</li>
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
@@ -104,7 +104,22 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 14/04/25</H3>
+
+<br>
+
+<ul><li> 07:31 www.facebook.com</li>
+<li class='same'> 07:24 www.facebook.com</li>
+<li class='same'> 07:23 www.facebook.com</li>
+<li> 07:21 web.whatsapp.com</li>
+<li> 07:21 www.facebook.com</li>
+</ul>
+
 <H3>Sunday, 13/04/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -461,11 +476,17 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:37 www.google.com</li>
 <li> 21:37 www.theguardian.com</li>
+<li> 21:33 www.facebook.com</li>
+<li class='same'> 21:32 www.facebook.com</li>
+<li class='same'> 21:31 www.facebook.com</li>
+<li> 21:31 bsky.app</li>
+<li> 21:31 www.linkedin.com</li>
+<li class='same'> 21:30 www.linkedin.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 18:46 www.theguardian.com</li>
+<ul><li> 18:46 www.theguardian.com</li>
 <li class='same'> 18:45 www.theguardian.com</li>
 <li class='same'> 18:44 www.theguardian.com</li>
 <li class='same'> 18:43 www.theguardian.com</li>
@@ -37846,6 +37867,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 10:41 dashboards.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 06:29 www.facebook.com</li>
 </ul>
 
 <H3>Thursday, 23/05/24</H3>
