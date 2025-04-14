@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2743)</li>
+<ol><li>www.google.com (2750)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2062)</li>
 <li>docs.google.com (1728)</li>
 <li>bsky.app (1370)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1131)</li>
-<li>www.reddit.com (1049)</li>
+<li>www.facebook.com (1133)</li>
+<li>www.reddit.com (1051)</li>
 <li>duckduckgo.com (758)</li>
 <li>www.amazon.co.uk (642)</li>
-<li>chatgpt.com (580)</li>
-<li>www.theguardian.com (499)</li>
+<li>chatgpt.com (581)</li>
+<li>www.theguardian.com (501)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
 <li>www.linkedin.com (389)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (242)</li>
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
-<li>chat.openai.com (206)</li>
+<li>chat.openai.com (207)</li>
 <li>www.coursera.org (205)</li>
 <li>rhul.sharepoint.com (173)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (156)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:52 bsky.app</li>
+<ul><li> 11:34 chatgpt.com</li>
+<li> 11:34 chat.openai.com</li>
+<li> 11:34 www.ebay.co.uk</li>
+<li> 11:28 www.reddit.com</li>
+<li> 11:28 www.google.com</li>
+<li> 11:11 www.theguardian.com</li>
+<li class='same'> 11:10 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:16 www.google.com</li>
+<li> 09:58 www.facebook.com</li>
+<li class='same'> 09:56 www.facebook.com</li>
+<li> 09:52 bsky.app</li>
 <li> 09:51 wonkhe.com</li>
 <li> 09:51 go.bsky.app</li>
 <li> 09:51 bsky.app</li>
@@ -133,6 +147,17 @@ With number of accesses/minutes in parentheses
 <li> 09:06 duckduckgo.com</li>
 <li> 09:05 bsky.app</li>
 <li class='same'> 09:04 bsky.app</li>
+<li> 08:56 www.google.com</li>
+<li> 08:56 www.gov.uk</li>
+<li> 08:56 www.google.com</li>
+<li> 08:55 www.gov.uk</li>
+<li class='same'> 08:53 www.gov.uk</li>
+<li> 08:53 www.pistonheads.com</li>
+<li> 08:53 www.google.com</li>
+<li class='same'> 08:52 www.google.com</li>
+<li> 08:52 <a href="https://www.bbc.co.uk/news/articles/cd19pnky4x5o.amp">Thousands of London drivers hit by fines from cloned car plates - BBC News</a></li>
+<li> 08:52 www.google.com</li>
+<li> 08:50 www.reddit.com</li>
 <li> 08:50 www.google.com</li>
 <li> 08:35 bsky.app</li>
 <li> 08:31 www.niemanlab.org</li>
