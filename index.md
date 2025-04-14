@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2750)</li>
+<ol><li>www.google.com (2751)</li>
 <li>outlook.office.com (2207)</li>
-<li>mail.google.com (2064)</li>
+<li>mail.google.com (2069)</li>
 <li>docs.google.com (1728)</li>
-<li>bsky.app (1372)</li>
+<li>bsky.app (1373)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1136)</li>
+<li>www.facebook.com (1138)</li>
 <li>www.reddit.com (1051)</li>
 <li>duckduckgo.com (758)</li>
 <li>www.amazon.co.uk (644)</li>
@@ -87,13 +87,13 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (371)</li>
 <li>tvtropes.org (307)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (273)</li>
+<li>gmail.com (274)</li>
 <li>login.microsoftonline.com (258)</li>
-<li>web.whatsapp.com (247)</li>
+<li>web.whatsapp.com (248)</li>
 <li>feedly.com (242)</li>
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
-<li>chat.openai.com (207)</li>
+<li>chat.openai.com (208)</li>
 <li>www.coursera.org (205)</li>
 <li>rhul.sharepoint.com (173)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (156)</li>
@@ -105,6 +105,33 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 14/04/25</H3>
+
+<br>
+
+<ul><li> 16:14 chat.openai.com</li>
+<li> 16:13 www.google.com</li>
+<li> 16:12 jobs.ravensbourne.ac.uk</li>
+<li class='same'> 16:11 jobs.ravensbourne.ac.uk</li>
+<li> 16:09 Local file</li>
+<li> 16:09 mail-attachment.googleusercontent.com</li>
+<li> 16:09 mail.google.com</li>
+<li> 16:08 jobs.ravensbourne.ac.uk</li>
+<li class='same'> 16:07 jobs.ravensbourne.ac.uk</li>
+<li> 16:07 mail.google.com</li>
+<li> 16:04 jobs.ravensbourne.ac.uk</li>
+<li> 16:04 mail.google.com</li>
+<li class='same'> 16:03 mail.google.com</li>
+<li> 16:03 gmail.com</li>
+<li> 16:02 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:34 mail.google.com</li>
+<li> 13:32 www.facebook.com</li>
+<li class='same'> 13:30 www.facebook.com</li>
+<li> 13:29 bsky.app</li>
+</ul>
 
 <br>
 
