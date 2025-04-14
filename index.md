@@ -70,8 +70,8 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2754)</li>
 <li>outlook.office.com (2207)</li>
-<li>mail.google.com (2069)</li>
-<li>docs.google.com (1728)</li>
+<li>mail.google.com (2070)</li>
+<li>docs.google.com (1733)</li>
 <li>bsky.app (1373)</li>
 <li>outlook.office365.com (1232)</li>
 <li>www.facebook.com (1138)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:29 jobs.ravensbourne.ac.uk</li>
+<ul><li> 16:39 docs.google.com</li>
+<li class='same'> 16:38 docs.google.com</li>
+<li class='same'> 16:37 docs.google.com</li>
+<li class='same'> 16:35 docs.google.com</li>
+<li class='same'> 16:34 docs.google.com</li>
+<li> 16:34 www.sfadb.com</li>
+<li> 16:34 mail.google.com</li>
+<li> 16:34 jobs.ravensbourne.ac.uk</li>
+<li class='same'> 16:32 jobs.ravensbourne.ac.uk</li>
+<li class='same'> 16:30 jobs.ravensbourne.ac.uk</li>
+<li class='same'> 16:29 jobs.ravensbourne.ac.uk</li>
 <li class='same'> 16:28 jobs.ravensbourne.ac.uk</li>
 <li> 16:27 earth.google.com</li>
 <li class='same'> 16:26 earth.google.com</li>
