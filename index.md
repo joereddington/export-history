@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2739)</li>
+<ol><li>www.google.com (2743)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2062)</li>
 <li>docs.google.com (1728)</li>
-<li>bsky.app (1362)</li>
+<li>bsky.app (1366)</li>
 <li>outlook.office365.com (1232)</li>
 <li>www.facebook.com (1131)</li>
 <li>www.reddit.com (1049)</li>
-<li>duckduckgo.com (755)</li>
+<li>duckduckgo.com (758)</li>
 <li>www.amazon.co.uk (642)</li>
 <li>chatgpt.com (580)</li>
-<li>www.theguardian.com (494)</li>
+<li>www.theguardian.com (499)</li>
 <li>calendar.google.com (438)</li>
 <li>rhul-my.sharepoint.com (434)</li>
 <li>www.linkedin.com (389)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:31 www.niemanlab.org</li>
+<ul><li> 09:43 www.waymarking.com</li>
+<li> 09:43 geohack.toolforge.org</li>
+<li> 09:42 <a href="https://en.wikipedia.org/wiki/List_of_gravity_hills#United_Kingdom">List of gravity hills - Wikipedia</a></li>
+<li> 09:42 www.sfadb.com</li>
+<li class='same'> 09:41 www.sfadb.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:08 duckduckgo.com</li>
+<li> 09:07 <a href="https://en.wikipedia.org/wiki/List_of_gravity_hills">List of gravity hills - Wikipedia</a></li>
+<li> 09:07 duckduckgo.com</li>
+<li> 09:07 bsky.app</li>
+<li> 09:06 <a href="https://xkcd.com/773/">xkcd: University Website</a></li>
+<li> 09:06 duckduckgo.com</li>
+<li> 09:05 bsky.app</li>
+<li class='same'> 09:04 bsky.app</li>
+<li> 08:50 www.google.com</li>
+<li> 08:35 bsky.app</li>
+<li> 08:31 www.niemanlab.org</li>
 <li> 08:31 feedly.com</li>
 <li class='same'> 08:30 feedly.com</li>
 <li class='same'> 08:29 feedly.com</li>
@@ -125,6 +144,9 @@ With number of accesses/minutes in parentheses
 <li> 07:55 www.theguardian.com</li>
 <li class='same'> 07:53 www.theguardian.com</li>
 <li class='same'> 07:51 www.theguardian.com</li>
+<li> 07:39 www.gov.uk</li>
+<li> 07:38 www.google.com</li>
+<li> 07:38 www.theguardian.com</li>
 <li> 07:35 www.data.gov.uk</li>
 <li> 07:34 regarchive.com</li>
 <li> 07:34 duckduckgo.com</li>
@@ -168,6 +190,33 @@ With number of accesses/minutes in parentheses
 <ul><li> 18:49 chatgpt.com</li>
 <li class='same'> 18:48 chatgpt.com</li>
 <li> 18:48 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:07 www.theguardian.com</li>
+<li class='same'> 17:06 www.theguardian.com</li>
+<li class='same'> 17:05 www.theguardian.com</li>
+<li class='same'> 17:04 www.theguardian.com</li>
+<li> 17:04 www.parkrun.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:17 www.parkrun.org.uk</li>
+<li class='same'> 16:13 www.parkrun.org.uk</li>
+<li class='same'> 16:12 www.parkrun.org.uk</li>
+<li class='same'> 16:11 www.parkrun.org.uk</li>
+<li> 16:09 www.activeluton.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:12 www.activeluton.co.uk</li>
+<li> 15:11 www.google.com</li>
+<li> 15:11 www.activeluton.co.uk</li>
+<li> 15:11 www.google.com</li>
+<li> 15:11 www.freshcar.co.uk</li>
 </ul>
 
 <br>
