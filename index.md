@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2746)</li>
+<ol><li>www.google.com (2757)</li>
 <li>outlook.office.com (2207)</li>
 <li>mail.google.com (2070)</li>
 <li>docs.google.com (1736)</li>
-<li>bsky.app (1374)</li>
+<li>bsky.app (1377)</li>
 <li>outlook.office365.com (1232)</li>
-<li>www.facebook.com (1139)</li>
-<li>www.reddit.com (1053)</li>
+<li>www.facebook.com (1140)</li>
+<li>www.reddit.com (1056)</li>
 <li>duckduckgo.com (758)</li>
-<li>www.amazon.co.uk (644)</li>
+<li>www.amazon.co.uk (647)</li>
 <li>chatgpt.com (584)</li>
 <li>www.theguardian.com (501)</li>
 <li>calendar.google.com (438)</li>
@@ -104,17 +104,59 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 15/04/25</H3>
+
+<br>
+
+<ul><li> 08:07 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:17 www.amazon.co.uk</li>
+<li class='same'> 06:16 www.amazon.co.uk</li>
+<li> 06:16 www.google.com</li>
+<li> 06:16 bsky.app</li>
+</ul>
+
 <H3>Monday, 14/04/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
 <ul><li> 20:43 docs.google.com</li>
 <li class='same'> 20:42 docs.google.com</li>
+<li> 20:29 bsky.app</li>
+<li class='same'> 20:28 bsky.app</li>
+<li> 20:28 www.google.com</li>
+<li class='same'> 20:27 www.google.com</li>
+<li> 20:27 www.instagram.com</li>
+<li> 20:26 www.google.com</li>
+<li> 20:26 tom-percival.com</li>
+<li> 20:25 www.google.com</li>
+<li> 20:24 www.amazon.com</li>
+<li> 20:21 www.sfadb.com</li>
+<li> 20:21 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 18:31 www.facebook.com</li>
+<ul><li class='same'> 19:29 www.google.com</li>
+<li class='same'> 19:28 www.google.com</li>
+<li class='same'> 19:27 www.google.com</li>
+<li class='same'> 19:26 www.google.com</li>
+<li> 19:26 www.reddit.com</li>
+<li> 19:26 www.google.com</li>
+<li> 19:26 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:36 www.facebook.com</li>
+<li class='same'> 18:31 www.facebook.com</li>
 <li> 18:31 bsky.app</li>
 </ul>
 
@@ -202,7 +244,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:34 chatgpt.com</li>
 <li> 11:34 chat.openai.com</li>
 <li> 11:34 www.ebay.co.uk</li>
-<li> 11:28 www.reddit.com</li>
+<li> 11:29 www.reddit.com</li>
+<li class='same'> 11:28 www.reddit.com</li>
 <li> 11:28 www.google.com</li>
 <li> 11:11 www.theguardian.com</li>
 <li class='same'> 11:10 www.theguardian.com</li>
@@ -34158,6 +34201,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:14 outlook.office.com</li>
 <li> 10:08 rl.talis.com</li>
 <li> 10:07 outlook.office.com</li>
+<li> 09:47 www.google.co.uk</li>
 <li> 09:47 www.google.com</li>
 <li> 09:46 outlook.office.com</li>
 <li class='same'> 09:34 outlook.office.com</li>
