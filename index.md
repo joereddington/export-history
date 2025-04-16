@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2759)</li>
+<ol><li>www.google.com (2767)</li>
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2072)</li>
 <li>docs.google.com (1736)</li>
@@ -108,6 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:10 www.google.com</li>
+<li class='same'> 14:09 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:40 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 08:21 duckduckgo.com</li>
 <li> 08:21 www.reddit.com</li>
 <li> 08:21 duckduckgo.com</li>
@@ -127,7 +138,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:43 www.theguardian.com</li>
+<ul><li> 06:49 www.philipkdickaward.org</li>
+<li> 06:49 www.google.com</li>
+<li> 06:49 www.sfadb.com</li>
+<li> 06:49 www.google.com</li>
+<li class='same'> 06:48 www.google.com</li>
+<li> 06:48 www.davids-bookshops.co.uk</li>
+<li> 06:47 www.google.com</li>
+<li> 06:47 www.clarkeaward.com</li>
+<li> 06:47 clarkeaward.substack.com</li>
+<li class='same'> 06:46 clarkeaward.substack.com</li>
+<li> 06:46 www.clarkeaward.com</li>
+<li> 06:46 www.google.com</li>
+<li> 06:43 www.theguardian.com</li>
 </ul>
 
 <br>
