@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2767)</li>
 <li>outlook.office.com (2243)</li>
-<li>mail.google.com (2072)</li>
+<li>mail.google.com (2073)</li>
 <li>docs.google.com (1736)</li>
 <li>bsky.app (1380)</li>
 <li>outlook.office365.com (1233)</li>
 <li>www.facebook.com (1142)</li>
 <li>www.reddit.com (1059)</li>
 <li>duckduckgo.com (760)</li>
-<li>www.amazon.co.uk (647)</li>
+<li>www.amazon.co.uk (649)</li>
 <li>chatgpt.com (585)</li>
 <li>www.theguardian.com (508)</li>
 <li>rhul-my.sharepoint.com (443)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 16/04/25</H3>
+
+<br>
+
+<ul><li> 18:26 www.amazon.co.uk</li>
+<li> 18:26 mail.google.com</li>
+<li> 18:25 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
