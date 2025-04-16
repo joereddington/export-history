@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2759)</li>
-<li>outlook.office.com (2241)</li>
+<li>outlook.office.com (2243)</li>
 <li>mail.google.com (2072)</li>
 <li>docs.google.com (1736)</li>
-<li>bsky.app (1377)</li>
+<li>bsky.app (1380)</li>
 <li>outlook.office365.com (1233)</li>
-<li>www.facebook.com (1141)</li>
-<li>www.reddit.com (1058)</li>
-<li>duckduckgo.com (758)</li>
+<li>www.facebook.com (1142)</li>
+<li>www.reddit.com (1059)</li>
+<li>duckduckgo.com (760)</li>
 <li>www.amazon.co.uk (647)</li>
 <li>chatgpt.com (585)</li>
 <li>www.theguardian.com (508)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>calendar.google.com (438)</li>
-<li>moodle.royalholloway.ac.uk (397)</li>
+<li>moodle.royalholloway.ac.uk (399)</li>
 <li>www.linkedin.com (389)</li>
 <li>github.com (378)</li>
 <li>tvtropes.org (307)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (274)</li>
-<li>login.microsoftonline.com (264)</li>
+<li>login.microsoftonline.com (266)</li>
 <li>web.whatsapp.com (249)</li>
 <li>feedly.com (242)</li>
 <li>drive.google.com (225)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 16/04/25</H3>
+
+<br>
+
+<ul><li> 08:21 duckduckgo.com</li>
+<li> 08:21 www.reddit.com</li>
+<li> 08:21 duckduckgo.com</li>
+<li> 08:20 www.ebay.co.uk</li>
+<li class='same'> 08:19 www.ebay.co.uk</li>
+<li> 08:07 bsky.app</li>
+<li> 08:06 www.facebook.com</li>
+<li> 08:05 bsky.app</li>
+<li class='same'> 08:04 bsky.app</li>
+<li> 08:04 outlook.office.com</li>
+<li> 08:03 moodle.royalholloway.ac.uk</li>
+<li> 08:03 login.microsoftonline.com</li>
+<li> 08:03 moodle.royalholloway.ac.uk</li>
+<li> 08:03 login.microsoftonline.com</li>
+<li> 08:02 outlook.office.com</li>
+</ul>
 
 <br>
 
