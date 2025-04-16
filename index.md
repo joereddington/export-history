@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2757)</li>
-<li>outlook.office.com (2239)</li>
+<ol><li>www.google.com (2759)</li>
+<li>outlook.office.com (2241)</li>
 <li>mail.google.com (2072)</li>
 <li>docs.google.com (1736)</li>
 <li>bsky.app (1377)</li>
 <li>outlook.office365.com (1233)</li>
 <li>www.facebook.com (1141)</li>
-<li>www.reddit.com (1056)</li>
+<li>www.reddit.com (1058)</li>
 <li>duckduckgo.com (758)</li>
 <li>www.amazon.co.uk (647)</li>
 <li>chatgpt.com (585)</li>
-<li>www.theguardian.com (501)</li>
+<li>www.theguardian.com (508)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>calendar.google.com (438)</li>
-<li>moodle.royalholloway.ac.uk (396)</li>
+<li>moodle.royalholloway.ac.uk (397)</li>
 <li>www.linkedin.com (389)</li>
 <li>github.com (378)</li>
 <li>tvtropes.org (307)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (274)</li>
 <li>login.microsoftonline.com (264)</li>
-<li>web.whatsapp.com (248)</li>
+<li>web.whatsapp.com (249)</li>
 <li>feedly.com (242)</li>
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
@@ -104,11 +104,36 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 16/04/25</H3>
+
+<br>
+
+<ul><li> 06:43 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:04 www.theguardian.com</li>
+<li class='same'> 06:03 www.theguardian.com</li>
+<li class='same'> 06:02 www.theguardian.com</li>
+<li class='same'> 06:00 www.theguardian.com</li>
+<li> 06:00 www.google.com</li>
+</ul>
+
 <H3>Tuesday, 15/04/25</H3>
 
 <br>
 
-<ul><li> 20:55 moodle.royalholloway.ac.uk</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:09 www.google.com</li>
+<li> 21:01 web.whatsapp.com</li>
+<li> 21:01 outlook.office.com</li>
+<li class='same'> 21:00 outlook.office.com</li>
+<li> 20:59 moodle.royalholloway.ac.uk</li>
+<li class='same'> 20:55 moodle.royalholloway.ac.uk</li>
 <li> 20:49 outlook.office.com</li>
 <li> 20:49 moodle.royalholloway.ac.uk</li>
 <li> 20:26 outlook.office.com</li>
@@ -174,7 +199,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 13:20 outlook.office.com</li>
+<ul><li> 15:47 www.reddit.com</li>
+<li> 15:46 www.theguardian.com</li>
+<li> 15:45 www.reddit.com</li>
+<li> 15:34 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:20 outlook.office.com</li>
 <li class='same'> 13:19 outlook.office.com</li>
 <li class='same'> 13:18 outlook.office.com</li>
 <li class='same'> 13:17 outlook.office.com</li>
