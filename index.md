@@ -71,26 +71,26 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2770)</li>
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2073)</li>
-<li>docs.google.com (1737)</li>
-<li>bsky.app (1380)</li>
+<li>docs.google.com (1739)</li>
+<li>bsky.app (1388)</li>
 <li>outlook.office365.com (1233)</li>
-<li>www.facebook.com (1143)</li>
-<li>www.reddit.com (1059)</li>
-<li>duckduckgo.com (760)</li>
+<li>www.facebook.com (1144)</li>
+<li>www.reddit.com (1064)</li>
+<li>duckduckgo.com (761)</li>
 <li>www.amazon.co.uk (650)</li>
 <li>chatgpt.com (585)</li>
 <li>www.theguardian.com (510)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>calendar.google.com (438)</li>
 <li>moodle.royalholloway.ac.uk (399)</li>
-<li>www.linkedin.com (389)</li>
+<li>www.linkedin.com (398)</li>
 <li>github.com (378)</li>
 <li>tvtropes.org (307)</li>
 <li>fritz.box (276)</li>
 <li>gmail.com (274)</li>
 <li>login.microsoftonline.com (266)</li>
 <li>web.whatsapp.com (249)</li>
-<li>feedly.com (242)</li>
+<li>feedly.com (243)</li>
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
 <li>chat.openai.com (209)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:23 www.amazon.co.uk</li>
+<ul><li> 08:03 www.reddit.com</li>
+<li class='same'> 08:02 www.reddit.com</li>
+<li class='same'> 08:01 www.reddit.com</li>
+<li class='same'> 08:00 www.reddit.com</li>
+<li> 07:47 bsky.app</li>
+<li> 07:47 www.linkedin.com</li>
+<li class='same'> 07:46 www.linkedin.com</li>
+<li class='same'> 07:44 www.linkedin.com</li>
+<li class='same'> 07:43 www.linkedin.com</li>
+<li class='same'> 07:42 www.linkedin.com</li>
+<li class='same'> 07:41 www.linkedin.com</li>
+<li class='same'> 07:38 www.linkedin.com</li>
+<li class='same'> 07:37 www.linkedin.com</li>
+<li class='same'> 07:36 www.linkedin.com</li>
+<li> 07:35 bsky.app</li>
+<li> 07:35 <a href="https://en.wikipedia.org/wiki/Coincidence">Coincidence - Wikipedia</a></li>
+<li> 07:35 duckduckgo.com</li>
+<li> 07:33 bsky.app</li>
+<li class='same'> 07:32 bsky.app</li>
+<li class='same'> 07:30 bsky.app</li>
+<li> 07:29 www.facebook.com</li>
+<li> 07:24 bsky.app</li>
+<li> 07:23 www.amazon.co.uk</li>
 <li> 07:23 docs.google.com</li>
 <li> 07:23 www.facebook.com</li>
 <li> 07:23 <a href="https://joereddington.com/todo.txt//">Joe’s Todo List</a></li>
@@ -119,6 +141,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:12 docs.google.com</li>
+<li> 21:11 one.google.com</li>
+<li> 21:11 docs.google.com</li>
+</ul>
 
 <br>
 
@@ -155,7 +184,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:21 duckduckgo.com</li>
+<ul><li> 08:25 bsky.app</li>
+<li class='same'> 08:23 bsky.app</li>
+<li> 08:23 www.schneier.com</li>
+<li> 08:22 feedly.com</li>
+<li> 08:22 www.reddit.com</li>
+<li> 08:21 duckduckgo.com</li>
 <li> 08:21 www.reddit.com</li>
 <li> 08:21 duckduckgo.com</li>
 <li> 08:20 www.ebay.co.uk</li>
