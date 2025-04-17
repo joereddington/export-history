@@ -70,24 +70,24 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2776)</li>
 <li>outlook.office.com (2243)</li>
-<li>mail.google.com (2073)</li>
+<li>mail.google.com (2078)</li>
 <li>docs.google.com (1748)</li>
-<li>bsky.app (1393)</li>
+<li>bsky.app (1394)</li>
 <li>outlook.office365.com (1233)</li>
-<li>www.facebook.com (1146)</li>
-<li>www.reddit.com (1070)</li>
-<li>duckduckgo.com (763)</li>
-<li>www.amazon.co.uk (650)</li>
+<li>www.facebook.com (1147)</li>
+<li>www.reddit.com (1073)</li>
+<li>duckduckgo.com (764)</li>
+<li>www.amazon.co.uk (657)</li>
 <li>chatgpt.com (587)</li>
 <li>www.theguardian.com (517)</li>
 <li>rhul-my.sharepoint.com (443)</li>
-<li>calendar.google.com (438)</li>
-<li>www.linkedin.com (400)</li>
+<li>calendar.google.com (439)</li>
+<li>www.linkedin.com (404)</li>
 <li>moodle.royalholloway.ac.uk (399)</li>
 <li>github.com (378)</li>
 <li>tvtropes.org (307)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (274)</li>
+<li>gmail.com (276)</li>
 <li>login.microsoftonline.com (265)</li>
 <li>web.whatsapp.com (249)</li>
 <li>feedly.com (243)</li>
@@ -108,6 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:04 www.linkedin.com</li>
+<li> 18:03 calendar.google.com</li>
+<li> 18:03 www.linkedin.com</li>
+<li> 18:03 www.facebook.com</li>
+<li> 18:03 www.linkedin.com</li>
+<li class='same'> 17:58 www.linkedin.com</li>
+<li> 17:58 mail.google.com</li>
+<li class='same'> 17:57 mail.google.com</li>
+<li> 17:57 gmail.com</li>
+<li> 17:57 www.midjourney.com</li>
+<li> 17:57 discord.com</li>
+<li> 17:57 www.midjourney.com</li>
+<li> 17:57 duckduckgo.com</li>
+<li> 17:56 mail.google.com</li>
+<li> 17:56 www.ebay.co.uk</li>
+<li> 17:56 mail.google.com</li>
+<li class='same'> 17:55 mail.google.com</li>
+<li> 17:55 gmail.com</li>
+<li> 17:55 www.selectspecs.com</li>
+<li> 17:55 www.paypal.com</li>
+<li class='same'> 17:54 www.paypal.com</li>
+<li> 17:54 www.selectspecs.com</li>
+<li class='same'> 17:53 www.selectspecs.com</li>
+<li class='same'> 17:52 www.selectspecs.com</li>
+<li class='same'> 17:51 www.selectspecs.com</li>
+<li> 17:51 www.amazon.co.uk</li>
+<li> 17:50 www.selectspecs.com</li>
+<li> 17:50 www.amazon.co.uk</li>
+<li> 17:50 www.selectspecs.com</li>
+<li> 17:50 www.amazon.co.uk</li>
+<li class='same'> 17:49 www.amazon.co.uk</li>
+<li class='same'> 17:48 www.amazon.co.uk</li>
+<li class='same'> 17:47 www.amazon.co.uk</li>
+<li> 17:47 www.selectspecs.com</li>
+<li> 17:47 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 16:54 www.reddit.com</li>
 <li class='same'> 16:53 www.reddit.com</li>
 <li class='same'> 16:52 www.reddit.com</li>
@@ -120,11 +159,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 15:43 www.theguardian.com</li>
 <li> 15:42 www.reddit.com</li>
-</ul>
-
-<br>
-
-<ul><li> 15:00 docs.google.com</li>
+<li class='same'> 15:35 www.reddit.com</li>
+<li class='same'> 15:34 www.reddit.com</li>
+<li class='same'> 15:32 www.reddit.com</li>
+<li> 15:19 bsky.app</li>
+<li> 15:00 docs.google.com</li>
 <li class='same'> 14:59 docs.google.com</li>
 <li class='same'> 14:58 docs.google.com</li>
 <li class='same'> 14:57 docs.google.com</li>
@@ -37612,6 +37651,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:42 discord.com</li>
 <li> 10:15 whitewaterwriters.com</li>
 <li> 10:08 discord.com</li>
+<li> 10:06 www.midjourney.com</li>
 <li> 09:58 chatgpt.com</li>
 <li> 09:53 discord.com</li>
 <li> 09:28 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
