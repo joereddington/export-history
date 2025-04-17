@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2774)</li>
+<ol><li>www.google.com (2775)</li>
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2073)</li>
-<li>docs.google.com (1739)</li>
-<li>bsky.app (1390)</li>
+<li>docs.google.com (1748)</li>
+<li>bsky.app (1393)</li>
 <li>outlook.office365.com (1233)</li>
-<li>www.facebook.com (1145)</li>
+<li>www.facebook.com (1146)</li>
 <li>www.reddit.com (1064)</li>
-<li>duckduckgo.com (761)</li>
+<li>duckduckgo.com (763)</li>
 <li>www.amazon.co.uk (650)</li>
-<li>chatgpt.com (585)</li>
+<li>chatgpt.com (587)</li>
 <li>www.theguardian.com (515)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>calendar.google.com (438)</li>
@@ -93,11 +93,11 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (243)</li>
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
-<li>chat.openai.com (209)</li>
+<li>chat.openai.com (210)</li>
 <li>www.coursera.org (205)</li>
 <li>rhul.sharepoint.com (173)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (156)</li>
-<li>www.tesco.com (139)</li>
+<li>www.tesco.com (141)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,12 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:20 www.google.com</li>
+<ul><li> 15:00 docs.google.com</li>
+<li class='same'> 14:59 docs.google.com</li>
+<li class='same'> 14:58 docs.google.com</li>
+<li class='same'> 14:57 docs.google.com</li>
+<li> 14:56 www.tesco.com</li>
+<li> 14:56 www.calculator.net</li>
+<li class='same'> 14:55 www.calculator.net</li>
+<li> 14:55 duckduckgo.com</li>
+<li> 14:55 www.mindpumpmedia.com</li>
+<li> 14:55 info.rpstrength.com</li>
+<li> 14:55 www.google.com</li>
+<li> 14:53 docs.google.com</li>
+<li class='same'> 14:52 docs.google.com</li>
+<li> 14:52 www.tesco.com</li>
+<li> 14:52 duckduckgo.com</li>
+<li> 14:52 docs.google.com</li>
+<li class='same'> 14:51 docs.google.com</li>
+<li class='same'> 14:50 docs.google.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 11:00 www.google.com</li>
+<ul><li> 14:07 www.facebook.com</li>
+<li> 14:07 bsky.app</li>
+<li> 13:56 chatgpt.com</li>
+<li class='same'> 13:55 chatgpt.com</li>
+<li> 13:55 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:20 www.google.com</li>
+<li> 12:15 bsky.app</li>
+<li class='same'> 12:14 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 11:00 www.google.com</li>
 <li class='same'> 10:59 www.google.com</li>
 <li> 10:59 www.ukpol.co.uk</li>
 <li> 10:59 www.google.com</li>
