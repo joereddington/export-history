@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2778)</li>
+<ol><li>www.google.com (2783)</li>
 <li>outlook.office.com (2243)</li>
-<li>mail.google.com (2090)</li>
+<li>mail.google.com (2100)</li>
 <li>docs.google.com (1748)</li>
 <li>bsky.app (1400)</li>
 <li>outlook.office365.com (1233)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (517)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>calendar.google.com (440)</li>
-<li>www.linkedin.com (405)</li>
+<li>www.linkedin.com (406)</li>
 <li>moodle.royalholloway.ac.uk (399)</li>
 <li>github.com (378)</li>
 <li>tvtropes.org (307)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:44 mail.google.com</li>
+<ul><li> 08:58 mail.google.com</li>
+<li class='same'> 08:57 mail.google.com</li>
+<li> 08:56 www.google.com</li>
+<li class='same'> 08:55 www.google.com</li>
+<li class='same'> 08:54 www.google.com</li>
+<li> 08:54 mail.google.com</li>
+<li class='same'> 08:53 mail.google.com</li>
+<li class='same'> 08:52 mail.google.com</li>
+<li class='same'> 08:51 mail.google.com</li>
+<li> 08:50 tracking.labour.email</li>
+<li> 08:50 act.labour.org.uk</li>
+<li> 08:50 organise.labour.org.uk</li>
+<li> 08:50 mail.google.com</li>
+<li class='same'> 08:49 mail.google.com</li>
+<li> 08:48 groups.google.com</li>
+<li> 08:48 accounts.google.com</li>
+<li> 08:48 www.google.com</li>
+<li> 08:48 mail.google.com</li>
+<li> 08:48 www.humblebundle.com</li>
+<li> 08:48 www.googleadservices.com</li>
+<li> 08:47 www.google.com</li>
+<li> 08:47 mail.google.com</li>
+<li> 08:44 www.linkedin.com</li>
+<li> 08:44 mail.google.com</li>
 <li> 08:44 www.humblebundle.com</li>
 <li> 08:44 www.google.com</li>
 <li> 08:44 e.mailer.humblebundle.com</li>
