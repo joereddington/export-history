@@ -70,8 +70,8 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2783)</li>
 <li>outlook.office.com (2243)</li>
-<li>mail.google.com (2103)</li>
-<li>docs.google.com (1748)</li>
+<li>mail.google.com (2104)</li>
+<li>docs.google.com (1749)</li>
 <li>bsky.app (1400)</li>
 <li>outlook.office365.com (1233)</li>
 <li>www.facebook.com (1160)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:57 mail.google.com</li>
+<ul><li> 11:18 docs.google.com</li>
+<li> 11:15 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:57 mail.google.com</li>
 <li> 09:56 <a href="https://joereddington.com/todo.txt//">Joe’s Todo List</a></li>
 <li class='same'> 09:40 <a href="https://joereddington.com/todo.txt//">Joe’s Todo List</a></li>
 <li> 09:33 calendar.google.com</li>
