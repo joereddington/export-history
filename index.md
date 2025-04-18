@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (768)</li>
 <li>www.amazon.co.uk (658)</li>
 <li>chatgpt.com (589)</li>
-<li>www.theguardian.com (522)</li>
+<li>www.theguardian.com (524)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>calendar.google.com (442)</li>
 <li>www.linkedin.com (409)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (265)</li>
 <li>web.whatsapp.com (252)</li>
 <li>feedly.com (244)</li>
-<li>drive.google.com (226)</li>
+<li>drive.google.com (227)</li>
 <li>qbo.intuit.com (225)</li>
 <li>chat.openai.com (211)</li>
 <li>www.coursera.org (205)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:54 mail.google.com</li>
+<ul><li> 15:39 www.theguardian.com</li>
+<li class='same'> 15:38 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:54 drive.google.com</li>
+<li> 14:54 mail.google.com</li>
 <li> 14:54 gmail.com</li>
 </ul>
 
