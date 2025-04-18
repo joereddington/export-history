@@ -70,33 +70,33 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2790)</li>
 <li>outlook.office.com (2243)</li>
-<li>mail.google.com (2123)</li>
+<li>mail.google.com (2126)</li>
 <li>docs.google.com (1755)</li>
-<li>bsky.app (1402)</li>
+<li>bsky.app (1404)</li>
 <li>outlook.office365.com (1233)</li>
-<li>www.facebook.com (1171)</li>
+<li>www.facebook.com (1172)</li>
 <li>www.reddit.com (1077)</li>
 <li>duckduckgo.com (768)</li>
 <li>www.amazon.co.uk (658)</li>
 <li>chatgpt.com (589)</li>
-<li>www.theguardian.com (519)</li>
+<li>www.theguardian.com (522)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>calendar.google.com (442)</li>
 <li>www.linkedin.com (409)</li>
 <li>moodle.royalholloway.ac.uk (399)</li>
 <li>github.com (381)</li>
 <li>tvtropes.org (307)</li>
-<li>gmail.com (279)</li>
+<li>gmail.com (280)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (265)</li>
-<li>web.whatsapp.com (251)</li>
+<li>web.whatsapp.com (252)</li>
 <li>feedly.com (244)</li>
-<li>drive.google.com (225)</li>
+<li>drive.google.com (226)</li>
 <li>qbo.intuit.com (225)</li>
 <li>chat.openai.com (211)</li>
 <li>www.coursera.org (205)</li>
 <li>rhul.sharepoint.com (173)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (157)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (158)</li>
 <li>www.tesco.com (141)</li>
 
 
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:09 apply.unity.co.uk</li>
+<ul><li> 13:21 www.theguardian.com</li>
+<li class='same'> 13:20 www.theguardian.com</li>
+<li class='same'> 13:16 www.theguardian.com</li>
+<li> 13:12 mail.google.com</li>
+<li> 13:11 apply.unity.co.uk</li>
+<li> 13:11 mail.google.com</li>
+<li> 13:11 accounts.google.com</li>
+<li> 13:11 drive.google.com</li>
+<li> 13:10 kdpreports.amazon.com</li>
+<li> 13:10 mail.google.com</li>
+<li> 13:10 accounts.google.com</li>
+<li> 13:10 gmail.com</li>
+<li> 13:10 kdp.amazon.com</li>
+<li> 13:09 apply.unity.co.uk</li>
 <li> 13:09 www.unity.co.uk</li>
 <li> 13:09 www.google.com</li>
 <li> 13:09 assets.unity.co.uk</li>
@@ -121,6 +134,12 @@ With number of accesses/minutes in parentheses
 <li> 13:08 www.google.com</li>
 <li> 13:08 apply.unity.co.uk</li>
 <li> 13:08 mail.google.com</li>
+<li> 13:07 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:06 www.whitewaterwriters.com</li>
+<li> 13:06 www.facebook.com</li>
+<li> 13:05 web.whatsapp.com</li>
+<li> 13:05 bsky.app</li>
+<li class='same'> 13:04 bsky.app</li>
 <li> 13:04 www.whitewaterwriters.com</li>
 <li> 13:04 whitewaterwriters.com</li>
 <li class='same'> 13:03 whitewaterwriters.com</li>
@@ -13330,8 +13349,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:43 docs.google.com</li>
 <li class='same'> 16:42 docs.google.com</li>
 <li> 16:41 web.whatsapp.com</li>
+<li> 16:40 www.whitewaterwriters.com</li>
 <li> 16:39 equalitytime.co.uk</li>
 <li> 16:39 theopenvoicefactory.org</li>
+<li> 16:39 www.whitewaterwriters.com</li>
 <li> 16:37 docs.google.com</li>
 <li class='same'> 16:36 docs.google.com</li>
 <li class='same'> 16:32 docs.google.com</li>
@@ -29208,31 +29229,42 @@ With number of accesses/minutes in parentheses
 <li> 18:50 mail.google.com</li>
 <li> 18:49 whitewaterwriters.com</li>
 <li> 18:49 equalitytime.github.io</li>
+<li> 18:49 www.whitewaterwriters.com</li>
 <li> 18:49 bsky.app</li>
 <li class='same'> 18:48 bsky.app</li>
 <li> 18:47 mail.google.com</li>
 <li> 18:45 whitewaterwriters.com</li>
 <li> 18:45 equalitytime.github.io</li>
+<li> 18:45 www.whitewaterwriters.com</li>
 <li> 18:45 whitewaterwriters.com</li>
 <li> 18:45 equalitytime.github.io</li>
+<li> 18:45 www.whitewaterwriters.com</li>
 <li> 18:45 github.com</li>
 <li> 18:44 whitewaterwriters.com</li>
 <li> 18:44 equalitytime.github.io</li>
+<li> 18:44 www.whitewaterwriters.com</li>
 <li> 18:44 whitewaterwriters.com</li>
 <li> 18:44 equalitytime.github.io</li>
+<li> 18:44 www.whitewaterwriters.com</li>
 <li> 18:44 github.com</li>
 <li> 18:44 whitewaterwriters.com</li>
 <li> 18:44 equalitytime.github.io</li>
+<li> 18:44 www.whitewaterwriters.com</li>
 <li> 18:43 whitewaterwriters.com</li>
 <li> 18:43 equalitytime.github.io</li>
+<li> 18:43 www.whitewaterwriters.com</li>
 <li> 18:43 whitewaterwriters.com</li>
 <li> 18:43 equalitytime.github.io</li>
+<li> 18:43 www.whitewaterwriters.com</li>
 <li> 18:43 whitewaterwriters.com</li>
 <li> 18:43 equalitytime.github.io</li>
+<li> 18:43 www.whitewaterwriters.com</li>
 <li> 18:43 github.com</li>
 <li> 18:43 whitewaterwriters.com</li>
 <li> 18:43 equalitytime.github.io</li>
+<li> 18:43 www.whitewaterwriters.com</li>
 <li> 18:42 whitewaterwriters.com</li>
+<li> 18:42 www.whitewaterwriters.com</li>
 <li> 18:42 github.com</li>
 <li class='same'> 18:41 github.com</li>
 <li> 18:38 equalitytime.github.io</li>
@@ -40586,6 +40618,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:18 whitewaterwriters.com</li>
+<li> 13:18 www.whitewaterwriters.com</li>
 <li> 12:58 myview.rhul.zellis.com</li>
 </ul>
 
