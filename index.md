@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2776)</li>
+<ol><li>www.google.com (2778)</li>
 <li>outlook.office.com (2243)</li>
-<li>mail.google.com (2078)</li>
+<li>mail.google.com (2090)</li>
 <li>docs.google.com (1748)</li>
 <li>bsky.app (1400)</li>
 <li>outlook.office365.com (1233)</li>
@@ -105,6 +105,32 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 18/04/25</H3>
+
+<br>
+
+<ul><li> 08:44 mail.google.com</li>
+<li> 08:44 www.humblebundle.com</li>
+<li> 08:44 www.google.com</li>
+<li> 08:44 e.mailer.humblebundle.com</li>
+<li> 08:44 mail.google.com</li>
+<li class='same'> 08:43 mail.google.com</li>
+<li> 08:43 kdp.amazon.com</li>
+<li> 08:43 mail.google.com</li>
+<li class='same'> 08:42 mail.google.com</li>
+<li class='same'> 08:41 mail.google.com</li>
+<li class='same'> 08:40 mail.google.com</li>
+<li class='same'> 08:38 mail.google.com</li>
+<li class='same'> 08:37 mail.google.com</li>
+<li> 08:36 orcid.org</li>
+<li> 08:36 www.google.com</li>
+<li> 08:36 orcid.org</li>
+<li> 08:36 mail.google.com</li>
+<li> 08:36 www.ebay.co.uk</li>
+<li> 08:36 signin.ebay.co.uk</li>
+<li> 08:36 offer.ebay.co.uk</li>
+<li> 08:36 mail.google.com</li>
+<li class='same'> 08:35 mail.google.com</li>
+</ul>
 
 <br>
 
