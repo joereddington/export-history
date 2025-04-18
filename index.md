@@ -72,16 +72,16 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2078)</li>
 <li>docs.google.com (1748)</li>
-<li>bsky.app (1399)</li>
+<li>bsky.app (1400)</li>
 <li>outlook.office365.com (1233)</li>
 <li>www.facebook.com (1160)</li>
-<li>www.reddit.com (1073)</li>
+<li>www.reddit.com (1076)</li>
 <li>duckduckgo.com (766)</li>
 <li>www.amazon.co.uk (657)</li>
 <li>chatgpt.com (587)</li>
 <li>www.theguardian.com (517)</li>
 <li>rhul-my.sharepoint.com (443)</li>
-<li>calendar.google.com (439)</li>
+<li>calendar.google.com (440)</li>
 <li>www.linkedin.com (405)</li>
 <li>moodle.royalholloway.ac.uk (399)</li>
 <li>github.com (378)</li>
@@ -104,11 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 18/04/25</H3>
+
+<br>
+
+<ul><li> 06:43 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:25 calendar.google.com</li>
+</ul>
+
 <H3>Thursday, 17/04/25</H3>
 
 <br>
 
-<ul><li> 21:19 www.facebook.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:22 bsky.app</li>
+<li> 21:19 www.facebook.com</li>
 <li class='same'> 21:18 www.facebook.com</li>
 <li class='same'> 21:16 www.facebook.com</li>
 <li class='same'> 21:14 www.facebook.com</li>
@@ -43862,6 +43879,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:43 www.midjourney.com</li>
+</ul>
+
+<br>
+
 <ul><li> 09:10 jobs.royalholloway.ac.uk</li>
 </ul>
 
@@ -44179,6 +44201,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 12:48 www.midjourney.com</li>
+</ul>
 
 <br>
 
@@ -45468,7 +45495,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:35 www.selectspecs.com</li>
+<ul><li> 11:41 www.selectspecs.com</li>
+<li class='same'> 11:40 www.selectspecs.com</li>
+<li class='same'> 11:35 www.selectspecs.com</li>
 </ul>
 
 <br>
@@ -46463,11 +46492,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:02 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:26 github.com</li>
+<li> 11:36 www.reddit.com</li>
+<li class='same'> 11:31 www.reddit.com</li>
+<li> 11:26 github.com</li>
 <li class='same'> 11:25 github.com</li>
 <li> 11:22 127.0.0.1:4000</li>
 <li> 11:20 www.pcspecialist.co.uk</li>
