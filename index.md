@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2784)</li>
+<ol><li>www.google.com (2785)</li>
 <li>outlook.office.com (2243)</li>
-<li>mail.google.com (2113)</li>
-<li>docs.google.com (1750)</li>
-<li>bsky.app (1400)</li>
+<li>mail.google.com (2115)</li>
+<li>docs.google.com (1755)</li>
+<li>bsky.app (1402)</li>
 <li>outlook.office365.com (1233)</li>
-<li>www.facebook.com (1160)</li>
+<li>www.facebook.com (1171)</li>
 <li>www.reddit.com (1077)</li>
-<li>duckduckgo.com (766)</li>
-<li>www.amazon.co.uk (657)</li>
-<li>chatgpt.com (587)</li>
+<li>duckduckgo.com (768)</li>
+<li>www.amazon.co.uk (658)</li>
+<li>chatgpt.com (589)</li>
 <li>www.theguardian.com (519)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>calendar.google.com (442)</li>
-<li>www.linkedin.com (406)</li>
+<li>www.linkedin.com (409)</li>
 <li>moodle.royalholloway.ac.uk (399)</li>
 <li>github.com (378)</li>
 <li>tvtropes.org (307)</li>
 <li>gmail.com (278)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (265)</li>
-<li>web.whatsapp.com (250)</li>
-<li>feedly.com (243)</li>
+<li>web.whatsapp.com (251)</li>
+<li>feedly.com (244)</li>
 <li>drive.google.com (225)</li>
 <li>qbo.intuit.com (225)</li>
-<li>chat.openai.com (210)</li>
+<li>chat.openai.com (211)</li>
 <li>www.coursera.org (205)</li>
 <li>rhul.sharepoint.com (173)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (156)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (157)</li>
 <li>www.tesco.com (141)</li>
 
 
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:47 mail.google.com</li>
+<ul><li> 12:11 www.tinkercad.com</li>
+<li class='same'> 12:10 www.tinkercad.com</li>
+<li> 12:10 accounts.autodesk.com</li>
+<li> 12:10 accounts.google.com</li>
+<li> 12:10 accounts.autodesk.com</li>
+<li> 12:10 www.tinkercad.com</li>
+<li> 12:10 accounts.autodesk.com</li>
+<li class='same'> 12:09 accounts.autodesk.com</li>
+<li> 12:09 www.tinkercad.com</li>
+<li> 12:08 grabcad.com</li>
+<li> 12:08 www.google.com</li>
+<li> 12:08 mail.google.com</li>
+<li class='same'> 12:07 mail.google.com</li>
+<li> 11:57 duckduckgo.com</li>
+<li class='same'> 11:56 duckduckgo.com</li>
+<li> 11:47 Local file</li>
+<li> 11:47 mail-attachment.googleusercontent.com</li>
+<li> 11:47 mail.google.com</li>
 <li class='same'> 11:46 mail.google.com</li>
 <li> 11:44 docs.google.com</li>
 <li> 11:44 accounts.google.com</li>
@@ -141,6 +158,7 @@ With number of accesses/minutes in parentheses
 <li> 09:13 <a href="https://joereddington.com/todo.txt//">Joe’s Todo List</a></li>
 <li> 09:12 www.theguardian.com</li>
 <li> 09:08 mail.google.com</li>
+<li> 09:00 ask.herts.ac.uk</li>
 <li> 08:58 <a href="https://joereddington.com/todo.txt//">Joe’s Todo List</a></li>
 <li> 08:58 mail.google.com</li>
 <li class='same'> 08:57 mail.google.com</li>
@@ -164,7 +182,11 @@ With number of accesses/minutes in parentheses
 <li> 08:48 www.googleadservices.com</li>
 <li> 08:47 www.google.com</li>
 <li> 08:47 mail.google.com</li>
-<li> 08:44 www.linkedin.com</li>
+<li> 08:47 www.linkedin.com</li>
+<li class='same'> 08:46 www.linkedin.com</li>
+<li> 08:45 adblockplus.org</li>
+<li> 08:45 www.linkedin.com</li>
+<li class='same'> 08:44 www.linkedin.com</li>
 <li> 08:44 mail.google.com</li>
 <li> 08:44 www.humblebundle.com</li>
 <li> 08:44 www.google.com</li>
@@ -187,6 +209,35 @@ With number of accesses/minutes in parentheses
 <li> 08:36 offer.ebay.co.uk</li>
 <li> 08:36 mail.google.com</li>
 <li class='same'> 08:35 mail.google.com</li>
+<li> 08:25 chatgpt.com</li>
+<li class='same'> 08:24 chatgpt.com</li>
+<li> 08:24 chat.openai.com</li>
+<li> 08:21 www.facebook.com</li>
+<li> 08:21 bsky.app</li>
+<li> 08:20 web.whatsapp.com</li>
+<li> 08:19 www.sfadb.com</li>
+<li> 08:19 <a href="https://en.wikipedia.org/wiki/Lexus_CT200H_Sport">Lexus CT200H Sport - Wikipedia</a></li>
+<li> 08:18 en.wikinews.org</li>
+<li> 08:18 feedly.com</li>
+<li> 08:18 www.giantitp.com</li>
+<li> 08:17 docs.google.com</li>
+<li> 08:17 www.amazon.co.uk</li>
+<li> 08:15 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 08:14 www.facebook.com</li>
+<li class='same'> 08:13 www.facebook.com</li>
+<li class='same'> 08:12 www.facebook.com</li>
+<li class='same'> 08:11 www.facebook.com</li>
+<li class='same'> 08:10 www.facebook.com</li>
+<li class='same'> 08:09 www.facebook.com</li>
+<li class='same'> 08:08 www.facebook.com</li>
+<li class='same'> 08:07 www.facebook.com</li>
+<li class='same'> 08:05 www.facebook.com</li>
+<li class='same'> 08:04 www.facebook.com</li>
+<li> 08:04 docs.google.com</li>
+<li class='same'> 08:03 docs.google.com</li>
+<li class='same'> 08:02 docs.google.com</li>
+<li class='same'> 08:00 docs.google.com</li>
+<li> 07:58 bsky.app</li>
 </ul>
 
 <br>
