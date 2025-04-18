@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2790)</li>
+<ol><li>www.google.com (2784)</li>
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2127)</li>
 <li>docs.google.com (1755)</li>
@@ -78,10 +78,10 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1077)</li>
 <li>duckduckgo.com (768)</li>
 <li>www.amazon.co.uk (658)</li>
-<li>chatgpt.com (589)</li>
+<li>chatgpt.com (591)</li>
 <li>www.theguardian.com (524)</li>
-<li>rhul-my.sharepoint.com (443)</li>
 <li>calendar.google.com (442)</li>
+<li>rhul-my.sharepoint.com (442)</li>
 <li>www.linkedin.com (409)</li>
 <li>moodle.royalholloway.ac.uk (399)</li>
 <li>github.com (381)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (225)</li>
 <li>chat.openai.com (211)</li>
 <li>www.coursera.org (205)</li>
-<li>rhul.sharepoint.com (173)</li>
+<li>rhul.sharepoint.com (171)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (158)</li>
 <li>www.tesco.com (141)</li>
 
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:39 www.theguardian.com</li>
+<ul><li> 15:42 chatgpt.com</li>
+<li class='same'> 15:41 chatgpt.com</li>
+<li> 15:39 www.theguardian.com</li>
 <li class='same'> 15:38 www.theguardian.com</li>
 </ul>
 
@@ -19119,8 +19121,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:58 outlook.office365.com</li>
 <li> 18:58 outlook.office.com</li>
-<li> 18:56 rhul.sharepoint.com</li>
-<li class='same'> 18:55 rhul.sharepoint.com</li>
+<li> 18:55 rhul.sharepoint.com</li>
 <li> 18:46 bsky.app</li>
 <li> 18:45 docs.google.com</li>
 <li> 18:42 bsky.app</li>
@@ -19134,7 +19135,6 @@ With number of accesses/minutes in parentheses
 <li> 18:32 www.google.com</li>
 <li class='same'> 18:31 www.google.com</li>
 <li> 18:31 serverfault.com</li>
-<li> 18:30 www.google.com</li>
 <li> 18:30 git-annex.branchable.com</li>
 <li> 18:29 <a href="https://stackoverflow.com/questions/48330742/file-encryption-in-git-repository">File encryption in Git Repository - Stack Overflow</a></li>
 <li> 18:29 www.google.com</li>
@@ -19217,8 +19217,6 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 14:59 bsky.app</li>
 <li> 14:57 www.linkedin.com</li>
 <li> 14:53 bsky.app</li>
-<li> 14:50 www.express.co.uk</li>
-<li> 14:50 l.facebook.com</li>
 <li> 14:48 www.facebook.com</li>
 <li> 14:48 bsky.app</li>
 <li> 14:48 www.linkedin.com</li>
@@ -19228,11 +19226,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:44 www.coursera.org</li>
 <li> 14:43 www.linkedin.com</li>
 <li> 14:43 www.pwc.com</li>
-<li> 14:43 www.google.com</li>
 <li> 14:42 blockchain.cs.ucl.ac.uk</li>
 <li> 14:42 x.com</li>
 <li> 14:42 www.rsaconference.com</li>
-<li> 14:42 www.google.com</li>
 <li> 14:42 members.ciisec.org</li>
 <li> 14:41 www.linkedin.com</li>
 <li class='same'> 14:40 www.linkedin.com</li>
@@ -19244,7 +19240,6 @@ With number of accesses/minutes in parentheses
 <li> 14:36 www.amazon.co.uk</li>
 <li class='same'> 14:35 www.amazon.co.uk</li>
 <li> 14:35 www.ebay.co.uk</li>
-<li class='same'> 14:34 www.ebay.co.uk</li>
 <li class='same'> 14:33 www.ebay.co.uk</li>
 <li> 14:33 order.ebay.co.uk</li>
 <li> 14:33 mail.google.com</li>
@@ -19326,8 +19321,6 @@ With number of accesses/minutes in parentheses
 <li> 12:01 rhul.sharepoint.com</li>
 <li> 11:53 rhul-my.sharepoint.com</li>
 <li class='same'> 11:52 rhul-my.sharepoint.com</li>
-<li> 11:52 rhul.sharepoint.com</li>
-<li> 11:52 rhul-my.sharepoint.com</li>
 <li> 11:49 rhul.sharepoint.com</li>
 <li> 11:38 www.reddit.com</li>
 <li> 11:38 www.google.com</li>
@@ -19386,12 +19379,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:21 docs.google.com</li>
 <li class='same'> 10:20 docs.google.com</li>
 <li class='same'> 10:18 docs.google.com</li>
-<li> 10:17 www.google.com</li>
-<li class='same'> 10:16 www.google.com</li>
+<li> 10:16 www.google.com</li>
 <li class='same'> 10:15 www.google.com</li>
 <li> 10:14 www.mayoclinichealthsystem.org</li>
-<li> 10:13 www.google.com</li>
-<li class='same'> 10:12 www.google.com</li>
+<li> 10:12 www.google.com</li>
 <li> 10:10 docs.google.com</li>
 <li class='same'> 10:04 docs.google.com</li>
 <li class='same'> 10:01 docs.google.com</li>
@@ -19415,8 +19406,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:37 docs.google.com</li>
 <li class='same'> 09:36 docs.google.com</li>
 <li> 09:35 groceries.aldi.co.uk</li>
-<li> 09:35 www.google.com</li>
-<li class='same'> 09:34 www.google.com</li>
+<li> 09:34 www.google.com</li>
 <li> 09:32 docs.google.com</li>
 <li class='same'> 09:29 docs.google.com</li>
 <li> 09:29 outlook.office365.com</li>
