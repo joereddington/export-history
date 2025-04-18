@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2790)</li>
 <li>outlook.office.com (2243)</li>
-<li>mail.google.com (2126)</li>
+<li>mail.google.com (2127)</li>
 <li>docs.google.com (1755)</li>
 <li>bsky.app (1404)</li>
 <li>outlook.office365.com (1233)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (399)</li>
 <li>github.com (381)</li>
 <li>tvtropes.org (307)</li>
-<li>gmail.com (280)</li>
+<li>gmail.com (281)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (265)</li>
 <li>web.whatsapp.com (252)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:21 www.theguardian.com</li>
+<ul><li> 14:54 mail.google.com</li>
+<li> 14:54 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:29 apply.unity.co.uk</li>
+<li> 13:21 www.theguardian.com</li>
 <li class='same'> 13:20 www.theguardian.com</li>
 <li class='same'> 13:16 www.theguardian.com</li>
 <li> 13:12 mail.google.com</li>
