@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2783)</li>
+<ol><li>www.google.com (2784)</li>
 <li>outlook.office.com (2243)</li>
-<li>mail.google.com (2104)</li>
-<li>docs.google.com (1749)</li>
+<li>mail.google.com (2111)</li>
+<li>docs.google.com (1750)</li>
 <li>bsky.app (1400)</li>
 <li>outlook.office365.com (1233)</li>
 <li>www.facebook.com (1160)</li>
-<li>www.reddit.com (1076)</li>
+<li>www.reddit.com (1077)</li>
 <li>duckduckgo.com (766)</li>
 <li>www.amazon.co.uk (657)</li>
 <li>chatgpt.com (587)</li>
-<li>www.theguardian.com (518)</li>
+<li>www.theguardian.com (519)</li>
 <li>rhul-my.sharepoint.com (443)</li>
-<li>calendar.google.com (441)</li>
+<li>calendar.google.com (442)</li>
 <li>www.linkedin.com (406)</li>
 <li>moodle.royalholloway.ac.uk (399)</li>
 <li>github.com (378)</li>
 <li>tvtropes.org (307)</li>
+<li>gmail.com (278)</li>
 <li>fritz.box (276)</li>
-<li>gmail.com (276)</li>
 <li>login.microsoftonline.com (265)</li>
 <li>web.whatsapp.com (250)</li>
 <li>feedly.com (243)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:18 docs.google.com</li>
+<ul><li> 11:44 docs.google.com</li>
+<li> 11:44 accounts.google.com</li>
+<li> 11:44 mail.google.com</li>
+<li> 11:43 calendar.google.com</li>
+<li> 11:42 mail.google.com</li>
+<li class='same'> 11:41 mail.google.com</li>
+<li class='same'> 11:35 mail.google.com</li>
+<li class='same'> 11:34 mail.google.com</li>
+<li class='same'> 11:33 mail.google.com</li>
+<li> 11:33 accounts.google.com</li>
+<li class='same'> 11:32 accounts.google.com</li>
+<li> 11:32 mail.google.com</li>
+<li> 11:32 gmail.com</li>
+<li> 11:32 accounts.google.com</li>
+<li> 11:32 gmail.com</li>
+<li> 11:22 www.theguardian.com</li>
+<li> 11:18 docs.google.com</li>
 <li> 11:15 mail.google.com</li>
 </ul>
 
@@ -173,7 +189,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:43 www.reddit.com</li>
+<ul><li> 06:44 www.reddit.com</li>
+<li> 06:43 www.google.com</li>
+<li> 06:43 www.reddit.com</li>
 </ul>
 
 <br>
@@ -44088,6 +44106,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:31 www.eventbrite.co.uk</li>
 <li> 14:02 mail.google.com</li>
+<li> 13:53 groups.google.com</li>
 <li> 13:35 discord.com</li>
 </ul>
 
@@ -44144,11 +44163,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:03 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+<li> 08:02 groups.google.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 07:27 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+<ul><li> 07:27 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
 </ul>
 
 <H3>Monday, 06/11/23</H3>
@@ -44731,7 +44751,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:58 gettingthingsdone.com</li>
+<ul><li> 12:27 groups.google.com</li>
+<li> 11:58 gettingthingsdone.com</li>
 </ul>
 
 <br>
