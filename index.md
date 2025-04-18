@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2785)</li>
+<ol><li>www.google.com (2787)</li>
 <li>outlook.office.com (2243)</li>
-<li>mail.google.com (2115)</li>
+<li>mail.google.com (2117)</li>
 <li>docs.google.com (1755)</li>
 <li>bsky.app (1402)</li>
 <li>outlook.office365.com (1233)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (442)</li>
 <li>www.linkedin.com (409)</li>
 <li>moodle.royalholloway.ac.uk (399)</li>
-<li>github.com (378)</li>
+<li>github.com (380)</li>
 <li>tvtropes.org (307)</li>
 <li>gmail.com (278)</li>
 <li>fritz.box (276)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:11 www.tinkercad.com</li>
+<ul><li> 12:35 mail.google.com</li>
+<li> 12:35 www.google.com</li>
+<li class='same'> 12:34 www.google.com</li>
+<li> 12:34 mail.google.com</li>
+<li> 12:34 signin.aws.amazon.com</li>
+<li class='same'> 12:33 signin.aws.amazon.com</li>
+<li> 12:33 eu-west-2.signin.aws.amazon.com</li>
+<li> 12:33 eu-west-2.console.aws.amazon.com</li>
+<li> 12:32 github.com</li>
+<li class='same'> 12:31 github.com</li>
+<li> 12:11 www.tinkercad.com</li>
 <li class='same'> 12:10 www.tinkercad.com</li>
 <li> 12:10 accounts.autodesk.com</li>
 <li> 12:10 accounts.google.com</li>
