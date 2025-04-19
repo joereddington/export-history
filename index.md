@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2785)</li>
+<ol><li>www.google.com (2783)</li>
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2131)</li>
 <li>docs.google.com (1769)</li>
@@ -19058,7 +19058,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:02 www.amazon.co.uk</li>
 <li class='same'> 18:01 www.amazon.co.uk</li>
 <li> 18:00 <a href="https://en.wikipedia.org/wiki/Kobo_eReader">Kobo eReader - Wikipedia</a></li>
-<li> 18:00 www.ebay.co.uk</li>
 <li> 17:59 bsky.app</li>
 <li> 17:59 signin.ebay.co.uk</li>
 <li> 17:57 <a href="https://en.wikipedia.org/wiki/Kobo_Mini">Kobo Mini - Wikipedia</a></li>
@@ -19067,17 +19066,14 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:54 www.ebay.co.uk</li>
 <li> 17:54 www.vinted.co.uk</li>
 <li class='same'> 17:53 www.vinted.co.uk</li>
-<li> 17:53 appleid.apple.com</li>
-<li> 17:52 www.vinted.co.uk</li>
+<li class='same'> 17:52 www.vinted.co.uk</li>
 <li> 17:52 bsky.app</li>
 <li> 17:52 <a href="https://en.wikipedia.org/wiki/Kobo_eReader">Kobo eReader - Wikipedia</a></li>
 <li> 17:52 www.google.com</li>
 <li> 17:51 www.reddit.com</li>
-<li> 17:51 www.google.com</li>
-<li class='same'> 17:50 www.google.com</li>
+<li> 17:50 www.google.com</li>
 <li> 17:49 apps.apple.com</li>
-<li> 17:49 www.google.com</li>
-<li class='same'> 17:47 www.google.com</li>
+<li> 17:47 www.google.com</li>
 <li> 17:45 scratch.mit.edu</li>
 <li> 17:45 www.google.com</li>
 <li> 17:44 www.facebook.com</li>
