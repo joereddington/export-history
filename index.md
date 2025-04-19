@@ -70,16 +70,16 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2785)</li>
 <li>outlook.office.com (2243)</li>
-<li>mail.google.com (2129)</li>
-<li>docs.google.com (1767)</li>
+<li>mail.google.com (2130)</li>
+<li>docs.google.com (1769)</li>
 <li>bsky.app (1404)</li>
 <li>outlook.office365.com (1233)</li>
-<li>www.facebook.com (1174)</li>
-<li>www.reddit.com (1080)</li>
+<li>www.facebook.com (1175)</li>
+<li>www.reddit.com (1087)</li>
 <li>duckduckgo.com (769)</li>
 <li>www.amazon.co.uk (658)</li>
-<li>chatgpt.com (592)</li>
-<li>www.theguardian.com (529)</li>
+<li>chatgpt.com (595)</li>
+<li>www.theguardian.com (530)</li>
 <li>calendar.google.com (442)</li>
 <li>rhul-my.sharepoint.com (442)</li>
 <li>www.linkedin.com (409)</li>
@@ -90,10 +90,10 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (265)</li>
 <li>web.whatsapp.com (253)</li>
-<li>feedly.com (245)</li>
+<li>feedly.com (246)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
-<li>chat.openai.com (212)</li>
+<li>chat.openai.com (214)</li>
 <li>www.coursera.org (205)</li>
 <li>rhul.sharepoint.com (171)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (160)</li>
@@ -104,11 +104,42 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 19/04/25</H3>
+
+<br>
+
+<ul><li> 07:53 <a href="https://www.bbc.co.uk/news/articles/c74z04j23pwo">The Supreme Court ruling gives clarity - now comes the hard part - BBC News</a></li>
+<li> 07:53 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:53 www.facebook.com</li>
+<li> 07:52 feedly.com</li>
+<li> 07:51 www.reddit.com</li>
+<li class='same'> 07:50 www.reddit.com</li>
+<li class='same'> 07:49 www.reddit.com</li>
+<li> 07:48 chatgpt.com</li>
+<li> 07:48 chat.openai.com</li>
+<li> 07:46 www.reddit.com</li>
+<li class='same'> 07:45 www.reddit.com</li>
+<li> 07:44 www.carnegielibrary.org</li>
+<li> 07:44 www.reddit.com</li>
+<li class='same'> 07:43 www.reddit.com</li>
+<li> 07:43 www.theguardian.com</li>
+<li> 07:42 mail.google.com</li>
+<li> 07:39 chatgpt.com</li>
+<li class='same'> 07:38 chatgpt.com</li>
+<li> 07:38 chat.openai.com</li>
+</ul>
+
 <H3>Friday, 18/04/25</H3>
 
 <br>
 
-<ul><li> 21:21 docs.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:23 docs.google.com</li>
+<li class='same'> 21:22 docs.google.com</li>
+<li class='same'> 21:21 docs.google.com</li>
 <li class='same'> 21:20 docs.google.com</li>
 </ul>
 
