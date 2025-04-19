@@ -70,16 +70,16 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2785)</li>
 <li>outlook.office.com (2243)</li>
-<li>mail.google.com (2130)</li>
+<li>mail.google.com (2131)</li>
 <li>docs.google.com (1769)</li>
-<li>bsky.app (1404)</li>
+<li>bsky.app (1405)</li>
 <li>outlook.office365.com (1233)</li>
 <li>www.facebook.com (1175)</li>
 <li>www.reddit.com (1087)</li>
 <li>duckduckgo.com (769)</li>
 <li>www.amazon.co.uk (658)</li>
-<li>chatgpt.com (595)</li>
-<li>www.theguardian.com (530)</li>
+<li>chatgpt.com (596)</li>
+<li>www.theguardian.com (531)</li>
 <li>calendar.google.com (442)</li>
 <li>rhul-my.sharepoint.com (442)</li>
 <li>www.linkedin.com (409)</li>
@@ -89,11 +89,11 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (282)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (265)</li>
-<li>web.whatsapp.com (253)</li>
+<li>web.whatsapp.com (254)</li>
 <li>feedly.com (246)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
-<li>chat.openai.com (214)</li>
+<li>chat.openai.com (215)</li>
 <li>www.coursera.org (205)</li>
 <li>rhul.sharepoint.com (171)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (160)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 19/04/25</H3>
+
+<br>
+
+<ul><li> 13:19 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:27 web.whatsapp.com</li>
+<li> 12:27 bsky.app</li>
+<li> 12:26 www.theguardian.com</li>
+<li> 12:24 chatgpt.com</li>
+<li> 12:24 chat.openai.com</li>
+</ul>
 
 <br>
 
