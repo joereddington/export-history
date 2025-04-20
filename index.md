@@ -71,15 +71,15 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2785)</li>
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2131)</li>
-<li>docs.google.com (1775)</li>
-<li>bsky.app (1405)</li>
+<li>docs.google.com (1776)</li>
+<li>bsky.app (1406)</li>
 <li>outlook.office365.com (1233)</li>
-<li>www.facebook.com (1175)</li>
-<li>www.reddit.com (1087)</li>
+<li>www.facebook.com (1176)</li>
+<li>www.reddit.com (1089)</li>
 <li>duckduckgo.com (770)</li>
 <li>www.amazon.co.uk (658)</li>
-<li>chatgpt.com (596)</li>
-<li>www.theguardian.com (534)</li>
+<li>chatgpt.com (597)</li>
+<li>www.theguardian.com (536)</li>
 <li>calendar.google.com (442)</li>
 <li>rhul-my.sharepoint.com (442)</li>
 <li>www.linkedin.com (409)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (265)</li>
 <li>web.whatsapp.com (255)</li>
-<li>feedly.com (246)</li>
+<li>feedly.com (247)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
 <li>chat.openai.com (215)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:34 web.whatsapp.com</li>
+<ul><li> 07:48 www.facebook.com</li>
+<li> 07:48 bsky.app</li>
+<li> 07:47 feedly.com</li>
+<li> 07:46 www.reddit.com</li>
+<li class='same'> 07:44 www.reddit.com</li>
+<li> 07:44 docs.google.com</li>
+<li> 07:42 www.theguardian.com</li>
+<li class='same'> 07:41 www.theguardian.com</li>
+<li> 07:40 chatgpt.com</li>
+<li> 07:34 web.whatsapp.com</li>
 <li> 07:33 docs.google.com</li>
 <li class='same'> 07:32 docs.google.com</li>
 <li class='same'> 07:29 docs.google.com</li>
