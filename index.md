@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2785)</li>
+<ol><li>www.google.com (2792)</li>
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2131)</li>
 <li>docs.google.com (1776)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (770)</li>
 <li>www.amazon.co.uk (658)</li>
 <li>chatgpt.com (597)</li>
-<li>www.theguardian.com (536)</li>
+<li>www.theguardian.com (542)</li>
 <li>calendar.google.com (442)</li>
 <li>rhul-my.sharepoint.com (442)</li>
 <li>www.linkedin.com (409)</li>
@@ -108,6 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:13 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:35 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:16 www.google.com</li>
+<li> 12:14 www.theguardian.com</li>
+<li class='same'> 12:13 www.theguardian.com</li>
+<li class='same'> 12:09 www.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:48 www.facebook.com</li>
 <li> 07:48 bsky.app</li>
 <li> 07:47 feedly.com</li>
@@ -130,7 +148,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:54 www.theguardian.com</li>
+<ul><li> 06:57 www.theguardian.com</li>
+<li class='same'> 06:56 www.theguardian.com</li>
+<li class='same'> 06:54 www.theguardian.com</li>
 </ul>
 
 <H3>Saturday, 19/04/25</H3>
@@ -32373,6 +32393,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:19 www.theguardian.com</li>
 <li class='same'> 06:18 www.theguardian.com</li>
 <li class='same'> 06:16 www.theguardian.com</li>
+<li> 06:09 www.google.com</li>
 </ul>
 
 <H3>Tuesday, 05/11/24</H3>
@@ -35801,6 +35822,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 19:33 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 15:13 www.lutongymnastics.co.uk</li>
 </ul>
 
@@ -36933,6 +36959,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:19 www.google.com</li>
+</ul>
 
 <br>
 
@@ -38211,6 +38242,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:51 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:19 webtimetables.royalholloway.ac.uk</li>
 <li> 11:08 <a href="https://xkcd.com/">xkcd: Stargazing 4</a></li>
 <li> 11:04 www.paypal.com</li>
@@ -38575,6 +38611,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:01 outlook.office.com</li>
 <li> 11:49 <a href="https://en.wikipedia.org/wiki/96th_Academy_Awards">96th Academy Awards - Wikipedia</a></li>
 <li> 11:49 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:03 www.google.com</li>
 </ul>
 
 <br>
