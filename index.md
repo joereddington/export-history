@@ -71,15 +71,15 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2785)</li>
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2131)</li>
-<li>docs.google.com (1769)</li>
+<li>docs.google.com (1775)</li>
 <li>bsky.app (1405)</li>
 <li>outlook.office365.com (1233)</li>
 <li>www.facebook.com (1175)</li>
 <li>www.reddit.com (1087)</li>
-<li>duckduckgo.com (769)</li>
+<li>duckduckgo.com (770)</li>
 <li>www.amazon.co.uk (658)</li>
 <li>chatgpt.com (596)</li>
-<li>www.theguardian.com (533)</li>
+<li>www.theguardian.com (534)</li>
 <li>calendar.google.com (442)</li>
 <li>rhul-my.sharepoint.com (442)</li>
 <li>www.linkedin.com (409)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (282)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (265)</li>
-<li>web.whatsapp.com (254)</li>
+<li>web.whatsapp.com (255)</li>
 <li>feedly.com (246)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
@@ -97,18 +97,42 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (205)</li>
 <li>rhul.sharepoint.com (171)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (160)</li>
-<li>www.tesco.com (141)</li>
+<li>www.tesco.com (142)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Sunday, 20/04/25</H3>
+
+<br>
+
+<ul><li> 07:34 web.whatsapp.com</li>
+<li> 07:33 docs.google.com</li>
+<li class='same'> 07:32 docs.google.com</li>
+<li class='same'> 07:29 docs.google.com</li>
+<li class='same'> 07:28 docs.google.com</li>
+<li> 07:28 www.tesco.com</li>
+<li> 07:28 duckduckgo.com</li>
+<li> 07:28 docs.google.com</li>
+<li class='same'> 07:27 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:54 www.theguardian.com</li>
+</ul>
+
 <H3>Saturday, 19/04/25</H3>
 
 <br>
 
-<ul><li> 20:44 www.theguardian.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:44 www.theguardian.com</li>
 </ul>
 
 <br>
