@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2793)</li>
+<ol><li>www.google.com (2794)</li>
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2131)</li>
 <li>docs.google.com (1776)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1176)</li>
 <li>www.reddit.com (1089)</li>
 <li>duckduckgo.com (770)</li>
-<li>www.amazon.co.uk (658)</li>
+<li>www.amazon.co.uk (657)</li>
 <li>chatgpt.com (597)</li>
 <li>www.theguardian.com (544)</li>
 <li>calendar.google.com (442)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (409)</li>
 <li>moodle.royalholloway.ac.uk (399)</li>
 <li>github.com (381)</li>
-<li>tvtropes.org (307)</li>
+<li>tvtropes.org (308)</li>
 <li>gmail.com (282)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (265)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:27 www.google.com</li>
+<ul><li> 17:18 tvtropes.org</li>
+<li> 17:18 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:27 www.google.com</li>
 <li> 16:27 www.theguardian.com</li>
 </ul>
 
@@ -19113,8 +19119,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:00 www.amazon.co.uk</li>
 <li> 06:59 <a href="https://en.wikipedia.org/wiki/Bonnie_Garmus">Bonnie Garmus - Wikipedia</a></li>
 <li> 06:58 www.google.com</li>
-<li> 06:58 www.amazon.co.uk</li>
-<li class='same'> 06:57 www.amazon.co.uk</li>
+<li> 06:57 www.amazon.co.uk</li>
 <li> 06:57 docs.google.com</li>
 <li> 06:45 www.facebook.com</li>
 <li> 06:45 mail.google.com</li>
