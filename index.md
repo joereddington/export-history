@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2796)</li>
+<ol><li>www.google.com (2800)</li>
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2131)</li>
 <li>docs.google.com (1776)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (770)</li>
 <li>www.amazon.co.uk (657)</li>
 <li>chatgpt.com (597)</li>
-<li>www.theguardian.com (544)</li>
+<li>www.theguardian.com (565)</li>
 <li>calendar.google.com (442)</li>
 <li>rhul-my.sharepoint.com (442)</li>
 <li>www.linkedin.com (409)</li>
@@ -108,8 +108,56 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:02 www.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 20:12 adblockplus.org</li>
 <li> 20:12 bsky.app</li>
+</ul>
+
+<br>
+
+<ul><li> 19:10 www.theguardian.com</li>
+<li> 19:05 numbergenerator.org</li>
+<li class='same'> 19:04 numbergenerator.org</li>
+<li class='same'> 19:03 numbergenerator.org</li>
+<li> 19:02 www.google.com</li>
+<li> 19:02 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:23 www.theguardian.com</li>
+<li class='same'> 17:22 www.theguardian.com</li>
+<li> 17:18 www.google.com</li>
+<li> 17:18 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:35 www.theguardian.com</li>
+<li class='same'> 13:33 www.theguardian.com</li>
+<li> 13:33 www.google.com</li>
+<li> 13:31 www.theguardian.com</li>
+<li> 13:30 www.google.com</li>
+<li> 13:29 www.theguardian.com</li>
+<li class='same'> 13:28 www.theguardian.com</li>
+<li class='same'> 13:26 www.theguardian.com</li>
+<li class='same'> 13:25 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:00 www.theguardian.com</li>
+<li class='same'> 10:59 www.theguardian.com</li>
+<li class='same'> 10:57 www.theguardian.com</li>
+<li class='same'> 10:55 www.theguardian.com</li>
+<li class='same'> 10:54 www.theguardian.com</li>
+<li class='same'> 10:52 www.theguardian.com</li>
+<li class='same'> 10:51 www.theguardian.com</li>
+<li class='same'> 10:50 www.theguardian.com</li>
 </ul>
 
 <br>
