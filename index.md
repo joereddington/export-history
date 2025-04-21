@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2794)</li>
+<ol><li>www.google.com (2795)</li>
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2131)</li>
 <li>docs.google.com (1776)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (409)</li>
 <li>moodle.royalholloway.ac.uk (399)</li>
 <li>github.com (381)</li>
-<li>tvtropes.org (308)</li>
+<li>tvtropes.org (310)</li>
 <li>gmail.com (282)</li>
 <li>fritz.box (276)</li>
 <li>login.microsoftonline.com (265)</li>
@@ -104,11 +104,24 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 21/04/25</H3>
+
+<br>
+
+<ul><li> 07:57 www.google.com</li>
+</ul>
+
 <H3>Sunday, 20/04/25</H3>
 
 <br>
 
-<ul><li> 17:18 tvtropes.org</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 17:24 tvtropes.org</li>
+<li class='same'> 17:23 tvtropes.org</li>
+<li class='same'> 17:18 tvtropes.org</li>
 <li> 17:18 www.google.com</li>
 </ul>
 
