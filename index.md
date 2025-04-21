@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2243)</li>
 <li>mail.google.com (2131)</li>
 <li>docs.google.com (1776)</li>
-<li>bsky.app (1406)</li>
+<li>bsky.app (1407)</li>
 <li>outlook.office365.com (1233)</li>
 <li>www.facebook.com (1176)</li>
 <li>www.reddit.com (1089)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 21/04/25</H3>
+
+<br>
+
+<ul><li> 20:12 adblockplus.org</li>
+<li> 20:12 bsky.app</li>
+</ul>
 
 <br>
 
