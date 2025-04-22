@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2800)</li>
-<li>outlook.office.com (2289)</li>
+<li>outlook.office.com (2306)</li>
 <li>mail.google.com (2131)</li>
 <li>docs.google.com (1776)</li>
-<li>bsky.app (1411)</li>
+<li>bsky.app (1414)</li>
 <li>outlook.office365.com (1234)</li>
 <li>www.facebook.com (1176)</li>
 <li>www.reddit.com (1089)</li>
-<li>duckduckgo.com (776)</li>
+<li>duckduckgo.com (780)</li>
 <li>www.amazon.co.uk (657)</li>
-<li>chatgpt.com (601)</li>
+<li>chatgpt.com (602)</li>
 <li>www.theguardian.com (566)</li>
 <li>calendar.google.com (445)</li>
 <li>rhul-my.sharepoint.com (443)</li>
@@ -87,15 +87,15 @@ With number of accesses/minutes in parentheses
 <li>github.com (381)</li>
 <li>tvtropes.org (310)</li>
 <li>gmail.com (282)</li>
+<li>login.microsoftonline.com (278)</li>
 <li>fritz.box (276)</li>
-<li>login.microsoftonline.com (275)</li>
 <li>web.whatsapp.com (256)</li>
 <li>feedly.com (248)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
-<li>chat.openai.com (218)</li>
+<li>chat.openai.com (219)</li>
 <li>www.coursera.org (208)</li>
-<li>rhul.sharepoint.com (173)</li>
+<li>rhul.sharepoint.com (181)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (160)</li>
 <li>www.tesco.com (142)</li>
 
@@ -108,7 +108,58 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:30 outlook.office.com</li>
+<ul><li> 11:24 duckduckgo.com</li>
+<li> 11:23 cybersmart.co.uk</li>
+<li> 11:23 duckduckgo.com</li>
+<li> 11:23 firebrand.training</li>
+<li> 11:21 chatgpt.com</li>
+<li> 11:21 chat.openai.com</li>
+<li> 11:21 outlook.office.com</li>
+<li> 11:21 bsky.app</li>
+<li class='same'> 11:20 bsky.app</li>
+<li> 11:20 outlook.office.com</li>
+<li> 11:20 rhul.sharepoint.com</li>
+<li> 11:20 login.microsoftonline.com</li>
+<li> 11:20 rhul.sharepoint.com</li>
+<li> 11:19 royalholloway.akarisoftware.com</li>
+<li> 11:19 login.microsoftonline.com</li>
+<li> 11:19 royalholloway.akarisoftware.com</li>
+<li> 11:19 outlook.office.com</li>
+<li class='same'> 11:18 outlook.office.com</li>
+<li class='same'> 11:16 outlook.office.com</li>
+<li> 11:14 intranet.royalholloway.ac.uk</li>
+<li> 11:05 outlook.office.com</li>
+<li class='same'> 11:04 outlook.office.com</li>
+<li class='same'> 11:01 outlook.office.com</li>
+<li class='same'> 11:00 outlook.office.com</li>
+<li class='same'> 10:56 outlook.office.com</li>
+<li class='same'> 10:55 outlook.office.com</li>
+<li> 10:52 forms.office.com</li>
+<li> 10:52 login.microsoftonline.com</li>
+<li> 10:52 forms.office.com</li>
+<li> 10:49 royalhollowayucu.wordpress.com</li>
+<li class='same'> 10:48 royalhollowayucu.wordpress.com</li>
+<li> 10:48 duckduckgo.com</li>
+<li> 10:46 rhul.sharepoint.com</li>
+<li> 10:45 duckduckgo.com</li>
+<li> 10:44 outlook.office.com</li>
+<li> 10:44 rhul.sharepoint.com</li>
+<li class='same'> 10:42 rhul.sharepoint.com</li>
+<li class='same'> 10:41 rhul.sharepoint.com</li>
+<li class='same'> 10:40 rhul.sharepoint.com</li>
+<li class='same'> 10:38 rhul.sharepoint.com</li>
+<li> 10:38 intranet.royalholloway.ac.uk</li>
+<li class='same'> 10:36 intranet.royalholloway.ac.uk</li>
+<li> 10:36 outlook.office.com</li>
+<li class='same'> 10:35 outlook.office.com</li>
+<li> 10:35 bsky.app</li>
+<li> 10:35 outlook.office.com</li>
+<li> 10:34 intranet.royalholloway.ac.uk</li>
+<li> 10:34 outlook.office.com</li>
+<li class='same'> 10:33 outlook.office.com</li>
+<li> 10:32 www.the-awards.co.uk</li>
+<li class='same'> 10:31 www.the-awards.co.uk</li>
+<li> 10:30 outlook.office.com</li>
 <li class='same'> 10:29 outlook.office.com</li>
 <li class='same'> 10:28 outlook.office.com</li>
 <li class='same'> 10:26 outlook.office.com</li>
