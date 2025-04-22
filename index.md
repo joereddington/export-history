@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2800)</li>
-<li>outlook.office.com (2322)</li>
-<li>mail.google.com (2135)</li>
-<li>docs.google.com (1776)</li>
-<li>bsky.app (1418)</li>
+<ol><li>www.google.com (2796)</li>
+<li>outlook.office.com (2325)</li>
+<li>mail.google.com (2145)</li>
+<li>docs.google.com (1777)</li>
+<li>bsky.app (1419)</li>
 <li>outlook.office365.com (1234)</li>
-<li>www.facebook.com (1176)</li>
+<li>www.facebook.com (1181)</li>
 <li>www.reddit.com (1097)</li>
-<li>duckduckgo.com (781)</li>
-<li>www.amazon.co.uk (657)</li>
-<li>chatgpt.com (602)</li>
-<li>www.theguardian.com (568)</li>
-<li>calendar.google.com (445)</li>
+<li>duckduckgo.com (782)</li>
+<li>www.amazon.co.uk (661)</li>
+<li>chatgpt.com (603)</li>
+<li>www.theguardian.com (570)</li>
+<li>calendar.google.com (446)</li>
 <li>rhul-my.sharepoint.com (443)</li>
-<li>www.linkedin.com (412)</li>
+<li>www.linkedin.com (416)</li>
 <li>moodle.royalholloway.ac.uk (403)</li>
-<li>github.com (381)</li>
+<li>github.com (382)</li>
 <li>tvtropes.org (310)</li>
-<li>gmail.com (283)</li>
+<li>gmail.com (284)</li>
 <li>login.microsoftonline.com (278)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (257)</li>
+<li>web.whatsapp.com (259)</li>
 <li>feedly.com (248)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
-<li>chat.openai.com (219)</li>
+<li>chat.openai.com (220)</li>
 <li>www.coursera.org (208)</li>
-<li>rhul.sharepoint.com (184)</li>
+<li>rhul.sharepoint.com (183)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (160)</li>
 <li>www.tesco.com (142)</li>
 
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:55 www.theguardian.com</li>
+<ul><li> 16:41 www.facebook.com</li>
+<li> 16:38 www.linkedin.com</li>
+<li> 16:38 mail.google.com</li>
+<li class='same'> 16:37 mail.google.com</li>
+<li class='same'> 16:34 mail.google.com</li>
+<li> 16:31 www.facebook.com</li>
+<li class='same'> 16:30 www.facebook.com</li>
+<li> 16:27 <a href="https://en.wikipedia.org/wiki/Tomorrow_Never_Dies">Tomorrow Never Dies - Wikipedia</a></li>
+<li> 16:27 duckduckgo.com</li>
+<li> 16:26 www.facebook.com</li>
+<li class='same'> 16:25 www.facebook.com</li>
+<li> 16:21 mail.google.com</li>
+<li> 16:20 web.whatsapp.com</li>
+<li class='same'> 16:16 web.whatsapp.com</li>
+<li> 16:16 www.linkedin.com</li>
+<li> 16:14 mail.google.com</li>
+<li class='same'> 16:13 mail.google.com</li>
+<li> 16:12 adfs.herts.ac.uk</li>
+<li class='same'> 16:10 adfs.herts.ac.uk</li>
+<li> 16:10 www.theguardian.com</li>
+<li> 16:09 www.giantitp.com</li>
+<li> 16:08 mail.google.com</li>
+<li> 16:06 github.com</li>
+<li> 16:05 mail.google.com</li>
+<li class='same'> 16:04 mail.google.com</li>
+<li> 16:02 www.amazon.co.uk</li>
+<li> 16:02 www.ebay.co.uk</li>
+<li> 16:01 www.amazon.co.uk</li>
+<li class='same'> 16:00 www.amazon.co.uk</li>
+<li> 16:00 docs.google.com</li>
+<li> 16:00 www.amazon.co.uk</li>
+<li> 15:59 chatgpt.com</li>
+<li> 15:59 chat.openai.com</li>
+<li> 15:59 mail.google.com</li>
+<li> 15:59 gmail.com</li>
+<li> 15:58 outlook.office.com</li>
+<li> 15:56 bsky.app</li>
+<li> 15:56 www.linkedin.com</li>
+<li class='same'> 15:55 www.linkedin.com</li>
+<li> 15:55 outlook.office.com</li>
+<li> 15:55 calendar.google.com</li>
+<li> 15:54 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:20 www.theguardian.com</li>
+<li class='same'> 13:55 www.theguardian.com</li>
 <li> 13:29 outlook.office.com</li>
 <li> 13:29 www.reddit.com</li>
 <li class='same'> 13:24 www.reddit.com</li>
@@ -18902,8 +18949,6 @@ With number of accesses/minutes in parentheses
 <li> 17:41 www.google.com</li>
 <li> 17:36 zoom.us</li>
 <li> 17:34 www.google.com</li>
-<li class='same'> 17:33 www.google.com</li>
-<li class='same'> 17:32 www.google.com</li>
 <li> 17:32 outlook.office.com</li>
 <li> 17:32 www.google.com</li>
 <li> 17:31 zoom.us</li>
@@ -18971,7 +19016,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:15 bsky.app</li>
 <li class='same'> 15:14 bsky.app</li>
-<li> 15:11 www.google.com</li>
 <li> 15:11 www.amazon.co.uk</li>
 <li class='same'> 15:10 www.amazon.co.uk</li>
 <li class='same'> 15:09 www.amazon.co.uk</li>
@@ -19004,14 +19048,12 @@ With number of accesses/minutes in parentheses
 <li> 14:23 chatgpt.com</li>
 <li> 14:22 bsky.app</li>
 <li> 14:20 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
-<li> 14:20 login.openathens.net</li>
 <li> 14:20 login.microsoftonline.com</li>
 <li> 14:19 librarysearch.royalholloway.ac.uk</li>
 <li> 14:18 www.amazon.co.uk</li>
 <li> 14:17 www.google.com</li>
 <li> 14:17 www.coursera.org</li>
 <li class='same'> 14:16 www.coursera.org</li>
-<li> 14:16 www.google.com</li>
 <li> 14:15 www.landwehr.org</li>
 <li> 14:15 www.google.com</li>
 <li> 14:15 librarysearch.royalholloway.ac.uk</li>
@@ -19072,8 +19114,7 @@ With number of accesses/minutes in parentheses
 <li> 12:29 outlook.office.com</li>
 <li> 12:28 calendar.google.com</li>
 <li> 12:27 outlook.office.com</li>
-<li> 12:26 rhul.sharepoint.com</li>
-<li> 12:26 outlook.office.com</li>
+<li class='same'> 12:26 outlook.office.com</li>
 <li class='same'> 12:25 outlook.office.com</li>
 <li> 12:23 rhul-my.sharepoint.com</li>
 <li> 12:22 ev.turnitinuk.com</li>
@@ -19174,8 +19215,7 @@ With number of accesses/minutes in parentheses
 <li> 09:23 projects.cs.rhul.ac.uk</li>
 <li> 09:21 outlook.office.com</li>
 <li> 09:20 www.facebook.com</li>
-<li> 09:18 l.facebook.com</li>
-<li> 09:18 www.facebook.com</li>
+<li class='same'> 09:18 www.facebook.com</li>
 <li> 09:17 www.coursera.org</li>
 <li> 09:17 outlook.office.com</li>
 <li class='same'> 09:16 outlook.office.com</li>
