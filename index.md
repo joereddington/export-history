@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (775)</li>
 <li>www.amazon.co.uk (657)</li>
 <li>chatgpt.com (597)</li>
-<li>www.theguardian.com (565)</li>
+<li>www.theguardian.com (566)</li>
 <li>calendar.google.com (444)</li>
 <li>rhul-my.sharepoint.com (442)</li>
 <li>www.linkedin.com (409)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:21 outlook.office.com</li>
+<ul><li> 07:50 www.theguardian.com</li>
+<li> 07:21 outlook.office.com</li>
 <li> 07:17 duckduckgo.com</li>
 <li> 07:17 canopi.org.uk</li>
 <li> 07:17 duckduckgo.com</li>
