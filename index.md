@@ -69,32 +69,32 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2800)</li>
-<li>outlook.office.com (2276)</li>
+<li>outlook.office.com (2289)</li>
 <li>mail.google.com (2131)</li>
 <li>docs.google.com (1776)</li>
-<li>bsky.app (1407)</li>
+<li>bsky.app (1411)</li>
 <li>outlook.office365.com (1234)</li>
 <li>www.facebook.com (1176)</li>
 <li>www.reddit.com (1089)</li>
-<li>duckduckgo.com (775)</li>
+<li>duckduckgo.com (776)</li>
 <li>www.amazon.co.uk (657)</li>
-<li>chatgpt.com (597)</li>
+<li>chatgpt.com (601)</li>
 <li>www.theguardian.com (566)</li>
-<li>calendar.google.com (444)</li>
-<li>rhul-my.sharepoint.com (442)</li>
-<li>www.linkedin.com (409)</li>
+<li>calendar.google.com (445)</li>
+<li>rhul-my.sharepoint.com (443)</li>
+<li>www.linkedin.com (411)</li>
 <li>moodle.royalholloway.ac.uk (403)</li>
 <li>github.com (381)</li>
 <li>tvtropes.org (310)</li>
 <li>gmail.com (282)</li>
 <li>fritz.box (276)</li>
-<li>login.microsoftonline.com (271)</li>
-<li>web.whatsapp.com (255)</li>
-<li>feedly.com (247)</li>
+<li>login.microsoftonline.com (275)</li>
+<li>web.whatsapp.com (256)</li>
+<li>feedly.com (248)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
-<li>chat.openai.com (215)</li>
-<li>www.coursera.org (205)</li>
+<li>chat.openai.com (218)</li>
+<li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (173)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (160)</li>
 <li>www.tesco.com (142)</li>
@@ -105,6 +105,55 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 22/04/25</H3>
+
+<br>
+
+<ul><li> 10:30 outlook.office.com</li>
+<li class='same'> 10:29 outlook.office.com</li>
+<li class='same'> 10:28 outlook.office.com</li>
+<li class='same'> 10:26 outlook.office.com</li>
+<li> 10:26 bsky.app</li>
+<li> 10:26 outlook.office.com</li>
+<li class='same'> 10:25 outlook.office.com</li>
+<li> 10:22 chatgpt.com</li>
+<li> 10:15 outlook.office.com</li>
+<li> 10:15 www.coursera.org</li>
+<li> 10:14 chatgpt.com</li>
+<li> 10:14 chat.openai.com</li>
+<li> 10:14 outlook.office.com</li>
+<li> 10:13 chatgpt.com</li>
+<li> 10:13 chat.openai.com</li>
+<li> 10:13 duckduckgo.com</li>
+<li> 10:13 myview.rhul.zellis.com</li>
+<li class='same'> 10:12 myview.rhul.zellis.com</li>
+<li> 10:10 chatgpt.com</li>
+<li> 10:10 chat.openai.com</li>
+<li> 10:09 myview.rhul.zellis.com</li>
+<li class='same'> 10:08 myview.rhul.zellis.com</li>
+<li> 10:07 login.microsoftonline.com</li>
+<li> 10:07 myview.rhul.zellis.com</li>
+<li> 10:07 login.microsoftonline.com</li>
+<li> 10:07 myview.rhul.zellis.com</li>
+<li> 10:07 www.linkedin.com</li>
+<li class='same'> 10:06 www.linkedin.com</li>
+<li> 10:03 login.microsoftonline.com</li>
+<li> 10:02 outlook.office.com</li>
+<li> 10:01 rhul-my.sharepoint.com</li>
+<li> 10:01 login.microsoftonline.com</li>
+<li> 10:00 outlook.office.com</li>
+<li> 10:00 www.coursera.org</li>
+<li class='same'> 09:59 www.coursera.org</li>
+<li> 09:53 bsky.app</li>
+<li class='same'> 09:52 bsky.app</li>
+<li> 09:52 web.whatsapp.com</li>
+<li> 09:51 bsky.app</li>
+<li> 09:44 www.giantitp.com</li>
+<li> 09:44 feedly.com</li>
+<li> 09:44 outlook.office.com</li>
+<li class='same'> 09:43 outlook.office.com</li>
+<li> 09:41 calendar.google.com</li>
+<li> 09:39 outlook.office.com</li>
+</ul>
 
 <br>
 
