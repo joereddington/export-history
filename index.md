@@ -69,34 +69,34 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2801)</li>
-<li>outlook.office.com (2327)</li>
+<li>outlook.office.com (2329)</li>
 <li>mail.google.com (2150)</li>
 <li>docs.google.com (1777)</li>
 <li>bsky.app (1421)</li>
-<li>outlook.office365.com (1235)</li>
+<li>outlook.office365.com (1236)</li>
 <li>www.facebook.com (1200)</li>
 <li>www.reddit.com (1099)</li>
 <li>duckduckgo.com (783)</li>
 <li>www.amazon.co.uk (661)</li>
-<li>chatgpt.com (603)</li>
+<li>chatgpt.com (604)</li>
 <li>www.theguardian.com (580)</li>
 <li>calendar.google.com (446)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (417)</li>
 <li>moodle.royalholloway.ac.uk (403)</li>
-<li>github.com (382)</li>
+<li>github.com (383)</li>
 <li>tvtropes.org (312)</li>
 <li>gmail.com (286)</li>
-<li>login.microsoftonline.com (278)</li>
+<li>login.microsoftonline.com (279)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (260)</li>
 <li>feedly.com (249)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
-<li>chat.openai.com (220)</li>
+<li>chat.openai.com (221)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (160)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (162)</li>
 <li>www.tesco.com (142)</li>
 
 
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 23/04/25</H3>
+
+<br>
+
+<ul><li> 14:19 github.com</li>
+<li> 14:09 chatgpt.com</li>
+<li> 14:09 chat.openai.com</li>
+<li> 14:08 outlook.office.com</li>
+<li class='same'> 14:07 outlook.office.com</li>
+<li> 14:07 login.microsoftonline.com</li>
+<li> 14:07 outlook.office365.com</li>
+<li> 14:07 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:35 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
 
 <br>
 
