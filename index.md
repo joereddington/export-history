@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2803)</li>
+<ol><li>www.google.com (2799)</li>
 <li>outlook.office.com (2331)</li>
 <li>mail.google.com (2150)</li>
 <li>docs.google.com (1778)</li>
-<li>bsky.app (1421)</li>
-<li>outlook.office365.com (1238)</li>
-<li>www.facebook.com (1201)</li>
+<li>bsky.app (1422)</li>
+<li>outlook.office365.com (1239)</li>
+<li>www.facebook.com (1202)</li>
 <li>www.reddit.com (1099)</li>
-<li>duckduckgo.com (783)</li>
+<li>duckduckgo.com (784)</li>
 <li>www.amazon.co.uk (661)</li>
-<li>chatgpt.com (604)</li>
-<li>www.theguardian.com (580)</li>
+<li>chatgpt.com (605)</li>
+<li>www.theguardian.com (582)</li>
 <li>calendar.google.com (446)</li>
 <li>rhul-my.sharepoint.com (443)</li>
-<li>www.linkedin.com (417)</li>
+<li>www.linkedin.com (418)</li>
 <li>moodle.royalholloway.ac.uk (403)</li>
-<li>github.com (388)</li>
+<li>github.com (389)</li>
 <li>tvtropes.org (315)</li>
 <li>gmail.com (286)</li>
 <li>login.microsoftonline.com (279)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (260)</li>
-<li>feedly.com (249)</li>
+<li>feedly.com (250)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
-<li>chat.openai.com (221)</li>
+<li>chat.openai.com (222)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (162)</li>
@@ -109,11 +109,24 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:42 www.google.com</li>
+<li> 15:37 chatgpt.com</li>
+<li> 15:37 chat.openai.com</li>
+<li> 15:36 www.theguardian.com</li>
+<li class='same'> 15:35 www.theguardian.com</li>
+<li> 15:35 outlook.office.com</li>
+<li> 15:35 outlook.office365.com</li>
 </ul>
 
 <br>
 
-<ul><li> 15:00 github.com</li>
+<ul><li> 15:02 www.linkedin.com</li>
+<li> 15:02 www.facebook.com</li>
+<li> 15:02 bsky.app</li>
+<li> 15:01 feedly.com</li>
+<li> 15:01 github.com</li>
+<li> 15:00 www.jobs.ac.uk</li>
+<li> 15:00 duckduckgo.com</li>
+<li> 15:00 github.com</li>
 <li class='same'> 14:59 github.com</li>
 <li class='same'> 14:58 github.com</li>
 <li> 14:58 outlook.office.com</li>
@@ -18805,7 +18818,6 @@ With number of accesses/minutes in parentheses
 <li> 14:12 www.google.com</li>
 <li> 14:12 <a href="https://en.wikipedia.org/wiki/Single_justice_procedure">Single justice procedure - Wikipedia</a></li>
 <li> 14:12 www.google.com</li>
-<li class='same'> 14:11 www.google.com</li>
 <li class='same'> 14:10 www.google.com</li>
 <li class='same'> 14:09 www.google.com</li>
 <li class='same'> 14:08 www.google.com</li>
@@ -18877,8 +18889,7 @@ With number of accesses/minutes in parentheses
 <li> 11:33 mail.google.com</li>
 <li> 11:33 bsky.app</li>
 <li> 11:30 www.reddit.com</li>
-<li> 11:30 www.google.com</li>
-<li class='same'> 11:29 www.google.com</li>
+<li> 11:29 www.google.com</li>
 <li> 11:29 accounts.landregistry.gov.uk</li>
 <li> 11:29 search-property-information.service.gov.uk</li>
 <li class='same'> 11:28 search-property-information.service.gov.uk</li>
@@ -18932,11 +18943,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:19 outlook.office.com</li>
 <li class='same'> 10:18 outlook.office.com</li>
 <li> 10:16 www.gov.uk</li>
-<li> 10:16 www.google.com</li>
 <li> 10:16 www.publicwhip.org.uk</li>
 <li> 10:15 blog.burges-salmon.com</li>
 <li> 10:15 www.google.com</li>
-<li class='same'> 10:14 www.google.com</li>
 <li class='same'> 10:13 www.google.com</li>
 <li> 10:12 calendar.google.com</li>
 <li> 10:12 outlook.office.com</li>
@@ -18948,8 +18957,7 @@ With number of accesses/minutes in parentheses
 <li> 10:04 bsky.app</li>
 <li> 10:03 calendar.google.com</li>
 <li> 10:02 mail.google.com</li>
-<li> 10:01 outlook.office.com</li>
-<li class='same'> 10:00 outlook.office.com</li>
+<li> 10:00 outlook.office.com</li>
 <li> 09:50 docs.google.com</li>
 <li class='same'> 09:49 docs.google.com</li>
 <li class='same'> 09:48 docs.google.com</li>
