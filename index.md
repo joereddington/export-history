@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2796)</li>
-<li>outlook.office.com (2326)</li>
-<li>mail.google.com (2147)</li>
+<ol><li>www.google.com (2798)</li>
+<li>outlook.office.com (2327)</li>
+<li>mail.google.com (2150)</li>
 <li>docs.google.com (1777)</li>
-<li>bsky.app (1419)</li>
-<li>outlook.office365.com (1234)</li>
-<li>www.facebook.com (1182)</li>
+<li>bsky.app (1421)</li>
+<li>outlook.office365.com (1235)</li>
+<li>www.facebook.com (1200)</li>
 <li>www.reddit.com (1099)</li>
-<li>duckduckgo.com (782)</li>
+<li>duckduckgo.com (783)</li>
 <li>www.amazon.co.uk (661)</li>
 <li>chatgpt.com (603)</li>
-<li>www.theguardian.com (575)</li>
+<li>www.theguardian.com (580)</li>
 <li>calendar.google.com (446)</li>
 <li>rhul-my.sharepoint.com (443)</li>
-<li>www.linkedin.com (416)</li>
+<li>www.linkedin.com (417)</li>
 <li>moodle.royalholloway.ac.uk (403)</li>
 <li>github.com (382)</li>
-<li>tvtropes.org (310)</li>
-<li>gmail.com (284)</li>
+<li>tvtropes.org (312)</li>
+<li>gmail.com (286)</li>
 <li>login.microsoftonline.com (278)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (259)</li>
-<li>feedly.com (248)</li>
+<li>web.whatsapp.com (260)</li>
+<li>feedly.com (249)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
 <li>chat.openai.com (220)</li>
@@ -104,11 +104,65 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 23/04/25</H3>
+
+<br>
+
+<ul><li> 07:51 www.google.com</li>
+<li class='same'> 07:41 www.google.com</li>
+<li> 07:41 www.theguardian.com</li>
+<li> 07:28 www.facebook.com</li>
+<li class='same'> 07:27 www.facebook.com</li>
+<li class='same'> 07:26 www.facebook.com</li>
+<li class='same'> 07:25 www.facebook.com</li>
+<li class='same'> 07:24 www.facebook.com</li>
+<li class='same'> 07:23 www.facebook.com</li>
+<li class='same'> 07:22 www.facebook.com</li>
+<li class='same'> 07:21 www.facebook.com</li>
+<li class='same'> 07:20 www.facebook.com</li>
+<li class='same'> 07:19 www.facebook.com</li>
+<li class='same'> 07:18 www.facebook.com</li>
+<li class='same'> 07:17 www.facebook.com</li>
+<li class='same'> 07:16 www.facebook.com</li>
+<li class='same'> 07:15 www.facebook.com</li>
+<li class='same'> 07:13 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:41 feedly.com</li>
+<li> 06:41 duckduckgo.com</li>
+<li> 06:38 www.linkedin.com</li>
+<li> 06:37 mail.google.com</li>
+<li> 06:37 gmail.com</li>
+<li> 06:36 tvtropes.org</li>
+<li class='same'> 06:30 tvtropes.org</li>
+<li> 06:29 www.facebook.com</li>
+<li class='same'> 06:28 www.facebook.com</li>
+<li class='same'> 06:25 www.facebook.com</li>
+<li> 06:25 www.theguardian.com</li>
+<li class='same'> 06:23 www.theguardian.com</li>
+<li> 06:23 web.whatsapp.com</li>
+<li> 06:23 mail.google.com</li>
+<li> 06:23 gmail.com</li>
+<li> 06:22 bsky.app</li>
+<li class='same'> 06:20 bsky.app</li>
+<li> 06:20 outlook.office.com</li>
+<li> 06:20 outlook.office365.com</li>
+<li> 06:19 mail.google.com</li>
+</ul>
+
 <H3>Tuesday, 22/04/25</H3>
 
 <br>
 
-<ul><li> 19:32 www.theguardian.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 19:34 www.theguardian.com</li>
+<li class='same'> 19:33 www.theguardian.com</li>
+<li class='same'> 19:32 www.theguardian.com</li>
 </ul>
 
 <br>
