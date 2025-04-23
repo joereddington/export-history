@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2801)</li>
-<li>outlook.office.com (2329)</li>
+<ol><li>www.google.com (2803)</li>
+<li>outlook.office.com (2331)</li>
 <li>mail.google.com (2150)</li>
-<li>docs.google.com (1777)</li>
+<li>docs.google.com (1778)</li>
 <li>bsky.app (1421)</li>
-<li>outlook.office365.com (1236)</li>
-<li>www.facebook.com (1200)</li>
+<li>outlook.office365.com (1238)</li>
+<li>www.facebook.com (1201)</li>
 <li>www.reddit.com (1099)</li>
 <li>duckduckgo.com (783)</li>
 <li>www.amazon.co.uk (661)</li>
@@ -84,8 +84,8 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (417)</li>
 <li>moodle.royalholloway.ac.uk (403)</li>
-<li>github.com (383)</li>
-<li>tvtropes.org (312)</li>
+<li>github.com (388)</li>
+<li>tvtropes.org (315)</li>
 <li>gmail.com (286)</li>
 <li>login.microsoftonline.com (279)</li>
 <li>fritz.box (276)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:19 github.com</li>
+<ul><li> 15:42 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:00 github.com</li>
+<li class='same'> 14:59 github.com</li>
+<li class='same'> 14:58 github.com</li>
+<li> 14:58 outlook.office.com</li>
+<li> 14:58 outlook.office365.com</li>
+<li> 14:56 www.facebook.com</li>
+<li> 14:55 github.com</li>
+<li class='same'> 14:54 github.com</li>
+<li> 14:32 outlook.office.com</li>
+<li> 14:32 outlook.office365.com</li>
+<li> 14:30 docs.google.com</li>
+<li> 14:19 github.com</li>
 <li> 14:09 chatgpt.com</li>
 <li> 14:09 chat.openai.com</li>
 <li> 14:08 outlook.office.com</li>
@@ -125,7 +141,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:57 www.google.com</li>
+<ul><li> 08:03 tvtropes.org</li>
+<li class='same'> 08:02 tvtropes.org</li>
+<li> 08:02 www.google.com</li>
+<li class='same'> 07:57 www.google.com</li>
 <li class='same'> 07:56 www.google.com</li>
 <li> 07:51 aminoapps.com</li>
 <li> 07:51 www.google.com</li>
@@ -36675,6 +36694,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 20:54 tvtropes.org</li>
+</ul>
 
 <br>
 
