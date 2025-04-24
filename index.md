@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2802)</li>
+<ol><li>www.google.com (2791)</li>
 <li>outlook.office.com (2355)</li>
 <li>mail.google.com (2169)</li>
 <li>docs.google.com (1778)</li>
@@ -18477,9 +18477,7 @@ With number of accesses/minutes in parentheses
 <li> 18:48 bsky.app</li>
 <li> 18:46 www.istockphoto.com</li>
 <li> 18:46 bsky.app</li>
-<li> 18:46 www.google.com</li>
-<li class='same'> 18:44 www.google.com</li>
-<li class='same'> 18:43 www.google.com</li>
+<li> 18:43 www.google.com</li>
 <li> 18:43 sites.google.com</li>
 <li> 18:43 www.google.com</li>
 <li> 18:42 www.forbes.com</li>
@@ -18606,10 +18604,8 @@ With number of accesses/minutes in parentheses
 <li> 12:48 outlook.office365.com</li>
 <li> 12:48 outlook.office.com</li>
 <li> 12:48 www.reddit.com</li>
-<li> 12:47 www.google.com</li>
 <li> 12:47 www.ebay.co.uk</li>
-<li> 12:47 www.google.com</li>
-<li class='same'> 12:46 www.google.com</li>
+<li> 12:46 www.google.com</li>
 <li> 12:46 www.facebook.com</li>
 <li> 12:45 bsky.app</li>
 <li> 12:45 teams.microsoft.com</li>
@@ -18668,9 +18664,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:05 docs.google.com</li>
 <li class='same'> 11:04 docs.google.com</li>
 <li class='same'> 11:03 docs.google.com</li>
-<li> 10:54 www.google.com</li>
-<li class='same'> 10:50 www.google.com</li>
-<li class='same'> 10:49 www.google.com</li>
+<li> 10:50 www.google.com</li>
 <li class='same'> 10:48 www.google.com</li>
 <li> 10:44 docs.google.com</li>
 <li class='same'> 10:43 docs.google.com</li>
@@ -18726,8 +18720,7 @@ With number of accesses/minutes in parentheses
 <li> 21:27 www.reddit.com</li>
 <li> 21:26 docs.google.com</li>
 <li> 21:24 www.reddit.com</li>
-<li> 21:24 www.google.com</li>
-<li> 21:23 www.reddit.com</li>
+<li class='same'> 21:23 www.reddit.com</li>
 <li> 21:23 www.google.com</li>
 <li> 21:13 docs.google.com</li>
 <li class='same'> 21:12 docs.google.com</li>
@@ -18884,17 +18877,14 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:53 docs.google.com</li>
 <li class='same'> 16:52 docs.google.com</li>
 <li> 16:52 photos.com</li>
-<li> 16:52 www.google.com</li>
 <li> 16:51 www.pinterest.com</li>
-<li> 16:51 www.google.com</li>
 <li> 16:51 docs.google.com</li>
 <li> 16:51 www.google.com</li>
 <li> 16:51 www.shutterstock.com</li>
 <li class='same'> 16:50 www.shutterstock.com</li>
 <li> 16:49 docs.google.com</li>
 <li> 16:49 www.shutterstock.com</li>
-<li> 16:49 www.google.com</li>
-<li class='same'> 16:48 www.google.com</li>
+<li> 16:48 www.google.com</li>
 <li class='same'> 16:47 www.google.com</li>
 <li> 16:46 docs.google.com</li>
 <li> 16:45 www.linkedin.com</li>
@@ -18915,8 +18905,7 @@ With number of accesses/minutes in parentheses
 <li> 16:35 docs.google.com</li>
 <li class='same'> 16:07 docs.google.com</li>
 <li> 16:06 bsky.app</li>
-<li> 16:06 www.google.com</li>
-<li class='same'> 16:05 www.google.com</li>
+<li> 16:05 www.google.com</li>
 <li> 16:04 docs.google.com</li>
 <li class='same'> 16:03 docs.google.com</li>
 <li class='same'> 16:01 docs.google.com</li>
@@ -18986,10 +18975,7 @@ With number of accesses/minutes in parentheses
 <li> 14:20 accounts.google.com</li>
 <li> 14:20 gmail.com</li>
 <li> 14:20 studio.youtube.com</li>
-<li> 14:20 <a href="https://www.youtube.com/upload"></a></li>
-<li> 14:20 studio.youtube.com</li>
 <li> 14:19 <a href="https://www.youtube.com/">(336) YouTube</a></li>
-<li> 14:19 <a href="https://www.youtube.com/signin?action_handle_signin=true&authuser=0&next=https%3A%2F%2Fwww.youtube.com%2F&feature=identity_prompt&skip_identity_prompt=true"></a></li>
 <li> 14:19 <a href="https://www.youtube.com/account">(114) YouTube</a></li>
 <li> 14:19 <a href="https://www.youtube.com/signin_prompt?next=https%3A%2F%2Fwww.youtube.com%2F"></a></li>
 <li> 14:19 <a href="https://www.youtube.com/">(336) YouTube</a></li>
