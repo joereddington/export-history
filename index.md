@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2799)</li>
+<ol><li>www.google.com (2801)</li>
 <li>outlook.office.com (2331)</li>
 <li>mail.google.com (2150)</li>
 <li>docs.google.com (1778)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1202)</li>
 <li>www.reddit.com (1099)</li>
 <li>duckduckgo.com (784)</li>
-<li>www.amazon.co.uk (661)</li>
+<li>www.amazon.co.uk (662)</li>
 <li>chatgpt.com (605)</li>
 <li>www.theguardian.com (582)</li>
 <li>calendar.google.com (446)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (279)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (260)</li>
-<li>feedly.com (250)</li>
+<li>feedly.com (251)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
 <li>chat.openai.com (222)</li>
@@ -104,7 +104,27 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 24/04/25</H3>
+
+<br>
+
+<ul><li> 06:33 www.amazon.co.uk</li>
+<li> 06:33 www.google.com</li>
+<li> 06:31 feedly.com</li>
+</ul>
+
 <H3>Wednesday, 23/04/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 19:05 numbergenerator.org</li>
+<li> 19:05 www.google.com</li>
+<li> 19:05 www.ebay.co.uk</li>
+</ul>
 
 <br>
 
