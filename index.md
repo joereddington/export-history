@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2802)</li>
-<li>outlook.office.com (2352)</li>
-<li>mail.google.com (2162)</li>
+<li>outlook.office.com (2355)</li>
+<li>mail.google.com (2169)</li>
 <li>docs.google.com (1778)</li>
 <li>bsky.app (1422)</li>
 <li>outlook.office365.com (1242)</li>
-<li>www.facebook.com (1202)</li>
-<li>www.reddit.com (1124)</li>
-<li>duckduckgo.com (792)</li>
+<li>www.facebook.com (1203)</li>
+<li>www.reddit.com (1126)</li>
+<li>duckduckgo.com (793)</li>
 <li>www.amazon.co.uk (662)</li>
 <li>chatgpt.com (605)</li>
 <li>www.theguardian.com (582)</li>
 <li>calendar.google.com (446)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (418)</li>
-<li>moodle.royalholloway.ac.uk (416)</li>
+<li>moodle.royalholloway.ac.uk (417)</li>
 <li>github.com (393)</li>
 <li>tvtropes.org (315)</li>
-<li>gmail.com (288)</li>
-<li>login.microsoftonline.com (281)</li>
+<li>gmail.com (291)</li>
+<li>login.microsoftonline.com (282)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (262)</li>
-<li>feedly.com (251)</li>
+<li>feedly.com (252)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
 <li>chat.openai.com (222)</li>
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:10 outlook.office.com</li>
+<ul><li> 16:16 duckduckgo.com</li>
+<li> 16:15 kdpreports.amazon.com</li>
+<li> 16:15 kdp.amazon.com</li>
+<li> 16:14 www.ebay.co.uk</li>
+<li> 16:14 mail.google.com</li>
+<li class='same'> 16:13 mail.google.com</li>
+<li> 16:13 gmail.com</li>
+<li> 16:13 mail.google.com</li>
+<li> 16:11 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:10 mail.google.com</li>
+<li> 16:09 gla-my.sharepoint.com</li>
+<li> 16:09 outlook.office.com</li>
+<li class='same'> 16:08 outlook.office.com</li>
+<li> 16:08 gla-my.sharepoint.com</li>
+<li> 16:08 mail.google.com</li>
+<li> 16:08 gla-my.sharepoint.com</li>
+<li> 16:08 mail.google.com</li>
+<li> 16:08 gmail.com</li>
+<li> 16:07 www.giantitp.com</li>
+<li> 16:07 mail.google.com</li>
+<li> 16:07 gmail.com</li>
+<li> 16:07 www.reddit.com</li>
+<li class='same'> 16:06 www.reddit.com</li>
+<li> 16:05 feedly.com</li>
+<li> 16:05 www.facebook.com</li>
+<li> 16:04 forms.office.com</li>
+<li> 16:04 login.microsoftonline.com</li>
+<li> 16:04 forms.office.com</li>
+<li> 16:04 moodle.royalholloway.ac.uk</li>
+<li> 16:03 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:10 outlook.office.com</li>
 <li class='same'> 15:06 outlook.office.com</li>
 <li class='same'> 15:04 outlook.office.com</li>
 <li class='same'> 14:39 outlook.office.com</li>
