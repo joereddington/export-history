@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2802)</li>
-<li>outlook.office.com (2340)</li>
-<li>mail.google.com (2156)</li>
+<li>outlook.office.com (2349)</li>
+<li>mail.google.com (2162)</li>
 <li>docs.google.com (1778)</li>
 <li>bsky.app (1422)</li>
-<li>outlook.office365.com (1241)</li>
+<li>outlook.office365.com (1242)</li>
 <li>www.facebook.com (1202)</li>
-<li>www.reddit.com (1110)</li>
-<li>duckduckgo.com (791)</li>
+<li>www.reddit.com (1121)</li>
+<li>duckduckgo.com (792)</li>
 <li>www.amazon.co.uk (662)</li>
 <li>chatgpt.com (605)</li>
 <li>www.theguardian.com (582)</li>
 <li>calendar.google.com (446)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (418)</li>
-<li>moodle.royalholloway.ac.uk (403)</li>
+<li>moodle.royalholloway.ac.uk (416)</li>
 <li>github.com (393)</li>
 <li>tvtropes.org (315)</li>
 <li>gmail.com (288)</li>
-<li>login.microsoftonline.com (279)</li>
+<li>login.microsoftonline.com (281)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (262)</li>
 <li>feedly.com (251)</li>
@@ -108,6 +108,52 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:39 outlook.office.com</li>
+<li class='same'> 14:38 outlook.office.com</li>
+<li> 14:38 mail.google.com</li>
+<li class='same'> 14:37 mail.google.com</li>
+<li> 14:37 libraries.merton.gov.uk</li>
+<li class='same'> 14:36 libraries.merton.gov.uk</li>
+<li> 14:36 duckduckgo.com</li>
+<li> 14:36 updates.merton.gov.uk</li>
+<li> 14:36 mail.google.com</li>
+<li> 14:35 outlook.office.com</li>
+<li class='same'> 14:26 outlook.office.com</li>
+<li class='same'> 14:24 outlook.office.com</li>
+<li class='same'> 14:23 outlook.office.com</li>
+<li> 14:22 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:21 moodle.royalholloway.ac.uk</li>
+<li> 14:20 mail.google.com</li>
+<li> 14:19 outlook.office.com</li>
+<li class='same'> 14:17 outlook.office.com</li>
+<li> 14:02 www.reddit.com</li>
+<li class='same'> 14:01 www.reddit.com</li>
+<li class='same'> 13:59 www.reddit.com</li>
+<li class='same'> 13:58 www.reddit.com</li>
+<li class='same'> 13:57 www.reddit.com</li>
+<li class='same'> 13:56 www.reddit.com</li>
+<li class='same'> 13:55 www.reddit.com</li>
+<li class='same'> 13:54 www.reddit.com</li>
+<li class='same'> 13:52 www.reddit.com</li>
+<li> 13:51 mail.google.com</li>
+<li class='same'> 13:50 mail.google.com</li>
+<li> 13:50 outlook.office.com</li>
+<li> 13:50 outlook.office365.com</li>
+<li> 13:49 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:48 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:47 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:46 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:44 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:43 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:42 moodle.royalholloway.ac.uk</li>
+<li> 13:42 login.microsoftonline.com</li>
+<li> 13:42 moodle.royalholloway.ac.uk</li>
+<li> 13:42 login.microsoftonline.com</li>
+<li> 13:42 moodle.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 13:10 www.lse.ac.uk</li>
 <li class='same'> 13:08 www.lse.ac.uk</li>
 <li class='same'> 13:07 www.lse.ac.uk</li>
@@ -123,7 +169,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:01 www.reddit.com</li>
+<ul><li> 12:03 www.reddit.com</li>
+<li class='same'> 12:02 www.reddit.com</li>
+<li class='same'> 12:01 www.reddit.com</li>
 <li class='same'> 11:51 www.reddit.com</li>
 <li class='same'> 11:50 www.reddit.com</li>
 <li class='same'> 11:49 www.reddit.com</li>
@@ -39269,7 +39317,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:06 dashboards.rhul.ac.uk</li>
-<li> 12:00 moodle.royalholloway.ac.uk</li>
+<li> 12:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:00 moodle.royalholloway.ac.uk</li>
 <li> 11:53 rhul.sharepoint.com</li>
 <li class='same'> 11:49 rhul.sharepoint.com</li>
 </ul>
@@ -39958,7 +40007,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:47 knowyourmeme.com</li>
-<li> 13:44 moodle.royalholloway.ac.uk</li>
+<li> 13:45 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:44 moodle.royalholloway.ac.uk</li>
 <li> 13:26 www.linkedin.com</li>
 <li> 13:23 gitlab.cim.rhul.ac.uk</li>
 </ul>
