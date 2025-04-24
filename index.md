@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2801)</li>
-<li>outlook.office.com (2331)</li>
-<li>mail.google.com (2150)</li>
+<li>outlook.office.com (2335)</li>
+<li>mail.google.com (2156)</li>
 <li>docs.google.com (1778)</li>
 <li>bsky.app (1422)</li>
-<li>outlook.office365.com (1239)</li>
+<li>outlook.office365.com (1240)</li>
 <li>www.facebook.com (1202)</li>
-<li>www.reddit.com (1099)</li>
-<li>duckduckgo.com (784)</li>
+<li>www.reddit.com (1101)</li>
+<li>duckduckgo.com (790)</li>
 <li>www.amazon.co.uk (662)</li>
 <li>chatgpt.com (605)</li>
 <li>www.theguardian.com (582)</li>
@@ -84,12 +84,12 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (418)</li>
 <li>moodle.royalholloway.ac.uk (403)</li>
-<li>github.com (389)</li>
+<li>github.com (393)</li>
 <li>tvtropes.org (315)</li>
-<li>gmail.com (286)</li>
+<li>gmail.com (288)</li>
 <li>login.microsoftonline.com (279)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (260)</li>
+<li>web.whatsapp.com (262)</li>
 <li>feedly.com (251)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
@@ -105,6 +105,51 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 24/04/25</H3>
+
+<br>
+
+<ul><li> 09:21 www.jobs.ac.uk</li>
+<li> 09:21 mail.google.com</li>
+<li> 09:20 www.jobs.ac.uk</li>
+<li> 09:20 mail.google.com</li>
+<li> 09:14 www.reddit.com</li>
+<li class='same'> 09:11 www.reddit.com</li>
+<li> 09:11 github.com</li>
+<li> 09:10 mail.google.com</li>
+<li class='same'> 09:09 mail.google.com</li>
+<li> 09:09 gmail.com</li>
+<li> 09:08 github.com</li>
+<li> 09:07 web.whatsapp.com</li>
+<li> 09:06 github.com</li>
+<li class='same'> 09:05 github.com</li>
+<li> 09:04 equalitytime.github.io</li>
+<li> 09:02 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:51 outlook.office.com</li>
+<li class='same'> 07:50 outlook.office.com</li>
+<li> 07:50 outlook.office365.com</li>
+<li> 07:50 outlook.office.com</li>
+<li> 07:50 mail.google.com</li>
+<li class='same'> 07:33 mail.google.com</li>
+<li> 07:33 gmail.com</li>
+<li> 07:32 tardis.fandom.com</li>
+<li class='same'> 07:31 tardis.fandom.com</li>
+<li> 07:31 duckduckgo.com</li>
+<li> 07:30 doctorwho.fandom.com</li>
+<li> 07:30 duckduckgo.com</li>
+<li> 07:29 www.thatspopculture.com</li>
+<li> 07:29 duckduckgo.com</li>
+<li class='same'> 07:28 duckduckgo.com</li>
+<li> 07:27 www.tvfanatic.com</li>
+<li> 07:26 duckduckgo.com</li>
+<li> 07:26 <a href="https://en.wikipedia.org/wiki/Ackley_Bridge">Ackley Bridge - Wikipedia</a></li>
+<li> 07:26 <a href="https://en.wikipedia.org/wiki/List_of_fictional_schools">List of fictional schools - Wikipedia</a></li>
+<li> 07:26 duckduckgo.com</li>
+<li> 07:18 web.whatsapp.com</li>
+</ul>
 
 <br>
 
