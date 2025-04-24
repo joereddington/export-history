@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1422)</li>
 <li>outlook.office365.com (1240)</li>
 <li>www.facebook.com (1202)</li>
-<li>www.reddit.com (1102)</li>
+<li>www.reddit.com (1110)</li>
 <li>duckduckgo.com (790)</li>
 <li>www.amazon.co.uk (662)</li>
 <li>chatgpt.com (605)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:10 www.reddit.com</li>
+<ul><li> 12:01 www.reddit.com</li>
+<li class='same'> 11:51 www.reddit.com</li>
+<li class='same'> 11:50 www.reddit.com</li>
+<li class='same'> 11:49 www.reddit.com</li>
+<li class='same'> 11:48 www.reddit.com</li>
+<li class='same'> 11:47 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:10 www.reddit.com</li>
 <li> 11:10 www.google.com</li>
 </ul>
 
@@ -34127,6 +34137,7 @@ With number of accesses/minutes in parentheses
 <li> 13:59 c14.qbo.intuit.com</li>
 <li> 13:59 app.qbo.intuit.com</li>
 <li> 13:56 www.reddit.com</li>
+<li class='same'> 13:55 www.reddit.com</li>
 <li> 13:33 equalitytime.co.uk</li>
 <li> 13:32 drive.google.com</li>
 <li> 13:07 qbo.intuit.com</li>
@@ -34220,11 +34231,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:02 outlook.office365.com</li>
 <li> 14:45 projects.cs.rhul.ac.uk</li>
 <li> 14:45 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 14:08 accounts.intuit.com</li>
+<li> 14:24 www.reddit.com</li>
+<li> 14:08 accounts.intuit.com</li>
 <li> 13:59 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 </ul>
 
