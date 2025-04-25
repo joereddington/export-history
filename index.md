@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2791)</li>
-<li>outlook.office.com (2376)</li>
-<li>mail.google.com (2209)</li>
+<ol><li>www.google.com (2792)</li>
+<li>outlook.office.com (2379)</li>
+<li>mail.google.com (2219)</li>
 <li>docs.google.com (1778)</li>
 <li>bsky.app (1422)</li>
-<li>outlook.office365.com (1246)</li>
+<li>outlook.office365.com (1247)</li>
 <li>www.facebook.com (1205)</li>
 <li>www.reddit.com (1141)</li>
-<li>duckduckgo.com (804)</li>
+<li>duckduckgo.com (809)</li>
 <li>www.amazon.co.uk (662)</li>
-<li>chatgpt.com (616)</li>
+<li>chatgpt.com (618)</li>
 <li>www.theguardian.com (586)</li>
-<li>calendar.google.com (448)</li>
+<li>calendar.google.com (450)</li>
 <li>rhul-my.sharepoint.com (443)</li>
-<li>moodle.royalholloway.ac.uk (425)</li>
-<li>www.linkedin.com (422)</li>
+<li>moodle.royalholloway.ac.uk (426)</li>
+<li>www.linkedin.com (423)</li>
 <li>github.com (393)</li>
 <li>tvtropes.org (315)</li>
-<li>gmail.com (299)</li>
+<li>gmail.com (300)</li>
 <li>login.microsoftonline.com (286)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (264)</li>
+<li>web.whatsapp.com (265)</li>
 <li>feedly.com (253)</li>
 <li>drive.google.com (233)</li>
-<li>chat.openai.com (227)</li>
+<li>chat.openai.com (228)</li>
 <li>qbo.intuit.com (225)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:36 discord.com</li>
+<ul><li> 15:30 web.whatsapp.com</li>
+<li> 15:30 calendar.google.com</li>
+<li> 15:29 mail.google.com</li>
+<li> 15:29 gmail.com</li>
+<li> 15:29 www.jobs.ac.uk</li>
+<li> 15:29 account.jobs.ac.uk</li>
+<li> 15:29 www.jobs.ac.uk</li>
+<li> 15:27 calendar.google.com</li>
+<li> 15:26 outlook.office.com</li>
+<li class='same'> 15:25 outlook.office.com</li>
+<li> 15:25 outlook.office365.com</li>
+<li> 15:25 outlook.office.com</li>
+<li> 15:24 mail.google.com</li>
+<li class='same'> 15:23 mail.google.com</li>
+<li> 15:20 www.linkedin.com</li>
+<li> 15:15 mail.google.com</li>
+<li class='same'> 15:12 mail.google.com</li>
+<li class='same'> 15:11 mail.google.com</li>
+<li> 15:11 www.google.co.uk</li>
+<li> 15:11 duckduckgo.com</li>
+<li> 15:11 mail.google.com</li>
+<li class='same'> 15:10 mail.google.com</li>
+<li> 14:53 ico.org.uk</li>
+<li> 14:52 icosearch.ico.org.uk</li>
+<li> 14:52 ico.org.uk</li>
+<li> 14:52 caranua.ie</li>
+<li> 14:51 www.google.com</li>
+<li> 14:51 duckduckgo.com</li>
+<li> 14:50 www.buzzacott.co.uk</li>
+<li> 14:50 duckduckgo.com</li>
+<li> 14:49 chatgpt.com</li>
+<li class='same'> 14:48 chatgpt.com</li>
+<li> 14:48 chat.openai.com</li>
+<li> 14:46 mail.google.com</li>
+<li> 14:42 www.ted.com</li>
+<li> 14:42 duckduckgo.com</li>
+<li> 14:39 codingnemo.com</li>
+<li> 14:39 duckduckgo.com</li>
+<li> 14:38 mail.google.com</li>
+<li> 14:38 moodle.royalholloway.ac.uk</li>
+<li> 14:37 discord.com</li>
+<li class='same'> 14:36 discord.com</li>
 <li> 14:36 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 14:35 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:34 moodle.royalholloway.ac.uk</li>
