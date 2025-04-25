@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2791)</li>
-<li>outlook.office.com (2371)</li>
-<li>mail.google.com (2197)</li>
+<li>outlook.office.com (2376)</li>
+<li>mail.google.com (2209)</li>
 <li>docs.google.com (1778)</li>
 <li>bsky.app (1422)</li>
 <li>outlook.office365.com (1246)</li>
-<li>www.facebook.com (1204)</li>
-<li>www.reddit.com (1137)</li>
-<li>duckduckgo.com (800)</li>
+<li>www.facebook.com (1205)</li>
+<li>www.reddit.com (1141)</li>
+<li>duckduckgo.com (804)</li>
 <li>www.amazon.co.uk (662)</li>
-<li>chatgpt.com (615)</li>
-<li>www.theguardian.com (584)</li>
+<li>chatgpt.com (616)</li>
+<li>www.theguardian.com (586)</li>
 <li>calendar.google.com (448)</li>
 <li>rhul-my.sharepoint.com (443)</li>
-<li>moodle.royalholloway.ac.uk (422)</li>
-<li>www.linkedin.com (419)</li>
+<li>moodle.royalholloway.ac.uk (425)</li>
+<li>www.linkedin.com (422)</li>
 <li>github.com (393)</li>
 <li>tvtropes.org (315)</li>
-<li>gmail.com (298)</li>
+<li>gmail.com (299)</li>
 <li>login.microsoftonline.com (286)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (263)</li>
+<li>web.whatsapp.com (264)</li>
 <li>feedly.com (253)</li>
 <li>drive.google.com (233)</li>
-<li>chat.openai.com (226)</li>
+<li>chat.openai.com (227)</li>
 <li>qbo.intuit.com (225)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
@@ -108,7 +108,63 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:34 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<ul><li> 14:36 discord.com</li>
+<li> 14:36 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 14:35 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:34 moodle.royalholloway.ac.uk</li>
+<li> 14:29 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 14:29 mail.google.com</li>
+<li class='same'> 14:28 mail.google.com</li>
+<li> 14:28 updates.merton.gov.uk</li>
+<li> 14:28 mail.google.com</li>
+<li class='same'> 14:26 mail.google.com</li>
+<li> 14:26 www.lutonlibraries.co.uk</li>
+<li class='same'> 14:25 www.lutonlibraries.co.uk</li>
+<li> 14:25 duckduckgo.com</li>
+<li> 14:25 mail.google.com</li>
+<li> 14:21 www.linkedin.com</li>
+<li class='same'> 14:20 www.linkedin.com</li>
+<li class='same'> 14:19 www.linkedin.com</li>
+<li> 14:18 chatgpt.com</li>
+<li> 14:18 chat.openai.com</li>
+<li> 14:17 duckduckgo.com</li>
+<li> 14:17 www.eventbrite.co.uk</li>
+<li> 14:17 mail.google.com</li>
+<li class='same'> 14:15 mail.google.com</li>
+<li class='same'> 14:14 mail.google.com</li>
+<li> 14:13 duckduckgo.com</li>
+<li> 14:11 web.whatsapp.com</li>
+<li> 14:08 mail.google.com</li>
+<li> 14:08 gmail.com</li>
+<li> 14:07 www.giantitp.com</li>
+<li> 14:06 www.theguardian.com</li>
+<li class='same'> 14:05 www.theguardian.com</li>
+<li> 14:04 www.facebook.com</li>
+<li> 14:04 mail.google.com</li>
+<li class='same'> 14:03 mail.google.com</li>
+<li> 14:02 equalitytime.github.io</li>
+<li> 14:02 www.projectreal.co.uk</li>
+<li> 14:01 www.reddit.com</li>
+<li class='same'> 14:00 www.reddit.com</li>
+<li class='same'> 13:58 www.reddit.com</li>
+<li class='same'> 13:56 www.reddit.com</li>
+<li> 13:56 www.projectreal.co.uk</li>
+<li class='same'> 13:55 www.projectreal.co.uk</li>
+<li> 13:54 equalitytime.github.io</li>
+<li> 13:54 momlovesbest.com</li>
+<li> 13:54 duckduckgo.com</li>
+<li> 13:53 equalitytime.github.io</li>
+<li> 13:50 mail.google.com</li>
+<li> 13:47 outlook.office.com</li>
+<li class='same'> 13:46 outlook.office.com</li>
+<li> 13:44 publish.buffer.com</li>
+<li> 13:44 login.buffer.com</li>
+<li> 13:44 buffer.com</li>
+<li> 13:44 outlook.office.com</li>
+<li class='same'> 13:43 outlook.office.com</li>
+<li class='same'> 13:42 outlook.office.com</li>
+<li> 13:41 moodle.royalholloway.ac.uk</li>
+<li> 13:34 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
 <li> 13:31 chatgpt.com</li>
 <li> 13:29 www.royalholloway.ac.uk</li>
 <li class='same'> 13:28 www.royalholloway.ac.uk</li>
