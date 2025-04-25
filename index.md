@@ -69,13 +69,13 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2791)</li>
-<li>outlook.office.com (2364)</li>
-<li>mail.google.com (2186)</li>
+<li>outlook.office.com (2367)</li>
+<li>mail.google.com (2192)</li>
 <li>docs.google.com (1778)</li>
 <li>bsky.app (1422)</li>
-<li>outlook.office365.com (1244)</li>
+<li>outlook.office365.com (1245)</li>
 <li>www.facebook.com (1204)</li>
-<li>www.reddit.com (1132)</li>
+<li>www.reddit.com (1136)</li>
 <li>duckduckgo.com (798)</li>
 <li>www.amazon.co.uk (662)</li>
 <li>chatgpt.com (613)</li>
@@ -87,11 +87,11 @@ With number of accesses/minutes in parentheses
 <li>github.com (393)</li>
 <li>tvtropes.org (315)</li>
 <li>gmail.com (296)</li>
-<li>login.microsoftonline.com (284)</li>
+<li>login.microsoftonline.com (285)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (263)</li>
 <li>feedly.com (253)</li>
-<li>drive.google.com (232)</li>
+<li>drive.google.com (233)</li>
 <li>qbo.intuit.com (225)</li>
 <li>chat.openai.com (225)</li>
 <li>www.coursera.org (208)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:18 duckduckgo.com</li>
+<ul><li> 11:21 www.reddit.com</li>
+<li class='same'> 11:20 www.reddit.com</li>
+<li class='same'> 11:19 www.reddit.com</li>
+<li class='same'> 11:17 www.reddit.com</li>
+<li> 11:17 outlook.office.com</li>
+<li class='same'> 11:16 outlook.office.com</li>
+<li class='same'> 11:15 outlook.office.com</li>
+<li> 11:15 outlook.office365.com</li>
+<li> 11:15 login.microsoftonline.com</li>
+<li> 11:15 mail.google.com</li>
+<li class='same'> 11:13 mail.google.com</li>
+<li class='same'> 11:12 mail.google.com</li>
+<li> 11:12 equalitytime.github.io</li>
+<li> 10:52 analytics.google.com</li>
+<li> 10:52 accounts.google.co.uk</li>
+<li> 10:51 gds.google.com</li>
+<li> 10:51 accounts.google.com</li>
+<li> 10:51 analytics.google.com</li>
+<li> 10:51 accounts.google.com</li>
+<li> 10:49 127.0.0.1:4000</li>
+<li> 10:49 www.projectreal.co.uk</li>
+<li> 10:48 mail.google.com</li>
+<li> 10:46 drive.google.com</li>
+<li> 10:46 mail.google.com</li>
+<li class='same'> 10:45 mail.google.com</li>
+<li> 10:18 duckduckgo.com</li>
 <li> 10:15 mail.google.com</li>
 <li class='same'> 10:07 mail.google.com</li>
 <li> 10:06 www.projectreal.co.uk</li>
@@ -48704,7 +48729,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:10 analytics.google.com</li>
+<ul><li> 07:23 analytics.google.com</li>
+<li class='same'> 07:10 analytics.google.com</li>
 <li> 07:10 accounts.google.co.uk</li>
 </ul>
 
