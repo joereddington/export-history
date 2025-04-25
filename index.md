@@ -76,11 +76,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1243)</li>
 <li>www.facebook.com (1203)</li>
 <li>www.reddit.com (1132)</li>
-<li>duckduckgo.com (794)</li>
+<li>duckduckgo.com (796)</li>
 <li>www.amazon.co.uk (662)</li>
-<li>chatgpt.com (612)</li>
+<li>chatgpt.com (613)</li>
 <li>www.theguardian.com (584)</li>
-<li>calendar.google.com (446)</li>
+<li>calendar.google.com (447)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (419)</li>
 <li>moodle.royalholloway.ac.uk (419)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (293)</li>
 <li>login.microsoftonline.com (284)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (262)</li>
+<li>web.whatsapp.com (263)</li>
 <li>feedly.com (253)</li>
 <li>drive.google.com (232)</li>
 <li>qbo.intuit.com (225)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:31 mail.google.com</li>
+<ul><li> 08:04 calendar.google.com</li>
+<li> 07:46 web.whatsapp.com</li>
+<li> 07:39 chatgpt.com</li>
+<li> 07:39 duckduckgo.com</li>
+<li> 07:38 lyricsfuncky.com</li>
+<li> 07:38 duckduckgo.com</li>
+<li> 07:31 mail.google.com</li>
 <li class='same'> 07:30 mail.google.com</li>
 <li> 07:08 chatgpt.com</li>
 <li class='same'> 07:07 chatgpt.com</li>
