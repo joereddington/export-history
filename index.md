@@ -69,31 +69,31 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2791)</li>
-<li>outlook.office.com (2367)</li>
-<li>mail.google.com (2192)</li>
+<li>outlook.office.com (2371)</li>
+<li>mail.google.com (2197)</li>
 <li>docs.google.com (1778)</li>
 <li>bsky.app (1422)</li>
-<li>outlook.office365.com (1245)</li>
+<li>outlook.office365.com (1246)</li>
 <li>www.facebook.com (1204)</li>
-<li>www.reddit.com (1136)</li>
-<li>duckduckgo.com (798)</li>
+<li>www.reddit.com (1137)</li>
+<li>duckduckgo.com (800)</li>
 <li>www.amazon.co.uk (662)</li>
-<li>chatgpt.com (613)</li>
+<li>chatgpt.com (615)</li>
 <li>www.theguardian.com (584)</li>
 <li>calendar.google.com (448)</li>
 <li>rhul-my.sharepoint.com (443)</li>
+<li>moodle.royalholloway.ac.uk (422)</li>
 <li>www.linkedin.com (419)</li>
-<li>moodle.royalholloway.ac.uk (419)</li>
 <li>github.com (393)</li>
 <li>tvtropes.org (315)</li>
-<li>gmail.com (296)</li>
-<li>login.microsoftonline.com (285)</li>
+<li>gmail.com (298)</li>
+<li>login.microsoftonline.com (286)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (263)</li>
 <li>feedly.com (253)</li>
 <li>drive.google.com (233)</li>
+<li>chat.openai.com (226)</li>
 <li>qbo.intuit.com (225)</li>
-<li>chat.openai.com (225)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (164)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:21 www.reddit.com</li>
+<ul><li> 13:34 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 13:31 chatgpt.com</li>
+<li> 13:29 www.royalholloway.ac.uk</li>
+<li class='same'> 13:28 www.royalholloway.ac.uk</li>
+<li> 13:28 duckduckgo.com</li>
+<li> 13:28 www.royalholloway.ac.uk</li>
+<li> 13:28 duckduckgo.com</li>
+<li> 13:27 chatgpt.com</li>
+<li> 13:27 chat.openai.com</li>
+<li> 13:26 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 13:25 outlook.office.com</li>
+<li> 13:25 mail.google.com</li>
+<li class='same'> 13:22 mail.google.com</li>
+<li class='same'> 13:21 mail.google.com</li>
+<li class='same'> 13:20 mail.google.com</li>
+<li> 13:20 gmail.com</li>
+<li> 13:20 mail.google.com</li>
+<li> 13:20 accounts.google.com</li>
+<li> 13:20 gmail.com</li>
+<li> 13:20 outlook.office.com</li>
+<li class='same'> 13:19 outlook.office.com</li>
+<li> 13:17 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:16 moodle.royalholloway.ac.uk</li>
+<li> 13:16 login.microsoftonline.com</li>
+<li> 13:16 moodle.royalholloway.ac.uk</li>
+<li> 13:15 outlook.office.com</li>
+<li> 13:15 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:22 www.reddit.com</li>
+<li class='same'> 11:21 www.reddit.com</li>
 <li class='same'> 11:20 www.reddit.com</li>
 <li class='same'> 11:19 www.reddit.com</li>
 <li class='same'> 11:17 www.reddit.com</li>
@@ -34460,6 +34492,7 @@ With number of accesses/minutes in parentheses
 <li> 13:11 projects.cs.rhul.ac.uk</li>
 <li> 13:11 outlook.office365.com</li>
 <li class='same'> 13:06 outlook.office365.com</li>
+<li> 13:04 www.royalholloway.ac.uk</li>
 <li> 13:00 teams.microsoft.com</li>
 <li> 12:48 outlook.office365.com</li>
 <li> 12:45 generalssb-prod.ec.royalholloway.ac.uk</li>
