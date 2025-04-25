@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2792)</li>
-<li>outlook.office.com (2379)</li>
-<li>mail.google.com (2220)</li>
+<ol><li>www.google.com (2791)</li>
+<li>outlook.office.com (2382)</li>
+<li>mail.google.com (2228)</li>
 <li>docs.google.com (1778)</li>
 <li>bsky.app (1422)</li>
-<li>outlook.office365.com (1247)</li>
+<li>outlook.office365.com (1248)</li>
 <li>www.facebook.com (1205)</li>
 <li>www.reddit.com (1141)</li>
-<li>duckduckgo.com (809)</li>
+<li>duckduckgo.com (813)</li>
 <li>www.amazon.co.uk (662)</li>
 <li>chatgpt.com (618)</li>
-<li>www.theguardian.com (586)</li>
-<li>calendar.google.com (450)</li>
+<li>www.theguardian.com (589)</li>
+<li>calendar.google.com (451)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>moodle.royalholloway.ac.uk (426)</li>
-<li>www.linkedin.com (423)</li>
+<li>www.linkedin.com (424)</li>
 <li>github.com (393)</li>
 <li>tvtropes.org (315)</li>
-<li>gmail.com (300)</li>
+<li>gmail.com (301)</li>
 <li>login.microsoftonline.com (286)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (265)</li>
+<li>web.whatsapp.com (267)</li>
 <li>feedly.com (253)</li>
 <li>drive.google.com (233)</li>
+<li>qbo.intuit.com (228)</li>
 <li>chat.openai.com (228)</li>
-<li>qbo.intuit.com (225)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (164)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:35 mail.google.com</li>
+<ul><li> 17:21 web.whatsapp.com</li>
+<li> 17:05 mail.google.com</li>
+<li> 16:58 <a href="https://en.wikipedia.org/wiki/George_Santos">George Santos - Wikipedia</a></li>
+<li> 16:58 duckduckgo.com</li>
+<li> 16:57 www.theguardian.com</li>
+<li class='same'> 16:56 www.theguardian.com</li>
+<li class='same'> 16:54 www.theguardian.com</li>
+<li> 16:53 mail.google.com</li>
+<li class='same'> 16:52 mail.google.com</li>
+<li> 16:52 calendar.google.com</li>
+<li> 16:50 qbo.intuit.com</li>
+<li> 16:50 quickbooks.intuit.com</li>
+<li> 16:50 duckduckgo.com</li>
+<li> 16:49 qbo.intuit.com</li>
+<li class='same'> 16:48 qbo.intuit.com</li>
+<li> 16:48 accounts.intuit.com</li>
+<li> 16:48 mail.google.com</li>
+<li> 16:47 web.whatsapp.com</li>
+<li> 16:47 www.paypal.com</li>
+<li> 16:47 mail.google.com</li>
+<li class='same'> 16:46 mail.google.com</li>
+<li class='same'> 16:45 mail.google.com</li>
+<li> 16:45 gmail.com</li>
+<li> 16:45 outlook.office.com</li>
+<li class='same'> 16:44 outlook.office.com</li>
+<li> 16:44 outlook.office365.com</li>
+<li> 16:44 outlook.office.com</li>
+<li> 16:44 mail.google.com</li>
+<li> 16:39 <a href="https://en.wikipedia.org/wiki/First_English_Civil_War">First English Civil War - Wikipedia</a></li>
+<li> 16:38 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:38 duckduckgo.com</li>
+<li class='same'> 16:37 duckduckgo.com</li>
+<li> 16:36 www.linkedin.com</li>
+<li> 16:35 mail.google.com</li>
 </ul>
 
 <br>
@@ -18341,7 +18374,6 @@ With number of accesses/minutes in parentheses
 <li> 21:10 www.google.com</li>
 <li> 21:09 bsky.app</li>
 <li class='same'> 21:05 bsky.app</li>
-<li> 21:05 www.google.com</li>
 <li> 21:05 www.amazon.co.uk</li>
 <li> 21:05 docs.google.com</li>
 <li> 20:56 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -18457,8 +18489,6 @@ With number of accesses/minutes in parentheses
 <li> 16:16 mail.google.com</li>
 <li> 16:16 bsky.app</li>
 <li> 16:12 outlook.office.com</li>
-<li> 16:10 www.writersdigest.com</li>
-<li> 16:10 l.facebook.com</li>
 <li> 16:10 www.facebook.com</li>
 <li> 16:09 bsky.app</li>
 <li class='same'> 16:08 bsky.app</li>
@@ -18572,7 +18602,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:37 www.linkedin.com</li>
 <li> 11:36 outlook.office.com</li>
 <li> 11:28 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
-<li> 11:28 login.openathens.net</li>
 <li> 11:28 login.microsoftonline.com</li>
 <li> 11:28 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 11:27 librarysearch.royalholloway.ac.uk</li>
@@ -35433,6 +35462,7 @@ With number of accesses/minutes in parentheses
 <li> 05:05 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 04:59 search.google.com</li>
 <li> 04:49 qbo.intuit.com</li>
+<li> 04:47 quickbooks.intuit.com</li>
 </ul>
 
 <H3>Tuesday, 01/10/24</H3>
