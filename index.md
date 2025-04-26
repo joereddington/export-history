@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2792)</li>
 <li>outlook.office.com (2400)</li>
-<li>mail.google.com (2235)</li>
+<li>mail.google.com (2240)</li>
 <li>docs.google.com (1783)</li>
 <li>bsky.app (1423)</li>
 <li>outlook.office365.com (1250)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (426)</li>
 <li>github.com (396)</li>
 <li>tvtropes.org (315)</li>
-<li>gmail.com (303)</li>
+<li>gmail.com (304)</li>
 <li>login.microsoftonline.com (289)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (269)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (228)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (170)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (171)</li>
 <li>www.tesco.com (142)</li>
 
 
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:40 mail.google.com</li>
+<ul><li> 14:32 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:31 mail.google.com</li>
+<li class='same'> 14:30 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:56 mail.google.com</li>
+<li> 13:50 www.whatdotheyknow.com</li>
+<li class='same'> 13:49 www.whatdotheyknow.com</li>
+<li class='same'> 13:48 www.whatdotheyknow.com</li>
+<li class='same'> 13:47 www.whatdotheyknow.com</li>
+<li> 13:46 mail.google.com</li>
+<li class='same'> 13:45 mail.google.com</li>
+<li> 13:45 gmail.com</li>
+<li> 13:40 mail.google.com</li>
 <li> 13:23 duckduckgo.com</li>
 <li> 13:14 www.amazon.co.uk</li>
 <li class='same'> 12:54 www.amazon.co.uk</li>
@@ -35895,7 +35910,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:10 outlook.office.com</li>
+<ul><li> 18:13 www.whatdotheyknow.com</li>
+<li> 18:10 outlook.office.com</li>
 <li> 18:08 www.linkedin.com</li>
 <li> 18:08 outlook.office.com</li>
 <li class='same'> 18:07 outlook.office.com</li>
@@ -38565,6 +38581,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:40 calendar.google.com</li>
 <li> 16:24 www.bricklink.com</li>
 <li> 16:12 www.camerajungle.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 15:42 www.whatdotheyknow.com</li>
+<li class='same'> 15:41 www.whatdotheyknow.com</li>
 </ul>
 
 <br>
@@ -46422,6 +46444,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:15 www.whatdotheyknow.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:19 accounts.google.com</li>
 <li> 10:49 www.gmail.com</li>
 </ul>
@@ -47805,6 +47832,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:19 equalitytime.github.io</li>
 <li class='same'> 15:11 equalitytime.github.io</li>
 <li> 14:48 www.feedly.com</li>
+<li> 14:44 www.whatdotheyknow.com</li>
 </ul>
 
 <br>
@@ -49852,6 +49880,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:47 www.doxdirect.com</li>
 </ul>
 
+<br>
+
+<ul><li> 11:08 www.whatdotheyknow.com</li>
+</ul>
+
 <H3>Tuesday, 17/01/23</H3>
 
 <br>
@@ -49902,6 +49935,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:57 www.amazon.co.uk</li>
+<li> 15:30 www.whatdotheyknow.com</li>
 </ul>
 
 <br>
@@ -49951,7 +49985,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 08:23 docs.google.com</li>
+<ul><li> 08:37 www.whatdotheyknow.com</li>
+<li> 08:23 docs.google.com</li>
 </ul>
 
 <H3>Thursday, 05/01/23</H3>
@@ -50147,7 +50182,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:40 www.whatdotheyknow.com</li>
+<li class='same'> 15:29 www.whatdotheyknow.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:41 forum.artofmemory.com</li>
+</ul>
+
+<H3>Monday, 28/11/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 08:34 www.whatdotheyknow.com</li>
 </ul>
 
 <H3>Thursday, 24/11/22</H3>
@@ -50273,6 +50325,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:53 analytics.google.com</li>
+</ul>
+
+<H3>Thursday, 10/11/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 12:11 www.whatdotheyknow.com</li>
 </ul>
 
 <H3>Wednesday, 09/11/22</H3>
@@ -51135,7 +51198,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:38 www.theyworkforyou.com</li>
+<ul><li> 10:38 www.whatdotheyknow.com</li>
+<li> 10:38 www.theyworkforyou.com</li>
 </ul>
 
 <H3>Monday, 25/04/22</H3>
