@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2792)</li>
 <li>outlook.office.com (2400)</li>
-<li>mail.google.com (2234)</li>
+<li>mail.google.com (2235)</li>
 <li>docs.google.com (1783)</li>
 <li>bsky.app (1423)</li>
 <li>outlook.office365.com (1250)</li>
 <li>www.facebook.com (1205)</li>
 <li>www.reddit.com (1144)</li>
-<li>duckduckgo.com (819)</li>
-<li>www.amazon.co.uk (669)</li>
+<li>duckduckgo.com (823)</li>
+<li>www.amazon.co.uk (674)</li>
 <li>chatgpt.com (620)</li>
 <li>www.theguardian.com (589)</li>
 <li>calendar.google.com (455)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:43 <a href="https://www.youtube.com/watch?v=uHeQeHstrsc">Sex and the City 2 reviewed by Mark Kermode - YouTube</a></li>
+<ul><li> 13:40 mail.google.com</li>
+<li> 13:23 duckduckgo.com</li>
+<li> 13:14 www.amazon.co.uk</li>
+<li class='same'> 12:54 www.amazon.co.uk</li>
+<li class='same'> 12:52 www.amazon.co.uk</li>
+<li class='same'> 12:51 www.amazon.co.uk</li>
+<li> 12:50 www.nytimes.com</li>
+<li> 12:50 duckduckgo.com</li>
+<li> 12:50 <a href="https://en.wikipedia.org/wiki/Manohla_Dargis">Manohla Dargis - Wikipedia</a></li>
+<li> 12:49 www.amazon.co.uk</li>
+<li> 12:48 <a href="https://en.wikipedia.org/wiki/Justin_Chang">Justin Chang - Wikipedia</a></li>
+<li> 12:47 <a href="https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Criticism">Pulitzer Prize for Criticism - Wikipedia</a></li>
+<li> 12:47 duckduckgo.com</li>
+<li> 12:46 www.rogerebert.com</li>
+<li> 12:45 <a href="https://en.wikipedia.org/wiki/Matt_Zoller_Seitz">Matt Zoller Seitz - Wikipedia</a></li>
+<li> 12:44 duckduckgo.com</li>
+<li> 12:43 <a href="https://www.youtube.com/watch?v=uHeQeHstrsc">Sex and the City 2 reviewed by Mark Kermode - YouTube</a></li>
 <li> 12:42 www.reddit.com</li>
 <li class='same'> 12:41 www.reddit.com</li>
 <li> 12:41 duckduckgo.com</li>
