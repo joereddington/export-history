@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2793)</li>
+<ol><li>www.google.com (2792)</li>
 <li>outlook.office.com (2400)</li>
 <li>mail.google.com (2246)</li>
 <li>docs.google.com (1785)</li>
 <li>bsky.app (1423)</li>
 <li>outlook.office365.com (1250)</li>
 <li>www.facebook.com (1205)</li>
-<li>www.reddit.com (1144)</li>
+<li>www.reddit.com (1146)</li>
 <li>duckduckgo.com (823)</li>
 <li>www.amazon.co.uk (674)</li>
 <li>chatgpt.com (620)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 26/04/25</H3>
+
+<br>
+
+<ul><li> 15:50 help.open.ac.uk</li>
+<li> 15:49 www.reddit.com</li>
+<li class='same'> 15:48 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -18396,8 +18403,7 @@ With number of accesses/minutes in parentheses
 <li> 17:27 chat.openai.com</li>
 <li> 17:27 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 17:26 bsky.app</li>
-<li> 17:26 www.google.com</li>
-<li> 17:25 bsky.app</li>
+<li class='same'> 17:25 bsky.app</li>
 <li class='same'> 17:24 bsky.app</li>
 <li class='same'> 17:23 bsky.app</li>
 <li class='same'> 17:22 bsky.app</li>
@@ -18443,7 +18449,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:34 info.sarkarijoblive.com</li>
-<li> 08:34 l.facebook.com</li>
 <li> 08:34 www.facebook.com</li>
 <li> 08:33 x.com</li>
 <li class='same'> 08:28 x.com</li>
