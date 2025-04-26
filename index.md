@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2792)</li>
+<ol><li>www.google.com (2793)</li>
 <li>outlook.office.com (2400)</li>
-<li>mail.google.com (2240)</li>
-<li>docs.google.com (1783)</li>
+<li>mail.google.com (2246)</li>
+<li>docs.google.com (1785)</li>
 <li>bsky.app (1423)</li>
 <li>outlook.office365.com (1250)</li>
 <li>www.facebook.com (1205)</li>
@@ -82,21 +82,21 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (589)</li>
 <li>calendar.google.com (455)</li>
 <li>rhul-my.sharepoint.com (443)</li>
-<li>www.linkedin.com (427)</li>
+<li>www.linkedin.com (428)</li>
 <li>moodle.royalholloway.ac.uk (426)</li>
 <li>github.com (396)</li>
 <li>tvtropes.org (315)</li>
-<li>gmail.com (304)</li>
+<li>gmail.com (305)</li>
 <li>login.microsoftonline.com (289)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (269)</li>
 <li>feedly.com (253)</li>
-<li>drive.google.com (234)</li>
+<li>drive.google.com (235)</li>
 <li>chat.openai.com (229)</li>
 <li>qbo.intuit.com (228)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (171)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (172)</li>
 <li>www.tesco.com (142)</li>
 
 
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:32 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 14:57 docs.google.com</li>
+<li> 14:57 www.google.com</li>
+<li> 14:57 www.buywholefoodsonline.co.uk</li>
+<li> 14:56 docs.google.com</li>
+<li> 14:56 drive.google.com</li>
+<li> 14:48 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 14:48 mail.google.com</li>
+<li> 14:48 join.oryxuni.com</li>
+<li class='same'> 14:47 join.oryxuni.com</li>
+<li> 14:47 mail.google.com</li>
+<li> 14:46 www.jobs.ac.uk</li>
+<li> 14:46 mail.google.com</li>
+<li> 14:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 14:45 www.linkedin.com</li>
+<li> 14:43 join.oryxuni.com</li>
+<li> 14:42 www.jobs.ac.uk</li>
+<li> 14:42 mail.google.com</li>
+<li class='same'> 14:41 mail.google.com</li>
+<li> 14:41 studygroupuk.applytojob.com</li>
+<li class='same'> 14:40 studygroupuk.applytojob.com</li>
+<li> 14:39 www.jobs.ac.uk</li>
+<li> 14:39 mail.google.com</li>
+<li> 14:39 gmail.com</li>
+<li> 14:38 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li class='same'> 14:32 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:31 mail.google.com</li>
 <li class='same'> 14:30 mail.google.com</li>
 </ul>
