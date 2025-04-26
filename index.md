@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2791)</li>
+<ol><li>www.google.com (2792)</li>
 <li>outlook.office.com (2400)</li>
-<li>mail.google.com (2233)</li>
-<li>docs.google.com (1779)</li>
+<li>mail.google.com (2234)</li>
+<li>docs.google.com (1783)</li>
 <li>bsky.app (1423)</li>
 <li>outlook.office365.com (1250)</li>
 <li>www.facebook.com (1205)</li>
-<li>www.reddit.com (1142)</li>
-<li>duckduckgo.com (816)</li>
-<li>www.amazon.co.uk (664)</li>
-<li>chatgpt.com (618)</li>
+<li>www.reddit.com (1144)</li>
+<li>duckduckgo.com (819)</li>
+<li>www.amazon.co.uk (669)</li>
+<li>chatgpt.com (620)</li>
 <li>www.theguardian.com (589)</li>
-<li>calendar.google.com (454)</li>
+<li>calendar.google.com (455)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (427)</li>
 <li>moodle.royalholloway.ac.uk (426)</li>
-<li>github.com (394)</li>
+<li>github.com (396)</li>
 <li>tvtropes.org (315)</li>
-<li>gmail.com (302)</li>
+<li>gmail.com (303)</li>
 <li>login.microsoftonline.com (289)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (269)</li>
 <li>feedly.com (253)</li>
-<li>drive.google.com (233)</li>
+<li>drive.google.com (234)</li>
+<li>chat.openai.com (229)</li>
 <li>qbo.intuit.com (228)</li>
-<li>chat.openai.com (228)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (166)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (170)</li>
 <li>www.tesco.com (142)</li>
 
 
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:40 www.reddit.com</li>
+<ul><li> 12:43 <a href="https://www.youtube.com/watch?v=uHeQeHstrsc">Sex and the City 2 reviewed by Mark Kermode - YouTube</a></li>
+<li> 12:42 www.reddit.com</li>
+<li class='same'> 12:41 www.reddit.com</li>
+<li> 12:41 duckduckgo.com</li>
+<li> 12:40 www.amazon.co.uk</li>
+<li> 12:37 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:34 github.com</li>
+<li> 12:34 www.medichecks.com</li>
+<li> 12:33 authenticate.medichecks.com</li>
+<li> 12:33 www.medichecks.com</li>
+<li class='same'> 12:28 www.medichecks.com</li>
+<li> 12:28 duckduckgo.com</li>
+<li> 12:26 docs.google.com</li>
+<li class='same'> 12:24 docs.google.com</li>
+<li class='same'> 12:22 docs.google.com</li>
+<li> 12:22 drive.google.com</li>
+<li> 12:19 github.com</li>
+<li> 12:19 www.google.com</li>
+<li> 12:14 www.amazon.co.uk</li>
+<li> 12:13 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:13 www.amazon.co.uk</li>
+<li class='same'> 12:12 www.amazon.co.uk</li>
+<li class='same'> 12:07 www.amazon.co.uk</li>
+<li> 12:01 duckduckgo.com</li>
+<li> 12:00 chatgpt.com</li>
+<li class='same'> 11:59 chatgpt.com</li>
+<li> 11:59 chat.openai.com</li>
+<li> 11:55 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:51 mail.google.com</li>
+<li> 11:51 gmail.com</li>
+<li> 11:50 docs.google.com</li>
+<li> 11:46 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:44 calendar.google.com</li>
+<li> 11:40 www.reddit.com</li>
 <li> 11:37 web.whatsapp.com</li>
 <li> 11:37 calendar.google.com</li>
 <li> 11:36 www.linkedin.com</li>
