@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (823)</li>
 <li>www.amazon.co.uk (674)</li>
 <li>chatgpt.com (620)</li>
-<li>www.theguardian.com (596)</li>
+<li>www.theguardian.com (599)</li>
 <li>calendar.google.com (455)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (428)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:11 www.theguardian.com</li>
+<ul><li> 07:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+</ul>
+
+<br>
+
+<ul><li> 06:33 www.natesilver.net</li>
+<li class='same'> 06:32 www.natesilver.net</li>
+<li class='same'> 06:31 www.natesilver.net</li>
+<li class='same'> 06:30 www.natesilver.net</li>
+<li> 06:27 www.theguardian.com</li>
+<li class='same'> 06:26 www.theguardian.com</li>
+<li class='same'> 06:25 www.theguardian.com</li>
+<li class='same'> 06:11 www.theguardian.com</li>
 <li class='same'> 06:10 www.theguardian.com</li>
 <li class='same'> 06:09 www.theguardian.com</li>
 <li class='same'> 06:08 www.theguardian.com</li>
