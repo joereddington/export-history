@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2808)</li>
+<ol><li>www.google.com (2810)</li>
 <li>outlook.office.com (2400)</li>
 <li>mail.google.com (2248)</li>
 <li>docs.google.com (1785)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1158)</li>
 <li>duckduckgo.com (823)</li>
 <li>www.amazon.co.uk (674)</li>
-<li>www.theguardian.com (621)</li>
+<li>www.theguardian.com (622)</li>
 <li>chatgpt.com (621)</li>
 <li>calendar.google.com (455)</li>
 <li>rhul-my.sharepoint.com (443)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (228)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (172)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (173)</li>
 <li>www.tesco.com (142)</li>
 
 
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:24 www.google.com</li>
+<ul><li> 16:17 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li> 14:37 www.theguardian.com</li>
+<li> 14:37 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:26 www.google.com</li>
+<li class='same'> 13:24 www.google.com</li>
 <li> 13:24 www.theguardian.com</li>
 <li class='same'> 13:23 www.theguardian.com</li>
 </ul>
