@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2804)</li>
+<ol><li>www.google.com (2808)</li>
 <li>outlook.office.com (2400)</li>
-<li>mail.google.com (2246)</li>
+<li>mail.google.com (2248)</li>
 <li>docs.google.com (1785)</li>
 <li>bsky.app (1437)</li>
 <li>outlook.office365.com (1250)</li>
 <li>www.facebook.com (1205)</li>
-<li>www.reddit.com (1156)</li>
+<li>www.reddit.com (1158)</li>
 <li>duckduckgo.com (823)</li>
 <li>www.amazon.co.uk (674)</li>
-<li>chatgpt.com (620)</li>
-<li>www.theguardian.com (617)</li>
+<li>www.theguardian.com (621)</li>
+<li>chatgpt.com (621)</li>
 <li>calendar.google.com (455)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (428)</li>
 <li>moodle.royalholloway.ac.uk (427)</li>
 <li>github.com (396)</li>
-<li>tvtropes.org (324)</li>
+<li>tvtropes.org (331)</li>
 <li>gmail.com (305)</li>
 <li>login.microsoftonline.com (289)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (269)</li>
-<li>feedly.com (253)</li>
+<li>feedly.com (254)</li>
 <li>drive.google.com (235)</li>
-<li>chat.openai.com (229)</li>
+<li>chat.openai.com (230)</li>
 <li>qbo.intuit.com (228)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:06 www.progressiveboink.com</li>
+<ul><li> 13:24 www.google.com</li>
+<li> 13:24 www.theguardian.com</li>
+<li class='same'> 13:23 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:23 mail.google.com</li>
+<li> 12:23 chatgpt.com</li>
+<li> 12:23 chat.openai.com</li>
+<li> 12:22 mail.google.com</li>
+<li> 12:22 feedly.com</li>
+<li> 12:19 www.theguardian.com</li>
+<li class='same'> 12:17 www.theguardian.com</li>
+<li> 12:17 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:19 www.reddit.com</li>
+<li> 08:19 www.google.com</li>
+<li> 08:19 tvtropes.org</li>
+<li> 08:19 www.google.com</li>
+<li> 08:19 tvtropes.org</li>
+<li> 08:19 comicvine.gamespot.com</li>
+<li> 08:18 tvtropes.org</li>
+<li> 08:18 comicvine.gamespot.com</li>
+<li> 08:13 tvtropes.org</li>
+<li class='same'> 08:12 tvtropes.org</li>
+<li> 08:12 www.google.com</li>
+<li> 08:10 www.progressiveboink.com</li>
+<li class='same'> 08:06 www.progressiveboink.com</li>
 <li class='same'> 07:55 www.progressiveboink.com</li>
 <li> 07:55 tvtropes.org</li>
 <li> 07:55 3.bp.blogspot.com</li>
@@ -42778,7 +42809,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:42 tvtropes.org</li>
+<ul><li> 21:55 tvtropes.org</li>
+<li class='same'> 21:54 tvtropes.org</li>
+<li class='same'> 21:42 tvtropes.org</li>
 <li class='same'> 21:41 tvtropes.org</li>
 </ul>
 
