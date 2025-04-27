@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2792)</li>
+<ol><li>www.google.com (2803)</li>
 <li>outlook.office.com (2400)</li>
 <li>mail.google.com (2246)</li>
 <li>docs.google.com (1785)</li>
-<li>bsky.app (1423)</li>
+<li>bsky.app (1437)</li>
 <li>outlook.office365.com (1250)</li>
 <li>www.facebook.com (1205)</li>
-<li>www.reddit.com (1146)</li>
+<li>www.reddit.com (1154)</li>
 <li>duckduckgo.com (823)</li>
 <li>www.amazon.co.uk (674)</li>
 <li>chatgpt.com (620)</li>
-<li>www.theguardian.com (589)</li>
+<li>www.theguardian.com (596)</li>
 <li>calendar.google.com (455)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (428)</li>
-<li>moodle.royalholloway.ac.uk (426)</li>
+<li>moodle.royalholloway.ac.uk (427)</li>
 <li>github.com (396)</li>
-<li>tvtropes.org (315)</li>
+<li>tvtropes.org (317)</li>
 <li>gmail.com (305)</li>
 <li>login.microsoftonline.com (289)</li>
 <li>fritz.box (276)</li>
@@ -104,7 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 27/04/25</H3>
+
+<br>
+
+<ul><li> 06:11 www.theguardian.com</li>
+<li class='same'> 06:10 www.theguardian.com</li>
+<li class='same'> 06:09 www.theguardian.com</li>
+<li class='same'> 06:08 www.theguardian.com</li>
+<li> 06:08 www.google.com</li>
+</ul>
+
 <H3>Saturday, 26/04/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:06 www.reddit.com</li>
+<li class='same'> 17:05 www.reddit.com</li>
+<li class='same'> 17:04 www.reddit.com</li>
+<li class='same'> 17:03 www.reddit.com</li>
+<li class='same'> 17:01 www.reddit.com</li>
+<li class='same'> 17:00 www.reddit.com</li>
+<li class='same'> 16:59 www.reddit.com</li>
+<li class='same'> 16:58 www.reddit.com</li>
+<li> 16:57 www.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -798,9 +826,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:03 tvtropes.org</li>
+<ul><li> 08:07 www.google.com</li>
+<li class='same'> 08:06 www.google.com</li>
+<li class='same'> 08:05 www.google.com</li>
+<li class='same'> 08:04 www.google.com</li>
+<li> 08:03 tvtropes.org</li>
+<li> 08:03 www.google.com</li>
+<li> 08:03 tvtropes.org</li>
 <li class='same'> 08:02 tvtropes.org</li>
 <li> 08:02 www.google.com</li>
+<li> 08:02 tvtropes.org</li>
+<li> 08:02 www.google.com</li>
+<li class='same'> 08:00 www.google.com</li>
+<li class='same'> 07:58 www.google.com</li>
 <li class='same'> 07:57 www.google.com</li>
 <li class='same'> 07:56 www.google.com</li>
 <li> 07:51 aminoapps.com</li>
@@ -866,6 +904,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:52 mail.google.com</li>
+<li> 17:38 www.vrbo.com</li>
+<li> 17:38 www.google.com</li>
 </ul>
 
 <br>
@@ -2065,7 +2105,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:36 www.facebook.com</li>
+<ul><li> 18:39 www.google.com</li>
+<li> 18:36 www.facebook.com</li>
 <li class='same'> 18:31 www.facebook.com</li>
 <li> 18:31 bsky.app</li>
 </ul>
@@ -2157,7 +2198,8 @@ With number of accesses/minutes in parentheses
 <li> 11:29 www.reddit.com</li>
 <li class='same'> 11:28 www.reddit.com</li>
 <li> 11:28 www.google.com</li>
-<li> 11:11 www.theguardian.com</li>
+<li> 11:27 www.theguardian.com</li>
+<li class='same'> 11:11 www.theguardian.com</li>
 <li class='same'> 11:10 www.theguardian.com</li>
 </ul>
 
@@ -2243,7 +2285,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:24 www.theguardian.com</li>
+<ul><li> 21:26 www.theguardian.com</li>
+<li class='same'> 21:24 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -43999,11 +44042,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:03 drive.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:22 moodle.royalholloway.ac.uk</li>
+<li> 10:38 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:22 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:03 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:57 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:55 moodle.royalholloway.ac.uk</li>
@@ -46204,6 +46244,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:10 0.0.0.0:7000</li>
+<li> 06:59 bsky.app</li>
+<li class='same'> 06:37 bsky.app</li>
 </ul>
 
 <H3>Tuesday, 10/10/23</H3>
@@ -46291,6 +46333,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:49 abcnews.go.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:25 bsky.app</li>
 </ul>
 
 <H3>Sunday, 08/10/23</H3>
@@ -46608,6 +46655,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:46 www.google.com</li>
+<li> 06:36 bsky.app</li>
+<li class='same'> 06:34 bsky.app</li>
 </ul>
 
 <H3>Wednesday, 20/09/23</H3>
@@ -47826,7 +47875,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:34 bsky.app</li>
+<ul><li> 07:40 bsky.app</li>
+<li class='same'> 07:34 bsky.app</li>
 </ul>
 
 <br>
@@ -47895,6 +47945,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:19 mail.google.com</li>
 <li> 14:18 <a href="https://en.wikipedia.org/wiki/Bluey_(2018_TV_series)">Bluey (2018 TV series) - Wikipedia</a></li>
 <li> 14:06 github.com</li>
+<li> 13:47 bsky.app</li>
+<li class='same'> 13:43 bsky.app</li>
 <li> 13:41 scholar.google.com</li>
 <li> 13:23 whitewaterwriters.com</li>
 <li> 13:17 github.com</li>
@@ -47919,11 +47971,21 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:26 andsoshethinks.co.uk</li>
 </ul>
 
+<br>
+
+<ul><li> 05:51 bsky.app</li>
+</ul>
+
 <H3>Tuesday, 11/07/23</H3>
 
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:52 bsky.app</li>
+</ul>
 
 <br>
 
@@ -47945,6 +48007,11 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 12:05 studio.youtube.com</li>
 <li class='same'> 11:57 studio.youtube.com</li>
 <li> 11:54 www.instagram.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:30 bsky.app</li>
 </ul>
 
 <H3>Monday, 10/07/23</H3>
@@ -47989,7 +48056,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:48 scholar.google.com</li>
+<ul><li class='same'> 10:53 bsky.app</li>
+<li> 10:48 scholar.google.com</li>
 <li class='same'> 10:43 scholar.google.com</li>
 <li> 10:14 docs.google.com</li>
 <li> 09:52 www.thetrainline.com</li>
@@ -48012,7 +48080,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:21 www.amazon.co.uk</li>
-<li> 19:04 bsky.app</li>
+<li> 19:08 bsky.app</li>
+<li class='same'> 19:05 bsky.app</li>
+<li class='same'> 19:04 bsky.app</li>
 <li class='same'> 19:00 bsky.app</li>
 </ul>
 
