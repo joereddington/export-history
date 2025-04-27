@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2803)</li>
+<ol><li>www.google.com (2804)</li>
 <li>outlook.office.com (2400)</li>
 <li>mail.google.com (2246)</li>
 <li>docs.google.com (1785)</li>
 <li>bsky.app (1437)</li>
 <li>outlook.office365.com (1250)</li>
 <li>www.facebook.com (1205)</li>
-<li>www.reddit.com (1154)</li>
+<li>www.reddit.com (1156)</li>
 <li>duckduckgo.com (823)</li>
 <li>www.amazon.co.uk (674)</li>
 <li>chatgpt.com (620)</li>
-<li>www.theguardian.com (599)</li>
+<li>www.theguardian.com (617)</li>
 <li>calendar.google.com (455)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (428)</li>
 <li>moodle.royalholloway.ac.uk (427)</li>
 <li>github.com (396)</li>
-<li>tvtropes.org (317)</li>
+<li>tvtropes.org (324)</li>
 <li>gmail.com (305)</li>
 <li>login.microsoftonline.com (289)</li>
 <li>fritz.box (276)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 27/04/25</H3>
+
+<br>
+
+<ul><li> 08:06 www.progressiveboink.com</li>
+<li class='same'> 07:55 www.progressiveboink.com</li>
+<li> 07:55 tvtropes.org</li>
+<li> 07:55 3.bp.blogspot.com</li>
+<li> 07:52 tvtropes.org</li>
+</ul>
 
 <br>
 
@@ -132,6 +141,26 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 19:52 tvtropes.org</li>
+<li class='same'> 19:49 tvtropes.org</li>
+<li class='same'> 19:43 tvtropes.org</li>
+<li class='same'> 19:39 tvtropes.org</li>
+<li class='same'> 19:38 tvtropes.org</li>
+<li> 19:38 www.google.com</li>
+<li> 19:27 www.theguardian.com</li>
+<li class='same'> 19:24 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:01 www.theguardian.com</li>
+<li class='same'> 17:54 www.theguardian.com</li>
+<li class='same'> 17:51 www.theguardian.com</li>
+<li class='same'> 17:50 www.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -251,6 +280,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:21 www.theguardian.com</li>
+<li class='same'> 10:19 www.theguardian.com</li>
+<li class='same'> 10:17 www.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 08:10 www.amazon.co.uk</li>
 <li> 08:09 docs.google.com</li>
 <li> 08:09 www.amazon.co.uk</li>
@@ -312,7 +348,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:21 web.whatsapp.com</li>
+<ul><li> 17:41 www.theguardian.com</li>
+<li> 17:21 web.whatsapp.com</li>
 <li> 17:05 mail.google.com</li>
 <li> 16:58 <a href="https://en.wikipedia.org/wiki/George_Santos">George Santos - Wikipedia</a></li>
 <li> 16:58 duckduckgo.com</li>
@@ -346,11 +383,16 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:37 duckduckgo.com</li>
 <li> 16:36 www.linkedin.com</li>
 <li> 16:35 mail.google.com</li>
+<li> 16:32 www.theguardian.com</li>
 </ul>
 
 <br>
 
-<ul><li> 15:30 web.whatsapp.com</li>
+<ul><li class='same'> 15:42 www.theguardian.com</li>
+<li class='same'> 15:39 www.theguardian.com</li>
+<li class='same'> 15:38 www.theguardian.com</li>
+<li class='same'> 15:37 www.theguardian.com</li>
+<li> 15:30 web.whatsapp.com</li>
 <li> 15:30 calendar.google.com</li>
 <li> 15:29 mail.google.com</li>
 <li> 15:29 gmail.com</li>
@@ -395,6 +437,10 @@ With number of accesses/minutes in parentheses
 <li> 14:36 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 14:35 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:34 moodle.royalholloway.ac.uk</li>
+<li> 14:32 www.theguardian.com</li>
+<li class='same'> 14:31 www.theguardian.com</li>
+<li class='same'> 14:30 www.theguardian.com</li>
+<li> 14:29 www.reddit.com</li>
 <li> 14:29 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 14:29 mail.google.com</li>
 <li class='same'> 14:28 mail.google.com</li>
@@ -645,7 +691,8 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 15:10 outlook.office.com</li>
 <li class='same'> 15:06 outlook.office.com</li>
 <li class='same'> 15:04 outlook.office.com</li>
-<li class='same'> 14:39 outlook.office.com</li>
+<li> 15:01 www.reddit.com</li>
+<li> 14:39 outlook.office.com</li>
 <li class='same'> 14:38 outlook.office.com</li>
 <li> 14:38 mail.google.com</li>
 <li class='same'> 14:37 mail.google.com</li>
@@ -38501,6 +38548,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:41 outlook.office.com</li>
+<li> 15:38 www.natesilver.net</li>
 <li> 15:34 myview.rhul.zellis.com</li>
 <li class='same'> 15:10 myview.rhul.zellis.com</li>
 <li class='same'> 15:04 myview.rhul.zellis.com</li>
