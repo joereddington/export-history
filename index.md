@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2815)</li>
-<li>outlook.office.com (2400)</li>
-<li>mail.google.com (2248)</li>
+<ol><li>www.google.com (2825)</li>
+<li>outlook.office.com (2402)</li>
+<li>mail.google.com (2249)</li>
 <li>docs.google.com (1785)</li>
 <li>bsky.app (1437)</li>
-<li>outlook.office365.com (1250)</li>
+<li>outlook.office365.com (1251)</li>
 <li>www.facebook.com (1205)</li>
 <li>www.reddit.com (1158)</li>
-<li>duckduckgo.com (823)</li>
+<li>duckduckgo.com (824)</li>
 <li>www.amazon.co.uk (674)</li>
-<li>www.theguardian.com (627)</li>
+<li>www.theguardian.com (628)</li>
 <li>chatgpt.com (621)</li>
 <li>calendar.google.com (455)</li>
 <li>rhul-my.sharepoint.com (443)</li>
@@ -86,8 +86,8 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (427)</li>
 <li>github.com (396)</li>
 <li>tvtropes.org (331)</li>
-<li>gmail.com (305)</li>
-<li>login.microsoftonline.com (289)</li>
+<li>gmail.com (306)</li>
+<li>login.microsoftonline.com (291)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (269)</li>
 <li>feedly.com (254)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:21 www.google.com</li>
+<ul><li> 08:26 www.theguardian.com</li>
+<li> 08:26 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:51 www.google.com</li>
+<li class='same'> 07:50 www.google.com</li>
+<li class='same'> 07:49 www.google.com</li>
+<li class='same'> 07:48 www.google.com</li>
+<li class='same'> 07:47 www.google.com</li>
+<li class='same'> 07:46 www.google.com</li>
+<li class='same'> 07:45 www.google.com</li>
+<li class='same'> 07:44 www.google.com</li>
+<li class='same'> 07:42 www.google.com</li>
+<li> 07:30 lutonrising.org.uk</li>
+<li> 07:30 duckduckgo.com</li>
+<li> 07:29 mail.google.com</li>
+<li> 07:29 gmail.com</li>
+<li> 07:27 outlook.office.com</li>
+<li> 07:27 login.microsoftonline.com</li>
+<li> 07:27 outlook.office.com</li>
+<li> 07:27 login.microsoftonline.com</li>
+<li> 07:27 outlook.office365.com</li>
+<li> 07:21 www.google.com</li>
 <li class='same'> 07:20 www.google.com</li>
 <li class='same'> 07:19 www.google.com</li>
 <li class='same'> 07:18 www.google.com</li>
