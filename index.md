@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2820)</li>
-<li>outlook.office.com (2413)</li>
+<li>outlook.office.com (2419)</li>
 <li>mail.google.com (2252)</li>
 <li>docs.google.com (1785)</li>
 <li>bsky.app (1437)</li>
-<li>outlook.office365.com (1253)</li>
+<li>outlook.office365.com (1254)</li>
 <li>www.facebook.com (1205)</li>
 <li>www.reddit.com (1158)</li>
 <li>duckduckgo.com (829)</li>
 <li>www.amazon.co.uk (674)</li>
-<li>www.theguardian.com (628)</li>
-<li>chatgpt.com (623)</li>
+<li>www.theguardian.com (631)</li>
+<li>chatgpt.com (627)</li>
 <li>calendar.google.com (460)</li>
 <li>rhul-my.sharepoint.com (443)</li>
+<li>moodle.royalholloway.ac.uk (430)</li>
 <li>www.linkedin.com (428)</li>
-<li>moodle.royalholloway.ac.uk (427)</li>
 <li>github.com (396)</li>
 <li>tvtropes.org (331)</li>
 <li>gmail.com (306)</li>
-<li>login.microsoftonline.com (300)</li>
+<li>login.microsoftonline.com (305)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (271)</li>
 <li>feedly.com (254)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (189)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (173)</li>
-<li>forms.office.com (143)</li>
+<li>forms.office.com (146)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:33 www.tandfonline.com</li>
+<ul><li> 18:39 outlook.office.com</li>
+<li> 18:38 login.microsoftonline.com</li>
+<li> 18:38 outlook.office.com</li>
+<li class='same'> 18:37 outlook.office.com</li>
+<li class='same'> 18:36 outlook.office.com</li>
+<li> 18:36 outlook.office365.com</li>
+<li> 18:36 outlook.office.com</li>
+<li> 18:35 login.microsoftonline.com</li>
+<li> 18:35 forms.office.com</li>
+<li> 18:35 login.microsoftonline.com</li>
+<li> 18:35 forms.office.com</li>
+<li> 18:34 www.theguardian.com</li>
+<li class='same'> 18:31 www.theguardian.com</li>
+<li class='same'> 18:30 www.theguardian.com</li>
+<li> 18:24 outlook.office.com</li>
+<li> 18:20 chatgpt.com</li>
+<li> 18:18 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 18:17 chatgpt.com</li>
+<li> 18:16 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 18:14 chatgpt.com</li>
+<li class='same'> 18:13 chatgpt.com</li>
+<li> 18:00 moodle.royalholloway.ac.uk</li>
+<li> 18:00 login.microsoftonline.com</li>
+<li> 18:00 moodle.royalholloway.ac.uk</li>
+<li> 18:00 login.microsoftonline.com</li>
+<li> 18:00 moodle.royalholloway.ac.uk</li>
+<li> 17:51 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 17:51 <a href="https://joereddington.com/paperwriting/#slide20">Questions, opinions, thoughts...</a></li>
+<li> 17:50 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 17:40 <a href="https://xkcd.com/simplewriter/"></a></li>
+<li> 17:33 www.tandfonline.com</li>
 <li> 17:30 chatgpt.com</li>
 <li> 17:30 chat.openai.com</li>
 <li> 17:27 outlook.office.com</li>
@@ -37245,6 +37275,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:59 mail.google.com</li>
 <li> 09:47 qbo.intuit.com</li>
 <li class='same'> 09:46 qbo.intuit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:08 forms.office.com</li>
 </ul>
 
 <H3>Wednesday, 04/09/24</H3>
