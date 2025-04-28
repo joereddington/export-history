@@ -76,23 +76,23 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1252)</li>
 <li>www.facebook.com (1205)</li>
 <li>www.reddit.com (1158)</li>
-<li>duckduckgo.com (824)</li>
+<li>duckduckgo.com (827)</li>
 <li>www.amazon.co.uk (674)</li>
 <li>www.theguardian.com (628)</li>
-<li>chatgpt.com (621)</li>
-<li>calendar.google.com (458)</li>
+<li>chatgpt.com (622)</li>
+<li>calendar.google.com (459)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (428)</li>
 <li>moodle.royalholloway.ac.uk (427)</li>
 <li>github.com (396)</li>
 <li>tvtropes.org (331)</li>
 <li>gmail.com (306)</li>
-<li>login.microsoftonline.com (296)</li>
+<li>login.microsoftonline.com (298)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (270)</li>
 <li>feedly.com (254)</li>
 <li>drive.google.com (235)</li>
-<li>chat.openai.com (230)</li>
+<li>chat.openai.com (231)</li>
 <li>qbo.intuit.com (228)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:43 login.microsoftonline.com</li>
+<ul><li> 16:35 herts365-my.sharepoint.com</li>
+<li> 16:33 biocomputation.herts.ac.uk</li>
+<li> 16:33 duckduckgo.com</li>
+<li> 16:32 biocomputation.herts.ac.uk</li>
+<li> 16:32 duckduckgo.com</li>
+<li> 16:19 calendar.google.com</li>
+<li> 16:18 herts365-my.sharepoint.com</li>
+<li> 16:18 herts.instructure.com</li>
+<li class='same'> 16:17 herts.instructure.com</li>
+<li> 16:17 herts365.sharepoint.com</li>
+<li> 16:17 herts.instructure.com</li>
+<li> 16:17 herts365.sharepoint.com</li>
+<li> 16:17 login.microsoftonline.com</li>
+<li> 16:17 herts365.sharepoint.com</li>
+<li> 16:17 herts.instructure.com</li>
+<li class='same'> 16:16 herts.instructure.com</li>
+<li> 16:16 support.mozilla.org</li>
+<li> 16:16 herts.instructure.com</li>
+<li> 16:15 chatgpt.com</li>
+<li> 16:15 chat.openai.com</li>
+<li> 16:14 herts.instructure.com</li>
+<li> 15:57 pure.royalholloway.ac.uk</li>
+<li> 15:57 duckduckgo.com</li>
+<li> 15:54 herts.instructure.com</li>
+<li class='same'> 15:53 herts.instructure.com</li>
+<li> 15:48 herts365-my.sharepoint.com</li>
+<li> 15:48 www.microsoft365.com</li>
+<li> 15:47 herts365-my.sharepoint.com</li>
+<li class='same'> 15:46 herts365-my.sharepoint.com</li>
+<li> 15:46 www.microsoft365.com</li>
+<li> 15:46 res.cdn.office.net</li>
+<li> 15:46 herts365-my.sharepoint.com</li>
+<li> 15:46 www.microsoft365.com</li>
+<li> 15:46 herts365-my.sharepoint.com</li>
+<li> 15:45 www.microsoft365.com</li>
+<li> 15:45 login.microsoftonline.com</li>
+<li> 15:45 adfs.herts.ac.uk</li>
+<li> 15:45 api-b6327e78.duosecurity.com</li>
+<li> 15:45 adfs.herts.ac.uk</li>
+<li> 15:44 herts365-my.sharepoint.com</li>
+<li> 15:43 login.microsoftonline.com</li>
+<li> 15:43 herts365-my.sharepoint.com</li>
 <li> 15:42 herts.instructure.com</li>
 <li> 15:39 calendar.google.com</li>
 <li class='same'> 15:38 calendar.google.com</li>
