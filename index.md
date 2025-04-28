@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2820)</li>
-<li>outlook.office.com (2419)</li>
+<li>outlook.office.com (2448)</li>
 <li>mail.google.com (2252)</li>
 <li>docs.google.com (1785)</li>
 <li>bsky.app (1437)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:39 outlook.office.com</li>
+<ul><li> 18:46 outlook.office.com</li>
+<li class='same'> 18:45 outlook.office.com</li>
+<li class='same'> 18:44 outlook.office.com</li>
+<li class='same'> 18:43 outlook.office.com</li>
+<li class='same'> 18:41 outlook.office.com</li>
+<li class='same'> 18:39 outlook.office.com</li>
 <li> 18:38 login.microsoftonline.com</li>
 <li> 18:38 outlook.office.com</li>
 <li class='same'> 18:37 outlook.office.com</li>
@@ -37280,6 +37285,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:08 forms.office.com</li>
+<li> 09:05 outlook.office.com</li>
+<li class='same'> 09:02 outlook.office.com</li>
 </ul>
 
 <H3>Wednesday, 04/09/24</H3>
@@ -37310,6 +37317,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:20 abcnews.go.com</li>
 <li> 15:17 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:57 outlook.office.com</li>
 </ul>
 
 <br>
@@ -39834,6 +39846,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:29 outlook.office.com</li>
+</ul>
+
+<br>
+
 <ul><li> 10:30 www.google.com</li>
 </ul>
 
@@ -39922,11 +39939,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:34 www.paypal.com</li>
 <li> 11:32 accounts.intuit.com</li>
 <li> 11:23 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:48 rhul-my.sharepoint.com</li>
+<li> 11:08 outlook.office.com</li>
+<li> 10:48 rhul-my.sharepoint.com</li>
+<li> 10:48 outlook.office.com</li>
+<li class='same'> 10:43 outlook.office.com</li>
 <li> 10:33 www.unity-online.co.uk</li>
 <li> 10:25 docs.google.com</li>
 </ul>
@@ -39942,6 +39958,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 15:53 outlook.office.com</li>
+<li class='same'> 15:39 outlook.office.com</li>
+</ul>
 
 <br>
 
@@ -39978,6 +40000,13 @@ With number of accesses/minutes in parentheses
 <li> 16:00 rhul-my.sharepoint.com</li>
 <li class='same'> 15:48 rhul-my.sharepoint.com</li>
 <li> 15:33 www.linkedin.com</li>
+<li> 15:15 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:56 outlook.office.com</li>
+<li class='same'> 10:55 outlook.office.com</li>
 </ul>
 
 <br>
@@ -40387,7 +40416,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:31 www.paypal.com</li>
+<ul><li> 07:31 outlook.office.com</li>
+<li> 07:31 www.paypal.com</li>
 <li> 07:28 <a href="https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html">Saving Keystokes, Baby Advice | Joe Reddington</a></li>
 <li> 07:26 www.paypal.com</li>
 <li class='same'> 07:25 www.paypal.com</li>
@@ -40533,6 +40563,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:20 rhul.sharepoint.com</li>
 <li class='same'> 11:19 rhul.sharepoint.com</li>
 <li> 10:56 moodle.royalholloway.ac.uk</li>
+<li> 10:55 outlook.office.com</li>
 </ul>
 
 <br>
@@ -40574,9 +40605,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:48 rhul-my.sharepoint.com</li>
+<ul><li> 13:19 outlook.office.com</li>
+<li class='same'> 13:12 outlook.office.com</li>
+<li class='same'> 13:08 outlook.office.com</li>
+<li class='same'> 13:06 outlook.office.com</li>
+<li class='same'> 13:04 outlook.office.com</li>
+<li> 12:48 rhul-my.sharepoint.com</li>
 <li class='same'> 12:44 rhul-my.sharepoint.com</li>
 <li class='same'> 12:42 rhul-my.sharepoint.com</li>
+<li> 12:42 outlook.office.com</li>
+<li class='same'> 12:24 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:52 outlook.office.com</li>
 </ul>
 
 <H3>Thursday, 16/05/24</H3>
@@ -40584,6 +40627,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 18:35 outlook.office.com</li>
+<li class='same'> 18:33 outlook.office.com</li>
+</ul>
 
 <br>
 
