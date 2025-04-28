@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2825)</li>
-<li>outlook.office.com (2411)</li>
+<ol><li>www.google.com (2820)</li>
+<li>outlook.office.com (2413)</li>
 <li>mail.google.com (2252)</li>
 <li>docs.google.com (1785)</li>
 <li>bsky.app (1437)</li>
-<li>outlook.office365.com (1252)</li>
+<li>outlook.office365.com (1253)</li>
 <li>www.facebook.com (1205)</li>
 <li>www.reddit.com (1158)</li>
-<li>duckduckgo.com (827)</li>
+<li>duckduckgo.com (829)</li>
 <li>www.amazon.co.uk (674)</li>
 <li>www.theguardian.com (628)</li>
-<li>chatgpt.com (622)</li>
-<li>calendar.google.com (459)</li>
+<li>chatgpt.com (623)</li>
+<li>calendar.google.com (460)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (428)</li>
 <li>moodle.royalholloway.ac.uk (427)</li>
 <li>github.com (396)</li>
 <li>tvtropes.org (331)</li>
 <li>gmail.com (306)</li>
-<li>login.microsoftonline.com (298)</li>
+<li>login.microsoftonline.com (300)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (270)</li>
+<li>web.whatsapp.com (271)</li>
 <li>feedly.com (254)</li>
 <li>drive.google.com (235)</li>
-<li>chat.openai.com (231)</li>
+<li>chat.openai.com (232)</li>
 <li>qbo.intuit.com (228)</li>
 <li>www.coursera.org (208)</li>
-<li>rhul.sharepoint.com (183)</li>
+<li>rhul.sharepoint.com (189)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (173)</li>
 <li>forms.office.com (143)</li>
 
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:35 herts365-my.sharepoint.com</li>
+<ul><li> 17:33 www.tandfonline.com</li>
+<li> 17:30 chatgpt.com</li>
+<li> 17:30 chat.openai.com</li>
+<li> 17:27 outlook.office.com</li>
+<li> 17:24 web.whatsapp.com</li>
+<li> 17:24 outlook.office.com</li>
+<li> 17:24 outlook.office365.com</li>
+<li> 17:22 www.hse.gov.uk</li>
+<li> 17:22 duckduckgo.com</li>
+<li> 17:20 rhul.sharepoint.com</li>
+<li> 17:20 login.microsoftonline.com</li>
+<li> 17:20 rhul.sharepoint.com</li>
+<li class='same'> 17:19 rhul.sharepoint.com</li>
+<li class='same'> 17:18 rhul.sharepoint.com</li>
+<li> 17:13 duckduckgo.com</li>
+<li> 17:09 rhul.sharepoint.com</li>
+<li class='same'> 17:08 rhul.sharepoint.com</li>
+<li> 17:08 login.microsoftonline.com</li>
+<li> 17:00 calendar.google.com</li>
+<li> 16:35 herts365-my.sharepoint.com</li>
 <li> 16:33 biocomputation.herts.ac.uk</li>
 <li> 16:33 duckduckgo.com</li>
 <li> 16:32 biocomputation.herts.ac.uk</li>
@@ -18399,8 +18418,6 @@ With number of accesses/minutes in parentheses
 <li> 13:10 gorsehall.tameside.sch.uk</li>
 <li> 13:10 www.google.com</li>
 <li class='same'> 13:08 www.google.com</li>
-<li> 13:08 maps.google.com</li>
-<li> 13:08 www.google.com</li>
 <li> 13:07 www.shuttleworth.org</li>
 <li class='same'> 13:06 www.shuttleworth.org</li>
 <li> 13:06 www.google.com</li>
@@ -18429,7 +18446,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:54 <a href="https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size">List of Solar System objects by size - Wikipedia</a></li>
-<li> 11:54 www.google.com</li>
 <li> 11:53 <a href="https://en.wikipedia.org/wiki/Solar_System">Solar System - Wikipedia</a></li>
 <li> 11:53 www.google.com</li>
 <li> 11:52 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -18437,8 +18453,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:31 github.com</li>
 <li> 11:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 11:24 www.amazon.co.uk</li>
-<li> 11:07 www.google.com</li>
-<li class='same'> 11:06 www.google.com</li>
+<li> 11:06 www.google.com</li>
 <li> 11:04 calendar.google.com</li>
 <li> 10:52 www.google.com</li>
 <li> 10:48 chatgpt.com</li>
@@ -18493,13 +18508,11 @@ With number of accesses/minutes in parentheses
 <li> 09:00 outlook.office.com</li>
 <li> 08:59 www.reddit.com</li>
 <li> 08:59 www.google.com</li>
-<li class='same'> 08:58 www.google.com</li>
 <li> 08:58 www.ucl.ac.uk</li>
 <li> 08:58 www.google.com</li>
 <li> 08:58 libbyapp.com</li>
 <li class='same'> 08:57 libbyapp.com</li>
-<li> 08:57 www.google.com</li>
-<li class='same'> 08:56 www.google.com</li>
+<li> 08:56 www.google.com</li>
 <li> 08:56 www.companyofcooks.com</li>
 <li class='same'> 08:55 www.companyofcooks.com</li>
 <li> 08:55 web.whatsapp.com</li>
