@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2825)</li>
-<li>outlook.office.com (2406)</li>
-<li>mail.google.com (2250)</li>
+<li>outlook.office.com (2411)</li>
+<li>mail.google.com (2252)</li>
 <li>docs.google.com (1785)</li>
 <li>bsky.app (1437)</li>
 <li>outlook.office365.com (1252)</li>
@@ -80,14 +80,14 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (674)</li>
 <li>www.theguardian.com (628)</li>
 <li>chatgpt.com (621)</li>
-<li>calendar.google.com (456)</li>
+<li>calendar.google.com (458)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (428)</li>
 <li>moodle.royalholloway.ac.uk (427)</li>
 <li>github.com (396)</li>
 <li>tvtropes.org (331)</li>
 <li>gmail.com (306)</li>
-<li>login.microsoftonline.com (291)</li>
+<li>login.microsoftonline.com (296)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (270)</li>
 <li>feedly.com (254)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (183)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (173)</li>
-<li>www.tesco.com (142)</li>
+<li>forms.office.com (143)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:53 outlook.office.com</li>
+<ul><li> 15:43 login.microsoftonline.com</li>
+<li> 15:42 herts.instructure.com</li>
+<li> 15:39 calendar.google.com</li>
+<li class='same'> 15:38 calendar.google.com</li>
+<li> 15:36 forms.office.com</li>
+<li> 15:36 login.microsoftonline.com</li>
+<li> 15:36 forms.office.com</li>
+<li> 15:36 login.microsoftonline.com</li>
+<li> 15:36 forms.office.com</li>
+<li> 15:32 herts365-my.sharepoint.com</li>
+<li> 15:32 login.microsoftonline.com</li>
+<li> 15:32 herts365-my.sharepoint.com</li>
+<li> 15:32 login.microsoftonline.com</li>
+<li> 15:30 herts.instructure.com</li>
+<li class='same'> 15:29 herts.instructure.com</li>
+<li class='same'> 15:28 herts.instructure.com</li>
+<li class='same'> 15:27 herts.instructure.com</li>
+<li> 15:24 outlook.office.com</li>
+<li> 15:24 herts.instructure.com</li>
+<li> 15:22 outlook.office.com</li>
+<li class='same'> 15:21 outlook.office.com</li>
+<li> 15:21 herts.instructure.com</li>
+<li> 15:21 adfs.herts.ac.uk</li>
+<li> 15:21 api-b6327e78.duosecurity.com</li>
+<li> 15:21 adfs.herts.ac.uk</li>
+<li class='same'> 15:20 adfs.herts.ac.uk</li>
+<li> 15:20 herts.instructure.com</li>
+<li> 15:16 outlook.office.com</li>
+<li> 15:13 mail.google.com</li>
+<li class='same'> 15:12 mail.google.com</li>
+<li> 15:12 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:53 outlook.office.com</li>
 <li> 13:50 web.whatsapp.com</li>
 <li> 13:50 calendar.google.com</li>
 <li> 13:50 mail.google.com</li>
