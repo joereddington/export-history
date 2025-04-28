@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2810)</li>
+<ol><li>www.google.com (2815)</li>
 <li>outlook.office.com (2400)</li>
 <li>mail.google.com (2248)</li>
 <li>docs.google.com (1785)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1158)</li>
 <li>duckduckgo.com (823)</li>
 <li>www.amazon.co.uk (674)</li>
-<li>www.theguardian.com (622)</li>
+<li>www.theguardian.com (627)</li>
 <li>chatgpt.com (621)</li>
 <li>calendar.google.com (455)</li>
 <li>rhul-my.sharepoint.com (443)</li>
@@ -104,7 +104,36 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 28/04/25</H3>
+
+<br>
+
+<ul><li> 07:21 www.google.com</li>
+<li class='same'> 07:20 www.google.com</li>
+<li class='same'> 07:19 www.google.com</li>
+<li class='same'> 07:18 www.google.com</li>
+<li> 07:18 www.theguardian.com</li>
+<li class='same'> 06:57 www.theguardian.com</li>
+<li class='same'> 06:56 www.theguardian.com</li>
+</ul>
+
 <H3>Sunday, 27/04/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:41 www.theguardian.com</li>
+<li class='same'> 20:40 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:07 www.etsy.com</li>
+<li> 19:07 www.google.com</li>
+</ul>
 
 <br>
 
@@ -160,7 +189,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 07:16 <a href="https://www.bbc.co.uk/news/articles/cwyn2n44v9xo">Two women seriously hurt in attack involving crossbow in Leeds - BBC News</a></li>
+<li> 07:14 <a href="https://www.bbc.co.uk/news/articles/cpdzpzy1jwzo">Home needed for two killer whales stuck in shuttered zoo - BBC News</a></li>
+<li> 07:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 </ul>
 
 <br>
