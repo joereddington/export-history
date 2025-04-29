@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2836)</li>
+<ol><li>www.google.com (2835)</li>
 <li>outlook.office.com (2455)</li>
 <li>mail.google.com (2277)</li>
 <li>docs.google.com (1786)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1165)</li>
 <li>duckduckgo.com (840)</li>
 <li>www.amazon.co.uk (676)</li>
-<li>www.theguardian.com (635)</li>
+<li>www.theguardian.com (637)</li>
 <li>chatgpt.com (629)</li>
 <li>calendar.google.com (464)</li>
 <li>rhul-my.sharepoint.com (443)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (233)</li>
 <li>qbo.intuit.com (228)</li>
 <li>www.coursera.org (208)</li>
-<li>rhul.sharepoint.com (189)</li>
+<li>rhul.sharepoint.com (188)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (173)</li>
 <li>forms.office.com (146)</li>
 
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:48 herts.instructure.com</li>
+<ul><li> 15:54 www.theguardian.com</li>
+<li class='same'> 15:53 www.theguardian.com</li>
+<li> 15:48 herts.instructure.com</li>
 <li> 15:48 adfs.herts.ac.uk</li>
 <li> 15:47 api-b6327e78.duosecurity.com</li>
 <li> 15:47 adfs.herts.ac.uk</li>
@@ -18173,8 +18175,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:36 fritz.box</li>
 <li> 15:36 fast.com</li>
 <li> 15:36 fritz.box</li>
-<li> 15:36 rhul.sharepoint.com</li>
-<li class='same'> 15:34 rhul.sharepoint.com</li>
+<li> 15:34 rhul.sharepoint.com</li>
 <li> 15:34 rhul-my.sharepoint.com</li>
 <li> 15:34 outlook.office.com</li>
 <li> 15:34 outlook.office365.com</li>
@@ -18236,7 +18237,6 @@ With number of accesses/minutes in parentheses
 <li> 13:28 gmail.com</li>
 <li> 13:25 mail.google.com</li>
 <li> 13:23 whitewaterwriters.com</li>
-<li> 13:22 accounts.firefox.com</li>
 <li> 13:21 mail.google.com</li>
 <li> 13:21 gmail.com</li>
 <li> 13:20 accounts.firefox.com</li>
@@ -18271,7 +18271,6 @@ With number of accesses/minutes in parentheses
 <li> 12:45 outlook.office.com</li>
 <li> 12:43 docs.google.com</li>
 <li> 12:42 www.ox.ac.uk</li>
-<li> 12:42 www.google.com</li>
 <li> 12:42 www.undergraduate.study.cam.ac.uk</li>
 <li> 12:42 www.dow.cam.ac.uk</li>
 <li class='same'> 12:41 www.dow.cam.ac.uk</li>
