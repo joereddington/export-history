@@ -70,27 +70,27 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2836)</li>
 <li>outlook.office.com (2455)</li>
-<li>mail.google.com (2263)</li>
-<li>docs.google.com (1785)</li>
+<li>mail.google.com (2277)</li>
+<li>docs.google.com (1786)</li>
 <li>bsky.app (1437)</li>
 <li>outlook.office365.com (1255)</li>
 <li>www.facebook.com (1205)</li>
-<li>www.reddit.com (1160)</li>
-<li>duckduckgo.com (838)</li>
-<li>www.amazon.co.uk (674)</li>
+<li>www.reddit.com (1165)</li>
+<li>duckduckgo.com (840)</li>
+<li>www.amazon.co.uk (676)</li>
 <li>www.theguardian.com (635)</li>
 <li>chatgpt.com (629)</li>
-<li>calendar.google.com (463)</li>
+<li>calendar.google.com (464)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>www.linkedin.com (432)</li>
 <li>moodle.royalholloway.ac.uk (430)</li>
-<li>github.com (396)</li>
+<li>github.com (398)</li>
 <li>tvtropes.org (331)</li>
 <li>login.microsoftonline.com (308)</li>
-<li>gmail.com (307)</li>
+<li>gmail.com (308)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (273)</li>
-<li>feedly.com (256)</li>
+<li>feedly.com (257)</li>
 <li>drive.google.com (235)</li>
 <li>chat.openai.com (233)</li>
 <li>qbo.intuit.com (228)</li>
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:34 calendar.google.com</li>
+<ul><li> 15:46 mail.google.com</li>
+<li class='same'> 15:45 mail.google.com</li>
+<li class='same'> 15:42 mail.google.com</li>
+<li class='same'> 15:41 mail.google.com</li>
+<li class='same'> 15:40 mail.google.com</li>
+<li> 15:38 www.reddit.com</li>
+<li class='same'> 15:37 www.reddit.com</li>
+<li> 15:37 duckduckgo.com</li>
+<li> 15:33 mail.google.com</li>
+<li> 15:33 github.com</li>
+<li> 15:32 equalitytime.github.io</li>
+<li> 15:32 github.com</li>
+<li> 15:32 mail.google.com</li>
+<li> 15:27 <a href="https://www.bbc.co.uk/news/live/cpvrrre4zlkt">White House blasts 'hostile' Amazon over tariffs while marking Trump’s 100 days - live updates - BBC News</a></li>
+<li> 15:27 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:27 mail.google.com</li>
+<li> 15:23 feedly.com</li>
+<li> 15:23 www.giantitp.com</li>
+<li> 15:23 mail.google.com</li>
+<li> 15:23 gmail.com</li>
+<li> 15:23 www.reddit.com</li>
+<li class='same'> 15:20 www.reddit.com</li>
+<li class='same'> 15:19 www.reddit.com</li>
+<li> 15:19 calendar.google.com</li>
+<li> 15:14 mail.google.com</li>
+<li> 15:14 duckduckgo.com</li>
+<li> 15:12 mail.google.com</li>
+<li> 15:11 www.amazon.co.uk</li>
+<li class='same'> 15:10 www.amazon.co.uk</li>
+<li> 15:10 docs.google.com</li>
+<li> 15:10 mail.google.com</li>
+<li class='same'> 15:09 mail.google.com</li>
+<li> 15:08 www.sfadb.com</li>
+<li> 14:56 mail.google.com</li>
+<li> 14:34 calendar.google.com</li>
 <li> 14:34 mail.google.com</li>
 <li> 14:34 login.microsoftonline.com</li>
 <li> 14:34 www.myworkday.com</li>
