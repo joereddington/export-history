@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:46 mail.google.com</li>
+<ul><li> 15:48 herts.instructure.com</li>
+<li> 15:48 adfs.herts.ac.uk</li>
+<li> 15:47 api-b6327e78.duosecurity.com</li>
+<li> 15:47 adfs.herts.ac.uk</li>
+<li> 15:47 herts.instructure.com</li>
+<li> 15:46 mail.google.com</li>
 <li class='same'> 15:45 mail.google.com</li>
 <li class='same'> 15:42 mail.google.com</li>
 <li class='same'> 15:41 mail.google.com</li>
