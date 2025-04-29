@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2835)</li>
-<li>outlook.office.com (2449)</li>
-<li>mail.google.com (2252)</li>
+<ol><li>www.google.com (2836)</li>
+<li>outlook.office.com (2455)</li>
+<li>mail.google.com (2263)</li>
 <li>docs.google.com (1785)</li>
 <li>bsky.app (1437)</li>
-<li>outlook.office365.com (1254)</li>
+<li>outlook.office365.com (1255)</li>
 <li>www.facebook.com (1205)</li>
 <li>www.reddit.com (1160)</li>
-<li>duckduckgo.com (834)</li>
+<li>duckduckgo.com (838)</li>
 <li>www.amazon.co.uk (674)</li>
-<li>www.theguardian.com (634)</li>
-<li>chatgpt.com (628)</li>
-<li>calendar.google.com (462)</li>
+<li>www.theguardian.com (635)</li>
+<li>chatgpt.com (629)</li>
+<li>calendar.google.com (463)</li>
 <li>rhul-my.sharepoint.com (443)</li>
+<li>www.linkedin.com (432)</li>
 <li>moodle.royalholloway.ac.uk (430)</li>
-<li>www.linkedin.com (428)</li>
 <li>github.com (396)</li>
 <li>tvtropes.org (331)</li>
-<li>gmail.com (306)</li>
-<li>login.microsoftonline.com (305)</li>
+<li>login.microsoftonline.com (308)</li>
+<li>gmail.com (307)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (272)</li>
-<li>feedly.com (254)</li>
+<li>web.whatsapp.com (273)</li>
+<li>feedly.com (256)</li>
 <li>drive.google.com (235)</li>
 <li>chat.openai.com (233)</li>
 <li>qbo.intuit.com (228)</li>
@@ -108,7 +108,67 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:30 www.google.com</li>
+<ul><li> 14:34 calendar.google.com</li>
+<li> 14:34 mail.google.com</li>
+<li> 14:34 login.microsoftonline.com</li>
+<li> 14:34 www.myworkday.com</li>
+<li> 14:33 mail.google.com</li>
+<li> 14:32 web.whatsapp.com</li>
+<li> 14:32 northeastern.wd1.myworkdayjobs.com</li>
+<li> 14:31 www.hesa.ac.uk</li>
+<li class='same'> 14:30 www.hesa.ac.uk</li>
+<li> 14:28 www.linkedin.com</li>
+<li> 14:28 uk.linkedin.com</li>
+<li> 14:28 www.linkedin.com</li>
+<li> 14:28 uk.linkedin.com</li>
+<li> 14:28 www.linkedin.com</li>
+<li> 14:28 duckduckgo.com</li>
+<li> 14:28 www.linkedin.com</li>
+<li> 14:24 northeastern.wd1.myworkdayjobs.com</li>
+<li class='same'> 14:23 northeastern.wd1.myworkdayjobs.com</li>
+<li> 14:23 mail.google.com</li>
+<li class='same'> 14:22 mail.google.com</li>
+<li> 14:22 forum.artofmemory.com</li>
+<li> 14:21 mail.google.com</li>
+<li> 14:21 <a href="https://www.youtube.com/watch?v=6oB5hR5sRv0">So, how does Women's Artistic Gymnastics work at the Olympics? | #Paris2024 - YouTube</a></li>
+<li> 14:20 mail.google.com</li>
+<li> 14:20 northeastern.wd1.myworkdayjobs.com</li>
+<li class='same'> 14:19 northeastern.wd1.myworkdayjobs.com</li>
+<li> 14:17 <a href="https://en.wikipedia.org/wiki/Northeastern_University_%E2%80%93_London">Northeastern University – London - Wikipedia</a></li>
+<li> 14:17 duckduckgo.com</li>
+<li> 14:16 www.jobs.ac.uk</li>
+<li> 14:16 mail.google.com</li>
+<li> 14:15 jobs.edgehill.ac.uk</li>
+<li> 14:15 www.jobs.ac.uk</li>
+<li> 14:15 mail.google.com</li>
+<li class='same'> 14:14 mail.google.com</li>
+<li> 14:14 gmail.com</li>
+<li> 14:14 outlook.office.com</li>
+<li class='same'> 14:13 outlook.office.com</li>
+<li class='same'> 14:12 outlook.office.com</li>
+<li> 14:08 abcnews.go.com</li>
+<li> 14:06 feedly.com</li>
+<li> 14:06 www.feedly.com</li>
+<li> 14:06 feedly.com</li>
+<li> 14:06 outlook.office.com</li>
+<li class='same'> 14:05 outlook.office.com</li>
+<li> 14:05 login.microsoftonline.com</li>
+<li> 14:05 outlook.office.com</li>
+<li> 14:05 login.microsoftonline.com</li>
+<li> 14:05 outlook.office365.com</li>
+<li> 13:55 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:52 chatgpt.com</li>
+<li> 12:42 support.ultimaker.com</li>
+<li> 12:41 www.bcn3d.com</li>
+<li> 12:41 duckduckgo.com</li>
+<li> 12:38 www.printables.com</li>
+<li class='same'> 12:37 www.printables.com</li>
+<li> 12:36 duckduckgo.com</li>
+<li> 12:30 www.google.com</li>
 <li> 12:30 accounts.google.com</li>
 <li class='same'> 12:29 accounts.google.com</li>
 <li> 12:29 www.google.com</li>
@@ -125,7 +185,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:49 www.google.com</li>
+<ul><li> 11:50 www.healthpartners.com</li>
+<li> 11:50 www.google.com</li>
+<li> 11:50 consent.yahoo.com</li>
+<li> 11:49 www.google.com</li>
 </ul>
 
 <br>
@@ -40220,7 +40283,9 @@ With number of accesses/minutes in parentheses
 <li> 06:59 analytics.google.com</li>
 <li> 06:50 www.wolframalpha.com</li>
 <li> 06:50 docs.google.com</li>
+<li> 06:47 mail.google.com</li>
 <li> 06:35 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 06:32 mail.google.com</li>
 <li> 06:31 www.gmail.com</li>
 </ul>
 
