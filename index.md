@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2835)</li>
+<ol><li>www.google.com (2836)</li>
 <li>outlook.office.com (2455)</li>
-<li>mail.google.com (2277)</li>
+<li>mail.google.com (2279)</li>
 <li>docs.google.com (1786)</li>
 <li>bsky.app (1437)</li>
 <li>outlook.office365.com (1255)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1165)</li>
 <li>duckduckgo.com (840)</li>
 <li>www.amazon.co.uk (676)</li>
-<li>www.theguardian.com (637)</li>
+<li>www.theguardian.com (638)</li>
 <li>chatgpt.com (629)</li>
 <li>calendar.google.com (464)</li>
 <li>rhul-my.sharepoint.com (443)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:54 www.theguardian.com</li>
+<ul><li> 19:44 us06web.zoom.us</li>
+<li class='same'> 19:39 us06web.zoom.us</li>
+<li> 19:39 www.google.com</li>
+<li> 19:39 us06web.zoom.us</li>
+<li> 19:39 mail.google.com</li>
+<li class='same'> 19:38 mail.google.com</li>
+<li> 19:38 www.gmail.com</li>
+<li> 19:37 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:54 www.theguardian.com</li>
 <li class='same'> 15:53 www.theguardian.com</li>
 <li> 15:48 herts.instructure.com</li>
 <li> 15:48 adfs.herts.ac.uk</li>
