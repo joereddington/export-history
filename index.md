@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2826)</li>
+<ol><li>www.google.com (2827)</li>
 <li>outlook.office.com (2449)</li>
 <li>mail.google.com (2252)</li>
 <li>docs.google.com (1785)</li>
 <li>bsky.app (1437)</li>
 <li>outlook.office365.com (1254)</li>
 <li>www.facebook.com (1205)</li>
-<li>www.reddit.com (1159)</li>
-<li>duckduckgo.com (831)</li>
+<li>www.reddit.com (1160)</li>
+<li>duckduckgo.com (834)</li>
 <li>www.amazon.co.uk (674)</li>
 <li>www.theguardian.com (634)</li>
 <li>chatgpt.com (628)</li>
-<li>calendar.google.com (461)</li>
+<li>calendar.google.com (462)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>moodle.royalholloway.ac.uk (430)</li>
 <li>www.linkedin.com (428)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (306)</li>
 <li>login.microsoftonline.com (305)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (271)</li>
+<li>web.whatsapp.com (272)</li>
 <li>feedly.com (254)</li>
 <li>drive.google.com (235)</li>
 <li>chat.openai.com (233)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:44 musical-artifacts.com</li>
+<ul><li> 07:33 www.google.com</li>
+<li> 07:12 old.reddit.com</li>
+<li> 07:12 www.reddit.com</li>
+<li> 07:01 www.merlinannualpass.co.uk</li>
+<li> 07:00 duckduckgo.com</li>
+<li> 07:00 www.legoland.co.uk</li>
+<li> 07:00 duckduckgo.com</li>
+<li> 06:59 weather.metoffice.gov.uk</li>
+<li class='same'> 06:58 weather.metoffice.gov.uk</li>
+<li class='same'> 06:56 weather.metoffice.gov.uk</li>
+<li> 06:55 duckduckgo.com</li>
+<li> 06:55 web.whatsapp.com</li>
+<li> 06:53 calendar.google.com</li>
+<li> 06:44 musical-artifacts.com</li>
 <li> 06:44 duckduckgo.com</li>
 <li> 06:43 gamebanana.com</li>
 <li> 06:43 www.101soundboards.com</li>
