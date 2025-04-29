@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2827)</li>
+<ol><li>www.google.com (2830)</li>
 <li>outlook.office.com (2449)</li>
 <li>mail.google.com (2252)</li>
 <li>docs.google.com (1785)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:33 www.google.com</li>
+<ul><li> 09:46 m.youtube.com</li>
+<li class='same'> 09:45 m.youtube.com</li>
+<li class='same'> 09:25 m.youtube.com</li>
+<li class='same'> 09:22 m.youtube.com</li>
+<li class='same'> 09:20 m.youtube.com</li>
+<li class='same'> 09:18 m.youtube.com</li>
+<li> 09:18 www.google.com</li>
+<li class='same'> 09:06 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:34 www.google.com</li>
+<li> 07:34 nameberry.com</li>
+<li> 07:33 www.google.com</li>
 <li> 07:12 old.reddit.com</li>
 <li> 07:12 www.reddit.com</li>
 <li> 07:01 www.merlinannualpass.co.uk</li>
