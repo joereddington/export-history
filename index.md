@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2820)</li>
-<li>outlook.office.com (2448)</li>
+<ol><li>www.google.com (2826)</li>
+<li>outlook.office.com (2449)</li>
 <li>mail.google.com (2252)</li>
 <li>docs.google.com (1785)</li>
 <li>bsky.app (1437)</li>
 <li>outlook.office365.com (1254)</li>
 <li>www.facebook.com (1205)</li>
-<li>www.reddit.com (1158)</li>
-<li>duckduckgo.com (829)</li>
+<li>www.reddit.com (1159)</li>
+<li>duckduckgo.com (831)</li>
 <li>www.amazon.co.uk (674)</li>
-<li>www.theguardian.com (631)</li>
-<li>chatgpt.com (627)</li>
-<li>calendar.google.com (460)</li>
+<li>www.theguardian.com (634)</li>
+<li>chatgpt.com (628)</li>
+<li>calendar.google.com (461)</li>
 <li>rhul-my.sharepoint.com (443)</li>
 <li>moodle.royalholloway.ac.uk (430)</li>
 <li>www.linkedin.com (428)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (271)</li>
 <li>feedly.com (254)</li>
 <li>drive.google.com (235)</li>
-<li>chat.openai.com (232)</li>
+<li>chat.openai.com (233)</li>
 <li>qbo.intuit.com (228)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (189)</li>
@@ -104,7 +104,44 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 29/04/25</H3>
+
+<br>
+
+<ul><li> 06:44 musical-artifacts.com</li>
+<li> 06:44 duckduckgo.com</li>
+<li> 06:43 gamebanana.com</li>
+<li> 06:43 www.101soundboards.com</li>
+<li> 06:42 www.sounds-resource.com</li>
+<li class='same'> 06:41 www.sounds-resource.com</li>
+<li> 06:41 duckduckgo.com</li>
+<li> 06:35 chatgpt.com</li>
+<li> 06:35 chat.openai.com</li>
+<li> 06:22 www.reddit.com</li>
+<li> 06:21 www.theguardian.com</li>
+<li> 06:20 calendar.google.com</li>
+<li> 06:20 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 05:38 www.google.com</li>
+</ul>
+
 <H3>Monday, 28/04/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:51 www.google.com</li>
+<li class='same'> 20:32 www.google.com</li>
+<li class='same'> 20:25 www.google.com</li>
+<li> 20:25 www.aliexpress.com</li>
+<li> 20:24 www.google.com</li>
+</ul>
 
 <br>
 
@@ -250,7 +287,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:26 www.theguardian.com</li>
+<ul><li> 09:29 www.google.com</li>
+<li> 09:29 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:48 www.theguardian.com</li>
+<li class='same'> 08:26 www.theguardian.com</li>
 <li> 08:26 www.google.com</li>
 </ul>
 
