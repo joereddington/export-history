@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2836)</li>
-<li>outlook.office.com (2455)</li>
-<li>mail.google.com (2279)</li>
+<li>outlook.office.com (2459)</li>
+<li>mail.google.com (2284)</li>
 <li>docs.google.com (1786)</li>
 <li>bsky.app (1437)</li>
-<li>outlook.office365.com (1255)</li>
+<li>outlook.office365.com (1257)</li>
 <li>www.facebook.com (1205)</li>
 <li>www.reddit.com (1165)</li>
-<li>duckduckgo.com (840)</li>
+<li>duckduckgo.com (841)</li>
 <li>www.amazon.co.uk (676)</li>
-<li>www.theguardian.com (638)</li>
-<li>chatgpt.com (629)</li>
-<li>calendar.google.com (464)</li>
-<li>rhul-my.sharepoint.com (443)</li>
+<li>www.theguardian.com (640)</li>
+<li>chatgpt.com (631)</li>
+<li>calendar.google.com (465)</li>
+<li>rhul-my.sharepoint.com (446)</li>
 <li>www.linkedin.com (432)</li>
 <li>moodle.royalholloway.ac.uk (430)</li>
 <li>github.com (398)</li>
 <li>tvtropes.org (331)</li>
-<li>login.microsoftonline.com (308)</li>
+<li>login.microsoftonline.com (311)</li>
 <li>gmail.com (308)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (273)</li>
+<li>web.whatsapp.com (274)</li>
 <li>feedly.com (257)</li>
 <li>drive.google.com (235)</li>
-<li>chat.openai.com (233)</li>
+<li>chat.openai.com (234)</li>
 <li>qbo.intuit.com (228)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (188)</li>
@@ -104,7 +104,63 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 30/04/25</H3>
+
+<br>
+
+<ul><li> 09:42 digital.ucas.com</li>
+<li> 09:42 www.ucas.com</li>
+<li> 09:42 duckduckgo.com</li>
+<li> 09:21 rhul-my.sharepoint.com</li>
+<li class='same'> 09:20 rhul-my.sharepoint.com</li>
+<li> 09:14 outlook.office.com</li>
+<li class='same'> 09:13 outlook.office.com</li>
+<li> 09:13 outlook.office365.com</li>
+<li> 09:13 login.microsoftonline.com</li>
+<li> 09:13 myview.rhul.zellis.com</li>
+<li> 09:10 mail.google.com</li>
+<li> 09:07 web.whatsapp.com</li>
+<li> 09:06 andsoshethinks.co.uk</li>
+<li> 09:06 mail.google.com</li>
+<li class='same'> 09:05 mail.google.com</li>
+<li> 09:05 chatgpt.com</li>
+<li class='same'> 09:03 chatgpt.com</li>
+<li> 09:03 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:11 herts365-my.sharepoint.com</li>
+<li class='same'> 06:54 herts365-my.sharepoint.com</li>
+<li class='same'> 06:48 herts365-my.sharepoint.com</li>
+<li> 06:47 www.microsoft365.com</li>
+<li> 06:45 herts365-my.sharepoint.com</li>
+<li> 06:45 www.microsoft365.com</li>
+<li> 06:45 herts365-my.sharepoint.com</li>
+<li> 06:45 www.microsoft365.com</li>
+<li> 06:45 login.microsoftonline.com</li>
+<li> 06:45 adfs.herts.ac.uk</li>
+<li> 06:41 api-b6327e78.duosecurity.com</li>
+<li> 06:41 adfs.herts.ac.uk</li>
+<li> 06:41 login.microsoftonline.com</li>
+<li> 06:41 rhul-my.sharepoint.com</li>
+<li> 06:41 herts365-my.sharepoint.com</li>
+<li> 06:41 herts.instructure.com</li>
+<li> 06:40 calendar.google.com</li>
+<li> 06:40 herts.instructure.com</li>
+<li> 06:38 outlook.office.com</li>
+<li> 06:38 outlook.office365.com</li>
+<li> 06:38 outlook.office.com</li>
+<li> 06:38 mail.google.com</li>
+<li class='same'> 06:37 mail.google.com</li>
+<li> 06:29 www.theguardian.com</li>
+</ul>
+
 <H3>Tuesday, 29/04/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -116,6 +172,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:38 mail.google.com</li>
 <li> 19:38 www.gmail.com</li>
 <li> 19:37 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:53 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -44989,6 +45050,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:39 <a href="https://joereddington.com/2023/12/27/spider-man.html">Spider-Man | Joe Reddington</a></li>
 <li> 15:14 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+</ul>
+
+<br>
+
+<ul><li> 08:51 forum.artofmemory.com</li>
 </ul>
 
 <H3>Monday, 25/12/23</H3>
