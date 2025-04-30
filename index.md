@@ -69,31 +69,31 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2836)</li>
-<li>outlook.office.com (2481)</li>
-<li>mail.google.com (2292)</li>
+<li>outlook.office.com (2489)</li>
+<li>mail.google.com (2301)</li>
 <li>docs.google.com (1809)</li>
-<li>bsky.app (1437)</li>
-<li>outlook.office365.com (1258)</li>
+<li>bsky.app (1438)</li>
+<li>outlook.office365.com (1260)</li>
 <li>www.facebook.com (1205)</li>
 <li>www.reddit.com (1165)</li>
-<li>duckduckgo.com (842)</li>
+<li>duckduckgo.com (846)</li>
 <li>www.amazon.co.uk (676)</li>
-<li>www.theguardian.com (642)</li>
-<li>chatgpt.com (633)</li>
+<li>www.theguardian.com (643)</li>
+<li>chatgpt.com (636)</li>
 <li>calendar.google.com (465)</li>
 <li>rhul-my.sharepoint.com (447)</li>
+<li>www.linkedin.com (437)</li>
 <li>moodle.royalholloway.ac.uk (435)</li>
-<li>www.linkedin.com (432)</li>
 <li>github.com (398)</li>
 <li>tvtropes.org (331)</li>
-<li>login.microsoftonline.com (314)</li>
-<li>gmail.com (309)</li>
+<li>login.microsoftonline.com (316)</li>
+<li>gmail.com (310)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (275)</li>
 <li>feedly.com (257)</li>
 <li>drive.google.com (238)</li>
-<li>chat.openai.com (236)</li>
-<li>qbo.intuit.com (230)</li>
+<li>chat.openai.com (237)</li>
+<li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (188)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (173)</li>
@@ -108,7 +108,75 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:42 chatgpt.com</li>
+<ul><li> 12:41 outlook.office.com</li>
+<li> 12:41 outlook.office365.com</li>
+<li> 12:41 www.linkedin.com</li>
+<li> 12:41 bsky.app</li>
+<li> 12:41 www.linkedin.com</li>
+<li class='same'> 12:40 www.linkedin.com</li>
+<li class='same'> 12:39 www.linkedin.com</li>
+<li class='same'> 12:38 www.linkedin.com</li>
+<li> 12:38 outlook.office.com</li>
+<li class='same'> 12:37 outlook.office.com</li>
+<li class='same'> 12:36 outlook.office.com</li>
+<li> 12:33 ce0997li.webitrent.com</li>
+<li> 12:33 www.herts.ac.uk</li>
+<li> 12:33 duckduckgo.com</li>
+<li> 12:32 herts365-my.sharepoint.com</li>
+<li> 12:32 outlook.office.com</li>
+<li> 12:31 herts365-my.sharepoint.com</li>
+<li> 12:31 outlook.office.com</li>
+<li> 12:31 login.microsoftonline.com</li>
+<li> 12:31 www.microsoft365.com</li>
+<li> 12:31 login.microsoftonline.com</li>
+<li> 12:31 adfs.herts.ac.uk</li>
+<li> 12:31 outlook.office.com</li>
+<li class='same'> 12:27 outlook.office.com</li>
+<li> 12:27 outlook.office365.com</li>
+<li> 12:27 mail.google.com</li>
+<li class='same'> 12:26 mail.google.com</li>
+<li> 12:26 gmail.com</li>
+<li> 12:26 mail.google.com</li>
+<li> 12:25 account.adobe.com</li>
+<li class='same'> 12:24 account.adobe.com</li>
+<li> 12:24 helpx.adobe.com</li>
+<li> 12:24 duckduckgo.com</li>
+<li> 12:24 www.paypal.com</li>
+<li> 12:23 mail.google.com</li>
+<li> 12:22 qbo.intuit.com</li>
+<li> 12:22 c14.qbo.intuit.com</li>
+<li> 12:22 app.qbo.intuit.com</li>
+<li> 12:20 www.theguardian.com</li>
+<li> 12:20 qbo.intuit.com</li>
+<li> 12:20 app.qbo.intuit.com</li>
+<li> 12:20 c14.qbo.intuit.com</li>
+<li> 12:20 mail.google.com</li>
+<li class='same'> 12:18 mail.google.com</li>
+<li> 12:16 www.projectreal.co.uk</li>
+<li> 12:15 equalitytime.github.io</li>
+<li> 12:15 mail.google.com</li>
+<li class='same'> 12:14 mail.google.com</li>
+<li> 12:11 www.projectreal.co.uk</li>
+<li> 12:10 127.0.0.1:4000</li>
+<li> 12:10 chatgpt.com</li>
+<li class='same'> 12:09 chatgpt.com</li>
+<li> 12:09 chat.openai.com</li>
+<li> 12:07 equalitytime.github.io</li>
+<li> 12:06 www.projectreal.co.uk</li>
+<li> 12:03 <a href="https://en.wikipedia.org/wiki/Kitten#/media/File:Juvenile_Ragdoll.jpg">Juvenile Ragdoll - Kitten - Wikipedia</a></li>
+<li> 12:03 <a href="https://en.wikipedia.org/wiki/Kitten">Kitten - Wikipedia</a></li>
+<li> 12:03 duckduckgo.com</li>
+<li> 12:01 mail.google.com</li>
+<li> 12:00 127.0.0.1:4000</li>
+<li class='same'> 11:59 127.0.0.1:4000</li>
+<li class='same'> 11:58 127.0.0.1:4000</li>
+<li class='same'> 11:57 127.0.0.1:4000</li>
+<li class='same'> 11:49 127.0.0.1:4000</li>
+<li> 11:48 topbananajam.carrd.co</li>
+<li class='same'> 11:47 topbananajam.carrd.co</li>
+<li> 11:47 duckduckgo.com</li>
+<li> 11:43 chatgpt.com</li>
+<li class='same'> 11:42 chatgpt.com</li>
 <li> 11:42 chat.openai.com</li>
 <li> 11:42 outlook.office.com</li>
 <li> 11:38 mail.google.com</li>
@@ -38478,11 +38546,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 21:26 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
-</ul>
-
-<br>
-
-<ul><li> 20:54 chatgpt.com</li>
+<li> 21:00 127.0.0.1:4000</li>
+<li> 20:54 chatgpt.com</li>
 <li> 20:52 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 20:44 www.facebook.com</li>
 </ul>
@@ -38596,11 +38661,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:08 accounts.google.com</li>
 <li> 11:03 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
-</ul>
-
-<br>
-
-<ul><li> 10:32 127.0.0.1:4000</li>
+<li> 10:59 127.0.0.1:4000</li>
+<li class='same'> 10:32 127.0.0.1:4000</li>
 </ul>
 
 <br>
@@ -49685,6 +49747,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 13:49 127.0.0.1:4000</li>
+</ul>
+
+<br>
+
 <ul><li> 12:12 feedly.com</li>
 <li class='same'> 12:11 feedly.com</li>
 </ul>
@@ -50366,6 +50433,13 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:00 www.instagram.com</li>
 <li class='same'> 19:58 www.instagram.com</li>
+<li> 19:51 127.0.0.1:4000</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:51 127.0.0.1:4000</li>
+<li class='same'> 15:50 127.0.0.1:4000</li>
 </ul>
 
 <H3>Tuesday, 14/03/23</H3>
@@ -50454,6 +50528,11 @@ With number of accesses/minutes in parentheses
 <li> 11:23 analytics.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 06:30 127.0.0.1:4000</li>
+</ul>
+
 <H3>Monday, 06/03/23</H3>
 
 <br>
@@ -50462,7 +50541,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 14:35 analytics.google.com</li>
+<ul><li> 14:35 analytics.google.com</li>
 </ul>
 
 <br>
@@ -50874,6 +50953,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:32 docs.google.com</li>
 </ul>
 
+<H3>Friday, 16/12/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 16:38 127.0.0.1:4000</li>
+</ul>
+
 <H3>Thursday, 15/12/22</H3>
 
 <br>
@@ -50882,7 +50972,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 14:05 docs.google.com</li>
+<ul><li> 14:05 docs.google.com</li>
 </ul>
 
 <H3>Wednesday, 14/12/22</H3>
@@ -50902,6 +50992,15 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:55 docs.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 07:49 127.0.0.1:4000</li>
+<li class='same'> 07:47 127.0.0.1:4000</li>
+<li class='same'> 07:38 127.0.0.1:4000</li>
+<li class='same'> 07:35 127.0.0.1:4000</li>
+<li class='same'> 07:31 127.0.0.1:4000</li>
+</ul>
+
 <H3>Tuesday, 13/12/22</H3>
 
 <br>
@@ -50910,7 +51009,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 09:54 docs.google.com</li>
+<ul><li> 09:54 docs.google.com</li>
 <li> 09:51 gettingthingsdone.com</li>
 </ul>
 
