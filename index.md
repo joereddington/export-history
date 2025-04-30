@@ -69,35 +69,35 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2836)</li>
-<li>outlook.office.com (2459)</li>
+<li>outlook.office.com (2472)</li>
 <li>mail.google.com (2284)</li>
 <li>docs.google.com (1786)</li>
 <li>bsky.app (1437)</li>
 <li>outlook.office365.com (1257)</li>
 <li>www.facebook.com (1205)</li>
 <li>www.reddit.com (1165)</li>
-<li>duckduckgo.com (841)</li>
+<li>duckduckgo.com (842)</li>
 <li>www.amazon.co.uk (676)</li>
-<li>www.theguardian.com (640)</li>
-<li>chatgpt.com (631)</li>
+<li>www.theguardian.com (642)</li>
+<li>chatgpt.com (632)</li>
 <li>calendar.google.com (465)</li>
 <li>rhul-my.sharepoint.com (446)</li>
+<li>moodle.royalholloway.ac.uk (435)</li>
 <li>www.linkedin.com (432)</li>
-<li>moodle.royalholloway.ac.uk (430)</li>
 <li>github.com (398)</li>
 <li>tvtropes.org (331)</li>
-<li>login.microsoftonline.com (311)</li>
+<li>login.microsoftonline.com (314)</li>
 <li>gmail.com (308)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (274)</li>
+<li>web.whatsapp.com (275)</li>
 <li>feedly.com (257)</li>
 <li>drive.google.com (235)</li>
-<li>chat.openai.com (234)</li>
+<li>chat.openai.com (235)</li>
 <li>qbo.intuit.com (228)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (188)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (173)</li>
-<li>forms.office.com (146)</li>
+<li>forms.office.com (148)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,47 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:42 digital.ucas.com</li>
+<ul><li> 10:44 outlook.office.com</li>
+<li> 10:42 forms.office.com</li>
+<li> 10:42 login.microsoftonline.com</li>
+<li> 10:42 forms.office.com</li>
+<li> 10:42 outlook.office.com</li>
+<li class='same'> 10:41 outlook.office.com</li>
+<li class='same'> 10:40 outlook.office.com</li>
+<li class='same'> 10:39 outlook.office.com</li>
+<li class='same'> 10:38 outlook.office.com</li>
+<li class='same'> 10:37 outlook.office.com</li>
+<li class='same'> 10:35 outlook.office.com</li>
+<li class='same'> 10:31 outlook.office.com</li>
+<li> 10:25 www.theguardian.com</li>
+<li class='same'> 10:24 www.theguardian.com</li>
+<li> 10:10 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:09 moodle.royalholloway.ac.uk</li>
+<li> 10:08 duckduckgo.com</li>
+<li> 10:05 dashboards.rhul.ac.uk</li>
+<li> 10:04 outlook.office.com</li>
+<li> 09:58 chatgpt.com</li>
+<li> 09:58 chat.openai.com</li>
+<li> 09:58 moodle.royalholloway.ac.uk</li>
+<li> 09:58 login.microsoftonline.com</li>
+<li> 09:57 moodle.royalholloway.ac.uk</li>
+<li> 09:57 login.microsoftonline.com</li>
+<li> 09:57 moodle.royalholloway.ac.uk</li>
+<li> 09:57 outlook.office.com</li>
+<li class='same'> 09:56 outlook.office.com</li>
+<li class='same'> 09:55 outlook.office.com</li>
+<li> 09:52 www.ucas.com</li>
+<li> 09:50 digital.ucas.com</li>
+<li> 09:50 www.ucas.com</li>
+<li> 09:48 digital.ucas.com</li>
+<li> 09:48 www.ucas.com</li>
+<li> 09:47 digital.ucas.com</li>
+<li> 09:47 www.ucas.com</li>
+<li> 09:47 digital.ucas.com</li>
+<li> 09:47 www.ucas.com</li>
+<li> 09:46 digital.ucas.com</li>
+<li> 09:45 web.whatsapp.com</li>
+<li> 09:42 digital.ucas.com</li>
 <li> 09:42 www.ucas.com</li>
 <li> 09:42 duckduckgo.com</li>
 <li> 09:21 rhul-my.sharepoint.com</li>
