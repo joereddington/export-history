@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1165)</li>
 <li>duckduckgo.com (846)</li>
 <li>www.amazon.co.uk (676)</li>
-<li>www.theguardian.com (643)</li>
+<li>www.theguardian.com (644)</li>
 <li>chatgpt.com (636)</li>
 <li>calendar.google.com (465)</li>
 <li>rhul-my.sharepoint.com (448)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 30/04/25</H3>
+
+<br>
+
+<ul><li> 16:34 www.theguardian.com</li>
+<li> 16:33 www.mozilla.org</li>
+</ul>
 
 <br>
 
