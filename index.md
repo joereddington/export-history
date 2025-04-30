@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2836)</li>
+<ol><li>www.google.com (2835)</li>
 <li>outlook.office.com (2490)</li>
 <li>mail.google.com (2301)</li>
-<li>docs.google.com (1809)</li>
+<li>docs.google.com (1810)</li>
 <li>bsky.app (1440)</li>
 <li>outlook.office365.com (1260)</li>
 <li>www.facebook.com (1209)</li>
@@ -81,23 +81,23 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (644)</li>
 <li>chatgpt.com (636)</li>
 <li>calendar.google.com (465)</li>
-<li>rhul-my.sharepoint.com (448)</li>
+<li>rhul-my.sharepoint.com (447)</li>
 <li>www.linkedin.com (438)</li>
 <li>moodle.royalholloway.ac.uk (435)</li>
 <li>github.com (398)</li>
 <li>tvtropes.org (331)</li>
-<li>login.microsoftonline.com (316)</li>
+<li>login.microsoftonline.com (314)</li>
 <li>gmail.com (310)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (276)</li>
 <li>feedly.com (257)</li>
-<li>drive.google.com (238)</li>
+<li>drive.google.com (239)</li>
 <li>chat.openai.com (237)</li>
 <li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (188)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (173)</li>
-<li>forms.office.com (148)</li>
+<li>forms.office.com (147)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 30/04/25</H3>
+
+<br>
+
+<ul><li> 17:10 docs.google.com</li>
+<li> 17:10 drive.google.com</li>
+</ul>
 
 <br>
 
@@ -17977,7 +17983,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:37 docs.google.com</li>
 <li class='same'> 18:36 docs.google.com</li>
 <li> 18:35 www.tesco.com</li>
-<li> 18:35 www.google.com</li>
 <li> 18:35 docs.google.com</li>
 <li> 18:34 www.tesco.com</li>
 <li> 18:33 docs.google.com</li>
@@ -18048,13 +18053,8 @@ With number of accesses/minutes in parentheses
 <li> 13:00 outlook.office.com</li>
 <li> 12:56 rhul-my.sharepoint.com</li>
 <li class='same'> 12:55 rhul-my.sharepoint.com</li>
-<li> 12:55 fa000000043.mro1cdnstorage.public.cdn.office.net</li>
-<li> 12:55 login.microsoftonline.com</li>
 <li> 12:53 duckduckgo.com</li>
-<li> 12:53 forms.office.com</li>
-<li> 12:53 login.microsoftonline.com</li>
 <li> 12:52 outlook.office.com</li>
-<li> 12:52 rhul-my.sharepoint.com</li>
 <li> 12:52 forms.office.com</li>
 <li> 12:52 outlook.office.com</li>
 <li> 12:52 forms.office.com</li>
