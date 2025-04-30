@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2836)</li>
-<li>outlook.office.com (2489)</li>
+<li>outlook.office.com (2490)</li>
 <li>mail.google.com (2301)</li>
 <li>docs.google.com (1809)</li>
-<li>bsky.app (1438)</li>
+<li>bsky.app (1440)</li>
 <li>outlook.office365.com (1260)</li>
-<li>www.facebook.com (1205)</li>
+<li>www.facebook.com (1209)</li>
 <li>www.reddit.com (1165)</li>
 <li>duckduckgo.com (846)</li>
 <li>www.amazon.co.uk (676)</li>
 <li>www.theguardian.com (643)</li>
 <li>chatgpt.com (636)</li>
 <li>calendar.google.com (465)</li>
-<li>rhul-my.sharepoint.com (447)</li>
-<li>www.linkedin.com (437)</li>
+<li>rhul-my.sharepoint.com (448)</li>
+<li>www.linkedin.com (438)</li>
 <li>moodle.royalholloway.ac.uk (435)</li>
 <li>github.com (398)</li>
 <li>tvtropes.org (331)</li>
 <li>login.microsoftonline.com (316)</li>
 <li>gmail.com (310)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (275)</li>
+<li>web.whatsapp.com (276)</li>
 <li>feedly.com (257)</li>
 <li>drive.google.com (238)</li>
 <li>chat.openai.com (237)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:41 outlook.office.com</li>
+<ul><li> 12:54 rhul-my.sharepoint.com</li>
+<li> 12:54 outlook.office.com</li>
+<li> 12:47 www.facebook.com</li>
+<li class='same'> 12:46 www.facebook.com</li>
+<li class='same'> 12:45 www.facebook.com</li>
+<li> 12:45 web.whatsapp.com</li>
+<li> 12:45 www.facebook.com</li>
+<li> 12:45 www.linkedin.com</li>
+<li> 12:45 bsky.app</li>
+<li class='same'> 12:44 bsky.app</li>
+<li> 12:41 outlook.office.com</li>
 <li> 12:41 outlook.office365.com</li>
 <li> 12:41 www.linkedin.com</li>
 <li> 12:41 bsky.app</li>
