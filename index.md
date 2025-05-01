@@ -73,9 +73,9 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2301)</li>
 <li>docs.google.com (1819)</li>
 <li>bsky.app (1440)</li>
-<li>outlook.office365.com (1265)</li>
+<li>outlook.office365.com (1271)</li>
 <li>www.facebook.com (1209)</li>
-<li>www.reddit.com (1176)</li>
+<li>www.reddit.com (1178)</li>
 <li>duckduckgo.com (856)</li>
 <li>www.amazon.co.uk (680)</li>
 <li>www.theguardian.com (664)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (238)</li>
 <li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
-<li>rhul.sharepoint.com (191)</li>
+<li>rhul.sharepoint.com (196)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (173)</li>
 <li>forms.office.com (147)</li>
 
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 01/05/25</H3>
+
+<br>
+
+<ul><li> 13:35 outlook.office365.com</li>
+<li> 13:31 rhul.sharepoint.com</li>
+<li> 13:31 intranet.royalholloway.ac.uk</li>
+<li> 13:31 outlook.office365.com</li>
+<li> 13:28 www.reddit.com</li>
+<li class='same'> 13:27 www.reddit.com</li>
+<li> 13:26 www.ebay.co.uk</li>
+<li> 13:18 outlook.office365.com</li>
+<li> 13:16 rhul.sharepoint.com</li>
+<li class='same'> 13:15 rhul.sharepoint.com</li>
+<li> 13:15 outlook.office365.com</li>
+<li> 12:56 rhul.sharepoint.com</li>
+<li> 12:52 <a href="https://www.youtube.com/watch?v=-Skac0UXIXQ&t=13s">Update on the proposed changes to Academic Promotions - Meeting Recording 21/03/2025 - YouTube</a></li>
+<li> 12:52 <a href="https://www.youtube.com/watch?time_continue=13&v=-Skac0UXIXQ&embeds_referring_euri=https%3A%2F%2Fintranet.royalholloway.ac.uk%2F&source_ve_path=Mjg2NjMsMTI3Mjk5LDI4NjY2">Update on the proposed changes to Academic Promotions - Meeting Recording 21/03/2025 - YouTube</a></li>
+<li> 12:51 intranet.royalholloway.ac.uk</li>
+<li> 12:51 rhul.sharepoint.com</li>
+<li> 12:51 intranet.royalholloway.ac.uk</li>
+<li> 12:50 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -40338,6 +40360,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:19 webtimetables.royalholloway.ac.uk</li>
+<li> 11:10 outlook.office365.com</li>
 <li> 11:08 <a href="https://xkcd.com/">xkcd: Stargazing 4</a></li>
 <li> 11:04 www.paypal.com</li>
 <li class='same'> 10:59 www.paypal.com</li>
