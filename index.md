@@ -73,29 +73,29 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2301)</li>
 <li>docs.google.com (1819)</li>
 <li>bsky.app (1440)</li>
-<li>outlook.office365.com (1260)</li>
+<li>outlook.office365.com (1263)</li>
 <li>www.facebook.com (1209)</li>
 <li>www.reddit.com (1176)</li>
-<li>duckduckgo.com (854)</li>
+<li>duckduckgo.com (856)</li>
 <li>www.amazon.co.uk (680)</li>
 <li>www.theguardian.com (664)</li>
 <li>chatgpt.com (637)</li>
-<li>calendar.google.com (465)</li>
+<li>calendar.google.com (467)</li>
 <li>rhul-my.sharepoint.com (449)</li>
 <li>www.linkedin.com (438)</li>
 <li>moodle.royalholloway.ac.uk (435)</li>
 <li>github.com (400)</li>
 <li>tvtropes.org (338)</li>
-<li>login.microsoftonline.com (317)</li>
+<li>login.microsoftonline.com (319)</li>
 <li>gmail.com (310)</li>
+<li>web.whatsapp.com (277)</li>
 <li>fritz.box (276)</li>
-<li>web.whatsapp.com (276)</li>
 <li>feedly.com (258)</li>
 <li>drive.google.com (257)</li>
 <li>chat.openai.com (238)</li>
 <li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
-<li>rhul.sharepoint.com (188)</li>
+<li>rhul.sharepoint.com (190)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (173)</li>
 <li>forms.office.com (147)</li>
 
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:30 www.theguardian.com</li>
+<ul><li> 11:39 www.royalholloway.ac.uk</li>
+<li class='same'> 11:38 www.royalholloway.ac.uk</li>
+<li> 11:38 duckduckgo.com</li>
+<li> 11:38 www.royalholloway.ac.uk</li>
+<li> 11:38 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:58 outlook.office365.com</li>
+<li> 10:56 web.whatsapp.com</li>
+<li> 10:56 calendar.google.com</li>
+<li class='same'> 10:55 calendar.google.com</li>
+<li> 10:52 herts365-my.sharepoint.com</li>
+<li class='same'> 10:50 herts365-my.sharepoint.com</li>
+<li> 10:50 www.microsoft365.com</li>
+<li> 10:50 login.microsoftonline.com</li>
+<li> 10:50 adfs.herts.ac.uk</li>
+<li> 10:50 api-b6327e78.duosecurity.com</li>
+<li> 10:50 adfs.herts.ac.uk</li>
+<li> 10:50 herts.instructure.com</li>
+<li> 10:50 adfs.herts.ac.uk</li>
+<li> 10:47 rhul.sharepoint.com</li>
+<li class='same'> 10:46 rhul.sharepoint.com</li>
+<li> 10:46 outlook.office365.com</li>
+<li> 10:46 login.microsoftonline.com</li>
+<li> 10:46 outlook.office365.com</li>
+<li> 10:30 www.theguardian.com</li>
 <li> 10:30 jobs.theguardian.com</li>
 </ul>
 
