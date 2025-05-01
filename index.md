@@ -77,11 +77,11 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1209)</li>
 <li>www.reddit.com (1193)</li>
 <li>duckduckgo.com (859)</li>
-<li>www.amazon.co.uk (680)</li>
+<li>www.amazon.co.uk (678)</li>
 <li>www.theguardian.com (664)</li>
 <li>chatgpt.com (637)</li>
 <li>calendar.google.com (467)</li>
-<li>rhul-my.sharepoint.com (454)</li>
+<li>rhul-my.sharepoint.com (453)</li>
 <li>moodle.royalholloway.ac.uk (440)</li>
 <li>www.linkedin.com (438)</li>
 <li>github.com (400)</li>
@@ -17988,7 +17988,6 @@ With number of accesses/minutes in parentheses
 <li> 12:35 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:34 docs.google.com</li>
 <li class='same'> 12:33 docs.google.com</li>
-<li> 12:33 rhul-my.sharepoint.com</li>
 <li> 12:33 outlook.office.com</li>
 <li> 12:33 outlook.office365.com</li>
 <li> 12:33 outlook.office.com</li>
@@ -18153,8 +18152,6 @@ With number of accesses/minutes in parentheses
 <li> 07:19 www.amazon.co.uk</li>
 <li> 07:19 feedly.com</li>
 <li> 07:19 www.amazon.co.uk</li>
-<li class='same'> 07:18 www.amazon.co.uk</li>
-<li class='same'> 07:17 www.amazon.co.uk</li>
 <li class='same'> 07:16 www.amazon.co.uk</li>
 <li> 07:16 www.ebay.co.uk</li>
 <li> 07:14 www.reddit.com</li>
