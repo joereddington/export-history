@@ -75,20 +75,20 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1440)</li>
 <li>outlook.office365.com (1271)</li>
 <li>www.facebook.com (1209)</li>
-<li>www.reddit.com (1178)</li>
-<li>duckduckgo.com (856)</li>
+<li>www.reddit.com (1193)</li>
+<li>duckduckgo.com (859)</li>
 <li>www.amazon.co.uk (680)</li>
 <li>www.theguardian.com (664)</li>
 <li>chatgpt.com (637)</li>
 <li>calendar.google.com (467)</li>
-<li>rhul-my.sharepoint.com (449)</li>
+<li>rhul-my.sharepoint.com (454)</li>
+<li>moodle.royalholloway.ac.uk (440)</li>
 <li>www.linkedin.com (438)</li>
-<li>moodle.royalholloway.ac.uk (436)</li>
 <li>github.com (400)</li>
 <li>tvtropes.org (338)</li>
-<li>login.microsoftonline.com (320)</li>
+<li>login.microsoftonline.com (322)</li>
 <li>gmail.com (310)</li>
-<li>web.whatsapp.com (278)</li>
+<li>web.whatsapp.com (279)</li>
 <li>fritz.box (276)</li>
 <li>feedly.com (258)</li>
 <li>drive.google.com (257)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:35 outlook.office365.com</li>
+<ul><li> 14:29 herts.instructure.com</li>
+<li> 14:27 www.thedailymash.co.uk</li>
+<li class='same'> 14:25 www.thedailymash.co.uk</li>
+<li> 14:23 web.whatsapp.com</li>
+<li> 14:22 www.thedailymash.co.uk</li>
+<li> 14:22 duckduckgo.com</li>
+<li> 14:22 herts.instructure.com</li>
+<li> 14:19 www.reddit.com</li>
+<li class='same'> 14:18 www.reddit.com</li>
+<li class='same'> 14:17 www.reddit.com</li>
+<li> 14:15 www.nationalwillregister.co.uk</li>
+<li> 14:14 support.vitalcertificates.co.uk</li>
+<li> 14:14 duckduckgo.com</li>
+<li> 14:12 www.reddit.com</li>
+<li class='same'> 14:11 www.reddit.com</li>
+<li> 14:10 herts.instructure.com</li>
+<li> 14:10 adfs.herts.ac.uk</li>
+<li> 14:07 projects.cs.rhul.ac.uk</li>
+<li> 14:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:03 moodle.royalholloway.ac.uk</li>
+<li> 14:03 login.microsoftonline.com</li>
+<li> 14:03 moodle.royalholloway.ac.uk</li>
+<li> 14:03 login.microsoftonline.com</li>
+<li> 14:03 moodle.royalholloway.ac.uk</li>
+<li> 14:01 rhul-my.sharepoint.com</li>
+<li class='same'> 14:00 rhul-my.sharepoint.com</li>
+<li> 14:00 projects.cs.rhul.ac.uk</li>
+<li> 14:00 rhul-my.sharepoint.com</li>
+<li> 13:58 www.reddit.com</li>
+<li> 13:57 www.scam-detector.com</li>
+<li> 13:56 www.reddit.com</li>
+<li class='same'> 13:55 www.reddit.com</li>
+<li> 13:55 duckduckgo.com</li>
+<li> 13:35 outlook.office365.com</li>
 <li> 13:31 rhul.sharepoint.com</li>
 <li> 13:31 intranet.royalholloway.ac.uk</li>
 <li> 13:31 outlook.office365.com</li>
@@ -36015,6 +36048,8 @@ With number of accesses/minutes in parentheses
 <li> 18:06 calendar.google.com</li>
 <li> 18:04 outlook.office365.com</li>
 <li> 18:03 calendar.google.com</li>
+<li> 18:02 www.reddit.com</li>
+<li class='same'> 18:01 www.reddit.com</li>
 <li> 17:49 discord.com</li>
 <li class='same'> 17:48 discord.com</li>
 <li class='same'> 17:47 discord.com</li>
@@ -36868,6 +36903,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:04 outlook.office.com</li>
 <li> 16:01 moodle.royalholloway.ac.uk</li>
 <li class='same'> 16:00 moodle.royalholloway.ac.uk</li>
+<li> 15:57 rhul-my.sharepoint.com</li>
 <li> 15:32 www.feedly.com</li>
 <li> 15:26 www.linkedin.com</li>
 <li> 15:24 discord.com</li>
@@ -37031,6 +37067,7 @@ With number of accesses/minutes in parentheses
 <li> 14:41 calendar.google.com</li>
 <li> 14:37 outlook.office.com</li>
 <li> 14:34 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 14:26 rhul-my.sharepoint.com</li>
 <li> 14:23 outlook.office.com</li>
 <li class='same'> 14:10 outlook.office.com</li>
 <li class='same'> 14:05 outlook.office.com</li>
@@ -39002,7 +39039,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:46 calendar.google.com</li>
+<ul><li> 19:49 www.reddit.com</li>
+<li class='same'> 19:48 www.reddit.com</li>
+<li class='same'> 19:47 www.reddit.com</li>
+<li> 19:46 calendar.google.com</li>
 </ul>
 
 <br>
@@ -49180,6 +49220,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:02 mail.google.com</li>
 <li> 11:36 www.reddit.com</li>
 <li class='same'> 11:31 www.reddit.com</li>
+<li class='same'> 11:30 www.reddit.com</li>
 <li> 11:26 github.com</li>
 <li class='same'> 11:25 github.com</li>
 <li> 11:22 127.0.0.1:4000</li>
@@ -49265,6 +49306,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:06 discord.com</li>
 <li class='same'> 21:05 discord.com</li>
+<li> 21:04 www.reddit.com</li>
 <li> 20:50 docs.google.com</li>
 <li class='same'> 20:38 docs.google.com</li>
 </ul>
