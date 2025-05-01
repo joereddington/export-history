@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2837)</li>
+<ol><li>www.google.com (2841)</li>
 <li>outlook.office.com (2490)</li>
 <li>mail.google.com (2301)</li>
 <li>docs.google.com (1819)</li>
 <li>bsky.app (1440)</li>
 <li>outlook.office365.com (1260)</li>
 <li>www.facebook.com (1209)</li>
-<li>www.reddit.com (1167)</li>
-<li>duckduckgo.com (849)</li>
+<li>www.reddit.com (1175)</li>
+<li>duckduckgo.com (854)</li>
 <li>www.amazon.co.uk (680)</li>
-<li>www.theguardian.com (650)</li>
-<li>chatgpt.com (636)</li>
+<li>www.theguardian.com (658)</li>
+<li>chatgpt.com (637)</li>
 <li>calendar.google.com (465)</li>
 <li>rhul-my.sharepoint.com (449)</li>
 <li>www.linkedin.com (438)</li>
 <li>moodle.royalholloway.ac.uk (435)</li>
-<li>github.com (398)</li>
+<li>github.com (400)</li>
 <li>tvtropes.org (338)</li>
 <li>login.microsoftonline.com (317)</li>
 <li>gmail.com (310)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (276)</li>
 <li>feedly.com (258)</li>
 <li>drive.google.com (257)</li>
-<li>chat.openai.com (237)</li>
+<li>chat.openai.com (238)</li>
 <li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (188)</li>
@@ -105,6 +105,54 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 01/05/25</H3>
+
+<br>
+
+<ul><li> 07:49 www.google.com</li>
+<li> 07:49 www.theguardian.com</li>
+<li> 07:26 3d.bcn3d.com</li>
+<li> 07:25 www.bcn3d.com</li>
+<li> 07:25 support.bcn3d.com</li>
+<li> 07:25 www.bcn3d.com</li>
+<li> 07:24 github.com</li>
+<li> 07:24 duckduckgo.com</li>
+<li> 07:23 github.com</li>
+<li> 07:23 duckduckgo.com</li>
+<li> 07:23 support.bcn3d.com</li>
+<li> 07:22 www.bcn3d.com</li>
+<li> 07:22 duckduckgo.com</li>
+<li> 07:21 www.printables.com</li>
+<li class='same'> 07:20 www.printables.com</li>
+<li> 07:20 chatgpt.com</li>
+<li> 07:20 chat.openai.com</li>
+<li> 07:19 www.printables.com</li>
+<li> 07:19 duckduckgo.com</li>
+<li> 07:17 www.reddit.com</li>
+<li class='same'> 07:13 www.reddit.com</li>
+<li class='same'> 07:12 www.reddit.com</li>
+<li> 07:11 duckduckgo.com</li>
+<li> 07:11 <a href="https://en.wikipedia.org/wiki/Special:Contributions/197.185.181.113">User contributions for 197.185.181.113 - Wikipedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&diff=1287822910&oldid=1281000288">British Airways data breach: Difference between revisions - Wikipedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/wiki/User:Brandon">User:Brandon - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special:Watchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:08 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
+<li> 07:08 auth.wikimedia.org</li>
+<li> 07:08 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
+<li> 07:08 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:02 www.theguardian.com</li>
+<li class='same'> 07:01 www.theguardian.com</li>
+<li class='same'> 06:54 www.theguardian.com</li>
+<li class='same'> 06:52 www.theguardian.com</li>
+<li class='same'> 06:51 www.theguardian.com</li>
+<li> 06:51 www.reddit.com</li>
+<li> 06:51 www.theguardian.com</li>
+<li> 06:51 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -364,6 +412,17 @@ With number of accesses/minutes in parentheses
 <li> 09:05 chatgpt.com</li>
 <li class='same'> 09:03 chatgpt.com</li>
 <li> 09:03 chat.openai.com</li>
+<li> 08:54 www.reddit.com</li>
+<li class='same'> 08:53 www.reddit.com</li>
+<li class='same'> 08:51 www.reddit.com</li>
+<li> 08:51 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:01 rpstrength.com</li>
+<li> 07:55 news.sky.com</li>
+<li> 07:54 rpstrength.com</li>
 </ul>
 
 <br>
@@ -411,6 +470,15 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:38 mail.google.com</li>
 <li> 19:38 www.gmail.com</li>
 <li> 19:37 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:41 rpstrength.com</li>
+<li> 17:41 www.google.com</li>
+<li> 17:38 rpstrength.com</li>
+<li> 17:38 www.google.com</li>
+<li> 17:37 www.theguardian.com</li>
 </ul>
 
 <br>
