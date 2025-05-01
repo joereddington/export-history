@@ -71,22 +71,22 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2837)</li>
 <li>outlook.office.com (2490)</li>
 <li>mail.google.com (2301)</li>
-<li>docs.google.com (1817)</li>
+<li>docs.google.com (1819)</li>
 <li>bsky.app (1440)</li>
 <li>outlook.office365.com (1260)</li>
 <li>www.facebook.com (1209)</li>
-<li>www.reddit.com (1165)</li>
-<li>duckduckgo.com (848)</li>
-<li>www.amazon.co.uk (679)</li>
+<li>www.reddit.com (1167)</li>
+<li>duckduckgo.com (849)</li>
+<li>www.amazon.co.uk (680)</li>
 <li>www.theguardian.com (650)</li>
 <li>chatgpt.com (636)</li>
 <li>calendar.google.com (465)</li>
-<li>rhul-my.sharepoint.com (447)</li>
+<li>rhul-my.sharepoint.com (449)</li>
 <li>www.linkedin.com (438)</li>
 <li>moodle.royalholloway.ac.uk (435)</li>
 <li>github.com (398)</li>
 <li>tvtropes.org (338)</li>
-<li>login.microsoftonline.com (314)</li>
+<li>login.microsoftonline.com (317)</li>
 <li>gmail.com (310)</li>
 <li>fritz.box (276)</li>
 <li>web.whatsapp.com (276)</li>
@@ -104,11 +104,43 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 01/05/25</H3>
+
+<br>
+
+<ul><li> 06:12 rhul-my.sharepoint.com</li>
+<li> 06:12 login.microsoftonline.com</li>
+<li> 06:12 rhul-my.sharepoint.com</li>
+<li> 06:12 library.herts.ac.uk</li>
+<li> 06:12 www.herts.ac.uk</li>
+<li> 06:11 www.amazon.co.uk</li>
+<li> 06:09 <a href="https://joereddington.com/2025/03/25/space-photos.html">Space Photos | Joe Reddington</a></li>
+<li> 06:09 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:09 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 06:07 docs.google.com</li>
+<li class='same'> 06:06 docs.google.com</li>
+<li> 06:02 www.reddit.com</li>
+<li class='same'> 05:58 www.reddit.com</li>
+<li> 05:56 herts365-my.sharepoint.com</li>
+<li> 05:56 m365.cloud.microsoft</li>
+<li> 05:56 login.microsoftonline.com</li>
+<li> 05:56 herts365-my.sharepoint.com</li>
+<li class='same'> 05:50 herts365-my.sharepoint.com</li>
+<li> 05:50 login.microsoftonline.com</li>
+</ul>
+
 <H3>Wednesday, 30/04/25</H3>
 
 <br>
 
-<ul><li> 21:21 docs.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:24 ask.herts.ac.uk</li>
+<li> 21:24 www.herts.ac.uk</li>
+<li> 21:24 duckduckgo.com</li>
+<li> 21:21 docs.google.com</li>
 <li class='same'> 21:19 docs.google.com</li>
 <li class='same'> 21:18 docs.google.com</li>
 <li class='same'> 21:17 docs.google.com</li>
