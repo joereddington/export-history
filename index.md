@@ -75,10 +75,10 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1440)</li>
 <li>outlook.office365.com (1260)</li>
 <li>www.facebook.com (1209)</li>
-<li>www.reddit.com (1175)</li>
+<li>www.reddit.com (1176)</li>
 <li>duckduckgo.com (854)</li>
 <li>www.amazon.co.uk (680)</li>
-<li>www.theguardian.com (658)</li>
+<li>www.theguardian.com (659)</li>
 <li>chatgpt.com (637)</li>
 <li>calendar.google.com (465)</li>
 <li>rhul-my.sharepoint.com (449)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:49 www.google.com</li>
+<ul><li> 08:06 www.theguardian.com</li>
+<li> 07:49 www.reddit.com</li>
+<li> 07:49 www.google.com</li>
 <li> 07:49 www.theguardian.com</li>
 <li> 07:26 3d.bcn3d.com</li>
 <li> 07:25 www.bcn3d.com</li>
