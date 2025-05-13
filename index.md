@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2936)</li>
+<ol><li>www.google.com (2938)</li>
 <li>outlook.office.com (2565)</li>
-<li>mail.google.com (2424)</li>
+<li>mail.google.com (2425)</li>
 <li>docs.google.com (1890)</li>
 <li>bsky.app (1456)</li>
 <li>outlook.office365.com (1392)</li>
 <li>www.facebook.com (1378)</li>
-<li>www.reddit.com (1312)</li>
+<li>www.reddit.com (1313)</li>
 <li>duckduckgo.com (976)</li>
 <li>www.theguardian.com (771)</li>
 <li>www.amazon.co.uk (703)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (402)</li>
 <li>login.microsoftonline.com (373)</li>
 <li>tvtropes.org (344)</li>
-<li>gmail.com (335)</li>
+<li>gmail.com (336)</li>
 <li>web.whatsapp.com (298)</li>
 <li>fritz.box (277)</li>
 <li>feedly.com (272)</li>
@@ -105,6 +105,32 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 13/05/25</H3>
+
+<br>
+
+<ul><li> 18:44 www.printables.com</li>
+<li> 18:44 account.prusa3d.com</li>
+<li class='same'> 18:43 account.prusa3d.com</li>
+<li> 18:43 www.printables.com</li>
+<li> 18:43 www.google.com</li>
+<li> 18:43 account.prusa3d.com</li>
+<li> 18:43 mail.google.com</li>
+<li> 18:43 accounts.google.com</li>
+<li> 18:43 gmail.com</li>
+<li> 18:43 account.prusa3d.com</li>
+<li class='same'> 18:42 account.prusa3d.com</li>
+<li> 18:42 www.printables.com</li>
+<li> 18:41 www.reddit.com</li>
+<li> 18:41 www.google.com</li>
+<li> 18:40 www.thingiverse.com</li>
+<li class='same'> 18:39 www.thingiverse.com</li>
+<li class='same'> 18:38 www.thingiverse.com</li>
+<li class='same'> 18:37 www.thingiverse.com</li>
+<li class='same'> 18:36 www.thingiverse.com</li>
+<li> 18:36 thingiverse.com</li>
+<li> 18:36 login.thingiverse.com</li>
+<li> 18:36 www.thingiverse.com</li>
+</ul>
 
 <br>
 
