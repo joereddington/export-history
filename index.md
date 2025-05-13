@@ -70,25 +70,25 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2936)</li>
 <li>outlook.office.com (2565)</li>
-<li>mail.google.com (2414)</li>
+<li>mail.google.com (2418)</li>
 <li>docs.google.com (1890)</li>
 <li>bsky.app (1456)</li>
-<li>outlook.office365.com (1382)</li>
+<li>outlook.office365.com (1383)</li>
 <li>www.facebook.com (1377)</li>
-<li>www.reddit.com (1308)</li>
+<li>www.reddit.com (1310)</li>
 <li>duckduckgo.com (974)</li>
-<li>www.theguardian.com (770)</li>
+<li>www.theguardian.com (771)</li>
 <li>www.amazon.co.uk (703)</li>
 <li>chatgpt.com (702)</li>
 <li>calendar.google.com (483)</li>
 <li>rhul-my.sharepoint.com (465)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
-<li>www.linkedin.com (448)</li>
+<li>www.linkedin.com (450)</li>
 <li>github.com (402)</li>
 <li>login.microsoftonline.com (373)</li>
 <li>tvtropes.org (344)</li>
-<li>gmail.com (332)</li>
-<li>web.whatsapp.com (297)</li>
+<li>gmail.com (333)</li>
+<li>web.whatsapp.com (298)</li>
 <li>fritz.box (277)</li>
 <li>feedly.com (272)</li>
 <li>drive.google.com (265)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (230)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (206)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (179)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (180)</li>
 <li>forms.office.com (174)</li>
 
 
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:04 www.theguardian.com</li>
+<ul><li> 16:05 web.whatsapp.com</li>
+<li> 16:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:04 www.linkedin.com</li>
+<li class='same'> 16:02 www.linkedin.com</li>
+<li> 16:01 outlook.office365.com</li>
+<li> 16:01 mail.google.com</li>
+<li> 16:01 service.directlineforbusiness.co.uk</li>
+<li class='same'> 16:00 service.directlineforbusiness.co.uk</li>
+<li class='same'> 15:59 service.directlineforbusiness.co.uk</li>
+<li> 15:59 mail.google.com</li>
+<li class='same'> 15:58 mail.google.com</li>
+<li> 15:58 gmail.com</li>
+<li> 15:58 www.reddit.com</li>
+<li class='same'> 15:57 www.reddit.com</li>
+<li> 15:57 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:28 www.theguardian.com</li>
+<li class='same'> 14:04 www.theguardian.com</li>
 <li> 14:03 mail.google.com</li>
 <li> 14:00 www.facebook.com</li>
 <li> 13:59 mail.google.com</li>
