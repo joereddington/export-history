@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2425)</li>
 <li>docs.google.com (1890)</li>
 <li>bsky.app (1456)</li>
-<li>outlook.office365.com (1392)</li>
+<li>outlook.office365.com (1393)</li>
 <li>www.facebook.com (1379)</li>
 <li>www.reddit.com (1314)</li>
 <li>duckduckgo.com (976)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (703)</li>
 <li>chatgpt.com (702)</li>
 <li>calendar.google.com (483)</li>
-<li>rhul-my.sharepoint.com (466)</li>
+<li>rhul-my.sharepoint.com (467)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
 <li>www.linkedin.com (450)</li>
 <li>github.com (402)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 13/05/25</H3>
+
+<br>
+
+<ul><li> 20:08 rhul-my.sharepoint.com</li>
+<li> 20:07 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -152,7 +158,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:10 duckduckgo.com</li>
+<ul><li> 17:12 www.giantitp.com</li>
+<li class='same'> 17:11 www.giantitp.com</li>
+<li> 17:10 jobs.royalholloway.ac.uk</li>
+<li> 17:10 duckduckgo.com</li>
 <li> 17:10 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 17:09 mail.google.com</li>
 <li> 17:08 outlook.office365.com</li>
