@@ -70,16 +70,16 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2936)</li>
 <li>outlook.office.com (2565)</li>
-<li>mail.google.com (2410)</li>
+<li>mail.google.com (2414)</li>
 <li>docs.google.com (1890)</li>
 <li>bsky.app (1456)</li>
 <li>outlook.office365.com (1382)</li>
-<li>www.facebook.com (1376)</li>
+<li>www.facebook.com (1377)</li>
 <li>www.reddit.com (1308)</li>
-<li>duckduckgo.com (971)</li>
-<li>www.theguardian.com (767)</li>
+<li>duckduckgo.com (974)</li>
+<li>www.theguardian.com (770)</li>
 <li>www.amazon.co.uk (703)</li>
-<li>chatgpt.com (700)</li>
+<li>chatgpt.com (702)</li>
 <li>calendar.google.com (483)</li>
 <li>rhul-my.sharepoint.com (465)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>feedly.com (272)</li>
 <li>drive.google.com (265)</li>
-<li>chat.openai.com (258)</li>
+<li>chat.openai.com (259)</li>
 <li>qbo.intuit.com (230)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (206)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:14 mail.google.com</li>
+<ul><li> 14:04 www.theguardian.com</li>
+<li> 14:03 mail.google.com</li>
+<li> 14:00 www.facebook.com</li>
+<li> 13:59 mail.google.com</li>
+<li> 13:31 teams.microsoft.com</li>
+<li> 13:31 mail.google.com</li>
+<li> 13:30 www.hesa.ac.uk</li>
+<li> 13:30 <a href="https://en.wikipedia.org/wiki/Ravensbourne_University_London">Ravensbourne University London - Wikipedia</a></li>
+<li> 13:30 duckduckgo.com</li>
+<li> 13:28 www.thecompleteuniversityguide.co.uk</li>
+<li> 13:26 jobs.ravensbourne.ac.uk</li>
+<li> 13:26 www.thecompleteuniversityguide.co.uk</li>
+<li> 13:25 jobs.ravensbourne.ac.uk</li>
+<li> 13:25 chatgpt.com</li>
+<li class='same'> 13:24 chatgpt.com</li>
+<li> 13:24 chat.openai.com</li>
+<li> 13:24 www.thecompleteuniversityguide.co.uk</li>
+<li class='same'> 13:23 www.thecompleteuniversityguide.co.uk</li>
+<li> 13:23 duckduckgo.com</li>
+<li> 13:22 www.theguardian.com</li>
+<li> 13:21 teams.microsoft.com</li>
+<li> 13:18 qmucu.org</li>
+<li> 13:18 duckduckgo.com</li>
+<li> 13:17 mail.google.com</li>
+<li class='same'> 13:14 mail.google.com</li>
 <li> 13:11 www.thingiverse.com</li>
 <li class='same'> 13:07 www.thingiverse.com</li>
 <li class='same'> 13:06 www.thingiverse.com</li>
@@ -203,7 +227,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:55 duckduckgo.com</li>
 <li> 10:55 mail.google.com</li>
 <li> 10:55 gmail.com</li>
-<li> 10:43 www.theguardian.com</li>
+<li> 10:47 www.theguardian.com</li>
+<li class='same'> 10:43 www.theguardian.com</li>
 <li> 10:41 <a href="https://www.youtube.com/watch?v=qgC_E7p7_q0">Secure Attendance Tracking System - YouTube</a></li>
 <li> 10:41 <a href="https://www.youtube.com/watch?v=qgC_E7p7_q0&feature=youtu.be">Secure Attendance Tracking System - YouTube</a></li>
 <li> 10:39 mail.google.com</li>
@@ -43586,7 +43611,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:15 mail.google.com</li>
+<ul><li> 10:16 service.directlineforbusiness.co.uk</li>
+<li> 10:15 mail.google.com</li>
 <li> 10:05 artofmemory.com</li>
 <li> 09:59 store.steampowered.com</li>
 <li class='same'> 09:58 store.steampowered.com</li>
@@ -43870,6 +43896,7 @@ With number of accesses/minutes in parentheses
 <li> 11:22 www.amazon.co.uk</li>
 <li> 11:11 calendar.google.com</li>
 <li class='same'> 11:10 calendar.google.com</li>
+<li> 11:09 service.directlineforbusiness.co.uk</li>
 <li> 11:09 mail.google.com</li>
 </ul>
 
