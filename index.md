@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2936)</li>
-<li>outlook.office.com (2566)</li>
-<li>mail.google.com (2408)</li>
+<li>outlook.office.com (2565)</li>
+<li>mail.google.com (2409)</li>
 <li>docs.google.com (1890)</li>
 <li>bsky.app (1456)</li>
 <li>outlook.office365.com (1382)</li>
@@ -81,23 +81,23 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (703)</li>
 <li>chatgpt.com (700)</li>
 <li>calendar.google.com (483)</li>
-<li>rhul-my.sharepoint.com (467)</li>
+<li>rhul-my.sharepoint.com (465)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
 <li>www.linkedin.com (448)</li>
 <li>github.com (402)</li>
-<li>login.microsoftonline.com (374)</li>
+<li>login.microsoftonline.com (373)</li>
 <li>tvtropes.org (344)</li>
-<li>gmail.com (331)</li>
+<li>gmail.com (332)</li>
 <li>web.whatsapp.com (297)</li>
 <li>fritz.box (277)</li>
 <li>feedly.com (272)</li>
 <li>drive.google.com (265)</li>
 <li>chat.openai.com (258)</li>
-<li>qbo.intuit.com (232)</li>
+<li>qbo.intuit.com (230)</li>
 <li>www.coursera.org (208)</li>
-<li>rhul.sharepoint.com (207)</li>
+<li>rhul.sharepoint.com (206)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (179)</li>
-<li>forms.office.com (175)</li>
+<li>forms.office.com (174)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:59 mail.google.com</li>
+<ul><li> 13:11 www.thingiverse.com</li>
+<li class='same'> 13:07 www.thingiverse.com</li>
+<li class='same'> 13:06 www.thingiverse.com</li>
+<li class='same'> 13:05 www.thingiverse.com</li>
+<li class='same'> 13:04 www.thingiverse.com</li>
+<li class='same'> 13:03 www.thingiverse.com</li>
+<li> 13:02 workspace.google.com</li>
+<li> 13:02 mail.google.com</li>
+<li> 13:02 accounts.google.com</li>
+<li> 13:02 gmail.com</li>
+<li> 13:00 www.thingiverse.com</li>
+<li> 12:59 mail.google.com</li>
 <li> 12:58 service.directlineforbusiness.co.uk</li>
 <li> 12:58 www.google.com</li>
 <li> 12:58 service.directlineforbusiness.co.uk</li>
@@ -20006,7 +20017,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:56 outlook.office.com</li>
 <li> 12:56 outlook.office365.com</li>
 <li> 12:56 mail.google.com</li>
-<li> 12:55 rhul-my.sharepoint.com</li>
 <li> 12:53 rhul.sharepoint.com</li>
 <li class='same'> 12:50 rhul.sharepoint.com</li>
 <li> 12:50 rhul-my.sharepoint.com</li>
@@ -20106,8 +20116,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:11 mail.google.com</li>
 <li> 10:11 outlook.office.com</li>
 <li class='same'> 10:10 outlook.office.com</li>
-<li> 10:10 rhul.sharepoint.com</li>
-<li> 10:10 outlook.office.com</li>
 <li> 10:10 outlook.office365.com</li>
 <li> 10:10 outlook.office.com</li>
 <li> 10:09 mail.google.com</li>
@@ -20150,9 +20158,6 @@ With number of accesses/minutes in parentheses
 <li> 09:30 outlook.office365.com</li>
 <li> 09:28 forms.office.com</li>
 <li> 09:28 login.microsoftonline.com</li>
-<li> 09:28 rhul-my.sharepoint.com</li>
-<li> 09:28 forms.office.com</li>
-<li> 09:28 login.microsoftonline.com</li>
 <li> 09:28 forms.office.com</li>
 <li> 09:25 dashboards.rhul.ac.uk</li>
 <li> 09:24 projects.cs.rhul.ac.uk</li>
@@ -20178,13 +20183,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:04 qbo.intuit.com</li>
 <li class='same'> 09:03 qbo.intuit.com</li>
 <li class='same'> 09:02 qbo.intuit.com</li>
-<li> 09:02 financialdocument.platform.intuit.com</li>
-<li> 09:02 qbo.intuit.com</li>
 <li class='same'> 09:01 qbo.intuit.com</li>
 <li class='same'> 09:00 qbo.intuit.com</li>
 <li class='same'> 08:59 qbo.intuit.com</li>
-<li> 08:59 financialdocument.platform.intuit.com</li>
-<li> 08:59 qbo.intuit.com</li>
 <li class='same'> 08:58 qbo.intuit.com</li>
 <li class='same'> 08:57 qbo.intuit.com</li>
 <li class='same'> 08:56 qbo.intuit.com</li>
