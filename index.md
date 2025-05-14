@@ -70,17 +70,17 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2951)</li>
 <li>outlook.office.com (2565)</li>
-<li>mail.google.com (2432)</li>
-<li>docs.google.com (1903)</li>
+<li>mail.google.com (2434)</li>
+<li>docs.google.com (1905)</li>
 <li>bsky.app (1456)</li>
 <li>outlook.office365.com (1405)</li>
-<li>www.facebook.com (1385)</li>
+<li>www.facebook.com (1390)</li>
 <li>www.reddit.com (1325)</li>
 <li>duckduckgo.com (979)</li>
 <li>www.theguardian.com (776)</li>
 <li>www.amazon.co.uk (705)</li>
 <li>chatgpt.com (703)</li>
-<li>calendar.google.com (485)</li>
+<li>calendar.google.com (486)</li>
 <li>rhul-my.sharepoint.com (467)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
 <li>www.linkedin.com (450)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 14/05/25</H3>
+
+<br>
+
+<ul><li> 13:36 www.facebook.com</li>
+<li class='same'> 13:35 www.facebook.com</li>
+<li class='same'> 13:32 www.facebook.com</li>
+<li class='same'> 13:29 www.facebook.com</li>
+<li class='same'> 13:28 www.facebook.com</li>
+<li> 13:28 docs.google.com</li>
+<li class='same'> 13:27 docs.google.com</li>
+<li> 13:26 calendar.google.com</li>
+<li> 13:26 mail.google.com</li>
+<li class='same'> 13:25 mail.google.com</li>
+</ul>
 
 <br>
 
