@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2956)</li>
+<ol><li>www.google.com (2957)</li>
 <li>outlook.office.com (2565)</li>
 <li>mail.google.com (2438)</li>
 <li>docs.google.com (1927)</li>
 <li>bsky.app (1457)</li>
-<li>outlook.office365.com (1407)</li>
+<li>outlook.office365.com (1408)</li>
 <li>www.facebook.com (1392)</li>
-<li>www.reddit.com (1326)</li>
-<li>duckduckgo.com (981)</li>
+<li>www.reddit.com (1327)</li>
+<li>duckduckgo.com (982)</li>
 <li>www.theguardian.com (780)</li>
 <li>www.amazon.co.uk (705)</li>
 <li>chatgpt.com (704)</li>
 <li>calendar.google.com (486)</li>
 <li>rhul-my.sharepoint.com (467)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
-<li>www.linkedin.com (450)</li>
+<li>www.linkedin.com (454)</li>
 <li>github.com (402)</li>
 <li>login.microsoftonline.com (374)</li>
 <li>tvtropes.org (349)</li>
 <li>gmail.com (339)</li>
-<li>web.whatsapp.com (301)</li>
+<li>web.whatsapp.com (302)</li>
 <li>fritz.box (277)</li>
 <li>drive.google.com (276)</li>
 <li>feedly.com (273)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:44 duckduckgo.com</li>
+<ul><li> 20:40 www.reddit.com</li>
+<li> 20:39 web.whatsapp.com</li>
+<li> 20:33 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 20:28 newmediawritingprize.co.uk</li>
+<li> 20:25 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 20:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 20:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 20:21 www.linkedin.com</li>
+<li class='same'> 20:20 www.linkedin.com</li>
+<li> 20:14 outlook.office365.com</li>
+<li> 20:14 pay.ebay.co.uk</li>
+<li> 20:12 publish.buffer.com</li>
+<li> 20:12 login.buffer.com</li>
+<li> 20:12 buffer.com</li>
+<li> 20:12 www.paypal.com</li>
+<li> 20:10 lyleskains.com</li>
+<li> 20:10 staffprofiles.bournemouth.ac.uk</li>
+<li> 20:10 pay.ebay.co.uk</li>
+<li> 20:10 cart.ebay.co.uk</li>
+<li> 20:09 www.ebay.co.uk</li>
+<li class='same'> 20:08 www.ebay.co.uk</li>
+<li> 20:08 staffprofiles.bournemouth.ac.uk</li>
+<li> 20:08 duckduckgo.com</li>
+<li> 20:06 <a href="https://joereddington.com/paperwriting/#slide1">Effective Collaborative Paper Writing</a></li>
+<li> 20:06 <a href="https://joereddington.com/paperwriting/">Effective Collaborative Paper Writing</a></li>
+</ul>
+
+<br>
+
+<ul><li> 19:06 51.148.131.133:8008</li>
+<li class='same'> 18:56 51.148.131.133:8008</li>
+<li> 18:56 www.google.com</li>
+<li> 18:44 duckduckgo.com</li>
 <li class='same'> 18:43 duckduckgo.com</li>
 <li> 18:31 bournemouth-ac-uk.zoom.us</li>
 <li> 18:31 mail.google.com</li>
@@ -39083,6 +39115,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:01 x.com</li>
 <li class='same'> 17:48 x.com</li>
+<li> 17:44 www.linkedin.com</li>
 <li> 17:43 kdpreports.amazon.com</li>
 <li class='same'> 17:42 kdpreports.amazon.com</li>
 <li> 17:42 kdp.amazon.com</li>
@@ -42143,7 +42176,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:11 qbo.intuit.com</li>
 <li> 12:06 mail.google.com</li>
 <li> 11:50 calendar.google.com</li>
-<li class='same'> 11:47 calendar.google.com</li>
+<li> 11:49 staffprofiles.bournemouth.ac.uk</li>
+<li> 11:47 calendar.google.com</li>
 <li class='same'> 11:46 calendar.google.com</li>
 <li> 11:39 www.facebook.com</li>
 <li> 11:31 equalitytime.github.io</li>
@@ -48089,7 +48123,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:58 twitter.com</li>
+<ul><li> 20:06 www.linkedin.com</li>
+<li> 19:58 twitter.com</li>
 <li> 19:58 x.com</li>
 <li> 19:57 www.instagram.com</li>
 <li class='same'> 19:56 www.instagram.com</li>
@@ -52064,6 +52099,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 11:21 github.com</li>
 <li class='same'> 10:57 github.com</li>
 <li class='same'> 10:56 github.com</li>
+<li> 10:50 staffprofiles.bournemouth.ac.uk</li>
 </ul>
 
 <br>
