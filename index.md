@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2954)</li>
+<ol><li>www.google.com (2951)</li>
 <li>outlook.office.com (2565)</li>
 <li>mail.google.com (2432)</li>
 <li>docs.google.com (1903)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1405)</li>
 <li>www.facebook.com (1385)</li>
 <li>www.reddit.com (1325)</li>
-<li>duckduckgo.com (981)</li>
+<li>duckduckgo.com (979)</li>
 <li>www.theguardian.com (776)</li>
 <li>www.amazon.co.uk (705)</li>
 <li>chatgpt.com (703)</li>
@@ -19400,7 +19400,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:06 docs.google.com</li>
 <li class='same'> 07:05 docs.google.com</li>
 <li class='same'> 07:04 docs.google.com</li>
-<li> 07:04 www.google.com</li>
 <li> 07:03 www.su.rhul.ac.uk</li>
 <li> 07:03 www.ukesf.org</li>
 <li> 07:02 www.cs.rhul.ac.uk</li>
@@ -19813,8 +19812,6 @@ With number of accesses/minutes in parentheses
 <li> 15:11 www.zoro.co.uk</li>
 <li> 15:11 duckduckgo.com</li>
 <li> 15:11 www.google.com</li>
-<li> 15:11 duckduckgo.com</li>
-<li> 15:11 www.google.com</li>
 <li> 15:09 www.screwfix.com</li>
 <li> 15:09 duckduckgo.com</li>
 <li> 15:09 <a href="https://www.youtube.com/shorts/y6nfycF8fSI">(135) Pivot hinges for cabinet #diycrafts #carpenter - YouTube</a></li>
@@ -19924,11 +19921,9 @@ With number of accesses/minutes in parentheses
 <li> 11:28 tplinkwifi.net</li>
 <li> 11:28 www.tp-link.com</li>
 <li> 11:28 www.google.com</li>
-<li class='same'> 11:26 www.google.com</li>
 <li> 11:25 duckduckgo.com</li>
 <li> 11:25 fritz.box</li>
 <li> 11:24 www.gadcet.com</li>
-<li> 11:24 duckduckgo.com</li>
 <li> 11:24 www.tp-link.com</li>
 <li> 11:24 duckduckgo.com</li>
 <li> 11:20 fritz.box</li>
