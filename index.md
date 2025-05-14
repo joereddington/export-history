@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2956)</li>
 <li>outlook.office.com (2565)</li>
 <li>mail.google.com (2437)</li>
-<li>docs.google.com (1908)</li>
+<li>docs.google.com (1921)</li>
 <li>bsky.app (1457)</li>
 <li>outlook.office365.com (1405)</li>
 <li>www.facebook.com (1392)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (374)</li>
 <li>tvtropes.org (349)</li>
 <li>gmail.com (338)</li>
-<li>web.whatsapp.com (299)</li>
+<li>web.whatsapp.com (300)</li>
 <li>fritz.box (277)</li>
 <li>drive.google.com (276)</li>
 <li>feedly.com (272)</li>
@@ -108,9 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:52 51.148.131.133:8008</li>
-<li class='same'> 16:49 51.148.131.133:8008</li>
+<ul><li> 17:17 docs.google.com</li>
+<li class='same'> 17:10 docs.google.com</li>
+<li> 17:09 www.projectreal.co.uk</li>
+<li> 17:09 docs.google.com</li>
+<li class='same'> 17:08 docs.google.com</li>
+<li class='same'> 17:07 docs.google.com</li>
+<li> 17:07 equalitytime.co.uk</li>
+<li> 17:06 equalitytime.github.io</li>
+<li> 17:06 www.tightrope.co.uk</li>
+<li> 17:05 docs.google.com</li>
+<li class='same'> 17:04 docs.google.com</li>
+<li class='same'> 17:03 docs.google.com</li>
+<li class='same'> 17:02 docs.google.com</li>
+<li> 17:02 www.projectreal.co.uk</li>
+<li> 17:00 docs.google.com</li>
+<li> 17:00 www.whitewaterwriters.com</li>
+<li> 16:59 whitewaterwriters.com</li>
+<li> 16:59 docs.google.com</li>
+<li class='same'> 16:53 docs.google.com</li>
+<li> 16:52 51.148.131.133:8008</li>
+<li> 16:50 docs.google.com</li>
+<li> 16:49 51.148.131.133:8008</li>
 <li> 16:49 www.google.com</li>
+<li> 16:48 web.whatsapp.com</li>
 <li> 16:47 www.facebook.com</li>
 <li> 16:37 mail.google.com</li>
 <li> 16:37 newmediawritingprize.co.uk</li>
@@ -34276,12 +34297,15 @@ With number of accesses/minutes in parentheses
 <li> 18:43 equalitytime.github.io</li>
 <li> 18:43 www.whitewaterwriters.com</li>
 <li> 18:43 whitewaterwriters.com</li>
+<li> 18:43 www.whitewaterwriters.com</li>
+<li> 18:43 whitewaterwriters.com</li>
 <li> 18:43 equalitytime.github.io</li>
 <li> 18:43 www.whitewaterwriters.com</li>
 <li> 18:43 whitewaterwriters.com</li>
 <li> 18:43 equalitytime.github.io</li>
 <li> 18:43 www.whitewaterwriters.com</li>
 <li> 18:43 github.com</li>
+<li> 18:43 www.whitewaterwriters.com</li>
 <li> 18:43 whitewaterwriters.com</li>
 <li> 18:43 equalitytime.github.io</li>
 <li> 18:43 www.whitewaterwriters.com</li>
@@ -38621,6 +38645,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:02 qbo.intuit.com</li>
 <li> 07:02 app.qbo.intuit.com</li>
 <li> 06:52 equalitytime.co.uk</li>
+<li> 06:52 equalitytime.github.io</li>
 <li> 06:43 www.dropbox.com</li>
 <li class='same'> 06:41 www.dropbox.com</li>
 <li> 06:40 www.doxdirect.com</li>
@@ -39894,6 +39919,7 @@ With number of accesses/minutes in parentheses
 <li> 07:13 docs.google.com</li>
 <li> 07:13 drive.google.com</li>
 <li> 07:12 equalitytime.co.uk</li>
+<li> 07:12 equalitytime.github.io</li>
 <li> 07:06 drive.google.com</li>
 </ul>
 
@@ -41913,6 +41939,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:44 equalitytime.co.uk</li>
+<li> 06:44 equalitytime.github.io</li>
 <li> 06:33 mail.google.com</li>
 <li> 06:33 claude.ai</li>
 <li class='same'> 06:32 claude.ai</li>
@@ -44030,6 +44057,7 @@ With number of accesses/minutes in parentheses
 <li> 12:10 accounts.google.com</li>
 <li> 12:05 equalitytime.github.io</li>
 <li> 11:52 equalitytime.co.uk</li>
+<li> 11:52 equalitytime.github.io</li>
 <li> 11:39 theopenvoicefactory.org</li>
 <li> 11:32 equalitytime.github.io</li>
 <li> 11:19 docs.google.com</li>
