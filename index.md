@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2954)</li>
 <li>outlook.office.com (2565)</li>
-<li>mail.google.com (2429)</li>
-<li>docs.google.com (1895)</li>
+<li>mail.google.com (2430)</li>
+<li>docs.google.com (1897)</li>
 <li>bsky.app (1456)</li>
-<li>outlook.office365.com (1399)</li>
+<li>outlook.office365.com (1404)</li>
 <li>www.facebook.com (1385)</li>
 <li>www.reddit.com (1325)</li>
 <li>duckduckgo.com (976)</li>
@@ -88,9 +88,9 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (374)</li>
 <li>tvtropes.org (349)</li>
 <li>gmail.com (337)</li>
-<li>web.whatsapp.com (298)</li>
+<li>web.whatsapp.com (299)</li>
 <li>fritz.box (277)</li>
-<li>drive.google.com (274)</li>
+<li>drive.google.com (275)</li>
 <li>feedly.com (272)</li>
 <li>chat.openai.com (260)</li>
 <li>qbo.intuit.com (230)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:47 newmediawritingprize.co.uk</li>
+<li> 11:46 docs.google.com</li>
+<li> 11:46 drive.google.com</li>
+<li> 11:45 docs.google.com</li>
+<li> 11:44 outlook.office365.com</li>
+<li class='same'> 11:43 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:58 mail.google.com</li>
+<li> 10:58 outlook.office365.com</li>
+<li class='same'> 10:57 outlook.office365.com</li>
+<li class='same'> 10:56 outlook.office365.com</li>
+</ul>
+
+<br>
+
 <ul><li> 09:14 www.theguardian.com</li>
+<li> 09:10 web.whatsapp.com</li>
 <li> 09:10 www.facebook.com</li>
 <li class='same'> 09:09 www.facebook.com</li>
 <li class='same'> 09:08 www.facebook.com</li>
