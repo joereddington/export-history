@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2954)</li>
 <li>outlook.office.com (2565)</li>
-<li>mail.google.com (2430)</li>
-<li>docs.google.com (1897)</li>
+<li>mail.google.com (2432)</li>
+<li>docs.google.com (1903)</li>
 <li>bsky.app (1456)</li>
-<li>outlook.office365.com (1404)</li>
+<li>outlook.office365.com (1405)</li>
 <li>www.facebook.com (1385)</li>
 <li>www.reddit.com (1325)</li>
-<li>duckduckgo.com (976)</li>
+<li>duckduckgo.com (981)</li>
 <li>www.theguardian.com (776)</li>
 <li>www.amazon.co.uk (705)</li>
 <li>chatgpt.com (703)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (402)</li>
 <li>login.microsoftonline.com (374)</li>
 <li>tvtropes.org (349)</li>
-<li>gmail.com (337)</li>
+<li>gmail.com (338)</li>
 <li>web.whatsapp.com (299)</li>
 <li>fritz.box (277)</li>
 <li>drive.google.com (275)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:47 newmediawritingprize.co.uk</li>
+<ul><li> 12:17 outlook.office365.com</li>
+<li> 12:17 mail.google.com</li>
+<li> 12:17 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 12:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:16 docs.google.com</li>
+<li class='same'> 12:15 docs.google.com</li>
+<li class='same'> 12:14 docs.google.com</li>
+<li> 12:13 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:13 docs.google.com</li>
+<li> 12:08 duckduckgo.com</li>
+<li> 12:08 docs.google.com</li>
+<li class='same'> 12:06 docs.google.com</li>
+<li> 12:06 duckduckgo.com</li>
+<li class='same'> 12:03 duckduckgo.com</li>
+<li class='same'> 12:02 duckduckgo.com</li>
+<li class='same'> 12:01 duckduckgo.com</li>
+<li> 11:57 newmediawritingprize.co.uk</li>
+<li class='same'> 11:56 newmediawritingprize.co.uk</li>
+<li class='same'> 11:55 newmediawritingprize.co.uk</li>
+<li> 11:55 mail.google.com</li>
+<li> 11:55 gmail.com</li>
+<li> 11:47 newmediawritingprize.co.uk</li>
 <li> 11:46 docs.google.com</li>
 <li> 11:46 drive.google.com</li>
 <li> 11:45 docs.google.com</li>
