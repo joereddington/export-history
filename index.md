@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2956)</li>
 <li>outlook.office.com (2565)</li>
-<li>mail.google.com (2437)</li>
-<li>docs.google.com (1921)</li>
+<li>mail.google.com (2438)</li>
+<li>docs.google.com (1927)</li>
 <li>bsky.app (1457)</li>
-<li>outlook.office365.com (1405)</li>
+<li>outlook.office365.com (1407)</li>
 <li>www.facebook.com (1392)</li>
-<li>www.reddit.com (1325)</li>
-<li>duckduckgo.com (979)</li>
-<li>www.theguardian.com (778)</li>
+<li>www.reddit.com (1326)</li>
+<li>duckduckgo.com (981)</li>
+<li>www.theguardian.com (780)</li>
 <li>www.amazon.co.uk (705)</li>
 <li>chatgpt.com (704)</li>
 <li>calendar.google.com (486)</li>
@@ -87,16 +87,16 @@ With number of accesses/minutes in parentheses
 <li>github.com (402)</li>
 <li>login.microsoftonline.com (374)</li>
 <li>tvtropes.org (349)</li>
-<li>gmail.com (338)</li>
-<li>web.whatsapp.com (300)</li>
+<li>gmail.com (339)</li>
+<li>web.whatsapp.com (301)</li>
 <li>fritz.box (277)</li>
 <li>drive.google.com (276)</li>
-<li>feedly.com (272)</li>
+<li>feedly.com (273)</li>
 <li>chat.openai.com (261)</li>
 <li>qbo.intuit.com (230)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (206)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (185)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (186)</li>
 <li>forms.office.com (174)</li>
 
 
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:17 docs.google.com</li>
+<ul><li> 18:44 duckduckgo.com</li>
+<li class='same'> 18:43 duckduckgo.com</li>
+<li> 18:31 bournemouth-ac-uk.zoom.us</li>
+<li> 18:31 mail.google.com</li>
+<li> 18:31 gmail.com</li>
+<li> 18:30 adfs.herts.ac.uk</li>
+<li> 18:30 outlook.office365.com</li>
+<li> 18:05 web.whatsapp.com</li>
+<li> 18:05 www.giantitp.com</li>
+<li> 18:04 docs.google.com</li>
+<li> 18:04 discord.com</li>
+<li class='same'> 18:03 discord.com</li>
+<li> 18:03 outlook.office365.com</li>
+<li> 18:03 discord.com</li>
+<li> 18:02 www.reddit.com</li>
+<li> 18:01 51.148.131.133:8008</li>
+<li> 18:01 feedly.com</li>
+<li> 18:00 www.theguardian.com</li>
+<li class='same'> 17:58 www.theguardian.com</li>
+<li> 17:58 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:25 docs.google.com</li>
+<li class='same'> 17:24 docs.google.com</li>
+<li class='same'> 17:23 docs.google.com</li>
+<li> 17:21 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 17:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:20 docs.google.com</li>
+<li class='same'> 17:17 docs.google.com</li>
 <li class='same'> 17:10 docs.google.com</li>
 <li> 17:09 www.projectreal.co.uk</li>
 <li> 17:09 docs.google.com</li>
