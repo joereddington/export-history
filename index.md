@@ -70,33 +70,33 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2944)</li>
 <li>outlook.office.com (2565)</li>
-<li>mail.google.com (2425)</li>
-<li>docs.google.com (1890)</li>
+<li>mail.google.com (2428)</li>
+<li>docs.google.com (1895)</li>
 <li>bsky.app (1456)</li>
-<li>outlook.office365.com (1395)</li>
-<li>www.facebook.com (1379)</li>
-<li>www.reddit.com (1314)</li>
+<li>outlook.office365.com (1397)</li>
+<li>www.facebook.com (1380)</li>
+<li>www.reddit.com (1319)</li>
 <li>duckduckgo.com (976)</li>
 <li>www.theguardian.com (773)</li>
-<li>www.amazon.co.uk (703)</li>
+<li>www.amazon.co.uk (704)</li>
 <li>chatgpt.com (703)</li>
-<li>calendar.google.com (483)</li>
+<li>calendar.google.com (485)</li>
 <li>rhul-my.sharepoint.com (467)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
 <li>www.linkedin.com (450)</li>
 <li>github.com (402)</li>
 <li>login.microsoftonline.com (373)</li>
 <li>tvtropes.org (349)</li>
-<li>gmail.com (336)</li>
+<li>gmail.com (337)</li>
 <li>web.whatsapp.com (298)</li>
 <li>fritz.box (277)</li>
 <li>feedly.com (272)</li>
-<li>drive.google.com (265)</li>
+<li>drive.google.com (267)</li>
 <li>chat.openai.com (260)</li>
 <li>qbo.intuit.com (230)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (206)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (184)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (185)</li>
 <li>forms.office.com (174)</li>
 
 
@@ -104,7 +104,51 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 14/05/25</H3>
+
+<br>
+
+<ul><li> 07:47 www.reddit.com</li>
+<li class='same'> 07:46 www.reddit.com</li>
+<li class='same'> 07:43 www.reddit.com</li>
+<li class='same'> 07:42 www.reddit.com</li>
+<li class='same'> 07:41 www.reddit.com</li>
+<li> 07:26 docs.google.com</li>
+<li class='same'> 07:25 docs.google.com</li>
+<li class='same'> 07:24 docs.google.com</li>
+<li> 07:24 drive.google.com</li>
+<li> 07:24 docs.google.com</li>
+<li> 07:24 drive.google.com</li>
+<li> 07:23 mail.google.com</li>
+<li> 07:23 gmail.com</li>
+<li> 07:23 www.facebook.com</li>
+<li> 07:22 www.amazon.co.uk</li>
+<li> 07:21 www.pcspecialist.co.uk</li>
+<li class='same'> 07:20 www.pcspecialist.co.uk</li>
+<li> 07:19 discord.com</li>
+<li> 07:15 <a href="https://www.youtube.com/watch?v=YQQ6nnOL6G4">What do you wish your parents knew about your online life? - YouTube</a></li>
+<li> 07:15 <a href="https://www.youtube.com/watch?v=YQQ6nnOL6G4&feature=youtu.be">What do you wish your parents knew about your online life? - YouTube</a></li>
+<li> 07:14 studio.youtube.com</li>
+<li> 07:14 calendar.google.com</li>
+<li class='same'> 07:13 calendar.google.com</li>
+<li> 07:11 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:11 mail.google.com</li>
+<li> 06:54 studio.youtube.com</li>
+<li> 06:54 <a href="https://www.youtube.com/watch?v=SpG_vSTFr0A">What do you wish your parents knew about your online life? - YouTube</a></li>
+<li> 06:54 <a href="https://www.youtube.com/watch?v=SpG_vSTFr0A&embeds_referring_euri=https%3A%2F%2Fwww.projectreal.co.uk%2F&source_ve_path=OTY3MTQ">What do you wish your parents knew about your online life? - YouTube</a></li>
+<li> 06:53 www.projectreal.co.uk</li>
+<li> 06:53 studio.youtube.com</li>
+<li> 06:53 <a href="https://www.youtube.com/">YouTube</a></li>
+<li> 06:52 mail.google.com</li>
+<li> 06:52 outlook.office365.com</li>
+<li class='same'> 06:50 outlook.office365.com</li>
+</ul>
+
 <H3>Tuesday, 13/05/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -40485,6 +40529,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:31 docs.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:08 www.linkedin.com</li>
 <li> 13:07 outlook.office.com</li>
 <li> 12:38 analytics.google.com</li>
@@ -52812,7 +52861,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:40 mail.google.com</li>
-<li> 13:16 www.pcspecialist.co.uk</li>
+<li> 13:17 www.pcspecialist.co.uk</li>
+<li class='same'> 13:16 www.pcspecialist.co.uk</li>
 </ul>
 
 <br>
