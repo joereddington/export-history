@@ -70,28 +70,28 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2957)</li>
 <li>outlook.office.com (2565)</li>
-<li>mail.google.com (2438)</li>
+<li>mail.google.com (2439)</li>
 <li>docs.google.com (1927)</li>
 <li>bsky.app (1457)</li>
-<li>outlook.office365.com (1408)</li>
+<li>outlook.office365.com (1410)</li>
 <li>www.facebook.com (1392)</li>
-<li>www.reddit.com (1327)</li>
+<li>www.reddit.com (1333)</li>
 <li>duckduckgo.com (982)</li>
 <li>www.theguardian.com (780)</li>
 <li>www.amazon.co.uk (705)</li>
 <li>chatgpt.com (704)</li>
-<li>calendar.google.com (486)</li>
+<li>calendar.google.com (487)</li>
 <li>rhul-my.sharepoint.com (467)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
-<li>www.linkedin.com (454)</li>
+<li>www.linkedin.com (455)</li>
 <li>github.com (402)</li>
 <li>login.microsoftonline.com (374)</li>
 <li>tvtropes.org (349)</li>
-<li>gmail.com (339)</li>
+<li>gmail.com (340)</li>
 <li>web.whatsapp.com (302)</li>
 <li>fritz.box (277)</li>
 <li>drive.google.com (276)</li>
-<li>feedly.com (273)</li>
+<li>feedly.com (274)</li>
 <li>chat.openai.com (261)</li>
 <li>qbo.intuit.com (230)</li>
 <li>www.coursera.org (208)</li>
@@ -104,11 +104,38 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 15/05/25</H3>
+
+<br>
+
+<ul><li> 06:59 feedly.com</li>
+<li> 06:59 mail.google.com</li>
+<li> 06:59 gmail.com</li>
+<li> 06:59 calendar.google.com</li>
+<li> 06:59 outlook.office365.com</li>
+<li class='same'> 06:58 outlook.office365.com</li>
+<li> 06:58 www.printables.com</li>
+<li> 06:58 account.prusa3d.com</li>
+<li> 06:57 www.printables.com</li>
+<li class='same'> 06:56 www.printables.com</li>
+</ul>
+
 <H3>Wednesday, 14/05/25</H3>
 
 <br>
 
-<ul><li> 20:40 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:48 www.reddit.com</li>
+<li class='same'> 20:46 www.reddit.com</li>
+<li class='same'> 20:45 www.reddit.com</li>
+<li class='same'> 20:44 www.reddit.com</li>
+<li> 20:44 www.linkedin.com</li>
+<li> 20:42 www.reddit.com</li>
+<li class='same'> 20:41 www.reddit.com</li>
+<li class='same'> 20:40 www.reddit.com</li>
 <li> 20:39 web.whatsapp.com</li>
 <li> 20:33 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
 <li> 20:28 newmediawritingprize.co.uk</li>
