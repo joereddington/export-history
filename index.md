@@ -76,10 +76,10 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1432)</li>
 <li>www.facebook.com (1393)</li>
 <li>www.reddit.com (1333)</li>
-<li>duckduckgo.com (984)</li>
+<li>duckduckgo.com (985)</li>
 <li>www.theguardian.com (780)</li>
-<li>www.amazon.co.uk (708)</li>
-<li>chatgpt.com (704)</li>
+<li>www.amazon.co.uk (709)</li>
+<li>chatgpt.com (705)</li>
 <li>calendar.google.com (489)</li>
 <li>rhul-my.sharepoint.com (471)</li>
 <li>www.linkedin.com (458)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>drive.google.com (276)</li>
 <li>feedly.com (275)</li>
-<li>chat.openai.com (261)</li>
+<li>chat.openai.com (262)</li>
 <li>qbo.intuit.com (230)</li>
 <li>rhul.sharepoint.com (209)</li>
 <li>www.coursera.org (208)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:35 calendar.google.com</li>
+<ul><li> 18:22 www.ebay.co.uk</li>
+<li> 18:22 uk.redbrain.shop</li>
+<li> 18:22 duckduckgo.com</li>
+<li> 18:22 www.amazon.co.uk</li>
+<li> 17:59 chatgpt.com</li>
+<li> 17:59 chat.openai.com</li>
+<li> 17:35 calendar.google.com</li>
 <li> 17:32 www.amazon.co.uk</li>
 <li> 17:32 duckduckgo.com</li>
 <li> 17:32 docs.google.com</li>
