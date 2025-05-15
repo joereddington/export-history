@@ -19070,9 +19070,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:23 www.google.co.uk</li>
 <li> 07:23 library.lsbu.ac.uk</li>
 <li> 07:23 duckduckgo.com</li>
-<li> 07:23 www.google.co.uk</li>
-<li class='same'> 07:22 www.google.co.uk</li>
-<li class='same'> 07:21 www.google.co.uk</li>
+<li> 07:21 www.google.co.uk</li>
 <li> 07:21 duckduckgo.com</li>
 <li> 07:18 chatgpt.com</li>
 <li> 07:18 chat.openai.com</li>
