@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2957)</li>
-<li>outlook.office.com (2565)</li>
-<li>mail.google.com (2439)</li>
+<li>outlook.office.com (2566)</li>
+<li>mail.google.com (2441)</li>
 <li>docs.google.com (1927)</li>
 <li>bsky.app (1457)</li>
-<li>outlook.office365.com (1410)</li>
+<li>outlook.office365.com (1413)</li>
 <li>www.facebook.com (1392)</li>
 <li>www.reddit.com (1333)</li>
 <li>duckduckgo.com (982)</li>
@@ -81,13 +81,13 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (705)</li>
 <li>chatgpt.com (704)</li>
 <li>calendar.google.com (487)</li>
-<li>rhul-my.sharepoint.com (467)</li>
+<li>rhul-my.sharepoint.com (468)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
 <li>www.linkedin.com (455)</li>
 <li>github.com (402)</li>
-<li>login.microsoftonline.com (374)</li>
+<li>login.microsoftonline.com (377)</li>
 <li>tvtropes.org (349)</li>
-<li>gmail.com (340)</li>
+<li>gmail.com (343)</li>
 <li>web.whatsapp.com (302)</li>
 <li>fritz.box (277)</li>
 <li>drive.google.com (276)</li>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 15/05/25</H3>
+
+<br>
+
+<ul><li> 11:51 outlook.office.com</li>
+<li> 11:51 login.microsoftonline.com</li>
+<li> 11:51 m365.cloud.microsoft</li>
+<li> 11:51 login.microsoftonline.com</li>
+<li> 11:50 adfs.herts.ac.uk</li>
+<li> 11:50 api-b6327e78.duosecurity.com</li>
+<li> 11:50 adfs.herts.ac.uk</li>
+<li> 11:50 rhul-my.sharepoint.com</li>
+<li> 11:50 outlook.office365.com</li>
+<li class='same'> 11:49 outlook.office365.com</li>
+<li> 11:49 login.microsoftonline.com</li>
+<li> 11:49 outlook.office365.com</li>
+<li> 11:47 www.thingiverse.com</li>
+<li> 11:44 www.printables.com</li>
+<li class='same'> 11:43 www.printables.com</li>
+<li> 11:42 mail.google.com</li>
+<li> 11:42 gmail.com</li>
+<li> 11:41 mail.google.com</li>
+<li> 11:41 gmail.com</li>
+<li class='same'> 11:40 gmail.com</li>
+</ul>
 
 <br>
 
