@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2963)</li>
+<ol><li>www.google.com (2960)</li>
 <li>outlook.office.com (2566)</li>
 <li>mail.google.com (2441)</li>
 <li>docs.google.com (1929)</li>
@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (458)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
 <li>github.com (402)</li>
-<li>login.microsoftonline.com (380)</li>
-<li>tvtropes.org (353)</li>
+<li>login.microsoftonline.com (379)</li>
+<li>tvtropes.org (354)</li>
 <li>gmail.com (343)</li>
 <li>web.whatsapp.com (305)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:43 tvtropes.org</li>
+<ul><li> 10:44 tvtropes.org</li>
+<li class='same'> 10:43 tvtropes.org</li>
 <li class='same'> 10:35 tvtropes.org</li>
 <li class='same'> 10:29 tvtropes.org</li>
 <li class='same'> 10:27 tvtropes.org</li>
@@ -18279,8 +18280,7 @@ With number of accesses/minutes in parentheses
 <li> 14:37 mail.google.com</li>
 <li class='same'> 14:36 mail.google.com</li>
 <li> 14:36 www.doxdirect.com</li>
-<li> 14:35 www.paypal.com</li>
-<li> 14:35 www.doxdirect.com</li>
+<li class='same'> 14:35 www.doxdirect.com</li>
 <li class='same'> 14:34 www.doxdirect.com</li>
 <li class='same'> 14:33 www.doxdirect.com</li>
 <li class='same'> 14:32 www.doxdirect.com</li>
@@ -18346,7 +18346,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:03 outlook.office.com</li>
 <li class='same'> 11:02 outlook.office.com</li>
 <li> 11:02 mysignins.microsoft.com</li>
-<li> 11:02 login.microsoftonline.com</li>
 <li> 11:02 account.activedirectory.windowsazure.com</li>
 <li> 11:02 login.microsoftonline.com</li>
 <li> 11:02 account.activedirectory.windowsazure.com</li>
@@ -18534,9 +18533,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:18 hackaday.com</li>
 <li class='same'> 18:17 hackaday.com</li>
-<li> 18:16 www.ebay.co.uk</li>
-<li class='same'> 18:15 www.ebay.co.uk</li>
-<li class='same'> 18:14 www.ebay.co.uk</li>
+<li> 18:14 www.ebay.co.uk</li>
 <li> 18:13 hackaday.com</li>
 <li class='same'> 18:12 hackaday.com</li>
 <li class='same'> 18:11 hackaday.com</li>
@@ -18565,7 +18562,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:38 bsky.app</li>
 <li class='same'> 16:37 bsky.app</li>
 <li class='same'> 16:25 bsky.app</li>
-<li> 16:25 www.google.com</li>
 <li> 16:25 www.linkedin.com</li>
 <li class='same'> 16:24 www.linkedin.com</li>
 <li> 16:24 www.google.com</li>
@@ -18592,13 +18588,11 @@ With number of accesses/minutes in parentheses
 <li> 15:40 duckduckgo.com</li>
 <li> 15:38 docs.google.com</li>
 <li> 15:36 www.tesco.com</li>
-<li> 15:36 www.google.com</li>
 <li> 15:33 www.hotelchocolat.com</li>
 <li> 15:33 duckduckgo.com</li>
 <li> 15:29 www.aupress.ca</li>
 <li> 15:28 shimamurapubs.wordpress.com</li>
 <li> 15:27 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
-<li> 15:27 login.openathens.net</li>
 <li> 15:27 login.microsoftonline.com</li>
 <li> 15:26 rl.talis.com</li>
 <li> 15:25 moodle.royalholloway.ac.uk</li>
@@ -18654,10 +18648,7 @@ With number of accesses/minutes in parentheses
 <li> 17:45 creativecloud.adobe.com</li>
 <li> 17:45 productrouter.adobe.com</li>
 <li> 17:45 commerce.adobe.com</li>
-<li> 17:45 www.paypal.com</li>
-<li class='same'> 17:44 www.paypal.com</li>
-<li class='same'> 17:43 www.paypal.com</li>
-<li class='same'> 17:42 www.paypal.com</li>
+<li> 17:43 www.paypal.com</li>
 <li> 17:42 commerce.adobe.com</li>
 <li> 17:41 www.adobe.com</li>
 <li> 17:41 duckduckgo.com</li>
@@ -19090,8 +19081,7 @@ With number of accesses/minutes in parentheses
 <li> 09:13 <a href="https://en.wikipedia.org/wiki/The_Poppy_Field_near_Argenteuil">The Poppy Field near Argenteuil - Wikipedia</a></li>
 <li> 09:13 duckduckgo.com</li>
 <li> 09:12 <a href="https://en.wikipedia.org/wiki/A_Girl_with_a_Watering_Can">A Girl with a Watering Can - Wikipedia</a></li>
-<li> 09:12 www.google.com</li>
-<li class='same'> 09:11 www.google.com</li>
+<li> 09:11 www.google.com</li>
 <li> 09:10 www.vincentvangogh.org</li>
 <li> 09:10 duckduckgo.com</li>
 <li> 09:10 www.google.co.uk</li>
