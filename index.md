@@ -70,33 +70,33 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2960)</li>
 <li>outlook.office.com (2566)</li>
-<li>mail.google.com (2441)</li>
-<li>docs.google.com (1929)</li>
+<li>mail.google.com (2446)</li>
+<li>docs.google.com (1930)</li>
 <li>bsky.app (1457)</li>
 <li>outlook.office365.com (1432)</li>
-<li>www.facebook.com (1393)</li>
-<li>www.reddit.com (1353)</li>
-<li>duckduckgo.com (991)</li>
+<li>www.facebook.com (1394)</li>
+<li>www.reddit.com (1359)</li>
+<li>duckduckgo.com (992)</li>
 <li>www.theguardian.com (780)</li>
-<li>www.amazon.co.uk (709)</li>
+<li>www.amazon.co.uk (715)</li>
 <li>chatgpt.com (709)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
-<li>www.linkedin.com (459)</li>
+<li>www.linkedin.com (460)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
 <li>github.com (407)</li>
 <li>login.microsoftonline.com (379)</li>
 <li>tvtropes.org (357)</li>
-<li>gmail.com (343)</li>
-<li>web.whatsapp.com (305)</li>
+<li>gmail.com (345)</li>
+<li>web.whatsapp.com (306)</li>
+<li>drive.google.com (279)</li>
+<li>feedly.com (277)</li>
 <li>fritz.box (277)</li>
-<li>drive.google.com (276)</li>
-<li>feedly.com (276)</li>
 <li>chat.openai.com (266)</li>
 <li>qbo.intuit.com (230)</li>
 <li>rhul.sharepoint.com (211)</li>
 <li>www.coursera.org (208)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (191)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (192)</li>
 <li>forms.office.com (177)</li>
 
 
@@ -108,7 +108,62 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:57 www.reddit.com</li>
+<ul><li> 16:52 feedly.com</li>
+<li> 16:52 www.linkedin.com</li>
+<li> 16:51 duckduckgo.com</li>
+<li> 16:50 www.amazon.co.uk</li>
+<li class='same'> 16:49 www.amazon.co.uk</li>
+<li> 16:49 www.ebay.co.uk</li>
+<li class='same'> 16:45 www.ebay.co.uk</li>
+<li class='same'> 16:44 www.ebay.co.uk</li>
+<li class='same'> 16:43 www.ebay.co.uk</li>
+<li> 16:41 www.reddit.com</li>
+<li class='same'> 16:39 www.reddit.com</li>
+<li> 16:37 www.thingiverse.com</li>
+<li> 16:36 web.whatsapp.com</li>
+<li> 16:36 docs.google.com</li>
+<li> 16:36 drive.google.com</li>
+<li> 16:35 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:30 www.amazon.co.uk</li>
+<li> 16:29 www.reddit.com</li>
+<li class='same'> 16:28 www.reddit.com</li>
+<li> 16:28 www.facebook.com</li>
+<li> 16:24 www.thingiverse.com</li>
+<li> 16:24 pay.ebay.co.uk</li>
+<li> 16:16 www.ebay.co.uk</li>
+<li class='same'> 16:15 www.ebay.co.uk</li>
+<li class='same'> 16:14 www.ebay.co.uk</li>
+<li> 16:14 www.amazon.co.uk</li>
+<li class='same'> 16:13 www.amazon.co.uk</li>
+<li class='same'> 16:12 www.amazon.co.uk</li>
+<li> 16:11 <a href="https://www.youtube.com/watch?v=0KcTbvWC9CA">Fixing a broken shower head holder - YouTube</a></li>
+<li> 16:11 <a href="https://www.youtube.com/results?search_query=shower+head+holder+installation">shower head holder installation - YouTube</a></li>
+<li> 16:10 <a href="https://www.youtube.com/shorts/6XRq__NQC34">Chrome Shower Rail Head Slider Holder Adjustable Bracket - YouTube</a></li>
+<li> 16:10 <a href="https://www.youtube.com/results?search_query=shower+head+holder+installation">shower head holder installation - YouTube</a></li>
+<li> 16:09 <a href="https://www.youtube.com/watch?v=3fM01lgRD5s">Shower head holder replacement - Trydiy - YouTube</a></li>
+<li> 16:09 <a href="https://www.youtube.com/watch?v=U7b8heYIUjU">How to Install the Wall Mount Shower Holder - YouTube</a></li>
+<li> 16:09 <a href="https://www.youtube.com/results?search_query=shower+holder+installation">shower holder installation - YouTube</a></li>
+<li> 16:09 <a href="https://www.youtube.com/shorts/nsUwb48uKXI">how to replace a shower rail with two different style attachments - YouTube</a></li>
+<li> 16:08 <a href="https://www.youtube.com/results?search_query=shower+holder+installation">shower holder installation - YouTube</a></li>
+<li> 16:08 <a href="https://www.youtube.com/shorts/aNvPSBqcMl0">How to install a wall bracket pt. 1 #showerhead #amazonfinds #rainshower #cleaning - YouTube</a></li>
+<li> 16:08 <a href="https://www.youtube.com/shorts/irHvjSPsrB4">Handheld shower bracket installation video - YouTube</a></li>
+<li> 16:08 <a href="https://www.youtube.com/shorts/gmIbfJS2X50">Attaching Universal Shower Head Holder onto Holder Rod - YouTube</a></li>
+<li> 16:08 <a href="https://www.youtube.com/results?search_query=shower+holder+installation">shower holder installation - YouTube</a></li>
+<li> 16:08 <a href="https://www.youtube.com/">YouTube</a></li>
+<li> 16:07 mail.google.com</li>
+<li class='same'> 16:06 mail.google.com</li>
+<li class='same'> 16:05 mail.google.com</li>
+<li> 16:03 drive.google.com</li>
+<li class='same'> 16:02 drive.google.com</li>
+<li> 16:02 mail.google.com</li>
+<li> 16:02 gmail.com</li>
+<li> 16:01 mail.google.com</li>
+<li> 16:01 accounts.google.com</li>
+<li> 16:01 gmail.com</li>
+<li> 16:00 discord.com</li>
+<li> 16:00 www.reddit.com</li>
+<li class='same'> 15:59 www.reddit.com</li>
+<li class='same'> 15:57 www.reddit.com</li>
 <li> 15:55 tvtropes.org</li>
 <li class='same'> 15:54 tvtropes.org</li>
 <li class='same'> 15:53 tvtropes.org</li>
