@@ -75,28 +75,28 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1457)</li>
 <li>outlook.office365.com (1432)</li>
 <li>www.facebook.com (1393)</li>
-<li>www.reddit.com (1341)</li>
-<li>duckduckgo.com (990)</li>
+<li>www.reddit.com (1353)</li>
+<li>duckduckgo.com (991)</li>
 <li>www.theguardian.com (780)</li>
 <li>www.amazon.co.uk (709)</li>
-<li>chatgpt.com (707)</li>
+<li>chatgpt.com (709)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
 <li>www.linkedin.com (459)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
-<li>github.com (402)</li>
+<li>github.com (407)</li>
 <li>login.microsoftonline.com (379)</li>
-<li>tvtropes.org (354)</li>
+<li>tvtropes.org (357)</li>
 <li>gmail.com (343)</li>
 <li>web.whatsapp.com (305)</li>
 <li>fritz.box (277)</li>
 <li>drive.google.com (276)</li>
 <li>feedly.com (276)</li>
-<li>chat.openai.com (264)</li>
+<li>chat.openai.com (266)</li>
 <li>qbo.intuit.com (230)</li>
 <li>rhul.sharepoint.com (211)</li>
 <li>www.coursera.org (208)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (189)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (191)</li>
 <li>forms.office.com (177)</li>
 
 
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:39 www.buzzfeed.com</li>
+<ul><li> 15:57 www.reddit.com</li>
+<li> 15:55 tvtropes.org</li>
+<li class='same'> 15:54 tvtropes.org</li>
+<li class='same'> 15:53 tvtropes.org</li>
+<li> 15:53 duckduckgo.com</li>
+<li> 15:52 127.0.0.1:4000</li>
+<li class='same'> 15:50 127.0.0.1:4000</li>
+<li class='same'> 15:42 127.0.0.1:4000</li>
+<li> 15:41 www.reddit.com</li>
+<li> 15:39 chatgpt.com</li>
+<li> 15:39 chat.openai.com</li>
+<li> 15:38 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:37 www.paypal.com</li>
+<li> 15:37 equalitytime.github.io</li>
+<li class='same'> 15:36 equalitytime.github.io</li>
+<li> 15:34 theopenvoicefactory.org</li>
+<li> 15:33 equalitytime.github.io</li>
+<li> 15:28 chatgpt.com</li>
+<li> 15:28 chat.openai.com</li>
+<li> 15:27 github.com</li>
+<li class='same'> 15:26 github.com</li>
+<li class='same'> 15:25 github.com</li>
+<li> 15:25 equalitytime.github.io</li>
+<li> 15:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:21 www.reddit.com</li>
+<li class='same'> 15:19 www.reddit.com</li>
+<li class='same'> 15:18 www.reddit.com</li>
+<li class='same'> 15:16 www.reddit.com</li>
+<li class='same'> 15:15 www.reddit.com</li>
+<li class='same'> 15:14 www.reddit.com</li>
+<li class='same'> 15:12 www.reddit.com</li>
+<li class='same'> 15:11 www.reddit.com</li>
+<li class='same'> 15:10 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:40 www.reddit.com</li>
+<li> 13:40 www.giantitp.com</li>
+<li> 13:39 www.buzzfeed.com</li>
 <li class='same'> 13:36 www.buzzfeed.com</li>
 <li class='same'> 13:30 www.buzzfeed.com</li>
 <li class='same'> 13:26 www.buzzfeed.com</li>
@@ -42946,6 +42985,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:02 x.com</li>
 <li class='same'> 17:01 x.com</li>
 <li> 16:59 equalitytime.github.io</li>
+<li> 16:56 127.0.0.1:4000</li>
+<li class='same'> 16:50 127.0.0.1:4000</li>
 <li> 16:46 www.paypal.com</li>
 <li> 16:46 jekyllrb.com</li>
 <li> 16:41 www.paypal.com</li>
@@ -42998,7 +43039,8 @@ With number of accesses/minutes in parentheses
 <li> 07:35 equalitytime.github.io</li>
 <li> 07:12 qbo.intuit.com</li>
 <li class='same'> 07:11 qbo.intuit.com</li>
-<li class='same'> 06:59 qbo.intuit.com</li>
+<li> 07:01 equalitytime.github.io</li>
+<li> 06:59 qbo.intuit.com</li>
 </ul>
 
 <H3>Wednesday, 03/07/24</H3>
@@ -43735,7 +43777,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:34 www.paypal.com</li>
+<ul><li> 11:34 equalitytime.github.io</li>
+<li> 11:34 www.paypal.com</li>
 <li> 11:32 accounts.intuit.com</li>
 <li> 11:23 www.google.com</li>
 <li> 11:08 outlook.office.com</li>
@@ -44073,7 +44116,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:22 www.disneyplus.com</li>
 <li class='same'> 12:21 www.disneyplus.com</li>
-<li> 12:16 equalitytime.github.io</li>
+<li> 12:17 equalitytime.github.io</li>
+<li class='same'> 12:16 equalitytime.github.io</li>
+<li class='same'> 12:14 equalitytime.github.io</li>
 <li class='same'> 12:13 equalitytime.github.io</li>
 <li> 12:13 www.reddit.com</li>
 <li class='same'> 12:11 www.reddit.com</li>
@@ -44307,6 +44352,7 @@ With number of accesses/minutes in parentheses
 <li> 11:52 equalitytime.github.io</li>
 <li> 11:39 theopenvoicefactory.org</li>
 <li> 11:32 equalitytime.github.io</li>
+<li class='same'> 11:25 equalitytime.github.io</li>
 <li> 11:19 docs.google.com</li>
 <li class='same'> 11:17 docs.google.com</li>
 <li> 11:13 www.paypal.com</li>
@@ -44320,6 +44366,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:00 equalitytime.github.io</li>
 <li> 07:54 whitewaterwriters.com</li>
 <li> 07:52 www.paypal.com</li>
+<li> 07:47 github.com</li>
+<li> 07:47 equalitytime.github.io</li>
 </ul>
 
 <br>
@@ -44334,6 +44382,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:31 theopenvoicefactory.org</li>
 <li> 06:26 equalitytime.github.io</li>
+<li> 06:25 github.com</li>
 <li> 06:19 www.paypal.com</li>
 <li class='same'> 06:16 www.paypal.com</li>
 <li> 06:15 docs.google.com</li>
@@ -52613,11 +52662,8 @@ With number of accesses/minutes in parentheses
 <li> 12:22 <a href="https://stackoverflow.com/users/170243/joe">User Joe - Stack Overflow</a></li>
 <li> 12:12 accounts.google.co.uk</li>
 <li> 11:59 equalitytime.github.io</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 11:14 equalitytime.github.io</li>
+<li> 11:29 127.0.0.1:4000</li>
+<li> 11:14 equalitytime.github.io</li>
 <li> 11:03 www.tightrope.co.uk</li>
 <li> 11:02 accounts.google.com</li>
 <li> 11:02 www.gmail.com</li>
@@ -52691,6 +52737,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:37 www.dropbox.com</li>
+<li> 13:26 127.0.0.1:4000</li>
 <li> 13:18 docs.google.com</li>
 <li> 13:07 equalitytime.github.io</li>
 <li> 12:44 calendar.google.com</li>
@@ -52743,7 +52790,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:26 docs.google.com</li>
+<ul><li> 11:30 127.0.0.1:4000</li>
+<li> 11:26 docs.google.com</li>
+<li> 11:24 127.0.0.1:4000</li>
 <li> 11:04 equalitytime.github.io</li>
 </ul>
 
@@ -53556,6 +53605,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:56 analytics.google.com</li>
+<li> 15:52 127.0.0.1:4000</li>
 </ul>
 
 <br>
