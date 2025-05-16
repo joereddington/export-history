@@ -75,12 +75,12 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1457)</li>
 <li>outlook.office365.com (1432)</li>
 <li>www.facebook.com (1393)</li>
-<li>www.reddit.com (1333)</li>
-<li>duckduckgo.com (985)</li>
+<li>www.reddit.com (1337)</li>
+<li>duckduckgo.com (987)</li>
 <li>www.theguardian.com (780)</li>
 <li>www.amazon.co.uk (709)</li>
 <li>chatgpt.com (705)</li>
-<li>calendar.google.com (489)</li>
+<li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
 <li>www.linkedin.com (458)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (230)</li>
 <li>rhul.sharepoint.com (209)</li>
 <li>www.coursera.org (208)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (187)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (188)</li>
 <li>forms.office.com (177)</li>
 
 
@@ -104,7 +104,38 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 16/05/25</H3>
+
+<br>
+
+<ul><li> 07:53 projects.cs.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 07:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:20 www.reddit.com</li>
+<li class='same'> 07:19 www.reddit.com</li>
+<li class='same'> 07:17 www.reddit.com</li>
+<li class='same'> 07:13 www.reddit.com</li>
+<li> 07:12 duckduckgo.com</li>
+<li> 07:09 <a href="https://www.youtube.com/watch?v=TQfhY5oJ_Sc">Reverse Lunge - YouTube</a></li>
+<li> 07:08 www.reuters.com</li>
+<li> 07:08 duckduckgo.com</li>
+<li> 07:05 <a href="https://www.youtube.com/results?search_query=renaissance+periodization+lunges">renaissance periodization lunges - YouTube</a></li>
+<li> 07:05 <a href="https://www.youtube.com/">YouTube</a></li>
+</ul>
+
+<br>
+
+<ul><li> 00:09 calendar.google.com</li>
+</ul>
+
 <H3>Thursday, 15/05/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
