@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2957)</li>
+<ol><li>www.google.com (2963)</li>
 <li>outlook.office.com (2566)</li>
 <li>mail.google.com (2441)</li>
 <li>docs.google.com (1929)</li>
@@ -76,23 +76,23 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1432)</li>
 <li>www.facebook.com (1393)</li>
 <li>www.reddit.com (1337)</li>
-<li>duckduckgo.com (988)</li>
+<li>duckduckgo.com (989)</li>
 <li>www.theguardian.com (780)</li>
 <li>www.amazon.co.uk (709)</li>
-<li>chatgpt.com (706)</li>
+<li>chatgpt.com (707)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
 <li>www.linkedin.com (458)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
 <li>github.com (402)</li>
 <li>login.microsoftonline.com (380)</li>
-<li>tvtropes.org (349)</li>
+<li>tvtropes.org (353)</li>
 <li>gmail.com (343)</li>
 <li>web.whatsapp.com (305)</li>
 <li>fritz.box (277)</li>
 <li>drive.google.com (276)</li>
 <li>feedly.com (275)</li>
-<li>chat.openai.com (263)</li>
+<li>chat.openai.com (264)</li>
 <li>qbo.intuit.com (230)</li>
 <li>rhul.sharepoint.com (209)</li>
 <li>www.coursera.org (208)</li>
@@ -108,16 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:24 web.whatsapp.com</li>
+<ul><li> 10:43 tvtropes.org</li>
+<li class='same'> 10:35 tvtropes.org</li>
+<li class='same'> 10:29 tvtropes.org</li>
+<li class='same'> 10:27 tvtropes.org</li>
+<li> 10:27 www.google.com</li>
+<li> 10:27 www.buzzfeed.com</li>
+<li> 10:06 chatgpt.com</li>
+<li> 10:06 chat.openai.com</li>
+<li> 10:06 duckduckgo.com</li>
+<li> 10:02 www.buzzfeed.com</li>
+<li> 10:02 www.google.com</li>
+<li> 09:41 www.jobs.ac.uk</li>
+<li> 09:24 web.whatsapp.com</li>
 <li> 09:10 serverfault.com</li>
 <li> 09:10 duckduckgo.com</li>
 <li> 09:09 chatgpt.com</li>
 <li> 09:09 chat.openai.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:01 projects.cs.rhul.ac.uk</li>
+<li> 08:52 www.google.com</li>
+<li class='same'> 08:51 www.google.com</li>
+<li class='same'> 08:28 www.google.com</li>
+<li> 08:28 www.qwant.com</li>
+<li> 08:28 www.google.com</li>
+<li> 08:28 www.qwant.com</li>
+<li> 08:28 51.148.131.133:8008</li>
+<li> 08:01 projects.cs.rhul.ac.uk</li>
 <li class='same'> 08:00 projects.cs.rhul.ac.uk</li>
 <li class='same'> 07:59 projects.cs.rhul.ac.uk</li>
 <li class='same'> 07:53 projects.cs.rhul.ac.uk</li>
@@ -151,7 +166,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:22 www.ebay.co.uk</li>
+<ul><li> 18:35 51.148.131.133:8008</li>
+<li> 18:22 www.ebay.co.uk</li>
 <li> 18:22 uk.redbrain.shop</li>
 <li> 18:22 duckduckgo.com</li>
 <li> 18:22 www.amazon.co.uk</li>
