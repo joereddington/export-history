@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1394)</li>
 <li>www.reddit.com (1359)</li>
 <li>duckduckgo.com (992)</li>
-<li>www.theguardian.com (780)</li>
+<li>www.theguardian.com (782)</li>
 <li>www.amazon.co.uk (715)</li>
 <li>chatgpt.com (709)</li>
 <li>calendar.google.com (490)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (379)</li>
 <li>tvtropes.org (357)</li>
 <li>gmail.com (345)</li>
-<li>web.whatsapp.com (306)</li>
+<li>web.whatsapp.com (307)</li>
 <li>drive.google.com (279)</li>
 <li>feedly.com (277)</li>
 <li>fritz.box (277)</li>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 16/05/25</H3>
+
+<br>
+
+<ul><li> 18:09 web.whatsapp.com</li>
+<li> 18:08 www.theguardian.com</li>
+<li class='same'> 18:07 www.theguardian.com</li>
+<li> 18:00 www.thingiverse.com</li>
+</ul>
 
 <br>
 
