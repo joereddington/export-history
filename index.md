@@ -76,10 +76,10 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1432)</li>
 <li>www.facebook.com (1393)</li>
 <li>www.reddit.com (1337)</li>
-<li>duckduckgo.com (987)</li>
+<li>duckduckgo.com (988)</li>
 <li>www.theguardian.com (780)</li>
 <li>www.amazon.co.uk (709)</li>
-<li>chatgpt.com (705)</li>
+<li>chatgpt.com (706)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
 <li>www.linkedin.com (458)</li>
@@ -88,11 +88,11 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (380)</li>
 <li>tvtropes.org (349)</li>
 <li>gmail.com (343)</li>
-<li>web.whatsapp.com (304)</li>
+<li>web.whatsapp.com (305)</li>
 <li>fritz.box (277)</li>
 <li>drive.google.com (276)</li>
 <li>feedly.com (275)</li>
-<li>chat.openai.com (262)</li>
+<li>chat.openai.com (263)</li>
 <li>qbo.intuit.com (230)</li>
 <li>rhul.sharepoint.com (209)</li>
 <li>www.coursera.org (208)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:53 projects.cs.rhul.ac.uk</li>
+<ul><li> 09:24 web.whatsapp.com</li>
+<li> 09:10 serverfault.com</li>
+<li> 09:10 duckduckgo.com</li>
+<li> 09:09 chatgpt.com</li>
+<li> 09:09 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:01 projects.cs.rhul.ac.uk</li>
+<li class='same'> 08:00 projects.cs.rhul.ac.uk</li>
+<li class='same'> 07:59 projects.cs.rhul.ac.uk</li>
+<li class='same'> 07:53 projects.cs.rhul.ac.uk</li>
 </ul>
 
 <br>
