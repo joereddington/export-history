@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1457)</li>
 <li>outlook.office365.com (1432)</li>
 <li>www.facebook.com (1393)</li>
-<li>www.reddit.com (1337)</li>
-<li>duckduckgo.com (989)</li>
+<li>www.reddit.com (1341)</li>
+<li>duckduckgo.com (990)</li>
 <li>www.theguardian.com (780)</li>
 <li>www.amazon.co.uk (709)</li>
 <li>chatgpt.com (707)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
-<li>www.linkedin.com (458)</li>
+<li>www.linkedin.com (459)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
 <li>github.com (402)</li>
 <li>login.microsoftonline.com (379)</li>
@@ -91,12 +91,12 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (305)</li>
 <li>fritz.box (277)</li>
 <li>drive.google.com (276)</li>
-<li>feedly.com (275)</li>
+<li>feedly.com (276)</li>
 <li>chat.openai.com (264)</li>
 <li>qbo.intuit.com (230)</li>
-<li>rhul.sharepoint.com (209)</li>
+<li>rhul.sharepoint.com (211)</li>
 <li>www.coursera.org (208)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (188)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (189)</li>
 <li>forms.office.com (177)</li>
 
 
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 16/05/25</H3>
+
+<br>
+
+<ul><li> 13:39 www.buzzfeed.com</li>
+<li class='same'> 13:36 www.buzzfeed.com</li>
+<li class='same'> 13:30 www.buzzfeed.com</li>
+<li class='same'> 13:26 www.buzzfeed.com</li>
+<li class='same'> 13:25 www.buzzfeed.com</li>
+<li class='same'> 13:23 www.buzzfeed.com</li>
+<li> 13:21 blog.bcn3d.com</li>
+<li> 13:21 support.bcn3d.com</li>
+<li class='same'> 13:20 support.bcn3d.com</li>
+<li> 13:20 www.bcn3d.com</li>
+<li> 13:20 duckduckgo.com</li>
+<li> 13:20 rhul.sharepoint.com</li>
+<li class='same'> 13:19 rhul.sharepoint.com</li>
+<li> 13:15 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:15 www.linkedin.com</li>
+<li> 13:15 www.reddit.com</li>
+<li class='same'> 13:14 www.reddit.com</li>
+<li class='same'> 13:12 www.reddit.com</li>
+<li class='same'> 13:10 www.reddit.com</li>
+<li> 13:08 feedly.com</li>
+</ul>
 
 <br>
 
@@ -48235,6 +48259,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:19 github.com</li>
 </ul>
 
+<H3>Saturday, 13/01/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:19 www.buzzfeed.com</li>
+</ul>
+
 <H3>Friday, 12/01/24</H3>
 
 <br>
@@ -49131,6 +49166,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:19 app.governorhub.com</li>
 </ul>
 
+<br>
+
+<ul><li> 06:42 www.buzzfeed.com</li>
+</ul>
+
 <H3>Monday, 04/12/23</H3>
 
 <br>
@@ -49782,6 +49822,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 19:54 www.buzzfeed.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:40 <a href="https://xkcd.com/2847/">xkcd: Dendrochronology</a></li>
 <li> 11:30 jobs.royalholloway.ac.uk</li>
 </ul>
@@ -50105,7 +50150,8 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 13:14 jobs.royalholloway.ac.uk</li>
 <li class='same'> 13:13 jobs.royalholloway.ac.uk</li>
 <li class='same'> 13:10 jobs.royalholloway.ac.uk</li>
-<li class='same'> 12:49 jobs.royalholloway.ac.uk</li>
+<li> 12:57 www.buzzfeed.com</li>
+<li> 12:49 jobs.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -52513,6 +52559,17 @@ With number of accesses/minutes in parentheses
 <li> 07:09 <a href="https://stackoverflow.com/users/170243/joe">User Joe - Stack Overflow</a></li>
 </ul>
 
+<H3>Sunday, 02/07/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 08:30 www.buzzfeed.com</li>
+</ul>
+
 <H3>Friday, 30/06/23</H3>
 
 <br>
@@ -53108,6 +53165,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 06:42 www.google.com</li>
 </ul>
 
+<H3>Saturday, 03/06/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 19:23 www.buzzfeed.com</li>
+</ul>
+
 <H3>Thursday, 01/06/23</H3>
 
 <br>
@@ -53520,6 +53588,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:41 www.buzzfeed.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:24 analytics.google.com</li>
 </ul>
 
@@ -53688,6 +53761,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 19:41 www.buzzfeed.com</li>
+</ul>
 
 <br>
 
@@ -54594,6 +54672,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 04:08 www.google.com</li>
 </ul>
 
+<H3>Thursday, 08/12/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 14:28 www.buzzfeed.com</li>
+</ul>
+
 <H3>Tuesday, 06/12/22</H3>
 
 <br>
@@ -55145,6 +55234,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 22:23 www.buzzfeed.com</li>
+</ul>
 
 <br>
 
