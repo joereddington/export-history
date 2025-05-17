@@ -75,11 +75,11 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1457)</li>
 <li>outlook.office365.com (1432)</li>
 <li>www.facebook.com (1394)</li>
-<li>www.reddit.com (1359)</li>
-<li>duckduckgo.com (992)</li>
+<li>www.reddit.com (1369)</li>
+<li>duckduckgo.com (1000)</li>
 <li>www.theguardian.com (786)</li>
-<li>www.amazon.co.uk (715)</li>
-<li>chatgpt.com (709)</li>
+<li>www.amazon.co.uk (717)</li>
+<li>chatgpt.com (711)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
 <li>www.linkedin.com (460)</li>
@@ -88,11 +88,11 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (379)</li>
 <li>tvtropes.org (358)</li>
 <li>gmail.com (345)</li>
-<li>web.whatsapp.com (307)</li>
+<li>web.whatsapp.com (308)</li>
 <li>drive.google.com (279)</li>
-<li>feedly.com (277)</li>
+<li>feedly.com (278)</li>
 <li>fritz.box (277)</li>
-<li>chat.openai.com (266)</li>
+<li>chat.openai.com (267)</li>
 <li>qbo.intuit.com (230)</li>
 <li>rhul.sharepoint.com (208)</li>
 <li>www.coursera.org (208)</li>
@@ -105,6 +105,55 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 17/05/25</H3>
+
+<br>
+
+<ul><li> 16:17 www.amazon.co.uk</li>
+<li class='same'> 16:16 www.amazon.co.uk</li>
+<li> 16:16 www.duolingo.com</li>
+<li> 16:15 store.duolingo.com</li>
+<li> 16:15 instrumentinsight.com</li>
+<li> 16:14 www.reddit.com</li>
+<li> 16:14 duckduckgo.com</li>
+<li> 16:13 www.duolingo.com</li>
+<li> 16:13 duckduckgo.com</li>
+<li> 16:02 <a href="https://www.youtube.com/shorts/7kF_Qfxp4CM">Fake piano skills in under 30 seconds 🫡 try it out, it‘s easier than you think! (Piano Tutorial) - YouTube</a></li>
+<li> 16:02 <a href="https://www.youtube.com/results?search_query=souns+like+you+know+what+you+are+doing+on+the+pinao">souns like you know what you are doing on the pinao - YouTube</a></li>
+<li> 16:02 <a href="https://www.youtube.com/">YouTube</a></li>
+<li> 16:00 app.midiano.com</li>
+<li> 16:00 midiano.com</li>
+<li> 15:59 pianotify.com</li>
+<li> 15:59 duckduckgo.com</li>
+<li> 15:56 www.mididb.com</li>
+<li> 15:56 duckduckgo.com</li>
+<li> 15:53 www.pianobooster.org</li>
+<li class='same'> 15:52 www.pianobooster.org</li>
+<li> 15:52 duckduckgo.com</li>
+<li class='same'> 15:51 duckduckgo.com</li>
+<li> 15:45 chatgpt.com</li>
+<li class='same'> 15:43 chatgpt.com</li>
+<li> 15:43 chat.openai.com</li>
+<li> 15:26 feedly.com</li>
+<li> 15:25 www.blackmagicdesign.com</li>
+<li> 15:24 duckduckgo.com</li>
+<li> 15:24 www.reddit.com</li>
+<li class='same'> 15:20 www.reddit.com</li>
+<li class='same'> 15:18 www.reddit.com</li>
+<li class='same'> 15:17 www.reddit.com</li>
+<li class='same'> 15:16 www.reddit.com</li>
+<li class='same'> 15:15 www.reddit.com</li>
+<li class='same'> 15:14 www.reddit.com</li>
+<li class='same'> 15:13 www.reddit.com</li>
+<li class='same'> 15:12 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:05 calculat.io</li>
+<li> 14:05 duckduckgo.com</li>
+<li> 14:02 www.thingiverse.com</li>
+<li> 14:02 web.whatsapp.com</li>
+</ul>
 
 <br>
 
