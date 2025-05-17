@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>chat.openai.com (266)</li>
 <li>qbo.intuit.com (230)</li>
-<li>rhul.sharepoint.com (211)</li>
+<li>rhul.sharepoint.com (208)</li>
 <li>www.coursera.org (208)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (193)</li>
 <li>forms.office.com (177)</li>
@@ -17791,9 +17791,6 @@ With number of accesses/minutes in parentheses
 <li> 13:55 chat.openai.com</li>
 <li> 13:55 rhul.sharepoint.com</li>
 <li class='same'> 13:54 rhul.sharepoint.com</li>
-<li class='same'> 13:53 rhul.sharepoint.com</li>
-<li class='same'> 13:52 rhul.sharepoint.com</li>
-<li class='same'> 13:51 rhul.sharepoint.com</li>
 <li class='same'> 13:50 rhul.sharepoint.com</li>
 <li> 13:50 outlook.office.com</li>
 <li> 13:50 outlook.office365.com</li>
@@ -18131,13 +18128,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:11 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
 <li class='same'> 13:10 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
 <li class='same'> 13:09 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
-<li class='same'> 13:08 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
 <li class='same'> 13:07 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
 <li class='same'> 13:06 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
 <li class='same'> 13:05 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
-<li> 13:04 login.openathens.net</li>
 <li> 13:04 librarysearch.royalholloway.ac.uk</li>
-<li> 13:04 login.openathens.net</li>
 <li> 13:04 login.microsoftonline.com</li>
 <li> 13:04 device.login.microsoftonline.com</li>
 <li> 13:04 login.microsoftonline.com</li>
