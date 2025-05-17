@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2960)</li>
+<ol><li>www.google.com (2961)</li>
 <li>outlook.office.com (2566)</li>
 <li>mail.google.com (2446)</li>
 <li>docs.google.com (1930)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1394)</li>
 <li>www.reddit.com (1359)</li>
 <li>duckduckgo.com (992)</li>
-<li>www.theguardian.com (782)</li>
+<li>www.theguardian.com (786)</li>
 <li>www.amazon.co.uk (715)</li>
 <li>chatgpt.com (709)</li>
 <li>calendar.google.com (490)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (456)</li>
 <li>github.com (407)</li>
 <li>login.microsoftonline.com (379)</li>
-<li>tvtropes.org (357)</li>
+<li>tvtropes.org (358)</li>
 <li>gmail.com (345)</li>
 <li>web.whatsapp.com (307)</li>
 <li>drive.google.com (279)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (230)</li>
 <li>rhul.sharepoint.com (211)</li>
 <li>www.coursera.org (208)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (192)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (193)</li>
 <li>forms.office.com (177)</li>
 
 
@@ -104,7 +104,24 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 17/05/25</H3>
+
+<br>
+
+<ul><li> 09:53 www.chess.com</li>
+<li> 09:53 www.google.com</li>
+</ul>
+
 <H3>Friday, 16/05/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 18:50 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
 
 <br>
 
@@ -204,11 +221,16 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:12 www.reddit.com</li>
 <li class='same'> 15:11 www.reddit.com</li>
 <li class='same'> 15:10 www.reddit.com</li>
+<li> 15:04 www.theguardian.com</li>
+<li class='same'> 15:03 www.theguardian.com</li>
+<li class='same'> 15:01 www.theguardian.com</li>
+<li class='same'> 15:00 www.theguardian.com</li>
+<li> 15:00 tvtropes.org</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 13:40 www.reddit.com</li>
+<ul><li> 13:40 www.reddit.com</li>
 <li> 13:40 www.giantitp.com</li>
 <li> 13:39 www.buzzfeed.com</li>
 <li class='same'> 13:36 www.buzzfeed.com</li>
@@ -52855,7 +52877,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:30 127.0.0.1:4000</li>
 <li> 11:26 docs.google.com</li>
-<li> 11:24 127.0.0.1:4000</li>
+<li> 11:25 127.0.0.1:4000</li>
+<li class='same'> 11:24 127.0.0.1:4000</li>
 <li> 11:04 equalitytime.github.io</li>
 </ul>
 
