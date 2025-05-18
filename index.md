@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2964)</li>
-<li>outlook.office.com (2566)</li>
+<li>outlook.office.com (2565)</li>
 <li>mail.google.com (2446)</li>
 <li>docs.google.com (1930)</li>
 <li>bsky.app (1457)</li>
@@ -78,14 +78,14 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1373)</li>
 <li>duckduckgo.com (1000)</li>
 <li>www.theguardian.com (795)</li>
-<li>www.amazon.co.uk (717)</li>
+<li>www.amazon.co.uk (715)</li>
 <li>chatgpt.com (711)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
-<li>www.linkedin.com (460)</li>
+<li>www.linkedin.com (459)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
 <li>github.com (407)</li>
-<li>login.microsoftonline.com (379)</li>
+<li>login.microsoftonline.com (378)</li>
 <li>tvtropes.org (358)</li>
 <li>gmail.com (345)</li>
 <li>web.whatsapp.com (308)</li>
@@ -94,8 +94,8 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>chat.openai.com (267)</li>
 <li>qbo.intuit.com (230)</li>
-<li>rhul.sharepoint.com (208)</li>
 <li>www.coursera.org (208)</li>
+<li>rhul.sharepoint.com (204)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (193)</li>
 <li>forms.office.com (177)</li>
 
@@ -17436,8 +17436,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:29 www.amazon.co.uk</li>
 <li class='same'> 13:28 www.amazon.co.uk</li>
 <li> 13:26 www.ebay.co.uk</li>
-<li> 13:25 www.amazon.co.uk</li>
-<li class='same'> 13:24 www.amazon.co.uk</li>
+<li> 13:24 www.amazon.co.uk</li>
 <li> 13:24 www.victorinox.com</li>
 <li> 13:24 duckduckgo.com</li>
 <li> 13:23 www.victorinox.com</li>
@@ -17622,7 +17621,6 @@ With number of accesses/minutes in parentheses
 <li> 15:32 www.coursera.org</li>
 <li class='same'> 15:31 www.coursera.org</li>
 <li> 15:31 outlook.office.com</li>
-<li class='same'> 15:30 outlook.office.com</li>
 <li class='same'> 15:29 outlook.office.com</li>
 <li> 15:29 outlook.office365.com</li>
 <li> 15:29 outlook.office.com</li>
@@ -17662,8 +17660,6 @@ With number of accesses/minutes in parentheses
 <li> 14:25 calendar.google.com</li>
 <li> 14:25 outlook.office.com</li>
 <li> 14:25 myaccount.microsoft.com</li>
-<li> 14:25 login.microsoftonline.com</li>
-<li> 14:25 myaccount.microsoft.com</li>
 <li> 14:20 outlook.office.com</li>
 <li> 14:20 outlook.office365.com</li>
 <li> 14:20 outlook.office.com</li>
@@ -17676,7 +17672,6 @@ With number of accesses/minutes in parentheses
 <li> 14:15 login.buffer.com</li>
 <li> 14:15 buffer.com</li>
 <li> 14:14 www.linkedin.com</li>
-<li class='same'> 14:13 www.linkedin.com</li>
 <li class='same'> 14:12 www.linkedin.com</li>
 <li class='same'> 14:07 www.linkedin.com</li>
 <li> 14:04 www.tightrope.co.uk</li>
@@ -17699,8 +17694,7 @@ With number of accesses/minutes in parentheses
 <li> 13:23 outlook.office.com</li>
 <li> 13:23 web.whatsapp.com</li>
 <li> 13:23 outlook.office.com</li>
-<li> 13:21 rhul.sharepoint.com</li>
-<li> 13:21 outlook.office.com</li>
+<li class='same'> 13:21 outlook.office.com</li>
 <li> 12:57 projects.cs.rhul.ac.uk</li>
 <li> 12:54 outlook.office.com</li>
 <li> 12:53 gitlab.cim.rhul.ac.uk</li>
@@ -17733,9 +17727,7 @@ With number of accesses/minutes in parentheses
 <li> 10:33 outlook.office.com</li>
 <li> 10:18 rhul.sharepoint.com</li>
 <li class='same'> 10:15 rhul.sharepoint.com</li>
-<li class='same'> 10:14 rhul.sharepoint.com</li>
 <li class='same'> 10:13 rhul.sharepoint.com</li>
-<li class='same'> 10:08 rhul.sharepoint.com</li>
 <li> 10:08 outlook.office.com</li>
 <li> 10:08 rhul.sharepoint.com</li>
 <li> 10:08 rhul-my.sharepoint.com</li>
@@ -17837,8 +17829,7 @@ With number of accesses/minutes in parentheses
 <li> 20:25 chatgpt.com</li>
 <li> 20:23 www.gutenberg.org</li>
 <li> 20:23 duckduckgo.com</li>
-<li> 20:22 www.amazon.co.uk</li>
-<li class='same'> 20:21 www.amazon.co.uk</li>
+<li> 20:21 www.amazon.co.uk</li>
 <li class='same'> 20:20 www.amazon.co.uk</li>
 <li> 20:19 docs.google.com</li>
 <li> 20:17 duckduckgo.com</li>
@@ -17881,8 +17872,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:53 outlook.office.com</li>
 <li class='same'> 14:51 outlook.office.com</li>
 <li> 14:50 outlook.office365.com</li>
-<li> 14:40 rhul.sharepoint.com</li>
-<li> 14:12 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:12 mail.google.com</li>
 <li> 14:12 gmail.com</li>
 <li> 14:12 outlook.office.com</li>
 <li> 14:03 chatgpt.com</li>
