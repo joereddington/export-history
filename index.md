@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2961)</li>
+<ol><li>www.google.com (2964)</li>
 <li>outlook.office.com (2566)</li>
 <li>mail.google.com (2446)</li>
 <li>docs.google.com (1930)</li>
 <li>bsky.app (1457)</li>
 <li>outlook.office365.com (1432)</li>
 <li>www.facebook.com (1394)</li>
-<li>www.reddit.com (1369)</li>
+<li>www.reddit.com (1373)</li>
 <li>duckduckgo.com (1000)</li>
-<li>www.theguardian.com (786)</li>
+<li>www.theguardian.com (795)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>chatgpt.com (711)</li>
 <li>calendar.google.com (490)</li>
@@ -104,7 +104,54 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 18/05/25</H3>
+
+<br>
+
+<ul><li> 11:49 <a href="https://www.bbc.co.uk/news/articles/cgr5nen5gxyo">M&S and Co-Op: BBC reporter on talking to the hackers - BBC News</a></li>
+<li> 11:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:49 <a href="https://www.bbc.co.uk/naidheachdan">Naidheachdan - BBC Naidheachdan</a></li>
+<li> 11:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:49 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:05 www.theguardian.com</li>
+<li class='same'> 11:04 www.theguardian.com</li>
+<li class='same'> 10:53 www.theguardian.com</li>
+<li class='same'> 10:52 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:19 www.theguardian.com</li>
+<li> 10:17 www.reddit.com</li>
+</ul>
+
 <H3>Saturday, 17/05/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:12 www.reddit.com</li>
+<li> 19:12 www.google.com</li>
+<li> 19:11 www.reddit.com</li>
+<li> 19:11 www.google.com</li>
+<li> 19:10 www.reddit.com</li>
+<li> 19:10 www.google.com</li>
+<li> 19:10 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:56 www.theguardian.com</li>
+<li> 17:56 www.chess.com</li>
+<li> 17:56 www.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -157,7 +204,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:53 www.chess.com</li>
+<ul><li> 10:23 www.chess.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:53 www.chess.com</li>
 <li> 09:53 www.google.com</li>
 </ul>
 
