@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2565)</li>
 <li>mail.google.com (2446)</li>
 <li>docs.google.com (1930)</li>
-<li>bsky.app (1457)</li>
-<li>outlook.office365.com (1432)</li>
+<li>bsky.app (1458)</li>
+<li>outlook.office365.com (1436)</li>
 <li>www.facebook.com (1394)</li>
 <li>www.reddit.com (1377)</li>
 <li>duckduckgo.com (1002)</li>
-<li>www.theguardian.com (805)</li>
+<li>www.theguardian.com (807)</li>
 <li>www.amazon.co.uk (712)</li>
 <li>chatgpt.com (711)</li>
 <li>calendar.google.com (490)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (459)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
 <li>github.com (407)</li>
-<li>login.microsoftonline.com (378)</li>
+<li>login.microsoftonline.com (379)</li>
 <li>tvtropes.org (358)</li>
 <li>gmail.com (345)</li>
 <li>web.whatsapp.com (308)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 www.theguardian.com</li>
+<ul><li> 18:20 outlook.office365.com</li>
+<li class='same'> 18:19 outlook.office365.com</li>
+<li class='same'> 18:18 outlook.office365.com</li>
+<li> 18:18 login.microsoftonline.com</li>
+<li> 18:18 bsky.app</li>
+<li> 18:18 outlook.office365.com</li>
+<li> 18:17 projects.cs.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 15:57 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:00 www.theguardian.com</li>
+<li class='same'> 14:59 www.theguardian.com</li>
 <li> 14:59 reductress.com</li>
 </ul>
 
