@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2969)</li>
+<ol><li>www.google.com (2980)</li>
 <li>outlook.office.com (2565)</li>
 <li>mail.google.com (2446)</li>
 <li>docs.google.com (1930)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:22 www.salto-gym.com</li>
+<ul><li> 12:51 www.google.com</li>
+<li> 12:51 reductress.com</li>
+<li> 12:51 www.google.com</li>
+<li class='same'> 12:36 www.google.com</li>
+<li class='same'> 12:35 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:03 www.google.com</li>
+<li> 12:03 m.youtube.com</li>
+<li class='same'> 11:37 m.youtube.com</li>
+<li> 11:37 www.google.com</li>
+<li> 11:37 www.instagram.com</li>
+<li> 11:37 www.google.com</li>
+<li class='same'> 11:36 www.google.com</li>
+<li> 11:35 m.youtube.com</li>
+<li> 11:35 www.google.com</li>
+<li> 11:35 www.instagram.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:23 www.instagram.com</li>
+<li> 07:23 www.google.com</li>
+<li class='same'> 07:22 www.google.com</li>
+<li> 07:22 www.salto-gym.com</li>
 <li> 07:22 www.google.com</li>
 <li> 07:22 www.theguardian.com</li>
 </ul>
