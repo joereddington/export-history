@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2968)</li>
+<ol><li>www.google.com (2969)</li>
 <li>outlook.office.com (2565)</li>
 <li>mail.google.com (2446)</li>
 <li>docs.google.com (1930)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1394)</li>
 <li>www.reddit.com (1377)</li>
 <li>duckduckgo.com (1002)</li>
-<li>www.theguardian.com (802)</li>
+<li>www.theguardian.com (804)</li>
 <li>www.amazon.co.uk (715)</li>
 <li>chatgpt.com (711)</li>
 <li>calendar.google.com (490)</li>
@@ -104,7 +104,27 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 19/05/25</H3>
+
+<br>
+
+<ul><li> 07:22 www.salto-gym.com</li>
+<li> 07:22 www.google.com</li>
+<li> 07:22 www.theguardian.com</li>
+</ul>
+
 <H3>Sunday, 18/05/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:49 www.theguardian.com</li>
+<li> 21:49 www.chess.com</li>
+<li> 21:34 <a href="https://www.bbc.co.uk/news/articles/cgr5nen5gxyo">M&S and Co-Op: BBC reporter on talking to the hackers - BBC News</a></li>
+</ul>
 
 <br>
 
