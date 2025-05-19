@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2980)</li>
+<ol><li>www.google.com (2981)</li>
 <li>outlook.office.com (2565)</li>
 <li>mail.google.com (2446)</li>
 <li>docs.google.com (1930)</li>
@@ -76,10 +76,10 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1436)</li>
 <li>www.facebook.com (1394)</li>
 <li>www.reddit.com (1377)</li>
-<li>duckduckgo.com (1002)</li>
-<li>www.theguardian.com (807)</li>
+<li>duckduckgo.com (1003)</li>
+<li>www.theguardian.com (809)</li>
 <li>www.amazon.co.uk (712)</li>
-<li>chatgpt.com (711)</li>
+<li>chatgpt.com (712)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
 <li>www.linkedin.com (459)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (279)</li>
 <li>feedly.com (278)</li>
 <li>fritz.box (277)</li>
-<li>chat.openai.com (267)</li>
+<li>chat.openai.com (268)</li>
 <li>qbo.intuit.com (230)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (204)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 19/05/25</H3>
+
+<br>
+
+<ul><li> 20:28 chatgpt.com</li>
+<li> 20:28 chat.openai.com</li>
+<li> 20:21 www.gdpreu.org</li>
+<li> 20:21 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:34 www.google.com</li>
+<li> 19:33 www.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -179,7 +193,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:27 www.reddit.com</li>
+<ul><li> 18:27 www.theguardian.com</li>
+<li> 18:27 www.reddit.com</li>
 <li class='same'> 18:26 www.reddit.com</li>
 </ul>
 
