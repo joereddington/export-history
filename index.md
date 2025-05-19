@@ -77,8 +77,8 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1394)</li>
 <li>www.reddit.com (1377)</li>
 <li>duckduckgo.com (1002)</li>
-<li>www.theguardian.com (804)</li>
-<li>www.amazon.co.uk (715)</li>
+<li>www.theguardian.com (805)</li>
+<li>www.amazon.co.uk (712)</li>
 <li>chatgpt.com (711)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:51 www.google.com</li>
+<ul><li> 14:59 www.theguardian.com</li>
+<li> 14:59 reductress.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:09 reductress.com</li>
+<li class='same'> 12:51 reductress.com</li>
+<li> 12:51 www.google.com</li>
 <li> 12:51 reductress.com</li>
 <li> 12:51 www.google.com</li>
 <li class='same'> 12:36 www.google.com</li>
@@ -17488,15 +17496,12 @@ With number of accesses/minutes in parentheses
 <li> 14:09 securehomehero.com</li>
 <li> 14:09 duckduckgo.com</li>
 <li> 14:07 www.amazon.co.uk</li>
-<li class='same'> 14:06 www.amazon.co.uk</li>
 <li class='same'> 14:05 www.amazon.co.uk</li>
 <li class='same'> 14:04 www.amazon.co.uk</li>
 <li class='same'> 14:03 www.amazon.co.uk</li>
-<li class='same'> 14:02 www.amazon.co.uk</li>
 <li class='same'> 14:01 www.amazon.co.uk</li>
 <li class='same'> 14:00 www.amazon.co.uk</li>
 <li class='same'> 13:59 www.amazon.co.uk</li>
-<li class='same'> 13:58 www.amazon.co.uk</li>
 <li class='same'> 13:57 www.amazon.co.uk</li>
 <li class='same'> 13:56 www.amazon.co.uk</li>
 <li class='same'> 13:55 www.amazon.co.uk</li>
