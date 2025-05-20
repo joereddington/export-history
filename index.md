@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2983)</li>
-<li>outlook.office.com (2565)</li>
+<ol><li>www.google.com (2984)</li>
+<li>outlook.office.com (2567)</li>
 <li>mail.google.com (2446)</li>
 <li>docs.google.com (1930)</li>
 <li>bsky.app (1458)</li>
-<li>outlook.office365.com (1436)</li>
+<li>outlook.office365.com (1442)</li>
 <li>www.facebook.com (1394)</li>
-<li>www.reddit.com (1377)</li>
-<li>duckduckgo.com (1003)</li>
+<li>www.reddit.com (1379)</li>
+<li>duckduckgo.com (1004)</li>
 <li>www.theguardian.com (810)</li>
+<li>chatgpt.com (713)</li>
 <li>www.amazon.co.uk (712)</li>
-<li>chatgpt.com (712)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
 <li>www.linkedin.com (459)</li>
 <li>moodle.royalholloway.ac.uk (456)</li>
-<li>github.com (407)</li>
-<li>login.microsoftonline.com (379)</li>
+<li>github.com (408)</li>
+<li>login.microsoftonline.com (381)</li>
 <li>tvtropes.org (358)</li>
 <li>gmail.com (345)</li>
-<li>web.whatsapp.com (308)</li>
+<li>web.whatsapp.com (309)</li>
 <li>drive.google.com (279)</li>
-<li>feedly.com (278)</li>
+<li>feedly.com (279)</li>
 <li>fritz.box (277)</li>
-<li>chat.openai.com (268)</li>
+<li>chat.openai.com (269)</li>
 <li>qbo.intuit.com (230)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (204)</li>
@@ -105,6 +105,38 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 20/05/25</H3>
+
+<br>
+
+<ul><li> 15:36 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:26 outlook.office365.com</li>
+<li> 12:25 outlook.office.com</li>
+<li> 12:25 login.microsoftonline.com</li>
+<li> 12:25 outlook.office.com</li>
+<li> 12:25 login.microsoftonline.com</li>
+<li> 12:25 outlook.office365.com</li>
+<li class='same'> 12:23 outlook.office365.com</li>
+<li class='same'> 12:22 outlook.office365.com</li>
+<li class='same'> 12:21 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:54 feedly.com</li>
+<li> 09:54 projects.cs.rhul.ac.uk</li>
+<li> 09:52 github.com</li>
+<li> 09:52 www.reddit.com</li>
+<li class='same'> 09:51 www.reddit.com</li>
+<li> 09:51 duckduckgo.com</li>
+<li> 09:50 chatgpt.com</li>
+<li> 09:50 chat.openai.com</li>
+<li> 09:50 www.google.com</li>
+<li> 09:39 projects.cs.rhul.ac.uk</li>
+</ul>
 
 <br>
 
@@ -43904,6 +43936,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 18:47 outlook.office365.com</li>
+</ul>
 
 <br>
 
