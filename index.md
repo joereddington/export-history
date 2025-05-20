@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2984)</li>
 <li>outlook.office.com (2567)</li>
-<li>mail.google.com (2446)</li>
+<li>mail.google.com (2450)</li>
 <li>docs.google.com (1930)</li>
 <li>bsky.app (1458)</li>
 <li>outlook.office365.com (1442)</li>
 <li>www.facebook.com (1394)</li>
 <li>www.reddit.com (1379)</li>
-<li>duckduckgo.com (1004)</li>
+<li>duckduckgo.com (1010)</li>
 <li>www.theguardian.com (810)</li>
-<li>chatgpt.com (713)</li>
+<li>chatgpt.com (714)</li>
 <li>www.amazon.co.uk (712)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
@@ -87,12 +87,12 @@ With number of accesses/minutes in parentheses
 <li>github.com (408)</li>
 <li>login.microsoftonline.com (381)</li>
 <li>tvtropes.org (358)</li>
-<li>gmail.com (345)</li>
+<li>gmail.com (346)</li>
 <li>web.whatsapp.com (309)</li>
 <li>drive.google.com (279)</li>
 <li>feedly.com (279)</li>
 <li>fritz.box (277)</li>
-<li>chat.openai.com (269)</li>
+<li>chat.openai.com (270)</li>
 <li>qbo.intuit.com (230)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (204)</li>
@@ -105,6 +105,32 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 20/05/25</H3>
+
+<br>
+
+<ul><li> 16:56 www.cancerresearchuk.org</li>
+<li> 16:56 duckduckgo.com</li>
+<li> 16:56 fundraise.cancerresearchuk.org</li>
+<li> 16:51 studygroupuk.applytojob.com</li>
+<li> 16:51 www.google.co.uk</li>
+<li> 16:51 duckduckgo.com</li>
+<li class='same'> 16:50 duckduckgo.com</li>
+<li> 16:49 <a href="https://en.wikipedia.org/wiki/University_of_Huddersfield">University of Huddersfield - Wikipedia</a></li>
+<li> 16:49 duckduckgo.com</li>
+<li> 16:49 huddersfieldhub.co.uk</li>
+<li> 16:48 duckduckgo.com</li>
+<li> 16:48 studygroupuk.applytojob.com</li>
+<li> 16:48 duckduckgo.com</li>
+<li> 16:41 mail.google.com</li>
+<li class='same'> 16:40 mail.google.com</li>
+<li class='same'> 16:39 mail.google.com</li>
+<li class='same'> 16:38 mail.google.com</li>
+<li> 16:38 gmail.com</li>
+<li> 16:12 chatgpt.com</li>
+<li> 16:12 chat.openai.com</li>
+<li> 16:10 ico.org.uk</li>
+<li> 16:10 icosearch.ico.org.uk</li>
+</ul>
 
 <br>
 
