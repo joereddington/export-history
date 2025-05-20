@@ -70,22 +70,22 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (2984)</li>
 <li>outlook.office.com (2567)</li>
-<li>mail.google.com (2450)</li>
+<li>mail.google.com (2452)</li>
 <li>docs.google.com (1930)</li>
 <li>bsky.app (1458)</li>
-<li>outlook.office365.com (1442)</li>
+<li>outlook.office365.com (1444)</li>
 <li>www.facebook.com (1394)</li>
 <li>www.reddit.com (1379)</li>
-<li>duckduckgo.com (1010)</li>
+<li>duckduckgo.com (1011)</li>
 <li>www.theguardian.com (810)</li>
 <li>chatgpt.com (714)</li>
 <li>www.amazon.co.uk (712)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
 <li>www.linkedin.com (459)</li>
-<li>moodle.royalholloway.ac.uk (456)</li>
+<li>moodle.royalholloway.ac.uk (458)</li>
 <li>github.com (408)</li>
-<li>login.microsoftonline.com (381)</li>
+<li>login.microsoftonline.com (383)</li>
 <li>tvtropes.org (358)</li>
 <li>gmail.com (346)</li>
 <li>web.whatsapp.com (309)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:56 www.cancerresearchuk.org</li>
+<ul><li> 17:28 moodle.royalholloway.ac.uk</li>
+<li> 17:28 login.microsoftonline.com</li>
+<li> 17:28 moodle.royalholloway.ac.uk</li>
+<li> 17:28 login.microsoftonline.com</li>
+<li> 17:27 projects.cs.rhul.ac.uk</li>
+<li> 17:27 mail.google.com</li>
+<li> 17:26 projects.cs.rhul.ac.uk</li>
+<li> 17:21 outlook.office365.com</li>
+<li> 17:21 intranet.royalholloway.ac.uk</li>
+<li> 17:20 outlook.office365.com</li>
+<li> 17:03 studygroupuk.applytojob.com</li>
+<li> 17:02 <a href="https://en.wikipedia.org/wiki/Study_Group">Study Group - Wikipedia</a></li>
+<li> 17:02 duckduckgo.com</li>
+<li> 17:01 mail.google.com</li>
+<li> 16:56 www.cancerresearchuk.org</li>
 <li> 16:56 duckduckgo.com</li>
 <li> 16:56 fundraise.cancerresearchuk.org</li>
 <li> 16:51 studygroupuk.applytojob.com</li>
