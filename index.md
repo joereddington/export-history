@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2984)</li>
+<ol><li>www.google.com (2987)</li>
 <li>outlook.office.com (2567)</li>
 <li>mail.google.com (2452)</li>
 <li>docs.google.com (1930)</li>
 <li>bsky.app (1458)</li>
-<li>outlook.office365.com (1444)</li>
+<li>outlook.office365.com (1447)</li>
 <li>www.facebook.com (1394)</li>
 <li>www.reddit.com (1379)</li>
-<li>duckduckgo.com (1011)</li>
-<li>www.theguardian.com (810)</li>
+<li>duckduckgo.com (1013)</li>
+<li>www.theguardian.com (816)</li>
 <li>chatgpt.com (714)</li>
 <li>www.amazon.co.uk (712)</li>
 <li>calendar.google.com (490)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:28 moodle.royalholloway.ac.uk</li>
+<ul><li> 19:01 www.theguardian.com</li>
+<li class='same'> 18:36 www.theguardian.com</li>
+<li> 18:36 www.google.com</li>
+<li> 18:23 intranet.royalholloway.ac.uk</li>
+<li> 18:23 www.royalholloway.ac.uk</li>
+<li> 18:23 duckduckgo.com</li>
+<li> 18:22 www.su.rhul.ac.uk</li>
+<li> 18:21 www.royalholloway.ac.uk</li>
+<li> 18:21 duckduckgo.com</li>
+<li> 18:20 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:50 outlook.office365.com</li>
+<li class='same'> 17:49 outlook.office365.com</li>
+<li> 17:28 moodle.royalholloway.ac.uk</li>
 <li> 17:28 login.microsoftonline.com</li>
 <li> 17:28 moodle.royalholloway.ac.uk</li>
 <li> 17:28 login.microsoftonline.com</li>
@@ -153,6 +169,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 13:23 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 12:26 outlook.office365.com</li>
 <li> 12:25 outlook.office.com</li>
 <li> 12:25 login.microsoftonline.com</li>
@@ -162,6 +183,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:23 outlook.office365.com</li>
 <li class='same'> 12:22 outlook.office365.com</li>
 <li class='same'> 12:21 outlook.office365.com</li>
+<li> 12:18 www.google.com</li>
+<li> 12:18 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -180,7 +203,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:35 www.theguardian.com</li>
+<ul><li> 06:45 www.theguardian.com</li>
+<li class='same'> 06:43 www.theguardian.com</li>
+<li class='same'> 06:36 www.theguardian.com</li>
+<li class='same'> 06:35 www.theguardian.com</li>
 <li> 06:35 www.google.com</li>
 </ul>
 
