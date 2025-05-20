@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2987)</li>
+<ol><li>www.google.com (2992)</li>
 <li>outlook.office.com (2567)</li>
 <li>mail.google.com (2452)</li>
 <li>docs.google.com (1930)</li>
 <li>bsky.app (1458)</li>
-<li>outlook.office365.com (1447)</li>
+<li>outlook.office365.com (1453)</li>
 <li>www.facebook.com (1394)</li>
-<li>www.reddit.com (1379)</li>
-<li>duckduckgo.com (1013)</li>
+<li>www.reddit.com (1384)</li>
+<li>duckduckgo.com (1015)</li>
 <li>www.theguardian.com (816)</li>
 <li>chatgpt.com (714)</li>
 <li>www.amazon.co.uk (712)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (204)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (193)</li>
-<li>forms.office.com (177)</li>
+<li>forms.office.com (178)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,10 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:01 www.theguardian.com</li>
+<ul><li> 19:09 www.google.com</li>
+<li> 19:03 www.reddit.com</li>
+<li> 19:03 www.google.com</li>
+<li> 19:03 www.reddit.com</li>
+<li> 19:03 www.google.com</li>
+<li> 19:02 www.reddit.com</li>
+<li> 19:02 www.google.com</li>
+<li> 19:01 www.reddit.com</li>
+<li> 19:01 www.google.com</li>
+<li> 19:01 www.theguardian.com</li>
 <li class='same'> 18:36 www.theguardian.com</li>
 <li> 18:36 www.google.com</li>
-<li> 18:23 intranet.royalholloway.ac.uk</li>
+<li> 18:31 www.reddit.com</li>
+<li> 18:31 outlook.office365.com</li>
+<li> 18:30 intranet.royalholloway.ac.uk</li>
+<li> 18:30 duckduckgo.com</li>
+<li> 18:28 outlook.office365.com</li>
+<li> 18:27 www.su.rhul.ac.uk</li>
+<li> 18:27 forms.office.com</li>
+<li> 18:26 www.su.rhul.ac.uk</li>
+<li> 18:26 intranet.royalholloway.ac.uk</li>
+<li> 18:26 duckduckgo.com</li>
+<li> 18:26 intranet.royalholloway.ac.uk</li>
+<li> 18:26 outlook.office365.com</li>
+<li> 18:25 intranet.royalholloway.ac.uk</li>
+<li class='same'> 18:24 intranet.royalholloway.ac.uk</li>
+<li class='same'> 18:23 intranet.royalholloway.ac.uk</li>
 <li> 18:23 www.royalholloway.ac.uk</li>
 <li> 18:23 duckduckgo.com</li>
 <li> 18:22 www.su.rhul.ac.uk</li>
@@ -40257,6 +40280,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:38 rhul-my.sharepoint.com</li>
 <li> 14:37 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 14:35 outlook.office365.com</li>
 <li> 14:34 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 </ul>
 
@@ -43551,7 +43575,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 17:54 outlook.office.com</li>
-<li class='same'> 17:40 outlook.office.com</li>
+<li> 17:41 intranet.royalholloway.ac.uk</li>
+<li> 17:40 outlook.office.com</li>
 <li class='same'> 17:30 outlook.office.com</li>
 <li class='same'> 17:29 outlook.office.com</li>
 </ul>
@@ -45376,6 +45401,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:08 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:07 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:06 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:04 intranet.royalholloway.ac.uk</li>
 <li class='same'> 11:02 intranet.royalholloway.ac.uk</li>
 <li> 11:02 www.royalholloway.ac.uk</li>
 </ul>
@@ -45974,7 +46002,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:40 intranet.royalholloway.ac.uk</li>
+<ul><li> 11:45 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:40 intranet.royalholloway.ac.uk</li>
 <li> 11:23 outlook.office.com</li>
 <li class='same'> 11:04 outlook.office.com</li>
 <li> 10:59 projects.cs.rhul.ac.uk</li>
@@ -46657,11 +46686,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:54 intranet.royalholloway.ac.uk</li>
+<li> 10:33 outlook.office365.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 09:35 intranet.royalholloway.ac.uk</li>
+<ul><li> 09:35 intranet.royalholloway.ac.uk</li>
+<li> 09:35 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -50620,6 +50651,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:35 www.royalholloway.ac.uk</li>
+<li> 11:35 intranet.royalholloway.ac.uk</li>
 <li> 11:35 discord.com</li>
 <li> 11:34 intranet.royalholloway.ac.uk</li>
 <li> 11:26 scholar.google.com</li>
