@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2981)</li>
+<ol><li>www.google.com (2983)</li>
 <li>outlook.office.com (2565)</li>
 <li>mail.google.com (2446)</li>
 <li>docs.google.com (1930)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1394)</li>
 <li>www.reddit.com (1377)</li>
 <li>duckduckgo.com (1003)</li>
-<li>www.theguardian.com (809)</li>
+<li>www.theguardian.com (810)</li>
 <li>www.amazon.co.uk (712)</li>
 <li>chatgpt.com (712)</li>
 <li>calendar.google.com (490)</li>
@@ -104,7 +104,19 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 20/05/25</H3>
+
+<br>
+
+<ul><li> 06:35 www.theguardian.com</li>
+<li> 06:35 www.google.com</li>
+</ul>
+
 <H3>Monday, 19/05/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -133,7 +145,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:57 www.theguardian.com</li>
+<ul><li> 15:59 www.google.com</li>
+<li> 15:57 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -17253,7 +17266,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:41 <a href="https://en.wikipedia.org/wiki/Sophie_Dahl">Sophie Dahl - Wikipedia</a></li>
 <li> 17:41 duckduckgo.com</li>
-<li> 17:40 support.theguardian.com</li>
 <li> 17:40 www.theguardian.com</li>
 <li> 17:40 docs.google.com</li>
 <li class='same'> 17:39 docs.google.com</li>
