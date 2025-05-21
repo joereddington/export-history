@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3000)</li>
-<li>outlook.office.com (2568)</li>
-<li>mail.google.com (2467)</li>
+<li>outlook.office.com (2569)</li>
+<li>mail.google.com (2474)</li>
 <li>docs.google.com (1933)</li>
-<li>outlook.office365.com (1474)</li>
+<li>outlook.office365.com (1475)</li>
 <li>bsky.app (1458)</li>
 <li>www.reddit.com (1397)</li>
-<li>www.facebook.com (1394)</li>
+<li>www.facebook.com (1395)</li>
 <li>duckduckgo.com (1016)</li>
 <li>www.theguardian.com (821)</li>
 <li>chatgpt.com (715)</li>
 <li>www.amazon.co.uk (712)</li>
-<li>calendar.google.com (492)</li>
+<li>calendar.google.com (495)</li>
 <li>rhul-my.sharepoint.com (472)</li>
 <li>moodle.royalholloway.ac.uk (461)</li>
 <li>www.linkedin.com (460)</li>
 <li>github.com (408)</li>
 <li>login.microsoftonline.com (388)</li>
 <li>tvtropes.org (358)</li>
-<li>gmail.com (347)</li>
-<li>web.whatsapp.com (310)</li>
+<li>gmail.com (348)</li>
+<li>web.whatsapp.com (311)</li>
 <li>drive.google.com (279)</li>
 <li>feedly.com (279)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:56 mail.google.com</li>
+<ul><li> 11:44 www.facebook.com</li>
+<li> 11:44 calendar.google.com</li>
+<li> 11:43 outlook.office.com</li>
+<li> 11:43 mail.google.com</li>
+<li> 11:42 www.jobs.ac.uk</li>
+<li> 11:42 mail.google.com</li>
+<li class='same'> 11:41 mail.google.com</li>
+<li> 11:31 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
+<li> 11:30 mail.google.com</li>
+<li> 11:30 gmail.com</li>
+<li> 11:30 outlook.office365.com</li>
+<li> 11:25 mail.google.com</li>
+<li> 11:05 rhul.hosted.panopto.com</li>
+<li class='same'> 11:04 rhul.hosted.panopto.com</li>
+<li class='same'> 11:03 rhul.hosted.panopto.com</li>
+<li class='same'> 11:02 rhul.hosted.panopto.com</li>
+<li> 11:02 mail.google.com</li>
+<li class='same'> 11:01 mail.google.com</li>
+<li> 10:57 web.whatsapp.com</li>
+<li> 10:57 calendar.google.com</li>
+<li class='same'> 10:56 calendar.google.com</li>
+<li> 10:56 mail.google.com</li>
 <li class='same'> 10:50 mail.google.com</li>
 <li class='same'> 10:49 mail.google.com</li>
 <li> 10:49 forum.artofmemory.com</li>
@@ -48419,7 +48440,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:06 moodle.royalholloway.ac.uk</li>
+<ul><li> 10:18 rhul.hosted.panopto.com</li>
+<li> 10:06 moodle.royalholloway.ac.uk</li>
 <li> 09:59 rhul.sharepoint.com</li>
 </ul>
 
@@ -48502,10 +48524,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:17 mail.google.com</li>
+<ul><li> 22:26 rhul.hosted.panopto.com</li>
+<li> 22:17 mail.google.com</li>
 <li> 22:12 moodle.royalholloway.ac.uk</li>
 <li class='same'> 22:02 moodle.royalholloway.ac.uk</li>
-<li class='same'> 21:38 moodle.royalholloway.ac.uk</li>
+<li> 21:59 rhul.hosted.panopto.com</li>
+<li> 21:38 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -48676,6 +48700,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 22:53 rhul.hosted.panopto.com</li>
+</ul>
 
 <br>
 
