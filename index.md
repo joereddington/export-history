@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2998)</li>
-<li>outlook.office.com (2567)</li>
-<li>mail.google.com (2452)</li>
+<ol><li>www.google.com (3000)</li>
+<li>outlook.office.com (2568)</li>
+<li>mail.google.com (2455)</li>
 <li>docs.google.com (1933)</li>
+<li>outlook.office365.com (1471)</li>
 <li>bsky.app (1458)</li>
-<li>outlook.office365.com (1453)</li>
-<li>www.reddit.com (1395)</li>
+<li>www.reddit.com (1397)</li>
 <li>www.facebook.com (1394)</li>
-<li>duckduckgo.com (1015)</li>
-<li>www.theguardian.com (820)</li>
-<li>chatgpt.com (714)</li>
+<li>duckduckgo.com (1016)</li>
+<li>www.theguardian.com (821)</li>
+<li>chatgpt.com (715)</li>
 <li>www.amazon.co.uk (712)</li>
-<li>calendar.google.com (490)</li>
-<li>rhul-my.sharepoint.com (471)</li>
+<li>calendar.google.com (492)</li>
+<li>rhul-my.sharepoint.com (472)</li>
+<li>moodle.royalholloway.ac.uk (461)</li>
 <li>www.linkedin.com (459)</li>
-<li>moodle.royalholloway.ac.uk (459)</li>
 <li>github.com (408)</li>
-<li>login.microsoftonline.com (384)</li>
+<li>login.microsoftonline.com (388)</li>
 <li>tvtropes.org (358)</li>
-<li>gmail.com (346)</li>
-<li>web.whatsapp.com (309)</li>
+<li>gmail.com (347)</li>
+<li>web.whatsapp.com (310)</li>
 <li>drive.google.com (279)</li>
 <li>feedly.com (279)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,63 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:00 www.google.com</li>
+<ul><li> 09:57 imgflip.com</li>
+<li> 09:56 outlook.office.com</li>
+<li> 09:56 login.microsoftonline.com</li>
+<li> 09:56 m365.cloud.microsoft</li>
+<li> 09:56 login.microsoftonline.com</li>
+<li> 09:56 adfs.herts.ac.uk</li>
+<li> 09:56 api-b6327e78.duosecurity.com</li>
+<li class='same'> 09:55 api-b6327e78.duosecurity.com</li>
+<li> 09:55 adfs.herts.ac.uk</li>
+<li> 09:54 mail.google.com</li>
+<li class='same'> 09:53 mail.google.com</li>
+<li class='same'> 09:52 mail.google.com</li>
+<li> 09:52 gmail.com</li>
+<li> 09:52 outlook.office365.com</li>
+<li> 09:50 web.whatsapp.com</li>
+<li> 09:49 outlook.office365.com</li>
+<li class='same'> 09:48 outlook.office365.com</li>
+<li class='same'> 09:46 outlook.office365.com</li>
+<li class='same'> 09:45 outlook.office365.com</li>
+<li class='same'> 09:44 outlook.office365.com</li>
+<li> 09:43 calendar.google.com</li>
+<li> 09:43 outlook.office365.com</li>
+<li class='same'> 09:41 outlook.office365.com</li>
+<li class='same'> 09:40 outlook.office365.com</li>
+<li> 09:40 calendar.google.com</li>
+<li> 09:40 outlook.office365.com</li>
+<li class='same'> 09:39 outlook.office365.com</li>
+<li> 09:39 chatgpt.com</li>
+<li> 09:36 www.reddit.com</li>
+<li class='same'> 09:35 www.reddit.com</li>
+<li> 09:33 www.wired.com</li>
+<li> 09:31 newsthump.com</li>
+<li> 09:31 www.google.com</li>
+<li> 09:31 reductress.com</li>
+<li> 09:30 www.theguardian.com</li>
+<li> 09:29 <a href="https://www.bbc.co.uk/news/articles/cwy33n484x0o">Trump unveils plans for 'Golden Dome' missile defence system - BBC News</a></li>
+<li> 09:29 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:28 www.google.com</li>
+<li> 09:26 outlook.office365.com</li>
+<li> 09:23 duckduckgo.com</li>
+<li> 09:16 moodle.royalholloway.ac.uk</li>
+<li> 09:16 login.microsoftonline.com</li>
+<li> 09:16 moodle.royalholloway.ac.uk</li>
+<li> 09:16 projects.cs.rhul.ac.uk</li>
+<li class='same'> 09:15 projects.cs.rhul.ac.uk</li>
+<li class='same'> 09:12 projects.cs.rhul.ac.uk</li>
+<li> 09:12 outlook.office365.com</li>
+<li class='same'> 09:11 outlook.office365.com</li>
+<li class='same'> 09:10 outlook.office365.com</li>
+<li class='same'> 09:09 outlook.office365.com</li>
+<li> 09:07 rhul-my.sharepoint.com</li>
+<li> 09:07 intranet.royalholloway.ac.uk</li>
+<li> 09:06 outlook.office365.com</li>
+<li> 09:06 login.microsoftonline.com</li>
+<li> 09:06 outlook.office365.com</li>
+<li> 09:03 intranet.royalholloway.ac.uk</li>
+<li> 09:00 www.google.com</li>
 <li> 08:55 www.gastrojournal.org</li>
 <li class='same'> 08:54 www.gastrojournal.org</li>
 <li> 08:54 secure.jbs.elsevierhealth.com</li>
@@ -42670,6 +42726,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:48 www.reddit.com</li>
 <li class='same'> 19:47 www.reddit.com</li>
 <li> 19:46 calendar.google.com</li>
+<li> 19:41 imgflip.com</li>
 </ul>
 
 <br>
