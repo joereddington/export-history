@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3000)</li>
-<li>outlook.office.com (2570)</li>
-<li>mail.google.com (2494)</li>
+<li>outlook.office.com (2573)</li>
+<li>mail.google.com (2499)</li>
 <li>docs.google.com (1934)</li>
 <li>outlook.office365.com (1499)</li>
 <li>bsky.app (1458)</li>
@@ -85,9 +85,9 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (461)</li>
 <li>www.linkedin.com (460)</li>
 <li>github.com (408)</li>
-<li>login.microsoftonline.com (388)</li>
+<li>login.microsoftonline.com (390)</li>
 <li>tvtropes.org (358)</li>
-<li>gmail.com (352)</li>
+<li>gmail.com (353)</li>
 <li>web.whatsapp.com (312)</li>
 <li>drive.google.com (280)</li>
 <li>feedly.com (279)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:33 mail.google.com</li>
+<ul><li> 17:44 mail.google.com</li>
+<li> 17:44 outlook.office.com</li>
+<li class='same'> 17:38 outlook.office.com</li>
+<li> 17:38 herts365-my.sharepoint.com</li>
+<li class='same'> 17:37 herts365-my.sharepoint.com</li>
+<li> 17:37 login.microsoftonline.com</li>
+<li> 17:37 outlook.office.com</li>
+<li> 17:37 m365.cloud.microsoft</li>
+<li> 17:37 login.microsoftonline.com</li>
+<li> 17:37 adfs.herts.ac.uk</li>
+<li> 17:37 herts.instructure.com</li>
+<li> 17:37 adfs.herts.ac.uk</li>
+<li> 17:37 mail.google.com</li>
+<li class='same'> 17:36 mail.google.com</li>
+<li> 17:36 gla-my.sharepoint.com</li>
+<li> 17:36 mail.google.com</li>
+<li class='same'> 17:34 mail.google.com</li>
+<li> 17:34 gmail.com</li>
+<li> 17:33 mail.google.com</li>
 <li> 17:33 outlook.office365.com</li>
 <li> 17:32 web.whatsapp.com</li>
 <li> 17:32 outlook.office365.com</li>
