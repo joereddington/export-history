@@ -70,9 +70,9 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3000)</li>
 <li>outlook.office.com (2570)</li>
-<li>mail.google.com (2492)</li>
+<li>mail.google.com (2494)</li>
 <li>docs.google.com (1934)</li>
-<li>outlook.office365.com (1488)</li>
+<li>outlook.office365.com (1499)</li>
 <li>bsky.app (1458)</li>
 <li>www.reddit.com (1397)</li>
 <li>www.facebook.com (1395)</li>
@@ -87,8 +87,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (408)</li>
 <li>login.microsoftonline.com (388)</li>
 <li>tvtropes.org (358)</li>
-<li>gmail.com (351)</li>
-<li>web.whatsapp.com (311)</li>
+<li>gmail.com (352)</li>
+<li>web.whatsapp.com (312)</li>
 <li>drive.google.com (280)</li>
 <li>feedly.com (279)</li>
 <li>fritz.box (277)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 21/05/25</H3>
+
+<br>
+
+<ul><li> 17:33 mail.google.com</li>
+<li> 17:33 outlook.office365.com</li>
+<li> 17:32 web.whatsapp.com</li>
+<li> 17:32 outlook.office365.com</li>
+<li class='same'> 17:31 outlook.office365.com</li>
+<li class='same'> 17:30 outlook.office365.com</li>
+<li class='same'> 17:25 outlook.office365.com</li>
+<li class='same'> 17:23 outlook.office365.com</li>
+<li class='same'> 17:22 outlook.office365.com</li>
+<li class='same'> 17:19 outlook.office365.com</li>
+<li class='same'> 17:14 outlook.office365.com</li>
+<li class='same'> 17:13 outlook.office365.com</li>
+<li class='same'> 17:03 outlook.office365.com</li>
+<li> 17:03 mail.google.com</li>
+<li> 17:03 gmail.com</li>
+</ul>
 
 <br>
 
