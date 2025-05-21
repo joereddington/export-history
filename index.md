@@ -71,21 +71,21 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (2992)</li>
 <li>outlook.office.com (2567)</li>
 <li>mail.google.com (2452)</li>
-<li>docs.google.com (1930)</li>
+<li>docs.google.com (1933)</li>
 <li>bsky.app (1458)</li>
 <li>outlook.office365.com (1453)</li>
 <li>www.facebook.com (1394)</li>
-<li>www.reddit.com (1384)</li>
+<li>www.reddit.com (1393)</li>
 <li>duckduckgo.com (1015)</li>
-<li>www.theguardian.com (816)</li>
+<li>www.theguardian.com (819)</li>
 <li>chatgpt.com (714)</li>
 <li>www.amazon.co.uk (712)</li>
 <li>calendar.google.com (490)</li>
 <li>rhul-my.sharepoint.com (471)</li>
 <li>www.linkedin.com (459)</li>
-<li>moodle.royalholloway.ac.uk (458)</li>
+<li>moodle.royalholloway.ac.uk (459)</li>
 <li>github.com (408)</li>
-<li>login.microsoftonline.com (383)</li>
+<li>login.microsoftonline.com (384)</li>
 <li>tvtropes.org (358)</li>
 <li>gmail.com (346)</li>
 <li>web.whatsapp.com (309)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:09 www.google.com</li>
+<ul><li> 23:40 projects.cs.rhul.ac.uk</li>
+<li class='same'> 23:39 projects.cs.rhul.ac.uk</li>
+<li> 23:39 moodle.royalholloway.ac.uk</li>
+<li> 23:39 login.microsoftonline.com</li>
+<li> 23:36 docs.google.com</li>
+<li class='same'> 23:35 docs.google.com</li>
+<li class='same'> 23:34 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 21:52 www.reddit.com</li>
+<li class='same'> 21:50 www.reddit.com</li>
+<li class='same'> 21:49 www.reddit.com</li>
+<li class='same'> 21:48 www.reddit.com</li>
+<li class='same'> 21:47 www.reddit.com</li>
+<li class='same'> 21:45 www.reddit.com</li>
+<li class='same'> 21:43 www.reddit.com</li>
+<li class='same'> 21:42 www.reddit.com</li>
+<li class='same'> 21:41 www.reddit.com</li>
+<li> 21:19 www.theguardian.com</li>
+<li> 21:17 www.foxnews.com</li>
+<li class='same'> 21:16 www.foxnews.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:11 www.foxnews.com</li>
+<li> 19:10 www.theguardian.com</li>
+<li class='same'> 19:09 www.theguardian.com</li>
+<li> 19:09 www.google.com</li>
 <li> 19:03 www.reddit.com</li>
 <li> 19:03 www.google.com</li>
 <li> 19:03 www.reddit.com</li>
