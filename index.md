@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3000)</li>
-<li>outlook.office.com (2569)</li>
-<li>mail.google.com (2474)</li>
-<li>docs.google.com (1933)</li>
-<li>outlook.office365.com (1475)</li>
+<li>outlook.office.com (2570)</li>
+<li>mail.google.com (2487)</li>
+<li>docs.google.com (1934)</li>
+<li>outlook.office365.com (1488)</li>
 <li>bsky.app (1458)</li>
 <li>www.reddit.com (1397)</li>
 <li>www.facebook.com (1395)</li>
-<li>duckduckgo.com (1016)</li>
+<li>duckduckgo.com (1018)</li>
 <li>www.theguardian.com (821)</li>
-<li>chatgpt.com (715)</li>
+<li>chatgpt.com (716)</li>
 <li>www.amazon.co.uk (712)</li>
 <li>calendar.google.com (495)</li>
 <li>rhul-my.sharepoint.com (472)</li>
@@ -87,12 +87,12 @@ With number of accesses/minutes in parentheses
 <li>github.com (408)</li>
 <li>login.microsoftonline.com (388)</li>
 <li>tvtropes.org (358)</li>
-<li>gmail.com (348)</li>
+<li>gmail.com (350)</li>
 <li>web.whatsapp.com (311)</li>
-<li>drive.google.com (279)</li>
+<li>drive.google.com (280)</li>
 <li>feedly.com (279)</li>
 <li>fritz.box (277)</li>
-<li>chat.openai.com (270)</li>
+<li>chat.openai.com (271)</li>
 <li>qbo.intuit.com (230)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (204)</li>
@@ -105,6 +105,53 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 21/05/25</H3>
+
+<br>
+
+<ul><li> 14:49 mail.google.com</li>
+<li> 14:48 app.hellosign.com</li>
+<li class='same'> 14:47 app.hellosign.com</li>
+<li class='same'> 14:46 app.hellosign.com</li>
+<li class='same'> 14:45 app.hellosign.com</li>
+<li class='same'> 14:37 app.hellosign.com</li>
+<li class='same'> 14:36 app.hellosign.com</li>
+<li> 14:36 mail.google.com</li>
+<li> 14:35 app.hellosign.com</li>
+<li> 14:33 mail.google.com</li>
+<li> 14:33 app.hellosign.com</li>
+<li> 14:33 mail.google.com</li>
+<li class='same'> 14:32 mail.google.com</li>
+<li> 14:32 www.qiq.support</li>
+<li> 14:31 qiq.support</li>
+<li> 14:31 mail.google.com</li>
+<li class='same'> 14:30 mail.google.com</li>
+<li> 14:30 gmail.com</li>
+<li> 14:30 mail.google.com</li>
+<li> 14:29 docs.google.com</li>
+<li> 14:29 drive.google.com</li>
+<li> 14:28 chatgpt.com</li>
+<li> 14:28 chat.openai.com</li>
+<li> 14:28 formspree.io</li>
+<li> 14:28 mail.google.com</li>
+<li class='same'> 14:27 mail.google.com</li>
+<li class='same'> 14:26 mail.google.com</li>
+<li> 14:26 accounts.google.com</li>
+<li> 14:26 mail.google.com</li>
+<li> 14:26 gmail.com</li>
+<li> 14:26 mail.google.com</li>
+<li> 14:25 <a href="https://joereddington.com/memory_contact.html">Joe Reddington | Things I make.</a></li>
+<li> 14:24 outlook.office365.com</li>
+<li> 14:23 duckduckgo.com</li>
+<li> 14:22 outlook.office365.com</li>
+<li class='same'> 14:21 outlook.office365.com</li>
+<li> 14:21 duckduckgo.com</li>
+<li> 14:20 outlook.office365.com</li>
+<li class='same'> 14:18 outlook.office365.com</li>
+<li class='same'> 14:16 outlook.office365.com</li>
+<li class='same'> 14:15 outlook.office365.com</li>
+<li class='same'> 14:14 outlook.office365.com</li>
+<li> 14:14 outlook.office.com</li>
+</ul>
 
 <br>
 
@@ -44145,7 +44192,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:19 webtimetables.royalholloway.ac.uk</li>
-<li> 11:10 outlook.office365.com</li>
+<li> 11:16 outlook.office365.com</li>
+<li class='same'> 11:10 outlook.office365.com</li>
 <li> 11:08 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
 <li> 11:04 www.paypal.com</li>
 <li class='same'> 10:59 www.paypal.com</li>
@@ -46792,6 +46840,8 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 12:27 myview.rhul.zellis.com</li>
 <li> 12:22 rhul.sharepoint.com</li>
 <li> 12:19 outlook.office365.com</li>
+<li class='same'> 12:02 outlook.office365.com</li>
+<li class='same'> 11:59 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -47020,7 +47070,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:13 andsoshethinks.co.uk</li>
+<ul><li> 12:20 outlook.office365.com</li>
+<li> 12:13 andsoshethinks.co.uk</li>
 <li> 12:13 mail.google.com</li>
 <li class='same'> 12:12 mail.google.com</li>
 <li class='same'> 12:09 mail.google.com</li>
@@ -47041,11 +47092,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:21 outlook.office.com</li>
 <li class='same'> 07:20 outlook.office.com</li>
 <li class='same'> 07:16 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 06:36 rhul-my.sharepoint.com</li>
+<li> 06:59 outlook.office365.com</li>
+<li> 06:36 rhul-my.sharepoint.com</li>
 <li> 06:29 outlook.office365.com</li>
 </ul>
 
@@ -47456,6 +47504,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:44 gettingthingsdone.com</li>
+<li> 06:27 <a href="https://joereddington.com/memory_contact.html">Joe Reddington | Things I make.</a></li>
 </ul>
 
 <H3>Sunday, 10/03/24</H3>
@@ -47478,16 +47527,29 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:19 kdp.amazon.com</li>
+<li> 15:08 formspree.io</li>
+<li> 15:07 <a href="https://joereddington.com/memory_contact.html">Joe Reddington | Things I make.</a></li>
 </ul>
 
 <br>
 
-<ul><li> 12:57 127.0.0.1:4000</li>
+<ul><li> 14:08 formspree.io</li>
+<li class='same'> 14:07 formspree.io</li>
+<li> 14:07 <a href="https://joereddington.com/memory_contact.html">Joe Reddington | Things I make.</a></li>
 </ul>
 
 <br>
 
-<ul><li> 08:47 formspree.io</li>
+<ul><li class='same'> 13:05 <a href="https://joereddington.com/memory_contact.html">Joe Reddington | Things I make.</a></li>
+<li> 12:57 127.0.0.1:4000</li>
+</ul>
+
+<br>
+
+<ul><li> 08:50 formspree.io</li>
+<li class='same'> 08:49 formspree.io</li>
+<li class='same'> 08:48 formspree.io</li>
+<li class='same'> 08:47 formspree.io</li>
 <li> 08:25 www.diy.com</li>
 </ul>
 
