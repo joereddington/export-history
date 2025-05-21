@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (2992)</li>
+<ol><li>www.google.com (2998)</li>
 <li>outlook.office.com (2567)</li>
 <li>mail.google.com (2452)</li>
 <li>docs.google.com (1933)</li>
 <li>bsky.app (1458)</li>
 <li>outlook.office365.com (1453)</li>
+<li>www.reddit.com (1395)</li>
 <li>www.facebook.com (1394)</li>
-<li>www.reddit.com (1393)</li>
 <li>duckduckgo.com (1015)</li>
-<li>www.theguardian.com (819)</li>
+<li>www.theguardian.com (820)</li>
 <li>chatgpt.com (714)</li>
 <li>www.amazon.co.uk (712)</li>
 <li>calendar.google.com (490)</li>
@@ -104,7 +104,37 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 21/05/25</H3>
+
+<br>
+
+<ul><li> 09:00 www.google.com</li>
+<li> 08:55 www.gastrojournal.org</li>
+<li class='same'> 08:54 www.gastrojournal.org</li>
+<li> 08:54 secure.jbs.elsevierhealth.com</li>
+<li> 08:54 www.google.com</li>
+<li> 08:54 www.reddit.com</li>
+<li> 08:53 www.google.com</li>
+<li> 08:53 www.reddit.com</li>
+<li> 08:53 www.google.com</li>
+<li> 08:52 www.livestrong.com</li>
+<li> 08:52 www.google.com</li>
+<li> 08:51 swizzels.com</li>
+<li> 08:51 www.google.com</li>
+<li> 08:50 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:22 discord.com</li>
+<li class='same'> 07:21 discord.com</li>
+</ul>
+
 <H3>Tuesday, 20/05/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
