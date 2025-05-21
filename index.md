@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3000)</li>
 <li>outlook.office.com (2570)</li>
-<li>mail.google.com (2487)</li>
+<li>mail.google.com (2492)</li>
 <li>docs.google.com (1934)</li>
 <li>outlook.office365.com (1488)</li>
 <li>bsky.app (1458)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (408)</li>
 <li>login.microsoftonline.com (388)</li>
 <li>tvtropes.org (358)</li>
-<li>gmail.com (350)</li>
+<li>gmail.com (351)</li>
 <li>web.whatsapp.com (311)</li>
 <li>drive.google.com (280)</li>
 <li>feedly.com (279)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:49 mail.google.com</li>
+<ul><li> 15:01 mail.google.com</li>
+<li class='same'> 15:00 mail.google.com</li>
+<li class='same'> 14:59 mail.google.com</li>
+<li class='same'> 14:58 mail.google.com</li>
+<li class='same'> 14:57 mail.google.com</li>
+<li> 14:57 gmail.com</li>
+<li> 14:57 app.hellosign.com</li>
+<li> 14:49 mail.google.com</li>
 <li> 14:48 app.hellosign.com</li>
 <li class='same'> 14:47 app.hellosign.com</li>
 <li class='same'> 14:46 app.hellosign.com</li>
