@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3015)</li>
+<ol><li>www.google.com (3011)</li>
 <li>outlook.office.com (2576)</li>
-<li>mail.google.com (2515)</li>
+<li>mail.google.com (2529)</li>
 <li>docs.google.com (1936)</li>
-<li>outlook.office365.com (1510)</li>
-<li>bsky.app (1458)</li>
-<li>www.reddit.com (1399)</li>
+<li>outlook.office365.com (1518)</li>
+<li>bsky.app (1459)</li>
+<li>www.reddit.com (1403)</li>
 <li>www.facebook.com (1395)</li>
 <li>duckduckgo.com (1021)</li>
 <li>www.theguardian.com (827)</li>
 <li>chatgpt.com (717)</li>
 <li>www.amazon.co.uk (716)</li>
-<li>calendar.google.com (495)</li>
+<li>calendar.google.com (496)</li>
 <li>rhul-my.sharepoint.com (472)</li>
+<li>www.linkedin.com (465)</li>
 <li>moodle.royalholloway.ac.uk (461)</li>
-<li>www.linkedin.com (460)</li>
 <li>github.com (408)</li>
-<li>login.microsoftonline.com (391)</li>
+<li>login.microsoftonline.com (392)</li>
+<li>gmail.com (359)</li>
 <li>tvtropes.org (358)</li>
-<li>gmail.com (356)</li>
 <li>web.whatsapp.com (313)</li>
 <li>drive.google.com (280)</li>
 <li>feedly.com (279)</li>
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:55 mail.google.com</li>
+<ul><li> 13:42 mail.google.com</li>
+<li> 13:40 bsky.app</li>
+<li> 13:40 www.linkedin.com</li>
+<li class='same'> 13:39 www.linkedin.com</li>
+<li> 13:39 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 13:37 www.linkedin.com</li>
+<li class='same'> 13:36 www.linkedin.com</li>
+<li class='same'> 13:35 www.linkedin.com</li>
+<li> 13:34 outlook.office365.com</li>
+<li class='same'> 13:33 outlook.office365.com</li>
+<li class='same'> 13:32 outlook.office365.com</li>
+<li> 13:32 mail.google.com</li>
+<li> 13:32 gmail.com</li>
+<li> 13:31 mail.google.com</li>
+<li class='same'> 13:27 mail.google.com</li>
+<li> 13:27 gmail.com</li>
+<li> 13:27 mail.google.com</li>
+<li class='same'> 13:22 mail.google.com</li>
+<li class='same'> 13:18 mail.google.com</li>
+<li> 13:17 gla-my.sharepoint.com</li>
+<li> 13:16 mail.google.com</li>
+<li> 13:16 gla-my.sharepoint.com</li>
+<li> 13:16 mail.google.com</li>
+<li class='same'> 13:15 mail.google.com</li>
+<li> 13:15 calendar.google.com</li>
+<li> 13:15 mail.google.com</li>
+<li class='same'> 13:14 mail.google.com</li>
+<li> 13:14 gmail.com</li>
+<li> 13:13 www.reddit.com</li>
+<li class='same'> 13:12 www.reddit.com</li>
+<li class='same'> 13:10 www.reddit.com</li>
+<li class='same'> 13:09 www.reddit.com</li>
+<li> 13:07 outlook.office365.com</li>
+<li> 13:05 projects.cs.rhul.ac.uk</li>
+<li> 13:03 gla-my.sharepoint.com</li>
+<li> 13:03 mail.google.com</li>
+<li> 13:03 outlook.office365.com</li>
+<li> 13:02 mail.google.com</li>
+<li> 13:02 outlook.office365.com</li>
+<li> 13:02 login.microsoftonline.com</li>
+<li> 13:02 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:03 outlook.office365.com</li>
+<li> 12:02 projects.cs.rhul.ac.uk</li>
+<li> 11:55 mail.google.com</li>
 <li class='same'> 11:53 mail.google.com</li>
 <li> 11:50 www.whitewaterwriters.com</li>
 <li> 11:50 whitewaterwriters.com</li>
@@ -17495,9 +17542,7 @@ With number of accesses/minutes in parentheses
 <li> 20:19 duckduckgo.com</li>
 <li> 20:19 www.borrowbox.com</li>
 <li> 20:19 duckduckgo.com</li>
-<li> 20:19 www.google.com</li>
 <li> 20:18 www.reddit.com</li>
-<li> 20:18 www.google.com</li>
 <li> 20:18 forums.whirlpool.net.au</li>
 <li> 20:17 www.google.com</li>
 <li> 20:15 www.amazon.co.uk</li>
@@ -17585,9 +17630,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:24 www.tesco.com</li>
-<li> 07:24 www.google.com</li>
-<li> 07:23 www.tesco.com</li>
-<li> 07:23 www.google.com</li>
+<li class='same'> 07:23 www.tesco.com</li>
 <li> 07:23 docs.google.com</li>
 <li class='same'> 07:22 docs.google.com</li>
 <li class='same'> 07:21 docs.google.com</li>
