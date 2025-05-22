@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3013)</li>
-<li>outlook.office.com (2573)</li>
-<li>mail.google.com (2499)</li>
-<li>docs.google.com (1934)</li>
-<li>outlook.office365.com (1503)</li>
+<ol><li>www.google.com (3014)</li>
+<li>outlook.office.com (2575)</li>
+<li>mail.google.com (2504)</li>
+<li>docs.google.com (1935)</li>
+<li>outlook.office365.com (1506)</li>
 <li>bsky.app (1458)</li>
 <li>www.reddit.com (1399)</li>
 <li>www.facebook.com (1395)</li>
-<li>duckduckgo.com (1018)</li>
-<li>www.theguardian.com (822)</li>
+<li>duckduckgo.com (1020)</li>
+<li>www.theguardian.com (825)</li>
 <li>chatgpt.com (717)</li>
-<li>www.amazon.co.uk (712)</li>
+<li>www.amazon.co.uk (715)</li>
 <li>calendar.google.com (495)</li>
 <li>rhul-my.sharepoint.com (472)</li>
 <li>moodle.royalholloway.ac.uk (461)</li>
 <li>www.linkedin.com (460)</li>
 <li>github.com (408)</li>
-<li>login.microsoftonline.com (390)</li>
+<li>login.microsoftonline.com (391)</li>
 <li>tvtropes.org (358)</li>
-<li>gmail.com (353)</li>
-<li>web.whatsapp.com (312)</li>
+<li>gmail.com (355)</li>
+<li>web.whatsapp.com (313)</li>
 <li>drive.google.com (280)</li>
 <li>feedly.com (279)</li>
 <li>fritz.box (277)</li>
 <li>chat.openai.com (272)</li>
-<li>qbo.intuit.com (230)</li>
+<li>qbo.intuit.com (233)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (204)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (193)</li>
@@ -104,13 +104,63 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 22/05/25</H3>
+
+<br>
+
+<ul><li> 07:00 mail.google.com</li>
+<li> 06:58 web.whatsapp.com</li>
+<li> 06:57 online.unity.co.uk</li>
+<li class='same'> 06:56 online.unity.co.uk</li>
+<li class='same'> 06:55 online.unity.co.uk</li>
+<li> 06:55 mail.google.com</li>
+<li class='same'> 06:54 mail.google.com</li>
+<li> 06:54 gmail.com</li>
+<li> 06:54 qbo.intuit.com</li>
+<li class='same'> 06:52 qbo.intuit.com</li>
+<li> 06:51 www.amazon.co.uk</li>
+<li class='same'> 06:50 www.amazon.co.uk</li>
+<li> 06:50 online.unity.co.uk</li>
+<li> 06:49 qbo.intuit.com</li>
+<li> 06:49 app.qbo.intuit.com</li>
+<li> 06:49 accounts.intuit.com</li>
+<li> 06:49 c14.qbo.intuit.com</li>
+<li> 06:48 mail.google.com</li>
+<li> 06:47 outlook.office.com</li>
+<li class='same'> 06:46 outlook.office.com</li>
+<li> 06:46 m365.cloud.microsoft</li>
+<li> 06:46 login.microsoftonline.com</li>
+<li> 06:46 adfs.herts.ac.uk</li>
+<li> 06:46 api-b6327e78.duosecurity.com</li>
+<li> 06:46 adfs.herts.ac.uk</li>
+<li> 06:45 mail.google.com</li>
+<li> 06:45 gmail.com</li>
+<li> 06:45 outlook.office365.com</li>
+<li> 06:41 www.theguardian.com</li>
+<li class='same'> 06:40 www.theguardian.com</li>
+<li> 06:40 outlook.office365.com</li>
+<li> 06:38 intranet.royalholloway.ac.uk</li>
+<li> 06:38 duckduckgo.com</li>
+<li> 06:37 outlook.office365.com</li>
+</ul>
+
 <H3>Wednesday, 21/05/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
 <ul><li> 21:43 www.mentalfloss.com</li>
 <li> 21:42 www.google.com</li>
-<li> 21:31 www.theguardian.com</li>
+<li> 21:37 <a href="https://en.wikipedia.org/wiki/Andy_Weir">Andy Weir - Wikipedia</a></li>
+<li> 21:37 duckduckgo.com</li>
+<li> 21:37 www.amazon.co.uk</li>
+<li> 21:37 www.google.com</li>
+<li> 21:35 docs.google.com</li>
+<li> 21:33 www.theguardian.com</li>
+<li class='same'> 21:31 www.theguardian.com</li>
 <li> 21:06 www.reddit.com</li>
 <li> 21:06 www.google.com</li>
 <li> 21:06 www.reddit.com</li>
