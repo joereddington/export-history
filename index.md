@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3009)</li>
+<ol><li>www.google.com (3013)</li>
 <li>outlook.office.com (2573)</li>
 <li>mail.google.com (2499)</li>
 <li>docs.google.com (1934)</li>
 <li>outlook.office365.com (1503)</li>
 <li>bsky.app (1458)</li>
-<li>www.reddit.com (1397)</li>
+<li>www.reddit.com (1399)</li>
 <li>www.facebook.com (1395)</li>
 <li>duckduckgo.com (1018)</li>
 <li>www.theguardian.com (822)</li>
@@ -108,12 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:31 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 20:46 www.google.com</li>
+<ul><li> 21:43 www.mentalfloss.com</li>
+<li> 21:42 www.google.com</li>
+<li> 21:31 www.theguardian.com</li>
+<li> 21:06 www.reddit.com</li>
+<li> 21:06 www.google.com</li>
+<li> 21:06 www.reddit.com</li>
+<li> 21:06 www.google.com</li>
+<li class='same'> 21:01 www.google.com</li>
+<li class='same'> 20:46 www.google.com</li>
 <li class='same'> 20:45 www.google.com</li>
 <li> 20:37 outlook.office365.com</li>
 <li> 20:33 chatgpt.com</li>
@@ -223,7 +226,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:44 www.facebook.com</li>
+<ul><li> 11:45 www.wired.com</li>
+<li> 11:44 www.facebook.com</li>
 <li> 11:44 calendar.google.com</li>
 <li> 11:43 outlook.office.com</li>
 <li> 11:43 mail.google.com</li>
@@ -52957,7 +52961,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:39 kdp.amazon.com</li>
 <li> 15:13 github.com</li>
 <li> 14:53 www.amazon.co.uk</li>
-<li> 14:39 www.moonpig.com</li>
+<li> 14:40 www.moonpig.com</li>
+<li class='same'> 14:39 www.moonpig.com</li>
 </ul>
 
 <br>
