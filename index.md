@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3014)</li>
 <li>outlook.office.com (2575)</li>
-<li>mail.google.com (2504)</li>
-<li>docs.google.com (1935)</li>
+<li>mail.google.com (2508)</li>
+<li>docs.google.com (1936)</li>
 <li>outlook.office365.com (1506)</li>
 <li>bsky.app (1458)</li>
 <li>www.reddit.com (1399)</li>
 <li>www.facebook.com (1395)</li>
 <li>duckduckgo.com (1020)</li>
-<li>www.theguardian.com (825)</li>
+<li>www.theguardian.com (827)</li>
 <li>chatgpt.com (717)</li>
 <li>www.amazon.co.uk (715)</li>
 <li>calendar.google.com (495)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:00 mail.google.com</li>
+<ul><li> 07:13 gla-my.sharepoint.com</li>
+<li> 07:12 mail.google.com</li>
+<li> 07:08 <a href="https://joereddington.com/memory_contact.html">Joe Reddington | Things I make.</a></li>
+<li> 07:08 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
+<li> 07:07 mail.google.com</li>
+<li> 07:06 docs.google.com</li>
+<li> 07:04 www.theguardian.com</li>
+<li class='same'> 07:02 www.theguardian.com</li>
+<li> 07:02 www.giantitp.com</li>
+<li> 07:02 mail.google.com</li>
+<li class='same'> 07:01 mail.google.com</li>
+<li class='same'> 07:00 mail.google.com</li>
 <li> 06:58 web.whatsapp.com</li>
 <li> 06:57 online.unity.co.uk</li>
 <li class='same'> 06:56 online.unity.co.uk</li>
