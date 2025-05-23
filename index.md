@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3017)</li>
+<ol><li>www.google.com (3018)</li>
 <li>outlook.office.com (2578)</li>
 <li>mail.google.com (2534)</li>
 <li>docs.google.com (1936)</li>
-<li>outlook.office365.com (1525)</li>
-<li>bsky.app (1468)</li>
-<li>www.reddit.com (1407)</li>
-<li>www.facebook.com (1395)</li>
-<li>duckduckgo.com (1022)</li>
+<li>outlook.office365.com (1527)</li>
+<li>bsky.app (1470)</li>
+<li>www.reddit.com (1409)</li>
+<li>www.facebook.com (1396)</li>
+<li>duckduckgo.com (1023)</li>
 <li>www.theguardian.com (834)</li>
 <li>chatgpt.com (725)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>calendar.google.com (500)</li>
 <li>rhul-my.sharepoint.com (473)</li>
-<li>www.linkedin.com (466)</li>
+<li>www.linkedin.com (467)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (408)</li>
 <li>login.microsoftonline.com (399)</li>
 <li>gmail.com (360)</li>
 <li>tvtropes.org (358)</li>
-<li>web.whatsapp.com (313)</li>
+<li>web.whatsapp.com (317)</li>
 <li>drive.google.com (280)</li>
 <li>feedly.com (279)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:43 whitewaterwriters.com</li>
+<ul><li> 11:24 <a href="https://joereddington.com/2025/05/23/getting-my-stupid-server-working-again.html">Getting my stupid server working again. | Joe Reddington</a></li>
+<li> 11:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 11:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:23 www.google.com</li>
+<li> 11:14 www.linkedin.com</li>
+<li> 11:14 www.facebook.com</li>
+<li> 11:14 bsky.app</li>
+<li class='same'> 11:13 bsky.app</li>
+<li> 11:12 outlook.office365.com</li>
+<li class='same'> 11:11 outlook.office365.com</li>
+<li> 11:07 web.whatsapp.com</li>
+<li class='same'> 11:03 web.whatsapp.com</li>
+<li> 11:03 duckduckgo.com</li>
+<li> 10:56 www.reddit.com</li>
+<li> 10:55 imgur.com</li>
+<li class='same'> 10:54 imgur.com</li>
+<li> 10:53 www.reddit.com</li>
+<li> 10:50 web.whatsapp.com</li>
+<li class='same'> 10:45 web.whatsapp.com</li>
+<li> 10:43 whitewaterwriters.com</li>
 <li class='same'> 10:33 whitewaterwriters.com</li>
 <li class='same'> 10:20 whitewaterwriters.com</li>
 <li> 10:16 www.whitewaterwriters.com</li>
@@ -46656,6 +46675,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:44 docs.google.com</li>
+</ul>
+
+<H3>Monday, 15/04/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 06:25 imgur.com</li>
 </ul>
 
 <H3>Saturday, 13/04/24</H3>
