@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:20 whitewaterwriters.com</li>
+<ul><li> 10:43 whitewaterwriters.com</li>
+<li class='same'> 10:33 whitewaterwriters.com</li>
+<li class='same'> 10:20 whitewaterwriters.com</li>
 <li> 10:16 www.whitewaterwriters.com</li>
 <li> 10:16 whitewaterwriters.com</li>
 <li> 10:16 www.whitewaterwriters.com</li>
