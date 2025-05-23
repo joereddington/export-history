@@ -70,22 +70,22 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3017)</li>
 <li>outlook.office.com (2576)</li>
-<li>mail.google.com (2533)</li>
+<li>mail.google.com (2534)</li>
 <li>docs.google.com (1936)</li>
-<li>outlook.office365.com (1518)</li>
-<li>bsky.app (1459)</li>
+<li>outlook.office365.com (1525)</li>
+<li>bsky.app (1468)</li>
 <li>www.reddit.com (1407)</li>
 <li>www.facebook.com (1395)</li>
-<li>duckduckgo.com (1021)</li>
+<li>duckduckgo.com (1022)</li>
 <li>www.theguardian.com (834)</li>
-<li>chatgpt.com (718)</li>
+<li>chatgpt.com (722)</li>
 <li>www.amazon.co.uk (717)</li>
-<li>calendar.google.com (496)</li>
-<li>rhul-my.sharepoint.com (472)</li>
-<li>www.linkedin.com (465)</li>
-<li>moodle.royalholloway.ac.uk (461)</li>
+<li>calendar.google.com (500)</li>
+<li>rhul-my.sharepoint.com (473)</li>
+<li>www.linkedin.com (466)</li>
+<li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (408)</li>
-<li>login.microsoftonline.com (392)</li>
+<li>login.microsoftonline.com (394)</li>
 <li>gmail.com (360)</li>
 <li>tvtropes.org (358)</li>
 <li>web.whatsapp.com (313)</li>
@@ -108,12 +108,47 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:21 www.theguardian.com</li>
+<ul><li> 08:57 eu-west-2.console.aws.amazon.com</li>
+<li> 08:57 chatgpt.com</li>
+<li> 08:55 mail.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 06:40 chatgpt.com</li>
+<ul><li> 08:03 chatgpt.com</li>
+<li> 08:03 bsky.app</li>
+<li class='same'> 08:02 bsky.app</li>
+<li class='same'> 08:01 bsky.app</li>
+<li class='same'> 07:59 bsky.app</li>
+<li> 07:58 duckduckgo.com</li>
+<li> 07:57 bsky.app</li>
+<li class='same'> 07:56 bsky.app</li>
+<li> 07:49 chatgpt.com</li>
+<li> 07:48 sora.chatgpt.com</li>
+<li class='same'> 07:44 sora.chatgpt.com</li>
+<li> 07:21 www.theguardian.com</li>
+<li> 07:18 chatgpt.com</li>
+<li> 07:15 calendar.google.com</li>
+<li> 07:06 outlook.office365.com</li>
+<li> 07:06 moodle.royalholloway.ac.uk</li>
+<li> 07:05 outlook.office365.com</li>
+<li> 07:05 moodle.royalholloway.ac.uk</li>
+<li> 07:05 login.microsoftonline.com</li>
+<li> 07:05 moodle.royalholloway.ac.uk</li>
+<li> 07:05 login.microsoftonline.com</li>
+<li> 07:04 outlook.office365.com</li>
+<li> 06:57 bsky.app</li>
+<li class='same'> 06:56 bsky.app</li>
+<li> 06:55 outlook.office365.com</li>
+<li class='same'> 06:54 outlook.office365.com</li>
+<li> 06:54 calendar.google.com</li>
+<li> 06:54 outlook.office365.com</li>
+<li> 06:53 rhul-my.sharepoint.com</li>
+<li> 06:53 outlook.office365.com</li>
+<li> 06:53 calendar.google.com</li>
+<li> 06:49 www.linkedin.com</li>
+<li> 06:48 bsky.app</li>
+<li> 06:40 chatgpt.com</li>
 <li> 06:40 chat.openai.com</li>
 <li> 06:38 us-east-1.console.aws.amazon.com</li>
 <li> 06:38 signin.aws.amazon.com</li>
@@ -145,6 +180,11 @@ With number of accesses/minutes in parentheses
 <li> 06:18 www.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 00:07 calendar.google.com</li>
+</ul>
+
 <H3>Thursday, 22/05/25</H3>
 
 <br>
@@ -153,7 +193,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 21:48 www.google.com</li>
+<ul><li> 21:48 www.google.com</li>
 <li> 21:46 www.theguardian.com</li>
 <li> 21:46 www.google.com</li>
 <li> 21:46 www.theguardian.com</li>
