@@ -108,6 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 16:37 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
+<li> 16:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+</ul>
+
+<br>
+
 <ul><li> 14:44 mail.google.com</li>
 <li> 14:43 duckduckgo.com</li>
 <li> 14:40 chatgpt.com</li>
