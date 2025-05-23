@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (466)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (408)</li>
-<li>login.microsoftonline.com (394)</li>
+<li>login.microsoftonline.com (395)</li>
 <li>gmail.com (360)</li>
 <li>tvtropes.org (358)</li>
 <li>web.whatsapp.com (313)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:57 eu-west-2.console.aws.amazon.com</li>
+<ul><li> 09:13 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 09:12 eu-west-2.console.aws.amazon.com</li>
+<li> 09:05 www.whitewaterwriters.com</li>
+<li> 09:05 whitewaterwriters.com</li>
+<li> 09:05 www.whitewaterwriters.com</li>
+<li> 09:05 whitewaterwriters.com</li>
+<li> 09:03 m365.cloud.microsoft</li>
+<li> 09:03 login.microsoftonline.com</li>
+<li> 09:03 adfs.herts.ac.uk</li>
+<li> 09:03 api-b6327e78.duosecurity.com</li>
+<li> 09:03 adfs.herts.ac.uk</li>
+<li> 08:57 eu-west-2.console.aws.amazon.com</li>
 <li> 08:57 chatgpt.com</li>
 <li> 08:55 mail.google.com</li>
 </ul>
