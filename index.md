@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:14 whitewaterwriters.com</li>
+<ul><li> 10:20 whitewaterwriters.com</li>
+<li> 10:16 www.whitewaterwriters.com</li>
+<li> 10:16 whitewaterwriters.com</li>
+<li> 10:16 www.whitewaterwriters.com</li>
+<li> 10:16 127.0.0.1:4000</li>
+<li> 10:15 whitewaterwriters.com</li>
+<li class='same'> 10:14 whitewaterwriters.com</li>
 <li> 10:14 www.whitewaterwriters.com</li>
 <li> 10:14 whitewaterwriters.com</li>
 <li> 10:13 us-east-1.console.aws.amazon.com</li>
