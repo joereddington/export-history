@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3018)</li>
+<ol><li>www.google.com (3020)</li>
 <li>outlook.office.com (2583)</li>
 <li>mail.google.com (2543)</li>
 <li>docs.google.com (1936)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1409)</li>
 <li>www.facebook.com (1396)</li>
 <li>duckduckgo.com (1030)</li>
-<li>www.theguardian.com (834)</li>
+<li>www.theguardian.com (836)</li>
 <li>chatgpt.com (733)</li>
 <li>www.amazon.co.uk (716)</li>
 <li>calendar.google.com (500)</li>
@@ -108,6 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:26 www.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 16:37 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
 <li> 16:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -115,7 +120,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:44 mail.google.com</li>
+<ul><li> 15:42 www.projectreal.co.uk</li>
+<li class='same'> 15:41 www.projectreal.co.uk</li>
+<li> 15:41 www.atgtickets.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:00 www.atgtickets.com</li>
+<li> 15:00 www.google.com</li>
+<li class='same'> 14:59 www.google.com</li>
+<li> 14:55 www.theguardian.com</li>
+<li> 14:48 www.projectreal.co.uk</li>
+<li> 14:44 mail.google.com</li>
 <li> 14:43 duckduckgo.com</li>
 <li> 14:40 chatgpt.com</li>
 <li> 14:40 chat.openai.com</li>
@@ -140,6 +157,9 @@ With number of accesses/minutes in parentheses
 <li> 13:46 bsky.app</li>
 <li> 13:44 127.0.0.1:4000</li>
 <li class='same'> 13:43 127.0.0.1:4000</li>
+<li> 13:41 www.projectreal.co.uk</li>
+<li> 13:41 projectreal.co.uk</li>
+<li> 13:41 <a href="https://www.bbc.co.uk/news/articles/c3087vlmljmo">Prince William: David Attenborough was 'inspiration' for new show - BBC News</a></li>
 <li> 13:40 www.projectreal.co.uk</li>
 <li> 13:40 bsky.app</li>
 <li> 13:40 outlook.office365.com</li>
@@ -296,6 +316,8 @@ With number of accesses/minutes in parentheses
 <li> 07:49 chatgpt.com</li>
 <li> 07:48 sora.chatgpt.com</li>
 <li class='same'> 07:44 sora.chatgpt.com</li>
+<li> 07:23 <a href="https://www.bbc.co.uk/news/articles/c3087vlmljmo">Prince William: David Attenborough was 'inspiration' for new show - BBC News</a></li>
+<li> 07:22 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 07:21 www.theguardian.com</li>
 <li> 07:18 chatgpt.com</li>
 <li> 07:15 calendar.google.com</li>
@@ -54002,7 +54024,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:13 mail.google.com</li>
+<ul><li> 10:39 whitewaterwriters.com</li>
+<li> 10:13 mail.google.com</li>
 <li> 09:45 www.amazon.co.uk</li>
 </ul>
 
@@ -54240,6 +54263,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:36 kdp.amazon.com</li>
+<li> 15:27 whitewaterwriters.com</li>
+<li class='same'> 15:20 whitewaterwriters.com</li>
 </ul>
 
 <H3>Thursday, 15/06/23</H3>
@@ -54247,6 +54272,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 12:18 whitewaterwriters.com</li>
+<li class='same'> 12:17 whitewaterwriters.com</li>
+<li class='same'> 12:15 whitewaterwriters.com</li>
+</ul>
 
 <br>
 
@@ -54311,6 +54343,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:34 m.youtube.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:49 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -54475,6 +54512,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 17:48 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
 <ul><li> 16:04 www.icloud.com</li>
 </ul>
 
@@ -54571,6 +54613,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:36 www.pcspecialist.co.uk</li>
 <li class='same'> 13:31 www.pcspecialist.co.uk</li>
 <li class='same'> 13:30 www.pcspecialist.co.uk</li>
+<li> 13:23 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -54761,6 +54804,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:48 www.dropbox.com</li>
 </ul>
 
+<br>
+
+<ul><li> 16:22 whitewaterwriters.com</li>
+</ul>
+
 <H3>Thursday, 18/05/23</H3>
 
 <br>
@@ -54770,6 +54818,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:16 analytics.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:11 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -54789,7 +54842,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:08 discord.com</li>
+<ul><li> 14:09 whitewaterwriters.com</li>
+<li> 14:08 discord.com</li>
+<li> 14:07 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -54810,6 +54865,15 @@ With number of accesses/minutes in parentheses
 <li> 14:38 analytics.google.com</li>
 <li> 14:34 panel.dreamhost.com</li>
 <li> 14:20 equalitytime.github.io</li>
+<li> 14:11 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:47 whitewaterwriters.com</li>
+<li class='same'> 11:30 whitewaterwriters.com</li>
+<li class='same'> 11:27 whitewaterwriters.com</li>
+<li class='same'> 11:26 whitewaterwriters.com</li>
 </ul>
 
 <H3>Monday, 15/05/23</H3>
@@ -54817,6 +54881,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 17:29 whitewaterwriters.com</li>
+</ul>
 
 <br>
 
