@@ -78,14 +78,14 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1395)</li>
 <li>duckduckgo.com (1022)</li>
 <li>www.theguardian.com (834)</li>
-<li>chatgpt.com (722)</li>
+<li>chatgpt.com (724)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>calendar.google.com (500)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>www.linkedin.com (466)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (408)</li>
-<li>login.microsoftonline.com (395)</li>
+<li>login.microsoftonline.com (397)</li>
 <li>gmail.com (360)</li>
 <li>tvtropes.org (358)</li>
 <li>web.whatsapp.com (313)</li>
@@ -108,8 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:13 eu-west-2.console.aws.amazon.com</li>
+<ul><li> 09:28 127.0.0.1:4000</li>
+<li class='same'> 09:25 127.0.0.1:4000</li>
+<li> 09:21 chatgpt.com</li>
+<li class='same'> 09:20 chatgpt.com</li>
+<li> 09:18 whitewaterwriters.com</li>
+<li> 09:15 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 09:13 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 09:12 eu-west-2.console.aws.amazon.com</li>
+<li> 09:08 herts365-my.sharepoint.com</li>
+<li> 09:08 login.microsoftonline.com</li>
+<li> 09:08 herts365-my.sharepoint.com</li>
+<li> 09:08 login.microsoftonline.com</li>
 <li> 09:05 www.whitewaterwriters.com</li>
 <li> 09:05 whitewaterwriters.com</li>
 <li> 09:05 www.whitewaterwriters.com</li>
