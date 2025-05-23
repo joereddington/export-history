@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (466)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (408)</li>
-<li>login.microsoftonline.com (397)</li>
+<li>login.microsoftonline.com (398)</li>
 <li>gmail.com (360)</li>
 <li>tvtropes.org (358)</li>
 <li>web.whatsapp.com (313)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:28 127.0.0.1:4000</li>
+<ul><li> 09:33 herts365-my.sharepoint.com</li>
+<li> 09:33 m365.cloud.microsoft</li>
+<li> 09:33 login.microsoftonline.com</li>
+<li> 09:33 adfs.herts.ac.uk</li>
+<li> 09:28 127.0.0.1:4000</li>
 <li class='same'> 09:25 127.0.0.1:4000</li>
 <li> 09:21 chatgpt.com</li>
 <li class='same'> 09:20 chatgpt.com</li>
