@@ -70,29 +70,29 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3011)</li>
 <li>outlook.office.com (2576)</li>
-<li>mail.google.com (2529)</li>
+<li>mail.google.com (2533)</li>
 <li>docs.google.com (1936)</li>
 <li>outlook.office365.com (1518)</li>
 <li>bsky.app (1459)</li>
 <li>www.reddit.com (1403)</li>
 <li>www.facebook.com (1395)</li>
 <li>duckduckgo.com (1021)</li>
-<li>www.theguardian.com (828)</li>
-<li>chatgpt.com (717)</li>
-<li>www.amazon.co.uk (716)</li>
+<li>www.theguardian.com (829)</li>
+<li>chatgpt.com (718)</li>
+<li>www.amazon.co.uk (717)</li>
 <li>calendar.google.com (496)</li>
 <li>rhul-my.sharepoint.com (472)</li>
 <li>www.linkedin.com (465)</li>
 <li>moodle.royalholloway.ac.uk (461)</li>
 <li>github.com (408)</li>
 <li>login.microsoftonline.com (392)</li>
-<li>gmail.com (359)</li>
+<li>gmail.com (360)</li>
 <li>tvtropes.org (358)</li>
 <li>web.whatsapp.com (313)</li>
 <li>drive.google.com (280)</li>
 <li>feedly.com (279)</li>
 <li>fritz.box (277)</li>
-<li>chat.openai.com (272)</li>
+<li>chat.openai.com (273)</li>
 <li>qbo.intuit.com (233)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (204)</li>
@@ -104,11 +104,50 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 23/05/25</H3>
+
+<br>
+
+<ul><li> 06:40 chatgpt.com</li>
+<li> 06:40 chat.openai.com</li>
+<li> 06:38 us-east-1.console.aws.amazon.com</li>
+<li> 06:38 signin.aws.amazon.com</li>
+<li> 06:38 us-east-1.console.aws.amazon.com</li>
+<li> 06:38 eu-west-2.signin.aws.amazon.com</li>
+<li> 06:38 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 06:34 eu-west-2.console.aws.amazon.com</li>
+<li> 06:34 signin.aws.amazon.com</li>
+<li> 06:34 eu-west-2.console.aws.amazon.com</li>
+<li> 06:31 signin.aws.amazon.com</li>
+<li class='same'> 06:30 signin.aws.amazon.com</li>
+<li> 06:30 theopenvoicefactory.org</li>
+<li> 06:29 eu-west-2.signin.aws.amazon.com</li>
+<li> 06:29 eu-west-2.console.aws.amazon.com</li>
+<li> 06:28 raw.githubusercontent.com</li>
+<li> 06:28 theopenvoicefactory.org</li>
+<li> 06:28 eu-west-2.console.aws.amazon.com</li>
+<li> 06:27 mail.google.com</li>
+<li class='same'> 06:25 mail.google.com</li>
+<li> 06:25 adblockplus.org</li>
+<li> 06:25 mail.google.com</li>
+<li class='same'> 06:24 mail.google.com</li>
+<li> 06:24 gmail.com</li>
+<li> 06:24 signin.aws.amazon.com</li>
+<li> 06:24 eu-west-2.signin.aws.amazon.com</li>
+<li> 06:24 eu-west-2.console.aws.amazon.com</li>
+<li> 06:23 www.amazon.co.uk</li>
+</ul>
+
 <H3>Thursday, 22/05/25</H3>
 
 <br>
 
-<ul><li> 20:37 www.theguardian.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:38 www.theguardian.com</li>
+<li class='same'> 20:37 www.theguardian.com</li>
 </ul>
 
 <br>
