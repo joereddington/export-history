@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3017)</li>
-<li>outlook.office.com (2576)</li>
+<li>outlook.office.com (2577)</li>
 <li>mail.google.com (2534)</li>
 <li>docs.google.com (1936)</li>
 <li>outlook.office365.com (1525)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (466)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (408)</li>
-<li>login.microsoftonline.com (398)</li>
+<li>login.microsoftonline.com (399)</li>
 <li>gmail.com (360)</li>
 <li>tvtropes.org (358)</li>
 <li>web.whatsapp.com (313)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:33 herts365-my.sharepoint.com</li>
+<ul><li> 09:58 whitewaterwriters.com</li>
+<li> 09:54 outlook.office.com</li>
+<li> 09:53 oauth.officeapps.live.com</li>
+<li> 09:53 login.microsoftonline.com</li>
+<li> 09:50 herts365-my.sharepoint.com</li>
+<li class='same'> 09:33 herts365-my.sharepoint.com</li>
 <li> 09:33 m365.cloud.microsoft</li>
 <li> 09:33 login.microsoftonline.com</li>
 <li> 09:33 adfs.herts.ac.uk</li>
