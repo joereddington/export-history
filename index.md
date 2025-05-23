@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3017)</li>
-<li>outlook.office.com (2577)</li>
+<li>outlook.office.com (2578)</li>
 <li>mail.google.com (2534)</li>
 <li>docs.google.com (1936)</li>
 <li>outlook.office365.com (1525)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1395)</li>
 <li>duckduckgo.com (1022)</li>
 <li>www.theguardian.com (834)</li>
-<li>chatgpt.com (724)</li>
+<li>chatgpt.com (725)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>calendar.google.com (500)</li>
 <li>rhul-my.sharepoint.com (473)</li>
@@ -108,8 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:58 whitewaterwriters.com</li>
-<li> 09:54 outlook.office.com</li>
+<ul><li> 10:14 whitewaterwriters.com</li>
+<li> 10:14 www.whitewaterwriters.com</li>
+<li> 10:14 whitewaterwriters.com</li>
+<li> 10:13 us-east-1.console.aws.amazon.com</li>
+<li> 10:07 chatgpt.com</li>
+<li> 10:06 whitewaterwriters.com</li>
+<li> 10:01 127.0.0.1:4000</li>
+<li> 09:58 whitewaterwriters.com</li>
+<li> 09:55 outlook.office.com</li>
+<li class='same'> 09:54 outlook.office.com</li>
 <li> 09:53 oauth.officeapps.live.com</li>
 <li> 09:53 login.microsoftonline.com</li>
 <li> 09:50 herts365-my.sharepoint.com</li>
