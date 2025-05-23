@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3018)</li>
 <li>outlook.office.com (2578)</li>
-<li>mail.google.com (2535)</li>
+<li>mail.google.com (2538)</li>
 <li>docs.google.com (1936)</li>
 <li>outlook.office365.com (1527)</li>
 <li>bsky.app (1470)</li>
 <li>www.reddit.com (1409)</li>
 <li>www.facebook.com (1396)</li>
-<li>duckduckgo.com (1023)</li>
+<li>duckduckgo.com (1027)</li>
 <li>www.theguardian.com (834)</li>
-<li>chatgpt.com (727)</li>
+<li>chatgpt.com (728)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>calendar.google.com (500)</li>
 <li>rhul-my.sharepoint.com (473)</li>
-<li>www.linkedin.com (467)</li>
+<li>www.linkedin.com (469)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (409)</li>
 <li>login.microsoftonline.com (399)</li>
@@ -90,9 +90,9 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (358)</li>
 <li>web.whatsapp.com (317)</li>
 <li>drive.google.com (280)</li>
-<li>feedly.com (279)</li>
+<li>feedly.com (280)</li>
 <li>fritz.box (277)</li>
-<li>chat.openai.com (274)</li>
+<li>chat.openai.com (275)</li>
 <li>qbo.intuit.com (233)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (204)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:31 www.projectreal.co.uk</li>
+<ul><li> 12:18 equalitytime.github.io</li>
+<li> 12:11 www.linkedin.com</li>
+<li> 12:03 feedly.com</li>
+<li> 11:58 chatgpt.com</li>
+<li> 11:58 chat.openai.com</li>
+<li> 11:54 <a href="https://en.wikipedia.org/wiki/Rob_Schneider">Rob Schneider - Wikipedia</a></li>
+<li> 11:54 <a href="https://en.wikipedia.org/wiki/Elle_King">Elle King - Wikipedia</a></li>
+<li> 11:54 duckduckgo.com</li>
+<li> 11:50 equalitytime.github.io</li>
+<li> 11:47 mail.google.com</li>
+<li> 11:42 www.ncesc.com</li>
+<li> 11:42 duckduckgo.com</li>
+<li> 11:41 www.gameslearningsociety.org</li>
+<li> 11:41 duckduckgo.com</li>
+<li> 11:39 mail.google.com</li>
+<li class='same'> 11:38 mail.google.com</li>
+<li> 11:35 www.linkedin.com</li>
+<li> 11:33 pmc.ncbi.nlm.nih.gov</li>
+<li> 11:33 duckduckgo.com</li>
+<li> 11:31 www.projectreal.co.uk</li>
 <li> 11:29 chatgpt.com</li>
 <li class='same'> 11:27 chatgpt.com</li>
 <li> 11:27 chat.openai.com</li>
