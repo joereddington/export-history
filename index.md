@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3011)</li>
+<ol><li>www.google.com (3017)</li>
 <li>outlook.office.com (2576)</li>
 <li>mail.google.com (2533)</li>
 <li>docs.google.com (1936)</li>
 <li>outlook.office365.com (1518)</li>
 <li>bsky.app (1459)</li>
-<li>www.reddit.com (1403)</li>
+<li>www.reddit.com (1407)</li>
 <li>www.facebook.com (1395)</li>
 <li>duckduckgo.com (1021)</li>
-<li>www.theguardian.com (829)</li>
+<li>www.theguardian.com (834)</li>
 <li>chatgpt.com (718)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>calendar.google.com (496)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 23/05/25</H3>
+
+<br>
+
+<ul><li> 07:21 www.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -136,6 +141,8 @@ With number of accesses/minutes in parentheses
 <li> 06:24 eu-west-2.signin.aws.amazon.com</li>
 <li> 06:24 eu-west-2.console.aws.amazon.com</li>
 <li> 06:23 www.amazon.co.uk</li>
+<li> 06:18 www.theguardian.com</li>
+<li> 06:18 www.google.com</li>
 </ul>
 
 <H3>Thursday, 22/05/25</H3>
@@ -146,8 +153,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li class='same'> 21:48 www.google.com</li>
+<li> 21:46 www.theguardian.com</li>
+<li> 21:46 www.google.com</li>
+<li> 21:46 www.theguardian.com</li>
+<li class='same'> 21:45 www.theguardian.com</li>
+<li> 21:45 www.britishpowerlifting.org</li>
+</ul>
+
+<br>
+
 <ul><li> 20:38 www.theguardian.com</li>
 <li class='same'> 20:37 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:34 www.britishpowerlifting.org</li>
+<li> 17:34 www.google.com</li>
+<li> 17:34 www.beactivebeds.co.uk</li>
+<li> 17:34 www.google.com</li>
+<li> 17:34 cademy.io</li>
+<li class='same'> 17:33 cademy.io</li>
+<li> 17:33 www.google.com</li>
+<li> 17:33 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:41 www.reddit.com</li>
 </ul>
 
 <br>
@@ -220,7 +254,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:46 www.google.com</li>
+<ul><li> 09:48 www.reddit.com</li>
+<li class='same'> 09:46 www.reddit.com</li>
+<li> 09:46 www.google.com</li>
 <li> 09:46 www.mentalfloss.com</li>
 </ul>
 
@@ -44675,7 +44711,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:59 equalitytime.github.io</li>
 <li> 14:49 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
-<li> 14:41 theopenvoicefactory.org</li>
+<li> 14:48 theopenvoicefactory.org</li>
+<li class='same'> 14:45 theopenvoicefactory.org</li>
+<li class='same'> 14:41 theopenvoicefactory.org</li>
 <li> 14:28 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 14:27 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
 <li> 14:24 forum.artofmemory.com</li>
@@ -44775,7 +44813,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:26 theopenvoicefactory.org</li>
+<ul><li> 07:33 theopenvoicefactory.org</li>
+<li class='same'> 07:26 theopenvoicefactory.org</li>
 <li class='same'> 07:20 theopenvoicefactory.org</li>
 <li> 07:02 127.0.0.1:4000</li>
 <li> 06:51 github.com</li>
@@ -47526,7 +47565,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:42 rhul-my.sharepoint.com</li>
 <li> 15:34 equalitytime.github.io</li>
 <li class='same'> 15:33 equalitytime.github.io</li>
-<li class='same'> 15:31 equalitytime.github.io</li>
+<li> 15:31 theopenvoicefactory.org</li>
+<li> 15:31 equalitytime.github.io</li>
 <li class='same'> 15:30 equalitytime.github.io</li>
 <li> 15:23 theopenvoicefactory.org</li>
 </ul>
@@ -49994,7 +50034,8 @@ With number of accesses/minutes in parentheses
 <li> 11:37 online.unity.co.uk</li>
 <li> 11:25 equalitytime.co.uk</li>
 <li class='same'> 11:07 equalitytime.co.uk</li>
-<li class='same'> 11:03 equalitytime.co.uk</li>
+<li> 11:03 theopenvoicefactory.org</li>
+<li> 11:03 equalitytime.co.uk</li>
 <li class='same'> 11:00 equalitytime.co.uk</li>
 </ul>
 
@@ -50730,6 +50771,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:42 drive.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:19 theopenvoicefactory.org</li>
 </ul>
 
 <br>
@@ -51562,7 +51608,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:01 equalitytime.github.io</li>
-<li class='same'> 10:52 equalitytime.github.io</li>
+<li> 10:57 theopenvoicefactory.org</li>
+<li> 10:52 equalitytime.github.io</li>
 <li class='same'> 10:51 equalitytime.github.io</li>
 </ul>
 
@@ -51599,14 +51646,22 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 12:33 0.0.0.0:7000</li>
 <li class='same'> 12:32 0.0.0.0:7000</li>
+<li> 12:19 theopenvoicefactory.org</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 10:25 0.0.0.0:7000</li>
+<ul><li class='same'> 11:16 theopenvoicefactory.org</li>
+<li class='same'> 11:06 theopenvoicefactory.org</li>
+</ul>
+
+<br>
+
+<ul><li> 10:25 0.0.0.0:7000</li>
 <li class='same'> 10:11 0.0.0.0:7000</li>
 <li class='same'> 10:05 0.0.0.0:7000</li>
-<li class='same'> 09:48 0.0.0.0:7000</li>
+<li> 09:59 theopenvoicefactory.org</li>
+<li> 09:48 0.0.0.0:7000</li>
 <li class='same'> 09:33 0.0.0.0:7000</li>
 <li class='same'> 09:31 0.0.0.0:7000</li>
 </ul>
@@ -51698,6 +51753,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:27 equalitytime.github.io</li>
 <li class='same'> 07:19 equalitytime.github.io</li>
+<li> 07:09 theopenvoicefactory.org</li>
 </ul>
 
 <H3>Thursday, 05/10/23</H3>
@@ -52172,6 +52228,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:26 equalitytime.github.io</li>
 <li class='same'> 07:18 equalitytime.github.io</li>
+<li> 07:16 theopenvoicefactory.org</li>
 </ul>
 
 <br>
@@ -54369,6 +54426,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:50 www.thecompleteuniversityguide.co.uk</li>
 <li class='same'> 15:34 www.thecompleteuniversityguide.co.uk</li>
+<li> 15:14 theopenvoicefactory.org</li>
 </ul>
 
 <br>
