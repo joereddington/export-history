@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3018)</li>
 <li>outlook.office.com (2583)</li>
-<li>mail.google.com (2539)</li>
+<li>mail.google.com (2540)</li>
 <li>docs.google.com (1936)</li>
-<li>outlook.office365.com (1527)</li>
-<li>bsky.app (1471)</li>
+<li>outlook.office365.com (1537)</li>
+<li>bsky.app (1475)</li>
 <li>www.reddit.com (1409)</li>
 <li>www.facebook.com (1396)</li>
 <li>duckduckgo.com (1027)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:31 bitly.com</li>
+<ul><li> 14:30 www.projectreal.co.uk</li>
+<li> 14:19 127.0.0.1:4000</li>
+<li> 14:13 bsky.app</li>
+<li> 14:06 www.projectreal.co.uk</li>
+<li> 13:58 bsky.app</li>
+<li> 13:57 127.0.0.1:4000</li>
+<li> 13:53 www.projectreal.co.uk</li>
+<li> 13:50 127.0.0.1:4000</li>
+<li class='same'> 13:48 127.0.0.1:4000</li>
+<li> 13:46 bsky.app</li>
+<li> 13:44 127.0.0.1:4000</li>
+<li class='same'> 13:43 127.0.0.1:4000</li>
+<li> 13:40 www.projectreal.co.uk</li>
+<li> 13:40 bsky.app</li>
+<li> 13:40 outlook.office365.com</li>
+<li class='same'> 13:38 outlook.office365.com</li>
+<li> 13:38 mail.google.com</li>
+<li> 13:38 outlook.office365.com</li>
+<li class='same'> 13:37 outlook.office365.com</li>
+<li> 13:34 127.0.0.1:4000</li>
+<li class='same'> 13:33 127.0.0.1:4000</li>
+<li> 13:31 app.bitly.com</li>
+<li> 13:31 bitly.com</li>
 <li> 13:31 app.bitly.com</li>
 <li> 13:31 bitly.com</li>
 <li> 13:31 mail.google.com</li>
@@ -39405,7 +39427,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:28 www.giantitp.com</li>
+<li> 06:25 outlook.office365.com</li>
 <li> 06:09 www.linkedin.com</li>
+<li> 06:01 outlook.office365.com</li>
 <li> 05:58 forms.office.com</li>
 <li> 05:52 calendar.google.com</li>
 <li> 05:47 www.reddit.com</li>
@@ -39425,6 +39449,7 @@ With number of accesses/minutes in parentheses
 <li> 20:46 forms.office.com</li>
 <li class='same'> 20:45 forms.office.com</li>
 <li> 20:41 www.natesilver.net</li>
+<li> 20:41 outlook.office365.com</li>
 <li> 20:31 generalssb-prod.ec.royalholloway.ac.uk</li>
 </ul>
 
@@ -41253,6 +41278,8 @@ With number of accesses/minutes in parentheses
 <li> 15:06 outlook.office.com</li>
 <li> 15:04 moodle.royalholloway.ac.uk</li>
 <li class='same'> 15:03 moodle.royalholloway.ac.uk</li>
+<li> 15:03 app.bitly.com</li>
+<li class='same'> 15:02 app.bitly.com</li>
 <li> 15:02 bitly.com</li>
 <li> 15:02 app.bitly.com</li>
 <li> 15:02 bitly.com</li>
@@ -44666,6 +44693,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:19 webtimetables.royalholloway.ac.uk</li>
 <li> 11:16 outlook.office365.com</li>
+<li class='same'> 11:14 outlook.office365.com</li>
 <li class='same'> 11:10 outlook.office365.com</li>
 <li> 11:08 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
 <li> 11:04 www.paypal.com</li>
@@ -44808,7 +44836,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:23 www.facebook.com</li>
+<ul><li> 15:29 outlook.office365.com</li>
+<li> 15:23 www.facebook.com</li>
 </ul>
 
 <br>
@@ -47327,6 +47356,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 12:27 myview.rhul.zellis.com</li>
 <li> 12:22 rhul.sharepoint.com</li>
 <li> 12:19 outlook.office365.com</li>
+<li class='same'> 12:14 outlook.office365.com</li>
 <li class='same'> 12:02 outlook.office365.com</li>
 <li class='same'> 11:59 outlook.office365.com</li>
 </ul>
