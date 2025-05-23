@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3018)</li>
 <li>outlook.office.com (2578)</li>
-<li>mail.google.com (2534)</li>
+<li>mail.google.com (2535)</li>
 <li>docs.google.com (1936)</li>
 <li>outlook.office365.com (1527)</li>
 <li>bsky.app (1470)</li>
@@ -78,21 +78,21 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1396)</li>
 <li>duckduckgo.com (1023)</li>
 <li>www.theguardian.com (834)</li>
-<li>chatgpt.com (725)</li>
+<li>chatgpt.com (727)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>calendar.google.com (500)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>www.linkedin.com (467)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
-<li>github.com (408)</li>
+<li>github.com (409)</li>
 <li>login.microsoftonline.com (399)</li>
-<li>gmail.com (360)</li>
+<li>gmail.com (361)</li>
 <li>tvtropes.org (358)</li>
 <li>web.whatsapp.com (317)</li>
 <li>drive.google.com (280)</li>
 <li>feedly.com (279)</li>
 <li>fritz.box (277)</li>
-<li>chat.openai.com (273)</li>
+<li>chat.openai.com (274)</li>
 <li>qbo.intuit.com (233)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (204)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:24 <a href="https://joereddington.com/2025/05/23/getting-my-stupid-server-working-again.html">Getting my stupid server working again. | Joe Reddington</a></li>
+<ul><li> 11:31 www.projectreal.co.uk</li>
+<li> 11:29 chatgpt.com</li>
+<li class='same'> 11:27 chatgpt.com</li>
+<li> 11:27 chat.openai.com</li>
+<li> 11:26 equalitytime.github.io</li>
+<li> 11:26 github.com</li>
+<li> 11:26 equalitytime.github.io</li>
+<li> 11:24 mail.google.com</li>
+<li> 11:24 gmail.com</li>
+<li> 11:24 <a href="https://joereddington.com/2025/05/23/getting-my-stupid-server-working-again.html">Getting my stupid server working again. | Joe Reddington</a></li>
 <li> 11:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 11:23 www.google.com</li>
