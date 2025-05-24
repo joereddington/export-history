@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (400)</li>
 <li>gmail.com (365)</li>
 <li>tvtropes.org (358)</li>
-<li>web.whatsapp.com (319)</li>
+<li>web.whatsapp.com (320)</li>
 <li>drive.google.com (282)</li>
 <li>feedly.com (280)</li>
 <li>chat.openai.com (278)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:56 www.typingtest.com</li>
+<ul><li> 07:56 web.whatsapp.com</li>
+<li> 07:56 www.typingtest.com</li>
 <li class='same'> 07:54 www.typingtest.com</li>
 <li class='same'> 07:53 www.typingtest.com</li>
 <li> 07:53 www.speedtypingonline.com</li>
