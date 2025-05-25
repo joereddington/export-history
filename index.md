@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1409)</li>
 <li>www.facebook.com (1396)</li>
 <li>duckduckgo.com (1032)</li>
-<li>www.theguardian.com (850)</li>
+<li>www.theguardian.com (853)</li>
 <li>chatgpt.com (734)</li>
 <li>www.amazon.co.uk (714)</li>
 <li>calendar.google.com (500)</li>
@@ -104,11 +104,24 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 25/05/25</H3>
+
+<br>
+
+<ul><li> 09:17 www.theguardian.com</li>
+</ul>
+
 <H3>Saturday, 24/05/25</H3>
 
 <br>
 
-<ul><li> 21:23 www.theguardian.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:25 www.theguardian.com</li>
+<li class='same'> 21:24 www.theguardian.com</li>
+<li class='same'> 21:23 www.theguardian.com</li>
 </ul>
 
 <br>
