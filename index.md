@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1409)</li>
 <li>www.facebook.com (1396)</li>
 <li>duckduckgo.com (1032)</li>
-<li>www.theguardian.com (836)</li>
+<li>www.theguardian.com (850)</li>
 <li>chatgpt.com (734)</li>
 <li>www.amazon.co.uk (714)</li>
 <li>calendar.google.com (500)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:23 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:02 www.theguardian.com</li>
+<li class='same'> 13:59 www.theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 12:18 mail.google.com</li>
+<li> 11:55 www.theguardian.com</li>
+<li class='same'> 11:50 www.theguardian.com</li>
+<li class='same'> 11:43 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:46 www.theguardian.com</li>
+<li class='same'> 10:45 www.theguardian.com</li>
+<li class='same'> 10:44 www.theguardian.com</li>
+<li class='same'> 10:43 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -164,6 +186,8 @@ With number of accesses/minutes in parentheses
 <li> 06:35 docs.google.com</li>
 <li> 06:35 drive.google.com</li>
 <li class='same'> 06:34 drive.google.com</li>
+<li> 06:32 www.theguardian.com</li>
+<li class='same'> 06:30 www.theguardian.com</li>
 </ul>
 
 <H3>Friday, 23/05/25</H3>
@@ -174,7 +198,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:26 www.theguardian.com</li>
+<ul><li class='same'> 19:08 www.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:27 www.theguardian.com</li>
+<li class='same'> 18:26 www.theguardian.com</li>
 </ul>
 
 <br>
@@ -51013,6 +51043,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:51 github.com</li>
 <li class='same'> 07:31 github.com</li>
 <li class='same'> 07:20 github.com</li>
+<li> 07:01 console.cloud.google.com</li>
 </ul>
 
 <H3>Thursday, 16/11/23</H3>
@@ -51802,7 +51833,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:02 www.paypal.com</li>
+<ul><li> 13:05 www.paypal.com</li>
+<li class='same'> 13:02 www.paypal.com</li>
 <li class='same'> 13:00 www.paypal.com</li>
 <li> 12:59 www.facebook.com</li>
 <li class='same'> 12:58 www.facebook.com</li>
@@ -54200,6 +54232,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:29 www.google.co.uk</li>
+<li> 12:11 console.cloud.google.com</li>
 </ul>
 
 <br>
@@ -55471,6 +55504,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:00 www.paypal.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:53 www.onlinebanking.natwest.com</li>
 <li> 07:53 www.natwest.com</li>
 </ul>
@@ -56719,6 +56757,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:30 find-and-update.company-information.service.gov.uk</li>
 <li> 10:20 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 06:59 www.paypal.com</li>
 </ul>
 
 <H3>Friday, 14/10/22</H3>
