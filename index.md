@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3021)</li>
+<ol><li>www.google.com (3024)</li>
 <li>outlook.office.com (2583)</li>
 <li>mail.google.com (2559)</li>
 <li>docs.google.com (1951)</li>
 <li>outlook.office365.com (1537)</li>
 <li>bsky.app (1477)</li>
-<li>www.reddit.com (1409)</li>
+<li>www.reddit.com (1419)</li>
 <li>www.facebook.com (1396)</li>
 <li>duckduckgo.com (1032)</li>
-<li>www.theguardian.com (853)</li>
+<li>www.theguardian.com (855)</li>
 <li>chatgpt.com (734)</li>
 <li>www.amazon.co.uk (714)</li>
 <li>calendar.google.com (500)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 25/05/25</H3>
+
+<br>
+
+<ul><li> 19:59 www.reddit.com</li>
+<li class='same'> 19:58 www.reddit.com</li>
+<li class='same'> 19:56 www.reddit.com</li>
+<li class='same'> 19:55 www.reddit.com</li>
+<li class='same'> 19:54 www.reddit.com</li>
+<li class='same'> 19:53 www.reddit.com</li>
+<li class='same'> 19:52 www.reddit.com</li>
+<li> 19:45 www.theguardian.com</li>
+<li class='same'> 19:43 www.theguardian.com</li>
+<li> 19:43 www.google.com</li>
+</ul>
 
 <br>
 
@@ -337,6 +351,11 @@ With number of accesses/minutes in parentheses
 <li> 11:54 <a href="https://en.wikipedia.org/wiki/Rob_Schneider">Rob Schneider - Wikipedia</a></li>
 <li> 11:54 <a href="https://en.wikipedia.org/wiki/Elle_King">Elle King - Wikipedia</a></li>
 <li> 11:54 duckduckgo.com</li>
+<li> 11:51 www.google.com</li>
+<li> 11:51 www.reddit.com</li>
+<li class='same'> 11:50 www.reddit.com</li>
+<li> 11:50 www.google.com</li>
+<li> 11:50 www.reddit.com</li>
 <li> 11:50 equalitytime.github.io</li>
 <li> 11:47 mail.google.com</li>
 <li> 11:42 www.ncesc.com</li>
@@ -17522,8 +17541,7 @@ With number of accesses/minutes in parentheses
 <li> 16:01 <a href="https://en.wikipedia.org/wiki/Bicycle_trainer">Bicycle trainer - Wikipedia</a></li>
 <li> 16:01 duckduckgo.com</li>
 <li> 16:00 www.pedalpowergenerator.com</li>
-<li> 16:00 www.google.co.uk</li>
-<li class='same'> 15:59 www.google.co.uk</li>
+<li> 15:59 www.google.co.uk</li>
 <li> 15:59 duckduckgo.com</li>
 <li> 15:52 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
 <li> 15:51 <a href="https://en.wikipedia.org/wiki/Robert_C._Martin">Robert C. Martin - Wikipedia</a></li>
@@ -17548,8 +17566,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:56 feedly.com</li>
-<li> 14:43 www.ebay.co.uk</li>
-<li class='same'> 14:42 www.ebay.co.uk</li>
+<li> 14:42 www.ebay.co.uk</li>
 <li> 14:38 www.theguardian.com</li>
 <li> 14:38 www.reddit.com</li>
 </ul>
