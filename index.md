@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2559)</li>
 <li>docs.google.com (1951)</li>
 <li>outlook.office365.com (1537)</li>
-<li>bsky.app (1477)</li>
+<li>bsky.app (1478)</li>
 <li>www.reddit.com (1422)</li>
 <li>www.facebook.com (1396)</li>
 <li>duckduckgo.com (1032)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (473)</li>
 <li>www.linkedin.com (470)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
-<li>github.com (414)</li>
+<li>github.com (415)</li>
 <li>login.microsoftonline.com (400)</li>
 <li>gmail.com (366)</li>
 <li>tvtropes.org (358)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:19 reductress.com</li>
+<ul><li> 10:28 github.com</li>
+<li> 10:26 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 10:24 bsky.app</li>
+<li> 10:19 reductress.com</li>
 <li class='same'> 10:08 reductress.com</li>
 <li> 10:08 chatgpt.com</li>
 <li class='same'> 10:07 chatgpt.com</li>
