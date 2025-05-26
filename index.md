@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3027)</li>
 <li>outlook.office.com (2583)</li>
-<li>mail.google.com (2559)</li>
+<li>mail.google.com (2565)</li>
 <li>docs.google.com (1951)</li>
 <li>outlook.office365.com (1537)</li>
-<li>bsky.app (1478)</li>
+<li>bsky.app (1481)</li>
 <li>www.reddit.com (1422)</li>
 <li>www.facebook.com (1396)</li>
 <li>duckduckgo.com (1032)</li>
@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (470)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (416)</li>
-<li>login.microsoftonline.com (400)</li>
-<li>gmail.com (366)</li>
+<li>login.microsoftonline.com (403)</li>
+<li>gmail.com (367)</li>
 <li>tvtropes.org (358)</li>
 <li>web.whatsapp.com (321)</li>
 <li>drive.google.com (282)</li>
@@ -108,11 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 github.com</li>
+<ul><li> 11:18 ce0997li.webitrent.com</li>
+<li> 11:17 eu-west.azureauth.duosecurity.com</li>
+<li> 11:17 ce0997li.webitrent.com</li>
+<li> 11:17 api-b6327e78.duosecurity.com</li>
+<li> 11:17 login.microsoftonline.com</li>
+<li> 11:17 www.hr.herts.ac.uk</li>
+<li> 11:16 login.microsoftonline.com</li>
+<li> 11:16 www.hr.herts.ac.uk</li>
+<li> 11:15 herts365.sharepoint.com</li>
+<li> 11:15 login.microsoftonline.com</li>
+<li> 11:15 herts365.sharepoint.com</li>
+<li> 11:15 mail.google.com</li>
+<li class='same'> 11:10 mail.google.com</li>
+<li> 11:09 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 11:09 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:37 mail.google.com</li>
+<li> 10:37 gmail.com</li>
+<li> 10:37 mail.google.com</li>
+<li> 10:36 bsky.app</li>
+<li class='same'> 10:35 bsky.app</li>
+<li class='same'> 10:34 bsky.app</li>
+<li> 10:34 mail.google.com</li>
+<li> 10:29 github.com</li>
 <li class='same'> 10:28 github.com</li>
 <li> 10:26 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 10:24 bsky.app</li>
-<li> 10:19 reductress.com</li>
+<li> 10:21 reductress.com</li>
+<li class='same'> 10:19 reductress.com</li>
 <li class='same'> 10:08 reductress.com</li>
 <li> 10:08 chatgpt.com</li>
 <li class='same'> 10:07 chatgpt.com</li>
