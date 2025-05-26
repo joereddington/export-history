@@ -70,17 +70,17 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3027)</li>
 <li>outlook.office.com (2583)</li>
-<li>mail.google.com (2565)</li>
+<li>mail.google.com (2567)</li>
 <li>docs.google.com (1951)</li>
 <li>outlook.office365.com (1537)</li>
-<li>bsky.app (1481)</li>
+<li>bsky.app (1482)</li>
 <li>www.reddit.com (1422)</li>
 <li>www.facebook.com (1396)</li>
 <li>duckduckgo.com (1032)</li>
 <li>chatgpt.com (736)</li>
 <li>www.amazon.co.uk (714)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (500)</li>
+<li>calendar.google.com (503)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>www.linkedin.com (470)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (233)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (204)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (194)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
 <li>forms.office.com (178)</li>
 
 
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:18 ce0997li.webitrent.com</li>
+<ul><li> 12:33 bsky.app</li>
+<li> 12:31 calendar.google.com</li>
+<li> 12:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:29 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+</ul>
+
+<br>
+
+<ul><li> 11:27 mail.google.com</li>
+<li> 11:27 ce0997li.webitrent.com</li>
+<li class='same'> 11:26 ce0997li.webitrent.com</li>
+<li class='same'> 11:23 ce0997li.webitrent.com</li>
+<li> 11:23 calendar.google.com</li>
+<li class='same'> 11:22 calendar.google.com</li>
+<li> 11:22 mail.google.com</li>
+<li> 11:18 ce0997li.webitrent.com</li>
 <li> 11:17 eu-west.azureauth.duosecurity.com</li>
 <li> 11:17 ce0997li.webitrent.com</li>
 <li> 11:17 api-b6327e78.duosecurity.com</li>
