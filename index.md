@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (473)</li>
 <li>www.linkedin.com (470)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
-<li>github.com (415)</li>
+<li>github.com (416)</li>
 <li>login.microsoftonline.com (400)</li>
 <li>gmail.com (366)</li>
 <li>tvtropes.org (358)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:28 github.com</li>
+<ul><li> 10:29 github.com</li>
+<li class='same'> 10:28 github.com</li>
 <li> 10:26 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 10:24 bsky.app</li>
 <li> 10:19 reductress.com</li>
