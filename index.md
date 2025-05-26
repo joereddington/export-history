@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3027)</li>
+<ol><li>www.google.com (3023)</li>
 <li>outlook.office.com (2583)</li>
-<li>mail.google.com (2567)</li>
+<li>mail.google.com (2566)</li>
 <li>docs.google.com (1951)</li>
 <li>outlook.office365.com (1537)</li>
 <li>bsky.app (1482)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (280)</li>
 <li>chat.openai.com (279)</li>
 <li>fritz.box (277)</li>
-<li>qbo.intuit.com (233)</li>
+<li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (204)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
@@ -17486,7 +17486,6 @@ With number of accesses/minutes in parentheses
 <li> 14:16 www.reddit.com</li>
 <li> 14:15 mail.google.com</li>
 <li class='same'> 14:14 mail.google.com</li>
-<li class='same'> 14:03 mail.google.com</li>
 <li class='same'> 14:02 mail.google.com</li>
 <li> 14:01 51.148.131.133:8008</li>
 <li class='same'> 14:00 51.148.131.133:8008</li>
@@ -17515,15 +17514,12 @@ With number of accesses/minutes in parentheses
 <li> 13:41 mail.google.com</li>
 <li class='same'> 13:40 mail.google.com</li>
 <li> 13:40 qbo.intuit.com</li>
-<li> 13:40 intuit-qbo-prod-28.s3.amazonaws.com</li>
-<li> 13:40 qbo.intuit.com</li>
 <li class='same'> 13:39 qbo.intuit.com</li>
 <li> 13:39 mail.google.com</li>
 <li> 13:38 qbo.intuit.com</li>
 <li> 13:38 mail.google.com</li>
 <li> 13:38 qbo.intuit.com</li>
-<li> 13:38 intuit-qbo-prod-28.s3.amazonaws.com</li>
-<li> 13:37 qbo.intuit.com</li>
+<li class='same'> 13:37 qbo.intuit.com</li>
 <li> 13:37 mail.google.com</li>
 <li> 13:37 online.unity.co.uk</li>
 <li> 13:37 mail.google.com</li>
@@ -17579,17 +17575,11 @@ With number of accesses/minutes in parentheses
 <li> 10:57 mail.google.com</li>
 <li class='same'> 10:56 mail.google.com</li>
 <li> 10:56 equalitytime.github.io</li>
-<li> 10:56 www.google.com</li>
-<li> 10:56 equalitytime.github.io</li>
-<li> 10:56 www.google.com</li>
-<li> 10:56 equalitytime.github.io</li>
 <li> 10:55 mail.google.com</li>
 <li class='same'> 10:53 mail.google.com</li>
 <li> 10:53 accounts.google.co.uk</li>
 <li> 10:53 mail.google.com</li>
 <li> 10:53 accounts.youtube.com</li>
-<li> 10:53 accounts.google.com</li>
-<li class='same'> 10:52 accounts.google.com</li>
 <li> 10:52 mail.google.com</li>
 <li> 10:52 gmail.com</li>
 <li> 10:52 accounts.google.com</li>
@@ -17620,9 +17610,7 @@ With number of accesses/minutes in parentheses
 <li> 09:11 <a href="https://joereddington.com/2020/08/26/plays.html">Shakespeare | Joe Reddington</a></li>
 <li> 09:11 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:11 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 09:02 www.google.com</li>
 <li> 09:01 www.reddit.com</li>
-<li> 09:01 www.google.com</li>
 <li> 09:00 askubuntu.com</li>
 <li> 09:00 www.google.com</li>
 <li> 08:57 chatgpt.com</li>
@@ -17652,8 +17640,6 @@ With number of accesses/minutes in parentheses
 <li> 06:29 <a href="https://en.wikipedia.org/wiki/Grammy_Award_for_Album_of_the_Year">Grammy Award for Album of the Year - Wikipedia</a></li>
 <li> 06:29 www.google.com</li>
 <li> 06:29 open.spotify.com</li>
-<li> 06:29 127.0.0.1:4381</li>
-<li> 06:29 accounts.spotify.com</li>
 <li> 06:29 languagetool.org</li>
 <li> 06:28 accounts.spotify.com</li>
 </ul>
