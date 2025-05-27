@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3029)</li>
+<ol><li>www.google.com (3031)</li>
 <li>outlook.office.com (2583)</li>
 <li>mail.google.com (2569)</li>
 <li>docs.google.com (1952)</li>
-<li>outlook.office365.com (1541)</li>
-<li>bsky.app (1485)</li>
-<li>www.reddit.com (1469)</li>
-<li>www.facebook.com (1397)</li>
+<li>outlook.office365.com (1542)</li>
+<li>bsky.app (1488)</li>
+<li>www.reddit.com (1471)</li>
+<li>www.facebook.com (1398)</li>
 <li>duckduckgo.com (1039)</li>
 <li>chatgpt.com (738)</li>
 <li>www.amazon.co.uk (716)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:38 www.natesilver.net</li>
+<ul><li> 12:35 www.reddit.com</li>
+<li class='same'> 12:34 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:03 www.google.com</li>
+<li> 11:44 bsky.app</li>
+<li class='same'> 11:43 bsky.app</li>
+<li class='same'> 11:42 bsky.app</li>
+<li> 11:42 www.facebook.com</li>
+<li> 11:42 outlook.office365.com</li>
+<li> 11:42 www.disneyplus.com</li>
+<li class='same'> 11:41 www.disneyplus.com</li>
+<li class='same'> 11:40 www.disneyplus.com</li>
+<li> 11:38 www.natesilver.net</li>
 <li> 11:37 www.foxnews.com</li>
 <li> 11:32 imgur.com</li>
 <li> 11:32 www.reddit.com</li>
@@ -125,6 +141,8 @@ With number of accesses/minutes in parentheses
 <li> 11:25 www.facebook.com</li>
 <li> 11:24 www.lutongymnastics.co.uk</li>
 <li> 11:24 www.google.com</li>
+<li class='same'> 11:13 www.google.com</li>
+<li> 11:11 <a href="https://www.theguardian.com/uk-news/live/2025/may/27/liverpool-parade-crowd-collision-latest-updates#top-of-blog">Liverpool parade collision: four people still ‘very, very ill in hospital’ says mayor – latest updates</a></li>
 <li> 11:08 outlook.office365.com</li>
 <li> 11:01 www.google.com</li>
 <li> 11:01 www.temu.com</li>
@@ -51034,7 +51052,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:34 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
-<li> 10:20 www.disneyplus.com</li>
+<li> 10:21 www.disneyplus.com</li>
+<li class='same'> 10:20 www.disneyplus.com</li>
 </ul>
 
 <H3>Wednesday, 29/11/23</H3>
@@ -58931,6 +58950,22 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:19 www.evernote.com</li>
 </ul>
 
+<H3>Thursday, 25/03/21</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:13 www.disneyplus.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:50 www.disneyplus.com</li>
+</ul>
+
 <H3>Tuesday, 23/03/21</H3>
 
 <br>
@@ -58953,6 +58988,20 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:05 www.google.com</li>
 </ul>
 
+<H3>Tuesday, 02/03/21</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 07:09 www.disneyplus.com</li>
+<li class='same'> 07:00 www.disneyplus.com</li>
+<li class='same'> 06:59 www.disneyplus.com</li>
+<li class='same'> 06:58 www.disneyplus.com</li>
+</ul>
+
 <H3>Tuesday, 23/02/21</H3>
 
 <br>
@@ -58973,6 +59022,18 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:56 mail.google.com</li>
+</ul>
+
+<H3>Monday, 15/02/21</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 13:01 www.disneyplus.com</li>
+<li class='same'> 13:00 www.disneyplus.com</li>
 </ul>
 
 <H3>Sunday, 14/02/21</H3>
