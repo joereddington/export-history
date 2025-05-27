@@ -70,11 +70,11 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3023)</li>
 <li>outlook.office.com (2583)</li>
-<li>mail.google.com (2568)</li>
+<li>mail.google.com (2569)</li>
 <li>docs.google.com (1952)</li>
 <li>outlook.office365.com (1537)</li>
 <li>bsky.app (1482)</li>
-<li>www.reddit.com (1439)</li>
+<li>www.reddit.com (1460)</li>
 <li>www.facebook.com (1396)</li>
 <li>duckduckgo.com (1034)</li>
 <li>chatgpt.com (737)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:41 www.reddit.com</li>
+<ul><li> 08:06 www.reddit.com</li>
+<li> 08:06 mail.google.com</li>
+<li> 08:05 www.reddit.com</li>
+<li class='same'> 07:50 www.reddit.com</li>
+<li class='same'> 07:49 www.reddit.com</li>
+<li class='same'> 07:44 www.reddit.com</li>
+<li class='same'> 07:43 www.reddit.com</li>
+<li class='same'> 07:42 www.reddit.com</li>
+<li class='same'> 07:41 www.reddit.com</li>
 <li class='same'> 07:40 www.reddit.com</li>
 <li> 07:40 duckduckgo.com</li>
 <li> 07:40 redditimer.netlify.app</li>
@@ -45671,6 +45679,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:22 www.disneyplus.com</li>
 <li class='same'> 12:21 www.disneyplus.com</li>
+<li> 12:18 www.reddit.com</li>
 <li> 12:17 equalitytime.github.io</li>
 <li class='same'> 12:16 equalitytime.github.io</li>
 <li class='same'> 12:14 equalitytime.github.io</li>
@@ -54523,7 +54532,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:43 www.reddit.com</li>
+<ul><li> 19:44 www.reddit.com</li>
+<li class='same'> 19:43 www.reddit.com</li>
 <li> 19:38 getpocket.com</li>
 </ul>
 
@@ -54732,7 +54742,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:41 drive.google.com</li>
-<li> 07:15 www.reddit.com</li>
+<li> 07:18 www.reddit.com</li>
+<li class='same'> 07:15 www.reddit.com</li>
 </ul>
 
 <br>
@@ -54994,12 +55005,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:43 docs.google.com</li>
+<ul><li> 11:51 www.reddit.com</li>
+<li> 11:43 docs.google.com</li>
 </ul>
 
 <br>
 
 <ul><li> 11:13 equalitytime.github.io</li>
+</ul>
+
+<br>
+
+<ul><li> 07:10 www.reddit.com</li>
 </ul>
 
 <H3>Tuesday, 30/05/23</H3>
@@ -55094,6 +55111,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:40 www.reddit.com</li>
+<li class='same'> 12:28 www.reddit.com</li>
 </ul>
 
 <br>
@@ -55105,6 +55123,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:25 mail.google.com</li>
 <li class='same'> 06:59 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 05:32 www.reddit.com</li>
 </ul>
 
 <H3>Wednesday, 24/05/23</H3>
@@ -55120,7 +55143,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:49 127.0.0.1:4000</li>
+<ul><li> 14:36 www.reddit.com</li>
+<li class='same'> 14:15 www.reddit.com</li>
+<li> 13:49 127.0.0.1:4000</li>
+<li> 13:35 www.reddit.com</li>
 </ul>
 
 <br>
@@ -55132,11 +55158,15 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:33 www.amazon.co.uk</li>
+<li> 11:30 www.reddit.com</li>
 </ul>
 
 <br>
 
-<ul><li> 10:22 www.reddit.com</li>
+<ul><li class='same'> 10:50 www.reddit.com</li>
+<li class='same'> 10:31 www.reddit.com</li>
+<li class='same'> 10:24 www.reddit.com</li>
+<li class='same'> 10:22 www.reddit.com</li>
 </ul>
 
 <br>
