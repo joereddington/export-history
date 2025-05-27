@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3023)</li>
 <li>outlook.office.com (2583)</li>
-<li>mail.google.com (2566)</li>
-<li>docs.google.com (1951)</li>
+<li>mail.google.com (2568)</li>
+<li>docs.google.com (1952)</li>
 <li>outlook.office365.com (1537)</li>
 <li>bsky.app (1482)</li>
-<li>www.reddit.com (1422)</li>
+<li>www.reddit.com (1439)</li>
 <li>www.facebook.com (1396)</li>
-<li>duckduckgo.com (1032)</li>
-<li>chatgpt.com (736)</li>
-<li>www.amazon.co.uk (714)</li>
+<li>duckduckgo.com (1034)</li>
+<li>chatgpt.com (737)</li>
+<li>www.amazon.co.uk (716)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (503)</li>
 <li>rhul-my.sharepoint.com (473)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (321)</li>
 <li>drive.google.com (282)</li>
 <li>feedly.com (280)</li>
-<li>chat.openai.com (279)</li>
+<li>chat.openai.com (280)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
@@ -104,7 +104,34 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 27/05/25</H3>
+
+<br>
+
+<ul><li> 07:41 www.reddit.com</li>
+<li class='same'> 07:40 www.reddit.com</li>
+<li> 07:40 duckduckgo.com</li>
+<li> 07:40 redditimer.netlify.app</li>
+<li class='same'> 07:39 redditimer.netlify.app</li>
+<li> 07:39 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:04 www.amazon.co.uk</li>
+<li> 07:04 chatgpt.com</li>
+<li> 07:04 chat.openai.com</li>
+<li> 07:03 www.amazon.co.uk</li>
+<li> 07:03 mail.google.com</li>
+<li> 07:03 docs.google.com</li>
+<li> 07:03 mail.google.com</li>
+</ul>
+
 <H3>Monday, 26/05/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -44932,6 +44959,7 @@ With number of accesses/minutes in parentheses
 <li> 10:33 challengeworks.org</li>
 <li class='same'> 10:32 challengeworks.org</li>
 <li> 10:11 <a href="https://joereddington.com/2024/06/18/history.html">Rebuilding public history | Joe Reddington</a></li>
+<li> 10:09 www.reddit.com</li>
 <li> 10:06 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 09:59 <a href="https://joereddington.com/2024/06/18/history.html">Rebuilding public history | Joe Reddington</a></li>
 <li> 09:47 github.com</li>
@@ -44996,7 +45024,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:24 whitewaterwriters.com</li>
 <li> 10:22 <a href="https://joereddington.com/export-history/slots.png">slots.png (PNG Image, 1200 × 800 pixels)</a></li>
 <li> 09:56 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
-<li class='same'> 09:42 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<li> 09:55 www.reddit.com</li>
+<li class='same'> 09:54 www.reddit.com</li>
+<li class='same'> 09:53 www.reddit.com</li>
+<li> 09:42 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 09:36 github.com</li>
 <li class='same'> 09:35 github.com</li>
 </ul>
@@ -45645,6 +45676,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:14 equalitytime.github.io</li>
 <li class='same'> 12:13 equalitytime.github.io</li>
 <li> 12:13 www.reddit.com</li>
+<li class='same'> 12:12 www.reddit.com</li>
 <li class='same'> 12:11 www.reddit.com</li>
 <li> 12:11 www.thortful.com</li>
 <li> 11:41 www.wolframalpha.com</li>
@@ -54491,7 +54523,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:38 getpocket.com</li>
+<ul><li> 19:43 www.reddit.com</li>
+<li> 19:38 getpocket.com</li>
 </ul>
 
 <br>
@@ -54699,6 +54732,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:41 drive.google.com</li>
+<li> 07:15 www.reddit.com</li>
 </ul>
 
 <br>
@@ -54977,7 +55011,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:07 github.com</li>
-<li> 06:55 www.reddit.com</li>
+<li> 06:57 www.reddit.com</li>
+<li class='same'> 06:56 www.reddit.com</li>
+<li class='same'> 06:55 www.reddit.com</li>
+<li class='same'> 06:50 www.reddit.com</li>
+<li class='same'> 06:49 www.reddit.com</li>
 <li> 06:34 www.onlinebanking.natwest.com</li>
 <li> 06:34 www.natwest.com</li>
 </ul>
@@ -54998,6 +55036,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:05 kdp.amazon.com</li>
 <li class='same'> 15:04 kdp.amazon.com</li>
+<li> 14:44 www.reddit.com</li>
 </ul>
 
 <H3>Friday, 26/05/23</H3>
@@ -55054,6 +55093,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:40 www.reddit.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:22 www.wolframalpha.com</li>
 </ul>
 
@@ -55088,6 +55132,16 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:33 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 10:22 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:08 www.reddit.com</li>
 </ul>
 
 <H3>Tuesday, 23/05/23</H3>
