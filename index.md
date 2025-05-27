@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3031)</li>
+<ol><li>www.google.com (3029)</li>
 <li>outlook.office.com (2583)</li>
 <li>mail.google.com (2569)</li>
 <li>docs.google.com (1952)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
-<li>rhul.sharepoint.com (204)</li>
+<li>rhul.sharepoint.com (203)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
 <li>forms.office.com (178)</li>
 
@@ -17236,9 +17236,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:42 www.ncsc.gov.uk</li>
-<li> 16:42 www.google.com</li>
-<li class='same'> 16:41 www.google.com</li>
-<li> 16:40 www.ncsc.gov.uk</li>
+<li class='same'> 16:40 www.ncsc.gov.uk</li>
 <li> 16:40 www.google.com</li>
 <li> 16:40 duckduckgo.com</li>
 <li> 16:39 www.gov.uk</li>
@@ -17449,8 +17447,7 @@ With number of accesses/minutes in parentheses
 <li> 09:54 rhul.sharepoint.com</li>
 <li> 09:52 outlook.office.com</li>
 <li class='same'> 09:51 outlook.office.com</li>
-<li> 09:50 rhul.sharepoint.com</li>
-<li class='same'> 09:48 rhul.sharepoint.com</li>
+<li> 09:48 rhul.sharepoint.com</li>
 <li class='same'> 09:47 rhul.sharepoint.com</li>
 <li> 09:47 login.microsoftonline.com</li>
 <li> 09:47 rhul-my.sharepoint.com</li>
