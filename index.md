@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3029)</li>
+<ol><li>www.google.com (3030)</li>
 <li>outlook.office.com (2583)</li>
 <li>mail.google.com (2569)</li>
 <li>docs.google.com (1952)</li>
 <li>outlook.office365.com (1542)</li>
 <li>bsky.app (1488)</li>
-<li>www.reddit.com (1471)</li>
+<li>www.reddit.com (1473)</li>
 <li>www.facebook.com (1398)</li>
-<li>duckduckgo.com (1039)</li>
-<li>chatgpt.com (738)</li>
+<li>duckduckgo.com (1041)</li>
+<li>chatgpt.com (739)</li>
 <li>www.amazon.co.uk (716)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (503)</li>
@@ -88,10 +88,10 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (404)</li>
 <li>gmail.com (367)</li>
 <li>tvtropes.org (365)</li>
-<li>web.whatsapp.com (321)</li>
+<li>web.whatsapp.com (322)</li>
 <li>drive.google.com (282)</li>
+<li>chat.openai.com (282)</li>
 <li>feedly.com (281)</li>
-<li>chat.openai.com (281)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
@@ -108,13 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:35 www.reddit.com</li>
+<ul><li> 13:18 www.google.com</li>
+<li> 13:18 <a href="https://www.theguardian.com/us-news/2025/may/27/hegseth-pentagon-leak-investigation-wiretap">White House stunned as Hegseth inquiry brings up illegal wiretap claims | Trump administration | The Guardian</a></li>
+<li> 12:55 web.whatsapp.com</li>
+<li> 12:50 www.theexamcoach.tv</li>
+<li> 12:50 www.medway.gov.uk</li>
+<li> 12:49 exampapersplus.co.uk</li>
+<li> 12:49 duckduckgo.com</li>
+<li> 12:49 chatgpt.com</li>
+<li> 12:49 chat.openai.com</li>
+<li> 12:43 www.reddit.com</li>
+<li class='same'> 12:42 www.reddit.com</li>
+<li> 12:42 <a href="https://www.bbc.co.uk/teach/class-clips-video/articles/zb8ygwx">KS3 / GCSE Maths: Ratio and Proportion - BBC Teach</a></li>
+<li> 12:42 <a href="https://www.bbc.co.uk/teach/class-clips-video/articles/zhcr7nb">KS3 / GCSE Maths: Real Life Maths - BBC Teach</a></li>
+<li> 12:42 <a href="https://www.bbc.co.uk/teach/topics/cpvpg7xl4vet">Secondary Maths Teaching Resources</a></li>
+<li> 12:41 <a href="https://www.bbc.co.uk/teach/articles/z647y9q">KS3 secondary teaching resources - BBC Teach</a></li>
+<li> 12:40 homeedlife.co.uk</li>
+<li> 12:40 duckduckgo.com</li>
+<li> 12:37 <a href="https://www.theguardian.com/us-news/2025/may/27/hegseth-pentagon-leak-investigation-wiretap">White House stunned as Hegseth inquiry brings up illegal wiretap claims | Trump administration | The Guardian</a></li>
+<li> 12:35 www.reddit.com</li>
 <li class='same'> 12:34 www.reddit.com</li>
 </ul>
 
 <br>
 
-<ul><li> 12:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 12:04 <a href="https://www.theguardian.com/us-news/2025/may/27/hegseth-pentagon-leak-investigation-wiretap">White House stunned as Hegseth inquiry brings up illegal wiretap claims | Trump administration | The Guardian</a></li>
+<li> 12:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:03 www.google.com</li>
 <li> 11:44 bsky.app</li>
 <li class='same'> 11:43 bsky.app</li>
