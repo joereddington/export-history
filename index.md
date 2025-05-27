@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3023)</li>
+<ol><li>www.google.com (3026)</li>
 <li>outlook.office.com (2583)</li>
 <li>mail.google.com (2569)</li>
 <li>docs.google.com (1952)</li>
 <li>outlook.office365.com (1537)</li>
-<li>bsky.app (1482)</li>
-<li>www.reddit.com (1460)</li>
+<li>bsky.app (1483)</li>
+<li>www.reddit.com (1465)</li>
 <li>www.facebook.com (1396)</li>
-<li>duckduckgo.com (1034)</li>
-<li>chatgpt.com (737)</li>
+<li>duckduckgo.com (1037)</li>
+<li>chatgpt.com (738)</li>
 <li>www.amazon.co.uk (716)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (503)</li>
@@ -90,8 +90,8 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (358)</li>
 <li>web.whatsapp.com (321)</li>
 <li>drive.google.com (282)</li>
+<li>chat.openai.com (281)</li>
 <li>feedly.com (280)</li>
-<li>chat.openai.com (280)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:06 www.reddit.com</li>
+<ul><li> 10:40 duckduckgo.com</li>
+<li class='same'> 10:39 duckduckgo.com</li>
+<li> 10:39 chatgpt.com</li>
+<li> 10:39 chat.openai.com</li>
+<li> 10:39 duckduckgo.com</li>
+<li> 10:39 www.reddit.com</li>
+<li class='same'> 10:38 www.reddit.com</li>
+<li> 10:37 bsky.app</li>
+<li> 10:34 www.reddit.com</li>
+<li class='same'> 10:33 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:51 www.google.com</li>
+<li class='same'> 09:32 www.google.com</li>
+<li class='same'> 09:18 www.google.com</li>
+<li> 09:18 <a href="https://www.theguardian.com/film/2025/may/27/james-bond-franchise-owners-request-more-time-to-defend-control-of-007-spy-name">James Bond franchise owners request more time to defend control of 007 spy name | James Bond | The Guardian</a></li>
+<li class='same'> 08:49 <a href="https://www.theguardian.com/film/2025/may/27/james-bond-franchise-owners-request-more-time-to-defend-control-of-007-spy-name">James Bond franchise owners request more time to defend control of 007 spy name | James Bond | The Guardian</a></li>
+<li> 08:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:48 <a href="https://www.theguardian.com/world/2025/may/26/macron-says-video-of-wife-brigitte-pushing-him-in-face-does-not-show-them-quarrelling">Emmanuel Macron says video of wife pushing him shows them ‘joking around’ | Emmanuel Macron | The Guardian</a></li>
+<li> 08:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:26 www.cntraveler.com</li>
+<li> 08:06 www.reddit.com</li>
 <li> 08:06 mail.google.com</li>
 <li> 08:05 www.reddit.com</li>
 <li class='same'> 07:50 www.reddit.com</li>
@@ -140,6 +163,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:08 www.cntraveler.com</li>
+<li> 21:08 reductress.com</li>
+</ul>
 
 <br>
 
@@ -55167,6 +55196,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:31 www.reddit.com</li>
 <li class='same'> 10:24 www.reddit.com</li>
 <li class='same'> 10:22 www.reddit.com</li>
+<li class='same'> 10:21 www.reddit.com</li>
 </ul>
 
 <br>
