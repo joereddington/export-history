@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1473)</li>
 <li>www.facebook.com (1398)</li>
 <li>duckduckgo.com (1041)</li>
-<li>chatgpt.com (739)</li>
+<li>chatgpt.com (740)</li>
 <li>www.amazon.co.uk (716)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (503)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (367)</li>
 <li>tvtropes.org (365)</li>
 <li>web.whatsapp.com (322)</li>
+<li>chat.openai.com (283)</li>
 <li>drive.google.com (282)</li>
-<li>chat.openai.com (282)</li>
 <li>feedly.com (281)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 27/05/25</H3>
+
+<br>
+
+<ul><li> 21:55 adblockplus.org</li>
+<li> 21:55 chatgpt.com</li>
+<li> 21:55 chat.openai.com</li>
+</ul>
 
 <br>
 
