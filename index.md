@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3039)</li>
-<li>mail.google.com (2592)</li>
+<li>mail.google.com (2597)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1961)</li>
-<li>outlook.office365.com (1546)</li>
-<li>bsky.app (1489)</li>
-<li>www.reddit.com (1484)</li>
-<li>www.facebook.com (1398)</li>
-<li>duckduckgo.com (1046)</li>
+<li>outlook.office365.com (1548)</li>
+<li>bsky.app (1494)</li>
+<li>www.reddit.com (1490)</li>
+<li>www.facebook.com (1400)</li>
+<li>duckduckgo.com (1049)</li>
 <li>chatgpt.com (741)</li>
 <li>www.amazon.co.uk (716)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (503)</li>
+<li>calendar.google.com (504)</li>
+<li>www.linkedin.com (474)</li>
 <li>rhul-my.sharepoint.com (473)</li>
-<li>www.linkedin.com (472)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (404)</li>
 <li>tvtropes.org (381)</li>
-<li>gmail.com (375)</li>
+<li>gmail.com (376)</li>
 <li>web.whatsapp.com (322)</li>
 <li>drive.google.com (283)</li>
 <li>chat.openai.com (283)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
-<li>whitewaterwriters.com (186)</li>
+<li>whitewaterwriters.com (188)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:29 bsky.app</li>
+<ul><li> 12:20 mail.google.com</li>
+<li class='same'> 12:18 mail.google.com</li>
+<li> 12:18 gmail.com</li>
+<li> 12:17 www.englefieldgreen.org</li>
+<li> 12:17 democracy.runnymede.gov.uk</li>
+<li> 12:17 www.facebook.com</li>
+<li> 12:17 www.paulgallagher.eu</li>
+<li class='same'> 12:16 www.paulgallagher.eu</li>
+<li> 12:16 medium.com</li>
+<li> 12:16 duckduckgo.com</li>
+<li> 12:16 democracy.runnymede.gov.uk</li>
+<li class='same'> 12:15 democracy.runnymede.gov.uk</li>
+<li> 12:15 www.runnymede.gov.uk</li>
+<li> 12:15 duckduckgo.com</li>
+<li> 12:00 bsky.app</li>
+<li> 12:00 www.facebook.com</li>
+<li> 12:00 duckduckgo.com</li>
+<li> 12:00 www.linkedin.com</li>
+<li class='same'> 11:59 www.linkedin.com</li>
+<li> 11:59 bsky.app</li>
+<li> 11:58 <a href="https://www.theguardian.com/technology/2025/may/28/my-sister-was-found-dead-then-i-discovered-her-search-history-and-the-online-world-that-had-gripped-her">My sister was found dead. Then I discovered her search history – and the online world that had gripped her | Internet safety | The Guardian</a></li>
+<li> 11:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:55 www.natesilver.net</li>
+<li> 11:54 www.reddit.com</li>
+<li> 11:53 outlook.office365.com</li>
+<li> 11:49 bsky.app</li>
+<li> 11:48 phys.org</li>
+<li> 11:48 www.reddit.com</li>
+<li> 11:47 equalitytime.github.io</li>
+<li> 11:47 calendar.google.com</li>
+<li> 11:47 www.reddit.com</li>
+<li class='same'> 11:46 www.reddit.com</li>
+<li class='same'> 11:45 www.reddit.com</li>
+<li> 11:44 outlook.office365.com</li>
+<li> 11:44 mail.google.com</li>
+<li class='same'> 11:36 mail.google.com</li>
+<li class='same'> 11:35 mail.google.com</li>
+<li> 11:35 www.reddit.com</li>
+<li> 11:35 whitewaterwriters.com</li>
+<li> 11:31 bsky.app</li>
+<li> 11:31 whitewaterwriters.com</li>
+<li> 11:30 bsky.app</li>
+<li class='same'> 11:29 bsky.app</li>
 <li> 11:29 mail.google.com</li>
 <li> 11:29 outlook.office365.com</li>
 <li class='same'> 11:28 outlook.office365.com</li>
