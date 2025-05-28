@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3030)</li>
+<ol><li>www.google.com (3034)</li>
+<li>mail.google.com (2583)</li>
 <li>outlook.office.com (2583)</li>
-<li>mail.google.com (2569)</li>
 <li>docs.google.com (1952)</li>
 <li>outlook.office365.com (1542)</li>
 <li>bsky.app (1488)</li>
 <li>www.reddit.com (1473)</li>
 <li>www.facebook.com (1398)</li>
 <li>duckduckgo.com (1041)</li>
-<li>chatgpt.com (740)</li>
+<li>chatgpt.com (741)</li>
 <li>www.amazon.co.uk (716)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (503)</li>
@@ -86,8 +86,8 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (404)</li>
-<li>gmail.com (367)</li>
-<li>tvtropes.org (365)</li>
+<li>tvtropes.org (381)</li>
+<li>gmail.com (374)</li>
 <li>web.whatsapp.com (322)</li>
 <li>chat.openai.com (283)</li>
 <li>drive.google.com (282)</li>
@@ -97,25 +97,112 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
-<li>forms.office.com (178)</li>
+<li>whitewaterwriters.com (180)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Wednesday, 28/05/25</H3>
+
+<br>
+
+<ul><li> 06:21 whitewaterwriters.com</li>
+<li> 06:20 iseeglasschldrenpodcast.my.canva.site</li>
+<li> 06:19 www.lutongymnastics.co.uk</li>
+<li> 06:19 www.google.com</li>
+<li> 06:18 mail.google.com</li>
+<li> 06:16 whitewaterwriters.com</li>
+<li class='same'> 06:15 whitewaterwriters.com</li>
+<li class='same'> 06:14 whitewaterwriters.com</li>
+<li class='same'> 06:12 whitewaterwriters.com</li>
+<li> 06:11 mail.google.com</li>
+<li> 06:07 whitewaterwriters.com</li>
+<li class='same'> 06:06 whitewaterwriters.com</li>
+<li> 06:06 www.google.com</li>
+<li> 06:05 mail.google.com</li>
+<li> 06:05 whitewaterwriters.com</li>
+<li> 06:05 www.whitewaterwriters.com</li>
+<li> 06:05 whitewaterwriters.com</li>
+<li> 06:05 www.whitewaterwriters.com</li>
+<li> 06:05 mail.google.com</li>
+<li class='same'> 06:04 mail.google.com</li>
+<li> 06:04 accounts.google.com</li>
+<li> 06:04 mail.google.com</li>
+<li> 06:04 accounts.google.com</li>
+<li> 06:04 gmail.com</li>
+<li> 06:04 workspace.google.com</li>
+<li> 06:04 mail.google.com</li>
+<li> 06:04 gmail.com</li>
+<li> 06:04 accounts.google.com</li>
+<li> 06:04 gmail.com</li>
+<li> 06:04 mail.google.com</li>
+<li class='same'> 06:03 mail.google.com</li>
+<li> 06:03 iseeglasschldrenpodcast.my.canva.site</li>
+<li> 06:03 iseeglasschildren.com</li>
+<li> 06:03 www.google.com</li>
+<li> 06:03 mail.google.com</li>
+<li class='same'> 06:02 mail.google.com</li>
+<li> 06:02 accounts.google.com</li>
+<li> 06:02 mail.google.com</li>
+<li> 06:02 gmail.com</li>
+<li> 06:02 mail.google.com</li>
+<li> 06:02 gmail.com</li>
+<li> 06:02 accounts.google.com</li>
+<li> 06:02 gmail.com</li>
+<li> 06:02 mail.google.com</li>
+<li> 06:02 gmail.com</li>
+<li> 05:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li class='same'> 05:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
 <H3>Tuesday, 27/05/25</H3>
 
 <br>
 
-<ul><li> 21:55 adblockplus.org</li>
-<li> 21:55 chatgpt.com</li>
-<li> 21:55 chat.openai.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 23:47 tvtropes.org</li>
+<li class='same'> 23:45 tvtropes.org</li>
+<li class='same'> 23:43 tvtropes.org</li>
+<li class='same'> 23:28 tvtropes.org</li>
+<li class='same'> 23:27 tvtropes.org</li>
+<li class='same'> 23:26 tvtropes.org</li>
+<li class='same'> 23:24 tvtropes.org</li>
+<li class='same'> 23:23 tvtropes.org</li>
+<li class='same'> 23:22 tvtropes.org</li>
+<li class='same'> 23:21 tvtropes.org</li>
+<li class='same'> 23:20 tvtropes.org</li>
+<li class='same'> 23:18 tvtropes.org</li>
+<li class='same'> 23:17 tvtropes.org</li>
+<li class='same'> 23:08 tvtropes.org</li>
+<li class='same'> 23:07 tvtropes.org</li>
 </ul>
 
 <br>
 
-<ul><li> 13:18 www.google.com</li>
+<ul><li> 21:55 chatgpt.com</li>
+<li> 21:55 adblockplus.org</li>
+<li> 21:55 chatgpt.com</li>
+<li> 21:55 chat.openai.com</li>
+<li> 21:39 whitewaterwriters.com</li>
+<li class='same'> 21:38 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:04 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:20 culturehustle.com</li>
+<li> 13:19 stuartsemple.com</li>
+<li> 13:19 www.google.com</li>
+<li class='same'> 13:18 www.google.com</li>
 <li> 13:18 <a href="https://www.theguardian.com/us-news/2025/may/27/hegseth-pentagon-leak-investigation-wiretap">White House stunned as Hegseth inquiry brings up illegal wiretap claims | Trump administration | The Guardian</a></li>
 <li> 12:55 web.whatsapp.com</li>
 <li> 12:50 www.theexamcoach.tv</li>
@@ -170,6 +257,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:13 www.google.com</li>
 <li> 11:11 <a href="https://www.theguardian.com/uk-news/live/2025/may/27/liverpool-parade-crowd-collision-latest-updates#top-of-blog">Liverpool parade collision: four people still ‘very, very ill in hospital’ says mayor – latest updates</a></li>
 <li> 11:08 outlook.office365.com</li>
+<li> 11:01 tvtropes.org</li>
 <li> 11:01 www.google.com</li>
 <li> 11:01 www.temu.com</li>
 <li> 10:53 <a href="https://www.theguardian.com/uk-news/live/2025/may/27/liverpool-parade-crowd-collision-latest-updates">Liverpool parade collision: four people still ‘very, very ill in hospital’ says mayor – latest updates | Liverpool | The Guardian</a></li>
@@ -43522,7 +43610,8 @@ With number of accesses/minutes in parentheses
 <li> 13:08 moodle.royalholloway.ac.uk</li>
 <li> 12:58 outlook.office.com</li>
 <li> 12:38 calendar.google.com</li>
-<li> 12:25 whitewaterwriters.com</li>
+<li> 12:26 whitewaterwriters.com</li>
+<li class='same'> 12:25 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -43840,10 +43929,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:09 whitewaterwriters.com</li>
+<ul><li> 17:11 whitewaterwriters.com</li>
+<li class='same'> 17:09 whitewaterwriters.com</li>
+<li class='same'> 16:54 whitewaterwriters.com</li>
 <li class='same'> 16:45 whitewaterwriters.com</li>
+<li class='same'> 16:41 whitewaterwriters.com</li>
 <li> 16:39 mail.google.com</li>
-<li> 16:35 whitewaterwriters.com</li>
+<li> 16:36 whitewaterwriters.com</li>
+<li class='same'> 16:35 whitewaterwriters.com</li>
+<li class='same'> 16:30 whitewaterwriters.com</li>
 <li class='same'> 16:28 whitewaterwriters.com</li>
 <li class='same'> 16:24 whitewaterwriters.com</li>
 <li> 16:24 eu-west-2.console.aws.amazon.com</li>
@@ -43876,13 +43970,15 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:04 www.google.com</li>
-<li> 13:02 whitewaterwriters.com</li>
+<li> 13:03 whitewaterwriters.com</li>
+<li class='same'> 13:02 whitewaterwriters.com</li>
 <li class='same'> 12:51 whitewaterwriters.com</li>
 <li class='same'> 12:45 whitewaterwriters.com</li>
 <li class='same'> 12:34 whitewaterwriters.com</li>
 <li> 12:12 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 12:11 eu-west-2.console.aws.amazon.com</li>
-<li> 12:08 whitewaterwriters.com</li>
+<li> 12:10 whitewaterwriters.com</li>
+<li class='same'> 12:08 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -45083,6 +45179,15 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 14:10 whitewaterwriters.com</li>
+<li class='same'> 14:04 whitewaterwriters.com</li>
+<li class='same'> 13:47 whitewaterwriters.com</li>
+<li class='same'> 13:40 whitewaterwriters.com</li>
+<li class='same'> 13:32 whitewaterwriters.com</li>
+</ul>
 
 <br>
 
@@ -53253,6 +53358,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li class='same'> 17:33 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:04 docs.google.com</li>
 </ul>
 
@@ -53738,7 +53848,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:31 github.com</li>
+<ul><li> 11:39 whitewaterwriters.com</li>
+<li> 11:31 github.com</li>
 </ul>
 
 <br>
@@ -54763,6 +54874,11 @@ With number of accesses/minutes in parentheses
 <li> 07:14 www.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 05:39 whitewaterwriters.com</li>
+</ul>
+
 <H3>Monday, 19/06/23</H3>
 
 <br>
@@ -54801,8 +54917,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 12:18 whitewaterwriters.com</li>
+<ul><li class='same'> 12:21 whitewaterwriters.com</li>
+<li class='same'> 12:18 whitewaterwriters.com</li>
 <li class='same'> 12:17 whitewaterwriters.com</li>
+<li class='same'> 12:16 whitewaterwriters.com</li>
 <li class='same'> 12:15 whitewaterwriters.com</li>
 </ul>
 
@@ -55451,6 +55569,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 17:29 whitewaterwriters.com</li>
+<li class='same'> 17:27 whitewaterwriters.com</li>
 </ul>
 
 <br>
