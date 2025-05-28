@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3039)</li>
-<li>mail.google.com (2597)</li>
+<li>mail.google.com (2598)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (1961)</li>
+<li>docs.google.com (1967)</li>
 <li>outlook.office365.com (1548)</li>
+<li>www.reddit.com (1499)</li>
 <li>bsky.app (1494)</li>
-<li>www.reddit.com (1490)</li>
 <li>www.facebook.com (1400)</li>
-<li>duckduckgo.com (1049)</li>
-<li>chatgpt.com (741)</li>
+<li>duckduckgo.com (1050)</li>
+<li>chatgpt.com (744)</li>
 <li>www.amazon.co.uk (716)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (504)</li>
@@ -88,16 +88,16 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (404)</li>
 <li>tvtropes.org (381)</li>
 <li>gmail.com (376)</li>
-<li>web.whatsapp.com (322)</li>
-<li>drive.google.com (283)</li>
-<li>chat.openai.com (283)</li>
+<li>web.whatsapp.com (323)</li>
+<li>chat.openai.com (285)</li>
+<li>drive.google.com (284)</li>
 <li>feedly.com (281)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
-<li>whitewaterwriters.com (188)</li>
+<li>whitewaterwriters.com (191)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,48 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 28/05/25</H3>
+
+<br>
+
+<ul><li> 13:41 whitewaterwriters.com</li>
+<li> 13:38 www.natwest.com</li>
+<li> 13:35 chatgpt.com</li>
+<li class='same'> 13:34 chatgpt.com</li>
+<li> 13:34 chat.openai.com</li>
+<li> 13:33 docs.google.com</li>
+<li> 13:33 one.google.com</li>
+<li> 13:33 drive.google.com</li>
+<li> 13:33 www.onlinebanking.natwest.com</li>
+<li class='same'> 13:32 www.onlinebanking.natwest.com</li>
+<li class='same'> 13:31 www.onlinebanking.natwest.com</li>
+<li class='same'> 13:30 www.onlinebanking.natwest.com</li>
+<li> 13:30 www.natwest.com</li>
+<li> 13:27 www.giantitp.com</li>
+<li> 13:25 www.reddit.com</li>
+<li class='same'> 13:17 www.reddit.com</li>
+<li class='same'> 13:15 www.reddit.com</li>
+<li> 13:15 www.zaplearn.co.uk</li>
+<li> 13:14 www.reddit.com</li>
+<li> 13:11 www.tesco.com</li>
+<li> 13:11 duckduckgo.com</li>
+<li> 13:08 docs.google.com</li>
+<li class='same'> 13:07 docs.google.com</li>
+<li class='same'> 13:06 docs.google.com</li>
+<li> 13:05 chatgpt.com</li>
+<li> 13:05 chat.openai.com</li>
+<li> 13:05 docs.google.com</li>
+<li> 13:04 whitewaterwriters.com</li>
+<li class='same'> 13:03 whitewaterwriters.com</li>
+<li> 13:02 web.whatsapp.com</li>
+<li> 13:02 docs.google.com</li>
+<li> 13:02 www.reddit.com</li>
+<li class='same'> 13:01 www.reddit.com</li>
+<li class='same'> 12:59 www.reddit.com</li>
+<li class='same'> 12:58 www.reddit.com</li>
+<li class='same'> 12:53 www.reddit.com</li>
+<li> 12:53 mail.google.com</li>
+<li> 12:53 www.lutongymnastics.co.uk</li>
+</ul>
 
 <br>
 
@@ -17209,8 +17251,7 @@ With number of accesses/minutes in parentheses
 <li> 16:08 www.reddit.com</li>
 <li class='same'> 16:07 www.reddit.com</li>
 <li> 16:07 www.google.com</li>
-<li> 16:05 account.yousician.com</li>
-<li class='same'> 16:04 account.yousician.com</li>
+<li> 16:04 account.yousician.com</li>
 <li> 16:04 yousician.com</li>
 <li> 16:04 www.google.com</li>
 <li> 16:04 manpages.ubuntu.com</li>
