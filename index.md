@@ -69,35 +69,35 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3039)</li>
-<li>mail.google.com (2585)</li>
+<li>mail.google.com (2592)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (1960)</li>
-<li>outlook.office365.com (1542)</li>
-<li>bsky.app (1488)</li>
+<li>docs.google.com (1961)</li>
+<li>outlook.office365.com (1546)</li>
+<li>bsky.app (1489)</li>
 <li>www.reddit.com (1484)</li>
 <li>www.facebook.com (1398)</li>
-<li>duckduckgo.com (1042)</li>
+<li>duckduckgo.com (1046)</li>
 <li>chatgpt.com (741)</li>
 <li>www.amazon.co.uk (716)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (503)</li>
 <li>rhul-my.sharepoint.com (473)</li>
-<li>www.linkedin.com (471)</li>
+<li>www.linkedin.com (472)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (404)</li>
 <li>tvtropes.org (381)</li>
 <li>gmail.com (375)</li>
 <li>web.whatsapp.com (322)</li>
+<li>drive.google.com (283)</li>
 <li>chat.openai.com (283)</li>
-<li>drive.google.com (282)</li>
 <li>feedly.com (281)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
-<li>whitewaterwriters.com (183)</li>
+<li>whitewaterwriters.com (186)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:35 www.google.com</li>
+<ul><li> 11:29 bsky.app</li>
+<li> 11:29 mail.google.com</li>
+<li> 11:29 outlook.office365.com</li>
+<li class='same'> 11:28 outlook.office365.com</li>
+<li> 11:28 whitewaterwriters.com</li>
+<li class='same'> 11:23 whitewaterwriters.com</li>
+<li class='same'> 11:22 whitewaterwriters.com</li>
+<li> 11:21 mail.google.com</li>
+<li class='same'> 11:20 mail.google.com</li>
+<li> 11:16 outlook.office365.com</li>
+<li> 11:16 adblockplus.org</li>
+<li> 11:16 outlook.office365.com</li>
+<li> 11:16 mail.google.com</li>
+<li class='same'> 11:15 mail.google.com</li>
+<li class='same'> 11:14 mail.google.com</li>
+<li> 10:45 docs.google.com</li>
+<li> 10:45 drive.google.com</li>
+<li> 10:44 teams.microsoft.com</li>
+<li class='same'> 10:43 teams.microsoft.com</li>
+<li> 10:43 www.linkedin.com</li>
+<li> 10:43 duckduckgo.com</li>
+<li> 10:42 pure.hud.ac.uk</li>
+<li> 10:42 duckduckgo.com</li>
+<li> 10:42 pure.hud.ac.uk</li>
+<li> 10:42 duckduckgo.com</li>
+<li class='same'> 10:41 duckduckgo.com</li>
+<li> 10:41 mail.google.com</li>
+<li> 10:35 www.google.com</li>
 <li> 10:25 www.reddit.com</li>
 <li> 10:24 studygroupuk.applytojob.com</li>
 <li> 10:24 mail.google.com</li>
