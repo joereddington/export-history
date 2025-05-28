@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3039)</li>
+<ol><li>www.google.com (3045)</li>
 <li>mail.google.com (2601)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1967)</li>
 <li>outlook.office365.com (1551)</li>
-<li>www.reddit.com (1500)</li>
+<li>www.reddit.com (1501)</li>
 <li>bsky.app (1494)</li>
 <li>www.facebook.com (1400)</li>
 <li>duckduckgo.com (1050)</li>
@@ -94,8 +94,8 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (281)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
+<li>whitewaterwriters.com (221)</li>
 <li>www.coursera.org (208)</li>
-<li>whitewaterwriters.com (206)</li>
 <li>rhul.sharepoint.com (203)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
 
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 28/05/25</H3>
+
+<br>
+
+<ul><li> 17:16 www.google.com</li>
+</ul>
 
 <br>
 
@@ -234,6 +239,16 @@ With number of accesses/minutes in parentheses
 <li> 10:42 duckduckgo.com</li>
 <li class='same'> 10:41 duckduckgo.com</li>
 <li> 10:41 mail.google.com</li>
+<li> 10:40 economictimes.indiatimes.com</li>
+<li> 10:39 www.google.com</li>
+<li> 10:39 www.thetimes.com</li>
+<li> 10:39 www.google.com</li>
+<li> 10:38 www.studygroup.com</li>
+<li> 10:38 www.google.com</li>
+<li> 10:38 <a href="https://www.bbc.co.uk/news/uk-scotland-scotland-politics-35549508">Interim boss of Scotland's troubled NHS24 service quits - BBC News</a></li>
+<li> 10:38 www.google.com</li>
+<li class='same'> 10:36 www.google.com</li>
+<li> 10:35 www.reddit.com</li>
 <li> 10:35 www.google.com</li>
 <li> 10:25 www.reddit.com</li>
 <li> 10:24 studygroupuk.applytojob.com</li>
@@ -51792,11 +51807,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:45 drive.google.com</li>
 <li class='same'> 13:44 drive.google.com</li>
 <li> 13:42 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:11 www.facebook.com</li>
+<li> 13:25 whitewaterwriters.com</li>
+<li> 13:11 www.facebook.com</li>
 <li> 13:07 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 12:51 fightingfilms.com</li>
 <li> 12:40 www.eventbrite.co.uk</li>
@@ -54042,6 +54054,19 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:25 forum.artofmemory.com</li>
 </ul>
 
+<H3>Sunday, 06/08/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:55 whitewaterwriters.com</li>
+<li class='same'> 21:51 whitewaterwriters.com</li>
+<li class='same'> 21:50 whitewaterwriters.com</li>
+</ul>
+
 <H3>Thursday, 03/08/23</H3>
 
 <br>
@@ -54050,7 +54075,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:39 whitewaterwriters.com</li>
+<ul><li class='same'> 11:39 whitewaterwriters.com</li>
 <li> 11:31 github.com</li>
 </ul>
 
@@ -54859,7 +54884,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:39 whitewaterwriters.com</li>
+<ul><li> 10:41 whitewaterwriters.com</li>
+<li class='same'> 10:39 whitewaterwriters.com</li>
 <li> 10:13 mail.google.com</li>
 <li> 09:45 www.amazon.co.uk</li>
 </ul>
@@ -55288,6 +55314,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:21 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
 <ul><li> 12:59 kdp.amazon.com</li>
 <li class='same'> 12:58 kdp.amazon.com</li>
 <li class='same'> 12:54 kdp.amazon.com</li>
@@ -55462,7 +55493,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:36 www.pcspecialist.co.uk</li>
 <li class='same'> 13:31 www.pcspecialist.co.uk</li>
 <li class='same'> 13:30 www.pcspecialist.co.uk</li>
-<li> 13:23 whitewaterwriters.com</li>
+<li> 13:25 whitewaterwriters.com</li>
+<li class='same'> 13:23 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -55709,6 +55741,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:11 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:52 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -56008,6 +56045,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:08 www.tightrope.co.uk</li>
 </ul>
 
+<br>
+
+<ul><li> 10:30 whitewaterwriters.com</li>
+<li class='same'> 10:14 whitewaterwriters.com</li>
+</ul>
+
 <H3>Wednesday, 26/04/23</H3>
 
 <br>
@@ -56017,6 +56060,18 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:10 discord.com</li>
+<li> 12:41 whitewaterwriters.com</li>
+<li class='same'> 12:34 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:35 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:17 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -56085,6 +56140,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 14:51 whitewaterwriters.com</li>
+</ul>
 
 <br>
 
