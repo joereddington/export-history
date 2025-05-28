@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3036)</li>
-<li>mail.google.com (2583)</li>
+<ol><li>www.google.com (3039)</li>
+<li>mail.google.com (2585)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (1952)</li>
+<li>docs.google.com (1960)</li>
 <li>outlook.office365.com (1542)</li>
 <li>bsky.app (1488)</li>
-<li>www.reddit.com (1478)</li>
+<li>www.reddit.com (1484)</li>
 <li>www.facebook.com (1398)</li>
 <li>duckduckgo.com (1042)</li>
 <li>chatgpt.com (741)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (404)</li>
 <li>tvtropes.org (381)</li>
-<li>gmail.com (374)</li>
+<li>gmail.com (375)</li>
 <li>web.whatsapp.com (322)</li>
 <li>chat.openai.com (283)</li>
 <li>drive.google.com (282)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:15 whitewaterwriters.com</li>
+<ul><li> 10:35 www.google.com</li>
+<li> 10:25 www.reddit.com</li>
+<li> 10:24 studygroupuk.applytojob.com</li>
+<li> 10:24 mail.google.com</li>
+<li class='same'> 10:23 mail.google.com</li>
+<li> 10:23 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:39 www.reddit.com</li>
+<li> 09:39 www.google.com</li>
+<li> 09:24 www.reddit.com</li>
+<li class='same'> 09:23 www.reddit.com</li>
+<li> 09:23 docs.google.com</li>
+<li class='same'> 09:21 docs.google.com</li>
+<li class='same'> 09:20 docs.google.com</li>
+<li class='same'> 09:19 docs.google.com</li>
+<li class='same'> 09:18 docs.google.com</li>
+<li class='same'> 09:17 docs.google.com</li>
+<li class='same'> 09:16 docs.google.com</li>
+<li class='same'> 09:15 docs.google.com</li>
+<li> 09:03 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:16 www.reddit.com</li>
+<li class='same'> 08:15 www.reddit.com</li>
+<li> 08:15 whitewaterwriters.com</li>
 <li class='same'> 08:11 whitewaterwriters.com</li>
 <li class='same'> 08:10 whitewaterwriters.com</li>
 <li> 08:08 duckduckgo.com</li>
@@ -178,6 +207,7 @@ With number of accesses/minutes in parentheses
 <li> 06:02 gmail.com</li>
 <li> 06:02 mail.google.com</li>
 <li> 06:02 gmail.com</li>
+<li> 05:58 <a href="https://www.theguardian.com/money/2025/may/28/uk-homeowners-selling-less-asking-price-survey-zoopla">UK homeowners selling for 4.5% below asking price, survey shows | House prices | The Guardian</a></li>
 <li> 05:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li class='same'> 05:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
