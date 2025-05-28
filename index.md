@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3046)</li>
+<ol><li>www.google.com (3047)</li>
 <li>mail.google.com (2601)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1967)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (405)</li>
-<li>tvtropes.org (382)</li>
+<li>tvtropes.org (386)</li>
 <li>gmail.com (377)</li>
 <li>web.whatsapp.com (324)</li>
 <li>chat.openai.com (285)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 28/05/25</H3>
+
+<br>
+
+<ul><li> 19:47 members.parliament.uk</li>
+<li> 19:46 tvtropes.org</li>
+<li class='same'> 19:39 tvtropes.org</li>
+<li class='same'> 19:36 tvtropes.org</li>
+<li class='same'> 19:35 tvtropes.org</li>
+<li> 19:34 www.google.com</li>
+<li> 19:34 www.natesilver.net</li>
+<li> 19:34 <a href="https://www.theguardian.com/news/2025/may/28/influencers-andrew-tate-tristan-to-face-charges-in-uk-cps-confirms">Influencers Andrew and Tristan Tate to face 21 charges in UK, CPS confirms | Andrew Tate | The Guardian</a></li>
+<li class='same'> 19:33 <a href="https://www.theguardian.com/news/2025/may/28/influencers-andrew-tate-tristan-to-face-charges-in-uk-cps-confirms">Influencers Andrew and Tristan Tate to face 21 charges in UK, CPS confirms | Andrew Tate | The Guardian</a></li>
+<li> 19:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:33 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+<li> 19:33 <a href="https://www.theguardian.com/help/privacy-policy">Privacy policy | Privacy | The Guardian</a></li>
+<li> 19:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
 
 <br>
 
@@ -651,7 +668,7 @@ With number of accesses/minutes in parentheses
 <li> 22:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 22:27 <a href="https://www.theguardian.com/lifeandstyle/2025/may/25/daphne-and-celeste-pop-duo-look-back">‘People in the scene would sometimes be mean to us. They’d forget we were teenagers’: Daphne and Celeste look back | Life and style | The Guardian</a></li>
 <li> 22:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 22:26 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 22:26 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 22:26 <a href="https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
 <li> 22:26 www.activeluton.co.uk</li>
 </ul>
@@ -677,7 +694,7 @@ With number of accesses/minutes in parentheses
 <li> 19:45 <a href="https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
 <li> 19:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 19:43 <a href="https://www.theguardian.com/lifeandstyle/ng-interactive/2025/may/17/the-happiest-places-to-live-in-britain">The Guardian’s happiest places to live in Britain revealed | Life and style | The Guardian</a></li>
-<li> 19:43 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 19:43 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 19:43 www.google.com</li>
 </ul>
 
@@ -719,7 +736,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 14:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:02 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 14:02 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 14:02 <a href="https://www.theguardian.com/world/2025/may/23/hamburg-train-station-stabbing-attack-germany?utm_source=firefox-newtab-en-gb">Woman arrested after 17 people injured in knife attack at Hamburg train station | Germany | The Guardian</a></li>
 <li> 13:59 <a href="https://www.theguardian.com/education/2025/may/24/children-with-special-needs-in-england-may-lose-legal-right-to-school-support">Children with special needs in England may lose legal right to school support | Special educational needs | The Guardian</a></li>
 </ul>
@@ -729,10 +746,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:18 mail.google.com</li>
 <li> 11:55 <a href="https://www.theguardian.com/education/2025/may/24/children-with-special-needs-in-england-may-lose-legal-right-to-school-support">Children with special needs in England may lose legal right to school support | Special educational needs | The Guardian</a></li>
 <li> 11:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:55 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 11:55 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 11:50 <a href="https://www.theguardian.com/world/2025/may/24/trump-russia-sanctions-europe-ukraine">Trump’s Russia sanctions refusal leaves Europe with few options but to wait | Ukraine | The Guardian</a></li>
 <li> 11:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:43 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 11:43 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 </ul>
 
 <br>
@@ -743,7 +760,7 @@ With number of accesses/minutes in parentheses
 <li> 10:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 10:44 <a href="https://www.theguardian.com/society/2025/may/24/disabled-campaigners-trans-people-toilet-segregation">Disabled campaigners watching ‘in horror’ as trans people face toilet segregation | Transgender | The Guardian</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:43 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 10:43 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/sport/2025/may/24/adrian-newey-out-to-build-car-that-will-tempt-max-verstappen-to-aston-martin">Adrian Newey out to build car that will tempt Max Verstappen to Aston Martin | Aston Martin | The Guardian</a></li>
 </ul>
 
@@ -802,7 +819,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:34 drive.google.com</li>
 <li> 06:32 <a href="https://www.theguardian.com/sport/2025/may/24/adrian-newey-out-to-build-car-that-will-tempt-max-verstappen-to-aston-martin">Adrian Newey out to build car that will tempt Max Verstappen to Aston Martin | Aston Martin | The Guardian</a></li>
 <li> 06:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:30 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 06:30 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 06:30 <a href="https://www.theguardian.com/business/live/2025/may/23/energy-price-cap-cut-great-britain-retail-sales-stock-markets-bonds-business-live-news">Trump announces Nippon Steel and US Steel partnership – as it happened | Business | The Guardian</a></li>
 </ul>
 
@@ -1038,11 +1055,11 @@ With number of accesses/minutes in parentheses
 <li> 07:21 <a href="https://www.theguardian.com/world/2025/may/09/mexico-google-lawsuit-gulf-of-mexico">Mexico sues Google over changing Gulf of Mexico’s name for US users | Mexico | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/technology/2025/may/23/elon-musk-new-city-starbase-texas">Fear, hope and loathing in Elon Musk’s new city: ‘It’s the wild, wild west and the future’ | Elon Musk | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:21 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 07:21 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/us-news/2025/may/22/israeli-embassy-staff-shooting-washington-dc">Suspect charged with murder in shooting of Israeli embassy staffers | Washington DC | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:21 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 07:21 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/us-news/2025/may/22/israeli-embassy-staff-shooting-washington-dc">Suspect charged with murder in shooting of Israeli embassy staffers | Washington DC | The Guardian</a></li>
 <li> 07:18 chatgpt.com</li>
 <li> 07:15 calendar.google.com</li>
@@ -1124,7 +1141,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:38 <a href="https://www.theguardian.com/law/2025/may/22/court-ruling-legal-definition-of-a-woman-misinterpreted-lady-hale">Court ruling on legal definition of a woman ‘misinterpreted’, Lady Hale says | Brenda Hale | The Guardian</a></li>
 <li> 20:38 <a href="https://www.theguardian.com/world/2025/may/22/high-court-judge-blocks-uk-from-concluding-chagos-islands-deal">UK signs £3.4bn deal to cede sovereignty over Chagos Islands to Mauritius | Chagos Islands | The Guardian</a></li>
 <li> 20:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 20:37 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 20:37 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 </ul>
 
 <br>
@@ -1269,7 +1286,7 @@ With number of accesses/minutes in parentheses
 <li> 06:45 outlook.office365.com</li>
 <li> 06:41 <a href="https://www.theguardian.com/games/2025/may/16/epic-games-apple-fortnite-app-store">Fortnite unavailable on iPhones globally after Apple rejects App Store release | Fortnite | The Guardian</a></li>
 <li> 06:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:40 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 06:40 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 06:40 outlook.office365.com</li>
 <li> 06:38 intranet.royalholloway.ac.uk</li>
 <li> 06:38 duckduckgo.com</li>
@@ -1293,7 +1310,7 @@ With number of accesses/minutes in parentheses
 <li> 21:35 docs.google.com</li>
 <li> 21:33 <a href="https://www.theguardian.com/technology/2025/may/21/openai-iphone-io">OpenAI buys iPhone architect’s startup for $6.4bn | Technology | The Guardian</a></li>
 <li> 21:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 21:31 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 21:31 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 21:06 www.reddit.com</li>
 <li> 21:06 www.google.com</li>
 <li> 21:06 www.reddit.com</li>
@@ -1580,7 +1597,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 19:11 www.foxnews.com</li>
 <li> 19:10 <a href="https://www.theguardian.com/world/live/2025/may/20/israel-gaza-hamas-aid-middle-east-crisis-live-news-updates">EU to review trade relations with Israel over ‘untenable’ situation in Gaza, says top diplomat – live</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:10 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 19:10 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/business/2025/may/15/ministers-to-block-thames-water-paying-bosses-bonuses-out-of-emergency-loan">Ministers to block Thames Water paying bosses bonuses out of emergency loan | Thames Water | The Guardian</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/business/2025/may/20/thames-water-chair-mps-bonuses">Thames Water: big bonuses due from emergency £3bn loan ‘withdrawn’ | Thames Water | The Guardian</a></li>
 <li> 19:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -1754,7 +1771,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:59 www.google.com</li>
 <li> 15:57 <a href="https://www.theguardian.com/world/2025/may/19/property-england-wales-hidden-behind-opaque-trusts">At least £64bn of property in England and Wales hidden behind opaque trusts | Tax havens | The Guardian</a></li>
 <li> 15:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:57 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 15:57 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 15:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
@@ -1844,7 +1861,7 @@ With number of accesses/minutes in parentheses
 <li> 11:49 <a href="https://www.bbc.co.uk/naidheachdan">Naidheachdan - BBC Naidheachdan</a></li>
 <li> 11:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:49 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 11:49 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/politics/2025/may/17/essex-thurrock-grays-views-brexit-eu-referendum">‘It feels like we never left’: resentment builds in one of UK’s firmest Brexit-backing areas | Brexit | The Guardian</a></li>
 </ul>
 
@@ -1854,7 +1871,7 @@ With number of accesses/minutes in parentheses
 <li> 11:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 11:04 <a href="https://www.theguardian.com/tv-and-radio/2025/may/18/eurovision-song-contest-winner-2025">Austria wins 69th Eurovision song contest with Wasted Love | Eurovision 2025 | The Guardian</a></li>
 <li> 11:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:04 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 11:04 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 10:53 <a href="https://www.theguardian.com/world/2025/may/18/ukraine-reports-largest-drone-attack-from-russia-since-war-began">Russia fires 273 drones at Ukraine in largest attack since start of war | Ukraine | The Guardian</a></li>
 <li> 10:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
@@ -1875,7 +1892,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:21 <a href="https://www.theguardian.com/lifeandstyle/ng-interactive/2025/may/17/the-happiest-places-to-live-in-britain">The Guardian’s happiest places to live in Britain revealed | Life and style | The Guardian</a></li>
 <li> 19:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:21 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 19:21 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 19:12 www.reddit.com</li>
 <li> 19:12 www.google.com</li>
 <li> 19:11 www.reddit.com</li>
@@ -1959,7 +1976,7 @@ With number of accesses/minutes in parentheses
 <li> 08:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:27 <a href="https://www.theguardian.com/culture/2025/may/17/my-cultural-awakening-pulp-something-changed">My cultural awakening: a Pulp song made me realise I was in love with my best friend | Culture | The Guardian</a></li>
 <li> 08:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:26 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 08:26 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 08:26 <a href="https://www.theguardian.com/commentisfree/2025/may/14/ukraine-newfound-confidence-europe-russia-usa">The good news from Kyiv: with or without a ceasefire, Ukraine has a newfound confidence | Nathalie Tocci | The Guardian</a></li>
 </ul>
 
@@ -1978,7 +1995,7 @@ With number of accesses/minutes in parentheses
 <li> 18:08 <a href="https://www.theguardian.com/world/2025/may/16/russia-ukraine-meet-first-direct-talks-since-2022-instanbul#img-1">Russia and Ukraine talks end without meaningful breakthrough | Ukraine | The Guardian</a></li>
 <li> 18:08 <a href="https://www.theguardian.com/world/2025/may/16/russia-ukraine-meet-first-direct-talks-since-2022-instanbul">Russia and Ukraine talks end without meaningful breakthrough | Ukraine | The Guardian</a></li>
 <li> 18:07 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:07 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 18:07 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 18:00 www.thingiverse.com</li>
 </ul>
 
@@ -2345,7 +2362,7 @@ With number of accesses/minutes in parentheses
 <li> 18:01 feedly.com</li>
 <li> 18:00 <a href="https://www.theguardian.com/news/2025/may/14/michelle-obama-20-the-liberation-of-the-former-first-lady">Michelle Obama 2.0 – the reinvention of the former first lady | Michelle Obama | The Guardian</a></li>
 <li> 17:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:58 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 17:58 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 17:58 docs.google.com</li>
 </ul>
 
@@ -2470,7 +2487,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:15 <a href="https://www.theguardian.com/commentisfree/2025/may/14/ukraine-newfound-confidence-europe-russia-usa">The good news from Kyiv: with or without a ceasefire, Ukraine has a newfound confidence | Nathalie Tocci | The Guardian</a></li>
 <li> 09:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:14 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 09:14 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 09:10 web.whatsapp.com</li>
 <li> 09:10 www.facebook.com</li>
 <li class='same'> 09:09 www.facebook.com</li>
@@ -2680,9 +2697,9 @@ With number of accesses/minutes in parentheses
 <li> 14:35 www.google.com</li>
 <li> 14:35 www.thedailymash.co.uk</li>
 <li> 14:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:28 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 14:28 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 14:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:04 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 14:04 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 14:04 <a href="https://www.theguardian.com/artanddesign/2025/may/13/i-marvel-i-have-any-brain-cells-left-drummer-patrick-dougher-on-drugs-drink-and-blowing-his-big-break-with-sade">‘I marvel I have any brain cells left’: artist Patrick Dougher on drugs, drink and blowing his big break with Sade | Art | The Guardian</a></li>
 <li> 14:03 mail.google.com</li>
 <li> 14:00 www.facebook.com</li>
@@ -2704,7 +2721,7 @@ With number of accesses/minutes in parentheses
 <li> 13:23 duckduckgo.com</li>
 <li> 13:22 <a href="https://www.theguardian.com/artanddesign/2025/may/13/linda-rosenkrantz-peter-hujar-rebecca-hall-ben-whishaw-drugs-orgies">‘I invited a dozen ex-boyfriends to dinner and taped it’: the amazing avant garde recordings of Linda Rosenkrantz | Art | The Guardian</a></li>
 <li> 13:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:22 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 13:22 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 13:21 teams.microsoft.com</li>
 <li> 13:18 qmucu.org</li>
 <li> 13:18 duckduckgo.com</li>
@@ -2806,7 +2823,7 @@ With number of accesses/minutes in parentheses
 <li> 10:55 gmail.com</li>
 <li> 10:47 <a href="https://www.theguardian.com/artanddesign/2025/may/13/i-marvel-i-have-any-brain-cells-left-drummer-patrick-dougher-on-drugs-drink-and-blowing-his-big-break-with-sade">‘I marvel I have any brain cells left’: artist Patrick Dougher on drugs, drink and blowing his big break with Sade | Art | The Guardian</a></li>
 <li> 10:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:47 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 10:47 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/sport/2025/may/13/novak-djokovic-and-andy-murray-end-coaching-partnership-early-after-six-months">Novak Djokovic and Andy Murray end coaching partnership after six months | Andy Murray | The Guardian</a></li>
 <li> 10:41 <a href="https://www.youtube.com/watch?v=qgC_E7p7_q0">Secure Attendance Tracking System - YouTube</a></li>
 <li> 10:41 <a href="https://www.youtube.com/watch?v=qgC_E7p7_q0&feature=youtu.be">Secure Attendance Tracking System - YouTube</a></li>
@@ -2814,7 +2831,7 @@ With number of accesses/minutes in parentheses
 <li> 10:39 outlook.office365.com</li>
 <li class='same'> 10:38 outlook.office365.com</li>
 <li> 10:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:37 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 10:37 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 10:25 outlook.office365.com</li>
 <li class='same'> 10:22 outlook.office365.com</li>
 <li> 10:09 bsky.app</li>
@@ -2860,7 +2877,7 @@ With number of accesses/minutes in parentheses
 <li> 08:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:01 <a href="https://www.theguardian.com/commentisfree/2025/may/13/young-people-degrees-labour-market-ai">We told young people that degrees were their ticket to a better life. It’s become a great betrayal | Gaby Hinsliff | The Guardian</a></li>
 <li> 08:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:01 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 08:01 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 07:38 www.giantitp.com</li>
 <li> 07:37 feedly.com</li>
 <li> 07:36 www.reddit.com</li>
@@ -2909,7 +2926,7 @@ With number of accesses/minutes in parentheses
 <li> 21:52 reductress.com</li>
 <li> 21:52 news.sky.com</li>
 <li> 21:52 reductress.com</li>
-<li> 21:51 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 21:51 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 21:48 www.buzzfeed.com</li>
 <li class='same'> 21:47 www.buzzfeed.com</li>
 <li class='same'> 21:46 www.buzzfeed.com</li>
@@ -3158,7 +3175,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:23 www.reddit.com</li>
 <li> 06:19 <a href="https://www.theguardian.com/tv-and-radio/2025/may/11/danny-dyer-deserved-nothing-the-biggest-mistakes-from-the-2025-tv-bafta-awards">‘Danny Dyer deserved nothing!’ The biggest mistakes from the 2025 TV Bafta awards | Baftas | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/tv-and-radio/2025/may/11/when-only-an-actors-face-gets-cast-adolescence-love-actually">My big break ... as a photograph: meet the TV and film stars who don’t even have to act | Television | The Guardian</a></li>
-<li> 06:15 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 06:15 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 06:14 outlook.office365.com</li>
 <li> 06:14 mail.google.com</li>
 </ul>
@@ -3442,7 +3459,7 @@ With number of accesses/minutes in parentheses
 <li> 05:43 www.facebook.com</li>
 <li> 05:43 feedly.com</li>
 <li> 05:42 <a href="https://www.theguardian.com/tv-and-radio/2025/may/10/billie-piper-tv-baftas-interview">Billie Piper on toxic masculinity, raising teens, and playing complex characters: ‘I’ve been a woman on the edge – I’m not afraid of it!’ | Baftas | The Guardian</a></li>
-<li> 05:42 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 05:42 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 05:42 mail.google.com</li>
 <li> 05:42 gmail.com</li>
 </ul>
@@ -3532,7 +3549,7 @@ With number of accesses/minutes in parentheses
 <li> 15:18 <a href="https://en.wikipedia.org/wiki/Liver_King">Liver King - Wikipedia</a></li>
 <li> 15:18 duckduckgo.com</li>
 <li> 15:16 <a href="https://www.theguardian.com/tv-and-radio/2025/may/10/untold-the-liver-king-this-hilarious-expose-of-a-fitness-influencer-is-like-tiger-king">The Liver King – this hilarious exposé is like Tiger King … but with way more genital eating | Television & radio | The Guardian</a></li>
-<li> 15:15 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 15:15 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 15:14 www.facebook.com</li>
 <li class='same'> 15:01 www.facebook.com</li>
 <li> 15:01 mail.google.com</li>
@@ -3581,7 +3598,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:20 www.reddit.com</li>
 <li class='same'> 07:18 www.reddit.com</li>
 <li> 07:18 outlook.office365.com</li>
-<li> 07:18 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 07:18 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 07:14 www.tinkercad.com</li>
 <li class='same'> 07:13 www.tinkercad.com</li>
 <li> 07:09 www.facebook.com</li>
@@ -3878,7 +3895,7 @@ With number of accesses/minutes in parentheses
 <li> 16:16 login.microsoftonline.com</li>
 <li> 16:16 adfs.herts.ac.uk</li>
 <li> 16:00 <a href="https://www.theguardian.com/tv-and-radio/2025/may/09/virgin-island-awkward-tv-sexperiment-channel-4">‘My body deserves pleasure’: is Virgin Island the most awkward TV sexperiment ever? | Television | The Guardian</a></li>
-<li> 15:59 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 15:59 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 15:59 <a href="https://www.theguardian.com/football/2025/may/09/i-punched-another-dad-your-stories-of-the-worst-parent-behaviour-at-kids-football">‘I punched another dad’ – your stories of the worst parent behaviour at kids’ football | Football | The Guardian</a></li>
 <li> 15:56 herts.instructure.com</li>
 <li class='same'> 15:55 herts.instructure.com</li>
@@ -4139,7 +4156,7 @@ With number of accesses/minutes in parentheses
 <li> 07:35 thetab.com</li>
 <li> 07:35 www.google.com</li>
 <li> 07:34 <a href="https://www.theguardian.com/society/2025/may/08/macmillan-cancer-support-hiring-for-senior-roles-after-axing-staff">‘It makes no sense’: Macmillan hiring for senior roles after axing 26% of staff | Charities | The Guardian</a></li>
-<li> 07:34 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 07:34 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 07:34 <a href="https://www.theguardian.com/commentisfree/2025/may/07/the-guardian-view-on-india-and-pakistan-a-newly-dangerous-moment-in-an-old-dispute">The Guardian view on India and Pakistan: a newly dangerous moment in an old dispute | Editorial | The Guardian</a></li>
 <li> 07:33 <a href="https://www.theguardian.com/lifeandstyle/2025/may/07/the-aristocrat-diet-why-do-posh-people-eat-such-beige-bland-boring-food">The aristocrat diet: why do posh people eat such beige, bland, boring food? | Diets and dieting | The Guardian</a></li>
 <li> 07:31 <a href="https://www.theguardian.com/commentisfree/2025/may/07/the-guardian-view-on-india-and-pakistan-a-newly-dangerous-moment-in-an-old-dispute">The Guardian view on India and Pakistan: a newly dangerous moment in an old dispute | Editorial | The Guardian</a></li>
@@ -4324,7 +4341,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:54 jobs.reading.ac.uk</li>
 <li> 07:54 <a href="https://www.theguardian.com/australia-news/2025/may/07/don-gail-patterson-daughter-evidence-mushroom-lunch-murder-trial-ntwnfb">Erin Patterson discharged herself five minutes after doctor warned she may have death cap mushroom poisoning, court hears | Victoria | The Guardian</a></li>
-<li> 07:54 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 07:54 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 07:45 herts.instructure.com</li>
 <li> 07:37 www.tinkercad.com</li>
 <li> 07:26 <a href="https://www.bbc.co.uk/news/articles/ckgxk40ndk1o">Who will be the next Pope? Top candidates in an unpredictable process - BBC News</a></li>
@@ -4343,7 +4360,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:03 www.instagram.com</li>
 <li> 07:02 <a href="https://www.theguardian.com/artanddesign/2025/may/06/robbie-williams-radical-honesty-moco-london-art-exhibition-take-that">Robbie Williams: Radical Honesty review – ‘Tone deaf, self-important, incredibly bad art’ | Art | The Guardian</a></li>
 <li> 07:00 <a href="https://www.theguardian.com/world/2025/may/07/ukraine-war-briefing-hegseths-sudden-arms-halt-cost-us-up-to-22m-report">Ukraine war briefing: Hegseth’s sudden arms halt ‘cost US up to $2.2m’ – report | Ukraine | The Guardian</a></li>
-<li> 07:00 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 07:00 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 07:00 www.google.co.uk</li>
 <li class='same'> 06:59 www.google.co.uk</li>
 <li class='same'> 06:55 www.google.co.uk</li>
@@ -4373,7 +4390,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:20 duckduckgo.com</li>
 <li> 06:15 <a href="https://www.theguardian.com/world/2025/may/06/pakistan-vows-to-retaliate-after-wave-of-indian-missiles-hit-country">Pakistan decries ‘act of war’ as it retaliates against India missile attack | Kashmir | The Guardian</a></li>
 <li> 06:14 <a href="https://www.theguardian.com/world/2025/may/06/the-papal-in-tray-new-pontiff-will-have-to-hit-the-ground-running-on-so-many-urgent-issues">Papal in-tray: new pontiff will have to hit ground running on many urgent issues | The papacy | The Guardian</a></li>
-<li> 06:13 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 06:13 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 </ul>
 
 <H3>Tuesday, 06/05/25</H3>
@@ -4412,7 +4429,7 @@ With number of accesses/minutes in parentheses
 <li> 20:31 www.giantitp.com</li>
 <li> 20:29 <a href="https://www.bbc.co.uk/helpandfeedback/corrections_clarifications/">Corrections and Clarifications</a></li>
 <li> 20:29 <a href="https://www.theguardian.com/uk-news/2025/may/06/bbc-admits-lapse-in-standards-around-coverage-of-prince-harry-interview">BBC admits lapse in standards around coverage of Prince Harry interview | Prince Harry | The Guardian</a></li>
-<li> 20:28 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 20:28 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 20:17 mail.google.com</li>
 <li> 20:13 docs.google.com</li>
 <li> 20:12 drive.google.com</li>
@@ -4483,7 +4500,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:09 www.giantitp.com</li>
 <li> 16:09 www.reddit.com</li>
 <li> 16:08 herts.instructure.com</li>
-<li> 16:08 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 16:08 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 16:07 herts.instructure.com</li>
 <li> 16:00 outlook.office365.com</li>
 </ul>
@@ -4491,7 +4508,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:00 <a href="https://www.theguardian.com/film/2025/may/06/misogyny-slop-it-ends-with-us-america-rightwing-blake-lively-justin-baldoni">‘It’s the misogyny slop ecosystem!’ How Candace Owens and the American right declared war on Blake Lively | Blake Lively | The Guardian</a></li>
-<li> 14:59 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 14:59 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 14:53 <a href="https://www.theguardian.com/film/2025/may/06/trump-softens-tone-on-movie-tariff-announcement-gavin-newsom-jimmy-kimmel-fallon">‘I’m not trying to hurt the industry’: Trump softens tone on movie tariffs | Film | The Guardian</a></li>
 <li class='same'> 14:52 <a href="https://www.theguardian.com/film/2025/may/06/trump-softens-tone-on-movie-tariff-announcement-gavin-newsom-jimmy-kimmel-fallon">‘I’m not trying to hurt the industry’: Trump softens tone on movie tariffs | Film | The Guardian</a></li>
 </ul>
@@ -4660,13 +4677,13 @@ With number of accesses/minutes in parentheses
 <li> 05:51 api-b6327e78.duosecurity.com</li>
 <li> 05:51 adfs.herts.ac.uk</li>
 <li> 05:50 feedly.com</li>
-<li> 05:50 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 05:50 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 05:46 <a href="https://www.theguardian.com/uk-news/commentisfree/2025/may/05/harrys-tv-interview-told-us-everything-and-nothing-why-are-the-royals-such-terrible-communicators">Harry’s TV interview told us everything – and nothing. Why are the royals such terrible communicators? | Zoe Williams | The Guardian</a></li>
-<li> 05:45 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 05:45 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 05:45 <a href="https://www.theguardian.com/fashion/2025/may/05/blinking-fools-the-men-who-think-shaving-off-their-eyelashes-will-make-them-more-masculine">Blinking fools? The men who think shaving off their eyelashes will make them more masculine | Fashion | The Guardian</a></li>
-<li> 05:44 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 05:44 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 <li> 05:41 <a href="https://www.theguardian.com/tv-and-radio/2025/may/05/silence-is-golden-review-katherine-ryan-would-definitely-kill-your-dog-for-cash">Silence is Golden review – Katherine Ryan would definitely kill your dog for cash | Television & radio | The Guardian</a></li>
-<li> 05:40 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 05:40 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 </ul>
 
 <H3>Monday, 05/05/25</H3>
@@ -4694,7 +4711,7 @@ With number of accesses/minutes in parentheses
 <li> 21:17 api-b6327e78.duosecurity.com</li>
 <li> 21:17 adfs.herts.ac.uk</li>
 <li> 21:08 chatgpt.com</li>
-<li> 21:07 <a href="https://www.theguardian.com/">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
+<li> 21:07 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
 </ul>
 
 <br>
