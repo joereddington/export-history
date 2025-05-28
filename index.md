@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3034)</li>
+<ol><li>www.google.com (3036)</li>
 <li>mail.google.com (2583)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1952)</li>
 <li>outlook.office365.com (1542)</li>
 <li>bsky.app (1488)</li>
-<li>www.reddit.com (1473)</li>
+<li>www.reddit.com (1478)</li>
 <li>www.facebook.com (1398)</li>
 <li>duckduckgo.com (1041)</li>
 <li>chatgpt.com (741)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:21 whitewaterwriters.com</li>
+<ul><li> 07:21 www.google.com</li>
+<li> 07:14 <a href="https://www.theguardian.com/environment/2025/may/28/dieselgate-pollution-killed-16000-people-in-uk-study-estimates">Dieselgate pollution killed 16,000 people in UK, study estimates | Air pollution | The Guardian</a></li>
+<li> 07:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:13 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:35 www.reddit.com</li>
+<li class='same'> 06:34 www.reddit.com</li>
+<li class='same'> 06:33 www.reddit.com</li>
+<li class='same'> 06:32 www.reddit.com</li>
+<li> 06:22 iseeglasschldrenpodcast.my.canva.site</li>
+<li> 06:22 iseeglasschildren.com</li>
+<li> 06:21 iseeglasschldrenpodcast.my.canva.site</li>
+<li> 06:21 iseeglasschildren.com</li>
+<li> 06:21 www.google.com</li>
+<li> 06:21 whitewaterwriters.com</li>
 <li> 06:20 iseeglasschldrenpodcast.my.canva.site</li>
 <li> 06:19 www.lutongymnastics.co.uk</li>
 <li> 06:19 www.google.com</li>
