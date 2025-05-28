@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1488)</li>
 <li>www.reddit.com (1478)</li>
 <li>www.facebook.com (1398)</li>
-<li>duckduckgo.com (1041)</li>
+<li>duckduckgo.com (1042)</li>
 <li>chatgpt.com (741)</li>
 <li>www.amazon.co.uk (716)</li>
 <li>www.theguardian.com (685)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
-<li>whitewaterwriters.com (180)</li>
+<li>whitewaterwriters.com (183)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 28/05/25</H3>
+
+<br>
+
+<ul><li> 08:15 whitewaterwriters.com</li>
+<li class='same'> 08:11 whitewaterwriters.com</li>
+<li class='same'> 08:10 whitewaterwriters.com</li>
+<li> 08:08 duckduckgo.com</li>
+</ul>
 
 <br>
 
