@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3039)</li>
-<li>mail.google.com (2598)</li>
+<li>mail.google.com (2600)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1967)</li>
 <li>outlook.office365.com (1548)</li>
@@ -95,9 +95,9 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>www.coursera.org (208)</li>
+<li>whitewaterwriters.com (206)</li>
 <li>rhul.sharepoint.com (203)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
-<li>whitewaterwriters.com (191)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:41 whitewaterwriters.com</li>
+<ul><li> 13:45 mail.google.com</li>
+<li class='same'> 13:44 mail.google.com</li>
+<li> 13:42 whitewaterwriters.com</li>
+<li class='same'> 13:41 whitewaterwriters.com</li>
 <li> 13:38 www.natwest.com</li>
 <li> 13:35 chatgpt.com</li>
 <li class='same'> 13:34 chatgpt.com</li>
@@ -46605,6 +46608,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:44 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
+<li> 11:31 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -48902,6 +48906,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:13 rhul.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:19 whitewaterwriters.com</li>
 </ul>
 
 <H3>Thursday, 07/03/24</H3>
@@ -53209,6 +53218,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:33 www.feedly.com</li>
 <li> 09:24 forum.artofmemory.com</li>
+<li> 09:15 whitewaterwriters.com</li>
 </ul>
 
 <H3>Sunday, 17/09/23</H3>
@@ -53397,7 +53407,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:52 fritz.box</li>
+<ul><li> 14:11 whitewaterwriters.com</li>
+<li> 13:52 fritz.box</li>
 <li> 13:49 www.tp-link.com</li>
 <li class='same'> 13:48 www.tp-link.com</li>
 <li> 13:45 www.google.com</li>
@@ -53444,7 +53455,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:35 whitewaterwriters.com</li>
+<ul><li> 10:10 whitewaterwriters.com</li>
+<li class='same'> 09:43 whitewaterwriters.com</li>
+<li class='same'> 09:35 whitewaterwriters.com</li>
 </ul>
 
 <H3>Thursday, 07/09/23</H3>
@@ -53495,7 +53508,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:35 www.google.com</li>
+<ul><li> 09:36 whitewaterwriters.com</li>
+<li> 09:35 www.google.com</li>
 </ul>
 
 <H3>Tuesday, 05/09/23</H3>
@@ -53510,6 +53524,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:11 www.royalholloway.ac.uk</li>
 </ul>
 
+<br>
+
+<ul><li> 10:31 whitewaterwriters.com</li>
+</ul>
+
 <H3>Monday, 04/09/23</H3>
 
 <br>
@@ -53518,12 +53537,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:01 whitewaterwriters.com</li>
+<ul><li class='same'> 19:01 whitewaterwriters.com</li>
 </ul>
 
 <br>
 
 <ul><li class='same'> 17:33 whitewaterwriters.com</li>
+<li class='same'> 17:32 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -53976,6 +53996,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:24 www.giantitp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:49 whitewaterwriters.com</li>
 </ul>
 
 <H3>Wednesday, 16/08/23</H3>
@@ -55680,6 +55705,7 @@ With number of accesses/minutes in parentheses
 <li> 10:35 www.moonpig.com</li>
 <li> 10:26 docs.google.com</li>
 <li> 10:16 www.projectreal.co.uk</li>
+<li> 09:56 whitewaterwriters.com</li>
 <li> 09:51 andsoshethinks.co.uk</li>
 </ul>
 
@@ -55691,14 +55717,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:09 whitewaterwriters.com</li>
+<ul><li> 14:20 whitewaterwriters.com</li>
+<li class='same'> 14:09 whitewaterwriters.com</li>
 <li> 14:08 discord.com</li>
 <li> 14:07 whitewaterwriters.com</li>
 </ul>
 
 <br>
 
-<ul><li> 11:59 www.evernote.com</li>
+<ul><li class='same'> 12:58 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:08 whitewaterwriters.com</li>
+<li> 11:59 www.evernote.com</li>
 <li class='same'> 11:49 www.evernote.com</li>
 </ul>
 
