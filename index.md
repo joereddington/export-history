@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3047)</li>
-<li>mail.google.com (2601)</li>
+<li>mail.google.com (2603)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1967)</li>
 <li>outlook.office365.com (1551)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (405)</li>
 <li>tvtropes.org (386)</li>
-<li>gmail.com (377)</li>
+<li>gmail.com (378)</li>
 <li>web.whatsapp.com (324)</li>
 <li>chat.openai.com (285)</li>
 <li>drive.google.com (284)</li>
@@ -104,7 +104,20 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 29/05/25</H3>
+
+<br>
+
+<ul><li> 07:12 mail.google.com</li>
+<li class='same'> 07:11 mail.google.com</li>
+<li> 07:11 gmail.com</li>
+</ul>
+
 <H3>Wednesday, 28/05/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
