@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3054)</li>
+<ol><li>www.google.com (3059)</li>
 <li>mail.google.com (2606)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (1972)</li>
+<li>docs.google.com (1975)</li>
 <li>outlook.office365.com (1556)</li>
-<li>www.reddit.com (1527)</li>
-<li>bsky.app (1496)</li>
-<li>www.facebook.com (1401)</li>
+<li>www.reddit.com (1536)</li>
+<li>bsky.app (1497)</li>
+<li>www.facebook.com (1402)</li>
 <li>duckduckgo.com (1056)</li>
 <li>chatgpt.com (746)</li>
 <li>www.amazon.co.uk (717)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (405)</li>
-<li>tvtropes.org (391)</li>
+<li>tvtropes.org (398)</li>
 <li>gmail.com (379)</li>
 <li>web.whatsapp.com (324)</li>
 <li>chat.openai.com (286)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:16 www.ljcc.co.uk</li>
+<ul><li> 18:24 www.reddit.com</li>
+<li class='same'> 18:16 www.reddit.com</li>
+<li> 18:16 imgur.com</li>
+<li> 18:16 www.reddit.com</li>
+<li class='same'> 18:15 www.reddit.com</li>
+<li> 18:14 imgur.com</li>
+<li> 18:14 www.reddit.com</li>
+<li class='same'> 18:13 www.reddit.com</li>
+<li> 18:13 www.google.com</li>
+<li> 18:12 www.printables.com</li>
+<li> 17:44 <a href="https://www.theguardian.com/commentisfree/2025/may/29/king-charles-politics-monarchy-visit-to-canada">In Canada, Charles pushed the boundaries of politics as king. So far, he has gotten away with it | Martin Kettle | The Guardian</a></li>
+<li> 17:42 <a href="https://www.theguardian.com/commentisfree/2025/may/29/donald-trump-elon-musk-doge-tariffs">It’s been a big, beautiful week of bad news for Trump. But don’t expect it to stick | Zoe Williams | The Guardian</a></li>
+<li> 17:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:42 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+<li> 17:41 <a href="https://www.theguardian.com/us-news/2025/may/29/why-has-a-us-court-blocked-donald-trumps-tariffs-and-can-he-get-round-it">Why has a US court blocked Donald Trump’s tariffs – and can he get round it? | Trump tariffs | The Guardian</a></li>
+<li> 17:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:40 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+<li> 17:40 bsky.app</li>
+<li> 17:40 www.facebook.com</li>
+<li> 17:40 docs.google.com</li>
+<li class='same'> 17:39 docs.google.com</li>
+<li class='same'> 17:38 docs.google.com</li>
+<li> 17:29 tvtropes.org</li>
+<li> 17:29 www.google.com</li>
+<li> 17:29 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:22 tvtropes.org</li>
+<li class='same'> 16:20 tvtropes.org</li>
+<li class='same'> 16:19 tvtropes.org</li>
+<li class='same'> 16:17 tvtropes.org</li>
+<li> 16:16 www.ljcc.co.uk</li>
 <li> 16:16 www.google.com</li>
 <li> 16:15 www.britishchesschampionships.co.uk</li>
 <li> 16:15 www.google.com</li>
@@ -117,6 +150,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:08 tvtropes.org</li>
 <li class='same'> 16:07 tvtropes.org</li>
 <li> 16:07 www.google.com</li>
+<li> 15:57 www.reddit.com</li>
+<li class='same'> 15:55 www.reddit.com</li>
+<li class='same'> 15:54 www.reddit.com</li>
 <li> 15:51 www.linkedin.com</li>
 <li class='same'> 15:50 www.linkedin.com</li>
 <li> 15:49 www.reddit.com</li>
@@ -43050,6 +43086,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:28 www.reddit.com</li>
 <li class='same'> 18:27 www.reddit.com</li>
 <li class='same'> 17:59 www.reddit.com</li>
+<li> 17:58 www.google.com</li>
 </ul>
 
 <H3>Saturday, 07/09/24</H3>
@@ -48404,6 +48441,11 @@ With number of accesses/minutes in parentheses
 <li> 07:29 outlook.office.com</li>
 </ul>
 
+<br>
+
+<ul><li> 00:15 tvtropes.org</li>
+</ul>
+
 <H3>Monday, 25/03/24</H3>
 
 <br>
@@ -53402,6 +53444,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:23 www.reddit.com</li>
+<li> 06:17 www.google.com</li>
 </ul>
 
 <H3>Monday, 18/09/23</H3>
@@ -54955,7 +54998,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:43 www.boredpanda.com</li>
+<ul><li> 16:43 www.google.com</li>
+<li> 16:43 www.boredpanda.com</li>
 <li class='same'> 16:22 www.boredpanda.com</li>
 </ul>
 
