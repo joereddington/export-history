@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3059)</li>
-<li>mail.google.com (2606)</li>
+<ol><li>www.google.com (3060)</li>
+<li>mail.google.com (2608)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (1975)</li>
+<li>docs.google.com (1976)</li>
+<li>www.reddit.com (1558)</li>
 <li>outlook.office365.com (1556)</li>
-<li>www.reddit.com (1536)</li>
 <li>bsky.app (1497)</li>
 <li>www.facebook.com (1402)</li>
 <li>duckduckgo.com (1056)</li>
 <li>chatgpt.com (746)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (504)</li>
+<li>calendar.google.com (505)</li>
 <li>www.linkedin.com (477)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (405)</li>
 <li>tvtropes.org (398)</li>
-<li>gmail.com (379)</li>
+<li>gmail.com (380)</li>
 <li>web.whatsapp.com (324)</li>
+<li>drive.google.com (286)</li>
 <li>chat.openai.com (286)</li>
-<li>drive.google.com (284)</li>
 <li>feedly.com (282)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
@@ -108,7 +108,44 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:24 www.reddit.com</li>
+<ul><li> 21:23 mail.google.com</li>
+<li class='same'> 21:22 mail.google.com</li>
+<li> 21:22 gmail.com</li>
+<li> 21:21 www.reddit.com</li>
+<li class='same'> 21:19 www.reddit.com</li>
+<li class='same'> 21:18 www.reddit.com</li>
+<li class='same'> 21:17 www.reddit.com</li>
+<li class='same'> 21:16 www.reddit.com</li>
+<li class='same'> 21:15 www.reddit.com</li>
+<li class='same'> 21:12 www.reddit.com</li>
+<li class='same'> 21:11 www.reddit.com</li>
+<li class='same'> 21:10 www.reddit.com</li>
+<li> 21:10 cdn.discordapp.com</li>
+<li> 21:10 www.reddit.com</li>
+<li class='same'> 21:09 www.reddit.com</li>
+<li> 21:09 cdn.discordapp.com</li>
+<li> 21:09 www.reddit.com</li>
+<li class='same'> 21:06 www.reddit.com</li>
+<li class='same'> 21:05 www.reddit.com</li>
+<li class='same'> 21:04 www.reddit.com</li>
+<li class='same'> 21:03 www.reddit.com</li>
+<li class='same'> 21:02 www.reddit.com</li>
+<li> 21:01 imgur.com</li>
+<li> 21:01 www.reddit.com</li>
+<li class='same'> 21:00 www.reddit.com</li>
+<li class='same'> 20:58 www.reddit.com</li>
+<li class='same'> 20:57 www.reddit.com</li>
+<li> 20:56 calendar.google.com</li>
+<li> 20:56 docs.google.com</li>
+<li> 20:56 drive.google.com</li>
+<li class='same'> 20:55 drive.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:36 www.reddit.com</li>
+<li> 18:36 www.google.com</li>
+<li> 18:24 www.reddit.com</li>
 <li class='same'> 18:16 www.reddit.com</li>
 <li> 18:16 imgur.com</li>
 <li> 18:16 www.reddit.com</li>
