@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3049)</li>
+<ol><li>www.google.com (3054)</li>
 <li>mail.google.com (2606)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1972)</li>
 <li>outlook.office365.com (1556)</li>
-<li>www.reddit.com (1524)</li>
+<li>www.reddit.com (1527)</li>
 <li>bsky.app (1496)</li>
 <li>www.facebook.com (1401)</li>
 <li>duckduckgo.com (1056)</li>
@@ -81,12 +81,12 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (717)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (504)</li>
-<li>www.linkedin.com (475)</li>
+<li>www.linkedin.com (477)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (405)</li>
-<li>tvtropes.org (386)</li>
+<li>tvtropes.org (391)</li>
 <li>gmail.com (379)</li>
 <li>web.whatsapp.com (324)</li>
 <li>chat.openai.com (286)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (282)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
-<li>whitewaterwriters.com (222)</li>
+<li>whitewaterwriters.com (223)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:43 equalitytime.co.uk</li>
+<ul><li> 16:16 www.ljcc.co.uk</li>
+<li> 16:16 www.google.com</li>
+<li> 16:15 www.britishchesschampionships.co.uk</li>
+<li> 16:15 www.google.com</li>
+<li> 16:12 tvtropes.org</li>
+<li class='same'> 16:10 tvtropes.org</li>
+<li class='same'> 16:08 tvtropes.org</li>
+<li class='same'> 16:07 tvtropes.org</li>
+<li> 16:07 www.google.com</li>
+<li> 15:51 www.linkedin.com</li>
+<li class='same'> 15:50 www.linkedin.com</li>
+<li> 15:49 www.reddit.com</li>
+<li class='same'> 15:48 www.reddit.com</li>
+<li class='same'> 15:47 www.reddit.com</li>
+<li> 15:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:34 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+<li> 15:24 www.printables.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:48 whitewaterwriters.com</li>
+<li> 13:43 equalitytime.co.uk</li>
 <li class='same'> 13:42 equalitytime.co.uk</li>
 <li class='same'> 13:41 equalitytime.co.uk</li>
 <li> 13:41 www.google.com</li>
@@ -133,6 +155,9 @@ With number of accesses/minutes in parentheses
 <li> 08:19 chatgpt.com</li>
 <li class='same'> 08:18 chatgpt.com</li>
 <li> 08:18 chat.openai.com</li>
+<li> 08:13 www.google.com</li>
+<li> 08:08 www.sheetmusicplus.com</li>
+<li> 08:07 www.google.com</li>
 </ul>
 
 <br>
@@ -46855,6 +46880,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 21:30 github.com</li>
 <li class='same'> 21:29 github.com</li>
 <li> 21:21 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:34 tvtropes.org</li>
 </ul>
 
 <br>
