@@ -69,32 +69,32 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3047)</li>
-<li>mail.google.com (2604)</li>
+<li>mail.google.com (2606)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (1967)</li>
-<li>outlook.office365.com (1551)</li>
-<li>www.reddit.com (1501)</li>
+<li>docs.google.com (1972)</li>
+<li>outlook.office365.com (1556)</li>
+<li>www.reddit.com (1512)</li>
 <li>bsky.app (1496)</li>
-<li>www.facebook.com (1400)</li>
-<li>duckduckgo.com (1050)</li>
+<li>www.facebook.com (1401)</li>
+<li>duckduckgo.com (1055)</li>
 <li>chatgpt.com (744)</li>
-<li>www.amazon.co.uk (716)</li>
+<li>www.amazon.co.uk (717)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (504)</li>
-<li>www.linkedin.com (474)</li>
+<li>www.linkedin.com (475)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (405)</li>
 <li>tvtropes.org (386)</li>
-<li>gmail.com (378)</li>
+<li>gmail.com (379)</li>
 <li>web.whatsapp.com (324)</li>
 <li>chat.openai.com (285)</li>
 <li>drive.google.com (284)</li>
-<li>feedly.com (281)</li>
+<li>feedly.com (282)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
-<li>whitewaterwriters.com (221)</li>
+<li>whitewaterwriters.com (222)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:21 bsky.app</li>
+<ul><li> 07:22 docs.google.com</li>
+<li> 07:21 bsky.app</li>
 <li class='same'> 07:18 bsky.app</li>
 <li> 07:14 mail.google.com</li>
 <li> 07:13 <a href="https://www.theguardian.com/technology/2025/may/29/elon-musk-announces-exit-from-us-government-role-after-breaking-with-trump-on-tax-bill">Elon Musk announces exit from US government role after breaking with Trump on tax bill | Elon Musk | The Guardian</a></li>
@@ -123,6 +124,43 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:36 www.linkedin.com</li>
+<li> 21:36 duckduckgo.com</li>
+<li> 21:35 www.buzzfeed.com</li>
+<li class='same'> 21:34 www.buzzfeed.com</li>
+<li class='same'> 21:33 www.buzzfeed.com</li>
+<li class='same'> 21:30 www.buzzfeed.com</li>
+<li class='same'> 21:28 www.buzzfeed.com</li>
+<li class='same'> 21:25 www.buzzfeed.com</li>
+<li class='same'> 21:24 www.buzzfeed.com</li>
+<li class='same'> 21:22 www.buzzfeed.com</li>
+<li> 21:22 duckduckgo.com</li>
+<li> 21:20 www.buzzfeed.com</li>
+<li> 21:19 discord.com</li>
+<li> 21:18 www.reddit.com</li>
+<li class='same'> 21:17 www.reddit.com</li>
+<li class='same'> 21:16 www.reddit.com</li>
+<li class='same'> 21:15 www.reddit.com</li>
+<li> 21:15 whitewaterwriters.com</li>
+<li> 21:15 www.reddit.com</li>
+<li class='same'> 21:13 www.reddit.com</li>
+<li class='same'> 21:12 www.reddit.com</li>
+<li class='same'> 21:11 www.reddit.com</li>
+<li> 21:11 www.amazon.co.uk</li>
+<li> 21:10 www.goodreads.com</li>
+<li> 21:10 warhammer40k.fandom.com</li>
+<li> 21:10 duckduckgo.com</li>
+<li> 20:55 mail.google.com</li>
+<li> 20:55 gmail.com</li>
+<li> 20:54 outlook.office365.com</li>
+<li> 20:54 docs.google.com</li>
+<li> 20:54 outlook.office365.com</li>
+<li class='same'> 20:53 outlook.office365.com</li>
+<li> 20:53 www.facebook.com</li>
+</ul>
 
 <br>
 
@@ -149,7 +187,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 17:32 <a href="https://www.theguardian.com/money/2025/may/28/uk-homeowners-selling-less-asking-price-survey-zoopla">UK homeowners selling for 4.5% below asking price, survey shows | House prices | The Guardian</a></li>
+<ul><li> 18:09 <a href="https://www.theguardian.com/politics/2025/may/28/john-mcdonnell-calls-for-grassroots-leadership-challenge-to-keir-starmer-government">John McDonnell calls for grassroots leadership challenge to Starmer government | John McDonnell | The Guardian</a></li>
+<li> 18:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:09 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+<li> 18:08 www.reddit.com</li>
+<li class='same'> 18:06 www.reddit.com</li>
+<li class='same'> 18:05 www.reddit.com</li>
+<li> 18:05 feedly.com</li>
+<li> 18:05 docs.google.com</li>
+<li class='same'> 18:04 docs.google.com</li>
+<li class='same'> 18:03 docs.google.com</li>
+<li> 17:59 mail.google.com</li>
+<li> 17:58 <a href="https://www.theguardian.com/us-news/live/2025/may/28/us-politics-live-donald-trump-elon-musk-tax-doge-harvard-students-immigration-news-updates#top-of-blog">Trump says he will be negotiating the ‘big, beautiful’ tax bill after Musk criticizes it – live</a></li>
+<li> 17:57 <a href="https://www.theguardian.com/us-news/live/2025/may/28/us-politics-live-donald-trump-elon-musk-tax-doge-harvard-students-immigration-news-updates">(1) Trump says he will be negotiating the ‘big, beautiful’ tax bill after Musk criticizes it – live</a></li>
+<li> 17:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:57 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+<li> 17:32 <a href="https://www.theguardian.com/money/2025/may/28/uk-homeowners-selling-less-asking-price-survey-zoopla">UK homeowners selling for 4.5% below asking price, survey shows | House prices | The Guardian</a></li>
 <li> 17:20 <a href="https://www.youtube.com/watch?v=eghnMsWqWuY">The Queens Gambit Season 1 Episode 2 Beth Harmon VS Townes - YouTube</a></li>
 <li> 17:20 <a href="https://www.youtube.com/results?search_query=queen%27s+gambit">queen's gambit - YouTube</a></li>
 <li> 17:19 <a href="https://www.youtube.com/watch?app=desktop&v=EIcevnbEcYg">The match starts | The Queen's Gambit Episode 2 (3/7) - YouTube</a></li>
@@ -161,11 +214,15 @@ With number of accesses/minutes in parentheses
 <li> 17:16 <a href="https://www.youtube.com/watch?v=8_fNgizO84E&themeRefresh=1">Beth Harmon's First Game against Annete Packer | The Queen's Gambit - YouTube</a></li>
 <li> 17:16 <a href="https://www.youtube.com/watch?v=8_fNgizO84E">Beth Harmon's First Game against Annete Packer | The Queen's Gambit - YouTube</a></li>
 <li> 17:16 www.google.com</li>
+<li> 16:50 duckduckgo.com</li>
+<li class='same'> 16:49 duckduckgo.com</li>
+<li> 16:49 outlook.office365.com</li>
+<li class='same'> 16:48 outlook.office365.com</li>
 </ul>
 
 <br>
 
-<ul><li> 15:36 outlook.office365.com</li>
+<ul><li class='same'> 15:36 outlook.office365.com</li>
 <li> 15:35 mail.google.com</li>
 <li> 15:35 gmail.com</li>
 <li> 15:35 outlook.office365.com</li>
@@ -55641,6 +55698,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:33 www.buzzfeed.com</li>
+</ul>
 
 <br>
 
