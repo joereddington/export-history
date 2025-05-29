@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3047)</li>
+<ol><li>www.google.com (3049)</li>
 <li>mail.google.com (2606)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1972)</li>
 <li>outlook.office365.com (1556)</li>
-<li>www.reddit.com (1512)</li>
+<li>www.reddit.com (1524)</li>
 <li>bsky.app (1496)</li>
 <li>www.facebook.com (1401)</li>
 <li>duckduckgo.com (1056)</li>
@@ -105,6 +105,27 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 29/05/25</H3>
+
+<br>
+
+<ul><li> 13:43 equalitytime.co.uk</li>
+<li class='same'> 13:42 equalitytime.co.uk</li>
+<li class='same'> 13:41 equalitytime.co.uk</li>
+<li> 13:41 www.google.com</li>
+<li> 13:40 <a href="https://www.theguardian.com/lifeandstyle/2025/may/29/you-be-the-judge-my-girlfriend-unplugs-all-my-chargers-because-of-the-fire-risk-should-she-stop">You be the judge: my girlfriend unplugs all my chargers because of the ‘fire risk’. Should she stop? | Life and style | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:31 <a href="https://www.theguardian.com/lifeandstyle/2025/may/29/you-be-the-judge-my-girlfriend-unplugs-all-my-chargers-because-of-the-fire-risk-should-she-stop">You be the judge: my girlfriend unplugs all my chargers because of the ‘fire risk’. Should she stop? | Life and style | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:42 <a href="https://www.theguardian.com/lifeandstyle/2025/may/29/you-be-the-judge-my-girlfriend-unplugs-all-my-chargers-because-of-the-fire-risk-should-she-stop">You be the judge: my girlfriend unplugs all my chargers because of the ‘fire risk’. Should she stop? | Life and style | The Guardian</a></li>
+<li> 11:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:41 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -46472,6 +46493,7 @@ With number of accesses/minutes in parentheses
 <li> 12:05 equalitytime.github.io</li>
 <li> 11:52 equalitytime.co.uk</li>
 <li> 11:52 equalitytime.github.io</li>
+<li> 11:51 www.google.com</li>
 <li> 11:45 docs.google.com</li>
 <li> 11:39 theopenvoicefactory.org</li>
 <li> 11:32 equalitytime.github.io</li>
@@ -51226,6 +51248,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:38 www.amazon.co.uk</li>
 <li> 11:37 online.unity.co.uk</li>
 <li> 11:25 equalitytime.co.uk</li>
+<li class='same'> 11:12 equalitytime.co.uk</li>
+<li class='same'> 11:08 equalitytime.co.uk</li>
 <li class='same'> 11:07 equalitytime.co.uk</li>
 <li> 11:03 theopenvoicefactory.org</li>
 <li> 11:03 equalitytime.co.uk</li>
@@ -51235,6 +51259,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:23 drive.google.com</li>
+<li> 10:21 equalitytime.co.uk</li>
 <li> 10:20 analytics.google.com</li>
 <li class='same'> 10:19 analytics.google.com</li>
 </ul>
@@ -52472,6 +52497,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:45 jobs.royalholloway.ac.uk</li>
+<li> 07:39 equalitytime.co.uk</li>
 <li> 07:27 whitewaterwriters.com</li>
 </ul>
 
@@ -52988,7 +53014,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:15 workspace.google.com</li>
+<ul><li> 11:22 equalitytime.co.uk</li>
+<li> 11:15 workspace.google.com</li>
 <li class='same'> 11:12 workspace.google.com</li>
 <li> 11:03 register-of-charities.charitycommission.gov.uk</li>
 </ul>
@@ -53152,6 +53179,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:20 equalitytime.co.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 11:20 www.lutongymnastics.co.uk</li>
 <li class='same'> 11:19 www.lutongymnastics.co.uk</li>
 </ul>
@@ -53218,6 +53250,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:51 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 12:11 equalitytime.co.uk</li>
 </ul>
 
 <br>
@@ -53329,6 +53366,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:41 github.com</li>
 <li> 07:34 www.tightrope.co.uk</li>
+<li> 07:34 equalitytime.co.uk</li>
 </ul>
 
 <br>
@@ -55221,7 +55259,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 05:39 whitewaterwriters.com</li>
+<ul><li> 05:57 www.reddit.com</li>
+<li> 05:39 whitewaterwriters.com</li>
 </ul>
 
 <H3>Monday, 19/06/23</H3>
@@ -55273,6 +55312,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:38 discord.com</li>
 <li class='same'> 06:36 discord.com</li>
+<li> 06:34 www.reddit.com</li>
 </ul>
 
 <H3>Wednesday, 14/06/23</H3>
@@ -55352,7 +55392,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:41 drive.google.com</li>
-<li> 07:18 www.reddit.com</li>
+<li> 07:33 www.reddit.com</li>
+<li class='same'> 07:32 www.reddit.com</li>
+<li class='same'> 07:31 www.reddit.com</li>
+<li class='same'> 07:30 www.reddit.com</li>
+<li class='same'> 07:28 www.reddit.com</li>
+<li class='same'> 07:18 www.reddit.com</li>
 <li class='same'> 07:15 www.reddit.com</li>
 </ul>
 
@@ -55710,6 +55755,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:33 www.buzzfeed.com</li>
+<li> 21:08 www.reddit.com</li>
 </ul>
 
 <br>
@@ -55732,6 +55778,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:40 www.reddit.com</li>
+<li class='same'> 12:37 www.reddit.com</li>
+<li class='same'> 12:36 www.reddit.com</li>
+<li class='same'> 12:31 www.reddit.com</li>
 <li class='same'> 12:28 www.reddit.com</li>
 </ul>
 
