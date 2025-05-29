@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3047)</li>
-<li>mail.google.com (2603)</li>
+<li>mail.google.com (2604)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1967)</li>
 <li>outlook.office365.com (1551)</li>
 <li>www.reddit.com (1501)</li>
-<li>bsky.app (1494)</li>
+<li>bsky.app (1496)</li>
 <li>www.facebook.com (1400)</li>
 <li>duckduckgo.com (1050)</li>
 <li>chatgpt.com (744)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:12 mail.google.com</li>
+<ul><li> 07:21 bsky.app</li>
+<li class='same'> 07:18 bsky.app</li>
+<li> 07:14 mail.google.com</li>
+<li> 07:13 <a href="https://www.theguardian.com/technology/2025/may/29/elon-musk-announces-exit-from-us-government-role-after-breaking-with-trump-on-tax-bill">Elon Musk announces exit from US government role after breaking with Trump on tax bill | Elon Musk | The Guardian</a></li>
+<li> 07:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:12 mail.google.com</li>
 <li class='same'> 07:11 mail.google.com</li>
 <li> 07:11 gmail.com</li>
 </ul>
