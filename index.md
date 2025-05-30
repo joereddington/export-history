@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3061)</li>
-<li>mail.google.com (2608)</li>
+<li>mail.google.com (2610)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (1979)</li>
-<li>www.reddit.com (1566)</li>
-<li>outlook.office365.com (1559)</li>
+<li>docs.google.com (1982)</li>
+<li>www.reddit.com (1572)</li>
+<li>outlook.office365.com (1562)</li>
 <li>bsky.app (1498)</li>
 <li>www.facebook.com (1403)</li>
-<li>duckduckgo.com (1058)</li>
+<li>duckduckgo.com (1059)</li>
 <li>chatgpt.com (746)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (505)</li>
 <li>www.linkedin.com (477)</li>
 <li>rhul-my.sharepoint.com (473)</li>
-<li>moodle.royalholloway.ac.uk (464)</li>
+<li>moodle.royalholloway.ac.uk (467)</li>
 <li>github.com (416)</li>
-<li>login.microsoftonline.com (406)</li>
+<li>login.microsoftonline.com (407)</li>
 <li>tvtropes.org (398)</li>
-<li>gmail.com (380)</li>
+<li>gmail.com (381)</li>
 <li>web.whatsapp.com (324)</li>
 <li>drive.google.com (286)</li>
 <li>chat.openai.com (286)</li>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 30/05/25</H3>
+
+<br>
+
+<ul><li> 11:14 docs.google.com</li>
+<li class='same'> 11:13 docs.google.com</li>
+<li class='same'> 11:12 docs.google.com</li>
+<li> 11:12 mail.google.com</li>
+<li class='same'> 11:11 mail.google.com</li>
+<li> 11:11 gmail.com</li>
+<li> 11:11 www.reddit.com</li>
+<li class='same'> 11:10 www.reddit.com</li>
+<li class='same'> 11:09 www.reddit.com</li>
+<li class='same'> 11:04 www.reddit.com</li>
+<li class='same'> 11:03 www.reddit.com</li>
+<li> 10:58 duckduckgo.com</li>
+<li> 10:53 www.reddit.com</li>
+<li> 10:53 outlook.office365.com</li>
+<li> 10:53 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:52 moodle.royalholloway.ac.uk</li>
+<li> 10:52 login.microsoftonline.com</li>
+<li> 10:52 moodle.royalholloway.ac.uk</li>
+<li> 10:52 outlook.office365.com</li>
+<li class='same'> 10:51 outlook.office365.com</li>
+</ul>
 
 <br>
 
