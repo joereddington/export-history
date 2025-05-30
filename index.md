@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3061)</li>
-<li>mail.google.com (2617)</li>
+<ol><li>www.google.com (3062)</li>
+<li>mail.google.com (2627)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (1982)</li>
+<li>docs.google.com (1985)</li>
 <li>www.reddit.com (1577)</li>
-<li>outlook.office365.com (1566)</li>
+<li>outlook.office365.com (1572)</li>
 <li>bsky.app (1502)</li>
 <li>www.facebook.com (1403)</li>
-<li>duckduckgo.com (1061)</li>
-<li>chatgpt.com (749)</li>
+<li>duckduckgo.com (1066)</li>
+<li>chatgpt.com (752)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (506)</li>
 <li>www.linkedin.com (477)</li>
+<li>moodle.royalholloway.ac.uk (473)</li>
 <li>rhul-my.sharepoint.com (473)</li>
-<li>moodle.royalholloway.ac.uk (471)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (407)</li>
 <li>tvtropes.org (398)</li>
-<li>gmail.com (382)</li>
+<li>gmail.com (383)</li>
 <li>web.whatsapp.com (325)</li>
-<li>chat.openai.com (288)</li>
-<li>drive.google.com (286)</li>
+<li>chat.openai.com (289)</li>
+<li>drive.google.com (287)</li>
 <li>feedly.com (283)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>whitewaterwriters.com (225)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (196)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (197)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,64 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:26 calendar.google.com</li>
+<ul><li> 16:25 outlook.office365.com</li>
+<li class='same'> 16:23 outlook.office365.com</li>
+<li class='same'> 16:22 outlook.office365.com</li>
+<li> 16:16 <a href="https://en.wikipedia.org/wiki/Saw_(film)">Saw (film) - Wikipedia</a></li>
+<li> 16:16 <a href="https://en.wikipedia.org/wiki/Saw_(2004_film)">Saw (film) - Wikipedia</a></li>
+<li> 16:16 <a href="https://en.wikipedia.org/wiki/Saw_(franchise)">Saw (franchise) - Wikipedia</a></li>
+<li> 16:16 duckduckgo.com</li>
+<li> 16:12 outlook.office365.com</li>
+<li class='same'> 16:11 outlook.office365.com</li>
+<li> 16:11 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:10 moodle.royalholloway.ac.uk</li>
+<li> 16:09 outlook.office365.com</li>
+<li> 16:09 www.findpensioncontacts.service.gov.uk</li>
+<li> 16:09 mail.google.com</li>
+<li> 16:09 www.google.com</li>
+<li> 16:06 member.nestpensions.org.uk</li>
+<li class='same'> 16:05 member.nestpensions.org.uk</li>
+<li> 16:04 www.nestpensions.org.uk</li>
+<li> 16:03 mail.google.com</li>
+<li class='same'> 16:02 mail.google.com</li>
+<li class='same'> 16:01 mail.google.com</li>
+<li> 16:01 www.uss.co.uk</li>
+<li> 16:01 mail.google.com</li>
+<li> 16:01 www.evernote.com</li>
+<li> 15:58 www.uss.co.uk</li>
+<li class='same'> 15:57 www.uss.co.uk</li>
+<li> 15:55 www.evernote.com</li>
+<li class='same'> 15:54 www.evernote.com</li>
+<li class='same'> 15:52 www.evernote.com</li>
+<li> 15:50 mail.google.com</li>
+<li> 15:50 duckduckgo.com</li>
+<li class='same'> 15:49 duckduckgo.com</li>
+<li> 15:47 docs.google.com</li>
+<li> 15:46 www.uss.co.uk</li>
+<li> 15:46 mail.google.com</li>
+<li class='same'> 15:45 mail.google.com</li>
+<li> 15:44 chatgpt.com</li>
+<li> 15:44 mail.google.com</li>
+<li class='same'> 15:43 mail.google.com</li>
+<li> 15:43 gmail.com</li>
+<li> 15:42 www.evernote.com</li>
+<li class='same'> 15:40 www.evernote.com</li>
+<li> 15:40 duckduckgo.com</li>
+<li> 15:39 www.evernote.com</li>
+<li> 15:39 accounts.evernote.com</li>
+<li> 15:39 www.evernote.com</li>
+<li> 15:39 accounts.evernote.com</li>
+<li> 15:38 evernote.com</li>
+<li> 15:35 docs.google.com</li>
+<li> 15:34 duckduckgo.com</li>
+<li> 15:31 docs.google.com</li>
+<li> 15:31 drive.google.com</li>
+<li> 15:31 www.gov.uk</li>
+<li> 15:30 chatgpt.com</li>
+<li class='same'> 15:29 chatgpt.com</li>
+<li> 15:29 chat.openai.com</li>
+<li> 15:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:26 calendar.google.com</li>
 <li> 15:24 bsky.app</li>
 <li> 15:21 whitewaterwriters.com</li>
 <li class='same'> 15:20 whitewaterwriters.com</li>
@@ -41995,6 +42052,9 @@ With number of accesses/minutes in parentheses
 <li> 06:40 outlook.office365.com</li>
 <li> 06:26 easychair.org</li>
 <li> 06:26 outlook.office365.com</li>
+<li> 06:22 www.uss.co.uk</li>
+<li class='same'> 06:21 www.uss.co.uk</li>
+<li class='same'> 06:20 www.uss.co.uk</li>
 <li> 06:17 mail.google.com</li>
 <li> 06:13 whitewaterwriters.com</li>
 <li> 06:06 www.amazon.co.uk</li>
