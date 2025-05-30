@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3060)</li>
 <li>mail.google.com (2608)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (1976)</li>
-<li>www.reddit.com (1558)</li>
-<li>outlook.office365.com (1556)</li>
+<li>docs.google.com (1979)</li>
+<li>www.reddit.com (1566)</li>
+<li>outlook.office365.com (1559)</li>
 <li>bsky.app (1497)</li>
 <li>www.facebook.com (1402)</li>
-<li>duckduckgo.com (1056)</li>
+<li>duckduckgo.com (1057)</li>
 <li>chatgpt.com (746)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>www.theguardian.com (685)</li>
@@ -85,13 +85,13 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (473)</li>
 <li>moodle.royalholloway.ac.uk (464)</li>
 <li>github.com (416)</li>
-<li>login.microsoftonline.com (405)</li>
+<li>login.microsoftonline.com (406)</li>
 <li>tvtropes.org (398)</li>
 <li>gmail.com (380)</li>
 <li>web.whatsapp.com (324)</li>
 <li>drive.google.com (286)</li>
 <li>chat.openai.com (286)</li>
-<li>feedly.com (282)</li>
+<li>feedly.com (283)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>whitewaterwriters.com (223)</li>
@@ -104,11 +104,45 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 30/05/25</H3>
+
+<br>
+
+<ul><li> 07:09 feedly.com</li>
+<li> 07:08 docs.google.com</li>
+<li class='same'> 07:05 docs.google.com</li>
+<li class='same'> 07:04 docs.google.com</li>
+<li> 06:52 www.reddit.com</li>
+<li> 06:51 outlook.office365.com</li>
+<li class='same'> 06:50 outlook.office365.com</li>
+<li> 06:50 login.microsoftonline.com</li>
+<li> 06:49 outlook.office365.com</li>
+</ul>
+
 <H3>Thursday, 29/05/25</H3>
 
 <br>
 
-<ul><li> 21:23 mail.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:46 www.reddit.com</li>
+<li class='same'> 21:45 www.reddit.com</li>
+<li class='same'> 21:44 www.reddit.com</li>
+<li> 21:41 duckduckgo.com</li>
+<li> 21:41 www.reddit.com</li>
+<li class='same'> 21:40 www.reddit.com</li>
+<li class='same'> 21:39 www.reddit.com</li>
+<li class='same'> 21:38 www.reddit.com</li>
+<li> 21:37 <a href="https://www.theguardian.com/news/2025/may/29/why-does-switzerland-have-more-nuclear-bunkers-than-any-other-country">Why does Switzerland have more nuclear bunkers than any other country? | Nuclear weapons | The Guardian</a></li>
+<li> 21:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:36 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+<li> 21:34 <a href="https://www.theguardian.com/commentisfree/2025/may/09/reform-farage-kill-off-tories-ridiculous-byelections">Will Nigel Farage and Reform UK kill off the Tories? Don’t be so ridiculous | Simon Jenkins | The Guardian</a></li>
+<li> 21:32 <a href="https://www.theguardian.com/politics/2025/may/29/is-there-any-way-back-from-abyss-for-tories">‘The brand is broken’: is there any way back from abyss for Tories? | Conservatives | The Guardian</a></li>
+<li> 21:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:31 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+<li> 21:23 mail.google.com</li>
 <li class='same'> 21:22 mail.google.com</li>
 <li> 21:22 gmail.com</li>
 <li> 21:21 www.reddit.com</li>
