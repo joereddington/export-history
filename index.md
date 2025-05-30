@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3062)</li>
-<li>mail.google.com (2627)</li>
+<li>mail.google.com (2629)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1985)</li>
 <li>www.reddit.com (1577)</li>
-<li>outlook.office365.com (1572)</li>
-<li>bsky.app (1502)</li>
+<li>outlook.office365.com (1574)</li>
+<li>bsky.app (1505)</li>
 <li>www.facebook.com (1403)</li>
-<li>duckduckgo.com (1066)</li>
+<li>duckduckgo.com (1068)</li>
 <li>chatgpt.com (752)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (506)</li>
 <li>www.linkedin.com (477)</li>
-<li>moodle.royalholloway.ac.uk (473)</li>
+<li>moodle.royalholloway.ac.uk (474)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (407)</li>
 <li>tvtropes.org (398)</li>
 <li>gmail.com (383)</li>
-<li>web.whatsapp.com (325)</li>
+<li>web.whatsapp.com (326)</li>
 <li>chat.openai.com (289)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (283)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (225)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (197)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (199)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:25 outlook.office365.com</li>
+<ul><li> 17:23 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:08 mail.google.com</li>
+<li class='same'> 17:06 mail.google.com</li>
+<li> 17:04 bsky.app</li>
+<li> 17:03 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:03 duckduckgo.com</li>
+<li> 16:56 bsky.app</li>
+<li class='same'> 16:55 bsky.app</li>
+<li> 16:41 outlook.office365.com</li>
+<li> 16:39 duckduckgo.com</li>
+<li> 16:34 web.whatsapp.com</li>
+<li> 16:33 moodle.royalholloway.ac.uk</li>
+<li> 16:33 outlook.office365.com</li>
+<li class='same'> 16:25 outlook.office365.com</li>
 <li class='same'> 16:23 outlook.office365.com</li>
 <li class='same'> 16:22 outlook.office365.com</li>
 <li> 16:16 <a href="https://en.wikipedia.org/wiki/Saw_(film)">Saw (film) - Wikipedia</a></li>
