@@ -73,8 +73,8 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1985)</li>
 <li>www.reddit.com (1577)</li>
-<li>outlook.office365.com (1574)</li>
-<li>bsky.app (1505)</li>
+<li>outlook.office365.com (1575)</li>
+<li>bsky.app (1506)</li>
 <li>www.facebook.com (1403)</li>
 <li>duckduckgo.com (1068)</li>
 <li>chatgpt.com (752)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (225)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (199)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (200)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:23 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 17:33 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:33 bsky.app</li>
+<li> 17:33 outlook.office365.com</li>
+<li> 17:23 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 17:08 mail.google.com</li>
 <li class='same'> 17:06 mail.google.com</li>
 <li> 17:04 bsky.app</li>
