@@ -73,17 +73,17 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1982)</li>
 <li>www.reddit.com (1574)</li>
-<li>outlook.office365.com (1563)</li>
+<li>outlook.office365.com (1565)</li>
 <li>bsky.app (1499)</li>
 <li>www.facebook.com (1403)</li>
 <li>duckduckgo.com (1059)</li>
 <li>chatgpt.com (748)</li>
-<li>www.amazon.co.uk (717)</li>
+<li>www.amazon.co.uk (716)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (505)</li>
 <li>www.linkedin.com (477)</li>
 <li>rhul-my.sharepoint.com (473)</li>
-<li>moodle.royalholloway.ac.uk (467)</li>
+<li>moodle.royalholloway.ac.uk (469)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (407)</li>
 <li>tvtropes.org (398)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 30/05/25</H3>
+
+<br>
+
+<ul><li> 13:00 projects.cs.rhul.ac.uk</li>
+<li> 12:56 outlook.office365.com</li>
+<li> 12:56 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:55 moodle.royalholloway.ac.uk</li>
+<li> 12:55 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -17094,11 +17103,9 @@ With number of accesses/minutes in parentheses
 <li> 17:14 duckduckgo.com</li>
 <li> 17:10 www.reddit.com</li>
 <li> 17:10 duckduckgo.com</li>
-<li> 17:05 www.amazon.co.uk</li>
-<li class='same'> 17:04 www.amazon.co.uk</li>
+<li> 17:04 www.amazon.co.uk</li>
 <li class='same'> 17:03 www.amazon.co.uk</li>
-<li> 17:03 www.ebay.co.uk</li>
-<li class='same'> 17:02 www.ebay.co.uk</li>
+<li> 17:02 www.ebay.co.uk</li>
 <li> 17:01 chatgpt.com</li>
 <li> 17:01 www.ebay.co.uk</li>
 <li> 17:01 www.amazon.co.uk</li>
@@ -17171,7 +17178,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:48 herts.spydus.co.uk</li>
 <li> 14:41 www.pcspecialist.co.uk</li>
 <li class='same'> 14:40 www.pcspecialist.co.uk</li>
-<li> 14:39 www.jobs.ac.uk</li>
 <li> 14:39 bsky.app</li>
 <li> 14:38 www.eventbrite.co.uk</li>
 <li> 14:35 bsky.app</li>
@@ -17198,7 +17204,6 @@ With number of accesses/minutes in parentheses
 <li> 14:23 duckduckgo.com</li>
 <li> 14:23 login.microsoftonline.com</li>
 <li> 14:23 jobs.open.ac.uk</li>
-<li> 14:23 university.open.ac.uk</li>
 <li> 14:23 www5.open.ac.uk</li>
 <li> 14:23 university.open.ac.uk</li>
 <li> 14:23 jobs.open.ac.uk</li>
