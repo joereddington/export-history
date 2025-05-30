@@ -69,35 +69,35 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3061)</li>
-<li>mail.google.com (2611)</li>
+<li>mail.google.com (2617)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1982)</li>
-<li>www.reddit.com (1574)</li>
-<li>outlook.office365.com (1565)</li>
-<li>bsky.app (1499)</li>
+<li>www.reddit.com (1577)</li>
+<li>outlook.office365.com (1566)</li>
+<li>bsky.app (1502)</li>
 <li>www.facebook.com (1403)</li>
-<li>duckduckgo.com (1059)</li>
-<li>chatgpt.com (748)</li>
-<li>www.amazon.co.uk (716)</li>
+<li>duckduckgo.com (1061)</li>
+<li>chatgpt.com (749)</li>
+<li>www.amazon.co.uk (717)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (505)</li>
+<li>calendar.google.com (506)</li>
 <li>www.linkedin.com (477)</li>
 <li>rhul-my.sharepoint.com (473)</li>
-<li>moodle.royalholloway.ac.uk (469)</li>
+<li>moodle.royalholloway.ac.uk (471)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (407)</li>
 <li>tvtropes.org (398)</li>
-<li>gmail.com (381)</li>
-<li>web.whatsapp.com (324)</li>
-<li>chat.openai.com (287)</li>
+<li>gmail.com (382)</li>
+<li>web.whatsapp.com (325)</li>
+<li>chat.openai.com (288)</li>
 <li>drive.google.com (286)</li>
 <li>feedly.com (283)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
-<li>whitewaterwriters.com (223)</li>
+<li>whitewaterwriters.com (225)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (195)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (196)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,41 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 30/05/25</H3>
+
+<br>
+
+<ul><li> 15:26 calendar.google.com</li>
+<li> 15:24 bsky.app</li>
+<li> 15:21 whitewaterwriters.com</li>
+<li class='same'> 15:20 whitewaterwriters.com</li>
+<li> 15:08 www.reddit.com</li>
+<li class='same'> 15:07 www.reddit.com</li>
+<li> 15:06 www.amazon.co.uk</li>
+<li> 15:06 mail.google.com</li>
+<li> 15:05 service.directlineforbusiness.co.uk</li>
+<li> 15:05 mail.google.com</li>
+<li> 15:03 online.unity.co.uk</li>
+<li> 15:02 mail.google.com</li>
+<li> 15:01 m.luton.gov.uk</li>
+<li> 15:01 directory.luton.gov.uk</li>
+<li> 15:01 duckduckgo.com</li>
+<li> 15:00 chatgpt.com</li>
+<li> 15:00 chat.openai.com</li>
+<li> 14:59 mail.google.com</li>
+<li class='same'> 14:57 mail.google.com</li>
+<li> 14:57 gmail.com</li>
+<li> 14:56 bsky.app</li>
+<li> 14:53 web.whatsapp.com</li>
+<li> 14:52 bsky.app</li>
+<li> 14:52 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:52 todotxt.org</li>
+<li> 14:39 duckduckgo.com</li>
+<li> 14:38 www.reddit.com</li>
+<li> 14:38 mail.google.com</li>
+<li> 14:38 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:37 moodle.royalholloway.ac.uk</li>
+<li> 14:37 outlook.office365.com</li>
+</ul>
 
 <br>
 
