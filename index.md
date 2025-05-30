@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3061)</li>
-<li>mail.google.com (2610)</li>
+<li>mail.google.com (2611)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1982)</li>
-<li>www.reddit.com (1572)</li>
-<li>outlook.office365.com (1562)</li>
-<li>bsky.app (1498)</li>
+<li>www.reddit.com (1574)</li>
+<li>outlook.office365.com (1563)</li>
+<li>bsky.app (1499)</li>
 <li>www.facebook.com (1403)</li>
 <li>duckduckgo.com (1059)</li>
-<li>chatgpt.com (746)</li>
+<li>chatgpt.com (748)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (505)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (398)</li>
 <li>gmail.com (381)</li>
 <li>web.whatsapp.com (324)</li>
+<li>chat.openai.com (287)</li>
 <li>drive.google.com (286)</li>
-<li>chat.openai.com (286)</li>
 <li>feedly.com (283)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:14 docs.google.com</li>
+<ul><li> 12:06 www.printweek.com</li>
+<li> 12:06 go.bsky.app</li>
+<li> 12:05 bsky.app</li>
+<li> 12:04 chatgpt.com</li>
+<li class='same'> 12:03 chatgpt.com</li>
+<li> 12:03 chat.openai.com</li>
+<li> 12:03 mail.google.com</li>
+<li> 12:02 <a href="https://www.theguardian.com/us-news/2025/may/29/trump-always-chickens-out-taco-investors-narrative">‘Trump always chickens out’: Taco jibe ruffles president’s feathers | Donald Trump | The Guardian</a></li>
+<li> 12:01 <a href="https://www.theguardian.com/uk-news/2025/may/30/uk-poshest-thief-fined-stealing-le-creuset-cookware">Woman who calls herself ‘UK’s poshest thief’ fined for stealing Le Creuset cookware | UK news | The Guardian</a></li>
+<li> 12:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:01 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+<li> 12:00 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:24 www.temu.com</li>
+<li> 11:24 www.reddit.com</li>
+<li> 11:24 www.temu.com</li>
+<li> 11:24 www.reddit.com</li>
+<li> 11:14 docs.google.com</li>
 <li class='same'> 11:13 docs.google.com</li>
 <li class='same'> 11:12 docs.google.com</li>
 <li> 11:12 mail.google.com</li>
