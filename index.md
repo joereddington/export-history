@@ -71,25 +71,25 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3062)</li>
 <li>mail.google.com (2629)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (1986)</li>
+<li>docs.google.com (1991)</li>
 <li>www.reddit.com (1580)</li>
-<li>outlook.office365.com (1576)</li>
-<li>bsky.app (1506)</li>
-<li>www.facebook.com (1403)</li>
-<li>duckduckgo.com (1068)</li>
-<li>chatgpt.com (752)</li>
+<li>outlook.office365.com (1577)</li>
+<li>bsky.app (1509)</li>
+<li>www.facebook.com (1404)</li>
+<li>duckduckgo.com (1073)</li>
+<li>chatgpt.com (753)</li>
 <li>www.amazon.co.uk (717)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (506)</li>
-<li>www.linkedin.com (477)</li>
+<li>www.linkedin.com (478)</li>
 <li>moodle.royalholloway.ac.uk (476)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (409)</li>
 <li>tvtropes.org (398)</li>
 <li>gmail.com (383)</li>
-<li>web.whatsapp.com (326)</li>
-<li>chat.openai.com (289)</li>
+<li>web.whatsapp.com (327)</li>
+<li>chat.openai.com (290)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (283)</li>
 <li>fritz.box (277)</li>
@@ -97,14 +97,62 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (225)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (200)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (201)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Saturday, 31/05/25</H3>
+
+<br>
+
+<ul><li> 07:11 chatgpt.com</li>
+<li> 07:11 chat.openai.com</li>
+<li> 07:10 www.facebook.com</li>
+<li> 07:10 jenniestollarslt.co.uk</li>
+<li> 07:09 www.sfedc.com</li>
+<li> 07:09 www.bedslutonchildrenshealth.nhs.uk</li>
+<li> 07:09 duckduckgo.com</li>
+<li> 07:08 www.companydirectorcheck.com</li>
+<li> 07:08 duckduckgo.com</li>
+<li> 07:08 www.scoot.co.uk</li>
+<li> 07:07 duckduckgo.com</li>
+<li> 07:07 www.psychologytoday.com</li>
+<li> 07:07 flitwick.cylex-uk.co.uk</li>
+<li> 07:07 duckduckgo.com</li>
+<li> 07:06 www.yell.com</li>
+<li> 07:06 web.whatsapp.com</li>
+<li> 07:06 www.yell.com</li>
+<li class='same'> 07:05 www.yell.com</li>
+<li> 07:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:01 docs.google.com</li>
+<li class='same'> 07:00 docs.google.com</li>
+<li class='same'> 06:59 docs.google.com</li>
+<li class='same'> 06:58 docs.google.com</li>
+<li> 06:56 bsky.app</li>
+<li class='same'> 06:55 bsky.app</li>
+<li class='same'> 06:54 bsky.app</li>
+<li> 06:54 outlook.office365.com</li>
+<li> 06:53 www.linkedin.com</li>
+<li> 06:51 discord.com</li>
+<li class='same'> 06:49 discord.com</li>
+<li class='same'> 06:48 discord.com</li>
+<li> 06:48 www.cl.cam.ac.uk</li>
+<li> 06:47 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 01:03 docs.google.com</li>
+</ul>
+
 <H3>Friday, 30/05/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
