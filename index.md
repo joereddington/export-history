@@ -71,9 +71,9 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3062)</li>
 <li>mail.google.com (2629)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (1985)</li>
-<li>www.reddit.com (1577)</li>
-<li>outlook.office365.com (1575)</li>
+<li>docs.google.com (1986)</li>
+<li>www.reddit.com (1580)</li>
+<li>outlook.office365.com (1576)</li>
 <li>bsky.app (1506)</li>
 <li>www.facebook.com (1403)</li>
 <li>duckduckgo.com (1068)</li>
@@ -82,10 +82,10 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (506)</li>
 <li>www.linkedin.com (477)</li>
-<li>moodle.royalholloway.ac.uk (474)</li>
+<li>moodle.royalholloway.ac.uk (476)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>github.com (416)</li>
-<li>login.microsoftonline.com (407)</li>
+<li>login.microsoftonline.com (409)</li>
 <li>tvtropes.org (398)</li>
 <li>gmail.com (383)</li>
 <li>web.whatsapp.com (326)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 30/05/25</H3>
+
+<br>
+
+<ul><li> 21:53 www.temu.com</li>
+<li> 21:39 docs.google.com</li>
+<li> 21:38 www.reddit.com</li>
+<li class='same'> 21:36 www.reddit.com</li>
+<li class='same'> 21:35 www.reddit.com</li>
+<li> 21:34 moodle.royalholloway.ac.uk</li>
+<li> 21:34 login.microsoftonline.com</li>
+<li> 21:33 moodle.royalholloway.ac.uk</li>
+<li> 21:33 login.microsoftonline.com</li>
+<li> 21:32 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
 
 <br>
 
@@ -269,7 +288,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:32 www.parents.com</li>
+<ul><li> 09:36 www.parents.com</li>
+<li class='same'> 09:32 www.parents.com</li>
 </ul>
 
 <br>
