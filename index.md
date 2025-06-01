@@ -71,8 +71,8 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3064)</li>
 <li>mail.google.com (2647)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (2002)</li>
-<li>www.reddit.com (1624)</li>
+<li>docs.google.com (2003)</li>
+<li>www.reddit.com (1628)</li>
 <li>outlook.office365.com (1577)</li>
 <li>bsky.app (1514)</li>
 <li>www.facebook.com (1406)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:33 www.reddit.com</li>
+<ul><li> 17:53 www.reddit.com</li>
+<li> 17:52 en.m.wikipedia.org</li>
+<li> 17:51 www.reddit.com</li>
+<li> 17:44 docs.google.com</li>
+<li> 17:41 www.reddit.com</li>
+<li class='same'> 17:34 www.reddit.com</li>
+<li class='same'> 17:33 www.reddit.com</li>
 <li class='same'> 17:30 www.reddit.com</li>
 <li class='same'> 17:29 www.reddit.com</li>
 <li> 17:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
