@@ -71,10 +71,10 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3064)</li>
 <li>mail.google.com (2639)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (1992)</li>
-<li>www.reddit.com (1601)</li>
+<li>docs.google.com (1997)</li>
+<li>www.reddit.com (1605)</li>
 <li>outlook.office365.com (1577)</li>
-<li>bsky.app (1510)</li>
+<li>bsky.app (1512)</li>
 <li>www.facebook.com (1405)</li>
 <li>duckduckgo.com (1074)</li>
 <li>chatgpt.com (753)</li>
@@ -104,7 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 01/06/25</H3>
+
+<br>
+
+<ul><li> 07:28 docs.google.com</li>
+<li class='same'> 07:27 docs.google.com</li>
+<li> 07:26 www.reddit.com</li>
+<li class='same'> 07:25 www.reddit.com</li>
+<li class='same'> 07:24 www.reddit.com</li>
+<li class='same'> 07:22 www.reddit.com</li>
+<li> 07:21 bsky.app</li>
+<li class='same'> 07:20 bsky.app</li>
+<li> 07:19 docs.google.com</li>
+<li class='same'> 07:18 docs.google.com</li>
+<li class='same'> 07:17 docs.google.com</li>
+</ul>
+
 <H3>Saturday, 31/05/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
