@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (409)</li>
 <li>tvtropes.org (398)</li>
 <li>gmail.com (383)</li>
-<li>web.whatsapp.com (330)</li>
+<li>web.whatsapp.com (331)</li>
 <li>chat.openai.com (292)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (284)</li>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 01/06/25</H3>
+
+<br>
+
+<ul><li> 13:13 www.paypal.com</li>
+<li class='same'> 13:07 www.paypal.com</li>
+<li class='same'> 13:06 www.paypal.com</li>
+<li> 13:03 web.whatsapp.com</li>
+</ul>
 
 <br>
 
