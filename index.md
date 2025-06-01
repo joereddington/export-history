@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3064)</li>
-<li>mail.google.com (2645)</li>
+<li>mail.google.com (2647)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (2000)</li>
-<li>www.reddit.com (1616)</li>
+<li>docs.google.com (2002)</li>
+<li>www.reddit.com (1624)</li>
 <li>outlook.office365.com (1577)</li>
-<li>bsky.app (1513)</li>
-<li>www.facebook.com (1405)</li>
+<li>bsky.app (1514)</li>
+<li>www.facebook.com (1406)</li>
 <li>duckduckgo.com (1075)</li>
-<li>chatgpt.com (756)</li>
+<li>chatgpt.com (758)</li>
 <li>www.amazon.co.uk (718)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (506)</li>
-<li>www.linkedin.com (480)</li>
+<li>www.linkedin.com (481)</li>
 <li>moodle.royalholloway.ac.uk (476)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>github.com (416)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (398)</li>
 <li>gmail.com (383)</li>
 <li>web.whatsapp.com (331)</li>
-<li>chat.openai.com (292)</li>
+<li>chat.openai.com (293)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (284)</li>
 <li>fritz.box (277)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (225)</li>
 <li>www.coursera.org (208)</li>
 <li>rhul.sharepoint.com (203)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (202)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (203)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 01/06/25</H3>
+
+<br>
+
+<ul><li> 17:33 www.reddit.com</li>
+<li class='same'> 17:30 www.reddit.com</li>
+<li class='same'> 17:29 www.reddit.com</li>
+<li> 17:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:29 mail.google.com</li>
+<li class='same'> 17:28 mail.google.com</li>
+<li> 17:27 docs.google.com</li>
+<li class='same'> 17:26 docs.google.com</li>
+<li> 17:24 www.reddit.com</li>
+<li class='same'> 17:23 www.reddit.com</li>
+<li class='same'> 17:22 www.reddit.com</li>
+<li class='same'> 17:20 www.reddit.com</li>
+<li class='same'> 17:19 www.reddit.com</li>
+<li> 16:53 www.linkedin.com</li>
+<li> 16:53 bsky.app</li>
+<li> 16:53 www.facebook.com</li>
+<li> 16:40 www.blender.org</li>
+<li> 16:39 chatgpt.com</li>
+<li class='same'> 16:38 chatgpt.com</li>
+<li> 16:38 chat.openai.com</li>
+</ul>
 
 <br>
 
