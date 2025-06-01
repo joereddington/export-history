@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3064)</li>
-<li>mail.google.com (2642)</li>
+<li>mail.google.com (2645)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (1997)</li>
 <li>www.reddit.com (1609)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1405)</li>
 <li>duckduckgo.com (1075)</li>
 <li>chatgpt.com (756)</li>
-<li>www.amazon.co.uk (717)</li>
+<li>www.amazon.co.uk (718)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (506)</li>
 <li>www.linkedin.com (478)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (409)</li>
 <li>tvtropes.org (398)</li>
 <li>gmail.com (383)</li>
-<li>web.whatsapp.com (329)</li>
+<li>web.whatsapp.com (330)</li>
 <li>chat.openai.com (292)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (284)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:19 chatgpt.com</li>
+<ul><li> 10:47 mail.google.com</li>
+<li class='same'> 10:46 mail.google.com</li>
+<li> 10:46 web.whatsapp.com</li>
+<li> 10:44 www.amazon.co.uk</li>
+<li> 10:19 chatgpt.com</li>
 <li class='same'> 10:18 chatgpt.com</li>
 <li> 10:18 chat.openai.com</li>
 <li> 10:02 duckduckgo.com</li>
@@ -45565,7 +45569,8 @@ With number of accesses/minutes in parentheses
 <li> 14:37 www.paypal.com</li>
 <li class='same'> 14:36 www.paypal.com</li>
 <li class='same'> 14:31 www.paypal.com</li>
-<li class='same'> 14:30 www.paypal.com</li>
+<li> 14:30 mail.google.com</li>
+<li> 14:30 www.paypal.com</li>
 <li class='same'> 14:29 www.paypal.com</li>
 <li class='same'> 14:22 www.paypal.com</li>
 <li class='same'> 14:21 www.paypal.com</li>
