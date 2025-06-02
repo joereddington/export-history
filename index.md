@@ -71,10 +71,10 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3072)</li>
 <li>mail.google.com (2659)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (2007)</li>
-<li>www.reddit.com (1630)</li>
-<li>outlook.office365.com (1619)</li>
-<li>bsky.app (1526)</li>
+<li>docs.google.com (2008)</li>
+<li>www.reddit.com (1636)</li>
+<li>outlook.office365.com (1621)</li>
+<li>bsky.app (1527)</li>
 <li>www.facebook.com (1406)</li>
 <li>duckduckgo.com (1081)</li>
 <li>chatgpt.com (761)</li>
@@ -85,10 +85,10 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (481)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>github.com (416)</li>
-<li>login.microsoftonline.com (414)</li>
+<li>login.microsoftonline.com (415)</li>
 <li>tvtropes.org (408)</li>
 <li>gmail.com (387)</li>
-<li>web.whatsapp.com (334)</li>
+<li>web.whatsapp.com (335)</li>
 <li>chat.openai.com (295)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (284)</li>
@@ -105,6 +105,22 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 02/06/25</H3>
+
+<br>
+
+<ul><li> 21:02 www.reddit.com</li>
+<li class='same'> 21:01 www.reddit.com</li>
+<li class='same'> 20:57 www.reddit.com</li>
+<li class='same'> 20:56 www.reddit.com</li>
+<li class='same'> 20:55 www.reddit.com</li>
+<li class='same'> 20:53 www.reddit.com</li>
+<li> 20:49 docs.google.com</li>
+<li> 20:49 web.whatsapp.com</li>
+<li> 20:49 outlook.office365.com</li>
+<li> 20:49 login.microsoftonline.com</li>
+<li> 20:49 outlook.office365.com</li>
+<li> 20:47 bsky.app</li>
+</ul>
 
 <br>
 
