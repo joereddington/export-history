@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3062)</li>
-<li>mail.google.com (2650)</li>
+<ol><li>www.google.com (3072)</li>
+<li>mail.google.com (2652)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2005)</li>
 <li>www.reddit.com (1628)</li>
-<li>outlook.office365.com (1596)</li>
-<li>bsky.app (1519)</li>
+<li>outlook.office365.com (1600)</li>
+<li>bsky.app (1522)</li>
 <li>www.facebook.com (1406)</li>
-<li>duckduckgo.com (1076)</li>
-<li>chatgpt.com (759)</li>
-<li>www.amazon.co.uk (718)</li>
+<li>duckduckgo.com (1079)</li>
+<li>chatgpt.com (760)</li>
+<li>www.amazon.co.uk (721)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (506)</li>
 <li>www.linkedin.com (481)</li>
-<li>moodle.royalholloway.ac.uk (476)</li>
+<li>moodle.royalholloway.ac.uk (479)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>github.com (416)</li>
-<li>login.microsoftonline.com (410)</li>
-<li>tvtropes.org (398)</li>
-<li>gmail.com (385)</li>
+<li>login.microsoftonline.com (414)</li>
+<li>tvtropes.org (408)</li>
+<li>gmail.com (386)</li>
 <li>web.whatsapp.com (332)</li>
 <li>chat.openai.com (294)</li>
 <li>drive.google.com (287)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>qbo.intuit.com (232)</li>
 <li>whitewaterwriters.com (225)</li>
 <li>www.coursera.org (208)</li>
-<li>rhul.sharepoint.com (203)</li>
+<li>rhul.sharepoint.com (204)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (203)</li>
 
 
@@ -105,6 +105,43 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 02/06/25</H3>
+
+<br>
+
+<ul><li> 15:33 outlook.office365.com</li>
+<li> 15:32 jobs.royalholloway.ac.uk</li>
+<li> 15:32 mail.google.com</li>
+<li class='same'> 15:31 mail.google.com</li>
+<li> 15:31 gmail.com</li>
+<li> 15:11 projects.cs.rhul.ac.uk</li>
+<li class='same'> 15:10 projects.cs.rhul.ac.uk</li>
+<li> 15:10 moodle.royalholloway.ac.uk</li>
+<li> 15:10 login.microsoftonline.com</li>
+<li> 15:10 moodle.royalholloway.ac.uk</li>
+<li> 15:10 login.microsoftonline.com</li>
+<li> 15:10 chatgpt.com</li>
+<li> 15:09 bsky.app</li>
+<li class='same'> 15:05 bsky.app</li>
+<li> 15:03 rhul.sharepoint.com</li>
+<li> 15:03 login.microsoftonline.com</li>
+<li> 15:03 outlook.office365.com</li>
+<li class='same'> 15:00 outlook.office365.com</li>
+<li> 14:59 bsky.app</li>
+<li> 14:58 login.microsoftonline.com</li>
+<li> 14:58 moodle.royalholloway.ac.uk</li>
+<li> 14:57 outlook.office365.com</li>
+<li> 14:49 projects.cs.rhul.ac.uk</li>
+<li> 14:48 <a href="https://en.wikipedia.org/wiki/University_of_Huddersfield">University of Huddersfield - Wikipedia</a></li>
+<li> 14:48 duckduckgo.com</li>
+<li> 14:47 www.instagram.com</li>
+<li> 14:46 london.hud.ac.uk</li>
+<li> 14:46 duckduckgo.com</li>
+<li> 14:45 london.hud.ac.uk</li>
+<li> 14:45 duckduckgo.com</li>
+<li> 14:43 studygroupuk.applytojob.com</li>
+<li> 14:41 www.google.com</li>
+<li> 14:40 <a href="https://www.theguardian.com/global-development/2025/jun/02/lesotho-anti-drug-mothers-fight-protect-children-bluetoothing-hotspotting">Mothers fight to protect children from drugs as ‘hotspotting’ takes hold in Lesotho | Global development | The Guardian</a></li>
+</ul>
 
 <br>
 
@@ -142,6 +179,18 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:14 outlook.office365.com</li>
 <li> 11:14 login.microsoftonline.com</li>
 <li> 11:14 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:11 <a href="https://www.theguardian.com/global-development/2025/jun/02/lesotho-anti-drug-mothers-fight-protect-children-bluetoothing-hotspotting">Mothers fight to protect children from drugs as ‘hotspotting’ takes hold in Lesotho | Global development | The Guardian</a></li>
+<li> 09:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:10 <a href="https://www.theguardian.com/politics/2025/jun/02/blue-labour-group-urges-ministers-root-out-dei-win-over-reform-voters">Blue Labour group urges ministers to ‘root out DEI’ to win over Reform voters | Labour | The Guardian</a></li>
+<li> 09:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:09 www.amazon.co.uk</li>
+<li> 09:09 tvtropes.org</li>
+<li> 09:09 www.amazon.co.uk</li>
+<li> 09:09 www.google.com</li>
 </ul>
 
 <br>
@@ -220,6 +269,17 @@ With number of accesses/minutes in parentheses
 <li> 12:08 docs.google.com</li>
 <li class='same'> 12:07 docs.google.com</li>
 <li> 12:06 bsky.app</li>
+<li> 12:03 tvtropes.org</li>
+<li class='same'> 12:02 tvtropes.org</li>
+<li class='same'> 12:00 tvtropes.org</li>
+<li> 12:00 www.amazon.co.uk</li>
+<li> 12:00 tvtropes.org</li>
+<li class='same'> 11:59 tvtropes.org</li>
+<li class='same'> 11:57 tvtropes.org</li>
+<li class='same'> 11:55 tvtropes.org</li>
+<li class='same'> 11:48 tvtropes.org</li>
+<li class='same'> 11:46 tvtropes.org</li>
+<li> 11:46 www.google.com</li>
 <li> 11:46 docs.google.com</li>
 </ul>
 
@@ -267,6 +327,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 22:14 www.google.com</li>
+<li> 22:13 uk.linkedin.com</li>
+<li> 22:13 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 21:04 www.google.com</li>
+<li> 21:04 uk.linkedin.com</li>
+<li> 21:04 www.google.com</li>
+<li class='same'> 21:03 www.google.com</li>
+<li> 21:03 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:23 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<li> 18:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 18:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 18:21 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 14:04 jobs.royalholloway.ac.uk</li>
 <li> 14:03 mail.google.com</li>
 <li> 14:03 pure.royalholloway.ac.uk</li>
@@ -298,7 +382,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:46 www.google.com</li>
+<ul><li> 11:42 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:46 www.google.com</li>
 <li class='same'> 10:45 www.google.com</li>
 <li> 10:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
