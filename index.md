@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3064)</li>
+<ol><li>www.google.com (3065)</li>
 <li>mail.google.com (2647)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (2003)</li>
+<li>docs.google.com (2004)</li>
 <li>www.reddit.com (1628)</li>
 <li>outlook.office365.com (1577)</li>
 <li>bsky.app (1514)</li>
 <li>www.facebook.com (1406)</li>
-<li>duckduckgo.com (1075)</li>
+<li>duckduckgo.com (1076)</li>
 <li>chatgpt.com (758)</li>
 <li>www.amazon.co.uk (718)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:53 www.reddit.com</li>
+<ul><li> 19:26 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:58 <a href="https://en.wikipedia.org/wiki/Shane_Gillis">Shane Gillis - Wikipedia</a></li>
+<li> 17:58 duckduckgo.com</li>
+<li> 17:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:58 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+<li> 17:57 www.giantitp.com</li>
+<li class='same'> 17:56 www.giantitp.com</li>
+<li class='same'> 17:55 www.giantitp.com</li>
+<li> 17:53 www.reddit.com</li>
 <li> 17:52 en.m.wikipedia.org</li>
 <li> 17:51 www.reddit.com</li>
 <li> 17:44 docs.google.com</li>
@@ -306,7 +318,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:53 www.temu.com</li>
+<ul><li> 21:54 www.google.com</li>
+<li> 21:53 www.temu.com</li>
 <li> 21:39 docs.google.com</li>
 <li> 21:38 www.reddit.com</li>
 <li class='same'> 21:36 www.reddit.com</li>
