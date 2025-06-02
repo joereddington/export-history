@@ -69,18 +69,18 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3072)</li>
-<li>mail.google.com (2655)</li>
+<li>mail.google.com (2656)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2005)</li>
 <li>www.reddit.com (1630)</li>
-<li>outlook.office365.com (1604)</li>
+<li>outlook.office365.com (1609)</li>
 <li>bsky.app (1524)</li>
 <li>www.facebook.com (1406)</li>
 <li>duckduckgo.com (1081)</li>
 <li>chatgpt.com (761)</li>
 <li>www.amazon.co.uk (721)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (506)</li>
+<li>calendar.google.com (508)</li>
 <li>moodle.royalholloway.ac.uk (483)</li>
 <li>www.linkedin.com (481)</li>
 <li>rhul-my.sharepoint.com (473)</li>
@@ -95,8 +95,8 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>whitewaterwriters.com (225)</li>
+<li>rhul.sharepoint.com (208)</li>
 <li>www.coursera.org (208)</li>
-<li>rhul.sharepoint.com (204)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (203)</li>
 
 
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:35 outlook.office365.com</li>
+<ul><li> 17:11 rhul.sharepoint.com</li>
+<li class='same'> 17:10 rhul.sharepoint.com</li>
+<li> 16:43 outlook.office365.com</li>
+<li class='same'> 16:41 outlook.office365.com</li>
+<li> 16:40 rhul.sharepoint.com</li>
+<li class='same'> 16:39 rhul.sharepoint.com</li>
+<li> 16:38 outlook.office365.com</li>
+<li> 16:38 mail.google.com</li>
+<li> 16:38 calendar.google.com</li>
+<li class='same'> 16:37 calendar.google.com</li>
+<li> 16:37 outlook.office365.com</li>
+<li class='same'> 16:36 outlook.office365.com</li>
+<li class='same'> 16:35 outlook.office365.com</li>
 <li class='same'> 16:34 outlook.office365.com</li>
 <li> 16:33 jobs.royalholloway.ac.uk</li>
 <li> 16:33 moodle.royalholloway.ac.uk</li>
