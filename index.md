@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3072)</li>
-<li>mail.google.com (2652)</li>
+<li>mail.google.com (2655)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2005)</li>
-<li>www.reddit.com (1628)</li>
-<li>outlook.office365.com (1600)</li>
-<li>bsky.app (1522)</li>
+<li>www.reddit.com (1630)</li>
+<li>outlook.office365.com (1604)</li>
+<li>bsky.app (1524)</li>
 <li>www.facebook.com (1406)</li>
-<li>duckduckgo.com (1079)</li>
-<li>chatgpt.com (760)</li>
+<li>duckduckgo.com (1081)</li>
+<li>chatgpt.com (761)</li>
 <li>www.amazon.co.uk (721)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (506)</li>
+<li>moodle.royalholloway.ac.uk (483)</li>
 <li>www.linkedin.com (481)</li>
-<li>moodle.royalholloway.ac.uk (479)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (414)</li>
 <li>tvtropes.org (408)</li>
 <li>gmail.com (386)</li>
-<li>web.whatsapp.com (332)</li>
-<li>chat.openai.com (294)</li>
+<li>web.whatsapp.com (333)</li>
+<li>chat.openai.com (295)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (284)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:33 outlook.office365.com</li>
+<ul><li> 16:35 outlook.office365.com</li>
+<li class='same'> 16:34 outlook.office365.com</li>
+<li> 16:33 jobs.royalholloway.ac.uk</li>
+<li> 16:33 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:32 moodle.royalholloway.ac.uk</li>
+<li> 16:32 mail.google.com</li>
+<li class='same'> 16:31 mail.google.com</li>
+<li> 16:30 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:29 moodle.royalholloway.ac.uk</li>
+<li> 16:29 www.royalholloway.ac.uk</li>
+<li class='same'> 16:28 www.royalholloway.ac.uk</li>
+<li> 16:28 duckduckgo.com</li>
+<li> 16:27 chatgpt.com</li>
+<li> 16:27 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:52 www.royalholloway.ac.uk</li>
+<li> 15:52 pure.royalholloway.ac.uk</li>
+<li> 15:52 duckduckgo.com</li>
+<li> 15:51 jobs.royalholloway.ac.uk</li>
+<li> 15:51 outlook.office365.com</li>
+<li> 15:50 bsky.app</li>
+<li> 15:47 web.whatsapp.com</li>
+<li> 15:47 bsky.app</li>
+<li> 15:46 www.reddit.com</li>
+<li class='same'> 15:44 www.reddit.com</li>
+<li> 15:44 outlook.office365.com</li>
+<li> 15:44 mail.google.com</li>
+<li> 15:41 projects.cs.rhul.ac.uk</li>
+<li> 15:33 outlook.office365.com</li>
 <li> 15:32 jobs.royalholloway.ac.uk</li>
 <li> 15:32 mail.google.com</li>
 <li class='same'> 15:31 mail.google.com</li>
