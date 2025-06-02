@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3065)</li>
+<ol><li>www.google.com (3062)</li>
 <li>mail.google.com (2650)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2005)</li>
@@ -16936,7 +16936,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:39 www.linkedin.com</li>
 <li> 17:39 www.facebook.com</li>
 <li> 17:38 makecode.microbit.org</li>
-<li> 17:38 l.facebook.com</li>
 <li> 17:38 www.facebook.com</li>
 <li class='same'> 17:37 www.facebook.com</li>
 <li> 17:37 bsky.app</li>
@@ -17013,8 +17012,6 @@ With number of accesses/minutes in parentheses
 <li> 13:25 urmet.co.uk</li>
 <li> 13:25 www.amazon.co.uk</li>
 <li> 13:25 www.codelocks.co.uk</li>
-<li> 13:24 www.google.com</li>
-<li> 13:20 www.googleadservices.com</li>
 <li> 13:20 www.amazon.co.uk</li>
 <li> 13:20 www.google.com</li>
 <li> 13:13 docs.google.com</li>
@@ -17024,8 +17021,7 @@ With number of accesses/minutes in parentheses
 <li> 12:45 github.com</li>
 <li> 12:44 www.spreadtheword.org.uk</li>
 <li> 12:44 bridportprize.org.uk</li>
-<li> 12:44 www.google.com</li>
-<li class='same'> 12:43 www.google.com</li>
+<li> 12:43 www.google.com</li>
 <li> 12:42 www.reddit.com</li>
 <li> 12:42 www.google.com</li>
 <li> 12:42 mail.google.com</li>
@@ -17059,8 +17055,6 @@ With number of accesses/minutes in parentheses
 <li> 11:59 eu-west-2.console.aws.amazon.com</li>
 <li> 11:59 eu-west-2.signin.aws.amazon.com</li>
 <li> 11:59 eu-west-2.console.aws.amazon.com</li>
-<li> 11:59 signin.aws.amazon.com</li>
-<li> 11:59 eu-west-2.console.aws.amazon.com</li>
 <li> 11:58 signin.aws.amazon.com</li>
 <li> 11:58 mail.google.com</li>
 <li> 11:58 gmail.com</li>
@@ -17074,8 +17068,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:34 apply.unity.co.uk</li>
 <li class='same'> 11:33 apply.unity.co.uk</li>
 <li class='same'> 11:32 apply.unity.co.uk</li>
-<li> 11:32 www.google.com</li>
-<li> 11:32 apply.unity.co.uk</li>
 <li> 11:32 mail.google.com</li>
 <li> 11:32 gmail.com</li>
 <li> 11:32 workspace.google.com</li>
@@ -17112,7 +17104,6 @@ With number of accesses/minutes in parentheses
 <li> 11:12 drive.google.com</li>
 <li class='same'> 11:11 drive.google.com</li>
 <li> 11:11 ieeexplore.ieee.org</li>
-<li> 11:11 login.openathens.net</li>
 <li> 11:11 login.microsoftonline.com</li>
 <li> 11:10 ieeexplore.ieee.org</li>
 <li> 11:10 scholar.google.co.uk</li>
@@ -17151,7 +17142,6 @@ With number of accesses/minutes in parentheses
 <li> 10:51 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 10:51 <a href="https://en.wikipedia.org/wiki/Special:CentralLogin/complete?token=809f0c2be075dd50ccceba98d36b7017&usesul3=0"></a></li>
 <li> 10:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 10:51 login.wikimedia.org</li>
 <li> 10:50 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
 <li> 10:50 login.wikimedia.org</li>
 <li> 10:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Log in - Wikipedia</a></li>
