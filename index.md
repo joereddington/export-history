@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3072)</li>
-<li>mail.google.com (2658)</li>
+<li>mail.google.com (2659)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2007)</li>
 <li>www.reddit.com (1630)</li>
-<li>outlook.office365.com (1616)</li>
-<li>bsky.app (1525)</li>
+<li>outlook.office365.com (1619)</li>
+<li>bsky.app (1526)</li>
 <li>www.facebook.com (1406)</li>
 <li>duckduckgo.com (1081)</li>
 <li>chatgpt.com (761)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (414)</li>
 <li>tvtropes.org (408)</li>
-<li>gmail.com (386)</li>
+<li>gmail.com (387)</li>
 <li>web.whatsapp.com (334)</li>
 <li>chat.openai.com (295)</li>
 <li>drive.google.com (287)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:11 outlook.office365.com</li>
+<ul><li> 20:11 e.ggtimer.com</li>
+<li class='same'> 20:06 e.ggtimer.com</li>
+<li class='same'> 20:05 e.ggtimer.com</li>
+<li> 20:04 www.mozilla.org</li>
+<li> 19:58 teams.live.com</li>
+<li> 19:58 outlook.office365.com</li>
+<li class='same'> 19:56 outlook.office365.com</li>
+<li> 19:56 mail.google.com</li>
+<li> 19:56 gmail.com</li>
+<li> 19:55 bsky.app</li>
+<li> 19:55 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:11 outlook.office365.com</li>
 <li> 18:11 mail.google.com</li>
 <li> 18:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/02/why-did-ncuti-gatwa-leave-doctor-who-so-soon#img-1">Fun, flirty and far too brief: why did Ncuti Gatwa leave Doctor Who so soon? | Doctor Who | The Guardian</a></li>
 <li> 18:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/02/why-did-ncuti-gatwa-leave-doctor-who-so-soon">Fun, flirty and far too brief: why did Ncuti Gatwa leave Doctor Who so soon? | Doctor Who | The Guardian</a></li>
