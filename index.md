@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3065)</li>
-<li>mail.google.com (2647)</li>
+<li>mail.google.com (2650)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2005)</li>
 <li>www.reddit.com (1628)</li>
-<li>outlook.office365.com (1588)</li>
-<li>bsky.app (1514)</li>
+<li>outlook.office365.com (1596)</li>
+<li>bsky.app (1519)</li>
 <li>www.facebook.com (1406)</li>
 <li>duckduckgo.com (1076)</li>
 <li>chatgpt.com (759)</li>
@@ -87,8 +87,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (410)</li>
 <li>tvtropes.org (398)</li>
-<li>gmail.com (383)</li>
-<li>web.whatsapp.com (331)</li>
+<li>gmail.com (385)</li>
+<li>web.whatsapp.com (332)</li>
 <li>chat.openai.com (294)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (284)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:32 www.royalholloway.ac.uk</li>
+<ul><li> 12:33 www.timeshighereducation.com</li>
+<li> 12:33 go.bsky.app</li>
+<li> 12:33 bsky.app</li>
+<li> 12:19 outlook.office365.com</li>
+<li> 12:10 web.whatsapp.com</li>
+<li> 12:09 mail.google.com</li>
+<li> 12:09 gmail.com</li>
+<li> 12:08 outlook.office365.com</li>
+<li> 12:08 mail.google.com</li>
+<li class='same'> 12:07 mail.google.com</li>
+<li> 12:07 gmail.com</li>
+<li> 12:07 outlook.office365.com</li>
+<li> 12:07 bsky.app</li>
+<li class='same'> 12:05 bsky.app</li>
+<li class='same'> 12:01 bsky.app</li>
+<li class='same'> 11:55 bsky.app</li>
+<li> 11:52 outlook.office365.com</li>
+<li> 11:50 objective-see.org</li>
+<li> 11:50 outlook.office365.com</li>
+<li class='same'> 11:36 outlook.office365.com</li>
+<li> 11:32 www.royalholloway.ac.uk</li>
 <li> 11:31 outlook.office365.com</li>
 <li class='same'> 11:24 outlook.office365.com</li>
 <li> 11:24 docs.google.com</li>
@@ -48917,11 +48937,8 @@ With number of accesses/minutes in parentheses
 <li> 13:18 www.whitewaterwriters.com</li>
 <li> 13:17 docs.google.com</li>
 <li> 12:58 myview.rhul.zellis.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 12:27 myview.rhul.zellis.com</li>
+<li> 12:33 outlook.office365.com</li>
+<li> 12:27 myview.rhul.zellis.com</li>
 <li> 12:22 rhul.sharepoint.com</li>
 <li> 12:19 outlook.office365.com</li>
 <li class='same'> 12:14 outlook.office365.com</li>
@@ -49161,6 +49178,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:20 outlook.office365.com</li>
+<li class='same'> 12:19 outlook.office365.com</li>
 <li> 12:13 andsoshethinks.co.uk</li>
 <li> 12:13 mail.google.com</li>
 <li class='same'> 12:12 mail.google.com</li>
