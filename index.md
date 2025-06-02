@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3072)</li>
-<li>mail.google.com (2656)</li>
+<li>mail.google.com (2658)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (2005)</li>
+<li>docs.google.com (2007)</li>
 <li>www.reddit.com (1630)</li>
-<li>outlook.office365.com (1609)</li>
-<li>bsky.app (1524)</li>
+<li>outlook.office365.com (1616)</li>
+<li>bsky.app (1525)</li>
 <li>www.facebook.com (1406)</li>
 <li>duckduckgo.com (1081)</li>
 <li>chatgpt.com (761)</li>
@@ -88,14 +88,14 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (414)</li>
 <li>tvtropes.org (408)</li>
 <li>gmail.com (386)</li>
-<li>web.whatsapp.com (333)</li>
+<li>web.whatsapp.com (334)</li>
 <li>chat.openai.com (295)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (284)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>whitewaterwriters.com (225)</li>
-<li>rhul.sharepoint.com (208)</li>
+<li>rhul.sharepoint.com (210)</li>
 <li>www.coursera.org (208)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (203)</li>
 
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:11 rhul.sharepoint.com</li>
+<ul><li> 18:11 outlook.office365.com</li>
+<li> 18:11 mail.google.com</li>
+<li> 18:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/02/why-did-ncuti-gatwa-leave-doctor-who-so-soon#img-1">Fun, flirty and far too brief: why did Ncuti Gatwa leave Doctor Who so soon? | Doctor Who | The Guardian</a></li>
+<li> 18:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/02/why-did-ncuti-gatwa-leave-doctor-who-so-soon">Fun, flirty and far too brief: why did Ncuti Gatwa leave Doctor Who so soon? | Doctor Who | The Guardian</a></li>
+<li> 18:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:08 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+<li> 18:08 bsky.app</li>
+<li> 17:54 outlook.office365.com</li>
+<li class='same'> 17:53 outlook.office365.com</li>
+<li> 17:53 docs.google.com</li>
+<li class='same'> 17:52 docs.google.com</li>
+<li> 17:51 web.whatsapp.com</li>
+<li> 17:51 rhul.sharepoint.com</li>
+<li> 17:51 mail.google.com</li>
+<li> 17:51 outlook.office365.com</li>
+<li class='same'> 17:50 outlook.office365.com</li>
+<li> 17:40 rhul.sharepoint.com</li>
+<li> 17:36 outlook.office365.com</li>
+<li class='same'> 17:35 outlook.office365.com</li>
+<li> 17:11 rhul.sharepoint.com</li>
 <li class='same'> 17:10 rhul.sharepoint.com</li>
 <li> 16:43 outlook.office365.com</li>
 <li class='same'> 16:41 outlook.office365.com</li>
