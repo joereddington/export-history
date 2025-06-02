@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3065)</li>
 <li>mail.google.com (2647)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (2004)</li>
+<li>docs.google.com (2005)</li>
 <li>www.reddit.com (1628)</li>
-<li>outlook.office365.com (1577)</li>
+<li>outlook.office365.com (1588)</li>
 <li>bsky.app (1514)</li>
 <li>www.facebook.com (1406)</li>
 <li>duckduckgo.com (1076)</li>
-<li>chatgpt.com (758)</li>
+<li>chatgpt.com (759)</li>
 <li>www.amazon.co.uk (718)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (506)</li>
@@ -85,11 +85,11 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (476)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>github.com (416)</li>
-<li>login.microsoftonline.com (409)</li>
+<li>login.microsoftonline.com (410)</li>
 <li>tvtropes.org (398)</li>
 <li>gmail.com (383)</li>
 <li>web.whatsapp.com (331)</li>
-<li>chat.openai.com (293)</li>
+<li>chat.openai.com (294)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (284)</li>
 <li>fritz.box (277)</li>
@@ -104,7 +104,37 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 02/06/25</H3>
+
+<br>
+
+<ul><li> 11:32 www.royalholloway.ac.uk</li>
+<li> 11:31 outlook.office365.com</li>
+<li class='same'> 11:24 outlook.office365.com</li>
+<li> 11:24 docs.google.com</li>
+<li> 11:24 outlook.office365.com</li>
+<li class='same'> 11:23 outlook.office365.com</li>
+<li class='same'> 11:21 outlook.office365.com</li>
+<li class='same'> 11:20 outlook.office365.com</li>
+<li class='same'> 11:18 outlook.office365.com</li>
+<li class='same'> 11:16 outlook.office365.com</li>
+<li class='same'> 11:15 outlook.office365.com</li>
+<li class='same'> 11:14 outlook.office365.com</li>
+<li> 11:14 login.microsoftonline.com</li>
+<li> 11:14 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:55 chatgpt.com</li>
+<li> 07:55 chat.openai.com</li>
+</ul>
+
 <H3>Sunday, 01/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -46191,6 +46221,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:33 mail.google.com</li>
 <li> 14:17 whitewaterwriters.com</li>
 <li> 14:07 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:31 www.royalholloway.ac.uk</li>
 </ul>
 
 <br>
