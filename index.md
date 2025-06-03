@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3075)</li>
-<li>mail.google.com (2660)</li>
+<li>mail.google.com (2661)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (2012)</li>
+<li>docs.google.com (2015)</li>
 <li>www.reddit.com (1647)</li>
 <li>outlook.office365.com (1621)</li>
 <li>bsky.app (1527)</li>
 <li>www.facebook.com (1406)</li>
 <li>duckduckgo.com (1084)</li>
-<li>chatgpt.com (761)</li>
+<li>chatgpt.com (762)</li>
 <li>www.amazon.co.uk (721)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (509)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (408)</li>
 <li>gmail.com (388)</li>
 <li>web.whatsapp.com (336)</li>
-<li>chat.openai.com (295)</li>
+<li>chat.openai.com (296)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (284)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 09:07 docs.google.com</li>
+<li class='same'> 09:06 docs.google.com</li>
+<li> 09:06 chatgpt.com</li>
+<li> 09:06 chat.openai.com</li>
+<li> 09:04 docs.google.com</li>
+<li> 09:02 www.lazycatkitchen.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:25 calendar.google.com</li>
+<li> 07:22 mail.google.com</li>
+<li> 07:21 www.jobs.ac.uk</li>
+<li> 07:20 jobs.royalholloway.ac.uk</li>
 <li> 07:19 www.jobs.ac.uk</li>
 <li> 07:19 mail.google.com</li>
 <li> 07:19 gmail.com</li>
