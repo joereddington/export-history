@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3075)</li>
-<li>mail.google.com (2665)</li>
+<ol><li>www.google.com (3076)</li>
+<li>mail.google.com (2667)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2017)</li>
 <li>www.reddit.com (1647)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (415)</li>
 <li>tvtropes.org (408)</li>
-<li>gmail.com (389)</li>
+<li>gmail.com (390)</li>
 <li>web.whatsapp.com (338)</li>
 <li>chat.openai.com (297)</li>
 <li>drive.google.com (287)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:56 chatgpt.com</li>
+<ul><li> 10:07 mail.google.com</li>
+<li class='same'> 10:06 mail.google.com</li>
+<li> 10:06 gmail.com</li>
+<li> 09:57 support.bcn3d.com</li>
+<li> 09:57 www.google.com</li>
+<li> 09:56 chatgpt.com</li>
 <li> 09:56 chat.openai.com</li>
 <li> 09:54 mail.google.com</li>
 <li class='same'> 09:53 mail.google.com</li>
