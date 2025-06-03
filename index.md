@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1528)</li>
 <li>www.facebook.com (1406)</li>
 <li>duckduckgo.com (1084)</li>
-<li>chatgpt.com (763)</li>
+<li>chatgpt.com (764)</li>
 <li>www.amazon.co.uk (721)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (509)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (408)</li>
 <li>gmail.com (390)</li>
 <li>web.whatsapp.com (338)</li>
-<li>chat.openai.com (297)</li>
+<li>chat.openai.com (298)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (284)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:25 www.google.com</li>
+<ul><li> 11:55 chatgpt.com</li>
+<li> 11:55 chat.openai.com</li>
+<li> 11:48 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 11:40 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li class='same'> 11:28 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 11:25 www.google.com</li>
 <li> 11:25 community.ui.com</li>
 <li> 11:25 www.google.com</li>
 <li> 11:24 electronics.stackexchange.com</li>
