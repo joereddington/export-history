@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2670)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2019)</li>
-<li>www.reddit.com (1658)</li>
+<li>www.reddit.com (1667)</li>
 <li>outlook.office365.com (1624)</li>
 <li>bsky.app (1531)</li>
 <li>www.facebook.com (1406)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:29 www.reddit.com</li>
+<ul><li> 13:41 www.reddit.com</li>
+<li class='same'> 13:39 www.reddit.com</li>
+<li class='same'> 13:38 www.reddit.com</li>
+<li> 13:38 www.anam.ai</li>
+<li> 13:38 anam.ai</li>
+<li> 13:38 alb.reddit.com</li>
+<li> 13:38 equalitytime.github.io</li>
+<li> 13:38 www.reddit.com</li>
+<li class='same'> 13:36 www.reddit.com</li>
+<li class='same'> 13:34 www.reddit.com</li>
+<li class='same'> 13:33 www.reddit.com</li>
+<li class='same'> 13:31 www.reddit.com</li>
+<li class='same'> 13:30 www.reddit.com</li>
+<li class='same'> 13:29 www.reddit.com</li>
 <li class='same'> 13:27 www.reddit.com</li>
 <li class='same'> 13:26 www.reddit.com</li>
 <li class='same'> 13:25 www.reddit.com</li>
