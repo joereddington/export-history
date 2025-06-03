@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3072)</li>
-<li>mail.google.com (2659)</li>
+<ol><li>www.google.com (3075)</li>
+<li>mail.google.com (2660)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (2008)</li>
-<li>www.reddit.com (1636)</li>
+<li>docs.google.com (2012)</li>
+<li>www.reddit.com (1647)</li>
 <li>outlook.office365.com (1621)</li>
 <li>bsky.app (1527)</li>
 <li>www.facebook.com (1406)</li>
-<li>duckduckgo.com (1081)</li>
+<li>duckduckgo.com (1084)</li>
 <li>chatgpt.com (761)</li>
 <li>www.amazon.co.uk (721)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (508)</li>
+<li>calendar.google.com (509)</li>
 <li>moodle.royalholloway.ac.uk (483)</li>
-<li>www.linkedin.com (481)</li>
+<li>www.linkedin.com (482)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (415)</li>
 <li>tvtropes.org (408)</li>
-<li>gmail.com (387)</li>
-<li>web.whatsapp.com (335)</li>
+<li>gmail.com (388)</li>
+<li>web.whatsapp.com (336)</li>
 <li>chat.openai.com (295)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (284)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (225)</li>
 <li>rhul.sharepoint.com (210)</li>
 <li>www.coursera.org (208)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (203)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (204)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,9 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:54 <a href="https://www.theguardian.com/world/2025/jun/02/operation-spiderweb-visual-guide-ukraine-drone-attack-russian-aircraft">Operation Spiderweb: a visual guide to Ukraine’s destruction of Russian aircraft | Ukraine | The Guardian</a></li>
+<ul><li> 07:25 calendar.google.com</li>
+<li> 07:19 www.jobs.ac.uk</li>
+<li> 07:19 mail.google.com</li>
+<li> 07:19 gmail.com</li>
+<li> 07:10 web.whatsapp.com</li>
+<li> 06:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:54 <a href="https://www.theguardian.com/world/2025/jun/02/operation-spiderweb-visual-guide-ukraine-drone-attack-russian-aircraft">Operation Spiderweb: a visual guide to Ukraine’s destruction of Russian aircraft | Ukraine | The Guardian</a></li>
 <li> 06:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:54 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+<li> 06:49 docs.google.com</li>
+<li> 06:44 www.linkedin.com</li>
+<li> 06:42 www.reddit.com</li>
+<li class='same'> 06:41 www.reddit.com</li>
+<li class='same'> 06:40 www.reddit.com</li>
+<li class='same'> 06:39 www.reddit.com</li>
+<li> 06:39 duckduckgo.com</li>
+<li> 06:38 www.tesco.com</li>
+<li> 06:38 www.google.com</li>
+<li> 06:36 www.tesco.com</li>
+<li> 06:36 www.google.com</li>
+<li> 06:35 docs.google.com</li>
+<li class='same'> 06:34 docs.google.com</li>
+<li> 06:32 www.ketovale.com</li>
+<li> 06:32 duckduckgo.com</li>
+<li> 06:32 www.reddit.com</li>
+<li class='same'> 06:31 www.reddit.com</li>
+<li> 06:31 duckduckgo.com</li>
+<li> 06:31 www.tesco.com</li>
+<li> 06:31 www.google.com</li>
+<li> 06:28 docs.google.com</li>
 </ul>
 
 <H3>Monday, 02/06/25</H3>
@@ -50409,6 +50436,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:16 www.royalholloway.ac.uk</li>
+<li> 10:51 www.reddit.com</li>
 </ul>
 
 <H3>Monday, 19/02/24</H3>
@@ -50791,6 +50819,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 20:42 www.reddit.com</li>
+<li class='same'> 20:41 www.reddit.com</li>
+<li class='same'> 20:40 www.reddit.com</li>
+<li class='same'> 20:39 www.reddit.com</li>
+</ul>
 
 <br>
 
