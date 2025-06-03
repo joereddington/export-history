@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3077)</li>
-<li>mail.google.com (2672)</li>
+<li>mail.google.com (2676)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2021)</li>
-<li>www.reddit.com (1680)</li>
+<li>www.reddit.com (1683)</li>
 <li>outlook.office365.com (1628)</li>
-<li>bsky.app (1540)</li>
+<li>bsky.app (1541)</li>
 <li>www.facebook.com (1407)</li>
 <li>duckduckgo.com (1086)</li>
 <li>chatgpt.com (765)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (416)</li>
 <li>tvtropes.org (408)</li>
-<li>gmail.com (392)</li>
+<li>gmail.com (393)</li>
 <li>web.whatsapp.com (340)</li>
 <li>chat.openai.com (299)</li>
 <li>drive.google.com (288)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 03/06/25</H3>
+
+<br>
+
+<ul><li> 16:27 mail.google.com</li>
+<li class='same'> 16:22 mail.google.com</li>
+<li> 16:21 www.reddit.com</li>
+<li class='same'> 16:20 www.reddit.com</li>
+<li> 16:19 mail.google.com</li>
+<li> 16:19 bsky.app</li>
+<li> 16:19 mail.google.com</li>
+<li> 16:19 gmail.com</li>
+<li> 16:18 www.reddit.com</li>
+</ul>
 
 <br>
 
