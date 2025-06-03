@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:36 mail.google.com</li>
+<ul><li> 15:04 <a href="https://www.theguardian.com/politics/2025/jun/03/nato-defence-spending-uk-trump">Nato to force UK to lift defence spending to 3.5% of GDP to appease Trump, say sources | Defence policy | The Guardian</a></li>
+<li> 15:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:02 <a href="https://www.theguardian.com/world/2025/jun/03/ukraine-hits-bridge-linking-crimea-to-russia-with-underwater-explosives">Ukraine hits bridge linking Crimea to Russia with underwater explosives | Crimea | The Guardian</a></li>
+<li> 15:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:36 mail.google.com</li>
 <li class='same'> 14:35 mail.google.com</li>
 <li> 14:35 gmail.com</li>
 <li> 14:32 www.reddit.com</li>
