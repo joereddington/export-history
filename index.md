@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3079)</li>
+<ol><li>www.google.com (3081)</li>
 <li>mail.google.com (2669)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (2017)</li>
+<li>docs.google.com (2019)</li>
 <li>www.reddit.com (1648)</li>
-<li>outlook.office365.com (1621)</li>
-<li>bsky.app (1528)</li>
+<li>outlook.office365.com (1624)</li>
+<li>bsky.app (1531)</li>
 <li>www.facebook.com (1406)</li>
 <li>duckduckgo.com (1084)</li>
 <li>chatgpt.com (764)</li>
-<li>www.amazon.co.uk (721)</li>
+<li>www.amazon.co.uk (724)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (509)</li>
 <li>moodle.royalholloway.ac.uk (483)</li>
@@ -88,9 +88,9 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (415)</li>
 <li>tvtropes.org (408)</li>
 <li>gmail.com (390)</li>
-<li>web.whatsapp.com (338)</li>
+<li>web.whatsapp.com (339)</li>
 <li>chat.openai.com (298)</li>
-<li>drive.google.com (287)</li>
+<li>drive.google.com (288)</li>
 <li>feedly.com (284)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
@@ -108,11 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:55 chatgpt.com</li>
+<ul><li> 12:52 docs.google.com</li>
+<li class='same'> 12:48 docs.google.com</li>
+<li> 12:48 drive.google.com</li>
+<li> 12:32 teams.live.com</li>
+<li> 12:32 outlook.office365.com</li>
+<li class='same'> 12:31 outlook.office365.com</li>
+<li class='same'> 12:30 outlook.office365.com</li>
+<li> 12:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:23 www.google.com</li>
+<li> 11:55 chatgpt.com</li>
 <li> 11:55 chat.openai.com</li>
 <li> 11:48 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
 <li> 11:40 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li class='same'> 11:28 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 11:40 bsky.app</li>
+<li> 11:39 www.amazon.co.uk</li>
+<li> 11:39 web.whatsapp.com</li>
+<li> 11:38 www.amazon.co.uk</li>
+<li class='same'> 11:37 www.amazon.co.uk</li>
+<li> 11:35 bsky.app</li>
+<li class='same'> 11:34 bsky.app</li>
+<li> 11:28 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 11:25 www.google.com</li>
 <li> 11:25 community.ui.com</li>
 <li> 11:25 www.google.com</li>
@@ -126,6 +142,8 @@ With number of accesses/minutes in parentheses
 <li> 11:17 i.imgur.com</li>
 <li> 11:17 www.reddit.com</li>
 <li> 11:17 www.google.com</li>
+<li class='same'> 11:11 www.google.com</li>
+<li> 11:11 uk.linkedin.com</li>
 </ul>
 
 <br>
@@ -329,6 +347,7 @@ With number of accesses/minutes in parentheses
 <li> 14:45 london.hud.ac.uk</li>
 <li> 14:45 duckduckgo.com</li>
 <li> 14:43 studygroupuk.applytojob.com</li>
+<li> 14:41 uk.linkedin.com</li>
 <li> 14:41 www.google.com</li>
 <li> 14:40 <a href="https://www.theguardian.com/global-development/2025/jun/02/lesotho-anti-drug-mothers-fight-protect-children-bluetoothing-hotspotting">Mothers fight to protect children from drugs as ‘hotspotting’ takes hold in Lesotho | Global development | The Guardian</a></li>
 </ul>
@@ -50494,6 +50513,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:16 www.royalholloway.ac.uk</li>
 <li> 10:51 www.reddit.com</li>
+<li> 10:46 www.lazycatkitchen.com</li>
 </ul>
 
 <H3>Monday, 19/02/24</H3>
