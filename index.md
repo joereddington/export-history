@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3081)</li>
+<ol><li>www.google.com (3077)</li>
 <li>mail.google.com (2669)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2019)</li>
@@ -17074,7 +17074,6 @@ With number of accesses/minutes in parentheses
 <li> 09:17 mail.google.com</li>
 <li class='same'> 09:16 mail.google.com</li>
 <li class='same'> 09:15 mail.google.com</li>
-<li> 09:12 www.google.com</li>
 <li> 09:12 clarkvision.com</li>
 <li> 09:11 www.reddit.com</li>
 <li> 09:11 www.orionoptics.co.uk</li>
@@ -17083,8 +17082,6 @@ With number of accesses/minutes in parentheses
 <li> 09:08 mail.google.com</li>
 <li> 09:08 www.darkskytelescopehire.co.uk</li>
 <li class='same'> 09:07 www.darkskytelescopehire.co.uk</li>
-<li> 09:07 www.google.com</li>
-<li> 09:07 maps.google.com</li>
 <li> 09:07 www.google.com</li>
 <li> 09:07 www.darkskytelescopehire.co.uk</li>
 <li class='same'> 09:06 www.darkskytelescopehire.co.uk</li>
@@ -17102,7 +17099,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:22 mail.google.com</li>
 <li> 07:21 stivesjudocourse.co.uk</li>
 <li> 07:21 duckduckgo.com</li>
-<li> 07:21 www.google.com</li>
 <li> 07:20 www.facebook.com</li>
 <li> 07:19 www.reddit.com</li>
 <li> 07:19 mail.google.com</li>
@@ -17111,7 +17107,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:15 www.facebook.com</li>
 <li class='same'> 07:14 www.facebook.com</li>
 <li> 07:12 www.airbnb.co.uk</li>
-<li class='same'> 07:11 www.airbnb.co.uk</li>
 <li> 07:11 www.google.com</li>
 <li> 07:11 www.airbnb.co.uk</li>
 <li> 07:09 www.centurionjiujitsu.com</li>
@@ -17137,7 +17132,6 @@ With number of accesses/minutes in parentheses
 <li> 06:49 <a href="https://en.wikipedia.org/w/index.php?title=Special:ChangeCredentials/MediaWiki%5CAuth%5CPasswordAuthenticationRequest&returnto=Special%3APreferences">Change credentials - Wikipedia</a></li>
 <li> 06:49 <a href="https://en.wikipedia.org/wiki/Special:Preferences">Preferences - Wikipedia</a></li>
 <li> 06:49 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 06:49 login.wikimedia.org</li>
 <li> 06:49 <a href="https://en.wikipedia.org/wiki/Special:CentralLogin/complete?token=5bc5034cbec564ebc944f3a5cab6abb4&usesul3=0"></a></li>
 <li> 06:49 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
 <li> 06:49 login.wikimedia.org</li>
@@ -17150,18 +17144,13 @@ With number of accesses/minutes in parentheses
 <li> 06:47 www.dailymail.co.uk</li>
 <li> 06:47 gawker.com</li>
 <li> 06:45 forum.bits.media</li>
-<li> 06:45 forum.btcsec.com</li>
 <li> 06:45 monitor.mozilla.org</li>
 <li class='same'> 06:44 monitor.mozilla.org</li>
 <li> 06:44 mail.google.com</li>
-<li> 06:44 monitor.mozilla.org</li>
-<li> 06:44 accounts.firefox.com</li>
-<li> 06:44 oauth.accounts.firefox.com</li>
 <li> 06:44 accounts.firefox.com</li>
 <li> 06:44 monitor.mozilla.org</li>
 <li> 06:44 www.google.com</li>
 <li> 06:43 mail.google.com</li>
-<li> 06:43 www.google.com</li>
 <li> 06:43 myactivity.google.com</li>
 <li> 06:43 myaccount.google.com</li>
 <li> 06:43 accounts.google.com</li>
