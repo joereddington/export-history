@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3078)</li>
-<li>mail.google.com (2682)</li>
+<li>mail.google.com (2684)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2024)</li>
-<li>www.reddit.com (1684)</li>
+<li>www.reddit.com (1686)</li>
 <li>outlook.office365.com (1628)</li>
-<li>bsky.app (1541)</li>
-<li>www.facebook.com (1407)</li>
+<li>bsky.app (1545)</li>
+<li>www.facebook.com (1408)</li>
 <li>duckduckgo.com (1086)</li>
-<li>chatgpt.com (766)</li>
+<li>chatgpt.com (767)</li>
 <li>www.amazon.co.uk (724)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (511)</li>
+<li>www.linkedin.com (492)</li>
 <li>moodle.royalholloway.ac.uk (492)</li>
-<li>www.linkedin.com (487)</li>
 <li>rhul-my.sharepoint.com (473)</li>
 <li>github.com (416)</li>
 <li>login.microsoftonline.com (416)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (340)</li>
 <li>chat.openai.com (300)</li>
 <li>drive.google.com (288)</li>
-<li>feedly.com (284)</li>
+<li>feedly.com (285)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>whitewaterwriters.com (225)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:07 calendar.google.com</li>
+<ul><li> 18:17 feedly.com</li>
+<li> 18:17 www.reddit.com</li>
+<li> 18:17 www.facebook.com</li>
+<li> 18:17 www.linkedin.com</li>
+<li class='same'> 18:16 www.linkedin.com</li>
+<li> 18:16 bsky.app</li>
+<li> 18:07 calendar.google.com</li>
 <li class='same'> 18:06 calendar.google.com</li>
 <li> 18:03 chatgpt.com</li>
 <li> 18:03 chat.openai.com</li>
@@ -128,7 +134,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 17:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:09 www.linkedin.com</li>
+<li> 17:08 chatgpt.com</li>
+<li> 17:07 www.linkedin.com</li>
+<li> 17:07 bsky.app</li>
+<li> 17:06 mail.google.com</li>
+<li> 17:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li class='same'> 16:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 16:40 <a href="https://www.theguardian.com/">Nato to force UK to lift defence spending to 3.5% of GDP to appease Trump, say sources | Defence policy | The Guardian</a></li>
 <li> 16:27 mail.google.com</li>
@@ -144,7 +155,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:04 <a href="https://www.theguardian.com/politics/2025/jun/03/nato-defence-spending-uk-trump">Nato to force UK to lift defence spending to 3.5% of GDP to appease Trump, say sources | Defence policy | The Guardian</a></li>
+<ul><li> 15:06 www.linkedin.com</li>
+<li> 15:06 www.reddit.com</li>
+<li> 15:06 bsky.app</li>
+<li class='same'> 15:05 bsky.app</li>
+<li> 15:05 mail.google.com</li>
+<li> 15:04 <a href="https://www.theguardian.com/politics/2025/jun/03/nato-defence-spending-uk-trump">Nato to force UK to lift defence spending to 3.5% of GDP to appease Trump, say sources | Defence policy | The Guardian</a></li>
 <li> 15:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 15:02 <a href="https://www.theguardian.com/world/2025/jun/03/ukraine-hits-bridge-linking-crimea-to-russia-with-underwater-explosives">Ukraine hits bridge linking Crimea to Russia with underwater explosives | Crimea | The Guardian</a></li>
 <li> 15:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
