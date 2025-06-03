@@ -104,7 +104,20 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 03/06/25</H3>
+
+<br>
+
+<ul><li> 06:54 <a href="https://www.theguardian.com/world/2025/jun/02/operation-spiderweb-visual-guide-ukraine-drone-attack-russian-aircraft">Operation Spiderweb: a visual guide to Ukraine’s destruction of Russian aircraft | Ukraine | The Guardian</a></li>
+<li> 06:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:54 <a href="https://www.theguardian.com/">Privacy policy | Privacy | The Guardian</a></li>
+</ul>
+
 <H3>Monday, 02/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
