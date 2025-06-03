@@ -71,10 +71,10 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3075)</li>
 <li>mail.google.com (2661)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (2015)</li>
+<li>docs.google.com (2017)</li>
 <li>www.reddit.com (1647)</li>
 <li>outlook.office365.com (1621)</li>
-<li>bsky.app (1527)</li>
+<li>bsky.app (1528)</li>
 <li>www.facebook.com (1406)</li>
 <li>duckduckgo.com (1084)</li>
 <li>chatgpt.com (762)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (415)</li>
 <li>tvtropes.org (408)</li>
 <li>gmail.com (388)</li>
-<li>web.whatsapp.com (336)</li>
+<li>web.whatsapp.com (337)</li>
 <li>chat.openai.com (296)</li>
 <li>drive.google.com (287)</li>
 <li>feedly.com (284)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:07 docs.google.com</li>
+<ul><li> 09:39 web.whatsapp.com</li>
+<li> 09:38 publish.buffer.com</li>
+<li> 09:38 login.buffer.com</li>
+<li> 09:37 buffer.com</li>
+<li> 09:37 bsky.app</li>
+<li> 09:09 docs.google.com</li>
+<li class='same'> 09:08 docs.google.com</li>
+<li class='same'> 09:07 docs.google.com</li>
 <li class='same'> 09:06 docs.google.com</li>
 <li> 09:06 chatgpt.com</li>
 <li> 09:06 chat.openai.com</li>
