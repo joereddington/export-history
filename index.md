@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:28 us-east-1.console.aws.amazon.com</li>
+<ul><li> 10:36 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 10:35 us-east-1.console.aws.amazon.com</li>
+<li> 10:35 us-east-1.signin.aws.amazon.com</li>
+<li> 10:35 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 10:34 us-east-1.console.aws.amazon.com</li>
+<li> 10:34 signin.aws.amazon.com</li>
+<li> 10:34 us-east-1.console.aws.amazon.com</li>
+<li> 10:34 signin.aws.amazon.com</li>
+<li> 10:34 us-east-1.console.aws.amazon.com</li>
+<li> 10:33 docs.aws.amazon.com</li>
+<li> 10:32 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 10:29 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 10:28 us-east-1.console.aws.amazon.com</li>
 <li> 10:27 signin.aws.amazon.com</li>
 <li> 10:27 us-east-1.console.aws.amazon.com</li>
 <li> 10:27 signin.aws.amazon.com</li>
