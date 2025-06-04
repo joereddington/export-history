@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3086)</li>
-<li>mail.google.com (2709)</li>
+<ol><li>www.google.com (3087)</li>
+<li>mail.google.com (2713)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2028)</li>
 <li>www.reddit.com (1709)</li>
 <li>outlook.office365.com (1631)</li>
-<li>bsky.app (1545)</li>
+<li>bsky.app (1546)</li>
 <li>www.facebook.com (1408)</li>
 <li>duckduckgo.com (1086)</li>
 <li>chatgpt.com (769)</li>
@@ -87,14 +87,14 @@ With number of accesses/minutes in parentheses
 <li>github.com (420)</li>
 <li>login.microsoftonline.com (416)</li>
 <li>tvtropes.org (408)</li>
-<li>gmail.com (395)</li>
+<li>gmail.com (396)</li>
 <li>web.whatsapp.com (341)</li>
 <li>chat.openai.com (301)</li>
 <li>drive.google.com (290)</li>
 <li>feedly.com (285)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
-<li>whitewaterwriters.com (225)</li>
+<li>whitewaterwriters.com (229)</li>
 <li>rhul.sharepoint.com (210)</li>
 <li>www.coursera.org (208)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (205)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:59 mail.google.com</li>
+<ul><li> 07:14 bsky.app</li>
+<li> 07:14 visualinquiry.co.uk</li>
+<li> 07:14 visualinquiry.co.uk.</li>
+<li> 07:11 whitewaterwriters.com</li>
+<li class='same'> 07:10 whitewaterwriters.com</li>
+<li class='same'> 07:09 whitewaterwriters.com</li>
+<li class='same'> 07:06 whitewaterwriters.com</li>
+<li> 07:06 www.yokercampus.org</li>
+<li> 07:06 www.google.com</li>
+<li> 07:04 mail.google.com</li>
+<li class='same'> 07:03 mail.google.com</li>
+<li class='same'> 07:02 mail.google.com</li>
+<li> 07:02 app.onlinesurveys.jisc.ac.uk</li>
+<li> 07:01 mail.google.com</li>
+<li> 07:01 gmail.com</li>
+<li> 06:59 mail.google.com</li>
 <li> 06:59 calendar.google.com</li>
 <li> 06:58 mail.google.com</li>
 <li class='same'> 06:56 mail.google.com</li>
