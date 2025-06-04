@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3087)</li>
-<li>mail.google.com (2713)</li>
+<ol><li>www.google.com (3089)</li>
+<li>mail.google.com (2718)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2028)</li>
 <li>www.reddit.com (1709)</li>
@@ -93,8 +93,8 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (290)</li>
 <li>feedly.com (285)</li>
 <li>fritz.box (277)</li>
+<li>whitewaterwriters.com (232)</li>
 <li>qbo.intuit.com (232)</li>
-<li>whitewaterwriters.com (231)</li>
 <li>rhul.sharepoint.com (210)</li>
 <li>www.coursera.org (208)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (205)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:10 visualinquiry.co.uk</li>
+<ul><li> 09:29 mail.google.com</li>
+<li> 09:29 Local file</li>
+<li class='same'> 09:28 Local file</li>
+<li> 09:28 mail.google.com</li>
+<li class='same'> 09:27 mail.google.com</li>
+<li> 09:27 Local file</li>
+<li> 09:26 equalitytime.co.uk</li>
+<li> 09:26 Local file</li>
+<li> 09:25 equalitytime.co.uk</li>
+<li> 09:25 www.google.com</li>
+<li> 09:24 mail-attachment.googleusercontent.com</li>
+<li> 09:24 mail.google.com</li>
+<li class='same'> 09:23 mail.google.com</li>
+<li> 09:19 <a href="https://en.wikipedia.org/wiki/LaTeX">LaTeX - Wikipedia</a></li>
+<li> 09:19 <a href="https://en.wikipedia.org/wiki/Latex">Latex - Wikipedia</a></li>
+<li> 09:19 www.google.com</li>
+<li> 09:10 whitewaterwriters.com</li>
+<li> 09:10 visualinquiry.co.uk</li>
 <li> 09:09 whitewaterwriters.com</li>
 </ul>
 
