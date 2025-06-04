@@ -74,9 +74,9 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2031)</li>
 <li>www.reddit.com (1733)</li>
 <li>outlook.office365.com (1697)</li>
-<li>bsky.app (1549)</li>
+<li>bsky.app (1552)</li>
 <li>www.facebook.com (1409)</li>
-<li>duckduckgo.com (1086)</li>
+<li>duckduckgo.com (1088)</li>
 <li>chatgpt.com (776)</li>
 <li>www.amazon.co.uk (724)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:01 rhul.sharepoint.com</li>
+<ul><li> 20:54 <a href="https://en.wikipedia.org/wiki/Avengers:_Doomsday">Avengers: Doomsday - Wikipedia</a></li>
+<li> 20:52 <a href="https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World#Box_office">Captain America: Brave New World - Wikipedia</a></li>
+<li> 20:52 <a href="https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World">Captain America: Brave New World - Wikipedia</a></li>
+<li> 20:51 duckduckgo.com</li>
+<li> 20:45 www.rottentomatoes.com</li>
+<li class='same'> 20:43 www.rottentomatoes.com</li>
+<li> 20:43 duckduckgo.com</li>
+<li> 20:30 bsky.app</li>
+<li class='same'> 20:27 bsky.app</li>
+<li class='same'> 20:26 bsky.app</li>
+<li> 20:01 rhul.sharepoint.com</li>
 <li> 20:00 outlook.office365.com</li>
 <li> 19:57 www.paypal.com</li>
 <li class='same'> 19:56 www.paypal.com</li>
