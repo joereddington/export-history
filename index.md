@@ -72,10 +72,10 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2758)</li>
 <li>outlook.office.com (2586)</li>
 <li>docs.google.com (2031)</li>
-<li>www.reddit.com (1731)</li>
-<li>outlook.office365.com (1689)</li>
-<li>bsky.app (1548)</li>
-<li>www.facebook.com (1408)</li>
+<li>www.reddit.com (1733)</li>
+<li>outlook.office365.com (1697)</li>
+<li>bsky.app (1549)</li>
+<li>www.facebook.com (1409)</li>
 <li>duckduckgo.com (1086)</li>
 <li>chatgpt.com (776)</li>
 <li>www.amazon.co.uk (724)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (244)</li>
 <li>qbo.intuit.com (232)</li>
-<li>rhul.sharepoint.com (211)</li>
+<li>rhul.sharepoint.com (212)</li>
 <li>www.coursera.org (208)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (205)</li>
 
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:01 outlook.office365.com</li>
+<ul><li> 20:01 rhul.sharepoint.com</li>
+<li> 20:00 outlook.office365.com</li>
+<li> 19:57 www.paypal.com</li>
+<li class='same'> 19:56 www.paypal.com</li>
+<li> 19:56 bsky.app</li>
+<li> 19:56 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:20 www.reddit.com</li>
+<li class='same'> 19:18 www.reddit.com</li>
+<li> 19:18 outlook.office365.com</li>
+<li class='same'> 19:12 outlook.office365.com</li>
+<li class='same'> 19:08 outlook.office365.com</li>
+<li class='same'> 19:06 outlook.office365.com</li>
+<li class='same'> 19:05 outlook.office365.com</li>
+<li class='same'> 19:04 outlook.office365.com</li>
+<li class='same'> 19:02 outlook.office365.com</li>
+<li class='same'> 19:01 outlook.office365.com</li>
 <li class='same'> 19:00 outlook.office365.com</li>
 </ul>
 
