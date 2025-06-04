@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3097)</li>
-<li>mail.google.com (2742)</li>
+<li>mail.google.com (2743)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2028)</li>
 <li>www.reddit.com (1712)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (522)</li>
 <li>www.linkedin.com (492)</li>
 <li>moodle.royalholloway.ac.uk (492)</li>
-<li>rhul-my.sharepoint.com (473)</li>
+<li>rhul-my.sharepoint.com (472)</li>
 <li>github.com (421)</li>
 <li>login.microsoftonline.com (416)</li>
 <li>tvtropes.org (408)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:57 mail.google.com</li>
+<ul><li> 10:58 mail.google.com</li>
+<li class='same'> 10:57 mail.google.com</li>
 <li class='same'> 10:56 mail.google.com</li>
 <li class='same'> 10:53 mail.google.com</li>
 <li class='same'> 10:52 mail.google.com</li>
@@ -16930,8 +16931,7 @@ With number of accesses/minutes in parentheses
 <li> 16:13 github.com</li>
 <li class='same'> 16:12 github.com</li>
 <li> 16:12 duckduckgo.com</li>
-<li> 16:12 www.ebay.co.uk</li>
-<li class='same'> 16:11 www.ebay.co.uk</li>
+<li> 16:11 www.ebay.co.uk</li>
 <li> 16:11 outlook.office.com</li>
 <li> 16:10 outlook.office365.com</li>
 <li> 16:10 outlook.office.com</li>
@@ -17098,7 +17098,6 @@ With number of accesses/minutes in parentheses
 <li> 22:26 www.bricklink.com</li>
 <li class='same'> 22:25 www.bricklink.com</li>
 <li> 22:24 www.ebay.co.uk</li>
-<li class='same'> 22:22 www.ebay.co.uk</li>
 <li class='same'> 22:21 www.ebay.co.uk</li>
 <li> 22:19 www.reddit.com</li>
 <li class='same'> 22:18 www.reddit.com</li>
@@ -17301,10 +17300,8 @@ With number of accesses/minutes in parentheses
 <li> 14:19 chatgpt.com</li>
 <li> 14:17 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
 <li class='same'> 14:16 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
-<li> 14:16 login.openathens.net</li>
 <li> 14:16 login.microsoftonline.com</li>
-<li> 14:16 librarysearch.royalholloway.ac.uk</li>
-<li class='same'> 14:15 librarysearch.royalholloway.ac.uk</li>
+<li> 14:15 librarysearch.royalholloway.ac.uk</li>
 <li> 14:15 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:14 moodle.royalholloway.ac.uk</li>
 <li> 14:13 librarysearch.royalholloway.ac.uk</li>
@@ -17377,7 +17374,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:52 outlook.office.com</li>
 <li> 12:52 chatgpt.com</li>
 <li> 12:52 chat.openai.com</li>
-<li> 12:52 rhul-my.sharepoint.com</li>
 <li> 12:51 gitlab.cim.rhul.ac.uk</li>
 <li> 12:51 outlook.office.com</li>
 <li> 12:50 mail.google.com</li>
