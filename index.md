@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3096)</li>
-<li>mail.google.com (2734)</li>
+<ol><li>www.google.com (3097)</li>
+<li>mail.google.com (2742)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2028)</li>
 <li>www.reddit.com (1712)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:36 us-east-1.console.aws.amazon.com</li>
+<ul><li> 10:57 mail.google.com</li>
+<li class='same'> 10:56 mail.google.com</li>
+<li class='same'> 10:53 mail.google.com</li>
+<li class='same'> 10:52 mail.google.com</li>
+<li> 10:51 kdpreports.amazon.com</li>
+<li> 10:51 kdp.amazon.com</li>
+<li> 10:50 www.amazon.com</li>
+<li> 10:50 kdp.amazon.com</li>
+<li> 10:50 mail.google.com</li>
+<li class='same'> 10:49 mail.google.com</li>
+<li class='same'> 10:48 mail.google.com</li>
+<li> 10:46 d-906637b386.awsapps.com</li>
+<li> 10:46 us-east-1.signin.aws</li>
+<li class='same'> 10:45 us-east-1.signin.aws</li>
+<li> 10:45 d-906637b386.awsapps.com</li>
+<li> 10:45 www.google.com</li>
+<li> 10:45 us-east-1.signin.aws</li>
+<li> 10:37 mail.google.com</li>
+<li> 10:37 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 10:36 us-east-1.console.aws.amazon.com</li>
 <li class='same'> 10:35 us-east-1.console.aws.amazon.com</li>
 <li> 10:35 us-east-1.signin.aws.amazon.com</li>
 <li> 10:35 us-east-1.console.aws.amazon.com</li>
