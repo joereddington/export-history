@@ -73,15 +73,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2586)</li>
 <li>docs.google.com (2031)</li>
 <li>www.reddit.com (1722)</li>
-<li>outlook.office365.com (1663)</li>
+<li>outlook.office365.com (1675)</li>
 <li>bsky.app (1548)</li>
 <li>www.facebook.com (1408)</li>
 <li>duckduckgo.com (1086)</li>
-<li>chatgpt.com (771)</li>
+<li>chatgpt.com (776)</li>
 <li>www.amazon.co.uk (724)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (524)</li>
-<li>moodle.royalholloway.ac.uk (495)</li>
+<li>calendar.google.com (525)</li>
+<li>moodle.royalholloway.ac.uk (497)</li>
 <li>www.linkedin.com (492)</li>
 <li>rhul-my.sharepoint.com (472)</li>
 <li>login.microsoftonline.com (422)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (408)</li>
 <li>gmail.com (398)</li>
 <li>web.whatsapp.com (343)</li>
-<li>chat.openai.com (303)</li>
+<li>chat.openai.com (305)</li>
 <li>drive.google.com (290)</li>
 <li>feedly.com (285)</li>
 <li>fritz.box (277)</li>
@@ -105,6 +105,38 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 04/06/25</H3>
+
+<br>
+
+<ul><li> 16:57 outlook.office365.com</li>
+<li> 16:51 help.qlik.com</li>
+<li> 16:48 dashboards.rhul.ac.uk</li>
+<li class='same'> 16:46 dashboards.rhul.ac.uk</li>
+<li> 16:46 chatgpt.com</li>
+<li class='same'> 16:45 chatgpt.com</li>
+<li> 16:45 chat.openai.com</li>
+<li> 16:45 outlook.office365.com</li>
+<li class='same'> 16:44 outlook.office365.com</li>
+<li class='same'> 16:43 outlook.office365.com</li>
+<li> 16:43 doodle.com</li>
+<li> 16:43 calendar.google.com</li>
+<li> 16:43 outlook.office365.com</li>
+<li class='same'> 16:42 outlook.office365.com</li>
+<li> 16:31 chatgpt.com</li>
+<li> 16:30 doodle.com</li>
+<li> 16:30 outlook.office365.com</li>
+<li class='same'> 16:26 outlook.office365.com</li>
+<li class='same'> 16:23 outlook.office365.com</li>
+<li> 16:23 moodle.royalholloway.ac.uk</li>
+<li> 16:21 chatgpt.com</li>
+<li class='same'> 16:20 chatgpt.com</li>
+<li> 16:20 chat.openai.com</li>
+<li> 16:17 moodle.royalholloway.ac.uk</li>
+<li> 16:17 objective-see.org</li>
+<li> 16:16 outlook.office365.com</li>
+<li class='same'> 16:15 outlook.office365.com</li>
+<li class='same'> 16:14 outlook.office365.com</li>
+</ul>
 
 <br>
 
