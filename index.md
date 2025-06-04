@@ -71,9 +71,9 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3097)</li>
 <li>mail.google.com (2757)</li>
 <li>outlook.office.com (2586)</li>
-<li>docs.google.com (2030)</li>
+<li>docs.google.com (2031)</li>
 <li>www.reddit.com (1722)</li>
-<li>outlook.office365.com (1660)</li>
+<li>outlook.office365.com (1663)</li>
 <li>bsky.app (1548)</li>
 <li>www.facebook.com (1408)</li>
 <li>duckduckgo.com (1086)</li>
@@ -88,14 +88,14 @@ With number of accesses/minutes in parentheses
 <li>github.com (421)</li>
 <li>tvtropes.org (408)</li>
 <li>gmail.com (398)</li>
-<li>web.whatsapp.com (342)</li>
+<li>web.whatsapp.com (343)</li>
 <li>chat.openai.com (303)</li>
 <li>drive.google.com (290)</li>
 <li>feedly.com (285)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (244)</li>
 <li>qbo.intuit.com (232)</li>
-<li>rhul.sharepoint.com (210)</li>
+<li>rhul.sharepoint.com (211)</li>
 <li>www.coursera.org (208)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (205)</li>
 
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:55 outlook.office365.com</li>
+<ul><li> 15:08 web.whatsapp.com</li>
+<li> 15:02 outlook.office365.com</li>
+<li class='same'> 15:01 outlook.office365.com</li>
+<li> 14:59 rhul.sharepoint.com</li>
+<li> 14:59 outlook.office365.com</li>
+<li> 14:58 docs.google.com</li>
+<li> 14:55 outlook.office365.com</li>
 <li class='same'> 14:54 outlook.office365.com</li>
 <li> 14:54 outlook.office.com</li>
 <li class='same'> 14:53 outlook.office.com</li>
