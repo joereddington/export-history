@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3097)</li>
-<li>mail.google.com (2743)</li>
-<li>outlook.office.com (2583)</li>
-<li>docs.google.com (2028)</li>
-<li>www.reddit.com (1712)</li>
-<li>outlook.office365.com (1631)</li>
-<li>bsky.app (1546)</li>
+<li>mail.google.com (2757)</li>
+<li>outlook.office.com (2586)</li>
+<li>docs.google.com (2030)</li>
+<li>www.reddit.com (1722)</li>
+<li>outlook.office365.com (1660)</li>
+<li>bsky.app (1548)</li>
 <li>www.facebook.com (1408)</li>
 <li>duckduckgo.com (1086)</li>
-<li>chatgpt.com (770)</li>
+<li>chatgpt.com (771)</li>
 <li>www.amazon.co.uk (724)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (522)</li>
+<li>calendar.google.com (524)</li>
+<li>moodle.royalholloway.ac.uk (495)</li>
 <li>www.linkedin.com (492)</li>
-<li>moodle.royalholloway.ac.uk (492)</li>
 <li>rhul-my.sharepoint.com (472)</li>
+<li>login.microsoftonline.com (422)</li>
 <li>github.com (421)</li>
-<li>login.microsoftonline.com (416)</li>
 <li>tvtropes.org (408)</li>
-<li>gmail.com (396)</li>
-<li>web.whatsapp.com (341)</li>
-<li>chat.openai.com (302)</li>
+<li>gmail.com (398)</li>
+<li>web.whatsapp.com (342)</li>
+<li>chat.openai.com (303)</li>
 <li>drive.google.com (290)</li>
 <li>feedly.com (285)</li>
 <li>fritz.box (277)</li>
@@ -105,6 +105,103 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 04/06/25</H3>
+
+<br>
+
+<ul><li> 14:55 outlook.office365.com</li>
+<li class='same'> 14:54 outlook.office365.com</li>
+<li> 14:54 outlook.office.com</li>
+<li class='same'> 14:53 outlook.office.com</li>
+<li> 14:53 outlook.office365.com</li>
+<li> 14:52 outlook.office.com</li>
+<li> 14:52 login.microsoftonline.com</li>
+<li> 14:52 m365.cloud.microsoft</li>
+<li> 14:52 login.microsoftonline.com</li>
+<li> 14:51 adfs.herts.ac.uk</li>
+<li> 14:47 api-b6327e78.duosecurity.com</li>
+<li> 14:47 adfs.herts.ac.uk</li>
+<li class='same'> 14:46 adfs.herts.ac.uk</li>
+<li> 14:46 bsky.app</li>
+<li class='same'> 14:45 bsky.app</li>
+<li> 14:32 mail.google.com</li>
+<li class='same'> 14:31 mail.google.com</li>
+<li> 14:31 chatgpt.com</li>
+<li> 14:31 chat.openai.com</li>
+<li> 14:30 mail.google.com</li>
+<li> 14:30 accounts.google.com</li>
+<li class='same'> 14:28 accounts.google.com</li>
+<li> 14:28 mail.google.com</li>
+<li> 14:28 gmail.com</li>
+<li> 14:28 mail.google.com</li>
+<li> 14:28 www.reddit.com</li>
+<li> 14:27 mail.google.com</li>
+<li> 14:27 search.google.com</li>
+<li> 14:27 mail.google.com</li>
+<li> 14:21 herts.metacompliance.com</li>
+<li class='same'> 14:20 herts.metacompliance.com</li>
+<li class='same'> 14:17 herts.metacompliance.com</li>
+<li class='same'> 14:16 herts.metacompliance.com</li>
+<li> 14:16 eu-west.azureauth.duosecurity.com</li>
+<li> 14:15 api-b6327e78.duosecurity.com</li>
+<li> 14:15 login.microsoftonline.com</li>
+<li> 14:15 herts.metacompliance.com</li>
+<li> 14:15 mail.google.com</li>
+<li> 14:14 ce0997li.webitrent.com</li>
+<li class='same'> 14:13 ce0997li.webitrent.com</li>
+<li> 14:13 docs.google.com</li>
+<li class='same'> 14:12 docs.google.com</li>
+<li> 14:12 eu-west.azureauth.duosecurity.com</li>
+<li> 14:12 ce0997li.webitrent.com</li>
+<li> 14:11 api-b6327e78.duosecurity.com</li>
+<li> 14:11 login.microsoftonline.com</li>
+<li> 14:11 www.hr.herts.ac.uk</li>
+<li> 14:10 mail.google.com</li>
+<li class='same'> 14:09 mail.google.com</li>
+<li> 14:09 gmail.com</li>
+<li> 14:04 outlook.office365.com</li>
+<li> 14:04 calendar.google.com</li>
+<li> 14:04 outlook.office365.com</li>
+<li class='same'> 14:03 outlook.office365.com</li>
+<li> 14:02 calendar.google.com</li>
+<li> 14:02 outlook.office365.com</li>
+<li class='same'> 14:01 outlook.office365.com</li>
+<li class='same'> 13:59 outlook.office365.com</li>
+<li class='same'> 13:56 outlook.office365.com</li>
+<li> 13:56 dashboards.rhul.ac.uk</li>
+<li> 13:54 outlook.office365.com</li>
+<li class='same'> 13:52 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:58 outlook.office365.com</li>
+<li> 12:58 cyberpath.co.uk</li>
+<li> 12:57 www.emcrc.co.uk</li>
+<li> 12:57 outlook.office365.com</li>
+<li class='same'> 12:55 outlook.office365.com</li>
+<li class='same'> 12:54 outlook.office365.com</li>
+<li class='same'> 12:53 outlook.office365.com</li>
+<li> 12:52 moodle.royalholloway.ac.uk</li>
+<li> 12:52 outlook.office365.com</li>
+<li class='same'> 12:51 outlook.office365.com</li>
+<li class='same'> 12:50 outlook.office365.com</li>
+<li> 12:49 moodle.royalholloway.ac.uk</li>
+<li> 12:49 login.microsoftonline.com</li>
+<li> 12:49 moodle.royalholloway.ac.uk</li>
+<li> 12:48 outlook.office365.com</li>
+<li class='same'> 12:47 outlook.office365.com</li>
+<li class='same'> 12:37 outlook.office365.com</li>
+<li> 12:36 www.reddit.com</li>
+<li class='same'> 12:35 www.reddit.com</li>
+<li class='same'> 12:32 www.reddit.com</li>
+<li> 12:32 www.gettyimages.co.uk</li>
+<li> 12:31 www.celebheights.com</li>
+<li> 12:30 www.reddit.com</li>
+<li class='same'> 12:29 www.reddit.com</li>
+<li class='same'> 12:28 www.reddit.com</li>
+<li class='same'> 12:27 www.reddit.com</li>
+<li> 12:27 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -196,6 +293,9 @@ With number of accesses/minutes in parentheses
 <li> 09:41 formspree.io</li>
 <li class='same'> 09:40 formspree.io</li>
 <li class='same'> 09:39 formspree.io</li>
+<li> 09:36 web.whatsapp.com</li>
+<li> 09:35 outlook.office365.com</li>
+<li class='same'> 09:34 outlook.office365.com</li>
 <li> 09:34 mail.google.com</li>
 <li class='same'> 09:33 mail.google.com</li>
 <li> 09:30 chatgpt.com</li>
@@ -234,7 +334,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:18 whitewaterwriters.com</li>
+<ul><li> 07:26 outlook.office365.com</li>
+<li> 07:25 www.reddit.com</li>
+<li class='same'> 07:23 www.reddit.com</li>
+<li> 07:23 outlook.office365.com</li>
+<li> 07:23 login.microsoftonline.com</li>
+<li> 07:22 outlook.office365.com</li>
+<li> 07:18 whitewaterwriters.com</li>
 <li> 07:14 bsky.app</li>
 <li> 07:14 visualinquiry.co.uk</li>
 <li> 07:14 visualinquiry.co.uk.</li>
@@ -46216,6 +46322,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:52 outlook.office.com</li>
 <li> 14:49 www.camerajungle.co.uk</li>
 <li class='same'> 14:48 www.camerajungle.co.uk</li>
+<li> 14:45 mail.google.com</li>
 <li> 14:43 docs.google.com</li>
 <li> 14:38 whitewaterwriters.com</li>
 <li> 14:21 online.unity.co.uk</li>
@@ -46285,7 +46392,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:52 docs.google.com</li>
 <li class='same'> 14:51 docs.google.com</li>
-<li class='same'> 14:25 docs.google.com</li>
+<li> 14:29 mail.google.com</li>
+<li> 14:25 docs.google.com</li>
 <li class='same'> 14:23 docs.google.com</li>
 <li class='same'> 14:22 docs.google.com</li>
 <li class='same'> 14:21 docs.google.com</li>
@@ -46435,7 +46543,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:03 www.google.com</li>
+<ul><li> 13:08 mail.google.com</li>
+<li> 13:03 www.google.com</li>
 <li> 13:02 <a href="https://en.wikipedia.org/wiki/Barnfield_College">Barnfield College - Wikipedia</a></li>
 <li> 12:52 online.unity.co.uk</li>
 <li> 12:51 qbo.intuit.com</li>
@@ -46543,6 +46652,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:51 drive.google.com</li>
 <li class='same'> 13:50 drive.google.com</li>
+<li> 13:39 mail.google.com</li>
 <li> 13:26 accounts.google.com</li>
 <li> 13:22 www.paypal.com</li>
 <li class='same'> 13:21 www.paypal.com</li>
