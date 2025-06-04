@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3089)</li>
-<li>mail.google.com (2718)</li>
+<li>mail.google.com (2723)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2028)</li>
 <li>www.reddit.com (1709)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1546)</li>
 <li>www.facebook.com (1408)</li>
 <li>duckduckgo.com (1086)</li>
-<li>chatgpt.com (769)</li>
+<li>chatgpt.com (770)</li>
 <li>www.amazon.co.uk (724)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (522)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (408)</li>
 <li>gmail.com (396)</li>
 <li>web.whatsapp.com (341)</li>
-<li>chat.openai.com (301)</li>
+<li>chat.openai.com (302)</li>
 <li>drive.google.com (290)</li>
 <li>feedly.com (285)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:29 mail.google.com</li>
+<ul><li> 09:44 mail.google.com</li>
+<li class='same'> 09:43 mail.google.com</li>
+<li class='same'> 09:42 mail.google.com</li>
+<li> 09:41 formspree.io</li>
+<li class='same'> 09:40 formspree.io</li>
+<li class='same'> 09:39 formspree.io</li>
+<li> 09:34 mail.google.com</li>
+<li class='same'> 09:33 mail.google.com</li>
+<li> 09:30 chatgpt.com</li>
+<li> 09:30 chat.openai.com</li>
+<li> 09:29 mail.google.com</li>
 <li> 09:29 Local file</li>
 <li class='same'> 09:28 Local file</li>
 <li> 09:28 mail.google.com</li>
