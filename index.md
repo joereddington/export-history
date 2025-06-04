@@ -68,47 +68,154 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3078)</li>
-<li>mail.google.com (2684)</li>
+<ol><li>www.google.com (3086)</li>
+<li>mail.google.com (2709)</li>
 <li>outlook.office.com (2583)</li>
-<li>docs.google.com (2024)</li>
-<li>www.reddit.com (1689)</li>
-<li>outlook.office365.com (1630)</li>
+<li>docs.google.com (2028)</li>
+<li>www.reddit.com (1709)</li>
+<li>outlook.office365.com (1631)</li>
 <li>bsky.app (1545)</li>
 <li>www.facebook.com (1408)</li>
 <li>duckduckgo.com (1086)</li>
-<li>chatgpt.com (767)</li>
+<li>chatgpt.com (769)</li>
 <li>www.amazon.co.uk (724)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (511)</li>
+<li>calendar.google.com (522)</li>
 <li>www.linkedin.com (492)</li>
 <li>moodle.royalholloway.ac.uk (492)</li>
 <li>rhul-my.sharepoint.com (473)</li>
-<li>github.com (416)</li>
+<li>github.com (420)</li>
 <li>login.microsoftonline.com (416)</li>
 <li>tvtropes.org (408)</li>
-<li>gmail.com (394)</li>
+<li>gmail.com (395)</li>
 <li>web.whatsapp.com (341)</li>
-<li>chat.openai.com (300)</li>
-<li>drive.google.com (288)</li>
+<li>chat.openai.com (301)</li>
+<li>drive.google.com (290)</li>
 <li>feedly.com (285)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
 <li>whitewaterwriters.com (225)</li>
 <li>rhul.sharepoint.com (210)</li>
 <li>www.coursera.org (208)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (204)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (205)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Wednesday, 04/06/25</H3>
+
+<br>
+
+<ul><li> 06:59 mail.google.com</li>
+<li> 06:59 calendar.google.com</li>
+<li> 06:58 mail.google.com</li>
+<li class='same'> 06:56 mail.google.com</li>
+<li class='same'> 06:55 mail.google.com</li>
+<li class='same'> 06:54 mail.google.com</li>
+<li class='same'> 06:53 mail.google.com</li>
+<li class='same'> 06:52 mail.google.com</li>
+<li> 06:52 www.psni.police.uk</li>
+<li> 06:52 www.gov.uk</li>
+<li class='same'> 06:51 www.gov.uk</li>
+<li class='same'> 06:49 www.gov.uk</li>
+<li> 06:49 www.google.com</li>
+<li> 06:49 <a href="https://en.wikipedia.org/wiki/Reported_Road_Casualties_Great_Britain">Reported Road Casualties Great Britain - Wikipedia</a></li>
+<li> 06:49 mail.google.com</li>
+<li class='same'> 06:48 mail.google.com</li>
+<li class='same'> 06:41 mail.google.com</li>
+<li class='same'> 06:40 mail.google.com</li>
+<li class='same'> 06:39 mail.google.com</li>
+<li> 06:39 calendar.google.com</li>
+<li> 06:39 www.google.com</li>
+<li> 06:39 calendar.google.com</li>
+<li> 06:38 mail.google.com</li>
+<li> 06:38 calendar.google.com</li>
+<li> 06:38 www.google.com</li>
+<li> 06:38 calendar.google.com</li>
+<li> 06:38 mail.google.com</li>
+<li> 06:37 www.reddit.com</li>
+<li class='same'> 06:36 www.reddit.com</li>
+<li class='same'> 06:35 www.reddit.com</li>
+<li> 06:35 mail.google.com</li>
+<li> 06:34 www.reddit.com</li>
+<li class='same'> 06:33 www.reddit.com</li>
+<li> 06:31 docs.google.com</li>
+<li> 06:31 drive.google.com</li>
+<li> 06:30 www.reddit.com</li>
+<li> 06:29 chatgpt.com</li>
+<li class='same'> 06:28 chatgpt.com</li>
+<li> 06:28 chat.openai.com</li>
+<li> 06:28 www.reddit.com</li>
+<li> 06:27 drive.google.com</li>
+<li> 06:27 www.reddit.com</li>
+<li class='same'> 06:26 www.reddit.com</li>
+<li> 06:26 reddit.com</li>
+<li> 06:26 www.reddit.com</li>
+<li class='same'> 06:25 www.reddit.com</li>
+<li class='same'> 06:24 www.reddit.com</li>
+<li class='same'> 06:22 www.reddit.com</li>
+<li class='same'> 06:21 www.reddit.com</li>
+<li> 06:20 mail.google.com</li>
+<li> 06:19 calendar.google.com</li>
+<li class='same'> 06:18 calendar.google.com</li>
+<li> 06:18 mail.google.com</li>
+<li> 06:18 calendar.google.com</li>
+<li> 06:18 www.google.com</li>
+<li> 06:18 calendar.google.com</li>
+<li> 06:18 mail.google.com</li>
+<li> 06:17 docs.google.com</li>
+<li class='same'> 06:16 docs.google.com</li>
+<li> 06:16 mail.google.com</li>
+<li> 06:16 www.google.com</li>
+<li> 06:16 github.com</li>
+<li> 06:15 www.google.com</li>
+<li> 06:15 designs.theopenvoicefactory.org</li>
+<li> 06:15 mail.google.com</li>
+<li> 06:13 github.com</li>
+<li class='same'> 06:11 github.com</li>
+<li> 06:08 www.google.com</li>
+<li> 06:08 github.com</li>
+<li> 06:08 mail.google.com</li>
+<li class='same'> 06:07 mail.google.com</li>
+<li> 06:07 www.jobs.ac.uk</li>
+<li> 06:07 www.google.com</li>
+<li> 06:06 mail.google.com</li>
+<li> 06:05 calendar.google.com</li>
+<li> 06:05 mail.google.com</li>
+<li> 06:05 gmail.com</li>
+<li> 06:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:04 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Tuesday, 03/06/25</H3>
 
 <br>
 
-<ul><li> 19:04 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 19:15 docs.google.com</li>
+<li> 19:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:14 <a href="https://www.theguardian.com/">Nato to force UK to lift defence spending to 3.5% of GDP to appease Trump, say sources | Defence policy | The Guardian</a></li>
+<li> 19:14 www.foxnews.com</li>
+<li class='same'> 19:13 www.foxnews.com</li>
+<li> 19:13 www.giantitp.com</li>
+<li> 19:13 outlook.office365.com</li>
+<li> 19:12 www.reddit.com</li>
+<li class='same'> 19:11 www.reddit.com</li>
+<li class='same'> 19:10 www.reddit.com</li>
+<li class='same'> 19:09 www.reddit.com</li>
+<li class='same'> 19:08 www.reddit.com</li>
+<li class='same'> 19:07 www.reddit.com</li>
+<li class='same'> 19:04 www.reddit.com</li>
 <li class='same'> 19:03 www.reddit.com</li>
 <li class='same'> 18:59 www.reddit.com</li>
 <li> 18:59 web.whatsapp.com</li>
