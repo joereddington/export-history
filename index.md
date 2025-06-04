@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (285)</li>
 <li>fritz.box (277)</li>
 <li>qbo.intuit.com (232)</li>
-<li>whitewaterwriters.com (230)</li>
+<li>whitewaterwriters.com (231)</li>
 <li>rhul.sharepoint.com (210)</li>
 <li>www.coursera.org (208)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (205)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:18 whitewaterwriters.com</li>
+<ul><li> 09:10 visualinquiry.co.uk</li>
+<li> 09:09 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:18 whitewaterwriters.com</li>
 <li> 07:14 bsky.app</li>
 <li> 07:14 visualinquiry.co.uk</li>
 <li> 07:14 visualinquiry.co.uk.</li>
