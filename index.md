@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3090)</li>
-<li>mail.google.com (2726)</li>
+<li>mail.google.com (2727)</li>
 <li>outlook.office.com (2583)</li>
 <li>docs.google.com (2028)</li>
-<li>www.reddit.com (1709)</li>
+<li>www.reddit.com (1711)</li>
 <li>outlook.office365.com (1631)</li>
 <li>bsky.app (1546)</li>
 <li>www.facebook.com (1408)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (492)</li>
 <li>moodle.royalholloway.ac.uk (492)</li>
 <li>rhul-my.sharepoint.com (473)</li>
-<li>github.com (420)</li>
+<li>github.com (421)</li>
 <li>login.microsoftonline.com (416)</li>
 <li>tvtropes.org (408)</li>
 <li>gmail.com (396)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (290)</li>
 <li>feedly.com (285)</li>
 <li>fritz.box (277)</li>
-<li>whitewaterwriters.com (232)</li>
+<li>whitewaterwriters.com (244)</li>
 <li>qbo.intuit.com (232)</li>
 <li>rhul.sharepoint.com (210)</li>
 <li>www.coursera.org (208)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:00 mail.google.com</li>
+<ul><li> 10:14 my-charity-account.charitycommission.gov.uk</li>
+<li class='same'> 10:13 my-charity-account.charitycommission.gov.uk</li>
+<li class='same'> 10:12 my-charity-account.charitycommission.gov.uk</li>
+<li> 10:11 mail.google.com</li>
+<li> 10:02 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/use-word-gotten-some-readers-upset">How the use of a word in the Guardian has gotten some readers upset | Elisabeth Ribbans | The Guardian</a></li>
+<li> 10:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:02 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/04/stick-review-owen-wilson-golf-apple-tv">Stick review – Owen Wilson is utterly charming in the Ted Lasso of golf | Television | The Guardian</a></li>
+<li> 10:02 <a href="https://www.theguardian.com/">Nato to force UK to lift defence spending to 3.5% of GDP to appease Trump, say sources | Defence policy | The Guardian</a></li>
+<li> 10:00 mail.google.com</li>
 <li> 09:59 my-charity-account.charitycommission.gov.uk</li>
 <li class='same'> 09:56 my-charity-account.charitycommission.gov.uk</li>
 <li> 09:56 mail.google.com</li>
@@ -145,11 +153,22 @@ With number of accesses/minutes in parentheses
 <li> 09:10 whitewaterwriters.com</li>
 <li> 09:10 visualinquiry.co.uk</li>
 <li> 09:09 whitewaterwriters.com</li>
+<li> 08:58 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/04/stick-review-owen-wilson-golf-apple-tv">Stick review – Owen Wilson is utterly charming in the Ted Lasso of golf | Television | The Guardian</a></li>
+<li> 08:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/us-news/2025/jun/03/lindsey-graham-trump-russia-ukraine">Are Lindsey Graham’s contortions about to prod Trump into Russia sanctions? | US news | The Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/">Nato to force UK to lift defence spending to 3.5% of GDP to appease Trump, say sources | Defence policy | The Guardian</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 07:18 whitewaterwriters.com</li>
+<ul><li> 07:58 <a href="https://www.theguardian.com/uk-news/2025/jun/04/julie-etchingham-ends-garrick-club-application-after-drawn-out-process">Julie Etchingham ends Garrick Club application after drawn-out process | Garrick Club | The Guardian</a></li>
+<li> 07:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 07:18 whitewaterwriters.com</li>
 <li> 07:14 bsky.app</li>
 <li> 07:14 visualinquiry.co.uk</li>
 <li> 07:14 visualinquiry.co.uk.</li>
@@ -259,6 +278,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:34 www.camerajungle.co.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 19:15 docs.google.com</li>
 <li> 19:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 19:14 <a href="https://www.theguardian.com/">Nato to force UK to lift defence spending to 3.5% of GDP to appease Trump, say sources | Defence policy | The Guardian</a></li>
@@ -307,7 +331,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 17:16 www.camerajungle.co.uk</li>
+<li> 17:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:16 <a href="https://www.theguardian.com/">Nato to force UK to lift defence spending to 3.5% of GDP to appease Trump, say sources | Defence policy | The Guardian</a></li>
+<li> 17:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 17:09 www.linkedin.com</li>
 <li> 17:08 chatgpt.com</li>
 <li> 17:07 www.linkedin.com</li>
@@ -45445,6 +45472,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:11 whitewaterwriters.com</li>
+<li class='same'> 17:10 whitewaterwriters.com</li>
 <li class='same'> 17:09 whitewaterwriters.com</li>
 <li class='same'> 16:54 whitewaterwriters.com</li>
 <li class='same'> 16:45 whitewaterwriters.com</li>
@@ -45490,6 +45518,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:51 whitewaterwriters.com</li>
 <li class='same'> 12:45 whitewaterwriters.com</li>
 <li class='same'> 12:34 whitewaterwriters.com</li>
+<li class='same'> 12:18 whitewaterwriters.com</li>
 <li> 12:12 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 12:11 eu-west-2.console.aws.amazon.com</li>
 <li> 12:10 whitewaterwriters.com</li>
@@ -50755,7 +50784,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:06 whitewaterwriters.com</li>
+<ul><li> 09:07 whitewaterwriters.com</li>
+<li class='same'> 09:06 whitewaterwriters.com</li>
 <li> 08:40 www.dropbox.com</li>
 </ul>
 
@@ -53707,7 +53737,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:45 jobs.royalholloway.ac.uk</li>
 <li> 07:39 equalitytime.co.uk</li>
-<li> 07:27 whitewaterwriters.com</li>
+<li> 07:28 whitewaterwriters.com</li>
+<li class='same'> 07:27 whitewaterwriters.com</li>
 </ul>
 
 <H3>Tuesday, 24/10/23</H3>
@@ -54437,11 +54468,9 @@ With number of accesses/minutes in parentheses
 <li> 11:00 www.google.com</li>
 <li> 10:57 whitewaterwriters.com</li>
 <li> 10:53 github.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:16 whitewaterwriters.com</li>
+<li> 10:32 whitewaterwriters.com</li>
+<li class='same'> 10:31 whitewaterwriters.com</li>
+<li class='same'> 10:16 whitewaterwriters.com</li>
 </ul>
 
 <H3>Monday, 25/09/23</H3>
@@ -55303,6 +55332,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 13:16 <a href="https://en.wikipedia.org/wiki/LaTeX">LaTeX - Wikipedia</a></li>
+<li> 13:16 <a href="https://en.wikipedia.org/wiki/Latex">Latex - Wikipedia</a></li>
+</ul>
+
+<br>
+
 <ul><li> 12:29 www.vimgolf.com</li>
 <li class='same'> 12:28 www.vimgolf.com</li>
 </ul>
@@ -55935,7 +55970,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 09:42 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
 <ul><li> 06:30 bsky.app</li>
+<li> 06:02 whitewaterwriters.com</li>
+<li class='same'> 06:01 whitewaterwriters.com</li>
 </ul>
 
 <H3>Monday, 10/07/23</H3>
@@ -55946,7 +55988,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:03 whitewaterwriters.com</li>
+<ul><li class='same'> 21:03 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -56719,6 +56761,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:36 www.projectreal.co.uk</li>
+<li> 11:08 <a href="https://en.wikipedia.org/wiki/Reported_Road_Casualties_Great_Britain">Reported Road Casualties Great Britain - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -56764,7 +56807,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:48 whitewaterwriters.com</li>
+<ul><li> 17:51 whitewaterwriters.com</li>
+<li class='same'> 17:48 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -56909,6 +56953,18 @@ With number of accesses/minutes in parentheses
 <li> 06:34 www.natwest.com</li>
 </ul>
 
+<H3>Sunday, 28/05/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 08:37 www.reddit.com</li>
+<li class='same'> 08:17 www.reddit.com</li>
+</ul>
+
 <H3>Saturday, 27/05/23</H3>
 
 <br>
@@ -56943,6 +56999,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:07 kdp.amazon.com</li>
 <li> 11:43 docs.google.com</li>
+<li> 11:28 github.com</li>
 </ul>
 
 <br>
@@ -57107,6 +57164,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:22 whitewaterwriters.com</li>
+<li class='same'> 16:05 whitewaterwriters.com</li>
 </ul>
 
 <H3>Thursday, 18/05/23</H3>
@@ -57199,6 +57257,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 17:29 whitewaterwriters.com</li>
 <li class='same'> 17:27 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:02 whitewaterwriters.com</li>
 </ul>
 
 <br>
