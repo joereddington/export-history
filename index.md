@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3097)</li>
-<li>mail.google.com (2758)</li>
+<li>mail.google.com (2760)</li>
 <li>outlook.office.com (2586)</li>
-<li>docs.google.com (2031)</li>
-<li>www.reddit.com (1733)</li>
-<li>outlook.office365.com (1697)</li>
-<li>bsky.app (1552)</li>
+<li>docs.google.com (2032)</li>
+<li>www.reddit.com (1740)</li>
+<li>outlook.office365.com (1698)</li>
+<li>bsky.app (1554)</li>
 <li>www.facebook.com (1409)</li>
 <li>duckduckgo.com (1088)</li>
 <li>chatgpt.com (776)</li>
@@ -87,11 +87,11 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (422)</li>
 <li>github.com (421)</li>
 <li>tvtropes.org (408)</li>
-<li>gmail.com (399)</li>
+<li>gmail.com (400)</li>
 <li>web.whatsapp.com (344)</li>
 <li>chat.openai.com (305)</li>
 <li>drive.google.com (290)</li>
-<li>feedly.com (285)</li>
+<li>feedly.com (286)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (244)</li>
 <li>qbo.intuit.com (232)</li>
@@ -104,11 +104,52 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 05/06/25</H3>
+
+<br>
+
+<ul><li> 06:55 www.reddit.com</li>
+<li class='same'> 06:53 www.reddit.com</li>
+<li class='same'> 06:52 www.reddit.com</li>
+<li class='same'> 06:51 www.reddit.com</li>
+<li class='same'> 06:50 www.reddit.com</li>
+<li class='same'> 06:49 www.reddit.com</li>
+<li class='same'> 06:32 www.reddit.com</li>
+<li> 06:31 <a href="https://xkcd.com/3089/">xkcd: Modern</a></li>
+<li> 06:31 <a href="https://xkcd.com/3090/">xkcd: Sail Physics</a></li>
+<li> 06:31 <a href="https://xkcd.com/3091/">xkcd: Renormalization</a></li>
+<li> 06:31 <a href="https://xkcd.com/3092/">xkcd: Baker's Units</a></li>
+<li> 06:31 <a href="https://xkcd.com/3093/">xkcd: Drafting</a></li>
+<li> 06:31 <a href="https://xkcd.com/3094/">xkcd: Mass Spec</a></li>
+<li> 06:31 <a href="https://xkcd.com/3095/">xkcd: Archaea</a></li>
+<li> 06:31 <a href="https://xkcd.com/3096/">xkcd: Check Engine</a></li>
+<li> 06:31 <a href="https://xkcd.com/3097/">xkcd: Bridge Types</a></li>
+<li> 06:30 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 06:30 www.giantitp.com</li>
+<li> 06:20 feedly.com</li>
+<li> 06:19 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/ive-learned-a-new-word-and-now-im-seeing-the-people-it-describes-everywhere">I’ve learned a new word – and now I’m seeing the people it describes everywhere | Adrian Chiles | The Guardian</a></li>
+<li> 06:18 <a href="https://www.theguardian.com/film/2025/jun/05/predator-killer-of-killers-review-animated-anthology-of-arnies-old-antagonists">Predator: Killer of Killers review – animated anthology of Arnie’s old antagonists | Film | The Guardian</a></li>
+<li> 06:17 <a href="https://www.theguardian.com/australia-news/2025/jun/05/erin-patterson-mushroom-lunch-trial-cross-examination-death-cap-ntwnfb">Erin Patterson denies deliberately foraging death cap mushrooms and weighing fatal dose as cross-examination begins | Victoria | The Guardian</a></li>
+<li> 06:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:17 <a href="https://www.theguardian.com/">Nato to force UK to lift defence spending to 3.5% of GDP to appease Trump, say sources | Defence policy | The Guardian</a></li>
+<li> 06:16 mail.google.com</li>
+</ul>
+
 <H3>Wednesday, 04/06/25</H3>
 
 <br>
 
-<ul><li> 20:54 <a href="https://en.wikipedia.org/wiki/Avengers:_Doomsday">Avengers: Doomsday - Wikipedia</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:33 mail.google.com</li>
+<li> 21:33 gmail.com</li>
+<li> 21:32 bsky.app</li>
+<li class='same'> 21:30 bsky.app</li>
+<li> 21:28 outlook.office365.com</li>
+<li> 21:16 docs.google.com</li>
+<li> 20:54 <a href="https://en.wikipedia.org/wiki/Avengers:_Doomsday">Avengers: Doomsday - Wikipedia</a></li>
 <li> 20:52 <a href="https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World#Box_office">Captain America: Brave New World - Wikipedia</a></li>
 <li> 20:52 <a href="https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World">Captain America: Brave New World - Wikipedia</a></li>
 <li> 20:51 duckduckgo.com</li>
@@ -6400,7 +6441,7 @@ With number of accesses/minutes in parentheses
 <li> 16:19 <a href="https://xkcd.com/3081/">xkcd: PhD Timeline</a></li>
 <li> 16:19 <a href="https://xkcd.com/3082/">xkcd: Chess Position</a></li>
 <li> 16:19 <a href="https://xkcd.com/3083/">xkcd: Jupiter Core</a></li>
-<li> 16:19 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 16:19 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 16:17 <a href="https://www.theguardian.com/film/2025/may/05/fears-trump-foreign-film-tariffs-wipe-out-uk-movie-industry">Fears Trump’s foreign film tariffs could ‘wipe out’ UK movie industry | Film industry | The Guardian</a></li>
 <li> 16:16 liloandstitch.fandom.com</li>
 <li class='same'> 16:14 liloandstitch.fandom.com</li>
@@ -10839,7 +10880,7 @@ With number of accesses/minutes in parentheses
 <li> 07:27 <a href="https://xkcd.com/518/">xkcd: Flow Charts</a></li>
 <li> 07:26 <a href="https://xkcd.com/3072/">xkcd: Stargazing 4</a></li>
 <li> 07:26 <a href="https://xkcd.com/3071/">xkcd: Decay Chain</a></li>
-<li> 07:26 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 07:26 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 07:23 www.theguardian.com</li>
 <li class='same'> 07:22 www.theguardian.com</li>
 <li class='same'> 07:20 www.theguardian.com</li>
@@ -16884,7 +16925,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:03 outlook.office.com</li>
 <li class='same'> 15:02 outlook.office.com</li>
 <li> 14:53 <a href="https://xkcd.com/simplewriter/"></a></li>
-<li> 14:53 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 14:53 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 14:42 <a href="https://en.wikipedia.org/wiki/Ashley_Madison_data_breach">Ashley Madison data breach - Wikipedia</a></li>
 <li> 14:42 duckduckgo.com</li>
 <li> 14:18 outlook.office.com</li>
@@ -24151,7 +24192,7 @@ With number of accesses/minutes in parentheses
 <li> 14:41 <a href="https://xkcd.com/3041/">xkcd: Unit Circle</a></li>
 <li> 14:41 <a href="https://xkcd.com/3042/">xkcd: T. Rex Evolution</a></li>
 <li> 14:41 <a href="https://xkcd.com/3043/">xkcd: Muons</a></li>
-<li> 14:41 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 14:41 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 14:40 www.reddit.com</li>
 <li class='same'> 14:39 www.reddit.com</li>
 <li> 14:39 mail.google.com</li>
@@ -31016,7 +31057,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:55 www.reddit.com</li>
 <li> 19:51 bsky.app</li>
-<li> 19:50 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 19:50 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 19:49 docs.google.com</li>
 <li> 19:47 bsky.app</li>
 <li class='same'> 19:46 bsky.app</li>
@@ -31841,7 +31882,7 @@ With number of accesses/minutes in parentheses
 <li> 06:41 www.facebook.com</li>
 <li> 06:37 bsky.app</li>
 <li class='same'> 06:35 bsky.app</li>
-<li> 06:33 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 06:33 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 06:33 www.giantitp.com</li>
 <li> 06:33 www.linkedin.com</li>
 <li class='same'> 06:32 www.linkedin.com</li>
@@ -31971,7 +32012,7 @@ With number of accesses/minutes in parentheses
 <li> 15:03 <a href="https://xkcd.com/3027/">xkcd: Exclusion Principle</a></li>
 <li> 15:03 <a href="https://xkcd.com/3028/">xkcd: D Roll</a></li>
 <li> 15:02 <a href="https://xkcd.com/3029/">xkcd: Sun Avoidance</a></li>
-<li> 15:02 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 15:02 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 15:02 www.giantitp.com</li>
 <li> 15:01 www.ebay.co.uk</li>
 <li> 15:00 blueskydirectory.com</li>
@@ -32968,7 +33009,7 @@ With number of accesses/minutes in parentheses
 <li> 14:17 <a href="https://xkcd.com/3023/">xkcd: The Maritime Approximation</a></li>
 <li> 14:17 <a href="https://xkcd.com/3024/">xkcd: METAR</a></li>
 <li> 14:16 <a href="https://xkcd.com/3025/">xkcd: Phase Change</a></li>
-<li> 14:16 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 14:16 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 14:14 www.giantitp.com</li>
 <li> 14:14 outlook.office365.com</li>
 <li> 14:14 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
@@ -33566,7 +33607,7 @@ With number of accesses/minutes in parentheses
 <li> 13:40 <a href="https://xkcd.com/3021/">xkcd: Seismologists</a></li>
 <li> 13:39 <a href="https://xkcd.com/3022/">xkcd: Making Tea</a></li>
 <li> 13:39 <a href="https://xkcd.com/3023/">xkcd: The Maritime Approximation</a></li>
-<li> 13:39 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 13:39 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 13:39 www.giantitp.com</li>
 <li> 13:37 bsky.app</li>
 <li class='same'> 13:36 bsky.app</li>
@@ -34934,7 +34975,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:02 www.explainxkcd.com</li>
 <li> 09:01 <a href="https://xkcd.com/3019/">xkcd: Advent Calendar Advent Calendar</a></li>
 <li> 09:01 <a href="https://xkcd.com/3020/">xkcd: Infinite Armada Chess</a></li>
-<li> 09:01 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 09:01 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 09:01 www.giantitp.com</li>
 <li> 09:01 www.linkedin.com</li>
 <li class='same'> 09:00 www.linkedin.com</li>
@@ -44183,7 +44224,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 11:52 chatgpt.com</li>
 <li> 11:42 docs.google.com</li>
-<li> 11:18 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 11:18 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 11:18 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 11:01 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
 <li> 10:41 whitewaterwriters.com</li>
@@ -44534,7 +44575,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:54 www.overleaf.com</li>
 <li> 20:52 www.tightrope.co.uk</li>
-<li> 20:34 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 20:34 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 </ul>
 
 <br>
@@ -44609,7 +44650,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:09 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<ul><li> 21:09 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 </ul>
 
 <br>
@@ -44882,7 +44923,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:18 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<ul><li> 17:18 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 </ul>
 
 <br>
@@ -45180,7 +45221,7 @@ With number of accesses/minutes in parentheses
 <li> 08:12 mail.google.com</li>
 <li> 08:08 docs.google.com</li>
 <li> 08:07 www.google.com</li>
-<li> 07:57 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 07:57 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 </ul>
 
 <H3>Saturday, 17/08/24</H3>
@@ -45205,7 +45246,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:26 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<ul><li> 16:26 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 </ul>
 
 <H3>Thursday, 15/08/24</H3>
@@ -45234,7 +45275,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:19 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<ul><li> 16:19 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 </ul>
 
 <br>
@@ -45372,7 +45413,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:44 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<ul><li> 06:44 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 06:42 kdpreports.amazon.com</li>
 <li> 06:32 www.buzzfeed.com</li>
 </ul>
@@ -45501,7 +45542,7 @@ With number of accesses/minutes in parentheses
 <li> 07:06 www.facebook.com</li>
 <li> 07:03 www.amazon.co.uk</li>
 <li> 07:02 mail.google.com</li>
-<li> 06:46 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 06:46 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 06:37 mail.google.com</li>
 </ul>
 
@@ -45641,7 +45682,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:43 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<ul><li> 09:43 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 09:41 www.reddit.com</li>
 <li> 09:35 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 </ul>
@@ -46088,7 +46129,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:46 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<ul><li> 12:46 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 12:45 www.google.com</li>
 <li> 12:29 www.amazon.co.uk</li>
 <li> 12:28 kdpreports.amazon.com</li>
@@ -47158,7 +47199,7 @@ With number of accesses/minutes in parentheses
 <li> 11:16 outlook.office365.com</li>
 <li class='same'> 11:14 outlook.office365.com</li>
 <li class='same'> 11:10 outlook.office365.com</li>
-<li> 11:08 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 11:08 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 11:04 www.paypal.com</li>
 <li class='same'> 10:59 www.paypal.com</li>
 </ul>
@@ -47375,7 +47416,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:59 equalitytime.github.io</li>
-<li> 14:49 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 14:49 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 <li> 14:48 theopenvoicefactory.org</li>
 <li class='same'> 14:45 theopenvoicefactory.org</li>
 <li class='same'> 14:41 theopenvoicefactory.org</li>
@@ -47839,7 +47880,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:20 www.google.com</li>
-<li> 18:19 <a href="https://xkcd.com/">xkcd: Unstoppable Force and Immovable Object</a></li>
+<li> 18:19 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
 </ul>
 
 <br>
