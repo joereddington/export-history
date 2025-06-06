@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3099)</li>
+<ol><li>www.google.com (3096)</li>
 <li>mail.google.com (2779)</li>
 <li>outlook.office.com (2590)</li>
 <li>docs.google.com (2036)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (244)</li>
 <li>qbo.intuit.com (232)</li>
-<li>rhul.sharepoint.com (229)</li>
+<li>rhul.sharepoint.com (228)</li>
 <li>www.coursera.org (208)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (205)</li>
 
@@ -17032,8 +17032,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:55 chatgpt.com</li>
 <li> 11:55 chat.openai.com</li>
 <li> 11:40 forums.factorio.com</li>
-<li> 11:40 www.google.com</li>
-<li class='same'> 11:39 www.google.com</li>
+<li> 11:39 www.google.com</li>
 <li> 11:15 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
 <li> 11:13 www.livestrong.com</li>
 <li> 11:09 www.google.com</li>
@@ -17041,12 +17040,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:08 www.activeluton.co.uk</li>
 <li> 11:08 www.google.com</li>
 <li> 11:05 www.livestrong.com</li>
-<li> 11:05 www.google.com</li>
 <li> 11:01 www.theguardian.com</li>
 <li> 11:00 www.google.com</li>
 <li> 10:59 mail.google.com</li>
-<li> 10:59 factorio.com</li>
-<li> 10:59 dl.factorio.com</li>
 <li> 10:59 factorio.com</li>
 <li class='same'> 10:58 factorio.com</li>
 <li> 10:58 mail.google.com</li>
@@ -17062,11 +17058,9 @@ With number of accesses/minutes in parentheses
 <li> 10:55 www.factorio.com</li>
 <li> 10:55 www.google.com</li>
 <li> 10:54 www.factorio.com</li>
-<li> 10:54 dl.factorio.com</li>
-<li> 10:53 www.factorio.com</li>
+<li class='same'> 10:53 www.factorio.com</li>
 <li> 10:53 factorio.com</li>
 <li> 10:52 www.humblebundle.com</li>
-<li> 10:52 www.google.com</li>
 <li> 10:52 mail.google.com</li>
 <li> 10:52 www.factorio.com</li>
 <li> 10:52 www.google.com</li>
@@ -17074,7 +17068,6 @@ With number of accesses/minutes in parentheses
 <li> 10:51 mail.google.com</li>
 <li> 10:51 www.paypal.com</li>
 <li> 10:51 mail.google.com</li>
-<li> 10:51 www.paypal.com</li>
 <li> 10:50 calendar.google.com</li>
 <li> 10:50 outlook.office.com</li>
 <li> 10:50 outlook.office365.com</li>
@@ -17103,8 +17096,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:03 mail.google.com</li>
 <li class='same'> 10:02 mail.google.com</li>
 <li class='same'> 10:00 mail.google.com</li>
-<li> 09:58 gla-my.sharepoint.com</li>
-<li class='same'> 09:57 gla-my.sharepoint.com</li>
+<li> 09:57 gla-my.sharepoint.com</li>
 <li> 09:57 mail.google.com</li>
 <li> 09:57 gla-my.sharepoint.com</li>
 <li> 09:57 mail.google.com</li>
@@ -17143,7 +17135,6 @@ With number of accesses/minutes in parentheses
 <li> 09:01 www.amazon.co.uk</li>
 <li> 08:59 rhul.sharepoint.com</li>
 <li class='same'> 08:57 rhul.sharepoint.com</li>
-<li class='same'> 08:56 rhul.sharepoint.com</li>
 <li> 08:56 outlook.office.com</li>
 <li> 08:56 feedly.com</li>
 </ul>
