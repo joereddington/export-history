@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3096)</li>
-<li>mail.google.com (2779)</li>
-<li>outlook.office.com (2590)</li>
-<li>docs.google.com (2036)</li>
-<li>outlook.office365.com (1783)</li>
+<li>mail.google.com (2791)</li>
+<li>outlook.office.com (2600)</li>
+<li>docs.google.com (2037)</li>
+<li>outlook.office365.com (1790)</li>
 <li>www.reddit.com (1746)</li>
-<li>bsky.app (1564)</li>
+<li>bsky.app (1565)</li>
 <li>www.facebook.com (1411)</li>
-<li>duckduckgo.com (1096)</li>
+<li>duckduckgo.com (1097)</li>
 <li>chatgpt.com (786)</li>
 <li>www.amazon.co.uk (724)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (527)</li>
+<li>calendar.google.com (531)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
 <li>www.linkedin.com (492)</li>
 <li>rhul-my.sharepoint.com (477)</li>
-<li>login.microsoftonline.com (434)</li>
+<li>login.microsoftonline.com (435)</li>
 <li>github.com (425)</li>
 <li>tvtropes.org (408)</li>
-<li>gmail.com (402)</li>
-<li>web.whatsapp.com (348)</li>
+<li>gmail.com (404)</li>
+<li>web.whatsapp.com (349)</li>
 <li>chat.openai.com (310)</li>
 <li>drive.google.com (290)</li>
 <li>feedly.com (287)</li>
@@ -105,6 +105,62 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 06/06/25</H3>
+
+<br>
+
+<ul><li> 14:14 calendar.google.com</li>
+<li class='same'> 14:13 calendar.google.com</li>
+<li> 14:12 outlook.office.com</li>
+<li class='same'> 14:11 outlook.office.com</li>
+<li> 14:11 herts.instructure.com</li>
+<li> 14:11 outlook.office.com</li>
+<li class='same'> 14:03 outlook.office.com</li>
+<li class='same'> 13:50 outlook.office.com</li>
+<li class='same'> 13:49 outlook.office.com</li>
+<li> 13:48 herts.instructure.com</li>
+<li> 13:48 adfs.herts.ac.uk</li>
+<li> 13:47 outlook.office.com</li>
+<li class='same'> 13:46 outlook.office.com</li>
+<li class='same'> 13:45 outlook.office.com</li>
+<li> 13:44 docs.google.com</li>
+<li> 13:41 <a href="https://en.wikipedia.org/wiki/Category:Surnames_of_African_origin">Category:Surnames of African origin - Wikipedia</a></li>
+<li> 13:40 <a href="https://en.wikipedia.org/wiki/Category:Surnames_of_Nigerian_origin">Category:Surnames of Nigerian origin - Wikipedia</a></li>
+<li> 13:38 bsky.app</li>
+<li> 13:38 outlook.office.com</li>
+<li> 13:38 m365.cloud.microsoft</li>
+<li class='same'> 13:37 m365.cloud.microsoft</li>
+<li> 13:37 login.microsoftonline.com</li>
+<li> 13:37 adfs.herts.ac.uk</li>
+<li> 13:37 outlook.office365.com</li>
+<li class='same'> 13:36 outlook.office365.com</li>
+<li> 13:36 s7018.mjt.lu</li>
+<li> 13:36 mail.google.com</li>
+<li class='same'> 13:35 mail.google.com</li>
+<li> 13:35 s7018.mjt.lu</li>
+<li> 13:35 mail.google.com</li>
+<li class='same'> 13:34 mail.google.com</li>
+<li> 13:34 wetransfer.com</li>
+<li> 13:34 mail.google.com</li>
+<li class='same'> 13:33 mail.google.com</li>
+<li> 13:33 gmail.com</li>
+<li> 13:33 mail.google.com</li>
+<li class='same'> 13:32 mail.google.com</li>
+<li class='same'> 13:31 mail.google.com</li>
+<li class='same'> 13:30 mail.google.com</li>
+<li> 13:30 calendar.google.com</li>
+<li> 13:29 outlook.office365.com</li>
+<li> 13:29 calendar.google.com</li>
+<li> 13:29 mail.google.com</li>
+<li class='same'> 13:28 mail.google.com</li>
+<li> 13:28 gmail.com</li>
+<li> 13:25 outlook.office365.com</li>
+<li class='same'> 13:24 outlook.office365.com</li>
+<li> 13:24 teams.microsoft.com</li>
+<li> 13:24 outlook.office365.com</li>
+<li class='same'> 12:59 outlook.office365.com</li>
+<li> 12:54 duckduckgo.com</li>
+<li> 12:30 web.whatsapp.com</li>
+</ul>
 
 <br>
 
