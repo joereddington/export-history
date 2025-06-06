@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3097)</li>
-<li>mail.google.com (2801)</li>
+<ol><li>www.google.com (3099)</li>
+<li>mail.google.com (2803)</li>
 <li>outlook.office.com (2601)</li>
-<li>docs.google.com (2045)</li>
+<li>docs.google.com (2048)</li>
 <li>outlook.office365.com (1792)</li>
-<li>www.reddit.com (1749)</li>
+<li>www.reddit.com (1766)</li>
 <li>bsky.app (1572)</li>
 <li>www.facebook.com (1411)</li>
-<li>duckduckgo.com (1107)</li>
-<li>chatgpt.com (787)</li>
+<li>duckduckgo.com (1108)</li>
+<li>chatgpt.com (788)</li>
 <li>www.amazon.co.uk (725)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
-<li>www.linkedin.com (492)</li>
+<li>www.linkedin.com (495)</li>
 <li>rhul-my.sharepoint.com (477)</li>
 <li>login.microsoftonline.com (435)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (408)</li>
-<li>gmail.com (407)</li>
-<li>web.whatsapp.com (350)</li>
+<li>gmail.com (408)</li>
+<li>web.whatsapp.com (351)</li>
 <li>chat.openai.com (310)</li>
-<li>drive.google.com (294)</li>
+<li>drive.google.com (296)</li>
 <li>feedly.com (288)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (245)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:08 github.com</li>
+<ul><li> 17:04 www.reddit.com</li>
+<li class='same'> 17:03 www.reddit.com</li>
+<li class='same'> 17:02 www.reddit.com</li>
+<li class='same'> 17:01 www.reddit.com</li>
+<li class='same'> 17:00 www.reddit.com</li>
+<li class='same'> 16:59 www.reddit.com</li>
+<li class='same'> 16:58 www.reddit.com</li>
+<li class='same'> 16:57 www.reddit.com</li>
+<li> 16:57 docs.google.com</li>
+<li> 16:57 www.reddit.com</li>
+<li class='same'> 16:56 www.reddit.com</li>
+<li> 16:56 redditinc.com</li>
+<li> 16:55 www.reddit.com</li>
+<li> 16:55 docs.google.com</li>
+<li> 16:55 www.reddit.com</li>
+<li class='same'> 16:54 www.reddit.com</li>
+<li> 16:53 docs.google.com</li>
+<li> 16:53 drive.google.com</li>
+<li class='same'> 16:52 drive.google.com</li>
+<li> 16:51 www.reddit.com</li>
+<li> 16:50 mail.google.com</li>
+<li> 16:47 web.whatsapp.com</li>
+<li> 16:27 www.linkedin.com</li>
+<li class='same'> 16:26 www.linkedin.com</li>
+<li class='same'> 16:25 www.linkedin.com</li>
+<li> 16:21 duckduckgo.com</li>
+<li> 16:18 mail.google.com</li>
+<li> 16:18 gmail.com</li>
+<li> 16:18 royalholloway.academia.edu</li>
+<li> 16:18 www.google.com</li>
+<li class='same'> 16:17 www.google.com</li>
+<li> 16:17 <a href="https://joereddington.com/%20thesis">Joe Reddington | Things I make.</a></li>
+<li> 16:16 chatgpt.com</li>
+<li> 16:08 github.com</li>
 <li class='same'> 16:07 github.com</li>
 <li> 16:07 www.overleaf.com</li>
 <li> 16:07 duckduckgo.com</li>
@@ -48123,7 +48156,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:18 gitlab.cim.rhul.ac.uk</li>
+<ul><li> 13:26 www.reddit.com</li>
+<li> 13:18 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:12 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:08 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:07 gitlab.cim.rhul.ac.uk</li>
@@ -48145,6 +48179,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:15 rhul.sharepoint.com</li>
+<li> 10:52 www.reddit.com</li>
 <li> 10:49 projects.cs.rhul.ac.uk</li>
 <li> 10:43 dashboards.rhul.ac.uk</li>
 <li> 10:43 myview.rhul.zellis.com</li>
@@ -48168,7 +48203,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:41 mail.google.com</li>
 <li> 06:38 docs.google.com</li>
 <li> 06:38 www.facebook.com</li>
-<li> 06:36 www.reddit.com</li>
+<li> 06:37 www.reddit.com</li>
+<li class='same'> 06:36 www.reddit.com</li>
 <li> 06:29 www.moonpig.com</li>
 <li> 06:17 www.facebook.com</li>
 <li> 06:04 andsoshethinks.co.uk</li>
