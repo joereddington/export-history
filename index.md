@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3099)</li>
+<ol><li>www.google.com (3107)</li>
 <li>mail.google.com (2803)</li>
 <li>outlook.office.com (2601)</li>
 <li>docs.google.com (2048)</li>
 <li>outlook.office365.com (1792)</li>
-<li>www.reddit.com (1766)</li>
+<li>www.reddit.com (1786)</li>
 <li>bsky.app (1572)</li>
 <li>www.facebook.com (1411)</li>
 <li>duckduckgo.com (1108)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
-<li>www.linkedin.com (495)</li>
+<li>www.linkedin.com (496)</li>
 <li>rhul-my.sharepoint.com (478)</li>
 <li>login.microsoftonline.com (435)</li>
 <li>github.com (427)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 06/06/25</H3>
+
+<br>
+
+<ul><li> 18:35 <a href="https://www.bbc.co.uk/news/articles/cr58pqjlnjlo">M&S hackers sent abuse and ransom demand directly to CEO - BBC News</a></li>
+</ul>
 
 <br>
 
@@ -372,6 +377,7 @@ With number of accesses/minutes in parentheses
 <li> 09:30 duckduckgo.com</li>
 <li class='same'> 09:29 duckduckgo.com</li>
 <li> 09:29 bsky.app</li>
+<li> 09:25 <a href="https://www.bbc.co.uk/news/articles/cr58pqjlnjlo">M&S hackers sent abuse and ransom demand directly to CEO - BBC News</a></li>
 <li> 09:24 www.facebook.com</li>
 <li> 09:23 bsky.app</li>
 <li> 09:22 outlook.office365.com</li>
@@ -438,6 +444,35 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:22 oots.fandom.com</li>
 <li class='same'> 07:21 oots.fandom.com</li>
 <li> 07:21 duckduckgo.com</li>
+<li> 07:05 <a href="https://www.bbc.co.uk/news/articles/cr58pqjlnjlo">M&S hackers sent abuse and ransom demand directly to CEO - BBC News</a></li>
+<li> 07:04 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:03 www.reddit.com</li>
+<li class='same'> 07:02 www.reddit.com</li>
+<li class='same'> 07:01 www.reddit.com</li>
+<li class='same'> 07:00 www.reddit.com</li>
+<li class='same'> 06:59 www.reddit.com</li>
+<li class='same'> 06:58 www.reddit.com</li>
+<li class='same'> 06:57 www.reddit.com</li>
+<li class='same'> 06:56 www.reddit.com</li>
+<li> 06:55 www.telegraph.co.uk</li>
+<li> 06:53 <a href="https://www.theguardian.com/music/2025/jun/06/beyonce-london-concert-show-review-cowboy-carter-tour">Beyoncé review – a hugely enjoyable concert that adds a ferocious potency to Cowboy Carter | Beyoncé | The Guardian</a></li>
+<li> 06:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:52 <a href="https://www.theguardian.com/">Trump v Musk: world’s two worst people are finally having a big, beautiful breakup | Arwa Mahdawi | The Guardian</a></li>
+<li> 06:52 <a href="https://www.theguardian.com/us-news/2025/jun/06/trump-travel-ban-analysis">Trump travel ban comes as little surprise amid barrage of draconian restrictions | US immigration | The Guardian</a></li>
+<li> 06:52 news.sky.com</li>
+<li> 06:48 <a href="https://www.theguardian.com/us-news/2025/jun/06/trump-travel-ban-analysis">Trump travel ban comes as little surprise amid barrage of draconian restrictions | US immigration | The Guardian</a></li>
+<li> 06:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:47 <a href="https://www.theguardian.com/politics/2025/jun/05/zia-yusuf-quits-as-chair-of-reform-uk-after-new-mp-burqa-ban-row">Zia Yusuf quits as Reform UK chair after row over new MP’s call for burqa ban | Reform UK | The Guardian</a></li>
+<li> 06:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:46 <a href="https://www.theguardian.com/">Trump v Musk: world’s two worst people are finally having a big, beautiful breakup | Arwa Mahdawi | The Guardian</a></li>
+<li> 06:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:44 <a href="https://www.theguardian.com/us-news/2025/jun/05/trump-elon-musk-fallout">Impeachment, Epstein and bitter acrimony: Trump and Musk joust in astonishing social media duel | Donald Trump | The Guardian</a></li>
+<li> 06:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:44 <a href="https://www.theguardian.com/">Trump v Musk: world’s two worst people are finally having a big, beautiful breakup | Arwa Mahdawi | The Guardian</a></li>
+<li> 06:44 <a href="https://www.theguardian.com/commentisfree/2025/jun/06/keir-starmer-politics-left-right-prime-minister">Keir Starmer’s muddled politics are reaching their limit. It’s time for him to make a choice | Andy Beckett | The Guardian</a></li>
+<li> 06:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:42 <a href="https://www.theguardian.com/culture/2025/jun/06/explain-it-to-me-quickly-what-is-aura-farming-and-is-it-cool-or-cringe">Explain it to me quickly: What is aura farming, and is it cool or cringe? | Timothée Chalamet | The Guardian</a></li>
+<li> 06:42 <a href="https://www.theguardian.com/food/2025/jun/06/pavlova-recipe-raspberries-lychees-elderflower-cream-helen-goh">Helen Goh’s recipe for pavlova with raspberries, lychees and elderflower cream | Food | The Guardian</a></li>
 </ul>
 
 <br>
@@ -453,8 +488,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:27 www.reddit.com</li>
+<li class='same'> 21:26 www.reddit.com</li>
+</ul>
+
+<br>
+
 <ul><li> 18:34 www.giantitp.com</li>
 <li> 18:34 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:15 www.reddit.com</li>
+<li> 17:15 www.google.com</li>
+<li> 17:15 www.reddit.com</li>
+<li class='same'> 17:14 www.reddit.com</li>
+<li> 17:14 www.google.com</li>
+<li> 17:13 www.reddit.com</li>
+<li> 17:13 www.google.com</li>
+<li> 17:13 accounts.google.com</li>
+<li> 17:13 www.google.com</li>
+<li> 17:11 www.reddit.com</li>
+<li> 17:11 www.google.com</li>
+<li> 17:10 www.reddit.com</li>
+<li> 17:10 www.google.com</li>
+<li> 17:09 www.reddit.com</li>
+<li> 17:09 www.google.com</li>
+<li> 17:08 www.reddit.com</li>
+<li> 17:07 www.google.com</li>
+<li> 17:07 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/use-word-gotten-some-readers-upset">How the use of a word in the Guardian has gotten some readers upset | Elisabeth Ribbans | The Guardian</a></li>
 </ul>
 
 <br>
@@ -657,7 +720,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:04 calendar.google.com</li>
+<ul><li> 18:20 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/use-word-gotten-some-readers-upset">How the use of a word in the Guardian has gotten some readers upset | Elisabeth Ribbans | The Guardian</a></li>
+<li> 18:04 calendar.google.com</li>
 <li> 18:02 jobs.royalholloway.ac.uk</li>
 <li> 18:02 web.whatsapp.com</li>
 <li> 17:59 outlook.office365.com</li>
@@ -53379,7 +53443,8 @@ With number of accesses/minutes in parentheses
 <li> 14:37 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 <li> 14:35 twitter.com</li>
 <li class='same'> 14:10 twitter.com</li>
-<li> 13:51 www.linkedin.com</li>
+<li> 13:54 www.linkedin.com</li>
+<li class='same'> 13:51 www.linkedin.com</li>
 <li> 13:51 jobs.royalholloway.ac.uk</li>
 </ul>
 
@@ -56004,6 +56069,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:58 <a href="https://www.youtube.com/watch?v=oTugjssqOT0">Randy Pausch Lecture: Time Management - YouTube</a></li>
+<li> 10:58 <a href="https://www.youtube.com/results?search_query=randy+pausch+time+management">randy pausch time management - YouTube</a></li>
 </ul>
 
 <H3>Sunday, 27/08/23</H3>
@@ -56306,6 +56372,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:11 www.qiq.support</li>
 <li> 10:01 workspace.google.com</li>
 <li> 09:55 mail.google.com</li>
+<li> 09:52 us-east-1.console.aws.amazon.com</li>
 </ul>
 
 <H3>Wednesday, 02/08/23</H3>
@@ -57588,7 +57655,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:04 github.com</li>
-<li> 07:00 www.reddit.com</li>
+<li> 07:01 www.reddit.com</li>
+<li class='same'> 07:00 www.reddit.com</li>
+<li class='same'> 06:55 www.reddit.com</li>
 </ul>
 
 <H3>Tuesday, 06/06/23</H3>
