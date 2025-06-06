@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2779)</li>
 <li>outlook.office.com (2590)</li>
 <li>docs.google.com (2036)</li>
-<li>outlook.office365.com (1774)</li>
+<li>outlook.office365.com (1780)</li>
 <li>www.reddit.com (1746)</li>
 <li>bsky.app (1563)</li>
 <li>www.facebook.com (1411)</li>
 <li>duckduckgo.com (1095)</li>
-<li>chatgpt.com (785)</li>
+<li>chatgpt.com (786)</li>
 <li>www.amazon.co.uk (724)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (527)</li>
@@ -108,9 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:44 chatgpt.com</li>
+<ul><li> 10:51 outlook.office365.com</li>
+<li class='same'> 10:50 outlook.office365.com</li>
+<li> 10:45 chatgpt.com</li>
+<li class='same'> 10:44 chatgpt.com</li>
 <li> 10:44 chat.openai.com</li>
-<li> 10:34 outlook.office365.com</li>
+<li> 10:43 outlook.office365.com</li>
+<li class='same'> 10:42 outlook.office365.com</li>
+<li class='same'> 10:41 outlook.office365.com</li>
+<li class='same'> 10:40 outlook.office365.com</li>
+<li class='same'> 10:34 outlook.office365.com</li>
 <li> 10:33 outlook.office.com</li>
 <li class='same'> 10:32 outlook.office.com</li>
 <li> 10:32 m365.cloud.microsoft</li>
