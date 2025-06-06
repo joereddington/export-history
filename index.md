@@ -72,16 +72,16 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2779)</li>
 <li>outlook.office.com (2590)</li>
 <li>docs.google.com (2036)</li>
-<li>outlook.office365.com (1782)</li>
+<li>outlook.office365.com (1783)</li>
 <li>www.reddit.com (1746)</li>
 <li>bsky.app (1564)</li>
 <li>www.facebook.com (1411)</li>
-<li>duckduckgo.com (1095)</li>
+<li>duckduckgo.com (1096)</li>
 <li>chatgpt.com (786)</li>
 <li>www.amazon.co.uk (724)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (527)</li>
-<li>moodle.royalholloway.ac.uk (506)</li>
+<li>moodle.royalholloway.ac.uk (508)</li>
 <li>www.linkedin.com (492)</li>
 <li>rhul-my.sharepoint.com (477)</li>
 <li>login.microsoftonline.com (434)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:14 rhul-my.sharepoint.com</li>
+<ul><li> 11:52 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:47 moodle.royalholloway.ac.uk</li>
+<li> 11:46 outlook.office365.com</li>
+<li> 11:38 duckduckgo.com</li>
+<li> 11:14 rhul-my.sharepoint.com</li>
 <li> 11:10 fast.com</li>
 <li> 11:00 outlook.office365.com</li>
 <li> 10:55 bsky.app</li>
