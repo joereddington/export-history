@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3107)</li>
+<ol><li>www.google.com (3109)</li>
 <li>mail.google.com (2803)</li>
 <li>outlook.office.com (2601)</li>
 <li>docs.google.com (2048)</li>
+<li>www.reddit.com (1792)</li>
 <li>outlook.office365.com (1792)</li>
-<li>www.reddit.com (1786)</li>
 <li>bsky.app (1572)</li>
 <li>www.facebook.com (1411)</li>
 <li>duckduckgo.com (1108)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (478)</li>
 <li>login.microsoftonline.com (435)</li>
 <li>github.com (427)</li>
-<li>tvtropes.org (408)</li>
+<li>tvtropes.org (409)</li>
 <li>gmail.com (408)</li>
 <li>web.whatsapp.com (351)</li>
 <li>chat.openai.com (310)</li>
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 06/06/25</H3>
+
+<br>
+
+<ul><li> 20:46 www.reddit.com</li>
+<li class='same'> 20:45 www.reddit.com</li>
+<li class='same'> 20:44 www.reddit.com</li>
+<li class='same'> 20:43 www.reddit.com</li>
+<li class='same'> 20:42 www.reddit.com</li>
+<li class='same'> 20:41 www.reddit.com</li>
+<li> 20:41 www.google.com</li>
+<li> 20:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:39 <a href="https://www.theguardian.com/technology/2025/jun/06/elon-musk-signals-he-may-back-down-in-public-row-with-donald-trump">Donald Trump says Elon Musk has ‘lost his mind’ and dismisses peace offering | Elon Musk | The Guardian</a></li>
+<li> 20:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:39 <a href="https://www.theguardian.com/politics/2025/jun/06/russia-is-at-war-with-uk-and-us-no-longer-reliable-ally">Russia is at war with Britain and US is no longer a reliable ally, UK adviser says | Defence policy | The Guardian</a></li>
+<li> 20:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 19:27 tvtropes.org</li>
+<li> 19:26 www.google.com</li>
+<li> 19:26 www.buzzfeed.com</li>
+</ul>
 
 <br>
 
