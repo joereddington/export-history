@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
 <li>www.linkedin.com (495)</li>
-<li>rhul-my.sharepoint.com (477)</li>
+<li>rhul-my.sharepoint.com (478)</li>
 <li>login.microsoftonline.com (435)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (408)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (296)</li>
 <li>feedly.com (288)</li>
 <li>fritz.box (277)</li>
-<li>whitewaterwriters.com (245)</li>
+<li>whitewaterwriters.com (250)</li>
 <li>qbo.intuit.com (232)</li>
 <li>rhul.sharepoint.com (228)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (208)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:04 www.reddit.com</li>
+<ul><li> 17:25 <a href="https://www.youtube.com/watch?v=dZxbVGhpEkI">Last Lecture Series: “How to Live an Asymmetric Life,” Graham Weaver - YouTube</a></li>
+<li> 17:24 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 17:23 gitlab.cim.rhul.ac.uk</li>
+<li> 17:17 rhul-my.sharepoint.com</li>
+<li> 17:15 whitewaterwriters.com</li>
+<li class='same'> 17:13 whitewaterwriters.com</li>
+<li class='same'> 17:10 whitewaterwriters.com</li>
+<li class='same'> 17:09 whitewaterwriters.com</li>
+<li class='same'> 17:08 whitewaterwriters.com</li>
+<li> 17:04 www.reddit.com</li>
 <li class='same'> 17:03 www.reddit.com</li>
 <li class='same'> 17:02 www.reddit.com</li>
 <li class='same'> 17:01 www.reddit.com</li>
@@ -50883,6 +50892,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:06 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:00 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 12:57 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 12:56 gitlab.cim.rhul.ac.uk</li>
 <li> 12:48 mail.google.com</li>
 <li> 12:34 projects.cs.rhul.ac.uk</li>
 <li> 12:22 www.tightrope.co.uk</li>
