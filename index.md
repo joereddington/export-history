@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3097)</li>
-<li>mail.google.com (2792)</li>
+<li>mail.google.com (2801)</li>
 <li>outlook.office.com (2601)</li>
-<li>docs.google.com (2043)</li>
+<li>docs.google.com (2045)</li>
 <li>outlook.office365.com (1792)</li>
-<li>www.reddit.com (1747)</li>
-<li>bsky.app (1570)</li>
+<li>www.reddit.com (1749)</li>
+<li>bsky.app (1572)</li>
 <li>www.facebook.com (1411)</li>
-<li>duckduckgo.com (1103)</li>
+<li>duckduckgo.com (1107)</li>
 <li>chatgpt.com (787)</li>
 <li>www.amazon.co.uk (725)</li>
 <li>www.theguardian.com (685)</li>
@@ -85,19 +85,19 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (492)</li>
 <li>rhul-my.sharepoint.com (477)</li>
 <li>login.microsoftonline.com (435)</li>
-<li>github.com (425)</li>
+<li>github.com (427)</li>
 <li>tvtropes.org (408)</li>
-<li>gmail.com (405)</li>
+<li>gmail.com (407)</li>
 <li>web.whatsapp.com (350)</li>
 <li>chat.openai.com (310)</li>
-<li>drive.google.com (291)</li>
-<li>feedly.com (287)</li>
+<li>drive.google.com (294)</li>
+<li>feedly.com (288)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (245)</li>
 <li>qbo.intuit.com (232)</li>
 <li>rhul.sharepoint.com (228)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (208)</li>
 <li>www.coursera.org (208)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (205)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,59 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:09 mail.google.com</li>
+<ul><li> 16:08 github.com</li>
+<li class='same'> 16:07 github.com</li>
+<li> 16:07 www.overleaf.com</li>
+<li> 16:07 duckduckgo.com</li>
+<li> 16:06 bsky.app</li>
+<li> 16:06 <a href="https://www.youtube.com/watch?v=oTugjssqOT0">Randy Pausch Lecture: Time Management - YouTube</a></li>
+<li> 16:06 <a href="https://www.youtube.com/results?search_query=randy+pausch+time+management">randy pausch time management - YouTube</a></li>
+<li> 16:05 <a href="https://www.youtube.com/">YouTube</a></li>
+<li> 15:47 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:47 mail.google.com</li>
+<li> 15:46 www.reddit.com</li>
+<li> 15:44 en.m.wikipedia.org</li>
+<li> 15:43 www.reddit.com</li>
+<li> 15:42 bsky.app</li>
+<li> 15:41 www.natesilver.net</li>
+<li> 15:38 bsky.jazco.dev</li>
+<li> 15:37 www.natesilver.net</li>
+<li> 15:37 feedly.com</li>
+<li> 15:35 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:34 mail.google.com</li>
+<li> 15:33 www.gog.com</li>
+<li> 15:33 mail.google.com</li>
+<li> 15:32 discord.com</li>
+<li> 15:32 login.gog.com</li>
+<li> 15:32 discord.com</li>
+<li> 15:32 login.gog.com</li>
+<li> 15:30 mail.google.com</li>
+<li> 15:27 forums.moneysavingexpert.com</li>
+<li> 15:27 duckduckgo.com</li>
+<li> 15:25 mail.google.com</li>
+<li class='same'> 15:24 mail.google.com</li>
+<li> 15:24 gmail.com</li>
+<li> 15:24 auth.parcel.royalmail.com</li>
+<li> 15:24 duckduckgo.com</li>
+<li> 15:23 www.royalmail.com</li>
+<li class='same'> 15:22 www.royalmail.com</li>
+<li> 15:22 mail.google.com</li>
+<li class='same'> 15:21 mail.google.com</li>
+<li> 15:21 gmail.com</li>
+<li> 15:21 auth.ticketmaster.com</li>
+<li> 15:21 www.ticketmaster.co.uk</li>
+<li> 15:21 projecteuler.net</li>
+<li class='same'> 15:20 projecteuler.net</li>
+<li> 15:20 duckduckgo.com</li>
+<li> 15:20 www.mapbox.com</li>
+<li> 15:20 docs.google.com</li>
+<li> 15:20 drive.google.com</li>
+<li> 15:19 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:14 drive.google.com</li>
+<li> 15:14 docs.google.com</li>
+<li> 15:14 drive.google.com</li>
+<li> 15:13 mail.google.com</li>
+<li class='same'> 15:09 mail.google.com</li>
 <li> 15:09 gmail.com</li>
 <li> 15:08 outlook.office365.com</li>
 <li> 15:06 docs.google.com</li>
