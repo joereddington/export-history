@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3096)</li>
-<li>mail.google.com (2791)</li>
-<li>outlook.office.com (2600)</li>
-<li>docs.google.com (2037)</li>
-<li>outlook.office365.com (1790)</li>
-<li>www.reddit.com (1746)</li>
-<li>bsky.app (1565)</li>
+<ol><li>www.google.com (3097)</li>
+<li>mail.google.com (2792)</li>
+<li>outlook.office.com (2601)</li>
+<li>docs.google.com (2043)</li>
+<li>outlook.office365.com (1792)</li>
+<li>www.reddit.com (1747)</li>
+<li>bsky.app (1570)</li>
 <li>www.facebook.com (1411)</li>
-<li>duckduckgo.com (1097)</li>
-<li>chatgpt.com (786)</li>
-<li>www.amazon.co.uk (724)</li>
+<li>duckduckgo.com (1103)</li>
+<li>chatgpt.com (787)</li>
+<li>www.amazon.co.uk (725)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (531)</li>
+<li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
 <li>www.linkedin.com (492)</li>
 <li>rhul-my.sharepoint.com (477)</li>
 <li>login.microsoftonline.com (435)</li>
 <li>github.com (425)</li>
 <li>tvtropes.org (408)</li>
-<li>gmail.com (404)</li>
-<li>web.whatsapp.com (349)</li>
+<li>gmail.com (405)</li>
+<li>web.whatsapp.com (350)</li>
 <li>chat.openai.com (310)</li>
-<li>drive.google.com (290)</li>
+<li>drive.google.com (291)</li>
 <li>feedly.com (287)</li>
 <li>fritz.box (277)</li>
-<li>whitewaterwriters.com (244)</li>
+<li>whitewaterwriters.com (245)</li>
 <li>qbo.intuit.com (232)</li>
 <li>rhul.sharepoint.com (228)</li>
 <li>www.coursera.org (208)</li>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:14 calendar.google.com</li>
+<ul><li> 15:09 mail.google.com</li>
+<li> 15:09 gmail.com</li>
+<li> 15:08 outlook.office365.com</li>
+<li> 15:06 docs.google.com</li>
+<li> 15:05 www.tesco.com</li>
+<li> 15:05 www.google.com</li>
+<li> 15:05 docs.google.com</li>
+<li class='same'> 15:04 docs.google.com</li>
+<li class='same'> 15:02 docs.google.com</li>
+<li> 15:01 chatgpt.com</li>
+<li> 15:01 docs.google.com</li>
+<li class='same'> 14:53 docs.google.com</li>
+<li> 14:52 drive.google.com</li>
+<li> 14:50 bsky.app</li>
+<li> 14:50 duckduckgo.com</li>
+<li class='same'> 14:49 duckduckgo.com</li>
+<li> 14:49 medium.com</li>
+<li> 14:49 duckduckgo.com</li>
+<li class='same'> 14:48 duckduckgo.com</li>
+<li> 14:47 bsky.app</li>
+<li class='same'> 14:46 bsky.app</li>
+<li> 14:46 web.archive.org</li>
+<li> 14:46 www.zdnet.com</li>
+<li> 14:46 web.archive.org</li>
+<li> 14:46 <a href="https://en.wikipedia.org/wiki/Script_kiddie#cite_ref-5">Script kiddie - Wikipedia</a></li>
+<li> 14:45 <a href="https://en.wikipedia.org/wiki/Script_kiddie#cite_ref-2">Script kiddie - Wikipedia</a></li>
+<li> 14:44 <a href="https://en.wikipedia.org/wiki/Script_kiddie">Script kiddie - Wikipedia</a></li>
+<li> 14:44 duckduckgo.com</li>
+<li> 14:41 calendar.google.com</li>
+<li> 14:40 www.blackmagicdesign.com</li>
+<li> 14:40 duckduckgo.com</li>
+<li> 14:39 www.amazon.co.uk</li>
+<li> 14:35 web.whatsapp.com</li>
+<li> 14:35 calendar.google.com</li>
+<li class='same'> 14:34 calendar.google.com</li>
+<li> 14:33 whitewaterwriters.com</li>
+<li> 14:30 bsky.app</li>
+<li> 14:27 theweek.com</li>
+<li> 14:27 go.bsky.app</li>
+<li> 14:26 bsky.app</li>
+<li> 14:24 www.reddit.com</li>
+<li> 14:23 outlook.office365.com</li>
+<li> 14:17 outlook.office.com</li>
+<li> 14:14 calendar.google.com</li>
 <li class='same'> 14:13 calendar.google.com</li>
 <li> 14:12 outlook.office.com</li>
 <li class='same'> 14:11 outlook.office.com</li>
@@ -43475,10 +43518,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:39 rhul-my.sharepoint.com</li>
 <li> 10:34 x.com</li>
 <li> 10:28 www.ucisa.ac.uk</li>
+<li> 10:14 <a href="https://en.wikipedia.org/wiki/Script_kiddie">Script kiddie - Wikipedia</a></li>
 <li> 10:13 www.google.com</li>
 <li class='same'> 10:10 www.google.com</li>
 <li> 10:08 books.google.co.uk</li>
 <li> 10:08 www.google.com</li>
+<li> 10:08 <a href="https://en.wikipedia.org/wiki/Script_kiddie">Script kiddie - Wikipedia</a></li>
 <li> 09:40 chatgpt.com</li>
 <li> 09:27 rhul-my.sharepoint.com</li>
 <li> 09:22 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
