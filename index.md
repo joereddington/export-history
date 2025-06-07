@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3109)</li>
+<ol><li>www.google.com (3110)</li>
 <li>mail.google.com (2803)</li>
 <li>outlook.office.com (2601)</li>
 <li>docs.google.com (2050)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1792)</li>
 <li>bsky.app (1572)</li>
 <li>www.facebook.com (1411)</li>
-<li>duckduckgo.com (1108)</li>
+<li>duckduckgo.com (1109)</li>
 <li>chatgpt.com (788)</li>
 <li>www.amazon.co.uk (725)</li>
 <li>www.theguardian.com (685)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (250)</li>
 <li>qbo.intuit.com (232)</li>
 <li>rhul.sharepoint.com (228)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (209)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (210)</li>
 <li>www.coursera.org (208)</li>
 
 
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 13:02 <a href="https://www.theguardian.com/technology/2025/jun/07/trump-musk-feud-power">The Trump-Musk feud shows danger of handing the keys of power to one person | Elon Musk | The Guardian</a></li>
+<li> 13:02 www.google.com</li>
+<li> 13:02 www.buzzfeed.com</li>
+<li> 13:00 en.wiktionary.org</li>
+<li class='same'> 12:59 en.wiktionary.org</li>
+<li> 12:59 duckduckgo.com</li>
+<li> 12:33 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li class='same'> 12:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:00 www.printables.com</li>
 </ul>
 
@@ -123,6 +130,10 @@ With number of accesses/minutes in parentheses
 <li> 11:26 www.printables.com</li>
 <li class='same'> 11:25 www.printables.com</li>
 <li> 11:22 docs.google.com</li>
+<li> 10:59 www.buzzfeed.com</li>
+<li class='same'> 10:57 www.buzzfeed.com</li>
+<li class='same'> 10:56 www.buzzfeed.com</li>
+<li class='same'> 10:54 www.buzzfeed.com</li>
 <li> 10:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 10:53 www.reddit.com</li>
 </ul>
