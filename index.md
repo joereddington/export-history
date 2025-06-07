@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3109)</li>
 <li>mail.google.com (2803)</li>
 <li>outlook.office.com (2601)</li>
-<li>docs.google.com (2049)</li>
+<li>docs.google.com (2050)</li>
 <li>www.reddit.com (1801)</li>
 <li>outlook.office365.com (1792)</li>
 <li>bsky.app (1572)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (478)</li>
 <li>login.microsoftonline.com (435)</li>
 <li>github.com (427)</li>
-<li>tvtropes.org (416)</li>
+<li>tvtropes.org (420)</li>
 <li>gmail.com (408)</li>
 <li>web.whatsapp.com (351)</li>
 <li>chat.openai.com (310)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (250)</li>
 <li>qbo.intuit.com (232)</li>
 <li>rhul.sharepoint.com (228)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (208)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (209)</li>
 <li>www.coursera.org (208)</li>
 
 
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 12:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:00 www.printables.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:27 www.printables.com</li>
+<li> 11:27 connect.prusa3d.com</li>
+<li> 11:27 account.prusa3d.com</li>
+<li> 11:27 connect.prusa3d.com</li>
+<li> 11:27 account.prusa3d.com</li>
+<li> 11:27 connect.prusa3d.com</li>
+<li> 11:26 www.printables.com</li>
+<li class='same'> 11:25 www.printables.com</li>
+<li> 11:22 docs.google.com</li>
+<li> 10:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 10:53 www.reddit.com</li>
 </ul>
 
@@ -130,8 +145,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 02:58 docs.google.com</li>
-<li> 02:54 tvtropes.org</li>
+<ul><li> 02:59 tvtropes.org</li>
+<li class='same'> 02:58 tvtropes.org</li>
+<li> 02:58 docs.google.com</li>
+<li> 02:58 tvtropes.org</li>
+<li class='same'> 02:55 tvtropes.org</li>
+<li class='same'> 02:54 tvtropes.org</li>
 <li class='same'> 02:51 tvtropes.org</li>
 <li class='same'> 02:42 tvtropes.org</li>
 <li class='same'> 02:38 tvtropes.org</li>
