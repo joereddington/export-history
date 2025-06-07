@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1572)</li>
 <li>www.facebook.com (1411)</li>
 <li>duckduckgo.com (1109)</li>
-<li>chatgpt.com (788)</li>
+<li>chatgpt.com (791)</li>
 <li>www.amazon.co.uk (725)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (420)</li>
 <li>gmail.com (408)</li>
 <li>web.whatsapp.com (351)</li>
-<li>chat.openai.com (310)</li>
+<li>chat.openai.com (311)</li>
 <li>drive.google.com (296)</li>
 <li>feedly.com (288)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:02 <a href="https://www.theguardian.com/technology/2025/jun/07/trump-musk-feud-power">The Trump-Musk feud shows danger of handing the keys of power to one person | Elon Musk | The Guardian</a></li>
+<ul><li> 14:08 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:29 chatgpt.com</li>
+<li class='same'> 13:28 chatgpt.com</li>
+<li> 13:28 chat.openai.com</li>
+<li> 13:02 <a href="https://www.theguardian.com/technology/2025/jun/07/trump-musk-feud-power">The Trump-Musk feud shows danger of handing the keys of power to one person | Elon Musk | The Guardian</a></li>
 <li> 13:02 www.google.com</li>
 <li> 13:02 www.buzzfeed.com</li>
 <li> 13:00 en.wiktionary.org</li>
