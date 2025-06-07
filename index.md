@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2803)</li>
 <li>outlook.office.com (2601)</li>
 <li>docs.google.com (2049)</li>
-<li>www.reddit.com (1792)</li>
+<li>www.reddit.com (1801)</li>
 <li>outlook.office365.com (1792)</li>
 <li>bsky.app (1572)</li>
 <li>www.facebook.com (1411)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 07/06/25</H3>
+
+<br>
+
+<ul><li> 10:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:53 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:59 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:42 www.reddit.com</li>
+<li class='same'> 07:41 www.reddit.com</li>
+<li class='same'> 07:40 www.reddit.com</li>
+<li class='same'> 07:39 www.reddit.com</li>
+<li class='same'> 07:38 www.reddit.com</li>
+<li class='same'> 07:37 www.reddit.com</li>
+<li class='same'> 07:36 www.reddit.com</li>
+</ul>
 
 <br>
 
