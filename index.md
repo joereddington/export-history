@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3109)</li>
 <li>mail.google.com (2803)</li>
 <li>outlook.office.com (2601)</li>
-<li>docs.google.com (2048)</li>
+<li>docs.google.com (2049)</li>
 <li>www.reddit.com (1792)</li>
 <li>outlook.office365.com (1792)</li>
 <li>bsky.app (1572)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (478)</li>
 <li>login.microsoftonline.com (435)</li>
 <li>github.com (427)</li>
-<li>tvtropes.org (409)</li>
+<li>tvtropes.org (416)</li>
 <li>gmail.com (408)</li>
 <li>web.whatsapp.com (351)</li>
 <li>chat.openai.com (310)</li>
@@ -104,7 +104,25 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 07/06/25</H3>
+
+<br>
+
+<ul><li> 02:58 docs.google.com</li>
+<li> 02:54 tvtropes.org</li>
+<li class='same'> 02:51 tvtropes.org</li>
+<li class='same'> 02:42 tvtropes.org</li>
+<li class='same'> 02:38 tvtropes.org</li>
+<li class='same'> 02:37 tvtropes.org</li>
+<li class='same'> 02:35 tvtropes.org</li>
+<li class='same'> 02:33 tvtropes.org</li>
+</ul>
+
 <H3>Friday, 06/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
