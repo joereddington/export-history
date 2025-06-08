@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1792)</li>
 <li>bsky.app (1573)</li>
 <li>www.facebook.com (1412)</li>
-<li>duckduckgo.com (1114)</li>
+<li>duckduckgo.com (1117)</li>
 <li>chatgpt.com (792)</li>
-<li>www.amazon.co.uk (729)</li>
+<li>www.amazon.co.uk (730)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
 <li>gmail.com (408)</li>
-<li>web.whatsapp.com (351)</li>
+<li>web.whatsapp.com (352)</li>
 <li>chat.openai.com (312)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 08/06/25</H3>
+
+<br>
+
+<ul><li> 16:14 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 15:42 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:11 en.wiktionary.org</li>
+<li> 15:11 duckduckgo.com</li>
+<li> 15:07 web.whatsapp.com</li>
+<li> 15:07 duckduckgo.com</li>
+</ul>
 
 <br>
 
