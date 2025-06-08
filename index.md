@@ -71,32 +71,32 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3114)</li>
 <li>mail.google.com (2803)</li>
 <li>outlook.office.com (2601)</li>
-<li>docs.google.com (2052)</li>
-<li>www.reddit.com (1809)</li>
+<li>docs.google.com (2053)</li>
+<li>www.reddit.com (1814)</li>
 <li>outlook.office365.com (1792)</li>
 <li>bsky.app (1573)</li>
 <li>www.facebook.com (1412)</li>
 <li>duckduckgo.com (1114)</li>
-<li>chatgpt.com (791)</li>
+<li>chatgpt.com (792)</li>
 <li>www.amazon.co.uk (727)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
-<li>www.linkedin.com (498)</li>
+<li>www.linkedin.com (500)</li>
 <li>rhul-my.sharepoint.com (478)</li>
 <li>login.microsoftonline.com (435)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
 <li>gmail.com (408)</li>
 <li>web.whatsapp.com (351)</li>
-<li>chat.openai.com (311)</li>
-<li>drive.google.com (296)</li>
+<li>chat.openai.com (312)</li>
+<li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (250)</li>
 <li>qbo.intuit.com (232)</li>
 <li>rhul.sharepoint.com (228)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (213)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (214)</li>
 <li>www.coursera.org (208)</li>
 
 
@@ -108,12 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:12 chatgpt.com</li>
+<li> 11:12 chat.openai.com</li>
+<li> 11:03 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<li> 11:03 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 11:03 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+</ul>
+
+<br>
+
+<ul><li> 10:14 www.linkedin.com</li>
+<li class='same'> 10:13 www.linkedin.com</li>
+<li> 10:13 www.reddit.com</li>
+<li class='same'> 10:12 www.reddit.com</li>
+<li class='same'> 10:11 www.reddit.com</li>
+<li class='same'> 10:10 www.reddit.com</li>
+<li> 10:10 docs.google.com</li>
+<li> 10:10 drive.google.com</li>
+<li class='same'> 10:09 drive.google.com</li>
+<li> 10:09 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
 <ul><li> 08:00 <a href="https://www.theguardian.com/sport/2025/jun/07/simone-biles-riley-gaines-trans-athlete-twitter">Simone Biles slams ‘sore loser’ Riley Gaines over attacks on trans athlete | Simone Biles | The Guardian</a></li>
 <li> 07:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:48 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/07/beckxit-beef-david-victoria-beckham-brooklyn-nicola-anne-peltz">‘They’re perfect – until they aren’t’: why are people so interested in the Beckxit beef? | Celebrity | The Guardian</a></li>
 <li> 07:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:46 <a href="https://www.theguardian.com/us-news/2025/jun/07/trump-national-guard">How can Trump use the national guard on US soil? | Donald Trump | The Guardian</a></li>
 <li> 07:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:39 www.reddit.com</li>
 <li> 07:39 imgur.com</li>
 <li> 07:37 www.reddit.com</li>
 <li class='same'> 07:36 www.reddit.com</li>
