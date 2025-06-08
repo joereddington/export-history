@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2803)</li>
 <li>outlook.office.com (2601)</li>
 <li>docs.google.com (2053)</li>
-<li>www.reddit.com (1814)</li>
+<li>www.reddit.com (1815)</li>
 <li>outlook.office365.com (1792)</li>
 <li>bsky.app (1573)</li>
 <li>www.facebook.com (1412)</li>
-<li>duckduckgo.com (1117)</li>
+<li>duckduckgo.com (1120)</li>
 <li>chatgpt.com (794)</li>
-<li>www.amazon.co.uk (730)</li>
+<li>www.amazon.co.uk (733)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:27 web.whatsapp.com</li>
+<ul><li> 19:30 127.0.0.1:4000</li>
+<li class='same'> 19:29 127.0.0.1:4000</li>
+<li class='same'> 19:28 127.0.0.1:4000</li>
+<li class='same'> 19:25 127.0.0.1:4000</li>
+<li class='same'> 19:24 127.0.0.1:4000</li>
+<li> 19:24 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<li> 19:23 www.reddit.com</li>
+<li> 19:23 duckduckgo.com</li>
+<li> 19:22 www.mothergeek.co.uk</li>
+<li> 19:22 duckduckgo.com</li>
+<li> 18:54 www.amazon.co.uk</li>
+<li class='same'> 18:53 www.amazon.co.uk</li>
+<li> 18:52 www.instructables.com</li>
+<li> 18:52 www.amazon.co.uk</li>
+<li> 18:51 www.jasport.de</li>
+<li> 18:51 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:56 127.0.0.1:4000</li>
+<li class='same'> 17:53 127.0.0.1:4000</li>
+<li class='same'> 17:35 127.0.0.1:4000</li>
+<li class='same'> 17:34 127.0.0.1:4000</li>
+<li> 17:27 web.whatsapp.com</li>
 <li> 17:26 www.thingiverse.com</li>
 <li> 17:24 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 17:12 www.printables.com</li>
