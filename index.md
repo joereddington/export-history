@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1573)</li>
 <li>www.facebook.com (1412)</li>
 <li>duckduckgo.com (1117)</li>
-<li>chatgpt.com (792)</li>
+<li>chatgpt.com (794)</li>
 <li>www.amazon.co.uk (730)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
@@ -88,8 +88,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
 <li>gmail.com (408)</li>
-<li>web.whatsapp.com (352)</li>
-<li>chat.openai.com (312)</li>
+<li>web.whatsapp.com (353)</li>
+<li>chat.openai.com (313)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 08/06/25</H3>
+
+<br>
+
+<ul><li> 17:27 web.whatsapp.com</li>
+<li> 17:26 www.thingiverse.com</li>
+<li> 17:24 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<li> 17:12 www.printables.com</li>
+<li class='same'> 17:11 www.printables.com</li>
+<li class='same'> 17:10 www.printables.com</li>
+<li class='same'> 17:09 www.printables.com</li>
+<li> 17:03 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<li> 16:58 www.printables.com</li>
+<li class='same'> 16:57 www.printables.com</li>
+<li> 16:45 chatgpt.com</li>
+<li class='same'> 16:44 chatgpt.com</li>
+<li> 16:44 chat.openai.com</li>
+</ul>
 
 <br>
 
