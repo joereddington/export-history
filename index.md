@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1412)</li>
 <li>duckduckgo.com (1114)</li>
 <li>chatgpt.com (792)</li>
-<li>www.amazon.co.uk (727)</li>
+<li>www.amazon.co.uk (729)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 08/06/25</H3>
+
+<br>
+
+<ul><li> 14:29 www.amazon.co.uk</li>
+<li class='same'> 14:28 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
