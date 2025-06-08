@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3111)</li>
 <li>mail.google.com (2803)</li>
 <li>outlook.office.com (2601)</li>
-<li>docs.google.com (2050)</li>
-<li>www.reddit.com (1804)</li>
+<li>docs.google.com (2052)</li>
+<li>www.reddit.com (1805)</li>
 <li>outlook.office365.com (1792)</li>
-<li>bsky.app (1572)</li>
-<li>www.facebook.com (1411)</li>
-<li>duckduckgo.com (1109)</li>
+<li>bsky.app (1573)</li>
+<li>www.facebook.com (1412)</li>
+<li>duckduckgo.com (1114)</li>
 <li>chatgpt.com (791)</li>
-<li>www.amazon.co.uk (725)</li>
+<li>www.amazon.co.uk (727)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
@@ -91,12 +91,12 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (351)</li>
 <li>chat.openai.com (311)</li>
 <li>drive.google.com (296)</li>
-<li>feedly.com (288)</li>
+<li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (250)</li>
 <li>qbo.intuit.com (232)</li>
 <li>rhul.sharepoint.com (228)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (210)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (211)</li>
 <li>www.coursera.org (208)</li>
 
 
@@ -104,7 +104,40 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 08/06/25</H3>
+
+<br>
+
+<ul><li> 07:14 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:13 www.reddit.com</li>
+<li> 07:12 docs.google.com</li>
+<li> 07:10 bsky.app</li>
+<li> 07:10 www.sfadb.com</li>
+<li> 07:05 duckduckgo.com</li>
+<li> 06:46 www.amazon.co.uk</li>
+<li> 06:46 www.facebook.com</li>
+<li> 06:45 www.sfadb.com</li>
+<li> 06:45 nebulas.sfwa.org</li>
+<li> 06:44 <a href="https://en.wikipedia.org/wiki/Nebula_Award_for_Best_Novel">Nebula Award for Best Novel - Wikipedia</a></li>
+<li> 06:44 duckduckgo.com</li>
+<li> 06:44 www.sfadb.com</li>
+<li class='same'> 06:43 www.sfadb.com</li>
+<li> 06:43 www.amazon.co.uk</li>
+<li> 06:43 duckduckgo.com</li>
+<li> 06:43 docs.google.com</li>
+<li> 06:42 www.natesilver.net</li>
+<li> 06:41 feedly.com</li>
+<li> 06:41 <a href="https://www.bbc.co.uk/cbeebies/watch/discover-cbbc-shaun-the-sheep-theme-song">Shaun The Sheep - Theme Song - CBeebies</a></li>
+<li> 06:41 duckduckgo.com</li>
+<li> 06:39 shaunthesheep.fandom.com</li>
+<li> 06:39 duckduckgo.com</li>
+</ul>
+
 <H3>Saturday, 07/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
