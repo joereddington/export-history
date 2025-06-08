@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3111)</li>
+<ol><li>www.google.com (3114)</li>
 <li>mail.google.com (2803)</li>
 <li>outlook.office.com (2601)</li>
 <li>docs.google.com (2052)</li>
-<li>www.reddit.com (1805)</li>
+<li>www.reddit.com (1809)</li>
 <li>outlook.office365.com (1792)</li>
 <li>bsky.app (1573)</li>
 <li>www.facebook.com (1412)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
-<li>www.linkedin.com (496)</li>
+<li>www.linkedin.com (498)</li>
 <li>rhul-my.sharepoint.com (478)</li>
 <li>login.microsoftonline.com (435)</li>
 <li>github.com (427)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (250)</li>
 <li>qbo.intuit.com (232)</li>
 <li>rhul.sharepoint.com (228)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (211)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (213)</li>
 <li>www.coursera.org (208)</li>
 
 
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:14 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 08:00 <a href="https://www.theguardian.com/sport/2025/jun/07/simone-biles-riley-gaines-trans-athlete-twitter">Simone Biles slams ‘sore loser’ Riley Gaines over attacks on trans athlete | Simone Biles | The Guardian</a></li>
+<li> 07:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:48 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/07/beckxit-beef-david-victoria-beckham-brooklyn-nicola-anne-peltz">‘They’re perfect – until they aren’t’: why are people so interested in the Beckxit beef? | Celebrity | The Guardian</a></li>
+<li> 07:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:46 <a href="https://www.theguardian.com/us-news/2025/jun/07/trump-national-guard">How can Trump use the national guard on US soil? | Donald Trump | The Guardian</a></li>
+<li> 07:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:39 imgur.com</li>
+<li> 07:37 www.reddit.com</li>
+<li class='same'> 07:36 www.reddit.com</li>
+<li class='same'> 07:34 www.reddit.com</li>
+<li class='same'> 07:33 www.reddit.com</li>
+<li> 07:33 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li class='same'> 07:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:19 www.linkedin.com</li>
+<li class='same'> 07:18 www.linkedin.com</li>
+<li> 07:14 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 07:13 www.reddit.com</li>
 <li> 07:12 docs.google.com</li>
 <li> 07:10 bsky.app</li>
@@ -146,11 +161,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:42 www.reddit.com</li>
 <li> 14:42 www.google.com</li>
 <li> 14:42 tvtropes.org</li>
-</ul>
-
-<br>
-
-<ul><li> 14:08 chatgpt.com</li>
+<li> 14:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:29 <a href="https://www.bbc.co.uk/news/articles/c5ykel5dr62o">China's driverless lorries hope to expand - BBC News</a></li>
+<li> 14:08 chatgpt.com</li>
 </ul>
 
 <br>
@@ -158,6 +171,12 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 13:29 chatgpt.com</li>
 <li class='same'> 13:28 chatgpt.com</li>
 <li> 13:28 chat.openai.com</li>
+<li> 13:08 <a href="https://www.bbc.co.uk/news/articles/c5ykel5dr62o">China's driverless lorries hope to expand - BBC News</a></li>
+<li> 13:07 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 13:07 <a href="https://www.bbc.co.uk/news/articles/ckgxk40ndk1o">Who will be the next Pope? Top candidates in an unpredictable process - BBC News</a></li>
+<li> 13:07 www.google.com</li>
+<li class='same'> 13:06 www.google.com</li>
+<li class='same'> 13:05 www.google.com</li>
 <li> 13:02 <a href="https://www.theguardian.com/technology/2025/jun/07/trump-musk-feud-power">The Trump-Musk feud shows danger of handing the keys of power to one person | Elon Musk | The Guardian</a></li>
 <li> 13:02 www.google.com</li>
 <li> 13:02 www.buzzfeed.com</li>
