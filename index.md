@@ -74,11 +74,11 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2053)</li>
 <li>www.reddit.com (1815)</li>
 <li>outlook.office365.com (1792)</li>
-<li>bsky.app (1573)</li>
+<li>bsky.app (1574)</li>
 <li>www.facebook.com (1412)</li>
-<li>duckduckgo.com (1124)</li>
+<li>duckduckgo.com (1125)</li>
 <li>chatgpt.com (796)</li>
-<li>www.amazon.co.uk (735)</li>
+<li>www.amazon.co.uk (739)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:34 detailspin.com</li>
+<ul><li> 21:01 www.buzzfeed.com</li>
+<li class='same'> 20:59 www.buzzfeed.com</li>
+<li class='same'> 20:57 www.buzzfeed.com</li>
+<li> 20:57 duckduckgo.com</li>
+<li> 20:55 <a href="https://www.theguardian.com/world/2025/jun/08/israel-katz-threatens-to-use-all-necessary-measures-to-stop-gaza-bound-aid-ship">IDF ordered to stop Gaza-bound aid ship carrying Greta Thunberg | Israel-Gaza war | The Guardian</a></li>
+<li> 20:55 <a href="https://www.theguardian.com/environment/2025/jun/08/campaigners-hail-plan-to-ban-bottom-trawling-in-half-of-englands-protected-seas">Campaigners hail plan to ban bottom trawling in half of England’s protected seas | Fishing | The Guardian</a></li>
+<li> 20:54 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/08/this-is-how-we-do-it-we-live-in-a-tiny-flat-with-our-kids-so-we-have-sex-in-the-woods-at-night">This is how we do it: ‘We live in a tiny flat with our kids, so we have sex in the woods at night’ | Life and style | The Guardian</a></li>
+<li> 20:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:53 <a href="https://www.theguardian.com/">Trump v Musk: world’s two worst people are finally having a big, beautiful breakup | Arwa Mahdawi | The Guardian</a></li>
+<li> 20:53 bsky.app</li>
+<li> 20:50 www.amazon.co.uk</li>
+<li class='same'> 20:49 www.amazon.co.uk</li>
+<li> 20:48 <a href="https://www.youtube.com/watch?v=dvFS_ZEzwKg">Adam Savage's Favorite Tools: Automatic Wire Strippers - YouTube</a></li>
+<li> 20:47 <a href="https://www.youtube.com/results?search_query=wire+strippers+">wire strippers - YouTube</a></li>
+<li> 20:47 www.amazon.co.uk</li>
+<li> 20:47 <a href="https://www.youtube.com/watch?v=6WReFkfrUIk">How to Use a Breadboard - YouTube</a></li>
+<li> 20:47 www.amazon.co.uk</li>
+<li> 20:47 geni.us</li>
+<li> 20:42 <a href="https://www.youtube.com/watch?v=jET1QTP1B7c">Dupont Connectors - Quickly and easily make your own - YouTube</a></li>
+<li> 20:42 <a href="https://www.youtube.com/results?search_query=crimping+wires+for+arduino">crimping wires for arduino - YouTube</a></li>
+<li> 20:40 <a href="https://www.youtube.com/watch?v=cqyYBua4pX4">How you can use Wire Ferrules (Why We Need Them!) - YouTube</a></li>
+<li> 20:40 <a href="https://www.youtube.com/results?search_query=crimping+wires">crimping wires - YouTube</a></li>
+<li> 20:39 <a href="https://www.youtube.com/">YouTube</a></li>
+<li> 20:34 detailspin.com</li>
 <li> 20:32 duckduckgo.com</li>
 <li> 20:31 arduino.stackexchange.com</li>
 <li> 20:31 forum.arduino.cc</li>
