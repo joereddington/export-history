@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1792)</li>
 <li>bsky.app (1573)</li>
 <li>www.facebook.com (1412)</li>
-<li>duckduckgo.com (1120)</li>
-<li>chatgpt.com (794)</li>
-<li>www.amazon.co.uk (733)</li>
+<li>duckduckgo.com (1124)</li>
+<li>chatgpt.com (796)</li>
+<li>www.amazon.co.uk (735)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (508)</li>
@@ -89,14 +89,14 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (421)</li>
 <li>gmail.com (408)</li>
 <li>web.whatsapp.com (353)</li>
-<li>chat.openai.com (313)</li>
+<li>chat.openai.com (314)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (250)</li>
 <li>qbo.intuit.com (232)</li>
 <li>rhul.sharepoint.com (228)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (214)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (215)</li>
 <li>www.coursera.org (208)</li>
 
 
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:30 127.0.0.1:4000</li>
+<ul><li> 20:34 detailspin.com</li>
+<li> 20:32 duckduckgo.com</li>
+<li> 20:31 arduino.stackexchange.com</li>
+<li> 20:31 forum.arduino.cc</li>
+<li class='same'> 20:30 forum.arduino.cc</li>
+<li> 20:30 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:54 duckduckgo.com</li>
+<li> 19:54 www.amazon.co.uk</li>
+<li class='same'> 19:53 www.amazon.co.uk</li>
+<li> 19:53 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
+<li> 19:50 duckduckgo.com</li>
+<li> 19:47 127.0.0.1:4000</li>
+<li> 19:47 pay.ebay.co.uk</li>
+<li> 19:46 www.paypal.com</li>
+<li> 19:46 pay.ebay.co.uk</li>
+<li> 19:46 www.ebay.co.uk</li>
+<li class='same'> 19:45 www.ebay.co.uk</li>
+<li> 19:44 chatgpt.com</li>
+<li class='same'> 19:43 chatgpt.com</li>
+<li> 19:43 chat.openai.com</li>
+<li> 19:42 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 19:41 127.0.0.1:4000</li>
+<li> 19:39 www.cs.rhul.ac.uk</li>
+<li> 19:39 127.0.0.1:4000</li>
+<li> 19:37 <a href="https://joereddington.com/2100/2014/02/07/threedayweek-4/">Joe Reddington | Things I make.</a></li>
+<li> 19:37 127.0.0.1:4000</li>
+<li class='same'> 19:35 127.0.0.1:4000</li>
+<li class='same'> 19:30 127.0.0.1:4000</li>
 <li class='same'> 19:29 127.0.0.1:4000</li>
 <li class='same'> 19:28 127.0.0.1:4000</li>
 <li class='same'> 19:25 127.0.0.1:4000</li>
