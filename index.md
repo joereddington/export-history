@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3117)</li>
 <li>mail.google.com (2803)</li>
-<li>outlook.office.com (2609)</li>
+<li>outlook.office.com (2615)</li>
 <li>docs.google.com (2055)</li>
 <li>www.reddit.com (1817)</li>
 <li>outlook.office365.com (1809)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:34 www.google.com</li>
+<ul><li> 14:49 outlook.office.com</li>
+<li class='same'> 14:48 outlook.office.com</li>
+<li class='same'> 14:44 outlook.office.com</li>
+<li class='same'> 14:41 outlook.office.com</li>
+<li class='same'> 14:40 outlook.office.com</li>
+<li class='same'> 14:39 outlook.office.com</li>
+<li> 14:39 herts.instructure.com</li>
+<li class='same'> 14:38 herts.instructure.com</li>
+<li class='same'> 14:37 herts.instructure.com</li>
+<li> 14:37 adfs.herts.ac.uk</li>
+<li> 14:37 herts.instructure.com</li>
+<li> 14:34 www.google.com</li>
 <li> 14:25 www.amazon.co.uk</li>
 <li> 14:25 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:22 outlook.office.com</li>
