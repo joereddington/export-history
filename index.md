@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3114)</li>
+<ol><li>www.google.com (3116)</li>
 <li>mail.google.com (2803)</li>
 <li>outlook.office.com (2601)</li>
 <li>docs.google.com (2053)</li>
@@ -104,7 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 09/06/25</H3>
+
+<br>
+
+<ul><li> 06:46 <a href="https://www.bbc.co.uk/news/articles/cdedjnw8e85o">The huge sums energy firms get to NOT provide power - BBC News</a></li>
+<li> 06:45 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:44 <a href="https://www.bbc.co.uk/sport/football/articles/cn8zldjnzpro">Pelly-Ruddock Mpanzu: Luton Town legend to leave the club - BBC Sport</a></li>
+<li> 06:44 <a href="https://www.theguardian.com/world/2025/jun/09/ukraine-war-briefing-poland-airspace-russia-airstrikes">Ukraine war briefing: Poland scrambles planes to secure airspace as Russia targets western Ukraine | Ukraine | The Guardian</a></li>
+<li> 06:42 <a href="https://www.theguardian.com/world/2025/jun/08/russian-forces-closing-in-on-sumy-city-three-years-after-ukraine-forced-them-out-of-region">Russian forces closing in on Sumy city three years after Ukraine forced them out of region | Ukraine | The Guardian</a></li>
+<li> 06:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:32 <a href="https://www.theguardian.com/books/2025/jun/08/erica-jong-child-molly-jong-fast-growing-up">My mother was a famous feminist writer known for her candour and wit. But she was also a fantasist who couldn’t be bothered to spend time raising me | Autobiography and memoir | The Guardian</a></li>
+<li> 06:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:31 <a href="https://www.theguardian.com/world/2025/jun/09/gaza-aid-boat-madleen-israel-greta-thunberg-freedom-flotilla-coalition">Israeli forces take control of Gaza aid boat carrying Greta Thunberg | Israel | The Guardian</a></li>
+<li> 06:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:30 nebulas.sfwa.org</li>
+</ul>
+
 <H3>Sunday, 08/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -227,6 +248,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 13:47 nebulas.sfwa.org</li>
+<li class='same'> 13:46 nebulas.sfwa.org</li>
+<li> 13:46 www.google.com</li>
+<li class='same'> 13:45 www.google.com</li>
+<li> 13:45 www.sfadb.com</li>
+<li class='same'> 13:42 www.sfadb.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:12 chatgpt.com</li>
 <li> 11:12 chat.openai.com</li>
 <li> 11:03 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
@@ -250,7 +281,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:00 <a href="https://www.theguardian.com/sport/2025/jun/07/simone-biles-riley-gaines-trans-athlete-twitter">Simone Biles slams ‘sore loser’ Riley Gaines over attacks on trans athlete | Simone Biles | The Guardian</a></li>
+<ul><li> 08:02 <a href="https://www.theguardian.com/world/2025/jun/08/colombian-presidential-candidate-miguel-uribe-shot-at-campaign-event">Colombian presidential candidate Miguel Uribe shot at campaign event | Colombia | The Guardian</a></li>
+<li> 08:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:00 <a href="https://www.theguardian.com/sport/2025/jun/07/simone-biles-riley-gaines-trans-athlete-twitter">Simone Biles slams ‘sore loser’ Riley Gaines over attacks on trans athlete | Simone Biles | The Guardian</a></li>
 <li> 07:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:48 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/07/beckxit-beef-david-victoria-beckham-brooklyn-nicola-anne-peltz">‘They’re perfect – until they aren’t’: why are people so interested in the Beckxit beef? | Celebrity | The Guardian</a></li>
 <li> 07:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
