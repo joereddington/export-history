@@ -73,8 +73,8 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2601)</li>
 <li>docs.google.com (2053)</li>
 <li>www.reddit.com (1815)</li>
-<li>outlook.office365.com (1792)</li>
-<li>bsky.app (1574)</li>
+<li>outlook.office365.com (1796)</li>
+<li>bsky.app (1575)</li>
 <li>www.facebook.com (1412)</li>
 <li>duckduckgo.com (1125)</li>
 <li>chatgpt.com (796)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (508)</li>
 <li>www.linkedin.com (500)</li>
 <li>rhul-my.sharepoint.com (478)</li>
-<li>login.microsoftonline.com (435)</li>
+<li>login.microsoftonline.com (436)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
 <li>gmail.com (408)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (250)</li>
 <li>qbo.intuit.com (232)</li>
-<li>rhul.sharepoint.com (228)</li>
+<li>rhul.sharepoint.com (229)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (215)</li>
 <li>www.coursera.org (208)</li>
 
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 09/06/25</H3>
+
+<br>
+
+<ul><li> 09:33 rhul.sharepoint.com</li>
+<li> 09:33 outlook.office365.com</li>
+<li class='same'> 09:29 outlook.office365.com</li>
+<li class='same'> 09:28 outlook.office365.com</li>
+<li> 09:28 login.microsoftonline.com</li>
+<li> 09:28 outlook.office365.com</li>
+<li> 09:27 bsky.app</li>
+<li> 09:15 <a href="https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html">Saving Keystokes, Baby Advice | Joe Reddington</a></li>
+<li> 09:15 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+</ul>
+
+<br>
+
+<ul><li> 08:13 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+</ul>
 
 <br>
 
