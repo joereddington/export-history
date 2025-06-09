@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3116)</li>
+<ol><li>www.google.com (3117)</li>
 <li>mail.google.com (2803)</li>
-<li>outlook.office.com (2607)</li>
-<li>docs.google.com (2054)</li>
-<li>www.reddit.com (1815)</li>
-<li>outlook.office365.com (1804)</li>
+<li>outlook.office.com (2609)</li>
+<li>docs.google.com (2055)</li>
+<li>www.reddit.com (1817)</li>
+<li>outlook.office365.com (1809)</li>
 <li>bsky.app (1575)</li>
 <li>www.facebook.com (1412)</li>
-<li>duckduckgo.com (1125)</li>
-<li>chatgpt.com (796)</li>
-<li>www.amazon.co.uk (739)</li>
+<li>duckduckgo.com (1126)</li>
+<li>chatgpt.com (797)</li>
+<li>www.amazon.co.uk (740)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
-<li>moodle.royalholloway.ac.uk (508)</li>
+<li>moodle.royalholloway.ac.uk (510)</li>
 <li>www.linkedin.com (500)</li>
 <li>rhul-my.sharepoint.com (478)</li>
-<li>login.microsoftonline.com (438)</li>
+<li>login.microsoftonline.com (440)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
 <li>gmail.com (408)</li>
 <li>web.whatsapp.com (353)</li>
-<li>chat.openai.com (314)</li>
+<li>chat.openai.com (315)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (250)</li>
 <li>qbo.intuit.com (232)</li>
 <li>rhul.sharepoint.com (229)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (215)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (216)</li>
 <li>www.coursera.org (208)</li>
 
 
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:33 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<ul><li> 14:34 www.google.com</li>
+<li> 14:25 www.amazon.co.uk</li>
+<li> 14:25 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:22 outlook.office.com</li>
+<li> 14:22 www.giantitp.com</li>
+<li> 14:22 outlook.office365.com</li>
+<li> 14:21 www.reddit.com</li>
+<li class='same'> 14:13 www.reddit.com</li>
+<li> 14:10 outlook.office365.com</li>
+<li> 14:10 outlook.office.com</li>
+<li> 14:10 outlook.office365.com</li>
+<li class='same'> 14:09 outlook.office365.com</li>
+<li> 14:01 moodle.royalholloway.ac.uk</li>
+<li> 14:01 login.microsoftonline.com</li>
+<li> 14:01 moodle.royalholloway.ac.uk</li>
+<li> 14:01 login.microsoftonline.com</li>
+<li> 13:58 outlook.office365.com</li>
+<li> 13:57 chatgpt.com</li>
+<li> 13:57 chat.openai.com</li>
+<li> 13:51 duckduckgo.com</li>
+<li> 13:48 docs.google.com</li>
+<li> 13:33 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:33 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:30 docs.google.com</li>
 <li> 13:29 outlook.office365.com</li>
@@ -156,6 +177,7 @@ With number of accesses/minutes in parentheses
 <li> 09:28 login.microsoftonline.com</li>
 <li> 09:28 outlook.office365.com</li>
 <li> 09:27 bsky.app</li>
+<li> 09:15 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:15 <a href="https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html">Saving Keystokes, Baby Advice | Joe Reddington</a></li>
 <li> 09:15 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 </ul>
