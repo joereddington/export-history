@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3116)</li>
 <li>mail.google.com (2803)</li>
-<li>outlook.office.com (2601)</li>
-<li>docs.google.com (2053)</li>
+<li>outlook.office.com (2607)</li>
+<li>docs.google.com (2054)</li>
 <li>www.reddit.com (1815)</li>
-<li>outlook.office365.com (1800)</li>
+<li>outlook.office365.com (1804)</li>
 <li>bsky.app (1575)</li>
 <li>www.facebook.com (1412)</li>
 <li>duckduckgo.com (1125)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (508)</li>
 <li>www.linkedin.com (500)</li>
 <li>rhul-my.sharepoint.com (478)</li>
-<li>login.microsoftonline.com (436)</li>
+<li>login.microsoftonline.com (438)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
 <li>gmail.com (408)</li>
@@ -105,6 +105,33 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 09/06/25</H3>
+
+<br>
+
+<ul><li> 13:33 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 13:33 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 13:30 docs.google.com</li>
+<li> 13:29 outlook.office365.com</li>
+<li class='same'> 13:24 outlook.office365.com</li>
+<li class='same'> 13:23 outlook.office365.com</li>
+<li> 12:55 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:05 outlook.office.com</li>
+<li class='same'> 12:01 outlook.office.com</li>
+<li> 12:01 outlook.office365.com</li>
+<li> 12:01 outlook.office.com</li>
+<li class='same'> 12:00 outlook.office.com</li>
+<li class='same'> 11:59 outlook.office.com</li>
+<li> 11:59 login.microsoftonline.com</li>
+<li> 11:59 m365.cloud.microsoft</li>
+<li> 11:59 login.microsoftonline.com</li>
+<li> 11:59 adfs.herts.ac.uk</li>
+<li> 11:59 api-b6327e78.duosecurity.com</li>
+<li> 11:59 adfs.herts.ac.uk</li>
+</ul>
 
 <br>
 
