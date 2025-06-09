@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3117)</li>
-<li>mail.google.com (2808)</li>
+<li>mail.google.com (2810)</li>
 <li>outlook.office.com (2619)</li>
 <li>docs.google.com (2055)</li>
 <li>www.reddit.com (1822)</li>
-<li>outlook.office365.com (1816)</li>
+<li>outlook.office365.com (1817)</li>
 <li>bsky.app (1575)</li>
 <li>www.facebook.com (1412)</li>
 <li>duckduckgo.com (1126)</li>
-<li>chatgpt.com (797)</li>
-<li>www.amazon.co.uk (740)</li>
+<li>chatgpt.com (799)</li>
+<li>www.amazon.co.uk (741)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (511)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (441)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
-<li>gmail.com (409)</li>
+<li>gmail.com (410)</li>
 <li>web.whatsapp.com (354)</li>
 <li>chat.openai.com (315)</li>
 <li>drive.google.com (298)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 09/06/25</H3>
+
+<br>
+
+<ul><li> 20:28 www.amazon.co.uk</li>
+<li> 20:28 outlook.office365.com</li>
+<li> 20:26 <a href="https://www.youtube.com/watch?v=GZOh1NzqzzU">Guide to crimp connectors on 3D printers - Take your wiring to the next level! - YouTube</a></li>
+<li> 20:07 <a href="https://www.youtube.com/watch?v=MGt8cnVIKW8">3D Printing 101: How To Fix a Clogged Nozzle Using a Cold Pull! - YouTube</a></li>
+<li> 20:07 <a href="https://www.youtube.com/results?search_query=cold+pull">cold pull - YouTube</a></li>
+<li> 20:06 <a href="https://www.youtube.com/">YouTube</a></li>
+<li> 20:05 mail.google.com</li>
+<li class='same'> 20:04 mail.google.com</li>
+<li> 20:04 gmail.com</li>
+<li> 20:04 chatgpt.com</li>
+<li class='same'> 20:03 chatgpt.com</li>
+</ul>
 
 <br>
 
