@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3117)</li>
-<li>mail.google.com (2803)</li>
-<li>outlook.office.com (2615)</li>
+<li>mail.google.com (2808)</li>
+<li>outlook.office.com (2619)</li>
 <li>docs.google.com (2055)</li>
-<li>www.reddit.com (1817)</li>
-<li>outlook.office365.com (1809)</li>
+<li>www.reddit.com (1822)</li>
+<li>outlook.office365.com (1816)</li>
 <li>bsky.app (1575)</li>
 <li>www.facebook.com (1412)</li>
 <li>duckduckgo.com (1126)</li>
@@ -81,14 +81,14 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (740)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
-<li>moodle.royalholloway.ac.uk (510)</li>
+<li>moodle.royalholloway.ac.uk (511)</li>
 <li>www.linkedin.com (500)</li>
 <li>rhul-my.sharepoint.com (478)</li>
-<li>login.microsoftonline.com (440)</li>
+<li>login.microsoftonline.com (441)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
-<li>gmail.com (408)</li>
-<li>web.whatsapp.com (353)</li>
+<li>gmail.com (409)</li>
+<li>web.whatsapp.com (354)</li>
 <li>chat.openai.com (315)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:49 outlook.office.com</li>
+<ul><li> 18:09 outlook.office365.com</li>
+<li class='same'> 18:07 outlook.office365.com</li>
+<li> 18:06 mail.google.com</li>
+<li class='same'> 17:54 mail.google.com</li>
+<li> 17:52 www.reddit.com</li>
+<li> 17:52 mail.google.com</li>
+<li class='same'> 17:51 mail.google.com</li>
+<li> 17:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:51 <a href="https://www.theguardian.com/">Trump v Musk: world’s two worst people are finally having a big, beautiful breakup | Arwa Mahdawi | The Guardian</a></li>
+<li> 17:51 www.reddit.com</li>
+<li class='same'> 17:50 www.reddit.com</li>
+<li class='same'> 17:46 www.reddit.com</li>
+<li class='same'> 17:45 www.reddit.com</li>
+<li> 17:45 mail.google.com</li>
+<li> 17:45 gmail.com</li>
+<li> 17:44 outlook.office365.com</li>
+<li class='same'> 17:43 outlook.office365.com</li>
+<li> 17:43 moodle.royalholloway.ac.uk</li>
+<li> 17:42 outlook.office365.com</li>
+<li class='same'> 17:41 outlook.office365.com</li>
+<li> 17:41 login.microsoftonline.com</li>
+<li> 17:41 outlook.office365.com</li>
+<li> 17:41 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:10 outlook.office.com</li>
+<li class='same'> 15:07 outlook.office.com</li>
+<li class='same'> 15:05 outlook.office.com</li>
+<li class='same'> 15:04 outlook.office.com</li>
+<li class='same'> 14:49 outlook.office.com</li>
 <li class='same'> 14:48 outlook.office.com</li>
 <li class='same'> 14:44 outlook.office.com</li>
 <li class='same'> 14:41 outlook.office.com</li>
