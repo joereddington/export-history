@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3119)</li>
-<li>mail.google.com (2813)</li>
+<li>mail.google.com (2812)</li>
 <li>outlook.office.com (2639)</li>
 <li>docs.google.com (2055)</li>
 <li>www.reddit.com (1852)</li>
@@ -83,8 +83,8 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (538)</li>
 <li>moodle.royalholloway.ac.uk (513)</li>
 <li>www.linkedin.com (500)</li>
-<li>rhul-my.sharepoint.com (479)</li>
-<li>login.microsoftonline.com (447)</li>
+<li>rhul-my.sharepoint.com (477)</li>
+<li>login.microsoftonline.com (445)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
 <li>gmail.com (411)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (250)</li>
 <li>rhul.sharepoint.com (232)</li>
-<li>qbo.intuit.com (232)</li>
+<li>qbo.intuit.com (231)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (216)</li>
 <li>www.coursera.org (208)</li>
 
@@ -17153,7 +17153,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:31 www.reddit.com</li>
 <li> 17:07 <a href="https://www.youtube.com/watch?v=01yrdTmJ7BE">(246) The More We Get Together on the Piano (2 Hands) | Easy Piano Tutorial for Beginners - YouTube</a></li>
 <li> 17:00 <a href="https://www.youtube.com/watch?v=nIrvS12F3uw&t=8s">(246) The Muffin Man on the Piano (2 Hands) | Easy Piano Tutorial for Beginners - YouTube</a></li>
-<li> 17:00 <a href="https://www.youtube.com/watch?time_continue=8&v=nIrvS12F3uw&embeds_referring_euri=https%3A%2F%2Fwww.singing-bell.com%2F&source_ve_path=Mjg2NjIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMzY4NDIsMjg2NjY">The Muffin Man on the Piano (2 Hands) | Easy Piano Tutorial for Beginners - YouTube</a></li>
 <li> 16:52 www.singing-bell.com</li>
 <li> 16:51 chatgpt.com</li>
 <li> 16:49 www.singing-bell.com</li>
@@ -17255,8 +17254,6 @@ With number of accesses/minutes in parentheses
 <li> 12:32 gmail.com</li>
 <li> 12:30 mail.google.com</li>
 <li> 12:30 qbo.intuit.com</li>
-<li> 12:30 financialdocument.platform.intuit.com</li>
-<li> 12:30 qbo.intuit.com</li>
 <li class='same'> 12:29 qbo.intuit.com</li>
 <li> 12:28 mail.google.com</li>
 <li> 12:28 qbo.intuit.com</li>
@@ -17275,8 +17272,6 @@ With number of accesses/minutes in parentheses
 <li> 12:17 gmail.com</li>
 <li> 12:17 mail.google.com</li>
 <li> 12:17 gmail.com</li>
-<li> 12:15 mail.google.com</li>
-<li> 12:15 accounts.google.com</li>
 <li> 12:15 mail.google.com</li>
 <li> 12:15 accounts.google.com</li>
 <li> 12:15 gmail.com</li>
@@ -17397,10 +17392,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:12 www.darkskytelescopehire.co.uk</li>
 <li> 10:12 mail.google.com</li>
 <li> 10:12 outlook.office.com</li>
-<li> 10:11 rhul-my.sharepoint.com</li>
-<li> 10:10 login.microsoftonline.com</li>
-<li> 10:10 forms.office.com</li>
-<li> 10:10 rhul-my.sharepoint.com</li>
 <li> 10:10 forms.office.com</li>
 <li> 10:10 login.microsoftonline.com</li>
 <li> 10:10 forms.office.com</li>
@@ -17411,8 +17402,7 @@ With number of accesses/minutes in parentheses
 <li> 10:08 mail.google.com</li>
 <li> 10:08 calendar.google.com</li>
 <li> 10:08 mail.google.com</li>
-<li> 10:07 www.google.co.uk</li>
-<li class='same'> 10:06 www.google.co.uk</li>
+<li> 10:06 www.google.co.uk</li>
 <li> 10:06 duckduckgo.com</li>
 <li> 10:06 mail.google.com</li>
 <li class='same'> 10:05 mail.google.com</li>
@@ -17529,8 +17519,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:47 outlook.office.com</li>
 <li class='same'> 06:46 outlook.office.com</li>
 <li class='same'> 06:45 outlook.office.com</li>
-<li> 06:45 myaccount.microsoft.com</li>
-<li> 06:45 login.microsoftonline.com</li>
 <li> 06:45 myaccount.microsoft.com</li>
 <li> 06:45 teams.microsoft.com</li>
 <li> 06:45 outlook.office.com</li>
