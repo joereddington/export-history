@@ -70,25 +70,25 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3120)</li>
 <li>mail.google.com (2812)</li>
-<li>outlook.office.com (2639)</li>
-<li>docs.google.com (2055)</li>
-<li>www.reddit.com (1852)</li>
-<li>outlook.office365.com (1852)</li>
+<li>outlook.office.com (2645)</li>
+<li>docs.google.com (2058)</li>
+<li>outlook.office365.com (1861)</li>
+<li>www.reddit.com (1856)</li>
 <li>bsky.app (1575)</li>
 <li>www.facebook.com (1412)</li>
-<li>duckduckgo.com (1133)</li>
+<li>duckduckgo.com (1134)</li>
 <li>chatgpt.com (805)</li>
 <li>www.amazon.co.uk (743)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (538)</li>
 <li>moodle.royalholloway.ac.uk (513)</li>
 <li>www.linkedin.com (500)</li>
-<li>rhul-my.sharepoint.com (477)</li>
-<li>login.microsoftonline.com (447)</li>
+<li>rhul-my.sharepoint.com (478)</li>
+<li>login.microsoftonline.com (449)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
 <li>gmail.com (411)</li>
-<li>web.whatsapp.com (359)</li>
+<li>web.whatsapp.com (360)</li>
 <li>chat.openai.com (318)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:29 intranet.royalholloway.ac.uk</li>
+<ul><li> 15:25 outlook.office365.com</li>
+<li class='same'> 15:17 outlook.office365.com</li>
+<li class='same'> 15:13 outlook.office365.com</li>
+<li class='same'> 15:12 outlook.office365.com</li>
+<li> 15:11 web.whatsapp.com</li>
+<li> 15:11 outlook.office.com</li>
+<li class='same'> 15:09 outlook.office.com</li>
+<li class='same'> 15:08 outlook.office.com</li>
+<li class='same'> 15:07 outlook.office.com</li>
+<li> 15:07 ask.herts.ac.uk</li>
+<li> 15:07 studynet.herts.ac.uk</li>
+<li> 15:07 login.microsoftonline.com</li>
+<li> 15:07 www.studynet.herts.ac.uk</li>
+<li> 15:07 studynet.herts.ac.uk</li>
+<li> 15:07 www.studyrooms.herts.ac.uk</li>
+<li> 15:06 ask.herts.ac.uk</li>
+<li> 15:06 duckduckgo.com</li>
+<li> 15:06 outlook.office.com</li>
+<li class='same'> 15:05 outlook.office.com</li>
+<li> 15:05 m365.cloud.microsoft</li>
+<li class='same'> 15:04 m365.cloud.microsoft</li>
+<li> 15:04 login.microsoftonline.com</li>
+<li> 15:04 adfs.herts.ac.uk</li>
+<li> 15:04 outlook.office365.com</li>
+<li> 15:01 www.reddit.com</li>
+<li class='same'> 15:00 www.reddit.com</li>
+<li class='same'> 14:59 www.reddit.com</li>
+<li class='same'> 14:57 www.reddit.com</li>
+<li> 14:57 outlook.office365.com</li>
+<li class='same'> 14:56 outlook.office365.com</li>
+<li class='same'> 14:55 outlook.office365.com</li>
+<li> 14:49 docs.google.com</li>
+<li class='same'> 14:48 docs.google.com</li>
+<li class='same'> 14:47 docs.google.com</li>
+<li> 14:36 rhul-my.sharepoint.com</li>
+<li> 14:36 outlook.office365.com</li>
+<li> 14:29 intranet.royalholloway.ac.uk</li>
 <li> 14:29 duckduckgo.com</li>
 <li> 14:27 outlook.office365.com</li>
 <li class='same'> 14:26 outlook.office365.com</li>
