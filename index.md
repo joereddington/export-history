@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2812)</li>
 <li>outlook.office.com (2645)</li>
 <li>docs.google.com (2058)</li>
-<li>outlook.office365.com (1861)</li>
+<li>outlook.office365.com (1863)</li>
 <li>www.reddit.com (1856)</li>
 <li>bsky.app (1575)</li>
 <li>www.facebook.com (1412)</li>
 <li>duckduckgo.com (1134)</li>
-<li>chatgpt.com (805)</li>
-<li>www.amazon.co.uk (743)</li>
+<li>chatgpt.com (807)</li>
+<li>www.amazon.co.uk (746)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (538)</li>
 <li>moodle.royalholloway.ac.uk (513)</li>
@@ -89,12 +89,12 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (421)</li>
 <li>gmail.com (411)</li>
 <li>web.whatsapp.com (360)</li>
-<li>chat.openai.com (318)</li>
+<li>chat.openai.com (319)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (250)</li>
-<li>rhul.sharepoint.com (232)</li>
+<li>rhul.sharepoint.com (233)</li>
 <li>qbo.intuit.com (231)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (216)</li>
 <li>www.coursera.org (208)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:25 outlook.office365.com</li>
+<ul><li> 19:30 www.printables.com</li>
+<li> 19:30 chatgpt.com</li>
+<li class='same'> 19:29 chatgpt.com</li>
+<li> 19:29 chat.openai.com</li>
+<li> 19:28 www.printables.com</li>
+<li class='same'> 19:22 www.printables.com</li>
+<li class='same'> 19:21 www.printables.com</li>
+<li> 19:21 www.amazon.co.uk</li>
+<li> 19:20 www.printables.com</li>
+<li> 19:20 www.thingiverse.com</li>
+<li class='same'> 19:19 www.thingiverse.com</li>
+<li class='same'> 19:18 www.thingiverse.com</li>
+<li> 19:15 www.amazon.co.uk</li>
+<li class='same'> 19:14 www.amazon.co.uk</li>
+<li> 19:14 kdpreports.amazon.com</li>
+<li> 19:14 kdp.amazon.com</li>
+<li> 19:14 outlook.office365.com</li>
+<li> 19:13 rhul.sharepoint.com</li>
+<li> 19:13 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:25 outlook.office365.com</li>
 <li class='same'> 15:17 outlook.office365.com</li>
 <li class='same'> 15:13 outlook.office365.com</li>
 <li class='same'> 15:12 outlook.office365.com</li>
