@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3119)</li>
+<ol><li>www.google.com (3120)</li>
 <li>mail.google.com (2812)</li>
 <li>outlook.office.com (2639)</li>
 <li>docs.google.com (2055)</li>
 <li>www.reddit.com (1852)</li>
-<li>outlook.office365.com (1846)</li>
+<li>outlook.office365.com (1852)</li>
 <li>bsky.app (1575)</li>
 <li>www.facebook.com (1412)</li>
-<li>duckduckgo.com (1130)</li>
+<li>duckduckgo.com (1133)</li>
 <li>chatgpt.com (805)</li>
 <li>www.amazon.co.uk (743)</li>
 <li>www.theguardian.com (685)</li>
@@ -84,11 +84,11 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (513)</li>
 <li>www.linkedin.com (500)</li>
 <li>rhul-my.sharepoint.com (477)</li>
-<li>login.microsoftonline.com (446)</li>
+<li>login.microsoftonline.com (447)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
 <li>gmail.com (411)</li>
-<li>web.whatsapp.com (358)</li>
+<li>web.whatsapp.com (359)</li>
 <li>chat.openai.com (318)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:57 outlook.office365.com</li>
+<ul><li> 14:29 intranet.royalholloway.ac.uk</li>
+<li> 14:29 duckduckgo.com</li>
+<li> 14:27 outlook.office365.com</li>
+<li class='same'> 14:26 outlook.office365.com</li>
+<li class='same'> 14:25 outlook.office365.com</li>
+<li> 14:03 m365.cloud.microsoft</li>
+<li> 14:03 login.microsoftonline.com</li>
+<li> 14:03 adfs.herts.ac.uk</li>
+<li> 14:02 www.google.com</li>
+<li> 14:02 duckduckgo.com</li>
+<li class='same'> 14:01 duckduckgo.com</li>
+<li> 14:00 web.whatsapp.com</li>
+<li> 14:00 adfs.herts.ac.uk</li>
+<li> 13:59 outlook.office365.com</li>
+<li class='same'> 13:58 outlook.office365.com</li>
+<li class='same'> 13:57 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:57 outlook.office365.com</li>
 <li class='same'> 12:56 outlook.office365.com</li>
 <li> 12:47 m365.cloud.microsoft</li>
 <li> 12:47 login.microsoftonline.com</li>
