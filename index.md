@@ -73,12 +73,12 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2619)</li>
 <li>docs.google.com (2055)</li>
 <li>www.reddit.com (1850)</li>
-<li>outlook.office365.com (1819)</li>
+<li>outlook.office365.com (1820)</li>
 <li>bsky.app (1575)</li>
 <li>www.facebook.com (1412)</li>
-<li>duckduckgo.com (1126)</li>
-<li>chatgpt.com (799)</li>
-<li>www.amazon.co.uk (741)</li>
+<li>duckduckgo.com (1127)</li>
+<li>chatgpt.com (800)</li>
+<li>www.amazon.co.uk (743)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (534)</li>
 <li>moodle.royalholloway.ac.uk (511)</li>
@@ -88,14 +88,14 @@ With number of accesses/minutes in parentheses
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
 <li>gmail.com (410)</li>
-<li>web.whatsapp.com (354)</li>
-<li>chat.openai.com (315)</li>
+<li>web.whatsapp.com (355)</li>
+<li>chat.openai.com (316)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (250)</li>
 <li>qbo.intuit.com (232)</li>
-<li>rhul.sharepoint.com (229)</li>
+<li>rhul.sharepoint.com (230)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (216)</li>
 <li>www.coursera.org (208)</li>
 
@@ -104,11 +104,39 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 10/06/25</H3>
+
+<br>
+
+<ul><li> 09:30 www.amazon.co.uk</li>
+<li class='same'> 09:29 www.amazon.co.uk</li>
+<li> 09:28 chatgpt.com</li>
+<li> 09:28 chat.openai.com</li>
+<li> 09:23 www.thingiverse.com</li>
+<li> 09:23 community.ultimaker.com</li>
+<li> 09:23 duckduckgo.com</li>
+<li> 09:20 web.whatsapp.com</li>
+<li> 09:17 api-b6327e78.duosecurity.com</li>
+<li> 09:17 adfs.herts.ac.uk</li>
+<li> 09:17 rhul.sharepoint.com</li>
+<li> 09:16 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 05:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
 <H3>Monday, 09/06/25</H3>
 
 <br>
 
-<ul><li> 21:39 <a href="https://www.theguardian.com/world/2025/jun/09/nato-chief-russia-quantum-leap-defence">Russia could be ready to attack Nato within five years, says secretary general | Nato | The Guardian</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:41 <a href="https://www.theguardian.com/world/2025/may/22/germany-anti-russian-defence-nato-lithuania-friedrich-merz">German troops start first permanent foreign deployment since second world war | Germany | The Guardian</a></li>
+<li> 21:39 <a href="https://www.theguardian.com/world/2025/jun/09/nato-chief-russia-quantum-leap-defence">Russia could be ready to attack Nato within five years, says secretary general | Nato | The Guardian</a></li>
 <li> 21:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 21:38 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
 <li> 21:37 <a href="https://www.theguardian.com/uk-news/2025/jun/09/uk-teenager-killed-herself-highly-affected-terrorism-arrest-inquest-rhianan-rudd">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
