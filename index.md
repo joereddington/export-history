@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3119)</li>
 <li>mail.google.com (2810)</li>
-<li>outlook.office.com (2619)</li>
+<li>outlook.office.com (2634)</li>
 <li>docs.google.com (2055)</li>
 <li>www.reddit.com (1850)</li>
-<li>outlook.office365.com (1820)</li>
+<li>outlook.office365.com (1822)</li>
 <li>bsky.app (1575)</li>
 <li>www.facebook.com (1412)</li>
-<li>duckduckgo.com (1127)</li>
+<li>duckduckgo.com (1128)</li>
 <li>chatgpt.com (800)</li>
 <li>www.amazon.co.uk (743)</li>
 <li>www.theguardian.com (685)</li>
@@ -84,11 +84,11 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (511)</li>
 <li>www.linkedin.com (500)</li>
 <li>rhul-my.sharepoint.com (478)</li>
-<li>login.microsoftonline.com (441)</li>
+<li>login.microsoftonline.com (443)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
 <li>gmail.com (410)</li>
-<li>web.whatsapp.com (355)</li>
+<li>web.whatsapp.com (356)</li>
 <li>chat.openai.com (316)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:30 www.amazon.co.uk</li>
+<ul><li> 10:30 outlook.office.com</li>
+<li class='same'> 10:28 outlook.office.com</li>
+<li class='same'> 10:27 outlook.office.com</li>
+<li class='same'> 10:24 outlook.office.com</li>
+<li> 10:22 <a href="https://www.theguardian.com/books/2025/jun/10/how-not-to-be-a-political-wife-by-sarah-vine-review-a-bitter-memoir-of-power-and-betrayal">How Not to Be a Political Wife by Sarah Vine review – a bitter memoir of power and betrayal | Autobiography and memoir | The Guardian</a></li>
+<li> 10:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:21 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 10:21 outlook.office.com</li>
+<li class='same'> 10:19 outlook.office.com</li>
+<li class='same'> 10:17 outlook.office.com</li>
+<li class='same'> 10:16 outlook.office.com</li>
+<li class='same'> 10:15 outlook.office.com</li>
+<li class='same'> 10:14 outlook.office.com</li>
+<li class='same'> 10:13 outlook.office.com</li>
+<li> 10:11 login.microsoftonline.com</li>
+<li> 10:11 herts365-my.sharepoint.com</li>
+<li> 09:59 outlook.office.com</li>
+<li class='same'> 09:58 outlook.office.com</li>
+<li class='same'> 09:57 outlook.office.com</li>
+<li class='same'> 09:56 outlook.office.com</li>
+<li> 09:56 m365.cloud.microsoft</li>
+<li> 09:56 login.microsoftonline.com</li>
+<li> 09:56 adfs.herts.ac.uk</li>
+<li> 09:55 api-b6327e78.duosecurity.com</li>
+<li> 09:55 adfs.herts.ac.uk</li>
+<li> 09:50 web.whatsapp.com</li>
+<li> 09:50 outlook.office365.com</li>
+<li> 09:50 www.bcu.ac.uk</li>
+<li> 09:50 duckduckgo.com</li>
+<li> 09:49 outlook.office365.com</li>
+<li> 09:30 www.amazon.co.uk</li>
 <li class='same'> 09:29 www.amazon.co.uk</li>
 <li> 09:28 chatgpt.com</li>
 <li> 09:28 chat.openai.com</li>
