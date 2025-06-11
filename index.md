@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1863)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1414)</li>
-<li>duckduckgo.com (1145)</li>
+<li>duckduckgo.com (1146)</li>
 <li>chatgpt.com (813)</li>
-<li>www.amazon.co.uk (748)</li>
+<li>www.amazon.co.uk (749)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (540)</li>
 <li>moodle.royalholloway.ac.uk (513)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (431)</li>
 <li>github.com (427)</li>
 <li>gmail.com (416)</li>
-<li>web.whatsapp.com (363)</li>
+<li>web.whatsapp.com (364)</li>
 <li>chat.openai.com (324)</li>
 <li>drive.google.com (299)</li>
 <li>feedly.com (289)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:25 127.0.0.1:4000</li>
+<ul><li> 21:15 127.0.0.1:4000</li>
+<li> 21:13 www.amazon.co.uk</li>
+<li> 21:01 127.0.0.1:4000</li>
+<li> 20:59 web.whatsapp.com</li>
+<li> 20:54 127.0.0.1:4000</li>
+<li> 20:47 link.springer.com</li>
+<li> 20:46 scholar.google.com</li>
+<li> 20:44 www.mdpi.com</li>
+<li> 20:44 d1wqtxts1xzle7.cloudfront.net</li>
+<li> 20:44 ieeexplore.ieee.org</li>
+<li> 20:43 scholar.google.com</li>
+<li> 20:43 duckduckgo.com</li>
+<li> 20:25 127.0.0.1:4000</li>
 <li class='same'> 20:24 127.0.0.1:4000</li>
 <li> 20:24 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
 <li> 20:16 docs.google.com</li>
