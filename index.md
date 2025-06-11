@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3121)</li>
-<li>mail.google.com (2824)</li>
+<li>mail.google.com (2834)</li>
 <li>outlook.office.com (2645)</li>
 <li>docs.google.com (2058)</li>
-<li>outlook.office365.com (1886)</li>
-<li>www.reddit.com (1856)</li>
+<li>outlook.office365.com (1890)</li>
+<li>www.reddit.com (1858)</li>
 <li>bsky.app (1575)</li>
-<li>www.facebook.com (1412)</li>
-<li>duckduckgo.com (1139)</li>
-<li>chatgpt.com (809)</li>
-<li>www.amazon.co.uk (747)</li>
+<li>www.facebook.com (1413)</li>
+<li>duckduckgo.com (1140)</li>
+<li>chatgpt.com (810)</li>
+<li>www.amazon.co.uk (748)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (540)</li>
 <li>moodle.royalholloway.ac.uk (513)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (450)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
-<li>gmail.com (415)</li>
-<li>web.whatsapp.com (361)</li>
-<li>chat.openai.com (321)</li>
+<li>gmail.com (416)</li>
+<li>web.whatsapp.com (362)</li>
+<li>chat.openai.com (322)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:39 mail.google.com</li>
+<ul><li> 13:32 www.reddit.com</li>
+<li class='same'> 13:31 www.reddit.com</li>
+<li> 13:30 www.facebook.com</li>
+<li> 13:29 mail.google.com</li>
+<li> 13:28 accounts.intuit.com</li>
+<li> 13:26 outlook.office365.com</li>
+<li> 13:25 mail.google.com</li>
+<li> 13:25 gmail.com</li>
+<li> 13:25 mail.google.com</li>
+<li class='same'> 13:24 mail.google.com</li>
+<li class='same'> 12:58 mail.google.com</li>
+<li> 12:57 web.whatsapp.com</li>
+<li> 12:57 outlook.office365.com</li>
+<li class='same'> 12:56 outlook.office365.com</li>
+<li> 12:56 mail.google.com</li>
+<li> 12:53 chatgpt.com</li>
+<li> 12:53 chat.openai.com</li>
+<li> 12:53 <a href="https://www.youtube.com/">YouTube</a></li>
+<li> 12:52 <a href="https://en.wikipedia.org/wiki/Languages_of_Nigeria">Languages of Nigeria - Wikipedia</a></li>
+<li> 12:52 duckduckgo.com</li>
+<li> 12:49 outlook.office365.com</li>
+<li> 12:49 mail.google.com</li>
+<li> 12:49 s7018.mjt.lu</li>
+<li> 12:48 mail.google.com</li>
+<li> 12:48 ilovemanchester.us5.list-manage.com</li>
+<li> 12:47 mail.google.com</li>
+<li> 12:47 askubuntu.com</li>
+<li> 12:46 www.amazon.co.uk</li>
+<li> 12:45 mail.google.com</li>
+<li class='same'> 12:39 mail.google.com</li>
 <li> 12:33 imigrasimamuju.com</li>
 <li> 12:32 writing.stackexchange.com</li>
 <li> 12:32 duckduckgo.com</li>
@@ -17091,7 +17120,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:39 bjjfanatics.com</li>
-<li> 18:39 <a href="https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbVVkUnA5MldMVFo1a1JDTk1VQmdqSFh2Szdvd3xBQ3Jtc0tubkh1R0tkVGhVVXZVazR2MDlFdnB3Y1dxaEQtbmVXS1VSUjkzZG5ReFh5Z1Y1RTA4WUpscmlfYTdrTkNBLWRoeUFuZ3VpeG1aZElzSEJERUVOdGZ2NXltUkRjZkloSDVFRGdKQ1lEUkJtSWVuRWtzbw&q=https%3A%2F%2Fbjjfanatics.com%2Fproducts%2Fweight-training-for-grappling-by-michael-israetel&html_redirect=1">YouTube</a></li>
 <li> 18:39 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 18:25 www.lego.com</li>
 <li> 18:25 www.theguardian.com</li>
