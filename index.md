@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3121)</li>
-<li>mail.google.com (2834)</li>
+<li>mail.google.com (2838)</li>
 <li>outlook.office.com (2645)</li>
 <li>docs.google.com (2058)</li>
 <li>outlook.office365.com (1890)</li>
-<li>www.reddit.com (1858)</li>
+<li>www.reddit.com (1861)</li>
 <li>bsky.app (1575)</li>
 <li>www.facebook.com (1413)</li>
 <li>duckduckgo.com (1140)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
-<li>whitewaterwriters.com (270)</li>
+<li>whitewaterwriters.com (271)</li>
 <li>qbo.intuit.com (234)</li>
 <li>rhul.sharepoint.com (233)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (216)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:32 www.reddit.com</li>
+<ul><li> 13:42 www.reddit.com</li>
+<li class='same'> 13:40 www.reddit.com</li>
+<li> 13:40 whitewaterwriters.com</li>
+<li> 13:39 mail.google.com</li>
+<li class='same'> 13:38 mail.google.com</li>
+<li> 13:37 www.reddit.com</li>
+<li class='same'> 13:32 www.reddit.com</li>
 <li class='same'> 13:31 www.reddit.com</li>
 <li> 13:30 www.facebook.com</li>
 <li> 13:29 mail.google.com</li>
@@ -46486,7 +46492,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:57 accounts.google.com</li>
+<ul><li> 10:57 mail.google.com</li>
+<li> 10:57 accounts.google.com</li>
 <li> 10:54 kdp.amazon.com</li>
 <li class='same'> 10:53 kdp.amazon.com</li>
 <li> 10:53 kdpreports.amazon.com</li>
@@ -57489,6 +57496,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:24 mail.google.com</li>
+<li class='same'> 07:23 mail.google.com</li>
 </ul>
 
 <br>
