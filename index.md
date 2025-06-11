@@ -69,33 +69,33 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3121)</li>
-<li>mail.google.com (2817)</li>
+<li>mail.google.com (2824)</li>
 <li>outlook.office.com (2645)</li>
 <li>docs.google.com (2058)</li>
-<li>outlook.office365.com (1870)</li>
+<li>outlook.office365.com (1886)</li>
 <li>www.reddit.com (1856)</li>
 <li>bsky.app (1575)</li>
 <li>www.facebook.com (1412)</li>
-<li>duckduckgo.com (1137)</li>
+<li>duckduckgo.com (1139)</li>
 <li>chatgpt.com (809)</li>
 <li>www.amazon.co.uk (747)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (539)</li>
+<li>calendar.google.com (540)</li>
 <li>moodle.royalholloway.ac.uk (513)</li>
-<li>www.linkedin.com (500)</li>
+<li>www.linkedin.com (501)</li>
 <li>rhul-my.sharepoint.com (478)</li>
 <li>login.microsoftonline.com (450)</li>
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
-<li>gmail.com (413)</li>
+<li>gmail.com (415)</li>
 <li>web.whatsapp.com (361)</li>
 <li>chat.openai.com (321)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
-<li>whitewaterwriters.com (250)</li>
+<li>whitewaterwriters.com (270)</li>
+<li>qbo.intuit.com (234)</li>
 <li>rhul.sharepoint.com (233)</li>
-<li>qbo.intuit.com (231)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (216)</li>
 <li>www.coursera.org (208)</li>
 
@@ -108,7 +108,68 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:05 outlook.office365.com</li>
+<ul><li> 12:39 mail.google.com</li>
+<li> 12:33 imigrasimamuju.com</li>
+<li> 12:32 writing.stackexchange.com</li>
+<li> 12:32 duckduckgo.com</li>
+<li class='same'> 12:31 duckduckgo.com</li>
+<li> 12:30 whitewaterwriters.com</li>
+<li class='same'> 12:29 whitewaterwriters.com</li>
+<li class='same'> 12:28 whitewaterwriters.com</li>
+<li> 12:28 api-b6327e78.duosecurity.com</li>
+<li> 12:27 whitewaterwriters.com</li>
+<li class='same'> 12:26 whitewaterwriters.com</li>
+<li> 12:25 mail.google.com</li>
+<li> 12:25 gmail.com</li>
+<li> 12:25 mail.google.com</li>
+<li class='same'> 12:24 mail.google.com</li>
+<li> 12:23 qbo.intuit.com</li>
+<li class='same'> 12:22 qbo.intuit.com</li>
+<li> 12:22 accounts.intuit.com</li>
+<li> 12:22 qbo.intuit.com</li>
+<li> 12:22 app.qbo.intuit.com</li>
+<li> 12:22 c14.qbo.intuit.com</li>
+<li> 12:22 mail.google.com</li>
+<li> 12:21 www.icloud.com</li>
+<li> 12:21 mail.google.com</li>
+<li> 12:21 wetransfer.com</li>
+<li class='same'> 12:20 wetransfer.com</li>
+<li> 12:20 accounts.google.com</li>
+<li> 12:20 auth.wetransfer.com</li>
+<li> 12:20 wetransfer.com</li>
+<li class='same'> 12:19 wetransfer.com</li>
+<li> 12:19 mail.google.com</li>
+<li> 12:19 gmail.com</li>
+<li> 12:13 api-b6327e78.duosecurity.com</li>
+<li> 12:13 adblockplus.org</li>
+<li> 12:13 api-b6327e78.duosecurity.com</li>
+<li> 12:13 adfs.herts.ac.uk</li>
+<li> 12:13 outlook.office365.com</li>
+<li class='same'> 12:12 outlook.office365.com</li>
+<li class='same'> 12:11 outlook.office365.com</li>
+<li class='same'> 12:10 outlook.office365.com</li>
+<li class='same'> 12:09 outlook.office365.com</li>
+<li class='same'> 12:05 outlook.office365.com</li>
+<li> 12:04 www.linkedin.com</li>
+<li> 12:03 calendar.google.com</li>
+<li> 12:01 discord.com</li>
+<li> 12:01 outlook.office365.com</li>
+<li class='same'> 12:00 outlook.office365.com</li>
+<li class='same'> 11:59 outlook.office365.com</li>
+<li class='same'> 11:57 outlook.office365.com</li>
+<li class='same'> 11:56 outlook.office365.com</li>
+<li> 11:56 doodle.com</li>
+<li class='same'> 11:55 doodle.com</li>
+<li> 11:55 outlook.office365.com</li>
+<li class='same'> 11:54 outlook.office365.com</li>
+<li class='same'> 11:50 outlook.office365.com</li>
+<li class='same'> 11:49 outlook.office365.com</li>
+<li class='same'> 11:48 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:05 outlook.office365.com</li>
 <li> 10:04 mail.google.com</li>
 <li> 10:04 outlook.office365.com</li>
 <li class='same'> 10:00 outlook.office365.com</li>
@@ -48371,7 +48432,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:10 whitewaterwriters.com</li>
+<ul><li> 16:29 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:10 whitewaterwriters.com</li>
 <li class='same'> 14:04 whitewaterwriters.com</li>
 <li class='same'> 13:47 whitewaterwriters.com</li>
 <li class='same'> 13:40 whitewaterwriters.com</li>
@@ -52403,6 +52469,7 @@ With number of accesses/minutes in parentheses
 <li> 12:51 docs.google.com</li>
 <li class='same'> 12:50 docs.google.com</li>
 <li class='same'> 12:49 docs.google.com</li>
+<li> 12:47 whitewaterwriters.com</li>
 </ul>
 
 <H3>Thursday, 22/02/24</H3>
@@ -54853,6 +54920,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:44 drive.google.com</li>
 <li> 13:42 www.google.com</li>
 <li> 13:25 whitewaterwriters.com</li>
+<li class='same'> 13:22 whitewaterwriters.com</li>
 <li> 13:11 www.facebook.com</li>
 <li> 13:07 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 12:51 fightingfilms.com</li>
@@ -55232,7 +55300,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:31 github.com</li>
+<ul><li> 09:35 whitewaterwriters.com</li>
+<li> 09:31 github.com</li>
 </ul>
 
 <br>
@@ -55399,6 +55468,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 09:50 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:45 jobs.royalholloway.ac.uk</li>
 <li> 07:39 equalitytime.co.uk</li>
 <li> 07:28 whitewaterwriters.com</li>
@@ -55419,7 +55493,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:03 bsky.app</li>
+<ul><li> 14:15 whitewaterwriters.com</li>
+<li> 14:03 bsky.app</li>
 </ul>
 
 <br>
@@ -55436,16 +55511,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:40 analytics.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:51 drive.google.com</li>
+<li> 11:21 whitewaterwriters.com</li>
+<li> 10:51 drive.google.com</li>
 </ul>
 
 <br>
 
 <ul><li class='same'> 10:07 drive.google.com</li>
+<li> 09:50 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -55467,6 +55540,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:04 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:09 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -56301,6 +56379,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:33 www.feedly.com</li>
 <li> 09:24 forum.artofmemory.com</li>
 <li> 09:15 whitewaterwriters.com</li>
+<li class='same'> 09:14 whitewaterwriters.com</li>
 </ul>
 
 <H3>Sunday, 17/09/23</H3>
@@ -56403,7 +56482,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:59 mail.google.com</li>
+<ul><li> 13:01 whitewaterwriters.com</li>
+<li> 12:59 mail.google.com</li>
 </ul>
 
 <br>
@@ -56469,6 +56549,7 @@ With number of accesses/minutes in parentheses
 <li> 10:12 studio.youtube.com</li>
 <li class='same'> 10:03 studio.youtube.com</li>
 <li> 09:59 docs.google.com</li>
+<li> 09:46 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -57465,6 +57546,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:25 accounts.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 14:25 whitewaterwriters.com</li>
+</ul>
+
 <H3>Friday, 14/07/23</H3>
 
 <br>
@@ -57473,7 +57559,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:52 whitewaterwriters.com</li>
+<ul><li class='same'> 20:52 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -58210,6 +58296,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:36 kdp.amazon.com</li>
 <li> 15:27 whitewaterwriters.com</li>
 <li class='same'> 15:20 whitewaterwriters.com</li>
+<li class='same'> 15:18 whitewaterwriters.com</li>
 </ul>
 
 <H3>Thursday, 15/06/23</H3>
@@ -58395,7 +58482,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:21 whitewaterwriters.com</li>
+<ul><li> 15:51 whitewaterwriters.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:21 whitewaterwriters.com</li>
 </ul>
 
 <br>
