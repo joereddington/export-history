@@ -72,11 +72,11 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2838)</li>
 <li>outlook.office.com (2645)</li>
 <li>docs.google.com (2058)</li>
-<li>outlook.office365.com (1890)</li>
-<li>www.reddit.com (1861)</li>
+<li>outlook.office365.com (1894)</li>
+<li>www.reddit.com (1862)</li>
 <li>bsky.app (1575)</li>
 <li>www.facebook.com (1413)</li>
-<li>duckduckgo.com (1140)</li>
+<li>duckduckgo.com (1142)</li>
 <li>chatgpt.com (810)</li>
 <li>www.amazon.co.uk (748)</li>
 <li>www.theguardian.com (685)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (427)</li>
 <li>tvtropes.org (421)</li>
 <li>gmail.com (416)</li>
-<li>web.whatsapp.com (362)</li>
+<li>web.whatsapp.com (363)</li>
 <li>chat.openai.com (322)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:42 www.reddit.com</li>
+<ul><li> 17:45 outlook.office365.com</li>
+<li> 17:45 duckduckgo.com</li>
+<li> 17:44 outlook.office365.com</li>
+<li class='same'> 17:43 outlook.office365.com</li>
+<li> 17:42 web.whatsapp.com</li>
+<li> 17:42 duckduckgo.com</li>
+<li> 17:42 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 17:41 webtimetables.royalholloway.ac.uk</li>
+<li> 17:41 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:15 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:42 www.reddit.com</li>
 <li class='same'> 13:40 www.reddit.com</li>
 <li> 13:40 whitewaterwriters.com</li>
 <li> 13:39 mail.google.com</li>
