@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2838)</li>
 <li>outlook.office.com (2645)</li>
 <li>docs.google.com (2058)</li>
-<li>outlook.office365.com (1894)</li>
+<li>outlook.office365.com (1895)</li>
 <li>www.reddit.com (1862)</li>
-<li>bsky.app (1575)</li>
-<li>www.facebook.com (1413)</li>
-<li>duckduckgo.com (1142)</li>
-<li>chatgpt.com (810)</li>
+<li>bsky.app (1576)</li>
+<li>www.facebook.com (1414)</li>
+<li>duckduckgo.com (1143)</li>
+<li>chatgpt.com (812)</li>
 <li>www.amazon.co.uk (748)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (540)</li>
@@ -85,11 +85,11 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (501)</li>
 <li>rhul-my.sharepoint.com (478)</li>
 <li>login.microsoftonline.com (450)</li>
+<li>tvtropes.org (431)</li>
 <li>github.com (427)</li>
-<li>tvtropes.org (421)</li>
 <li>gmail.com (416)</li>
 <li>web.whatsapp.com (363)</li>
-<li>chat.openai.com (322)</li>
+<li>chat.openai.com (323)</li>
 <li>drive.google.com (298)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:45 outlook.office365.com</li>
+<ul><li> 19:40 tvtropes.org</li>
+<li class='same'> 19:38 tvtropes.org</li>
+<li class='same'> 19:36 tvtropes.org</li>
+<li class='same'> 19:35 tvtropes.org</li>
+<li class='same'> 19:34 tvtropes.org</li>
+<li class='same'> 19:29 tvtropes.org</li>
+<li class='same'> 19:23 tvtropes.org</li>
+<li class='same'> 19:20 tvtropes.org</li>
+<li class='same'> 19:12 tvtropes.org</li>
+<li class='same'> 19:11 tvtropes.org</li>
+<li> 19:10 duckduckgo.com</li>
+<li> 19:09 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/11/well-have-done-it-first-what-it-takes-to-set-a-new-guinness-world-record">‘We’ll have done it first’: what it takes to set a new Guinness World Record | Australian lifestyle | The Guardian</a></li>
+<li> 19:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:05 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 18:54 studio.youtube.com</li>
+<li> 18:54 <a href="https://www.youtube.com/@projectreal2513">(51) Project Real - YouTube</a></li>
+<li> 18:54 studio.youtube.com</li>
+<li> 18:54 <a href="https://www.youtube.com/">YouTube</a></li>
+<li> 18:46 chatgpt.com</li>
+<li class='same'> 18:45 chatgpt.com</li>
+<li> 18:45 chat.openai.com</li>
+<li> 18:32 www.facebook.com</li>
+<li> 18:32 bsky.app</li>
+<li> 18:31 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:45 outlook.office365.com</li>
 <li> 17:45 duckduckgo.com</li>
 <li> 17:44 outlook.office365.com</li>
 <li class='same'> 17:43 outlook.office365.com</li>
