@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3121)</li>
+<ol><li>www.google.com (3124)</li>
 <li>mail.google.com (2838)</li>
 <li>outlook.office.com (2645)</li>
-<li>docs.google.com (2058)</li>
+<li>docs.google.com (2059)</li>
 <li>outlook.office365.com (1895)</li>
-<li>www.reddit.com (1862)</li>
+<li>www.reddit.com (1863)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1414)</li>
-<li>duckduckgo.com (1143)</li>
-<li>chatgpt.com (812)</li>
+<li>duckduckgo.com (1145)</li>
+<li>chatgpt.com (813)</li>
 <li>www.amazon.co.uk (748)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (540)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>github.com (427)</li>
 <li>gmail.com (416)</li>
 <li>web.whatsapp.com (363)</li>
-<li>chat.openai.com (323)</li>
-<li>drive.google.com (298)</li>
+<li>chat.openai.com (324)</li>
+<li>drive.google.com (299)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (271)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:40 tvtropes.org</li>
+<ul><li> 20:25 127.0.0.1:4000</li>
+<li class='same'> 20:24 127.0.0.1:4000</li>
+<li> 20:24 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
+<li> 20:16 docs.google.com</li>
+<li> 20:16 drive.google.com</li>
+<li> 20:01 <a href="https://www.youtube.com/watch?v=nEuAWIU89sQ">(51) The Super Nintendo LifeCycle Exertainment Bike -- An Exercise Bike for the SNES! - YouTube</a></li>
+<li> 20:01 <a href="https://www.youtube.com/watch?si=tgbKkwfcMSWSX_RI&v=nEuAWIU89sQ&feature=youtu.be">The Super Nintendo LifeCycle Exertainment Bike -- An Exercise Bike for the SNES! - YouTube</a></li>
+<li> 20:00 www.reddit.com</li>
+<li> 20:00 www.google.com</li>
+<li> 19:59 www.ebay.com</li>
+<li> 19:59 www.google.com</li>
+<li> 19:58 www.hackster.io</li>
+<li> 19:58 www.google.com</li>
+<li> 19:57 duckduckgo.com</li>
+<li> 19:54 chatgpt.com</li>
+<li> 19:54 chat.openai.com</li>
+<li> 19:54 learn.adafruit.com</li>
+<li> 19:54 duckduckgo.com</li>
+<li> 19:54 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
+<li> 19:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 19:53 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 19:46 studio.youtube.com</li>
+<li> 19:40 tvtropes.org</li>
 <li class='same'> 19:38 tvtropes.org</li>
 <li class='same'> 19:36 tvtropes.org</li>
 <li class='same'> 19:35 tvtropes.org</li>
