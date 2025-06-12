@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1863)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1414)</li>
-<li>duckduckgo.com (1146)</li>
+<li>duckduckgo.com (1147)</li>
 <li>chatgpt.com (813)</li>
 <li>www.amazon.co.uk (749)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:15 127.0.0.1:4000</li>
+<ul><li> 21:59 duckduckgo.com</li>
+<li> 21:58 electronics.stackexchange.com</li>
+<li> 21:57 rpg.stackexchange.com</li>
+<li class='same'> 21:56 rpg.stackexchange.com</li>
+<li> 21:55 academia.stackexchange.com</li>
+<li class='same'> 21:52 academia.stackexchange.com</li>
+<li class='same'> 21:50 academia.stackexchange.com</li>
+<li class='same'> 21:49 academia.stackexchange.com</li>
+<li> 21:48 electronics.stackexchange.com</li>
+<li> 21:47 127.0.0.1:4000</li>
+<li class='same'> 21:26 127.0.0.1:4000</li>
+<li class='same'> 21:15 127.0.0.1:4000</li>
 <li> 21:13 www.amazon.co.uk</li>
 <li> 21:01 127.0.0.1:4000</li>
 <li> 20:59 web.whatsapp.com</li>
