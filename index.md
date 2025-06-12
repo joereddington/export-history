@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3124)</li>
-<li>mail.google.com (2838)</li>
-<li>outlook.office.com (2645)</li>
+<ol><li>www.google.com (3127)</li>
+<li>mail.google.com (2847)</li>
+<li>outlook.office.com (2657)</li>
 <li>docs.google.com (2060)</li>
-<li>outlook.office365.com (1895)</li>
+<li>outlook.office365.com (1902)</li>
 <li>www.reddit.com (1863)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1414)</li>
 <li>duckduckgo.com (1148)</li>
-<li>chatgpt.com (813)</li>
+<li>chatgpt.com (815)</li>
 <li>www.amazon.co.uk (749)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (540)</li>
+<li>calendar.google.com (541)</li>
 <li>moodle.royalholloway.ac.uk (513)</li>
 <li>www.linkedin.com (501)</li>
 <li>rhul-my.sharepoint.com (478)</li>
-<li>login.microsoftonline.com (450)</li>
+<li>login.microsoftonline.com (453)</li>
 <li>tvtropes.org (431)</li>
-<li>github.com (427)</li>
-<li>gmail.com (416)</li>
-<li>web.whatsapp.com (364)</li>
-<li>chat.openai.com (324)</li>
+<li>github.com (428)</li>
+<li>gmail.com (418)</li>
+<li>web.whatsapp.com (365)</li>
+<li>chat.openai.com (325)</li>
 <li>drive.google.com (300)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
@@ -108,13 +108,90 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:45 docs.google.com</li>
+<ul><li> 10:55 outlook.office.com</li>
+<li class='same'> 10:53 outlook.office.com</li>
+<li class='same'> 10:51 outlook.office.com</li>
+<li class='same'> 10:50 outlook.office.com</li>
+<li> 10:49 outlook.office365.com</li>
+<li> 10:49 calendar.google.com</li>
+<li> 10:48 outlook.office.com</li>
+<li> 10:48 m365.cloud.microsoft</li>
+<li> 10:48 login.microsoftonline.com</li>
+<li> 10:48 adfs.herts.ac.uk</li>
+<li> 10:48 outlook.office.com</li>
+<li class='same'> 10:47 outlook.office.com</li>
+<li class='same'> 10:46 outlook.office.com</li>
+<li class='same'> 10:45 outlook.office.com</li>
+<li class='same'> 10:44 outlook.office.com</li>
+<li> 10:43 chatgpt.com</li>
+<li> 10:43 chat.openai.com</li>
+<li> 10:42 outlook.office.com</li>
+<li class='same'> 10:41 outlook.office.com</li>
+<li> 10:41 login.microsoftonline.com</li>
+<li> 10:41 m365.cloud.microsoft</li>
+<li> 10:41 login.microsoftonline.com</li>
+<li> 10:41 adfs.herts.ac.uk</li>
+<li> 10:40 outlook.office365.com</li>
+<li> 10:40 api-b6327e78.duosecurity.com</li>
+<li> 10:40 adfs.herts.ac.uk</li>
+<li> 10:40 mail.google.com</li>
+<li> 10:40 outlook.office365.com</li>
+<li class='same'> 10:39 outlook.office365.com</li>
+<li> 10:38 dashboards.rhul.ac.uk</li>
+<li> 10:33 outlook.office365.com</li>
+<li class='same'> 10:30 outlook.office365.com</li>
+<li class='same'> 10:29 outlook.office365.com</li>
+<li> 10:29 mail.google.com</li>
+<li class='same'> 10:28 mail.google.com</li>
+<li class='same'> 10:27 mail.google.com</li>
+<li class='same'> 10:26 mail.google.com</li>
+<li> 10:26 gmail.com</li>
+<li> 10:26 www.citationneeded.news</li>
+<li> 10:24 web.whatsapp.com</li>
+<li> 10:17 account.adobe.com</li>
+<li> 10:17 adobeid-na1.services.adobe.com</li>
+<li> 10:16 mail.google.com</li>
+<li> 10:16 www.citationneeded.news</li>
+<li class='same'> 10:15 www.citationneeded.news</li>
+<li> 10:15 mail.google.com</li>
+<li> 10:15 github.com</li>
+<li> 10:15 mail.google.com</li>
+<li> 10:14 www.citationneeded.news</li>
+<li> 10:14 mail.google.com</li>
+<li> 10:14 gmail.com</li>
+<li> 10:09 royalhollowayacuk.elluciancrmrecruit.com</li>
+<li> 10:08 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
+<li> 10:07 127.0.0.1:4000</li>
+<li> 10:07 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 10:06 chatgpt.com</li>
+<li> 10:05 royalhollowayacuk.elluciancrmrecruit.com</li>
+<li> 09:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:54 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 09:54 <a href="https://www.theguardian.com/culture/2025/jun/12/tamara-de-lempicka-rafaela-portrait-sale">Tamara de Lempicka’s ‘remarkable nude’ of lover Rafaëla to be auctioned | Culture | The Guardian</a></li>
+<li> 09:45 docs.google.com</li>
 <li> 09:44 drive.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 07:52 wetransfer.com</li>
+<ul><li> 09:14 <a href="https://www.theguardian.com/culture/2025/jun/12/tamara-de-lempicka-rafaela-portrait-sale">Tamara de Lempicka’s ‘remarkable nude’ of lover Rafaëla to be auctioned | Culture | The Guardian</a></li>
+<li> 09:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:13 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 09:13 <a href="https://www.theguardian.com/football/2025/jun/12/sky-sports-news-golden-age-at-an-end-as-rival-platforms-turn-up-the-volume">Sky Sports News’ golden age at an end as rival platforms turn up the volume | Football | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:05 <a href="https://www.theguardian.com/football/2025/jun/12/sky-sports-news-golden-age-at-an-end-as-rival-platforms-turn-up-the-volume">Sky Sports News’ golden age at an end as rival platforms turn up the volume | Football | The Guardian</a></li>
+<li> 08:05 <a href="https://www.theguardian.com/media/bskyb">Sky | The Guardian</a></li>
+<li> 08:05 <a href="https://www.theguardian.com/football/2025/jun/12/sky-sports-news-golden-age-at-an-end-as-rival-platforms-turn-up-the-volume">Sky Sports News’ golden age at an end as rival platforms turn up the volume | Football | The Guardian</a></li>
+<li> 08:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:52 wetransfer.com</li>
+<li> 07:44 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
+<li> 07:44 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 07:44 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<li> 07:44 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:44 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 </ul>
 
 <br>
@@ -122,6 +199,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 06:32 forum.arduino.cc</li>
 <li class='same'> 06:31 forum.arduino.cc</li>
 <li> 06:31 duckduckgo.com</li>
+<li> 06:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:20 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
 </ul>
 
 <H3>Wednesday, 11/06/25</H3>
@@ -132,7 +211,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 21:59 duckduckgo.com</li>
+<ul><li> 21:59 duckduckgo.com</li>
 <li> 21:58 electronics.stackexchange.com</li>
 <li> 21:57 rpg.stackexchange.com</li>
 <li class='same'> 21:56 rpg.stackexchange.com</li>
@@ -214,6 +293,10 @@ With number of accesses/minutes in parentheses
 <li> 17:42 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 17:41 webtimetables.royalholloway.ac.uk</li>
 <li> 17:41 outlook.office365.com</li>
+<li> 17:31 <a href="https://www.theguardian.com/politics/2025/jun/11/spending-review-2025-key-points-rachel-reeves">Spending review 2025: key points at a glance | Spending review 2025 | The Guardian</a></li>
+<li> 17:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:30 www.bing.com</li>
+<li> 17:30 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
 </ul>
 
 <br>
@@ -349,6 +432,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 22:43 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<li> 22:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
 <ul><li> 21:49 chatgpt.com</li>
 <li> 21:49 chat.openai.com</li>
 <li> 21:34 duckduckgo.com</li>
@@ -393,7 +482,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 15:25 outlook.office365.com</li>
+<ul><li> 18:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:39 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 18:38 <a href="https://www.theguardian.com/us-news/2025/jun/10/trump-fires-usaid-overseas-employees">Trump administration to cut all USAID overseas roles and axe thousands of staff | Trump administration | The Guardian</a></li>
+<li> 18:37 en.meming.world</li>
+</ul>
+
+<br>
+
+<ul><li> 15:25 outlook.office365.com</li>
 <li class='same'> 15:17 outlook.office365.com</li>
 <li class='same'> 15:13 outlook.office365.com</li>
 <li class='same'> 15:12 outlook.office365.com</li>
@@ -540,6 +637,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:13 outlook.office.com</li>
 <li> 10:11 login.microsoftonline.com</li>
 <li> 10:11 herts365-my.sharepoint.com</li>
+<li> 10:07 en.meming.world</li>
+<li> 10:07 www.google.com</li>
+<li> 10:07 theweek.com</li>
 <li> 09:59 outlook.office.com</li>
 <li class='same'> 09:58 outlook.office.com</li>
 <li class='same'> 09:57 outlook.office.com</li>
@@ -681,7 +781,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:37 herts.instructure.com</li>
 <li> 14:37 adfs.herts.ac.uk</li>
 <li> 14:37 herts.instructure.com</li>
-<li> 14:34 www.google.com</li>
+<li> 14:36 theweek.com</li>
+<li> 14:36 www.google.com</li>
+<li class='same'> 14:34 www.google.com</li>
 <li> 14:25 www.amazon.co.uk</li>
 <li> 14:25 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:22 outlook.office.com</li>
@@ -52899,7 +53001,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:58 <a href="https://www.youtube.com/account">(114) YouTube</a></li>
+<ul><li> 08:04 www.google.com</li>
+<li> 07:58 <a href="https://www.youtube.com/account">(114) YouTube</a></li>
 <li> 07:58 <a href="https://www.youtube.com/signin_prompt?next=https%3A%2F%2Fwww.youtube.com%2F"></a></li>
 <li> 07:54 www.evri.com</li>
 <li class='same'> 07:50 www.evri.com</li>
@@ -57180,6 +57283,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 19:35 academia.stackexchange.com</li>
+</ul>
 
 <br>
 
