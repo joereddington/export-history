@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3127)</li>
-<li>mail.google.com (2848)</li>
-<li>outlook.office.com (2669)</li>
+<ol><li>www.google.com (3126)</li>
+<li>mail.google.com (2854)</li>
+<li>outlook.office.com (2670)</li>
 <li>docs.google.com (2060)</li>
-<li>outlook.office365.com (1915)</li>
-<li>www.reddit.com (1865)</li>
+<li>outlook.office365.com (1917)</li>
+<li>www.reddit.com (1866)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1414)</li>
-<li>duckduckgo.com (1150)</li>
-<li>chatgpt.com (815)</li>
+<li>duckduckgo.com (1152)</li>
+<li>chatgpt.com (816)</li>
 <li>www.amazon.co.uk (749)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (541)</li>
 <li>moodle.royalholloway.ac.uk (515)</li>
 <li>www.linkedin.com (501)</li>
 <li>rhul-my.sharepoint.com (479)</li>
-<li>login.microsoftonline.com (456)</li>
+<li>login.microsoftonline.com (457)</li>
 <li>github.com (435)</li>
 <li>tvtropes.org (431)</li>
-<li>gmail.com (419)</li>
+<li>gmail.com (422)</li>
 <li>web.whatsapp.com (368)</li>
 <li>chat.openai.com (325)</li>
 <li>drive.google.com (300)</li>
-<li>feedly.com (289)</li>
+<li>feedly.com (290)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (271)</li>
 <li>rhul.sharepoint.com (234)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:03 web.whatsapp.com</li>
+<ul><li> 12:34 mail.google.com</li>
+<li class='same'> 12:32 mail.google.com</li>
+<li> 12:32 gmail.com</li>
+<li> 12:32 outlook.office.com</li>
+<li> 12:32 m365.cloud.microsoft</li>
+<li> 12:32 login.microsoftonline.com</li>
+<li> 12:32 adfs.herts.ac.uk</li>
+<li> 12:32 outlook.office365.com</li>
+<li> 12:30 www.sfadb.com</li>
+<li> 12:28 feedly.com</li>
+<li> 12:27 mail.google.com</li>
+<li class='same'> 12:24 mail.google.com</li>
+<li> 12:24 gmail.com</li>
+<li> 12:20 www.reddit.com</li>
+<li> 12:20 mail.google.com</li>
+<li> 12:20 gmail.com</li>
+<li> 12:15 outlook.office365.com</li>
+<li> 12:10 duckduckgo.com</li>
+<li> 12:05 chatgpt.com</li>
+<li> 12:05 support.microsoft.com</li>
+<li> 12:04 duckduckgo.com</li>
+<li> 12:03 web.whatsapp.com</li>
 <li> 12:02 photos.google.com</li>
 <li> 12:02 duckduckgo.com</li>
 <li> 12:02 outlook.office365.com</li>
@@ -17302,11 +17323,8 @@ With number of accesses/minutes in parentheses
 <li> 09:43 whitewaterwriters.com</li>
 <li class='same'> 09:42 whitewaterwriters.com</li>
 <li> 09:42 equalitytime.github.io</li>
-<li> 09:42 www.whitewaterwriters.com</li>
 <li> 09:41 dash.cloudflare.com</li>
 <li class='same'> 09:40 dash.cloudflare.com</li>
-<li> 09:40 www.google.com</li>
-<li> 09:40 dash.cloudflare.com</li>
 <li> 09:40 mail.google.com</li>
 <li> 09:40 gmail.com</li>
 <li> 09:40 dash.cloudflare.com</li>
@@ -49004,6 +49022,7 @@ With number of accesses/minutes in parentheses
 <li> 13:08 <a href="https://en.wikipedia.org/wiki/Bluey_(2018_TV_series)">Bluey (2018 TV series) - Wikipedia</a></li>
 <li> 13:03 home.classdojo.com</li>
 <li> 12:47 webtimetables.royalholloway.ac.uk</li>
+<li> 12:43 mail.google.com</li>
 </ul>
 
 <br>
