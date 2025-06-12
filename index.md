@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3127)</li>
-<li>mail.google.com (2869)</li>
-<li>outlook.office.com (2670)</li>
+<li>mail.google.com (2871)</li>
+<li>outlook.office.com (2671)</li>
 <li>docs.google.com (2060)</li>
-<li>outlook.office365.com (1927)</li>
+<li>outlook.office365.com (1937)</li>
 <li>www.reddit.com (1869)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1414)</li>
 <li>duckduckgo.com (1154)</li>
-<li>chatgpt.com (819)</li>
+<li>chatgpt.com (820)</li>
 <li>www.amazon.co.uk (749)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (541)</li>
+<li>calendar.google.com (543)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
 <li>www.linkedin.com (501)</li>
 <li>rhul-my.sharepoint.com (479)</li>
-<li>login.microsoftonline.com (460)</li>
+<li>login.microsoftonline.com (461)</li>
 <li>github.com (435)</li>
 <li>tvtropes.org (431)</li>
 <li>gmail.com (425)</li>
 <li>web.whatsapp.com (370)</li>
-<li>chat.openai.com (328)</li>
-<li>drive.google.com (301)</li>
+<li>chat.openai.com (329)</li>
+<li>drive.google.com (303)</li>
 <li>feedly.com (290)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (271)</li>
@@ -105,6 +105,42 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 12/06/25</H3>
+
+<br>
+
+<ul><li> 18:59 chatgpt.com</li>
+<li> 18:59 chat.openai.com</li>
+<li> 18:58 herts365-my.sharepoint.com</li>
+<li class='same'> 18:57 herts365-my.sharepoint.com</li>
+<li> 18:56 outlook.office.com</li>
+<li> 18:55 m365.cloud.microsoft</li>
+<li> 18:55 login.microsoftonline.com</li>
+<li> 18:55 api-b6327e78.duosecurity.com</li>
+<li> 18:55 adfs.herts.ac.uk</li>
+<li> 18:55 api-b6327e78.duosecurity.com</li>
+<li> 18:55 adfs.herts.ac.uk</li>
+<li> 18:55 calendar.google.com</li>
+<li> 18:55 outlook.office365.com</li>
+<li> 18:54 calendar.google.com</li>
+<li> 18:54 outlook.office365.com</li>
+<li class='same'> 18:53 outlook.office365.com</li>
+<li class='same'> 18:48 outlook.office365.com</li>
+<li class='same'> 18:47 outlook.office365.com</li>
+<li class='same'> 18:46 outlook.office365.com</li>
+<li class='same'> 18:45 outlook.office365.com</li>
+<li> 18:45 mail.google.com</li>
+<li> 18:44 drive.google.com</li>
+<li class='same'> 18:43 drive.google.com</li>
+<li> 18:43 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:01 <a href="https://www.theguardian.com/environment/2025/jun/12/research-reveals-24000-megafarms-across-europe">Revealed: More than 24,000 factory farms have opened across Europe | Farming | The Guardian</a></li>
+<li> 18:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:00 accounts.google.com</li>
+<li> 18:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
 
 <br>
 
@@ -51718,8 +51754,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:35 apply.unity.co.uk</li>
 <li class='same'> 16:14 apply.unity.co.uk</li>
+<li> 15:59 outlook.office365.com</li>
+<li class='same'> 15:53 outlook.office365.com</li>
 <li> 15:51 projects.cs.rhul.ac.uk</li>
 <li> 15:47 outlook.office365.com</li>
+<li class='same'> 15:46 outlook.office365.com</li>
 <li class='same'> 15:45 outlook.office365.com</li>
 <li> 15:43 rhul.sharepoint.com</li>
 <li> 15:40 outlook.office365.com</li>
