@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3124)</li>
 <li>mail.google.com (2838)</li>
 <li>outlook.office.com (2645)</li>
-<li>docs.google.com (2059)</li>
+<li>docs.google.com (2060)</li>
 <li>outlook.office365.com (1895)</li>
 <li>www.reddit.com (1863)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1414)</li>
-<li>duckduckgo.com (1147)</li>
+<li>duckduckgo.com (1148)</li>
 <li>chatgpt.com (813)</li>
 <li>www.amazon.co.uk (749)</li>
 <li>www.theguardian.com (685)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (416)</li>
 <li>web.whatsapp.com (364)</li>
 <li>chat.openai.com (324)</li>
-<li>drive.google.com (299)</li>
+<li>drive.google.com (300)</li>
 <li>feedly.com (289)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (271)</li>
@@ -104,11 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 12/06/25</H3>
+
+<br>
+
+<ul><li> 09:45 docs.google.com</li>
+<li> 09:44 drive.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:52 wetransfer.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:32 forum.arduino.cc</li>
+<li class='same'> 06:31 forum.arduino.cc</li>
+<li> 06:31 duckduckgo.com</li>
+</ul>
+
 <H3>Wednesday, 11/06/25</H3>
 
 <br>
 
-<ul><li> 21:59 duckduckgo.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:59 duckduckgo.com</li>
 <li> 21:58 electronics.stackexchange.com</li>
 <li> 21:57 rpg.stackexchange.com</li>
 <li class='same'> 21:56 rpg.stackexchange.com</li>
