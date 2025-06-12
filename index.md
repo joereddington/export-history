@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3127)</li>
-<li>mail.google.com (2859)</li>
+<li>mail.google.com (2867)</li>
 <li>outlook.office.com (2670)</li>
 <li>docs.google.com (2060)</li>
-<li>outlook.office365.com (1921)</li>
-<li>www.reddit.com (1866)</li>
+<li>outlook.office365.com (1924)</li>
+<li>www.reddit.com (1869)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1414)</li>
-<li>duckduckgo.com (1152)</li>
-<li>chatgpt.com (817)</li>
+<li>duckduckgo.com (1154)</li>
+<li>chatgpt.com (819)</li>
 <li>www.amazon.co.uk (749)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (541)</li>
@@ -87,10 +87,10 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (457)</li>
 <li>github.com (435)</li>
 <li>tvtropes.org (431)</li>
-<li>gmail.com (423)</li>
-<li>web.whatsapp.com (368)</li>
-<li>chat.openai.com (326)</li>
-<li>drive.google.com (300)</li>
+<li>gmail.com (424)</li>
+<li>web.whatsapp.com (369)</li>
+<li>chat.openai.com (328)</li>
+<li>drive.google.com (301)</li>
 <li>feedly.com (290)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (271)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:03 intranet.royalholloway.ac.uk</li>
+<ul><li> 14:57 chatgpt.com</li>
+<li> 14:57 chat.openai.com</li>
+<li> 14:55 web.whatsapp.com</li>
+<li> 14:55 outlook.office365.com</li>
+<li> 14:50 people.com</li>
+<li> 14:50 duckduckgo.com</li>
+<li> 14:46 www.reddit.com</li>
+<li class='same'> 14:45 www.reddit.com</li>
+<li class='same'> 14:44 www.reddit.com</li>
+<li> 14:39 mail.google.com</li>
+<li class='same'> 14:38 mail.google.com</li>
+<li> 14:37 drive.google.com</li>
+<li> 14:36 wetransfer.com</li>
+<li> 14:36 duckduckgo.com</li>
+<li> 14:36 mail.google.com</li>
+<li class='same'> 14:35 mail.google.com</li>
+<li class='same'> 14:29 mail.google.com</li>
+<li class='same'> 14:28 mail.google.com</li>
+<li> 14:28 gmail.com</li>
+<li> 14:28 mail.google.com</li>
+<li> 14:23 outlook.office365.com</li>
+<li> 14:12 chatgpt.com</li>
+<li> 14:12 chat.openai.com</li>
+<li> 14:06 mail.google.com</li>
+<li> 14:06 outlook.office365.com</li>
+<li> 14:03 intranet.royalholloway.ac.uk</li>
 <li class='same'> 14:02 intranet.royalholloway.ac.uk</li>
 <li class='same'> 14:01 intranet.royalholloway.ac.uk</li>
 <li class='same'> 14:00 intranet.royalholloway.ac.uk</li>
