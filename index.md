@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3126)</li>
-<li>mail.google.com (2854)</li>
+<ol><li>www.google.com (3127)</li>
+<li>mail.google.com (2859)</li>
 <li>outlook.office.com (2670)</li>
 <li>docs.google.com (2060)</li>
-<li>outlook.office365.com (1917)</li>
+<li>outlook.office365.com (1921)</li>
 <li>www.reddit.com (1866)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1414)</li>
 <li>duckduckgo.com (1152)</li>
-<li>chatgpt.com (816)</li>
+<li>chatgpt.com (817)</li>
 <li>www.amazon.co.uk (749)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (541)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (457)</li>
 <li>github.com (435)</li>
 <li>tvtropes.org (431)</li>
-<li>gmail.com (422)</li>
+<li>gmail.com (423)</li>
 <li>web.whatsapp.com (368)</li>
-<li>chat.openai.com (325)</li>
+<li>chat.openai.com (326)</li>
 <li>drive.google.com (300)</li>
 <li>feedly.com (290)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:34 mail.google.com</li>
+<ul><li> 14:03 intranet.royalholloway.ac.uk</li>
+<li class='same'> 14:02 intranet.royalholloway.ac.uk</li>
+<li class='same'> 14:01 intranet.royalholloway.ac.uk</li>
+<li class='same'> 14:00 intranet.royalholloway.ac.uk</li>
+<li> 14:00 outlook.office365.com</li>
+<li class='same'> 13:55 outlook.office365.com</li>
+<li> 13:54 intranet.royalholloway.ac.uk</li>
+<li> 13:54 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:43 mail.google.com</li>
+<li class='same'> 12:42 mail.google.com</li>
+<li class='same'> 12:41 mail.google.com</li>
+<li> 12:40 chatgpt.com</li>
+<li> 12:40 chat.openai.com</li>
+<li> 12:39 m365.cloud.microsoft</li>
+<li> 12:38 www.google.com</li>
+<li> 12:37 accounts.google.co.uk</li>
+<li> 12:37 accounts.google.com</li>
+<li> 12:36 outlook.office365.com</li>
+<li> 12:36 mail.google.com</li>
+<li> 12:36 gmail.com</li>
+<li> 12:35 mail.google.com</li>
+<li class='same'> 12:34 mail.google.com</li>
 <li class='same'> 12:32 mail.google.com</li>
 <li> 12:32 gmail.com</li>
 <li> 12:32 outlook.office.com</li>
