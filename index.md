@@ -108,6 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
 <ul><li> 13:32 www.reddit.com</li>
 <li class='same'> 13:31 www.reddit.com</li>
 <li> 13:30 www.ebay.co.uk</li>
@@ -121,11 +126,17 @@ With number of accesses/minutes in parentheses
 <li> 13:04 www.paypal.com</li>
 <li class='same'> 12:59 www.paypal.com</li>
 <li> 12:56 www.ebay.co.uk</li>
+<li> 12:42 <a href="https://www.theguardian.com/books/2025/jun/13/book-crawl-independent-bookshop-week">‘The best way to discover hidden gems’: why you should try out a bookshop crawl | Books | The Guardian</a></li>
+<li> 12:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:39 <a href="https://www.theguardian.com/uk-news/2025/jun/13/digested-week-rachel-reeves-u-turn-sarah-vine-book">Digested week: Remorseless Reeves and Sarah Vine’s masterpiece of self-delusion | John Crace | The Guardian</a></li>
+<li> 12:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:36 <a href="https://www.theguardian.com/world/2025/jun/13/what-has-israel-hit-in-iran-and-who-were-the-generals-and-nuclear-scientists-killed">What has Israel hit in Iran and who were the generals and nuclear scientists killed? | Israel | The Guardian</a></li>
+<li> 12:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 09:08 www.ebay.co.uk</li>
+<ul><li> 09:08 www.ebay.co.uk</li>
 <li> 09:07 chatgpt.com</li>
 <li> 09:07 <a href="https://stackoverflow.com/questions/5183047/setting-graph-figure-size?__cf_chl_tk=iexlCzU3QcGwbg_S8.JAaAd7XCQE0sI42iXx2ADJPXA-1749802027-1.0.1.1-ebCXcgdsebijqGXTbmTiXlii9wgAZUm2NW8_kK3xd2Q">Just a moment...</a></li>
 <li> 09:07 <a href="https://stackoverflow.com/questions/5183047/setting-graph-figure-size?__cf_chl_rt_tk=iexlCzU3QcGwbg_S8.JAaAd7XCQE0sI42iXx2ADJPXA-1749802027-1.0.1.1-ebCXcgdsebijqGXTbmTiXlii9wgAZUm2NW8_kK3xd2Q">Just a moment...</a></li>
@@ -188,11 +199,10 @@ With number of accesses/minutes in parentheses
 <li> 18:44 drive.google.com</li>
 <li class='same'> 18:43 drive.google.com</li>
 <li> 18:43 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:01 <a href="https://www.theguardian.com/environment/2025/jun/12/research-reveals-24000-megafarms-across-europe">Revealed: More than 24,000 factory farms have opened across Europe | Farming | The Guardian</a></li>
+<li> 18:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:22 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 18:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:01 <a href="https://www.theguardian.com/environment/2025/jun/12/research-reveals-24000-megafarms-across-europe">Revealed: More than 24,000 factory farms have opened across Europe | Farming | The Guardian</a></li>
 <li> 18:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 18:00 accounts.google.com</li>
 <li> 18:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
