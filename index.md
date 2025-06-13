@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1869)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1414)</li>
-<li>duckduckgo.com (1155)</li>
-<li>chatgpt.com (822)</li>
-<li>www.amazon.co.uk (749)</li>
+<li>duckduckgo.com (1157)</li>
+<li>chatgpt.com (823)</li>
+<li>www.amazon.co.uk (748)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (543)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 13/06/25</H3>
+
+<br>
+
+<ul><li> 12:59 www.paypal.com</li>
+<li> 12:56 www.ebay.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:08 www.ebay.co.uk</li>
+<li> 09:07 chatgpt.com</li>
+<li> 09:07 <a href="https://stackoverflow.com/questions/5183047/setting-graph-figure-size?__cf_chl_tk=iexlCzU3QcGwbg_S8.JAaAd7XCQE0sI42iXx2ADJPXA-1749802027-1.0.1.1-ebCXcgdsebijqGXTbmTiXlii9wgAZUm2NW8_kK3xd2Q">Just a moment...</a></li>
+<li> 09:07 <a href="https://stackoverflow.com/questions/5183047/setting-graph-figure-size?__cf_chl_rt_tk=iexlCzU3QcGwbg_S8.JAaAd7XCQE0sI42iXx2ADJPXA-1749802027-1.0.1.1-ebCXcgdsebijqGXTbmTiXlii9wgAZUm2NW8_kK3xd2Q">Just a moment...</a></li>
+<li> 09:07 <a href="https://stackoverflow.com/questions/5183047/setting-graph-figure-size">matlab - Setting graph figure size - Stack Overflow</a></li>
+<li> 09:07 duckduckgo.com</li>
+<li> 09:02 www.ebay.co.uk</li>
+<li class='same'> 09:01 www.ebay.co.uk</li>
+<li> 09:01 www.vistaprint.co.uk</li>
+<li> 09:01 duckduckgo.com</li>
+</ul>
 
 <br>
 
@@ -17154,8 +17174,7 @@ With number of accesses/minutes in parentheses
 <li> 15:42 www.theguardian.com</li>
 <li> 15:42 <a href="https://www.youtube.com/watch?v=9A9ZsNDf5tM&themeRefresh=1">Google AutoDraw Tutorial - A.I. Experiment - YouTube</a></li>
 <li> 15:42 www.google.com</li>
-<li> 15:42 www.amazon.co.uk</li>
-<li> 15:41 www.google.com</li>
+<li class='same'> 15:41 www.google.com</li>
 <li> 15:41 clearsky.app</li>
 <li> 15:41 www.google.com</li>
 <li> 15:41 www.amazon.co.uk</li>
