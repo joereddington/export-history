@@ -73,9 +73,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2673)</li>
 <li>docs.google.com (2060)</li>
 <li>outlook.office365.com (1937)</li>
-<li>www.reddit.com (1869)</li>
+<li>www.reddit.com (1871)</li>
 <li>bsky.app (1576)</li>
-<li>www.facebook.com (1414)</li>
+<li>www.facebook.com (1415)</li>
 <li>duckduckgo.com (1157)</li>
 <li>chatgpt.com (823)</li>
 <li>www.amazon.co.uk (748)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:59 www.paypal.com</li>
+<ul><li> 13:32 www.reddit.com</li>
+<li class='same'> 13:31 www.reddit.com</li>
+<li> 13:30 www.ebay.co.uk</li>
+<li> 13:30 www.facebook.com</li>
+<li> 13:29 <a href="https://www.theguardian.com/us-news/2025/jun/12/los-angeles-protests-alex-padilla-kristi-noem">Senator Alex Padilla handcuffed and forcibly removed from Kristi Noem’s LA press conference | Los Angeles Ice protests | The Guardian</a></li>
+<li> 13:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:29 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 13:14 www.ebay.co.uk</li>
+<li class='same'> 13:13 www.ebay.co.uk</li>
+<li> 13:09 equalitytime.github.io</li>
+<li> 13:04 www.paypal.com</li>
+<li class='same'> 12:59 www.paypal.com</li>
 <li> 12:56 www.ebay.co.uk</li>
 </ul>
 
@@ -2608,6 +2619,7 @@ With number of accesses/minutes in parentheses
 <li> 13:38 www.anam.ai</li>
 <li> 13:38 anam.ai</li>
 <li> 13:38 alb.reddit.com</li>
+<li> 13:38 equalitytime.github.io</li>
 <li> 13:38 www.reddit.com</li>
 <li class='same'> 13:36 www.reddit.com</li>
 <li class='same'> 13:34 www.reddit.com</li>
@@ -3746,6 +3758,7 @@ With number of accesses/minutes in parentheses
 <li> 11:49 bsky.app</li>
 <li> 11:48 phys.org</li>
 <li> 11:48 www.reddit.com</li>
+<li> 11:47 equalitytime.github.io</li>
 <li> 11:47 calendar.google.com</li>
 <li> 11:47 www.reddit.com</li>
 <li class='same'> 11:46 www.reddit.com</li>
@@ -5583,6 +5596,7 @@ With number of accesses/minutes in parentheses
 <li> 15:38 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 15:37 www.paypal.com</li>
 <li> 15:37 equalitytime.github.io</li>
+<li class='same'> 15:36 equalitytime.github.io</li>
 <li> 15:34 theopenvoicefactory.org</li>
 <li> 15:33 equalitytime.github.io</li>
 <li> 15:28 chatgpt.com</li>
@@ -5590,6 +5604,7 @@ With number of accesses/minutes in parentheses
 <li> 15:27 github.com</li>
 <li class='same'> 15:26 github.com</li>
 <li class='same'> 15:25 github.com</li>
+<li> 15:25 equalitytime.github.io</li>
 <li> 15:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 15:21 www.reddit.com</li>
 <li class='same'> 15:19 www.reddit.com</li>
@@ -7483,11 +7498,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:36 chatgpt.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:53 <a href="https://www.theguardian.com/us-news/2025/may/08/jd-vance-india-pakistan">Vance says US won’t intervene in India-Pakistan conflict: ‘None of our business’ | US foreign policy | The Guardian</a></li>
+<li> 11:21 equalitytime.github.io</li>
+<li> 10:53 <a href="https://www.theguardian.com/us-news/2025/may/08/jd-vance-india-pakistan">Vance says US won’t intervene in India-Pakistan conflict: ‘None of our business’ | US foreign policy | The Guardian</a></li>
 <li> 10:52 <a href="https://www.theguardian.com/football/2025/may/09/i-punched-another-dad-your-stories-of-the-worst-parent-behaviour-at-kids-football">‘I punched another dad’ – your stories of the worst parent behaviour at kids’ football | Football | The Guardian</a></li>
 <li> 10:46 mail.google.com</li>
 <li> 10:37 www.reddit.com</li>
@@ -37711,7 +37723,8 @@ With number of accesses/minutes in parentheses
 <li> 09:50 mail.google.com</li>
 <li class='same'> 09:48 mail.google.com</li>
 <li> 09:45 bsky.app</li>
-<li class='same'> 09:43 bsky.app</li>
+<li> 09:44 equalitytime.github.io</li>
+<li> 09:43 bsky.app</li>
 <li> 09:42 outlook.office.com</li>
 <li class='same'> 09:33 outlook.office.com</li>
 <li> 09:33 bsky.app</li>
@@ -46452,7 +46465,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:31 www.facebook.com</li>
 <li class='same'> 15:30 www.facebook.com</li>
-<li class='same'> 15:16 www.facebook.com</li>
+<li> 15:19 equalitytime.github.io</li>
+<li> 15:16 www.facebook.com</li>
 </ul>
 
 <br>
@@ -48650,11 +48664,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:04 mail.google.com</li>
 <li class='same'> 15:02 mail.google.com</li>
 <li class='same'> 15:01 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 14:27 teams.microsoft.com</li>
+<li> 14:56 equalitytime.github.io</li>
+<li> 14:27 teams.microsoft.com</li>
 </ul>
 
 <br>
@@ -48745,6 +48756,7 @@ With number of accesses/minutes in parentheses
 <li> 07:33 theopenvoicefactory.org</li>
 <li> 07:29 www.facebook.com</li>
 <li class='same'> 07:28 www.facebook.com</li>
+<li> 07:26 equalitytime.github.io</li>
 <li> 07:25 www.reddit.com</li>
 <li> 07:18 whitewaterwriters.com</li>
 <li> 07:12 calendar.google.com</li>
@@ -49139,6 +49151,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 10:15 127.0.0.1:4000</li>
 <li> 10:07 www.facebook.com</li>
 <li> 09:42 projects.cs.rhul.ac.uk</li>
+<li> 09:37 equalitytime.github.io</li>
 <li> 09:29 www.reddit.com</li>
 <li class='same'> 09:27 www.reddit.com</li>
 <li class='same'> 09:26 www.reddit.com</li>
@@ -49251,7 +49264,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:02 equalitytime.github.io</li>
+<ul><li> 13:14 equalitytime.github.io</li>
+<li class='same'> 13:02 equalitytime.github.io</li>
 <li> 12:55 mail.google.com</li>
 <li class='same'> 12:54 mail.google.com</li>
 <li> 12:29 www.buzzfeed.com</li>
@@ -49813,7 +49827,8 @@ With number of accesses/minutes in parentheses
 <li> 07:26 www.paypal.com</li>
 <li class='same'> 07:25 www.paypal.com</li>
 <li> 07:23 docs.google.com</li>
-<li> 07:21 equalitytime.github.io</li>
+<li> 07:22 equalitytime.github.io</li>
+<li class='same'> 07:21 equalitytime.github.io</li>
 <li> 07:11 docs.google.com</li>
 </ul>
 
@@ -58477,20 +58492,19 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:27 search.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 14:54 drive.google.com</li>
+<li> 14:58 equalitytime.github.io</li>
+<li> 14:54 drive.google.com</li>
 <li> 14:33 calendar.google.com</li>
 </ul>
 
 <br>
 
 <ul><li> 12:34 www.paypal.com</li>
+<li> 12:31 equalitytime.github.io</li>
 <li> 12:22 <a href="https://stackoverflow.com/users/170243/joe">User Joe - Stack Overflow</a></li>
 <li> 12:12 accounts.google.co.uk</li>
-<li> 11:59 equalitytime.github.io</li>
+<li> 12:05 equalitytime.github.io</li>
+<li class='same'> 11:59 equalitytime.github.io</li>
 <li> 11:29 127.0.0.1:4000</li>
 <li> 11:14 equalitytime.github.io</li>
 <li> 11:03 www.tightrope.co.uk</li>
@@ -58570,6 +58584,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:37 www.dropbox.com</li>
 <li> 13:26 127.0.0.1:4000</li>
+<li> 13:25 equalitytime.github.io</li>
 <li> 13:18 docs.google.com</li>
 <li> 13:07 www.paypal.com</li>
 <li> 13:07 equalitytime.github.io</li>
