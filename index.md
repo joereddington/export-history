@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2673)</li>
 <li>docs.google.com (2060)</li>
 <li>outlook.office365.com (1937)</li>
-<li>www.reddit.com (1871)</li>
+<li>www.reddit.com (1873)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1415)</li>
 <li>duckduckgo.com (1157)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (543)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
-<li>www.linkedin.com (504)</li>
+<li>www.linkedin.com (506)</li>
 <li>rhul-my.sharepoint.com (479)</li>
 <li>login.microsoftonline.com (461)</li>
 <li>github.com (435)</li>
@@ -108,18 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 19:49 www.reddit.com</li>
 </ul>
 
 <br>
 
-<ul><li> 13:32 www.reddit.com</li>
+<ul><li> 18:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:53 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
+<li> 18:50 <a href="https://www.theguardian.com/world/live/2025/jun/13/israel-iran-strikes-defence-minister-tehran-middle-east-live?page=with:block-684c60028f08baf6b1a6b10b#block-684c60028f08baf6b1a6b10b">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
+<li> 18:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:50 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
+<li> 18:50 <a href="https://www.theguardian.com/world/2025/jun/13/israels-strikes-on-iran-show-trump-is-unable-to-restrain-netanyahu-as-middle-east-slips-closer-to-chaos">Israel’s strikes on Iran show Trump is unable to restrain Netanyahu as Middle East slips closer to chaos | Iran | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:51 <a href="https://www.theguardian.com/world/2025/jun/13/israels-strikes-on-iran-show-trump-is-unable-to-restrain-netanyahu-as-middle-east-slips-closer-to-chaos">Israel’s strikes on Iran show Trump is unable to restrain Netanyahu as Middle East slips closer to chaos | Iran | The Guardian</a></li>
+<li> 15:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 13:36 www.linkedin.com</li>
+<li class='same'> 13:35 www.linkedin.com</li>
+<li> 13:33 www.reddit.com</li>
+<li class='same'> 13:32 www.reddit.com</li>
 <li class='same'> 13:31 www.reddit.com</li>
 <li> 13:30 www.ebay.co.uk</li>
 <li> 13:30 www.facebook.com</li>
 <li> 13:29 <a href="https://www.theguardian.com/us-news/2025/jun/12/los-angeles-protests-alex-padilla-kristi-noem">Senator Alex Padilla handcuffed and forcibly removed from Kristi Noem’s LA press conference | Los Angeles Ice protests | The Guardian</a></li>
 <li> 13:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:29 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 13:29 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 13:14 www.ebay.co.uk</li>
 <li class='same'> 13:13 www.ebay.co.uk</li>
 <li> 13:09 equalitytime.github.io</li>
@@ -200,7 +219,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:43 drive.google.com</li>
 <li> 18:43 mail.google.com</li>
 <li> 18:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:22 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 18:22 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 18:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 18:01 <a href="https://www.theguardian.com/environment/2025/jun/12/research-reveals-24000-megafarms-across-europe">Revealed: More than 24,000 factory farms have opened across Europe | Farming | The Guardian</a></li>
 <li> 18:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -408,7 +427,7 @@ With number of accesses/minutes in parentheses
 <li> 10:06 chatgpt.com</li>
 <li> 10:05 royalhollowayacuk.elluciancrmrecruit.com</li>
 <li> 09:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:54 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 09:54 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 09:54 <a href="https://www.theguardian.com/culture/2025/jun/12/tamara-de-lempicka-rafaela-portrait-sale">Tamara de Lempicka’s ‘remarkable nude’ of lover Rafaëla to be auctioned | Culture | The Guardian</a></li>
 <li> 09:45 docs.google.com</li>
 <li> 09:44 drive.google.com</li>
@@ -418,7 +437,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:14 <a href="https://www.theguardian.com/culture/2025/jun/12/tamara-de-lempicka-rafaela-portrait-sale">Tamara de Lempicka’s ‘remarkable nude’ of lover Rafaëla to be auctioned | Culture | The Guardian</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:13 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 09:13 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/football/2025/jun/12/sky-sports-news-golden-age-at-an-end-as-rival-platforms-turn-up-the-volume">Sky Sports News’ golden age at an end as rival platforms turn up the volume | Football | The Guardian</a></li>
 </ul>
 
@@ -442,7 +461,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:31 forum.arduino.cc</li>
 <li> 06:31 duckduckgo.com</li>
 <li> 06:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:20 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 06:20 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 </ul>
 
 <H3>Wednesday, 11/06/25</H3>
@@ -511,7 +530,7 @@ With number of accesses/minutes in parentheses
 <li> 19:10 duckduckgo.com</li>
 <li> 19:09 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/11/well-have-done-it-first-what-it-takes-to-set-a-new-guinness-world-record">‘We’ll have done it first’: what it takes to set a new Guinness World Record | Australian lifestyle | The Guardian</a></li>
 <li> 19:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:05 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 19:05 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 18:54 studio.youtube.com</li>
 <li> 18:54 <a href="https://www.youtube.com/@projectreal2513">(51) Project Real - YouTube</a></li>
 <li> 18:54 studio.youtube.com</li>
@@ -725,7 +744,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:39 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 18:39 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 18:38 <a href="https://www.theguardian.com/us-news/2025/jun/10/trump-fires-usaid-overseas-employees">Trump administration to cut all USAID overseas roles and axe thousands of staff | Trump administration | The Guardian</a></li>
 <li> 18:37 en.meming.world</li>
 </ul>
@@ -869,7 +888,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:24 outlook.office.com</li>
 <li> 10:22 <a href="https://www.theguardian.com/books/2025/jun/10/how-not-to-be-a-political-wife-by-sarah-vine-review-a-bitter-memoir-of-power-and-betrayal">How Not to Be a Political Wife by Sarah Vine review – a bitter memoir of power and betrayal | Autobiography and memoir | The Guardian</a></li>
 <li> 10:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:21 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 10:21 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 10:21 outlook.office.com</li>
 <li class='same'> 10:19 outlook.office.com</li>
 <li class='same'> 10:17 outlook.office.com</li>
@@ -926,7 +945,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 21:41 <a href="https://www.theguardian.com/world/2025/may/22/germany-anti-russian-defence-nato-lithuania-friedrich-merz">German troops start first permanent foreign deployment since second world war | Germany | The Guardian</a></li>
 <li> 21:39 <a href="https://www.theguardian.com/world/2025/jun/09/nato-chief-russia-quantum-leap-defence">Russia could be ready to attack Nato within five years, says secretary general | Nato | The Guardian</a></li>
 <li> 21:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 21:38 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 21:38 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 21:37 <a href="https://www.theguardian.com/uk-news/2025/jun/09/uk-teenager-killed-herself-highly-affected-terrorism-arrest-inquest-rhianan-rudd">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
 <li> 21:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 21:36 www.reddit.com</li>
@@ -989,7 +1008,7 @@ With number of accesses/minutes in parentheses
 <li> 17:52 mail.google.com</li>
 <li class='same'> 17:51 mail.google.com</li>
 <li> 17:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:51 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 17:51 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 17:51 www.reddit.com</li>
 <li class='same'> 17:50 www.reddit.com</li>
 <li class='same'> 17:46 www.reddit.com</li>
@@ -1135,7 +1154,7 @@ With number of accesses/minutes in parentheses
 <li> 20:55 <a href="https://www.theguardian.com/environment/2025/jun/08/campaigners-hail-plan-to-ban-bottom-trawling-in-half-of-englands-protected-seas">Campaigners hail plan to ban bottom trawling in half of England’s protected seas | Fishing | The Guardian</a></li>
 <li> 20:54 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/08/this-is-how-we-do-it-we-live-in-a-tiny-flat-with-our-kids-so-we-have-sex-in-the-woods-at-night">This is how we do it: ‘We live in a tiny flat with our kids, so we have sex in the woods at night’ | Life and style | The Guardian</a></li>
 <li> 20:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 20:53 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 20:53 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 20:53 bsky.app</li>
 <li> 20:50 www.amazon.co.uk</li>
 <li class='same'> 20:49 www.amazon.co.uk</li>
@@ -1759,7 +1778,7 @@ With number of accesses/minutes in parentheses
 <li> 08:07 www.huffingtonpost.co.uk</li>
 <li> 08:05 www.buzzfeed.com</li>
 <li> 08:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:05 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 08:05 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 07:55 <a href="https://www.theguardian.com/commentisfree/2025/jun/05/trump-musk-fight-fallout">Trump v Musk: world’s two worst people are finally having a big, beautiful breakup | Arwa Mahdawi | The Guardian</a></li>
 <li> 07:41 news.sky.com</li>
 <li> 07:41 www.google.com</li>
@@ -1799,18 +1818,18 @@ With number of accesses/minutes in parentheses
 <li> 06:55 www.telegraph.co.uk</li>
 <li> 06:53 <a href="https://www.theguardian.com/music/2025/jun/06/beyonce-london-concert-show-review-cowboy-carter-tour">Beyoncé review – a hugely enjoyable concert that adds a ferocious potency to Cowboy Carter | Beyoncé | The Guardian</a></li>
 <li> 06:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:52 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 06:52 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 06:52 <a href="https://www.theguardian.com/us-news/2025/jun/06/trump-travel-ban-analysis">Trump travel ban comes as little surprise amid barrage of draconian restrictions | US immigration | The Guardian</a></li>
 <li> 06:52 news.sky.com</li>
 <li> 06:48 <a href="https://www.theguardian.com/us-news/2025/jun/06/trump-travel-ban-analysis">Trump travel ban comes as little surprise amid barrage of draconian restrictions | US immigration | The Guardian</a></li>
 <li> 06:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:47 <a href="https://www.theguardian.com/politics/2025/jun/05/zia-yusuf-quits-as-chair-of-reform-uk-after-new-mp-burqa-ban-row">Zia Yusuf quits as Reform UK chair after row over new MP’s call for burqa ban | Reform UK | The Guardian</a></li>
 <li> 06:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:46 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 06:46 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 06:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/us-news/2025/jun/05/trump-elon-musk-fallout">Impeachment, Epstein and bitter acrimony: Trump and Musk joust in astonishing social media duel | Donald Trump | The Guardian</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:44 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 06:44 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/commentisfree/2025/jun/06/keir-starmer-politics-left-right-prime-minister">Keir Starmer’s muddled politics are reaching their limit. It’s time for him to make a choice | Andy Beckett | The Guardian</a></li>
 <li> 06:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:42 <a href="https://www.theguardian.com/culture/2025/jun/06/explain-it-to-me-quickly-what-is-aura-farming-and-is-it-cool-or-cringe">Explain it to me quickly: What is aura farming, and is it cool or cringe? | Timothée Chalamet | The Guardian</a></li>
@@ -2009,7 +2028,7 @@ With number of accesses/minutes in parentheses
 <li> 06:18 <a href="https://www.theguardian.com/film/2025/jun/05/predator-killer-of-killers-review-animated-anthology-of-arnies-old-antagonists">Predator: Killer of Killers review – animated anthology of Arnie’s old antagonists | Film | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/australia-news/2025/jun/05/erin-patterson-mushroom-lunch-trial-cross-examination-death-cap-ntwnfb">Erin Patterson denies deliberately foraging death cap mushrooms and weighing fatal dose as cross-examination begins | Victoria | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:17 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 06:17 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 06:16 mail.google.com</li>
 </ul>
 
@@ -2302,7 +2321,7 @@ With number of accesses/minutes in parentheses
 <li> 10:02 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/use-word-gotten-some-readers-upset">How the use of a word in the Guardian has gotten some readers upset | Elisabeth Ribbans | The Guardian</a></li>
 <li> 10:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 10:02 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/04/stick-review-owen-wilson-golf-apple-tv">Stick review – Owen Wilson is utterly charming in the Ted Lasso of golf | Television | The Guardian</a></li>
-<li> 10:02 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 10:02 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 10:00 mail.google.com</li>
 <li> 09:59 my-charity-account.charitycommission.gov.uk</li>
 <li class='same'> 09:56 my-charity-account.charitycommission.gov.uk</li>
@@ -2347,7 +2366,7 @@ With number of accesses/minutes in parentheses
 <li> 08:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:52 <a href="https://www.theguardian.com/us-news/2025/jun/03/lindsey-graham-trump-russia-ukraine">Are Lindsey Graham’s contortions about to prod Trump into Russia sanctions? | US news | The Guardian</a></li>
 <li> 08:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:52 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 </ul>
 
 <br>
@@ -2481,7 +2500,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:15 docs.google.com</li>
 <li> 19:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:14 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 19:14 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 19:14 www.foxnews.com</li>
 <li class='same'> 19:13 www.foxnews.com</li>
 <li> 19:13 www.giantitp.com</li>
@@ -2529,7 +2548,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:16 www.camerajungle.co.uk</li>
 <li> 17:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:16 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 17:16 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 17:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 17:09 www.linkedin.com</li>
 <li> 17:08 chatgpt.com</li>
@@ -2541,7 +2560,7 @@ With number of accesses/minutes in parentheses
 <li> 17:03 www.google.com</li>
 <li> 17:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li class='same'> 16:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:40 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 16:40 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 16:27 mail.google.com</li>
 <li class='same'> 16:22 mail.google.com</li>
 <li> 16:21 www.reddit.com</li>
@@ -2622,7 +2641,7 @@ With number of accesses/minutes in parentheses
 <li> 13:49 outlook.office365.com</li>
 <li class='same'> 13:48 outlook.office365.com</li>
 <li> 13:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:46 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 13:46 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 13:41 www.reddit.com</li>
 <li class='same'> 13:39 www.reddit.com</li>
 <li class='same'> 13:38 www.reddit.com</li>
@@ -2736,7 +2755,7 @@ With number of accesses/minutes in parentheses
 <li> 06:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 06:54 <a href="https://www.theguardian.com/world/2025/jun/02/operation-spiderweb-visual-guide-ukraine-drone-attack-russian-aircraft">Operation Spiderweb: a visual guide to Ukraine’s destruction of Russian aircraft | Ukraine | The Guardian</a></li>
 <li> 06:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:54 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 06:54 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 06:49 docs.google.com</li>
 <li> 06:44 www.linkedin.com</li>
 <li> 06:42 www.reddit.com</li>
@@ -2804,7 +2823,7 @@ With number of accesses/minutes in parentheses
 <li> 18:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/02/why-did-ncuti-gatwa-leave-doctor-who-so-soon#img-1">Fun, flirty and far too brief: why did Ncuti Gatwa leave Doctor Who so soon? | Doctor Who | The Guardian</a></li>
 <li> 18:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/02/why-did-ncuti-gatwa-leave-doctor-who-so-soon">Fun, flirty and far too brief: why did Ncuti Gatwa leave Doctor Who so soon? | Doctor Who | The Guardian</a></li>
 <li> 18:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:08 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 18:08 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 18:08 bsky.app</li>
 <li> 17:54 outlook.office365.com</li>
 <li class='same'> 17:53 outlook.office365.com</li>
@@ -2969,7 +2988,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:58 <a href="https://en.wikipedia.org/wiki/Shane_Gillis">Shane Gillis - Wikipedia</a></li>
 <li> 17:58 duckduckgo.com</li>
 <li> 17:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:58 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 17:58 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 17:57 www.giantitp.com</li>
 <li class='same'> 17:56 www.giantitp.com</li>
 <li class='same'> 17:55 www.giantitp.com</li>
@@ -3360,7 +3379,7 @@ With number of accesses/minutes in parentheses
 <li> 12:02 <a href="https://www.theguardian.com/us-news/2025/may/29/trump-always-chickens-out-taco-investors-narrative">‘Trump always chickens out’: Taco jibe ruffles president’s feathers | Donald Trump | The Guardian</a></li>
 <li> 12:01 <a href="https://www.theguardian.com/uk-news/2025/may/30/uk-poshest-thief-fined-stealing-le-creuset-cookware">Woman who calls herself ‘UK’s poshest thief’ fined for stealing Le Creuset cookware | UK news | The Guardian</a></li>
 <li> 12:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:01 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 12:01 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 12:00 outlook.office365.com</li>
 </ul>
 
@@ -3432,11 +3451,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:38 www.reddit.com</li>
 <li> 21:37 <a href="https://www.theguardian.com/news/2025/may/29/why-does-switzerland-have-more-nuclear-bunkers-than-any-other-country">Why does Switzerland have more nuclear bunkers than any other country? | Nuclear weapons | The Guardian</a></li>
 <li> 21:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 21:36 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 21:36 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 21:34 <a href="https://www.theguardian.com/commentisfree/2025/may/09/reform-farage-kill-off-tories-ridiculous-byelections">Will Nigel Farage and Reform UK kill off the Tories? Don’t be so ridiculous | Simon Jenkins | The Guardian</a></li>
 <li> 21:32 <a href="https://www.theguardian.com/politics/2025/may/29/is-there-any-way-back-from-abyss-for-tories">‘The brand is broken’: is there any way back from abyss for Tories? | Conservatives | The Guardian</a></li>
 <li> 21:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 21:31 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 21:31 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 21:23 mail.google.com</li>
 <li class='same'> 21:22 mail.google.com</li>
 <li> 21:22 gmail.com</li>
@@ -3492,10 +3511,10 @@ With number of accesses/minutes in parentheses
 <li> 17:44 <a href="https://www.theguardian.com/commentisfree/2025/may/29/king-charles-politics-monarchy-visit-to-canada">In Canada, Charles pushed the boundaries of politics as king. So far, he has gotten away with it | Martin Kettle | The Guardian</a></li>
 <li> 17:42 <a href="https://www.theguardian.com/commentisfree/2025/may/29/donald-trump-elon-musk-doge-tariffs">It’s been a big, beautiful week of bad news for Trump. But don’t expect it to stick | Zoe Williams | The Guardian</a></li>
 <li> 17:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:42 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 17:42 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 17:41 <a href="https://www.theguardian.com/us-news/2025/may/29/why-has-a-us-court-blocked-donald-trumps-tariffs-and-can-he-get-round-it">Why has a US court blocked Donald Trump’s tariffs – and can he get round it? | Trump tariffs | The Guardian</a></li>
 <li> 17:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:40 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 17:40 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 17:40 bsky.app</li>
 <li> 17:40 www.facebook.com</li>
 <li> 17:40 docs.google.com</li>
@@ -3530,7 +3549,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:48 www.reddit.com</li>
 <li class='same'> 15:47 www.reddit.com</li>
 <li> 15:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:34 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 15:34 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 15:24 www.printables.com</li>
 </ul>
 
@@ -3635,7 +3654,7 @@ With number of accesses/minutes in parentheses
 <li> 19:34 <a href="https://www.theguardian.com/news/2025/may/28/influencers-andrew-tate-tristan-to-face-charges-in-uk-cps-confirms">Influencers Andrew and Tristan Tate to face 21 charges in UK, CPS confirms | Andrew Tate | The Guardian</a></li>
 <li class='same'> 19:33 <a href="https://www.theguardian.com/news/2025/may/28/influencers-andrew-tate-tristan-to-face-charges-in-uk-cps-confirms">Influencers Andrew and Tristan Tate to face 21 charges in UK, CPS confirms | Andrew Tate | The Guardian</a></li>
 <li> 19:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:33 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 19:33 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 19:33 <a href="https://www.theguardian.com/help/privacy-policy">Privacy policy | Privacy | The Guardian</a></li>
 <li> 19:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
@@ -3650,7 +3669,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:09 <a href="https://www.theguardian.com/politics/2025/may/28/john-mcdonnell-calls-for-grassroots-leadership-challenge-to-keir-starmer-government">John McDonnell calls for grassroots leadership challenge to Starmer government | John McDonnell | The Guardian</a></li>
 <li> 18:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:09 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 18:09 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 18:08 www.reddit.com</li>
 <li class='same'> 18:06 www.reddit.com</li>
 <li class='same'> 18:05 www.reddit.com</li>
@@ -3662,7 +3681,7 @@ With number of accesses/minutes in parentheses
 <li> 17:58 <a href="https://www.theguardian.com/us-news/live/2025/may/28/us-politics-live-donald-trump-elon-musk-tax-doge-harvard-students-immigration-news-updates#top-of-blog">Trump says he will be negotiating the ‘big, beautiful’ tax bill after Musk criticizes it – live</a></li>
 <li> 17:57 <a href="https://www.theguardian.com/us-news/live/2025/may/28/us-politics-live-donald-trump-elon-musk-tax-doge-harvard-students-immigration-news-updates">(1) Trump says he will be negotiating the ‘big, beautiful’ tax bill after Musk criticizes it – live</a></li>
 <li> 17:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:57 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 17:57 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 17:32 <a href="https://www.theguardian.com/money/2025/may/28/uk-homeowners-selling-less-asking-price-survey-zoopla">UK homeowners selling for 4.5% below asking price, survey shows | House prices | The Guardian</a></li>
 <li> 17:20 <a href="https://www.youtube.com/watch?v=eghnMsWqWuY">The Queens Gambit Season 1 Episode 2 Beth Harmon VS Townes - YouTube</a></li>
 <li> 17:20 <a href="https://www.youtube.com/results?search_query=queen%27s+gambit">queen's gambit - YouTube</a></li>
@@ -4204,7 +4223,7 @@ With number of accesses/minutes in parentheses
 <li> 22:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 22:27 <a href="https://www.theguardian.com/lifeandstyle/2025/may/25/daphne-and-celeste-pop-duo-look-back">‘People in the scene would sometimes be mean to us. They’d forget we were teenagers’: Daphne and Celeste look back | Life and style | The Guardian</a></li>
 <li> 22:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 22:26 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 22:26 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 22:26 <a href="https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
 <li> 22:26 www.activeluton.co.uk</li>
 </ul>
@@ -4230,7 +4249,7 @@ With number of accesses/minutes in parentheses
 <li> 19:45 <a href="https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
 <li> 19:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 19:43 <a href="https://www.theguardian.com/lifeandstyle/ng-interactive/2025/may/17/the-happiest-places-to-live-in-britain">The Guardian’s happiest places to live in Britain revealed | Life and style | The Guardian</a></li>
-<li> 19:43 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 19:43 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 19:43 www.google.com</li>
 </ul>
 
@@ -4272,7 +4291,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 14:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:02 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 14:02 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 14:02 <a href="https://www.theguardian.com/world/2025/may/23/hamburg-train-station-stabbing-attack-germany?utm_source=firefox-newtab-en-gb">Woman arrested after 17 people injured in knife attack at Hamburg train station | Germany | The Guardian</a></li>
 <li> 13:59 <a href="https://www.theguardian.com/education/2025/may/24/children-with-special-needs-in-england-may-lose-legal-right-to-school-support">Children with special needs in England may lose legal right to school support | Special educational needs | The Guardian</a></li>
 </ul>
@@ -4282,10 +4301,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:18 mail.google.com</li>
 <li> 11:55 <a href="https://www.theguardian.com/education/2025/may/24/children-with-special-needs-in-england-may-lose-legal-right-to-school-support">Children with special needs in England may lose legal right to school support | Special educational needs | The Guardian</a></li>
 <li> 11:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:55 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 11:55 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 11:50 <a href="https://www.theguardian.com/world/2025/may/24/trump-russia-sanctions-europe-ukraine">Trump’s Russia sanctions refusal leaves Europe with few options but to wait | Ukraine | The Guardian</a></li>
 <li> 11:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:43 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 11:43 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 </ul>
 
 <br>
@@ -4296,7 +4315,7 @@ With number of accesses/minutes in parentheses
 <li> 10:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 10:44 <a href="https://www.theguardian.com/society/2025/may/24/disabled-campaigners-trans-people-toilet-segregation">Disabled campaigners watching ‘in horror’ as trans people face toilet segregation | Transgender | The Guardian</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:43 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 10:43 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/sport/2025/may/24/adrian-newey-out-to-build-car-that-will-tempt-max-verstappen-to-aston-martin">Adrian Newey out to build car that will tempt Max Verstappen to Aston Martin | Aston Martin | The Guardian</a></li>
 </ul>
 
@@ -4355,7 +4374,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:34 drive.google.com</li>
 <li> 06:32 <a href="https://www.theguardian.com/sport/2025/may/24/adrian-newey-out-to-build-car-that-will-tempt-max-verstappen-to-aston-martin">Adrian Newey out to build car that will tempt Max Verstappen to Aston Martin | Aston Martin | The Guardian</a></li>
 <li> 06:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:30 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 06:30 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 06:30 <a href="https://www.theguardian.com/business/live/2025/may/23/energy-price-cap-cut-great-britain-retail-sales-stock-markets-bonds-business-live-news">Trump announces Nippon Steel and US Steel partnership – as it happened | Business | The Guardian</a></li>
 </ul>
 
@@ -4591,11 +4610,11 @@ With number of accesses/minutes in parentheses
 <li> 07:21 <a href="https://www.theguardian.com/world/2025/may/09/mexico-google-lawsuit-gulf-of-mexico">Mexico sues Google over changing Gulf of Mexico’s name for US users | Mexico | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/technology/2025/may/23/elon-musk-new-city-starbase-texas">Fear, hope and loathing in Elon Musk’s new city: ‘It’s the wild, wild west and the future’ | Elon Musk | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:21 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 07:21 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/us-news/2025/may/22/israeli-embassy-staff-shooting-washington-dc">Suspect charged with murder in shooting of Israeli embassy staffers | Washington DC | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:21 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 07:21 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/us-news/2025/may/22/israeli-embassy-staff-shooting-washington-dc">Suspect charged with murder in shooting of Israeli embassy staffers | Washington DC | The Guardian</a></li>
 <li> 07:18 chatgpt.com</li>
 <li> 07:15 calendar.google.com</li>
@@ -4677,7 +4696,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:38 <a href="https://www.theguardian.com/law/2025/may/22/court-ruling-legal-definition-of-a-woman-misinterpreted-lady-hale">Court ruling on legal definition of a woman ‘misinterpreted’, Lady Hale says | Brenda Hale | The Guardian</a></li>
 <li> 20:38 <a href="https://www.theguardian.com/world/2025/may/22/high-court-judge-blocks-uk-from-concluding-chagos-islands-deal">UK signs £3.4bn deal to cede sovereignty over Chagos Islands to Mauritius | Chagos Islands | The Guardian</a></li>
 <li> 20:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 20:37 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 20:37 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 </ul>
 
 <br>
@@ -4822,7 +4841,7 @@ With number of accesses/minutes in parentheses
 <li> 06:45 outlook.office365.com</li>
 <li> 06:41 <a href="https://www.theguardian.com/games/2025/may/16/epic-games-apple-fortnite-app-store">Fortnite unavailable on iPhones globally after Apple rejects App Store release | Fortnite | The Guardian</a></li>
 <li> 06:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:40 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 06:40 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 06:40 outlook.office365.com</li>
 <li> 06:38 intranet.royalholloway.ac.uk</li>
 <li> 06:38 duckduckgo.com</li>
@@ -4846,7 +4865,7 @@ With number of accesses/minutes in parentheses
 <li> 21:35 docs.google.com</li>
 <li> 21:33 <a href="https://www.theguardian.com/technology/2025/may/21/openai-iphone-io">OpenAI buys iPhone architect’s startup for $6.4bn | Technology | The Guardian</a></li>
 <li> 21:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 21:31 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 21:31 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 21:06 www.reddit.com</li>
 <li> 21:06 www.google.com</li>
 <li> 21:06 www.reddit.com</li>
@@ -5133,7 +5152,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 19:11 www.foxnews.com</li>
 <li> 19:10 <a href="https://www.theguardian.com/world/live/2025/may/20/israel-gaza-hamas-aid-middle-east-crisis-live-news-updates">EU to review trade relations with Israel over ‘untenable’ situation in Gaza, says top diplomat – live</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:10 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 19:10 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/business/2025/may/15/ministers-to-block-thames-water-paying-bosses-bonuses-out-of-emergency-loan">Ministers to block Thames Water paying bosses bonuses out of emergency loan | Thames Water | The Guardian</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/business/2025/may/20/thames-water-chair-mps-bonuses">Thames Water: big bonuses due from emergency £3bn loan ‘withdrawn’ | Thames Water | The Guardian</a></li>
 <li> 19:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -5307,7 +5326,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:59 www.google.com</li>
 <li> 15:57 <a href="https://www.theguardian.com/world/2025/may/19/property-england-wales-hidden-behind-opaque-trusts">At least £64bn of property in England and Wales hidden behind opaque trusts | Tax havens | The Guardian</a></li>
 <li> 15:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:57 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 15:57 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 15:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
@@ -5397,7 +5416,7 @@ With number of accesses/minutes in parentheses
 <li> 11:49 <a href="https://www.bbc.co.uk/naidheachdan">Naidheachdan - BBC Naidheachdan</a></li>
 <li> 11:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:49 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 11:49 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/politics/2025/may/17/essex-thurrock-grays-views-brexit-eu-referendum">‘It feels like we never left’: resentment builds in one of UK’s firmest Brexit-backing areas | Brexit | The Guardian</a></li>
 </ul>
 
@@ -5407,7 +5426,7 @@ With number of accesses/minutes in parentheses
 <li> 11:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 11:04 <a href="https://www.theguardian.com/tv-and-radio/2025/may/18/eurovision-song-contest-winner-2025">Austria wins 69th Eurovision song contest with Wasted Love | Eurovision 2025 | The Guardian</a></li>
 <li> 11:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:04 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 11:04 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 10:53 <a href="https://www.theguardian.com/world/2025/may/18/ukraine-reports-largest-drone-attack-from-russia-since-war-began">Russia fires 273 drones at Ukraine in largest attack since start of war | Ukraine | The Guardian</a></li>
 <li> 10:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
@@ -5428,7 +5447,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:21 <a href="https://www.theguardian.com/lifeandstyle/ng-interactive/2025/may/17/the-happiest-places-to-live-in-britain">The Guardian’s happiest places to live in Britain revealed | Life and style | The Guardian</a></li>
 <li> 19:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:21 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 19:21 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 19:12 www.reddit.com</li>
 <li> 19:12 www.google.com</li>
 <li> 19:11 www.reddit.com</li>
@@ -5512,7 +5531,7 @@ With number of accesses/minutes in parentheses
 <li> 08:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:27 <a href="https://www.theguardian.com/culture/2025/may/17/my-cultural-awakening-pulp-something-changed">My cultural awakening: a Pulp song made me realise I was in love with my best friend | Culture | The Guardian</a></li>
 <li> 08:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:26 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 08:26 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 08:26 <a href="https://www.theguardian.com/commentisfree/2025/may/14/ukraine-newfound-confidence-europe-russia-usa">The good news from Kyiv: with or without a ceasefire, Ukraine has a newfound confidence | Nathalie Tocci | The Guardian</a></li>
 </ul>
 
@@ -5531,7 +5550,7 @@ With number of accesses/minutes in parentheses
 <li> 18:08 <a href="https://www.theguardian.com/world/2025/may/16/russia-ukraine-meet-first-direct-talks-since-2022-instanbul#img-1">Russia and Ukraine talks end without meaningful breakthrough | Ukraine | The Guardian</a></li>
 <li> 18:08 <a href="https://www.theguardian.com/world/2025/may/16/russia-ukraine-meet-first-direct-talks-since-2022-instanbul">Russia and Ukraine talks end without meaningful breakthrough | Ukraine | The Guardian</a></li>
 <li> 18:07 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:07 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 18:07 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 18:00 www.thingiverse.com</li>
 </ul>
 
@@ -5898,7 +5917,7 @@ With number of accesses/minutes in parentheses
 <li> 18:01 feedly.com</li>
 <li> 18:00 <a href="https://www.theguardian.com/news/2025/may/14/michelle-obama-20-the-liberation-of-the-former-first-lady">Michelle Obama 2.0 – the reinvention of the former first lady | Michelle Obama | The Guardian</a></li>
 <li> 17:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:58 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 17:58 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 17:58 docs.google.com</li>
 </ul>
 
@@ -6023,7 +6042,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:15 <a href="https://www.theguardian.com/commentisfree/2025/may/14/ukraine-newfound-confidence-europe-russia-usa">The good news from Kyiv: with or without a ceasefire, Ukraine has a newfound confidence | Nathalie Tocci | The Guardian</a></li>
 <li> 09:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:14 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 09:14 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 09:10 web.whatsapp.com</li>
 <li> 09:10 www.facebook.com</li>
 <li class='same'> 09:09 www.facebook.com</li>
@@ -6233,9 +6252,9 @@ With number of accesses/minutes in parentheses
 <li> 14:35 www.google.com</li>
 <li> 14:35 www.thedailymash.co.uk</li>
 <li> 14:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:28 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 14:28 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 14:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:04 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 14:04 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 14:04 <a href="https://www.theguardian.com/artanddesign/2025/may/13/i-marvel-i-have-any-brain-cells-left-drummer-patrick-dougher-on-drugs-drink-and-blowing-his-big-break-with-sade">‘I marvel I have any brain cells left’: artist Patrick Dougher on drugs, drink and blowing his big break with Sade | Art | The Guardian</a></li>
 <li> 14:03 mail.google.com</li>
 <li> 14:00 www.facebook.com</li>
@@ -6257,7 +6276,7 @@ With number of accesses/minutes in parentheses
 <li> 13:23 duckduckgo.com</li>
 <li> 13:22 <a href="https://www.theguardian.com/artanddesign/2025/may/13/linda-rosenkrantz-peter-hujar-rebecca-hall-ben-whishaw-drugs-orgies">‘I invited a dozen ex-boyfriends to dinner and taped it’: the amazing avant garde recordings of Linda Rosenkrantz | Art | The Guardian</a></li>
 <li> 13:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:22 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 13:22 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 13:21 teams.microsoft.com</li>
 <li> 13:18 qmucu.org</li>
 <li> 13:18 duckduckgo.com</li>
@@ -6359,7 +6378,7 @@ With number of accesses/minutes in parentheses
 <li> 10:55 gmail.com</li>
 <li> 10:47 <a href="https://www.theguardian.com/artanddesign/2025/may/13/i-marvel-i-have-any-brain-cells-left-drummer-patrick-dougher-on-drugs-drink-and-blowing-his-big-break-with-sade">‘I marvel I have any brain cells left’: artist Patrick Dougher on drugs, drink and blowing his big break with Sade | Art | The Guardian</a></li>
 <li> 10:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:47 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 10:47 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/sport/2025/may/13/novak-djokovic-and-andy-murray-end-coaching-partnership-early-after-six-months">Novak Djokovic and Andy Murray end coaching partnership after six months | Andy Murray | The Guardian</a></li>
 <li> 10:41 <a href="https://www.youtube.com/watch?v=qgC_E7p7_q0">Secure Attendance Tracking System - YouTube</a></li>
 <li> 10:41 <a href="https://www.youtube.com/watch?v=qgC_E7p7_q0&feature=youtu.be">Secure Attendance Tracking System - YouTube</a></li>
@@ -6367,7 +6386,7 @@ With number of accesses/minutes in parentheses
 <li> 10:39 outlook.office365.com</li>
 <li class='same'> 10:38 outlook.office365.com</li>
 <li> 10:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:37 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 10:37 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 10:25 outlook.office365.com</li>
 <li class='same'> 10:22 outlook.office365.com</li>
 <li> 10:09 bsky.app</li>
@@ -6413,7 +6432,7 @@ With number of accesses/minutes in parentheses
 <li> 08:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:01 <a href="https://www.theguardian.com/commentisfree/2025/may/13/young-people-degrees-labour-market-ai">We told young people that degrees were their ticket to a better life. It’s become a great betrayal | Gaby Hinsliff | The Guardian</a></li>
 <li> 08:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:01 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 08:01 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 07:38 www.giantitp.com</li>
 <li> 07:37 feedly.com</li>
 <li> 07:36 www.reddit.com</li>
@@ -6462,7 +6481,7 @@ With number of accesses/minutes in parentheses
 <li> 21:52 reductress.com</li>
 <li> 21:52 news.sky.com</li>
 <li> 21:52 reductress.com</li>
-<li> 21:51 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 21:51 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 21:48 www.buzzfeed.com</li>
 <li class='same'> 21:47 www.buzzfeed.com</li>
 <li class='same'> 21:46 www.buzzfeed.com</li>
@@ -6711,7 +6730,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:23 www.reddit.com</li>
 <li> 06:19 <a href="https://www.theguardian.com/tv-and-radio/2025/may/11/danny-dyer-deserved-nothing-the-biggest-mistakes-from-the-2025-tv-bafta-awards">‘Danny Dyer deserved nothing!’ The biggest mistakes from the 2025 TV Bafta awards | Baftas | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/tv-and-radio/2025/may/11/when-only-an-actors-face-gets-cast-adolescence-love-actually">My big break ... as a photograph: meet the TV and film stars who don’t even have to act | Television | The Guardian</a></li>
-<li> 06:15 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 06:15 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 06:14 outlook.office365.com</li>
 <li> 06:14 mail.google.com</li>
 </ul>
@@ -6995,7 +7014,7 @@ With number of accesses/minutes in parentheses
 <li> 05:43 www.facebook.com</li>
 <li> 05:43 feedly.com</li>
 <li> 05:42 <a href="https://www.theguardian.com/tv-and-radio/2025/may/10/billie-piper-tv-baftas-interview">Billie Piper on toxic masculinity, raising teens, and playing complex characters: ‘I’ve been a woman on the edge – I’m not afraid of it!’ | Baftas | The Guardian</a></li>
-<li> 05:42 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 05:42 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 05:42 mail.google.com</li>
 <li> 05:42 gmail.com</li>
 </ul>
@@ -7085,7 +7104,7 @@ With number of accesses/minutes in parentheses
 <li> 15:18 <a href="https://en.wikipedia.org/wiki/Liver_King">Liver King - Wikipedia</a></li>
 <li> 15:18 duckduckgo.com</li>
 <li> 15:16 <a href="https://www.theguardian.com/tv-and-radio/2025/may/10/untold-the-liver-king-this-hilarious-expose-of-a-fitness-influencer-is-like-tiger-king">The Liver King – this hilarious exposé is like Tiger King … but with way more genital eating | Television & radio | The Guardian</a></li>
-<li> 15:15 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 15:15 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 15:14 www.facebook.com</li>
 <li class='same'> 15:01 www.facebook.com</li>
 <li> 15:01 mail.google.com</li>
@@ -7134,7 +7153,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:20 www.reddit.com</li>
 <li class='same'> 07:18 www.reddit.com</li>
 <li> 07:18 outlook.office365.com</li>
-<li> 07:18 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 07:18 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 07:14 www.tinkercad.com</li>
 <li class='same'> 07:13 www.tinkercad.com</li>
 <li> 07:09 www.facebook.com</li>
@@ -7431,7 +7450,7 @@ With number of accesses/minutes in parentheses
 <li> 16:16 login.microsoftonline.com</li>
 <li> 16:16 adfs.herts.ac.uk</li>
 <li> 16:00 <a href="https://www.theguardian.com/tv-and-radio/2025/may/09/virgin-island-awkward-tv-sexperiment-channel-4">‘My body deserves pleasure’: is Virgin Island the most awkward TV sexperiment ever? | Television | The Guardian</a></li>
-<li> 15:59 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 15:59 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 15:59 <a href="https://www.theguardian.com/football/2025/may/09/i-punched-another-dad-your-stories-of-the-worst-parent-behaviour-at-kids-football">‘I punched another dad’ – your stories of the worst parent behaviour at kids’ football | Football | The Guardian</a></li>
 <li> 15:56 herts.instructure.com</li>
 <li class='same'> 15:55 herts.instructure.com</li>
@@ -7692,7 +7711,7 @@ With number of accesses/minutes in parentheses
 <li> 07:35 thetab.com</li>
 <li> 07:35 www.google.com</li>
 <li> 07:34 <a href="https://www.theguardian.com/society/2025/may/08/macmillan-cancer-support-hiring-for-senior-roles-after-axing-staff">‘It makes no sense’: Macmillan hiring for senior roles after axing 26% of staff | Charities | The Guardian</a></li>
-<li> 07:34 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 07:34 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 07:34 <a href="https://www.theguardian.com/commentisfree/2025/may/07/the-guardian-view-on-india-and-pakistan-a-newly-dangerous-moment-in-an-old-dispute">The Guardian view on India and Pakistan: a newly dangerous moment in an old dispute | Editorial | The Guardian</a></li>
 <li> 07:33 <a href="https://www.theguardian.com/lifeandstyle/2025/may/07/the-aristocrat-diet-why-do-posh-people-eat-such-beige-bland-boring-food">The aristocrat diet: why do posh people eat such beige, bland, boring food? | Diets and dieting | The Guardian</a></li>
 <li> 07:31 <a href="https://www.theguardian.com/commentisfree/2025/may/07/the-guardian-view-on-india-and-pakistan-a-newly-dangerous-moment-in-an-old-dispute">The Guardian view on India and Pakistan: a newly dangerous moment in an old dispute | Editorial | The Guardian</a></li>
@@ -7877,7 +7896,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:54 jobs.reading.ac.uk</li>
 <li> 07:54 <a href="https://www.theguardian.com/australia-news/2025/may/07/don-gail-patterson-daughter-evidence-mushroom-lunch-murder-trial-ntwnfb">Erin Patterson discharged herself five minutes after doctor warned she may have death cap mushroom poisoning, court hears | Victoria | The Guardian</a></li>
-<li> 07:54 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 07:54 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 07:45 herts.instructure.com</li>
 <li> 07:37 www.tinkercad.com</li>
 <li> 07:26 <a href="https://www.bbc.co.uk/news/articles/ckgxk40ndk1o">Who will be the next Pope? Top candidates in an unpredictable process - BBC News</a></li>
@@ -7896,7 +7915,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:03 www.instagram.com</li>
 <li> 07:02 <a href="https://www.theguardian.com/artanddesign/2025/may/06/robbie-williams-radical-honesty-moco-london-art-exhibition-take-that">Robbie Williams: Radical Honesty review – ‘Tone deaf, self-important, incredibly bad art’ | Art | The Guardian</a></li>
 <li> 07:00 <a href="https://www.theguardian.com/world/2025/may/07/ukraine-war-briefing-hegseths-sudden-arms-halt-cost-us-up-to-22m-report">Ukraine war briefing: Hegseth’s sudden arms halt ‘cost US up to $2.2m’ – report | Ukraine | The Guardian</a></li>
-<li> 07:00 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 07:00 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 07:00 www.google.co.uk</li>
 <li class='same'> 06:59 www.google.co.uk</li>
 <li class='same'> 06:55 www.google.co.uk</li>
@@ -7926,7 +7945,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:20 duckduckgo.com</li>
 <li> 06:15 <a href="https://www.theguardian.com/world/2025/may/06/pakistan-vows-to-retaliate-after-wave-of-indian-missiles-hit-country">Pakistan decries ‘act of war’ as it retaliates against India missile attack | Kashmir | The Guardian</a></li>
 <li> 06:14 <a href="https://www.theguardian.com/world/2025/may/06/the-papal-in-tray-new-pontiff-will-have-to-hit-the-ground-running-on-so-many-urgent-issues">Papal in-tray: new pontiff will have to hit ground running on many urgent issues | The papacy | The Guardian</a></li>
-<li> 06:13 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 06:13 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 </ul>
 
 <H3>Tuesday, 06/05/25</H3>
@@ -7965,7 +7984,7 @@ With number of accesses/minutes in parentheses
 <li> 20:31 www.giantitp.com</li>
 <li> 20:29 <a href="https://www.bbc.co.uk/helpandfeedback/corrections_clarifications/">Corrections and Clarifications</a></li>
 <li> 20:29 <a href="https://www.theguardian.com/uk-news/2025/may/06/bbc-admits-lapse-in-standards-around-coverage-of-prince-harry-interview">BBC admits lapse in standards around coverage of Prince Harry interview | Prince Harry | The Guardian</a></li>
-<li> 20:28 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 20:28 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 20:17 mail.google.com</li>
 <li> 20:13 docs.google.com</li>
 <li> 20:12 drive.google.com</li>
@@ -8036,7 +8055,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:09 www.giantitp.com</li>
 <li> 16:09 www.reddit.com</li>
 <li> 16:08 herts.instructure.com</li>
-<li> 16:08 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 16:08 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 16:07 herts.instructure.com</li>
 <li> 16:00 outlook.office365.com</li>
 </ul>
@@ -8044,7 +8063,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:00 <a href="https://www.theguardian.com/film/2025/may/06/misogyny-slop-it-ends-with-us-america-rightwing-blake-lively-justin-baldoni">‘It’s the misogyny slop ecosystem!’ How Candace Owens and the American right declared war on Blake Lively | Blake Lively | The Guardian</a></li>
-<li> 14:59 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 14:59 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 14:53 <a href="https://www.theguardian.com/film/2025/may/06/trump-softens-tone-on-movie-tariff-announcement-gavin-newsom-jimmy-kimmel-fallon">‘I’m not trying to hurt the industry’: Trump softens tone on movie tariffs | Film | The Guardian</a></li>
 <li class='same'> 14:52 <a href="https://www.theguardian.com/film/2025/may/06/trump-softens-tone-on-movie-tariff-announcement-gavin-newsom-jimmy-kimmel-fallon">‘I’m not trying to hurt the industry’: Trump softens tone on movie tariffs | Film | The Guardian</a></li>
 </ul>
@@ -8213,13 +8232,13 @@ With number of accesses/minutes in parentheses
 <li> 05:51 api-b6327e78.duosecurity.com</li>
 <li> 05:51 adfs.herts.ac.uk</li>
 <li> 05:50 feedly.com</li>
-<li> 05:50 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 05:50 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 05:46 <a href="https://www.theguardian.com/uk-news/commentisfree/2025/may/05/harrys-tv-interview-told-us-everything-and-nothing-why-are-the-royals-such-terrible-communicators">Harry’s TV interview told us everything – and nothing. Why are the royals such terrible communicators? | Zoe Williams | The Guardian</a></li>
-<li> 05:45 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 05:45 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 05:45 <a href="https://www.theguardian.com/fashion/2025/may/05/blinking-fools-the-men-who-think-shaving-off-their-eyelashes-will-make-them-more-masculine">Blinking fools? The men who think shaving off their eyelashes will make them more masculine | Fashion | The Guardian</a></li>
-<li> 05:44 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 05:44 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 05:41 <a href="https://www.theguardian.com/tv-and-radio/2025/may/05/silence-is-golden-review-katherine-ryan-would-definitely-kill-your-dog-for-cash">Silence is Golden review – Katherine Ryan would definitely kill your dog for cash | Television & radio | The Guardian</a></li>
-<li> 05:40 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 05:40 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 </ul>
 
 <H3>Monday, 05/05/25</H3>
@@ -8247,7 +8266,7 @@ With number of accesses/minutes in parentheses
 <li> 21:17 api-b6327e78.duosecurity.com</li>
 <li> 21:17 adfs.herts.ac.uk</li>
 <li> 21:08 chatgpt.com</li>
-<li> 21:07 <a href="https://www.theguardian.com/">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
+<li> 21:07 <a href="https://www.theguardian.com/">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 </ul>
 
 <br>
