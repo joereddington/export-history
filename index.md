@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3130)</li>
+<ol><li>www.google.com (3129)</li>
 <li>mail.google.com (2871)</li>
 <li>outlook.office.com (2673)</li>
 <li>docs.google.com (2060)</li>
 <li>outlook.office365.com (1937)</li>
-<li>www.reddit.com (1874)</li>
+<li>www.reddit.com (1877)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1415)</li>
 <li>duckduckgo.com (1157)</li>
-<li>chatgpt.com (823)</li>
-<li>www.amazon.co.uk (748)</li>
+<li>chatgpt.com (825)</li>
+<li>www.amazon.co.uk (749)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (543)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
-<li>www.linkedin.com (508)</li>
+<li>www.linkedin.com (509)</li>
 <li>rhul-my.sharepoint.com (479)</li>
 <li>login.microsoftonline.com (461)</li>
 <li>github.com (435)</li>
 <li>tvtropes.org (431)</li>
 <li>gmail.com (425)</li>
-<li>web.whatsapp.com (371)</li>
-<li>chat.openai.com (330)</li>
+<li>web.whatsapp.com (372)</li>
+<li>chat.openai.com (331)</li>
 <li>drive.google.com (303)</li>
-<li>feedly.com (290)</li>
+<li>feedly.com (291)</li>
 <li>fritz.box (277)</li>
-<li>whitewaterwriters.com (271)</li>
+<li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (234)</li>
 <li>qbo.intuit.com (234)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (216)</li>
@@ -105,6 +105,33 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 14/06/25</H3>
+
+<br>
+
+<ul><li> 13:41 web.whatsapp.com</li>
+<li> 13:40 kdp.amazon.com</li>
+<li> 13:35 www.linkedin.com</li>
+<li> 13:35 kdp.amazon.com</li>
+<li> 13:34 www.reddit.com</li>
+<li> 13:34 kdp.amazon.com</li>
+<li> 13:33 www.reddit.com</li>
+<li> 13:33 kdp.amazon.com</li>
+<li> 13:32 www.reddit.com</li>
+<li> 13:31 kdp.amazon.com</li>
+<li> 13:19 whitewaterwriters.com</li>
+<li> 13:09 feedly.com</li>
+<li> 13:08 cc.amazon.com</li>
+<li> 12:50 helpx.adobe.com</li>
+<li> 12:49 kdp.amazon.com</li>
+<li> 12:48 chatgpt.com</li>
+<li> 12:45 kdp.amazon.com</li>
+<li class='same'> 12:44 kdp.amazon.com</li>
+<li> 12:44 www.amazon.com</li>
+<li> 12:44 kdp.amazon.com</li>
+<li> 12:44 www.amazon.co.uk</li>
+<li> 12:40 chatgpt.com</li>
+<li> 12:40 chat.openai.com</li>
+</ul>
 
 <br>
 
@@ -17118,8 +17145,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:25 www.reddit.com</li>
 <li> 19:25 www.google.com</li>
 <li> 19:19 www.ssww.com</li>
-<li> 19:19 www.google.com</li>
-<li class='same'> 19:18 www.google.com</li>
+<li> 19:18 www.google.com</li>
 </ul>
 
 <br>
@@ -17139,9 +17165,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:00 www.facebook.com</li>
 <li class='same'> 07:59 www.facebook.com</li>
-<li> 07:58 solar-benefit.co.uk</li>
-<li> 07:58 l.facebook.com</li>
-<li> 07:58 www.facebook.com</li>
+<li class='same'> 07:58 www.facebook.com</li>
 <li class='same'> 07:57 www.facebook.com</li>
 <li> 07:57 bsky.app</li>
 <li> 07:48 kdpreports.amazon.com</li>
@@ -17153,7 +17177,6 @@ With number of accesses/minutes in parentheses
 <li> 07:35 mail.google.com</li>
 <li class='same'> 07:34 mail.google.com</li>
 <li> 07:34 gmail.com</li>
-<li> 07:32 cc.amazon.com</li>
 <li> 07:32 kdp.amazon.com</li>
 <li> 07:31 www.myfonts.com</li>
 <li> 07:31 duckduckgo.com</li>
@@ -47285,7 +47308,9 @@ With number of accesses/minutes in parentheses
 <li> 07:48 artofmemory.com</li>
 <li> 07:48 kdpreports.amazon.com</li>
 <li class='same'> 07:47 kdpreports.amazon.com</li>
+<li> 07:35 kdp.amazon.com</li>
 <li> 07:34 whitewaterwriters.com</li>
+<li> 07:33 kdp.amazon.com</li>
 </ul>
 
 <H3>Monday, 12/08/24</H3>
@@ -48308,6 +48333,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:32 discord.com</li>
 <li> 11:30 chatgpt.com</li>
 <li> 11:25 whatismyipaddress.com</li>
+<li> 11:02 kdp.amazon.com</li>
 </ul>
 
 <H3>Sunday, 14/07/24</H3>
@@ -48931,6 +48957,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:21 kdpreports.amazon.com</li>
+<li> 14:15 kdp.amazon.com</li>
 </ul>
 
 <br>
@@ -48950,6 +48977,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:42 discord.com</li>
+<li> 10:26 kdp.amazon.com</li>
 <li> 10:15 whitewaterwriters.com</li>
 <li> 10:08 discord.com</li>
 <li> 10:06 www.midjourney.com</li>
@@ -55265,6 +55293,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:11 discord.com</li>
 <li class='same'> 06:10 discord.com</li>
+<li> 06:02 kdp.amazon.com</li>
 <li> 06:02 www.amazon.com</li>
 <li> 05:52 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 </ul>
@@ -55862,6 +55891,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:48 www.midjourney.com</li>
+<li> 12:45 kdp.amazon.com</li>
 </ul>
 
 <br>
@@ -56944,7 +56974,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:33 www.feedly.com</li>
+<li> 09:29 kdp.amazon.com</li>
 <li> 09:24 forum.artofmemory.com</li>
+<li> 09:19 kdp.amazon.com</li>
 <li> 09:15 whitewaterwriters.com</li>
 <li class='same'> 09:14 whitewaterwriters.com</li>
 </ul>
@@ -57153,6 +57185,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:15 docs.google.com</li>
+<li> 11:45 kdp.amazon.com</li>
 </ul>
 
 <br>
@@ -57683,7 +57716,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:28 askubuntu.com</li>
+<ul><li> 09:38 kdp.amazon.com</li>
+<li> 09:28 askubuntu.com</li>
 </ul>
 
 <H3>Saturday, 19/08/23</H3>
@@ -58121,7 +58155,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:25 whitewaterwriters.com</li>
+<ul><li> 14:27 kdp.amazon.com</li>
+<li class='same'> 14:26 kdp.amazon.com</li>
+<li> 14:25 whitewaterwriters.com</li>
 </ul>
 
 <H3>Friday, 14/07/23</H3>
@@ -58815,6 +58851,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:33 whitewaterwriters.com</li>
+<li> 13:32 kdp.amazon.com</li>
 </ul>
 
 <br>
@@ -58868,7 +58905,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:36 kdp.amazon.com</li>
 <li> 15:27 whitewaterwriters.com</li>
-<li class='same'> 15:20 whitewaterwriters.com</li>
+<li> 15:25 kdp.amazon.com</li>
+<li> 15:20 whitewaterwriters.com</li>
 <li class='same'> 15:18 whitewaterwriters.com</li>
 </ul>
 
@@ -58994,6 +59032,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:27 accounts.google.co.uk</li>
+<li> 06:20 kdp.amazon.com</li>
+<li class='same'> 06:17 kdp.amazon.com</li>
 <li> 06:11 discord.com</li>
 </ul>
 
@@ -59235,7 +59275,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:26 kdp.amazon.com</li>
 <li class='same'> 14:25 kdp.amazon.com</li>
+<li class='same'> 14:23 kdp.amazon.com</li>
 <li> 14:20 www.selectspecs.com</li>
+<li> 14:12 kdp.amazon.com</li>
 </ul>
 
 <br>
@@ -59496,8 +59538,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:22 whitewaterwriters.com</li>
+<ul><li> 16:26 kdp.amazon.com</li>
+<li> 16:22 whitewaterwriters.com</li>
 <li class='same'> 16:05 whitewaterwriters.com</li>
+<li> 15:54 kdp.amazon.com</li>
 </ul>
 
 <H3>Thursday, 18/05/23</H3>
@@ -59785,6 +59829,18 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:39 <a href="https://www.youtube.com/playlist?list=WL">(5) Watch later - YouTube</a></li>
+</ul>
+
+<H3>Sunday, 30/04/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 06:43 kdp.amazon.com</li>
+<li class='same'> 06:42 kdp.amazon.com</li>
 </ul>
 
 <H3>Friday, 28/04/23</H3>
