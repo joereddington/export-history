@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3129)</li>
-<li>mail.google.com (2871)</li>
+<li>mail.google.com (2873)</li>
 <li>outlook.office.com (2673)</li>
 <li>docs.google.com (2060)</li>
 <li>outlook.office365.com (1937)</li>
 <li>www.reddit.com (1877)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1158)</li>
+<li>duckduckgo.com (1160)</li>
 <li>chatgpt.com (828)</li>
 <li>www.amazon.co.uk (753)</li>
 <li>www.theguardian.com (685)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (461)</li>
 <li>github.com (435)</li>
 <li>tvtropes.org (431)</li>
-<li>gmail.com (425)</li>
+<li>gmail.com (426)</li>
 <li>web.whatsapp.com (372)</li>
 <li>chat.openai.com (332)</li>
 <li>drive.google.com (303)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:03 www.amazon.co.uk</li>
+<ul><li> 13:46 <a href="https://en.wikipedia.org/wiki/Motor_controller">Motor controller - Wikipedia</a></li>
+<li> 13:46 uk.rs-online.com</li>
+<li> 13:46 duckduckgo.com</li>
+<li> 13:21 forum.arduino.cc</li>
+<li class='same'> 13:20 forum.arduino.cc</li>
+<li> 13:20 duckduckgo.com</li>
+<li> 13:11 www.tinkercad.com</li>
+<li> 13:11 accounts.autodesk.com</li>
+<li> 13:11 www.tinkercad.com</li>
+<li> 13:10 accounts.autodesk.com</li>
+<li> 13:10 mail.google.com</li>
+<li> 13:10 accounts.autodesk.com</li>
+<li> 13:10 www.tinkercad.com</li>
+<li> 13:10 mail.google.com</li>
+<li> 13:10 gmail.com</li>
+<li> 13:09 www.tinkercad.com</li>
+<li> 13:07 accounts.autodesk.com</li>
+<li> 13:06 www.tinkercad.com</li>
+<li> 13:06 accounts.autodesk.com</li>
+<li> 13:06 www.tinkercad.com</li>
+<li> 13:03 www.amazon.co.uk</li>
 <li> 13:01 duckduckgo.com</li>
 <li> 13:01 chatgpt.com</li>
 <li class='same'> 12:59 chatgpt.com</li>
