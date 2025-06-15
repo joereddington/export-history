@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3129)</li>
-<li>mail.google.com (2873)</li>
+<li>mail.google.com (2875)</li>
 <li>outlook.office.com (2673)</li>
 <li>docs.google.com (2060)</li>
 <li>outlook.office365.com (1937)</li>
-<li>www.reddit.com (1877)</li>
+<li>www.reddit.com (1880)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
 <li>duckduckgo.com (1160)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:46 <a href="https://en.wikipedia.org/wiki/Motor_controller">Motor controller - Wikipedia</a></li>
+<ul><li> 14:50 www.reddit.com</li>
+<li class='same'> 14:49 www.reddit.com</li>
+<li class='same'> 14:48 www.reddit.com</li>
+<li> 14:47 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:08 mail.google.com</li>
+<li> 13:46 <a href="https://en.wikipedia.org/wiki/Motor_controller">Motor controller - Wikipedia</a></li>
 <li> 13:46 uk.rs-online.com</li>
 <li> 13:46 duckduckgo.com</li>
 <li> 13:21 forum.arduino.cc</li>
