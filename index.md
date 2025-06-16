@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3129)</li>
 <li>mail.google.com (2875)</li>
-<li>outlook.office.com (2674)</li>
+<li>outlook.office.com (2680)</li>
 <li>docs.google.com (2060)</li>
-<li>outlook.office365.com (1938)</li>
-<li>www.reddit.com (1894)</li>
+<li>outlook.office365.com (1939)</li>
+<li>www.reddit.com (1896)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
 <li>duckduckgo.com (1160)</li>
@@ -83,8 +83,8 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (543)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
 <li>www.linkedin.com (509)</li>
-<li>rhul-my.sharepoint.com (479)</li>
-<li>login.microsoftonline.com (468)</li>
+<li>rhul-my.sharepoint.com (480)</li>
+<li>login.microsoftonline.com (470)</li>
 <li>github.com (435)</li>
 <li>tvtropes.org (431)</li>
 <li>gmail.com (426)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:01 t1b.gobright.cloud</li>
+<ul><li> 11:01 outlook.office.com</li>
+<li class='same'> 10:58 outlook.office.com</li>
+<li class='same'> 10:57 outlook.office.com</li>
+<li> 10:50 herts.instructure.com</li>
+<li class='same'> 10:48 herts.instructure.com</li>
+<li class='same'> 10:47 herts.instructure.com</li>
+<li class='same'> 10:46 herts.instructure.com</li>
+<li class='same'> 10:44 herts.instructure.com</li>
+<li> 10:44 adfs.herts.ac.uk</li>
+<li> 10:43 herts365-my.sharepoint.com</li>
+<li> 10:43 outlook.office.com</li>
+<li> 10:42 herts365-my.sharepoint.com</li>
+<li> 10:42 rhul-my.sharepoint.com</li>
+<li> 10:16 www.reddit.com</li>
+<li class='same'> 10:15 www.reddit.com</li>
+<li> 10:14 <a href="https://www.theguardian.com/culture/2025/jun/16/the-genius-myth-by-helen-lewis-review-bright-wrong-things">The Genius Myth by Helen Lewis review – bright wrong things | Books | The Guardian</a></li>
+<li> 10:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:13 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:13 outlook.office.com</li>
+<li class='same'> 10:11 outlook.office.com</li>
+<li> 10:11 m365.cloud.microsoft</li>
+<li> 10:11 login.microsoftonline.com</li>
+<li> 10:11 adfs.herts.ac.uk</li>
+<li> 10:11 outlook.office365.com</li>
+<li> 10:11 login.microsoftonline.com</li>
+<li> 10:11 t1b.gobright.cloud</li>
+<li class='same'> 10:10 t1b.gobright.cloud</li>
+<li class='same'> 10:09 t1b.gobright.cloud</li>
+<li class='same'> 10:06 t1b.gobright.cloud</li>
+<li class='same'> 10:05 t1b.gobright.cloud</li>
+<li class='same'> 10:04 t1b.gobright.cloud</li>
+<li class='same'> 10:01 t1b.gobright.cloud</li>
 <li class='same'> 10:00 t1b.gobright.cloud</li>
 <li> 10:00 eu-west.azureauth.duosecurity.com</li>
 <li> 10:00 api-b6327e78.duosecurity.com</li>
