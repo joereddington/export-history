@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3132)</li>
 <li>mail.google.com (2880)</li>
-<li>outlook.office.com (2708)</li>
+<li>outlook.office.com (2716)</li>
 <li>docs.google.com (2060)</li>
 <li>outlook.office365.com (1944)</li>
 <li>www.reddit.com (1915)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1169)</li>
+<li>duckduckgo.com (1170)</li>
 <li>chatgpt.com (833)</li>
 <li>www.amazon.co.uk (752)</li>
 <li>www.theguardian.com (685)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (437)</li>
 <li>tvtropes.org (431)</li>
 <li>gmail.com (428)</li>
-<li>web.whatsapp.com (375)</li>
+<li>web.whatsapp.com (376)</li>
 <li>chat.openai.com (335)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (291)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:04 outlook.office.com</li>
+<ul><li> 15:34 outlook.office.com</li>
+<li class='same'> 15:33 outlook.office.com</li>
+<li> 15:28 www.kaggle.com</li>
+<li> 15:28 duckduckgo.com</li>
+<li> 15:23 outlook.office.com</li>
+<li class='same'> 15:20 outlook.office.com</li>
+<li class='same'> 15:19 outlook.office.com</li>
+<li> 15:15 web.whatsapp.com</li>
+<li> 15:13 outlook.office.com</li>
+<li class='same'> 15:12 outlook.office.com</li>
+<li class='same'> 15:09 outlook.office.com</li>
+<li class='same'> 15:04 outlook.office.com</li>
 <li> 14:54 www.kaggle.com</li>
 <li> 14:54 duckduckgo.com</li>
 <li> 14:54 www.kaggle.com</li>
