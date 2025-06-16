@@ -70,26 +70,26 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3129)</li>
 <li>mail.google.com (2875)</li>
-<li>outlook.office.com (2680)</li>
+<li>outlook.office.com (2691)</li>
 <li>docs.google.com (2060)</li>
-<li>outlook.office365.com (1939)</li>
+<li>outlook.office365.com (1940)</li>
 <li>www.reddit.com (1896)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1160)</li>
-<li>chatgpt.com (830)</li>
+<li>duckduckgo.com (1161)</li>
+<li>chatgpt.com (833)</li>
 <li>www.amazon.co.uk (753)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (543)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
 <li>www.linkedin.com (509)</li>
 <li>rhul-my.sharepoint.com (480)</li>
-<li>login.microsoftonline.com (470)</li>
+<li>login.microsoftonline.com (474)</li>
 <li>github.com (435)</li>
 <li>tvtropes.org (431)</li>
 <li>gmail.com (426)</li>
-<li>web.whatsapp.com (372)</li>
-<li>chat.openai.com (333)</li>
+<li>web.whatsapp.com (373)</li>
+<li>chat.openai.com (335)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (291)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:01 outlook.office.com</li>
+<ul><li> 12:04 outlook.office.com</li>
+<li class='same'> 12:02 outlook.office.com</li>
+<li class='same'> 11:53 outlook.office.com</li>
+<li class='same'> 11:52 outlook.office.com</li>
+<li> 11:49 mysignins.microsoft.com</li>
+<li> 11:49 login.microsoftonline.com</li>
+<li class='same'> 11:47 login.microsoftonline.com</li>
+<li> 11:47 outlook.office365.com</li>
+<li> 11:47 login.microsoftonline.com</li>
+<li> 11:46 outlook.office.com</li>
+<li> 11:46 login.microsoftonline.com</li>
+<li> 11:41 chatgpt.com</li>
+<li> 11:41 chat.openai.com</li>
+<li> 11:41 duckduckgo.com</li>
+<li> 11:39 outlook.office.com</li>
+<li class='same'> 11:37 outlook.office.com</li>
+<li> 11:30 web.whatsapp.com</li>
+<li> 11:25 outlook.office.com</li>
+<li class='same'> 11:24 outlook.office.com</li>
+<li class='same'> 11:23 outlook.office.com</li>
+<li class='same'> 11:06 outlook.office.com</li>
+<li> 11:03 chatgpt.com</li>
+<li class='same'> 11:02 chatgpt.com</li>
+<li> 11:02 chat.openai.com</li>
+<li> 11:01 outlook.office.com</li>
 <li class='same'> 10:58 outlook.office.com</li>
 <li class='same'> 10:57 outlook.office.com</li>
 <li> 10:50 herts.instructure.com</li>
