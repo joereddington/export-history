@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3130)</li>
-<li>mail.google.com (2879)</li>
-<li>outlook.office.com (2701)</li>
+<ol><li>www.google.com (3132)</li>
+<li>mail.google.com (2880)</li>
+<li>outlook.office.com (2708)</li>
 <li>docs.google.com (2060)</li>
 <li>outlook.office365.com (1944)</li>
-<li>www.reddit.com (1907)</li>
+<li>www.reddit.com (1915)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1166)</li>
+<li>duckduckgo.com (1169)</li>
 <li>chatgpt.com (833)</li>
 <li>www.amazon.co.uk (752)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (543)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
-<li>www.linkedin.com (509)</li>
-<li>rhul-my.sharepoint.com (481)</li>
-<li>login.microsoftonline.com (477)</li>
+<li>www.linkedin.com (512)</li>
+<li>rhul-my.sharepoint.com (483)</li>
+<li>login.microsoftonline.com (478)</li>
 <li>github.com (437)</li>
 <li>tvtropes.org (431)</li>
-<li>gmail.com (427)</li>
-<li>web.whatsapp.com (373)</li>
+<li>gmail.com (428)</li>
+<li>web.whatsapp.com (375)</li>
 <li>chat.openai.com (335)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (291)</li>
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:07 login.microsoftonline.com</li>
+<ul><li> 15:04 outlook.office.com</li>
+<li> 14:54 www.kaggle.com</li>
+<li> 14:54 duckduckgo.com</li>
+<li> 14:54 www.kaggle.com</li>
+<li class='same'> 14:53 www.kaggle.com</li>
+<li class='same'> 14:52 www.kaggle.com</li>
+<li class='same'> 14:51 www.kaggle.com</li>
+<li class='same'> 14:49 www.kaggle.com</li>
+<li> 14:49 duckduckgo.com</li>
+<li> 14:41 outlook.office.com</li>
+<li class='same'> 14:40 outlook.office.com</li>
+<li> 14:40 web.whatsapp.com</li>
+<li> 14:39 outlook.office.com</li>
+<li class='same'> 14:37 outlook.office.com</li>
+<li class='same'> 14:36 outlook.office.com</li>
+<li> 14:36 m365.cloud.microsoft</li>
+<li> 14:36 login.microsoftonline.com</li>
+<li> 14:36 api-b6327e78.duosecurity.com</li>
+<li> 14:36 adfs.herts.ac.uk</li>
+<li> 14:36 api-b6327e78.duosecurity.com</li>
+<li> 14:36 adfs.herts.ac.uk</li>
+<li> 14:32 herts365-my.sharepoint.com</li>
+<li> 14:32 rhul-my.sharepoint.com</li>
+<li> 14:31 www.linkedin.com</li>
+<li> 14:29 www.thecourier.co.uk</li>
+<li> 14:28 www.heraldscotland.com</li>
+<li> 14:27 www.thecourier.co.uk</li>
+<li> 14:27 www.google.com</li>
+<li> 14:26 qmucu.org</li>
+<li> 14:26 www.google.com</li>
+<li> 14:26 duckduckgo.com</li>
+<li> 14:25 www.linkedin.com</li>
+<li class='same'> 14:24 www.linkedin.com</li>
+<li> 14:24 mail.google.com</li>
+<li> 14:24 gmail.com</li>
+<li> 14:23 www.reddit.com</li>
+<li class='same'> 14:21 www.reddit.com</li>
+<li class='same'> 14:20 www.reddit.com</li>
+<li class='same'> 14:19 www.reddit.com</li>
+<li class='same'> 14:18 www.reddit.com</li>
+<li class='same'> 14:17 www.reddit.com</li>
+<li class='same'> 14:16 www.reddit.com</li>
+<li class='same'> 14:15 www.reddit.com</li>
+<li> 14:13 web.whatsapp.com</li>
+<li> 14:12 herts365-my.sharepoint.com</li>
+<li> 14:12 rhul-my.sharepoint.com</li>
+<li> 14:12 outlook.office.com</li>
+<li> 14:07 login.microsoftonline.com</li>
 <li> 14:07 rhul-my.sharepoint.com</li>
 <li> 14:07 login.microsoftonline.com</li>
 <li> 14:02 outlook.office.com</li>
