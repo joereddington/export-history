@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3129)</li>
 <li>mail.google.com (2875)</li>
-<li>outlook.office.com (2673)</li>
+<li>outlook.office.com (2674)</li>
 <li>docs.google.com (2060)</li>
 <li>outlook.office365.com (1938)</li>
 <li>www.reddit.com (1894)</li>
@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (519)</li>
 <li>www.linkedin.com (509)</li>
 <li>rhul-my.sharepoint.com (479)</li>
-<li>login.microsoftonline.com (465)</li>
+<li>login.microsoftonline.com (468)</li>
 <li>github.com (435)</li>
 <li>tvtropes.org (431)</li>
 <li>gmail.com (426)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 16/06/25</H3>
+
+<br>
+
+<ul><li> 10:01 t1b.gobright.cloud</li>
+<li class='same'> 10:00 t1b.gobright.cloud</li>
+<li> 10:00 eu-west.azureauth.duosecurity.com</li>
+<li> 10:00 api-b6327e78.duosecurity.com</li>
+<li> 10:00 login.microsoftonline.com</li>
+<li> 10:00 t1b.gobright.cloud</li>
+<li> 10:00 portal.gobright.cloud</li>
+<li> 10:00 login.microsoftonline.com</li>
+<li> 09:59 outlook.office.com</li>
+<li> 09:59 m365.cloud.microsoft</li>
+<li class='same'> 09:57 m365.cloud.microsoft</li>
+<li> 09:57 login.microsoftonline.com</li>
+<li> 09:57 adfs.herts.ac.uk</li>
+<li> 09:56 api-b6327e78.duosecurity.com</li>
+<li> 09:56 adfs.herts.ac.uk</li>
+</ul>
 
 <br>
 
