@@ -72,24 +72,24 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2875)</li>
 <li>outlook.office.com (2673)</li>
 <li>docs.google.com (2060)</li>
-<li>outlook.office365.com (1937)</li>
-<li>www.reddit.com (1880)</li>
+<li>outlook.office365.com (1938)</li>
+<li>www.reddit.com (1894)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
 <li>duckduckgo.com (1160)</li>
-<li>chatgpt.com (828)</li>
+<li>chatgpt.com (830)</li>
 <li>www.amazon.co.uk (753)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (543)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
 <li>www.linkedin.com (509)</li>
 <li>rhul-my.sharepoint.com (479)</li>
-<li>login.microsoftonline.com (461)</li>
+<li>login.microsoftonline.com (465)</li>
 <li>github.com (435)</li>
 <li>tvtropes.org (431)</li>
 <li>gmail.com (426)</li>
 <li>web.whatsapp.com (372)</li>
-<li>chat.openai.com (332)</li>
+<li>chat.openai.com (333)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (291)</li>
 <li>fritz.box (277)</li>
@@ -104,7 +104,71 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 16/06/25</H3>
+
+<br>
+
+<ul><li> 06:59 outlook.office365.com</li>
+<li> 06:59 login.microsoftonline.com</li>
+<li> 06:58 www.reddit.com</li>
+<li class='same'> 06:56 www.reddit.com</li>
+<li class='same'> 06:55 www.reddit.com</li>
+<li> 06:55 www.telegraph.co.uk</li>
+<li> 06:53 www.reddit.com</li>
+<li class='same'> 06:48 www.reddit.com</li>
+<li class='same'> 06:47 www.reddit.com</li>
+<li class='same'> 06:43 www.reddit.com</li>
+<li class='same'> 06:40 www.reddit.com</li>
+<li class='same'> 06:38 www.reddit.com</li>
+<li class='same'> 06:35 www.reddit.com</li>
+<li class='same'> 06:34 www.reddit.com</li>
+<li class='same'> 06:33 www.reddit.com</li>
+<li> 06:29 <a href="https://en.wikipedia.org/wiki/Pentax_K-01#/media/File:Pentax_K-01_5585.jpg">Pentax K-01 5585 - Pentax K-01 - Wikipedia</a></li>
+<li> 06:29 <a href="https://en.wikipedia.org/wiki/Pentax_K-01#">Pentax K-01 - Wikipedia</a></li>
+<li> 06:28 www.reddit.com</li>
+<li class='same'> 06:27 www.reddit.com</li>
+<li> 06:27 t1b.gobright.cloud</li>
+<li class='same'> 06:26 t1b.gobright.cloud</li>
+<li class='same'> 06:25 t1b.gobright.cloud</li>
+<li class='same'> 06:24 t1b.gobright.cloud</li>
+<li class='same'> 06:22 t1b.gobright.cloud</li>
+<li> 06:22 eu-west.azureauth.duosecurity.com</li>
+<li> 06:22 api-b6327e78.duosecurity.com</li>
+<li> 06:22 login.microsoftonline.com</li>
+<li> 06:22 t1b.gobright.cloud</li>
+<li> 06:22 portal.gobright.cloud</li>
+<li> 06:22 eu-west.azureauth.duosecurity.com</li>
+<li> 06:22 api-b6327e78.duosecurity.com</li>
+<li> 06:22 login.microsoftonline.com</li>
+<li class='same'> 06:21 login.microsoftonline.com</li>
+<li> 06:21 portal.gobright.cloud</li>
+<li> 06:21 api-b6327e78.duosecurity.com</li>
+<li> 06:21 adfs.herts.ac.uk</li>
+<li> 06:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:19 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:19 herts365-my.sharepoint.com</li>
+<li> 06:17 api-b6327e78.duosecurity.com</li>
+<li> 06:17 adfs.herts.ac.uk</li>
+<li> 06:17 portal.gobright.cloud</li>
+<li> 06:17 t1b.gobright.cloud</li>
+</ul>
+
 <H3>Sunday, 15/06/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:18 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:47 chatgpt.com</li>
+<li> 19:47 chat.openai.com</li>
+</ul>
 
 <br>
 
