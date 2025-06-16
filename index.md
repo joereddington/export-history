@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3129)</li>
-<li>mail.google.com (2878)</li>
-<li>outlook.office.com (2695)</li>
+<ol><li>www.google.com (3130)</li>
+<li>mail.google.com (2879)</li>
+<li>outlook.office.com (2701)</li>
 <li>docs.google.com (2060)</li>
 <li>outlook.office365.com (1944)</li>
-<li>www.reddit.com (1899)</li>
+<li>www.reddit.com (1907)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1164)</li>
+<li>duckduckgo.com (1166)</li>
 <li>chatgpt.com (833)</li>
 <li>www.amazon.co.uk (752)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (543)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
 <li>www.linkedin.com (509)</li>
-<li>rhul-my.sharepoint.com (480)</li>
-<li>login.microsoftonline.com (474)</li>
-<li>github.com (435)</li>
+<li>rhul-my.sharepoint.com (481)</li>
+<li>login.microsoftonline.com (477)</li>
+<li>github.com (437)</li>
 <li>tvtropes.org (431)</li>
 <li>gmail.com (427)</li>
 <li>web.whatsapp.com (373)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:00 outlook.office.com</li>
+<ul><li> 14:07 login.microsoftonline.com</li>
+<li> 14:07 rhul-my.sharepoint.com</li>
+<li> 14:07 login.microsoftonline.com</li>
+<li> 14:02 outlook.office.com</li>
+<li> 14:00 github.com</li>
+<li> 13:57 archive.ics.uci.edu</li>
+<li> 13:56 github.com</li>
+<li> 13:56 duckduckgo.com</li>
+<li> 13:50 outlook.office.com</li>
+<li> 13:49 herts365-my.sharepoint.com</li>
+<li> 13:49 outlook.office.com</li>
+<li class='same'> 13:48 outlook.office.com</li>
+<li> 13:48 m365.cloud.microsoft</li>
+<li> 13:48 login.microsoftonline.com</li>
+<li> 13:48 adfs.herts.ac.uk</li>
+<li> 13:48 duckduckgo.com</li>
+<li> 13:32 www.google.com</li>
+<li> 13:25 www.tumblr.com</li>
+<li> 13:15 mail.google.com</li>
+<li> 13:15 outlook.office.com</li>
+<li class='same'> 13:14 outlook.office.com</li>
+<li class='same'> 13:00 outlook.office.com</li>
 <li> 12:55 herts365-my.sharepoint.com</li>
 <li> 12:55 outlook.office.com</li>
 <li class='same'> 12:54 outlook.office.com</li>
@@ -270,7 +291,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:50 www.reddit.com</li>
+<ul><li> 17:23 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:43 www.reddit.com</li>
+<li class='same'> 16:42 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:50 www.reddit.com</li>
 <li class='same'> 14:49 www.reddit.com</li>
 <li class='same'> 14:48 www.reddit.com</li>
 <li> 14:47 mail.google.com</li>
@@ -310,6 +342,27 @@ With number of accesses/minutes in parentheses
 <li> 12:54 chat.openai.com</li>
 <li> 12:54 www.facebook.com</li>
 <li> 12:54 fast.com</li>
+<li> 12:37 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:49 www.reddit.com</li>
+<li class='same'> 11:48 www.reddit.com</li>
+<li> 11:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:07 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:07 www.reddit.com</li>
+<li class='same'> 11:06 www.reddit.com</li>
+<li> 11:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:06 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:01 <a href="https://www.theguardian.com/world/2025/jun/14/israel-claims-it-has-gained-control-of-airspace-over-tehran">Israel claims it has gained control of airspace over Tehran | Israel | The Guardian</a></li>
+<li> 11:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:00 <a href="https://www.theguardian.com/education/2025/jun/15/thousands-of-uk-university-students-caught-cheating-using-ai-artificial-intelligence-survey">Revealed: Thousands of UK university students caught cheating using AI | Higher education | The Guardian</a></li>
+<li> 10:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
 <H3>Saturday, 14/06/25</H3>
@@ -320,7 +373,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 20:50 <a href="https://www.theguardian.com/world/2025/jun/14/israel-attack-on-iran-slows-diplomatic-momentum-to-halt-gaza-war">Strikes on Iran ease pressure on Israel to end starvation in Gaza | Gaza | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:29 <a href="https://www.theguardian.com/world/2025/jun/14/israel-attack-on-iran-slows-diplomatic-momentum-to-halt-gaza-war">Strikes on Iran ease pressure on Israel to end starvation in Gaza | Gaza | The Guardian</a></li>
+<li> 16:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
 <br>
