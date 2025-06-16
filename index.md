@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3132)</li>
+<ol><li>www.google.com (3137)</li>
 <li>mail.google.com (2880)</li>
 <li>outlook.office.com (2716)</li>
 <li>docs.google.com (2060)</li>
 <li>outlook.office365.com (1944)</li>
-<li>www.reddit.com (1915)</li>
+<li>www.reddit.com (1916)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
 <li>duckduckgo.com (1170)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 16/06/25</H3>
+
+<br>
+
+<ul><li> 20:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:17 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:13 www.google.com</li>
+<li> 19:11 forum.duome.eu</li>
+<li> 19:11 www.google.com</li>
+<li> 19:10 forum.duome.eu</li>
+<li> 19:10 www.google.com</li>
+<li> 19:04 www.reddit.com</li>
+<li> 19:04 www.google.com</li>
+<li> 19:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li class='same'> 18:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:40 qmucu.org</li>
+</ul>
 
 <br>
 
@@ -182,6 +202,8 @@ With number of accesses/minutes in parentheses
 <li> 13:48 login.microsoftonline.com</li>
 <li> 13:48 adfs.herts.ac.uk</li>
 <li> 13:48 duckduckgo.com</li>
+<li> 13:46 qmucu.org</li>
+<li class='same'> 13:32 qmucu.org</li>
 <li> 13:32 www.google.com</li>
 <li> 13:25 www.tumblr.com</li>
 <li> 13:15 mail.google.com</li>
