@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3142)</li>
 <li>mail.google.com (2885)</li>
-<li>outlook.office.com (2757)</li>
+<li>outlook.office.com (2758)</li>
 <li>docs.google.com (2061)</li>
 <li>outlook.office365.com (1944)</li>
-<li>www.reddit.com (1929)</li>
+<li>www.reddit.com (1930)</li>
 <li>bsky.app (1577)</li>
 <li>www.facebook.com (1416)</li>
 <li>duckduckgo.com (1185)</li>
@@ -82,16 +82,16 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (545)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
-<li>www.linkedin.com (513)</li>
+<li>www.linkedin.com (514)</li>
 <li>rhul-my.sharepoint.com (483)</li>
 <li>login.microsoftonline.com (479)</li>
 <li>github.com (444)</li>
 <li>tvtropes.org (431)</li>
 <li>gmail.com (429)</li>
-<li>web.whatsapp.com (378)</li>
+<li>web.whatsapp.com (379)</li>
 <li>chat.openai.com (337)</li>
 <li>drive.google.com (303)</li>
-<li>feedly.com (291)</li>
+<li>feedly.com (292)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (234)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 17/06/25</H3>
+
+<br>
+
+<ul><li> 20:37 www.giantitp.com</li>
+<li> 20:36 www.linkedin.com</li>
+<li> 20:36 www.reddit.com</li>
+<li> 20:35 reductress.com</li>
+<li class='same'> 20:34 reductress.com</li>
+<li class='same'> 20:33 reductress.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:52 www.giantitp.com</li>
+<li> 19:52 feedly.com</li>
+<li> 19:52 web.whatsapp.com</li>
+<li> 19:51 outlook.office.com</li>
+</ul>
 
 <br>
 
