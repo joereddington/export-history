@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3142)</li>
 <li>mail.google.com (2885)</li>
-<li>outlook.office.com (2737)</li>
+<li>outlook.office.com (2746)</li>
 <li>docs.google.com (2061)</li>
 <li>outlook.office365.com (1944)</li>
-<li>www.reddit.com (1923)</li>
+<li>www.reddit.com (1927)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
 <li>duckduckgo.com (1184)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:58 outlook.office.com</li>
+<ul><li> 15:02 outlook.office.com</li>
+<li class='same'> 14:59 outlook.office.com</li>
+<li class='same'> 14:48 outlook.office.com</li>
+<li> 14:46 www.reddit.com</li>
+<li class='same'> 14:45 www.reddit.com</li>
+<li class='same'> 14:44 www.reddit.com</li>
+<li class='same'> 14:43 www.reddit.com</li>
+<li> 14:41 outlook.office.com</li>
+<li> 14:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li class='same'> 14:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:22 herts365-my.sharepoint.com</li>
+<li> 14:22 outlook.office.com</li>
+<li class='same'> 14:21 outlook.office.com</li>
+<li class='same'> 14:20 outlook.office.com</li>
+<li class='same'> 14:19 outlook.office.com</li>
+<li> 14:11 m365.cloud.microsoft</li>
+<li> 14:06 outlook.office.com</li>
+<li> 14:05 herts.instructure.com</li>
+<li> 13:58 outlook.office.com</li>
 <li class='same'> 13:57 outlook.office.com</li>
 <li> 13:54 www.reddit.com</li>
 <li class='same'> 13:53 www.reddit.com</li>
@@ -232,6 +250,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:44 chatgpt.com</li>
 <li class='same'> 06:43 chatgpt.com</li>
+<li> 06:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:32 <a href="https://www.theguardian.com/world/2025/jun/16/iran-threatens-to-leave-nuclear-weapons-treaty-as-israeli-bombing-enters-fourth-day">Israel issues Tehran evacuation order as Iran threatens to leave nuclear weapons treaty | Iran's nuclear programme | The Guardian</a></li>
+<li> 06:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
 <H3>Monday, 16/06/25</H3>
@@ -242,7 +263,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 20:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:17 <a href="https://www.theguardian.com/world/2025/jun/16/visualised-israel-iran-war-maps-videos-satellite-images">The Israel-Iran war in maps, videos and satellite images | Israel | The Guardian</a></li>
+<li> 20:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 20:17 www.google.com</li>
 </ul>
 
