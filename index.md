@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3137)</li>
+<ol><li>www.google.com (3140)</li>
 <li>mail.google.com (2880)</li>
-<li>outlook.office.com (2716)</li>
-<li>docs.google.com (2060)</li>
+<li>outlook.office.com (2721)</li>
+<li>docs.google.com (2061)</li>
 <li>outlook.office365.com (1944)</li>
-<li>www.reddit.com (1916)</li>
+<li>www.reddit.com (1920)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1170)</li>
-<li>chatgpt.com (833)</li>
-<li>www.amazon.co.uk (752)</li>
+<li>duckduckgo.com (1179)</li>
+<li>chatgpt.com (838)</li>
+<li>www.amazon.co.uk (754)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (543)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
-<li>www.linkedin.com (512)</li>
+<li>www.linkedin.com (513)</li>
 <li>rhul-my.sharepoint.com (483)</li>
-<li>login.microsoftonline.com (478)</li>
-<li>github.com (437)</li>
+<li>login.microsoftonline.com (479)</li>
+<li>github.com (442)</li>
 <li>tvtropes.org (431)</li>
 <li>gmail.com (428)</li>
-<li>web.whatsapp.com (376)</li>
-<li>chat.openai.com (335)</li>
+<li>web.whatsapp.com (377)</li>
+<li>chat.openai.com (337)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (291)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (234)</li>
 <li>qbo.intuit.com (234)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (216)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (218)</li>
 <li>www.coursera.org (208)</li>
 
 
@@ -104,7 +104,86 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 17/06/25</H3>
+
+<br>
+
+<ul><li> 12:01 web.whatsapp.com</li>
+<li> 11:58 herts365-my.sharepoint.com</li>
+<li> 11:58 m365.cloud.microsoft</li>
+<li> 11:54 ask.herts.ac.uk</li>
+<li> 11:54 library.herts.ac.uk</li>
+<li> 11:54 duckduckgo.com</li>
+<li> 11:53 outlook.office.com</li>
+<li class='same'> 11:52 outlook.office.com</li>
+<li> 11:52 m365.cloud.microsoft</li>
+<li> 11:52 login.microsoftonline.com</li>
+<li> 11:52 adfs.herts.ac.uk</li>
+<li> 11:51 api-b6327e78.duosecurity.com</li>
+<li> 11:51 adfs.herts.ac.uk</li>
+<li> 11:51 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:50 www.amazon.co.uk</li>
+<li> 11:49 www.instructables.com</li>
+<li> 11:49 duckduckgo.com</li>
+<li> 11:48 www.amazon.co.uk</li>
+<li> 11:48 duckduckgo.com</li>
+<li> 11:47 www.pjrc.com</li>
+<li> 11:47 forum.arduino.cc</li>
+<li> 11:46 www.reddit.com</li>
+<li> 11:46 www.google.com</li>
+<li> 11:46 github.com</li>
+<li> 11:46 www.google.com</li>
+<li> 11:45 www.inspiredpython.com</li>
+<li> 11:45 retropie.org.uk</li>
+<li class='same'> 11:44 retropie.org.uk</li>
+<li> 11:44 www.google.com</li>
+<li> 11:44 duckduckgo.com</li>
+<li> 11:43 romhackplaza.org</li>
+<li> 11:43 duckduckgo.com</li>
+<li> 11:43 retrogamecorps.com</li>
+<li> 11:43 duckduckgo.com</li>
+<li> 11:42 pypi.org</li>
+<li> 11:42 duckduckgo.com</li>
+<li> 11:41 github.com</li>
+<li class='same'> 11:39 github.com</li>
+<li> 11:39 tasvideos.org</li>
+<li> 11:38 github.com</li>
+<li class='same'> 11:37 github.com</li>
+<li> 11:37 duckduckgo.com</li>
+<li> 11:36 www.retrodev.com</li>
+<li class='same'> 11:35 www.retrodev.com</li>
+<li class='same'> 11:34 www.retrodev.com</li>
+<li> 11:34 duckduckgo.com</li>
+<li> 11:24 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:24 www.linkedin.com</li>
+<li> 11:23 www.reddit.com</li>
+<li class='same'> 11:22 www.reddit.com</li>
+<li class='same'> 11:21 www.reddit.com</li>
+<li> 11:18 chatgpt.com</li>
+<li class='same'> 11:17 chatgpt.com</li>
+<li> 11:17 chat.openai.com</li>
+<li> 11:16 t1b.gobright.cloud</li>
+<li class='same'> 11:15 t1b.gobright.cloud</li>
+<li> 11:15 outlook.office.com</li>
+<li> 11:15 docs.google.com</li>
+<li> 11:14 herts365-my.sharepoint.com</li>
+<li> 11:10 outlook.office.com</li>
+<li> 11:03 chatgpt.com</li>
+<li> 11:03 chat.openai.com</li>
+<li> 11:01 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:44 chatgpt.com</li>
+<li class='same'> 06:43 chatgpt.com</li>
+</ul>
+
 <H3>Monday, 16/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -49911,11 +49990,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:32 www.amazon.co.uk</li>
 <li class='same'> 16:31 www.amazon.co.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 15:58 store.steampowered.com</li>
+<li> 16:18 www.retrodev.com</li>
+<li> 15:58 store.steampowered.com</li>
 </ul>
 
 <br>
