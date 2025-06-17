@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3140)</li>
-<li>mail.google.com (2880)</li>
-<li>outlook.office.com (2721)</li>
+<ol><li>www.google.com (3142)</li>
+<li>mail.google.com (2885)</li>
+<li>outlook.office.com (2732)</li>
 <li>docs.google.com (2061)</li>
 <li>outlook.office365.com (1944)</li>
-<li>www.reddit.com (1920)</li>
+<li>www.reddit.com (1921)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1179)</li>
+<li>duckduckgo.com (1183)</li>
 <li>chatgpt.com (838)</li>
 <li>www.amazon.co.uk (754)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (543)</li>
+<li>calendar.google.com (545)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
 <li>www.linkedin.com (513)</li>
 <li>rhul-my.sharepoint.com (483)</li>
 <li>login.microsoftonline.com (479)</li>
-<li>github.com (442)</li>
+<li>github.com (444)</li>
 <li>tvtropes.org (431)</li>
-<li>gmail.com (428)</li>
-<li>web.whatsapp.com (377)</li>
+<li>gmail.com (429)</li>
+<li>web.whatsapp.com (378)</li>
 <li>chat.openai.com (337)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (291)</li>
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:01 web.whatsapp.com</li>
+<ul><li> 13:02 outlook.office.com</li>
+<li class='same'> 13:01 outlook.office.com</li>
+<li> 12:50 web.whatsapp.com</li>
+<li> 12:50 calendar.google.com</li>
+<li class='same'> 12:49 calendar.google.com</li>
+<li> 12:49 mail.google.com</li>
+<li class='same'> 12:48 mail.google.com</li>
+<li class='same'> 12:46 mail.google.com</li>
+<li> 12:45 www.reddit.com</li>
+<li> 12:45 mail.google.com</li>
+<li> 12:44 outlook.office.com</li>
+<li> 12:40 howlongagogo.com</li>
+<li> 12:40 duckduckgo.com</li>
+<li> 12:40 herts.instructure.com</li>
+<li> 12:38 mail.google.com</li>
+<li> 12:38 gmail.com</li>
+<li> 12:38 outlook.office.com</li>
+<li> 12:38 www.ruths-brownies.com</li>
+<li> 12:38 www.google.com</li>
+<li class='same'> 12:37 www.google.com</li>
+<li> 12:37 www.google.co.uk</li>
+<li> 12:37 duckduckgo.com</li>
+<li> 12:37 outlook.office.com</li>
+<li class='same'> 12:34 outlook.office.com</li>
+<li> 12:30 herts365-my.sharepoint.com</li>
+<li> 12:30 m365.cloud.microsoft</li>
+<li> 12:27 herts.instructure.com</li>
+<li> 12:27 adfs.herts.ac.uk</li>
+<li> 12:24 github.com</li>
+<li> 12:24 catalpa-cl.github.io</li>
+<li> 12:23 github.com</li>
+<li> 12:23 catalpa-cl.github.io</li>
+<li> 12:22 duckduckgo.com</li>
+<li> 12:18 outlook.office.com</li>
+<li> 12:18 www.kaggle.com</li>
+<li> 12:18 www.google.com</li>
+<li> 12:18 duckduckgo.com</li>
+<li> 12:11 outlook.office.com</li>
+<li class='same'> 12:10 outlook.office.com</li>
+<li class='same'> 12:09 outlook.office.com</li>
+<li class='same'> 12:08 outlook.office.com</li>
+<li> 12:08 m365.cloud.microsoft</li>
+<li> 12:01 web.whatsapp.com</li>
 <li> 11:58 herts365-my.sharepoint.com</li>
 <li> 11:58 m365.cloud.microsoft</li>
 <li> 11:54 ask.herts.ac.uk</li>
@@ -16839,11 +16881,7 @@ With number of accesses/minutes in parentheses
 <li> 17:18 chat.openai.com</li>
 <li> 16:58 www.tinkercad.com</li>
 <li> 16:58 accounts.autodesk.com</li>
-<li class='same'> 16:57 accounts.autodesk.com</li>
 <li> 16:57 accounts.google.com</li>
-<li> 16:57 accounts.autodesk.com</li>
-<li> 16:57 www.tinkercad.com</li>
-<li> 16:57 accounts.autodesk.com</li>
 <li> 16:57 www.tinkercad.com</li>
 <li> 16:46 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
 <li> 16:39 www.linkedin.com</li>
@@ -17098,7 +17136,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:06 www.printables.com</li>
 <li> 10:06 cults3d.com</li>
 <li class='same'> 10:05 cults3d.com</li>
-<li> 10:05 www.google.com</li>
 <li> 10:01 docs.arduino.cc</li>
 <li> 10:01 www.google.com</li>
 <li> 09:58 calendar.google.com</li>
