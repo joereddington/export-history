@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3142)</li>
 <li>mail.google.com (2885)</li>
-<li>outlook.office.com (2756)</li>
+<li>outlook.office.com (2757)</li>
 <li>docs.google.com (2061)</li>
 <li>outlook.office365.com (1944)</li>
-<li>www.reddit.com (1927)</li>
+<li>www.reddit.com (1929)</li>
 <li>bsky.app (1577)</li>
 <li>www.facebook.com (1416)</li>
 <li>duckduckgo.com (1185)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:05 herts.instructure.com</li>
+<ul><li> 16:20 www.reddit.com</li>
+<li class='same'> 16:17 www.reddit.com</li>
+<li> 16:16 outlook.office.com</li>
+<li> 16:05 herts.instructure.com</li>
 <li> 16:00 outlook.office.com</li>
 <li class='same'> 15:56 outlook.office.com</li>
 <li class='same'> 15:55 outlook.office.com</li>
