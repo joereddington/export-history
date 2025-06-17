@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3142)</li>
 <li>mail.google.com (2885)</li>
-<li>outlook.office.com (2746)</li>
+<li>outlook.office.com (2756)</li>
 <li>docs.google.com (2061)</li>
 <li>outlook.office365.com (1944)</li>
 <li>www.reddit.com (1927)</li>
-<li>bsky.app (1576)</li>
+<li>bsky.app (1577)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1184)</li>
+<li>duckduckgo.com (1185)</li>
 <li>chatgpt.com (838)</li>
 <li>www.amazon.co.uk (754)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:02 outlook.office.com</li>
+<ul><li> 16:05 herts.instructure.com</li>
+<li> 16:00 outlook.office.com</li>
+<li class='same'> 15:56 outlook.office.com</li>
+<li class='same'> 15:55 outlook.office.com</li>
+<li class='same'> 15:47 outlook.office.com</li>
+<li class='same'> 15:42 outlook.office.com</li>
+<li class='same'> 15:31 outlook.office.com</li>
+<li class='same'> 15:30 outlook.office.com</li>
+<li> 15:27 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 15:25 outlook.office.com</li>
+<li class='same'> 15:23 outlook.office.com</li>
+<li> 15:21 ask.herts.ac.uk</li>
+<li> 15:21 duckduckgo.com</li>
+<li> 15:19 outlook.office.com</li>
+<li> 15:18 <a href="https://www.theguardian.com/media/2025/jun/17/operator-of-gossip-forum-tattle-life-unmasked-after-losing-defamation-case">Operator of gossip forum Tattle Life unmasked after losing defamation case | Digital media | The Guardian</a></li>
+<li> 15:16 <a href="https://www.theguardian.com/world/2025/jun/17/us-military-assets-missile-launch-sites-iran-fordow">US has no shortage of military assets if it wants to target missile launch sites in Iran | Iran | The Guardian</a></li>
+<li> 15:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:15 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:12 bsky.app</li>
+<li> 15:02 outlook.office.com</li>
 <li class='same'> 14:59 outlook.office.com</li>
 <li class='same'> 14:48 outlook.office.com</li>
 <li> 14:46 www.reddit.com</li>
