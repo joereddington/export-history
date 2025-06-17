@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3142)</li>
 <li>mail.google.com (2885)</li>
-<li>outlook.office.com (2732)</li>
+<li>outlook.office.com (2737)</li>
 <li>docs.google.com (2061)</li>
 <li>outlook.office365.com (1944)</li>
-<li>www.reddit.com (1921)</li>
+<li>www.reddit.com (1923)</li>
 <li>bsky.app (1576)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1183)</li>
+<li>duckduckgo.com (1184)</li>
 <li>chatgpt.com (838)</li>
 <li>www.amazon.co.uk (754)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:02 outlook.office.com</li>
+<ul><li> 13:58 outlook.office.com</li>
+<li class='same'> 13:57 outlook.office.com</li>
+<li> 13:54 www.reddit.com</li>
+<li class='same'> 13:53 www.reddit.com</li>
+<li> 13:48 outlook.office.com</li>
+<li class='same'> 13:34 outlook.office.com</li>
+<li class='same'> 13:33 outlook.office.com</li>
+<li> 13:29 scholar.google.co.uk</li>
+<li> 13:27 www.emerald.com</li>
+<li> 13:26 koreascience.kr</li>
+<li> 13:26 scholar.google.co.uk</li>
+<li> 13:26 duckduckgo.com</li>
+<li> 13:21 herts.instructure.com</li>
+<li> 13:02 outlook.office.com</li>
 <li class='same'> 13:01 outlook.office.com</li>
 <li> 12:50 web.whatsapp.com</li>
 <li> 12:50 calendar.google.com</li>
