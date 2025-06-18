@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3145)</li>
+<ol><li>www.google.com (3142)</li>
 <li>mail.google.com (2885)</li>
 <li>outlook.office.com (2758)</li>
 <li>docs.google.com (2061)</li>
@@ -16648,8 +16648,6 @@ With number of accesses/minutes in parentheses
 <li> 19:40 mail.google.com</li>
 <li class='same'> 19:39 mail.google.com</li>
 <li> 19:39 www.factorio.com</li>
-<li> 19:39 dl.factorio.com</li>
-<li> 19:39 www.factorio.com</li>
 <li> 19:39 www.google.com</li>
 <li> 19:34 www.theguardian.com</li>
 <li class='same'> 19:33 www.theguardian.com</li>
@@ -16877,7 +16875,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:17 www.theguardian.com</li>
 <li> 06:12 mail.google.com</li>
 <li> 06:12 drive.google.com</li>
-<li> 06:12 www.google.com</li>
 <li> 06:12 mail.google.com</li>
 <li> 06:12 gmail.com</li>
 <li> 06:11 askubuntu.com</li>
@@ -16897,7 +16894,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 04:31 mail.google.com</li>
 <li> 04:31 challengeworks.org</li>
 <li class='same'> 04:30 challengeworks.org</li>
-<li> 04:30 www.google.com</li>
 <li> 04:30 mail.google.com</li>
 <li> 04:27 <a href="https://joereddington.com/2019/05/08/Everything-I%27ve-watched-on-Netflix-and-Amazon-Prime.html">Everything I’ve watched on Netflix and Amazon Prime | Joe Reddington</a></li>
 <li> 04:27 www.google.com</li>
@@ -16905,7 +16901,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 04:26 mail.google.com</li>
 <li class='same'> 04:25 mail.google.com</li>
 <li> 04:24 www.jobs.ac.uk</li>
-<li> 04:24 www.google.com</li>
 <li> 04:24 mail.google.com</li>
 <li> 04:17 one.google.com</li>
 <li class='same'> 04:16 one.google.com</li>
@@ -16917,8 +16912,7 @@ With number of accesses/minutes in parentheses
 <li> 04:10 web.whatsapp.com</li>
 <li> 04:09 drive.google.com</li>
 <li> 04:05 www.reddit.com</li>
-<li> 04:05 reddit.com</li>
-<li> 04:04 www.reddit.com</li>
+<li class='same'> 04:04 www.reddit.com</li>
 <li> 03:37 chatgpt.com</li>
 <li> 03:31 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 03:17 chatgpt.com</li>
