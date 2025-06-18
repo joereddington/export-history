@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3142)</li>
+<ol><li>www.google.com (3148)</li>
 <li>mail.google.com (2885)</li>
 <li>outlook.office.com (2758)</li>
 <li>docs.google.com (2061)</li>
@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (514)</li>
 <li>rhul-my.sharepoint.com (483)</li>
 <li>login.microsoftonline.com (479)</li>
+<li>tvtropes.org (445)</li>
 <li>github.com (444)</li>
-<li>tvtropes.org (431)</li>
 <li>gmail.com (429)</li>
 <li>web.whatsapp.com (379)</li>
 <li>chat.openai.com (337)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 18/06/25</H3>
+
+<br>
+
+<ul><li> 21:02 www.google.com</li>
+</ul>
 
 <br>
 
@@ -701,7 +706,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 16:29 <a href="https://www.theguardian.com/world/2025/jun/14/israel-attack-on-iran-slows-diplomatic-momentum-to-halt-gaza-war">Strikes on Iran ease pressure on Israel to end starvation in Gaza | Gaza | The Guardian</a></li>
+<ul><li> 19:37 www.google.com</li>
+<li class='same'> 19:36 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:29 <a href="https://www.theguardian.com/world/2025/jun/14/israel-attack-on-iran-slows-diplomatic-momentum-to-halt-gaza-war">Strikes on Iran ease pressure on Israel to end starvation in Gaza | Gaza | The Guardian</a></li>
 <li> 16:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
@@ -712,7 +723,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:41 web.whatsapp.com</li>
+<ul><li> 14:00 en.wikiquote.org</li>
+<li> 14:00 www.google.com</li>
+<li> 13:55 tvtropes.org</li>
+<li class='same'> 13:53 tvtropes.org</li>
+<li> 13:41 web.whatsapp.com</li>
 <li> 13:40 kdp.amazon.com</li>
 <li> 13:35 www.linkedin.com</li>
 <li> 13:35 kdp.amazon.com</li>
@@ -735,6 +750,12 @@ With number of accesses/minutes in parentheses
 <li> 12:44 www.amazon.co.uk</li>
 <li> 12:40 chatgpt.com</li>
 <li> 12:40 chat.openai.com</li>
+<li> 12:27 tvtropes.org</li>
+<li class='same'> 12:25 tvtropes.org</li>
+<li class='same'> 12:24 tvtropes.org</li>
+<li class='same'> 12:23 tvtropes.org</li>
+<li class='same'> 12:22 tvtropes.org</li>
+<li class='same'> 12:21 tvtropes.org</li>
 </ul>
 
 <br>
@@ -1349,6 +1370,22 @@ With number of accesses/minutes in parentheses
 <li> 07:28 web.whatsapp.com</li>
 </ul>
 
+<br>
+
+<ul><li> 06:45 tvtropes.org</li>
+<li class='same'> 06:44 tvtropes.org</li>
+<li class='same'> 06:42 tvtropes.org</li>
+<li class='same'> 06:41 tvtropes.org</li>
+<li class='same'> 06:40 tvtropes.org</li>
+<li> 06:40 www.kaggle.com</li>
+<li> 06:38 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 06:38 <a href="https://www.bbc.co.uk/sport/football/articles/cn8zldjnzpro">Pelly-Ruddock Mpanzu: Luton Town legend to leave the club - BBC Sport</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:37 <a href="https://www.theguardian.com/australia-news/2025/jun/11/fury-over-year-9-students-in-south-australia-being-asked-to-debate-whether-the-tradwife-movement-is-good-for-women">Fury over year 9 students in South Australia being asked to debate whether the tradwife movement is good for women | South Australia | The Guardian</a></li>
+<li> 06:27 www.google.com</li>
+<li class='same'> 06:26 www.google.com</li>
+</ul>
+
 <H3>Tuesday, 10/06/25</H3>
 
 <br>
@@ -1357,7 +1394,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:43 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
+<ul><li> 23:03 <a href="https://www.theguardian.com/film/2025/jun/10/how-to-train-your-dragon-review">How to Train Your Dragon review – faithful yet utterly soulless remake | Action and adventure films | The Guardian</a></li>
+<li> 23:01 <a href="https://www.theguardian.com/film/2025/jun/10/juliet-romeo-review-rebel-wilson-and-jason-isaacs-cameo-in-syrupy-shakespeare-musical">Juliet & Romeo review – Rebel Wilson and Jason Isaacs cameo in syrupy Shakespeare musical | Film | The Guardian</a></li>
+<li> 22:58 <a href="https://www.theguardian.com/football/blog/2025/jun/10/ange-postecoglou-tottenham-sacked-europa-league-post-truth-philosophy">Ange Postecoglou’s triumphant sacking holds the key to modern football | Ange Postecoglou | The Guardian</a></li>
+<li> 22:55 profile.theguardian.com</li>
+<li> 22:55 www.eater.com</li>
+<li> 22:43 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is eight times more accurate than yours | Joe Reddington</a></li>
 <li> 22:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
@@ -1595,7 +1637,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 05:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 05:44 www.eater.com</li>
+<li> 05:42 <a href="https://www.theguardian.com/us-news/2025/jun/09/rfk-cdc-panel-vaccines-removed">RFK Jr to remove all members of CDC panel advising on US vaccines | Trump administration | The Guardian</a></li>
+<li> 05:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
 <H3>Monday, 09/06/25</H3>
@@ -52497,6 +52541,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li class='same'> 23:11 tvtropes.org</li>
+</ul>
+
+<br>
+
 <ul><li> 16:35 apply.unity.co.uk</li>
 <li class='same'> 16:14 apply.unity.co.uk</li>
 <li> 15:59 outlook.office365.com</li>
@@ -53147,6 +53196,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:13 profile.theguardian.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:21 profile.theguardian.com</li>
 </ul>
 
 <H3>Saturday, 09/03/24</H3>
