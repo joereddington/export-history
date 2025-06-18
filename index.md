@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3142)</li>
+<ol><li>www.google.com (3145)</li>
 <li>mail.google.com (2885)</li>
 <li>outlook.office.com (2758)</li>
 <li>docs.google.com (2061)</li>
 <li>outlook.office365.com (1944)</li>
-<li>www.reddit.com (1930)</li>
+<li>www.reddit.com (1935)</li>
 <li>bsky.app (1577)</li>
 <li>www.facebook.com (1416)</li>
 <li>duckduckgo.com (1185)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (379)</li>
 <li>chat.openai.com (337)</li>
 <li>drive.google.com (303)</li>
-<li>feedly.com (292)</li>
+<li>feedly.com (294)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (234)</li>
@@ -104,11 +104,34 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 18/06/25</H3>
+
+<br>
+
+<ul><li> 08:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:13 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:13 <a href="https://www.theguardian.com/world/live/2025/jun/17/israel-iran-conflict-live-updates-tehran-trump-evacuation-middle-east">Trump demands Iran’s ‘unconditional surrender’ – as it happened | Israel | The Guardian</a></li>
+</ul>
+
 <H3>Tuesday, 17/06/25</H3>
 
 <br>
 
-<ul><li> 20:37 www.giantitp.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:49 <a href="https://www.theguardian.com/uk-news/2025/jun/17/uk-mothers-with-children-from-abusive-relationships-discriminated-against-by-benefits-system-court-told">Two mothers denied ‘rape clause’ exception to benefit cap discriminated against, UK court told | Universal credit | The Guardian</a></li>
+<li> 20:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:49 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:48 www.reddit.com</li>
+<li class='same'> 20:47 www.reddit.com</li>
+<li class='same'> 20:46 www.reddit.com</li>
+<li class='same'> 20:44 www.reddit.com</li>
+<li class='same'> 20:43 www.reddit.com</li>
+<li> 20:43 feedly.com</li>
+<li class='same'> 20:42 feedly.com</li>
+<li> 20:37 www.giantitp.com</li>
 <li> 20:36 www.linkedin.com</li>
 <li> 20:36 www.reddit.com</li>
 <li> 20:35 reductress.com</li>
@@ -122,6 +145,28 @@ With number of accesses/minutes in parentheses
 <li> 19:52 feedly.com</li>
 <li> 19:52 web.whatsapp.com</li>
 <li> 19:51 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:27 <a href="https://www.theguardian.com/world/live/2025/jun/17/israel-iran-conflict-live-updates-tehran-trump-evacuation-middle-east">Trump demands Iran’s ‘unconditional surrender’ – as it happened | Israel | The Guardian</a></li>
+<li> 18:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li class='same'> 18:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:26 <a href="https://www.theguardian.com/politics/2025/jun/17/keir-starmer-picked-up-papers-dropped-by-donald-trump">Starmer says he picked up Trump’s dropped papers to avoid security scare | Keir Starmer | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:11 <a href="https://www.theguardian.com/politics/2025/jun/17/keir-starmer-picked-up-papers-dropped-by-donald-trump">Starmer says he picked up Trump’s dropped papers to avoid security scare | Keir Starmer | The Guardian</a></li>
+<li> 17:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:09 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 17:08 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 17:06 librarysearch.royalholloway.ac.uk</li>
+<li> 17:06 www.google.com</li>
+<li> 17:06 search.app.goo.gl</li>
+<li> 17:06 www.google.com</li>
+<li class='same'> 17:05 www.google.com</li>
+<li> 17:05 <a href="https://www.theguardian.com/commentisfree/2025/jun/17/donald-trump-g7-summit-middle-east">It’s The Donald Show … without Donald Trump. Welcome to the G-something or other summit | Marina Hyde | The Guardian</a></li>
 </ul>
 
 <br>
@@ -156,6 +201,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:44 www.reddit.com</li>
 <li class='same'> 14:43 www.reddit.com</li>
 <li> 14:41 outlook.office.com</li>
+<li> 14:38 <a href="https://www.theguardian.com/commentisfree/2025/jun/17/donald-trump-g7-summit-middle-east">It’s The Donald Show … without Donald Trump. Welcome to the G-something or other summit | Marina Hyde | The Guardian</a></li>
 <li> 14:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li class='same'> 14:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 14:22 herts365-my.sharepoint.com</li>
