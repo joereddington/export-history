@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3148)</li>
+<ol><li>www.google.com (3169)</li>
 <li>mail.google.com (2885)</li>
 <li>outlook.office.com (2758)</li>
 <li>docs.google.com (2061)</li>
 <li>outlook.office365.com (1944)</li>
-<li>www.reddit.com (1935)</li>
+<li>www.reddit.com (1938)</li>
 <li>bsky.app (1577)</li>
 <li>www.facebook.com (1416)</li>
 <li>duckduckgo.com (1185)</li>
@@ -104,7 +104,25 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 19/06/25</H3>
+
+<br>
+
+<ul><li> 13:18 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:23 www.google.com</li>
+<li class='same'> 12:22 www.google.com</li>
+<li class='same'> 12:21 www.google.com</li>
+</ul>
+
 <H3>Wednesday, 18/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -114,7 +132,59 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 19:15 www.google.com</li>
+<li class='same'> 19:14 www.google.com</li>
+<li> 19:13 www.reddit.com</li>
+<li> 19:13 www.google.com</li>
+<li> 19:13 www.reddit.com</li>
+<li class='same'> 19:12 www.reddit.com</li>
+<li> 19:12 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:47 www.google.com</li>
+<li> 14:47 www.whatdotheyknow.com</li>
+<li> 14:47 www.google.com</li>
+<li> 14:46 www.ucas.com</li>
+<li> 14:46 www.google.com</li>
+<li> 14:46 www.thetimes.com</li>
+<li> 14:46 www.google.com</li>
+<li class='same'> 14:44 www.google.com</li>
+<li> 14:42 www.whatdotheyknow.com</li>
+<li class='same'> 14:41 www.whatdotheyknow.com</li>
+<li> 14:41 www.google.com</li>
+<li> 14:38 qmucu.org</li>
+<li> 14:38 www.google.com</li>
+<li> 14:37 digital.ucas.com</li>
+<li> 14:37 www.google.com</li>
+<li> 14:37 digital.ucas.com</li>
+<li> 14:37 www.google.com</li>
+<li> 14:36 digital.ucas.com</li>
+<li> 14:35 www.google.com</li>
+<li> 14:34 digital.ucas.com</li>
+<li> 14:34 www.google.com</li>
+<li class='same'> 14:33 www.google.com</li>
+<li class='same'> 14:29 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:18 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:30 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 08:14 <a href="https://www.theguardian.com/world/2025/jun/18/ukraine-war-briefing-north-korea-sending-another-5000-into-kursk-russian-claim">Ukraine war briefing: North Korea sending another 5,000 into Kursk – Russian claim | Ukraine | The Guardian</a></li>
+<li> 08:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:13 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:13 <a href="https://www.theguardian.com/world/live/2025/jun/17/israel-iran-conflict-live-updates-tehran-trump-evacuation-middle-east">Trump demands Iran’s ‘unconditional surrender’ – as it happened | Israel | The Guardian</a></li>
 </ul>
