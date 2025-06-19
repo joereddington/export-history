@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3169)</li>
+<ol><li>www.google.com (3178)</li>
 <li>mail.google.com (2885)</li>
 <li>outlook.office.com (2758)</li>
 <li>docs.google.com (2061)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:18 www.google.com</li>
+<ul><li> 21:38 www.moneysavingexpert.com</li>
+<li class='same'> 21:37 www.moneysavingexpert.com</li>
+<li> 21:25 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:52 www.google.com</li>
+<li class='same'> 20:51 www.google.com</li>
+<li> 20:51 www.manualslib.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:31 www.manualslib.com</li>
+<li> 16:29 www.google.com</li>
+<li> 16:29 www.instagram.com</li>
+<li class='same'> 16:28 www.instagram.com</li>
+<li> 16:28 www.google.com</li>
+<li> 16:28 www.manualslib.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:21 www.manualslib.com</li>
+<li> 13:21 www.google.com</li>
+<li> 13:21 www.marcypro.com</li>
+<li> 13:20 www.google.com</li>
+<li> 13:20 www.marcypro.com</li>
+<li> 13:20 www.google.com</li>
+<li> 13:20 www.justanswer.com</li>
+<li> 13:19 www.google.com</li>
+<li class='same'> 13:18 www.google.com</li>
 </ul>
 
 <br>
@@ -59607,6 +59639,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:39 www.moneysavingexpert.com</li>
+<li class='same'> 12:36 www.moneysavingexpert.com</li>
+</ul>
+
+<br>
+
 <ul><li> 08:22 m.youtube.com</li>
 </ul>
 
@@ -59692,6 +59730,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:59 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:26 www.moneysavingexpert.com</li>
 </ul>
 
 <br>
