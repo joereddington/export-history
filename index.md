@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (514)</li>
 <li>rhul-my.sharepoint.com (483)</li>
 <li>login.microsoftonline.com (479)</li>
+<li>github.com (445)</li>
 <li>tvtropes.org (445)</li>
-<li>github.com (444)</li>
 <li>gmail.com (429)</li>
 <li>web.whatsapp.com (379)</li>
 <li>chat.openai.com (337)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:02 www.google.com</li>
+<ul><li> 21:12 github.com</li>
+<li> 21:02 www.google.com</li>
 </ul>
 
 <br>
