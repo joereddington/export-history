@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3178)</li>
-<li>mail.google.com (2893)</li>
-<li>outlook.office.com (2769)</li>
+<li>mail.google.com (2894)</li>
+<li>outlook.office.com (2770)</li>
 <li>docs.google.com (2064)</li>
-<li>outlook.office365.com (1944)</li>
-<li>www.reddit.com (1938)</li>
+<li>outlook.office365.com (1954)</li>
+<li>www.reddit.com (1940)</li>
 <li>bsky.app (1577)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1188)</li>
+<li>duckduckgo.com (1189)</li>
 <li>chatgpt.com (841)</li>
 <li>www.amazon.co.uk (757)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (547)</li>
-<li>moodle.royalholloway.ac.uk (519)</li>
-<li>www.linkedin.com (514)</li>
+<li>moodle.royalholloway.ac.uk (521)</li>
+<li>www.linkedin.com (515)</li>
 <li>rhul-my.sharepoint.com (483)</li>
-<li>login.microsoftonline.com (480)</li>
+<li>login.microsoftonline.com (482)</li>
 <li>github.com (445)</li>
 <li>tvtropes.org (445)</li>
 <li>gmail.com (431)</li>
-<li>web.whatsapp.com (380)</li>
+<li>web.whatsapp.com (381)</li>
 <li>chat.openai.com (339)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (294)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:08 web.whatsapp.com</li>
+<ul><li> 10:22 moodle.royalholloway.ac.uk</li>
+<li> 10:21 login.microsoftonline.com</li>
+<li> 10:21 moodle.royalholloway.ac.uk</li>
+<li> 10:21 outlook.office365.com</li>
+<li class='same'> 10:18 outlook.office365.com</li>
+<li> 10:17 webtimetables.royalholloway.ac.uk</li>
+<li> 10:17 outlook.office365.com</li>
+<li class='same'> 10:16 outlook.office365.com</li>
+<li class='same'> 10:15 outlook.office365.com</li>
+<li> 10:15 web.whatsapp.com</li>
+<li> 10:14 outlook.office365.com</li>
+<li class='same'> 10:13 outlook.office365.com</li>
+<li class='same'> 10:12 outlook.office365.com</li>
+<li> 10:12 login.microsoftonline.com</li>
+<li> 10:12 outlook.office365.com</li>
+<li> 10:12 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:48 www.reddit.com</li>
+<li class='same'> 07:47 www.reddit.com</li>
+<li> 07:47 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:10 www.linkedin.com</li>
+<li> 07:10 duckduckgo.com</li>
+<li> 07:08 web.whatsapp.com</li>
 <li> 07:08 mail.google.com</li>
 <li class='same'> 07:07 mail.google.com</li>
 <li> 07:07 www.paypal.com</li>
@@ -44803,6 +44832,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:56 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 12:56 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 12:53 <a href="https://en.wikipedia.org/wiki/Talk:Information_security">Talk:Information security - Wikipedia</a></li>
+<li> 12:32 outlook.office365.com</li>
 <li> 12:30 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
 <li> 12:28 kdp.amazon.com</li>
 <li> 12:15 github.com</li>
