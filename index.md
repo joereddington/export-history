@@ -72,15 +72,15 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2894)</li>
 <li>outlook.office.com (2770)</li>
 <li>docs.google.com (2064)</li>
-<li>outlook.office365.com (1961)</li>
+<li>outlook.office365.com (1965)</li>
 <li>www.reddit.com (1940)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1192)</li>
+<li>duckduckgo.com (1193)</li>
 <li>chatgpt.com (842)</li>
 <li>www.amazon.co.uk (757)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (547)</li>
+<li>calendar.google.com (548)</li>
 <li>moodle.royalholloway.ac.uk (522)</li>
 <li>www.linkedin.com (515)</li>
 <li>rhul-my.sharepoint.com (483)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 20/06/25</H3>
+
+<br>
+
+<ul><li> 17:48 www.consoleroms.com</li>
+<li> 17:48 duckduckgo.com</li>
+<li> 17:23 www.arduino.cc</li>
+<li> 17:23 www.moonpig.com</li>
+<li class='same'> 17:22 www.moonpig.com</li>
+<li class='same'> 17:21 www.moonpig.com</li>
+<li> 17:15 outlook.office365.com</li>
+<li> 17:15 calendar.google.com</li>
+<li> 17:15 outlook.office365.com</li>
+<li class='same'> 17:14 outlook.office365.com</li>
+<li class='same'> 17:13 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -49925,7 +49940,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:05 www.theyworkforyou.com</li>
-<li> 10:43 www.moonpig.com</li>
+<li> 10:51 www.moonpig.com</li>
+<li class='same'> 10:50 www.moonpig.com</li>
+<li class='same'> 10:49 www.moonpig.com</li>
+<li class='same'> 10:43 www.moonpig.com</li>
 <li class='same'> 10:42 www.moonpig.com</li>
 <li> 10:36 www.google.co.uk</li>
 <li> 10:36 www.google.com</li>
@@ -60482,7 +60500,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:03 www.amazon.co.uk</li>
-<li> 10:35 www.moonpig.com</li>
+<li> 10:54 www.moonpig.com</li>
+<li class='same'> 10:50 www.moonpig.com</li>
+<li class='same'> 10:46 www.moonpig.com</li>
+<li class='same'> 10:35 www.moonpig.com</li>
 <li> 10:26 docs.google.com</li>
 <li> 10:16 www.projectreal.co.uk</li>
 <li> 09:56 whitewaterwriters.com</li>
@@ -61794,7 +61815,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:54 www.moonpig.com</li>
+<ul><li> 07:02 www.moonpig.com</li>
+<li class='same'> 06:54 www.moonpig.com</li>
 </ul>
 
 <H3>Monday, 12/12/22</H3>
@@ -62010,7 +62032,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:31 www.moonpig.com</li>
+<ul><li> 14:43 www.moonpig.com</li>
+<li class='same'> 14:31 www.moonpig.com</li>
 </ul>
 
 <br>
