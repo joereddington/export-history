@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3178)</li>
-<li>mail.google.com (2885)</li>
-<li>outlook.office.com (2758)</li>
-<li>docs.google.com (2061)</li>
+<li>mail.google.com (2893)</li>
+<li>outlook.office.com (2769)</li>
+<li>docs.google.com (2064)</li>
 <li>outlook.office365.com (1944)</li>
 <li>www.reddit.com (1938)</li>
 <li>bsky.app (1577)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1185)</li>
-<li>chatgpt.com (838)</li>
-<li>www.amazon.co.uk (754)</li>
+<li>duckduckgo.com (1188)</li>
+<li>chatgpt.com (841)</li>
+<li>www.amazon.co.uk (757)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (545)</li>
+<li>calendar.google.com (547)</li>
 <li>moodle.royalholloway.ac.uk (519)</li>
 <li>www.linkedin.com (514)</li>
 <li>rhul-my.sharepoint.com (483)</li>
-<li>login.microsoftonline.com (479)</li>
+<li>login.microsoftonline.com (480)</li>
 <li>github.com (445)</li>
 <li>tvtropes.org (445)</li>
-<li>gmail.com (429)</li>
-<li>web.whatsapp.com (379)</li>
-<li>chat.openai.com (337)</li>
+<li>gmail.com (431)</li>
+<li>web.whatsapp.com (380)</li>
+<li>chat.openai.com (339)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (294)</li>
 <li>fritz.box (277)</li>
@@ -104,7 +104,56 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 20/06/25</H3>
+
+<br>
+
+<ul><li> 07:08 web.whatsapp.com</li>
+<li> 07:08 mail.google.com</li>
+<li class='same'> 07:07 mail.google.com</li>
+<li> 07:07 www.paypal.com</li>
+<li> 07:06 mail.google.com</li>
+<li> 07:06 outlook.office.com</li>
+<li> 07:06 mail.google.com</li>
+<li> 07:02 www.paypal.com</li>
+<li> 06:57 equalitytime.github.io</li>
+<li> 06:56 www.paypal.com</li>
+<li> 06:55 mail.google.com</li>
+<li> 06:55 accounts.google.com</li>
+<li> 06:55 mail.google.com</li>
+<li> 06:55 gmail.com</li>
+<li> 06:54 outlook.office.com</li>
+<li class='same'> 06:53 outlook.office.com</li>
+<li class='same'> 06:52 outlook.office.com</li>
+<li class='same'> 06:51 outlook.office.com</li>
+<li> 06:38 herts365-my.sharepoint.com</li>
+<li> 06:38 outlook.office.com</li>
+<li class='same'> 06:35 outlook.office.com</li>
+<li> 06:35 herts365-my.sharepoint.com</li>
+<li> 06:33 chatgpt.com</li>
+<li> 06:33 chat.openai.com</li>
+<li> 06:33 outlook.office.com</li>
+<li class='same'> 06:32 outlook.office.com</li>
+<li> 06:32 calendar.google.com</li>
+<li class='same'> 06:31 calendar.google.com</li>
+<li> 06:31 outlook.office.com</li>
+<li class='same'> 06:30 outlook.office.com</li>
+<li> 06:30 m365.cloud.microsoft</li>
+<li> 06:30 login.microsoftonline.com</li>
+<li> 06:30 adfs.herts.ac.uk</li>
+<li> 06:23 api-b6327e78.duosecurity.com</li>
+<li> 06:23 adfs.herts.ac.uk</li>
+<li> 06:18 chatgpt.com</li>
+<li> 06:18 docs.google.com</li>
+<li> 06:17 chatgpt.com</li>
+<li> 06:17 chat.openai.com</li>
+</ul>
+
 <H3>Thursday, 19/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -155,6 +204,16 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 21:51 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 21:50 docs.google.com</li>
+<li> 21:50 www.amazon.co.uk</li>
+<li> 21:50 docs.google.com</li>
+<li> 21:50 www.amazon.co.uk</li>
+<li class='same'> 21:49 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
@@ -209,8 +268,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 09:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 10:02 getsupport.apple.com</li>
+<li class='same'> 10:01 getsupport.apple.com</li>
+<li> 10:01 www.apple.com</li>
+<li class='same'> 10:00 www.apple.com</li>
+<li> 10:00 duckduckgo.com</li>
+<li> 10:00 getsupport.apple.com</li>
+<li class='same'> 09:59 getsupport.apple.com</li>
+<li> 09:59 www.apple.com</li>
+<li> 09:59 duckduckgo.com</li>
+<li> 09:59 mail.google.com</li>
+<li class='same'> 09:58 mail.google.com</li>
+<li> 09:58 gmail.com</li>
+<li> 09:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 09:30 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:11 duckduckgo.com</li>
+<li> 09:10 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 </ul>
 
 <br>
