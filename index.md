@@ -72,29 +72,29 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (2894)</li>
 <li>outlook.office.com (2770)</li>
 <li>docs.google.com (2064)</li>
-<li>outlook.office365.com (1954)</li>
+<li>outlook.office365.com (1961)</li>
 <li>www.reddit.com (1940)</li>
-<li>bsky.app (1577)</li>
+<li>bsky.app (1578)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1189)</li>
+<li>duckduckgo.com (1191)</li>
 <li>chatgpt.com (841)</li>
 <li>www.amazon.co.uk (757)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (547)</li>
-<li>moodle.royalholloway.ac.uk (521)</li>
+<li>moodle.royalholloway.ac.uk (522)</li>
 <li>www.linkedin.com (515)</li>
 <li>rhul-my.sharepoint.com (483)</li>
-<li>login.microsoftonline.com (482)</li>
+<li>login.microsoftonline.com (483)</li>
 <li>github.com (445)</li>
 <li>tvtropes.org (445)</li>
 <li>gmail.com (431)</li>
-<li>web.whatsapp.com (381)</li>
+<li>web.whatsapp.com (382)</li>
 <li>chat.openai.com (339)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (294)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
-<li>rhul.sharepoint.com (234)</li>
+<li>rhul.sharepoint.com (239)</li>
 <li>qbo.intuit.com (234)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (218)</li>
 <li>www.coursera.org (208)</li>
@@ -108,13 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:59 outlook.office365.com</li>
+<li> 14:51 www.su.rhul.ac.uk</li>
+<li> 14:51 duckduckgo.com</li>
+<li> 14:51 outlook.office365.com</li>
+<li class='same'> 14:50 outlook.office365.com</li>
+<li> 14:45 bsky.app</li>
+<li> 14:45 web.whatsapp.com</li>
+<li> 14:41 www.moonpig.com</li>
+<li class='same'> 14:40 www.moonpig.com</li>
+<li> 14:40 outlook.office365.com</li>
+<li> 14:39 <a href="https://en.wikipedia.org/wiki/Royal_Holloway,_University_of_London">Royal Holloway, University of London - Wikipedia</a></li>
+<li> 14:39 duckduckgo.com</li>
+<li> 14:39 outlook.office365.com</li>
+<li> 14:39 rhul.sharepoint.com</li>
+<li> 14:39 login.microsoftonline.com</li>
+<li> 14:38 outlook.office365.com</li>
+<li class='same'> 14:37 outlook.office365.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 </ul>
 
 <br>
 
 <ul><li> 10:38 www.google.com</li>
-<li> 10:22 moodle.royalholloway.ac.uk</li>
+<li> 10:25 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:22 moodle.royalholloway.ac.uk</li>
 <li> 10:21 login.microsoftonline.com</li>
 <li> 10:21 moodle.royalholloway.ac.uk</li>
 <li> 10:21 outlook.office365.com</li>
@@ -49191,6 +49213,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:32 discord.com</li>
 <li> 11:30 chatgpt.com</li>
 <li> 11:25 whatismyipaddress.com</li>
+<li> 11:15 <a href="https://en.wikipedia.org/wiki/Royal_Holloway,_University_of_London">Royal Holloway, University of London - Wikipedia</a></li>
 <li> 11:02 kdp.amazon.com</li>
 </ul>
 
@@ -49899,7 +49922,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:05 www.theyworkforyou.com</li>
-<li> 10:42 www.moonpig.com</li>
+<li> 10:43 www.moonpig.com</li>
+<li class='same'> 10:42 www.moonpig.com</li>
 <li> 10:36 www.google.co.uk</li>
 <li> 10:36 www.google.com</li>
 <li> 10:33 challengeworks.org</li>
@@ -52956,11 +52980,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:04 my-charity-account.charitycommission.gov.uk</li>
 <li class='same'> 13:55 my-charity-account.charitycommission.gov.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 13:23 rhul.sharepoint.com</li>
+<li> 13:54 rhul.sharepoint.com</li>
+<li class='same'> 13:29 rhul.sharepoint.com</li>
+<li class='same'> 13:23 rhul.sharepoint.com</li>
 <li class='same'> 13:20 rhul.sharepoint.com</li>
 <li> 12:57 my-charity-account.charitycommission.gov.uk</li>
 </ul>
@@ -54606,6 +54628,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:15 rhul.sharepoint.com</li>
 <li class='same'> 10:12 rhul.sharepoint.com</li>
 <li class='same'> 10:11 rhul.sharepoint.com</li>
+<li class='same'> 10:10 rhul.sharepoint.com</li>
+<li class='same'> 10:08 rhul.sharepoint.com</li>
 <li class='same'> 10:07 rhul.sharepoint.com</li>
 <li> 09:57 www.amazon.co.uk</li>
 </ul>
