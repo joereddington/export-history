@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1940)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1197)</li>
-<li>chatgpt.com (843)</li>
-<li>www.amazon.co.uk (757)</li>
+<li>duckduckgo.com (1198)</li>
+<li>chatgpt.com (846)</li>
+<li>www.amazon.co.uk (758)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (548)</li>
 <li>moodle.royalholloway.ac.uk (522)</li>
@@ -89,9 +89,9 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (445)</li>
 <li>gmail.com (432)</li>
 <li>web.whatsapp.com (383)</li>
-<li>chat.openai.com (341)</li>
+<li>chat.openai.com (342)</li>
 <li>drive.google.com (303)</li>
-<li>feedly.com (294)</li>
+<li>feedly.com (295)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (239)</li>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 21/06/25</H3>
+
+<br>
+
+<ul><li> 15:43 openemu.org</li>
+<li> 15:42 retroemulators.com</li>
+<li> 15:42 duckduckgo.com</li>
+<li> 15:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 15:42 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 15:31 127.0.0.1:4000</li>
+<li> 15:27 feedly.com</li>
+<li> 15:25 www.amazon.co.uk</li>
+<li> 15:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 15:23 127.0.0.1:4000</li>
+<li> 15:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 15:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 15:21 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:48 chatgpt.com</li>
+<li class='same'> 14:45 chatgpt.com</li>
+<li> 14:45 chat.openai.com</li>
+</ul>
 
 <br>
 
@@ -50520,6 +50544,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:32 www.amazon.co.uk</li>
 <li class='same'> 16:31 www.amazon.co.uk</li>
 <li> 16:18 www.retrodev.com</li>
+<li> 16:16 openemu.org</li>
 <li> 15:58 store.steampowered.com</li>
 </ul>
 
