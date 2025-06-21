@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3185)</li>
 <li>mail.google.com (2894)</li>
 <li>outlook.office.com (2770)</li>
-<li>docs.google.com (2064)</li>
+<li>docs.google.com (2065)</li>
 <li>outlook.office365.com (1965)</li>
 <li>www.reddit.com (1940)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1193)</li>
-<li>chatgpt.com (842)</li>
+<li>duckduckgo.com (1197)</li>
+<li>chatgpt.com (843)</li>
 <li>www.amazon.co.uk (757)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (548)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (445)</li>
 <li>gmail.com (431)</li>
 <li>web.whatsapp.com (382)</li>
-<li>chat.openai.com (340)</li>
+<li>chat.openai.com (341)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (294)</li>
 <li>fritz.box (277)</li>
@@ -104,7 +104,36 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 21/06/25</H3>
+
+<br>
+
+<ul><li> 07:04 tsapps.nist.gov</li>
+<li> 07:04 physics.nist.gov</li>
+<li class='same'> 07:03 physics.nist.gov</li>
+<li> 07:03 duckduckgo.com</li>
+<li> 07:03 <a href="https://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe">Wilkinson Microwave Anisotropy Probe - Wikipedia</a></li>
+<li> 07:03 duckduckgo.com</li>
+<li> 07:01 <a href="https://en.wikipedia.org/wiki/Deceleration_parameter">Deceleration parameter - Wikipedia</a></li>
+<li> 07:01 <a href="https://en.wikipedia.org/wiki/Cosmic_acceleration">Accelerating expansion of the universe - Wikipedia</a></li>
+<li> 07:01 <a href="https://en.wikipedia.org/wiki/Accelerating_expansion_of_the_universe">Accelerating expansion of the universe - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/wiki/Talk:Cosmological_constant">Talk:Cosmological constant - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/wiki/Cosmological_constant">Cosmological constant - Wikipedia</a></li>
+<li> 06:56 web.mit.edu</li>
+<li> 06:56 www.britannica.com</li>
+<li> 06:55 duckduckgo.com</li>
+<li> 06:41 <a href="https://en.wikipedia.org/wiki/Cosmological_constant">Cosmological constant - Wikipedia</a></li>
+<li> 06:41 duckduckgo.com</li>
+<li> 06:36 docs.google.com</li>
+<li> 06:30 chatgpt.com</li>
+<li> 06:30 chat.openai.com</li>
+</ul>
+
 <H3>Friday, 20/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
