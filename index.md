@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3185)</li>
-<li>mail.google.com (2894)</li>
+<li>mail.google.com (2905)</li>
 <li>outlook.office.com (2770)</li>
 <li>docs.google.com (2065)</li>
 <li>outlook.office365.com (1965)</li>
@@ -87,8 +87,8 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (483)</li>
 <li>github.com (445)</li>
 <li>tvtropes.org (445)</li>
-<li>gmail.com (431)</li>
-<li>web.whatsapp.com (382)</li>
+<li>gmail.com (432)</li>
+<li>web.whatsapp.com (383)</li>
 <li>chat.openai.com (341)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (294)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:04 tsapps.nist.gov</li>
+<ul><li> 08:59 <a href="https://en.wikipedia.org/wiki/2025_shootings_of_Minnesota_legislators">2025 shootings of Minnesota legislators - Wikipedia</a></li>
+<li> 08:57 <a href="https://en.wikipedia.org/wiki/Melissa_Hortman">Melissa Hortman - Wikipedia</a></li>
+<li> 08:57 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 08:49 mail.google.com</li>
+<li class='same'> 08:48 mail.google.com</li>
+<li> 08:48 www.traineffectprint.com</li>
+<li> 08:48 mail.google.com</li>
+<li> 08:48 s3.us-east-1.amazonaws.com</li>
+<li> 08:47 mail.google.com</li>
+<li class='same'> 08:46 mail.google.com</li>
+<li> 08:46 doi.crossref.org</li>
+<li> 08:46 orcid.org</li>
+<li> 08:46 mail.google.com</li>
+<li> 08:45 web.whatsapp.com</li>
+<li> 08:44 kdpreports.amazon.com</li>
+<li> 08:44 kdp.amazon.com</li>
+<li> 08:44 mail.google.com</li>
+<li class='same'> 08:43 mail.google.com</li>
+<li class='same'> 08:15 mail.google.com</li>
+<li> 08:14 www.parkjockey.com</li>
+<li class='same'> 08:13 www.parkjockey.com</li>
+<li class='same'> 08:12 www.parkjockey.com</li>
+<li class='same'> 08:11 www.parkjockey.com</li>
+<li> 08:11 mail.google.com</li>
+<li class='same'> 08:10 mail.google.com</li>
+<li> 08:10 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:07 <a href="https://en.wikipedia.org/wiki/Physical_constant">Physical constant - Wikipedia</a></li>
+<li> 07:06 <a href="https://en.wikipedia.org/wiki/List_of_mathematical_constants">List of mathematical constants - Wikipedia</a></li>
+<li> 07:06 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+<li> 07:04 tsapps.nist.gov</li>
 <li> 07:04 physics.nist.gov</li>
 <li class='same'> 07:03 physics.nist.gov</li>
 <li> 07:03 duckduckgo.com</li>
@@ -53146,6 +53179,9 @@ With number of accesses/minutes in parentheses
 <li> 10:23 trends.google.com</li>
 <li> 10:23 www.google.com</li>
 <li> 10:07 www.gmail.com</li>
+<li> 10:00 www.parkjockey.com</li>
+<li class='same'> 09:59 www.parkjockey.com</li>
+<li class='same'> 09:58 www.parkjockey.com</li>
 <li> 09:57 www.paypal.com</li>
 <li> 09:39 calendar.google.com</li>
 </ul>
