@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3193)</li>
-<li>mail.google.com (2905)</li>
+<li>mail.google.com (2909)</li>
 <li>outlook.office.com (2770)</li>
 <li>docs.google.com (2065)</li>
 <li>outlook.office365.com (1965)</li>
-<li>www.reddit.com (1957)</li>
+<li>www.reddit.com (1959)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1417)</li>
-<li>duckduckgo.com (1206)</li>
+<li>duckduckgo.com (1211)</li>
 <li>chatgpt.com (847)</li>
 <li>www.amazon.co.uk (760)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (548)</li>
+<li>calendar.google.com (551)</li>
 <li>moodle.royalholloway.ac.uk (522)</li>
 <li>www.linkedin.com (516)</li>
 <li>rhul-my.sharepoint.com (483)</li>
 <li>login.microsoftonline.com (483)</li>
 <li>github.com (446)</li>
 <li>tvtropes.org (445)</li>
-<li>gmail.com (432)</li>
-<li>web.whatsapp.com (384)</li>
+<li>gmail.com (433)</li>
+<li>web.whatsapp.com (386)</li>
 <li>chat.openai.com (343)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
@@ -105,6 +105,46 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 22/06/25</H3>
+
+<br>
+
+<ul><li> 21:05 www.majorsystemtrainer.com</li>
+<li> 21:04 mail.google.com</li>
+<li> 21:04 gmail.com</li>
+<li> 21:03 web.whatsapp.com</li>
+<li> 21:02 www.ebay.co.uk</li>
+<li class='same'> 21:01 www.ebay.co.uk</li>
+<li class='same'> 21:00 www.ebay.co.uk</li>
+<li class='same'> 20:59 www.ebay.co.uk</li>
+<li class='same'> 20:58 www.ebay.co.uk</li>
+<li class='same'> 20:57 www.ebay.co.uk</li>
+<li class='same'> 20:56 www.ebay.co.uk</li>
+<li> 20:56 ruitertassen.com</li>
+<li> 20:56 www.reddit.com</li>
+<li> 20:55 duckduckgo.com</li>
+<li> 20:55 www.ebay.co.uk</li>
+<li> 20:55 duckduckgo.com</li>
+<li> 20:55 www.ebay.co.uk</li>
+<li> 20:53 api-b6327e78.duosecurity.com</li>
+<li> 20:53 adfs.herts.ac.uk</li>
+<li> 20:52 calendar.google.com</li>
+<li class='same'> 20:51 calendar.google.com</li>
+<li> 20:49 buffer.com</li>
+<li> 20:47 mail.google.com</li>
+<li class='same'> 20:46 mail.google.com</li>
+<li> 20:46 buytickets.delfontmackintosh.co.uk</li>
+<li class='same'> 20:43 buytickets.delfontmackintosh.co.uk</li>
+<li> 20:43 web.whatsapp.com</li>
+<li> 20:42 calendar.google.com</li>
+<li> 20:42 buytickets.delfontmackintosh.co.uk</li>
+<li> 20:40 www.reddit.com</li>
+<li> 20:39 duckduckgo.com</li>
+<li class='same'> 20:38 duckduckgo.com</li>
+<li> 20:37 buytickets.delfontmackintosh.co.uk</li>
+<li> 20:37 london.lesmis.com</li>
+<li> 20:36 duckduckgo.com</li>
+<li> 20:36 mail.google.com</li>
+</ul>
 
 <br>
 
