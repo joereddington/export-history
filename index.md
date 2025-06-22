@@ -73,16 +73,16 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2770)</li>
 <li>docs.google.com (2065)</li>
 <li>outlook.office365.com (1965)</li>
-<li>www.reddit.com (1951)</li>
+<li>www.reddit.com (1955)</li>
 <li>bsky.app (1578)</li>
-<li>www.facebook.com (1416)</li>
+<li>www.facebook.com (1417)</li>
 <li>duckduckgo.com (1204)</li>
 <li>chatgpt.com (847)</li>
 <li>www.amazon.co.uk (760)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (548)</li>
 <li>moodle.royalholloway.ac.uk (522)</li>
-<li>www.linkedin.com (515)</li>
+<li>www.linkedin.com (516)</li>
 <li>rhul-my.sharepoint.com (483)</li>
 <li>login.microsoftonline.com (483)</li>
 <li>github.com (445)</li>
@@ -105,6 +105,16 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 22/06/25</H3>
+
+<br>
+
+<ul><li> 16:04 www.reddit.com</li>
+<li class='same'> 16:00 www.reddit.com</li>
+<li class='same'> 15:59 www.reddit.com</li>
+<li class='same'> 15:57 www.reddit.com</li>
+<li> 15:56 www.linkedin.com</li>
+<li> 15:56 www.facebook.com</li>
+</ul>
 
 <br>
 
