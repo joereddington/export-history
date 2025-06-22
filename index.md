@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1957)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1417)</li>
-<li>duckduckgo.com (1205)</li>
+<li>duckduckgo.com (1206)</li>
 <li>chatgpt.com (847)</li>
 <li>www.amazon.co.uk (760)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:59 www.printed.com</li>
+<ul><li> 17:18 www.cineworld.co.uk</li>
+<li class='same'> 17:17 www.cineworld.co.uk</li>
+<li class='same'> 17:16 www.cineworld.co.uk</li>
+<li> 17:16 duckduckgo.com</li>
+<li> 16:59 www.printed.com</li>
 <li class='same'> 16:57 www.printed.com</li>
 <li> 16:52 <a href="https://www.theguardian.com/world/2025/jun/22/how-effective-was-the-us-attack-on-irans-nuclear-sites-a-visual-guide">How effective was the US attack on Iran’s nuclear sites? A visual guide | Iran | The Guardian</a></li>
 <li> 16:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -54952,6 +54956,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:25 github.com</li>
+<li> 14:14 www.cineworld.co.uk</li>
+<li class='same'> 14:13 www.cineworld.co.uk</li>
 </ul>
 
 <H3>Saturday, 27/01/24</H3>
@@ -59058,6 +59064,7 @@ With number of accesses/minutes in parentheses
 <li> 07:42 mail.google.com</li>
 <li> 07:40 workspace.google.com</li>
 <li> 07:11 panel.dreamhost.com</li>
+<li> 07:11 www.cineworld.co.uk</li>
 </ul>
 
 <H3>Monday, 31/07/23</H3>
