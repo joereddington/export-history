@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (1951)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1201)</li>
+<li>duckduckgo.com (1204)</li>
 <li>chatgpt.com (847)</li>
-<li>www.amazon.co.uk (759)</li>
+<li>www.amazon.co.uk (760)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (548)</li>
 <li>moodle.royalholloway.ac.uk (522)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 22/06/25</H3>
+
+<br>
+
+<ul><li> 14:17 hardwaretester.com</li>
+<li> 14:16 duckduckgo.com</li>
+<li> 14:11 www.amazon.co.uk</li>
+<li> 14:10 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 14:08 duckduckgo.com</li>
+<li> 14:07 www.instructables.com</li>
+<li> 14:07 duckduckgo.com</li>
+</ul>
 
 <br>
 
