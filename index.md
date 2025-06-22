@@ -73,10 +73,10 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2770)</li>
 <li>docs.google.com (2065)</li>
 <li>outlook.office365.com (1965)</li>
-<li>www.reddit.com (1946)</li>
+<li>www.reddit.com (1951)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1416)</li>
-<li>duckduckgo.com (1198)</li>
+<li>duckduckgo.com (1201)</li>
 <li>chatgpt.com (847)</li>
 <li>www.amazon.co.uk (759)</li>
 <li>www.theguardian.com (685)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (383)</li>
 <li>chat.openai.com (343)</li>
 <li>drive.google.com (303)</li>
-<li>feedly.com (295)</li>
+<li>feedly.com (296)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (239)</li>
@@ -104,7 +104,39 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 22/06/25</H3>
+
+<br>
+
+<ul><li> 08:15 <a href="https://joereddington.com/2025/06/21/trainer-for-decoding-numbers.html">Trainer for decoding numbers | Joe Reddington</a></li>
+<li> 08:01 forum.artofmemory.com</li>
+<li> 07:49 <a href="https://joereddington.com/2025/06/21/trainer-for-decoding-numbers.html">Trainer for decoding numbers | Joe Reddington</a></li>
+<li> 07:49 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:49 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:41 forum.artofmemory.com</li>
+<li> 07:40 duckduckgo.com</li>
+<li> 07:37 forum.artofmemory.com</li>
+<li> 07:36 <a href="https://en.wikipedia.org/wiki/Flynn_effect">Flynn effect - Wikipedia</a></li>
+<li> 07:31 duckduckgo.com</li>
+<li> 07:31 forum.artofmemory.com</li>
+<li class='same'> 07:30 forum.artofmemory.com</li>
+<li> 07:30 www.majorsystemtrainer.com</li>
+<li> 07:30 duckduckgo.com</li>
+<li> 07:30 forum.artofmemory.com</li>
+<li> 07:29 <a href="https://joereddington.com//2025/06/21/trainer-for-decoding-numbers.html">Trainer for decoding numbers | Joe Reddington</a></li>
+<li> 07:29 feedly.com</li>
+<li> 07:28 www.reddit.com</li>
+<li class='same'> 07:27 www.reddit.com</li>
+<li class='same'> 07:25 www.reddit.com</li>
+<li class='same'> 07:24 www.reddit.com</li>
+<li class='same'> 07:17 www.reddit.com</li>
+</ul>
+
 <H3>Saturday, 21/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
