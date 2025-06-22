@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3192)</li>
+<ol><li>www.google.com (3193)</li>
 <li>mail.google.com (2905)</li>
 <li>outlook.office.com (2770)</li>
 <li>docs.google.com (2065)</li>
 <li>outlook.office365.com (1965)</li>
-<li>www.reddit.com (1955)</li>
+<li>www.reddit.com (1957)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1417)</li>
-<li>duckduckgo.com (1204)</li>
+<li>duckduckgo.com (1205)</li>
 <li>chatgpt.com (847)</li>
 <li>www.amazon.co.uk (760)</li>
 <li>www.theguardian.com (685)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (516)</li>
 <li>rhul-my.sharepoint.com (483)</li>
 <li>login.microsoftonline.com (483)</li>
-<li>github.com (445)</li>
+<li>github.com (446)</li>
 <li>tvtropes.org (445)</li>
 <li>gmail.com (432)</li>
 <li>web.whatsapp.com (384)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (239)</li>
 <li>qbo.intuit.com (234)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (218)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (210)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (211)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:04 www.reddit.com</li>
+<ul><li> 16:59 www.printed.com</li>
+<li class='same'> 16:57 www.printed.com</li>
+<li> 16:52 <a href="https://www.theguardian.com/world/2025/jun/22/how-effective-was-the-us-attack-on-irans-nuclear-sites-a-visual-guide">How effective was the US attack on Iran’s nuclear sites? A visual guide | Iran | The Guardian</a></li>
+<li> 16:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:51 <a href="https://www.theguardian.com/">Harvard hired a researcher to uncover its ties to slavery. He says the results cost him his job: ‘We found too many slaves’ | Harvard University | The Guardian</a></li>
+<li> 16:51 www.printed.com</li>
+<li class='same'> 16:49 www.printed.com</li>
+<li class='same'> 16:39 www.printed.com</li>
+<li class='same'> 16:38 www.printed.com</li>
+<li class='same'> 16:37 www.printed.com</li>
+<li> 16:37 www.google.com</li>
+<li> 16:37 duckduckgo.com</li>
+<li> 16:37 www.ebay.co.uk</li>
+<li class='same'> 16:36 www.ebay.co.uk</li>
+<li class='same'> 16:35 www.ebay.co.uk</li>
+<li class='same'> 16:34 www.ebay.co.uk</li>
+<li> 16:34 github.com</li>
+<li> 16:08 www.reddit.com</li>
+<li class='same'> 16:07 www.reddit.com</li>
+<li> 16:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:04 www.reddit.com</li>
 <li class='same'> 16:00 www.reddit.com</li>
 <li class='same'> 15:59 www.reddit.com</li>
 <li class='same'> 15:57 www.reddit.com</li>
