@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3207)</li>
-<li>mail.google.com (2914)</li>
-<li>outlook.office.com (2770)</li>
+<ol><li>www.google.com (3209)</li>
+<li>mail.google.com (2916)</li>
+<li>outlook.office.com (2781)</li>
 <li>docs.google.com (2066)</li>
 <li>www.reddit.com (1971)</li>
-<li>outlook.office365.com (1969)</li>
+<li>outlook.office365.com (1970)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1417)</li>
-<li>duckduckgo.com (1212)</li>
-<li>chatgpt.com (847)</li>
+<li>duckduckgo.com (1213)</li>
+<li>chatgpt.com (848)</li>
 <li>www.amazon.co.uk (769)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (554)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (483)</li>
 <li>github.com (446)</li>
 <li>tvtropes.org (445)</li>
-<li>gmail.com (433)</li>
-<li>web.whatsapp.com (387)</li>
-<li>chat.openai.com (343)</li>
+<li>gmail.com (434)</li>
+<li>web.whatsapp.com (388)</li>
+<li>chat.openai.com (344)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
 <li>fritz.box (277)</li>
@@ -105,6 +105,41 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 23/06/25</H3>
+
+<br>
+
+<ul><li> 13:06 opendatacommunities.org</li>
+<li> 13:05 www.data.gov.uk</li>
+<li> 13:05 www.google.com</li>
+<li> 13:05 duckduckgo.com</li>
+<li> 13:05 statistics.ukdataservice.ac.uk</li>
+<li> 13:04 www.london.gov.uk</li>
+<li> 13:04 www.gov.uk</li>
+<li> 13:04 www.google.com</li>
+<li> 13:04 www.google.co.uk</li>
+<li> 13:03 outlook.office.com</li>
+<li> 13:03 outlook.office365.com</li>
+<li> 13:00 outlook.office.com</li>
+<li> 13:00 chatgpt.com</li>
+<li> 13:00 chat.openai.com</li>
+<li> 13:00 outlook.office.com</li>
+<li class='same'> 12:56 outlook.office.com</li>
+<li> 12:44 herts365-my.sharepoint.com</li>
+<li> 12:43 outlook.office.com</li>
+<li> 12:32 herts365-my.sharepoint.com</li>
+<li> 12:31 outlook.office.com</li>
+<li class='same'> 12:30 outlook.office.com</li>
+<li> 12:30 mail.google.com</li>
+<li class='same'> 12:29 mail.google.com</li>
+<li> 12:29 gmail.com</li>
+<li> 12:28 outlook.office.com</li>
+<li> 12:27 web.whatsapp.com</li>
+<li> 12:27 outlook.office.com</li>
+<li> 12:26 herts365-my.sharepoint.com</li>
+<li> 12:26 outlook.office.com</li>
+<li class='same'> 12:25 outlook.office.com</li>
+<li> 12:25 m365.cloud.microsoft</li>
+</ul>
 
 <br>
 
