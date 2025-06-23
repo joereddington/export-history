@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3215)</li>
+<ol><li>www.google.com (3228)</li>
 <li>mail.google.com (2928)</li>
 <li>outlook.office.com (2794)</li>
 <li>docs.google.com (2068)</li>
-<li>www.reddit.com (1983)</li>
+<li>www.reddit.com (1989)</li>
 <li>outlook.office365.com (1971)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1418)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (555)</li>
 <li>moodle.royalholloway.ac.uk (522)</li>
-<li>www.linkedin.com (518)</li>
+<li>www.linkedin.com (519)</li>
 <li>login.microsoftonline.com (487)</li>
 <li>rhul-my.sharepoint.com (483)</li>
 <li>github.com (448)</li>
@@ -96,8 +96,8 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (239)</li>
 <li>qbo.intuit.com (234)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (220)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (219)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:02 www.reddit.com</li>
+<ul><li> 21:43 www.reddit.com</li>
+<li class='same'> 21:42 www.reddit.com</li>
+<li> 21:41 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 21:41 www.google.com</li>
+<li> 21:41 <a href="https://www.bbc.co.uk/news/articles/cwyn2n44v9xo">Two women seriously hurt in attack involving crossbow in Leeds - BBC News</a></li>
+<li> 21:41 www.google.com</li>
+<li> 21:40 www.politicshome.com</li>
+<li> 21:40 www.google.com</li>
+<li> 21:39 www.jewishnews.co.uk</li>
+<li> 21:39 www.google.com</li>
+<li class='same'> 21:38 www.google.com</li>
+<li> 21:37 accounts.google.com</li>
+<li> 21:37 www.google.com</li>
+<li> 21:36 <a href="https://www.theguardian.com/politics/2025/jun/23/labour-mps-launch-major-rebellion-to-stop-benefits-cuts-bill">Labour MPs launch major rebellion to stop welfare bill | Welfare | The Guardian</a></li>
+<li> 21:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:35 www.google.com</li>
+<li> 21:35 www.thedailymash.co.uk</li>
+<li class='same'> 21:33 www.thedailymash.co.uk</li>
+<li class='same'> 21:32 www.thedailymash.co.uk</li>
+<li> 21:32 www.google.com</li>
+<li> 21:32 newsthump.com</li>
+<li> 21:31 www.specialeffect.org.uk</li>
+<li> 21:31 www.linkedin.com</li>
+<li> 21:31 www.specialeffect.org.uk</li>
+<li> 21:31 www.google.com</li>
+<li class='same'> 21:30 www.google.com</li>
+<li> 21:30 www.reddit.com</li>
+<li> 21:30 www.google.com</li>
+<li class='same'> 21:29 www.google.com</li>
+<li> 21:04 www.reddit.com</li>
+<li class='same'> 21:03 www.reddit.com</li>
+<li class='same'> 21:02 www.reddit.com</li>
 </ul>
 
 <br>
@@ -55531,6 +55562,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:19 github.com</li>
 </ul>
 
+<br>
+
+<ul><li> 11:49 www.google.com</li>
+</ul>
+
 <H3>Saturday, 13/01/24</H3>
 
 <br>
@@ -55986,6 +56022,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 16:39 www.reddit.com</li>
+</ul>
 
 <br>
 
