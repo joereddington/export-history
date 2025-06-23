@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3209)</li>
-<li>mail.google.com (2916)</li>
-<li>outlook.office.com (2781)</li>
+<ol><li>www.google.com (3211)</li>
+<li>mail.google.com (2926)</li>
+<li>outlook.office.com (2792)</li>
 <li>docs.google.com (2066)</li>
 <li>www.reddit.com (1971)</li>
 <li>outlook.office365.com (1970)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1417)</li>
-<li>duckduckgo.com (1213)</li>
+<li>duckduckgo.com (1217)</li>
 <li>chatgpt.com (848)</li>
 <li>www.amazon.co.uk (769)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (554)</li>
+<li>calendar.google.com (555)</li>
 <li>moodle.royalholloway.ac.uk (522)</li>
-<li>www.linkedin.com (516)</li>
+<li>www.linkedin.com (518)</li>
 <li>login.microsoftonline.com (486)</li>
 <li>rhul-my.sharepoint.com (483)</li>
 <li>github.com (446)</li>
 <li>tvtropes.org (445)</li>
-<li>gmail.com (434)</li>
-<li>web.whatsapp.com (388)</li>
+<li>gmail.com (436)</li>
+<li>web.whatsapp.com (389)</li>
 <li>chat.openai.com (344)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
@@ -108,7 +108,59 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:06 opendatacommunities.org</li>
+<ul><li> 14:07 mail.google.com</li>
+<li> 14:07 www.linkedin.com</li>
+<li> 14:07 mail.google.com</li>
+<li> 14:06 web.whatsapp.com</li>
+<li> 14:06 t1b.gobright.cloud</li>
+<li class='same'> 14:05 t1b.gobright.cloud</li>
+<li> 14:05 portal.gobright.cloud</li>
+<li> 14:04 mail.google.com</li>
+<li> 14:03 outlook.office.com</li>
+<li> 13:52 www.google.com</li>
+<li class='same'> 13:51 www.google.com</li>
+<li> 13:50 mail.google.com</li>
+<li class='same'> 13:49 mail.google.com</li>
+<li class='same'> 13:48 mail.google.com</li>
+<li class='same'> 13:46 mail.google.com</li>
+<li class='same'> 13:45 mail.google.com</li>
+<li> 13:43 www.linkedin.com</li>
+<li> 13:42 mail.google.com</li>
+<li> 13:42 gmail.com</li>
+<li> 13:42 outlook.office.com</li>
+<li class='same'> 13:41 outlook.office.com</li>
+<li> 13:41 workspace.google.com</li>
+<li> 13:41 mail.google.com</li>
+<li> 13:41 accounts.google.com</li>
+<li> 13:41 gmail.com</li>
+<li> 13:41 outlook.office.com</li>
+<li> 13:40 calendar.google.com</li>
+<li> 13:39 outlook.office.com</li>
+<li class='same'> 13:38 outlook.office.com</li>
+<li class='same'> 13:37 outlook.office.com</li>
+<li class='same'> 13:36 outlook.office.com</li>
+<li class='same'> 13:31 outlook.office.com</li>
+<li> 13:29 duckduckgo.com</li>
+<li> 13:29 researchprofiles.herts.ac.uk</li>
+<li> 13:29 duckduckgo.com</li>
+<li> 13:25 outlook.office.com</li>
+<li class='same'> 13:24 outlook.office.com</li>
+<li> 13:23 www.kaggle.com</li>
+<li class='same'> 13:18 www.kaggle.com</li>
+<li class='same'> 13:17 www.kaggle.com</li>
+<li> 13:17 accounts.google.com</li>
+<li> 13:17 www.kaggle.com</li>
+<li class='same'> 13:15 www.kaggle.com</li>
+<li class='same'> 13:14 www.kaggle.com</li>
+<li> 13:14 accounts.google.com</li>
+<li> 13:14 www.kaggle.com</li>
+<li class='same'> 13:13 www.kaggle.com</li>
+<li class='same'> 13:12 www.kaggle.com</li>
+<li class='same'> 13:11 www.kaggle.com</li>
+<li class='same'> 13:10 www.kaggle.com</li>
+<li> 13:10 duckduckgo.com</li>
+<li class='same'> 13:08 duckduckgo.com</li>
+<li> 13:06 opendatacommunities.org</li>
 <li> 13:05 www.data.gov.uk</li>
 <li> 13:05 www.google.com</li>
 <li> 13:05 duckduckgo.com</li>
