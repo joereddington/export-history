@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3195)</li>
+<ol><li>www.google.com (3207)</li>
 <li>mail.google.com (2914)</li>
 <li>outlook.office.com (2770)</li>
 <li>docs.google.com (2066)</li>
+<li>www.reddit.com (1971)</li>
 <li>outlook.office365.com (1965)</li>
-<li>www.reddit.com (1963)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1417)</li>
 <li>duckduckgo.com (1212)</li>
@@ -97,14 +97,32 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (239)</li>
 <li>qbo.intuit.com (234)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (211)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (216)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Monday, 23/06/25</H3>
+
+<br>
+
+<ul><li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:50 www.google.com</li>
+<li class='same'> 07:37 www.google.com</li>
+<li class='same'> 07:32 www.google.com</li>
+<li class='same'> 07:31 www.google.com</li>
+<li class='same'> 07:29 www.google.com</li>
+<li class='same'> 07:28 www.google.com</li>
+<li> 07:28 <a href="https://www.theguardian.com/global-development/2025/jun/22/save-the-children-moazzam-malik-labour-aid-cuts-uk-child-poverty">‘It’s a tragedy we’ve chosen to withdraw’: Save the Children boss on Labour’s cuts to aid | Global development | The Guardian</a></li>
+</ul>
+
 <H3>Sunday, 22/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -226,6 +244,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:06 <a href="https://www.theguardian.com/global-development/2025/jun/22/save-the-children-moazzam-malik-labour-aid-cuts-uk-child-poverty">‘It’s a tragedy we’ve chosen to withdraw’: Save the Children boss on Labour’s cuts to aid | Global development | The Guardian</a></li>
+<li> 10:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:04 <a href="https://www.theguardian.com/us-news/2025/jun/22/trump-falls-into-the-netanyahu-trap-israel-iran-us">What a difference a week makes: Trump falls into the Netanyahu trap | Donald Trump | The Guardian</a></li>
+<li> 10:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:03 www.parkrun.org.uk</li>
+<li class='same'> 10:02 www.parkrun.org.uk</li>
+<li> 10:01 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 08:15 <a href="https://joereddington.com/2025/06/21/trainer-for-decoding-numbers.html">Trainer for decoding numbers | Joe Reddington</a></li>
 <li> 08:01 forum.artofmemory.com</li>
 <li> 07:49 <a href="https://joereddington.com/2025/06/21/trainer-for-decoding-numbers.html">Trainer for decoding numbers | Joe Reddington</a></li>
@@ -248,6 +277,22 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:25 www.reddit.com</li>
 <li class='same'> 07:24 www.reddit.com</li>
 <li class='same'> 07:17 www.reddit.com</li>
+<li> 07:11 www.google.com</li>
+<li> 07:07 careers.uk.leonardo.com</li>
+<li> 07:06 uk.leonardo.com</li>
+<li> 07:06 www.google.com</li>
+<li> 07:06 www.reddit.com</li>
+<li class='same'> 07:05 www.reddit.com</li>
+<li class='same'> 07:04 www.reddit.com</li>
+<li class='same'> 07:03 www.reddit.com</li>
+<li> 07:03 www.google.com</li>
+<li> 07:03 www.reddit.com</li>
+<li class='same'> 07:02 www.reddit.com</li>
+<li class='same'> 07:01 www.reddit.com</li>
+<li> 07:01 www.google.com</li>
+<li> 07:00 www.reddit.com</li>
+<li> 06:59 www.google.com</li>
+<li> 06:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
 <H3>Saturday, 21/06/25</H3>
@@ -258,7 +303,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 22:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:16 <a href="https://www.theguardian.com/culture/2025/jun/21/my-cultural-awakening-sleepless-in-seattle-cancel-wedding">My cultural awakening: I watched Sleepless in Seattle and realised I had to cancel my wedding | Culture | The Guardian</a></li>
+<li> 22:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 22:15 <a href="https://www.theguardian.com/">Harvard hired a researcher to uncover its ties to slavery. He says the results cost him his job: ‘We found too many slaves’ | Harvard University | The Guardian</a></li>
 <li> 22:15 <a href="https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved">Harvard hired a researcher to uncover its ties to slavery. He says the results cost him his job: ‘We found too many slaves’ | Harvard University | The Guardian</a></li>
 </ul>
