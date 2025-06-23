@@ -73,18 +73,18 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2770)</li>
 <li>docs.google.com (2066)</li>
 <li>www.reddit.com (1971)</li>
-<li>outlook.office365.com (1965)</li>
+<li>outlook.office365.com (1969)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1417)</li>
 <li>duckduckgo.com (1212)</li>
 <li>chatgpt.com (847)</li>
 <li>www.amazon.co.uk (769)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (553)</li>
+<li>calendar.google.com (554)</li>
 <li>moodle.royalholloway.ac.uk (522)</li>
 <li>www.linkedin.com (516)</li>
+<li>login.microsoftonline.com (486)</li>
 <li>rhul-my.sharepoint.com (483)</li>
-<li>login.microsoftonline.com (483)</li>
 <li>github.com (446)</li>
 <li>tvtropes.org (445)</li>
 <li>gmail.com (433)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 23/06/25</H3>
+
+<br>
+
+<ul><li> 09:29 outlook.office365.com</li>
+<li> 09:27 calendar.google.com</li>
+<li> 09:26 outlook.office365.com</li>
+<li> 09:25 herts365-my.sharepoint.com</li>
+<li> 09:25 m365.cloud.microsoft</li>
+<li> 09:25 login.microsoftonline.com</li>
+<li> 09:25 adfs.herts.ac.uk</li>
+<li> 09:24 api-b6327e78.duosecurity.com</li>
+<li> 09:24 adfs.herts.ac.uk</li>
+<li> 09:24 login.microsoftonline.com</li>
+<li> 09:23 outlook.office365.com</li>
+<li> 09:23 login.microsoftonline.com</li>
+<li> 09:23 outlook.office365.com</li>
+</ul>
 
 <br>
 
