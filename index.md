@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3211)</li>
-<li>mail.google.com (2926)</li>
-<li>outlook.office.com (2792)</li>
-<li>docs.google.com (2066)</li>
-<li>www.reddit.com (1971)</li>
-<li>outlook.office365.com (1970)</li>
+<li>mail.google.com (2928)</li>
+<li>outlook.office.com (2794)</li>
+<li>docs.google.com (2068)</li>
+<li>www.reddit.com (1973)</li>
+<li>outlook.office365.com (1971)</li>
 <li>bsky.app (1578)</li>
-<li>www.facebook.com (1417)</li>
-<li>duckduckgo.com (1217)</li>
+<li>www.facebook.com (1418)</li>
+<li>duckduckgo.com (1218)</li>
 <li>chatgpt.com (848)</li>
 <li>www.amazon.co.uk (769)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (555)</li>
 <li>moodle.royalholloway.ac.uk (522)</li>
 <li>www.linkedin.com (518)</li>
-<li>login.microsoftonline.com (486)</li>
+<li>login.microsoftonline.com (487)</li>
 <li>rhul-my.sharepoint.com (483)</li>
 <li>github.com (446)</li>
 <li>tvtropes.org (445)</li>
 <li>gmail.com (436)</li>
-<li>web.whatsapp.com (389)</li>
+<li>web.whatsapp.com (390)</li>
 <li>chat.openai.com (344)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:07 mail.google.com</li>
+<ul><li> 14:51 www.reddit.com</li>
+<li> 14:51 www.facebook.com</li>
+<li> 14:49 web.whatsapp.com</li>
+<li> 14:35 outlook.office.com</li>
+<li class='same'> 14:34 outlook.office.com</li>
+<li> 14:33 www.reddit.com</li>
+<li> 14:32 herts365-my.sharepoint.com</li>
+<li> 14:32 m365.cloud.microsoft</li>
+<li class='same'> 14:31 m365.cloud.microsoft</li>
+<li> 14:31 login.microsoftonline.com</li>
+<li> 14:31 adfs.herts.ac.uk</li>
+<li> 14:30 outlook.office365.com</li>
+<li> 14:29 mail.google.com</li>
+<li class='same'> 14:28 mail.google.com</li>
+<li> 14:14 duckduckgo.com</li>
+<li> 14:12 docs.google.com</li>
+<li class='same'> 14:11 docs.google.com</li>
+<li> 14:07 mail.google.com</li>
 <li> 14:07 www.linkedin.com</li>
 <li> 14:07 mail.google.com</li>
 <li> 14:06 web.whatsapp.com</li>
