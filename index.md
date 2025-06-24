@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3233)</li>
-<li>mail.google.com (2928)</li>
-<li>outlook.office.com (2805)</li>
-<li>docs.google.com (2068)</li>
+<ol><li>www.google.com (3235)</li>
+<li>mail.google.com (2952)</li>
+<li>outlook.office.com (2810)</li>
+<li>docs.google.com (2071)</li>
 <li>www.reddit.com (1999)</li>
 <li>outlook.office365.com (1975)</li>
 <li>bsky.app (1578)</li>
-<li>www.facebook.com (1418)</li>
-<li>duckduckgo.com (1219)</li>
+<li>www.facebook.com (1419)</li>
+<li>duckduckgo.com (1228)</li>
 <li>chatgpt.com (849)</li>
 <li>www.amazon.co.uk (769)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (556)</li>
+<li>calendar.google.com (557)</li>
 <li>moodle.royalholloway.ac.uk (522)</li>
-<li>www.linkedin.com (519)</li>
-<li>login.microsoftonline.com (488)</li>
+<li>www.linkedin.com (521)</li>
+<li>login.microsoftonline.com (489)</li>
 <li>rhul-my.sharepoint.com (483)</li>
 <li>github.com (448)</li>
 <li>tvtropes.org (445)</li>
-<li>gmail.com (436)</li>
-<li>web.whatsapp.com (390)</li>
+<li>gmail.com (439)</li>
+<li>web.whatsapp.com (392)</li>
 <li>chat.openai.com (345)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
@@ -108,7 +108,67 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:03 outlook.office.com</li>
+<ul><li> 13:07 bookings.freshcarvaleting.com</li>
+<li> 13:06 mail.google.com</li>
+<li> 13:06 gmail.com</li>
+<li> 13:06 www.imperial.ac.uk</li>
+<li> 13:06 outlook.office.com</li>
+<li class='same'> 13:04 outlook.office.com</li>
+<li> 13:04 m365.cloud.microsoft</li>
+<li> 13:04 bookings.freshcarvaleting.com</li>
+<li> 13:04 www.freshcar.co.uk</li>
+<li> 13:04 duckduckgo.com</li>
+<li class='same'> 13:03 duckduckgo.com</li>
+<li> 13:03 mail.google.com</li>
+<li> 13:01 duckduckgo.com</li>
+<li> 13:01 www.forbes.com</li>
+<li> 13:00 m365.cloud.microsoft</li>
+<li> 13:00 login.microsoftonline.com</li>
+<li> 13:00 adfs.herts.ac.uk</li>
+<li> 12:54 mail.google.com</li>
+<li> 12:51 web.whatsapp.com</li>
+<li> 12:49 mail.google.com</li>
+<li class='same'> 12:48 mail.google.com</li>
+<li> 12:48 accounts.google.com</li>
+<li class='same'> 12:47 accounts.google.com</li>
+<li> 12:47 mail.google.com</li>
+<li> 12:46 www.ebay.co.uk</li>
+<li> 12:46 mail.google.com</li>
+<li> 12:46 gmail.com</li>
+<li> 12:41 docs.google.com</li>
+<li class='same'> 12:39 docs.google.com</li>
+<li> 12:39 www.tesco.com</li>
+<li> 12:38 docs.google.com</li>
+<li> 12:37 www.manchestereveningnews.co.uk</li>
+<li> 12:37 duckduckgo.com</li>
+<li> 12:36 www.facebook.com</li>
+<li> 12:36 www.google.com</li>
+<li class='same'> 12:35 www.google.com</li>
+<li> 12:35 www.google.co.uk</li>
+<li> 12:35 duckduckgo.com</li>
+<li> 12:35 www.alamy.com</li>
+<li class='same'> 12:34 www.alamy.com</li>
+<li> 12:34 duckduckgo.com</li>
+<li> 12:31 www.linkedin.com</li>
+<li class='same'> 12:30 www.linkedin.com</li>
+<li> 12:30 mail.google.com</li>
+<li> 12:30 gmail.com</li>
+<li> 12:30 calendar.google.com</li>
+<li> 12:29 outlook.office.com</li>
+<li> 12:26 web.whatsapp.com</li>
+<li> 12:25 outlook.office.com</li>
+<li class='same'> 12:24 outlook.office.com</li>
+<li> 12:18 www.tandfonline.com</li>
+<li> 12:18 scholar.google.co.uk</li>
+<li> 12:16 www.tandfonline.com</li>
+<li> 12:15 scholar.google.co.uk</li>
+<li> 12:15 duckduckgo.com</li>
+<li class='same'> 12:13 duckduckgo.com</li>
+<li> 12:13 www.keele.ac.uk</li>
+<li> 12:13 duckduckgo.com</li>
+<li> 12:12 www.tandfonline.com</li>
+<li> 12:11 scholar.google.com</li>
+<li> 12:03 outlook.office.com</li>
 <li> 11:44 ieeexplore.ieee.org</li>
 <li class='same'> 11:43 ieeexplore.ieee.org</li>
 <li> 11:43 scholar.google.co.uk</li>
@@ -47255,6 +47315,7 @@ With number of accesses/minutes in parentheses
 <li> 10:56 www.advance-he.ac.uk</li>
 <li> 10:54 outlook.office.com</li>
 <li> 10:29 mail.google.com</li>
+<li class='same'> 10:22 mail.google.com</li>
 <li> 10:22 outlook.office.com</li>
 <li> 10:20 www.advance-he.ac.uk</li>
 <li> 10:16 outlook.office.com</li>
@@ -56598,6 +56659,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li class='same'> 12:21 mail.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:46 www.lutongymnastics.co.uk</li>
 </ul>
 
@@ -56676,7 +56742,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:06 www.gmail.com</li>
+<ul><li> 07:09 mail.google.com</li>
+<li> 07:06 www.gmail.com</li>
+<li> 07:02 mail.google.com</li>
+<li class='same'> 07:01 mail.google.com</li>
 <li> 06:56 equalitytime.github.io</li>
 </ul>
 
@@ -57112,6 +57181,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:10 jobs.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 07:17 mail.google.com</li>
 </ul>
 
 <H3>Tuesday, 14/11/23</H3>
@@ -59453,7 +59527,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:04 mail.google.com</li>
+<ul><li> 07:29 mail.google.com</li>
+<li class='same'> 07:04 mail.google.com</li>
 <li> 07:00 dnschecker.org</li>
 <li> 07:00 www.qiq.support</li>
 </ul>
@@ -61095,7 +61170,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:40 mail.google.com</li>
+<ul><li> 13:49 mail.google.com</li>
+<li class='same'> 13:40 mail.google.com</li>
 <li> 13:17 www.pcspecialist.co.uk</li>
 <li class='same'> 13:16 www.pcspecialist.co.uk</li>
 </ul>
@@ -61534,6 +61610,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:05 www.amazon.co.uk</li>
 </ul>
 
+<br>
+
+<ul><li> 09:54 mail.google.com</li>
+</ul>
+
 <H3>Monday, 24/04/23</H3>
 
 <br>
@@ -61944,6 +62025,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:55 www.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:31 mail.google.com</li>
 </ul>
 
 <br>
@@ -63470,6 +63556,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:11 mail.google.com</li>
 </ul>
 
+<br>
+
+<ul><li class='same'> 07:19 mail.google.com</li>
+</ul>
+
 <H3>Monday, 08/08/22</H3>
 
 <br>
@@ -64470,6 +64561,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:26 calendar.google.com</li>
 </ul>
 
+<H3>Monday, 20/09/21</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 14:58 mail.google.com</li>
+</ul>
+
 <H3>Friday, 17/09/21</H3>
 
 <br>
@@ -64554,6 +64656,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:15 www.facebook.com</li>
 </ul>
 
+<H3>Monday, 26/07/21</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 11:26 mail.google.com</li>
+</ul>
+
 <H3>Tuesday, 20/07/21</H3>
 
 <br>
@@ -64573,6 +64686,29 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 05:38 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
+</ul>
+
+<H3>Monday, 19/07/21</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 09:30 mail.google.com</li>
+</ul>
+
+<H3>Thursday, 15/07/21</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 08:31 mail.google.com</li>
+<li class='same'> 08:30 mail.google.com</li>
 </ul>
 
 <H3>Tuesday, 13/07/21</H3>
