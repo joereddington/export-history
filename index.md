@@ -16716,10 +16716,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:31 www.theguardian.com</li>
 <li class='same'> 07:30 www.theguardian.com</li>
-<li> 07:28 www.google.co.uk</li>
-<li class='same'> 07:27 www.google.co.uk</li>
-<li class='same'> 07:26 www.google.co.uk</li>
-<li class='same'> 07:25 www.google.co.uk</li>
+<li> 07:25 www.google.co.uk</li>
 <li class='same'> 07:23 www.google.co.uk</li>
 <li> 07:22 calendar.google.com</li>
 <li class='same'> 07:21 calendar.google.com</li>
@@ -16755,8 +16752,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:34 outlook.office.com</li>
 <li> 06:34 mail.google.com</li>
 <li> 06:33 kdp.amazon.com</li>
-<li> 06:32 cc.amazon.com</li>
-<li> 06:32 kdp.amazon.com</li>
+<li class='same'> 06:32 kdp.amazon.com</li>
 <li> 06:31 calendar.google.com</li>
 <li> 06:31 docs.google.com</li>
 <li> 06:30 drive.google.com</li>
