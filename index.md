@@ -69,18 +69,18 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3235)</li>
-<li>mail.google.com (2952)</li>
-<li>outlook.office.com (2810)</li>
+<li>mail.google.com (2957)</li>
+<li>outlook.office.com (2819)</li>
 <li>docs.google.com (2071)</li>
 <li>www.reddit.com (1999)</li>
 <li>outlook.office365.com (1975)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1419)</li>
-<li>duckduckgo.com (1228)</li>
-<li>chatgpt.com (849)</li>
+<li>duckduckgo.com (1231)</li>
+<li>chatgpt.com (851)</li>
 <li>www.amazon.co.uk (769)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (557)</li>
+<li>calendar.google.com (560)</li>
 <li>moodle.royalholloway.ac.uk (522)</li>
 <li>www.linkedin.com (521)</li>
 <li>login.microsoftonline.com (489)</li>
@@ -89,14 +89,14 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (445)</li>
 <li>gmail.com (439)</li>
 <li>web.whatsapp.com (392)</li>
-<li>chat.openai.com (345)</li>
+<li>chat.openai.com (346)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (239)</li>
 <li>qbo.intuit.com (234)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (221)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (223)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
 
 
@@ -108,7 +108,47 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:07 bookings.freshcarvaleting.com</li>
+<ul><li> 14:00 outlook.office.com</li>
+<li class='same'> 13:59 outlook.office.com</li>
+<li> 13:55 www.diva-portal.org</li>
+<li> 13:54 scholar.google.com</li>
+<li class='same'> 13:53 scholar.google.com</li>
+<li> 13:53 duckduckgo.com</li>
+<li> 13:47 ask.herts.ac.uk</li>
+<li> 13:47 duckduckgo.com</li>
+<li> 13:42 outlook.office.com</li>
+<li class='same'> 13:41 outlook.office.com</li>
+<li> 13:38 chatgpt.com</li>
+<li> 13:37 duckduckgo.com</li>
+<li> 13:36 chatgpt.com</li>
+<li> 13:36 chat.openai.com</li>
+<li> 13:35 <a href="https://www.theguardian.com/money/2022/aug/03/labour-mps-aide-was-unfairly-dismissed-tribunal-rules">Labour MP’s aide was unfairly dismissed, tribunal rules | Employment law | The Guardian</a></li>
+<li> 13:33 <a href="https://www.theguardian.com/money/2025/jun/24/employee-messy-work-criticism-not-harassment-london-tribunal-rules">Telling employee their work is messy is not harassment, London tribunal rules | Employment tribunals | The Guardian</a></li>
+<li> 13:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:33 <a href="https://www.theguardian.com/">Young people in the UK: tell us about your gym habits | Fitness | The Guardian</a></li>
+<li> 13:33 mail.google.com</li>
+<li> 13:31 <a href="https://www.theguardian.com/world/live/2025/jun/24/israel-iran-war-live-updates-trump-declares-ceasefire-tehran-attack-us-base-qatar">Israel-Iran war live: Trump swears in angry outburst at both sides over ceasefire violations</a></li>
+<li> 13:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:29 <a href="https://www.theguardian.com/">Young people in the UK: tell us about your gym habits | Fitness | The Guardian</a></li>
+<li> 13:25 mail.google.com</li>
+<li> 13:25 challengeworks.org</li>
+<li class='same'> 13:24 challengeworks.org</li>
+<li> 13:24 mail.google.com</li>
+<li> 13:24 calendar.google.com</li>
+<li class='same'> 13:23 calendar.google.com</li>
+<li> 13:19 outlook.office.com</li>
+<li class='same'> 13:17 outlook.office.com</li>
+<li class='same'> 13:16 outlook.office.com</li>
+<li> 13:16 mail.google.com</li>
+<li> 13:16 bookings.freshcarvaleting.com</li>
+<li class='same'> 13:15 bookings.freshcarvaleting.com</li>
+<li> 13:15 mail.google.com</li>
+<li> 13:14 calendar.google.com</li>
+<li> 13:11 outlook.office.com</li>
+<li class='same'> 13:10 outlook.office.com</li>
+<li> 13:09 bookings.freshcarvaleting.com</li>
+<li class='same'> 13:08 bookings.freshcarvaleting.com</li>
+<li class='same'> 13:07 bookings.freshcarvaleting.com</li>
 <li> 13:06 mail.google.com</li>
 <li> 13:06 gmail.com</li>
 <li> 13:06 www.imperial.ac.uk</li>
