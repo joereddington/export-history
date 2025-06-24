@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3235)</li>
 <li>mail.google.com (2957)</li>
-<li>outlook.office.com (2819)</li>
+<li>outlook.office.com (2840)</li>
 <li>docs.google.com (2071)</li>
 <li>www.reddit.com (1999)</li>
 <li>outlook.office365.com (1975)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1419)</li>
-<li>duckduckgo.com (1231)</li>
-<li>chatgpt.com (851)</li>
+<li>duckduckgo.com (1232)</li>
+<li>chatgpt.com (852)</li>
 <li>www.amazon.co.uk (769)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (560)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (445)</li>
 <li>gmail.com (439)</li>
 <li>web.whatsapp.com (392)</li>
-<li>chat.openai.com (346)</li>
+<li>chat.openai.com (347)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:00 outlook.office.com</li>
+<ul><li> 15:13 scholar.google.com</li>
+<li class='same'> 15:12 scholar.google.com</li>
+<li> 15:05 outlook.office.com</li>
+<li class='same'> 15:04 outlook.office.com</li>
+<li class='same'> 15:03 outlook.office.com</li>
+<li> 15:00 files.grouplens.org</li>
+<li> 14:59 grouplens.org</li>
+<li> 14:59 duckduckgo.com</li>
+<li> 14:59 outlook.office.com</li>
+<li class='same'> 14:58 outlook.office.com</li>
+<li class='same'> 14:57 outlook.office.com</li>
+<li> 14:54 herts365-my.sharepoint.com</li>
+<li> 14:54 outlook.office.com</li>
+<li class='same'> 14:53 outlook.office.com</li>
+<li class='same'> 14:43 outlook.office.com</li>
+<li> 14:35 scholar.google.com</li>
+<li class='same'> 14:34 scholar.google.com</li>
+<li> 14:30 chatgpt.com</li>
+<li> 14:30 chat.openai.com</li>
+<li> 14:29 ieeexplore.ieee.org</li>
+<li> 14:28 scholar.google.com</li>
+<li> 14:27 outlook.office.com</li>
+<li class='same'> 14:26 outlook.office.com</li>
+<li class='same'> 14:20 outlook.office.com</li>
+<li class='same'> 14:19 outlook.office.com</li>
+<li class='same'> 14:17 outlook.office.com</li>
+<li class='same'> 14:16 outlook.office.com</li>
+<li class='same'> 14:15 outlook.office.com</li>
+<li class='same'> 14:14 outlook.office.com</li>
+<li> 14:13 herts365-my.sharepoint.com</li>
+<li> 14:13 outlook.office.com</li>
+<li class='same'> 14:12 outlook.office.com</li>
+<li> 14:12 m365.cloud.microsoft</li>
+<li> 14:10 outlook.office.com</li>
+<li class='same'> 14:08 outlook.office.com</li>
+<li class='same'> 14:00 outlook.office.com</li>
 <li class='same'> 13:59 outlook.office.com</li>
 <li> 13:55 www.diva-portal.org</li>
 <li> 13:54 scholar.google.com</li>
