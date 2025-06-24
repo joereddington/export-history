@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3233)</li>
 <li>mail.google.com (2928)</li>
-<li>outlook.office.com (2798)</li>
+<li>outlook.office.com (2805)</li>
 <li>docs.google.com (2068)</li>
 <li>www.reddit.com (1999)</li>
 <li>outlook.office365.com (1975)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:09 outlook.office.com</li>
+<ul><li> 12:03 outlook.office.com</li>
+<li> 11:44 ieeexplore.ieee.org</li>
+<li class='same'> 11:43 ieeexplore.ieee.org</li>
+<li> 11:43 scholar.google.co.uk</li>
+<li class='same'> 11:42 scholar.google.co.uk</li>
+<li> 11:34 outlook.office.com</li>
+<li class='same'> 11:33 outlook.office.com</li>
+<li class='same'> 11:32 outlook.office.com</li>
+<li class='same'> 11:31 outlook.office.com</li>
+<li> 11:21 link.springer.com</li>
+<li> 11:20 scholar.google.co.uk</li>
+<li> 11:20 outlook.office.com</li>
+<li> 11:19 ieeexplore.ieee.org</li>
+<li> 11:19 scholar.google.co.uk</li>
+<li> 11:18 www.mdpi.com</li>
+<li> 11:17 scholar.google.co.uk</li>
+<li class='same'> 11:16 scholar.google.co.uk</li>
+<li class='same'> 11:15 scholar.google.co.uk</li>
+<li> 11:13 outlook.office.com</li>
+<li class='same'> 11:09 outlook.office.com</li>
 <li> 11:07 outlook.office365.com</li>
 <li class='same'> 11:06 outlook.office365.com</li>
 <li> 11:05 outlook.office.com</li>
