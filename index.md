@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3235)</li>
+<ol><li>www.google.com (3239)</li>
 <li>mail.google.com (2959)</li>
 <li>outlook.office.com (2843)</li>
 <li>docs.google.com (2071)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (239)</li>
 <li>qbo.intuit.com (234)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (223)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (226)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
 
 
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 24/06/25</H3>
+
+<br>
+
+<ul><li> 19:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li class='same'> 19:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:06 <a href="https://www.theguardian.com/">Young people in the UK: tell us about your gym habits | Fitness | The Guardian</a></li>
+<li> 19:06 <a href="https://www.theguardian.com/world/2025/jun/24/israel-us-and-iran-all-claim-to-have-won-the-war-but-who-has-really-gained">Israel, US and Iran all claim to have won the war, but who has really gained? | Iran | The Guardian</a></li>
+</ul>
 
 <br>
 
@@ -134,7 +142,10 @@ With number of accesses/minutes in parentheses
 <li> 14:54 herts365-my.sharepoint.com</li>
 <li> 14:54 outlook.office.com</li>
 <li class='same'> 14:53 outlook.office.com</li>
-<li class='same'> 14:43 outlook.office.com</li>
+<li> 14:50 <a href="https://www.theguardian.com/world/2025/jun/24/israel-us-and-iran-all-claim-to-have-won-the-war-but-who-has-really-gained">Israel, US and Iran all claim to have won the war, but who has really gained? | Iran | The Guardian</a></li>
+<li> 14:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:49 m.facebook.com</li>
+<li> 14:43 outlook.office.com</li>
 <li> 14:35 scholar.google.com</li>
 <li class='same'> 14:34 scholar.google.com</li>
 <li> 14:30 chatgpt.com</li>
@@ -416,6 +427,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 17:06 m.facebook.com</li>
+<li> 17:05 www.manchestereveningnews.co.uk</li>
+<li> 17:05 www.google.com</li>
+<li class='same'> 17:04 www.google.com</li>
+<li> 17:04 <a href="https://www.theguardian.com/global-development/2025/jun/22/save-the-children-moazzam-malik-labour-aid-cuts-uk-child-poverty">‘It’s a tragedy we’ve chosen to withdraw’: Save the Children boss on Labour’s cuts to aid | Global development | The Guardian</a></li>
+</ul>
+
+<br>
+
 <ul><li> 14:51 www.reddit.com</li>
 <li> 14:51 www.facebook.com</li>
 <li> 14:49 web.whatsapp.com</li>
@@ -537,7 +557,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 08:53 <a href="https://www.theguardian.com/global-development/2025/jun/22/save-the-children-moazzam-malik-labour-aid-cuts-uk-child-poverty">‘It’s a tragedy we’ve chosen to withdraw’: Save the Children boss on Labour’s cuts to aid | Global development | The Guardian</a></li>
+<li> 08:52 nielsenbook.co.uk</li>
+<li> 08:52 www.whonextguide.com</li>
+<li> 08:52 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:54 <a href="https://www.theguardian.com/">Young people in the UK: tell us about your gym habits | Fitness | The Guardian</a></li>
+<li> 07:51 <a href="https://www.theguardian.com/politics/2025/jun/22/reform-unveils-plan-to-top-up-poorest-workers-from-250000-fee-on-rich-uk-newcomers">Reform unveils plan to top up poorest workers from £250,000 fee on rich UK newcomers | Reform UK | The Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:50 www.google.com</li>
 <li class='same'> 07:37 www.google.com</li>
 <li class='same'> 07:32 www.google.com</li>
@@ -60308,6 +60338,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:30 www.buzzfeed.com</li>
+</ul>
+
+<H3>Saturday, 01/07/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 10:36 www.google.com</li>
 </ul>
 
 <H3>Friday, 30/06/23</H3>
