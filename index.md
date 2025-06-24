@@ -70,26 +70,26 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3233)</li>
 <li>mail.google.com (2928)</li>
-<li>outlook.office.com (2794)</li>
+<li>outlook.office.com (2798)</li>
 <li>docs.google.com (2068)</li>
-<li>www.reddit.com (1992)</li>
-<li>outlook.office365.com (1971)</li>
+<li>www.reddit.com (1999)</li>
+<li>outlook.office365.com (1975)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1418)</li>
 <li>duckduckgo.com (1219)</li>
-<li>chatgpt.com (848)</li>
+<li>chatgpt.com (849)</li>
 <li>www.amazon.co.uk (769)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (555)</li>
+<li>calendar.google.com (556)</li>
 <li>moodle.royalholloway.ac.uk (522)</li>
 <li>www.linkedin.com (519)</li>
-<li>login.microsoftonline.com (487)</li>
+<li>login.microsoftonline.com (488)</li>
 <li>rhul-my.sharepoint.com (483)</li>
 <li>github.com (448)</li>
 <li>tvtropes.org (445)</li>
 <li>gmail.com (436)</li>
 <li>web.whatsapp.com (390)</li>
-<li>chat.openai.com (344)</li>
+<li>chat.openai.com (345)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
 <li>fritz.box (277)</li>
@@ -105,6 +105,41 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 24/06/25</H3>
+
+<br>
+
+<ul><li> 11:09 outlook.office.com</li>
+<li> 11:07 outlook.office365.com</li>
+<li class='same'> 11:06 outlook.office365.com</li>
+<li> 11:05 outlook.office.com</li>
+<li> 11:05 herts365-my.sharepoint.com</li>
+<li> 11:05 m365.cloud.microsoft</li>
+<li> 11:04 chatgpt.com</li>
+<li> 11:04 chat.openai.com</li>
+<li> 11:02 outlook.office.com</li>
+<li class='same'> 11:01 outlook.office.com</li>
+<li> 11:01 m365.cloud.microsoft</li>
+</ul>
+
+<br>
+
+<ul><li> 09:23 calendar.google.com</li>
+<li> 09:20 www.reddit.com</li>
+<li class='same'> 09:19 www.reddit.com</li>
+<li class='same'> 09:18 www.reddit.com</li>
+<li> 09:18 outlook.office365.com</li>
+<li> 09:16 www.reddit.com</li>
+<li class='same'> 09:15 www.reddit.com</li>
+<li class='same'> 09:13 www.reddit.com</li>
+<li class='same'> 09:09 www.reddit.com</li>
+<li> 09:09 outlook.office365.com</li>
+<li> 09:08 herts365-my.sharepoint.com</li>
+<li> 09:08 m365.cloud.microsoft</li>
+<li> 09:08 login.microsoftonline.com</li>
+<li> 09:08 adfs.herts.ac.uk</li>
+<li> 09:07 api-b6327e78.duosecurity.com</li>
+<li> 09:07 adfs.herts.ac.uk</li>
+</ul>
 
 <br>
 
