@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3230)</li>
+<ol><li>www.google.com (3233)</li>
 <li>mail.google.com (2928)</li>
 <li>outlook.office.com (2794)</li>
 <li>docs.google.com (2068)</li>
-<li>www.reddit.com (1989)</li>
+<li>www.reddit.com (1992)</li>
 <li>outlook.office365.com (1971)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1418)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (239)</li>
 <li>qbo.intuit.com (234)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (220)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (221)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
 
 
@@ -104,11 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 24/06/25</H3>
+
+<br>
+
+<ul><li> 07:41 <a href="https://www.theguardian.com/tv-and-radio/article/2024/aug/14/the-life-and-tragic-death-of-john-balson-how-a-true-producer-documented-his-own-rising-horror">The life and tragic death of John Balson: how a true crime producer documented his own rising horror | Television & radio | The Guardian</a></li>
+<li> 07:36 <a href="https://www.theguardian.com/us-news/2025/jun/24/mystery-db-cooper-hijacker-who-disappeared">Is he still alive? The mystery of DB Cooper – the hijacker who disappeared | US crime | The Guardian</a></li>
+<li> 07:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
 <H3>Monday, 23/06/25</H3>
 
 <br>
 
-<ul><li> 21:43 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 23:34 www.manchestereveningnews.co.uk</li>
+<li> 23:34 www.google.com</li>
+<li class='same'> 23:33 www.google.com</li>
+<li class='same'> 23:32 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 21:46 www.reddit.com</li>
+<li class='same'> 21:45 www.reddit.com</li>
+<li class='same'> 21:44 www.reddit.com</li>
+<li class='same'> 21:43 www.reddit.com</li>
 <li class='same'> 21:42 www.reddit.com</li>
 <li> 21:41 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 21:41 www.google.com</li>
