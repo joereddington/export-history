@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3254)</li>
-<li>mail.google.com (2973)</li>
-<li>outlook.office.com (2843)</li>
+<ol><li>www.google.com (3257)</li>
+<li>mail.google.com (2985)</li>
+<li>outlook.office.com (2850)</li>
 <li>docs.google.com (2079)</li>
-<li>outlook.office365.com (2048)</li>
-<li>www.reddit.com (2008)</li>
+<li>outlook.office365.com (2056)</li>
+<li>www.reddit.com (2009)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1420)</li>
-<li>duckduckgo.com (1245)</li>
+<li>duckduckgo.com (1253)</li>
 <li>chatgpt.com (855)</li>
 <li>www.amazon.co.uk (773)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (568)</li>
+<li>calendar.google.com (574)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>www.linkedin.com (523)</li>
-<li>login.microsoftonline.com (492)</li>
+<li>login.microsoftonline.com (493)</li>
 <li>rhul-my.sharepoint.com (487)</li>
-<li>tvtropes.org (456)</li>
+<li>tvtropes.org (460)</li>
 <li>github.com (448)</li>
-<li>gmail.com (443)</li>
-<li>web.whatsapp.com (394)</li>
+<li>gmail.com (445)</li>
+<li>web.whatsapp.com (395)</li>
 <li>chat.openai.com (350)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
@@ -108,7 +108,79 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:31 outlook.office365.com</li>
+<ul><li> 13:36 <a href="https://en.wikipedia.org/wiki/George_Benson">George Benson - Wikipedia</a></li>
+<li> 13:34 <a href="https://en.wikipedia.org/wiki/Eugene_Landy">Eugene Landy - Wikipedia</a></li>
+<li> 13:34 duckduckgo.com</li>
+<li> 13:34 tvtropes.org</li>
+<li class='same'> 13:32 tvtropes.org</li>
+<li> 13:32 duckduckgo.com</li>
+<li> 13:31 www.mansmile.com</li>
+<li> 13:29 www.reddit.com</li>
+<li> 13:29 www.google.com</li>
+<li> 13:28 duckduckgo.com</li>
+<li> 13:26 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
+<li> 13:26 <a href="https://en.wikipedia.org/w/index.php?title=Milo_Yiannopoulos&diff=prev&oldid=1295765186">Milo Yiannopoulos: Difference between revisions - Wikipedia</a></li>
+<li> 13:25 <a href="https://en.wikipedia.org/w/index.php?title=Milo_Yiannopoulos&diff=prev&oldid=1295765403">Milo Yiannopoulos: Difference between revisions - Wikipedia</a></li>
+<li> 13:25 <a href="https://en.wikipedia.org/w/index.php?title=Milo_Yiannopoulos&diff=1297052345&oldid=1295765403">Milo Yiannopoulos: Difference between revisions - Wikipedia</a></li>
+<li> 13:25 <a href="https://en.wikipedia.org/w/index.php?title=Milo_Yiannopoulos&action=history">Milo Yiannopoulos: Revision history - Wikipedia</a></li>
+<li> 13:25 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
+<li> 13:25 mail.google.com</li>
+<li> 13:20 web.whatsapp.com</li>
+<li> 13:20 mail.google.com</li>
+<li class='same'> 13:19 mail.google.com</li>
+<li> 13:19 gmail.com</li>
+<li> 13:18 mail.google.com</li>
+<li class='same'> 13:16 mail.google.com</li>
+<li> 13:15 calendar.google.com</li>
+<li class='same'> 13:14 calendar.google.com</li>
+<li> 13:12 outlook.office365.com</li>
+<li> 13:08 calendar.google.com</li>
+<li> 13:08 outlook.office365.com</li>
+<li> 13:07 mail.google.com</li>
+<li> 13:06 outlook.office365.com</li>
+<li> 13:05 calendar.google.com</li>
+<li> 13:05 mail.google.com</li>
+<li> 13:05 outlook.office365.com</li>
+<li> 13:05 mail.google.com</li>
+<li class='same'> 13:04 mail.google.com</li>
+<li> 13:03 www.pulloxhillcarboot.co.uk</li>
+<li> 13:02 duckduckgo.com</li>
+<li> 13:02 www.google.com</li>
+<li class='same'> 13:01 www.google.com</li>
+<li> 13:01 duckduckgo.com</li>
+<li> 13:00 www.cineworld.co.uk</li>
+<li> 12:59 www.bluey.tv</li>
+<li> 12:59 duckduckgo.com</li>
+<li> 12:59 www.cineworld.co.uk</li>
+<li> 12:59 duckduckgo.com</li>
+<li class='same'> 12:58 duckduckgo.com</li>
+<li> 12:52 outlook.office365.com</li>
+<li class='same'> 12:51 outlook.office365.com</li>
+<li class='same'> 12:50 outlook.office365.com</li>
+<li class='same'> 12:49 outlook.office365.com</li>
+<li> 12:49 mail.google.com</li>
+<li class='same'> 12:48 mail.google.com</li>
+<li> 12:48 calendar.google.com</li>
+<li> 12:47 mail.google.com</li>
+<li> 12:47 gmail.com</li>
+<li> 12:47 outlook.office.com</li>
+<li class='same'> 12:46 outlook.office.com</li>
+<li> 12:44 herts365-my.sharepoint.com</li>
+<li> 12:43 m365.cloud.microsoft</li>
+<li> 12:41 outlook.office.com</li>
+<li class='same'> 12:40 outlook.office.com</li>
+<li class='same'> 12:39 outlook.office.com</li>
+<li class='same'> 12:38 outlook.office.com</li>
+<li class='same'> 12:37 outlook.office.com</li>
+<li> 12:37 m365.cloud.microsoft</li>
+<li> 12:37 calendar.google.com</li>
+<li> 12:36 herts365-my.sharepoint.com</li>
+<li> 12:36 m365.cloud.microsoft</li>
+<li> 12:36 login.microsoftonline.com</li>
+<li> 12:36 adfs.herts.ac.uk</li>
+<li> 12:35 api-b6327e78.duosecurity.com</li>
+<li> 12:35 adfs.herts.ac.uk</li>
+<li> 12:31 outlook.office365.com</li>
 <li class='same'> 12:30 outlook.office365.com</li>
 <li> 12:28 www.facebook.com</li>
 <li> 12:28 outlook.office365.com</li>
@@ -53942,7 +54014,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 23:11 tvtropes.org</li>
+<ul><li class='same'> 23:24 tvtropes.org</li>
+<li class='same'> 23:20 tvtropes.org</li>
+<li class='same'> 23:11 tvtropes.org</li>
 </ul>
 
 <br>
