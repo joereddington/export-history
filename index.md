@@ -73,10 +73,10 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2850)</li>
 <li>docs.google.com (2084)</li>
 <li>outlook.office365.com (2056)</li>
-<li>www.reddit.com (2017)</li>
+<li>www.reddit.com (2021)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1422)</li>
-<li>duckduckgo.com (1257)</li>
+<li>duckduckgo.com (1258)</li>
 <li>chatgpt.com (855)</li>
 <li>www.amazon.co.uk (773)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,99 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:34 duckduckgo.com</li>
+<ul><li> 22:15 <a href="https://xkcd.com/1918/">xkcd: NEXUS</a></li>
+<li> 22:15 <a href="https://xkcd.com/6/">xkcd: Irony</a></li>
+<li> 22:15 <a href="https://xkcd.com/2401/">xkcd: Conjunction</a></li>
+<li> 22:15 <a href="https://xkcd.com/2306/">xkcd: Common Cold</a></li>
+<li> 22:14 <a href="https://xkcd.com/339/">xkcd: Classic</a></li>
+<li> 22:14 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
+<li> 22:14 <a href="https://xkcd.com/2896/">xkcd: Crossword Constructors</a></li>
+<li> 22:14 <a href="https://xkcd.com/2681/">xkcd: Archimedes Principle</a></li>
+<li> 22:14 <a href="https://xkcd.com/614/">xkcd: Woodpecker</a></li>
+<li> 22:13 <a href="https://xkcd.com/48/">xkcd: Found</a></li>
+<li> 22:13 <a href="https://xkcd.com/551/">xkcd: Etch-a-Sketch</a></li>
+<li> 22:13 <a href="https://xkcd.com/3071/">xkcd: Decay Chain</a></li>
+<li> 22:13 <a href="https://xkcd.com/1038/">xkcd: Fountain</a></li>
+<li> 22:13 <a href="https://xkcd.com/2819/">xkcd: Pronunciation</a></li>
+<li> 22:12 <a href="https://xkcd.com/2425/">xkcd: mRNA Vaccine</a></li>
+<li> 22:12 <a href="https://xkcd.com/332/">xkcd: Gyroscopes</a></li>
+<li> 22:12 <a href="https://xkcd.com/2160/">xkcd: Ken Burns Theory</a></li>
+<li> 22:11 <a href="https://xkcd.com/2615/">xkcd: Welcome Back</a></li>
+<li> 22:11 <a href="https://xkcd.com/2739/">xkcd: Data Quality</a></li>
+<li> 22:06 www.explainxkcd.com</li>
+<li> 22:06 duckduckgo.com</li>
+<li> 22:04 <a href="https://xkcd.com/977/">xkcd: Map Projections</a></li>
+<li> 22:04 <a href="https://xkcd.com/427/">xkcd: Bad Timing</a></li>
+<li> 22:03 <a href="https://xkcd.com/761/">xkcd: DFS</a></li>
+<li> 22:03 <a href="https://xkcd.com/2237/">xkcd: AI Hiring Algorithm</a></li>
+<li> 22:03 <a href="https://xkcd.com/1459/">xkcd: Documents</a></li>
+<li> 22:03 <a href="https://xkcd.com/1123/">xkcd: The Universal Label</a></li>
+<li> 22:02 <a href="https://xkcd.com/2300/">xkcd: Everyone's an Epidemiologist</a></li>
+<li> 22:02 <a href="https://xkcd.com/1329/">xkcd: Standing</a></li>
+<li> 22:02 <a href="https://xkcd.com/1330/">xkcd: Kola Borehole</a></li>
+<li> 22:02 <a href="https://xkcd.com/1120/">xkcd: Blurring the Line</a></li>
+<li> 22:01 <a href="https://xkcd.com/400/">xkcd: Important Life Lesson</a></li>
+<li> 22:01 <a href="https://xkcd.com/111/">xkcd: Firefox and Witchcraft - The Connection?</a></li>
+<li> 22:01 <a href="https://xkcd.com/579/">xkcd: The Race: Part 3</a></li>
+<li> 22:01 <a href="https://xkcd.com/207/">xkcd: What xkcd Means</a></li>
+<li> 22:00 <a href="https://xkcd.com/2507/">xkcd: USV-C</a></li>
+<li> 22:00 <a href="https://xkcd.com/565/">xkcd: Security Question</a></li>
+<li> 22:00 <a href="https://xkcd.com/2009/">xkcd: Hertzsprung-Russell Diagram</a></li>
+<li> 22:00 <a href="https://xkcd.com/1631/">xkcd: Longer Than Usual</a></li>
+<li> 22:00 <a href="https://xkcd.com/2423/">xkcd: Project Orion</a></li>
+<li> 22:00 <a href="https://xkcd.com/2576/">xkcd: Control Group</a></li>
+<li> 21:59 <a href="https://xkcd.com/1269/">xkcd: Privacy Opinions</a></li>
+<li> 21:59 <a href="https://xkcd.com/3054/">xkcd: Scream Cipher</a></li>
+<li> 21:59 <a href="https://xkcd.com/940/">xkcd: Oversight</a></li>
+<li> 21:59 <a href="https://xkcd.com/972/">xkcd: November</a></li>
+<li> 21:58 <a href="https://xkcd.com/820/">xkcd: Five-Minute Comics: Part 2</a></li>
+<li> 21:58 <a href="https://xkcd.com/879/">xkcd: Lamp</a></li>
+<li> 21:57 <a href="https://xkcd.com/773/">xkcd: University Website</a></li>
+<li> 21:57 <a href="https://xkcd.com/1110/">xkcd: Click and Drag</a></li>
+<li> 21:57 <a href="https://xkcd.com/1546/">xkcd: Tamagotchi Hive</a></li>
+<li> 21:57 <a href="https://xkcd.com/545/">xkcd: Neutrality Schmeutrality</a></li>
+<li> 21:57 <a href="https://xkcd.com/379/">xkcd: Forgetting</a></li>
+<li> 21:57 <a href="https://xkcd.com/2009/">xkcd: Hertzsprung-Russell Diagram</a></li>
+<li> 21:56 <a href="https://xkcd.com/108/">xkcd: M.C. Hammer Slide</a></li>
+<li> 21:56 <a href="https://xkcd.com/1534/">xkcd: Beer</a></li>
+<li> 21:56 <a href="https://xkcd.com/2503/">xkcd: Memo Spike Connector</a></li>
+<li> 21:54 <a href="https://xkcd.com/2198/">xkcd: Throw</a></li>
+<li> 21:54 <a href="https://xkcd.com/701/">xkcd: Science Valentine</a></li>
+<li> 21:54 <a href="https://xkcd.com/890/">xkcd: Etymology</a></li>
+<li> 21:54 <a href="https://xkcd.com/806/">xkcd: Tech Support</a></li>
+<li> 21:53 <a href="https://xkcd.com/1766/">xkcd: Apple Spectrum</a></li>
+<li> 21:53 <a href="https://xkcd.com/1662/">xkcd: Jack and Jill</a></li>
+<li> 21:53 <a href="https://xkcd.com/566/">xkcd: Matrix Revisited</a></li>
+<li> 21:52 <a href="https://xkcd.com/1393/">xkcd: Timeghost</a></li>
+<li> 21:52 <a href="https://xkcd.com/771/">xkcd: Period Speech</a></li>
+<li> 21:52 <a href="https://xkcd.com/1938/">xkcd: Meltdown and Spectre</a></li>
+<li> 21:52 <a href="https://xkcd.com/2449/">xkcd: ISS Vaccine</a></li>
+<li> 21:51 <a href="https://xkcd.com/2168/">xkcd: Reading in the Original</a></li>
+<li> 21:51 <a href="https://xkcd.com/2208/">xkcd: Drone Fishing</a></li>
+<li> 21:50 <a href="https://xkcd.com/1047/">xkcd: Approximations</a></li>
+<li> 21:50 <a href="https://xkcd.com/1931/">xkcd: Virtual Assistant</a></li>
+<li> 21:49 <a href="https://xkcd.com/2326/">xkcd: Five Word Jargon</a></li>
+<li> 21:49 <a href="https://xkcd.com/1309/">xkcd: Infinite Scrolling</a></li>
+<li> 21:49 <a href="https://xkcd.com/455/">xkcd: Hats</a></li>
+<li> 21:49 <a href="https://xkcd.com/1627/">xkcd: Woosh</a></li>
+<li> 21:49 <a href="https://xkcd.com/1706/">xkcd: Genetic Testing</a></li>
+<li> 21:48 <a href="https://xkcd.com/1234/">xkcd: Douglas Engelbart (1925-2013)</a></li>
+<li> 21:48 <a href="https://xkcd.com/2480/">xkcd: No, The Other One</a></li>
+<li> 21:48 <a href="https://xkcd.com/1256/">xkcd: Questions</a></li>
+<li> 21:47 <a href="https://xkcd.com/1995/">xkcd: MC Hammer Age</a></li>
+<li> 21:47 <a href="https://xkcd.com/2832/">xkcd: Urban Planning Opinion Progression</a></li>
+<li> 21:46 <a href="https://xkcd.com/1436/">xkcd: Orb Hammer</a></li>
+<li> 21:46 <a href="https://xkcd.com/2149/">xkcd: Alternate Histories</a></li>
+<li> 21:46 <a href="https://xkcd.com/3057/">xkcd: Excusing Yourself</a></li>
+<li> 21:45 <a href="https://xkcd.com/2753/">xkcd: Air Handler</a></li>
+<li> 21:45 <a href="https://xkcd.com/313/">xkcd: Insomnia</a></li>
+<li> 21:45 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
+<li> 21:44 www.giantitp.com</li>
+<li> 21:41 www.reddit.com</li>
+<li class='same'> 21:40 www.reddit.com</li>
+<li class='same'> 21:39 www.reddit.com</li>
+<li class='same'> 21:37 www.reddit.com</li>
+<li> 21:34 duckduckgo.com</li>
 <li> 21:32 www.reddit.com</li>
 <li> 21:32 artofmemory.com</li>
 <li> 21:31 www.worldmemorychampionships.com</li>
@@ -4247,7 +4339,7 @@ With number of accesses/minutes in parentheses
 <li> 06:31 <a href="https://xkcd.com/3095/">xkcd: Archaea</a></li>
 <li> 06:31 <a href="https://xkcd.com/3096/">xkcd: Check Engine</a></li>
 <li> 06:31 <a href="https://xkcd.com/3097/">xkcd: Bridge Types</a></li>
-<li> 06:30 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 06:30 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 06:30 www.giantitp.com</li>
 <li> 06:20 feedly.com</li>
 <li> 06:19 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/ive-learned-a-new-word-and-now-im-seeing-the-people-it-describes-everywhere">I’ve learned a new word – and now I’m seeing the people it describes everywhere | Adrian Chiles | The Guardian</a></li>
@@ -10569,7 +10661,7 @@ With number of accesses/minutes in parentheses
 <li> 16:19 <a href="https://xkcd.com/3081/">xkcd: PhD Timeline</a></li>
 <li> 16:19 <a href="https://xkcd.com/3082/">xkcd: Chess Position</a></li>
 <li> 16:19 <a href="https://xkcd.com/3083/">xkcd: Jupiter Core</a></li>
-<li> 16:19 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 16:19 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 16:17 <a href="https://www.theguardian.com/film/2025/may/05/fears-trump-foreign-film-tariffs-wipe-out-uk-movie-industry">Fears Trump’s foreign film tariffs could ‘wipe out’ UK movie industry | Film industry | The Guardian</a></li>
 <li> 16:16 liloandstitch.fandom.com</li>
 <li class='same'> 16:14 liloandstitch.fandom.com</li>
@@ -15008,7 +15100,7 @@ With number of accesses/minutes in parentheses
 <li> 07:27 <a href="https://xkcd.com/518/">xkcd: Flow Charts</a></li>
 <li> 07:26 <a href="https://xkcd.com/3072/">xkcd: Stargazing 4</a></li>
 <li> 07:26 <a href="https://xkcd.com/3071/">xkcd: Decay Chain</a></li>
-<li> 07:26 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 07:26 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 07:23 www.theguardian.com</li>
 <li class='same'> 07:22 www.theguardian.com</li>
 <li class='same'> 07:20 www.theguardian.com</li>
@@ -20997,7 +21089,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:03 outlook.office.com</li>
 <li class='same'> 15:02 outlook.office.com</li>
 <li> 14:53 <a href="https://xkcd.com/simplewriter/"></a></li>
-<li> 14:53 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 14:53 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 14:42 <a href="https://en.wikipedia.org/wiki/Ashley_Madison_data_breach">Ashley Madison data breach - Wikipedia</a></li>
 <li> 14:42 duckduckgo.com</li>
 <li> 14:18 outlook.office.com</li>
@@ -28262,7 +28354,7 @@ With number of accesses/minutes in parentheses
 <li> 14:41 <a href="https://xkcd.com/3041/">xkcd: Unit Circle</a></li>
 <li> 14:41 <a href="https://xkcd.com/3042/">xkcd: T. Rex Evolution</a></li>
 <li> 14:41 <a href="https://xkcd.com/3043/">xkcd: Muons</a></li>
-<li> 14:41 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 14:41 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 14:40 www.reddit.com</li>
 <li class='same'> 14:39 www.reddit.com</li>
 <li> 14:39 mail.google.com</li>
@@ -35127,7 +35219,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:55 www.reddit.com</li>
 <li> 19:51 bsky.app</li>
-<li> 19:50 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 19:50 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 19:49 docs.google.com</li>
 <li> 19:47 bsky.app</li>
 <li class='same'> 19:46 bsky.app</li>
@@ -35952,7 +36044,7 @@ With number of accesses/minutes in parentheses
 <li> 06:41 www.facebook.com</li>
 <li> 06:37 bsky.app</li>
 <li class='same'> 06:35 bsky.app</li>
-<li> 06:33 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 06:33 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 06:33 www.giantitp.com</li>
 <li> 06:33 www.linkedin.com</li>
 <li class='same'> 06:32 www.linkedin.com</li>
@@ -36082,7 +36174,7 @@ With number of accesses/minutes in parentheses
 <li> 15:03 <a href="https://xkcd.com/3027/">xkcd: Exclusion Principle</a></li>
 <li> 15:03 <a href="https://xkcd.com/3028/">xkcd: D Roll</a></li>
 <li> 15:02 <a href="https://xkcd.com/3029/">xkcd: Sun Avoidance</a></li>
-<li> 15:02 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 15:02 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 15:02 www.giantitp.com</li>
 <li> 15:01 www.ebay.co.uk</li>
 <li> 15:00 blueskydirectory.com</li>
@@ -37079,7 +37171,7 @@ With number of accesses/minutes in parentheses
 <li> 14:17 <a href="https://xkcd.com/3023/">xkcd: The Maritime Approximation</a></li>
 <li> 14:17 <a href="https://xkcd.com/3024/">xkcd: METAR</a></li>
 <li> 14:16 <a href="https://xkcd.com/3025/">xkcd: Phase Change</a></li>
-<li> 14:16 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 14:16 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 14:14 www.giantitp.com</li>
 <li> 14:14 outlook.office365.com</li>
 <li> 14:14 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
@@ -37677,7 +37769,7 @@ With number of accesses/minutes in parentheses
 <li> 13:40 <a href="https://xkcd.com/3021/">xkcd: Seismologists</a></li>
 <li> 13:39 <a href="https://xkcd.com/3022/">xkcd: Making Tea</a></li>
 <li> 13:39 <a href="https://xkcd.com/3023/">xkcd: The Maritime Approximation</a></li>
-<li> 13:39 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 13:39 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 13:39 www.giantitp.com</li>
 <li> 13:37 bsky.app</li>
 <li class='same'> 13:36 bsky.app</li>
@@ -39045,7 +39137,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:02 www.explainxkcd.com</li>
 <li> 09:01 <a href="https://xkcd.com/3019/">xkcd: Advent Calendar Advent Calendar</a></li>
 <li> 09:01 <a href="https://xkcd.com/3020/">xkcd: Infinite Armada Chess</a></li>
-<li> 09:01 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 09:01 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 09:01 www.giantitp.com</li>
 <li> 09:01 www.linkedin.com</li>
 <li class='same'> 09:00 www.linkedin.com</li>
@@ -48322,7 +48414,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 11:52 chatgpt.com</li>
 <li> 11:42 docs.google.com</li>
-<li> 11:18 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 11:20 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
+<li> 11:18 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 11:18 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 11:01 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
 <li> 10:41 whitewaterwriters.com</li>
@@ -48685,7 +48778,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:54 www.overleaf.com</li>
 <li> 20:52 www.tightrope.co.uk</li>
-<li> 20:34 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 20:34 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 </ul>
 
 <br>
@@ -48761,7 +48854,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:09 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<ul><li> 21:09 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 </ul>
 
 <br>
@@ -49034,7 +49127,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:18 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<ul><li> 17:18 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 </ul>
 
 <br>
@@ -49333,7 +49426,7 @@ With number of accesses/minutes in parentheses
 <li> 08:12 mail.google.com</li>
 <li> 08:08 docs.google.com</li>
 <li> 08:07 www.google.com</li>
-<li> 07:57 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 07:57 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 </ul>
 
 <H3>Saturday, 17/08/24</H3>
@@ -49360,7 +49453,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:26 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<ul><li> 16:26 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 </ul>
 
 <H3>Thursday, 15/08/24</H3>
@@ -49389,7 +49482,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:19 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<ul><li> 16:19 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 </ul>
 
 <br>
@@ -49532,7 +49625,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:44 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<ul><li> 06:44 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 06:42 kdpreports.amazon.com</li>
 <li> 06:32 www.buzzfeed.com</li>
 </ul>
@@ -49661,7 +49754,8 @@ With number of accesses/minutes in parentheses
 <li> 07:06 www.facebook.com</li>
 <li> 07:03 www.amazon.co.uk</li>
 <li> 07:02 mail.google.com</li>
-<li> 06:46 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 06:48 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
+<li> 06:46 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 06:37 mail.google.com</li>
 </ul>
 
@@ -49806,7 +49900,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:43 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<ul><li> 09:45 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
+<li> 09:43 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 09:41 www.reddit.com</li>
 <li> 09:35 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 </ul>
@@ -50257,7 +50352,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:46 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<ul><li> 12:46 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 12:45 www.google.com</li>
 <li> 12:29 www.amazon.co.uk</li>
 <li> 12:28 kdpreports.amazon.com</li>
@@ -51358,7 +51453,7 @@ With number of accesses/minutes in parentheses
 <li> 11:16 outlook.office365.com</li>
 <li class='same'> 11:14 outlook.office365.com</li>
 <li class='same'> 11:10 outlook.office365.com</li>
-<li> 11:08 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 11:08 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 11:04 www.paypal.com</li>
 <li class='same'> 10:59 www.paypal.com</li>
 </ul>
@@ -51576,7 +51671,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:59 equalitytime.github.io</li>
-<li> 14:49 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 14:49 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 14:48 theopenvoicefactory.org</li>
 <li class='same'> 14:45 theopenvoicefactory.org</li>
 <li class='same'> 14:41 theopenvoicefactory.org</li>
@@ -52043,7 +52138,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:20 www.google.com</li>
-<li> 18:19 <a href="https://xkcd.com/">xkcd: Trojan Horse</a></li>
+<li> 18:19 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 </ul>
 
 <br>
@@ -54066,6 +54161,10 @@ With number of accesses/minutes in parentheses
 <li> 10:23 www.ebay.co.uk</li>
 <li> 10:09 outlook.office.com</li>
 <li> 10:06 <a href="https://xkcd.com/1603/">xkcd: Flashlights</a></li>
+<li> 10:02 <a href="https://xkcd.com/2306/">xkcd: Common Cold</a></li>
+<li> 09:57 <a href="https://xkcd.com/1234/">xkcd: Douglas Engelbart (1925-2013)</a></li>
+<li> 09:54 <a href="https://xkcd.com/1995/">xkcd: MC Hammer Age</a></li>
+<li> 09:53 <a href="https://xkcd.com/2423/">xkcd: Project Orion</a></li>
 </ul>
 
 <br>
@@ -54454,6 +54553,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 18:14 <a href="https://xkcd.com/2896/">xkcd: Crossword Constructors</a></li>
+</ul>
 
 <br>
 
@@ -55617,7 +55721,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:16 <a href="https://xkcd.com/1337/">xkcd: Hack</a></li>
+<ul><li> 15:20 <a href="https://xkcd.com/207/">xkcd: What xkcd Means</a></li>
+<li> 15:19 <a href="https://xkcd.com/879/">xkcd: Lamp</a></li>
+<li> 15:16 <a href="https://xkcd.com/1337/">xkcd: Hack</a></li>
 </ul>
 
 <br>
