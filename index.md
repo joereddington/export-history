@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3262)</li>
-<li>mail.google.com (2987)</li>
+<li>mail.google.com (2989)</li>
 <li>outlook.office.com (2850)</li>
-<li>docs.google.com (2083)</li>
+<li>docs.google.com (2084)</li>
 <li>outlook.office365.com (2056)</li>
-<li>www.reddit.com (2015)</li>
-<li>bsky.app (1578)</li>
-<li>www.facebook.com (1421)</li>
-<li>duckduckgo.com (1255)</li>
+<li>www.reddit.com (2017)</li>
+<li>bsky.app (1579)</li>
+<li>www.facebook.com (1422)</li>
+<li>duckduckgo.com (1257)</li>
 <li>chatgpt.com (855)</li>
 <li>www.amazon.co.uk (773)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,6 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:34 duckduckgo.com</li>
+<li> 21:32 www.reddit.com</li>
+<li> 21:32 artofmemory.com</li>
+<li> 21:31 www.worldmemorychampionships.com</li>
+<li> 21:31 duckduckgo.com</li>
+<li> 21:30 forum.artofmemory.com</li>
+<li> 21:30 artofmemory.com</li>
+<li> 21:29 <a href="https://joereddington.com/2025/06/21/trainer-for-decoding-numbers.html">Trainer for decoding numbers | Joe Reddington</a></li>
+<li> 21:29 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 21:29 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 21:29 www.facebook.com</li>
+<li> 21:29 bsky.app</li>
+<li> 21:27 kdp.amazon.com</li>
+<li> 21:25 mail.google.com</li>
+<li class='same'> 21:24 mail.google.com</li>
+<li> 21:23 docs.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 20:26 www.google.com</li>
 <li> 20:20 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li class='same'> 20:18 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
@@ -123,7 +143,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:52 www.reddit.com</li>
+<ul><li> 16:54 www.reddit.com</li>
+<li class='same'> 16:52 www.reddit.com</li>
 <li class='same'> 16:51 www.reddit.com</li>
 <li class='same'> 16:49 www.reddit.com</li>
 <li class='same'> 16:48 www.reddit.com</li>
