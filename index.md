@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3258)</li>
+<ol><li>www.google.com (3259)</li>
 <li>mail.google.com (2987)</li>
 <li>outlook.office.com (2850)</li>
-<li>docs.google.com (2079)</li>
+<li>docs.google.com (2083)</li>
 <li>outlook.office365.com (2056)</li>
-<li>www.reddit.com (2009)</li>
+<li>www.reddit.com (2015)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1421)</li>
-<li>duckduckgo.com (1254)</li>
+<li>duckduckgo.com (1255)</li>
 <li>chatgpt.com (855)</li>
 <li>www.amazon.co.uk (773)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:37 www.google.com</li>
+<ul><li> 17:28 who-called.co.uk</li>
+<li> 17:28 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:52 www.reddit.com</li>
+<li class='same'> 16:51 www.reddit.com</li>
+<li class='same'> 16:49 www.reddit.com</li>
+<li class='same'> 16:48 www.reddit.com</li>
+<li class='same'> 16:46 www.reddit.com</li>
+<li> 16:45 docs.google.com</li>
+<li class='same'> 16:44 docs.google.com</li>
+<li> 16:44 www.tesco.com</li>
+<li> 16:44 duckduckgo.com</li>
+<li> 16:44 docs.google.com</li>
+<li class='same'> 16:43 docs.google.com</li>
+<li> 16:37 www.google.com</li>
+<li> 16:09 www.reddit.com</li>
 <li> 16:08 www.linkedin.com</li>
 <li> 16:01 web.whatsapp.com</li>
 <li> 15:58 mail.google.com</li>
