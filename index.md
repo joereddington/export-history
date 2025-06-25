@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3255)</li>
-<li>mail.google.com (2960)</li>
+<li>mail.google.com (2973)</li>
 <li>outlook.office.com (2843)</li>
 <li>docs.google.com (2079)</li>
-<li>outlook.office365.com (2039)</li>
+<li>outlook.office365.com (2048)</li>
 <li>www.reddit.com (2008)</li>
 <li>bsky.app (1578)</li>
-<li>www.facebook.com (1419)</li>
-<li>duckduckgo.com (1244)</li>
+<li>www.facebook.com (1420)</li>
+<li>duckduckgo.com (1246)</li>
 <li>chatgpt.com (855)</li>
-<li>www.amazon.co.uk (770)</li>
+<li>www.amazon.co.uk (773)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (568)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
-<li>www.linkedin.com (521)</li>
+<li>www.linkedin.com (523)</li>
 <li>login.microsoftonline.com (492)</li>
 <li>rhul-my.sharepoint.com (487)</li>
 <li>tvtropes.org (456)</li>
 <li>github.com (448)</li>
-<li>gmail.com (440)</li>
+<li>gmail.com (443)</li>
 <li>web.whatsapp.com (394)</li>
 <li>chat.openai.com (350)</li>
 <li>drive.google.com (303)</li>
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:37 web.whatsapp.com</li>
+<ul><li> 12:31 outlook.office365.com</li>
+<li class='same'> 12:30 outlook.office365.com</li>
+<li> 12:28 www.facebook.com</li>
+<li> 12:28 outlook.office365.com</li>
+<li> 12:28 mail.google.com</li>
+<li> 12:27 outlook.office365.com</li>
+<li> 12:26 link.springer.com</li>
+<li> 12:26 scholar.google.com</li>
+<li> 12:26 outlook.office365.com</li>
+<li> 12:26 kdp.amazon.com</li>
+<li> 12:26 outlook.office365.com</li>
+<li> 12:25 kdp.amazon.com</li>
+<li> 12:25 outlook.office365.com</li>
+<li> 12:25 kdp.amazon.com</li>
+<li> 12:24 link.springer.com</li>
+<li class='same'> 12:02 link.springer.com</li>
+<li> 12:02 duckduckgo.com</li>
+<li> 12:01 mail.google.com</li>
+<li> 12:01 gmail.com</li>
+<li> 12:01 mail.google.com</li>
+<li class='same'> 12:00 mail.google.com</li>
+<li> 12:00 kdp.amazon.com</li>
+<li> 11:59 outlook.office365.com</li>
+<li> 11:59 kdp.amazon.com</li>
+<li> 11:59 outlook.office365.com</li>
+<li> 11:58 www.amazon.co.uk</li>
+<li> 11:50 mail.google.com</li>
+<li> 11:49 www.linkedin.com</li>
+<li class='same'> 11:48 www.linkedin.com</li>
+<li> 11:48 mail.google.com</li>
+<li> 11:48 find-and-update.company-information.service.gov.uk</li>
+<li class='same'> 11:47 find-and-update.company-information.service.gov.uk</li>
+<li> 11:46 mail.google.com</li>
+<li class='same'> 11:45 mail.google.com</li>
+<li> 11:45 www.lutongymnastics.co.uk</li>
+<li> 11:44 mail.google.com</li>
+<li class='same'> 11:43 mail.google.com</li>
+<li> 11:43 gmail.com</li>
+<li> 11:42 s3.eu-west-2.amazonaws.com</li>
+<li> 11:42 find-and-update.company-information.service.gov.uk</li>
+<li> 11:42 mail.google.com</li>
+<li class='same'> 11:41 mail.google.com</li>
+<li class='same'> 11:40 mail.google.com</li>
+<li> 11:40 gmail.com</li>
+<li> 11:39 www.amazon.co.uk</li>
+<li> 11:39 duckduckgo.com</li>
+<li> 11:39 www.amazon.co.uk</li>
+<li> 11:37 web.whatsapp.com</li>
 <li> 11:36 mail.google.com</li>
 <li> 11:36 gmail.com</li>
 <li> 11:34 cc.amazon.com</li>
