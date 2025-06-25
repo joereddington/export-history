@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3250)</li>
+<ol><li>www.google.com (3251)</li>
 <li>mail.google.com (2959)</li>
 <li>outlook.office.com (2843)</li>
-<li>docs.google.com (2072)</li>
-<li>outlook.office365.com (2022)</li>
+<li>docs.google.com (2079)</li>
+<li>outlook.office365.com (2034)</li>
 <li>www.reddit.com (2003)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1419)</li>
-<li>duckduckgo.com (1243)</li>
-<li>chatgpt.com (854)</li>
+<li>duckduckgo.com (1244)</li>
+<li>chatgpt.com (855)</li>
 <li>www.amazon.co.uk (769)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (567)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>www.linkedin.com (521)</li>
 <li>login.microsoftonline.com (492)</li>
-<li>rhul-my.sharepoint.com (484)</li>
+<li>rhul-my.sharepoint.com (485)</li>
 <li>tvtropes.org (456)</li>
 <li>github.com (448)</li>
 <li>gmail.com (439)</li>
-<li>web.whatsapp.com (392)</li>
-<li>chat.openai.com (349)</li>
+<li>web.whatsapp.com (393)</li>
+<li>chat.openai.com (350)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:39 moodle.royalholloway.ac.uk</li>
+<ul><li> 10:35 chatgpt.com</li>
+<li> 10:35 chat.openai.com</li>
+<li> 10:33 outlook.office365.com</li>
+<li class='same'> 10:31 outlook.office365.com</li>
+<li> 10:31 www.trolley.co.uk</li>
+<li class='same'> 10:30 www.trolley.co.uk</li>
+<li> 10:30 web.whatsapp.com</li>
+<li> 10:30 www.trolley.co.uk</li>
+<li class='same'> 10:29 www.trolley.co.uk</li>
+<li> 10:29 duckduckgo.com</li>
+<li> 10:29 www.aldi.co.uk</li>
+<li> 10:29 www.google.com</li>
+<li> 10:29 www.aldi.co.uk</li>
+<li> 10:29 groceries.aldi.co.uk</li>
+<li> 10:29 docs.google.com</li>
+<li class='same'> 10:28 docs.google.com</li>
+<li class='same'> 10:27 docs.google.com</li>
+<li class='same'> 10:26 docs.google.com</li>
+<li class='same'> 10:25 docs.google.com</li>
+<li class='same'> 10:24 docs.google.com</li>
+<li class='same'> 10:23 docs.google.com</li>
+<li> 10:19 outlook.office365.com</li>
+<li class='same'> 10:15 outlook.office365.com</li>
+<li class='same'> 10:14 outlook.office365.com</li>
+<li class='same'> 10:13 outlook.office365.com</li>
+<li class='same'> 10:12 outlook.office365.com</li>
+<li class='same'> 10:03 outlook.office365.com</li>
+<li class='same'> 10:02 outlook.office365.com</li>
+<li class='same'> 10:00 outlook.office365.com</li>
+<li class='same'> 09:56 outlook.office365.com</li>
+<li class='same'> 09:55 outlook.office365.com</li>
+<li> 09:53 projects.cs.rhul.ac.uk</li>
+<li class='same'> 09:52 projects.cs.rhul.ac.uk</li>
+<li> 09:49 rhul-my.sharepoint.com</li>
+<li> 09:39 moodle.royalholloway.ac.uk</li>
 <li> 09:36 outlook.office365.com</li>
 <li> 09:33 chatgpt.com</li>
 <li> 09:33 chat.openai.com</li>
