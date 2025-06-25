@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3251)</li>
-<li>mail.google.com (2959)</li>
+<ol><li>www.google.com (3255)</li>
+<li>mail.google.com (2960)</li>
 <li>outlook.office.com (2843)</li>
 <li>docs.google.com (2079)</li>
-<li>outlook.office365.com (2034)</li>
-<li>www.reddit.com (2003)</li>
+<li>outlook.office365.com (2039)</li>
+<li>www.reddit.com (2008)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1419)</li>
 <li>duckduckgo.com (1244)</li>
 <li>chatgpt.com (855)</li>
-<li>www.amazon.co.uk (769)</li>
+<li>www.amazon.co.uk (770)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (567)</li>
+<li>calendar.google.com (568)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>www.linkedin.com (521)</li>
 <li>login.microsoftonline.com (492)</li>
-<li>rhul-my.sharepoint.com (485)</li>
+<li>rhul-my.sharepoint.com (487)</li>
 <li>tvtropes.org (456)</li>
 <li>github.com (448)</li>
-<li>gmail.com (439)</li>
-<li>web.whatsapp.com (393)</li>
+<li>gmail.com (440)</li>
+<li>web.whatsapp.com (394)</li>
 <li>chat.openai.com (350)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
@@ -105,6 +105,36 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 25/06/25</H3>
+
+<br>
+
+<ul><li> 11:37 web.whatsapp.com</li>
+<li> 11:36 mail.google.com</li>
+<li> 11:36 gmail.com</li>
+<li> 11:34 cc.amazon.com</li>
+<li class='same'> 11:33 cc.amazon.com</li>
+<li> 11:30 kdp.amazon.com</li>
+<li class='same'> 11:29 kdp.amazon.com</li>
+<li> 11:28 rhul-my.sharepoint.com</li>
+<li> 11:27 outlook.office365.com</li>
+<li> 11:26 kdp.amazon.com</li>
+<li class='same'> 11:25 kdp.amazon.com</li>
+<li class='same'> 11:24 kdp.amazon.com</li>
+<li> 11:24 www.amazon.co.uk</li>
+<li> 11:24 kdp.amazon.com</li>
+<li> 11:23 rhul-my.sharepoint.com</li>
+<li> 11:23 outlook.office365.com</li>
+<li class='same'> 11:22 outlook.office365.com</li>
+<li> 11:18 calendar.google.com</li>
+<li> 11:15 www.reddit.com</li>
+<li class='same'> 11:13 www.reddit.com</li>
+<li class='same'> 11:12 www.reddit.com</li>
+<li> 11:09 www.google.com</li>
+<li> 11:09 <a href="https://www.bbc.co.uk/news/articles/cwyn2n44v9xo">Two women seriously hurt in attack involving crossbow in Leeds - BBC News</a></li>
+<li> 11:09 <a href="https://www.theguardian.com/tv-and-radio/article/2024/aug/14/the-life-and-tragic-death-of-john-balson-how-a-true-producer-documented-his-own-rising-horror">The life and tragic death of John Balson: how a true crime producer documented his own rising horror | Television & radio | The Guardian</a></li>
+<li> 11:07 outlook.office365.com</li>
+<li class='same'> 11:06 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -267,7 +297,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:06 www.imdb.com</li>
+<ul><li> 21:36 www.humblebundle.com</li>
+<li> 21:36 www.google.com</li>
+<li> 21:36 www.reddit.com</li>
+<li> 21:35 www.google.com</li>
+<li> 21:34 www.reddit.com</li>
+<li> 21:33 www.google.com</li>
+<li> 21:06 www.imdb.com</li>
 <li> 21:06 duckduckgo.com</li>
 <li> 21:04 tvtropes.org</li>
 <li class='same'> 21:03 tvtropes.org</li>
@@ -49287,6 +49323,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:09 kdp.amazon.com</li>
 <li class='same'> 11:06 kdp.amazon.com</li>
 <li class='same'> 11:04 kdp.amazon.com</li>
+<li class='same'> 11:03 kdp.amazon.com</li>
 <li class='same'> 10:59 kdp.amazon.com</li>
 <li> 10:36 claude.ai</li>
 <li> 10:35 mail.google.com</li>
@@ -50033,6 +50070,7 @@ With number of accesses/minutes in parentheses
 <li> 12:28 kdpreports.amazon.com</li>
 <li> 12:17 www.amazon.co.uk</li>
 <li> 11:59 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
+<li> 11:53 kdp.amazon.com</li>
 <li> 11:49 www.amazon.co.uk</li>
 </ul>
 
@@ -50061,6 +50099,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:43 www.facebook.com</li>
+<li> 17:36 kdp.amazon.com</li>
+<li class='same'> 17:31 kdp.amazon.com</li>
 <li> 17:24 doodle.com</li>
 </ul>
 
@@ -50170,7 +50210,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:43 claude.ai</li>
+<ul><li> 10:48 kdp.amazon.com</li>
+<li> 10:43 claude.ai</li>
+<li> 10:21 kdp.amazon.com</li>
 <li> 10:20 www.amazon.co.uk</li>
 <li class='same'> 10:18 www.amazon.co.uk</li>
 <li class='same'> 10:17 www.amazon.co.uk</li>
@@ -50197,12 +50239,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:05 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:03 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:02 gitlab.cim.rhul.ac.uk</li>
+<li> 12:57 kdp.amazon.com</li>
 <li> 12:40 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
-</ul>
-
-<br>
-
-<ul><li> 12:06 gitlab.cim.rhul.ac.uk</li>
+<li> 12:40 kdp.amazon.com</li>
+<li class='same'> 12:37 kdp.amazon.com</li>
+<li class='same'> 12:32 kdp.amazon.com</li>
+<li> 12:06 gitlab.cim.rhul.ac.uk</li>
 </ul>
 
 <br>
@@ -50247,7 +50289,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:05 gitlab.cim.rhul.ac.uk</li>
+<ul><li> 14:16 kdp.amazon.com</li>
+<li> 14:05 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:52 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:51 gitlab.cim.rhul.ac.uk</li>
 </ul>
@@ -50265,9 +50308,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:32 discord.com</li>
+<ul><li> 11:37 kdp.amazon.com</li>
+<li> 11:32 discord.com</li>
 <li> 11:30 chatgpt.com</li>
 <li> 11:25 whatismyipaddress.com</li>
+<li> 11:20 kdp.amazon.com</li>
 <li> 11:15 <a href="https://en.wikipedia.org/wiki/Royal_Holloway,_University_of_London">Royal Holloway, University of London - Wikipedia</a></li>
 <li> 11:02 kdp.amazon.com</li>
 </ul>
@@ -58977,7 +59022,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:33 www.feedly.com</li>
+<ul><li> 09:53 kdp.amazon.com</li>
+<li> 09:33 www.feedly.com</li>
 <li> 09:29 kdp.amazon.com</li>
 <li> 09:24 forum.artofmemory.com</li>
 <li> 09:19 kdp.amazon.com</li>
@@ -59189,7 +59235,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:15 docs.google.com</li>
-<li> 11:45 kdp.amazon.com</li>
+<li> 12:04 kdp.amazon.com</li>
+<li class='same'> 11:45 kdp.amazon.com</li>
 </ul>
 
 <br>
@@ -61979,6 +62026,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:19 kdp.amazon.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:38 discord.com</li>
 </ul>
 
@@ -62521,6 +62573,19 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:34 whitewaterwriters.com</li>
 <li> 10:17 github.com</li>
+</ul>
+
+<H3>Monday, 20/02/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 15:25 kdp.amazon.com</li>
+<li class='same'> 15:05 kdp.amazon.com</li>
+<li class='same'> 14:55 kdp.amazon.com</li>
 </ul>
 
 <H3>Thursday, 16/02/23</H3>
@@ -63845,6 +63910,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:29 www.google.co.uk</li>
 <li> 14:29 www.google.com</li>
+<li> 14:01 kdp.amazon.com</li>
 </ul>
 
 <br>
@@ -64446,6 +64512,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:03 <a href="https://www.youtube.com/playlist?list=WL">(5) Watch later - YouTube</a></li>
 </ul>
 
+<H3>Friday, 18/02/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 14:57 kdp.amazon.com</li>
+</ul>
+
 <H3>Tuesday, 15/02/22</H3>
 
 <br>
@@ -64512,6 +64589,17 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:02 mail.google.com</li>
 </ul>
 
+<H3>Friday, 28/01/22</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 12:31 kdp.amazon.com</li>
+</ul>
+
 <H3>Saturday, 22/01/22</H3>
 
 <br>
@@ -64532,6 +64620,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:02 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:25 kdp.amazon.com</li>
 </ul>
 
 <br>
@@ -64721,6 +64814,22 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:44 kdp.amazon.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:45 kdp.amazon.com</li>
+</ul>
+
+<H3>Tuesday, 16/11/21</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 10:11 kdp.amazon.com</li>
 </ul>
 
 <H3>Friday, 12/11/21</H3>
