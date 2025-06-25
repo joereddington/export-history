@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (1975)</li>
 <li>bsky.app (1578)</li>
 <li>www.facebook.com (1419)</li>
-<li>duckduckgo.com (1238)</li>
+<li>duckduckgo.com (1239)</li>
 <li>chatgpt.com (853)</li>
 <li>www.amazon.co.uk (769)</li>
 <li>www.theguardian.com (685)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (521)</li>
 <li>login.microsoftonline.com (489)</li>
 <li>rhul-my.sharepoint.com (483)</li>
-<li>tvtropes.org (454)</li>
+<li>tvtropes.org (456)</li>
 <li>github.com (448)</li>
 <li>gmail.com (439)</li>
 <li>web.whatsapp.com (392)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:59 tvtropes.org</li>
+<ul><li> 21:06 www.imdb.com</li>
+<li> 21:06 duckduckgo.com</li>
+<li> 21:04 tvtropes.org</li>
+<li class='same'> 21:03 tvtropes.org</li>
+<li class='same'> 20:59 tvtropes.org</li>
 <li class='same'> 20:58 tvtropes.org</li>
 <li class='same'> 20:57 tvtropes.org</li>
 <li class='same'> 20:56 tvtropes.org</li>
