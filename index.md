@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3285)</li>
+<ol><li>www.google.com (3287)</li>
 <li>mail.google.com (3047)</li>
 <li>outlook.office.com (2851)</li>
 <li>docs.google.com (2102)</li>
 <li>outlook.office365.com (2069)</li>
-<li>www.reddit.com (2050)</li>
+<li>www.reddit.com (2062)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1423)</li>
 <li>duckduckgo.com (1269)</li>
@@ -95,8 +95,8 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (247)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (243)</li>
 <li>qbo.intuit.com (242)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (238)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
 
 
@@ -108,9 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 14:46 www.reddit.com</li>
+<li class='same'> 14:45 www.reddit.com</li>
+<li class='same'> 14:44 www.reddit.com</li>
+<li class='same'> 14:43 www.reddit.com</li>
+<li class='same'> 14:41 www.reddit.com</li>
+<li class='same'> 14:39 www.reddit.com</li>
+<li class='same'> 14:38 www.reddit.com</li>
+<li> 14:38 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:31 www.reddit.com</li>
+<li> 13:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:31 www.reddit.com</li>
+<li> 13:31 <a href="https://www.theguardian.com/us-news/2025/apr/02/trump-new-tariffs-liberation-day">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
+<li> 13:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:31 <a href="https://www.theguardian.com/us-news/2025/apr/02/trump-new-tariffs-liberation-day">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
+<li> 13:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:31 www.reddit.com</li>
+<li class='same'> 13:30 www.reddit.com</li>
+<li class='same'> 13:28 www.reddit.com</li>
+<li> 13:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 13:28 <a href="https://www.theguardian.com/">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
 <li> 13:28 <a href="https://www.theguardian.com/us-news/2025/apr/02/trump-new-tariffs-liberation-day">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
+<li> 13:23 www.google.com</li>
+<li> 13:20 <a href="https://www.theguardian.com/film/2025/jun/26/mel-brooks-ranked-movies">Mel Brooks turns 99: the comedy icon’s best films – ranked! | Mel Brooks | The Guardian</a></li>
+<li> 13:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:19 <a href="https://www.theguardian.com/politics/2025/jun/26/reform-warwickshire-council-head-rob-howard-quits-after-five-weeks-leaving-18-year-old-in-charge">Reform Warwickshire council head quits after five weeks, leaving 18-year-old in charge | Reform UK | The Guardian</a></li>
+<li> 13:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:18 <a href="https://www.theguardian.com/">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
+<li> 13:18 <a href="https://www.theguardian.com/business/2025/jun/26/rules-that-protect-uk-homeowners-from-repossessions-may-be-scrapped">Rules that protect UK homeowners from repossessions may be scrapped | Financial Conduct Authority | The Guardian</a></li>
 <li> 13:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 13:12 mail.google.com</li>
 <li> 13:10 outlook.office.com</li>
