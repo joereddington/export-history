@@ -69,34 +69,34 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3281)</li>
-<li>mail.google.com (3006)</li>
+<li>mail.google.com (3013)</li>
 <li>outlook.office.com (2850)</li>
-<li>docs.google.com (2091)</li>
+<li>docs.google.com (2092)</li>
 <li>outlook.office365.com (2061)</li>
 <li>www.reddit.com (2045)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1423)</li>
-<li>duckduckgo.com (1264)</li>
-<li>chatgpt.com (858)</li>
+<li>duckduckgo.com (1265)</li>
+<li>chatgpt.com (859)</li>
 <li>www.amazon.co.uk (776)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (580)</li>
+<li>calendar.google.com (581)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>www.linkedin.com (526)</li>
 <li>login.microsoftonline.com (494)</li>
 <li>rhul-my.sharepoint.com (487)</li>
 <li>tvtropes.org (460)</li>
 <li>github.com (448)</li>
-<li>gmail.com (447)</li>
+<li>gmail.com (448)</li>
 <li>web.whatsapp.com (399)</li>
-<li>chat.openai.com (352)</li>
-<li>drive.google.com (304)</li>
+<li>chat.openai.com (353)</li>
+<li>drive.google.com (307)</li>
 <li>feedly.com (296)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (245)</li>
+<li>qbo.intuit.com (241)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (235)</li>
-<li>qbo.intuit.com (234)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
 
 
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:41 macvim.org</li>
+<ul><li> 10:20 online.unity.co.uk</li>
+<li> 10:19 docs.google.com</li>
+<li> 10:19 drive.google.com</li>
+<li> 10:18 mail.google.com</li>
+<li> 10:17 drive.google.com</li>
+<li class='same'> 10:16 drive.google.com</li>
+<li> 10:14 mail.google.com</li>
+<li class='same'> 10:13 mail.google.com</li>
+<li> 10:13 ads.google.com</li>
+<li> 10:12 mail.google.com</li>
+<li> 10:10 qbo.intuit.com</li>
+<li class='same'> 10:07 qbo.intuit.com</li>
+<li class='same'> 10:06 qbo.intuit.com</li>
+<li> 10:03 quickbooks.intuit.com</li>
+<li class='same'> 10:02 quickbooks.intuit.com</li>
+<li> 10:02 qbo.intuit.com</li>
+<li class='same'> 10:01 qbo.intuit.com</li>
+<li> 10:01 quickbooks.intuit.com</li>
+<li> 10:01 duckduckgo.com</li>
+<li> 10:00 qbo.intuit.com</li>
+<li class='same'> 09:59 qbo.intuit.com</li>
+<li> 09:59 app.qbo.intuit.com</li>
+<li> 09:59 accounts.intuit.com</li>
+<li> 09:59 c14.qbo.intuit.com</li>
+<li> 09:59 mail.google.com</li>
+<li> 09:59 gmail.com</li>
+<li> 09:58 ce0997li.webitrent.com</li>
+<li> 09:55 chatgpt.com</li>
+<li> 09:55 chat.openai.com</li>
+<li> 09:52 calendar.google.com</li>
+<li> 09:52 ce0997li.webitrent.com</li>
+<li class='same'> 09:49 ce0997li.webitrent.com</li>
+<li> 09:45 mail.google.com</li>
+<li class='same'> 09:44 mail.google.com</li>
+<li> 09:44 ce0997li.webitrent.com</li>
+<li class='same'> 09:43 ce0997li.webitrent.com</li>
+<li> 09:41 macvim.org</li>
 <li> 09:41 duckduckgo.com</li>
 <li> 09:40 ce0997li.webitrent.com</li>
 <li> 09:40 eu-west.azureauth.duosecurity.com</li>
@@ -152,6 +188,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:54 mail.google.com</li>
 <li> 08:53 chatgpt.com</li>
 <li> 08:53 chat.openai.com</li>
+<li> 08:51 <a href="https://www.bbc.co.uk/news/articles/cy4ymj00px7o">More Labour MPs join benefit revolt despite ministers' appeals - BBC News</a></li>
 <li> 08:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:51 <a href="https://www.theguardian.com/">Denis Villeneuve to direct new James Bond film | James Bond | The Guardian</a></li>
 <li> 08:42 fast.com</li>
@@ -49272,6 +49309,7 @@ With number of accesses/minutes in parentheses
 <li> 09:19 andsoshethinks.co.uk</li>
 <li> 09:18 www.pcspecialist.co.uk</li>
 <li class='same'> 09:17 www.pcspecialist.co.uk</li>
+<li> 09:11 ads.google.com</li>
 <li> 08:58 www.amazon.co.uk</li>
 <li> 08:51 idam-ui.company-information.service.gov.uk</li>
 <li> 08:45 www.amazon.co.uk</li>
@@ -51142,6 +51180,7 @@ With number of accesses/minutes in parentheses
 <li> 11:27 github.com</li>
 <li> 11:26 kdpreports.amazon.com</li>
 <li> 11:12 www.facebook.com</li>
+<li> 11:09 ads.google.com</li>
 <li> 11:07 mail.google.com</li>
 </ul>
 
@@ -51345,6 +51384,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:39 www.royalholloway.ac.uk</li>
+<li> 13:32 ads.google.com</li>
 </ul>
 
 <br>
@@ -52513,6 +52553,7 @@ With number of accesses/minutes in parentheses
 <li> 06:16 docs.google.com</li>
 <li class='same'> 06:15 docs.google.com</li>
 <li> 06:15 drive.google.com</li>
+<li> 06:15 ads.google.com</li>
 </ul>
 
 <H3>Monday, 20/05/24</H3>
@@ -53239,7 +53280,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:12 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
+<ul><li> 09:24 ads.google.com</li>
+<li> 09:12 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -54156,11 +54198,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:45 www.facebook.com</li>
 <li class='same'> 07:38 www.facebook.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:00 www.lutongymnastics.co.uk</li>
+<li> 07:21 ads.google.com</li>
+<li> 07:00 www.lutongymnastics.co.uk</li>
 <li class='same'> 06:58 www.lutongymnastics.co.uk</li>
 </ul>
 
@@ -55795,6 +55834,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:43 github.com</li>
+<li> 07:32 ads.google.com</li>
 <li> 07:31 www.spotify.com</li>
 <li> 07:30 open.spotify.com</li>
 <li> 07:03 www.lutongymnastics.co.uk</li>
@@ -57880,6 +57920,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:31 ads.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:46 docs.google.com</li>
 <li> 13:46 drive.google.com</li>
 </ul>
@@ -58016,11 +58061,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:53 equalitytime.github.io</li>
 <li> 07:46 twitter.com</li>
 <li> 07:19 analytics.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 06:48 www.facebook.com</li>
+<li> 07:10 ads.google.com</li>
+<li> 06:48 www.facebook.com</li>
 </ul>
 
 <H3>Wednesday, 15/11/23</H3>
@@ -58120,11 +58162,8 @@ With number of accesses/minutes in parentheses
 <li> 15:53 calendar.google.com</li>
 <li> 15:50 docs.google.com</li>
 <li> 15:23 github.com</li>
-</ul>
-
-<br>
-
-<ul><li> 14:35 drive.google.com</li>
+<li> 14:58 ads.google.com</li>
+<li> 14:35 drive.google.com</li>
 <li> 14:27 fritz.box</li>
 <li> 14:22 drive.google.com</li>
 <li> 14:08 accounts.firefox.com</li>
@@ -58759,7 +58798,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:46 andsoshethinks.co.uk</li>
+<ul><li> 09:47 ads.google.com</li>
+<li> 09:46 andsoshethinks.co.uk</li>
 <li> 09:45 www.amazon.co.uk</li>
 </ul>
 
@@ -59170,11 +59210,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:34 www.lutongymnastics.co.uk</li>
 <li class='same'> 07:31 www.lutongymnastics.co.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 07:01 mail.google.com</li>
+<li> 07:23 ads.google.com</li>
+<li> 07:01 mail.google.com</li>
 <li> 06:50 www.thedailymash.co.uk</li>
 <li> 06:25 forum.artofmemory.com</li>
 </ul>
@@ -59363,6 +59400,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:10 www.giantitp.com</li>
 <li> 19:00 www.google.com</li>
+<li> 18:39 ads.google.com</li>
 </ul>
 
 <br>
@@ -59678,6 +59716,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:47 www.tightrope.co.uk</li>
+<li> 13:43 ads.google.com</li>
 </ul>
 
 <br>
@@ -59769,6 +59808,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:28 ads.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 10:10 whitewaterwriters.com</li>
 <li class='same'> 09:43 whitewaterwriters.com</li>
 <li class='same'> 09:35 whitewaterwriters.com</li>
@@ -59801,6 +59845,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 22:32 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 15:41 ads.google.com</li>
 </ul>
 
 <br>
@@ -59915,6 +59964,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:21 www.instagram.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:21 ads.google.com</li>
 </ul>
 
 <br>
@@ -60830,11 +60884,12 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 12:40 github.com</li>
 <li class='same'> 12:39 github.com</li>
 <li class='same'> 12:37 github.com</li>
+<li> 12:29 ads.google.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 11:21 github.com</li>
+<ul><li> 11:21 github.com</li>
 <li class='same'> 10:57 github.com</li>
 <li class='same'> 10:56 github.com</li>
 <li> 10:50 staffprofiles.bournemouth.ac.uk</li>
@@ -62148,6 +62203,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:16 analytics.google.com</li>
+<li> 15:09 ads.google.com</li>
 </ul>
 
 <br>
