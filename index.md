@@ -71,9 +71,9 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3289)</li>
 <li>mail.google.com (3047)</li>
 <li>outlook.office.com (2851)</li>
-<li>docs.google.com (2102)</li>
+<li>docs.google.com (2104)</li>
 <li>outlook.office365.com (2069)</li>
-<li>www.reddit.com (2065)</li>
+<li>www.reddit.com (2067)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1423)</li>
 <li>duckduckgo.com (1269)</li>
@@ -88,10 +88,10 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (461)</li>
 <li>gmail.com (452)</li>
 <li>github.com (448)</li>
-<li>web.whatsapp.com (401)</li>
+<li>web.whatsapp.com (402)</li>
 <li>chat.openai.com (353)</li>
 <li>drive.google.com (308)</li>
-<li>feedly.com (296)</li>
+<li>feedly.com (298)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (247)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 26/06/25</H3>
+
+<br>
+
+<ul><li> 20:09 www.reddit.com</li>
+<li class='same'> 20:08 www.reddit.com</li>
+<li> 20:06 www.sfadb.com</li>
+<li> 20:05 web.whatsapp.com</li>
+<li> 20:05 feedly.com</li>
+<li> 20:05 docs.google.com</li>
+<li> 20:04 feedly.com</li>
+<li> 20:04 docs.google.com</li>
+</ul>
 
 <br>
 
