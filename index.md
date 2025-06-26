@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:15 <a href="https://xkcd.com/1918/">xkcd: NEXUS</a></li>
+<ul><li> 22:21 <a href="https://xkcd.com/636/">xkcd: Brontosaurus</a></li>
+<li> 22:21 <a href="https://xkcd.com/1110/">xkcd: Click and Drag</a></li>
+<li> 22:21 <a href="https://xkcd.com/2645/">xkcd: The Best Camera</a></li>
+<li> 22:21 <a href="https://xkcd.com/384/">xkcd: The Drake Equation</a></li>
+<li> 22:21 <a href="https://xkcd.com/984/">xkcd: Space Launch System</a></li>
+<li> 22:21 <a href="https://xkcd.com/1163/">xkcd: Debugger</a></li>
+<li> 22:20 <a href="https://xkcd.com/783/">xkcd: I Don't Want Directions</a></li>
+<li> 22:20 <a href="https://xkcd.com/1981/">xkcd: Rickrolling Anniversary</a></li>
+<li> 22:20 <a href="https://xkcd.com/2051/">xkcd: Bad Opinions</a></li>
+<li> 22:20 <a href="https://xkcd.com/2957/">xkcd: A Crossword Puzzle</a></li>
+<li> 22:20 <a href="https://xkcd.com/3017/">xkcd: Neutrino Modem</a></li>
+<li> 22:19 <a href="https://xkcd.com/2177/">xkcd: Gastroenterology</a></li>
+<li> 22:19 <a href="https://xkcd.com/1268/">xkcd: Alternate Universe</a></li>
+<li> 22:19 <a href="https://xkcd.com/2893/">xkcd: Sphere Tastiness</a></li>
+<li> 22:19 <a href="https://xkcd.com/898/">xkcd: Chain of Command</a></li>
+<li> 22:19 <a href="https://xkcd.com/2941/">xkcd: Cell Organelles</a></li>
+<li> 22:19 <a href="https://xkcd.com/676/">xkcd: Abstraction</a></li>
+<li> 22:19 <a href="https://xkcd.com/2024/">xkcd: Light Hacks</a></li>
+<li> 22:18 <a href="https://xkcd.com/478/">xkcd: The Staple Madness</a></li>
+<li> 22:18 <a href="https://xkcd.com/1504/">xkcd: Opportunity</a></li>
+<li> 22:18 <a href="https://xkcd.com/661/">xkcd: Two-Party System</a></li>
+<li> 22:18 <a href="https://xkcd.com/671/">xkcd: Stephen and Me</a></li>
+<li> 22:17 <a href="https://xkcd.com/1489/">xkcd: Fundamental Forces</a></li>
+<li> 22:17 <a href="https://xkcd.com/780/">xkcd: Sample</a></li>
+<li> 22:17 <a href="https://xkcd.com/614/">xkcd: Woodpecker</a></li>
+<li> 22:17 <a href="https://xkcd.com/2740/">xkcd: Square Packing</a></li>
+<li> 22:17 <a href="https://xkcd.com/2821/">xkcd: Path Minimization</a></li>
+<li> 22:17 <a href="https://xkcd.com/2549/">xkcd: Edge Cake</a></li>
+<li> 22:16 <a href="https://xkcd.com/1813/">xkcd: Vomiting Emoji</a></li>
+<li> 22:16 <a href="https://xkcd.com/2347/">xkcd: Dependency</a></li>
+<li> 22:16 <a href="https://xkcd.com/375/">xkcd: Pod Bay Doors</a></li>
+<li> 22:16 <a href="https://xkcd.com/2678/">xkcd: Wing Lift</a></li>
+<li> 22:15 <a href="https://xkcd.com/1464/">xkcd: Santa</a></li>
+<li> 22:15 <a href="https://xkcd.com/3067/">xkcd: SawStart</a></li>
+<li> 22:15 <a href="https://xkcd.com/1918/">xkcd: NEXUS</a></li>
 <li> 22:15 <a href="https://xkcd.com/6/">xkcd: Irony</a></li>
 <li> 22:15 <a href="https://xkcd.com/2401/">xkcd: Conjunction</a></li>
 <li> 22:15 <a href="https://xkcd.com/2306/">xkcd: Common Cold</a></li>
@@ -48414,6 +48448,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 11:52 chatgpt.com</li>
 <li> 11:42 docs.google.com</li>
+<li> 11:21 <a href="https://xkcd.com/2941/">xkcd: Cell Organelles</a></li>
+<li> 11:20 <a href="https://xkcd.com/2957/">xkcd: A Crossword Puzzle</a></li>
 <li> 11:20 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
 <li> 11:18 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 11:18 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
@@ -50352,7 +50388,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:46 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
+<ul><li> 12:47 <a href="https://xkcd.com/2957/">xkcd: A Crossword Puzzle</a></li>
+<li> 12:46 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 12:45 www.google.com</li>
 <li> 12:29 www.amazon.co.uk</li>
 <li> 12:28 kdpreports.amazon.com</li>
@@ -51453,6 +51490,7 @@ With number of accesses/minutes in parentheses
 <li> 11:16 outlook.office365.com</li>
 <li class='same'> 11:14 outlook.office365.com</li>
 <li class='same'> 11:10 outlook.office365.com</li>
+<li> 11:09 <a href="https://xkcd.com/2941/">xkcd: Cell Organelles</a></li>
 <li> 11:08 <a href="https://xkcd.com/">xkcd: Weather Balloons</a></li>
 <li> 11:04 www.paypal.com</li>
 <li class='same'> 10:59 www.paypal.com</li>
@@ -54556,7 +54594,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:14 <a href="https://xkcd.com/2896/">xkcd: Crossword Constructors</a></li>
+<ul><li> 18:14 <a href="https://xkcd.com/2893/">xkcd: Sphere Tastiness</a></li>
+<li> 18:14 <a href="https://xkcd.com/2896/">xkcd: Crossword Constructors</a></li>
 </ul>
 
 <br>
