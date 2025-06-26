@@ -69,33 +69,33 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3281)</li>
-<li>mail.google.com (3013)</li>
+<li>mail.google.com (3025)</li>
 <li>outlook.office.com (2850)</li>
 <li>docs.google.com (2092)</li>
 <li>outlook.office365.com (2061)</li>
 <li>www.reddit.com (2045)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1423)</li>
-<li>duckduckgo.com (1265)</li>
+<li>duckduckgo.com (1266)</li>
 <li>chatgpt.com (859)</li>
 <li>www.amazon.co.uk (776)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (581)</li>
+<li>calendar.google.com (583)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>www.linkedin.com (526)</li>
 <li>login.microsoftonline.com (494)</li>
-<li>rhul-my.sharepoint.com (487)</li>
+<li>rhul-my.sharepoint.com (488)</li>
 <li>tvtropes.org (460)</li>
 <li>github.com (448)</li>
 <li>gmail.com (448)</li>
-<li>web.whatsapp.com (399)</li>
+<li>web.whatsapp.com (401)</li>
 <li>chat.openai.com (353)</li>
 <li>drive.google.com (307)</li>
 <li>feedly.com (296)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (245)</li>
-<li>qbo.intuit.com (241)</li>
+<li>qbo.intuit.com (242)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (235)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
 
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:20 online.unity.co.uk</li>
+<ul><li> 11:39 www.ncsc.gov.uk</li>
+<li> 11:35 accounts.intuit.com</li>
+<li> 11:32 mail.google.com</li>
+<li class='same'> 11:31 mail.google.com</li>
+<li class='same'> 11:26 mail.google.com</li>
+<li> 11:24 www.paypal.com</li>
+<li class='same'> 11:23 www.paypal.com</li>
+<li> 11:23 mail.google.com</li>
+<li> 11:23 web.whatsapp.com</li>
+<li> 11:22 fast.com</li>
+<li> 11:22 www.paypal.com</li>
+<li class='same'> 11:21 www.paypal.com</li>
+<li> 11:21 mail.google.com</li>
+<li> 11:00 rhul-my.sharepoint.com</li>
+<li> 10:59 mail.google.com</li>
+<li class='same'> 10:58 mail.google.com</li>
+<li class='same'> 10:53 mail.google.com</li>
+<li class='same'> 10:52 mail.google.com</li>
+<li> 10:52 calendar.google.com</li>
+<li class='same'> 10:51 calendar.google.com</li>
+<li> 10:51 mail.google.com</li>
+<li class='same'> 10:44 mail.google.com</li>
+<li> 10:35 qbo.intuit.com</li>
+<li> 10:35 c14.qbo.intuit.com</li>
+<li> 10:35 app.qbo.intuit.com</li>
+<li> 10:35 mail.google.com</li>
+<li> 10:34 web.whatsapp.com</li>
+<li> 10:34 www.unity.co.uk</li>
+<li> 10:34 duckduckgo.com</li>
+<li> 10:20 online.unity.co.uk</li>
 <li> 10:19 docs.google.com</li>
 <li> 10:19 drive.google.com</li>
 <li> 10:18 mail.google.com</li>
@@ -51269,7 +51298,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:50 drive.google.com</li>
 <li> 13:39 mail.google.com</li>
 <li> 13:26 accounts.google.com</li>
-<li> 13:22 www.paypal.com</li>
+<li> 13:24 www.paypal.com</li>
+<li class='same'> 13:23 www.paypal.com</li>
+<li class='same'> 13:22 www.paypal.com</li>
 <li class='same'> 13:21 www.paypal.com</li>
 <li> 13:03 www.dropbox.com</li>
 </ul>
@@ -61224,6 +61255,8 @@ With number of accesses/minutes in parentheses
 <li> 12:12 accounts.google.co.uk</li>
 <li> 12:05 equalitytime.github.io</li>
 <li class='same'> 11:59 equalitytime.github.io</li>
+<li> 11:53 www.paypal.com</li>
+<li class='same'> 11:52 www.paypal.com</li>
 <li> 11:29 127.0.0.1:4000</li>
 <li> 11:14 equalitytime.github.io</li>
 <li> 11:03 www.tightrope.co.uk</li>
