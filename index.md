@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3262)</li>
-<li>mail.google.com (2989)</li>
+<li>mail.google.com (2996)</li>
 <li>outlook.office.com (2850)</li>
 <li>docs.google.com (2084)</li>
-<li>outlook.office365.com (2056)</li>
-<li>www.reddit.com (2021)</li>
+<li>outlook.office365.com (2060)</li>
+<li>www.reddit.com (2022)</li>
 <li>bsky.app (1579)</li>
-<li>www.facebook.com (1422)</li>
+<li>www.facebook.com (1423)</li>
 <li>duckduckgo.com (1258)</li>
 <li>chatgpt.com (855)</li>
-<li>www.amazon.co.uk (773)</li>
+<li>www.amazon.co.uk (775)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (574)</li>
+<li>calendar.google.com (578)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
-<li>www.linkedin.com (525)</li>
+<li>www.linkedin.com (526)</li>
 <li>login.microsoftonline.com (493)</li>
 <li>rhul-my.sharepoint.com (487)</li>
 <li>tvtropes.org (460)</li>
 <li>github.com (448)</li>
-<li>gmail.com (445)</li>
-<li>web.whatsapp.com (396)</li>
+<li>gmail.com (446)</li>
+<li>web.whatsapp.com (397)</li>
 <li>chat.openai.com (350)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (245)</li>
 <li>qbo.intuit.com (234)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (232)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (233)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
 
 
@@ -104,7 +104,50 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 26/06/25</H3>
+
+<br>
+
+<ul><li> 07:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:39 <a href="https://www.bbc.co.uk/news/articles/cy4ymj00px7o">More Labour MPs join benefit revolt despite ministers' appeals - BBC News</a></li>
+</ul>
+
+<br>
+
+<ul><li> 06:54 mail.google.com</li>
+<li> 06:54 www.facebook.com</li>
+<li> 06:53 www.linkedin.com</li>
+<li> 06:53 mail.google.com</li>
+<li> 06:52 <a href="https://joereddington.com/2025/06/24/gratitude.html">Gratitude | Joe Reddington</a></li>
+<li> 06:52 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:52 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 06:52 mail.google.com</li>
+<li> 06:51 www.jobs.ac.uk</li>
+<li> 06:51 mail.google.com</li>
+<li> 06:51 outlook.office365.com</li>
+<li> 06:50 www.amazon.co.uk</li>
+<li class='same'> 06:49 www.amazon.co.uk</li>
+<li> 06:48 mail.google.com</li>
+<li> 06:48 outlook.office365.com</li>
+<li> 06:47 web.whatsapp.com</li>
+<li> 06:47 www.reddit.com</li>
+<li> 06:47 mail.google.com</li>
+<li class='same'> 06:46 mail.google.com</li>
+<li> 06:46 gmail.com</li>
+<li> 06:46 calendar.google.com</li>
+<li class='same'> 06:45 calendar.google.com</li>
+<li> 06:45 doodle.com</li>
+<li> 06:45 outlook.office365.com</li>
+<li> 06:45 calendar.google.com</li>
+<li class='same'> 06:44 calendar.google.com</li>
+<li> 06:44 outlook.office365.com</li>
+</ul>
+
 <H3>Wednesday, 25/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -451,6 +494,9 @@ With number of accesses/minutes in parentheses
 <li> 11:15 www.reddit.com</li>
 <li class='same'> 11:13 www.reddit.com</li>
 <li class='same'> 11:12 www.reddit.com</li>
+<li> 11:09 <a href="https://www.bbc.co.uk/news/articles/cy4ymj00px7o">More Labour MPs join benefit revolt despite ministers' appeals - BBC News</a></li>
+<li> 11:09 www.manchestereveningnews.co.uk</li>
+<li> 11:09 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 11:09 www.google.com</li>
 <li> 11:09 <a href="https://www.bbc.co.uk/news/articles/cwyn2n44v9xo">Two women seriously hurt in attack involving crossbow in Leeds - BBC News</a></li>
 <li> 11:09 <a href="https://www.theguardian.com/tv-and-radio/article/2024/aug/14/the-life-and-tragic-death-of-john-balson-how-a-true-producer-documented-his-own-rising-horror">The life and tragic death of John Balson: how a true crime producer documented his own rising horror | Television & radio | The Guardian</a></li>
@@ -59396,7 +59442,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:05 <a href="https://xkcd.com/2825/">xkcd: Autumn and Fall</a></li>
+<ul><li> 15:05 <a href="https://xkcd.com/2819/">xkcd: Pronunciation</a></li>
+<li> 15:05 <a href="https://xkcd.com/2821/">xkcd: Path Minimization</a></li>
+<li> 15:05 <a href="https://xkcd.com/2825/">xkcd: Autumn and Fall</a></li>
 </ul>
 
 <br>
@@ -59601,6 +59649,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 14:02 <a href="https://xkcd.com/2819/">xkcd: Pronunciation</a></li>
+<li> 14:02 <a href="https://xkcd.com/2821/">xkcd: Path Minimization</a></li>
+</ul>
 
 <br>
 
@@ -59940,6 +59994,7 @@ With number of accesses/minutes in parentheses
 <li> 20:12 www.homebase.co.uk</li>
 <li> 20:02 www.diy.com</li>
 <li> 19:53 www.facebook.com</li>
+<li> 19:30 <a href="https://xkcd.com/2819/">xkcd: Pronunciation</a></li>
 </ul>
 
 <H3>Friday, 25/08/23</H3>
