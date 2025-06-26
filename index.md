@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3262)</li>
-<li>mail.google.com (2996)</li>
+<ol><li>www.google.com (3279)</li>
+<li>mail.google.com (2998)</li>
 <li>outlook.office.com (2850)</li>
 <li>docs.google.com (2084)</li>
-<li>outlook.office365.com (2060)</li>
-<li>www.reddit.com (2022)</li>
+<li>outlook.office365.com (2061)</li>
+<li>www.reddit.com (2045)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1423)</li>
-<li>duckduckgo.com (1258)</li>
-<li>chatgpt.com (855)</li>
+<li>duckduckgo.com (1261)</li>
+<li>chatgpt.com (857)</li>
 <li>www.amazon.co.uk (775)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (578)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (487)</li>
 <li>tvtropes.org (460)</li>
 <li>github.com (448)</li>
-<li>gmail.com (446)</li>
-<li>web.whatsapp.com (397)</li>
-<li>chat.openai.com (350)</li>
+<li>gmail.com (447)</li>
+<li>web.whatsapp.com (398)</li>
+<li>chat.openai.com (351)</li>
 <li>drive.google.com (303)</li>
 <li>feedly.com (296)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 08:38 web.whatsapp.com</li>
+<li> 08:36 mail.google.com</li>
+<li> 08:36 gmail.com</li>
+<li> 08:30 duckduckgo.com</li>
+<li class='same'> 08:29 duckduckgo.com</li>
+<li> 08:25 chatgpt.com</li>
+<li class='same'> 08:24 chatgpt.com</li>
+<li> 08:24 chat.openai.com</li>
+<li> 08:21 www.reddit.com</li>
+<li class='same'> 08:20 www.reddit.com</li>
+<li> 08:18 duckduckgo.com</li>
+<li> 08:18 outlook.office365.com</li>
+<li> 08:17 mail.google.com</li>
+<li> 08:07 www.reddit.com</li>
+<li class='same'> 07:49 www.reddit.com</li>
+<li class='same'> 07:48 www.reddit.com</li>
+<li class='same'> 07:47 www.reddit.com</li>
+<li> 07:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:39 <a href="https://www.bbc.co.uk/news/articles/cy4ymj00px7o">More Labour MPs join benefit revolt despite ministers' appeals - BBC News</a></li>
 </ul>
 
@@ -293,11 +310,46 @@ With number of accesses/minutes in parentheses
 <li> 21:25 mail.google.com</li>
 <li class='same'> 21:24 mail.google.com</li>
 <li> 21:23 docs.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 20:26 www.google.com</li>
+<li> 21:17 www.reddit.com</li>
+<li> 21:17 www.google.com</li>
+<li> 21:17 www.reddit.com</li>
+<li class='same'> 21:16 www.reddit.com</li>
+<li> 21:16 www.google.com</li>
+<li> 21:15 www.reddit.com</li>
+<li> 21:15 www.google.com</li>
+<li> 21:13 www.reddit.com</li>
+<li> 21:13 www.google.com</li>
+<li> 21:13 accounts.google.com</li>
+<li> 21:13 www.google.com</li>
+<li> 21:13 www.reddit.com</li>
+<li class='same'> 20:45 www.reddit.com</li>
+<li class='same'> 20:44 www.reddit.com</li>
+<li> 20:43 www.google.com</li>
+<li> 20:41 www.reddit.com</li>
+<li> 20:41 www.google.com</li>
+<li> 20:39 www.reddit.com</li>
+<li> 20:39 www.google.com</li>
+<li> 20:37 www.sainsburys.co.uk</li>
+<li class='same'> 20:36 www.sainsburys.co.uk</li>
+<li> 20:36 www.google.com</li>
+<li class='same'> 20:35 www.google.com</li>
+<li> 20:34 www.reddit.com</li>
+<li> 20:34 www.google.com</li>
+<li> 20:34 www.reddit.com</li>
+<li> 20:34 www.google.com</li>
+<li> 20:32 www.skittles.co.uk</li>
+<li> 20:32 www.google.com</li>
+<li> 20:32 swizzels.com</li>
+<li> 20:32 www.google.com</li>
+<li> 20:28 www.reddit.com</li>
+<li> 20:28 www.google.com</li>
+<li> 20:28 www.reddit.com</li>
+<li class='same'> 20:27 www.reddit.com</li>
+<li> 20:26 www.google.com</li>
+<li> 20:26 www.reddit.com</li>
+<li> 20:26 www.google.com</li>
+<li> 20:26 www.reddit.com</li>
+<li> 20:26 www.google.com</li>
 <li> 20:20 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li class='same'> 20:18 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 20:18 www.google.com</li>
@@ -61336,6 +61388,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 05:57 www.reddit.com</li>
 <li> 05:39 whitewaterwriters.com</li>
+<li> 05:31 <a href="https://xkcd.com/565/">xkcd: Security Question</a></li>
 </ul>
 
 <H3>Monday, 19/06/23</H3>
@@ -61589,15 +61642,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:13 <a href="https://xkcd.com/579/">xkcd: The Race: Part 3</a></li>
+</ul>
+
+<br>
+
 <ul><li> 13:23 <a href="https://xkcd.com/1672/">xkcd: Women on 20s</a></li>
 <li> 13:23 <a href="https://xkcd.com/2150/">xkcd: XKeyboarCD</a></li>
 <li> 13:20 <a href="https://xkcd.com/1979/">xkcd: History</a></li>
 <li> 13:20 <a href="https://xkcd.com/7/">xkcd: Girl sleeping (Sketch -- 11th grade Spanish class)</a></li>
+<li> 13:16 <a href="https://xkcd.com/2326/">xkcd: Five Word Jargon</a></li>
+<li> 13:15 <a href="https://xkcd.com/545/">xkcd: Neutrality Schmeutrality</a></li>
+<li> 13:10 <a href="https://xkcd.com/2237/">xkcd: AI Hiring Algorithm</a></li>
+<li> 13:10 <a href="https://xkcd.com/1123/">xkcd: The Universal Label</a></li>
 </ul>
 
 <br>
 
 <ul><li> 12:31 <a href="https://xkcd.com/1194/">xkcd: Stratigraphic Record</a></li>
+<li> 12:30 <a href="https://xkcd.com/636/">xkcd: Brontosaurus</a></li>
 </ul>
 
 <br>
@@ -61715,7 +61778,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 11:15 mail.google.com</li>
+<ul><li> 12:34 <a href="https://xkcd.com/1038/">xkcd: Fountain</a></li>
+</ul>
+
+<br>
+
+<ul><li> 11:15 mail.google.com</li>
 <li> 11:12 drive.google.com</li>
 <li> 10:50 github.com</li>
 </ul>
