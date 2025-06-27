@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3297)</li>
+<ol><li>www.google.com (3298)</li>
 <li>mail.google.com (3074)</li>
 <li>outlook.office.com (2851)</li>
-<li>docs.google.com (2113)</li>
-<li>www.reddit.com (2085)</li>
+<li>docs.google.com (2115)</li>
+<li>www.reddit.com (2090)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
-<li>www.facebook.com (1423)</li>
-<li>duckduckgo.com (1288)</li>
+<li>www.facebook.com (1424)</li>
+<li>duckduckgo.com (1295)</li>
 <li>chatgpt.com (868)</li>
 <li>www.amazon.co.uk (781)</li>
 <li>www.theguardian.com (685)</li>
@@ -94,8 +94,8 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (298)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (249)</li>
 <li>rhul.sharepoint.com (247)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (247)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
 
@@ -105,6 +105,36 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 27/06/25</H3>
+
+<br>
+
+<ul><li> 18:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:04 <a href="https://www.theguardian.com/">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
+<li> 18:04 <a href="https://www.theguardian.com/commentisfree/2025/jun/27/anna-wintour-super-rich-lauren-sanchez-jeff-bezos-vogue">Anna Wintour has spent decades dictating a certain look for the super-rich. Then along came Lauren | Marina Hyde | The Guardian</a></li>
+<li> 17:45 www.facebook.com</li>
+<li> 17:45 nicetutor.co.uk</li>
+<li> 17:44 musicteachers.co.uk</li>
+<li> 17:44 duckduckgo.com</li>
+<li> 17:44 www.fiverr.com</li>
+<li> 17:44 www.italki.com</li>
+<li> 17:43 duckduckgo.com</li>
+<li> 17:42 www.reddit.com</li>
+<li> 17:42 duckduckgo.com</li>
+<li> 17:42 preply.com</li>
+<li class='same'> 17:41 preply.com</li>
+<li> 17:41 duckduckgo.com</li>
+<li class='same'> 17:40 duckduckgo.com</li>
+<li> 17:40 www.fiverr.com</li>
+<li class='same'> 17:39 www.fiverr.com</li>
+<li> 17:39 www.reddit.com</li>
+<li class='same'> 17:38 www.reddit.com</li>
+<li class='same'> 17:37 www.reddit.com</li>
+<li> 17:37 duckduckgo.com</li>
+<li class='same'> 17:36 duckduckgo.com</li>
+<li> 17:36 docs.google.com</li>
+<li class='same'> 17:35 docs.google.com</li>
+<li> 17:34 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -124,6 +154,9 @@ With number of accesses/minutes in parentheses
 <li> 16:39 www.paypal.com</li>
 <li class='same'> 16:37 www.paypal.com</li>
 <li class='same'> 16:36 www.paypal.com</li>
+<li> 16:32 <a href="https://www.theguardian.com/commentisfree/2025/jun/27/anna-wintour-super-rich-lauren-sanchez-jeff-bezos-vogue">Anna Wintour has spent decades dictating a certain look for the super-rich. Then along came Lauren | Marina Hyde | The Guardian</a></li>
+<li> 16:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:31 www.google.com</li>
 <li> 16:29 www.reddit.com</li>
 <li class='same'> 16:26 www.reddit.com</li>
 <li> 16:26 duckduckgo.com</li>
