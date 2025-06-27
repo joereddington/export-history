@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3289)</li>
-<li>mail.google.com (3047)</li>
+<li>mail.google.com (3048)</li>
 <li>outlook.office.com (2851)</li>
 <li>docs.google.com (2108)</li>
 <li>outlook.office365.com (2069)</li>
 <li>www.reddit.com (2067)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1423)</li>
-<li>duckduckgo.com (1272)</li>
+<li>duckduckgo.com (1275)</li>
 <li>chatgpt.com (862)</li>
 <li>www.amazon.co.uk (777)</li>
 <li>www.theguardian.com (685)</li>
@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>login.microsoftonline.com (496)</li>
 <li>rhul-my.sharepoint.com (489)</li>
-<li>tvtropes.org (464)</li>
-<li>gmail.com (452)</li>
+<li>tvtropes.org (471)</li>
+<li>gmail.com (453)</li>
 <li>github.com (448)</li>
 <li>web.whatsapp.com (402)</li>
 <li>chat.openai.com (353)</li>
@@ -108,7 +108,67 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:35 tvtropes.org</li>
+<ul><li> 07:10 store.steampowered.com</li>
+<li class='same'> 07:09 store.steampowered.com</li>
+<li class='same'> 07:06 store.steampowered.com</li>
+<li class='same'> 07:05 store.steampowered.com</li>
+<li> 07:04 mail.google.com</li>
+<li> 07:04 gmail.com</li>
+<li> 07:03 store.steampowered.com</li>
+<li> 07:03 www.ranker.com</li>
+<li> 07:03 duckduckgo.com</li>
+<li> 07:01 tvtropes.org</li>
+<li> 06:55 <a href="https://en.wikipedia.org/wiki/Head_lice_infestation#/media/File:Riehl_Zumbusch_Tafel_XXVII_(1).jpg">Head lice infestation - Wikipedia</a></li>
+<li> 06:55 <a href="https://en.wikipedia.org/wiki/Head_lice_infestation#/media/File:Dont_Let_Lice_Make_A_Monkey_Out_Of_You.png">Riehl Zumbusch Tafel XXVII (1) - Head lice infestation - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/wiki/Head_lice_infestation#/media/File:Bugbuster.jpg">Dont Let Lice Make A Monkey Out Of You - Head lice infestation - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/wiki/Head_lice_infestation#/media/File:Headlice.jpg">Bugbuster - Head lice infestation - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/wiki/Head_lice_infestation#/media/File:Fig.4.Louse_bites.jpg">Headlice - Head lice infestation - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/wiki/Head_lice_infestation#/media/File:Riehl_Zumbusch_Tafel_XXVII_(1).jpg">Head lice infestation - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/wiki/Head_lice_infestation">Head lice infestation - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/wiki/Oviparous">Oviparity - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/wiki/Oviparity">Oviparity - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:PHTH_Pediculidae_Pediculus_humanus_capitis.png">Head louse - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Male_human_head_louse.jpg">PHTH Pediculidae Pediculus humanus capitis - Head louse - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Nuttall_1917_f11.gif">Male human head louse - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Pediculus_humanus_development.jpg">Nuttall 1917 f11 - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Anoplura_hatching.jpg">Pediculus humanus development - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Louse_Nit_Hatch_500X.jpg">Anoplura hatching - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Louse_Nit_Operculum_1000X.jpg">Louse Nit Hatch 100X - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Louse_Nit_Hatch_100X.jpg">Louse Nit Hatch 500X - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Louse_Nit_Sheath_1000X.jpg">Louse Nit Operculum 1000X - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Louse_Nit_150X.jpg">Louse Nit Sheath 1000X - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Pediculus_humanus_var_capitis.jpg">Head louse on human hair - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Head_louse_on_human_hair.jpg">Head louse egg 2 - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Head_louse_egg_2.jpg">Louse Nit 150X - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Fig._1._Male_of_head_louse.jpg">Pediculus humanus var capitis - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:PHTH_Pediculidae_Pediculus_humanus_capitis.png">Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Nuttall_1917_f11.gif">Male human head louse - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Male_human_head_louse.jpg">PHTH Pediculidae Pediculus humanus capitis - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Pediculus_humanus_development.jpg">Nuttall 1917 f11 - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Anoplura_hatching.jpg">Pediculus humanus development - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Louse_Nit_Operculum_1000X.jpg">Louse Nit Hatch 100X - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Louse_Nit_Hatch_500X.jpg">Anoplura hatching - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Louse_Nit_Hatch_100X.jpg">Louse Nit Hatch 500X - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Louse_Nit_Sheath_1000X.jpg">Louse Nit Operculum 1000X - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Louse_Nit_150X.jpg">Louse Nit Sheath 1000X - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Head_louse_on_human_hair.jpg">Head louse egg 2 - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Head_louse_egg_2.jpg">Louse Nit 150X - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Pediculus_humanus_var_capitis.jpg">Head louse on human hair - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Fig._1._Male_of_head_louse.jpg">Pediculus humanus var capitis - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:PHTH_Pediculidae_Pediculus_humanus_capitis.png">Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse#/media/File:Male_human_head_louse.jpg">PHTH Pediculidae Pediculus humanus capitis - Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse">Head louse - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Nit">Nit - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Nut">Nut - Wikipedia</a></li>
+<li> 06:42 tvtropes.org</li>
+<li class='same'> 06:41 tvtropes.org</li>
+<li class='same'> 06:38 tvtropes.org</li>
+<li> 06:38 duckduckgo.com</li>
+<li> 06:38 tvtropes.org</li>
+<li class='same'> 06:37 tvtropes.org</li>
+<li class='same'> 06:36 tvtropes.org</li>
+<li> 06:36 duckduckgo.com</li>
+<li> 06:35 tvtropes.org</li>
 <li class='same'> 06:32 tvtropes.org</li>
 <li class='same'> 06:31 tvtropes.org</li>
 <li> 06:31 duckduckgo.com</li>
