@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:10 store.steampowered.com</li>
+<ul><li> 07:12 store.steampowered.com</li>
+<li class='same'> 07:11 store.steampowered.com</li>
+<li class='same'> 07:10 store.steampowered.com</li>
 <li class='same'> 07:09 store.steampowered.com</li>
 <li class='same'> 07:06 store.steampowered.com</li>
 <li class='same'> 07:05 store.steampowered.com</li>
