@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3289)</li>
 <li>mail.google.com (3047)</li>
 <li>outlook.office.com (2851)</li>
-<li>docs.google.com (2104)</li>
+<li>docs.google.com (2108)</li>
 <li>outlook.office365.com (2069)</li>
 <li>www.reddit.com (2067)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1423)</li>
-<li>duckduckgo.com (1269)</li>
-<li>chatgpt.com (859)</li>
+<li>duckduckgo.com (1272)</li>
+<li>chatgpt.com (862)</li>
 <li>www.amazon.co.uk (777)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (585)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>login.microsoftonline.com (496)</li>
 <li>rhul-my.sharepoint.com (489)</li>
-<li>tvtropes.org (461)</li>
+<li>tvtropes.org (464)</li>
 <li>gmail.com (452)</li>
 <li>github.com (448)</li>
 <li>web.whatsapp.com (402)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (247)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (243)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (244)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
 
@@ -104,7 +104,43 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 27/06/25</H3>
+
+<br>
+
+<ul><li> 06:35 tvtropes.org</li>
+<li class='same'> 06:32 tvtropes.org</li>
+<li class='same'> 06:31 tvtropes.org</li>
+<li> 06:31 duckduckgo.com</li>
+<li> 06:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:28 <a href="https://www.theguardian.com/">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
+<li> 06:27 duckduckgo.com</li>
+<li> 06:13 <a href="https://en.wikipedia.org/wiki/Elementary_charge">Elementary charge - Wikipedia</a></li>
+<li class='same'> 06:10 <a href="https://en.wikipedia.org/wiki/Elementary_charge">Elementary charge - Wikipedia</a></li>
+<li> 06:09 <a href="https://en.wikipedia.org/wiki/Bohr_magneton">Bohr magneton - Wikipedia</a></li>
+<li> 06:08 <a href="https://en.wikipedia.org/wiki/Nuclear_magneton">Nuclear magneton - Wikipedia</a></li>
+<li> 06:07 duckduckgo.com</li>
+<li> 06:03 forum.artofmemory.com</li>
+<li class='same'> 06:02 forum.artofmemory.com</li>
+<li> 06:02 artofmemory.com</li>
+<li> 06:01 chatgpt.com</li>
+<li class='same'> 06:00 chatgpt.com</li>
+<li class='same'> 05:59 chatgpt.com</li>
+<li> 05:55 docs.google.com</li>
+<li class='same'> 05:52 docs.google.com</li>
+<li class='same'> 05:51 docs.google.com</li>
+</ul>
+
 <H3>Thursday, 26/06/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:54 docs.google.com</li>
+</ul>
 
 <br>
 
