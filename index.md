@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3290)</li>
-<li>mail.google.com (3061)</li>
+<li>mail.google.com (3064)</li>
 <li>outlook.office.com (2851)</li>
-<li>docs.google.com (2110)</li>
-<li>www.reddit.com (2071)</li>
-<li>outlook.office365.com (2069)</li>
+<li>docs.google.com (2111)</li>
+<li>www.reddit.com (2073)</li>
+<li>outlook.office365.com (2071)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1423)</li>
-<li>duckduckgo.com (1279)</li>
+<li>duckduckgo.com (1282)</li>
 <li>chatgpt.com (867)</li>
-<li>www.amazon.co.uk (778)</li>
+<li>www.amazon.co.uk (779)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (585)</li>
-<li>www.linkedin.com (535)</li>
+<li>www.linkedin.com (537)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>login.microsoftonline.com (496)</li>
 <li>rhul-my.sharepoint.com (489)</li>
 <li>tvtropes.org (471)</li>
 <li>gmail.com (455)</li>
 <li>github.com (448)</li>
-<li>web.whatsapp.com (404)</li>
+<li>web.whatsapp.com (407)</li>
 <li>chat.openai.com (355)</li>
 <li>drive.google.com (312)</li>
 <li>feedly.com (298)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:28 www.reddit.com</li>
+<ul><li> 12:19 outlook.office365.com</li>
+<li class='same'> 12:18 outlook.office365.com</li>
+<li> 12:16 www.linkedin.com</li>
+<li class='same'> 12:15 www.linkedin.com</li>
+<li> 12:12 www.reddit.com</li>
+<li class='same'> 12:11 www.reddit.com</li>
+<li> 12:10 web.whatsapp.com</li>
+<li> 12:09 mail.google.com</li>
+<li class='same'> 12:03 mail.google.com</li>
+<li class='same'> 12:02 mail.google.com</li>
+<li> 11:57 online.unity.co.uk</li>
+<li> 11:54 web.whatsapp.com</li>
+<li class='same'> 11:53 web.whatsapp.com</li>
+<li> 11:53 www.amazon.co.uk</li>
+<li> 11:53 <a href="https://en.wikipedia.org/wiki/Uncharted:_The_Nathan_Drake_Collection">Uncharted: The Nathan Drake Collection - Wikipedia</a></li>
+<li> 11:52 duckduckgo.com</li>
+<li> 11:50 online.unity.co.uk</li>
+<li> 11:49 docs.google.com</li>
+<li> 11:49 online.unity.co.uk</li>
+<li class='same'> 11:48 online.unity.co.uk</li>
+<li class='same'> 11:44 online.unity.co.uk</li>
+<li class='same'> 11:43 online.unity.co.uk</li>
+<li> 11:42 www.knivesandtools.co.uk</li>
+<li> 11:42 duckduckgo.com</li>
+<li> 11:41 www.norfolksawservices.co.uk</li>
+<li> 11:41 duckduckgo.com</li>
+<li> 11:41 online.unity.co.uk</li>
+<li class='same'> 11:40 online.unity.co.uk</li>
+<li class='same'> 11:39 online.unity.co.uk</li>
+<li class='same'> 11:38 online.unity.co.uk</li>
+<li class='same'> 11:37 online.unity.co.uk</li>
+<li> 11:28 www.reddit.com</li>
 <li class='same'> 11:27 www.reddit.com</li>
 <li> 11:27 mail.google.com</li>
 <li> 11:23 equalitytime.github.io</li>
