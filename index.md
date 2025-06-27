@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3297)</li>
-<li>mail.google.com (3073)</li>
+<li>mail.google.com (3074)</li>
 <li>outlook.office.com (2851)</li>
 <li>docs.google.com (2112)</li>
-<li>www.reddit.com (2083)</li>
+<li>www.reddit.com (2085)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1423)</li>
-<li>duckduckgo.com (1286)</li>
+<li>duckduckgo.com (1288)</li>
 <li>chatgpt.com (868)</li>
 <li>www.amazon.co.uk (781)</li>
 <li>www.theguardian.com (685)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (247)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (246)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (247)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
 
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:38 web.whatsapp.com</li>
+<ul><li> 16:40 www.paypal.com</li>
+<li class='same'> 16:39 www.paypal.com</li>
+<li> 16:39 duckduckgo.com</li>
+<li> 16:39 www.paypal.com</li>
+<li class='same'> 16:37 www.paypal.com</li>
+<li class='same'> 16:36 www.paypal.com</li>
+<li> 16:29 www.reddit.com</li>
+<li class='same'> 16:26 www.reddit.com</li>
+<li> 16:26 duckduckgo.com</li>
+<li> 16:26 www.paypal.com</li>
+<li class='same'> 16:25 www.paypal.com</li>
+<li> 16:25 www.superprof.co.uk</li>
+<li> 16:25 www.paypal.com</li>
+<li> 16:24 www.superprof.co.uk</li>
+<li class='same'> 16:21 www.superprof.co.uk</li>
+<li class='same'> 16:19 www.superprof.co.uk</li>
+<li class='same'> 16:18 www.superprof.co.uk</li>
+<li> 16:18 accounts.google.com</li>
+<li> 16:15 <a href="https://www.youtube.com/watch?v=NFZGlfW7Qus">(581) Quick and easy setup for teaching piano lessons online - YouTube</a></li>
+<li> 16:14 <a href="https://www.youtube.com/results?search_query=+online+piano+lessons+example">(581) online piano lessons example - YouTube</a></li>
+<li> 16:14 <a href="https://www.youtube.com/results?search_query=how+to+do+online+piano+lessons">(581) how to do online piano lessons - YouTube</a></li>
+<li> 16:13 <a href="https://www.youtube.com/">(581) YouTube</a></li>
+<li> 16:13 www.superprof.co.uk</li>
+<li class='same'> 16:12 www.superprof.co.uk</li>
+<li class='same'> 16:11 www.superprof.co.uk</li>
+<li> 15:52 <a href="https://www.youtube.com/watch?v=c5ESCaJWqJo">(581) Honest Trailers | Drive - YouTube</a></li>
+<li> 15:52 <a href="https://www.youtube.com/results?search_query=honest+trailers">(581) honest trailers - YouTube</a></li>
+<li> 15:51 <a href="https://www.youtube.com/">(581) YouTube</a></li>
+<li> 15:51 <a href="https://www.theguardian.com/us-news/live/2025/jun/27/donald-trump-big-beautiful-bill-reworked-senate-us-politics-latest-updates-news">Three liberal supreme court justices dissent against ruling that limits power of judges to block Trump’s birthright citizenship order – live</a></li>
+<li> 15:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:50 <a href="https://www.theguardian.com/">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
+<li> 15:50 mail.google.com</li>
+<li> 15:38 web.whatsapp.com</li>
 <li> 15:38 <a href="https://www.youtube.com/watch?v=mtsabsZ4wG4&t=15s">(581) How To Play The Queen's Gambit - YouTube</a></li>
 <li> 15:38 <a href="https://www.youtube.com/results?search_query=queen%27s+gambit+opening+theory">(581) queen's gambit opening theory - YouTube</a></li>
 <li> 15:38 <a href="https://www.youtube.com/">(581) YouTube</a></li>
@@ -47389,7 +47421,9 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:36 calendar.google.com</li>
 <li> 10:14 www.ebay.co.uk</li>
 <li> 10:11 mail.google.com</li>
-<li> 10:01 www.paypal.com</li>
+<li> 10:06 www.paypal.com</li>
+<li class='same'> 10:02 www.paypal.com</li>
+<li class='same'> 10:01 www.paypal.com</li>
 <li> 09:46 www.amazon.co.uk</li>
 <li> 09:44 www.qiq.support</li>
 <li> 09:42 calendar.google.com</li>
@@ -52395,7 +52429,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:00 www.amazon.co.uk</li>
 <li class='same'> 15:59 www.amazon.co.uk</li>
-<li> 15:51 www.paypal.com</li>
+<li> 15:52 www.paypal.com</li>
+<li class='same'> 15:51 www.paypal.com</li>
 <li class='same'> 15:46 www.paypal.com</li>
 <li class='same'> 15:40 www.paypal.com</li>
 <li class='same'> 15:39 www.paypal.com</li>
@@ -61683,7 +61718,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:06 www.duolingo.com</li>
 <li class='same'> 15:04 www.duolingo.com</li>
 <li> 14:56 www.qiq.support</li>
-<li> 14:36 www.paypal.com</li>
+<li> 14:37 www.paypal.com</li>
+<li class='same'> 14:36 www.paypal.com</li>
 </ul>
 
 <br>
