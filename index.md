@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3290)</li>
+<ol><li>www.google.com (3296)</li>
 <li>mail.google.com (3064)</li>
 <li>outlook.office.com (2851)</li>
 <li>docs.google.com (2111)</li>
-<li>www.reddit.com (2073)</li>
+<li>www.reddit.com (2079)</li>
 <li>outlook.office365.com (2073)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1423)</li>
@@ -85,17 +85,17 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>login.microsoftonline.com (496)</li>
 <li>rhul-my.sharepoint.com (489)</li>
-<li>tvtropes.org (471)</li>
+<li>tvtropes.org (472)</li>
 <li>gmail.com (455)</li>
 <li>github.com (448)</li>
 <li>web.whatsapp.com (407)</li>
 <li>chat.openai.com (355)</li>
-<li>drive.google.com (312)</li>
+<li>drive.google.com (314)</li>
 <li>feedly.com (298)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li>rhul.sharepoint.com (247)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (244)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (246)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
 
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 27/06/25</H3>
+
+<br>
+
+<ul><li> 14:24 www.google.com</li>
+<li class='same'> 13:55 www.google.com</li>
+<li> 13:55 www.reddit.com</li>
+<li class='same'> 13:54 www.reddit.com</li>
+<li class='same'> 13:51 www.reddit.com</li>
+<li class='same'> 13:50 www.reddit.com</li>
+<li class='same'> 13:49 www.reddit.com</li>
+<li class='same'> 13:47 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -118,7 +130,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:11 www.reddit.com</li>
 <li> 12:10 web.whatsapp.com</li>
 <li> 12:09 mail.google.com</li>
-<li class='same'> 12:03 mail.google.com</li>
+<li> 12:08 www.google.com</li>
+<li> 12:04 tvtropes.org</li>
+<li> 12:04 www.google.com</li>
+<li> 12:03 mail.google.com</li>
 <li class='same'> 12:02 mail.google.com</li>
 <li> 11:57 online.unity.co.uk</li>
 <li> 11:54 web.whatsapp.com</li>
@@ -215,6 +230,11 @@ With number of accesses/minutes in parentheses
 <li> 09:18 chatgpt.com</li>
 <li class='same'> 09:16 chatgpt.com</li>
 <li> 09:16 chat.openai.com</li>
+<li> 08:53 www.google.com</li>
+<li class='same'> 08:52 www.google.com</li>
+<li> 08:52 <a href="https://www.theguardian.com/politics/2025/jun/26/starmer-aide-morgan-mcsweeney-labour-welfare-rebellion">Starmer aide Morgan McSweeney under fire after Labour welfare rebellion | Morgan McSweeney | The Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li class='same'> 08:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:51 www.google.com</li>
 </ul>
 
@@ -57580,6 +57600,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:09 challengeworks.org</li>
 <li> 06:49 app.governorhub.com</li>
 <li> 06:46 www.amazon.co.uk</li>
+<li> 06:42 forum.artofmemory.com</li>
 </ul>
 
 <H3>Monday, 18/12/23</H3>
@@ -57716,6 +57737,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:00 forum.artofmemory.com</li>
+<li class='same'> 17:58 forum.artofmemory.com</li>
 <li> 17:53 kdp.amazon.com</li>
 <li class='same'> 17:48 kdp.amazon.com</li>
 </ul>
@@ -58111,6 +58133,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:29 www.google.com</li>
 <li> 13:20 www.vimgolf.com</li>
+<li> 13:00 forum.artofmemory.com</li>
+<li class='same'> 12:53 forum.artofmemory.com</li>
+<li class='same'> 12:52 forum.artofmemory.com</li>
 <li> 12:51 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
 </ul>
 
@@ -58493,7 +58518,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:40 docs.google.com</li>
 <li class='same'> 14:32 docs.google.com</li>
-<li> 14:28 drive.google.com</li>
+<li> 14:29 drive.google.com</li>
+<li class='same'> 14:28 drive.google.com</li>
 </ul>
 
 <br>
@@ -58576,7 +58602,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:12 physics.nist.gov</li>
+<ul><li> 22:02 forum.artofmemory.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:14 forum.artofmemory.com</li>
+<li> 16:12 physics.nist.gov</li>
 <li> 15:53 calendar.google.com</li>
 <li> 15:50 docs.google.com</li>
 <li> 15:23 github.com</li>
@@ -58595,11 +58627,12 @@ With number of accesses/minutes in parentheses
 <li> 13:00 askubuntu.com</li>
 <li class='same'> 12:41 askubuntu.com</li>
 <li> 12:40 www.google.co.uk</li>
+<li> 12:37 drive.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 11:19 drive.google.com</li>
+<ul><li class='same'> 11:19 drive.google.com</li>
 </ul>
 
 <br>
@@ -58658,6 +58691,11 @@ With number of accesses/minutes in parentheses
 <li> 11:30 jobs.royalholloway.ac.uk</li>
 </ul>
 
+<br>
+
+<ul><li> 10:37 forum.artofmemory.com</li>
+</ul>
+
 <H3>Thursday, 09/11/23</H3>
 
 <br>
@@ -58667,6 +58705,16 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:33 discord.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:42 forum.artofmemory.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:12 forum.artofmemory.com</li>
 </ul>
 
 <br>
@@ -59647,7 +59695,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:09 scholar.google.com</li>
+<ul><li class='same'> 11:11 forum.artofmemory.com</li>
+<li> 11:09 scholar.google.com</li>
 </ul>
 
 <H3>Monday, 02/10/23</H3>
@@ -59879,6 +59928,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 14:03 forum.artofmemory.com</li>
+<li class='same'> 14:00 forum.artofmemory.com</li>
+<li class='same'> 13:59 forum.artofmemory.com</li>
+</ul>
 
 <br>
 
@@ -60453,7 +60509,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:11 account.buffer.com</li>
+<ul><li> 10:20 forum.artofmemory.com</li>
+<li> 10:11 account.buffer.com</li>
 <li class='same'> 10:10 account.buffer.com</li>
 <li> 10:10 publish.buffer.com</li>
 <li> 10:10 buffer.com</li>
