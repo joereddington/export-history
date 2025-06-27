@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3297)</li>
 <li>mail.google.com (3074)</li>
 <li>outlook.office.com (2851)</li>
-<li>docs.google.com (2112)</li>
+<li>docs.google.com (2113)</li>
 <li>www.reddit.com (2085)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:40 www.paypal.com</li>
+<ul><li> 16:52 www.typingtest.com</li>
+<li class='same'> 16:50 www.typingtest.com</li>
+<li class='same'> 16:49 www.typingtest.com</li>
+<li class='same'> 16:47 www.typingtest.com</li>
+<li> 16:45 www.paypal.com</li>
+<li> 16:45 www.typingtest.com</li>
+<li> 16:45 www.paypal.com</li>
+<li> 16:45 www.typingtest.com</li>
+<li class='same'> 16:44 www.typingtest.com</li>
+<li> 16:44 docs.google.com</li>
+<li> 16:40 www.paypal.com</li>
 <li class='same'> 16:39 www.paypal.com</li>
 <li> 16:39 duckduckgo.com</li>
 <li> 16:39 www.paypal.com</li>
