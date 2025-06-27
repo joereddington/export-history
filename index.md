@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3290)</li>
-<li>mail.google.com (3048)</li>
+<li>mail.google.com (3057)</li>
 <li>outlook.office.com (2851)</li>
 <li>docs.google.com (2109)</li>
 <li>outlook.office365.com (2069)</li>
 <li>www.reddit.com (2068)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1423)</li>
-<li>duckduckgo.com (1277)</li>
-<li>chatgpt.com (864)</li>
-<li>www.amazon.co.uk (777)</li>
+<li>duckduckgo.com (1278)</li>
+<li>chatgpt.com (866)</li>
+<li>www.amazon.co.uk (778)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (585)</li>
-<li>www.linkedin.com (530)</li>
+<li>www.linkedin.com (533)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>login.microsoftonline.com (496)</li>
 <li>rhul-my.sharepoint.com (489)</li>
 <li>tvtropes.org (471)</li>
-<li>gmail.com (453)</li>
+<li>gmail.com (455)</li>
 <li>github.com (448)</li>
-<li>web.whatsapp.com (402)</li>
-<li>chat.openai.com (354)</li>
-<li>drive.google.com (310)</li>
+<li>web.whatsapp.com (404)</li>
+<li>chat.openai.com (355)</li>
+<li>drive.google.com (312)</li>
 <li>feedly.com (298)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:34 one.google.com</li>
+<ul><li> 10:27 mail.google.com</li>
+<li class='same'> 10:26 mail.google.com</li>
+<li> 10:26 www.appealpcn.co.uk</li>
+<li> 10:21 chatgpt.com</li>
+<li> 10:19 mail.google.com</li>
+<li> 10:19 gmail.com</li>
+<li> 10:18 chatgpt.com</li>
+<li> 10:18 chat.openai.com</li>
+<li> 10:17 www.appealpcn.co.uk</li>
+<li class='same'> 10:16 www.appealpcn.co.uk</li>
+<li> 10:14 web.whatsapp.com</li>
+<li> 10:11 mail.google.com</li>
+<li> 10:10 eieio.games</li>
+<li> 10:10 discord.com</li>
+<li class='same'> 10:09 discord.com</li>
+<li> 10:09 www.linkedin.com</li>
+<li class='same'> 10:08 www.linkedin.com</li>
+<li class='same'> 10:07 www.linkedin.com</li>
+<li> 10:07 mail.google.com</li>
+<li> 10:07 www.amazon.co.uk</li>
+<li> 10:04 drive.google.com</li>
+<li> 10:02 mail.google.com</li>
+<li> 10:02 gmail.com</li>
+<li> 10:00 forum.artofmemory.com</li>
+<li class='same'> 09:59 forum.artofmemory.com</li>
+<li> 09:50 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+<li> 09:50 duckduckgo.com</li>
+<li> 09:48 forum.artofmemory.com</li>
+<li class='same'> 09:47 forum.artofmemory.com</li>
+<li class='same'> 09:46 forum.artofmemory.com</li>
+<li class='same'> 09:45 forum.artofmemory.com</li>
+<li> 09:45 online.unity.co.uk</li>
+<li> 09:45 forum.artofmemory.com</li>
+<li class='same'> 09:44 forum.artofmemory.com</li>
+<li class='same'> 09:43 forum.artofmemory.com</li>
+<li> 09:42 drive.google.com</li>
+<li> 09:42 artofmemory.com</li>
+<li> 09:41 web.whatsapp.com</li>
+<li> 09:40 online.unity.co.uk</li>
+<li> 09:39 mail.google.com</li>
+<li class='same'> 09:38 mail.google.com</li>
+<li class='same'> 09:37 mail.google.com</li>
+<li> 09:37 one.google.com</li>
+<li class='same'> 09:34 one.google.com</li>
 <li class='same'> 09:33 one.google.com</li>
 <li> 09:29 online.unity.co.uk</li>
 <li class='same'> 09:28 online.unity.co.uk</li>
@@ -49749,7 +49792,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:10 www.facebook.com</li>
-<li> 07:44 forum.artofmemory.com</li>
+<li> 07:50 forum.artofmemory.com</li>
+<li class='same'> 07:44 forum.artofmemory.com</li>
 <li> 07:44 kdpreports.amazon.com</li>
 <li> 07:18 mail.google.com</li>
 <li> 07:16 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
@@ -49942,7 +49986,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:54 forum.artofmemory.com</li>
+<ul><li> 09:55 forum.artofmemory.com</li>
+<li class='same'> 09:54 forum.artofmemory.com</li>
 <li> 09:54 artofmemory.com</li>
 <li> 09:54 kdpreports.amazon.com</li>
 <li class='same'> 09:53 kdpreports.amazon.com</li>
@@ -50025,7 +50070,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:28 forum.artofmemory.com</li>
+<ul><li> 15:29 forum.artofmemory.com</li>
+<li class='same'> 15:28 forum.artofmemory.com</li>
 <li> 15:28 artofmemory.com</li>
 </ul>
 
@@ -50060,6 +50106,7 @@ With number of accesses/minutes in parentheses
 <li> 07:21 www.magneticmemorymethod.com</li>
 <li> 07:19 forum.artofmemory.com</li>
 <li class='same'> 07:18 forum.artofmemory.com</li>
+<li class='same'> 07:16 forum.artofmemory.com</li>
 <li class='same'> 07:12 forum.artofmemory.com</li>
 <li class='same'> 07:11 forum.artofmemory.com</li>
 <li> 07:11 artofmemory.com</li>
@@ -50195,6 +50242,7 @@ With number of accesses/minutes in parentheses
 <li> 17:46 forum.artofmemory.com</li>
 <li class='same'> 17:42 forum.artofmemory.com</li>
 <li class='same'> 17:41 forum.artofmemory.com</li>
+<li class='same'> 17:38 forum.artofmemory.com</li>
 <li class='same'> 17:32 forum.artofmemory.com</li>
 <li> 17:31 artofmemory.com</li>
 <li> 17:31 kdp.amazon.com</li>
@@ -56674,6 +56722,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:07 smashup.fandom.com</li>
 </ul>
 
+<br>
+
+<ul><li> 08:29 forum.artofmemory.com</li>
+</ul>
+
 <H3>Thursday, 25/01/24</H3>
 
 <br>
@@ -56788,6 +56841,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 06:42 www.microsoft365.com</li>
 <li class='same'> 06:41 www.microsoft365.com</li>
 <li> 06:31 rhul.sharepoint.com</li>
+<li> 06:17 forum.artofmemory.com</li>
 </ul>
 
 <H3>Wednesday, 17/01/24</H3>
