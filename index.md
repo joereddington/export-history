@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3289)</li>
+<ol><li>www.google.com (3290)</li>
 <li>mail.google.com (3048)</li>
 <li>outlook.office.com (2851)</li>
-<li>docs.google.com (2108)</li>
+<li>docs.google.com (2109)</li>
 <li>outlook.office365.com (2069)</li>
-<li>www.reddit.com (2067)</li>
+<li>www.reddit.com (2068)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1423)</li>
-<li>duckduckgo.com (1275)</li>
-<li>chatgpt.com (862)</li>
+<li>duckduckgo.com (1277)</li>
+<li>chatgpt.com (864)</li>
 <li>www.amazon.co.uk (777)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (585)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (453)</li>
 <li>github.com (448)</li>
 <li>web.whatsapp.com (402)</li>
-<li>chat.openai.com (353)</li>
-<li>drive.google.com (308)</li>
+<li>chat.openai.com (354)</li>
+<li>drive.google.com (310)</li>
 <li>feedly.com (298)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 27/06/25</H3>
+
+<br>
+
+<ul><li> 09:34 one.google.com</li>
+<li class='same'> 09:33 one.google.com</li>
+<li> 09:29 online.unity.co.uk</li>
+<li class='same'> 09:28 online.unity.co.uk</li>
+<li> 09:28 duckduckgo.com</li>
+<li> 09:28 docs.google.com</li>
+<li> 09:28 drive.google.com</li>
+<li class='same'> 09:27 drive.google.com</li>
+<li> 09:26 en.m.wikipedia.org</li>
+<li class='same'> 09:22 en.m.wikipedia.org</li>
+<li> 09:21 www.reddit.com</li>
+<li> 09:20 duckduckgo.com</li>
+<li> 09:18 chatgpt.com</li>
+<li class='same'> 09:16 chatgpt.com</li>
+<li> 09:16 chat.openai.com</li>
+<li> 08:51 www.google.com</li>
+</ul>
 
 <br>
 
@@ -162,6 +182,7 @@ With number of accesses/minutes in parentheses
 <li> 06:51 <a href="https://en.wikipedia.org/wiki/Head_louse">Head louse - Wikipedia</a></li>
 <li> 06:51 <a href="https://en.wikipedia.org/wiki/Nit">Nit - Wikipedia</a></li>
 <li> 06:51 <a href="https://en.wikipedia.org/wiki/Nut">Nut - Wikipedia</a></li>
+<li> 06:48 m.youtube.com</li>
 <li> 06:42 tvtropes.org</li>
 <li class='same'> 06:41 tvtropes.org</li>
 <li class='same'> 06:38 tvtropes.org</li>
@@ -218,7 +239,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:44 m.youtube.com</li>
+<ul><li> 17:45 m.youtube.com</li>
+<li> 17:45 time.com</li>
+<li> 17:44 m.youtube.com</li>
 </ul>
 
 <br>
@@ -58605,6 +58628,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:07 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
 <li> 15:59 <a href="https://en.wikipedia.org/wiki/Max_Planck">Max Planck - Wikipedia</a></li>
 <li> 15:51 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
+<li> 15:47 <a href="https://en.wikipedia.org/wiki/Bohr_magneton">Bohr magneton - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -58615,6 +58639,7 @@ With number of accesses/minutes in parentheses
 <li> 14:46 physics.nist.gov</li>
 <li> 14:46 docs.google.com</li>
 <li> 14:44 physics.nist.gov</li>
+<li> 14:42 <a href="https://en.wikipedia.org/wiki/Nuclear_magneton">Nuclear magneton - Wikipedia</a></li>
 <li> 14:37 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
 </ul>
 
