@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3298)</li>
+<ol><li>www.google.com (3305)</li>
 <li>mail.google.com (3074)</li>
 <li>outlook.office.com (2851)</li>
 <li>docs.google.com (2139)</li>
-<li>www.reddit.com (2091)</li>
+<li>www.reddit.com (2104)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
@@ -105,6 +105,42 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 28/06/25</H3>
+
+<br>
+
+<ul><li> 19:10 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:21 www.google.com</li>
+<li> 17:20 www.cineworld.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:05 www.cineworld.co.uk</li>
+<li> 14:04 www.youtube-nocookie.com</li>
+<li> 14:00 www.cineworld.co.uk</li>
+<li> 14:00 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:17 www.google.com</li>
+<li class='same'> 12:50 www.google.com</li>
+<li class='same'> 12:49 www.google.com</li>
+<li> 12:49 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:43 www.reddit.com</li>
+<li class='same'> 10:41 www.reddit.com</li>
+<li class='same'> 10:40 www.reddit.com</li>
+<li class='same'> 10:39 www.reddit.com</li>
+<li class='same'> 10:36 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -157,7 +193,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 18:14 www.reddit.com</li>
+<li class='same'> 18:13 www.reddit.com</li>
+<li class='same'> 18:12 www.reddit.com</li>
+<li class='same'> 18:11 www.reddit.com</li>
+<li class='same'> 18:10 www.reddit.com</li>
+<li class='same'> 18:08 www.reddit.com</li>
+<li class='same'> 18:07 www.reddit.com</li>
+<li> 18:06 <a href="https://www.theguardian.com/film/2025/jun/27/no-plans-ever-to-retire-why-steven-spielberg-and-the-movie-brat-generation-just-wont-quit">‘No plans ever to retire’: why Steven Spielberg and the movie brat generation just won’t quit | Film | The Guardian</a></li>
+<li class='same'> 18:05 <a href="https://www.theguardian.com/film/2025/jun/27/no-plans-ever-to-retire-why-steven-spielberg-and-the-movie-brat-generation-just-wont-quit">‘No plans ever to retire’: why Steven Spielberg and the movie brat generation just won’t quit | Film | The Guardian</a></li>
+<li> 18:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 18:04 <a href="https://www.theguardian.com/">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
 <li> 18:04 <a href="https://www.theguardian.com/commentisfree/2025/jun/27/anna-wintour-super-rich-lauren-sanchez-jeff-bezos-vogue">Anna Wintour has spent decades dictating a certain look for the super-rich. Then along came Lauren | Marina Hyde | The Guardian</a></li>
 <li> 17:45 www.facebook.com</li>
@@ -57672,6 +57717,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:51 forum.artofmemory.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:31 www.google.com</li>
 </ul>
 
 <H3>Monday, 25/12/23</H3>
