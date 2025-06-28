@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3298)</li>
 <li>mail.google.com (3074)</li>
 <li>outlook.office.com (2851)</li>
-<li>docs.google.com (2115)</li>
-<li>www.reddit.com (2090)</li>
+<li>docs.google.com (2139)</li>
+<li>www.reddit.com (2091)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1295)</li>
-<li>chatgpt.com (868)</li>
+<li>duckduckgo.com (1297)</li>
+<li>chatgpt.com (869)</li>
 <li>www.amazon.co.uk (781)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (587)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (459)</li>
 <li>github.com (448)</li>
 <li>web.whatsapp.com (409)</li>
-<li>chat.openai.com (356)</li>
+<li>chat.openai.com (357)</li>
 <li>drive.google.com (316)</li>
 <li>feedly.com (298)</li>
 <li>fritz.box (277)</li>
@@ -104,7 +104,51 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 28/06/25</H3>
+
+<br>
+
+<ul><li> 07:43 forum.artofmemory.com</li>
+<li> 07:38 www.reddit.com</li>
+<li> 07:37 docs.google.com</li>
+<li> 07:36 duckduckgo.com</li>
+<li> 07:36 docs.google.com</li>
+<li class='same'> 07:34 docs.google.com</li>
+<li class='same'> 07:33 docs.google.com</li>
+<li class='same'> 07:32 docs.google.com</li>
+<li class='same'> 07:31 docs.google.com</li>
+<li> 07:29 <a href="https://en.wikipedia.org/wiki/History_of_the_British_canal_system">History of the British canal system - Wikipedia</a></li>
+<li> 07:29 duckduckgo.com</li>
+<li> 07:25 forum.artofmemory.com</li>
+<li> 07:24 docs.google.com</li>
+<li class='same'> 07:21 docs.google.com</li>
+<li class='same'> 07:20 docs.google.com</li>
+<li class='same'> 07:19 docs.google.com</li>
+<li class='same'> 07:16 docs.google.com</li>
+<li class='same'> 07:11 docs.google.com</li>
+<li class='same'> 07:06 docs.google.com</li>
+<li class='same'> 07:05 docs.google.com</li>
+<li class='same'> 07:04 docs.google.com</li>
+<li class='same'> 07:01 docs.google.com</li>
+<li> 06:58 forum.artofmemory.com</li>
+<li> 06:58 artofmemory.com</li>
+<li> 06:56 docs.google.com</li>
+<li class='same'> 06:55 docs.google.com</li>
+<li class='same'> 06:53 docs.google.com</li>
+<li class='same'> 06:52 docs.google.com</li>
+<li class='same'> 06:51 docs.google.com</li>
+<li> 06:50 chatgpt.com</li>
+<li> 06:50 chat.openai.com</li>
+<li> 06:50 docs.google.com</li>
+<li class='same'> 06:49 docs.google.com</li>
+<li class='same'> 06:48 docs.google.com</li>
+</ul>
+
 <H3>Friday, 27/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
