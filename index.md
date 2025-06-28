@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1297)</li>
+<li>duckduckgo.com (1298)</li>
 <li>chatgpt.com (869)</li>
 <li>www.amazon.co.uk (781)</li>
 <li>www.theguardian.com (685)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 28/06/25</H3>
+
+<br>
+
+<ul><li> 08:17 duckduckgo.com</li>
+</ul>
 
 <br>
 
