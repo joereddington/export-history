@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3305)</li>
+<ol><li>www.google.com (3306)</li>
 <li>mail.google.com (3074)</li>
 <li>outlook.office.com (2851)</li>
-<li>docs.google.com (2139)</li>
+<li>docs.google.com (2144)</li>
 <li>www.reddit.com (2104)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1298)</li>
-<li>chatgpt.com (869)</li>
-<li>www.amazon.co.uk (781)</li>
+<li>duckduckgo.com (1299)</li>
+<li>chatgpt.com (876)</li>
+<li>www.amazon.co.uk (787)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (587)</li>
+<li>calendar.google.com (588)</li>
 <li>www.linkedin.com (538)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>login.microsoftonline.com (497)</li>
 <li>rhul-my.sharepoint.com (490)</li>
 <li>tvtropes.org (472)</li>
 <li>gmail.com (459)</li>
-<li>github.com (448)</li>
+<li>github.com (450)</li>
 <li>web.whatsapp.com (409)</li>
-<li>chat.openai.com (357)</li>
+<li>chat.openai.com (358)</li>
 <li>drive.google.com (316)</li>
 <li>feedly.com (298)</li>
 <li>fritz.box (277)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (249)</li>
 <li>rhul.sharepoint.com (247)</li>
 <li>qbo.intuit.com (242)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (219)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (220)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:16 www.amazon.co.uk</li>
+<li class='same'> 21:15 www.amazon.co.uk</li>
+<li> 21:15 www.ebay.co.uk</li>
+<li class='same'> 21:14 www.ebay.co.uk</li>
+<li> 21:14 www.amazon.co.uk</li>
+<li> 21:14 www.ebay.co.uk</li>
+<li> 21:14 duckduckgo.com</li>
+<li> 21:14 www.amazon.co.uk</li>
+<li class='same'> 21:13 www.amazon.co.uk</li>
+<li class='same'> 21:12 www.amazon.co.uk</li>
+<li> 21:00 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 20:56 sora.chatgpt.com</li>
+<li> 20:56 chatgpt.com</li>
+<li class='same'> 20:55 chatgpt.com</li>
+<li> 20:55 github.com</li>
+<li> 20:55 chatgpt.com</li>
+<li> 20:54 github.com</li>
+<li> 20:54 chatgpt.com</li>
+<li> 20:52 auth.openai.com</li>
+<li> 20:52 chatgpt.com</li>
+<li> 20:52 auth.openai.com</li>
+<li> 20:52 chatgpt.com</li>
+<li> 20:48 docs.google.com</li>
+<li class='same'> 20:47 docs.google.com</li>
+<li class='same'> 20:45 docs.google.com</li>
+<li> 20:33 read.amazon.com</li>
+<li> 20:31 calendar.google.com</li>
+<li> 20:21 forum.artofmemory.com</li>
+<li class='same'> 20:20 forum.artofmemory.com</li>
+<li class='same'> 20:19 forum.artofmemory.com</li>
+<li> 20:19 artofmemory.com</li>
+<li> 20:19 chatgpt.com</li>
+<li> 20:19 chat.openai.com</li>
+<li> 20:19 docs.google.com</li>
+<li class='same'> 20:18 docs.google.com</li>
+<li> 20:08 forum.artofmemory.com</li>
+</ul>
+
+<br>
+
 <ul><li> 19:10 www.google.com</li>
+<li> 19:10 www.cineworld.co.uk</li>
+<li> 19:10 www.google.com</li>
 </ul>
 
 <br>
@@ -53658,7 +53700,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:12 www.goodreads.com</li>
+<ul><li> 07:17 read.amazon.com</li>
+<li> 07:12 www.goodreads.com</li>
 <li> 07:05 feedly.com</li>
 <li class='same'> 07:01 feedly.com</li>
 <li> 07:01 www.feedly.com</li>
