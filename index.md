@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (472)</li>
 <li>gmail.com (459)</li>
 <li>github.com (450)</li>
-<li>web.whatsapp.com (409)</li>
+<li>web.whatsapp.com (410)</li>
 <li>chat.openai.com (358)</li>
 <li>drive.google.com (316)</li>
 <li>feedly.com (298)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:16 www.amazon.co.uk</li>
+<ul><li> 21:28 web.whatsapp.com</li>
+<li> 21:16 www.amazon.co.uk</li>
 <li class='same'> 21:15 www.amazon.co.uk</li>
 <li> 21:15 www.ebay.co.uk</li>
 <li class='same'> 21:14 www.ebay.co.uk</li>
