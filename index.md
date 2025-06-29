@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3309)</li>
-<li>mail.google.com (3077)</li>
+<li>mail.google.com (3078)</li>
 <li>outlook.office.com (2851)</li>
-<li>docs.google.com (2145)</li>
-<li>www.reddit.com (2107)</li>
+<li>docs.google.com (2149)</li>
+<li>www.reddit.com (2108)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1299)</li>
+<li>duckduckgo.com (1302)</li>
 <li>chatgpt.com (876)</li>
 <li>www.amazon.co.uk (789)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (588)</li>
-<li>www.linkedin.com (540)</li>
+<li>www.linkedin.com (542)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>login.microsoftonline.com (497)</li>
 <li>rhul-my.sharepoint.com (490)</li>
-<li>tvtropes.org (472)</li>
-<li>gmail.com (460)</li>
+<li>tvtropes.org (484)</li>
+<li>gmail.com (461)</li>
 <li>github.com (450)</li>
-<li>web.whatsapp.com (410)</li>
+<li>web.whatsapp.com (411)</li>
 <li>chat.openai.com (358)</li>
 <li>drive.google.com (316)</li>
 <li>feedly.com (299)</li>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:39 docs.google.com</li>
+<ul><li> 21:39 <a href="https://en.wikipedia.org/wiki/Jason_Friedberg_and_Aaron_Seltzer">Jason Friedberg and Aaron Seltzer - Wikipedia</a></li>
+<li> 21:34 <a href="https://en.wikipedia.org/wiki/List_of_films_considered_the_worst#2020s">List of films considered the worst - Wikipedia</a></li>
+<li> 21:34 <a href="https://en.wikipedia.org/wiki/List_of_films_considered_the_worst">List of films considered the worst - Wikipedia</a></li>
+<li> 21:31 <a href="https://en.wikipedia.org/wiki/List_of_biggest_box-office_bombs">List of biggest box-office bombs - Wikipedia</a></li>
+<li> 21:31 duckduckgo.com</li>
+<li> 21:29 <a href="https://en.wikipedia.org/wiki/Jaws:_The_Revenge">Jaws: The Revenge - Wikipedia</a></li>
+<li> 21:29 <a href="https://en.wikipedia.org/wiki/Jaws_(franchise)">Jaws (franchise) - Wikipedia</a></li>
+<li> 21:27 <a href="https://en.wikipedia.org/wiki/Jaws_3-D">Jaws 3-D - Wikipedia</a></li>
+<li> 21:27 <a href="https://en.wikipedia.org/wiki/List_of_natural_horror_films#Sharks">List of natural horror films - Wikipedia</a></li>
+<li> 21:27 <a href="https://en.wikipedia.org/wiki/List_of_killer_shark_films">List of natural horror films - Wikipedia</a></li>
+<li> 21:25 <a href="https://en.wikipedia.org/wiki/Jaws_2">Jaws 2 - Wikipedia</a></li>
+<li> 21:25 duckduckgo.com</li>
+<li> 21:25 tvtropes.org</li>
+<li class='same'> 21:22 tvtropes.org</li>
+<li class='same'> 21:17 tvtropes.org</li>
+<li class='same'> 20:58 tvtropes.org</li>
+<li> 20:57 web.whatsapp.com</li>
+<li> 20:57 tvtropes.org</li>
+<li class='same'> 20:55 tvtropes.org</li>
+<li class='same'> 20:54 tvtropes.org</li>
+<li class='same'> 20:53 tvtropes.org</li>
+<li> 20:51 store.steampowered.com</li>
+<li class='same'> 20:50 store.steampowered.com</li>
+<li class='same'> 20:49 store.steampowered.com</li>
+<li> 20:49 mail.google.com</li>
+<li> 20:49 gmail.com</li>
+<li> 20:48 store.steampowered.com</li>
+<li> 20:48 steamcommunity.com</li>
+<li> 20:48 store.steampowered.com</li>
+<li> 20:48 steamcommunity.com</li>
+<li> 20:48 store.steampowered.com</li>
+<li> 20:48 steamcommunity.com</li>
+<li> 20:48 store.steampowered.com</li>
+<li class='same'> 20:47 store.steampowered.com</li>
+<li> 20:47 duckduckgo.com</li>
+<li> 20:46 www.giantitp.com</li>
+<li> 20:45 www.reddit.com</li>
+<li> 20:44 www.linkedin.com</li>
+<li class='same'> 20:43 www.linkedin.com</li>
+<li> 20:43 docs.google.com</li>
+<li class='same'> 20:42 docs.google.com</li>
+<li class='same'> 20:41 docs.google.com</li>
+<li class='same'> 20:40 docs.google.com</li>
+<li class='same'> 20:39 docs.google.com</li>
 <li> 20:39 www.amazon.co.uk</li>
 <li class='same'> 20:38 www.amazon.co.uk</li>
 <li> 20:38 www.giantitp.com</li>
@@ -57406,6 +57449,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 23:29 tvtropes.org</li>
+<li class='same'> 23:17 tvtropes.org</li>
+<li class='same'> 23:16 tvtropes.org</li>
+<li class='same'> 23:14 tvtropes.org</li>
+</ul>
 
 <br>
 
