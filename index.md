@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3308)</li>
+<ol><li>www.google.com (3309)</li>
 <li>mail.google.com (3074)</li>
 <li>outlook.office.com (2851)</li>
 <li>docs.google.com (2144)</li>
@@ -94,10 +94,10 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (298)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (250)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (251)</li>
 <li>rhul.sharepoint.com (247)</li>
 <li>qbo.intuit.com (242)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (220)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (222)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 18:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:25 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:22 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:22 www.diy.com</li>
+<li> 15:22 www.google.com</li>
+<li> 15:21 <a href="https://www.theguardian.com/media/2025/jun/29/bbc-reckons-with-bias-accusations-over-israel-and-palestine-coverage">‘Heads will roll’: BBC reckons with bias accusations over Israel and Palestine coverage | BBC | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:11 <a href="https://www.theguardian.com/media/2025/jun/29/bbc-reckons-with-bias-accusations-over-israel-and-palestine-coverage">‘Heads will roll’: BBC reckons with bias accusations over Israel and Palestine coverage | BBC | The Guardian</a></li>
+<li> 13:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 13:03 www.google.com</li>
 <li> 13:03 m.youtube.com</li>
 </ul>
