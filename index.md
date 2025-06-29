@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3309)</li>
-<li>mail.google.com (3078)</li>
+<ol><li>www.google.com (3310)</li>
+<li>mail.google.com (3079)</li>
 <li>outlook.office.com (2851)</li>
 <li>docs.google.com (2149)</li>
-<li>www.reddit.com (2108)</li>
+<li>www.reddit.com (2114)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1302)</li>
+<li>duckduckgo.com (1303)</li>
 <li>chatgpt.com (876)</li>
 <li>www.amazon.co.uk (789)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (588)</li>
-<li>www.linkedin.com (542)</li>
+<li>www.linkedin.com (544)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>login.microsoftonline.com (497)</li>
 <li>rhul-my.sharepoint.com (490)</li>
-<li>tvtropes.org (484)</li>
+<li>tvtropes.org (488)</li>
 <li>gmail.com (461)</li>
 <li>github.com (450)</li>
-<li>web.whatsapp.com (411)</li>
+<li>web.whatsapp.com (412)</li>
 <li>chat.openai.com (358)</li>
 <li>drive.google.com (316)</li>
 <li>feedly.com (299)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:39 <a href="https://en.wikipedia.org/wiki/Jason_Friedberg_and_Aaron_Seltzer">Jason Friedberg and Aaron Seltzer - Wikipedia</a></li>
+<ul><li> 22:00 www.reddit.com</li>
+<li> 21:58 web.whatsapp.com</li>
+<li> 21:58 www.reddit.com</li>
+<li class='same'> 21:57 www.reddit.com</li>
+<li> 21:56 www.ft.com</li>
+<li> 21:56 www.reddit.com</li>
+<li class='same'> 21:55 www.reddit.com</li>
+<li> 21:55 www.dundee.ac.uk</li>
+<li> 21:55 duckduckgo.com</li>
+<li> 21:54 qmucu.org</li>
+<li> 21:54 www.google.com</li>
+<li> 21:53 www.reddit.com</li>
+<li> 21:52 www.linkedin.com</li>
+<li class='same'> 21:51 www.linkedin.com</li>
+<li> 21:51 online.unity.co.uk</li>
+<li class='same'> 21:50 online.unity.co.uk</li>
+<li> 21:50 mail.google.com</li>
+<li> 21:46 tvtropes.org</li>
+<li class='same'> 21:43 tvtropes.org</li>
+<li class='same'> 21:42 tvtropes.org</li>
+<li class='same'> 21:41 tvtropes.org</li>
+<li> 21:41 <a href="https://en.wikipedia.org/wiki/Crista_Flanagan">Crista Flanagan - Wikipedia</a></li>
+<li> 21:39 <a href="https://en.wikipedia.org/wiki/Jason_Friedberg_and_Aaron_Seltzer">Jason Friedberg and Aaron Seltzer - Wikipedia</a></li>
 <li> 21:34 <a href="https://en.wikipedia.org/wiki/List_of_films_considered_the_worst#2020s">List of films considered the worst - Wikipedia</a></li>
 <li> 21:34 <a href="https://en.wikipedia.org/wiki/List_of_films_considered_the_worst">List of films considered the worst - Wikipedia</a></li>
 <li> 21:31 <a href="https://en.wikipedia.org/wiki/List_of_biggest_box-office_bombs">List of biggest box-office bombs - Wikipedia</a></li>
