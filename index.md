@@ -69,35 +69,35 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3309)</li>
-<li>mail.google.com (3074)</li>
+<li>mail.google.com (3077)</li>
 <li>outlook.office.com (2851)</li>
-<li>docs.google.com (2144)</li>
-<li>www.reddit.com (2104)</li>
+<li>docs.google.com (2145)</li>
+<li>www.reddit.com (2107)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
 <li>duckduckgo.com (1299)</li>
 <li>chatgpt.com (876)</li>
-<li>www.amazon.co.uk (787)</li>
+<li>www.amazon.co.uk (789)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (588)</li>
-<li>www.linkedin.com (538)</li>
+<li>www.linkedin.com (540)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
 <li>login.microsoftonline.com (497)</li>
 <li>rhul-my.sharepoint.com (490)</li>
 <li>tvtropes.org (472)</li>
-<li>gmail.com (459)</li>
+<li>gmail.com (460)</li>
 <li>github.com (450)</li>
 <li>web.whatsapp.com (410)</li>
 <li>chat.openai.com (358)</li>
 <li>drive.google.com (316)</li>
-<li>feedly.com (298)</li>
+<li>feedly.com (299)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (251)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (252)</li>
 <li>rhul.sharepoint.com (247)</li>
 <li>qbo.intuit.com (242)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (222)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (223)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 20:39 docs.google.com</li>
+<li> 20:39 www.amazon.co.uk</li>
+<li class='same'> 20:38 www.amazon.co.uk</li>
+<li> 20:38 www.giantitp.com</li>
+<li> 20:38 mail.google.com</li>
+<li class='same'> 20:37 mail.google.com</li>
+<li class='same'> 20:36 mail.google.com</li>
+<li> 20:36 gmail.com</li>
+<li> 20:32 feedly.com</li>
+<li> 20:32 www.giantitp.com</li>
+<li> 20:32 www.linkedin.com</li>
+<li class='same'> 20:31 www.linkedin.com</li>
+<li> 20:31 www.reddit.com</li>
+<li> 20:30 forum.artofmemory.com</li>
+<li class='same'> 20:29 forum.artofmemory.com</li>
+<li class='same'> 20:28 forum.artofmemory.com</li>
+<li class='same'> 20:27 forum.artofmemory.com</li>
+<li class='same'> 20:26 forum.artofmemory.com</li>
+<li class='same'> 20:25 forum.artofmemory.com</li>
+<li class='same'> 20:24 forum.artofmemory.com</li>
+<li class='same'> 20:23 forum.artofmemory.com</li>
+<li class='same'> 20:22 forum.artofmemory.com</li>
+<li class='same'> 20:21 forum.artofmemory.com</li>
+<li class='same'> 20:20 forum.artofmemory.com</li>
+<li> 20:20 artofmemory.com</li>
+<li> 20:20 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 19:58 www.reddit.com</li>
+<li class='same'> 19:57 www.reddit.com</li>
+<li> 19:57 www.cottages.com</li>
+<li> 19:57 tracking.europe-west9.gcp.omnitagjs.com</li>
+<li> 19:55 <a href="https://www.theguardian.com/culture/2025/jun/28/f1-the-movie-to-squid-game-the-week-in-rave-reviews">F1 the Movie to Squid Game: the week in rave reviews | Culture | The Guardian</a></li>
+<li> 19:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 18:25 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 </ul>
 
