@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3306)</li>
+<ol><li>www.google.com (3308)</li>
 <li>mail.google.com (3074)</li>
 <li>outlook.office.com (2851)</li>
 <li>docs.google.com (2144)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (298)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (249)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (250)</li>
 <li>rhul.sharepoint.com (247)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (220)</li>
@@ -104,7 +104,20 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 29/06/25</H3>
+
+<br>
+
+<ul><li> 13:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:03 www.google.com</li>
+<li> 13:03 m.youtube.com</li>
+</ul>
+
 <H3>Saturday, 28/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -145,11 +158,13 @@ With number of accesses/minutes in parentheses
 <li> 20:19 docs.google.com</li>
 <li class='same'> 20:18 docs.google.com</li>
 <li> 20:08 forum.artofmemory.com</li>
+<li> 20:04 m.youtube.com</li>
+<li> 20:04 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 19:10 www.google.com</li>
+<ul><li class='same'> 19:10 www.google.com</li>
 <li> 19:10 www.cineworld.co.uk</li>
 <li> 19:10 www.google.com</li>
 </ul>
@@ -59013,6 +59028,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 12:12 forum.artofmemory.com</li>
+<li class='same'> 12:02 forum.artofmemory.com</li>
 </ul>
 
 <br>
@@ -62473,7 +62489,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:27 accounts.google.co.uk</li>
+<ul><li> 06:41 forum.artofmemory.com</li>
+<li> 06:27 accounts.google.co.uk</li>
 <li> 06:20 kdp.amazon.com</li>
 <li class='same'> 06:17 kdp.amazon.com</li>
 <li> 06:11 discord.com</li>
