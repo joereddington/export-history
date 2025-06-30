@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3310)</li>
 <li>mail.google.com (3079)</li>
 <li>outlook.office.com (2851)</li>
-<li>docs.google.com (2152)</li>
-<li>www.reddit.com (2115)</li>
+<li>docs.google.com (2154)</li>
+<li>www.reddit.com (2119)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1303)</li>
-<li>chatgpt.com (876)</li>
-<li>www.amazon.co.uk (789)</li>
+<li>duckduckgo.com (1305)</li>
+<li>chatgpt.com (877)</li>
+<li>www.amazon.co.uk (790)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (588)</li>
 <li>www.linkedin.com (544)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:37 docs.google.com</li>
+<ul><li> 07:23 duckduckgo.com</li>
+<li> 07:22 www.reddit.com</li>
+<li class='same'> 07:21 www.reddit.com</li>
+<li class='same'> 07:19 www.reddit.com</li>
+<li class='same'> 07:18 www.reddit.com</li>
+<li> 07:16 www.amazon.co.uk</li>
+<li> 07:16 kdp.amazon.com</li>
+<li class='same'> 07:15 kdp.amazon.com</li>
+<li> 07:15 duckduckgo.com</li>
+<li> 07:13 chatgpt.com</li>
+<li> 07:02 forum.artofmemory.com</li>
+<li class='same'> 07:01 forum.artofmemory.com</li>
+<li class='same'> 07:00 forum.artofmemory.com</li>
+<li class='same'> 06:59 forum.artofmemory.com</li>
+<li class='same'> 06:58 forum.artofmemory.com</li>
+<li> 06:57 docs.google.com</li>
+<li class='same'> 06:54 docs.google.com</li>
+<li> 06:52 forum.artofmemory.com</li>
+<li class='same'> 06:50 forum.artofmemory.com</li>
+<li class='same'> 06:49 forum.artofmemory.com</li>
+<li class='same'> 06:45 forum.artofmemory.com</li>
+<li class='same'> 06:44 forum.artofmemory.com</li>
+<li> 06:44 artofmemory.com</li>
+<li> 06:37 docs.google.com</li>
 <li class='same'> 06:36 docs.google.com</li>
 <li class='same'> 06:34 docs.google.com</li>
 <li> 06:33 drive.google.com</li>
