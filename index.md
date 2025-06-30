@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3310)</li>
-<li>mail.google.com (3088)</li>
+<li>mail.google.com (3091)</li>
 <li>outlook.office.com (2853)</li>
 <li>docs.google.com (2155)</li>
-<li>www.reddit.com (2125)</li>
+<li>www.reddit.com (2126)</li>
 <li>outlook.office365.com (2085)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1307)</li>
+<li>duckduckgo.com (1308)</li>
 <li>chatgpt.com (877)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (596)</li>
+<li>calendar.google.com (597)</li>
 <li>www.linkedin.com (546)</li>
-<li>moodle.royalholloway.ac.uk (530)</li>
-<li>login.microsoftonline.com (499)</li>
+<li>moodle.royalholloway.ac.uk (532)</li>
+<li>login.microsoftonline.com (500)</li>
 <li>rhul-my.sharepoint.com (493)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (463)</li>
-<li>github.com (450)</li>
+<li>github.com (455)</li>
 <li>web.whatsapp.com (413)</li>
 <li>chat.openai.com (358)</li>
 <li>drive.google.com (317)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 30/06/25</H3>
+
+<br>
+
+<ul><li> 12:29 github.com</li>
+<li class='same'> 12:25 github.com</li>
+<li> 12:23 theopenvoicefactory.org</li>
+<li> 12:23 github.com</li>
+<li> 12:22 theopenvoicefactory.org</li>
+<li> 12:21 duckduckgo.com</li>
+<li> 12:10 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 12:08 moodle.royalholloway.ac.uk</li>
+<li> 12:08 login.microsoftonline.com</li>
+<li> 12:08 moodle.royalholloway.ac.uk</li>
+<li> 12:08 www.ncsc.gov.uk</li>
+<li> 11:59 forum.artofmemory.com</li>
+<li> 11:59 artofmemory.com</li>
+<li> 11:59 www.reddit.com</li>
+<li> 11:59 mail.google.com</li>
+<li class='same'> 11:58 mail.google.com</li>
+<li> 11:58 calendar.google.com</li>
+<li> 11:58 mail.google.com</li>
+</ul>
 
 <br>
 
@@ -52967,7 +52989,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:26 theopenvoicefactory.org</li>
 <li class='same'> 07:20 theopenvoicefactory.org</li>
 <li> 07:02 127.0.0.1:4000</li>
-<li> 06:51 github.com</li>
+<li> 06:52 github.com</li>
+<li class='same'> 06:51 github.com</li>
 <li class='same'> 06:47 github.com</li>
 </ul>
 
@@ -58807,7 +58830,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:51 <a href="https://stackoverflow.com/users/170243/joe">User Joe - Stack Overflow</a></li>
+<ul><li> 12:55 github.com</li>
+<li> 12:51 <a href="https://stackoverflow.com/users/170243/joe">User Joe - Stack Overflow</a></li>
 <li> 12:51 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 </ul>
 
