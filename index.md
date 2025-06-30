@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3313)</li>
-<li>mail.google.com (3101)</li>
+<li>mail.google.com (3104)</li>
 <li>outlook.office.com (2853)</li>
-<li>docs.google.com (2158)</li>
+<li>docs.google.com (2159)</li>
 <li>www.reddit.com (2128)</li>
 <li>outlook.office365.com (2085)</li>
 <li>bsky.app (1579)</li>
@@ -86,11 +86,11 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (502)</li>
 <li>rhul-my.sharepoint.com (493)</li>
 <li>tvtropes.org (488)</li>
-<li>gmail.com (467)</li>
+<li>gmail.com (468)</li>
 <li>github.com (455)</li>
 <li>web.whatsapp.com (414)</li>
 <li>chat.openai.com (358)</li>
-<li>drive.google.com (321)</li>
+<li>drive.google.com (322)</li>
 <li>feedly.com (299)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:38 www.fiverr.com</li>
+<ul><li> 15:10 mail.google.com</li>
+<li class='same'> 15:06 mail.google.com</li>
+<li> 15:01 docs.google.com</li>
+<li> 15:01 drive.google.com</li>
+<li> 14:59 analytics.google.com</li>
+<li class='same'> 14:58 analytics.google.com</li>
+<li class='same'> 14:57 analytics.google.com</li>
+<li> 14:57 accounts.google.co.uk</li>
+<li> 14:57 gds.google.com</li>
+<li> 14:56 accounts.google.com</li>
+<li> 14:56 analytics.google.com</li>
+<li> 14:53 mail.google.com</li>
+<li> 14:53 gmail.com</li>
+<li> 14:38 www.fiverr.com</li>
 <li class='same'> 14:37 www.fiverr.com</li>
 <li class='same'> 14:35 www.fiverr.com</li>
 <li class='same'> 14:34 www.fiverr.com</li>
