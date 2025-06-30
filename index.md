@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3313)</li>
+<ol><li>www.google.com (3316)</li>
 <li>mail.google.com (3104)</li>
 <li>outlook.office.com (2853)</li>
 <li>docs.google.com (2159)</li>
-<li>www.reddit.com (2128)</li>
+<li>www.reddit.com (2134)</li>
 <li>outlook.office365.com (2085)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
@@ -88,13 +88,13 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (488)</li>
 <li>gmail.com (468)</li>
 <li>github.com (455)</li>
-<li>web.whatsapp.com (414)</li>
+<li>web.whatsapp.com (415)</li>
 <li>chat.openai.com (358)</li>
 <li>drive.google.com (322)</li>
 <li>feedly.com (299)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (252)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (253)</li>
 <li>rhul.sharepoint.com (247)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (223)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:10 mail.google.com</li>
+<ul><li> 16:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:17 www.independent.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 15:15 web.whatsapp.com</li>
+<li> 15:12 www.reddit.com</li>
+<li> 15:10 mail.google.com</li>
 <li class='same'> 15:06 mail.google.com</li>
 <li> 15:01 docs.google.com</li>
 <li> 15:01 drive.google.com</li>
@@ -229,6 +237,22 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:58 mail.google.com</li>
 <li> 11:58 calendar.google.com</li>
 <li> 11:58 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:24 www.independent.co.uk</li>
+<li class='same'> 11:23 www.independent.co.uk</li>
+<li class='same'> 11:22 www.independent.co.uk</li>
+<li> 11:22 www.google.com</li>
+<li> 11:22 greatergood.berkeley.edu</li>
+<li> 11:22 www.nytimes.com</li>
+<li class='same'> 11:20 www.nytimes.com</li>
+<li> 11:20 greatergood.berkeley.edu</li>
+<li> 11:20 www.google.com</li>
+<li> 11:18 greatergood.berkeley.edu</li>
+<li> 11:18 www.google.com</li>
+<li> 11:17 www.reddit.com</li>
 </ul>
 
 <br>
@@ -430,7 +454,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:20 forum.artofmemory.com</li>
 <li> 20:20 artofmemory.com</li>
 <li> 20:20 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 19:58 www.reddit.com</li>
+<li> 20:07 www.reddit.com</li>
+<li class='same'> 20:06 www.reddit.com</li>
+<li class='same'> 20:05 www.reddit.com</li>
+<li class='same'> 20:04 www.reddit.com</li>
+<li class='same'> 19:58 www.reddit.com</li>
 <li class='same'> 19:57 www.reddit.com</li>
 <li> 19:57 www.cottages.com</li>
 <li> 19:57 tracking.europe-west9.gcp.omnitagjs.com</li>
@@ -63032,7 +63060,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:45 docs.google.com</li>
+<ul><li> 11:23 theopenvoicefactory.org</li>
+<li class='same'> 11:06 theopenvoicefactory.org</li>
+<li> 10:45 docs.google.com</li>
 <li> 10:29 analytics.google.com</li>
 <li> 10:27 www.tightrope.co.uk</li>
 <li> 10:27 www.projectreal.co.uk</li>
@@ -65059,6 +65089,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:38 github.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:20 theopenvoicefactory.org</li>
 </ul>
 
 <br>
