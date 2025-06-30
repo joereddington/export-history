@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3310)</li>
-<li>mail.google.com (3091)</li>
+<ol><li>www.google.com (3312)</li>
+<li>mail.google.com (3101)</li>
 <li>outlook.office.com (2853)</li>
-<li>docs.google.com (2155)</li>
+<li>docs.google.com (2156)</li>
 <li>www.reddit.com (2126)</li>
 <li>outlook.office365.com (2085)</li>
 <li>bsky.app (1579)</li>
@@ -80,17 +80,17 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (877)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (597)</li>
+<li>calendar.google.com (599)</li>
 <li>www.linkedin.com (546)</li>
 <li>moodle.royalholloway.ac.uk (532)</li>
-<li>login.microsoftonline.com (500)</li>
+<li>login.microsoftonline.com (502)</li>
 <li>rhul-my.sharepoint.com (493)</li>
 <li>tvtropes.org (488)</li>
-<li>gmail.com (463)</li>
+<li>gmail.com (467)</li>
 <li>github.com (455)</li>
-<li>web.whatsapp.com (413)</li>
+<li>web.whatsapp.com (414)</li>
 <li>chat.openai.com (358)</li>
-<li>drive.google.com (317)</li>
+<li>drive.google.com (319)</li>
 <li>feedly.com (299)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
@@ -105,6 +105,52 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 30/06/25</H3>
+
+<br>
+
+<ul><li> 13:39 web.whatsapp.com</li>
+<li> 13:39 calendar.google.com</li>
+<li class='same'> 13:36 calendar.google.com</li>
+<li> 13:34 forum.artofmemory.com</li>
+<li class='same'> 13:33 forum.artofmemory.com</li>
+<li class='same'> 13:32 forum.artofmemory.com</li>
+<li> 13:32 www.tax.service.gov.uk</li>
+<li> 13:32 forum.artofmemory.com</li>
+<li class='same'> 13:31 forum.artofmemory.com</li>
+<li> 13:31 artofmemory.com</li>
+<li> 13:22 drive.google.com</li>
+<li> 13:21 mail.google.com</li>
+<li class='same'> 13:20 mail.google.com</li>
+<li class='same'> 13:19 mail.google.com</li>
+<li> 13:19 gmail.com</li>
+<li> 13:19 mail.google.com</li>
+<li> 13:19 accounts.google.com</li>
+<li> 13:19 gmail.com</li>
+<li> 13:18 myview.rhul.zellis.com</li>
+<li> 13:18 login.microsoftonline.com</li>
+<li class='same'> 13:17 login.microsoftonline.com</li>
+<li> 13:17 www.google.com</li>
+<li> 13:17 myview.rhul.zellis.com</li>
+<li> 13:17 www.tax.service.gov.uk</li>
+<li> 13:17 www.gov.uk</li>
+<li> 13:16 www.tax.service.gov.uk</li>
+<li class='same'> 13:15 www.tax.service.gov.uk</li>
+<li class='same'> 13:14 www.tax.service.gov.uk</li>
+<li> 13:14 mail.google.com</li>
+<li class='same'> 13:13 mail.google.com</li>
+<li> 13:13 gmail.com</li>
+<li> 13:13 www.tax.service.gov.uk</li>
+<li> 13:13 www.access.service.gov.uk</li>
+<li> 13:13 www.gov.uk</li>
+<li> 13:13 www.google.com</li>
+<li> 13:12 docs.google.com</li>
+<li> 13:11 drive.google.com</li>
+<li> 13:11 mail.google.com</li>
+<li class='same'> 13:10 mail.google.com</li>
+<li class='same'> 13:07 mail.google.com</li>
+<li class='same'> 13:06 mail.google.com</li>
+<li> 13:06 gmail.com</li>
+</ul>
 
 <br>
 
@@ -17366,10 +17412,8 @@ With number of accesses/minutes in parentheses
 <li> 21:13 duckduckgo.com</li>
 <li> 21:12 www.ebay.co.uk</li>
 <li> 21:12 accountsettings.ebay.co.uk</li>
-<li> 21:11 accounts.ebay.co.uk</li>
 <li> 21:11 signin.ebay.co.uk</li>
 <li> 21:11 accountsettings.ebay.co.uk</li>
-<li> 21:11 accounts.ebay.co.uk</li>
 <li> 21:11 www.ebay.co.uk</li>
 <li> 21:11 signin.ebay.co.uk</li>
 <li> 21:11 www.ebay.co.uk</li>
@@ -54022,8 +54066,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:36 artofmemory.com</li>
-<li class='same'> 07:33 artofmemory.com</li>
+<ul><li> 07:39 forum.artofmemory.com</li>
+<li class='same'> 07:38 forum.artofmemory.com</li>
+<li class='same'> 07:37 forum.artofmemory.com</li>
+<li> 07:36 artofmemory.com</li>
+<li> 07:35 forum.artofmemory.com</li>
+<li class='same'> 07:34 forum.artofmemory.com</li>
+<li> 07:33 artofmemory.com</li>
 <li> 07:31 equalitytime.github.io</li>
 <li> 07:07 docs.google.com</li>
 <li> 06:59 rhul-my.sharepoint.com</li>
