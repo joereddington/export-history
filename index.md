@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3312)</li>
+<ol><li>www.google.com (3313)</li>
 <li>mail.google.com (3101)</li>
 <li>outlook.office.com (2853)</li>
-<li>docs.google.com (2156)</li>
-<li>www.reddit.com (2126)</li>
+<li>docs.google.com (2158)</li>
+<li>www.reddit.com (2128)</li>
 <li>outlook.office365.com (2085)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1308)</li>
+<li>duckduckgo.com (1315)</li>
 <li>chatgpt.com (877)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (455)</li>
 <li>web.whatsapp.com (414)</li>
 <li>chat.openai.com (358)</li>
-<li>drive.google.com (319)</li>
+<li>drive.google.com (321)</li>
 <li>feedly.com (299)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
@@ -108,7 +108,51 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:39 web.whatsapp.com</li>
+<ul><li> 14:38 www.fiverr.com</li>
+<li class='same'> 14:37 www.fiverr.com</li>
+<li class='same'> 14:35 www.fiverr.com</li>
+<li class='same'> 14:34 www.fiverr.com</li>
+<li class='same'> 14:33 www.fiverr.com</li>
+<li class='same'> 14:32 www.fiverr.com</li>
+<li class='same'> 14:31 www.fiverr.com</li>
+<li> 14:30 appleid.apple.com</li>
+<li> 14:28 www.fiverr.com</li>
+<li> 14:28 www.gumtree.com</li>
+<li class='same'> 14:27 www.gumtree.com</li>
+<li class='same'> 14:26 www.gumtree.com</li>
+<li class='same'> 14:25 www.gumtree.com</li>
+<li> 14:25 duckduckgo.com</li>
+<li> 14:24 www.findtutors.co.uk</li>
+<li> 14:24 londonpianoteachers.co.uk</li>
+<li class='same'> 14:23 londonpianoteachers.co.uk</li>
+<li> 14:23 duckduckgo.com</li>
+<li> 14:23 www.superprof.co.uk</li>
+<li> 14:23 tutorful.co.uk</li>
+<li> 14:22 www.mumsnet.com</li>
+<li> 14:22 duckduckgo.com</li>
+<li> 14:19 kdpreports.amazon.com</li>
+<li> 14:19 kdp.amazon.com</li>
+<li> 14:18 duckduckgo.com</li>
+<li> 14:18 kdp.amazon.com</li>
+<li> 14:18 kdpreports.amazon.com</li>
+<li> 14:18 kdp.amazon.com</li>
+<li> 14:16 kdpreports.amazon.com</li>
+<li> 14:16 kdp.amazon.com</li>
+<li> 14:16 docs.google.com</li>
+<li> 14:16 drive.google.com</li>
+<li class='same'> 14:15 drive.google.com</li>
+<li> 14:14 docs.google.com</li>
+<li> 14:07 www.google.com</li>
+<li> 14:06 duckduckgo.com</li>
+<li> 14:01 sonic.fandom.com</li>
+<li class='same'> 14:00 sonic.fandom.com</li>
+<li class='same'> 13:59 sonic.fandom.com</li>
+<li> 13:56 sega.fandom.com</li>
+<li> 13:56 duckduckgo.com</li>
+<li> 13:50 www.reddit.com</li>
+<li class='same'> 13:49 www.reddit.com</li>
+<li> 13:49 duckduckgo.com</li>
+<li> 13:39 web.whatsapp.com</li>
 <li> 13:39 calendar.google.com</li>
 <li class='same'> 13:36 calendar.google.com</li>
 <li> 13:34 forum.artofmemory.com</li>
@@ -56367,6 +56411,7 @@ With number of accesses/minutes in parentheses
 <li> 15:23 outlook.office.com</li>
 <li class='same'> 14:58 outlook.office.com</li>
 <li> 14:51 kdp.amazon.com</li>
+<li class='same'> 14:50 kdp.amazon.com</li>
 <li class='same'> 14:49 kdp.amazon.com</li>
 <li> 14:48 kdpreports.amazon.com</li>
 </ul>
