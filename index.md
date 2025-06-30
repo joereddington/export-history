@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3310)</li>
-<li>mail.google.com (3079)</li>
-<li>outlook.office.com (2851)</li>
-<li>docs.google.com (2154)</li>
-<li>www.reddit.com (2121)</li>
+<li>mail.google.com (3088)</li>
+<li>outlook.office.com (2853)</li>
+<li>docs.google.com (2155)</li>
+<li>www.reddit.com (2125)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1305)</li>
+<li>duckduckgo.com (1306)</li>
 <li>chatgpt.com (877)</li>
-<li>www.amazon.co.uk (790)</li>
+<li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (588)</li>
-<li>www.linkedin.com (544)</li>
+<li>calendar.google.com (596)</li>
+<li>www.linkedin.com (546)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
-<li>login.microsoftonline.com (497)</li>
-<li>rhul-my.sharepoint.com (490)</li>
+<li>login.microsoftonline.com (498)</li>
+<li>rhul-my.sharepoint.com (492)</li>
 <li>tvtropes.org (488)</li>
-<li>gmail.com (461)</li>
+<li>gmail.com (463)</li>
 <li>github.com (450)</li>
-<li>web.whatsapp.com (412)</li>
+<li>web.whatsapp.com (413)</li>
 <li>chat.openai.com (358)</li>
 <li>drive.google.com (317)</li>
 <li>feedly.com (299)</li>
@@ -105,6 +105,63 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 30/06/25</H3>
+
+<br>
+
+<ul><li> 10:33 www.linkedin.com</li>
+<li class='same'> 10:32 www.linkedin.com</li>
+<li> 10:25 vehicleenquiry.service.gov.uk</li>
+<li class='same'> 10:24 vehicleenquiry.service.gov.uk</li>
+<li> 10:24 www.gov.uk</li>
+<li> 10:24 duckduckgo.com</li>
+<li> 10:23 rhul-my.sharepoint.com</li>
+<li class='same'> 10:22 rhul-my.sharepoint.com</li>
+<li> 10:21 mail.google.com</li>
+<li> 10:14 www.reddit.com</li>
+<li> 10:14 mail.google.com</li>
+<li class='same'> 10:13 mail.google.com</li>
+<li> 10:13 www.reddit.com</li>
+<li class='same'> 10:12 www.reddit.com</li>
+<li> 10:12 mail.google.com</li>
+<li> 10:12 gmail.com</li>
+<li> 10:11 www.reddit.com</li>
+<li> 10:09 www.amazon.co.uk</li>
+<li class='same'> 10:08 www.amazon.co.uk</li>
+<li class='same'> 10:07 www.amazon.co.uk</li>
+<li> 09:59 docs.google.com</li>
+<li> 09:57 calendar.google.com</li>
+<li class='same'> 09:56 calendar.google.com</li>
+<li> 09:56 outlook.office.com</li>
+<li class='same'> 09:55 outlook.office.com</li>
+<li> 09:55 m365.cloud.microsoft</li>
+<li> 09:55 mail.google.com</li>
+<li> 09:55 calendar.google.com</li>
+<li class='same'> 09:54 calendar.google.com</li>
+<li> 09:54 mail.google.com</li>
+<li> 09:54 calendar.google.com</li>
+<li> 09:53 mail.google.com</li>
+<li> 09:53 gmail.com</li>
+<li> 09:53 calendar.google.com</li>
+<li> 09:52 web.whatsapp.com</li>
+<li> 09:52 calendar.google.com</li>
+<li> 09:44 herts365-my.sharepoint.com</li>
+<li> 09:44 m365.cloud.microsoft</li>
+<li> 09:44 login.microsoftonline.com</li>
+<li> 09:44 eu-west.azureauth.duosecurity.com</li>
+<li> 09:44 api-b6327e78.duosecurity.com</li>
+<li> 09:44 adfs.herts.ac.uk</li>
+<li> 09:43 api-b6327e78.duosecurity.com</li>
+<li> 09:43 adfs.herts.ac.uk</li>
+<li> 09:43 herts.instructure.com</li>
+<li> 09:43 calendar.google.com</li>
+<li> 09:31 pay.ebay.co.uk</li>
+<li> 09:30 signin.ebay.co.uk</li>
+<li> 09:30 pay.ebay.co.uk</li>
+<li> 09:30 www.ebay.co.uk</li>
+<li> 09:30 mail.google.com</li>
+<li class='same'> 09:29 mail.google.com</li>
+<li> 09:28 fast.com</li>
+</ul>
 
 <br>
 
