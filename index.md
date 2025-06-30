@@ -73,18 +73,18 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2853)</li>
 <li>docs.google.com (2155)</li>
 <li>www.reddit.com (2125)</li>
-<li>outlook.office365.com (2081)</li>
+<li>outlook.office365.com (2085)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1306)</li>
+<li>duckduckgo.com (1307)</li>
 <li>chatgpt.com (877)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (596)</li>
 <li>www.linkedin.com (546)</li>
 <li>moodle.royalholloway.ac.uk (530)</li>
-<li>login.microsoftonline.com (498)</li>
-<li>rhul-my.sharepoint.com (492)</li>
+<li>login.microsoftonline.com (499)</li>
+<li>rhul-my.sharepoint.com (493)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (463)</li>
 <li>github.com (450)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:33 www.linkedin.com</li>
+<ul><li> 10:46 outlook.office365.com</li>
+<li class='same'> 10:44 outlook.office365.com</li>
+<li class='same'> 10:43 outlook.office365.com</li>
+<li> 10:43 login.microsoftonline.com</li>
+<li> 10:43 outlook.office365.com</li>
+<li> 10:42 assets.publishing.service.gov.uk</li>
+<li> 10:39 duckduckgo.com</li>
+<li> 10:38 rhul-my.sharepoint.com</li>
+<li> 10:33 www.linkedin.com</li>
 <li class='same'> 10:32 www.linkedin.com</li>
 <li> 10:25 vehicleenquiry.service.gov.uk</li>
 <li class='same'> 10:24 vehicleenquiry.service.gov.uk</li>
