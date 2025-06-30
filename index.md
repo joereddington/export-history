@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3079)</li>
 <li>outlook.office.com (2851)</li>
 <li>docs.google.com (2154)</li>
-<li>www.reddit.com (2119)</li>
+<li>www.reddit.com (2121)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:23 duckduckgo.com</li>
+<ul><li> 07:26 www.reddit.com</li>
+<li class='same'> 07:25 www.reddit.com</li>
+<li> 07:23 duckduckgo.com</li>
 <li> 07:22 www.reddit.com</li>
 <li class='same'> 07:21 www.reddit.com</li>
 <li class='same'> 07:19 www.reddit.com</li>
