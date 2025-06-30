@@ -71,8 +71,8 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3310)</li>
 <li>mail.google.com (3079)</li>
 <li>outlook.office.com (2851)</li>
-<li>docs.google.com (2149)</li>
-<li>www.reddit.com (2114)</li>
+<li>docs.google.com (2152)</li>
+<li>www.reddit.com (2115)</li>
 <li>outlook.office365.com (2081)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (450)</li>
 <li>web.whatsapp.com (412)</li>
 <li>chat.openai.com (358)</li>
-<li>drive.google.com (316)</li>
+<li>drive.google.com (317)</li>
 <li>feedly.com (299)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
@@ -104,11 +104,27 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 30/06/25</H3>
+
+<br>
+
+<ul><li> 06:37 docs.google.com</li>
+<li class='same'> 06:36 docs.google.com</li>
+<li class='same'> 06:34 docs.google.com</li>
+<li> 06:33 drive.google.com</li>
+</ul>
+
 <H3>Sunday, 29/06/25</H3>
 
 <br>
 
-<ul><li> 22:00 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 22:03 www.reddit.com</li>
+<li> 22:01 www.gov.uk</li>
+<li> 22:00 www.reddit.com</li>
 <li> 21:58 web.whatsapp.com</li>
 <li> 21:58 www.reddit.com</li>
 <li class='same'> 21:57 www.reddit.com</li>
