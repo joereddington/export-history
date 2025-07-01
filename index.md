@@ -70,26 +70,26 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3317)</li>
 <li>mail.google.com (3116)</li>
-<li>outlook.office.com (2885)</li>
+<li>outlook.office.com (2892)</li>
 <li>docs.google.com (2164)</li>
 <li>www.reddit.com (2141)</li>
-<li>outlook.office365.com (2098)</li>
+<li>outlook.office365.com (2100)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1320)</li>
-<li>chatgpt.com (886)</li>
+<li>duckduckgo.com (1321)</li>
+<li>chatgpt.com (888)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (602)</li>
 <li>www.linkedin.com (546)</li>
 <li>moodle.royalholloway.ac.uk (531)</li>
-<li>login.microsoftonline.com (507)</li>
-<li>rhul-my.sharepoint.com (494)</li>
+<li>login.microsoftonline.com (508)</li>
+<li>rhul-my.sharepoint.com (495)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (469)</li>
-<li>github.com (455)</li>
-<li>web.whatsapp.com (418)</li>
-<li>chat.openai.com (363)</li>
+<li>github.com (456)</li>
+<li>web.whatsapp.com (419)</li>
+<li>chat.openai.com (365)</li>
 <li>drive.google.com (323)</li>
 <li>feedly.com (299)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:35 www.legislation.gov.uk</li>
+<ul><li> 16:31 outlook.office.com</li>
+<li class='same'> 16:30 outlook.office.com</li>
+<li> 16:30 outlook.office365.com</li>
+<li class='same'> 16:29 outlook.office365.com</li>
+<li> 16:29 outlook.office.com</li>
+<li class='same'> 16:20 outlook.office.com</li>
+<li> 16:09 chatgpt.com</li>
+<li> 16:09 chat.openai.com</li>
+<li> 16:09 chatgpt.com</li>
+<li> 16:09 chat.openai.com</li>
+<li> 16:03 outlook.office.com</li>
+<li class='same'> 16:02 outlook.office.com</li>
+<li> 16:01 herts365-my.sharepoint.com</li>
+<li> 16:00 web.whatsapp.com</li>
+<li> 16:00 demo.ctfd.io</li>
+<li class='same'> 15:59 demo.ctfd.io</li>
+<li> 15:57 github.com</li>
+<li> 15:57 duckduckgo.com</li>
+<li> 15:55 outlook.office.com</li>
+<li> 15:51 herts365-my.sharepoint.com</li>
+<li> 15:51 login.microsoftonline.com</li>
+<li> 15:51 herts365.sharepoint.com</li>
+<li> 15:51 m365.cloud.microsoft</li>
+<li> 15:51 rhul-my.sharepoint.com</li>
+<li> 15:35 www.legislation.gov.uk</li>
 <li class='same'> 15:34 www.legislation.gov.uk</li>
 <li> 15:33 chatgpt.com</li>
 <li class='same'> 15:32 chatgpt.com</li>
