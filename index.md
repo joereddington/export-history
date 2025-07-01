@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3317)</li>
 <li>mail.google.com (3109)</li>
-<li>outlook.office.com (2869)</li>
+<li>outlook.office.com (2868)</li>
 <li>docs.google.com (2164)</li>
 <li>www.reddit.com (2139)</li>
 <li>outlook.office365.com (2088)</li>
@@ -82,8 +82,8 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (600)</li>
 <li>www.linkedin.com (546)</li>
-<li>moodle.royalholloway.ac.uk (532)</li>
-<li>login.microsoftonline.com (506)</li>
+<li>moodle.royalholloway.ac.uk (531)</li>
+<li>login.microsoftonline.com (504)</li>
 <li>rhul-my.sharepoint.com (493)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (469)</li>
@@ -17429,8 +17429,6 @@ With number of accesses/minutes in parentheses
 <li> 12:00 moodle.royalholloway.ac.uk</li>
 <li class='same'> 11:59 moodle.royalholloway.ac.uk</li>
 <li> 11:59 login.microsoftonline.com</li>
-<li> 11:59 moodle.royalholloway.ac.uk</li>
-<li> 11:59 login.microsoftonline.com</li>
 <li> 11:59 outlook.office.com</li>
 <li> 11:55 web.whatsapp.com</li>
 <li> 11:55 scholar.google.co.uk</li>
@@ -17564,8 +17562,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:44 duckduckgo.com</li>
 <li> 09:43 gitlab.cim.rhul.ac.uk</li>
 <li> 09:43 rhul-my.sharepoint.com</li>
-<li> 09:43 outlook.office.com</li>
-<li> 09:43 login.microsoftonline.com</li>
 <li> 09:43 outlook.office.com</li>
 <li> 09:43 outlook.office365.com</li>
 <li> 09:42 fast.com</li>
