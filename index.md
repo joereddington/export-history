@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (2892)</li>
 <li>docs.google.com (2164)</li>
 <li>www.reddit.com (2141)</li>
-<li>outlook.office365.com (2100)</li>
+<li>outlook.office365.com (2102)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
 <li>duckduckgo.com (1321)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (256)</li>
-<li>rhul.sharepoint.com (247)</li>
+<li>rhul.sharepoint.com (249)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (223)</li>
 
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:31 outlook.office.com</li>
+<ul><li> 16:47 cryptpad.fr</li>
+<li> 16:47 outlook.office365.com</li>
+<li> 16:47 rhul.sharepoint.com</li>
+<li class='same'> 16:46 rhul.sharepoint.com</li>
+<li> 16:46 outlook.office365.com</li>
+<li> 16:31 outlook.office.com</li>
 <li class='same'> 16:30 outlook.office.com</li>
 <li> 16:30 outlook.office365.com</li>
 <li class='same'> 16:29 outlook.office365.com</li>
@@ -49560,6 +49565,7 @@ With number of accesses/minutes in parentheses
 <li> 19:50 webtimetables.royalholloway.ac.uk</li>
 <li> 19:50 moodle.royalholloway.ac.uk</li>
 <li> 19:48 outlook.office.com</li>
+<li> 19:48 cryptpad.fr</li>
 <li> 19:43 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 19:42 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
 <li> 19:40 <a href="https://www.bbc.co.uk/news/technology-54568784">British Airways fined £20m over data breach - BBC News</a></li>
@@ -49664,7 +49670,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:00 easychair.org</li>
+<ul><li> 17:27 cryptpad.fr</li>
+<li> 17:00 easychair.org</li>
 <li class='same'> 16:59 easychair.org</li>
 </ul>
 
@@ -49928,7 +49935,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:55 rhul-my.sharepoint.com</li>
+<ul><li> 19:09 cryptpad.fr</li>
+<li> 18:55 rhul-my.sharepoint.com</li>
 <li> 18:55 outlook.office.com</li>
 </ul>
 
