@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3317)</li>
-<li>mail.google.com (3109)</li>
-<li>outlook.office.com (2869)</li>
+<li>mail.google.com (3112)</li>
+<li>outlook.office.com (2878)</li>
 <li>docs.google.com (2164)</li>
 <li>www.reddit.com (2139)</li>
-<li>outlook.office365.com (2090)</li>
+<li>outlook.office365.com (2096)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1319)</li>
+<li>duckduckgo.com (1320)</li>
 <li>chatgpt.com (881)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (600)</li>
+<li>calendar.google.com (602)</li>
 <li>www.linkedin.com (546)</li>
 <li>moodle.royalholloway.ac.uk (531)</li>
-<li>login.microsoftonline.com (504)</li>
+<li>login.microsoftonline.com (505)</li>
 <li>rhul-my.sharepoint.com (494)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (469)</li>
 <li>github.com (455)</li>
-<li>web.whatsapp.com (417)</li>
+<li>web.whatsapp.com (418)</li>
 <li>chat.openai.com (360)</li>
 <li>drive.google.com (323)</li>
 <li>feedly.com (299)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:30 rhul-my.sharepoint.com</li>
+<ul><li> 14:21 outlook.office.com</li>
+<li class='same'> 14:20 outlook.office.com</li>
+<li class='same'> 14:19 outlook.office.com</li>
+<li class='same'> 14:18 outlook.office.com</li>
+<li class='same'> 14:17 outlook.office.com</li>
+<li class='same'> 14:16 outlook.office.com</li>
+<li> 14:11 herts.instructure.com</li>
+<li> 14:06 web.whatsapp.com</li>
+<li> 14:02 outlook.office.com</li>
+<li class='same'> 14:01 outlook.office.com</li>
+<li> 14:01 mail.google.com</li>
+<li> 14:01 outlook.office365.com</li>
+<li> 14:01 login.microsoftonline.com</li>
+<li> 14:00 outlook.office365.com</li>
+<li class='same'> 13:58 outlook.office365.com</li>
+<li> 13:47 <a href="https://en.wikipedia.org/wiki/ClassDojo">ClassDojo - Wikipedia</a></li>
+<li> 13:47 duckduckgo.com</li>
+<li> 13:46 outlook.office365.com</li>
+<li class='same'> 13:43 outlook.office365.com</li>
+<li> 13:43 mail.google.com</li>
+<li class='same'> 13:42 mail.google.com</li>
+<li> 13:42 calendar.google.com</li>
+<li> 13:42 outlook.office.com</li>
+<li> 13:41 calendar.google.com</li>
+<li> 13:41 outlook.office365.com</li>
+<li> 13:30 rhul-my.sharepoint.com</li>
 </ul>
 
 <br>
