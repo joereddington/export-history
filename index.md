@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3317)</li>
-<li>mail.google.com (3104)</li>
-<li>outlook.office.com (2858)</li>
+<li>mail.google.com (3109)</li>
+<li>outlook.office.com (2869)</li>
 <li>docs.google.com (2164)</li>
-<li>www.reddit.com (2136)</li>
+<li>www.reddit.com (2139)</li>
 <li>outlook.office365.com (2088)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1318)</li>
-<li>chatgpt.com (879)</li>
+<li>duckduckgo.com (1319)</li>
+<li>chatgpt.com (881)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (600)</li>
 <li>www.linkedin.com (546)</li>
 <li>moodle.royalholloway.ac.uk (532)</li>
-<li>login.microsoftonline.com (504)</li>
+<li>login.microsoftonline.com (506)</li>
 <li>rhul-my.sharepoint.com (493)</li>
 <li>tvtropes.org (488)</li>
-<li>gmail.com (468)</li>
+<li>gmail.com (469)</li>
 <li>github.com (455)</li>
-<li>web.whatsapp.com (416)</li>
-<li>chat.openai.com (358)</li>
+<li>web.whatsapp.com (417)</li>
+<li>chat.openai.com (360)</li>
 <li>drive.google.com (323)</li>
 <li>feedly.com (299)</li>
 <li>fritz.box (277)</li>
@@ -105,6 +105,56 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 01/07/25</H3>
+
+<br>
+
+<ul><li> 12:37 outlook.office.com</li>
+<li class='same'> 12:35 outlook.office.com</li>
+<li> 12:34 chatgpt.com</li>
+<li> 12:34 chat.openai.com</li>
+<li> 12:33 outlook.office.com</li>
+<li class='same'> 12:29 outlook.office.com</li>
+<li class='same'> 12:28 outlook.office.com</li>
+<li> 12:27 web.whatsapp.com</li>
+<li> 12:27 online.unity.co.uk</li>
+<li> 12:27 duckduckgo.com</li>
+<li> 12:26 mail.google.com</li>
+<li> 12:26 forum.artofmemory.com</li>
+<li class='same'> 12:25 forum.artofmemory.com</li>
+<li class='same'> 12:24 forum.artofmemory.com</li>
+<li class='same'> 12:23 forum.artofmemory.com</li>
+<li> 12:23 mail.google.com</li>
+<li class='same'> 12:22 mail.google.com</li>
+<li> 12:22 outlook.office.com</li>
+<li> 12:02 herts.instructure.com</li>
+<li> 12:02 adfs.herts.ac.uk</li>
+<li> 12:00 outlook.office.com</li>
+<li> 12:00 mail.google.com</li>
+<li> 12:00 www.paypal.com</li>
+<li> 11:59 mail.google.com</li>
+<li> 11:59 gmail.com</li>
+<li> 11:59 outlook.office.com</li>
+<li class='same'> 11:53 outlook.office.com</li>
+<li> 11:51 www.reddit.com</li>
+<li class='same'> 11:50 www.reddit.com</li>
+<li class='same'> 11:49 www.reddit.com</li>
+<li> 11:48 outlook.office.com</li>
+<li class='same'> 11:47 outlook.office.com</li>
+<li> 11:47 m365.cloud.microsoft</li>
+<li> 11:47 login.microsoftonline.com</li>
+<li> 11:47 eu-west.azureauth.duosecurity.com</li>
+<li> 11:47 api-b6327e78.duosecurity.com</li>
+<li> 11:47 adfs.herts.ac.uk</li>
+<li> 11:46 chatgpt.com</li>
+<li> 11:46 chat.openai.com</li>
+<li> 11:46 herts365-my.sharepoint.com</li>
+<li> 11:46 m365.cloud.microsoft</li>
+<li class='same'> 11:45 m365.cloud.microsoft</li>
+<li> 11:45 login.microsoftonline.com</li>
+<li> 11:45 eu-west.azureauth.duosecurity.com</li>
+<li> 11:45 api-b6327e78.duosecurity.com</li>
+<li> 11:45 adfs.herts.ac.uk</li>
+</ul>
 
 <br>
 
