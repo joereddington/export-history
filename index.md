@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3317)</li>
 <li>mail.google.com (3120)</li>
 <li>outlook.office.com (2892)</li>
-<li>docs.google.com (2169)</li>
+<li>docs.google.com (2170)</li>
 <li>www.reddit.com (2146)</li>
 <li>outlook.office365.com (2102)</li>
 <li>bsky.app (1579)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (603)</li>
-<li>www.linkedin.com (546)</li>
+<li>www.linkedin.com (548)</li>
 <li>moodle.royalholloway.ac.uk (531)</li>
 <li>login.microsoftonline.com (508)</li>
 <li>rhul-my.sharepoint.com (495)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (256)</li>
 <li>rhul.sharepoint.com (249)</li>
 <li>qbo.intuit.com (242)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (224)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (225)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:40 kdpreports.amazon.com</li>
+<ul><li> 20:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 20:44 www.linkedin.com</li>
+<li class='same'> 20:43 www.linkedin.com</li>
+<li> 20:43 docs.google.com</li>
+<li> 20:40 kdpreports.amazon.com</li>
 <li> 20:39 kdp.amazon.com</li>
 <li> 20:39 drive.google.com</li>
 <li> 20:38 www.reddit.com</li>
