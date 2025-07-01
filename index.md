@@ -72,15 +72,15 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3104)</li>
 <li>outlook.office.com (2853)</li>
 <li>docs.google.com (2159)</li>
-<li>www.reddit.com (2135)</li>
+<li>www.reddit.com (2136)</li>
 <li>outlook.office365.com (2085)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1424)</li>
-<li>duckduckgo.com (1317)</li>
+<li>duckduckgo.com (1318)</li>
 <li>chatgpt.com (879)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (599)</li>
+<li>calendar.google.com (600)</li>
 <li>www.linkedin.com (546)</li>
 <li>moodle.royalholloway.ac.uk (532)</li>
 <li>login.microsoftonline.com (502)</li>
@@ -104,7 +104,23 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 01/07/25</H3>
+
+<br>
+
+<ul><li> 07:43 api-b6327e78.duosecurity.com</li>
+<li> 07:43 adfs.herts.ac.uk</li>
+<li> 07:16 calendar.google.com</li>
+<li> 07:05 duckduckgo.com</li>
+<li> 07:00 www.reddit.com</li>
+<li> 06:49 www.giantitp.com</li>
+</ul>
+
 <H3>Monday, 30/06/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
