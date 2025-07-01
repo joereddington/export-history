@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3317)</li>
-<li>mail.google.com (3116)</li>
+<li>mail.google.com (3120)</li>
 <li>outlook.office.com (2892)</li>
-<li>docs.google.com (2164)</li>
-<li>www.reddit.com (2141)</li>
+<li>docs.google.com (2169)</li>
+<li>www.reddit.com (2146)</li>
 <li>outlook.office365.com (2102)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
@@ -80,24 +80,24 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (888)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (602)</li>
+<li>calendar.google.com (603)</li>
 <li>www.linkedin.com (546)</li>
 <li>moodle.royalholloway.ac.uk (531)</li>
 <li>login.microsoftonline.com (508)</li>
 <li>rhul-my.sharepoint.com (495)</li>
 <li>tvtropes.org (488)</li>
-<li>gmail.com (469)</li>
+<li>gmail.com (470)</li>
 <li>github.com (456)</li>
 <li>web.whatsapp.com (419)</li>
 <li>chat.openai.com (365)</li>
-<li>drive.google.com (323)</li>
-<li>feedly.com (299)</li>
+<li>drive.google.com (324)</li>
+<li>feedly.com (300)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (256)</li>
 <li>rhul.sharepoint.com (249)</li>
 <li>qbo.intuit.com (242)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (223)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (224)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,35 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 01/07/25</H3>
+
+<br>
+
+<ul><li> 20:40 kdpreports.amazon.com</li>
+<li> 20:39 kdp.amazon.com</li>
+<li> 20:39 drive.google.com</li>
+<li> 20:38 www.reddit.com</li>
+<li class='same'> 20:37 www.reddit.com</li>
+<li> 20:36 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 20:33 www.reddit.com</li>
+<li class='same'> 20:32 www.reddit.com</li>
+<li class='same'> 20:31 www.reddit.com</li>
+<li> 20:31 mail.google.com</li>
+<li> 20:30 feedly.com</li>
+<li> 20:30 mail.google.com</li>
+<li class='same'> 20:29 mail.google.com</li>
+<li> 20:29 docs.google.com</li>
+<li class='same'> 20:27 docs.google.com</li>
+<li class='same'> 20:24 docs.google.com</li>
+<li> 20:24 mail.google.com</li>
+<li> 20:24 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:37 calendar.google.com</li>
+<li> 18:37 docs.google.com</li>
+<li class='same'> 18:36 docs.google.com</li>
+</ul>
 
 <br>
 
