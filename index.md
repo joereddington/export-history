@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3317)</li>
-<li>mail.google.com (3122)</li>
-<li>outlook.office.com (2903)</li>
+<li>mail.google.com (3123)</li>
+<li>outlook.office.com (2914)</li>
 <li>docs.google.com (2171)</li>
 <li>www.reddit.com (2149)</li>
 <li>outlook.office365.com (2109)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1324)</li>
+<li>duckduckgo.com (1325)</li>
 <li>chatgpt.com (889)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (603)</li>
 <li>www.linkedin.com (548)</li>
 <li>moodle.royalholloway.ac.uk (531)</li>
-<li>login.microsoftonline.com (513)</li>
+<li>login.microsoftonline.com (512)</li>
 <li>rhul-my.sharepoint.com (496)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (471)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:27 herts365-my.sharepoint.com</li>
+<ul><li> 13:25 mail.google.com</li>
+<li> 13:25 outlook.office.com</li>
+<li class='same'> 13:19 outlook.office.com</li>
+<li class='same'> 13:18 outlook.office.com</li>
+<li class='same'> 13:17 outlook.office.com</li>
+<li class='same'> 13:16 outlook.office.com</li>
+<li class='same'> 13:11 outlook.office.com</li>
+<li> 13:06 ask.herts.ac.uk</li>
+<li> 13:06 duckduckgo.com</li>
+<li> 13:06 outlook.office.com</li>
+<li class='same'> 13:02 outlook.office.com</li>
+<li class='same'> 13:01 outlook.office.com</li>
+<li> 12:59 herts.instructure.com</li>
+<li> 12:54 isyou.info</li>
+<li> 12:54 citeseerx.ist.psu.edu</li>
+<li> 12:54 www.usenix.org</li>
+<li> 12:53 scholar.google.com</li>
+<li> 12:51 outlook.office.com</li>
+<li class='same'> 12:50 outlook.office.com</li>
+<li> 12:27 herts365-my.sharepoint.com</li>
 <li> 12:27 duckduckgo.com</li>
 <li> 12:27 outlook.office.com</li>
 <li> 12:27 web.whatsapp.com</li>
@@ -17299,7 +17318,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:21 outlook.office.com</li>
-<li> 13:21 login.microsoftonline.com</li>
 <li> 13:21 outlook.office365.com</li>
 <li> 13:20 mail.google.com</li>
 <li class='same'> 13:19 mail.google.com</li>
