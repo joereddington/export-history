@@ -70,21 +70,21 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3317)</li>
 <li>mail.google.com (3120)</li>
-<li>outlook.office.com (2892)</li>
+<li>outlook.office.com (2893)</li>
 <li>docs.google.com (2171)</li>
-<li>www.reddit.com (2147)</li>
+<li>www.reddit.com (2149)</li>
 <li>outlook.office365.com (2102)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1322)</li>
+<li>duckduckgo.com (1323)</li>
 <li>chatgpt.com (888)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (603)</li>
 <li>www.linkedin.com (548)</li>
 <li>moodle.royalholloway.ac.uk (531)</li>
-<li>login.microsoftonline.com (508)</li>
-<li>rhul-my.sharepoint.com (495)</li>
+<li>login.microsoftonline.com (509)</li>
+<li>rhul-my.sharepoint.com (496)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (470)</li>
 <li>github.com (456)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (256)</li>
 <li>rhul.sharepoint.com (249)</li>
 <li>qbo.intuit.com (242)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (226)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (227)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:37 artofmemory.com</li>
+<ul><li> 08:09 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 08:08 www.reddit.com</li>
+<li class='same'> 08:07 www.reddit.com</li>
+<li> 08:07 herts365-my.sharepoint.com</li>
+<li> 08:07 duckduckgo.com</li>
+<li> 08:07 outlook.office.com</li>
+<li> 08:07 m365.cloud.microsoft</li>
+<li> 08:07 login.microsoftonline.com</li>
+<li> 08:07 eu-west.azureauth.duosecurity.com</li>
+<li> 08:07 api-b6327e78.duosecurity.com</li>
+<li> 08:07 adfs.herts.ac.uk</li>
+<li> 08:06 api-b6327e78.duosecurity.com</li>
+<li> 08:06 adfs.herts.ac.uk</li>
+<li> 08:06 rhul-my.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:15 artofmemory.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:37 artofmemory.com</li>
 <li> 06:37 duckduckgo.com</li>
 <li> 06:34 docs.google.com</li>
 <li> 06:14 forum.artofmemory.com</li>
