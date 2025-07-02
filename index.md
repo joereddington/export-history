@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3317)</li>
 <li>mail.google.com (3120)</li>
 <li>outlook.office.com (2892)</li>
-<li>docs.google.com (2170)</li>
-<li>www.reddit.com (2146)</li>
+<li>docs.google.com (2171)</li>
+<li>www.reddit.com (2147)</li>
 <li>outlook.office365.com (2102)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1321)</li>
+<li>duckduckgo.com (1322)</li>
 <li>chatgpt.com (888)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
@@ -97,18 +97,38 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (256)</li>
 <li>rhul.sharepoint.com (249)</li>
 <li>qbo.intuit.com (242)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (225)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (226)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Wednesday, 02/07/25</H3>
+
+<br>
+
+<ul><li> 06:37 artofmemory.com</li>
+<li> 06:37 duckduckgo.com</li>
+<li> 06:34 docs.google.com</li>
+<li> 06:14 forum.artofmemory.com</li>
+<li class='same'> 06:13 forum.artofmemory.com</li>
+<li class='same'> 06:12 forum.artofmemory.com</li>
+<li class='same'> 06:11 forum.artofmemory.com</li>
+<li class='same'> 06:10 forum.artofmemory.com</li>
+<li> 06:08 www.reddit.com</li>
+<li> 06:08 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
 <H3>Tuesday, 01/07/25</H3>
 
 <br>
 
-<ul><li> 20:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 20:44 www.linkedin.com</li>
 <li class='same'> 20:43 www.linkedin.com</li>
 <li> 20:43 docs.google.com</li>
