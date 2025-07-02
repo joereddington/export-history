@@ -70,20 +70,20 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3317)</li>
 <li>mail.google.com (3120)</li>
-<li>outlook.office.com (2893)</li>
+<li>outlook.office.com (2900)</li>
 <li>docs.google.com (2171)</li>
 <li>www.reddit.com (2149)</li>
 <li>outlook.office365.com (2102)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
 <li>duckduckgo.com (1323)</li>
-<li>chatgpt.com (888)</li>
+<li>chatgpt.com (889)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (603)</li>
 <li>www.linkedin.com (548)</li>
 <li>moodle.royalholloway.ac.uk (531)</li>
-<li>login.microsoftonline.com (509)</li>
+<li>login.microsoftonline.com (512)</li>
 <li>rhul-my.sharepoint.com (496)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (470)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (256)</li>
 <li>rhul.sharepoint.com (249)</li>
 <li>qbo.intuit.com (242)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (227)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (228)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,35 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 02/07/25</H3>
+
+<br>
+
+<ul><li> 11:29 chatgpt.com</li>
+<li> 11:16 herts365-my.sharepoint.com</li>
+<li> 11:13 outlook.office.com</li>
+<li class='same'> 11:12 outlook.office.com</li>
+<li> 11:10 herts365-my.sharepoint.com</li>
+<li> 11:10 outlook.office.com</li>
+<li> 11:10 login.microsoftonline.com</li>
+<li> 11:10 forms.office.com</li>
+<li class='same'> 11:09 forms.office.com</li>
+<li> 11:09 outlook.office.com</li>
+<li> 11:09 m365.cloud.microsoft</li>
+<li> 11:09 login.microsoftonline.com</li>
+<li> 11:09 eu-west.azureauth.duosecurity.com</li>
+<li> 11:09 api-b6327e78.duosecurity.com</li>
+<li> 11:09 adfs.herts.ac.uk</li>
+<li> 11:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 10:56 outlook.office.com</li>
+<li class='same'> 10:53 outlook.office.com</li>
+<li class='same'> 10:46 outlook.office.com</li>
+<li> 10:46 m365.cloud.microsoft</li>
+<li class='same'> 10:45 m365.cloud.microsoft</li>
+<li> 10:45 login.microsoftonline.com</li>
+<li> 10:45 eu-west.azureauth.duosecurity.com</li>
+<li> 10:45 api-b6327e78.duosecurity.com</li>
+<li> 10:45 adfs.herts.ac.uk</li>
+</ul>
 
 <br>
 
