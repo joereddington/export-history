@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3324)</li>
-<li>mail.google.com (3140)</li>
-<li>outlook.office.com (2945)</li>
+<ol><li>www.google.com (3326)</li>
+<li>mail.google.com (3148)</li>
+<li>outlook.office.com (2952)</li>
 <li>docs.google.com (2177)</li>
-<li>www.reddit.com (2158)</li>
+<li>www.reddit.com (2163)</li>
 <li>outlook.office365.com (2140)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1341)</li>
-<li>chatgpt.com (896)</li>
+<li>duckduckgo.com (1342)</li>
+<li>chatgpt.com (897)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (611)</li>
+<li>calendar.google.com (612)</li>
 <li>www.linkedin.com (558)</li>
-<li>moodle.royalholloway.ac.uk (531)</li>
-<li>login.microsoftonline.com (523)</li>
-<li>rhul-my.sharepoint.com (503)</li>
+<li>moodle.royalholloway.ac.uk (535)</li>
+<li>login.microsoftonline.com (525)</li>
+<li>rhul-my.sharepoint.com (505)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (475)</li>
 <li>github.com (461)</li>
-<li>web.whatsapp.com (422)</li>
-<li>chat.openai.com (369)</li>
+<li>web.whatsapp.com (423)</li>
+<li>chat.openai.com (370)</li>
 <li>drive.google.com (324)</li>
 <li>feedly.com (300)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,67 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:39 www.google.com</li>
+<ul><li> 13:33 chatgpt.com</li>
+<li> 13:33 chat.openai.com</li>
+<li> 13:28 www.parkjockey.com</li>
+<li> 13:27 www.paypal.com</li>
+<li> 13:27 www.parkjockey.com</li>
+<li> 13:27 www.paypal.com</li>
+<li> 13:26 www.parkjockey.com</li>
+<li> 13:26 mail.google.com</li>
+<li> 13:26 www.disneyplus.com</li>
+<li> 13:26 web.whatsapp.com</li>
+<li> 13:25 www.disneyplus.com</li>
+<li class='same'> 13:24 www.disneyplus.com</li>
+<li> 13:24 outlook.office.com</li>
+<li> 13:23 rhul-my.sharepoint.com</li>
+<li class='same'> 13:22 rhul-my.sharepoint.com</li>
+<li> 13:22 www.disneyplus.com</li>
+<li> 13:22 outlook.office.com</li>
+<li> 13:22 www.disneyplus.com</li>
+<li> 13:21 forms.office.com</li>
+<li> 13:20 outlook.office.com</li>
+<li> 13:20 forms.office.com</li>
+<li> 13:20 login.microsoftonline.com</li>
+<li> 13:20 forms.office.com</li>
+<li> 13:20 outlook.office.com</li>
+<li class='same'> 13:19 outlook.office.com</li>
+<li> 13:19 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:18 moodle.royalholloway.ac.uk</li>
+<li> 13:18 login.microsoftonline.com</li>
+<li> 13:18 moodle.royalholloway.ac.uk</li>
+<li> 13:18 login.microsoftonline.com</li>
+<li> 13:18 moodle.royalholloway.ac.uk</li>
+<li> 13:18 mail.google.com</li>
+<li> 13:11 www.reddit.com</li>
+<li class='same'> 13:09 www.reddit.com</li>
+<li> 13:08 www.gov.uk</li>
+<li> 13:06 www.reddit.com</li>
+<li> 13:06 mail.google.com</li>
+<li> 13:05 outlook.office.com</li>
+<li class='same'> 13:03 outlook.office.com</li>
+<li> 13:03 mail.google.com</li>
+<li> 13:02 www.surveymonkey.com</li>
+<li> 13:02 mail.google.com</li>
+<li class='same'> 13:01 mail.google.com</li>
+<li> 13:00 www.reddit.com</li>
+<li class='same'> 12:59 www.reddit.com</li>
+<li> 12:58 www.tickettailor.com</li>
+<li> 12:58 mail.google.com</li>
+<li> 12:51 www.wildwithnature.co.uk</li>
+<li class='same'> 12:48 www.wildwithnature.co.uk</li>
+<li> 12:48 www.google.com</li>
+<li> 12:48 www.google.co.uk</li>
+<li class='same'> 12:46 www.google.co.uk</li>
+<li class='same'> 12:45 www.google.co.uk</li>
+<li class='same'> 12:44 www.google.co.uk</li>
+<li> 12:44 duckduckgo.com</li>
+<li> 12:44 www.wildwithnature.co.uk</li>
+<li class='same'> 12:42 www.wildwithnature.co.uk</li>
+<li> 12:42 www.google.com</li>
+<li> 12:42 calendar.google.com</li>
+<li> 12:40 mail.google.com</li>
+<li> 12:39 www.google.com</li>
 <li> 12:39 booking-directly.com</li>
 <li> 12:37 docs.google.com</li>
 <li> 12:35 chatgpt.com</li>
@@ -17452,7 +17512,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:36 outlook.office.com</li>
 <li class='same'> 09:35 outlook.office.com</li>
 <li class='same'> 09:31 outlook.office.com</li>
-<li> 09:31 login.microsoftonline.com</li>
 <li> 09:31 outlook.office365.com</li>
 <li> 09:31 outlook.office.com</li>
 <li> 09:30 rhul-my.sharepoint.com</li>
