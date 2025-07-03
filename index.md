@@ -70,26 +70,26 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3328)</li>
 <li>mail.google.com (3157)</li>
-<li>outlook.office.com (2963)</li>
+<li>outlook.office.com (2967)</li>
 <li>docs.google.com (2177)</li>
 <li>www.reddit.com (2168)</li>
-<li>outlook.office365.com (2140)</li>
+<li>outlook.office365.com (2142)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
 <li>duckduckgo.com (1347)</li>
-<li>chatgpt.com (898)</li>
+<li>chatgpt.com (900)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (612)</li>
 <li>www.linkedin.com (558)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
-<li>login.microsoftonline.com (526)</li>
-<li>rhul-my.sharepoint.com (505)</li>
+<li>login.microsoftonline.com (529)</li>
+<li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (475)</li>
 <li>github.com (463)</li>
 <li>web.whatsapp.com (424)</li>
-<li>chat.openai.com (371)</li>
+<li>chat.openai.com (372)</li>
 <li>drive.google.com (324)</li>
 <li>feedly.com (300)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:56 herts365-my.sharepoint.com</li>
+<ul><li> 18:28 outlook.office365.com</li>
+<li class='same'> 18:27 outlook.office365.com</li>
+<li> 18:27 outlook.office.com</li>
+<li class='same'> 18:26 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:08 portal.azure.com</li>
+<li class='same'> 15:07 portal.azure.com</li>
+<li class='same'> 15:06 portal.azure.com</li>
+<li> 15:06 login.microsoftonline.com</li>
+<li> 15:06 portal.azure.com</li>
+<li> 15:06 chatgpt.com</li>
+<li class='same'> 15:05 chatgpt.com</li>
+<li> 15:05 chat.openai.com</li>
+<li> 15:04 outlook.office.com</li>
+<li class='same'> 15:03 outlook.office.com</li>
+<li> 15:03 herts365-my.sharepoint.com</li>
+<li> 15:03 login.microsoftonline.com</li>
+<li> 15:03 rhul-my.sharepoint.com</li>
+<li> 15:03 login.microsoftonline.com</li>
+<li> 14:56 herts365-my.sharepoint.com</li>
 <li> 14:56 m365.cloud.microsoft</li>
 <li> 14:54 www.reddit.com</li>
 <li class='same'> 14:53 www.reddit.com</li>
