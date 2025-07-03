@@ -68,23 +68,23 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3322)</li>
-<li>mail.google.com (3133)</li>
-<li>outlook.office.com (2938)</li>
+<ol><li>www.google.com (3323)</li>
+<li>mail.google.com (3135)</li>
+<li>outlook.office.com (2940)</li>
 <li>docs.google.com (2174)</li>
 <li>www.reddit.com (2158)</li>
-<li>outlook.office365.com (2138)</li>
+<li>outlook.office365.com (2140)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1335)</li>
+<li>duckduckgo.com (1336)</li>
 <li>chatgpt.com (892)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (605)</li>
-<li>www.linkedin.com (557)</li>
+<li>calendar.google.com (606)</li>
+<li>www.linkedin.com (558)</li>
 <li>moodle.royalholloway.ac.uk (531)</li>
-<li>login.microsoftonline.com (522)</li>
-<li>rhul-my.sharepoint.com (498)</li>
+<li>login.microsoftonline.com (523)</li>
+<li>rhul-my.sharepoint.com (500)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (474)</li>
 <li>github.com (461)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:45 duckduckgo.com</li>
+<ul><li> 11:15 www.linkedin.com</li>
+<li> 11:15 duckduckgo.com</li>
+<li> 11:14 rhul-my.sharepoint.com</li>
+<li class='same'> 11:13 rhul-my.sharepoint.com</li>
+<li> 11:08 calendar.google.com</li>
+<li> 11:07 mail.google.com</li>
+<li> 11:01 www.google.com</li>
+<li> 11:01 teams.microsoft.com</li>
+<li> 11:00 mail.google.com</li>
+<li> 11:00 outlook.office.com</li>
+<li> 11:00 login.microsoftonline.com</li>
+<li> 11:00 outlook.office.com</li>
+<li> 11:00 outlook.office365.com</li>
+<li class='same'> 10:59 outlook.office365.com</li>
+<li> 10:45 duckduckgo.com</li>
 <li> 10:43 www.linkedin.com</li>
 <li class='same'> 10:42 www.linkedin.com</li>
 <li> 10:42 duckduckgo.com</li>
