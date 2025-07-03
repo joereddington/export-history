@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3322)</li>
 <li>mail.google.com (3130)</li>
-<li>outlook.office.com (2926)</li>
-<li>docs.google.com (2173)</li>
-<li>www.reddit.com (2153)</li>
-<li>outlook.office365.com (2120)</li>
+<li>outlook.office.com (2938)</li>
+<li>docs.google.com (2174)</li>
+<li>www.reddit.com (2154)</li>
+<li>outlook.office365.com (2122)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
 <li>duckduckgo.com (1330)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (603)</li>
 <li>www.linkedin.com (549)</li>
 <li>moodle.royalholloway.ac.uk (531)</li>
-<li>login.microsoftonline.com (516)</li>
+<li>login.microsoftonline.com (520)</li>
 <li>rhul-my.sharepoint.com (497)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (473)</li>
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:24 www.reddit.com</li>
+<ul><li> 09:42 dashboards.rhul.ac.uk</li>
+<li> 09:41 outlook.office365.com</li>
+<li class='same'> 09:30 outlook.office365.com</li>
+<li> 09:27 outlook.office.com</li>
+<li class='same'> 09:25 outlook.office.com</li>
+<li class='same'> 09:24 outlook.office.com</li>
+<li class='same'> 09:23 outlook.office.com</li>
+<li class='same'> 09:22 outlook.office.com</li>
+<li> 09:20 herts365-my.sharepoint.com</li>
+<li> 09:19 docs.google.com</li>
+<li> 09:17 herts365-my.sharepoint.com</li>
+<li> 09:17 outlook.office.com</li>
+<li class='same'> 09:16 outlook.office.com</li>
+<li class='same'> 09:15 outlook.office.com</li>
+<li class='same'> 09:13 outlook.office.com</li>
+<li class='same'> 09:12 outlook.office.com</li>
+<li> 09:12 herts365-my.sharepoint.com</li>
+<li> 09:12 m365.cloud.microsoft</li>
+<li> 09:11 login.microsoftonline.com</li>
+<li> 09:11 forms.office.com</li>
+<li> 09:11 outlook.office.com</li>
+<li class='same'> 09:01 outlook.office.com</li>
+<li> 09:01 m365.cloud.microsoft</li>
+<li> 09:01 login.microsoftonline.com</li>
+<li> 09:01 eu-west.azureauth.duosecurity.com</li>
+<li> 09:01 api-b6327e78.duosecurity.com</li>
+<li> 09:01 adfs.herts.ac.uk</li>
+<li> 09:00 api-b6327e78.duosecurity.com</li>
+<li> 09:00 adfs.herts.ac.uk</li>
+<li> 09:00 login.microsoftonline.com</li>
+<li> 09:00 forms.office.com</li>
+<li> 09:00 login.microsoftonline.com</li>
+<li> 09:00 forms.office.com</li>
+<li> 08:59 news.gov-pd.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 07:28 www.reddit.com</li>
+<li class='same'> 07:24 www.reddit.com</li>
 <li class='same'> 07:23 www.reddit.com</li>
 <li> 07:23 mail.google.com</li>
 <li> 07:23 gmail.com</li>
