@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3326)</li>
-<li>mail.google.com (3148)</li>
-<li>outlook.office.com (2952)</li>
+<li>mail.google.com (3157)</li>
+<li>outlook.office.com (2956)</li>
 <li>docs.google.com (2177)</li>
 <li>www.reddit.com (2163)</li>
 <li>outlook.office365.com (2140)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1342)</li>
-<li>chatgpt.com (897)</li>
+<li>duckduckgo.com (1345)</li>
+<li>chatgpt.com (898)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (612)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (505)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (475)</li>
-<li>github.com (461)</li>
-<li>web.whatsapp.com (423)</li>
-<li>chat.openai.com (370)</li>
+<li>github.com (463)</li>
+<li>web.whatsapp.com (424)</li>
+<li>chat.openai.com (371)</li>
 <li>drive.google.com (324)</li>
 <li>feedly.com (300)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:33 chatgpt.com</li>
+<ul><li> 14:32 mail.google.com</li>
+<li class='same'> 14:31 mail.google.com</li>
+<li class='same'> 14:30 mail.google.com</li>
+<li> 14:30 github.com</li>
+<li> 14:11 projects.cs.rhul.ac.uk</li>
+<li> 14:11 outlook.office.com</li>
+<li> 14:02 chatgpt.com</li>
+<li> 14:02 chat.openai.com</li>
+<li> 14:01 outlook.office.com</li>
+<li class='same'> 14:00 outlook.office.com</li>
+<li> 13:51 mail.google.com</li>
+<li> 13:48 github.com</li>
+<li> 13:48 mail.google.com</li>
+<li class='same'> 13:47 mail.google.com</li>
+<li> 13:46 web.whatsapp.com</li>
+<li> 13:46 www.tickettailor.com</li>
+<li> 13:46 mail.google.com</li>
+<li> 13:44 outlook.office.com</li>
+<li> 13:44 www.pcisecuritystandards.org</li>
+<li> 13:44 duckduckgo.com</li>
+<li class='same'> 13:43 duckduckgo.com</li>
+<li> 13:42 www.citizensadvice.org.uk</li>
+<li> 13:42 www.accesspaysuite.com</li>
+<li> 13:42 duckduckgo.com</li>
+<li> 13:41 mail.google.com</li>
+<li class='same'> 13:40 mail.google.com</li>
+<li> 13:33 chatgpt.com</li>
 <li> 13:33 chat.openai.com</li>
 <li> 13:28 www.parkjockey.com</li>
 <li> 13:27 www.paypal.com</li>
