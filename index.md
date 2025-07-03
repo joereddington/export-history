@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3317)</li>
+<ol><li>www.google.com (3322)</li>
 <li>mail.google.com (3123)</li>
 <li>outlook.office.com (2916)</li>
 <li>docs.google.com (2171)</li>
-<li>www.reddit.com (2149)</li>
+<li>www.reddit.com (2150)</li>
 <li>outlook.office365.com (2109)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
@@ -87,14 +87,14 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (496)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (471)</li>
-<li>github.com (456)</li>
+<li>github.com (461)</li>
 <li>web.whatsapp.com (420)</li>
 <li>chat.openai.com (365)</li>
 <li>drive.google.com (324)</li>
 <li>feedly.com (300)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (256)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (264)</li>
 <li>rhul.sharepoint.com (249)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (228)</li>
@@ -104,7 +104,36 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 03/07/25</H3>
+
+<br>
+
+<ul><li> 06:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:08 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
 <H3>Wednesday, 02/07/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:39 www.google.com</li>
+<li> 20:27 <a href="https://www.theguardian.com/us-news/live/2025/jul/02/donald-trump-big-beautiful-bill-house-republicans-us-politics-live-news-updates">House at standstill as Republican leaders continue to try to rally holdouts, delaying rule vote – US politics live</a></li>
+<li> 20:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:24 <a href="https://www.theguardian.com/politics/2025/jul/02/welfare-climbdown-lets-genie-out-of-the-bottle-and-no-one-knows-what-happens-next">Welfare climbdown lets genie out of the bottle, and no one knows what happens next | Welfare | The Guardian</a></li>
+<li> 20:24 www.wired.com</li>
+<li> 20:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:56 www.projectreal.co.uk</li>
+</ul>
 
 <br>
 
@@ -120,6 +149,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:13 herts.instructure.com</li>
 <li> 13:52 outlook.office.com</li>
 <li class='same'> 13:51 outlook.office.com</li>
+<li> 13:45 www.projectreal.co.uk</li>
 <li> 13:25 mail.google.com</li>
 <li> 13:25 outlook.office.com</li>
 <li class='same'> 13:19 outlook.office.com</li>
@@ -156,6 +186,12 @@ With number of accesses/minutes in parentheses
 <li> 12:07 herts.instructure.com</li>
 <li> 12:07 mail.google.com</li>
 <li> 12:07 gmail.com</li>
+<li> 12:05 <a href="https://www.theguardian.com/media/2025/jul/02/more-than-400-media-figures-urge-bbc-board-to-remove-robbie-gibb-over-gaza">More than 400 media figures urge BBC board to remove Robbie Gibb over Gaza | BBC | The Guardian</a></li>
+<li> 12:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:05 <a href="https://www.theguardian.com/media/2025/jul/02/more-than-400-media-figures-urge-bbc-board-to-remove-robbie-gibb-over-gaza">More than 400 media figures urge BBC board to remove Robbie Gibb over Gaza | BBC | The Guardian</a></li>
+<li> 12:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li class='same'> 12:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:04 dencode.com</li>
 <li> 11:58 dashboards.rhul.ac.uk</li>
 <li> 11:58 outlook.office365.com</li>
 <li class='same'> 11:56 outlook.office365.com</li>
@@ -418,11 +454,24 @@ With number of accesses/minutes in parentheses
 <li> 11:45 eu-west.azureauth.duosecurity.com</li>
 <li> 11:45 api-b6327e78.duosecurity.com</li>
 <li> 11:45 adfs.herts.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 11:14 www.google.com</li>
+<li> 11:26 dencode.com</li>
+<li> 11:26 www.reddit.com</li>
+<li> 11:26 www.google.com</li>
+<li class='same'> 11:21 www.google.com</li>
+<li> 11:21 demo.ctfd.io</li>
+<li> 11:21 github.com</li>
+<li> 11:21 demo.ctfd.io</li>
+<li class='same'> 11:19 demo.ctfd.io</li>
+<li class='same'> 11:18 demo.ctfd.io</li>
+<li> 11:18 github.com</li>
+<li class='same'> 11:17 github.com</li>
+<li> 11:17 ctfd.io</li>
+<li class='same'> 11:16 ctfd.io</li>
+<li> 11:16 github.com</li>
+<li> 11:16 www.google.com</li>
+<li class='same'> 11:15 www.google.com</li>
+<li> 11:15 github.com</li>
+<li> 11:14 www.google.com</li>
 <li> 10:56 docs.google.com</li>
 <li class='same'> 10:55 docs.google.com</li>
 <li class='same'> 10:54 docs.google.com</li>
@@ -1426,11 +1475,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 16:59 m.youtube.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 16:21 m.youtube.com</li>
+<li> 16:39 www.wired.com</li>
+<li> 16:21 m.youtube.com</li>
 <li> 16:20 www.google.com</li>
 <li> 16:20 www.reddit.com</li>
 <li> 15:51 www.google.com</li>
