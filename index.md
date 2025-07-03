@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3328)</li>
 <li>mail.google.com (3157)</li>
 <li>outlook.office.com (2967)</li>
-<li>docs.google.com (2198)</li>
-<li>www.reddit.com (2172)</li>
+<li>docs.google.com (2209)</li>
+<li>www.reddit.com (2175)</li>
 <li>outlook.office365.com (2146)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1350)</li>
+<li>duckduckgo.com (1351)</li>
 <li>chatgpt.com (903)</li>
-<li>www.amazon.co.uk (793)</li>
+<li>www.amazon.co.uk (794)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (612)</li>
 <li>www.linkedin.com (561)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:43 docs.google.com</li>
+<ul><li> 21:44 www.giantitp.com</li>
+<li> 21:43 www.reddit.com</li>
+<li class='same'> 21:42 www.reddit.com</li>
+<li class='same'> 21:41 www.reddit.com</li>
+<li> 21:41 duckduckgo.com</li>
+<li> 21:41 shop.newsthump.com</li>
+<li class='same'> 21:40 shop.newsthump.com</li>
+<li class='same'> 21:39 shop.newsthump.com</li>
+<li> 21:38 www.amazon.co.uk</li>
+<li> 21:38 shop.newsthump.com</li>
+<li class='same'> 21:37 shop.newsthump.com</li>
+<li class='same'> 21:36 shop.newsthump.com</li>
+<li class='same'> 21:35 shop.newsthump.com</li>
+<li> 21:35 newsthump.com</li>
+<li class='same'> 21:34 newsthump.com</li>
+<li class='same'> 21:33 newsthump.com</li>
+<li> 21:32 reductress.com</li>
+<li> 21:30 docs.google.com</li>
+<li> 21:30 reductress.com</li>
+<li> 21:30 docs.google.com</li>
+<li class='same'> 21:29 docs.google.com</li>
+<li class='same'> 21:28 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:56 docs.google.com</li>
+<li class='same'> 20:54 docs.google.com</li>
+<li class='same'> 20:52 docs.google.com</li>
+<li class='same'> 20:51 docs.google.com</li>
+<li class='same'> 20:50 docs.google.com</li>
+<li class='same'> 20:49 docs.google.com</li>
+<li class='same'> 20:48 docs.google.com</li>
+<li class='same'> 20:43 docs.google.com</li>
 <li class='same'> 20:42 docs.google.com</li>
 <li class='same'> 20:41 docs.google.com</li>
 <li class='same'> 20:40 docs.google.com</li>
