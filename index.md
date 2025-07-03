@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3326)</li>
+<ol><li>www.google.com (3328)</li>
 <li>mail.google.com (3157)</li>
-<li>outlook.office.com (2956)</li>
+<li>outlook.office.com (2963)</li>
 <li>docs.google.com (2177)</li>
-<li>www.reddit.com (2163)</li>
+<li>www.reddit.com (2168)</li>
 <li>outlook.office365.com (2140)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1345)</li>
+<li>duckduckgo.com (1347)</li>
 <li>chatgpt.com (898)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (612)</li>
 <li>www.linkedin.com (558)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
-<li>login.microsoftonline.com (525)</li>
+<li>login.microsoftonline.com (526)</li>
 <li>rhul-my.sharepoint.com (505)</li>
 <li>tvtropes.org (488)</li>
 <li>gmail.com (475)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:32 mail.google.com</li>
+<ul><li> 14:56 herts365-my.sharepoint.com</li>
+<li> 14:56 m365.cloud.microsoft</li>
+<li> 14:54 www.reddit.com</li>
+<li class='same'> 14:53 www.reddit.com</li>
+<li class='same'> 14:52 www.reddit.com</li>
+<li> 14:52 www.google.com</li>
+<li class='same'> 14:51 www.google.com</li>
+<li> 14:51 duckduckgo.com</li>
+<li class='same'> 14:49 duckduckgo.com</li>
+<li> 14:48 www.reddit.com</li>
+<li class='same'> 14:47 www.reddit.com</li>
+<li> 14:46 outlook.office.com</li>
+<li class='same'> 14:45 outlook.office.com</li>
+<li class='same'> 14:44 outlook.office.com</li>
+<li class='same'> 14:43 outlook.office.com</li>
+<li class='same'> 14:42 outlook.office.com</li>
+<li> 14:42 m365.cloud.microsoft</li>
+<li class='same'> 14:41 m365.cloud.microsoft</li>
+<li> 14:41 login.microsoftonline.com</li>
+<li> 14:41 eu-west.azureauth.duosecurity.com</li>
+<li> 14:41 api-b6327e78.duosecurity.com</li>
+<li> 14:41 outlook.office.com</li>
+<li> 14:41 elq.ricoh-europe.com</li>
+<li> 14:41 outlook.office.com</li>
+<li> 14:41 adfs.herts.ac.uk</li>
+<li> 14:32 mail.google.com</li>
 <li class='same'> 14:31 mail.google.com</li>
 <li class='same'> 14:30 mail.google.com</li>
 <li> 14:30 github.com</li>
