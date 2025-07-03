@@ -69,33 +69,33 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3322)</li>
-<li>mail.google.com (3130)</li>
+<li>mail.google.com (3133)</li>
 <li>outlook.office.com (2938)</li>
 <li>docs.google.com (2174)</li>
-<li>www.reddit.com (2154)</li>
-<li>outlook.office365.com (2122)</li>
+<li>www.reddit.com (2158)</li>
+<li>outlook.office365.com (2138)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1330)</li>
-<li>chatgpt.com (890)</li>
+<li>duckduckgo.com (1335)</li>
+<li>chatgpt.com (892)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (603)</li>
-<li>www.linkedin.com (549)</li>
+<li>calendar.google.com (605)</li>
+<li>www.linkedin.com (557)</li>
 <li>moodle.royalholloway.ac.uk (531)</li>
-<li>login.microsoftonline.com (520)</li>
-<li>rhul-my.sharepoint.com (497)</li>
+<li>login.microsoftonline.com (522)</li>
+<li>rhul-my.sharepoint.com (498)</li>
 <li>tvtropes.org (488)</li>
-<li>gmail.com (473)</li>
+<li>gmail.com (474)</li>
 <li>github.com (461)</li>
 <li>web.whatsapp.com (420)</li>
-<li>chat.openai.com (366)</li>
+<li>chat.openai.com (367)</li>
 <li>drive.google.com (324)</li>
 <li>feedly.com (300)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (272)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (264)</li>
-<li>rhul.sharepoint.com (260)</li>
+<li>rhul.sharepoint.com (261)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (228)</li>
 
@@ -108,7 +108,70 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:42 dashboards.rhul.ac.uk</li>
+<ul><li> 10:45 duckduckgo.com</li>
+<li> 10:43 www.linkedin.com</li>
+<li class='same'> 10:42 www.linkedin.com</li>
+<li> 10:42 duckduckgo.com</li>
+<li> 10:39 www.linkedin.com</li>
+<li> 10:39 mail.google.com</li>
+<li> 10:39 www.linkedin.com</li>
+<li class='same'> 10:38 www.linkedin.com</li>
+<li> 10:38 outlook.office365.com</li>
+<li class='same'> 10:37 outlook.office365.com</li>
+<li> 10:36 www.linkedin.com</li>
+<li> 10:35 outlook.office365.com</li>
+<li> 10:24 calendar.google.com</li>
+<li class='same'> 10:22 calendar.google.com</li>
+<li> 10:22 outlook.office365.com</li>
+<li> 10:21 herts365-my.sharepoint.com</li>
+<li> 10:21 adfs.herts.ac.uk</li>
+<li> 10:21 login.microsoftonline.com</li>
+<li> 10:21 herts365-my.sharepoint.com</li>
+<li> 10:21 mail.google.com</li>
+<li class='same'> 10:20 mail.google.com</li>
+<li> 10:20 gmail.com</li>
+<li> 10:19 www.royalholloway.ac.uk</li>
+<li> 10:18 duckduckgo.com</li>
+<li> 10:18 intranet.royalholloway.ac.uk</li>
+<li> 10:18 www.tandfonline.com</li>
+<li> 10:18 duckduckgo.com</li>
+<li> 10:17 www.royalholloway.ac.uk</li>
+<li> 10:17 duckduckgo.com</li>
+<li> 10:17 outlook.office365.com</li>
+<li> 10:13 www.reddit.com</li>
+<li> 10:13 chatgpt.com</li>
+<li class='same'> 10:12 chatgpt.com</li>
+<li> 10:12 chat.openai.com</li>
+<li> 10:12 www.reddit.com</li>
+<li> 10:11 rhul-my.sharepoint.com</li>
+<li> 10:11 rhul.sharepoint.com</li>
+<li> 10:11 outlook.office365.com</li>
+<li> 10:09 royalholloway.akarisoftware.com</li>
+<li class='same'> 10:08 royalholloway.akarisoftware.com</li>
+<li class='same'> 10:07 royalholloway.akarisoftware.com</li>
+<li class='same'> 10:05 royalholloway.akarisoftware.com</li>
+<li class='same'> 10:04 royalholloway.akarisoftware.com</li>
+<li class='same'> 10:03 royalholloway.akarisoftware.com</li>
+<li class='same'> 10:02 royalholloway.akarisoftware.com</li>
+<li> 10:02 outlook.office365.com</li>
+<li class='same'> 10:01 outlook.office365.com</li>
+<li> 10:01 royalholloway.akarisoftware.com</li>
+<li> 10:00 outlook.office365.com</li>
+<li> 10:00 royalholloway.akarisoftware.com</li>
+<li> 10:00 outlook.office365.com</li>
+<li class='same'> 09:59 outlook.office365.com</li>
+<li> 09:57 royalholloway.akarisoftware.com</li>
+<li> 09:56 login.microsoftonline.com</li>
+<li> 09:56 royalholloway.akarisoftware.com</li>
+<li> 09:56 outlook.office365.com</li>
+<li class='same'> 09:55 outlook.office365.com</li>
+<li> 09:54 dashboards.rhul.ac.uk</li>
+<li> 09:51 outlook.office365.com</li>
+<li class='same'> 09:49 outlook.office365.com</li>
+<li> 09:47 www.reddit.com</li>
+<li class='same'> 09:43 www.reddit.com</li>
+<li> 09:43 outlook.office365.com</li>
+<li> 09:42 dashboards.rhul.ac.uk</li>
 <li> 09:41 outlook.office365.com</li>
 <li class='same'> 09:30 outlook.office365.com</li>
 <li> 09:27 outlook.office.com</li>
@@ -47356,7 +47419,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:17 outlook.office365.com</li>
 <li> 12:56 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
 <li> 12:46 mail.google.com</li>
-<li> 12:44 royalholloway.akarisoftware.com</li>
+<li> 12:45 royalholloway.akarisoftware.com</li>
+<li class='same'> 12:44 royalholloway.akarisoftware.com</li>
 <li> 12:44 outlook.office365.com</li>
 <li> 12:41 dashboards.rhul.ac.uk</li>
 <li> 12:38 moodle.royalholloway.ac.uk</li>
@@ -48220,7 +48284,8 @@ With number of accesses/minutes in parentheses
 <li> 18:15 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 18:10 dashboards.rhul.ac.uk</li>
 <li> 18:06 forms.office.com</li>
-<li> 17:58 www.linkedin.com</li>
+<li> 17:59 www.linkedin.com</li>
+<li class='same'> 17:58 www.linkedin.com</li>
 <li> 17:53 calendar.google.com</li>
 <li> 17:47 www.royalholloway.ac.uk</li>
 <li> 17:45 outlook.office365.com</li>
@@ -49351,6 +49416,7 @@ With number of accesses/minutes in parentheses
 <li> 05:41 teams.microsoft.com</li>
 <li> 05:37 rhul.hosted.panopto.com</li>
 <li class='same'> 05:36 rhul.hosted.panopto.com</li>
+<li> 05:35 www.linkedin.com</li>
 <li> 05:23 <a href="https://joereddington.com/2021/01/28/Finder-Zero-You-use-far-fewer-files-than-you-think,-so-stop-hoarding-them.html">Finder Zero - You use far fewer files than you think, so stop hoarding them | Joe Reddington</a></li>
 <li> 05:08 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
 <li> 05:08 github.com</li>
