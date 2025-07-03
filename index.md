@@ -71,17 +71,17 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3328)</li>
 <li>mail.google.com (3157)</li>
 <li>outlook.office.com (2967)</li>
-<li>docs.google.com (2177)</li>
-<li>www.reddit.com (2168)</li>
-<li>outlook.office365.com (2142)</li>
+<li>docs.google.com (2198)</li>
+<li>www.reddit.com (2172)</li>
+<li>outlook.office365.com (2146)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1347)</li>
-<li>chatgpt.com (900)</li>
+<li>duckduckgo.com (1350)</li>
+<li>chatgpt.com (903)</li>
 <li>www.amazon.co.uk (793)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (612)</li>
-<li>www.linkedin.com (558)</li>
+<li>www.linkedin.com (561)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
 <li>login.microsoftonline.com (529)</li>
 <li>rhul-my.sharepoint.com (506)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (475)</li>
 <li>github.com (463)</li>
 <li>web.whatsapp.com (424)</li>
-<li>chat.openai.com (372)</li>
+<li>chat.openai.com (374)</li>
 <li>drive.google.com (324)</li>
 <li>feedly.com (300)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,56 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:28 outlook.office365.com</li>
+<ul><li> 20:43 docs.google.com</li>
+<li class='same'> 20:42 docs.google.com</li>
+<li class='same'> 20:41 docs.google.com</li>
+<li class='same'> 20:40 docs.google.com</li>
+<li class='same'> 20:39 docs.google.com</li>
+<li class='same'> 20:36 docs.google.com</li>
+<li> 20:36 chatgpt.com</li>
+<li> 20:36 chat.openai.com</li>
+<li> 20:35 docs.google.com</li>
+<li class='same'> 20:34 docs.google.com</li>
+<li class='same'> 20:33 docs.google.com</li>
+<li class='same'> 20:32 docs.google.com</li>
+<li class='same'> 20:31 docs.google.com</li>
+<li> 20:30 duckduckgo.com</li>
+<li> 20:30 docs.google.com</li>
+<li class='same'> 20:29 docs.google.com</li>
+<li> 20:27 www.reddit.com</li>
+<li class='same'> 20:26 www.reddit.com</li>
+<li> 20:25 www.linkedin.com</li>
+<li> 20:24 apply-for-public-appointment.service.gov.uk</li>
+<li> 20:23 www.linkedin.com</li>
+<li class='same'> 20:22 www.linkedin.com</li>
+<li> 20:22 outlook.office365.com</li>
+<li> 20:22 www.reddit.com</li>
+<li class='same'> 20:21 www.reddit.com</li>
+<li> 20:20 duckduckgo.com</li>
+<li> 20:11 docs.google.com</li>
+<li class='same'> 20:08 docs.google.com</li>
+<li class='same'> 20:07 docs.google.com</li>
+<li> 20:07 chatgpt.com</li>
+<li class='same'> 20:06 chatgpt.com</li>
+<li> 20:06 chat.openai.com</li>
+<li> 20:06 docs.google.com</li>
+<li class='same'> 20:05 docs.google.com</li>
+<li class='same'> 20:01 docs.google.com</li>
+<li class='same'> 20:00 docs.google.com</li>
+<li class='same'> 19:59 docs.google.com</li>
+<li> 19:59 donggyun.com</li>
+<li> 19:58 outlook.office365.com</li>
+<li> 19:53 aws.amazon.com</li>
+<li> 19:52 donggyun.com</li>
+<li> 19:52 pure.royalholloway.ac.uk</li>
+<li> 19:52 duckduckgo.com</li>
+<li> 19:52 outlook.office365.com</li>
+<li class='same'> 19:51 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:28 outlook.office365.com</li>
 <li class='same'> 18:27 outlook.office365.com</li>
 <li> 18:27 outlook.office.com</li>
 <li class='same'> 18:26 outlook.office.com</li>
@@ -54699,7 +54748,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:06 gitlab.cim.rhul.ac.uk</li>
+<ul><li> 14:10 donggyun.com</li>
+<li> 14:06 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 14:03 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 14:02 gitlab.cim.rhul.ac.uk</li>
 <li> 14:00 rhul-my.sharepoint.com</li>
@@ -56901,6 +56951,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:40 projects.cs.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 14:53 donggyun.com</li>
 </ul>
 
 <br>
