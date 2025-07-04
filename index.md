@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3333)</li>
-<li>mail.google.com (3175)</li>
+<li>mail.google.com (3176)</li>
 <li>outlook.office.com (2967)</li>
-<li>docs.google.com (2211)</li>
-<li>www.reddit.com (2186)</li>
-<li>outlook.office365.com (2163)</li>
+<li>docs.google.com (2212)</li>
+<li>www.reddit.com (2189)</li>
+<li>outlook.office365.com (2164)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1357)</li>
+<li>duckduckgo.com (1358)</li>
 <li>chatgpt.com (905)</li>
 <li>www.amazon.co.uk (797)</li>
 <li>www.theguardian.com (685)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (300)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (273)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (270)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (272)</li>
 <li>rhul.sharepoint.com (262)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (228)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:26 www.linkedin.com</li>
+<ul><li> 14:49 outlook.office365.com</li>
+<li> 14:49 mail.google.com</li>
+<li> 14:48 <a href="https://www.theguardian.com/uk-news/2025/jul/04/peaceful-trespass-bridehead-dorset-beauty-spot-owners-shut-path">‘Peaceful trespass’ planned at Dorset beauty spot after new owners shut path | Dorset | The Guardian</a></li>
+<li> 14:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:47 docs.google.com</li>
+<li> 14:47 duckduckgo.com</li>
+<li> 14:46 www.giantitp.com</li>
+<li> 14:44 www.reddit.com</li>
+<li class='same'> 14:43 www.reddit.com</li>
+<li class='same'> 14:42 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:40 herts365-my.sharepoint.com</li>
+<li> 13:40 eu-west.azureauth.duosecurity.com</li>
+<li> 13:40 api-b6327e78.duosecurity.com</li>
+<li> 13:40 adfs.herts.ac.uk</li>
+<li> 13:26 www.linkedin.com</li>
 <li> 13:25 <a href="https://www.theguardian.com/technology/2025/jul/04/minister-demands-overhaul-of-uks-leading-ai-institute-alan-turing">Minister demands overhaul of UK’s leading AI institute | Artificial intelligence (AI) | The Guardian</a></li>
 <li> 13:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 13:22 mail.google.com</li>
