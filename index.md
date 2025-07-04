@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3333)</li>
-<li>mail.google.com (3176)</li>
+<li>mail.google.com (3177)</li>
 <li>outlook.office.com (2967)</li>
 <li>docs.google.com (2213)</li>
-<li>www.reddit.com (2189)</li>
+<li>www.reddit.com (2196)</li>
 <li>outlook.office365.com (2164)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
@@ -86,15 +86,15 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (530)</li>
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (495)</li>
-<li>gmail.com (479)</li>
+<li>gmail.com (480)</li>
 <li>github.com (467)</li>
-<li>web.whatsapp.com (427)</li>
+<li>web.whatsapp.com (428)</li>
 <li>chat.openai.com (375)</li>
 <li>drive.google.com (326)</li>
 <li>feedly.com (301)</li>
 <li>fritz.box (277)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (274)</li>
 <li>whitewaterwriters.com (273)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (273)</li>
 <li>rhul.sharepoint.com (262)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (228)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:35 www.linkedin.com</li>
+<ul><li> 17:14 <a href="https://en.wikipedia.org/wiki/In_a_Perfect_World_(Kanye_West_album)">In a Perfect World (Kanye West album) - Wikipedia</a></li>
+<li> 17:14 <a href="https://en.wikipedia.org/wiki/WW3_%28Kanye_West_album%29">In a Perfect World (Kanye West album) - Wikipedia</a></li>
+<li> 17:10 <a href="https://www.bbc.co.uk/news/articles/c4gkzgqe30yo">Ukraine's sky defenders in Sumy stuck in relentless battle - BBC News</a></li>
+<li> 17:10 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:07 <a href="https://www.bbc.co.uk/news/articles/cn5kqe01r5zo">Manchester airport brawl began with Starbucks assault, jury hears - BBC News</a></li>
+<li> 17:06 <a href="https://www.bbc.co.uk/news/articles/cpwqy40wxw1o">Tyler Webb: Man who encouraged woman to kill herself sentenced - BBC News</a></li>
+<li> 17:06 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:06 web.whatsapp.com</li>
+<li> 16:57 www.paypal.com</li>
+<li> 16:56 www.reddit.com</li>
+<li class='same'> 16:52 www.reddit.com</li>
+<li class='same'> 16:51 www.reddit.com</li>
+<li class='same'> 16:50 www.reddit.com</li>
+<li class='same'> 16:48 www.reddit.com</li>
+<li class='same'> 16:47 www.reddit.com</li>
+<li class='same'> 16:46 www.reddit.com</li>
+<li> 16:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:43 mail.google.com</li>
+<li> 16:43 gmail.com</li>
+<li> 16:43 www.paypal.com</li>
+<li class='same'> 16:42 www.paypal.com</li>
+<li> 16:35 www.linkedin.com</li>
 <li> 16:35 <a href="https://en.wikipedia.org/wiki/Police_Story_(1985_film)">Police Story (1985 film) - Wikipedia</a></li>
 <li> 16:31 tvtropes.org</li>
 <li class='same'> 16:30 tvtropes.org</li>
