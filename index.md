@@ -69,32 +69,32 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3333)</li>
-<li>mail.google.com (3168)</li>
+<li>mail.google.com (3175)</li>
 <li>outlook.office.com (2967)</li>
-<li>docs.google.com (2209)</li>
-<li>www.reddit.com (2185)</li>
-<li>outlook.office365.com (2157)</li>
+<li>docs.google.com (2211)</li>
+<li>www.reddit.com (2186)</li>
+<li>outlook.office365.com (2163)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1356)</li>
-<li>chatgpt.com (903)</li>
-<li>www.amazon.co.uk (795)</li>
+<li>duckduckgo.com (1357)</li>
+<li>chatgpt.com (905)</li>
+<li>www.amazon.co.uk (797)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (612)</li>
-<li>www.linkedin.com (563)</li>
+<li>calendar.google.com (613)</li>
+<li>www.linkedin.com (568)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
 <li>login.microsoftonline.com (530)</li>
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (488)</li>
-<li>gmail.com (477)</li>
-<li>github.com (463)</li>
-<li>web.whatsapp.com (425)</li>
-<li>chat.openai.com (374)</li>
+<li>gmail.com (479)</li>
+<li>github.com (467)</li>
+<li>web.whatsapp.com (426)</li>
+<li>chat.openai.com (375)</li>
 <li>drive.google.com (324)</li>
 <li>feedly.com (300)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (273)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (268)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (270)</li>
 <li>rhul.sharepoint.com (262)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (228)</li>
@@ -108,6 +108,57 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 13:26 www.linkedin.com</li>
+<li> 13:25 <a href="https://www.theguardian.com/technology/2025/jul/04/minister-demands-overhaul-of-uks-leading-ai-institute-alan-turing">Minister demands overhaul of UK’s leading AI institute | Artificial intelligence (AI) | The Guardian</a></li>
+<li> 13:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:22 mail.google.com</li>
+<li> 13:12 chatgpt.com</li>
+<li class='same'> 13:11 chatgpt.com</li>
+<li> 13:11 chat.openai.com</li>
+<li> 13:10 www.linkedin.com</li>
+<li> 13:10 mail.google.com</li>
+<li> 13:07 github.com</li>
+<li> 13:06 web.whatsapp.com</li>
+<li> 13:06 github.com</li>
+<li> 13:06 mail.google.com</li>
+<li> 13:06 gmail.com</li>
+<li> 13:06 mail.google.com</li>
+<li> 13:06 gmail.com</li>
+<li> 13:05 www.linkedin.com</li>
+<li class='same'> 13:03 www.linkedin.com</li>
+<li> 13:03 duckduckgo.com</li>
+<li> 13:02 www.linkedin.com</li>
+<li> 13:01 kdpreports.amazon.com</li>
+<li> 13:01 kdp.amazon.com</li>
+<li> 12:59 outlook.office365.com</li>
+<li> 12:59 docs.google.com</li>
+<li class='same'> 12:58 docs.google.com</li>
+<li> 12:57 m365.cloud.microsoft</li>
+<li> 12:57 login.microsoftonline.com</li>
+<li> 12:57 eu-west.azureauth.duosecurity.com</li>
+<li> 12:57 api-b6327e78.duosecurity.com</li>
+<li> 12:57 adfs.herts.ac.uk</li>
+<li> 12:57 api-b6327e78.duosecurity.com</li>
+<li> 12:57 adfs.herts.ac.uk</li>
+<li> 12:56 outlook.office365.com</li>
+<li> 12:56 calendar.google.com</li>
+<li> 12:55 outlook.office365.com</li>
+<li> 12:55 mail.google.com</li>
+<li class='same'> 12:54 mail.google.com</li>
+<li> 12:54 www.amazon.co.uk</li>
+<li class='same'> 12:53 www.amazon.co.uk</li>
+<li> 12:53 mail.google.com</li>
+<li> 12:52 outlook.office365.com</li>
+<li class='same'> 12:51 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:02 outlook.office365.com</li>
+</ul>
+
+<br>
+
 <ul><li> 09:45 www.reddit.com</li>
 <li> 09:39 www.google.com</li>
 <li> 09:39 www.reddit.com</li>
@@ -115,7 +166,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:13 cryptpad.fr</li>
+<ul><li> 07:25 www.foxnews.com</li>
+<li class='same'> 07:23 www.foxnews.com</li>
+<li> 07:20 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/03/such-brave-girls-season-two-review-bbc-three">Such Brave Girls season two review – this Bafta-winning comedy is startlingly brilliant | Television & radio | The Guardian</a></li>
+<li> 07:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:19 www.reddit.com</li>
+<li> 07:13 cryptpad.fr</li>
 <li> 07:13 outlook.office365.com</li>
 <li> 07:05 mail.google.com</li>
 <li class='same'> 07:01 mail.google.com</li>
@@ -17509,7 +17565,6 @@ With number of accesses/minutes in parentheses
 <li> 15:04 chat.openai.com</li>
 <li> 15:03 outlook.office.com</li>
 <li class='same'> 15:02 outlook.office.com</li>
-<li> 15:02 login.microsoftonline.com</li>
 <li> 15:02 outlook.office365.com</li>
 <li> 15:02 outlook.office.com</li>
 <li> 15:01 www.theguardian.com</li>
@@ -58269,7 +58324,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:06 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
-<li> 16:02 github.com</li>
+<li> 16:03 github.com</li>
+<li class='same'> 16:02 github.com</li>
 <li> 16:02 www.amazon.co.uk</li>
 <li class='same'> 16:01 www.amazon.co.uk</li>
 </ul>
@@ -63614,7 +63670,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:57 www.amazon.co.uk</li>
+<ul><li class='same'> 07:02 github.com</li>
+<li> 06:57 www.amazon.co.uk</li>
 <li> 06:47 github.com</li>
 </ul>
 
