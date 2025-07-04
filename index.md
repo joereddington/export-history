@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3330)</li>
-<li>mail.google.com (3161)</li>
+<li>mail.google.com (3168)</li>
 <li>outlook.office.com (2967)</li>
 <li>docs.google.com (2209)</li>
 <li>www.reddit.com (2182)</li>
-<li>outlook.office365.com (2152)</li>
+<li>outlook.office365.com (2157)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
 <li>duckduckgo.com (1356)</li>
@@ -83,10 +83,10 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (612)</li>
 <li>www.linkedin.com (563)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
-<li>login.microsoftonline.com (529)</li>
+<li>login.microsoftonline.com (530)</li>
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (488)</li>
-<li>gmail.com (476)</li>
+<li>gmail.com (477)</li>
 <li>github.com (463)</li>
 <li>web.whatsapp.com (425)</li>
 <li>chat.openai.com (374)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:43 librarysearch.royalholloway.ac.uk</li>
+<ul><li> 07:13 cryptpad.fr</li>
+<li> 07:13 outlook.office365.com</li>
+<li> 07:05 mail.google.com</li>
+<li class='same'> 07:01 mail.google.com</li>
+<li class='same'> 06:56 mail.google.com</li>
+<li> 06:56 accounts.google.com</li>
+<li> 06:56 mail.google.com</li>
+<li> 06:55 www.projectreal.co.uk</li>
+<li> 06:54 mail.google.com</li>
+<li> 06:50 outlook.office365.com</li>
+<li> 06:50 login.microsoftonline.com</li>
+<li> 06:50 outlook.office365.com</li>
+<li> 06:50 mail.google.com</li>
+<li class='same'> 06:49 mail.google.com</li>
+<li> 06:49 gmail.com</li>
+<li> 06:49 outlook.office365.com</li>
+<li class='same'> 06:48 outlook.office365.com</li>
+<li> 06:43 librarysearch.royalholloway.ac.uk</li>
 <li> 06:43 www.amazon.co.uk</li>
 <li> 06:43 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 06:42 librarysearch.royalholloway.ac.uk</li>
