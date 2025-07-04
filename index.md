@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3333)</li>
+<ol><li>www.google.com (3334)</li>
 <li>mail.google.com (3177)</li>
 <li>outlook.office.com (2967)</li>
-<li>docs.google.com (2213)</li>
+<li>docs.google.com (2214)</li>
 <li>www.reddit.com (2203)</li>
 <li>outlook.office365.com (2164)</li>
 <li>bsky.app (1579)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (797)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (613)</li>
-<li>www.linkedin.com (569)</li>
+<li>www.linkedin.com (571)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
 <li>login.microsoftonline.com (530)</li>
 <li>rhul-my.sharepoint.com (506)</li>
@@ -105,6 +105,16 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 04/07/25</H3>
+
+<br>
+
+<ul><li> 21:33 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:50 www.google.com</li>
+</ul>
 
 <br>
 
@@ -58945,6 +58955,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:55 mail.google.com</li>
 <li class='same'> 21:53 mail.google.com</li>
+<li> 21:52 www.linkedin.com</li>
 <li> 21:49 24timezones.com</li>
 <li class='same'> 21:45 24timezones.com</li>
 <li> 21:33 mail.google.com</li>
@@ -58965,6 +58976,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:17 pure.royalholloway.ac.uk</li>
 <li class='same'> 19:16 pure.royalholloway.ac.uk</li>
+<li> 19:12 www.linkedin.com</li>
 </ul>
 
 <H3>Wednesday, 10/01/24</H3>
