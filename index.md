@@ -72,11 +72,11 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3177)</li>
 <li>outlook.office.com (2967)</li>
 <li>docs.google.com (2213)</li>
-<li>www.reddit.com (2196)</li>
+<li>www.reddit.com (2203)</li>
 <li>outlook.office365.com (2164)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
-<li>duckduckgo.com (1361)</li>
+<li>duckduckgo.com (1362)</li>
 <li>chatgpt.com (905)</li>
 <li>www.amazon.co.uk (797)</li>
 <li>www.theguardian.com (685)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (326)</li>
 <li>feedly.com (301)</li>
 <li>fritz.box (277)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (274)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (275)</li>
 <li>whitewaterwriters.com (273)</li>
 <li>rhul.sharepoint.com (262)</li>
 <li>qbo.intuit.com (242)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:14 <a href="https://en.wikipedia.org/wiki/In_a_Perfect_World_(Kanye_West_album)">In a Perfect World (Kanye West album) - Wikipedia</a></li>
+<ul><li> 18:17 www.reddit.com</li>
+<li class='same'> 18:16 www.reddit.com</li>
+<li> 18:14 www.herts.ac.uk</li>
+<li> 18:14 duckduckgo.com</li>
+<li> 18:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:13 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 17:40 www.reddit.com</li>
+<li class='same'> 17:38 www.reddit.com</li>
+<li class='same'> 17:37 www.reddit.com</li>
+<li class='same'> 17:32 www.reddit.com</li>
+<li class='same'> 17:31 www.reddit.com</li>
+<li> 17:14 <a href="https://en.wikipedia.org/wiki/In_a_Perfect_World_(Kanye_West_album)">In a Perfect World (Kanye West album) - Wikipedia</a></li>
 <li> 17:14 <a href="https://en.wikipedia.org/wiki/WW3_%28Kanye_West_album%29">In a Perfect World (Kanye West album) - Wikipedia</a></li>
 <li> 17:10 <a href="https://www.bbc.co.uk/news/articles/c4gkzgqe30yo">Ukraine's sky defenders in Sumy stuck in relentless battle - BBC News</a></li>
 <li> 17:10 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
