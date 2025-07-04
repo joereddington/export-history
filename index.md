@@ -71,30 +71,30 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3333)</li>
 <li>mail.google.com (3176)</li>
 <li>outlook.office.com (2967)</li>
-<li>docs.google.com (2212)</li>
+<li>docs.google.com (2213)</li>
 <li>www.reddit.com (2189)</li>
 <li>outlook.office365.com (2164)</li>
 <li>bsky.app (1579)</li>
-<li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1358)</li>
+<li>www.facebook.com (1426)</li>
+<li>duckduckgo.com (1361)</li>
 <li>chatgpt.com (905)</li>
 <li>www.amazon.co.uk (797)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (613)</li>
-<li>www.linkedin.com (568)</li>
+<li>www.linkedin.com (569)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
 <li>login.microsoftonline.com (530)</li>
 <li>rhul-my.sharepoint.com (506)</li>
-<li>tvtropes.org (488)</li>
+<li>tvtropes.org (495)</li>
 <li>gmail.com (479)</li>
 <li>github.com (467)</li>
-<li>web.whatsapp.com (426)</li>
+<li>web.whatsapp.com (427)</li>
 <li>chat.openai.com (375)</li>
-<li>drive.google.com (324)</li>
-<li>feedly.com (300)</li>
+<li>drive.google.com (326)</li>
+<li>feedly.com (301)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (273)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (272)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (273)</li>
 <li>rhul.sharepoint.com (262)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (228)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:49 outlook.office365.com</li>
+<ul><li> 16:35 www.linkedin.com</li>
+<li> 16:35 <a href="https://en.wikipedia.org/wiki/Police_Story_(1985_film)">Police Story (1985 film) - Wikipedia</a></li>
+<li> 16:31 tvtropes.org</li>
+<li class='same'> 16:30 tvtropes.org</li>
+<li class='same'> 16:29 tvtropes.org</li>
+<li class='same'> 16:25 tvtropes.org</li>
+<li class='same'> 16:22 tvtropes.org</li>
+<li class='same'> 16:20 tvtropes.org</li>
+<li class='same'> 16:19 tvtropes.org</li>
+<li> 16:19 duckduckgo.com</li>
+<li> 16:18 <a href="https://en.wikipedia.org/wiki/Jackie_Chan">Jackie Chan - Wikipedia</a></li>
+<li> 16:18 <a href="https://en.wikipedia.org/wiki/Police_Story_(film_series)">Police Story (film series) - Wikipedia</a></li>
+<li> 16:17 duckduckgo.com</li>
+<li> 16:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:16 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:16 www.facebook.com</li>
+<li> 16:14 www.sfadb.com</li>
+<li> 16:12 feedly.com</li>
+<li> 16:12 web.whatsapp.com</li>
+<li> 16:11 mickeyblog.com</li>
+<li> 16:10 whatsondisneyplus.com</li>
+<li> 16:10 ondisneyplus.disney.com</li>
+<li> 16:10 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:53 docs.google.com</li>
+<li> 14:53 drive.google.com</li>
+<li class='same'> 14:52 drive.google.com</li>
+<li> 14:49 outlook.office365.com</li>
 <li> 14:49 mail.google.com</li>
 <li> 14:48 <a href="https://www.theguardian.com/uk-news/2025/jul/04/peaceful-trespass-bridehead-dorset-beauty-spot-owners-shut-path">‘Peaceful trespass’ planned at Dorset beauty spot after new owners shut path | Dorset | The Guardian</a></li>
 <li> 14:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
