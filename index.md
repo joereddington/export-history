@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3330)</li>
+<ol><li>www.google.com (3333)</li>
 <li>mail.google.com (3168)</li>
 <li>outlook.office.com (2967)</li>
 <li>docs.google.com (2209)</li>
-<li>www.reddit.com (2182)</li>
+<li>www.reddit.com (2185)</li>
 <li>outlook.office365.com (2157)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (300)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (273)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (265)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (268)</li>
 <li>rhul.sharepoint.com (262)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (228)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 04/07/25</H3>
+
+<br>
+
+<ul><li> 09:45 www.reddit.com</li>
+<li> 09:39 www.google.com</li>
+<li> 09:39 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -254,10 +261,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 18:28 outlook.office365.com</li>
+<ul><li> 19:05 www.reddit.com</li>
+<li> 19:05 www.google.com</li>
+<li> 19:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:04 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:02 <a href="https://www.theguardian.com/business/2025/jul/03/rachel-reeves-balancing-backbenchers-and-bond-markets-analysis">Reeves’s fearsome challenge: to balance backbenchers and bond markets | Bonds | The Guardian</a></li>
+<li> 19:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:02 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:02 <a href="https://www.theguardian.com/football/2025/jul/03/spain-women-football-euro-2025-fight-battles-on-and-off-pitch">‘Everything is better’: how Rubiales’s unwanted kiss transformed Spanish women’s football | Spain women's football team | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 18:28 outlook.office365.com</li>
 <li class='same'> 18:27 outlook.office365.com</li>
 <li> 18:27 outlook.office.com</li>
 <li class='same'> 18:26 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:43 <a href="https://www.theguardian.com/football/2025/jul/03/spain-women-football-euro-2025-fight-battles-on-and-off-pitch">‘Everything is better’: how Rubiales’s unwanted kiss transformed Spanish women’s football | Spain women's football team | The Guardian</a></li>
+<li class='same'> 17:42 <a href="https://www.theguardian.com/football/2025/jul/03/spain-women-football-euro-2025-fight-battles-on-and-off-pitch">‘Everything is better’: how Rubiales’s unwanted kiss transformed Spanish women’s football | Spain women's football team | The Guardian</a></li>
+<li> 17:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:41 www.telegraph.co.uk</li>
 </ul>
 
 <br>
@@ -614,6 +641,11 @@ With number of accesses/minutes in parentheses
 <li> 06:21 docs.google.com</li>
 <li class='same'> 06:19 docs.google.com</li>
 <li> 06:18 mail.google.com</li>
+<li> 06:13 www.telegraph.co.uk</li>
+<li class='same'> 06:10 www.telegraph.co.uk</li>
+<li class='same'> 06:09 www.telegraph.co.uk</li>
+<li class='same'> 06:08 www.telegraph.co.uk</li>
+<li> 06:08 www.google.com</li>
 <li> 06:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:08 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -61662,6 +61694,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:34 us-east-1.console.aws.amazon.com</li>
 <li class='same'> 13:33 us-east-1.console.aws.amazon.com</li>
+<li> 13:32 aws.amazon.com</li>
 <li> 13:32 www.qiq.support</li>
 <li class='same'> 13:31 www.qiq.support</li>
 <li class='same'> 13:30 www.qiq.support</li>
@@ -62613,6 +62646,7 @@ With number of accesses/minutes in parentheses
 <li> 10:01 workspace.google.com</li>
 <li> 09:55 mail.google.com</li>
 <li> 09:52 us-east-1.console.aws.amazon.com</li>
+<li> 09:51 aws.amazon.com</li>
 </ul>
 
 <H3>Wednesday, 02/08/23</H3>
@@ -62643,7 +62677,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:29 mail.google.com</li>
-<li class='same'> 07:04 mail.google.com</li>
+<li> 07:05 aws.amazon.com</li>
+<li> 07:04 mail.google.com</li>
 <li> 07:00 dnschecker.org</li>
 <li> 07:00 www.qiq.support</li>
 </ul>
@@ -62686,12 +62721,16 @@ With number of accesses/minutes in parentheses
 <li> 14:44 www.qiq.support</li>
 <li class='same'> 14:43 www.qiq.support</li>
 <li class='same'> 14:42 www.qiq.support</li>
+<li> 14:40 aws.amazon.com</li>
+<li class='same'> 14:36 aws.amazon.com</li>
 <li> 14:35 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 14:34 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 14:33 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 14:10 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 14:09 eu-west-2.console.aws.amazon.com</li>
-<li class='same'> 14:08 eu-west-2.console.aws.amazon.com</li>
+<li> 14:09 aws.amazon.com</li>
+<li> 14:08 eu-west-2.console.aws.amazon.com</li>
+<li> 14:06 aws.amazon.com</li>
 <li> 14:02 www.qiq.support</li>
 <li> 14:02 www.cloudflare.com</li>
 </ul>
