@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3328)</li>
-<li>mail.google.com (3157)</li>
+<ol><li>www.google.com (3330)</li>
+<li>mail.google.com (3161)</li>
 <li>outlook.office.com (2967)</li>
 <li>docs.google.com (2209)</li>
-<li>www.reddit.com (2175)</li>
-<li>outlook.office365.com (2146)</li>
+<li>www.reddit.com (2182)</li>
+<li>outlook.office365.com (2152)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1425)</li>
-<li>duckduckgo.com (1351)</li>
+<li>duckduckgo.com (1356)</li>
 <li>chatgpt.com (903)</li>
-<li>www.amazon.co.uk (794)</li>
+<li>www.amazon.co.uk (795)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (612)</li>
-<li>www.linkedin.com (561)</li>
+<li>www.linkedin.com (563)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
 <li>login.microsoftonline.com (529)</li>
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (488)</li>
-<li>gmail.com (475)</li>
+<li>gmail.com (476)</li>
 <li>github.com (463)</li>
-<li>web.whatsapp.com (424)</li>
+<li>web.whatsapp.com (425)</li>
 <li>chat.openai.com (374)</li>
 <li>drive.google.com (324)</li>
 <li>feedly.com (300)</li>
 <li>fritz.box (277)</li>
-<li>whitewaterwriters.com (272)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (264)</li>
+<li>whitewaterwriters.com (273)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (265)</li>
 <li>rhul.sharepoint.com (262)</li>
 <li>qbo.intuit.com (242)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (228)</li>
@@ -104,7 +104,54 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 04/07/25</H3>
+
+<br>
+
+<ul><li> 06:43 librarysearch.royalholloway.ac.uk</li>
+<li> 06:43 www.amazon.co.uk</li>
+<li> 06:43 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 06:42 librarysearch.royalholloway.ac.uk</li>
+<li> 06:42 archive.org</li>
+<li> 06:42 duckduckgo.com</li>
+<li> 06:41 www.linkedin.com</li>
+<li> 06:41 duckduckgo.com</li>
+<li class='same'> 06:40 duckduckgo.com</li>
+<li> 06:38 www.reddit.com</li>
+<li> 06:38 duckduckgo.com</li>
+<li> 06:38 www.reddit.com</li>
+<li> 06:37 whitewaterwriters.com</li>
+<li> 06:35 outlook.office365.com</li>
+<li class='same'> 06:33 outlook.office365.com</li>
+<li class='same'> 06:32 outlook.office365.com</li>
+<li> 06:32 www.reddit.com</li>
+<li> 06:30 www.linkedin.com</li>
+<li> 06:29 mail.google.com</li>
+<li> 06:28 web.whatsapp.com</li>
+<li> 06:28 mail.google.com</li>
+<li> 06:28 www.google.co.uk</li>
+<li class='same'> 06:27 www.google.co.uk</li>
+<li class='same'> 06:26 www.google.co.uk</li>
+<li> 06:26 duckduckgo.com</li>
+<li> 06:25 mail.google.com</li>
+<li class='same'> 06:24 mail.google.com</li>
+<li> 06:24 gmail.com</li>
+<li> 06:24 outlook.office365.com</li>
+<li> 06:24 www.google.com</li>
+<li class='same'> 06:23 www.google.com</li>
+<li> 06:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:22 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:21 www.reddit.com</li>
+<li class='same'> 06:18 www.reddit.com</li>
+<li class='same'> 06:16 www.reddit.com</li>
+<li class='same'> 06:14 www.reddit.com</li>
+</ul>
+
 <H3>Thursday, 03/07/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -47842,7 +47889,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:07 projects.cs.rhul.ac.uk</li>
+<li> 17:47 outlook.office365.com</li>
 <li> 17:47 dashboards.rhul.ac.uk</li>
+<li> 17:46 outlook.office365.com</li>
 <li> 17:43 www.linkedin.com</li>
 <li> 17:34 jekyllrb.com</li>
 <li> 17:05 rhul-my.sharepoint.com</li>
