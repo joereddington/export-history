@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3334)</li>
-<li>mail.google.com (3179)</li>
+<li>mail.google.com (3180)</li>
 <li>outlook.office.com (2967)</li>
 <li>docs.google.com (2223)</li>
 <li>www.reddit.com (2215)</li>
 <li>outlook.office365.com (2164)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
-<li>duckduckgo.com (1369)</li>
+<li>duckduckgo.com (1370)</li>
 <li>chatgpt.com (907)</li>
 <li>www.amazon.co.uk (797)</li>
 <li>www.theguardian.com (685)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (530)</li>
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (495)</li>
-<li>gmail.com (481)</li>
+<li>gmail.com (482)</li>
 <li>github.com (470)</li>
 <li>web.whatsapp.com (429)</li>
 <li>chat.openai.com (376)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:51 mail.google.com</li>
+<ul><li> 12:01 forum.artofmemory.com</li>
+<li class='same'> 12:00 forum.artofmemory.com</li>
+<li> 12:00 <a href="https://en.wikipedia.org/wiki/Benford%27s_law">Benford's law - Wikipedia</a></li>
+<li> 12:00 duckduckgo.com</li>
+<li> 11:59 forum.artofmemory.com</li>
+<li class='same'> 11:58 forum.artofmemory.com</li>
+<li class='same'> 11:56 forum.artofmemory.com</li>
+<li> 11:56 artofmemory.com</li>
+<li> 11:56 mail.google.com</li>
+<li> 11:56 gmail.com</li>
+<li> 11:51 mail.google.com</li>
 <li> 11:51 gmail.com</li>
 <li> 11:51 gamil.com</li>
 <li> 11:51 calendar.google.com</li>
@@ -17402,7 +17412,6 @@ With number of accesses/minutes in parentheses
 <li> 21:36 pollingreport.uk</li>
 <li> 21:33 www.bbc.com</li>
 <li> 21:33 <a href="https://www.bbc.co.uk/news/articles/cwy0xy21m7lo">Iranian president sacks deputy for 'lavish' Antarctic cruise - BBC News</a></li>
-<li> 21:33 www.google.co.uk</li>
 <li> 21:33 www.theguardian.com</li>
 <li> 21:33 www.google.co.uk</li>
 <li> 21:33 www.theguardian.com</li>
@@ -17581,7 +17590,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:09 www.facebook.com</li>
 <li> 09:06 duckduckgo.com</li>
 <li> 09:06 www.ticketsource.co.uk</li>
-<li> 09:06 l.facebook.com</li>
 <li> 09:05 www.facebook.com</li>
 <li class='same'> 09:04 www.facebook.com</li>
 <li> 09:04 docs.google.com</li>
