@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3334)</li>
-<li>mail.google.com (3180)</li>
+<li>mail.google.com (3182)</li>
 <li>outlook.office.com (2967)</li>
 <li>docs.google.com (2223)</li>
-<li>www.reddit.com (2215)</li>
+<li>www.reddit.com (2216)</li>
 <li>outlook.office365.com (2164)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (495)</li>
 <li>gmail.com (482)</li>
 <li>github.com (470)</li>
-<li>web.whatsapp.com (429)</li>
+<li>web.whatsapp.com (430)</li>
 <li>chat.openai.com (376)</li>
 <li>drive.google.com (326)</li>
 <li>feedly.com (303)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 05/07/25</H3>
+
+<br>
+
+<ul><li> 20:07 www.reddit.com</li>
+<li> 20:06 mail.google.com</li>
+<li> 20:05 web.whatsapp.com</li>
+<li> 20:05 forum.artofmemory.com</li>
+<li class='same'> 20:01 forum.artofmemory.com</li>
+<li class='same'> 20:00 forum.artofmemory.com</li>
+<li class='same'> 19:56 forum.artofmemory.com</li>
+<li class='same'> 19:55 forum.artofmemory.com</li>
+<li class='same'> 19:54 forum.artofmemory.com</li>
+<li> 19:54 mail.google.com</li>
+</ul>
 
 <br>
 
@@ -59242,6 +59256,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:51 github.com</li>
 </ul>
 
+<br>
+
+<ul><li> 07:51 <a href="https://xkcd.com/2875/">xkcd: 2024</a></li>
+</ul>
+
 <H3>Sunday, 07/01/24</H3>
 
 <br>
@@ -59913,11 +59932,8 @@ With number of accesses/minutes in parentheses
 <li> 13:54 www.linkedin.com</li>
 <li class='same'> 13:51 www.linkedin.com</li>
 <li> 13:51 jobs.royalholloway.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 13:05 docs.google.com</li>
+<li> 13:33 <a href="https://xkcd.com/2859/">xkcd: Oceanography Gift</a></li>
+<li> 13:05 docs.google.com</li>
 </ul>
 
 <br>
@@ -64445,6 +64461,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:34 <a href="https://xkcd.com/1038/">xkcd: Fountain</a></li>
+<li> 12:32 <a href="https://xkcd.com/1043/">xkcd: Ablogalypse</a></li>
 </ul>
 
 <br>
