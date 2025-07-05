@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3334)</li>
 <li>mail.google.com (3177)</li>
 <li>outlook.office.com (2967)</li>
-<li>docs.google.com (2216)</li>
-<li>www.reddit.com (2205)</li>
+<li>docs.google.com (2223)</li>
+<li>www.reddit.com (2215)</li>
 <li>outlook.office365.com (2164)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
-<li>duckduckgo.com (1366)</li>
+<li>duckduckgo.com (1369)</li>
 <li>chatgpt.com (907)</li>
 <li>www.amazon.co.uk (797)</li>
 <li>www.theguardian.com (685)</li>
@@ -87,13 +87,13 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (495)</li>
 <li>gmail.com (480)</li>
-<li>github.com (468)</li>
+<li>github.com (470)</li>
 <li>web.whatsapp.com (428)</li>
 <li>chat.openai.com (376)</li>
 <li>drive.google.com (326)</li>
 <li>feedly.com (302)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (278)</li>
 <li>fritz.box (277)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (276)</li>
 <li>whitewaterwriters.com (273)</li>
 <li>rhul.sharepoint.com (262)</li>
 <li>qbo.intuit.com (242)</li>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:39 github.com</li>
+<ul><li> 08:41 docs.google.com</li>
+<li> 08:40 www.reddit.com</li>
+<li class='same'> 08:39 www.reddit.com</li>
+<li> 08:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:32 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:21 docs.google.com</li>
+<li> 08:20 www.reddit.com</li>
+<li class='same'> 08:19 www.reddit.com</li>
+<li class='same'> 08:18 www.reddit.com</li>
+<li class='same'> 08:17 www.reddit.com</li>
+<li class='same'> 08:16 www.reddit.com</li>
+<li class='same'> 08:14 www.reddit.com</li>
+<li class='same'> 08:13 www.reddit.com</li>
+<li> 08:12 docs.google.com</li>
+<li> 08:11 <a href="https://en.wikipedia.org/wiki/Maurice_Wilkes">Maurice Wilkes - Wikipedia</a></li>
+<li> 08:10 <a href="https://en.wikipedia.org/wiki/Douglas_Hartree">Douglas Hartree - Wikipedia</a></li>
+<li> 08:10 <a href="https://en.wikipedia.org/wiki/Hartree">Hartree - Wikipedia</a></li>
+<li> 08:10 duckduckgo.com</li>
+<li> 08:07 www.gqindia.com</li>
+<li> 08:06 www.reddit.com</li>
+<li> 08:06 www.vulture.com</li>
+<li> 08:06 duckduckgo.com</li>
+<li> 08:05 docs.google.com</li>
+<li class='same'> 08:04 docs.google.com</li>
+<li> 08:04 duckduckgo.com</li>
+<li> 08:02 docs.google.com</li>
+<li class='same'> 08:01 docs.google.com</li>
+<li> 07:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:58 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 06:46 github.com</li>
+<li class='same'> 06:41 github.com</li>
+<li> 06:41 ejmastnak.com</li>
+<li> 06:39 github.com</li>
 <li> 06:38 chatgpt.com</li>
 <li class='same'> 06:37 chatgpt.com</li>
 <li> 06:37 chat.openai.com</li>
@@ -48976,6 +49012,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:21 docs.google.com</li>
+<li> 17:21 <a href="https://en.wikipedia.org/wiki/Hartree">Hartree - Wikipedia</a></li>
 <li> 17:21 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
 <li> 17:15 books.google.co.uk</li>
 </ul>
@@ -60751,6 +60788,7 @@ With number of accesses/minutes in parentheses
 <li> 15:59 <a href="https://en.wikipedia.org/wiki/Max_Planck">Max Planck - Wikipedia</a></li>
 <li> 15:51 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
 <li> 15:47 <a href="https://en.wikipedia.org/wiki/Bohr_magneton">Bohr magneton - Wikipedia</a></li>
+<li> 15:43 <a href="https://en.wikipedia.org/wiki/Hartree">Hartree - Wikipedia</a></li>
 </ul>
 
 <br>
