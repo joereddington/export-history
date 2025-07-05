@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3334)</li>
-<li>mail.google.com (3177)</li>
+<li>mail.google.com (3179)</li>
 <li>outlook.office.com (2967)</li>
 <li>docs.google.com (2223)</li>
 <li>www.reddit.com (2215)</li>
@@ -80,19 +80,19 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (907)</li>
 <li>www.amazon.co.uk (797)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (613)</li>
+<li>calendar.google.com (614)</li>
 <li>www.linkedin.com (573)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
 <li>login.microsoftonline.com (530)</li>
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (495)</li>
-<li>gmail.com (480)</li>
+<li>gmail.com (481)</li>
 <li>github.com (470)</li>
-<li>web.whatsapp.com (428)</li>
+<li>web.whatsapp.com (429)</li>
 <li>chat.openai.com (376)</li>
 <li>drive.google.com (326)</li>
-<li>feedly.com (302)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (278)</li>
+<li>feedly.com (303)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (279)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (273)</li>
 <li>rhul.sharepoint.com (262)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 05/07/25</H3>
+
+<br>
+
+<ul><li> 11:51 mail.google.com</li>
+<li> 11:51 gmail.com</li>
+<li> 11:51 gamil.com</li>
+<li> 11:51 calendar.google.com</li>
+<li> 11:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:49 www.sfadb.com</li>
+<li> 11:49 feedly.com</li>
+<li> 11:48 web.whatsapp.com</li>
+</ul>
 
 <br>
 
@@ -54825,6 +54837,7 @@ With number of accesses/minutes in parentheses
 <li> 07:22 equalitytime.github.io</li>
 <li class='same'> 07:21 equalitytime.github.io</li>
 <li> 07:11 docs.google.com</li>
+<li> 07:08 gamil.com</li>
 </ul>
 
 <H3>Wednesday, 22/05/24</H3>
@@ -56964,7 +56977,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:04 theopenvoicefactory.org</li>
+<ul><li> 12:09 mail.google.com</li>
+<li> 12:04 theopenvoicefactory.org</li>
 </ul>
 
 <br>
