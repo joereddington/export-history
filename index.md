@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3337)</li>
-<li>mail.google.com (3182)</li>
+<li>mail.google.com (3186)</li>
 <li>outlook.office.com (2967)</li>
 <li>docs.google.com (2223)</li>
 <li>www.reddit.com (2216)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1426)</li>
 <li>duckduckgo.com (1370)</li>
 <li>chatgpt.com (907)</li>
-<li>www.amazon.co.uk (797)</li>
+<li>www.amazon.co.uk (795)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (614)</li>
 <li>www.linkedin.com (573)</li>
@@ -104,7 +104,21 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 06/07/25</H3>
+
+<br>
+
+<ul><li> 20:25 mail.google.com</li>
+<li class='same'> 20:23 mail.google.com</li>
+<li class='same'> 20:18 mail.google.com</li>
+<li class='same'> 20:17 mail.google.com</li>
+</ul>
+
 <H3>Saturday, 05/07/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -17378,15 +17392,13 @@ With number of accesses/minutes in parentheses
 <li> 11:02 www.amazon.co.uk</li>
 <li> 11:01 hollandbikeshop.com</li>
 <li> 11:00 www.google.com</li>
-<li> 11:00 www.amazon.co.uk</li>
-<li class='same'> 10:59 www.amazon.co.uk</li>
+<li> 10:59 www.amazon.co.uk</li>
 <li class='same'> 10:58 www.amazon.co.uk</li>
 <li> 10:57 mail.google.com</li>
 <li> 10:57 web.whatsapp.com</li>
 <li> 10:56 www.evanscycles.com</li>
 <li> 10:56 www.google.com</li>
 <li> 10:56 www.amazon.co.uk</li>
-<li class='same'> 10:55 www.amazon.co.uk</li>
 <li class='same'> 10:54 www.amazon.co.uk</li>
 <li> 10:52 mail.google.com</li>
 <li> 10:35 www.reddit.com</li>
