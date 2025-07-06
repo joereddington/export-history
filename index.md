@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3334)</li>
+<ol><li>www.google.com (3337)</li>
 <li>mail.google.com (3182)</li>
 <li>outlook.office.com (2967)</li>
 <li>docs.google.com (2223)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (470)</li>
 <li>web.whatsapp.com (430)</li>
 <li>chat.openai.com (376)</li>
-<li>drive.google.com (326)</li>
+<li>drive.google.com (327)</li>
 <li>feedly.com (303)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (279)</li>
 <li>fritz.box (277)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:07 www.reddit.com</li>
+<ul><li> 20:31 drive.google.com</li>
+<li> 20:29 qmucu.org</li>
+<li> 20:27 digital.ucas.com</li>
+<li> 20:26 www.google.com</li>
+<li> 20:26 www.harbourclubevents.com</li>
+<li> 20:07 www.reddit.com</li>
 <li> 20:06 mail.google.com</li>
 <li> 20:05 web.whatsapp.com</li>
 <li> 20:05 forum.artofmemory.com</li>
@@ -118,6 +123,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:55 forum.artofmemory.com</li>
 <li class='same'> 19:54 forum.artofmemory.com</li>
 <li> 19:54 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:10 www.harbourclubevents.com</li>
+<li> 18:10 www.google.com</li>
+<li class='same'> 18:09 www.google.com</li>
 </ul>
 
 <br>
