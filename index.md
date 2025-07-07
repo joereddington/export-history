@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3339)</li>
 <li>mail.google.com (3200)</li>
 <li>outlook.office.com (2971)</li>
-<li>www.reddit.com (2245)</li>
+<li>www.reddit.com (2252)</li>
 <li>docs.google.com (2227)</li>
 <li>outlook.office365.com (2168)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
-<li>duckduckgo.com (1381)</li>
+<li>duckduckgo.com (1382)</li>
 <li>chatgpt.com (920)</li>
 <li>www.amazon.co.uk (796)</li>
 <li>www.theguardian.com (685)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (380)</li>
 <li>drive.google.com (330)</li>
 <li>feedly.com (304)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (281)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (282)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (273)</li>
 <li>rhul.sharepoint.com (262)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:08 wiki.lspace.org</li>
+<ul><li> 16:42 www.reddit.com</li>
+<li class='same'> 16:41 www.reddit.com</li>
+<li class='same'> 16:39 www.reddit.com</li>
+<li> 16:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:34 www.reddit.com</li>
+<li class='same'> 16:33 www.reddit.com</li>
+<li> 16:33 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:10 www.reddit.com</li>
+<li class='same'> 15:09 www.reddit.com</li>
+<li> 15:08 wiki.lspace.org</li>
 <li> 15:08 duckduckgo.com</li>
 <li> 15:08 www.reddit.com</li>
 <li class='same'> 15:07 www.reddit.com</li>
