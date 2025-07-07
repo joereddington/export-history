@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3339)</li>
 <li>mail.google.com (3200)</li>
 <li>outlook.office.com (2971)</li>
-<li>www.reddit.com (2233)</li>
+<li>www.reddit.com (2234)</li>
 <li>docs.google.com (2227)</li>
 <li>outlook.office365.com (2168)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
-<li>duckduckgo.com (1375)</li>
-<li>chatgpt.com (916)</li>
+<li>duckduckgo.com (1376)</li>
+<li>chatgpt.com (918)</li>
 <li>www.amazon.co.uk (796)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (618)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (495)</li>
 <li>gmail.com (487)</li>
-<li>github.com (475)</li>
+<li>github.com (477)</li>
 <li>web.whatsapp.com (432)</li>
-<li>chat.openai.com (379)</li>
+<li>chat.openai.com (380)</li>
 <li>drive.google.com (330)</li>
 <li>feedly.com (303)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (280)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:18 www.solopress.com</li>
+<ul><li> 12:29 www.reddit.com</li>
+<li> 12:22 www.solopress.com</li>
+<li> 12:21 github.com</li>
+<li> 12:21 duckduckgo.com</li>
+<li> 12:21 github.com</li>
+<li> 12:20 chatgpt.com</li>
+<li class='same'> 12:19 chatgpt.com</li>
+<li> 12:19 chat.openai.com</li>
+<li> 12:18 www.solopress.com</li>
 <li> 12:18 duckduckgo.com</li>
 <li> 12:17 github.com</li>
 <li class='same'> 12:16 github.com</li>
