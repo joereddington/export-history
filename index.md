@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3337)</li>
-<li>mail.google.com (3187)</li>
+<li>mail.google.com (3188)</li>
 <li>outlook.office.com (2967)</li>
 <li>www.reddit.com (2230)</li>
 <li>docs.google.com (2223)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
 <li>duckduckgo.com (1372)</li>
-<li>chatgpt.com (907)</li>
+<li>chatgpt.com (910)</li>
 <li>www.amazon.co.uk (796)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (614)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (482)</li>
 <li>github.com (470)</li>
 <li>web.whatsapp.com (430)</li>
-<li>chat.openai.com (376)</li>
+<li>chat.openai.com (377)</li>
 <li>drive.google.com (327)</li>
 <li>feedly.com (303)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (279)</li>
@@ -104,7 +104,22 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 07/07/25</H3>
+
+<br>
+
+<ul><li> 07:56 chatgpt.com</li>
+<li class='same'> 07:52 chatgpt.com</li>
+<li class='same'> 07:48 chatgpt.com</li>
+<li> 07:48 chat.openai.com</li>
+<li> 07:42 mail.google.com</li>
+</ul>
+
 <H3>Sunday, 06/07/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
