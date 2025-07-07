@@ -69,10 +69,10 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3337)</li>
-<li>mail.google.com (3195)</li>
+<li>mail.google.com (3199)</li>
 <li>outlook.office.com (2971)</li>
-<li>www.reddit.com (2231)</li>
-<li>docs.google.com (2226)</li>
+<li>www.reddit.com (2232)</li>
+<li>docs.google.com (2227)</li>
 <li>outlook.office365.com (2168)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
@@ -81,16 +81,16 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (796)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (618)</li>
-<li>www.linkedin.com (576)</li>
+<li>www.linkedin.com (577)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
 <li>login.microsoftonline.com (532)</li>
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (495)</li>
-<li>gmail.com (484)</li>
+<li>gmail.com (487)</li>
 <li>github.com (473)</li>
-<li>web.whatsapp.com (431)</li>
+<li>web.whatsapp.com (432)</li>
 <li>chat.openai.com (379)</li>
-<li>drive.google.com (327)</li>
+<li>drive.google.com (329)</li>
 <li>feedly.com (303)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (279)</li>
 <li>fritz.box (277)</li>
@@ -108,15 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:01 joereddington.github.io</li>
+<ul><li> 11:41 mail.google.com</li>
+<li class='same'> 11:39 mail.google.com</li>
+<li> 11:39 gmail.com</li>
+<li> 11:36 mail.google.com</li>
+<li> 11:36 gmail.com</li>
+<li> 11:36 mail.google.com</li>
+<li> 11:36 gmail.com</li>
+<li> 11:28 equalitytime.github.io</li>
+<li> 11:26 www.reddit.com</li>
+<li> 11:25 docs.google.com</li>
+<li> 11:25 drive.google.com</li>
+<li> 11:22 www.paypal.com</li>
+<li class='same'> 11:20 www.paypal.com</li>
+<li class='same'> 11:17 www.paypal.com</li>
+<li class='same'> 11:16 www.paypal.com</li>
+<li> 11:16 127.0.0.1:4000</li>
+<li> 11:13 web.whatsapp.com</li>
+<li> 11:13 drive.google.com</li>
+<li> 11:12 127.0.0.1:4000</li>
+<li> 11:01 joereddington.github.io</li>
+<li> 11:01 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 11:01 <a href="http://joereddington.com/export-history/"></a></li>
 <li> 11:01 docs.google.com</li>
 <li class='same'> 10:59 docs.google.com</li>
 <li class='same'> 10:58 docs.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:25 web.whatsapp.com</li>
+<li> 10:29 www.linkedin.com</li>
+<li> 10:25 web.whatsapp.com</li>
 <li> 10:25 calendar.google.com</li>
 <li> 10:25 outlook.office365.com</li>
 <li> 10:25 calendar.google.com</li>
