@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (615)</li>
 <li>www.linkedin.com (576)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
-<li>login.microsoftonline.com (530)</li>
+<li>login.microsoftonline.com (531)</li>
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (495)</li>
 <li>gmail.com (482)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:55 mail.google.com</li>
+<ul><li> 10:14 herts365-my.sharepoint.com</li>
+<li> 10:14 m365.cloud.microsoft</li>
+<li class='same'> 10:13 m365.cloud.microsoft</li>
+<li> 10:13 login.microsoftonline.com</li>
+<li> 10:13 eu-west.azureauth.duosecurity.com</li>
+<li> 10:13 api-b6327e78.duosecurity.com</li>
+<li> 10:13 adfs.herts.ac.uk</li>
+<li> 10:12 api-b6327e78.duosecurity.com</li>
+<li> 10:12 adfs.herts.ac.uk</li>
+<li> 09:55 mail.google.com</li>
 <li> 09:54 calendar.google.com</li>
 <li> 09:36 chatgpt.com</li>
 <li> 09:30 github.com</li>
