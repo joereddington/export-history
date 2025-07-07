@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3337)</li>
-<li>mail.google.com (3186)</li>
+<li>mail.google.com (3187)</li>
 <li>outlook.office.com (2967)</li>
+<li>www.reddit.com (2230)</li>
 <li>docs.google.com (2223)</li>
-<li>www.reddit.com (2216)</li>
 <li>outlook.office365.com (2164)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
-<li>duckduckgo.com (1370)</li>
+<li>duckduckgo.com (1372)</li>
 <li>chatgpt.com (907)</li>
-<li>www.amazon.co.uk (795)</li>
+<li>www.amazon.co.uk (796)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (614)</li>
 <li>www.linkedin.com (573)</li>
@@ -105,6 +105,43 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 06/07/25</H3>
+
+<br>
+
+<ul><li> 22:29 www.reddit.com</li>
+<li class='same'> 22:28 www.reddit.com</li>
+<li class='same'> 22:26 www.reddit.com</li>
+<li class='same'> 22:20 www.reddit.com</li>
+<li class='same'> 22:18 www.reddit.com</li>
+<li class='same'> 22:17 www.reddit.com</li>
+<li> 22:16 teajaymars.com</li>
+<li> 22:15 dougshaw.com</li>
+<li> 22:15 gist.github.com</li>
+<li> 22:15 duckduckgo.com</li>
+<li> 22:13 www.npr.org</li>
+<li> 22:13 duckduckgo.com</li>
+<li> 22:13 www.reddit.com</li>
+<li class='same'> 22:12 www.reddit.com</li>
+<li class='same'> 22:11 www.reddit.com</li>
+<li> 22:10 forum.artofmemory.com</li>
+<li class='same'> 22:09 forum.artofmemory.com</li>
+<li class='same'> 22:08 forum.artofmemory.com</li>
+<li> 22:08 artofmemory.com</li>
+<li> 22:08 www.reddit.com</li>
+<li class='same'> 22:03 www.reddit.com</li>
+<li class='same'> 22:02 www.reddit.com</li>
+<li class='same'> 22:01 www.reddit.com</li>
+<li> 22:00 www.amazon.co.uk</li>
+<li> 22:00 <a href="https://en.wikipedia.org/wiki/Lynne_Kelly_(science_writer)">Lynne Kelly (science writer) - Wikipedia</a></li>
+<li> 21:59 www.preposterousuniverse.com</li>
+<li> 21:58 www.reddit.com</li>
+<li> 21:58 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 21:15 forum.artofmemory.com</li>
+</ul>
 
 <br>
 
@@ -52475,6 +52512,7 @@ With number of accesses/minutes in parentheses
 <li> 07:32 x.com</li>
 <li> 07:29 www.facebook.com</li>
 <li> 07:11 forum.artofmemory.com</li>
+<li class='same'> 07:09 forum.artofmemory.com</li>
 </ul>
 
 <H3>Tuesday, 06/08/24</H3>
@@ -52486,7 +52524,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:50 accounts.intuit.com</li>
-<li> 07:37 forum.artofmemory.com</li>
+<li> 07:38 forum.artofmemory.com</li>
+<li class='same'> 07:37 forum.artofmemory.com</li>
 <li> 07:37 artofmemory.com</li>
 <li> 07:36 kdp.amazon.com</li>
 <li> 07:35 mail.google.com</li>
