@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3337)</li>
-<li>mail.google.com (3199)</li>
+<ol><li>www.google.com (3339)</li>
+<li>mail.google.com (3200)</li>
 <li>outlook.office.com (2971)</li>
-<li>www.reddit.com (2232)</li>
+<li>www.reddit.com (2233)</li>
 <li>docs.google.com (2227)</li>
 <li>outlook.office365.com (2168)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
-<li>duckduckgo.com (1374)</li>
+<li>duckduckgo.com (1375)</li>
 <li>chatgpt.com (916)</li>
 <li>www.amazon.co.uk (796)</li>
 <li>www.theguardian.com (685)</li>
@@ -87,12 +87,12 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (495)</li>
 <li>gmail.com (487)</li>
-<li>github.com (473)</li>
+<li>github.com (475)</li>
 <li>web.whatsapp.com (432)</li>
 <li>chat.openai.com (379)</li>
-<li>drive.google.com (329)</li>
+<li>drive.google.com (330)</li>
 <li>feedly.com (303)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (279)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (280)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (273)</li>
 <li>rhul.sharepoint.com (262)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:41 mail.google.com</li>
+<ul><li> 12:18 www.solopress.com</li>
+<li> 12:18 duckduckgo.com</li>
+<li> 12:17 github.com</li>
+<li class='same'> 12:16 github.com</li>
+<li> 12:16 www.solopress.com</li>
+<li class='same'> 12:15 www.solopress.com</li>
+<li> 12:15 www.googleadservices.com</li>
+<li> 12:15 www.google.com</li>
+<li> 12:15 www.reddit.com</li>
+<li> 12:14 www.google.com</li>
+<li> 11:59 127.0.0.1:4000</li>
+<li class='same'> 11:58 127.0.0.1:4000</li>
+<li> 11:57 mail.google.com</li>
+<li> 11:56 <a href="https://www.theguardian.com/commentisfree/2025/jul/07/i-spoke-for-my-brother-when-he-was-too-afraid-to-answer-now-he-speaks-in-melodies-and-i-have-learned-to-listen">I spoke for my brother when he was too afraid to answer — now, he speaks in melodies, and I have learned to listen | Jessie Cole | The Guardian</a></li>
+<li> 11:55 <a href="https://www.theguardian.com/technology/2025/jul/07/tesla-shares-dive-as-investors-fear-new-elon-musk-political-party-will-damage-brand">Tesla shares dive as investors fear new Elon Musk political party will damage brand | Tesla | The Guardian</a></li>
+<li> 11:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:54 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:52 127.0.0.1:4000</li>
+<li> 11:50 drive.google.com</li>
+<li> 11:41 mail.google.com</li>
 <li class='same'> 11:39 mail.google.com</li>
 <li> 11:39 gmail.com</li>
 <li> 11:36 mail.google.com</li>
