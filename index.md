@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
 <li>duckduckgo.com (1372)</li>
-<li>chatgpt.com (913)</li>
+<li>chatgpt.com (914)</li>
 <li>www.amazon.co.uk (796)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (614)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (495)</li>
 <li>gmail.com (482)</li>
-<li>github.com (472)</li>
+<li>github.com (473)</li>
 <li>web.whatsapp.com (430)</li>
 <li>chat.openai.com (379)</li>
 <li>drive.google.com (327)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:29 github.com</li>
+<ul><li> 09:36 chatgpt.com</li>
+<li> 09:30 github.com</li>
+<li class='same'> 09:29 github.com</li>
 <li class='same'> 09:27 github.com</li>
 <li> 09:20 chatgpt.com</li>
 <li> 09:20 chat.openai.com</li>
