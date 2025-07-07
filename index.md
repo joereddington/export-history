@@ -71,17 +71,17 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3339)</li>
 <li>mail.google.com (3200)</li>
 <li>outlook.office.com (2971)</li>
-<li>www.reddit.com (2234)</li>
+<li>www.reddit.com (2241)</li>
 <li>docs.google.com (2227)</li>
 <li>outlook.office365.com (2168)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
-<li>duckduckgo.com (1376)</li>
-<li>chatgpt.com (918)</li>
+<li>duckduckgo.com (1379)</li>
+<li>chatgpt.com (920)</li>
 <li>www.amazon.co.uk (796)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (618)</li>
-<li>www.linkedin.com (577)</li>
+<li>www.linkedin.com (580)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
 <li>login.microsoftonline.com (532)</li>
 <li>rhul-my.sharepoint.com (506)</li>
@@ -91,8 +91,8 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (432)</li>
 <li>chat.openai.com (380)</li>
 <li>drive.google.com (330)</li>
-<li>feedly.com (303)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (280)</li>
+<li>feedly.com (304)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (281)</li>
 <li>fritz.box (277)</li>
 <li>whitewaterwriters.com (273)</li>
 <li>rhul.sharepoint.com (262)</li>
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:29 www.reddit.com</li>
+<ul><li> 14:58 www.solopress.com</li>
+<li class='same'> 14:57 www.solopress.com</li>
+<li> 14:57 www.codes.co.uk</li>
+<li> 14:57 duckduckgo.com</li>
+<li> 14:56 www.coupert.com</li>
+<li> 14:56 addons.mozilla.org</li>
+<li> 14:56 www.solopress.com</li>
+<li> 14:56 r.hotdeals.com</li>
+<li> 14:56 vouchers.hotdeals.com</li>
+<li class='same'> 14:55 vouchers.hotdeals.com</li>
+<li> 14:55 duckduckgo.com</li>
+<li> 14:55 www.electoralcommission.org.uk</li>
+<li> 14:55 chatgpt.com</li>
+<li class='same'> 14:54 chatgpt.com</li>
+<li> 14:54 www.solopress.com</li>
+<li class='same'> 14:53 www.solopress.com</li>
+<li> 14:42 www.reddit.com</li>
+<li class='same'> 14:41 www.reddit.com</li>
+<li> 14:41 forum.artofmemory.com</li>
+<li class='same'> 14:40 forum.artofmemory.com</li>
+<li> 14:40 duckduckgo.com</li>
+<li> 14:40 forum.artofmemory.com</li>
+<li class='same'> 14:39 forum.artofmemory.com</li>
+<li> 14:39 artofmemory.com</li>
+<li> 14:39 www.reddit.com</li>
+<li class='same'> 14:38 www.reddit.com</li>
+<li> 14:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:37 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 12:39 www.linkedin.com</li>
+<li> 12:38 www.reddit.com</li>
+<li class='same'> 12:37 www.reddit.com</li>
+<li> 12:35 www.linkedin.com</li>
+<li> 12:35 asia.nikkei.com</li>
+<li> 12:35 www.schneier.com</li>
+<li> 12:34 feedly.com</li>
+<li> 12:34 www.linkedin.com</li>
+<li> 12:32 www.reddit.com</li>
+<li class='same'> 12:29 www.reddit.com</li>
 <li> 12:22 www.solopress.com</li>
 <li> 12:21 github.com</li>
 <li> 12:21 duckduckgo.com</li>
