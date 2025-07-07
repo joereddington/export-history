@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3339)</li>
 <li>mail.google.com (3200)</li>
 <li>outlook.office.com (2971)</li>
-<li>www.reddit.com (2241)</li>
+<li>www.reddit.com (2245)</li>
 <li>docs.google.com (2227)</li>
 <li>outlook.office365.com (2168)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
-<li>duckduckgo.com (1379)</li>
+<li>duckduckgo.com (1381)</li>
 <li>chatgpt.com (920)</li>
 <li>www.amazon.co.uk (796)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:58 www.solopress.com</li>
+<ul><li> 15:08 wiki.lspace.org</li>
+<li> 15:08 duckduckgo.com</li>
+<li> 15:08 www.reddit.com</li>
+<li class='same'> 15:07 www.reddit.com</li>
+<li> 15:04 www.coupert.com</li>
+<li> 15:03 www.reddit.com</li>
+<li class='same'> 15:01 www.reddit.com</li>
+<li> 15:00 www.apprentus.co.uk</li>
+<li> 15:00 duckduckgo.com</li>
+<li> 15:00 www.fiverr.com</li>
+<li> 14:59 www.solopress.com</li>
+<li> 14:59 www.paypal.com</li>
+<li> 14:58 www.solopress.com</li>
 <li class='same'> 14:57 www.solopress.com</li>
 <li> 14:57 www.codes.co.uk</li>
 <li> 14:57 duckduckgo.com</li>
