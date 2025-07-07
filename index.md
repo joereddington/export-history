@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3337)</li>
-<li>mail.google.com (3189)</li>
-<li>outlook.office.com (2967)</li>
-<li>www.reddit.com (2230)</li>
+<li>mail.google.com (3195)</li>
+<li>outlook.office.com (2971)</li>
+<li>www.reddit.com (2231)</li>
 <li>docs.google.com (2223)</li>
-<li>outlook.office365.com (2164)</li>
+<li>outlook.office365.com (2168)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1426)</li>
 <li>duckduckgo.com (1374)</li>
 <li>chatgpt.com (916)</li>
 <li>www.amazon.co.uk (796)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (615)</li>
+<li>calendar.google.com (618)</li>
 <li>www.linkedin.com (576)</li>
 <li>moodle.royalholloway.ac.uk (535)</li>
-<li>login.microsoftonline.com (531)</li>
+<li>login.microsoftonline.com (532)</li>
 <li>rhul-my.sharepoint.com (506)</li>
 <li>tvtropes.org (495)</li>
-<li>gmail.com (482)</li>
+<li>gmail.com (484)</li>
 <li>github.com (473)</li>
-<li>web.whatsapp.com (430)</li>
+<li>web.whatsapp.com (431)</li>
 <li>chat.openai.com (379)</li>
 <li>drive.google.com (327)</li>
 <li>feedly.com (303)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:14 herts365-my.sharepoint.com</li>
+<ul><li> 10:25 web.whatsapp.com</li>
+<li> 10:25 calendar.google.com</li>
+<li> 10:25 outlook.office365.com</li>
+<li> 10:25 calendar.google.com</li>
+<li> 10:24 outlook.office365.com</li>
+<li class='same'> 10:23 outlook.office365.com</li>
+<li> 10:23 login.microsoftonline.com</li>
+<li> 10:23 outlook.office365.com</li>
+<li> 10:23 mail.google.com</li>
+<li> 10:23 gmail.com</li>
+<li> 10:23 mail.google.com</li>
+<li class='same'> 10:22 mail.google.com</li>
+<li class='same'> 10:21 mail.google.com</li>
+<li> 10:20 calendar.google.com</li>
+<li> 10:20 mail.google.com</li>
+<li class='same'> 10:19 mail.google.com</li>
+<li> 10:19 gmail.com</li>
+<li> 10:19 outlook.office.com</li>
+<li> 10:19 www.reddit.com</li>
+<li> 10:19 outlook.office.com</li>
+<li class='same'> 10:18 outlook.office.com</li>
+<li class='same'> 10:17 outlook.office.com</li>
+<li> 10:17 m365.cloud.microsoft</li>
+<li> 10:16 herts365-my.sharepoint.com</li>
+<li class='same'> 10:14 herts365-my.sharepoint.com</li>
 <li> 10:14 m365.cloud.microsoft</li>
 <li class='same'> 10:13 m365.cloud.microsoft</li>
 <li> 10:13 login.microsoftonline.com</li>
