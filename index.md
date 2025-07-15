@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3369)</li>
 <li>mail.google.com (3283)</li>
-<li>outlook.office.com (3028)</li>
+<li>outlook.office.com (3032)</li>
 <li>www.reddit.com (2318)</li>
 <li>docs.google.com (2271)</li>
 <li>outlook.office365.com (2231)</li>
 <li>bsky.app (1579)</li>
-<li>duckduckgo.com (1431)</li>
+<li>duckduckgo.com (1433)</li>
 <li>www.facebook.com (1427)</li>
 <li>chatgpt.com (948)</li>
 <li>www.amazon.co.uk (851)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (646)</li>
 <li>www.linkedin.com (609)</li>
-<li>login.microsoftonline.com (571)</li>
+<li>login.microsoftonline.com (573)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
 <li>rhul-my.sharepoint.com (522)</li>
 <li>gmail.com (507)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:41 www.royalholloway.ac.uk</li>
+<ul><li> 11:45 herts.instructure.com</li>
+<li> 11:45 adfs.herts.ac.uk</li>
+<li> 11:44 outlook.office.com</li>
+<li class='same'> 11:37 outlook.office.com</li>
+<li class='same'> 11:35 outlook.office.com</li>
+<li class='same'> 11:34 outlook.office.com</li>
+<li> 11:33 m365.cloud.microsoft</li>
+<li> 11:26 herts365-my.sharepoint.com</li>
+<li> 11:26 duckduckgo.com</li>
+<li> 11:22 herts365-my.sharepoint.com</li>
+<li> 11:22 m365.cloud.microsoft</li>
+<li class='same'> 11:21 m365.cloud.microsoft</li>
+<li> 11:21 login.microsoftonline.com</li>
+<li> 11:21 eu-west.azureauth.duosecurity.com</li>
+<li> 11:20 duckduckgo.com</li>
+<li> 11:20 api-b6327e78.duosecurity.com</li>
+<li> 11:20 adfs.herts.ac.uk</li>
+<li> 11:19 api-b6327e78.duosecurity.com</li>
+<li> 11:19 adfs.herts.ac.uk</li>
+<li> 10:51 herts365-my.sharepoint.com</li>
+<li> 10:51 login.microsoftonline.com</li>
+<li> 10:51 herts365-my.sharepoint.com</li>
+<li> 10:50 api-b6327e78.duosecurity.com</li>
+<li> 10:50 adfs.herts.ac.uk</li>
+<li class='same'> 10:49 adfs.herts.ac.uk</li>
+<li> 10:41 www.royalholloway.ac.uk</li>
 <li> 10:40 duckduckgo.com</li>
 <li class='same'> 10:36 duckduckgo.com</li>
 <li> 10:36 www.royalholloway.ac.uk</li>
