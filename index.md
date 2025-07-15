@@ -70,26 +70,26 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3369)</li>
 <li>mail.google.com (3283)</li>
-<li>outlook.office.com (3032)</li>
+<li>outlook.office.com (3040)</li>
 <li>www.reddit.com (2318)</li>
-<li>docs.google.com (2271)</li>
-<li>outlook.office365.com (2231)</li>
+<li>docs.google.com (2274)</li>
+<li>outlook.office365.com (2241)</li>
 <li>bsky.app (1579)</li>
-<li>duckduckgo.com (1433)</li>
+<li>duckduckgo.com (1434)</li>
 <li>www.facebook.com (1427)</li>
-<li>chatgpt.com (948)</li>
+<li>chatgpt.com (957)</li>
 <li>www.amazon.co.uk (851)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (646)</li>
+<li>calendar.google.com (648)</li>
 <li>www.linkedin.com (609)</li>
-<li>login.microsoftonline.com (573)</li>
+<li>login.microsoftonline.com (576)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
 <li>rhul-my.sharepoint.com (522)</li>
 <li>gmail.com (507)</li>
 <li>tvtropes.org (502)</li>
 <li>github.com (484)</li>
-<li>web.whatsapp.com (448)</li>
-<li>chat.openai.com (382)</li>
+<li>web.whatsapp.com (449)</li>
+<li>chat.openai.com (401)</li>
 <li>drive.google.com (336)</li>
 <li>feedly.com (308)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (295)</li>
@@ -108,7 +108,53 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:45 herts.instructure.com</li>
+<ul><li> 12:45 outlook.office.com</li>
+<li class='same'> 12:42 outlook.office.com</li>
+<li class='same'> 12:41 outlook.office.com</li>
+<li> 12:35 herts.instructure.com</li>
+<li> 12:32 outlook.office.com</li>
+<li class='same'> 12:31 outlook.office.com</li>
+<li> 12:31 m365.cloud.microsoft</li>
+<li> 12:31 login.microsoftonline.com</li>
+<li> 12:31 eu-west.azureauth.duosecurity.com</li>
+<li> 12:31 api-b6327e78.duosecurity.com</li>
+<li> 12:31 adfs.herts.ac.uk</li>
+<li> 12:31 outlook.office365.com</li>
+<li> 12:31 herts365-my.sharepoint.com</li>
+<li> 12:30 www.google.co.uk</li>
+<li class='same'> 12:29 www.google.co.uk</li>
+<li> 12:27 outlook.office365.com</li>
+<li> 12:26 intranet.royalholloway.ac.uk</li>
+<li> 12:25 outlook.office365.com</li>
+<li class='same'> 12:23 outlook.office365.com</li>
+<li> 12:22 web.whatsapp.com</li>
+<li> 12:22 outlook.office365.com</li>
+<li class='same'> 12:21 outlook.office365.com</li>
+<li> 12:20 calendar.google.com</li>
+<li class='same'> 12:19 calendar.google.com</li>
+<li> 12:17 outlook.office365.com</li>
+<li> 12:15 rl.talis.com</li>
+<li> 12:14 rhul.rl.talis.com</li>
+<li> 12:14 duckduckgo.com</li>
+<li> 12:13 outlook.office365.com</li>
+<li> 12:13 login.microsoftonline.com</li>
+<li> 12:13 outlook.office365.com</li>
+<li> 12:08 docs.google.com</li>
+<li class='same'> 12:07 docs.google.com</li>
+<li class='same'> 12:06 docs.google.com</li>
+<li> 12:06 outlook.office365.com</li>
+<li> 12:06 outlook.office.com</li>
+<li> 12:02 forms.office.com</li>
+<li> 12:02 login.microsoftonline.com</li>
+<li> 12:02 forms.office.com</li>
+<li> 12:01 outlook.office.com</li>
+<li class='same'> 11:52 outlook.office.com</li>
+<li> 11:51 chatgpt.com</li>
+<li> 11:51 chat.openai.com</li>
+<li> 11:51 auth.openai.com</li>
+<li> 11:51 chatgpt.com</li>
+<li> 11:51 chat.openai.com</li>
+<li> 11:45 herts.instructure.com</li>
 <li> 11:45 adfs.herts.ac.uk</li>
 <li> 11:44 outlook.office.com</li>
 <li class='same'> 11:37 outlook.office.com</li>
@@ -194,6 +240,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:03 chatgpt.com</li>
+<li class='same'> 15:02 chatgpt.com</li>
+<li> 15:02 chat.openai.com</li>
 <li> 14:39 www.reddit.com</li>
 <li class='same'> 14:38 www.reddit.com</li>
 <li> 14:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -236,6 +284,7 @@ With number of accesses/minutes in parentheses
 <li> 12:08 duckduckgo.com</li>
 <li> 12:07 www.amazon.co.uk</li>
 <li> 12:07 chatgpt.com</li>
+<li> 12:07 chat.openai.com</li>
 <li> 12:03 rhul.hosted.panopto.com</li>
 <li> 12:03 <a href="https://www.theguardian.com/technology/2025/jul/14/an-ai-generated-band-got-1m-plays-on-spotify-now-music-insiders-say-listeners-should-be-warned">An AI-generated band got 1m plays on Spotify. Now music insiders say listeners should be warned | Artificial intelligence (AI) | The Guardian</a></li>
 <li> 12:02 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/14/report-gregg-wallace-behaviour-claims-ex-bbc-presenter">Report on Gregg Wallace’s behaviour upholds 45 claims against ex-BBC presenter | Gregg Wallace | The Guardian</a></li>
@@ -306,6 +355,7 @@ With number of accesses/minutes in parentheses
 <li> 07:00 rhul.hosted.panopto.com</li>
 <li class='same'> 06:57 rhul.hosted.panopto.com</li>
 <li> 06:56 chatgpt.com</li>
+<li> 06:56 chat.openai.com</li>
 <li> 06:56 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 06:55 rhul.hosted.panopto.com</li>
 <li class='same'> 06:54 rhul.hosted.panopto.com</li>
@@ -344,6 +394,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:33 store.steampowered.com</li>
 <li> 21:24 chatgpt.com</li>
+<li> 21:24 chat.openai.com</li>
 </ul>
 
 <br>
@@ -388,6 +439,7 @@ With number of accesses/minutes in parentheses
 <li> 11:09 www.apple.com</li>
 <li> 11:09 duckduckgo.com</li>
 <li> 11:07 chatgpt.com</li>
+<li> 11:07 chat.openai.com</li>
 <li> 11:07 www.tuxguitar.app</li>
 <li> 11:07 duckduckgo.com</li>
 <li> 11:07 von24.lituiop.com</li>
@@ -395,6 +447,7 @@ With number of accesses/minutes in parentheses
 <li> 11:07 ravin-hbs.com</li>
 <li> 11:05 www.apple.com</li>
 <li> 11:04 chatgpt.com</li>
+<li> 11:04 chat.openai.com</li>
 <li> 11:04 www.duolingo.com</li>
 <li class='same'> 11:03 www.duolingo.com</li>
 <li class='same'> 11:02 www.duolingo.com</li>
@@ -454,6 +507,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:15 chatgpt.com</li>
+<li class='same'> 07:14 chatgpt.com</li>
+<li> 07:14 chat.openai.com</li>
 </ul>
 
 <H3>Friday, 11/07/25</H3>
@@ -464,12 +519,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 17:13 chatgpt.com</li>
+<ul><li> 17:13 chatgpt.com</li>
+<li> 17:13 chat.openai.com</li>
 <li> 17:06 127.0.0.1:4000</li>
 <li> 16:53 <a href="https://www.theguardian.com/lifeandstyle/2025/jul/11/sorry-babbel-but-british-people-say-sorry-more-than-nine-times-a-day">Sorry Babbel, but British people say sorry more than nine times a day | Social etiquette | The Guardian</a></li>
 <li> 16:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 16:52 <a href="https://www.theguardian.com/">BBC breached accuracy guidelines over Gaza documentary, review finds | BBC | The Guardian</a></li>
 <li> 16:39 chatgpt.com</li>
+<li class='same'> 16:34 chatgpt.com</li>
 <li> 16:09 docs.google.com</li>
 <li> 16:09 drive.google.com</li>
 </ul>
@@ -490,6 +547,7 @@ With number of accesses/minutes in parentheses
 <li> 14:29 mail.google.com</li>
 <li> 14:29 gmail.com</li>
 <li> 14:29 chatgpt.com</li>
+<li> 14:29 chat.openai.com</li>
 </ul>
 
 <br>
@@ -508,6 +566,7 @@ With number of accesses/minutes in parentheses
 <li> 13:37 <a href="https://www.youtube.com/watch?v=KZeO0iBhexM&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=4">(632) GCSE Maths: N1-03 [Examples of Ordering Integers Part 1] - YouTube</a></li>
 <li> 13:36 <a href="https://www.youtube.com/watch?v=WX4vBNy2sTU&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=3">(632) GCSE Maths: N1-02 [Ordering Integers] - YouTube</a></li>
 <li> 13:34 chatgpt.com</li>
+<li> 13:34 chat.openai.com</li>
 <li> 13:31 <a href="https://www.youtube.com/watch?v=amrhqGOOkyA">Michelle Teaches Salish Matter Math For 24 Hours! - YouTube</a></li>
 <li> 13:31 <a href="https://www.youtube.com/watch?v=jGHnBsvAbaY&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=2">(632) GCSE Maths: N1-01 [Types of Numbers] - YouTube</a></li>
 <li> 13:31 <a href="https://www.youtube.com/results?search_query=youtube+gcse+maths+lessons+girl">youtube gcse maths lessons girl - YouTube</a></li>
@@ -639,6 +698,7 @@ With number of accesses/minutes in parentheses
 <li> 10:17 mail.google.com</li>
 <li> 10:17 gmail.com</li>
 <li> 10:13 chatgpt.com</li>
+<li> 10:13 chat.openai.com</li>
 <li> 10:10 <a href="https://www.theguardian.com/commentisfree/picture/2025/jul/10/ben-jennings-elon-musk-ai-chatbot-xai-x-antisemitism-cartoon">Ben Jennings on Elon Musk’s AI chatbot – cartoon | Ben Jennings | The Guardian</a></li>
 <li> 10:10 <a href="https://www.theguardian.com/">BBC breached accuracy guidelines over Gaza documentary, review finds | BBC | The Guardian</a></li>
 <li> 10:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/10/gregg-wallace-dropped-from-bbc-over-lack-of-confidence-he-could-change-behaviour">Gregg Wallace dropped by BBC over doubts he could ‘change behaviour’ | Gregg Wallace | The Guardian</a></li>
@@ -889,6 +949,8 @@ With number of accesses/minutes in parentheses
 <li> 06:24 outlook.office365.com</li>
 <li> 06:24 jsoneditoronline.org</li>
 <li> 06:24 chatgpt.com</li>
+<li class='same'> 06:23 chatgpt.com</li>
+<li> 06:23 chat.openai.com</li>
 </ul>
 
 <H3>Wednesday, 09/07/25</H3>
@@ -920,6 +982,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:50 www.reddit.com</li>
 <li> 20:29 timetables.herts.ac.uk</li>
 <li> 20:25 chatgpt.com</li>
+<li class='same'> 20:24 chatgpt.com</li>
+<li> 20:24 chat.openai.com</li>
 <li> 20:21 timetables.herts.ac.uk</li>
 <li class='same'> 20:20 timetables.herts.ac.uk</li>
 <li> 20:20 login.microsoftonline.com</li>
@@ -1181,6 +1245,8 @@ With number of accesses/minutes in parentheses
 <li> 07:07 calendar.google.com</li>
 <li class='same'> 07:06 calendar.google.com</li>
 <li> 06:46 chatgpt.com</li>
+<li class='same'> 06:45 chatgpt.com</li>
+<li> 06:45 chat.openai.com</li>
 <li> 06:38 rhul-my.sharepoint.com</li>
 <li> 06:38 forms.office.com</li>
 <li> 06:38 login.microsoftonline.com</li>
@@ -1213,6 +1279,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:18 www.reddit.com</li>
 <li class='same'> 21:17 www.reddit.com</li>
 <li> 21:04 chatgpt.com</li>
+<li> 21:04 chat.openai.com</li>
 <li> 20:55 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 20:51 feedly.com</li>
 <li class='same'> 20:50 feedly.com</li>
@@ -1434,6 +1501,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:19 chatgpt.com</li>
+<li> 06:19 chat.openai.com</li>
 </ul>
 
 <H3>Monday, 07/07/25</H3>
@@ -1459,6 +1527,8 @@ With number of accesses/minutes in parentheses
 <li> 21:18 docs.google.com</li>
 <li> 21:17 <a href="https://en.wikipedia.org/wiki/Elementary_charge">Elementary charge - Wikipedia</a></li>
 <li> 21:11 chatgpt.com</li>
+<li class='same'> 21:10 chatgpt.com</li>
+<li> 21:10 chat.openai.com</li>
 <li> 21:09 <a href="https://en.wikipedia.org/wiki/Chumming">Chumming - Wikipedia</a></li>
 <li> 21:09 <a href="https://en.wikipedia.org/wiki/Chum">Chum - Wikipedia</a></li>
 <li> 21:09 duckduckgo.com</li>
