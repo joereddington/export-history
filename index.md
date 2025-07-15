@@ -73,16 +73,16 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3028)</li>
 <li>www.reddit.com (2318)</li>
 <li>docs.google.com (2271)</li>
-<li>outlook.office365.com (2227)</li>
+<li>outlook.office365.com (2231)</li>
 <li>bsky.app (1579)</li>
+<li>duckduckgo.com (1431)</li>
 <li>www.facebook.com (1427)</li>
-<li>duckduckgo.com (1426)</li>
 <li>chatgpt.com (948)</li>
 <li>www.amazon.co.uk (851)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (646)</li>
 <li>www.linkedin.com (609)</li>
-<li>login.microsoftonline.com (569)</li>
+<li>login.microsoftonline.com (571)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
 <li>rhul-my.sharepoint.com (522)</li>
 <li>gmail.com (507)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (382)</li>
 <li>drive.google.com (336)</li>
 <li>feedly.com (308)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (294)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (295)</li>
 <li>fritz.box (279)</li>
 <li>whitewaterwriters.com (275)</li>
 <li>rhul.sharepoint.com (273)</li>
@@ -105,6 +105,31 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 15/07/25</H3>
+
+<br>
+
+<ul><li> 10:41 www.royalholloway.ac.uk</li>
+<li> 10:40 duckduckgo.com</li>
+<li class='same'> 10:36 duckduckgo.com</li>
+<li> 10:36 www.royalholloway.ac.uk</li>
+<li> 10:35 duckduckgo.com</li>
+<li> 10:34 outlook.office365.com</li>
+<li> 10:33 projects.cs.rhul.ac.uk</li>
+<li> 10:31 outlook.office365.com</li>
+<li class='same'> 10:30 outlook.office365.com</li>
+<li class='same'> 10:28 outlook.office365.com</li>
+<li> 10:26 www.royalholloway.ac.uk</li>
+<li> 10:26 pure.royalholloway.ac.uk</li>
+<li> 10:26 duckduckgo.com</li>
+<li> 10:24 www.royalholloway.ac.uk</li>
+<li> 10:24 duckduckgo.com</li>
+<li> 10:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:02 <a href="https://www.theguardian.com/">BBC breached accuracy guidelines over Gaza documentary, review finds | BBC | The Guardian</a></li>
+<li> 10:01 herts365-my.sharepoint.com</li>
+<li> 10:01 login.microsoftonline.com</li>
+<li class='same'> 10:00 login.microsoftonline.com</li>
+<li> 10:00 herts365-my.sharepoint.com</li>
+</ul>
 
 <br>
 
