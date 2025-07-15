@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3369)</li>
-<li>mail.google.com (3283)</li>
-<li>outlook.office.com (3046)</li>
+<li>mail.google.com (3284)</li>
+<li>outlook.office.com (3049)</li>
 <li>www.reddit.com (2318)</li>
 <li>docs.google.com (2274)</li>
-<li>outlook.office365.com (2247)</li>
+<li>outlook.office365.com (2250)</li>
 <li>bsky.app (1579)</li>
-<li>duckduckgo.com (1434)</li>
+<li>duckduckgo.com (1441)</li>
 <li>www.facebook.com (1427)</li>
-<li>chatgpt.com (958)</li>
+<li>chatgpt.com (959)</li>
 <li>www.amazon.co.uk (851)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (648)</li>
@@ -85,18 +85,18 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (576)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
 <li>rhul-my.sharepoint.com (522)</li>
-<li>gmail.com (507)</li>
+<li>gmail.com (508)</li>
 <li>tvtropes.org (502)</li>
-<li>github.com (484)</li>
+<li>github.com (487)</li>
 <li>web.whatsapp.com (449)</li>
-<li>chat.openai.com (402)</li>
+<li>chat.openai.com (403)</li>
 <li>drive.google.com (336)</li>
 <li>feedly.com (308)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (297)</li>
 <li>fritz.box (279)</li>
 <li>whitewaterwriters.com (275)</li>
 <li>rhul.sharepoint.com (273)</li>
-<li>forum.artofmemory.com (249)</li>
+<li>forum.artofmemory.com (256)</li>
 <li>qbo.intuit.com (242)</li>
 
 
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:46 chatgpt.com</li>
+<ul><li> 14:43 forum.artofmemory.com</li>
+<li class='same'> 14:42 forum.artofmemory.com</li>
+<li> 14:40 examradar.com</li>
+<li> 14:39 www.geeksforgeeks.org</li>
+<li> 14:39 duckduckgo.com</li>
+<li> 14:33 outlook.office.com</li>
+<li> 14:31 www.johnsonmitchelld.com</li>
+<li> 14:31 duckduckgo.com</li>
+<li> 14:31 github.com</li>
+<li> 14:30 duckduckgo.com</li>
+<li> 14:29 www.kaggle.com</li>
+<li> 14:29 accounts.google.com</li>
+<li> 14:29 developer.android.com</li>
+<li> 14:29 storage.googleapis.com</li>
+<li> 14:29 www.kaggle.com</li>
+<li> 14:29 accounts.google.com</li>
+<li> 14:29 www.kaggle.com</li>
+<li class='same'> 14:28 www.kaggle.com</li>
+<li> 14:27 www.johnsonmitchelld.com</li>
+<li> 14:27 duckduckgo.com</li>
+<li> 14:26 github.com</li>
+<li> 14:26 duckduckgo.com</li>
+<li> 14:26 github.com</li>
+<li> 14:25 duckduckgo.com</li>
+<li class='same'> 14:24 duckduckgo.com</li>
+<li> 14:24 www.kaggle.com</li>
+<li> 14:24 chatgpt.com</li>
+<li> 14:24 chat.openai.com</li>
+<li> 14:23 www.kaggle.com</li>
+<li> 14:20 forum.artofmemory.com</li>
+<li> 14:10 outlook.office365.com</li>
+<li> 14:02 johnden.org</li>
+<li class='same'> 14:01 johnden.org</li>
+<li> 14:01 mail.google.com</li>
+<li> 14:01 gmail.com</li>
+<li> 14:00 outlook.office.com</li>
+<li class='same'> 13:59 outlook.office.com</li>
+<li> 13:57 intranet.royalholloway.ac.uk</li>
+<li class='same'> 13:56 intranet.royalholloway.ac.uk</li>
+<li> 13:56 outlook.office365.com</li>
+<li class='same'> 13:55 outlook.office365.com</li>
+<li> 13:46 chatgpt.com</li>
 <li> 13:46 chat.openai.com</li>
 <li> 13:29 outlook.office.com</li>
 <li> 13:27 www.kaggle.com</li>
@@ -53879,7 +53920,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:29 forum.artofmemory.com</li>
+<ul><li> 15:30 forum.artofmemory.com</li>
+<li class='same'> 15:29 forum.artofmemory.com</li>
 <li class='same'> 15:28 forum.artofmemory.com</li>
 <li> 15:28 artofmemory.com</li>
 </ul>
@@ -65111,9 +65153,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:51 kdp.amazon.com</li>
 <li class='same'> 15:50 kdp.amazon.com</li>
-<li class='same'> 15:47 kdp.amazon.com</li>
+<li> 15:48 forum.artofmemory.com</li>
+<li> 15:47 kdp.amazon.com</li>
 <li class='same'> 15:44 kdp.amazon.com</li>
 <li class='same'> 15:39 kdp.amazon.com</li>
+<li> 15:18 forum.artofmemory.com</li>
 <li> 15:13 github.com</li>
 <li> 14:56 www.lutongymnastics.co.uk</li>
 <li> 14:53 www.amazon.co.uk</li>
@@ -65886,6 +65930,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 16:22 tvtropes.org</li>
 <li> 15:55 www.linkedin.com</li>
+<li> 15:47 forum.artofmemory.com</li>
 </ul>
 
 <br>
