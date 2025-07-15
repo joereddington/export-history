@@ -76,15 +76,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (2227)</li>
 <li>bsky.app (1579)</li>
 <li>www.facebook.com (1427)</li>
-<li>duckduckgo.com (1425)</li>
+<li>duckduckgo.com (1426)</li>
 <li>chatgpt.com (948)</li>
 <li>www.amazon.co.uk (851)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (646)</li>
 <li>www.linkedin.com (609)</li>
-<li>login.microsoftonline.com (567)</li>
+<li>login.microsoftonline.com (569)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
-<li>rhul-my.sharepoint.com (516)</li>
+<li>rhul-my.sharepoint.com (522)</li>
 <li>gmail.com (507)</li>
 <li>tvtropes.org (502)</li>
 <li>github.com (484)</li>
@@ -104,7 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 15/07/25</H3>
+
+<br>
+
+<ul><li> 07:07 www.royalholloway.ac.uk</li>
+<li> 07:07 duckduckgo.com</li>
+<li> 07:02 rhul-my.sharepoint.com</li>
+<li class='same'> 06:44 rhul-my.sharepoint.com</li>
+<li class='same'> 06:42 rhul-my.sharepoint.com</li>
+<li class='same'> 06:39 rhul-my.sharepoint.com</li>
+<li> 06:37 forms.office.com</li>
+<li> 06:37 login.microsoftonline.com</li>
+<li> 06:37 rhul-my.sharepoint.com</li>
+<li> 06:37 forms.office.com</li>
+<li> 06:37 login.microsoftonline.com</li>
+<li> 06:37 forms.office.com</li>
+<li> 06:35 rhul-my.sharepoint.com</li>
+</ul>
+
 <H3>Monday, 14/07/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
