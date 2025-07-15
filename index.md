@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3369)</li>
+<ol><li>www.google.com (3372)</li>
 <li>mail.google.com (3284)</li>
-<li>outlook.office.com (3049)</li>
+<li>outlook.office.com (3050)</li>
 <li>www.reddit.com (2318)</li>
 <li>docs.google.com (2274)</li>
-<li>outlook.office365.com (2250)</li>
+<li>outlook.office365.com (2252)</li>
 <li>bsky.app (1579)</li>
-<li>duckduckgo.com (1441)</li>
+<li>duckduckgo.com (1447)</li>
 <li>www.facebook.com (1427)</li>
 <li>chatgpt.com (959)</li>
 <li>www.amazon.co.uk (851)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:43 forum.artofmemory.com</li>
+<ul><li> 15:17 t1b.gobright.cloud</li>
+<li class='same'> 15:16 t1b.gobright.cloud</li>
+<li> 15:16 portal.gobright.cloud</li>
+<li> 15:14 <a href="https://en.wikipedia.org/wiki/64_(number)">64 (number) - Wikipedia</a></li>
+<li> 15:14 duckduckgo.com</li>
+<li class='same'> 15:13 duckduckgo.com</li>
+<li> 15:12 portal.gobright.cloud</li>
+<li> 15:11 outlook.office.com</li>
+<li> 15:10 outlook.office365.com</li>
+<li> 15:10 herts365-my.sharepoint.com</li>
+<li> 15:05 www.google.com</li>
+<li class='same'> 15:04 www.google.com</li>
+<li class='same'> 15:03 www.google.com</li>
+<li> 15:01 static1.dualshockersimages.com</li>
+<li> 15:00 duckduckgo.com</li>
+<li> 15:00 <a href="https://en.wikipedia.org/wiki/Grid_plan">Grid plan - Wikipedia</a></li>
+<li> 15:00 duckduckgo.com</li>
+<li> 14:56 outlook.office365.com</li>
+<li> 14:54 foobuzz.github.io</li>
+<li> 14:54 duckduckgo.com</li>
+<li class='same'> 14:50 duckduckgo.com</li>
+<li> 14:49 fast.com</li>
+<li> 14:49 database.lichess.org</li>
+<li> 14:43 forum.artofmemory.com</li>
 <li class='same'> 14:42 forum.artofmemory.com</li>
 <li> 14:40 examradar.com</li>
 <li> 14:39 www.geeksforgeeks.org</li>
