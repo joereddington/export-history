@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3372)</li>
-<li>mail.google.com (3284)</li>
-<li>outlook.office.com (3050)</li>
+<li>mail.google.com (3288)</li>
+<li>outlook.office.com (3057)</li>
 <li>www.reddit.com (2318)</li>
 <li>docs.google.com (2274)</li>
-<li>outlook.office365.com (2252)</li>
+<li>outlook.office365.com (2256)</li>
 <li>bsky.app (1579)</li>
 <li>duckduckgo.com (1447)</li>
 <li>www.facebook.com (1427)</li>
 <li>chatgpt.com (959)</li>
 <li>www.amazon.co.uk (851)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (648)</li>
+<li>calendar.google.com (649)</li>
 <li>www.linkedin.com (609)</li>
-<li>login.microsoftonline.com (576)</li>
+<li>login.microsoftonline.com (577)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
 <li>rhul-my.sharepoint.com (522)</li>
-<li>gmail.com (508)</li>
+<li>gmail.com (509)</li>
 <li>tvtropes.org (502)</li>
 <li>github.com (487)</li>
 <li>web.whatsapp.com (449)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:17 t1b.gobright.cloud</li>
+<ul><li> 16:32 outlook.office.com</li>
+<li> 16:30 outlook.office365.com</li>
+<li> 16:19 outlook.office.com</li>
+<li> 16:15 outlook.office365.com</li>
+<li> 16:15 herts365-my.sharepoint.com</li>
+<li> 16:14 outlook.office.com</li>
+<li> 16:14 mail.google.com</li>
+<li> 16:14 outlook.office.com</li>
+<li class='same'> 16:13 outlook.office.com</li>
+<li class='same'> 16:06 outlook.office.com</li>
+<li class='same'> 16:05 outlook.office.com</li>
+<li> 16:05 m365.cloud.microsoft</li>
+<li> 16:05 login.microsoftonline.com</li>
+<li> 16:05 eu-west.azureauth.duosecurity.com</li>
+<li> 16:05 api-b6327e78.duosecurity.com</li>
+<li> 16:05 adfs.herts.ac.uk</li>
+<li> 16:04 herts.instructure.com</li>
+<li class='same'> 16:03 herts.instructure.com</li>
+<li> 16:02 eu-west.azureauth.duosecurity.com</li>
+<li> 16:02 api-b6327e78.duosecurity.com</li>
+<li> 16:02 adfs.herts.ac.uk</li>
+<li> 16:02 outlook.office365.com</li>
+<li class='same'> 16:01 outlook.office365.com</li>
+<li> 16:00 herts365-my.sharepoint.com</li>
+<li> 15:31 mail.google.com</li>
+<li> 15:31 www.getchip.uk</li>
+<li> 15:30 mail.google.com</li>
+<li> 15:29 calendar.google.com</li>
+<li> 15:29 mail.google.com</li>
+<li> 15:29 gmail.com</li>
+<li> 15:17 t1b.gobright.cloud</li>
 <li class='same'> 15:16 t1b.gobright.cloud</li>
 <li> 15:16 portal.gobright.cloud</li>
 <li> 15:14 <a href="https://en.wikipedia.org/wiki/64_(number)">64 (number) - Wikipedia</a></li>
