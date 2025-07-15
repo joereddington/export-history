@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3369)</li>
 <li>mail.google.com (3283)</li>
-<li>outlook.office.com (3040)</li>
+<li>outlook.office.com (3046)</li>
 <li>www.reddit.com (2318)</li>
 <li>docs.google.com (2274)</li>
-<li>outlook.office365.com (2241)</li>
+<li>outlook.office365.com (2247)</li>
 <li>bsky.app (1579)</li>
 <li>duckduckgo.com (1434)</li>
 <li>www.facebook.com (1427)</li>
-<li>chatgpt.com (957)</li>
+<li>chatgpt.com (958)</li>
 <li>www.amazon.co.uk (851)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (648)</li>
@@ -89,10 +89,10 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (502)</li>
 <li>github.com (484)</li>
 <li>web.whatsapp.com (449)</li>
-<li>chat.openai.com (401)</li>
+<li>chat.openai.com (402)</li>
 <li>drive.google.com (336)</li>
 <li>feedly.com (308)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (295)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (297)</li>
 <li>fritz.box (279)</li>
 <li>whitewaterwriters.com (275)</li>
 <li>rhul.sharepoint.com (273)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:45 outlook.office.com</li>
+<ul><li> 13:46 chatgpt.com</li>
+<li> 13:46 chat.openai.com</li>
+<li> 13:29 outlook.office.com</li>
+<li> 13:27 www.kaggle.com</li>
+<li class='same'> 13:26 www.kaggle.com</li>
+<li class='same'> 13:25 www.kaggle.com</li>
+<li> 13:24 outlook.office365.com</li>
+<li class='same'> 13:23 outlook.office365.com</li>
+<li> 13:23 www.uolacademiccontractors.com</li>
+<li class='same'> 13:22 www.uolacademiccontractors.com</li>
+<li> 13:22 outlook.office365.com</li>
+<li class='same'> 13:20 outlook.office365.com</li>
+<li class='same'> 13:19 outlook.office365.com</li>
+<li> 13:19 outlook.office.com</li>
+<li> 13:19 t1b.gobright.cloud</li>
+<li> 13:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:56 t1b.gobright.cloud</li>
+<li class='same'> 12:55 t1b.gobright.cloud</li>
+<li> 12:55 portal.gobright.cloud</li>
+<li> 12:55 herts365-my.sharepoint.com</li>
+<li> 12:54 outlook.office365.com</li>
+<li> 12:54 outlook.office.com</li>
+<li class='same'> 12:53 outlook.office.com</li>
+<li class='same'> 12:52 outlook.office.com</li>
+<li class='same'> 12:49 outlook.office.com</li>
+<li class='same'> 12:45 outlook.office.com</li>
 <li class='same'> 12:42 outlook.office.com</li>
 <li class='same'> 12:41 outlook.office.com</li>
 <li> 12:35 herts.instructure.com</li>
@@ -253,6 +279,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:55 <a href="https://www.theguardian.com/media/2025/jul/14/bbc-review-gaza-how-to-survive-a-warzone-documentary-accuracy-guidelines-breached">BBC breached accuracy guidelines over Gaza documentary, review finds | BBC | The Guardian</a></li>
 <li> 12:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:54 www.thefreedictionary.com</li>
