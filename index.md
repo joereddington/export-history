@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3372)</li>
 <li>mail.google.com (3288)</li>
-<li>outlook.office.com (3058)</li>
+<li>outlook.office.com (3057)</li>
 <li>www.reddit.com (2318)</li>
 <li>docs.google.com (2274)</li>
 <li>outlook.office365.com (2258)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (649)</li>
 <li>www.linkedin.com (609)</li>
-<li>login.microsoftonline.com (577)</li>
+<li>login.microsoftonline.com (573)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
 <li>rhul-my.sharepoint.com (522)</li>
 <li>gmail.com (509)</li>
@@ -18460,7 +18460,6 @@ With number of accesses/minutes in parentheses
 <li> 18:12 192.168.1.254</li>
 <li> 18:08 outlook.office.com</li>
 <li> 18:08 moodle.royalholloway.ac.uk</li>
-<li> 18:08 login.microsoftonline.com</li>
 <li> 18:07 rhul-my.sharepoint.com</li>
 <li class='same'> 18:06 rhul-my.sharepoint.com</li>
 <li> 18:06 login.microsoftonline.com</li>
@@ -18496,19 +18495,14 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:14 outlook.office.com</li>
 <li class='same'> 13:13 outlook.office.com</li>
 <li class='same'> 13:12 outlook.office.com</li>
-<li> 13:11 forms.office.com</li>
-<li> 13:11 login.microsoftonline.com</li>
 <li> 13:11 rhul-my.sharepoint.com</li>
 <li> 13:11 login.microsoftonline.com</li>
 <li> 13:11 rhul-my.sharepoint.com</li>
 <li> 13:11 outlook.office.com</li>
 <li class='same'> 13:10 outlook.office.com</li>
 <li class='same'> 13:09 outlook.office.com</li>
-<li> 13:09 login.microsoftonline.com</li>
-<li> 13:09 outlook.office.com</li>
 <li> 13:09 mysignins.microsoft.com</li>
-<li> 13:09 login.microsoftonline.com</li>
-<li class='same'> 13:08 login.microsoftonline.com</li>
+<li> 13:08 login.microsoftonline.com</li>
 <li> 13:08 outlook.office365.com</li>
 </ul>
 
