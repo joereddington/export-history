@@ -71,19 +71,19 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3377)</li>
 <li>mail.google.com (3320)</li>
 <li>outlook.office.com (3065)</li>
-<li>www.reddit.com (2331)</li>
+<li>www.reddit.com (2332)</li>
+<li>outlook.office365.com (2294)</li>
 <li>docs.google.com (2293)</li>
-<li>outlook.office365.com (2292)</li>
 <li>bsky.app (1579)</li>
-<li>duckduckgo.com (1457)</li>
+<li>duckduckgo.com (1458)</li>
 <li>www.facebook.com (1427)</li>
 <li>chatgpt.com (966)</li>
 <li>www.amazon.co.uk (853)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (659)</li>
-<li>www.linkedin.com (614)</li>
-<li>login.microsoftonline.com (580)</li>
-<li>moodle.royalholloway.ac.uk (538)</li>
+<li>www.linkedin.com (615)</li>
+<li>login.microsoftonline.com (581)</li>
+<li>moodle.royalholloway.ac.uk (539)</li>
 <li>rhul-my.sharepoint.com (525)</li>
 <li>gmail.com (513)</li>
 <li>tvtropes.org (502)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:57 duckduckgo.com</li>
+<ul><li> 15:11 www.reddit.com</li>
+<li> 15:11 outlook.office365.com</li>
+<li> 15:10 www.linkedin.com</li>
+<li> 15:08 outlook.office365.com</li>
+<li> 15:06 duckduckgo.com</li>
+<li> 15:06 projects.cs.rhul.ac.uk</li>
+<li> 15:06 moodle.royalholloway.ac.uk</li>
+<li> 15:06 login.microsoftonline.com</li>
+<li> 14:57 duckduckgo.com</li>
 <li> 14:53 outlook.office365.com</li>
 <li> 14:28 www.reddit.com</li>
 <li> 14:28 teams.microsoft.com</li>
