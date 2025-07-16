@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3373)</li>
-<li>mail.google.com (3300)</li>
+<li>mail.google.com (3308)</li>
 <li>outlook.office.com (3057)</li>
-<li>www.reddit.com (2318)</li>
-<li>docs.google.com (2284)</li>
-<li>outlook.office365.com (2258)</li>
+<li>www.reddit.com (2323)</li>
+<li>docs.google.com (2291)</li>
+<li>outlook.office365.com (2262)</li>
 <li>bsky.app (1579)</li>
-<li>duckduckgo.com (1449)</li>
+<li>duckduckgo.com (1452)</li>
 <li>www.facebook.com (1427)</li>
 <li>chatgpt.com (961)</li>
 <li>www.amazon.co.uk (853)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (652)</li>
+<li>calendar.google.com (654)</li>
 <li>www.linkedin.com (610)</li>
-<li>login.microsoftonline.com (573)</li>
+<li>login.microsoftonline.com (575)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
 <li>rhul-my.sharepoint.com (522)</li>
 <li>gmail.com (510)</li>
 <li>tvtropes.org (502)</li>
 <li>github.com (487)</li>
-<li>web.whatsapp.com (449)</li>
+<li>web.whatsapp.com (450)</li>
 <li>chat.openai.com (404)</li>
 <li>drive.google.com (337)</li>
 <li>feedly.com (308)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (279)</li>
 <li>whitewaterwriters.com (275)</li>
 <li>rhul.sharepoint.com (273)</li>
-<li>forum.artofmemory.com (268)</li>
+<li>forum.artofmemory.com (270)</li>
 <li>qbo.intuit.com (242)</li>
 
 
@@ -105,6 +105,61 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 16/07/25</H3>
+
+<br>
+
+<ul><li> 09:45 outlook.office365.com</li>
+<li> 09:42 www.tandfonline.com</li>
+<li> 09:42 login.openathens.net</li>
+<li> 09:42 login.microsoftonline.com</li>
+<li> 09:42 login.openathens.net</li>
+<li> 09:42 login.microsoftonline.com</li>
+<li> 09:42 www.tandfonline.com</li>
+<li class='same'> 09:41 www.tandfonline.com</li>
+<li> 09:41 www.cambridgeassessment.org.uk</li>
+<li> 09:40 webcdn.worcester.edu</li>
+<li> 09:37 www.cambridgeassessment.org.uk</li>
+<li> 09:37 arxiv.org</li>
+<li> 09:35 assets.publishing.service.gov.uk</li>
+<li> 09:31 outlook.office365.com</li>
+<li> 09:30 mail.google.com</li>
+<li class='same'> 09:29 mail.google.com</li>
+<li> 09:28 calendar.google.com</li>
+<li> 09:28 mail.google.com</li>
+<li> 09:24 docs.google.com</li>
+<li class='same'> 09:23 docs.google.com</li>
+<li> 09:22 www.nutritiontable.com</li>
+<li> 09:22 duckduckgo.com</li>
+<li> 09:22 docs.google.com</li>
+<li class='same'> 09:21 docs.google.com</li>
+<li class='same'> 09:20 docs.google.com</li>
+<li class='same'> 09:19 docs.google.com</li>
+<li class='same'> 09:18 docs.google.com</li>
+<li> 09:16 www.reddit.com</li>
+<li class='same'> 09:15 www.reddit.com</li>
+<li class='same'> 09:14 www.reddit.com</li>
+<li class='same'> 09:13 www.reddit.com</li>
+<li class='same'> 09:12 www.reddit.com</li>
+<li> 09:12 forum.artofmemory.com</li>
+<li class='same'> 09:11 forum.artofmemory.com</li>
+<li> 09:11 artofmemory.com</li>
+<li> 09:09 www.cineworld.co.uk</li>
+<li class='same'> 09:08 www.cineworld.co.uk</li>
+<li> 09:08 duckduckgo.com</li>
+<li> 09:06 web.whatsapp.com</li>
+<li> 09:06 mail.google.com</li>
+<li> 09:05 outlook.office365.com</li>
+<li class='same'> 09:04 outlook.office365.com</li>
+<li> 09:03 127.0.0.1:4000</li>
+<li> 09:00 worldbuilding.stackexchange.com</li>
+<li> 09:00 apple.stackexchange.com</li>
+<li> 09:00 duckduckgo.com</li>
+<li> 08:59 mail.google.com</li>
+<li class='same'> 08:58 mail.google.com</li>
+<li> 08:58 calendar.google.com</li>
+<li> 08:58 mail.google.com</li>
+<li class='same'> 08:56 mail.google.com</li>
+</ul>
 
 <br>
 
