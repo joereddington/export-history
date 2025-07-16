@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3375)</li>
-<li>mail.google.com (3313)</li>
-<li>outlook.office.com (3057)</li>
+<ol><li>www.google.com (3376)</li>
+<li>mail.google.com (3315)</li>
+<li>outlook.office.com (3060)</li>
 <li>www.reddit.com (2324)</li>
 <li>docs.google.com (2291)</li>
-<li>outlook.office365.com (2279)</li>
+<li>outlook.office365.com (2281)</li>
 <li>bsky.app (1579)</li>
 <li>duckduckgo.com (1454)</li>
 <li>www.facebook.com (1427)</li>
@@ -82,10 +82,10 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (656)</li>
 <li>www.linkedin.com (610)</li>
-<li>login.microsoftonline.com (575)</li>
+<li>login.microsoftonline.com (576)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
 <li>rhul-my.sharepoint.com (522)</li>
-<li>gmail.com (511)</li>
+<li>gmail.com (512)</li>
 <li>tvtropes.org (502)</li>
 <li>github.com (487)</li>
 <li>web.whatsapp.com (450)</li>
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 16/07/25</H3>
+
+<br>
+
+<ul><li> 12:44 www.google.com</li>
+<li> 12:43 equalitytime.github.io</li>
+<li> 12:42 mail.google.com</li>
+<li class='same'> 12:41 mail.google.com</li>
+<li> 12:41 gmail.com</li>
+<li> 12:37 outlook.office.com</li>
+<li> 12:36 herts365-my.sharepoint.com</li>
+<li> 12:33 outlook.office.com</li>
+<li class='same'> 12:32 outlook.office.com</li>
+<li> 12:32 m365.cloud.microsoft</li>
+<li> 12:32 login.microsoftonline.com</li>
+<li> 12:32 eu-west.azureauth.duosecurity.com</li>
+<li> 12:32 api-b6327e78.duosecurity.com</li>
+<li> 12:32 adfs.herts.ac.uk</li>
+<li> 12:31 api-b6327e78.duosecurity.com</li>
+<li> 12:31 adfs.herts.ac.uk</li>
+<li class='same'> 12:30 adfs.herts.ac.uk</li>
+<li> 12:30 outlook.office365.com</li>
+<li class='same'> 12:29 outlook.office365.com</li>
+</ul>
 
 <br>
 
