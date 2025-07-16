@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3372)</li>
+<ol><li>www.google.com (3373)</li>
 <li>mail.google.com (3288)</li>
 <li>outlook.office.com (3057)</li>
 <li>www.reddit.com (2318)</li>
-<li>docs.google.com (2274)</li>
+<li>docs.google.com (2276)</li>
 <li>outlook.office365.com (2258)</li>
 <li>bsky.app (1579)</li>
 <li>duckduckgo.com (1447)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (279)</li>
 <li>whitewaterwriters.com (275)</li>
 <li>rhul.sharepoint.com (273)</li>
-<li>forum.artofmemory.com (256)</li>
+<li>forum.artofmemory.com (259)</li>
 <li>qbo.intuit.com (242)</li>
 
 
@@ -104,13 +104,33 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 16/07/25</H3>
+
+<br>
+
+<ul><li> 06:52 forum.artofmemory.com</li>
+<li class='same'> 06:35 forum.artofmemory.com</li>
+<li class='same'> 06:34 forum.artofmemory.com</li>
+<li> 06:34 artofmemory.com</li>
+<li> 06:27 johnden.org</li>
+<li> 06:12 www.yourparkingspace.co.uk</li>
+<li> 06:11 docs.google.com</li>
+<li class='same'> 05:58 docs.google.com</li>
+<li> 05:58 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+</ul>
+
 <H3>Tuesday, 15/07/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
 <ul><li> 19:45 chatgpt.com</li>
 <li class='same'> 19:44 chatgpt.com</li>
 <li> 19:44 chat.openai.com</li>
+<li> 19:39 www.google.com</li>
 </ul>
 
 <br>
