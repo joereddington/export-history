@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3376)</li>
+<ol><li>www.google.com (3377)</li>
 <li>mail.google.com (3320)</li>
 <li>outlook.office.com (3065)</li>
-<li>www.reddit.com (2328)</li>
+<li>www.reddit.com (2331)</li>
 <li>docs.google.com (2293)</li>
-<li>outlook.office365.com (2287)</li>
+<li>outlook.office365.com (2291)</li>
 <li>bsky.app (1579)</li>
-<li>duckduckgo.com (1454)</li>
+<li>duckduckgo.com (1456)</li>
 <li>www.facebook.com (1427)</li>
 <li>chatgpt.com (966)</li>
 <li>www.amazon.co.uk (853)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (659)</li>
-<li>www.linkedin.com (612)</li>
+<li>www.linkedin.com (614)</li>
 <li>login.microsoftonline.com (580)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
 <li>rhul-my.sharepoint.com (525)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:51 www.reddit.com</li>
+<ul><li> 14:28 www.reddit.com</li>
+<li> 14:28 teams.microsoft.com</li>
+<li> 14:28 outlook.office365.com</li>
+<li class='same'> 14:27 outlook.office365.com</li>
+<li class='same'> 14:18 outlook.office365.com</li>
+<li> 14:17 www.linkedin.com</li>
+<li> 14:15 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 14:14 outlook.office365.com</li>
+<li> 13:56 www.reddit.com</li>
+<li class='same'> 13:55 www.reddit.com</li>
+<li> 13:54 <a href="https://en.wikipedia.org/wiki/List_of_fictional_primates_in_animation">List of fictional primates in animation - Wikipedia</a></li>
+<li> 13:54 <a href="https://en.wikipedia.org/wiki/List_of_fictional_primates_in_television">List of fictional primates in television - Wikipedia</a></li>
+<li> 13:54 <a href="https://en.wikipedia.org/wiki/List_of_fictional_primates">List of fictional primates - Wikipedia</a></li>
+<li> 13:54 www.google.com</li>
+<li> 13:53 www.linkedin.com</li>
+<li> 13:53 duckduckgo.com</li>
+<li class='same'> 13:52 duckduckgo.com</li>
+<li> 13:51 www.reddit.com</li>
 <li class='same'> 13:50 www.reddit.com</li>
 <li class='same'> 13:47 www.reddit.com</li>
 <li class='same'> 13:46 www.reddit.com</li>
