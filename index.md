@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3376)</li>
-<li>mail.google.com (3315)</li>
-<li>outlook.office.com (3060)</li>
-<li>www.reddit.com (2324)</li>
-<li>docs.google.com (2291)</li>
-<li>outlook.office365.com (2281)</li>
+<li>mail.google.com (3320)</li>
+<li>outlook.office.com (3065)</li>
+<li>www.reddit.com (2328)</li>
+<li>docs.google.com (2293)</li>
+<li>outlook.office365.com (2287)</li>
 <li>bsky.app (1579)</li>
 <li>duckduckgo.com (1454)</li>
 <li>www.facebook.com (1427)</li>
-<li>chatgpt.com (964)</li>
+<li>chatgpt.com (966)</li>
 <li>www.amazon.co.uk (853)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (656)</li>
-<li>www.linkedin.com (610)</li>
-<li>login.microsoftonline.com (576)</li>
+<li>calendar.google.com (659)</li>
+<li>www.linkedin.com (612)</li>
+<li>login.microsoftonline.com (580)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
-<li>rhul-my.sharepoint.com (522)</li>
-<li>gmail.com (512)</li>
+<li>rhul-my.sharepoint.com (525)</li>
+<li>gmail.com (513)</li>
 <li>tvtropes.org (502)</li>
 <li>github.com (487)</li>
-<li>web.whatsapp.com (450)</li>
-<li>chat.openai.com (404)</li>
-<li>drive.google.com (337)</li>
+<li>web.whatsapp.com (452)</li>
+<li>chat.openai.com (405)</li>
+<li>drive.google.com (338)</li>
 <li>feedly.com (308)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (303)</li>
 <li>fritz.box (279)</li>
@@ -108,7 +108,61 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:44 www.google.com</li>
+<ul><li> 13:51 www.reddit.com</li>
+<li class='same'> 13:50 www.reddit.com</li>
+<li class='same'> 13:47 www.reddit.com</li>
+<li class='same'> 13:46 www.reddit.com</li>
+<li> 13:46 discord.com</li>
+<li class='same'> 13:45 discord.com</li>
+<li> 13:41 docs.google.com</li>
+<li> 13:41 discord.com</li>
+<li> 13:38 chatgpt.com</li>
+<li class='same'> 13:37 chatgpt.com</li>
+<li> 13:37 chat.openai.com</li>
+<li> 13:37 web.whatsapp.com</li>
+<li> 13:35 www.linkedin.com</li>
+<li class='same'> 13:34 www.linkedin.com</li>
+<li> 13:34 web.whatsapp.com</li>
+<li> 13:29 mail.google.com</li>
+<li> 13:29 outlook.office.com</li>
+<li> 13:28 m365.cloud.microsoft</li>
+<li> 13:28 outlook.office.com</li>
+<li> 13:21 calendar.google.com</li>
+<li> 13:17 herts365-my.sharepoint.com</li>
+<li> 13:17 m365.cloud.microsoft</li>
+<li> 13:17 login.microsoftonline.com</li>
+<li> 13:17 eu-west.azureauth.duosecurity.com</li>
+<li> 13:17 api-b6327e78.duosecurity.com</li>
+<li> 13:17 adfs.herts.ac.uk</li>
+<li> 13:15 outlook.office.com</li>
+<li class='same'> 13:14 outlook.office.com</li>
+<li class='same'> 13:13 outlook.office.com</li>
+<li> 13:13 m365.cloud.microsoft</li>
+<li> 13:13 login.microsoftonline.com</li>
+<li> 13:13 eu-west.azureauth.duosecurity.com</li>
+<li> 13:13 api-b6327e78.duosecurity.com</li>
+<li> 13:13 adfs.herts.ac.uk</li>
+<li> 13:13 outlook.office365.com</li>
+<li> 13:12 calendar.google.com</li>
+<li> 13:11 outlook.office365.com</li>
+<li> 13:11 mail.google.com</li>
+<li> 13:11 outlook.office365.com</li>
+<li> 13:01 rhul-my.sharepoint.com</li>
+<li> 13:01 login.microsoftonline.com</li>
+<li> 13:00 rhul-my.sharepoint.com</li>
+<li> 13:00 login.microsoftonline.com</li>
+<li> 13:00 rhul-my.sharepoint.com</li>
+<li> 12:56 mail.google.com</li>
+<li> 12:56 gmail.com</li>
+<li> 12:54 docs.google.com</li>
+<li> 12:53 outlook.office365.com</li>
+<li> 12:52 mail.google.com</li>
+<li> 12:51 drive.google.com</li>
+<li> 12:51 outlook.office365.com</li>
+<li class='same'> 12:50 outlook.office365.com</li>
+<li> 12:50 calendar.google.com</li>
+<li> 12:50 mail.google.com</li>
+<li> 12:44 www.google.com</li>
 <li> 12:43 equalitytime.github.io</li>
 <li> 12:42 mail.google.com</li>
 <li class='same'> 12:41 mail.google.com</li>
