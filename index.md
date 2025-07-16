@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (853)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (659)</li>
-<li>www.linkedin.com (615)</li>
+<li>www.linkedin.com (617)</li>
 <li>login.microsoftonline.com (581)</li>
 <li>moodle.royalholloway.ac.uk (539)</li>
 <li>rhul-my.sharepoint.com (525)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (405)</li>
 <li>drive.google.com (338)</li>
 <li>feedly.com (308)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (303)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (304)</li>
 <li>fritz.box (279)</li>
 <li>whitewaterwriters.com (275)</li>
 <li>rhul.sharepoint.com (273)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 16/07/25</H3>
+
+<br>
+
+<ul><li> 17:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:05 www.linkedin.com</li>
+<li class='same'> 17:04 www.linkedin.com</li>
+</ul>
 
 <br>
 
