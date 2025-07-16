@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3373)</li>
-<li>mail.google.com (3297)</li>
+<li>mail.google.com (3300)</li>
 <li>outlook.office.com (3057)</li>
 <li>www.reddit.com (2318)</li>
 <li>docs.google.com (2284)</li>
 <li>outlook.office365.com (2258)</li>
 <li>bsky.app (1579)</li>
-<li>duckduckgo.com (1448)</li>
+<li>duckduckgo.com (1449)</li>
 <li>www.facebook.com (1427)</li>
 <li>chatgpt.com (961)</li>
-<li>www.amazon.co.uk (851)</li>
+<li>www.amazon.co.uk (853)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (652)</li>
-<li>www.linkedin.com (609)</li>
+<li>www.linkedin.com (610)</li>
 <li>login.microsoftonline.com (573)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
 <li>rhul-my.sharepoint.com (522)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:51 docs.google.com</li>
+<ul><li> 08:09 www.linkedin.com</li>
+<li> 08:09 mail.google.com</li>
+<li class='same'> 08:08 mail.google.com</li>
+<li class='same'> 07:53 mail.google.com</li>
+<li> 07:52 www.amazon.co.uk</li>
+<li class='same'> 07:51 www.amazon.co.uk</li>
+<li> 07:51 duckduckgo.com</li>
+<li> 07:51 docs.google.com</li>
 <li class='same'> 07:49 docs.google.com</li>
 <li> 07:49 mail.google.com</li>
 <li class='same'> 07:46 mail.google.com</li>
