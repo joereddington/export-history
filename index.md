@@ -71,17 +71,17 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3380)</li>
 <li>mail.google.com (3320)</li>
 <li>outlook.office.com (3065)</li>
-<li>www.reddit.com (2332)</li>
+<li>www.reddit.com (2333)</li>
 <li>docs.google.com (2296)</li>
 <li>outlook.office365.com (2294)</li>
 <li>bsky.app (1579)</li>
 <li>duckduckgo.com (1458)</li>
 <li>www.facebook.com (1427)</li>
-<li>chatgpt.com (966)</li>
+<li>chatgpt.com (967)</li>
 <li>www.amazon.co.uk (853)</li>
 <li>www.theguardian.com (685)</li>
 <li>calendar.google.com (659)</li>
-<li>www.linkedin.com (617)</li>
+<li>www.linkedin.com (621)</li>
 <li>login.microsoftonline.com (580)</li>
 <li>moodle.royalholloway.ac.uk (538)</li>
 <li>rhul-my.sharepoint.com (525)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (502)</li>
 <li>github.com (487)</li>
 <li>web.whatsapp.com (452)</li>
-<li>chat.openai.com (405)</li>
+<li>chat.openai.com (406)</li>
 <li>drive.google.com (338)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (317)</li>
 <li>feedly.com (308)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 18:49 www.reddit.com</li>
+<li> 18:49 www.linkedin.com</li>
+<li class='same'> 18:48 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:01 chatgpt.com</li>
+<li> 18:01 chat.openai.com</li>
+<li> 17:57 forums.giantitp.com</li>
+<li> 17:57 www.giantitp.com</li>
+<li class='same'> 17:56 www.giantitp.com</li>
+<li class='same'> 17:55 www.giantitp.com</li>
+<li> 17:50 www.linkedin.com</li>
+<li class='same'> 17:49 www.linkedin.com</li>
+<li> 17:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li class='same'> 17:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 17:27 <a href="https://www.theguardian.com/">Trump’s effort to dismiss Epstein files as ‘hoax’ fails to quell Maga rebellion | Jeffrey Epstein | The Guardian</a></li>
 <li> 17:22 <a href="https://www.theguardian.com/us-news/2025/jul/17/trump-jeffrey-epstein-republicans-maga">Trump’s effort to dismiss Epstein files as ‘hoax’ fails to quell Maga rebellion | Jeffrey Epstein | The Guardian</a></li>
