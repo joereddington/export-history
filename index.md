@@ -18538,8 +18538,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:57 mail.google.com</li>
 <li> 17:57 gmail.com</li>
 <li> 17:57 www.midjourney.com</li>
-<li> 17:57 discord.com</li>
-<li> 17:57 www.midjourney.com</li>
 <li> 17:57 duckduckgo.com</li>
 <li> 17:56 mail.google.com</li>
 <li> 17:56 www.ebay.co.uk</li>
@@ -18547,9 +18545,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:55 mail.google.com</li>
 <li> 17:55 gmail.com</li>
 <li> 17:55 www.selectspecs.com</li>
-<li> 17:55 www.paypal.com</li>
-<li class='same'> 17:54 www.paypal.com</li>
-<li> 17:54 www.selectspecs.com</li>
+<li class='same'> 17:54 www.selectspecs.com</li>
 <li class='same'> 17:53 www.selectspecs.com</li>
 <li class='same'> 17:52 www.selectspecs.com</li>
 <li class='same'> 17:51 www.selectspecs.com</li>
