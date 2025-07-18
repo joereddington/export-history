@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3391)</li>
+<ol><li>www.google.com (3393)</li>
 <li>mail.google.com (3320)</li>
 <li>outlook.office.com (3065)</li>
 <li>www.reddit.com (2336)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (452)</li>
 <li>chat.openai.com (406)</li>
 <li>drive.google.com (338)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (318)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (319)</li>
 <li>feedly.com (308)</li>
 <li>fritz.box (279)</li>
 <li>whitewaterwriters.com (275)</li>
@@ -108,13 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:18 adblockplus.org</li>
+<ul><li> 17:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:43 www.google.com</li>
+<li> 17:19 <a href="https://www.youtube.com/embed/myybqH1JN1s">D70 Tutorial - YouTube</a></li>
+<li> 17:19 deerc.com</li>
+<li> 17:18 adblockplus.org</li>
 <li> 17:18 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 16:36 www.google.com</li>
+<li class='same'> 16:59 www.google.com</li>
+<li class='same'> 16:36 www.google.com</li>
 <li> 16:34 reefknots.com</li>
 <li> 16:34 www.google.com</li>
 <li> 16:30 www.printables.com</li>
