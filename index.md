@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3380)</li>
+<ol><li>www.google.com (3381)</li>
 <li>mail.google.com (3320)</li>
 <li>outlook.office.com (3065)</li>
-<li>www.reddit.com (2333)</li>
+<li>www.reddit.com (2336)</li>
 <li>docs.google.com (2296)</li>
 <li>outlook.office365.com (2294)</li>
 <li>bsky.app (1579)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (452)</li>
 <li>chat.openai.com (406)</li>
 <li>drive.google.com (338)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (317)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (318)</li>
 <li>feedly.com (308)</li>
 <li>fritz.box (279)</li>
 <li>whitewaterwriters.com (275)</li>
@@ -104,7 +104,33 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 18/07/25</H3>
+
+<br>
+
+<ul><li> 15:52 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:44 www.reddit.com</li>
+<li class='same'> 07:43 www.reddit.com</li>
+<li class='same'> 07:42 www.reddit.com</li>
+<li> 07:42 <a href="https://www.theguardian.com/us-news/2025/jul/17/what-is-chronic-venous-insufficiency-trump-illness">What is chronic venous insufficiency, the condition Trump was diagnosed with? | Donald Trump | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:59 <a href="https://www.theguardian.com/us-news/2025/jul/17/what-is-chronic-venous-insufficiency-trump-illness">What is chronic venous insufficiency, the condition Trump was diagnosed with? | Donald Trump | The Guardian</a></li>
+<li> 06:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:59 <a href="https://www.theguardian.com/commentisfree/2025/jul/17/ive-found-the-cure-for-a-sleepless-night-in-a-heatwave-but-it-can-have-its-drawbacks">I’ve found the cure for a sleepless night in a heatwave – but it can have its drawbacks … | Adrian Chiles | The Guardian</a></li>
+</ul>
+
 <H3>Thursday, 17/07/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -123,6 +149,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:55 www.giantitp.com</li>
 <li> 17:50 www.linkedin.com</li>
 <li class='same'> 17:49 www.linkedin.com</li>
+<li> 17:28 <a href="https://www.theguardian.com/commentisfree/2025/jul/17/ive-found-the-cure-for-a-sleepless-night-in-a-heatwave-but-it-can-have-its-drawbacks">I’ve found the cure for a sleepless night in a heatwave – but it can have its drawbacks … | Adrian Chiles | The Guardian</a></li>
 <li> 17:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li class='same'> 17:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 17:27 <a href="https://www.theguardian.com/">Trump’s effort to dismiss Epstein files as ‘hoax’ fails to quell Maga rebellion | Jeffrey Epstein | The Guardian</a></li>
