@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (453)</li>
 <li>chat.openai.com (406)</li>
 <li>drive.google.com (338)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (326)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (327)</li>
 <li>feedly.com (308)</li>
 <li>fritz.box (279)</li>
 <li>whitewaterwriters.com (274)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 19/07/25</H3>
+
+<br>
+
+<ul><li> 12:49 www.foxnews.com</li>
+<li> 12:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:47 <a href="https://www.theguardian.com/">Company says investigation under way into footage of couple at Coldplay gig | US news | The Guardian</a></li>
+</ul>
 
 <br>
 
