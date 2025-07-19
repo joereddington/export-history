@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3390)</li>
+<ol><li>www.google.com (3395)</li>
 <li>mail.google.com (3319)</li>
 <li>outlook.office.com (3065)</li>
-<li>www.reddit.com (2339)</li>
+<li>www.reddit.com (2347)</li>
 <li>docs.google.com (2300)</li>
 <li>outlook.office365.com (2294)</li>
 <li>bsky.app (1579)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (453)</li>
 <li>chat.openai.com (406)</li>
 <li>drive.google.com (338)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (325)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (326)</li>
 <li>feedly.com (308)</li>
 <li>fritz.box (279)</li>
 <li>whitewaterwriters.com (274)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 19/07/25</H3>
+
+<br>
+
+<ul><li> 08:28 www.reddit.com</li>
+<li class='same'> 08:10 www.reddit.com</li>
+<li class='same'> 08:09 www.reddit.com</li>
+<li class='same'> 08:08 www.reddit.com</li>
+<li> 08:08 www.google.com</li>
+<li> 08:08 www.reddit.com</li>
+<li> 08:07 www.google.com</li>
+<li> 08:07 www.reddit.com</li>
+<li> 08:06 www.google.com</li>
+<li> 08:06 www.reddit.com</li>
+<li> 08:06 www.google.com</li>
+<li> 08:05 www.reddit.com</li>
+<li> 08:05 www.google.com</li>
+<li> 08:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
 
 <br>
 
