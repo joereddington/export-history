@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3395)</li>
-<li>mail.google.com (3319)</li>
-<li>outlook.office.com (3065)</li>
-<li>www.reddit.com (2347)</li>
-<li>docs.google.com (2300)</li>
-<li>outlook.office365.com (2294)</li>
+<ol><li>www.google.com (3397)</li>
+<li>mail.google.com (3341)</li>
+<li>outlook.office.com (3078)</li>
+<li>www.reddit.com (2369)</li>
+<li>outlook.office365.com (2329)</li>
+<li>docs.google.com (2304)</li>
 <li>bsky.app (1579)</li>
-<li>duckduckgo.com (1461)</li>
+<li>duckduckgo.com (1485)</li>
 <li>www.facebook.com (1427)</li>
-<li>chatgpt.com (967)</li>
-<li>www.amazon.co.uk (853)</li>
+<li>chatgpt.com (976)</li>
+<li>www.amazon.co.uk (860)</li>
 <li>www.theguardian.com (685)</li>
-<li>calendar.google.com (659)</li>
-<li>www.linkedin.com (630)</li>
-<li>login.microsoftonline.com (580)</li>
-<li>moodle.royalholloway.ac.uk (538)</li>
-<li>rhul-my.sharepoint.com (525)</li>
-<li>gmail.com (513)</li>
+<li>www.linkedin.com (683)</li>
+<li>calendar.google.com (660)</li>
+<li>login.microsoftonline.com (586)</li>
+<li>moodle.royalholloway.ac.uk (543)</li>
+<li>rhul-my.sharepoint.com (534)</li>
+<li>gmail.com (517)</li>
 <li>tvtropes.org (503)</li>
 <li>github.com (487)</li>
-<li>web.whatsapp.com (453)</li>
-<li>chat.openai.com (406)</li>
-<li>drive.google.com (338)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (327)</li>
-<li>feedly.com (308)</li>
+<li>web.whatsapp.com (454)</li>
+<li>chat.openai.com (411)</li>
+<li>drive.google.com (341)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (333)</li>
+<li>feedly.com (309)</li>
 <li>fritz.box (279)</li>
 <li>whitewaterwriters.com (274)</li>
 <li>rhul.sharepoint.com (273)</li>
@@ -104,7 +104,405 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 21/07/25</H3>
+
+<br>
+
+<ul><li> 19:41 chatgpt.com</li>
+<li> 19:41 chat.openai.com</li>
+<li> 19:34 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 19:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 19:34 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+</ul>
+
+<br>
+
+<ul><li> 18:38 <a href="https://www.youtube.com/watch?v=uXzXhkpcKoE">(664) Installing a Pannier Rack to a Bike (Topeak Super Tourist DX Disc) - YouTube</a></li>
+<li> 18:38 <a href="https://www.youtube.com/results?search_query=attach+a+pannier">(664) attach a pannier - YouTube</a></li>
+<li> 18:38 <a href="https://www.youtube.com/results?search_query=attac+">(664) attac - YouTube</a></li>
+<li> 18:38 www.linkedin.com</li>
+<li> 18:38 <a href="https://www.youtube.com/">YouTube</a></li>
+<li> 18:36 www.ebay.co.uk</li>
+<li class='same'> 18:34 www.ebay.co.uk</li>
+<li> 18:34 www.linkedin.com</li>
+<li class='same'> 18:17 www.linkedin.com</li>
+<li class='same'> 18:10 www.linkedin.com</li>
+<li class='same'> 18:09 www.linkedin.com</li>
+<li class='same'> 18:08 www.linkedin.com</li>
+<li> 18:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:07 www.ebay.co.uk</li>
+<li class='same'> 18:06 www.ebay.co.uk</li>
+<li class='same'> 18:05 www.ebay.co.uk</li>
+<li class='same'> 18:04 www.ebay.co.uk</li>
+<li class='same'> 18:03 www.ebay.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 16:18 www.linkedin.com</li>
+<li class='same'> 16:17 www.linkedin.com</li>
+<li class='same'> 16:16 www.linkedin.com</li>
+<li class='same'> 16:08 www.linkedin.com</li>
+<li> 16:08 outlook.office365.com</li>
+<li> 16:06 www.reddit.com</li>
+<li class='same'> 16:04 www.reddit.com</li>
+<li> 16:04 outlook.office365.com</li>
+<li> 16:04 www.uolacademiccontractors.com</li>
+<li class='same'> 16:03 www.uolacademiccontractors.com</li>
+<li> 16:02 help.uolacademiccontractors.com</li>
+<li> 16:02 www.uolacademiccontractors.com</li>
+<li> 16:01 outlook.office365.com</li>
+<li> 16:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:00 <a href="https://www.theguardian.com/">Company says investigation under way into footage of couple at Coldplay gig | US news | The Guardian</a></li>
+<li> 16:00 outlook.office365.com</li>
+<li> 15:59 www.linkedin.com</li>
+<li class='same'> 15:58 www.linkedin.com</li>
+<li> 15:42 www.reddit.com</li>
+<li class='same'> 15:41 www.reddit.com</li>
+<li class='same'> 15:40 www.reddit.com</li>
+<li> 15:40 mail.google.com</li>
+<li> 15:40 outlook.office.com</li>
+<li class='same'> 15:39 outlook.office.com</li>
+<li> 15:39 m365.cloud.microsoft</li>
+<li> 15:39 login.microsoftonline.com</li>
+<li> 15:39 eu-west.azureauth.duosecurity.com</li>
+<li> 15:39 api-b6327e78.duosecurity.com</li>
+<li> 15:39 adfs.herts.ac.uk</li>
+<li> 15:38 jbit-zcmp.maillist-manage.eu</li>
+<li> 15:38 outlook.office365.com</li>
+<li> 15:38 mail.google.com</li>
+<li> 15:37 www.linkedin.com</li>
+<li class='same'> 15:36 www.linkedin.com</li>
+<li> 15:36 mail.google.com</li>
+<li class='same'> 15:35 mail.google.com</li>
+<li class='same'> 15:34 mail.google.com</li>
+<li> 15:34 gmail.com</li>
+<li> 15:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:33 <a href="https://www.theguardian.com/">Company says investigation under way into footage of couple at Coldplay gig | US news | The Guardian</a></li>
+<li> 15:31 jobs.royalholloway.ac.uk</li>
+<li> 15:30 www.giantitp.com</li>
+<li class='same'> 15:29 www.giantitp.com</li>
+<li> 15:29 feedly.com</li>
+<li> 15:29 outlook.office365.com</li>
+<li> 15:28 <a href="https://www.theguardian.com/us-news/live/2025/jul/21/ice-immigration-donald-trump-latest-us-politics-news-updates">Harvard to ask court to declare Trump’s $2bn funding freeze unlawful – US politics live</a></li>
+<li> 15:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:25 www.linkedin.com</li>
+<li> 15:23 outlook.office365.com</li>
+<li> 15:23 www.linkedin.com</li>
+<li class='same'> 15:22 www.linkedin.com</li>
+<li class='same'> 15:21 www.linkedin.com</li>
+<li class='same'> 15:20 www.linkedin.com</li>
+<li class='same'> 15:18 www.linkedin.com</li>
+<li class='same'> 15:17 www.linkedin.com</li>
+<li> 15:17 theconversation.com</li>
+<li> 15:16 www.linkedin.com</li>
+<li> 15:16 discord.com</li>
+<li> 15:00 www.sciencedirect.com</li>
+<li> 15:00 linkinghub.elsevier.com</li>
+<li> 14:59 chatgpt.com</li>
+<li> 14:59 chat.openai.com</li>
+<li> 14:58 outlook.office365.com</li>
+<li class='same'> 14:57 outlook.office365.com</li>
+<li> 14:57 www.reddit.com</li>
+<li> 14:57 www.amazon.co.uk</li>
+<li class='same'> 14:56 www.amazon.co.uk</li>
+<li class='same'> 14:55 www.amazon.co.uk</li>
+<li class='same'> 14:54 www.amazon.co.uk</li>
+<li class='same'> 14:53 www.amazon.co.uk</li>
+<li class='same'> 14:52 www.amazon.co.uk</li>
+<li> 14:26 www.linkedin.com</li>
+<li class='same'> 14:25 www.linkedin.com</li>
+<li> 14:15 www.mdpi.com</li>
+<li> 14:15 doi.org</li>
+<li> 14:15 duckduckgo.com</li>
+<li> 14:13 ev.turnitinuk.com</li>
+<li> 14:13 herts.instructure.com</li>
+<li> 14:13 www.researchgate.net</li>
+<li> 14:12 ev.turnitinuk.com</li>
+<li> 14:12 herts.instructure.com</li>
+<li class='same'> 14:11 herts.instructure.com</li>
+<li> 14:11 scholar.google.com</li>
+<li> 14:10 ev.turnitinuk.com</li>
+<li> 14:10 herts.instructure.com</li>
+<li class='same'> 14:09 herts.instructure.com</li>
+<li> 14:09 scholar.google.com</li>
+<li class='same'> 14:08 scholar.google.com</li>
+<li> 14:08 ev.turnitinuk.com</li>
+<li> 14:07 herts.instructure.com</li>
+<li> 14:07 scholar.google.com</li>
+<li> 14:07 duckduckgo.com</li>
+<li> 14:06 www.researchgate.net</li>
+<li> 14:06 duckduckgo.com</li>
+<li> 14:05 ev.turnitinuk.com</li>
+<li> 14:05 herts.instructure.com</li>
+<li> 14:04 jurnal.polgan.ac.id</li>
+<li> 14:04 www.researchsquare.com</li>
+<li> 14:03 www.mckinsey.com</li>
+<li> 14:03 duckduckgo.com</li>
+<li> 14:02 ev.turnitinuk.com</li>
+<li> 14:02 herts.instructure.com</li>
+<li> 14:01 link.springer.com</li>
+<li> 14:01 duckduckgo.com</li>
+<li> 14:01 www.researchgate.net</li>
+<li> 14:01 duckduckgo.com</li>
+<li> 14:01 www.sciencedirect.com</li>
+<li> 14:00 duckduckgo.com</li>
+<li> 14:00 www.researchgate.net</li>
+<li> 14:00 duckduckgo.com</li>
+<li> 13:52 outlook.office.com</li>
+<li> 13:52 ev.turnitinuk.com</li>
+<li> 13:52 herts.instructure.com</li>
+<li> 13:51 scholar.google.com</li>
+<li> 13:50 dx.doi.org</li>
+<li> 13:50 duckduckgo.com</li>
+<li> 13:49 ev.turnitinuk.com</li>
+<li> 13:49 herts.instructure.com</li>
+<li class='same'> 13:48 herts.instructure.com</li>
+<li> 13:48 ev.turnitinuk.com</li>
+<li> 13:48 herts.instructure.com</li>
+<li> 13:47 duckduckgo.com</li>
+<li> 13:46 scholar.google.co.uk</li>
+<li> 13:46 duckduckgo.com</li>
+<li> 13:46 grouplens.org</li>
+<li> 13:45 doi.org</li>
+<li> 13:45 arxiv.org</li>
+<li> 13:44 ev.turnitinuk.com</li>
+<li> 13:44 herts.instructure.com</li>
+<li class='same'> 13:43 herts.instructure.com</li>
+<li> 13:43 ev.turnitinuk.com</li>
+<li> 13:42 herts.instructure.com</li>
+<li> 13:36 www.linkedin.com</li>
+<li class='same'> 13:34 www.linkedin.com</li>
+<li class='same'> 13:27 www.linkedin.com</li>
+<li class='same'> 13:26 www.linkedin.com</li>
+<li> 13:26 outlook.office.com</li>
+<li class='same'> 13:22 outlook.office.com</li>
+<li> 13:20 www.herts.ac.uk</li>
+<li> 13:20 duckduckgo.com</li>
+<li> 13:13 www.herts.ac.uk</li>
+<li> 13:13 ask.herts.ac.uk</li>
+<li> 13:13 duckduckgo.com</li>
+<li> 13:11 outlook.office.com</li>
+<li> 13:10 m365.cloud.microsoft</li>
+<li> 13:10 login.microsoftonline.com</li>
+<li> 13:10 eu-west.azureauth.duosecurity.com</li>
+<li> 13:10 api-b6327e78.duosecurity.com</li>
+<li> 13:10 adfs.herts.ac.uk</li>
+<li> 13:07 www.sciencedirect.com</li>
+<li> 13:07 linkinghub.elsevier.com</li>
+<li> 13:07 duckduckgo.com</li>
+<li> 13:06 bpspsychub.onlinelibrary.wiley.com</li>
+<li> 13:06 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:05 ev.turnitinuk.com</li>
+<li> 13:05 herts.instructure.com</li>
+<li class='same'> 13:04 herts.instructure.com</li>
+<li> 13:00 ev.turnitinuk.com</li>
+<li> 13:00 herts.instructure.com</li>
+<li> 12:47 chatgpt.com</li>
+<li class='same'> 12:46 chatgpt.com</li>
+<li class='same'> 12:45 chatgpt.com</li>
+<li> 12:45 herts.instructure.com</li>
+<li class='same'> 12:44 herts.instructure.com</li>
+<li> 12:41 docs.google.com</li>
+<li> 12:40 drive.google.com</li>
+<li> 12:40 herts.instructure.com</li>
+<li> 12:39 outlook.office365.com</li>
+<li> 12:39 www.linkedin.com</li>
+<li class='same'> 12:36 www.linkedin.com</li>
+<li class='same'> 12:35 www.linkedin.com</li>
+<li> 12:12 chatgpt.com</li>
+<li> 12:12 chat.openai.com</li>
+<li> 12:11 herts.instructure.com</li>
+<li class='same'> 12:09 herts.instructure.com</li>
+<li> 12:07 www.linkedin.com</li>
+<li class='same'> 12:06 www.linkedin.com</li>
+<li> 12:05 <a href="https://www.theguardian.com/business/2025/jul/21/ryanair-weighs-up-higher-bonus-paid-to-staff-intercepting-oversized-luggage">Ryanair weighs up increasing bonus to staff for intercepting oversized luggage | Ryanair | The Guardian</a></li>
+<li> 12:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:04 <a href="https://www.theguardian.com/">Company says investigation under way into footage of couple at Coldplay gig | US news | The Guardian</a></li>
+<li> 12:04 mail.google.com</li>
+<li> 12:04 www.linkedin.com</li>
+<li class='same'> 12:01 www.linkedin.com</li>
+<li class='same'> 12:00 www.linkedin.com</li>
+<li> 11:56 outlook.office365.com</li>
+<li> 11:56 outlook.office.com</li>
+<li class='same'> 11:55 outlook.office.com</li>
+<li> 11:45 www.linkedin.com</li>
+<li class='same'> 11:44 www.linkedin.com</li>
+<li> 11:44 mail.google.com</li>
+<li class='same'> 11:43 mail.google.com</li>
+<li> 11:43 accounts.google.com</li>
+<li> 11:43 mail.google.com</li>
+<li> 11:43 gmail.com</li>
+<li> 11:43 www.meetmikethompson.com</li>
+<li> 11:43 t.co</li>
+<li> 11:43 mail.google.com</li>
+<li class='same'> 11:42 mail.google.com</li>
+<li> 11:42 gmail.com</li>
+<li> 11:41 www.linkedin.com</li>
+<li class='same'> 11:40 www.linkedin.com</li>
+<li class='same'> 11:39 www.linkedin.com</li>
+<li class='same'> 11:38 www.linkedin.com</li>
+<li class='same'> 11:37 www.linkedin.com</li>
+<li class='same'> 11:36 www.linkedin.com</li>
+<li class='same'> 11:35 www.linkedin.com</li>
+<li class='same'> 11:34 www.linkedin.com</li>
+<li class='same'> 11:33 www.linkedin.com</li>
+<li class='same'> 11:32 www.linkedin.com</li>
+<li> 11:32 outlook.office365.com</li>
+<li> 11:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:22 www.reddit.com</li>
+<li class='same'> 11:20 www.reddit.com</li>
+<li class='same'> 11:19 www.reddit.com</li>
+<li class='same'> 11:18 www.reddit.com</li>
+<li class='same'> 11:17 www.reddit.com</li>
+<li class='same'> 11:16 www.reddit.com</li>
+<li> 11:15 calendar.google.com</li>
+<li> 11:15 herts.instructure.com</li>
+<li> 11:12 duckduckgo.com</li>
+<li class='same'> 11:11 duckduckgo.com</li>
+<li> 11:11 outlook.office.com</li>
+<li class='same'> 11:03 outlook.office.com</li>
+<li class='same'> 11:02 outlook.office.com</li>
+<li class='same'> 11:01 outlook.office.com</li>
+<li class='same'> 11:00 outlook.office.com</li>
+<li> 11:00 m365.cloud.microsoft</li>
+<li> 10:57 herts365-my.sharepoint.com</li>
+<li class='same'> 10:56 herts365-my.sharepoint.com</li>
+<li> 10:56 m365.cloud.microsoft</li>
+<li> 10:56 www.linkedin.com</li>
+<li class='same'> 10:55 www.linkedin.com</li>
+<li> 10:55 m365.cloud.microsoft</li>
+<li> 10:55 login.microsoftonline.com</li>
+<li> 10:55 eu-west.azureauth.duosecurity.com</li>
+<li> 10:54 api-b6327e78.duosecurity.com</li>
+<li> 10:54 adfs.herts.ac.uk</li>
+<li> 10:53 mail.google.com</li>
+<li class='same'> 10:52 mail.google.com</li>
+<li> 10:49 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 10:49 mail.google.com</li>
+<li class='same'> 10:48 mail.google.com</li>
+<li> 10:48 runthrough.us11.list-manage.com</li>
+<li> 10:48 mail.google.com</li>
+<li> 10:47 myactivity.google.com</li>
+<li> 10:47 www.google.com</li>
+<li> 10:45 www.linkedin.com</li>
+<li> 10:43 www.google.com</li>
+<li> 10:43 mail.google.com</li>
+<li> 10:43 www.amazon.co.uk</li>
+<li> 10:42 payout.runa.io</li>
+<li> 10:42 mail.google.com</li>
+<li> 10:42 www.linkedin.com</li>
+<li class='same'> 10:41 www.linkedin.com</li>
+<li> 10:40 mail.google.com</li>
+<li class='same'> 10:39 mail.google.com</li>
+<li class='same'> 10:38 mail.google.com</li>
+<li> 10:36 ev.turnitinuk.com</li>
+<li> 10:36 herts.instructure.com</li>
+<li class='same'> 10:35 herts.instructure.com</li>
+<li class='same'> 10:34 herts.instructure.com</li>
+<li> 10:34 adfs.herts.ac.uk</li>
+<li> 10:27 api-b6327e78.duosecurity.com</li>
+<li> 10:27 adfs.herts.ac.uk</li>
+<li> 10:27 herts.instructure.com</li>
+<li> 10:27 adfs.herts.ac.uk</li>
+<li> 10:27 mail.google.com</li>
+<li> 10:27 gmail.com</li>
+<li> 10:27 outlook.office365.com</li>
+<li class='same'> 10:24 outlook.office365.com</li>
+<li> 10:24 www.thankbox.com</li>
+<li class='same'> 10:23 www.thankbox.com</li>
+<li class='same'> 10:22 www.thankbox.com</li>
+<li> 10:22 web.whatsapp.com</li>
+<li> 10:21 outlook.office365.com</li>
+<li> 10:21 www.thankbox.com</li>
+<li> 10:21 outlook.office365.com</li>
+<li class='same'> 10:15 outlook.office365.com</li>
+<li class='same'> 10:14 outlook.office365.com</li>
+<li> 10:08 www.reddit.com</li>
+<li class='same'> 10:07 www.reddit.com</li>
+<li> 10:06 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/21/bbc-targets-adults-in-the-latest-adventure-for-its-top-dog-bluey">BBC targets adults in the latest adventure for its top dog Bluey | Bluey | The Guardian</a></li>
+<li> 10:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:06 <a href="https://www.theguardian.com/">Company says investigation under way into footage of couple at Coldplay gig | US news | The Guardian</a></li>
+<li> 10:05 news.mypd.co.uk</li>
+<li> 10:05 outlook.office365.com</li>
+<li class='same'> 09:56 outlook.office365.com</li>
+<li> 09:51 www.reddit.com</li>
+<li> 09:48 www.cybok.org</li>
+<li> 09:48 duckduckgo.com</li>
+<li> 09:38 chatgpt.com</li>
+<li> 09:38 chat.openai.com</li>
+<li> 09:35 www.cybok.org</li>
+<li> 09:35 duckduckgo.com</li>
+<li> 09:31 rhul-my.sharepoint.com</li>
+<li class='same'> 09:29 rhul-my.sharepoint.com</li>
+<li class='same'> 09:28 rhul-my.sharepoint.com</li>
+<li class='same'> 09:27 rhul-my.sharepoint.com</li>
+<li> 09:25 www.cybok.org</li>
+<li class='same'> 09:23 www.cybok.org</li>
+<li class='same'> 09:22 www.cybok.org</li>
+<li> 09:22 outlook.office365.com</li>
+<li> 09:21 psycnet.apa.org</li>
+<li> 09:20 outlook.office365.com</li>
+<li> 09:20 scholar.google.com</li>
+<li class='same'> 09:19 scholar.google.com</li>
+<li> 09:19 pmc.ncbi.nlm.nih.gov</li>
+<li> 09:19 outlook.office365.com</li>
+<li> 09:19 pmc.ncbi.nlm.nih.gov</li>
+<li> 09:18 outlook.office365.com</li>
+<li class='same'> 09:16 outlook.office365.com</li>
+<li class='same'> 09:15 outlook.office365.com</li>
+<li> 09:11 rhul-my.sharepoint.com</li>
+<li> 09:10 outlook.office365.com</li>
+<li class='same'> 09:04 outlook.office365.com</li>
+<li class='same'> 09:02 outlook.office365.com</li>
+<li> 08:57 moodle.royalholloway.ac.uk</li>
+<li class='same'> 08:56 moodle.royalholloway.ac.uk</li>
+<li> 08:56 login.microsoftonline.com</li>
+<li> 08:55 moodle.royalholloway.ac.uk</li>
+<li> 08:55 login.microsoftonline.com</li>
+<li> 08:55 moodle.royalholloway.ac.uk</li>
+<li> 08:55 rhul.rl.talis.com</li>
+<li> 08:55 duckduckgo.com</li>
+<li> 08:49 chatgpt.com</li>
+<li class='same'> 08:48 chatgpt.com</li>
+<li> 08:48 chat.openai.com</li>
+<li> 08:48 intranet.royalholloway.ac.uk</li>
+<li> 08:48 duckduckgo.com</li>
+<li> 08:48 outlook.office365.com</li>
+<li class='same'> 08:44 outlook.office365.com</li>
+<li class='same'> 08:35 outlook.office365.com</li>
+<li> 08:20 <a href="https://www.youtube.com/watch?v=u5MMv2O3Q9Q&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=23">(664) GCSE Maths: N1-22 [Interpreting Regions as Inequalities] - YouTube</a></li>
+<li> 08:20 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(664) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 08:20 <a href="https://www.youtube.com/feed/playlists">(664) YouTube</a></li>
+<li> 08:19 <a href="https://www.youtube.com/">YouTube</a></li>
+<li> 08:17 rhul-my.sharepoint.com</li>
+<li> 08:17 outlook.office365.com</li>
+<li class='same'> 08:16 outlook.office365.com</li>
+<li> 08:16 login.microsoftonline.com</li>
+<li> 08:16 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:44 duckduckgo.com</li>
+<li> 07:35 tron.fandom.com</li>
+<li> 07:35 duckduckgo.com</li>
+<li class='same'> 07:31 duckduckgo.com</li>
+<li> 07:30 dictionary.cambridge.org</li>
+<li> 07:30 duckduckgo.com</li>
+<li> 07:07 docs.google.com</li>
+<li> 07:07 drive.google.com</li>
+<li> 07:07 docs.google.com</li>
+<li class='same'> 07:06 docs.google.com</li>
+<li> 07:06 drive.google.com</li>
+<li> 07:03 www.reddit.com</li>
+</ul>
+
 <H3>Saturday, 19/07/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -115,7 +513,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:28 www.reddit.com</li>
+<ul><li> 08:36 www.reddit.com</li>
+<li class='same'> 08:35 www.reddit.com</li>
+<li class='same'> 08:33 www.reddit.com</li>
+<li class='same'> 08:32 www.reddit.com</li>
+<li class='same'> 08:30 www.reddit.com</li>
+<li class='same'> 08:29 www.reddit.com</li>
+<li class='same'> 08:28 www.reddit.com</li>
 <li class='same'> 08:10 www.reddit.com</li>
 <li class='same'> 08:09 www.reddit.com</li>
 <li class='same'> 08:08 www.reddit.com</li>
@@ -1245,7 +1649,7 @@ With number of accesses/minutes in parentheses
 <li> 13:31 <a href="https://www.youtube.com/">YouTube</a></li>
 <li> 13:31 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
 <li> 13:31 <a href="https://www.youtube.com/">YouTube</a></li>
-<li> 13:29 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(632) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 13:29 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(664) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 13:28 <a href="https://www.youtube.com/playlist?list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(632) TEACHING GCSE Maths - YouTube</a></li>
 <li> 13:28 <a href="https://www.youtube.com/results?search_query=GCSE+maths+lessons">(632) GCSE maths lessons - YouTube</a></li>
 <li> 13:28 <a href="https://www.youtube.com/playlist?list=PLqxP5EuGxPndONpFQCdcbRa3C_b38so9u">(632) Edexcel 2023 GCSE Maths Exam Revision - YouTube</a></li>
@@ -52322,6 +52726,7 @@ With number of accesses/minutes in parentheses
 <li> 09:22 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 09:22 www.wikipedia.org</li>
 <li> 09:19 rhul-my.sharepoint.com</li>
+<li class='same'> 09:16 rhul-my.sharepoint.com</li>
 <li> 09:14 <a href="https://en.wikipedia.org/wiki/Bluey_(2018_TV_series)">Bluey (2018 TV series) - Wikipedia</a></li>
 </ul>
 
@@ -52521,6 +52926,7 @@ With number of accesses/minutes in parentheses
 <li> 17:37 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 17:35 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 17:34 webtimetables.royalholloway.ac.uk</li>
+<li> 17:32 moodle.royalholloway.ac.uk</li>
 <li> 17:32 pure.royalholloway.ac.uk</li>
 <li> 17:31 myview.rhul.zellis.com</li>
 <li> 17:21 rhul.sharepoint.com</li>
@@ -52621,7 +53027,8 @@ With number of accesses/minutes in parentheses
 <li> 12:41 projects.cs.rhul.ac.uk</li>
 <li> 12:25 www.advance-he.ac.uk</li>
 <li> 12:23 outlook.office365.com</li>
-<li class='same'> 12:06 outlook.office365.com</li>
+<li> 12:06 rhul-my.sharepoint.com</li>
+<li> 12:06 outlook.office365.com</li>
 <li class='same'> 12:03 outlook.office365.com</li>
 <li class='same'> 12:01 outlook.office365.com</li>
 </ul>
@@ -52785,7 +53192,8 @@ With number of accesses/minutes in parentheses
 <li> 09:45 rhul-my.sharepoint.com</li>
 <li> 09:38 kdpreports.amazon.com</li>
 <li> 09:38 kdp.amazon.com</li>
-<li> 09:16 rhul-my.sharepoint.com</li>
+<li> 09:21 rhul-my.sharepoint.com</li>
+<li class='same'> 09:16 rhul-my.sharepoint.com</li>
 <li class='same'> 09:11 rhul-my.sharepoint.com</li>
 <li> 09:01 www.natesilver.net</li>
 </ul>
@@ -53895,11 +54303,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:27 outlook.office.com</li>
 <li> 10:58 mail.google.com</li>
 <li> 10:47 accounts.intuit.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:59 mail.google.com</li>
+<li> 10:26 www.cybok.org</li>
+<li> 09:59 mail.google.com</li>
 <li> 09:47 qbo.intuit.com</li>
 <li class='same'> 09:46 qbo.intuit.com</li>
 </ul>
@@ -55691,11 +56096,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:40 calendar.google.com</li>
 <li> 16:24 www.bricklink.com</li>
 <li> 16:12 www.camerajungle.co.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 15:42 www.whatdotheyknow.com</li>
+<li> 15:54 <a href="https://www.youtube.com/feed/playlists">(664) YouTube</a></li>
+<li> 15:42 www.whatdotheyknow.com</li>
 <li class='same'> 15:41 www.whatdotheyknow.com</li>
 </ul>
 
@@ -57456,6 +57858,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:26 moodle.royalholloway.ac.uk</li>
 <li> 15:25 www.google.com</li>
+<li> 15:24 rhul.rl.talis.com</li>
 <li> 15:24 www.royalholloway.ac.uk</li>
 </ul>
 
@@ -57856,7 +58259,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:46 www.disneyplus.com</li>
+<ul><li> 12:47 <a href="https://www.youtube.com/feed/playlists">(664) YouTube</a></li>
+<li> 12:46 www.disneyplus.com</li>
 </ul>
 
 <br>
