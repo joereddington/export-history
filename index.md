@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3491)</li>
+<ol><li>www.google.com (3493)</li>
 <li>mail.google.com (3416)</li>
-<li>outlook.office.com (3161)</li>
-<li>www.reddit.com (2610)</li>
+<li>outlook.office.com (3170)</li>
+<li>www.reddit.com (2611)</li>
 <li>outlook.office365.com (2424)</li>
-<li>docs.google.com (2322)</li>
+<li>docs.google.com (2323)</li>
 <li>bsky.app (1580)</li>
-<li>duckduckgo.com (1560)</li>
+<li>duckduckgo.com (1564)</li>
 <li>www.facebook.com (1434)</li>
-<li>chatgpt.com (1009)</li>
+<li>chatgpt.com (1014)</li>
 <li>www.amazon.co.uk (875)</li>
-<li>www.linkedin.com (808)</li>
-<li>calendar.google.com (688)</li>
+<li>www.linkedin.com (814)</li>
+<li>calendar.google.com (689)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (618)</li>
+<li>login.microsoftonline.com (619)</li>
 <li>moodle.royalholloway.ac.uk (555)</li>
-<li>rhul-my.sharepoint.com (552)</li>
-<li>tvtropes.org (551)</li>
+<li>rhul-my.sharepoint.com (554)</li>
+<li>tvtropes.org (552)</li>
 <li>gmail.com (532)</li>
 <li>github.com (494)</li>
 <li>web.whatsapp.com (471)</li>
-<li>chat.openai.com (427)</li>
-<li>drive.google.com (357)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (356)</li>
-<li>feedly.com (317)</li>
+<li>chat.openai.com (432)</li>
+<li>drive.google.com (361)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (359)</li>
+<li>feedly.com (318)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (282)</li>
 <li>fritz.box (279)</li>
 <li>whitewaterwriters.com (274)</li>
-<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (247)</li>
+<li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (248)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,10 +108,60 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:08 www.linkedin.com</li>
+<ul><li> 17:14 drive.google.com</li>
+<li> 17:11 www.linkedin.com</li>
+<li> 17:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:06 Local file</li>
+<li> 17:06 www.rand.org</li>
+<li> 17:06 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:06 drive.google.com</li>
+<li class='same'> 17:05 drive.google.com</li>
+<li> 17:05 www.google.com</li>
+<li> 17:05 www.reddit.com</li>
+<li> 17:05 www.googleadservices.com</li>
+<li> 17:05 cyberinnovationhub.wales</li>
+<li> 17:04 www.google.com</li>
+<li> 17:01 <a href="https://www.theguardian.com/commentisfree/2025/aug/02/piano-sport-rugby-legend-simple-sage-advice-perfect-practice">I’m no sportsman, but a rugby legend’s simple, sage advice struck a chord | Richard Coles | The Guardian</a></li>
+<li> 17:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:59 www.linkedin.com</li>
+<li class='same'> 16:58 www.linkedin.com</li>
+<li class='same'> 16:53 www.linkedin.com</li>
+<li class='same'> 16:52 www.linkedin.com</li>
+<li class='same'> 16:50 www.linkedin.com</li>
+<li> 16:25 www.google.co.uk</li>
+<li class='same'> 16:24 www.google.co.uk</li>
+<li> 16:24 duckduckgo.com</li>
+<li> 16:24 calendar.google.com</li>
+<li> 16:21 docs.google.com</li>
+<li> 16:20 drive.google.com</li>
+<li> 16:18 feedly.com</li>
+<li> 16:18 www.wired.com</li>
+<li> 16:17 duckduckgo.com</li>
+<li class='same'> 16:16 duckduckgo.com</li>
+<li> 16:16 webgazer.cs.brown.edu</li>
+<li> 16:16 chatgpt.com</li>
+<li class='same'> 16:15 chatgpt.com</li>
+<li> 16:15 chat.openai.com</li>
+<li> 16:15 duckduckgo.com</li>
+<li> 16:08 www.linkedin.com</li>
 <li class='same'> 16:02 www.linkedin.com</li>
 <li class='same'> 16:01 www.linkedin.com</li>
 <li class='same'> 16:00 www.linkedin.com</li>
+<li> 16:00 outlook.office.com</li>
+<li class='same'> 15:56 outlook.office.com</li>
+<li class='same'> 15:55 outlook.office.com</li>
+<li class='same'> 15:51 outlook.office.com</li>
+<li> 15:49 agresso.royalholloway.ac.uk</li>
+<li> 15:47 <a href="https://www.theguardian.com/books/2025/aug/02/the-end-of-the-road-what-the-salt-path-scandal-means-for-the-nature-memoir">The end of the road? What The Salt Path scandal means for the nature memoir | Publishing | The Guardian</a></li>
+<li> 15:46 <a href="https://www.theguardian.com/lifeandstyle/2025/aug/02/paris-startup-invitin-app-selling-strangers-invites-to-weddings">‘As if we’re real guests’: the startup selling strangers invitations to weddings | Weddings | The Guardian</a></li>
+<li> 15:40 outlook.office.com</li>
+<li> 15:40 rhul-my.sharepoint.com</li>
+<li> 15:39 outlook.office.com</li>
+<li class='same'> 15:38 outlook.office.com</li>
+<li class='same'> 15:37 outlook.office.com</li>
+<li> 15:37 login.microsoftonline.com</li>
+<li> 15:37 outlook.office.com</li>
+<li> 15:37 rhul-my.sharepoint.com</li>
 <li> 15:34 calendar.google.com</li>
 <li class='same'> 15:33 calendar.google.com</li>
 <li> 15:24 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
@@ -145,7 +195,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:50 chatgpt.com</li>
 <li> 13:50 chat.openai.com</li>
 <li> 13:45 www.linkedin.com</li>
-<li class='same'> 13:38 www.linkedin.com</li>
+<li> 13:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:42 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 13:40 tvtropes.org</li>
+<li> 13:38 www.linkedin.com</li>
 <li class='same'> 13:37 www.linkedin.com</li>
 <li class='same'> 13:30 www.linkedin.com</li>
 <li class='same'> 13:29 www.linkedin.com</li>
@@ -595,6 +648,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:27 outlook.office.com</li>
 <li> 12:25 calendar.google.com</li>
 <li> 12:25 chatgpt.com</li>
+<li class='same'> 12:24 chatgpt.com</li>
+<li> 12:24 chat.openai.com</li>
 <li> 12:24 eu-west.azureauth.duosecurity.com</li>
 <li> 12:24 herts365-my.sharepoint.com</li>
 <li class='same'> 12:23 herts365-my.sharepoint.com</li>
@@ -676,6 +731,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:18 outlook.office365.com</li>
 <li> 11:16 drive.google.com</li>
 <li> 11:13 chatgpt.com</li>
+<li class='same'> 11:12 chatgpt.com</li>
+<li> 11:12 chat.openai.com</li>
 <li> 11:06 mail.google.com</li>
 <li class='same'> 11:05 mail.google.com</li>
 <li class='same'> 11:04 mail.google.com</li>
@@ -683,6 +740,7 @@ With number of accesses/minutes in parentheses
 <li> 11:03 outlook.office365.com</li>
 <li> 11:01 duckduckgo.com</li>
 <li> 10:42 chatgpt.com</li>
+<li> 10:42 chat.openai.com</li>
 <li> 10:41 outlook.office365.com</li>
 <li> 10:39 rhul.sharepoint.com</li>
 <li class='same'> 10:38 rhul.sharepoint.com</li>
@@ -776,6 +834,8 @@ With number of accesses/minutes in parentheses
 <li> 07:54 outlook.office365.com</li>
 <li class='same'> 07:53 outlook.office365.com</li>
 <li> 07:52 chatgpt.com</li>
+<li class='same'> 07:51 chatgpt.com</li>
+<li> 07:51 chat.openai.com</li>
 <li> 07:51 outlook.office365.com</li>
 <li class='same'> 07:50 outlook.office365.com</li>
 <li class='same'> 07:49 outlook.office365.com</li>
