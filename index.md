@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1434)</li>
 <li>chatgpt.com (1009)</li>
 <li>www.amazon.co.uk (875)</li>
-<li>www.linkedin.com (799)</li>
+<li>www.linkedin.com (804)</li>
 <li>calendar.google.com (686)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (618)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (471)</li>
 <li>chat.openai.com (427)</li>
 <li>drive.google.com (357)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (354)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (356)</li>
 <li>feedly.com (317)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (282)</li>
@@ -108,9 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:17 calendar.google.com</li>
+<ul><li> 15:24 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 15:22 <a href="https://www.theguardian.com/music/2025/aug/01/tyler-ballgame-music-interview-new-car-help-me-out-sarah">US singer-songwriter Tyler Ballgame: ‘It shocked me out of depression. I had this spiritual awakening’ | Music | The Guardian</a></li>
+<li> 15:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:21 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 15:18 <a href="https://www.theguardian.com/technology/2025/aug/02/airbnb-guest-damage-claim-refund-photos">Airbnb guest says images were altered in false £12,000 damage claim | Airbnb | The Guardian</a></li>
+<li> 15:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:18 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 15:16 www.linkedin.com</li>
+<li class='same'> 15:15 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:19 www.linkedin.com</li>
+<li> 14:17 calendar.google.com</li>
 <li class='same'> 14:16 calendar.google.com</li>
-<li> 14:10 www.linkedin.com</li>
+<li> 14:14 www.linkedin.com</li>
+<li class='same'> 14:12 www.linkedin.com</li>
+<li class='same'> 14:10 www.linkedin.com</li>
 <li> 14:02 tuna.voicemod.net</li>
 <li> 14:02 www.myinstants.com</li>
 <li> 14:02 www.google.com</li>
