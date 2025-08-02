@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3493)</li>
 <li>mail.google.com (3416)</li>
-<li>outlook.office.com (3170)</li>
-<li>www.reddit.com (2611)</li>
+<li>outlook.office.com (3172)</li>
+<li>www.reddit.com (2619)</li>
 <li>outlook.office365.com (2424)</li>
-<li>docs.google.com (2323)</li>
+<li>docs.google.com (2324)</li>
 <li>bsky.app (1580)</li>
 <li>duckduckgo.com (1564)</li>
 <li>www.facebook.com (1434)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (494)</li>
 <li>web.whatsapp.com (471)</li>
 <li>chat.openai.com (432)</li>
-<li>drive.google.com (361)</li>
+<li>drive.google.com (362)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (360)</li>
 <li>feedly.com (318)</li>
 <li>forum.artofmemory.com (289)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 17:42 www.reddit.com</li>
+<li class='same'> 17:41 www.reddit.com</li>
+<li class='same'> 17:40 www.reddit.com</li>
+<li class='same'> 17:39 www.reddit.com</li>
+<li class='same'> 17:37 www.reddit.com</li>
+<li class='same'> 17:36 www.reddit.com</li>
+<li class='same'> 17:35 www.reddit.com</li>
+<li class='same'> 17:34 www.reddit.com</li>
+<li> 17:32 drive.google.com</li>
+<li> 17:31 link.springer.com</li>
+<li> 17:31 scholar.google.co.uk</li>
+<li> 17:31 outlook.office.com</li>
+<li class='same'> 17:30 outlook.office.com</li>
+<li> 17:22 docs.google.com</li>
+<li> 17:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 17:14 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
 <li> 17:14 drive.google.com</li>
 <li> 17:11 www.linkedin.com</li>
