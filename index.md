@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1434)</li>
 <li>chatgpt.com (1009)</li>
 <li>www.amazon.co.uk (875)</li>
-<li>www.linkedin.com (804)</li>
+<li>www.linkedin.com (808)</li>
 <li>calendar.google.com (688)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (618)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:34 calendar.google.com</li>
+<ul><li> 16:08 www.linkedin.com</li>
+<li class='same'> 16:02 www.linkedin.com</li>
+<li class='same'> 16:01 www.linkedin.com</li>
+<li class='same'> 16:00 www.linkedin.com</li>
+<li> 15:34 calendar.google.com</li>
 <li class='same'> 15:33 calendar.google.com</li>
 <li> 15:24 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 15:22 <a href="https://www.theguardian.com/music/2025/aug/01/tyler-ballgame-music-interview-new-car-help-me-out-sarah">US singer-songwriter Tyler Ballgame: ‘It shocked me out of depression. I had this spiritual awakening’ | Music | The Guardian</a></li>
