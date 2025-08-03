@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3492)</li>
 <li>mail.google.com (3416)</li>
 <li>outlook.office.com (3171)</li>
-<li>www.reddit.com (2646)</li>
+<li>www.reddit.com (2647)</li>
 <li>outlook.office365.com (2424)</li>
 <li>docs.google.com (2324)</li>
 <li>bsky.app (1580)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (471)</li>
 <li>chat.openai.com (432)</li>
 <li>drive.google.com (363)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (361)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (362)</li>
 <li>feedly.com (319)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (282)</li>
@@ -108,9 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:31 www.rand.org</li>
+</ul>
+
+<br>
+
 <ul><li> 12:59 www.reddit.com</li>
 <li class='same'> 12:58 www.reddit.com</li>
-<li class='same'> 12:45 www.reddit.com</li>
+<li class='same'> 12:53 www.reddit.com</li>
+<li> 12:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:52 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 12:45 www.reddit.com</li>
 <li class='same'> 12:44 www.reddit.com</li>
 <li class='same'> 12:29 www.reddit.com</li>
 <li class='same'> 12:28 www.reddit.com</li>
