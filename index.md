@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3493)</li>
 <li>mail.google.com (3416)</li>
 <li>outlook.office.com (3171)</li>
-<li>www.reddit.com (2655)</li>
+<li>www.reddit.com (2656)</li>
 <li>outlook.office365.com (2424)</li>
 <li>docs.google.com (2324)</li>
 <li>bsky.app (1580)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1434)</li>
 <li>chatgpt.com (1015)</li>
 <li>www.amazon.co.uk (877)</li>
-<li>www.linkedin.com (832)</li>
+<li>www.linkedin.com (833)</li>
 <li>calendar.google.com (689)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (616)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:04 www.amazon.co.uk</li>
+<ul><li> 21:38 www.reddit.com</li>
+<li> 21:38 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:05 www.ebay.co.uk</li>
+<li class='same'> 20:04 www.ebay.co.uk</li>
+<li> 20:04 www.amazon.co.uk</li>
 <li class='same'> 20:03 www.amazon.co.uk</li>
 <li> 20:01 www.tinkercad.com</li>
 </ul>
