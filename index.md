@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3492)</li>
+<ol><li>www.google.com (3493)</li>
 <li>mail.google.com (3416)</li>
 <li>outlook.office.com (3171)</li>
-<li>www.reddit.com (2647)</li>
+<li>www.reddit.com (2655)</li>
 <li>outlook.office365.com (2424)</li>
 <li>docs.google.com (2324)</li>
 <li>bsky.app (1580)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1434)</li>
 <li>chatgpt.com (1014)</li>
 <li>www.amazon.co.uk (875)</li>
-<li>www.linkedin.com (827)</li>
+<li>www.linkedin.com (832)</li>
 <li>calendar.google.com (689)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (616)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (471)</li>
 <li>chat.openai.com (432)</li>
 <li>drive.google.com (363)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (362)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (363)</li>
 <li>feedly.com (319)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (282)</li>
@@ -105,6 +105,31 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 03/08/25</H3>
+
+<br>
+
+<ul><li> 17:17 www.linkedin.com</li>
+<li class='same'> 17:11 www.linkedin.com</li>
+<li class='same'> 17:09 www.linkedin.com</li>
+<li class='same'> 17:08 www.linkedin.com</li>
+<li class='same'> 17:07 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:02 <a href="https://www.theguardian.com/news/ng-interactive/2025/aug/03/regret-resentment-and-reform-uk-jailed-rotherham-rioters-one-year-on">Regret, resentment and Reform UK: jailed Rotherham rioters one year on | Southport attack | The Guardian</a></li>
+<li> 16:00 <a href="https://www.theguardian.com/us-news/2025/aug/03/sydney-sweeney-jeans-ad-republican-voter-registration">Sydney Sweeney’s Republican voter registration revealed amid jeans ad controversy | US news | The Guardian</a></li>
+<li> 16:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:00 www.reddit.com</li>
+<li> 16:00 www.google.com</li>
+<li> 15:59 www.reddit.com</li>
+<li class='same'> 15:57 www.reddit.com</li>
+<li class='same'> 15:56 www.reddit.com</li>
+<li class='same'> 15:55 www.reddit.com</li>
+<li class='same'> 15:54 www.reddit.com</li>
+<li class='same'> 15:53 www.reddit.com</li>
+<li class='same'> 15:52 www.reddit.com</li>
+</ul>
 
 <br>
 
