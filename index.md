@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3493)</li>
+<ol><li>www.google.com (3492)</li>
 <li>mail.google.com (3416)</li>
-<li>outlook.office.com (3172)</li>
+<li>outlook.office.com (3171)</li>
 <li>www.reddit.com (2646)</li>
 <li>outlook.office365.com (2424)</li>
 <li>docs.google.com (2324)</li>
@@ -79,12 +79,12 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1434)</li>
 <li>chatgpt.com (1014)</li>
 <li>www.amazon.co.uk (875)</li>
-<li>www.linkedin.com (829)</li>
+<li>www.linkedin.com (827)</li>
 <li>calendar.google.com (689)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (619)</li>
+<li>login.microsoftonline.com (616)</li>
 <li>moodle.royalholloway.ac.uk (555)</li>
-<li>rhul-my.sharepoint.com (554)</li>
+<li>rhul-my.sharepoint.com (553)</li>
 <li>tvtropes.org (552)</li>
 <li>gmail.com (532)</li>
 <li>github.com (494)</li>
@@ -19154,7 +19154,6 @@ With number of accesses/minutes in parentheses
 <li> 10:46 mail.google.com</li>
 <li class='same'> 10:45 mail.google.com</li>
 <li> 10:45 gmail.com</li>
-<li> 10:45 rhul-my.sharepoint.com</li>
 <li> 10:45 outlook.office.com</li>
 <li class='same'> 10:44 outlook.office.com</li>
 <li> 10:42 forms.office.com</li>
@@ -19178,8 +19177,7 @@ With number of accesses/minutes in parentheses
 <li> 09:58 chatgpt.com</li>
 <li> 09:58 chat.openai.com</li>
 <li> 09:58 moodle.royalholloway.ac.uk</li>
-<li> 09:58 login.microsoftonline.com</li>
-<li> 09:57 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:57 moodle.royalholloway.ac.uk</li>
 <li> 09:57 login.microsoftonline.com</li>
 <li> 09:57 moodle.royalholloway.ac.uk</li>
 <li> 09:57 outlook.office.com</li>
@@ -19229,14 +19227,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:11 herts365-my.sharepoint.com</li>
-<li class='same'> 06:54 herts365-my.sharepoint.com</li>
-<li class='same'> 06:48 herts365-my.sharepoint.com</li>
-<li> 06:47 www.microsoft365.com</li>
-<li> 06:45 herts365-my.sharepoint.com</li>
-<li> 06:45 www.microsoft365.com</li>
-<li> 06:45 herts365-my.sharepoint.com</li>
-<li> 06:45 www.microsoft365.com</li>
+<ul><li> 06:47 www.microsoft365.com</li>
+<li class='same'> 06:45 www.microsoft365.com</li>
 <li> 06:45 login.microsoftonline.com</li>
 <li> 06:45 adfs.herts.ac.uk</li>
 <li> 06:41 api-b6327e78.duosecurity.com</li>
@@ -19340,9 +19332,6 @@ With number of accesses/minutes in parentheses
 <li> 14:32 northeastern.wd1.myworkdayjobs.com</li>
 <li> 14:31 www.hesa.ac.uk</li>
 <li class='same'> 14:30 www.hesa.ac.uk</li>
-<li> 14:28 www.linkedin.com</li>
-<li> 14:28 uk.linkedin.com</li>
-<li> 14:28 www.linkedin.com</li>
 <li> 14:28 uk.linkedin.com</li>
 <li> 14:28 www.linkedin.com</li>
 <li> 14:28 duckduckgo.com</li>
@@ -19376,8 +19365,6 @@ With number of accesses/minutes in parentheses
 <li> 14:06 outlook.office.com</li>
 <li class='same'> 14:05 outlook.office.com</li>
 <li> 14:05 login.microsoftonline.com</li>
-<li> 14:05 outlook.office.com</li>
-<li> 14:05 login.microsoftonline.com</li>
 <li> 14:05 outlook.office365.com</li>
 <li> 13:55 www.theguardian.com</li>
 </ul>
@@ -19393,17 +19380,13 @@ With number of accesses/minutes in parentheses
 <li> 12:36 duckduckgo.com</li>
 <li> 12:30 www.google.com</li>
 <li> 12:30 accounts.google.com</li>
-<li class='same'> 12:29 accounts.google.com</li>
-<li> 12:29 www.google.com</li>
-<li> 12:29 accounts.google.com</li>
 <li> 12:29 www.google.com</li>
 <li> 12:29 accounts.google.com</li>
 <li> 12:29 www.google.com</li>
 <li> 12:29 accounts.google.com</li>
 <li class='same'> 12:28 accounts.google.com</li>
 <li> 12:28 accounts.google.co.uk</li>
-<li> 12:28 accounts.google.com</li>
-<li class='same'> 12:27 accounts.google.com</li>
+<li> 12:27 accounts.google.com</li>
 </ul>
 
 <br>
@@ -19492,7 +19475,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:36 outlook.office.com</li>
 <li> 18:36 outlook.office365.com</li>
 <li> 18:36 outlook.office.com</li>
-<li> 18:35 login.microsoftonline.com</li>
 <li> 18:35 forms.office.com</li>
 <li> 18:35 login.microsoftonline.com</li>
 <li> 18:35 forms.office.com</li>
