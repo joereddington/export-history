@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1434)</li>
 <li>chatgpt.com (1014)</li>
 <li>www.amazon.co.uk (875)</li>
-<li>www.linkedin.com (817)</li>
+<li>www.linkedin.com (823)</li>
 <li>calendar.google.com (689)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (619)</li>
@@ -108,6 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:18 www.linkedin.com</li>
+<li class='same'> 10:17 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:52 www.linkedin.com</li>
+<li class='same'> 08:51 www.linkedin.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:56 <a href="https://www.youtube.com/">(678) YouTube</a></li>
 <li> 07:54 www.reddit.com</li>
 <li class='same'> 07:53 www.reddit.com</li>
@@ -132,7 +144,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 21:58 www.linkedin.com</li>
+<ul><li class='same'> 22:00 www.linkedin.com</li>
+<li class='same'> 21:59 www.linkedin.com</li>
+<li class='same'> 21:58 www.linkedin.com</li>
 </ul>
 
 <br>
