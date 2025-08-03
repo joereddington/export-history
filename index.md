@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3493)</li>
 <li>mail.google.com (3416)</li>
 <li>outlook.office.com (3172)</li>
-<li>www.reddit.com (2626)</li>
+<li>www.reddit.com (2630)</li>
 <li>outlook.office365.com (2424)</li>
 <li>docs.google.com (2324)</li>
 <li>bsky.app (1580)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1434)</li>
 <li>chatgpt.com (1014)</li>
 <li>www.amazon.co.uk (875)</li>
-<li>www.linkedin.com (823)</li>
+<li>www.linkedin.com (829)</li>
 <li>calendar.google.com (689)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (619)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:18 www.linkedin.com</li>
+<ul><li> 12:12 www.reddit.com</li>
+<li class='same'> 11:53 www.reddit.com</li>
+<li class='same'> 11:47 www.reddit.com</li>
+<li class='same'> 11:46 www.reddit.com</li>
+<li> 11:46 www.linkedin.com</li>
+<li class='same'> 11:45 www.linkedin.com</li>
+<li class='same'> 11:44 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:06 www.linkedin.com</li>
+<li class='same'> 11:05 www.linkedin.com</li>
+<li class='same'> 11:04 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:18 www.linkedin.com</li>
 <li class='same'> 10:17 www.linkedin.com</li>
 </ul>
 
