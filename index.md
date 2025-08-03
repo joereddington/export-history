@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3493)</li>
 <li>mail.google.com (3416)</li>
 <li>outlook.office.com (3172)</li>
-<li>www.reddit.com (2630)</li>
+<li>www.reddit.com (2646)</li>
 <li>outlook.office365.com (2424)</li>
 <li>docs.google.com (2324)</li>
 <li>bsky.app (1580)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:12 www.reddit.com</li>
+<ul><li> 12:59 www.reddit.com</li>
+<li class='same'> 12:58 www.reddit.com</li>
+<li class='same'> 12:45 www.reddit.com</li>
+<li class='same'> 12:44 www.reddit.com</li>
+<li class='same'> 12:29 www.reddit.com</li>
+<li class='same'> 12:28 www.reddit.com</li>
+<li class='same'> 12:27 www.reddit.com</li>
+<li class='same'> 12:25 www.reddit.com</li>
+<li class='same'> 12:24 www.reddit.com</li>
+<li class='same'> 12:23 www.reddit.com</li>
+<li class='same'> 12:22 www.reddit.com</li>
+<li class='same'> 12:20 www.reddit.com</li>
+<li class='same'> 12:18 www.reddit.com</li>
+<li class='same'> 12:17 www.reddit.com</li>
+<li class='same'> 12:16 www.reddit.com</li>
+<li class='same'> 12:13 www.reddit.com</li>
+<li class='same'> 12:12 www.reddit.com</li>
 <li class='same'> 11:53 www.reddit.com</li>
 <li class='same'> 11:47 www.reddit.com</li>
 <li class='same'> 11:46 www.reddit.com</li>
