@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:45 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/04/from-emily-in-friends-to-che-diaz-the-tv-characters-so-bad-that-they-ruined-shows"></a></li>
+<ul><li> 15:48 <a href="https://www.theguardian.com/world/2025/aug/04/rescued-british-hiker-billed-14225-for-ignoring-rockslide-signs-in-dolomites">Rescued British hiker billed €14,225 for ignoring rockslide signs in Dolomites | Italy | The Guardian</a></li>
+<li> 15:45 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/04/from-emily-in-friends-to-che-diaz-the-tv-characters-so-bad-that-they-ruined-shows">From Emily in Friends to Che Diaz: the TV characters so bad that they ruined shows | Television | The Guardian</a></li>
 <li> 15:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 15:44 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
 <li> 15:41 feedly.com</li>
