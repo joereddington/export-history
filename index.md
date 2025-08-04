@@ -90,9 +90,9 @@ With number of accesses/minutes in parentheses
 <li>github.com (495)</li>
 <li>web.whatsapp.com (474)</li>
 <li>chat.openai.com (436)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (366)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (367)</li>
 <li>drive.google.com (363)</li>
-<li>feedly.com (320)</li>
+<li>feedly.com (321)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>fritz.box (285)</li>
 <li>rhul.sharepoint.com (283)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:14 www.reddit.com</li>
+<ul><li> 15:45 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/04/from-emily-in-friends-to-che-diaz-the-tv-characters-so-bad-that-they-ruined-shows"></a></li>
+<li> 15:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:44 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 15:41 feedly.com</li>
+<li> 15:14 www.reddit.com</li>
 <li class='same'> 15:13 www.reddit.com</li>
 <li class='same'> 15:11 www.reddit.com</li>
 <li class='same'> 15:10 www.reddit.com</li>
