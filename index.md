@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3495)</li>
-<li>mail.google.com (3418)</li>
+<li>mail.google.com (3421)</li>
 <li>outlook.office.com (3171)</li>
 <li>www.reddit.com (2676)</li>
 <li>outlook.office365.com (2424)</li>
@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (616)</li>
 <li>tvtropes.org (567)</li>
 <li>moodle.royalholloway.ac.uk (555)</li>
-<li>rhul-my.sharepoint.com (553)</li>
-<li>gmail.com (533)</li>
+<li>rhul-my.sharepoint.com (554)</li>
+<li>gmail.com (534)</li>
 <li>github.com (494)</li>
 <li>web.whatsapp.com (472)</li>
 <li>chat.openai.com (434)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:30 web.whatsapp.com</li>
+<ul><li> 09:05 mail.google.com</li>
+<li class='same'> 09:02 mail.google.com</li>
+<li> 09:02 gmail.com</li>
+<li> 08:57 apply.unity.co.uk</li>
+<li class='same'> 08:47 apply.unity.co.uk</li>
+<li> 08:37 mail.google.com</li>
+<li> 08:37 lu.ma</li>
+<li> 08:36 rhul-my.sharepoint.com</li>
+<li> 08:30 web.whatsapp.com</li>
 <li> 08:28 apply.unity.co.uk</li>
 <li> 08:28 mail.google.com</li>
 <li> 08:26 apply.unity.co.uk</li>
