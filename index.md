@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3492)</li>
+<ol><li>www.google.com (3497)</li>
 <li>mail.google.com (3424)</li>
 <li>outlook.office.com (3171)</li>
-<li>www.reddit.com (2676)</li>
+<li>www.reddit.com (2681)</li>
 <li>outlook.office365.com (2423)</li>
 <li>docs.google.com (2324)</li>
 <li>bsky.app (1580)</li>
@@ -79,15 +79,15 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1434)</li>
 <li>chatgpt.com (1018)</li>
 <li>www.amazon.co.uk (876)</li>
-<li>www.linkedin.com (843)</li>
+<li>www.linkedin.com (852)</li>
 <li>calendar.google.com (690)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (614)</li>
-<li>tvtropes.org (567)</li>
+<li>tvtropes.org (568)</li>
 <li>moodle.royalholloway.ac.uk (554)</li>
 <li>rhul-my.sharepoint.com (554)</li>
 <li>gmail.com (534)</li>
-<li>github.com (494)</li>
+<li>github.com (495)</li>
 <li>web.whatsapp.com (474)</li>
 <li>chat.openai.com (436)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (366)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:58 www.linkedin.com</li>
+<ul><li> 14:06 www.linkedin.com</li>
+<li class='same'> 13:58 www.linkedin.com</li>
 </ul>
 
 <br>
@@ -117,11 +118,22 @@ With number of accesses/minutes in parentheses
 <li> 13:02 www.linkedin.com</li>
 <li> 13:02 susy.mdpi.com</li>
 <li> 12:54 rhul.sharepoint.com</li>
+<li> 12:51 www.linkedin.com</li>
+<li class='same'> 12:50 www.linkedin.com</li>
+<li class='same'> 12:49 www.linkedin.com</li>
+<li class='same'> 12:48 www.linkedin.com</li>
+<li class='same'> 12:47 www.linkedin.com</li>
+<li class='same'> 12:46 www.linkedin.com</li>
+<li> 12:46 <a href="https://www.theguardian.com/football/2025/jul/27/it-was-amazing-so-inspiring-ecstatic-fans-sing-praises-of-lionesses-after-shootout-victory">‘It was amazing, so inspiring’ – ecstatic fans sing praises of Lionesses after shootout victory | England women's football team | The Guardian</a></li>
 </ul>
 
 <br>
 
-<ul><li> 12:01 chatgpt.com</li>
+<ul><li> 12:08 github.com</li>
+<li> 12:07 www.linkedin.com</li>
+<li class='same'> 12:06 www.linkedin.com</li>
+<li> 12:06 www.google.com</li>
+<li> 12:01 chatgpt.com</li>
 <li> 12:01 chat.openai.com</li>
 </ul>
 
@@ -136,13 +148,16 @@ With number of accesses/minutes in parentheses
 <li> 11:02 www.google.com</li>
 <li> 11:00 chatgpt.com</li>
 <li> 11:00 chat.openai.com</li>
+<li> 10:34 www.google.com</li>
+<li> 10:34 www.reddit.com</li>
+<li class='same'> 10:33 www.reddit.com</li>
+<li> 10:33 www.google.com</li>
 <li> 10:31 mail.google.com</li>
 <li class='same'> 10:27 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:51 calendar.google.com</li>
+<li> 10:11 www.reddit.com</li>
+<li> 10:11 www.google.com</li>
+<li> 10:11 www.reddit.com</li>
+<li> 09:51 calendar.google.com</li>
 <li> 09:51 mail.google.com</li>
 <li> 09:47 www.linkedin.com</li>
 <li class='same'> 09:46 www.linkedin.com</li>
@@ -179,7 +194,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 23:26 tvtropes.org</li>
+<ul><li> 23:42 www.reddit.com</li>
+<li> 23:42 www.google.com</li>
+<li> 23:39 tvtropes.org</li>
+<li class='same'> 23:26 tvtropes.org</li>
 <li class='same'> 23:25 tvtropes.org</li>
 <li class='same'> 23:23 tvtropes.org</li>
 <li class='same'> 23:22 tvtropes.org</li>
