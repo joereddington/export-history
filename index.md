@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3495)</li>
+<ol><li>www.google.com (3496)</li>
 <li>mail.google.com (3422)</li>
 <li>outlook.office.com (3171)</li>
 <li>www.reddit.com (2676)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1580)</li>
 <li>duckduckgo.com (1565)</li>
 <li>www.facebook.com (1434)</li>
-<li>chatgpt.com (1016)</li>
+<li>chatgpt.com (1017)</li>
 <li>www.amazon.co.uk (877)</li>
 <li>www.linkedin.com (841)</li>
 <li>calendar.google.com (690)</li>
@@ -88,8 +88,8 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (554)</li>
 <li>gmail.com (534)</li>
 <li>github.com (494)</li>
-<li>web.whatsapp.com (472)</li>
-<li>chat.openai.com (434)</li>
+<li>web.whatsapp.com (473)</li>
+<li>chat.openai.com (435)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (366)</li>
 <li>drive.google.com (363)</li>
 <li>feedly.com (319)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 04/08/25</H3>
+
+<br>
+
+<ul><li> 11:03 web.whatsapp.com</li>
+<li> 11:03 www.activeluton.co.uk</li>
+<li> 11:02 www.google.com</li>
+<li> 11:00 chatgpt.com</li>
+<li> 11:00 chat.openai.com</li>
+</ul>
 
 <br>
 
