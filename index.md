@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3496)</li>
-<li>mail.google.com (3422)</li>
+<li>mail.google.com (3424)</li>
 <li>outlook.office.com (3171)</li>
 <li>www.reddit.com (2676)</li>
 <li>outlook.office365.com (2424)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1580)</li>
 <li>duckduckgo.com (1565)</li>
 <li>www.facebook.com (1434)</li>
-<li>chatgpt.com (1017)</li>
+<li>chatgpt.com (1018)</li>
 <li>www.amazon.co.uk (877)</li>
 <li>www.linkedin.com (841)</li>
 <li>calendar.google.com (690)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (534)</li>
 <li>github.com (494)</li>
 <li>web.whatsapp.com (473)</li>
-<li>chat.openai.com (435)</li>
+<li>chat.openai.com (436)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (366)</li>
 <li>drive.google.com (363)</li>
 <li>feedly.com (319)</li>
@@ -108,6 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:01 chatgpt.com</li>
+<li> 12:01 chat.openai.com</li>
+</ul>
+
+<br>
+
 <ul><li> 11:19 www.tinkercad.com</li>
 <li> 11:19 accounts.autodesk.com</li>
 <li> 11:19 www.tinkercad.com</li>
@@ -117,6 +123,8 @@ With number of accesses/minutes in parentheses
 <li> 11:02 www.google.com</li>
 <li> 11:00 chatgpt.com</li>
 <li> 11:00 chat.openai.com</li>
+<li> 10:31 mail.google.com</li>
+<li class='same'> 10:27 mail.google.com</li>
 </ul>
 
 <br>
