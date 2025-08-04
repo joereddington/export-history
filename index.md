@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3495)</li>
-<li>mail.google.com (3416)</li>
+<li>mail.google.com (3418)</li>
 <li>outlook.office.com (3171)</li>
 <li>www.reddit.com (2676)</li>
 <li>outlook.office365.com (2424)</li>
@@ -79,16 +79,16 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1434)</li>
 <li>chatgpt.com (1016)</li>
 <li>www.amazon.co.uk (877)</li>
-<li>www.linkedin.com (837)</li>
+<li>www.linkedin.com (838)</li>
 <li>calendar.google.com (689)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (616)</li>
 <li>tvtropes.org (567)</li>
 <li>moodle.royalholloway.ac.uk (555)</li>
 <li>rhul-my.sharepoint.com (553)</li>
-<li>gmail.com (532)</li>
+<li>gmail.com (533)</li>
 <li>github.com (494)</li>
-<li>web.whatsapp.com (471)</li>
+<li>web.whatsapp.com (472)</li>
 <li>chat.openai.com (434)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (366)</li>
 <li>drive.google.com (363)</li>
@@ -104,7 +104,25 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 04/08/25</H3>
+
+<br>
+
+<ul><li> 08:30 web.whatsapp.com</li>
+<li> 08:28 apply.unity.co.uk</li>
+<li> 08:28 mail.google.com</li>
+<li> 08:26 apply.unity.co.uk</li>
+<li> 08:26 mail.google.com</li>
+<li> 08:26 gmail.com</li>
+<li> 08:25 apply.unity.co.uk</li>
+<li> 08:24 www.linkedin.com</li>
+</ul>
+
 <H3>Sunday, 03/08/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
