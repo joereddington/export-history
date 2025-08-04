@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3496)</li>
+<ol><li>www.google.com (3492)</li>
 <li>mail.google.com (3424)</li>
 <li>outlook.office.com (3171)</li>
 <li>www.reddit.com (2676)</li>
-<li>outlook.office365.com (2424)</li>
+<li>outlook.office365.com (2423)</li>
 <li>docs.google.com (2324)</li>
 <li>bsky.app (1580)</li>
 <li>duckduckgo.com (1565)</li>
 <li>www.facebook.com (1434)</li>
 <li>chatgpt.com (1018)</li>
-<li>www.amazon.co.uk (877)</li>
-<li>www.linkedin.com (841)</li>
+<li>www.amazon.co.uk (876)</li>
+<li>www.linkedin.com (843)</li>
 <li>calendar.google.com (690)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (616)</li>
+<li>login.microsoftonline.com (614)</li>
 <li>tvtropes.org (567)</li>
-<li>moodle.royalholloway.ac.uk (555)</li>
+<li>moodle.royalholloway.ac.uk (554)</li>
 <li>rhul-my.sharepoint.com (554)</li>
 <li>gmail.com (534)</li>
 <li>github.com (494)</li>
-<li>web.whatsapp.com (473)</li>
+<li>web.whatsapp.com (474)</li>
 <li>chat.openai.com (436)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (366)</li>
 <li>drive.google.com (363)</li>
 <li>feedly.com (319)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>fritz.box (285)</li>
-<li>rhul.sharepoint.com (282)</li>
+<li>rhul.sharepoint.com (283)</li>
 <li>whitewaterwriters.com (274)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (248)</li>
 
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 04/08/25</H3>
+
+<br>
+
+<ul><li> 13:58 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:07 web.whatsapp.com</li>
+<li> 13:02 www.linkedin.com</li>
+<li> 13:02 susy.mdpi.com</li>
+<li> 12:54 rhul.sharepoint.com</li>
+</ul>
 
 <br>
 
@@ -18780,7 +18793,6 @@ With number of accesses/minutes in parentheses
 <li> 18:32 duckduckgo.com</li>
 <li class='same'> 18:31 duckduckgo.com</li>
 <li> 18:31 www.tesco.com</li>
-<li> 18:31 www.google.com</li>
 <li> 18:29 docs.google.com</li>
 <li> 18:28 www.ocado.com</li>
 <li> 18:28 duckduckgo.com</li>
@@ -18810,9 +18822,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:58 www.reddit.com</li>
 <li> 07:55 www.tesco.com</li>
-<li> 07:55 www.google.com</li>
-<li> 07:55 www.tesco.com</li>
-<li> 07:55 www.google.com</li>
 <li> 07:54 docs.google.com</li>
 <li> 07:52 www.actiononsalt.org.uk</li>
 <li> 07:52 duckduckgo.com</li>
@@ -19000,8 +19009,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:03 moodle.royalholloway.ac.uk</li>
 <li> 14:03 login.microsoftonline.com</li>
 <li> 14:03 moodle.royalholloway.ac.uk</li>
-<li> 14:03 login.microsoftonline.com</li>
-<li> 14:03 moodle.royalholloway.ac.uk</li>
 <li> 14:01 rhul-my.sharepoint.com</li>
 <li class='same'> 14:00 rhul-my.sharepoint.com</li>
 <li> 14:00 projects.cs.rhul.ac.uk</li>
@@ -19055,8 +19062,6 @@ With number of accesses/minutes in parentheses
 <li> 10:56 web.whatsapp.com</li>
 <li> 10:56 calendar.google.com</li>
 <li class='same'> 10:55 calendar.google.com</li>
-<li> 10:52 herts365-my.sharepoint.com</li>
-<li class='same'> 10:50 herts365-my.sharepoint.com</li>
 <li> 10:50 www.microsoft365.com</li>
 <li> 10:50 login.microsoftonline.com</li>
 <li> 10:50 adfs.herts.ac.uk</li>
@@ -19066,8 +19071,6 @@ With number of accesses/minutes in parentheses
 <li> 10:50 adfs.herts.ac.uk</li>
 <li> 10:47 rhul.sharepoint.com</li>
 <li class='same'> 10:46 rhul.sharepoint.com</li>
-<li> 10:46 outlook.office365.com</li>
-<li> 10:46 login.microsoftonline.com</li>
 <li> 10:46 outlook.office365.com</li>
 <li> 10:30 www.theguardian.com</li>
 <li> 10:30 jobs.theguardian.com</li>
@@ -19147,7 +19150,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:06 docs.google.com</li>
 <li> 06:02 www.reddit.com</li>
 <li class='same'> 05:58 www.reddit.com</li>
-<li> 05:56 herts365-my.sharepoint.com</li>
 <li> 05:56 m365.cloud.microsoft</li>
 <li> 05:56 login.microsoftonline.com</li>
 <li> 05:56 herts365-my.sharepoint.com</li>
@@ -19177,8 +19179,6 @@ With number of accesses/minutes in parentheses
 <li> 21:13 duckduckgo.com</li>
 <li> 21:13 www.amazon.co.uk</li>
 <li class='same'> 21:12 www.amazon.co.uk</li>
-<li> 21:12 www.google.com</li>
-<li> 21:12 www.amazon.co.uk</li>
 <li> 21:11 docs.google.com</li>
 <li> 20:59 www.disneyplus.com</li>
 <li class='same'> 20:58 www.disneyplus.com</li>
@@ -19246,8 +19246,7 @@ With number of accesses/minutes in parentheses
 <li> 12:33 duckduckgo.com</li>
 <li> 12:32 herts365-my.sharepoint.com</li>
 <li> 12:32 outlook.office.com</li>
-<li> 12:31 herts365-my.sharepoint.com</li>
-<li> 12:31 outlook.office.com</li>
+<li class='same'> 12:31 outlook.office.com</li>
 <li> 12:31 login.microsoftonline.com</li>
 <li> 12:31 www.microsoft365.com</li>
 <li> 12:31 login.microsoftonline.com</li>
@@ -19312,7 +19311,6 @@ With number of accesses/minutes in parentheses
 <li> 11:33 www.projectreal.co.uk</li>
 <li> 11:23 mail.google.com</li>
 <li> 11:23 script.google.com</li>
-<li> 11:23 accounts.google.com</li>
 <li> 11:21 docs.google.com</li>
 <li> 11:21 drive.google.com</li>
 <li> 11:21 docs.google.com</li>
