@@ -71,15 +71,15 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3497)</li>
 <li>mail.google.com (3424)</li>
 <li>outlook.office.com (3171)</li>
-<li>www.reddit.com (2681)</li>
+<li>www.reddit.com (2683)</li>
 <li>outlook.office365.com (2423)</li>
 <li>docs.google.com (2324)</li>
 <li>bsky.app (1580)</li>
-<li>duckduckgo.com (1565)</li>
-<li>www.facebook.com (1434)</li>
+<li>duckduckgo.com (1568)</li>
+<li>www.facebook.com (1435)</li>
 <li>chatgpt.com (1018)</li>
 <li>www.amazon.co.uk (876)</li>
-<li>www.linkedin.com (852)</li>
+<li>www.linkedin.com (853)</li>
 <li>calendar.google.com (690)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (614)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (436)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (366)</li>
 <li>drive.google.com (363)</li>
-<li>feedly.com (319)</li>
+<li>feedly.com (320)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>fritz.box (285)</li>
 <li>rhul.sharepoint.com (283)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:06 www.linkedin.com</li>
+<ul><li> 14:22 onedaytests.com</li>
+<li> 14:21 uk.trustpilot.com</li>
+<li> 14:21 www.reddit.com</li>
+<li class='same'> 14:20 www.reddit.com</li>
+<li> 14:20 duckduckgo.com</li>
+<li> 14:20 onedaytests.com</li>
+<li class='same'> 14:19 onedaytests.com</li>
+<li> 14:19 duckduckgo.com</li>
+<li> 14:19 thornhillclinic.co.uk</li>
+<li> 14:18 duckduckgo.com</li>
+<li> 14:06 www.linkedin.com</li>
+<li> 14:00 feedly.com</li>
+<li> 13:59 www.facebook.com</li>
+<li> 13:59 www.linkedin.com</li>
 <li class='same'> 13:58 www.linkedin.com</li>
 </ul>
 
