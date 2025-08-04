@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3493)</li>
+<ol><li>www.google.com (3495)</li>
 <li>mail.google.com (3416)</li>
 <li>outlook.office.com (3171)</li>
-<li>www.reddit.com (2656)</li>
+<li>www.reddit.com (2676)</li>
 <li>outlook.office365.com (2424)</li>
 <li>docs.google.com (2324)</li>
 <li>bsky.app (1580)</li>
 <li>duckduckgo.com (1564)</li>
 <li>www.facebook.com (1434)</li>
-<li>chatgpt.com (1015)</li>
+<li>chatgpt.com (1016)</li>
 <li>www.amazon.co.uk (877)</li>
-<li>www.linkedin.com (833)</li>
+<li>www.linkedin.com (837)</li>
 <li>calendar.google.com (689)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (616)</li>
+<li>tvtropes.org (567)</li>
 <li>moodle.royalholloway.ac.uk (555)</li>
 <li>rhul-my.sharepoint.com (553)</li>
-<li>tvtropes.org (552)</li>
 <li>gmail.com (532)</li>
 <li>github.com (494)</li>
 <li>web.whatsapp.com (471)</li>
-<li>chat.openai.com (433)</li>
+<li>chat.openai.com (434)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (366)</li>
 <li>drive.google.com (363)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (363)</li>
 <li>feedly.com (319)</li>
 <li>forum.artofmemory.com (289)</li>
+<li>fritz.box (285)</li>
 <li>rhul.sharepoint.com (282)</li>
-<li>fritz.box (279)</li>
 <li>whitewaterwriters.com (274)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (248)</li>
 
@@ -108,13 +108,75 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:38 www.reddit.com</li>
+<ul><li> 23:26 tvtropes.org</li>
+<li class='same'> 23:25 tvtropes.org</li>
+<li class='same'> 23:23 tvtropes.org</li>
+<li class='same'> 23:22 tvtropes.org</li>
+<li class='same'> 23:21 tvtropes.org</li>
+<li class='same'> 23:20 tvtropes.org</li>
+<li class='same'> 23:19 tvtropes.org</li>
+<li class='same'> 23:17 tvtropes.org</li>
+<li class='same'> 23:16 tvtropes.org</li>
+<li class='same'> 23:14 tvtropes.org</li>
+<li class='same'> 23:11 tvtropes.org</li>
+<li class='same'> 23:10 tvtropes.org</li>
+<li class='same'> 23:09 tvtropes.org</li>
+<li> 23:08 www.google.com</li>
+<li> 23:06 www.reddit.com</li>
+<li class='same'> 23:05 www.reddit.com</li>
+<li class='same'> 23:04 www.reddit.com</li>
+<li class='same'> 23:01 www.reddit.com</li>
+<li class='same'> 23:00 www.reddit.com</li>
+<li> 23:00 www.rightmove.co.uk</li>
+<li> 22:58 www.reddit.com</li>
+<li class='same'> 22:57 www.reddit.com</li>
+<li class='same'> 22:56 www.reddit.com</li>
+<li class='same'> 22:54 www.reddit.com</li>
+<li> 22:46 fast.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 22:15 fast.com</li>
+<li> 22:15 www.atom.com</li>
+<li> 22:14 www.reddit.com</li>
+<li> 21:59 fritz.box</li>
+<li class='same'> 21:58 fritz.box</li>
+<li class='same'> 21:57 fritz.box</li>
+<li class='same'> 21:55 fritz.box</li>
+<li class='same'> 21:54 fritz.box</li>
+<li class='same'> 21:53 fritz.box</li>
+<li> 21:53 chatgpt.com</li>
+<li> 21:53 chat.openai.com</li>
+<li> 21:53 www.mozilla.org</li>
+<li> 21:52 www.linkedin.com</li>
+<li class='same'> 21:51 www.linkedin.com</li>
+<li> 21:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:51 www.linkedin.com</li>
+<li> 21:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:51 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 21:50 <a href="https://www.theguardian.com/uk-news/2025/aug/03/prince-harry-denies-giving-prince-andrew-bloody-nose-at-family-gathering">Prince Harry denies giving Prince Andrew bloody nose at family gathering | Monarchy | The Guardian</a></li>
+<li> 21:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:49 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 21:49 www.reddit.com</li>
+<li class='same'> 21:48 www.reddit.com</li>
+<li class='same'> 21:47 www.reddit.com</li>
+<li class='same'> 21:46 www.reddit.com</li>
+<li class='same'> 21:45 www.reddit.com</li>
+<li class='same'> 21:44 www.reddit.com</li>
+<li class='same'> 21:43 www.reddit.com</li>
+<li class='same'> 21:42 www.reddit.com</li>
+<li class='same'> 21:41 www.reddit.com</li>
+<li class='same'> 21:38 www.reddit.com</li>
 <li> 21:38 www.linkedin.com</li>
 </ul>
 
 <br>
 
-<ul><li> 20:05 www.ebay.co.uk</li>
+<ul><li> 20:18 www.reddit.com</li>
+<li> 20:17 www.google.com</li>
+<li> 20:17 m.facebook.com</li>
+<li> 20:05 www.ebay.co.uk</li>
 <li class='same'> 20:04 www.ebay.co.uk</li>
 <li> 20:04 www.amazon.co.uk</li>
 <li class='same'> 20:03 www.amazon.co.uk</li>
@@ -129,7 +191,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:17 www.linkedin.com</li>
+<ul><li> 17:18 m.facebook.com</li>
+<li> 17:18 www.linkedin.com</li>
+<li class='same'> 17:17 www.linkedin.com</li>
 <li class='same'> 17:11 www.linkedin.com</li>
 <li class='same'> 17:09 www.linkedin.com</li>
 <li class='same'> 17:08 www.linkedin.com</li>
@@ -69293,7 +69357,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 16:22 tvtropes.org</li>
+<ul><li class='same'> 16:24 tvtropes.org</li>
+<li class='same'> 16:23 tvtropes.org</li>
+<li class='same'> 16:22 tvtropes.org</li>
 <li> 15:55 www.linkedin.com</li>
 <li> 15:47 forum.artofmemory.com</li>
 </ul>
