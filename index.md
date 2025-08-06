@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3507)</li>
+<ol><li>www.google.com (3504)</li>
 <li>mail.google.com (3436)</li>
 <li>outlook.office.com (3191)</li>
 <li>www.reddit.com (2753)</li>
@@ -82,9 +82,9 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (871)</li>
 <li>calendar.google.com (693)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (625)</li>
+<li>login.microsoftonline.com (623)</li>
 <li>tvtropes.org (568)</li>
-<li>moodle.royalholloway.ac.uk (559)</li>
+<li>moodle.royalholloway.ac.uk (558)</li>
 <li>rhul-my.sharepoint.com (554)</li>
 <li>gmail.com (535)</li>
 <li>github.com (495)</li>
@@ -18542,15 +18542,12 @@ With number of accesses/minutes in parentheses
 <li> 07:02 <a href="https://www.theguardian.com/artanddesign/2025/may/06/robbie-williams-radical-honesty-moco-london-art-exhibition-take-that">Robbie Williams: Radical Honesty review – ‘Tone deaf, self-important, incredibly bad art’ | Art | The Guardian</a></li>
 <li> 07:00 <a href="https://www.theguardian.com/world/2025/may/07/ukraine-war-briefing-hegseths-sudden-arms-halt-cost-us-up-to-22m-report">Ukraine war briefing: Hegseth’s sudden arms halt ‘cost US up to $2.2m’ – report | Ukraine | The Guardian</a></li>
 <li> 07:00 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
-<li> 07:00 www.google.co.uk</li>
-<li class='same'> 06:59 www.google.co.uk</li>
-<li class='same'> 06:55 www.google.co.uk</li>
+<li> 06:55 www.google.co.uk</li>
 <li class='same'> 06:54 www.google.co.uk</li>
 <li> 06:54 www.herts.ac.uk</li>
 <li> 06:54 duckduckgo.com</li>
 <li class='same'> 06:53 duckduckgo.com</li>
 <li> 06:52 outlook.office.com</li>
-<li> 06:52 herts365-my.sharepoint.com</li>
 <li> 06:52 www.microsoft365.com</li>
 <li> 06:52 login.microsoftonline.com</li>
 <li> 06:52 adfs.herts.ac.uk</li>
@@ -18640,10 +18637,7 @@ With number of accesses/minutes in parentheses
 <li> 19:57 <a href="https://www.youtube.com/">(682) YouTube</a></li>
 <li> 19:54 www.matterhackers.com</li>
 <li> 19:54 duckduckgo.com</li>
-<li> 19:49 www.google.com</li>
-<li class='same'> 19:48 www.google.com</li>
-<li class='same'> 19:42 www.google.com</li>
-<li class='same'> 19:41 www.google.com</li>
+<li> 19:41 www.google.com</li>
 <li> 19:40 outlook.office365.com</li>
 <li> 19:37 web.whatsapp.com</li>
 <li> 19:32 chatgpt.com</li>
@@ -18672,8 +18666,7 @@ With number of accesses/minutes in parentheses
 <li> 18:08 duckduckgo.com</li>
 <li> 18:08 outlook.office365.com</li>
 <li class='same'> 18:07 outlook.office365.com</li>
-<li> 18:07 accounts.google.com</li>
-<li class='same'> 18:06 accounts.google.com</li>
+<li> 18:06 accounts.google.com</li>
 </ul>
 
 <br>
@@ -18697,15 +18690,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:35 outlook.office365.com</li>
-<li> 13:35 appleid.apple.com</li>
 <li> 13:33 www.vinted.co.uk</li>
 <li> 13:33 mail.google.com</li>
 <li> 13:33 doodle.com</li>
 <li> 13:32 outlook.office365.com</li>
 <li> 13:31 gov-pd.co.uk</li>
 <li> 13:31 outlook.office365.com</li>
-<li> 13:29 moodle.royalholloway.ac.uk</li>
-<li> 13:29 login.microsoftonline.com</li>
 <li> 13:29 moodle.royalholloway.ac.uk</li>
 <li> 13:29 login.microsoftonline.com</li>
 <li> 13:29 outlook.office365.com</li>
@@ -18733,14 +18723,12 @@ With number of accesses/minutes in parentheses
 <li> 12:52 outlook.office365.com</li>
 <li> 12:51 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:51 outlook.office365.com</li>
-<li> 12:51 login.microsoftonline.com</li>
 <li> 12:50 www.amazon.co.uk</li>
 <li> 12:50 mail.google.com</li>
 <li> 12:49 outlook.office.com</li>
 <li class='same'> 12:47 outlook.office.com</li>
 <li class='same'> 12:46 outlook.office.com</li>
 <li class='same'> 12:44 outlook.office.com</li>
-<li> 12:43 herts365-my.sharepoint.com</li>
 <li> 12:43 www.microsoft365.com</li>
 <li> 12:43 login.microsoftonline.com</li>
 <li> 12:43 adfs.herts.ac.uk</li>
@@ -18803,11 +18791,7 @@ With number of accesses/minutes in parentheses
 <li> 07:09 chatgpt.com</li>
 <li> 06:41 www.tinkercad.com</li>
 <li> 06:41 accounts.autodesk.com</li>
-<li> 06:41 accounts.google.com</li>
-<li class='same'> 06:40 accounts.google.com</li>
-<li> 06:40 accounts.autodesk.com</li>
-<li> 06:40 www.tinkercad.com</li>
-<li> 06:40 accounts.autodesk.com</li>
+<li> 06:40 accounts.google.com</li>
 <li> 06:40 www.tinkercad.com</li>
 <li> 06:40 accounts.autodesk.com</li>
 <li> 06:40 www.tinkercad.com</li>
@@ -18849,11 +18833,9 @@ With number of accesses/minutes in parentheses
 <li> 05:55 chatgpt.com</li>
 <li> 05:55 outlook.office.com</li>
 <li class='same'> 05:54 outlook.office.com</li>
-<li> 05:53 herts365-my.sharepoint.com</li>
-<li> 05:52 outlook.office.com</li>
+<li class='same'> 05:52 outlook.office.com</li>
 <li> 05:52 login.microsoftonline.com</li>
-<li> 05:51 herts365-my.sharepoint.com</li>
-<li> 05:51 login.microsoftonline.com</li>
+<li class='same'> 05:51 login.microsoftonline.com</li>
 <li> 05:51 adfs.herts.ac.uk</li>
 <li> 05:51 api-b6327e78.duosecurity.com</li>
 <li> 05:51 adfs.herts.ac.uk</li>
