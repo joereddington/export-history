@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3504)</li>
-<li>mail.google.com (3440)</li>
+<ol><li>www.google.com (3505)</li>
+<li>mail.google.com (3441)</li>
 <li>outlook.office.com (3191)</li>
-<li>www.reddit.com (2762)</li>
-<li>outlook.office365.com (2432)</li>
+<li>www.reddit.com (2764)</li>
+<li>outlook.office365.com (2435)</li>
 <li>docs.google.com (2325)</li>
 <li>bsky.app (1580)</li>
-<li>duckduckgo.com (1576)</li>
+<li>duckduckgo.com (1577)</li>
 <li>www.facebook.com (1436)</li>
-<li>chatgpt.com (1020)</li>
+<li>chatgpt.com (1022)</li>
 <li>www.amazon.co.uk (879)</li>
-<li>www.linkedin.com (874)</li>
+<li>www.linkedin.com (877)</li>
 <li>calendar.google.com (693)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (624)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (537)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (477)</li>
-<li>chat.openai.com (438)</li>
+<li>chat.openai.com (439)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (378)</li>
 <li>drive.google.com (364)</li>
 <li>feedly.com (322)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:59 web.whatsapp.com</li>
+<ul><li> 14:01 www.reddit.com</li>
+<li class='same'> 13:59 www.reddit.com</li>
+<li> 13:57 <a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol - Wikipedia</a></li>
+<li> 13:57 duckduckgo.com</li>
+<li> 13:57 chatgpt.com</li>
+<li> 13:56 outlook.office365.com</li>
+<li> 13:55 chatgpt.com</li>
+<li> 13:55 chat.openai.com</li>
+<li> 13:54 outlook.office365.com</li>
+<li class='same'> 13:53 outlook.office365.com</li>
+<li> 13:29 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:02 mail.google.com</li>
+<li> 09:59 web.whatsapp.com</li>
 <li> 09:49 www.bcn3d.com</li>
 <li> 09:45 support.bcn3d.com</li>
 <li> 09:45 www.mqeurope.com</li>
@@ -183,6 +199,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:08 www.linkedin.com</li>
+<li class='same'> 18:07 www.linkedin.com</li>
+<li class='same'> 18:06 www.linkedin.com</li>
+<li> 18:06 <a href="https://www.theguardian.com/film/2025/aug/05/i-couldnt-get-rid-of-finchy-ralph-ineson-the-office-becoming-hollywood-superstar-at-55">‘I couldn’t get rid of Finchy’: Ralph Ineson on The Office – and becoming a Hollywood superstar at 55 | Film | The Guardian</a></li>
+</ul>
+
+<br>
+
 <ul><li> 16:44 <a href="https://www.theguardian.com/commentisfree/2025/aug/05/sydney-sweeney-jeans-bathwater-controversy-showbiz">Jeans, controversy, used bathwater: Sydney Sweeney’s selling it all. A showbiz masterclass, if you ask me | Marina Hyde | The Guardian</a></li>
 <li> 16:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 16:43 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
@@ -240,6 +264,7 @@ With number of accesses/minutes in parentheses
 <li> 15:49 www.linkedin.com</li>
 <li> 15:49 mail.google.com</li>
 <li> 15:49 outlook.office.com</li>
+<li> 15:46 <a href="https://www.theguardian.com/film/2025/aug/05/i-couldnt-get-rid-of-finchy-ralph-ineson-the-office-becoming-hollywood-superstar-at-55">‘I couldn’t get rid of Finchy’: Ralph Ineson on The Office – and becoming a Hollywood superstar at 55 | Film | The Guardian</a></li>
 <li> 15:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 15:27 www.google.com</li>
 <li class='same'> 15:26 www.google.com</li>
