@@ -69,24 +69,24 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3505)</li>
-<li>mail.google.com (3441)</li>
+<li>mail.google.com (3451)</li>
 <li>outlook.office.com (3191)</li>
 <li>www.reddit.com (2764)</li>
-<li>outlook.office365.com (2435)</li>
+<li>outlook.office365.com (2445)</li>
 <li>docs.google.com (2325)</li>
 <li>bsky.app (1580)</li>
 <li>duckduckgo.com (1577)</li>
 <li>www.facebook.com (1436)</li>
 <li>chatgpt.com (1022)</li>
 <li>www.amazon.co.uk (879)</li>
-<li>www.linkedin.com (877)</li>
-<li>calendar.google.com (693)</li>
+<li>www.linkedin.com (879)</li>
+<li>calendar.google.com (700)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (624)</li>
 <li>tvtropes.org (568)</li>
 <li>moodle.royalholloway.ac.uk (558)</li>
 <li>rhul-my.sharepoint.com (554)</li>
-<li>gmail.com (537)</li>
+<li>gmail.com (538)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (477)</li>
 <li>chat.openai.com (439)</li>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:01 www.reddit.com</li>
+<ul><li> 14:57 mail.google.com</li>
+<li> 14:57 calendar.google.com</li>
+<li> 14:57 mail.google.com</li>
+<li> 14:56 www.airbnb.co.uk</li>
+<li class='same'> 14:55 www.airbnb.co.uk</li>
+<li> 14:55 mail.google.com</li>
+<li class='same'> 14:54 mail.google.com</li>
+<li> 14:53 www.linkedin.com</li>
+<li> 14:53 outlook.office365.com</li>
+<li> 14:51 www.linkedin.com</li>
+<li> 14:51 mail.google.com</li>
+<li> 14:51 calendar.google.com</li>
+<li class='same'> 14:50 calendar.google.com</li>
+<li> 14:50 outlook.office365.com</li>
+<li> 14:49 calendar.google.com</li>
+<li class='same'> 14:48 calendar.google.com</li>
+<li class='same'> 14:47 calendar.google.com</li>
+<li class='same'> 14:41 calendar.google.com</li>
+<li> 14:41 mail.google.com</li>
+<li> 14:41 www.airbnb.co.uk</li>
+<li> 14:40 mail.google.com</li>
+<li class='same'> 14:39 mail.google.com</li>
+<li> 14:38 www.airbnb.co.uk</li>
+<li class='same'> 14:37 www.airbnb.co.uk</li>
+<li> 14:34 mail.google.com</li>
+<li class='same'> 14:33 mail.google.com</li>
+<li> 14:33 gmail.com</li>
+<li> 14:33 outlook.office365.com</li>
+<li class='same'> 14:27 outlook.office365.com</li>
+<li class='same'> 14:26 outlook.office365.com</li>
+<li class='same'> 14:24 outlook.office365.com</li>
+<li class='same'> 14:21 outlook.office365.com</li>
+<li class='same'> 14:19 outlook.office365.com</li>
+<li class='same'> 14:09 outlook.office365.com</li>
+<li class='same'> 14:08 outlook.office365.com</li>
+<li> 14:01 www.reddit.com</li>
 <li class='same'> 13:59 www.reddit.com</li>
 <li> 13:57 <a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol - Wikipedia</a></li>
 <li> 13:57 duckduckgo.com</li>
