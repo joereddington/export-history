@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3504)</li>
-<li>mail.google.com (3439)</li>
+<li>mail.google.com (3440)</li>
 <li>outlook.office.com (3191)</li>
-<li>www.reddit.com (2758)</li>
-<li>outlook.office365.com (2430)</li>
+<li>www.reddit.com (2762)</li>
+<li>outlook.office365.com (2432)</li>
 <li>docs.google.com (2325)</li>
 <li>bsky.app (1580)</li>
-<li>duckduckgo.com (1575)</li>
-<li>www.facebook.com (1435)</li>
+<li>duckduckgo.com (1576)</li>
+<li>www.facebook.com (1436)</li>
 <li>chatgpt.com (1020)</li>
 <li>www.amazon.co.uk (879)</li>
-<li>www.linkedin.com (872)</li>
+<li>www.linkedin.com (874)</li>
 <li>calendar.google.com (693)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (623)</li>
+<li>login.microsoftonline.com (624)</li>
 <li>tvtropes.org (568)</li>
 <li>moodle.royalholloway.ac.uk (558)</li>
 <li>rhul-my.sharepoint.com (554)</li>
-<li>gmail.com (536)</li>
+<li>gmail.com (537)</li>
 <li>github.com (495)</li>
-<li>web.whatsapp.com (475)</li>
+<li>web.whatsapp.com (477)</li>
 <li>chat.openai.com (438)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (378)</li>
 <li>drive.google.com (364)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:58 web.whatsapp.com</li>
+<ul><li> 09:59 web.whatsapp.com</li>
+<li> 09:49 www.bcn3d.com</li>
+<li> 09:45 support.bcn3d.com</li>
+<li> 09:45 www.mqeurope.com</li>
+<li> 09:45 duckduckgo.com</li>
+<li> 09:44 university.open.ac.uk</li>
+<li> 09:43 www5.open.ac.uk</li>
+<li> 09:43 university.open.ac.uk</li>
+<li> 09:43 jobs.open.ac.uk</li>
+<li> 09:43 outlook.office365.com</li>
+<li> 09:42 login.microsoftonline.com</li>
+<li> 09:42 outlook.office365.com</li>
+<li> 09:42 mail.google.com</li>
+<li> 09:42 gmail.com</li>
+<li> 09:42 www.reddit.com</li>
+<li class='same'> 09:41 www.reddit.com</li>
+<li> 09:41 www.facebook.com</li>
+<li> 09:38 www.linkedin.com</li>
+<li> 09:38 web.whatsapp.com</li>
+<li> 09:23 www.reddit.com</li>
+<li class='same'> 09:22 www.reddit.com</li>
+<li> 09:16 wonkhe.com</li>
+<li> 09:16 www.linkedin.com</li>
+<li> 08:58 web.whatsapp.com</li>
 <li> 08:52 <a href="https://www.youtube.com/watch?v=Y94Hj0owDgc">(683) GCSE Maths: N2-21 [Examples of Division with Integers] - YouTube</a></li>
 <li> 08:49 <a href="https://www.youtube.com/watch?v=hwRaqcDdZ88">(683) GCSE Maths: N2-20 [Method of Division with Integers] - YouTube</a></li>
 <li> 08:48 <a href="https://www.youtube.com/watch?v=Sf-wOuED4fg&t=4s">(683) GCSE Maths: N2-19 [Examples of Multiplication with Decimals] - YouTube</a></li>
