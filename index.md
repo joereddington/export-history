@@ -93,8 +93,8 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (378)</li>
 <li>drive.google.com (364)</li>
 <li>feedly.com (322)</li>
+<li>fritz.box (290)</li>
 <li>forum.artofmemory.com (289)</li>
-<li>fritz.box (288)</li>
 <li>rhul.sharepoint.com (284)</li>
 <li>whitewaterwriters.com (274)</li>
 <li><a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a> (249)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 06/08/25</H3>
+
+<br>
+
+<ul><li> 17:23 fritz.box</li>
+<li class='same'> 17:20 fritz.box</li>
+</ul>
 
 <br>
 
