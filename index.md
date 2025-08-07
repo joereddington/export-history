@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (879)</li>
 <li>calendar.google.com (702)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (625)</li>
+<li>login.microsoftonline.com (624)</li>
 <li>tvtropes.org (574)</li>
 <li>moodle.royalholloway.ac.uk (558)</li>
 <li>rhul-my.sharepoint.com (554)</li>
@@ -18370,7 +18370,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:48 outlook.office.com</li>
-<li> 19:46 herts365-my.sharepoint.com</li>
 <li> 19:46 forms.office.com</li>
 <li> 19:46 login.microsoftonline.com</li>
 <li> 19:46 forms.office.com</li>
@@ -18455,7 +18454,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:30 teams.microsoft.com</li>
 <li> 13:22 www.google.com</li>
-<li> 12:53 herts365-my.sharepoint.com</li>
 </ul>
 
 <br>
@@ -18464,8 +18462,7 @@ With number of accesses/minutes in parentheses
 <li> 12:16 duckduckgo.com</li>
 <li> 12:11 outlook.office.com</li>
 <li class='same'> 12:09 outlook.office.com</li>
-<li> 12:07 herts365-my.sharepoint.com</li>
-<li> 12:07 outlook.office.com</li>
+<li class='same'> 12:07 outlook.office.com</li>
 <li class='same'> 12:06 outlook.office.com</li>
 <li class='same'> 11:55 outlook.office.com</li>
 <li> 11:41 web.whatsapp.com</li>
@@ -18477,7 +18474,6 @@ With number of accesses/minutes in parentheses
 <li> 11:26 web.whatsapp.com</li>
 <li> 11:23 adfs.herts.ac.uk</li>
 <li> 11:08 chatgpt.com</li>
-<li> 10:45 herts365-my.sharepoint.com</li>
 <li> 10:45 www.microsoft365.com</li>
 <li> 10:45 login.microsoftonline.com</li>
 <li> 10:45 adfs.herts.ac.uk</li>
@@ -18569,7 +18565,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:57 calendar.google.com</li>
 <li class='same'> 20:56 calendar.google.com</li>
 <li> 20:56 outlook.office365.com</li>
-<li> 20:55 login.microsoftonline.com</li>
 <li> 20:52 outlook.office.com</li>
 <li> 20:51 boardgamearena.com</li>
 <li> 20:51 en.boardgamearena.com</li>
@@ -18621,7 +18616,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:41 teams.microsoft.com</li>
 <li class='same'> 13:40 teams.microsoft.com</li>
 <li> 13:39 outlook.office.com</li>
-<li> 13:38 herts365-my.sharepoint.com</li>
 <li> 13:38 www.microsoft365.com</li>
 <li> 13:38 login.microsoftonline.com</li>
 <li> 13:38 adfs.herts.ac.uk</li>
@@ -18657,7 +18651,6 @@ With number of accesses/minutes in parentheses
 <li> 12:34 mail.google.com</li>
 <li> 12:33 web.whatsapp.com</li>
 <li> 12:33 mail.google.com</li>
-<li> 12:32 herts365-my.sharepoint.com</li>
 <li> 12:31 www.microsoft365.com</li>
 <li> 12:31 login.microsoftonline.com</li>
 <li> 12:31 adfs.herts.ac.uk</li>
