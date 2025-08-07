@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3510)</li>
-<li>mail.google.com (3456)</li>
+<ol><li>www.google.com (3511)</li>
+<li>mail.google.com (3457)</li>
 <li>outlook.office.com (3191)</li>
-<li>www.reddit.com (2771)</li>
-<li>outlook.office365.com (2448)</li>
+<li>www.reddit.com (2773)</li>
+<li>outlook.office365.com (2452)</li>
 <li>docs.google.com (2326)</li>
 <li>bsky.app (1580)</li>
 <li>duckduckgo.com (1579)</li>
 <li>www.facebook.com (1436)</li>
-<li>chatgpt.com (1024)</li>
-<li>www.linkedin.com (885)</li>
+<li>chatgpt.com (1025)</li>
+<li>www.linkedin.com (886)</li>
 <li>www.amazon.co.uk (879)</li>
 <li>calendar.google.com (703)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (624)</li>
 <li>tvtropes.org (574)</li>
 <li>moodle.royalholloway.ac.uk (558)</li>
-<li>rhul-my.sharepoint.com (554)</li>
+<li>rhul-my.sharepoint.com (555)</li>
 <li>gmail.com (538)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (477)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:59 chatgpt.com</li>
+<ul><li> 09:58 doi.org</li>
+<li> 09:57 cryptpad.fr</li>
+<li> 09:57 outlook.office365.com</li>
+<li class='same'> 09:56 outlook.office365.com</li>
+<li> 09:56 doi.org</li>
+<li> 09:55 ieeexplore.ieee.org</li>
+<li> 09:55 www.sciencedirect.com</li>
+<li> 09:55 arxiv.org</li>
+<li> 09:52 chatgpt.com</li>
+<li> 09:39 outlook.office365.com</li>
+<li> 09:39 news.governmentevents.co.uk</li>
+<li> 09:39 outlook.office365.com</li>
+<li> 09:36 rhul-my.sharepoint.com</li>
+<li> 09:32 mail.google.com</li>
+<li> 09:30 www.reddit.com</li>
+<li class='same'> 09:29 www.reddit.com</li>
+<li> 09:02 www.linkedin.com</li>
+<li> 09:02 www.google.com</li>
+<li> 08:59 chatgpt.com</li>
 <li> 08:59 chat.openai.com</li>
 <li> 08:56 apps.apple.com</li>
 <li> 08:55 duckduckgo.com</li>
