@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3505)</li>
-<li>mail.google.com (3451)</li>
+<ol><li>www.google.com (3510)</li>
+<li>mail.google.com (3456)</li>
 <li>outlook.office.com (3191)</li>
-<li>www.reddit.com (2764)</li>
-<li>outlook.office365.com (2445)</li>
-<li>docs.google.com (2325)</li>
+<li>www.reddit.com (2771)</li>
+<li>outlook.office365.com (2447)</li>
+<li>docs.google.com (2326)</li>
 <li>bsky.app (1580)</li>
-<li>duckduckgo.com (1577)</li>
+<li>duckduckgo.com (1578)</li>
 <li>www.facebook.com (1436)</li>
 <li>chatgpt.com (1022)</li>
+<li>www.linkedin.com (885)</li>
 <li>www.amazon.co.uk (879)</li>
-<li>www.linkedin.com (879)</li>
-<li>calendar.google.com (700)</li>
+<li>calendar.google.com (702)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (624)</li>
-<li>tvtropes.org (568)</li>
+<li>login.microsoftonline.com (625)</li>
+<li>tvtropes.org (574)</li>
 <li>moodle.royalholloway.ac.uk (558)</li>
 <li>rhul-my.sharepoint.com (554)</li>
 <li>gmail.com (538)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (477)</li>
 <li>chat.openai.com (439)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (378)</li>
-<li>drive.google.com (364)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (382)</li>
+<li>drive.google.com (365)</li>
 <li>feedly.com (322)</li>
 <li>fritz.box (290)</li>
 <li>forum.artofmemory.com (289)</li>
@@ -114,7 +114,62 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:57 mail.google.com</li>
+<ul><li> 16:31 www.linkedin.com</li>
+<li class='same'> 16:22 www.linkedin.com</li>
+<li class='same'> 16:21 www.linkedin.com</li>
+<li class='same'> 16:20 www.linkedin.com</li>
+<li> 15:52 outlook.office365.com</li>
+<li class='same'> 15:51 outlook.office365.com</li>
+<li> 15:51 www.google.com</li>
+<li> 15:51 mail.google.com</li>
+<li class='same'> 15:50 mail.google.com</li>
+<li> 15:49 ce0997li.webitrent.com</li>
+<li class='same'> 15:46 ce0997li.webitrent.com</li>
+<li> 15:43 calendar.google.com</li>
+<li> 15:43 ce0997li.webitrent.com</li>
+<li class='same'> 15:42 ce0997li.webitrent.com</li>
+<li> 15:40 www.linkedin.com</li>
+<li> 15:40 <a href="https://www.bbc.co.uk/news/articles/c4gz2lln7pro">Airbnb host suspended after rejecting Cwmbran guests because they are Welsh - BBC News</a></li>
+<li> 15:39 <a href="https://www.bbc.co.uk/news/articles/cp941z3nnnxo">Zara ads banned for featuring 'unhealthily thin' models - BBC News</a></li>
+<li> 15:39 <a href="https://www.bbc.co.uk/news/articles/cn92vw9gl74o">MasterChef: BBC cooking show returns with sacked hosts Gregg Wallace and John Torode - BBC News</a></li>
+<li> 15:39 <a href="https://www.bbc.co.uk/news/articles/c1dxr1g4y7yo">Trump hits India with extra 25% tariff for buying Russian oil - BBC News</a></li>
+<li> 15:38 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 15:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:38 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 15:37 ce0997li.webitrent.com</li>
+<li> 15:37 login.microsoftonline.com</li>
+<li> 15:37 ce0997li.webitrent.com</li>
+<li> 15:37 docs.google.com</li>
+<li> 15:37 drive.google.com</li>
+<li> 15:37 www.hr.herts.ac.uk</li>
+<li> 15:37 mail.google.com</li>
+<li class='same'> 15:36 mail.google.com</li>
+<li> 15:35 www.linkedin.com</li>
+<li> 15:34 calendar.google.com</li>
+<li> 15:33 mail.google.com</li>
+<li> 15:28 tvtropes.org</li>
+<li class='same'> 15:27 tvtropes.org</li>
+<li class='same'> 15:25 tvtropes.org</li>
+<li class='same'> 15:24 tvtropes.org</li>
+<li class='same'> 15:23 tvtropes.org</li>
+<li class='same'> 15:18 tvtropes.org</li>
+<li> 15:18 duckduckgo.com</li>
+<li> 15:17 www.reddit.com</li>
+<li class='same'> 15:16 www.reddit.com</li>
+<li class='same'> 15:12 www.reddit.com</li>
+<li class='same'> 15:09 www.reddit.com</li>
+<li class='same'> 15:08 www.reddit.com</li>
+<li class='same'> 15:07 www.reddit.com</li>
+<li class='same'> 15:06 www.reddit.com</li>
+<li> 15:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:06 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 15:06 <a href="https://www.theguardian.com/business/2025/aug/06/sales-of-novo-nordisk-diabetes-drugs-including-ozempic-slow-sharply">Sales of Novo Nordisk’s diabetes drugs including Ozempic slow sharply | Pharmaceuticals industry | The Guardian</a></li>
+<li> 15:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:05 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 15:05 <a href="https://www.theguardian.com/us-news/2025/aug/05/rfk-jr-hhs-mrna-vaccine-research">RFK Jr’s health department to halt $500m in mRNA vaccine research | Trump administration | The Guardian</a></li>
+<li> 15:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:04 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 14:57 mail.google.com</li>
 <li> 14:57 calendar.google.com</li>
 <li> 14:57 mail.google.com</li>
 <li> 14:56 www.airbnb.co.uk</li>
@@ -159,6 +214,10 @@ With number of accesses/minutes in parentheses
 <li> 13:55 chat.openai.com</li>
 <li> 13:54 outlook.office365.com</li>
 <li class='same'> 13:53 outlook.office365.com</li>
+<li> 13:31 www.google.com</li>
+<li> 13:31 www.jcq.org.uk</li>
+<li class='same'> 13:30 www.jcq.org.uk</li>
+<li class='same'> 13:29 www.jcq.org.uk</li>
 <li> 13:29 www.google.com</li>
 </ul>
 
@@ -55615,11 +55674,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:23 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-</ul>
-
-<br>
-
-<ul><li> 10:39 rhul-my.sharepoint.com</li>
+<li> 11:07 www.google.com</li>
+<li> 10:39 rhul-my.sharepoint.com</li>
 <li> 10:34 x.com</li>
 <li> 10:28 www.ucisa.ac.uk</li>
 <li> 10:14 <a href="https://en.wikipedia.org/wiki/Script_kiddie">Script kiddie - Wikipedia</a></li>
@@ -57184,6 +57240,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:01 outlook.office.com</li>
 <li class='same'> 09:00 outlook.office.com</li>
 <li class='same'> 08:59 outlook.office.com</li>
+<li> 08:59 www.google.com</li>
 <li> 08:56 0.0.0.0:8000</li>
 </ul>
 
@@ -61867,6 +61924,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:12 outlook.office.com</li>
 <li class='same'> 12:10 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:25 www.google.com</li>
 </ul>
 
 <H3>Friday, 19/04/24</H3>
