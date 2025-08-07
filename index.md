@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3511)</li>
-<li>mail.google.com (3460)</li>
-<li>outlook.office.com (3191)</li>
+<li>mail.google.com (3462)</li>
+<li>outlook.office.com (3193)</li>
 <li>www.reddit.com (2773)</li>
-<li>outlook.office365.com (2455)</li>
+<li>outlook.office365.com (2456)</li>
 <li>docs.google.com (2326)</li>
 <li>duckduckgo.com (1582)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1436)</li>
 <li>chatgpt.com (1027)</li>
-<li>www.linkedin.com (886)</li>
+<li>www.linkedin.com (891)</li>
 <li>www.amazon.co.uk (879)</li>
-<li>calendar.google.com (703)</li>
+<li>calendar.google.com (705)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (628)</li>
+<li>login.microsoftonline.com (633)</li>
+<li>moodle.royalholloway.ac.uk (579)</li>
 <li>tvtropes.org (574)</li>
-<li>moodle.royalholloway.ac.uk (573)</li>
-<li>rhul-my.sharepoint.com (558)</li>
+<li>rhul-my.sharepoint.com (560)</li>
 <li>gmail.com (538)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (478)</li>
 <li>chat.openai.com (441)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (382)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (384)</li>
 <li>drive.google.com (365)</li>
 <li>feedly.com (322)</li>
 <li>fritz.box (290)</li>
@@ -108,7 +108,65 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:57 forms.office.com</li>
+<ul><li> 11:50 outlook.office.com</li>
+<li> 11:49 herts.instructure.com</li>
+<li> 11:49 adfs.herts.ac.uk</li>
+<li> 11:46 calendar.google.com</li>
+<li class='same'> 11:45 calendar.google.com</li>
+<li> 11:45 herts365-my.sharepoint.com</li>
+<li> 11:45 eu-west.azureauth.duosecurity.com</li>
+<li> 11:45 api-b6327e78.duosecurity.com</li>
+<li> 11:45 adfs.herts.ac.uk</li>
+<li> 11:44 login.microsoftonline.com</li>
+<li> 11:44 herts365-my.sharepoint.com</li>
+<li> 11:42 outlook.office.com</li>
+<li> 11:42 m365.cloud.microsoft</li>
+<li> 11:42 login.microsoftonline.com</li>
+<li> 11:41 eu-west.azureauth.duosecurity.com</li>
+<li> 11:41 api-b6327e78.duosecurity.com</li>
+<li> 11:41 adfs.herts.ac.uk</li>
+<li> 11:41 api-b6327e78.duosecurity.com</li>
+<li> 11:41 adfs.herts.ac.uk</li>
+<li> 11:38 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/07/former-superman-actor-dean-cain-reveals-hes-becoming-an-ice-agent-to-support-trumps-mass-deportation-agenda">Former Superman actor Dean Cain reveals he’s becoming an Ice agent to support Trump’s mass deportation agenda | Television | The Guardian</a></li>
+<li> 11:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:38 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 11:38 forms.office.com</li>
+<li> 11:38 login.microsoftonline.com</li>
+<li> 11:38 rhul-my.sharepoint.com</li>
+<li> 11:38 forms.office.com</li>
+<li class='same'> 11:37 forms.office.com</li>
+<li class='same'> 11:36 forms.office.com</li>
+<li class='same'> 11:34 forms.office.com</li>
+<li> 11:34 api-b6327e78.duosecurity.com</li>
+<li> 11:34 adfs.herts.ac.uk</li>
+<li> 11:34 mail.google.com</li>
+<li> 11:34 www.linkedin.com</li>
+<li class='same'> 11:33 www.linkedin.com</li>
+<li class='same'> 11:32 www.linkedin.com</li>
+<li> 11:32 mail.google.com</li>
+<li> 11:31 forms.office.com</li>
+<li> 11:31 login.microsoftonline.com</li>
+<li> 11:31 forms.office.com</li>
+<li> 11:31 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:30 moodle.royalholloway.ac.uk</li>
+<li> 11:30 login.microsoftonline.com</li>
+<li> 11:30 moodle.royalholloway.ac.uk</li>
+<li> 11:29 api-b6327e78.duosecurity.com</li>
+<li> 11:29 adfs.herts.ac.uk</li>
+<li> 11:28 discord.com</li>
+<li class='same'> 11:27 discord.com</li>
+<li class='same'> 11:16 discord.com</li>
+<li> 11:16 moodle.royalholloway.ac.uk</li>
+<li> 11:14 www.linkedin.com</li>
+<li class='same'> 11:13 www.linkedin.com</li>
+<li> 11:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:12 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 11:12 outlook.office365.com</li>
+<li> 11:11 forms.office.com</li>
+<li> 11:11 rhul-my.sharepoint.com</li>
+<li> 11:11 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:10 moodle.royalholloway.ac.uk</li>
+<li> 10:57 forms.office.com</li>
 <li> 10:55 moodle.royalholloway.ac.uk</li>
 <li> 10:54 rhul-my.sharepoint.com</li>
 <li> 10:51 www.royalholloway.ac.uk</li>
@@ -63715,7 +63773,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:27 www.eff.org</li>
+<ul><li> 12:28 forms.office.com</li>
+<li> 12:27 www.eff.org</li>
 <li> 12:25 forms.office.com</li>
 <li> 12:07 pure.royalholloway.ac.uk</li>
 <li> 12:01 rhul-my.sharepoint.com</li>
