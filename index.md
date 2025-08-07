@@ -70,26 +70,26 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3511)</li>
 <li>mail.google.com (3462)</li>
-<li>outlook.office.com (3193)</li>
+<li>outlook.office.com (3199)</li>
 <li>www.reddit.com (2773)</li>
-<li>outlook.office365.com (2456)</li>
+<li>outlook.office365.com (2462)</li>
 <li>docs.google.com (2326)</li>
 <li>duckduckgo.com (1582)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1436)</li>
-<li>chatgpt.com (1027)</li>
-<li>www.linkedin.com (891)</li>
+<li>chatgpt.com (1030)</li>
+<li>www.linkedin.com (893)</li>
 <li>www.amazon.co.uk (879)</li>
 <li>calendar.google.com (705)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (633)</li>
-<li>moodle.royalholloway.ac.uk (579)</li>
+<li>login.microsoftonline.com (635)</li>
+<li>moodle.royalholloway.ac.uk (580)</li>
 <li>tvtropes.org (574)</li>
 <li>rhul-my.sharepoint.com (560)</li>
 <li>gmail.com (538)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (478)</li>
-<li>chat.openai.com (441)</li>
+<li>chat.openai.com (443)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (384)</li>
 <li>drive.google.com (365)</li>
 <li>feedly.com (322)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:50 outlook.office.com</li>
+<ul><li> 12:53 www.linkedin.com</li>
+<li class='same'> 12:52 www.linkedin.com</li>
+<li> 12:50 dl.acm.org</li>
+<li> 12:47 outlook.office365.com</li>
+<li class='same'> 12:46 outlook.office365.com</li>
+<li> 12:32 chatgpt.com</li>
+<li class='same'> 12:31 chatgpt.com</li>
+<li> 12:31 chat.openai.com</li>
+<li> 12:31 chatgpt.com</li>
+<li> 12:31 chat.openai.com</li>
+<li> 12:30 ce0997li.webitrent.com</li>
+<li class='same'> 12:28 ce0997li.webitrent.com</li>
+<li class='same'> 12:26 ce0997li.webitrent.com</li>
+<li> 12:25 outlook.office.com</li>
+<li class='same'> 12:24 outlook.office.com</li>
+<li> 12:23 herts365.sharepoint.com</li>
+<li> 12:22 ce0997li.webitrent.com</li>
+<li class='same'> 12:21 ce0997li.webitrent.com</li>
+<li> 12:21 login.microsoftonline.com</li>
+<li> 12:21 ce0997li.webitrent.com</li>
+<li> 12:21 www.hr.herts.ac.uk</li>
+<li> 12:20 herts365.sharepoint.com</li>
+<li> 12:20 login.microsoftonline.com</li>
+<li> 12:20 herts365.sharepoint.com</li>
+<li> 12:19 outlook.office.com</li>
+<li> 12:19 outlook.office365.com</li>
+<li class='same'> 12:07 outlook.office365.com</li>
+<li class='same'> 12:05 outlook.office365.com</li>
+<li class='same'> 12:04 outlook.office365.com</li>
+<li> 12:04 moodle.royalholloway.ac.uk</li>
+<li> 11:59 outlook.office.com</li>
+<li class='same'> 11:58 outlook.office.com</li>
+<li class='same'> 11:57 outlook.office.com</li>
+<li class='same'> 11:50 outlook.office.com</li>
 <li> 11:49 herts.instructure.com</li>
 <li> 11:49 adfs.herts.ac.uk</li>
 <li> 11:46 calendar.google.com</li>
