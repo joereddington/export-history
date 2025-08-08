@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3462)</li>
 <li>outlook.office.com (3199)</li>
 <li>www.reddit.com (2773)</li>
-<li>outlook.office365.com (2466)</li>
+<li>outlook.office365.com (2467)</li>
 <li>docs.google.com (2326)</li>
 <li>duckduckgo.com (1582)</li>
 <li>bsky.app (1580)</li>
@@ -82,8 +82,8 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (879)</li>
 <li>calendar.google.com (705)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (637)</li>
-<li>moodle.royalholloway.ac.uk (581)</li>
+<li>login.microsoftonline.com (639)</li>
+<li>moodle.royalholloway.ac.uk (583)</li>
 <li>tvtropes.org (574)</li>
 <li>rhul-my.sharepoint.com (560)</li>
 <li>gmail.com (538)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (288)</li>
 <li>whitewaterwriters.com (274)</li>
-<li>forms.office.com (249)</li>
+<li>forms.office.com (252)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 07/08/25</H3>
+
+<br>
+
+<ul><li> 18:38 forms.office.com</li>
+<li> 18:38 login.microsoftonline.com</li>
+<li> 18:37 www.microsoft.com</li>
+<li> 18:37 forms.office.com</li>
+<li> 18:37 login.microsoftonline.com</li>
+<li> 18:37 forms.office.com</li>
+<li> 18:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:26 moodle.royalholloway.ac.uk</li>
+<li> 18:21 outlook.office365.com</li>
+</ul>
 
 <br>
 
