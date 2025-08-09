@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3519)</li>
-<li>mail.google.com (3463)</li>
+<li>mail.google.com (3465)</li>
 <li>outlook.office.com (3203)</li>
 <li>www.reddit.com (2785)</li>
 <li>outlook.office365.com (2482)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (593)</li>
 <li>tvtropes.org (574)</li>
 <li>rhul-my.sharepoint.com (562)</li>
-<li>gmail.com (538)</li>
+<li>gmail.com (539)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (478)</li>
 <li>chat.openai.com (443)</li>
@@ -104,12 +104,25 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 09/08/25</H3>
+
+<br>
+
+<ul><li> 06:59 mail.google.com</li>
+</ul>
+
 <H3>Friday, 08/08/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
 <ul><li> 16:51 www.linkedin.com</li>
 <li> 16:51 fritz.box</li>
+<li> 16:50 mail.google.com</li>
+<li> 16:50 gmail.com</li>
 <li> 16:43 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
 <li> 16:17 outlook.office365.com</li>
 <li class='same'> 16:15 outlook.office365.com</li>
