@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3511)</li>
+<ol><li>www.google.com (3519)</li>
 <li>mail.google.com (3463)</li>
 <li>outlook.office.com (3203)</li>
-<li>www.reddit.com (2782)</li>
-<li>outlook.office365.com (2471)</li>
+<li>www.reddit.com (2785)</li>
+<li>outlook.office365.com (2482)</li>
 <li>docs.google.com (2326)</li>
-<li>duckduckgo.com (1583)</li>
+<li>duckduckgo.com (1584)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1030)</li>
-<li>www.linkedin.com (896)</li>
+<li>www.linkedin.com (900)</li>
 <li>www.amazon.co.uk (879)</li>
 <li>calendar.google.com (706)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (639)</li>
-<li>moodle.royalholloway.ac.uk (588)</li>
+<li>login.microsoftonline.com (650)</li>
+<li>moodle.royalholloway.ac.uk (593)</li>
 <li>tvtropes.org (574)</li>
-<li>rhul-my.sharepoint.com (560)</li>
+<li>rhul-my.sharepoint.com (562)</li>
 <li>gmail.com (538)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (478)</li>
 <li>chat.openai.com (443)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (387)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (388)</li>
 <li>drive.google.com (365)</li>
 <li>feedly.com (322)</li>
-<li>fritz.box (290)</li>
+<li>fritz.box (292)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (288)</li>
 <li>whitewaterwriters.com (274)</li>
-<li>forms.office.com (254)</li>
+<li>forms.office.com (259)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 08/08/25</H3>
+
+<br>
+
+<ul><li> 16:51 www.linkedin.com</li>
+<li> 16:51 fritz.box</li>
+<li> 16:43 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 16:17 outlook.office365.com</li>
+<li class='same'> 16:15 outlook.office365.com</li>
+<li> 16:11 rhul-my.sharepoint.com</li>
+<li> 16:09 outlook.office365.com</li>
+<li> 15:58 www.reddit.com</li>
+<li class='same'> 15:56 www.reddit.com</li>
+<li> 15:52 duckduckgo.com</li>
+<li> 15:36 www.reddit.com</li>
+<li> 15:33 forms.office.com</li>
+<li> 15:33 login.microsoftonline.com</li>
+<li> 15:33 forms.office.com</li>
+<li> 15:32 rhul-my.sharepoint.com</li>
+</ul>
 
 <br>
 
@@ -178,6 +197,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:46 fritz.box</li>
+<li> 20:38 www.linkedin.com</li>
+<li class='same'> 20:37 www.linkedin.com</li>
+<li> 20:36 outlook.office365.com</li>
+<li> 20:36 login.microsoftonline.com</li>
+<li> 20:36 device.login.microsoftonline.com</li>
+<li> 20:36 outlook.office365.com</li>
+</ul>
+
+<br>
+
 <ul><li> 18:38 forms.office.com</li>
 <li> 18:38 login.microsoftonline.com</li>
 <li> 18:37 www.microsoft.com</li>
@@ -185,8 +215,46 @@ With number of accesses/minutes in parentheses
 <li> 18:37 login.microsoftonline.com</li>
 <li> 18:37 forms.office.com</li>
 <li> 18:37 moodle.royalholloway.ac.uk</li>
-<li class='same'> 18:26 moodle.royalholloway.ac.uk</li>
-<li> 18:21 outlook.office365.com</li>
+<li> 18:36 outlook.office365.com</li>
+<li> 18:36 device.login.microsoftonline.com</li>
+<li> 18:36 login.microsoftonline.com</li>
+<li> 18:36 outlook.office365.com</li>
+<li> 18:26 moodle.royalholloway.ac.uk</li>
+<li> 18:25 outlook.office365.com</li>
+<li class='same'> 18:21 outlook.office365.com</li>
+<li> 18:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:03 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 18:03 <a href="https://www.theguardian.com/us-news/2025/jul/27/epstein-trump-murdoch-wsj-fox-news">Has the Epstein affair strained Trump’s cozy relationship with the Murdoch media empire? | Donald Trump | The Guardian</a></li>
+<li> 18:01 www.lutongymnastics.co.uk</li>
+<li> 18:01 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:29 outlook.office365.com</li>
+<li class='same'> 17:28 outlook.office365.com</li>
+<li> 17:28 device.login.microsoftonline.com</li>
+<li> 17:28 login.microsoftonline.com</li>
+<li> 17:28 outlook.office365.com</li>
+<li> 17:27 forms.office.com</li>
+<li> 17:27 login.microsoftonline.com</li>
+<li> 17:27 forms.office.com</li>
+<li> 17:27 device.login.microsoftonline.com</li>
+<li> 17:27 login.microsoftonline.com</li>
+<li> 17:27 forms.office.com</li>
+<li> 17:27 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:26 moodle.royalholloway.ac.uk</li>
+<li> 17:26 login.microsoftonline.com</li>
+<li> 17:26 device.login.microsoftonline.com</li>
+<li> 17:26 login.microsoftonline.com</li>
+<li> 17:26 moodle.royalholloway.ac.uk</li>
+<li> 17:26 login.microsoftonline.com</li>
+<li> 17:26 device.login.microsoftonline.com</li>
+<li> 17:25 login.microsoftonline.com</li>
+<li> 17:25 moodle.royalholloway.ac.uk</li>
+<li> 17:25 login.microsoftonline.com</li>
+<li> 17:25 moodle.royalholloway.ac.uk</li>
+<li> 17:25 www.pharmacytimes.com</li>
 </ul>
 
 <br>
@@ -368,6 +436,19 @@ With number of accesses/minutes in parentheses
 <li> 08:59 chat.openai.com</li>
 <li> 08:56 apps.apple.com</li>
 <li> 08:55 duckduckgo.com</li>
+<li> 08:39 www.pharmacytimes.com</li>
+<li> 08:39 www.google.com</li>
+<li> 08:39 www.epilepsy.org.uk</li>
+<li> 08:32 rapm.bmj.com</li>
+<li> 08:32 www.epilepsy.org.uk</li>
+<li> 08:31 www.google.com</li>
+<li> 08:29 www.medpagetoday.com</li>
+<li> 08:28 www.google.com</li>
+<li> 08:28 www.epilepsy.org.uk</li>
+<li> 08:28 www.google.com</li>
+<li> 08:28 www.epilepsy.org.uk</li>
+<li> 08:28 www.google.com</li>
+<li class='same'> 08:26 www.google.com</li>
 </ul>
 
 <br>
@@ -401,7 +482,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:31 www.linkedin.com</li>
+<ul><li> 16:32 www.google.com</li>
+<li> 16:32 www.linkedin.com</li>
+<li class='same'> 16:31 www.linkedin.com</li>
 <li class='same'> 16:22 www.linkedin.com</li>
 <li class='same'> 16:21 www.linkedin.com</li>
 <li class='same'> 16:20 www.linkedin.com</li>
