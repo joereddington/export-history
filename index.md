@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3519)</li>
+<ol><li>www.google.com (3520)</li>
 <li>mail.google.com (3465)</li>
 <li>outlook.office.com (3203)</li>
 <li>www.reddit.com (2785)</li>
-<li>outlook.office365.com (2482)</li>
+<li>outlook.office365.com (2481)</li>
 <li>docs.google.com (2326)</li>
-<li>duckduckgo.com (1584)</li>
+<li>duckduckgo.com (1585)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1030)</li>
-<li>www.linkedin.com (900)</li>
+<li>www.linkedin.com (902)</li>
 <li>www.amazon.co.uk (879)</li>
 <li>calendar.google.com (706)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (650)</li>
-<li>moodle.royalholloway.ac.uk (593)</li>
+<li>login.microsoftonline.com (648)</li>
+<li>moodle.royalholloway.ac.uk (592)</li>
 <li>tvtropes.org (574)</li>
 <li>rhul-my.sharepoint.com (564)</li>
 <li>gmail.com (539)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (478)</li>
 <li>chat.openai.com (443)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (389)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (390)</li>
 <li>drive.google.com (365)</li>
-<li>feedly.com (322)</li>
+<li>feedly.com (323)</li>
 <li>fritz.box (292)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (288)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 09/08/25</H3>
+
+<br>
+
+<ul><li> 08:30 feedly.com</li>
+<li> 08:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:30 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 08:25 www.linkedin.com</li>
+<li> 08:05 duckduckgo.com</li>
+</ul>
 
 <br>
 
@@ -123,7 +132,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:51 www.linkedin.com</li>
+<ul><li> 19:23 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:52 www.linkedin.com</li>
+<li class='same'> 16:51 www.linkedin.com</li>
 <li> 16:51 fritz.box</li>
 <li> 16:50 mail.google.com</li>
 <li> 16:50 gmail.com</li>
@@ -18245,8 +18260,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:02 moodle.royalholloway.ac.uk</li>
 <li> 17:02 login.microsoftonline.com</li>
 <li> 17:02 moodle.royalholloway.ac.uk</li>
-<li> 17:02 login.microsoftonline.com</li>
-<li> 17:02 moodle.royalholloway.ac.uk</li>
 <li> 16:41 www.facebook.com</li>
 <li class='same'> 16:40 www.facebook.com</li>
 <li> 16:40 mail.google.com</li>
@@ -18292,8 +18305,6 @@ With number of accesses/minutes in parentheses
 <li> 15:20 jobs.reading.ac.uk</li>
 <li class='same'> 15:19 jobs.reading.ac.uk</li>
 <li> 15:19 mail.google.com</li>
-<li> 15:19 outlook.office365.com</li>
-<li> 15:19 login.microsoftonline.com</li>
 <li> 15:19 outlook.office365.com</li>
 <li> 15:18 <a href="https://en.wikipedia.org/wiki/Liver_King">Liver King - Wikipedia</a></li>
 <li> 15:18 duckduckgo.com</li>
