@@ -85,12 +85,12 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (650)</li>
 <li>moodle.royalholloway.ac.uk (593)</li>
 <li>tvtropes.org (574)</li>
-<li>rhul-my.sharepoint.com (562)</li>
+<li>rhul-my.sharepoint.com (564)</li>
 <li>gmail.com (539)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (478)</li>
 <li>chat.openai.com (443)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (388)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (389)</li>
 <li>drive.google.com (365)</li>
 <li>feedly.com (322)</li>
 <li>fritz.box (292)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:59 mail.google.com</li>
+<ul><li> 07:09 rhul-my.sharepoint.com</li>
+<li class='same'> 07:08 rhul-my.sharepoint.com</li>
+<li> 07:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:01 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 06:59 mail.google.com</li>
 </ul>
 
 <H3>Friday, 08/08/25</H3>
