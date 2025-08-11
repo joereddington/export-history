@@ -72,17 +72,17 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3465)</li>
 <li>outlook.office.com (3203)</li>
 <li>www.reddit.com (2786)</li>
-<li>outlook.office365.com (2481)</li>
+<li>outlook.office365.com (2480)</li>
 <li>docs.google.com (2326)</li>
 <li>duckduckgo.com (1585)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1030)</li>
 <li>www.linkedin.com (902)</li>
-<li>www.amazon.co.uk (879)</li>
+<li>www.amazon.co.uk (878)</li>
 <li>calendar.google.com (706)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (648)</li>
+<li>login.microsoftonline.com (647)</li>
 <li>moodle.royalholloway.ac.uk (592)</li>
 <li>tvtropes.org (574)</li>
 <li>rhul-my.sharepoint.com (564)</li>
@@ -18026,8 +18026,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:12 www.facebook.com</li>
 <li> 20:11 www.thingiverse.com</li>
 <li class='same'> 20:10 www.thingiverse.com</li>
-<li> 20:10 www.amazon.co.uk</li>
-<li class='same'> 20:09 www.amazon.co.uk</li>
+<li> 20:09 www.amazon.co.uk</li>
 <li class='same'> 20:08 www.amazon.co.uk</li>
 <li> 20:08 www.thingiverse.com</li>
 <li class='same'> 20:07 www.thingiverse.com</li>
@@ -18037,8 +18036,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:05 www.thingiverse.com</li>
 <li class='same'> 20:04 www.thingiverse.com</li>
 <li> 20:04 mail.google.com</li>
-<li> 20:04 outlook.office365.com</li>
-<li> 20:04 login.microsoftonline.com</li>
 <li> 20:04 outlook.office365.com</li>
 <li> 20:03 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 19:55 <a href="https://www.bbc.co.uk/sport/football/live/cn919yx8lxwt">Liverpool 2-2 Arsenal LIVE: Premier League score, team news & updates - BBC Sport</a></li>
