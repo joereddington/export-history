@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3520)</li>
 <li>mail.google.com (3465)</li>
 <li>outlook.office.com (3203)</li>
-<li>www.reddit.com (2786)</li>
+<li>www.reddit.com (2792)</li>
 <li>outlook.office365.com (2480)</li>
 <li>docs.google.com (2326)</li>
 <li>duckduckgo.com (1585)</li>
@@ -82,29 +82,70 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (878)</li>
 <li>calendar.google.com (706)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (647)</li>
-<li>moodle.royalholloway.ac.uk (592)</li>
+<li>login.microsoftonline.com (651)</li>
+<li>moodle.royalholloway.ac.uk (596)</li>
 <li>tvtropes.org (574)</li>
-<li>rhul-my.sharepoint.com (564)</li>
+<li>rhul-my.sharepoint.com (566)</li>
 <li>gmail.com (539)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (478)</li>
 <li>chat.openai.com (443)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (391)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (392)</li>
 <li>drive.google.com (365)</li>
 <li>feedly.com (324)</li>
 <li>fritz.box (292)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (288)</li>
 <li>whitewaterwriters.com (274)</li>
-<li>forms.office.com (259)</li>
+<li>forms.office.com (263)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Monday, 11/08/25</H3>
+
+<br>
+
+<ul><li> 08:44 www.reddit.com</li>
+<li class='same'> 08:43 www.reddit.com</li>
+<li class='same'> 08:41 www.reddit.com</li>
+<li class='same'> 08:38 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:00 rhul-my.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:52 www.reddit.com</li>
+<li class='same'> 06:51 www.reddit.com</li>
+<li> 06:50 forms.office.com</li>
+<li> 06:50 login.microsoftonline.com</li>
+<li> 06:50 forms.office.com</li>
+<li> 06:50 login.microsoftonline.com</li>
+<li> 06:50 forms.office.com</li>
+<li> 06:50 rhul-my.sharepoint.com</li>
+<li> 06:50 moodle.royalholloway.ac.uk</li>
+<li> 06:49 www.microsoft.com</li>
+<li> 06:49 forms.office.com</li>
+<li> 06:49 moodle.royalholloway.ac.uk</li>
+<li> 06:49 login.microsoftonline.com</li>
+<li> 06:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:49 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 06:49 login.microsoftonline.com</li>
+<li> 06:49 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:48 moodle.royalholloway.ac.uk</li>
+</ul>
+
 <H3>Saturday, 09/08/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -17771,9 +17812,7 @@ With number of accesses/minutes in parentheses
 <li> 17:16 outlook.office365.com</li>
 <li> 17:16 mail.google.com</li>
 <li> 17:05 www.thingiverse.com</li>
-<li> 17:05 www.ebay.co.uk</li>
-<li class='same'> 17:04 www.ebay.co.uk</li>
-<li class='same'> 17:03 www.ebay.co.uk</li>
+<li> 17:03 www.ebay.co.uk</li>
 <li> 17:01 www.thingiverse.com</li>
 <li> 17:01 www.amazon.co.uk</li>
 <li class='same'> 17:00 www.amazon.co.uk</li>
