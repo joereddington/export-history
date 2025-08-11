@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3520)</li>
 <li>mail.google.com (3465)</li>
 <li>outlook.office.com (3203)</li>
-<li>www.reddit.com (2792)</li>
+<li>www.reddit.com (2793)</li>
 <li>outlook.office365.com (2480)</li>
 <li>docs.google.com (2326)</li>
 <li>duckduckgo.com (1585)</li>
@@ -90,9 +90,9 @@ With number of accesses/minutes in parentheses
 <li>github.com (495)</li>
 <li>web.whatsapp.com (478)</li>
 <li>chat.openai.com (443)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (392)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (393)</li>
 <li>drive.google.com (365)</li>
-<li>feedly.com (324)</li>
+<li>feedly.com (325)</li>
 <li>fritz.box (292)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (288)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:44 www.reddit.com</li>
+<ul><li> 08:54 feedly.com</li>
+<li> 08:53 www.reddit.com</li>
+<li> 08:52 <a href="https://www.theguardian.com/education/2025/aug/11/a-level-results-in-england-expected-to-return-to-near-pre-pandemic-levels">A-level results in England expected to return to near pre-pandemic levels | A-levels | The Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 08:44 www.reddit.com</li>
 <li class='same'> 08:43 www.reddit.com</li>
 <li class='same'> 08:41 www.reddit.com</li>
 <li class='same'> 08:38 www.reddit.com</li>
