@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3520)</li>
+<ol><li>www.google.com (3518)</li>
 <li>mail.google.com (3465)</li>
 <li>outlook.office.com (3203)</li>
 <li>www.reddit.com (2793)</li>
-<li>outlook.office365.com (2480)</li>
+<li>outlook.office365.com (2479)</li>
 <li>docs.google.com (2326)</li>
 <li>duckduckgo.com (1585)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1030)</li>
-<li>www.linkedin.com (902)</li>
+<li>www.linkedin.com (901)</li>
 <li>www.amazon.co.uk (878)</li>
 <li>calendar.google.com (706)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (651)</li>
+<li>login.microsoftonline.com (650)</li>
 <li>moodle.royalholloway.ac.uk (596)</li>
 <li>tvtropes.org (574)</li>
 <li>rhul-my.sharepoint.com (566)</li>
@@ -17430,7 +17430,6 @@ With number of accesses/minutes in parentheses
 <li> 18:44 account.prusa3d.com</li>
 <li class='same'> 18:43 account.prusa3d.com</li>
 <li> 18:43 www.printables.com</li>
-<li> 18:43 www.google.com</li>
 <li> 18:43 account.prusa3d.com</li>
 <li> 18:43 mail.google.com</li>
 <li> 18:43 accounts.google.com</li>
@@ -17557,8 +17556,6 @@ With number of accesses/minutes in parentheses
 <li> 13:00 www.thingiverse.com</li>
 <li> 12:59 mail.google.com</li>
 <li> 12:58 service.directlineforbusiness.co.uk</li>
-<li> 12:58 www.google.com</li>
-<li> 12:58 service.directlineforbusiness.co.uk</li>
 <li> 12:58 mail.google.com</li>
 <li> 12:57 www.thingiverse.com</li>
 <li class='same'> 12:56 www.thingiverse.com</li>
@@ -17631,7 +17628,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:59 www.linkedin.com</li>
 <li class='same'> 10:58 www.linkedin.com</li>
 <li class='same'> 10:57 www.linkedin.com</li>
-<li class='same'> 10:56 www.linkedin.com</li>
 <li> 10:56 uk.linkedin.com</li>
 <li> 10:56 www.linkedin.com</li>
 <li> 10:56 duckduckgo.com</li>
@@ -17710,8 +17706,6 @@ With number of accesses/minutes in parentheses
 <li> 07:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:18 outlook.office365.com</li>
 <li class='same'> 07:17 outlook.office365.com</li>
-<li> 07:17 login.microsoftonline.com</li>
-<li> 07:17 outlook.office365.com</li>
 <li> 07:08 <a href="https://www.youtube.com/shorts/S-AWAh4B2W4">YouTube</a></li>
 <li> 06:53 <a href="https://www.theguardian.com/tv-and-radio/2025/may/13/the-liver-king-review-brian-johnson">The Liver King review – I am rarely this nauseated by anything | Television | The Guardian</a></li>
 <li> 06:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
