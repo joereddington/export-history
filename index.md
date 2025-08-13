@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3465)</li>
 <li>outlook.office.com (3203)</li>
 <li>www.reddit.com (2793)</li>
-<li>outlook.office365.com (2479)</li>
+<li>outlook.office365.com (2478)</li>
 <li>docs.google.com (2326)</li>
 <li>duckduckgo.com (1585)</li>
 <li>bsky.app (1580)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (878)</li>
 <li>calendar.google.com (706)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (650)</li>
+<li>login.microsoftonline.com (649)</li>
 <li>moodle.royalholloway.ac.uk (596)</li>
 <li>tvtropes.org (574)</li>
 <li>rhul-my.sharepoint.com (566)</li>
@@ -17142,7 +17142,6 @@ With number of accesses/minutes in parentheses
 <li> 20:12 publish.buffer.com</li>
 <li> 20:12 login.buffer.com</li>
 <li> 20:12 buffer.com</li>
-<li> 20:12 www.paypal.com</li>
 <li> 20:10 lyleskains.com</li>
 <li> 20:10 staffprofiles.bournemouth.ac.uk</li>
 <li> 20:10 pay.ebay.co.uk</li>
@@ -17312,8 +17311,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:07 www.facebook.com</li>
 <li class='same'> 09:03 www.facebook.com</li>
 <li> 09:03 mail.google.com</li>
-<li> 09:03 outlook.office365.com</li>
-<li> 09:03 login.microsoftonline.com</li>
 <li> 09:03 outlook.office365.com</li>
 </ul>
 
