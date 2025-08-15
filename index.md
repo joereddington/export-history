@@ -68,43 +68,185 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3518)</li>
+<ol><li>www.google.com (3540)</li>
 <li>mail.google.com (3465)</li>
 <li>outlook.office.com (3203)</li>
-<li>www.reddit.com (2793)</li>
-<li>outlook.office365.com (2478)</li>
+<li>www.reddit.com (2810)</li>
+<li>outlook.office365.com (2477)</li>
 <li>docs.google.com (2326)</li>
 <li>duckduckgo.com (1585)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1030)</li>
-<li>www.linkedin.com (901)</li>
+<li>www.linkedin.com (903)</li>
 <li>www.amazon.co.uk (878)</li>
 <li>calendar.google.com (706)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (649)</li>
-<li>moodle.royalholloway.ac.uk (596)</li>
-<li>tvtropes.org (574)</li>
+<li>login.microsoftonline.com (647)</li>
+<li>moodle.royalholloway.ac.uk (597)</li>
+<li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (566)</li>
 <li>gmail.com (539)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (478)</li>
 <li>chat.openai.com (443)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (393)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (402)</li>
 <li>drive.google.com (365)</li>
 <li>feedly.com (325)</li>
 <li>fritz.box (292)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (288)</li>
 <li>whitewaterwriters.com (274)</li>
-<li>forms.office.com (263)</li>
+<li>forms.office.com (262)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Thursday, 14/08/25</H3>
+
+<br>
+
+<ul><li> 20:36 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:28 www.reddit.com</li>
+<li class='same'> 18:24 www.reddit.com</li>
+<li class='same'> 18:22 www.reddit.com</li>
+<li> 18:22 www.google.com</li>
+<li> 18:22 www.arosetintedworld.co.uk</li>
+<li class='same'> 18:21 www.arosetintedworld.co.uk</li>
+<li> 18:21 www.google.com</li>
+<li class='same'> 18:19 www.google.com</li>
+<li class='same'> 18:18 www.google.com</li>
+<li> 18:18 <a href="https://www.theguardian.com/uk-news/2025/aug/14/southport-victim-reveal-ethnicity-suspects-farage">Family of Southport stabbing victim criticise plan to reveal ethnicity of suspects | UK news | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:11 <a href="https://www.theguardian.com/uk-news/2025/aug/14/southport-victim-reveal-ethnicity-suspects-farage">Family of Southport stabbing victim criticise plan to reveal ethnicity of suspects | UK news | The Guardian</a></li>
+<li> 12:11 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 12:11 <a href="https://www.theguardian.com/uk-news/2025/aug/14/southport-victim-reveal-ethnicity-suspects-farage">Family of Southport stabbing victim criticise plan to reveal ethnicity of suspects | UK news | The Guardian</a></li>
+<li> 12:11 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 12:11 <a href="https://www.theguardian.com/uk-news/2025/aug/14/southport-victim-reveal-ethnicity-suspects-farage">Family of Southport stabbing victim criticise plan to reveal ethnicity of suspects | UK news | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:35 <a href="https://www.theguardian.com/uk-news/2025/aug/14/southport-victim-reveal-ethnicity-suspects-farage">Family of Southport stabbing victim criticise plan to reveal ethnicity of suspects | UK news | The Guardian</a></li>
+<li> 11:34 <a href="https://www.theguardian.com/education/2025/aug/14/record-a-level-students-top-grades-england">Record proportion of A-level students get top grades in England | A-levels | The Guardian</a></li>
+<li> 11:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li class='same'> 11:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 10:28 www.google.com</li>
+<li class='same'> 10:27 www.google.com</li>
+<li> 10:27 <a href="https://www.theguardian.com/business/2025/aug/13/claires-appoint-administrator-uk-ireland-jobs-risk">Claire’s to appoint administrator in UK and Ireland, putting 2,150 jobs at risk | Retail industry | The Guardian</a></li>
+</ul>
+
+<H3>Wednesday, 13/08/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 17:25 <a href="https://www.theguardian.com/business/2025/aug/13/claires-appoint-administrator-uk-ireland-jobs-risk">Claire’s to appoint administrator in UK and Ireland, putting 2,150 jobs at risk | Retail industry | The Guardian</a></li>
+<li> 17:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:24 <a href="https://www.theguardian.com/politics/2025/aug/13/david-lammy-watchdog-illegal-fishing-without-license-jd-vance">Lammy refers himself to watchdog after fishing illegally with JD Vance | David Lammy | The Guardian</a></li>
+<li> 17:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:24 <a href="https://www.theguardian.com/money/2025/aug/13/inheritance-tax-how-does-it-work-and-what-may-be-changing">Inheritance tax: how does it work and what may be changing? | Inheritance tax | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:51 <a href="https://www.theguardian.com/money/2025/aug/13/inheritance-tax-how-does-it-work-and-what-may-be-changing">Inheritance tax: how does it work and what may be changing? | Inheritance tax | The Guardian</a></li>
+<li> 13:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:50 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 13:50 <a href="https://www.theguardian.com/law/2025/aug/13/trump-administration-accuses-uk-of-failing-to-uphold-human-rights">Trump administration accuses UK of failing to uphold human rights | Trump administration | The Guardian</a></li>
+<li class='same'> 13:31 <a href="https://www.theguardian.com/law/2025/aug/13/trump-administration-accuses-uk-of-failing-to-uphold-human-rights">Trump administration accuses UK of failing to uphold human rights | Trump administration | The Guardian</a></li>
+<li> 13:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 07:37 tvtropes.org</li>
+<li class='same'> 07:36 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:51 tvtropes.org</li>
+<li class='same'> 06:50 tvtropes.org</li>
+</ul>
+
+<H3>Tuesday, 12/08/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:58 www.google.com</li>
+<li class='same'> 20:57 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:02 www.google.com</li>
+<li class='same'> 20:01 www.google.com</li>
+<li class='same'> 19:37 www.google.com</li>
+<li class='same'> 19:36 www.google.com</li>
+<li class='same'> 19:35 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:06 www.reddit.com</li>
+<li class='same'> 14:59 www.reddit.com</li>
+<li class='same'> 14:41 www.reddit.com</li>
+<li class='same'> 14:39 www.reddit.com</li>
+<li class='same'> 14:38 www.reddit.com</li>
+<li class='same'> 14:37 www.reddit.com</li>
+<li class='same'> 14:36 www.reddit.com</li>
+<li class='same'> 14:35 www.reddit.com</li>
+<li class='same'> 14:34 www.reddit.com</li>
+<li class='same'> 14:33 www.reddit.com</li>
+<li class='same'> 14:32 www.reddit.com</li>
+<li class='same'> 14:31 www.reddit.com</li>
+<li> 14:31 www.google.com</li>
+<li class='same'> 14:30 www.google.com</li>
+<li> 14:30 www.reddit.com</li>
+<li> 14:29 www.google.com</li>
+<li> 14:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:28 <a href="https://www.theguardian.com/culture/2025/aug/12/imperial-war-museum-criticism-caption-holocaust-display">Imperial War Museum rejects criticism of caption in Holocaust display | Imperial War Museums | The Guardian</a></li>
+<li> 14:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:26 <a href="https://www.theguardian.com/money/2025/aug/11/airbnb-abusive-ex-partner">Airbnb added to the shame I felt after suffering years of domestic abuse | Money | The Guardian</a></li>
+<li> 14:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:25 <a href="https://www.theguardian.com/stage/2025/aug/11/bad-dates-and-bath-bombs-10-of-the-funniest-jokes-from-the-edinburgh-fringe-2025">Bad dates and bath bombs: 10 of the funniest jokes from the Edinburgh fringe 2025 | Edinburgh festival 2025 | The Guardian</a></li>
+<li> 14:19 <a href="https://www.theguardian.com/books/2025/aug/12/frankly-by-nicola-sturgeon-review-the-ex-first-minister-opens-up">Frankly by Nicola Sturgeon review – the ex-first minister opens up | Autobiography and memoir | The Guardian</a></li>
+<li> 14:18 <a href="https://www.theguardian.com/australia-news/2025/aug/12/do-not-buy-these-flats-residents-warn-about-unbearable-heat-inside-london-new-builds">‘Do not buy these flats’: residents warn about unbearable heat inside London new-builds | Extreme heat | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 09:07 www.tripadvisor.co.uk</li>
+<li> 09:07 www.google.com</li>
+<li class='same'> 09:06 www.google.com</li>
+</ul>
+
 <H3>Monday, 11/08/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -146,6 +288,37 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:48 moodle.royalholloway.ac.uk</li>
 </ul>
 
+<H3>Sunday, 10/08/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:06 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:20 <a href="https://www.theguardian.com/commentisfree/2025/aug/10/you-can-mute-but-you-can-never-leave-why-have-whatsapp-groups-become-so-stressful">You can mute – but you can never leave. Why have WhatsApp groups become so stressful? | Polly Hudson | The Guardian</a></li>
+<li> 14:20 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+</ul>
+
+<br>
+
+<ul><li> 11:52 <a href="https://www.theguardian.com/commentisfree/2025/aug/10/you-can-mute-but-you-can-never-leave-why-have-whatsapp-groups-become-so-stressful">You can mute – but you can never leave. Why have WhatsApp groups become so stressful? | Polly Hudson | The Guardian</a></li>
+<li> 11:51 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:09 www.google.com</li>
+<li> 07:07 www.grimdarkmagazine.com</li>
+<li> 07:07 www.google.com</li>
+<li> 07:07 www.linkedin.com</li>
+</ul>
+
 <H3>Saturday, 09/08/25</H3>
 
 <br>
@@ -164,7 +337,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:30 feedly.com</li>
 <li> 08:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:30 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
-<li> 08:25 www.linkedin.com</li>
+<li> 08:26 www.linkedin.com</li>
+<li class='same'> 08:25 www.linkedin.com</li>
 <li> 08:05 duckduckgo.com</li>
 </ul>
 
@@ -17048,8 +17222,6 @@ With number of accesses/minutes in parentheses
 <li> 12:12 forms.office.com</li>
 <li> 12:12 login.microsoftonline.com</li>
 <li> 12:12 forms.office.com</li>
-<li> 12:12 login.microsoftonline.com</li>
-<li> 12:12 forms.office.com</li>
 <li> 12:12 outlook.office365.com</li>
 <li> 12:10 duckduckgo.com</li>
 <li> 12:08 outlook.office365.com</li>
@@ -17082,8 +17254,6 @@ With number of accesses/minutes in parentheses
 <li> 11:50 rhul-my.sharepoint.com</li>
 <li> 11:50 outlook.office365.com</li>
 <li class='same'> 11:49 outlook.office365.com</li>
-<li> 11:49 login.microsoftonline.com</li>
-<li> 11:49 outlook.office365.com</li>
 <li> 11:47 www.thingiverse.com</li>
 <li> 11:44 www.printables.com</li>
 <li class='same'> 11:43 www.printables.com</li>
@@ -65344,7 +65514,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:57 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:55 moodle.royalholloway.ac.uk</li>
 <li> 09:40 www.facebook.com</li>
-<li> 09:38 moodle.royalholloway.ac.uk</li>
+<li> 09:39 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:38 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:37 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:36 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:26 moodle.royalholloway.ac.uk</li>
