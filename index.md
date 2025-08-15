@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3540)</li>
-<li>mail.google.com (3468)</li>
-<li>outlook.office.com (3236)</li>
+<li>mail.google.com (3474)</li>
+<li>outlook.office.com (3238)</li>
 <li>www.reddit.com (2810)</li>
-<li>outlook.office365.com (2504)</li>
-<li>docs.google.com (2327)</li>
-<li>duckduckgo.com (1592)</li>
+<li>outlook.office365.com (2513)</li>
+<li>docs.google.com (2329)</li>
+<li>duckduckgo.com (1593)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1032)</li>
-<li>www.linkedin.com (910)</li>
+<li>www.linkedin.com (913)</li>
 <li>www.amazon.co.uk (878)</li>
-<li>calendar.google.com (709)</li>
+<li>calendar.google.com (710)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (660)</li>
 <li>moodle.royalholloway.ac.uk (597)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (573)</li>
-<li>gmail.com (540)</li>
+<li>gmail.com (541)</li>
 <li>github.com (495)</li>
-<li>web.whatsapp.com (479)</li>
+<li>web.whatsapp.com (482)</li>
 <li>chat.openai.com (445)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (405)</li>
 <li>drive.google.com (365)</li>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:32 outlook.office365.com</li>
+<ul><li> 14:30 <a href="https://www.theguardian.com/commentisfree/2025/aug/14/university-teenagers-student-debt-graduate-britain">As thousands more teenagers scramble for university places, I have to ask – why? | Simon Jenkins | The Guardian</a></li>
+<li> 14:29 <a href="https://www.theguardian.com/books/2025/apr/23/luminous-by-silvia-park-review-a-major-new-voice-in-sf">Luminous by Silvia Park review – a major new voice in SF | Science fiction books | The Guardian</a></li>
+<li> 14:29 <a href="https://www.theguardian.com/profile/adam-roberts">Adam Roberts | The Guardian</a></li>
+<li> 14:29 <a href="https://en.wikipedia.org/wiki/List_of_Doctor_Who_parodies">List of Doctor Who parodies - Wikipedia</a></li>
+<li> 14:29 <a href="https://en.wikipedia.org/wiki/Doctor_Who_spoofs">List of Doctor Who parodies - Wikipedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/wiki/Adam_Roberts_(British_writer)">Adam Roberts (British writer) - Wikipedia</a></li>
+<li> 14:25 duckduckgo.com</li>
+<li> 14:23 web.whatsapp.com</li>
+<li> 14:22 mail.google.com</li>
+<li> 14:22 gmail.com</li>
+<li> 14:21 web.whatsapp.com</li>
+<li> 14:18 www.linkedin.com</li>
+<li class='same'> 14:17 www.linkedin.com</li>
+<li> 14:16 calendar.google.com</li>
+<li> 14:16 www.linkedin.com</li>
+<li> 14:16 mail.google.com</li>
+<li> 14:15 themeads.org.uk</li>
+<li class='same'> 14:14 themeads.org.uk</li>
+<li> 14:13 docs.google.com</li>
+<li class='same'> 14:12 docs.google.com</li>
+<li> 14:12 mail.google.com</li>
+<li> 14:12 outlook.office.com</li>
+<li> 14:10 mail.google.com</li>
+<li> 14:10 outlook.office365.com</li>
+<li class='same'> 14:09 outlook.office365.com</li>
+<li class='same'> 14:07 outlook.office365.com</li>
+<li> 14:05 web.whatsapp.com</li>
+<li> 14:05 mail.google.com</li>
+<li> 14:05 outlook.office365.com</li>
+<li class='same'> 14:01 outlook.office365.com</li>
+<li> 14:00 mail.google.com</li>
+<li> 13:51 outlook.office365.com</li>
+<li class='same'> 13:46 outlook.office365.com</li>
+<li class='same'> 13:33 outlook.office365.com</li>
+<li class='same'> 13:32 outlook.office365.com</li>
+<li> 13:32 outlook.office.com</li>
+<li> 13:32 outlook.office365.com</li>
 <li class='same'> 13:29 outlook.office365.com</li>
 <li> 13:17 duckduckgo.com</li>
 <li> 13:16 outlook.office365.com</li>
