@@ -70,9 +70,9 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3540)</li>
 <li>mail.google.com (3465)</li>
-<li>outlook.office.com (3212)</li>
+<li>outlook.office.com (3223)</li>
 <li>www.reddit.com (2810)</li>
-<li>outlook.office365.com (2496)</li>
+<li>outlook.office365.com (2497)</li>
 <li>docs.google.com (2326)</li>
 <li>duckduckgo.com (1587)</li>
 <li>bsky.app (1580)</li>
@@ -80,9 +80,9 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1032)</li>
 <li>www.linkedin.com (910)</li>
 <li>www.amazon.co.uk (878)</li>
-<li>calendar.google.com (706)</li>
+<li>calendar.google.com (708)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (656)</li>
+<li>login.microsoftonline.com (657)</li>
 <li>moodle.royalholloway.ac.uk (597)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (572)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (495)</li>
 <li>web.whatsapp.com (479)</li>
 <li>chat.openai.com (445)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (404)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (405)</li>
 <li>drive.google.com (365)</li>
 <li>feedly.com (326)</li>
 <li>fritz.box (292)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:17 herts.instructure.com</li>
+<ul><li> 11:26 outlook.office.com</li>
+<li class='same'> 11:25 outlook.office.com</li>
+<li class='same'> 11:22 outlook.office.com</li>
+<li class='same'> 11:21 outlook.office.com</li>
+<li class='same'> 11:20 outlook.office.com</li>
+<li class='same'> 11:06 outlook.office.com</li>
+<li> 11:05 herts.instructure.com</li>
+<li class='same'> 11:04 herts.instructure.com</li>
+<li> 11:04 outlook.office.com</li>
+<li> 11:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:03 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 11:01 outlook.office.com</li>
+<li> 10:55 herts.instructure.com</li>
+<li> 10:55 calendar.google.com</li>
+<li class='same'> 10:54 calendar.google.com</li>
+<li> 10:49 outlook.office.com</li>
+<li> 10:48 m365.cloud.microsoft</li>
+<li> 10:48 login.microsoftonline.com</li>
+<li> 10:48 eu-west.azureauth.duosecurity.com</li>
+<li> 10:48 api-b6327e78.duosecurity.com</li>
+<li> 10:48 adfs.herts.ac.uk</li>
+<li> 10:48 outlook.office.com</li>
+<li> 10:47 herts.instructure.com</li>
+<li class='same'> 10:46 herts.instructure.com</li>
+<li> 10:46 outlook.office.com</li>
+<li> 10:38 <a href="https://xkcd.com/simplewriter/"></a></li>
+<li> 10:38 outlook.office365.com</li>
+<li> 10:17 herts.instructure.com</li>
 <li class='same'> 10:16 herts.instructure.com</li>
 <li class='same'> 10:14 herts.instructure.com</li>
 <li> 10:14 adfs.herts.ac.uk</li>
