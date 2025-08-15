@@ -70,41 +70,156 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3540)</li>
 <li>mail.google.com (3465)</li>
-<li>outlook.office.com (3203)</li>
+<li>outlook.office.com (3212)</li>
 <li>www.reddit.com (2810)</li>
-<li>outlook.office365.com (2477)</li>
+<li>outlook.office365.com (2496)</li>
 <li>docs.google.com (2326)</li>
-<li>duckduckgo.com (1585)</li>
+<li>duckduckgo.com (1587)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
-<li>chatgpt.com (1030)</li>
-<li>www.linkedin.com (903)</li>
+<li>chatgpt.com (1032)</li>
+<li>www.linkedin.com (910)</li>
 <li>www.amazon.co.uk (878)</li>
 <li>calendar.google.com (706)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (647)</li>
+<li>login.microsoftonline.com (656)</li>
 <li>moodle.royalholloway.ac.uk (597)</li>
 <li>tvtropes.org (578)</li>
-<li>rhul-my.sharepoint.com (566)</li>
+<li>rhul-my.sharepoint.com (572)</li>
 <li>gmail.com (539)</li>
 <li>github.com (495)</li>
-<li>web.whatsapp.com (478)</li>
-<li>chat.openai.com (443)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (402)</li>
+<li>web.whatsapp.com (479)</li>
+<li>chat.openai.com (445)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (404)</li>
 <li>drive.google.com (365)</li>
-<li>feedly.com (325)</li>
+<li>feedly.com (326)</li>
 <li>fritz.box (292)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (288)</li>
 <li>whitewaterwriters.com (274)</li>
-<li>forms.office.com (262)</li>
+<li>forms.office.com (264)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Friday, 15/08/25</H3>
+
+<br>
+
+<ul><li> 10:17 herts.instructure.com</li>
+<li class='same'> 10:16 herts.instructure.com</li>
+<li class='same'> 10:14 herts.instructure.com</li>
+<li> 10:14 adfs.herts.ac.uk</li>
+<li> 10:14 herts.instructure.com</li>
+<li> 10:08 outlook.office.com</li>
+<li class='same'> 10:07 outlook.office.com</li>
+<li> 10:06 outlook.office365.com</li>
+<li> 10:05 outlook.office.com</li>
+<li> 10:05 outlook.office365.com</li>
+<li class='same'> 10:03 outlook.office365.com</li>
+<li class='same'> 10:02 outlook.office365.com</li>
+<li> 10:02 rhul-my.sharepoint.com</li>
+<li> 09:59 www.linkedin.com</li>
+<li> 09:56 chatgpt.com</li>
+<li> 09:56 chat.openai.com</li>
+<li> 09:56 riscs.org.uk</li>
+<li> 09:56 www.linkedin.com</li>
+<li> 09:56 outlook.office365.com</li>
+<li class='same'> 09:54 outlook.office365.com</li>
+<li> 09:54 outlook.office.com</li>
+<li> 09:53 herts365-my.sharepoint.com</li>
+<li> 09:53 t1b.gobright.cloud</li>
+<li> 09:53 eu-west.azureauth.duosecurity.com</li>
+<li> 09:53 api-b6327e78.duosecurity.com</li>
+<li> 09:52 login.microsoftonline.com</li>
+<li> 09:52 t1b.gobright.cloud</li>
+<li> 09:52 portal.gobright.cloud</li>
+<li> 09:52 login.microsoftonline.com</li>
+<li> 09:52 t1b.gobright.cloud</li>
+<li> 09:52 portal.gobright.cloud</li>
+<li> 09:52 t1b.gobright.cloud</li>
+<li> 09:52 portal.gobright.cloud</li>
+<li> 09:50 outlook.office.com</li>
+<li> 09:50 m365.cloud.microsoft</li>
+<li> 09:50 login.microsoftonline.com</li>
+<li> 09:50 eu-west.azureauth.duosecurity.com</li>
+<li> 09:50 api-b6327e78.duosecurity.com</li>
+<li> 09:50 adfs.herts.ac.uk</li>
+<li> 09:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:50 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+</ul>
+
+<br>
+
+<ul><li> 08:13 outlook.office365.com</li>
+<li class='same'> 08:06 outlook.office365.com</li>
+<li class='same'> 08:03 outlook.office365.com</li>
+<li> 08:02 dashboards.rhul.ac.uk</li>
+<li> 07:54 www.linkedin.com</li>
+<li> 07:53 web.whatsapp.com</li>
+<li> 07:53 dashboards.rhul.ac.uk</li>
+<li> 07:52 outlook.office365.com</li>
+<li> 07:49 rhul-my.sharepoint.com</li>
+<li> 07:49 outlook.office365.com</li>
+<li class='same'> 07:48 outlook.office365.com</li>
+<li class='same'> 07:45 outlook.office365.com</li>
+<li> 07:35 forms.office.com</li>
+<li> 07:35 login.microsoftonline.com</li>
+<li> 07:35 forms.office.com</li>
+<li> 07:31 rhul-my.sharepoint.com</li>
+<li> 07:31 outlook.office365.com</li>
+<li> 07:28 chatgpt.com</li>
+<li> 07:28 chat.openai.com</li>
+<li> 07:27 rhul-my.sharepoint.com</li>
+<li> 07:27 login.microsoftonline.com</li>
+<li> 07:27 rhul-my.sharepoint.com</li>
+<li> 07:27 outlook.office365.com</li>
+<li class='same'> 07:26 outlook.office365.com</li>
+<li> 07:03 jobs.royalholloway.ac.uk</li>
+<li> 07:01 www.giantitp.com</li>
+<li> 07:00 feedly.com</li>
+<li> 06:46 <a href="https://www.theguardian.com/news/2025/aug/14/how-to-leave-a-sinking-nation-tuvalus-dreams-of-dry-land">How to leave a sinking nation: Tuvalu’s dreams of dry land | Tuvalu | The Guardian</a></li>
+<li> 06:45 outlook.office.com</li>
+<li class='same'> 06:44 outlook.office.com</li>
+<li> 06:42 herts365-my.sharepoint.com</li>
+<li> 06:42 login.microsoftonline.com</li>
+<li> 06:42 herts365-my.sharepoint.com</li>
+<li> 06:42 outlook.office.com</li>
+<li> 06:42 www.linkedin.com</li>
+<li class='same'> 06:41 www.linkedin.com</li>
+<li class='same'> 06:40 www.linkedin.com</li>
+<li> 06:40 outlook.office.com</li>
+<li> 06:40 m365.cloud.microsoft</li>
+<li> 06:40 outlook.office365.com</li>
+<li> 06:40 www.linkedin.com</li>
+<li> 06:39 m365.cloud.microsoft</li>
+<li> 06:39 login.microsoftonline.com</li>
+<li> 06:39 eu-west.azureauth.duosecurity.com</li>
+<li> 06:39 api-b6327e78.duosecurity.com</li>
+<li> 06:39 adfs.herts.ac.uk</li>
+<li> 06:39 api-b6327e78.duosecurity.com</li>
+<li> 06:39 adfs.herts.ac.uk</li>
+<li> 06:23 outlook.office365.com</li>
+<li> 06:23 login.microsoftonline.com</li>
+<li> 06:23 outlook.office365.com</li>
+<li> 06:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:22 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 06:22 api-b6327e78.duosecurity.com</li>
+<li> 06:22 adfs.herts.ac.uk</li>
+<li> 06:20 rhul.sharepoint.com</li>
+<li> 06:20 login.microsoftonline.com</li>
+<li> 06:18 duckduckgo.com</li>
+<li class='same'> 06:17 duckduckgo.com</li>
+<li> 06:17 adblockplus.org</li>
+</ul>
+
 <H3>Thursday, 14/08/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -16998,7 +17113,6 @@ With number of accesses/minutes in parentheses
 <li> 16:50 www.amazon.co.uk</li>
 <li class='same'> 16:49 www.amazon.co.uk</li>
 <li> 16:49 www.ebay.co.uk</li>
-<li class='same'> 16:45 www.ebay.co.uk</li>
 <li class='same'> 16:44 www.ebay.co.uk</li>
 <li class='same'> 16:43 www.ebay.co.uk</li>
 <li> 16:41 www.reddit.com</li>
@@ -17014,8 +17128,7 @@ With number of accesses/minutes in parentheses
 <li> 16:28 www.facebook.com</li>
 <li> 16:24 www.thingiverse.com</li>
 <li> 16:24 pay.ebay.co.uk</li>
-<li> 16:16 www.ebay.co.uk</li>
-<li class='same'> 16:15 www.ebay.co.uk</li>
+<li> 16:15 www.ebay.co.uk</li>
 <li class='same'> 16:14 www.ebay.co.uk</li>
 <li> 16:14 www.amazon.co.uk</li>
 <li class='same'> 16:13 www.amazon.co.uk</li>
@@ -17104,8 +17217,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:20 support.bcn3d.com</li>
 <li> 13:20 www.bcn3d.com</li>
 <li> 13:20 duckduckgo.com</li>
-<li> 13:20 rhul.sharepoint.com</li>
-<li class='same'> 13:19 rhul.sharepoint.com</li>
+<li> 13:19 rhul.sharepoint.com</li>
 <li> 13:15 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 13:15 www.linkedin.com</li>
 <li> 13:15 www.reddit.com</li>
@@ -63420,7 +63532,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:29 royalhollowayucu.wordpress.com</li>
-<li> 11:28 jobs.royalholloway.ac.uk</li>
+<li> 11:29 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:28 jobs.royalholloway.ac.uk</li>
 <li> 11:28 www.google.com</li>
 <li> 11:26 calendar.google.com</li>
 <li> 11:06 gitlab.cim.rhul.ac.uk</li>
@@ -64343,6 +64456,7 @@ With number of accesses/minutes in parentheses
 <li> 11:49 forum.artofmemory.com</li>
 <li class='same'> 11:43 forum.artofmemory.com</li>
 <li> 11:43 mail.google.com</li>
+<li> 11:36 rhul-my.sharepoint.com</li>
 <li> 11:35 outlook.office.com</li>
 <li> 11:30 <a href="https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack">Colonial Pipeline ransomware attack - Wikipedia</a></li>
 <li> 11:18 moodle.royalholloway.ac.uk</li>
