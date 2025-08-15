@@ -69,33 +69,33 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3540)</li>
-<li>mail.google.com (3465)</li>
-<li>outlook.office.com (3223)</li>
+<li>mail.google.com (3468)</li>
+<li>outlook.office.com (3234)</li>
 <li>www.reddit.com (2810)</li>
-<li>outlook.office365.com (2497)</li>
-<li>docs.google.com (2326)</li>
-<li>duckduckgo.com (1587)</li>
+<li>outlook.office365.com (2501)</li>
+<li>docs.google.com (2327)</li>
+<li>duckduckgo.com (1589)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1032)</li>
 <li>www.linkedin.com (910)</li>
 <li>www.amazon.co.uk (878)</li>
-<li>calendar.google.com (708)</li>
+<li>calendar.google.com (709)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (657)</li>
+<li>login.microsoftonline.com (659)</li>
 <li>moodle.royalholloway.ac.uk (597)</li>
 <li>tvtropes.org (578)</li>
-<li>rhul-my.sharepoint.com (572)</li>
-<li>gmail.com (539)</li>
+<li>rhul-my.sharepoint.com (573)</li>
+<li>gmail.com (540)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (479)</li>
 <li>chat.openai.com (445)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (405)</li>
 <li>drive.google.com (365)</li>
-<li>feedly.com (326)</li>
+<li>feedly.com (328)</li>
 <li>fritz.box (292)</li>
 <li>forum.artofmemory.com (289)</li>
-<li>rhul.sharepoint.com (288)</li>
+<li>rhul.sharepoint.com (289)</li>
 <li>whitewaterwriters.com (274)</li>
 <li>forms.office.com (264)</li>
 
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:26 outlook.office.com</li>
+<ul><li> 12:25 mail.google.com</li>
+<li class='same'> 12:24 mail.google.com</li>
+<li> 12:21 outlook.office.com</li>
+<li> 12:21 m365.cloud.microsoft</li>
+<li> 12:21 login.microsoftonline.com</li>
+<li> 12:21 eu-west.azureauth.duosecurity.com</li>
+<li> 12:21 api-b6327e78.duosecurity.com</li>
+<li class='same'> 12:20 api-b6327e78.duosecurity.com</li>
+<li> 12:20 adfs.herts.ac.uk</li>
+<li> 12:20 mail.google.com</li>
+<li> 12:20 gmail.com</li>
+<li> 12:19 outlook.office365.com</li>
+<li> 12:18 jobs.royalholloway.ac.uk</li>
+<li> 12:18 feedly.com</li>
+<li class='same'> 12:17 feedly.com</li>
+<li> 12:16 docs.google.com</li>
+<li> 12:16 calendar.google.com</li>
+<li> 12:15 outlook.office.com</li>
+<li> 11:58 rhul-my.sharepoint.com</li>
+<li> 11:58 outlook.office365.com</li>
+<li> 11:57 researchportal.plymouth.ac.uk</li>
+<li> 11:57 www.plymouth.ac.uk</li>
+<li class='same'> 11:55 www.plymouth.ac.uk</li>
+<li> 11:55 duckduckgo.com</li>
+<li> 11:54 outlook.office365.com</li>
+<li> 11:53 rhul.sharepoint.com</li>
+<li> 11:53 outlook.office365.com</li>
+<li> 11:53 outlook.office.com</li>
+<li class='same'> 11:52 outlook.office.com</li>
+<li> 11:52 academic.oup.com</li>
+<li> 11:52 researchprofiles.herts.ac.uk</li>
+<li class='same'> 11:51 researchprofiles.herts.ac.uk</li>
+<li class='same'> 11:50 researchprofiles.herts.ac.uk</li>
+<li> 11:50 duckduckgo.com</li>
+<li> 11:46 outlook.office.com</li>
+<li class='same'> 11:42 outlook.office.com</li>
+<li class='same'> 11:37 outlook.office.com</li>
+<li class='same'> 11:34 outlook.office.com</li>
+<li class='same'> 11:33 outlook.office.com</li>
+<li> 11:33 m365.cloud.microsoft</li>
+<li> 11:33 login.microsoftonline.com</li>
+<li> 11:33 eu-west.azureauth.duosecurity.com</li>
+<li> 11:33 api-b6327e78.duosecurity.com</li>
+<li> 11:33 adfs.herts.ac.uk</li>
+<li> 11:32 teams.microsoft.com</li>
+<li> 11:31 outlook.office.com</li>
+<li class='same'> 11:30 outlook.office.com</li>
+<li class='same'> 11:26 outlook.office.com</li>
 <li class='same'> 11:25 outlook.office.com</li>
 <li class='same'> 11:22 outlook.office.com</li>
 <li class='same'> 11:21 outlook.office.com</li>
