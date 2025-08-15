@@ -70,11 +70,11 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3540)</li>
 <li>mail.google.com (3468)</li>
-<li>outlook.office.com (3234)</li>
+<li>outlook.office.com (3236)</li>
 <li>www.reddit.com (2810)</li>
-<li>outlook.office365.com (2501)</li>
+<li>outlook.office365.com (2504)</li>
 <li>docs.google.com (2327)</li>
-<li>duckduckgo.com (1589)</li>
+<li>duckduckgo.com (1592)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1032)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (878)</li>
 <li>calendar.google.com (709)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (659)</li>
+<li>login.microsoftonline.com (660)</li>
 <li>moodle.royalholloway.ac.uk (597)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (573)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:25 mail.google.com</li>
+<ul><li> 13:32 outlook.office365.com</li>
+<li class='same'> 13:29 outlook.office365.com</li>
+<li> 13:17 duckduckgo.com</li>
+<li> 13:16 outlook.office365.com</li>
+<li> 13:13 duckduckgo.com</li>
+<li class='same'> 13:12 duckduckgo.com</li>
+<li> 12:47 herts.instructure.com</li>
+<li class='same'> 12:46 herts.instructure.com</li>
+<li> 12:46 outlook.office.com</li>
+<li> 12:46 herts.instructure.com</li>
+<li> 12:45 outlook.office.com</li>
+<li> 12:45 m365.cloud.microsoft</li>
+<li> 12:45 login.microsoftonline.com</li>
+<li> 12:45 eu-west.azureauth.duosecurity.com</li>
+<li> 12:45 api-b6327e78.duosecurity.com</li>
+<li> 12:45 adfs.herts.ac.uk</li>
+<li> 12:44 arxiv.org</li>
+<li class='same'> 12:43 arxiv.org</li>
+<li> 12:41 ev.turnitinuk.com</li>
+<li> 12:41 herts.instructure.com</li>
+<li class='same'> 12:37 herts.instructure.com</li>
+<li class='same'> 12:36 herts.instructure.com</li>
+<li class='same'> 12:35 herts.instructure.com</li>
+<li> 12:35 eu-west.azureauth.duosecurity.com</li>
+<li> 12:35 api-b6327e78.duosecurity.com</li>
+<li> 12:35 adfs.herts.ac.uk</li>
+<li> 12:25 mail.google.com</li>
 <li class='same'> 12:24 mail.google.com</li>
 <li> 12:21 outlook.office.com</li>
 <li> 12:21 m365.cloud.microsoft</li>
