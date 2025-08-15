@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3540)</li>
-<li>mail.google.com (3474)</li>
-<li>outlook.office.com (3238)</li>
+<ol><li>www.google.com (3542)</li>
+<li>mail.google.com (3481)</li>
+<li>outlook.office.com (3240)</li>
 <li>www.reddit.com (2810)</li>
 <li>outlook.office365.com (2513)</li>
-<li>docs.google.com (2329)</li>
+<li>docs.google.com (2331)</li>
 <li>duckduckgo.com (1593)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
-<li>chatgpt.com (1032)</li>
+<li>chatgpt.com (1033)</li>
 <li>www.linkedin.com (913)</li>
-<li>www.amazon.co.uk (878)</li>
+<li>www.amazon.co.uk (886)</li>
 <li>calendar.google.com (710)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (660)</li>
+<li>login.microsoftonline.com (661)</li>
 <li>moodle.royalholloway.ac.uk (597)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (573)</li>
-<li>gmail.com (541)</li>
+<li>gmail.com (542)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (482)</li>
-<li>chat.openai.com (445)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (405)</li>
+<li>chat.openai.com (446)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (406)</li>
 <li>drive.google.com (365)</li>
 <li>feedly.com (328)</li>
 <li>fritz.box (292)</li>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:30 <a href="https://www.theguardian.com/commentisfree/2025/aug/14/university-teenagers-student-debt-graduate-britain">As thousands more teenagers scramble for university places, I have to ask – why? | Simon Jenkins | The Guardian</a></li>
+<ul><li> 15:25 www.sibs.org.uk</li>
+<li> 15:19 chatgpt.com</li>
+<li> 15:19 chat.openai.com</li>
+<li> 15:17 docs.google.com</li>
+<li> 14:48 mail.google.com</li>
+<li> 14:47 www.amazon.co.uk</li>
+<li> 14:47 docs.google.com</li>
+<li> 14:47 mail.google.com</li>
+<li class='same'> 14:45 mail.google.com</li>
+<li> 14:45 www.amazon.co.uk</li>
+<li class='same'> 14:44 www.amazon.co.uk</li>
+<li class='same'> 14:43 www.amazon.co.uk</li>
+<li class='same'> 14:42 www.amazon.co.uk</li>
+<li class='same'> 14:41 www.amazon.co.uk</li>
+<li class='same'> 14:39 www.amazon.co.uk</li>
+<li class='same'> 14:38 www.amazon.co.uk</li>
+<li> 14:37 www.google.com</li>
+<li> 14:37 mail.google.com</li>
+<li class='same'> 14:36 mail.google.com</li>
+<li> 14:36 gmail.com</li>
+<li> 14:36 outlook.office.com</li>
+<li class='same'> 14:35 outlook.office.com</li>
+<li> 14:34 m365.cloud.microsoft</li>
+<li> 14:34 login.microsoftonline.com</li>
+<li> 14:34 eu-west.azureauth.duosecurity.com</li>
+<li> 14:34 api-b6327e78.duosecurity.com</li>
+<li> 14:34 adfs.herts.ac.uk</li>
+<li> 14:34 api-b6327e78.duosecurity.com</li>
+<li> 14:34 adfs.herts.ac.uk</li>
+<li> 14:34 www.google.com</li>
+<li> 14:34 mail.google.com</li>
+<li class='same'> 14:33 mail.google.com</li>
+<li> 14:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:32 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 14:31 www.thetimes.com</li>
+<li> 14:30 <a href="https://www.theguardian.com/commentisfree/2025/aug/14/university-teenagers-student-debt-graduate-britain">As thousands more teenagers scramble for university places, I have to ask – why? | Simon Jenkins | The Guardian</a></li>
 <li> 14:29 <a href="https://www.theguardian.com/books/2025/apr/23/luminous-by-silvia-park-review-a-major-new-voice-in-sf">Luminous by Silvia Park review – a major new voice in SF | Science fiction books | The Guardian</a></li>
 <li> 14:29 <a href="https://www.theguardian.com/profile/adam-roberts">Adam Roberts | The Guardian</a></li>
 <li> 14:29 <a href="https://en.wikipedia.org/wiki/List_of_Doctor_Who_parodies">List of Doctor Who parodies - Wikipedia</a></li>
