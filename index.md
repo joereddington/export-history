@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3542)</li>
-<li>mail.google.com (3481)</li>
-<li>outlook.office.com (3240)</li>
-<li>www.reddit.com (2810)</li>
-<li>outlook.office365.com (2513)</li>
-<li>docs.google.com (2331)</li>
-<li>duckduckgo.com (1593)</li>
+<ol><li>www.google.com (3548)</li>
+<li>mail.google.com (3488)</li>
+<li>outlook.office.com (3242)</li>
+<li>www.reddit.com (2817)</li>
+<li>outlook.office365.com (2519)</li>
+<li>docs.google.com (2333)</li>
+<li>duckduckgo.com (1598)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1033)</li>
-<li>www.linkedin.com (913)</li>
-<li>www.amazon.co.uk (886)</li>
-<li>calendar.google.com (710)</li>
+<li>www.linkedin.com (916)</li>
+<li>www.amazon.co.uk (887)</li>
+<li>calendar.google.com (712)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (661)</li>
-<li>moodle.royalholloway.ac.uk (597)</li>
+<li>login.microsoftonline.com (663)</li>
+<li>moodle.royalholloway.ac.uk (606)</li>
 <li>tvtropes.org (578)</li>
-<li>rhul-my.sharepoint.com (573)</li>
+<li>rhul-my.sharepoint.com (576)</li>
 <li>gmail.com (542)</li>
 <li>github.com (495)</li>
 <li>web.whatsapp.com (482)</li>
 <li>chat.openai.com (446)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (406)</li>
-<li>drive.google.com (365)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (412)</li>
+<li>drive.google.com (366)</li>
 <li>feedly.com (328)</li>
 <li>fritz.box (292)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (289)</li>
 <li>whitewaterwriters.com (274)</li>
-<li>forms.office.com (264)</li>
+<li>forms.office.com (265)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,94 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:25 www.sibs.org.uk</li>
+<ul><li> 18:43 <a href="https://www.theguardian.com/us-news/2025/aug/15/trump-washington-dc-unhoused-people">‘It’s not illegal to be homeless’: disquiet as Trump crews clear DC encampments | Washington DC | The Guardian</a></li>
+<li> 18:42 <a href="https://www.theguardian.com/politics/2025/aug/15/diane-abbott-suspension-labour-mp-successor">Labour moves to find successor to Diane Abbott for her north London seat | Diane Abbott | The Guardian</a></li>
+<li class='same'> 18:29 <a href="https://www.theguardian.com/politics/2025/aug/15/diane-abbott-suspension-labour-mp-successor">Labour moves to find successor to Diane Abbott for her north London seat | Diane Abbott | The Guardian</a></li>
+<li> 18:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:28 support.theguardian.com</li>
+<li> 18:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:28 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:11 www.reddit.com</li>
+<li class='same'> 17:10 www.reddit.com</li>
+<li class='same'> 17:09 www.reddit.com</li>
+<li class='same'> 17:07 www.reddit.com</li>
+<li> 17:06 <a href="https://www.theguardian.com/politics/2025/aug/13/yvette-cooper-solves-one-headache-for-justice-system-but-may-have-caused-another">Yvette Cooper solves one headache for justice system but may have caused another | Yvette Cooper | The Guardian</a></li>
+<li> 17:06 <a href="https://www.theguardian.com/uk-news/2025/jan/31/policing-minister-police-forces-england-wales-challenging-cuts">Policing minister accepts forces in England and Wales face ‘challenging’ cuts | Police | The Guardian</a></li>
+<li> 17:05 <a href="https://www.theguardian.com/uk-news/2025/aug/15/sonic-boom-reported-as-raf-jets-intercept-civilian-plane-over-england">Sonic boom reported as RAF jets intercept civilian plane over England | Royal Air Force | The Guardian</a></li>
+<li> 17:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:04 mail.google.com</li>
+<li> 17:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:01 moodle.royalholloway.ac.uk</li>
+<li> 17:01 mail.google.com</li>
+<li> 17:01 outlook.office365.com</li>
+<li> 17:01 outlook.office.com</li>
+<li> 16:42 herts.instructure.com</li>
+<li> 16:38 outlook.office.com</li>
+<li> 16:35 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:34 moodle.royalholloway.ac.uk</li>
+<li> 16:33 outlook.office365.com</li>
+<li> 16:33 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 16:31 webtimetables.royalholloway.ac.uk</li>
+<li> 16:31 jobs.royalholloway.ac.uk</li>
+<li> 16:30 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 16:29 webtimetables.royalholloway.ac.uk</li>
+<li> 16:20 mail.google.com</li>
+<li> 16:19 outlook.office365.com</li>
+<li> 16:18 rhul-my.sharepoint.com</li>
+<li> 16:18 outlook.office365.com</li>
+<li> 16:17 forms.office.com</li>
+<li> 16:17 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 16:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:16 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 16:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 16:14 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 16:12 www.amazon.co.uk</li>
+<li> 16:12 <a href="https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html">You should have an Asked Questions list for your students | Joe Reddington</a></li>
+<li> 16:10 rhul-my.sharepoint.com</li>
+<li class='same'> 16:09 rhul-my.sharepoint.com</li>
+<li> 16:09 outlook.office365.com</li>
+<li> 16:09 www.linkedin.com</li>
+<li class='same'> 16:08 www.linkedin.com</li>
+<li> 16:08 outlook.office365.com</li>
+<li> 16:08 mail.google.com</li>
+<li> 16:05 www.reddit.com</li>
+<li class='same'> 16:04 www.reddit.com</li>
+<li class='same'> 16:03 www.reddit.com</li>
+<li> 16:03 duckduckgo.com</li>
+<li> 16:02 mail.google.com</li>
+<li> 16:01 <a href="https://en.wikipedia.org/wiki/Scott_Griffith">Scott Griffith - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/wiki/Robin_Chase">Robin Chase - Wikipedia</a></li>
+<li> 16:00 <a href="https://en.wikipedia.org/wiki/Zipcar">Zipcar - Wikipedia</a></li>
+<li> 16:00 duckduckgo.com</li>
+<li> 15:59 my.zipcar.com</li>
+<li> 15:58 www.zipcar.com</li>
+<li> 15:58 duckduckgo.com</li>
+<li> 15:57 www.lutongymnastics.co.uk</li>
+<li> 15:57 duckduckgo.com</li>
+<li> 15:54 mail.google.com</li>
+<li> 15:53 calendar.google.com</li>
+<li> 15:53 mail.google.com</li>
+<li> 15:52 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:45 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:44 moodle.royalholloway.ac.uk</li>
+<li> 15:44 login.microsoftonline.com</li>
+<li> 15:44 moodle.royalholloway.ac.uk</li>
+<li> 15:44 login.microsoftonline.com</li>
+<li> 15:44 moodle.royalholloway.ac.uk</li>
+<li> 15:40 dashboards.rhul.ac.uk</li>
+<li> 15:33 docs.google.com</li>
+<li> 15:33 calendar.google.com</li>
+<li> 15:31 docs.google.com</li>
+<li> 15:31 drive.google.com</li>
+<li> 15:29 www.nhs.uk</li>
+<li class='same'> 15:28 www.nhs.uk</li>
+<li> 15:28 duckduckgo.com</li>
+<li> 15:25 www.sibs.org.uk</li>
 <li> 15:19 chatgpt.com</li>
 <li> 15:19 chat.openai.com</li>
 <li> 15:17 docs.google.com</li>
@@ -348,6 +435,10 @@ With number of accesses/minutes in parentheses
 <li> 07:27 rhul-my.sharepoint.com</li>
 <li> 07:27 outlook.office365.com</li>
 <li class='same'> 07:26 outlook.office365.com</li>
+<li> 07:23 www.google.com</li>
+<li> 07:23 accounts.google.com</li>
+<li> 07:23 www.google.com</li>
+<li class='same'> 07:22 www.google.com</li>
 <li> 07:03 jobs.royalholloway.ac.uk</li>
 <li> 07:01 www.giantitp.com</li>
 <li> 07:00 feedly.com</li>
@@ -372,6 +463,12 @@ With number of accesses/minutes in parentheses
 <li> 06:39 adfs.herts.ac.uk</li>
 <li> 06:39 api-b6327e78.duosecurity.com</li>
 <li> 06:39 adfs.herts.ac.uk</li>
+<li> 06:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:36 <a href="https://www.theguardian.com/business/2025/aug/14/eli-lilly-uk-price-weight-loss-jab-mounjaro-trump">Eli Lilly ramps up UK price of weight loss jab Mounjaro after Trump demands | Pharmaceuticals industry | The Guardian</a></li>
+<li> 06:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:32 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/15/limitless-live-better-now-review-chris-hemsworth">Limitless: Live Better Now review – Chris Hemsworth has absolutely no sense of rhythm | Television & radio | The Guardian</a></li>
+<li> 06:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:30 www.russellgroup.ac.uk</li>
 <li> 06:23 outlook.office365.com</li>
 <li> 06:23 login.microsoftonline.com</li>
 <li> 06:23 outlook.office365.com</li>
@@ -394,7 +491,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:36 www.reddit.com</li>
+<ul><li> 20:38 www.russellgroup.ac.uk</li>
+<li> 20:38 www.royalholloway.ac.uk</li>
+<li> 20:37 www.google.com</li>
+<li> 20:37 www.russellgroup.ac.uk</li>
+<li class='same'> 20:36 www.russellgroup.ac.uk</li>
+<li> 20:36 www.google.com</li>
+<li> 20:36 www.reddit.com</li>
 </ul>
 
 <br>
@@ -65906,7 +66009,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:17 pure.royalholloway.ac.uk</li>
+<ul><li> 19:18 www.linkedin.com</li>
+<li> 19:17 pure.royalholloway.ac.uk</li>
 <li class='same'> 19:16 pure.royalholloway.ac.uk</li>
 <li> 19:12 www.linkedin.com</li>
 </ul>
@@ -66866,7 +66970,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:40 themeads.org.uk</li>
+<ul><li> 16:04 themeads.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:40 themeads.org.uk</li>
 </ul>
 
 <br>
@@ -67170,6 +67279,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:44 themeads.org.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 13:46 docs.google.com</li>
 <li> 13:46 drive.google.com</li>
 </ul>
@@ -67194,6 +67308,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 20:27 themeads.org.uk</li>
+</ul>
 
 <br>
 
@@ -67890,11 +68009,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 22:26 abcnews.go.com</li>
+<li> 22:07 themeads.org.uk</li>
 </ul>
 
 <br>
 
-<ul><li> 16:30 themeads.org.uk</li>
+<ul><li class='same'> 16:30 themeads.org.uk</li>
 </ul>
 
 <br>
@@ -70760,6 +70880,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:51 askubuntu.com</li>
+<li> 09:38 themeads.org.uk</li>
 </ul>
 
 <br>
@@ -70879,6 +71000,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:02 open.spotify.com</li>
+<li> 09:51 themeads.org.uk</li>
 </ul>
 
 <br>
@@ -72097,6 +72219,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 19:01 themeads.org.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 11:04 analytics.google.com</li>
 </ul>
 
@@ -72179,6 +72306,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 18:29 themeads.org.uk</li>
+<li class='same'> 18:28 themeads.org.uk</li>
+</ul>
 
 <br>
 
@@ -72371,6 +72504,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:01 www.tightrope.co.uk</li>
+<li> 10:49 themeads.org.uk</li>
+<li class='same'> 10:48 themeads.org.uk</li>
 </ul>
 
 <br>
@@ -72641,6 +72776,17 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:06 www.wolframalpha.com</li>
 <li> 13:55 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
+</ul>
+
+<H3>Saturday, 04/02/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:20 themeads.org.uk</li>
 </ul>
 
 <H3>Thursday, 02/02/23</H3>
