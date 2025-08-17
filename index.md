@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (495)</li>
 <li>web.whatsapp.com (482)</li>
 <li>chat.openai.com (446)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (412)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (413)</li>
 <li>drive.google.com (366)</li>
 <li>feedly.com (328)</li>
 <li>fritz.box (292)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:09 adblockplus.org</li>
+<ul><li> 13:11 <a href="https://www.theguardian.com/us-news/2025/aug/16/west-virginia-national-guard-troops-dc-trump">Three states to deploy hundreds of national guard troops to Washington DC | Trump administration | The Guardian</a></li>
+<li> 13:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:09 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 13:09 adblockplus.org</li>
 <li> 13:08 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 </ul>
 
