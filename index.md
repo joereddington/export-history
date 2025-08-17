@@ -104,7 +104,19 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 17/08/25</H3>
+
+<br>
+
+<ul><li> 13:09 adblockplus.org</li>
+<li> 13:08 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+</ul>
+
 <H3>Friday, 15/08/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
