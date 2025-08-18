@@ -80,9 +80,9 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1033)</li>
 <li>www.linkedin.com (916)</li>
 <li>www.amazon.co.uk (887)</li>
-<li>calendar.google.com (712)</li>
+<li>calendar.google.com (716)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (664)</li>
+<li>login.microsoftonline.com (663)</li>
 <li>moodle.royalholloway.ac.uk (606)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (576)</li>
@@ -104,7 +104,21 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 18/08/25</H3>
+
+<br>
+
+<ul><li> 08:37 calendar.google.com</li>
+<li class='same'> 08:36 calendar.google.com</li>
+<li class='same'> 08:34 calendar.google.com</li>
+<li class='same'> 08:33 calendar.google.com</li>
+</ul>
+
 <H3>Sunday, 17/08/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -17201,7 +17215,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 18:20 outlook.office365.com</li>
 <li class='same'> 18:19 outlook.office365.com</li>
 <li class='same'> 18:18 outlook.office365.com</li>
-<li> 18:18 login.microsoftonline.com</li>
 <li> 18:18 bsky.app</li>
 <li> 18:18 outlook.office365.com</li>
 <li> 18:17 projects.cs.rhul.ac.uk</li>
