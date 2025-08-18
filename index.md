@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3556)</li>
+<ol><li>www.google.com (3557)</li>
 <li>mail.google.com (3501)</li>
 <li>outlook.office.com (3245)</li>
-<li>www.reddit.com (2826)</li>
-<li>outlook.office365.com (2534)</li>
+<li>www.reddit.com (2828)</li>
+<li>outlook.office365.com (2535)</li>
 <li>docs.google.com (2340)</li>
-<li>duckduckgo.com (1604)</li>
+<li>duckduckgo.com (1605)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1035)</li>
-<li>www.linkedin.com (922)</li>
+<li>www.linkedin.com (923)</li>
 <li>www.amazon.co.uk (893)</li>
 <li>calendar.google.com (724)</li>
 <li>www.theguardian.com (685)</li>
@@ -93,8 +93,8 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (421)</li>
 <li>drive.google.com (368)</li>
 <li>feedly.com (328)</li>
+<li>forum.artofmemory.com (294)</li>
 <li>fritz.box (292)</li>
-<li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (289)</li>
 <li>whitewaterwriters.com (274)</li>
 <li>forms.office.com (267)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:54 outlook.office365.com</li>
+<ul><li> 15:29 www.reddit.com</li>
+<li class='same'> 15:26 www.reddit.com</li>
+<li> 15:25 forum.artofmemory.com</li>
+<li class='same'> 15:24 forum.artofmemory.com</li>
+<li class='same'> 15:23 forum.artofmemory.com</li>
+<li class='same'> 15:22 forum.artofmemory.com</li>
+<li class='same'> 15:21 forum.artofmemory.com</li>
+<li> 15:21 artofmemory.com</li>
+<li> 15:20 <a href="https://en.wikipedia.org/wiki/Planck_constant">Planck constant - Wikipedia</a></li>
+<li> 15:20 www.google.com</li>
+<li> 15:06 herts365-my.sharepoint.com</li>
+<li> 15:05 duckduckgo.com</li>
+<li> 15:02 www.linkedin.com</li>
+<li> 15:02 outlook.office365.com</li>
+<li class='same'> 14:54 outlook.office365.com</li>
 <li> 14:52 docs.google.com</li>
 <li> 14:50 calendar.google.com</li>
 <li> 14:40 docs.google.com</li>
