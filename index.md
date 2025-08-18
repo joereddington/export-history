@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3553)</li>
-<li>mail.google.com (3488)</li>
+<li>mail.google.com (3497)</li>
 <li>outlook.office.com (3245)</li>
 <li>www.reddit.com (2817)</li>
 <li>outlook.office365.com (2522)</li>
-<li>docs.google.com (2335)</li>
-<li>duckduckgo.com (1598)</li>
+<li>docs.google.com (2336)</li>
+<li>duckduckgo.com (1599)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1033)</li>
 <li>www.linkedin.com (916)</li>
-<li>www.amazon.co.uk (887)</li>
+<li>www.amazon.co.uk (893)</li>
 <li>calendar.google.com (716)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (667)</li>
 <li>moodle.royalholloway.ac.uk (606)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (576)</li>
-<li>gmail.com (542)</li>
+<li>gmail.com (545)</li>
 <li>github.com (497)</li>
 <li>web.whatsapp.com (483)</li>
 <li>chat.openai.com (446)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (416)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (418)</li>
 <li>drive.google.com (367)</li>
 <li>feedly.com (328)</li>
 <li>fritz.box (292)</li>
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:10 <a href="https://www.youtube.com/watch?v=QgIwLfymPnc&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=53">(716) GCSE Maths: N2-29 [Examples of Division with Decimals] - YouTube</a></li>
+<ul><li> 10:02 www.activeluton.co.uk</li>
+<li> 10:02 duckduckgo.com</li>
+<li> 09:51 <a href="https://www.theguardian.com/books/2025/aug/18/skibidi-delulu-and-tradwife-among-words-added-to-cambridge-dictionary">‘Skibidi’, ‘delulu’ and ‘tradwife’ among words added to Cambridge Dictionary | Books | The Guardian</a></li>
+<li> 09:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:51 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 09:50 mail.google.com</li>
+<li> 09:50 appealpcn.co.uk</li>
+<li> 09:48 mail.google.com</li>
+<li> 09:48 appealpcn.co.uk</li>
+<li class='same'> 09:47 appealpcn.co.uk</li>
+<li> 09:43 www.parkjockey.com</li>
+<li> 09:43 www.paypal.com</li>
+<li> 09:43 www.parkjockey.com</li>
+<li class='same'> 09:42 www.parkjockey.com</li>
+<li class='same'> 09:41 www.parkjockey.com</li>
+<li class='same'> 09:40 www.parkjockey.com</li>
+<li> 09:39 mail.google.com</li>
+<li> 09:39 gmail.com</li>
+<li> 09:39 <a href="https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis">‘Shut it down and start again’: staff disquiet as Alan Turing Institute faces identity crisis | Artificial intelligence (AI) | The Guardian</a></li>
+<li> 09:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:38 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 09:36 www.amazon.co.uk</li>
+<li class='same'> 09:35 www.amazon.co.uk</li>
+<li class='same'> 09:34 www.amazon.co.uk</li>
+<li class='same'> 09:33 www.amazon.co.uk</li>
+<li class='same'> 09:32 www.amazon.co.uk</li>
+<li class='same'> 09:31 www.amazon.co.uk</li>
+<li> 09:31 docs.google.com</li>
+<li> 09:31 mail.google.com</li>
+<li class='same'> 09:30 mail.google.com</li>
+<li> 09:30 gmail.com</li>
+<li> 09:29 mail.google.com</li>
+<li class='same'> 09:28 mail.google.com</li>
+<li> 09:26 www.projectreal.co.uk</li>
+<li> 09:25 mail.google.com</li>
+<li> 09:25 accounts.google.com</li>
+<li> 09:25 mail.google.com</li>
+<li> 09:25 accounts.google.com</li>
+<li> 09:25 gmail.com</li>
+<li> 09:10 <a href="https://www.youtube.com/watch?v=QgIwLfymPnc&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=53">(716) GCSE Maths: N2-29 [Examples of Division with Decimals] - YouTube</a></li>
 <li> 09:09 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(716) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 09:09 <a href="https://www.youtube.com/feed/playlists">(716) Playlists - YouTube</a></li>
 <li> 09:09 <a href="https://www.youtube.com/feed/you">(716) YouTube</a></li>
