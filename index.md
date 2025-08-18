@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3242)</li>
 <li>www.reddit.com (2817)</li>
 <li>outlook.office365.com (2519)</li>
-<li>docs.google.com (2333)</li>
+<li>docs.google.com (2334)</li>
 <li>duckduckgo.com (1598)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (482)</li>
 <li>chat.openai.com (446)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (414)</li>
-<li>drive.google.com (366)</li>
+<li>drive.google.com (367)</li>
 <li>feedly.com (328)</li>
 <li>fritz.box (292)</li>
 <li>forum.artofmemory.com (289)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:37 calendar.google.com</li>
+<ul><li> 08:52 drive.google.com</li>
+<li> 08:38 docs.google.com</li>
+<li> 08:37 calendar.google.com</li>
 <li class='same'> 08:36 calendar.google.com</li>
 <li class='same'> 08:34 calendar.google.com</li>
 <li class='same'> 08:33 calendar.google.com</li>
