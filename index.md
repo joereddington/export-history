@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3553)</li>
 <li>mail.google.com (3488)</li>
-<li>outlook.office.com (3242)</li>
+<li>outlook.office.com (3245)</li>
 <li>www.reddit.com (2817)</li>
-<li>outlook.office365.com (2519)</li>
-<li>docs.google.com (2334)</li>
+<li>outlook.office365.com (2522)</li>
+<li>docs.google.com (2335)</li>
 <li>duckduckgo.com (1598)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
@@ -82,22 +82,22 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (887)</li>
 <li>calendar.google.com (716)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (663)</li>
+<li>login.microsoftonline.com (667)</li>
 <li>moodle.royalholloway.ac.uk (606)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (576)</li>
 <li>gmail.com (542)</li>
 <li>github.com (497)</li>
-<li>web.whatsapp.com (482)</li>
+<li>web.whatsapp.com (483)</li>
 <li>chat.openai.com (446)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (414)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (416)</li>
 <li>drive.google.com (367)</li>
 <li>feedly.com (328)</li>
 <li>fritz.box (292)</li>
 <li>forum.artofmemory.com (289)</li>
 <li>rhul.sharepoint.com (289)</li>
 <li>whitewaterwriters.com (274)</li>
-<li>forms.office.com (265)</li>
+<li>forms.office.com (267)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,12 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:52 drive.google.com</li>
+<ul><li> 08:52 docs.google.com</li>
+<li> 08:52 drive.google.com</li>
 <li> 08:38 docs.google.com</li>
 <li> 08:37 calendar.google.com</li>
 <li class='same'> 08:36 calendar.google.com</li>
 <li class='same'> 08:34 calendar.google.com</li>
 <li class='same'> 08:33 calendar.google.com</li>
+<li> 08:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:25 outlook.office365.com</li>
+<li> 08:24 forms.office.com</li>
+<li> 08:24 login.microsoftonline.com</li>
+<li> 08:24 forms.office.com</li>
+<li> 08:24 outlook.office365.com</li>
+<li> 08:24 login.microsoftonline.com</li>
+<li> 08:24 outlook.office365.com</li>
+<li> 08:22 outlook.office.com</li>
+<li> 08:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:17 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 08:15 web.whatsapp.com</li>
+<li> 08:15 outlook.office.com</li>
+<li> 08:10 herts365-my.sharepoint.com</li>
+<li> 08:10 herts365.sharepoint.com</li>
+<li> 08:10 login.microsoftonline.com</li>
+<li> 08:10 herts365.sharepoint.com</li>
+<li> 08:10 outlook.office.com</li>
+<li> 08:10 m365.cloud.microsoft</li>
+<li class='same'> 08:09 m365.cloud.microsoft</li>
+<li> 08:09 login.microsoftonline.com</li>
+<li> 08:09 eu-west.azureauth.duosecurity.com</li>
+<li> 08:09 api-b6327e78.duosecurity.com</li>
+<li> 08:09 adfs.herts.ac.uk</li>
+<li> 08:09 api-b6327e78.duosecurity.com</li>
+<li> 08:09 adfs.herts.ac.uk</li>
+<li class='same'> 08:03 adfs.herts.ac.uk</li>
 </ul>
 
 <H3>Sunday, 17/08/25</H3>
