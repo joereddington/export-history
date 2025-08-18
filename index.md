@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3548)</li>
+<ol><li>www.google.com (3553)</li>
 <li>mail.google.com (3488)</li>
 <li>outlook.office.com (3242)</li>
 <li>www.reddit.com (2817)</li>
@@ -87,10 +87,10 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (576)</li>
 <li>gmail.com (542)</li>
-<li>github.com (495)</li>
+<li>github.com (497)</li>
 <li>web.whatsapp.com (482)</li>
 <li>chat.openai.com (446)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (413)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (414)</li>
 <li>drive.google.com (366)</li>
 <li>feedly.com (328)</li>
 <li>fritz.box (292)</li>
@@ -108,11 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:15 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+</ul>
+
+<br>
+
+<ul><li> 14:23 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 13:11 <a href="https://www.theguardian.com/us-news/2025/aug/16/west-virginia-national-guard-troops-dc-trump">Three states to deploy hundreds of national guard troops to Washington DC | Trump administration | The Guardian</a></li>
 <li> 13:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 13:09 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
 <li> 13:09 adblockplus.org</li>
 <li> 13:08 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+</ul>
+
+<H3>Saturday, 16/08/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 07:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:10 www.google.com</li>
 </ul>
 
 <H3>Friday, 15/08/25</H3>
@@ -123,7 +145,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:43 <a href="https://www.theguardian.com/us-news/2025/aug/15/trump-washington-dc-unhoused-people">‘It’s not illegal to be homeless’: disquiet as Trump crews clear DC encampments | Washington DC | The Guardian</a></li>
+<ul><li class='same'> 20:10 www.google.com</li>
+<li class='same'> 20:09 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:08 preschool-flashcards.vercel.app</li>
+<li> 19:03 github.com</li>
+<li> 19:02 preschool-flashcards.vercel.app</li>
+<li> 19:02 github.com</li>
+<li> 19:02 www.google.com</li>
+<li> 19:01 <a href="https://www.theguardian.com/us-news/2025/aug/15/trump-washington-dc-unhoused-people">‘It’s not illegal to be homeless’: disquiet as Trump crews clear DC encampments | Washington DC</a></li>
+<li class='same'> 18:43 <a href="https://www.theguardian.com/us-news/2025/aug/15/trump-washington-dc-unhoused-people">‘It’s not illegal to be homeless’: disquiet as Trump crews clear DC encampments | Washington DC</a></li>
 <li> 18:42 <a href="https://www.theguardian.com/politics/2025/aug/15/diane-abbott-suspension-labour-mp-successor">Labour moves to find successor to Diane Abbott for her north London seat | Diane Abbott | The Guardian</a></li>
 <li class='same'> 18:29 <a href="https://www.theguardian.com/politics/2025/aug/15/diane-abbott-suspension-labour-mp-successor">Labour moves to find successor to Diane Abbott for her north London seat | Diane Abbott | The Guardian</a></li>
 <li> 18:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
