@@ -72,8 +72,8 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3501)</li>
 <li>outlook.office.com (3245)</li>
 <li>www.reddit.com (2826)</li>
-<li>outlook.office365.com (2533)</li>
-<li>docs.google.com (2339)</li>
+<li>outlook.office365.com (2534)</li>
+<li>docs.google.com (2340)</li>
 <li>duckduckgo.com (1604)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
@@ -108,12 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:50 calendar.google.com</li>
+<ul><li> 14:54 outlook.office365.com</li>
+<li> 14:52 docs.google.com</li>
+<li> 14:50 calendar.google.com</li>
 <li> 14:40 docs.google.com</li>
 <li> 14:37 drive.google.com</li>
 <li> 14:37 calendar.google.com</li>
 <li class='same'> 14:35 calendar.google.com</li>
 <li class='same'> 14:33 calendar.google.com</li>
+<li> 14:21 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 14:21 fast.com</li>
 </ul>
 
 <br>
