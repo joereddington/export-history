@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3554)</li>
+<ol><li>www.google.com (3556)</li>
 <li>mail.google.com (3497)</li>
 <li>outlook.office.com (3245)</li>
 <li>www.reddit.com (2819)</li>
-<li>outlook.office365.com (2529)</li>
-<li>docs.google.com (2336)</li>
+<li>outlook.office365.com (2531)</li>
+<li>docs.google.com (2337)</li>
 <li>duckduckgo.com (1604)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1035)</li>
 <li>www.linkedin.com (920)</li>
 <li>www.amazon.co.uk (893)</li>
-<li>calendar.google.com (719)</li>
+<li>calendar.google.com (720)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (667)</li>
 <li>moodle.royalholloway.ac.uk (606)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:30 www.linkedin.com</li>
+<ul><li> 13:25 docs.google.com</li>
+<li> 13:24 <a href="https://en.wikipedia.org/w/index.php?title=Template:Nikon_DSLR_cameras&action=edit">Editing Template:Nikon DSLR cameras - Wikipedia</a></li>
+<li> 13:23 <a href="https://en.wikipedia.org/wiki/Template:Nikon_DSLR_cameras">Template:Nikon DSLR cameras - Wikipedia</a></li>
+<li> 13:23 www.google.com</li>
+<li> 13:22 www.camerajungle.co.uk</li>
+<li> 13:22 www.google.com</li>
+<li> 13:10 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:32 outlook.office365.com</li>
+<li> 12:32 calendar.google.com</li>
+<li> 12:30 www.linkedin.com</li>
 <li> 12:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:28 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
 <li> 12:25 calendar.google.com</li>
