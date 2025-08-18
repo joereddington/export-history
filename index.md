@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3553)</li>
+<ol><li>www.google.com (3554)</li>
 <li>mail.google.com (3497)</li>
 <li>outlook.office.com (3245)</li>
-<li>www.reddit.com (2817)</li>
-<li>outlook.office365.com (2522)</li>
+<li>www.reddit.com (2819)</li>
+<li>outlook.office365.com (2529)</li>
 <li>docs.google.com (2336)</li>
-<li>duckduckgo.com (1599)</li>
+<li>duckduckgo.com (1602)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
-<li>chatgpt.com (1033)</li>
+<li>chatgpt.com (1035)</li>
 <li>www.linkedin.com (916)</li>
 <li>www.amazon.co.uk (893)</li>
 <li>calendar.google.com (716)</li>
@@ -89,8 +89,8 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (545)</li>
 <li>github.com (497)</li>
 <li>web.whatsapp.com (483)</li>
-<li>chat.openai.com (446)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (418)</li>
+<li>chat.openai.com (447)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (419)</li>
 <li>drive.google.com (367)</li>
 <li>feedly.com (328)</li>
 <li>fritz.box (292)</li>
@@ -108,7 +108,44 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:02 www.activeluton.co.uk</li>
+<ul><li> 11:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:29 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 11:27 outlook.office365.com</li>
+<li> 11:27 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:26 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:20 jobs.royalholloway.ac.uk</li>
+<li> 11:13 www.google.co.uk</li>
+<li> 11:13 www.google.com</li>
+<li> 11:13 books.google.com</li>
+<li> 11:13 duckduckgo.com</li>
+<li> 11:11 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:10 jobs.royalholloway.ac.uk</li>
+<li> 11:09 outlook.office365.com</li>
+<li class='same'> 11:07 outlook.office365.com</li>
+<li> 11:07 chatgpt.com</li>
+<li> 11:06 outlook.office365.com</li>
+<li> 11:04 chatgpt.com</li>
+<li> 11:04 chat.openai.com</li>
+<li> 10:57 samedifference1.com</li>
+<li> 10:56 duckduckgo.com</li>
+<li> 10:56 jobs.royalholloway.ac.uk</li>
+<li> 10:55 outlook.office365.com</li>
+<li> 10:54 www.advance-he.ac.uk</li>
+<li> 10:54 duckduckgo.com</li>
+<li> 10:54 jobs.royalholloway.ac.uk</li>
+<li class='same'> 10:53 jobs.royalholloway.ac.uk</li>
+<li class='same'> 10:51 jobs.royalholloway.ac.uk</li>
+<li class='same'> 10:49 jobs.royalholloway.ac.uk</li>
+<li class='same'> 10:48 jobs.royalholloway.ac.uk</li>
+<li class='same'> 10:47 jobs.royalholloway.ac.uk</li>
+<li class='same'> 10:46 jobs.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 10:04 www.reddit.com</li>
+<li class='same'> 10:03 www.reddit.com</li>
+<li> 10:02 www.activeluton.co.uk</li>
 <li> 10:02 duckduckgo.com</li>
 <li> 09:51 <a href="https://www.theguardian.com/books/2025/aug/18/skibidi-delulu-and-tradwife-among-words-added-to-cambridge-dictionary">‘Skibidi’, ‘delulu’ and ‘tradwife’ among words added to Cambridge Dictionary | Books | The Guardian</a></li>
 <li> 09:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -54644,11 +54681,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:09 outlook.office365.com</li>
 <li class='same'> 13:00 outlook.office365.com</li>
 <li class='same'> 12:46 outlook.office365.com</li>
+<li class='same'> 12:35 outlook.office365.com</li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 11:35 outlook.office365.com</li>
+<ul><li class='same'> 11:55 outlook.office365.com</li>
+<li class='same'> 11:35 outlook.office365.com</li>
 <li class='same'> 11:23 outlook.office365.com</li>
 <li> 10:59 rhul.hosted.panopto.com</li>
 <li> 10:54 <a href="https://en.wikipedia.org/wiki/Information_assurance">Information assurance - Wikipedia</a></li>
@@ -65537,6 +65576,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:06 trends.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:13 books.google.com</li>
 </ul>
 
 <br>
