@@ -74,13 +74,13 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (2819)</li>
 <li>outlook.office365.com (2529)</li>
 <li>docs.google.com (2336)</li>
-<li>duckduckgo.com (1602)</li>
+<li>duckduckgo.com (1604)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1035)</li>
-<li>www.linkedin.com (916)</li>
+<li>www.linkedin.com (920)</li>
 <li>www.amazon.co.uk (893)</li>
-<li>calendar.google.com (716)</li>
+<li>calendar.google.com (719)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (667)</li>
 <li>moodle.royalholloway.ac.uk (606)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (497)</li>
 <li>web.whatsapp.com (483)</li>
 <li>chat.openai.com (447)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (419)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (420)</li>
 <li>drive.google.com (367)</li>
 <li>feedly.com (328)</li>
 <li>fritz.box (292)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 12:30 www.linkedin.com</li>
+<li> 12:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:28 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 12:25 calendar.google.com</li>
+<li class='same'> 12:24 calendar.google.com</li>
+<li class='same'> 12:23 calendar.google.com</li>
+<li> 12:23 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:47 www.royalholloway.ac.uk</li>
+<li> 11:46 duckduckgo.com</li>
+<li> 11:45 www.linkedin.com</li>
+<li class='same'> 11:44 www.linkedin.com</li>
+<li class='same'> 11:43 www.linkedin.com</li>
+<li> 11:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 11:29 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
 <li> 11:27 outlook.office365.com</li>
 <li> 11:27 jobs.royalholloway.ac.uk</li>
