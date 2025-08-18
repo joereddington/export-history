@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3556)</li>
-<li>mail.google.com (3497)</li>
+<li>mail.google.com (3501)</li>
 <li>outlook.office.com (3245)</li>
-<li>www.reddit.com (2819)</li>
+<li>www.reddit.com (2823)</li>
 <li>outlook.office365.com (2531)</li>
-<li>docs.google.com (2337)</li>
+<li>docs.google.com (2338)</li>
 <li>duckduckgo.com (1604)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (606)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (576)</li>
-<li>gmail.com (545)</li>
+<li>gmail.com (546)</li>
 <li>github.com (497)</li>
 <li>web.whatsapp.com (483)</li>
 <li>chat.openai.com (447)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:25 docs.google.com</li>
+<ul><li> 13:44 www.reddit.com</li>
+<li class='same'> 13:39 www.reddit.com</li>
+<li> 13:39 mail.google.com</li>
+<li class='same'> 13:38 mail.google.com</li>
+<li class='same'> 13:37 mail.google.com</li>
+<li class='same'> 13:36 mail.google.com</li>
+<li> 13:36 gmail.com</li>
+<li> 13:36 Local file</li>
+<li> 13:36 doc-10-34-sheets.googleusercontent.com</li>
+<li> 13:35 docs.google.com</li>
+<li> 13:33 www.reddit.com</li>
+<li class='same'> 13:30 www.reddit.com</li>
+<li> 13:27 <a href="https://en.wikipedia.org/wiki/Nikon_D750">Nikon D750 - Wikipedia</a></li>
+<li> 13:25 docs.google.com</li>
 <li> 13:24 <a href="https://en.wikipedia.org/w/index.php?title=Template:Nikon_DSLR_cameras&action=edit">Editing Template:Nikon DSLR cameras - Wikipedia</a></li>
 <li> 13:23 <a href="https://en.wikipedia.org/wiki/Template:Nikon_DSLR_cameras">Template:Nikon DSLR cameras - Wikipedia</a></li>
 <li> 13:23 www.google.com</li>
