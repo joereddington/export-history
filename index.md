@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3556)</li>
 <li>mail.google.com (3501)</li>
 <li>outlook.office.com (3245)</li>
-<li>www.reddit.com (2823)</li>
-<li>outlook.office365.com (2531)</li>
+<li>www.reddit.com (2826)</li>
+<li>outlook.office365.com (2533)</li>
 <li>docs.google.com (2338)</li>
 <li>duckduckgo.com (1604)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1035)</li>
-<li>www.linkedin.com (920)</li>
+<li>www.linkedin.com (922)</li>
 <li>www.amazon.co.uk (893)</li>
 <li>calendar.google.com (720)</li>
 <li>www.theguardian.com (685)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (497)</li>
 <li>web.whatsapp.com (483)</li>
 <li>chat.openai.com (447)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (420)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (421)</li>
 <li>drive.google.com (367)</li>
 <li>feedly.com (328)</li>
 <li>fritz.box (292)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:44 www.reddit.com</li>
+<ul><li> 13:45 www.reddit.com</li>
+<li class='same'> 13:44 www.reddit.com</li>
 <li class='same'> 13:39 www.reddit.com</li>
 <li> 13:39 mail.google.com</li>
 <li class='same'> 13:38 mail.google.com</li>
@@ -127,7 +128,15 @@ With number of accesses/minutes in parentheses
 <li> 13:23 www.google.com</li>
 <li> 13:22 www.camerajungle.co.uk</li>
 <li> 13:22 www.google.com</li>
-<li> 13:10 outlook.office365.com</li>
+<li> 13:17 outlook.office365.com</li>
+<li> 13:17 www.linkedin.com</li>
+<li class='same'> 13:15 www.linkedin.com</li>
+<li> 13:13 www.reddit.com</li>
+<li class='same'> 13:12 www.reddit.com</li>
+<li> 13:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:12 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 13:11 outlook.office365.com</li>
+<li class='same'> 13:10 outlook.office365.com</li>
 </ul>
 
 <br>
