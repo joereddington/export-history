@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1035)</li>
 <li>www.linkedin.com (922)</li>
 <li>www.amazon.co.uk (893)</li>
-<li>calendar.google.com (723)</li>
+<li>calendar.google.com (724)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (667)</li>
 <li>moodle.royalholloway.ac.uk (606)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:40 docs.google.com</li>
+<ul><li> 14:50 calendar.google.com</li>
+<li> 14:40 docs.google.com</li>
 <li> 14:37 drive.google.com</li>
 <li> 14:37 calendar.google.com</li>
 <li class='same'> 14:35 calendar.google.com</li>
