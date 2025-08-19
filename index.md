@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3557)</li>
+<ol><li>www.google.com (3558)</li>
 <li>mail.google.com (3501)</li>
 <li>outlook.office.com (3245)</li>
-<li>www.reddit.com (2828)</li>
+<li>www.reddit.com (2829)</li>
 <li>outlook.office365.com (2535)</li>
 <li>docs.google.com (2340)</li>
 <li>duckduckgo.com (1605)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:29 www.reddit.com</li>
+<ul><li> 20:54 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:30 www.reddit.com</li>
+<li class='same'> 15:29 www.reddit.com</li>
 <li class='same'> 15:26 www.reddit.com</li>
 <li> 15:25 forum.artofmemory.com</li>
 <li class='same'> 15:24 forum.artofmemory.com</li>
@@ -312,7 +318,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:15 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<ul><li> 20:30 <a href="https://www.bbc.co.uk/iplayer/episode/m002f1s5/rylan-how-to-be-how-to-be-in-love-12-mel-robbins">Rylan: How to Be... - How to Be in Love: 12. Mel Robbins - BBC iPlayer</a></li>
+<li> 20:30 <a href="https://www.bbc.co.uk/iplayer/episode/m002f1s5">BBC - Home</a></li>
+<li> 20:29 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 20:28 <a href="https://www.bbc.co.uk/news/articles/cp37znd8vx1o">Campaigners lodge legal action over gender rules for schools and prisons - BBC News</a></li>
+<li> 20:28 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 20:27 <a href="https://www.bbc.co.uk/news/articles/crm4ln2ekg1o">Putin agreed to 'robust' security guarantees for Ukraine, says US envoy - BBC News</a></li>
+<li> 20:26 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li class='same'> 20:15 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
 <br>
@@ -62944,7 +62957,9 @@ With number of accesses/minutes in parentheses
 <li> 22:15 www.google.com</li>
 <li> 21:57 www.camerajungle.co.uk</li>
 <li> 21:57 www.ebay.co.uk</li>
-<li> 21:54 www.camerajungle.co.uk</li>
+<li> 21:56 www.camerajungle.co.uk</li>
+<li class='same'> 21:55 www.camerajungle.co.uk</li>
+<li class='same'> 21:54 www.camerajungle.co.uk</li>
 <li class='same'> 21:46 www.camerajungle.co.uk</li>
 <li> 21:31 www.amazon.co.uk</li>
 <li> 21:24 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
@@ -67369,7 +67384,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:39 www.amazon.co.uk</li>
+<ul><li> 20:53 www.camerajungle.co.uk</li>
+<li class='same'> 20:52 www.camerajungle.co.uk</li>
+<li> 20:39 www.amazon.co.uk</li>
+<li> 20:28 www.google.co.uk</li>
 </ul>
 
 <H3>Saturday, 25/11/23</H3>
@@ -68223,7 +68241,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:30 jobs.royalholloway.ac.uk</li>
 <li class='same'> 15:29 jobs.royalholloway.ac.uk</li>
+<li class='same'> 15:28 jobs.royalholloway.ac.uk</li>
 <li class='same'> 15:26 jobs.royalholloway.ac.uk</li>
+<li class='same'> 15:25 jobs.royalholloway.ac.uk</li>
+<li class='same'> 15:13 jobs.royalholloway.ac.uk</li>
 <li class='same'> 14:59 jobs.royalholloway.ac.uk</li>
 <li class='same'> 14:58 jobs.royalholloway.ac.uk</li>
 </ul>
@@ -68232,19 +68253,24 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 13:14 jobs.royalholloway.ac.uk</li>
 <li class='same'> 13:13 jobs.royalholloway.ac.uk</li>
+<li class='same'> 13:12 jobs.royalholloway.ac.uk</li>
 <li class='same'> 13:10 jobs.royalholloway.ac.uk</li>
 <li> 12:57 www.buzzfeed.com</li>
-<li> 12:49 jobs.royalholloway.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 11:35 www.royalholloway.ac.uk</li>
+<li> 12:55 jobs.royalholloway.ac.uk</li>
+<li class='same'> 12:49 jobs.royalholloway.ac.uk</li>
+<li class='same'> 12:33 jobs.royalholloway.ac.uk</li>
+<li class='same'> 12:07 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:40 jobs.royalholloway.ac.uk</li>
+<li> 11:35 www.royalholloway.ac.uk</li>
 <li> 11:35 intranet.royalholloway.ac.uk</li>
 <li> 11:35 discord.com</li>
 <li> 11:34 intranet.royalholloway.ac.uk</li>
 <li> 11:26 scholar.google.com</li>
-<li> 11:10 jobs.royalholloway.ac.uk</li>
+<li> 11:23 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:21 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:16 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:12 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:10 jobs.royalholloway.ac.uk</li>
 <li class='same'> 11:05 jobs.royalholloway.ac.uk</li>
 <li> 11:03 bsky.app</li>
 </ul>
