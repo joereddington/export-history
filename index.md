@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:52 herts.instructure.com</li>
+<ul><li> 13:58 herts.instructure.com</li>
+<li class='same'> 13:52 herts.instructure.com</li>
 <li class='same'> 13:51 herts.instructure.com</li>
 <li> 13:45 outlook.office365.com</li>
 <li> 13:38 pure.royalholloway.ac.uk</li>
