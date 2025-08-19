@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3558)</li>
-<li>mail.google.com (3505)</li>
+<li>mail.google.com (3508)</li>
 <li>outlook.office.com (3247)</li>
 <li>www.reddit.com (2831)</li>
-<li>outlook.office365.com (2535)</li>
-<li>docs.google.com (2341)</li>
-<li>duckduckgo.com (1609)</li>
+<li>outlook.office365.com (2541)</li>
+<li>docs.google.com (2342)</li>
+<li>duckduckgo.com (1611)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1037)</li>
 <li>www.linkedin.com (925)</li>
 <li>www.amazon.co.uk (893)</li>
-<li>calendar.google.com (725)</li>
+<li>calendar.google.com (726)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (666)</li>
+<li>login.microsoftonline.com (667)</li>
 <li>moodle.royalholloway.ac.uk (605)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (576)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (329)</li>
 <li>forum.artofmemory.com (294)</li>
 <li>fritz.box (292)</li>
-<li>rhul.sharepoint.com (289)</li>
+<li>rhul.sharepoint.com (292)</li>
 <li>whitewaterwriters.com (274)</li>
 <li>forms.office.com (267)</li>
 
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:58 <a href="https://en.wikipedia.org/wiki/A_Good_Heart">A Good Heart - Wikipedia</a></li>
+<ul><li> 12:20 rhul.sharepoint.com</li>
+<li> 12:16 www.htsyndication.com</li>
+<li> 12:16 duckduckgo.com</li>
+<li> 12:15 intranet.royalholloway.ac.uk</li>
+<li> 12:15 duckduckgo.com</li>
+<li> 12:14 rhul.sharepoint.com</li>
+<li class='same'> 12:13 rhul.sharepoint.com</li>
+<li> 12:13 outlook.office365.com</li>
+<li class='same'> 12:12 outlook.office365.com</li>
+<li> 12:12 docs.google.com</li>
+<li> 12:12 calendar.google.com</li>
+<li> 12:11 outlook.office365.com</li>
+<li> 12:11 discord.com</li>
+<li class='same'> 12:10 discord.com</li>
+<li class='same'> 12:09 discord.com</li>
+<li class='same'> 12:08 discord.com</li>
+<li> 12:08 mail.google.com</li>
+<li> 12:08 discord.com</li>
+<li class='same'> 12:07 discord.com</li>
+<li> 12:07 outlook.office365.com</li>
+<li class='same'> 12:06 outlook.office365.com</li>
+<li> 12:06 login.microsoftonline.com</li>
+<li> 12:06 outlook.office365.com</li>
+<li> 12:05 mail.google.com</li>
+<li> 12:04 <a href="https://en.wikipedia.org/wiki/Gene_Cernan">Gene Cernan - Wikipedia</a></li>
+<li> 12:04 <a href="https://en.wikipedia.org/wiki/Jim_Lovell#/media/File:US_Navy_101009-N-6003P-082_Retired_astronauts_Capt._Jim_Lovell,_Capt._Gene_Cernan,_and_Neil_Armstrong_stand_on_painted_footprints_to_commemorate_th.jpg">US Navy 101009-N-6003P-082 Retired astronauts Capt. Jim Lovell, Capt. Gene Cernan, and Neil Armstrong stand on painted footprints to commemorate th - Jim Lovell - Wikipedia</a></li>
+<li> 12:04 <a href="https://en.wikipedia.org/wiki/Jim_Lovell#/media/File:Lovell_family_greet_reporters.jpg">Jim Lovell - Wikipedia</a></li>
+<li> 12:02 <a href="https://en.wikipedia.org/wiki/Jim_Lovell#/media/File:Astronaut_Group_2_-_S62-6759.jpg">Jim Lovell - Wikipedia</a></li>
+<li> 12:01 <a href="https://en.wikipedia.org/wiki/Jim_Lovell">Jim Lovell - Wikipedia</a></li>
+<li> 12:00 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 11:59 <a href="https://en.wikipedia.org/w/index.php?title=Milo_Yiannopoulos&diff=1305817648&oldid=1295765403">Milo Yiannopoulos: Difference between revisions - Wikipedia</a></li>
+<li> 11:58 <a href="https://en.wikipedia.org/w/index.php?title=Milo_Yiannopoulos&action=history">Milo Yiannopoulos: Revision history - Wikipedia</a></li>
+<li> 11:58 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
+<li> 11:58 mail.google.com</li>
+<li> 11:58 <a href="https://en.wikipedia.org/wiki/A_Good_Heart">A Good Heart - Wikipedia</a></li>
 <li> 11:56 <a href="https://en.wikipedia.org/wiki/Feargal_Sharkey">Feargal Sharkey - Wikipedia</a></li>
 <li> 11:56 duckduckgo.com</li>
 <li> 11:56 <a href="https://www.theguardian.com/environment/2025/aug/18/feargal-sharkey-accuses-environment-agency-of-illegally-draining-river-lea-court-action-threat-abstraction-fishing-club">Feargal Sharkey accuses Environment Agency of illegally draining River Lea | Environment Agency | The Guardian</a></li>
