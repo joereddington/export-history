@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3558)</li>
-<li>mail.google.com (3501)</li>
-<li>outlook.office.com (3246)</li>
+<li>mail.google.com (3505)</li>
+<li>outlook.office.com (3247)</li>
 <li>www.reddit.com (2831)</li>
 <li>outlook.office365.com (2535)</li>
-<li>docs.google.com (2340)</li>
-<li>duckduckgo.com (1606)</li>
+<li>docs.google.com (2341)</li>
+<li>duckduckgo.com (1609)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1037)</li>
-<li>www.linkedin.com (924)</li>
+<li>www.linkedin.com (925)</li>
 <li>www.amazon.co.uk (893)</li>
 <li>calendar.google.com (725)</li>
 <li>www.theguardian.com (685)</li>
@@ -86,11 +86,11 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (605)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (576)</li>
-<li>gmail.com (546)</li>
+<li>gmail.com (547)</li>
 <li>github.com (497)</li>
-<li>web.whatsapp.com (483)</li>
+<li>web.whatsapp.com (484)</li>
 <li>chat.openai.com (448)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (423)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (424)</li>
 <li>drive.google.com (368)</li>
 <li>feedly.com (329)</li>
 <li>forum.artofmemory.com (294)</li>
@@ -105,6 +105,43 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 19/08/25</H3>
+
+<br>
+
+<ul><li> 11:58 <a href="https://en.wikipedia.org/wiki/A_Good_Heart">A Good Heart - Wikipedia</a></li>
+<li> 11:56 <a href="https://en.wikipedia.org/wiki/Feargal_Sharkey">Feargal Sharkey - Wikipedia</a></li>
+<li> 11:56 duckduckgo.com</li>
+<li> 11:56 <a href="https://www.theguardian.com/environment/2025/aug/18/feargal-sharkey-accuses-environment-agency-of-illegally-draining-river-lea-court-action-threat-abstraction-fishing-club">Feargal Sharkey accuses Environment Agency of illegally draining River Lea | Environment Agency | The Guardian</a></li>
+<li> 11:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:54 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 11:54 docs.google.com</li>
+<li> 11:54 duckduckgo.com</li>
+<li class='same'> 11:53 duckduckgo.com</li>
+<li> 11:53 mail.google.com</li>
+<li> 11:53 www.jobs.ac.uk</li>
+<li> 11:53 mail.google.com</li>
+<li class='same'> 11:50 mail.google.com</li>
+<li> 11:50 gmail.com</li>
+<li> 11:47 www.linkedin.com</li>
+<li> 11:44 www.jobs.ac.uk</li>
+<li> 11:42 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:41 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:40 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:39 jobs.royalholloway.ac.uk</li>
+<li> 11:39 mail.google.com</li>
+<li> 11:38 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:37 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:36 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:35 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:34 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:20 jobs.royalholloway.ac.uk</li>
+<li class='same'> 11:19 jobs.royalholloway.ac.uk</li>
+<li> 11:19 web.whatsapp.com</li>
+<li> 11:18 outlook.office.com</li>
+<li> 11:08 t1b.gobright.cloud</li>
+<li class='same'> 11:07 t1b.gobright.cloud</li>
+<li> 11:07 portal.gobright.cloud</li>
+</ul>
 
 <br>
 
