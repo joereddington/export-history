@@ -71,16 +71,16 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3558)</li>
 <li>mail.google.com (3501)</li>
 <li>outlook.office.com (3245)</li>
-<li>www.reddit.com (2829)</li>
+<li>www.reddit.com (2831)</li>
 <li>outlook.office365.com (2535)</li>
 <li>docs.google.com (2340)</li>
 <li>duckduckgo.com (1605)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
-<li>chatgpt.com (1035)</li>
-<li>www.linkedin.com (923)</li>
+<li>chatgpt.com (1037)</li>
+<li>www.linkedin.com (924)</li>
 <li>www.amazon.co.uk (893)</li>
-<li>calendar.google.com (724)</li>
+<li>calendar.google.com (725)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (667)</li>
 <li>moodle.royalholloway.ac.uk (606)</li>
@@ -89,10 +89,10 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (546)</li>
 <li>github.com (497)</li>
 <li>web.whatsapp.com (483)</li>
-<li>chat.openai.com (447)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (421)</li>
+<li>chat.openai.com (448)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (422)</li>
 <li>drive.google.com (368)</li>
-<li>feedly.com (328)</li>
+<li>feedly.com (329)</li>
 <li>forum.artofmemory.com (294)</li>
 <li>fritz.box (292)</li>
 <li>rhul.sharepoint.com (289)</li>
@@ -104,7 +104,32 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 19/08/25</H3>
+
+<br>
+
+<ul><li> 07:44 herts365-my.sharepoint.com</li>
+<li> 07:44 chatgpt.com</li>
+<li class='same'> 07:43 chatgpt.com</li>
+<li> 07:43 chat.openai.com</li>
+<li> 07:40 feedly.com</li>
+<li> 07:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:26 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 07:24 www.reddit.com</li>
+<li class='same'> 07:23 www.reddit.com</li>
+<li> 07:22 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 00:06 calendar.google.com</li>
+</ul>
+
 <H3>Monday, 18/08/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
