@@ -70,11 +70,11 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3558)</li>
 <li>mail.google.com (3508)</li>
-<li>outlook.office.com (3247)</li>
+<li>outlook.office.com (3250)</li>
 <li>www.reddit.com (2831)</li>
-<li>outlook.office365.com (2541)</li>
+<li>outlook.office365.com (2543)</li>
 <li>docs.google.com (2342)</li>
-<li>duckduckgo.com (1611)</li>
+<li>duckduckgo.com (1613)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1037)</li>
@@ -82,13 +82,13 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (893)</li>
 <li>calendar.google.com (726)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (667)</li>
+<li>login.microsoftonline.com (668)</li>
 <li>moodle.royalholloway.ac.uk (605)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (576)</li>
 <li>gmail.com (547)</li>
 <li>github.com (497)</li>
-<li>web.whatsapp.com (484)</li>
+<li>web.whatsapp.com (485)</li>
 <li>chat.openai.com (448)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (424)</li>
 <li>drive.google.com (368)</li>
@@ -105,6 +105,38 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 19/08/25</H3>
+
+<br>
+
+<ul><li> 13:52 herts.instructure.com</li>
+<li class='same'> 13:51 herts.instructure.com</li>
+<li> 13:45 outlook.office365.com</li>
+<li> 13:38 pure.royalholloway.ac.uk</li>
+<li> 13:38 duckduckgo.com</li>
+<li class='same'> 13:37 duckduckgo.com</li>
+<li> 13:36 outlook.office.com</li>
+<li> 13:32 web.whatsapp.com</li>
+<li> 13:31 outlook.office.com</li>
+<li> 13:30 herts365-my.sharepoint.com</li>
+<li> 13:30 herts.instructure.com</li>
+<li class='same'> 13:29 herts.instructure.com</li>
+<li> 13:25 ev.turnitinuk.com</li>
+<li> 13:25 herts.instructure.com</li>
+<li class='same'> 13:07 herts.instructure.com</li>
+<li class='same'> 13:06 herts.instructure.com</li>
+<li> 13:06 adfs.herts.ac.uk</li>
+<li> 13:06 herts.instructure.com</li>
+<li> 13:00 outlook.office.com</li>
+<li> 13:00 m365.cloud.microsoft</li>
+<li> 13:00 login.microsoftonline.com</li>
+<li> 13:00 eu-west.azureauth.duosecurity.com</li>
+<li> 13:00 api-b6327e78.duosecurity.com</li>
+<li> 13:00 adfs.herts.ac.uk</li>
+<li> 12:59 eu-west.azureauth.duosecurity.com</li>
+<li> 12:59 api-b6327e78.duosecurity.com</li>
+<li> 12:59 adfs.herts.ac.uk</li>
+<li> 12:59 outlook.office365.com</li>
+</ul>
 
 <br>
 
