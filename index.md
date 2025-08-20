@@ -70,27 +70,27 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3558)</li>
 <li>mail.google.com (3508)</li>
-<li>outlook.office.com (3250)</li>
-<li>www.reddit.com (2831)</li>
+<li>outlook.office.com (3257)</li>
+<li>www.reddit.com (2841)</li>
 <li>outlook.office365.com (2543)</li>
-<li>docs.google.com (2342)</li>
-<li>duckduckgo.com (1613)</li>
+<li>docs.google.com (2343)</li>
+<li>duckduckgo.com (1614)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
-<li>chatgpt.com (1037)</li>
-<li>www.linkedin.com (925)</li>
+<li>chatgpt.com (1038)</li>
+<li>www.linkedin.com (928)</li>
 <li>www.amazon.co.uk (893)</li>
 <li>calendar.google.com (726)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (668)</li>
+<li>login.microsoftonline.com (670)</li>
 <li>moodle.royalholloway.ac.uk (605)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (576)</li>
 <li>gmail.com (547)</li>
 <li>github.com (497)</li>
-<li>web.whatsapp.com (485)</li>
+<li>web.whatsapp.com (486)</li>
 <li>chat.openai.com (448)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (424)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (426)</li>
 <li>drive.google.com (368)</li>
 <li>feedly.com (329)</li>
 <li>forum.artofmemory.com (294)</li>
@@ -108,7 +108,62 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:58 herts.instructure.com</li>
+<ul><li> 18:14 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:41 chatgpt.com</li>
+<li> 16:41 docs.google.com</li>
+<li> 16:41 outlook.office.com</li>
+<li> 16:40 www.publicengagement.ac.uk</li>
+<li> 16:37 www.reddit.com</li>
+<li class='same'> 16:34 www.reddit.com</li>
+<li class='same'> 16:31 www.reddit.com</li>
+<li class='same'> 16:30 www.reddit.com</li>
+<li class='same'> 16:29 www.reddit.com</li>
+<li class='same'> 16:27 www.reddit.com</li>
+<li> 16:27 <a href="https://www.theguardian.com/uk-news/2025/aug/19/high-court-judge-orders-closure-of-essex-asylum-hotel-after-far-right-protests">Epping council wins high court bid to stop hotel housing asylum seekers | Immigration and asylum | The Guardian</a></li>
+<li> 16:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:27 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 16:24 www.reddit.com</li>
+<li class='same'> 16:21 www.reddit.com</li>
+<li class='same'> 16:19 www.reddit.com</li>
+<li> 16:19 duckduckgo.com</li>
+<li> 16:17 www.james-gillray.org</li>
+<li> 16:17 www.reddit.com</li>
+<li> 16:17 outlook.office.com</li>
+<li> 16:15 www.linkedin.com</li>
+<li> 16:13 web.whatsapp.com</li>
+<li> 16:13 outlook.office.com</li>
+<li class='same'> 16:11 outlook.office.com</li>
+<li> 16:10 herts.instructure.com</li>
+<li class='same'> 16:09 herts.instructure.com</li>
+<li> 15:39 outlook.office.com</li>
+<li> 15:39 m365.cloud.microsoft</li>
+<li> 15:39 login.microsoftonline.com</li>
+<li> 15:39 eu-west.azureauth.duosecurity.com</li>
+<li> 15:39 api-b6327e78.duosecurity.com</li>
+<li> 15:38 www.linkedin.com</li>
+<li> 15:38 api-b6327e78.duosecurity.com</li>
+<li> 15:38 adfs.herts.ac.uk</li>
+<li> 15:38 www.linkedin.com</li>
+<li> 15:17 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/19/great-british-bake-off-meet-the-contestants">From a ‘Yeastie Boy’ to the ultimate fairytale contestant: meet the stars of the 2025 Great British Bake Off | Television | The Guardian</a></li>
+<li> 15:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:17 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 15:15 outlook.office.com</li>
+<li> 15:15 m365.cloud.microsoft</li>
+<li> 15:15 login.microsoftonline.com</li>
+<li> 15:15 eu-west.azureauth.duosecurity.com</li>
+<li> 15:15 api-b6327e78.duosecurity.com</li>
+<li> 15:15 adfs.herts.ac.uk</li>
+<li> 14:58 herts.instructure.com</li>
+<li class='same'> 14:57 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:58 herts.instructure.com</li>
 <li class='same'> 13:52 herts.instructure.com</li>
 <li class='same'> 13:51 herts.instructure.com</li>
 <li> 13:45 outlook.office365.com</li>
