@@ -69,35 +69,35 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3556)</li>
-<li>mail.google.com (3511)</li>
-<li>outlook.office.com (3258)</li>
+<li>mail.google.com (3516)</li>
+<li>outlook.office.com (3259)</li>
 <li>www.reddit.com (2848)</li>
-<li>outlook.office365.com (2543)</li>
-<li>docs.google.com (2344)</li>
+<li>outlook.office365.com (2565)</li>
+<li>docs.google.com (2346)</li>
 <li>duckduckgo.com (1614)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1038)</li>
-<li>www.linkedin.com (934)</li>
-<li>www.amazon.co.uk (893)</li>
-<li>calendar.google.com (727)</li>
+<li>www.linkedin.com (936)</li>
+<li>www.amazon.co.uk (894)</li>
+<li>calendar.google.com (730)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (669)</li>
-<li>moodle.royalholloway.ac.uk (605)</li>
+<li>login.microsoftonline.com (673)</li>
+<li>moodle.royalholloway.ac.uk (610)</li>
 <li>tvtropes.org (578)</li>
-<li>rhul-my.sharepoint.com (576)</li>
-<li>gmail.com (548)</li>
+<li>rhul-my.sharepoint.com (578)</li>
+<li>gmail.com (551)</li>
 <li>github.com (497)</li>
-<li>web.whatsapp.com (487)</li>
+<li>web.whatsapp.com (488)</li>
 <li>chat.openai.com (448)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (430)</li>
-<li>drive.google.com (368)</li>
+<li>drive.google.com (369)</li>
 <li>feedly.com (330)</li>
 <li>forum.artofmemory.com (294)</li>
 <li>fritz.box (292)</li>
 <li>rhul.sharepoint.com (292)</li>
 <li>whitewaterwriters.com (274)</li>
-<li>forms.office.com (267)</li>
+<li>forms.office.com (268)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,76 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:02 <a href="https://www.theguardian.com/business/nils-pratley-on-finance/2025/aug/19/asda-is-still-misfiring-in-supermarkets-non-existent-price-war">Asda is still misfiring in supermarkets’ non-existent price war | Nils Pratley | The Guardian</a></li>
+<ul><li> 15:13 docs.google.com</li>
+<li> 15:13 drive.google.com</li>
+<li> 15:13 www.amazon.co.uk</li>
+<li> 15:13 mail.google.com</li>
+<li class='same'> 15:12 mail.google.com</li>
+<li> 15:12 gmail.com</li>
+<li> 15:11 outlook.office.com</li>
+<li> 15:11 m365.cloud.microsoft</li>
+<li> 15:11 login.microsoftonline.com</li>
+<li> 15:11 eu-west.azureauth.duosecurity.com</li>
+<li> 15:11 api-b6327e78.duosecurity.com</li>
+<li> 15:11 adfs.herts.ac.uk</li>
+<li> 15:10 api-b6327e78.duosecurity.com</li>
+<li> 15:10 adfs.herts.ac.uk</li>
+<li> 15:10 mail.google.com</li>
+<li> 15:10 gmail.com</li>
+<li> 15:10 outlook.office365.com</li>
+<li class='same'> 15:07 outlook.office365.com</li>
+<li class='same'> 15:06 outlook.office365.com</li>
+<li> 15:06 www.linkedin.com</li>
+<li class='same'> 15:05 www.linkedin.com</li>
+<li> 15:05 outlook.office365.com</li>
+<li class='same'> 15:03 outlook.office365.com</li>
+<li> 14:53 mail.google.com</li>
+<li> 14:52 docs.google.com</li>
+<li> 14:52 mail.google.com</li>
+<li> 14:52 gmail.com</li>
+<li> 14:50 outlook.office365.com</li>
+<li> 14:50 moodle.royalholloway.ac.uk</li>
+<li> 14:49 www.microsoft.com</li>
+<li> 14:49 forms.office.com</li>
+<li> 14:47 outlook.office365.com</li>
+<li> 14:47 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:46 moodle.royalholloway.ac.uk</li>
+<li> 14:46 login.microsoftonline.com</li>
+<li> 14:46 moodle.royalholloway.ac.uk</li>
+<li> 14:46 login.microsoftonline.com</li>
+<li> 14:46 moodle.royalholloway.ac.uk</li>
+<li> 14:46 outlook.office365.com</li>
+<li class='same'> 14:45 outlook.office365.com</li>
+<li class='same'> 14:44 outlook.office365.com</li>
+<li class='same'> 14:40 outlook.office365.com</li>
+<li class='same'> 14:38 outlook.office365.com</li>
+<li class='same'> 14:35 outlook.office365.com</li>
+<li class='same'> 14:34 outlook.office365.com</li>
+<li class='same'> 14:28 outlook.office365.com</li>
+<li> 14:28 rhul-my.sharepoint.com</li>
+<li> 14:28 login.microsoftonline.com</li>
+<li> 14:28 rhul-my.sharepoint.com</li>
+<li> 14:28 outlook.office365.com</li>
+<li class='same'> 14:27 outlook.office365.com</li>
+<li class='same'> 14:26 outlook.office365.com</li>
+<li class='same'> 14:22 outlook.office365.com</li>
+<li class='same'> 14:21 outlook.office365.com</li>
+<li> 14:21 doodle.com</li>
+<li class='same'> 14:20 doodle.com</li>
+<li> 14:19 calendar.google.com</li>
+<li class='same'> 14:18 calendar.google.com</li>
+<li> 14:18 doodle.com</li>
+<li> 14:18 calendar.google.com</li>
+<li> 14:18 doodle.com</li>
+<li> 14:18 outlook.office365.com</li>
+<li class='same'> 14:17 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:05 web.whatsapp.com</li>
+<li> 12:03 <a href="https://www.theguardian.com/world/2025/aug/20/new-zealand-fugitive-tom-phillips-children-hiding-nearly-four-years">Family of New Zealand fugitive on the run for almost four years with his children plead for his return | New Zealand | The Guardian</a></li>
+<li> 12:02 <a href="https://www.theguardian.com/business/nils-pratley-on-finance/2025/aug/19/asda-is-still-misfiring-in-supermarkets-non-existent-price-war">Asda is still misfiring in supermarkets’ non-existent price war | Nils Pratley | The Guardian</a></li>
 <li> 11:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 11:59 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
 <li> 11:46 www.reddit.com</li>
