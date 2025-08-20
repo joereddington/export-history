@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3558)</li>
+<ol><li>www.google.com (3556)</li>
 <li>mail.google.com (3508)</li>
 <li>outlook.office.com (3257)</li>
 <li>www.reddit.com (2841)</li>
-<li>outlook.office365.com (2543)</li>
+<li>outlook.office365.com (2542)</li>
 <li>docs.google.com (2343)</li>
 <li>duckduckgo.com (1614)</li>
 <li>bsky.app (1580)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (893)</li>
 <li>calendar.google.com (726)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (670)</li>
+<li>login.microsoftonline.com (669)</li>
 <li>moodle.royalholloway.ac.uk (605)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (576)</li>
@@ -17170,7 +17170,6 @@ With number of accesses/minutes in parentheses
 <li> 21:37 <a href="https://en.wikipedia.org/wiki/Andy_Weir">Andy Weir - Wikipedia</a></li>
 <li> 21:37 duckduckgo.com</li>
 <li> 21:37 www.amazon.co.uk</li>
-<li> 21:37 www.google.com</li>
 <li> 21:35 docs.google.com</li>
 <li> 21:33 <a href="https://www.theguardian.com/technology/2025/may/21/openai-iphone-io">OpenAI buys iPhone architect’s startup for $6.4bn | Technology | The Guardian</a></li>
 <li> 21:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -17191,8 +17190,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:48 www.google.com</li>
-<li class='same'> 19:47 www.google.com</li>
+<ul><li> 19:47 www.google.com</li>
 <li class='same'> 19:46 www.google.com</li>
 <li class='same'> 19:45 www.google.com</li>
 </ul>
@@ -17391,8 +17389,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:09 outlook.office365.com</li>
 <li> 09:07 rhul-my.sharepoint.com</li>
 <li> 09:07 intranet.royalholloway.ac.uk</li>
-<li> 09:06 outlook.office365.com</li>
-<li> 09:06 login.microsoftonline.com</li>
 <li> 09:06 outlook.office365.com</li>
 <li> 09:03 intranet.royalholloway.ac.uk</li>
 <li> 09:00 www.google.com</li>
