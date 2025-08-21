@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3516)</li>
 <li>outlook.office.com (3259)</li>
 <li>www.reddit.com (2848)</li>
-<li>outlook.office365.com (2565)</li>
+<li>outlook.office365.com (2564)</li>
 <li>docs.google.com (2346)</li>
 <li>duckduckgo.com (1614)</li>
 <li>bsky.app (1580)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (894)</li>
 <li>calendar.google.com (730)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (673)</li>
+<li>login.microsoftonline.com (672)</li>
 <li>moodle.royalholloway.ac.uk (610)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (578)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (488)</li>
 <li>chat.openai.com (448)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (430)</li>
-<li>drive.google.com (369)</li>
+<li>drive.google.com (370)</li>
 <li>feedly.com (330)</li>
 <li>forum.artofmemory.com (294)</li>
 <li>fritz.box (292)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:13 docs.google.com</li>
+<ul><li> 15:14 online.unity.co.uk</li>
+<li> 15:14 drive.google.com</li>
+<li> 15:13 docs.google.com</li>
 <li> 15:13 drive.google.com</li>
 <li> 15:13 www.amazon.co.uk</li>
 <li> 15:13 mail.google.com</li>
@@ -17171,8 +17173,7 @@ With number of accesses/minutes in parentheses
 <li> 13:27 mail.google.com</li>
 <li class='same'> 13:22 mail.google.com</li>
 <li class='same'> 13:18 mail.google.com</li>
-<li> 13:17 gla-my.sharepoint.com</li>
-<li> 13:16 mail.google.com</li>
+<li class='same'> 13:16 mail.google.com</li>
 <li> 13:16 gla-my.sharepoint.com</li>
 <li> 13:16 mail.google.com</li>
 <li class='same'> 13:15 mail.google.com</li>
@@ -17190,8 +17191,6 @@ With number of accesses/minutes in parentheses
 <li> 13:03 mail.google.com</li>
 <li> 13:03 outlook.office365.com</li>
 <li> 13:02 mail.google.com</li>
-<li> 13:02 outlook.office365.com</li>
-<li> 13:02 login.microsoftonline.com</li>
 <li> 13:02 outlook.office365.com</li>
 </ul>
 
