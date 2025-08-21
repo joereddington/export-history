@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3516)</li>
 <li>outlook.office.com (3259)</li>
 <li>www.reddit.com (2850)</li>
-<li>outlook.office365.com (2571)</li>
+<li>outlook.office365.com (2574)</li>
 <li>docs.google.com (2346)</li>
-<li>duckduckgo.com (1617)</li>
+<li>duckduckgo.com (1618)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
-<li>chatgpt.com (1038)</li>
+<li>chatgpt.com (1039)</li>
 <li>www.linkedin.com (938)</li>
 <li>www.amazon.co.uk (894)</li>
 <li>calendar.google.com (730)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (551)</li>
 <li>github.com (497)</li>
 <li>web.whatsapp.com (489)</li>
-<li>chat.openai.com (448)</li>
+<li>chat.openai.com (449)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (430)</li>
 <li>drive.google.com (370)</li>
 <li>feedly.com (331)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:47 www.linkedin.com</li>
+<ul><li> 13:27 outlook.office365.com</li>
+<li class='same'> 13:26 outlook.office365.com</li>
+<li> 13:26 kripken.github.io</li>
+<li class='same'> 13:24 kripken.github.io</li>
+<li> 13:20 <a href="https://en.wikipedia.org/wiki/List_of_Doom_ports">List of Doom ports - Wikipedia</a></li>
+<li> 13:20 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:18 chatgpt.com</li>
+<li> 12:18 chat.openai.com</li>
+<li> 12:15 outlook.office365.com</li>
+<li> 11:47 www.linkedin.com</li>
 <li> 11:46 outlook.office365.com</li>
 <li> 11:46 forms.office.com</li>
 <li class='same'> 11:45 forms.office.com</li>
