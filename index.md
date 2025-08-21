@@ -72,23 +72,23 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3516)</li>
 <li>outlook.office.com (3259)</li>
 <li>www.reddit.com (2850)</li>
-<li>outlook.office365.com (2565)</li>
+<li>outlook.office365.com (2570)</li>
 <li>docs.google.com (2346)</li>
-<li>duckduckgo.com (1614)</li>
+<li>duckduckgo.com (1617)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1038)</li>
-<li>www.linkedin.com (936)</li>
+<li>www.linkedin.com (937)</li>
 <li>www.amazon.co.uk (894)</li>
 <li>calendar.google.com (730)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (672)</li>
-<li>moodle.royalholloway.ac.uk (610)</li>
+<li>login.microsoftonline.com (675)</li>
+<li>moodle.royalholloway.ac.uk (615)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (578)</li>
 <li>gmail.com (551)</li>
 <li>github.com (497)</li>
-<li>web.whatsapp.com (488)</li>
+<li>web.whatsapp.com (489)</li>
 <li>chat.openai.com (448)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (430)</li>
 <li>drive.google.com (370)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (292)</li>
 <li>rhul.sharepoint.com (292)</li>
 <li>whitewaterwriters.com (274)</li>
-<li>forms.office.com (268)</li>
+<li>forms.office.com (270)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:51 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
+<ul><li> 10:32 forms.office.com</li>
+<li> 10:32 login.microsoftonline.com</li>
+<li> 10:32 forms.office.com</li>
+<li> 10:31 outlook.office365.com</li>
+<li> 10:31 www.linkedin.com</li>
+<li> 10:31 outlook.office365.com</li>
+<li> 10:29 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:28 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:27 moodle.royalholloway.ac.uk</li>
+<li> 10:27 www.scribbr.co.uk</li>
+<li> 10:27 duckduckgo.com</li>
+<li> 10:27 moodle.royalholloway.ac.uk</li>
+<li> 10:27 login.microsoftonline.com</li>
+<li> 10:27 moodle.royalholloway.ac.uk</li>
+<li> 10:25 www.royalholloway.ac.uk</li>
+<li> 10:25 duckduckgo.com</li>
+<li> 10:23 www.royalholloway.ac.uk</li>
+<li> 10:23 duckduckgo.com</li>
+<li> 10:23 outlook.office365.com</li>
+<li> 10:12 projects.cs.rhul.ac.uk</li>
+<li> 10:12 web.whatsapp.com</li>
+<li> 10:04 fast.com</li>
+<li> 09:59 outlook.office365.com</li>
+<li> 09:59 login.microsoftonline.com</li>
+<li> 09:59 outlook.office365.com</li>
+<li> 09:59 dashboards.rhul.ac.uk</li>
+<li> 09:51 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
 <li> 09:51 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:51 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 </ul>
@@ -66230,6 +66256,7 @@ With number of accesses/minutes in parentheses
 <li> 11:29 intranet.royalholloway.ac.uk</li>
 <li> 11:23 webtimetables.royalholloway.ac.uk</li>
 <li> 11:12 thecyberscheme.org</li>
+<li> 10:57 www.royalholloway.ac.uk</li>
 </ul>
 
 <br>
