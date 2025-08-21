@@ -71,8 +71,8 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3556)</li>
 <li>mail.google.com (3516)</li>
 <li>outlook.office.com (3259)</li>
-<li>www.reddit.com (2848)</li>
-<li>outlook.office365.com (2564)</li>
+<li>www.reddit.com (2850)</li>
+<li>outlook.office365.com (2565)</li>
 <li>docs.google.com (2346)</li>
 <li>duckduckgo.com (1614)</li>
 <li>bsky.app (1580)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (448)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (430)</li>
 <li>drive.google.com (370)</li>
-<li>feedly.com (330)</li>
+<li>feedly.com (331)</li>
 <li>forum.artofmemory.com (294)</li>
 <li>fritz.box (292)</li>
 <li>rhul.sharepoint.com (292)</li>
@@ -104,11 +104,38 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 21/08/25</H3>
+
+<br>
+
+<ul><li> 09:51 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
+<li> 09:51 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:51 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+</ul>
+
+<br>
+
+<ul><li> 08:46 www.reddit.com</li>
+<li class='same'> 08:45 www.reddit.com</li>
+<li> 08:44 feedly.com</li>
+</ul>
+
 <H3>Wednesday, 20/08/25</H3>
 
 <br>
 
-<ul><li> 15:14 online.unity.co.uk</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 16:00 outlook.office365.com</li>
+<li> 16:00 online.unity.co.uk</li>
+<li class='same'> 15:59 online.unity.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:14 online.unity.co.uk</li>
 <li> 15:14 drive.google.com</li>
 <li> 15:13 docs.google.com</li>
 <li> 15:13 drive.google.com</li>
