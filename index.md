@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3516)</li>
 <li>outlook.office.com (3259)</li>
 <li>www.reddit.com (2850)</li>
-<li>outlook.office365.com (2574)</li>
+<li>outlook.office365.com (2576)</li>
 <li>docs.google.com (2346)</li>
 <li>duckduckgo.com (1618)</li>
 <li>bsky.app (1580)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (497)</li>
 <li>web.whatsapp.com (489)</li>
 <li>chat.openai.com (449)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (430)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (431)</li>
 <li>drive.google.com (370)</li>
 <li>feedly.com (331)</li>
 <li>forum.artofmemory.com (294)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:27 outlook.office365.com</li>
+<ul><li> 14:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:34 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 14:34 outlook.office365.com</li>
+<li class='same'> 14:33 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:27 outlook.office365.com</li>
 <li class='same'> 13:26 outlook.office365.com</li>
 <li> 13:26 kripken.github.io</li>
 <li class='same'> 13:24 kripken.github.io</li>
