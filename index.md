@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3566)</li>
-<li>mail.google.com (3520)</li>
+<li>mail.google.com (3521)</li>
 <li>outlook.office.com (3259)</li>
-<li>www.reddit.com (2869)</li>
-<li>outlook.office365.com (2576)</li>
+<li>www.reddit.com (2873)</li>
+<li>outlook.office365.com (2579)</li>
 <li>docs.google.com (2348)</li>
 <li>duckduckgo.com (1618)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
-<li>chatgpt.com (1040)</li>
-<li>www.linkedin.com (940)</li>
+<li>chatgpt.com (1042)</li>
+<li>www.linkedin.com (942)</li>
 <li>www.amazon.co.uk (895)</li>
 <li>calendar.google.com (732)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (673)</li>
+<li>login.microsoftonline.com (674)</li>
 <li>moodle.royalholloway.ac.uk (615)</li>
 <li>tvtropes.org (578)</li>
 <li>rhul-my.sharepoint.com (578)</li>
 <li>gmail.com (552)</li>
 <li>github.com (497)</li>
-<li>web.whatsapp.com (490)</li>
-<li>chat.openai.com (450)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (438)</li>
+<li>web.whatsapp.com (491)</li>
+<li>chat.openai.com (451)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (440)</li>
 <li>drive.google.com (370)</li>
 <li>feedly.com (332)</li>
 <li>forum.artofmemory.com (294)</li>
@@ -104,7 +104,60 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 23/08/25</H3>
+
+<br>
+
+<ul><li> 07:26 www.printables.com</li>
+<li class='same'> 07:25 www.printables.com</li>
+<li class='same'> 07:24 www.printables.com</li>
+<li class='same'> 07:23 www.printables.com</li>
+<li> 07:22 web.whatsapp.com</li>
+<li> 07:12 www.thingiverse.com</li>
+<li class='same'> 07:11 www.thingiverse.com</li>
+<li class='same'> 07:10 www.thingiverse.com</li>
+<li> 07:10 login.thingiverse.com</li>
+<li> 07:10 www.thingiverse.com</li>
+<li> 07:10 login.thingiverse.com</li>
+<li> 07:10 www.thingiverse.com</li>
+<li class='same'> 07:09 www.thingiverse.com</li>
+<li class='same'> 07:08 www.thingiverse.com</li>
+<li class='same'> 07:07 www.thingiverse.com</li>
+<li class='same'> 07:06 www.thingiverse.com</li>
+<li class='same'> 07:05 www.thingiverse.com</li>
+<li> 07:05 www.printables.com</li>
+<li class='same'> 07:03 www.printables.com</li>
+<li class='same'> 07:02 www.printables.com</li>
+<li> 07:02 chatgpt.com</li>
+<li class='same'> 07:01 chatgpt.com</li>
+<li> 07:01 chat.openai.com</li>
+<li> 07:01 www.printables.com</li>
+<li> 07:00 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
+<li> 07:00 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 07:00 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 07:00 www.linkedin.com</li>
+<li> 06:58 www.reddit.com</li>
+<li class='same'> 06:57 www.reddit.com</li>
+<li> 06:57 www.giantitp.com</li>
+<li class='same'> 06:56 www.giantitp.com</li>
+<li class='same'> 06:54 www.giantitp.com</li>
+<li> 06:54 outlook.office365.com</li>
+<li> 06:53 www.linkedin.com</li>
+<li> 06:52 outlook.office365.com</li>
+<li> 06:52 login.microsoftonline.com</li>
+<li> 06:52 outlook.office365.com</li>
+<li> 06:52 mail.google.com</li>
+<li> 06:50 www.reddit.com</li>
+<li class='same'> 06:48 www.reddit.com</li>
+<li> 06:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:45 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+</ul>
+
 <H3>Friday, 22/08/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -114,7 +167,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:38 <a href="https://www.theguardian.com/film/2025/aug/22/the-thursday-club-review-richard-osman-bestseller-provides-solid-star-stuffed-entertainment">The Thursday Murder Club review – Richard Osman bestseller provides solid, star-stuffed entertainment | Film | The Guardian</a></li>
+<ul><li> 14:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:40 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 14:38 <a href="https://www.theguardian.com/film/2025/aug/22/the-thursday-club-review-richard-osman-bestseller-provides-solid-star-stuffed-entertainment">The Thursday Murder Club review – Richard Osman bestseller provides solid, star-stuffed entertainment | Film | The Guardian</a></li>
 <li> 14:37 <a href="https://www.theguardian.com/books/2025/aug/22/children-and-teens-roundup-the-best-new-picture-books-and-novels">Children and teens roundup – the best new picture books and novels | Teen books | The Guardian</a></li>
 <li> 14:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 14:37 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
