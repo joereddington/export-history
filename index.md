@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3567)</li>
-<li>mail.google.com (3521)</li>
+<li>mail.google.com (3523)</li>
 <li>outlook.office.com (3259)</li>
 <li>www.reddit.com (2873)</li>
 <li>outlook.office365.com (2579)</li>
 <li>docs.google.com (2348)</li>
-<li>duckduckgo.com (1618)</li>
+<li>duckduckgo.com (1619)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1042)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (497)</li>
 <li>web.whatsapp.com (491)</li>
 <li>chat.openai.com (451)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (440)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (441)</li>
 <li>drive.google.com (370)</li>
 <li>feedly.com (332)</li>
 <li>forum.artofmemory.com (294)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:44 www.printables.com</li>
+<ul><li> 14:11 <a href="https://www.theguardian.com/world/2025/aug/22/israeli-children-refused-access-to-leisure-park-in-southern-france">Israeli children refused access to leisure park in southern France | France | The Guardian</a></li>
+<li> 14:11 <a href="https://www.theguardian.com/news/2025/aug/23/six-great-reads-90s-parenting-mistress-dispellers-and-the-summers-biggest-booze-trend">Six great reads: 90s parenting, ‘mistress dispellers’ and the summer’s biggest booze trend | | The Guardian</a></li>
+<li> 14:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:10 mail.google.com</li>
+<li class='same'> 14:09 mail.google.com</li>
+<li> 14:09 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 14:09 live.opayo.eu.elavon.com</li>
+<li class='same'> 14:07 live.opayo.eu.elavon.com</li>
+<li> 14:07 bookings.orbitaltrampolinepark.co.uk</li>
+<li class='same'> 14:05 bookings.orbitaltrampolinepark.co.uk</li>
+<li class='same'> 14:04 bookings.orbitaltrampolinepark.co.uk</li>
+<li class='same'> 14:01 bookings.orbitaltrampolinepark.co.uk</li>
+<li> 14:01 www.orbitaltrampolinepark.co.uk</li>
+<li> 14:01 duckduckgo.com</li>
+<li> 13:44 www.printables.com</li>
 </ul>
 
 <br>
