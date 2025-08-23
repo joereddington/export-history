@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3556)</li>
+<ol><li>www.google.com (3566)</li>
 <li>mail.google.com (3520)</li>
 <li>outlook.office.com (3259)</li>
-<li>www.reddit.com (2858)</li>
+<li>www.reddit.com (2869)</li>
 <li>outlook.office365.com (2576)</li>
 <li>docs.google.com (2348)</li>
 <li>duckduckgo.com (1618)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (497)</li>
 <li>web.whatsapp.com (490)</li>
 <li>chat.openai.com (450)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (435)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (438)</li>
 <li>drive.google.com (370)</li>
 <li>feedly.com (332)</li>
 <li>forum.artofmemory.com (294)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 22/08/25</H3>
+
+<br>
+
+<ul><li> 18:08 www.printables.com</li>
+<li> 18:08 www.google.com</li>
+</ul>
 
 <br>
 
@@ -139,6 +145,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 13:12 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:25 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:33 www.google.com</li>
+<li> 08:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
 <ul><li> 07:46 <a href="https://www.theguardian.com/film/2025/aug/22/love-is-great-but-then-one-of-you-will-be-dog-tired-and-doing-the-bins-benedict-cumberbatch-and-olivia-colman-on-how-to-survive-a-marriage">‘Love is great. But then one of you will be dog-tired and doing the bins’: Benedict Cumberbatch and Olivia Colman on how to survive a marriage | Film | The Guardian</a></li>
 <li> 07:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:45 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
@@ -160,6 +182,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:35 www.reddit.com</li>
 <li class='same'> 06:33 www.reddit.com</li>
 <li class='same'> 06:32 www.reddit.com</li>
+<li> 06:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:27 <a href="https://www.theguardian.com/lifeandstyle/2025/aug/22/experience-im-a-champion-jigsaw-puzzler">Experience: I’m a champion jigsaw puzzler | Life and style | The Guardian</a></li>
+<li> 06:26 www.google.com</li>
+<li> 06:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:26 www.google.com</li>
 </ul>
 
 <br>
@@ -266,6 +293,16 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 19:14 www.google.com</li>
+<li> 19:14 www.reddit.com</li>
+<li> 19:14 www.google.com</li>
+<li> 19:13 www.reddit.com</li>
+<li> 19:13 www.google.com</li>
+<li> 19:13 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -400,6 +437,19 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 20:50 www.reddit.com</li>
+<li class='same'> 20:49 www.reddit.com</li>
+<li class='same'> 20:47 www.reddit.com</li>
+<li class='same'> 20:46 www.reddit.com</li>
+<li class='same'> 20:45 www.reddit.com</li>
+<li class='same'> 20:44 www.reddit.com</li>
+<li class='same'> 20:43 www.reddit.com</li>
+<li class='same'> 20:41 www.reddit.com</li>
+<li> 20:41 www.google.com</li>
+</ul>
 
 <br>
 
