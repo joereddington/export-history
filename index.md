@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3566)</li>
+<ol><li>www.google.com (3567)</li>
 <li>mail.google.com (3521)</li>
 <li>outlook.office.com (3259)</li>
 <li>www.reddit.com (2873)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:26 www.printables.com</li>
+<ul><li> 13:44 www.printables.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:26 www.printables.com</li>
 <li class='same'> 07:25 www.printables.com</li>
 <li class='same'> 07:24 www.printables.com</li>
 <li class='same'> 07:23 www.printables.com</li>
@@ -161,7 +166,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:08 www.printables.com</li>
+<ul><li> 18:13 www.printables.com</li>
+<li class='same'> 18:12 www.printables.com</li>
+<li class='same'> 18:11 www.printables.com</li>
+<li> 18:10 www.google.com</li>
+<li> 18:09 www.printables.com</li>
+<li class='same'> 18:08 www.printables.com</li>
 <li> 18:08 www.google.com</li>
 </ul>
 
