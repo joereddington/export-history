@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3576)</li>
+<ol><li>www.google.com (3580)</li>
 <li>mail.google.com (3524)</li>
 <li>outlook.office.com (3259)</li>
-<li>www.reddit.com (2899)</li>
+<li>www.reddit.com (2905)</li>
 <li>outlook.office365.com (2579)</li>
 <li>docs.google.com (2349)</li>
-<li>duckduckgo.com (1619)</li>
+<li>duckduckgo.com (1639)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1042)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (497)</li>
 <li>web.whatsapp.com (491)</li>
 <li>chat.openai.com (451)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (448)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (449)</li>
 <li>drive.google.com (370)</li>
 <li>feedly.com (333)</li>
 <li>forum.artofmemory.com (294)</li>
@@ -105,6 +105,71 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 24/08/25</H3>
+
+<br>
+
+<ul><li> 14:49 www.reddit.com</li>
+<li class='same'> 14:46 www.reddit.com</li>
+<li> 14:44 <a href="https://en.wikipedia.org/wiki/Piccadilly_line">Piccadilly line - Wikipedia</a></li>
+<li> 14:44 <a href="https://en.wikipedia.org/wiki/Cockfosters">Cockfosters - Wikipedia</a></li>
+<li> 14:44 duckduckgo.com</li>
+<li class='same'> 14:43 duckduckgo.com</li>
+<li> 14:42 www.sporcle.com</li>
+<li class='same'> 14:41 www.sporcle.com</li>
+<li class='same'> 14:40 www.sporcle.com</li>
+<li class='same'> 14:38 www.sporcle.com</li>
+<li class='same'> 14:37 www.sporcle.com</li>
+<li> 14:35 duckduckgo.com</li>
+<li class='same'> 14:34 duckduckgo.com</li>
+<li> 14:33 www.sporcle.com</li>
+<li> 14:29 <a href="https://en.wikipedia.org/wiki/OPEC">OPEC - Wikipedia</a></li>
+<li> 14:29 duckduckgo.com</li>
+<li class='same'> 14:28 duckduckgo.com</li>
+<li class='same'> 14:27 duckduckgo.com</li>
+<li class='same'> 14:26 duckduckgo.com</li>
+<li> 14:26 www.sporcle.com</li>
+<li class='same'> 14:24 www.sporcle.com</li>
+<li> 14:08 <a href="https://en.wikipedia.org/wiki/Rubidium">Rubidium - Wikipedia</a></li>
+<li> 14:05 duckduckgo.com</li>
+<li> 14:04 <a href="https://en.wikipedia.org/wiki/Manganese">Manganese - Wikipedia</a></li>
+<li> 14:04 duckduckgo.com</li>
+<li> 14:03 <a href="https://en.wikipedia.org/wiki/Titanium">Titanium - Wikipedia</a></li>
+<li> 14:03 <a href="https://en.wikipedia.org/wiki/Chemical_element">Chemical element - Wikipedia</a></li>
+<li> 14:02 <a href="https://en.wikipedia.org/wiki/Sulfur">Sulfur - Wikipedia</a></li>
+<li> 14:02 duckduckgo.com</li>
+<li> 14:01 <a href="https://en.wikipedia.org/wiki/Fluorine">Fluorine - Wikipedia</a></li>
+<li> 14:01 <a href="https://en.wikipedia.org/wiki/Period_2_element">Period 2 element - Wikipedia</a></li>
+<li> 14:00 <a href="https://en.wikipedia.org/wiki/Boron">Boron - Wikipedia</a></li>
+<li> 14:00 www.sporcle.com</li>
+<li> 14:00 <a href="https://en.wikipedia.org/wiki/Beryllium">Beryllium - Wikipedia</a></li>
+<li> 14:00 duckduckgo.com</li>
+<li class='same'> 13:59 duckduckgo.com</li>
+<li class='same'> 13:58 duckduckgo.com</li>
+<li class='same'> 13:57 duckduckgo.com</li>
+<li class='same'> 13:56 duckduckgo.com</li>
+<li> 13:56 <a href="https://en.wikipedia.org/wiki/Beryllium">Beryllium - Wikipedia</a></li>
+<li> 13:55 duckduckgo.com</li>
+<li> 13:55 www.sporcle.com</li>
+<li class='same'> 13:54 www.sporcle.com</li>
+<li> 13:51 duckduckgo.com</li>
+<li> 13:48 www.sporcle.com</li>
+<li> 13:48 duckduckgo.com</li>
+<li> 13:47 www.reddit.com</li>
+<li> 13:47 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:44 <a href="https://www.theguardian.com/society/2025/aug/24/labour-abolish-most-short-prison-sentences-england-wales">Labour to abolish most short prison sentences in England and Wales | Prisons and probation | The Guardian</a></li>
+<li> 12:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:44 www.google.com</li>
+<li class='same'> 12:39 www.google.com</li>
+<li> 12:38 www.reddit.com</li>
+<li> 12:38 www.google.com</li>
+<li> 12:38 www.reddit.com</li>
+<li> 12:38 www.google.com</li>
+<li> 12:38 www.reddit.com</li>
+</ul>
 
 <br>
 
