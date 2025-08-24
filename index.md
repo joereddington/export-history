@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3567)</li>
-<li>mail.google.com (3523)</li>
+<ol><li>www.google.com (3576)</li>
+<li>mail.google.com (3524)</li>
 <li>outlook.office.com (3259)</li>
-<li>www.reddit.com (2873)</li>
+<li>www.reddit.com (2899)</li>
 <li>outlook.office365.com (2579)</li>
-<li>docs.google.com (2348)</li>
+<li>docs.google.com (2349)</li>
 <li>duckduckgo.com (1619)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
 <li>chatgpt.com (1042)</li>
 <li>www.linkedin.com (942)</li>
-<li>www.amazon.co.uk (895)</li>
+<li>www.amazon.co.uk (896)</li>
 <li>calendar.google.com (732)</li>
 <li>www.theguardian.com (685)</li>
 <li>login.microsoftonline.com (674)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (497)</li>
 <li>web.whatsapp.com (491)</li>
 <li>chat.openai.com (451)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (441)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (445)</li>
 <li>drive.google.com (370)</li>
 <li>feedly.com (332)</li>
 <li>forum.artofmemory.com (294)</li>
@@ -104,7 +104,71 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 24/08/25</H3>
+
+<br>
+
+<ul><li> 00:00 docs.google.com</li>
+</ul>
+
 <H3>Saturday, 23/08/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 23:05 www.reddit.com</li>
+<li class='same'> 23:04 www.reddit.com</li>
+<li class='same'> 23:03 www.reddit.com</li>
+<li class='same'> 23:02 www.reddit.com</li>
+<li class='same'> 23:01 www.reddit.com</li>
+<li class='same'> 23:00 www.reddit.com</li>
+<li class='same'> 22:59 www.reddit.com</li>
+<li class='same'> 22:58 www.reddit.com</li>
+<li class='same'> 22:57 www.reddit.com</li>
+<li class='same'> 22:56 www.reddit.com</li>
+<li class='same'> 22:55 www.reddit.com</li>
+<li class='same'> 22:54 www.reddit.com</li>
+<li class='same'> 22:53 www.reddit.com</li>
+<li class='same'> 22:52 www.reddit.com</li>
+<li class='same'> 22:51 www.reddit.com</li>
+<li class='same'> 22:23 www.reddit.com</li>
+<li> 22:22 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:37 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:05 <a href="https://www.theguardian.com/us-news/2025/aug/23/marjorie-taylor-greene-bernie-sanders-famine-gaza">Marjorie Taylor Greene joins Bernie Sanders in urging US to end Gaza famine | Marjorie Taylor Greene | The Guardian</a></li>
+<li> 20:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:04 www.webuyanycar.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:01 <a href="https://www.theguardian.com/culture/2025/aug/23/sorry-baby-to-earl-sweatshirt-the-week-in-rave-reviews">Sorry, Baby to Earl Sweatshirt: the week in rave reviews | Culture | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:05 <a href="https://www.theguardian.com/culture/2025/aug/23/sorry-baby-to-earl-sweatshirt-the-week-in-rave-reviews">Sorry, Baby to Earl Sweatshirt: the week in rave reviews | Culture | The Guardian</a></li>
+<li> 17:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li class='same'> 17:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:04 www.google.com</li>
+<li class='same'> 17:03 www.google.com</li>
+<li> 17:03 www.feefo.com</li>
+<li class='same'> 17:02 www.feefo.com</li>
+<li> 17:02 www.google.com</li>
+<li> 17:01 approvedfood.co.uk</li>
+<li> 17:01 www.google.com</li>
+</ul>
 
 <br>
 
@@ -122,6 +186,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:01 bookings.orbitaltrampolinepark.co.uk</li>
 <li> 14:01 www.orbitaltrampolinepark.co.uk</li>
 <li> 14:01 duckduckgo.com</li>
+<li> 13:44 www.google.com</li>
 <li> 13:44 www.printables.com</li>
 </ul>
 
@@ -286,6 +351,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 17:04 www.webuyanycar.com</li>
+<li> 17:04 www.amazon.co.uk</li>
+<li> 17:04 accounts.google.com</li>
+<li> 17:03 www.webuyanycar.com</li>
+<li class='same'> 17:01 www.webuyanycar.com</li>
+<li class='same'> 17:00 www.webuyanycar.com</li>
+</ul>
+
+<br>
+
 <ul><li> 15:48 www.printables.com</li>
 </ul>
 
@@ -365,6 +440,9 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:46 www.reddit.com</li>
 <li class='same'> 08:45 www.reddit.com</li>
 <li> 08:44 feedly.com</li>
+<li> 08:31 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 08:30 <a href="https://www.theguardian.com/us-news/2025/aug/20/jd-vance-heckled-washington-dc">JD Vance booed during hamburger handout to national guard troops in DC | JD Vance | The Guardian</a></li>
+<li> 08:29 <a href="https://www.theguardian.com/film/2025/aug/21/husband-affair-chinas-mistress-dispeller">If your husband’s having an affair, this woman will get rid of her: the gripping film about China’s ‘mistress dispellers’ | Film | The Guardian</a></li>
 </ul>
 
 <H3>Wednesday, 20/08/25</H3>
@@ -511,6 +589,17 @@ With number of accesses/minutes in parentheses
 <li> 09:01 docs.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 08:24 www.vice.com</li>
+<li> 08:24 www.nationalgeographic.com</li>
+<li> 08:22 <a href="https://www.theguardian.com/film/2025/aug/19/kevin-costner-lawsuit-horizon-stunt-performer?utm_source=firefox-newtab-en-gb">Kevin Costner calls lawsuit over on-set rape scene a ‘bold-faced lie’ | Kevin Costner | The Guardian</a></li>
+<li> 08:22 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
+<li> 08:20 <a href="https://www.theguardian.com/football/2025/aug/20/can-any-club-match-liverpool-top-eight-finishes-the-knowledge">Can any club match Liverpool’s impressive run of top-eight finishes? | Football | The Guardian</a></li>
+<li> 08:19 www.reddit.com</li>
+<li class='same'> 08:18 www.reddit.com</li>
+</ul>
+
 <H3>Tuesday, 19/08/25</H3>
 
 <br>
@@ -519,7 +608,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:50 www.reddit.com</li>
+<ul><li class='same'> 20:50 www.reddit.com</li>
 <li class='same'> 20:49 www.reddit.com</li>
 <li class='same'> 20:47 www.reddit.com</li>
 <li class='same'> 20:46 www.reddit.com</li>
@@ -2032,7 +2121,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:23 fritz.box</li>
+<ul><li> 17:41 www.reddit.com</li>
+<li class='same'> 17:39 www.reddit.com</li>
+<li class='same'> 17:37 www.reddit.com</li>
+<li class='same'> 17:36 www.reddit.com</li>
+<li class='same'> 17:32 www.reddit.com</li>
+<li> 17:23 fritz.box</li>
 <li class='same'> 17:20 fritz.box</li>
 </ul>
 
@@ -2141,7 +2235,19 @@ With number of accesses/minutes in parentheses
 <li> 13:55 chat.openai.com</li>
 <li> 13:54 outlook.office365.com</li>
 <li class='same'> 13:53 outlook.office365.com</li>
-<li> 13:31 www.google.com</li>
+<li> 13:52 www.reddit.com</li>
+<li class='same'> 13:51 www.reddit.com</li>
+<li class='same'> 13:49 www.reddit.com</li>
+<li> 13:49 www.google.com</li>
+<li> 13:49 wh40k.lexicanum.com</li>
+<li class='same'> 13:48 wh40k.lexicanum.com</li>
+<li class='same'> 13:47 wh40k.lexicanum.com</li>
+<li> 13:47 www.google.com</li>
+<li> 13:47 warhammer40k.fandom.com</li>
+<li class='same'> 13:46 warhammer40k.fandom.com</li>
+<li class='same'> 13:45 warhammer40k.fandom.com</li>
+<li> 13:45 www.google.com</li>
+<li class='same'> 13:31 www.google.com</li>
 <li> 13:31 www.jcq.org.uk</li>
 <li class='same'> 13:30 www.jcq.org.uk</li>
 <li class='same'> 13:29 www.jcq.org.uk</li>
@@ -2212,6 +2318,7 @@ With number of accesses/minutes in parentheses
 <li> 07:30 <a href="https://www.theguardian.com/">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
 <li> 07:25 feedly.com</li>
 <li> 07:24 www.linkedin.com</li>
+<li> 07:10 warhammer40k.fandom.com</li>
 <li> 07:10 www.google.com</li>
 <li class='same'> 07:03 www.google.com</li>
 <li> 07:00 warhammer40k.fandom.com</li>
