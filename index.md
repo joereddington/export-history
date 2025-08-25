@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (3580)</li>
 <li>mail.google.com (3524)</li>
 <li>outlook.office.com (3259)</li>
-<li>www.reddit.com (2905)</li>
+<li>www.reddit.com (2909)</li>
 <li>outlook.office365.com (2579)</li>
 <li>docs.google.com (2349)</li>
 <li>duckduckgo.com (1639)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
-<li>chatgpt.com (1042)</li>
-<li>www.linkedin.com (944)</li>
+<li>chatgpt.com (1045)</li>
+<li>www.linkedin.com (945)</li>
 <li>www.amazon.co.uk (896)</li>
 <li>calendar.google.com (732)</li>
 <li>www.theguardian.com (685)</li>
@@ -89,12 +89,12 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (552)</li>
 <li>github.com (497)</li>
 <li>web.whatsapp.com (491)</li>
-<li>chat.openai.com (451)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (449)</li>
+<li>chat.openai.com (452)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (450)</li>
 <li>drive.google.com (370)</li>
 <li>feedly.com (333)</li>
 <li>forum.artofmemory.com (294)</li>
-<li>fritz.box (292)</li>
+<li>fritz.box (293)</li>
 <li>rhul.sharepoint.com (292)</li>
 <li>whitewaterwriters.com (274)</li>
 <li>forms.office.com (273)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:49 www.reddit.com</li>
+<ul><li> 16:06 fritz.box</li>
+<li> 16:06 chatgpt.com</li>
+<li class='same'> 15:48 chatgpt.com</li>
+<li class='same'> 15:47 chatgpt.com</li>
+<li> 15:47 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:58 www.linkedin.com</li>
+<li> 14:57 www.reddit.com</li>
+<li class='same'> 14:56 www.reddit.com</li>
+<li class='same'> 14:55 www.reddit.com</li>
+<li class='same'> 14:54 www.reddit.com</li>
+<li class='same'> 14:49 www.reddit.com</li>
 <li class='same'> 14:46 www.reddit.com</li>
 <li> 14:44 <a href="https://en.wikipedia.org/wiki/Piccadilly_line">Piccadilly line - Wikipedia</a></li>
 <li> 14:44 <a href="https://en.wikipedia.org/wiki/Cockfosters">Cockfosters - Wikipedia</a></li>
