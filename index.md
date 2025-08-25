@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (497)</li>
 <li>web.whatsapp.com (491)</li>
 <li>chat.openai.com (452)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (450)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (452)</li>
 <li>drive.google.com (370)</li>
 <li>feedly.com (333)</li>
 <li>forum.artofmemory.com (294)</li>
@@ -104,7 +104,24 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 25/08/25</H3>
+
+<br>
+
+<ul><li> 08:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:18 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:17 <a href="https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka">Japan has opened its first osmotic power plant – so what is it and how does it work? | Japan | The Guardian</a></li>
+<li> 08:16 <a href="https://www.theguardian.com/us-news/2025/aug/25/epstein-accuser-virginia-giuffres-memoir-to-be-published-posthumously">Epstein accuser Virginia Giuffre’s memoir to be published posthumously | Jeffrey Epstein | The Guardian</a></li>
+<li> 08:16 adblockplus.org</li>
+<li> 08:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:16 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
 <H3>Sunday, 24/08/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -17045,7 +17062,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 22:41 www.temu.com</li>
 <li> 22:41 tvtropes.org</li>
-<li> 22:41 www.temu.com</li>
 </ul>
 
 <br>
