@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3580)</li>
-<li>mail.google.com (3524)</li>
-<li>outlook.office.com (3259)</li>
-<li>www.reddit.com (2909)</li>
+<li>mail.google.com (3526)</li>
+<li>outlook.office.com (3263)</li>
+<li>www.reddit.com (2921)</li>
 <li>outlook.office365.com (2579)</li>
 <li>docs.google.com (2349)</li>
-<li>duckduckgo.com (1639)</li>
+<li>duckduckgo.com (1642)</li>
 <li>bsky.app (1580)</li>
 <li>www.facebook.com (1437)</li>
-<li>chatgpt.com (1045)</li>
-<li>www.linkedin.com (945)</li>
+<li>chatgpt.com (1049)</li>
+<li>www.linkedin.com (949)</li>
 <li>www.amazon.co.uk (896)</li>
 <li>calendar.google.com (732)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (674)</li>
+<li>login.microsoftonline.com (676)</li>
 <li>moodle.royalholloway.ac.uk (615)</li>
-<li>tvtropes.org (578)</li>
+<li>tvtropes.org (579)</li>
 <li>rhul-my.sharepoint.com (578)</li>
-<li>gmail.com (552)</li>
+<li>gmail.com (553)</li>
 <li>github.com (497)</li>
 <li>web.whatsapp.com (491)</li>
-<li>chat.openai.com (452)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (452)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (454)</li>
+<li>chat.openai.com (453)</li>
 <li>drive.google.com (370)</li>
-<li>feedly.com (333)</li>
+<li>feedly.com (334)</li>
 <li>forum.artofmemory.com (294)</li>
 <li>fritz.box (293)</li>
 <li>rhul.sharepoint.com (292)</li>
@@ -108,13 +108,85 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 11:22 fast.com</li>
+<li> 11:15 outlook.office.com</li>
+<li class='same'> 11:14 outlook.office.com</li>
+<li> 10:57 chatgpt.com</li>
+<li class='same'> 10:56 chatgpt.com</li>
+<li> 10:55 outlook.office.com</li>
+<li class='same'> 10:53 outlook.office.com</li>
+<li> 10:53 m365.cloud.microsoft</li>
+<li> 10:53 login.microsoftonline.com</li>
+<li> 10:53 eu-west.azureauth.duosecurity.com</li>
+<li> 10:53 api-b6327e78.duosecurity.com</li>
+<li> 10:53 adfs.herts.ac.uk</li>
+<li> 10:50 herts365-my.sharepoint.com</li>
+<li> 10:50 m365.cloud.microsoft</li>
+<li class='same'> 10:48 m365.cloud.microsoft</li>
+<li> 10:48 login.microsoftonline.com</li>
+<li> 10:48 eu-west.azureauth.duosecurity.com</li>
+<li> 10:48 api-b6327e78.duosecurity.com</li>
+<li> 10:48 adfs.herts.ac.uk</li>
+<li> 10:48 api-b6327e78.duosecurity.com</li>
+<li class='same'> 10:47 api-b6327e78.duosecurity.com</li>
+<li> 10:47 adfs.herts.ac.uk</li>
+<li> 10:40 <a href="https://stackoverflow.com/questions">Newest Questions - Stack Overflow</a></li>
+<li> 10:40 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+<li> 10:35 chatgpt.com</li>
+<li> 10:34 duckduckgo.com</li>
+<li> 10:33 chatgpt.com</li>
+<li> 10:33 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:19 www.linkedin.com</li>
+<li> 08:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:18 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:17 <a href="https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka">Japan has opened its first osmotic power plant – so what is it and how does it work? | Japan | The Guardian</a></li>
 <li> 08:16 <a href="https://www.theguardian.com/us-news/2025/aug/25/epstein-accuser-virginia-giuffres-memoir-to-be-published-posthumously">Epstein accuser Virginia Giuffre’s memoir to be published posthumously | Jeffrey Epstein | The Guardian</a></li>
 <li> 08:16 adblockplus.org</li>
 <li> 08:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:16 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 06:44 www.natalieportman.com</li>
+<li> 06:41 tvtropes.org</li>
+<li> 06:41 duckduckgo.com</li>
+<li> 06:40 mail.google.com</li>
+<li> 06:39 www.parkrun.org.uk</li>
+<li> 06:39 duckduckgo.com</li>
+<li> 06:39 www.linkedin.com</li>
+<li> 06:39 www.parkrun.org.uk</li>
+<li class='same'> 06:38 www.parkrun.org.uk</li>
+<li> 06:38 mail.google.com</li>
+<li> 06:38 gmail.com</li>
+<li> 06:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:35 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:35 www.linkedin.com</li>
+<li> 06:35 www.reddit.com</li>
+<li class='same'> 06:34 www.reddit.com</li>
+<li class='same'> 06:32 www.reddit.com</li>
+<li class='same'> 06:31 www.reddit.com</li>
+<li class='same'> 06:30 www.reddit.com</li>
+<li class='same'> 06:29 www.reddit.com</li>
+<li class='same'> 06:28 www.reddit.com</li>
+<li class='same'> 06:27 www.reddit.com</li>
+<li> 06:26 kdpreports.amazon.com</li>
+<li> 06:26 artofmemory.com</li>
+<li> 06:24 kdpreports.amazon.com</li>
+<li class='same'> 06:23 kdpreports.amazon.com</li>
+<li> 06:23 kdp.amazon.com</li>
+<li> 06:21 www.reddit.com</li>
+<li class='same'> 06:20 www.reddit.com</li>
+<li class='same'> 06:19 www.reddit.com</li>
+<li class='same'> 06:18 www.reddit.com</li>
+<li> 06:18 www.linkedin.com</li>
+<li> 06:18 feedly.com</li>
 </ul>
 
 <H3>Sunday, 24/08/25</H3>
