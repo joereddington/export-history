@@ -70,14 +70,14 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3736)</li>
 <li>mail.google.com (3701)</li>
-<li>www.reddit.com (3477)</li>
+<li>www.reddit.com (3480)</li>
 <li>outlook.office.com (3432)</li>
 <li>outlook.office365.com (2887)</li>
 <li>docs.google.com (2431)</li>
 <li>duckduckgo.com (1847)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1444)</li>
-<li>chatgpt.com (1107)</li>
+<li>chatgpt.com (1108)</li>
 <li>www.linkedin.com (1039)</li>
 <li>www.amazon.co.uk (952)</li>
 <li>login.microsoftonline.com (815)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (573)</li>
 <li>github.com (514)</li>
 <li>web.whatsapp.com (511)</li>
-<li>chat.openai.com (473)</li>
+<li>chat.openai.com (474)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (468)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (404)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:23 www.buzzfeed.com</li>
+<ul><li> 11:32 chatgpt.com</li>
+<li> 11:32 chat.openai.com</li>
+<li> 11:31 www.factorio.com</li>
+<li> 11:31 dl.factorio.com</li>
+<li> 11:31 www.factorio.com</li>
+<li> 11:23 www.buzzfeed.com</li>
 <li> 11:22 adblockplus.org</li>
 <li> 11:21 www.factorio.com</li>
 <li> 11:21 dl.factorio.com</li>
@@ -121,7 +126,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:38 www.reddit.com</li>
+<ul><li> 09:44 www.reddit.com</li>
+<li class='same'> 09:43 www.reddit.com</li>
+<li class='same'> 09:42 www.reddit.com</li>
+<li class='same'> 09:38 www.reddit.com</li>
 <li class='same'> 09:33 www.reddit.com</li>
 <li class='same'> 09:32 www.reddit.com</li>
 <li class='same'> 09:31 www.reddit.com</li>
@@ -76405,6 +76413,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 07:46 www.buzzfeed.com</li>
+<li class='same'> 07:45 www.buzzfeed.com</li>
+</ul>
+
+<br>
+
 <ul><li> 06:30 bsky.app</li>
 <li> 06:02 whitewaterwriters.com</li>
 <li class='same'> 06:01 whitewaterwriters.com</li>
@@ -76647,6 +76661,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:36 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:34 www.buzzfeed.com</li>
+<li class='same'> 07:12 www.buzzfeed.com</li>
+<li class='same'> 07:10 www.buzzfeed.com</li>
 </ul>
 
 <H3>Friday, 30/06/23</H3>
