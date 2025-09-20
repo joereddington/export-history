@@ -68,47 +68,4731 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3580)</li>
-<li>mail.google.com (3526)</li>
-<li>outlook.office.com (3263)</li>
-<li>www.reddit.com (2921)</li>
-<li>outlook.office365.com (2579)</li>
-<li>docs.google.com (2349)</li>
-<li>duckduckgo.com (1642)</li>
-<li>bsky.app (1580)</li>
-<li>www.facebook.com (1437)</li>
-<li>chatgpt.com (1049)</li>
-<li>www.linkedin.com (949)</li>
-<li>www.amazon.co.uk (896)</li>
-<li>calendar.google.com (732)</li>
+<ol><li>www.google.com (3736)</li>
+<li>mail.google.com (3701)</li>
+<li>www.reddit.com (3477)</li>
+<li>outlook.office.com (3432)</li>
+<li>outlook.office365.com (2887)</li>
+<li>docs.google.com (2431)</li>
+<li>duckduckgo.com (1847)</li>
+<li>bsky.app (1581)</li>
+<li>www.facebook.com (1444)</li>
+<li>chatgpt.com (1107)</li>
+<li>www.linkedin.com (1039)</li>
+<li>www.amazon.co.uk (952)</li>
+<li>login.microsoftonline.com (815)</li>
+<li>calendar.google.com (784)</li>
 <li>www.theguardian.com (685)</li>
-<li>login.microsoftonline.com (676)</li>
-<li>moodle.royalholloway.ac.uk (615)</li>
-<li>tvtropes.org (579)</li>
-<li>rhul-my.sharepoint.com (578)</li>
-<li>gmail.com (553)</li>
-<li>github.com (497)</li>
-<li>web.whatsapp.com (491)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (454)</li>
-<li>chat.openai.com (453)</li>
-<li>drive.google.com (370)</li>
-<li>feedly.com (334)</li>
-<li>forum.artofmemory.com (294)</li>
-<li>fritz.box (293)</li>
-<li>rhul.sharepoint.com (292)</li>
-<li>whitewaterwriters.com (274)</li>
-<li>forms.office.com (273)</li>
+<li>moodle.royalholloway.ac.uk (663)</li>
+<li>rhul-my.sharepoint.com (619)</li>
+<li>tvtropes.org (602)</li>
+<li>gmail.com (573)</li>
+<li>github.com (514)</li>
+<li>web.whatsapp.com (511)</li>
+<li>chat.openai.com (473)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (468)</li>
+<li>herts.instructure.com (452)</li>
+<li>forms.office.com (404)</li>
+<li>drive.google.com (383)</li>
+<li>feedly.com (359)</li>
+<li>fritz.box (324)</li>
+<li>rhul.sharepoint.com (315)</li>
+<li>forum.artofmemory.com (296)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Saturday, 20/09/25</H3>
+
+<br>
+
+<ul><li> 11:23 www.buzzfeed.com</li>
+<li> 11:22 adblockplus.org</li>
+<li> 11:21 www.factorio.com</li>
+<li> 11:21 dl.factorio.com</li>
+<li> 11:21 www.factorio.com</li>
+<li> 11:21 dl.factorio.com</li>
+<li> 11:21 www.factorio.com</li>
+<li class='same'> 11:20 www.factorio.com</li>
+<li class='same'> 11:19 www.factorio.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:38 www.reddit.com</li>
+<li class='same'> 09:33 www.reddit.com</li>
+<li class='same'> 09:32 www.reddit.com</li>
+<li class='same'> 09:31 www.reddit.com</li>
+<li> 09:31 www.google.com</li>
+<li> 09:31 ai-text-humanizer.com</li>
+<li> 09:31 www.google.com</li>
+<li> 09:27 www.reddit.com</li>
+<li class='same'> 09:26 www.reddit.com</li>
+<li class='same'> 09:25 www.reddit.com</li>
+<li class='same'> 09:24 www.reddit.com</li>
+<li class='same'> 09:21 www.reddit.com</li>
+<li class='same'> 09:20 www.reddit.com</li>
+<li class='same'> 08:59 www.reddit.com</li>
+<li class='same'> 08:58 www.reddit.com</li>
+<li class='same'> 08:56 www.reddit.com</li>
+<li class='same'> 08:55 www.reddit.com</li>
+<li class='same'> 08:54 www.reddit.com</li>
+<li class='same'> 08:53 www.reddit.com</li>
+<li class='same'> 08:52 www.reddit.com</li>
+<li class='same'> 08:51 www.reddit.com</li>
+<li class='same'> 08:49 www.reddit.com</li>
+<li class='same'> 08:47 www.reddit.com</li>
+<li class='same'> 08:45 www.reddit.com</li>
+<li class='same'> 08:44 www.reddit.com</li>
+<li class='same'> 08:43 www.reddit.com</li>
+<li> 08:43 <a href="https://www.theguardian.com/technology/2025/sep/20/parents-outraged-meta-uses-photos-schoolgirls-ads-man?utm_source=firefox-newtab-en-gb">Parents outraged as Meta uses photos of schoolgirls in ads targeting man | Meta | The Guardian</a></li>
+<li> 08:43 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:53 www.reddit.com</li>
+<li> 07:53 www.giantitp.com</li>
+<li> 07:52 qmucu.org</li>
+<li> 07:52 duckduckgo.com</li>
+<li> 07:51 <a href="https://www.theguardian.com/education/2025/sep/20/quarter-of-uk-university-physics-departments-at-risk-of-closing-survey-finds">Quarter of UK university physics departments at risk of closing, survey finds | Physics | The Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/us-news/2025/sep/19/ted-cruz-jimmy-kimmel-abc-fcc-mafia">Ted Cruz compares threats to ABC by FCC chair to those of mob boss | Ted Cruz | The Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 07:45 www.reddit.com</li>
+<li class='same'> 07:29 www.reddit.com</li>
+<li> 07:28 calendar.google.com</li>
+<li> 07:25 www.reddit.com</li>
+<li> 07:23 <a href="https://www.theguardian.com/world/2025/sep/19/what-uk-recognition-palestine-state-will-mean">What the UK’s recognition of Palestinian statehood will mean | Palestinian territories | The Guardian</a></li>
+<li> 07:21 feedly.com</li>
+</ul>
+
+<H3>Friday, 19/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 14:54 fritz.box</li>
+<li> 14:54 fritzhelp.avm.de</li>
+<li> 14:54 fritz.box</li>
+<li class='same'> 14:53 fritz.box</li>
+<li class='same'> 14:52 fritz.box</li>
+<li class='same'> 14:51 fritz.box</li>
+<li class='same'> 14:50 fritz.box</li>
+<li class='same'> 14:49 fritz.box</li>
+<li class='same'> 14:48 fritz.box</li>
+<li> 14:45 www.reddit.com</li>
+<li class='same'> 14:44 www.reddit.com</li>
+<li> 14:43 mail.google.com</li>
+<li> 14:41 docs.google.com</li>
+<li class='same'> 14:40 docs.google.com</li>
+<li> 14:40 mail.google.com</li>
+<li> 14:37 www.google.com</li>
+<li> 14:37 www.amazon.co.uk</li>
+<li class='same'> 14:36 www.amazon.co.uk</li>
+<li> 14:35 docs.google.com</li>
+<li> 14:35 mail.google.com</li>
+<li> 14:35 www.linkedin.com</li>
+<li> 14:35 mail.google.com</li>
+<li class='same'> 14:34 mail.google.com</li>
+<li> 14:32 www.reddit.com</li>
+<li class='same'> 14:30 www.reddit.com</li>
+<li> 14:26 mail.google.com</li>
+<li> 14:25 duckduckgo.com</li>
+<li> 14:25 mail.google.com</li>
+<li> 14:24 support.google.com</li>
+<li> 14:24 ads.google.com</li>
+<li> 14:24 mail.google.com</li>
+<li> 14:23 <a href="https://www.theguardian.com/education/ng-interactive/2025/sep/13/the-guardian-university-guide-2026-the-rankings">The Guardian University Guide 2026 – the rankings | University guide | The Guardian</a></li>
+<li class='same'> 14:22 <a href="https://www.theguardian.com/education/ng-interactive/2025/sep/13/the-guardian-university-guide-2026-the-rankings">The Guardian University Guide 2026 – the rankings | University guide | The Guardian</a></li>
+<li> 14:22 www.lep.co.uk</li>
+<li> 14:22 duckduckgo.com</li>
+<li> 14:20 mail.google.com</li>
+<li class='same'> 14:19 mail.google.com</li>
+<li> 14:19 www.cranfield.ac.uk</li>
+<li> 14:19 duckduckgo.com</li>
+<li> 14:19 mail.google.com</li>
+<li> 14:16 www.beds.ac.uk</li>
+<li> 14:16 duckduckgo.com</li>
+<li> 14:16 www.beds.ac.uk</li>
+<li class='same'> 14:15 www.beds.ac.uk</li>
+<li> 14:15 duckduckgo.com</li>
+<li> 14:15 mail.google.com</li>
+<li class='same'> 14:14 mail.google.com</li>
+<li> 14:14 gmail.com</li>
+<li> 14:13 chatgpt.com</li>
+<li> 14:13 chat.openai.com</li>
+<li> 14:10 mail.google.com</li>
+<li> 14:10 gmail.com</li>
+<li> 14:10 calendar.google.com</li>
+<li> 13:51 <a href="https://en.wikipedia.org/wiki/WW3_%28Kanye_West_album%29">In a Perfect World (Kanye West album) - Wikipedia</a></li>
+<li> 13:51 <a href="https://en.wikipedia.org/wiki/In_a_Perfect_World_(Kanye_West_album)">In a Perfect World (Kanye West album) - Wikipedia</a></li>
+<li> 13:51 www.linkedin.com</li>
+<li> 13:50 www.reddit.com</li>
+<li> 13:50 discord.com</li>
+<li> 13:46 feedly.com</li>
+<li class='same'> 13:45 feedly.com</li>
+<li> 13:44 www.reddit.com</li>
+<li class='same'> 13:43 www.reddit.com</li>
+<li> 13:43 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:45 www.reddit.com</li>
+<li> 10:42 forms.office.com</li>
+<li> 10:42 login.microsoftonline.com</li>
+<li> 10:42 forms.office.com</li>
+<li> 10:42 powerpoint.cloud.microsoft</li>
+<li> 10:42 outlook.office365.com</li>
+<li class='same'> 10:41 outlook.office365.com</li>
+<li> 10:41 login.microsoftonline.com</li>
+<li> 10:41 forms.office.com</li>
+<li class='same'> 10:40 forms.office.com</li>
+<li> 10:40 outlook.office365.com</li>
+<li> 10:40 login.microsoftonline.com</li>
+<li> 10:40 outlook.office365.com</li>
+<li> 10:37 outlook.office.com</li>
+<li> 10:37 forms.office.com</li>
+<li> 10:29 herts.instructure.com</li>
+<li> 10:29 forms.office.com</li>
+<li> 10:27 herts.instructure.com</li>
+<li> 10:25 forms.office.com</li>
+<li class='same'> 10:13 forms.office.com</li>
+<li> 10:13 login.microsoftonline.com</li>
+<li> 10:11 duckduckgo.com</li>
+<li> 10:08 ev.turnitinuk.com</li>
+<li> 10:08 herts.instructure.com</li>
+<li> 10:08 forms.office.com</li>
+<li> 10:05 www.reddit.com</li>
+<li> 10:01 www.linkedin.com</li>
+<li class='same'> 10:00 www.linkedin.com</li>
+<li> 09:59 herts.instructure.com</li>
+<li> 09:56 www.reddit.com</li>
+<li> 09:55 forms.office.com</li>
+<li> 09:52 outlook.office.com</li>
+<li> 09:52 discord.com</li>
+<li class='same'> 09:51 discord.com</li>
+<li> 09:50 ev.turnitinuk.com</li>
+<li> 09:50 herts.instructure.com</li>
+<li> 09:49 forms.office.com</li>
+<li> 09:42 herts.instructure.com</li>
+<li> 09:40 outlook.office.com</li>
+<li> 09:36 duckduckgo.com</li>
+<li> 09:29 outlook.office.com</li>
+<li> 09:29 m365.cloud.microsoft</li>
+<li> 09:29 login.microsoftonline.com</li>
+<li> 09:23 moodle.royalholloway.ac.uk</li>
+<li> 09:23 login.microsoftonline.com</li>
+<li> 09:22 moodle.royalholloway.ac.uk</li>
+<li> 09:22 login.microsoftonline.com</li>
+<li> 09:22 moodle.royalholloway.ac.uk</li>
+<li> 09:17 dashboards.rhul.ac.uk</li>
+<li class='same'> 09:16 dashboards.rhul.ac.uk</li>
+<li> 09:16 ev.turnitinuk.com</li>
+<li> 09:16 herts.instructure.com</li>
+<li> 09:13 forms.office.com</li>
+<li> 09:11 herts.instructure.com</li>
+<li> 09:10 login.microsoftonline.com</li>
+<li> 09:10 forms.office.com</li>
+<li> 09:09 login.microsoftonline.com</li>
+<li> 09:09 forms.office.com</li>
+<li> 09:09 www.microsoft.com</li>
+<li> 09:09 forms.office.com</li>
+<li> 09:09 login.microsoftonline.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:13 www.reddit.com</li>
+<li class='same'> 08:12 www.reddit.com</li>
+<li class='same'> 08:11 www.reddit.com</li>
+<li> 08:08 duckduckgo.com</li>
+<li> 08:05 www.reddit.com</li>
+<li class='same'> 08:04 www.reddit.com</li>
+<li class='same'> 08:03 www.reddit.com</li>
+<li> 08:02 herts.instructure.com</li>
+<li> 07:53 www.reddit.com</li>
+<li> 07:51 fastandfurious.fandom.com</li>
+<li> 07:51 www.reddit.com</li>
+<li> 07:50 forms.office.com</li>
+<li> 07:50 login.microsoftonline.com</li>
+<li> 07:47 web.whatsapp.com</li>
+<li> 07:38 forms.office.com</li>
+<li> 07:34 ev.turnitinuk.com</li>
+<li> 07:34 herts.instructure.com</li>
+<li> 07:25 forms.office.com</li>
+<li> 07:16 ev.turnitinuk.com</li>
+<li> 07:16 herts.instructure.com</li>
+<li> 07:15 forms.office.com</li>
+<li> 07:14 herts.instructure.com</li>
+<li> 07:05 forms.office.com</li>
+<li> 06:57 doi.org</li>
+<li> 06:56 ev.turnitinuk.com</li>
+<li> 06:56 herts.instructure.com</li>
+<li> 06:47 forms.office.com</li>
+<li class='same'> 06:44 forms.office.com</li>
+<li> 06:44 login.microsoftonline.com</li>
+<li> 06:44 forms.office.com</li>
+<li> 06:44 login.microsoftonline.com</li>
+<li> 06:44 forms.office.com</li>
+<li> 06:44 docs.google.com</li>
+<li> 06:43 herts.instructure.com</li>
+<li class='same'> 06:41 herts.instructure.com</li>
+<li> 06:41 docs.google.com</li>
+<li> 06:22 www.linkedin.com</li>
+<li> 06:21 <a href="https://www.theguardian.com/commentisfree/picture/2025/sep/18/ben-jennings-keir-starmer-donald-trump-cartoon">Ben Jennings on Keir Starmer’s negotiations with Donald Trump – cartoon | Ben Jennings | The Guardian</a></li>
+<li> 06:20 feedly.com</li>
+</ul>
+
+<H3>Thursday, 18/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:41 fastandfurious.fandom.com</li>
+<li class='same'> 21:40 fastandfurious.fandom.com</li>
+<li class='same'> 21:39 fastandfurious.fandom.com</li>
+<li> 21:39 www.google.com</li>
+<li class='same'> 21:36 www.google.com</li>
+<li> 21:35 www.autotrader.co.uk</li>
+<li class='same'> 21:34 www.autotrader.co.uk</li>
+<li class='same'> 21:33 www.autotrader.co.uk</li>
+<li class='same'> 21:32 www.autotrader.co.uk</li>
+<li> 21:32 www.google.com</li>
+<li> 21:32 m.facebook.com</li>
+<li> 21:02 docs.google.com</li>
+<li> 21:00 forms.office.com</li>
+<li class='same'> 20:55 forms.office.com</li>
+<li> 20:48 herts.instructure.com</li>
+<li> 20:45 web.whatsapp.com</li>
+<li> 20:45 duckduckgo.com</li>
+<li class='same'> 20:44 duckduckgo.com</li>
+<li> 20:43 forms.office.com</li>
+<li> 20:43 login.microsoftonline.com</li>
+<li> 20:43 forms.office.com</li>
+<li> 20:40 duckduckgo.com</li>
+<li> 20:40 www.infosecurityeurope.com</li>
+<li> 20:39 duckduckgo.com</li>
+<li> 20:34 forms.office.com</li>
+<li> 20:31 m.facebook.com</li>
+<li> 20:22 forms.office.com</li>
+<li> 20:20 duckduckgo.com</li>
+<li> 20:11 forms.office.com</li>
+<li> 20:08 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 20:05 ev.turnitinuk.com</li>
+<li> 20:04 herts.instructure.com</li>
+<li> 20:01 meet.google.com</li>
+<li class='same'> 20:00 meet.google.com</li>
+<li> 20:00 mail.google.com</li>
+<li> 19:56 herts.instructure.com</li>
+<li class='same'> 19:55 herts.instructure.com</li>
+<li class='same'> 19:54 herts.instructure.com</li>
+<li> 19:45 meet.google.com</li>
+<li> 19:44 mail.google.com</li>
+<li> 19:44 gmail.com</li>
+<li> 19:43 web.whatsapp.com</li>
+<li> 19:42 forms.office.com</li>
+<li> 19:42 login.microsoftonline.com</li>
+<li> 19:42 forms.office.com</li>
+<li> 19:34 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:49 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 18:47 <a href="https://www.bbc.co.uk/news/articles/c62z8k14kxxo">Teenagers charged over Transport for London cyber attack - BBC News</a></li>
+<li> 18:47 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 18:43 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/18/trump-v-the-truth-review-channel-4">Trump v the Truth review – no other broadcaster would attempt TV so daring (and mind-numbing) | Television & radio | The Guardian</a></li>
+<li> 18:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 16:56 <a href="https://www.theguardian.com/world/2025/sep/18/macrons-submit-scientific-evidence-us-court-prove-brigitte-not-man">Macrons to submit scientific evidence to US court to prove Brigitte was not born a man | Emmanuel Macron | The Guardian</a></li>
+<li> 16:56 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 16:56 <a href="https://www.theguardian.com/world/2025/sep/18/macrons-submit-scientific-evidence-us-court-prove-brigitte-not-man">Macrons to submit scientific evidence to US court to prove Brigitte was not born a man | Emmanuel Macron | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 16:20 fritz.box</li>
+<li> 16:10 forms.office.com</li>
+<li class='same'> 16:06 forms.office.com</li>
+<li class='same'> 15:54 forms.office.com</li>
+<li class='same'> 15:50 forms.office.com</li>
+<li> 15:50 login.microsoftonline.com</li>
+<li> 15:50 forms.office.com</li>
+<li> 15:49 fritz.box</li>
+<li> 15:49 192.168.178.57</li>
+<li class='same'> 15:48 192.168.178.57</li>
+<li> 15:48 fritz.box</li>
+<li> 15:34 www.linkedin.com</li>
+<li> 15:33 <a href="https://www.theguardian.com/us-news/2025/sep/18/what-did-jimmy-kimmel-say-said-comments-about-charlie-kirk">Explainer: What did Jimmy Kimmel say about Charlie Kirk’s killing? | Trump administration | The Guardian</a></li>
+<li> 15:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:33 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 15:32 www.linkedin.com</li>
+<li> 15:31 www.reddit.com</li>
+<li class='same'> 15:29 www.reddit.com</li>
+<li class='same'> 15:27 www.reddit.com</li>
+<li class='same'> 15:26 www.reddit.com</li>
+<li class='same'> 15:21 www.reddit.com</li>
+<li class='same'> 15:20 www.reddit.com</li>
+<li> 15:18 feedly.com</li>
+<li> 15:18 www.accessable.co.uk</li>
+<li> 15:18 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:44 <a href="https://www.theguardian.com/world/2025/sep/18/macrons-submit-scientific-evidence-us-court-prove-brigitte-not-man">Macrons to submit scientific evidence to US court to prove Brigitte was not born a man | Emmanuel Macron | The Guardian</a></li>
+<li> 14:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:43 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 14:43 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/18/jimmy-kimmel-live-suspended-indefinitely-after-hosts-charlie-kirk-comments">Jimmy Kimmel Live! suspended over Charlie Kirk comments after US government pressure | Jimmy Kimmel | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 13:12 forms.office.com</li>
+<li class='same'> 13:05 forms.office.com</li>
+<li> 13:05 login.microsoftonline.com</li>
+<li> 12:39 forms.office.com</li>
+<li class='same'> 12:34 forms.office.com</li>
+<li> 12:29 chatgpt.com</li>
+<li> 12:29 chat.openai.com</li>
+<li> 12:25 forms.office.com</li>
+<li class='same'> 12:21 forms.office.com</li>
+<li> 12:16 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/18/jimmy-kimmel-live-suspended-indefinitely-after-hosts-charlie-kirk-comments">Jimmy Kimmel Live! suspended over Charlie Kirk comments after US government pressure | Jimmy Kimmel | The Guardian</a></li>
+<li> 12:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:15 www.reddit.com</li>
+<li> 12:14 forms.office.com</li>
+<li> 12:13 duckduckgo.com</li>
+<li> 12:06 forms.office.com</li>
+<li> 12:01 medium.com</li>
+<li> 12:01 duckduckgo.com</li>
+<li> 11:59 forms.office.com</li>
+<li> 11:46 chatgpt.com</li>
+<li class='same'> 11:44 chatgpt.com</li>
+<li> 11:44 chat.openai.com</li>
+<li> 11:43 forms.office.com</li>
+<li> 11:43 login.microsoftonline.com</li>
+<li> 11:43 forms.office.com</li>
+<li> 11:40 dl.ucsc.cmb.ac.lk</li>
+<li> 11:40 ev.turnitinuk.com</li>
+<li> 11:39 herts.instructure.com</li>
+<li> 11:31 ev.turnitinuk.com</li>
+<li> 11:31 herts.instructure.com</li>
+<li class='same'> 11:30 herts.instructure.com</li>
+<li> 11:18 ev.turnitinuk.com</li>
+<li> 11:18 herts.instructure.com</li>
+<li class='same'> 11:17 herts.instructure.com</li>
+<li> 11:13 scholar.google.co.uk</li>
+<li> 11:13 duckduckgo.com</li>
+<li> 11:11 ev.turnitinuk.com</li>
+<li> 11:11 herts.instructure.com</li>
+<li class='same'> 11:09 herts.instructure.com</li>
+<li> 11:07 ev.turnitinuk.com</li>
+<li> 11:07 herts.instructure.com</li>
+<li class='same'> 11:05 herts.instructure.com</li>
+<li> 11:02 ev.turnitinuk.com</li>
+<li> 11:02 herts.instructure.com</li>
+<li class='same'> 11:01 herts.instructure.com</li>
+<li> 11:00 m365.cloud.microsoft</li>
+<li> 11:00 login.microsoftonline.com</li>
+<li> 10:48 docs.google.com</li>
+<li> 10:47 drive.google.com</li>
+<li> 10:47 outlook.office.com</li>
+<li> 10:46 outlook.office365.com</li>
+<li class='same'> 10:45 outlook.office365.com</li>
+<li class='same'> 10:44 outlook.office365.com</li>
+<li class='same'> 10:42 outlook.office365.com</li>
+<li> 10:41 support.microsoft.com</li>
+<li> 10:40 outlook.office365.com</li>
+<li> 10:40 outlook.office.com</li>
+<li class='same'> 10:39 outlook.office.com</li>
+<li> 10:39 m365.cloud.microsoft</li>
+<li> 10:39 login.microsoftonline.com</li>
+<li> 10:39 herts.instructure.com</li>
+<li> 10:39 m365.cloud.microsoft</li>
+<li> 10:39 login.microsoftonline.com</li>
+<li> 10:34 herts.instructure.com</li>
+<li> 10:34 docs.google.com</li>
+<li class='same'> 10:31 docs.google.com</li>
+<li class='same'> 10:30 docs.google.com</li>
+<li> 10:16 ieeexplore.ieee.org</li>
+<li> 10:16 duckduckgo.com</li>
+<li> 10:16 spectrum.ieee.org</li>
+<li> 10:16 duckduckgo.com</li>
+<li> 10:16 ev.turnitinuk.com</li>
+<li> 10:16 herts.instructure.com</li>
+<li class='same'> 10:14 herts.instructure.com</li>
+<li> 10:11 www.investopedia.com</li>
+<li> 10:10 ev.turnitinuk.com</li>
+<li> 10:10 herts.instructure.com</li>
+<li class='same'> 10:09 herts.instructure.com</li>
+<li class='same'> 10:05 herts.instructure.com</li>
+<li> 10:00 www.linkedin.com</li>
+<li> 09:55 outlook.office365.com</li>
+<li> 09:55 web.whatsapp.com</li>
+<li> 09:54 calendar.google.com</li>
+<li> 09:50 outlook.office365.com</li>
+<li> 09:50 calendar.google.com</li>
+<li class='same'> 09:49 calendar.google.com</li>
+<li> 09:49 www.linkedin.com</li>
+<li> 09:48 ev.turnitinuk.com</li>
+<li> 09:48 herts.instructure.com</li>
+<li class='same'> 09:47 herts.instructure.com</li>
+<li> 09:42 chatgpt.com</li>
+<li class='same'> 09:41 chatgpt.com</li>
+<li> 09:41 chat.openai.com</li>
+<li> 09:40 connect.spotify.com</li>
+<li> 09:40 support.spotify.com</li>
+<li> 09:37 arxiv.org</li>
+<li> 09:29 ev.turnitinuk.com</li>
+<li> 09:29 herts.instructure.com</li>
+<li class='same'> 09:28 herts.instructure.com</li>
+<li> 09:25 www.reddit.com</li>
+<li class='same'> 09:24 www.reddit.com</li>
+<li class='same'> 09:22 www.reddit.com</li>
+<li class='same'> 09:19 www.reddit.com</li>
+<li> 09:13 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:51 feedly.com</li>
+<li> 07:47 herts.instructure.com</li>
+<li> 07:41 ev.turnitinuk.com</li>
+<li> 07:41 herts.instructure.com</li>
+<li> 07:35 forms.office.com</li>
+<li> 07:35 login.microsoftonline.com</li>
+<li> 07:35 forms.office.com</li>
+<li> 07:34 outlook.office365.com</li>
+<li> 07:34 herts.instructure.com</li>
+<li> 07:26 ev.turnitinuk.com</li>
+<li> 07:26 herts.instructure.com</li>
+<li class='same'> 07:10 herts.instructure.com</li>
+<li> 07:03 ev.turnitinuk.com</li>
+<li> 07:03 herts.instructure.com</li>
+<li class='same'> 07:02 herts.instructure.com</li>
+<li class='same'> 06:57 herts.instructure.com</li>
+<li> 06:52 ev.turnitinuk.com</li>
+<li> 06:52 herts.instructure.com</li>
+<li> 06:47 ev.turnitinuk.com</li>
+<li> 06:46 herts.instructure.com</li>
+<li> 06:45 doi.org</li>
+<li> 06:44 ev.turnitinuk.com</li>
+<li> 06:44 herts.instructure.com</li>
+<li class='same'> 06:41 herts.instructure.com</li>
+<li class='same'> 06:36 herts.instructure.com</li>
+<li class='same'> 06:35 herts.instructure.com</li>
+<li class='same'> 06:34 herts.instructure.com</li>
+<li> 06:28 www.linkedin.com</li>
+<li class='same'> 06:27 www.linkedin.com</li>
+<li> 06:27 accounts.google.com</li>
+<li> 06:27 www.linkedin.com</li>
+<li> 06:26 docs.google.com</li>
+<li class='same'> 06:24 docs.google.com</li>
+<li class='same'> 06:23 docs.google.com</li>
+<li class='same'> 06:22 docs.google.com</li>
+<li> 06:19 feedly.com</li>
+<li class='same'> 06:18 feedly.com</li>
+<li> 06:18 docs.google.com</li>
+<li> 06:17 www.reddit.com</li>
+<li class='same'> 06:16 www.reddit.com</li>
+<li> 06:14 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 01:03 calendar.google.com</li>
+</ul>
+
+<H3>Wednesday, 17/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:13 www.reddit.com</li>
+<li> 20:13 www.google.com</li>
+<li> 20:13 www.reddit.com</li>
+<li> 20:13 www.google.com</li>
+<li> 20:11 www.reddit.com</li>
+<li> 20:11 www.google.com</li>
+<li> 20:11 www.reddit.com</li>
+<li class='same'> 20:10 www.reddit.com</li>
+<li> 20:10 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:14 outlook.office365.com</li>
+<li class='same'> 17:13 outlook.office365.com</li>
+<li> 17:06 calendar.google.com</li>
+<li> 17:06 workspace.google.com</li>
+<li> 17:06 calendar.google.com</li>
+<li> 17:06 outlook.office.com</li>
+<li class='same'> 17:05 outlook.office.com</li>
+<li> 17:05 m365.cloud.microsoft</li>
+<li> 17:05 login.microsoftonline.com</li>
+<li> 17:05 herts.instructure.com</li>
+<li> 17:05 outlook.office365.com</li>
+<li> 17:05 mail.google.com</li>
+<li> 17:03 feedly.com</li>
+<li> 17:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:02 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 17:00 mail.google.com</li>
+<li> 16:59 analytics.google.com</li>
+<li class='same'> 16:58 analytics.google.com</li>
+<li> 16:58 accounts.google.co.uk</li>
+<li> 16:58 gds.google.com</li>
+<li> 16:58 accounts.google.com</li>
+<li> 16:57 analytics.google.com</li>
+<li> 16:57 accounts.google.com</li>
+<li> 16:56 <a href="https://www.theguardian.com/uk-news/2025/sep/17/southport-killer-axel-rudakubana-brother-inquiry">Southport killer was discharged from mental health services six days before attack, inquiry hears | Southport attack | The Guardian</a></li>
+<li> 16:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:56 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 16:54 mail.google.com</li>
+<li class='same'> 16:53 mail.google.com</li>
+<li> 16:53 gmail.com</li>
+<li> 16:53 accounts.google.com</li>
+<li> 16:53 mail.google.com</li>
+<li> 16:53 gmail.com</li>
+<li> 16:53 assets.staging.unity.co.uk</li>
+<li> 16:53 assets.unity.co.uk</li>
+<li> 16:53 duckduckgo.com</li>
+<li> 16:45 www.reddit.com</li>
+<li> 16:42 chatgpt.com</li>
+<li> 16:42 chat.openai.com</li>
+<li> 16:41 outlook.office365.com</li>
+<li> 16:36 doi.org</li>
+<li> 16:35 www.sciencedirect.com</li>
+<li> 16:35 linkinghub.elsevier.com</li>
+<li> 16:35 doi.org</li>
+<li> 16:35 ev.turnitinuk.com</li>
+<li> 16:35 herts.instructure.com</li>
+<li class='same'> 16:32 herts.instructure.com</li>
+<li class='same'> 16:31 herts.instructure.com</li>
+<li> 16:31 docs.google.com</li>
+<li> 16:29 assets.unity.co.uk</li>
+<li> 16:29 assets.staging.unity.co.uk</li>
+<li> 16:29 duckduckgo.com</li>
+<li class='same'> 16:28 duckduckgo.com</li>
+<li> 16:26 www.reddit.com</li>
+<li class='same'> 16:25 www.reddit.com</li>
+<li class='same'> 16:23 www.reddit.com</li>
+<li> 16:16 www.linkedin.com</li>
+<li> 16:14 outlook.office365.com</li>
+<li> 16:13 www.linkedin.com</li>
+<li class='same'> 16:12 www.linkedin.com</li>
+<li> 16:12 www.reddit.com</li>
+<li> 16:08 adblockplus.org</li>
+<li> 16:08 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:54 outlook.office365.com</li>
+<li class='same'> 13:51 outlook.office365.com</li>
+<li> 13:50 dashboards.rhul.ac.uk</li>
+<li> 13:48 outlook.office365.com</li>
+<li> 13:40 www.linkedin.com</li>
+<li> 13:32 outlook.office365.com</li>
+<li> 13:28 rhul-my.sharepoint.com</li>
+<li> 13:28 forms.office.com</li>
+<li> 13:28 login.microsoftonline.com</li>
+<li> 13:28 forms.office.com</li>
+<li> 13:26 mail.google.com</li>
+<li> 13:24 web.whatsapp.com</li>
+<li> 13:24 online.unity.co.uk</li>
+<li> 13:23 mail.google.com</li>
+<li> 13:23 accounts.google.com</li>
+<li> 13:23 mail.google.com</li>
+<li> 13:23 gmail.com</li>
+<li> 13:23 online.unity.co.uk</li>
+<li class='same'> 13:22 online.unity.co.uk</li>
+<li> 13:22 outlook.office365.com</li>
+<li class='same'> 13:21 outlook.office365.com</li>
+<li> 13:21 www.reddit.com</li>
+<li class='same'> 13:19 www.reddit.com</li>
+<li class='same'> 13:18 www.reddit.com</li>
+<li class='same'> 13:17 www.reddit.com</li>
+<li class='same'> 13:16 www.reddit.com</li>
+<li class='same'> 13:15 www.reddit.com</li>
+<li class='same'> 13:12 www.reddit.com</li>
+<li> 13:12 outlook.office365.com</li>
+<li> 13:11 moodle.royalholloway.ac.uk</li>
+<li> 13:07 <a href="https://www.theguardian.com/uk-news/2025/sep/17/man-charged-blackmail-westminster-mps">Man charged with blackmail over incidents involving MPs, say police | UK news | The Guardian</a></li>
+<li> 13:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:06 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 13:03 moodle.royalholloway.ac.uk</li>
+<li> 13:03 web.whatsapp.com</li>
+<li> 13:02 moodle.royalholloway.ac.uk</li>
+<li> 13:02 login.microsoftonline.com</li>
+<li> 13:02 moodle.royalholloway.ac.uk</li>
+<li> 13:02 outlook.office365.com</li>
+<li class='same'> 13:01 outlook.office365.com</li>
+<li class='same'> 13:00 outlook.office365.com</li>
+<li class='same'> 12:58 outlook.office365.com</li>
+<li class='same'> 12:57 outlook.office365.com</li>
+<li class='same'> 12:56 outlook.office365.com</li>
+<li> 12:55 royalhollowayacukcrm.elluciancrmrecruit.com</li>
+<li class='same'> 12:54 royalhollowayacukcrm.elluciancrmrecruit.com</li>
+<li class='same'> 12:52 royalhollowayacukcrm.elluciancrmrecruit.com</li>
+<li class='same'> 12:50 royalhollowayacukcrm.elluciancrmrecruit.com</li>
+<li class='same'> 12:49 royalhollowayacukcrm.elluciancrmrecruit.com</li>
+<li> 12:48 outlook.office365.com</li>
+<li> 12:47 royalhollowayacukcrm.elluciancrmrecruit.com</li>
+<li> 12:47 login.microsoftonline.com</li>
+<li> 12:47 rhul-my.sharepoint.com</li>
+<li> 12:46 adfs4prodeu01.elluciancloud.com</li>
+<li> 12:46 outlook.office365.com</li>
+<li> 12:44 dashboards.rhul.ac.uk</li>
+<li> 12:44 outlook.office365.com</li>
+<li class='same'> 12:42 outlook.office365.com</li>
+<li> 12:42 www.royalholloway.ac.uk</li>
+<li> 12:42 duckduckgo.com</li>
+<li> 12:37 rhul.sharepoint.com</li>
+<li> 12:37 outlook.office365.com</li>
+<li class='same'> 12:35 outlook.office365.com</li>
+<li class='same'> 12:34 outlook.office365.com</li>
+<li class='same'> 12:33 outlook.office365.com</li>
+<li> 12:32 dashboards.rhul.ac.uk</li>
+<li> 12:32 outlook.office365.com</li>
+<li class='same'> 12:31 outlook.office365.com</li>
+<li> 12:31 duckduckgo.com</li>
+<li> 12:25 outlook.office365.com</li>
+<li class='same'> 12:24 outlook.office365.com</li>
+<li class='same'> 12:23 outlook.office365.com</li>
+<li> 12:20 rhul.sharepoint.com</li>
+<li> 12:20 login.microsoftonline.com</li>
+<li> 12:20 rhul.sharepoint.com</li>
+<li class='same'> 12:17 rhul.sharepoint.com</li>
+<li> 12:16 outlook.office365.com</li>
+<li> 12:15 chatgpt.com</li>
+<li> 12:15 chat.openai.com</li>
+<li> 12:15 outlook.office365.com</li>
+<li> 12:14 duckduckgo.com</li>
+<li> 12:11 calendar.google.com</li>
+<li> 12:10 rhul-my.sharepoint.com</li>
+<li class='same'> 12:09 rhul-my.sharepoint.com</li>
+<li class='same'> 12:08 rhul-my.sharepoint.com</li>
+<li> 12:08 docs.google.com</li>
+<li class='same'> 12:07 docs.google.com</li>
+<li> 12:06 outlook.office365.com</li>
+<li class='same'> 12:04 outlook.office365.com</li>
+<li class='same'> 11:59 outlook.office365.com</li>
+<li class='same'> 11:54 outlook.office365.com</li>
+<li class='same'> 11:53 outlook.office365.com</li>
+<li class='same'> 11:52 outlook.office365.com</li>
+<li class='same'> 11:51 outlook.office365.com</li>
+<li> 11:51 login.microsoftonline.com</li>
+<li> 11:47 chatgpt.com</li>
+<li> 11:47 chat.openai.com</li>
+<li> 11:37 scholar.google.com</li>
+<li class='same'> 11:36 scholar.google.com</li>
+<li> 11:36 duckduckgo.com</li>
+<li> 11:34 ev.turnitinuk.com</li>
+<li> 11:34 herts.instructure.com</li>
+<li class='same'> 11:31 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:24 web.whatsapp.com</li>
+<li> 09:24 <a href="https://www.theguardian.com/education/2025/sep/17/third-of-uk-parents-have-sought-special-needs-assessment-for-their-child-survey-finds">Third of UK parents have sought special needs assessment for their child, survey finds | Special educational needs | The Guardian</a></li>
+<li> 09:22 <a href="https://www.theguardian.com/football/2025/sep/16/kash-patel-liverpool-fc-tie-us-senate-hearing">FBI director Kash Patel wears Liverpool FC tie to US Senate hearing | Liverpool | The Guardian</a></li>
+<li> 09:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:21 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/wiki/Abigail_Disney">Abigail Disney - Wikipedia</a></li>
+<li> 09:15 <a href="https://en.wikipedia.org/wiki/Sundance_Film_Festival">Sundance Film Festival - Wikipedia</a></li>
+<li> 09:15 duckduckgo.com</li>
+<li> 09:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:14 www.reddit.com</li>
+<li class='same'> 09:13 www.reddit.com</li>
+<li class='same'> 09:11 www.reddit.com</li>
+<li class='same'> 09:08 www.reddit.com</li>
+<li class='same'> 09:07 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:01 www.reddit.com</li>
+<li class='same'> 08:00 www.reddit.com</li>
+<li class='same'> 07:59 www.reddit.com</li>
+<li class='same'> 07:57 www.reddit.com</li>
+<li class='same'> 07:56 www.reddit.com</li>
+<li class='same'> 07:53 www.reddit.com</li>
+<li> 07:53 outlook.office365.com</li>
+<li> 07:41 herts.instructure.com</li>
+<li> 07:39 www.england.nhs.uk</li>
+<li> 07:39 www.who.int</li>
+<li> 07:39 ai.google.dev</li>
+<li> 07:39 arxiv.org</li>
+<li> 07:38 ev.turnitinuk.com</li>
+<li> 07:38 herts.instructure.com</li>
+<li class='same'> 07:37 herts.instructure.com</li>
+<li> 07:36 ev.turnitinuk.com</li>
+<li> 07:36 herts.instructure.com</li>
+<li class='same'> 07:34 herts.instructure.com</li>
+<li> 07:32 <a href="https://www.theguardian.com/politics/2025/sep/17/france-proposes-ceiling-on-value-of-uk-components-in-eu-defence-fund">France proposes ceiling on value of UK components in €150bn EU defence fund | Defence policy | The Guardian</a></li>
+<li> 07:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:31 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 07:30 www.reddit.com</li>
+<li> 07:28 thetab.com</li>
+<li> 07:28 www.reddit.com</li>
+<li class='same'> 07:27 www.reddit.com</li>
+<li class='same'> 07:26 www.reddit.com</li>
+<li> 07:24 ev.turnitinuk.com</li>
+<li> 07:24 herts.instructure.com</li>
+<li> 07:18 www.linkedin.com</li>
+<li> 07:12 medium.com</li>
+<li> 07:12 duckduckgo.com</li>
+<li> 07:12 herts.instructure.com</li>
+<li> 07:05 ev.turnitinuk.com</li>
+<li> 07:05 herts.instructure.com</li>
+<li> 07:03 ev.turnitinuk.com</li>
+<li> 07:03 herts.instructure.com</li>
+<li> 06:59 chatgpt.com</li>
+<li> 06:59 chat.openai.com</li>
+<li> 06:57 www.reddit.com</li>
+<li class='same'> 06:46 www.reddit.com</li>
+<li> 06:36 herts.instructure.com</li>
+<li> 06:28 www.mortgageable.co.uk</li>
+<li> 06:28 duckduckgo.com</li>
+<li> 06:27 mail.google.com</li>
+<li> 06:23 web.whatsapp.com</li>
+<li> 06:23 mail.google.com</li>
+<li> 06:23 gmail.com</li>
+<li> 06:22 landregistry.data.gov.uk</li>
+<li class='same'> 06:21 landregistry.data.gov.uk</li>
+<li> 06:21 www.gov.uk</li>
+<li> 06:21 www.statista.com</li>
+<li class='same'> 06:20 www.statista.com</li>
+<li> 06:20 duckduckgo.com</li>
+<li> 06:11 outlook.office365.com</li>
+<li class='same'> 06:10 outlook.office365.com</li>
+<li> 06:10 forms.office.com</li>
+<li class='same'> 06:09 forms.office.com</li>
+<li> 06:09 login.microsoftonline.com</li>
+<li> 06:09 forms.office.com</li>
+<li> 06:09 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:08 moodle.royalholloway.ac.uk</li>
+<li> 06:08 login.microsoftonline.com</li>
+<li> 06:08 moodle.royalholloway.ac.uk</li>
+<li> 06:08 herts.instructure.com</li>
+<li> 05:59 scholar.google.com</li>
+<li> 05:58 ev.turnitinuk.com</li>
+<li> 05:58 herts.instructure.com</li>
+<li> 05:49 scholar.google.co.uk</li>
+<li> 05:49 duckduckgo.com</li>
+<li> 05:48 ev.turnitinuk.com</li>
+<li> 05:48 herts.instructure.com</li>
+<li class='same'> 05:45 herts.instructure.com</li>
+<li> 05:44 feedly.com</li>
+<li> 05:44 herts.instructure.com</li>
+<li> 05:44 www.google.com</li>
+<li> 05:44 docs.google.com</li>
+<li class='same'> 05:43 docs.google.com</li>
+<li class='same'> 05:42 docs.google.com</li>
+<li class='same'> 05:41 docs.google.com</li>
+<li> 05:41 herts.instructure.com</li>
+<li> 05:41 docs.google.com</li>
+</ul>
+
+<H3>Tuesday, 16/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 18:00 fritz.box</li>
+<li> 18:00 outlook.office365.com</li>
+<li class='same'> 17:59 outlook.office365.com</li>
+<li class='same'> 17:58 outlook.office365.com</li>
+<li class='same'> 17:57 outlook.office365.com</li>
+<li class='same'> 17:54 outlook.office365.com</li>
+<li> 17:54 dashboards.rhul.ac.uk</li>
+<li class='same'> 17:53 dashboards.rhul.ac.uk</li>
+<li> 17:53 outlook.office365.com</li>
+<li class='same'> 17:52 outlook.office365.com</li>
+<li class='same'> 17:24 outlook.office365.com</li>
+<li class='same'> 17:22 outlook.office365.com</li>
+<li class='same'> 17:18 outlook.office365.com</li>
+<li> 17:07 chatgpt.com</li>
+<li> 17:07 chat.openai.com</li>
+<li> 17:07 outlook.office365.com</li>
+<li> 17:05 houseprices.anna.ps</li>
+<li> 17:05 anna.ps</li>
+<li> 17:05 duckduckgo.com</li>
+<li> 17:04 outlook.office365.com</li>
+<li class='same'> 17:02 outlook.office365.com</li>
+<li class='same'> 17:01 outlook.office365.com</li>
+<li> 16:59 www.kaggle.com</li>
+<li> 16:58 herts.instructure.com</li>
+<li> 16:58 fast.com</li>
+<li> 16:57 herts.instructure.com</li>
+<li> 16:56 outlook.office365.com</li>
+<li> 16:55 fritz.box</li>
+<li class='same'> 16:54 fritz.box</li>
+<li> 16:54 outlook.office365.com</li>
+<li class='same'> 16:52 outlook.office365.com</li>
+<li class='same'> 16:50 outlook.office365.com</li>
+<li> 16:50 fast.com</li>
+<li> 16:50 outlook.office365.com</li>
+<li class='same'> 16:49 outlook.office365.com</li>
+<li> 16:48 www.reddit.com</li>
+<li class='same'> 16:47 www.reddit.com</li>
+<li class='same'> 16:44 www.reddit.com</li>
+<li> 16:44 www.linkedin.com</li>
+<li> 16:43 docs.google.com</li>
+<li> 16:41 forms.office.com</li>
+<li class='same'> 16:40 forms.office.com</li>
+<li> 16:40 rhul-my.sharepoint.com</li>
+<li> 16:40 forms.office.com</li>
+<li class='same'> 16:39 forms.office.com</li>
+<li> 16:39 login.microsoftonline.com</li>
+<li> 16:39 forms.office.com</li>
+<li> 16:39 docs.google.com</li>
+<li> 16:39 outlook.office365.com</li>
+<li class='same'> 16:38 outlook.office365.com</li>
+<li> 16:38 login.microsoftonline.com</li>
+<li> 16:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:36 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:35 moodle.royalholloway.ac.uk</li>
+<li> 16:35 login.microsoftonline.com</li>
+<li> 16:35 moodle.royalholloway.ac.uk</li>
+<li> 16:35 login.microsoftonline.com</li>
+<li> 16:31 herts.instructure.com</li>
+<li class='same'> 16:29 herts.instructure.com</li>
+<li> 16:29 fritz.box</li>
+<li class='same'> 16:28 fritz.box</li>
+<li> 16:28 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:43 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 14:07 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:26 herts.instructure.com</li>
+<li class='same'> 13:25 herts.instructure.com</li>
+<li> 13:20 duckduckgo.com</li>
+<li> 13:19 ev.turnitinuk.com</li>
+<li> 13:19 herts.instructure.com</li>
+<li class='same'> 13:17 herts.instructure.com</li>
+<li> 13:13 ev.turnitinuk.com</li>
+<li> 13:13 herts.instructure.com</li>
+<li> 13:12 www.reddit.com</li>
+<li class='same'> 13:10 www.reddit.com</li>
+<li> 13:09 docs.google.com</li>
+<li class='same'> 13:08 docs.google.com</li>
+<li> 13:06 herts.instructure.com</li>
+<li class='same'> 13:05 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:35 herts.instructure.com</li>
+<li> 12:35 www.activeluton.co.uk</li>
+<li> 12:35 duckduckgo.com</li>
+<li> 12:30 www.preprints.org</li>
+<li> 12:24 ev.turnitinuk.com</li>
+<li> 12:24 herts.instructure.com</li>
+<li> 12:22 chatgpt.com</li>
+<li> 12:22 chat.openai.com</li>
+<li> 12:21 herts.instructure.com</li>
+<li class='same'> 12:20 herts.instructure.com</li>
+<li> 12:20 docs.google.com</li>
+<li> 12:10 www.linkedin.com</li>
+<li> 12:10 outlook.office.com</li>
+<li> 12:07 feedly.com</li>
+<li> 11:54 outlook.office.com</li>
+<li class='same'> 11:53 outlook.office.com</li>
+<li> 11:53 discord.com</li>
+<li class='same'> 11:52 discord.com</li>
+<li class='same'> 11:51 discord.com</li>
+<li> 11:51 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:50 moodle.royalholloway.ac.uk</li>
+<li> 11:46 outlook.office365.com</li>
+<li> 11:45 moodle.royalholloway.ac.uk</li>
+<li> 11:45 projects.cs.rhul.ac.uk</li>
+<li> 11:45 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:43 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:42 moodle.royalholloway.ac.uk</li>
+<li> 11:42 duckduckgo.com</li>
+<li> 11:37 dashboards.rhul.ac.uk</li>
+<li> 11:37 outlook.office365.com</li>
+<li class='same'> 11:25 outlook.office365.com</li>
+<li class='same'> 11:22 outlook.office365.com</li>
+<li class='same'> 11:21 outlook.office365.com</li>
+<li> 11:21 forms.office.com</li>
+<li> 11:20 outlook.office365.com</li>
+<li> 11:12 forms.office.com</li>
+<li class='same'> 11:07 forms.office.com</li>
+<li> 11:06 rhul-my.sharepoint.com</li>
+<li> 11:06 login.microsoftonline.com</li>
+<li> 11:06 rhul-my.sharepoint.com</li>
+<li> 11:02 dashboards.rhul.ac.uk</li>
+<li class='same'> 11:01 dashboards.rhul.ac.uk</li>
+<li> 11:00 forms.office.com</li>
+<li class='same'> 10:59 forms.office.com</li>
+<li class='same'> 10:58 forms.office.com</li>
+<li class='same'> 10:57 forms.office.com</li>
+<li> 10:57 login.microsoftonline.com</li>
+<li> 10:57 forms.office.com</li>
+<li> 10:57 outlook.office365.com</li>
+<li> 10:57 login.microsoftonline.com</li>
+<li> 10:57 moodle.royalholloway.ac.uk</li>
+<li> 10:57 login.microsoftonline.com</li>
+<li> 10:57 moodle.royalholloway.ac.uk</li>
+<li> 10:57 login.microsoftonline.com</li>
+<li> 10:37 ev.turnitinuk.com</li>
+<li> 10:37 herts.instructure.com</li>
+<li> 10:29 duckduckgo.com</li>
+<li> 10:27 ev.turnitinuk.com</li>
+<li> 10:27 herts.instructure.com</li>
+<li> 10:19 ev.turnitinuk.com</li>
+<li> 10:19 herts.instructure.com</li>
+<li class='same'> 10:13 herts.instructure.com</li>
+<li> 09:58 docs.google.com</li>
+<li class='same'> 09:57 docs.google.com</li>
+<li class='same'> 09:56 docs.google.com</li>
+<li> 09:54 ev.turnitinuk.com</li>
+<li> 09:54 herts.instructure.com</li>
+<li class='same'> 09:52 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:18 ev.turnitinuk.com</li>
+<li> 09:18 herts.instructure.com</li>
+<li> 09:17 ev.turnitinuk.com</li>
+<li> 09:17 herts.instructure.com</li>
+<li class='same'> 09:16 herts.instructure.com</li>
+<li> 09:16 docs.google.com</li>
+<li class='same'> 09:11 docs.google.com</li>
+<li class='same'> 09:09 docs.google.com</li>
+<li class='same'> 09:08 docs.google.com</li>
+<li> 09:08 herts.instructure.com</li>
+<li> 09:06 docs.google.com</li>
+<li class='same'> 09:05 docs.google.com</li>
+<li> 09:04 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:45 duckduckgo.com</li>
+<li> 07:45 ev.turnitinuk.com</li>
+<li> 07:44 herts.instructure.com</li>
+<li> 07:30 www.etymonline.com</li>
+<li> 07:30 www.oed.com</li>
+<li> 07:30 duckduckgo.com</li>
+<li class='same'> 07:29 duckduckgo.com</li>
+<li> 07:19 herts.instructure.com</li>
+<li> 07:11 ev.turnitinuk.com</li>
+<li> 07:11 herts.instructure.com</li>
+<li> 07:10 ev.turnitinuk.com</li>
+<li> 07:10 herts.instructure.com</li>
+<li> 07:10 www.google.com</li>
+<li> 07:09 herts.instructure.com</li>
+<li class='same'> 07:08 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:32 herts.instructure.com</li>
+<li> 06:32 adfs.herts.ac.uk</li>
+<li> 06:30 api-b6327e78.duosecurity.com</li>
+<li> 06:30 adfs.herts.ac.uk</li>
+<li> 06:30 herts.instructure.com</li>
+<li> 06:30 adfs.herts.ac.uk</li>
+<li> 06:14 chatgpt.com</li>
+<li class='same'> 06:13 chatgpt.com</li>
+<li> 06:13 chat.openai.com</li>
+<li> 06:10 forms.office.com</li>
+<li> 06:10 login.microsoftonline.com</li>
+<li> 06:10 forms.office.com</li>
+<li> 06:10 outlook.office.com</li>
+<li class='same'> 06:09 outlook.office.com</li>
+<li class='same'> 06:08 outlook.office.com</li>
+<li> 06:08 m365.cloud.microsoft</li>
+<li> 06:08 login.microsoftonline.com</li>
+</ul>
+
+<H3>Monday, 15/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 19:05 www.google.com</li>
+<li class='same'> 19:04 www.google.com</li>
+<li class='same'> 19:03 www.google.com</li>
+<li> 19:03 www.reddit.com</li>
+<li class='same'> 18:45 www.reddit.com</li>
+<li class='same'> 18:44 www.reddit.com</li>
+<li class='same'> 18:42 www.reddit.com</li>
+<li class='same'> 18:38 www.reddit.com</li>
+<li class='same'> 18:37 www.reddit.com</li>
+<li> 18:37 www.google.com</li>
+<li class='same'> 18:36 www.google.com</li>
+<li> 18:36 www.reddit.com</li>
+<li> 18:36 www.google.com</li>
+<li> 18:35 www.reddit.com</li>
+<li class='same'> 18:34 www.reddit.com</li>
+<li class='same'> 18:21 www.reddit.com</li>
+<li class='same'> 18:14 www.reddit.com</li>
+<li class='same'> 18:10 www.reddit.com</li>
+<li> 18:09 www.google.com</li>
+<li class='same'> 18:08 www.google.com</li>
+<li class='same'> 17:43 www.google.com</li>
+<li> 17:26 <a href="https://www.theguardian.com/technology/2025/sep/15/trump-china-tiktok-sale-ban">US and China reach deal to transfer TikTok ownership, trade official says | TikTok | The Guardian</a></li>
+<li> 17:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:22 <a href="https://www.theguardian.com/world/2025/sep/15/tinder-swindler-shimon-hayut-simon-leviev-arrest-georgia-interpol">‘Tinder Swindler’ Shimon Hayut arrested in Georgia on Interpol request | Georgia | The Guardian</a></li>
+<li> 17:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:21 qmucu.org</li>
+<li class='same'> 17:18 qmucu.org</li>
+<li> 17:18 www.google.com</li>
+<li> 17:18 www.reddit.com</li>
+<li> 16:50 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:01 outlook.office365.com</li>
+<li class='same'> 16:00 outlook.office365.com</li>
+<li class='same'> 15:59 outlook.office365.com</li>
+<li class='same'> 15:58 outlook.office365.com</li>
+<li> 15:57 scholar.google.co.uk</li>
+<li> 15:57 duckduckgo.com</li>
+<li> 15:57 cisse.info</li>
+<li> 15:57 pure.royalholloway.ac.uk</li>
+<li> 15:57 duckduckgo.com</li>
+<li> 15:56 outlook.office365.com</li>
+<li> 15:56 duckduckgo.com</li>
+<li> 15:55 redingtongroup.com</li>
+<li> 15:55 duckduckgo.com</li>
+<li> 15:53 rhul-my.sharepoint.com</li>
+<li> 15:53 outlook.office365.com</li>
+<li> 15:47 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/15/forget-adolescence-this-is-the-real-victory-the-biggest-shocks-from-the-emmy-awards">‘Forget Adolescence – this is the real victory!’ The biggest shocks from the Emmy awards | Emmys | The Guardian</a></li>
+<li> 15:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:46 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 15:46 outlook.office365.com</li>
+<li class='same'> 15:45 outlook.office365.com</li>
+<li> 15:42 www.royalholloway.ac.uk</li>
+<li> 15:42 duckduckgo.com</li>
+<li> 15:35 outlook.office365.com</li>
+<li> 15:35 www.giantitp.com</li>
+<li class='same'> 15:34 www.giantitp.com</li>
+<li> 15:34 outlook.office365.com</li>
+<li> 15:33 www.reddit.com</li>
+<li class='same'> 15:32 www.reddit.com</li>
+<li class='same'> 15:30 www.reddit.com</li>
+<li> 15:29 www.worldstopexports.com</li>
+<li> 15:29 duckduckgo.com</li>
+<li> 15:28 www.nand2tetris.org</li>
+<li> 15:28 www.reddit.com</li>
+<li class='same'> 15:27 www.reddit.com</li>
+<li class='same'> 15:26 www.reddit.com</li>
+<li class='same'> 15:25 www.reddit.com</li>
+<li class='same'> 15:24 www.reddit.com</li>
+<li class='same'> 15:22 www.reddit.com</li>
+<li class='same'> 15:21 www.reddit.com</li>
+<li> 15:17 www.buzzfeed.com</li>
+<li class='same'> 15:16 www.buzzfeed.com</li>
+<li class='same'> 15:15 www.buzzfeed.com</li>
+<li class='same'> 15:14 www.buzzfeed.com</li>
+<li class='same'> 15:13 www.buzzfeed.com</li>
+<li class='same'> 15:12 www.buzzfeed.com</li>
+<li> 15:12 feedly.com</li>
+<li> 15:11 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 15:11 www.foxnews.com</li>
+<li> 15:09 <a href="https://www.theguardian.com/sport/2025/sep/15/cycling-teams-could-boycott-races-israel-premier-tech-vuelta-a-espana">Cycling teams could boycott races involving Israel-Premier Tech after Vuelta chaos | Cycling | The Guardian</a></li>
+<li> 15:09 <a href="https://www.theguardian.com/sport/2025/sep/15/ricky-hatton-family-speak-immeasurable-sense-of-loss-after-boxer-shock-death">Ricky Hatton’s family tell of their ‘immeasurable’ loss after boxer’s death | Ricky Hatton | The Guardian</a></li>
+<li> 15:08 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 15:08 www.reddit.com</li>
+<li class='same'> 15:07 www.reddit.com</li>
+<li> 15:07 www.linkedin.com</li>
+<li> 15:06 www.reddit.com</li>
+<li class='same'> 15:05 www.reddit.com</li>
+<li> 15:04 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:10 feedly.com</li>
+<li> 13:10 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 13:09 www.reddit.com</li>
+<li class='same'> 13:08 www.reddit.com</li>
+<li class='same'> 13:07 www.reddit.com</li>
+<li class='same'> 13:06 www.reddit.com</li>
+<li class='same'> 13:05 www.reddit.com</li>
+<li class='same'> 13:04 www.reddit.com</li>
+<li> 12:47 bikes.fan</li>
+<li class='same'> 12:46 bikes.fan</li>
+<li class='same'> 12:45 bikes.fan</li>
+<li class='same'> 12:44 bikes.fan</li>
+<li> 12:43 chatgpt.com</li>
+<li> 12:43 chat.openai.com</li>
+<li> 12:43 www.ebay.co.uk</li>
+<li> 12:43 mail.google.com</li>
+<li> 12:43 www.gmail.com</li>
+<li> 12:42 www.linkedin.com</li>
+<li> 12:42 www.reddit.com</li>
+<li class='same'> 12:40 www.reddit.com</li>
+<li class='same'> 12:37 www.reddit.com</li>
+<li class='same'> 12:36 www.reddit.com</li>
+<li> 12:36 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 12:24 mail.google.com</li>
+<li class='same'> 12:22 mail.google.com</li>
+<li class='same'> 12:21 mail.google.com</li>
+<li class='same'> 12:20 mail.google.com</li>
+<li class='same'> 12:19 mail.google.com</li>
+<li class='same'> 12:18 mail.google.com</li>
+<li> 12:18 challengeworks.org</li>
+<li class='same'> 12:17 challengeworks.org</li>
+<li> 12:16 mail.google.com</li>
+<li> 12:15 <a href="https://www.theguardian.com/us-news/2025/sep/15/channel-4-donald-trump-uk-state-visit-reel-of-untruths">Channel 4 to mark Trump’s UK visit with ‘longest uninterrupted reel of untruths’ | Donald Trump | The Guardian</a></li>
+<li> 12:14 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 12:14 mail.google.com</li>
+<li> 12:14 gmail.com</li>
+<li> 12:11 www.reddit.com</li>
+<li class='same'> 12:10 www.reddit.com</li>
+<li class='same'> 12:09 www.reddit.com</li>
+<li class='same'> 12:08 www.reddit.com</li>
+<li> 12:05 www.amazon.co.uk</li>
+<li class='same'> 12:04 www.amazon.co.uk</li>
+<li> 12:04 kdpreports.amazon.com</li>
+<li class='same'> 12:03 kdpreports.amazon.com</li>
+<li> 12:03 kdp.amazon.com</li>
+<li> 12:00 www.reddit.com</li>
+<li class='same'> 11:59 www.reddit.com</li>
+<li class='same'> 11:58 www.reddit.com</li>
+<li class='same'> 11:57 www.reddit.com</li>
+<li> 11:55 docs.google.com</li>
+<li class='same'> 11:54 docs.google.com</li>
+<li> 11:53 calendar.google.com</li>
+<li> 11:50 mail.google.com</li>
+<li class='same'> 11:49 mail.google.com</li>
+<li> 11:49 gmail.com</li>
+<li> 11:49 outlook.office365.com</li>
+<li> 11:48 <a href="https://en.wikipedia.org/wiki/Campbell_Hatton">Campbell Hatton - Wikipedia</a></li>
+<li> 11:45 <a href="https://en.wikipedia.org/wiki/Ricky_Hatton">Ricky Hatton - Wikipedia</a></li>
+<li> 11:45 duckduckgo.com</li>
+<li> 11:43 outlook.office365.com</li>
+<li> 11:41 duckduckgo.com</li>
+<li> 11:39 outlook.office365.com</li>
+<li class='same'> 11:38 outlook.office365.com</li>
+<li> 11:34 rhul.sharepoint.com</li>
+<li> 11:34 login.microsoftonline.com</li>
+<li> 11:34 rhul.sharepoint.com</li>
+<li> 11:34 login.microsoftonline.com</li>
+<li> 11:31 duckduckgo.com</li>
+<li> 11:30 outlook.office365.com</li>
+<li class='same'> 11:25 outlook.office365.com</li>
+<li class='same'> 11:24 outlook.office365.com</li>
+<li class='same'> 11:20 outlook.office365.com</li>
+<li> 11:19 teams.microsoft.com</li>
+<li> 11:19 adfs4prodeu01.elluciancloud.com</li>
+<li> 11:19 intranet.royalholloway.ac.uk</li>
+<li> 11:19 outlook.office365.com</li>
+<li> 11:18 rh.firstparking.co.uk</li>
+<li class='same'> 11:17 rh.firstparking.co.uk</li>
+<li class='same'> 11:15 rh.firstparking.co.uk</li>
+<li> 11:15 outlook.office365.com</li>
+<li class='same'> 11:14 outlook.office365.com</li>
+<li class='same'> 11:13 outlook.office365.com</li>
+<li class='same'> 11:12 outlook.office365.com</li>
+<li> 11:10 chatgpt.com</li>
+<li> 11:10 chat.openai.com</li>
+<li> 11:10 duckduckgo.com</li>
+<li> 11:08 outlook.office365.com</li>
+<li> 11:06 dashboards.rhul.ac.uk</li>
+<li> 11:06 outlook.office365.com</li>
+<li class='same'> 11:05 outlook.office365.com</li>
+<li> 11:01 www.reddit.com</li>
+<li class='same'> 11:00 www.reddit.com</li>
+<li> 10:59 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:28 outlook.office365.com</li>
+<li class='same'> 10:27 outlook.office365.com</li>
+<li> 10:26 discord.com</li>
+<li> 10:24 dashboards.rhul.ac.uk</li>
+<li class='same'> 10:23 dashboards.rhul.ac.uk</li>
+<li> 10:23 outlook.office365.com</li>
+<li> 10:20 ev.turnitinuk.com</li>
+<li class='same'> 10:18 ev.turnitinuk.com</li>
+<li> 10:10 www.govtech.com</li>
+<li> 10:09 ev.turnitinuk.com</li>
+<li class='same'> 10:06 ev.turnitinuk.com</li>
+<li> 10:01 www.amazon.co.uk</li>
+<li> 10:00 duckduckgo.com</li>
+<li> 10:00 www.researchgate.net</li>
+<li> 10:00 duckduckgo.com</li>
+<li> 09:59 www.google.com</li>
+<li> 09:59 www.google.co.uk</li>
+<li> 09:59 duckduckgo.com</li>
+<li> 09:59 www.google.com</li>
+<li class='same'> 09:58 www.google.com</li>
+<li> 09:58 duckduckgo.com</li>
+<li> 09:56 rhul-my.sharepoint.com</li>
+<li> 09:54 ev.turnitinuk.com</li>
+<li> 09:54 moodle.royalholloway.ac.uk</li>
+<li> 09:54 login.microsoftonline.com</li>
+<li> 09:54 moodle.royalholloway.ac.uk</li>
+<li> 09:54 login.microsoftonline.com</li>
+<li> 09:54 outlook.office365.com</li>
+<li class='same'> 09:52 outlook.office365.com</li>
+<li> 09:48 myview.rhul.zellis.com</li>
+<li class='same'> 09:47 myview.rhul.zellis.com</li>
+<li> 09:46 login.microsoftonline.com</li>
+<li> 09:46 myview.rhul.zellis.com</li>
+<li> 09:44 intranet.royalholloway.ac.uk</li>
+<li> 09:43 outlook.office365.com</li>
+<li class='same'> 09:36 outlook.office365.com</li>
+<li class='same'> 09:34 outlook.office365.com</li>
+<li class='same'> 09:33 outlook.office365.com</li>
+<li class='same'> 09:22 outlook.office365.com</li>
+<li> 09:21 chatgpt.com</li>
+<li> 09:21 chat.openai.com</li>
+<li> 09:19 discord.com</li>
+<li class='same'> 09:18 discord.com</li>
+<li class='same'> 09:16 discord.com</li>
+<li> 09:16 calendar.google.com</li>
+<li class='same'> 09:15 calendar.google.com</li>
+<li class='same'> 09:07 calendar.google.com</li>
+<li> 09:05 outlook.office365.com</li>
+<li class='same'> 09:04 outlook.office365.com</li>
+<li class='same'> 09:03 outlook.office365.com</li>
+<li class='same'> 09:02 outlook.office365.com</li>
+<li class='same'> 09:01 outlook.office365.com</li>
+<li class='same'> 09:00 outlook.office365.com</li>
+<li class='same'> 08:59 outlook.office365.com</li>
+<li class='same'> 08:58 outlook.office365.com</li>
+<li class='same'> 08:57 outlook.office365.com</li>
+<li class='same'> 08:56 outlook.office365.com</li>
+<li class='same'> 08:55 outlook.office365.com</li>
+<li class='same'> 08:54 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:44 www.reddit.com</li>
+<li class='same'> 07:43 www.reddit.com</li>
+<li class='same'> 07:42 www.reddit.com</li>
+<li class='same'> 07:41 www.reddit.com</li>
+<li class='same'> 07:40 www.reddit.com</li>
+<li> 07:38 login.microsoftonline.com</li>
+<li> 07:38 my.london.ac.uk</li>
+<li> 07:38 login.microsoftonline.com</li>
+<li> 07:38 my.london.ac.uk</li>
+<li> 07:36 www.reddit.com</li>
+<li class='same'> 07:35 www.reddit.com</li>
+<li class='same'> 07:34 www.reddit.com</li>
+<li class='same'> 07:33 www.reddit.com</li>
+<li class='same'> 07:32 www.reddit.com</li>
+<li> 07:03 equalitytime.github.io</li>
+<li> 07:03 duckduckgo.com</li>
+<li> 07:02 outlook.office365.com</li>
+<li class='same'> 07:01 outlook.office365.com</li>
+<li> 06:32 rhul-my.sharepoint.com</li>
+<li> 06:32 login.microsoftonline.com</li>
+<li> 06:32 rhul-my.sharepoint.com</li>
+<li> 06:32 login.microsoftonline.com</li>
+<li> 06:32 rhul-my.sharepoint.com</li>
+<li> 06:32 forms.office.com</li>
+<li class='same'> 06:30 forms.office.com</li>
+<li> 06:29 outlook.office365.com</li>
+<li> 06:29 forms.office.com</li>
+<li> 06:29 login.microsoftonline.com</li>
+<li> 06:29 forms.office.com</li>
+<li> 06:29 outlook.office365.com</li>
+<li> 06:29 login.microsoftonline.com</li>
+<li> 06:26 www.reddit.com</li>
+<li class='same'> 06:25 www.reddit.com</li>
+<li> 06:25 www.linkedin.com</li>
+<li> 06:23 feedly.com</li>
+<li> 06:23 docs.google.com</li>
+</ul>
+
+<H3>Sunday, 14/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 12:30 www.google.com</li>
+<li> 12:30 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:32 www.reddit.com</li>
+<li class='same'> 11:31 www.reddit.com</li>
+<li class='same'> 11:29 www.reddit.com</li>
+<li> 11:29 www.printables.com</li>
+<li class='same'> 11:28 www.printables.com</li>
+<li class='same'> 11:27 www.printables.com</li>
+<li> 11:23 www.linkedin.com</li>
+<li> 11:22 m.facebook.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:46 www.google.com</li>
+<li> 10:41 docs.google.com</li>
+<li class='same'> 10:40 docs.google.com</li>
+<li class='same'> 10:39 docs.google.com</li>
+<li class='same'> 10:38 docs.google.com</li>
+<li class='same'> 10:37 docs.google.com</li>
+<li class='same'> 10:36 docs.google.com</li>
+<li> 10:34 www.printables.com</li>
+<li> 10:32 www.reddit.com</li>
+<li class='same'> 10:31 www.reddit.com</li>
+<li class='same'> 10:30 www.reddit.com</li>
+<li class='same'> 10:29 www.reddit.com</li>
+<li class='same'> 10:28 www.reddit.com</li>
+<li class='same'> 10:26 www.reddit.com</li>
+<li> 10:25 web.whatsapp.com</li>
+<li> 10:24 external-content.duckduckgo.com</li>
+<li> 10:24 duckduckgo.com</li>
+<li> 10:21 www.printables.com</li>
+<li> 10:20 duckduckgo.com</li>
+<li> 10:17 feedly.com</li>
+<li> 10:16 www.reddit.com</li>
+<li class='same'> 10:15 www.reddit.com</li>
+<li class='same'> 10:14 www.reddit.com</li>
+<li> 10:14 mail.google.com</li>
+<li> 09:56 www.google.com</li>
+<li class='same'> 09:54 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:50 www.google.com</li>
+<li class='same'> 07:49 www.google.com</li>
+<li class='same'> 07:48 www.google.com</li>
+</ul>
+
+<H3>Saturday, 13/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:47 www.google.com</li>
+<li> 20:46 www.rugbyworldcup.com</li>
+<li class='same'> 20:45 www.rugbyworldcup.com</li>
+<li> 20:45 www.google.com</li>
+<li> 20:44 <a href="https://www.theguardian.com/sport/2025/sep/13/ruthless-new-zealand-machine-an-ominous-obstacle-on-englands-horizon">Ruthless New Zealand machine an ominous obstacle on England’s horizon | Women's Rugby World Cup 2025 | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 18:21 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 15:39 www.reddit.com</li>
+<li> 15:38 <a href="https://www.theguardian.com/business/2025/sep/13/thames-water-paid-1m-plus-to-corporate-spooks-firm-part-owned-by-starmer-adviser">Thames Water paid £1m-plus to corporate spooks firm part-owned by Starmer adviser | Thames Water | The Guardian</a></li>
+<li> 15:37 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 15:36 <a href="https://www.theguardian.com/uk-news/2025/sep/13/sharon-hodgson-mp-office-arson-man-admits-starting-fire">Man admits starting fire that destroyed Labour MP Sharon Hodgson’s office | England | The Guardian</a></li>
+<li> 15:34 <a href="https://www.theguardian.com/us-news/2025/sep/13/charlie-kirk-shooting-people-fired-social-media">Several people fired after clampdown on speech over Charlie Kirk shooting | Charlie Kirk shooting | The Guardian</a></li>
+<li> 15:28 <a href="https://www.theguardian.com/politics/live/2025/sep/13/uk-politics-latest-news-unite-the-kingdom-march-far-right-rally-london-labour-keir-starmer">Police say 110,000 attending ‘unite the kingdom’ rally in London, with some in crowd attacking officers – UK politics live</a></li>
+<li> 15:28 www.google.com</li>
+<li class='same'> 15:15 www.google.com</li>
+<li> 15:13 www.reddit.com</li>
+<li> 15:12 www.google.com</li>
+<li> 15:11 www.reddit.com</li>
+<li> 15:11 www.google.com</li>
+<li> 15:11 www.reddit.com</li>
+<li> 15:10 www.google.com</li>
+<li> 15:10 www.reddit.com</li>
+<li class='same'> 15:09 www.reddit.com</li>
+<li class='same'> 15:06 www.reddit.com</li>
+<li> 15:06 www.google.com</li>
+<li> 15:06 www.reddit.com</li>
+<li> 15:06 www.google.com</li>
+<li> 15:05 www.reddit.com</li>
+<li> 15:05 www.google.com</li>
+<li> 15:04 www.carcheck.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 13:18 www.whitewaterwriters.com</li>
+<li> 13:18 whitewaterwriters.com</li>
+<li> 13:18 www.whitewaterwriters.com</li>
+<li> 13:17 mail.google.com</li>
+<li> 13:16 <a href="https://en.wikipedia.org/wiki/Killing_of_Charlie_Kirk">Killing of Charlie Kirk - Wikipedia</a></li>
+<li> 13:15 www.jobs.ac.uk</li>
+<li> 13:11 www.amazon.co.uk</li>
+<li> 13:07 feedly.com</li>
+<li> 13:04 www.reddit.com</li>
+<li> 13:03 www.amazon.co.uk</li>
+<li> 13:02 www.ebay.co.uk</li>
+<li class='same'> 13:01 www.ebay.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 11:04 web.whatsapp.com</li>
+<li> 11:02 www.reddit.com</li>
+<li class='same'> 11:01 www.reddit.com</li>
+<li> 11:01 outlook.office365.com</li>
+<li> 11:01 forms.office.com</li>
+<li class='same'> 11:00 forms.office.com</li>
+<li> 11:00 login.microsoftonline.com</li>
+<li> 11:00 forms.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:13 www.carcheck.co.uk</li>
+<li class='same'> 10:12 www.carcheck.co.uk</li>
+<li> 10:12 www.google.com</li>
+<li class='same'> 09:56 www.google.com</li>
+<li> 09:56 www.etymonline.com</li>
+<li class='same'> 09:55 www.etymonline.com</li>
+<li> 09:55 www.google.com</li>
+<li class='same'> 09:38 www.google.com</li>
+<li> 09:38 <a href="https://www.theguardian.com/us-news/live/2025/sep/12/charlie-kirk-shooter-suspect-latest-news-updates-donald-trump-utah?page=with:block-68c47b768f086519d327114d#block-68c47b768f086519d327114d">(16) Charlie Kirk shooting latest: Utah governor confirms identity of suspect and says family friend turned him in</a></li>
+<li> 09:27 <a href="https://www.theguardian.com/education/ng-interactive/2025/sep/13/the-guardian-university-guide-2026-the-rankings">The Guardian University Guide 2026 – the rankings | University guide | The Guardian</a></li>
+<li class='same'> 09:26 <a href="https://www.theguardian.com/education/ng-interactive/2025/sep/13/the-guardian-university-guide-2026-the-rankings">The Guardian University Guide 2026 – the rankings | University guide | The Guardian</a></li>
+<li> 09:25 outlook.office365.com</li>
+<li> 09:21 forms.office.com</li>
+<li> 09:18 outlook.office365.com</li>
+<li class='same'> 09:17 outlook.office365.com</li>
+<li class='same'> 09:16 outlook.office365.com</li>
+<li class='same'> 09:15 outlook.office365.com</li>
+<li> 09:14 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:13 moodle.royalholloway.ac.uk</li>
+<li> 08:55 rhul.hosted.panopto.com</li>
+<li> 08:54 moodle.royalholloway.ac.uk</li>
+<li> 08:54 login.microsoftonline.com</li>
+<li> 08:54 moodle.royalholloway.ac.uk</li>
+<li> 08:54 login.microsoftonline.com</li>
+<li> 08:52 outlook.office365.com</li>
+<li> 08:51 forms.office.com</li>
+<li> 08:51 login.microsoftonline.com</li>
+<li> 08:51 forms.office.com</li>
+<li> 08:50 outlook.office365.com</li>
+<li class='same'> 08:49 outlook.office365.com</li>
+<li class='same'> 08:48 outlook.office365.com</li>
+<li> 08:47 www.giantitp.com</li>
+<li> 08:47 feedly.com</li>
+</ul>
+
+<H3>Friday, 12/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:06 <a href="https://www.theguardian.com/us-news/live/2025/sep/12/charlie-kirk-shooter-suspect-latest-news-updates-donald-trump-utah?page=with:block-68c47b768f086519d327114d#block-68c47b768f086519d327114d">(16) Charlie Kirk shooting latest: Utah governor confirms identity of suspect and says family friend turned him in</a></li>
+<li> 21:06 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:07 m.facebook.com</li>
+<li> 14:51 www.giantitp.com</li>
+<li class='same'> 14:50 www.giantitp.com</li>
+<li class='same'> 14:49 www.giantitp.com</li>
+<li> 14:49 www.linkedin.com</li>
+<li class='same'> 14:48 www.linkedin.com</li>
+<li> 14:48 outlook.office365.com</li>
+<li> 14:48 feedly.com</li>
+<li> 14:45 outlook.office365.com</li>
+<li> 14:45 forms.office.com</li>
+<li> 14:45 login.microsoftonline.com</li>
+<li> 14:45 forms.office.com</li>
+<li> 14:40 www.linkedin.com</li>
+<li> 14:40 mail.google.com</li>
+<li> 14:40 calendar.google.com</li>
+<li> 14:39 mail.google.com</li>
+<li> 14:39 docs.google.com</li>
+<li> 14:39 mail.google.com</li>
+<li class='same'> 14:38 mail.google.com</li>
+<li> 14:38 calendar.google.com</li>
+<li> 14:37 account.adobe.com</li>
+<li class='same'> 14:36 account.adobe.com</li>
+<li> 14:36 auth.services.adobe.com</li>
+<li> 14:36 account.adobe.com</li>
+<li class='same'> 14:35 account.adobe.com</li>
+<li> 14:35 mail.google.com</li>
+<li> 14:35 www.facebook.com</li>
+<li> 14:35 mail.google.com</li>
+<li> 14:34 www.amazon.co.uk</li>
+<li class='same'> 14:33 www.amazon.co.uk</li>
+<li> 14:33 docs.google.com</li>
+<li> 14:33 mail.google.com</li>
+<li> 14:33 one.google.com</li>
+<li> 14:32 mail.google.com</li>
+<li> 14:31 edimart.smarteditors.co.uk</li>
+<li> 14:31 www.amazon.co.uk</li>
+<li class='same'> 14:30 www.amazon.co.uk</li>
+<li class='same'> 14:29 www.amazon.co.uk</li>
+<li class='same'> 14:28 www.amazon.co.uk</li>
+<li class='same'> 14:26 www.amazon.co.uk</li>
+<li> 14:25 web.whatsapp.com</li>
+<li> 14:24 www.amazon.co.uk</li>
+<li class='same'> 14:23 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 13:25 www.linkedin.com</li>
+<li class='same'> 13:24 www.linkedin.com</li>
+<li> 13:24 mail.google.com</li>
+<li class='same'> 13:23 mail.google.com</li>
+<li> 13:23 docs.google.com</li>
+<li class='same'> 13:22 docs.google.com</li>
+<li> 13:22 drive.google.com</li>
+<li> 13:14 www.whatdotheyknow.com</li>
+<li class='same'> 13:12 www.whatdotheyknow.com</li>
+<li class='same'> 13:08 www.whatdotheyknow.com</li>
+<li class='same'> 13:05 www.whatdotheyknow.com</li>
+<li class='same'> 12:59 www.whatdotheyknow.com</li>
+<li class='same'> 12:58 www.whatdotheyknow.com</li>
+<li class='same'> 12:55 www.whatdotheyknow.com</li>
+<li class='same'> 12:54 www.whatdotheyknow.com</li>
+<li> 12:48 mail.google.com</li>
+<li> 12:43 docs.google.com</li>
+<li> 12:42 drive.google.com</li>
+<li> 12:41 docs.google.com</li>
+<li> 12:41 drive.google.com</li>
+<li> 12:36 teams.live.com</li>
+<li> 12:36 mail.google.com</li>
+<li> 12:20 outlook.office365.com</li>
+<li> 12:20 forms.office.com</li>
+<li> 12:19 dashboards.rhul.ac.uk</li>
+<li> 12:19 forms.office.com</li>
+<li class='same'> 12:18 forms.office.com</li>
+<li class='same'> 12:17 forms.office.com</li>
+<li> 12:17 login.microsoftonline.com</li>
+<li> 12:17 forms.office.com</li>
+<li> 12:11 intranet.royalholloway.ac.uk</li>
+<li class='same'> 12:10 intranet.royalholloway.ac.uk</li>
+<li class='same'> 12:09 intranet.royalholloway.ac.uk</li>
+<li> 12:05 mail.google.com</li>
+<li> 12:05 gmail.com</li>
+<li> 12:02 intranet.royalholloway.ac.uk</li>
+<li class='same'> 12:00 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:59 intranet.royalholloway.ac.uk</li>
+<li> 11:59 duckduckgo.com</li>
+<li> 11:58 outlook.office365.com</li>
+<li> 11:58 www.google.com</li>
+<li class='same'> 11:57 www.google.com</li>
+<li> 11:56 <a href="https://en.wikipedia.org/wiki/Killing_of_Charlie_Kirk">Killing of Charlie Kirk - Wikipedia</a></li>
+<li> 11:56 www.google.com</li>
+<li class='same'> 11:55 www.google.com</li>
+<li> 11:54 chatgpt.com</li>
+<li> 11:54 chat.openai.com</li>
+<li> 11:54 www.google.com</li>
+<li class='same'> 11:53 www.google.com</li>
+<li class='same'> 11:52 www.google.com</li>
+<li> 11:49 www.theyworkforyou.com</li>
+<li> 11:44 www.linkedin.com</li>
+<li> 11:44 mail.google.com</li>
+<li> 11:44 outlook.office365.com</li>
+<li> 11:44 login.microsoftonline.com</li>
+<li> 11:42 www.reddit.com</li>
+<li> 11:18 <a href="https://en.wikipedia.org/wiki/Killing_of_Charlie_Kirk">Killing of Charlie Kirk - Wikipedia</a></li>
+<li> 11:18 duckduckgo.com</li>
+<li> 11:16 www.reddit.com</li>
+<li class='same'> 11:15 www.reddit.com</li>
+<li> 11:15 www.giantitp.com</li>
+<li> 11:14 mail.google.com</li>
+<li> 11:14 feedly.com</li>
+<li> 11:14 mail.google.com</li>
+<li> 11:13 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:01 <a href="https://www.theguardian.com/commentisfree/2025/sep/11/israel-security-threat-iran-gulf-states-attack-doha">Israel has replaced Iran as the biggest security threat to the Gulf states | Sanam Vakil | The Guardian</a></li>
+<li> 08:00 mail.google.com</li>
+<li> 07:58 chatgpt.com</li>
+<li> 07:58 chat.openai.com</li>
+<li> 07:57 download.thetrainline.com</li>
+<li> 07:57 mail.google.com</li>
+<li> 07:48 www.linkedin.com</li>
+<li> 07:47 mail.google.com</li>
+<li> 07:46 www.linkedin.com</li>
+<li class='same'> 07:44 www.linkedin.com</li>
+<li class='same'> 07:43 www.linkedin.com</li>
+<li> 07:43 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 02:33 herts.instructure.com</li>
+</ul>
+
+<H3>Thursday, 11/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 16:57 web.whatsapp.com</li>
+<li> 16:56 feedly.com</li>
+<li> 16:56 www.linkedin.com</li>
+<li class='same'> 16:55 www.linkedin.com</li>
+<li class='same'> 16:54 www.linkedin.com</li>
+<li> 16:52 outlook.office.com</li>
+<li class='same'> 16:51 outlook.office.com</li>
+<li> 16:51 m365.cloud.microsoft</li>
+<li> 16:51 login.microsoftonline.com</li>
+<li> 16:45 forms.office.com</li>
+<li> 16:44 login.microsoftonline.com</li>
+<li> 16:44 forms.office.com</li>
+<li> 16:44 www.microsoft.com</li>
+<li> 16:44 forms.office.com</li>
+<li> 16:30 web.whatsapp.com</li>
+<li> 16:26 duckduckgo.com</li>
+<li> 16:25 ev.turnitinuk.com</li>
+<li> 16:25 herts.instructure.com</li>
+<li class='same'> 16:23 herts.instructure.com</li>
+<li> 16:19 www.kaggle.com</li>
+<li> 16:18 web.whatsapp.com</li>
+<li> 16:11 www.kaggle.com</li>
+<li class='same'> 16:10 www.kaggle.com</li>
+<li> 16:06 chatgpt.com</li>
+<li> 16:06 chat.openai.com</li>
+<li> 15:58 www.linkedin.com</li>
+<li> 15:54 ev.turnitinuk.com</li>
+<li> 15:54 herts.instructure.com</li>
+<li> 15:51 gigasheet.com</li>
+<li class='same'> 15:50 gigasheet.com</li>
+<li class='same'> 15:49 gigasheet.com</li>
+<li> 15:44 chatgpt.com</li>
+<li> 15:44 chat.openai.com</li>
+<li> 15:44 duckduckgo.com</li>
+<li class='same'> 15:43 duckduckgo.com</li>
+<li> 15:36 ieeexplore.ieee.org</li>
+<li> 15:26 mail.google.com</li>
+<li> 15:23 web.whatsapp.com</li>
+<li> 15:22 mail.google.com</li>
+<li> 15:21 ev.turnitinuk.com</li>
+<li> 15:21 herts.instructure.com</li>
+<li> 15:19 journals.sagepub.com</li>
+<li> 15:19 www.google.com</li>
+<li> 15:14 mail.google.com</li>
+<li> 15:07 www.theseus.fi</li>
+<li> 15:07 duckduckgo.com</li>
+<li> 15:01 ev.turnitinuk.com</li>
+<li> 15:01 herts.instructure.com</li>
+<li> 14:53 <a href="https://www.theguardian.com/politics/2025/sep/11/who-is-in-the-running-to-replace-peter-mandelson-as-britains-us-ambassador">Who is in the running to replace Peter Mandelson as Britain’s US ambassador? | Peter Mandelson | The Guardian</a></li>
+<li> 14:53 feedly.com</li>
+<li> 14:52 web.whatsapp.com</li>
+<li> 14:49 www.herts.ac.uk</li>
+<li> 14:49 duckduckgo.com</li>
+<li> 14:45 ev.turnitinuk.com</li>
+<li> 14:45 herts.instructure.com</li>
+<li class='same'> 14:44 herts.instructure.com</li>
+<li> 14:43 mail.google.com</li>
+<li> 14:38 ev.turnitinuk.com</li>
+<li> 14:38 herts.instructure.com</li>
+<li> 14:23 www.google.com</li>
+<li class='same'> 14:21 www.google.com</li>
+<li> 14:21 mail.google.com</li>
+<li> 14:19 herts.instructure.com</li>
+<li class='same'> 14:18 herts.instructure.com</li>
+<li> 14:17 mail.google.com</li>
+<li class='same'> 14:15 mail.google.com</li>
+<li> 14:14 jobs.open.ac.uk</li>
+<li> 14:14 university.open.ac.uk</li>
+<li> 14:12 chatgpt.com</li>
+<li> 14:12 chat.openai.com</li>
+<li> 14:12 duckduckgo.com</li>
+<li> 14:11 docs.google.com</li>
+<li> 14:10 mail.google.com</li>
+<li class='same'> 14:09 mail.google.com</li>
+<li> 14:08 ev.turnitinuk.com</li>
+<li> 14:08 herts.instructure.com</li>
+<li> 14:08 mail.google.com</li>
+<li> 14:08 gmail.com</li>
+<li> 14:07 www.google.com</li>
+<li class='same'> 14:06 www.google.com</li>
+<li> 14:06 www.facebook.com</li>
+<li> 14:06 duckduckgo.com</li>
+<li> 14:05 www.google.com</li>
+<li> 14:05 mail.google.com</li>
+<li> 14:05 gmail.com</li>
+<li> 14:04 www.reddit.com</li>
+<li> 14:04 outlook.office365.com</li>
+<li class='same'> 14:03 outlook.office365.com</li>
+<li> 14:01 one.network</li>
+<li> 14:01 www.reddit.com</li>
+<li> 14:01 duckduckgo.com</li>
+<li> 14:00 roadwork.info</li>
+<li> 14:00 duckduckgo.com</li>
+<li> 13:59 outlook.office365.com</li>
+<li class='same'> 13:58 outlook.office365.com</li>
+<li> 13:57 calendar.google.com</li>
+<li> 13:57 m365.cloud.microsoft</li>
+<li> 13:57 login.microsoftonline.com</li>
+<li class='same'> 13:56 login.microsoftonline.com</li>
+<li> 13:56 forms.cloud.microsoft</li>
+<li> 13:56 outlook.office.com</li>
+<li> 13:55 web.whatsapp.com</li>
+<li> 13:50 outlook.office.com</li>
+<li class='same'> 13:47 outlook.office.com</li>
+<li> 13:47 m365.cloud.microsoft</li>
+<li> 13:47 login.microsoftonline.com</li>
+<li> 13:46 calendar.google.com</li>
+<li> 13:43 doi.org</li>
+<li> 13:42 duckduckgo.com</li>
+<li> 13:33 github.com</li>
+<li> 13:33 duckduckgo.com</li>
+<li> 13:24 ieeexplore.ieee.org</li>
+<li> 13:24 duckduckgo.com</li>
+<li> 13:23 ev.turnitinuk.com</li>
+<li> 13:23 herts.instructure.com</li>
+<li> 13:18 ev.turnitinuk.com</li>
+<li> 13:18 herts.instructure.com</li>
+<li> 13:14 www.kaggle.com</li>
+<li class='same'> 13:10 www.kaggle.com</li>
+<li class='same'> 13:09 www.kaggle.com</li>
+<li> 13:03 ev.turnitinuk.com</li>
+<li> 13:03 herts.instructure.com</li>
+<li class='same'> 13:02 herts.instructure.com</li>
+<li class='same'> 13:01 herts.instructure.com</li>
+<li class='same'> 13:00 herts.instructure.com</li>
+<li> 12:58 www.amazon.co.uk</li>
+<li class='same'> 12:57 www.amazon.co.uk</li>
+<li class='same'> 12:54 www.amazon.co.uk</li>
+<li class='same'> 12:53 www.amazon.co.uk</li>
+<li class='same'> 12:52 www.amazon.co.uk</li>
+<li class='same'> 12:51 www.amazon.co.uk</li>
+<li> 12:50 chatgpt.com</li>
+<li> 12:50 chat.openai.com</li>
+<li> 12:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:48 mail.google.com</li>
+<li class='same'> 12:46 mail.google.com</li>
+<li> 12:46 outlook.office365.com</li>
+<li class='same'> 12:45 outlook.office365.com</li>
+<li> 12:39 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:32 www.amazon.co.uk</li>
+<li> 12:32 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:32 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:32 mail.google.com</li>
+<li class='same'> 12:31 mail.google.com</li>
+<li> 12:31 www.linkedin.com</li>
+<li class='same'> 12:30 www.linkedin.com</li>
+<li class='same'> 12:28 www.linkedin.com</li>
+<li class='same'> 12:27 www.linkedin.com</li>
+<li> 12:27 mail.google.com</li>
+<li class='same'> 12:26 mail.google.com</li>
+<li> 12:25 knowyourmeme.com</li>
+<li class='same'> 12:23 knowyourmeme.com</li>
+<li> 12:21 www.explainxkcd.com</li>
+<li> 12:21 feedly.com</li>
+<li> 12:21 knowyourmeme.com</li>
+<li> 12:20 duckduckgo.com</li>
+<li> 12:20 www.explainxkcd.com</li>
+<li> 12:14 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:33 www.viewdrivingrecord.service.gov.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 09:48 www.qiq.support</li>
+<li class='same'> 09:43 www.qiq.support</li>
+<li class='same'> 09:42 www.qiq.support</li>
+<li> 09:42 kathryncooper.co.uk</li>
+<li> 09:42 kathryncooper.com</li>
+<li> 09:41 feedly.com</li>
+<li class='same'> 09:40 feedly.com</li>
+<li> 09:39 www.explainxkcd.com</li>
+<li class='same'> 09:38 www.explainxkcd.com</li>
+<li> 09:37 feedly.com</li>
+<li> 09:36 web.whatsapp.com</li>
+<li> 09:36 mail.google.com</li>
+<li class='same'> 09:34 mail.google.com</li>
+<li> 09:34 www.su.rhul.ac.uk</li>
+<li> 09:34 duckduckgo.com</li>
+<li> 09:34 mail.google.com</li>
+<li class='same'> 09:29 mail.google.com</li>
+<li> 09:28 www.linkedin.com</li>
+<li> 09:28 mail.google.com</li>
+<li class='same'> 09:27 mail.google.com</li>
+<li> 09:27 gmail.com</li>
+<li> 09:18 forms.office.com</li>
+<li> 09:18 login.microsoftonline.com</li>
+<li> 09:18 forms.office.com</li>
+<li> 09:17 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:14 www.linkedin.com</li>
+<li class='same'> 08:13 www.linkedin.com</li>
+<li class='same'> 08:12 www.linkedin.com</li>
+<li> 08:10 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:19 www.viewdrivingrecord.service.gov.uk</li>
+<li class='same'> 07:18 www.viewdrivingrecord.service.gov.uk</li>
+<li> 07:18 www.gov.uk</li>
+<li> 07:18 www.google.com</li>
+<li> 07:03 <a href="https://www.theguardian.com/media/ng-interactive/2025/sep/10/bari-weiss-cbs">Disgruntled NYT journalist to ‘anti-woke’ power grab: how far can Bari Weiss go? | Media | The Guardian</a></li>
+<li> 06:54 www.reddit.com</li>
+<li class='same'> 06:53 www.reddit.com</li>
+<li class='same'> 06:52 www.reddit.com</li>
+<li class='same'> 06:51 www.reddit.com</li>
+<li> 06:51 <a href="https://www.theguardian.com/business/2025/sep/10/camra-cancels-great-british-beer-festival">Camra cancels Britain’s biggest beer festival next year amid ‘budget shortfalls’ | Food & drink industry | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 02:57 herts.instructure.com</li>
+</ul>
+
+<H3>Wednesday, 10/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 22:09 <a href="https://www.theguardian.com/business/2025/sep/10/camra-cancels-great-british-beer-festival">Camra cancels Britain’s biggest beer festival next year amid ‘budget shortfalls’ | Food & drink industry | The Guardian</a></li>
+<li> 22:07 <a href="https://www.theguardian.com/world/2025/sep/10/israel-president-isaac-herzog-meeting-keir-starmer-analysis">Starmer’s meeting with Israeli president could set relations back further | Israel-Gaza war | The Guardian</a></li>
+<li> 22:06 <a href="https://www.theguardian.com/us-news/2025/sep/10/charlie-kirk-shooting-what-we-know">Charlie Kirk shooting – what we know so far | Charlie Kirk shooting | The Guardian</a></li>
+<li> 22:06 www.herts.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:14 www.herts.ac.uk</li>
+<li> 20:13 www.google.com</li>
+<li> 20:13 <a href="https://www.theguardian.com/football/2025/sep/10/former-premier-league-referee-david-coote-charged-with-making-indecent-image-of-child">Former Premier League referee David Coote charged with making indecent image of child | Football | The Guardian</a></li>
+<li class='same'> 19:58 <a href="https://www.theguardian.com/football/2025/sep/10/former-premier-league-referee-david-coote-charged-with-making-indecent-image-of-child">Former Premier League referee David Coote charged with making indecent image of child | Football | The Guardian</a></li>
+<li> 19:51 <a href="https://www.theguardian.com/politics/2025/sep/10/bridget-phillipson-and-lucy-powell-set-for-two-horse-race-to-be-labour-deputy">Bridget Phillipson and Lucy Powell set for two-horse race to be Labour deputy | Labour party deputy leadership | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 18:40 sport.herts.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:32 sport.herts.ac.uk</li>
+<li class='same'> 17:31 sport.herts.ac.uk</li>
+<li class='same'> 17:30 sport.herts.ac.uk</li>
+<li> 17:30 www.linkedin.com</li>
+<li> 17:30 sport.herts.ac.uk</li>
+<li> 17:30 www.google.com</li>
+<li> 17:30 www.linkedin.com</li>
+<li> 17:11 outlook.office365.com</li>
+<li> 16:58 chatgpt.com</li>
+<li> 16:58 outlook.office365.com</li>
+<li> 16:54 ev.turnitinuk.com</li>
+<li> 16:54 outlook.office365.com</li>
+<li> 16:54 herts.instructure.com</li>
+<li> 16:42 outlook.office365.com</li>
+<li> 16:39 forms.office.com</li>
+<li> 16:39 outlook.office365.com</li>
+<li class='same'> 16:38 outlook.office365.com</li>
+<li> 16:32 login.microsoftonline.com</li>
+<li> 16:32 forms.cloud.microsoft</li>
+<li> 16:32 login.microsoftonline.com</li>
+<li> 16:32 forms.cloud.microsoft</li>
+<li> 16:31 outlook.office365.com</li>
+<li> 16:30 ev.turnitinuk.com</li>
+<li> 16:30 herts.instructure.com</li>
+<li class='same'> 16:29 herts.instructure.com</li>
+<li class='same'> 16:28 herts.instructure.com</li>
+<li> 16:23 arxiv.org</li>
+<li> 16:23 duckduckgo.com</li>
+<li class='same'> 16:22 duckduckgo.com</li>
+<li> 16:14 outlook.office365.com</li>
+<li> 16:04 ev.turnitinuk.com</li>
+<li> 16:04 herts.instructure.com</li>
+<li class='same'> 16:03 herts.instructure.com</li>
+<li> 15:51 outlook.office365.com</li>
+<li> 15:49 www.reddit.com</li>
+<li> 15:44 forms.office.com</li>
+<li class='same'> 15:43 forms.office.com</li>
+<li> 15:43 login.microsoftonline.com</li>
+<li> 15:43 forms.office.com</li>
+<li> 15:42 outlook.office365.com</li>
+<li> 15:28 chatgpt.com</li>
+<li> 15:18 outlook.office365.com</li>
+<li> 15:14 ev.turnitinuk.com</li>
+<li> 15:14 herts.instructure.com</li>
+<li> 15:06 outlook.office365.com</li>
+<li> 15:00 teams.microsoft.com</li>
+<li> 15:00 outlook.office365.com</li>
+<li> 14:50 doi.org</li>
+<li> 14:43 duckduckgo.com</li>
+<li class='same'> 14:41 duckduckgo.com</li>
+<li class='same'> 14:38 duckduckgo.com</li>
+<li> 14:37 ev.turnitinuk.com</li>
+<li> 14:37 herts.instructure.com</li>
+<li> 14:37 ev.turnitinuk.com</li>
+<li> 14:37 herts.instructure.com</li>
+<li> 14:37 outlook.office365.com</li>
+<li class='same'> 14:31 outlook.office365.com</li>
+<li class='same'> 14:29 outlook.office365.com</li>
+<li class='same'> 14:28 outlook.office365.com</li>
+<li> 14:28 login.microsoftonline.com</li>
+<li> 14:23 www.stalbanscyclehub.co.uk</li>
+<li> 14:23 duckduckgo.com</li>
+<li> 14:23 www.google.co.uk</li>
+<li class='same'> 14:22 www.google.co.uk</li>
+<li> 14:22 mail.google.com</li>
+<li class='same'> 14:21 mail.google.com</li>
+<li> 14:20 www.google.co.uk</li>
+<li class='same'> 14:16 www.google.co.uk</li>
+<li class='same'> 14:15 www.google.co.uk</li>
+<li class='same'> 14:14 www.google.co.uk</li>
+<li> 14:12 chatgpt.com</li>
+<li> 14:11 www.google.co.uk</li>
+<li class='same'> 14:10 www.google.co.uk</li>
+<li class='same'> 14:09 www.google.co.uk</li>
+<li> 14:09 www.booking.com</li>
+<li> 14:09 www.thetrainline.com</li>
+<li> 14:09 www.booking.com</li>
+<li> 14:09 www.thetrainline.com</li>
+<li class='same'> 14:07 www.thetrainline.com</li>
+<li> 14:06 duckduckgo.com</li>
+<li> 14:05 <a href="https://en.wikipedia.org/wiki/Royal_Albert_Hospital">Royal Albert Hospital - Wikipedia</a></li>
+<li> 14:05 duckduckgo.com</li>
+<li> 14:05 www.europcar.co.uk</li>
+<li class='same'> 14:04 www.europcar.co.uk</li>
+<li class='same'> 14:03 www.europcar.co.uk</li>
+<li> 14:03 duckduckgo.com</li>
+<li> 14:01 ev.turnitinuk.com</li>
+<li> 14:01 herts.instructure.com</li>
+<li class='same'> 13:59 herts.instructure.com</li>
+<li> 13:58 mail.google.com</li>
+<li> 13:54 www.amazon.co.uk</li>
+<li class='same'> 13:53 www.amazon.co.uk</li>
+<li> 13:53 docs.google.com</li>
+<li> 13:53 libbysearch.com</li>
+<li> 13:53 www.amazon.co.uk</li>
+<li class='same'> 13:52 www.amazon.co.uk</li>
+<li> 13:52 docs.google.com</li>
+<li> 13:52 www.amazon.co.uk</li>
+<li> 13:52 mail.google.com</li>
+<li class='same'> 13:51 mail.google.com</li>
+<li> 13:51 calendar.google.com</li>
+<li> 13:51 mail.google.com</li>
+<li class='same'> 13:50 mail.google.com</li>
+<li> 13:37 arxiv.org</li>
+<li class='same'> 13:36 arxiv.org</li>
+<li> 13:34 ev.turnitinuk.com</li>
+<li> 13:34 herts.instructure.com</li>
+<li class='same'> 13:32 herts.instructure.com</li>
+<li> 13:29 www.reddit.com</li>
+<li> 13:16 mail.google.com</li>
+<li> 13:15 www.jobs.ac.uk</li>
+<li> 13:15 mail.google.com</li>
+<li> 13:09 ev.turnitinuk.com</li>
+<li> 13:09 herts.instructure.com</li>
+<li class='same'> 13:05 herts.instructure.com</li>
+<li> 12:42 duckduckgo.com</li>
+<li> 12:39 ev.turnitinuk.com</li>
+<li> 12:39 herts.instructure.com</li>
+<li class='same'> 12:37 herts.instructure.com</li>
+<li> 12:17 www.linkedin.com</li>
+<li class='same'> 12:16 www.linkedin.com</li>
+<li class='same'> 12:15 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:42 sfy.ru</li>
+<li> 11:35 mail.google.com</li>
+<li> 11:19 ev.turnitinuk.com</li>
+<li> 11:19 herts.instructure.com</li>
+<li class='same'> 11:18 herts.instructure.com</li>
+<li> 11:14 www.jobs.ac.uk</li>
+<li> 11:14 mail.google.com</li>
+<li> 11:13 forum.artofmemory.com</li>
+<li class='same'> 11:12 forum.artofmemory.com</li>
+<li> 11:12 mail.google.com</li>
+<li> 11:12 www.netflix.com</li>
+<li> 11:12 mail.google.com</li>
+<li class='same'> 11:11 mail.google.com</li>
+<li> 11:10 www.google.com</li>
+<li> 11:10 mail.google.com</li>
+<li> 11:10 www.netflix.com</li>
+<li> 11:10 mail.google.com</li>
+<li class='same'> 11:09 mail.google.com</li>
+<li> 11:09 us11.admin.mailchimp.com</li>
+<li> 11:06 www.linkedin.com</li>
+<li> 11:05 us11.admin.mailchimp.com</li>
+<li> 11:05 login.mailchimp.com</li>
+<li> 11:05 mail.google.com</li>
+<li> 11:05 www.google.com</li>
+<li class='same'> 11:04 www.google.com</li>
+<li> 11:04 mail.google.com</li>
+<li> 10:50 chatgpt.com</li>
+<li> 10:38 colortokens.com</li>
+<li> 10:38 www.techtarget.com</li>
+<li> 10:37 ev.turnitinuk.com</li>
+<li> 10:37 herts.instructure.com</li>
+<li> 10:37 ev.turnitinuk.com</li>
+<li> 10:36 herts.instructure.com</li>
+<li class='same'> 10:22 herts.instructure.com</li>
+<li class='same'> 10:21 herts.instructure.com</li>
+<li> 10:14 ev.turnitinuk.com</li>
+<li> 10:13 herts.instructure.com</li>
+<li class='same'> 10:12 herts.instructure.com</li>
+<li class='same'> 10:11 herts.instructure.com</li>
+<li> 10:02 www.gov.uk</li>
+<li> 10:02 chatgpt.com</li>
+<li> 10:01 mail.google.com</li>
+<li> 10:01 gmail.com</li>
+<li> 09:54 workspace.google.com</li>
+<li> 09:54 mail.google.com</li>
+<li> 09:54 accounts.google.com</li>
+<li> 09:54 gmail.com</li>
+<li> 09:51 chatgpt.com</li>
+<li> 09:50 github.com</li>
+<li> 09:50 duckduckgo.com</li>
+<li> 09:45 github.com</li>
+<li> 09:44 duckduckgo.com</li>
+<li class='same'> 09:38 duckduckgo.com</li>
+<li> 09:35 ev.turnitinuk.com</li>
+<li> 09:35 herts.instructure.com</li>
+<li class='same'> 09:34 herts.instructure.com</li>
+<li> 09:34 outlook.office.com</li>
+<li class='same'> 09:33 outlook.office.com</li>
+<li> 09:33 outlook.office365.com</li>
+<li> 09:32 outlook.office.com</li>
+<li class='same'> 09:31 outlook.office.com</li>
+<li class='same'> 09:28 outlook.office.com</li>
+<li> 09:27 m365.cloud.microsoft</li>
+<li> 09:27 login.microsoftonline.com</li>
+<li> 09:24 outlook.office365.com</li>
+<li> 09:21 www.linkedin.com</li>
+<li class='same'> 09:20 www.linkedin.com</li>
+<li> 09:05 herts.instructure.com</li>
+<li> 09:04 duckduckgo.com</li>
+<li> 09:04 ev.turnitinuk.com</li>
+<li> 09:04 herts.instructure.com</li>
+<li> 09:03 ev.turnitinuk.com</li>
+<li> 09:03 herts.instructure.com</li>
+<li> 09:03 ev.turnitinuk.com</li>
+<li> 09:03 herts.instructure.com</li>
+<li class='same'> 09:01 herts.instructure.com</li>
+<li class='same'> 09:00 herts.instructure.com</li>
+<li class='same'> 08:59 herts.instructure.com</li>
+<li class='same'> 08:57 herts.instructure.com</li>
+<li> 08:48 sfy.ru</li>
+<li class='same'> 08:47 sfy.ru</li>
+<li> 08:47 www.google.com</li>
+<li> 08:47 www.reddit.com</li>
+<li> 08:47 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:18 www.linkedin.com</li>
+<li class='same'> 07:17 www.linkedin.com</li>
+<li> 07:05 smartedi2.smarteditors.co.uk</li>
+<li> 07:02 <a href="https://www.theguardian.com/football/2025/sep/09/serbia-england-world-cup-2026-qualifier-match-report">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 06:44 <a href="https://www.theguardian.com/world/2025/sep/10/poland-shoots-down-drones-over-its-territory-amid-russian-attack-on-ukraine-says-military">Poland shoots down drones over its territory amid Russian attack on Ukraine | Poland | The Guardian</a></li>
+<li> 06:42 <a href="https://www.theguardian.com/politics/2025/sep/09/reality-begins-to-kick-in-for-badenoch-though-its-not-really-her-fault">Reality begins to kick in for Badenoch – though it’s not really her fault | John Crace | The Guardian</a></li>
+<li> 06:39 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/10/aka-charlie-sheen-review-netlix">AKA Charlie Sheen review – he shows no genuine remorse for all the terrifying things he’s done | Television & radio | The Guardian</a></li>
+<li> 06:37 <a href="https://www.theguardian.com/world/2025/sep/10/tom-phillips-new-zealand-man-fugitive-father-outside-help-nz-police-ntwnfb">Discovery of new campsite shows fugitive Tom Phillips had ‘outside help,’ NZ police say | New Zealand | The Guardian</a></li>
+<li> 06:33 www.google.com</li>
+</ul>
+
+<H3>Tuesday, 09/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:39 www.google.com</li>
+<li> 19:39 www.telegraph.co.uk</li>
+<li class='same'> 19:38 www.telegraph.co.uk</li>
+<li class='same'> 19:37 www.telegraph.co.uk</li>
+<li> 19:37 www.google.com</li>
+<li class='same'> 19:32 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:49 www.amazon.co.uk</li>
+<li class='same'> 18:48 www.amazon.co.uk</li>
+<li> 18:48 www.google.com</li>
+<li> 18:48 www.amazon.co.uk</li>
+<li class='same'> 18:47 www.amazon.co.uk</li>
+<li> 18:47 www.google.com</li>
+<li> 18:36 www.linkedin.com</li>
+<li class='same'> 18:35 www.linkedin.com</li>
+<li class='same'> 18:34 www.linkedin.com</li>
+<li class='same'> 18:33 www.linkedin.com</li>
+<li> 18:08 <a href="https://www.theguardian.com/business/2025/sep/09/hollywood-tycoon-poised-to-swoop-on-secret-cinema-owner">Hollywood tycoon poised to swoop on Secret Cinema owner | Mergers and acquisitions | The Guardian</a></li>
+<li> 18:05 <a href="https://www.theguardian.com/media/2025/sep/09/lachlan-control-murdoch-empire-but-deal-win-sibling-rivals">Lachlan finally has control of Murdoch empire but deal is a win for sibling rivals | Rupert Murdoch | The Guardian</a></li>
+<li> 18:03 <a href="https://www.theguardian.com/politics/2025/sep/09/bridget-phillipson-labour-deputy-leader-race">Phillipson the frontrunner as six female Labour MPs enter deputy leader race | Labour party deputy leadership | The Guardian</a></li>
+<li class='same'> 18:02 <a href="https://www.theguardian.com/politics/2025/sep/09/bridget-phillipson-labour-deputy-leader-race">Phillipson the frontrunner as six female Labour MPs enter deputy leader race | Labour party deputy leadership | The Guardian</a></li>
+<li> 17:53 www.temu.com</li>
+<li> 17:53 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:04 www.linkedin.com</li>
+<li class='same'> 15:03 www.linkedin.com</li>
+<li> 15:01 outlook.office.com</li>
+<li> 15:01 outlook.office365.com</li>
+<li class='same'> 14:58 outlook.office365.com</li>
+<li class='same'> 14:57 outlook.office365.com</li>
+<li> 14:56 outlook.office.com</li>
+<li class='same'> 14:54 outlook.office.com</li>
+<li> 14:50 outlook.office365.com</li>
+<li class='same'> 14:49 outlook.office365.com</li>
+<li class='same'> 14:48 outlook.office365.com</li>
+<li> 14:34 chatgpt.com</li>
+<li> 14:29 dl.acm.org</li>
+<li> 14:28 ev.turnitinuk.com</li>
+<li> 14:28 herts.instructure.com</li>
+<li class='same'> 14:27 herts.instructure.com</li>
+<li> 14:16 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:15 moodle.royalholloway.ac.uk</li>
+<li> 14:15 login.microsoftonline.com</li>
+<li> 14:15 moodle.royalholloway.ac.uk</li>
+<li> 14:12 outlook.office365.com</li>
+<li> 14:02 outlook.office.com</li>
+<li class='same'> 14:01 outlook.office.com</li>
+<li class='same'> 13:55 outlook.office.com</li>
+<li> 13:27 herts.instructure.com</li>
+<li> 13:26 pos.sissa.it</li>
+<li> 13:25 ev.turnitinuk.com</li>
+<li> 13:25 herts.instructure.com</li>
+<li class='same'> 13:24 herts.instructure.com</li>
+<li> 13:17 www.reddit.com</li>
+<li class='same'> 13:16 www.reddit.com</li>
+<li class='same'> 12:55 www.reddit.com</li>
+<li> 12:55 www.google.com</li>
+<li> 12:33 herts.instructure.com</li>
+<li> 12:23 pos.sissa.it</li>
+<li> 12:23 duckduckgo.com</li>
+<li> 12:22 ev.turnitinuk.com</li>
+<li> 12:22 herts.instructure.com</li>
+<li> 12:22 outlook.office.com</li>
+<li class='same'> 12:21 outlook.office.com</li>
+<li> 12:21 m365.cloud.microsoft</li>
+<li> 12:21 login.microsoftonline.com</li>
+<li> 12:15 outlook.office.com</li>
+<li class='same'> 12:14 outlook.office.com</li>
+<li class='same'> 12:13 outlook.office.com</li>
+<li> 12:13 m365.cloud.microsoft</li>
+<li> 12:13 login.microsoftonline.com</li>
+<li> 12:09 duckduckgo.com</li>
+<li class='same'> 11:56 duckduckgo.com</li>
+<li> 11:55 ev.turnitinuk.com</li>
+<li> 11:54 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:23 ev.turnitinuk.com</li>
+<li> 11:23 herts.instructure.com</li>
+<li class='same'> 11:12 herts.instructure.com</li>
+<li> 10:49 duckduckgo.com</li>
+<li> 10:47 ev.turnitinuk.com</li>
+<li> 10:47 herts.instructure.com</li>
+<li class='same'> 10:46 herts.instructure.com</li>
+<li> 10:46 ev.turnitinuk.com</li>
+<li> 10:41 herts.instructure.com</li>
+<li> 10:18 ev.turnitinuk.com</li>
+<li> 10:18 herts.instructure.com</li>
+<li> 10:05 arxiv.org</li>
+<li> 10:05 duckduckgo.com</li>
+<li> 09:58 chatgpt.com</li>
+<li> 09:54 duckduckgo.com</li>
+<li> 09:54 arxiv.org</li>
+<li> 09:53 duckduckgo.com</li>
+<li> 09:52 ev.turnitinuk.com</li>
+<li> 09:52 herts.instructure.com</li>
+<li> 09:50 outlook.office365.com</li>
+<li class='same'> 09:49 outlook.office365.com</li>
+<li class='same'> 09:46 outlook.office365.com</li>
+<li> 09:23 duckduckgo.com</li>
+<li> 09:22 ev.turnitinuk.com</li>
+<li> 09:22 herts.instructure.com</li>
+<li> 09:13 chatgpt.com</li>
+<li> 09:05 herts.instructure.com</li>
+<li class='same'> 09:04 herts.instructure.com</li>
+<li> 09:02 ev.turnitinuk.com</li>
+<li> 09:02 herts.instructure.com</li>
+<li> 08:58 outlook.office365.com</li>
+<li> 08:58 login.microsoftonline.com</li>
+<li> 08:49 medium.com</li>
+<li> 08:48 ev.turnitinuk.com</li>
+<li> 08:48 herts.instructure.com</li>
+<li class='same'> 08:47 herts.instructure.com</li>
+<li class='same'> 08:46 herts.instructure.com</li>
+<li class='same'> 08:45 herts.instructure.com</li>
+<li> 08:45 adfs.herts.ac.uk</li>
+<li> 08:45 api-b6327e78.duosecurity.com</li>
+<li> 08:45 adfs.herts.ac.uk</li>
+<li> 08:45 herts.instructure.com</li>
+<li> 08:26 www.google.com</li>
+<li> 08:26 www.instagram.com</li>
+<li> 08:12 m365.cloud.microsoft</li>
+<li> 08:12 login.microsoftonline.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:00 outlook.office365.com</li>
+</ul>
+
+<H3>Monday, 08/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:23 outlook.office365.com</li>
+<li> 21:18 projects.cs.rhul.ac.uk</li>
+<li> 21:18 outlook.office365.com</li>
+<li> 21:18 forms.office.com</li>
+<li class='same'> 21:17 forms.office.com</li>
+<li class='same'> 21:16 forms.office.com</li>
+<li class='same'> 21:15 forms.office.com</li>
+<li> 21:14 dashboards.rhul.ac.uk</li>
+<li> 21:13 fritz.box</li>
+<li> 20:56 www.instagram.com</li>
+<li> 20:55 www.google.com</li>
+<li> 20:52 forms.office.com</li>
+<li class='same'> 20:51 forms.office.com</li>
+<li class='same'> 20:50 forms.office.com</li>
+<li class='same'> 20:49 forms.office.com</li>
+<li class='same'> 20:48 forms.office.com</li>
+<li> 20:48 login.microsoftonline.com</li>
+<li> 20:48 forms.office.com</li>
+<li> 20:47 outlook.office365.com</li>
+<li> 20:46 <a href="https://www.theguardian.com/politics/2025/sep/08/several-senior-female-labour-mps-drop-out-of-party-deputy-leader-contention">Several senior female Labour MPs drop out of party deputy leader contention | Labour | The Guardian</a></li>
+<li> 20:45 outlook.office365.com</li>
+<li class='same'> 20:44 outlook.office365.com</li>
+<li> 20:44 duckduckgo.com</li>
+<li> 20:44 outlook.office365.com</li>
+<li> 20:43 rhul.sharepoint.com</li>
+<li> 20:42 outlook.office365.com</li>
+<li> 20:36 www.coursera.org</li>
+<li class='same'> 20:35 www.coursera.org</li>
+<li> 20:30 www.linkedin.com</li>
+<li class='same'> 20:27 www.linkedin.com</li>
+<li> 20:24 www.coursera.org</li>
+<li class='same'> 20:22 www.coursera.org</li>
+<li class='same'> 20:21 www.coursera.org</li>
+<li> 20:06 outlook.office.com</li>
+<li> 20:03 fritz.box</li>
+<li class='same'> 20:02 fritz.box</li>
+<li class='same'> 20:01 fritz.box</li>
+<li class='same'> 20:00 fritz.box</li>
+<li> 19:56 <a href="https://www.theguardian.com/politics/2025/sep/08/several-senior-female-labour-mps-drop-out-of-party-deputy-leader-contention">Several senior female Labour MPs drop out of party deputy leader contention | Labour | The Guardian</a></li>
+<li> 19:31 www.essex.police.uk</li>
+<li> 19:24 <a href="https://www.theguardian.com/politics/2025/sep/08/who-is-in-the-running-to-be-the-next-labour-deputy-leader">Who is in the running to be the next Labour deputy leader? | Labour party deputy leadership | The Guardian</a></li>
+<li> 19:23 <a href="https://www.theguardian.com/us-news/2025/sep/08/trump-tom-hanks-woke">Trump directs ire at Tom Hanks for being ‘destructive’ and ‘woke’ | Donald Trump | The Guardian</a></li>
+<li> 19:22 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/08/bbc-all-female-masterchef-presenting-team-after-sacking-gregg-wallace-john-torode">BBC announces all-female MasterChef presenting team after sacking of Wallace and Torode | MasterChef | The Guardian</a></li>
+<li> 19:20 <a href="https://www.theguardian.com/uk-news/2025/sep/08/revealed-how-boris-johnson-traded-pm-contacts-for-global-business-deals">Revealed: how Boris Johnson traded PM contacts for global business deals | Boris Johnson | The Guardian</a></li>
+<li> 19:09 www.google.com</li>
+<li> 19:09 courtsentences.co.uk</li>
+<li> 19:09 www.google.com</li>
+<li class='same'> 19:08 www.google.com</li>
+<li> 19:07 www.essex.police.uk</li>
+<li> 18:53 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:37 www.essex.police.uk</li>
+<li> 17:37 www.quora.com</li>
+<li> 17:29 outlook.office.com</li>
+<li class='same'> 17:28 outlook.office.com</li>
+<li> 17:28 m365.cloud.microsoft</li>
+<li> 17:28 login.microsoftonline.com</li>
+<li> 17:05 fast.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:07 www.quora.com</li>
+<li> 15:07 <a href="https://www.theguardian.com/sport/2025/sep/06/england-australia-womens-rugby-world-cup-match-report">England outlast Australia to book Rugby World Cup quarter-final against Scotland | Women's Rugby World Cup 2025 | The Guardian</a></li>
+<li> 15:07 www.reddit.com</li>
+<li> 15:07 www.google.com</li>
+<li> 15:07 www.reddit.com</li>
+<li> 15:07 www.google.com</li>
+<li class='same'> 15:06 www.google.com</li>
+<li> 15:06 www.essex.police.uk</li>
+<li> 14:51 www.braintreeandwithamtimes.co.uk</li>
+<li> 14:51 duckduckgo.com</li>
+<li class='same'> 14:50 duckduckgo.com</li>
+<li> 14:50 www.essex.police.uk</li>
+<li class='same'> 14:48 www.essex.police.uk</li>
+<li> 14:35 pure.royalholloway.ac.uk</li>
+<li> 14:35 duckduckgo.com</li>
+<li> 14:35 outlook.office365.com</li>
+<li> 14:31 fightingfantasy.fandom.com</li>
+<li> 14:31 www.google.com</li>
+<li> 14:15 forms.office.com</li>
+<li> 14:13 login.microsoftonline.com</li>
+<li> 14:13 forms.office.com</li>
+<li> 14:13 outlook.office365.com</li>
+<li class='same'> 14:11 outlook.office365.com</li>
+<li> 14:09 dashboards.rhul.ac.uk</li>
+<li class='same'> 14:05 dashboards.rhul.ac.uk</li>
+<li> 14:05 login.microsoftonline.com</li>
+<li> 14:03 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 13:55 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:32 www.reddit.com</li>
+<li class='same'> 12:31 www.reddit.com</li>
+<li class='same'> 12:06 www.reddit.com</li>
+<li> 12:05 outlook.office365.com</li>
+<li class='same'> 12:04 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:52 www.reddit.com</li>
+<li class='same'> 09:51 www.reddit.com</li>
+<li> 09:51 www.google.com</li>
+<li> 09:40 www.reddit.com</li>
+<li class='same'> 09:38 www.reddit.com</li>
+<li class='same'> 09:35 www.reddit.com</li>
+<li> 09:34 calendar.google.com</li>
+<li class='same'> 09:33 calendar.google.com</li>
+<li> 09:33 outlook.office365.com</li>
+<li class='same'> 09:32 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:03 www.coursera.org</li>
+<li class='same'> 07:53 www.coursera.org</li>
+<li class='same'> 07:49 www.coursera.org</li>
+<li> 07:35 rhul.sharepoint.com</li>
+<li> 07:35 outlook.office365.com</li>
+<li> 07:32 chatgpt.com</li>
+<li> 07:31 www.coursera.org</li>
+<li> 07:31 archive.org</li>
+<li class='same'> 07:30 archive.org</li>
+<li> 07:30 duckduckgo.com</li>
+<li> 07:30 uolb2cprod.b2clogin.com</li>
+<li> 07:30 login.openathens.net</li>
+<li> 07:29 www.coursera.org</li>
+<li class='same'> 07:28 www.coursera.org</li>
+<li> 07:27 www.random.org</li>
+<li> 07:27 duckduckgo.com</li>
+<li> 07:24 www.coursera.org</li>
+<li> 07:24 outlook.office365.com</li>
+<li> 07:23 www.coursera.org</li>
+<li class='same'> 07:22 www.coursera.org</li>
+<li class='same'> 07:20 www.coursera.org</li>
+<li> 07:18 rhul-my.sharepoint.com</li>
+<li> 07:18 duckduckgo.com</li>
+<li> 07:18 rhul.sharepoint.com</li>
+<li class='same'> 07:17 rhul.sharepoint.com</li>
+<li> 07:17 login.microsoftonline.com</li>
+<li> 07:17 rhul.sharepoint.com</li>
+<li class='same'> 07:16 rhul.sharepoint.com</li>
+<li class='same'> 07:15 rhul.sharepoint.com</li>
+<li> 07:14 www.coursera.org</li>
+<li class='same'> 07:13 www.coursera.org</li>
+<li class='same'> 07:12 www.coursera.org</li>
+<li class='same'> 07:11 www.coursera.org</li>
+<li> 07:04 rhul.sharepoint.com</li>
+<li> 07:03 outlook.office365.com</li>
+<li class='same'> 07:02 outlook.office365.com</li>
+<li> 07:02 rhul.sharepoint.com</li>
+<li class='same'> 07:01 rhul.sharepoint.com</li>
+<li> 07:01 outlook.office365.com</li>
+<li class='same'> 07:00 outlook.office365.com</li>
+<li> 07:00 login.microsoftonline.com</li>
+<li> 06:53 www.reddit.com</li>
+<li class='same'> 06:52 www.reddit.com</li>
+<li> 06:28 www.google.com</li>
+<li> 06:27 www.reddit.com</li>
+</ul>
+
+<H3>Sunday, 07/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:29 www.reddit.com</li>
+<li class='same'> 20:28 www.reddit.com</li>
+<li class='same'> 20:26 www.reddit.com</li>
+<li class='same'> 20:25 www.reddit.com</li>
+<li> 20:25 <a href="https://www.theguardian.com/news/2025/sep/06/six-great-reads-syrias-reckoning-ices-uncle-sam-memes-and-school-whatsapp-hell">Six great reads: Syria’s reckoning, Ice’s Uncle Sam memes and school WhatsApp hell | | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:10 <a href="https://www.theguardian.com/news/2025/sep/06/six-great-reads-syrias-reckoning-ices-uncle-sam-memes-and-school-whatsapp-hell">Six great reads: Syria’s reckoning, Ice’s Uncle Sam memes and school WhatsApp hell | | The Guardian</a></li>
+<li> 19:08 www.reddit.com</li>
+<li class='same'> 19:07 www.reddit.com</li>
+<li class='same'> 19:06 www.reddit.com</li>
+<li> 19:06 www.google.com</li>
+<li> 19:06 www.reddit.com</li>
+<li> 19:06 www.google.com</li>
+<li> 19:06 www.reddit.com</li>
+<li class='same'> 18:37 www.reddit.com</li>
+<li class='same'> 18:36 www.reddit.com</li>
+<li class='same'> 18:35 www.reddit.com</li>
+<li class='same'> 18:34 www.reddit.com</li>
+<li class='same'> 18:32 www.reddit.com</li>
+<li class='same'> 18:29 www.reddit.com</li>
+<li class='same'> 18:28 www.reddit.com</li>
+<li class='same'> 18:26 www.reddit.com</li>
+<li class='same'> 18:24 www.reddit.com</li>
+<li class='same'> 18:23 www.reddit.com</li>
+<li class='same'> 18:22 www.reddit.com</li>
+<li class='same'> 18:19 www.reddit.com</li>
+<li class='same'> 18:17 www.reddit.com</li>
+<li class='same'> 18:16 www.reddit.com</li>
+<li class='same'> 17:53 www.reddit.com</li>
+<li class='same'> 17:51 www.reddit.com</li>
+<li class='same'> 17:50 www.reddit.com</li>
+<li class='same'> 17:49 www.reddit.com</li>
+<li class='same'> 17:48 www.reddit.com</li>
+<li> 17:46 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:15 www.reddit.com</li>
+<li class='same'> 14:14 www.reddit.com</li>
+<li class='same'> 14:13 www.reddit.com</li>
+<li class='same'> 14:12 www.reddit.com</li>
+<li class='same'> 14:11 www.reddit.com</li>
+<li class='same'> 14:09 www.reddit.com</li>
+<li class='same'> 14:04 www.reddit.com</li>
+<li class='same'> 13:48 www.reddit.com</li>
+<li class='same'> 13:47 www.reddit.com</li>
+<li class='same'> 13:46 www.reddit.com</li>
+<li class='same'> 13:45 www.reddit.com</li>
+<li> 13:44 www.natwest.com</li>
+<li> 13:44 apply.natwest.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:55 apply.natwest.com</li>
+<li class='same'> 12:54 apply.natwest.com</li>
+<li class='same'> 12:53 apply.natwest.com</li>
+<li> 12:50 www.google.com</li>
+<li> 12:49 www.lutoncomiccon.com</li>
+<li> 12:49 www.google.com</li>
+<li> 12:48 www.parkrun.org.uk</li>
+<li class='same'> 12:47 www.parkrun.org.uk</li>
+<li class='same'> 12:46 www.parkrun.org.uk</li>
+<li> 12:42 news.sky.com</li>
+<li> 12:19 www.parkrun.org.uk</li>
+<li> 12:17 www.reddit.com</li>
+<li class='same'> 12:15 www.reddit.com</li>
+<li class='same'> 12:14 www.reddit.com</li>
+<li class='same'> 12:13 www.reddit.com</li>
+<li class='same'> 12:12 www.reddit.com</li>
+<li class='same'> 12:11 www.reddit.com</li>
+<li class='same'> 12:10 www.reddit.com</li>
+<li class='same'> 12:08 www.reddit.com</li>
+<li class='same'> 12:07 www.reddit.com</li>
+<li class='same'> 12:05 www.reddit.com</li>
+<li class='same'> 12:00 www.reddit.com</li>
+<li class='same'> 11:59 www.reddit.com</li>
+<li class='same'> 11:57 www.reddit.com</li>
+<li> 11:50 <a href="https://www.theguardian.com/world/2025/sep/07/pope-leo-xiv-declares-15-year-old-computer-whiz-carlo-acutis-gods-influencer-saint">Carlo Acutis, ‘God’s influencer’ who died aged 15, declared a saint by Pope Leo | Catholicism | The Guardian</a></li>
+<li> 11:39 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:05 duckduckgo.com</li>
+<li> 10:49 github.com</li>
+<li> 10:49 deepwiki.com</li>
+<li> 10:49 duckduckgo.com</li>
+<li> 10:40 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:55 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:49 www.reddit.com</li>
+<li class='same'> 07:35 www.reddit.com</li>
+<li> 07:31 en.m.wikipedia.org</li>
+<li> 07:28 www.reddit.com</li>
+<li class='same'> 07:27 www.reddit.com</li>
+<li> 07:24 <a href="https://www.theguardian.com/uk-news/2025/sep/06/non-smoker-fined-433-dropping-cigarette-butt-manchester">Non-smoker fined £433 for dropping cigarette butt in Manchester | Manchester | The Guardian</a></li>
+<li> 07:23 <a href="https://www.theguardian.com/sport/2025/sep/06/broadcasters-told-not-to-air-any-booing-of-donald-trump-at-us-open-mens-final">Broadcasters told not to air any booing of Donald Trump at US Open men’s final | US Open Tennis 2025 | The Guardian</a></li>
+<li> 07:21 <a href="https://www.youtube.com/shorts/YnR-xDV_SbY">(769) YouTube</a></li>
+</ul>
+
+<br>
+
+<ul><li> 06:49 <a href="https://www.theguardian.com/culture/2025/sep/06/educating-yorkshire-to-honey-dont-the-week-in-rave-reviews">Educating Yorkshire to Honey Don’t!: the week in rave reviews | Culture | The Guardian</a></li>
+<li> 06:48 <a href="https://www.theguardian.com/us-news/2025/sep/06/west-point-cancels-tom-hanks-ceremony">West Point cancels ceremony to honor Tom Hanks as ‘outstanding US citizen’ | US news | The Guardian</a></li>
+<li> 06:47 <a href="https://www.theguardian.com/sport/2025/sep/06/england-australia-womens-rugby-world-cup-match-report">England outlast Australia to book Rugby World Cup quarter-final against Scotland | Women's Rugby World Cup 2025 | The Guardian</a></li>
+</ul>
+
+<H3>Saturday, 06/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:52 <a href="https://www.theguardian.com/sport/2025/sep/06/england-australia-womens-rugby-world-cup-match-report">England outlast Australia to book Rugby World Cup quarter-final against Scotland | Women's Rugby World Cup 2025 | The Guardian</a></li>
+<li> 21:45 www.linkedin.com</li>
+<li> 21:44 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:59 www.google.com</li>
+<li> 19:59 www.reddit.com</li>
+<li> 19:59 www.google.com</li>
+<li> 19:57 www.reddit.com</li>
+<li> 19:56 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:53 www.reddit.com</li>
+<li class='same'> 15:49 www.reddit.com</li>
+<li class='same'> 15:48 www.reddit.com</li>
+<li class='same'> 15:47 www.reddit.com</li>
+<li class='same'> 15:46 www.reddit.com</li>
+<li> 15:46 www.google.com</li>
+<li class='same'> 15:27 www.google.com</li>
+<li> 15:27 www.telegraph.co.uk</li>
+<li> 15:26 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:54 www.google.com</li>
+<li class='same'> 14:52 www.google.com</li>
+<li class='same'> 14:51 www.google.com</li>
+<li class='same'> 14:37 www.google.com</li>
+<li> 14:26 docs.python.org</li>
+<li> 14:26 www.google.com</li>
+<li> 14:07 www.quora.com</li>
+<li> 13:39 www.reddit.com</li>
+<li class='same'> 13:38 www.reddit.com</li>
+<li class='same'> 13:37 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:42 www.reddit.com</li>
+<li class='same'> 12:41 www.reddit.com</li>
+<li class='same'> 12:40 www.reddit.com</li>
+<li class='same'> 12:16 www.reddit.com</li>
+<li class='same'> 12:06 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:38 <a href="https://www.youtube.com/">(769) YouTube</a></li>
+<li> 08:32 www.myabandonware.com</li>
+<li> 08:31 www.google.com</li>
+<li> 08:31 www.google.co.uk</li>
+<li> 08:28 www.mobygames.com</li>
+<li class='same'> 08:21 www.mobygames.com</li>
+<li class='same'> 08:20 www.mobygames.com</li>
+<li class='same'> 08:18 www.mobygames.com</li>
+<li class='same'> 08:12 www.mobygames.com</li>
+<li class='same'> 08:11 www.mobygames.com</li>
+<li class='same'> 08:06 www.mobygames.com</li>
+<li> 08:06 www.google.com</li>
+<li> 08:06 www.apple.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:08 theweek.com</li>
+<li> 07:07 www.etymonline.com</li>
+<li class='same'> 06:57 www.etymonline.com</li>
+<li> 06:57 www.quora.com</li>
+<li> 06:56 www.google.com</li>
+<li> 06:56 en.m.wiktionary.org</li>
+<li class='same'> 06:54 en.m.wiktionary.org</li>
+<li class='same'> 06:53 en.m.wiktionary.org</li>
+<li> 06:52 www.google.com</li>
+</ul>
+
+<H3>Friday, 05/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:58 www.apple.com</li>
+<li> 21:58 wifisparkmedia.co.uk</li>
+<li> 21:39 www.google.com</li>
+<li class='same'> 21:34 www.google.com</li>
+<li> 21:34 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:19 wifisparkmedia.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 16:49 herts.instructure.com</li>
+<li> 16:48 www.sfadb.com</li>
+<li> 16:33 www.reddit.com</li>
+<li class='same'> 16:31 www.reddit.com</li>
+<li class='same'> 16:30 www.reddit.com</li>
+<li> 16:26 outlook.office.com</li>
+<li> 16:13 www.reddit.com</li>
+<li> 16:13 www.giantitp.com</li>
+<li class='same'> 16:12 www.giantitp.com</li>
+<li class='same'> 16:11 www.giantitp.com</li>
+<li> 16:10 outlook.office.com</li>
+<li> 15:46 fast.com</li>
+<li> 15:42 outlook.office.com</li>
+<li> 15:41 outlook.office365.com</li>
+<li> 15:35 forms.office.com</li>
+<li> 15:35 login.microsoftonline.com</li>
+<li> 15:35 forms.office.com</li>
+<li> 15:34 outlook.office365.com</li>
+<li> 15:34 www.microsoft.com</li>
+<li> 15:34 forms.office.com</li>
+<li> 15:32 moodle.royalholloway.ac.uk</li>
+<li> 15:32 login.microsoftonline.com</li>
+<li> 15:32 moodle.royalholloway.ac.uk</li>
+<li> 15:31 outlook.office365.com</li>
+<li> 15:27 www.reddit.com</li>
+<li class='same'> 15:24 www.reddit.com</li>
+<li class='same'> 15:22 www.reddit.com</li>
+<li class='same'> 15:21 www.reddit.com</li>
+<li class='same'> 15:20 www.reddit.com</li>
+<li class='same'> 15:19 www.reddit.com</li>
+<li class='same'> 15:18 www.reddit.com</li>
+<li class='same'> 15:17 www.reddit.com</li>
+<li class='same'> 15:15 www.reddit.com</li>
+<li> 15:14 www.thetimes.com</li>
+<li> 15:13 www.reddit.com</li>
+<li> 14:51 link.springer.com</li>
+<li> 14:51 duckduckgo.com</li>
+<li> 14:45 <a href="https://www.theguardian.com/politics/live/2025/sep/05/angela-rayner-stamp-duty-labour-starmer-reform-nigel-farage-uk-politics-live-news-updates#top-of-blog">Powell and Murray go in reshuffle after Rayner steps down – UK politics live</a></li>
+<li> 14:44 <a href="https://www.theguardian.com/politics/live/2025/sep/05/angela-rayner-stamp-duty-labour-starmer-reform-nigel-farage-uk-politics-live-news-updates">(1) Powell and Murray go in reshuffle after Rayner steps down – UK politics live</a></li>
+<li> 14:43 outlook.office365.com</li>
+<li> 14:29 duckduckgo.com</li>
+<li> 14:28 ev.turnitinuk.com</li>
+<li> 14:28 herts.instructure.com</li>
+<li class='same'> 14:27 herts.instructure.com</li>
+<li class='same'> 14:26 herts.instructure.com</li>
+<li class='same'> 14:22 herts.instructure.com</li>
+<li class='same'> 14:21 herts.instructure.com</li>
+<li> 14:17 data.vision.ee.ethz.ch</li>
+<li> 14:17 duckduckgo.com</li>
+<li> 14:17 herts.instructure.com</li>
+<li> 14:13 outlook.office365.com</li>
+<li> 14:08 chatgpt.com</li>
+<li> 14:07 outlook.office365.com</li>
+<li class='same'> 14:00 outlook.office365.com</li>
+<li> 13:58 outlook.office.com</li>
+<li> 13:52 outlook.office365.com</li>
+<li> 13:52 outlook.office.com</li>
+<li> 13:40 www.reddit.com</li>
+<li class='same'> 13:39 www.reddit.com</li>
+<li class='same'> 13:38 www.reddit.com</li>
+<li> 13:34 rhul-my.sharepoint.com</li>
+<li> 13:34 outlook.office365.com</li>
+<li> 13:30 scholar.google.com</li>
+<li class='same'> 13:27 scholar.google.com</li>
+<li> 13:27 pure.royalholloway.ac.uk</li>
+<li> 13:26 duckduckgo.com</li>
+<li> 13:26 chatgpt.com</li>
+<li> 13:22 rhul-my.sharepoint.com</li>
+<li> 13:22 login.microsoftonline.com</li>
+<li> 13:22 rhul-my.sharepoint.com</li>
+<li> 13:21 login.microsoftonline.com</li>
+<li> 13:21 outlook.office365.com</li>
+<li> 13:21 login.microsoftonline.com</li>
+<li> 13:18 www.reddit.com</li>
+<li class='same'> 13:17 www.reddit.com</li>
+<li> 12:57 www.lancashire.ac.uk</li>
+<li> 12:56 duckduckgo.com</li>
+<li> 12:43 <a href="https://www.theguardian.com/books/2025/sep/05/domination-by-alice-roberts-review-a-brilliant-but-cynical-history-of-christianity">Domination by Alice Roberts review – a brilliant but cynical history of Christianity | History books | The Guardian</a></li>
+<li> 12:42 <a href="https://www.theguardian.com/business/2025/sep/04/simple-solution-to-sainsburys-shoplifting">Simple solution to Sainsbury’s shoplifting | J Sainsbury | The Guardian</a></li>
+<li> 12:41 <a href="https://www.theguardian.com/uk-news/2025/sep/05/duchess-of-kent-dies">Duchess of Kent has died aged 92, says Buckingham Palace | Monarchy | The Guardian</a></li>
+<li> 12:19 outlook.office.com</li>
+<li class='same'> 12:18 outlook.office.com</li>
+<li class='same'> 12:17 outlook.office.com</li>
+<li> 12:14 <a href="https://www.theguardian.com/stage/2025/sep/05/whoopi-goldberg-live-review-hammersmith-apollo-london">Whoopi Goldberg: Live review – like reading a boomer relative’s Facebook | Comedy | The Guardian</a></li>
+<li> 12:14 researchprofiles.herts.ac.uk</li>
+<li class='same'> 12:13 researchprofiles.herts.ac.uk</li>
+<li> 12:13 duckduckgo.com</li>
+<li> 12:12 researchprofiles.herts.ac.uk</li>
+<li class='same'> 12:11 researchprofiles.herts.ac.uk</li>
+<li> 12:11 duckduckgo.com</li>
+<li> 12:11 ieeexplore.ieee.org</li>
+<li> 12:10 scholar.google.com</li>
+<li> 12:09 outlook.office.com</li>
+<li class='same'> 12:08 outlook.office.com</li>
+<li> 12:08 www.reddit.com</li>
+<li> 12:08 m365.cloud.microsoft</li>
+<li> 12:08 scholar.google.co.uk</li>
+<li class='same'> 12:07 scholar.google.co.uk</li>
+<li> 12:07 outlook.office.com</li>
+<li> 12:07 scholar.google.co.uk</li>
+<li> 12:07 duckduckgo.com</li>
+<li> 11:50 outlook.office.com</li>
+<li class='same'> 11:49 outlook.office.com</li>
+<li class='same'> 11:44 outlook.office.com</li>
+<li> 11:39 dashboards.rhul.ac.uk</li>
+<li> 11:36 outlook.office.com</li>
+<li> 11:35 <a href="https://www.theguardian.com/uk-news/2025/sep/05/queen-of-the-con-marianne-mair-smyth-guilty-fraud-northern-ireland">‘Queen of the Con’ convicted of fraud in Northern Ireland with help from true crime podcaster | Northern Ireland | The Guardian</a></li>
+<li> 11:34 outlook.office.com</li>
+<li class='same'> 11:33 outlook.office.com</li>
+<li> 11:17 www.reddit.com</li>
+<li class='same'> 11:14 www.reddit.com</li>
+<li class='same'> 11:11 www.reddit.com</li>
+<li> 11:10 outlook.office.com</li>
+<li class='same'> 11:08 outlook.office.com</li>
+<li class='same'> 11:07 outlook.office.com</li>
+<li> 11:07 m365.cloud.microsoft</li>
+<li> 11:07 login.microsoftonline.com</li>
+<li> 11:06 outlook.office.com</li>
+<li class='same'> 11:05 outlook.office.com</li>
+<li class='same'> 11:04 outlook.office.com</li>
+<li class='same'> 11:03 outlook.office.com</li>
+<li class='same'> 11:01 outlook.office.com</li>
+<li class='same'> 11:00 outlook.office.com</li>
+<li> 10:35 mikesrpgcenter.com</li>
+<li> 10:34 gamefaqs.gamespot.com</li>
+<li> 10:34 duckduckgo.com</li>
+<li> 10:08 www.reddit.com</li>
+<li class='same'> 10:07 www.reddit.com</li>
+<li class='same'> 10:06 www.reddit.com</li>
+<li class='same'> 10:05 www.reddit.com</li>
+<li> 10:04 duckduckgo.com</li>
+<li class='same'> 10:03 duckduckgo.com</li>
+<li> 10:01 herts.instructure.com</li>
+<li class='same'> 10:00 herts.instructure.com</li>
+<li class='same'> 09:59 herts.instructure.com</li>
+<li> 09:59 adfs.herts.ac.uk</li>
+<li> 09:59 api-b6327e78.duosecurity.com</li>
+<li> 09:59 adfs.herts.ac.uk</li>
+<li> 09:59 herts.instructure.com</li>
+<li> 09:58 www.reddit.com</li>
+<li> 09:50 www.linkedin.com</li>
+<li> 09:49 duckduckgo.com</li>
+<li> 09:42 www.windsor-forest.ac.uk</li>
+<li> 09:42 outlook.office.com</li>
+<li> 09:31 www.reddit.com</li>
+<li class='same'> 09:27 www.reddit.com</li>
+<li class='same'> 09:26 www.reddit.com</li>
+<li class='same'> 09:25 www.reddit.com</li>
+<li class='same'> 09:23 www.reddit.com</li>
+<li class='same'> 09:22 www.reddit.com</li>
+<li class='same'> 09:21 www.reddit.com</li>
+<li class='same'> 09:20 www.reddit.com</li>
+<li class='same'> 09:19 www.reddit.com</li>
+<li class='same'> 09:18 www.reddit.com</li>
+<li class='same'> 09:17 www.reddit.com</li>
+<li class='same'> 09:16 www.reddit.com</li>
+<li class='same'> 09:15 www.reddit.com</li>
+<li> 09:06 outlook.office.com</li>
+<li> 09:02 herts365-my.sharepoint.com</li>
+<li class='same'> 09:01 herts365-my.sharepoint.com</li>
+<li class='same'> 09:00 herts365-my.sharepoint.com</li>
+<li> 09:00 login.microsoftonline.com</li>
+<li> 09:00 herts365-my.sharepoint.com</li>
+<li> 09:00 outlook.office.com</li>
+<li class='same'> 08:48 outlook.office.com</li>
+<li class='same'> 08:47 outlook.office.com</li>
+<li class='same'> 08:24 outlook.office.com</li>
+<li class='same'> 08:22 outlook.office.com</li>
+<li class='same'> 08:21 outlook.office.com</li>
+<li class='same'> 08:19 outlook.office.com</li>
+<li class='same'> 08:18 outlook.office.com</li>
+<li class='same'> 08:17 outlook.office.com</li>
+<li> 08:17 m365.cloud.microsoft</li>
+<li> 08:17 login.microsoftonline.com</li>
+<li> 08:14 <a href="https://www.theguardian.com/fashion/gallery/2025/sep/04/giorgio-armani-a-life-in-pictures">Giorgio Armani – a life in pictures | Fashion | The Guardian</a></li>
+<li> 08:11 <a href="https://en.wikipedia.org/wiki/Hippogriff">Hippogriff - Wikipedia</a></li>
+<li> 08:11 duckduckgo.com</li>
+<li> 08:11 harrypotter.fandom.com</li>
+<li class='same'> 08:08 harrypotter.fandom.com</li>
+<li> 08:08 duckduckgo.com</li>
+<li> 08:07 www.niftyword.com</li>
+<li> 08:07 duckduckgo.com</li>
+<li> 07:56 www.reddit.com</li>
+<li class='same'> 07:55 www.reddit.com</li>
+<li> 07:52 <a href="https://en.wikipedia.org/wiki/Dementia">Dementia - Wikipedia</a></li>
+<li> 07:50 <a href="https://en.wikipedia.org/wiki/Hippocampus">Hippocampus - Wikipedia</a></li>
+<li> 07:50 duckduckgo.com</li>
+<li> 07:49 www.etymonline.com</li>
+<li> 07:48 duckduckgo.com</li>
+<li class='same'> 07:47 duckduckgo.com</li>
+<li> 07:45 www.facebook.com</li>
+<li> 07:44 www.reddit.com</li>
+<li class='same'> 07:40 www.reddit.com</li>
+<li class='same'> 07:38 www.reddit.com</li>
+<li> 07:17 chatgpt.com</li>
+<li> 07:15 www.reddit.com</li>
+<li class='same'> 07:12 www.reddit.com</li>
+<li> 07:06 www.linkedin.com</li>
+<li class='same'> 07:05 www.linkedin.com</li>
+<li> 07:05 <a href="https://www.theguardian.com/culture/2025/sep/04/mussolini-to-spider-man-lily-tomlins-10-best-films-ranked">Mussolini to Spider-Man: Lily Tomlin’s 10 best films – ranked! | Film | The Guardian</a></li>
+<li class='same'> 07:02 <a href="https://www.theguardian.com/culture/2025/sep/04/mussolini-to-spider-man-lily-tomlins-10-best-films-ranked">Mussolini to Spider-Man: Lily Tomlin’s 10 best films – ranked! | Film | The Guardian</a></li>
+<li> 07:02 <a href="https://www.theguardian.com/culture/2025/sep/04/mussolini-to-spider-man-lily-tomlins-10-best-films-ranked#img-3">Mussolini to Spider-Man: Lily Tomlin’s 10 best films – ranked! | Film | The Guardian</a></li>
+<li> 07:01 <a href="https://www.theguardian.com/culture/2025/sep/04/mussolini-to-spider-man-lily-tomlins-10-best-films-ranked">Mussolini to Spider-Man: Lily Tomlin’s 10 best films – ranked! | Film | The Guardian</a></li>
+<li> 06:55 <a href="https://www.theguardian.com/film/2025/sep/05/spinal-tap-exclusive-interview-return">‘Our songs last three minutes but they feel like an hour’: the return of Spinal Tap – an exclusive that goes up to 11! | Film | The Guardian</a></li>
+</ul>
+
+<H3>Thursday, 04/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 23:42 <a href="https://www.theguardian.com/uk-news/2025/sep/04/nhs-surgeon-legs-removed-jailed-fraud">NHS surgeon who had his legs removed to satisfy sexual interest is jailed for fraud | Crime | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 22:14 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:01 <a href="https://www.theguardian.com/uk-news/2025/sep/04/nhs-surgeon-legs-removed-jailed-fraud">NHS surgeon who had his legs removed to satisfy sexual interest is jailed for fraud | Crime | The Guardian</a></li>
+<li> 19:42 <a href="https://www.theguardian.com/world/2025/sep/04/who-is-isaac-herzog-named-in-icj-ruling-for-incendiary-comments-fuelling-israel-gaza-war">Isaac Herzog: Israeli president named in ICJ order who is due to visit UK | Israel | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 17:33 <a href="https://en.wikipedia.org/wiki/Weimar_Republic">Weimar Republic - Wikipedia</a></li>
+<li> 17:33 <a href="https://en.wikipedia.org/wiki/G%C3%BCnter_Hartmann#">Günter Hartmann - Wikipedia</a></li>
+<li> 17:33 <a href="https://en.wikipedia.org/wiki/G%C3%BCnter_Hartmann?wprov=sfti1#">Günter Hartmann - Wikipedia</a></li>
+<li> 17:33 www.reddit.com</li>
+<li class='same'> 17:32 www.reddit.com</li>
+<li> 17:31 chatgpt.com</li>
+<li> 17:28 outlook.office.com</li>
+<li> 17:25 calendar.google.com</li>
+<li> 17:25 outlook.office.com</li>
+<li class='same'> 17:24 outlook.office.com</li>
+<li class='same'> 17:23 outlook.office.com</li>
+<li> 17:22 <a href="https://www.theguardian.com/uk-news/2025/sep/04/nhs-surgeon-legs-removed-jailed-fraud">NHS surgeon who had his legs removed to satisfy sexual interest is jailed for fraud | Crime | The Guardian</a></li>
+<li> 17:17 outlook.office.com</li>
+<li> 17:16 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:30 www.reddit.com</li>
+<li> 16:30 duckduckgo.com</li>
+<li> 16:25 www.reddit.com</li>
+<li> 16:25 outlook.office.com</li>
+<li class='same'> 16:24 outlook.office.com</li>
+<li class='same'> 16:23 outlook.office.com</li>
+<li class='same'> 16:21 outlook.office.com</li>
+<li> 16:18 www.reddit.com</li>
+<li class='same'> 16:17 www.reddit.com</li>
+<li class='same'> 16:16 www.reddit.com</li>
+<li class='same'> 16:15 www.reddit.com</li>
+<li class='same'> 16:12 www.reddit.com</li>
+<li class='same'> 16:11 www.reddit.com</li>
+<li class='same'> 16:08 www.reddit.com</li>
+<li> 16:07 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:03 <a href="https://www.theguardian.com/technology/2025/sep/04/head-of-alan-turing-institute-jean-innes-resigns">Head of UK’s beleaguered Alan Turing Institute resigns | Artificial intelligence (AI) | The Guardian</a></li>
+<li> 15:03 duckduckgo.com</li>
+<li> 15:02 outlook.office.com</li>
+<li> 15:02 duckduckgo.com</li>
+<li> 15:02 outlook.office.com</li>
+<li class='same'> 15:01 outlook.office.com</li>
+<li> 14:58 chatgpt.com</li>
+<li> 14:55 outlook.office.com</li>
+<li class='same'> 14:54 outlook.office.com</li>
+<li> 14:54 chatgpt.com</li>
+<li> 14:54 outlook.office.com</li>
+<li class='same'> 14:53 outlook.office.com</li>
+<li class='same'> 14:52 outlook.office.com</li>
+<li class='same'> 14:51 outlook.office.com</li>
+<li> 14:51 m365.cloud.microsoft</li>
+<li> 14:51 login.microsoftonline.com</li>
+<li> 14:49 outlook.office.com</li>
+<li class='same'> 14:48 outlook.office.com</li>
+<li class='same'> 14:46 outlook.office.com</li>
+<li> 14:46 herts.instructure.com</li>
+<li class='same'> 14:45 herts.instructure.com</li>
+<li> 14:45 adfs.herts.ac.uk</li>
+<li> 14:44 api-b6327e78.duosecurity.com</li>
+<li> 14:44 adfs.herts.ac.uk</li>
+<li> 14:43 outlook.office.com</li>
+<li> 14:41 www.peterkang.com</li>
+<li> 14:41 duckduckgo.com</li>
+<li> 14:41 outlook.office.com</li>
+<li class='same'> 14:40 outlook.office.com</li>
+<li class='same'> 14:37 outlook.office.com</li>
+<li class='same'> 14:36 outlook.office.com</li>
+<li class='same'> 14:35 outlook.office.com</li>
+<li class='same'> 14:34 outlook.office.com</li>
+<li> 14:34 m365.cloud.microsoft</li>
+<li> 14:34 login.microsoftonline.com</li>
+<li> 14:34 www.linkedin.com</li>
+<li> 14:32 outlook.office.com</li>
+<li> 14:30 calendar.google.com</li>
+<li class='same'> 14:29 calendar.google.com</li>
+<li> 14:26 outlook.office.com</li>
+<li class='same'> 14:25 outlook.office.com</li>
+<li> 14:25 www.google.com</li>
+<li class='same'> 14:24 www.google.com</li>
+<li class='same'> 14:23 www.google.com</li>
+<li class='same'> 14:22 www.google.com</li>
+<li class='same'> 14:21 www.google.com</li>
+<li class='same'> 14:20 www.google.com</li>
+<li class='same'> 14:19 www.google.com</li>
+<li class='same'> 14:18 www.google.com</li>
+<li class='same'> 14:17 www.google.com</li>
+<li class='same'> 14:16 www.google.com</li>
+<li> 14:15 duckduckgo.com</li>
+<li class='same'> 14:14 duckduckgo.com</li>
+<li> 14:14 www.wwl.nhs.uk</li>
+<li> 14:14 duckduckgo.com</li>
+<li class='same'> 14:13 duckduckgo.com</li>
+<li class='same'> 14:12 duckduckgo.com</li>
+<li> 14:10 outlook.office.com</li>
+<li> 14:10 m365.cloud.microsoft</li>
+<li> 14:10 login.microsoftonline.com</li>
+<li> 14:09 news.mypd.co.uk</li>
+<li> 14:08 outlook.office365.com</li>
+<li> 14:08 login.microsoftonline.com</li>
+<li> 14:08 intranet.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 13:20 www.linkedin.com</li>
+<li class='same'> 13:19 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:04 <a href="https://www.theguardian.com/politics/2025/sep/04/pyrotechnics-big-business-jacob-rees-mogg-michael-gove-nigel-farage-reform-uk-conference">Rees-Mogg, Gove and pyrotechnics: what to expect from Reform party conference | Reform UK | The Guardian</a></li>
+<li> 09:03 <a href="https://www.theguardian.com/world/2025/sep/04/israeli-military-database-indicates-only-a-quarter-of-gaza-detainees-are-fighters">Israeli military database indicates only a quarter of Gaza detainees are fighters | Israel-Gaza war | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 07:20 <a href="https://www.theguardian.com/society/2025/sep/04/marthas-rule-now-in-operation-at-every-acute-hospital-in-england">Martha’s rule now in operation at every acute hospital in England | Hospitals | The Guardian</a></li>
+<li> 07:02 <a href="https://www.theguardian.com/food/2025/sep/03/sweeteners-can-harm-cognitive-health-equivalent-to-16-years-of-ageing-study-finds">Sweeteners can harm cognitive health equivalent to 1.6 years of ageing, study finds | Food | The Guardian</a></li>
+<li> 06:51 www.reddit.com</li>
+<li> 06:51 iknowwhatyoudownload.com</li>
+<li class='same'> 06:50 iknowwhatyoudownload.com</li>
+<li> 06:50 www.reddit.com</li>
+<li class='same'> 06:49 www.reddit.com</li>
+<li class='same'> 06:48 www.reddit.com</li>
+<li> 06:47 digital.ucas.com</li>
+<li> 06:47 www.google.com</li>
+<li> 06:47 digital.ucas.com</li>
+<li> 06:47 www.google.com</li>
+<li> 06:47 www.beds.ac.uk</li>
+<li> 06:46 www.google.com</li>
+<li> 06:45 qmucu.org</li>
+<li> 06:45 www.google.com</li>
+<li> 06:45 www.reddit.com</li>
+<li class='same'> 06:43 www.reddit.com</li>
+<li> 06:30 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/03/david-mitchell-robert-webb-interview-tv-sketch-show-comeback">‘You’re finally dressing your age, David!’ Mitchell and Webb on age, arguments and their big comeback | TV comedy | The Guardian</a></li>
+<li> 06:27 <a href="https://www.theguardian.com/australia-news/2025/sep/04/grandfather-mistakenly-takes-home-wrong-child-from-sydney-daycare-centre">Grandfather mistakenly takes home wrong child from Sydney daycare centre | Childcare Australia | The Guardian</a></li>
+<li> 06:24 www.dazeddigital.com</li>
+</ul>
+
+<H3>Wednesday, 03/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:18 www.reddit.com</li>
+<li class='same'> 20:17 www.reddit.com</li>
+<li class='same'> 20:16 www.reddit.com</li>
+<li class='same'> 20:15 www.reddit.com</li>
+<li class='same'> 20:13 www.reddit.com</li>
+<li class='same'> 20:12 www.reddit.com</li>
+<li class='same'> 20:11 www.reddit.com</li>
+<li> 20:10 www.google.com</li>
+<li> 20:10 accounts.google.com</li>
+<li> 20:10 www.google.com</li>
+<li> 19:46 tvtropes.org</li>
+<li class='same'> 19:43 tvtropes.org</li>
+<li class='same'> 19:42 tvtropes.org</li>
+<li class='same'> 19:41 tvtropes.org</li>
+<li> 19:41 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:39 <a href="https://www.theguardian.com/society/2025/sep/02/father-ted-creator-graham-linehan-arrested-over-posts-on-transgender-issues">Father Ted creator Graham Linehan arrested over posts on transgender issues | UK news | The Guardian</a></li>
+<li> 17:10 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:46 dashboards.rhul.ac.uk</li>
+<li> 13:45 forms.office.com</li>
+<li> 13:45 login.microsoftonline.com</li>
+<li> 13:45 forms.office.com</li>
+<li> 13:45 login.microsoftonline.com</li>
+<li> 13:45 forms.office.com</li>
+<li> 13:44 outlook.office.com</li>
+<li class='same'> 13:43 outlook.office.com</li>
+<li> 13:43 m365.cloud.microsoft</li>
+<li> 13:43 outlook.office365.com</li>
+<li> 13:43 calendar.google.com</li>
+<li class='same'> 13:42 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:06 rhul.sharepoint.com</li>
+<li> 13:06 login.microsoftonline.com</li>
+<li> 13:06 rhul.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:52 outlook.office365.com</li>
+<li class='same'> 11:50 outlook.office365.com</li>
+<li> 11:50 outlook.office.com</li>
+<li class='same'> 11:48 outlook.office.com</li>
+<li> 11:41 herts.instructure.com</li>
+<li class='same'> 11:40 herts.instructure.com</li>
+<li> 11:40 adfs.herts.ac.uk</li>
+<li> 11:39 api-b6327e78.duosecurity.com</li>
+<li> 11:39 adfs.herts.ac.uk</li>
+<li> 11:33 outlook.office.com</li>
+<li class='same'> 11:31 outlook.office.com</li>
+<li> 11:31 m365.cloud.microsoft</li>
+<li> 11:31 login.microsoftonline.com</li>
+<li> 11:31 m365.cloud.microsoft</li>
+<li class='same'> 11:30 m365.cloud.microsoft</li>
+<li> 11:30 login.microsoftonline.com</li>
+<li> 11:29 www.linkedin.com</li>
+<li> 11:28 mail.google.com</li>
+<li> 11:28 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:54 <a href="https://www.theguardian.com/society/2025/sep/02/father-ted-creator-graham-linehan-arrested-over-posts-on-transgender-issues">Father Ted creator Graham Linehan arrested over posts on transgender issues | UK news | The Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/money/2025/sep/03/meet-the-revenge-quitters-why-people-are-ditching-their-jobs-and-refusing-to-go-quietly">Meet the revenge quitters: why people are ditching their jobs - and refusing to go quietly | Work & careers | The Guardian</a></li>
+<li> 07:49 m.youtube.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:13 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:43 www.linkedin.com</li>
+<li> 06:39 chatgpt.com</li>
+<li> 06:39 rhul.sharepoint.com</li>
+<li class='same'> 06:38 rhul.sharepoint.com</li>
+<li> 06:38 intranet.royalholloway.ac.uk</li>
+<li> 06:38 outlook.office365.com</li>
+<li class='same'> 06:34 outlook.office365.com</li>
+<li class='same'> 06:33 outlook.office365.com</li>
+<li> 06:33 login.microsoftonline.com</li>
+<li> 06:32 intranet.royalholloway.ac.uk</li>
+<li> 06:32 duckduckgo.com</li>
+<li class='same'> 06:31 duckduckgo.com</li>
+<li> 06:29 <a href="https://www.theguardian.com/commentisfree/2025/sep/03/balearic-islands-sun-sex-alcohol-tourist-industry-europe">Sun, sex, but no sangria? The Balearics’ booze crackdown might just save their tourist industry | Dimah Ajeeb | The Guardian</a></li>
+<li> 06:25 m.youtube.com</li>
+<li class='same'> 06:24 m.youtube.com</li>
+<li> 06:23 www.reddit.com</li>
+<li class='same'> 06:21 www.reddit.com</li>
+<li class='same'> 06:20 www.reddit.com</li>
+<li class='same'> 06:18 www.reddit.com</li>
+</ul>
+
+<H3>Tuesday, 02/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 23:26 www.reddit.com</li>
+<li class='same'> 23:25 www.reddit.com</li>
+<li class='same'> 23:18 www.reddit.com</li>
+<li class='same'> 23:16 www.reddit.com</li>
+<li class='same'> 23:15 www.reddit.com</li>
+<li class='same'> 23:14 www.reddit.com</li>
+<li class='same'> 23:13 www.reddit.com</li>
+<li class='same'> 23:12 www.reddit.com</li>
+<li class='same'> 23:11 www.reddit.com</li>
+<li class='same'> 23:10 www.reddit.com</li>
+<li class='same'> 23:09 www.reddit.com</li>
+<li class='same'> 23:08 www.reddit.com</li>
+<li class='same'> 23:07 www.reddit.com</li>
+<li class='same'> 23:05 www.reddit.com</li>
+<li class='same'> 23:04 www.reddit.com</li>
+<li class='same'> 23:03 www.reddit.com</li>
+<li> 23:03 www.sibs.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 22:17 www.sibs.org.uk</li>
+<li class='same'> 22:16 www.sibs.org.uk</li>
+<li class='same'> 22:13 www.sibs.org.uk</li>
+<li> 22:13 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:55 segaretro.org</li>
+<li> 18:55 www.google.com</li>
+<li class='same'> 18:54 www.google.com</li>
+<li> 18:54 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:51 <a href="https://www.theguardian.com/politics/live/2025/sep/02/cooper-reeves-starmer-green-party-leader-badenoch-devolution-latest-updates">‘Put them up anywhere’: Cooper backs St George’s flags as No 10 says asylum seekers could be housed in industrial buildings – UK politics live</a></li>
+<li> 16:51 <a href="https://www.theguardian.com/money/2025/sep/02/southport-house-for-sale-ball-pit">‘It was a present to myself’: Southport house for sale with ball pit off bedroom | Property | The Guardian</a></li>
+<li class='same'> 16:50 <a href="https://www.theguardian.com/money/2025/sep/02/southport-house-for-sale-ball-pit">‘It was a present to myself’: Southport house for sale with ball pit off bedroom | Property | The Guardian</a></li>
+<li> 16:49 github.com</li>
+<li> 16:33 outlook.office.com</li>
+<li> 16:28 www.royalholloway.ac.uk</li>
+<li> 16:28 duckduckgo.com</li>
+<li> 16:26 outlook.office365.com</li>
+<li> 16:26 login.microsoftonline.com</li>
+<li> 16:26 outlook.office365.com</li>
+<li> 16:25 calendar.google.com</li>
+<li> 16:24 outlook.office.com</li>
+<li class='same'> 16:06 outlook.office.com</li>
+<li class='same'> 16:05 outlook.office.com</li>
+<li> 16:05 m365.cloud.microsoft</li>
+<li> 16:05 login.microsoftonline.com</li>
+<li> 16:05 outlook.office365.com</li>
+<li> 15:55 <a href="https://en.wikipedia.org/wiki/Randy_Travis">Randy Travis - Wikipedia</a></li>
+<li> 15:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:41 outlook.office365.com</li>
+<li> 15:39 www.orangepippin.com</li>
+<li> 15:39 outlook.office365.com</li>
+<li> 15:33 outlook.office.com</li>
+<li> 15:32 www.linkedin.com</li>
+<li> 15:03 outlook.office.com</li>
+<li> 15:03 m365.cloud.microsoft</li>
+<li> 15:02 login.microsoftonline.com</li>
+<li> 14:46 outlook.office.com</li>
+<li> 14:31 calendar.google.com</li>
+<li class='same'> 14:28 calendar.google.com</li>
+<li> 14:28 outlook.office.com</li>
+<li class='same'> 14:18 outlook.office.com</li>
+<li> 14:11 m365.cloud.microsoft</li>
+<li> 14:11 login.microsoftonline.com</li>
+<li> 14:02 herts.instructure.com</li>
+<li class='same'> 14:01 herts.instructure.com</li>
+<li> 13:33 duckduckgo.com</li>
+<li> 13:31 outlook.office365.com</li>
+<li> 13:14 <a href="https://en.wikipedia.org/wiki/Great_Fire_of_London">Great Fire of London - Wikipedia</a></li>
+<li> 13:14 <a href="https://en.wikipedia.org/wiki/2025_Afghanistan_earthquake">2025 Afghanistan earthquake - Wikipedia</a></li>
+<li> 13:12 <a href="https://en.wikipedia.org/wiki/Randy_Travis">Randy Travis - Wikipedia</a></li>
+<li> 13:12 <a href="https://en.wikipedia.org/wiki/Taylor_Swift_(album)">Taylor Swift (album) - Wikipedia</a></li>
+<li> 13:12 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:10 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:24 outlook.office365.com</li>
+<li class='same'> 12:09 outlook.office365.com</li>
+<li> 12:00 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:56 intranet.royalholloway.ac.uk</li>
+<li> 11:56 duckduckgo.com</li>
+<li> 11:50 www.tightrope.co.uk</li>
+<li> 11:50 www.projectreal.co.uk</li>
+<li> 11:47 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 11:40 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:39 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:38 moodle.royalholloway.ac.uk</li>
+<li> 11:38 login.microsoftonline.com</li>
+<li> 11:38 moodle.royalholloway.ac.uk</li>
+<li> 11:31 intranet.royalholloway.ac.uk</li>
+<li> 11:31 outlook.office365.com</li>
+<li> 11:31 www.jobs.ac.uk</li>
+<li> 11:30 duckduckgo.com</li>
+<li> 11:30 github.com</li>
+<li> 11:30 duckduckgo.com</li>
+<li> 11:30 herts.instructure.com</li>
+<li> 11:30 studynet.herts.ac.uk</li>
+<li> 11:30 login.microsoftonline.com</li>
+<li> 11:30 www.studynet.herts.ac.uk</li>
+<li> 11:30 studynet.herts.ac.uk</li>
+<li> 11:29 duckduckgo.com</li>
+<li> 11:29 herts.onthehub.com</li>
+<li> 11:28 www.herts.ac.uk</li>
+<li> 11:28 duckduckgo.com</li>
+<li> 11:25 outlook.office365.com</li>
+<li> 11:18 t1b.gobright.cloud</li>
+<li class='same'> 11:17 t1b.gobright.cloud</li>
+<li> 11:17 eu-west.azureauth.duosecurity.com</li>
+<li> 11:17 api-b6327e78.duosecurity.com</li>
+<li> 11:17 login.microsoftonline.com</li>
+<li> 11:17 t1b.gobright.cloud</li>
+<li> 11:17 portal.gobright.cloud</li>
+<li> 11:17 login.microsoftonline.com</li>
+<li> 11:17 portal.gobright.cloud</li>
+<li> 11:17 t1b.gobright.cloud</li>
+<li> 11:17 portal.gobright.cloud</li>
+<li> 11:14 outlook.office.com</li>
+<li class='same'> 11:12 outlook.office.com</li>
+<li> 11:11 calendar.google.com</li>
+<li class='same'> 11:09 calendar.google.com</li>
+<li class='same'> 11:08 calendar.google.com</li>
+<li> 11:06 outlook.office.com</li>
+<li class='same'> 11:03 outlook.office.com</li>
+<li> 11:03 login.microsoftonline.com</li>
+<li> 11:01 calendar.google.com</li>
+<li> 10:59 outlook.office.com</li>
+<li class='same'> 10:57 outlook.office.com</li>
+<li class='same'> 10:35 outlook.office.com</li>
+<li class='same'> 10:32 outlook.office.com</li>
+<li class='same'> 10:31 outlook.office.com</li>
+<li> 10:31 m365.cloud.microsoft</li>
+<li> 10:31 login.microsoftonline.com</li>
+<li> 10:30 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:56 login.microsoftonline.com</li>
+<li> 09:54 www.linkedin.com</li>
+<li> 09:52 jobs.royalholloway.ac.uk</li>
+<li class='same'> 09:51 jobs.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 08:27 www.reddit.com</li>
+<li class='same'> 08:25 www.reddit.com</li>
+<li> 08:25 herts365-my.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:25 github.com</li>
+<li> 07:23 tvtropes.org</li>
+<li class='same'> 07:19 tvtropes.org</li>
+<li> 06:50 www.reddit.com</li>
+<li class='same'> 06:48 www.reddit.com</li>
+<li class='same'> 06:46 www.reddit.com</li>
+<li class='same'> 06:44 www.reddit.com</li>
+<li class='same'> 06:43 www.reddit.com</li>
+<li class='same'> 06:42 www.reddit.com</li>
+<li> 06:39 herts365-my.sharepoint.com</li>
+<li> 06:39 herts.instructure.com</li>
+<li> 06:39 login.microsoftonline.com</li>
+<li> 06:35 <a href="https://www.theguardian.com/food/2025/sep/02/plant-based-problem-why-vegan-restaurants-closing-or-adding-meat-menu">The plant-based problem: why vegan restaurants are closing – or adding meat to the menu | Vegan food and drink | The Guardian</a></li>
+</ul>
+
+<H3>Monday, 01/09/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:37 www.herts.ac.uk</li>
+<li> 17:36 duckduckgo.com</li>
+<li> 17:28 fritz.box</li>
+<li class='same'> 17:27 fritz.box</li>
+<li> 17:26 herts365-my.sharepoint.com</li>
+<li> 17:26 <a href="https://xkcd.com/3004/">xkcd: Wells</a></li>
+<li> 17:25 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
+<li> 17:20 fritz.box</li>
+<li> 17:12 herts365-my.sharepoint.com</li>
+<li class='same'> 17:11 herts365-my.sharepoint.com</li>
+<li class='same'> 17:09 herts365-my.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:35 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:43 www.linkedin.com</li>
+<li> 15:39 www.reddit.com</li>
+<li class='same'> 15:38 www.reddit.com</li>
+<li class='same'> 15:37 www.reddit.com</li>
+<li class='same'> 15:36 www.reddit.com</li>
+<li class='same'> 15:35 www.reddit.com</li>
+<li class='same'> 15:34 www.reddit.com</li>
+<li> 15:34 find-and-update.company-information.service.gov.uk</li>
+<li> 15:34 duckduckgo.com</li>
+<li> 15:33 bisc.ma</li>
+<li> 15:32 chatgpt.com</li>
+<li> 15:28 find-and-update.company-information.service.gov.uk</li>
+<li> 15:28 duckduckgo.com</li>
+<li class='same'> 15:27 duckduckgo.com</li>
+<li> 15:27 www.linkedin.com</li>
+<li> 15:27 uk.linkedin.com</li>
+<li> 15:27 duckduckgo.com</li>
+<li> 15:26 outlook.office365.com</li>
+<li> 15:25 rhul-my.sharepoint.com</li>
+<li class='same'> 15:24 rhul-my.sharepoint.com</li>
+<li> 15:24 moodle.royalholloway.ac.uk</li>
+<li> 15:23 adblockplus.org</li>
+<li> 15:23 moodle.royalholloway.ac.uk</li>
+<li> 15:23 login.microsoftonline.com</li>
+<li> 15:23 moodle.royalholloway.ac.uk</li>
+<li> 15:21 outlook.office365.com</li>
+<li> 15:12 mail.google.com</li>
+<li> 15:08 outlook.office365.com</li>
+<li> 15:07 docs.google.com</li>
+<li> 15:07 outlook.office365.com</li>
+<li> 15:04 doodle.com</li>
+<li> 15:04 calendar.google.com</li>
+<li class='same'> 15:03 calendar.google.com</li>
+<li> 15:02 outlook.office365.com</li>
+<li class='same'> 15:00 outlook.office365.com</li>
+<li> 14:56 doodle.com</li>
+<li class='same'> 14:55 doodle.com</li>
+<li> 14:55 calendar.google.com</li>
+<li class='same'> 14:54 calendar.google.com</li>
+<li> 14:53 doodle.com</li>
+<li> 14:53 outlook.office365.com</li>
+<li class='same'> 14:52 outlook.office365.com</li>
+<li class='same'> 14:39 outlook.office365.com</li>
+<li> 14:39 mail.google.com</li>
+<li> 14:39 rhul-my.sharepoint.com</li>
+<li class='same'> 14:38 rhul-my.sharepoint.com</li>
+<li class='same'> 14:37 rhul-my.sharepoint.com</li>
+<li> 14:37 rhul.sharepoint.com</li>
+<li class='same'> 14:36 rhul.sharepoint.com</li>
+<li> 14:36 rhul-my.sharepoint.com</li>
+<li class='same'> 14:35 rhul-my.sharepoint.com</li>
+<li> 14:34 outlook.office365.com</li>
+<li> 14:32 rhul-my.sharepoint.com</li>
+<li class='same'> 14:31 rhul-my.sharepoint.com</li>
+<li> 14:30 rhul.sharepoint.com</li>
+<li> 14:30 login.microsoftonline.com</li>
+<li> 14:30 rhul.sharepoint.com</li>
+<li> 14:30 rhul-my.sharepoint.com</li>
+<li> 14:29 www.royalholloway.ac.uk</li>
+<li class='same'> 14:28 www.royalholloway.ac.uk</li>
+<li class='same'> 14:27 www.royalholloway.ac.uk</li>
+<li> 14:27 outlook.office365.com</li>
+<li> 14:27 rhul-my.sharepoint.com</li>
+<li class='same'> 14:26 rhul-my.sharepoint.com</li>
+<li> 14:26 outlook.office365.com</li>
+<li> 14:24 rhul-my.sharepoint.com</li>
+<li> 14:24 login.microsoftonline.com</li>
+<li> 14:24 rhul-my.sharepoint.com</li>
+<li> 14:24 login.microsoftonline.com</li>
+<li> 14:22 outlook.office365.com</li>
+<li> 14:22 www.reddit.com</li>
+<li class='same'> 14:21 www.reddit.com</li>
+<li> 14:21 www.amazon.co.uk</li>
+<li> 14:10 tvtropes.org</li>
+<li> 14:10 www.google.com</li>
+<li> 14:08 www.amazon.co.uk</li>
+<li class='same'> 14:07 www.amazon.co.uk</li>
+<li> 14:07 www.google.com</li>
+<li> 14:07 www.activeluton.co.uk</li>
+<li> 14:05 www.amazon.co.uk</li>
+<li class='same'> 14:04 www.amazon.co.uk</li>
+<li> 14:03 outlook.office365.com</li>
+<li> 14:02 www.amazon.co.uk</li>
+<li> 14:02 www.reddit.com</li>
+<li> 14:02 duckduckgo.com</li>
+<li> 14:02 www.ebay.co.uk</li>
+<li> 14:01 chatgpt.com</li>
+<li> 14:00 calendar.google.com</li>
+<li> 13:58 www.ebay.co.uk</li>
+<li class='same'> 13:57 www.ebay.co.uk</li>
+<li> 13:54 www.evocycles.co.uk</li>
+<li> 13:54 outlook.office365.com</li>
+<li> 13:53 www.ebay.co.uk</li>
+<li class='same'> 13:52 www.ebay.co.uk</li>
+<li> 13:52 www.amazon.co.uk</li>
+<li> 13:51 static.competitivecyclist.com</li>
+<li> 13:51 duckduckgo.com</li>
+<li> 13:51 www.evocycles.co.uk</li>
+<li class='same'> 13:50 www.evocycles.co.uk</li>
+<li> 13:50 www.ribblecycles.co.uk</li>
+<li> 13:49 www.reddit.com</li>
+<li> 13:47 duckduckgo.com</li>
+<li> 13:47 www.ebay.co.uk</li>
+<li class='same'> 13:46 www.ebay.co.uk</li>
+<li> 13:46 www.amazon.co.uk</li>
+<li> 13:46 www.ebay.co.uk</li>
+<li class='same'> 13:45 www.ebay.co.uk</li>
+<li> 13:45 mail.google.com</li>
+<li class='same'> 13:44 mail.google.com</li>
+<li> 13:44 www.amazon.co.uk</li>
+<li> 13:44 mail.google.com</li>
+<li class='same'> 13:43 mail.google.com</li>
+<li> 13:43 gmail.com</li>
+<li> 13:43 www.amazon.co.uk</li>
+<li> 13:41 discord.com</li>
+<li> 13:41 login.microsoftonline.com</li>
+<li> 13:41 forms.office.com</li>
+<li> 13:40 www.microsoft.com</li>
+<li> 13:40 outlook.office365.com</li>
+<li> 13:40 forms.office.com</li>
+<li> 13:40 login.microsoftonline.com</li>
+<li> 13:40 docs.google.com</li>
+<li> 13:39 calendar.google.com</li>
+<li> 13:39 mail.google.com</li>
+<li class='same'> 13:34 mail.google.com</li>
+<li> 13:34 calendar.google.com</li>
+<li class='same'> 13:33 calendar.google.com</li>
+<li> 13:33 mail.google.com</li>
+<li> 13:33 calendar.google.com</li>
+<li> 13:23 mail.google.com</li>
+<li> 13:22 calendar.google.com</li>
+<li> 13:22 mail.google.com</li>
+<li> 13:22 ewf.companieshouse.gov.uk</li>
+<li class='same'> 13:21 ewf.companieshouse.gov.uk</li>
+<li> 13:15 www.facebook.com</li>
+<li> 13:14 mail.google.com</li>
+<li> 13:11 find-and-update.company-information.service.gov.uk</li>
+<li> 13:11 duckduckgo.com</li>
+<li class='same'> 13:10 duckduckgo.com</li>
+<li> 13:10 ewf.companieshouse.gov.uk</li>
+<li class='same'> 13:09 ewf.companieshouse.gov.uk</li>
+<li> 13:09 find-and-update.company-information.service.gov.uk</li>
+<li> 13:09 duckduckgo.com</li>
+<li> 13:07 docs.google.com</li>
+<li> 13:07 drive.google.com</li>
+<li> 13:05 mail.google.com</li>
+<li class='same'> 13:04 mail.google.com</li>
+<li> 13:04 ewf.companieshouse.gov.uk</li>
+<li class='same'> 13:03 ewf.companieshouse.gov.uk</li>
+<li> 13:03 docs.google.com</li>
+<li> 13:03 drive.google.com</li>
+<li> 13:01 mail.google.com</li>
+<li> 13:01 accounts.google.com</li>
+<li> 13:01 gmail.com</li>
+<li> 13:00 drive.google.com</li>
+<li> 13:00 ewf.companieshouse.gov.uk</li>
+<li class='same'> 12:59 ewf.companieshouse.gov.uk</li>
+<li> 12:59 idam-ui.company-information.service.gov.uk</li>
+<li> 12:58 mail.google.com</li>
+<li class='same'> 12:57 mail.google.com</li>
+<li> 12:56 ewf.companieshouse.gov.uk</li>
+<li class='same'> 12:55 ewf.companieshouse.gov.uk</li>
+<li> 12:54 equalitytime.co.uk</li>
+<li> 12:54 equalitytime.github.io</li>
+<li> 12:54 idam-ui.company-information.service.gov.uk</li>
+<li> 12:54 mail.google.com</li>
+<li> 12:54 idam-ui.company-information.service.gov.uk</li>
+<li> 12:53 www.gov.uk</li>
+<li> 12:50 gmail.com</li>
+<li> 12:49 docs.google.com</li>
+<li> 12:49 drive.google.com</li>
+<li> 12:47 mail.google.com</li>
+<li> 12:41 ce0997li.webitrent.com</li>
+<li class='same'> 12:39 ce0997li.webitrent.com</li>
+<li class='same'> 12:36 ce0997li.webitrent.com</li>
+<li class='same'> 12:35 ce0997li.webitrent.com</li>
+<li class='same'> 12:33 ce0997li.webitrent.com</li>
+<li class='same'> 12:30 ce0997li.webitrent.com</li>
+<li> 12:28 outlook.office.com</li>
+<li> 12:26 docs.google.com</li>
+<li> 12:25 ce0997li.webitrent.com</li>
+<li> 12:25 login.microsoftonline.com</li>
+<li> 12:15 www.hr.herts.ac.uk</li>
+<li> 12:13 herts365-my.sharepoint.com</li>
+<li> 12:13 login.microsoftonline.com</li>
+<li> 12:13 herts365-my.sharepoint.com</li>
+<li> 12:13 calendar.google.com</li>
+<li> 12:13 docs.google.com</li>
+<li class='same'> 12:11 docs.google.com</li>
+<li> 12:10 drive.google.com</li>
+<li> 12:04 mail.google.com</li>
+<li> 12:03 chatgpt.com</li>
+<li> 11:34 mail.google.com</li>
+<li class='same'> 11:33 mail.google.com</li>
+<li> 11:33 docs.google.com</li>
+<li class='same'> 11:32 docs.google.com</li>
+<li> 11:32 mail.google.com</li>
+<li> 11:32 gmail.com</li>
+<li> 11:30 www.accuweather.com</li>
+<li> 11:30 duckduckgo.com</li>
+<li> 11:26 docs.google.com</li>
+<li> 11:19 outlook.office.com</li>
+<li> 11:18 mail.google.com</li>
+<li> 11:15 herts.instructure.com</li>
+<li> 11:12 outlook.office.com</li>
+<li class='same'> 11:11 outlook.office.com</li>
+<li class='same'> 11:10 outlook.office.com</li>
+<li class='same'> 11:09 outlook.office.com</li>
+<li class='same'> 11:08 outlook.office.com</li>
+<li> 11:08 m365.cloud.microsoft</li>
+<li> 11:08 login.microsoftonline.com</li>
+<li> 11:06 calendar.google.com</li>
+<li> 11:05 duckduckgo.com</li>
+<li class='same'> 11:04 duckduckgo.com</li>
+<li class='same'> 10:58 duckduckgo.com</li>
+<li> 10:57 docs.google.com</li>
+<li> 10:57 sites.google.com</li>
+<li class='same'> 10:56 sites.google.com</li>
+<li> 10:51 chatgpt.com</li>
+<li> 10:48 www.theregister.com</li>
+<li class='same'> 10:46 www.theregister.com</li>
+<li class='same'> 10:45 www.theregister.com</li>
+<li> 10:45 duckduckgo.com</li>
+<li> 10:44 hackaday.com</li>
+<li class='same'> 10:43 hackaday.com</li>
+<li> 10:43 mail.google.com</li>
+<li> 10:42 www.reddit.com</li>
+<li> 10:42 mail.google.com</li>
+<li> 10:42 www.reddit.com</li>
+<li> 10:42 mail.google.com</li>
+<li> 10:41 www.parkrun.org.uk</li>
+<li class='same'> 10:40 www.parkrun.org.uk</li>
+<li class='same'> 10:39 www.parkrun.org.uk</li>
+<li> 10:39 mail.google.com</li>
+<li> 10:38 www.netflix.com</li>
+<li> 10:37 www.paypal.com</li>
+<li class='same'> 10:36 www.paypal.com</li>
+<li> 10:36 mail.google.com</li>
+<li> 10:36 www.linkedin.com</li>
+<li> 10:20 herts365-my.sharepoint.com</li>
+<li> 10:20 login.microsoftonline.com</li>
+<li> 10:20 herts365-my.sharepoint.com</li>
+<li class='same'> 10:19 herts365-my.sharepoint.com</li>
+<li> 10:19 login.microsoftonline.com</li>
+<li> 10:19 herts365-my.sharepoint.com</li>
+<li> 10:19 m365.cloud.microsoft</li>
+<li> 10:19 login.microsoftonline.com</li>
+<li> 10:19 herts365-my.sharepoint.com</li>
+<li> 10:19 calendar.google.com</li>
+<li> 10:17 docs.google.com</li>
+<li> 10:17 ce0997li.webitrent.com</li>
+<li class='same'> 10:16 ce0997li.webitrent.com</li>
+<li class='same'> 10:15 ce0997li.webitrent.com</li>
+<li> 10:15 login.microsoftonline.com</li>
+<li> 10:15 www.hr.herts.ac.uk</li>
+<li> 09:59 calendar.google.com</li>
+<li> 09:58 herts.instructure.com</li>
+<li class='same'> 09:57 herts.instructure.com</li>
+<li> 09:57 adfs.herts.ac.uk</li>
+<li> 09:56 api-b6327e78.duosecurity.com</li>
+<li> 09:56 adfs.herts.ac.uk</li>
+<li> 09:55 calendar.google.com</li>
+<li class='same'> 09:54 calendar.google.com</li>
+<li class='same'> 09:53 calendar.google.com</li>
+<li> 09:47 www.printables.com</li>
+<li class='same'> 09:46 www.printables.com</li>
+<li> 09:45 www.reddit.com</li>
+<li class='same'> 09:43 www.reddit.com</li>
+<li> 09:43 mail.google.com</li>
+<li class='same'> 09:42 mail.google.com</li>
+<li> 09:42 www.linkedin.com</li>
+<li> 09:41 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:43 www.activeluton.co.uk</li>
+<li> 07:43 www.google.com</li>
+<li class='same'> 07:40 www.google.com</li>
+<li class='same'> 07:39 www.google.com</li>
+<li> 07:39 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:34 www.reddit.com</li>
+<li> 06:34 www.google.com</li>
+<li> 06:27 www.giantitp.com</li>
+<li> 06:25 <a href="https://www.youtube.com/watch?v=BN9xjD2iwrY">(754) Fitness on Shuffle - YouTube</a></li>
+<li> 06:25 <a href="https://www.youtube.com/watch?v=BN9xjD2iwrY&feature=youtu.be">Fitness on Shuffle - YouTube</a></li>
+<li> 06:25 www.reddit.com</li>
+<li> 06:22 <a href="https://en.wikipedia.org/wiki/Katie_Hopkins">Katie Hopkins - Wikipedia</a></li>
+<li> 06:22 duckduckgo.com</li>
+<li> 06:20 chatgpt.com</li>
+<li> 06:20 www.badscience.net</li>
+<li> 06:19 www.legislation.gov.uk</li>
+<li> 06:19 www.reddit.com</li>
+</ul>
+
+<H3>Sunday, 31/08/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:25 github.com</li>
+<li class='same'> 21:12 github.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:59 github.com</li>
+<li> 17:58 www.google.com</li>
+<li class='same'> 17:39 www.google.com</li>
+<li> 17:38 tvtropes.org</li>
+<li class='same'> 17:36 tvtropes.org</li>
+<li class='same'> 17:35 tvtropes.org</li>
+<li class='same'> 17:33 tvtropes.org</li>
+<li> 17:32 www.google.com</li>
+<li> 17:18 <a href="https://www.theguardian.com/lifeandstyle/2025/aug/30/no-moaning-about-the-teachers-and-definitely-no-nudes-how-to-survive-the-school-whatsapp-group">No moaning about the teachers and definitely no nudes! How to survive the school WhatsApp group | Parents and parenting | The Guardian</a></li>
+<li class='same'> 17:08 <a href="https://www.theguardian.com/lifeandstyle/2025/aug/30/no-moaning-about-the-teachers-and-definitely-no-nudes-how-to-survive-the-school-whatsapp-group">No moaning about the teachers and definitely no nudes! How to survive the school WhatsApp group | Parents and parenting | The Guardian</a></li>
+<li> 17:07 <a href="https://www.theguardian.com/lifeandstyle/2025/aug/31/why-do-sports-trophies-look-so-hideous">Why do sports trophies look so hideous? | Life and style | The Guardian</a></li>
+<li> 16:58 <a href="https://www.theguardian.com/australia-news/2025/sep/01/australia-gun-control-laws-3d-printed-firearms-ntwnfb">Illicit and 3D-printed firearms are a growing problem. Authorities are struggling to keep up | Gun control | The Guardian</a></li>
+<li> 16:52 www.dominikdiamond.net</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:27 www.dominikdiamond.net</li>
+<li> 15:27 www.netflix.com</li>
+<li class='same'> 15:26 www.netflix.com</li>
+<li class='same'> 15:25 www.netflix.com</li>
+<li> 15:25 mail.google.com</li>
+<li> 15:25 www.netflix.com</li>
+<li> 15:25 mail.google.com</li>
+<li> 15:24 www.netflix.com</li>
+<li> 15:23 <a href="https://www.youtube.com/watch?v=E8TLMiP1ouY&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=101">(753) GCSE Maths: N3-14 [Part 5 Examples] - YouTube</a></li>
+<li> 15:16 <a href="https://www.youtube.com/watch?v=EDgFDdBb8ds&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=100">(753) GCSE Maths: N3-13 [Priority of Operations Part 5: Brackets, x and ÷, + and -] - YouTube</a></li>
+<li> 15:16 <a href="https://www.youtube.com/watch?v=lGpip3OUFVM&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=99">(753) GCSE Maths: N3-12 [Part 4 Examples] - YouTube</a></li>
+<li> 15:15 <a href="https://www.youtube.com/watch?v=nT02JyvyU-M&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=98">(753) GCSE Maths: N3-11 [Priority of Operations Part 4: Brackets, x and ÷] - YouTube</a></li>
+<li> 15:15 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 15:14 www.netflix.com</li>
+<li> 15:14 <a href="https://www.youtube.com/">(769) YouTube</a></li>
+<li> 15:13 www.netflix.com</li>
+<li class='same'> 15:12 www.netflix.com</li>
+<li> 15:12 www.paypal.com</li>
+<li> 15:12 www.netflix.com</li>
+<li class='same'> 15:11 www.netflix.com</li>
+<li> 15:11 mail.google.com</li>
+<li> 15:11 www.netflix.com</li>
+<li class='same'> 15:10 www.netflix.com</li>
+<li> 15:10 duckduckgo.com</li>
+<li> 15:10 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:59 www.dominikdiamond.net</li>
+<li> 12:59 www.google.com</li>
+<li> 12:59 www.instagram.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:02 www.instagram.com</li>
+<li class='same'> 10:57 www.instagram.com</li>
+<li> 10:57 www.dominikdiamond.net</li>
+<li> 10:57 www.google.com</li>
+<li class='same'> 10:56 www.google.com</li>
+<li> 10:56 www.woodfield.shropshire.sch.uk</li>
+</ul>
+
+<H3>Saturday, 30/08/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:09 www.reddit.com</li>
+<li> 17:09 www.google.com</li>
+<li> 17:09 www.reddit.com</li>
+<li> 17:09 www.google.com</li>
+<li> 17:09 www.reddit.com</li>
+<li> 17:09 www.google.com</li>
+<li> 16:50 <a href="https://www.theguardian.com/books/2025/aug/30/eat-pray-love-author-elizabeth-gilbert-leaving-marriage-dying-friend">Eat Pray Love author Elizabeth Gilbert on leaving her marriage for a dying friend: ‘She said, Let’s just live balls to the wall until I die!’ | Elizabeth Gilbert | The Guardian</a></li>
+<li> 16:49 www.reddit.com</li>
+<li class='same'> 16:48 www.reddit.com</li>
+<li class='same'> 16:47 www.reddit.com</li>
+<li class='same'> 16:44 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:25 www.woodfield.shropshire.sch.uk</li>
+<li class='same'> 10:05 www.woodfield.shropshire.sch.uk</li>
+<li> 10:05 www.google.com</li>
+<li class='same'> 10:03 www.google.com</li>
+<li> 10:03 www.reddit.com</li>
+<li class='same'> 09:44 www.reddit.com</li>
+<li> 09:44 www.google.com</li>
+<li> 09:44 www.safestore.co.uk</li>
+<li class='same'> 09:43 www.safestore.co.uk</li>
+<li> 09:43 www.google.com</li>
+<li> 09:19 <a href="https://www.youtube.com/watch?v=nT02JyvyU-M&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=98">(753) GCSE Maths: N3-11 [Priority of Operations Part 4: Brackets, x and ÷] - YouTube</a></li>
+<li> 09:18 <a href="https://www.youtube.com/watch?v=lGpip3OUFVM&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=99">(753) GCSE Maths: N3-12 [Part 4 Examples] - YouTube</a></li>
+<li> 09:14 <a href="https://www.youtube.com/watch?v=nT02JyvyU-M&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=98">(753) GCSE Maths: N3-11 [Priority of Operations Part 4: Brackets, x and ÷] - YouTube</a></li>
+<li> 09:11 <a href="https://www.youtube.com/watch?v=6RxbiyYzso8&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=97">(749) GCSE Maths: N3-10 [Part 3 Examples] - YouTube</a></li>
+<li> 09:10 <a href="https://www.youtube.com/watch?v=Zs62FoKPCmE&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=96">(749) GCSE Maths: N3-09 [Priority of Operations Part 3: x and ÷] - YouTube</a></li>
+<li> 09:08 <a href="https://www.youtube.com/watch?v=kMsV2X6L4kw&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=95">(749) GCSE Maths: N3-08 [Part 2 Examples] - YouTube</a></li>
+<li> 09:06 <a href="https://www.youtube.com/watch?v=obfZMS6Qn_o&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=94">(749) GCSE Maths: N3-07 [Priority of Operations Part 2: Brackets, + and -] - YouTube</a></li>
+<li> 09:04 <a href="https://www.youtube.com/watch?v=9DxxCvQcYKk&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=93">(749) GCSE Maths: N3-06 [Part 1 Examples] - YouTube</a></li>
+<li> 09:01 <a href="https://www.youtube.com/watch?v=YCaUSHE3wb8&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=92">(749) GCSE Maths: N3-05 [Priority of Operations Part 1: + and -] - YouTube</a></li>
+<li> 08:47 <a href="https://www.youtube.com/watch?v=6IjgfUx6P8E&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=91">(749) GCSE Maths: N3-04 [The Problem with BIDMAS / BODMAS / PEMDAS / BEDMAS] - YouTube</a></li>
+<li> 08:47 <a href="https://www.youtube.com/watch?v=ixYKf2c2uQ8&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=90">(749) GCSE Maths: N2-63 [Examples of Dividing Mixed Numbers] - YouTube</a></li>
+<li> 08:45 <a href="https://www.youtube.com/watch?v=4CNLHioNnIA&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=89">(749) GCSE Maths: N3-03 [The Distributive Law] - YouTube</a></li>
+<li> 08:33 www.reddit.com</li>
+<li> 08:32 uamma.uk</li>
+<li> 08:29 <a href="https://www.youtube.com/watch?v=SV-3DAJfvJQ&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=88">(749) GCSE Maths: N3-02 [The Associative Law] - YouTube</a></li>
+<li> 08:27 <a href="https://www.youtube.com/watch?v=3Vmi8j8IHIk&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=87">(749) GCSE Maths: N3-01 [The Commutative Law] - YouTube</a></li>
+<li> 08:27 <a href="https://www.youtube.com/watch?v=SV-3DAJfvJQ&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=88">(749) GCSE Maths: N3-02 [The Associative Law] - YouTube</a></li>
+<li> 08:26 <a href="https://www.youtube.com/watch?v=3Vmi8j8IHIk&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=87">(749) GCSE Maths: N3-01 [The Commutative Law] - YouTube</a></li>
+<li> 08:25 <a href="https://www.youtube.com/watch?v=j2zsXabzQy0&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=86">(749) GCSE Maths: N2-62 [Dividing Mixed Numbers] - YouTube</a></li>
+<li> 08:15 <a href="https://www.youtube.com/watch?v=DAatt1qTUPY&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=85">(749) GCSE Maths: N2-61 [Examples of Multiplying Mixed Numbers] - YouTube</a></li>
+<li> 08:15 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 08:15 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
+<li> 08:15 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
+<li> 08:14 <a href="https://www.youtube.com/">(769) YouTube</a></li>
+<li> 08:13 uamma.uk</li>
+<li> 08:13 duckduckgo.com</li>
+<li> 08:01 <a href="https://www.theguardian.com/us-news/2025/aug/29/trump-tariffs-illegal-appeal-court-ruling">Most of Trump’s tariffs are illegal, federal court rules | Trump tariffs | The Guardian</a></li>
+<li> 07:53 www.reddit.com</li>
+<li class='same'> 07:52 www.reddit.com</li>
+</ul>
+
+<H3>Friday, 29/08/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 18:08 www.google.com</li>
+<li> 17:56 <a href="https://www.theguardian.com/commentisfree/2025/aug/29/tote-bag-matcha-performative-male-women">Why fear the tote bag-wielding, matcha-drinking ‘performative male’? At least he makes an effort | Rachel Connolly | The Guardian</a></li>
+<li> 17:55 www.wickedthemusical.co.uk</li>
+<li> 17:54 www.reddit.com</li>
+<li class='same'> 17:52 www.reddit.com</li>
+<li class='same'> 17:51 www.reddit.com</li>
+<li class='same'> 17:50 www.reddit.com</li>
+<li class='same'> 17:49 www.reddit.com</li>
+<li class='same'> 17:48 www.reddit.com</li>
+<li class='same'> 17:47 www.reddit.com</li>
+<li class='same'> 17:46 www.reddit.com</li>
+<li class='same'> 17:45 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:48 www.printables.com</li>
+<li class='same'> 15:47 www.printables.com</li>
+<li> 15:46 <a href="https://www.theguardian.com/commentisfree/2025/aug/23/gavin-newsom-trump-comedy">California’s governor has become an anti-Trump comedian. It’s 2017 all over again | Dave Schilling | The Guardian</a></li>
+<li> 15:37 <a href="https://www.theguardian.com/environment/2025/aug/28/collapse-critical-atlantic-current-amoc-no-longer-low-likelihood-study">Collapse of critical Atlantic current is no longer low-likelihood, study finds | Oceans | The Guardian</a></li>
+<li> 15:37 <a href="https://www.theguardian.com/us-news/2025/aug/29/kamala-harris-secret-service-trump-biden">Trump revokes Kamala Harris’s Secret Service detail extended by Biden | Donald Trump | The Guardian</a></li>
+<li> 15:34 www.pcspecialist.co.uk</li>
+<li> 15:31 www.reddit.com</li>
+<li class='same'> 15:30 www.reddit.com</li>
+<li> 15:23 mail.google.com</li>
+<li> 15:23 www.jobs.ac.uk</li>
+<li> 15:22 mail.google.com</li>
+<li> 15:20 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
+<li> 15:20 github.com</li>
+<li> 15:18 mail.google.com</li>
+<li> 15:18 hackaday.com</li>
+<li class='same'> 15:17 hackaday.com</li>
+<li> 15:17 duckduckgo.com</li>
+<li> 15:17 mail.google.com</li>
+<li> 15:17 hackaday.com</li>
+<li> 15:16 duckduckgo.com</li>
+<li> 15:16 hackaday.io</li>
+<li> 15:16 duckduckgo.com</li>
+<li> 15:13 www.reddit.com</li>
+<li> 15:13 duckduckgo.com</li>
+<li> 15:12 www.reddit.com</li>
+<li> 15:12 mail.google.com</li>
+<li> 15:03 <a href="https://en.wikipedia.org/wiki/Dominik_Diamond">Dominik Diamond - Wikipedia</a></li>
+<li> 15:03 duckduckgo.com</li>
+<li> 15:02 www.reddit.com</li>
+<li class='same'> 15:01 www.reddit.com</li>
+<li class='same'> 14:59 www.reddit.com</li>
+<li> 14:58 <a href="https://www.theguardian.com/games/2025/aug/29/wheel-world-why-no-exciting-cycling-games">Four wheels good, two wheels bad: why are there no exciting cycling games? | Games | The Guardian</a></li>
+<li> 14:58 www.reddit.com</li>
+<li> 14:56 mail.google.com</li>
+<li> 14:56 <a href="https://www.theguardian.com/profile/dominik-diamond">Dominik Diamond | The Guardian</a></li>
+<li> 14:55 <a href="https://www.theguardian.com/games/2025/aug/29/wheel-world-why-no-exciting-cycling-games">Four wheels good, two wheels bad: why are there no exciting cycling games? | Games | The Guardian</a></li>
+<li> 14:55 bsky.app</li>
+<li> 14:55 <a href="https://www.theguardian.com/profile/dominik-diamond">Dominik Diamond | The Guardian</a></li>
+<li> 14:54 <a href="https://www.theguardian.com/games/2025/aug/29/wheel-world-why-no-exciting-cycling-games">Four wheels good, two wheels bad: why are there no exciting cycling games? | Games | The Guardian</a></li>
+<li> 14:53 calendar.google.com</li>
+<li> 14:38 duckduckgo.com</li>
+<li> 14:33 www.amazon.co.uk</li>
+<li class='same'> 14:32 www.amazon.co.uk</li>
+<li> 14:32 www.tesco.com</li>
+<li class='same'> 14:31 www.tesco.com</li>
+<li> 14:30 www.apple.com</li>
+<li class='same'> 14:29 www.apple.com</li>
+<li> 14:29 duckduckgo.com</li>
+<li> 14:26 docs.google.com</li>
+<li> 14:26 drive.google.com</li>
+<li> 14:25 www.pcspecialist.co.uk</li>
+<li class='same'> 14:24 www.pcspecialist.co.uk</li>
+<li> 14:21 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:06 www.badscience.net</li>
+<li> 12:06 duckduckgo.com</li>
+<li> 12:03 <a href="https://www.theguardian.com/uk-news/2022/feb/04/teesdale-farmer-cleared-by-jury-over-flipping-car-with-tractor">Teesdale farmer cleared by jury after flipping car with tractor | UK news | The Guardian</a></li>
+<li> 12:01 www.reddit.com</li>
+<li class='same'> 12:00 www.reddit.com</li>
+<li> 11:59 discord.com</li>
+<li> 11:58 doodle.com</li>
+<li> 11:57 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:56 moodle.royalholloway.ac.uk</li>
+<li> 11:56 login.microsoftonline.com</li>
+<li> 11:56 moodle.royalholloway.ac.uk</li>
+<li> 11:53 dashboards.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 11:20 www.reddit.com</li>
+<li> 11:20 www.typingtest.com</li>
+<li class='same'> 11:19 www.typingtest.com</li>
+<li> 11:18 www.reddit.com</li>
+<li> 11:17 www.typingtest.com</li>
+<li> 11:12 docs.google.com</li>
+<li> 11:12 <a href="https://www.youtube.com/watch?v=RETtt3fDzEc&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=81">(747) GCSE Maths: N2-57 [Examples of Adding Mixed Numbers] - YouTube</a></li>
+<li> 11:12 <a href="https://www.youtube.com/watch?v=JJYqZpHpMD8&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=84">(747) GCSE Maths: N2-60 [Multiplying Mixed Numbers] - YouTube</a></li>
+<li> 10:51 <a href="https://www.youtube.com/watch?v=7u7k-Gg3Ka4&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=83">(747) GCSE Maths: N2-59 [Examples of Subtracting Mixed Numbers] - YouTube</a></li>
+<li> 10:45 <a href="https://www.youtube.com/watch?v=ZOs9wT3ANbw&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=82">(747) GCSE Maths: N2-58 [Subtracting Mixed Numbers] - YouTube</a></li>
+<li> 10:45 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 10:44 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
+<li> 10:44 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
+<li> 10:44 <a href="https://www.youtube.com/">(769) YouTube</a></li>
+<li> 10:31 intranet.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 09:53 www.reddit.com</li>
+<li class='same'> 09:52 www.reddit.com</li>
+<li> 09:52 www.gofundme.com</li>
+<li> 09:52 www.reddit.com</li>
+<li class='same'> 09:51 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:11 www.reddit.com</li>
+<li class='same'> 09:10 www.reddit.com</li>
+<li> 09:08 www.amazon.co.uk</li>
+<li> 09:08 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:28 www.reddit.com</li>
+<li class='same'> 08:27 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:36 www.google.com</li>
+</ul>
+
+<H3>Thursday, 28/08/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:58 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:04 fritz.box</li>
+<li> 19:39 www.reddit.com</li>
+<li class='same'> 19:38 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:31 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:10 tvtropes.org</li>
+<li> 16:10 www.google.com</li>
+<li> 16:08 www.reddit.com</li>
+<li> 16:07 www.google.com</li>
+<li> 16:06 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:59 www.reddit.com</li>
+<li class='same'> 12:33 www.reddit.com</li>
+<li class='same'> 12:31 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:38 www.reddit.com</li>
+<li class='same'> 10:35 www.reddit.com</li>
+<li class='same'> 10:34 www.reddit.com</li>
+<li class='same'> 10:28 www.reddit.com</li>
+<li class='same'> 10:27 www.reddit.com</li>
+<li class='same'> 10:16 www.reddit.com</li>
+<li class='same'> 10:15 www.reddit.com</li>
+<li class='same'> 10:14 www.reddit.com</li>
+<li class='same'> 10:13 www.reddit.com</li>
+<li class='same'> 10:12 www.reddit.com</li>
+<li class='same'> 10:11 www.reddit.com</li>
+<li class='same'> 10:10 www.reddit.com</li>
+<li> 10:10 numbergenerator.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:17 numbergenerator.org</li>
+<li class='same'> 09:15 numbergenerator.org</li>
+<li> 09:15 www.google.com</li>
+<li> 09:10 www.reddit.com</li>
+<li class='same'> 09:09 www.reddit.com</li>
+<li class='same'> 09:08 www.reddit.com</li>
+<li class='same'> 09:07 www.reddit.com</li>
+<li class='same'> 09:06 www.reddit.com</li>
+<li class='same'> 09:05 www.reddit.com</li>
+<li class='same'> 09:04 www.reddit.com</li>
+<li class='same'> 09:02 www.reddit.com</li>
+<li> 09:01 <a href="https://www.theguardian.com/politics/2025/aug/28/ban-on-news-outlet-by-nottinghamshire-county-council-reform-leader-a-massive-attack-on-local-democracy">Reform council’s Nottingham Post ban a ‘massive attack on local democracy’ | Reform UK | The Guardian</a></li>
+<li> 08:51 <a href="https://www.theguardian.com/us-news/2025/aug/27/trump-50-percent-tariff-india-explainer">How hard will Trump’s 50% tariff hit India, and what is Delhi doing about it? | India | The Guardian</a></li>
+<li> 08:50 www.reddit.com</li>
+<li> 08:50 discord.com</li>
+<li> 08:50 chatgpt.com</li>
+<li> 08:49 www.reddit.com</li>
+<li class='same'> 08:48 www.reddit.com</li>
+<li class='same'> 08:46 www.reddit.com</li>
+<li class='same'> 08:45 www.reddit.com</li>
+<li> 08:42 medium.com</li>
+<li> 08:42 duckduckgo.com</li>
+<li> 08:42 www.reddit.com</li>
+<li> 08:42 duckduckgo.com</li>
+<li class='same'> 08:41 duckduckgo.com</li>
+<li> 08:38 <a href="https://www.theguardian.com/sport/2025/aug/28/best-tennis-photo-jasmine-paolini-us-open-ray-giubilo">Picture perfect? How one of the best tennis photos of all time was taken at the US Open | US Open Tennis 2025 | The Guardian</a></li>
+<li> 08:37 forms.office.com</li>
+<li> 08:37 login.microsoftonline.com</li>
+<li> 08:37 forms.office.com</li>
+<li> 08:36 www.microsoft.com</li>
+<li> 08:36 forms.office.com</li>
+<li> 08:36 www.reddit.com</li>
+<li class='same'> 08:35 www.reddit.com</li>
+<li class='same'> 08:34 www.reddit.com</li>
+<li class='same'> 08:33 www.reddit.com</li>
+<li class='same'> 08:32 www.reddit.com</li>
+<li class='same'> 08:31 www.reddit.com</li>
+<li class='same'> 08:29 www.reddit.com</li>
+<li> 08:29 <a href="https://www.youtube.com/watch?v=ZOs9wT3ANbw&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=83">(744) GCSE Maths: N2-58 [Subtracting Mixed Numbers] - YouTube</a></li>
+<li> 08:26 <a href="https://www.youtube.com/watch?v=ZOs9wT3ANbw&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=82">(747) GCSE Maths: N2-58 [Subtracting Mixed Numbers] - YouTube</a></li>
+<li> 08:21 www.retrogames.cz</li>
+<li> 08:17 <a href="https://www.youtube.com/watch?v=RETtt3fDzEc&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=81">(747) GCSE Maths: N2-57 [Examples of Adding Mixed Numbers] - YouTube</a></li>
+<li> 08:16 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 08:16 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
+<li> 08:16 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
+<li> 08:16 <a href="https://www.youtube.com/">(769) YouTube</a></li>
+<li> 08:03 www.ebay.co.uk</li>
+<li> 08:03 duckduckgo.com</li>
+<li class='same'> 08:02 duckduckgo.com</li>
+<li> 08:02 www.reddit.com</li>
+<li> 08:02 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:17 www.reddit.com</li>
+<li> 07:13 electronics.stackexchange.com</li>
+<li> 07:13 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
+<li> 07:13 <a href="https://stackoverflow.com/users/170243/joe">User Joe - Stack Overflow</a></li>
+<li> 07:13 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+<li> 07:12 www.reddit.com</li>
+<li> 07:06 www.facebook.com</li>
+<li> 07:06 www.reddit.com</li>
+<li class='same'> 07:05 www.reddit.com</li>
+<li class='same'> 07:04 www.reddit.com</li>
+<li> 07:02 github.com</li>
+<li class='same'> 07:00 github.com</li>
+<li> 06:58 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
+<li> 06:56 www.reddit.com</li>
+<li> 06:52 chatgpt.com</li>
+</ul>
+
+<H3>Wednesday, 27/08/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:38 tvtropes.org</li>
+<li class='same'> 17:34 tvtropes.org</li>
+<li class='same'> 17:33 tvtropes.org</li>
+<li class='same'> 17:32 tvtropes.org</li>
+<li class='same'> 17:31 tvtropes.org</li>
+<li class='same'> 17:29 tvtropes.org</li>
+<li class='same'> 17:28 tvtropes.org</li>
+<li class='same'> 17:22 tvtropes.org</li>
+<li class='same'> 17:21 tvtropes.org</li>
+<li class='same'> 17:20 tvtropes.org</li>
+<li> 17:20 duckduckgo.com</li>
+<li> 17:20 www.reddit.com</li>
+<li class='same'> 17:19 www.reddit.com</li>
+<li> 17:17 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li> 16:39 www.google.com</li>
+<li> 16:38 <a href="https://joereddington.com/2025/08/27/gratitude.html">gratitude | Joe Reddington</a></li>
+<li> 16:12 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:11 www.reddit.com</li>
+<li> 16:11 discord.com</li>
+<li class='same'> 16:10 discord.com</li>
+<li> 16:02 outlook.office.com</li>
+<li> 16:02 m365.cloud.microsoft</li>
+<li> 16:02 login.microsoftonline.com</li>
+<li> 16:02 eu-west.azureauth.duosecurity.com</li>
+<li> 16:02 api-b6327e78.duosecurity.com</li>
+<li> 16:02 adfs.herts.ac.uk</li>
+<li> 16:01 www.atom.com</li>
+<li> 16:01 fritz.box</li>
+<li class='same'> 16:00 fritz.box</li>
+<li> 15:59 www.reddit.com</li>
+<li class='same'> 15:58 www.reddit.com</li>
+<li> 15:58 www.rightmove.co.uk</li>
+<li> 15:57 www.reddit.com</li>
+<li class='same'> 15:56 www.reddit.com</li>
+<li> 15:55 duckduckgo.com</li>
+<li> 15:55 www.amazon.co.uk</li>
+<li class='same'> 15:54 www.amazon.co.uk</li>
+<li class='same'> 15:53 www.amazon.co.uk</li>
+<li> 15:53 www.printables.com</li>
+<li class='same'> 15:51 www.printables.com</li>
+<li> 15:50 www.amazon.co.uk</li>
+<li> 15:50 www.giantitp.com</li>
+<li> 15:47 forms.office.com</li>
+<li> 15:47 login.microsoftonline.com</li>
+<li class='same'> 15:46 login.microsoftonline.com</li>
+<li> 15:46 forms.office.com</li>
+<li> 15:46 outlook.office365.com</li>
+<li> 15:36 www.printables.com</li>
+<li class='same'> 15:35 www.printables.com</li>
+<li> 15:35 www.reddit.com</li>
+<li class='same'> 15:34 www.reddit.com</li>
+<li class='same'> 15:33 www.reddit.com</li>
+<li class='same'> 15:32 www.reddit.com</li>
+<li class='same'> 15:31 www.reddit.com</li>
+<li> 15:27 outlook.office365.com</li>
+<li> 15:27 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 15:26 fyp.cs.rhul.ac.uk</li>
+<li> 15:26 outlook.office365.com</li>
+<li> 15:25 www.reddit.com</li>
+<li class='same'> 15:23 www.reddit.com</li>
+<li class='same'> 15:22 www.reddit.com</li>
+<li class='same'> 15:21 www.reddit.com</li>
+<li class='same'> 15:20 www.reddit.com</li>
+<li class='same'> 15:18 www.reddit.com</li>
+<li> 15:18 outlook.office365.com</li>
+<li> 15:16 forms.office.com</li>
+<li class='same'> 15:15 forms.office.com</li>
+<li> 15:13 outlook.office365.com</li>
+<li> 15:11 rhul-my.sharepoint.com</li>
+<li> 15:02 outlook.office365.com</li>
+<li> 14:53 forms.office.com</li>
+<li> 14:47 outlook.office365.com</li>
+<li class='same'> 14:45 outlook.office365.com</li>
+<li class='same'> 14:44 outlook.office365.com</li>
+<li> 14:44 rhul-my.sharepoint.com</li>
+<li class='same'> 14:43 rhul-my.sharepoint.com</li>
+<li> 14:43 outlook.office365.com</li>
+<li> 14:43 rhul-my.sharepoint.com</li>
+<li class='same'> 14:42 rhul-my.sharepoint.com</li>
+<li class='same'> 14:41 rhul-my.sharepoint.com</li>
+<li> 14:38 www.reddit.com</li>
+<li class='same'> 14:37 www.reddit.com</li>
+<li class='same'> 14:35 www.reddit.com</li>
+<li> 14:35 mail.google.com</li>
+<li> 14:35 outlook.office365.com</li>
+<li> 14:33 rhul-my.sharepoint.com</li>
+<li> 14:32 forms.office.com</li>
+<li> 14:30 duckduckgo.com</li>
+<li> 14:28 outlook.office365.com</li>
+<li> 14:27 forms.office.com</li>
+<li> 14:27 login.microsoftonline.com</li>
+<li> 14:27 forms.office.com</li>
+<li> 14:27 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:26 moodle.royalholloway.ac.uk</li>
+<li> 14:26 outlook.office365.com</li>
+<li> 14:24 www.linkedin.com</li>
+<li> 14:24 mail.google.com</li>
+<li> 14:24 www.reddit.com</li>
+<li class='same'> 14:23 www.reddit.com</li>
+<li class='same'> 14:22 www.reddit.com</li>
+<li class='same'> 14:21 www.reddit.com</li>
+<li class='same'> 14:19 www.reddit.com</li>
+<li> 14:19 mail.google.com</li>
+<li> 14:19 outlook.office365.com</li>
+<li class='same'> 13:57 outlook.office365.com</li>
+<li> 13:56 mail.google.com</li>
+<li> 13:55 outlook.office365.com</li>
+<li class='same'> 13:54 outlook.office365.com</li>
+<li class='same'> 13:47 outlook.office365.com</li>
+<li class='same'> 13:44 outlook.office365.com</li>
+<li> 13:43 duckduckgo.com</li>
+<li> 13:41 support.microsoft.com</li>
+<li> 13:41 rhul-my.sharepoint.com</li>
+<li> 13:40 outlook.office365.com</li>
+<li class='same'> 13:39 outlook.office365.com</li>
+<li> 13:37 rhul-my.sharepoint.com</li>
+<li> 13:37 login.microsoftonline.com</li>
+<li> 13:37 rhul-my.sharepoint.com</li>
+<li> 13:37 login.microsoftonline.com</li>
+<li> 13:25 outlook.office365.com</li>
+<li class='same'> 13:24 outlook.office365.com</li>
+<li class='same'> 13:23 outlook.office365.com</li>
+<li class='same'> 13:22 outlook.office365.com</li>
+<li class='same'> 13:21 outlook.office365.com</li>
+<li class='same'> 13:20 outlook.office365.com</li>
+<li class='same'> 13:19 outlook.office365.com</li>
+<li> 13:18 calendar.google.com</li>
+<li> 13:18 outlook.office365.com</li>
+<li class='same'> 13:17 outlook.office365.com</li>
+<li> 13:15 chatgpt.com</li>
+<li> 13:15 mail.google.com</li>
+<li> 13:15 duckduckgo.com</li>
+<li> 13:09 outlook.office365.com</li>
+<li> 13:08 george-orwell.org</li>
+<li> 13:08 outlook.office365.com</li>
+<li class='same'> 13:07 outlook.office365.com</li>
+<li> 13:07 mail.google.com</li>
+<li> 13:04 www.reddit.com</li>
+<li> 13:04 outlook.office.com</li>
+<li> 13:03 m365.cloud.microsoft</li>
+<li class='same'> 13:02 m365.cloud.microsoft</li>
+<li> 13:02 login.microsoftonline.com</li>
+<li> 13:02 m365.cloud.microsoft</li>
+<li> 13:02 www.microsoft365.com</li>
+<li> 13:02 login.microsoftonline.com</li>
+<li> 13:02 eu-west.azureauth.duosecurity.com</li>
+<li> 13:02 api-b6327e78.duosecurity.com</li>
+<li> 13:02 adfs.herts.ac.uk</li>
+<li> 13:01 api-b6327e78.duosecurity.com</li>
+<li> 13:01 adfs.herts.ac.uk</li>
+<li> 13:01 mail.google.com</li>
+<li class='same'> 13:00 mail.google.com</li>
+<li> 12:55 tvtropes.org</li>
+<li> 12:51 mail.google.com</li>
+<li> 12:45 <a href="https://joereddington.com/2025/08/27/gratitude.html">gratitude | Joe Reddington</a></li>
+<li> 12:45 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:45 www.reddit.com</li>
+<li> 12:42 <a href="https://joereddington.com/2025/08/27/gratitude.html">gratitude | Joe Reddington</a></li>
+<li> 12:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 12:42 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 12:41 outlook.office365.com</li>
+<li> 12:40 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 12:39 fyp.cs.rhul.ac.uk</li>
+<li> 12:35 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 12:34 gitlab.cim.rhul.ac.uk</li>
+<li> 12:34 chatgpt.com</li>
+<li> 12:33 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 12:32 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 12:31 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 12:30 gitlab.cim.rhul.ac.uk</li>
+<li> 12:30 fyp.cs.rhul.ac.uk</li>
+<li> 12:29 gitlab.cim.rhul.ac.uk</li>
+<li> 12:29 fyp.cs.rhul.ac.uk</li>
+<li> 12:29 moodle.royalholloway.ac.uk</li>
+<li> 12:29 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 12:28 fyp.cs.rhul.ac.uk</li>
+<li> 12:28 gitlab.cim.rhul.ac.uk</li>
+<li> 12:25 fyp.cs.rhul.ac.uk</li>
+<li> 12:24 outlook.office365.com</li>
+<li class='same'> 12:21 outlook.office365.com</li>
+<li> 12:20 projects.cs.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 11:33 moodle.royalholloway.ac.uk</li>
+<li> 11:33 login.microsoftonline.com</li>
+<li> 11:33 moodle.royalholloway.ac.uk</li>
+<li> 11:33 login.microsoftonline.com</li>
+<li> 11:33 moodle.royalholloway.ac.uk</li>
+<li> 11:33 outlook.office365.com</li>
+<li> 11:32 www.reddit.com</li>
+<li class='same'> 11:29 www.reddit.com</li>
+<li class='same'> 11:28 www.reddit.com</li>
+<li class='same'> 11:27 www.reddit.com</li>
+<li class='same'> 11:26 www.reddit.com</li>
+<li class='same'> 11:23 www.reddit.com</li>
+<li> 11:16 outlook.office365.com</li>
+<li class='same'> 11:15 outlook.office365.com</li>
+<li> 11:14 projects.cs.rhul.ac.uk</li>
+<li> 11:07 fyp.cs.rhul.ac.uk</li>
+<li> 11:07 outlook.office365.com</li>
+<li> 11:05 www.reddit.com</li>
+<li> 10:55 projects.cs.rhul.ac.uk</li>
+<li class='same'> 10:54 projects.cs.rhul.ac.uk</li>
+<li> 10:52 fritz.box</li>
+<li> 10:51 outlook.office365.com</li>
+<li class='same'> 10:50 outlook.office365.com</li>
+<li> 10:50 login.microsoftonline.com</li>
+<li> 10:47 51.148.131.133:4000</li>
+<li class='same'> 10:45 51.148.131.133:4000</li>
+<li> 10:40 127.0.0.1:4000</li>
+<li> 10:39 docs.google.com</li>
+<li> 10:37 51.148.131.133:4000</li>
+<li> 10:35 127.0.0.1:4000</li>
+<li class='same'> 10:34 127.0.0.1:4000</li>
+<li class='same'> 10:33 127.0.0.1:4000</li>
+<li> 10:32 www.projectreal.co.uk</li>
+<li> 10:31 fast.com</li>
+<li> 10:31 51.148.131.133:4000</li>
+<li> 10:31 www.google.com</li>
+<li> 10:31 teams.microsoft.com</li>
+<li> 10:30 51.148.131.133:4000</li>
+<li> 10:28 whatismyipaddress.com</li>
+<li> 10:28 duckduckgo.com</li>
+<li> 10:27 fritz.box</li>
+<li class='same'> 10:26 fritz.box</li>
+<li> 10:26 127.0.0.1:4000</li>
+<li> 10:26 fritz.box</li>
+<li> 10:26 teams.microsoft.com</li>
+<li> 10:26 www.google.com</li>
+<li> 10:05 127.0.0.1:4000</li>
+<li class='same'> 09:42 127.0.0.1:4000</li>
+<li> 09:40 www.amazon.co.uk</li>
+<li class='same'> 09:37 www.amazon.co.uk</li>
+<li> 09:37 duckduckgo.com</li>
+<li> 09:37 www.amazon.co.uk</li>
+<li class='same'> 09:36 www.amazon.co.uk</li>
+<li class='same'> 09:35 www.amazon.co.uk</li>
+<li> 09:34 docs.google.com</li>
+<li> 09:31 127.0.0.1:4000</li>
+<li> 09:30 chatgpt.com</li>
+<li> 09:25 docs.google.com</li>
+<li> 09:25 drive.google.com</li>
+<li> 09:16 127.0.0.1:4000</li>
+<li> 09:15 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:15 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:11 <a href="https://www.youtube.com/watch?v=l3utZZgUITw&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=71">(741) GCSE Maths: N2-47 [Examples of Subtracting Fractions with different Denominators] - YouTube</a></li>
+<li> 09:10 <a href="https://www.youtube.com/watch?v=S11Djznp2K0&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=70">(741) GCSE Maths: N2-45 [Examples of Adding Fractions with different Denominators] - YouTube</a></li>
+<li> 09:10 <a href="https://www.youtube.com/watch?v=Db5TwCBnr38&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=69">(741) GCSE Maths: N2-45 [Examples of Adding Fractions with different Denominators] - YouTube</a></li>
+<li> 09:10 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 09:08 www.facebook.com</li>
+<li> 09:02 mail.google.com</li>
+<li class='same'> 09:01 mail.google.com</li>
+<li> 09:00 docs.google.com</li>
+<li> 09:00 mail.google.com</li>
+<li class='same'> 08:59 mail.google.com</li>
+<li> 08:59 andsoshethinks.co.uk</li>
+<li> 08:59 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:00 fity.club</li>
+<li> 07:00 duckduckgo.com</li>
+</ul>
+
+<H3>Tuesday, 26/08/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:00 vim-adventures.com</li>
+<li> 17:00 duckduckgo.com</li>
+<li> 17:00 www.vimgolf.com</li>
+<li class='same'> 16:59 www.vimgolf.com</li>
+<li> 16:59 thehustle.co</li>
+<li> 16:58 duckduckgo.com</li>
+<li> 16:56 outlook.office.com</li>
+<li> 16:53 <a href="https://xkcd.com/simplewriter/"></a></li>
+<li> 16:37 outlook.office.com</li>
+<li class='same'> 16:34 outlook.office.com</li>
+<li> 16:34 m365.cloud.microsoft</li>
+<li class='same'> 16:32 m365.cloud.microsoft</li>
+<li> 16:32 login.microsoftonline.com</li>
+<li> 16:32 eu-west.azureauth.duosecurity.com</li>
+<li> 16:32 api-b6327e78.duosecurity.com</li>
+<li> 16:32 adfs.herts.ac.uk</li>
+<li> 16:32 api-b6327e78.duosecurity.com</li>
+<li> 16:32 adfs.herts.ac.uk</li>
+<li> 16:30 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:55 outlook.office365.com</li>
+<li> 15:49 herts.instructure.com</li>
+<li> 15:26 www.facebook.com</li>
+<li> 15:26 www.booksigningcentral.com</li>
+<li> 15:25 authorevents.co.uk</li>
+<li> 15:25 checkreads.com</li>
+<li> 15:25 duckduckgo.com</li>
+<li> 15:22 outlook.office.com</li>
+<li> 15:19 discord.com</li>
+<li class='same'> 15:18 discord.com</li>
+<li> 15:18 login.microsoftonline.com</li>
+<li> 15:18 forms.office.com</li>
+<li> 15:17 www.microsoft.com</li>
+<li> 15:17 forms.office.com</li>
+<li> 15:17 outlook.office365.com</li>
+<li> 15:17 login.microsoftonline.com</li>
+<li> 15:14 <a href="https://en.wikipedia.org/wiki/Academy_Award_for_Best_Animated_Feature">Academy Award for Best Animated Feature - Wikipedia</a></li>
+<li> 15:13 <a href="https://en.wikipedia.org/wiki/Wallace_%26_Gromit:_Vengeance_Most_Fowl#Release">Wallace & Gromit: Vengeance Most Fowl - Wikipedia</a></li>
+<li> 15:13 <a href="https://en.wikipedia.org/wiki/Wallace_%26_Gromit:_Vengeance_Most_Fowl#Reception">Wallace & Gromit: Vengeance Most Fowl - Wikipedia</a></li>
+<li> 15:13 <a href="https://en.wikipedia.org/wiki/Wallace_%26_Gromit:_Vengeance_Most_Fowl">Wallace & Gromit: Vengeance Most Fowl - Wikipedia</a></li>
+<li> 15:13 duckduckgo.com</li>
+<li> 15:08 mail.google.com</li>
+<li> 15:07 outlook.office.com</li>
+<li class='same'> 15:06 outlook.office.com</li>
+<li class='same'> 14:49 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:49 www.reddit.com</li>
+<li class='same'> 13:47 www.reddit.com</li>
+<li> 13:44 outlook.office.com</li>
+<li> 13:16 dl.acm.org</li>
+<li> 13:15 ev.turnitinuk.com</li>
+<li> 13:14 herts.instructure.com</li>
+<li class='same'> 13:13 herts.instructure.com</li>
+<li class='same'> 13:12 herts.instructure.com</li>
+<li> 13:12 outlook.office.com</li>
+<li> 13:11 m365.cloud.microsoft</li>
+<li> 13:11 login.microsoftonline.com</li>
+<li> 13:11 eu-west.azureauth.duosecurity.com</li>
+<li> 13:11 api-b6327e78.duosecurity.com</li>
+<li> 13:11 adfs.herts.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 12:15 herts.instructure.com</li>
+<li> 12:14 adfs.herts.ac.uk</li>
+<li> 12:08 outlook.office.com</li>
+<li> 12:00 m365.cloud.microsoft</li>
+<li class='same'> 11:59 m365.cloud.microsoft</li>
+<li> 11:59 login.microsoftonline.com</li>
+<li> 11:59 eu-west.azureauth.duosecurity.com</li>
+<li> 11:59 api-b6327e78.duosecurity.com</li>
+<li> 11:59 adfs.herts.ac.uk</li>
+<li> 11:46 herts365-my.sharepoint.com</li>
+<li> 11:45 outlook.office.com</li>
+<li> 11:45 teams.microsoft.com</li>
+<li> 11:44 outlook.office.com</li>
+<li class='same'> 11:43 outlook.office.com</li>
+<li> 11:43 m365.cloud.microsoft</li>
+<li> 11:43 login.microsoftonline.com</li>
+<li> 11:43 eu-west.azureauth.duosecurity.com</li>
+<li> 11:43 api-b6327e78.duosecurity.com</li>
+<li> 11:43 adfs.herts.ac.uk</li>
+<li> 11:41 www.amazon.co.uk</li>
+<li> 11:39 <a href="https://en.wikipedia.org/wiki/Wallace_%26_Gromit:_Vengeance_Most_Fowl">Wallace & Gromit: Vengeance Most Fowl - Wikipedia</a></li>
+<li> 11:38 <a href="https://en.wikipedia.org/wiki/Wallace_%26_Gromit">Wallace & Gromit - Wikipedia</a></li>
+<li> 11:38 duckduckgo.com</li>
+<li> 11:37 mail.google.com</li>
+<li> 11:35 <a href="https://tex.stackexchange.com/questions/262995/how-to-check-if-the-produced-latex-pdfs-are-identical/263251#263251">pdftex - How to check if the produced LaTeX PDFs are identical? - TeX - LaTeX Stack Exchange</a></li>
+<li> 11:35 accounts.google.com</li>
+<li> 11:35 <a href="https://stackoverflow.com/questions">Recently Active Questions - Stack Overflow</a></li>
+<li> 11:35 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+<li> 11:34 mail.google.com</li>
+<li> 11:34 www.qiq.support</li>
+<li class='same'> 11:33 www.qiq.support</li>
+<li> 11:33 cpanel.myqiq.info</li>
+<li> 11:33 qiq.co</li>
+<li> 11:33 qiq.uk</li>
+<li> 11:33 duckduckgo.com</li>
+<li> 11:32 mail.google.com</li>
+<li> 11:32 calendar.google.com</li>
+<li> 11:29 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
+<li> 11:27 simulide.com</li>
+<li> 11:27 duckduckgo.com</li>
+<li> 11:25 www.etechnophiles.com</li>
+<li> 11:25 duckduckgo.com</li>
+<li> 11:22 chatgpt.com</li>
+<li> 11:19 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
+<li> 11:19 github.com</li>
+<li class='same'> 11:08 github.com</li>
+<li> 11:07 mail.google.com</li>
+<li> 11:04 chatgpt.com</li>
+<li> 10:56 127.0.0.1:4000</li>
+<li> 10:54 www.parkrun.org.uk</li>
+<li class='same'> 10:53 www.parkrun.org.uk</li>
+<li class='same'> 10:52 www.parkrun.org.uk</li>
+<li> 10:52 duckduckgo.com</li>
+<li> 10:51 calendar.google.com</li>
+<li> 10:47 online.unity.co.uk</li>
+<li> 10:47 docs.google.com</li>
+<li> 10:46 online.unity.co.uk</li>
+<li class='same'> 10:45 online.unity.co.uk</li>
+<li> 10:39 equalitytime.github.io</li>
+<li class='same'> 10:38 equalitytime.github.io</li>
+<li> 10:38 outlook.office.com</li>
+<li> 10:37 mail.google.com</li>
+<li> 10:34 www.sevenrooms.com</li>
+<li> 10:33 accounts.google.com</li>
+<li> 10:33 www.sevenrooms.com</li>
+<li class='same'> 10:32 www.sevenrooms.com</li>
+<li> 10:32 www.mildreds.com</li>
+<li> 10:32 duckduckgo.com</li>
+<li> 10:32 mail.google.com</li>
+<li> 10:32 github.com</li>
+<li class='same'> 10:31 github.com</li>
+<li> 10:31 mail.google.com</li>
+<li> 10:31 chatgpt.com</li>
+<li> 10:30 docs.google.com</li>
+<li> 10:30 www.teacherspensions.co.uk</li>
+<li class='same'> 10:29 www.teacherspensions.co.uk</li>
+<li class='same'> 10:28 www.teacherspensions.co.uk</li>
+<li> 10:28 mail.google.com</li>
+<li> 10:27 workspace.google.com</li>
+<li> 10:27 accounts.google.com</li>
+<li> 10:25 outlook.office.com</li>
+<li> 10:25 www.teacherspensions.co.uk</li>
+<li> 10:24 t1b.gobright.cloud</li>
+<li> 10:24 outlook.office.com</li>
+<li> 10:23 t1b.gobright.cloud</li>
+<li> 10:23 portal.gobright.cloud</li>
+<li> 10:23 www.teacherspensions.co.uk</li>
+<li> 10:22 outlook.office.com</li>
+<li> 10:22 www.teacherspensions.co.uk</li>
+<li> 10:21 outlook.office.com</li>
+<li class='same'> 10:20 outlook.office.com</li>
+<li> 10:20 login.microsoftonline.com</li>
+<li> 10:20 forms.office.com</li>
+<li> 10:20 outlook.office.com</li>
+<li class='same'> 10:18 outlook.office.com</li>
+<li> 10:16 www.reddit.com</li>
+<li class='same'> 10:15 www.reddit.com</li>
+<li class='same'> 10:13 www.reddit.com</li>
+<li> 10:12 www.linkedin.com</li>
+<li> 10:11 outlook.office.com</li>
+<li> 10:10 <a href="https://www.theguardian.com/uk-news/2025/aug/26/transport-for-london-launch-campaign-targeting-headphone-dodgers">Transport for London launches campaign targeting ‘headphone dodgers’ | TfL | The Guardian</a></li>
+<li> 10:09 outlook.office.com</li>
+<li class='same'> 10:08 outlook.office.com</li>
+<li> 10:04 www.reddit.com</li>
+<li class='same'> 10:03 www.reddit.com</li>
+<li class='same'> 09:58 www.reddit.com</li>
+<li class='same'> 09:57 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:34 herts365-my.sharepoint.com</li>
+<li> 07:33 www.reddit.com</li>
+<li class='same'> 07:32 www.reddit.com</li>
+<li class='same'> 07:31 www.reddit.com</li>
+<li> 07:30 duckduckgo.com</li>
+<li> 07:29 outlook.office.com</li>
+<li> 07:28 m365.cloud.microsoft</li>
+<li> 07:28 login.microsoftonline.com</li>
+<li> 07:28 eu-west.azureauth.duosecurity.com</li>
+<li> 07:28 api-b6327e78.duosecurity.com</li>
+<li> 07:28 adfs.herts.ac.uk</li>
+<li> 07:27 api-b6327e78.duosecurity.com</li>
+<li> 07:27 adfs.herts.ac.uk</li>
+</ul>
+
 <H3>Monday, 25/08/25</H3>
 
 <br>
 
-<ul><li> 11:22 fast.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 18:23 trends.google.com</li>
+<li class='same'> 17:54 trends.google.com</li>
+<li> 17:54 www.google.com</li>
+<li> 17:50 <a href="https://www.theguardian.com/technology/2025/jun/16/23andme-founder-wins-bid-dna-testing">23andMe’s founder wins bid to regain control of bankrupt DNA testing firm | Technology | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 16:54 <a href="https://www.theguardian.com/technology/2025/jun/16/23andme-founder-wins-bid-dna-testing#:~:text=Once%20a%20trailblazer%20in%20ancestry,information%20of%20millions%20of%20customers.">23andMe’s founder wins bid to regain control of bankrupt DNA testing firm | Technology | The Guardian</a></li>
+<li> 16:54 www.google.com</li>
+<li> 16:50 <a href="https://www.theguardian.com/culture/2025/aug/25/how-we-made-young-at-heart-the-bluebells-siobhan-fahey">‘The pope complained about the lyrics!’: the Bluebells and Siobhan Fahey on how they made Young at Heart | Pop and rock | The Guardian</a></li>
+<li> 16:49 <a href="https://www.theguardian.com/commentisfree/2025/aug/25/trump-staff-incompetent-sycophants">Why Trump built a staff of incompetent sycophants | Robert Reich | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:03 <a href="https://www.theguardian.com/commentisfree/2025/aug/25/trump-staff-incompetent-sycophants">Why Trump built a staff of incompetent sycophants | Robert Reich | The Guardian</a></li>
+<li> 16:02 <a href="https://www.theguardian.com/culture/ng-interactive/2025/aug/25/best-films-of-autumn-2025-spinal-tap-julia-roberts-paul-thomas-anderson">Spinal Tap II, Julia Roberts and Paul Thomas Anderson: the best films of autumn 2025 | Autumn arts preview 2025 | The Guardian</a></li>
+<li> 15:55 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
+<li> 15:53 www.google.co.uk</li>
+<li> 15:42 www.linkedin.com</li>
+<li> 15:30 www.reddit.com</li>
+<li class='same'> 15:29 www.reddit.com</li>
+<li class='same'> 15:28 www.reddit.com</li>
+<li class='same'> 15:27 www.reddit.com</li>
+<li> 15:19 duckduckgo.com</li>
+<li> 15:18 www.reddit.com</li>
+<li class='same'> 15:16 www.reddit.com</li>
+<li> 15:14 mail.google.com</li>
+<li> 15:08 www.google.co.uk</li>
+<li class='same'> 15:07 www.google.co.uk</li>
+<li class='same'> 15:06 www.google.co.uk</li>
+<li class='same'> 15:05 www.google.co.uk</li>
+<li class='same'> 15:04 www.google.co.uk</li>
+<li> 15:04 duckduckgo.com</li>
+<li> 15:04 mail.google.com</li>
+<li> 14:59 <a href="https://en.wikipedia.org/wiki/23andMe_data_leak">23andMe data leak - Wikipedia</a></li>
+<li> 14:59 <a href="https://en.wikipedia.org/wiki/23andMe#2023_data_breach">23andMe - Wikipedia</a></li>
+<li> 14:58 <a href="https://en.wikipedia.org/wiki/23andMe">23andMe - Wikipedia</a></li>
+<li> 14:58 <a href="https://en.wikipedia.org/wiki/Talk:23andMe_data_leak">Talk:23andMe data leak - Wikipedia</a></li>
+<li> 14:58 www.amazon.com</li>
+<li> 14:58 mail.google.com</li>
+<li> 14:47 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 14:45 mail.google.com</li>
+<li> 14:44 <a href="https://en.wikipedia.org/wiki/23andMe_data_leak">23andMe data leak - Wikipedia</a></li>
+<li> 14:44 <a href="https://en.wikipedia.org/w/index.php?title=23andMe_data_leak&action=history">23andMe data leak: Revision history - Wikipedia</a></li>
+<li> 14:43 <a href="https://en.wikipedia.org/wiki/23andMe_data_leak">23andMe data leak - Wikipedia</a></li>
+<li> 14:43 ico.org.uk</li>
+<li> 14:43 duckduckgo.com</li>
+<li> 14:42 www.computing.co.uk</li>
+<li> 14:41 duckduckgo.com</li>
+<li> 14:38 calculat.io</li>
+<li> 14:38 www.google.com</li>
+<li> 14:37 docs.google.com</li>
+<li> 14:36 drive.google.com</li>
+<li> 14:26 www.printables.com</li>
+<li class='same'> 14:25 www.printables.com</li>
+<li> 14:25 account.prusa3d.com</li>
+<li> 14:24 docs.google.com</li>
+<li> 14:24 drive.google.com</li>
+<li> 14:15 duckduckgo.com</li>
+<li> 14:05 www.printables.com</li>
+<li> 14:04 duckduckgo.com</li>
+<li> 13:55 <a href="https://www.theguardian.com/culture/ng-interactive/2025/aug/25/best-films-of-autumn-2025-spinal-tap-julia-roberts-paul-thomas-anderson">Spinal Tap II, Julia Roberts and Paul Thomas Anderson: the best films of autumn 2025 | Autumn arts preview 2025 | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 12:49 chatgpt.com</li>
+<li class='same'> 12:48 chatgpt.com</li>
+<li> 12:42 outlook.office365.com</li>
+<li> 12:42 login.microsoftonline.com</li>
+<li> 12:41 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:41 <a href="https://www.youtube.com/results?search_query=swimming+technique+for+juniors">(736) swimming technique for juniors - YouTube</a></li>
+<li> 12:40 <a href="https://www.youtube.com/">(769) YouTube</a></li>
+<li> 12:31 chatgpt.com</li>
+<li> 12:30 bbs.archlinux.org</li>
+<li> 12:29 forum.openwrt.org</li>
+<li> 12:29 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:59 duckduckgo.com</li>
+<li class='same'> 11:58 duckduckgo.com</li>
+<li class='same'> 11:48 duckduckgo.com</li>
+<li> 11:48 www.amazon.co.uk</li>
+<li> 11:48 duckduckgo.com</li>
+<li class='same'> 11:47 duckduckgo.com</li>
+<li> 11:46 www.printables.com</li>
+<li> 11:27 chatgpt.com</li>
+<li> 11:22 fast.com</li>
 <li> 11:15 outlook.office.com</li>
 <li class='same'> 11:14 outlook.office.com</li>
 <li> 10:57 chatgpt.com</li>
@@ -130,7 +4814,7 @@ With number of accesses/minutes in parentheses
 <li> 10:48 api-b6327e78.duosecurity.com</li>
 <li class='same'> 10:47 api-b6327e78.duosecurity.com</li>
 <li> 10:47 adfs.herts.ac.uk</li>
-<li> 10:40 <a href="https://stackoverflow.com/questions">Newest Questions - Stack Overflow</a></li>
+<li> 10:40 <a href="https://stackoverflow.com/questions">Recently Active Questions - Stack Overflow</a></li>
 <li> 10:40 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 <li> 10:35 chatgpt.com</li>
 <li> 10:34 duckduckgo.com</li>
@@ -140,14 +4824,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 09:42 www.reddit.com</li>
+<li class='same'> 09:40 www.reddit.com</li>
+<li class='same'> 09:29 www.reddit.com</li>
+<li> 09:28 www.google.com</li>
+<li> 09:28 www.reddit.com</li>
+<li> 09:28 www.google.com</li>
+<li> 09:27 <a href="https://www.theguardian.com/society/2025/aug/24/labour-abolish-most-short-prison-sentences-england-wales">Labour to abolish most short prison sentences in England and Wales | Prisons and probation | The Guardian</a></li>
+</ul>
+
+<br>
+
 <ul><li> 08:19 www.linkedin.com</li>
 <li> 08:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:18 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:18 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:17 <a href="https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka">Japan has opened its first osmotic power plant – so what is it and how does it work? | Japan | The Guardian</a></li>
 <li> 08:16 <a href="https://www.theguardian.com/us-news/2025/aug/25/epstein-accuser-virginia-giuffres-memoir-to-be-published-posthumously">Epstein accuser Virginia Giuffre’s memoir to be published posthumously | Jeffrey Epstein | The Guardian</a></li>
 <li> 08:16 adblockplus.org</li>
 <li> 08:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:16 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:16 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -164,9 +4859,9 @@ With number of accesses/minutes in parentheses
 <li> 06:38 mail.google.com</li>
 <li> 06:38 gmail.com</li>
 <li> 06:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:35 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:35 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:35 www.linkedin.com</li>
 <li> 06:35 www.reddit.com</li>
 <li class='same'> 06:34 www.reddit.com</li>
@@ -280,10 +4975,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 06:51 www.linkedin.com</li>
 <li class='same'> 06:50 www.linkedin.com</li>
 <li> 06:49 feedly.com</li>
+<li> 06:29 <a href="https://www.theguardian.com/commentisfree/2025/aug/23/gavin-newsom-trump-comedy">California’s governor has become an anti-Trump comedian. It’s 2017 all over again | Dave Schilling | The Guardian</a></li>
+<li class='same'> 06:26 <a href="https://www.theguardian.com/commentisfree/2025/aug/23/gavin-newsom-trump-comedy">California’s governor has become an anti-Trump comedian. It’s 2017 all over again | Dave Schilling | The Guardian</a></li>
 <li> 06:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:24 <a href="https://www.theguardian.com/culture/2025/aug/23/womens-groups-hail-noel-clarke-libel-defeat-as-victory-for-victims-and-press-freedom">Women’s groups hail Noel Clarke libel defeat as victory for victims and press freedom | Noel Clarke | The Guardian</a></li>
 <li> 06:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:24 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:24 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
@@ -412,7 +5109,7 @@ With number of accesses/minutes in parentheses
 <li> 06:50 www.reddit.com</li>
 <li class='same'> 06:48 www.reddit.com</li>
 <li> 06:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:45 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:45 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <H3>Friday, 22/08/25</H3>
@@ -435,11 +5132,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:40 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:40 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 14:38 <a href="https://www.theguardian.com/film/2025/aug/22/the-thursday-club-review-richard-osman-bestseller-provides-solid-star-stuffed-entertainment">The Thursday Murder Club review – Richard Osman bestseller provides solid, star-stuffed entertainment | Film | The Guardian</a></li>
 <li> 14:37 <a href="https://www.theguardian.com/books/2025/aug/22/children-and-teens-roundup-the-best-new-picture-books-and-novels">Children and teens roundup – the best new picture books and novels | Teen books | The Guardian</a></li>
 <li> 14:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:37 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:37 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 14:30 <a href="https://www.theguardian.com/media/2025/aug/22/noel-clarke-claimed-he-was-a-victim-twenty-six-witnesses-painted-a-very-different-picture">Noel Clarke claimed he was a victim. Twenty-six witnesses painted a very different picture | The Guardian | The Guardian</a></li>
 <li> 14:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 14:29 www.amazon.co.uk</li>
@@ -451,7 +5148,7 @@ With number of accesses/minutes in parentheses
 <li> 14:24 calendar.google.com</li>
 <li> 14:23 mail.google.com</li>
 <li> 14:23 gmail.com</li>
-<li> 14:23 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 14:23 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 14:22 www.reddit.com</li>
 <li class='same'> 14:21 www.reddit.com</li>
 <li class='same'> 14:20 www.reddit.com</li>
@@ -485,15 +5182,15 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:46 <a href="https://www.theguardian.com/film/2025/aug/22/love-is-great-but-then-one-of-you-will-be-dog-tired-and-doing-the-bins-benedict-cumberbatch-and-olivia-colman-on-how-to-survive-a-marriage">‘Love is great. But then one of you will be dog-tired and doing the bins’: Benedict Cumberbatch and Olivia Colman on how to survive a marriage | Film | The Guardian</a></li>
 <li> 07:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:45 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:38 <a href="https://www.youtube.com/watch?v=Db5TwCBnr38&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=69">(729) GCSE Maths: N2-45 [Examples of Adding Fractions with different Denominators] - YouTube</a></li>
+<li> 07:45 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
+<li> 07:38 <a href="https://www.youtube.com/watch?v=Db5TwCBnr38&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=69">(741) GCSE Maths: N2-45 [Examples of Adding Fractions with different Denominators] - YouTube</a></li>
 <li> 07:32 <a href="https://www.youtube.com/watch?v=UgnDCTKTIjI&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=68&t=145s">(729) GCSE Maths: N2-44 [Adding Fractions with different Denominators] - YouTube</a></li>
 <li> 07:32 <a href="https://www.youtube.com/playlist?list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(729) TEACHING GCSE Maths - YouTube</a></li>
-<li> 07:32 <a href="https://www.youtube.com/feed/playlists">(729) Playlists - YouTube</a></li>
-<li> 07:31 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
+<li> 07:32 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
+<li> 07:31 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
 <li> 07:31 sites.google.com</li>
 <li> 07:30 <a href="https://www.youtube.com/@TLMaths/playlists">(729) TLMaths - YouTube</a></li>
-<li> 07:30 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 07:30 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 </ul>
 
 <br>
@@ -524,7 +5221,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:33 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 19:33 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -552,7 +5249,7 @@ With number of accesses/minutes in parentheses
 <li> 15:04 kripken.github.io</li>
 <li class='same'> 15:03 kripken.github.io</li>
 <li> 14:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:34 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:34 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 14:34 outlook.office365.com</li>
 <li class='same'> 14:33 outlook.office365.com</li>
 </ul>
@@ -618,7 +5315,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:46 www.reddit.com</li>
 <li class='same'> 08:45 www.reddit.com</li>
 <li> 08:44 feedly.com</li>
-<li> 08:31 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:31 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:30 <a href="https://www.theguardian.com/us-news/2025/aug/20/jd-vance-heckled-washington-dc">JD Vance booed during hamburger handout to national guard troops in DC | JD Vance | The Guardian</a></li>
 <li> 08:29 <a href="https://www.theguardian.com/film/2025/aug/21/husband-affair-chinas-mistress-dispeller">If your husband’s having an affair, this woman will get rid of her: the gripping film about China’s ‘mistress dispellers’ | Film | The Guardian</a></li>
 </ul>
@@ -721,7 +5418,7 @@ With number of accesses/minutes in parentheses
 <li> 12:03 <a href="https://www.theguardian.com/world/2025/aug/20/new-zealand-fugitive-tom-phillips-children-hiding-nearly-four-years">Family of New Zealand fugitive on the run for almost four years with his children plead for his return | New Zealand | The Guardian</a></li>
 <li> 12:02 <a href="https://www.theguardian.com/business/nils-pratley-on-finance/2025/aug/19/asda-is-still-misfiring-in-supermarkets-non-existent-price-war">Asda is still misfiring in supermarkets’ non-existent price war | Nils Pratley | The Guardian</a></li>
 <li> 11:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:59 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:59 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:46 www.reddit.com</li>
 <li class='same'> 11:45 www.reddit.com</li>
 <li> 11:44 feedly.com</li>
@@ -729,10 +5426,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:42 www.linkedin.com</li>
 <li class='same'> 11:41 www.linkedin.com</li>
 <li> 11:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:41 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:41 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:41 <a href="https://www.theguardian.com/world/2025/aug/20/trans-people-us-data">More than 2.8m people in US identify as trans, including 724,000 youth, data shows | LGBTQ+ rights | The Guardian</a></li>
 <li> 11:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:40 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:40 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:39 www.reddit.com</li>
 <li class='same'> 11:38 www.reddit.com</li>
 <li> 11:38 mail.google.com</li>
@@ -752,17 +5449,17 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:39 www.linkedin.com</li>
 <li> 09:38 <a href="https://www.theguardian.com/lifeandstyle/2025/aug/20/a-moment-that-changed-me-i-slipped-in-the-shower-realised-i-was-exhausted-and-transformed-my-life">A moment that changed me: I slipped in the shower, realised I was exhausted – and transformed my life | Health | The Guardian</a></li>
 <li> 09:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:38 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 09:37 outlook.office.com</li>
 <li> 09:36 www.reddit.com</li>
 <li class='same'> 09:34 www.reddit.com</li>
 <li> 09:24 web.whatsapp.com</li>
 <li> 09:15 <a href="https://www.youtube.com/watch?v=rRGC8rKr_PY&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=54">(723) GCSE Maths: N2-30 [Working with Negative Numbers] - YouTube</a></li>
 <li> 09:09 <a href="https://www.youtube.com/watch?v=QgIwLfymPnc&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=53">(723) GCSE Maths: N2-29 [Examples of Division with Decimals] - YouTube</a></li>
-<li> 09:09 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
-<li> 09:09 <a href="https://www.youtube.com/feed/playlists">(729) Playlists - YouTube</a></li>
-<li> 09:09 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
-<li> 09:08 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 09:09 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 09:09 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
+<li> 09:09 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
+<li> 09:08 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 09:08 www.reddit.com</li>
 <li> 09:01 docs.google.com</li>
 </ul>
@@ -772,7 +5469,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:24 www.vice.com</li>
 <li> 08:24 www.nationalgeographic.com</li>
 <li> 08:22 <a href="https://www.theguardian.com/film/2025/aug/19/kevin-costner-lawsuit-horizon-stunt-performer?utm_source=firefox-newtab-en-gb">Kevin Costner calls lawsuit over on-set rape scene a ‘bold-faced lie’ | Kevin Costner | The Guardian</a></li>
-<li> 08:22 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:22 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:20 <a href="https://www.theguardian.com/football/2025/aug/20/can-any-club-match-liverpool-top-eight-finishes-the-knowledge">Can any club match Liverpool’s impressive run of top-eight finishes? | Football | The Guardian</a></li>
 <li> 08:19 www.reddit.com</li>
 <li class='same'> 08:18 www.reddit.com</li>
@@ -816,7 +5513,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:27 www.reddit.com</li>
 <li> 16:27 <a href="https://www.theguardian.com/uk-news/2025/aug/19/high-court-judge-orders-closure-of-essex-asylum-hotel-after-far-right-protests">Epping council wins high court bid to stop hotel housing asylum seekers | Immigration and asylum | The Guardian</a></li>
 <li> 16:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:27 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:27 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:24 www.reddit.com</li>
 <li class='same'> 16:21 www.reddit.com</li>
 <li class='same'> 16:19 www.reddit.com</li>
@@ -841,7 +5538,7 @@ With number of accesses/minutes in parentheses
 <li> 15:38 www.linkedin.com</li>
 <li> 15:17 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/19/great-british-bake-off-meet-the-contestants">From a ‘Yeastie Boy’ to the ultimate fairytale contestant: meet the stars of the 2025 Great British Bake Off | Television | The Guardian</a></li>
 <li> 15:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:17 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:17 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:15 outlook.office.com</li>
 <li> 15:15 m365.cloud.microsoft</li>
 <li> 15:15 login.microsoftonline.com</li>
@@ -926,7 +5623,7 @@ With number of accesses/minutes in parentheses
 <li> 11:56 duckduckgo.com</li>
 <li> 11:56 <a href="https://www.theguardian.com/environment/2025/aug/18/feargal-sharkey-accuses-environment-agency-of-illegally-draining-river-lea-court-action-threat-abstraction-fishing-club">Feargal Sharkey accuses Environment Agency of illegally draining River Lea | Environment Agency | The Guardian</a></li>
 <li> 11:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:54 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:54 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:54 docs.google.com</li>
 <li> 11:54 duckduckgo.com</li>
 <li class='same'> 11:53 duckduckgo.com</li>
@@ -963,7 +5660,7 @@ With number of accesses/minutes in parentheses
 <li> 10:35 duckduckgo.com</li>
 <li> 10:30 outlook.office.com</li>
 <li> 10:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:25 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:25 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:25 outlook.office.com</li>
 <li> 10:25 m365.cloud.microsoft</li>
 <li> 10:25 login.microsoftonline.com</li>
@@ -986,7 +5683,7 @@ With number of accesses/minutes in parentheses
 <li> 07:43 chat.openai.com</li>
 <li> 07:40 feedly.com</li>
 <li> 07:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:26 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:26 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:24 www.reddit.com</li>
 <li class='same'> 07:23 www.reddit.com</li>
 <li> 07:22 www.linkedin.com</li>
@@ -1065,7 +5762,7 @@ With number of accesses/minutes in parentheses
 <li> 13:13 www.reddit.com</li>
 <li class='same'> 13:12 www.reddit.com</li>
 <li> 13:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:12 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:12 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:11 outlook.office365.com</li>
 <li class='same'> 13:10 outlook.office365.com</li>
 </ul>
@@ -1076,7 +5773,7 @@ With number of accesses/minutes in parentheses
 <li> 12:32 calendar.google.com</li>
 <li> 12:30 www.linkedin.com</li>
 <li> 12:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:28 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:28 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:25 calendar.google.com</li>
 <li class='same'> 12:24 calendar.google.com</li>
 <li class='same'> 12:23 calendar.google.com</li>
@@ -1091,7 +5788,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:44 www.linkedin.com</li>
 <li class='same'> 11:43 www.linkedin.com</li>
 <li> 11:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:29 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:29 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:27 outlook.office365.com</li>
 <li> 11:27 jobs.royalholloway.ac.uk</li>
 <li class='same'> 11:26 jobs.royalholloway.ac.uk</li>
@@ -1131,7 +5828,7 @@ With number of accesses/minutes in parentheses
 <li> 10:02 duckduckgo.com</li>
 <li> 09:51 <a href="https://www.theguardian.com/books/2025/aug/18/skibidi-delulu-and-tradwife-among-words-added-to-cambridge-dictionary">‘Skibidi’, ‘delulu’ and ‘tradwife’ among words added to Cambridge Dictionary | Books | The Guardian</a></li>
 <li> 09:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:51 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:51 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 09:50 mail.google.com</li>
 <li> 09:50 appealpcn.co.uk</li>
 <li> 09:48 mail.google.com</li>
@@ -1147,7 +5844,7 @@ With number of accesses/minutes in parentheses
 <li> 09:39 gmail.com</li>
 <li> 09:39 <a href="https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis">‘Shut it down and start again’: staff disquiet as Alan Turing Institute faces identity crisis | Artificial intelligence (AI) | The Guardian</a></li>
 <li> 09:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:38 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 09:36 www.amazon.co.uk</li>
 <li class='same'> 09:35 www.amazon.co.uk</li>
 <li class='same'> 09:34 www.amazon.co.uk</li>
@@ -1167,10 +5864,10 @@ With number of accesses/minutes in parentheses
 <li> 09:25 accounts.google.com</li>
 <li> 09:25 gmail.com</li>
 <li> 09:10 <a href="https://www.youtube.com/watch?v=QgIwLfymPnc&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=53">(723) GCSE Maths: N2-29 [Examples of Division with Decimals] - YouTube</a></li>
-<li> 09:09 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
-<li> 09:09 <a href="https://www.youtube.com/feed/playlists">(729) Playlists - YouTube</a></li>
-<li> 09:09 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
-<li> 09:09 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 09:09 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 09:09 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
+<li> 09:09 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
+<li> 09:09 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 08:52 docs.google.com</li>
 <li> 08:52 drive.google.com</li>
 <li> 08:38 docs.google.com</li>
@@ -1188,7 +5885,7 @@ With number of accesses/minutes in parentheses
 <li> 08:24 outlook.office365.com</li>
 <li> 08:22 outlook.office.com</li>
 <li> 08:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:17 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:17 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:15 web.whatsapp.com</li>
 <li> 08:15 outlook.office.com</li>
 <li> 08:10 herts365-my.sharepoint.com</li>
@@ -1227,7 +5924,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:29 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<ul><li> 17:29 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 </ul>
 
 <br>
@@ -1239,7 +5936,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:11 <a href="https://www.theguardian.com/us-news/2025/aug/16/west-virginia-national-guard-troops-dc-trump">Three states to deploy hundreds of national guard troops to Washington DC | Trump administration | The Guardian</a></li>
 <li> 13:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:09 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:09 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:09 adblockplus.org</li>
 <li> 13:08 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 </ul>
@@ -1403,7 +6100,7 @@ With number of accesses/minutes in parentheses
 <li> 14:34 mail.google.com</li>
 <li class='same'> 14:33 mail.google.com</li>
 <li> 14:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:32 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:32 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 14:31 www.thetimes.com</li>
 <li> 14:30 <a href="https://www.theguardian.com/commentisfree/2025/aug/14/university-teenagers-student-debt-graduate-britain">As thousands more teenagers scramble for university places, I have to ask – why? | Simon Jenkins | The Guardian</a></li>
 <li> 14:29 <a href="https://www.theguardian.com/books/2025/apr/23/luminous-by-silvia-park-review-a-major-new-voice-in-sf">Luminous by Silvia Park review – a major new voice in SF | Science fiction books | The Guardian</a></li>
@@ -1524,7 +6221,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:04 herts.instructure.com</li>
 <li> 11:04 outlook.office.com</li>
 <li> 11:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:03 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:03 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:01 outlook.office.com</li>
 <li> 10:55 herts.instructure.com</li>
 <li> 10:55 calendar.google.com</li>
@@ -1581,7 +6278,7 @@ With number of accesses/minutes in parentheses
 <li> 09:50 api-b6327e78.duosecurity.com</li>
 <li> 09:50 adfs.herts.ac.uk</li>
 <li> 09:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:50 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:50 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -1648,7 +6345,7 @@ With number of accesses/minutes in parentheses
 <li> 06:23 login.microsoftonline.com</li>
 <li> 06:23 outlook.office365.com</li>
 <li> 06:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:22 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:22 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:22 api-b6327e78.duosecurity.com</li>
 <li> 06:22 adfs.herts.ac.uk</li>
 <li> 06:20 rhul.sharepoint.com</li>
@@ -1692,9 +6389,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 12:11 <a href="https://www.theguardian.com/uk-news/2025/aug/14/southport-victim-reveal-ethnicity-suspects-farage">Family of Southport stabbing victim criticise plan to reveal ethnicity of suspects | UK news | The Guardian</a></li>
-<li> 12:11 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:11 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:11 <a href="https://www.theguardian.com/uk-news/2025/aug/14/southport-victim-reveal-ethnicity-suspects-farage">Family of Southport stabbing victim criticise plan to reveal ethnicity of suspects | UK news | The Guardian</a></li>
-<li> 12:11 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:11 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:11 <a href="https://www.theguardian.com/uk-news/2025/aug/14/southport-victim-reveal-ethnicity-suspects-farage">Family of Southport stabbing victim criticise plan to reveal ethnicity of suspects | UK news | The Guardian</a></li>
 </ul>
 
@@ -1732,7 +6429,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 13:51 <a href="https://www.theguardian.com/money/2025/aug/13/inheritance-tax-how-does-it-work-and-what-may-be-changing">Inheritance tax: how does it work and what may be changing? | Inheritance tax | The Guardian</a></li>
 <li> 13:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:50 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:50 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:50 <a href="https://www.theguardian.com/law/2025/aug/13/trump-administration-accuses-uk-of-failing-to-uphold-human-rights">Trump administration accuses UK of failing to uphold human rights | Trump administration | The Guardian</a></li>
 <li class='same'> 13:31 <a href="https://www.theguardian.com/law/2025/aug/13/trump-administration-accuses-uk-of-failing-to-uphold-human-rights">Trump administration accuses UK of failing to uphold human rights | Trump administration | The Guardian</a></li>
 <li> 13:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -1818,7 +6515,7 @@ With number of accesses/minutes in parentheses
 <li> 08:53 www.reddit.com</li>
 <li> 08:52 <a href="https://www.theguardian.com/education/2025/aug/11/a-level-results-in-england-expected-to-return-to-near-pre-pandemic-levels">A-level results in England expected to return to near pre-pandemic levels | A-levels | The Guardian</a></li>
 <li> 08:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:52 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:44 www.reddit.com</li>
 <li class='same'> 08:43 www.reddit.com</li>
 <li class='same'> 08:41 www.reddit.com</li>
@@ -1846,7 +6543,7 @@ With number of accesses/minutes in parentheses
 <li> 06:49 moodle.royalholloway.ac.uk</li>
 <li> 06:49 login.microsoftonline.com</li>
 <li> 06:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:49 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:49 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:49 login.microsoftonline.com</li>
 <li> 06:49 moodle.royalholloway.ac.uk</li>
 <li class='same'> 06:48 moodle.royalholloway.ac.uk</li>
@@ -1866,7 +6563,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:20 <a href="https://www.theguardian.com/commentisfree/2025/aug/10/you-can-mute-but-you-can-never-leave-why-have-whatsapp-groups-become-so-stressful">You can mute – but you can never leave. Why have WhatsApp groups become so stressful? | Polly Hudson | The Guardian</a></li>
-<li> 14:20 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:20 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -1900,7 +6597,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:30 feedly.com</li>
 <li> 08:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:30 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:30 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:26 www.linkedin.com</li>
 <li class='same'> 08:25 www.linkedin.com</li>
 <li> 08:05 duckduckgo.com</li>
@@ -1911,7 +6608,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:09 rhul-my.sharepoint.com</li>
 <li class='same'> 07:08 rhul-my.sharepoint.com</li>
 <li> 07:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:01 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:01 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:59 mail.google.com</li>
 </ul>
 
@@ -1960,7 +6657,7 @@ With number of accesses/minutes in parentheses
 <li> 07:46 outlook.office.com</li>
 <li> 07:45 <a href="https://www.theguardian.com/politics/2025/aug/07/uk-homelessness-minister-rushanara-ali-faces-calls-to-resign-over-tenant-eviction-claims">UK homelessness minister resigns after tenant eviction claims | Labour | The Guardian</a></li>
 <li> 07:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:45 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:45 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:44 outlook.office365.com</li>
 <li> 07:44 outlook.office.com</li>
 <li class='same'> 07:43 outlook.office.com</li>
@@ -1982,8 +6679,8 @@ With number of accesses/minutes in parentheses
 <li> 07:21 duckduckgo.com</li>
 <li> 07:00 <a href="https://www.youtube.com/watch?v=ciEtP-gidkg">(686) GCSE Maths: N2-23 [Examples of Division: Going into Decimals] - YouTube</a></li>
 <li> 07:00 <a href="https://www.youtube.com/watch?v=hq7iY6mrJko">(686) GCSE Maths: N2-22 [Division: Going into Decimals] - YouTube</a></li>
-<li> 07:00 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
-<li> 07:00 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 07:00 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
+<li> 07:00 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 06:34 www.facebook.com</li>
 <li> 06:34 www.reddit.com</li>
 <li class='same'> 06:32 www.reddit.com</li>
@@ -2009,7 +6706,7 @@ With number of accesses/minutes in parentheses
 <li> 06:19 moodle.royalholloway.ac.uk</li>
 <li> 06:17 <a href="https://www.theguardian.com/us-news/2025/aug/07/disney-settles-gina-carano-elon-musk">Disney settles with Gina Carano in lawsuit backed by Elon Musk | US news | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:17 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:17 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <H3>Thursday, 07/08/25</H3>
@@ -2046,7 +6743,7 @@ With number of accesses/minutes in parentheses
 <li> 18:25 outlook.office365.com</li>
 <li class='same'> 18:21 outlook.office365.com</li>
 <li> 18:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:03 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:03 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:03 <a href="https://www.theguardian.com/us-news/2025/jul/27/epstein-trump-murdoch-wsj-fox-news">Has the Epstein affair strained Trump’s cozy relationship with the Murdoch media empire? | Donald Trump | The Guardian</a></li>
 <li> 18:01 www.lutongymnastics.co.uk</li>
 <li> 18:01 www.google.com</li>
@@ -2153,7 +6850,7 @@ With number of accesses/minutes in parentheses
 <li> 11:41 adfs.herts.ac.uk</li>
 <li> 11:38 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/07/former-superman-actor-dean-cain-reveals-hes-becoming-an-ice-agent-to-support-trumps-mass-deportation-agenda">Former Superman actor Dean Cain reveals he’s becoming an Ice agent to support Trump’s mass deportation agenda | Television | The Guardian</a></li>
 <li> 11:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:38 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:38 forms.office.com</li>
 <li> 11:38 login.microsoftonline.com</li>
 <li> 11:38 rhul-my.sharepoint.com</li>
@@ -2184,7 +6881,7 @@ With number of accesses/minutes in parentheses
 <li> 11:14 www.linkedin.com</li>
 <li class='same'> 11:13 www.linkedin.com</li>
 <li> 11:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:12 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:12 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:12 outlook.office365.com</li>
 <li> 11:11 forms.office.com</li>
 <li> 11:11 rhul-my.sharepoint.com</li>
@@ -2280,10 +6977,10 @@ With number of accesses/minutes in parentheses
 <li> 07:35 chat.openai.com</li>
 <li> 07:31 <a href="https://www.youtube.com/watch?v=hq7iY6mrJko&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=46">(685) GCSE Maths: N2-22 [Division: Going into Decimals] - YouTube</a></li>
 <li> 07:27 <a href="https://www.youtube.com/watch?v=Y94Hj0owDgc&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=45">(684) GCSE Maths: N2-21 [Examples of Division with Integers] - YouTube</a></li>
-<li> 07:26 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
-<li> 07:26 <a href="https://www.youtube.com/feed/playlists">(729) Playlists - YouTube</a></li>
-<li> 07:26 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
-<li> 07:25 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 07:26 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 07:26 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
+<li> 07:26 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
+<li> 07:25 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 </ul>
 
 <br>
@@ -2334,7 +7031,7 @@ With number of accesses/minutes in parentheses
 <li> 15:39 <a href="https://www.bbc.co.uk/news/articles/c1dxr1g4y7yo">Trump hits India with extra 25% tariff for buying Russian oil - BBC News</a></li>
 <li> 15:38 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 15:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:38 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:37 ce0997li.webitrent.com</li>
 <li> 15:37 login.microsoftonline.com</li>
 <li> 15:37 ce0997li.webitrent.com</li>
@@ -2361,13 +7058,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:07 www.reddit.com</li>
 <li class='same'> 15:06 www.reddit.com</li>
 <li> 15:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:06 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:06 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:06 <a href="https://www.theguardian.com/business/2025/aug/06/sales-of-novo-nordisk-diabetes-drugs-including-ozempic-slow-sharply">Sales of Novo Nordisk’s diabetes drugs including Ozempic slow sharply | Pharmaceuticals industry | The Guardian</a></li>
 <li> 15:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:05 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:05 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:05 <a href="https://www.theguardian.com/us-news/2025/aug/05/rfk-jr-hhs-mrna-vaccine-research">RFK Jr’s health department to halt $500m in mRNA vaccine research | Trump administration | The Guardian</a></li>
 <li> 15:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:04 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:04 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 14:57 mail.google.com</li>
 <li> 14:57 calendar.google.com</li>
 <li> 14:57 mail.google.com</li>
@@ -2462,7 +7159,7 @@ With number of accesses/minutes in parentheses
 <li> 08:52 <a href="https://www.youtube.com/watch?v=Y94Hj0owDgc">(683) GCSE Maths: N2-21 [Examples of Division with Integers] - YouTube</a></li>
 <li> 08:49 <a href="https://www.youtube.com/watch?v=hwRaqcDdZ88">(683) GCSE Maths: N2-20 [Method of Division with Integers] - YouTube</a></li>
 <li> 08:48 <a href="https://www.youtube.com/watch?v=Sf-wOuED4fg&t=4s">(683) GCSE Maths: N2-19 [Examples of Multiplication with Decimals] - YouTube</a></li>
-<li> 08:42 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 08:42 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 </ul>
 
 <br>
@@ -2489,11 +7186,11 @@ With number of accesses/minutes in parentheses
 <li> 07:38 gmail.com</li>
 <li> 07:34 <a href="https://www.theguardian.com/commentisfree/2025/aug/05/how-did-john-oliver-become-the-moral-compass-of-the-us">How did John Oliver become the moral compass of the US? | Arwa Mahdawi | The Guardian</a></li>
 <li> 07:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:33 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:33 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:31 <a href="https://www.theguardian.com/us-news/2025/aug/05/jeffrey-epstein-letters-photos">Epstein scandal broadens as trove of letters from famous figures published | Jeffrey Epstein | The Guardian</a></li>
 <li> 07:30 <a href="https://www.theguardian.com/uk-news/2025/aug/06/prince-harry-among-those-criticised-in-report-on-dispute-at-sentebale-charity">Prince Harry among those criticised in report on dispute at Sentebale charity | Prince Harry | The Guardian</a></li>
 <li> 07:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:30 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:30 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:25 feedly.com</li>
 <li> 07:24 www.linkedin.com</li>
 <li> 07:10 warhammer40k.fandom.com</li>
@@ -2521,13 +7218,13 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:44 <a href="https://www.theguardian.com/commentisfree/2025/aug/05/sydney-sweeney-jeans-bathwater-controversy-showbiz">Jeans, controversy, used bathwater: Sydney Sweeney’s selling it all. A showbiz masterclass, if you ask me | Marina Hyde | The Guardian</a></li>
 <li> 16:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:43 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:43 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:43 calendar.google.com</li>
 <li> 16:42 mail.google.com</li>
 <li> 16:41 thegalleria.co.uk</li>
 <li> 16:41 duckduckgo.com</li>
 <li> 16:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:37 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:37 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:35 herts365-my.sharepoint.com</li>
 <li> 16:34 www.nhs.uk</li>
 <li> 16:34 duckduckgo.com</li>
@@ -2650,7 +7347,7 @@ With number of accesses/minutes in parentheses
 <li> 09:13 www.reddit.com</li>
 <li class='same'> 09:00 www.reddit.com</li>
 <li> 08:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:59 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:59 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:54 www.linkedin.com</li>
 <li> 08:50 www.reddit.com</li>
 <li class='same'> 08:47 www.reddit.com</li>
@@ -2662,11 +7359,11 @@ With number of accesses/minutes in parentheses
 <li> 08:34 login.microsoftonline.com</li>
 <li> 08:34 rhul.hosted.panopto.com</li>
 <li> 08:22 <a href="https://www.youtube.com/watch?v=u4D0FnEFHwA&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=42">(682) GCSE Maths: N2-18 [Method of Multiplication with Decimals] - YouTube</a></li>
-<li> 08:22 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
-<li> 08:22 <a href="https://www.youtube.com/feed/playlists">(729) Playlists - YouTube</a></li>
-<li> 08:21 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
+<li> 08:22 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 08:22 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
+<li> 08:21 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
 <li> 08:21 duckduckgo.com</li>
-<li> 08:21 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 08:21 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 08:07 www.linkedin.com</li>
 <li> 08:06 <a href="https://www.theguardian.com/sport/2025/aug/04/f1-2025-end-of-term-report-card-as-drivers-head-for-their-summer-break">F1 2025: end-of-term report card as drivers head for their summer break | Formula One | The Guardian</a></li>
 <li> 08:05 herts365-my.sharepoint.com</li>
@@ -2704,7 +7401,7 @@ With number of accesses/minutes in parentheses
 <li> 07:05 login.microsoftonline.com</li>
 <li> 07:05 herts365-my.sharepoint.com</li>
 <li> 06:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:41 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:41 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:40 www.linkedin.com</li>
 <li> 06:39 www.reddit.com</li>
 <li class='same'> 06:37 www.reddit.com</li>
@@ -2712,7 +7409,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:35 www.linkedin.com</li>
 <li> 06:33 adblockplus.org</li>
 <li> 06:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:33 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:33 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:33 www.amazon.co.uk</li>
 <li class='same'> 06:32 www.amazon.co.uk</li>
 </ul>
@@ -2766,7 +7463,7 @@ With number of accesses/minutes in parentheses
 <li> 15:48 <a href="https://www.theguardian.com/world/2025/aug/04/rescued-british-hiker-billed-14225-for-ignoring-rockslide-signs-in-dolomites">Rescued British hiker billed €14,225 for ignoring rockslide signs in Dolomites | Italy | The Guardian</a></li>
 <li> 15:45 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/04/from-emily-in-friends-to-che-diaz-the-tv-characters-so-bad-that-they-ruined-shows">From Emily in Friends to Che Diaz: the TV characters so bad that they ruined shows | Television | The Guardian</a></li>
 <li> 15:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:44 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:44 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:41 feedly.com</li>
 <li> 15:22 www.reddit.com</li>
 <li class='same'> 15:14 www.reddit.com</li>
@@ -2858,7 +7555,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:09 studylink.com</li>
 <li> 09:07 www.foxnews.com</li>
-<li> 09:06 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 09:06 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 09:05 mail.google.com</li>
 <li class='same'> 09:02 mail.google.com</li>
 <li> 09:02 gmail.com</li>
@@ -2877,7 +7574,7 @@ With number of accesses/minutes in parentheses
 <li> 08:24 www.linkedin.com</li>
 <li> 08:19 www.google.com</li>
 <li> 08:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:17 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:17 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:17 <a href="https://www.theguardian.com/world/2025/aug/02/schwuz-berlin-germany-oldest-biggest-gay-nightclub-declares-bankruptcy">Germany’s ‘oldest and biggest’ gay nightclub declares bankruptcy | Germany | The Guardian</a></li>
 </ul>
 
@@ -2943,10 +7640,10 @@ With number of accesses/minutes in parentheses
 <li> 21:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 21:51 www.linkedin.com</li>
 <li> 21:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 21:51 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:51 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 21:50 <a href="https://www.theguardian.com/uk-news/2025/aug/03/prince-harry-denies-giving-prince-andrew-bloody-nose-at-family-gathering">Prince Harry denies giving Prince Andrew bloody nose at family gathering | Monarchy | The Guardian</a></li>
 <li> 21:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 21:49 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:49 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 21:49 www.reddit.com</li>
 <li class='same'> 21:48 www.reddit.com</li>
 <li class='same'> 21:47 www.reddit.com</li>
@@ -3016,7 +7713,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:58 www.reddit.com</li>
 <li class='same'> 12:53 www.reddit.com</li>
 <li> 12:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:52 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:52 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:45 www.reddit.com</li>
 <li class='same'> 12:44 www.reddit.com</li>
 <li class='same'> 12:29 www.reddit.com</li>
@@ -3061,7 +7758,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:56 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<ul><li> 07:56 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 07:54 www.reddit.com</li>
 <li class='same'> 07:53 www.reddit.com</li>
 <li class='same'> 07:51 www.reddit.com</li>
@@ -3072,7 +7769,7 @@ With number of accesses/minutes in parentheses
 <li> 07:40 www.reddit.com</li>
 <li> 07:39 feedly.com</li>
 <li> 07:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:33 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:33 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:07 www.linkedin.com</li>
 <li class='same'> 07:06 www.linkedin.com</li>
 </ul>
@@ -3086,9 +7783,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 22:18 <a href="https://www.theguardian.com/world/2025/aug/02/schwuz-berlin-germany-oldest-biggest-gay-nightclub-declares-bankruptcy">Germany’s ‘oldest and biggest’ gay nightclub declares bankruptcy | Germany | The Guardian</a></li>
-<li> 22:16 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:16 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 22:16 <a href="https://www.theguardian.com/thefilter/2025/aug/02/best-supermarket-salted-crisps-taste-test-felicity-cloake">‘Serve me these with an aperitivo immediately’: the best supermarket salted crisps, rated by Felicity Cloake | Snacks | The Guardian</a></li>
-<li> 22:16 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:16 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 22:16 <a href="https://www.theguardian.com/football/2025/aug/02/the-soundtrack-of-the-womens-euros-was-happiness-and-some-men-cant-cope">The soundtrack of the women’s Euros was happiness … and some men can’t cope | England women's football team | The Guardian</a></li>
 <li> 22:15 www.reddit.com</li>
 <li> 22:00 www.linkedin.com</li>
@@ -3140,7 +7837,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:30 outlook.office.com</li>
 <li> 17:22 docs.google.com</li>
 <li> 17:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:14 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:14 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:14 drive.google.com</li>
 <li> 17:11 www.linkedin.com</li>
 <li> 17:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -3200,10 +7897,10 @@ With number of accesses/minutes in parentheses
 <li> 15:24 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 15:22 <a href="https://www.theguardian.com/music/2025/aug/01/tyler-ballgame-music-interview-new-car-help-me-out-sarah">US singer-songwriter Tyler Ballgame: ‘It shocked me out of depression. I had this spiritual awakening’ | Music | The Guardian</a></li>
 <li> 15:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:21 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:21 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:18 <a href="https://www.theguardian.com/technology/2025/aug/02/airbnb-guest-damage-claim-refund-photos">Airbnb guest says images were altered in false £12,000 damage claim | Airbnb | The Guardian</a></li>
 <li> 15:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:18 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:18 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:16 www.linkedin.com</li>
 <li class='same'> 15:15 www.linkedin.com</li>
 </ul>
@@ -3229,7 +7926,7 @@ With number of accesses/minutes in parentheses
 <li> 13:50 chat.openai.com</li>
 <li> 13:45 www.linkedin.com</li>
 <li> 13:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:42 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:42 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:40 tvtropes.org</li>
 <li> 13:38 www.linkedin.com</li>
 <li class='same'> 13:37 www.linkedin.com</li>
@@ -3365,7 +8062,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:37 tvtropes.org</li>
 <li> 17:37 duckduckgo.com</li>
 <li> 17:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:37 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:37 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:36 www.reddit.com</li>
 <li class='same'> 17:34 www.reddit.com</li>
 <li class='same'> 17:28 www.reddit.com</li>
@@ -3377,7 +8074,7 @@ With number of accesses/minutes in parentheses
 <li> 17:23 www.linkedin.com</li>
 <li class='same'> 17:22 www.linkedin.com</li>
 <li> 17:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:20 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:20 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -3409,10 +8106,10 @@ With number of accesses/minutes in parentheses
 <li> 11:28 outlook.office365.com</li>
 <li> 11:27 www.facebook.com</li>
 <li> 11:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:27 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:27 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:26 <a href="https://www.theguardian.com/education/2025/aug/01/china-backed-centres-at-uk-universities-under-threat-from-new-free-speech-laws">China-backed centres at UK universities under threat from new free speech laws | Higher education | The Guardian</a></li>
 <li> 11:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:24 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:24 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:23 www.reddit.com</li>
 <li class='same'> 11:22 www.reddit.com</li>
 <li class='same'> 11:21 www.reddit.com</li>
@@ -3476,10 +8173,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 22:51 www.reddit.com</li>
 <li> 22:50 feedly.com</li>
 <li> 22:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 22:49 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:49 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 22:39 <a href="https://www.theguardian.com/society/2025/jul/31/mary-ann-stephenson-confirmed-as-ehrc-chair-despite-mps-objections">Mary-Ann Stephenson confirmed as EHRC chair despite MPs’ objections | Equality and Human Rights Commission (EHRC) | The Guardian</a></li>
 <li> 22:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 22:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:38 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 22:38 www.linkedin.com</li>
 <li class='same'> 22:30 www.linkedin.com</li>
 </ul>
@@ -3643,7 +8340,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:33 docs.google.com</li>
 <li> 17:33 drive.google.com</li>
 <li> 17:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:32 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:32 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:32 <a href="https://www.theguardian.com/football/2025/jul/30/everton-transfer-ownership-of-goodison-park-to-their-womens-team">Everton transfer ownership of Goodison Park to their women’s team | Everton Women | The Guardian</a></li>
 <li> 17:30 intranet.royalholloway.ac.uk</li>
 <li> 17:30 duckduckgo.com</li>
@@ -3657,25 +8354,25 @@ With number of accesses/minutes in parentheses
 <li> 17:20 sweeneysflorist.co.uk</li>
 <li> 17:19 duckduckgo.com</li>
 <li> 17:19 calendar.google.com</li>
-<li> 17:17 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:17 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:14 <a href="https://www.theguardian.com/football/2025/jul/30/everton-transfer-ownership-of-goodison-park-to-their-womens-team">Everton transfer ownership of Goodison Park to their women’s team | Everton Women | The Guardian</a></li>
 <li> 17:12 <a href="https://www.theguardian.com/film/2025/jul/30/the-naked-gun-review-liam-neeson-spoof-reboot">The Naked Gun review – Liam Neeson deadpans impeccably in outrageously amusing spoof reboot | Film | The Guardian</a></li>
-<li> 17:11 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:11 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 16:16 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 16:16 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:14 www.reddit.com</li>
 <li class='same'> 16:13 www.reddit.com</li>
 <li class='same'> 16:12 www.reddit.com</li>
 <li> 16:06 <a href="https://www.theguardian.com/world/2025/jul/30/tsunami-warning-watch-alert-japan-guam-pacific-russia-earthquake">Tsunami alerts from Japan to US after powerful earthquake off Russia | Earthquakes | The Guardian</a></li>
 <li> 15:48 <a href="https://www.youtube.com/watch?v=fJyAIA36H9w&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=42">(673) GCSE Maths: N2-17 [Examples of Multiplication with Integers] - YouTube</a></li>
 <li> 15:48 <a href="https://www.youtube.com/watch?v=fJyAIA36H9w&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=41">GCSE Maths: N2-17 [Examples of Multiplication with Integers] - YouTube</a></li>
-<li> 15:48 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
-<li> 15:48 <a href="https://www.youtube.com/feed/playlists">(729) Playlists - YouTube</a></li>
-<li> 15:48 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
-<li> 15:48 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 15:48 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 15:48 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
+<li> 15:48 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
+<li> 15:48 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 15:42 www.reddit.com</li>
 <li class='same'> 15:39 www.reddit.com</li>
 <li class='same'> 15:37 www.reddit.com</li>
@@ -3694,7 +8391,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 13:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 13:47 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:47 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:38 <a href="https://www.theguardian.com/film/2025/jul/30/superhero-movies-hits-dc-marvel-mistakes">Superhero movies are hits again – but can DC and Marvel avoid the same mistakes? | Superhero movies | The Guardian</a></li>
 <li> 13:37 tvtropes.org</li>
 </ul>
@@ -3856,7 +8553,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:37 outlook.office365.com</li>
 <li> 09:34 www.linkedin.com</li>
 <li> 09:33 outlook.office.com</li>
-<li> 09:32 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:32 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 09:30 www.reddit.com</li>
 <li class='same'> 09:27 www.reddit.com</li>
 <li class='same'> 09:26 www.reddit.com</li>
@@ -3865,7 +8562,7 @@ With number of accesses/minutes in parentheses
 <li> 09:23 outlook.office.com</li>
 <li class='same'> 08:59 outlook.office.com</li>
 <li> 08:52 www.foxnews.com</li>
-<li> 08:50 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:50 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:50 outlook.office.com</li>
 <li class='same'> 08:49 outlook.office.com</li>
 </ul>
@@ -3886,12 +8583,12 @@ With number of accesses/minutes in parentheses
 <li> 08:02 api-b6327e78.duosecurity.com</li>
 <li> 08:02 adfs.herts.ac.uk</li>
 <li> 07:59 <a href="https://www.youtube.com/watch?v=SphNzjoqY_Y&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=40">(673) GCSE Maths: N2-16 [Method of Multiplication with Integers] - YouTube</a></li>
-<li> 07:59 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
-<li> 07:59 <a href="https://www.youtube.com/feed/playlists">(729) Playlists - YouTube</a></li>
+<li> 07:59 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 07:59 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
 <li> 07:58 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg">(673) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 07:58 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&embeds_referring_euri=https%3A%2F%2Fsites.google.com%2F&source_ve_path=OTY3MTQ">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 07:58 sites.google.com</li>
-<li> 07:57 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 07:57 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 07:57 sites.google.com</li>
 <li> 07:55 outlook.office365.com</li>
 <li> 07:54 discord.com</li>
@@ -3930,7 +8627,7 @@ With number of accesses/minutes in parentheses
 <li> 07:38 <a href="https://www.youtube.com/@TLMaths/playlists">(729) TLMaths - YouTube</a></li>
 <li> 07:37 <a href="https://www.youtube.com/@TLMaths/videos">(673) TLMaths - YouTube</a></li>
 <li> 07:37 <a href="https://www.youtube.com/@TLMaths">(673) TLMaths - YouTube</a></li>
-<li> 07:37 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 07:37 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 07:35 web.whatsapp.com</li>
 <li> 07:35 duckduckgo.com</li>
 <li> 07:35 calendar.google.com</li>
@@ -3949,7 +8646,7 @@ With number of accesses/minutes in parentheses
 <li> 07:25 <a href="https://www.theguardian.com/football/2025/jul/29/lionesses-roar-england-fans-celebrate-euros-win-london">‘Lionesses hear the roar’: 65,000 England fans celebrate Euros win in London | England women's football team | The Guardian</a></li>
 <li> 07:25 calendar.google.com</li>
 <li> 07:25 mail.google.com</li>
-<li> 07:24 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:24 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:22 mail.google.com</li>
 <li class='same'> 07:21 mail.google.com</li>
 <li> 07:16 thebookerprizes.substack.com</li>
@@ -4105,11 +8802,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:45 www.reddit.com</li>
 <li> 19:43 <a href="https://www.theguardian.com/film/2025/jul/28/motherboard-mother-who-filmed-her-sons-entire-childhood">‘Mum, I can’t think straight any more’: the mother who filmed her son’s entire childhood | Film | The Guardian</a></li>
 <li> 19:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:42 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:42 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 19:41 <a href="https://www.theguardian.com/us-news/live/2025/jul/28/donald-trump-uk-prime-minister-keir-starmer-scotland-talks-trade-us-politics-latest-updates-news">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
 <li> 19:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 19:40 <a href="https://www.theguardian.com/sport/2025/jul/28/england-euro-2025-win-lionesses-what-the-papers-newspaper-front-pages">‘Roar of victory’: what the papers say about the Lionesses’ Euro win | Sport | The Guardian</a></li>
-<li> 19:40 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:40 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 19:40 ribena.co.uk</li>
 <li class='same'> 19:13 ribena.co.uk</li>
 <li> 19:13 <a href="https://www.theguardian.com/sport/2025/jul/28/england-euro-2025-win-lionesses-what-the-papers-newspaper-front-pages">‘Roar of victory’: what the papers say about the Lionesses’ Euro win | Sport | The Guardian</a></li>
@@ -4223,11 +8920,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:52 www.google.com</li>
-<li> 21:51 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:51 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 21:45 <a href="https://www.theguardian.com/news/ng-interactive/2025/jul/26/dodgy-guys-who-dress-just-like-him-meet-the-team-behind-far-right-activist-tommy-robinson">‘Dodgy guys who dress just like him’: meet the team behind far-right activist Tommy Robinson | Tommy Robinson | The Guardian</a></li>
-<li> 21:45 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:45 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 21:44 <a href="https://www.theguardian.com/uk-news/2025/jul/26/bishop-interrupts-church-concert-telling-choir-to-leave-due-to-late-hour">‘Terrible racket’: bishop in dressing gown shuts down London choir concert | London | The Guardian</a></li>
-<li> 21:44 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:44 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 21:44 <a href="https://www.theguardian.com/artanddesign/2025/jul/02/parque-prado-multi-storey-car-park-garden-paradise-colombia">The enchanted car park: how a ruined multistorey became a garden paradise loved by lizards and dog-walkers | Architecture | The Guardian</a></li>
 <li> 21:43 www.facebook.com</li>
 </ul>
@@ -4288,7 +8985,7 @@ With number of accesses/minutes in parentheses
 <li> 18:53 en.m.wikipedia.org</li>
 <li> 18:53 www.thedailymash.co.uk</li>
 <li> 18:34 www.tlmaths.com</li>
-<li> 18:33 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 18:33 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 18:31 <a href="https://www.youtube.com/@TLMaths/playlists">(729) TLMaths - YouTube</a></li>
 <li> 18:31 www.tlmaths.com</li>
 <li class='same'> 18:30 www.tlmaths.com</li>
@@ -4299,16 +8996,16 @@ With number of accesses/minutes in parentheses
 <li> 18:22 <a href="https://www.youtube.com/watch?v=GTQZyYGKKIM&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=39">(667) GCSE Maths: N2-15 [Examples of Subtraction with Decimals] - YouTube</a></li>
 <li> 18:19 <a href="https://www.youtube.com/watch?v=llji2WB410Y&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=38">(667) GCSE Maths: N2-14 [Method of Subtraction with Decimals] - YouTube</a></li>
 <li> 18:16 <a href="https://www.theguardian.com/sport/2025/jul/26/ray-french-bbc-rugby-league-commentator-dies-aged-85">Ray French, former BBC rugby league commentator, dies aged 85 | Rugby league | The Guardian</a></li>
-<li> 18:16 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:16 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:15 <a href="https://www.youtube.com/watch?v=b6l8pGneU6M&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=37">(667) GCSE Maths: N2-13 [Southampton vs Isle of Wight Population Problem] - YouTube</a></li>
 <li> 18:11 <a href="https://www.youtube.com/watch?v=-fkMWi8Wkeg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=36">(667) GCSE Maths: N2-12 [Examples of Subtraction with Integers] - YouTube</a></li>
 <li> 18:10 <a href="https://www.youtube.com/watch?v=OXBGjVwB_wE&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=35">(667) GCSE Maths: N2-11 [Method of Subtraction with Integers] - YouTube</a></li>
-<li> 18:10 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
-<li> 18:10 <a href="https://www.youtube.com/feed/playlists">(729) Playlists - YouTube</a></li>
-<li> 18:10 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
-<li> 18:09 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 18:10 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 18:10 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
+<li> 18:10 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
+<li> 18:09 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 18:09 <a href="https://www.youtube.com/shorts/Q2X1Ww8GIig">(667) The dark reality of bodybuilding (ft. LeanbeefPatty) - YouTube</a></li>
-<li> 18:09 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 18:09 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 18:08 www.linkedin.com</li>
 <li> 18:07 <a href="https://en.wikipedia.org/wiki/List_of_Lego_video_games">List of Lego video games - Wikipedia</a></li>
 <li> 18:07 duckduckgo.com</li>
@@ -4351,7 +9048,7 @@ With number of accesses/minutes in parentheses
 <li> 07:52 duckduckgo.com</li>
 <li class='same'> 07:47 duckduckgo.com</li>
 <li class='same'> 07:46 duckduckgo.com</li>
-<li> 07:44 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:44 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:43 web.whatsapp.com</li>
 <li> 07:43 www.reddit.com</li>
 <li class='same'> 07:41 www.reddit.com</li>
@@ -4386,7 +9083,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:17 <a href="https://www.theguardian.com/world/2025/jul/25/gaza-students-scholarships-uk-universities-visa-obstacles">The Gaza students with scholarships to UK unable to take up their places | Israel-Gaza war | The Guardian</a></li>
-<li> 17:17 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:17 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:16 <a href="https://www.theguardian.com/world/2025/jul/25/russia-record-attacks-ukraine-struggles-defend-itself">The Shahed blitz: can Russian drone onslaught break Ukraine’s resolve? | Ukraine | The Guardian</a></li>
 </ul>
 
@@ -4418,10 +9115,10 @@ With number of accesses/minutes in parentheses
 <li> 11:11 duckduckgo.com</li>
 <li> 11:01 <a href="https://en.wikipedia.org/wiki/Metacarpal_bones">Metacarpal bones - Wikipedia</a></li>
 <li> 11:01 duckduckgo.com</li>
-<li> 10:59 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 10:59 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 10:58 <a href="https://www.youtube.com/shorts/-6t_UlvIWIQ">(667) “I’m a God.” She Laughed… Until the Universe Obeyed Him 😱🔁💫 - YouTube</a></li>
 <li> 10:57 <a href="https://www.youtube.com/shorts/mQMM_wQnXcs">(667) It’s unusual fish.#shorts - YouTube</a></li>
-<li> 10:56 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 10:56 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 10:42 chatgpt.com</li>
 <li> 10:42 chat.openai.com</li>
 <li> 10:42 <a href="https://en.wikipedia.org/wiki/File:Male_human_head_louse.jpg">File:Male human head louse.jpg - Wikipedia</a></li>
@@ -4438,11 +9135,11 @@ With number of accesses/minutes in parentheses
 <li> 10:26 kdp.amazon.com</li>
 <li> 10:25 www.google.com</li>
 <li> 10:24 <a href="https://www.theguardian.com/us-news/2025/jul/24/justice-department-obama-2016-election">Under-fire DoJ forms ‘strike force’ to investigate Obama amid Epstein scandal | Trump administration | The Guardian</a></li>
-<li> 10:23 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:23 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:11 chatgpt.com</li>
 <li> 10:11 chat.openai.com</li>
 <li> 10:06 <a href="https://www.theguardian.com/sport/2025/jul/25/formula-e-crossroads-spark-on-track-that-still-falls-flat">Formula E at crossroads with spark on track that still falls flat with the public | Formula E | The Guardian</a></li>
-<li> 10:05 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:05 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 09:54 www.reddit.com</li>
 <li class='same'> 09:53 www.reddit.com</li>
 <li class='same'> 09:52 www.reddit.com</li>
@@ -4466,7 +9163,7 @@ With number of accesses/minutes in parentheses
 <li> 09:07 www.foxnews.com</li>
 <li class='same'> 09:05 www.foxnews.com</li>
 <li> 09:03 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/25/were-terribly-sorry-south-park-creators-respond-with-humour-to-white-house-anger-over-naked-donald-trump">‘We’re terribly sorry’: South Park creators respond with humour to White House anger over naked Donald Trump | South Park | The Guardian</a></li>
-<li> 09:03 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:03 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:51 www.reddit.com</li>
 <li class='same'> 08:50 www.reddit.com</li>
 <li class='same'> 08:49 www.reddit.com</li>
@@ -4477,7 +9174,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:25 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 07:25 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:24 www.reddit.com</li>
 <li class='same'> 07:23 www.reddit.com</li>
 <li class='same'> 07:22 www.reddit.com</li>
@@ -4720,7 +9417,7 @@ With number of accesses/minutes in parentheses
 <li> 14:36 mail.google.com</li>
 <li> 14:36 gmail.com</li>
 <li> 14:35 <a href="https://www.theguardian.com/film/2025/jul/23/avatar-fire-and-ash-sent-pandora-james-cameron">Fire cults and burning banshees: has Avatar: Fire and Ash sent Pandora all the way to hell? | Film | The Guardian</a></li>
-<li> 14:33 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:33 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 14:33 outlook.office.com</li>
 </ul>
 
@@ -4739,7 +9436,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:50 www.linkedin.com</li>
 <li> 13:50 rhul.sharepoint.com</li>
 <li class='same'> 13:49 rhul.sharepoint.com</li>
-<li> 13:49 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:49 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:49 herts.instructure.com</li>
 <li> 13:39 duckduckgo.com</li>
 <li> 13:39 www.sciencedirect.com</li>
@@ -4983,7 +9680,7 @@ With number of accesses/minutes in parentheses
 <li> 08:16 chatgpt.com</li>
 <li> 08:16 chat.openai.com</li>
 <li> 08:15 docs.google.com</li>
-<li> 08:11 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 08:11 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 08:09 www.amazon.co.uk</li>
 <li class='same'> 08:06 www.amazon.co.uk</li>
 <li class='same'> 08:04 www.amazon.co.uk</li>
@@ -5004,9 +9701,9 @@ With number of accesses/minutes in parentheses
 <li> 07:30 <a href="https://www.youtube.com/watch?v=BwHnlYLioXI&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=30&t=29s">(664) GCSE Maths: N2-05 [Method of Addition with Integers] - YouTube</a></li>
 <li> 07:30 <a href="https://www.youtube.com/watch?v=BwHnlYLioXI&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=29&t=29">GCSE Maths: N2-05 [Method of Addition with Integers] - YouTube</a></li>
 <li> 07:30 <a href="https://www.youtube.com/watch?v=BwHnlYLioXI&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=29">(664) GCSE Maths: N2-05 [Method of Addition with Integers] - YouTube</a></li>
-<li> 07:30 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
-<li> 07:30 <a href="https://www.youtube.com/feed/playlists">(729) Playlists - YouTube</a></li>
-<li> 07:30 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 07:30 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 07:30 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
+<li> 07:30 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 07:28 drive.google.com</li>
 <li> 07:28 calendar.google.com</li>
 <li class='same'> 07:25 calendar.google.com</li>
@@ -5017,7 +9714,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:43 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 06:43 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:42 www.jobs.ac.uk</li>
 <li> 06:41 outlook.office.com</li>
 </ul>
@@ -5102,7 +9799,7 @@ With number of accesses/minutes in parentheses
 <li> 15:54 www.tinkercad.com</li>
 <li> 15:51 <a href="https://www.theguardian.com/business/2025/jul/22/mike-lynch-estate-hp-700m-court-autonomy-case">Mike Lynch’s estate and business partner owe HP £700m, court rules | Hewlett-Packard | The Guardian</a></li>
 <li> 15:50 <a href="https://www.theguardian.com/us-news/2025/jul/22/aoc-office-vandalized-nyc">AOC’s office vandalized after recent House vote involving US aid to Israel | Alexandria Ocasio-Cortez | The Guardian</a></li>
-<li> 15:49 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:49 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:47 outlook.office365.com</li>
 <li class='same'> 15:46 outlook.office365.com</li>
 <li> 15:41 forms.office.com</li>
@@ -5244,7 +9941,7 @@ With number of accesses/minutes in parentheses
 <li> 10:51 accounts.google.com</li>
 <li> 10:51 gmail.com</li>
 <li> 10:50 <a href="https://www.theguardian.com/stage/2025/jul/22/edinburgh-funniest-fringe-joke-award-scrapped-for-2025">Edinburgh funniest fringe joke award scrapped for 2025 | Edinburgh festival 2025 | The Guardian</a></li>
-<li> 10:50 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:50 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:49 t1b.gobright.cloud</li>
 <li class='same'> 10:48 t1b.gobright.cloud</li>
 <li class='same'> 10:47 t1b.gobright.cloud</li>
@@ -5297,7 +9994,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:32 www.reddit.com</li>
 <li class='same'> 07:31 www.reddit.com</li>
 <li> 07:02 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/21/mandy-review-diane-morgan-bbc-two-iplayer">Mandy review – I am fully converted to Diane Morgan’s genius | Television | The Guardian</a></li>
-<li> 07:01 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:01 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:58 www.linkedin.com</li>
 <li class='same'> 06:56 www.linkedin.com</li>
 <li> 06:54 herts.instructure.com</li>
@@ -5345,7 +10042,7 @@ With number of accesses/minutes in parentheses
 <li> 18:38 <a href="https://www.youtube.com/results?search_query=attach+a+pannier">(664) attach a pannier - YouTube</a></li>
 <li> 18:38 <a href="https://www.youtube.com/results?search_query=attac+">(664) attac - YouTube</a></li>
 <li> 18:38 www.linkedin.com</li>
-<li> 18:38 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 18:38 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 18:36 www.ebay.co.uk</li>
 <li class='same'> 18:34 www.ebay.co.uk</li>
 <li> 18:34 www.linkedin.com</li>
@@ -5384,7 +10081,7 @@ With number of accesses/minutes in parentheses
 <li> 16:02 www.uolacademiccontractors.com</li>
 <li> 16:01 outlook.office365.com</li>
 <li> 16:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:00 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:00 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:00 outlook.office365.com</li>
 <li> 15:59 www.linkedin.com</li>
 <li class='same'> 15:58 www.linkedin.com</li>
@@ -5409,7 +10106,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:34 mail.google.com</li>
 <li> 15:34 gmail.com</li>
 <li> 15:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:33 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:33 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:31 jobs.royalholloway.ac.uk</li>
 <li> 15:30 www.giantitp.com</li>
 <li class='same'> 15:29 www.giantitp.com</li>
@@ -5549,7 +10246,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:06 www.linkedin.com</li>
 <li> 12:05 <a href="https://www.theguardian.com/business/2025/jul/21/ryanair-weighs-up-higher-bonus-paid-to-staff-intercepting-oversized-luggage">Ryanair weighs up increasing bonus to staff for intercepting oversized luggage | Ryanair | The Guardian</a></li>
 <li> 12:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:04 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:04 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:04 mail.google.com</li>
 <li> 12:04 www.linkedin.com</li>
 <li class='same'> 12:01 www.linkedin.com</li>
@@ -5656,7 +10353,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:07 www.reddit.com</li>
 <li> 10:06 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/21/bbc-targets-adults-in-the-latest-adventure-for-its-top-dog-bluey">BBC targets adults in the latest adventure for its top dog Bluey | Bluey | The Guardian</a></li>
 <li> 10:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:06 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:06 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:05 news.mypd.co.uk</li>
 <li> 10:05 outlook.office365.com</li>
 <li class='same'> 09:56 outlook.office365.com</li>
@@ -5706,9 +10403,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:44 outlook.office365.com</li>
 <li class='same'> 08:35 outlook.office365.com</li>
 <li> 08:20 <a href="https://www.youtube.com/watch?v=u5MMv2O3Q9Q&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=23">(664) GCSE Maths: N1-22 [Interpreting Regions as Inequalities] - YouTube</a></li>
-<li> 08:20 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
-<li> 08:20 <a href="https://www.youtube.com/feed/playlists">(729) Playlists - YouTube</a></li>
-<li> 08:19 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 08:20 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 08:20 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
+<li> 08:19 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 08:17 rhul-my.sharepoint.com</li>
 <li> 08:17 outlook.office365.com</li>
 <li class='same'> 08:16 outlook.office365.com</li>
@@ -5742,7 +10439,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:49 www.foxnews.com</li>
 <li> 12:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:47 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:47 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -5780,7 +10477,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:26 www.linkedin.com</li>
 <li> 07:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li class='same'> 06:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:46 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:46 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:45 <a href="https://www.theguardian.com/us-news/2025/jul/18/astronomer-formal-investigation-couple-coldplay">Company says investigation under way into footage of couple at Coldplay gig | US news | The Guardian</a></li>
 <li> 06:43 <a href="https://www.theguardian.com/us-news/2025/jul/18/trump-libel-lawsuit-wsj-dow-jones-rupert-murdoch">Trump sues Wall Street Journal and Rupert Murdoch over Epstein report | Donald Trump | The Guardian</a></li>
 <li> 06:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -5846,10 +10543,10 @@ With number of accesses/minutes in parentheses
 <li> 07:33 web.whatsapp.com</li>
 <li> 07:33 <a href="https://www.theguardian.com/football/2025/jul/17/sweden-england-womens-euro-2025-quarter-final-match-report">England win dramatic shootout to beat Sweden and keep alive Euro 2025 hopes | Women’s Euro 2025 | The Guardian</a></li>
 <li> 07:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:32 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:32 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:30 <a href="https://www.theguardian.com/commentisfree/2025/jul/18/public-trust-authorities-lies-superinjunction-conspiracy">Why is it so hard for the authorities to win public trust? Maybe because they keep lying to us | Gaby Hinsliff | The Guardian</a></li>
 <li> 07:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:29 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:29 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:29 www.giantitp.com</li>
 <li> 07:28 duckduckgo.com</li>
 <li> 07:27 tvtropes.org</li>
@@ -5903,17 +10600,17 @@ With number of accesses/minutes in parentheses
 <li> 17:28 <a href="https://www.theguardian.com/commentisfree/2025/jul/17/ive-found-the-cure-for-a-sleepless-night-in-a-heatwave-but-it-can-have-its-drawbacks">I’ve found the cure for a sleepless night in a heatwave – but it can have its drawbacks … | Adrian Chiles | The Guardian</a></li>
 <li> 17:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li class='same'> 17:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:27 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:27 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:22 <a href="https://www.theguardian.com/us-news/2025/jul/17/trump-jeffrey-epstein-republicans-maga">Trump’s effort to dismiss Epstein files as ‘hoax’ fails to quell Maga rebellion | Jeffrey Epstein | The Guardian</a></li>
 <li> 17:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li class='same'> 16:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/education/2025/jul/17/ofqual-admits-massively-exaggerating-number-of-students-getting-exam-assistance">Ofqual admits massively exaggerating number of students getting exam assistance | Exams | The Guardian</a></li>
-<li> 16:54 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:54 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/education/2025/jul/17/ofqual-admits-massively-exaggerating-number-of-students-getting-exam-assistance">Ofqual admits massively exaggerating number of students getting exam assistance | Exams | The Guardian</a></li>
-<li> 16:54 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:54 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:54 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:54 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -5935,7 +10632,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 12:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:53 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:53 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:53 <a href="https://www.theguardian.com/commentisfree/2025/jul/16/britain-legacy-austerity-teenage-pregnancy">Teenage pregnancy rates are a barometer of Britain’s progress. The tale they now tell is not reassuring | Polly Toynbee | The Guardian</a></li>
 </ul>
 
@@ -5948,7 +10645,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 06:03 <a href="https://www.theguardian.com/commentisfree/2025/jul/16/britain-legacy-austerity-teenage-pregnancy">Teenage pregnancy rates are a barometer of Britain’s progress. The tale they now tell is not reassuring | Polly Toynbee | The Guardian</a></li>
 <li> 06:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:01 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:01 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:01 <a href="https://www.theguardian.com/uk-news/2025/jul/15/sycamore-gap-tree-felling-men-jailed">Two men behind ‘senseless’ felling of Sycamore Gap tree jailed for more than four years | Crime | The Guardian</a></li>
 <li> 06:01 www.google.com</li>
 </ul>
@@ -6083,7 +10780,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:29 outlook.office365.com</li>
 <li> 12:07 reductress.com</li>
 <li> 12:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:06 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:06 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:05 <a href="https://www.theguardian.com/uk-news/2025/jul/16/resettlement-afghans-data-leak-john-healey">No automatic right to resettlement for Afghans in data leak, says Healey | Ministry of Defence | The Guardian</a></li>
 <li> 12:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:05 <a href="https://www.theguardian.com/uk-news/2025/jul/15/sycamore-gap-tree-felling-men-jailed">Two men behind ‘senseless’ felling of Sycamore Gap tree jailed for more than four years | Crime | The Guardian</a></li>
@@ -6092,7 +10789,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:33 <a href="https://www.youtube.com/results?search_query=never+going+to+give+you+up">(650) never going to give you up - YouTube</a></li>
-<li> 11:32 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 11:32 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 11:17 outlook.office365.com</li>
 <li class='same'> 11:16 outlook.office365.com</li>
 <li class='same'> 11:14 outlook.office365.com</li>
@@ -6209,7 +10906,7 @@ With number of accesses/minutes in parentheses
 <li> 07:38 <a href="https://www.theguardian.com/uk-news/2025/jul/15/sycamore-gap-tree-felling-men-jailed">Two men behind ‘senseless’ felling of Sycamore Gap tree jailed for more than four years | Crime | The Guardian</a></li>
 <li> 07:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li class='same'> 07:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:37 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:37 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:36 docs.google.com</li>
 <li class='same'> 07:35 docs.google.com</li>
 <li class='same'> 07:34 docs.google.com</li>
@@ -6329,7 +11026,7 @@ With number of accesses/minutes in parentheses
 <li> 15:10 outlook.office365.com</li>
 <li> 15:10 herts365-my.sharepoint.com</li>
 <li> 15:07 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:07 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:07 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:05 www.google.com</li>
 <li class='same'> 15:04 www.google.com</li>
 <li class='same'> 15:03 www.google.com</li>
@@ -6403,7 +11100,7 @@ With number of accesses/minutes in parentheses
 <li> 13:07 <a href="https://www.theguardian.com/media/2025/jul/15/bbc-look-overhauling-licence-fee-300000-more-households-stop-paying">BBC to look at overhauling licence fee as 300,000 more households stop paying | BBC licence fee | The Guardian</a></li>
 <li class='same'> 13:06 <a href="https://www.theguardian.com/media/2025/jul/15/bbc-look-overhauling-licence-fee-300000-more-households-stop-paying">BBC to look at overhauling licence fee as 300,000 more households stop paying | BBC licence fee | The Guardian</a></li>
 <li> 13:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:06 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:06 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:06 <a href="https://www.theguardian.com/politics/live/2025/jul/15/starmer-reeves-farage-trump-tax-welfare-uk-politics-live-news-updates">Thousands offered UK asylum in £850m scheme after personal data of Afghans who helped British forces mistakenly leaked – live</a></li>
 <li> 13:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 13:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -6503,7 +11200,7 @@ With number of accesses/minutes in parentheses
 <li> 10:24 www.royalholloway.ac.uk</li>
 <li> 10:24 duckduckgo.com</li>
 <li> 10:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:02 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:02 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:01 herts365-my.sharepoint.com</li>
 <li> 10:01 login.microsoftonline.com</li>
 <li class='same'> 10:00 login.microsoftonline.com</li>
@@ -6553,7 +11250,7 @@ With number of accesses/minutes in parentheses
 <li> 14:39 www.reddit.com</li>
 <li class='same'> 14:38 www.reddit.com</li>
 <li> 14:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:21 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:21 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:58 m365.cloud.microsoft</li>
 <li> 13:58 login.microsoftonline.com</li>
 </ul>
@@ -6562,7 +11259,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:59 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:59 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:55 <a href="https://www.theguardian.com/media/2025/jul/14/bbc-review-gaza-how-to-survive-a-warzone-documentary-accuracy-guidelines-breached">BBC breached accuracy guidelines over Gaza documentary, review finds | BBC | The Guardian</a></li>
 <li> 12:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:54 www.thefreedictionary.com</li>
@@ -6764,11 +11461,11 @@ With number of accesses/minutes in parentheses
 <li> 11:02 duckduckgo.com</li>
 <li> 10:46 <a href="https://www.theguardian.com/sport/2025/jul/12/iga-swiatek-races-to-first-wimbledon-title-with-6-0-6-0-thrashing-of-anisimova">Iga Swiatek races to first Wimbledon title with 6-0, 6-0 thrashing of Anisimova | Wimbledon 2025 | The Guardian</a></li>
 <li> 10:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:46 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:46 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 10:42 <a href="https://www.theguardian.com/commentisfree/2025/jul/13/ukraine-europe-donald-trump-nato">What if Ukraine falls? This is no longer a hypothetical question – and it must be answered urgently | Simon Tisdall | The Guardian</a></li>
 <li> 10:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:42 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:42 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:40 <a href="https://www.theguardian.com/world/2025/jul/12/eu-will-be-reeling-over-how-to-tackle-trade-talks-after-trumps-30-tariff-threat">EU will be reeling over how to tackle trade talks after Trump’s 30% tariff threat | European Union | The Guardian</a></li>
 <li> 10:40 <a href="https://www.theguardian.com/uk-news/2025/jul/10/starmer-and-macron-to-announce-one-in-one-out-migration-deal">Starmer and Macron to announce ‘one in, one out’ migration deal | Immigration and asylum | The Guardian</a></li>
 <li> 10:40 www.google.com</li>
@@ -6796,11 +11493,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:11 duckduckgo.com</li>
 <li> 09:11 127.0.0.1:4000</li>
 <li> 09:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:11 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:11 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 09:10 <a href="https://www.theguardian.com/us-news/2025/jul/12/kash-patel-fbi-doj-epstein">Kash Patel denies rumors he’s quitting the FBI over DoJ ruling on Epstein files | FBI | The Guardian</a></li>
 <li> 09:09 <a href="https://www.theguardian.com/technology/2025/jul/13/graduates-teach-first-in-person-interviews-ai">Teach First job applicants will get in-person interviews after more apply using AI | Artificial intelligence (AI) | The Guardian</a></li>
 <li> 09:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:09 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:09 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <H3>Saturday, 12/07/25</H3>
@@ -6834,7 +11531,7 @@ With number of accesses/minutes in parentheses
 <li> 17:06 127.0.0.1:4000</li>
 <li> 16:53 <a href="https://www.theguardian.com/lifeandstyle/2025/jul/11/sorry-babbel-but-british-people-say-sorry-more-than-nine-times-a-day">Sorry Babbel, but British people say sorry more than nine times a day | Social etiquette | The Guardian</a></li>
 <li> 16:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:52 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:52 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:39 chatgpt.com</li>
 <li class='same'> 16:34 chatgpt.com</li>
 <li> 16:09 docs.google.com</li>
@@ -6862,7 +11559,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:54 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<ul><li> 13:54 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 13:53 <a href="https://www.youtube.com/watch?v=zHU23StZJ5E&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=310">(632) GCSE Maths: N15-24 [Error Intervals Example 3] - YouTube</a></li>
 <li> 13:53 <a href="https://www.youtube.com/watch?v=JSReF8rRY3I&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=208">(632) GCSE Maths: N15-24 [Error Intervals Example 3] - YouTube</a></li>
 <li> 13:45 <a href="https://www.youtube.com/watch?v=u8ayGFL1cFw&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=207">(632) GCSE Maths: N8h-30 Examples of Solving Equations with Surds - YouTube</a></li>
@@ -6880,15 +11577,15 @@ With number of accesses/minutes in parentheses
 <li> 13:31 <a href="https://www.youtube.com/watch?v=amrhqGOOkyA">Michelle Teaches Salish Matter Math For 24 Hours! - YouTube</a></li>
 <li> 13:31 <a href="https://www.youtube.com/watch?v=jGHnBsvAbaY&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=2">(632) GCSE Maths: N1-01 [Types of Numbers] - YouTube</a></li>
 <li> 13:31 <a href="https://www.youtube.com/results?search_query=youtube+gcse+maths+lessons+girl">youtube gcse maths lessons girl - YouTube</a></li>
-<li> 13:31 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 13:31 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 13:31 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 13:31 <a href="https://www.youtube.com/">(729) YouTube</a></li>
-<li> 13:29 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(723) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
+<li> 13:31 <a href="https://www.youtube.com/">(769) YouTube</a></li>
+<li> 13:29 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(753) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 13:28 <a href="https://www.youtube.com/playlist?list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(729) TEACHING GCSE Maths - YouTube</a></li>
 <li> 13:28 <a href="https://www.youtube.com/results?search_query=GCSE+maths+lessons">(632) GCSE maths lessons - YouTube</a></li>
 <li> 13:28 <a href="https://www.youtube.com/playlist?list=PLqxP5EuGxPndONpFQCdcbRa3C_b38so9u">(632) Edexcel 2023 GCSE Maths Exam Revision - YouTube</a></li>
 <li> 13:27 <a href="https://www.youtube.com/results?search_query=GCSE+maths">(632) GCSE maths - YouTube</a></li>
-<li> 13:27 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 13:27 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 13:26 edumentors.co.uk</li>
 <li> 13:26 www.reddit.com</li>
 <li> 13:25 calendar.google.com</li>
@@ -6912,7 +11609,7 @@ With number of accesses/minutes in parentheses
 <li> 12:58 outlook.office365.com</li>
 <li> 12:57 docs.google.com</li>
 <li> 12:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:56 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:56 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:55 docs.google.com</li>
 <li class='same'> 12:54 docs.google.com</li>
 <li class='same'> 12:53 docs.google.com</li>
@@ -6933,9 +11630,9 @@ With number of accesses/minutes in parentheses
 <li> 12:20 outlook.office365.com</li>
 <li> 12:19 www.linkedin.com</li>
 <li> 12:17 <a href="https://www.theguardian.com/music/2025/jul/11/wish-you-were-still-here-what-happened-to-the-one-hit-wonders-of-80s-package-holiday-pop">Wish you were still here: what happened to the one-hit wonders of 80s package holiday pop? | Pop and rock | The Guardian</a></li>
-<li> 12:17 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:17 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:14 <a href="https://www.theguardian.com/commentisfree/2025/jul/11/gregg-wallace-bbc-masterchef">Right, the underpants are off! It’s time I, Gregg Wallace, had my say | Marina Hyde | The Guardian</a></li>
-<li> 12:14 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:14 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:14 outlook.office365.com</li>
 <li class='same'> 12:13 outlook.office365.com</li>
 <li> 12:13 www.airbnb.co.uk</li>
@@ -7000,7 +11697,7 @@ With number of accesses/minutes in parentheses
 <li> 10:27 <a href="https://www.theguardian.com/world/2025/jul/10/concern-ukraine-will-be-split-up-reconstruction-talks">Concern that Ukraine will be split up casts shadow over reconstruction talks | Ukraine | The Guardian</a></li>
 <li> 10:25 <a href="https://www.theguardian.com/culture/2025/jul/11/campaigners-parthenon-elgin-marbles-sculptures-return-greece-british-museum">Campaigners call for end to ‘covert’ deal to return Parthenon marbles to Greece | British Museum | The Guardian</a></li>
 <li> 10:24 web.whatsapp.com</li>
-<li> 10:24 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:24 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:24 mail.google.com</li>
 <li> 10:21 whitewaterwriters.com</li>
 <li> 10:19 mail.google.com</li>
@@ -7010,13 +11707,13 @@ With number of accesses/minutes in parentheses
 <li> 10:13 chatgpt.com</li>
 <li> 10:13 chat.openai.com</li>
 <li> 10:10 <a href="https://www.theguardian.com/commentisfree/picture/2025/jul/10/ben-jennings-elon-musk-ai-chatbot-xai-x-antisemitism-cartoon">Ben Jennings on Elon Musk’s AI chatbot – cartoon | Ben Jennings | The Guardian</a></li>
-<li> 10:10 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:10 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/10/gregg-wallace-dropped-from-bbc-over-lack-of-confidence-he-could-change-behaviour">Gregg Wallace dropped by BBC over doubts he could ‘change behaviour’ | Gregg Wallace | The Guardian</a></li>
-<li> 10:08 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:08 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:08 www.giantitp.com</li>
 <li> 10:06 www.reddit.com</li>
 <li> 10:05 outlook.office365.com</li>
-<li> 10:05 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:05 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -7134,9 +11831,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:26 outlook.office365.com</li>
 <li> 13:26 mail.google.com</li>
 <li class='same'> 13:25 mail.google.com</li>
-<li> 13:23 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:23 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:23 <a href="https://www.theguardian.com/uk-news/2025/jul/10/four-arrested-over-cyber-attacks-marks-and-spencer-co-op-harrods">Four arrested over cyber-attacks on M&S, Co-op and Harrods | UK news | The Guardian</a></li>
-<li> 13:23 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:23 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:23 mail.google.com</li>
 <li class='same'> 13:05 mail.google.com</li>
 <li class='same'> 13:04 mail.google.com</li>
@@ -7209,7 +11906,7 @@ With number of accesses/minutes in parentheses
 <li> 11:53 web.whatsapp.com</li>
 <li> 11:45 observer.co.uk</li>
 <li> 11:45 <a href="https://www.theguardian.com/books/2025/jul/10/inside-the-salt-path-controversy-scandal-has-stalked-memoir-since-the-genre-was-invented">Inside the Salt Path controversy: ‘Scandal has stalked memoir since the genre was invented’ | Books | The Guardian</a></li>
-<li> 11:44 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:44 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:22 api-b6327e78.duosecurity.com</li>
 <li> 11:17 calendar.google.com</li>
 </ul>
@@ -7380,7 +12077,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:20 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/09/bbc-deciding-what-to-do-with-new-series-of-masterchef-fronted-by-gregg-wallace">BBC deciding what to do with new series of MasterChef fronted by Gregg Wallace | Gregg Wallace | The Guardian</a></li>
-<li> 18:20 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:20 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:20 outlook.office365.com</li>
 <li> 18:19 discord.com</li>
 <li> 18:19 www.linkedin.com</li>
@@ -7449,7 +12146,7 @@ With number of accesses/minutes in parentheses
 <li> 13:00 ce0997li.webitrent.com</li>
 <li> 13:00 www.hr.herts.ac.uk</li>
 <li> 12:34 <a href="https://www.theguardian.com/lifeandstyle/2025/jul/09/my-father-the-fake-was-anything-he-told-me-actually-true">My father, the fake: was anything he told me actually true? | Life and style | The Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:32 discord.com</li>
 <li> 12:32 docs.google.com</li>
 <li> 12:32 www.google.com</li>
@@ -7540,10 +12237,10 @@ With number of accesses/minutes in parentheses
 <li> 09:31 <a href="https://www.youtube.com/watch?v=J0t-Q_u7hxk">(626) How To Remove Usb / Aux Panel Ford Fiesta 2014 - 2016 - YouTube</a></li>
 <li> 09:31 <a href="https://www.youtube.com/results?search_query=ford+fiesta+usb+port+replacement">(626) ford fiesta usb port replacement - YouTube</a></li>
 <li> 09:30 <a href="https://www.youtube.com/results?search_query=ford+fiesta+usb+port+not+working">(626) ford fiesta usb port not working - YouTube</a></li>
-<li> 09:30 <a href="https://www.youtube.com/">(729) YouTube</a></li>
-<li> 09:13 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:30 <a href="https://www.youtube.com/">(769) YouTube</a></li>
+<li> 09:13 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/08/gregg-wallace-attacks-bbc-before-publication-of-report-on-masterchef-allegations">Gregg Wallace fired from MasterChef as 50 people tell BBC of fresh allegations | Gregg Wallace | The Guardian</a></li>
-<li> 09:13 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:13 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 09:12 herts365-my.sharepoint.com</li>
 <li> 09:11 m365.cloud.microsoft</li>
 <li> 09:11 www.linkedin.com</li>
@@ -7886,7 +12583,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:41 www.reddit.com</li>
 <li class='same'> 16:39 www.reddit.com</li>
 <li> 16:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:38 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:34 www.reddit.com</li>
 <li class='same'> 16:33 www.reddit.com</li>
 <li> 16:33 duckduckgo.com</li>
@@ -7935,7 +12632,7 @@ With number of accesses/minutes in parentheses
 <li> 14:39 www.reddit.com</li>
 <li class='same'> 14:38 www.reddit.com</li>
 <li> 14:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:37 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:37 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -7973,7 +12670,7 @@ With number of accesses/minutes in parentheses
 <li> 11:56 <a href="https://www.theguardian.com/commentisfree/2025/jul/07/i-spoke-for-my-brother-when-he-was-too-afraid-to-answer-now-he-speaks-in-melodies-and-i-have-learned-to-listen">I spoke for my brother when he was too afraid to answer — now, he speaks in melodies, and I have learned to listen | Jessie Cole | The Guardian</a></li>
 <li> 11:55 <a href="https://www.theguardian.com/technology/2025/jul/07/tesla-shares-dive-as-investors-fear-new-elon-musk-political-party-will-damage-brand">Tesla shares dive as investors fear new Elon Musk political party will damage brand | Tesla | The Guardian</a></li>
 <li> 11:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:54 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:54 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:52 127.0.0.1:4000</li>
 <li> 11:50 drive.google.com</li>
 <li> 11:41 mail.google.com</li>
@@ -8183,7 +12880,7 @@ With number of accesses/minutes in parentheses
 <li> 08:40 www.reddit.com</li>
 <li class='same'> 08:39 www.reddit.com</li>
 <li> 08:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:32 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:32 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:21 docs.google.com</li>
 <li> 08:20 www.reddit.com</li>
 <li class='same'> 08:19 www.reddit.com</li>
@@ -8207,7 +12904,7 @@ With number of accesses/minutes in parentheses
 <li> 08:02 docs.google.com</li>
 <li class='same'> 08:01 docs.google.com</li>
 <li> 07:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:58 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:58 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -8306,7 +13003,7 @@ With number of accesses/minutes in parentheses
 <li> 22:09 <a href="https://xkcd.com/2558/">xkcd: Rapid Test Results</a></li>
 <li> 22:08 <a href="https://xkcd.com/1958/">xkcd: Self-Driving Issues</a></li>
 <li> 22:08 <a href="https://xkcd.com/1713/">xkcd: 50 ccs</a></li>
-<li> 22:08 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 22:08 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 22:08 feedly.com</li>
 <li> 22:08 www.linkedin.com</li>
 <li class='same'> 22:07 www.linkedin.com</li>
@@ -8314,7 +13011,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 22:06 docs.google.com</li>
 <li> 22:04 <a href="https://www.theguardian.com/politics/2025/jul/04/reform-councillors-boast-about-removing-trans-ideological-books-from-childrens-library-sections-falls-flat">Reform councillor’s boast about removing ‘trans-ideological’ books from children’s library sections falls flat | Reform UK | The Guardian</a></li>
 <li> 22:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 22:04 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:04 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 22:02 www.reddit.com</li>
 <li class='same'> 22:01 www.reddit.com</li>
 <li> 22:00 forum.artofmemory.com</li>
@@ -8343,7 +13040,7 @@ With number of accesses/minutes in parentheses
 <li> 18:14 www.herts.ac.uk</li>
 <li> 18:14 duckduckgo.com</li>
 <li> 18:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:13 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:13 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -8388,7 +13085,7 @@ With number of accesses/minutes in parentheses
 <li> 16:18 <a href="https://en.wikipedia.org/wiki/Police_Story_(film_series)">Police Story (film series) - Wikipedia</a></li>
 <li> 16:17 duckduckgo.com</li>
 <li> 16:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:16 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:16 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:16 www.facebook.com</li>
 <li> 16:14 www.sfadb.com</li>
 <li> 16:12 feedly.com</li>
@@ -8535,7 +13232,7 @@ With number of accesses/minutes in parentheses
 <li> 06:24 www.google.com</li>
 <li class='same'> 06:23 www.google.com</li>
 <li> 06:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:22 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:22 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:21 www.reddit.com</li>
 <li class='same'> 06:18 www.reddit.com</li>
 <li class='same'> 06:16 www.reddit.com</li>
@@ -8635,10 +13332,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 19:05 www.reddit.com</li>
 <li> 19:05 www.google.com</li>
 <li> 19:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:04 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:04 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 19:02 <a href="https://www.theguardian.com/business/2025/jul/03/rachel-reeves-balancing-backbenchers-and-bond-markets-analysis">Reeves’s fearsome challenge: to balance backbenchers and bond markets | Bonds | The Guardian</a></li>
 <li> 19:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:02 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:02 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 19:02 <a href="https://www.theguardian.com/football/2025/jul/03/spain-women-football-euro-2025-fight-battles-on-and-off-pitch">‘Everything is better’: how Rubiales’s unwanted kiss transformed Spanish women’s football | Spain women's football team | The Guardian</a></li>
 </ul>
 
@@ -9018,7 +13715,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:08 www.telegraph.co.uk</li>
 <li> 06:08 www.google.com</li>
 <li> 06:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:08 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:08 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
@@ -9073,7 +13770,7 @@ With number of accesses/minutes in parentheses
 <li> 14:25 <a href="https://xkcd.com/1133/">xkcd: Up Goer Five</a></li>
 <li> 14:24 <a href="https://xkcd.com/thing-explainer/">Thing Explainer: Complicated Stuff in Simple Words</a></li>
 <li> 14:24 <a href="https://xkcd.com/books/">books by Randall Munroe</a></li>
-<li> 14:24 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 14:24 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 14:21 <a href="https://xkcd.com/simplewriter/"></a></li>
 <li> 14:18 herts.instructure.com</li>
 <li class='same'> 14:17 herts.instructure.com</li>
@@ -9105,7 +13802,7 @@ With number of accesses/minutes in parentheses
 <li> 12:27 duckduckgo.com</li>
 <li> 12:27 outlook.office.com</li>
 <li> 12:27 web.whatsapp.com</li>
-<li> 12:27 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 12:27 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 12:27 mail.google.com</li>
 <li> 12:25 outlook.office.com</li>
 <li> 12:11 arxiv.org</li>
@@ -9477,9 +14174,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:22 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:22 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:21 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:21 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:18 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/30/performative-reading-public-tiktok">Is it OK to read Infinite Jest in public? Why the internet hates ‘performative reading’ | Life and style | The Guardian</a></li>
 <li> 16:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 16:17 www.independent.co.uk</li>
@@ -10009,7 +14706,7 @@ With number of accesses/minutes in parentheses
 <li> 18:06 <a href="https://www.theguardian.com/film/2025/jun/27/no-plans-ever-to-retire-why-steven-spielberg-and-the-movie-brat-generation-just-wont-quit">‘No plans ever to retire’: why Steven Spielberg and the movie brat generation just won’t quit | Film | The Guardian</a></li>
 <li class='same'> 18:05 <a href="https://www.theguardian.com/film/2025/jun/27/no-plans-ever-to-retire-why-steven-spielberg-and-the-movie-brat-generation-just-wont-quit">‘No plans ever to retire’: why Steven Spielberg and the movie brat generation just won’t quit | Film | The Guardian</a></li>
 <li> 18:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:04 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:04 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:04 <a href="https://www.theguardian.com/commentisfree/2025/jun/27/anna-wintour-super-rich-lauren-sanchez-jeff-bezos-vogue">Anna Wintour has spent decades dictating a certain look for the super-rich. Then along came Lauren | Marina Hyde | The Guardian</a></li>
 <li> 17:45 www.facebook.com</li>
 <li> 17:45 nicetutor.co.uk</li>
@@ -10072,23 +14769,23 @@ With number of accesses/minutes in parentheses
 <li> 16:15 <a href="https://www.youtube.com/watch?v=NFZGlfW7Qus">(581) Quick and easy setup for teaching piano lessons online - YouTube</a></li>
 <li> 16:14 <a href="https://www.youtube.com/results?search_query=+online+piano+lessons+example">(581) online piano lessons example - YouTube</a></li>
 <li> 16:14 <a href="https://www.youtube.com/results?search_query=how+to+do+online+piano+lessons">(581) how to do online piano lessons - YouTube</a></li>
-<li> 16:13 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 16:13 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 16:13 www.superprof.co.uk</li>
 <li class='same'> 16:12 www.superprof.co.uk</li>
 <li class='same'> 16:11 www.superprof.co.uk</li>
 <li> 15:52 <a href="https://www.youtube.com/watch?v=c5ESCaJWqJo">(581) Honest Trailers | Drive - YouTube</a></li>
 <li> 15:52 <a href="https://www.youtube.com/results?search_query=honest+trailers">(581) honest trailers - YouTube</a></li>
-<li> 15:51 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 15:51 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 15:51 <a href="https://www.theguardian.com/us-news/live/2025/jun/27/donald-trump-big-beautiful-bill-reworked-senate-us-politics-latest-updates-news">Three liberal supreme court justices dissent against ruling that limits power of judges to block Trump’s birthright citizenship order – live</a></li>
 <li> 15:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:50 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:50 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:50 mail.google.com</li>
 <li> 15:38 web.whatsapp.com</li>
 <li> 15:38 <a href="https://www.youtube.com/watch?v=mtsabsZ4wG4&t=15s">(581) How To Play The Queen's Gambit - YouTube</a></li>
 <li> 15:38 <a href="https://www.youtube.com/results?search_query=queen%27s+gambit+opening+theory">(581) queen's gambit opening theory - YouTube</a></li>
-<li> 15:38 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 15:38 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 15:38 myaccount.google.com</li>
-<li> 15:38 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 15:38 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 15:36 drive.google.com</li>
 <li> 15:36 mail.google.com</li>
 <li> 15:36 gmail.com</li>
@@ -10356,7 +15053,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:31 tvtropes.org</li>
 <li> 06:31 duckduckgo.com</li>
 <li> 06:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:28 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:28 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:27 duckduckgo.com</li>
 <li> 06:13 <a href="https://en.wikipedia.org/wiki/Elementary_charge">Elementary charge - Wikipedia</a></li>
 <li class='same'> 06:10 <a href="https://en.wikipedia.org/wiki/Elementary_charge">Elementary charge - Wikipedia</a></li>
@@ -10441,14 +15138,14 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:30 www.reddit.com</li>
 <li class='same'> 13:28 www.reddit.com</li>
 <li> 13:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:28 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:28 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:28 <a href="https://www.theguardian.com/us-news/2025/apr/02/trump-new-tariffs-liberation-day">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
 <li> 13:23 www.google.com</li>
 <li> 13:20 <a href="https://www.theguardian.com/film/2025/jun/26/mel-brooks-ranked-movies">Mel Brooks turns 99: the comedy icon’s best films – ranked! | Mel Brooks | The Guardian</a></li>
 <li> 13:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 13:19 <a href="https://www.theguardian.com/politics/2025/jun/26/reform-warwickshire-council-head-rob-howard-quits-after-five-weeks-leaving-18-year-old-in-charge">Reform Warwickshire council head quits after five weeks, leaving 18-year-old in charge | Reform UK | The Guardian</a></li>
 <li> 13:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:18 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:18 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:18 <a href="https://www.theguardian.com/business/2025/jun/26/rules-that-protect-uk-homeowners-from-repossessions-may-be-scrapped">Rules that protect UK homeowners from repossessions may be scrapped | Financial Conduct Authority | The Guardian</a></li>
 <li> 13:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 13:12 mail.google.com</li>
@@ -10640,7 +15337,7 @@ With number of accesses/minutes in parentheses
 <li> 09:14 artofmemory.com</li>
 <li> 09:12 <a href="https://www.youtube.com/@Brainathlete">Ron White Memory Expert - Memory Training & Brain Training - YouTube</a></li>
 <li> 09:11 <a href="https://www.youtube.com/results?search_query=memory+palace">memory palace - YouTube</a></li>
-<li> 09:11 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 09:11 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 09:09 web.whatsapp.com</li>
 <li> 09:08 mail.google.com</li>
 <li> 09:08 calendar.google.com</li>
@@ -10663,7 +15360,7 @@ With number of accesses/minutes in parentheses
 <li> 08:53 chat.openai.com</li>
 <li> 08:51 <a href="https://www.bbc.co.uk/news/articles/cy4ymj00px7o">More Labour MPs join benefit revolt despite ministers' appeals - BBC News</a></li>
 <li> 08:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:51 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:51 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:42 fast.com</li>
 <li> 08:41 mail.google.com</li>
 <li> 08:41 www.google.com</li>
@@ -10856,7 +15553,7 @@ With number of accesses/minutes in parentheses
 <li> 21:46 <a href="https://xkcd.com/3057/">xkcd: Excusing Yourself</a></li>
 <li> 21:45 <a href="https://xkcd.com/2753/">xkcd: Air Handler</a></li>
 <li> 21:45 <a href="https://xkcd.com/313/">xkcd: Insomnia</a></li>
-<li> 21:45 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 21:45 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 21:44 www.giantitp.com</li>
 <li> 21:41 www.reddit.com</li>
 <li class='same'> 21:40 www.reddit.com</li>
@@ -10955,7 +15652,7 @@ With number of accesses/minutes in parentheses
 <li> 15:57 <a href="https://www.youtube.com/shorts/Nr3vo1CAJGA">Japanese macaque snow monkey peeling a banana with its baby - YouTube</a></li>
 <li> 15:57 <a href="https://www.youtube.com/shorts/jSbssTPCe48">cute monkey peeling a banana - YouTube</a></li>
 <li> 15:57 <a href="https://www.youtube.com/results?search_query=monkey+peel+banana">monkey peel banana - YouTube</a></li>
-<li> 15:56 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 15:56 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 15:56 duckduckgo.com</li>
 <li> 15:56 www.mozilla.org</li>
 <li> 15:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -10969,7 +15666,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:44 www.natesilver.net</li>
 <li> 13:42 <a href="https://www.theguardian.com/us-news/2025/jun/24/new-york-mayoral-primary-results">Zohran Mamdani declares historic victory in New York City mayoral primary after Cuomo concedes | New York | The Guardian</a></li>
 <li> 13:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:41 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:41 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:41 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/25/disney-plus-ironheart-review-black-panther-marvel-cinematic-universe-wakanda-dominique-thorne">Ironheart review – the small screen can barely contain the energy of this Black Panther spinoff | Television | The Guardian</a></li>
 <li> 13:41 www.linkedin.com</li>
 <li> 13:40 www.facebook.com</li>
@@ -11178,7 +15875,7 @@ With number of accesses/minutes in parentheses
 <li> 08:59 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/25/disney-plus-ironheart-review-black-panther-marvel-cinematic-universe-wakanda-dominique-thorne">Ironheart review – the small screen can barely contain the energy of this Black Panther spinoff | Television | The Guardian</a></li>
 <li> 08:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:51 <a href="https://www.theguardian.com/politics/2025/jun/25/class-age-education-dividing-lines-uk-politics-electoral-reform">Class no longer main dividing line in UK politics, survey shows | Opinion polls | The Guardian</a></li>
-<li> 08:51 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:51 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -11187,7 +15884,7 @@ With number of accesses/minutes in parentheses
 <li> 08:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:08 <a href="https://www.theguardian.com/politics/2025/jun/24/britain-must-prepare-for-possibility-of-attack-on-uk-soil-government-warns">Britain must prepare for possibility of attack on UK soil, government warns | Defence policy | The Guardian</a></li>
 <li> 08:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:08 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:08 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:56 <a href="https://www.theguardian.com/world/2025/jun/25/nicholas-tarasenko-15-year-old-hull-british-sumo-wrestler-japan">Teenager from Hull becomes second Briton ever to join a professional sumo stable | Japan | The Guardian</a></li>
 <li> 07:51 <a href="https://www.theguardian.com/politics/2025/jun/24/widespread-labour-dissent-over-welfare-bill-is-sign-things-are-going-very-badly-for-starmer">Widespread Labour dissent over welfare bill is sign things are going very badly for Starmer | Welfare | The Guardian</a></li>
 <li> 07:48 <a href="https://www.theguardian.com/world/2025/jun/24/keir-starmer-says-government-will-stand-firm-on-disability-welfare-overhaul">Starmer stands firm on welfare bill as number of Labour rebels passes 120 | Disability | The Guardian</a></li>
@@ -11339,7 +16036,7 @@ With number of accesses/minutes in parentheses
 <li> 19:13 www.google.com</li>
 <li> 19:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li class='same'> 19:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:06 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:06 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 19:06 <a href="https://www.theguardian.com/world/2025/jun/24/israel-us-and-iran-all-claim-to-have-won-the-war-but-who-has-really-gained">Israel, US and Iran all claim to have won the war, but who has really gained? | Iran | The Guardian</a></li>
 </ul>
 
@@ -11412,11 +16109,11 @@ With number of accesses/minutes in parentheses
 <li> 13:35 <a href="https://www.theguardian.com/money/2022/aug/03/labour-mps-aide-was-unfairly-dismissed-tribunal-rules">Labour MP’s aide was unfairly dismissed, tribunal rules | Employment law | The Guardian</a></li>
 <li> 13:33 <a href="https://www.theguardian.com/money/2025/jun/24/employee-messy-work-criticism-not-harassment-london-tribunal-rules">Telling employee their work is messy is not harassment, London tribunal rules | Employment tribunals | The Guardian</a></li>
 <li> 13:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:33 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:33 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:33 mail.google.com</li>
 <li> 13:31 <a href="https://www.theguardian.com/world/live/2025/jun/24/israel-iran-war-live-updates-trump-declares-ceasefire-tehran-attack-us-base-qatar">Israel-Iran war live: Trump swears in angry outburst at both sides over ceasefire violations</a></li>
 <li> 13:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:29 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:29 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:25 mail.google.com</li>
 <li> 13:25 challengeworks.org</li>
 <li class='same'> 13:24 challengeworks.org</li>
@@ -11626,7 +16323,7 @@ With number of accesses/minutes in parentheses
 <li> 19:38 www.google.com</li>
 <li> 19:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 19:37 <a href="https://www.theguardian.com/lifeandstyle/2025/apr/11/young-people-in-the-uk-tell-us-about-your-gym-habits">Young people in the UK: tell us about your gym habits | Fitness | The Guardian</a></li>
-<li> 19:37 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:37 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 19:37 newsthump.com</li>
 <li> 19:36 reductress.com</li>
 <li> 19:36 www.vrbo.com</li>
@@ -11637,7 +16334,7 @@ With number of accesses/minutes in parentheses
 <li> 19:32 <a href="https://www.theguardian.com/world/live/2025/jun/23/israel-iran-war-live-updates-us-trump-regime-change-middle-east-gaza-latest-news">Iran attacks US military base in Qatar as missiles launched at Iraq base housing US troops – latest updates</a></li>
 <li> 19:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 19:32 <a href="https://www.theguardian.com/australia-news/2025/apr/30/erin-patterson-mushroom-poisonings-murder-trial-ntwnfb">Erin Patterson concocted cancer diagnosis to ensure children missed fatal mushroom lunch, murder trial hears | Victoria | The Guardian</a></li>
-<li> 19:32 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:32 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -11647,7 +16344,7 @@ With number of accesses/minutes in parentheses
 <li> 18:05 <a href="https://www.theguardian.com/world/live/2025/jun/23/israel-iran-war-live-updates-us-trump-regime-change-middle-east-gaza-latest-news">Iran attacks US military base in Qatar as missiles launched at Iraq base housing US troops – latest updates</a></li>
 <li> 18:04 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/23/best-podcasts-of-the-week-cocaine-air-pablo-escobar">An astonishing tale of Lamborghinis, cocaine and the need to make a quick buck: best podcasts of the week | Television & radio | The Guardian</a></li>
 <li> 18:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:02 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:02 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:02 <a href="https://www.theguardian.com/lifeandstyle/2025/apr/28/i-stopped-talking-to-my-parents-and-life-opened-up-heather-graham-on-family-ageing-and-creepy-film-makers#img-2">‘I stopped talking to my parents – and life opened up’: Heather Graham on family, ageing and ‘creepy’ film-makers | Film | The Guardian</a></li>
 <li> 18:02 <a href="https://www.theguardian.com/lifeandstyle/2025/apr/28/i-stopped-talking-to-my-parents-and-life-opened-up-heather-graham-on-family-ageing-and-creepy-film-makers">‘I stopped talking to my parents – and life opened up’: Heather Graham on family, ageing and ‘creepy’ film-makers | Film | The Guardian</a></li>
 <li> 18:02 <a href="https://www.theguardian.com/lifeandstyle/2025/apr/28/i-stopped-talking-to-my-parents-and-life-opened-up-heather-graham-on-family-ageing-and-creepy-film-makers#img-1">‘I stopped talking to my parents – and life opened up’: Heather Graham on family, ageing and ‘creepy’ film-makers | Film | The Guardian</a></li>
@@ -11794,7 +16491,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:54 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 07:54 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:51 <a href="https://www.theguardian.com/politics/2025/jun/22/reform-unveils-plan-to-top-up-poorest-workers-from-250000-fee-on-rich-uk-newcomers">Reform unveils plan to top up poorest workers from £250,000 fee on rich UK newcomers | Reform UK | The Guardian</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:50 www.google.com</li>
@@ -11890,7 +16587,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:57 www.printed.com</li>
 <li> 16:52 <a href="https://www.theguardian.com/world/2025/jun/22/how-effective-was-the-us-attack-on-irans-nuclear-sites-a-visual-guide">How effective was the US attack on Iran’s nuclear sites? A visual guide | Iran | The Guardian</a></li>
 <li> 16:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:51 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:51 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:51 www.printed.com</li>
 <li class='same'> 16:49 www.printed.com</li>
 <li class='same'> 16:39 www.printed.com</li>
@@ -11994,7 +16691,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 22:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 22:16 <a href="https://www.theguardian.com/culture/2025/jun/21/my-cultural-awakening-sleepless-in-seattle-cancel-wedding">My cultural awakening: I watched Sleepless in Seattle and realised I had to cancel my wedding | Culture | The Guardian</a></li>
 <li> 22:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 22:15 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:15 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 22:15 <a href="https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved">Harvard hired a researcher to uncover its ties to slavery. He says the results cost him his job: ‘We found too many slaves’ | Harvard University | The Guardian</a></li>
 </ul>
 
@@ -12023,10 +16720,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:32 <a href="https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved">Harvard hired a researcher to uncover its ties to slavery. He says the results cost him his job: ‘We found too many slaves’ | Harvard University | The Guardian</a></li>
 <li> 16:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:31 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:31 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:31 <a href="https://www.theguardian.com/commentisfree/2025/jun/21/week-in-patriarchy-arwa-mahdawi">Why does this billionaire have 100 kids in 12 countries? | Arwa Mahdawi | The Guardian</a></li>
 <li> 16:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:30 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:30 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -12054,7 +16751,7 @@ With number of accesses/minutes in parentheses
 <li> 14:42 <a href="https://www.theguardian.com/football/2025/jun/21/america-is-showing-us-football-in-its-final-dictator-form-we-cant-afford-to-look-away">America is showing us football in its final dictator form – we can’t afford to look away | Club World Cup 2025 | The Guardian</a></li>
 <li class='same'> 14:41 <a href="https://www.theguardian.com/football/2025/jun/21/america-is-showing-us-football-in-its-final-dictator-form-we-cant-afford-to-look-away">America is showing us football in its final dictator form – we can’t afford to look away | Club World Cup 2025 | The Guardian</a></li>
 <li> 14:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:40 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:40 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -12396,7 +17093,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:18 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:18 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
@@ -12415,7 +17112,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:58 mail.google.com</li>
 <li> 09:58 gmail.com</li>
 <li> 09:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:30 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:30 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 09:11 duckduckgo.com</li>
 <li> 09:10 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 </ul>
@@ -12424,7 +17121,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:14 <a href="https://www.theguardian.com/world/2025/jun/18/ukraine-war-briefing-north-korea-sending-another-5000-into-kursk-russian-claim">Ukraine war briefing: North Korea sending another 5,000 into Kursk – Russian claim | Ukraine | The Guardian</a></li>
 <li> 08:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:13 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:13 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:13 <a href="https://www.theguardian.com/world/live/2025/jun/17/israel-iran-conflict-live-updates-tehran-trump-evacuation-middle-east">Trump demands Iran’s ‘unconditional surrender’ – as it happened | Israel | The Guardian</a></li>
 </ul>
 
@@ -12438,7 +17135,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:49 <a href="https://www.theguardian.com/uk-news/2025/jun/17/uk-mothers-with-children-from-abusive-relationships-discriminated-against-by-benefits-system-court-told">Two mothers denied ‘rape clause’ exception to benefit cap discriminated against, UK court told | Universal credit | The Guardian</a></li>
 <li> 20:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 20:49 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:49 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 20:48 www.reddit.com</li>
 <li class='same'> 20:47 www.reddit.com</li>
 <li class='same'> 20:46 www.reddit.com</li>
@@ -12506,7 +17203,7 @@ With number of accesses/minutes in parentheses
 <li> 15:18 <a href="https://www.theguardian.com/media/2025/jun/17/operator-of-gossip-forum-tattle-life-unmasked-after-losing-defamation-case">Operator of gossip forum Tattle Life unmasked after losing defamation case | Digital media | The Guardian</a></li>
 <li> 15:16 <a href="https://www.theguardian.com/world/2025/jun/17/us-military-assets-missile-launch-sites-iran-fordow">US has no shortage of military assets if it wants to target missile launch sites in Iran | Iran | The Guardian</a></li>
 <li> 15:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:15 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:15 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:12 bsky.app</li>
 <li> 15:02 outlook.office.com</li>
 <li class='same'> 14:59 outlook.office.com</li>
@@ -12832,7 +17529,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:15 www.reddit.com</li>
 <li> 10:14 <a href="https://www.theguardian.com/culture/2025/jun/16/the-genius-myth-by-helen-lewis-review-bright-wrong-things">The Genius Myth by Helen Lewis review – bright wrong things | Books | The Guardian</a></li>
 <li> 10:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:13 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:13 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:13 outlook.office.com</li>
 <li class='same'> 10:11 outlook.office.com</li>
 <li> 10:11 m365.cloud.microsoft</li>
@@ -12902,7 +17599,7 @@ With number of accesses/minutes in parentheses
 <li> 06:21 api-b6327e78.duosecurity.com</li>
 <li> 06:21 adfs.herts.ac.uk</li>
 <li> 06:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:19 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:19 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:19 herts365-my.sharepoint.com</li>
 <li> 06:17 api-b6327e78.duosecurity.com</li>
 <li> 06:17 adfs.herts.ac.uk</li>
@@ -12996,7 +17693,7 @@ With number of accesses/minutes in parentheses
 <li> 11:07 www.reddit.com</li>
 <li class='same'> 11:06 www.reddit.com</li>
 <li> 11:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:06 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:06 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:01 <a href="https://www.theguardian.com/world/2025/jun/14/israel-claims-it-has-gained-control-of-airspace-over-tehran">Israel claims it has gained control of airspace over Tehran | Israel | The Guardian</a></li>
 <li> 11:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 11:00 <a href="https://www.theguardian.com/education/2025/jun/15/thousands-of-uk-university-students-caught-cheating-using-ai-artificial-intelligence-survey">Revealed: Thousands of UK university students caught cheating using AI | Higher education | The Guardian</a></li>
@@ -13071,7 +17768,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:43 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:43 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 10:27 www.google.com</li>
 <li> 10:27 accounts.google.com</li>
@@ -13107,10 +17804,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:53 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:53 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:50 <a href="https://www.theguardian.com/world/live/2025/jun/13/israel-iran-strikes-defence-minister-tehran-middle-east-live?page=with:block-684c60028f08baf6b1a6b10b#block-684c60028f08baf6b1a6b10b">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 18:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:50 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:50 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:50 <a href="https://www.theguardian.com/world/2025/jun/13/israels-strikes-on-iran-show-trump-is-unable-to-restrain-netanyahu-as-middle-east-slips-closer-to-chaos">Israel’s strikes on Iran show Trump is unable to restrain Netanyahu as Middle East slips closer to chaos | Iran | The Guardian</a></li>
 <li> 18:38 www.linkedin.com</li>
 <li class='same'> 18:37 www.linkedin.com</li>
@@ -13133,7 +17830,7 @@ With number of accesses/minutes in parentheses
 <li> 13:30 www.facebook.com</li>
 <li> 13:29 <a href="https://www.theguardian.com/us-news/2025/jun/12/los-angeles-protests-alex-padilla-kristi-noem">Senator Alex Padilla handcuffed and forcibly removed from Kristi Noem’s LA press conference | Los Angeles Ice protests | The Guardian</a></li>
 <li> 13:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:29 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:29 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:14 www.ebay.co.uk</li>
 <li class='same'> 13:13 www.ebay.co.uk</li>
 <li> 13:09 equalitytime.github.io</li>
@@ -13214,7 +17911,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:43 drive.google.com</li>
 <li> 18:43 mail.google.com</li>
 <li> 18:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:22 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:22 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 18:01 <a href="https://www.theguardian.com/environment/2025/jun/12/research-reveals-24000-megafarms-across-europe">Revealed: More than 24,000 factory farms have opened across Europe | Farming | The Guardian</a></li>
 <li> 18:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -13422,7 +18119,7 @@ With number of accesses/minutes in parentheses
 <li> 10:06 chatgpt.com</li>
 <li> 10:05 royalhollowayacuk.elluciancrmrecruit.com</li>
 <li> 09:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:54 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:54 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 09:54 <a href="https://www.theguardian.com/culture/2025/jun/12/tamara-de-lempicka-rafaela-portrait-sale">Tamara de Lempicka’s ‘remarkable nude’ of lover Rafaëla to be auctioned | Culture | The Guardian</a></li>
 <li> 09:45 docs.google.com</li>
 <li> 09:44 drive.google.com</li>
@@ -13432,7 +18129,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:14 <a href="https://www.theguardian.com/culture/2025/jun/12/tamara-de-lempicka-rafaela-portrait-sale">Tamara de Lempicka’s ‘remarkable nude’ of lover Rafaëla to be auctioned | Culture | The Guardian</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:13 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:13 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/football/2025/jun/12/sky-sports-news-golden-age-at-an-end-as-rival-platforms-turn-up-the-volume">Sky Sports News’ golden age at an end as rival platforms turn up the volume | Football | The Guardian</a></li>
 </ul>
 
@@ -13456,7 +18153,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:31 forum.arduino.cc</li>
 <li> 06:31 duckduckgo.com</li>
 <li> 06:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:20 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:20 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <H3>Wednesday, 11/06/25</H3>
@@ -13525,11 +18222,11 @@ With number of accesses/minutes in parentheses
 <li> 19:10 duckduckgo.com</li>
 <li> 19:09 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/11/well-have-done-it-first-what-it-takes-to-set-a-new-guinness-world-record">‘We’ll have done it first’: what it takes to set a new Guinness World Record | Australian lifestyle | The Guardian</a></li>
 <li> 19:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:05 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:05 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:54 studio.youtube.com</li>
 <li> 18:54 <a href="https://www.youtube.com/@projectreal2513">(51) Project Real - YouTube</a></li>
 <li> 18:54 studio.youtube.com</li>
-<li> 18:54 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 18:54 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 18:46 chatgpt.com</li>
 <li class='same'> 18:45 chatgpt.com</li>
 <li> 18:45 chat.openai.com</li>
@@ -13585,7 +18282,7 @@ With number of accesses/minutes in parentheses
 <li> 12:56 mail.google.com</li>
 <li> 12:53 chatgpt.com</li>
 <li> 12:53 chat.openai.com</li>
-<li> 12:53 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 12:53 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 12:52 <a href="https://en.wikipedia.org/wiki/Languages_of_Nigeria">Languages of Nigeria - Wikipedia</a></li>
 <li> 12:52 duckduckgo.com</li>
 <li> 12:49 outlook.office365.com</li>
@@ -13690,7 +18387,7 @@ With number of accesses/minutes in parentheses
 <li> 06:40 www.kaggle.com</li>
 <li> 06:38 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 06:38 <a href="https://www.bbc.co.uk/sport/football/articles/cn8zldjnzpro">Pelly-Ruddock Mpanzu: Luton Town legend to leave the club - BBC Sport</a></li>
-<li> 06:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:37 <a href="https://www.theguardian.com/australia-news/2025/jun/11/fury-over-year-9-students-in-south-australia-being-asked-to-debate-whether-the-tradwife-movement-is-good-for-women">Fury over year 9 students in South Australia being asked to debate whether the tradwife movement is good for women | South Australia | The Guardian</a></li>
 <li> 06:27 www.google.com</li>
 <li class='same'> 06:26 www.google.com</li>
@@ -13760,7 +18457,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:39 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:39 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:38 <a href="https://www.theguardian.com/us-news/2025/jun/10/trump-fires-usaid-overseas-employees">Trump administration to cut all USAID overseas roles and axe thousands of staff | Trump administration | The Guardian</a></li>
 <li> 18:37 en.meming.world</li>
 </ul>
@@ -13904,7 +18601,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:24 outlook.office.com</li>
 <li> 10:22 <a href="https://www.theguardian.com/books/2025/jun/10/how-not-to-be-a-political-wife-by-sarah-vine-review-a-bitter-memoir-of-power-and-betrayal">How Not to Be a Political Wife by Sarah Vine review – a bitter memoir of power and betrayal | Autobiography and memoir | The Guardian</a></li>
 <li> 10:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:21 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:21 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:21 outlook.office.com</li>
 <li class='same'> 10:19 outlook.office.com</li>
 <li class='same'> 10:17 outlook.office.com</li>
@@ -13963,7 +18660,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 21:41 <a href="https://www.theguardian.com/world/2025/may/22/germany-anti-russian-defence-nato-lithuania-friedrich-merz">German troops start first permanent foreign deployment since second world war | Germany | The Guardian</a></li>
 <li> 21:39 <a href="https://www.theguardian.com/world/2025/jun/09/nato-chief-russia-quantum-leap-defence">Russia could be ready to attack Nato within five years, says secretary general | Nato | The Guardian</a></li>
 <li> 21:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 21:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:38 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 21:37 <a href="https://www.theguardian.com/uk-news/2025/jun/09/uk-teenager-killed-herself-highly-affected-terrorism-arrest-inquest-rhianan-rudd">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
 <li> 21:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 21:36 www.reddit.com</li>
@@ -13989,7 +18686,7 @@ With number of accesses/minutes in parentheses
 <li> 20:26 <a href="https://www.youtube.com/watch?v=GZOh1NzqzzU">Guide to crimp connectors on 3D printers - Take your wiring to the next level! - YouTube</a></li>
 <li> 20:07 <a href="https://www.youtube.com/watch?v=MGt8cnVIKW8">3D Printing 101: How To Fix a Clogged Nozzle Using a Cold Pull! - YouTube</a></li>
 <li> 20:07 <a href="https://www.youtube.com/results?search_query=cold+pull">cold pull - YouTube</a></li>
-<li> 20:06 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 20:06 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 20:05 mail.google.com</li>
 <li class='same'> 20:04 mail.google.com</li>
 <li> 20:04 gmail.com</li>
@@ -14026,7 +18723,7 @@ With number of accesses/minutes in parentheses
 <li> 17:52 mail.google.com</li>
 <li class='same'> 17:51 mail.google.com</li>
 <li> 17:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:51 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:51 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:51 www.reddit.com</li>
 <li class='same'> 17:50 www.reddit.com</li>
 <li class='same'> 17:46 www.reddit.com</li>
@@ -14118,7 +18815,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:55 outlook.office365.com</li>
 <li> 10:33 <a href="https://www.youtube.com/watch?v=bcyvZIoQp9A">Tony Stark's Workshop | Iron Man Music (One Hour) - YouTube</a></li>
 <li> 10:33 <a href="https://www.youtube.com/results?search_query=iron+man+ambience">iron man ambience - YouTube</a></li>
-<li> 10:33 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 10:33 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 </ul>
 
 <br>
@@ -14172,7 +18869,7 @@ With number of accesses/minutes in parentheses
 <li> 20:55 <a href="https://www.theguardian.com/environment/2025/jun/08/campaigners-hail-plan-to-ban-bottom-trawling-in-half-of-englands-protected-seas">Campaigners hail plan to ban bottom trawling in half of England’s protected seas | Fishing | The Guardian</a></li>
 <li> 20:54 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/08/this-is-how-we-do-it-we-live-in-a-tiny-flat-with-our-kids-so-we-have-sex-in-the-woods-at-night">This is how we do it: ‘We live in a tiny flat with our kids, so we have sex in the woods at night’ | Life and style | The Guardian</a></li>
 <li> 20:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 20:53 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:53 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 20:53 bsky.app</li>
 <li> 20:50 www.amazon.co.uk</li>
 <li class='same'> 20:49 www.amazon.co.uk</li>
@@ -14186,7 +18883,7 @@ With number of accesses/minutes in parentheses
 <li> 20:42 <a href="https://www.youtube.com/results?search_query=crimping+wires+for+arduino">crimping wires for arduino - YouTube</a></li>
 <li> 20:40 <a href="https://www.youtube.com/watch?v=cqyYBua4pX4">How you can use Wire Ferrules (Why We Need Them!) - YouTube</a></li>
 <li> 20:40 <a href="https://www.youtube.com/results?search_query=crimping+wires">crimping wires - YouTube</a></li>
-<li> 20:39 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 20:39 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 20:34 detailspin.com</li>
 <li> 20:32 duckduckgo.com</li>
 <li> 20:31 arduino.stackexchange.com</li>
@@ -14541,7 +19238,7 @@ With number of accesses/minutes in parentheses
 <li> 16:06 bsky.app</li>
 <li> 16:06 <a href="https://www.youtube.com/watch?v=oTugjssqOT0">Randy Pausch Lecture: Time Management - YouTube</a></li>
 <li> 16:06 <a href="https://www.youtube.com/results?search_query=randy+pausch+time+management">randy pausch time management - YouTube</a></li>
-<li> 16:05 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 16:05 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 15:47 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 15:47 mail.google.com</li>
 <li> 15:46 www.reddit.com</li>
@@ -14796,7 +19493,7 @@ With number of accesses/minutes in parentheses
 <li> 08:07 www.huffingtonpost.co.uk</li>
 <li> 08:05 www.buzzfeed.com</li>
 <li> 08:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:05 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:05 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:55 <a href="https://www.theguardian.com/commentisfree/2025/jun/05/trump-musk-fight-fallout">Trump v Musk: world’s two worst people are finally having a big, beautiful breakup | Arwa Mahdawi | The Guardian</a></li>
 <li> 07:41 news.sky.com</li>
 <li> 07:41 www.google.com</li>
@@ -14836,18 +19533,18 @@ With number of accesses/minutes in parentheses
 <li> 06:55 www.telegraph.co.uk</li>
 <li> 06:53 <a href="https://www.theguardian.com/music/2025/jun/06/beyonce-london-concert-show-review-cowboy-carter-tour">Beyoncé review – a hugely enjoyable concert that adds a ferocious potency to Cowboy Carter | Beyoncé | The Guardian</a></li>
 <li> 06:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:52 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:52 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:52 <a href="https://www.theguardian.com/us-news/2025/jun/06/trump-travel-ban-analysis">Trump travel ban comes as little surprise amid barrage of draconian restrictions | US immigration | The Guardian</a></li>
 <li> 06:52 news.sky.com</li>
 <li> 06:48 <a href="https://www.theguardian.com/us-news/2025/jun/06/trump-travel-ban-analysis">Trump travel ban comes as little surprise amid barrage of draconian restrictions | US immigration | The Guardian</a></li>
 <li> 06:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:47 <a href="https://www.theguardian.com/politics/2025/jun/05/zia-yusuf-quits-as-chair-of-reform-uk-after-new-mp-burqa-ban-row">Zia Yusuf quits as Reform UK chair after row over new MP’s call for burqa ban | Reform UK | The Guardian</a></li>
 <li> 06:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:46 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:46 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/us-news/2025/jun/05/trump-elon-musk-fallout">Impeachment, Epstein and bitter acrimony: Trump and Musk joust in astonishing social media duel | Donald Trump | The Guardian</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:44 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:44 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/commentisfree/2025/jun/06/keir-starmer-politics-left-right-prime-minister">Keir Starmer’s muddled politics are reaching their limit. It’s time for him to make a choice | Andy Beckett | The Guardian</a></li>
 <li> 06:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:42 <a href="https://www.theguardian.com/culture/2025/jun/06/explain-it-to-me-quickly-what-is-aura-farming-and-is-it-cool-or-cringe">Explain it to me quickly: What is aura farming, and is it cool or cringe? | Timothée Chalamet | The Guardian</a></li>
@@ -15039,14 +19736,14 @@ With number of accesses/minutes in parentheses
 <li> 06:31 <a href="https://xkcd.com/3095/">xkcd: Archaea</a></li>
 <li> 06:31 <a href="https://xkcd.com/3096/">xkcd: Check Engine</a></li>
 <li> 06:31 <a href="https://xkcd.com/3097/">xkcd: Bridge Types</a></li>
-<li> 06:30 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 06:30 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 06:30 www.giantitp.com</li>
 <li> 06:20 feedly.com</li>
 <li> 06:19 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/ive-learned-a-new-word-and-now-im-seeing-the-people-it-describes-everywhere">I’ve learned a new word – and now I’m seeing the people it describes everywhere | Adrian Chiles | The Guardian</a></li>
 <li> 06:18 <a href="https://www.theguardian.com/film/2025/jun/05/predator-killer-of-killers-review-animated-anthology-of-arnies-old-antagonists">Predator: Killer of Killers review – animated anthology of Arnie’s old antagonists | Film | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/australia-news/2025/jun/05/erin-patterson-mushroom-lunch-trial-cross-examination-death-cap-ntwnfb">Erin Patterson denies deliberately foraging death cap mushrooms and weighing fatal dose as cross-examination begins | Victoria | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:17 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:17 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:16 mail.google.com</li>
 </ul>
 
@@ -15339,7 +20036,7 @@ With number of accesses/minutes in parentheses
 <li> 10:02 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/use-word-gotten-some-readers-upset">How the use of a word in the Guardian has gotten some readers upset | Elisabeth Ribbans | The Guardian</a></li>
 <li> 10:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 10:02 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/04/stick-review-owen-wilson-golf-apple-tv">Stick review – Owen Wilson is utterly charming in the Ted Lasso of golf | Television | The Guardian</a></li>
-<li> 10:02 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:02 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:00 mail.google.com</li>
 <li> 09:59 my-charity-account.charitycommission.gov.uk</li>
 <li class='same'> 09:56 my-charity-account.charitycommission.gov.uk</li>
@@ -15384,7 +20081,7 @@ With number of accesses/minutes in parentheses
 <li> 08:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:52 <a href="https://www.theguardian.com/us-news/2025/jun/03/lindsey-graham-trump-russia-ukraine">Are Lindsey Graham’s contortions about to prod Trump into Russia sanctions? | US news | The Guardian</a></li>
 <li> 08:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:52 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -15471,25 +20168,18 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:18 calendar.google.com</li>
 <li> 06:18 mail.google.com</li>
 <li> 06:18 calendar.google.com</li>
-<li> 06:18 www.google.com</li>
-<li> 06:18 calendar.google.com</li>
 <li> 06:18 mail.google.com</li>
 <li> 06:17 docs.google.com</li>
 <li class='same'> 06:16 docs.google.com</li>
 <li> 06:16 mail.google.com</li>
-<li> 06:16 www.google.com</li>
 <li> 06:16 github.com</li>
-<li> 06:15 www.google.com</li>
-<li> 06:15 designs.theopenvoicefactory.org</li>
 <li> 06:15 mail.google.com</li>
 <li> 06:13 github.com</li>
 <li class='same'> 06:11 github.com</li>
-<li> 06:08 www.google.com</li>
-<li> 06:08 github.com</li>
+<li class='same'> 06:08 github.com</li>
 <li> 06:08 mail.google.com</li>
 <li class='same'> 06:07 mail.google.com</li>
 <li> 06:07 www.jobs.ac.uk</li>
-<li> 06:07 www.google.com</li>
 <li> 06:06 mail.google.com</li>
 <li> 06:05 calendar.google.com</li>
 <li> 06:05 mail.google.com</li>
@@ -15518,7 +20208,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:15 docs.google.com</li>
 <li> 19:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:14 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:14 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 19:14 www.foxnews.com</li>
 <li class='same'> 19:13 www.foxnews.com</li>
 <li> 19:13 www.giantitp.com</li>
@@ -15566,7 +20256,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:16 www.camerajungle.co.uk</li>
 <li> 17:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:16 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:16 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 17:09 www.linkedin.com</li>
 <li> 17:08 chatgpt.com</li>
@@ -15578,7 +20268,7 @@ With number of accesses/minutes in parentheses
 <li> 17:03 www.google.com</li>
 <li> 17:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li class='same'> 16:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:40 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:40 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:27 mail.google.com</li>
 <li class='same'> 16:22 mail.google.com</li>
 <li> 16:21 www.reddit.com</li>
@@ -15659,13 +20349,12 @@ With number of accesses/minutes in parentheses
 <li> 13:49 outlook.office365.com</li>
 <li class='same'> 13:48 outlook.office365.com</li>
 <li> 13:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:46 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:46 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:41 www.reddit.com</li>
 <li class='same'> 13:39 www.reddit.com</li>
 <li class='same'> 13:38 www.reddit.com</li>
 <li> 13:38 www.anam.ai</li>
 <li> 13:38 anam.ai</li>
-<li> 13:38 alb.reddit.com</li>
 <li> 13:38 equalitytime.github.io</li>
 <li> 13:38 www.reddit.com</li>
 <li class='same'> 13:36 www.reddit.com</li>
@@ -15709,17 +20398,12 @@ With number of accesses/minutes in parentheses
 <li> 11:35 bsky.app</li>
 <li class='same'> 11:34 bsky.app</li>
 <li> 11:28 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li> 11:25 www.google.com</li>
 <li> 11:25 community.ui.com</li>
-<li> 11:25 www.google.com</li>
 <li> 11:24 electronics.stackexchange.com</li>
 <li> 11:19 stackauth.com</li>
 <li> 11:19 electronics.stackexchange.com</li>
-<li> 11:19 accounts.google.com</li>
-<li> 11:19 electronics.stackexchange.com</li>
 <li class='same'> 11:18 electronics.stackexchange.com</li>
 <li> 11:17 imgur.com</li>
-<li> 11:17 i.imgur.com</li>
 <li> 11:17 www.reddit.com</li>
 <li> 11:17 www.google.com</li>
 <li class='same'> 11:11 www.google.com</li>
@@ -15773,7 +20457,7 @@ With number of accesses/minutes in parentheses
 <li> 06:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 06:54 <a href="https://www.theguardian.com/world/2025/jun/02/operation-spiderweb-visual-guide-ukraine-drone-attack-russian-aircraft">Operation Spiderweb: a visual guide to Ukraine’s destruction of Russian aircraft | Ukraine | The Guardian</a></li>
 <li> 06:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:54 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:54 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:49 docs.google.com</li>
 <li> 06:44 www.linkedin.com</li>
 <li> 06:42 www.reddit.com</li>
@@ -15782,9 +20466,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:39 www.reddit.com</li>
 <li> 06:39 duckduckgo.com</li>
 <li> 06:38 www.tesco.com</li>
-<li> 06:38 www.google.com</li>
-<li> 06:36 www.tesco.com</li>
-<li> 06:36 www.google.com</li>
+<li class='same'> 06:36 www.tesco.com</li>
 <li> 06:35 docs.google.com</li>
 <li class='same'> 06:34 docs.google.com</li>
 <li> 06:32 www.ketovale.com</li>
@@ -15793,7 +20475,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:31 www.reddit.com</li>
 <li> 06:31 duckduckgo.com</li>
 <li> 06:31 www.tesco.com</li>
-<li> 06:31 www.google.com</li>
 <li> 06:28 docs.google.com</li>
 </ul>
 
@@ -15813,8 +20494,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:53 www.reddit.com</li>
 <li> 20:49 docs.google.com</li>
 <li> 20:49 web.whatsapp.com</li>
-<li> 20:49 outlook.office365.com</li>
-<li> 20:49 login.microsoftonline.com</li>
 <li> 20:49 outlook.office365.com</li>
 <li> 20:47 bsky.app</li>
 </ul>
@@ -15841,14 +20520,13 @@ With number of accesses/minutes in parentheses
 <li> 18:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/02/why-did-ncuti-gatwa-leave-doctor-who-so-soon#img-1">Fun, flirty and far too brief: why did Ncuti Gatwa leave Doctor Who so soon? | Doctor Who | The Guardian</a></li>
 <li> 18:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/02/why-did-ncuti-gatwa-leave-doctor-who-so-soon">Fun, flirty and far too brief: why did Ncuti Gatwa leave Doctor Who so soon? | Doctor Who | The Guardian</a></li>
 <li> 18:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:08 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:08 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:08 bsky.app</li>
 <li> 17:54 outlook.office365.com</li>
 <li class='same'> 17:53 outlook.office365.com</li>
 <li> 17:53 docs.google.com</li>
 <li class='same'> 17:52 docs.google.com</li>
 <li> 17:51 web.whatsapp.com</li>
-<li> 17:51 rhul.sharepoint.com</li>
 <li> 17:51 mail.google.com</li>
 <li> 17:51 outlook.office365.com</li>
 <li class='same'> 17:50 outlook.office365.com</li>
@@ -15905,8 +20583,6 @@ With number of accesses/minutes in parentheses
 <li> 15:31 gmail.com</li>
 <li> 15:11 projects.cs.rhul.ac.uk</li>
 <li class='same'> 15:10 projects.cs.rhul.ac.uk</li>
-<li> 15:10 moodle.royalholloway.ac.uk</li>
-<li> 15:10 login.microsoftonline.com</li>
 <li> 15:10 moodle.royalholloway.ac.uk</li>
 <li> 15:10 login.microsoftonline.com</li>
 <li> 15:10 chatgpt.com</li>
@@ -15968,8 +20644,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:16 outlook.office365.com</li>
 <li class='same'> 11:15 outlook.office365.com</li>
 <li class='same'> 11:14 outlook.office365.com</li>
-<li> 11:14 login.microsoftonline.com</li>
-<li> 11:14 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -16006,7 +20680,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:58 <a href="https://en.wikipedia.org/wiki/Shane_Gillis">Shane Gillis - Wikipedia</a></li>
 <li> 17:58 duckduckgo.com</li>
 <li> 17:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:58 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:58 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:57 www.giantitp.com</li>
 <li class='same'> 17:56 www.giantitp.com</li>
 <li class='same'> 17:55 www.giantitp.com</li>
@@ -16255,8 +20929,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:36 www.reddit.com</li>
 <li class='same'> 21:35 www.reddit.com</li>
 <li> 21:34 moodle.royalholloway.ac.uk</li>
-<li> 21:34 login.microsoftonline.com</li>
-<li> 21:33 moodle.royalholloway.ac.uk</li>
+<li class='same'> 21:33 moodle.royalholloway.ac.uk</li>
 <li> 21:33 login.microsoftonline.com</li>
 <li> 21:32 outlook.office365.com</li>
 </ul>
@@ -16397,15 +21070,13 @@ With number of accesses/minutes in parentheses
 <li> 12:02 <a href="https://www.theguardian.com/us-news/2025/may/29/trump-always-chickens-out-taco-investors-narrative">‘Trump always chickens out’: Taco jibe ruffles president’s feathers | Donald Trump | The Guardian</a></li>
 <li> 12:01 <a href="https://www.theguardian.com/uk-news/2025/may/30/uk-poshest-thief-fined-stealing-le-creuset-cookware">Woman who calls herself ‘UK’s poshest thief’ fined for stealing Le Creuset cookware | UK news | The Guardian</a></li>
 <li> 12:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:01 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:01 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 12:00 outlook.office365.com</li>
 </ul>
 
 <br>
 
 <ul><li> 11:24 www.temu.com</li>
-<li> 11:24 www.reddit.com</li>
-<li> 11:24 www.temu.com</li>
 <li> 11:24 www.reddit.com</li>
 <li> 11:14 docs.google.com</li>
 <li class='same'> 11:13 docs.google.com</li>
@@ -16447,8 +21118,7 @@ With number of accesses/minutes in parentheses
 <li> 06:52 www.reddit.com</li>
 <li> 06:51 outlook.office365.com</li>
 <li class='same'> 06:50 outlook.office365.com</li>
-<li> 06:50 login.microsoftonline.com</li>
-<li> 06:49 outlook.office365.com</li>
+<li class='same'> 06:49 outlook.office365.com</li>
 </ul>
 
 <H3>Thursday, 29/05/25</H3>
@@ -16469,11 +21139,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:38 www.reddit.com</li>
 <li> 21:37 <a href="https://www.theguardian.com/news/2025/may/29/why-does-switzerland-have-more-nuclear-bunkers-than-any-other-country">Why does Switzerland have more nuclear bunkers than any other country? | Nuclear weapons | The Guardian</a></li>
 <li> 21:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 21:36 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:36 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 21:34 <a href="https://www.theguardian.com/commentisfree/2025/may/09/reform-farage-kill-off-tories-ridiculous-byelections">Will Nigel Farage and Reform UK kill off the Tories? Don’t be so ridiculous | Simon Jenkins | The Guardian</a></li>
 <li> 21:32 <a href="https://www.theguardian.com/politics/2025/may/29/is-there-any-way-back-from-abyss-for-tories">‘The brand is broken’: is there any way back from abyss for Tories? | Conservatives | The Guardian</a></li>
 <li> 21:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 21:31 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:31 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 21:23 mail.google.com</li>
 <li class='same'> 21:22 mail.google.com</li>
 <li> 21:22 gmail.com</li>
@@ -16529,10 +21199,10 @@ With number of accesses/minutes in parentheses
 <li> 17:44 <a href="https://www.theguardian.com/commentisfree/2025/may/29/king-charles-politics-monarchy-visit-to-canada">In Canada, Charles pushed the boundaries of politics as king. So far, he has gotten away with it | Martin Kettle | The Guardian</a></li>
 <li> 17:42 <a href="https://www.theguardian.com/commentisfree/2025/may/29/donald-trump-elon-musk-doge-tariffs">It’s been a big, beautiful week of bad news for Trump. But don’t expect it to stick | Zoe Williams | The Guardian</a></li>
 <li> 17:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:42 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:42 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:41 <a href="https://www.theguardian.com/us-news/2025/may/29/why-has-a-us-court-blocked-donald-trumps-tariffs-and-can-he-get-round-it">Why has a US court blocked Donald Trump’s tariffs – and can he get round it? | Trump tariffs | The Guardian</a></li>
 <li> 17:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:40 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:40 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:40 bsky.app</li>
 <li> 17:40 www.facebook.com</li>
 <li> 17:40 docs.google.com</li>
@@ -16567,7 +21237,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:48 www.reddit.com</li>
 <li class='same'> 15:47 www.reddit.com</li>
 <li> 15:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:34 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:34 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:24 www.printables.com</li>
 </ul>
 
@@ -16672,7 +21342,7 @@ With number of accesses/minutes in parentheses
 <li> 19:34 <a href="https://www.theguardian.com/news/2025/may/28/influencers-andrew-tate-tristan-to-face-charges-in-uk-cps-confirms">Influencers Andrew and Tristan Tate to face 21 charges in UK, CPS confirms | Andrew Tate | The Guardian</a></li>
 <li class='same'> 19:33 <a href="https://www.theguardian.com/news/2025/may/28/influencers-andrew-tate-tristan-to-face-charges-in-uk-cps-confirms">Influencers Andrew and Tristan Tate to face 21 charges in UK, CPS confirms | Andrew Tate | The Guardian</a></li>
 <li> 19:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:33 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:33 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 19:33 <a href="https://www.theguardian.com/help/privacy-policy">Privacy policy | Privacy | The Guardian</a></li>
 <li> 19:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
@@ -16687,7 +21357,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:09 <a href="https://www.theguardian.com/politics/2025/may/28/john-mcdonnell-calls-for-grassroots-leadership-challenge-to-keir-starmer-government">John McDonnell calls for grassroots leadership challenge to Starmer government | John McDonnell | The Guardian</a></li>
 <li> 18:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:09 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:09 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:08 www.reddit.com</li>
 <li class='same'> 18:06 www.reddit.com</li>
 <li class='same'> 18:05 www.reddit.com</li>
@@ -16699,7 +21369,7 @@ With number of accesses/minutes in parentheses
 <li> 17:58 <a href="https://www.theguardian.com/us-news/live/2025/may/28/us-politics-live-donald-trump-elon-musk-tax-doge-harvard-students-immigration-news-updates#top-of-blog">Trump says he will be negotiating the ‘big, beautiful’ tax bill after Musk criticizes it – live</a></li>
 <li> 17:57 <a href="https://www.theguardian.com/us-news/live/2025/may/28/us-politics-live-donald-trump-elon-musk-tax-doge-harvard-students-immigration-news-updates">(1) Trump says he will be negotiating the ‘big, beautiful’ tax bill after Musk criticizes it – live</a></li>
 <li> 17:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:57 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:57 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:32 <a href="https://www.theguardian.com/money/2025/may/28/uk-homeowners-selling-less-asking-price-survey-zoopla">UK homeowners selling for 4.5% below asking price, survey shows | House prices | The Guardian</a></li>
 <li> 17:20 <a href="https://www.youtube.com/watch?v=eghnMsWqWuY">The Queens Gambit Season 1 Episode 2 Beth Harmon VS Townes - YouTube</a></li>
 <li> 17:20 <a href="https://www.youtube.com/results?search_query=queen%27s+gambit">queen's gambit - YouTube</a></li>
@@ -16723,8 +21393,6 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 15:36 outlook.office365.com</li>
 <li> 15:35 mail.google.com</li>
 <li> 15:35 gmail.com</li>
-<li> 15:35 outlook.office365.com</li>
-<li> 15:35 login.microsoftonline.com</li>
 <li> 15:35 outlook.office365.com</li>
 <li> 15:27 www.reddit.com</li>
 <li> 15:26 web.whatsapp.com</li>
@@ -16931,8 +21599,6 @@ With number of accesses/minutes in parentheses
 <li> 06:05 mail.google.com</li>
 <li class='same'> 06:04 mail.google.com</li>
 <li> 06:04 accounts.google.com</li>
-<li> 06:04 mail.google.com</li>
-<li> 06:04 accounts.google.com</li>
 <li> 06:04 gmail.com</li>
 <li> 06:04 workspace.google.com</li>
 <li> 06:04 mail.google.com</li>
@@ -16943,7 +21609,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:03 mail.google.com</li>
 <li> 06:03 iseeglasschldrenpodcast.my.canva.site</li>
 <li> 06:03 iseeglasschildren.com</li>
-<li> 06:03 www.google.com</li>
 <li> 06:03 mail.google.com</li>
 <li class='same'> 06:02 mail.google.com</li>
 <li> 06:02 accounts.google.com</li>
@@ -17070,8 +21735,6 @@ With number of accesses/minutes in parentheses
 <li> 10:42 www.reddit.com</li>
 <li> 10:41 outlook.office365.com</li>
 <li class='same'> 10:40 outlook.office365.com</li>
-<li> 10:40 login.microsoftonline.com</li>
-<li> 10:40 outlook.office365.com</li>
 <li> 10:40 duckduckgo.com</li>
 <li class='same'> 10:39 duckduckgo.com</li>
 <li> 10:39 chatgpt.com</li>
@@ -17240,7 +21903,7 @@ With number of accesses/minutes in parentheses
 <li> 22:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 22:27 <a href="https://www.theguardian.com/lifeandstyle/2025/may/25/daphne-and-celeste-pop-duo-look-back">‘People in the scene would sometimes be mean to us. They’d forget we were teenagers’: Daphne and Celeste look back | Life and style | The Guardian</a></li>
 <li> 22:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 22:26 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:26 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 22:26 <a href="https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
 <li> 22:26 www.activeluton.co.uk</li>
 </ul>
@@ -17266,7 +21929,7 @@ With number of accesses/minutes in parentheses
 <li> 19:45 <a href="https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
 <li> 19:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 19:43 <a href="https://www.theguardian.com/lifeandstyle/ng-interactive/2025/may/17/the-happiest-places-to-live-in-britain">The Guardian’s happiest places to live in Britain revealed | Life and style | The Guardian</a></li>
-<li> 19:43 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:43 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 19:43 www.google.com</li>
 </ul>
 
@@ -17308,7 +21971,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 14:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:02 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:02 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 14:02 <a href="https://www.theguardian.com/world/2025/may/23/hamburg-train-station-stabbing-attack-germany?utm_source=firefox-newtab-en-gb">Woman arrested after 17 people injured in knife attack at Hamburg train station | Germany | The Guardian</a></li>
 <li> 13:59 <a href="https://www.theguardian.com/education/2025/may/24/children-with-special-needs-in-england-may-lose-legal-right-to-school-support">Children with special needs in England may lose legal right to school support | Special educational needs | The Guardian</a></li>
 </ul>
@@ -17318,10 +21981,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:18 mail.google.com</li>
 <li> 11:55 <a href="https://www.theguardian.com/education/2025/may/24/children-with-special-needs-in-england-may-lose-legal-right-to-school-support">Children with special needs in England may lose legal right to school support | Special educational needs | The Guardian</a></li>
 <li> 11:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:55 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:55 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:50 <a href="https://www.theguardian.com/world/2025/may/24/trump-russia-sanctions-europe-ukraine">Trump’s Russia sanctions refusal leaves Europe with few options but to wait | Ukraine | The Guardian</a></li>
 <li> 11:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:43 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:43 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -17332,7 +21995,7 @@ With number of accesses/minutes in parentheses
 <li> 10:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 10:44 <a href="https://www.theguardian.com/society/2025/may/24/disabled-campaigners-trans-people-toilet-segregation">Disabled campaigners watching ‘in horror’ as trans people face toilet segregation | Transgender | The Guardian</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:43 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:43 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/sport/2025/may/24/adrian-newey-out-to-build-car-that-will-tempt-max-verstappen-to-aston-martin">Adrian Newey out to build car that will tempt Max Verstappen to Aston Martin | Aston Martin | The Guardian</a></li>
 </ul>
 
@@ -17391,7 +22054,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:34 drive.google.com</li>
 <li> 06:32 <a href="https://www.theguardian.com/sport/2025/may/24/adrian-newey-out-to-build-car-that-will-tempt-max-verstappen-to-aston-martin">Adrian Newey out to build car that will tempt Max Verstappen to Aston Martin | Aston Martin | The Guardian</a></li>
 <li> 06:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:30 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:30 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:30 <a href="https://www.theguardian.com/business/live/2025/may/23/energy-price-cap-cut-great-britain-retail-sales-stock-markets-bonds-business-live-news">Trump announces Nippon Steel and US Steel partnership – as it happened | Business | The Guardian</a></li>
 </ul>
 
@@ -17623,11 +22286,11 @@ With number of accesses/minutes in parentheses
 <li> 07:21 <a href="https://www.theguardian.com/world/2025/may/09/mexico-google-lawsuit-gulf-of-mexico">Mexico sues Google over changing Gulf of Mexico’s name for US users | Mexico | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/technology/2025/may/23/elon-musk-new-city-starbase-texas">Fear, hope and loathing in Elon Musk’s new city: ‘It’s the wild, wild west and the future’ | Elon Musk | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:21 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:21 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/us-news/2025/may/22/israeli-embassy-staff-shooting-washington-dc">Suspect charged with murder in shooting of Israeli embassy staffers | Washington DC | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:21 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:21 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/us-news/2025/may/22/israeli-embassy-staff-shooting-washington-dc">Suspect charged with murder in shooting of Israeli embassy staffers | Washington DC | The Guardian</a></li>
 <li> 07:18 chatgpt.com</li>
 <li> 07:15 calendar.google.com</li>
@@ -17703,7 +22366,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:38 <a href="https://www.theguardian.com/law/2025/may/22/court-ruling-legal-definition-of-a-woman-misinterpreted-lady-hale">Court ruling on legal definition of a woman ‘misinterpreted’, Lady Hale says | Brenda Hale | The Guardian</a></li>
 <li> 20:38 <a href="https://www.theguardian.com/world/2025/may/22/high-court-judge-blocks-uk-from-concluding-chagos-islands-deal">UK signs £3.4bn deal to cede sovereignty over Chagos Islands to Mauritius | Chagos Islands | The Guardian</a></li>
 <li> 20:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 20:37 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:37 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -17845,7 +22508,7 @@ With number of accesses/minutes in parentheses
 <li> 06:45 outlook.office365.com</li>
 <li> 06:41 <a href="https://www.theguardian.com/games/2025/may/16/epic-games-apple-fortnite-app-store">Fortnite unavailable on iPhones globally after Apple rejects App Store release | Fortnite | The Guardian</a></li>
 <li> 06:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:40 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:40 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:40 outlook.office365.com</li>
 <li> 06:38 intranet.royalholloway.ac.uk</li>
 <li> 06:38 duckduckgo.com</li>
@@ -17868,7 +22531,7 @@ With number of accesses/minutes in parentheses
 <li> 21:35 docs.google.com</li>
 <li> 21:33 <a href="https://www.theguardian.com/technology/2025/may/21/openai-iphone-io">OpenAI buys iPhone architect’s startup for $6.4bn | Technology | The Guardian</a></li>
 <li> 21:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 21:31 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:31 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 21:06 www.reddit.com</li>
 <li> 21:06 www.google.com</li>
 <li> 21:06 www.reddit.com</li>
@@ -18152,7 +22815,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 19:11 www.foxnews.com</li>
 <li> 19:10 <a href="https://www.theguardian.com/world/live/2025/may/20/israel-gaza-hamas-aid-middle-east-crisis-live-news-updates">EU to review trade relations with Israel over ‘untenable’ situation in Gaza, says top diplomat – live</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:10 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:10 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/business/2025/may/15/ministers-to-block-thames-water-paying-bosses-bonuses-out-of-emergency-loan">Ministers to block Thames Water paying bosses bonuses out of emergency loan | Thames Water | The Guardian</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/business/2025/may/20/thames-water-chair-mps-bonuses">Thames Water: big bonuses due from emergency £3bn loan ‘withdrawn’ | Thames Water | The Guardian</a></li>
 <li> 19:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -18321,7 +22984,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:59 www.google.com</li>
 <li> 15:57 <a href="https://www.theguardian.com/world/2025/may/19/property-england-wales-hidden-behind-opaque-trusts">At least £64bn of property in England and Wales hidden behind opaque trusts | Tax havens | The Guardian</a></li>
 <li> 15:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:57 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:57 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
@@ -18390,7 +23053,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:03 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<ul><li> 14:03 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 14:02 duckduckgo.com</li>
 <li class='same'> 14:01 duckduckgo.com</li>
 </ul>
@@ -18411,7 +23074,7 @@ With number of accesses/minutes in parentheses
 <li> 11:49 <a href="https://www.bbc.co.uk/naidheachdan">Naidheachdan - BBC Naidheachdan</a></li>
 <li> 11:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:49 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:49 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/politics/2025/may/17/essex-thurrock-grays-views-brexit-eu-referendum">‘It feels like we never left’: resentment builds in one of UK’s firmest Brexit-backing areas | Brexit | The Guardian</a></li>
 </ul>
 
@@ -18421,7 +23084,7 @@ With number of accesses/minutes in parentheses
 <li> 11:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 11:04 <a href="https://www.theguardian.com/tv-and-radio/2025/may/18/eurovision-song-contest-winner-2025">Austria wins 69th Eurovision song contest with Wasted Love | Eurovision 2025 | The Guardian</a></li>
 <li> 11:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:04 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:04 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:53 <a href="https://www.theguardian.com/world/2025/may/18/ukraine-reports-largest-drone-attack-from-russia-since-war-began">Russia fires 273 drones at Ukraine in largest attack since start of war | Ukraine | The Guardian</a></li>
 <li> 10:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
@@ -18442,7 +23105,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:21 <a href="https://www.theguardian.com/lifeandstyle/ng-interactive/2025/may/17/the-happiest-places-to-live-in-britain">The Guardian’s happiest places to live in Britain revealed | Life and style | The Guardian</a></li>
 <li> 19:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:21 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:21 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 19:12 www.reddit.com</li>
 <li> 19:12 www.google.com</li>
 <li> 19:11 www.reddit.com</li>
@@ -18472,7 +23135,7 @@ With number of accesses/minutes in parentheses
 <li> 16:13 duckduckgo.com</li>
 <li> 16:02 <a href="https://www.youtube.com/shorts/7kF_Qfxp4CM">Fake piano skills in under 30 seconds 🫡 try it out, it‘s easier than you think! (Piano Tutorial) - YouTube</a></li>
 <li> 16:02 <a href="https://www.youtube.com/results?search_query=souns+like+you+know+what+you+are+doing+on+the+pinao">souns like you know what you are doing on the pinao - YouTube</a></li>
-<li> 16:02 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 16:02 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 16:00 app.midiano.com</li>
 <li> 16:00 midiano.com</li>
 <li> 15:59 pianotify.com</li>
@@ -18526,7 +23189,7 @@ With number of accesses/minutes in parentheses
 <li> 08:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:27 <a href="https://www.theguardian.com/culture/2025/may/17/my-cultural-awakening-pulp-something-changed">My cultural awakening: a Pulp song made me realise I was in love with my best friend | Culture | The Guardian</a></li>
 <li> 08:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:26 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:26 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 08:26 <a href="https://www.theguardian.com/commentisfree/2025/may/14/ukraine-newfound-confidence-europe-russia-usa">The good news from Kyiv: with or without a ceasefire, Ukraine has a newfound confidence | Nathalie Tocci | The Guardian</a></li>
 </ul>
 
@@ -18545,7 +23208,7 @@ With number of accesses/minutes in parentheses
 <li> 18:08 <a href="https://www.theguardian.com/world/2025/may/16/russia-ukraine-meet-first-direct-talks-since-2022-instanbul#img-1">Russia and Ukraine talks end without meaningful breakthrough | Ukraine | The Guardian</a></li>
 <li> 18:08 <a href="https://www.theguardian.com/world/2025/may/16/russia-ukraine-meet-first-direct-talks-since-2022-instanbul">Russia and Ukraine talks end without meaningful breakthrough | Ukraine | The Guardian</a></li>
 <li> 18:07 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:07 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:07 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 18:00 www.thingiverse.com</li>
 </ul>
 
@@ -18590,7 +23253,7 @@ With number of accesses/minutes in parentheses
 <li> 16:08 <a href="https://www.youtube.com/shorts/irHvjSPsrB4">Handheld shower bracket installation video - YouTube</a></li>
 <li> 16:08 <a href="https://www.youtube.com/shorts/gmIbfJS2X50">Attaching Universal Shower Head Holder onto Holder Rod - YouTube</a></li>
 <li> 16:08 <a href="https://www.youtube.com/results?search_query=shower+holder+installation">shower holder installation - YouTube</a></li>
-<li> 16:08 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 16:08 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 16:07 mail.google.com</li>
 <li class='same'> 16:06 mail.google.com</li>
 <li class='same'> 16:05 mail.google.com</li>
@@ -18716,7 +23379,7 @@ With number of accesses/minutes in parentheses
 <li> 07:08 www.reuters.com</li>
 <li> 07:08 duckduckgo.com</li>
 <li> 07:05 <a href="https://www.youtube.com/results?search_query=renaissance+periodization+lunges">renaissance periodization lunges - YouTube</a></li>
-<li> 07:05 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 07:05 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 </ul>
 
 <br>
@@ -18904,7 +23567,7 @@ With number of accesses/minutes in parentheses
 <li> 18:01 feedly.com</li>
 <li> 18:00 <a href="https://www.theguardian.com/news/2025/may/14/michelle-obama-20-the-liberation-of-the-former-first-lady">Michelle Obama 2.0 – the reinvention of the former first lady | Michelle Obama | The Guardian</a></li>
 <li> 17:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:58 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:58 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 17:58 docs.google.com</li>
 </ul>
 
@@ -19029,7 +23692,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:15 <a href="https://www.theguardian.com/commentisfree/2025/may/14/ukraine-newfound-confidence-europe-russia-usa">The good news from Kyiv: with or without a ceasefire, Ukraine has a newfound confidence | Nathalie Tocci | The Guardian</a></li>
 <li> 09:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:14 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:14 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 09:10 web.whatsapp.com</li>
 <li> 09:10 www.facebook.com</li>
 <li class='same'> 09:09 www.facebook.com</li>
@@ -19076,7 +23739,7 @@ With number of accesses/minutes in parentheses
 <li> 06:54 <a href="https://www.youtube.com/watch?v=SpG_vSTFr0A&embeds_referring_euri=https%3A%2F%2Fwww.projectreal.co.uk%2F&source_ve_path=OTY3MTQ">What do you wish your parents knew about your online life? - YouTube</a></li>
 <li> 06:53 www.projectreal.co.uk</li>
 <li> 06:53 studio.youtube.com</li>
-<li> 06:53 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 06:53 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 06:52 mail.google.com</li>
 <li> 06:52 outlook.office365.com</li>
 <li class='same'> 06:50 outlook.office365.com</li>
@@ -19236,9 +23899,9 @@ With number of accesses/minutes in parentheses
 <li> 14:35 www.google.com</li>
 <li> 14:35 www.thedailymash.co.uk</li>
 <li> 14:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:28 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:28 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 14:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:04 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:04 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 14:04 <a href="https://www.theguardian.com/artanddesign/2025/may/13/i-marvel-i-have-any-brain-cells-left-drummer-patrick-dougher-on-drugs-drink-and-blowing-his-big-break-with-sade">‘I marvel I have any brain cells left’: artist Patrick Dougher on drugs, drink and blowing his big break with Sade | Art | The Guardian</a></li>
 <li> 14:03 mail.google.com</li>
 <li> 14:00 www.facebook.com</li>
@@ -19260,7 +23923,7 @@ With number of accesses/minutes in parentheses
 <li> 13:23 duckduckgo.com</li>
 <li> 13:22 <a href="https://www.theguardian.com/artanddesign/2025/may/13/linda-rosenkrantz-peter-hujar-rebecca-hall-ben-whishaw-drugs-orgies">‘I invited a dozen ex-boyfriends to dinner and taped it’: the amazing avant garde recordings of Linda Rosenkrantz | Art | The Guardian</a></li>
 <li> 13:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:22 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:22 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 13:21 teams.microsoft.com</li>
 <li> 13:18 qmucu.org</li>
 <li> 13:18 duckduckgo.com</li>
@@ -19359,7 +24022,7 @@ With number of accesses/minutes in parentheses
 <li> 10:55 gmail.com</li>
 <li> 10:47 <a href="https://www.theguardian.com/artanddesign/2025/may/13/i-marvel-i-have-any-brain-cells-left-drummer-patrick-dougher-on-drugs-drink-and-blowing-his-big-break-with-sade">‘I marvel I have any brain cells left’: artist Patrick Dougher on drugs, drink and blowing his big break with Sade | Art | The Guardian</a></li>
 <li> 10:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:47 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:47 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/sport/2025/may/13/novak-djokovic-and-andy-murray-end-coaching-partnership-early-after-six-months">Novak Djokovic and Andy Murray end coaching partnership after six months | Andy Murray | The Guardian</a></li>
 <li> 10:41 <a href="https://www.youtube.com/watch?v=qgC_E7p7_q0">Secure Attendance Tracking System - YouTube</a></li>
 <li> 10:41 <a href="https://www.youtube.com/watch?v=qgC_E7p7_q0&feature=youtu.be">Secure Attendance Tracking System - YouTube</a></li>
@@ -19367,7 +24030,7 @@ With number of accesses/minutes in parentheses
 <li> 10:39 outlook.office365.com</li>
 <li class='same'> 10:38 outlook.office365.com</li>
 <li> 10:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:37 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:37 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 10:25 outlook.office365.com</li>
 <li class='same'> 10:22 outlook.office365.com</li>
 <li> 10:09 bsky.app</li>
@@ -19413,7 +24076,7 @@ With number of accesses/minutes in parentheses
 <li> 08:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:01 <a href="https://www.theguardian.com/commentisfree/2025/may/13/young-people-degrees-labour-market-ai">We told young people that degrees were their ticket to a better life. It’s become a great betrayal | Gaby Hinsliff | The Guardian</a></li>
 <li> 08:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:01 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:01 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:38 www.giantitp.com</li>
 <li> 07:37 feedly.com</li>
 <li> 07:36 www.reddit.com</li>
@@ -19460,7 +24123,7 @@ With number of accesses/minutes in parentheses
 <li> 21:52 reductress.com</li>
 <li> 21:52 news.sky.com</li>
 <li> 21:52 reductress.com</li>
-<li> 21:51 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:51 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 21:48 www.buzzfeed.com</li>
 <li class='same'> 21:47 www.buzzfeed.com</li>
 <li class='same'> 21:46 www.buzzfeed.com</li>
@@ -19599,7 +24262,7 @@ With number of accesses/minutes in parentheses
 <li> 10:47 drive.google.com</li>
 <li> 10:46 mail.google.com</li>
 <li> 10:46 gmail.com</li>
-<li> 10:46 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 10:46 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 10:46 gla-my.sharepoint.com</li>
 <li> 10:45 mail.google.com</li>
 <li class='same'> 10:43 mail.google.com</li>
@@ -19707,7 +24370,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:23 www.reddit.com</li>
 <li> 06:19 <a href="https://www.theguardian.com/tv-and-radio/2025/may/11/danny-dyer-deserved-nothing-the-biggest-mistakes-from-the-2025-tv-bafta-awards">‘Danny Dyer deserved nothing!’ The biggest mistakes from the 2025 TV Bafta awards | Baftas | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/tv-and-radio/2025/may/11/when-only-an-actors-face-gets-cast-adolescence-love-actually">My big break ... as a photograph: meet the TV and film stars who don’t even have to act | Television | The Guardian</a></li>
-<li> 06:15 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:15 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:14 outlook.office365.com</li>
 <li> 06:14 mail.google.com</li>
 </ul>
@@ -19988,7 +24651,7 @@ With number of accesses/minutes in parentheses
 <li> 05:43 www.facebook.com</li>
 <li> 05:43 feedly.com</li>
 <li> 05:42 <a href="https://www.theguardian.com/tv-and-radio/2025/may/10/billie-piper-tv-baftas-interview">Billie Piper on toxic masculinity, raising teens, and playing complex characters: ‘I’ve been a woman on the edge – I’m not afraid of it!’ | Baftas | The Guardian</a></li>
-<li> 05:42 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:42 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 05:42 mail.google.com</li>
 <li> 05:42 gmail.com</li>
 </ul>
@@ -20044,7 +24707,7 @@ With number of accesses/minutes in parentheses
 <li> 16:31 <a href="https://www.youtube.com/shorts/I21vpoo0ZSQ">We all do this 😂 - YouTube</a></li>
 <li> 16:31 <a href="https://www.youtube.com/shorts/ATxa_meJG-s">Have you tried this trick?! 👀🤔😂 | Triple Charm #shorts - YouTube</a></li>
 <li> 16:30 <a href="https://www.youtube.com/shorts/fwdHxCFX3LA">The funniest chiropractor fails😂😭#shorts #funny #chiropractor #fails - YouTube</a></li>
-<li> 16:30 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 16:30 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 16:29 jobs.reading.ac.uk</li>
 </ul>
 
@@ -20074,7 +24737,7 @@ With number of accesses/minutes in parentheses
 <li> 15:18 <a href="https://en.wikipedia.org/wiki/Liver_King">Liver King - Wikipedia</a></li>
 <li> 15:18 duckduckgo.com</li>
 <li> 15:16 <a href="https://www.theguardian.com/tv-and-radio/2025/may/10/untold-the-liver-king-this-hilarious-expose-of-a-fitness-influencer-is-like-tiger-king">The Liver King – this hilarious exposé is like Tiger King … but with way more genital eating | Television & radio | The Guardian</a></li>
-<li> 15:15 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:15 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:14 www.facebook.com</li>
 <li class='same'> 15:01 www.facebook.com</li>
 <li> 15:01 mail.google.com</li>
@@ -20123,7 +24786,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:20 www.reddit.com</li>
 <li class='same'> 07:18 www.reddit.com</li>
 <li> 07:18 outlook.office365.com</li>
-<li> 07:18 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:18 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:14 www.tinkercad.com</li>
 <li class='same'> 07:13 www.tinkercad.com</li>
 <li> 07:09 www.facebook.com</li>
@@ -20417,7 +25080,7 @@ With number of accesses/minutes in parentheses
 <li> 16:16 login.microsoftonline.com</li>
 <li> 16:16 adfs.herts.ac.uk</li>
 <li> 16:00 <a href="https://www.theguardian.com/tv-and-radio/2025/may/09/virgin-island-awkward-tv-sexperiment-channel-4">‘My body deserves pleasure’: is Virgin Island the most awkward TV sexperiment ever? | Television | The Guardian</a></li>
-<li> 15:59 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:59 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 15:59 <a href="https://www.theguardian.com/football/2025/may/09/i-punched-another-dad-your-stories-of-the-worst-parent-behaviour-at-kids-football">‘I punched another dad’ – your stories of the worst parent behaviour at kids’ football | Football | The Guardian</a></li>
 <li> 15:56 herts.instructure.com</li>
 <li class='same'> 15:55 herts.instructure.com</li>
@@ -20671,7 +25334,7 @@ With number of accesses/minutes in parentheses
 <li> 07:35 thetab.com</li>
 <li> 07:35 www.google.com</li>
 <li> 07:34 <a href="https://www.theguardian.com/society/2025/may/08/macmillan-cancer-support-hiring-for-senior-roles-after-axing-staff">‘It makes no sense’: Macmillan hiring for senior roles after axing 26% of staff | Charities | The Guardian</a></li>
-<li> 07:34 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:34 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:34 <a href="https://www.theguardian.com/commentisfree/2025/may/07/the-guardian-view-on-india-and-pakistan-a-newly-dangerous-moment-in-an-old-dispute">The Guardian view on India and Pakistan: a newly dangerous moment in an old dispute | Editorial | The Guardian</a></li>
 <li> 07:33 <a href="https://www.theguardian.com/lifeandstyle/2025/may/07/the-aristocrat-diet-why-do-posh-people-eat-such-beige-bland-boring-food">The aristocrat diet: why do posh people eat such beige, bland, boring food? | Diets and dieting | The Guardian</a></li>
 <li> 07:31 <a href="https://www.theguardian.com/commentisfree/2025/may/07/the-guardian-view-on-india-and-pakistan-a-newly-dangerous-moment-in-an-old-dispute">The Guardian view on India and Pakistan: a newly dangerous moment in an old dispute | Editorial | The Guardian</a></li>
@@ -20853,7 +25516,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:54 jobs.reading.ac.uk</li>
 <li> 07:54 <a href="https://www.theguardian.com/australia-news/2025/may/07/don-gail-patterson-daughter-evidence-mushroom-lunch-murder-trial-ntwnfb">Erin Patterson discharged herself five minutes after doctor warned she may have death cap mushroom poisoning, court hears | Victoria | The Guardian</a></li>
-<li> 07:54 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:54 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 07:45 herts.instructure.com</li>
 <li> 07:37 www.tinkercad.com</li>
 <li> 07:26 <a href="https://www.bbc.co.uk/news/articles/ckgxk40ndk1o">Who will be the next Pope? Top candidates in an unpredictable process - BBC News</a></li>
@@ -20872,7 +25535,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:03 www.instagram.com</li>
 <li> 07:02 <a href="https://www.theguardian.com/artanddesign/2025/may/06/robbie-williams-radical-honesty-moco-london-art-exhibition-take-that">Robbie Williams: Radical Honesty review – ‘Tone deaf, self-important, incredibly bad art’ | Art | The Guardian</a></li>
 <li> 07:00 <a href="https://www.theguardian.com/world/2025/may/07/ukraine-war-briefing-hegseths-sudden-arms-halt-cost-us-up-to-22m-report">Ukraine war briefing: Hegseth’s sudden arms halt ‘cost US up to $2.2m’ – report | Ukraine | The Guardian</a></li>
-<li> 07:00 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:00 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 06:55 www.google.co.uk</li>
 <li class='same'> 06:54 www.google.co.uk</li>
 <li> 06:54 www.herts.ac.uk</li>
@@ -20899,7 +25562,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:20 duckduckgo.com</li>
 <li> 06:15 <a href="https://www.theguardian.com/world/2025/may/06/pakistan-vows-to-retaliate-after-wave-of-indian-missiles-hit-country">Pakistan decries ‘act of war’ as it retaliates against India missile attack | Kashmir | The Guardian</a></li>
 <li> 06:14 <a href="https://www.theguardian.com/world/2025/may/06/the-papal-in-tray-new-pontiff-will-have-to-hit-the-ground-running-on-so-many-urgent-issues">Papal in-tray: new pontiff will have to hit ground running on many urgent issues | The papacy | The Guardian</a></li>
-<li> 06:13 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:13 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <H3>Tuesday, 06/05/25</H3>
@@ -20938,7 +25601,7 @@ With number of accesses/minutes in parentheses
 <li> 20:31 www.giantitp.com</li>
 <li> 20:29 <a href="https://www.bbc.co.uk/helpandfeedback/corrections_clarifications/">Corrections and Clarifications</a></li>
 <li> 20:29 <a href="https://www.theguardian.com/uk-news/2025/may/06/bbc-admits-lapse-in-standards-around-coverage-of-prince-harry-interview">BBC admits lapse in standards around coverage of Prince Harry interview | Prince Harry | The Guardian</a></li>
-<li> 20:28 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:28 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 20:17 mail.google.com</li>
 <li> 20:13 docs.google.com</li>
 <li> 20:12 drive.google.com</li>
@@ -20965,7 +25628,7 @@ With number of accesses/minutes in parentheses
 <li> 19:58 <a href="https://www.youtube.com/shorts/rtJ7agmDoU0">How to clean out a clogged nozzle - NoClogger The Must-Have 3D Printing Tool - YouTube</a></li>
 <li> 19:57 <a href="https://www.youtube.com/watch?v=VYUeKlCWV9c">How To Clear A Clogged 3D Printer Nozzle – ATM Quick Take | Digi-Key Electronics - YouTube</a></li>
 <li> 19:57 <a href="https://www.youtube.com/results?search_query=3d+printer+nozzle+clog">3d printer nozzle clog - YouTube</a></li>
-<li> 19:57 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 19:57 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 19:54 www.matterhackers.com</li>
 <li> 19:54 duckduckgo.com</li>
 <li> 19:41 www.google.com</li>
@@ -21005,7 +25668,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:09 www.giantitp.com</li>
 <li> 16:09 www.reddit.com</li>
 <li> 16:08 herts.instructure.com</li>
-<li> 16:08 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:08 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 16:07 herts.instructure.com</li>
 <li> 16:00 outlook.office365.com</li>
 </ul>
@@ -21013,7 +25676,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:00 <a href="https://www.theguardian.com/film/2025/may/06/misogyny-slop-it-ends-with-us-america-rightwing-blake-lively-justin-baldoni">‘It’s the misogyny slop ecosystem!’ How Candace Owens and the American right declared war on Blake Lively | Blake Lively | The Guardian</a></li>
-<li> 14:59 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:59 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 14:53 <a href="https://www.theguardian.com/film/2025/may/06/trump-softens-tone-on-movie-tariff-announcement-gavin-newsom-jimmy-kimmel-fallon">‘I’m not trying to hurt the industry’: Trump softens tone on movie tariffs | Film | The Guardian</a></li>
 <li class='same'> 14:52 <a href="https://www.theguardian.com/film/2025/may/06/trump-softens-tone-on-movie-tariff-announcement-gavin-newsom-jimmy-kimmel-fallon">‘I’m not trying to hurt the industry’: Trump softens tone on movie tariffs | Film | The Guardian</a></li>
 </ul>
@@ -21171,13 +25834,13 @@ With number of accesses/minutes in parentheses
 <li> 05:51 api-b6327e78.duosecurity.com</li>
 <li> 05:51 adfs.herts.ac.uk</li>
 <li> 05:50 feedly.com</li>
-<li> 05:50 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:50 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 05:46 <a href="https://www.theguardian.com/uk-news/commentisfree/2025/may/05/harrys-tv-interview-told-us-everything-and-nothing-why-are-the-royals-such-terrible-communicators">Harry’s TV interview told us everything – and nothing. Why are the royals such terrible communicators? | Zoe Williams | The Guardian</a></li>
-<li> 05:45 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:45 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 05:45 <a href="https://www.theguardian.com/fashion/2025/may/05/blinking-fools-the-men-who-think-shaving-off-their-eyelashes-will-make-them-more-masculine">Blinking fools? The men who think shaving off their eyelashes will make them more masculine | Fashion | The Guardian</a></li>
-<li> 05:44 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:44 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 <li> 05:41 <a href="https://www.theguardian.com/tv-and-radio/2025/may/05/silence-is-golden-review-katherine-ryan-would-definitely-kill-your-dog-for-cash">Silence is Golden review – Katherine Ryan would definitely kill your dog for cash | Television & radio | The Guardian</a></li>
-<li> 05:40 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:40 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <H3>Monday, 05/05/25</H3>
@@ -21205,7 +25868,7 @@ With number of accesses/minutes in parentheses
 <li> 21:17 api-b6327e78.duosecurity.com</li>
 <li> 21:17 adfs.herts.ac.uk</li>
 <li> 21:08 chatgpt.com</li>
-<li> 21:07 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:07 <a href="https://www.theguardian.com/">Noni Madueke leads five-star England’s rout of Serbia with World Cup in sight | World Cup 2026 qualifiers | The Guardian</a></li>
 </ul>
 
 <br>
@@ -21282,7 +25945,7 @@ With number of accesses/minutes in parentheses
 <li> 16:19 <a href="https://xkcd.com/3081/">xkcd: PhD Timeline</a></li>
 <li> 16:19 <a href="https://xkcd.com/3082/">xkcd: Chess Position</a></li>
 <li> 16:19 <a href="https://xkcd.com/3083/">xkcd: Jupiter Core</a></li>
-<li> 16:19 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 16:19 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 16:17 <a href="https://www.theguardian.com/film/2025/may/05/fears-trump-foreign-film-tariffs-wipe-out-uk-movie-industry">Fears Trump’s foreign film tariffs could ‘wipe out’ UK movie industry | Film industry | The Guardian</a></li>
 <li> 16:16 liloandstitch.fandom.com</li>
 <li class='same'> 16:14 liloandstitch.fandom.com</li>
@@ -23031,7 +27694,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:56 mail.google.com</li>
 <li> 09:56 gmail.com</li>
 <li> 09:56 studio.youtube.com</li>
-<li> 09:56 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 09:56 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 09:52 outlook.office365.com</li>
 <li> 09:52 outlook.office.com</li>
 <li> 09:52 www.facebook.com</li>
@@ -23072,7 +27735,7 @@ With number of accesses/minutes in parentheses
 <li> 06:40 gmail.com</li>
 <li> 06:38 www.theguardian.com</li>
 <li class='same'> 06:36 www.theguardian.com</li>
-<li> 06:28 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 06:28 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 06:24 outlook.office.com</li>
 <li class='same'> 06:23 outlook.office.com</li>
 <li> 06:22 mail.google.com</li>
@@ -24606,7 +29269,7 @@ With number of accesses/minutes in parentheses
 <li> 16:27 earth.google.com</li>
 <li class='same'> 16:26 earth.google.com</li>
 <li> 16:26 www.google.com</li>
-<li> 16:26 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 16:26 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 16:26 www.google.co.uk</li>
 <li> 16:26 www.reddit.com</li>
 <li> 16:26 www.google.co.uk</li>
@@ -25618,7 +30281,7 @@ With number of accesses/minutes in parentheses
 <li> 07:27 <a href="https://xkcd.com/518/">xkcd: Flow Charts</a></li>
 <li> 07:26 <a href="https://xkcd.com/3072/">xkcd: Stargazing 4</a></li>
 <li> 07:26 <a href="https://xkcd.com/3071/">xkcd: Decay Chain</a></li>
-<li> 07:26 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 07:26 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 07:23 www.theguardian.com</li>
 <li class='same'> 07:22 www.theguardian.com</li>
 <li class='same'> 07:20 www.theguardian.com</li>
@@ -26308,7 +30971,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:20 www.facebook.com</li>
 <li> 17:55 <a href="https://www.youtube.com/watch?v=aP-qKaig84M">(300) Bluey FULL Episodes Seasons 1 - 3 💙 | Featuring Dad Baby, Faceytalk and more! | 2 HOURS | Bluey - YouTube</a></li>
 <li> 17:55 <a href="https://www.youtube.com/results?search_query=bluey">(300) bluey - YouTube</a></li>
-<li> 17:55 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 17:55 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 17:44 bsky.app</li>
 <li> 17:33 www.linkedin.com</li>
 <li> 17:32 www.reddit.com</li>
@@ -26553,7 +31216,7 @@ With number of accesses/minutes in parentheses
 <li> 11:02 gmail.com</li>
 <li> 11:00 <a href="https://www.youtube.com/watch?v=GLDofv-XTUo">(299) How to get on/off a bike - YouTube</a></li>
 <li> 11:00 <a href="https://www.youtube.com/results?search_query=standing+start+from+a+bike">(299) standing start from a bike - YouTube</a></li>
-<li> 10:59 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 10:59 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 10:51 duckduckgo.com</li>
 <li> 10:50 web.whatsapp.com</li>
 <li> 10:50 www.access2therapy.com</li>
@@ -26726,8 +31389,8 @@ With number of accesses/minutes in parentheses
 <li> 20:15 chatgpt.com</li>
 <li class='same'> 20:14 chatgpt.com</li>
 <li> 20:10 <a href="https://www.youtube.com/watch?v=pbK1gYFjxmk">(298) VIDEO FOR TEST TV VERTICAL BANDING - YouTube</a></li>
-<li> 20:10 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
-<li> 20:10 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 20:10 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
+<li> 20:10 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 20:05 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
 <li> 20:05 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
 <li> 20:05 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
@@ -27042,11 +31705,11 @@ With number of accesses/minutes in parentheses
 <li> 13:26 <a href="https://www.youtube.com/results?search_query=renaissance+periodization+seated+standing">(290) renaissance periodization seated standing - YouTube</a></li>
 <li> 13:19 <a href="https://www.youtube.com/watch?v=qIFYgb7Mvu0">(290) Barbell Training is a MUST For Muscle Growth - YouTube</a></li>
 <li> 13:19 <a href="https://www.youtube.com/results?search_query=renaissance+periodization+dumbbell+vs+barbell">(290) renaissance periodization dumbbell vs barbell - YouTube</a></li>
-<li> 13:19 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 13:19 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 13:17 docs.google.com</li>
 <li class='same'> 13:16 docs.google.com</li>
 <li class='same'> 13:15 docs.google.com</li>
-<li> 13:10 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 13:10 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 12:59 docs.google.com</li>
 <li class='same'> 12:58 docs.google.com</li>
 <li> 12:57 www.reddit.com</li>
@@ -27222,7 +31885,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:17 web.whatsapp.com</li>
 <li> 08:17 <a href="https://www.youtube.com/watch?v=GqNHoypwPCw">(287) Training With The #1 Natural Bodybuilder In The World! - YouTube</a></li>
 <li> 08:17 <a href="https://www.youtube.com/results?search_query=renaissance+periodization+no+1+natural+bodybuilder">(287) renaissance periodization no 1 natural bodybuilder - YouTube</a></li>
-<li> 08:17 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 08:17 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 </ul>
 
 <br>
@@ -27774,7 +32437,7 @@ With number of accesses/minutes in parentheses
 <li> 19:20 <a href="https://www.youtube.com/@limesandstripes">(282) limesandstripes - YouTube</a></li>
 <li> 19:18 <a href="https://www.youtube.com/watch?v=PoMPrr-Uefs">(282) TV Calibration Banding Rotating Color Gradients Test [4K 23.976fps] - YouTube</a></li>
 <li> 19:18 <a href="https://www.youtube.com/results?search_query=gradient+test">(282) gradient test - YouTube</a></li>
-<li> 19:18 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 19:18 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 19:18 www.amazon.co.uk</li>
 <li class='same'> 19:16 www.amazon.co.uk</li>
 <li> 19:15 chatgpt.com</li>
@@ -28972,7 +33635,7 @@ With number of accesses/minutes in parentheses
 <li> 09:29 <a href="https://www.youtube.com/shorts/_NEiBl1eox8">(266) Clean Energy with Stirling Engine Technology | How Machines Work - YouTube</a></li>
 <li> 09:28 <a href="https://www.youtube.com/shorts/9XTEGrze920">(266) Why doesn’t everyone use a Tesla Turbine? - YouTube</a></li>
 <li> 09:26 <a href="https://www.youtube.com/watch?v=tJI2e8V1tNI">(266) [1570] My Viewer Broke The Law… Please Don’t. - YouTube</a></li>
-<li> 09:25 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 09:25 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 09:25 outlook.office365.com</li>
 <li> 09:25 outlook.office.com</li>
 <li> 09:25 mail.google.com</li>
@@ -29775,7 +34438,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:31 rpstrength.com</li>
 <li> 17:31 www.google.com</li>
 <li> 17:30 rpstrength.com</li>
-<li> 17:29 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 17:29 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 17:29 docs.google.com</li>
 <li> 17:26 bsky.app</li>
 <li> 17:25 www.menshealth.com</li>
@@ -31293,7 +35956,7 @@ With number of accesses/minutes in parentheses
 <li> 08:19 <a href="https://www.youtube.com/results?search_query=geox+light+up+shoes+not+working">(238) geox light up shoes not working - YouTube</a></li>
 <li> 08:19 <a href="https://www.youtube.com/shorts/4QK1guF1b7M">(238) Led shoes not working need help fixing them (addy) - YouTube</a></li>
 <li> 08:18 <a href="https://www.youtube.com/results?search_query=geox+light+up+shoes+not+working">(238) geox light up shoes not working - YouTube</a></li>
-<li> 08:18 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 08:18 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 08:18 batterytools.net</li>
 <li> 08:18 duckduckgo.com</li>
 </ul>
@@ -31441,9 +36104,9 @@ With number of accesses/minutes in parentheses
 <li> 10:57 <a href="https://www.youtube.com/results?search_query=download+and+install+factorio+tarball">(227) download and install factorio tarball - YouTube</a></li>
 <li> 10:56 <a href="https://www.youtube.com/watch?v=fzXieUxiHWo">(227) How to Download Factorio 2024 (Step-by-Step) - YouTube</a></li>
 <li> 10:56 <a href="https://www.youtube.com/results?search_query=download+and+install+factorio+ubunut">(227) download and install factorio ubunut - YouTube</a></li>
-<li> 10:56 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 10:56 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 10:56 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 10:56 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 10:56 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 10:55 www.factorio.com</li>
 <li> 10:55 www.google.com</li>
 <li> 10:54 www.factorio.com</li>
@@ -31588,7 +36251,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:03 outlook.office.com</li>
 <li class='same'> 15:02 outlook.office.com</li>
 <li> 14:53 <a href="https://xkcd.com/simplewriter/"></a></li>
-<li> 14:53 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 14:53 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 14:42 <a href="https://en.wikipedia.org/wiki/Ashley_Madison_data_breach">Ashley Madison data breach - Wikipedia</a></li>
 <li> 14:42 duckduckgo.com</li>
 <li> 14:18 outlook.office.com</li>
@@ -31901,7 +36564,7 @@ With number of accesses/minutes in parentheses
 <li> 11:35 outlook.office.com</li>
 <li> 11:26 <a href="https://www.youtube.com/watch?v=UFule8eNEbg">(221) Shifting Sand With LEGO! - YouTube</a></li>
 <li> 11:16 <a href="https://www.youtube.com/watch?v=nAuiWussbZY">(221) Making a LEGO Train Go Fast! - YouTube</a></li>
-<li> 11:15 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 11:15 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 11:14 mail.google.com</li>
 <li> 11:09 docs.google.com</li>
 <li> 11:08 www.theguardian.com</li>
@@ -32074,7 +36737,7 @@ With number of accesses/minutes in parentheses
 <li> 20:27 <a href="https://www.youtube.com/shorts/TRYo19rqfxU">(219) YouTube</a></li>
 <li> 20:27 <a href="https://www.youtube.com/shorts/VBaaWQ6tr9E">(219) Fire Scientist Reveals How Wildfires Spread - YouTube</a></li>
 <li> 20:26 <a href="https://www.youtube.com/shorts/-tOh_nPt8QM">(219) Worlds Strongest Dad Strength ft. Stoltman Brothers - YouTube</a></li>
-<li> 20:26 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 20:26 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 20:26 feedly.com</li>
 <li> 20:25 forums.factorio.com</li>
 <li> 20:25 duckduckgo.com</li>
@@ -32133,10 +36796,10 @@ With number of accesses/minutes in parentheses
 <li> 17:14 <a href="https://www.youtube.com/watch?v=HY6q9hwYcoc&t=470s">(217) Destroying Lego Towers - YouTube</a></li>
 <li> 17:14 <a href="https://www.youtube.com/feed/history">(217) YouTube</a></li>
 <li> 17:14 <a href="https://www.youtube.com/watch?v=TzJkD87eQNI">(217) What makes planetary gearboxes so amazing? - YouTube</a></li>
-<li> 17:14 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 17:14 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 17:13 <a href="https://www.youtube.com/history">(217) HISTORY - YouTube</a></li>
 <li> 17:13 myaccount.google.com</li>
-<li> 17:13 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 17:13 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 16:58 projecthub.arduino.cc</li>
 <li> 16:58 hackaday.com</li>
 <li> 16:58 electronics.stackexchange.com</li>
@@ -32555,7 +37218,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:25 docs.google.com</li>
-<li> 16:17 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 16:17 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 16:17 www.giantitp.com</li>
 <li> 16:17 bsky.app</li>
 <li> 16:17 duckduckgo.com</li>
@@ -33853,11 +38516,11 @@ With number of accesses/minutes in parentheses
 <li> 17:48 <a href="https://www.youtube.com/watch?v=UPwXgzrcAK0">(197) Trying To Buy A House - YouTube</a></li>
 <li> 17:48 <a href="https://www.youtube.com/watch?v=MpaUnhNpvOQ&t=34s">(197) How to improve handwriting | Handwriting practice - YouTube</a></li>
 <li> 17:47 <a href="https://www.youtube.com/results?search_query=beautiful+handwriting+english">(197) beautiful handwriting english - YouTube</a></li>
-<li> 17:47 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 17:47 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 17:47 <a href="https://www.youtube.com/watch?v=F5v9B71zrMc">(197) Sunny Teaches Chewing with Your Mouth Closed - YouTube</a></li>
 <li> 17:46 <a href="https://www.youtube.com/watch?v=nNegvL0N1M4">(197) Chew with Your Mouth Closed! - YouTube</a></li>
 <li> 17:45 <a href="https://www.youtube.com/results?search_query=eating+with+mouth+closed">(197) eating with mouth closed - YouTube</a></li>
-<li> 17:45 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 17:45 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 </ul>
 
 <br>
@@ -34462,7 +39125,7 @@ With number of accesses/minutes in parentheses
 <li> 16:02 <a href="https://www.youtube.com/results?search_query=spin+bike+teardown">(192) spin bike teardown - YouTube</a></li>
 <li> 16:01 <a href="https://www.youtube.com/watch?v=in5cQNFHDEY">(192) Teardown: Exercise Bike - YouTube</a></li>
 <li> 16:01 <a href="https://www.youtube.com/results?search_query=spin+bike+teardown">(192) spin bike teardown - YouTube</a></li>
-<li> 16:01 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 16:01 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 16:01 <a href="https://en.wikipedia.org/wiki/Bicycle_trainer">Bicycle trainer - Wikipedia</a></li>
 <li> 16:01 duckduckgo.com</li>
 <li> 16:00 www.pedalpowergenerator.com</li>
@@ -36043,7 +40706,7 @@ With number of accesses/minutes in parentheses
 <li> 09:33 chat.openai.com</li>
 <li> 09:28 <a href="https://www.youtube.com/watch?v=Sp6K3qpVFO0">(156) Introduction to Generative Fill | Adobe Photoshop - YouTube</a></li>
 <li> 09:27 <a href="https://www.youtube.com/results?search_query=photoshop+generative+fill">(156) photoshop generative fill - YouTube</a></li>
-<li> 09:27 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 09:27 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 09:24 outlook.office.com</li>
 <li> 09:24 outlook.office365.com</li>
 <li> 09:24 mail.google.com</li>
@@ -36193,7 +40856,7 @@ With number of accesses/minutes in parentheses
 <li> 21:04 <a href="https://www.youtube.com/results?search_query=clearing+gutters">(155) clearing gutters - YouTube</a></li>
 <li> 21:03 <a href="https://www.youtube.com/watch?v=-zFoynqYkCM">(155) How to clear out gutters - YouTube</a></li>
 <li> 21:03 <a href="https://www.youtube.com/results?search_query=clearing+gutters">(155) clearing gutters - YouTube</a></li>
-<li> 21:02 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 21:02 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 21:01 www.amazon.co.uk</li>
 <li> 21:01 duckduckgo.com</li>
 <li> 21:01 reductress.com</li>
@@ -36341,7 +41004,7 @@ With number of accesses/minutes in parentheses
 <li> 11:25 mail.google.com</li>
 <li class='same'> 11:24 mail.google.com</li>
 <li> 11:24 studio.youtube.com</li>
-<li> 11:23 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 11:23 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 11:22 mail.google.com</li>
 <li> 11:21 outlook.office.com</li>
 <li> 11:21 mail.google.com</li>
@@ -37312,7 +41975,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:28 <a href="https://www.youtube.com/watch?v=AzMo-FgRp64">(144) The Fantastic Four: First Steps | Official Teaser | Only in Theaters July 25 - YouTube</a></li>
 <li> 10:28 <a href="https://www.youtube.com/results?search_query=trailer">(144) trailer - YouTube</a></li>
-<li> 10:27 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 10:27 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 10:14 bsky.app</li>
 <li> 10:14 duckduckgo.com</li>
 <li class='same'> 10:13 duckduckgo.com</li>
@@ -37503,10 +42166,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:21 chatgpt.com</li>
 <li> 17:21 chat.openai.com</li>
 <li> 17:17 <a href="https://www.youtube.com/watch?v=Y4xrMkl5yJs">(142) Exercise Scientist Critiques Hulk Hogan's Training and Diet - YouTube</a></li>
-<li> 17:17 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 17:17 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 17:13 <a href="https://www.youtube.com/watch?v=wno_qUB02lM&t=123s">(142) Jamie’s Green Curry | Jamie Oliver - YouTube</a></li>
 <li> 17:12 <a href="https://www.youtube.com/results?search_query=thai+curry">(142) thai curry - YouTube</a></li>
-<li> 17:12 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 17:12 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 17:11 docs.google.com</li>
 <li class='same'> 17:10 docs.google.com</li>
 <li class='same'> 17:09 docs.google.com</li>
@@ -38413,7 +43076,7 @@ With number of accesses/minutes in parentheses
 <li> 15:09 duckduckgo.com</li>
 <li> 15:09 <a href="https://www.youtube.com/shorts/y6nfycF8fSI">(135) Pivot hinges for cabinet #diycrafts #carpenter - YouTube</a></li>
 <li> 15:09 <a href="https://www.youtube.com/results?search_query=pivot+hinge">(135) pivot hinge - YouTube</a></li>
-<li> 15:09 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 15:09 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 15:09 duckduckgo.com</li>
 <li> 15:07 www.diydoctor.org.uk</li>
 <li> 15:07 duckduckgo.com</li>
@@ -38853,7 +43516,7 @@ With number of accesses/minutes in parentheses
 <li> 14:41 <a href="https://xkcd.com/3041/">xkcd: Unit Circle</a></li>
 <li> 14:41 <a href="https://xkcd.com/3042/">xkcd: T. Rex Evolution</a></li>
 <li> 14:41 <a href="https://xkcd.com/3043/">xkcd: Muons</a></li>
-<li> 14:41 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 14:41 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 14:40 www.reddit.com</li>
 <li class='same'> 14:39 www.reddit.com</li>
 <li> 14:39 mail.google.com</li>
@@ -39462,7 +44125,7 @@ With number of accesses/minutes in parentheses
 <li> 07:14 www.reddit.com</li>
 <li> 07:14 duckduckgo.com</li>
 <li> 07:13 <a href="https://www.youtube.com/results?search_query=progression+to+chin+ups">(128) progression to chin ups - YouTube</a></li>
-<li> 07:13 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 07:13 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 07:13 outlook.office365.com</li>
 <li> 07:13 outlook.office.com</li>
 <li> 06:57 www.theguardian.com</li>
@@ -39989,7 +44652,7 @@ With number of accesses/minutes in parentheses
 <li> 14:45 <a href="https://www.youtube.com/results?search_query=hiding+wires+for+dash+cam">(126) hiding wires for dash cam - YouTube</a></li>
 <li> 14:41 <a href="https://www.youtube.com/watch?v=cbASQ3ymmu0">(126) How to install a Dashcam by hiding the cables - YouTube</a></li>
 <li> 14:41 <a href="https://www.youtube.com/results?search_query=hiding+wires+for+dash+cam">(126) hiding wires for dash cam - YouTube</a></li>
-<li> 14:41 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 14:41 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 14:37 web.whatsapp.com</li>
 <li> 14:31 www.gov.uk</li>
 <li> 14:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -41743,10 +46406,10 @@ With number of accesses/minutes in parentheses
 <li> 14:20 accounts.google.com</li>
 <li> 14:20 gmail.com</li>
 <li> 14:20 studio.youtube.com</li>
-<li> 14:19 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 14:19 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 14:19 <a href="https://www.youtube.com/account">(114) YouTube</a></li>
 <li> 14:19 <a href="https://www.youtube.com/signin_prompt?next=https%3A%2F%2Fwww.youtube.com%2F"></a></li>
-<li> 14:19 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 14:19 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 14:19 www.google.com</li>
 <li class='same'> 14:18 www.google.com</li>
 <li class='same'> 14:17 www.google.com</li>
@@ -42448,13 +47111,13 @@ With number of accesses/minutes in parentheses
 <li> 13:22 <a href="https://www.youtube.com/shorts/C6BR1gtgS28">(106) YouTube</a></li>
 <li> 13:22 <a href="https://www.youtube.com/shorts/U4WdNw0uMWw">(106) DIY Giant Wardrobe Transformation: from Empty Wall to Dream Closet #shorts - YouTube</a></li>
 <li> 13:21 <a href="https://www.youtube.com/shorts/MhjmKJfzFwQ">(106) Don't Eat At Night!? - YouTube</a></li>
-<li> 13:21 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 13:21 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 13:18 <a href="https://www.youtube.com/watch?v=7xALolZzhSM">(106) Marvel Television's Daredevil: Born Again | Official Trailer | Disney+ - YouTube</a></li>
-<li> 13:18 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 13:18 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 13:12 <a href="https://www.youtube.com/watch?v=Gi93Dbh_E3c">(106) Disney's Aladdin (1992) Pitch Meeting - YouTube</a></li>
-<li> 13:12 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 13:12 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 13:12 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 13:12 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 13:12 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 13:09 bsky.app</li>
 <li> 13:08 www.facebook.com</li>
 <li> 13:07 www.amazon.co.uk</li>
@@ -44468,8 +49131,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:28 <a href="https://www.youtube.com/">(729) YouTube</a></li>
-<li class='same'> 16:27 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<ul><li> 16:28 <a href="https://www.youtube.com/">(769) YouTube</a></li>
+<li class='same'> 16:27 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 16:25 outlook.office.com</li>
 <li> 16:25 bsky.app</li>
 <li> 16:24 www.linkedin.com</li>
@@ -44484,9 +49147,9 @@ With number of accesses/minutes in parentheses
 <li> 15:58 <a href="https://en.wikipedia.org/wiki/The_Children_of_H%C3%BArin">The Children of Húrin - Wikipedia</a></li>
 <li> 15:58 www.google.com</li>
 <li class='same'> 15:54 www.google.com</li>
-<li> 15:52 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 15:52 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 15:52 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 15:52 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 15:52 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 15:50 claude.ai</li>
 <li> 15:49 <a href="https://joereddington.com/2025/01/08/gratitude.html">Gratitude! | Joe Reddington</a></li>
 <li> 15:49 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
@@ -44724,7 +49387,7 @@ With number of accesses/minutes in parentheses
 <li> 09:25 chatgpt.com</li>
 <li> 09:25 chat.openai.com</li>
 <li> 09:18 <a href="https://www.youtube.com/watch?v=g_UoMzjei2g">Music for Stress Healing, Anxiety and Depression, Remove Inner Anger and Sadness - YouTube</a></li>
-<li> 09:18 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 09:18 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 09:15 chatgpt.com</li>
 <li> 09:13 www.reddit.com</li>
 <li> 09:13 www.google.com</li>
@@ -44755,7 +49418,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:36 trends.google.com</li>
 <li> 07:36 www.google.com</li>
 <li> 07:21 <a href="https://www.youtube.com/watch?v=DfSkKYQiwoU">Deep Focus Music To Improve Concentration - 12 Hours of Ambient Study Music to Concentrate - YouTube</a></li>
-<li> 07:21 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 07:21 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 07:19 askubuntu.com</li>
 <li> 07:19 www.google.com</li>
 <li> 07:19 bbs.archlinux.org</li>
@@ -44765,9 +49428,9 @@ With number of accesses/minutes in parentheses
 <li> 07:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:03 <a href="https://www.youtube.com/watch?v=9SltrMMeytU">Deep Focus Music To Improve Concentration - Ambient Music For Studying, Concentration and Work #1 - YouTube</a></li>
 <li> 07:03 <a href="https://www.youtube.com/results?search_query=focus+music">focus music - YouTube</a></li>
-<li> 07:03 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 07:03 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 07:03 accounts.google.com</li>
-<li> 07:03 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 07:03 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 07:01 bsky.app</li>
 <li> 06:59 calendar.google.com</li>
 <li> 06:37 yattara.medium.com</li>
@@ -44887,9 +49550,9 @@ With number of accesses/minutes in parentheses
 <li> 17:04 packages.ubuntu.com</li>
 <li> 16:58 <a href="https://www.youtube.com/watch?v=LGqBQrUYua4">(5) Math Antics - Long Division - YouTube</a></li>
 <li> 16:58 <a href="https://www.youtube.com/results?search_query=long+division">(5) long division - YouTube</a></li>
-<li> 16:58 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 16:58 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 16:58 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 16:58 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 16:58 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 16:42 i3wm.org</li>
 <li> 16:42 www.google.com</li>
 <li> 16:42 www.mozilla.org</li>
@@ -44976,7 +49639,7 @@ With number of accesses/minutes in parentheses
 <li> 13:51 <a href="https://www.youtube.com/watch?v=iDr5ySr1htQ">(5) Stylianos Meaning - YouTube</a></li>
 <li> 13:51 <a href="https://www.youtube.com/results?search_query=Stilianos+name">(5) Stilianos name - YouTube</a></li>
 <li> 13:51 <a href="https://www.youtube.com/results?search_query=Stilianos">(5) Stilianos - YouTube</a></li>
-<li> 13:51 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 13:51 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 13:51 www.linkedin.com</li>
 <li class='same'> 13:50 www.linkedin.com</li>
 <li> 13:50 scholar.google.co.uk</li>
@@ -45049,9 +49712,9 @@ With number of accesses/minutes in parentheses
 <li> 12:51 mail.google.com</li>
 <li> 12:49 <a href="https://www.youtube.com/watch?v=dj0Z1Ho18Kg&list=WL&index=10&t=74s">(5) Drawing Frozen2 - Elsa [Drawing Hands] - YouTube</a></li>
 <li> 12:49 <a href="https://www.youtube.com/playlist?list=WL">(5) Watch later - YouTube</a></li>
-<li> 12:49 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
-<li> 12:49 <a href="https://www.youtube.com/">(729) YouTube</a></li>
-<li class='same'> 12:48 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 12:49 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
+<li> 12:49 <a href="https://www.youtube.com/">(769) YouTube</a></li>
+<li class='same'> 12:48 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 12:44 www.google.com</li>
 <li> 12:42 mail.google.com</li>
 <li> 12:41 web.whatsapp.com</li>
@@ -45490,7 +50153,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:57 fast.com</li>
-<li> 11:53 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 11:53 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 11:49 www.facebook.com</li>
 </ul>
 
@@ -45520,7 +50183,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:15 askubuntu.com</li>
 <li> 08:15 www.google.com</li>
 <li> 08:10 <a href="https://www.youtube.com/watch?v=bwu6rJl1cOw">(75) Honest Trailers | Venom: The Last Dance - YouTube</a></li>
-<li> 08:09 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 08:09 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 08:05 askubuntu.com</li>
 <li> 08:05 www.google.com</li>
 <li> 08:05 www.linkedin.com</li>
@@ -45638,7 +50301,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:39 <a href="https://www.youtube.com/watch?v=EC6Poq1655k&list=PLH2oEwFFXbYNy6OQpMnLolP_Q3Zt_e5BH">(1) Maya FALLS out of a TREE !!! - YouTube</a></li>
 <li> 14:39 <a href="https://www.youtube.com/results?search_query=tik+tak+toys">(1) tik tak toys - YouTube</a></li>
-<li> 14:38 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 14:38 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 14:24 www.theguardian.com</li>
 <li> 14:22 news.sky.com</li>
 <li> 14:21 www.theguardian.com</li>
@@ -45669,9 +50332,9 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:27 www.facebook.com</li>
 <li> 08:21 web.whatsapp.com</li>
 <li> 07:54 <a href="https://www.youtube.com/watch?v=VVxocz5bCms">(73) Black Widow Pitch Meeting - YouTube</a></li>
-<li> 07:54 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 07:54 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 07:54 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 07:54 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 07:54 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 07:54 bsky.app</li>
 <li> 07:54 www.facebook.com</li>
 <li class='same'> 07:53 www.facebook.com</li>
@@ -45718,7 +50381,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:55 www.reddit.com</li>
 <li> 19:51 bsky.app</li>
-<li> 19:50 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 19:50 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 19:49 docs.google.com</li>
 <li> 19:47 bsky.app</li>
 <li class='same'> 19:46 bsky.app</li>
@@ -45785,9 +50448,9 @@ With number of accesses/minutes in parentheses
 <li> 22:15 <a href="https://www.youtube.com/watch?v=FE9Xo4fQrqU">(69) Supplements and Hydration | Fat Loss Dieting Made Simple #5 - YouTube</a></li>
 <li> 22:10 <a href="https://www.youtube.com/watch?v=z88r8bq0S3U">(69) Supplements and Hydration - YouTube</a></li>
 <li> 22:10 <a href="https://www.youtube.com/results?search_query=renaissance+electrolytes">(69) renaissance electrolytes - YouTube</a></li>
-<li> 22:10 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 22:10 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 22:10 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 22:10 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 22:10 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 22:10 www.naak.com</li>
 <li> 22:10 www.google.com</li>
 </ul>
@@ -45998,7 +50661,7 @@ With number of accesses/minutes in parentheses
 <li> 11:39 www.google.com</li>
 <li> 11:36 <a href="https://www.youtube.com/watch?v=l_GdborsqLo">(64) Death Star Laser Kills Everybody... at Scarif - Rogue One HD - YouTube</a></li>
 <li> 11:36 <a href="https://www.youtube.com/results?search_query=death+star+firing+sequence">(64) death star firing sequence - YouTube</a></li>
-<li> 11:36 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 11:36 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 11:36 www.google.com</li>
 <li class='same'> 11:35 www.google.com</li>
 <li> 11:33 en.wiktionary.org</li>
@@ -46051,10 +50714,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:55 www.reddit.com</li>
 <li class='same'> 09:54 www.reddit.com</li>
 <li class='same'> 09:53 www.reddit.com</li>
-<li> 09:43 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 09:43 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 09:43 web.whatsapp.com</li>
 <li> 09:43 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 09:43 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 09:43 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 09:28 fdc.nal.usda.gov</li>
 <li> 09:27 www.google.com</li>
 <li> 09:27 www.tesco.com</li>
@@ -46110,7 +50773,7 @@ With number of accesses/minutes in parentheses
 <li> 20:55 www.reddit.com</li>
 <li> 20:55 www.google.com</li>
 <li> 20:55 <a href="https://www.youtube.com/results?search_query=libby+notes+">(64) libby notes - YouTube</a></li>
-<li> 20:55 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 20:55 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 20:55 libbyapp.com</li>
 <li> 20:52 www.facebook.com</li>
 <li class='same'> 20:50 www.facebook.com</li>
@@ -46183,7 +50846,7 @@ With number of accesses/minutes in parentheses
 <li> 14:54 <a href="https://www.youtube.com/results?search_query=renaissance+protein+vegan">(62) renaissance protein vegan - YouTube</a></li>
 <li> 14:47 <a href="https://www.youtube.com/watch?v=nkIKesKHIIE">(62) The Protein Lie: Why You Don't Need As Much As You Think - YouTube</a></li>
 <li> 14:47 <a href="https://www.youtube.com/results?search_query=renaissance+protein">(62) renaissance protein - YouTube</a></li>
-<li> 14:47 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 14:47 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 14:33 www.facebook.com</li>
 <li class='same'> 14:32 www.facebook.com</li>
 <li class='same'> 14:31 www.facebook.com</li>
@@ -46221,7 +50884,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:23 www.google.com</li>
 <li> 10:23 <a href="https://www.youtube.com/results?search_query=tau+mass+protons">(61) tau mass protons - YouTube</a></li>
 <li> 10:23 <a href="https://www.youtube.com/results?search_query=tau+mass">(61) tau mass - YouTube</a></li>
-<li> 10:22 <a href="https://www.youtube.com/">(729) YouTube</a></li>
+<li> 10:22 <a href="https://www.youtube.com/">(769) YouTube</a></li>
 <li> 10:20 warhammer40k.fandom.com</li>
 <li class='same'> 10:18 warhammer40k.fandom.com</li>
 <li> 10:18 www.google.com</li>
@@ -46353,7 +51016,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:54 web.whatsapp.com</li>
 <li> 09:54 <a href="https://www.youtube.com/watch?v=zA2PfKRcm0g">Dining Etiquette: how to master the basic table manners - YouTube</a></li>
-<li> 09:54 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
+<li> 09:54 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
 <li> 09:50 www.google.com</li>
 <li> 09:49 www.facebook.com</li>
 <li> 09:31 www.tesco.com</li>
@@ -46543,7 +51206,7 @@ With number of accesses/minutes in parentheses
 <li> 06:41 www.facebook.com</li>
 <li> 06:37 bsky.app</li>
 <li class='same'> 06:35 bsky.app</li>
-<li> 06:33 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 06:33 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 06:33 www.giantitp.com</li>
 <li> 06:33 www.linkedin.com</li>
 <li class='same'> 06:32 www.linkedin.com</li>
@@ -46673,7 +51336,7 @@ With number of accesses/minutes in parentheses
 <li> 15:03 <a href="https://xkcd.com/3027/">xkcd: Exclusion Principle</a></li>
 <li> 15:03 <a href="https://xkcd.com/3028/">xkcd: D Roll</a></li>
 <li> 15:02 <a href="https://xkcd.com/3029/">xkcd: Sun Avoidance</a></li>
-<li> 15:02 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 15:02 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 15:02 www.giantitp.com</li>
 <li> 15:01 www.ebay.co.uk</li>
 <li> 15:00 blueskydirectory.com</li>
@@ -47670,7 +52333,7 @@ With number of accesses/minutes in parentheses
 <li> 14:17 <a href="https://xkcd.com/3023/">xkcd: The Maritime Approximation</a></li>
 <li> 14:17 <a href="https://xkcd.com/3024/">xkcd: METAR</a></li>
 <li> 14:16 <a href="https://xkcd.com/3025/">xkcd: Phase Change</a></li>
-<li> 14:16 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 14:16 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 14:14 www.giantitp.com</li>
 <li> 14:14 outlook.office365.com</li>
 <li> 14:14 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
@@ -48268,7 +52931,7 @@ With number of accesses/minutes in parentheses
 <li> 13:40 <a href="https://xkcd.com/3021/">xkcd: Seismologists</a></li>
 <li> 13:39 <a href="https://xkcd.com/3022/">xkcd: Making Tea</a></li>
 <li> 13:39 <a href="https://xkcd.com/3023/">xkcd: The Maritime Approximation</a></li>
-<li> 13:39 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 13:39 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 13:39 www.giantitp.com</li>
 <li> 13:37 bsky.app</li>
 <li class='same'> 13:36 bsky.app</li>
@@ -49636,7 +54299,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:02 www.explainxkcd.com</li>
 <li> 09:01 <a href="https://xkcd.com/3019/">xkcd: Advent Calendar Advent Calendar</a></li>
 <li> 09:01 <a href="https://xkcd.com/3020/">xkcd: Infinite Armada Chess</a></li>
-<li> 09:01 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 09:01 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 09:01 www.giantitp.com</li>
 <li> 09:01 www.linkedin.com</li>
 <li class='same'> 09:00 www.linkedin.com</li>
@@ -56334,7 +60997,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:08 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
+<ul><li> 13:32 ico.org.uk</li>
+<li> 13:08 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 12:43 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
 <li> 12:41 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
 <li> 12:39 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
@@ -56619,11 +61283,9 @@ With number of accesses/minutes in parentheses
 <li> 11:24 www.linkedin.com</li>
 <li> 11:17 claude.ai</li>
 <li> 10:57 rhul-my.sharepoint.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:26 outlook.office365.com</li>
+<li> 10:52 outlook.office365.com</li>
+<li class='same'> 10:26 outlook.office365.com</li>
+<li class='same'> 10:21 outlook.office365.com</li>
 <li> 10:02 mail.google.com</li>
 </ul>
 
@@ -56636,7 +61298,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 07:11 mail.google.com</li>
-<li class='same'> 07:02 mail.google.com</li>
+<li> 07:10 outlook.office365.com</li>
+<li> 07:02 mail.google.com</li>
 <li> 06:59 www.linkedin.com</li>
 </ul>
 
@@ -56720,7 +61383,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:40 teams.microsoft.com</li>
+<ul><li> 15:40 outlook.office365.com</li>
+<li> 15:40 teams.microsoft.com</li>
 <li> 15:40 outlook.office365.com</li>
 <li class='same'> 15:39 outlook.office365.com</li>
 <li> 15:11 mail.google.com</li>
@@ -56739,6 +61403,7 @@ With number of accesses/minutes in parentheses
 <li> 12:56 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 12:53 <a href="https://en.wikipedia.org/wiki/Talk:Information_security">Talk:Information security - Wikipedia</a></li>
 <li> 12:32 outlook.office365.com</li>
+<li> 12:32 pure.royalholloway.ac.uk</li>
 <li> 12:30 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
 <li> 12:28 kdp.amazon.com</li>
 <li> 12:15 github.com</li>
@@ -56783,6 +61448,7 @@ With number of accesses/minutes in parentheses
 <li> 10:35 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 10:34 gitlab.cim.rhul.ac.uk</li>
 <li> 10:34 outlook.office365.com</li>
+<li class='same'> 10:32 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -56842,7 +61508,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:51 www.google.com</li>
+<ul><li> 16:57 www.linkedin.com</li>
+<li> 16:51 www.google.com</li>
 <li> 16:30 www.reddit.com</li>
 <li class='same'> 16:29 www.reddit.com</li>
 </ul>
@@ -57168,7 +61835,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:42 www.natwest.com</li>
+<ul><li> 11:49 mail.google.com</li>
+<li> 11:42 www.natwest.com</li>
 <li> 11:31 www.onlinebanking.natwest.com</li>
 <li> 11:31 www.natwest.com</li>
 <li> 11:30 qbo.intuit.com</li>
@@ -57864,6 +62532,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:55 www.goodreads.com</li>
 <li> 06:54 www.natesilver.net</li>
 <li> 06:31 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 06:23 ico.org.uk</li>
 <li> 06:18 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
 <li> 06:17 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 06:13 rhul-my.sharepoint.com</li>
@@ -58430,6 +63099,7 @@ With number of accesses/minutes in parentheses
 <li> 16:18 www.unity-online.co.uk</li>
 <li> 16:18 mail.google.com</li>
 <li> 16:14 outlook.office.com</li>
+<li> 16:10 pure.royalholloway.ac.uk</li>
 <li> 16:07 www.facebook.com</li>
 <li class='same'> 16:06 www.facebook.com</li>
 <li> 16:05 outlook.office.com</li>
@@ -58966,7 +63636,7 @@ With number of accesses/minutes in parentheses
 <li> 11:21 <a href="https://xkcd.com/2941/">xkcd: Cell Organelles</a></li>
 <li> 11:20 <a href="https://xkcd.com/2957/">xkcd: A Crossword Puzzle</a></li>
 <li> 11:20 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
-<li> 11:18 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 11:18 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 11:18 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 11:01 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
 <li> 10:41 whitewaterwriters.com</li>
@@ -59244,7 +63914,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:26 www.overleaf.com</li>
+<ul><li> 14:39 rh.firstparking.co.uk</li>
+<li class='same'> 14:38 rh.firstparking.co.uk</li>
+<li> 14:26 www.overleaf.com</li>
 <li> 14:22 rhul.sharepoint.com</li>
 <li> 14:15 calendar.google.com</li>
 <li class='same'> 14:14 calendar.google.com</li>
@@ -59258,6 +63930,7 @@ With number of accesses/minutes in parentheses
 <li> 12:41 en.m.wikipedia.org</li>
 <li> 12:41 www.wikipedia.org</li>
 <li> 12:35 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lead_section">Wikipedia:Manual of Style/Lead section - Wikipedia</a></li>
+<li> 12:29 mail.google.com</li>
 <li> 12:17 <a href="https://en.wikipedia.org/wiki/Flipped_classroom">Flipped classroom - Wikipedia</a></li>
 </ul>
 
@@ -59337,7 +64010,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:54 www.overleaf.com</li>
 <li> 20:52 www.tightrope.co.uk</li>
-<li> 20:34 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 20:34 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 </ul>
 
 <br>
@@ -59415,7 +64088,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:09 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<ul><li> 21:09 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 </ul>
 
 <br>
@@ -59470,7 +64143,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:32 www.facebook.com</li>
+<ul><li> 16:43 www.reddit.com</li>
+<li> 16:32 www.facebook.com</li>
+<li> 16:23 www.reddit.com</li>
+<li class='same'> 16:22 www.reddit.com</li>
+<li class='same'> 16:18 www.reddit.com</li>
 <li> 16:10 myview.rhul.zellis.com</li>
 <li> 16:09 mail.google.com</li>
 <li> 16:09 www.gov.uk</li>
@@ -59621,7 +64298,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:47 outlook.office.com</li>
+<ul><li> 11:50 intranet.royalholloway.ac.uk</li>
+<li> 11:47 outlook.office.com</li>
 <li class='same'> 11:34 outlook.office.com</li>
 <li class='same'> 11:33 outlook.office.com</li>
 <li> 11:27 accounts.intuit.com</li>
@@ -59644,7 +64322,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:17 www.pcspecialist.co.uk</li>
 <li> 09:11 ads.google.com</li>
 <li> 08:58 www.amazon.co.uk</li>
+<li> 08:56 ewf.companieshouse.gov.uk</li>
+<li class='same'> 08:52 ewf.companieshouse.gov.uk</li>
 <li> 08:51 idam-ui.company-information.service.gov.uk</li>
+<li> 08:51 www.gov.uk</li>
+<li> 08:50 docs.google.com</li>
+<li class='same'> 08:49 docs.google.com</li>
+<li class='same'> 08:48 docs.google.com</li>
 <li> 08:45 www.amazon.co.uk</li>
 <li> 08:41 www.moonpig.com</li>
 <li> 08:34 www.linkedin.com</li>
@@ -59686,7 +64370,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:18 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<ul><li> 17:18 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 </ul>
 
 <br>
@@ -59836,6 +64520,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:31 www.feedly.com</li>
+<li> 13:25 support.spotify.com</li>
 </ul>
 
 <br>
@@ -59870,6 +64555,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:54 www.royalholloway.ac.uk</li>
+<li> 14:54 pure.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -59989,7 +64675,7 @@ With number of accesses/minutes in parentheses
 <li> 08:12 mail.google.com</li>
 <li> 08:08 docs.google.com</li>
 <li> 08:07 www.google.com</li>
-<li> 07:57 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 07:57 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 </ul>
 
 <H3>Saturday, 17/08/24</H3>
@@ -60016,7 +64702,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:26 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<ul><li> 16:26 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 </ul>
 
 <H3>Thursday, 15/08/24</H3>
@@ -60045,7 +64731,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:19 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<ul><li> 16:19 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 </ul>
 
 <br>
@@ -60192,7 +64878,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:44 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<ul><li> 06:44 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 06:42 kdpreports.amazon.com</li>
 <li> 06:32 www.buzzfeed.com</li>
 <li> 06:26 x.com</li>
@@ -60330,7 +65016,7 @@ With number of accesses/minutes in parentheses
 <li> 07:03 www.amazon.co.uk</li>
 <li> 07:02 mail.google.com</li>
 <li> 06:48 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
-<li> 06:46 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 06:46 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 06:37 mail.google.com</li>
 </ul>
 
@@ -60455,9 +65141,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:58 outlook.office.com</li>
 <li class='same'> 14:57 outlook.office.com</li>
 <li class='same'> 14:56 outlook.office.com</li>
-<li class='same'> 14:39 outlook.office.com</li>
+<li> 14:46 intranet.royalholloway.ac.uk</li>
+<li> 14:39 outlook.office.com</li>
 <li class='same'> 14:30 outlook.office.com</li>
 <li class='same'> 14:20 outlook.office.com</li>
+<li> 14:09 www.royalholloway.ac.uk</li>
 <li> 14:08 teams.microsoft.com</li>
 <li class='same'> 13:51 teams.microsoft.com</li>
 <li> 13:25 rhul.hosted.panopto.com</li>
@@ -60478,7 +65166,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:45 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
-<li> 09:43 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 09:43 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 09:41 www.reddit.com</li>
 <li> 09:35 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 </ul>
@@ -60822,6 +65510,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:46 calendar.google.com</li>
 <li> 11:39 www.facebook.com</li>
 <li> 11:31 equalitytime.github.io</li>
+<li> 11:31 www.google.com</li>
 <li> 11:29 mail.google.com</li>
 <li> 11:28 calendar.google.com</li>
 <li> 11:24 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
@@ -60936,7 +65625,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:47 <a href="https://xkcd.com/2957/">xkcd: A Crossword Puzzle</a></li>
-<li> 12:46 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 12:46 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 12:45 www.google.com</li>
 <li> 12:29 www.amazon.co.uk</li>
 <li> 12:28 kdpreports.amazon.com</li>
@@ -61065,18 +65754,19 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:41 outlook.office.com</li>
 <li> 15:38 www.natesilver.net</li>
 <li> 15:34 myview.rhul.zellis.com</li>
+<li class='same'> 15:11 myview.rhul.zellis.com</li>
 <li class='same'> 15:10 myview.rhul.zellis.com</li>
 <li class='same'> 15:04 myview.rhul.zellis.com</li>
 <li class='same'> 14:54 myview.rhul.zellis.com</li>
+<li class='same'> 14:47 myview.rhul.zellis.com</li>
+<li class='same'> 14:45 myview.rhul.zellis.com</li>
 <li> 14:26 claude.ai</li>
 <li> 14:25 myview.rhul.zellis.com</li>
 <li class='same'> 14:24 myview.rhul.zellis.com</li>
 <li class='same'> 14:23 myview.rhul.zellis.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:49 accounts.google.com</li>
+<li> 14:23 intranet.royalholloway.ac.uk</li>
+<li class='same'> 14:12 intranet.royalholloway.ac.uk</li>
+<li> 13:49 accounts.google.com</li>
 <li> 13:43 www.facebook.com</li>
 <li> 13:32 www.instagram.com</li>
 <li class='same'> 13:31 www.instagram.com</li>
@@ -61117,6 +65807,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:50 intranet.royalholloway.ac.uk</li>
+<li class='same'> 13:39 intranet.royalholloway.ac.uk</li>
 <li> 13:29 www.facebook.com</li>
 <li> 13:18 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
 <li> 13:16 gitlab.cim.rhul.ac.uk</li>
@@ -61235,14 +65926,15 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:40 calendar.google.com</li>
 <li> 16:24 www.bricklink.com</li>
 <li> 16:12 www.camerajungle.co.uk</li>
-<li> 15:54 <a href="https://www.youtube.com/feed/playlists">(729) Playlists - YouTube</a></li>
+<li> 15:54 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
 <li> 15:42 www.whatdotheyknow.com</li>
 <li class='same'> 15:41 www.whatdotheyknow.com</li>
 </ul>
 
 <br>
 
-<ul><li> 14:12 www.facebook.com</li>
+<ul><li> 14:35 meet.google.com</li>
+<li> 14:12 www.facebook.com</li>
 <li> 13:48 www.lutongymnastics.co.uk</li>
 <li> 13:29 outlook.office.com</li>
 <li class='same'> 13:28 outlook.office.com</li>
@@ -61471,6 +66163,7 @@ With number of accesses/minutes in parentheses
 <li> 14:09 www.onlinebanking.natwest.com</li>
 <li> 14:05 www.natwest.com</li>
 <li> 14:04 docs.google.com</li>
+<li> 13:45 www.google.com</li>
 <li> 13:40 outlook.office.com</li>
 <li> 13:39 www.paypal.com</li>
 </ul>
@@ -61735,12 +66428,15 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:05 www.facebook.com</li>
+<li> 07:42 intranet.royalholloway.ac.uk</li>
+<li> 07:25 claude.ai</li>
+<li> 07:23 <a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
+<li> 07:15 intranet.royalholloway.ac.uk</li>
 </ul>
 
 <br>
 
-<ul><li> 07:25 claude.ai</li>
-<li> 07:23 <a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
+<ul><li class='same'> 06:23 intranet.royalholloway.ac.uk</li>
 </ul>
 
 <H3>Wednesday, 26/06/24</H3>
@@ -61816,7 +66512,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:13 www.facebook.com</li>
+<ul><li> 08:30 www.evocycles.co.uk</li>
+<li> 08:13 www.facebook.com</li>
 <li> 07:54 www.paypal.com</li>
 <li class='same'> 07:49 www.paypal.com</li>
 <li class='same'> 07:45 www.paypal.com</li>
@@ -62052,7 +66749,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:14 outlook.office365.com</li>
 <li class='same'> 11:10 outlook.office365.com</li>
 <li> 11:09 <a href="https://xkcd.com/2941/">xkcd: Cell Organelles</a></li>
-<li> 11:08 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 11:08 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 11:04 www.paypal.com</li>
 <li class='same'> 10:59 www.paypal.com</li>
 <li> 10:54 mail.google.com</li>
@@ -62272,7 +66969,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:59 equalitytime.github.io</li>
-<li> 14:49 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 14:49 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 <li> 14:48 theopenvoicefactory.org</li>
 <li class='same'> 14:45 theopenvoicefactory.org</li>
 <li class='same'> 14:41 theopenvoicefactory.org</li>
@@ -62522,6 +67219,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:16 projects.cs.rhul.ac.uk</li>
+<li> 16:12 www.linkedin.com</li>
 <li> 16:10 www.gmail.com</li>
 <li> 16:09 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 15:53 gitlab.cim.rhul.ac.uk</li>
@@ -62601,6 +67299,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:00 www.qiq.support</li>
+<li> 07:59 cpanel.myqiq.info</li>
+<li> 07:59 qiq.co</li>
 <li> 07:54 www.lutongymnastics.co.uk</li>
 <li> 07:54 www.reddit.com</li>
 </ul>
@@ -62747,7 +67447,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:20 www.google.com</li>
-<li> 18:19 <a href="https://xkcd.com/">xkcd: Canon</a></li>
+<li> 18:19 <a href="https://xkcd.com/">xkcd: Sea Level</a></li>
 </ul>
 
 <br>
@@ -62791,10 +67491,12 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:45 dashboards.rhul.ac.uk</li>
 <li> 10:17 www.royalholloway.ac.uk</li>
+<li> 10:15 pure.royalholloway.ac.uk</li>
 <li> 10:12 intranet.royalholloway.ac.uk</li>
 <li> 10:10 www.royalholloway.ac.uk</li>
 <li> 10:09 intranet.royalholloway.ac.uk</li>
 <li class='same'> 10:08 intranet.royalholloway.ac.uk</li>
+<li> 10:04 pure.royalholloway.ac.uk</li>
 <li> 09:59 www.amazon.co.uk</li>
 <li> 09:40 rhul.sharepoint.com</li>
 </ul>
@@ -63154,6 +67856,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:53 outlook.office.com</li>
 <li> 18:52 mail.google.com</li>
+<li> 18:50 www.netflix.com</li>
+<li class='same'> 18:49 www.netflix.com</li>
 <li> 18:48 www.amazon.co.uk</li>
 <li> 18:47 mail.google.com</li>
 <li> 18:35 www.parkrun.com</li>
@@ -63337,11 +68041,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:26 www.ncsc.gov.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 06:36 mail.google.com</li>
+<li> 06:57 www.royalholloway.ac.uk</li>
+<li> 06:36 mail.google.com</li>
 <li> 06:28 <a href="https://xkcd.com/2926/">xkcd: Doppler Effect</a></li>
 <li> 06:22 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
 </ul>
@@ -63371,6 +68072,8 @@ With number of accesses/minutes in parentheses
 <li> 07:05 feedly.com</li>
 <li class='same'> 07:01 feedly.com</li>
 <li> 07:01 www.feedly.com</li>
+<li> 06:35 www.reddit.com</li>
+<li class='same'> 06:34 www.reddit.com</li>
 </ul>
 
 <H3>Tuesday, 07/05/24</H3>
@@ -63381,7 +68084,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:47 www.projectreal.co.uk</li>
+<ul><li> 20:54 meet.google.com</li>
+<li> 20:47 www.projectreal.co.uk</li>
 </ul>
 
 <br>
@@ -63403,7 +68107,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:47 <a href="https://www.youtube.com/feed/playlists">(729) Playlists - YouTube</a></li>
+<ul><li> 12:47 <a href="https://www.youtube.com/feed/playlists">(749) Playlists - YouTube</a></li>
 <li> 12:46 www.disneyplus.com</li>
 </ul>
 
@@ -63537,6 +68241,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:07 intranet.royalholloway.ac.uk</li>
 <li class='same'> 11:06 intranet.royalholloway.ac.uk</li>
 <li class='same'> 11:04 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:03 intranet.royalholloway.ac.uk</li>
 <li class='same'> 11:02 intranet.royalholloway.ac.uk</li>
 <li> 11:02 www.royalholloway.ac.uk</li>
 </ul>
@@ -64086,6 +68791,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:25 www.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 07:17 www.netflix.com</li>
+<li class='same'> 07:16 www.netflix.com</li>
+</ul>
+
 <H3>Friday, 19/04/24</H3>
 
 <br>
@@ -64108,6 +68819,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:49 gitlab.cim.rhul.ac.uk</li>
 <li> 09:33 status.zen.co.uk</li>
 <li> 09:20 gitlab.cim.rhul.ac.uk</li>
+<li> 08:57 www.linkedin.com</li>
 <li> 08:53 www.royalholloway.ac.uk</li>
 </ul>
 
@@ -64126,6 +68838,11 @@ With number of accesses/minutes in parentheses
 <li> 18:05 github.com</li>
 <li> 17:50 www.royalholloway.ac.uk</li>
 <li> 17:28 rhul.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:03 houseprices.anna.ps</li>
 </ul>
 
 <H3>Wednesday, 17/04/24</H3>
@@ -64153,7 +68870,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:45 intranet.royalholloway.ac.uk</li>
 <li class='same'> 11:40 intranet.royalholloway.ac.uk</li>
 <li> 11:23 outlook.office.com</li>
-<li class='same'> 11:04 outlook.office.com</li>
+<li> 11:07 www.royalholloway.ac.uk</li>
+<li> 11:04 outlook.office.com</li>
 <li> 10:59 projects.cs.rhul.ac.uk</li>
 <li> 10:48 mail.google.com</li>
 <li> 10:48 www.facebook.com</li>
@@ -64420,6 +69138,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:44 my-charity-account.charitycommission.gov.uk</li>
 <li> 12:44 www.gov.uk</li>
 <li> 12:43 mail.google.com</li>
+<li> 12:43 ewf.companieshouse.gov.uk</li>
 <li> 12:41 equalitytime.co.uk</li>
 <li> 12:41 idam-ui.company-information.service.gov.uk</li>
 <li class='same'> 12:40 idam-ui.company-information.service.gov.uk</li>
@@ -64645,7 +69364,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:43 gitlab.cim.rhul.ac.uk</li>
+<ul><li> 18:44 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 18:43 gitlab.cim.rhul.ac.uk</li>
 </ul>
 
 <br>
@@ -64674,7 +69394,8 @@ With number of accesses/minutes in parentheses
 <li> 12:27 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
 <li> 12:08 outlook.office.com</li>
 <li> 11:51 www.facebook.com</li>
-<li> 11:42 intranet.royalholloway.ac.uk</li>
+<li> 11:43 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:42 intranet.royalholloway.ac.uk</li>
 <li> 11:35 rhul.sharepoint.com</li>
 <li class='same'> 11:24 rhul.sharepoint.com</li>
 </ul>
@@ -64786,7 +69507,8 @@ With number of accesses/minutes in parentheses
 <li> 12:58 myview.rhul.zellis.com</li>
 <li> 12:42 outlook.office365.com</li>
 <li class='same'> 12:33 outlook.office365.com</li>
-<li> 12:27 myview.rhul.zellis.com</li>
+<li> 12:29 myview.rhul.zellis.com</li>
+<li class='same'> 12:27 myview.rhul.zellis.com</li>
 <li> 12:22 rhul.sharepoint.com</li>
 <li> 12:19 outlook.office365.com</li>
 <li class='same'> 12:14 outlook.office365.com</li>
@@ -64867,6 +69589,7 @@ With number of accesses/minutes in parentheses
 <li> 14:26 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 14:24 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 14:20 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 14:13 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 14:12 gitlab.cim.rhul.ac.uk</li>
 <li> 14:10 outlook.office365.com</li>
 <li class='same'> 14:00 outlook.office365.com</li>
@@ -64984,6 +69707,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:28 jobs.royalholloway.ac.uk</li>
 <li> 11:28 www.google.com</li>
 <li> 11:26 calendar.google.com</li>
+<li> 11:23 intranet.royalholloway.ac.uk</li>
 <li> 11:06 gitlab.cim.rhul.ac.uk</li>
 <li> 10:44 www.amazon.co.uk</li>
 <li> 10:24 rhul.sharepoint.com</li>
@@ -65058,7 +69782,8 @@ With number of accesses/minutes in parentheses
 <li> 11:37 accounts.firefox.com</li>
 <li> 11:34 myview.rhul.zellis.com</li>
 <li> 11:33 open.spotify.com</li>
-<li> 11:30 myview.rhul.zellis.com</li>
+<li> 11:31 myview.rhul.zellis.com</li>
+<li class='same'> 11:30 myview.rhul.zellis.com</li>
 </ul>
 
 <br>
@@ -65071,8 +69796,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:16 outlook.office.com</li>
 <li> 06:59 outlook.office365.com</li>
 <li class='same'> 06:58 outlook.office365.com</li>
+<li class='same'> 06:57 outlook.office365.com</li>
+<li class='same'> 06:56 outlook.office365.com</li>
 <li> 06:36 rhul-my.sharepoint.com</li>
 <li> 06:29 outlook.office365.com</li>
+<li> 06:27 myview.rhul.zellis.com</li>
 </ul>
 
 <H3>Tuesday, 19/03/24</H3>
@@ -65491,6 +70219,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:00 outlook.office.com</li>
 <li class='same'> 10:59 outlook.office.com</li>
 <li> 10:59 moodle.royalholloway.ac.uk</li>
+<li> 10:42 intranet.royalholloway.ac.uk</li>
 <li> 10:32 outlook.office.com</li>
 <li class='same'> 10:29 outlook.office.com</li>
 <li class='same'> 10:28 outlook.office.com</li>
@@ -65770,7 +70499,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:40 intranet.royalholloway.ac.uk</li>
+<ul><li> 13:41 intranet.royalholloway.ac.uk</li>
+<li class='same'> 13:40 intranet.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -65882,6 +70612,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:14 www.pcspecialist.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 09:52 intranet.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -66149,7 +70884,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:46 ico.org.uk</li>
+<ul><li> 16:50 ico.org.uk</li>
+<li class='same'> 16:46 ico.org.uk</li>
 <li class='same'> 16:43 ico.org.uk</li>
 <li> 16:25 rhul.hosted.panopto.com</li>
 </ul>
@@ -68133,6 +72869,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:42 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
+<li> 07:39 www.ebay.co.uk</li>
 <li> 07:38 www.google.com</li>
 </ul>
 
@@ -68669,7 +73406,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:45 www.goodreads.com</li>
 <li> 15:45 www.amazon.co.uk</li>
 <li> 15:31 docs.google.com</li>
-<li> 15:12 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
+<li> 15:12 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
 <li> 15:01 www.dropbox.com</li>
 <li> 14:34 mail.google.com</li>
 <li class='same'> 14:10 mail.google.com</li>
@@ -68719,7 +73456,7 @@ With number of accesses/minutes in parentheses
 <li> 14:22 drive.google.com</li>
 <li> 14:08 accounts.firefox.com</li>
 <li class='same'> 14:07 accounts.firefox.com</li>
-<li> 13:59 <a href="https://www.youtube.com/feed/you">(729) YouTube</a></li>
+<li> 13:59 <a href="https://www.youtube.com/feed/you">(749) YouTube</a></li>
 </ul>
 
 <br>
@@ -69784,8 +74521,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:22 equalitytime.co.uk</li>
+<li> 11:15 us11.admin.mailchimp.com</li>
 <li> 11:15 workspace.google.com</li>
-<li class='same'> 11:12 workspace.google.com</li>
+<li> 11:14 us11.admin.mailchimp.com</li>
+<li> 11:12 workspace.google.com</li>
 <li> 11:03 register-of-charities.charitycommission.gov.uk</li>
 </ul>
 
@@ -70452,7 +75191,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:10 whitewaterwriters.com</li>
+<ul><li> 10:15 www.reddit.com</li>
+<li> 10:10 whitewaterwriters.com</li>
 <li class='same'> 09:43 whitewaterwriters.com</li>
 <li class='same'> 09:35 whitewaterwriters.com</li>
 </ul>
@@ -70494,13 +75234,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:20 idam-ui.company-information.service.gov.uk</li>
-<li class='same'> 13:09 idam-ui.company-information.service.gov.uk</li>
+<ul><li> 13:21 ewf.companieshouse.gov.uk</li>
+<li class='same'> 13:20 ewf.companieshouse.gov.uk</li>
+<li> 13:20 idam-ui.company-information.service.gov.uk</li>
+<li> 13:14 ewf.companieshouse.gov.uk</li>
+<li class='same'> 13:13 ewf.companieshouse.gov.uk</li>
+<li class='same'> 13:11 ewf.companieshouse.gov.uk</li>
+<li class='same'> 13:10 ewf.companieshouse.gov.uk</li>
+<li> 13:09 idam-ui.company-information.service.gov.uk</li>
 <li class='same'> 13:08 idam-ui.company-information.service.gov.uk</li>
 <li class='same'> 13:07 idam-ui.company-information.service.gov.uk</li>
 <li class='same'> 13:04 idam-ui.company-information.service.gov.uk</li>
 <li class='same'> 13:03 idam-ui.company-information.service.gov.uk</li>
 <li class='same'> 13:02 idam-ui.company-information.service.gov.uk</li>
+<li> 12:51 docs.google.com</li>
 <li> 12:49 www.linkedin.com</li>
 </ul>
 
@@ -70794,6 +75541,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:39 getsupport.apple.com</li>
+<li> 20:38 www.apple.com</li>
 <li> 20:28 calendar.google.com</li>
 <li> 20:12 www.homebase.co.uk</li>
 <li> 20:02 www.diy.com</li>
@@ -71272,7 +76020,8 @@ With number of accesses/minutes in parentheses
 <li> 06:34 challengeworks.org</li>
 <li> 06:32 www.nesta.org.uk</li>
 <li class='same'> 06:31 www.nesta.org.uk</li>
-<li> 06:21 www.qiq.support</li>
+<li> 06:22 www.qiq.support</li>
+<li class='same'> 06:21 www.qiq.support</li>
 <li class='same'> 06:19 www.qiq.support</li>
 <li class='same'> 06:18 www.qiq.support</li>
 </ul>
@@ -71374,6 +76123,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 05:24 mail.google.com</li>
 <li> 05:17 github.com</li>
+<li> 05:13 www.whatdotheyknow.com</li>
+<li class='same'> 05:11 www.whatdotheyknow.com</li>
+<li class='same'> 05:10 www.whatdotheyknow.com</li>
 </ul>
 
 <H3>Tuesday, 18/07/23</H3>
@@ -71434,11 +76186,27 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 05:07 www.feedly.com</li>
 </ul>
 
+<H3>Sunday, 16/07/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 07:35 www.parkrun.org.uk</li>
+</ul>
+
 <H3>Saturday, 15/07/23</H3>
 
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:55 www.parkrun.org.uk</li>
+</ul>
 
 <br>
 
@@ -71533,6 +76301,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:24 www.qiq.support</li>
+<li class='same'> 11:23 www.qiq.support</li>
 <li class='same'> 11:22 www.qiq.support</li>
 <li> 11:12 mail.google.com</li>
 </ul>
@@ -72077,7 +76846,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:56 www.google.com</li>
-<li> 07:54 www.parkrun.org.uk</li>
+<li> 07:55 www.parkrun.org.uk</li>
+<li class='same'> 07:54 www.parkrun.org.uk</li>
 </ul>
 
 <H3>Sunday, 25/06/23</H3>
@@ -72872,7 +77642,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:49 mail.google.com</li>
-<li class='same'> 13:40 mail.google.com</li>
+<li> 13:49 www.pcspecialist.co.uk</li>
+<li> 13:40 mail.google.com</li>
 <li> 13:17 www.pcspecialist.co.uk</li>
 <li class='same'> 13:16 www.pcspecialist.co.uk</li>
 </ul>
@@ -73075,7 +77846,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:34 www.amazon.co.uk</li>
+<ul><li> 11:57 www.pcspecialist.co.uk</li>
+<li class='same'> 11:55 www.pcspecialist.co.uk</li>
+<li> 11:34 www.amazon.co.uk</li>
 <li class='same'> 11:33 www.amazon.co.uk</li>
 <li> 11:09 www.projectreal.co.uk</li>
 <li class='same'> 10:54 www.projectreal.co.uk</li>
@@ -75410,6 +80183,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:16 www.pcspecialist.co.uk</li>
+<li class='same'> 07:11 www.pcspecialist.co.uk</li>
 </ul>
 
 <H3>Tuesday, 02/08/22</H3>
