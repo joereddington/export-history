@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3731)</li>
 <li>mail.google.com (3701)</li>
-<li>www.reddit.com (3480)</li>
+<li>www.reddit.com (3491)</li>
 <li>outlook.office.com (3432)</li>
 <li>outlook.office365.com (2886)</li>
 <li>docs.google.com (2431)</li>
@@ -105,6 +105,33 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 21/09/25</H3>
+
+<br>
+
+<ul><li> 13:48 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:14 www.reddit.com</li>
+<li> 13:13 metro.co.uk</li>
+<li> 13:12 www.reddit.com</li>
+<li class='same'> 13:11 www.reddit.com</li>
+<li class='same'> 13:10 www.reddit.com</li>
+<li class='same'> 13:09 www.reddit.com</li>
+<li class='same'> 13:08 www.reddit.com</li>
+<li class='same'> 13:07 www.reddit.com</li>
+<li class='same'> 12:50 www.reddit.com</li>
+<li class='same'> 12:49 www.reddit.com</li>
+<li class='same'> 12:48 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:51 www.parkrun.org.uk</li>
+<li class='same'> 11:50 www.parkrun.org.uk</li>
+<li class='same'> 11:49 www.parkrun.org.uk</li>
+</ul>
 
 <br>
 
