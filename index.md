@@ -72,30 +72,30 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3703)</li>
 <li>www.reddit.com (3499)</li>
 <li>outlook.office.com (3432)</li>
-<li>outlook.office365.com (2895)</li>
+<li>outlook.office365.com (2899)</li>
 <li>docs.google.com (2432)</li>
 <li>duckduckgo.com (1850)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1444)</li>
-<li>chatgpt.com (1108)</li>
+<li>chatgpt.com (1110)</li>
 <li>www.linkedin.com (1040)</li>
 <li>www.amazon.co.uk (952)</li>
-<li>login.microsoftonline.com (814)</li>
+<li>login.microsoftonline.com (816)</li>
 <li>calendar.google.com (788)</li>
 <li>www.theguardian.com (685)</li>
 <li>moodle.royalholloway.ac.uk (663)</li>
-<li>rhul-my.sharepoint.com (624)</li>
+<li>rhul-my.sharepoint.com (625)</li>
 <li>tvtropes.org (602)</li>
 <li>gmail.com (574)</li>
 <li>github.com (515)</li>
 <li>web.whatsapp.com (511)</li>
-<li>chat.openai.com (474)</li>
+<li>chat.openai.com (475)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (473)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (404)</li>
 <li>drive.google.com (383)</li>
 <li>feedly.com (359)</li>
-<li>fritz.box (324)</li>
+<li>fritz.box (326)</li>
 <li>rhul.sharepoint.com (315)</li>
 <li>forum.artofmemory.com (296)</li>
 
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:44 <a href="https://joereddington.com/2014/10/22/nhs-areas-and-constituencies.html">NHS areas and constituencies | Joe Reddington</a></li>
+<ul><li> 11:12 fritz.box</li>
+<li class='same'> 11:10 fritz.box</li>
+<li> 11:08 royalhollowayacukcrm.elluciancrmrecruit.com</li>
+<li> 11:08 outlook.office365.com</li>
+<li class='same'> 11:07 outlook.office365.com</li>
+<li> 11:07 royalhollowayacukcrm.elluciancrmrecruit.com</li>
+<li> 11:07 login.microsoftonline.com</li>
+<li class='same'> 11:06 login.microsoftonline.com</li>
+<li> 11:06 outlook.office365.com</li>
+<li> 11:05 fast.com</li>
+<li> 11:05 rhul-my.sharepoint.com</li>
+<li> 11:04 outlook.office365.com</li>
+<li> 10:59 chatgpt.com</li>
+<li class='same'> 10:58 chatgpt.com</li>
+<li> 10:58 chat.openai.com</li>
+<li> 10:49 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 10:49 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
+<li> 10:48 <a href="https://joereddington.com/2024/06/10/attendence.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 10:48 <a href="https://joereddington.com/2024/01/10/todo-txt-script-q-a.html">From email: todo.txt | Joe Reddington</a></li>
+<li> 10:48 <a href="https://joereddington.com/2023/12/27/spider-man.html">Spider-Man | Joe Reddington</a></li>
+<li> 10:48 <a href="https://joereddington.com/2023/12/06/gtd.html">GTD | Joe Reddington</a></li>
+<li> 10:47 <a href="https://joereddington.com/2023/07/20/mix-2023.html">MIX 2023 | Joe Reddington</a></li>
+<li> 10:47 <a href="https://joereddington.com/2023/06/05/skip.html">Battery powered car project | Joe Reddington</a></li>
+<li> 10:47 <a href="https://joereddington.com/2022/02/20/holographicchoc.html">I made holographic chocolate | Joe Reddington</a></li>
+<li> 10:47 <a href="https://joereddington.com/2020/10/01/Cockpunk.html">Cockpunk | Joe Reddington</a></li>
+<li> 10:46 <a href="https://joereddington.com/2020/08/26/plays.html">Shakespeare | Joe Reddington</a></li>
+<li> 10:46 <a href="https://joereddington.com/images/2020/06/10/mirror.html">Mirror Images | Joe Reddington</a></li>
+<li> 10:44 <a href="https://joereddington.com/2016/05/11/a-weekend-on-mountains.-doing-most-of-the-three-peaks-challenge.html">A weekend on mountains. Doing (most of) the three peaks challenge | Joe Reddington</a></li>
+<li> 10:44 <a href="https://joereddington.com/2014/10/22/nhs-areas-and-constituencies.html">NHS areas and constituencies | Joe Reddington</a></li>
 <li> 10:44 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:44 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:44 duckduckgo.com</li>
@@ -66803,6 +66831,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:24 whitewaterwriters.com</li>
 <li> 10:22 <a href="https://joereddington.com/export-history/slots.png">slots.png (PNG Image, 1200 × 800 pixels)</a></li>
+<li> 10:00 <a href="https://joereddington.com/images/2020/06/10/mirror.html">Mirror Images | Joe Reddington</a></li>
 <li> 09:56 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 09:55 www.reddit.com</li>
 <li class='same'> 09:54 www.reddit.com</li>
@@ -66877,11 +66906,8 @@ With number of accesses/minutes in parentheses
 <li> 11:04 www.paypal.com</li>
 <li class='same'> 10:59 www.paypal.com</li>
 <li> 10:54 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:16 myview.rhul.zellis.com</li>
+<li> 10:30 <a href="https://joereddington.com/images/2020/06/10/mirror.html">Mirror Images | Joe Reddington</a></li>
+<li> 10:16 myview.rhul.zellis.com</li>
 <li> 10:03 mail.google.com</li>
 <li> 09:53 moodle.royalholloway.ac.uk</li>
 <li> 09:46 myview.rhul.zellis.com</li>
