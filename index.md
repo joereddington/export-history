@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3730)</li>
+<ol><li>www.google.com (3731)</li>
 <li>mail.google.com (3706)</li>
-<li>www.reddit.com (3503)</li>
+<li>www.reddit.com (3505)</li>
 <li>outlook.office.com (3431)</li>
-<li>outlook.office365.com (2918)</li>
-<li>docs.google.com (2437)</li>
-<li>duckduckgo.com (1852)</li>
+<li>outlook.office365.com (2919)</li>
+<li>docs.google.com (2440)</li>
+<li>duckduckgo.com (1854)</li>
 <li>bsky.app (1581)</li>
-<li>www.facebook.com (1444)</li>
+<li>www.facebook.com (1445)</li>
 <li>chatgpt.com (1110)</li>
-<li>www.linkedin.com (1040)</li>
-<li>www.amazon.co.uk (952)</li>
+<li>www.linkedin.com (1043)</li>
+<li>www.amazon.co.uk (959)</li>
 <li>login.microsoftonline.com (809)</li>
 <li>calendar.google.com (788)</li>
 <li>www.theguardian.com (685)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (602)</li>
 <li>gmail.com (575)</li>
 <li>github.com (517)</li>
-<li>web.whatsapp.com (512)</li>
+<li>web.whatsapp.com (513)</li>
 <li>chat.openai.com (475)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (473)</li>
 <li>herts.instructure.com (452)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:27 docs.google.com</li>
+<ul><li> 14:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:19 www.amazon.co.uk</li>
+<li class='same'> 14:18 www.amazon.co.uk</li>
+<li class='same'> 14:17 www.amazon.co.uk</li>
+<li class='same'> 14:16 www.amazon.co.uk</li>
+<li> 14:15 equalitytime.github.io</li>
+<li> 14:11 web.whatsapp.com</li>
+<li> 14:10 www.amazon.co.uk</li>
+<li class='same'> 14:09 www.amazon.co.uk</li>
+<li class='same'> 14:08 www.amazon.co.uk</li>
+<li> 13:55 docs.google.com</li>
+<li> 13:54 www.reddit.com</li>
+<li class='same'> 13:52 www.reddit.com</li>
+<li> 13:52 docs.google.com</li>
+<li class='same'> 13:51 docs.google.com</li>
+<li> 13:50 outlook.office365.com</li>
+<li> 13:39 www.linkedin.com</li>
+<li class='same'> 13:37 www.linkedin.com</li>
+<li class='same'> 13:36 www.linkedin.com</li>
+<li> 13:35 www.facebook.com</li>
+<li> 13:34 www.ft.com</li>
+<li> 13:34 www.google.com</li>
+<li> 13:34 duckduckgo.com</li>
+<li class='same'> 13:33 duckduckgo.com</li>
+<li> 13:32 www.projectreal.co.uk</li>
+<li class='same'> 13:29 www.projectreal.co.uk</li>
+<li> 13:28 equalitytime.github.io</li>
+<li> 13:27 docs.google.com</li>
 <li> 13:27 drive.google.com</li>
 <li> 13:26 docs.google.com</li>
 <li class='same'> 13:25 docs.google.com</li>
