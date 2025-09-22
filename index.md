@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3731)</li>
-<li>mail.google.com (3706)</li>
+<li>mail.google.com (3711)</li>
 <li>www.reddit.com (3505)</li>
 <li>outlook.office.com (3431)</li>
-<li>outlook.office365.com (2919)</li>
-<li>docs.google.com (2440)</li>
-<li>duckduckgo.com (1854)</li>
+<li>outlook.office365.com (2921)</li>
+<li>docs.google.com (2441)</li>
+<li>duckduckgo.com (1855)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1445)</li>
-<li>chatgpt.com (1110)</li>
+<li>chatgpt.com (1115)</li>
 <li>www.linkedin.com (1043)</li>
 <li>www.amazon.co.uk (959)</li>
 <li>login.microsoftonline.com (809)</li>
@@ -86,10 +86,10 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (661)</li>
 <li>rhul-my.sharepoint.com (628)</li>
 <li>tvtropes.org (602)</li>
-<li>gmail.com (575)</li>
-<li>github.com (517)</li>
-<li>web.whatsapp.com (513)</li>
-<li>chat.openai.com (475)</li>
+<li>gmail.com (576)</li>
+<li>github.com (518)</li>
+<li>web.whatsapp.com (515)</li>
+<li>chat.openai.com (476)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (473)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (406)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 15:20 duckduckgo.com</li>
+<li> 15:16 chatgpt.com</li>
+<li class='same'> 15:15 chatgpt.com</li>
+<li> 15:14 github.com</li>
+<li> 15:14 www.whitewaterwriters.com</li>
+<li> 15:14 whitewaterwriters.com</li>
+<li> 15:14 equalitytime.github.io</li>
+<li> 15:14 www.whitewaterwriters.com</li>
+<li> 15:12 chatgpt.com</li>
+<li> 15:12 web.whatsapp.com</li>
+<li> 15:11 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:34 chatgpt.com</li>
+<li class='same'> 14:31 chatgpt.com</li>
+<li> 14:31 chat.openai.com</li>
+<li> 14:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:30 web.whatsapp.com</li>
+<li> 14:30 mail.google.com</li>
+<li> 14:30 outlook.office365.com</li>
+<li class='same'> 14:29 outlook.office365.com</li>
+<li> 14:29 mail.google.com</li>
+<li class='same'> 14:28 mail.google.com</li>
+<li class='same'> 14:27 mail.google.com</li>
+<li class='same'> 14:26 mail.google.com</li>
+<li> 14:26 gmail.com</li>
+<li> 14:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:19 www.amazon.co.uk</li>
 <li class='same'> 14:18 www.amazon.co.uk</li>
 <li class='same'> 14:17 www.amazon.co.uk</li>
