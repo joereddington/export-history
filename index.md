@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3731)</li>
-<li>mail.google.com (3701)</li>
+<ol><li>www.google.com (3732)</li>
+<li>mail.google.com (3702)</li>
 <li>www.reddit.com (3497)</li>
 <li>outlook.office.com (3432)</li>
-<li>outlook.office365.com (2891)</li>
-<li>docs.google.com (2431)</li>
+<li>outlook.office365.com (2892)</li>
+<li>docs.google.com (2432)</li>
 <li>duckduckgo.com (1848)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1444)</li>
@@ -86,8 +86,8 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (663)</li>
 <li>rhul-my.sharepoint.com (618)</li>
 <li>tvtropes.org (602)</li>
-<li>gmail.com (573)</li>
-<li>github.com (514)</li>
+<li>gmail.com (574)</li>
+<li>github.com (515)</li>
 <li>web.whatsapp.com (511)</li>
 <li>chat.openai.com (474)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (472)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:02 outlook.office365.com</li>
+<ul><li> 09:29 mail.google.com</li>
+<li> 09:29 gmail.com</li>
+<li> 09:27 github.com</li>
+<li> 09:27 www.google.com</li>
+<li> 09:19 docs.google.com</li>
+<li> 09:04 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:02 outlook.office365.com</li>
 <li> 07:55 <a href="https://www.youtube.com/watch?v=Trl8cIalTdo&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=105">(803) GCSE Maths: N3-18 [Part 6 Examples] - YouTube</a></li>
 <li> 07:45 <a href="https://www.youtube.com/watch?v=SNzm6PtVnsI&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=104">(803) GCSE Maths: N3-17 [Priority of Operations Part 6: Brackets, Powers and Roots, x and ÷, + and -] - YouTube</a></li>
 <li> 07:35 www.etymonline.com</li>
