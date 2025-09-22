@@ -69,15 +69,15 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3731)</li>
-<li>mail.google.com (3711)</li>
-<li>www.reddit.com (3505)</li>
+<li>mail.google.com (3712)</li>
+<li>www.reddit.com (3507)</li>
 <li>outlook.office.com (3431)</li>
 <li>outlook.office365.com (2921)</li>
-<li>docs.google.com (2441)</li>
-<li>duckduckgo.com (1855)</li>
+<li>docs.google.com (2444)</li>
+<li>duckduckgo.com (1857)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1445)</li>
-<li>chatgpt.com (1115)</li>
+<li>chatgpt.com (1119)</li>
 <li>www.linkedin.com (1043)</li>
 <li>www.amazon.co.uk (959)</li>
 <li>login.microsoftonline.com (809)</li>
@@ -85,17 +85,17 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>moodle.royalholloway.ac.uk (661)</li>
 <li>rhul-my.sharepoint.com (628)</li>
-<li>tvtropes.org (602)</li>
+<li>tvtropes.org (604)</li>
 <li>gmail.com (576)</li>
 <li>github.com (518)</li>
 <li>web.whatsapp.com (515)</li>
-<li>chat.openai.com (476)</li>
+<li>chat.openai.com (478)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (473)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (406)</li>
-<li>drive.google.com (386)</li>
+<li>drive.google.com (388)</li>
 <li>feedly.com (359)</li>
-<li>fritz.box (327)</li>
+<li>fritz.box (328)</li>
 <li>rhul.sharepoint.com (315)</li>
 <li>forum.artofmemory.com (296)</li>
 
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:20 duckduckgo.com</li>
+<ul><li> 16:15 www.asciiart.eu</li>
+<li class='same'> 16:14 www.asciiart.eu</li>
+<li> 16:14 duckduckgo.com</li>
+<li> 16:10 chatgpt.com</li>
+<li class='same'> 16:09 chatgpt.com</li>
+<li> 16:09 chat.openai.com</li>
+<li> 16:04 kdp.amazon.com</li>
+<li class='same'> 16:02 kdp.amazon.com</li>
+<li class='same'> 16:01 kdp.amazon.com</li>
+<li> 16:00 cc.amazon.com</li>
+<li> 16:00 kdp.amazon.com</li>
+<li class='same'> 15:59 kdp.amazon.com</li>
+<li class='same'> 15:58 kdp.amazon.com</li>
+<li> 15:57 docs.google.com</li>
+<li> 15:57 drive.google.com</li>
+<li> 15:55 cc.amazon.com</li>
+<li> 15:55 kdp.amazon.com</li>
+<li> 15:54 mail.google.com</li>
+<li> 15:49 docs.google.com</li>
+<li> 15:47 chatgpt.com</li>
+<li> 15:47 fritz.box</li>
+<li> 15:44 chatgpt.com</li>
+<li> 15:44 chat.openai.com</li>
+<li> 15:44 docs.google.com</li>
+<li> 15:44 drive.google.com</li>
+<li> 15:30 tvtropes.org</li>
+<li class='same'> 15:24 tvtropes.org</li>
+<li> 15:23 letterboxd.com</li>
+<li> 15:23 www.reddit.com</li>
+<li class='same'> 15:22 www.reddit.com</li>
+<li> 15:22 duckduckgo.com</li>
+<li class='same'> 15:20 duckduckgo.com</li>
 <li> 15:16 chatgpt.com</li>
 <li class='same'> 15:15 chatgpt.com</li>
 <li> 15:14 github.com</li>
