@@ -87,14 +87,14 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (628)</li>
 <li>tvtropes.org (604)</li>
 <li>gmail.com (576)</li>
-<li>github.com (518)</li>
-<li>web.whatsapp.com (515)</li>
+<li>github.com (519)</li>
+<li>web.whatsapp.com (516)</li>
 <li>chat.openai.com (478)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (473)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (406)</li>
 <li>drive.google.com (388)</li>
-<li>feedly.com (359)</li>
+<li>feedly.com (360)</li>
 <li>fritz.box (328)</li>
 <li>rhul.sharepoint.com (315)</li>
 <li>forum.artofmemory.com (296)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:15 www.asciiart.eu</li>
+<ul><li> 17:01 www.eventbrite.com</li>
+<li> 16:53 192.168.178.81:8008</li>
+<li> 16:49 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 16:45 feedly.com</li>
+<li> 16:41 web.whatsapp.com</li>
+<li> 16:34 github.com</li>
+<li> 16:33 www.asciiart.eu</li>
+<li class='same'> 16:31 www.asciiart.eu</li>
+<li class='same'> 16:15 www.asciiart.eu</li>
 <li class='same'> 16:14 www.asciiart.eu</li>
 <li> 16:14 duckduckgo.com</li>
 <li> 16:10 chatgpt.com</li>
