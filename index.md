@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3732)</li>
-<li>mail.google.com (3702)</li>
-<li>www.reddit.com (3497)</li>
+<li>mail.google.com (3703)</li>
+<li>www.reddit.com (3499)</li>
 <li>outlook.office.com (3432)</li>
-<li>outlook.office365.com (2892)</li>
+<li>outlook.office365.com (2893)</li>
 <li>docs.google.com (2432)</li>
 <li>duckduckgo.com (1848)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1444)</li>
 <li>chatgpt.com (1108)</li>
-<li>www.linkedin.com (1039)</li>
+<li>www.linkedin.com (1040)</li>
 <li>www.amazon.co.uk (952)</li>
 <li>login.microsoftonline.com (812)</li>
-<li>calendar.google.com (786)</li>
+<li>calendar.google.com (787)</li>
 <li>www.theguardian.com (685)</li>
 <li>moodle.royalholloway.ac.uk (663)</li>
 <li>rhul-my.sharepoint.com (618)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (515)</li>
 <li>web.whatsapp.com (511)</li>
 <li>chat.openai.com (474)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (472)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (473)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (404)</li>
 <li>drive.google.com (383)</li>
@@ -108,11 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:29 mail.google.com</li>
+<ul><li> 09:30 mail.google.com</li>
+<li class='same'> 09:29 mail.google.com</li>
 <li> 09:29 gmail.com</li>
 <li> 09:27 github.com</li>
 <li> 09:27 www.google.com</li>
 <li> 09:19 docs.google.com</li>
+<li> 09:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:08 www.reddit.com</li>
+<li class='same'> 09:07 www.reddit.com</li>
+<li> 09:07 www.linkedin.com</li>
+<li> 09:06 outlook.office365.com</li>
+<li> 09:06 doodle.com</li>
+<li class='same'> 09:05 doodle.com</li>
+<li> 09:04 calendar.google.com</li>
 <li> 09:04 outlook.office365.com</li>
 </ul>
 
