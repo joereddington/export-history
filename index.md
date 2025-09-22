@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3703)</li>
 <li>www.reddit.com (3499)</li>
 <li>outlook.office.com (3431)</li>
-<li>outlook.office365.com (2897)</li>
+<li>outlook.office365.com (2898)</li>
 <li>docs.google.com (2432)</li>
 <li>duckduckgo.com (1850)</li>
 <li>bsky.app (1581)</li>
@@ -80,11 +80,11 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1110)</li>
 <li>www.linkedin.com (1040)</li>
 <li>www.amazon.co.uk (952)</li>
-<li>login.microsoftonline.com (808)</li>
+<li>login.microsoftonline.com (809)</li>
 <li>calendar.google.com (788)</li>
 <li>www.theguardian.com (685)</li>
 <li>moodle.royalholloway.ac.uk (661)</li>
-<li>rhul-my.sharepoint.com (623)</li>
+<li>rhul-my.sharepoint.com (624)</li>
 <li>tvtropes.org (602)</li>
 <li>gmail.com (574)</li>
 <li>github.com (515)</li>
@@ -92,10 +92,10 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (475)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (473)</li>
 <li>herts.instructure.com (452)</li>
-<li>forms.office.com (403)</li>
+<li>forms.office.com (406)</li>
 <li>drive.google.com (383)</li>
 <li>feedly.com (359)</li>
-<li>fritz.box (326)</li>
+<li>fritz.box (327)</li>
 <li>rhul.sharepoint.com (315)</li>
 <li>forum.artofmemory.com (296)</li>
 
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:17 fast.com</li>
+<ul><li> 11:22 rhul-my.sharepoint.com</li>
+<li> 11:22 forms.office.com</li>
+<li class='same'> 11:21 forms.office.com</li>
+<li> 11:21 login.microsoftonline.com</li>
+<li> 11:21 forms.office.com</li>
+<li> 11:18 fritz.box</li>
+<li> 11:17 fast.com</li>
+<li> 11:16 outlook.office365.com</li>
+<li> 11:13 fast.com</li>
 <li> 11:12 fritz.box</li>
 <li class='same'> 11:10 fritz.box</li>
 <li> 11:08 royalhollowayacukcrm.elluciancrmrecruit.com</li>
