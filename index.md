@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3730)</li>
-<li>mail.google.com (3705)</li>
-<li>www.reddit.com (3499)</li>
+<li>mail.google.com (3706)</li>
+<li>www.reddit.com (3503)</li>
 <li>outlook.office.com (3431)</li>
-<li>outlook.office365.com (2908)</li>
-<li>docs.google.com (2432)</li>
-<li>duckduckgo.com (1851)</li>
+<li>outlook.office365.com (2918)</li>
+<li>docs.google.com (2437)</li>
+<li>duckduckgo.com (1852)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1444)</li>
 <li>chatgpt.com (1110)</li>
@@ -87,13 +87,13 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (628)</li>
 <li>tvtropes.org (602)</li>
 <li>gmail.com (575)</li>
-<li>github.com (515)</li>
+<li>github.com (517)</li>
 <li>web.whatsapp.com (512)</li>
 <li>chat.openai.com (475)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (473)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (406)</li>
-<li>drive.google.com (383)</li>
+<li>drive.google.com (386)</li>
 <li>feedly.com (359)</li>
 <li>fritz.box (327)</li>
 <li>rhul.sharepoint.com (315)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:22 outlook.office365.com</li>
+<ul><li> 13:27 docs.google.com</li>
+<li> 13:27 drive.google.com</li>
+<li> 13:26 docs.google.com</li>
+<li class='same'> 13:25 docs.google.com</li>
+<li class='same'> 13:24 docs.google.com</li>
+<li class='same'> 13:23 docs.google.com</li>
+<li> 13:23 drive.google.com</li>
+<li> 13:23 outlook.office365.com</li>
+<li class='same'> 13:22 outlook.office365.com</li>
+<li> 13:22 www.reddit.com</li>
+<li class='same'> 13:21 www.reddit.com</li>
+<li class='same'> 13:20 www.reddit.com</li>
+<li class='same'> 13:18 www.reddit.com</li>
+<li> 13:17 outlook.office365.com</li>
+<li class='same'> 13:08 outlook.office365.com</li>
+<li> 13:08 drive.google.com</li>
+<li> 13:08 equalitytime.github.io</li>
+<li> 13:08 github.com</li>
+<li class='same'> 13:07 github.com</li>
+<li> 13:07 <a href="https://joereddington.com/domesday">Joe Reddington | Things I make.</a></li>
+<li> 13:07 <a href="https://joereddington.com/%20domesday%20dataset">Joe Reddington | Things I make.</a></li>
+<li> 13:06 outlook.office365.com</li>
+<li class='same'> 13:05 outlook.office365.com</li>
+<li> 13:01 duckduckgo.com</li>
+<li> 13:01 outlook.office365.com</li>
+<li> 12:57 mail.google.com</li>
+<li> 12:49 outlook.office365.com</li>
+<li class='same'> 12:48 outlook.office365.com</li>
+<li class='same'> 12:47 outlook.office365.com</li>
+<li class='same'> 12:22 outlook.office365.com</li>
 <li class='same'> 12:21 outlook.office365.com</li>
 <li> 12:06 dashboards.rhul.ac.uk</li>
 <li> 12:01 rhul-my.sharepoint.com</li>
