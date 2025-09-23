@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (3731)</li>
+<ol><li>www.google.com (3729)</li>
 <li>mail.google.com (3716)</li>
 <li>www.reddit.com (3507)</li>
 <li>outlook.office.com (3431)</li>
-<li>outlook.office365.com (2928)</li>
+<li>outlook.office365.com (2926)</li>
 <li>docs.google.com (2444)</li>
 <li>duckduckgo.com (1860)</li>
 <li>bsky.app (1581)</li>
@@ -80,11 +80,11 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1120)</li>
 <li>www.linkedin.com (1043)</li>
 <li>www.amazon.co.uk (959)</li>
-<li>login.microsoftonline.com (809)</li>
+<li>login.microsoftonline.com (804)</li>
 <li>calendar.google.com (790)</li>
 <li>www.theguardian.com (685)</li>
-<li>moodle.royalholloway.ac.uk (661)</li>
-<li>rhul-my.sharepoint.com (631)</li>
+<li>moodle.royalholloway.ac.uk (659)</li>
+<li>rhul-my.sharepoint.com (630)</li>
 <li>tvtropes.org (604)</li>
 <li>gmail.com (577)</li>
 <li>github.com (519)</li>
@@ -18054,8 +18054,6 @@ With number of accesses/minutes in parentheses
 <li> 13:09 www.tinkercad.com</li>
 <li> 13:07 accounts.autodesk.com</li>
 <li> 13:06 www.tinkercad.com</li>
-<li> 13:06 accounts.autodesk.com</li>
-<li> 13:06 www.tinkercad.com</li>
 <li> 13:03 www.amazon.co.uk</li>
 <li> 13:01 duckduckgo.com</li>
 <li> 13:01 chatgpt.com</li>
@@ -18136,7 +18134,6 @@ With number of accesses/minutes in parentheses
 <li> 13:31 kdp.amazon.com</li>
 <li> 13:19 whitewaterwriters.com</li>
 <li> 13:09 feedly.com</li>
-<li> 13:08 cc.amazon.com</li>
 <li> 12:50 helpx.adobe.com</li>
 <li> 12:49 kdp.amazon.com</li>
 <li> 12:48 chatgpt.com</li>
@@ -18243,8 +18240,7 @@ With number of accesses/minutes in parentheses
 <li> 09:07 <a href="https://stackoverflow.com/questions/5183047/setting-graph-figure-size?__cf_chl_rt_tk=iexlCzU3QcGwbg_S8.JAaAd7XCQE0sI42iXx2ADJPXA-1749802027-1.0.1.1-ebCXcgdsebijqGXTbmTiXlii9wgAZUm2NW8_kK3xd2Q">Just a moment...</a></li>
 <li> 09:07 <a href="https://stackoverflow.com/questions/5183047/setting-graph-figure-size">matlab - Setting graph figure size - Stack Overflow</a></li>
 <li> 09:07 duckduckgo.com</li>
-<li> 09:02 www.ebay.co.uk</li>
-<li class='same'> 09:01 www.ebay.co.uk</li>
+<li> 09:01 www.ebay.co.uk</li>
 <li> 09:01 www.vistaprint.co.uk</li>
 <li> 09:01 duckduckgo.com</li>
 </ul>
@@ -18316,8 +18312,6 @@ With number of accesses/minutes in parentheses
 <li> 16:27 moodle.royalholloway.ac.uk</li>
 <li> 16:27 login.microsoftonline.com</li>
 <li> 16:27 moodle.royalholloway.ac.uk</li>
-<li> 16:27 login.microsoftonline.com</li>
-<li> 16:27 moodle.royalholloway.ac.uk</li>
 <li> 16:26 outlook.office365.com</li>
 <li class='same'> 16:25 outlook.office365.com</li>
 <li> 16:25 projects.cs.rhul.ac.uk</li>
@@ -18377,7 +18371,6 @@ With number of accesses/minutes in parentheses
 <li> 12:39 m365.cloud.microsoft</li>
 <li> 12:38 www.google.com</li>
 <li> 12:37 accounts.google.co.uk</li>
-<li> 12:37 accounts.google.com</li>
 <li> 12:36 outlook.office365.com</li>
 <li> 12:36 mail.google.com</li>
 <li> 12:36 gmail.com</li>
@@ -18428,8 +18421,6 @@ With number of accesses/minutes in parentheses
 <li> 11:22 ev.turnitinuk.com</li>
 <li> 11:22 moodle.royalholloway.ac.uk</li>
 <li> 11:22 login.microsoftonline.com</li>
-<li> 11:22 moodle.royalholloway.ac.uk</li>
-<li> 11:22 login.microsoftonline.com</li>
 <li> 11:22 outlook.office365.com</li>
 <li class='same'> 11:20 outlook.office365.com</li>
 <li> 11:18 outlook.office.com</li>
@@ -18449,8 +18440,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:05 outlook.office.com</li>
 <li> 11:02 outlook.office365.com</li>
 <li class='same'> 11:01 outlook.office365.com</li>
-<li> 11:01 login.microsoftonline.com</li>
-<li> 11:01 outlook.office365.com</li>
 <li> 10:55 outlook.office.com</li>
 <li class='same'> 10:53 outlook.office.com</li>
 <li class='same'> 10:51 outlook.office.com</li>
@@ -18470,7 +18459,6 @@ With number of accesses/minutes in parentheses
 <li> 10:43 chat.openai.com</li>
 <li> 10:42 outlook.office.com</li>
 <li class='same'> 10:41 outlook.office.com</li>
-<li> 10:41 login.microsoftonline.com</li>
 <li> 10:41 m365.cloud.microsoft</li>
 <li> 10:41 login.microsoftonline.com</li>
 <li> 10:41 adfs.herts.ac.uk</li>
@@ -18492,7 +18480,6 @@ With number of accesses/minutes in parentheses
 <li> 10:26 www.citationneeded.news</li>
 <li> 10:24 web.whatsapp.com</li>
 <li> 10:17 account.adobe.com</li>
-<li> 10:17 adobeid-na1.services.adobe.com</li>
 <li> 10:16 mail.google.com</li>
 <li> 10:16 www.citationneeded.news</li>
 <li class='same'> 10:15 www.citationneeded.news</li>
@@ -18529,7 +18516,6 @@ With number of accesses/minutes in parentheses
 <li> 08:05 <a href="https://www.theguardian.com/media/bskyb">Sky | The Guardian</a></li>
 <li> 08:05 <a href="https://www.theguardian.com/football/2025/jun/12/sky-sports-news-golden-age-at-an-end-as-rival-platforms-turn-up-the-volume">Sky Sports News’ golden age at an end as rival platforms turn up the volume | Football | The Guardian</a></li>
 <li> 08:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:52 wetransfer.com</li>
 <li> 07:44 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
 <li> 07:44 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
 <li> 07:44 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
@@ -18585,9 +18571,7 @@ With number of accesses/minutes in parentheses
 <li> 20:01 <a href="https://www.youtube.com/watch?v=nEuAWIU89sQ">(51) The Super Nintendo LifeCycle Exertainment Bike -- An Exercise Bike for the SNES! - YouTube</a></li>
 <li> 20:01 <a href="https://www.youtube.com/watch?si=tgbKkwfcMSWSX_RI&v=nEuAWIU89sQ&feature=youtu.be">The Super Nintendo LifeCycle Exertainment Bike -- An Exercise Bike for the SNES! - YouTube</a></li>
 <li> 20:00 www.reddit.com</li>
-<li> 20:00 www.google.com</li>
 <li> 19:59 www.ebay.com</li>
-<li> 19:59 www.google.com</li>
 <li> 19:58 www.hackster.io</li>
 <li> 19:58 www.google.com</li>
 <li> 19:57 duckduckgo.com</li>
@@ -18759,8 +18743,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:32 outlook.office365.com</li>
-<li> 07:32 login.microsoftonline.com</li>
-<li> 07:32 outlook.office365.com</li>
 <li> 07:31 mail.google.com</li>
 <li class='same'> 07:30 mail.google.com</li>
 <li> 07:30 gmail.com</li>
@@ -18888,7 +18870,6 @@ With number of accesses/minutes in parentheses
 <li> 14:49 docs.google.com</li>
 <li class='same'> 14:48 docs.google.com</li>
 <li class='same'> 14:47 docs.google.com</li>
-<li> 14:36 rhul-my.sharepoint.com</li>
 <li> 14:36 outlook.office365.com</li>
 <li> 14:29 intranet.royalholloway.ac.uk</li>
 <li> 14:29 duckduckgo.com</li>
