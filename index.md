@@ -77,19 +77,19 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (1860)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1445)</li>
-<li>chatgpt.com (1120)</li>
+<li>chatgpt.com (1122)</li>
 <li>www.linkedin.com (1043)</li>
 <li>www.amazon.co.uk (959)</li>
 <li>login.microsoftonline.com (805)</li>
 <li>calendar.google.com (790)</li>
 <li>www.theguardian.com (685)</li>
 <li>moodle.royalholloway.ac.uk (659)</li>
-<li>rhul-my.sharepoint.com (631)</li>
+<li>rhul-my.sharepoint.com (632)</li>
 <li>tvtropes.org (604)</li>
 <li>gmail.com (578)</li>
 <li>github.com (519)</li>
 <li>web.whatsapp.com (518)</li>
-<li>chat.openai.com (479)</li>
+<li>chat.openai.com (480)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (474)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (406)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:56 feedly.com</li>
+<ul><li> 14:00 rhul-my.sharepoint.com</li>
+<li> 13:59 chatgpt.com</li>
+<li class='same'> 13:58 chatgpt.com</li>
+<li> 13:58 chat.openai.com</li>
+<li> 13:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:57 fast.com</li>
+<li> 13:56 feedly.com</li>
 <li> 13:56 www.giantitp.com</li>
 <li> 13:53 www.reddit.com</li>
 <li class='same'> 13:52 www.reddit.com</li>
