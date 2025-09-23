@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (3716)</li>
 <li>www.reddit.com (3507)</li>
 <li>outlook.office.com (3431)</li>
-<li>outlook.office365.com (2922)</li>
+<li>outlook.office365.com (2928)</li>
 <li>docs.google.com (2444)</li>
 <li>duckduckgo.com (1860)</li>
 <li>bsky.app (1581)</li>
@@ -113,7 +113,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:38 web.whatsapp.com</li>
+<ul><li> 10:21 outlook.office365.com</li>
+<li class='same'> 10:20 outlook.office365.com</li>
+<li class='same'> 10:08 outlook.office365.com</li>
+<li class='same'> 10:07 outlook.office365.com</li>
+<li class='same'> 10:03 outlook.office365.com</li>
+<li class='same'> 10:02 outlook.office365.com</li>
+<li> 09:58 www.instagram.com</li>
+<li> 09:38 web.whatsapp.com</li>
 <li> 09:37 chatgpt.com</li>
 <li> 09:37 chat.openai.com</li>
 <li> 09:37 www.theopenvoicefactory.org</li>
