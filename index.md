@@ -69,27 +69,27 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3731)</li>
-<li>mail.google.com (3712)</li>
+<li>mail.google.com (3716)</li>
 <li>www.reddit.com (3507)</li>
 <li>outlook.office.com (3431)</li>
 <li>outlook.office365.com (2922)</li>
 <li>docs.google.com (2444)</li>
-<li>duckduckgo.com (1858)</li>
+<li>duckduckgo.com (1860)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1445)</li>
-<li>chatgpt.com (1119)</li>
+<li>chatgpt.com (1120)</li>
 <li>www.linkedin.com (1043)</li>
 <li>www.amazon.co.uk (959)</li>
 <li>login.microsoftonline.com (809)</li>
 <li>calendar.google.com (789)</li>
 <li>www.theguardian.com (685)</li>
 <li>moodle.royalholloway.ac.uk (661)</li>
-<li>rhul-my.sharepoint.com (628)</li>
+<li>rhul-my.sharepoint.com (631)</li>
 <li>tvtropes.org (604)</li>
-<li>gmail.com (576)</li>
+<li>gmail.com (577)</li>
 <li>github.com (519)</li>
-<li>web.whatsapp.com (516)</li>
-<li>chat.openai.com (478)</li>
+<li>web.whatsapp.com (517)</li>
+<li>chat.openai.com (479)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (473)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (406)</li>
@@ -105,6 +105,35 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 23/09/25</H3>
+
+<br>
+
+<ul><li> 09:38 web.whatsapp.com</li>
+<li> 09:37 chatgpt.com</li>
+<li> 09:37 chat.openai.com</li>
+<li> 09:37 www.theopenvoicefactory.org</li>
+<li> 09:33 www.instagram.com</li>
+<li class='same'> 09:32 www.instagram.com</li>
+<li class='same'> 09:31 www.instagram.com</li>
+<li> 09:31 mail.google.com</li>
+<li class='same'> 09:28 mail.google.com</li>
+<li> 09:28 www.instagram.com</li>
+<li> 09:28 mail.google.com</li>
+<li class='same'> 09:27 mail.google.com</li>
+<li> 09:27 gmail.com</li>
+<li> 09:27 duckduckgo.com</li>
+<li class='same'> 09:26 duckduckgo.com</li>
+<li> 09:26 equalitytime.co.uk</li>
+<li> 09:26 equalitytime.github.io</li>
+<li> 09:25 <a href="https://joereddington.com/2013/09/12/so-im-in-the-edition-of-new-scientist-that-came-out-today.html">So I’m in the edition of New Scientist that came out today | Joe Reddington</a></li>
+<li> 09:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 09:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:24 whitewaterwriters.com</li>
+<li> 09:23 rhul-my.sharepoint.com</li>
+<li class='same'> 09:22 rhul-my.sharepoint.com</li>
+<li> 09:22 fast.com</li>
+<li> 09:22 rhul-my.sharepoint.com</li>
+</ul>
 
 <br>
 
@@ -64932,8 +64961,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:39 docs.google.com</li>
 <li class='same'> 09:38 docs.google.com</li>
 <li class='same'> 09:17 docs.google.com</li>
+<li> 09:03 <a href="https://joereddington.com/2013/09/12/so-im-in-the-edition-of-new-scientist-that-came-out-today.html">So I’m in the edition of New Scientist that came out today | Joe Reddington</a></li>
 <li> 09:02 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
 <li> 09:02 docs.google.com</li>
+<li> 08:57 <a href="https://joereddington.com/2013/09/12/so-im-in-the-edition-of-new-scientist-that-came-out-today.html">So I’m in the edition of New Scientist that came out today | Joe Reddington</a></li>
 </ul>
 
 <H3>Monday, 19/08/24</H3>
@@ -66864,7 +66895,8 @@ With number of accesses/minutes in parentheses
 <li> 09:58 chatgpt.com</li>
 <li> 09:53 discord.com</li>
 <li> 09:28 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
-<li class='same'> 09:13 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 09:19 whitewaterwriters.com</li>
+<li> 09:13 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 </ul>
 
 <H3>Thursday, 20/06/24</H3>
