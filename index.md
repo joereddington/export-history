@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3729)</li>
-<li>mail.google.com (3716)</li>
-<li>www.reddit.com (3507)</li>
+<li>mail.google.com (3726)</li>
+<li>www.reddit.com (3510)</li>
 <li>outlook.office.com (3431)</li>
-<li>outlook.office365.com (2930)</li>
-<li>docs.google.com (2445)</li>
+<li>outlook.office365.com (2932)</li>
+<li>docs.google.com (2449)</li>
 <li>duckduckgo.com (1860)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1445)</li>
@@ -86,15 +86,15 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (659)</li>
 <li>rhul-my.sharepoint.com (631)</li>
 <li>tvtropes.org (604)</li>
-<li>gmail.com (577)</li>
+<li>gmail.com (578)</li>
 <li>github.com (519)</li>
-<li>web.whatsapp.com (517)</li>
+<li>web.whatsapp.com (518)</li>
 <li>chat.openai.com (479)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (473)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (474)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (406)</li>
 <li>drive.google.com (390)</li>
-<li>feedly.com (360)</li>
+<li>feedly.com (362)</li>
 <li>fritz.box (328)</li>
 <li>rhul.sharepoint.com (315)</li>
 <li>forum.artofmemory.com (296)</li>
@@ -105,6 +105,47 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 23/09/25</H3>
+
+<br>
+
+<ul><li> 13:56 feedly.com</li>
+<li> 13:56 www.giantitp.com</li>
+<li> 13:53 www.reddit.com</li>
+<li class='same'> 13:52 www.reddit.com</li>
+<li> 13:50 docs.google.com</li>
+<li> 13:48 mail.google.com</li>
+<li> 13:48 discord.com</li>
+<li> 13:48 online.unity.co.uk</li>
+<li> 13:40 mail.google.com</li>
+<li class='same'> 13:39 mail.google.com</li>
+<li> 13:38 online.unity.co.uk</li>
+<li class='same'> 13:36 online.unity.co.uk</li>
+<li> 13:36 web.whatsapp.com</li>
+<li> 13:31 mail.google.com</li>
+<li class='same'> 13:28 mail.google.com</li>
+<li class='same'> 13:25 mail.google.com</li>
+<li class='same'> 13:24 mail.google.com</li>
+<li> 13:23 discord.com</li>
+<li class='same'> 13:22 discord.com</li>
+<li class='same'> 13:21 discord.com</li>
+<li> 13:19 www.reddit.com</li>
+<li> 13:18 mail.google.com</li>
+<li class='same'> 13:17 mail.google.com</li>
+<li> 13:17 gmail.com</li>
+<li> 13:15 <a href="https://www.theguardian.com/uk-news/2025/sep/22/what-swayed-the-decision-for-second-gatwick-runway-and-what-does-it-mean-for-heathrow">What swayed the decision for second Gatwick runway and what does it mean for Heathrow? | Gatwick airport | The Guardian</a></li>
+<li> 13:14 <a href="https://www.theguardian.com/politics/2025/sep/23/what-does-boriswave-mean-nigel-farage-reform-uk-immigration">What does ‘Boriswave’ mean and what is its political significance? | Reform UK | The Guardian</a></li>
+<li> 13:13 feedly.com</li>
+<li> 13:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 12:33 outlook.office365.com</li>
+<li> 12:08 docs.google.com</li>
+<li class='same'> 12:03 docs.google.com</li>
+<li class='same'> 12:02 docs.google.com</li>
+<li> 11:59 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -67392,7 +67433,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:29 calendar.google.com</li>
 <li class='same'> 17:28 calendar.google.com</li>
-<li> 17:20 mail.google.com</li>
+<li> 17:21 mail.google.com</li>
+<li class='same'> 17:20 mail.google.com</li>
 <li> 17:10 www.paypal.com</li>
 </ul>
 
