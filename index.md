@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (3729)</li>
 <li>mail.google.com (3726)</li>
-<li>www.reddit.com (3510)</li>
+<li>www.reddit.com (3512)</li>
 <li>outlook.office.com (3431)</li>
-<li>outlook.office365.com (2932)</li>
+<li>outlook.office365.com (2940)</li>
 <li>docs.google.com (2449)</li>
 <li>duckduckgo.com (1860)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1445)</li>
-<li>chatgpt.com (1122)</li>
+<li>chatgpt.com (1123)</li>
 <li>www.linkedin.com (1043)</li>
 <li>www.amazon.co.uk (959)</li>
 <li>login.microsoftonline.com (805)</li>
-<li>calendar.google.com (790)</li>
+<li>calendar.google.com (791)</li>
 <li>www.theguardian.com (685)</li>
 <li>moodle.royalholloway.ac.uk (659)</li>
 <li>rhul-my.sharepoint.com (632)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (578)</li>
 <li>github.com (519)</li>
 <li>web.whatsapp.com (518)</li>
-<li>chat.openai.com (480)</li>
+<li>chat.openai.com (481)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (474)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (406)</li>
@@ -104,7 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 24/09/25</H3>
+
+<br>
+
+<ul><li> 07:24 192.168.178.81:8008</li>
+<li> 07:22 outlook.office365.com</li>
+<li> 07:21 chatgpt.com</li>
+<li> 07:21 chat.openai.com</li>
+<li> 07:19 outlook.office365.com</li>
+<li> 07:19 www.reddit.com</li>
+<li> 07:19 outlook.office365.com</li>
+<li class='same'> 07:18 outlook.office365.com</li>
+<li class='same'> 07:16 outlook.office365.com</li>
+<li class='same'> 07:15 outlook.office365.com</li>
+<li class='same'> 07:12 outlook.office365.com</li>
+<li class='same'> 07:11 outlook.office365.com</li>
+<li> 07:10 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 05:58 calendar.google.com</li>
+</ul>
+
 <H3>Tuesday, 23/09/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
