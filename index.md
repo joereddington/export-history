@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (3673)</li>
 <li>outlook.office.com (3446)</li>
 <li>outlook.office365.com (3080)</li>
-<li>docs.google.com (2478)</li>
+<li>docs.google.com (2481)</li>
 <li>duckduckgo.com (1895)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1446)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:16 <a href="https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears"></a></li>
+<ul><li> 07:35 docs.google.com</li>
+<li class='same'> 07:34 docs.google.com</li>
+<li class='same'> 07:27 docs.google.com</li>
+<li> 07:16 <a href="https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears">South Korea raises cyber threat level after huge data centre fire sparks hacking fears | South Korea | The Guardian</a></li>
 <li> 07:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:01 theopenvoicefactory.org</li>
 <li> 07:01 www.amazon.co.uk</li>
