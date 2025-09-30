@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (3775)</li>
+<ol><li>mail.google.com (3776)</li>
 <li>www.google.com (3736)</li>
-<li>www.reddit.com (3701)</li>
+<li>www.reddit.com (3705)</li>
 <li>outlook.office.com (3446)</li>
-<li>outlook.office365.com (3090)</li>
+<li>outlook.office365.com (3101)</li>
 <li>docs.google.com (2484)</li>
 <li>duckduckgo.com (1895)</li>
 <li>bsky.app (1581)</li>
@@ -82,11 +82,11 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (966)</li>
 <li>login.microsoftonline.com (812)</li>
 <li>calendar.google.com (805)</li>
-<li>moodle.royalholloway.ac.uk (692)</li>
+<li>moodle.royalholloway.ac.uk (695)</li>
 <li>www.theguardian.com (685)</li>
 <li>rhul-my.sharepoint.com (682)</li>
 <li>tvtropes.org (604)</li>
-<li>gmail.com (584)</li>
+<li>gmail.com (585)</li>
 <li>web.whatsapp.com (526)</li>
 <li>github.com (520)</li>
 <li>chat.openai.com (492)</li>
@@ -108,9 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:20 calendar.google.com</li>
+<ul><li> 12:38 outlook.office365.com</li>
+<li> 12:38 mail.google.com</li>
+<li> 12:38 gmail.com</li>
+<li> 12:36 outlook.office365.com</li>
+<li class='same'> 12:34 outlook.office365.com</li>
+<li class='same'> 12:33 outlook.office365.com</li>
+<li class='same'> 12:32 outlook.office365.com</li>
+<li class='same'> 12:29 outlook.office365.com</li>
+<li> 12:28 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:27 moodle.royalholloway.ac.uk</li>
+<li> 12:27 outlook.office365.com</li>
+<li class='same'> 12:26 outlook.office365.com</li>
+<li> 12:24 moodle.royalholloway.ac.uk</li>
+<li> 12:23 outlook.office365.com</li>
+<li class='same'> 12:22 outlook.office365.com</li>
+<li class='same'> 12:21 outlook.office365.com</li>
+<li> 12:20 calendar.google.com</li>
 <li class='same'> 12:19 calendar.google.com</li>
 <li> 12:15 qmucu.org</li>
+<li> 12:00 www.reddit.com</li>
+<li class='same'> 11:59 www.reddit.com</li>
+<li class='same'> 11:58 www.reddit.com</li>
+<li class='same'> 11:57 www.reddit.com</li>
 <li> 11:47 rhul-my.sharepoint.com</li>
 <li> 11:45 rhul.sharepoint.com</li>
 <li> 11:41 rhul-my.sharepoint.com</li>
