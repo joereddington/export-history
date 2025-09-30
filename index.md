@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (525)</li>
 <li>github.com (520)</li>
 <li>chat.openai.com (490)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (488)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (489)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (406)</li>
 <li>drive.google.com (393)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:01 www.amazon.co.uk</li>
+<ul><li> 07:16 <a href="https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears"></a></li>
+<li> 07:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:01 theopenvoicefactory.org</li>
+<li> 07:01 www.amazon.co.uk</li>
 <li> 07:01 www.whitewaterwriters.com</li>
 <li class='same'> 07:00 www.whitewaterwriters.com</li>
 <li> 07:00 raw.githubusercontent.com</li>
