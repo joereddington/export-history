@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (3776)</li>
 <li>www.google.com (3736)</li>
-<li>www.reddit.com (3717)</li>
+<li>www.reddit.com (3721)</li>
 <li>outlook.office.com (3446)</li>
 <li>outlook.office365.com (3110)</li>
 <li>docs.google.com (2485)</li>
@@ -108,13 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:35 chatgpt.com</li>
+<ul><li> 15:03 www.reddit.com</li>
+<li> 14:47 fast.com</li>
+<li> 14:42 iterm2.com</li>
+<li> 14:35 chatgpt.com</li>
 <li> 14:35 chat.openai.com</li>
 <li> 14:34 chatgpt.com</li>
 <li> 14:34 chat.openai.com</li>
 <li> 14:31 fast.com</li>
 <li> 14:31 outlook.office365.com</li>
-<li class='same'> 14:02 outlook.office365.com</li>
+<li> 14:29 www.reddit.com</li>
+<li> 14:02 outlook.office365.com</li>
 <li> 13:57 chatgpt.com</li>
 <li> 13:57 chat.openai.com</li>
 <li> 13:50 docs.google.com</li>
@@ -126,6 +130,8 @@ With number of accesses/minutes in parentheses
 <li> 13:44 fast.com</li>
 <li class='same'> 13:35 fast.com</li>
 <li> 13:34 www.reddit.com</li>
+<li class='same'> 13:33 www.reddit.com</li>
+<li class='same'> 13:32 www.reddit.com</li>
 <li class='same'> 13:31 www.reddit.com</li>
 <li> 13:28 outlook.office365.com</li>
 <li> 13:28 www.reddit.com</li>
