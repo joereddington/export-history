@@ -80,23 +80,23 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1142)</li>
 <li>www.linkedin.com (1070)</li>
 <li>www.amazon.co.uk (966)</li>
-<li>login.microsoftonline.com (811)</li>
+<li>login.microsoftonline.com (812)</li>
 <li>calendar.google.com (803)</li>
 <li>moodle.royalholloway.ac.uk (692)</li>
 <li>www.theguardian.com (685)</li>
-<li>rhul-my.sharepoint.com (680)</li>
+<li>rhul-my.sharepoint.com (682)</li>
 <li>tvtropes.org (604)</li>
 <li>gmail.com (584)</li>
 <li>web.whatsapp.com (526)</li>
 <li>github.com (520)</li>
 <li>chat.openai.com (492)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (489)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (490)</li>
 <li>herts.instructure.com (452)</li>
-<li>forms.office.com (411)</li>
+<li>forms.office.com (414)</li>
 <li>drive.google.com (393)</li>
-<li>feedly.com (373)</li>
+<li>feedly.com (374)</li>
 <li>fritz.box (328)</li>
-<li>rhul.sharepoint.com (317)</li>
+<li>rhul.sharepoint.com (318)</li>
 <li>forum.artofmemory.com (296)</li>
 
 
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 30/09/25</H3>
+
+<br>
+
+<ul><li> 11:47 rhul-my.sharepoint.com</li>
+<li> 11:45 rhul.sharepoint.com</li>
+<li> 11:41 rhul-my.sharepoint.com</li>
+<li> 11:41 forms.office.com</li>
+<li class='same'> 11:40 forms.office.com</li>
+<li> 11:40 login.microsoftonline.com</li>
+<li> 11:40 forms.office.com</li>
+<li> 11:37 feedly.com</li>
+<li> 11:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:36 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:35 career-advice.jobs.ac.uk</li>
+</ul>
 
 <br>
 
