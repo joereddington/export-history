@@ -69,28 +69,28 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (3776)</li>
-<li>www.google.com (3736)</li>
-<li>www.reddit.com (3723)</li>
+<li>www.google.com (3737)</li>
+<li>www.reddit.com (3732)</li>
 <li>outlook.office.com (3446)</li>
-<li>outlook.office365.com (3110)</li>
-<li>docs.google.com (2485)</li>
+<li>outlook.office365.com (3120)</li>
+<li>docs.google.com (2488)</li>
 <li>duckduckgo.com (1898)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1446)</li>
 <li>chatgpt.com (1145)</li>
 <li>www.linkedin.com (1070)</li>
 <li>www.amazon.co.uk (966)</li>
-<li>calendar.google.com (813)</li>
+<li>calendar.google.com (814)</li>
 <li>login.microsoftonline.com (812)</li>
 <li>moodle.royalholloway.ac.uk (695)</li>
 <li>www.theguardian.com (685)</li>
-<li>rhul-my.sharepoint.com (682)</li>
+<li>rhul-my.sharepoint.com (683)</li>
 <li>tvtropes.org (604)</li>
 <li>gmail.com (585)</li>
-<li>web.whatsapp.com (527)</li>
+<li>web.whatsapp.com (528)</li>
 <li>github.com (520)</li>
 <li>chat.openai.com (495)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (490)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (491)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (414)</li>
 <li>drive.google.com (393)</li>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:01 www.reddit.com</li>
+<ul><li> 18:27 www.reddit.com</li>
+<li class='same'> 18:24 www.reddit.com</li>
+<li> 18:24 outlook.office365.com</li>
+<li class='same'> 18:23 outlook.office365.com</li>
+<li> 18:23 docs.google.com</li>
+<li class='same'> 18:22 docs.google.com</li>
+<li class='same'> 18:21 docs.google.com</li>
+<li> 18:21 outlook.office365.com</li>
+<li class='same'> 18:20 outlook.office365.com</li>
+<li class='same'> 18:10 outlook.office365.com</li>
+<li> 18:09 <a href="https://www.theguardian.com/culture/2025/sep/30/riyadh-comedy-festival-saudi-arabia">US comedians defend decision to play in Saudi Arabia: ‘They’re paying me enough to look the other way’ | Comedy | The Guardian</a></li>
+<li> 18:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:08 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:08 web.whatsapp.com</li>
+<li> 18:08 outlook.office365.com</li>
+<li class='same'> 18:07 outlook.office365.com</li>
+<li> 18:07 rhul-my.sharepoint.com</li>
+<li> 18:06 outlook.office365.com</li>
+<li> 18:05 calendar.google.com</li>
+<li> 18:05 outlook.office365.com</li>
+<li class='same'> 18:04 outlook.office365.com</li>
+<li> 18:01 www.reddit.com</li>
+<li class='same'> 17:52 www.reddit.com</li>
+<li class='same'> 17:51 www.reddit.com</li>
+<li class='same'> 17:50 www.reddit.com</li>
+<li class='same'> 17:49 www.reddit.com</li>
+<li class='same'> 17:48 www.reddit.com</li>
+<li> 17:48 www.cyberuk.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:16 www.cyberuk.uk</li>
+<li class='same'> 16:14 www.cyberuk.uk</li>
+<li> 16:13 www.google.com</li>
+<li> 16:12 www.reddit.com</li>
+<li class='same'> 16:01 www.reddit.com</li>
 <li> 16:00 techcrunch.com</li>
 <li> 15:59 <a href="https://en.wikipedia.org/wiki/Binance">Binance - Wikipedia</a></li>
 <li> 15:59 duckduckgo.com</li>
