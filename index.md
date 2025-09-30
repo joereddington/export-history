@@ -70,11 +70,11 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (3776)</li>
 <li>www.google.com (3736)</li>
-<li>www.reddit.com (3721)</li>
+<li>www.reddit.com (3723)</li>
 <li>outlook.office.com (3446)</li>
 <li>outlook.office365.com (3110)</li>
 <li>docs.google.com (2485)</li>
-<li>duckduckgo.com (1897)</li>
+<li>duckduckgo.com (1898)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1446)</li>
 <li>chatgpt.com (1145)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:03 www.reddit.com</li>
+<ul><li> 16:01 www.reddit.com</li>
+<li> 16:00 techcrunch.com</li>
+<li> 15:59 <a href="https://en.wikipedia.org/wiki/Binance">Binance - Wikipedia</a></li>
+<li> 15:59 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:04 www.reddit.com</li>
+<li class='same'> 15:03 www.reddit.com</li>
 <li> 14:47 fast.com</li>
 <li> 14:42 iterm2.com</li>
 <li> 14:35 chatgpt.com</li>
