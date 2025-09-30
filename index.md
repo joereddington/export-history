@@ -70,29 +70,29 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (3775)</li>
 <li>www.google.com (3736)</li>
-<li>www.reddit.com (3690)</li>
+<li>www.reddit.com (3701)</li>
 <li>outlook.office.com (3446)</li>
-<li>outlook.office365.com (3080)</li>
+<li>outlook.office365.com (3090)</li>
 <li>docs.google.com (2484)</li>
 <li>duckduckgo.com (1895)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1446)</li>
-<li>chatgpt.com (1140)</li>
+<li>chatgpt.com (1142)</li>
 <li>www.linkedin.com (1070)</li>
 <li>www.amazon.co.uk (966)</li>
-<li>login.microsoftonline.com (807)</li>
+<li>login.microsoftonline.com (811)</li>
 <li>calendar.google.com (803)</li>
-<li>moodle.royalholloway.ac.uk (690)</li>
+<li>moodle.royalholloway.ac.uk (692)</li>
 <li>www.theguardian.com (685)</li>
-<li>rhul-my.sharepoint.com (673)</li>
+<li>rhul-my.sharepoint.com (680)</li>
 <li>tvtropes.org (604)</li>
 <li>gmail.com (584)</li>
-<li>web.whatsapp.com (525)</li>
+<li>web.whatsapp.com (526)</li>
 <li>github.com (520)</li>
-<li>chat.openai.com (490)</li>
+<li>chat.openai.com (492)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (489)</li>
 <li>herts.instructure.com (452)</li>
-<li>forms.office.com (406)</li>
+<li>forms.office.com (411)</li>
 <li>drive.google.com (393)</li>
 <li>feedly.com (373)</li>
 <li>fritz.box (328)</li>
@@ -108,8 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:47 calendar.google.com</li>
-<li> 08:27 www.reddit.com</li>
+<ul><li> 10:38 web.whatsapp.com</li>
+<li> 10:16 rhul-my.sharepoint.com</li>
+<li class='same'> 10:09 rhul-my.sharepoint.com</li>
+<li> 10:09 forms.office.com</li>
+<li> 10:08 rhul-my.sharepoint.com</li>
+<li class='same'> 10:07 rhul-my.sharepoint.com</li>
+<li class='same'> 10:05 rhul-my.sharepoint.com</li>
+<li> 10:05 forms.office.com</li>
+<li class='same'> 10:04 forms.office.com</li>
+<li> 10:04 login.microsoftonline.com</li>
+<li> 10:04 forms.office.com</li>
+<li> 10:03 outlook.office365.com</li>
+<li class='same'> 10:02 outlook.office365.com</li>
+<li class='same'> 09:56 outlook.office365.com</li>
+<li> 09:56 www.microsoft.com</li>
+<li> 09:56 forms.office.com</li>
+<li> 09:52 www.reddit.com</li>
+<li> 09:51 chatgpt.com</li>
+<li> 09:51 chat.openai.com</li>
+<li> 09:46 rhul-my.sharepoint.com</li>
+<li class='same'> 09:45 rhul-my.sharepoint.com</li>
+<li> 09:44 moodle.royalholloway.ac.uk</li>
+<li> 09:44 login.microsoftonline.com</li>
+<li> 09:44 moodle.royalholloway.ac.uk</li>
+<li> 09:44 www.onlinebanking.natwest.com</li>
+<li class='same'> 09:43 www.onlinebanking.natwest.com</li>
+<li class='same'> 09:42 www.onlinebanking.natwest.com</li>
+<li class='same'> 09:41 www.onlinebanking.natwest.com</li>
+<li class='same'> 09:40 www.onlinebanking.natwest.com</li>
+<li class='same'> 09:39 www.onlinebanking.natwest.com</li>
+<li> 09:39 www.natwest.com</li>
+<li> 09:39 natwest.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:58 www.printables.com</li>
+<li class='same'> 08:57 www.printables.com</li>
+<li> 08:48 outlook.office365.com</li>
+<li> 08:47 calendar.google.com</li>
+<li> 08:43 www.reddit.com</li>
+<li class='same'> 08:41 www.reddit.com</li>
+<li class='same'> 08:40 www.reddit.com</li>
+<li class='same'> 08:39 www.reddit.com</li>
+<li class='same'> 08:38 www.reddit.com</li>
+<li class='same'> 08:34 www.reddit.com</li>
+<li class='same'> 08:33 www.reddit.com</li>
+<li class='same'> 08:27 www.reddit.com</li>
 <li class='same'> 08:26 www.reddit.com</li>
 <li class='same'> 08:22 www.reddit.com</li>
 <li class='same'> 08:21 www.reddit.com</li>
@@ -132,7 +178,22 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:27 docs.google.com</li>
 <li> 07:16 <a href="https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears">South Korea raises cyber threat level after huge data centre fire sparks hacking fears | South Korea | The Guardian</a></li>
 <li> 07:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:06 www.reddit.com</li>
+<li class='same'> 07:05 www.reddit.com</li>
+<li> 07:04 kdpreports.amazon.com</li>
+<li> 07:04 kdp.amazon.com</li>
+<li> 07:04 chatgpt.com</li>
+<li> 07:04 chat.openai.com</li>
+<li> 07:04 www.reddit.com</li>
+<li> 07:03 outlook.office365.com</li>
+<li class='same'> 07:02 outlook.office365.com</li>
+<li> 07:02 login.microsoftonline.com</li>
+<li> 07:02 outlook.office365.com</li>
+<li class='same'> 07:01 outlook.office365.com</li>
 <li> 07:01 theopenvoicefactory.org</li>
+<li> 07:01 outlook.office365.com</li>
+<li> 07:01 login.microsoftonline.com</li>
+<li> 07:01 outlook.office365.com</li>
 <li> 07:01 www.amazon.co.uk</li>
 <li> 07:01 www.whitewaterwriters.com</li>
 <li class='same'> 07:00 www.whitewaterwriters.com</li>
@@ -63982,6 +64043,7 @@ With number of accesses/minutes in parentheses
 <li> 16:13 docs.google.com</li>
 <li> 16:11 www.onlinebanking.natwest.com</li>
 <li> 16:11 www.natwest.com</li>
+<li> 16:11 natwest.com</li>
 <li> 16:09 search.google.com</li>
 </ul>
 
@@ -67691,6 +67753,7 @@ With number of accesses/minutes in parentheses
 <li> 14:16 www.natwest.com</li>
 <li> 14:09 www.onlinebanking.natwest.com</li>
 <li> 14:05 www.natwest.com</li>
+<li> 14:05 natwest.com</li>
 <li> 14:04 docs.google.com</li>
 <li> 13:45 www.google.com</li>
 <li> 13:40 outlook.office.com</li>
@@ -69115,6 +69178,7 @@ With number of accesses/minutes in parentheses
 <li> 13:21 www.unity-online.co.uk</li>
 <li> 13:19 www.onlinebanking.natwest.com</li>
 <li> 13:19 www.natwest.com</li>
+<li> 13:19 natwest.com</li>
 <li> 13:18 docs.google.com</li>
 </ul>
 
@@ -69350,6 +69414,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:55 www.natwest.com</li>
+<li> 12:55 natwest.com</li>
 <li> 12:44 www.google.com</li>
 <li> 12:38 mail.google.com</li>
 <li> 12:19 www.dropbox.com</li>
