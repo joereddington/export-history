@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3736)</li>
 <li>www.reddit.com (3717)</li>
 <li>outlook.office.com (3446)</li>
-<li>outlook.office365.com (3107)</li>
-<li>docs.google.com (2484)</li>
+<li>outlook.office365.com (3110)</li>
+<li>docs.google.com (2485)</li>
 <li>duckduckgo.com (1897)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1446)</li>
-<li>chatgpt.com (1142)</li>
+<li>chatgpt.com (1145)</li>
 <li>www.linkedin.com (1070)</li>
 <li>www.amazon.co.uk (966)</li>
 <li>calendar.google.com (813)</li>
@@ -89,12 +89,12 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (585)</li>
 <li>web.whatsapp.com (527)</li>
 <li>github.com (520)</li>
-<li>chat.openai.com (492)</li>
+<li>chat.openai.com (495)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (490)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (414)</li>
 <li>drive.google.com (393)</li>
-<li>feedly.com (374)</li>
+<li>feedly.com (376)</li>
 <li>fritz.box (328)</li>
 <li>rhul.sharepoint.com (318)</li>
 <li>forum.artofmemory.com (296)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:45 web.whatsapp.com</li>
+<ul><li> 14:35 chatgpt.com</li>
+<li> 14:35 chat.openai.com</li>
+<li> 14:34 chatgpt.com</li>
+<li> 14:34 chat.openai.com</li>
+<li> 14:31 fast.com</li>
+<li> 14:31 outlook.office365.com</li>
+<li class='same'> 14:02 outlook.office365.com</li>
+<li> 13:57 chatgpt.com</li>
+<li> 13:57 chat.openai.com</li>
+<li> 13:50 docs.google.com</li>
+<li> 13:50 www.giantitp.com</li>
+<li> 13:49 outlook.office365.com</li>
+<li> 13:47 feedly.com</li>
+<li class='same'> 13:46 feedly.com</li>
+<li> 13:45 web.whatsapp.com</li>
 <li> 13:44 fast.com</li>
 <li class='same'> 13:35 fast.com</li>
 <li> 13:34 www.reddit.com</li>
