@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (3775)</li>
 <li>www.google.com (3736)</li>
-<li>www.reddit.com (3673)</li>
+<li>www.reddit.com (3690)</li>
 <li>outlook.office.com (3446)</li>
 <li>outlook.office365.com (3080)</li>
-<li>docs.google.com (2481)</li>
+<li>docs.google.com (2484)</li>
 <li>duckduckgo.com (1895)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1446)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:35 docs.google.com</li>
+<ul><li> 08:27 www.reddit.com</li>
+<li class='same'> 08:26 www.reddit.com</li>
+<li class='same'> 08:22 www.reddit.com</li>
+<li class='same'> 08:21 www.reddit.com</li>
+<li class='same'> 08:20 www.reddit.com</li>
+<li class='same'> 08:19 www.reddit.com</li>
+<li class='same'> 08:18 www.reddit.com</li>
+<li class='same'> 08:13 www.reddit.com</li>
+<li class='same'> 07:55 www.reddit.com</li>
+<li class='same'> 07:54 www.reddit.com</li>
+<li class='same'> 07:53 www.reddit.com</li>
+<li class='same'> 07:52 www.reddit.com</li>
+<li class='same'> 07:51 www.reddit.com</li>
+<li class='same'> 07:46 www.reddit.com</li>
+<li class='same'> 07:45 www.reddit.com</li>
+<li> 07:39 docs.google.com</li>
+<li class='same'> 07:38 docs.google.com</li>
+<li class='same'> 07:36 docs.google.com</li>
+<li class='same'> 07:35 docs.google.com</li>
 <li class='same'> 07:34 docs.google.com</li>
 <li class='same'> 07:27 docs.google.com</li>
 <li> 07:16 <a href="https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears">South Korea raises cyber threat level after huge data centre fire sparks hacking fears | South Korea | The Guardian</a></li>
@@ -161,7 +179,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:41 www.reddit.com</li>
+<ul><li> 19:47 www.reddit.com</li>
+<li class='same'> 19:46 www.reddit.com</li>
+<li class='same'> 19:41 www.reddit.com</li>
 <li class='same'> 19:40 www.reddit.com</li>
 <li class='same'> 19:39 www.reddit.com</li>
 <li> 19:38 imgur.com</li>
@@ -75820,6 +75840,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:18 bsky.app</li>
 <li class='same'> 21:10 bsky.app</li>
 <li> 21:08 mail.google.com</li>
+<li> 21:03 docs.github.com</li>
 <li> 21:01 dash.cloudflare.com</li>
 <li> 20:59 github.com</li>
 </ul>
@@ -76575,6 +76596,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:42 equalitytime.github.io</li>
+<li> 11:42 theopenvoicefactory.org</li>
 </ul>
 
 <br>
@@ -77110,6 +77132,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:51 search.google.com</li>
+<li> 12:49 docs.github.com</li>
 <li> 12:49 dash.cloudflare.com</li>
 <li class='same'> 12:48 dash.cloudflare.com</li>
 <li> 12:48 mail.google.com</li>
@@ -79410,7 +79433,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:54 www.projectreal.co.uk</li>
 <li> 10:52 panel.dreamhost.com</li>
 <li> 10:52 www.projectreal.co.uk</li>
-<li class='same'> 10:46 www.projectreal.co.uk</li>
+<li> 10:47 docs.github.com</li>
+<li> 10:46 www.projectreal.co.uk</li>
 <li> 10:44 www.qiq.support</li>
 </ul>
 
@@ -81199,6 +81223,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:08 <a href="https://en.wikipedia.org/wiki/Milo_Yiannopoulos">Milo Yiannopoulos - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 15:18 docs.github.com</li>
 </ul>
 
 <br>
