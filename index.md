@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (3776)</li>
-<li>www.google.com (3737)</li>
-<li>www.reddit.com (3732)</li>
+<li>www.google.com (3735)</li>
+<li>www.reddit.com (3733)</li>
 <li>outlook.office.com (3446)</li>
-<li>outlook.office365.com (3120)</li>
+<li>outlook.office365.com (3119)</li>
 <li>docs.google.com (2488)</li>
 <li>duckduckgo.com (1898)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1446)</li>
-<li>chatgpt.com (1145)</li>
+<li>chatgpt.com (1146)</li>
 <li>www.linkedin.com (1070)</li>
 <li>www.amazon.co.uk (966)</li>
-<li>calendar.google.com (814)</li>
-<li>login.microsoftonline.com (812)</li>
+<li>calendar.google.com (815)</li>
+<li>login.microsoftonline.com (811)</li>
 <li>moodle.royalholloway.ac.uk (695)</li>
 <li>www.theguardian.com (685)</li>
 <li>rhul-my.sharepoint.com (683)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (585)</li>
 <li>web.whatsapp.com (528)</li>
 <li>github.com (520)</li>
-<li>chat.openai.com (495)</li>
+<li>chat.openai.com (496)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (491)</li>
 <li>herts.instructure.com (452)</li>
 <li>forms.office.com (414)</li>
@@ -104,11 +104,25 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 01/10/25</H3>
+
+<br>
+
+<ul><li> 00:02 calendar.google.com</li>
+</ul>
+
 <H3>Tuesday, 30/09/25</H3>
 
 <br>
 
-<ul><li> 18:27 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 18:32 chatgpt.com</li>
+<li> 18:32 chat.openai.com</li>
+<li> 18:31 www.reddit.com</li>
+<li class='same'> 18:27 www.reddit.com</li>
 <li class='same'> 18:24 www.reddit.com</li>
 <li> 18:24 outlook.office365.com</li>
 <li class='same'> 18:23 outlook.office365.com</li>
@@ -17570,8 +17584,6 @@ With number of accesses/minutes in parentheses
 <li> 11:37 web.whatsapp.com</li>
 <li> 11:36 mail.google.com</li>
 <li> 11:36 gmail.com</li>
-<li> 11:34 cc.amazon.com</li>
-<li class='same'> 11:33 cc.amazon.com</li>
 <li> 11:30 kdp.amazon.com</li>
 <li class='same'> 11:29 kdp.amazon.com</li>
 <li> 11:28 rhul-my.sharepoint.com</li>
@@ -17748,8 +17760,6 @@ With number of accesses/minutes in parentheses
 <li> 06:20 outlook.office365.com</li>
 <li class='same'> 06:19 outlook.office365.com</li>
 <li class='same'> 06:18 outlook.office365.com</li>
-<li> 06:18 login.microsoftonline.com</li>
-<li> 06:18 outlook.office365.com</li>
 </ul>
 
 <H3>Tuesday, 24/06/25</H3>
@@ -17842,8 +17852,7 @@ With number of accesses/minutes in parentheses
 <li> 14:59 outlook.office.com</li>
 <li class='same'> 14:58 outlook.office.com</li>
 <li class='same'> 14:57 outlook.office.com</li>
-<li> 14:54 herts365-my.sharepoint.com</li>
-<li> 14:54 outlook.office.com</li>
+<li class='same'> 14:54 outlook.office.com</li>
 <li class='same'> 14:53 outlook.office.com</li>
 <li> 14:50 <a href="https://www.theguardian.com/world/2025/jun/24/israel-us-and-iran-all-claim-to-have-won-the-war-but-who-has-really-gained">Israel, US and Iran all claim to have won the war, but who has really gained? | Iran | The Guardian</a></li>
 <li> 14:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -17931,7 +17940,6 @@ With number of accesses/minutes in parentheses
 <li> 12:49 mail.google.com</li>
 <li class='same'> 12:48 mail.google.com</li>
 <li> 12:48 accounts.google.com</li>
-<li class='same'> 12:47 accounts.google.com</li>
 <li> 12:47 mail.google.com</li>
 <li> 12:46 www.ebay.co.uk</li>
 <li> 12:46 mail.google.com</li>
@@ -17947,8 +17955,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:35 www.google.com</li>
 <li> 12:35 www.google.co.uk</li>
 <li> 12:35 duckduckgo.com</li>
-<li> 12:35 www.alamy.com</li>
-<li class='same'> 12:34 www.alamy.com</li>
+<li> 12:34 www.alamy.com</li>
 <li> 12:34 duckduckgo.com</li>
 <li> 12:31 www.linkedin.com</li>
 <li class='same'> 12:30 www.linkedin.com</li>
@@ -18077,8 +18084,7 @@ With number of accesses/minutes in parentheses
 <li> 21:30 www.google.com</li>
 <li class='same'> 21:29 www.google.com</li>
 <li> 21:10 x.com</li>
-<li> 21:10 www.google.com</li>
-<li class='same'> 21:09 www.google.com</li>
+<li> 21:09 www.google.com</li>
 <li> 21:09 www.manchestereveningnews.co.uk</li>
 <li> 21:09 duckduckgo.com</li>
 <li> 21:04 www.reddit.com</li>
@@ -18165,8 +18171,7 @@ With number of accesses/minutes in parentheses
 <li> 14:05 portal.gobright.cloud</li>
 <li> 14:04 mail.google.com</li>
 <li> 14:03 outlook.office.com</li>
-<li> 13:52 www.google.com</li>
-<li class='same'> 13:51 www.google.com</li>
+<li> 13:51 www.google.com</li>
 <li> 13:50 mail.google.com</li>
 <li class='same'> 13:49 mail.google.com</li>
 <li class='same'> 13:48 mail.google.com</li>
@@ -18226,8 +18231,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:56 outlook.office.com</li>
 <li> 12:44 herts365-my.sharepoint.com</li>
 <li> 12:43 outlook.office.com</li>
-<li> 12:32 herts365-my.sharepoint.com</li>
-<li> 12:31 outlook.office.com</li>
+<li class='same'> 12:31 outlook.office.com</li>
 <li class='same'> 12:30 outlook.office.com</li>
 <li> 12:30 mail.google.com</li>
 <li class='same'> 12:29 mail.google.com</li>
