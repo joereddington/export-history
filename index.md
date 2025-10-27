@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">Zelenskyy calls Trump’s proposal to freeze war at current frontlines ‘good compromise’ | Ukraine | The Guardian</a> (510)</li>
 <li>herts.instructure.com (508)</li>
 <li>forms.office.com (475)</li>
-<li>feedly.com (426)</li>
+<li>feedly.com (427)</li>
 <li>drive.google.com (418)</li>
 <li>fritz.box (337)</li>
 <li>rhul.sharepoint.com (330)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 27/10/25</H3>
+
+<br>
+
+<ul><li> 16:25 feedly.com</li>
+</ul>
 
 <br>
 
