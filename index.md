@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (3956)</li>
+<ol><li>mail.google.com (3962)</li>
 <li>www.reddit.com (3946)</li>
 <li>www.google.com (3843)</li>
-<li>outlook.office.com (3724)</li>
-<li>outlook.office365.com (3527)</li>
-<li>docs.google.com (2553)</li>
-<li>duckduckgo.com (2129)</li>
+<li>outlook.office.com (3726)</li>
+<li>outlook.office365.com (3536)</li>
+<li>docs.google.com (2555)</li>
+<li>duckduckgo.com (2131)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1448)</li>
-<li>chatgpt.com (1221)</li>
-<li>www.linkedin.com (1149)</li>
+<li>chatgpt.com (1223)</li>
+<li>www.linkedin.com (1154)</li>
 <li>www.amazon.co.uk (988)</li>
-<li>login.microsoftonline.com (982)</li>
+<li>login.microsoftonline.com (983)</li>
 <li>calendar.google.com (927)</li>
 <li>moodle.royalholloway.ac.uk (804)</li>
 <li>rhul-my.sharepoint.com (782)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (621)</li>
 <li>gmail.com (605)</li>
-<li>web.whatsapp.com (548)</li>
+<li>web.whatsapp.com (549)</li>
 <li>github.com (529)</li>
-<li>chat.openai.com (518)</li>
+<li>chat.openai.com (519)</li>
 <li><a href="https://www.theguardian.com/uk">Zelenskyy calls Trump’s proposal to freeze war at current frontlines ‘good compromise’ | Ukraine | The Guardian</a> (510)</li>
 <li>herts.instructure.com (500)</li>
-<li>forms.office.com (472)</li>
+<li>forms.office.com (475)</li>
 <li>feedly.com (422)</li>
-<li>drive.google.com (415)</li>
+<li>drive.google.com (417)</li>
 <li>fritz.box (337)</li>
 <li>rhul.sharepoint.com (330)</li>
 <li><a href="https://www.theguardian.com/">Taylor Swift’s Charli xcx hit job misses the point – and underscores her tedious obsession with conflict | Taylor Swift | The Guardian</a> (314)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:00 feedly.com</li>
+<ul><li> 11:14 drive.google.com</li>
+<li> 11:13 outlook.office.com</li>
+<li> 11:13 drive.google.com</li>
+<li> 11:13 outlook.office.com</li>
+<li> 11:13 outlook.office365.com</li>
+<li> 11:12 www.royalholloway.ac.uk</li>
+<li> 11:12 duckduckgo.com</li>
+<li> 11:09 outlook.office365.com</li>
+<li> 11:07 mail.google.com</li>
+<li> 11:06 docs.google.com</li>
+<li class='same'> 11:00 docs.google.com</li>
+<li> 10:59 chatgpt.com</li>
+<li> 10:59 chat.openai.com</li>
+<li> 10:59 www.linkedin.com</li>
+<li> 10:59 mail.google.com</li>
+<li> 10:58 web.whatsapp.com</li>
+<li> 10:58 mail.google.com</li>
+<li> 10:56 www.linkedin.com</li>
+<li class='same'> 10:55 www.linkedin.com</li>
+<li> 10:55 duckduckgo.com</li>
+<li> 10:54 chatgpt.com</li>
+<li> 10:47 forms.office.com</li>
+<li> 10:47 login.microsoftonline.com</li>
+<li> 10:47 forms.office.com</li>
+<li> 10:47 mail.google.com</li>
+<li class='same'> 10:46 mail.google.com</li>
+<li> 10:46 outlook.office365.com</li>
+<li class='same'> 10:45 outlook.office365.com</li>
+<li> 10:45 mail.google.com</li>
+<li> 10:45 www.microsoft.com</li>
+<li> 10:45 forms.office.com</li>
+<li> 10:40 outlook.office365.com</li>
+<li class='same'> 10:39 outlook.office365.com</li>
+<li class='same'> 10:38 outlook.office365.com</li>
+<li class='same'> 10:37 outlook.office365.com</li>
+<li> 10:30 www.linkedin.com</li>
+<li class='same'> 10:29 www.linkedin.com</li>
+<li> 10:24 outlook.office365.com</li>
+<li> 10:00 feedly.com</li>
 <li> 10:00 <a href="https://www.theguardian.com/world/2024/sep/17/french-cement-company-lafarge-paid-millions-to-islamic-state-syria?utm_source=chatgpt.com"></a></li>
 <li> 10:00 feedly.com</li>
 <li> 09:58 www.csmonitor.com</li>
