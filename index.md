@@ -72,15 +72,15 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (3946)</li>
 <li>www.google.com (3850)</li>
 <li>outlook.office.com (3735)</li>
-<li>outlook.office365.com (3539)</li>
-<li>docs.google.com (2556)</li>
+<li>outlook.office365.com (3543)</li>
+<li>docs.google.com (2566)</li>
 <li>duckduckgo.com (2135)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1448)</li>
-<li>chatgpt.com (1225)</li>
-<li>www.linkedin.com (1158)</li>
+<li>chatgpt.com (1228)</li>
+<li>www.linkedin.com (1159)</li>
 <li>www.amazon.co.uk (988)</li>
-<li>login.microsoftonline.com (983)</li>
+<li>login.microsoftonline.com (986)</li>
 <li>calendar.google.com (930)</li>
 <li>moodle.royalholloway.ac.uk (804)</li>
 <li>rhul-my.sharepoint.com (782)</li>
@@ -89,12 +89,12 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (605)</li>
 <li>web.whatsapp.com (549)</li>
 <li>github.com (529)</li>
-<li>chat.openai.com (521)</li>
+<li>chat.openai.com (523)</li>
 <li><a href="https://www.theguardian.com/uk">Zelenskyy calls Trump’s proposal to freeze war at current frontlines ‘good compromise’ | Ukraine | The Guardian</a> (510)</li>
 <li>herts.instructure.com (505)</li>
 <li>forms.office.com (475)</li>
 <li>feedly.com (426)</li>
-<li>drive.google.com (417)</li>
+<li>drive.google.com (418)</li>
 <li>fritz.box (337)</li>
 <li>rhul.sharepoint.com (330)</li>
 <li><a href="https://www.theguardian.com/">Taylor Swift’s Charli xcx hit job misses the point – and underscores her tedious obsession with conflict | Taylor Swift | The Guardian</a> (314)</li>
@@ -105,6 +105,39 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 27/10/25</H3>
+
+<br>
+
+<ul><li> 14:22 docs.google.com</li>
+<li class='same'> 14:21 docs.google.com</li>
+<li class='same'> 14:20 docs.google.com</li>
+<li> 14:19 chatgpt.com</li>
+<li> 14:19 docs.google.com</li>
+<li> 14:18 chatgpt.com</li>
+<li> 14:18 chat.openai.com</li>
+<li> 14:18 docs.google.com</li>
+<li> 14:17 chatgpt.com</li>
+<li> 14:17 chat.openai.com</li>
+<li> 14:17 docs.google.com</li>
+<li class='same'> 14:16 docs.google.com</li>
+<li class='same'> 14:15 docs.google.com</li>
+<li class='same'> 14:14 docs.google.com</li>
+<li> 14:14 ce0997li.webitrent.com</li>
+<li class='same'> 14:13 ce0997li.webitrent.com</li>
+<li> 14:13 docs.google.com</li>
+<li> 14:13 ce0997li.webitrent.com</li>
+<li> 14:13 login.microsoftonline.com</li>
+<li> 14:13 ce0997li.webitrent.com</li>
+<li> 14:13 drive.google.com</li>
+<li> 14:13 login.microsoftonline.com</li>
+<li> 14:13 www.hr.herts.ac.uk</li>
+<li> 14:13 outlook.office365.com</li>
+<li> 13:59 www.linkedin.com</li>
+<li> 13:56 outlook.office365.com</li>
+<li class='same'> 13:53 outlook.office365.com</li>
+<li> 13:53 login.microsoftonline.com</li>
+<li> 13:53 outlook.office365.com</li>
+</ul>
 
 <br>
 
