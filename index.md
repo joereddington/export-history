@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (3962)</li>
-<li>www.reddit.com (3946)</li>
+<li>www.reddit.com (3947)</li>
 <li>www.google.com (3850)</li>
 <li>outlook.office.com (3738)</li>
 <li>outlook.office365.com (3547)</li>
-<li>docs.google.com (2578)</li>
-<li>duckduckgo.com (2137)</li>
+<li>docs.google.com (2579)</li>
+<li>duckduckgo.com (2138)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1448)</li>
-<li>chatgpt.com (1230)</li>
-<li>www.linkedin.com (1161)</li>
-<li>login.microsoftonline.com (989)</li>
+<li>chatgpt.com (1233)</li>
+<li>www.linkedin.com (1162)</li>
+<li>login.microsoftonline.com (990)</li>
 <li>www.amazon.co.uk (988)</li>
 <li>calendar.google.com (933)</li>
 <li>moodle.royalholloway.ac.uk (804)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (621)</li>
 <li>gmail.com (605)</li>
-<li>web.whatsapp.com (549)</li>
+<li>web.whatsapp.com (550)</li>
 <li>github.com (529)</li>
-<li>chat.openai.com (524)</li>
+<li>chat.openai.com (525)</li>
 <li><a href="https://www.theguardian.com/uk">Zelenskyy calls Trump’s proposal to freeze war at current frontlines ‘good compromise’ | Ukraine | The Guardian</a> (510)</li>
 <li>herts.instructure.com (508)</li>
 <li>forms.office.com (475)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:20 ce0997li.webitrent.com</li>
+<ul><li> 15:54 docs.google.com</li>
+<li> 15:52 www.linkedin.com</li>
+<li> 15:38 chatgpt.com</li>
+<li class='same'> 15:30 chatgpt.com</li>
+<li class='same'> 15:29 chatgpt.com</li>
+<li> 15:29 chat.openai.com</li>
+<li> 15:29 support.microsoft.com</li>
+<li> 15:29 duckduckgo.com</li>
+<li> 15:25 web.whatsapp.com</li>
+<li> 15:22 login.microsoftonline.com</li>
+<li> 15:21 www.reddit.com</li>
+<li> 15:21 libbyapp.com</li>
+<li> 15:21 ce0997li.webitrent.com</li>
+<li class='same'> 15:20 ce0997li.webitrent.com</li>
 <li> 15:18 www.linkedin.com</li>
 <li> 15:18 ce0997li.webitrent.com</li>
 <li> 15:18 www.linkedin.com</li>
