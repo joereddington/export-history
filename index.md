@@ -71,17 +71,17 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (3962)</li>
 <li>www.reddit.com (3946)</li>
 <li>www.google.com (3850)</li>
-<li>outlook.office.com (3735)</li>
-<li>outlook.office365.com (3543)</li>
-<li>docs.google.com (2566)</li>
-<li>duckduckgo.com (2135)</li>
+<li>outlook.office.com (3738)</li>
+<li>outlook.office365.com (3547)</li>
+<li>docs.google.com (2578)</li>
+<li>duckduckgo.com (2137)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1448)</li>
-<li>chatgpt.com (1228)</li>
-<li>www.linkedin.com (1159)</li>
+<li>chatgpt.com (1230)</li>
+<li>www.linkedin.com (1161)</li>
+<li>login.microsoftonline.com (989)</li>
 <li>www.amazon.co.uk (988)</li>
-<li>login.microsoftonline.com (986)</li>
-<li>calendar.google.com (930)</li>
+<li>calendar.google.com (933)</li>
 <li>moodle.royalholloway.ac.uk (804)</li>
 <li>rhul-my.sharepoint.com (782)</li>
 <li>www.theguardian.com (685)</li>
@@ -89,9 +89,9 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (605)</li>
 <li>web.whatsapp.com (549)</li>
 <li>github.com (529)</li>
-<li>chat.openai.com (523)</li>
+<li>chat.openai.com (524)</li>
 <li><a href="https://www.theguardian.com/uk">Zelenskyy calls Trump’s proposal to freeze war at current frontlines ‘good compromise’ | Ukraine | The Guardian</a> (510)</li>
-<li>herts.instructure.com (505)</li>
+<li>herts.instructure.com (508)</li>
 <li>forms.office.com (475)</li>
 <li>feedly.com (426)</li>
 <li>drive.google.com (418)</li>
@@ -108,7 +108,72 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:22 docs.google.com</li>
+<ul><li> 15:20 ce0997li.webitrent.com</li>
+<li> 15:18 www.linkedin.com</li>
+<li> 15:18 ce0997li.webitrent.com</li>
+<li> 15:18 www.linkedin.com</li>
+<li> 15:18 www.hr.herts.ac.uk</li>
+<li> 15:17 herts365-my.sharepoint.com</li>
+<li> 15:17 login.microsoftonline.com</li>
+<li> 15:17 herts365-my.sharepoint.com</li>
+<li> 15:14 outlook.office365.com</li>
+<li> 15:12 herts365-my.sharepoint.com</li>
+<li> 15:12 outlook.office.com</li>
+<li> 15:12 herts365-my.sharepoint.com</li>
+<li> 15:12 outlook.office.com</li>
+<li> 15:12 m365.cloud.microsoft</li>
+<li> 15:12 login.microsoftonline.com</li>
+<li> 15:12 www.hr.herts.ac.uk</li>
+<li> 15:12 calendar.google.com</li>
+<li> 15:11 www.ciisec.live</li>
+<li class='same'> 15:09 www.ciisec.live</li>
+<li class='same'> 15:08 www.ciisec.live</li>
+<li> 15:08 outlook.office365.com</li>
+<li class='same'> 15:06 outlook.office365.com</li>
+<li class='same'> 15:05 outlook.office365.com</li>
+<li> 15:04 docs.google.com</li>
+<li> 15:03 ce0997li.webitrent.com</li>
+<li> 15:02 docs.google.com</li>
+<li> 15:02 ce0997li.webitrent.com</li>
+<li class='same'> 15:01 ce0997li.webitrent.com</li>
+<li> 15:01 www.hr.herts.ac.uk</li>
+<li> 14:57 workload.herts.ac.uk</li>
+<li> 14:57 adfs.herts.ac.uk</li>
+<li> 14:57 workload.herts.ac.uk</li>
+<li> 14:57 duckduckgo.com</li>
+<li> 14:51 researchprofiles.herts.ac.uk</li>
+<li> 14:51 duckduckgo.com</li>
+<li> 14:43 outlook.office.com</li>
+<li> 14:43 m365.cloud.microsoft</li>
+<li> 14:43 login.microsoftonline.com</li>
+<li> 14:43 docs.google.com</li>
+<li> 14:43 ce0997li.webitrent.com</li>
+<li> 14:41 docs.google.com</li>
+<li> 14:40 ce0997li.webitrent.com</li>
+<li> 14:40 docs.google.com</li>
+<li class='same'> 14:39 docs.google.com</li>
+<li> 14:38 ce0997li.webitrent.com</li>
+<li> 14:36 docs.google.com</li>
+<li class='same'> 14:35 docs.google.com</li>
+<li> 14:35 ce0997li.webitrent.com</li>
+<li> 14:32 docs.google.com</li>
+<li> 14:30 chatgpt.com</li>
+<li class='same'> 14:29 chatgpt.com</li>
+<li> 14:29 chat.openai.com</li>
+<li> 14:29 herts.instructure.com</li>
+<li class='same'> 14:28 herts.instructure.com</li>
+<li> 14:28 api-b6327e78.duosecurity.com</li>
+<li> 14:28 adfs.herts.ac.uk</li>
+<li> 14:28 api-b6327e78.duosecurity.com</li>
+<li> 14:28 adfs.herts.ac.uk</li>
+<li> 14:28 herts.instructure.com</li>
+<li> 14:28 docs.google.com</li>
+<li> 14:27 ce0997li.webitrent.com</li>
+<li> 14:27 docs.google.com</li>
+<li> 14:27 calendar.google.com</li>
+<li class='same'> 14:26 calendar.google.com</li>
+<li> 14:23 docs.google.com</li>
+<li class='same'> 14:22 docs.google.com</li>
 <li class='same'> 14:21 docs.google.com</li>
 <li class='same'> 14:20 docs.google.com</li>
 <li> 14:19 chatgpt.com</li>
