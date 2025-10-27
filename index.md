@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (3962)</li>
 <li>www.reddit.com (3946)</li>
-<li>www.google.com (3843)</li>
-<li>outlook.office.com (3733)</li>
-<li>outlook.office365.com (3536)</li>
+<li>www.google.com (3850)</li>
+<li>outlook.office.com (3735)</li>
+<li>outlook.office365.com (3539)</li>
 <li>docs.google.com (2556)</li>
-<li>duckduckgo.com (2132)</li>
+<li>duckduckgo.com (2135)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1448)</li>
-<li>chatgpt.com (1224)</li>
-<li>www.linkedin.com (1154)</li>
+<li>chatgpt.com (1225)</li>
+<li>www.linkedin.com (1158)</li>
 <li>www.amazon.co.uk (988)</li>
 <li>login.microsoftonline.com (983)</li>
 <li>calendar.google.com (930)</li>
@@ -89,11 +89,11 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (605)</li>
 <li>web.whatsapp.com (549)</li>
 <li>github.com (529)</li>
-<li>chat.openai.com (520)</li>
+<li>chat.openai.com (521)</li>
 <li><a href="https://www.theguardian.com/uk">Zelenskyy calls Trump’s proposal to freeze war at current frontlines ‘good compromise’ | Ukraine | The Guardian</a> (510)</li>
 <li>herts.instructure.com (505)</li>
 <li>forms.office.com (475)</li>
-<li>feedly.com (422)</li>
+<li>feedly.com (426)</li>
 <li>drive.google.com (417)</li>
 <li>fritz.box (337)</li>
 <li>rhul.sharepoint.com (330)</li>
@@ -105,6 +105,49 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 27/10/25</H3>
+
+<br>
+
+<ul><li> 13:11 my.f5.com</li>
+<li> 13:03 www.linkedin.com</li>
+<li> 12:57 feedly.com</li>
+<li> 12:53 www.linkedin.com</li>
+<li> 12:51 www.f5.com</li>
+<li> 12:45 my.f5.com</li>
+<li> 12:42 arstechnica.com</li>
+<li> 12:41 www.whitewaterwriters.com</li>
+<li> 12:41 whitewaterwriters.com</li>
+<li> 12:41 theopenvoicefactory.org</li>
+<li> 12:40 www.8newsnow.com</li>
+<li> 12:40 www.google.com</li>
+<li class='same'> 12:39 www.google.com</li>
+<li> 12:39 chatgpt.com</li>
+<li> 12:39 chat.openai.com</li>
+<li> 12:38 www.ncsc.gov.uk</li>
+<li> 12:38 www.google.com</li>
+<li> 12:38 duckduckgo.com</li>
+<li> 12:37 www.schneier.com</li>
+<li> 12:37 feedly.com</li>
+<li> 12:37 www.google.com</li>
+<li> 12:36 feedly.com</li>
+<li> 12:36 <a href="https://xkcd.com/">xkcd: Continents</a></li>
+<li> 12:36 www.giantitp.com</li>
+<li> 12:35 www.google.com</li>
+<li> 12:35 duckduckgo.com</li>
+<li> 12:35 www.linkedin.com</li>
+<li class='same'> 12:34 www.linkedin.com</li>
+<li> 12:34 www.google.com</li>
+<li> 12:33 feedly.com</li>
+<li> 12:33 www.google.com</li>
+<li> 12:33 duckduckgo.com</li>
+<li> 12:32 outlook.office.com</li>
+<li> 12:31 outlook.office365.com</li>
+<li class='same'> 12:30 outlook.office365.com</li>
+<li> 12:30 fast.com</li>
+<li> 12:29 www.atom.com</li>
+<li> 12:28 outlook.office365.com</li>
+<li> 12:27 outlook.office.com</li>
+</ul>
 
 <br>
 
@@ -5282,7 +5325,7 @@ With number of accesses/minutes in parentheses
 <li> 11:40 <a href="https://xkcd.com/534/">xkcd: Genetic Algorithms</a></li>
 <li> 11:40 <a href="https://xkcd.com/3144/">xkcd: Phase Changes</a></li>
 <li> 11:40 <a href="https://xkcd.com/3145/">xkcd: Piercing</a></li>
-<li> 11:40 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 11:40 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 11:40 www.linkedin.com</li>
 <li> 11:40 feedly.com</li>
 <li> 11:39 i.ibb.co</li>
@@ -5737,7 +5780,7 @@ With number of accesses/minutes in parentheses
 <li> 12:03 www.linkedin.com</li>
 <li> 12:01 www.reddit.com</li>
 <li> 12:00 <a href="https://xkcd.com/3144/">xkcd: Phase Changes</a></li>
-<li> 12:00 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 12:00 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 12:00 www.linkedin.com</li>
 <li> 11:58 feedly.com</li>
 </ul>
@@ -9681,7 +9724,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:27 fritz.box</li>
 <li> 17:26 herts365-my.sharepoint.com</li>
 <li> 17:26 <a href="https://xkcd.com/3004/">xkcd: Wells</a></li>
-<li> 17:25 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 17:25 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 17:20 fritz.box</li>
 <li> 17:12 herts365-my.sharepoint.com</li>
 <li class='same'> 17:11 herts365-my.sharepoint.com</li>
@@ -10915,7 +10958,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 16:03 <a href="https://www.theguardian.com/commentisfree/2025/aug/25/trump-staff-incompetent-sycophants">Why Trump built a staff of incompetent sycophants | Robert Reich | The Guardian</a></li>
 <li> 16:02 <a href="https://www.theguardian.com/culture/ng-interactive/2025/aug/25/best-films-of-autumn-2025-spinal-tap-julia-roberts-paul-thomas-anderson">Spinal Tap II, Julia Roberts and Paul Thomas Anderson: the best films of autumn 2025 | Autumn arts preview 2025 | The Guardian</a></li>
-<li> 15:55 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 15:55 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 15:53 www.google.co.uk</li>
 <li> 15:42 www.linkedin.com</li>
 <li> 15:30 www.reddit.com</li>
@@ -13751,7 +13794,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:09 studylink.com</li>
 <li> 09:07 www.foxnews.com</li>
-<li> 09:06 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 09:06 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 09:05 mail.google.com</li>
 <li class='same'> 09:02 mail.google.com</li>
 <li> 09:02 gmail.com</li>
@@ -19199,7 +19242,7 @@ With number of accesses/minutes in parentheses
 <li> 22:09 <a href="https://xkcd.com/2558/">xkcd: Rapid Test Results</a></li>
 <li> 22:08 <a href="https://xkcd.com/1958/">xkcd: Self-Driving Issues</a></li>
 <li> 22:08 <a href="https://xkcd.com/1713/">xkcd: 50 ccs</a></li>
-<li> 22:08 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 22:08 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 22:08 feedly.com</li>
 <li> 22:08 www.linkedin.com</li>
 <li class='same'> 22:07 www.linkedin.com</li>
@@ -19966,7 +20009,7 @@ With number of accesses/minutes in parentheses
 <li> 14:25 <a href="https://xkcd.com/1133/">xkcd: Up Goer Five</a></li>
 <li> 14:24 <a href="https://xkcd.com/thing-explainer/">Thing Explainer: Complicated Stuff in Simple Words</a></li>
 <li> 14:24 <a href="https://xkcd.com/books/">books by Randall Munroe</a></li>
-<li> 14:24 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 14:24 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 14:21 <a href="https://xkcd.com/simplewriter/"></a></li>
 <li> 14:18 herts.instructure.com</li>
 <li class='same'> 14:17 herts.instructure.com</li>
@@ -21740,7 +21783,7 @@ With number of accesses/minutes in parentheses
 <li> 21:46 <a href="https://xkcd.com/3057/">xkcd: Excusing Yourself</a></li>
 <li> 21:45 <a href="https://xkcd.com/2753/">xkcd: Air Handler</a></li>
 <li> 21:45 <a href="https://xkcd.com/313/">xkcd: Insomnia</a></li>
-<li> 21:45 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 21:45 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 21:44 www.giantitp.com</li>
 <li> 21:41 www.reddit.com</li>
 <li class='same'> 21:40 www.reddit.com</li>
@@ -25841,7 +25884,7 @@ With number of accesses/minutes in parentheses
 <li> 06:31 <a href="https://xkcd.com/3095/">xkcd: Archaea</a></li>
 <li> 06:31 <a href="https://xkcd.com/3096/">xkcd: Check Engine</a></li>
 <li> 06:31 <a href="https://xkcd.com/3097/">xkcd: Bridge Types</a></li>
-<li> 06:30 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 06:30 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 06:30 www.giantitp.com</li>
 <li> 06:20 feedly.com</li>
 <li> 06:19 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/ive-learned-a-new-word-and-now-im-seeing-the-people-it-describes-everywhere">I’ve learned a new word – and now I’m seeing the people it describes everywhere | Adrian Chiles | The Guardian</a></li>
@@ -32032,7 +32075,7 @@ With number of accesses/minutes in parentheses
 <li> 16:19 <a href="https://xkcd.com/3081/">xkcd: PhD Timeline</a></li>
 <li> 16:19 <a href="https://xkcd.com/3082/">xkcd: Chess Position</a></li>
 <li> 16:19 <a href="https://xkcd.com/3083/">xkcd: Jupiter Core</a></li>
-<li> 16:19 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 16:19 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 16:17 <a href="https://www.theguardian.com/film/2025/may/05/fears-trump-foreign-film-tariffs-wipe-out-uk-movie-industry">Fears Trump’s foreign film tariffs could ‘wipe out’ UK movie industry | Film industry | The Guardian</a></li>
 <li> 16:16 liloandstitch.fandom.com</li>
 <li class='same'> 16:14 liloandstitch.fandom.com</li>
@@ -36368,7 +36411,7 @@ With number of accesses/minutes in parentheses
 <li> 07:27 <a href="https://xkcd.com/518/">xkcd: Flow Charts</a></li>
 <li> 07:26 <a href="https://xkcd.com/3072/">xkcd: Stargazing 4</a></li>
 <li> 07:26 <a href="https://xkcd.com/3071/">xkcd: Decay Chain</a></li>
-<li> 07:26 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 07:26 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 07:23 www.theguardian.com</li>
 <li class='same'> 07:22 www.theguardian.com</li>
 <li class='same'> 07:20 www.theguardian.com</li>
@@ -42339,7 +42382,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:03 outlook.office.com</li>
 <li class='same'> 15:02 outlook.office.com</li>
 <li> 14:53 <a href="https://xkcd.com/simplewriter/"></a></li>
-<li> 14:53 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 14:53 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 14:42 <a href="https://en.wikipedia.org/wiki/Ashley_Madison_data_breach">Ashley Madison data breach - Wikipedia</a></li>
 <li> 14:42 duckduckgo.com</li>
 <li> 14:18 outlook.office.com</li>
@@ -49604,7 +49647,7 @@ With number of accesses/minutes in parentheses
 <li> 14:41 <a href="https://xkcd.com/3041/">xkcd: Unit Circle</a></li>
 <li> 14:41 <a href="https://xkcd.com/3042/">xkcd: T. Rex Evolution</a></li>
 <li> 14:41 <a href="https://xkcd.com/3043/">xkcd: Muons</a></li>
-<li> 14:41 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 14:41 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 14:40 www.reddit.com</li>
 <li class='same'> 14:39 www.reddit.com</li>
 <li> 14:39 mail.google.com</li>
@@ -56469,7 +56512,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:55 www.reddit.com</li>
 <li> 19:51 bsky.app</li>
-<li> 19:50 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 19:50 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 19:49 docs.google.com</li>
 <li> 19:47 bsky.app</li>
 <li class='same'> 19:46 bsky.app</li>
@@ -57294,7 +57337,7 @@ With number of accesses/minutes in parentheses
 <li> 06:41 www.facebook.com</li>
 <li> 06:37 bsky.app</li>
 <li class='same'> 06:35 bsky.app</li>
-<li> 06:33 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 06:33 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 06:33 www.giantitp.com</li>
 <li> 06:33 www.linkedin.com</li>
 <li class='same'> 06:32 www.linkedin.com</li>
@@ -57424,7 +57467,7 @@ With number of accesses/minutes in parentheses
 <li> 15:03 <a href="https://xkcd.com/3027/">xkcd: Exclusion Principle</a></li>
 <li> 15:03 <a href="https://xkcd.com/3028/">xkcd: D Roll</a></li>
 <li> 15:02 <a href="https://xkcd.com/3029/">xkcd: Sun Avoidance</a></li>
-<li> 15:02 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 15:02 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 15:02 www.giantitp.com</li>
 <li> 15:01 www.ebay.co.uk</li>
 <li> 15:00 blueskydirectory.com</li>
@@ -58421,7 +58464,7 @@ With number of accesses/minutes in parentheses
 <li> 14:17 <a href="https://xkcd.com/3023/">xkcd: The Maritime Approximation</a></li>
 <li> 14:17 <a href="https://xkcd.com/3024/">xkcd: METAR</a></li>
 <li> 14:16 <a href="https://xkcd.com/3025/">xkcd: Phase Change</a></li>
-<li> 14:16 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 14:16 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 14:14 www.giantitp.com</li>
 <li> 14:14 outlook.office365.com</li>
 <li> 14:14 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
@@ -59019,7 +59062,7 @@ With number of accesses/minutes in parentheses
 <li> 13:40 <a href="https://xkcd.com/3021/">xkcd: Seismologists</a></li>
 <li> 13:39 <a href="https://xkcd.com/3022/">xkcd: Making Tea</a></li>
 <li> 13:39 <a href="https://xkcd.com/3023/">xkcd: The Maritime Approximation</a></li>
-<li> 13:39 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 13:39 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 13:39 www.giantitp.com</li>
 <li> 13:37 bsky.app</li>
 <li class='same'> 13:36 bsky.app</li>
@@ -60387,7 +60430,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:02 www.explainxkcd.com</li>
 <li> 09:01 <a href="https://xkcd.com/3019/">xkcd: Advent Calendar Advent Calendar</a></li>
 <li> 09:01 <a href="https://xkcd.com/3020/">xkcd: Infinite Armada Chess</a></li>
-<li> 09:01 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 09:01 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 09:01 www.giantitp.com</li>
 <li> 09:01 www.linkedin.com</li>
 <li class='same'> 09:00 www.linkedin.com</li>
@@ -69800,7 +69843,7 @@ With number of accesses/minutes in parentheses
 <li> 11:20 <a href="https://xkcd.com/2957/">xkcd: A Crossword Puzzle</a></li>
 <li> 11:20 <a href="https://xkcd.com/2960/">xkcd: Organ Meanings</a></li>
 <li> 11:20 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
-<li> 11:18 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 11:18 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 11:18 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 11:01 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
 <li> 10:41 whitewaterwriters.com</li>
@@ -70177,7 +70220,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:54 www.overleaf.com</li>
 <li> 20:52 www.tightrope.co.uk</li>
-<li> 20:34 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 20:34 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 </ul>
 
 <br>
@@ -70255,7 +70298,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:09 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<ul><li> 21:09 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 </ul>
 
 <br>
@@ -70538,7 +70581,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:18 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<ul><li> 17:18 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 </ul>
 
 <br>
@@ -70848,7 +70891,7 @@ With number of accesses/minutes in parentheses
 <li> 08:12 mail.google.com</li>
 <li> 08:08 docs.google.com</li>
 <li> 08:07 www.google.com</li>
-<li> 07:57 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 07:57 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 </ul>
 
 <H3>Saturday, 17/08/24</H3>
@@ -70875,7 +70918,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:26 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<ul><li> 16:26 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 </ul>
 
 <H3>Thursday, 15/08/24</H3>
@@ -70904,7 +70947,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:19 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<ul><li> 16:19 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 </ul>
 
 <br>
@@ -71051,7 +71094,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:44 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<ul><li> 06:44 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 06:42 kdpreports.amazon.com</li>
 <li> 06:32 www.buzzfeed.com</li>
 <li> 06:26 x.com</li>
@@ -71194,7 +71237,7 @@ With number of accesses/minutes in parentheses
 <li> 07:03 www.amazon.co.uk</li>
 <li> 07:02 mail.google.com</li>
 <li> 06:48 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
-<li> 06:46 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 06:46 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 06:37 mail.google.com</li>
 </ul>
 
@@ -71347,7 +71390,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:45 <a href="https://xkcd.com/2960/">xkcd: Organ Meanings</a></li>
 <li> 09:45 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
-<li> 09:43 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 09:43 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 09:41 www.reddit.com</li>
 <li> 09:35 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 </ul>
@@ -71816,7 +71859,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:47 <a href="https://xkcd.com/2957/">xkcd: A Crossword Puzzle</a></li>
 <li> 12:46 <a href="https://xkcd.com/2960/">xkcd: Organ Meanings</a></li>
-<li> 12:46 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 12:46 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 12:45 www.google.com</li>
 <li> 12:29 www.amazon.co.uk</li>
 <li> 12:28 kdpreports.amazon.com</li>
@@ -72960,7 +73003,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:14 outlook.office365.com</li>
 <li class='same'> 11:10 outlook.office365.com</li>
 <li> 11:09 <a href="https://xkcd.com/2941/">xkcd: Cell Organelles</a></li>
-<li> 11:08 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 11:08 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 11:04 www.paypal.com</li>
 <li class='same'> 10:59 www.paypal.com</li>
 <li> 10:54 mail.google.com</li>
@@ -73179,7 +73222,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:59 equalitytime.github.io</li>
-<li> 14:49 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 14:49 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 <li> 14:48 theopenvoicefactory.org</li>
 <li class='same'> 14:45 theopenvoicefactory.org</li>
 <li class='same'> 14:41 theopenvoicefactory.org</li>
@@ -73675,7 +73718,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:20 www.google.com</li>
-<li> 18:19 <a href="https://xkcd.com/">xkcd: Fantastic Four</a></li>
+<li> 18:19 <a href="https://xkcd.com/">xkcd: Continents</a></li>
 </ul>
 
 <br>
