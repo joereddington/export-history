@@ -70,30 +70,30 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (3956)</li>
 <li>www.reddit.com (3946)</li>
-<li>www.google.com (3840)</li>
-<li>outlook.office.com (3719)</li>
-<li>outlook.office365.com (3523)</li>
+<li>www.google.com (3843)</li>
+<li>outlook.office.com (3724)</li>
+<li>outlook.office365.com (3527)</li>
 <li>docs.google.com (2553)</li>
-<li>duckduckgo.com (2126)</li>
+<li>duckduckgo.com (2129)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1448)</li>
-<li>chatgpt.com (1218)</li>
+<li>chatgpt.com (1221)</li>
 <li>www.linkedin.com (1149)</li>
 <li>www.amazon.co.uk (988)</li>
-<li>login.microsoftonline.com (981)</li>
+<li>login.microsoftonline.com (982)</li>
 <li>calendar.google.com (927)</li>
 <li>moodle.royalholloway.ac.uk (804)</li>
-<li>rhul-my.sharepoint.com (780)</li>
+<li>rhul-my.sharepoint.com (782)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (621)</li>
 <li>gmail.com (605)</li>
 <li>web.whatsapp.com (548)</li>
 <li>github.com (529)</li>
-<li>chat.openai.com (517)</li>
+<li>chat.openai.com (518)</li>
 <li><a href="https://www.theguardian.com/uk">Zelenskyy calls Trump’s proposal to freeze war at current frontlines ‘good compromise’ | Ukraine | The Guardian</a> (510)</li>
 <li>herts.instructure.com (500)</li>
 <li>forms.office.com (472)</li>
-<li>feedly.com (420)</li>
+<li>feedly.com (422)</li>
 <li>drive.google.com (415)</li>
 <li>fritz.box (337)</li>
 <li>rhul.sharepoint.com (330)</li>
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:14 rhul-my.sharepoint.com</li>
+<ul><li> 10:00 feedly.com</li>
+<li> 10:00 <a href="https://www.theguardian.com/world/2024/sep/17/french-cement-company-lafarge-paid-millions-to-islamic-state-syria?utm_source=chatgpt.com"></a></li>
+<li> 10:00 feedly.com</li>
+<li> 09:58 www.csmonitor.com</li>
+<li> 09:55 www.jewishexponent.com</li>
+<li> 09:54 www.berkleycrime.com</li>
+<li> 09:52 chatgpt.com</li>
+<li class='same'> 09:51 chatgpt.com</li>
+<li> 09:48 outlook.office.com</li>
+<li class='same'> 09:47 outlook.office.com</li>
+<li class='same'> 09:46 outlook.office.com</li>
+<li class='same'> 09:45 outlook.office.com</li>
+<li> 09:44 herts365-my.sharepoint.com</li>
+<li> 09:43 outlook.office.com</li>
+<li> 09:42 m365.cloud.microsoft</li>
+<li> 09:42 login.microsoftonline.com</li>
+<li> 09:42 www.hr.herts.ac.uk</li>
+<li> 09:40 rhul-my.sharepoint.com</li>
+<li> 09:40 outlook.office365.com</li>
+<li class='same'> 09:39 outlook.office365.com</li>
+<li class='same'> 09:38 outlook.office365.com</li>
+<li> 09:38 rhul-my.sharepoint.com</li>
+<li> 09:37 outlook.office365.com</li>
+<li> 09:28 chatgpt.com</li>
+<li> 09:28 chat.openai.com</li>
+<li> 09:27 www.google.com</li>
+<li class='same'> 09:26 www.google.com</li>
+<li class='same'> 09:25 www.google.com</li>
+<li> 09:24 www.firestorm.com</li>
+<li> 09:24 duckduckgo.com</li>
+<li> 09:21 www.rsn.org</li>
+<li> 09:21 duckduckgo.com</li>
+<li class='same'> 09:20 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:38 www.reuters.com</li>
+<li> 08:35 krebsonsecurity.com</li>
+<li> 08:34 <a href="https://en.wikipedia.org/wiki/JBS_S.A._ransomware_attack?utm_source=chatgpt.com">JBS S.A. ransomware attack - Wikipedia</a></li>
+<li> 08:34 www.cybersecuritydive.com</li>
+<li> 08:32 www.aljazeera.com</li>
+<li> 08:14 rhul-my.sharepoint.com</li>
 <li class='same'> 08:13 rhul-my.sharepoint.com</li>
 <li> 08:13 login.microsoftonline.com</li>
 <li> 08:13 rhul-my.sharepoint.com</li>
