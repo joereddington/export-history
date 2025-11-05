@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4060)</li>
+<ol><li>mail.google.com (4066)</li>
 <li>www.reddit.com (3979)</li>
 <li>www.google.com (3895)</li>
-<li>outlook.office.com (3890)</li>
-<li>outlook.office365.com (3628)</li>
+<li>outlook.office.com (3891)</li>
+<li>outlook.office365.com (3635)</li>
 <li>docs.google.com (2597)</li>
-<li>duckduckgo.com (2222)</li>
+<li>duckduckgo.com (2224)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
 <li>chatgpt.com (1273)</li>
 <li>www.linkedin.com (1200)</li>
-<li>login.microsoftonline.com (1046)</li>
-<li>www.amazon.co.uk (1008)</li>
-<li>calendar.google.com (959)</li>
+<li>login.microsoftonline.com (1048)</li>
+<li>www.amazon.co.uk (1009)</li>
+<li>calendar.google.com (963)</li>
 <li>moodle.royalholloway.ac.uk (813)</li>
 <li>rhul-my.sharepoint.com (794)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
-<li>gmail.com (624)</li>
-<li>web.whatsapp.com (574)</li>
+<li>gmail.com (626)</li>
+<li>web.whatsapp.com (575)</li>
 <li>chat.openai.com (548)</li>
 <li>github.com (543)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (526)</li>
@@ -105,6 +105,41 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 05/11/25</H3>
+
+<br>
+
+<ul><li> 09:50 outlook.office365.com</li>
+<li class='same'> 09:49 outlook.office365.com</li>
+<li class='same'> 09:48 outlook.office365.com</li>
+<li> 09:48 ewf.companieshouse.gov.uk</li>
+<li> 09:48 mail.google.com</li>
+<li> 09:44 web.whatsapp.com</li>
+<li> 09:42 alternativeto.net</li>
+<li> 09:42 duckduckgo.com</li>
+<li class='same'> 09:41 duckduckgo.com</li>
+<li> 09:36 outlook.office.com</li>
+<li> 09:36 m365.cloud.microsoft</li>
+<li> 09:36 login.microsoftonline.com</li>
+<li> 09:36 www.hr.herts.ac.uk</li>
+<li> 09:35 outlook.office365.com</li>
+<li> 09:34 www.sibs.org.uk</li>
+<li> 09:34 mail.google.com</li>
+<li class='same'> 09:33 mail.google.com</li>
+<li> 09:33 gmail.com</li>
+<li> 09:33 mail.google.com</li>
+<li class='same'> 09:32 mail.google.com</li>
+<li> 09:32 www.amazon.co.uk</li>
+<li> 09:31 mail.google.com</li>
+<li> 09:31 gmail.com</li>
+<li> 09:26 calendar.google.com</li>
+<li> 09:26 outlook.office365.com</li>
+<li> 09:26 calendar.google.com</li>
+<li class='same'> 09:25 calendar.google.com</li>
+<li> 09:25 outlook.office365.com</li>
+<li> 09:25 login.microsoftonline.com</li>
+<li> 09:25 outlook.office365.com</li>
+<li> 09:24 calendar.google.com</li>
+</ul>
 
 <br>
 
