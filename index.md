@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4066)</li>
+<ol><li>mail.google.com (4072)</li>
 <li>www.reddit.com (3979)</li>
 <li>www.google.com (3895)</li>
 <li>outlook.office.com (3891)</li>
 <li>outlook.office365.com (3635)</li>
-<li>docs.google.com (2597)</li>
+<li>docs.google.com (2610)</li>
 <li>duckduckgo.com (2224)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
-<li>chatgpt.com (1273)</li>
+<li>chatgpt.com (1274)</li>
 <li>www.linkedin.com (1200)</li>
-<li>login.microsoftonline.com (1048)</li>
+<li>login.microsoftonline.com (1051)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>calendar.google.com (963)</li>
 <li>moodle.royalholloway.ac.uk (813)</li>
@@ -88,13 +88,13 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (629)</li>
 <li>gmail.com (626)</li>
 <li>web.whatsapp.com (575)</li>
-<li>chat.openai.com (548)</li>
+<li>chat.openai.com (549)</li>
 <li>github.com (543)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (526)</li>
 <li>herts.instructure.com (523)</li>
 <li>forms.office.com (484)</li>
 <li>feedly.com (446)</li>
-<li>drive.google.com (426)</li>
+<li>drive.google.com (427)</li>
 <li>fritz.box (339)</li>
 <li>rhul.sharepoint.com (337)</li>
 <li>adfs.herts.ac.uk (318)</li>
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:50 outlook.office365.com</li>
+<ul><li> 10:56 myview.rhul.zellis.com</li>
+<li> 10:56 login.microsoftonline.com</li>
+<li> 10:56 myview.rhul.zellis.com</li>
+<li> 10:46 mail.google.com</li>
+<li class='same'> 10:28 mail.google.com</li>
+<li> 10:28 chatgpt.com</li>
+<li> 10:28 chat.openai.com</li>
+<li> 10:27 www.projectreal.co.uk</li>
+<li> 10:25 mail.google.com</li>
+<li class='same'> 10:24 mail.google.com</li>
+<li class='same'> 10:22 mail.google.com</li>
+<li> 10:21 docs.google.com</li>
+<li class='same'> 10:20 docs.google.com</li>
+<li class='same'> 10:19 docs.google.com</li>
+<li class='same'> 10:18 docs.google.com</li>
+<li class='same'> 10:17 docs.google.com</li>
+<li class='same'> 10:16 docs.google.com</li>
+<li> 10:16 ce0997li.webitrent.com</li>
+<li class='same'> 10:15 ce0997li.webitrent.com</li>
+<li> 10:14 docs.google.com</li>
+<li class='same'> 10:13 docs.google.com</li>
+<li> 10:13 ce0997li.webitrent.com</li>
+<li> 10:11 docs.google.com</li>
+<li> 10:10 ce0997li.webitrent.com</li>
+<li> 10:09 docs.google.com</li>
+<li> 10:09 ce0997li.webitrent.com</li>
+<li> 10:08 docs.google.com</li>
+<li> 10:07 ce0997li.webitrent.com</li>
+<li> 10:06 docs.google.com</li>
+<li> 10:05 ce0997li.webitrent.com</li>
+<li> 10:05 docs.google.com</li>
+<li> 10:05 drive.google.com</li>
+<li> 10:05 ce0997li.webitrent.com</li>
+<li class='same'> 10:04 ce0997li.webitrent.com</li>
+<li> 10:04 login.microsoftonline.com</li>
+<li> 10:04 ce0997li.webitrent.com</li>
+<li> 10:04 login.microsoftonline.com</li>
+<li> 10:04 www.hr.herts.ac.uk</li>
+<li> 10:04 mail.google.com</li>
+<li> 09:50 outlook.office365.com</li>
 <li class='same'> 09:49 outlook.office365.com</li>
 <li class='same'> 09:48 outlook.office365.com</li>
 <li> 09:48 ewf.companieshouse.gov.uk</li>
