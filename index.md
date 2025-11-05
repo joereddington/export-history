@@ -73,12 +73,12 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3895)</li>
 <li>outlook.office.com (3890)</li>
 <li>outlook.office365.com (3628)</li>
-<li>docs.google.com (2596)</li>
-<li>duckduckgo.com (2220)</li>
+<li>docs.google.com (2597)</li>
+<li>duckduckgo.com (2222)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
-<li>chatgpt.com (1272)</li>
-<li>www.linkedin.com (1196)</li>
+<li>chatgpt.com (1273)</li>
+<li>www.linkedin.com (1200)</li>
 <li>login.microsoftonline.com (1046)</li>
 <li>www.amazon.co.uk (1008)</li>
 <li>calendar.google.com (959)</li>
@@ -87,14 +87,14 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (624)</li>
-<li>web.whatsapp.com (573)</li>
-<li>chat.openai.com (547)</li>
+<li>web.whatsapp.com (574)</li>
+<li>chat.openai.com (548)</li>
 <li>github.com (543)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (526)</li>
 <li>herts.instructure.com (523)</li>
 <li>forms.office.com (484)</li>
 <li>feedly.com (446)</li>
-<li>drive.google.com (425)</li>
+<li>drive.google.com (426)</li>
 <li>fritz.box (339)</li>
 <li>rhul.sharepoint.com (337)</li>
 <li>adfs.herts.ac.uk (318)</li>
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:35 mail.google.com</li>
+<ul><li> 07:38 www.printables.com</li>
+<li class='same'> 07:37 www.printables.com</li>
+<li class='same'> 07:36 www.printables.com</li>
+<li> 07:34 www.linkedin.com</li>
+<li class='same'> 07:31 www.linkedin.com</li>
+<li> 07:30 www.etymonline.com</li>
+<li> 07:30 duckduckgo.com</li>
+<li> 07:19 directory.doabooks.org</li>
+<li> 07:19 librarysearch.royalholloway.ac.uk</li>
+<li> 07:18 rl.talis.com</li>
+<li> 07:18 rhul.rl.talis.com</li>
+<li> 07:18 duckduckgo.com</li>
+<li> 07:18 librarysearch.royalholloway.ac.uk</li>
+<li class='same'> 07:17 librarysearch.royalholloway.ac.uk</li>
+<li> 07:06 chatgpt.com</li>
+<li> 07:06 chat.openai.com</li>
+<li> 07:03 www.linkedin.com</li>
+<li class='same'> 07:02 www.linkedin.com</li>
+<li> 07:00 web.whatsapp.com</li>
+<li> 06:59 www.gov.uk</li>
+<li> 06:59 ewf.companieshouse.gov.uk</li>
+<li class='same'> 06:58 ewf.companieshouse.gov.uk</li>
+<li> 06:58 www.paypal.com</li>
+<li class='same'> 06:57 www.paypal.com</li>
+<li> 06:57 payments.company-information.service.gov.uk</li>
+<li> 06:57 ewf.companieshouse.gov.uk</li>
+<li class='same'> 06:56 ewf.companieshouse.gov.uk</li>
+<li> 06:56 identity.company-information.service.gov.uk</li>
+<li> 06:56 ewf.companieshouse.gov.uk</li>
+<li> 06:55 equalitytime.co.uk</li>
+<li> 06:55 equalitytime.github.io</li>
+<li> 06:55 ewf.companieshouse.gov.uk</li>
+<li class='same'> 06:54 ewf.companieshouse.gov.uk</li>
+<li> 06:54 signin.account.gov.uk</li>
+<li> 06:54 identity.company-information.service.gov.uk</li>
+<li> 06:54 ewf.companieshouse.gov.uk</li>
+<li> 06:54 idam-ui.company-information.service.gov.uk</li>
+<li> 06:54 ewf.companieshouse.gov.uk</li>
+<li> 06:54 www.gov.uk</li>
+<li> 06:53 docs.google.com</li>
+<li> 06:53 drive.google.com</li>
+<li> 06:35 mail.google.com</li>
 <li> 06:33 web.whatsapp.com</li>
 <li class='same'> 06:27 web.whatsapp.com</li>
 <li class='same'> 06:26 web.whatsapp.com</li>
@@ -72175,6 +72216,7 @@ With number of accesses/minutes in parentheses
 <li> 09:11 ads.google.com</li>
 <li> 08:58 www.amazon.co.uk</li>
 <li> 08:56 ewf.companieshouse.gov.uk</li>
+<li class='same'> 08:55 ewf.companieshouse.gov.uk</li>
 <li class='same'> 08:52 ewf.companieshouse.gov.uk</li>
 <li> 08:51 idam-ui.company-information.service.gov.uk</li>
 <li> 08:51 www.gov.uk</li>
