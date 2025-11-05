@@ -70,20 +70,20 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4072)</li>
 <li>www.reddit.com (3979)</li>
-<li>www.google.com (3895)</li>
+<li>www.google.com (3896)</li>
 <li>outlook.office.com (3891)</li>
-<li>outlook.office365.com (3635)</li>
+<li>outlook.office365.com (3639)</li>
 <li>docs.google.com (2610)</li>
-<li>duckduckgo.com (2224)</li>
+<li>duckduckgo.com (2226)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
 <li>chatgpt.com (1274)</li>
 <li>www.linkedin.com (1200)</li>
-<li>login.microsoftonline.com (1051)</li>
+<li>login.microsoftonline.com (1052)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>calendar.google.com (963)</li>
-<li>moodle.royalholloway.ac.uk (813)</li>
-<li>rhul-my.sharepoint.com (794)</li>
+<li>moodle.royalholloway.ac.uk (814)</li>
+<li>rhul-my.sharepoint.com (797)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (626)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (446)</li>
 <li>drive.google.com (427)</li>
 <li>fritz.box (339)</li>
-<li>rhul.sharepoint.com (337)</li>
+<li>rhul.sharepoint.com (338)</li>
 <li>adfs.herts.ac.uk (318)</li>
 
 
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:56 myview.rhul.zellis.com</li>
+<ul><li> 11:49 duckduckgo.com</li>
+<li class='same'> 11:37 duckduckgo.com</li>
+<li> 11:37 moodle.royalholloway.ac.uk</li>
+<li> 11:37 outlook.office365.com</li>
+<li> 11:27 myview.rhul.zellis.com</li>
+<li> 11:17 rhul-my.sharepoint.com</li>
+<li class='same'> 11:14 rhul-my.sharepoint.com</li>
+<li> 11:14 login.microsoftonline.com</li>
+<li> 11:14 rhul-my.sharepoint.com</li>
+<li> 11:06 rhul.sharepoint.com</li>
+<li> 11:06 outlook.office365.com</li>
+<li class='same'> 11:05 outlook.office365.com</li>
+<li class='same'> 11:04 outlook.office365.com</li>
+<li> 11:03 www.google.com</li>
+<li> 10:56 myview.rhul.zellis.com</li>
 <li> 10:56 login.microsoftonline.com</li>
 <li> 10:56 myview.rhul.zellis.com</li>
 <li> 10:46 mail.google.com</li>
