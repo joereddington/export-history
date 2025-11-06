@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4075)</li>
 <li>www.reddit.com (3979)</li>
-<li>outlook.office.com (3901)</li>
+<li>outlook.office.com (3915)</li>
 <li>www.google.com (3893)</li>
 <li>outlook.office365.com (3644)</li>
 <li>docs.google.com (2610)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1450)</li>
 <li>chatgpt.com (1274)</li>
 <li>www.linkedin.com (1204)</li>
-<li>login.microsoftonline.com (1054)</li>
+<li>login.microsoftonline.com (1055)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>calendar.google.com (964)</li>
 <li>moodle.royalholloway.ac.uk (814)</li>
@@ -87,10 +87,10 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (626)</li>
-<li>web.whatsapp.com (579)</li>
+<li>web.whatsapp.com (580)</li>
 <li>chat.openai.com (549)</li>
-<li>github.com (543)</li>
-<li>herts.instructure.com (532)</li>
+<li>github.com (546)</li>
+<li>herts.instructure.com (538)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (526)</li>
 <li>forms.office.com (484)</li>
 <li>feedly.com (446)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:41 outlook.office.com</li>
+<ul><li> 12:49 outlook.office.com</li>
+<li class='same'> 12:48 outlook.office.com</li>
+<li> 12:47 herts.instructure.com</li>
+<li class='same'> 12:46 herts.instructure.com</li>
+<li class='same'> 12:45 herts.instructure.com</li>
+<li class='same'> 12:44 herts.instructure.com</li>
+<li> 12:43 outlook.office.com</li>
+<li> 12:40 web.whatsapp.com</li>
+<li> 12:39 outlook.office.com</li>
+<li class='same'> 12:37 outlook.office.com</li>
+<li class='same'> 12:36 outlook.office.com</li>
+<li class='same'> 12:21 outlook.office.com</li>
+<li class='same'> 12:17 outlook.office.com</li>
+<li> 12:16 t1b.gobright.cloud</li>
+<li> 12:15 outlook.office.com</li>
+<li> 12:15 m365.cloud.microsoft</li>
+<li> 12:15 login.microsoftonline.com</li>
+<li> 12:14 onlinelibrary.wiley.com</li>
+<li> 12:10 github.com</li>
+<li> 12:10 t1b.gobright.cloud</li>
+<li> 12:10 portal.gobright.cloud</li>
+<li> 12:09 www.hr.herts.ac.uk</li>
+<li> 12:09 ev.turnitinuk.com</li>
+<li> 12:09 herts.instructure.com</li>
+<li> 12:05 github.com</li>
+<li class='same'> 12:04 github.com</li>
+<li> 12:03 herts.instructure.com</li>
+<li> 12:03 outlook.office.com</li>
+<li class='same'> 12:02 outlook.office.com</li>
+<li class='same'> 11:59 outlook.office.com</li>
+<li class='same'> 11:55 outlook.office.com</li>
+<li class='same'> 11:52 outlook.office.com</li>
+<li class='same'> 11:41 outlook.office.com</li>
 <li class='same'> 11:40 outlook.office.com</li>
 <li> 11:39 pubmed.ncbi.nlm.nih.gov</li>
 <li> 11:38 worldpopulationreview.com</li>
