@@ -78,16 +78,16 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
 <li>chatgpt.com (1274)</li>
-<li>www.linkedin.com (1201)</li>
-<li>login.microsoftonline.com (1049)</li>
+<li>www.linkedin.com (1204)</li>
+<li>login.microsoftonline.com (1050)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>calendar.google.com (964)</li>
-<li>moodle.royalholloway.ac.uk (813)</li>
+<li>moodle.royalholloway.ac.uk (814)</li>
 <li>rhul-my.sharepoint.com (797)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (626)</li>
-<li>web.whatsapp.com (577)</li>
+<li>web.whatsapp.com (579)</li>
 <li>chat.openai.com (549)</li>
 <li>github.com (543)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (526)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:47 outlook.office365.com</li>
+<ul><li> 07:59 web.whatsapp.com</li>
+<li class='same'> 07:58 web.whatsapp.com</li>
+<li> 07:51 www.linkedin.com</li>
+<li class='same'> 07:50 www.linkedin.com</li>
+<li class='same'> 07:49 www.linkedin.com</li>
+<li> 07:47 moodle.royalholloway.ac.uk</li>
+<li> 07:47 login.microsoftonline.com</li>
+<li> 07:47 outlook.office365.com</li>
 <li> 07:44 www.linkedin.com</li>
 <li> 07:44 duckduckgo.com</li>
 <li> 07:44 web.whatsapp.com</li>
