@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (3979)</li>
 <li>www.google.com (3893)</li>
 <li>outlook.office.com (3890)</li>
-<li>outlook.office365.com (3642)</li>
+<li>outlook.office365.com (3644)</li>
 <li>docs.google.com (2610)</li>
-<li>duckduckgo.com (2229)</li>
+<li>duckduckgo.com (2230)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
 <li>chatgpt.com (1274)</li>
-<li>www.linkedin.com (1200)</li>
+<li>www.linkedin.com (1201)</li>
 <li>login.microsoftonline.com (1049)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>calendar.google.com (964)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (626)</li>
-<li>web.whatsapp.com (576)</li>
+<li>web.whatsapp.com (577)</li>
 <li>chat.openai.com (549)</li>
 <li>github.com (543)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (526)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 06/11/25</H3>
+
+<br>
+
+<ul><li> 07:47 outlook.office365.com</li>
+<li> 07:44 www.linkedin.com</li>
+<li> 07:44 duckduckgo.com</li>
+<li> 07:44 web.whatsapp.com</li>
+<li> 07:35 outlook.office365.com</li>
+</ul>
 
 <br>
 
