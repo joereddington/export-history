@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4078)</li>
+<ol><li>mail.google.com (4079)</li>
 <li>www.reddit.com (3979)</li>
-<li>outlook.office.com (3937)</li>
+<li>outlook.office.com (3943)</li>
 <li>www.google.com (3893)</li>
 <li>outlook.office365.com (3661)</li>
 <li>docs.google.com (2611)</li>
-<li>duckduckgo.com (2239)</li>
+<li>duckduckgo.com (2240)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
-<li>chatgpt.com (1277)</li>
-<li>www.linkedin.com (1206)</li>
-<li>login.microsoftonline.com (1064)</li>
+<li>chatgpt.com (1280)</li>
+<li>www.linkedin.com (1207)</li>
+<li>login.microsoftonline.com (1065)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>calendar.google.com (967)</li>
-<li>moodle.royalholloway.ac.uk (818)</li>
+<li>moodle.royalholloway.ac.uk (820)</li>
 <li>rhul-my.sharepoint.com (798)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
-<li>gmail.com (627)</li>
-<li>web.whatsapp.com (581)</li>
-<li>chat.openai.com (551)</li>
-<li>herts.instructure.com (550)</li>
+<li>gmail.com (628)</li>
+<li>web.whatsapp.com (582)</li>
+<li>chat.openai.com (553)</li>
+<li>herts.instructure.com (553)</li>
 <li>github.com (546)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (526)</li>
 <li>forms.office.com (484)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:54 outlook.office.com</li>
+<ul><li> 16:48 www.herts.ac.uk</li>
+<li> 16:47 web.whatsapp.com</li>
+<li> 16:47 chatgpt.com</li>
+<li> 16:47 chat.openai.com</li>
+<li> 16:46 ask.herts.ac.uk</li>
+<li> 16:46 www.herts.ac.uk</li>
+<li> 16:46 duckduckgo.com</li>
+<li> 16:41 www.linkedin.com</li>
+<li> 16:41 mail.google.com</li>
+<li> 16:41 gmail.com</li>
+<li> 16:38 outlook.office.com</li>
+<li> 16:38 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:37 moodle.royalholloway.ac.uk</li>
+<li> 16:37 outlook.office.com</li>
+<li class='same'> 16:33 outlook.office.com</li>
+<li> 16:32 herts365-my.sharepoint.com</li>
+<li class='same'> 16:31 herts365-my.sharepoint.com</li>
+<li class='same'> 16:30 herts365-my.sharepoint.com</li>
+<li class='same'> 16:29 herts365-my.sharepoint.com</li>
+<li> 16:29 m365.cloud.microsoft</li>
+<li> 16:29 login.microsoftonline.com</li>
+<li> 16:28 outlook.office.com</li>
+<li> 16:24 chatgpt.com</li>
+<li class='same'> 16:23 chatgpt.com</li>
+<li> 16:23 chat.openai.com</li>
+<li> 16:21 outlook.office.com</li>
+<li> 15:58 ev.turnitinuk.com</li>
+<li> 15:58 herts.instructure.com</li>
+<li class='same'> 15:57 herts.instructure.com</li>
+<li class='same'> 15:56 herts.instructure.com</li>
+<li> 15:56 outlook.office.com</li>
+<li class='same'> 15:54 outlook.office.com</li>
 <li> 15:51 herts365-my.sharepoint.com</li>
 <li class='same'> 15:48 herts365-my.sharepoint.com</li>
 <li> 15:48 calendar.google.com</li>
