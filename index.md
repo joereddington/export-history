@@ -70,32 +70,32 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4078)</li>
 <li>www.reddit.com (3979)</li>
-<li>outlook.office.com (3931)</li>
+<li>outlook.office.com (3937)</li>
 <li>www.google.com (3893)</li>
-<li>outlook.office365.com (3650)</li>
-<li>docs.google.com (2610)</li>
-<li>duckduckgo.com (2237)</li>
+<li>outlook.office365.com (3661)</li>
+<li>docs.google.com (2611)</li>
+<li>duckduckgo.com (2239)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
-<li>chatgpt.com (1275)</li>
+<li>chatgpt.com (1277)</li>
 <li>www.linkedin.com (1206)</li>
-<li>login.microsoftonline.com (1060)</li>
+<li>login.microsoftonline.com (1064)</li>
 <li>www.amazon.co.uk (1009)</li>
-<li>calendar.google.com (964)</li>
-<li>moodle.royalholloway.ac.uk (815)</li>
-<li>rhul-my.sharepoint.com (797)</li>
+<li>calendar.google.com (967)</li>
+<li>moodle.royalholloway.ac.uk (818)</li>
+<li>rhul-my.sharepoint.com (798)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (627)</li>
 <li>web.whatsapp.com (581)</li>
-<li>chat.openai.com (550)</li>
-<li>herts.instructure.com (548)</li>
+<li>chat.openai.com (551)</li>
+<li>herts.instructure.com (550)</li>
 <li>github.com (546)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (526)</li>
 <li>forms.office.com (484)</li>
 <li>feedly.com (446)</li>
 <li>drive.google.com (427)</li>
-<li>rhul.sharepoint.com (341)</li>
+<li>rhul.sharepoint.com (345)</li>
 <li>fritz.box (339)</li>
 <li>adfs.herts.ac.uk (320)</li>
 
@@ -108,7 +108,63 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:52 rhul.sharepoint.com</li>
+<ul><li> 15:54 outlook.office.com</li>
+<li> 15:51 herts365-my.sharepoint.com</li>
+<li class='same'> 15:48 herts365-my.sharepoint.com</li>
+<li> 15:48 calendar.google.com</li>
+<li class='same'> 15:47 calendar.google.com</li>
+<li> 15:47 herts365-my.sharepoint.com</li>
+<li> 15:47 outlook.office.com</li>
+<li> 15:47 herts365-my.sharepoint.com</li>
+<li> 15:46 outlook.office.com</li>
+<li> 15:46 m365.cloud.microsoft</li>
+<li> 15:46 login.microsoftonline.com</li>
+<li> 15:46 ce0997li.webitrent.com</li>
+<li> 15:46 www.hr.herts.ac.uk</li>
+<li> 15:38 duckduckgo.com</li>
+<li class='same'> 15:37 duckduckgo.com</li>
+<li> 15:34 ev.turnitinuk.com</li>
+<li> 15:33 herts.instructure.com</li>
+<li> 15:33 herts365-my.sharepoint.com</li>
+<li> 15:32 herts.instructure.com</li>
+<li> 15:31 outlook.office.com</li>
+<li> 15:30 herts365-my.sharepoint.com</li>
+<li> 15:29 outlook.office.com</li>
+<li class='same'> 15:28 outlook.office.com</li>
+<li> 15:28 m365.cloud.microsoft</li>
+<li class='same'> 15:27 m365.cloud.microsoft</li>
+<li> 15:27 login.microsoftonline.com</li>
+<li class='same'> 15:26 login.microsoftonline.com</li>
+<li> 15:26 ce0997li.webitrent.com</li>
+<li> 15:25 login.microsoftonline.com</li>
+<li> 15:25 ce0997li.webitrent.com</li>
+<li> 15:25 www.hr.herts.ac.uk</li>
+<li> 15:25 outlook.office365.com</li>
+<li> 15:20 moodle.royalholloway.ac.uk</li>
+<li> 15:19 chatgpt.com</li>
+<li> 15:19 outlook.office365.com</li>
+<li class='same'> 15:18 outlook.office365.com</li>
+<li> 15:18 chatgpt.com</li>
+<li> 15:18 chat.openai.com</li>
+<li> 15:13 outlook.office365.com</li>
+<li class='same'> 15:12 outlook.office365.com</li>
+<li class='same'> 15:10 outlook.office365.com</li>
+<li> 15:10 ev.turnitinuk.com</li>
+<li> 15:10 moodle.royalholloway.ac.uk</li>
+<li> 15:09 rhul-my.sharepoint.com</li>
+<li> 15:09 moodle.royalholloway.ac.uk</li>
+<li> 15:06 outlook.office365.com</li>
+<li class='same'> 15:05 outlook.office365.com</li>
+<li class='same'> 15:04 outlook.office365.com</li>
+<li class='same'> 15:03 outlook.office365.com</li>
+<li> 15:03 calendar.google.com</li>
+<li> 15:02 docs.google.com</li>
+<li> 15:02 outlook.office365.com</li>
+<li> 14:59 rhul.sharepoint.com</li>
+<li class='same'> 14:58 rhul.sharepoint.com</li>
+<li class='same'> 14:57 rhul.sharepoint.com</li>
+<li class='same'> 14:56 rhul.sharepoint.com</li>
+<li class='same'> 14:52 rhul.sharepoint.com</li>
 <li class='same'> 14:49 rhul.sharepoint.com</li>
 <li class='same'> 14:48 rhul.sharepoint.com</li>
 <li class='same'> 14:47 rhul.sharepoint.com</li>
