@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (2240)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
-<li>chatgpt.com (1280)</li>
+<li>chatgpt.com (1281)</li>
 <li>www.linkedin.com (1207)</li>
 <li>login.microsoftonline.com (1065)</li>
 <li>www.amazon.co.uk (1009)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (628)</li>
-<li>web.whatsapp.com (582)</li>
-<li>chat.openai.com (553)</li>
-<li>herts.instructure.com (553)</li>
+<li>web.whatsapp.com (583)</li>
+<li>herts.instructure.com (558)</li>
+<li>chat.openai.com (554)</li>
 <li>github.com (546)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (526)</li>
 <li>forms.office.com (484)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:48 www.herts.ac.uk</li>
+<ul><li> 17:05 herts.instructure.com</li>
+<li> 17:02 chatgpt.com</li>
+<li> 17:02 chat.openai.com</li>
+<li> 16:57 ev.turnitinuk.com</li>
+<li> 16:57 herts.instructure.com</li>
+<li class='same'> 16:56 herts.instructure.com</li>
+<li class='same'> 16:55 herts.instructure.com</li>
+<li class='same'> 16:54 herts.instructure.com</li>
+<li> 16:54 web.whatsapp.com</li>
+<li> 16:48 www.herts.ac.uk</li>
 <li> 16:47 web.whatsapp.com</li>
 <li> 16:47 chatgpt.com</li>
 <li> 16:47 chat.openai.com</li>
