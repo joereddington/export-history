@@ -70,16 +70,16 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4075)</li>
 <li>www.reddit.com (3979)</li>
+<li>outlook.office.com (3901)</li>
 <li>www.google.com (3893)</li>
-<li>outlook.office.com (3890)</li>
 <li>outlook.office365.com (3644)</li>
 <li>docs.google.com (2610)</li>
-<li>duckduckgo.com (2230)</li>
+<li>duckduckgo.com (2231)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
 <li>chatgpt.com (1274)</li>
 <li>www.linkedin.com (1204)</li>
-<li>login.microsoftonline.com (1050)</li>
+<li>login.microsoftonline.com (1054)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>calendar.google.com (964)</li>
 <li>moodle.royalholloway.ac.uk (814)</li>
@@ -90,14 +90,14 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (579)</li>
 <li>chat.openai.com (549)</li>
 <li>github.com (543)</li>
+<li>herts.instructure.com (532)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (526)</li>
-<li>herts.instructure.com (523)</li>
 <li>forms.office.com (484)</li>
 <li>feedly.com (446)</li>
 <li>drive.google.com (427)</li>
 <li>fritz.box (339)</li>
 <li>rhul.sharepoint.com (337)</li>
-<li>adfs.herts.ac.uk (318)</li>
+<li>adfs.herts.ac.uk (320)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,60 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 06/11/25</H3>
+
+<br>
+
+<ul><li> 11:41 outlook.office.com</li>
+<li class='same'> 11:40 outlook.office.com</li>
+<li> 11:39 pubmed.ncbi.nlm.nih.gov</li>
+<li> 11:38 worldpopulationreview.com</li>
+<li> 11:38 www.who.int</li>
+<li> 11:37 pubmed.ncbi.nlm.nih.gov</li>
+<li> 11:36 btrc.gov.bd</li>
+<li> 11:35 ev.turnitinuk.com</li>
+<li> 11:35 herts.instructure.com</li>
+<li class='same'> 11:31 herts.instructure.com</li>
+<li> 11:30 outlook.office.com</li>
+<li class='same'> 11:29 outlook.office.com</li>
+<li> 11:27 t1b.gobright.cloud</li>
+<li> 11:27 outlook.office.com</li>
+<li class='same'> 11:25 outlook.office.com</li>
+<li> 11:25 t1b.gobright.cloud</li>
+<li> 11:25 portal.gobright.cloud</li>
+<li> 11:25 outlook.office.com</li>
+<li> 11:25 m365.cloud.microsoft</li>
+<li> 11:25 login.microsoftonline.com</li>
+<li> 11:25 ce0997li.webitrent.com</li>
+<li> 11:25 www.hr.herts.ac.uk</li>
+<li> 11:24 ieeexplore.ieee.org</li>
+<li> 11:23 ev.turnitinuk.com</li>
+<li> 11:23 herts.instructure.com</li>
+<li> 11:23 www.nature.com</li>
+<li> 11:23 duckduckgo.com</li>
+<li> 11:15 herts.instructure.com</li>
+<li> 11:12 ev.turnitinuk.com</li>
+<li> 11:12 herts.instructure.com</li>
+<li> 11:12 outlook.office.com</li>
+<li> 11:12 herts.instructure.com</li>
+<li> 11:12 portal.gobright.cloud</li>
+<li> 11:12 herts.instructure.com</li>
+<li class='same'> 11:11 herts.instructure.com</li>
+<li> 11:11 adfs.herts.ac.uk</li>
+<li> 11:11 api-b6327e78.duosecurity.com</li>
+<li> 11:11 adfs.herts.ac.uk</li>
+<li> 11:11 herts.instructure.com</li>
+<li> 11:11 outlook.office.com</li>
+<li class='same'> 11:10 outlook.office.com</li>
+<li> 11:07 herts365-my.sharepoint.com</li>
+<li> 11:07 outlook.office.com</li>
+<li> 11:07 m365.cloud.microsoft</li>
+<li> 11:07 login.microsoftonline.com</li>
+<li> 11:07 ce0997li.webitrent.com</li>
+<li> 11:07 login.microsoftonline.com</li>
+<li> 11:07 ce0997li.webitrent.com</li>
+<li> 11:07 login.microsoftonline.com</li>
+<li> 11:07 www.hr.herts.ac.uk</li>
+</ul>
 
 <br>
 
