@@ -70,16 +70,16 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4075)</li>
 <li>www.reddit.com (3979)</li>
-<li>outlook.office.com (3915)</li>
+<li>outlook.office.com (3922)</li>
 <li>www.google.com (3893)</li>
 <li>outlook.office365.com (3644)</li>
 <li>docs.google.com (2610)</li>
-<li>duckduckgo.com (2231)</li>
+<li>duckduckgo.com (2233)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
 <li>chatgpt.com (1274)</li>
 <li>www.linkedin.com (1204)</li>
-<li>login.microsoftonline.com (1055)</li>
+<li>login.microsoftonline.com (1056)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>calendar.google.com (964)</li>
 <li>moodle.royalholloway.ac.uk (814)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (580)</li>
 <li>chat.openai.com (549)</li>
 <li>github.com (546)</li>
-<li>herts.instructure.com (538)</li>
+<li>herts.instructure.com (545)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (526)</li>
 <li>forms.office.com (484)</li>
 <li>feedly.com (446)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:49 outlook.office.com</li>
+<ul><li> 13:47 herts.instructure.com</li>
+<li class='same'> 13:46 herts.instructure.com</li>
+<li> 13:46 www.hr.herts.ac.uk</li>
+<li> 13:45 outlook.office.com</li>
+<li class='same'> 13:44 outlook.office.com</li>
+<li class='same'> 13:43 outlook.office.com</li>
+<li> 13:43 m365.cloud.microsoft</li>
+<li> 13:43 login.microsoftonline.com</li>
+<li> 13:41 www.sciencedirect.com</li>
+<li> 13:40 linkinghub.elsevier.com</li>
+<li> 13:40 duckduckgo.com</li>
+<li> 13:39 arxiv.org</li>
+<li> 13:37 ev.turnitinuk.com</li>
+<li> 13:37 herts.instructure.com</li>
+<li> 13:37 arxiv.org</li>
+<li> 13:37 duckduckgo.com</li>
+<li> 13:36 ev.turnitinuk.com</li>
+<li> 13:36 herts.instructure.com</li>
+<li class='same'> 13:35 herts.instructure.com</li>
+<li> 13:34 outlook.office.com</li>
+<li> 13:34 herts.instructure.com</li>
+<li> 13:33 outlook.office.com</li>
+<li class='same'> 13:31 outlook.office.com</li>
+<li> 13:18 herts.instructure.com</li>
+<li> 12:59 outlook.office.com</li>
+<li class='same'> 12:49 outlook.office.com</li>
 <li class='same'> 12:48 outlook.office.com</li>
 <li> 12:47 herts.instructure.com</li>
 <li class='same'> 12:46 herts.instructure.com</li>
