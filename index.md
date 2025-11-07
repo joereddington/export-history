@@ -72,14 +72,14 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (3979)</li>
 <li>outlook.office.com (3943)</li>
 <li>www.google.com (3897)</li>
-<li>outlook.office365.com (3663)</li>
+<li>outlook.office365.com (3666)</li>
 <li>docs.google.com (2611)</li>
-<li>duckduckgo.com (2240)</li>
+<li>duckduckgo.com (2242)</li>
 <li>bsky.app (1581)</li>
-<li>www.facebook.com (1450)</li>
-<li>chatgpt.com (1282)</li>
-<li>www.linkedin.com (1208)</li>
-<li>login.microsoftonline.com (1062)</li>
+<li>www.facebook.com (1451)</li>
+<li>chatgpt.com (1284)</li>
+<li>www.linkedin.com (1212)</li>
+<li>login.microsoftonline.com (1063)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>calendar.google.com (967)</li>
 <li>moodle.royalholloway.ac.uk (820)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (628)</li>
-<li>web.whatsapp.com (583)</li>
+<li>web.whatsapp.com (584)</li>
 <li>herts.instructure.com (558)</li>
-<li>chat.openai.com (555)</li>
+<li>chat.openai.com (556)</li>
 <li>github.com (546)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (528)</li>
 <li>forms.office.com (484)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:36 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<ul><li> 11:37 chatgpt.com</li>
+<li class='same'> 11:36 chatgpt.com</li>
+<li> 11:36 chat.openai.com</li>
+<li> 11:35 www.linkedin.com</li>
+<li> 11:30 www.facebook.com</li>
+<li> 11:26 duckduckgo.com</li>
+<li> 11:23 www.linkedin.com</li>
+<li> 11:09 pcut.royalholloway.ac.uk</li>
+<li class='same'> 11:08 pcut.royalholloway.ac.uk</li>
+<li> 11:08 login.microsoftonline.com</li>
+<li> 11:08 pcut.royalholloway.ac.uk</li>
+<li> 11:07 intranet.royalholloway.ac.uk</li>
+<li> 11:07 duckduckgo.com</li>
+<li> 10:54 www.linkedin.com</li>
+<li> 10:54 outlook.office365.com</li>
+<li class='same'> 10:49 outlook.office365.com</li>
+<li class='same'> 10:44 outlook.office365.com</li>
+<li> 10:44 www.linkedin.com</li>
+<li> 10:43 web.whatsapp.com</li>
+<li> 10:36 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
 <li> 10:17 www.google.com</li>
 </ul>
 
