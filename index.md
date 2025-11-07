@@ -72,16 +72,16 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (3979)</li>
 <li>outlook.office.com (3943)</li>
 <li>www.google.com (3897)</li>
-<li>outlook.office365.com (3666)</li>
+<li>outlook.office365.com (3673)</li>
 <li>docs.google.com (2611)</li>
 <li>duckduckgo.com (2242)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1451)</li>
 <li>chatgpt.com (1284)</li>
-<li>www.linkedin.com (1215)</li>
-<li>login.microsoftonline.com (1063)</li>
+<li>www.linkedin.com (1220)</li>
+<li>login.microsoftonline.com (1064)</li>
 <li>www.amazon.co.uk (1009)</li>
-<li>calendar.google.com (967)</li>
+<li>calendar.google.com (968)</li>
 <li>moodle.royalholloway.ac.uk (820)</li>
 <li>rhul-my.sharepoint.com (798)</li>
 <li>www.theguardian.com (685)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 07/11/25</H3>
+
+<br>
+
+<ul><li> 15:15 www.linkedin.com</li>
+<li class='same'> 15:14 www.linkedin.com</li>
+<li> 15:14 outlook.office365.com</li>
+<li class='same'> 15:13 outlook.office365.com</li>
+<li class='same'> 15:12 outlook.office365.com</li>
+<li> 15:09 calendar.google.com</li>
+<li> 15:08 outlook.office365.com</li>
+<li class='same'> 15:06 outlook.office365.com</li>
+<li> 15:05 www.whitewaterwriters.com</li>
+<li> 15:03 www.linkedin.com</li>
+<li> 15:03 outlook.office365.com</li>
+<li> 15:03 login.microsoftonline.com</li>
+<li> 15:03 outlook.office365.com</li>
+<li> 15:01 www.linkedin.com</li>
+<li class='same'> 15:00 www.linkedin.com</li>
+</ul>
 
 <br>
 
