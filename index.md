@@ -71,14 +71,14 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4079)</li>
 <li>www.reddit.com (3979)</li>
 <li>outlook.office.com (3943)</li>
-<li>www.google.com (3896)</li>
+<li>www.google.com (3897)</li>
 <li>outlook.office365.com (3663)</li>
 <li>docs.google.com (2611)</li>
 <li>duckduckgo.com (2240)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
 <li>chatgpt.com (1282)</li>
-<li>www.linkedin.com (1207)</li>
+<li>www.linkedin.com (1208)</li>
 <li>login.microsoftonline.com (1062)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>calendar.google.com (967)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:16 adblockplus.org</li>
+<ul><li> 10:36 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 10:17 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:25 www.linkedin.com</li>
+<li> 07:16 adblockplus.org</li>
 <li> 07:15 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
 <li> 07:11 chatgpt.com</li>
 <li> 07:11 chat.openai.com</li>
