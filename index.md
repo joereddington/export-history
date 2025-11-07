@@ -72,30 +72,30 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (3979)</li>
 <li>outlook.office.com (3943)</li>
 <li>www.google.com (3897)</li>
-<li>outlook.office365.com (3686)</li>
+<li>outlook.office365.com (3690)</li>
 <li>docs.google.com (2611)</li>
-<li>duckduckgo.com (2244)</li>
+<li>duckduckgo.com (2245)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1451)</li>
-<li>chatgpt.com (1284)</li>
-<li>www.linkedin.com (1225)</li>
+<li>chatgpt.com (1286)</li>
+<li>www.linkedin.com (1227)</li>
 <li>login.microsoftonline.com (1066)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>calendar.google.com (968)</li>
-<li>moodle.royalholloway.ac.uk (822)</li>
-<li>rhul-my.sharepoint.com (799)</li>
+<li>moodle.royalholloway.ac.uk (828)</li>
+<li>rhul-my.sharepoint.com (801)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (628)</li>
 <li>web.whatsapp.com (584)</li>
 <li>herts.instructure.com (558)</li>
-<li>chat.openai.com (556)</li>
+<li>chat.openai.com (557)</li>
 <li>github.com (546)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (528)</li>
 <li>forms.office.com (487)</li>
 <li>feedly.com (446)</li>
 <li>drive.google.com (427)</li>
-<li>rhul.sharepoint.com (345)</li>
+<li>rhul.sharepoint.com (348)</li>
 <li>fritz.box (339)</li>
 <li>adfs.herts.ac.uk (320)</li>
 
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:37 moodle.royalholloway.ac.uk</li>
+<ul><li> 18:31 www.linkedin.com</li>
+<li> 18:30 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:29 moodle.royalholloway.ac.uk</li>
+<li> 18:26 chatgpt.com</li>
+<li class='same'> 18:25 chatgpt.com</li>
+<li> 18:25 chat.openai.com</li>
+<li> 18:22 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:21 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:20 moodle.royalholloway.ac.uk</li>
+<li> 18:16 outlook.office365.com</li>
+<li> 18:14 rhul.sharepoint.com</li>
+<li> 18:14 rhul-my.sharepoint.com</li>
+<li> 18:12 www.linkedin.com</li>
+<li> 18:09 www.royalholloway.ac.uk</li>
+<li class='same'> 18:08 www.royalholloway.ac.uk</li>
+<li> 18:08 duckduckgo.com</li>
+<li> 18:07 rhul.sharepoint.com</li>
+<li class='same'> 18:06 rhul.sharepoint.com</li>
+<li> 18:06 rhul-my.sharepoint.com</li>
+<li> 18:04 outlook.office365.com</li>
+<li class='same'> 18:02 outlook.office365.com</li>
+<li class='same'> 17:45 outlook.office365.com</li>
+<li> 17:38 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:37 moodle.royalholloway.ac.uk</li>
 <li> 17:37 login.microsoftonline.com</li>
 <li> 17:37 moodle.royalholloway.ac.uk</li>
 <li> 17:35 outlook.office365.com</li>
