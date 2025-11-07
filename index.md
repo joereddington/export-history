@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (3979)</li>
 <li>outlook.office.com (3943)</li>
 <li>www.google.com (3896)</li>
-<li>outlook.office365.com (3659)</li>
+<li>outlook.office365.com (3663)</li>
 <li>docs.google.com (2611)</li>
 <li>duckduckgo.com (2240)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1450)</li>
-<li>chatgpt.com (1281)</li>
+<li>chatgpt.com (1282)</li>
 <li>www.linkedin.com (1207)</li>
 <li>login.microsoftonline.com (1062)</li>
 <li>www.amazon.co.uk (1009)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (628)</li>
 <li>web.whatsapp.com (583)</li>
 <li>herts.instructure.com (558)</li>
-<li>chat.openai.com (554)</li>
+<li>chat.openai.com (555)</li>
 <li>github.com (546)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (528)</li>
 <li>forms.office.com (484)</li>
@@ -104,7 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 07/11/25</H3>
+
+<br>
+
+<ul><li> 07:16 adblockplus.org</li>
+<li> 07:15 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 07:11 chatgpt.com</li>
+<li> 07:11 chat.openai.com</li>
+<li> 07:00 intranet.royalholloway.ac.uk</li>
+<li> 06:59 outlook.office365.com</li>
+<li> 06:51 intranet.royalholloway.ac.uk</li>
+<li> 06:51 outlook.office365.com</li>
+<li class='same'> 06:47 outlook.office365.com</li>
+<li> 06:47 app.onlinesurveys.jisc.ac.uk</li>
+<li> 06:46 outlook.office365.com</li>
+</ul>
+
 <H3>Thursday, 06/11/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
