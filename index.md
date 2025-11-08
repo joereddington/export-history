@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4081)</li>
-<li>www.reddit.com (3979)</li>
+<ol><li>mail.google.com (4082)</li>
+<li>www.reddit.com (3982)</li>
 <li>outlook.office.com (3943)</li>
 <li>www.google.com (3897)</li>
 <li>outlook.office365.com (3690)</li>
@@ -78,9 +78,9 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1451)</li>
 <li>chatgpt.com (1286)</li>
-<li>www.linkedin.com (1229)</li>
+<li>www.linkedin.com (1232)</li>
 <li>login.microsoftonline.com (1062)</li>
-<li>www.amazon.co.uk (1009)</li>
+<li>www.amazon.co.uk (1011)</li>
 <li>calendar.google.com (968)</li>
 <li>moodle.royalholloway.ac.uk (827)</li>
 <li>rhul-my.sharepoint.com (798)</li>
@@ -91,9 +91,9 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (558)</li>
 <li>chat.openai.com (557)</li>
 <li>github.com (546)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (528)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (529)</li>
 <li>forms.office.com (485)</li>
-<li>feedly.com (446)</li>
+<li>feedly.com (447)</li>
 <li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (348)</li>
 <li>fritz.box (339)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:22 www.linkedin.com</li>
+<ul><li> 08:23 feedly.com</li>
+<li> 08:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:19 www.linkedin.com</li>
+<li> 08:18 www.researchgate.net</li>
+<li> 08:17 ieeexplore.ieee.org</li>
+<li> 08:17 www.mdpi.com</li>
+<li> 08:16 mail.google.com</li>
+<li> 08:16 libbyapp.com</li>
+<li> 08:16 www.reddit.com</li>
+<li> 08:16 www.amazon.co.uk</li>
+<li class='same'> 08:15 www.amazon.co.uk</li>
+<li> 08:14 www.ebay.co.uk</li>
+<li class='same'> 08:13 www.ebay.co.uk</li>
+<li> 08:13 www.reddit.com</li>
+<li> 08:13 libbyapp.com</li>
+<li> 08:12 www.linkedin.com</li>
+<li> 08:12 libbyapp.com</li>
+<li> 08:12 www.reddit.com</li>
+<li> 08:12 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:22 www.linkedin.com</li>
 <li class='same'> 07:21 www.linkedin.com</li>
 <li> 07:21 mail.google.com</li>
 <li class='same'> 07:20 mail.google.com</li>
