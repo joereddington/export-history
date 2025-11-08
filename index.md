@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4079)</li>
+<ol><li>mail.google.com (4081)</li>
 <li>www.reddit.com (3979)</li>
 <li>outlook.office.com (3943)</li>
 <li>www.google.com (3897)</li>
 <li>outlook.office365.com (3690)</li>
-<li>docs.google.com (2611)</li>
-<li>duckduckgo.com (2245)</li>
+<li>docs.google.com (2612)</li>
+<li>duckduckgo.com (2246)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1451)</li>
 <li>chatgpt.com (1286)</li>
-<li>www.linkedin.com (1227)</li>
+<li>www.linkedin.com (1229)</li>
 <li>login.microsoftonline.com (1062)</li>
 <li>www.amazon.co.uk (1009)</li>
 <li>calendar.google.com (968)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (798)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
-<li>gmail.com (628)</li>
+<li>gmail.com (629)</li>
 <li>web.whatsapp.com (584)</li>
 <li>herts.instructure.com (558)</li>
 <li>chat.openai.com (557)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (528)</li>
 <li>forms.office.com (485)</li>
 <li>feedly.com (446)</li>
-<li>drive.google.com (427)</li>
+<li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (348)</li>
 <li>fritz.box (339)</li>
 <li>adfs.herts.ac.uk (319)</li>
@@ -104,7 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 08/11/25</H3>
+
+<br>
+
+<ul><li> 07:22 www.linkedin.com</li>
+<li class='same'> 07:21 www.linkedin.com</li>
+<li> 07:21 mail.google.com</li>
+<li class='same'> 07:20 mail.google.com</li>
+<li> 07:20 gmail.com</li>
+<li> 07:01 www.teachoo.com</li>
+<li> 07:01 duckduckgo.com</li>
+<li> 06:54 <a href="https://www.youtube.com/watch?v=nLUe7zX5V-c">(2) GCSE Maths: N4-14 [Finding the Square Root of an Integer] - YouTube</a></li>
+<li> 06:54 <a href="https://www.youtube.com/watch?v=nLUe7zX5V-c&feature=youtu.be">GCSE Maths: N4-14 [Finding the Square Root of an Integer] - YouTube</a></li>
+<li> 06:54 docs.google.com</li>
+<li> 06:54 drive.google.com</li>
+</ul>
+
 <H3>Friday, 07/11/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
