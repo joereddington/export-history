@@ -74,11 +74,11 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3898)</li>
 <li>outlook.office365.com (3690)</li>
 <li>docs.google.com (2612)</li>
-<li>duckduckgo.com (2246)</li>
+<li>duckduckgo.com (2247)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1451)</li>
-<li>chatgpt.com (1286)</li>
-<li>www.linkedin.com (1232)</li>
+<li>chatgpt.com (1288)</li>
+<li>www.linkedin.com (1234)</li>
 <li>login.microsoftonline.com (1060)</li>
 <li>www.amazon.co.uk (1011)</li>
 <li>calendar.google.com (968)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (629)</li>
-<li>web.whatsapp.com (584)</li>
-<li>herts.instructure.com (558)</li>
-<li>chat.openai.com (557)</li>
+<li>web.whatsapp.com (585)</li>
+<li>herts.instructure.com (565)</li>
+<li>chat.openai.com (558)</li>
 <li>github.com (546)</li>
 <li><a href="https://www.theguardian.com/uk">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a> (530)</li>
 <li>forms.office.com (485)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (347)</li>
 <li>fritz.box (339)</li>
-<li><a href="https://www.theguardian.com/">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a> (320)</li>
+<li>adfs.herts.ac.uk (322)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 09/11/25</H3>
+
+<br>
+
+<ul><li> 15:01 www.linkedin.com</li>
+<li class='same'> 15:00 www.linkedin.com</li>
+<li> 15:00 duckduckgo.com</li>
+<li> 14:30 herts.instructure.com</li>
+<li> 14:16 web.whatsapp.com</li>
+<li> 14:09 herts.instructure.com</li>
+<li class='same'> 14:08 herts.instructure.com</li>
+<li> 13:52 chatgpt.com</li>
+<li> 13:49 herts.instructure.com</li>
+<li class='same'> 13:48 herts.instructure.com</li>
+<li class='same'> 13:47 herts.instructure.com</li>
+<li> 13:47 adfs.herts.ac.uk</li>
+<li> 13:47 api-b6327e78.duosecurity.com</li>
+<li> 13:47 adfs.herts.ac.uk</li>
+<li> 13:47 herts.instructure.com</li>
+<li> 13:47 adfs.herts.ac.uk</li>
+<li> 13:45 chatgpt.com</li>
+<li> 13:45 chat.openai.com</li>
+</ul>
 
 <br>
 
