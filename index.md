@@ -74,10 +74,10 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3898)</li>
 <li>outlook.office365.com (3690)</li>
 <li>docs.google.com (2612)</li>
-<li>duckduckgo.com (2247)</li>
+<li>duckduckgo.com (2248)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1451)</li>
-<li>chatgpt.com (1288)</li>
+<li>chatgpt.com (1290)</li>
 <li>www.linkedin.com (1234)</li>
 <li>login.microsoftonline.com (1060)</li>
 <li>www.amazon.co.uk (1011)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:01 www.linkedin.com</li>
+<ul><li> 15:17 <a href="https://en.wikipedia.org/wiki/Spider-Man:_Beyond_the_Spider-Verse">Spider-Man: Beyond the Spider-Verse - Wikipedia</a></li>
+<li> 15:17 duckduckgo.com</li>
+<li> 15:14 chatgpt.com</li>
+<li class='same'> 15:06 chatgpt.com</li>
+<li> 15:01 www.linkedin.com</li>
 <li class='same'> 15:00 www.linkedin.com</li>
 <li> 15:00 duckduckgo.com</li>
 <li> 14:30 herts.instructure.com</li>
