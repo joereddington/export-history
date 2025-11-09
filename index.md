@@ -70,8 +70,8 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4082)</li>
 <li>www.reddit.com (3983)</li>
-<li>outlook.office.com (3943)</li>
-<li>www.google.com (3898)</li>
+<li>outlook.office.com (3942)</li>
+<li>www.google.com (3896)</li>
 <li>outlook.office365.com (3690)</li>
 <li>docs.google.com (2612)</li>
 <li>duckduckgo.com (2246)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1451)</li>
 <li>chatgpt.com (1286)</li>
 <li>www.linkedin.com (1232)</li>
-<li>login.microsoftonline.com (1062)</li>
+<li>login.microsoftonline.com (1060)</li>
 <li>www.amazon.co.uk (1011)</li>
 <li>calendar.google.com (968)</li>
 <li>moodle.royalholloway.ac.uk (827)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (485)</li>
 <li>feedly.com (447)</li>
 <li>drive.google.com (428)</li>
-<li>rhul.sharepoint.com (348)</li>
+<li>rhul.sharepoint.com (347)</li>
 <li>fritz.box (339)</li>
 <li>adfs.herts.ac.uk (319)</li>
 
@@ -20180,7 +20180,6 @@ With number of accesses/minutes in parentheses
 <li> 12:14 outlook.office365.com</li>
 <li class='same'> 12:13 outlook.office365.com</li>
 <li> 12:13 www.airbnb.co.uk</li>
-<li class='same'> 12:11 www.airbnb.co.uk</li>
 <li class='same'> 12:10 www.airbnb.co.uk</li>
 <li> 12:10 outlook.office365.com</li>
 <li> 12:10 web.whatsapp.com</li>
@@ -20213,8 +20212,6 @@ With number of accesses/minutes in parentheses
 <li> 11:43 www.reddit.com</li>
 <li> 11:42 duckduckgo.com</li>
 <li> 11:37 rhul-my.sharepoint.com</li>
-<li> 11:37 outlook.office.com</li>
-<li> 11:37 login.microsoftonline.com</li>
 <li> 11:37 outlook.office.com</li>
 <li> 11:36 outlook.office365.com</li>
 <li> 11:25 web.whatsapp.com</li>
@@ -20265,10 +20262,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:48 www.google.com</li>
 <li> 07:48 <a href="https://www.theguardian.com/film/2025/jul/11/id-be-proud-to-be-thrown-out-of-america-eric-idle-on-trump-life-after-python-and-not-talking-before-lunch">‘I’d be proud to be thrown out of America!’ Eric Idle on Trump, life after Python and not talking before lunch | Film | The Guardian</a></li>
 <li> 07:22 rhul-my.sharepoint.com</li>
-<li> 07:21 rhul.sharepoint.com</li>
-<li> 07:21 rhul-my.sharepoint.com</li>
+<li class='same'> 07:21 rhul-my.sharepoint.com</li>
 <li> 07:19 outlook.office365.com</li>
-<li> 07:18 login.microsoftonline.com</li>
 </ul>
 
 <br>
@@ -20329,16 +20324,13 @@ With number of accesses/minutes in parentheses
 <li> 14:36 www.linkedin.com</li>
 <li class='same'> 14:35 www.linkedin.com</li>
 <li> 14:35 cz.linkedin.com</li>
-<li> 14:35 www.google.com</li>
-<li class='same'> 14:34 www.google.com</li>
+<li> 14:34 www.google.com</li>
 <li> 14:34 mail.google.com</li>
 <li> 14:34 gmail.com</li>
 <li> 14:33 www.reddit.com</li>
 <li> 14:31 mail.google.com</li>
 <li> 14:31 gmail.com</li>
 <li> 14:31 mail.google.com</li>
-<li> 14:27 teams.microsoft.com</li>
-<li> 14:27 www.google.com</li>
 <li> 14:27 teams.microsoft.com</li>
 <li> 14:27 calendar.google.com</li>
 <li> 14:27 mail.google.com</li>
