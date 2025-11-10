@@ -72,18 +72,18 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (3984)</li>
 <li>outlook.office.com (3942)</li>
 <li>www.google.com (3899)</li>
-<li>outlook.office365.com (3700)</li>
+<li>outlook.office365.com (3703)</li>
 <li>docs.google.com (2612)</li>
-<li>duckduckgo.com (2252)</li>
+<li>duckduckgo.com (2253)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1451)</li>
 <li>chatgpt.com (1292)</li>
 <li>www.linkedin.com (1235)</li>
-<li>login.microsoftonline.com (1062)</li>
+<li>login.microsoftonline.com (1063)</li>
 <li>www.amazon.co.uk (1011)</li>
 <li>calendar.google.com (968)</li>
 <li>moodle.royalholloway.ac.uk (829)</li>
-<li>rhul-my.sharepoint.com (798)</li>
+<li>rhul-my.sharepoint.com (800)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (629)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 10/11/25</H3>
+
+<br>
+
+<ul><li> 16:35 rhul-my.sharepoint.com</li>
+<li> 16:35 login.microsoftonline.com</li>
+<li> 16:35 outlook.office365.com</li>
+<li class='same'> 16:34 outlook.office365.com</li>
+<li> 16:33 adblockplus.org</li>
+<li> 16:33 rhul-my.sharepoint.com</li>
+<li> 16:30 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:04 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 13:55 duckduckgo.com</li>
+</ul>
 
 <br>
 
