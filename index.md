@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (3984)</li>
 <li>outlook.office.com (3942)</li>
 <li>www.google.com (3899)</li>
-<li>outlook.office365.com (3696)</li>
+<li>outlook.office365.com (3700)</li>
 <li>docs.google.com (2612)</li>
 <li>duckduckgo.com (2252)</li>
 <li>bsky.app (1581)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (629)</li>
-<li>web.whatsapp.com (586)</li>
+<li>web.whatsapp.com (587)</li>
 <li>herts.instructure.com (566)</li>
 <li>chat.openai.com (558)</li>
 <li>github.com (546)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 10/11/25</H3>
+
+<br>
+
+<ul><li> 11:24 outlook.office365.com</li>
+<li class='same'> 11:01 outlook.office365.com</li>
+<li class='same'> 11:00 outlook.office365.com</li>
+<li> 10:58 web.whatsapp.com</li>
+<li> 10:57 outlook.office365.com</li>
+</ul>
 
 <br>
 
