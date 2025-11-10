@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1451)</li>
 <li>chatgpt.com (1292)</li>
-<li>www.linkedin.com (1234)</li>
+<li>www.linkedin.com (1235)</li>
 <li>login.microsoftonline.com (1062)</li>
 <li>www.amazon.co.uk (1011)</li>
 <li>calendar.google.com (968)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:57 outlook.office365.com</li>
+<ul><li> 07:58 www.linkedin.com</li>
+<li> 07:57 outlook.office365.com</li>
 <li class='same'> 07:51 outlook.office365.com</li>
 <li class='same'> 07:50 outlook.office365.com</li>
 <li class='same'> 07:48 outlook.office365.com</li>
