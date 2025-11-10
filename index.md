@@ -20202,9 +20202,7 @@ With number of accesses/minutes in parentheses
 <li> 13:06 www.atwevents.co.uk</li>
 <li> 13:05 calendar.google.com</li>
 <li> 13:04 www.atwevents.co.uk</li>
-<li> 13:04 www.google.co.uk</li>
-<li class='same'> 13:03 www.google.co.uk</li>
-<li class='same'> 13:02 www.google.co.uk</li>
+<li> 13:02 www.google.co.uk</li>
 <li class='same'> 13:01 www.google.co.uk</li>
 <li> 13:01 duckduckgo.com</li>
 <li> 13:01 www.atwevents.co.uk</li>
