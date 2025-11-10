@@ -71,29 +71,29 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4082)</li>
 <li>www.reddit.com (3984)</li>
 <li>outlook.office.com (3942)</li>
-<li>www.google.com (3898)</li>
-<li>outlook.office365.com (3690)</li>
+<li>www.google.com (3899)</li>
+<li>outlook.office365.com (3696)</li>
 <li>docs.google.com (2612)</li>
-<li>duckduckgo.com (2248)</li>
+<li>duckduckgo.com (2252)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1451)</li>
-<li>chatgpt.com (1290)</li>
+<li>chatgpt.com (1292)</li>
 <li>www.linkedin.com (1234)</li>
-<li>login.microsoftonline.com (1060)</li>
+<li>login.microsoftonline.com (1062)</li>
 <li>www.amazon.co.uk (1011)</li>
 <li>calendar.google.com (968)</li>
-<li>moodle.royalholloway.ac.uk (827)</li>
+<li>moodle.royalholloway.ac.uk (829)</li>
 <li>rhul-my.sharepoint.com (798)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (629)</li>
 <li>gmail.com (629)</li>
-<li>web.whatsapp.com (585)</li>
-<li>herts.instructure.com (565)</li>
+<li>web.whatsapp.com (586)</li>
+<li>herts.instructure.com (566)</li>
 <li>chat.openai.com (558)</li>
 <li>github.com (546)</li>
 <li><a href="https://www.theguardian.com/uk">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a> (530)</li>
 <li>forms.office.com (485)</li>
-<li>feedly.com (447)</li>
+<li>feedly.com (448)</li>
 <li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (347)</li>
 <li>fritz.box (339)</li>
@@ -104,7 +104,53 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 10/11/25</H3>
+
+<br>
+
+<ul><li> 07:57 outlook.office365.com</li>
+<li class='same'> 07:51 outlook.office365.com</li>
+<li class='same'> 07:50 outlook.office365.com</li>
+<li class='same'> 07:48 outlook.office365.com</li>
+<li class='same'> 07:47 outlook.office365.com</li>
+<li> 07:47 login.microsoftonline.com</li>
+<li> 07:47 outlook.office365.com</li>
+<li> 07:37 www.sciencedirect.com</li>
+<li> 07:37 scholar.google.com</li>
+<li> 07:36 www.mdpi.com</li>
+<li> 07:35 chatgpt.com</li>
+<li class='same'> 07:34 chatgpt.com</li>
+<li> 07:31 moodle.royalholloway.ac.uk</li>
+<li> 07:31 login.microsoftonline.com</li>
+<li> 07:31 moodle.royalholloway.ac.uk</li>
+<li> 07:29 duckduckgo.com</li>
+<li> 07:29 committees.parliament.uk</li>
+<li class='same'> 07:28 committees.parliament.uk</li>
+<li> 07:28 ico.org.uk</li>
+<li> 07:28 duckduckgo.com</li>
+<li> 07:26 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=history">2015 TalkTalk data breach: Revision history - Wikipedia</a></li>
+<li> 07:26 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 07:26 duckduckgo.com</li>
+<li> 07:26 web.whatsapp.com</li>
+<li> 07:23 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 07:23 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&oldid=957809738">British Airways data breach - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history&offset=&limit=250">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 07:22 www.google.com</li>
+<li> 07:20 feedly.com</li>
+<li> 07:20 <a href="http://www.theguardian.com/technology/2015/jan/06/personal-details-moonpig-exposed-security-bug"></a></li>
+<li> 07:20 www.digitalspy.com</li>
+<li> 07:19 duckduckgo.com</li>
+<li> 07:16 web.archive.org</li>
+<li> 07:02 herts.instructure.com</li>
+</ul>
+
 <H3>Sunday, 09/11/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -69347,7 +69393,8 @@ With number of accesses/minutes in parentheses
 <li> 15:32 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
 <li> 15:27 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
 <li> 15:24 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-<li class='same'> 15:22 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 15:22 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 15:22 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
 <li> 15:20 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
 <li> 15:20 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=history">Information security: Revision history - Wikipedia</a></li>
 <li> 15:20 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
@@ -69580,7 +69627,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:17 www.facebook.com</li>
 <li> 07:14 calendar.google.com</li>
 <li> 06:56 mail.google.com</li>
-<li class='same'> 06:30 mail.google.com</li>
+<li> 06:50 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 06:30 mail.google.com</li>
 <li class='same'> 06:29 mail.google.com</li>
 <li> 06:28 osswa.co.uk</li>
 <li class='same'> 06:15 osswa.co.uk</li>
@@ -71009,6 +71057,7 @@ With number of accesses/minutes in parentheses
 <li> 06:54 www.natesilver.net</li>
 <li> 06:31 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 06:23 ico.org.uk</li>
+<li> 06:19 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
 <li> 06:18 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
 <li> 06:17 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 06:13 rhul-my.sharepoint.com</li>
@@ -76894,7 +76943,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:01 forum.artofmemory.com</li>
+<ul><li> 07:03 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 07:01 forum.artofmemory.com</li>
 </ul>
 
 <H3>Tuesday, 30/04/24</H3>
@@ -76933,6 +76983,7 @@ With number of accesses/minutes in parentheses
 <li> 21:18 www.bbc.com</li>
 <li> 21:18 <a href="https://www.bbc.co.uk/news/technology-54568784">British Airways fined £20m over data breach - BBC News</a></li>
 <li> 21:16 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 21:16 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -77339,6 +77390,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:04 www.instagram.com</li>
 <li> 15:03 www.google.com</li>
+<li> 14:53 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
 <li> 14:51 accounts.google.com</li>
 </ul>
 
@@ -77588,7 +77640,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:38 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
+<ul><li> 20:41 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li class='same'> 20:39 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 20:38 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
 </ul>
 
 <br>
