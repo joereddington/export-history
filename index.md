@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4082)</li>
-<li>www.reddit.com (3984)</li>
-<li>outlook.office.com (3954)</li>
+<li>www.reddit.com (3985)</li>
+<li>outlook.office.com (3962)</li>
 <li>www.google.com (3899)</li>
 <li>outlook.office365.com (3723)</li>
 <li>docs.google.com (2612)</li>
-<li>duckduckgo.com (2256)</li>
+<li>duckduckgo.com (2258)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1451)</li>
-<li>chatgpt.com (1296)</li>
-<li>www.linkedin.com (1235)</li>
-<li>login.microsoftonline.com (1065)</li>
+<li>chatgpt.com (1298)</li>
+<li>www.linkedin.com (1237)</li>
+<li>login.microsoftonline.com (1070)</li>
 <li>www.amazon.co.uk (1011)</li>
 <li>calendar.google.com (974)</li>
 <li>moodle.royalholloway.ac.uk (832)</li>
@@ -89,11 +89,11 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (629)</li>
 <li>web.whatsapp.com (589)</li>
 <li>herts.instructure.com (567)</li>
-<li>chat.openai.com (560)</li>
+<li>chat.openai.com (561)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a> (530)</li>
 <li>forms.office.com (493)</li>
-<li>feedly.com (448)</li>
+<li>feedly.com (449)</li>
 <li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (351)</li>
 <li>fritz.box (344)</li>
@@ -104,7 +104,52 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 11/11/25</H3>
+
+<br>
+
+<ul><li> 07:41 duckduckgo.com</li>
+<li> 07:40 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 07:40 login.microsoftonline.com</li>
+<li> 07:40 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 07:40 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 07:40 experience.elluciancloud.ie</li>
+<li> 07:40 login.microsoftonline.com</li>
+<li> 07:40 experience.elluciancloud.ie</li>
+<li> 07:38 www.moneysavingexpert.com</li>
+<li> 07:35 feedly.com</li>
+<li> 07:35 www.reddit.com</li>
+<li> 07:35 libbyapp.com</li>
+<li> 07:33 duckduckgo.com</li>
+<li> 07:31 www.linkedin.com</li>
+<li class='same'> 07:30 www.linkedin.com</li>
+<li> 07:29 outlook.office.com</li>
+<li class='same'> 07:27 outlook.office.com</li>
+<li class='same'> 07:26 outlook.office.com</li>
+<li class='same'> 07:15 outlook.office.com</li>
+<li class='same'> 07:14 outlook.office.com</li>
+<li class='same'> 07:11 outlook.office.com</li>
+<li class='same'> 07:10 outlook.office.com</li>
+<li class='same'> 07:09 outlook.office.com</li>
+<li> 07:08 m365.cloud.microsoft</li>
+<li> 07:08 login.microsoftonline.com</li>
+<li> 07:08 ce0997li.webitrent.com</li>
+<li class='same'> 07:07 ce0997li.webitrent.com</li>
+<li> 07:07 login.microsoftonline.com</li>
+<li> 07:07 ce0997li.webitrent.com</li>
+<li> 07:07 login.microsoftonline.com</li>
+<li> 07:07 www.hr.herts.ac.uk</li>
+<li> 07:00 chatgpt.com</li>
+<li class='same'> 06:59 chatgpt.com</li>
+<li> 06:59 chat.openai.com</li>
+<li> 06:56 www.mdpi.com</li>
+</ul>
+
 <H3>Monday, 10/11/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
