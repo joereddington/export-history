@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4088)</li>
+<ol><li>mail.google.com (4094)</li>
 <li>www.reddit.com (3986)</li>
-<li>outlook.office.com (3975)</li>
+<li>outlook.office.com (3983)</li>
 <li>www.google.com (3899)</li>
-<li>outlook.office365.com (3729)</li>
+<li>outlook.office365.com (3734)</li>
 <li>docs.google.com (2615)</li>
-<li>duckduckgo.com (2264)</li>
+<li>duckduckgo.com (2265)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
-<li>chatgpt.com (1304)</li>
-<li>www.linkedin.com (1246)</li>
-<li>login.microsoftonline.com (1081)</li>
+<li>chatgpt.com (1305)</li>
+<li>www.linkedin.com (1247)</li>
+<li>login.microsoftonline.com (1082)</li>
 <li>www.amazon.co.uk (1014)</li>
-<li>calendar.google.com (978)</li>
-<li>moodle.royalholloway.ac.uk (838)</li>
-<li>rhul-my.sharepoint.com (802)</li>
+<li>calendar.google.com (979)</li>
+<li>moodle.royalholloway.ac.uk (841)</li>
+<li>rhul-my.sharepoint.com (805)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (630)</li>
+<li>gmail.com (632)</li>
 <li>tvtropes.org (629)</li>
-<li>web.whatsapp.com (594)</li>
+<li>web.whatsapp.com (595)</li>
 <li>herts.instructure.com (569)</li>
-<li>chat.openai.com (565)</li>
+<li>chat.openai.com (566)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a> (530)</li>
-<li>forms.office.com (495)</li>
+<li>forms.office.com (498)</li>
 <li>feedly.com (449)</li>
 <li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (351)</li>
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:49 outlook.office.com</li>
+<ul><li> 15:48 mail.google.com</li>
+<li class='same'> 15:47 mail.google.com</li>
+<li> 15:47 accounts.google.com</li>
+<li class='same'> 15:46 accounts.google.com</li>
+<li> 15:46 mail.google.com</li>
+<li> 15:46 gmail.com</li>
+<li> 15:44 web.whatsapp.com</li>
+<li> 15:44 calendar.google.com</li>
+<li> 15:44 mail.google.com</li>
+<li> 15:44 forms.office.com</li>
+<li> 15:44 login.microsoftonline.com</li>
+<li> 15:43 forms.office.com</li>
+<li> 15:43 mail.google.com</li>
+<li> 15:34 www.linkedin.com</li>
+<li> 15:33 mail.google.com</li>
+<li> 15:33 gmail.com</li>
+<li> 15:33 outlook.office.com</li>
+<li class='same'> 15:32 outlook.office.com</li>
+<li class='same'> 15:31 outlook.office.com</li>
+<li> 15:31 outlook.office365.com</li>
+<li class='same'> 15:27 outlook.office365.com</li>
+<li class='same'> 15:26 outlook.office365.com</li>
+<li> 15:25 outlook.office.com</li>
+<li> 15:25 outlook.office365.com</li>
+<li> 15:23 www.royalholloway.ac.uk</li>
+<li> 15:23 duckduckgo.com</li>
+<li> 15:18 outlook.office365.com</li>
+<li> 15:18 www.ciisec.live</li>
+<li> 15:16 forms.office.com</li>
+<li> 15:12 chatgpt.com</li>
+<li> 15:12 chat.openai.com</li>
+<li> 15:10 rhul-my.sharepoint.com</li>
+<li> 15:10 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:09 moodle.royalholloway.ac.uk</li>
+<li> 15:08 rhul-my.sharepoint.com</li>
+<li> 15:08 outlook.office.com</li>
+<li> 15:05 rhul-my.sharepoint.com</li>
+<li> 15:05 moodle.royalholloway.ac.uk</li>
+<li> 15:04 outlook.office.com</li>
+<li class='same'> 14:57 outlook.office.com</li>
+<li class='same'> 14:56 outlook.office.com</li>
+<li class='same'> 14:49 outlook.office.com</li>
 <li class='same'> 14:48 outlook.office.com</li>
 <li class='same'> 14:46 outlook.office.com</li>
 <li class='same'> 14:45 outlook.office.com</li>
