@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4082)</li>
+<ol><li>mail.google.com (4083)</li>
 <li>www.reddit.com (3986)</li>
-<li>outlook.office.com (3962)</li>
+<li>outlook.office.com (3965)</li>
 <li>www.google.com (3899)</li>
 <li>outlook.office365.com (3723)</li>
-<li>docs.google.com (2612)</li>
+<li>docs.google.com (2614)</li>
 <li>duckduckgo.com (2259)</li>
 <li>bsky.app (1581)</li>
-<li>www.facebook.com (1451)</li>
-<li>chatgpt.com (1298)</li>
-<li>www.linkedin.com (1238)</li>
-<li>login.microsoftonline.com (1070)</li>
+<li>www.facebook.com (1452)</li>
+<li>chatgpt.com (1299)</li>
+<li>www.linkedin.com (1240)</li>
+<li>login.microsoftonline.com (1077)</li>
 <li>www.amazon.co.uk (1011)</li>
 <li>calendar.google.com (974)</li>
 <li>moodle.royalholloway.ac.uk (832)</li>
 <li>rhul-my.sharepoint.com (801)</li>
 <li>www.theguardian.com (685)</li>
+<li>gmail.com (630)</li>
 <li>tvtropes.org (629)</li>
-<li>gmail.com (629)</li>
 <li>web.whatsapp.com (589)</li>
 <li>herts.instructure.com (567)</li>
-<li>chat.openai.com (561)</li>
+<li>chat.openai.com (562)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a> (530)</li>
 <li>forms.office.com (493)</li>
@@ -108,7 +108,55 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:54 www.linkedin.com</li>
+<ul><li> 11:52 ce0997li.webitrent.com</li>
+<li> 11:45 docs.google.com</li>
+<li> 11:44 chatgpt.com</li>
+<li> 11:44 chat.openai.com</li>
+<li> 11:40 t1b.gobright.cloud</li>
+<li> 11:40 portal.gobright.cloud</li>
+<li> 11:39 ce0997li.webitrent.com</li>
+<li> 11:38 docs.google.com</li>
+<li> 11:38 ce0997li.webitrent.com</li>
+<li> 11:38 login.microsoftonline.com</li>
+<li> 11:38 ce0997li.webitrent.com</li>
+<li> 11:38 login.microsoftonline.com</li>
+<li> 11:38 www.hr.herts.ac.uk</li>
+<li> 11:36 www.facebook.com</li>
+<li> 11:36 mail.google.com</li>
+<li> 11:36 gmail.com</li>
+<li> 11:24 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:24 login.microsoftonline.com</li>
+<li> 11:24 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:24 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:23 ssb-prod.ec.royalholloway.ac.uk</li>
+<li class='same'> 11:22 ssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:22 experience.elluciancloud.ie</li>
+<li> 11:22 login.microsoftonline.com</li>
+<li> 11:22 experience.elluciancloud.ie</li>
+<li> 11:16 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:16 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:16 login.microsoftonline.com</li>
+<li> 11:16 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:15 experience.elluciancloud.ie</li>
+<li> 11:15 login.microsoftonline.com</li>
+<li> 11:15 experience.elluciancloud.ie</li>
+<li> 11:04 outlook.office.com</li>
+<li class='same'> 11:03 outlook.office.com</li>
+<li class='same'> 11:01 outlook.office.com</li>
+<li> 11:01 m365.cloud.microsoft</li>
+<li> 11:01 login.microsoftonline.com</li>
+<li> 11:01 t1b.gobright.cloud</li>
+<li class='same'> 11:00 t1b.gobright.cloud</li>
+<li class='same'> 10:59 t1b.gobright.cloud</li>
+<li> 10:59 portal.gobright.cloud</li>
+<li> 10:59 www.hr.herts.ac.uk</li>
+<li> 10:56 www.linkedin.com</li>
+<li class='same'> 10:55 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:54 www.linkedin.com</li>
 <li> 09:54 account.jobs.ac.uk</li>
 </ul>
 
