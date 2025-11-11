@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4086)</li>
+<ol><li>mail.google.com (4088)</li>
 <li>www.reddit.com (3986)</li>
 <li>outlook.office.com (3965)</li>
 <li>www.google.com (3899)</li>
-<li>outlook.office365.com (3723)</li>
-<li>docs.google.com (2614)</li>
-<li>duckduckgo.com (2261)</li>
+<li>outlook.office365.com (3727)</li>
+<li>docs.google.com (2615)</li>
+<li>duckduckgo.com (2263)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
-<li>chatgpt.com (1301)</li>
+<li>chatgpt.com (1303)</li>
 <li>www.linkedin.com (1246)</li>
-<li>login.microsoftonline.com (1077)</li>
+<li>login.microsoftonline.com (1078)</li>
 <li>www.amazon.co.uk (1014)</li>
-<li>calendar.google.com (974)</li>
+<li>calendar.google.com (976)</li>
 <li>moodle.royalholloway.ac.uk (832)</li>
 <li>rhul-my.sharepoint.com (801)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (630)</li>
 <li>tvtropes.org (629)</li>
-<li>web.whatsapp.com (591)</li>
+<li>web.whatsapp.com (594)</li>
 <li>herts.instructure.com (569)</li>
-<li>chat.openai.com (563)</li>
+<li>chat.openai.com (564)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a> (530)</li>
 <li>forms.office.com (493)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:53 www.linkedin.com</li>
+<ul><li> 13:47 duckduckgo.com</li>
+<li> 13:44 web.whatsapp.com</li>
+<li> 13:43 docs.google.com</li>
+<li> 13:36 outlook.office365.com</li>
+<li class='same'> 13:32 outlook.office365.com</li>
+<li> 13:30 www.ciisec.live</li>
+<li> 13:29 outlook.office365.com</li>
+<li> 13:29 login.microsoftonline.com</li>
+<li> 13:29 outlook.office365.com</li>
+<li> 13:29 calendar.google.com</li>
+<li class='same'> 13:28 calendar.google.com</li>
+<li> 13:26 mail.google.com</li>
+<li> 13:25 web.whatsapp.com</li>
+<li> 13:24 chatgpt.com</li>
+<li class='same'> 13:23 chatgpt.com</li>
+<li> 13:23 chat.openai.com</li>
+<li> 13:23 forum.retrode.com</li>
+<li> 13:22 duckduckgo.com</li>
+<li> 13:16 t1b.gobright.cloud</li>
+<li> 13:16 portal.gobright.cloud</li>
+<li> 13:14 www.ebay.co.uk</li>
+<li class='same'> 13:13 www.ebay.co.uk</li>
+<li class='same'> 13:12 www.ebay.co.uk</li>
+<li class='same'> 13:11 www.ebay.co.uk</li>
+<li> 13:10 web.whatsapp.com</li>
+<li> 13:07 mail.google.com</li>
+<li> 12:55 127.0.0.1:4000</li>
+<li> 12:53 www.linkedin.com</li>
 <li> 12:48 web.whatsapp.com</li>
 <li> 12:47 mail.google.com</li>
 <li> 12:46 www.linkedin.com</li>
