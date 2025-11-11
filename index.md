@@ -70,29 +70,29 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4088)</li>
 <li>www.reddit.com (3986)</li>
-<li>outlook.office.com (3965)</li>
+<li>outlook.office.com (3975)</li>
 <li>www.google.com (3899)</li>
-<li>outlook.office365.com (3727)</li>
+<li>outlook.office365.com (3729)</li>
 <li>docs.google.com (2615)</li>
-<li>duckduckgo.com (2263)</li>
+<li>duckduckgo.com (2264)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
-<li>chatgpt.com (1303)</li>
+<li>chatgpt.com (1304)</li>
 <li>www.linkedin.com (1246)</li>
-<li>login.microsoftonline.com (1078)</li>
+<li>login.microsoftonline.com (1081)</li>
 <li>www.amazon.co.uk (1014)</li>
-<li>calendar.google.com (976)</li>
-<li>moodle.royalholloway.ac.uk (832)</li>
-<li>rhul-my.sharepoint.com (801)</li>
+<li>calendar.google.com (978)</li>
+<li>moodle.royalholloway.ac.uk (838)</li>
+<li>rhul-my.sharepoint.com (802)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (630)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (594)</li>
 <li>herts.instructure.com (569)</li>
-<li>chat.openai.com (564)</li>
+<li>chat.openai.com (565)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a> (530)</li>
-<li>forms.office.com (493)</li>
+<li>forms.office.com (495)</li>
 <li>feedly.com (449)</li>
 <li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (351)</li>
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:47 duckduckgo.com</li>
+<ul><li> 14:49 outlook.office.com</li>
+<li class='same'> 14:48 outlook.office.com</li>
+<li class='same'> 14:46 outlook.office.com</li>
+<li class='same'> 14:45 outlook.office.com</li>
+<li class='same'> 14:44 outlook.office.com</li>
+<li> 14:43 forms.office.com</li>
+<li> 14:43 login.microsoftonline.com</li>
+<li> 14:43 forms.office.com</li>
+<li> 14:43 rhul-my.sharepoint.com</li>
+<li> 14:41 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:40 moodle.royalholloway.ac.uk</li>
+<li> 14:40 calendar.google.com</li>
+<li> 14:39 moodle.royalholloway.ac.uk</li>
+<li> 14:38 calendar.google.com</li>
+<li> 14:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:36 moodle.royalholloway.ac.uk</li>
+<li> 14:36 login.microsoftonline.com</li>
+<li> 14:36 moodle.royalholloway.ac.uk</li>
+<li> 14:35 outlook.office365.com</li>
+<li> 14:25 outlook.office.com</li>
+<li> 14:14 chatgpt.com</li>
+<li> 14:14 chat.openai.com</li>
+<li> 14:07 outlook.office.com</li>
+<li class='same'> 14:06 outlook.office.com</li>
+<li class='same'> 14:05 outlook.office.com</li>
+<li> 14:05 outlook.office365.com</li>
+<li> 14:05 duckduckgo.com</li>
+<li> 14:02 outlook.office.com</li>
+<li> 14:02 m365.cloud.microsoft</li>
+<li class='same'> 14:01 m365.cloud.microsoft</li>
+<li> 14:01 login.microsoftonline.com</li>
+<li> 14:01 t1b.gobright.cloud</li>
+<li> 13:47 cyberzoni.com</li>
+<li> 13:47 www.iso27001security.com</li>
+<li> 13:47 duckduckgo.com</li>
 <li> 13:44 web.whatsapp.com</li>
 <li> 13:43 docs.google.com</li>
 <li> 13:36 outlook.office365.com</li>
