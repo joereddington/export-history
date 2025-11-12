@@ -72,14 +72,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3988)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3899)</li>
-<li>outlook.office365.com (3736)</li>
+<li>outlook.office365.com (3749)</li>
 <li>docs.google.com (2616)</li>
 <li>duckduckgo.com (2296)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
 <li>chatgpt.com (1309)</li>
 <li>www.linkedin.com (1248)</li>
-<li>login.microsoftonline.com (1084)</li>
+<li>login.microsoftonline.com (1085)</li>
 <li>www.amazon.co.uk (1014)</li>
 <li>calendar.google.com (980)</li>
 <li>moodle.royalholloway.ac.uk (841)</li>
@@ -87,15 +87,15 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (632)</li>
 <li>tvtropes.org (629)</li>
-<li>web.whatsapp.com (597)</li>
+<li>web.whatsapp.com (598)</li>
 <li>chat.openai.com (569)</li>
 <li>herts.instructure.com (569)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a> (530)</li>
-<li>forms.office.com (498)</li>
+<li>forms.office.com (501)</li>
 <li>feedly.com (456)</li>
 <li>drive.google.com (428)</li>
-<li>rhul.sharepoint.com (353)</li>
+<li>rhul.sharepoint.com (355)</li>
 <li>fritz.box (349)</li>
 <li>adfs.herts.ac.uk (327)</li>
 
@@ -105,6 +105,47 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 12/11/25</H3>
+
+<br>
+
+<ul><li> 13:56 outlook.office365.com</li>
+<li class='same'> 13:55 outlook.office365.com</li>
+<li> 13:38 rhul.sharepoint.com</li>
+<li> 13:38 outlook.office365.com</li>
+<li class='same'> 13:37 outlook.office365.com</li>
+<li class='same'> 13:36 outlook.office365.com</li>
+<li class='same'> 13:31 outlook.office365.com</li>
+<li class='same'> 13:29 outlook.office365.com</li>
+<li> 13:29 fyp.cs.rhul.ac.uk</li>
+<li> 13:28 outlook.office365.com</li>
+<li> 13:26 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 13:26 <a href="https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-46264327">TalkTalk hack attack: Friends jailed for cyber-crimes - BBC News</a></li>
+<li> 13:26 www.bbc.com</li>
+<li> 13:26 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li class='same'> 13:25 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 13:24 <a href="https://www.bbc.co.uk/news/uk-wales-48587207">TalkTalk hacker Daniel Kelley sentenced to four years - BBC News</a></li>
+<li> 13:24 www.bbc.com</li>
+<li> 13:24 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 13:24 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=history">2015 TalkTalk data breach: Revision history - Wikipedia</a></li>
+<li> 13:23 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&diff=1321751360&oldid=1321719571">2015 TalkTalk data breach: Difference between revisions - Wikipedia</a></li>
+<li> 13:23 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=history">2015 TalkTalk data breach: Revision history - Wikipedia</a></li>
+<li> 13:23 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 13:22 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:22 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:22 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:22 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:22 forms.office.com</li>
+<li class='same'> 13:21 forms.office.com</li>
+<li> 13:21 login.microsoftonline.com</li>
+<li> 13:21 forms.office.com</li>
+<li> 13:21 outlook.office365.com</li>
+<li> 13:20 rhul.sharepoint.com</li>
+<li> 13:17 outlook.office365.com</li>
+<li class='same'> 13:16 outlook.office365.com</li>
+<li class='same'> 13:15 outlook.office365.com</li>
+<li class='same'> 13:14 outlook.office365.com</li>
+<li> 13:06 web.whatsapp.com</li>
+</ul>
 
 <br>
 
