@@ -72,9 +72,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3988)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3899)</li>
-<li>outlook.office365.com (3749)</li>
+<li>outlook.office365.com (3750)</li>
 <li>docs.google.com (2616)</li>
-<li>duckduckgo.com (2296)</li>
+<li>duckduckgo.com (2299)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
 <li>chatgpt.com (1309)</li>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:56 outlook.office365.com</li>
+<ul><li> 14:54 <a href="https://www.bbc.co.uk/news/uk-37990246">Boy, 17, admits TalkTalk hacking offences - BBC News</a></li>
+<li> 14:54 www.bbc.com</li>
+<li> 14:54 www.ft.com</li>
+<li> 14:52 <a href="https://www.bbc.co.uk/news/uk-34675235">TalkTalk reveals exact scale of website cyber-attack - BBC News</a></li>
+<li> 14:51 <a href="https://www.bbc.co.uk/news/uk-34690102">Third person held over TalkTalk security breach - BBC News</a></li>
+<li> 14:51 <a href="https://www.bbc.co.uk/search?q=talktalk+arrested&d=NEWS_PS&page=7&experiments=newswb_search20_hybrid%3Afalse">BBC - Search results for talktalk arrested</a></li>
+<li> 14:50 <a href="https://www.bbc.co.uk/news/business-36273449">TalkTalk profits halve after cyber attack - BBC News</a></li>
+<li> 14:50 <a href="https://www.bbc.co.uk/search?q=talktalk+arrested&d=NEWS_PS&page=6&experiments=newswb_search20_hybrid%3Afalse">BBC - Search results for talktalk arrested</a></li>
+<li> 14:50 <a href="https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-39725208">TalkTalk hack attack: Friends admit cyber crime charges - BBC News</a></li>
+<li> 14:49 <a href="https://www.bbc.co.uk/search?q=talktalk+arrested&d=NEWS_PS&page=4&experiments=newswb_search20_hybrid%3Afalse">BBC - Search results for talktalk arrested</a></li>
+<li> 14:49 <a href="https://www.bbc.co.uk/search?q=talktalk+arrested&d=NEWS_PS&page=3&experiments=newswb_search20_hybrid%3Afalse">BBC - Search results for talktalk arrested</a></li>
+<li> 14:49 <a href="https://www.bbc.co.uk/search?q=talktalk+arrested&d=NEWS_PS&page=2&experiments=newswb_search20_hybrid%3Afalse">BBC - Search results for talktalk arrested</a></li>
+<li> 14:47 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:47 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=4">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:47 <a href="https://www.bbc.co.uk/news/av/uk-34643742">Boy, 15, arrested in Northern Ireland in connection with TalkTalk hack - BBC News</a></li>
+<li> 14:46 <a href="https://www.bbc.co.uk/search?q=talktalk+arrested&d=NEWS_PS">BBC - Search results for talktalk arrested</a></li>
+<li> 14:46 <a href="https://www.bbc.co.uk/search?d=NEWS_PS">BBC - Search</a></li>
+<li> 14:45 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:44 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=4">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:44 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:43 www.newsletter.co.uk</li>
+<li> 14:43 duckduckgo.com</li>
+<li> 14:42 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:39 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:39 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:38 <a href="https://www.bbc.co.uk/news/articles/cgrrjkl20jlo">Microsoft hacker avoids jail over multiple cyber-attacks - BBC News</a></li>
+<li> 14:38 duckduckgo.com</li>
+<li> 14:38 www.open.edu</li>
+<li> 14:38 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Timeline">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:37 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:37 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:36 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:35 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:33 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 14:31 <a href="https://www.bbc.co.uk/news/uk-wales-48120428">Daniel Kelley: The teen behind the cybercrime screen - BBC News</a></li>
+<li> 14:31 duckduckgo.com</li>
+<li> 14:29 <a href="https://www.bbc.co.uk/news/live/c2dr3z9egljt">New Epstein emails that mention Trump released by House Democrats - live updates - BBC News</a></li>
+<li> 14:29 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 14:28 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:56 outlook.office365.com</li>
 <li class='same'> 13:55 outlook.office365.com</li>
 <li> 13:38 rhul.sharepoint.com</li>
 <li> 13:38 outlook.office365.com</li>
@@ -169,16 +212,16 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:34 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 06:33 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 06:33 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 06:33 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 06:31 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 06:31 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 06:31 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 06:31 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 06:31 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Timeline">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 06:24 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 06:24 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 06:24 ico.org.uk</li>
 <li> 06:22 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Timeline">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 06:20 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach?utm_source=chatgpt.com">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 06:18 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 06:18 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 06:14 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 06:13 feedly.com</li>
 <li> 06:13 <a href="https://www.theguardian.com/business/2015/nov/03/teenager-arrested-norwich-talktalk-cyber-attack?utm_source=chatgpt.com"></a></li>
@@ -223,13 +266,13 @@ With number of accesses/minutes in parentheses
 <li> 21:50 <a href="https://www.bbc.co.uk/news/uk-england-norfolk-49878686">TalkTalk hacker Elliott Gunton: Parents acted out of 'misguided loyalty' - BBC News</a></li>
 <li> 21:50 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#cite_note-26">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:49 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Timeline">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 21:49 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 21:49 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 21:49 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 21:49 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:48 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:45 web.archive.org</li>
 <li> 21:45 <a href="https://en.wikipedia.org/wiki/Elliott_Gunton">Elliott Gunton - Wikipedia</a></li>
 <li> 21:45 duckduckgo.com</li>
-<li> 21:43 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 21:43 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:42 <a href="https://www.bbc.co.uk/news/uk-37990246">Boy, 17, admits TalkTalk hacking offences - BBC News</a></li>
 <li> 21:41 www.edp24.co.uk</li>
 <li> 21:40 duckduckgo.com</li>
@@ -240,8 +283,8 @@ With number of accesses/minutes in parentheses
 <li> 21:37 <a href="https://en.wikipedia.org/wiki/Elliott_Gunton">Elliott Gunton - Wikipedia</a></li>
 <li> 21:37 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Timeline">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:37 duckduckgo.com</li>
-<li> 21:36 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 21:36 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 21:36 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 21:36 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:36 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:36 www.cbsnews.com</li>
 <li> 21:35 <a href="https://en.wikipedia.org/wiki/Elliott_Gunton">Elliott Gunton - Wikipedia</a></li>
@@ -261,7 +304,7 @@ With number of accesses/minutes in parentheses
 <li> 21:28 duckduckgo.com</li>
 <li> 21:26 <a href="https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-46264327">TalkTalk hack attack: Friends jailed for cyber-crimes - BBC News</a></li>
 <li> 21:26 duckduckgo.com</li>
-<li> 21:25 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 21:25 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:25 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:24 www.birminghammail.co.uk</li>
 <li> 21:24 duckduckgo.com</li>
@@ -272,12 +315,12 @@ With number of accesses/minutes in parentheses
 <li> 21:22 <a href="https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-46264327">TalkTalk hack attack: Friends jailed for cyber-crimes - BBC News</a></li>
 <li> 21:22 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#cite_note-30">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:21 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 21:20 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 21:20 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:20 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:20 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach?venotify=saved">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:20 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:19 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&section=3&oldid=1321654197&action=edit">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 21:18 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 21:18 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:14 feedly.com</li>
 <li> 21:14 <a href="https://www.theguardian.com/from-play-to-purpose/2025/oct/30/i-was-led-into-cybercrime-as-a-teenager-advice-to-my-younger-self?CMP=fb_gu&utm_medium=Social&utm_source=Facebook&utm_id=23843729639780717&utm_content=120235285160550718&utm_term=120234935321160718&utm_campaign=23843729639780717#Echobox=1761905867">I was led down the wrong path into cybercrime as a teenager. Here’s what I would tell my younger self | From Play To Purpose | The Guardian</a></li>
 <li> 21:14 duckduckgo.com</li>
@@ -301,7 +344,7 @@ With number of accesses/minutes in parentheses
 <li> 21:04 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=1">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 21:02 www.talktalkgroup.com</li>
 <li> 21:01 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 21:01 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 21:01 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:58 www.talktalkgroup.com</li>
 <li> 20:57 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Context">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:56 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=1">2015 TalkTalk data breach - Wikipedia</a></li>
@@ -339,7 +382,7 @@ With number of accesses/minutes in parentheses
 <li> 20:44 www.theregister.com</li>
 <li class='same'> 20:43 www.theregister.com</li>
 <li class='same'> 20:42 www.theregister.com</li>
-<li> 20:41 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 20:41 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:41 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:37 arxiv.org</li>
 <li> 20:37 scholar.google.co.uk</li>
@@ -353,10 +396,10 @@ With number of accesses/minutes in parentheses
 <li> 20:34 duckduckgo.com</li>
 <li> 20:31 fritz.box</li>
 <li> 20:31 krebsonsecurity.com</li>
-<li> 20:29 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 20:29 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 20:29 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 20:29 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:29 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 20:28 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 20:28 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:27 www.tripwire.com</li>
 <li> 20:26 ieeexplore.ieee.org</li>
 <li> 20:26 www.tripwire.com</li>
@@ -408,16 +451,16 @@ With number of accesses/minutes in parentheses
 <li> 18:18 www.hr.herts.ac.uk</li>
 <li> 18:16 web.whatsapp.com</li>
 <li> 18:16 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Damages">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 18:16 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 18:16 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=3">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 18:16 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 18:15 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=history">2015 TalkTalk data breach: Revision history - Wikipedia</a></li>
 <li> 18:15 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 18:12 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 18:12 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 18:11 www.open.edu</li>
 <li> 18:10 web.archive.org</li>
 <li> 18:09 www.itpro.com</li>
 <li> 18:08 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 18:08 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 18:08 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 18:07 feedly.com</li>
 <li> 18:07 <a href="http://www.theguardian.com/business/2015/oct/23/talktalk-hacking-crisis-deepens-as-more-details-emerge"></a></li>
 <li> 18:07 www.open.edu</li>
@@ -477,7 +520,7 @@ With number of accesses/minutes in parentheses
 <li> 17:19 <a href="https://en.wikipedia.org/wiki/Talk:2015_TalkTalk_data_breach">Talk:2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 17:18 www.open.edu</li>
 <li> 17:17 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Aftermath">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 17:15 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=4">Editing 2015 TalkTalk data breach (section) - Wikipedia</a></li>
+<li> 17:15 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=4">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 17:14 <a href="https://www.bbc.co.uk/news/uk-34615226">TalkTalk cyber-attack: Boss 'receives ransom email' - BBC News</a></li>
 <li> 17:13 <a href="https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-46264327">TalkTalk hack attack: Friends jailed for cyber-crimes - BBC News</a></li>
 <li> 17:13 www.bbc.com</li>
@@ -489,15 +532,15 @@ With number of accesses/minutes in parentheses
 <li> 17:10 duckduckgo.com</li>
 <li> 17:01 outlook.office.com</li>
 <li> 17:01 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 17:00 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 17:00 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 17:00 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 16:58 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 16:58 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 16:58 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 16:57 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 16:57 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 16:57 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 16:56 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 16:56 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 16:56 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Attack_and_perpetrators">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 16:54 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 16:54 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=2">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 16:54 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 16:50 duckduckgo.com</li>
 <li> 16:50 web.archive.org</li>
