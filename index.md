@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4099)</li>
-<li>outlook.office.com (3991)</li>
+<li>outlook.office.com (3994)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3899)</li>
-<li>outlook.office365.com (3753)</li>
-<li>docs.google.com (2616)</li>
-<li>duckduckgo.com (2302)</li>
+<li>outlook.office365.com (3761)</li>
+<li>docs.google.com (2617)</li>
+<li>duckduckgo.com (2303)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
-<li>chatgpt.com (1309)</li>
+<li>chatgpt.com (1314)</li>
 <li>www.linkedin.com (1249)</li>
-<li>login.microsoftonline.com (1088)</li>
-<li>www.amazon.co.uk (1014)</li>
-<li>calendar.google.com (981)</li>
+<li>login.microsoftonline.com (1091)</li>
+<li>www.amazon.co.uk (1016)</li>
+<li>calendar.google.com (982)</li>
 <li>moodle.royalholloway.ac.uk (841)</li>
 <li>rhul-my.sharepoint.com (803)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (633)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (599)</li>
-<li>chat.openai.com (569)</li>
+<li>chat.openai.com (571)</li>
 <li>herts.instructure.com (569)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a> (530)</li>
@@ -105,6 +105,49 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 12/11/25</H3>
+
+<br>
+
+<ul><li> 16:57 outlook.office365.com</li>
+<li> 16:50 chatgpt.com</li>
+<li> 16:50 outlook.office365.com</li>
+<li> 16:50 login.microsoftonline.com</li>
+<li> 16:50 outlook.office365.com</li>
+<li class='same'> 16:49 outlook.office365.com</li>
+<li> 16:48 chatgpt.com</li>
+<li class='same'> 16:47 chatgpt.com</li>
+<li> 16:47 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 16:39 docs.google.com</li>
+<li> 16:38 login.microsoftonline.com</li>
+<li> 16:38 rhul.hosted.panopto.com</li>
+<li> 16:37 chatgpt.com</li>
+<li> 16:37 chat.openai.com</li>
+<li> 16:36 outlook.office365.com</li>
+<li> 16:36 outlook.office.com</li>
+<li> 16:35 outlook.office365.com</li>
+<li class='same'> 16:34 outlook.office365.com</li>
+<li class='same'> 16:33 outlook.office365.com</li>
+<li> 16:31 calendar.google.com</li>
+<li> 16:31 outlook.office.com</li>
+<li class='same'> 16:30 outlook.office.com</li>
+<li> 16:30 m365.cloud.microsoft</li>
+<li> 16:30 login.microsoftonline.com</li>
+<li> 16:29 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 16:29 <a href="https://en.wikipedia.org/wiki/Talk:2015_TalkTalk_data_breach">Talk:2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 16:29 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 16:29 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=history">2015 TalkTalk data breach: Revision history - Wikipedia</a></li>
+<li> 16:29 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 16:29 ce0997li.webitrent.com</li>
+<li> 16:29 www.hr.herts.ac.uk</li>
+<li> 16:27 www.ebay.co.uk</li>
+<li class='same'> 16:26 www.ebay.co.uk</li>
+<li> 16:25 www.amazon.co.uk</li>
+<li class='same'> 16:24 www.amazon.co.uk</li>
+<li> 16:23 ddsp-global.com</li>
+<li> 16:23 duckduckgo.com</li>
+<li> 16:22 chatgpt.com</li>
+<li> 16:22 chat.openai.com</li>
+</ul>
 
 <br>
 
