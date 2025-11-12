@@ -72,14 +72,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3988)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3899)</li>
-<li>outlook.office365.com (3733)</li>
+<li>outlook.office365.com (3735)</li>
 <li>docs.google.com (2615)</li>
 <li>duckduckgo.com (2296)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
 <li>chatgpt.com (1309)</li>
 <li>www.linkedin.com (1248)</li>
-<li>login.microsoftonline.com (1082)</li>
+<li>login.microsoftonline.com (1083)</li>
 <li>www.amazon.co.uk (1014)</li>
 <li>calendar.google.com (980)</li>
 <li>moodle.royalholloway.ac.uk (841)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (498)</li>
 <li>feedly.com (456)</li>
 <li>drive.google.com (428)</li>
-<li>rhul.sharepoint.com (351)</li>
+<li>rhul.sharepoint.com (353)</li>
 <li>fritz.box (349)</li>
 <li>adfs.herts.ac.uk (327)</li>
 
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 12/11/25</H3>
+
+<br>
+
+<ul><li> 09:12 outlook.office365.com</li>
+<li> 09:12 rhul.sharepoint.com</li>
+<li> 09:12 login.microsoftonline.com</li>
+<li> 09:12 rhul.sharepoint.com</li>
+<li> 09:12 outlook.office365.com</li>
+</ul>
 
 <br>
 
