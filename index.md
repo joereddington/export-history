@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3994)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3908)</li>
-<li>outlook.office365.com (3769)</li>
+<li>outlook.office365.com (3772)</li>
 <li>docs.google.com (2617)</li>
-<li>duckduckgo.com (2318)</li>
+<li>duckduckgo.com (2319)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
-<li>chatgpt.com (1316)</li>
+<li>chatgpt.com (1318)</li>
 <li>www.linkedin.com (1251)</li>
 <li>login.microsoftonline.com (1086)</li>
 <li>www.amazon.co.uk (1015)</li>
@@ -88,8 +88,8 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (633)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (600)</li>
-<li>chat.openai.com (572)</li>
-<li>herts.instructure.com (569)</li>
+<li>herts.instructure.com (574)</li>
+<li>chat.openai.com (573)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (536)</li>
 <li>forms.office.com (503)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (355)</li>
 <li>fritz.box (349)</li>
-<li>adfs.herts.ac.uk (326)</li>
+<li>adfs.herts.ac.uk (329)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,32 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 13/11/25</H3>
+
+<br>
+
+<ul><li> 11:43 outlook.office365.com</li>
+<li> 11:36 <a href="https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange">Diffie–Hellman key exchange - Wikipedia</a></li>
+<li> 11:36 duckduckgo.com</li>
+<li> 11:32 outlook.office365.com</li>
+<li class='same'> 11:31 outlook.office365.com</li>
+<li> 11:21 herts.instructure.com</li>
+<li class='same'> 11:20 herts.instructure.com</li>
+<li> 11:20 chatgpt.com</li>
+<li class='same'> 11:19 chatgpt.com</li>
+<li> 11:19 chat.openai.com</li>
+<li> 11:17 t1b.gobright.cloud</li>
+<li class='same'> 11:16 t1b.gobright.cloud</li>
+<li> 11:16 portal.gobright.cloud</li>
+<li> 11:15 herts.instructure.com</li>
+<li class='same'> 11:14 herts.instructure.com</li>
+<li> 11:14 adfs.herts.ac.uk</li>
+<li> 11:14 api-b6327e78.duosecurity.com</li>
+<li> 11:14 www.hr.herts.ac.uk</li>
+<li> 11:14 api-b6327e78.duosecurity.com</li>
+<li> 11:14 adfs.herts.ac.uk</li>
+<li> 11:14 herts.instructure.com</li>
+<li> 11:14 adfs.herts.ac.uk</li>
+</ul>
 
 <br>
 
