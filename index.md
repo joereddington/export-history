@@ -72,14 +72,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3994)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3908)</li>
-<li>outlook.office365.com (3768)</li>
+<li>outlook.office365.com (3769)</li>
 <li>docs.google.com (2617)</li>
 <li>duckduckgo.com (2318)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
 <li>chatgpt.com (1316)</li>
-<li>www.linkedin.com (1250)</li>
-<li>login.microsoftonline.com (1085)</li>
+<li>www.linkedin.com (1251)</li>
+<li>login.microsoftonline.com (1086)</li>
 <li>www.amazon.co.uk (1015)</li>
 <li>calendar.google.com (982)</li>
 <li>moodle.royalholloway.ac.uk (840)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (569)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (536)</li>
-<li>forms.office.com (501)</li>
+<li>forms.office.com (503)</li>
 <li>feedly.com (459)</li>
 <li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (355)</li>
@@ -113,11 +113,18 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:09 www.google.com</li>
 <li> 08:09 <a href="https://en.wikipedia.org/wiki/Northville_Historic_District_(New_York)">Wikipedia, the free encyclopedia</a></li>
 <li> 08:09 <a href="https://en.wikipedia.org/wiki/Special:Random">Wikipedia, the free encyclopedia</a></li>
+<li> 07:52 www.linkedin.com</li>
+<li> 07:52 forms.office.com</li>
+<li> 07:52 login.microsoftonline.com</li>
+<li> 07:52 forms.office.com</li>
+<li> 07:51 outlook.office365.com</li>
 </ul>
 
 <br>
 
-<ul><li> 07:15 www.etymonline.com</li>
+<ul><li> 07:19 www.bbc.com</li>
+<li> 07:19 <a href="https://www.bbc.co.uk/news/articles/c9v124znrgmo">Streeting denies plotting against PM after leadership claims - BBC News</a></li>
+<li> 07:15 www.etymonline.com</li>
 <li> 07:15 duckduckgo.com</li>
 <li> 07:14 www.etymonline.com</li>
 <li> 07:14 duckduckgo.com</li>
