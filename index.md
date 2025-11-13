@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3906)</li>
 <li>outlook.office365.com (3768)</li>
 <li>docs.google.com (2617)</li>
-<li>duckduckgo.com (2311)</li>
+<li>duckduckgo.com (2314)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
 <li>chatgpt.com (1316)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a> (535)</li>
 <li>forms.office.com (501)</li>
-<li>feedly.com (456)</li>
+<li>feedly.com (458)</li>
 <li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (355)</li>
 <li>fritz.box (349)</li>
@@ -104,7 +104,52 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 13/11/25</H3>
+
+<br>
+
+<ul><li> 06:52 news.google.com</li>
+<li> 06:51 baringslaw.com</li>
+<li> 06:51 duckduckgo.com</li>
+<li> 06:50 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:50 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:50 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:48 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&section=1&oldid=1321894511&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 06:48 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=1">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 06:46 feedly.com</li>
+<li> 06:46 <a href="https://www.theguardian.com/business/2023/apr/20/capita-admits-customer-data-may-have-been-breached-during-cyber-attack"></a></li>
+<li> 06:46 news.google.com</li>
+<li> 06:46 <a href="https://www.theguardian.com/business/2023/apr/20/capita-admits-customer-data-may-have-been-breached-during-cyber-attack"></a></li>
+<li> 06:46 feedly.com</li>
+<li> 06:46 news.google.com</li>
+<li> 06:45 scholar.google.co.uk</li>
+<li> 06:45 duckduckgo.com</li>
+<li> 06:45 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Impact">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:41 <a href="https://www.bbc.co.uk/news/technology-65746518">Capita hack: 90 organisations report data breaches to watchdog - BBC News</a></li>
+<li> 06:41 <a href="https://www.bbc.co.uk/news/articles/c9d6yxdq3d2o">Capita fined £14m for cyber-attack which affected millions - BBC News</a></li>
+<li> 06:41 duckduckgo.com</li>
+<li> 06:41 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?action=edit&section=2&veswitched=1">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&oldid=1321816798">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
+<li> 06:37 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:37 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:37 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:36 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:36 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+</ul>
+
 <H3>Wednesday, 12/11/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -122,7 +167,7 @@ With number of accesses/minutes in parentheses
 <li> 21:12 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 21:12 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
 <li> 21:12 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
-<li> 21:11 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 21:11 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 21:11 <a href="https://en.wikipedia.org/wiki/Capita_2023_Data_Breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 21:11 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 21:11 <a href="https://en.wikipedia.org/w/index.php?title=Capita_2023_Data_Breach&veswitched=1&action=edit">Capita 2023 Data Breach - Wikipedia</a></li>
