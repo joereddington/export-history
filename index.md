@@ -69,33 +69,33 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4099)</li>
-<li>outlook.office.com (4024)</li>
+<li>outlook.office.com (4030)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3908)</li>
-<li>outlook.office365.com (3780)</li>
+<li>outlook.office365.com (3785)</li>
 <li>docs.google.com (2617)</li>
-<li>duckduckgo.com (2321)</li>
+<li>duckduckgo.com (2324)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
-<li>chatgpt.com (1320)</li>
-<li>www.linkedin.com (1254)</li>
-<li>login.microsoftonline.com (1097)</li>
+<li>chatgpt.com (1323)</li>
+<li>www.linkedin.com (1255)</li>
+<li>login.microsoftonline.com (1098)</li>
 <li>www.amazon.co.uk (1015)</li>
 <li>calendar.google.com (982)</li>
-<li>moodle.royalholloway.ac.uk (845)</li>
+<li>moodle.royalholloway.ac.uk (846)</li>
 <li>rhul-my.sharepoint.com (807)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (633)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (602)</li>
 <li>herts.instructure.com (578)</li>
-<li>chat.openai.com (574)</li>
+<li>chat.openai.com (576)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (536)</li>
-<li>forms.office.com (503)</li>
+<li>forms.office.com (505)</li>
 <li>feedly.com (459)</li>
 <li>drive.google.com (428)</li>
-<li>rhul.sharepoint.com (359)</li>
+<li>rhul.sharepoint.com (360)</li>
 <li>fritz.box (349)</li>
 <li>adfs.herts.ac.uk (329)</li>
 
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:01 rhul-my.sharepoint.com</li>
+<ul><li> 15:58 outlook.office.com</li>
+<li class='same'> 15:54 outlook.office.com</li>
+<li> 15:54 www.kitco.com</li>
+<li> 15:53 www.kaggle.com</li>
+<li> 15:50 datahub.io</li>
+<li> 15:50 duckduckgo.com</li>
+<li> 15:48 chatgpt.com</li>
+<li> 15:48 chat.openai.com</li>
+<li> 15:47 outlook.office.com</li>
+<li> 15:45 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Impact">2023 Capita data breach - Wikipedia</a></li>
+<li> 15:45 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 15:45 <a href="https://en.wikipedia.org/wiki/Capita_2023_Data_Breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 15:45 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 15:44 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:44 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:44 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:44 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:44 www.linkedin.com</li>
+<li> 15:44 outlook.office.com</li>
+<li> 15:43 outlook.office365.com</li>
+<li> 15:43 chatgpt.com</li>
+<li> 15:42 outlook.office365.com</li>
+<li> 15:42 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
+<li> 15:40 chatgpt.com</li>
+<li> 15:40 chat.openai.com</li>
+<li> 15:39 forms.office.com</li>
+<li> 15:39 login.microsoftonline.com</li>
+<li> 15:39 forms.office.com</li>
+<li> 15:39 intranet.royalholloway.ac.uk</li>
+<li class='same'> 15:36 intranet.royalholloway.ac.uk</li>
+<li> 15:36 www.advance-he.ac.uk</li>
+<li> 15:36 duckduckgo.com</li>
+<li> 15:35 intranet.royalholloway.ac.uk</li>
+<li> 15:35 outlook.office365.com</li>
+<li> 15:35 duckduckgo.com</li>
+<li> 15:13 outlook.office.com</li>
+<li class='same'> 15:12 outlook.office.com</li>
+<li> 15:10 outlook.office365.com</li>
+<li class='same'> 15:05 outlook.office365.com</li>
+<li> 15:02 moodle.royalholloway.ac.uk</li>
+<li> 15:01 rhul.sharepoint.com</li>
+<li> 15:01 rhul-my.sharepoint.com</li>
 <li> 15:01 login.microsoftonline.com</li>
 <li> 15:01 rhul-my.sharepoint.com</li>
 <li class='same'> 15:00 rhul-my.sharepoint.com</li>
@@ -275,14 +316,14 @@ With number of accesses/minutes in parentheses
 <li> 07:12 <a href="https://www.bbc.co.uk/news/articles/c5yl60yp9g6o">Chris Mason: Unpicking a messy day for the government - BBC News</a></li>
 <li> 07:08 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&wvprov=sticky-header">Editing 2023 Capita data breach - Wikipedia</a></li>
-<li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:57 www.theregister.com</li>
 <li class='same'> 06:56 www.theregister.com</li>
 <li> 06:56 duckduckgo.com</li>
 <li> 06:55 www.wired.com</li>
 <li> 06:55 duckduckgo.com</li>
 <li> 06:54 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Impact">2023 Capita data breach - Wikipedia</a></li>
-<li> 06:53 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:53 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:53 feedly.com</li>
 <li> 06:53 <a href="https://www.theguardian.com/business/2023/aug/04/cyber-attack-to-cost-outsourcing-firm-capita-up-to-25m"></a></li>
 <li> 06:53 news.google.com</li>
@@ -307,7 +348,7 @@ With number of accesses/minutes in parentheses
 <li> 06:41 <a href="https://www.bbc.co.uk/news/articles/c9d6yxdq3d2o">Capita fined £14m for cyber-attack which affected millions - BBC News</a></li>
 <li> 06:41 duckduckgo.com</li>
 <li> 06:41 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?action=edit&section=2&veswitched=1">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
-<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">2023 Capita data breach - Wikipedia</a></li>
