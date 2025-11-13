@@ -69,33 +69,33 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4099)</li>
-<li>outlook.office.com (3994)</li>
+<li>outlook.office.com (4003)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3908)</li>
-<li>outlook.office365.com (3772)</li>
+<li>outlook.office365.com (3775)</li>
 <li>docs.google.com (2617)</li>
-<li>duckduckgo.com (2319)</li>
+<li>duckduckgo.com (2320)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
 <li>chatgpt.com (1318)</li>
-<li>www.linkedin.com (1251)</li>
-<li>login.microsoftonline.com (1086)</li>
+<li>www.linkedin.com (1252)</li>
+<li>login.microsoftonline.com (1090)</li>
 <li>www.amazon.co.uk (1015)</li>
 <li>calendar.google.com (982)</li>
-<li>moodle.royalholloway.ac.uk (840)</li>
+<li>moodle.royalholloway.ac.uk (844)</li>
 <li>rhul-my.sharepoint.com (802)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (633)</li>
 <li>tvtropes.org (629)</li>
-<li>web.whatsapp.com (600)</li>
-<li>herts.instructure.com (574)</li>
+<li>web.whatsapp.com (602)</li>
+<li>herts.instructure.com (576)</li>
 <li>chat.openai.com (573)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (536)</li>
 <li>forms.office.com (503)</li>
 <li>feedly.com (459)</li>
 <li>drive.google.com (428)</li>
-<li>rhul.sharepoint.com (355)</li>
+<li>rhul.sharepoint.com (356)</li>
 <li>fritz.box (349)</li>
 <li>adfs.herts.ac.uk (329)</li>
 
@@ -108,7 +108,61 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:43 outlook.office365.com</li>
+<ul><li> 12:55 moodle.royalholloway.ac.uk</li>
+<li> 12:54 outlook.office365.com</li>
+<li> 12:53 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:51 moodle.royalholloway.ac.uk</li>
+<li> 12:51 login.microsoftonline.com</li>
+<li> 12:51 moodle.royalholloway.ac.uk</li>
+<li> 12:49 outlook.office365.com</li>
+<li> 12:48 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 12:48 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 12:48 <a href="https://en.wikipedia.org/w/index.php?title=British_Library_cyberattack&action=history&offset=&limit=500">British Library cyberattack: Revision history - Wikipedia</a></li>
+<li> 12:48 <a href="https://en.wikipedia.org/w/index.php?title=British_Library_cyberattack&action=history">British Library cyberattack: Revision history - Wikipedia</a></li>
+<li> 12:48 <a href="https://en.wikipedia.org/wiki/British_Library_cyberattack">British Library cyberattack - Wikipedia</a></li>
+<li> 12:47 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:47 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:47 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:47 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
+<li> 12:47 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
+<li> 12:47 <a href="https://en.wikipedia.org/wiki/User_talk:Dcdiehardfan/Archive1#Your_GA_nomination_of_Zack_Snyder's_Justice_League">User talk:Dcdiehardfan/Archive1 - Wikipedia</a></li>
+<li> 12:47 <a href="https://en.wikipedia.org/wiki/User_talk:Dcdiehardfan/Archive1?wprov=srpw1_0#Your_GA_nomination_of_Zack_Snyder's_Justice_League">User talk:Dcdiehardfan/Archive1 - Wikipedia</a></li>
+<li> 12:47 <a href="https://en.wikipedia.org/wiki/Special:Search?fulltext=Search+archives&fulltext=Search&prefix=User+talk%3ADcdiehardfan%2F&search=snyder&ns0=1&searchToken=amutfmp1gh0eng6ov035bgo3q">snyder - Search results - Wikipedia</a></li>
+<li> 12:45 <a href="https://en.wikipedia.org/wiki/Special:Search?fulltext=Search+archives&fulltext=Search&prefix=User+talk%3ADcdiehardfan%2F&search=snyder&ns0=1">snyder - Search results - Wikipedia</a></li>
+<li> 12:45 <a href="https://en.wikipedia.org/wiki/User_talk:Dcdiehardfan">User talk:Dcdiehardfan - Wikipedia</a></li>
+<li> 12:44 <a href="https://en.wikipedia.org/wiki/User:Dcdiehardfan">User:Dcdiehardfan - Wikipedia</a></li>
+<li> 12:40 outlook.office365.com</li>
+<li> 12:40 web.whatsapp.com</li>
+<li> 12:40 t1b.gobright.cloud</li>
+<li class='same'> 12:39 t1b.gobright.cloud</li>
+<li> 12:39 portal.gobright.cloud</li>
+<li> 12:39 login.microsoftonline.com</li>
+<li> 12:39 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:39 www.hr.herts.ac.uk</li>
+<li> 12:38 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:38 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:38 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:37 rhul.sharepoint.com</li>
+<li> 12:34 www.linkedin.com</li>
+<li> 12:33 web.whatsapp.com</li>
+<li> 12:33 login.microsoftonline.com</li>
+<li> 12:33 outlook.office.com</li>
+<li class='same'> 12:32 outlook.office.com</li>
+<li class='same'> 12:18 outlook.office.com</li>
+<li class='same'> 12:16 outlook.office.com</li>
+<li class='same'> 12:14 outlook.office.com</li>
+<li class='same'> 12:10 outlook.office.com</li>
+<li class='same'> 12:08 outlook.office.com</li>
+<li> 12:05 duckduckgo.com</li>
+<li> 12:04 www.notion.so</li>
+<li> 12:03 ev.turnitinuk.com</li>
+<li> 12:03 herts.instructure.com</li>
+<li class='same'> 12:02 herts.instructure.com</li>
+<li> 12:01 outlook.office.com</li>
+<li class='same'> 12:00 outlook.office.com</li>
+<li> 12:00 m365.cloud.microsoft</li>
+<li> 12:00 login.microsoftonline.com</li>
+<li> 11:43 outlook.office365.com</li>
 <li> 11:36 <a href="https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange">Diffie–Hellman key exchange - Wikipedia</a></li>
 <li> 11:36 duckduckgo.com</li>
 <li> 11:32 outlook.office365.com</li>
@@ -70660,6 +70714,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:32 ico.org.uk</li>
 <li> 13:08 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 12:43 <a href="https://en.wikipedia.org/wiki/2017_Equifax_data_breach">2017 Equifax data breach - Wikipedia</a></li>
+<li> 12:42 <a href="https://en.wikipedia.org/wiki/British_Library_cyberattack">British Library cyberattack - Wikipedia</a></li>
 <li> 12:41 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
 <li> 12:40 <a href="https://en.wikipedia.org/wiki/Capital_One#July_2019_security_breach">Capital One - Wikipedia</a></li>
 <li> 12:40 <a href="https://en.wikipedia.org/wiki/Capital_One">Capital One - Wikipedia</a></li>
@@ -77165,6 +77220,8 @@ With number of accesses/minutes in parentheses
 <li> 10:13 www.paypal.com</li>
 <li> 10:01 www.facebook.com</li>
 <li> 09:58 www.amazon.co.uk</li>
+<li> 09:57 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
+<li class='same'> 09:55 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 09:54 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
 <li> 09:51 www.parkrun.org.uk</li>
 <li> 09:26 www.amazon.co.uk</li>
@@ -77751,6 +77808,7 @@ With number of accesses/minutes in parentheses
 <li> 08:44 github.com</li>
 <li> 08:20 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 08:20 www.google.com</li>
+<li> 08:13 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 08:10 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 08:10 www.google.com</li>
 </ul>
@@ -78297,8 +78355,10 @@ With number of accesses/minutes in parentheses
 <li> 08:32 <a href="https://en.wikipedia.org/w/index.php?title=User_talk:Joereddington&action=history">User talk:Joereddington: Revision history - Wikipedia</a></li>
 <li> 08:32 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
 <li class='same'> 08:30 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 08:24 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 08:22 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 <li class='same'> 08:21 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
+<li> 08:21 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 08:21 iterm2.com</li>
 <li> 08:19 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 </ul>
@@ -78306,11 +78366,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 07:45 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
-</ul>
-
-<br>
-
-<ul><li> 07:13 twitter.com</li>
+<li> 07:40 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
+<li> 07:13 twitter.com</li>
 </ul>
 
 <H3>Friday, 26/04/24</H3>
@@ -78347,6 +78404,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:07 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
+<li> 07:07 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -78386,7 +78444,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:24 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
-<li class='same'> 18:04 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
+<li> 18:20 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
+<li> 18:04 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 14:59 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
+<li class='same'> 14:41 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -78449,7 +78514,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:46 rhul-my.sharepoint.com</li>
+<ul><li> 19:49 <a href="https://en.wikipedia.org/wiki/User_talk:Dcdiehardfan">User talk:Dcdiehardfan - Wikipedia</a></li>
+<li> 19:46 rhul-my.sharepoint.com</li>
 <li class='same'> 19:45 rhul-my.sharepoint.com</li>
 <li> 19:43 outlook.office.com</li>
 <li> 19:15 rhul.hosted.panopto.com</li>
@@ -78548,8 +78614,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:00 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
+<li> 17:56 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
+<li class='same'> 17:55 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 17:46 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_criteria">Wikipedia:Good article criteria - Wikipedia</a></li>
 <li> 17:31 www.google.com</li>
+<li> 17:28 <a href="https://en.wikipedia.org/wiki/User_talk:Dcdiehardfan">User talk:Dcdiehardfan - Wikipedia</a></li>
+<li> 17:28 <a href="https://en.wikipedia.org/wiki/User:Dcdiehardfan">User:Dcdiehardfan - Wikipedia</a></li>
+<li> 17:22 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 17:19 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
 <li> 17:09 rhul.rl.talis.com</li>
 </ul>
