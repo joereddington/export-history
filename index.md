@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4099)</li>
-<li>outlook.office.com (4009)</li>
+<li>outlook.office.com (4024)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3908)</li>
-<li>outlook.office365.com (3777)</li>
+<li>outlook.office365.com (3780)</li>
 <li>docs.google.com (2617)</li>
 <li>duckduckgo.com (2321)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
 <li>chatgpt.com (1320)</li>
-<li>www.linkedin.com (1252)</li>
-<li>login.microsoftonline.com (1095)</li>
+<li>www.linkedin.com (1254)</li>
+<li>login.microsoftonline.com (1097)</li>
 <li>www.amazon.co.uk (1015)</li>
 <li>calendar.google.com (982)</li>
 <li>moodle.royalholloway.ac.uk (845)</li>
-<li>rhul-my.sharepoint.com (804)</li>
+<li>rhul-my.sharepoint.com (807)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (633)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (602)</li>
-<li>herts.instructure.com (576)</li>
+<li>herts.instructure.com (578)</li>
 <li>chat.openai.com (574)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (536)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:51 outlook.office.com</li>
+<ul><li> 15:01 rhul-my.sharepoint.com</li>
+<li> 15:01 login.microsoftonline.com</li>
+<li> 15:01 rhul-my.sharepoint.com</li>
+<li class='same'> 15:00 rhul-my.sharepoint.com</li>
+<li> 15:00 www.linkedin.com</li>
+<li> 14:59 outlook.office.com</li>
+<li class='same'> 14:58 outlook.office.com</li>
+<li class='same'> 14:56 outlook.office.com</li>
+<li class='same'> 14:55 outlook.office.com</li>
+<li class='same'> 14:54 outlook.office.com</li>
+<li> 14:52 outlook.office365.com</li>
+<li class='same'> 14:50 outlook.office365.com</li>
+<li> 14:48 outlook.office.com</li>
+<li class='same'> 14:47 outlook.office.com</li>
+<li class='same'> 14:39 outlook.office.com</li>
+<li> 14:38 herts365-my.sharepoint.com</li>
+<li> 14:38 outlook.office.com</li>
+<li class='same'> 14:33 outlook.office.com</li>
+<li class='same'> 14:32 outlook.office.com</li>
+<li> 14:32 herts.instructure.com</li>
+<li> 14:31 outlook.office.com</li>
+<li> 14:31 herts.instructure.com</li>
+<li> 14:30 ce0997li.webitrent.com</li>
+<li> 14:30 www.hr.herts.ac.uk</li>
+<li> 14:30 outlook.office.com</li>
+<li> 14:15 www.linkedin.com</li>
+<li> 14:15 outlook.office.com</li>
+<li class='same'> 14:14 outlook.office.com</li>
+<li> 14:14 m365.cloud.microsoft</li>
+<li> 14:14 login.microsoftonline.com</li>
+<li> 14:14 www.hr.herts.ac.uk</li>
+<li> 14:13 outlook.office365.com</li>
+<li> 13:51 outlook.office.com</li>
 <li class='same'> 13:47 outlook.office.com</li>
 <li> 13:47 herts365-my.sharepoint.com</li>
 <li> 13:47 login.microsoftonline.com</li>
