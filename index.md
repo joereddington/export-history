@@ -69,33 +69,33 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4099)</li>
-<li>outlook.office.com (4003)</li>
+<li>outlook.office.com (4009)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3908)</li>
-<li>outlook.office365.com (3775)</li>
+<li>outlook.office365.com (3777)</li>
 <li>docs.google.com (2617)</li>
-<li>duckduckgo.com (2320)</li>
+<li>duckduckgo.com (2321)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
-<li>chatgpt.com (1318)</li>
+<li>chatgpt.com (1320)</li>
 <li>www.linkedin.com (1252)</li>
-<li>login.microsoftonline.com (1090)</li>
+<li>login.microsoftonline.com (1095)</li>
 <li>www.amazon.co.uk (1015)</li>
 <li>calendar.google.com (982)</li>
-<li>moodle.royalholloway.ac.uk (844)</li>
-<li>rhul-my.sharepoint.com (802)</li>
+<li>moodle.royalholloway.ac.uk (845)</li>
+<li>rhul-my.sharepoint.com (804)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (633)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (602)</li>
 <li>herts.instructure.com (576)</li>
-<li>chat.openai.com (573)</li>
+<li>chat.openai.com (574)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (536)</li>
 <li>forms.office.com (503)</li>
 <li>feedly.com (459)</li>
 <li>drive.google.com (428)</li>
-<li>rhul.sharepoint.com (356)</li>
+<li>rhul.sharepoint.com (359)</li>
 <li>fritz.box (349)</li>
 <li>adfs.herts.ac.uk (329)</li>
 
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:55 moodle.royalholloway.ac.uk</li>
+<ul><li> 13:51 outlook.office.com</li>
+<li class='same'> 13:47 outlook.office.com</li>
+<li> 13:47 herts365-my.sharepoint.com</li>
+<li> 13:47 login.microsoftonline.com</li>
+<li> 13:47 herts365-my.sharepoint.com</li>
+<li> 13:47 outlook.office.com</li>
+<li> 13:47 m365.cloud.microsoft</li>
+<li> 13:47 login.microsoftonline.com</li>
+<li> 13:47 ce0997li.webitrent.com</li>
+<li> 13:47 login.microsoftonline.com</li>
+<li> 13:47 ce0997li.webitrent.com</li>
+<li> 13:47 login.microsoftonline.com</li>
+<li> 13:47 www.hr.herts.ac.uk</li>
+<li> 13:46 outlook.office.com</li>
+<li> 13:34 rhul-my.sharepoint.com</li>
+<li> 13:33 outlook.office.com</li>
+<li> 13:33 login.microsoftonline.com</li>
+<li> 13:33 outlook.office.com</li>
+<li> 13:18 whatmyuseragent.com</li>
+<li> 13:18 duckduckgo.com</li>
+<li> 13:16 chatgpt.com</li>
+<li class='same'> 13:15 chatgpt.com</li>
+<li> 13:15 chat.openai.com</li>
+<li> 13:01 moodle.royalholloway.ac.uk</li>
+<li> 13:00 outlook.office365.com</li>
+<li> 13:00 rhul-my.sharepoint.com</li>
+<li> 13:00 rhul.sharepoint.com</li>
+<li class='same'> 12:59 rhul.sharepoint.com</li>
+<li class='same'> 12:58 rhul.sharepoint.com</li>
+<li> 12:58 outlook.office365.com</li>
+<li> 12:55 moodle.royalholloway.ac.uk</li>
 <li> 12:54 outlook.office365.com</li>
 <li> 12:53 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:51 moodle.royalholloway.ac.uk</li>
