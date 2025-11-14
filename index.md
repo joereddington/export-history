@@ -72,14 +72,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4039)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3908)</li>
-<li>outlook.office365.com (3785)</li>
+<li>outlook.office365.com (3787)</li>
 <li>docs.google.com (2618)</li>
 <li>duckduckgo.com (2329)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
 <li>chatgpt.com (1325)</li>
 <li>www.linkedin.com (1256)</li>
-<li>login.microsoftonline.com (1099)</li>
+<li>login.microsoftonline.com (1100)</li>
 <li>www.amazon.co.uk (1015)</li>
 <li>calendar.google.com (982)</li>
 <li>moodle.royalholloway.ac.uk (846)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (635)</li>
 <li>tvtropes.org (629)</li>
-<li>web.whatsapp.com (602)</li>
+<li>web.whatsapp.com (603)</li>
 <li>herts.instructure.com (580)</li>
 <li>chat.openai.com (577)</li>
 <li>github.com (548)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 14/11/25</H3>
+
+<br>
+
+<ul><li> 11:58 web.whatsapp.com</li>
+<li> 11:58 outlook.office365.com</li>
+<li> 11:58 login.microsoftonline.com</li>
+<li> 11:58 outlook.office365.com</li>
+<li> 11:57 www.firefox.com</li>
+</ul>
 
 <br>
 
