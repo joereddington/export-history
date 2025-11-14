@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4102)</li>
-<li>outlook.office.com (4030)</li>
+<ol><li>mail.google.com (4104)</li>
+<li>outlook.office.com (4039)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3908)</li>
 <li>outlook.office365.com (3785)</li>
-<li>docs.google.com (2617)</li>
-<li>duckduckgo.com (2324)</li>
+<li>docs.google.com (2618)</li>
+<li>duckduckgo.com (2329)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
-<li>chatgpt.com (1323)</li>
+<li>chatgpt.com (1325)</li>
 <li>www.linkedin.com (1256)</li>
-<li>login.microsoftonline.com (1097)</li>
+<li>login.microsoftonline.com (1099)</li>
 <li>www.amazon.co.uk (1015)</li>
 <li>calendar.google.com (982)</li>
 <li>moodle.royalholloway.ac.uk (846)</li>
 <li>rhul-my.sharepoint.com (806)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (634)</li>
+<li>gmail.com (635)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (602)</li>
-<li>herts.instructure.com (578)</li>
-<li>chat.openai.com (576)</li>
+<li>herts.instructure.com (580)</li>
+<li>chat.openai.com (577)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (537)</li>
 <li>forms.office.com (505)</li>
@@ -97,14 +97,72 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (360)</li>
 <li>fritz.box (349)</li>
-<li>adfs.herts.ac.uk (328)</li>
+<li>adfs.herts.ac.uk (329)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Friday, 14/11/25</H3>
+
+<br>
+
+<ul><li> 09:05 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:15 <a href="https://www.theguardian.com/uk-news/2025/nov/13/police-and-commissioners-to-be-abolished-government-to-announce">Police and crime commissioners to be abolished | Police and crime commissioners | The Guardian</a></li>
+<li> 08:03 outlook.office.com</li>
+<li class='same'> 08:02 outlook.office.com</li>
+<li> 08:02 www.dignityfunerals.co.uk</li>
+<li> 08:01 duckduckgo.com</li>
+<li> 08:01 www.ucu.org.uk</li>
+<li> 08:01 duckduckgo.com</li>
+<li> 08:00 chatgpt.com</li>
+<li> 07:59 mail.google.com</li>
+<li> 07:59 outlook.office.com</li>
+<li class='same'> 07:54 outlook.office.com</li>
+<li> 07:50 ce0997li.webitrent.com</li>
+<li> 07:48 mail.google.com</li>
+<li> 07:48 gmail.com</li>
+<li> 07:47 outlook.office.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:05 chatgpt.com</li>
+<li> 07:05 chat.openai.com</li>
+<li> 07:05 www.herts.ac.uk</li>
+<li> 07:05 duckduckgo.com</li>
+<li class='same'> 07:04 duckduckgo.com</li>
+<li> 07:04 ask.herts.ac.uk</li>
+<li> 07:04 duckduckgo.com</li>
+<li> 07:02 outlook.office.com</li>
+<li class='same'> 07:01 outlook.office.com</li>
+<li class='same'> 07:00 outlook.office.com</li>
+<li> 07:00 m365.cloud.microsoft</li>
+<li> 07:00 login.microsoftonline.com</li>
+<li> 07:00 ce0997li.webitrent.com</li>
+<li> 06:55 api-b6327e78.duosecurity.com</li>
+<li> 06:55 adfs.herts.ac.uk</li>
+<li> 06:55 workload.herts.ac.uk</li>
+<li> 06:55 herts.instructure.com</li>
+<li class='same'> 06:54 herts.instructure.com</li>
+<li> 06:54 docs.google.com</li>
+<li> 06:52 ce0997li.webitrent.com</li>
+<li class='same'> 06:51 ce0997li.webitrent.com</li>
+<li class='same'> 06:49 ce0997li.webitrent.com</li>
+<li> 06:49 login.microsoftonline.com</li>
+<li> 06:48 www.hr.herts.ac.uk</li>
+</ul>
+
 <H3>Thursday, 13/11/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -123,7 +181,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 16:46 <a href="https://www.theguardian.com/uk-news/2025/nov/13/police-and-commissioners-to-be-abolished-government-to-announce">Police and crime commissioners to be abolished | Police and crime commissioners | The Guardian</a></li>
+<li> 16:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
 <br>
