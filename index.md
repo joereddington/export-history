@@ -78,12 +78,12 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
 <li>chatgpt.com (1323)</li>
-<li>www.linkedin.com (1255)</li>
-<li>login.microsoftonline.com (1098)</li>
+<li>www.linkedin.com (1256)</li>
+<li>login.microsoftonline.com (1097)</li>
 <li>www.amazon.co.uk (1015)</li>
 <li>calendar.google.com (982)</li>
 <li>moodle.royalholloway.ac.uk (846)</li>
-<li>rhul-my.sharepoint.com (807)</li>
+<li>rhul-my.sharepoint.com (806)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (634)</li>
 <li>tvtropes.org (629)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (360)</li>
 <li>fritz.box (349)</li>
-<li>adfs.herts.ac.uk (329)</li>
+<li>adfs.herts.ac.uk (328)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 13/11/25</H3>
+
+<br>
+
+<ul><li> 18:52 www.linkedin.com</li>
+<li> 18:50 <a href="https://en.wikipedia.org/wiki/Talk:Tommy_Robinson">Talk:Tommy Robinson - Wikipedia</a></li>
+<li> 18:50 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:50 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 18:49 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 17:41 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+</ul>
 
 <br>
 
@@ -18453,8 +18468,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:20 outlook.office365.com</li>
 <li> 12:20 outlook.office.com</li>
 <li> 12:19 rhul.sharepoint.com</li>
-<li> 12:19 rhul-my.sharepoint.com</li>
-<li class='same'> 12:18 rhul-my.sharepoint.com</li>
+<li> 12:18 rhul-my.sharepoint.com</li>
 <li class='same'> 12:17 rhul-my.sharepoint.com</li>
 <li class='same'> 12:16 rhul-my.sharepoint.com</li>
 <li> 12:16 www.linkedin.com</li>
@@ -18608,8 +18622,7 @@ With number of accesses/minutes in parentheses
 <li> 08:06 login.microsoftonline.com</li>
 <li> 08:04 eu-west.azureauth.duosecurity.com</li>
 <li> 08:03 api-b6327e78.duosecurity.com</li>
-<li> 08:03 adfs.herts.ac.uk</li>
-<li> 08:02 api-b6327e78.duosecurity.com</li>
+<li class='same'> 08:02 api-b6327e78.duosecurity.com</li>
 <li> 08:02 adfs.herts.ac.uk</li>
 <li> 07:59 <a href="https://www.youtube.com/watch?v=SphNzjoqY_Y&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=40">(673) GCSE Maths: N2-16 [Method of Multiplication with Integers] - YouTube</a></li>
 <li> 07:59 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
@@ -18663,7 +18676,6 @@ With number of accesses/minutes in parentheses
 <li> 07:33 moodle.royalholloway.ac.uk</li>
 <li> 07:33 outlook.office365.com</li>
 <li class='same'> 07:32 outlook.office365.com</li>
-<li> 07:32 login.microsoftonline.com</li>
 <li> 07:32 mail.google.com</li>
 <li class='same'> 07:31 mail.google.com</li>
 <li class='same'> 07:30 mail.google.com</li>
@@ -18734,8 +18746,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:42 wiki.factorio.com</li>
 <li class='same'> 20:41 wiki.factorio.com</li>
 <li class='same'> 20:40 wiki.factorio.com</li>
-<li> 20:39 factorio.com</li>
-<li> 20:39 dl.factorio.com</li>
 <li> 20:39 factorio.com</li>
 <li> 20:33 tvtropes.org</li>
 <li class='same'> 20:32 tvtropes.org</li>
@@ -70717,6 +70727,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:59 outlook.office365.com</li>
+<li> 08:51 <a href="https://en.wikipedia.org/wiki/Talk:Tommy_Robinson">Talk:Tommy Robinson - Wikipedia</a></li>
 </ul>
 
 <H3>Thursday, 31/10/24</H3>
