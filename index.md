@@ -72,27 +72,27 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4039)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3908)</li>
-<li>outlook.office365.com (3796)</li>
+<li>outlook.office365.com (3803)</li>
 <li>docs.google.com (2618)</li>
 <li>duckduckgo.com (2329)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
-<li>chatgpt.com (1325)</li>
-<li>www.linkedin.com (1256)</li>
-<li>login.microsoftonline.com (1104)</li>
+<li>chatgpt.com (1327)</li>
+<li>www.linkedin.com (1257)</li>
+<li>login.microsoftonline.com (1105)</li>
 <li>www.amazon.co.uk (1015)</li>
 <li>calendar.google.com (983)</li>
-<li>moodle.royalholloway.ac.uk (848)</li>
+<li>moodle.royalholloway.ac.uk (850)</li>
 <li>rhul-my.sharepoint.com (806)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (635)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (603)</li>
 <li>herts.instructure.com (580)</li>
-<li>chat.openai.com (577)</li>
+<li>chat.openai.com (578)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (537)</li>
-<li>forms.office.com (507)</li>
+<li>forms.office.com (509)</li>
 <li>feedly.com (459)</li>
 <li>drive.google.com (428)</li>
 <li>rhul.sharepoint.com (360)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:44 outlook.office365.com</li>
+<ul><li> 15:20 forms.office.com</li>
+<li> 15:20 login.microsoftonline.com</li>
+<li> 15:20 forms.office.com</li>
+<li> 15:18 outlook.office365.com</li>
+<li class='same'> 15:17 outlook.office365.com</li>
+<li class='same'> 15:16 outlook.office365.com</li>
+<li> 15:15 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:14 moodle.royalholloway.ac.uk</li>
+<li> 15:13 outlook.office365.com</li>
+<li class='same'> 15:12 outlook.office365.com</li>
+<li class='same'> 15:11 outlook.office365.com</li>
+<li> 15:04 chatgpt.com</li>
+<li class='same'> 15:03 chatgpt.com</li>
+<li> 15:03 chat.openai.com</li>
+<li> 15:02 www.linkedin.com</li>
+<li> 15:01 outlook.office365.com</li>
+<li class='same'> 14:44 outlook.office365.com</li>
 <li class='same'> 14:43 outlook.office365.com</li>
 <li class='same'> 14:42 outlook.office365.com</li>
 <li> 14:36 moodle.royalholloway.ac.uk</li>
