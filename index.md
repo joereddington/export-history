@@ -72,16 +72,16 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4039)</li>
 <li>www.reddit.com (3986)</li>
 <li>www.google.com (3908)</li>
-<li>outlook.office365.com (3803)</li>
+<li>outlook.office365.com (3815)</li>
 <li>docs.google.com (2618)</li>
 <li>duckduckgo.com (2329)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1452)</li>
 <li>chatgpt.com (1327)</li>
-<li>www.linkedin.com (1257)</li>
+<li>www.linkedin.com (1260)</li>
 <li>login.microsoftonline.com (1105)</li>
 <li>www.amazon.co.uk (1015)</li>
-<li>calendar.google.com (983)</li>
+<li>calendar.google.com (984)</li>
 <li>moodle.royalholloway.ac.uk (850)</li>
 <li>rhul-my.sharepoint.com (806)</li>
 <li>www.theguardian.com (685)</li>
@@ -105,6 +105,36 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 14/11/25</H3>
+
+<br>
+
+<ul><li> 16:57 wcet.wiche.edu</li>
+<li> 16:56 journals.sagepub.com</li>
+<li> 16:56 www.sciencedirect.com</li>
+<li> 16:55 outlook.office365.com</li>
+<li> 16:50 calendar.google.com</li>
+<li> 16:45 outlook.office365.com</li>
+<li class='same'> 16:44 outlook.office365.com</li>
+<li> 16:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 16:43 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:43 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:43 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:43 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:42 www.irrodl.org</li>
+<li> 16:37 www.linkedin.com</li>
+<li> 16:36 asistdl.onlinelibrary.wiley.com</li>
+<li> 16:34 www.linkedin.com</li>
+<li> 16:33 outlook.office365.com</li>
+<li class='same'> 16:30 outlook.office365.com</li>
+<li class='same'> 16:29 outlook.office365.com</li>
+<li class='same'> 16:24 outlook.office365.com</li>
+<li class='same'> 16:23 outlook.office365.com</li>
+<li class='same'> 16:22 outlook.office365.com</li>
+<li class='same'> 16:21 outlook.office365.com</li>
+<li class='same'> 16:11 outlook.office365.com</li>
+<li class='same'> 16:05 outlook.office365.com</li>
+<li> 16:05 www.linkedin.com</li>
+</ul>
 
 <br>
 
