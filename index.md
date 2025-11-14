@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4104)</li>
+<ol><li>mail.google.com (4109)</li>
 <li>outlook.office.com (4039)</li>
-<li>www.reddit.com (3986)</li>
+<li>www.reddit.com (3987)</li>
 <li>www.google.com (3908)</li>
-<li>outlook.office365.com (3815)</li>
-<li>docs.google.com (2618)</li>
+<li>outlook.office365.com (3816)</li>
+<li>docs.google.com (2619)</li>
 <li>duckduckgo.com (2329)</li>
 <li>bsky.app (1581)</li>
-<li>www.facebook.com (1452)</li>
+<li>www.facebook.com (1453)</li>
 <li>chatgpt.com (1327)</li>
-<li>www.linkedin.com (1260)</li>
-<li>login.microsoftonline.com (1105)</li>
+<li>www.linkedin.com (1262)</li>
+<li>login.microsoftonline.com (1112)</li>
 <li>www.amazon.co.uk (1015)</li>
 <li>calendar.google.com (984)</li>
 <li>moodle.royalholloway.ac.uk (850)</li>
-<li>rhul-my.sharepoint.com (806)</li>
+<li>rhul-my.sharepoint.com (807)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (635)</li>
+<li>gmail.com (636)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (603)</li>
 <li>herts.instructure.com (580)</li>
 <li>chat.openai.com (578)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (537)</li>
-<li>forms.office.com (509)</li>
+<li>forms.office.com (510)</li>
 <li>feedly.com (459)</li>
 <li>drive.google.com (428)</li>
-<li>rhul.sharepoint.com (360)</li>
+<li>rhul.sharepoint.com (361)</li>
 <li>fritz.box (349)</li>
 <li>adfs.herts.ac.uk (329)</li>
 
@@ -108,7 +108,44 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:57 wcet.wiche.edu</li>
+<ul><li> 17:55 rhul.sharepoint.com</li>
+<li> 17:54 rhul-my.sharepoint.com</li>
+<li> 17:52 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:52 experience.elluciancloud.ie</li>
+<li> 17:48 herts365-my.sharepoint.com</li>
+<li> 17:48 login.microsoftonline.com</li>
+<li> 17:48 herts365-my.sharepoint.com</li>
+<li> 17:47 m365.cloud.microsoft</li>
+<li> 17:47 login.microsoftonline.com</li>
+<li> 17:47 ce0997li.webitrent.com</li>
+<li> 17:47 login.microsoftonline.com</li>
+<li> 17:47 ce0997li.webitrent.com</li>
+<li> 17:46 login.microsoftonline.com</li>
+<li> 17:46 www.hr.herts.ac.uk</li>
+<li> 17:37 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:37 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:37 login.microsoftonline.com</li>
+<li> 17:37 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:37 outlook.office365.com</li>
+<li> 17:37 experience.elluciancloud.ie</li>
+<li> 17:37 login.microsoftonline.com</li>
+<li> 17:37 experience.elluciancloud.ie</li>
+<li> 17:35 www.linkedin.com</li>
+<li> 17:27 mail.google.com</li>
+<li class='same'> 17:06 mail.google.com</li>
+<li> 17:05 docs.google.com</li>
+<li> 17:05 mail.google.com</li>
+<li> 17:04 discord.com</li>
+<li> 17:04 mail.google.com</li>
+<li> 17:03 www.facebook.com</li>
+<li> 17:03 mail.google.com</li>
+<li> 17:03 gmail.com</li>
+<li> 17:03 www.reddit.com</li>
+<li> 17:03 libbyapp.com</li>
+<li> 17:02 www.linkedin.com</li>
+<li> 17:00 login.microsoftonline.com</li>
+<li> 17:00 forms.office.com</li>
+<li> 16:57 wcet.wiche.edu</li>
 <li> 16:56 journals.sagepub.com</li>
 <li> 16:56 www.sciencedirect.com</li>
 <li> 16:55 outlook.office365.com</li>
