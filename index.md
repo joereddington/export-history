@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4110)</li>
-<li>outlook.office.com (4040)</li>
+<li>outlook.office.com (4041)</li>
 <li>www.reddit.com (3987)</li>
 <li>www.google.com (3907)</li>
 <li>outlook.office365.com (3815)</li>
 <li>docs.google.com (2619)</li>
-<li>duckduckgo.com (2340)</li>
+<li>duckduckgo.com (2341)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
-<li>chatgpt.com (1328)</li>
+<li>chatgpt.com (1331)</li>
 <li>www.linkedin.com (1265)</li>
-<li>login.microsoftonline.com (1108)</li>
+<li>login.microsoftonline.com (1109)</li>
 <li>www.amazon.co.uk (1015)</li>
 <li>calendar.google.com (984)</li>
 <li>moodle.royalholloway.ac.uk (849)</li>
@@ -88,8 +88,8 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (637)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (604)</li>
-<li>herts.instructure.com (589)</li>
-<li>chat.openai.com (579)</li>
+<li>herts.instructure.com (594)</li>
+<li>chat.openai.com (580)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (537)</li>
 <li>forms.office.com (512)</li>
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 05:58 ev.turnitinuk.com</li>
+<ul><li> 06:53 herts.instructure.com</li>
+<li> 06:53 chatgpt.com</li>
+<li class='same'> 06:52 chatgpt.com</li>
+<li> 06:47 herts.instructure.com</li>
+<li> 06:25 ev.turnitinuk.com</li>
+<li> 06:25 herts.instructure.com</li>
+<li> 06:18 outlook.office.com</li>
+<li> 06:17 m365.cloud.microsoft</li>
+<li> 06:17 login.microsoftonline.com</li>
+<li> 06:17 www.hr.herts.ac.uk</li>
+<li> 06:17 ev.turnitinuk.com</li>
+<li> 06:17 herts.instructure.com</li>
+<li> 06:15 chatgpt.com</li>
+<li> 06:15 chat.openai.com</li>
+<li> 06:12 <a href="https://en.wikipedia.org/wiki/Aston_Martin_DB10">Aston Martin DB10 - Wikipedia</a></li>
+<li> 06:11 <a href="https://en.wikipedia.org/wiki/Marek_Reichman">Marek Reichman - Wikipedia</a></li>
+<li> 06:09 <a href="https://en.wikipedia.org/wiki/Aston_Martin_DB11">Aston Martin DB11 - Wikipedia</a></li>
+<li> 06:09 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:09 <a href="https://en.wikipedia.org/w/index.php?title=Advance_HE&curid=4130428&diff=1322214473&oldid=1314515506">Advance HE: Difference between revisions - Wikipedia</a></li>
+<li> 06:09 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:09 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:09 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:08 duckduckgo.com</li>
+<li> 06:07 ev.turnitinuk.com</li>
+<li> 06:07 herts.instructure.com</li>
+<li> 06:02 www.sciencedirect.com</li>
+<li> 06:02 linkinghub.elsevier.com</li>
+<li> 06:01 www.thelancet.com</li>
+<li> 06:01 linkinghub.elsevier.com</li>
+<li> 06:01 journals.lww.com</li>
+<li> 06:01 btrc.gov.bd</li>
+<li> 06:01 pubmed.ncbi.nlm.nih.gov</li>
+<li> 06:01 www.who.int</li>
+<li> 06:01 worldpopulationreview.com</li>
+<li> 06:00 www.internetworldstats.com</li>
+<li> 06:00 pubmed.ncbi.nlm.nih.gov</li>
+<li> 06:00 www.who.int</li>
+<li> 06:00 pmc.ncbi.nlm.nih.gov</li>
+<li> 06:00 www.who.int</li>
+<li> 05:58 ev.turnitinuk.com</li>
 <li> 05:58 herts.instructure.com</li>
 <li> 05:56 outlook.office.com</li>
 <li> 05:56 herts.instructure.com</li>
