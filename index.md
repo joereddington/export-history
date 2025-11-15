@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4110)</li>
 <li>outlook.office.com (4046)</li>
 <li>www.reddit.com (3987)</li>
-<li>www.google.com (3907)</li>
+<li>www.google.com (3908)</li>
 <li>outlook.office365.com (3815)</li>
 <li>docs.google.com (2619)</li>
 <li>duckduckgo.com (2343)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 15/11/25</H3>
+
+<br>
+
+<ul><li> 10:29 www.google.com</li>
+<li> 10:29 www.businessinsider.com</li>
+</ul>
 
 <br>
 
@@ -536,7 +542,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:15 <a href="https://www.theguardian.com/uk-news/2025/nov/13/police-and-commissioners-to-be-abolished-government-to-announce">Police and crime commissioners to be abolished | Police and crime commissioners | The Guardian</a></li>
+<ul><li> 08:15 www.businessinsider.com</li>
+<li> 08:15 <a href="https://www.theguardian.com/uk-news/2025/nov/13/police-and-commissioners-to-be-abolished-government-to-announce">Police and crime commissioners to be abolished | Police and crime commissioners | The Guardian</a></li>
 <li> 08:03 outlook.office.com</li>
 <li class='same'> 08:02 outlook.office.com</li>
 <li> 08:02 www.dignityfunerals.co.uk</li>
@@ -79996,6 +80003,12 @@ With number of accesses/minutes in parentheses
 <li> 11:01 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&centralAuthError=Not+centrally+logged+in">Log in - Wikipedia</a></li>
 <li> 11:01 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Wikipedia, the free encyclopedia</a></li>
 <li> 10:55 myview.rhul.zellis.com</li>
+<li> 10:27 www.ftc.gov</li>
+</ul>
+
+<br>
+
+<ul><li> 07:27 <a href="https://en.wikipedia.org/wiki/Uber#Delayed_disclosure_of_data_breaches">Uber - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -80014,7 +80027,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:31 www.facebook.com</li>
+<ul><li> 15:58 www.wired.com</li>
+<li> 15:31 www.facebook.com</li>
 <li class='same'> 15:30 www.facebook.com</li>
 <li class='same'> 15:29 www.facebook.com</li>
 <li> 15:21 equalitytime.co.uk</li>
