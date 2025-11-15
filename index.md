@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (637)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (605)</li>
-<li>herts.instructure.com (600)</li>
+<li>herts.instructure.com (604)</li>
 <li>chat.openai.com (581)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (537)</li>
@@ -105,6 +105,37 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 15/11/25</H3>
+
+<br>
+
+<ul><li> 15:39 <a href="https://en.wikipedia.org/wiki/Dollar_sign#/media/File:Cifr%C3%A3o_symbol_(narrow).svg/3">Dollar sign - Wikipedia</a></li>
+<li> 15:39 <a href="https://en.wikipedia.org/wiki/Dollar_sign#/media/File:Sample_ledger_with_dollar_sign_in_John_Collins,_An_Introduction_to_Merchants-Accompts,_1686.png">Cifrão symbol (narrow) - Dollar sign - Wikipedia</a></li>
+<li> 15:39 <a href="https://en.wikipedia.org/wiki/Dollar_sign#/media/File:Dollar_Symbol_Evolution.svg">Sample ledger with dollar sign in John Collins, An Introduction to Merchants-Accompts, 1686 - Dollar sign - Wikipedia</a></li>
+<li> 15:39 <a href="https://en.wikipedia.org/wiki/Dollar_sign#/media/File:Philip_V_Coin_silver,_8_Reales_Mexico.jpg">Dollar Symbol Evolution - Dollar sign - Wikipedia</a></li>
+<li> 15:39 <a href="https://en.wikipedia.org/wiki/Dollar_sign#/media/File:Columnas_Plus_Ultra.png">Philip V Coin silver, 8 Reales Mexico - Dollar sign - Wikipedia</a></li>
+<li> 15:38 <a href="https://en.wikipedia.org/wiki/Dollar_sign#/media/File:Potosi_Real.jpg">Columnas Plus Ultra - Dollar sign - Wikipedia</a></li>
+<li> 15:38 <a href="https://en.wikipedia.org/wiki/Dollar_sign#/media/File:US-$1-LT-1869-Fr-18.jpg">Potosi Real - Dollar sign - Wikipedia</a></li>
+<li> 15:38 <a href="https://en.wikipedia.org/wiki/Dollar_sign#/media/File:Cifr%C3%A3o_symbol_(narrow).svg/2">US-$1-LT-1869-Fr-18 - Dollar sign - Wikipedia</a></li>
+<li> 15:38 <a href="https://en.wikipedia.org/wiki/Dollar_sign#/media/File:Cifr%C3%A3o_symbol_(narrow).svg">Cifrão symbol (narrow) - Dollar sign - Wikipedia</a></li>
+<li> 15:37 <a href="https://en.wikipedia.org/wiki/Dollar_sign#/media/File:Dollar_sign_fonts.svg">Cifrão symbol (narrow) - Dollar sign - Wikipedia</a></li>
+<li> 15:37 <a href="https://en.wikipedia.org/wiki/Dollar_sign">Dollar sign - Wikipedia</a></li>
+<li> 15:36 ev.turnitinuk.com</li>
+<li> 15:36 herts.instructure.com</li>
+<li class='same'> 15:35 herts.instructure.com</li>
+<li> 15:26 <a href="https://en.wikipedia.org/w/index.php?title=Canon_EOS&action=history">Canon EOS: Revision history - Wikipedia</a></li>
+<li> 15:26 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 15:26 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 15:25 <a href="https://en.wikipedia.org/wiki/Talk:2015_TalkTalk_data_breach">Talk:2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 15:25 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 15:25 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 15:25 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 15:25 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:25 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:25 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:25 ev.turnitinuk.com</li>
+<li> 15:25 herts.instructure.com</li>
+<li class='same'> 15:24 herts.instructure.com</li>
+</ul>
 
 <br>
 
