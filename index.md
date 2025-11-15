@@ -69,42 +69,246 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4110)</li>
-<li>outlook.office.com (4039)</li>
+<li>outlook.office.com (4040)</li>
 <li>www.reddit.com (3987)</li>
-<li>www.google.com (3908)</li>
-<li>outlook.office365.com (3816)</li>
+<li>www.google.com (3907)</li>
+<li>outlook.office365.com (3815)</li>
 <li>docs.google.com (2619)</li>
-<li>duckduckgo.com (2329)</li>
+<li>duckduckgo.com (2340)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
-<li>chatgpt.com (1327)</li>
-<li>www.linkedin.com (1262)</li>
-<li>login.microsoftonline.com (1112)</li>
+<li>chatgpt.com (1328)</li>
+<li>www.linkedin.com (1265)</li>
+<li>login.microsoftonline.com (1108)</li>
 <li>www.amazon.co.uk (1015)</li>
 <li>calendar.google.com (984)</li>
-<li>moodle.royalholloway.ac.uk (850)</li>
+<li>moodle.royalholloway.ac.uk (849)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (637)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (604)</li>
-<li>herts.instructure.com (580)</li>
-<li>chat.openai.com (578)</li>
+<li>herts.instructure.com (589)</li>
+<li>chat.openai.com (579)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (537)</li>
-<li>forms.office.com (510)</li>
+<li>forms.office.com (512)</li>
 <li>feedly.com (459)</li>
 <li>drive.google.com (428)</li>
-<li>rhul.sharepoint.com (365)</li>
-<li>fritz.box (349)</li>
-<li>adfs.herts.ac.uk (329)</li>
+<li>rhul.sharepoint.com (363)</li>
+<li>fritz.box (350)</li>
+<li>adfs.herts.ac.uk (328)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Saturday, 15/11/25</H3>
+
+<br>
+
+<ul><li> 05:58 ev.turnitinuk.com</li>
+<li> 05:58 herts.instructure.com</li>
+<li> 05:56 outlook.office.com</li>
+<li> 05:56 herts.instructure.com</li>
+<li> 05:55 link.springer.com</li>
+<li> 05:55 duckduckgo.com</li>
+<li> 05:54 outlook.office.com</li>
+<li> 05:54 m365.cloud.microsoft</li>
+<li> 05:54 login.microsoftonline.com</li>
+<li> 05:53 www.hr.herts.ac.uk</li>
+<li> 05:53 www.sciencedirect.com</li>
+<li> 05:53 duckduckgo.com</li>
+<li> 05:52 ev.turnitinuk.com</li>
+<li> 05:52 herts.instructure.com</li>
+<li> 05:45 ev.turnitinuk.com</li>
+<li> 05:44 herts.instructure.com</li>
+<li> 05:41 www.herts.ac.uk</li>
+<li> 05:35 ev.turnitinuk.com</li>
+<li> 05:35 herts.instructure.com</li>
+<li> 05:30 ev.turnitinuk.com</li>
+<li> 05:29 herts.instructure.com</li>
+<li> 05:28 <a href="https://en.wikipedia.org/wiki/Advanced_Computer_Software">Advanced Computer Software - Wikipedia</a></li>
+<li> 05:28 <a href="https://en.wikipedia.org/w/index.php?title=Advanced_Computer_Software&action=edit">Editing Advanced Computer Software - Wikipedia</a></li>
+<li> 05:27 <a href="https://en.wikipedia.org/wiki/Advanced_Computer_Software">Advanced Computer Software - Wikipedia</a></li>
+<li> 05:27 <a href="https://en.wikipedia.org/wiki/Alternative_Investment_Market">Alternative Investment Market - Wikipedia</a></li>
+<li> 05:24 <a href="https://en.wikipedia.org/wiki/Advanced_Computer_Software?action=edit&veswitched=1">Editing Advanced Computer Software - Wikipedia</a></li>
+<li> 05:24 <a href="https://en.wikipedia.org/w/index.php?title=Advanced_Computer_Software&action=edit">Editing Advanced Computer Software - Wikipedia</a></li>
+<li> 05:23 <a href="https://en.wikipedia.org/wiki/Advanced_Computer_Software">Advanced Computer Software - Wikipedia</a></li>
+<li> 05:23 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 05:23 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 05:22 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 05:22 herts.instructure.com</li>
+<li class='same'> 05:21 herts.instructure.com</li>
+<li> 05:21 www.linkedin.com</li>
+<li class='same'> 05:20 www.linkedin.com</li>
+<li> 05:20 herts.instructure.com</li>
+<li> 05:19 ico.org.uk</li>
+<li class='same'> 05:18 ico.org.uk</li>
+<li class='same'> 05:17 ico.org.uk</li>
+<li> 05:16 <a href="https://en.wikipedia.org/wiki/TikTok">TikTok - Wikipedia</a></li>
+<li> 05:16 <a href="https://en.wikipedia.org/wiki/TikTok?wprov=srpw1_2">TikTok - Wikipedia</a></li>
+<li> 05:16 <a href="https://en.wikipedia.org/w/index.php?search=tiktok+data+breach&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1&searchToken=bod3odprxhrncl2h60u1r7j17">tiktok data breach - Search results - Wikipedia</a></li>
+<li> 05:16 <a href="https://en.wikipedia.org/w/index.php?search=tiktok+data+breach&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1&wprov=acrw1_-1">tiktok data breach - Search results - Wikipedia</a></li>
+<li> 05:16 <a href="https://en.wikipedia.org/w/index.php?search=tiktok+data+breach&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1">tiktok data breach - Search results - Wikipedia</a></li>
+<li> 05:16 <a href="https://en.wikipedia.org/w/index.php?search=tik+tok+data+breach&title=Special%3ASearch&ns0=1">tik tok data breach - Search results - Wikipedia</a></li>
+<li> 05:16 ico.org.uk</li>
+<li class='same'> 05:15 ico.org.uk</li>
+<li class='same'> 05:13 ico.org.uk</li>
+<li> 05:13 <a href="https://en.wikipedia.org/wiki/Advanced_Computer_Software#Health_and_Care_Cyber_Incident">Advanced Computer Software - Wikipedia</a></li>
+<li> 05:12 <a href="https://en.wikipedia.org/w/index.php?title=Advanced_Computer_Software&action=edit&section=3">Editing Advanced Computer Software - Wikipedia</a></li>
+<li> 05:12 <a href="https://en.wikipedia.org/wiki/Advanced_Computer_Software#Health_and_Care_Cyber_Incident">Advanced Computer Software - Wikipedia</a></li>
+<li> 05:01 <a href="https://www.bbc.co.uk/news/uk-wales-62442127">NHS 111 software outage confirmed as cyber-attack - BBC News</a></li>
+<li> 05:01 <a href="https://en.wikipedia.org/w/index.php?title=Advanced_Computer_Software&action=edit&section=3">Editing Advanced Computer Software - Wikipedia</a></li>
+<li> 05:00 <a href="https://www.bbc.co.uk/news/uk-wales-62442127">NHS 111 software outage confirmed as cyber-attack - BBC News</a></li>
+<li> 05:00 www.bbc.com</li>
+<li> 04:57 <a href="https://en.wikipedia.org/wiki/Advanced_Computer_Software">Advanced Computer Software - Wikipedia</a></li>
+<li> 04:57 <a href="https://en.wikipedia.org/wiki/Advanced_Computer_Software?venotify=saved">Advanced Computer Software - Wikipedia</a></li>
+<li> 04:57 <a href="https://en.wikipedia.org/w/index.php?title=Advanced_Computer_Software&action=edit">Editing Advanced Computer Software - Wikipedia</a></li>
+<li> 04:55 <a href="https://en.wikipedia.org/w/index.php?title=Advanced_Computer_Software&section=4&oldid=1322247234&action=edit">Editing Advanced Computer Software - Wikipedia</a></li>
+<li> 04:55 <a href="https://en.wikipedia.org/w/index.php?title=Advanced_Computer_Software&action=edit&section=4">Editing Advanced Computer Software (section) - Wikipedia</a></li>
+<li> 04:55 <a href="https://en.wikipedia.org/wiki/Advanced_Computer_Software">Advanced Computer Software - Wikipedia</a></li>
+<li> 04:55 <a href="https://en.wikipedia.org/w/index.php?title=Advanced_Computer_Software&action=edit&section=6">Editing Advanced Computer Software (section) - Wikipedia</a></li>
+<li> 04:55 <a href="https://en.wikipedia.org/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_an_indiscriminate_collection_of_information">Wikipedia:What Wikipedia is not - Wikipedia</a></li>
+<li> 04:55 <a href="https://en.wikipedia.org/wiki/Wikipedia:INDISCRIMINATE">Wikipedia:What Wikipedia is not - Wikipedia</a></li>
+<li> 04:52 <a href="https://en.wikipedia.org/w/index.php?title=Advanced_Computer_Software&action=edit&section=6">Editing Advanced Computer Software (section) - Wikipedia</a></li>
+<li> 04:51 www.telegraph.co.uk</li>
+<li> 04:50 <a href="https://en.wikipedia.org/wiki/Vin_Murria">Vin Murria - Wikipedia</a></li>
+<li> 04:50 <a href="https://en.wikipedia.org/wiki/Advanced_Computer_Software">Advanced Computer Software - Wikipedia</a></li>
+<li> 04:50 <a href="https://en.wikipedia.org/w/index.php?title=Advanced_Computer_Software&action=history">Advanced Computer Software: Revision history - Wikipedia</a></li>
+<li> 04:50 <a href="https://en.wikipedia.org/wiki/Advanced_Computer_Software">Advanced Computer Software - Wikipedia</a></li>
+<li> 04:49 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Advancedcsg">User contributions for Advancedcsg - Wikipedia</a></li>
+<li> 04:49 <a href="https://en.wikipedia.org/wiki/Talk:Advanced_Computer_Software">Talk:Advanced Computer Software - Wikipedia</a></li>
+<li> 04:49 <a href="https://en.wikipedia.org/wiki/Advanced_Computer_Software">Advanced Computer Software - Wikipedia</a></li>
+<li> 04:49 duckduckgo.com</li>
+<li> 04:48 ico.org.uk</li>
+<li> 04:46 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 04:46 <a href="https://en.wikipedia.org/wiki/Ambulance_(computer_virus)">Ambulance (computer virus) - Wikipedia</a></li>
+<li> 04:46 <a href="https://en.wikipedia.org/w/index.php?title=Template:Infobox_cyberattack&redirect=no">Template:Infobox cyberattack - Wikipedia</a></li>
+<li> 04:45 <a href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Template:Infobox_malware&limit=500">Pages that link to "Template:Infobox malware" - Wikipedia</a></li>
+<li> 04:44 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/Template:Infobox_malware">Pages that link to "Template:Infobox malware" - Wikipedia</a></li>
+<li> 04:44 <a href="https://en.wikipedia.org/wiki/Template:Infobox_malware">Template:Infobox malware - Wikipedia</a></li>
+<li> 04:43 <a href="https://en.wikipedia.org/wiki/Template:Infobox_malware/doc">Template:Infobox malware/doc - Wikipedia</a></li>
+<li> 04:43 <a href="https://en.wikipedia.org/wiki/Template:Infobox_malware">Template:Infobox malware - Wikipedia</a></li>
+<li> 04:43 <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyberattack - Wikipedia</a></li>
+<li> 04:43 duckduckgo.com</li>
+<li> 04:42 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:40 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach?wprov=srpw1_0">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 04:40 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 04:40 <a href="https://en.wikipedia.org/w/index.php?search=talktalk+2015&title=Special%3ASearch&ns0=1&searchToken=c89iyufc5xmqy1e0acefks98a">talktalk 2015 - Search results - Wikipedia</a></li>
+<li> 04:40 <a href="https://en.wikipedia.org/w/index.php?search=talktalk+2015&title=Special%3ASearch&ns0=1">talktalk 2015 - Search results - Wikipedia</a></li>
+<li> 04:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:39 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Background_and_security_risks">2023 Capita data breach - Wikipedia</a></li>
+<li> 04:38 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 04:37 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 04:37 <a href="https://en.wikipedia.org/wiki/Capita">Capita - Wikipedia</a></li>
+<li> 04:36 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?action=edit&section=1&veswitched=1">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 04:36 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=1">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:36 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:36 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#cite_ref-:02_12-0">2023 Capita data breach - Wikipedia</a></li>
+<li> 04:36 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 04:29 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Investigation_and_regulatory_action">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 04:27 <a href="https://en.wikipedia.org/wiki/Elizabeth_Denham">Elizabeth Denham - Wikipedia</a></li>
+<li> 04:26 <a href="https://www.bbc.co.uk/news/business-37565367">TalkTalk fined £400,000 for theft of customer details - BBC News</a></li>
+<li> 04:26 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=6">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 04:25 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach#Investigation_and_regulatory_action">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 04:25 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit&section=6">Editing 2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 04:25 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 04:25 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group#2015_data_breach">TalkTalk Group - Wikipedia</a></li>
+<li> 04:24 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group">TalkTalk Group - Wikipedia</a></li>
+<li> 04:24 <a href="https://en.wikipedia.org/wiki/Talktalk">TalkTalk Group - Wikipedia</a></li>
+<li> 04:23 <a href="https://en.wikipedia.org/wiki/Capita#Controversies">Capita - Wikipedia</a></li>
+<li> 04:22 <a href="https://en.wikipedia.org/w/index.php?title=Capita&action=edit&section=13">Editing Capita - Wikipedia</a></li>
+<li> 04:22 <a href="https://en.wikipedia.org/wiki/Capita">Capita - Wikipedia</a></li>
+<li> 04:21 <a href="https://en.wikipedia.org/w/index.php?title=Capita&action=history">Capita: Revision history - Wikipedia</a></li>
+<li> 04:21 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:21 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 04:21 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:20 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 04:20 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
+<li> 04:20 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:19 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&section=2&oldid=1322243135&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:19 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 04:18 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 04:16 <a href="https://en.wikipedia.org/wiki/Capita#Controversies">Capita - Wikipedia</a></li>
+<li> 04:16 <a href="https://en.wikipedia.org/wiki/Capita">Capita - Wikipedia</a></li>
+<li> 04:15 dailysecurityreview.com</li>
+<li> 04:15 duckduckgo.com</li>
+<li> 04:14 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?action=edit&veswitched=1">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:14 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:08 www.theregister.com</li>
+<li> 04:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 04:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
+<li> 04:08 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:07 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&section=1&oldid=1322241625&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:07 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=1">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:06 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Timeline">2023 Capita data breach - Wikipedia</a></li>
+<li> 04:05 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?action=edit&section=1&veswitched=1#Timeline">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 04:05 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=1">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:05 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Timeline">2023 Capita data breach - Wikipedia</a></li>
+<li> 04:04 www.techradar.com</li>
+<li> 04:04 duckduckgo.com</li>
+<li> 04:03 <a href="https://en.wikipedia.org/wiki/Rclone">Rclone - Wikipedia</a></li>
+<li> 04:03 <a href="https://en.wikipedia.org/wiki/Metasploit#Cobalt_Strike">Metasploit - Wikipedia</a></li>
+<li> 04:02 www.pentestpartners.com</li>
+<li> 04:02 duckduckgo.com</li>
+<li> 04:01 <a href="https://en.wikipedia.org/wiki/Metasploit#Cobalt_Strike">Metasploit - Wikipedia</a></li>
+<li> 04:00 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 04:00 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=1">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 04:00 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Impact">2023 Capita data breach - Wikipedia</a></li>
+<li> 03:55 <a href="https://en.wikipedia.org/wiki/John_Edwards_(regulator)">John Edwards (regulator) - Wikipedia</a></li>
+<li> 03:55 duckduckgo.com</li>
+<li> 03:55 chatgpt.com</li>
+<li> 03:55 chat.openai.com</li>
+<li> 03:53 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 03:53 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Impact">2023 Capita data breach - Wikipedia</a></li>
+<li> 03:52 baringslaw.com</li>
+<li> 03:52 duckduckgo.com</li>
+<li> 03:51 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 03:51 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 03:50 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 03:50 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 03:50 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 03:49 www.theregister.com</li>
+<li> 03:49 duckduckgo.com</li>
+<li> 03:49 www.thetimes.com</li>
+<li> 03:49 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Timeline">2023 Capita data breach - Wikipedia</a></li>
+<li> 03:47 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=1">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 03:47 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 03:46 duckduckgo.com</li>
+<li> 03:45 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Timeline">2023 Capita data breach - Wikipedia</a></li>
+<li> 03:44 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=1">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 03:44 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 03:44 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 03:44 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 03:44 <a href="https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons#BLPCRIME">Wikipedia:Biographies of living persons - Wikipedia</a></li>
+<li> 03:44 <a href="https://en.wikipedia.org/wiki/Wikipedia:BLPCRIME">Wikipedia:Biographies of living persons - Wikipedia</a></li>
+<li> 03:43 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
+<li> 03:43 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
+<li> 03:43 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 03:42 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 03:42 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 03:42 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 03:42 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 03:42 www.linkedin.com</li>
+<li> 03:41 outlook.office365.com</li>
+</ul>
+
 <H3>Friday, 14/11/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:03 forms.office.com</li>
+<li> 20:03 login.microsoftonline.com</li>
+<li> 20:03 forms.office.com</li>
+<li> 20:03 outlook.office365.com</li>
+<li> 20:02 fritz.box</li>
+</ul>
 
 <br>
 
@@ -342,7 +546,7 @@ With number of accesses/minutes in parentheses
 <li> 15:48 chat.openai.com</li>
 <li> 15:47 outlook.office.com</li>
 <li> 15:45 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Impact">2023 Capita data breach - Wikipedia</a></li>
-<li> 15:45 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 15:45 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
 <li> 15:45 <a href="https://en.wikipedia.org/wiki/Capita_2023_Data_Breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 15:45 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 15:44 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
@@ -540,14 +744,14 @@ With number of accesses/minutes in parentheses
 <li> 07:12 <a href="https://www.bbc.co.uk/news/articles/c5yl60yp9g6o">Chris Mason: Unpicking a messy day for the government - BBC News</a></li>
 <li> 07:08 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&wvprov=sticky-header">Editing 2023 Capita data breach - Wikipedia</a></li>
-<li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
 <li> 06:57 www.theregister.com</li>
 <li class='same'> 06:56 www.theregister.com</li>
 <li> 06:56 duckduckgo.com</li>
 <li> 06:55 www.wired.com</li>
 <li> 06:55 duckduckgo.com</li>
 <li> 06:54 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Impact">2023 Capita data breach - Wikipedia</a></li>
-<li> 06:53 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 06:53 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
 <li> 06:53 feedly.com</li>
 <li> 06:53 <a href="https://www.theguardian.com/business/2023/aug/04/cyber-attack-to-cost-outsourcing-firm-capita-up-to-25m"></a></li>
 <li> 06:53 news.google.com</li>
@@ -556,9 +760,9 @@ With number of accesses/minutes in parentheses
 <li> 06:51 duckduckgo.com</li>
 <li> 06:50 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:50 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
-<li> 06:50 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:50 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:48 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&section=1&oldid=1321894511&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
-<li> 06:48 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=1">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 06:48 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=1">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:46 feedly.com</li>
 <li> 06:46 <a href="https://www.theguardian.com/business/2023/apr/20/capita-admits-customer-data-may-have-been-breached-during-cyber-attack"></a></li>
 <li> 06:46 news.google.com</li>
@@ -572,12 +776,12 @@ With number of accesses/minutes in parentheses
 <li> 06:41 <a href="https://www.bbc.co.uk/news/articles/c9d6yxdq3d2o">Capita fined £14m for cyber-attack which affected millions - BBC News</a></li>
 <li> 06:41 duckduckgo.com</li>
 <li> 06:41 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?action=edit&section=2&veswitched=1">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
-<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach - Wikipedia</a></li>
-<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
-<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
-<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&oldid=1321816798">2023 Capita data breach - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
@@ -611,7 +815,7 @@ With number of accesses/minutes in parentheses
 <li> 21:12 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 21:12 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
 <li> 21:12 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
-<li> 21:11 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">2023 Capita data breach - Wikipedia</a></li>
+<li> 21:11 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 21:11 <a href="https://en.wikipedia.org/wiki/Capita_2023_Data_Breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 21:11 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 21:11 <a href="https://en.wikipedia.org/w/index.php?title=Capita_2023_Data_Breach&veswitched=1&action=edit">Capita 2023 Data Breach - Wikipedia</a></li>
@@ -1082,7 +1286,7 @@ With number of accesses/minutes in parentheses
 <li> 20:53 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:53 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group?action=edit&section=3&veswitched=1">Editing TalkTalk Group (section) - Wikipedia</a></li>
 <li> 20:53 <a href="https://en.wikipedia.org/w/index.php?title=TalkTalk_Group&action=edit&section=3">Editing TalkTalk Group (section) - Wikipedia</a></li>
-<li> 20:53 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group">Editing TalkTalk Group (section) - Wikipedia</a></li>
+<li> 20:53 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group">TalkTalk Group - Wikipedia</a></li>
 <li> 20:50 <a href="https://en.wikipedia.org/wiki/Dido_Harding">Dido Harding - Wikipedia</a></li>
 <li> 20:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Protection_policy#extended">Wikipedia:Protection policy - Wikipedia</a></li>
 <li> 20:50 <a href="https://en.wikipedia.org/wiki/Donald_Trump">Donald Trump - Wikipedia</a></li>
@@ -1152,17 +1356,17 @@ With number of accesses/minutes in parentheses
 <li> 20:08 <a href="https://en.wikipedia.org/wiki/TalkTalk_Business">TalkTalk Business - Wikipedia</a></li>
 <li> 20:08 <a href="https://en.wikipedia.org/w/index.php?title=TalkTalk_Group&action=edit&section=3">Editing TalkTalk Group (section) - Wikipedia</a></li>
 <li class='same'> 20:07 <a href="https://en.wikipedia.org/w/index.php?title=TalkTalk_Group&action=edit&section=3">Editing TalkTalk Group (section) - Wikipedia</a></li>
-<li> 20:06 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group">Editing TalkTalk Group (section) - Wikipedia</a></li>
+<li> 20:06 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group">TalkTalk Group - Wikipedia</a></li>
 <li> 20:06 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:05 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:05 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:03 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=edit">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:03 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:03 <a href="https://en.wikipedia.org/w/index.php?title=TalkTalk_Group&action=edit&section=5">TalkTalk Group - Wikipedia</a></li>
-<li> 20:03 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group">Editing TalkTalk Group (section) - Wikipedia</a></li>
+<li> 20:03 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group">TalkTalk Group - Wikipedia</a></li>
 <li> 20:03 <a href="https://en.wikipedia.org/w/index.php?title=TalkTalk_Group&action=edit&section=5">TalkTalk Group - Wikipedia</a></li>
 <li> 20:03 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group#2015_data_breach">TalkTalk Group - Wikipedia</a></li>
-<li> 20:03 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group">Editing TalkTalk Group (section) - Wikipedia</a></li>
+<li> 20:03 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group">TalkTalk Group - Wikipedia</a></li>
 <li> 20:03 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
 <li> 20:02 fritz.box</li>
 </ul>
@@ -1269,7 +1473,7 @@ With number of accesses/minutes in parentheses
 <li> 16:50 duckduckgo.com</li>
 <li> 16:50 web.archive.org</li>
 <li> 16:50 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group#2015_data_breach">TalkTalk Group - Wikipedia</a></li>
-<li> 16:50 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group">Editing TalkTalk Group (section) - Wikipedia</a></li>
+<li> 16:50 <a href="https://en.wikipedia.org/wiki/TalkTalk_Group">TalkTalk Group - Wikipedia</a></li>
 <li> 16:48 duckduckgo.com</li>
 <li> 16:48 web.archive.org</li>
 <li class='same'> 16:47 web.archive.org</li>
@@ -17618,8 +17822,6 @@ With number of accesses/minutes in parentheses
 <li> 08:04 eu-west.azureauth.duosecurity.com</li>
 <li> 08:04 api-b6327e78.duosecurity.com</li>
 <li> 08:04 adfs.herts.ac.uk</li>
-<li> 08:04 api-b6327e78.duosecurity.com</li>
-<li> 08:04 adfs.herts.ac.uk</li>
 </ul>
 
 <br>
@@ -17640,7 +17842,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:08 www.reddit.com</li>
 <li class='same'> 07:07 www.reddit.com</li>
 <li class='same'> 07:06 www.reddit.com</li>
-<li> 07:06 api-b6327e78.duosecurity.com</li>
 <li> 07:06 adfs.herts.ac.uk</li>
 <li> 07:05 login.microsoftonline.com</li>
 <li> 07:05 herts365-my.sharepoint.com</li>
@@ -17694,16 +17895,10 @@ With number of accesses/minutes in parentheses
 <li> 15:53 duckduckgo.com</li>
 <li> 15:52 moodle.royalholloway.ac.uk</li>
 <li> 15:52 login.microsoftonline.com</li>
-<li> 15:52 moodle.royalholloway.ac.uk</li>
-<li> 15:52 login.microsoftonline.com</li>
 <li> 15:52 outlook.office365.com</li>
 <li> 15:51 www.mdpi.com</li>
 <li> 15:50 outlook.office365.com</li>
 <li class='same'> 15:49 outlook.office365.com</li>
-<li> 15:49 rhul.sharepoint.com</li>
-<li> 15:49 outlook.office365.com</li>
-<li> 15:49 login.microsoftonline.com</li>
-<li> 15:49 outlook.office365.com</li>
 <li> 15:48 <a href="https://www.theguardian.com/world/2025/aug/04/rescued-british-hiker-billed-14225-for-ignoring-rockslide-signs-in-dolomites">Rescued British hiker billed €14,225 for ignoring rockslide signs in Dolomites | Italy | The Guardian</a></li>
 <li> 15:45 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/04/from-emily-in-friends-to-che-diaz-the-tv-characters-so-bad-that-they-ruined-shows">From Emily in Friends to Che Diaz: the TV characters so bad that they ruined shows | Television | The Guardian</a></li>
 <li> 15:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -17722,8 +17917,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:23 onedaytests.com</li>
-<li> 14:23 www.paypal.com</li>
-<li> 14:23 onedaytests.com</li>
 <li class='same'> 14:22 onedaytests.com</li>
 <li> 14:21 uk.trustpilot.com</li>
 <li> 14:21 www.reddit.com</li>
@@ -18092,7 +18285,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:05 drive.google.com</li>
 <li> 17:05 www.google.com</li>
 <li> 17:05 www.reddit.com</li>
-<li> 17:05 www.googleadservices.com</li>
 <li> 17:05 cyberinnovationhub.wales</li>
 <li> 17:04 www.google.com</li>
 <li> 17:01 <a href="https://www.theguardian.com/commentisfree/2025/aug/02/piano-sport-rugby-legend-simple-sage-advice-perfect-practice">I’m no sportsman, but a rugby legend’s simple, sage advice struck a chord | Richard Coles | The Guardian</a></li>
@@ -18133,8 +18325,6 @@ With number of accesses/minutes in parentheses
 <li> 15:39 outlook.office.com</li>
 <li class='same'> 15:38 outlook.office.com</li>
 <li class='same'> 15:37 outlook.office.com</li>
-<li> 15:37 login.microsoftonline.com</li>
-<li> 15:37 outlook.office.com</li>
 <li> 15:37 rhul-my.sharepoint.com</li>
 <li> 15:34 calendar.google.com</li>
 <li class='same'> 15:33 calendar.google.com</li>
@@ -18159,8 +18349,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:10 www.linkedin.com</li>
 <li> 14:02 tuna.voicemod.net</li>
 <li> 14:02 www.myinstants.com</li>
-<li> 14:02 www.google.com</li>
-<li> 14:01 www.myinstants.com</li>
+<li class='same'> 14:01 www.myinstants.com</li>
 <li> 14:01 www.google.com</li>
 <li> 13:53 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
 <li> 13:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
@@ -18346,7 +18535,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:30 duckduckgo.com</li>
 <li> 11:28 www.linkedin.com</li>
-<li> 11:28 login.microsoftonline.com</li>
 <li> 11:28 outlook.office365.com</li>
 <li> 11:27 www.facebook.com</li>
 <li> 11:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -18446,8 +18634,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:43 www.linkedin.com</li>
 <li> 17:43 rhul.sharepoint.com</li>
 <li> 17:43 login.microsoftonline.com</li>
-<li> 17:43 rhul.sharepoint.com</li>
-<li> 17:43 login.microsoftonline.com</li>
 <li> 17:42 outlook.office365.com</li>
 <li> 17:42 duckduckgo.com</li>
 <li> 17:42 mail.google.com</li>
@@ -18491,8 +18677,6 @@ With number of accesses/minutes in parentheses
 <li> 17:19 feedly.com</li>
 <li class='same'> 17:18 feedly.com</li>
 <li> 17:18 www.linkedin.com</li>
-<li> 17:17 outlook.office365.com</li>
-<li> 17:17 login.microsoftonline.com</li>
 <li> 17:17 outlook.office365.com</li>
 <li> 17:16 www.linkedin.com</li>
 <li class='same'> 17:14 www.linkedin.com</li>
@@ -18589,8 +18773,7 @@ With number of accesses/minutes in parentheses
 <li> 17:30 intranet.royalholloway.ac.uk</li>
 <li> 17:30 duckduckgo.com</li>
 <li> 17:29 outlook.office365.com</li>
-<li> 17:28 sweeneysflorist.co.uk</li>
-<li> 17:24 outlook.office365.com</li>
+<li class='same'> 17:24 outlook.office365.com</li>
 <li> 17:23 web.whatsapp.com</li>
 <li> 17:23 www.paypal.com</li>
 <li> 17:21 sweeneysflorist.co.uk</li>
@@ -77558,7 +77741,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 05:40 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
-<li class='same'> 05:38 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 05:39 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
+<li> 05:38 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 </ul>
 
 <H3>Sunday, 26/05/24</H3>
@@ -77576,6 +77760,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:50 www.facebook.com</li>
 <li class='same'> 21:29 www.facebook.com</li>
+<li> 21:27 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -77599,6 +77784,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:25 store.steampowered.com</li>
 <li> 14:20 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li class='same'> 14:08 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 14:08 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -77611,6 +77797,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 06:43 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li class='same'> 06:40 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 06:27 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
 <li> 06:25 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 06:24 <a href="https://en.wikipedia.org/wiki/British_Airways">British Airways - Wikipedia</a></li>
 </ul>
@@ -78249,6 +78436,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:32 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
+<li> 20:19 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -78454,11 +78642,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 20:17 moodle.royalholloway.ac.uk</li>
 <li> 20:11 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
-</ul>
-
-<br>
-
-<ul><li> 19:33 www.google.com</li>
+<li> 19:51 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
+<li> 19:33 www.google.com</li>
 <li class='same'> 19:32 www.google.com</li>
 </ul>
 
@@ -78487,11 +78672,14 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:22 github.com</li>
 <li> 12:17 docs.google.com</li>
 <li> 11:56 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 11:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons#BLPCRIME">Wikipedia:Biographies of living persons - Wikipedia</a></li>
+<li> 11:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:BLPCRIME">Wikipedia:Biographies of living persons - Wikipedia</a></li>
 </ul>
 
 <br>
 
-<ul><li> 11:05 librarysearch.royalholloway.ac.uk</li>
+<ul><li> 11:17 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
+<li> 11:05 librarysearch.royalholloway.ac.uk</li>
 <li> 11:04 rhul-my.sharepoint.com</li>
 <li> 10:59 github.com</li>
 <li class='same'> 10:58 github.com</li>
@@ -78512,6 +78700,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 22:09 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
+<li> 22:04 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
 <li> 22:03 www.bbc.com</li>
 <li> 22:03 <a href="https://www.bbc.co.uk/news/technology-54568784">British Airways fined £20m over data breach - BBC News</a></li>
 <li class='same'> 22:00 <a href="https://www.bbc.co.uk/news/technology-54568784">British Airways fined £20m over data breach - BBC News</a></li>
@@ -78678,6 +78867,7 @@ With number of accesses/minutes in parentheses
 <li> 08:32 <a href="https://en.wikipedia.org/w/index.php?title=User_talk:Joereddington&action=history">User talk:Joereddington: Revision history - Wikipedia</a></li>
 <li> 08:32 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
 <li class='same'> 08:30 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 08:26 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
 <li> 08:24 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 08:22 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 <li class='same'> 08:21 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
@@ -78689,6 +78879,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 07:45 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
+<li> 07:40 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
 <li> 07:40 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 07:13 twitter.com</li>
 </ul>
@@ -78832,6 +79023,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:06 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 21:05 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
 <li> 20:55 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 </ul>
 
@@ -78841,7 +79033,9 @@ With number of accesses/minutes in parentheses
 <li> 19:46 rhul-my.sharepoint.com</li>
 <li class='same'> 19:45 rhul-my.sharepoint.com</li>
 <li> 19:43 outlook.office.com</li>
+<li> 19:42 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
 <li> 19:15 rhul.hosted.panopto.com</li>
+<li> 19:08 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -78914,7 +79108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:58 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<ul><li> 13:03 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
+<li class='same'> 12:58 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
+<li> 12:58 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
 </ul>
 
 <br>
