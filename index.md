@@ -77,18 +77,18 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (2343)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
-<li>chatgpt.com (1335)</li>
+<li>chatgpt.com (1336)</li>
 <li>www.linkedin.com (1265)</li>
 <li>login.microsoftonline.com (1109)</li>
 <li>www.amazon.co.uk (1015)</li>
-<li>calendar.google.com (984)</li>
+<li>calendar.google.com (985)</li>
 <li>moodle.royalholloway.ac.uk (849)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (637)</li>
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (605)</li>
-<li>herts.instructure.com (597)</li>
+<li>herts.instructure.com (600)</li>
 <li>chat.openai.com (581)</li>
 <li>github.com (548)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (537)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:44 www.typingtest.com</li>
+<ul><li> 14:31 www.researchgate.net</li>
+<li> 14:31 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:31 <a href="https://en.wikipedia.org/wiki/Wikipedia:Bots/Requests_for_approval/PrimeBOT_24">Wikipedia:Bots/Requests for approval/PrimeBOT 24 - Wikipedia</a></li>
+<li> 14:31 <a href="https://en.wikipedia.org/wiki/User:PrimeBOT/24">Wikipedia:Bots/Requests for approval/PrimeBOT 24 - Wikipedia</a></li>
+<li> 14:31 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:31 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:31 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:31 ev.turnitinuk.com</li>
+<li> 14:31 herts.instructure.com</li>
+<li class='same'> 14:30 herts.instructure.com</li>
+<li> 14:21 calendar.google.com</li>
+<li> 14:19 <a href="https://en.wikipedia.org/wiki/Brussels_effect">Brussels effect - Wikipedia</a></li>
+<li> 14:19 <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation - Wikipedia</a></li>
+<li> 14:19 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:17 ev.turnitinuk.com</li>
+<li> 14:17 herts.instructure.com</li>
+<li> 14:11 chatgpt.com</li>
+<li> 13:44 www.typingtest.com</li>
 <li class='same'> 13:42 www.typingtest.com</li>
 <li class='same'> 13:40 www.typingtest.com</li>
 <li class='same'> 13:39 www.typingtest.com</li>
