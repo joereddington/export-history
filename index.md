@@ -74,10 +74,10 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3907)</li>
 <li>outlook.office365.com (3815)</li>
 <li>docs.google.com (2619)</li>
-<li>duckduckgo.com (2342)</li>
+<li>duckduckgo.com (2343)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
-<li>chatgpt.com (1333)</li>
+<li>chatgpt.com (1334)</li>
 <li>www.linkedin.com (1265)</li>
 <li>login.microsoftonline.com (1109)</li>
 <li>www.amazon.co.uk (1015)</li>
@@ -105,6 +105,32 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 15/11/25</H3>
+
+<br>
+
+<ul><li> 09:20 www.ftc.gov</li>
+<li class='same'> 09:19 www.ftc.gov</li>
+<li> 09:18 www.legifrance.gouv.fr</li>
+<li> 09:18 www.cnil.fr</li>
+<li> 09:17 www.wired.com</li>
+<li class='same'> 09:16 www.wired.com</li>
+<li> 09:15 chatgpt.com</li>
+<li> 09:14 www.wired.com</li>
+<li> 09:13 <a href="https://en.wikipedia.org/wiki/Uber#Data_breaches">Uber - Wikipedia</a></li>
+<li> 09:13 <a href="https://en.wikipedia.org/wiki/Uber#Delayed_disclosure_of_data_breaches">Uber - Wikipedia</a></li>
+<li> 09:12 <a href="https://en.wikipedia.org/wiki/Joe_Sullivan_(cybersecurity)">Joe Sullivan (cybersecurity) - Wikipedia</a></li>
+<li> 09:12 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 09:12 www.wired.com</li>
+<li class='same'> 09:11 www.wired.com</li>
+<li class='same'> 09:10 www.wired.com</li>
+<li> 09:10 duckduckgo.com</li>
+<li> 09:10 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 09:10 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 09:10 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:10 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:10 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 09:09 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+</ul>
 
 <br>
 
