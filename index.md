@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:44 sellercentral.amazon.co.uk</li>
+<ul><li> 10:56 sellercentral.amazon.co.uk</li>
+<li> 10:56 eu.account.amazon.com</li>
+<li> 10:55 scholar.google.com</li>
+<li> 10:51 aclanthology.org</li>
+<li> 10:51 scholar.google.com</li>
+<li class='same'> 10:47 scholar.google.com</li>
+<li class='same'> 10:46 scholar.google.com</li>
+<li> 10:45 sellercentral.amazon.co.uk</li>
+<li class='same'> 10:44 sellercentral.amazon.co.uk</li>
 <li class='same'> 10:43 sellercentral.amazon.co.uk</li>
 <li> 10:43 eu.account.amazon.com</li>
 <li> 10:43 sellercentral.amazon.co.uk</li>
