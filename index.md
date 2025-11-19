@@ -80,8 +80,8 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1367)</li>
 <li>www.linkedin.com (1288)</li>
 <li>login.microsoftonline.com (1122)</li>
-<li>www.amazon.co.uk (1017)</li>
-<li>calendar.google.com (991)</li>
+<li>www.amazon.co.uk (1023)</li>
+<li>calendar.google.com (992)</li>
 <li>moodle.royalholloway.ac.uk (863)</li>
 <li>rhul-my.sharepoint.com (813)</li>
 <li>www.theguardian.com (685)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (551)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
 <li>forms.office.com (512)</li>
-<li>feedly.com (464)</li>
+<li>feedly.com (465)</li>
 <li>drive.google.com (429)</li>
 <li>rhul.sharepoint.com (365)</li>
 <li>fritz.box (352)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:58 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<ul><li> 09:25 calendar.google.com</li>
+<li> 09:24 www.amazon.co.uk</li>
+<li class='same'> 09:23 www.amazon.co.uk</li>
+<li class='same'> 09:22 www.amazon.co.uk</li>
+<li class='same'> 09:21 www.amazon.co.uk</li>
+<li class='same'> 09:20 www.amazon.co.uk</li>
+<li class='same'> 09:19 www.amazon.co.uk</li>
+<li> 09:18 www.wired.com</li>
+<li> 09:18 feedly.com</li>
+<li> 09:17 <a href="https://en.wikipedia.org/w/index.php?title=Libby_(service)&curid=73232528&diff=1322943001&oldid=1317869142">Libby (service): Difference between revisions - Wikipedia</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 09:16 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
+<li> 09:15 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 09:15 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon_EOS/GA3&action=edit">Editing Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 09:15 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:58 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 07:57 <a href="https://en.wikipedia.org/w/index.php?title=Moonlight_Maze&action=history">Moonlight Maze: Revision history - Wikipedia</a></li>
 <li> 07:57 <a href="https://en.wikipedia.org/wiki/Moonlight_Maze">Moonlight Maze - Wikipedia</a></li>
 <li> 07:56 <a href="https://en.wikipedia.org/wiki/Talk:Security_hacker">Talk:Security hacker - Wikipedia</a></li>
@@ -196,7 +217,7 @@ With number of accesses/minutes in parentheses
 <li> 16:39 chatgpt.com</li>
 <li class='same'> 16:38 chatgpt.com</li>
 <li> 16:38 chat.openai.com</li>
-<li> 16:35 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 16:35 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 16:35 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:35 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:35 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -249,15 +270,15 @@ With number of accesses/minutes in parentheses
 <li> 15:56 <a href="https://en.wikipedia.org/wiki/Wikipedia:Administrators%27_noticeboard/Incidents">Wikipedia:Administrators' noticeboard/Incidents - Wikipedia</a></li>
 <li> 15:56 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Serebit">User contributions for Serebit - Wikipedia</a></li>
 <li> 15:56 <a href="https://en.wikipedia.org/wiki/User:Serebit">User:Serebit - Wikipedia</a></li>
-<li> 15:55 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:55 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 15:52 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon_EOS/GA3&action=edit">Editing Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 15:52 <a href="https://en.wikipedia.org/wiki/Template:GATable">Template:GATable - Wikipedia</a></li>
-<li> 15:52 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:52 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 15:50 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
 <li> 15:50 duckduckgo.com</li>
 <li> 15:47 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon_EOS/GA3&action=edit">Editing Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 15:47 <a href="https://en.wikipedia.org/w/index.php?title=Canon_EOS&action=edit">Editing Canon EOS - Wikipedia</a></li>
-<li> 15:47 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:47 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 15:47 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 15:46 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 15:36 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens#It's_been_14_years_since_GA...-DoesNotExist-DiscussionToolsHack">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
@@ -274,14 +295,14 @@ With number of accesses/minutes in parentheses
 <li> 15:31 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens/GA1">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens/GA1 - Wikipedia</a></li>
 <li> 15:31 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
 <li> 15:30 <a href="https://en.wikipedia.org/wiki/Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens">Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
-<li> 15:30 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:30 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 15:29 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon_EOS/GA3&action=edit">Editing Talk:Canon EOS/GA3 - Wikipedia</a></li>
-<li> 15:28 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:28 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 15:26 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
 <li> 15:26 duckduckgo.com</li>
 <li> 15:17 <a href="https://en.wikipedia.org/wiki/Template:GATable">Template:GATable - Wikipedia</a></li>
 <li> 15:17 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon_EOS/GA3&action=edit">Editing Talk:Canon EOS/GA3 - Wikipedia</a></li>
-<li> 15:16 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 15:16 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 15:16 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 15:14 <a href="https://en.wikipedia.org/wiki/User:Serebit">User:Serebit - Wikipedia</a></li>
@@ -290,7 +311,7 @@ With number of accesses/minutes in parentheses
 <li> 15:03 chatgpt.com</li>
 <li> 15:02 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
 <li> 15:02 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
-<li> 15:02 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:02 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 15:02 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 15:02 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 15:02 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
@@ -347,7 +368,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:45 openai.com</li>
 <li> 13:44 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon_EOS/GA3&action=edit&section=1">Editing Talk:Canon EOS/GA3 (section) - Wikipedia</a></li>
 <li> 13:44 openai.com</li>
-<li> 13:44 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 13:44 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 13:44 openai.com</li>
 <li> 13:43 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
 <li> 13:43 openai.com</li>
@@ -374,7 +395,7 @@ With number of accesses/minutes in parentheses
 <li> 13:37 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Templates">Wikipedia:Good article nominations/Templates - Wikipedia</a></li>
 <li> 13:37 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA2">Talk:Canon EOS/GA2 - Wikipedia</a></li>
 <li> 13:37 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
-<li> 13:37 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 13:37 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
 <li> 13:36 <a href="https://en.wikipedia.org/w/index.php?title=Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens&action=history">Sigma 8-16mm f/4.5-5.6 DC HSM lens: Revision history - Wikipedia</a></li>
 <li> 13:35 <a href="https://en.wikipedia.org/w/index.php?title=Canon_EOS_R&action=history">Canon EOS R: Revision history - Wikipedia</a></li>
 <li> 13:34 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon+EOS%2FGA3&action=edit&editintro=Template:GAN/editintro&preload=Template:GAN/preload">Creating Talk:Canon EOS/GA3 - Wikipedia</a></li>
