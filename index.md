@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (614)</li>
 <li>web.whatsapp.com (613)</li>
 <li>chat.openai.com (596)</li>
-<li>github.com (551)</li>
+<li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
 <li>forms.office.com (512)</li>
 <li>feedly.com (465)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:44 www.torproject.org</li>
+<ul><li> 11:53 forum.torproject.org</li>
+<li> 11:52 github.com</li>
+<li> 11:44 www.torproject.org</li>
 <li> 11:44 dist.torproject.org</li>
 <li> 11:44 www.torproject.org</li>
 <li> 11:44 www.google.com</li>
