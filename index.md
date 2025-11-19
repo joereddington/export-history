@@ -72,18 +72,18 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3992)</li>
 <li>www.google.com (3920)</li>
-<li>outlook.office365.com (3870)</li>
+<li>outlook.office365.com (3873)</li>
 <li>docs.google.com (2627)</li>
-<li>duckduckgo.com (2386)</li>
+<li>duckduckgo.com (2388)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
 <li>chatgpt.com (1370)</li>
-<li>www.linkedin.com (1290)</li>
+<li>www.linkedin.com (1293)</li>
 <li>login.microsoftonline.com (1131)</li>
 <li>www.amazon.co.uk (1028)</li>
 <li>calendar.google.com (993)</li>
 <li>moodle.royalholloway.ac.uk (869)</li>
-<li>rhul-my.sharepoint.com (813)</li>
+<li>rhul-my.sharepoint.com (815)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (629)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:23 www.wikicfp.com</li>
+<ul><li> 15:12 <a href="https://en.wikipedia.org/wiki/Talk:Tulip_Siddiq"></a></li>
+<li> 15:11 www.ft.com</li>
+<li> 15:10 <a href="https://en.wikipedia.org/wiki/Tulip_Siddiq">Tulip Siddiq - Wikipedia</a></li>
+<li> 15:09 <a href="https://en.wikipedia.org/w/index.php?title=Tulip_Siddiq&curid=33131881&diff=1323072605&oldid=1322664987">Tulip Siddiq: Difference between revisions - Wikipedia</a></li>
+<li> 15:09 <a href="https://en.wikipedia.org/wiki/Richard_Keys">Richard Keys - Wikipedia</a></li>
+<li> 15:09 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:03 intranet.royalholloway.ac.uk</li>
+<li> 15:03 outlook.office365.com</li>
+<li> 15:03 intranet.royalholloway.ac.uk</li>
+<li class='same'> 15:02 intranet.royalholloway.ac.uk</li>
+<li> 15:02 outlook.office365.com</li>
+<li class='same'> 15:01 outlook.office365.com</li>
+<li> 15:01 duckduckgo.com</li>
+<li> 14:51 rhul-my.sharepoint.com</li>
+<li class='same'> 14:50 rhul-my.sharepoint.com</li>
+<li> 14:45 www.linkedin.com</li>
+<li class='same'> 14:44 www.linkedin.com</li>
+<li class='same'> 14:41 www.linkedin.com</li>
+<li> 14:28 www.thetimes.com</li>
+<li> 14:27 www.wikicfp.com</li>
+<li class='same'> 14:26 www.wikicfp.com</li>
+<li class='same'> 14:25 www.wikicfp.com</li>
+<li class='same'> 14:24 www.wikicfp.com</li>
+<li> 14:24 www.semanticscholar.org</li>
+<li> 14:24 duckduckgo.com</li>
+<li> 14:23 www.wikicfp.com</li>
 <li> 14:23 duckduckgo.com</li>
 <li> 14:23 chatgpt.com</li>
 <li class='same'> 14:22 chatgpt.com</li>
