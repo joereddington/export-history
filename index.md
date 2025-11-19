@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (551)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
 <li>forms.office.com (512)</li>
-<li>feedly.com (462)</li>
+<li>feedly.com (464)</li>
 <li>drive.google.com (429)</li>
 <li>rhul.sharepoint.com (365)</li>
 <li>fritz.box (352)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:29 chatgpt.com</li>
+<ul><li> 07:58 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 07:57 <a href="https://en.wikipedia.org/w/index.php?title=Moonlight_Maze&action=history">Moonlight Maze: Revision history - Wikipedia</a></li>
+<li> 07:57 <a href="https://en.wikipedia.org/wiki/Moonlight_Maze">Moonlight Maze - Wikipedia</a></li>
+<li> 07:56 <a href="https://en.wikipedia.org/wiki/Talk:Security_hacker">Talk:Security hacker - Wikipedia</a></li>
+<li> 07:56 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:56 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:56 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page&centralauthLoginToken=780dee99c3d6b907dfda0664575deca1&usesul3=1&useformat=desktop&authUniqueId=8e7ced"></a></li>
+<li> 07:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin/return&returnto=Main+Page&wpLoginToken=a6629b59b66b7c478a3dc234a4cabe12691d7814%2B%5C&useformat=desktop&usesul3=1&centralauthLoginToken=780dee99c3d6b907dfda0664575deca1"></a></li>
+<li> 07:56 auth.wikimedia.org</li>
+<li> 07:56 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&title=Special:UserLogin&centralAuthAutologinTried=1&useformat=desktop&centralAuthError=Not+centrally+logged+in"></a></li>
+<li> 07:56 auth.wikimedia.org</li>
+<li> 07:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:55 <a href="https://en.wikipedia.org/"></a></li>
+<li> 07:55 feedly.com</li>
+<li> 07:55 accounts.google.com</li>
+<li> 07:55 feedly.com</li>
+<li> 07:29 chatgpt.com</li>
 <li> 07:29 chat.openai.com</li>
 <li> 07:28 www.linkedin.com</li>
 <li> 07:23 mail.google.com</li>
