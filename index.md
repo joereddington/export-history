@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4149)</li>
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3990)</li>
-<li>www.google.com (3918)</li>
+<li>www.google.com (3919)</li>
 <li>outlook.office365.com (3856)</li>
 <li>docs.google.com (2626)</li>
 <li>duckduckgo.com (2383)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:08 <a href="https://en.wikipedia.org/wiki/Janet_Dibley"></a></li>
+<ul><li> 11:17 read.amazon.com</li>
+<li> 11:17 www.google.com</li>
+<li> 11:08 <a href="https://en.wikipedia.org/wiki/Janet_Dibley">Janet Dibley - Wikipedia</a></li>
 <li> 11:08 <a href="https://en.wikipedia.org/wiki/Tyler_Butterworth">Tyler Butterworth - Wikipedia</a></li>
 <li> 11:07 <a href="https://en.wikipedia.org/wiki/Peter_Butterworth">Peter Butterworth - Wikipedia</a></li>
 <li> 11:07 www.google.com</li>
