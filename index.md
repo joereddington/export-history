@@ -72,12 +72,12 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3992)</li>
 <li>www.google.com (3922)</li>
-<li>outlook.office365.com (3873)</li>
+<li>outlook.office365.com (3879)</li>
 <li>docs.google.com (2628)</li>
-<li>duckduckgo.com (2388)</li>
+<li>duckduckgo.com (2391)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
-<li>chatgpt.com (1377)</li>
+<li>chatgpt.com (1382)</li>
 <li>www.linkedin.com (1293)</li>
 <li>login.microsoftonline.com (1131)</li>
 <li>www.amazon.co.uk (1028)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:31 chatgpt.com</li>
+<ul><li> 17:56 outlook.office365.com</li>
+<li class='same'> 17:55 outlook.office365.com</li>
+<li class='same'> 17:54 outlook.office365.com</li>
+<li class='same'> 17:53 outlook.office365.com</li>
+<li> 17:53 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 17:52 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 17:51 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 17:50 gitlab.cim.rhul.ac.uk</li>
+<li> 17:49 www.ip-tracker.org</li>
+<li> 17:49 duckduckgo.com</li>
+<li class='same'> 17:48 duckduckgo.com</li>
+<li> 17:48 outlook.office365.com</li>
+<li> 17:46 chatgpt.com</li>
+<li class='same'> 17:45 chatgpt.com</li>
+<li class='same'> 17:38 chatgpt.com</li>
+<li> 17:36 scholar.google.com</li>
+<li> 17:36 cisse.info</li>
+<li> 17:36 scholar.google.com</li>
+<li class='same'> 17:35 scholar.google.com</li>
+<li> 17:35 cisse.info</li>
+<li> 17:35 duckduckgo.com</li>
+<li> 17:35 scholar.google.com</li>
+<li class='same'> 17:34 scholar.google.com</li>
+<li> 17:33 chatgpt.com</li>
+<li> 17:32 outlook.office365.com</li>
+<li> 17:32 chatgpt.com</li>
+<li class='same'> 17:31 chatgpt.com</li>
 <li class='same'> 17:30 chatgpt.com</li>
 <li class='same'> 17:29 chatgpt.com</li>
 <li> 17:29 chat.openai.com</li>
