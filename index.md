@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4147)</li>
 <li>outlook.office.com (4050)</li>
-<li>www.reddit.com (3989)</li>
+<li>www.reddit.com (3990)</li>
 <li>www.google.com (3913)</li>
 <li>outlook.office365.com (3856)</li>
 <li>docs.google.com (2626)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1367)</li>
 <li>www.linkedin.com (1288)</li>
 <li>login.microsoftonline.com (1122)</li>
-<li>www.amazon.co.uk (1027)</li>
+<li>www.amazon.co.uk (1028)</li>
 <li>calendar.google.com (992)</li>
 <li>moodle.royalholloway.ac.uk (863)</li>
 <li>rhul-my.sharepoint.com (813)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (646)</li>
 <li>tvtropes.org (629)</li>
 <li>herts.instructure.com (614)</li>
-<li>web.whatsapp.com (612)</li>
+<li>web.whatsapp.com (613)</li>
 <li>chat.openai.com (596)</li>
 <li>github.com (551)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:47 www.reddit.com</li>
+<ul><li> 10:14 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:14 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:14 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 10:14 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 10:14 <a href="https://en.wikipedia.org/"></a></li>
+<li> 10:14 www.amazon.co.uk</li>
+<li> 09:50 www.reddit.com</li>
+<li> 09:47 web.whatsapp.com</li>
+<li> 09:47 www.reddit.com</li>
 <li class='same'> 09:46 www.reddit.com</li>
 <li> 09:45 <a href="https://en.wikipedia.org/wiki/Cloudflare">Cloudflare - Wikipedia</a></li>
 <li> 09:44 www.google.com</li>
