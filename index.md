@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4149)</li>
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3990)</li>
-<li>www.google.com (3913)</li>
+<li>www.google.com (3916)</li>
 <li>outlook.office365.com (3856)</li>
 <li>docs.google.com (2626)</li>
 <li>duckduckgo.com (2383)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 www.amazon.com</li>
+<ul><li> 10:44 sellercentral.amazon.co.uk</li>
+<li class='same'> 10:43 sellercentral.amazon.co.uk</li>
+<li> 10:43 eu.account.amazon.com</li>
+<li> 10:43 sellercentral.amazon.co.uk</li>
+<li> 10:43 eu.account.amazon.com</li>
+<li> 10:42 sellercentral.amazon.co.uk</li>
+<li class='same'> 10:35 sellercentral.amazon.co.uk</li>
+<li> 10:35 eu.account.amazon.com</li>
+<li> 10:34 sellercentral.amazon.co.uk</li>
+<li> 10:34 www.google.com</li>
+<li> 10:34 sell.amazon.co.uk</li>
+<li> 10:34 www.google.com</li>
+<li class='same'> 10:32 www.google.com</li>
+<li> 10:31 account.kdp.amazon.com</li>
+<li class='same'> 10:30 account.kdp.amazon.com</li>
+<li> 10:29 www.amazon.com</li>
 <li> 10:29 account.kdp.amazon.com</li>
 <li> 10:25 kdp.amazon.com</li>
 <li> 10:25 www.amazon.com</li>
