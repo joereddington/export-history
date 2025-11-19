@@ -70,26 +70,26 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4149)</li>
 <li>outlook.office.com (4050)</li>
-<li>www.reddit.com (3990)</li>
+<li>www.reddit.com (3992)</li>
 <li>www.google.com (3920)</li>
 <li>outlook.office365.com (3870)</li>
 <li>docs.google.com (2627)</li>
-<li>duckduckgo.com (2384)</li>
+<li>duckduckgo.com (2386)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
-<li>chatgpt.com (1367)</li>
-<li>www.linkedin.com (1289)</li>
+<li>chatgpt.com (1370)</li>
+<li>www.linkedin.com (1290)</li>
 <li>login.microsoftonline.com (1131)</li>
 <li>www.amazon.co.uk (1028)</li>
-<li>calendar.google.com (992)</li>
-<li>moodle.royalholloway.ac.uk (866)</li>
+<li>calendar.google.com (993)</li>
+<li>moodle.royalholloway.ac.uk (869)</li>
 <li>rhul-my.sharepoint.com (813)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (629)</li>
 <li>herts.instructure.com (614)</li>
 <li>web.whatsapp.com (613)</li>
-<li>chat.openai.com (596)</li>
+<li>chat.openai.com (598)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
 <li>forms.office.com (514)</li>
@@ -108,8 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:05 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<ul><li> 14:23 www.wikicfp.com</li>
+<li> 14:23 duckduckgo.com</li>
+<li> 14:23 chatgpt.com</li>
+<li class='same'> 14:22 chatgpt.com</li>
+<li> 14:22 chat.openai.com</li>
+<li> 14:22 chatgpt.com</li>
+<li> 14:22 chat.openai.com</li>
+<li> 14:22 duckduckgo.com</li>
+<li> 14:20 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:19 www.myfundingcentral.co.uk</li>
+<li> 14:10 moodle.royalholloway.ac.uk</li>
+<li> 14:09 calendar.google.com</li>
+<li> 14:09 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:08 moodle.royalholloway.ac.uk</li>
+<li> 14:05 <a href="https://en.wikipedia.org/wiki/Solresol">Solresol - Wikipedia</a></li>
+<li> 14:05 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:05 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:05 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:01 www.reddit.com</li>
+<li> 14:01 libbyapp.com</li>
+<li> 14:00 www.linkedin.com</li>
+<li> 14:00 www.reddit.com</li>
+<li> 14:00 libbyapp.com</li>
 <li> 13:54 <a href="https://en.wikipedia.org/wiki/Tommy_Robinson">Tommy Robinson - Wikipedia</a></li>
 <li> 13:52 <a href="https://en.wikipedia.org/wiki/Talk:Tommy_Robinson">Talk:Tommy Robinson - Wikipedia</a></li>
 <li> 13:52 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
