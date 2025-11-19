@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4149)</li>
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3992)</li>
-<li>www.google.com (3921)</li>
+<li>www.google.com (3922)</li>
 <li>outlook.office365.com (3873)</li>
 <li>docs.google.com (2628)</li>
 <li>duckduckgo.com (2388)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
-<li>chatgpt.com (1373)</li>
+<li>chatgpt.com (1377)</li>
 <li>www.linkedin.com (1293)</li>
 <li>login.microsoftonline.com (1131)</li>
 <li>www.amazon.co.uk (1028)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (629)</li>
 <li>herts.instructure.com (614)</li>
 <li>web.whatsapp.com (613)</li>
-<li>chat.openai.com (599)</li>
+<li>chat.openai.com (600)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
 <li>forms.office.com (514)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:10 mouse-practice.com</li>
+<ul><li> 17:31 chatgpt.com</li>
+<li class='same'> 17:30 chatgpt.com</li>
+<li class='same'> 17:29 chatgpt.com</li>
+<li> 17:29 chat.openai.com</li>
+<li> 17:27 <a href="https://en.wikipedia.org/wiki/Mise-en-sc%C3%A8ne">Mise-en-scène - Wikipedia</a></li>
+<li> 17:23 <a href="https://en.wikipedia.org/wiki/Geneva_Summit_(1985)#/media/File:President_Ronald_Reagan_at_the_arrival_of_General_Secretary_Mikhail_Gorbachev_of_the_USSR_for_first_meeting_at_Fleur_d'Eau.jpg">Geneva Summit (1985) - Wikipedia</a></li>
+<li> 17:21 <a href="https://en.wikipedia.org/wiki/Geneva_Summit_(1985)">Geneva Summit (1985) - Wikipedia</a></li>
+<li> 17:21 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:20 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 17:16 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
+<li> 17:16 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 17:14 <a href="https://en.wikipedia.org/w/index.php?title=Canon_EOS&diff=1323087334&oldid=1321237875">Canon EOS: Difference between revisions - Wikipedia</a></li>
+<li> 17:14 <a href="https://en.wikipedia.org/w/index.php?title=Canon_EOS&action=history">Canon EOS: Revision history - Wikipedia</a></li>
+<li> 17:14 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 17:14 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
+<li> 17:13 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 17:13 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 17:13 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 17:11 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:11 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:11 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:11 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 16:24 chatgpt.com</li>
+<li> 16:13 www.google.com</li>
+<li> 16:10 mouse-practice.com</li>
 <li> 16:10 www.google.com</li>
 <li> 16:04 chatgpt.com</li>
 <li class='same'> 16:02 chatgpt.com</li>
