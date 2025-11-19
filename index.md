@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4144)</li>
+<ol><li>mail.google.com (4147)</li>
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3987)</li>
 <li>www.google.com (3912)</li>
@@ -77,19 +77,19 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (2383)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
-<li>chatgpt.com (1366)</li>
-<li>www.linkedin.com (1287)</li>
+<li>chatgpt.com (1367)</li>
+<li>www.linkedin.com (1288)</li>
 <li>login.microsoftonline.com (1122)</li>
 <li>www.amazon.co.uk (1017)</li>
 <li>calendar.google.com (991)</li>
 <li>moodle.royalholloway.ac.uk (863)</li>
 <li>rhul-my.sharepoint.com (813)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (642)</li>
+<li>gmail.com (646)</li>
 <li>tvtropes.org (629)</li>
 <li>herts.instructure.com (614)</li>
 <li>web.whatsapp.com (612)</li>
-<li>chat.openai.com (595)</li>
+<li>chat.openai.com (596)</li>
 <li>github.com (551)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
 <li>forms.office.com (512)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:07 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<ul><li> 07:29 chatgpt.com</li>
+<li> 07:29 chat.openai.com</li>
+<li> 07:28 www.linkedin.com</li>
+<li> 07:23 mail.google.com</li>
+<li> 07:23 adblockplus.org</li>
+<li> 07:23 accounts.google.com</li>
+<li> 07:22 mail.google.com</li>
+<li> 07:22 gmail.com</li>
+<li> 07:22 accounts.google.com</li>
+<li> 07:22 gmail.com</li>
+<li> 07:21 workspace.google.com</li>
+<li> 07:21 mail.google.com</li>
+<li> 07:21 gmail.com</li>
+<li> 07:21 accounts.google.com</li>
+<li> 07:21 gmail.com</li>
+<li> 07:07 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 <li> 07:07 joereddington.github.io</li>
 <li> 07:07 <a href="http://joereddington.com/2020/09/18/dayssince.html"></a></li>
 </ul>
