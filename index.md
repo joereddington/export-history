@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4149)</li>
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3990)</li>
-<li>www.google.com (3916)</li>
+<li>www.google.com (3918)</li>
 <li>outlook.office365.com (3856)</li>
 <li>docs.google.com (2626)</li>
 <li>duckduckgo.com (2383)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:56 sellercentral.amazon.co.uk</li>
+<ul><li> 11:08 <a href="https://en.wikipedia.org/wiki/Janet_Dibley"></a></li>
+<li> 11:08 <a href="https://en.wikipedia.org/wiki/Tyler_Butterworth">Tyler Butterworth - Wikipedia</a></li>
+<li> 11:07 <a href="https://en.wikipedia.org/wiki/Peter_Butterworth">Peter Butterworth - Wikipedia</a></li>
+<li> 11:07 www.google.com</li>
+<li> 11:06 www.imdb.com</li>
+<li> 11:06 www.google.com</li>
+<li> 11:02 sellercentral.amazon.co.uk</li>
+<li> 11:02 eu.account.amazon.com</li>
+<li> 11:02 sellercentral.amazon.co.uk</li>
+<li> 11:02 eu.account.amazon.com</li>
+<li> 11:01 127.0.0.1:4000</li>
+<li> 10:56 sellercentral.amazon.co.uk</li>
 <li> 10:56 eu.account.amazon.com</li>
 <li> 10:55 scholar.google.com</li>
 <li> 10:51 aclanthology.org</li>
