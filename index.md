@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4147)</li>
 <li>outlook.office.com (4050)</li>
-<li>www.reddit.com (3987)</li>
+<li>www.reddit.com (3989)</li>
 <li>www.google.com (3913)</li>
 <li>outlook.office365.com (3856)</li>
 <li>docs.google.com (2626)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:44 www.google.com</li>
+<ul><li> 09:47 www.reddit.com</li>
+<li class='same'> 09:46 www.reddit.com</li>
+<li> 09:45 <a href="https://en.wikipedia.org/wiki/Cloudflare">Cloudflare - Wikipedia</a></li>
+<li> 09:44 www.google.com</li>
 <li> 09:42 www.amazon.co.uk</li>
 <li class='same'> 09:41 www.amazon.co.uk</li>
 <li class='same'> 09:40 www.amazon.co.uk</li>
