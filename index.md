@@ -72,17 +72,17 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3990)</li>
 <li>www.google.com (3920)</li>
-<li>outlook.office365.com (3856)</li>
-<li>docs.google.com (2626)</li>
+<li>outlook.office365.com (3865)</li>
+<li>docs.google.com (2627)</li>
 <li>duckduckgo.com (2383)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
 <li>chatgpt.com (1367)</li>
 <li>www.linkedin.com (1288)</li>
-<li>login.microsoftonline.com (1122)</li>
+<li>login.microsoftonline.com (1130)</li>
 <li>www.amazon.co.uk (1028)</li>
 <li>calendar.google.com (992)</li>
-<li>moodle.royalholloway.ac.uk (863)</li>
+<li>moodle.royalholloway.ac.uk (866)</li>
 <li>rhul-my.sharepoint.com (813)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
@@ -108,7 +108,44 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:53 forum.torproject.org</li>
+<ul><li> 12:57 ev.turnitinuk.com</li>
+<li> 12:56 moodle.royalholloway.ac.uk</li>
+<li> 12:56 login.microsoftonline.com</li>
+<li> 12:56 moodle.royalholloway.ac.uk</li>
+<li> 12:56 login.microsoftonline.com</li>
+<li> 12:56 moodle.royalholloway.ac.uk</li>
+<li> 12:56 outlook.office365.com</li>
+<li> 12:54 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:54 login.microsoftonline.com</li>
+<li> 12:54 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 12:54 login.microsoftonline.com</li>
+<li> 12:54 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:54 experience.elluciancloud.ie</li>
+<li> 12:54 login.microsoftonline.com</li>
+<li class='same'> 12:53 login.microsoftonline.com</li>
+<li> 12:53 experience.elluciancloud.ie</li>
+<li> 12:51 outlook.office365.com</li>
+<li class='same'> 12:50 outlook.office365.com</li>
+<li class='same'> 12:48 outlook.office365.com</li>
+<li> 12:38 teams.microsoft.com</li>
+<li> 12:38 docs.google.com</li>
+<li> 12:38 outlook.office365.com</li>
+<li class='same'> 12:37 outlook.office365.com</li>
+<li class='same'> 12:35 outlook.office365.com</li>
+<li class='same'> 12:34 outlook.office365.com</li>
+<li> 12:34 login.microsoftonline.com</li>
+<li> 12:34 outlook.office365.com</li>
+<li> 12:29 mydevelopment.herts.ac.uk</li>
+<li> 12:29 eu-west.azureauth.duosecurity.com</li>
+<li> 12:28 api-b6327e78.duosecurity.com</li>
+<li> 12:28 login.microsoftonline.com</li>
+<li> 12:28 mydevelopment.herts.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 11:55 <a href="https://en.wikipedia.org/w/index.php?title=Cloudflare&curid=32760230&diff=1323053648&oldid=1323043351">Cloudflare: Difference between revisions - Wikipedia</a></li>
+<li> 11:53 forum.torproject.org</li>
 <li> 11:52 github.com</li>
 <li> 11:44 www.torproject.org</li>
 <li> 11:44 dist.torproject.org</li>
