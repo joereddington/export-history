@@ -68,43 +68,835 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4110)</li>
-<li>outlook.office.com (4047)</li>
+<ol><li>mail.google.com (4144)</li>
+<li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3987)</li>
-<li>www.google.com (3908)</li>
-<li>outlook.office365.com (3815)</li>
-<li>docs.google.com (2620)</li>
-<li>duckduckgo.com (2343)</li>
+<li>www.google.com (3912)</li>
+<li>outlook.office365.com (3856)</li>
+<li>docs.google.com (2626)</li>
+<li>duckduckgo.com (2383)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
-<li>chatgpt.com (1336)</li>
-<li>www.linkedin.com (1265)</li>
-<li>login.microsoftonline.com (1109)</li>
-<li>www.amazon.co.uk (1015)</li>
-<li>calendar.google.com (985)</li>
-<li>moodle.royalholloway.ac.uk (849)</li>
-<li>rhul-my.sharepoint.com (812)</li>
+<li>chatgpt.com (1366)</li>
+<li>www.linkedin.com (1287)</li>
+<li>login.microsoftonline.com (1122)</li>
+<li>www.amazon.co.uk (1017)</li>
+<li>calendar.google.com (991)</li>
+<li>moodle.royalholloway.ac.uk (863)</li>
+<li>rhul-my.sharepoint.com (813)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (637)</li>
+<li>gmail.com (642)</li>
 <li>tvtropes.org (629)</li>
-<li>web.whatsapp.com (605)</li>
-<li>herts.instructure.com (604)</li>
-<li>chat.openai.com (581)</li>
-<li>github.com (548)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (537)</li>
+<li>herts.instructure.com (614)</li>
+<li>web.whatsapp.com (612)</li>
+<li>chat.openai.com (595)</li>
+<li>github.com (551)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
 <li>forms.office.com (512)</li>
-<li>feedly.com (459)</li>
-<li>drive.google.com (428)</li>
-<li>rhul.sharepoint.com (363)</li>
-<li>fritz.box (350)</li>
-<li>adfs.herts.ac.uk (328)</li>
+<li>feedly.com (462)</li>
+<li>drive.google.com (429)</li>
+<li>rhul.sharepoint.com (365)</li>
+<li>fritz.box (352)</li>
+<li>adfs.herts.ac.uk (330)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Wednesday, 19/11/25</H3>
+
+<br>
+
+<ul><li> 07:07 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 07:07 joereddington.github.io</li>
+<li> 07:07 <a href="http://joereddington.com/2020/09/18/dayssince.html"></a></li>
+</ul>
+
+<H3>Tuesday, 18/11/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 17:19 docs.google.com</li>
+<li> 17:18 ce0997li.webitrent.com</li>
+<li> 17:18 login.microsoftonline.com</li>
+<li> 17:18 www.hr.herts.ac.uk</li>
+<li> 17:07 www.msn.com</li>
+<li> 17:06 duckduckgo.com</li>
+<li> 17:05 www.linkedin.com</li>
+<li> 17:01 <a href="https://en.wikipedia.org/wiki/Mariana_dam_disaster">Mariana dam disaster - Wikipedia</a></li>
+<li> 17:01 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:01 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:01 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:58 board.fun</li>
+<li> 16:58 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:58 <a href="https://en.wikipedia.org/wiki/Dude_Perfect">Dude Perfect - Wikipedia</a></li>
+<li> 16:58 <a href="https://en.wikipedia.org/wiki/G.709">G.709 - Wikipedia</a></li>
+<li> 16:58 <a href="https://en.wikipedia.org/wiki/GCC">GCC - Wikipedia</a></li>
+<li> 16:57 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/General_communication_channel">Pages that link to "General communication channel" - Wikipedia</a></li>
+<li> 16:57 <a href="https://en.wikipedia.org/wiki/General_communication_channel">General communication channel - Wikipedia</a></li>
+<li> 16:57 <a href="https://en.wikipedia.org/wiki/Wikipedia:Proposed_deletion">Wikipedia:Proposed deletion - Wikipedia</a></li>
+<li> 16:57 <a href="https://en.wikipedia.org/wiki/General_communication_channel">General communication channel - Wikipedia</a></li>
+<li> 16:57 <a href="https://en.wikipedia.org/wiki/Wikipedia:Proposed_deletion">Wikipedia:Proposed deletion - Wikipedia</a></li>
+<li> 16:57 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
+<li> 16:56 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:56 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:56 login.microsoftonline.com</li>
+<li> 16:52 www.dpreview.com</li>
+<li> 16:51 www.g-mark.org</li>
+<li> 16:46 <a href="https://en.wikipedia.org/wiki/Canon_Inc.">Canon Inc. - Wikipedia</a></li>
+<li> 16:45 global.canon</li>
+<li> 16:45 www.google.co.uk</li>
+<li class='same'> 16:44 www.google.co.uk</li>
+<li> 16:43 scholar.google.co.uk</li>
+<li> 16:43 duckduckgo.com</li>
+<li> 16:43 www.amazon.co.uk</li>
+<li> 16:42 <a href="https://en.wikipedia.org/wiki/Special:BookSources/047082123X">Book sources - Wikipedia</a></li>
+<li> 16:42 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 16:41 <a href="https://en.wikipedia.org/wiki/Fujio_Mitarai?utm_source=chatgpt.com">Fujio Mitarai - Wikipedia</a></li>
+<li> 16:39 chatgpt.com</li>
+<li class='same'> 16:38 chatgpt.com</li>
+<li> 16:38 chat.openai.com</li>
+<li> 16:35 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 16:35 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:35 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:35 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:35 <a href="https://en.wikipedia.org/w/index.php?title=Main_Page&action=history">Main Page: Revision history - Wikipedia</a></li>
+<li> 16:34 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:34 www.linkedin.com</li>
+<li> 16:32 drnesr.medium.com</li>
+<li> 16:31 www.kaggle.com</li>
+<li> 16:31 accounts.google.com</li>
+<li> 16:31 www.kaggle.com</li>
+<li> 16:30 wbwaterdata.org</li>
+<li class='same'> 16:29 wbwaterdata.org</li>
+<li> 16:29 duckduckgo.com</li>
+<li> 16:29 www.kaggle.com</li>
+<li class='same'> 16:28 www.kaggle.com</li>
+<li> 16:28 drnesr.medium.com</li>
+<li> 16:28 github.com</li>
+<li> 16:28 duckduckgo.com</li>
+<li> 16:28 ieee-dataport.org</li>
+<li> 16:27 github.com</li>
+<li> 16:27 waterfutures.github.io</li>
+<li> 16:27 github.com</li>
+<li> 16:27 duckduckgo.com</li>
+<li> 16:23 intranet.royalholloway.ac.uk</li>
+<li> 16:15 www.linkedin.com</li>
+<li> 16:14 duckduckgo.com</li>
+<li> 16:12 ce0997li.webitrent.com</li>
+<li> 16:12 login.microsoftonline.com</li>
+<li> 16:12 ce0997li.webitrent.com</li>
+<li> 16:12 login.microsoftonline.com</li>
+<li> 16:11 www.hr.herts.ac.uk</li>
+<li> 16:10 api-b6327e78.duosecurity.com</li>
+<li> 16:10 adfs.herts.ac.uk</li>
+<li> 16:10 herts.instructure.com</li>
+<li> 16:10 adfs.herts.ac.uk</li>
+<li> 16:09 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_mentorship">Wikipedia:Good article mentorship - Wikipedia</a></li>
+<li> 16:04 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:Good_article_nominations">Wikipedia talk:Good article nominations - Wikipedia</a></li>
+<li> 16:04 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 16:02 <a href="https://en.wikipedia.org/wiki/Executive_Order_12333">Executive Order 12333 - Wikipedia</a></li>
+<li> 16:02 <a href="https://en.wikipedia.org/wiki/Licence_to_kill_(concept)">Licence to kill (concept) - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/wiki/Trial_of_Sheikh_Hasina">Trial of Sheikh Hasina - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:58 <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators%27_noticeboard/Incidents&diff=prev&oldid=1320083756#User:Astral_highway_&_AI-generated_editing">Wikipedia:Administrators' noticeboard/Incidents: Difference between revisions - Wikipedia</a></li>
+<li> 15:57 <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators%27_noticeboard/Incidents&diff=prev&oldid=1320083756">Wikipedia:Administrators' noticeboard/Incidents: Difference between revisions - Wikipedia</a></li>
+<li> 15:57 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Serebit">User contributions for Serebit - Wikipedia</a></li>
+<li> 15:56 <a href="https://en.wikipedia.org/w/index.php?title=User_talk:Serebit&action=history">User talk:Serebit: Revision history - Wikipedia</a></li>
+<li> 15:56 <a href="https://en.wikipedia.org/wiki/User_talk:Serebit">User talk:Serebit - Wikipedia</a></li>
+<li> 15:56 <a href="https://en.wikipedia.org/wiki/User:Serebit">User:Serebit - Wikipedia</a></li>
+<li> 15:56 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:Writing_articles_with_large_language_models#RfC">Wikipedia talk:Writing articles with large language models - Wikipedia</a></li>
+<li> 15:56 <a href="https://en.wikipedia.org/wiki/Wikipedia:Administrators%27_noticeboard/Incidents">Wikipedia:Administrators' noticeboard/Incidents - Wikipedia</a></li>
+<li> 15:56 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Serebit">User contributions for Serebit - Wikipedia</a></li>
+<li> 15:56 <a href="https://en.wikipedia.org/wiki/User:Serebit">User:Serebit - Wikipedia</a></li>
+<li> 15:55 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:52 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon_EOS/GA3&action=edit">Editing Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:52 <a href="https://en.wikipedia.org/wiki/Template:GATable">Template:GATable - Wikipedia</a></li>
+<li> 15:52 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:50 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 15:50 duckduckgo.com</li>
+<li> 15:47 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon_EOS/GA3&action=edit">Editing Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:47 <a href="https://en.wikipedia.org/w/index.php?title=Canon_EOS&action=edit">Editing Canon EOS - Wikipedia</a></li>
+<li> 15:47 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:47 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 15:46 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 15:36 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens#It's_been_14_years_since_GA...-DoesNotExist-DiscussionToolsHack">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 15:36 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens#It's_been_14_years_since_GA...">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 15:35 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 15:34 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_reassessment">Wikipedia:Good article reassessment - Wikipedia</a></li>
+<li> 15:34 duckduckgo.com</li>
+<li> 15:33 <a href="https://en.wikipedia.org/w/index.php?title=Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens&oldid=512273110">Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 15:33 <a href="https://en.wikipedia.org/wiki/Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens">Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 15:33 <a href="https://en.wikipedia.org/w/index.php?title=Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens&oldid=512273110">Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 15:32 <a href="https://en.wikipedia.org/w/index.php?title=Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens&action=history&offset=&limit=250">Sigma 8-16mm f/4.5-5.6 DC HSM lens: Revision history - Wikipedia</a></li>
+<li> 15:32 <a href="https://en.wikipedia.org/w/index.php?title=Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens&action=history">Sigma 8-16mm f/4.5-5.6 DC HSM lens: Revision history - Wikipedia</a></li>
+<li> 15:32 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens&action=history">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens: Revision history - Wikipedia</a></li>
+<li> 15:31 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens/GA1">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens/GA1 - Wikipedia</a></li>
+<li> 15:31 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 15:30 <a href="https://en.wikipedia.org/wiki/Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens">Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 15:30 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:29 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon_EOS/GA3&action=edit">Editing Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:28 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:26 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 15:26 duckduckgo.com</li>
+<li> 15:17 <a href="https://en.wikipedia.org/wiki/Template:GATable">Template:GATable - Wikipedia</a></li>
+<li> 15:17 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon_EOS/GA3&action=edit">Editing Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 15:16 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 15:14 <a href="https://en.wikipedia.org/wiki/User:Serebit">User:Serebit - Wikipedia</a></li>
+<li> 15:03 <a href="https://en.wikipedia.org/wiki/User_talk:Serebit">User talk:Serebit - Wikipedia</a></li>
+<li> 15:03 <a href="https://en.wikipedia.org/wiki/User:Serebit">User:Serebit - Wikipedia</a></li>
+<li> 15:03 chatgpt.com</li>
+<li> 15:02 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 15:02 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
+<li> 15:02 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 15:02 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 15:02 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 15:02 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:02 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:02 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/w/index.php?title=List_of_data_breaches&diff=1322822857&oldid=1322821820">List of data breaches: Difference between revisions - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/w/index.php?title=List_of_data_breaches&action=history">List of data breaches: Revision history - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:01 chatgpt.com</li>
+<li> 15:01 chat.openai.com</li>
+<li> 15:01 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:56 nordvpn.com</li>
+<li> 14:56 duckduckgo.com</li>
+<li> 14:55 www.linkedin.com</li>
+<li class='same'> 14:40 www.linkedin.com</li>
+<li class='same'> 14:39 www.linkedin.com</li>
+<li class='same'> 14:30 www.linkedin.com</li>
+<li> 14:29 uk.news.yahoo.com</li>
+<li> 14:29 duckduckgo.com</li>
+<li class='same'> 14:28 duckduckgo.com</li>
+<li> 14:28 chatgpt.com</li>
+<li> 14:28 chat.openai.com</li>
+<li> 14:18 web.whatsapp.com</li>
+<li> 14:13 docs.google.com</li>
+<li class='same'> 14:12 docs.google.com</li>
+<li> 14:10 ce0997li.webitrent.com</li>
+<li class='same'> 14:08 ce0997li.webitrent.com</li>
+<li class='same'> 14:06 ce0997li.webitrent.com</li>
+<li> 14:06 login.microsoftonline.com</li>
+<li> 14:06 ce0997li.webitrent.com</li>
+<li> 14:06 login.microsoftonline.com</li>
+<li> 14:06 www.hr.herts.ac.uk</li>
+<li> 14:06 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:05 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:05 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:04 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
+<li> 14:04 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3#GA_review">Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 14:04 <a href="https://en.wikipedia.org/wiki/Canon_Dual_Pixel_CMOS_AF">Canon Dual Pixel CMOS AF - Wikipedia</a></li>
+<li> 13:59 www.camerareviews.com</li>
+<li> 13:59 chatgpt.com</li>
+<li> 13:59 chat.openai.com</li>
+<li> 13:59 openai.com</li>
+<li> 13:50 <a href="https://en.wikipedia.org/wiki/Canon_EF_lens_mount">Canon EF lens mount - Wikipedia</a></li>
+<li> 13:48 m365.cloud.microsoft</li>
+<li> 13:48 login.microsoftonline.com</li>
+<li> 13:48 www.hr.herts.ac.uk</li>
+<li> 13:47 openai.com</li>
+<li> 13:47 <a href="https://en.wikipedia.org/wiki/Template:Canon_EOS_digital_cameras">Template:Canon EOS digital cameras - Wikipedia</a></li>
+<li> 13:47 openai.com</li>
+<li class='same'> 13:46 openai.com</li>
+<li class='same'> 13:45 openai.com</li>
+<li> 13:44 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon_EOS/GA3&action=edit&section=1">Editing Talk:Canon EOS/GA3 (section) - Wikipedia</a></li>
+<li> 13:44 openai.com</li>
+<li> 13:44 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 13:44 openai.com</li>
+<li> 13:43 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
+<li> 13:43 openai.com</li>
+<li class='same'> 13:42 openai.com</li>
+<li> 13:42 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 13:42 openai.com</li>
+<li> 13:42 chatgpt.com</li>
+<li class='same'> 13:41 chatgpt.com</li>
+<li> 13:41 ymcinema.com</li>
+<li> 13:40 chatgpt.com</li>
+<li> 13:40 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 13:40 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
+<li> 13:39 chatgpt.com</li>
+<li> 13:39 chat.openai.com</li>
+<li> 13:39 www.linkedin.com</li>
+<li> 13:39 chatgpt.com</li>
+<li> 13:39 chat.openai.com</li>
+<li> 13:39 chatgpt.com</li>
+<li> 13:38 <a href="https://en.wikipedia.org/wiki/Canon_EOS_R">Canon EOS R - Wikipedia</a></li>
+<li> 13:38 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 13:38 chatgpt.com</li>
+<li> 13:38 chat.openai.com</li>
+<li> 13:38 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA2">Talk:Canon EOS/GA2 - Wikipedia</a></li>
+<li> 13:37 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Templates">Wikipedia:Good article nominations/Templates - Wikipedia</a></li>
+<li> 13:37 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA2">Talk:Canon EOS/GA2 - Wikipedia</a></li>
+<li> 13:37 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
+<li> 13:37 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Replying on Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 13:36 <a href="https://en.wikipedia.org/w/index.php?title=Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens&action=history">Sigma 8-16mm f/4.5-5.6 DC HSM lens: Revision history - Wikipedia</a></li>
+<li> 13:35 <a href="https://en.wikipedia.org/w/index.php?title=Canon_EOS_R&action=history">Canon EOS R: Revision history - Wikipedia</a></li>
+<li> 13:34 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon+EOS%2FGA3&action=edit&editintro=Template:GAN/editintro&preload=Template:GAN/preload">Creating Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 13:34 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 13:33 <a href="https://en.wikipedia.org/wiki/Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens">Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 13:33 <a href="https://en.wikipedia.org/wiki/Canon_EOS_R">Canon EOS R - Wikipedia</a></li>
+<li> 13:33 wp1.openzim.org</li>
+<li> 13:33 <a href="https://en.wikipedia.org/wiki/Category:FM-Class_Photography_pages">Category:FM-Class Photography pages - Wikipedia</a></li>
+<li> 13:33 wp1.openzim.org</li>
+<li> 13:32 <a href="https://en.wikipedia.org/wiki/Pigeon_photography">Pigeon photography - Wikipedia</a></li>
+<li> 13:32 wp1.openzim.org</li>
+<li> 13:32 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Photography">Wikipedia:WikiProject Photography - Wikipedia</a></li>
+<li> 13:32 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
+<li> 13:32 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 13:31 <a href="https://en.wikipedia.org/wiki/Saturation_diving_system">Saturation diving system - Wikipedia</a></li>
+<li> 13:31 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 13:29 www.linkedin.com</li>
+<li class='same'> 13:28 www.linkedin.com</li>
+<li> 13:27 mail.google.com</li>
+<li> 13:27 <a href="https://en.wikipedia.org/w/index.php?title=SpecialEffect&action=history">SpecialEffect: Revision history - Wikipedia</a></li>
+<li> 13:25 <a href="https://en.wikipedia.org/wiki/SpecialEffect">SpecialEffect - Wikipedia</a></li>
+<li> 13:25 <a href="https://en.wikipedia.org/wiki/Talk:SpecialEffect">Talk:SpecialEffect - Wikipedia</a></li>
+<li> 13:25 <a href="https://en.wikipedia.org/wiki/SpecialEffect">SpecialEffect - Wikipedia</a></li>
+<li> 13:25 duckduckgo.com</li>
+<li> 13:25 chatgpt.com</li>
+<li class='same'> 13:24 chatgpt.com</li>
+<li class='same'> 13:23 chatgpt.com</li>
+<li> 13:22 mail.google.com</li>
+<li> 13:22 chatgpt.com</li>
+<li> 13:22 superconductors.web.ox.ac.uk</li>
+<li> 13:18 web.whatsapp.com</li>
+<li> 13:18 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:32 ico.org.uk</li>
+<li class='same'> 12:31 ico.org.uk</li>
+<li> 12:31 chatgpt.com</li>
+<li> 12:31 chat.openai.com</li>
+<li> 12:30 ico.org.uk</li>
+<li class='same'> 12:29 ico.org.uk</li>
+<li> 12:28 downforeveryoneorjustme.com</li>
+<li> 12:28 duckduckgo.com</li>
+<li> 12:27 www.linkedin.com</li>
+<li> 12:27 theopenvoicefactory.org</li>
+<li> 12:26 www.google.com</li>
+<li> 12:26 downforeveryoneorjustme.com</li>
+<li> 12:26 duckduckgo.com</li>
+<li> 12:26 ico.org.uk</li>
+<li> 12:26 duckduckgo.com</li>
+<li> 12:26 ico.org.uk</li>
+<li> 12:25 <a href="https://en.wikipedia.org/wiki/User_talk:Dcdiehardfan">User talk:Dcdiehardfan - Wikipedia</a></li>
+<li> 12:25 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:25 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:25 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:25 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:23 www.linkedin.com</li>
+<li> 12:19 <a href="https://en.wikipedia.org/wiki/Optical_telegraph#/media/File:The_Women's_Royal_Naval_Service_on_the_Home_Front,_1917-1918_Q18901.jpg">Optical telegraph - Wikipedia</a></li>
+<li> 12:18 <a href="https://en.wikipedia.org/wiki/Optical_telegraph">Optical telegraph - Wikipedia</a></li>
+<li> 12:18 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:18 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:18 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:18 mail.google.com</li>
+<li> 11:55 <a href="https://en.wikipedia.org/wiki/Security_hacker#Hacktivist">Security hacker - Wikipedia</a></li>
+<li> 11:55 <a href="https://en.wikipedia.org/wiki/Hacktivism">Hacktivism - Wikipedia</a></li>
+<li> 11:55 <a href="https://en.wikipedia.org/wiki/Hacktivist">Hacktivism - Wikipedia</a></li>
+<li> 11:54 <a href="https://en.wikipedia.org/wiki/Wikipedia:Article_size">Wikipedia:Article size - Wikipedia</a></li>
+<li> 11:53 <a href="https://en.wikipedia.org/wiki/Wikipedia:Summary_style">Wikipedia:Summary style - Wikipedia</a></li>
+<li> 11:53 duckduckgo.com</li>
+<li> 11:53 <a href="https://en.wikipedia.org/w/index.php?title=Hacktivism&action=edit">Hacktivism - Wikipedia</a></li>
+<li> 11:53 <a href="https://en.wikipedia.org/wiki/Hacktivism">Hacktivism - Wikipedia</a></li>
+<li> 11:52 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&action=edit&section=12">Editing Security hacker - Wikipedia</a></li>
+<li> 11:51 <a href="https://en.wikipedia.org/wiki/Hacktivism">Hacktivism - Wikipedia</a></li>
+<li> 11:51 <a href="https://en.wikipedia.org/wiki/Hacktivist">Hacktivism - Wikipedia</a></li>
+<li> 11:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Redirects_for_discussion/Log/2024_March_3#Hacker_(computer_security">Wikipedia:Redirects for discussion/Log/2024 March 3 - Wikipedia</a></li>
+<li> 11:50 <a href="https://en.wikipedia.org/wiki/Talk:Security_hacker">Talk:Security hacker - Wikipedia</a></li>
+<li> 11:49 <a href="https://en.wikipedia.org/wiki/List_of_security_hacking_incidents">List of security hacking incidents - Wikipedia</a></li>
+<li> 11:49 <a href="https://en.wikipedia.org/wiki/Timeline_of_computer_security_hacker_history">List of security hacking incidents - Wikipedia</a></li>
+<li> 11:49 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&action=edit&section=2">Grey hat - Wikipedia</a></li>
+<li> 11:48 www.eff.org</li>
+<li> 11:48 <a href="https://en.wikipedia.org/wiki/Grey_hat#cite_note-14">Grey hat - Wikipedia</a></li>
+<li> 11:48 <a href="https://en.wikipedia.org/wiki/Grey_hat#Examples">Grey hat - Wikipedia</a></li>
+<li> 11:47 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&action=edit&section=2">Grey hat - Wikipedia</a></li>
+<li> 11:46 articlegateway.com</li>
+<li> 11:45 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 11:45 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
+<li> 11:45 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 11:45 <a href="https://en.wikipedia.org/wiki/Black_hat_hacker">Black hat (computer security) - Wikipedia</a></li>
+<li> 11:45 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
+<li> 11:44 <a href="https://en.wikipedia.org/wiki/Script_kiddie#cite_note-zdnet-4">Script kiddie - Wikipedia</a></li>
+<li> 11:44 <a href="https://en.wikipedia.org/wiki/Script_kiddie">Script kiddie - Wikipedia</a></li>
+<li> 11:44 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:44 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:44 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 11:44 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-MediaWiki_message_delivery-20251118004000-ArbCom_2025_Elections_voter_message">User talk:Joereddington - Wikipedia</a></li>
+<li> 11:44 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=341250132&markasreadwiki=enwiki#c-MediaWiki_message_delivery-20251118004000-ArbCom_2025_Elections_voter_message">User talk:Joereddington - Wikipedia</a></li>
+<li> 11:44 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 11:40 mail.google.com</li>
+<li class='same'> 11:39 mail.google.com</li>
+<li> 11:33 www.google.com</li>
+<li> 11:32 accounts.google.com</li>
+<li> 11:27 www.linkedin.com</li>
+<li> 11:27 outlook.office365.com</li>
+<li class='same'> 11:26 outlook.office365.com</li>
+<li class='same'> 11:25 outlook.office365.com</li>
+<li class='same'> 11:21 outlook.office365.com</li>
+<li> 11:19 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:16 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:15 intranet.royalholloway.ac.uk</li>
+<li class='same'> 11:14 intranet.royalholloway.ac.uk</li>
+<li> 11:14 duckduckgo.com</li>
+<li> 11:14 outlook.office365.com</li>
+<li class='same'> 11:13 outlook.office365.com</li>
+<li> 11:13 duckduckgo.com</li>
+<li> 11:03 www.ebay.co.uk</li>
+<li> 11:02 mail.google.com</li>
+<li> 11:01 web.whatsapp.com</li>
+<li> 11:01 mail.google.com</li>
+<li class='same'> 10:57 mail.google.com</li>
+<li> 10:52 calendar.google.com</li>
+<li> 10:52 sccluk.patronpoint.com</li>
+<li> 10:51 mail.google.com</li>
+<li> 10:51 docs.google.com</li>
+<li> 10:36 mail.google.com</li>
+<li class='same'> 10:34 mail.google.com</li>
+<li> 10:34 gmail.com</li>
+<li> 10:34 chatgpt.com</li>
+<li class='same'> 10:33 chatgpt.com</li>
+<li> 10:33 chat.openai.com</li>
+<li> 10:32 calendar.google.com</li>
+<li> 10:31 www.linkedin.com</li>
+<li> 10:24 moodle.royalholloway.ac.uk</li>
+<li> 10:23 adblockplus.org</li>
+<li> 10:23 moodle.royalholloway.ac.uk</li>
+<li> 10:23 login.microsoftonline.com</li>
+<li> 10:23 moodle.royalholloway.ac.uk</li>
+<li> 10:23 duckduckgo.com</li>
+<li> 10:13 mail.google.com</li>
+<li> 10:12 drive.google.com</li>
+<li> 10:12 mail.google.com</li>
+<li> 10:12 gmail.com</li>
+<li> 10:11 mail.google.com</li>
+<li> 10:11 calendar.google.com</li>
+<li> 10:10 mail.google.com</li>
+<li> 10:10 gmail.com</li>
+<li> 10:10 mail.google.com</li>
+<li> 10:09 web.whatsapp.com</li>
+<li> 10:08 mail.google.com</li>
+<li> 10:08 www.gov.uk</li>
+<li> 10:07 mail.google.com</li>
+<li> 10:07 gmail.com</li>
+<li> 10:02 herts365-my.sharepoint.com</li>
+<li> 10:02 m365.cloud.microsoft</li>
+<li> 10:02 login.microsoftonline.com</li>
+<li> 10:02 ce0997li.webitrent.com</li>
+<li> 10:02 login.microsoftonline.com</li>
+<li> 10:02 www.hr.herts.ac.uk</li>
+<li> 10:01 outlook.office365.com</li>
+<li class='same'> 09:55 outlook.office365.com</li>
+<li class='same'> 09:54 outlook.office365.com</li>
+<li class='same'> 09:53 outlook.office365.com</li>
+<li class='same'> 09:51 outlook.office365.com</li>
+<li class='same'> 09:50 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:51 outlook.office365.com</li>
+<li class='same'> 08:46 outlook.office365.com</li>
+<li class='same'> 08:45 outlook.office365.com</li>
+<li class='same'> 08:44 outlook.office365.com</li>
+</ul>
+
+<H3>Monday, 17/11/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 15:13 intranet.royalholloway.ac.uk</li>
+<li> 15:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:01 moodle.royalholloway.ac.uk</li>
+<li> 14:59 outlook.office365.com</li>
+<li> 14:58 web.whatsapp.com</li>
+<li> 14:54 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:53 moodle.royalholloway.ac.uk</li>
+<li> 14:50 outlook.office365.com</li>
+<li class='same'> 14:47 outlook.office365.com</li>
+<li> 14:42 moodle.royalholloway.ac.uk</li>
+<li> 14:42 login.microsoftonline.com</li>
+<li> 14:42 moodle.royalholloway.ac.uk</li>
+<li> 14:40 fast.com</li>
+<li class='same'> 14:39 fast.com</li>
+<li> 14:36 outlook.office365.com</li>
+<li class='same'> 14:35 outlook.office365.com</li>
+<li> 14:34 www.linkedin.com</li>
+<li> 14:34 fast.com</li>
+<li> 14:33 outlook.office365.com</li>
+<li> 14:32 www.linkedin.com</li>
+<li class='same'> 14:31 www.linkedin.com</li>
+<li> 14:11 web.whatsapp.com</li>
+<li> 14:11 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=4">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 14:10 duckduckgo.com</li>
+<li> 14:09 doublepulsar.com</li>
+<li> 14:08 x.com</li>
+<li> 14:08 www.theregister.com</li>
+<li> 14:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Impact_and_cost">2023 Capita data breach - Wikipedia</a></li>
+<li> 14:05 therecord.media</li>
+<li> 14:04 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=4">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 14:04 therecord.media</li>
+<li> 14:03 www.telegraph.co.uk</li>
+<li> 14:02 www.investegate.co.uk</li>
+<li> 14:01 www.capita.com</li>
+<li class='same'> 14:00 www.capita.com</li>
+<li> 13:59 www.theregister.com</li>
+<li> 13:58 chatgpt.com</li>
+<li> 13:58 chat.openai.com</li>
+<li> 13:58 www.telegraph.co.uk</li>
+<li> 13:57 ico.org.uk</li>
+<li> 13:57 duckduckgo.com</li>
+<li> 13:56 <a href="https://en.wikipedia.org/w/index.php?curid=81583584">2023 Capita data breach - Wikipedia</a></li>
+<li> 13:56 meta.wikimedia.org</li>
+<li> 13:56 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 13:56 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:55 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:55 <a href="https://en.wikipedia.org/w/index.php?title=Deep-sea_gigantism&action=history">Deep-sea gigantism: Revision history - Wikipedia</a></li>
+<li> 13:55 <a href="https://en.wikipedia.org/wiki/Polar_gigantism">Polar gigantism - Wikipedia</a></li>
+<li> 13:54 <a href="https://en.wikipedia.org/wiki/Bergmann%27s_rule">Bergmann's rule - Wikipedia</a></li>
+<li> 13:54 <a href="https://en.wikipedia.org/wiki/Deep-sea_gigantism">Deep-sea gigantism - Wikipedia</a></li>
+<li> 13:54 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:53 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:53 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:53 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:53 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:53 archive.ph</li>
+<li> 13:52 <a href="https://en.wikipedia.org/wiki/Tulip_Siddiq">Tulip Siddiq - Wikipedia</a></li>
+<li> 13:52 <a href="https://en.wikipedia.org/w/index.php?title=Tulip_Siddiq&diff=1322664987&oldid=1311581223">Tulip Siddiq: Difference between revisions - Wikipedia</a></li>
+<li> 13:52 <a href="https://en.wikipedia.org/w/index.php?title=Tulip_Siddiq&curid=33131881&action=history">Tulip Siddiq: Revision history - Wikipedia</a></li>
+<li> 13:52 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:52 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:52 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:46 www.ipsos.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:37 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:37 <a href="https://en.wikipedia.org/wiki/SuperSaf">SuperSaf - Wikipedia</a></li>
+<li> 12:36 <a href="https://en.wikipedia.org/wiki/Olly_Murs">Olly Murs - Wikipedia</a></li>
+<li> 12:36 <a href="https://en.wikipedia.org/wiki/Phil_Lester">Phil Lester - Wikipedia</a></li>
+<li> 12:36 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 12:02 www.huffingtonpost.co.uk</li>
+<li class='same'> 12:00 www.huffingtonpost.co.uk</li>
+<li> 12:00 duckduckgo.com</li>
+<li> 11:51 www.ipsos.com</li>
+<li> 11:50 upload.wikimedia.org</li>
+<li> 11:50 <a href="https://en.wikipedia.org/wiki/Mona_Lisa#/media/File:Mona_Lisa_stolen-1911.jpg">Mona Lisa stolen-1911 - Mona Lisa - Wikipedia</a></li>
+<li> 11:50 <a href="https://en.wikipedia.org/wiki/Mona_Lisa#Refuge,_theft,_and_vandalism">Mona Lisa - Wikipedia</a></li>
+<li> 11:50 <a href="https://en.wikipedia.org/wiki/Mona_Lisa">Mona Lisa - Wikipedia</a></li>
+<li> 11:49 <a href="https://en.wikipedia.org/wiki/Vincenzo_Peruggia">Vincenzo Peruggia - Wikipedia</a></li>
+<li> 11:49 duckduckgo.com</li>
+<li> 11:48 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:48 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:48 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 11:40 www.amazon.co.uk</li>
+<li> 11:38 www.linkedin.com</li>
+<li class='same'> 11:37 www.linkedin.com</li>
+<li> 11:27 web.archive.org</li>
+<li> 11:25 www.economist.com</li>
+<li> 11:23 <a href="https://en.wikipedia.org/wiki/Spamming#/media/File:Monty_Python_Live_02-07-14_13_04_42_(14598710791).jpg">Monty Python Live 02-07-14 13 04 42 (14598710791) - Spamming - Wikipedia</a></li>
+<li> 11:23 <a href="https://en.wikipedia.org/wiki/Spamming">Spamming - Wikipedia</a></li>
+<li> 11:23 duckduckgo.com</li>
+<li class='same'> 11:22 duckduckgo.com</li>
+<li> 11:02 www.whatdotheyknow.com</li>
+<li> 11:02 duckduckgo.com</li>
+<li> 11:00 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 10:49 www.sciencedirect.com</li>
+<li> 10:47 <a href="https://en.wikipedia.org/wiki/Robin_Dunbar">Robin Dunbar - Wikipedia</a></li>
+<li> 10:47 <a href="https://en.wikipedia.org/wiki/Dunbar%27s_number">Dunbar's number - Wikipedia</a></li>
+<li> 10:47 duckduckgo.com</li>
+<li> 10:47 chatgpt.com</li>
+<li> 10:47 chat.openai.com</li>
+<li> 10:45 scholar.googleusercontent.com</li>
+<li> 10:45 scholar.google.com</li>
+<li> 10:40 outlook.office365.com</li>
+<li class='same'> 10:36 outlook.office365.com</li>
+<li> 10:19 rhul-my.sharepoint.com</li>
+<li> 10:17 outlook.office365.com</li>
+<li class='same'> 10:16 outlook.office365.com</li>
+<li class='same'> 10:14 outlook.office365.com</li>
+<li class='same'> 10:13 outlook.office365.com</li>
+<li> 10:13 mail.google.com</li>
+<li> 10:13 new.express.adobe.com</li>
+<li> 10:10 account.adobe.com</li>
+<li> 10:10 auth.services.adobe.com</li>
+<li> 10:10 account.adobe.com</li>
+<li> 10:10 helpx.adobe.com</li>
+<li> 10:10 duckduckgo.com</li>
+<li> 10:10 calendar.google.com</li>
+<li> 10:09 mail.google.com</li>
+<li> 10:07 outlook.office365.com</li>
+<li> 10:07 mail.google.com</li>
+<li> 10:04 outlook.office365.com</li>
+<li> 10:04 www.cineworld.co.uk</li>
+<li> 10:03 www.google.com</li>
+<li> 10:03 outlook.office365.com</li>
+<li class='same'> 10:02 outlook.office365.com</li>
+<li class='same'> 10:01 outlook.office365.com</li>
+<li> 10:01 login.microsoftonline.com</li>
+<li> 09:59 mail.google.com</li>
+<li> 09:57 docs.google.com</li>
+<li class='same'> 09:56 docs.google.com</li>
+<li> 09:44 calendar.google.com</li>
+<li> 09:41 doodle.com</li>
+<li class='same'> 09:40 doodle.com</li>
+<li> 09:40 calendar.google.com</li>
+<li> 09:40 doodle.com</li>
+<li class='same'> 09:39 doodle.com</li>
+<li> 09:37 mail.google.com</li>
+<li class='same'> 09:36 mail.google.com</li>
+<li class='same'> 09:31 mail.google.com</li>
+<li class='same'> 09:30 mail.google.com</li>
+<li> 09:30 legacy.drivethrurpg.com</li>
+<li> 09:30 mail.google.com</li>
+<li> 09:29 feedly.com</li>
+<li> 09:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:28 mail.google.com</li>
+<li> 09:28 www.gmail.com</li>
+<li> 09:26 www.linkedin.com</li>
+<li> 09:26 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:26 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:25 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 07:59 <a href="https://en.wikipedia.org/wiki/Brussels_effect">Brussels effect - Wikipedia</a></li>
+<li> 07:59 duckduckgo.com</li>
+<li> 07:56 <a href="https://www.youtube.com/watch?v=M57RFRCRWaM">(24) Attempted arrest of Dick Jones scene- Robocop (1987) HD - YouTube</a></li>
+<li> 07:56 <a href="https://www.youtube.com/results?search_query=robocop+any+attempt+to+arrest+an+officer+of+OCP+results+in+shutdown">(24) robocop any attempt to arrest an officer of OCP results in shutdown - YouTube</a></li>
+<li> 07:56 <a href="https://www.youtube.com/results?search_query=%E2%80%9Cany+attempt+to+arrest+an+officer+of+OCP+results+in+shutdown%E2%80%9D">(24) “any attempt to arrest an officer of OCP results in shutdown” - YouTube</a></li>
+<li> 07:56 duckduckgo.com</li>
+<li class='same'> 07:55 duckduckgo.com</li>
+<li> 07:55 <a href="https://www.youtube.com/watch?v=-xqk4jxxbY0">(24) What are your Prime Directives? RoboCop #shorts - YouTube</a></li>
+<li> 07:54 <a href="https://www.youtube.com/results?search_query=robocop+prime+directives">(24) robocop prime directives - YouTube</a></li>
+<li> 07:54 <a href="https://www.youtube.com/">(24) YouTube</a></li>
+<li> 07:54 duckduckgo.com</li>
+<li class='same'> 07:53 duckduckgo.com</li>
+<li> 07:53 robocop.fandom.com</li>
+<li> 07:53 duckduckgo.com</li>
+<li> 07:40 moodle.royalholloway.ac.uk</li>
+<li> 07:40 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#cite_note-Sandle2018-3">British Airways data breach - Wikipedia</a></li>
+<li> 07:39 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 07:38 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:36 moodle.royalholloway.ac.uk</li>
+<li> 07:36 login.microsoftonline.com</li>
+<li> 07:36 moodle.royalholloway.ac.uk</li>
+<li> 07:26 www.eff.org</li>
+<li> 07:18 chatgpt.com</li>
+<li class='same'> 07:17 chatgpt.com</li>
+<li> 07:17 chat.openai.com</li>
+<li> 07:16 mail.google.com</li>
+<li> 07:16 gmail.com</li>
+<li> 07:16 rhul.sharepoint.com</li>
+<li class='same'> 07:15 rhul.sharepoint.com</li>
+<li> 07:12 <a href="https://en.wikipedia.org/wiki/Data_breach#cite_ref-FOOTNOTENational_Academies_of_Sciences,_Engineering,_and_Medicine201627_90-0">Data breach - Wikipedia</a></li>
+<li> 07:08 <a href="https://en.wikipedia.org/wiki/Data_breach#Prevalence">Data breach - Wikipedia</a></li>
+<li> 07:07 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit&section=2">Editing Data breach - Wikipedia</a></li>
+<li> 07:07 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit&section=1">Data breach - Wikipedia</a></li>
+<li> 07:07 <a href="https://en.wikipedia.org/wiki/Data_breach#Definition">Data breach - Wikipedia</a></li>
+<li> 07:07 chatgpt.com</li>
+<li> 07:06 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit&section=1">Data breach - Wikipedia</a></li>
+<li> 07:05 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 07:04 <a href="https://en.wikipedia.org/w/index.php?title=Medical_data_breach&action=history">Medical data breach: Revision history - Wikipedia</a></li>
+<li> 07:04 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 07:03 <a href="https://en.wikipedia.org/w/index.php?title=Medical_data_breach&action=edit">Editing Medical data breach - Wikipedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 07:01 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:01 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:01 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:01 chatgpt.com</li>
+<li> 07:01 chat.openai.com</li>
+<li> 07:01 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+</ul>
+
+<H3>Sunday, 16/11/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 18:10 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 18:09 <a href="https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)">Black Widow (Natasha Romanova) - Wikipedia</a></li>
+<li> 18:09 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 18:08 <a href="https://en.wikipedia.org/wiki/Data_breach_notification_laws">Data breach notification laws - Wikipedia</a></li>
+<li> 18:08 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 18:08 <a href="https://en.wikipedia.org/wiki/Data_breach_notification_laws">Data breach notification laws - Wikipedia</a></li>
+<li> 18:06 <a href="https://en.wikipedia.org/wiki/Exploit_(computer_security)">Exploit (computer security) - Wikipedia</a></li>
+<li> 18:06 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 18:06 <a href="https://en.wikipedia.org/wiki/Cyberattacks_against_infrastructure">Cyberattacks against infrastructure - Wikipedia</a></li>
+<li> 18:05 <a href="https://en.wikipedia.org/wiki/Cyberattack">Cyberattack - Wikipedia</a></li>
+<li> 18:05 <a href="https://en.wikipedia.org/wiki/Cyberwarfare">Cyberwarfare - Wikipedia</a></li>
+<li> 18:05 <a href="https://en.wikipedia.org/wiki/Cyber_insurance">Cyber insurance - Wikipedia</a></li>
+<li> 18:04 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit&section=1">Data breach - Wikipedia</a></li>
+<li class='same'> 18:03 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit&section=1">Data breach - Wikipedia</a></li>
+<li> 18:02 nap.nationalacademies.org</li>
+<li> 18:02 <a href="https://en.wikipedia.org/wiki/Data_breach#CITEREFNational_Academies_of_Sciences,_Engineering,_and_Medicine2016">Data breach - Wikipedia</a></li>
+<li> 17:59 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 17:58 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:58 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:58 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:58 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:58 <a href="https://en.wikipedia.org/wiki/Computer_security#Medical_systems">Computer security - Wikipedia</a></li>
+<li> 17:57 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 17:56 royaljay.com</li>
+<li> 17:55 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 17:55 <a href="https://en.wikipedia.org/w/index.php?title=Medical_data_breach&action=history&offset=&limit=250">Medical data breach: Revision history - Wikipedia</a></li>
+<li> 17:55 <a href="https://en.wikipedia.org/w/index.php?title=Medical_data_breach&action=history">Medical data breach: Revision history - Wikipedia</a></li>
+<li> 17:55 <a href="https://en.wikipedia.org/wiki/Biogenic_substance">Biogenic substance - Wikipedia</a></li>
+<li> 17:55 <a href="https://en.wikipedia.org/wiki/Biogenetic">Biogenic substance - Wikipedia</a></li>
+<li> 17:54 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 17:53 <a href="https://en.wikipedia.org/wiki/Talk:Medical_data_breach">Talk:Medical data breach - Wikipedia</a></li>
+<li> 17:53 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 17:53 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:53 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:53 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:53 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:52 www.linkedin.com</li>
+<li class='same'> 17:51 www.linkedin.com</li>
+<li> 17:38 web.whatsapp.com</li>
+<li> 17:28 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:28 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:28 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:28 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:28 chatgpt.com</li>
+<li class='same'> 17:27 chatgpt.com</li>
+<li> 17:27 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:39 www.google.com</li>
+<li> 07:39 www.parkrun.org.uk</li>
+</ul>
+
 <H3>Saturday, 15/11/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:54 <a href="https://en.wikipedia.org/wiki/Software_vendor_liability">Software product liability - Wikipedia</a></li>
+<li> 21:54 <a href="https://en.wikipedia.org/wiki/Software_product_liability">Software product liability - Wikipedia</a></li>
+<li> 21:53 <a href="https://en.wikipedia.org/wiki/Data_breach#Definition">Data breach - Wikipedia</a></li>
+<li> 21:51 www.ncsc.gov.uk</li>
+<li> 21:50 www.nist.gov</li>
+<li> 21:49 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit&section=1">Data breach - Wikipedia</a></li>
+<li> 21:49 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 21:49 <a href="https://en.wikipedia.org/wiki/Data_leak">Data breach - Wikipedia</a></li>
+<li> 21:48 <a href="https://en.wikipedia.org/wiki/Data_loss_prevention_software">Data loss prevention software - Wikipedia</a></li>
+<li> 21:46 <a href="https://en.wikipedia.org/w/index.php?title=Medical_data_breach&action=history">Medical data breach: Revision history - Wikipedia</a></li>
+<li> 21:46 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 21:45 <a href="https://en.wikipedia.org/wiki/Threat_actor">Threat actor - Wikipedia</a></li>
+<li> 21:45 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 21:45 <a href="https://en.wikipedia.org/wiki/Data_breach?venotify=saved">Data breach - Wikipedia</a></li>
+<li> 21:45 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit">Data breach - Wikipedia</a></li>
+<li> 21:44 <a href="https://en.wikipedia.org/wiki/Threat_actor">Threat actor - Wikipedia</a></li>
+<li> 21:44 duckduckgo.com</li>
+<li> 21:43 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=history">Data breach: Revision history - Wikipedia</a></li>
+<li> 21:43 <a href="https://en.wikipedia.org/wiki/Amitabh_Bachchan">Amitabh Bachchan - Wikipedia</a></li>
+<li> 21:43 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/Data_breach">Pages that link to "Data breach" - Wikipedia</a></li>
+<li> 21:42 chatgpt.com</li>
+<li> 21:42 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 21:41 <a href="https://en.wikipedia.org/wiki/2024_National_Public_Data_breach">2024 National Public Data breach - Wikipedia</a></li>
+<li> 21:40 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 21:40 <a href="https://en.wikipedia.org/w/index.php?title=List_of_data_breaches&action=edit">Editing List of data breaches - Wikipedia</a></li>
+<li> 21:38 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 21:36 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 21:35 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&oldid=1222205294">Data breach - Wikipedia</a></li>
+<li> 21:35 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach">Talk:Data breach - Wikipedia</a></li>
+<li> 21:34 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=history">Data breach: Revision history - Wikipedia</a></li>
+<li> 21:34 <a href="https://en.wikipedia.org/wiki/Convention_for_the_Protection_of_Individuals_with_regard_to_Automatic_Processing_of_Personal_Data">Convention for the Protection of Individuals with Regard to Automatic Processing of Personal Data - Wikipedia</a></li>
+<li> 21:34 <a href="https://en.wikipedia.org/wiki/Convention_for_the_Protection_of_Individuals_with_Regard_to_Automatic_Processing_of_Personal_Data">Convention for the Protection of Individuals with Regard to Automatic Processing of Personal Data - Wikipedia</a></li>
+<li> 21:33 <a href="https://en.wikipedia.org/wiki/Data_Protection_Directive">Data Protection Directive - Wikipedia</a></li>
+<li> 21:33 <a href="https://en.wikipedia.org/wiki/Data_breach_notification_laws">Data breach notification laws - Wikipedia</a></li>
+<li> 21:31 <a href="https://en.wikipedia.org/wiki/Data_breach#CITEREFNational_Academies_of_Sciences,_Engineering,_and_Medicine2016">Data breach - Wikipedia</a></li>
+<li> 21:30 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 21:30 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 21:29 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&oldid=1313513956&action=edit">Editing Data breach - Wikipedia</a></li>
+<li> 21:29 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit">Data breach - Wikipedia</a></li>
+<li> 21:28 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&oldid=1218450536">Data breach - Wikipedia</a></li>
+<li> 21:28 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=history&offset=20240423042209%7C1220336693">Data breach: Revision history - Wikipedia</a></li>
+<li> 21:27 <a href="https://en.wikipedia.org/wiki/User:Buidhe_paid">User:Buidhe paid - Wikipedia</a></li>
+<li> 21:27 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=history">Data breach: Revision history - Wikipedia</a></li>
+<li> 21:26 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 21:26 <a href="https://en.wikipedia.org/wiki/Wikipedia:Village_pump_(proposals)">Wikipedia:Village pump (proposals) - Wikipedia</a></li>
+<li> 21:26 <a href="https://en.wikipedia.org/wiki/Wikipedia:Village_pump">Wikipedia:Village pump - Wikipedia</a></li>
+<li> 21:26 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 21:25 <a href="https://en.wikipedia.org/w/index.php?title=Mumsnet&curid=6360689&diff=1322013019&oldid=1316247180">Mumsnet: Difference between revisions - Wikipedia</a></li>
+<li> 21:23 <a href="https://en.wikipedia.org/wiki/Vegaphobia">Vegaphobia - Wikipedia</a></li>
+<li> 21:22 herts.instructure.com</li>
+<li class='same'> 21:21 herts.instructure.com</li>
+<li class='same'> 21:20 herts.instructure.com</li>
+<li> 21:18 chatgpt.com</li>
+<li> 21:17 herts.instructure.com</li>
+<li> 21:13 www.sciencedirect.com</li>
+<li> 21:13 duckduckgo.com</li>
+<li> 21:13 www.mdpi.com</li>
+<li> 21:12 duckduckgo.com</li>
+<li> 21:12 pubmed.ncbi.nlm.nih.gov</li>
+<li> 21:12 duckduckgo.com</li>
+<li> 21:11 www.sciencedirect.com</li>
+<li> 21:11 duckduckgo.com</li>
+<li> 21:10 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 21:10 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 21:10 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 21:10 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 21:10 ev.turnitinuk.com</li>
+<li> 21:10 herts.instructure.com</li>
+<li> 21:09 fritz.box</li>
+</ul>
+
+<br>
+
+<ul><li> 19:41 outlook.office.com</li>
+<li class='same'> 19:32 outlook.office.com</li>
+<li> 19:31 ev.turnitinuk.com</li>
+<li> 19:31 herts.instructure.com</li>
+<li> 19:31 outlook.office.com</li>
+<li> 19:31 herts.instructure.com</li>
+<li> 19:31 feedly.com</li>
+<li> 19:31 <a href="https://www.theguardian.com/">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a></li>
+<li> 19:31 feedly.com</li>
+<li> 19:30 fritz.box</li>
+</ul>
+
+<br>
+
+<ul><li> 17:32 ev.turnitinuk.com</li>
+<li> 17:31 herts.instructure.com</li>
+<li> 17:27 ev.turnitinuk.com</li>
+<li> 17:27 herts.instructure.com</li>
+</ul>
 
 <br>
 
@@ -184,7 +976,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 www.google.com</li>
+<ul><li> 11:20 www.parkrun.org.uk</li>
+<li class='same'> 11:19 www.parkrun.org.uk</li>
+<li> 11:19 <a href="https://www.theguardian.com/education/2025/nov/15/levy-international-students-tuition-fees-uk-university">Levy on international students’ tuition fees not in best interest of UK, says leader of top university | Higher education | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:46 <a href="https://www.theguardian.com/education/2025/nov/15/levy-international-students-tuition-fees-uk-university">Levy on international students’ tuition fees not in best interest of UK, says leader of top university | Higher education | The Guardian</a></li>
+<li> 10:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:29 www.google.com</li>
 <li> 10:29 www.businessinsider.com</li>
 </ul>
 
@@ -901,7 +1702,7 @@ With number of accesses/minutes in parentheses
 <li> 07:14 www.etymonline.com</li>
 <li> 07:14 duckduckgo.com</li>
 <li> 07:13 <a href="https://www.youtube.com/watch?v=5t1HLv3IXMM&t=156s">(14) Lego Vehicles Climb Walls - YouTube</a></li>
-<li> 07:13 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:13 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:12 <a href="https://www.bbc.co.uk/news/articles/c5yl60yp9g6o">Chris Mason: Unpicking a messy day for the government - BBC News</a></li>
 <li> 07:08 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&wvprov=sticky-header">Editing 2023 Capita data breach - Wikipedia</a></li>
@@ -4636,7 +5437,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:13 <a href="https://www.youtube.com/watch?v=5HDTkOLHHds">(33) Lady slaps me after getting national record - YouTube</a></li>
 <li> 12:12 <a href="https://www.youtube.com/results?search_query=simple+join+two+pieces+of+timber+straight">(33) simple join two pieces of timber straight - YouTube</a></li>
-<li> 12:12 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 12:12 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 </ul>
 
 <H3>Friday, 24/10/25</H3>
@@ -5285,7 +6086,7 @@ With number of accesses/minutes in parentheses
 <li> 06:29 <a href="https://www.youtube.com/results?search_query=lower+back+exercises">(24) lower back exercises - YouTube</a></li>
 <li> 06:28 <a href="https://www.youtube.com/results?search_query=lower+back+tier+list">(24) lower back tier list - YouTube</a></li>
 <li> 06:28 <a href="https://www.youtube.com/results?search_query=trap+exercises+tier+list">(24) trap exercises tier list - YouTube</a></li>
-<li> 06:28 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 06:28 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 06:25 workload.herts.ac.uk</li>
 <li> 06:25 adfs.herts.ac.uk</li>
 <li> 06:25 api-b6327e78.duosecurity.com</li>
@@ -5761,7 +6562,7 @@ With number of accesses/minutes in parentheses
 <li> 11:00 moodlemoot.org</li>
 <li> 11:00 duckduckgo.com</li>
 <li> 11:00 <a href="https://www.youtube.com/feed/subscriptions">(18) Subscriptions - YouTube</a></li>
-<li> 11:00 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 11:00 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 10:57 forms.office.com</li>
 <li> 10:57 outlook.office365.com</li>
 <li class='same'> 10:56 outlook.office365.com</li>
@@ -6310,7 +7111,7 @@ With number of accesses/minutes in parentheses
 <li> 14:59 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 14:59 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 14:59 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 14:58 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 14:58 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 14:58 mail.google.com</li>
 <li> 14:56 ce0997li.webitrent.com</li>
 <li> 14:56 www.herts.ac.uk</li>
@@ -6504,12 +7305,12 @@ With number of accesses/minutes in parentheses
 <li> 16:28 <a href="https://www.youtube.com/watch?v=bZod37igzQk&t=1207s">Best and Worst Recovery Methods Ranked By Exercise Scientists - YouTube</a></li>
 <li> 16:28 <a href="https://www.youtube.com/results?search_query=renaissance+periodization+recovery">renaissance periodization recovery - YouTube</a></li>
 <li> 16:26 <a href="https://www.youtube.com/watch?v=zbTkoXcvBYM">Hacks?? #hackreacts #hack #lifehacks #funny - YouTube</a></li>
-<li> 16:25 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:25 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:12 <a href="https://www.youtube.com/watch?v=qy4eT2tjby4&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=116">(14) GCSE Maths: N4-11 [Examples] - YouTube</a></li>
 <li> 16:12 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 16:12 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 16:07 <a href="https://www.youtube.com/watch?v=8y-ViyUk7Dk&list=RD8y-ViyUk7Dk&start_radio=1">(14) EJAE, Audrey Nuna and Rei Ami from KPop Demon Hunters: Golden | The Tonight Show - YouTube</a></li>
-<li> 16:07 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:07 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 15:45 web.whatsapp.com</li>
 <li> 15:45 mail.google.com</li>
 <li> 15:42 <a href="https://en.wikipedia.org/wiki/Spider-Man:_Beyond_the_Spider-Verse">Spider-Man: Beyond the Spider-Verse - Wikipedia</a></li>
@@ -6666,7 +7467,7 @@ With number of accesses/minutes in parentheses
 <li> 07:49 <a href="https://www.youtube.com/watch?v=7GUOevwVdRs&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=115">GCSE Maths: N4-10 [The Fundamental Theorem of Arithmetic / Unique Factorisation Theorem] - YouTube</a></li>
 <li> 07:48 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 07:48 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
-<li> 07:48 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:48 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:38 outlook.office.com</li>
 <li class='same'> 07:37 outlook.office.com</li>
 <li> 07:36 herts.instructure.com</li>
@@ -6938,7 +7739,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:59 <a href="https://www.youtube.com/watch?v=TMZH0uuaHwo">(10) Let's Relax with Numberblock Twelve | Calming Sensory Video for Kids | Learn to Count | Numberblocks - YouTube</a></li>
 <li> 07:59 <a href="https://www.youtube.com/results?search_query=numberblocks">(10) numberblocks - YouTube</a></li>
-<li> 07:59 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:59 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:50 pokemondb.net</li>
 <li> 07:49 <a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon_Evolutions">Pokémon Evolutions - Wikipedia</a></li>
 <li> 07:49 duckduckgo.com</li>
@@ -7707,7 +8508,7 @@ With number of accesses/minutes in parentheses
 <li> 16:41 <a href="https://www.youtube.com/watch?v=L_g8VbLBovI">iTerm2: More Useful Tips and Tricks - YouTube</a></li>
 <li> 16:40 <a href="https://www.youtube.com/results?search_query=iterm+protips">iterm protips - YouTube</a></li>
 <li> 16:40 <a href="https://www.youtube.com/results?search_query=iterm+power+user+">iterm power user - YouTube</a></li>
-<li> 16:40 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:40 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:39 chatgpt.com</li>
 <li> 16:30 discord.com</li>
 <li class='same'> 16:29 discord.com</li>
@@ -7844,7 +8645,7 @@ With number of accesses/minutes in parentheses
 <li> 07:35 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 07:35 <a href="https://www.youtube.com/playlist?list=WL">(9) Watch Later - YouTube</a></li>
 <li> 07:35 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 07:35 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:35 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:20 www.activeluton.co.uk</li>
 <li> 07:20 duckduckgo.com</li>
 <li> 07:20 www.activeluton.co.uk</li>
@@ -7906,7 +8707,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:56 help.openai.com</li>
 <li> 15:50 <a href="https://www.youtube.com/watch?v=yy2ul2ZG7qY">(7) ChatGPT Works with iTerm2 And It's Surprisingly Useful - YouTube</a></li>
 <li> 15:49 <a href="https://www.youtube.com/results?search_query=iterm2+ai">(7) iterm2 ai - YouTube</a></li>
-<li> 15:49 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 15:49 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 15:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 15:48 dashboards.rhul.ac.uk</li>
 <li> 15:47 outlook.office365.com</li>
@@ -8277,9 +9078,9 @@ With number of accesses/minutes in parentheses
 <li> 14:52 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 14:51 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 14:51 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 14:51 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 14:51 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 14:51 <a href="https://www.youtube.com/feed/subscriptions">(18) Subscriptions - YouTube</a></li>
-<li> 14:51 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 14:51 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 14:47 <a href="https://www.theguardian.com/us-news/2025/oct/04/pete-hegseth-fires-us-navy-chief-of-staff-jon-harrison">Pete Hegseth fires US navy chief of staff | US military | The Guardian</a></li>
 <li> 14:37 www.google.com</li>
 <li class='same'> 14:35 www.google.com</li>
@@ -8327,7 +9128,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:17 www.linkedin.com</li>
 <li> 19:15 <a href="https://www.youtube.com/shorts/7kUYMQKRYNI">(1) Matt Damon on how he got the departed - YouTube</a></li>
-<li> 19:15 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 19:15 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 19:15 www.giantitp.com</li>
 <li> 19:14 mail.google.com</li>
 <li> 19:12 www.reddit.com</li>
@@ -8542,7 +9343,7 @@ With number of accesses/minutes in parentheses
 <li> 15:42 www.reddit.com</li>
 <li> 15:16 outlook.office365.com</li>
 <li> 14:59 <a href="https://www.youtube.com/watch?v=2VrMh-0Mvh0">Care to Stretch Your Legs? | The West Wing - YouTube</a></li>
-<li> 14:59 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 14:59 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 </ul>
 
 <br>
@@ -8634,7 +9435,7 @@ With number of accesses/minutes in parentheses
 <li> 08:00 login.microsoftonline.com</li>
 <li> 07:55 <a href="https://www.youtube.com/watch?v=GOUG2xcDwsc">(4) I Turned my Bed into a Fish Tank! - YouTube</a></li>
 <li> 07:55 <a href="https://www.youtube.com/results?search_query=secret+room">(4) secret room - YouTube</a></li>
-<li> 07:55 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:55 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:52 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li> 07:50 www.reddit.com</li>
 <li class='same'> 07:49 www.reddit.com</li>
@@ -9343,7 +10144,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:05 feedly.com</li>
 <li> 07:44 <a href="https://www.youtube.com/watch?v=frRHLRdoVbk">(815) VFX Artist React to Bad & Great CGi 194 - YouTube</a></li>
 <li> 07:41 <a href="https://www.youtube.com/watch?v=8AeCo3AD1cM">(815) Confused Teacher Crashes Out Over His Job | Mitchell and Webb Are Not Helping | Channel 4 Comedy - YouTube</a></li>
-<li> 07:40 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:40 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:25 www.reddit.com</li>
 <li class='same'> 07:23 www.reddit.com</li>
 <li> 07:20 www.google.com</li>
@@ -9613,7 +10414,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 12:04 outlook.office365.com</li>
 <li> 12:02 www.natesilver.net</li>
 <li> 12:01 <a href="https://www.youtube.com/shorts/uLkBZ6YruuI">(807) Jim Carrey's Teleprompter "Mistake" at 86th #Oscars #shorts - YouTube</a></li>
-<li> 12:01 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 12:01 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 12:00 <a href="https://xkcd.com/2385/">xkcd: Final Exam</a></li>
 <li> 12:00 <a href="https://xkcd.com/2009/">xkcd: Hertzsprung-Russell Diagram</a></li>
 <li> 11:59 <a href="https://xkcd.com/1087/">xkcd: Cirith Ungol</a></li>
@@ -10023,7 +10824,7 @@ With number of accesses/minutes in parentheses
 <li> 16:30 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 16:30 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 16:30 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 16:29 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:29 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:22 docs.google.com</li>
 <li class='same'> 16:21 docs.google.com</li>
 <li> 16:15 delayrepay.avantiwestcoast.co.uk</li>
@@ -13364,7 +14165,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:38 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<ul><li> 08:38 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 08:32 www.myabandonware.com</li>
 <li> 08:31 www.google.com</li>
 <li> 08:31 www.google.co.uk</li>
@@ -14452,7 +15253,7 @@ With number of accesses/minutes in parentheses
 <li> 15:15 <a href="https://www.youtube.com/watch?v=nT02JyvyU-M&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=98">(753) GCSE Maths: N3-11 [Priority of Operations Part 4: Brackets, x and ÷] - YouTube</a></li>
 <li> 15:15 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 15:14 www.netflix.com</li>
-<li> 15:14 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 15:14 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 15:13 www.netflix.com</li>
 <li class='same'> 15:12 www.netflix.com</li>
 <li> 15:12 www.paypal.com</li>
@@ -14538,7 +15339,7 @@ With number of accesses/minutes in parentheses
 <li> 08:15 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 08:15 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 08:15 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 08:14 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 08:14 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 08:13 uamma.uk</li>
 <li> 08:13 duckduckgo.com</li>
 <li> 08:01 <a href="https://www.theguardian.com/us-news/2025/aug/29/trump-tariffs-illegal-appeal-court-ruling">Most of Trump’s tariffs are illegal, federal court rules | Trump tariffs | The Guardian</a></li>
@@ -14656,7 +15457,7 @@ With number of accesses/minutes in parentheses
 <li> 10:45 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 10:44 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 10:44 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 10:44 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 10:44 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 10:31 intranet.royalholloway.ac.uk</li>
 </ul>
 
@@ -14791,7 +15592,7 @@ With number of accesses/minutes in parentheses
 <li> 08:16 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 08:16 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 08:16 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 08:16 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 08:16 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 08:03 www.ebay.co.uk</li>
 <li> 08:03 duckduckgo.com</li>
 <li class='same'> 08:02 duckduckgo.com</li>
@@ -15384,7 +16185,7 @@ With number of accesses/minutes in parentheses
 <li> 12:42 login.microsoftonline.com</li>
 <li> 12:41 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:41 <a href="https://www.youtube.com/results?search_query=swimming+technique+for+juniors">(736) swimming technique for juniors - YouTube</a></li>
-<li> 12:40 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 12:40 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 12:31 chatgpt.com</li>
 <li> 12:30 bbs.archlinux.org</li>
 <li> 12:29 forum.openwrt.org</li>
@@ -15757,7 +16558,7 @@ With number of accesses/minutes in parentheses
 <li> 14:24 calendar.google.com</li>
 <li> 14:23 mail.google.com</li>
 <li> 14:23 gmail.com</li>
-<li> 14:23 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 14:23 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 14:22 www.reddit.com</li>
 <li class='same'> 14:21 www.reddit.com</li>
 <li class='same'> 14:20 www.reddit.com</li>
@@ -15799,7 +16600,7 @@ With number of accesses/minutes in parentheses
 <li> 07:31 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
 <li> 07:31 sites.google.com</li>
 <li> 07:30 <a href="https://www.youtube.com/@TLMaths/playlists">(803) TLMaths - YouTube</a></li>
-<li> 07:30 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:30 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 </ul>
 
 <br>
@@ -16068,7 +16869,7 @@ With number of accesses/minutes in parentheses
 <li> 09:09 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 09:09 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 09:09 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 09:08 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 09:08 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 09:08 www.reddit.com</li>
 <li> 09:01 docs.google.com</li>
 </ul>
@@ -16476,7 +17277,7 @@ With number of accesses/minutes in parentheses
 <li> 09:09 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 09:09 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 09:09 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 09:09 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 09:09 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 08:52 docs.google.com</li>
 <li> 08:52 drive.google.com</li>
 <li> 08:38 docs.google.com</li>
@@ -16533,7 +17334,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:29 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<ul><li> 17:29 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 </ul>
 
 <br>
@@ -17289,7 +18090,7 @@ With number of accesses/minutes in parentheses
 <li> 07:00 <a href="https://www.youtube.com/watch?v=ciEtP-gidkg">(686) GCSE Maths: N2-23 [Examples of Division: Going into Decimals] - YouTube</a></li>
 <li> 07:00 <a href="https://www.youtube.com/watch?v=hq7iY6mrJko">(686) GCSE Maths: N2-22 [Division: Going into Decimals] - YouTube</a></li>
 <li> 07:00 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 07:00 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:00 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 06:34 www.facebook.com</li>
 <li> 06:34 www.reddit.com</li>
 <li class='same'> 06:32 www.reddit.com</li>
@@ -17589,7 +18390,7 @@ With number of accesses/minutes in parentheses
 <li> 07:26 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 07:26 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 07:26 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 07:25 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:25 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 </ul>
 
 <br>
@@ -17768,7 +18569,7 @@ With number of accesses/minutes in parentheses
 <li> 08:52 <a href="https://www.youtube.com/watch?v=Y94Hj0owDgc">(683) GCSE Maths: N2-21 [Examples of Division with Integers] - YouTube</a></li>
 <li> 08:49 <a href="https://www.youtube.com/watch?v=hwRaqcDdZ88">(683) GCSE Maths: N2-20 [Method of Division with Integers] - YouTube</a></li>
 <li> 08:48 <a href="https://www.youtube.com/watch?v=Sf-wOuED4fg&t=4s">(683) GCSE Maths: N2-19 [Examples of Multiplication with Decimals] - YouTube</a></li>
-<li> 08:42 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 08:42 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 </ul>
 
 <br>
@@ -17972,7 +18773,7 @@ With number of accesses/minutes in parentheses
 <li> 08:22 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 08:21 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
 <li> 08:21 duckduckgo.com</li>
-<li> 08:21 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 08:21 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 08:07 www.linkedin.com</li>
 <li> 08:06 <a href="https://www.theguardian.com/sport/2025/aug/04/f1-2025-end-of-term-report-card-as-drivers-head-for-their-summer-break">F1 2025: end-of-term report card as drivers head for their summer break | Formula One | The Guardian</a></li>
 <li> 08:05 herts365-my.sharepoint.com</li>
@@ -18356,7 +19157,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:56 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<ul><li> 07:56 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:54 www.reddit.com</li>
 <li class='same'> 07:53 www.reddit.com</li>
 <li class='same'> 07:51 www.reddit.com</li>
@@ -18960,7 +19761,7 @@ With number of accesses/minutes in parentheses
 <li> 15:48 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 15:48 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 15:48 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 15:48 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 15:48 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 15:42 www.reddit.com</li>
 <li class='same'> 15:39 www.reddit.com</li>
 <li class='same'> 15:37 www.reddit.com</li>
@@ -19174,7 +19975,7 @@ With number of accesses/minutes in parentheses
 <li> 07:58 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg">(673) GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 07:58 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&embeds_referring_euri=https%3A%2F%2Fsites.google.com%2F&source_ve_path=OTY3MTQ">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 07:58 sites.google.com</li>
-<li> 07:57 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:57 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:57 sites.google.com</li>
 <li> 07:55 outlook.office365.com</li>
 <li> 07:54 discord.com</li>
@@ -19586,9 +20387,9 @@ With number of accesses/minutes in parentheses
 <li> 18:10 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 18:10 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
 <li> 18:10 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 18:09 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 18:09 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 18:09 <a href="https://www.youtube.com/shorts/Q2X1Ww8GIig">(667) The dark reality of bodybuilding (ft. LeanbeefPatty) - YouTube</a></li>
-<li> 18:09 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 18:09 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 18:08 www.linkedin.com</li>
 <li> 18:07 <a href="https://en.wikipedia.org/wiki/List_of_Lego_video_games">List of Lego video games - Wikipedia</a></li>
 <li> 18:07 duckduckgo.com</li>
@@ -19698,10 +20499,10 @@ With number of accesses/minutes in parentheses
 <li> 11:11 duckduckgo.com</li>
 <li> 11:01 <a href="https://en.wikipedia.org/wiki/Metacarpal_bones">Metacarpal bones - Wikipedia</a></li>
 <li> 11:01 duckduckgo.com</li>
-<li> 10:59 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 10:59 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 10:58 <a href="https://www.youtube.com/shorts/-6t_UlvIWIQ">(667) “I’m a God.” She Laughed… Until the Universe Obeyed Him 😱🔁💫 - YouTube</a></li>
 <li> 10:57 <a href="https://www.youtube.com/shorts/mQMM_wQnXcs">(667) It’s unusual fish.#shorts - YouTube</a></li>
-<li> 10:56 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 10:56 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 10:42 chatgpt.com</li>
 <li> 10:42 chat.openai.com</li>
 <li> 10:42 <a href="https://en.wikipedia.org/wiki/File:Male_human_head_louse.jpg">File:Male human head louse.jpg - Wikipedia</a></li>
@@ -20279,7 +21080,7 @@ With number of accesses/minutes in parentheses
 <li> 07:30 <a href="https://www.youtube.com/watch?v=BwHnlYLioXI&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=29">(664) GCSE Maths: N2-05 [Method of Addition with Integers] - YouTube</a></li>
 <li> 07:30 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 07:30 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
-<li> 07:30 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:30 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:28 drive.google.com</li>
 <li> 07:28 calendar.google.com</li>
 <li class='same'> 07:25 calendar.google.com</li>
@@ -20607,7 +21408,7 @@ With number of accesses/minutes in parentheses
 <li> 18:38 <a href="https://www.youtube.com/results?search_query=attach+a+pannier">(664) attach a pannier - YouTube</a></li>
 <li> 18:38 <a href="https://www.youtube.com/results?search_query=attac+">(664) attac - YouTube</a></li>
 <li> 18:38 www.linkedin.com</li>
-<li> 18:38 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 18:38 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 18:34 www.ebay.co.uk</li>
 <li> 18:34 www.linkedin.com</li>
 <li> 18:31 www.amazon.co.uk</li>
@@ -20965,7 +21766,7 @@ With number of accesses/minutes in parentheses
 <li> 08:20 <a href="https://www.youtube.com/watch?v=u5MMv2O3Q9Q&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=23">(664) GCSE Maths: N1-22 [Interpreting Regions as Inequalities] - YouTube</a></li>
 <li> 08:20 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 08:20 <a href="https://www.youtube.com/feed/playlists">Playlists - YouTube</a></li>
-<li> 08:19 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 08:19 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 08:17 rhul-my.sharepoint.com</li>
 <li> 08:17 outlook.office365.com</li>
 <li class='same'> 08:16 outlook.office365.com</li>
@@ -21345,7 +22146,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:33 <a href="https://www.youtube.com/results?search_query=never+going+to+give+you+up">(650) never going to give you up - YouTube</a></li>
-<li> 11:32 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 11:32 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 11:17 outlook.office365.com</li>
 <li class='same'> 11:16 outlook.office365.com</li>
 <li class='same'> 11:14 outlook.office365.com</li>
@@ -22101,7 +22902,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:54 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<ul><li> 13:54 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 13:53 <a href="https://www.youtube.com/watch?v=zHU23StZJ5E&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=310">(632) GCSE Maths: N15-24 [Error Intervals Example 3] - YouTube</a></li>
 <li> 13:53 <a href="https://www.youtube.com/watch?v=JSReF8rRY3I&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=208">(632) GCSE Maths: N15-24 [Error Intervals Example 3] - YouTube</a></li>
 <li> 13:45 <a href="https://www.youtube.com/watch?v=u8ayGFL1cFw&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=207">(632) GCSE Maths: N8h-30 Examples of Solving Equations with Surds - YouTube</a></li>
@@ -22119,15 +22920,15 @@ With number of accesses/minutes in parentheses
 <li> 13:31 <a href="https://www.youtube.com/watch?v=amrhqGOOkyA">Michelle Teaches Salish Matter Math For 24 Hours! - YouTube</a></li>
 <li> 13:31 <a href="https://www.youtube.com/watch?v=jGHnBsvAbaY&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=2">(632) GCSE Maths: N1-01 [Types of Numbers] - YouTube</a></li>
 <li> 13:31 <a href="https://www.youtube.com/results?search_query=youtube+gcse+maths+lessons+girl">youtube gcse maths lessons girl - YouTube</a></li>
-<li> 13:31 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 13:31 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 13:31 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 13:31 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 13:31 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 13:29 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
 <li> 13:28 <a href="https://www.youtube.com/playlist?list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(729) TEACHING GCSE Maths - YouTube</a></li>
 <li> 13:28 <a href="https://www.youtube.com/results?search_query=GCSE+maths+lessons">(632) GCSE maths lessons - YouTube</a></li>
 <li> 13:28 <a href="https://www.youtube.com/playlist?list=PLqxP5EuGxPndONpFQCdcbRa3C_b38so9u">(632) Edexcel 2023 GCSE Maths Exam Revision - YouTube</a></li>
 <li> 13:27 <a href="https://www.youtube.com/results?search_query=GCSE+maths">(632) GCSE maths - YouTube</a></li>
-<li> 13:27 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 13:27 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 13:26 edumentors.co.uk</li>
 <li> 13:26 www.reddit.com</li>
 <li> 13:25 calendar.google.com</li>
@@ -22762,7 +23563,7 @@ With number of accesses/minutes in parentheses
 <li> 09:31 <a href="https://www.youtube.com/watch?v=J0t-Q_u7hxk">(626) How To Remove Usb / Aux Panel Ford Fiesta 2014 - 2016 - YouTube</a></li>
 <li> 09:31 <a href="https://www.youtube.com/results?search_query=ford+fiesta+usb+port+replacement">(626) ford fiesta usb port replacement - YouTube</a></li>
 <li> 09:30 <a href="https://www.youtube.com/results?search_query=ford+fiesta+usb+port+not+working">(626) ford fiesta usb port not working - YouTube</a></li>
-<li> 09:30 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 09:30 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/08/gregg-wallace-attacks-bbc-before-publication-of-report-on-masterchef-allegations">Gregg Wallace fired from MasterChef as 50 people tell BBC of fresh allegations | Gregg Wallace | The Guardian</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a></li>
@@ -24282,7 +25083,7 @@ With number of accesses/minutes in parentheses
 <li> 12:27 duckduckgo.com</li>
 <li> 12:27 outlook.office.com</li>
 <li> 12:27 web.whatsapp.com</li>
-<li> 12:27 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 12:27 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 12:27 mail.google.com</li>
 <li> 12:25 outlook.office.com</li>
 <li> 12:11 arxiv.org</li>
@@ -25239,13 +26040,13 @@ With number of accesses/minutes in parentheses
 <li> 16:15 <a href="https://www.youtube.com/watch?v=NFZGlfW7Qus">(581) Quick and easy setup for teaching piano lessons online - YouTube</a></li>
 <li> 16:14 <a href="https://www.youtube.com/results?search_query=+online+piano+lessons+example">(581) online piano lessons example - YouTube</a></li>
 <li> 16:14 <a href="https://www.youtube.com/results?search_query=how+to+do+online+piano+lessons">(581) how to do online piano lessons - YouTube</a></li>
-<li> 16:13 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:13 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:13 www.superprof.co.uk</li>
 <li class='same'> 16:12 www.superprof.co.uk</li>
 <li class='same'> 16:11 www.superprof.co.uk</li>
 <li> 15:52 <a href="https://www.youtube.com/watch?v=c5ESCaJWqJo">(581) Honest Trailers | Drive - YouTube</a></li>
 <li> 15:52 <a href="https://www.youtube.com/results?search_query=honest+trailers">(581) honest trailers - YouTube</a></li>
-<li> 15:51 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 15:51 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 15:51 <a href="https://www.theguardian.com/us-news/live/2025/jun/27/donald-trump-big-beautiful-bill-reworked-senate-us-politics-latest-updates-news">Three liberal supreme court justices dissent against ruling that limits power of judges to block Trump’s birthright citizenship order – live</a></li>
 <li> 15:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 15:50 <a href="https://www.theguardian.com/">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a></li>
@@ -25253,9 +26054,9 @@ With number of accesses/minutes in parentheses
 <li> 15:38 web.whatsapp.com</li>
 <li> 15:38 <a href="https://www.youtube.com/watch?v=mtsabsZ4wG4&t=15s">(581) How To Play The Queen's Gambit - YouTube</a></li>
 <li> 15:38 <a href="https://www.youtube.com/results?search_query=queen%27s+gambit+opening+theory">(581) queen's gambit opening theory - YouTube</a></li>
-<li> 15:38 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 15:38 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 15:38 myaccount.google.com</li>
-<li> 15:38 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 15:38 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 15:36 drive.google.com</li>
 <li> 15:36 mail.google.com</li>
 <li> 15:36 gmail.com</li>
@@ -25801,7 +26602,7 @@ With number of accesses/minutes in parentheses
 <li> 09:14 artofmemory.com</li>
 <li> 09:12 <a href="https://www.youtube.com/@Brainathlete">Ron White Memory Expert - Memory Training & Brain Training - YouTube</a></li>
 <li> 09:11 <a href="https://www.youtube.com/results?search_query=memory+palace">memory palace - YouTube</a></li>
-<li> 09:11 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 09:11 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 09:09 web.whatsapp.com</li>
 <li> 09:08 mail.google.com</li>
 <li> 09:08 calendar.google.com</li>
@@ -26116,7 +26917,7 @@ With number of accesses/minutes in parentheses
 <li> 15:57 <a href="https://www.youtube.com/shorts/Nr3vo1CAJGA">Japanese macaque snow monkey peeling a banana with its baby - YouTube</a></li>
 <li> 15:57 <a href="https://www.youtube.com/shorts/jSbssTPCe48">cute monkey peeling a banana - YouTube</a></li>
 <li> 15:57 <a href="https://www.youtube.com/results?search_query=monkey+peel+banana">monkey peel banana - YouTube</a></li>
-<li> 15:56 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 15:56 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 15:56 duckduckgo.com</li>
 <li> 15:56 www.mozilla.org</li>
 <li> 15:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -28636,7 +29437,7 @@ With number of accesses/minutes in parentheses
 <li> 18:54 studio.youtube.com</li>
 <li> 18:54 <a href="https://www.youtube.com/@projectreal2513">(51) Project Real - YouTube</a></li>
 <li> 18:54 studio.youtube.com</li>
-<li> 18:54 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 18:54 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 18:46 chatgpt.com</li>
 <li class='same'> 18:45 chatgpt.com</li>
 <li> 18:45 chat.openai.com</li>
@@ -28692,7 +29493,7 @@ With number of accesses/minutes in parentheses
 <li> 12:56 mail.google.com</li>
 <li> 12:53 chatgpt.com</li>
 <li> 12:53 chat.openai.com</li>
-<li> 12:53 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 12:53 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 12:52 <a href="https://en.wikipedia.org/wiki/Languages_of_Nigeria">Languages of Nigeria - Wikipedia</a></li>
 <li> 12:52 duckduckgo.com</li>
 <li> 12:49 outlook.office365.com</li>
@@ -29091,7 +29892,7 @@ With number of accesses/minutes in parentheses
 <li> 20:26 <a href="https://www.youtube.com/watch?v=GZOh1NzqzzU">Guide to crimp connectors on 3D printers - Take your wiring to the next level! - YouTube</a></li>
 <li> 20:07 <a href="https://www.youtube.com/watch?v=MGt8cnVIKW8">3D Printing 101: How To Fix a Clogged Nozzle Using a Cold Pull! - YouTube</a></li>
 <li> 20:07 <a href="https://www.youtube.com/results?search_query=cold+pull">cold pull - YouTube</a></li>
-<li> 20:06 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 20:06 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 20:05 mail.google.com</li>
 <li class='same'> 20:04 mail.google.com</li>
 <li> 20:04 gmail.com</li>
@@ -29215,7 +30016,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:55 outlook.office365.com</li>
 <li> 10:33 <a href="https://www.youtube.com/watch?v=bcyvZIoQp9A">Tony Stark's Workshop | Iron Man Music (One Hour) - YouTube</a></li>
 <li> 10:33 <a href="https://www.youtube.com/results?search_query=iron+man+ambience">iron man ambience - YouTube</a></li>
-<li> 10:33 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 10:33 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 </ul>
 
 <br>
@@ -29281,7 +30082,7 @@ With number of accesses/minutes in parentheses
 <li> 20:42 <a href="https://www.youtube.com/results?search_query=crimping+wires+for+arduino">crimping wires for arduino - YouTube</a></li>
 <li> 20:40 <a href="https://www.youtube.com/watch?v=cqyYBua4pX4">How you can use Wire Ferrules (Why We Need Them!) - YouTube</a></li>
 <li> 20:40 <a href="https://www.youtube.com/results?search_query=crimping+wires">crimping wires - YouTube</a></li>
-<li> 20:39 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 20:39 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 20:34 detailspin.com</li>
 <li> 20:32 duckduckgo.com</li>
 <li> 20:31 arduino.stackexchange.com</li>
@@ -29633,7 +30434,7 @@ With number of accesses/minutes in parentheses
 <li> 16:06 bsky.app</li>
 <li> 16:06 <a href="https://www.youtube.com/watch?v=oTugjssqOT0">Randy Pausch Lecture: Time Management - YouTube</a></li>
 <li> 16:06 <a href="https://www.youtube.com/results?search_query=randy+pausch+time+management">randy pausch time management - YouTube</a></li>
-<li> 16:05 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:05 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 15:47 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 15:47 mail.google.com</li>
 <li> 15:46 www.reddit.com</li>
@@ -33417,7 +34218,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:03 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<ul><li> 14:03 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 14:02 duckduckgo.com</li>
 <li class='same'> 14:01 duckduckgo.com</li>
 </ul>
@@ -33499,7 +34300,7 @@ With number of accesses/minutes in parentheses
 <li> 16:13 duckduckgo.com</li>
 <li> 16:02 <a href="https://www.youtube.com/shorts/7kF_Qfxp4CM">Fake piano skills in under 30 seconds 🫡 try it out, it‘s easier than you think! (Piano Tutorial) - YouTube</a></li>
 <li> 16:02 <a href="https://www.youtube.com/results?search_query=souns+like+you+know+what+you+are+doing+on+the+pinao">souns like you know what you are doing on the pinao - YouTube</a></li>
-<li> 16:02 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:02 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:00 app.midiano.com</li>
 <li> 16:00 midiano.com</li>
 <li> 15:59 pianotify.com</li>
@@ -33617,7 +34418,7 @@ With number of accesses/minutes in parentheses
 <li> 16:08 <a href="https://www.youtube.com/shorts/irHvjSPsrB4">Handheld shower bracket installation video - YouTube</a></li>
 <li> 16:08 <a href="https://www.youtube.com/shorts/gmIbfJS2X50">Attaching Universal Shower Head Holder onto Holder Rod - YouTube</a></li>
 <li> 16:08 <a href="https://www.youtube.com/results?search_query=shower+holder+installation">shower holder installation - YouTube</a></li>
-<li> 16:08 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:08 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:07 mail.google.com</li>
 <li class='same'> 16:06 mail.google.com</li>
 <li class='same'> 16:05 mail.google.com</li>
@@ -33743,7 +34544,7 @@ With number of accesses/minutes in parentheses
 <li> 07:08 www.reuters.com</li>
 <li> 07:08 duckduckgo.com</li>
 <li> 07:05 <a href="https://www.youtube.com/results?search_query=renaissance+periodization+lunges">renaissance periodization lunges - YouTube</a></li>
-<li> 07:05 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:05 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 </ul>
 
 <br>
@@ -34103,7 +34904,7 @@ With number of accesses/minutes in parentheses
 <li> 06:54 <a href="https://www.youtube.com/watch?v=SpG_vSTFr0A&embeds_referring_euri=https%3A%2F%2Fwww.projectreal.co.uk%2F&source_ve_path=OTY3MTQ">What do you wish your parents knew about your online life? - YouTube</a></li>
 <li> 06:53 www.projectreal.co.uk</li>
 <li> 06:53 studio.youtube.com</li>
-<li> 06:53 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 06:53 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 06:52 mail.google.com</li>
 <li> 06:52 outlook.office365.com</li>
 <li class='same'> 06:50 outlook.office365.com</li>
@@ -34626,7 +35427,7 @@ With number of accesses/minutes in parentheses
 <li> 10:47 drive.google.com</li>
 <li> 10:46 mail.google.com</li>
 <li> 10:46 gmail.com</li>
-<li> 10:46 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 10:46 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 10:46 gla-my.sharepoint.com</li>
 <li> 10:45 mail.google.com</li>
 <li class='same'> 10:43 mail.google.com</li>
@@ -35071,7 +35872,7 @@ With number of accesses/minutes in parentheses
 <li> 16:31 <a href="https://www.youtube.com/shorts/I21vpoo0ZSQ">We all do this 😂 - YouTube</a></li>
 <li> 16:31 <a href="https://www.youtube.com/shorts/ATxa_meJG-s">Have you tried this trick?! 👀🤔😂 | Triple Charm #shorts - YouTube</a></li>
 <li> 16:30 <a href="https://www.youtube.com/shorts/fwdHxCFX3LA">The funniest chiropractor fails😂😭#shorts #funny #chiropractor #fails - YouTube</a></li>
-<li> 16:30 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:30 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:29 jobs.reading.ac.uk</li>
 </ul>
 
@@ -35992,7 +36793,7 @@ With number of accesses/minutes in parentheses
 <li> 19:58 <a href="https://www.youtube.com/shorts/rtJ7agmDoU0">How to clean out a clogged nozzle - NoClogger The Must-Have 3D Printing Tool - YouTube</a></li>
 <li> 19:57 <a href="https://www.youtube.com/watch?v=VYUeKlCWV9c">How To Clear A Clogged 3D Printer Nozzle – ATM Quick Take | Digi-Key Electronics - YouTube</a></li>
 <li> 19:57 <a href="https://www.youtube.com/results?search_query=3d+printer+nozzle+clog">3d printer nozzle clog - YouTube</a></li>
-<li> 19:57 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 19:57 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 19:54 www.matterhackers.com</li>
 <li> 19:54 duckduckgo.com</li>
 <li> 19:41 www.google.com</li>
@@ -38058,7 +38859,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:56 mail.google.com</li>
 <li> 09:56 gmail.com</li>
 <li> 09:56 studio.youtube.com</li>
-<li> 09:56 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 09:56 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 09:52 outlook.office365.com</li>
 <li> 09:52 outlook.office.com</li>
 <li> 09:52 www.facebook.com</li>
@@ -38099,7 +38900,7 @@ With number of accesses/minutes in parentheses
 <li> 06:40 gmail.com</li>
 <li> 06:38 www.theguardian.com</li>
 <li class='same'> 06:36 www.theguardian.com</li>
-<li> 06:28 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 06:28 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 06:24 outlook.office.com</li>
 <li class='same'> 06:23 outlook.office.com</li>
 <li> 06:22 mail.google.com</li>
@@ -39633,7 +40434,7 @@ With number of accesses/minutes in parentheses
 <li> 16:27 earth.google.com</li>
 <li class='same'> 16:26 earth.google.com</li>
 <li> 16:26 www.google.com</li>
-<li> 16:26 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:26 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:26 www.google.co.uk</li>
 <li> 16:26 www.reddit.com</li>
 <li> 16:26 www.google.co.uk</li>
@@ -41335,7 +42136,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:20 www.facebook.com</li>
 <li> 17:55 <a href="https://www.youtube.com/watch?v=aP-qKaig84M">(300) Bluey FULL Episodes Seasons 1 - 3 💙 | Featuring Dad Baby, Faceytalk and more! | 2 HOURS | Bluey - YouTube</a></li>
 <li> 17:55 <a href="https://www.youtube.com/results?search_query=bluey">(300) bluey - YouTube</a></li>
-<li> 17:55 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 17:55 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 17:44 bsky.app</li>
 <li> 17:33 www.linkedin.com</li>
 <li> 17:32 www.reddit.com</li>
@@ -41580,7 +42381,7 @@ With number of accesses/minutes in parentheses
 <li> 11:02 gmail.com</li>
 <li> 11:00 <a href="https://www.youtube.com/watch?v=GLDofv-XTUo">(299) How to get on/off a bike - YouTube</a></li>
 <li> 11:00 <a href="https://www.youtube.com/results?search_query=standing+start+from+a+bike">(299) standing start from a bike - YouTube</a></li>
-<li> 10:59 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 10:59 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 10:51 duckduckgo.com</li>
 <li> 10:50 web.whatsapp.com</li>
 <li> 10:50 www.access2therapy.com</li>
@@ -41754,7 +42555,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:14 chatgpt.com</li>
 <li> 20:10 <a href="https://www.youtube.com/watch?v=pbK1gYFjxmk">(298) VIDEO FOR TEST TV VERTICAL BANDING - YouTube</a></li>
 <li> 20:10 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 20:10 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 20:10 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 20:05 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
 <li> 20:05 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
 <li> 20:05 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
@@ -42069,11 +42870,11 @@ With number of accesses/minutes in parentheses
 <li> 13:26 <a href="https://www.youtube.com/results?search_query=renaissance+periodization+seated+standing">(290) renaissance periodization seated standing - YouTube</a></li>
 <li> 13:19 <a href="https://www.youtube.com/watch?v=qIFYgb7Mvu0">(290) Barbell Training is a MUST For Muscle Growth - YouTube</a></li>
 <li> 13:19 <a href="https://www.youtube.com/results?search_query=renaissance+periodization+dumbbell+vs+barbell">(290) renaissance periodization dumbbell vs barbell - YouTube</a></li>
-<li> 13:19 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 13:19 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 13:17 docs.google.com</li>
 <li class='same'> 13:16 docs.google.com</li>
 <li class='same'> 13:15 docs.google.com</li>
-<li> 13:10 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 13:10 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 12:59 docs.google.com</li>
 <li class='same'> 12:58 docs.google.com</li>
 <li> 12:57 www.reddit.com</li>
@@ -42249,7 +43050,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:17 web.whatsapp.com</li>
 <li> 08:17 <a href="https://www.youtube.com/watch?v=GqNHoypwPCw">(287) Training With The #1 Natural Bodybuilder In The World! - YouTube</a></li>
 <li> 08:17 <a href="https://www.youtube.com/results?search_query=renaissance+periodization+no+1+natural+bodybuilder">(287) renaissance periodization no 1 natural bodybuilder - YouTube</a></li>
-<li> 08:17 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 08:17 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 </ul>
 
 <br>
@@ -42802,7 +43603,7 @@ With number of accesses/minutes in parentheses
 <li> 19:20 <a href="https://www.youtube.com/@limesandstripes">(282) limesandstripes - YouTube</a></li>
 <li> 19:18 <a href="https://www.youtube.com/watch?v=PoMPrr-Uefs">(282) TV Calibration Banding Rotating Color Gradients Test [4K 23.976fps] - YouTube</a></li>
 <li> 19:18 <a href="https://www.youtube.com/results?search_query=gradient+test">(282) gradient test - YouTube</a></li>
-<li> 19:18 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 19:18 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 19:18 www.amazon.co.uk</li>
 <li class='same'> 19:16 www.amazon.co.uk</li>
 <li> 19:15 chatgpt.com</li>
@@ -44000,7 +44801,7 @@ With number of accesses/minutes in parentheses
 <li> 09:29 <a href="https://www.youtube.com/shorts/_NEiBl1eox8">(266) Clean Energy with Stirling Engine Technology | How Machines Work - YouTube</a></li>
 <li> 09:28 <a href="https://www.youtube.com/shorts/9XTEGrze920">(266) Why doesn’t everyone use a Tesla Turbine? - YouTube</a></li>
 <li> 09:26 <a href="https://www.youtube.com/watch?v=tJI2e8V1tNI">(266) [1570] My Viewer Broke The Law… Please Don’t. - YouTube</a></li>
-<li> 09:25 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 09:25 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 09:25 outlook.office365.com</li>
 <li> 09:25 outlook.office.com</li>
 <li> 09:25 mail.google.com</li>
@@ -44803,7 +45604,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:31 rpstrength.com</li>
 <li> 17:31 www.google.com</li>
 <li> 17:30 rpstrength.com</li>
-<li> 17:29 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 17:29 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 17:29 docs.google.com</li>
 <li> 17:26 bsky.app</li>
 <li> 17:25 www.menshealth.com</li>
@@ -46321,7 +47122,7 @@ With number of accesses/minutes in parentheses
 <li> 08:19 <a href="https://www.youtube.com/results?search_query=geox+light+up+shoes+not+working">(238) geox light up shoes not working - YouTube</a></li>
 <li> 08:19 <a href="https://www.youtube.com/shorts/4QK1guF1b7M">(238) Led shoes not working need help fixing them (addy) - YouTube</a></li>
 <li> 08:18 <a href="https://www.youtube.com/results?search_query=geox+light+up+shoes+not+working">(238) geox light up shoes not working - YouTube</a></li>
-<li> 08:18 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 08:18 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 08:18 batterytools.net</li>
 <li> 08:18 duckduckgo.com</li>
 </ul>
@@ -46469,9 +47270,9 @@ With number of accesses/minutes in parentheses
 <li> 10:57 <a href="https://www.youtube.com/results?search_query=download+and+install+factorio+tarball">(227) download and install factorio tarball - YouTube</a></li>
 <li> 10:56 <a href="https://www.youtube.com/watch?v=fzXieUxiHWo">(227) How to Download Factorio 2024 (Step-by-Step) - YouTube</a></li>
 <li> 10:56 <a href="https://www.youtube.com/results?search_query=download+and+install+factorio+ubunut">(227) download and install factorio ubunut - YouTube</a></li>
-<li> 10:56 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 10:56 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 10:56 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 10:56 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 10:56 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 10:55 www.factorio.com</li>
 <li> 10:55 www.google.com</li>
 <li> 10:54 www.factorio.com</li>
@@ -46929,7 +47730,7 @@ With number of accesses/minutes in parentheses
 <li> 11:35 outlook.office.com</li>
 <li> 11:26 <a href="https://www.youtube.com/watch?v=UFule8eNEbg">(221) Shifting Sand With LEGO! - YouTube</a></li>
 <li> 11:16 <a href="https://www.youtube.com/watch?v=nAuiWussbZY">(221) Making a LEGO Train Go Fast! - YouTube</a></li>
-<li> 11:15 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 11:15 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 11:14 mail.google.com</li>
 <li> 11:09 docs.google.com</li>
 <li> 11:08 www.theguardian.com</li>
@@ -47102,7 +47903,7 @@ With number of accesses/minutes in parentheses
 <li> 20:27 <a href="https://www.youtube.com/shorts/TRYo19rqfxU">(219) YouTube</a></li>
 <li> 20:27 <a href="https://www.youtube.com/shorts/VBaaWQ6tr9E">(219) Fire Scientist Reveals How Wildfires Spread - YouTube</a></li>
 <li> 20:26 <a href="https://www.youtube.com/shorts/-tOh_nPt8QM">(219) Worlds Strongest Dad Strength ft. Stoltman Brothers - YouTube</a></li>
-<li> 20:26 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 20:26 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 20:26 feedly.com</li>
 <li> 20:25 forums.factorio.com</li>
 <li> 20:25 duckduckgo.com</li>
@@ -47161,10 +47962,10 @@ With number of accesses/minutes in parentheses
 <li> 17:14 <a href="https://www.youtube.com/watch?v=HY6q9hwYcoc&t=470s">(217) Destroying Lego Towers - YouTube</a></li>
 <li> 17:14 <a href="https://www.youtube.com/feed/history">(217) YouTube</a></li>
 <li> 17:14 <a href="https://www.youtube.com/watch?v=TzJkD87eQNI">(217) What makes planetary gearboxes so amazing? - YouTube</a></li>
-<li> 17:14 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 17:14 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 17:13 <a href="https://www.youtube.com/history">(217) HISTORY - YouTube</a></li>
 <li> 17:13 myaccount.google.com</li>
-<li> 17:13 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 17:13 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:58 projecthub.arduino.cc</li>
 <li> 16:58 hackaday.com</li>
 <li> 16:58 electronics.stackexchange.com</li>
@@ -47583,7 +48384,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:25 docs.google.com</li>
-<li> 16:17 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:17 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:17 www.giantitp.com</li>
 <li> 16:17 bsky.app</li>
 <li> 16:17 duckduckgo.com</li>
@@ -48881,11 +49682,11 @@ With number of accesses/minutes in parentheses
 <li> 17:48 <a href="https://www.youtube.com/watch?v=UPwXgzrcAK0">(197) Trying To Buy A House - YouTube</a></li>
 <li> 17:48 <a href="https://www.youtube.com/watch?v=MpaUnhNpvOQ&t=34s">(197) How to improve handwriting | Handwriting practice - YouTube</a></li>
 <li> 17:47 <a href="https://www.youtube.com/results?search_query=beautiful+handwriting+english">(197) beautiful handwriting english - YouTube</a></li>
-<li> 17:47 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 17:47 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 17:47 <a href="https://www.youtube.com/watch?v=F5v9B71zrMc">(197) Sunny Teaches Chewing with Your Mouth Closed - YouTube</a></li>
 <li> 17:46 <a href="https://www.youtube.com/watch?v=nNegvL0N1M4">(197) Chew with Your Mouth Closed! - YouTube</a></li>
 <li> 17:45 <a href="https://www.youtube.com/results?search_query=eating+with+mouth+closed">(197) eating with mouth closed - YouTube</a></li>
-<li> 17:45 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 17:45 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 </ul>
 
 <br>
@@ -49490,7 +50291,7 @@ With number of accesses/minutes in parentheses
 <li> 16:02 <a href="https://www.youtube.com/results?search_query=spin+bike+teardown">(192) spin bike teardown - YouTube</a></li>
 <li> 16:01 <a href="https://www.youtube.com/watch?v=in5cQNFHDEY">(192) Teardown: Exercise Bike - YouTube</a></li>
 <li> 16:01 <a href="https://www.youtube.com/results?search_query=spin+bike+teardown">(192) spin bike teardown - YouTube</a></li>
-<li> 16:01 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:01 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:01 <a href="https://en.wikipedia.org/wiki/Bicycle_trainer">Bicycle trainer - Wikipedia</a></li>
 <li> 16:01 duckduckgo.com</li>
 <li> 16:00 www.pedalpowergenerator.com</li>
@@ -51071,7 +51872,7 @@ With number of accesses/minutes in parentheses
 <li> 09:33 chat.openai.com</li>
 <li> 09:28 <a href="https://www.youtube.com/watch?v=Sp6K3qpVFO0">(156) Introduction to Generative Fill | Adobe Photoshop - YouTube</a></li>
 <li> 09:27 <a href="https://www.youtube.com/results?search_query=photoshop+generative+fill">(156) photoshop generative fill - YouTube</a></li>
-<li> 09:27 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 09:27 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 09:24 outlook.office.com</li>
 <li> 09:24 outlook.office365.com</li>
 <li> 09:24 mail.google.com</li>
@@ -51221,7 +52022,7 @@ With number of accesses/minutes in parentheses
 <li> 21:04 <a href="https://www.youtube.com/results?search_query=clearing+gutters">(155) clearing gutters - YouTube</a></li>
 <li> 21:03 <a href="https://www.youtube.com/watch?v=-zFoynqYkCM">(155) How to clear out gutters - YouTube</a></li>
 <li> 21:03 <a href="https://www.youtube.com/results?search_query=clearing+gutters">(155) clearing gutters - YouTube</a></li>
-<li> 21:02 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 21:02 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 21:01 www.amazon.co.uk</li>
 <li> 21:01 duckduckgo.com</li>
 <li> 21:01 reductress.com</li>
@@ -51369,7 +52170,7 @@ With number of accesses/minutes in parentheses
 <li> 11:25 mail.google.com</li>
 <li class='same'> 11:24 mail.google.com</li>
 <li> 11:24 studio.youtube.com</li>
-<li> 11:23 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 11:23 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 11:22 mail.google.com</li>
 <li> 11:21 outlook.office.com</li>
 <li> 11:21 mail.google.com</li>
@@ -52340,7 +53141,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:28 <a href="https://www.youtube.com/watch?v=AzMo-FgRp64">(144) The Fantastic Four: First Steps | Official Teaser | Only in Theaters July 25 - YouTube</a></li>
 <li> 10:28 <a href="https://www.youtube.com/results?search_query=trailer">(144) trailer - YouTube</a></li>
-<li> 10:27 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 10:27 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 10:14 bsky.app</li>
 <li> 10:14 duckduckgo.com</li>
 <li class='same'> 10:13 duckduckgo.com</li>
@@ -52531,10 +53332,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:21 chatgpt.com</li>
 <li> 17:21 chat.openai.com</li>
 <li> 17:17 <a href="https://www.youtube.com/watch?v=Y4xrMkl5yJs">(142) Exercise Scientist Critiques Hulk Hogan's Training and Diet - YouTube</a></li>
-<li> 17:17 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 17:17 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 17:13 <a href="https://www.youtube.com/watch?v=wno_qUB02lM&t=123s">(142) Jamie’s Green Curry | Jamie Oliver - YouTube</a></li>
 <li> 17:12 <a href="https://www.youtube.com/results?search_query=thai+curry">(142) thai curry - YouTube</a></li>
-<li> 17:12 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 17:12 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 17:11 docs.google.com</li>
 <li class='same'> 17:10 docs.google.com</li>
 <li class='same'> 17:09 docs.google.com</li>
@@ -53441,7 +54242,7 @@ With number of accesses/minutes in parentheses
 <li> 15:09 duckduckgo.com</li>
 <li> 15:09 <a href="https://www.youtube.com/shorts/y6nfycF8fSI">(135) Pivot hinges for cabinet #diycrafts #carpenter - YouTube</a></li>
 <li> 15:09 <a href="https://www.youtube.com/results?search_query=pivot+hinge">(135) pivot hinge - YouTube</a></li>
-<li> 15:09 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 15:09 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 15:09 duckduckgo.com</li>
 <li> 15:07 www.diydoctor.org.uk</li>
 <li> 15:07 duckduckgo.com</li>
@@ -54490,7 +55291,7 @@ With number of accesses/minutes in parentheses
 <li> 07:14 www.reddit.com</li>
 <li> 07:14 duckduckgo.com</li>
 <li> 07:13 <a href="https://www.youtube.com/results?search_query=progression+to+chin+ups">(128) progression to chin ups - YouTube</a></li>
-<li> 07:13 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:13 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:13 outlook.office365.com</li>
 <li> 07:13 outlook.office.com</li>
 <li> 06:57 www.theguardian.com</li>
@@ -55017,7 +55818,7 @@ With number of accesses/minutes in parentheses
 <li> 14:45 <a href="https://www.youtube.com/results?search_query=hiding+wires+for+dash+cam">(126) hiding wires for dash cam - YouTube</a></li>
 <li> 14:41 <a href="https://www.youtube.com/watch?v=cbASQ3ymmu0">(126) How to install a Dashcam by hiding the cables - YouTube</a></li>
 <li> 14:41 <a href="https://www.youtube.com/results?search_query=hiding+wires+for+dash+cam">(126) hiding wires for dash cam - YouTube</a></li>
-<li> 14:41 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 14:41 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 14:37 web.whatsapp.com</li>
 <li> 14:31 www.gov.uk</li>
 <li> 14:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -56771,10 +57572,10 @@ With number of accesses/minutes in parentheses
 <li> 14:20 accounts.google.com</li>
 <li> 14:20 gmail.com</li>
 <li> 14:20 studio.youtube.com</li>
-<li> 14:19 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 14:19 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 14:19 <a href="https://www.youtube.com/account">(114) YouTube</a></li>
 <li> 14:19 <a href="https://www.youtube.com/signin_prompt?next=https%3A%2F%2Fwww.youtube.com%2F"></a></li>
-<li> 14:19 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 14:19 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 14:19 www.google.com</li>
 <li class='same'> 14:18 www.google.com</li>
 <li class='same'> 14:17 www.google.com</li>
@@ -57476,13 +58277,13 @@ With number of accesses/minutes in parentheses
 <li> 13:22 <a href="https://www.youtube.com/shorts/C6BR1gtgS28">(106) YouTube</a></li>
 <li> 13:22 <a href="https://www.youtube.com/shorts/U4WdNw0uMWw">(106) DIY Giant Wardrobe Transformation: from Empty Wall to Dream Closet #shorts - YouTube</a></li>
 <li> 13:21 <a href="https://www.youtube.com/shorts/MhjmKJfzFwQ">(106) Don't Eat At Night!? - YouTube</a></li>
-<li> 13:21 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 13:21 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 13:18 <a href="https://www.youtube.com/watch?v=7xALolZzhSM">(106) Marvel Television's Daredevil: Born Again | Official Trailer | Disney+ - YouTube</a></li>
-<li> 13:18 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 13:18 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 13:12 <a href="https://www.youtube.com/watch?v=Gi93Dbh_E3c">(106) Disney's Aladdin (1992) Pitch Meeting - YouTube</a></li>
-<li> 13:12 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 13:12 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 13:12 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 13:12 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 13:12 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 13:09 bsky.app</li>
 <li> 13:08 www.facebook.com</li>
 <li> 13:07 www.amazon.co.uk</li>
@@ -59498,8 +60299,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:28 <a href="https://www.youtube.com/">(14) YouTube</a></li>
-<li class='same'> 16:27 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<ul><li> 16:28 <a href="https://www.youtube.com/">(24) YouTube</a></li>
+<li class='same'> 16:27 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:25 outlook.office.com</li>
 <li> 16:25 bsky.app</li>
 <li> 16:24 www.linkedin.com</li>
@@ -59514,9 +60315,9 @@ With number of accesses/minutes in parentheses
 <li> 15:58 <a href="https://en.wikipedia.org/wiki/The_Children_of_H%C3%BArin">The Children of Húrin - Wikipedia</a></li>
 <li> 15:58 www.google.com</li>
 <li class='same'> 15:54 www.google.com</li>
-<li> 15:52 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 15:52 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 15:52 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 15:52 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 15:52 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 15:50 claude.ai</li>
 <li> 15:49 <a href="https://joereddington.com/2025/01/08/gratitude.html">Gratitude! | Joe Reddington</a></li>
 <li> 15:49 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
@@ -59754,7 +60555,7 @@ With number of accesses/minutes in parentheses
 <li> 09:25 chatgpt.com</li>
 <li> 09:25 chat.openai.com</li>
 <li> 09:18 <a href="https://www.youtube.com/watch?v=g_UoMzjei2g">Music for Stress Healing, Anxiety and Depression, Remove Inner Anger and Sadness - YouTube</a></li>
-<li> 09:18 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 09:18 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 09:15 chatgpt.com</li>
 <li> 09:13 www.reddit.com</li>
 <li> 09:13 www.google.com</li>
@@ -59785,7 +60586,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:36 trends.google.com</li>
 <li> 07:36 www.google.com</li>
 <li> 07:21 <a href="https://www.youtube.com/watch?v=DfSkKYQiwoU">Deep Focus Music To Improve Concentration - 12 Hours of Ambient Study Music to Concentrate - YouTube</a></li>
-<li> 07:21 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:21 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:19 askubuntu.com</li>
 <li> 07:19 www.google.com</li>
 <li> 07:19 bbs.archlinux.org</li>
@@ -59795,9 +60596,9 @@ With number of accesses/minutes in parentheses
 <li> 07:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:03 <a href="https://www.youtube.com/watch?v=9SltrMMeytU">Deep Focus Music To Improve Concentration - Ambient Music For Studying, Concentration and Work #1 - YouTube</a></li>
 <li> 07:03 <a href="https://www.youtube.com/results?search_query=focus+music">focus music - YouTube</a></li>
-<li> 07:03 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:03 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:03 accounts.google.com</li>
-<li> 07:03 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:03 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:01 bsky.app</li>
 <li> 06:59 calendar.google.com</li>
 <li> 06:37 yattara.medium.com</li>
@@ -59917,9 +60718,9 @@ With number of accesses/minutes in parentheses
 <li> 17:04 packages.ubuntu.com</li>
 <li> 16:58 <a href="https://www.youtube.com/watch?v=LGqBQrUYua4">(5) Math Antics - Long Division - YouTube</a></li>
 <li> 16:58 <a href="https://www.youtube.com/results?search_query=long+division">(5) long division - YouTube</a></li>
-<li> 16:58 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:58 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:58 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 16:58 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 16:58 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 16:42 i3wm.org</li>
 <li> 16:42 www.google.com</li>
 <li> 16:42 www.mozilla.org</li>
@@ -60006,7 +60807,7 @@ With number of accesses/minutes in parentheses
 <li> 13:51 <a href="https://www.youtube.com/watch?v=iDr5ySr1htQ">(5) Stylianos Meaning - YouTube</a></li>
 <li> 13:51 <a href="https://www.youtube.com/results?search_query=Stilianos+name">(5) Stilianos name - YouTube</a></li>
 <li> 13:51 <a href="https://www.youtube.com/results?search_query=Stilianos">(5) Stilianos - YouTube</a></li>
-<li> 13:51 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 13:51 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 13:51 www.linkedin.com</li>
 <li class='same'> 13:50 www.linkedin.com</li>
 <li> 13:50 scholar.google.co.uk</li>
@@ -60080,8 +60881,8 @@ With number of accesses/minutes in parentheses
 <li> 12:49 <a href="https://www.youtube.com/watch?v=dj0Z1Ho18Kg&list=WL&index=10&t=74s">(5) Drawing Frozen2 - Elsa [Drawing Hands] - YouTube</a></li>
 <li> 12:49 <a href="https://www.youtube.com/playlist?list=WL">(9) Watch Later - YouTube</a></li>
 <li> 12:49 <a href="https://www.youtube.com/feed/you">YouTube</a></li>
-<li> 12:49 <a href="https://www.youtube.com/">(14) YouTube</a></li>
-<li class='same'> 12:48 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 12:49 <a href="https://www.youtube.com/">(24) YouTube</a></li>
+<li class='same'> 12:48 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 12:44 www.google.com</li>
 <li> 12:42 mail.google.com</li>
 <li> 12:41 web.whatsapp.com</li>
@@ -60520,7 +61321,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:57 fast.com</li>
-<li> 11:53 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 11:53 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 11:49 www.facebook.com</li>
 </ul>
 
@@ -60550,7 +61351,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:15 askubuntu.com</li>
 <li> 08:15 www.google.com</li>
 <li> 08:10 <a href="https://www.youtube.com/watch?v=bwu6rJl1cOw">(75) Honest Trailers | Venom: The Last Dance - YouTube</a></li>
-<li> 08:09 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 08:09 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 08:05 askubuntu.com</li>
 <li> 08:05 www.google.com</li>
 <li> 08:05 www.linkedin.com</li>
@@ -60668,7 +61469,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:39 <a href="https://www.youtube.com/watch?v=EC6Poq1655k&list=PLH2oEwFFXbYNy6OQpMnLolP_Q3Zt_e5BH">(1) Maya FALLS out of a TREE !!! - YouTube</a></li>
 <li> 14:39 <a href="https://www.youtube.com/results?search_query=tik+tak+toys">(1) tik tak toys - YouTube</a></li>
-<li> 14:38 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 14:38 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 14:24 www.theguardian.com</li>
 <li> 14:22 news.sky.com</li>
 <li> 14:21 www.theguardian.com</li>
@@ -60699,9 +61500,9 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:27 www.facebook.com</li>
 <li> 08:21 web.whatsapp.com</li>
 <li> 07:54 <a href="https://www.youtube.com/watch?v=VVxocz5bCms">(73) Black Widow Pitch Meeting - YouTube</a></li>
-<li> 07:54 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:54 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:54 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 07:54 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 07:54 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 07:54 bsky.app</li>
 <li> 07:54 www.facebook.com</li>
 <li class='same'> 07:53 www.facebook.com</li>
@@ -60815,9 +61616,9 @@ With number of accesses/minutes in parentheses
 <li> 22:15 <a href="https://www.youtube.com/watch?v=FE9Xo4fQrqU">(69) Supplements and Hydration | Fat Loss Dieting Made Simple #5 - YouTube</a></li>
 <li> 22:10 <a href="https://www.youtube.com/watch?v=z88r8bq0S3U">(69) Supplements and Hydration - YouTube</a></li>
 <li> 22:10 <a href="https://www.youtube.com/results?search_query=renaissance+electrolytes">(69) renaissance electrolytes - YouTube</a></li>
-<li> 22:10 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 22:10 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 22:10 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 22:10 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 22:10 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 22:10 www.naak.com</li>
 <li> 22:10 www.google.com</li>
 </ul>
@@ -61028,7 +61829,7 @@ With number of accesses/minutes in parentheses
 <li> 11:39 www.google.com</li>
 <li> 11:36 <a href="https://www.youtube.com/watch?v=l_GdborsqLo">(64) Death Star Laser Kills Everybody... at Scarif - Rogue One HD - YouTube</a></li>
 <li> 11:36 <a href="https://www.youtube.com/results?search_query=death+star+firing+sequence">(64) death star firing sequence - YouTube</a></li>
-<li> 11:36 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 11:36 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 11:36 www.google.com</li>
 <li class='same'> 11:35 www.google.com</li>
 <li> 11:33 en.wiktionary.org</li>
@@ -61081,10 +61882,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:55 www.reddit.com</li>
 <li class='same'> 09:54 www.reddit.com</li>
 <li class='same'> 09:53 www.reddit.com</li>
-<li> 09:43 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 09:43 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 09:43 web.whatsapp.com</li>
 <li> 09:43 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 09:43 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 09:43 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 09:28 fdc.nal.usda.gov</li>
 <li> 09:27 www.google.com</li>
 <li> 09:27 www.tesco.com</li>
@@ -61140,7 +61941,7 @@ With number of accesses/minutes in parentheses
 <li> 20:55 www.reddit.com</li>
 <li> 20:55 www.google.com</li>
 <li> 20:55 <a href="https://www.youtube.com/results?search_query=libby+notes+">(64) libby notes - YouTube</a></li>
-<li> 20:55 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 20:55 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 20:55 libbyapp.com</li>
 <li> 20:52 www.facebook.com</li>
 <li class='same'> 20:50 www.facebook.com</li>
@@ -61213,7 +62014,7 @@ With number of accesses/minutes in parentheses
 <li> 14:54 <a href="https://www.youtube.com/results?search_query=renaissance+protein+vegan">(62) renaissance protein vegan - YouTube</a></li>
 <li> 14:47 <a href="https://www.youtube.com/watch?v=nkIKesKHIIE">(62) The Protein Lie: Why You Don't Need As Much As You Think - YouTube</a></li>
 <li> 14:47 <a href="https://www.youtube.com/results?search_query=renaissance+protein">(62) renaissance protein - YouTube</a></li>
-<li> 14:47 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 14:47 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 14:33 www.facebook.com</li>
 <li class='same'> 14:32 www.facebook.com</li>
 <li class='same'> 14:31 www.facebook.com</li>
@@ -61251,7 +62052,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:23 www.google.com</li>
 <li> 10:23 <a href="https://www.youtube.com/results?search_query=tau+mass+protons">(61) tau mass protons - YouTube</a></li>
 <li> 10:23 <a href="https://www.youtube.com/results?search_query=tau+mass">(61) tau mass - YouTube</a></li>
-<li> 10:22 <a href="https://www.youtube.com/">(14) YouTube</a></li>
+<li> 10:22 <a href="https://www.youtube.com/">(24) YouTube</a></li>
 <li> 10:20 warhammer40k.fandom.com</li>
 <li class='same'> 10:18 warhammer40k.fandom.com</li>
 <li> 10:18 www.google.com</li>
@@ -71290,6 +72091,7 @@ With number of accesses/minutes in parentheses
 <li> 15:24 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
 <li> 15:22 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
 <li> 15:22 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 15:21 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
 <li> 15:20 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
 <li> 15:20 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=history">Information security: Revision history - Wikipedia</a></li>
 <li> 15:20 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
@@ -71408,6 +72210,13 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:18 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
 <li> 07:18 <a href="https://en.wikipedia.org/wiki/Information_security#Threats">Information security - Wikipedia</a></li>
 <li> 07:17 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=3">Editing Information security (section) - Wikipedia</a></li>
+<li> 07:17 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 07:16 <a href="https://en.wikipedia.org/wiki/Black_hat_hacker">Black hat (computer security) - Wikipedia</a></li>
+<li> 07:16 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
+<li> 07:16 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
+<li> 07:15 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 07:15 <a href="https://en.wikipedia.org/wiki/Black_hat_hacker">Black hat (computer security) - Wikipedia</a></li>
+<li> 07:15 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 07:14 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
 <li> 07:14 <a href="https://en.wikipedia.org/wiki/Information_security?venotify=saved">Information security - Wikipedia</a></li>
 <li> 07:14 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit">Information security - Wikipedia</a></li>
@@ -71495,6 +72304,8 @@ With number of accesses/minutes in parentheses
 <li> 14:20 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 14:07 outlook.office365.com</li>
 <li class='same'> 14:05 outlook.office365.com</li>
+<li class='same'> 13:59 outlook.office365.com</li>
+<li class='same'> 13:51 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -71506,10 +72317,15 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:32 outlook.office365.com</li>
 <li> 12:16 www.linkedin.com</li>
 <li> 12:02 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 12:01 outlook.office365.com</li>
 <li> 12:00 forms.office.com</li>
+<li> 12:00 outlook.office365.com</li>
 <li> 11:59 www.google.com</li>
-<li> 11:34 outlook.office365.com</li>
+<li> 11:45 outlook.office365.com</li>
+<li class='same'> 11:39 outlook.office365.com</li>
+<li class='same'> 11:34 outlook.office365.com</li>
 <li class='same'> 11:33 outlook.office365.com</li>
+<li class='same'> 11:30 outlook.office365.com</li>
 <li class='same'> 11:28 outlook.office365.com</li>
 <li> 11:20 github.com</li>
 <li> 11:17 docs.google.com</li>
@@ -71517,7 +72333,8 @@ With number of accesses/minutes in parentheses
 <li> 11:08 docs.google.com</li>
 <li> 11:03 www.amazon.co.uk</li>
 <li> 11:02 whitewaterwriters.com</li>
-<li class='same'> 10:56 whitewaterwriters.com</li>
+<li> 11:01 outlook.office365.com</li>
+<li> 10:56 whitewaterwriters.com</li>
 </ul>
 
 <br>
@@ -71891,7 +72708,8 @@ With number of accesses/minutes in parentheses
 <li> 18:21 <a href="https://en.wikipedia.org/wiki/Information_security#Threats">Information security - Wikipedia</a></li>
 <li> 18:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=3">Editing Information security (section) - Wikipedia</a></li>
 <li> 18:18 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
-<li class='same'> 18:01 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
+<li> 18:09 <a href="https://en.wikipedia.org/wiki/Exploit_(computer_security)">Exploit (computer security) - Wikipedia</a></li>
+<li> 18:01 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
 <li> 17:58 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=history">Information security: Revision history - Wikipedia</a></li>
 <li> 17:57 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit">Information security - Wikipedia</a></li>
 <li> 17:57 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=1">Editing Information security (section) - Wikipedia</a></li>
@@ -72008,8 +72826,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:14 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-<li class='same'> 16:12 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<ul><li> 16:14 <a href="https://en.wikipedia.org/wiki/List_of_security_hacking_incidents">List of security hacking incidents - Wikipedia</a></li>
+<li> 16:14 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 16:12 <a href="https://en.wikipedia.org/wiki/List_of_security_hacking_incidents">List of security hacking incidents - Wikipedia</a></li>
+<li> 16:12 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
 <li> 15:49 rhul-my.sharepoint.com</li>
 <li> 15:40 mail.google.com</li>
 <li> 15:36 calendar.google.com</li>
@@ -72377,6 +73197,7 @@ With number of accesses/minutes in parentheses
 <li> 10:47 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=history">Information security: Revision history - Wikipedia</a></li>
 <li> 10:45 xtools.wmcloud.org</li>
 <li> 10:44 <a href="https://en.wikipedia.org/wiki/Wikipedia:Splitting">Wikipedia:Splitting - Wikipedia</a></li>
+<li> 10:44 <a href="https://en.wikipedia.org/wiki/Wikipedia:Summary_style">Wikipedia:Summary style - Wikipedia</a></li>
 <li> 10:42 <a href="https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework">NIST Cybersecurity Framework - Wikipedia</a></li>
 <li> 10:41 <a href="https://en.wikipedia.org/wiki/ISO/IEC_27001">ISO/IEC 27001 - Wikipedia</a></li>
 <li> 10:37 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
@@ -72401,6 +73222,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 07:15 rhul-my.sharepoint.com</li>
+<li> 07:10 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/wiki/Black_hat_hacker">Black hat (computer security) - Wikipedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 07:06 www.reddit.com</li>
 <li> 06:58 <a href="https://xkcd.com/simplewriter/"></a></li>
 <li> 06:57 docs.google.com</li>
@@ -72956,6 +73780,7 @@ With number of accesses/minutes in parentheses
 <li> 06:54 www.natesilver.net</li>
 <li> 06:31 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 06:23 ico.org.uk</li>
+<li> 06:22 <a href="https://en.wikipedia.org/wiki/2024_National_Public_Data_breach">2024 National Public Data breach - Wikipedia</a></li>
 <li> 06:19 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
 <li> 06:18 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
 <li> 06:17 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
@@ -73019,6 +73844,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:31 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 14:26 <a href="https://en.wikipedia.org/wiki/Wikipedia:Summary_style">Wikipedia:Summary style - Wikipedia</a></li>
 <li> 14:14 scholar.google.co.uk</li>
 <li> 14:14 www.google.com</li>
 <li> 13:52 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
@@ -74008,7 +74834,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:30 www.linkedin.com</li>
+<ul><li> 11:46 mail.google.com</li>
+<li> 11:30 www.linkedin.com</li>
 <li> 11:29 outlook.office.com</li>
 <li> 11:24 rhul-my.sharepoint.com</li>
 <li> 11:11 libbyapp.com</li>
@@ -74995,6 +75822,7 @@ With number of accesses/minutes in parentheses
 <li> 10:54 kdp.amazon.com</li>
 <li class='same'> 10:53 kdp.amazon.com</li>
 <li> 10:53 kdpreports.amazon.com</li>
+<li> 10:53 mail.google.com</li>
 <li> 10:41 www.google.com</li>
 <li> 10:28 feedly.com</li>
 <li class='same'> 10:27 feedly.com</li>
@@ -75540,8 +76368,10 @@ With number of accesses/minutes in parentheses
 <li> 07:32 x.com</li>
 <li> 07:29 www.facebook.com</li>
 <li> 07:28 calendar.google.com</li>
+<li> 07:23 mail.google.com</li>
 <li> 07:11 forum.artofmemory.com</li>
 <li class='same'> 07:09 forum.artofmemory.com</li>
+<li> 07:09 mail.google.com</li>
 </ul>
 
 <H3>Tuesday, 06/08/24</H3>
@@ -75943,6 +76773,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:53 jobs.royalholloway.ac.uk</li>
 <li> 15:51 outlook.office.com</li>
 <li class='same'> 15:41 outlook.office.com</li>
+<li> 15:34 downforeveryoneorjustme.com</li>
 <li> 15:34 www.royalholloway.ac.uk</li>
 <li class='same'> 15:26 www.royalholloway.ac.uk</li>
 <li> 15:18 www.advance-he.ac.uk</li>
@@ -78849,6 +79680,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:03 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 07:03 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach">Talk:Data breach - Wikipedia</a></li>
 <li> 07:01 forum.artofmemory.com</li>
 </ul>
 
@@ -79035,11 +79867,8 @@ With number of accesses/minutes in parentheses
 <li> 08:21 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 08:21 iterm2.com</li>
 <li> 08:19 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 07:45 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
+<li> 08:01 <a href="https://en.wikipedia.org/wiki/Template:GATable">Template:GATable - Wikipedia</a></li>
+<li> 07:45 <a href="https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League">Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 07:40 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo!_data_breaches/GA2">Talk:Yahoo data breaches/GA2 - Wikipedia</a></li>
 <li> 07:40 <a href="https://en.wikipedia.org/wiki/Talk:Zack_Snyder%27s_Justice_League">Talk:Zack Snyder's Justice League - Wikipedia</a></li>
 <li> 07:13 twitter.com</li>
@@ -79567,8 +80396,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:41 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
-<li class='same'> 20:39 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<ul><li> 20:45 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit">Data breach - Wikipedia</a></li>
+<li class='same'> 20:41 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit">Data breach - Wikipedia</a></li>
+<li> 20:41 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 20:40 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit">Data breach - Wikipedia</a></li>
+<li> 20:39 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
 <li> 20:38 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
 </ul>
 
@@ -79840,8 +80672,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:39 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-<li class='same'> 16:38 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<ul><li> 16:40 <a href="https://en.wikipedia.org/w/index.php?title=List_of_data_breaches&action=edit">Editing List of data breaches - Wikipedia</a></li>
+<li> 16:39 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 16:39 <a href="https://en.wikipedia.org/w/index.php?title=List_of_data_breaches&action=edit">Editing List of data breaches - Wikipedia</a></li>
+<li> 16:38 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
 <li> 16:20 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lead_section">Wikipedia:Manual of Style/Lead section - Wikipedia</a></li>
 </ul>
 
@@ -80089,7 +80923,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 05:49 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<ul><li> 05:52 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=history">Data breach: Revision history - Wikipedia</a></li>
+<li class='same'> 05:49 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=history">Data breach: Revision history - Wikipedia</a></li>
+<li> 05:49 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
 <li> 05:48 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
 <li> 05:47 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_criteria">Wikipedia:Good article criteria - Wikipedia</a></li>
 <li> 05:44 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
