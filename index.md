@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4149)</li>
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3990)</li>
-<li>www.google.com (3919)</li>
+<li>www.google.com (3920)</li>
 <li>outlook.office365.com (3856)</li>
 <li>docs.google.com (2626)</li>
 <li>duckduckgo.com (2383)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:17 read.amazon.com</li>
+<ul><li> 11:44 www.torproject.org</li>
+<li> 11:44 dist.torproject.org</li>
+<li> 11:44 www.torproject.org</li>
+<li> 11:44 www.google.com</li>
+<li> 11:39 sellercentral.amazon.co.uk</li>
+<li> 11:39 x.com</li>
+<li class='same'> 11:38 x.com</li>
+<li> 11:38 twitter.com</li>
+<li> 11:38 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:38 www.theregister.com</li>
+<li> 11:37 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:37 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 11:37 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 11:37 <a href="https://en.wikipedia.org/"></a></li>
+<li> 11:18 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:17 read.amazon.com</li>
 <li> 11:17 www.google.com</li>
 <li> 11:08 <a href="https://en.wikipedia.org/wiki/Janet_Dibley">Janet Dibley - Wikipedia</a></li>
 <li> 11:08 <a href="https://en.wikipedia.org/wiki/Tyler_Butterworth">Tyler Butterworth - Wikipedia</a></li>
