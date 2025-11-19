@@ -71,13 +71,13 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4149)</li>
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3992)</li>
-<li>www.google.com (3920)</li>
+<li>www.google.com (3921)</li>
 <li>outlook.office365.com (3873)</li>
 <li>docs.google.com (2628)</li>
 <li>duckduckgo.com (2388)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
-<li>chatgpt.com (1371)</li>
+<li>chatgpt.com (1373)</li>
 <li>www.linkedin.com (1293)</li>
 <li>login.microsoftonline.com (1131)</li>
 <li>www.amazon.co.uk (1028)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (629)</li>
 <li>herts.instructure.com (614)</li>
 <li>web.whatsapp.com (613)</li>
-<li>chat.openai.com (598)</li>
+<li>chat.openai.com (599)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
 <li>forms.office.com (514)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:55 drive.google.com</li>
+<ul><li> 16:10 mouse-practice.com</li>
+<li> 16:10 www.google.com</li>
+<li> 16:04 chatgpt.com</li>
+<li class='same'> 16:02 chatgpt.com</li>
+<li> 16:02 chat.openai.com</li>
+<li> 15:55 drive.google.com</li>
 <li> 15:54 docs.google.com</li>
 <li> 15:53 chatgpt.com</li>
 <li> 15:52 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
