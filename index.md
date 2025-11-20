@@ -72,14 +72,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3992)</li>
 <li>www.google.com (3924)</li>
-<li>outlook.office365.com (3892)</li>
+<li>outlook.office365.com (3899)</li>
 <li>docs.google.com (2628)</li>
-<li>duckduckgo.com (2395)</li>
+<li>duckduckgo.com (2397)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1454)</li>
-<li>chatgpt.com (1383)</li>
-<li>www.linkedin.com (1295)</li>
-<li>login.microsoftonline.com (1125)</li>
+<li>chatgpt.com (1385)</li>
+<li>www.linkedin.com (1298)</li>
+<li>login.microsoftonline.com (1126)</li>
 <li>www.amazon.co.uk (1034)</li>
 <li>calendar.google.com (993)</li>
 <li>moodle.royalholloway.ac.uk (867)</li>
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:08 outlook.office365.com</li>
+<ul><li> 12:58 localhost:3000</li>
+<li class='same'> 12:56 localhost:3000</li>
+<li> 12:54 chatgpt.com</li>
+<li class='same'> 12:53 chatgpt.com</li>
+<li> 12:49 outlook.office365.com</li>
+<li> 12:45 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 12:45 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 12:45 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 12:45 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:45 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:45 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:45 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 12:44 <a href="https://en.wikipedia.org/w/index.php?title=Canon_EOS&diff=1323177677&oldid=1323002430">Canon EOS: Difference between revisions - Wikipedia</a></li>
+<li> 12:44 <a href="https://en.wikipedia.org/w/index.php?title=Canon_EOS&action=history">Canon EOS: Revision history - Wikipedia</a></li>
+<li> 12:44 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 12:44 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
+<li> 12:44 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 12:44 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 12:44 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 12:44 <a href="https://en.wikipedia.org/wiki/Solresol">Solresol - Wikipedia</a></li>
+<li> 12:43 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:43 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:43 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:43 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:42 www.linkedin.com</li>
+<li class='same'> 12:33 www.linkedin.com</li>
+<li> 12:31 outlook.office365.com</li>
+<li> 12:31 germanisweird.com</li>
+<li> 12:31 duckduckgo.com</li>
+<li class='same'> 12:30 duckduckgo.com</li>
+<li> 12:28 outlook.office365.com</li>
+<li class='same'> 12:27 outlook.office365.com</li>
+<li class='same'> 12:26 outlook.office365.com</li>
+<li> 12:24 m365.cloud.microsoft</li>
+<li> 12:24 login.microsoftonline.com</li>
+<li> 12:23 www.hr.herts.ac.uk</li>
+<li> 12:23 outlook.office365.com</li>
+<li> 12:15 www.linkedin.com</li>
+<li> 12:14 outlook.office365.com</li>
+<li class='same'> 12:08 outlook.office365.com</li>
 <li class='same'> 12:07 outlook.office365.com</li>
 <li class='same'> 11:57 outlook.office365.com</li>
 <li> 11:57 rhul-my.sharepoint.com</li>
