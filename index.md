@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:58 localhost:3000</li>
+<ul><li> 13:14 <a href="https://en.wikipedia.org/wiki/Nuremberg_trials#CITEREFSayapin2014">Nuremberg trials - Wikipedia</a></li>
+<li> 13:13 <a href="https://en.wikipedia.org/wiki/Nuremberg_trials">Nuremberg trials - Wikipedia</a></li>
+<li> 13:13 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:58 localhost:3000</li>
 <li class='same'> 12:56 localhost:3000</li>
 <li> 12:54 chatgpt.com</li>
 <li class='same'> 12:53 chatgpt.com</li>
