@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3992)</li>
 <li>www.google.com (3924)</li>
-<li>outlook.office365.com (3900)</li>
+<li>outlook.office365.com (3901)</li>
 <li>docs.google.com (2628)</li>
 <li>duckduckgo.com (2399)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1454)</li>
-<li>chatgpt.com (1393)</li>
-<li>www.linkedin.com (1302)</li>
+<li>chatgpt.com (1394)</li>
+<li>www.linkedin.com (1306)</li>
 <li>login.microsoftonline.com (1127)</li>
 <li>www.amazon.co.uk (1034)</li>
 <li>calendar.google.com (993)</li>
@@ -91,9 +91,9 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (614)</li>
 <li>chat.openai.com (603)</li>
 <li>github.com (552)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (540)</li>
 <li>forms.office.com (511)</li>
-<li>feedly.com (471)</li>
+<li>feedly.com (473)</li>
 <li>drive.google.com (431)</li>
 <li>rhul.sharepoint.com (364)</li>
 <li>fritz.box (352)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:10 outlook.office365.com</li>
+<ul><li> 16:30 www.linkedin.com</li>
+<li class='same'> 16:25 www.linkedin.com</li>
+<li class='same'> 16:24 www.linkedin.com</li>
+<li> 16:24 feedly.com</li>
+<li> 16:24 www.linkedin.com</li>
+<li> 16:24 feedly.com</li>
+<li> 16:23 <a href="https://www.theguardian.com/education/2025/nov/20/university-of-staffordshire-course-taught-in-large-part-by-ai-artificial-intelligence">‘We could have asked ChatGPT’: students fight back over course taught by AI | Staffordshire University | The Guardian</a></li>
+<li> 16:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:21 outlook.office365.com</li>
+<li> 16:10 chatgpt.com</li>
+<li> 16:10 outlook.office365.com</li>
 <li> 16:08 myview.rhul.zellis.com</li>
 <li> 16:08 login.microsoftonline.com</li>
 <li> 16:08 myview.rhul.zellis.com</li>
