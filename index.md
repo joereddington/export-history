@@ -71,19 +71,19 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4149)</li>
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3992)</li>
-<li>www.google.com (3922)</li>
-<li>outlook.office365.com (3879)</li>
+<li>www.google.com (3924)</li>
+<li>outlook.office365.com (3878)</li>
 <li>docs.google.com (2628)</li>
 <li>duckduckgo.com (2391)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1453)</li>
 <li>chatgpt.com (1382)</li>
 <li>www.linkedin.com (1293)</li>
-<li>login.microsoftonline.com (1131)</li>
-<li>www.amazon.co.uk (1028)</li>
+<li>login.microsoftonline.com (1118)</li>
+<li>www.amazon.co.uk (1033)</li>
 <li>calendar.google.com (993)</li>
-<li>moodle.royalholloway.ac.uk (869)</li>
-<li>rhul-my.sharepoint.com (815)</li>
+<li>moodle.royalholloway.ac.uk (867)</li>
+<li>rhul-my.sharepoint.com (814)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (629)</li>
@@ -92,19 +92,30 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (600)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
-<li>forms.office.com (514)</li>
-<li>feedly.com (465)</li>
-<li>drive.google.com (430)</li>
-<li>rhul.sharepoint.com (365)</li>
+<li>forms.office.com (511)</li>
+<li>feedly.com (469)</li>
+<li>drive.google.com (431)</li>
+<li>rhul.sharepoint.com (364)</li>
 <li>fritz.box (352)</li>
-<li>adfs.herts.ac.uk (330)</li>
+<li>adfs.herts.ac.uk (328)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Thursday, 20/11/25</H3>
+
+<br>
+
+<ul><li> 06:26 www.google.com</li>
+</ul>
+
 <H3>Wednesday, 19/11/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -1120,7 +1131,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:39 www.google.com</li>
+<ul><li> 15:07 www.google.com</li>
+<li> 15:07 www.altontowers.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:39 www.altontowers.com</li>
+<li> 07:39 www.google.com</li>
 <li> 07:39 www.parkrun.org.uk</li>
 </ul>
 
@@ -18271,14 +18289,11 @@ With number of accesses/minutes in parentheses
 <li> 06:50 forms.office.com</li>
 <li> 06:50 login.microsoftonline.com</li>
 <li> 06:50 forms.office.com</li>
-<li> 06:50 login.microsoftonline.com</li>
-<li> 06:50 forms.office.com</li>
 <li> 06:50 rhul-my.sharepoint.com</li>
 <li> 06:50 moodle.royalholloway.ac.uk</li>
 <li> 06:49 www.microsoft.com</li>
 <li> 06:49 forms.office.com</li>
 <li> 06:49 moodle.royalholloway.ac.uk</li>
-<li> 06:49 login.microsoftonline.com</li>
 <li> 06:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:49 <a href="https://www.theguardian.com/">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a></li>
 <li> 06:49 login.microsoftonline.com</li>
@@ -18402,8 +18417,7 @@ With number of accesses/minutes in parentheses
 <li> 07:43 login.microsoftonline.com</li>
 <li> 07:43 eu-west.azureauth.duosecurity.com</li>
 <li> 07:43 api-b6327e78.duosecurity.com</li>
-<li> 07:43 adfs.herts.ac.uk</li>
-<li> 07:40 api-b6327e78.duosecurity.com</li>
+<li class='same'> 07:40 api-b6327e78.duosecurity.com</li>
 <li> 07:40 adfs.herts.ac.uk</li>
 <li> 07:40 calendar.google.com</li>
 <li> 07:40 outlook.office365.com</li>
@@ -18433,8 +18447,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:20 www.reddit.com</li>
 <li> 06:20 moodle.royalholloway.ac.uk</li>
 <li> 06:20 login.microsoftonline.com</li>
-<li> 06:20 moodle.royalholloway.ac.uk</li>
-<li> 06:20 login.microsoftonline.com</li>
 <li> 06:20 forms.office.com</li>
 <li> 06:20 login.microsoftonline.com</li>
 <li> 06:20 forms.office.com</li>
@@ -18458,7 +18470,6 @@ With number of accesses/minutes in parentheses
 <li> 20:38 www.linkedin.com</li>
 <li class='same'> 20:37 www.linkedin.com</li>
 <li> 20:36 outlook.office365.com</li>
-<li> 20:36 login.microsoftonline.com</li>
 <li> 20:36 device.login.microsoftonline.com</li>
 <li> 20:36 outlook.office365.com</li>
 </ul>
@@ -18466,7 +18477,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:38 forms.office.com</li>
-<li> 18:38 login.microsoftonline.com</li>
 <li> 18:37 www.microsoft.com</li>
 <li> 18:37 forms.office.com</li>
 <li> 18:37 login.microsoftonline.com</li>
@@ -18474,7 +18484,6 @@ With number of accesses/minutes in parentheses
 <li> 18:37 moodle.royalholloway.ac.uk</li>
 <li> 18:36 outlook.office365.com</li>
 <li> 18:36 device.login.microsoftonline.com</li>
-<li> 18:36 login.microsoftonline.com</li>
 <li> 18:36 outlook.office365.com</li>
 <li> 18:26 moodle.royalholloway.ac.uk</li>
 <li> 18:25 outlook.office365.com</li>
@@ -18491,13 +18500,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:29 outlook.office365.com</li>
 <li class='same'> 17:28 outlook.office365.com</li>
 <li> 17:28 device.login.microsoftonline.com</li>
-<li> 17:28 login.microsoftonline.com</li>
 <li> 17:28 outlook.office365.com</li>
 <li> 17:27 forms.office.com</li>
 <li> 17:27 login.microsoftonline.com</li>
 <li> 17:27 forms.office.com</li>
 <li> 17:27 device.login.microsoftonline.com</li>
-<li> 17:27 login.microsoftonline.com</li>
 <li> 17:27 forms.office.com</li>
 <li> 17:27 moodle.royalholloway.ac.uk</li>
 <li class='same'> 17:26 moodle.royalholloway.ac.uk</li>
@@ -18524,8 +18531,6 @@ With number of accesses/minutes in parentheses
 <li> 14:41 outlook.office365.com</li>
 <li> 14:41 www.microsoft.com</li>
 <li> 14:41 forms.office.com</li>
-<li> 14:40 outlook.office365.com</li>
-<li> 14:40 login.microsoftonline.com</li>
 <li> 14:40 outlook.office365.com</li>
 </ul>
 
@@ -18583,14 +18588,9 @@ With number of accesses/minutes in parentheses
 <li> 11:41 eu-west.azureauth.duosecurity.com</li>
 <li> 11:41 api-b6327e78.duosecurity.com</li>
 <li> 11:41 adfs.herts.ac.uk</li>
-<li> 11:41 api-b6327e78.duosecurity.com</li>
-<li> 11:41 adfs.herts.ac.uk</li>
 <li> 11:38 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/07/former-superman-actor-dean-cain-reveals-hes-becoming-an-ice-agent-to-support-trumps-mass-deportation-agenda">Former Superman actor Dean Cain reveals he’s becoming an Ice agent to support Trump’s mass deportation agenda | Television | The Guardian</a></li>
 <li> 11:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 11:38 <a href="https://www.theguardian.com/">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a></li>
-<li> 11:38 forms.office.com</li>
-<li> 11:38 login.microsoftonline.com</li>
-<li> 11:38 rhul-my.sharepoint.com</li>
 <li> 11:38 forms.office.com</li>
 <li class='same'> 11:37 forms.office.com</li>
 <li class='same'> 11:36 forms.office.com</li>
@@ -18641,7 +18641,6 @@ With number of accesses/minutes in parentheses
 <li> 10:45 moodle.royalholloway.ac.uk</li>
 <li> 10:45 rhul.sharepoint.com</li>
 <li class='same'> 10:44 rhul.sharepoint.com</li>
-<li class='same'> 10:43 rhul.sharepoint.com</li>
 <li> 10:43 rhul-my.sharepoint.com</li>
 <li> 10:42 rhul.sharepoint.com</li>
 <li> 10:42 rhul-my.sharepoint.com</li>
@@ -18656,13 +18655,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:29 moodle.royalholloway.ac.uk</li>
 <li> 10:29 login.microsoftonline.com</li>
 <li> 10:29 moodle.royalholloway.ac.uk</li>
-<li> 10:29 login.microsoftonline.com</li>
-<li> 10:29 moodle.royalholloway.ac.uk</li>
 <li> 10:27 forms.office.com</li>
 <li> 10:19 chatgpt.com</li>
 <li class='same'> 10:18 chatgpt.com</li>
-<li> 10:16 forms.office.com</li>
-<li> 10:16 login.microsoftonline.com</li>
 <li> 10:16 forms.office.com</li>
 <li> 10:16 login.microsoftonline.com</li>
 <li> 10:16 forms.office.com</li>
@@ -18879,8 +18874,7 @@ With number of accesses/minutes in parentheses
 <li> 09:43 university.open.ac.uk</li>
 <li> 09:43 jobs.open.ac.uk</li>
 <li> 09:43 outlook.office365.com</li>
-<li> 09:42 login.microsoftonline.com</li>
-<li> 09:42 outlook.office365.com</li>
+<li class='same'> 09:42 outlook.office365.com</li>
 <li> 09:42 mail.google.com</li>
 <li> 09:42 gmail.com</li>
 <li> 09:42 www.reddit.com</li>
@@ -78474,7 +78468,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:00 www.ebay.co.uk</li>
-<li> 10:52 127.0.0.1:4000</li>
+<li> 10:59 127.0.0.1:4000</li>
+<li class='same'> 10:52 127.0.0.1:4000</li>
 </ul>
 
 <br>
@@ -79678,7 +79673,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:31 docs.google.com</li>
+<ul><li> 21:32 feedly.com</li>
+<li> 21:31 docs.google.com</li>
 <li class='same'> 21:30 docs.google.com</li>
 <li> 21:28 www.camerajungle.co.uk</li>
 <li> 21:23 docs.google.com</li>
@@ -81911,6 +81907,8 @@ With number of accesses/minutes in parentheses
 <li> 06:44 github.com</li>
 <li> 06:41 formspree.io</li>
 <li> 06:29 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 06:28 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 06:27 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 06:20 gitlab.cim.rhul.ac.uk</li>
 <li> 06:18 <a href="https://www.bbc.co.uk/sport">BBC Sport - Scores, Fixtures, News - Live Sport</a></li>
 </ul>
@@ -82206,6 +82204,7 @@ With number of accesses/minutes in parentheses
 <li> 10:45 mail.google.com</li>
 <li> 10:36 <a href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed">Wikipedia:Citation needed - Wikipedia</a></li>
 <li> 10:34 equalitytime.co.uk</li>
+<li> 10:18 <a href="https://en.wikipedia.org/wiki/Dunbar%27s_number">Dunbar's number - Wikipedia</a></li>
 <li> 10:08 www.eff.org</li>
 </ul>
 
@@ -84066,6 +84065,7 @@ With number of accesses/minutes in parentheses
 <li> 11:03 www.amazon.co.uk</li>
 <li class='same'> 10:42 www.amazon.co.uk</li>
 <li class='same'> 10:40 www.amazon.co.uk</li>
+<li class='same'> 10:39 www.amazon.co.uk</li>
 <li class='same'> 10:38 www.amazon.co.uk</li>
 </ul>
 
@@ -84962,11 +84962,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:49 docs.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:09 github.com</li>
+<li> 11:21 feedly.com</li>
+<li> 11:09 github.com</li>
 <li> 11:01 docs.google.com</li>
 <li class='same'> 11:00 docs.google.com</li>
 <li> 10:49 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
@@ -86378,6 +86375,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:27 equalitytime.github.io</li>
 <li class='same'> 07:19 equalitytime.github.io</li>
 <li> 07:09 theopenvoicefactory.org</li>
+<li> 06:56 sellercentral.amazon.co.uk</li>
+<li class='same'> 06:55 sellercentral.amazon.co.uk</li>
 </ul>
 
 <H3>Thursday, 05/10/23</H3>
@@ -86606,7 +86605,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:55 www.amazon.co.uk</li>
+<ul><li> 09:56 www.amazon.co.uk</li>
+<li class='same'> 09:55 www.amazon.co.uk</li>
 </ul>
 
 <br>
@@ -86995,6 +86995,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:47 www.tightrope.co.uk</li>
 <li> 13:43 ads.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:36 drive.google.com</li>
 </ul>
 
 <br>
@@ -88693,6 +88698,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 07:35 feedly.com</li>
+</ul>
+
+<br>
+
 <ul><li> 06:50 www.thetrainline.com</li>
 <li class='same'> 06:46 www.thetrainline.com</li>
 <li class='same'> 06:42 www.thetrainline.com</li>
@@ -88942,6 +88952,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 05:56 www.paypal.com</li>
 <li> 05:55 www.explainxkcd.com</li>
+<li> 05:51 feedly.com</li>
 </ul>
 
 <H3>Saturday, 17/06/23</H3>
@@ -89625,6 +89636,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:07 www.lutongymnastics.co.uk</li>
+<li> 07:56 www.amazon.co.uk</li>
 </ul>
 
 <H3>Saturday, 20/05/23</H3>
@@ -90990,7 +91002,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 20:54 www.bricklink.com</li>
 <li> 20:44 forum.artofmemory.com</li>
-<li> 20:38 www.amazon.co.uk</li>
+<li> 20:40 www.amazon.co.uk</li>
+<li class='same'> 20:39 www.amazon.co.uk</li>
+<li class='same'> 20:38 www.amazon.co.uk</li>
 </ul>
 
 <H3>Monday, 19/12/22</H3>
