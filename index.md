@@ -74,11 +74,11 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3924)</li>
 <li>outlook.office365.com (3899)</li>
 <li>docs.google.com (2628)</li>
-<li>duckduckgo.com (2397)</li>
+<li>duckduckgo.com (2399)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1454)</li>
-<li>chatgpt.com (1385)</li>
-<li>www.linkedin.com (1298)</li>
+<li>chatgpt.com (1387)</li>
+<li>www.linkedin.com (1300)</li>
 <li>login.microsoftonline.com (1126)</li>
 <li>www.amazon.co.uk (1034)</li>
 <li>calendar.google.com (993)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (629)</li>
-<li>web.whatsapp.com (614)</li>
+<li>web.whatsapp.com (615)</li>
 <li>herts.instructure.com (614)</li>
-<li>chat.openai.com (601)</li>
+<li>chat.openai.com (602)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
 <li>forms.office.com (511)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:14 <a href="https://en.wikipedia.org/wiki/Nuremberg_trials#CITEREFSayapin2014">Nuremberg trials - Wikipedia</a></li>
+<ul><li> 14:45 <a href="https://en.wikipedia.org/wiki/Data_breach#CITEREFLesemann2010">Data breach - Wikipedia</a></li>
+<li> 14:45 chatgpt.com</li>
+<li class='same'> 14:44 chatgpt.com</li>
+<li> 14:44 chat.openai.com</li>
+<li> 14:44 privacyrights.org</li>
+<li> 14:44 duckduckgo.com</li>
+<li> 14:43 heinonline.org</li>
+<li class='same'> 14:42 heinonline.org</li>
+<li> 14:42 scholar.google.com</li>
+<li> 14:42 heinonline.org</li>
+<li> 14:42 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 14:41 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach/GA1">Talk:Data breach/GA1 - Wikipedia</a></li>
+<li> 14:41 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach">Talk:Data breach - Wikipedia</a></li>
+<li> 14:41 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 14:36 duckduckgo.com</li>
+<li> 14:31 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 14:30 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 14:29 <a href="https://en.wikipedia.org/wiki/Anthem_medical_data_breach">Anthem medical data breach - Wikipedia</a></li>
+<li> 14:28 <a href="https://en.wikipedia.org/wiki/Medical_data_breach#Black_market_for_health_data">Medical data breach - Wikipedia</a></li>
+<li> 14:28 <a href="https://en.wikipedia.org/w/index.php?title=Medical_data_breach&action=edit&section=1">Editing Medical data breach - Wikipedia</a></li>
+<li> 14:27 royaljay.com</li>
+<li> 14:26 www.nytimes.com</li>
+<li> 14:25 pmc.ncbi.nlm.nih.gov</li>
+<li> 14:25 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/wiki/Talk:Medical_data_breach#c-Bluerasberry-20251116002900-Proposed_deletion-DoesNotExist-DiscussionToolsHack">Talk:Medical data breach - Wikipedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/wiki/Talk:Medical_data_breach">Talk:Medical data breach - Wikipedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/wiki/Talk:Medical_data_breach#c-Bluerasberry-20251116002900-Proposed_deletion">Talk:Medical data breach - Wikipedia</a></li>
+<li> 14:24 <a href="https://en.wikipedia.org/wiki/Talk:Medical_data_breach?markasread=341157342&markasreadwiki=enwiki#c-Bluerasberry-20251116002900-Proposed_deletion">Talk:Medical data breach - Wikipedia</a></li>
+<li> 14:24 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3?markasread=341375973&markasreadwiki=enwiki#c-Serebit-20251120132200-Joereddington-20251120124900">Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 14:24 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3#c-Serebit-20251120132200-Joereddington-20251120124900">Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 14:24 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:24 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:31 www.linkedin.com</li>
+<li> 13:25 web.whatsapp.com</li>
+<li> 13:14 <a href="https://en.wikipedia.org/wiki/Nuremberg_trials#CITEREFSayapin2014">Nuremberg trials - Wikipedia</a></li>
 <li> 13:13 <a href="https://en.wikipedia.org/wiki/Nuremberg_trials">Nuremberg trials - Wikipedia</a></li>
 <li> 13:13 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 12:58 localhost:3000</li>
@@ -80111,6 +80149,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:03 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
 <li> 07:03 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach">Talk:Data breach - Wikipedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach/GA1">Talk:Data breach/GA1 - Wikipedia</a></li>
 <li> 07:01 forum.artofmemory.com</li>
 </ul>
 
@@ -80213,6 +80252,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:35 dashboards.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 13:59 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach/GA1">Talk:Data breach/GA1 - Wikipedia</a></li>
 </ul>
 
 <br>
