@@ -72,18 +72,18 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3992)</li>
 <li>www.google.com (3924)</li>
-<li>outlook.office365.com (3885)</li>
+<li>outlook.office365.com (3892)</li>
 <li>docs.google.com (2628)</li>
-<li>duckduckgo.com (2394)</li>
+<li>duckduckgo.com (2395)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1454)</li>
 <li>chatgpt.com (1383)</li>
 <li>www.linkedin.com (1295)</li>
-<li>login.microsoftonline.com (1124)</li>
+<li>login.microsoftonline.com (1125)</li>
 <li>www.amazon.co.uk (1034)</li>
 <li>calendar.google.com (993)</li>
 <li>moodle.royalholloway.ac.uk (867)</li>
-<li>rhul-my.sharepoint.com (814)</li>
+<li>rhul-my.sharepoint.com (816)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (629)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:09 web.whatsapp.com</li>
+<ul><li> 12:08 outlook.office365.com</li>
+<li class='same'> 12:07 outlook.office365.com</li>
+<li class='same'> 11:57 outlook.office365.com</li>
+<li> 11:57 rhul-my.sharepoint.com</li>
+<li> 11:57 login.microsoftonline.com</li>
+<li> 11:57 rhul-my.sharepoint.com</li>
+<li> 11:57 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 11:56 gitlab.cim.rhul.ac.uk</li>
+<li> 11:56 outlook.office365.com</li>
+<li class='same'> 11:54 outlook.office365.com</li>
+<li class='same'> 11:53 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:15 outlook.office365.com</li>
+<li> 11:14 eprints.gla.ac.uk</li>
+<li> 11:13 www.gla.ac.uk</li>
+<li> 11:13 duckduckgo.com</li>
+<li> 11:13 scholar.google.com</li>
+<li class='same'> 11:12 scholar.google.com</li>
+<li> 11:09 web.whatsapp.com</li>
 <li> 11:09 scholar.google.com</li>
 <li> 11:09 www.amazon.co.uk</li>
 <li> 11:08 chatgpt.com</li>
