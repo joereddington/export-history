@@ -72,14 +72,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3992)</li>
 <li>www.google.com (3924)</li>
-<li>outlook.office365.com (3899)</li>
+<li>outlook.office365.com (3900)</li>
 <li>docs.google.com (2628)</li>
 <li>duckduckgo.com (2399)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1454)</li>
-<li>chatgpt.com (1387)</li>
-<li>www.linkedin.com (1300)</li>
-<li>login.microsoftonline.com (1126)</li>
+<li>chatgpt.com (1393)</li>
+<li>www.linkedin.com (1302)</li>
+<li>login.microsoftonline.com (1127)</li>
 <li>www.amazon.co.uk (1034)</li>
 <li>calendar.google.com (993)</li>
 <li>moodle.royalholloway.ac.uk (867)</li>
@@ -89,11 +89,11 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (629)</li>
 <li>web.whatsapp.com (615)</li>
 <li>herts.instructure.com (614)</li>
-<li>chat.openai.com (602)</li>
+<li>chat.openai.com (603)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (539)</li>
 <li>forms.office.com (511)</li>
-<li>feedly.com (469)</li>
+<li>feedly.com (471)</li>
 <li>drive.google.com (431)</li>
 <li>rhul.sharepoint.com (364)</li>
 <li>fritz.box (352)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:45 <a href="https://en.wikipedia.org/wiki/Data_breach#CITEREFLesemann2010">Data breach - Wikipedia</a></li>
+<ul><li> 16:10 outlook.office365.com</li>
+<li> 16:08 myview.rhul.zellis.com</li>
+<li> 16:08 login.microsoftonline.com</li>
+<li> 16:08 myview.rhul.zellis.com</li>
+<li> 16:07 chatgpt.com</li>
+<li> 16:07 feedly.com</li>
+<li class='same'> 16:06 feedly.com</li>
+<li> 16:06 www.linkedin.com</li>
+<li> 15:48 chatgpt.com</li>
+<li class='same'> 15:45 chatgpt.com</li>
+<li class='same'> 15:44 chatgpt.com</li>
+<li class='same'> 15:42 chatgpt.com</li>
+<li class='same'> 15:41 chatgpt.com</li>
+<li> 15:41 chat.openai.com</li>
+<li> 15:41 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:48 www.google.co.uk</li>
+<li> 14:48 <a href="https://en.wikipedia.org/wiki/Data_breach#CITEREFFowler2016">Data breach - Wikipedia</a></li>
+<li> 14:48 <a href="https://en.wikipedia.org/w/index.php?title=Daniel_J._Solove&action=history">Daniel J. Solove: Revision history - Wikipedia</a></li>
+<li> 14:48 <a href="https://en.wikipedia.org/wiki/Daniel_J._Solove">Daniel J. Solove - Wikipedia</a></li>
+<li> 14:47 <a href="https://en.wikipedia.org/wiki/Record_sealing#Cybersecurity_incidents_involving_sealed_records">Record sealing - Wikipedia</a></li>
+<li> 14:47 <a href="https://en.wikipedia.org/wiki/Data_breach#CITEREFSoloveHartzog2022">Data breach - Wikipedia</a></li>
+<li> 14:47 www.google.co.uk</li>
+<li> 14:47 <a href="https://en.wikipedia.org/wiki/Data_breach#CITEREFSoloveHartzog2022">Data breach - Wikipedia</a></li>
+<li> 14:46 heinonline.org</li>
+<li class='same'> 14:45 heinonline.org</li>
+<li> 14:45 <a href="https://en.wikipedia.org/wiki/Data_breach#CITEREFLesemann2010">Data breach - Wikipedia</a></li>
 <li> 14:45 chatgpt.com</li>
 <li class='same'> 14:44 chatgpt.com</li>
 <li> 14:44 chat.openai.com</li>
