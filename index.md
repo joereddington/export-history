@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4148)</li>
-<li>outlook.office.com (4050)</li>
+<li>outlook.office.com (4051)</li>
 <li>www.reddit.com (3998)</li>
 <li>www.google.com (3925)</li>
-<li>outlook.office365.com (3916)</li>
+<li>outlook.office365.com (3919)</li>
 <li>docs.google.com (2629)</li>
-<li>duckduckgo.com (2404)</li>
+<li>duckduckgo.com (2406)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1454)</li>
-<li>chatgpt.com (1418)</li>
+<li>chatgpt.com (1420)</li>
 <li>www.linkedin.com (1307)</li>
-<li>login.microsoftonline.com (1127)</li>
+<li>login.microsoftonline.com (1133)</li>
 <li>www.amazon.co.uk (1033)</li>
 <li>calendar.google.com (994)</li>
 <li>moodle.royalholloway.ac.uk (869)</li>
@@ -93,9 +93,9 @@ With number of accesses/minutes in parentheses
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (541)</li>
 <li>forms.office.com (511)</li>
-<li>feedly.com (475)</li>
+<li>feedly.com (478)</li>
 <li>drive.google.com (431)</li>
-<li>rhul.sharepoint.com (364)</li>
+<li>rhul.sharepoint.com (365)</li>
 <li>fritz.box (352)</li>
 <li>adfs.herts.ac.uk (327)</li>
 
@@ -108,7 +108,56 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:21 chatgpt.com</li>
+<ul><li> 18:10 rhul.sharepoint.com</li>
+<li> 18:10 login.microsoftonline.com</li>
+<li> 18:01 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 18:00 www.danielsolove.com</li>
+<li> 18:00 duckduckgo.com</li>
+<li> 18:00 <a href="https://en.wikipedia.org/wiki/Daniel_J._Solove">Daniel J. Solove - Wikipedia</a></li>
+<li> 18:00 <a href="https://en.wikipedia.org/w/index.php?title=Daniel_J._Solove&diff=1180774543&oldid=1174197065">Daniel J. Solove: Difference between revisions - Wikipedia</a></li>
+<li> 17:59 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Lmturrecha">User contributions for Lmturrecha - Wikipedia</a></li>
+<li> 17:59 <a href="https://en.wikipedia.org/wiki/User_talk:Lmturrecha">User talk:Lmturrecha - Wikipedia</a></li>
+<li> 17:59 <a href="https://en.wikipedia.org/w/index.php?title=Daniel_J._Solove&action=history&offset=&limit=500">Daniel J. Solove: Revision history - Wikipedia</a></li>
+<li> 17:59 <a href="https://en.wikipedia.org/w/index.php?title=Daniel_J._Solove&action=history">Daniel J. Solove: Revision history - Wikipedia</a></li>
+<li> 17:58 <a href="https://en.wikipedia.org/wiki/Daniel_J._Solove">Daniel J. Solove - Wikipedia</a></li>
+<li> 17:57 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 17:57 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:56 feedly.com</li>
+<li class='same'> 17:55 feedly.com</li>
+<li> 17:55 duckduckgo.com</li>
+<li> 17:55 feedly.com</li>
+<li> 17:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:55 <a href="https://en.wikipedia.org/w/index.php?title=British_Library_cyberattack&curid=75627055&diff=1323355233&oldid=1321466972">British Library cyberattack: Difference between revisions - Wikipedia</a></li>
+<li> 17:55 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:55 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:54 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:54 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:47 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:47 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:46 mysignins.microsoft.com</li>
+<li> 17:46 login.microsoftonline.com</li>
+<li> 17:46 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:46 experience.elluciancloud.ie</li>
+<li> 17:45 mysignins.microsoft.com</li>
+<li> 17:45 login.microsoftonline.com</li>
+<li class='same'> 17:44 login.microsoftonline.com</li>
+<li> 17:44 experience.elluciancloud.ie</li>
+<li> 17:44 herts365-my.sharepoint.com</li>
+<li> 17:44 login.microsoftonline.com</li>
+<li> 17:44 herts365-my.sharepoint.com</li>
+<li> 17:41 chatgpt.com</li>
+<li> 17:38 outlook.office.com</li>
+<li> 17:38 m365.cloud.microsoft</li>
+<li class='same'> 17:37 m365.cloud.microsoft</li>
+<li> 17:37 login.microsoftonline.com</li>
+<li> 17:35 www.hr.herts.ac.uk</li>
+<li> 17:34 outlook.office365.com</li>
+<li class='same'> 17:33 outlook.office365.com</li>
+<li> 17:30 bpspsychub.onlinelibrary.wiley.com</li>
+<li> 17:30 scholar.google.com</li>
+<li> 17:28 outlook.office365.com</li>
+<li> 17:27 chatgpt.com</li>
+<li class='same'> 17:21 chatgpt.com</li>
 <li class='same'> 17:16 chatgpt.com</li>
 <li> 17:14 scholar.google.com</li>
 <li> 17:12 chatgpt.com</li>
