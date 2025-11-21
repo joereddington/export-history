@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4149)</li>
+<ol><li>mail.google.com (4148)</li>
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3998)</li>
 <li>www.google.com (3925)</li>
-<li>outlook.office365.com (3901)</li>
+<li>outlook.office365.com (3899)</li>
 <li>docs.google.com (2628)</li>
 <li>duckduckgo.com (2399)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1454)</li>
 <li>chatgpt.com (1394)</li>
 <li>www.linkedin.com (1306)</li>
-<li>login.microsoftonline.com (1127)</li>
-<li>www.amazon.co.uk (1034)</li>
+<li>login.microsoftonline.com (1123)</li>
+<li>www.amazon.co.uk (1033)</li>
 <li>calendar.google.com (993)</li>
-<li>moodle.royalholloway.ac.uk (867)</li>
-<li>rhul-my.sharepoint.com (816)</li>
+<li>moodle.royalholloway.ac.uk (866)</li>
+<li>rhul-my.sharepoint.com (812)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (630)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (431)</li>
 <li>rhul.sharepoint.com (364)</li>
 <li>fritz.box (352)</li>
-<li>adfs.herts.ac.uk (328)</li>
+<li>adfs.herts.ac.uk (327)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -17822,8 +17822,6 @@ With number of accesses/minutes in parentheses
 <li> 09:26 www.projectreal.co.uk</li>
 <li> 09:25 mail.google.com</li>
 <li> 09:25 accounts.google.com</li>
-<li> 09:25 mail.google.com</li>
-<li> 09:25 accounts.google.com</li>
 <li> 09:25 gmail.com</li>
 <li> 09:10 <a href="https://www.youtube.com/watch?v=QgIwLfymPnc&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=53">(723) GCSE Maths: N2-29 [Examples of Division with Decimals] - YouTube</a></li>
 <li> 09:09 <a href="https://www.youtube.com/watch?v=1xhlg9WkPQg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">GCSE Maths: Introduction to the Playlist - YouTube</a></li>
@@ -17842,8 +17840,6 @@ With number of accesses/minutes in parentheses
 <li> 08:24 forms.office.com</li>
 <li> 08:24 login.microsoftonline.com</li>
 <li> 08:24 forms.office.com</li>
-<li> 08:24 outlook.office365.com</li>
-<li> 08:24 login.microsoftonline.com</li>
 <li> 08:24 outlook.office365.com</li>
 <li> 08:22 outlook.office.com</li>
 <li> 08:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -17991,7 +17987,6 @@ With number of accesses/minutes in parentheses
 <li> 16:12 www.amazon.co.uk</li>
 <li> 16:12 <a href="https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html">You should have an Asked Questions list for your students | Joe Reddington</a></li>
 <li> 16:10 rhul-my.sharepoint.com</li>
-<li class='same'> 16:09 rhul-my.sharepoint.com</li>
 <li> 16:09 outlook.office365.com</li>
 <li> 16:09 www.linkedin.com</li>
 <li class='same'> 16:08 www.linkedin.com</li>
@@ -18019,8 +18014,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:44 moodle.royalholloway.ac.uk</li>
 <li> 15:44 login.microsoftonline.com</li>
 <li> 15:44 moodle.royalholloway.ac.uk</li>
-<li> 15:44 login.microsoftonline.com</li>
-<li> 15:44 moodle.royalholloway.ac.uk</li>
 <li> 15:40 dashboards.rhul.ac.uk</li>
 <li> 15:33 docs.google.com</li>
 <li> 15:33 calendar.google.com</li>
@@ -18040,7 +18033,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:45 mail.google.com</li>
 <li> 14:45 www.amazon.co.uk</li>
 <li class='same'> 14:44 www.amazon.co.uk</li>
-<li class='same'> 14:43 www.amazon.co.uk</li>
 <li class='same'> 14:42 www.amazon.co.uk</li>
 <li class='same'> 14:41 www.amazon.co.uk</li>
 <li class='same'> 14:39 www.amazon.co.uk</li>
@@ -18253,19 +18245,15 @@ With number of accesses/minutes in parentheses
 <li> 07:53 web.whatsapp.com</li>
 <li> 07:53 dashboards.rhul.ac.uk</li>
 <li> 07:52 outlook.office365.com</li>
-<li> 07:49 rhul-my.sharepoint.com</li>
-<li> 07:49 outlook.office365.com</li>
+<li class='same'> 07:49 outlook.office365.com</li>
 <li class='same'> 07:48 outlook.office365.com</li>
 <li class='same'> 07:45 outlook.office365.com</li>
 <li> 07:35 forms.office.com</li>
 <li> 07:35 login.microsoftonline.com</li>
 <li> 07:35 forms.office.com</li>
-<li> 07:31 rhul-my.sharepoint.com</li>
 <li> 07:31 outlook.office365.com</li>
 <li> 07:28 chatgpt.com</li>
 <li> 07:28 chat.openai.com</li>
-<li> 07:27 rhul-my.sharepoint.com</li>
-<li> 07:27 login.microsoftonline.com</li>
 <li> 07:27 rhul-my.sharepoint.com</li>
 <li> 07:27 outlook.office365.com</li>
 <li class='same'> 07:26 outlook.office365.com</li>
@@ -18295,16 +18283,12 @@ With number of accesses/minutes in parentheses
 <li> 06:39 eu-west.azureauth.duosecurity.com</li>
 <li> 06:39 api-b6327e78.duosecurity.com</li>
 <li> 06:39 adfs.herts.ac.uk</li>
-<li> 06:39 api-b6327e78.duosecurity.com</li>
-<li> 06:39 adfs.herts.ac.uk</li>
 <li> 06:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:36 <a href="https://www.theguardian.com/business/2025/aug/14/eli-lilly-uk-price-weight-loss-jab-mounjaro-trump">Eli Lilly ramps up UK price of weight loss jab Mounjaro after Trump demands | Pharmaceuticals industry | The Guardian</a></li>
 <li> 06:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:32 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/15/limitless-live-better-now-review-chris-hemsworth">Limitless: Live Better Now review – Chris Hemsworth has absolutely no sense of rhythm | Television & radio | The Guardian</a></li>
 <li> 06:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:30 www.russellgroup.ac.uk</li>
-<li> 06:23 outlook.office365.com</li>
-<li> 06:23 login.microsoftonline.com</li>
 <li> 06:23 outlook.office365.com</li>
 <li> 06:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:22 <a href="https://www.theguardian.com/">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a></li>
