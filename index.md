@@ -70,8 +70,8 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4149)</li>
 <li>outlook.office.com (4050)</li>
-<li>www.reddit.com (3992)</li>
-<li>www.google.com (3924)</li>
+<li>www.reddit.com (3998)</li>
+<li>www.google.com (3925)</li>
 <li>outlook.office365.com (3901)</li>
 <li>docs.google.com (2628)</li>
 <li>duckduckgo.com (2399)</li>
@@ -86,12 +86,12 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (816)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
-<li>tvtropes.org (629)</li>
-<li>web.whatsapp.com (615)</li>
+<li>tvtropes.org (630)</li>
+<li>web.whatsapp.com (616)</li>
 <li>herts.instructure.com (614)</li>
 <li>chat.openai.com (603)</li>
 <li>github.com (552)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (540)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (541)</li>
 <li>forms.office.com (511)</li>
 <li>feedly.com (473)</li>
 <li>drive.google.com (431)</li>
@@ -104,11 +104,27 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 21/11/25</H3>
+
+<br>
+
+<ul><li> 06:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:05 www.google.com</li>
+</ul>
+
 <H3>Thursday, 20/11/25</H3>
 
 <br>
 
-<ul><li> 16:30 www.linkedin.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 16:32 web.whatsapp.com</li>
+<li> 16:32 petapixel.com</li>
+<li> 16:31 libbyapp.com</li>
+<li> 16:31 <a href="https://www.theguardian.com/">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a></li>
+<li> 16:30 www.linkedin.com</li>
 <li class='same'> 16:25 www.linkedin.com</li>
 <li class='same'> 16:24 www.linkedin.com</li>
 <li> 16:24 feedly.com</li>
@@ -4728,7 +4744,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:12 www.reddit.com</li>
+<ul><li> 17:20 tvtropes.org</li>
+<li> 17:19 www.reddit.com</li>
+<li class='same'> 17:18 www.reddit.com</li>
+<li class='same'> 17:17 www.reddit.com</li>
+<li class='same'> 17:16 www.reddit.com</li>
+<li class='same'> 17:15 www.reddit.com</li>
+<li class='same'> 17:13 www.reddit.com</li>
+<li class='same'> 17:12 www.reddit.com</li>
 <li class='same'> 17:11 www.reddit.com</li>
 <li class='same'> 17:10 www.reddit.com</li>
 <li class='same'> 17:09 www.reddit.com</li>
@@ -82099,6 +82122,7 @@ With number of accesses/minutes in parentheses
 <li> 06:29 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 06:28 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 06:27 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 06:21 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 06:20 gitlab.cim.rhul.ac.uk</li>
 <li> 06:18 <a href="https://www.bbc.co.uk/sport">BBC Sport - Scores, Fixtures, News - Live Sport</a></li>
 </ul>
@@ -86660,7 +86684,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:11 forum.artofmemory.com</li>
-<li> 11:09 scholar.google.com</li>
+<li> 11:10 scholar.google.com</li>
+<li class='same'> 11:09 scholar.google.com</li>
 </ul>
 
 <H3>Monday, 02/10/23</H3>
