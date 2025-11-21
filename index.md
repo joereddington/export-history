@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (3998)</li>
 <li>www.google.com (3925)</li>
 <li>outlook.office365.com (3899)</li>
-<li>docs.google.com (2628)</li>
+<li>docs.google.com (2629)</li>
 <li>duckduckgo.com (2402)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1454)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (1306)</li>
 <li>login.microsoftonline.com (1124)</li>
 <li>www.amazon.co.uk (1033)</li>
-<li>calendar.google.com (993)</li>
+<li>calendar.google.com (994)</li>
 <li>moodle.royalholloway.ac.uk (866)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>www.theguardian.com (685)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 21/11/25</H3>
+
+<br>
+
+<ul><li> 11:14 calendar.google.com</li>
+<li> 11:03 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 11:02 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 11:01 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 10:59 webtimetables.royalholloway.ac.uk</li>
+<li> 10:57 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:57 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:57 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 08:52 docs.google.com</li>
+</ul>
 
 <br>
 
