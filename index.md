@@ -77,12 +77,12 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (2402)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1454)</li>
-<li>chatgpt.com (1400)</li>
+<li>chatgpt.com (1403)</li>
 <li>www.linkedin.com (1306)</li>
-<li>login.microsoftonline.com (1124)</li>
+<li>login.microsoftonline.com (1126)</li>
 <li>www.amazon.co.uk (1033)</li>
 <li>calendar.google.com (994)</li>
-<li>moodle.royalholloway.ac.uk (866)</li>
+<li>moodle.royalholloway.ac.uk (868)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 21/11/25</H3>
+
+<br>
+
+<ul><li> 15:10 chatgpt.com</li>
+<li> 15:10 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 15:09 herts365-my.sharepoint.com</li>
+<li> 15:09 eu-west.azureauth.duosecurity.com</li>
+<li> 15:09 api-b6327e78.duosecurity.com</li>
+<li> 15:09 login.microsoftonline.com</li>
+<li> 15:09 herts365-my.sharepoint.com</li>
+<li> 15:08 chatgpt.com</li>
+<li class='same'> 15:07 chatgpt.com</li>
+<li> 14:49 moodle.royalholloway.ac.uk</li>
+<li> 14:49 login.microsoftonline.com</li>
+<li> 14:49 moodle.royalholloway.ac.uk</li>
+<li> 14:48 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 14:48 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 14:48 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+</ul>
 
 <br>
 
