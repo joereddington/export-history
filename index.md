@@ -74,12 +74,12 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3925)</li>
 <li>outlook.office365.com (3899)</li>
 <li>docs.google.com (2628)</li>
-<li>duckduckgo.com (2399)</li>
+<li>duckduckgo.com (2402)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1454)</li>
-<li>chatgpt.com (1394)</li>
+<li>chatgpt.com (1400)</li>
 <li>www.linkedin.com (1306)</li>
-<li>login.microsoftonline.com (1123)</li>
+<li>login.microsoftonline.com (1124)</li>
 <li>www.amazon.co.uk (1033)</li>
 <li>calendar.google.com (993)</li>
 <li>moodle.royalholloway.ac.uk (866)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li>web.whatsapp.com (616)</li>
 <li>herts.instructure.com (614)</li>
-<li>chat.openai.com (603)</li>
+<li>chat.openai.com (604)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (541)</li>
 <li>forms.office.com (511)</li>
@@ -105,6 +105,51 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 21/11/25</H3>
+
+<br>
+
+<ul><li> 07:53 www.isaca.org</li>
+<li> 07:53 gitnux.org</li>
+<li> 07:52 www.aspeninstitute.org</li>
+<li> 07:52 duckduckgo.com</li>
+<li> 07:52 www.ncsc.gov.uk</li>
+<li> 07:29 chatgpt.com</li>
+<li class='same'> 07:28 chatgpt.com</li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Information_Commissioner%27s_Office">Information Commissioner's Office - Wikipedia</a></li>
+<li> 07:22 duckduckgo.com</li>
+<li> 07:19 learning.oreilly.com</li>
+<li class='same'> 07:18 learning.oreilly.com</li>
+<li> 07:18 login.openathens.net</li>
+<li> 07:18 login.microsoftonline.com</li>
+<li> 07:18 www.oreilly.com</li>
+<li> 07:18 librarysearch.royalholloway.ac.uk</li>
+<li> 07:18 www.royalholloway.ac.uk</li>
+<li> 07:18 duckduckgo.com</li>
+<li> 07:17 www.google.co.uk</li>
+<li> 07:17 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 07:17 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computing)">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 07:16 <a href="https://en.wikipedia.org/wiki/Targeted_threat">Targeted threat - Wikipedia</a></li>
+<li> 07:12 <a href="https://en.wikipedia.org/wiki/Data_breach#For_organizations">Data breach - Wikipedia</a></li>
+<li> 07:12 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit&section=5">Data breach - Wikipedia</a></li>
+<li> 07:12 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit&section=12">Editing Data breach - Wikipedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/wiki/Data_breach#Technical_causes">Data breach - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit&section=5">Data breach - Wikipedia</a></li>
+<li> 07:09 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit">Data breach - Wikipedia</a></li>
+<li> 07:08 chatgpt.com</li>
+<li> 07:08 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 07:08 www.thinkbrg.com</li>
+<li> 07:07 <a href="https://en.wikipedia.org/w/index.php?title=Data_breach&action=edit">Data breach - Wikipedia</a></li>
+<li> 07:07 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 07:07 chatgpt.com</li>
+<li class='same'> 07:06 chatgpt.com</li>
+<li class='same'> 07:05 chatgpt.com</li>
+<li> 07:05 chat.openai.com</li>
+<li> 07:02 <a href="https://en.wikipedia.org/wiki/Information_Commissioner%27s_Office">Information Commissioner's Office - Wikipedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+</ul>
 
 <br>
 
@@ -73219,6 +73264,7 @@ With number of accesses/minutes in parentheses
 <li> 18:22 www.natwest.com</li>
 <li> 18:21 <a href="https://en.wikipedia.org/wiki/Information_security#Threats">Information security - Wikipedia</a></li>
 <li> 18:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=3">Editing Information security (section) - Wikipedia</a></li>
+<li> 18:18 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
 <li> 18:18 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
 <li> 18:09 <a href="https://en.wikipedia.org/wiki/Exploit_(computer_security)">Exploit (computer security) - Wikipedia</a></li>
 <li> 18:01 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
@@ -73369,7 +73415,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:28 <a href="https://en.wikipedia.org/wiki/Stuxnet">Stuxnet - Wikipedia</a></li>
+<ul><li> 10:48 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
+<li class='same'> 10:45 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
+<li class='same'> 10:42 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 10:28 <a href="https://en.wikipedia.org/wiki/Stuxnet">Stuxnet - Wikipedia</a></li>
 <li> 10:25 <a href="https://en.wikipedia.org/wiki/Edward_Snowden">Edward Snowden - Wikipedia</a></li>
 <li> 10:24 <a href="https://en.wikipedia.org/wiki/Stuxnet">Stuxnet - Wikipedia</a></li>
 <li> 10:06 rhul-my.sharepoint.com</li>
@@ -73701,6 +73750,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:30 moodle.royalholloway.ac.uk</li>
 <li> 11:05 www.google.com</li>
 <li> 11:04 rhul.sharepoint.com</li>
+<li> 11:00 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computing)">Vulnerability (computer security) - Wikipedia</a></li>
+<li> 11:00 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
 <li> 10:55 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
 <li class='same'> 10:51 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
 <li> 10:49 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit">Information security - Wikipedia</a></li>
