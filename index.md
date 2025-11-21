@@ -72,17 +72,17 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3998)</li>
 <li>www.google.com (3925)</li>
-<li>outlook.office365.com (3899)</li>
+<li>outlook.office365.com (3912)</li>
 <li>docs.google.com (2629)</li>
-<li>duckduckgo.com (2402)</li>
+<li>duckduckgo.com (2403)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1454)</li>
-<li>chatgpt.com (1403)</li>
+<li>chatgpt.com (1406)</li>
 <li>www.linkedin.com (1306)</li>
-<li>login.microsoftonline.com (1126)</li>
+<li>login.microsoftonline.com (1127)</li>
 <li>www.amazon.co.uk (1033)</li>
 <li>calendar.google.com (994)</li>
-<li>moodle.royalholloway.ac.uk (868)</li>
+<li>moodle.royalholloway.ac.uk (869)</li>
 <li>rhul-my.sharepoint.com (812)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
@@ -108,8 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:10 chatgpt.com</li>
-<li> 15:10 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<ul><li> 16:22 <a href="https://en.wikipedia.org/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_directory">Wikipedia:What Wikipedia is not - Wikipedia</a></li>
+<li> 16:22 <a href="https://en.wikipedia.org/wiki/Wikipedia:NOTDIR">Wikipedia:What Wikipedia is not - Wikipedia</a></li>
+<li> 16:22 duckduckgo.com</li>
+<li> 16:21 chatgpt.com</li>
+<li class='same'> 16:20 chatgpt.com</li>
+<li> 16:19 outlook.office365.com</li>
+<li class='same'> 16:18 outlook.office365.com</li>
+<li class='same'> 16:16 outlook.office365.com</li>
+<li> 16:16 moodle.royalholloway.ac.uk</li>
+<li> 16:15 chatgpt.com</li>
+<li> 16:15 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Replying on Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 16:15 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 16:14 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:43 outlook.office365.com</li>
+<li class='same'> 15:42 outlook.office365.com</li>
+<li class='same'> 15:41 outlook.office365.com</li>
+<li class='same'> 15:39 outlook.office365.com</li>
+<li class='same'> 15:30 outlook.office365.com</li>
+<li class='same'> 15:27 outlook.office365.com</li>
+<li class='same'> 15:25 outlook.office365.com</li>
+<li class='same'> 15:22 outlook.office365.com</li>
+<li> 15:22 login.microsoftonline.com</li>
+<li> 15:22 outlook.office365.com</li>
+<li> 15:10 chatgpt.com</li>
+<li> 15:10 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Replying on Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 15:09 herts365-my.sharepoint.com</li>
 <li> 15:09 eu-west.azureauth.duosecurity.com</li>
 <li> 15:09 api-b6327e78.duosecurity.com</li>
@@ -120,7 +147,7 @@ With number of accesses/minutes in parentheses
 <li> 14:49 moodle.royalholloway.ac.uk</li>
 <li> 14:49 login.microsoftonline.com</li>
 <li> 14:49 moodle.royalholloway.ac.uk</li>
-<li> 14:48 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 14:48 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Replying on Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 14:48 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 14:48 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 </ul>
@@ -131,7 +158,7 @@ With number of accesses/minutes in parentheses
 <li> 14:10 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:10 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:10 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 14:07 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 14:07 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Replying on Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 14:07 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 14:07 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 14:06 <a href="https://en.wikipedia.org/w/index.php?title=Tulip_Siddiq&curid=33131881&diff=1323393001&oldid=1323072605">Tulip Siddiq: Difference between revisions - Wikipedia</a></li>
@@ -144,7 +171,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:22 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion">Wikipedia:Articles for deletion - Wikipedia</a></li>
-<li> 11:21 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 11:21 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Replying on Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 11:14 calendar.google.com</li>
 <li> 11:03 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 11:02 webtimetables.royalholloway.ac.uk</li>
@@ -277,7 +304,7 @@ With number of accesses/minutes in parentheses
 <li> 14:41 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach">Talk:Data breach - Wikipedia</a></li>
 <li> 14:41 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
 <li> 14:36 duckduckgo.com</li>
-<li> 14:31 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 14:31 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Replying on Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 14:30 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
 <li> 14:29 <a href="https://en.wikipedia.org/wiki/Anthem_medical_data_breach">Anthem medical data breach - Wikipedia</a></li>
 <li> 14:28 <a href="https://en.wikipedia.org/wiki/Medical_data_breach#Black_market_for_health_data">Medical data breach - Wikipedia</a></li>
