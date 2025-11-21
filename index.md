@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4050)</li>
 <li>www.reddit.com (3998)</li>
 <li>www.google.com (3925)</li>
-<li>outlook.office365.com (3912)</li>
+<li>outlook.office365.com (3916)</li>
 <li>docs.google.com (2629)</li>
-<li>duckduckgo.com (2403)</li>
+<li>duckduckgo.com (2404)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1454)</li>
-<li>chatgpt.com (1406)</li>
-<li>www.linkedin.com (1306)</li>
+<li>chatgpt.com (1418)</li>
+<li>www.linkedin.com (1307)</li>
 <li>login.microsoftonline.com (1127)</li>
 <li>www.amazon.co.uk (1033)</li>
 <li>calendar.google.com (994)</li>
@@ -87,13 +87,13 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (630)</li>
-<li>web.whatsapp.com (616)</li>
+<li>web.whatsapp.com (617)</li>
 <li>herts.instructure.com (614)</li>
-<li>chat.openai.com (604)</li>
+<li>chat.openai.com (605)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (541)</li>
 <li>forms.office.com (511)</li>
-<li>feedly.com (473)</li>
+<li>feedly.com (475)</li>
 <li>drive.google.com (431)</li>
 <li>rhul.sharepoint.com (364)</li>
 <li>fritz.box (352)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:22 <a href="https://en.wikipedia.org/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_directory">Wikipedia:What Wikipedia is not - Wikipedia</a></li>
+<ul><li> 17:21 chatgpt.com</li>
+<li class='same'> 17:16 chatgpt.com</li>
+<li> 17:14 scholar.google.com</li>
+<li> 17:12 chatgpt.com</li>
+<li class='same'> 17:11 chatgpt.com</li>
+<li class='same'> 17:10 chatgpt.com</li>
+<li class='same'> 17:07 chatgpt.com</li>
+<li> 17:07 outlook.office365.com</li>
+<li class='same'> 17:06 outlook.office365.com</li>
+<li> 17:06 chatgpt.com</li>
+<li class='same'> 17:05 chatgpt.com</li>
+<li class='same'> 17:03 chatgpt.com</li>
+<li> 17:03 chat.openai.com</li>
+<li> 17:01 feedly.com</li>
+<li> 17:01 www.linkedin.com</li>
+<li> 17:01 feedly.com</li>
+<li> 16:57 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Log/2025_November_20">Wikipedia:Articles for deletion/Log/2025 November 20 - Wikipedia</a></li>
+<li> 16:57 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion">Wikipedia:Articles for deletion - Wikipedia</a></li>
+<li> 16:56 intranet.royalholloway.ac.uk</li>
+<li> 16:56 duckduckgo.com</li>
+<li> 16:56 outlook.office365.com</li>
+<li> 16:54 chatgpt.com</li>
+<li> 16:53 outlook.office365.com</li>
+<li> 16:53 chatgpt.com</li>
+<li class='same'> 16:52 chatgpt.com</li>
+<li> 16:51 web.whatsapp.com</li>
+<li> 16:22 <a href="https://en.wikipedia.org/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_directory">Wikipedia:What Wikipedia is not - Wikipedia</a></li>
 <li> 16:22 <a href="https://en.wikipedia.org/wiki/Wikipedia:NOTDIR">Wikipedia:What Wikipedia is not - Wikipedia</a></li>
 <li> 16:22 duckduckgo.com</li>
 <li> 16:21 chatgpt.com</li>
