@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (3999)</li>
 <li>www.google.com (3924)</li>
 <li>outlook.office365.com (3916)</li>
-<li>docs.google.com (2629)</li>
+<li>docs.google.com (2630)</li>
 <li>duckduckgo.com (2408)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1455)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 23/11/25</H3>
+
+<br>
+
+<ul><li> 05:05 docs.google.com</li>
+</ul>
+
 <H3>Saturday, 22/11/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
