@@ -71,10 +71,10 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4148)</li>
 <li>outlook.office.com (4060)</li>
 <li>www.reddit.com (3999)</li>
-<li>www.google.com (3924)</li>
+<li>www.google.com (3925)</li>
 <li>outlook.office365.com (3916)</li>
 <li>docs.google.com (2630)</li>
-<li>duckduckgo.com (2409)</li>
+<li>duckduckgo.com (2410)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1455)</li>
 <li>chatgpt.com (1427)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (630)</li>
-<li>web.whatsapp.com (617)</li>
+<li>web.whatsapp.com (619)</li>
 <li>herts.instructure.com (616)</li>
 <li>chat.openai.com (607)</li>
 <li>github.com (552)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:38 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Dinotrux%2FGA1&action=edit&editintro=Template:GAN/editintro&preload=Template:GAN/preload">Creating Talk:Dinotrux/GA1 - Wikipedia</a></li>
+<ul><li> 11:08 student.readingplus.com</li>
+<li class='same'> 11:07 student.readingplus.com</li>
+<li> 11:06 duckduckgo.com</li>
+<li> 11:06 www.google.com</li>
+<li> 11:02 <a href="https://en.wikipedia.org/wiki/2022_Optus_data_breach">2022 Optus data breach - Wikipedia</a></li>
+<li> 11:01 <a href="https://en.wikipedia.org/wiki/Talk:2022_Optus_data_breach">Talk:2022 Optus data breach - Wikipedia</a></li>
+<li> 11:01 <a href="https://en.wikipedia.org/wiki/2022_Optus_data_breach">2022 Optus data breach - Wikipedia</a></li>
+<li> 11:00 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 11:00 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 11:00 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux/GA1">Talk:Dinotrux/GA1 - Wikipedia</a></li>
+<li> 11:00 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Dinotrux/GA1&action=edit">Editing Talk:Dinotrux/GA1 - Wikipedia</a></li>
+<li> 10:59 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux/GA1">Talk:Dinotrux/GA1 - Wikipedia</a></li>
+<li> 10:59 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:59 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:59 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 10:58 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 10:54 <a href="https://www.youtube.com/watch?v=QIz3m3lWNCA">(36) Speedtrux Race | DINOTRUX SUPERCHARGED - YouTube</a></li>
+<li> 10:50 <a href="https://www.youtube.com/watch?v=PoIuGnpUVaM">(36) Stealth Battle | DINOTRUX SUPERCHARGED - YouTube</a></li>
+<li> 10:46 <a href="https://www.youtube.com/watch?v=HjOjxsvk1jU">(36) Get Supercharged! | DINOTRUX SUPERCHARGED - YouTube</a></li>
+<li> 10:42 <a href="https://www.youtube.com/watch?v=NveppYUL0yg">(36) Lava on the Fritz | DINOTRUX SUPERCHARGED - YouTube</a></li>
+<li> 10:38 <a href="https://www.youtube.com/watch?v=WAIgLF2pPek">(36) Aquadon Attack! | DINOTRUX SUPERCHARGED - YouTube</a></li>
+<li> 10:27 <a href="https://www.youtube.com/watch?v=ud_gLdgJJAQ&t=384s">(36) First 11 Minutes of Episode 1 | DINOTRUX - YouTube</a></li>
+<li> 10:27 <a href="https://www.youtube.com/results?search_query=dinotrux+ty+meets+revit">(36) dinotrux ty meets revit - YouTube</a></li>
+<li> 10:26 <a href="https://www.youtube.com/">(36) YouTube</a></li>
+<li> 09:58 www.mcmcomiccon.com</li>
+<li> 09:57 web.whatsapp.com</li>
+<li class='same'> 09:56 web.whatsapp.com</li>
+<li> 09:56 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux/GA1">Talk:Dinotrux/GA1 - Wikipedia</a></li>
+<li> 09:38 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Dinotrux%2FGA1&action=edit&editintro=Template:GAN/editintro&preload=Template:GAN/preload">Creating Talk:Dinotrux/GA1 - Wikipedia</a></li>
 <li> 09:37 chatgpt.com</li>
 <li> 09:37 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=edit&section=1">Dinotrux - Wikipedia</a></li>
 <li class='same'> 09:33 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=edit&section=1">Dinotrux - Wikipedia</a></li>
