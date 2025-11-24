@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4060)</li>
 <li>www.reddit.com (3999)</li>
 <li>www.google.com (3925)</li>
-<li>outlook.office365.com (3919)</li>
+<li>outlook.office365.com (3920)</li>
 <li>docs.google.com (2630)</li>
-<li>duckduckgo.com (2431)</li>
+<li>duckduckgo.com (2435)</li>
 <li>bsky.app (1581)</li>
+<li>chatgpt.com (1457)</li>
 <li>www.facebook.com (1455)</li>
-<li>chatgpt.com (1449)</li>
-<li>www.linkedin.com (1309)</li>
+<li>www.linkedin.com (1310)</li>
 <li>login.microsoftonline.com (1134)</li>
 <li>www.amazon.co.uk (1034)</li>
 <li>calendar.google.com (998)</li>
@@ -87,15 +87,15 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (630)</li>
-<li>web.whatsapp.com (619)</li>
+<li>web.whatsapp.com (621)</li>
 <li>herts.instructure.com (616)</li>
 <li>chat.openai.com (611)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a> (544)</li>
 <li>forms.office.com (511)</li>
-<li>feedly.com (482)</li>
+<li>feedly.com (483)</li>
 <li>drive.google.com (431)</li>
-<li>rhul.sharepoint.com (369)</li>
+<li>rhul.sharepoint.com (372)</li>
 <li>fritz.box (352)</li>
 <li>adfs.herts.ac.uk (329)</li>
 
@@ -108,7 +108,85 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:09 chatgpt.com</li>
+<ul><li> 18:11 chatgpt.com</li>
+<li class='same'> 18:09 chatgpt.com</li>
+<li class='same'> 17:59 chatgpt.com</li>
+<li class='same'> 17:55 chatgpt.com</li>
+<li> 17:54 web.whatsapp.com</li>
+<li> 17:54 chatgpt.com</li>
+<li class='same'> 17:53 chatgpt.com</li>
+<li class='same'> 17:52 chatgpt.com</li>
+<li> 17:51 nathan.gs</li>
+<li> 17:51 jekyllrb.com</li>
+<li> 17:51 duckduckgo.com</li>
+<li> 17:49 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
+<li> 17:48 chatgpt.com</li>
+<li> 17:47 feedly.com</li>
+<li> 17:47 www.linkedin.com</li>
+<li> 17:44 web.whatsapp.com</li>
+<li> 17:44 www.giantitp.com</li>
+<li> 17:43 <a href="https://en.wikipedia.org/wiki/Jeff_Bezos_phone_hacking_incident">Jeff Bezos phone hacking incident - Wikipedia</a></li>
+<li> 17:43 <a href="https://en.wikipedia.org/w/index.php?title=Template:Hacking_in_the_2010s&action=history">Template:Hacking in the 2010s: Revision history - Wikipedia</a></li>
+<li> 17:43 <a href="https://en.wikipedia.org/wiki/Template:Hacking_in_the_2010s">Template:Hacking in the 2010s - Wikipedia</a></li>
+<li> 17:42 <a href="https://en.wikipedia.org/wiki/Template_talk:Hacking_in_the_2010s">Template talk:Hacking in the 2010s - Wikipedia</a></li>
+<li> 17:42 <a href="https://en.wikipedia.org/wiki/Template:Hacking_in_the_2010s">Template:Hacking in the 2010s - Wikipedia</a></li>
+<li> 17:42 <a href="https://en.wikipedia.org/wiki/List_of_security_hacking_incidents#2010s">List of security hacking incidents - Wikipedia</a></li>
+<li> 17:42 <a href="https://en.wikipedia.org/wiki/Timeline_of_computer_security_hacker_history#2010s">List of security hacking incidents - Wikipedia</a></li>
+<li> 17:40 <a href="https://en.wikipedia.org/w/index.php?title=Ashley_Madison_data_breach&action=history">Ashley Madison data breach: Revision history - Wikipedia</a></li>
+<li> 17:39 <a href="https://en.wikipedia.org/wiki/Ashley_Madison_data_breach">Ashley Madison data breach - Wikipedia</a></li>
+<li> 17:39 <a href="https://en.wikipedia.org/w/index.php?title=2015_TalkTalk_data_breach&action=history">2015 TalkTalk data breach: Revision history - Wikipedia</a></li>
+<li> 17:39 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach?wprov=srpw1_0">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 17:39 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 17:39 <a href="https://en.wikipedia.org/w/index.php?search=talktalk+2015+&title=Special%3ASearch&ns0=1&searchToken=3esr2eh9girnej479qazwcb3i">talktalk 2015 - Search results - Wikipedia</a></li>
+<li> 17:39 <a href="https://en.wikipedia.org/w/index.php?search=talktalk+2015+&title=Special%3ASearch&ns0=1">talktalk 2015 - Search results - Wikipedia</a></li>
+<li> 17:39 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
+<li class='same'> 17:38 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
+<li> 17:38 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 17:38 <a href="https://en.wikipedia.org/w/index.php?title=Special:Contributions/Joereddington&target=Joereddington&offset=20251119080312">User contributions for Joereddington - Wikipedia</a></li>
+<li> 17:38 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 17:38 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 17:38 <a href="https://en.wikipedia.org/wiki/Cross-site_scripting">Cross-site scripting - Wikipedia</a></li>
+<li> 17:38 <a href="https://en.wikipedia.org/wiki/User:DomainMapper/Books/DataScience4251">User:DomainMapper/Books/DataScience4251 - Wikipedia</a></li>
+<li> 17:38 <a href="https://en.wikipedia.org/wiki/EasyJet_data_breach#Public_admission">EasyJet data breach - Wikipedia</a></li>
+<li> 17:36 <a href="https://en.wikipedia.org/w/index.php?title=EasyJet_data_breach&action=edit&section=2">Editing EasyJet data breach - Wikipedia</a></li>
+<li> 17:36 ico.org.uk</li>
+<li> 17:36 duckduckgo.com</li>
+<li> 17:35 ico.org.uk</li>
+<li> 17:35 duckduckgo.com</li>
+<li> 17:34 <a href="https://en.wikipedia.org/wiki/EasyJet_data_breach">EasyJet data breach - Wikipedia</a></li>
+<li> 17:33 <a href="https://en.wikipedia.org/wiki/Andy_Greenberg">Andy Greenberg - Wikipedia</a></li>
+<li> 17:33 <a href="https://en.wikipedia.org/wiki/Darknet_Diaries">Darknet Diaries - Wikipedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/British_Airways_data_breach">Pages that link to "British Airways data breach" - Wikipedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach#Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 17:30 rhul.sharepoint.com</li>
+<li class='same'> 17:29 rhul.sharepoint.com</li>
+<li> 17:29 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:29 <a href="https://en.wikipedia.org/w/index.php?title=British_Library_cyberattack&curid=75627055&diff=1323926005&oldid=1323768083">British Library cyberattack: Difference between revisions - Wikipedia</a></li>
+<li> 17:29 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:29 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:29 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:29 <a href="https://en.wikipedia.org/wiki/User_talk:Bluerasberry">user talk:Bluerasberry - Wikipedia</a></li>
+<li> 17:28 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Bluerasberry">User contributions for Bluerasberry - Wikipedia</a></li>
+<li> 17:28 <a href="https://en.wikipedia.org/wiki/User:Bluerasberry">User:Bluerasberry - Wikipedia</a></li>
+<li> 17:25 <a href="https://en.wikipedia.org/wiki/WannaCry_ransomware_attack">WannaCry ransomware attack - Wikipedia</a></li>
+<li> 17:24 duckduckgo.com</li>
+<li> 17:24 <a href="https://en.wikipedia.org/wiki/Talk:Medical_data_breach">Talk:Medical data breach - Wikipedia</a></li>
+<li> 17:24 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach#Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach?markasread=341517360&markasreadwiki=enwiki#Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 17:18 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
+<li> 17:16 rhul.sharepoint.com</li>
+<li> 17:15 outlook.office365.com</li>
+<li> 17:09 chatgpt.com</li>
 <li> 17:09 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach?markasread=341517360&markasreadwiki=enwiki#Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 17:09 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach#Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 17:08 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
