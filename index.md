@@ -77,9 +77,9 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (2417)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1455)</li>
-<li>chatgpt.com (1436)</li>
+<li>chatgpt.com (1441)</li>
 <li>www.linkedin.com (1308)</li>
-<li>login.microsoftonline.com (1130)</li>
+<li>login.microsoftonline.com (1131)</li>
 <li>www.amazon.co.uk (1034)</li>
 <li>calendar.google.com (997)</li>
 <li>moodle.royalholloway.ac.uk (868)</li>
@@ -89,13 +89,13 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li>web.whatsapp.com (619)</li>
 <li>herts.instructure.com (616)</li>
-<li>chat.openai.com (607)</li>
+<li>chat.openai.com (608)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a> (544)</li>
 <li>forms.office.com (511)</li>
 <li>feedly.com (481)</li>
 <li>drive.google.com (431)</li>
-<li>rhul.sharepoint.com (365)</li>
+<li>rhul.sharepoint.com (367)</li>
 <li>fritz.box (352)</li>
 <li>adfs.herts.ac.uk (329)</li>
 
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:11 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<ul><li> 11:10 rhul.sharepoint.com</li>
+<li> 11:10 login.microsoftonline.com</li>
+<li> 11:10 rhul.sharepoint.com</li>
+<li> 10:59 thriftyjinxy.com</li>
+<li> 10:59 cbcbooks.org</li>
+<li> 10:58 www.licenseglobal.com</li>
+<li> 10:58 tv.parrotanalytics.com</li>
+<li> 10:57 www.foundry.com</li>
+<li> 10:56 week99er.com</li>
+<li> 10:55 www.rotoscopers.com</li>
+<li> 10:55 chatgpt.com</li>
+<li> 10:55 chat.openai.com</li>
+<li> 10:34 wiggin.eu</li>
+<li> 10:33 www.taylorwessing.com</li>
+<li> 10:27 chatgpt.com</li>
+<li class='same'> 10:26 chatgpt.com</li>
+<li> 10:26 <a href="https://en.wikipedia.org/wiki/Template:Did_you_know_nominations/Canon_EOS">Template:Did you know nominations/Canon EOS - Wikipedia</a></li>
+<li> 10:26 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:26 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:26 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 10:25 chatgpt.com</li>
+<li> 10:25 ico.org.uk</li>
+<li> 10:23 chatgpt.com</li>
+<li> 10:22 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach?action=edit&veswitched=1">Editing British Airways data breach - Wikipedia</a></li>
+<li> 10:22 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit">Editing British Airways data breach - Wikipedia</a></li>
+<li> 10:22 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 10:22 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 10:21 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 10:21 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
+<li class='same'> 10:11 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
 <li> 10:10 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 10:10 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
 <li> 10:10 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
