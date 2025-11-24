@@ -74,15 +74,15 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3925)</li>
 <li>outlook.office365.com (3919)</li>
 <li>docs.google.com (2630)</li>
-<li>duckduckgo.com (2430)</li>
+<li>duckduckgo.com (2431)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1455)</li>
-<li>chatgpt.com (1447)</li>
+<li>chatgpt.com (1449)</li>
 <li>www.linkedin.com (1309)</li>
 <li>login.microsoftonline.com (1134)</li>
 <li>www.amazon.co.uk (1034)</li>
-<li>calendar.google.com (997)</li>
-<li>moodle.royalholloway.ac.uk (872)</li>
+<li>calendar.google.com (998)</li>
+<li>moodle.royalholloway.ac.uk (875)</li>
 <li>rhul-my.sharepoint.com (811)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:16 chatgpt.com</li>
+<ul><li> 17:09 chatgpt.com</li>
+<li> 17:09 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach?markasread=341517360&markasreadwiki=enwiki#Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 17:09 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach#Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 17:08 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:08 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:08 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:08 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:07 calendar.google.com</li>
+<li> 17:07 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:07 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:07 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:05 <a href="https://en.wikipedia.org/wiki/User_talk:Horse_Eye%27s_Back">User talk:Horse Eye's Back - Wikipedia</a></li>
+<li> 17:05 <a href="https://en.wikipedia.org/wiki/User:Horse_Eye%27s_Back">User:Horse Eye's Back - Wikipedia</a></li>
+<li> 17:05 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach#Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 17:04 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach?markasread=341517360&markasreadwiki=enwiki#Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 17:04 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:36 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:34 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:32 moodle.royalholloway.ac.uk</li>
+<li> 16:31 ico.org.uk</li>
+<li class='same'> 16:30 ico.org.uk</li>
+<li class='same'> 16:29 ico.org.uk</li>
+<li class='same'> 16:28 ico.org.uk</li>
+<li class='same'> 16:27 ico.org.uk</li>
+<li> 16:27 duckduckgo.com</li>
+<li> 16:27 ico.org.uk</li>
+<li> 16:25 chatgpt.com</li>
+<li class='same'> 16:16 chatgpt.com</li>
 <li class='same'> 16:15 chatgpt.com</li>
 <li class='same'> 16:14 chatgpt.com</li>
 <li> 16:14 chat.openai.com</li>
