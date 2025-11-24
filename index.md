@@ -74,12 +74,12 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3925)</li>
 <li>outlook.office365.com (3916)</li>
 <li>docs.google.com (2630)</li>
-<li>duckduckgo.com (2417)</li>
+<li>duckduckgo.com (2422)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1455)</li>
 <li>chatgpt.com (1441)</li>
 <li>www.linkedin.com (1308)</li>
-<li>login.microsoftonline.com (1131)</li>
+<li>login.microsoftonline.com (1132)</li>
 <li>www.amazon.co.uk (1034)</li>
 <li>calendar.google.com (997)</li>
 <li>moodle.royalholloway.ac.uk (868)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (511)</li>
 <li>feedly.com (481)</li>
 <li>drive.google.com (431)</li>
-<li>rhul.sharepoint.com (367)</li>
+<li>rhul.sharepoint.com (368)</li>
 <li>fritz.box (352)</li>
 <li>adfs.herts.ac.uk (329)</li>
 
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:10 rhul.sharepoint.com</li>
+<ul><li> 12:09 duckduckgo.com</li>
+<li class='same'> 12:06 duckduckgo.com</li>
+<li> 12:01 ico.org.uk</li>
+<li class='same'> 12:00 ico.org.uk</li>
+<li> 11:59 icosearch.ico.org.uk</li>
+<li> 11:57 ico.org.uk</li>
+<li> 11:57 duckduckgo.com</li>
+<li> 11:55 ico.org.uk</li>
+<li class='same'> 11:54 ico.org.uk</li>
+<li> 11:54 icosearch.ico.org.uk</li>
+<li class='same'> 11:53 icosearch.ico.org.uk</li>
+<li> 11:53 ico.org.uk</li>
+<li> 11:53 duckduckgo.com</li>
+<li> 11:30 <a href="https://en.wikipedia.org/wiki/Dinotrux">Dinotrux - Wikipedia</a></li>
+<li> 11:30 <a href="https://en.wikipedia.org/wiki/Dinotrux?venotify=saved">Dinotrux - Wikipedia</a></li>
+<li> 11:30 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=edit">Dinotrux - Wikipedia</a></li>
+<li> 11:30 apkpure.com</li>
+<li> 11:29 toybook.com</li>
+<li> 11:27 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&oldid=1323764101&action=edit">Editing Dinotrux - Wikipedia</a></li>
+<li> 11:27 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=edit">Dinotrux - Wikipedia</a></li>
+<li> 11:27 <a href="https://en.wikipedia.org/wiki/Dinotrux">Dinotrux - Wikipedia</a></li>
+<li> 11:27 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=edit&section=1">Editing Dinotrux (section) - Wikipedia</a></li>
+<li> 11:20 www.easylife.co.uk</li>
+<li> 11:20 duckduckgo.com</li>
+<li> 11:20 rhul.sharepoint.com</li>
+<li> 11:20 login.microsoftonline.com</li>
+<li> 11:10 rhul.sharepoint.com</li>
 <li> 11:10 login.microsoftonline.com</li>
 <li> 11:10 rhul.sharepoint.com</li>
 <li> 10:59 thriftyjinxy.com</li>
@@ -355,8 +381,8 @@ With number of accesses/minutes in parentheses
 <li> 09:56 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux/GA1">Talk:Dinotrux/GA1 - Wikipedia</a></li>
 <li> 09:38 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Dinotrux%2FGA1&action=edit&editintro=Template:GAN/editintro&preload=Template:GAN/preload">Creating Talk:Dinotrux/GA1 - Wikipedia</a></li>
 <li> 09:37 chatgpt.com</li>
-<li> 09:37 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=edit&section=1">Dinotrux - Wikipedia</a></li>
-<li class='same'> 09:33 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=edit&section=1">Dinotrux - Wikipedia</a></li>
+<li> 09:37 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=edit&section=1">Editing Dinotrux (section) - Wikipedia</a></li>
+<li class='same'> 09:33 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=edit&section=1">Editing Dinotrux (section) - Wikipedia</a></li>
 <li> 09:33 chatgpt.com</li>
 <li> 09:33 chat.openai.com</li>
 <li> 09:32 <a href="https://www.youtube.com/watch?v=ud_gLdgJJAQ&t=59s">(36) First 11 Minutes of Episode 1 | DINOTRUX - YouTube</a></li>
