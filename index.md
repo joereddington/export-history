@@ -74,10 +74,10 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3925)</li>
 <li>outlook.office365.com (3916)</li>
 <li>docs.google.com (2630)</li>
-<li>duckduckgo.com (2422)</li>
+<li>duckduckgo.com (2430)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1455)</li>
-<li>chatgpt.com (1441)</li>
+<li>chatgpt.com (1442)</li>
 <li>www.linkedin.com (1308)</li>
 <li>login.microsoftonline.com (1132)</li>
 <li>www.amazon.co.uk (1034)</li>
@@ -89,13 +89,13 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li>web.whatsapp.com (619)</li>
 <li>herts.instructure.com (616)</li>
-<li>chat.openai.com (608)</li>
+<li>chat.openai.com (609)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a> (544)</li>
 <li>forms.office.com (511)</li>
 <li>feedly.com (481)</li>
 <li>drive.google.com (431)</li>
-<li>rhul.sharepoint.com (368)</li>
+<li>rhul.sharepoint.com (369)</li>
 <li>fritz.box (352)</li>
 <li>adfs.herts.ac.uk (329)</li>
 
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:09 duckduckgo.com</li>
+<ul><li> 12:59 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:59 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:59 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:59 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:59 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:59 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:59 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:40 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:40 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:40 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:36 ico.org.uk</li>
+<li> 12:36 duckduckgo.com</li>
+<li> 12:31 cobweb.com</li>
+<li> 12:31 duckduckgo.com</li>
+<li> 12:28 ico.org.uk</li>
+<li> 12:28 duckduckgo.com</li>
+<li class='same'> 12:27 duckduckgo.com</li>
+<li> 12:26 rhul.sharepoint.com</li>
+<li> 12:25 <a href="https://en.wikipedia.org/wiki/Comparison_of_document_interfaces">Comparison of document interfaces - Wikipedia</a></li>
+<li> 12:25 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
+<li> 12:25 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:25 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:25 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:25 duckduckgo.com</li>
+<li> 12:18 <a href="https://en.wikipedia.org/wiki/Serco#Leisure">Serco - Wikipedia</a></li>
+<li> 12:18 ico.org.uk</li>
+<li> 12:18 duckduckgo.com</li>
+<li> 12:17 <a href="https://en.wikipedia.org/w/index.php?title=Serco&action=edit&section=16">Editing Serco - Wikipedia</a></li>
+<li> 12:17 duckduckgo.com</li>
+<li> 12:14 ico.org.uk</li>
+<li> 12:13 <a href="https://en.wikipedia.org/wiki/Serco">Serco - Wikipedia</a></li>
+<li> 12:13 duckduckgo.com</li>
+<li> 12:13 chatgpt.com</li>
+<li> 12:13 chat.openai.com</li>
+<li> 12:09 duckduckgo.com</li>
 <li class='same'> 12:06 duckduckgo.com</li>
 <li> 12:01 ico.org.uk</li>
 <li class='same'> 12:00 ico.org.uk</li>
