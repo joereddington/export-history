@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (2430)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1455)</li>
-<li>chatgpt.com (1444)</li>
+<li>chatgpt.com (1447)</li>
 <li>www.linkedin.com (1309)</li>
 <li>login.microsoftonline.com (1134)</li>
 <li>www.amazon.co.uk (1034)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li>web.whatsapp.com (619)</li>
 <li>herts.instructure.com (616)</li>
-<li>chat.openai.com (610)</li>
+<li>chat.openai.com (611)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a> (544)</li>
 <li>forms.office.com (511)</li>
@@ -105,6 +105,33 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 24/11/25</H3>
+
+<br>
+
+<ul><li> 16:16 chatgpt.com</li>
+<li class='same'> 16:15 chatgpt.com</li>
+<li class='same'> 16:14 chatgpt.com</li>
+<li> 16:14 chat.openai.com</li>
+<li> 16:02 <a href="https://en.wikipedia.org/wiki/Wikipedia:Village_pump">Wikipedia:Village pump - Wikipedia</a></li>
+<li> 16:02 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/wiki/User_talk:RoySmith">User talk:RoySmith - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/wiki/These_aren%27t_the_droids_you%27re_looking_for">These aren't the droids you're looking for - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:49 <a href="https://en.wikipedia.org/wiki/Swedish_Transport_Agency#2015_data_leak">Swedish Transport Agency - Wikipedia</a></li>
+<li> 15:49 <a href="https://en.wikipedia.org/wiki/2015_Swedish_data_leak">Swedish Transport Agency - Wikipedia</a></li>
+<li> 15:48 <a href="https://en.wikipedia.org/wiki/Category:Data_breaches">Category:Data breaches - Wikipedia</a></li>
+<li> 15:48 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 15:48 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:48 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:48 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:48 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+</ul>
 
 <br>
 
@@ -763,7 +790,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:16 outlook.office365.com</li>
 <li> 16:16 moodle.royalholloway.ac.uk</li>
 <li> 16:15 chatgpt.com</li>
-<li> 16:15 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Replying on Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 16:15 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 16:15 <a href="https://en.wikipedia.org/wiki/Medical_data_breach">Medical data breach - Wikipedia</a></li>
 <li> 16:14 outlook.office365.com</li>
 </ul>
@@ -781,7 +808,7 @@ With number of accesses/minutes in parentheses
 <li> 15:22 login.microsoftonline.com</li>
 <li> 15:22 outlook.office365.com</li>
 <li> 15:10 chatgpt.com</li>
-<li> 15:10 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Replying on Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 15:10 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 15:09 herts365-my.sharepoint.com</li>
 <li> 15:09 eu-west.azureauth.duosecurity.com</li>
 <li> 15:09 api-b6327e78.duosecurity.com</li>
@@ -792,7 +819,7 @@ With number of accesses/minutes in parentheses
 <li> 14:49 moodle.royalholloway.ac.uk</li>
 <li> 14:49 login.microsoftonline.com</li>
 <li> 14:49 moodle.royalholloway.ac.uk</li>
-<li> 14:48 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Replying on Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 14:48 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 14:48 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 14:48 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 </ul>
@@ -803,7 +830,7 @@ With number of accesses/minutes in parentheses
 <li> 14:10 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:10 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:10 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 14:07 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Replying on Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 14:07 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 14:07 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 14:07 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 14:06 <a href="https://en.wikipedia.org/w/index.php?title=Tulip_Siddiq&curid=33131881&diff=1323393001&oldid=1323072605">Tulip Siddiq: Difference between revisions - Wikipedia</a></li>
@@ -816,7 +843,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:22 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion">Wikipedia:Articles for deletion - Wikipedia</a></li>
-<li> 11:21 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Replying on Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 11:21 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 11:14 calendar.google.com</li>
 <li> 11:03 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 11:02 webtimetables.royalholloway.ac.uk</li>
@@ -956,7 +983,7 @@ With number of accesses/minutes in parentheses
 <li> 14:41 <a href="https://en.wikipedia.org/wiki/Talk:Data_breach">Talk:Data breach - Wikipedia</a></li>
 <li> 14:41 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
 <li> 14:36 duckduckgo.com</li>
-<li> 14:31 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Replying on Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 14:31 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
 <li> 14:30 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
 <li> 14:29 <a href="https://en.wikipedia.org/wiki/Anthem_medical_data_breach">Anthem medical data breach - Wikipedia</a></li>
 <li> 14:28 <a href="https://en.wikipedia.org/wiki/Medical_data_breach#Black_market_for_health_data">Medical data breach - Wikipedia</a></li>
