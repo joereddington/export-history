@@ -74,20 +74,20 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3925)</li>
 <li>outlook.office365.com (3925)</li>
 <li>docs.google.com (2632)</li>
-<li>duckduckgo.com (2435)</li>
+<li>duckduckgo.com (2437)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1462)</li>
 <li>www.facebook.com (1455)</li>
 <li>www.linkedin.com (1312)</li>
-<li>login.microsoftonline.com (1134)</li>
+<li>login.microsoftonline.com (1135)</li>
 <li>www.amazon.co.uk (1034)</li>
 <li>calendar.google.com (1010)</li>
-<li>moodle.royalholloway.ac.uk (878)</li>
+<li>moodle.royalholloway.ac.uk (880)</li>
 <li>rhul-my.sharepoint.com (811)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (630)</li>
-<li>web.whatsapp.com (624)</li>
+<li>web.whatsapp.com (626)</li>
 <li>herts.instructure.com (616)</li>
 <li>chat.openai.com (613)</li>
 <li>github.com (552)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:08 dashboards.rhul.ac.uk</li>
+<ul><li> 16:38 web.whatsapp.com</li>
+<li> 16:32 moodle.royalholloway.ac.uk</li>
+<li> 16:32 login.microsoftonline.com</li>
+<li> 16:32 moodle.royalholloway.ac.uk</li>
+<li> 16:26 duckduckgo.com</li>
+<li> 16:25 <a href="https://en.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes%3F">Quis custodiet ipsos custodes? - Wikipedia</a></li>
+<li> 16:25 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:22 web.whatsapp.com</li>
+<li> 15:17 webtimetables.royalholloway.ac.uk</li>
+<li> 15:09 dashboards.rhul.ac.uk</li>
+<li class='same'> 15:08 dashboards.rhul.ac.uk</li>
 <li> 15:02 moodle.royalholloway.ac.uk</li>
 <li class='same'> 15:01 moodle.royalholloway.ac.uk</li>
 <li> 15:01 login.microsoftonline.com</li>
