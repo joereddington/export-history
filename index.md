@@ -73,13 +73,13 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (3999)</li>
 <li>www.google.com (3925)</li>
 <li>outlook.office365.com (3920)</li>
-<li>docs.google.com (2631)</li>
+<li>docs.google.com (2632)</li>
 <li>duckduckgo.com (2435)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1458)</li>
 <li>www.facebook.com (1455)</li>
 <li>www.linkedin.com (1310)</li>
-<li>login.microsoftonline.com (1134)</li>
+<li>login.microsoftonline.com (1133)</li>
 <li>www.amazon.co.uk (1034)</li>
 <li>calendar.google.com (998)</li>
 <li>moodle.royalholloway.ac.uk (875)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 25/11/25</H3>
+
+<br>
+
+<ul><li> 04:09 docs.google.com</li>
+</ul>
+
 <H3>Monday, 24/11/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -17422,7 +17433,6 @@ With number of accesses/minutes in parentheses
 <li> 15:17 www.microsoft.com</li>
 <li> 15:17 forms.office.com</li>
 <li> 15:17 outlook.office365.com</li>
-<li> 15:17 login.microsoftonline.com</li>
 <li> 15:14 <a href="https://en.wikipedia.org/wiki/Academy_Award_for_Best_Animated_Feature">Academy Award for Best Animated Feature - Wikipedia</a></li>
 <li> 15:13 <a href="https://en.wikipedia.org/wiki/Wallace_%26_Gromit:_Vengeance_Most_Fowl#Release">Wallace & Gromit: Vengeance Most Fowl - Wikipedia</a></li>
 <li> 15:13 <a href="https://en.wikipedia.org/wiki/Wallace_%26_Gromit:_Vengeance_Most_Fowl#Reception">Wallace & Gromit: Vengeance Most Fowl - Wikipedia</a></li>
@@ -17479,7 +17489,6 @@ With number of accesses/minutes in parentheses
 <li> 11:38 duckduckgo.com</li>
 <li> 11:37 mail.google.com</li>
 <li> 11:35 <a href="https://tex.stackexchange.com/questions/262995/how-to-check-if-the-produced-latex-pdfs-are-identical/263251#263251">pdftex - How to check if the produced LaTeX PDFs are identical? - TeX - LaTeX Stack Exchange</a></li>
-<li> 11:35 accounts.google.com</li>
 <li> 11:35 <a href="https://stackoverflow.com/questions">Recently Active Questions - Stack Overflow</a></li>
 <li> 11:35 <a href="https://stackoverflow.com/">Stack Overflow - Where Developers Learn, Share, & Build Careers</a></li>
 <li> 11:34 mail.google.com</li>
@@ -17516,10 +17525,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:38 equalitytime.github.io</li>
 <li> 10:38 outlook.office.com</li>
 <li> 10:37 mail.google.com</li>
-<li> 10:34 www.sevenrooms.com</li>
 <li> 10:33 accounts.google.com</li>
-<li> 10:33 www.sevenrooms.com</li>
-<li class='same'> 10:32 www.sevenrooms.com</li>
+<li> 10:32 www.sevenrooms.com</li>
 <li> 10:32 www.mildreds.com</li>
 <li> 10:32 duckduckgo.com</li>
 <li> 10:32 mail.google.com</li>
@@ -17607,7 +17614,6 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 16:03 <a href="https://www.theguardian.com/commentisfree/2025/aug/25/trump-staff-incompetent-sycophants">Why Trump built a staff of incompetent sycophants | Robert Reich | The Guardian</a></li>
 <li> 16:02 <a href="https://www.theguardian.com/culture/ng-interactive/2025/aug/25/best-films-of-autumn-2025-spinal-tap-julia-roberts-paul-thomas-anderson">Spinal Tap II, Julia Roberts and Paul Thomas Anderson: the best films of autumn 2025 | Autumn arts preview 2025 | The Guardian</a></li>
 <li> 15:55 <a href="https://xkcd.com/">xkcd: Repair Video</a></li>
-<li> 15:53 www.google.co.uk</li>
 <li> 15:42 www.linkedin.com</li>
 <li> 15:30 www.reddit.com</li>
 <li class='same'> 15:29 www.reddit.com</li>
@@ -17617,8 +17623,7 @@ With number of accesses/minutes in parentheses
 <li> 15:18 www.reddit.com</li>
 <li class='same'> 15:16 www.reddit.com</li>
 <li> 15:14 mail.google.com</li>
-<li> 15:08 www.google.co.uk</li>
-<li class='same'> 15:07 www.google.co.uk</li>
+<li> 15:07 www.google.co.uk</li>
 <li class='same'> 15:06 www.google.co.uk</li>
 <li class='same'> 15:04 www.google.co.uk</li>
 <li> 15:04 duckduckgo.com</li>
