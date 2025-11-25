@@ -76,24 +76,24 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2632)</li>
 <li>duckduckgo.com (2435)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1460)</li>
+<li>chatgpt.com (1462)</li>
 <li>www.facebook.com (1455)</li>
-<li>www.linkedin.com (1310)</li>
-<li>login.microsoftonline.com (1133)</li>
+<li>www.linkedin.com (1312)</li>
+<li>login.microsoftonline.com (1134)</li>
 <li>www.amazon.co.uk (1034)</li>
 <li>calendar.google.com (1010)</li>
-<li>moodle.royalholloway.ac.uk (875)</li>
+<li>moodle.royalholloway.ac.uk (878)</li>
 <li>rhul-my.sharepoint.com (811)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (630)</li>
-<li>web.whatsapp.com (623)</li>
+<li>web.whatsapp.com (624)</li>
 <li>herts.instructure.com (616)</li>
-<li>chat.openai.com (612)</li>
+<li>chat.openai.com (613)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a> (544)</li>
 <li>forms.office.com (511)</li>
-<li>feedly.com (483)</li>
+<li>feedly.com (487)</li>
 <li>drive.google.com (431)</li>
 <li>rhul.sharepoint.com (372)</li>
 <li>fritz.box (352)</li>
@@ -108,12 +108,44 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:08 dashboards.rhul.ac.uk</li>
+<li> 15:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:01 moodle.royalholloway.ac.uk</li>
+<li> 15:01 login.microsoftonline.com</li>
+<li> 15:01 moodle.royalholloway.ac.uk</li>
+<li> 14:57 <a href="https://en.wikipedia.org/wiki/Timeline_of_computing_2020%E2%80%93present">Timeline of computing 2020–present - Wikipedia</a></li>
+<li> 14:56 <a href="https://en.wikipedia.org/wiki/Digital_literacy">Digital literacy - Wikipedia</a></li>
+<li> 14:56 feedly.com</li>
+<li> 14:44 <a href="https://en.wikipedia.org/wiki/Timeline_of_computing_2020%E2%80%93present">Timeline of computing 2020–present - Wikipedia</a></li>
+<li> 14:44 <a href="https://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms">Timeline of computer viruses and worms - Wikipedia</a></li>
+<li> 14:44 <a href="https://en.wikipedia.org/wiki/Gameover_ZeuS">Gameover ZeuS - Wikipedia</a></li>
+<li> 14:43 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:43 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:43 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:43 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:43 feedly.com</li>
+<li> 14:43 www.linkedin.com</li>
+<li> 14:43 feedly.com</li>
+<li class='same'> 14:26 feedly.com</li>
+<li> 14:26 www.linkedin.com</li>
+<li> 14:25 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:25 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+</ul>
+
+<br>
+
 <ul><li> 12:06 calendar.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 11:12 chatgpt.com</li>
+<ul><li> 11:32 chatgpt.com</li>
+<li class='same'> 11:31 chatgpt.com</li>
+<li> 11:31 chat.openai.com</li>
+<li> 11:31 web.whatsapp.com</li>
+<li> 11:12 chatgpt.com</li>
 <li class='same'> 11:11 chatgpt.com</li>
 <li> 11:11 chat.openai.com</li>
 </ul>
@@ -74320,7 +74352,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:17 ico.org.uk</li>
+<ul><li> 14:31 <a href="https://en.wikipedia.org/wiki/Gameover_ZeuS">Gameover ZeuS - Wikipedia</a></li>
+<li> 14:17 ico.org.uk</li>
 <li> 14:13 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 13:46 <a href="https://en.wikipedia.org/wiki/Edward_Snowden#:~:text=Kunia%20Camp%2C%20Hawaii%2C%20U.S.&text=In%202013%2C%20while%20working%20as,He%20was%20indicted%20for%20espionage.">Edward Snowden - Wikipedia</a></li>
 <li> 13:35 www.amazon.co.uk</li>
