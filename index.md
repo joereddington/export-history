@@ -72,11 +72,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4060)</li>
 <li>www.reddit.com (3999)</li>
 <li>www.google.com (3925)</li>
-<li>outlook.office365.com (3920)</li>
+<li>outlook.office365.com (3925)</li>
 <li>docs.google.com (2632)</li>
 <li>duckduckgo.com (2435)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1458)</li>
+<li>chatgpt.com (1460)</li>
 <li>www.facebook.com (1455)</li>
 <li>www.linkedin.com (1310)</li>
 <li>login.microsoftonline.com (1133)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (630)</li>
-<li>web.whatsapp.com (622)</li>
+<li>web.whatsapp.com (623)</li>
 <li>herts.instructure.com (616)</li>
-<li>chat.openai.com (611)</li>
+<li>chat.openai.com (612)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a> (544)</li>
 <li>forms.office.com (511)</li>
@@ -105,6 +105,43 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 25/11/25</H3>
+
+<br>
+
+<ul><li> 11:12 chatgpt.com</li>
+<li class='same'> 11:11 chatgpt.com</li>
+<li> 11:11 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:40 web.whatsapp.com</li>
+<li> 10:40 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&action=history">Yahoo data breaches: Revision history - Wikipedia</a></li>
+<li> 10:40 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
+<li> 10:39 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 10:39 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#cite_note-Sandle2018-3">British Airways data breach - Wikipedia</a></li>
+<li> 10:39 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 10:35 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 10:35 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:35 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:35 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 10:35 <a href="https://en.wikipedia.org/wiki/Tulip_Siddiq">Tulip Siddiq - Wikipedia</a></li>
+<li> 10:34 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:34 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:34 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 10:34 <a href="https://en.wikipedia.org/w/index.php?title=Talk%3ADinotrux%2FGA1&oldid=prev&diff=1323916064">Talk:Dinotrux/GA1: Difference between revisions - Wikipedia</a></li>
+<li> 10:34 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Dinotrux/GA1&oldid=prev&diff=1323916064&markasread=341530116&markasreadwiki=enwiki">Talk:Dinotrux/GA1: Difference between revisions - Wikipedia</a></li>
+<li> 10:34 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 10:34 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:27 outlook.office365.com</li>
+<li class='same'> 08:26 outlook.office365.com</li>
+<li class='same'> 08:25 outlook.office365.com</li>
+<li class='same'> 08:23 outlook.office365.com</li>
+</ul>
 
 <br>
 
