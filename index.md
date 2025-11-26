@@ -74,10 +74,10 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3925)</li>
 <li>outlook.office365.com (3925)</li>
 <li>docs.google.com (2632)</li>
-<li>duckduckgo.com (2444)</li>
+<li>duckduckgo.com (2448)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1468)</li>
-<li>www.facebook.com (1455)</li>
+<li>chatgpt.com (1471)</li>
+<li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1313)</li>
 <li>login.microsoftonline.com (1134)</li>
 <li>www.amazon.co.uk (1035)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (630)</li>
-<li>web.whatsapp.com (626)</li>
+<li>web.whatsapp.com (627)</li>
 <li>herts.instructure.com (616)</li>
-<li>chat.openai.com (614)</li>
+<li>chat.openai.com (615)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a> (544)</li>
 <li>forms.office.com (511)</li>
@@ -108,7 +108,112 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:47 www.justice.gov</li>
+<ul><li> 14:39 web.whatsapp.com</li>
+<li> 14:39 <a href="https://en.wikipedia.org/wiki/Felt_(Company)">Felt (Company) - Wikipedia</a></li>
+<li> 14:39 <a href="https://en.wikipedia.org/w/index.php?title=Felt_(Company)&action=edit">Editing Felt (Company) - Wikipedia</a></li>
+<li> 14:38 <a href="https://en.wikipedia.org/wiki/Felt_(Company)">Felt (Company) - Wikipedia</a></li>
+<li> 14:38 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 14:38 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 14:38 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:38 web.archive.org</li>
+<li class='same'> 14:37 web.archive.org</li>
+<li> 14:37 <a href="https://en.wikipedia.org/wiki/Felt_(Company)#cite_note-7">Felt (Company) - Wikipedia</a></li>
+<li> 14:37 <a href="https://en.wikipedia.org/wiki/Felt_(Company)">Felt (Company) - Wikipedia</a></li>
+<li> 14:37 <a href="https://en.wikipedia.org/w/index.php?title=Felt_(Company)&oldid=1314732741">Felt (Company) - Wikipedia</a></li>
+<li> 14:37 <a href="https://en.wikipedia.org/w/index.php?title=Felt_(Company)&action=history">Felt (Company): Revision history - Wikipedia</a></li>
+<li> 14:37 <a href="https://en.wikipedia.org/wiki/Felt_(Company)">Felt (Company) - Wikipedia</a></li>
+<li> 14:35 <a href="https://en.wikipedia.org/w/index.php?title=Felt_(Company)&action=edit">Editing Felt (Company) - Wikipedia</a></li>
+<li> 14:35 <a href="https://en.wikipedia.org/wiki/Felt_(Company)?venotify=saved">Felt (Company) - Wikipedia</a></li>
+<li> 14:35 <a href="https://en.wikipedia.org/wiki/Felt_(Company)">Felt (Company) - Wikipedia</a></li>
+<li> 14:35 <a href="https://en.wikipedia.org/w/index.php?title=Felt_%28Company%29&action=edit">Felt (Company) - Wikipedia</a></li>
+<li> 14:34 <a href="https://en.wikipedia.org/w/index.php?title=Felt_%28Company%29&section=6&oldid=1324252934&action=edit">Editing Felt (Company) - Wikipedia</a></li>
+<li> 14:34 felt.com</li>
+<li> 14:34 duckduckgo.com</li>
+<li> 14:34 <a href="https://en.wikipedia.org/w/index.php?title=Felt_(Company)&action=edit&section=6">Editing Felt (Company) (section) - Wikipedia</a></li>
+<li> 14:33 geoawesome.com</li>
+<li> 14:33 <a href="https://en.wikipedia.org/wiki/Felt_(Company)#cite_note-9">Felt (Company) - Wikipedia</a></li>
+<li> 14:33 <a href="https://en.wikipedia.org/wiki/Felt_(Company)">Felt (Company) - Wikipedia</a></li>
+<li> 14:31 <a href="https://en.wikipedia.org/w/index.php?title=Felt_(Company)&action=edit&section=2">Editing Felt (Company) (section) - Wikipedia</a></li>
+<li> 14:31 duckduckgo.com</li>
+<li class='same'> 14:30 duckduckgo.com</li>
+<li> 14:30 <a href="https://en.wikipedia.org/wiki/Felt_(Company)">Felt (Company) - Wikipedia</a></li>
+<li> 14:29 <a href="https://en.wikipedia.org/w/index.php?title=Felt_(Company)&action=edit">Editing Felt (Company) - Wikipedia</a></li>
+<li> 14:28 <a href="https://en.wikipedia.org/wiki/Felt_(Company)">Felt (Company) - Wikipedia</a></li>
+<li> 14:21 <a href="https://en.wikipedia.org/wiki/Felt_(Company)?action=edit&veswitched=1">Editing Felt (Company) - Wikipedia</a></li>
+<li> 14:21 <a href="https://en.wikipedia.org/w/index.php?title=Felt_(Company)&action=edit">Editing Felt (Company) - Wikipedia</a></li>
+<li> 14:20 adblockplus.org</li>
+<li> 14:20 <a href="https://en.wikipedia.org/wiki/Felt_%28Company%29">Felt (Company) - Wikipedia</a></li>
+<li> 14:17 <a href="https://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_possible_conflicts_of_interest">Category:Wikipedia articles with possible conflicts of interest - Wikipedia</a></li>
+<li> 14:17 <a href="https://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_possible_conflicts_of_interest_from_October_2025">Category:Wikipedia articles with possible conflicts of interest from October 2025 - Wikipedia</a></li>
+<li> 14:17 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:16 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:16 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:16 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:16 <a href="https://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_possible_conflicts_of_interest_from_October_2025">Category:Wikipedia articles with possible conflicts of interest from October 2025 - Wikipedia</a></li>
+<li> 14:15 <a href="https://en.wikipedia.org/w/index.php?title=Vijen_Patel_(entrepreneur)&action=edit">Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:15 <a href="https://en.wikipedia.org/wiki/Vijen_Patel_(entrepreneur)">Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:15 <a href="https://en.wikipedia.org/w/index.php?title=Vijen_Patel_(entrepreneur)&action=edit">Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:15 <a href="https://en.wikipedia.org/wiki/Vijen_Patel_(entrepreneur)">Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:15 <a href="https://en.wikipedia.org/wiki/Talk:Vijen_Patel_(entrepreneur)#COI-DoesNotExist-DiscussionToolsHack">Talk:Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:15 <a href="https://en.wikipedia.org/wiki/Talk:Vijen_Patel_(entrepreneur)#COI">Talk:Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:13 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Vijen_Patel_(entrepreneur)&action=edit">Editing Talk:Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:13 <a href="https://en.wikipedia.org/wiki/Talk:Vijen_Patel_(entrepreneur)">Talk:Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:12 <a href="https://en.wikipedia.org/wiki/Pressbox">Pressbox - Wikipedia</a></li>
+<li> 14:12 <a href="https://en.wikipedia.org/wiki/Vijen_Patel_(entrepreneur)">Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:12 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 14:12 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 14:12 www.facebook.com</li>
+<li> 14:11 ico.org.uk</li>
+<li class='same'> 14:10 ico.org.uk</li>
+<li> 14:10 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:10 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:10 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:10 chatgpt.com</li>
+<li> 14:10 <a href="https://en.wikipedia.org/w/index.php?title=Vijen_Patel_(entrepreneur)&action=history">Vijen Patel (entrepreneur): Revision history - Wikipedia</a></li>
+<li> 14:10 <a href="https://en.wikipedia.org/wiki/Vijen_Patel_(entrepreneur)">Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:10 <a href="https://en.wikipedia.org/wiki/Talk:Vijen_Patel_(entrepreneur)">Talk:Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:09 <a href="https://en.wikipedia.org/wiki/Vijen_Patel_(entrepreneur)#Views_and_commentary">Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:08 <a href="https://en.wikipedia.org/w/index.php?title=Vijen_Patel_(entrepreneur)&action=edit&section=4">Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:08 <a href="https://en.wikipedia.org/w/index.php?title=Vijen_Patel_(entrepreneur)&action=edit&section=3">Editing Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:08 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Ethalcomb">User contributions for Ethalcomb - Wikipedia</a></li>
+<li> 14:08 <a href="https://en.wikipedia.org/wiki/User_talk:Ethalcomb">User talk:Ethalcomb - Wikipedia</a></li>
+<li> 14:08 <a href="https://en.wikipedia.org/w/index.php?title=Vijen_Patel_(entrepreneur)&action=history">Vijen Patel (entrepreneur): Revision history - Wikipedia</a></li>
+<li> 14:07 <a href="https://en.wikipedia.org/wiki/Vijen_Patel_(entrepreneur)#References">Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:07 <a href="https://en.wikipedia.org/w/index.php?title=Vijen_Patel_(entrepreneur)&action=edit&section=4">Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:06 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout#%22See_also%22_section">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
+<li> 14:06 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Layout">Wikipedia:Manual of Style/Layout - Wikipedia</a></li>
+<li> 14:06 duckduckgo.com</li>
+<li> 14:06 <a href="https://en.wikipedia.org/wiki/Pressbox">Pressbox - Wikipedia</a></li>
+<li> 14:05 <a href="https://en.wikipedia.org/wiki/Vijen_Patel_(entrepreneur)">Vijen Patel (entrepreneur) - Wikipedia</a></li>
+<li> 14:05 <a href="https://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_possible_conflicts_of_interest_from_October_2025">Category:Wikipedia articles with possible conflicts of interest from October 2025 - Wikipedia</a></li>
+<li> 14:05 <a href="https://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_possible_conflicts_of_interest">Category:Wikipedia articles with possible conflicts of interest - Wikipedia</a></li>
+<li> 14:04 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard#Sutter_Health">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 14:04 <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Conflict_of_interest/Noticeboard&action=edit&section=9">Editing Wikipedia:Conflict of interest/Noticeboard (section) - Wikipedia</a></li>
+<li> 14:04 <a href="https://en.wikipedia.org/wiki/Template:Resolved">Template:Resolved - Wikipedia</a></li>
+<li> 14:02 <a href="https://en.wikipedia.org/w/index.php?title=Philip_Owen&diff=prev&oldid=1253024152">Philip Owen: Difference between revisions - Wikipedia</a></li>
+<li> 14:01 chatgpt.com</li>
+<li class='same'> 14:00 chatgpt.com</li>
+<li> 14:00 chat.openai.com</li>
+<li> 13:58 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 13:58 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 13:58 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 13:58 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:58 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:58 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:58 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:54 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways">Talk:British Airways - Wikipedia</a></li>
+<li> 13:53 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:53 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:53 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:53 <a href="https://en.wikipedia.org/wiki/Sutter_Health">Sutter Health - Wikipedia</a></li>
+<li> 13:53 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Sutter_Health&action=history">Talk:Sutter Health: Revision history - Wikipedia</a></li>
+<li> 13:53 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:52 <a href="https://en.wikipedia.org/wiki/EgyptAir_Flight_648">EgyptAir Flight 648 - Wikipedia</a></li>
+<li> 13:49 <a href="https://en.wikipedia.org/wiki/Talk:Sutter_Health">Talk:Sutter Health - Wikipedia</a></li>
+<li> 13:49 <a href="https://en.wikipedia.org/wiki/Sutter_Health#Legal_actions">Sutter Health - Wikipedia</a></li>
+<li> 13:48 <a href="https://en.wikipedia.org/w/index.php?title=Sutter_Health&action=edit&section=12">Editing Sutter Health - Wikipedia</a></li>
+<li> 13:48 <a href="https://en.wikipedia.org/wiki/Sutter_Health">Sutter Health - Wikipedia</a></li>
+<li> 13:47 www.justice.gov</li>
 <li> 13:47 duckduckgo.com</li>
 <li> 13:47 www.kellergrover.com</li>
 <li> 13:46 www.justice.gov</li>
