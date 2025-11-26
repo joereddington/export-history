@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2632)</li>
 <li>duckduckgo.com (2437)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1464)</li>
+<li>chatgpt.com (1465)</li>
 <li>www.facebook.com (1455)</li>
 <li>www.linkedin.com (1313)</li>
 <li>login.microsoftonline.com (1132)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:46 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
+<ul><li> 11:52 chatgpt.com</li>
+<li> 11:51 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 11:51 <a href="https://en.wikipedia.org/wiki/Wikipedia:Content_assessment/B-Class_criteria">Wikipedia:Content assessment/B-Class criteria - Wikipedia</a></li>
+<li> 11:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Content_assessment">Wikipedia:Content assessment - Wikipedia</a></li>
+<li> 11:50 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 11:46 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
 <li> 11:45 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
 <li> 11:44 chatgpt.com</li>
 <li> 11:43 herts365-my.sharepoint.com</li>
