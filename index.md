@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4148)</li>
-<li>outlook.office.com (4060)</li>
+<li>outlook.office.com (4063)</li>
 <li>www.reddit.com (3999)</li>
 <li>www.google.com (3925)</li>
 <li>outlook.office365.com (3925)</li>
 <li>docs.google.com (2632)</li>
 <li>duckduckgo.com (2437)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1462)</li>
+<li>chatgpt.com (1464)</li>
 <li>www.facebook.com (1455)</li>
-<li>www.linkedin.com (1312)</li>
-<li>login.microsoftonline.com (1131)</li>
+<li>www.linkedin.com (1313)</li>
+<li>login.microsoftonline.com (1132)</li>
 <li>www.amazon.co.uk (1033)</li>
 <li>calendar.google.com (1010)</li>
 <li>moodle.royalholloway.ac.uk (879)</li>
@@ -89,14 +89,14 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li>web.whatsapp.com (626)</li>
 <li>herts.instructure.com (616)</li>
-<li>chat.openai.com (613)</li>
+<li>chat.openai.com (614)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a> (544)</li>
 <li>forms.office.com (511)</li>
 <li>feedly.com (487)</li>
 <li>drive.google.com (431)</li>
 <li>rhul.sharepoint.com (372)</li>
-<li>fritz.box (352)</li>
+<li>fritz.box (353)</li>
 <li>adfs.herts.ac.uk (329)</li>
 
 
@@ -104,7 +104,48 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 26/11/25</H3>
+
+<br>
+
+<ul><li> 11:46 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
+<li> 11:45 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 11:44 chatgpt.com</li>
+<li> 11:43 herts365-my.sharepoint.com</li>
+<li> 11:43 chatgpt.com</li>
+<li> 11:43 chat.openai.com</li>
+<li> 11:42 <a href="https://en.wikipedia.org/w/index.php?title=Talk:British_Airways_data_breach&action=edit">Editing Talk:British Airways data breach - Wikipedia</a></li>
+<li> 11:42 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 11:41 <a href="https://en.wikipedia.org/w/index.php?title=Talk%3ABritish_Airways_data_breach&diff=1259678937&oldid=1228929586">Talk:British Airways data breach: Difference between revisions - Wikipedia</a></li>
+<li> 11:41 <a href="https://en.wikipedia.org/w/index.php?title=Talk:British_Airways_data_breach&action=history">Talk:British Airways data breach: Revision history - Wikipedia</a></li>
+<li> 11:41 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 11:41 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#cite_note-Sandle2018-3">British Airways data breach - Wikipedia</a></li>
+<li> 11:40 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 11:40 herts365-my.sharepoint.com</li>
+<li> 11:40 outlook.office.com</li>
+<li> 11:40 herts365-my.sharepoint.com</li>
+<li> 11:40 outlook.office.com</li>
+<li class='same'> 11:39 outlook.office.com</li>
+<li> 11:39 m365.cloud.microsoft</li>
+<li class='same'> 11:38 m365.cloud.microsoft</li>
+<li> 11:38 login.microsoftonline.com</li>
+<li> 11:38 www.hr.herts.ac.uk</li>
+<li> 11:23 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:23 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:23 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 11:23 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 11:05 www.linkedin.com</li>
+<li> 11:05 clearpass.herts.ac.uk</li>
+<li> 11:05 detectportal.firefox.com</li>
+<li> 11:03 clearpass.herts.ac.uk</li>
+<li> 11:03 test.com</li>
+</ul>
+
 <H3>Tuesday, 25/11/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -5937,7 +5978,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:13 duckduckgo.com</li>
 <li> 21:13 fritz.box</li>
+<li> 21:13 detectportal.firefox.com</li>
+<li> 21:13 fritz.box</li>
 <li class='same'> 21:12 fritz.box</li>
+<li> 21:12 detectportal.firefox.com</li>
 </ul>
 
 <br>
@@ -6821,6 +6865,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:30 outlook.office365.com</li>
 <li> 12:30 fast.com</li>
 <li> 12:29 www.atom.com</li>
+<li> 12:29 test.com</li>
 <li> 12:28 outlook.office365.com</li>
 <li> 12:27 outlook.office.com</li>
 </ul>
@@ -8841,6 +8886,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:09 fast.com</li>
 <li> 20:09 fritz.box</li>
+<li> 20:09 detectportal.firefox.com</li>
 </ul>
 
 <br>
@@ -8865,6 +8911,7 @@ With number of accesses/minutes in parentheses
 <li> 19:23 gmail.com</li>
 <li> 19:23 fritz.box</li>
 <li class='same'> 19:22 fritz.box</li>
+<li> 19:22 detectportal.firefox.com</li>
 </ul>
 
 <br>
@@ -13427,6 +13474,7 @@ With number of accesses/minutes in parentheses
 <li> 15:49 192.168.178.57</li>
 <li class='same'> 15:48 192.168.178.57</li>
 <li> 15:48 fritz.box</li>
+<li> 15:48 detectportal.firefox.com</li>
 <li> 15:34 www.linkedin.com</li>
 <li> 15:33 <a href="https://www.theguardian.com/us-news/2025/sep/18/what-did-jimmy-kimmel-say-said-comments-about-charlie-kirk">Explainer: What did Jimmy Kimmel say about Charlie Kirk’s killing? | Trump administration | The Guardian</a></li>
 <li> 15:33 <a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a></li>
@@ -13912,6 +13960,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:00 fritz.box</li>
+<li> 18:00 detectportal.firefox.com</li>
 <li> 18:00 outlook.office365.com</li>
 <li class='same'> 17:59 outlook.office365.com</li>
 <li class='same'> 17:58 outlook.office365.com</li>
@@ -15402,6 +15451,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:15 forms.office.com</li>
 <li> 21:14 dashboards.rhul.ac.uk</li>
 <li> 21:13 fritz.box</li>
+<li> 21:13 detectportal.firefox.com</li>
 <li> 20:56 www.instagram.com</li>
 <li> 20:55 www.google.com</li>
 <li> 20:52 forms.office.com</li>
@@ -15428,9 +15478,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:21 www.coursera.org</li>
 <li> 20:06 outlook.office.com</li>
 <li> 20:03 fritz.box</li>
-<li class='same'> 20:02 fritz.box</li>
+<li> 20:03 detectportal.firefox.com</li>
+<li> 20:02 fritz.box</li>
 <li class='same'> 20:01 fritz.box</li>
 <li class='same'> 20:00 fritz.box</li>
+<li> 20:00 detectportal.firefox.com</li>
 <li> 19:56 <a href="https://www.theguardian.com/politics/2025/sep/08/several-senior-female-labour-mps-drop-out-of-party-deputy-leader-contention">Several senior female Labour MPs drop out of party deputy leader contention | Labour | The Guardian</a></li>
 <li> 19:31 www.essex.police.uk</li>
 <li> 19:24 <a href="https://www.theguardian.com/politics/2025/sep/08/who-is-in-the-running-to-be-the-next-labour-deputy-leader">Who is in the running to be the next Labour deputy leader? | Labour party deputy leadership | The Guardian</a></li>
@@ -16479,6 +16531,7 @@ With number of accesses/minutes in parentheses
 <li> 17:26 <a href="https://xkcd.com/3004/">xkcd: Wells</a></li>
 <li> 17:25 <a href="https://xkcd.com/">xkcd: Repair Video</a></li>
 <li> 17:20 fritz.box</li>
+<li> 17:20 detectportal.firefox.com</li>
 <li> 17:12 herts365-my.sharepoint.com</li>
 <li class='same'> 17:11 herts365-my.sharepoint.com</li>
 <li class='same'> 17:09 herts365-my.sharepoint.com</li>
@@ -17240,6 +17293,7 @@ With number of accesses/minutes in parentheses
 <li> 16:02 api-b6327e78.duosecurity.com</li>
 <li> 16:02 adfs.herts.ac.uk</li>
 <li> 16:01 www.atom.com</li>
+<li> 16:01 test.com</li>
 <li> 16:01 fritz.box</li>
 <li class='same'> 16:00 fritz.box</li>
 <li> 15:59 www.reddit.com</li>
@@ -17866,7 +17920,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:06 fritz.box</li>
+<ul><li> 16:06 test.com</li>
+<li> 16:06 fritz.box</li>
 <li> 16:06 chatgpt.com</li>
 <li class='same'> 15:48 chatgpt.com</li>
 <li class='same'> 15:47 chatgpt.com</li>
@@ -20535,6 +20590,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 22:15 fast.com</li>
 <li> 22:15 www.atom.com</li>
 <li> 22:14 www.reddit.com</li>
+<li> 21:59 test.com</li>
 <li> 21:59 fritz.box</li>
 <li class='same'> 21:58 fritz.box</li>
 <li class='same'> 21:57 fritz.box</li>
@@ -27593,6 +27649,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:07 outlook.office365.com</li>
 <li> 15:07 fast.com</li>
 <li> 15:07 www.atom.com</li>
+<li> 15:07 test.com</li>
+<li> 15:07 www.atom.com</li>
+<li> 15:07 test.com</li>
 <li> 15:07 outlook.office365.com</li>
 <li> 15:04 rhul-my.sharepoint.com</li>
 <li> 15:04 outlook.office365.com</li>
@@ -41817,6 +41876,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:13 192.168.1.254</li>
 <li> 18:13 fast.com</li>
 <li> 18:12 192.168.1.254</li>
+<li> 18:12 detectportal.firefox.com</li>
+<li> 18:12 192.168.1.254</li>
 <li> 18:08 outlook.office.com</li>
 <li> 18:08 moodle.royalholloway.ac.uk</li>
 <li> 18:07 rhul-my.sharepoint.com</li>
@@ -45414,8 +45475,20 @@ With number of accesses/minutes in parentheses
 <li> 11:47 chatgpt.com</li>
 <li> 11:47 chat.openai.com</li>
 <li> 11:31 www.google.co.uk</li>
+<li> 11:30 detectportal.firefox.com</li>
 <li> 11:30 10.10.10.136:8880</li>
-<li class='same'> 11:29 10.10.10.136:8880</li>
+<li> 11:30 detectportal.firefox.com</li>
+<li> 11:30 10.10.10.136:8880</li>
+<li> 11:30 detectportal.firefox.com</li>
+<li> 11:30 10.10.10.136:8880</li>
+<li> 11:30 detectportal.firefox.com</li>
+<li> 11:30 10.10.10.136:8880</li>
+<li> 11:29 detectportal.firefox.com</li>
+<li> 11:29 10.10.10.136:8880</li>
+<li> 11:29 detectportal.firefox.com</li>
+<li> 11:29 10.10.10.136:8880</li>
+<li> 11:29 detectportal.firefox.com</li>
+<li> 11:29 10.10.10.136:8880</li>
 <li> 11:08 www.evri.com</li>
 </ul>
 
@@ -46633,6 +46706,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:22 192.168.178.1</li>
 <li> 14:21 fast.com</li>
 <li> 14:21 www.atom.com</li>
+<li> 14:21 test.com</li>
 <li> 14:16 chatgpt.com</li>
 <li class='same'> 14:15 chatgpt.com</li>
 <li class='same'> 14:13 chatgpt.com</li>
