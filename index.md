@@ -74,13 +74,13 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3925)</li>
 <li>outlook.office365.com (3925)</li>
 <li>docs.google.com (2632)</li>
-<li>duckduckgo.com (2437)</li>
+<li>duckduckgo.com (2444)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1465)</li>
+<li>chatgpt.com (1468)</li>
 <li>www.facebook.com (1455)</li>
 <li>www.linkedin.com (1313)</li>
-<li>login.microsoftonline.com (1132)</li>
-<li>www.amazon.co.uk (1033)</li>
+<li>login.microsoftonline.com (1134)</li>
+<li>www.amazon.co.uk (1035)</li>
 <li>calendar.google.com (1010)</li>
 <li>moodle.royalholloway.ac.uk (879)</li>
 <li>rhul-my.sharepoint.com (807)</li>
@@ -105,6 +105,66 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 26/11/25</H3>
+
+<br>
+
+<ul><li> 13:47 www.justice.gov</li>
+<li> 13:47 duckduckgo.com</li>
+<li> 13:47 www.kellergrover.com</li>
+<li> 13:46 www.justice.gov</li>
+<li> 13:46 www.kellergrover.com</li>
+<li> 13:45 <a href="https://en.wikipedia.org/wiki/Talk:Sutter_Health#cite_note-1">Replying on Talk:Sutter Health - Wikipedia</a></li>
+<li> 13:45 <a href="https://en.wikipedia.org/wiki/Talk:Sutter_Health">Talk:Sutter Health - Wikipedia</a></li>
+<li> 13:45 <a href="https://en.wikipedia.org/wiki/Sutter_Health">Sutter Health - Wikipedia</a></li>
+<li> 13:44 <a href="https://en.wikipedia.org/wiki/Talk:EgyptAir_Flight_648">Talk:EgyptAir Flight 648 - Wikipedia</a></li>
+<li> 13:44 <a href="https://en.wikipedia.org/wiki/EgyptAir_Flight_648">EgyptAir Flight 648 - Wikipedia</a></li>
+<li class='same'> 13:43 <a href="https://en.wikipedia.org/wiki/EgyptAir_Flight_648">EgyptAir Flight 648 - Wikipedia</a></li>
+<li> 13:34 www.amazon.co.uk</li>
+<li class='same'> 13:33 www.amazon.co.uk</li>
+<li> 13:33 chatgpt.com</li>
+<li> 13:31 timesofmalta.com</li>
+<li> 13:30 <a href="https://en.wikipedia.org/w/index.php?title=EgyptAir_Flight_648&diff=1323816025&oldid=1323775500">EgyptAir Flight 648: Difference between revisions - Wikipedia</a></li>
+<li> 13:30 <a href="https://en.wikipedia.org/w/index.php?title=EgyptAir_Flight_648&action=history">EgyptAir Flight 648: Revision history - Wikipedia</a></li>
+<li> 13:30 <a href="https://en.wikipedia.org/wiki/EgyptAir_Flight_648">EgyptAir Flight 648 - Wikipedia</a></li>
+<li class='same'> 13:29 <a href="https://en.wikipedia.org/wiki/EgyptAir_Flight_648">EgyptAir Flight 648 - Wikipedia</a></li>
+<li> 13:29 <a href="https://en.wikipedia.org/wiki/User_talk:Pcpmalta">User talk:Pcpmalta - Wikipedia</a></li>
+<li> 13:29 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Pcpmalta">User contributions for Pcpmalta - Wikipedia</a></li>
+<li> 13:29 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard#Peter_Salamon">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 13:28 <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Conflict_of_interest/Noticeboard&action=edit&section=11">Editing Wikipedia:Conflict of interest/Noticeboard (section) - Wikipedia</a></li>
+<li> 13:26 <a href="https://en.wikipedia.org/wiki/Peter_Salamon">Peter Salamon - Wikipedia</a></li>
+<li> 13:22 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=4">Peter Salamon - Wikipedia</a></li>
+<li> 13:21 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=history">Peter Salamon: Revision history - Wikipedia</a></li>
+<li> 13:21 <a href="https://en.wikipedia.org/wiki/Peter_Salamon#Neural_network_ensembles">Peter Salamon - Wikipedia</a></li>
+<li> 13:20 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=8">Editing Peter Salamon - Wikipedia</a></li>
+<li> 13:20 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=6">Editing Peter Salamon - Wikipedia</a></li>
+<li> 13:19 <a href="https://en.wikipedia.org/wiki/Peter_Salamon#Selected_publications">Peter Salamon - Wikipedia</a></li>
+<li> 13:18 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=8">Editing Peter Salamon - Wikipedia</a></li>
+<li> 13:18 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=4">Peter Salamon - Wikipedia</a></li>
+<li> 13:18 duckduckgo.com</li>
+<li class='same'> 13:17 duckduckgo.com</li>
+<li> 13:17 <a href="https://en.wikipedia.org/wiki/Peter_Salamon#Finite_time_thermodynamics">Peter Salamon - Wikipedia</a></li>
+<li> 13:13 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=4">Peter Salamon - Wikipedia</a></li>
+<li> 13:06 duckduckgo.com</li>
+<li class='same'> 13:05 duckduckgo.com</li>
+<li> 13:04 <a href="https://en.wikipedia.org/wiki/Peter_Salamon">Peter Salamon - Wikipedia</a></li>
+<li> 13:04 <a href="https://en.wikipedia.org/wiki/User_talk:Explorer_Mind">User talk:Explorer Mind - Wikipedia</a></li>
+<li> 13:04 chatgpt.com</li>
+<li> 13:04 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Explorer_Mind">User contributions for Explorer Mind - Wikipedia</a></li>
+<li> 13:03 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=history">Peter Salamon: Revision history - Wikipedia</a></li>
+<li> 13:03 scholar.google.com</li>
+<li> 13:03 duckduckgo.com</li>
+<li> 13:02 chatgpt.com</li>
+<li> 13:02 <a href="https://en.wikipedia.org/wiki/Peter_Salamon">Peter Salamon - Wikipedia</a></li>
+<li> 13:02 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Mathysalamon">User contributions for Mathysalamon - Wikipedia</a></li>
+<li> 13:01 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 13:01 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest">Wikipedia:Conflict of interest - Wikipedia</a></li>
+<li> 13:01 duckduckgo.com</li>
+<li> 12:59 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 12:58 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
+<li> 12:51 m365.cloud.microsoft</li>
+<li> 12:51 login.microsoftonline.com</li>
+<li class='same'> 12:50 login.microsoftonline.com</li>
+</ul>
 
 <br>
 
