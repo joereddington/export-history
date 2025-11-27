@@ -71,18 +71,18 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4148)</li>
 <li>outlook.office.com (4065)</li>
 <li>www.reddit.com (4000)</li>
-<li>www.google.com (3927)</li>
-<li>outlook.office365.com (3925)</li>
+<li>www.google.com (3929)</li>
+<li>outlook.office365.com (3927)</li>
 <li>docs.google.com (2634)</li>
 <li>duckduckgo.com (2453)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1483)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1313)</li>
-<li>login.microsoftonline.com (1135)</li>
+<li>login.microsoftonline.com (1137)</li>
 <li>www.amazon.co.uk (1038)</li>
 <li>calendar.google.com (1013)</li>
-<li>moodle.royalholloway.ac.uk (879)</li>
+<li>moodle.royalholloway.ac.uk (882)</li>
 <li>rhul-my.sharepoint.com (807)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
@@ -108,6 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:54 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:46 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:46 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:46 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:46 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?markasread=341620665&markasreadwiki=enwiki">2023 Capita data breach - Wikipedia</a></li>
+<li> 15:46 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 15:44 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 15:30 www.herts.ac.uk</li>
+<li> 15:10 outlook.office365.com</li>
+<li> 15:10 login.microsoftonline.com</li>
+<li> 15:10 outlook.office365.com</li>
+<li> 15:09 ev.turnitinuk.com</li>
+<li class='same'> 15:08 ev.turnitinuk.com</li>
+<li class='same'> 15:07 ev.turnitinuk.com</li>
+<li> 15:05 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:04 moodle.royalholloway.ac.uk</li>
+<li> 15:04 login.microsoftonline.com</li>
+<li> 15:04 moodle.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
 <ul><li> 14:33 outlook.office.com</li>
 <li class='same'> 14:30 outlook.office.com</li>
 <li> 14:30 m365.cloud.microsoft</li>
@@ -130,11 +152,12 @@ With number of accesses/minutes in parentheses
 <li> 13:46 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 13:40 chatgpt.com</li>
 <li class='same'> 13:34 chatgpt.com</li>
+<li> 13:21 <a href="https://www.bbc.co.uk/news/articles/c1dzp050yn2o">Italian parliament unanimously votes to make femicide a crime - BBC News</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 12:48 chatgpt.com</li>
+<ul><li> 12:48 chatgpt.com</li>
 <li> 12:47 www.amazon.co.uk</li>
 <li class='same'> 12:46 www.amazon.co.uk</li>
 <li class='same'> 12:45 www.amazon.co.uk</li>
@@ -198,6 +221,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 18:43 <a href="https://www.bbc.co.uk/news/articles/c1dzp050yn2o">Italian parliament unanimously votes to make femicide a crime - BBC News</a></li>
+<li> 18:41 <a href="https://www.bbc.co.uk/news/articles/cj4w44w42j5o">Home - BBC News</a></li>
+<li> 18:41 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:41 www.google.com</li>
+</ul>
 
 <br>
 
@@ -462,7 +493,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:06 calendar.google.com</li>
+<ul><li> 12:21 www.google.com</li>
+<li> 12:06 calendar.google.com</li>
 </ul>
 
 <br>
