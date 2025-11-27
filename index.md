@@ -74,20 +74,20 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3927)</li>
 <li>outlook.office365.com (3925)</li>
 <li>docs.google.com (2633)</li>
-<li>duckduckgo.com (2448)</li>
+<li>duckduckgo.com (2451)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1473)</li>
+<li>chatgpt.com (1477)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1313)</li>
 <li>login.microsoftonline.com (1134)</li>
 <li>www.amazon.co.uk (1035)</li>
-<li>calendar.google.com (1010)</li>
+<li>calendar.google.com (1011)</li>
 <li>moodle.royalholloway.ac.uk (879)</li>
 <li>rhul-my.sharepoint.com (807)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (630)</li>
-<li>web.whatsapp.com (628)</li>
+<li>web.whatsapp.com (629)</li>
 <li>herts.instructure.com (619)</li>
 <li>chat.openai.com (616)</li>
 <li>github.com (552)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:49 herts.instructure.com</li>
+<ul><li> 11:46 www.google.co.uk</li>
+<li> 11:46 duckduckgo.com</li>
+<li class='same'> 11:45 duckduckgo.com</li>
+<li> 11:45 web.whatsapp.com</li>
+<li> 11:40 www.royalholloway.ac.uk</li>
+<li> 11:40 duckduckgo.com</li>
+<li> 11:30 calendar.google.com</li>
+<li> 11:28 chatgpt.com</li>
+<li class='same'> 11:27 chatgpt.com</li>
+<li class='same'> 11:26 chatgpt.com</li>
+<li class='same'> 11:06 chatgpt.com</li>
+<li> 10:49 herts.instructure.com</li>
 <li class='same'> 10:48 herts.instructure.com</li>
 <li> 10:48 adfs.herts.ac.uk</li>
 <li> 10:47 api-b6327e78.duosecurity.com</li>
