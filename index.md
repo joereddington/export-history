@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4148)</li>
-<li>outlook.office.com (4063)</li>
+<li>outlook.office.com (4065)</li>
 <li>www.reddit.com (4000)</li>
 <li>www.google.com (3927)</li>
 <li>outlook.office365.com (3925)</li>
 <li>docs.google.com (2634)</li>
-<li>duckduckgo.com (2452)</li>
+<li>duckduckgo.com (2453)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1480)</li>
+<li>chatgpt.com (1483)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1313)</li>
-<li>login.microsoftonline.com (1134)</li>
+<li>login.microsoftonline.com (1135)</li>
 <li>www.amazon.co.uk (1038)</li>
-<li>calendar.google.com (1011)</li>
+<li>calendar.google.com (1013)</li>
 <li>moodle.royalholloway.ac.uk (879)</li>
 <li>rhul-my.sharepoint.com (807)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:48 chatgpt.com</li>
+<ul><li> 14:33 outlook.office.com</li>
+<li class='same'> 14:30 outlook.office.com</li>
+<li> 14:30 m365.cloud.microsoft</li>
+<li class='same'> 14:29 m365.cloud.microsoft</li>
+<li> 14:29 login.microsoftonline.com</li>
+<li> 14:29 www.hr.herts.ac.uk</li>
+<li> 14:26 calendar.google.com</li>
+<li class='same'> 14:25 calendar.google.com</li>
+<li> 14:24 www.herts.ac.uk</li>
+<li> 14:24 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:48 chatgpt.com</li>
+<li> 13:46 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 13:46 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:46 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:46 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:46 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:40 chatgpt.com</li>
+<li class='same'> 13:34 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:48 chatgpt.com</li>
 <li> 12:47 www.amazon.co.uk</li>
 <li class='same'> 12:46 www.amazon.co.uk</li>
 <li class='same'> 12:45 www.amazon.co.uk</li>
