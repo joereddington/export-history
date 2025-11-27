@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3929)</li>
 <li>outlook.office365.com (3927)</li>
 <li>docs.google.com (2634)</li>
-<li>duckduckgo.com (2465)</li>
+<li>duckduckgo.com (2466)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1485)</li>
 <li>www.facebook.com (1456)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:55 duckduckgo.com</li>
+<ul><li> 18:18 <a href="https://en.wikipedia.org/wiki/The_Swiss_Family_Robinson">The Swiss Family Robinson - Wikipedia</a></li>
+<li> 18:17 <a href="https://en.wikipedia.org/wiki/Robinsonade">Robinsonade - Wikipedia</a></li>
+<li> 18:14 <a href="https://en.wikipedia.org/wiki/The_Martian_(film)">The Martian (film) - Wikipedia</a></li>
+<li> 18:13 <a href="https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Matt_Damon">List of awards and nominations received by Matt Damon - Wikipedia</a></li>
+<li> 18:13 <a href="https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Matt_Damon?wprov=srpw1_0">List of awards and nominations received by Matt Damon - Wikipedia</a></li>
+<li> 18:13 <a href="https://en.wikipedia.org/w/index.php?search=good+article+nominations&title=Special%3ASearch&ns0=1&searchToken=9iwx7jelb9yu1vprppcwqohaq">good article nominations - Search results - Wikipedia</a></li>
+<li> 18:13 <a href="https://en.wikipedia.org/w/index.php?search=good+article+nominations&title=Special%3ASearch&ns0=1">good article nominations - Search results - Wikipedia</a></li>
+<li> 18:12 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:12 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:12 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 18:12 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 18:12 duckduckgo.com</li>
+<li> 18:11 www.giantitp.com</li>
+<li> 17:55 duckduckgo.com</li>
 <li> 17:52 knowyourmeme.com</li>
 <li class='same'> 17:51 knowyourmeme.com</li>
 <li> 17:51 duckduckgo.com</li>
