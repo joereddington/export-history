@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4148)</li>
 <li>outlook.office.com (4065)</li>
-<li>www.reddit.com (4000)</li>
+<li>www.reddit.com (4001)</li>
 <li>www.google.com (3929)</li>
 <li>outlook.office365.com (3927)</li>
 <li>docs.google.com (2634)</li>
-<li>duckduckgo.com (2453)</li>
+<li>duckduckgo.com (2465)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1484)</li>
+<li>chatgpt.com (1485)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1313)</li>
 <li>login.microsoftonline.com (1137)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (630)</li>
-<li>web.whatsapp.com (629)</li>
+<li>web.whatsapp.com (630)</li>
 <li>herts.instructure.com (619)</li>
 <li>chat.openai.com (617)</li>
 <li>github.com (552)</li>
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:51 <a href="https://en.wikipedia.org/wiki/State_of_emergency">State of emergency - Wikipedia</a></li>
+<ul><li> 17:55 duckduckgo.com</li>
+<li> 17:52 knowyourmeme.com</li>
+<li class='same'> 17:51 knowyourmeme.com</li>
+<li> 17:51 duckduckgo.com</li>
+<li> 17:46 i.imgflip.com</li>
+<li> 17:46 imgflip.com</li>
+<li> 17:45 duckduckgo.com</li>
+<li class='same'> 17:44 duckduckgo.com</li>
+<li> 17:41 web.whatsapp.com</li>
+<li> 17:39 duckduckgo.com</li>
+<li class='same'> 17:38 duckduckgo.com</li>
+<li> 17:36 www.legislation.gov.uk</li>
+<li> 17:36 gdpr-info.eu</li>
+<li> 17:36 duckduckgo.com</li>
+<li class='same'> 17:35 duckduckgo.com</li>
+<li> 17:34 ico.org.uk</li>
+<li> 17:32 duckduckgo.com</li>
+<li class='same'> 17:31 duckduckgo.com</li>
+<li> 17:29 chatgpt.com</li>
+<li> 17:27 ico.org.uk</li>
+<li> 17:27 duckduckgo.com</li>
+<li> 17:25 www.reddit.com</li>
+<li> 17:25 libbyapp.com</li>
+<li> 17:22 www.royalholloway.ac.uk</li>
+<li> 17:22 duckduckgo.com</li>
+<li> 17:21 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:21 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:21 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:20 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Easternsahara">User contributions for Easternsahara - Wikipedia</a></li>
+<li> 17:20 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=history">Dinotrux: Revision history - Wikipedia</a></li>
+<li> 17:20 <a href="https://en.wikipedia.org/wiki/Dinotrux">Dinotrux - Wikipedia</a></li>
+<li> 17:20 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:20 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/w/index.php?title=Canon_EOS&action=history">Canon EOS: Revision history - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/wiki/Canon_EOS">Canon EOS - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/wiki/State_of_emergency">State of emergency - Wikipedia</a></li>
+<li> 17:07 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
+<li> 16:51 <a href="https://en.wikipedia.org/wiki/State_of_emergency">State of emergency - Wikipedia</a></li>
 <li> 16:48 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:48 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:48 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -119,7 +160,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:54 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 15:54 <a href="https://www.bbc.co.uk/news/articles/c0edw7g7z79o">Home - BBC News</a></li>
+<li> 15:54 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 15:46 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 15:46 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 15:46 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -237,7 +279,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:43 <a href="https://www.bbc.co.uk/news/articles/c1dzp050yn2o">Italian parliament unanimously votes to make femicide a crime - BBC News</a></li>
 <li> 18:41 <a href="https://www.bbc.co.uk/news/articles/cj4w44w42j5o">Home - BBC News</a></li>
-<li> 18:41 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:41 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 18:41 www.google.com</li>
 </ul>
 
@@ -3634,7 +3676,7 @@ With number of accesses/minutes in parentheses
 <li> 07:13 <a href="https://www.youtube.com/watch?v=5t1HLv3IXMM&t=156s">(14) Lego Vehicles Climb Walls - YouTube</a></li>
 <li> 07:13 <a href="https://www.youtube.com/">(36) YouTube</a></li>
 <li> 07:12 <a href="https://www.bbc.co.uk/news/articles/c5yl60yp9g6o">Chris Mason: Unpicking a messy day for the government - BBC News</a></li>
-<li> 07:08 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:08 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&wvprov=sticky-header">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
 <li> 06:57 www.theregister.com</li>
@@ -3959,7 +4001,7 @@ With number of accesses/minutes in parentheses
 <li> 14:31 <a href="https://www.bbc.co.uk/news/uk-wales-48120428">Daniel Kelley: The teen behind the cybercrime screen - BBC News</a></li>
 <li> 14:31 duckduckgo.com</li>
 <li> 14:29 <a href="https://www.bbc.co.uk/news/live/c2dr3z9egljt">New Epstein emails that mention Trump released by House Democrats - live updates - BBC News</a></li>
-<li> 14:29 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 14:29 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 14:28 outlook.office365.com</li>
 </ul>
 
@@ -26242,10 +26284,10 @@ With number of accesses/minutes in parentheses
 <li> 17:14 <a href="https://en.wikipedia.org/wiki/In_a_Perfect_World_(Kanye_West_album)">In a Perfect World (Kanye West album) - Wikipedia</a></li>
 <li> 17:14 <a href="https://en.wikipedia.org/wiki/WW3_%28Kanye_West_album%29">In a Perfect World (Kanye West album) - Wikipedia</a></li>
 <li> 17:10 <a href="https://www.bbc.co.uk/news/articles/c4gkzgqe30yo">Ukraine's sky defenders in Sumy stuck in relentless battle - BBC News</a></li>
-<li> 17:10 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:10 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 17:07 <a href="https://www.bbc.co.uk/news/articles/cn5kqe01r5zo">Manchester airport brawl began with Starbucks assault, jury hears - BBC News</a></li>
 <li> 17:06 <a href="https://www.bbc.co.uk/news/articles/cpwqy40wxw1o">Tyler Webb: Man who encouraged woman to kill herself sentenced - BBC News</a></li>
-<li> 17:06 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:06 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 17:06 web.whatsapp.com</li>
 <li> 16:57 www.paypal.com</li>
 <li> 16:56 www.reddit.com</li>
@@ -28763,8 +28805,8 @@ With number of accesses/minutes in parentheses
 <li> 20:26 www.google.com</li>
 <li> 20:26 www.reddit.com</li>
 <li> 20:26 www.google.com</li>
-<li> 20:20 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
-<li class='same'> 20:18 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 20:20 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
+<li class='same'> 20:18 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 20:18 www.google.com</li>
 </ul>
 
@@ -29412,7 +29454,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:44 www.reddit.com</li>
 <li class='same'> 21:43 www.reddit.com</li>
 <li class='same'> 21:42 www.reddit.com</li>
-<li> 21:41 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 21:41 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 21:41 www.google.com</li>
 <li> 21:41 <a href="https://www.bbc.co.uk/news/articles/cwyn2n44v9xo">Two women seriously hurt in attack involving crossbow in Leeds - BBC News</a></li>
 <li> 21:41 www.google.com</li>
@@ -31923,7 +31965,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:46 <a href="https://www.bbc.co.uk/news/articles/cdedjnw8e85o">The huge sums energy firms get to NOT provide power - BBC News</a></li>
-<li> 06:45 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:45 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 06:44 <a href="https://www.bbc.co.uk/sport/football/articles/cn8zldjnzpro">Pelly-Ruddock Mpanzu: Luton Town legend to leave the club - BBC Sport</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/world/2025/jun/09/ukraine-war-briefing-poland-airspace-russia-airstrikes">Ukraine war briefing: Poland scrambles planes to secure airspace as Russia targets western Ukraine | Ukraine | The Guardian</a></li>
 <li> 06:42 <a href="https://www.theguardian.com/world/2025/jun/08/russian-forces-closing-in-on-sumy-city-three-years-after-ukraine-forced-them-out-of-region">Russian forces closing in on Sumy city three years after Ukraine forced them out of region | Ukraine | The Guardian</a></li>
@@ -32167,7 +32209,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:28 chatgpt.com</li>
 <li> 13:28 chat.openai.com</li>
 <li> 13:08 <a href="https://www.bbc.co.uk/news/articles/c5ykel5dr62o">China's driverless lorries hope to expand - BBC News</a></li>
-<li> 13:07 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 13:07 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 13:07 <a href="https://www.bbc.co.uk/news/articles/ckgxk40ndk1o">Who will be the next Pope? Top candidates in an unpredictable process - BBC News</a></li>
 <li> 13:07 www.google.com</li>
 <li class='same'> 13:06 www.google.com</li>
@@ -32592,7 +32634,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:21 oots.fandom.com</li>
 <li> 07:21 duckduckgo.com</li>
 <li> 07:05 <a href="https://www.bbc.co.uk/news/articles/cr58pqjlnjlo">M&S hackers sent abuse and ransom demand directly to CEO - BBC News</a></li>
-<li> 07:04 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:04 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 07:03 www.reddit.com</li>
 <li class='same'> 07:02 www.reddit.com</li>
 <li class='same'> 07:01 www.reddit.com</li>
@@ -35330,7 +35372,7 @@ With number of accesses/minutes in parentheses
 <li> 07:48 sora.chatgpt.com</li>
 <li class='same'> 07:44 sora.chatgpt.com</li>
 <li> 07:23 <a href="https://www.bbc.co.uk/news/articles/c3087vlmljmo">Prince William: David Attenborough was 'inspiration' for new show - BBC News</a></li>
-<li> 07:22 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:22 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/world/2025/may/09/mexico-google-lawsuit-gulf-of-mexico">Mexico sues Google over changing Gulf of Mexico’s name for US users | Mexico | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/technology/2025/may/23/elon-musk-new-city-starbase-texas">Fear, hope and loathing in Elon Musk’s new city: ‘It’s the wild, wild west and the future’ | Elon Musk | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a></li>
@@ -35779,7 +35821,7 @@ With number of accesses/minutes in parentheses
 <li> 09:30 <a href="https://www.theguardian.com/world/live/2025/may/21/vladimir-putin-kursk-volodymyr-zelenskyy-ukraine-russia-ukraine-war-live">Russia-Ukraine war live: Putin visits Kursk region for first time since recapturing from Ukraine</a></li>
 <li> 09:30 <a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a></li>
 <li> 09:29 <a href="https://www.bbc.co.uk/news/articles/cwy33n484x0o">Trump unveils plans for 'Golden Dome' missile defence system - BBC News</a></li>
-<li> 09:29 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:29 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 09:28 www.google.com</li>
 <li> 09:26 outlook.office365.com</li>
 <li> 09:23 duckduckgo.com</li>
@@ -36118,9 +36160,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:49 <a href="https://www.bbc.co.uk/news/articles/cgr5nen5gxyo">M&S and Co-Op: BBC reporter on talking to the hackers - BBC News</a></li>
-<li> 11:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:49 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 11:49 <a href="https://www.bbc.co.uk/naidheachdan">Naidheachdan - BBC Naidheachdan</a></li>
-<li> 11:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 11:49 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/politics/2025/may/17/essex-thurrock-grays-views-brexit-eu-referendum">‘It feels like we never left’: resentment builds in one of UK’s firmest Brexit-backing areas | Brexit | The Guardian</a></li>
@@ -38462,7 +38504,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:55 outlook.office.com</li>
 <li class='same'> 15:54 outlook.office.com</li>
 <li> 15:36 <a href="https://www.bbc.co.uk/news/articles/ckgxk40ndk1o">Who will be the next Pope? Top candidates in an unpredictable process - BBC News</a></li>
-<li> 15:35 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:35 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 15:35 <a href="https://www.theguardian.com/lifeandstyle/2025/may/07/a-moment-that-changed-me-i-found-out-the-identity-of-my-troll-and-it-shook-me">A moment that changed me: I found out the identity of my troll – and it shook me | Social media | The Guardian</a></li>
 <li class='same'> 15:25 <a href="https://www.theguardian.com/lifeandstyle/2025/may/07/a-moment-that-changed-me-i-found-out-the-identity-of-my-troll-and-it-shook-me">A moment that changed me: I found out the identity of my troll – and it shook me | Social media | The Guardian</a></li>
 <li> 15:24 <a href="https://www.theguardian.com/tv-and-radio/2025/may/07/phoebe-waller-bridge-octopus-show-macauley-culkin-pizza-songs-stars-wildest-career-u-turns">From Phoebe Waller-Bridge’s octopus show to Macaulay Culkin’s pizza band: stars’ wildest career U-turns | Phoebe Waller-Bridge | The Guardian</a></li>
@@ -38568,14 +38610,14 @@ With number of accesses/minutes in parentheses
 <li> 07:45 herts.instructure.com</li>
 <li> 07:37 www.tinkercad.com</li>
 <li> 07:26 <a href="https://www.bbc.co.uk/news/articles/ckgxk40ndk1o">Who will be the next Pope? Top candidates in an unpredictable process - BBC News</a></li>
-<li> 07:25 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:25 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 07:25 www.google.com</li>
 <li> 07:14 jobs.reading.ac.uk</li>
 <li> 07:14 www.jobs.ac.uk</li>
 <li> 07:13 mail.google.com</li>
 <li> 07:12 <a href="https://www.bbc.co.uk/news/articles/cm2e2z1y1pko">GCSE results day to change for thousands of students with new app - BBC News</a></li>
 <li> 07:12 <a href="https://www.bbc.co.uk/news/articles/cly2jjg10xlo">Alicia Vikander: Oscar winner to make UK theatre debut in Ibsen's The Lady from the Sea - BBC News</a></li>
-<li> 07:11 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:11 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 07:11 outlook.office.com</li>
 <li> 07:10 feedly.com</li>
 <li> 07:05 www.instagram.com</li>
@@ -38800,7 +38842,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:03 chatgpt.com</li>
 <li> 09:01 feedly.com</li>
 <li class='same'> 09:00 feedly.com</li>
-<li> 09:00 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:00 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 08:59 mail.google.com</li>
 <li class='same'> 08:58 mail.google.com</li>
 </ul>
@@ -39171,7 +39213,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 22:00 <a href="https://www.bbc.co.uk/news/articles/cly1n7jz587o">Trump's first 100 days and the rapid remaking of a nation - BBC News</a></li>
 <li> 22:00 duckduckgo.com</li>
-<li> 22:00 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 22:00 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 21:59 www.reddit.com</li>
 <li class='same'> 21:56 www.reddit.com</li>
 <li class='same'> 21:53 www.reddit.com</li>
@@ -39891,7 +39933,7 @@ With number of accesses/minutes in parentheses
 <li> 15:32 github.com</li>
 <li> 15:32 mail.google.com</li>
 <li> 15:27 <a href="https://www.bbc.co.uk/news/live/cpvrrre4zlkt">White House blasts 'hostile' Amazon over tariffs while marking Trump’s 100 days - live updates - BBC News</a></li>
-<li> 15:27 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:27 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 15:27 mail.google.com</li>
 <li> 15:23 feedly.com</li>
 <li> 15:23 www.giantitp.com</li>
@@ -40293,7 +40335,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:16 <a href="https://www.bbc.co.uk/news/articles/cwyn2n44v9xo">Two women seriously hurt in attack involving crossbow in Leeds - BBC News</a></li>
 <li> 07:14 <a href="https://www.bbc.co.uk/news/articles/cpdzpzy1jwzo">Home needed for two killer whales stuck in shuttered zoo - BBC News</a></li>
-<li> 07:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:13 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 </ul>
 
 <br>
@@ -41557,7 +41599,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 16:02 <a href="https://www.bbc.co.uk/news/articles/cewgj1p79j4o">Man admits dangerous driving after seven officers hurt in crash - BBC News</a></li>
-<li> 16:02 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:02 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 16:02 www.google.com</li>
 </ul>
 
@@ -41578,7 +41620,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:53 <a href="https://www.bbc.co.uk/news/articles/c74z04j23pwo">The Supreme Court ruling gives clarity - now comes the hard part - BBC News</a></li>
-<li> 07:53 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:53 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 07:53 www.facebook.com</li>
 <li> 07:52 feedly.com</li>
 <li> 07:51 www.reddit.com</li>
@@ -42683,7 +42725,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 04:38 www.foxnews.com</li>
 <li class='same'> 04:37 www.foxnews.com</li>
 <li> 04:34 <a href="https://www.bbc.co.uk/news/articles/c20xxv3y9r2o">Trump has backtracked, but this is far from over - BBC News</a></li>
-<li> 04:33 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 04:33 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 04:33 <a href="https://www.bbc.co.uk/news/uk-england-merseyside-68197461">Southport: Boy still recovering months after zorb lifted by gust - BBC News</a></li>
 <li> 04:15 www.google.com</li>
 <li> 04:13 www.theguardian.com</li>
@@ -43190,7 +43232,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:25 www.reddit.com</li>
 <li> 09:12 <a href="https://www.bbc.co.uk/news/articles/cx208nkvw83o">Molly Russell: Meta and Pinterest make secret charity donation - BBC News</a></li>
 <li> 09:11 <a href="https://www.bbc.co.uk/news/articles/c77njdlvj66o">Donald Trump's tariffs have shaken the markets - how worried should we be? - BBC News</a></li>
-<li> 09:10 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:10 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 09:10 www.facebook.com</li>
 <li class='same'> 09:09 www.facebook.com</li>
 <li> 09:06 duckduckgo.com</li>
@@ -45454,7 +45496,7 @@ With number of accesses/minutes in parentheses
 <li> 21:05 web.whatsapp.com</li>
 <li> 21:05 www.theguardian.com</li>
 <li class='same'> 21:03 www.theguardian.com</li>
-<li> 21:01 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 21:01 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 21:01 www.rtings.com</li>
 <li> 21:01 duckduckgo.com</li>
 <li> 20:59 www.reddit.com</li>
@@ -58338,11 +58380,11 @@ With number of accesses/minutes in parentheses
 <li> 18:37 www.google.com</li>
 <li> 18:37 www.reddit.com</li>
 <li> 18:37 <a href="https://www.bbc.co.uk/news/articles/crr0qq491z4o">Claire Chick: Man charged with murder of Plymouth university lecturer - BBC News</a></li>
-<li> 18:36 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:36 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 18:36 <a href="https://www.bbc.co.uk/news/articles/cj48571qq7vo">'I don't want to buy a £4 coffee just so I can use the loo' - BBC News</a></li>
-<li> 18:36 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:36 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 18:35 <a href="https://www.bbc.co.uk/news/articles/c0lz69ndnreo">Nick Cave tells Desert Island Discs work repelled him after sons' deaths - BBC News</a></li>
-<li> 18:34 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 18:34 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 18:34 blog.thermoworks.com</li>
 <li> 18:12 docs.google.com</li>
 </ul>
@@ -67475,7 +67517,7 @@ With number of accesses/minutes in parentheses
 <li> 15:53 outlook.office365.com</li>
 <li class='same'> 15:46 outlook.office365.com</li>
 <li class='same'> 15:37 outlook.office365.com</li>
-<li> 15:33 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:33 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 15:33 bsky.app</li>
 <li class='same'> 15:31 bsky.app</li>
 <li> 15:30 outlook.office365.com</li>
@@ -74651,7 +74693,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:22 librarysearch.royalholloway.ac.uk</li>
 <li> 19:22 www.google.com</li>
-<li> 19:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 19:13 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 18:51 forms.office.com</li>
 <li> 18:22 dashboards.rhul.ac.uk</li>
 <li> 18:15 generalssb-prod.ec.royalholloway.ac.uk</li>
@@ -74771,7 +74813,7 @@ With number of accesses/minutes in parentheses
 <li> 10:06 rhul-my.sharepoint.com</li>
 <li class='same'> 10:05 rhul-my.sharepoint.com</li>
 <li> 10:05 rhul.sharepoint.com</li>
-<li> 09:36 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 09:36 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 09:36 www.bbc.com</li>
 </ul>
 
@@ -75155,7 +75197,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:12 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 14:12 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 </ul>
 
 <br>
@@ -75710,7 +75752,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:08 www.edx.org</li>
-<li> 17:04 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 17:04 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 16:37 forms.tvlicensing.co.uk</li>
 <li> 16:34 www.google.com</li>
 <li> 16:33 calendar.google.com</li>
@@ -75951,7 +75993,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:54 accounts.intuit.com</li>
 <li> 19:52 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
-<li> 19:52 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 19:52 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 19:52 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 </ul>
 
@@ -76011,7 +76053,7 @@ With number of accesses/minutes in parentheses
 <li> 10:26 <a href="https://en.wikipedia.org/wiki/Modernizr">Modernizr - Wikipedia</a></li>
 <li> 10:26 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 10:21 www.google.com</li>
-<li> 10:20 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 10:20 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 <li> 10:16 www.linkedin.com</li>
 <li class='same'> 10:15 www.linkedin.com</li>
 <li> 09:50 mail.google.com</li>
@@ -76921,7 +76963,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:06 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 20:06 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 </ul>
 
 <br>
@@ -78442,12 +78484,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:25 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 12:25 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 06:15 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li class='same'> 06:15 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 </ul>
 
 <H3>Wednesday, 31/07/24</H3>
@@ -78458,7 +78500,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 18:54 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li class='same'> 18:54 <a href="https://www.bbc.co.uk/news">France brings back limited military service with 3,000 volunteers next year - BBC News</a></li>
 </ul>
 
 <br>
@@ -81011,6 +81053,12 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 11:52 outlook.office.com</li>
 </ul>
 
+<br>
+
+<ul><li> 10:39 ico.org.uk</li>
+<li class='same'> 10:38 ico.org.uk</li>
+</ul>
+
 <H3>Thursday, 16/05/24</H3>
 
 <br>
@@ -81019,7 +81067,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 18:36 outlook.office.com</li>
+<ul><li> 18:36 outlook.office.com</li>
 <li class='same'> 18:35 outlook.office.com</li>
 <li class='same'> 18:33 outlook.office.com</li>
 </ul>
@@ -82659,7 +82707,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:22 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
+<ul><li> 07:47 <a href="https://en.wikipedia.org/wiki/State_of_emergency">State of emergency - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
 </ul>
 
 <H3>Sunday, 31/03/24</H3>
