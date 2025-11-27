@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4148)</li>
 <li>outlook.office.com (4063)</li>
-<li>www.reddit.com (3999)</li>
+<li>www.reddit.com (4000)</li>
 <li>www.google.com (3925)</li>
 <li>outlook.office365.com (3925)</li>
 <li>docs.google.com (2632)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:39 web.whatsapp.com</li>
+<ul><li> 14:48 www.reddit.com</li>
+<li> 14:42 www.royalholloway.ac.uk</li>
+<li> 14:39 web.whatsapp.com</li>
 <li> 14:39 <a href="https://en.wikipedia.org/wiki/Felt_(Company)">Felt (Company) - Wikipedia</a></li>
 <li> 14:39 <a href="https://en.wikipedia.org/w/index.php?title=Felt_(Company)&action=edit">Editing Felt (Company) - Wikipedia</a></li>
 <li> 14:38 <a href="https://en.wikipedia.org/wiki/Felt_(Company)">Felt (Company) - Wikipedia</a></li>
