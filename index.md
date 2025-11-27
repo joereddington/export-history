@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2633)</li>
 <li>duckduckgo.com (2448)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1471)</li>
+<li>chatgpt.com (1473)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1313)</li>
 <li>login.microsoftonline.com (1134)</li>
@@ -87,9 +87,9 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (647)</li>
 <li>tvtropes.org (630)</li>
-<li>web.whatsapp.com (627)</li>
-<li>herts.instructure.com (616)</li>
-<li>chat.openai.com (615)</li>
+<li>web.whatsapp.com (628)</li>
+<li>herts.instructure.com (619)</li>
+<li>chat.openai.com (616)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a> (544)</li>
 <li>forms.office.com (511)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (431)</li>
 <li>rhul.sharepoint.com (372)</li>
 <li>fritz.box (353)</li>
-<li>adfs.herts.ac.uk (329)</li>
+<li>adfs.herts.ac.uk (331)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,31 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 27/11/25</H3>
+
+<br>
+
+<ul><li> 10:49 herts.instructure.com</li>
+<li class='same'> 10:48 herts.instructure.com</li>
+<li> 10:48 adfs.herts.ac.uk</li>
+<li> 10:47 api-b6327e78.duosecurity.com</li>
+<li> 10:47 adfs.herts.ac.uk</li>
+<li> 10:47 herts.instructure.com</li>
+<li> 10:45 chatgpt.com</li>
+<li class='same'> 10:44 chatgpt.com</li>
+<li> 10:44 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:27 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Mathysalamon">User contributions for Mathysalamon - Wikipedia</a></li>
+<li> 09:27 <a href="https://en.wikipedia.org/wiki/Special:DeletedContributions/Mathysalamon">Permission error - Wikipedia</a></li>
+<li> 09:26 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 09:26 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:26 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:26 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 09:26 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 09:25 web.whatsapp.com</li>
+</ul>
 
 <br>
 
