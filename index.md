@@ -73,14 +73,14 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (4000)</li>
 <li>www.google.com (3927)</li>
 <li>outlook.office365.com (3925)</li>
-<li>docs.google.com (2633)</li>
-<li>duckduckgo.com (2451)</li>
+<li>docs.google.com (2634)</li>
+<li>duckduckgo.com (2452)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1477)</li>
+<li>chatgpt.com (1480)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1313)</li>
 <li>login.microsoftonline.com (1134)</li>
-<li>www.amazon.co.uk (1035)</li>
+<li>www.amazon.co.uk (1038)</li>
 <li>calendar.google.com (1011)</li>
 <li>moodle.royalholloway.ac.uk (879)</li>
 <li>rhul-my.sharepoint.com (807)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 27/11/25</H3>
+
+<br>
+
+<ul><li> 12:48 chatgpt.com</li>
+<li> 12:47 www.amazon.co.uk</li>
+<li class='same'> 12:46 www.amazon.co.uk</li>
+<li class='same'> 12:45 www.amazon.co.uk</li>
+<li> 12:45 duckduckgo.com</li>
+<li> 12:44 docs.google.com</li>
+<li> 12:44 doodle.com</li>
+<li class='same'> 12:43 doodle.com</li>
+<li> 12:39 chatgpt.com</li>
+<li class='same'> 12:23 chatgpt.com</li>
+</ul>
 
 <br>
 
