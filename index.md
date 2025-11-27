@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2634)</li>
 <li>duckduckgo.com (2453)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1483)</li>
+<li>chatgpt.com (1484)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1313)</li>
 <li>login.microsoftonline.com (1137)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li>web.whatsapp.com (629)</li>
 <li>herts.instructure.com (619)</li>
-<li>chat.openai.com (616)</li>
+<li>chat.openai.com (617)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a> (544)</li>
 <li>forms.office.com (511)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 27/11/25</H3>
+
+<br>
+
+<ul><li> 16:51 <a href="https://en.wikipedia.org/wiki/State_of_emergency">State of emergency - Wikipedia</a></li>
+<li> 16:48 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:48 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:48 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:48 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:47 chatgpt.com</li>
+<li> 16:47 chat.openai.com</li>
+</ul>
 
 <br>
 
