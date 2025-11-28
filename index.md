@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4152)</li>
+<ol><li>mail.google.com (4160)</li>
 <li>outlook.office.com (4065)</li>
 <li>www.reddit.com (4003)</li>
-<li>www.google.com (3930)</li>
+<li>www.google.com (3931)</li>
 <li>outlook.office365.com (3929)</li>
 <li>docs.google.com (2635)</li>
-<li>duckduckgo.com (2472)</li>
+<li>duckduckgo.com (2474)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1490)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1314)</li>
-<li>login.microsoftonline.com (1137)</li>
-<li>www.amazon.co.uk (1039)</li>
+<li>www.linkedin.com (1316)</li>
+<li>login.microsoftonline.com (1138)</li>
+<li>www.amazon.co.uk (1042)</li>
 <li>calendar.google.com (1014)</li>
-<li>moodle.royalholloway.ac.uk (882)</li>
+<li>moodle.royalholloway.ac.uk (884)</li>
 <li>rhul-my.sharepoint.com (807)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (648)</li>
-<li>web.whatsapp.com (631)</li>
+<li>gmail.com (652)</li>
+<li>web.whatsapp.com (632)</li>
 <li>tvtropes.org (630)</li>
 <li>herts.instructure.com (619)</li>
 <li>chat.openai.com (618)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (545)</li>
 <li>forms.office.com (511)</li>
-<li>feedly.com (488)</li>
-<li>drive.google.com (432)</li>
+<li>feedly.com (491)</li>
+<li>drive.google.com (433)</li>
 <li>rhul.sharepoint.com (372)</li>
 <li>fritz.box (353)</li>
 <li>adfs.herts.ac.uk (331)</li>
@@ -108,7 +108,51 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:47 online.unity.co.uk</li>
+<ul><li> 12:41 web.whatsapp.com</li>
+<li> 12:41 mail.google.com</li>
+<li> 12:41 gmail.com</li>
+<li> 12:37 www.amazon.co.uk</li>
+<li class='same'> 12:36 www.amazon.co.uk</li>
+<li> 12:36 mail.google.com</li>
+<li> 12:36 gmail.com</li>
+<li> 12:36 www.amazon.co.uk</li>
+<li> 12:34 qmucu.org</li>
+<li> 12:33 feedly.com</li>
+<li> 12:33 www.linkedin.com</li>
+<li> 12:24 mail.google.com</li>
+<li> 12:22 petapixel.com</li>
+<li> 12:18 feedly.com</li>
+<li> 12:18 www.linkedin.com</li>
+<li> 12:18 feedly.com</li>
+<li> 12:18 www.google.com</li>
+<li> 12:18 duckduckgo.com</li>
+<li> 12:18 www.thenec.co.uk</li>
+<li> 12:18 duckduckgo.com</li>
+<li> 12:18 mail.google.com</li>
+<li class='same'> 12:17 mail.google.com</li>
+<li> 12:09 moodle.royalholloway.ac.uk</li>
+<li> 12:09 login.microsoftonline.com</li>
+<li> 12:09 moodle.royalholloway.ac.uk</li>
+<li> 12:03 mail.google.com</li>
+<li> 12:02 drive.google.com</li>
+<li> 12:00 qbo.intuit.com</li>
+<li class='same'> 11:59 qbo.intuit.com</li>
+<li class='same'> 11:58 qbo.intuit.com</li>
+<li> 11:57 online.unity.co.uk</li>
+<li> 11:53 qbo.intuit.com</li>
+<li class='same'> 11:52 qbo.intuit.com</li>
+<li> 11:52 c14.qbo.intuit.com</li>
+<li> 11:52 app.qbo.intuit.com</li>
+<li> 11:52 online.unity.co.uk</li>
+<li class='same'> 11:51 online.unity.co.uk</li>
+<li> 11:51 mail.google.com</li>
+<li> 11:51 gmail.com</li>
+<li> 11:51 mail.google.com</li>
+<li> 11:51 gmail.com</li>
+<li> 11:51 online.unity.co.uk</li>
+<li class='same'> 11:50 online.unity.co.uk</li>
+<li class='same'> 11:49 online.unity.co.uk</li>
+<li class='same'> 11:47 online.unity.co.uk</li>
 <li> 11:45 qbo.intuit.com</li>
 <li> 11:43 online.unity.co.uk</li>
 <li> 11:43 qbo.intuit.com</li>
