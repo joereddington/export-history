@@ -74,9 +74,9 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3929)</li>
 <li>outlook.office365.com (3927)</li>
 <li>docs.google.com (2634)</li>
-<li>duckduckgo.com (2466)</li>
+<li>duckduckgo.com (2470)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1485)</li>
+<li>chatgpt.com (1488)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1313)</li>
 <li>login.microsoftonline.com (1137)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li>web.whatsapp.com (630)</li>
 <li>herts.instructure.com (619)</li>
-<li>chat.openai.com (617)</li>
+<li>chat.openai.com (618)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Jeeves Again review – new Jeeves and Wooster stories by celebrity fans | Short stories | The Guardian</a> (544)</li>
 <li>forms.office.com (511)</li>
@@ -104,7 +104,74 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 28/11/25</H3>
+
+<br>
+
+<ul><li> 06:42 chatgpt.com</li>
+<li> 06:42 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:41 <a href="https://en.wikipedia.org/wiki/Full_disclosure_(computer_security)">Full disclosure (computer security) - Wikipedia</a></li>
+<li> 06:41 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=Tommy_Robinson&curid=32537879&diff=1324490149&oldid=1321295282">Tommy Robinson: Difference between revisions - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=Issa_Batarseh&oldid=1318174913">Issa Batarseh - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=Issa_Batarseh&action=history">Issa Batarseh: Revision history - Wikipedia</a></li>
+<li> 06:38 <a href="https://en.wikipedia.org/wiki/Issa_Batarseh">Issa Batarseh - Wikipedia</a></li>
+<li> 06:38 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Explorer_Mind">User contributions for Explorer Mind - Wikipedia</a></li>
+<li> 06:38 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&oldid=1309040458">Peter Salamon - Wikipedia</a></li>
+<li> 06:38 <a href="https://en.wikipedia.org/wiki/Special:Contributions/TSRC_Mark">User contributions for TSRC Mark - Wikipedia</a></li>
+<li> 06:38 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=history">Peter Salamon: Revision history - Wikipedia</a></li>
+<li> 06:37 <a href="https://en.wikipedia.org/wiki/Peter_Salamon">Peter Salamon - Wikipedia</a></li>
+<li> 06:37 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=history">Peter Salamon: Revision history - Wikipedia</a></li>
+<li> 06:37 <a href="https://en.wikipedia.org/wiki/Peter_Salamon#Research_work">Peter Salamon - Wikipedia</a></li>
+<li> 06:35 <a href="https://en.wikipedia.org/wiki/Wikipedia:Coatrack_articles">Wikipedia:Coatrack articles - Wikipedia</a></li>
+<li> 06:35 duckduckgo.com</li>
+<li> 06:34 <a href="https://en.wikipedia.org/wiki/Simulated_annealing">Simulated annealing - Wikipedia</a></li>
+<li> 06:34 duckduckgo.com</li>
+<li> 06:33 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=3">Editing Peter Salamon - Wikipedia</a></li>
+<li> 06:32 www.google.co.uk</li>
+<li> 06:31 <a href="https://en.wikipedia.org/wiki/Peter_Salamon#Research_work">Peter Salamon - Wikipedia</a></li>
+<li> 06:30 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=6">Peter Salamon - Wikipedia</a></li>
+<li> 06:30 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=3">Editing Peter Salamon - Wikipedia</a></li>
+<li> 06:29 arxiv.org</li>
+<li> 06:29 duckduckgo.com</li>
+<li> 06:27 <a href="https://en.wikipedia.org/wiki/Peter_Salamon#Neural_network_ensembles">Peter Salamon - Wikipedia</a></li>
+<li> 06:27 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=6">Peter Salamon - Wikipedia</a></li>
+<li> 06:27 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=5">Peter Salamon - Wikipedia</a></li>
+<li> 06:25 chatgpt.com</li>
+<li> 06:24 <a href="https://en.wikipedia.org/wiki/Neural_network_(machine_learning)">Neural network (machine learning) - Wikipedia</a></li>
+<li> 06:24 <a href="https://en.wikipedia.org/wiki/Neural_network">Neural network - Wikipedia</a></li>
+<li> 06:24 duckduckgo.com</li>
+<li> 06:23 <a href="https://en.wikipedia.org/wiki/Peter_Salamon#Biomathematics">Peter Salamon - Wikipedia</a></li>
+<li> 06:22 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=5">Peter Salamon - Wikipedia</a></li>
+<li> 06:22 scholar.google.com</li>
+<li> 06:21 pmc.ncbi.nlm.nih.gov</li>
+<li> 06:21 <a href="https://en.wikipedia.org/wiki/Peter_Salamon#cite_note-13">Peter Salamon - Wikipedia</a></li>
+<li> 06:20 www.sdsu.edu</li>
+<li> 06:19 <a href="https://en.wikipedia.org/wiki/Peter_Salamon">Peter Salamon - Wikipedia</a></li>
+<li> 06:19 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 06:19 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 06:19 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 06:19 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 06:18 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:18 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:18 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:18 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:18 chatgpt.com</li>
+<li> 06:18 chat.openai.com</li>
+</ul>
+
 <H3>Thursday, 27/11/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -433,7 +500,7 @@ With number of accesses/minutes in parentheses
 <li> 13:21 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=history">Peter Salamon: Revision history - Wikipedia</a></li>
 <li> 13:21 <a href="https://en.wikipedia.org/wiki/Peter_Salamon#Neural_network_ensembles">Peter Salamon - Wikipedia</a></li>
 <li> 13:20 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=8">Editing Peter Salamon - Wikipedia</a></li>
-<li> 13:20 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=6">Editing Peter Salamon - Wikipedia</a></li>
+<li> 13:20 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=6">Peter Salamon - Wikipedia</a></li>
 <li> 13:19 <a href="https://en.wikipedia.org/wiki/Peter_Salamon#Selected_publications">Peter Salamon - Wikipedia</a></li>
 <li> 13:18 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=8">Editing Peter Salamon - Wikipedia</a></li>
 <li> 13:18 <a href="https://en.wikipedia.org/w/index.php?title=Peter_Salamon&action=edit&section=4">Peter Salamon - Wikipedia</a></li>
@@ -74660,6 +74727,7 @@ With number of accesses/minutes in parentheses
 <li> 18:22 www.natwest.com</li>
 <li> 18:21 <a href="https://en.wikipedia.org/wiki/Information_security#Threats">Information security - Wikipedia</a></li>
 <li> 18:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&action=edit&section=3">Editing Information security (section) - Wikipedia</a></li>
+<li> 18:19 <a href="https://en.wikipedia.org/wiki/Full_disclosure_(computer_security)">Full disclosure (computer security) - Wikipedia</a></li>
 <li> 18:18 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
 <li> 18:18 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
 <li> 18:12 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion">Wikipedia:Articles for deletion - Wikipedia</a></li>
