@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4148)</li>
 <li>outlook.office.com (4065)</li>
-<li>www.reddit.com (4001)</li>
-<li>www.google.com (3929)</li>
+<li>www.reddit.com (4002)</li>
+<li>www.google.com (3930)</li>
 <li>outlook.office365.com (3927)</li>
 <li>docs.google.com (2634)</li>
-<li>duckduckgo.com (2470)</li>
+<li>duckduckgo.com (2471)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1488)</li>
+<li>chatgpt.com (1490)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1313)</li>
 <li>login.microsoftonline.com (1137)</li>
 <li>www.amazon.co.uk (1038)</li>
-<li>calendar.google.com (1013)</li>
+<li>calendar.google.com (1014)</li>
 <li>moodle.royalholloway.ac.uk (882)</li>
 <li>rhul-my.sharepoint.com (807)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:42 chatgpt.com</li>
+<ul><li> 07:40 libbyapp.com</li>
+<li> 07:40 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:35 duckduckgo.com</li>
+<li> 07:10 chatgpt.com</li>
+<li class='same'> 07:09 chatgpt.com</li>
+<li> 07:03 libbyapp.com</li>
+<li> 07:03 www.reddit.com</li>
+<li> 07:02 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:02 <a href="https://en.wikipedia.org/w/index.php?title=Main_Page&action=history">Main Page: Revision history - Wikipedia</a></li>
+<li> 07:01 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:01 www.google.com</li>
+<li> 07:01 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:01 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:01 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:00 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:59 calendar.google.com</li>
+<li> 06:54 ico.org.uk</li>
+<li class='same'> 06:53 ico.org.uk</li>
+<li> 06:53 icosearch.ico.org.uk</li>
+<li> 06:53 ico.org.uk</li>
+<li> 06:52 i.kym-cdn.com</li>
+<li> 06:52 knowyourmeme.com</li>
+<li> 06:50 ico.org.uk</li>
+<li class='same'> 06:49 ico.org.uk</li>
+<li> 06:42 chatgpt.com</li>
 <li> 06:42 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 06:41 <a href="https://en.wikipedia.org/wiki/Full_disclosure_(computer_security)">Full disclosure (computer security) - Wikipedia</a></li>
 <li> 06:41 <a href="https://en.wikipedia.org/wiki/Data_breach">Data breach - Wikipedia</a></li>
