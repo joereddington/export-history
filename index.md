@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4165)</li>
+<ol><li>mail.google.com (4167)</li>
 <li>outlook.office.com (4065)</li>
 <li>www.reddit.com (4003)</li>
 <li>www.google.com (3932)</li>
 <li>outlook.office365.com (3929)</li>
-<li>docs.google.com (2637)</li>
+<li>docs.google.com (2638)</li>
 <li>duckduckgo.com (2482)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1493)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (884)</li>
 <li>rhul-my.sharepoint.com (807)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (653)</li>
+<li>gmail.com (654)</li>
 <li>web.whatsapp.com (632)</li>
 <li>tvtropes.org (630)</li>
 <li>chat.openai.com (620)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:11 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux/GA1">Talk:Dinotrux/GA1 - Wikipedia</a></li>
+<ul><li> 09:53 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Dinotrux/GA1&action=edit">Editing Talk:Dinotrux/GA1 - Wikipedia</a></li>
+<li> 09:52 mail.google.com</li>
+<li class='same'> 09:32 mail.google.com</li>
+<li> 09:32 gmail.com</li>
+<li> 09:26 qbo.intuit.com</li>
+<li class='same'> 09:25 qbo.intuit.com</li>
+<li class='same'> 09:24 qbo.intuit.com</li>
+<li> 09:21 docs.google.com</li>
+<li> 09:19 qbo.intuit.com</li>
+<li> 09:11 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux/GA1">Talk:Dinotrux/GA1 - Wikipedia</a></li>
 <li> 09:05 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Dinotrux/GA1&action=edit">Editing Talk:Dinotrux/GA1 - Wikipedia</a></li>
 <li> 09:04 <a href="https://en.wikipedia.org/wiki/Template:GATable">Template:GATable - Wikipedia</a></li>
 <li> 09:03 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux/GA1">Talk:Dinotrux/GA1 - Wikipedia</a></li>
