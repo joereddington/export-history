@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4160)</li>
 <li>outlook.office.com (4065)</li>
 <li>www.reddit.com (4003)</li>
-<li>www.google.com (3931)</li>
+<li>www.google.com (3932)</li>
 <li>outlook.office365.com (3929)</li>
-<li>docs.google.com (2635)</li>
-<li>duckduckgo.com (2474)</li>
+<li>docs.google.com (2636)</li>
+<li>duckduckgo.com (2476)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1490)</li>
+<li>chatgpt.com (1491)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1316)</li>
 <li>login.microsoftonline.com (1138)</li>
@@ -88,15 +88,15 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (652)</li>
 <li>web.whatsapp.com (632)</li>
 <li>tvtropes.org (630)</li>
+<li>chat.openai.com (619)</li>
 <li>herts.instructure.com (619)</li>
-<li>chat.openai.com (618)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (545)</li>
 <li>forms.office.com (511)</li>
 <li>feedly.com (491)</li>
 <li>drive.google.com (433)</li>
 <li>rhul.sharepoint.com (372)</li>
-<li>fritz.box (353)</li>
+<li>fritz.box (356)</li>
 <li>adfs.herts.ac.uk (331)</li>
 
 
@@ -104,7 +104,39 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 29/11/25</H3>
+
+<br>
+
+<ul><li> 00:17 docs.google.com</li>
+</ul>
+
 <H3>Friday, 28/11/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 19:47 www.romspedia.com</li>
+<li> 19:47 www.emuparadise.me</li>
+<li class='same'> 19:46 www.emuparadise.me</li>
+<li> 19:46 duckduckgo.com</li>
+<li> 19:23 chatgpt.com</li>
+<li> 19:23 chat.openai.com</li>
+<li> 19:23 duckduckgo.com</li>
+<li> 19:23 fritz.box</li>
+<li> 19:23 detectportal.firefox.com</li>
+<li> 19:23 fritz.box</li>
+<li class='same'> 19:22 fritz.box</li>
+<li> 19:22 detectportal.firefox.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:03 www.google.com</li>
+</ul>
 
 <br>
 
