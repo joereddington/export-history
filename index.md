@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4160)</li>
+<ol><li>mail.google.com (4164)</li>
 <li>outlook.office.com (4065)</li>
 <li>www.reddit.com (4003)</li>
 <li>www.google.com (3932)</li>
 <li>outlook.office365.com (3929)</li>
 <li>docs.google.com (2636)</li>
-<li>duckduckgo.com (2476)</li>
+<li>duckduckgo.com (2477)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1491)</li>
 <li>www.facebook.com (1456)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (884)</li>
 <li>rhul-my.sharepoint.com (807)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (652)</li>
+<li>gmail.com (653)</li>
 <li>web.whatsapp.com (632)</li>
 <li>tvtropes.org (630)</li>
 <li>chat.openai.com (619)</li>
@@ -105,6 +105,54 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 29/11/25</H3>
+
+<br>
+
+<ul><li> 07:08 qbo.intuit.com</li>
+<li class='same'> 07:07 qbo.intuit.com</li>
+<li class='same'> 07:05 qbo.intuit.com</li>
+<li class='same'> 07:04 qbo.intuit.com</li>
+<li> 07:04 online.unity.co.uk</li>
+<li class='same'> 07:03 online.unity.co.uk</li>
+<li> 07:02 qbo.intuit.com</li>
+<li> 07:01 financialdocument.platform.intuit.com</li>
+<li> 07:01 qbo.intuit.com</li>
+<li class='same'> 06:59 qbo.intuit.com</li>
+<li> 06:59 app.qbo.intuit.com</li>
+<li> 06:59 c14.qbo.intuit.com</li>
+<li> 06:59 duckduckgo.com</li>
+<li> 06:57 qbo.intuit.com</li>
+<li class='same'> 06:56 qbo.intuit.com</li>
+<li class='same'> 06:53 qbo.intuit.com</li>
+<li class='same'> 06:52 qbo.intuit.com</li>
+<li> 06:51 mail.google.com</li>
+<li class='same'> 06:50 mail.google.com</li>
+<li> 06:49 qbo.intuit.com</li>
+<li class='same'> 06:47 qbo.intuit.com</li>
+<li class='same'> 06:45 qbo.intuit.com</li>
+<li class='same'> 06:39 qbo.intuit.com</li>
+<li class='same'> 06:38 qbo.intuit.com</li>
+<li class='same'> 06:37 qbo.intuit.com</li>
+<li> 06:37 www.paypal.com</li>
+<li> 06:36 mail.google.com</li>
+<li> 06:34 qbo.intuit.com</li>
+<li> 06:34 mail.google.com</li>
+<li> 06:34 gmail.com</li>
+<li> 06:34 qbo.intuit.com</li>
+<li class='same'> 06:33 qbo.intuit.com</li>
+<li> 06:33 app.qbo.intuit.com</li>
+<li> 06:33 c14.qbo.intuit.com</li>
+<li> 06:32 www.paypal.com</li>
+<li class='same'> 06:31 www.paypal.com</li>
+<li class='same'> 06:30 www.paypal.com</li>
+<li class='same'> 06:29 www.paypal.com</li>
+<li> 06:29 qbo.intuit.com</li>
+<li class='same'> 06:28 qbo.intuit.com</li>
+<li> 06:28 accounts.intuit.com</li>
+<li> 06:28 app.qbo.intuit.com</li>
+<li> 06:28 c14.qbo.intuit.com</li>
+<li> 06:26 petapixel.com</li>
+</ul>
 
 <br>
 
@@ -73911,6 +73959,7 @@ With number of accesses/minutes in parentheses
 <li> 10:21 drive.google.com</li>
 <li> 10:21 docs.google.com</li>
 <li> 10:18 qbo.intuit.com</li>
+<li class='same'> 10:17 qbo.intuit.com</li>
 <li class='same'> 10:16 qbo.intuit.com</li>
 <li> 10:16 online.unity.co.uk</li>
 <li> 10:15 qbo.intuit.com</li>
@@ -79707,10 +79756,14 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:55 github.com</li>
 <li> 07:51 qbo.intuit.com</li>
 <li> 07:35 equalitytime.github.io</li>
-<li> 07:12 qbo.intuit.com</li>
+<li> 07:16 qbo.intuit.com</li>
+<li class='same'> 07:12 qbo.intuit.com</li>
 <li class='same'> 07:11 qbo.intuit.com</li>
+<li class='same'> 07:10 qbo.intuit.com</li>
+<li class='same'> 07:01 qbo.intuit.com</li>
 <li> 07:01 equalitytime.github.io</li>
-<li> 06:59 qbo.intuit.com</li>
+<li> 07:00 qbo.intuit.com</li>
+<li class='same'> 06:59 qbo.intuit.com</li>
 </ul>
 
 <H3>Wednesday, 03/07/24</H3>
