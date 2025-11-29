@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4167)</li>
+<ol><li>mail.google.com (4168)</li>
 <li>outlook.office.com (4065)</li>
 <li>www.reddit.com (4004)</li>
 <li>www.google.com (3938)</li>
@@ -134,11 +134,19 @@ With number of accesses/minutes in parentheses
 <li> 10:34 <a href="https://www.bbc.co.uk/news/articles/cdxweyy157go">BBC - Home</a></li>
 <li> 10:34 www.google.com</li>
 <li> 10:34 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
-</ul>
-
-<br>
-
-<ul><li> 09:53 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Dinotrux/GA1&action=edit">Editing Talk:Dinotrux/GA1 - Wikipedia</a></li>
+<li> 10:28 accounts.intuit.com</li>
+<li> 10:05 mail.google.com</li>
+<li> 10:05 <a href="https://en.wikipedia.org/wiki/Isa_Chandra_Moskowitz">Isa Chandra Moskowitz - Wikipedia</a></li>
+<li> 10:04 <a href="https://en.wikipedia.org/w/index.php?title=Isa_Chandra_Moskowitz&action=history">Isa Chandra Moskowitz: Revision history - Wikipedia</a></li>
+<li> 10:04 <a href="https://en.wikipedia.org/w/index.php?title=Isa_Chandra_Moskowitz&curid=4462109&diff=1324687612&oldid=1321092840">Isa Chandra Moskowitz: Difference between revisions - Wikipedia</a></li>
+<li> 10:04 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:03 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:03 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 10:03 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Talk:Dinotrux - Wikipedia</a></li>
+<li> 10:03 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux/GA1">Talk:Dinotrux/GA1 - Wikipedia</a></li>
+<li> 10:00 <a href="https://en.wikipedia.org/wiki/Wikipedia:Reviewing_good_articles">Wikipedia:Reviewing good articles - Wikipedia</a></li>
+<li> 10:00 <a href="https://en.wikipedia.org/wiki/Wikipedia:RGA">Wikipedia:Reviewing good articles - Wikipedia</a></li>
+<li> 09:53 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Dinotrux/GA1&action=edit">Editing Talk:Dinotrux/GA1 - Wikipedia</a></li>
 <li> 09:52 mail.google.com</li>
 <li class='same'> 09:32 mail.google.com</li>
 <li> 09:32 gmail.com</li>
