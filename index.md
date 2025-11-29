@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4164)</li>
+<ol><li>mail.google.com (4165)</li>
 <li>outlook.office.com (4065)</li>
 <li>www.reddit.com (4003)</li>
 <li>www.google.com (3932)</li>
 <li>outlook.office365.com (3929)</li>
 <li>docs.google.com (2636)</li>
-<li>duckduckgo.com (2477)</li>
+<li>duckduckgo.com (2481)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1491)</li>
 <li>www.facebook.com (1456)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:08 qbo.intuit.com</li>
+<ul><li> 08:09 accounts.intuit.com</li>
+<li class='same'> 08:05 accounts.intuit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:26 mail.google.com</li>
+<li> 07:22 ifs.org.uk</li>
+<li> 07:22 duckduckgo.com</li>
+<li> 07:20 medium.com</li>
+<li> 07:19 duckduckgo.com</li>
+<li> 07:19 www.ukgrantmaking.org</li>
+<li> 07:19 duckduckgo.com</li>
+<li class='same'> 07:18 duckduckgo.com</li>
+<li> 07:08 qbo.intuit.com</li>
 <li class='same'> 07:07 qbo.intuit.com</li>
 <li class='same'> 07:05 qbo.intuit.com</li>
 <li class='same'> 07:04 qbo.intuit.com</li>
