@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4168)</li>
 <li>outlook.office.com (4065)</li>
 <li>www.reddit.com (4004)</li>
-<li>www.google.com (3938)</li>
+<li>www.google.com (3939)</li>
 <li>outlook.office365.com (3929)</li>
 <li>docs.google.com (2638)</li>
 <li>duckduckgo.com (2482)</li>
@@ -108,8 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 20:57 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 12:16 <a href="https://www.theguardian.com/uk">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 12:16 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
+<li> 11:54 www.barcelo.com</li>
+<li> 11:54 www.romsgames.net</li>
+<li> 11:54 www.barcelo.com</li>
+<li> 11:54 www.romsgames.net</li>
 <li> 11:50 <a href="https://www.theguardian.com/us-news/live/2025/sep/12/charlie-kirk-shooter-suspect-latest-news-updates-donald-trump-utah?page=with:block-68c47b768f086519d327114d#block-68c47b768f086519d327114d">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:49 www.reddit.com</li>
 <li> 11:49 www.altontowers.com</li>
@@ -122,7 +131,10 @@ With number of accesses/minutes in parentheses
 <li> 11:21 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
 <li> 11:17 whatsupbeds.com</li>
 <li> 11:17 www.google.com</li>
-<li class='same'> 11:10 www.google.com</li>
+<li> 11:10 www.highbet.co.uk</li>
+<li> 11:10 t.co</li>
+<li> 11:10 www.romsgames.net</li>
+<li> 11:10 www.google.com</li>
 </ul>
 
 <br>
