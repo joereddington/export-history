@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4170)</li>
 <li>outlook.office.com (4065)</li>
-<li>www.reddit.com (4007)</li>
-<li>www.google.com (3946)</li>
+<li>www.reddit.com (4009)</li>
+<li>www.google.com (3947)</li>
 <li>outlook.office365.com (3929)</li>
 <li>docs.google.com (2639)</li>
 <li>duckduckgo.com (2487)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1501)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1332)</li>
+<li>www.linkedin.com (1334)</li>
 <li>login.microsoftonline.com (1134)</li>
 <li>www.amazon.co.uk (1048)</li>
 <li>calendar.google.com (1014)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (805)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (654)</li>
-<li>web.whatsapp.com (633)</li>
+<li>web.whatsapp.com (634)</li>
 <li>tvtropes.org (630)</li>
 <li>chat.openai.com (622)</li>
 <li>herts.instructure.com (619)</li>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:01 <a href="https://en.wikipedia.org/wiki/User_talk:DigitalIceAge">User talk:DigitalIceAge - Wikipedia</a></li>
+<ul><li> 17:37 www.reddit.com</li>
+<li class='same'> 17:35 www.reddit.com</li>
+<li> 17:35 www.linkedin.com</li>
+<li class='same'> 17:30 www.linkedin.com</li>
+<li> 17:27 <a href="https://en.wikipedia.org/wiki/Technology_Connections">Technology Connections - Wikipedia</a></li>
+<li> 17:25 <a href="https://en.wikipedia.org/wiki/User_talk:DigitalIceAge">User talk:DigitalIceAge - Wikipedia</a></li>
+<li> 17:25 <a href="https://en.wikipedia.org/wiki/User:DigitalIceAge">User:DigitalIceAge - Wikipedia</a></li>
+<li> 17:25 <a href="https://en.wikipedia.org/w/index.php?title=Epson_MX-80&action=history">Epson MX-80: Revision history - Wikipedia</a></li>
+<li> 17:25 <a href="https://en.wikipedia.org/wiki/Epson_MX-80">Epson MX-80 - Wikipedia</a></li>
+<li> 17:24 <a href="https://en.wikipedia.org/w/index.php?title=Epson_MX-80&action=info">Information for "Epson MX-80" - Wikipedia</a></li>
+<li> 17:24 <a href="https://en.wikipedia.org/wiki/Epson_MX-80">Epson MX-80 - Wikipedia</a></li>
+<li> 17:24 <a href="https://en.wikipedia.org/wiki/Talk:Epson_MX-80">Talk:Epson MX-80 - Wikipedia</a></li>
+<li> 17:24 <a href="https://en.wikipedia.org/wiki/Talk:Epson_MX-80/GA1">Talk:Epson MX-80/GA1 - Wikipedia</a></li>
+<li> 17:24 <a href="https://en.wikipedia.org/wiki/Talk:Epson_MX-80">Talk:Epson MX-80 - Wikipedia</a></li>
+<li> 17:24 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Epson_MX-80&action=edit">Editing Talk:Epson MX-80 - Wikipedia</a></li>
+<li> 17:23 <a href="https://en.wikipedia.org/wiki/Eurasian_Land_Bridge">Eurasian Land Bridge - Wikipedia</a></li>
+<li> 17:22 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Epson+MX-80%2FGA1&action=edit&editintro=Template:GAN/editintro&preload=Template:GAN/preload">Editing Talk:Epson MX-80/GA1 - Wikipedia</a></li>
+<li> 17:22 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 17:22 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_articles/Engineering_and_technology">Wikipedia:Good articles/Engineering and technology - Wikipedia</a></li>
+<li> 17:21 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Epson_MX-80&action=edit">Editing Talk:Epson MX-80 - Wikipedia</a></li>
+<li> 17:21 <a href="https://en.wikipedia.org/wiki/Talk:Epson_MX-80">Talk:Epson MX-80 - Wikipedia</a></li>
+<li> 17:21 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Epson_MX-80&action=edit">Editing Talk:Epson MX-80 - Wikipedia</a></li>
+<li> 17:20 <a href="https://en.wikipedia.org/wiki/Talk:Epson_MX-80">Talk:Epson MX-80 - Wikipedia</a></li>
+<li> 17:20 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations/Instructions#Reviewing">Wikipedia:Good article nominations/Instructions - Wikipedia</a></li>
+<li> 17:20 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Epson_MX-80/GA1&action=edit&section=1">Editing Talk:Epson MX-80/GA1 (section) - Wikipedia</a></li>
+<li> 17:20 <a href="https://en.wikipedia.org/wiki/Talk:Epson_MX-80/GA1">Talk:Epson MX-80/GA1 - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Canon_EOS&action=edit">Editing Talk:Canon EOS - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS">Talk:Canon EOS - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/wiki/Talk:Canon_EOS/GA3">Talk:Canon EOS/GA3 - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/w/index.php?title=Special:Contributions/Joereddington&target=Joereddington&offset=20251124092250">User contributions for Joereddington - Wikipedia</a></li>
+<li> 17:19 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 17:18 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 17:17 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Epson_MX-80&action=edit">Editing Talk:Epson MX-80 - Wikipedia</a></li>
+<li> 17:17 <a href="https://en.wikipedia.org/wiki/Talk:Epson_MX-80">Talk:Epson MX-80 - Wikipedia</a></li>
+<li> 17:16 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Epson_MX-80/GA1&action=edit">Editing Talk:Epson MX-80/GA1 - Wikipedia</a></li>
+<li> 17:15 <a href="https://en.wikipedia.org/wiki/Talk:Epson_MX-80/GA1">Talk:Epson MX-80/GA1 - Wikipedia</a></li>
+<li> 17:11 www.google.com</li>
+<li> 17:11 <a href="https://en.wikipedia.org/wiki/Epson_MX-80#CITEREFFisherJensen1982">Epson MX-80 - Wikipedia</a></li>
+<li> 17:08 <a href="https://en.wikipedia.org/wiki/Epson_MX-80">Epson MX-80 - Wikipedia</a></li>
+<li> 17:06 web.whatsapp.com</li>
+<li> 17:05 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Epson_MX-80/GA1&action=edit&editintro=Template:GAN/editintro&preload=Template:GAN/preload">Creating Talk:Epson MX-80/GA1 - Wikipedia</a></li>
+<li> 17:04 <a href="https://en.wikipedia.org/wiki/Talk:Epson_MX-80">Talk:Epson MX-80 - Wikipedia</a></li>
+<li> 17:04 <a href="https://en.wikipedia.org/wiki/Epson_MX-80#/media/File:Epson_Wide_Carriage_9-pin_printer_-_with_legal_paper_8.5x14.jpg">Epson MX-80 - Wikipedia</a></li>
+<li> 17:01 <a href="https://en.wikipedia.org/wiki/User_talk:DigitalIceAge">User talk:DigitalIceAge - Wikipedia</a></li>
 <li> 17:00 <a href="https://en.wikipedia.org/wiki/User:DigitalIceAge">User:DigitalIceAge - Wikipedia</a></li>
 <li> 17:00 <a href="https://en.wikipedia.org/w/index.php?title=Epson_MX-80&action=history&offset=&limit=500">Epson MX-80: Revision history - Wikipedia</a></li>
 <li> 17:00 <a href="https://en.wikipedia.org/w/index.php?title=Epson_MX-80&action=history">Epson MX-80: Revision history - Wikipedia</a></li>
