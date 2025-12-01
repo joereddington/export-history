@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2639)</li>
 <li>duckduckgo.com (2487)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1497)</li>
+<li>chatgpt.com (1499)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1331)</li>
+<li>www.linkedin.com (1332)</li>
 <li>login.microsoftonline.com (1134)</li>
 <li>www.amazon.co.uk (1044)</li>
 <li>calendar.google.com (1014)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:59 www.kingsfund.org.uk</li>
+<ul><li> 14:33 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:32 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&curid=39466480&diff=1325158040&oldid=1324880001">Dinotrux: Difference between revisions - Wikipedia</a></li>
+<li> 14:32 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:32 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:32 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:32 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:32 <a href="https://en.wikipedia.org/"></a></li>
+<li> 14:32 www.linkedin.com</li>
+<li> 14:31 chatgpt.com</li>
+<li> 14:30 ico.org.uk</li>
+<li class='same'> 14:28 ico.org.uk</li>
+<li class='same'> 14:27 ico.org.uk</li>
+<li> 14:27 icosearch.ico.org.uk</li>
+<li> 14:27 ico.org.uk</li>
+<li class='same'> 14:26 ico.org.uk</li>
+<li> 14:25 www.hfw.com</li>
+<li> 14:20 ico.org.uk</li>
+<li> 14:17 chatgpt.com</li>
+<li> 13:59 www.kingsfund.org.uk</li>
 <li> 13:52 www.amazon.co.uk</li>
 <li> 13:50 web.whatsapp.com</li>
 <li> 13:50 www.linkedin.com</li>
