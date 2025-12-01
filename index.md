@@ -70,30 +70,30 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4170)</li>
 <li>outlook.office.com (4065)</li>
-<li>www.reddit.com (4004)</li>
-<li>www.google.com (3945)</li>
+<li>www.reddit.com (4006)</li>
+<li>www.google.com (3946)</li>
 <li>outlook.office365.com (3929)</li>
 <li>docs.google.com (2639)</li>
-<li>duckduckgo.com (2486)</li>
+<li>duckduckgo.com (2487)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1497)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1325)</li>
+<li>www.linkedin.com (1331)</li>
 <li>login.microsoftonline.com (1134)</li>
-<li>www.amazon.co.uk (1043)</li>
+<li>www.amazon.co.uk (1044)</li>
 <li>calendar.google.com (1014)</li>
 <li>moodle.royalholloway.ac.uk (884)</li>
 <li>rhul-my.sharepoint.com (805)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (654)</li>
-<li>web.whatsapp.com (632)</li>
+<li>web.whatsapp.com (633)</li>
 <li>tvtropes.org (630)</li>
 <li>chat.openai.com (621)</li>
 <li>herts.instructure.com (619)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">‘How am I still going?’: the everlasting appeal of Cliff Richard | Cliff Richard | The Guardian</a> (549)</li>
 <li>forms.office.com (511)</li>
-<li>feedly.com (500)</li>
+<li>feedly.com (501)</li>
 <li>drive.google.com (433)</li>
 <li>rhul.sharepoint.com (371)</li>
 <li>fritz.box (356)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:56 www.linkedin.com</li>
+<ul><li> 13:59 www.kingsfund.org.uk</li>
+<li> 13:52 www.amazon.co.uk</li>
+<li> 13:50 web.whatsapp.com</li>
+<li> 13:50 www.linkedin.com</li>
+<li class='same'> 13:47 www.linkedin.com</li>
+<li class='same'> 13:44 www.linkedin.com</li>
+<li class='same'> 13:43 www.linkedin.com</li>
+<li class='same'> 13:42 www.linkedin.com</li>
+<li> 13:37 <a href="https://www.bbc.co.uk/news/health-60375928">Review reveals 'vast' ethnic inequalities in NHS services - BBC News</a></li>
+<li> 13:36 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:00 www.reddit.com</li>
+<li class='same'> 12:59 www.reddit.com</li>
+<li> 12:57 www.linkedin.com</li>
+<li class='same'> 12:56 www.linkedin.com</li>
 <li class='same'> 12:55 www.linkedin.com</li>
 <li class='same'> 12:54 www.linkedin.com</li>
 <li> 12:53 <a href="https://en.wikipedia.org/wiki/User_talk:RoySmith">User talk:RoySmith - Wikipedia</a></li>
@@ -149,6 +166,7 @@ With number of accesses/minutes in parentheses
 <li> 09:38 imgflip.com</li>
 <li> 09:38 duckduckgo.com</li>
 <li> 09:37 chatgpt.com</li>
+<li> 09:17 ao.com</li>
 </ul>
 
 <br>
@@ -181,7 +199,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:29 www.mcmcomiccon.com</li>
+<ul><li> 20:09 www.androidcentral.com</li>
+<li> 20:09 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:51 www.mcmcomiccon.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:29 www.mcmcomiccon.com</li>
 </ul>
 
 <br>
@@ -83337,6 +83366,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:44 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 18:43 gitlab.cim.rhul.ac.uk</li>
+<li> 18:40 feedly.com</li>
 </ul>
 
 <br>
