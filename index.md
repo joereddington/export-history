@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4168)</li>
+<ol><li>mail.google.com (4169)</li>
 <li>outlook.office.com (4065)</li>
 <li>www.reddit.com (4004)</li>
 <li>www.google.com (3945)</li>
 <li>outlook.office365.com (3929)</li>
 <li>docs.google.com (2639)</li>
-<li>duckduckgo.com (2482)</li>
+<li>duckduckgo.com (2484)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1493)</li>
+<li>chatgpt.com (1494)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1316)</li>
 <li>login.microsoftonline.com (1134)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">‘How am I still going?’: the everlasting appeal of Cliff Richard | Cliff Richard | The Guardian</a> (549)</li>
 <li>forms.office.com (511)</li>
-<li>feedly.com (491)</li>
+<li>feedly.com (495)</li>
 <li>drive.google.com (433)</li>
 <li>rhul.sharepoint.com (371)</li>
 <li>fritz.box (356)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 01/12/25</H3>
+
+<br>
+
+<ul><li> 07:54 ico.org.uk</li>
+<li class='same'> 07:51 ico.org.uk</li>
+<li> 07:49 duckduckgo.com</li>
+<li> 07:49 www.smoothradio.com</li>
+<li> 07:48 libbyapp.com</li>
+<li> 07:48 <a href="https://en.wikipedia.org/wiki/Erasure_(duo)"></a></li>
+<li> 07:48 duckduckgo.com</li>
+<li> 07:35 feedly.com</li>
+<li class='same'> 07:34 feedly.com</li>
+<li class='same'> 07:33 feedly.com</li>
+<li> 07:29 www.dpocentre.com</li>
+<li> 07:17 feedly.com</li>
+<li> 06:56 chatgpt.com</li>
+</ul>
 
 <br>
 
@@ -138,6 +155,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:03 www.romsgames.net</li>
 <li> 07:03 www.google.com</li>
+<li> 06:58 libbyapp.com</li>
+<li> 06:58 <a href="https://en.wikipedia.org/"></a></li>
+<li> 06:58 mail.google.com</li>
 </ul>
 
 <H3>Saturday, 29/11/25</H3>
