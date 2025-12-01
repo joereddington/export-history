@@ -70,17 +70,17 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4170)</li>
 <li>outlook.office.com (4065)</li>
-<li>www.reddit.com (4006)</li>
+<li>www.reddit.com (4007)</li>
 <li>www.google.com (3946)</li>
 <li>outlook.office365.com (3929)</li>
 <li>docs.google.com (2639)</li>
 <li>duckduckgo.com (2487)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1499)</li>
+<li>chatgpt.com (1501)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1332)</li>
 <li>login.microsoftonline.com (1134)</li>
-<li>www.amazon.co.uk (1044)</li>
+<li>www.amazon.co.uk (1048)</li>
 <li>calendar.google.com (1014)</li>
 <li>moodle.royalholloway.ac.uk (884)</li>
 <li>rhul-my.sharepoint.com (805)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (654)</li>
 <li>web.whatsapp.com (633)</li>
 <li>tvtropes.org (630)</li>
-<li>chat.openai.com (621)</li>
+<li>chat.openai.com (622)</li>
 <li>herts.instructure.com (619)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">‘How am I still going?’: the everlasting appeal of Cliff Richard | Cliff Richard | The Guardian</a> (549)</li>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:33 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<ul><li> 17:01 <a href="https://en.wikipedia.org/wiki/User_talk:DigitalIceAge">User talk:DigitalIceAge - Wikipedia</a></li>
+<li> 17:00 <a href="https://en.wikipedia.org/wiki/User:DigitalIceAge">User:DigitalIceAge - Wikipedia</a></li>
+<li> 17:00 <a href="https://en.wikipedia.org/w/index.php?title=Epson_MX-80&action=history&offset=&limit=500">Epson MX-80: Revision history - Wikipedia</a></li>
+<li> 17:00 <a href="https://en.wikipedia.org/w/index.php?title=Epson_MX-80&action=history">Epson MX-80: Revision history - Wikipedia</a></li>
+<li> 17:00 <a href="https://en.wikipedia.org/wiki/Epson_MX-80">Epson MX-80 - Wikipedia</a></li>
+<li> 17:00 <a href="https://en.wikipedia.org/wiki/Talk:Epson_MX-80">Talk:Epson MX-80 - Wikipedia</a></li>
+<li> 17:00 chatgpt.com</li>
+<li class='same'> 16:59 chatgpt.com</li>
+<li> 16:59 chat.openai.com</li>
+<li> 16:59 <a href="https://en.wikipedia.org/w/index.php?title=Epson_MX-80&action=edit">Editing Epson MX-80 - Wikipedia</a></li>
+<li> 16:59 <a href="https://en.wikipedia.org/w/index.php?title=Epson_MX-80&action=history">Epson MX-80: Revision history - Wikipedia</a></li>
+<li> 16:58 web.archive.org</li>
+<li> 16:57 <a href="https://en.wikipedia.org/wiki/Rebadging">Rebadging - Wikipedia</a></li>
+<li> 16:57 <a href="https://en.wikipedia.org/wiki/Badge_engineering">Rebadging - Wikipedia</a></li>
+<li> 16:54 <a href="https://en.wikipedia.org/wiki/Epson_MX-80">Epson MX-80 - Wikipedia</a></li>
+<li> 16:53 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 16:53 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
+<li> 16:53 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:53 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:53 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:53 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:53 <a href="https://en.wikipedia.org/"></a></li>
+</ul>
+
+<br>
+
+<ul><li> 16:21 www.amazon.co.uk</li>
+<li class='same'> 16:20 www.amazon.co.uk</li>
+<li class='same'> 16:19 www.amazon.co.uk</li>
+<li class='same'> 16:10 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 14:57 www.reddit.com</li>
+<li> 14:57 libbyapp.com</li>
+<li> 14:33 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 14:32 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&curid=39466480&diff=1325158040&oldid=1324880001">Dinotrux: Difference between revisions - Wikipedia</a></li>
 <li> 14:32 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:32 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
