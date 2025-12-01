@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4169)</li>
+<ol><li>mail.google.com (4170)</li>
 <li>outlook.office.com (4065)</li>
 <li>www.reddit.com (4004)</li>
 <li>www.google.com (3945)</li>
@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2639)</li>
 <li>duckduckgo.com (2486)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1496)</li>
+<li>chatgpt.com (1497)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1316)</li>
+<li>www.linkedin.com (1318)</li>
 <li>login.microsoftonline.com (1134)</li>
 <li>www.amazon.co.uk (1043)</li>
 <li>calendar.google.com (1014)</li>
@@ -88,12 +88,12 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (654)</li>
 <li>web.whatsapp.com (632)</li>
 <li>tvtropes.org (630)</li>
-<li>chat.openai.com (620)</li>
+<li>chat.openai.com (621)</li>
 <li>herts.instructure.com (619)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">‘How am I still going?’: the everlasting appeal of Cliff Richard | Cliff Richard | The Guardian</a> (549)</li>
 <li>forms.office.com (511)</li>
-<li>feedly.com (495)</li>
+<li>feedly.com (498)</li>
 <li>drive.google.com (433)</li>
 <li>rhul.sharepoint.com (371)</li>
 <li>fritz.box (356)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:57 chatgpt.com</li>
+<ul><li> 11:10 feedly.com</li>
+<li> 11:10 www.linkedin.com</li>
+<li> 11:08 chatgpt.com</li>
+<li> 11:08 chat.openai.com</li>
+<li> 11:08 www.darkreading.com</li>
+<li> 11:06 feedly.com</li>
+<li> 11:06 www.linkedin.com</li>
+<li> 11:06 feedly.com</li>
+<li> 11:06 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:01 pureportal.strath.ac.uk</li>
+<li> 09:57 chatgpt.com</li>
 <li> 09:39 knowyourmeme.com</li>
 <li> 09:39 duckduckgo.com</li>
 <li> 09:38 imgflip.com</li>
