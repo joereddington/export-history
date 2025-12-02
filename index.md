@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2640)</li>
 <li>duckduckgo.com (2499)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1510)</li>
+<li>chatgpt.com (1511)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1340)</li>
 <li>login.microsoftonline.com (1142)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 02/12/25</H3>
+
+<br>
+
+<ul><li> 21:37 ico.org.uk</li>
+<li class='same'> 21:36 ico.org.uk</li>
+<li> 21:36 <a href="https://en.wikipedia.org/w/index.php?title=List_of_data_breaches&action=history">List of data breaches: Revision history - Wikipedia</a></li>
+<li> 21:36 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
+<li> 21:35 <a href="https://en.wikipedia.org/wiki/Metro_(British_newspaper)">Metro (British newspaper) - Wikipedia</a></li>
+<li> 21:35 <a href="https://en.wikipedia.org/w/index.php?title=List_of_cyberattacks&curid=44334950&diff=1325381174&oldid=1310184964">List of cyberattacks: Difference between revisions - Wikipedia</a></li>
+<li> 21:35 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 21:35 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 21:35 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 21:34 accounts.intuit.com</li>
+<li> 21:33 <a href="https://en.wikipedia.org/wiki/61016">61016 - Wikipedia</a></li>
+<li> 21:33 <a href="https://en.wikipedia.org/wiki/61016?venotify=saved">61016 - Wikipedia</a></li>
+<li> 21:33 <a href="https://en.wikipedia.org/w/index.php?title=61016&action=edit">61016 - Wikipedia</a></li>
+<li> 21:33 <a href="https://en.wikipedia.org/w/index.php?title=61016&section=2&oldid=1325222406&action=edit">Editing 61016 - Wikipedia</a></li>
+<li> 21:33 <a href="https://en.wikipedia.org/w/index.php?title=61016&action=edit&section=2">Editing 61016 (section) - Wikipedia</a></li>
+<li> 21:31 emergencyservicestimes.com</li>
+<li> 21:31 <a href="https://en.wikipedia.org/wiki/61016#cite_note-estimes-20230310-1">61016 - Wikipedia</a></li>
+<li> 21:30 chatgpt.com</li>
+</ul>
 
 <br>
 
