@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4177)</li>
-<li>outlook.office.com (4079)</li>
+<ol><li>mail.google.com (4179)</li>
+<li>outlook.office.com (4084)</li>
 <li>www.reddit.com (4010)</li>
 <li>www.google.com (3947)</li>
 <li>outlook.office365.com (3928)</li>
 <li>docs.google.com (2639)</li>
-<li>duckduckgo.com (2492)</li>
+<li>duckduckgo.com (2494)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1506)</li>
 <li>www.facebook.com (1456)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 02/12/25</H3>
+
+<br>
+
+<ul><li> 14:02 <a href="https://en.wikipedia.org/wiki/Support_vector_machine">Support vector machine - Wikipedia</a></li>
+<li> 14:01 duckduckgo.com</li>
+<li> 13:59 <a href="https://en.wikipedia.org/wiki/Support_vector_machine">Support vector machine - Wikipedia</a></li>
+<li> 13:59 duckduckgo.com</li>
+<li> 13:48 outlook.office.com</li>
+<li class='same'> 13:41 outlook.office.com</li>
+<li> 13:41 mail.google.com</li>
+<li class='same'> 13:38 mail.google.com</li>
+<li> 13:36 outlook.office.com</li>
+<li class='same'> 13:32 outlook.office.com</li>
+<li class='same'> 13:31 outlook.office.com</li>
+</ul>
 
 <br>
 
