@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4172)</li>
-<li>outlook.office.com (4073)</li>
-<li>www.reddit.com (4009)</li>
+<ol><li>mail.google.com (4177)</li>
+<li>outlook.office.com (4079)</li>
+<li>www.reddit.com (4010)</li>
 <li>www.google.com (3947)</li>
 <li>outlook.office365.com (3928)</li>
 <li>docs.google.com (2639)</li>
-<li>duckduckgo.com (2491)</li>
+<li>duckduckgo.com (2492)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1505)</li>
+<li>chatgpt.com (1506)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1337)</li>
-<li>login.microsoftonline.com (1135)</li>
+<li>www.linkedin.com (1338)</li>
+<li>login.microsoftonline.com (1139)</li>
 <li>www.amazon.co.uk (1048)</li>
 <li>calendar.google.com (1014)</li>
 <li>moodle.royalholloway.ac.uk (884)</li>
 <li>rhul-my.sharepoint.com (805)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (655)</li>
-<li>web.whatsapp.com (635)</li>
+<li>gmail.com (656)</li>
+<li>web.whatsapp.com (636)</li>
 <li>tvtropes.org (630)</li>
 <li>chat.openai.com (623)</li>
 <li>herts.instructure.com (619)</li>
-<li>github.com (552)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (550)</li>
+<li>github.com (553)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (551)</li>
 <li>forms.office.com (511)</li>
 <li>feedly.com (502)</li>
 <li>drive.google.com (433)</li>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:16 www.amazon.com</li>
+<ul><li> 12:38 github.com</li>
+<li> 12:32 duckduckgo.com</li>
+<li> 12:31 outlook.office.com</li>
+<li class='same'> 12:28 outlook.office.com</li>
+<li> 12:28 teams.microsoft.com</li>
+<li> 12:28 outlook.office.com</li>
+<li> 12:28 m365.cloud.microsoft</li>
+<li> 12:28 login.microsoftonline.com</li>
+<li> 12:28 www.hr.herts.ac.uk</li>
+<li> 12:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:27 mail.google.com</li>
+<li> 12:26 web.whatsapp.com</li>
+<li> 12:26 mail.google.com</li>
+<li> 12:26 gmail.com</li>
+<li> 12:25 www.reddit.com</li>
+<li> 12:23 chatgpt.com</li>
+<li> 12:22 outlook.office.com</li>
+<li> 12:22 m365.cloud.microsoft</li>
+<li> 12:22 login.microsoftonline.com</li>
+<li> 12:22 www.hr.herts.ac.uk</li>
+<li> 12:22 outlook.office.com</li>
+<li> 12:22 login.microsoftonline.com</li>
+<li> 12:21 outlook.office.com</li>
+<li> 12:21 m365.cloud.microsoft</li>
+<li> 12:21 login.microsoftonline.com</li>
+<li> 12:20 www.linkedin.com</li>
+<li> 12:20 mail.google.com</li>
+<li> 12:19 <a href="https://www.theguardian.com/commentisfree/2025/dec/02/refillable-advent-calendars-children">Why did I ever buy my kids refillable advent calendars? | Zoe Williams | The Guardian</a></li>
+<li> 12:19 mail.google.com</li>
+<li class='same'> 12:18 mail.google.com</li>
+<li> 12:17 kdpreports.amazon.com</li>
+<li> 12:17 kdp.amazon.com</li>
+<li> 12:17 www.amazon.com</li>
+<li class='same'> 12:16 www.amazon.com</li>
+<li> 12:16 kdp.amazon.com</li>
+<li> 12:16 www.amazon.com</li>
 <li> 12:16 mail.google.com</li>
 <li class='same'> 12:15 mail.google.com</li>
 <li> 12:15 gmail.com</li>
