@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4179)</li>
-<li>outlook.office.com (4084)</li>
-<li>www.reddit.com (4010)</li>
+<ol><li>mail.google.com (4184)</li>
+<li>outlook.office.com (4085)</li>
+<li>www.reddit.com (4012)</li>
 <li>www.google.com (3947)</li>
 <li>outlook.office365.com (3928)</li>
 <li>docs.google.com (2639)</li>
-<li>duckduckgo.com (2494)</li>
+<li>duckduckgo.com (2496)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1506)</li>
+<li>chatgpt.com (1507)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1338)</li>
-<li>login.microsoftonline.com (1139)</li>
+<li>www.linkedin.com (1340)</li>
+<li>login.microsoftonline.com (1142)</li>
 <li>www.amazon.co.uk (1048)</li>
 <li>calendar.google.com (1014)</li>
 <li>moodle.royalholloway.ac.uk (884)</li>
 <li>rhul-my.sharepoint.com (805)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (656)</li>
-<li>web.whatsapp.com (636)</li>
+<li>gmail.com (658)</li>
+<li>web.whatsapp.com (638)</li>
 <li>tvtropes.org (630)</li>
-<li>chat.openai.com (623)</li>
+<li>chat.openai.com (624)</li>
 <li>herts.instructure.com (619)</li>
 <li>github.com (553)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (551)</li>
@@ -108,7 +108,63 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:02 <a href="https://en.wikipedia.org/wiki/Support_vector_machine">Support vector machine - Wikipedia</a></li>
+<ul><li> 15:20 <a href="https://en.wikipedia.org/wiki/Information_Security_Group">Information Security Group - Wikipedia</a></li>
+<li> 15:20 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 15:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:20 <a href="https://en.wikipedia.org/"></a></li>
+<li> 15:19 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:19 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:19 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:19 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:19 <a href="https://en.wikipedia.org/"></a></li>
+<li> 15:19 mail.google.com</li>
+<li> 15:19 gmail.com</li>
+<li> 15:19 duckduckgo.com</li>
+<li> 15:14 mail.google.com</li>
+<li> 15:14 www.jiscmail.ac.uk</li>
+<li> 15:14 mail.google.com</li>
+<li class='same'> 15:13 mail.google.com</li>
+<li class='same'> 15:02 mail.google.com</li>
+<li> 15:02 gmail.com</li>
+<li> 15:02 www.jiscmail.ac.uk</li>
+<li class='same'> 14:58 www.jiscmail.ac.uk</li>
+<li> 14:58 duckduckgo.com</li>
+<li> 14:58 jiscmail.ac.uk</li>
+<li> 14:56 herts365-my.sharepoint.com</li>
+<li> 14:56 login.microsoftonline.com</li>
+<li> 14:56 herts365-my.sharepoint.com</li>
+<li> 14:56 m365.cloud.microsoft</li>
+<li class='same'> 14:54 m365.cloud.microsoft</li>
+<li> 14:54 login.microsoftonline.com</li>
+<li> 14:54 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:54 outlook.office.com</li>
+<li> 14:54 m365.cloud.microsoft</li>
+<li> 14:54 login.microsoftonline.com</li>
+<li> 14:54 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:54 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:54 www.hr.herts.ac.uk</li>
+<li> 14:51 herts365-my.sharepoint.com</li>
+<li> 14:50 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 14:49 <a href="https://en.wikipedia.org/wiki/Talk:Security_hacker">Talk:Security hacker - Wikipedia</a></li>
+<li> 14:49 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&action=edit&section=12">Editing Security hacker (section) - Wikipedia</a></li>
+<li> 14:49 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 14:49 <a href="https://en.wikipedia.org/wiki/Peter_Salamon">Peter Salamon - Wikipedia</a></li>
+<li> 14:48 <a href="https://en.wikipedia.org/wiki/Mir_Mohammad_Ali_Khan">Mir Mohammad Ali Khan - Wikipedia</a></li>
+<li> 14:48 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 14:47 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:47 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:47 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:47 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:47 <a href="https://en.wikipedia.org/"></a></li>
+<li> 14:46 www.linkedin.com</li>
+<li> 14:45 www.reddit.com</li>
+<li class='same'> 14:44 www.reddit.com</li>
+<li> 14:42 web.whatsapp.com</li>
+<li> 14:42 www.linkedin.com</li>
+<li> 14:27 chatgpt.com</li>
+<li> 14:27 chat.openai.com</li>
+<li> 14:22 web.whatsapp.com</li>
+<li> 14:02 <a href="https://en.wikipedia.org/wiki/Support_vector_machine">Support vector machine - Wikipedia</a></li>
 <li> 14:01 duckduckgo.com</li>
 <li> 13:59 <a href="https://en.wikipedia.org/wiki/Support_vector_machine">Support vector machine - Wikipedia</a></li>
 <li> 13:59 duckduckgo.com</li>
@@ -3210,7 +3266,7 @@ With number of accesses/minutes in parentheses
 <li> 11:53 duckduckgo.com</li>
 <li> 11:53 <a href="https://en.wikipedia.org/w/index.php?title=Hacktivism&action=edit">Hacktivism - Wikipedia</a></li>
 <li> 11:53 <a href="https://en.wikipedia.org/wiki/Hacktivism">Hacktivism - Wikipedia</a></li>
-<li> 11:52 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&action=edit&section=12">Editing Security hacker - Wikipedia</a></li>
+<li> 11:52 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&action=edit&section=12">Editing Security hacker (section) - Wikipedia</a></li>
 <li> 11:51 <a href="https://en.wikipedia.org/wiki/Hacktivism">Hacktivism - Wikipedia</a></li>
 <li> 11:51 <a href="https://en.wikipedia.org/wiki/Hacktivist">Hacktivism - Wikipedia</a></li>
 <li> 11:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Redirects_for_discussion/Log/2024_March_3#Hacker_(computer_security">Wikipedia:Redirects for discussion/Log/2024 March 3 - Wikipedia</a></li>
@@ -76622,6 +76678,7 @@ With number of accesses/minutes in parentheses
 <li> 14:26 <a href="https://en.wikipedia.org/wiki/Wikipedia:Summary_style">Wikipedia:Summary style - Wikipedia</a></li>
 <li> 14:14 scholar.google.co.uk</li>
 <li> 14:14 www.google.com</li>
+<li> 14:11 <a href="https://en.wikipedia.org/wiki/Information_Security_Group">Information Security Group - Wikipedia</a></li>
 <li> 13:52 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
 <li> 13:52 <a href="https://en.wikipedia.org/wiki/Talk:Yahoo_data_breaches">Talk:Yahoo data breaches - Wikipedia</a></li>
 <li> 13:51 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&action=history">Yahoo data breaches: Revision history - Wikipedia</a></li>
