@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4184)</li>
+<ol><li>mail.google.com (4186)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4012)</li>
 <li>www.google.com (3947)</li>
 <li>outlook.office365.com (3928)</li>
 <li>docs.google.com (2639)</li>
-<li>duckduckgo.com (2496)</li>
+<li>duckduckgo.com (2497)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1507)</li>
 <li>www.facebook.com (1456)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (884)</li>
 <li>rhul-my.sharepoint.com (805)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (658)</li>
+<li>gmail.com (659)</li>
 <li>web.whatsapp.com (638)</li>
 <li>tvtropes.org (630)</li>
 <li>chat.openai.com (624)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:20 <a href="https://en.wikipedia.org/wiki/Information_Security_Group">Information Security Group - Wikipedia</a></li>
+<ul><li> 15:31 mail.google.com</li>
+<li class='same'> 15:30 mail.google.com</li>
+<li> 15:30 gmail.com</li>
+<li> 15:30 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:30 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:30 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:27 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:27 <a href="https://en.wikipedia.org/w/index.php?title=Information_Security_Group&diff=1121124941&oldid=1121124896">Information Security Group: Difference between revisions - Wikipedia</a></li>
+<li> 15:26 <a href="https://en.wikipedia.org/wiki/Talk:Fred_Piper">Talk:Fred Piper - Wikipedia</a></li>
+<li> 15:26 <a href="https://en.wikipedia.org/w/index.php?title=Fred_Piper&action=history">Fred Piper: Revision history - Wikipedia</a></li>
+<li> 15:26 <a href="https://en.wikipedia.org/wiki/Fred_Piper">Fred Piper - Wikipedia</a></li>
+<li> 15:26 <a href="https://en.wikipedia.org/wiki/User_talk:Viveritas">User talk:Viveritas - Wikipedia</a></li>
+<li> 15:25 <a href="https://en.wikipedia.org/wiki/User:Viveritas">User:Viveritas - Wikipedia</a></li>
+<li> 15:23 www.iplocation.net</li>
+<li> 15:23 duckduckgo.com</li>
+<li> 15:23 <a href="https://en.wikipedia.org/w/index.php?title=Information_Security_Group&action=history">Information Security Group: Revision history - Wikipedia</a></li>
+<li> 15:22 <a href="https://en.wikipedia.org/wiki/User:Ntsimp">User:Ntsimp - Wikipedia</a></li>
+<li> 15:21 <a href="https://en.wikipedia.org/w/index.php?title=Sean_Murphy_(cryptographer)&action=history">Sean Murphy (cryptographer): Revision history - Wikipedia</a></li>
+<li> 15:21 <a href="https://en.wikipedia.org/wiki/Sean_Murphy_(cryptographer)">Sean Murphy (cryptographer) - Wikipedia</a></li>
+<li> 15:20 <a href="https://en.wikipedia.org/wiki/Information_Security_Group">Information Security Group - Wikipedia</a></li>
 <li> 15:20 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 15:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 15:20 <a href="https://en.wikipedia.org/"></a></li>
