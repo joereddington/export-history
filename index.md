@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3947)</li>
 <li>outlook.office365.com (3928)</li>
 <li>docs.google.com (2640)</li>
-<li>duckduckgo.com (2498)</li>
+<li>duckduckgo.com (2499)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1510)</li>
 <li>www.facebook.com (1456)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (805)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (659)</li>
-<li>web.whatsapp.com (640)</li>
+<li>web.whatsapp.com (641)</li>
 <li>tvtropes.org (630)</li>
 <li>chat.openai.com (626)</li>
 <li>herts.instructure.com (619)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:04 scholar.google.co.uk</li>
+<ul><li> 20:55 web.whatsapp.com</li>
+<li> 20:46 duckduckgo.com</li>
+<li> 20:31 qbo.intuit.com</li>
+<li class='same'> 20:27 qbo.intuit.com</li>
+<li class='same'> 20:26 qbo.intuit.com</li>
+<li class='same'> 20:25 qbo.intuit.com</li>
+<li> 20:25 app.qbo.intuit.com</li>
+<li> 20:25 accounts.intuit.com</li>
+<li> 20:24 c14.qbo.intuit.com</li>
+<li> 20:04 scholar.google.co.uk</li>
 <li class='same'> 20:03 scholar.google.co.uk</li>
 <li> 20:03 duckduckgo.com</li>
 <li> 20:03 <a href="https://en.wikipedia.org/wiki/61016">61016 - Wikipedia</a></li>
