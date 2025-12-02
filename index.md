@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3947)</li>
 <li>outlook.office365.com (3928)</li>
 <li>docs.google.com (2639)</li>
-<li>duckduckgo.com (2490)</li>
+<li>duckduckgo.com (2491)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1503)</li>
 <li>www.facebook.com (1456)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (805)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (654)</li>
-<li>web.whatsapp.com (634)</li>
+<li>web.whatsapp.com (635)</li>
 <li>tvtropes.org (630)</li>
 <li>chat.openai.com (623)</li>
 <li>herts.instructure.com (619)</li>
@@ -105,6 +105,34 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 02/12/25</H3>
+
+<br>
+
+<ul><li> 10:50 web.whatsapp.com</li>
+<li> 10:42 <a href="https://en.wikipedia.org/wiki/Talk:Epson_MX-80">Talk:Epson MX-80 - Wikipedia</a></li>
+<li> 10:42 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:42 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:42 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 10:42 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 10:42 <a href="https://en.wikipedia.org/"></a></li>
+<li> 10:41 www.projectreal.co.uk</li>
+<li> 10:41 projects.cs.rhul.ac.uk</li>
+<li> 10:41 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:18 <a href="https://en.wikipedia.org/wiki/Tulip_Siddiq">Tulip Siddiq - Wikipedia</a></li>
+<li> 09:18 <a href="https://en.wikipedia.org/w/index.php?title=Margaret_Mitchell_(scientist)&curid=66831679&diff=1325244064&oldid=1325242833">Margaret Mitchell (scientist): Difference between revisions - Wikipedia</a></li>
+<li> 09:18 <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Conflict_of_interest/Noticeboard&curid=8634849&diff=1325303794&oldid=1325193834">Wikipedia:Conflict of interest/Noticeboard: Difference between revisions - Wikipedia</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/wiki/Talk:Security_hacker">Talk:Security hacker - Wikipedia</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/"></a></li>
+</ul>
 
 <br>
 
