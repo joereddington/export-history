@@ -72,14 +72,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4065)</li>
 <li>www.reddit.com (4009)</li>
 <li>www.google.com (3947)</li>
-<li>outlook.office365.com (3929)</li>
+<li>outlook.office365.com (3928)</li>
 <li>docs.google.com (2639)</li>
-<li>duckduckgo.com (2487)</li>
+<li>duckduckgo.com (2490)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1501)</li>
+<li>chatgpt.com (1503)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1334)</li>
-<li>login.microsoftonline.com (1134)</li>
+<li>www.linkedin.com (1335)</li>
+<li>login.microsoftonline.com (1133)</li>
 <li>www.amazon.co.uk (1048)</li>
 <li>calendar.google.com (1014)</li>
 <li>moodle.royalholloway.ac.uk (884)</li>
@@ -88,12 +88,12 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (654)</li>
 <li>web.whatsapp.com (634)</li>
 <li>tvtropes.org (630)</li>
-<li>chat.openai.com (622)</li>
+<li>chat.openai.com (623)</li>
 <li>herts.instructure.com (619)</li>
 <li>github.com (552)</li>
 <li><a href="https://www.theguardian.com/uk">‘How am I still going?’: the everlasting appeal of Cliff Richard | Cliff Richard | The Guardian</a> (549)</li>
 <li>forms.office.com (511)</li>
-<li>feedly.com (501)</li>
+<li>feedly.com (502)</li>
 <li>drive.google.com (433)</li>
 <li>rhul.sharepoint.com (371)</li>
 <li>fritz.box (356)</li>
@@ -104,7 +104,31 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 02/12/25</H3>
+
+<br>
+
+<ul><li> 07:57 feedly.com</li>
+<li> 07:57 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:21 duckduckgo.com</li>
+<li> 07:20 brickzmuseum.com</li>
+<li> 07:20 duckduckgo.com</li>
+<li> 07:17 chatgpt.com</li>
+<li class='same'> 07:16 chatgpt.com</li>
+<li> 07:16 chat.openai.com</li>
+<li> 07:13 www.herts.ac.uk</li>
+<li> 07:13 duckduckgo.com</li>
+</ul>
+
 <H3>Monday, 01/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -17420,8 +17444,6 @@ With number of accesses/minutes in parentheses
 <li> 16:33 outlook.office.com</li>
 <li> 16:28 www.royalholloway.ac.uk</li>
 <li> 16:28 duckduckgo.com</li>
-<li> 16:26 outlook.office365.com</li>
-<li> 16:26 login.microsoftonline.com</li>
 <li> 16:26 outlook.office365.com</li>
 <li> 16:25 calendar.google.com</li>
 <li> 16:24 outlook.office.com</li>
