@@ -73,22 +73,22 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (4012)</li>
 <li>www.google.com (3947)</li>
 <li>outlook.office365.com (3928)</li>
-<li>docs.google.com (2639)</li>
-<li>duckduckgo.com (2497)</li>
+<li>docs.google.com (2640)</li>
+<li>duckduckgo.com (2498)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1507)</li>
+<li>chatgpt.com (1510)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1340)</li>
 <li>login.microsoftonline.com (1142)</li>
 <li>www.amazon.co.uk (1048)</li>
-<li>calendar.google.com (1014)</li>
+<li>calendar.google.com (1015)</li>
 <li>moodle.royalholloway.ac.uk (884)</li>
 <li>rhul-my.sharepoint.com (805)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (659)</li>
-<li>web.whatsapp.com (638)</li>
+<li>web.whatsapp.com (640)</li>
 <li>tvtropes.org (630)</li>
-<li>chat.openai.com (624)</li>
+<li>chat.openai.com (626)</li>
 <li>herts.instructure.com (619)</li>
 <li>github.com (553)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (551)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (502)</li>
 <li>drive.google.com (433)</li>
 <li>rhul.sharepoint.com (371)</li>
-<li>fritz.box (356)</li>
+<li>fritz.box (359)</li>
 <li>adfs.herts.ac.uk (331)</li>
 
 
@@ -105,6 +105,58 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 02/12/25</H3>
+
+<br>
+
+<ul><li> 20:04 scholar.google.co.uk</li>
+<li class='same'> 20:03 scholar.google.co.uk</li>
+<li> 20:03 duckduckgo.com</li>
+<li> 20:03 <a href="https://en.wikipedia.org/wiki/61016">61016 - Wikipedia</a></li>
+<li> 20:01 www.gov.uk</li>
+<li> 20:00 <a href="https://en.wikipedia.org/w/index.php?title=61016&oldid=1312779183">61016 - Wikipedia</a></li>
+<li> 20:00 <a href="https://en.wikipedia.org/w/index.php?title=61016&action=history&offset=&limit=500">61016: Revision history - Wikipedia</a></li>
+<li> 19:59 <a href="https://en.wikipedia.org/w/index.php?title=61016&action=history">61016: Revision history - Wikipedia</a></li>
+<li class='same'> 19:58 <a href="https://en.wikipedia.org/w/index.php?title=61016&action=history">61016: Revision history - Wikipedia</a></li>
+<li> 19:58 <a href="https://en.wikipedia.org/wiki/61016">61016 - Wikipedia</a></li>
+<li> 19:57 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 19:57 <a href="https://www.youtube.com/watch?v=079hQvq4ALI&list=PLpNlPYf2TyDiulU7DurKi_kFCPB-YjnLA">(59) [Title Track] Buck Rogers: Countdown to Doomsday (SEGA Genesis/Mega Drive Music) 🎶 - YouTube</a></li>
+<li> 19:56 <a href="https://en.wikipedia.org/w/index.php?title=Tulip_Siddiq&curid=33131881&diff=1325373515&oldid=1325205038">Tulip Siddiq: Difference between revisions - Wikipedia</a></li>
+<li> 19:56 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 19:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 19:56 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 19:55 meet.google.com</li>
+<li> 19:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 19:55 <a href="https://en.wikipedia.org/"></a></li>
+<li> 19:54 meet.google.com</li>
+<li> 19:53 chatgpt.com</li>
+<li> 19:53 chat.openai.com</li>
+<li> 19:51 calendar.google.com</li>
+<li> 19:50 chatgpt.com</li>
+<li> 19:47 web.whatsapp.com</li>
+<li> 19:47 chatgpt.com</li>
+<li> 19:47 chat.openai.com</li>
+<li> 19:47 web.whatsapp.com</li>
+<li> 19:47 fast.com</li>
+<li> 19:47 fritz.box</li>
+<li class='same'> 19:46 fritz.box</li>
+<li class='same'> 19:45 fritz.box</li>
+<li> 19:45 detectportal.firefox.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:47 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:01 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:01 <a href="https://en.wikipedia.org/"></a></li>
+</ul>
 
 <br>
 
