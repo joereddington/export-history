@@ -78,10 +78,10 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1511)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1340)</li>
-<li>login.microsoftonline.com (1142)</li>
+<li>www.linkedin.com (1343)</li>
+<li>login.microsoftonline.com (1139)</li>
 <li>www.amazon.co.uk (1048)</li>
-<li>calendar.google.com (1015)</li>
+<li>calendar.google.com (1018)</li>
 <li>moodle.royalholloway.ac.uk (884)</li>
 <li>rhul-my.sharepoint.com (805)</li>
 <li>www.theguardian.com (685)</li>
@@ -92,10 +92,10 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (619)</li>
 <li>github.com (553)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (551)</li>
-<li>forms.office.com (511)</li>
+<li>forms.office.com (510)</li>
 <li>feedly.com (502)</li>
 <li>drive.google.com (433)</li>
-<li>rhul.sharepoint.com (371)</li>
+<li>rhul.sharepoint.com (370)</li>
 <li>fritz.box (359)</li>
 <li>adfs.herts.ac.uk (331)</li>
 
@@ -104,7 +104,27 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 03/12/25</H3>
+
+<br>
+
+<ul><li> 07:53 webtimetables.royalholloway.ac.uk</li>
+<li> 07:52 herts365-my.sharepoint.com</li>
+<li> 07:49 www.linkedin.com</li>
+<li> 07:49 webtimetables.royalholloway.ac.uk</li>
+<li> 07:48 calendar.google.com</li>
+<li class='same'> 07:46 calendar.google.com</li>
+<li> 07:41 fast.com</li>
+<li> 07:40 calendar.google.com</li>
+<li> 07:35 www.linkedin.com</li>
+<li class='same'> 07:26 www.linkedin.com</li>
+</ul>
+
 <H3>Tuesday, 02/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -17602,8 +17622,6 @@ With number of accesses/minutes in parentheses
 <li> 13:45 forms.office.com</li>
 <li> 13:45 login.microsoftonline.com</li>
 <li> 13:45 forms.office.com</li>
-<li> 13:45 login.microsoftonline.com</li>
-<li> 13:45 forms.office.com</li>
 <li> 13:44 outlook.office.com</li>
 <li class='same'> 13:43 outlook.office.com</li>
 <li> 13:43 m365.cloud.microsoft</li>
@@ -17615,8 +17633,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:06 rhul.sharepoint.com</li>
-<li> 13:06 login.microsoftonline.com</li>
-<li> 13:06 rhul.sharepoint.com</li>
 </ul>
 
 <br>
@@ -17664,7 +17680,6 @@ With number of accesses/minutes in parentheses
 <li> 06:38 outlook.office365.com</li>
 <li class='same'> 06:34 outlook.office365.com</li>
 <li class='same'> 06:33 outlook.office365.com</li>
-<li> 06:33 login.microsoftonline.com</li>
 <li> 06:32 intranet.royalholloway.ac.uk</li>
 <li> 06:32 duckduckgo.com</li>
 <li class='same'> 06:31 duckduckgo.com</li>
