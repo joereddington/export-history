@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4189)</li>
+<ol><li>mail.google.com (4190)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4012)</li>
 <li>www.google.com (3948)</li>
 <li>outlook.office365.com (3942)</li>
-<li>docs.google.com (2641)</li>
-<li>duckduckgo.com (2505)</li>
+<li>docs.google.com (2642)</li>
+<li>duckduckgo.com (2508)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1519)</li>
+<li>chatgpt.com (1520)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1346)</li>
-<li>login.microsoftonline.com (1146)</li>
+<li>login.microsoftonline.com (1148)</li>
 <li>www.amazon.co.uk (1049)</li>
-<li>calendar.google.com (1022)</li>
+<li>calendar.google.com (1023)</li>
 <li>moodle.royalholloway.ac.uk (890)</li>
 <li>rhul-my.sharepoint.com (808)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (660)</li>
-<li>web.whatsapp.com (644)</li>
-<li>chat.openai.com (631)</li>
+<li>gmail.com (661)</li>
+<li>web.whatsapp.com (645)</li>
+<li>chat.openai.com (632)</li>
 <li>tvtropes.org (630)</li>
 <li>herts.instructure.com (621)</li>
 <li>github.com (553)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:57 qbo.intuit.com</li>
+<ul><li> 17:32 duckduckgo.com</li>
+<li class='same'> 17:26 duckduckgo.com</li>
+<li> 17:26 experience.elluciancloud.ie</li>
+<li> 17:25 ssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:25 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:25 login.microsoftonline.com</li>
+<li> 17:25 experience.elluciancloud.ie</li>
+<li> 17:25 login.microsoftonline.com</li>
+<li> 17:25 experience.elluciancloud.ie</li>
+<li> 17:23 chatgpt.com</li>
+<li> 17:23 chat.openai.com</li>
+<li> 17:20 fullfact.org</li>
+<li> 17:20 duckduckgo.com</li>
+<li> 17:17 web.whatsapp.com</li>
+<li> 17:02 calendar.google.com</li>
+<li> 17:00 intranet.royalholloway.ac.uk</li>
+<li> 16:59 docs.google.com</li>
+<li> 16:58 mail.google.com</li>
+<li> 16:58 accounts.google.com</li>
+<li> 16:58 gmail.com</li>
+<li> 16:58 qbo.intuit.com</li>
+<li class='same'> 16:57 qbo.intuit.com</li>
 <li class='same'> 16:56 qbo.intuit.com</li>
 <li> 16:56 app.qbo.intuit.com</li>
 <li> 16:56 accounts.intuit.com</li>
