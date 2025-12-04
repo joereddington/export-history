@@ -71,15 +71,15 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4186)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4012)</li>
-<li>www.google.com (3947)</li>
+<li>www.google.com (3946)</li>
 <li>outlook.office365.com (3931)</li>
 <li>docs.google.com (2640)</li>
-<li>duckduckgo.com (2503)</li>
+<li>duckduckgo.com (2501)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1513)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1344)</li>
-<li>login.microsoftonline.com (1143)</li>
+<li>login.microsoftonline.com (1142)</li>
 <li>www.amazon.co.uk (1048)</li>
 <li>calendar.google.com (1019)</li>
 <li>moodle.royalholloway.ac.uk (884)</li>
@@ -17596,24 +17596,20 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:24 www.google.com</li>
 <li class='same'> 14:23 www.google.com</li>
 <li class='same'> 14:22 www.google.com</li>
-<li class='same'> 14:21 www.google.com</li>
 <li class='same'> 14:20 www.google.com</li>
 <li class='same'> 14:19 www.google.com</li>
 <li class='same'> 14:18 www.google.com</li>
 <li class='same'> 14:17 www.google.com</li>
 <li class='same'> 14:16 www.google.com</li>
 <li> 14:15 duckduckgo.com</li>
-<li class='same'> 14:14 duckduckgo.com</li>
 <li> 14:14 www.wwl.nhs.uk</li>
 <li> 14:14 duckduckgo.com</li>
-<li class='same'> 14:13 duckduckgo.com</li>
 <li class='same'> 14:12 duckduckgo.com</li>
 <li> 14:10 outlook.office.com</li>
 <li> 14:10 m365.cloud.microsoft</li>
 <li> 14:10 login.microsoftonline.com</li>
 <li> 14:09 news.mypd.co.uk</li>
 <li> 14:08 outlook.office365.com</li>
-<li> 14:08 login.microsoftonline.com</li>
 <li> 14:08 intranet.royalholloway.ac.uk</li>
 </ul>
 
