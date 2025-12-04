@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4012)</li>
 <li>www.google.com (3948)</li>
-<li>outlook.office365.com (3940)</li>
+<li>outlook.office365.com (3942)</li>
 <li>docs.google.com (2640)</li>
 <li>duckduckgo.com (2502)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1517)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1344)</li>
+<li>www.linkedin.com (1345)</li>
 <li>login.microsoftonline.com (1146)</li>
 <li>www.amazon.co.uk (1048)</li>
 <li>calendar.google.com (1020)</li>
@@ -93,9 +93,9 @@ With number of accesses/minutes in parentheses
 <li>github.com (553)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (551)</li>
 <li>forms.office.com (510)</li>
-<li>feedly.com (502)</li>
+<li>feedly.com (504)</li>
 <li>drive.google.com (433)</li>
-<li>rhul.sharepoint.com (370)</li>
+<li>rhul.sharepoint.com (372)</li>
 <li>fritz.box (359)</li>
 <li>adfs.herts.ac.uk (334)</li>
 
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:49 outlook.office365.com</li>
+<ul><li> 14:32 rhul.sharepoint.com</li>
+<li class='same'> 14:31 rhul.sharepoint.com</li>
+<li> 14:07 feedly.com</li>
+<li> 14:07 www.linkedin.com</li>
+<li> 14:07 feedly.com</li>
+<li> 14:07 outlook.office365.com</li>
+<li class='same'> 13:54 outlook.office365.com</li>
+<li class='same'> 13:49 outlook.office365.com</li>
 <li class='same'> 13:48 outlook.office365.com</li>
 </ul>
 
