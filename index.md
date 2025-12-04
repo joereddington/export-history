@@ -74,9 +74,9 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3947)</li>
 <li>outlook.office365.com (3931)</li>
 <li>docs.google.com (2640)</li>
-<li>duckduckgo.com (2501)</li>
+<li>duckduckgo.com (2503)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1512)</li>
+<li>chatgpt.com (1513)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1344)</li>
 <li>login.microsoftonline.com (1143)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (659)</li>
 <li>web.whatsapp.com (642)</li>
 <li>tvtropes.org (630)</li>
-<li>chat.openai.com (627)</li>
+<li>chat.openai.com (628)</li>
 <li>herts.instructure.com (621)</li>
 <li>github.com (553)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (551)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 03/12/25</H3>
+
+<br>
+
+<ul><li> 20:26 sbs.e-paycapita.com</li>
+<li class='same'> 20:24 sbs.e-paycapita.com</li>
+<li> 20:21 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 20:21 <a href="https://en.wikipedia.org/"></a></li>
+<li> 20:15 sbs.e-paycapita.com</li>
+<li> 20:15 tfl.gov.uk</li>
+<li class='same'> 20:14 tfl.gov.uk</li>
+<li class='same'> 20:13 tfl.gov.uk</li>
+<li> 20:12 reg.web.tflcc.co.uk</li>
+<li> 20:12 tfl.gov.uk</li>
+<li> 20:12 chatgpt.com</li>
+<li> 20:12 chat.openai.com</li>
+<li> 20:12 duckduckgo.com</li>
+<li> 20:12 tfl.gov.uk</li>
+<li> 20:11 duckduckgo.com</li>
+</ul>
 
 <br>
 
