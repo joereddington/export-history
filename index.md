@@ -73,27 +73,27 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (4012)</li>
 <li>www.google.com (3948)</li>
 <li>outlook.office365.com (3942)</li>
-<li>docs.google.com (2640)</li>
-<li>duckduckgo.com (2502)</li>
+<li>docs.google.com (2641)</li>
+<li>duckduckgo.com (2505)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1517)</li>
+<li>chatgpt.com (1519)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1345)</li>
+<li>www.linkedin.com (1346)</li>
 <li>login.microsoftonline.com (1146)</li>
 <li>www.amazon.co.uk (1048)</li>
 <li>calendar.google.com (1020)</li>
-<li>moodle.royalholloway.ac.uk (889)</li>
+<li>moodle.royalholloway.ac.uk (890)</li>
 <li>rhul-my.sharepoint.com (808)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (659)</li>
-<li>web.whatsapp.com (643)</li>
+<li>web.whatsapp.com (644)</li>
+<li>chat.openai.com (631)</li>
 <li>tvtropes.org (630)</li>
-<li>chat.openai.com (630)</li>
 <li>herts.instructure.com (621)</li>
 <li>github.com (553)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (551)</li>
 <li>forms.office.com (510)</li>
-<li>feedly.com (504)</li>
+<li>feedly.com (505)</li>
 <li>drive.google.com (433)</li>
 <li>rhul.sharepoint.com (372)</li>
 <li>fritz.box (359)</li>
@@ -108,7 +108,55 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:32 rhul.sharepoint.com</li>
+<ul><li> 15:50 duckduckgo.com</li>
+<li> 15:44 moodle.royalholloway.ac.uk</li>
+<li> 15:40 docs.google.com</li>
+<li> 15:13 <a href="https://en.wikipedia.org/wiki/Miyamoto_International">Miyamoto International - Wikipedia</a></li>
+<li> 15:12 <a href="https://en.wikipedia.org/wiki/User_talk:Tacyarg">User talk:Tacyarg - Wikipedia</a></li>
+<li> 15:12 <a href="https://en.wikipedia.org/wiki/User:Tacyarg">User:Tacyarg - Wikipedia</a></li>
+<li> 15:11 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Noemare">User contributions for Noemare - Wikipedia</a></li>
+<li> 15:11 <a href="https://en.wikipedia.org/wiki/User_talk:Noemare">User talk:Noemare - Wikipedia</a></li>
+<li> 15:10 <a href="https://en.wikipedia.org/wiki/User_talk:Tacyarg">User talk:Tacyarg - Wikipedia</a></li>
+<li> 15:10 <a href="https://en.wikipedia.org/w/index.php?title=Kit_Miyamoto&action=history">Kit Miyamoto: Revision history - Wikipedia</a></li>
+<li> 15:09 <a href="https://en.wikipedia.org/w/index.php?title=Kit_Miyamoto&oldid=1325642228">Kit Miyamoto - Wikipedia</a></li>
+<li> 15:09 <a href="https://en.wikipedia.org/w/index.php?title=Kit_Miyamoto&action=history">Kit Miyamoto: Revision history - Wikipedia</a></li>
+<li> 15:09 <a href="https://en.wikipedia.org/wiki/Kit_Miyamoto#Media">Kit Miyamoto - Wikipedia</a></li>
+<li> 15:08 <a href="https://en.wikipedia.org/wiki/Kit_Miyamoto">Kit Miyamoto - Wikipedia</a></li>
+<li> 15:08 <a href="https://en.wikipedia.org/w/index.php?title=Kit_Miyamoto&action=edit&section=6">Editing Kit Miyamoto - Wikipedia</a></li>
+<li> 15:08 <a href="https://en.wikipedia.org/wiki/Kit_Miyamoto#cite_ref-latimes.com_40-0">Kit Miyamoto - Wikipedia</a></li>
+<li> 15:08 <a href="https://en.wikipedia.org/wiki/Kit_Miyamoto#cite_note-latimes.com-40">Kit Miyamoto - Wikipedia</a></li>
+<li> 15:08 www.rollingstone.com</li>
+<li> 15:07 <a href="https://en.wikipedia.org/wiki/Kit_Miyamoto?venotify=saved">Kit Miyamoto - Wikipedia</a></li>
+<li> 15:07 <a href="https://en.wikipedia.org/wiki/Kit_Miyamoto">Kit Miyamoto - Wikipedia</a></li>
+<li> 15:07 <a href="https://en.wikipedia.org/wiki/Kit_Miyamoto?veswitched=1&action=edit">Kit Miyamoto - Wikipedia</a></li>
+<li> 15:07 <a href="https://en.wikipedia.org/wiki/Brian_Cox_(physicist)">Brian Cox (physicist) - Wikipedia</a></li>
+<li> 15:06 <a href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein - Wikipedia</a></li>
+<li> 15:06 duckduckgo.com</li>
+<li> 15:05 <a href="https://en.wikipedia.org/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_blog,_web_hosting_service,_social_networking_service,_or_memorial_site">Wikipedia:What Wikipedia is not - Wikipedia</a></li>
+<li> 15:05 <a href="https://en.wikipedia.org/wiki/Wikipedia:NOTCV">Wikipedia:What Wikipedia is not - Wikipedia</a></li>
+<li> 15:05 <a href="https://en.wikipedia.org/wiki/Wikipedia:Notability_(people)#Lists_of_people">Wikipedia:Notability (people) - Wikipedia</a></li>
+<li> 15:05 <a href="https://en.wikipedia.org/wiki/Wikipedia:LISTBIO">Wikipedia:Notability (people) - Wikipedia</a></li>
+<li> 15:03 <a href="https://en.wikipedia.org/wiki/Wikipedia:What_Wikipedia_is_not">Wikipedia:What Wikipedia is not - Wikipedia</a></li>
+<li> 15:03 duckduckgo.com</li>
+<li> 15:03 <a href="https://en.wikipedia.org/wiki/Kit_Miyamoto?veswitched=1&oldid=1325644895&action=edit">Editing Kit Miyamoto - Wikipedia</a></li>
+<li> 15:03 chatgpt.com</li>
+<li class='same'> 15:02 chatgpt.com</li>
+<li> 15:02 chat.openai.com</li>
+<li> 15:02 <a href="https://en.wikipedia.org/wiki/Kit_Miyamoto?action=edit&veswitched=1">Editing Kit Miyamoto - Wikipedia</a></li>
+<li> 15:02 <a href="https://en.wikipedia.org/w/index.php?title=Kit_Miyamoto&action=edit">Editing Kit Miyamoto - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/wiki/Miyamoto_International">Miyamoto International - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/wiki/Kit_Miyamoto#/media/File:Dr._Kit_Miyamoto_Of_Miyamoto_International_with_journalist_Anderson_Cooper.jpg">Kit Miyamoto - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/wiki/Kit_Miyamoto">Kit Miyamoto - Wikipedia</a></li>
+<li> 15:00 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 15:00 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:00 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:00 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:00 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:00 <a href="https://en.wikipedia.org/"></a></li>
+<li> 15:00 feedly.com</li>
+<li> 14:59 www.linkedin.com</li>
+<li> 14:59 web.whatsapp.com</li>
+<li> 14:32 rhul.sharepoint.com</li>
 <li class='same'> 14:31 rhul.sharepoint.com</li>
 <li> 14:07 feedly.com</li>
 <li> 14:07 www.linkedin.com</li>
