@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4191)</li>
+<ol><li>mail.google.com (4193)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4012)</li>
 <li>www.google.com (3947)</li>
@@ -76,17 +76,17 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2642)</li>
 <li>duckduckgo.com (2510)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1522)</li>
+<li>chatgpt.com (1523)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1351)</li>
-<li>login.microsoftonline.com (1147)</li>
+<li>www.linkedin.com (1354)</li>
+<li>login.microsoftonline.com (1150)</li>
 <li>www.amazon.co.uk (1049)</li>
 <li>calendar.google.com (1023)</li>
 <li>moodle.royalholloway.ac.uk (890)</li>
 <li>rhul-my.sharepoint.com (809)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (662)</li>
-<li>web.whatsapp.com (645)</li>
+<li>web.whatsapp.com (646)</li>
 <li>chat.openai.com (632)</li>
 <li>tvtropes.org (630)</li>
 <li>herts.instructure.com (621)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:12 mail.google.com</li>
+<ul><li> 15:32 www.linkedin.com</li>
+<li> 15:31 myview.rhul.zellis.com</li>
+<li> 15:31 login.microsoftonline.com</li>
+<li> 15:31 myview.rhul.zellis.com</li>
+<li> 15:31 login.microsoftonline.com</li>
+<li class='same'> 15:30 login.microsoftonline.com</li>
+<li> 15:30 myview.rhul.zellis.com</li>
+<li> 15:16 web.whatsapp.com</li>
+<li> 15:04 fast.com</li>
+<li> 15:04 chatgpt.com</li>
+<li> 15:03 mail.google.com</li>
+<li> 15:02 www.linkedin.com</li>
+<li class='same'> 15:01 www.linkedin.com</li>
+<li> 15:01 <a href="https://en.wikipedia.org/"></a></li>
+<li> 15:00 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:12 mail.google.com</li>
 <li> 12:12 gmail.com</li>
 <li> 12:12 www.linkedin.com</li>
 <li class='same'> 12:11 www.linkedin.com</li>
