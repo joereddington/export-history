@@ -71,15 +71,15 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4190)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4012)</li>
-<li>www.google.com (3948)</li>
 <li>outlook.office365.com (3945)</li>
+<li>www.google.com (3943)</li>
 <li>docs.google.com (2642)</li>
 <li>duckduckgo.com (2508)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1522)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1346)</li>
-<li>login.microsoftonline.com (1148)</li>
+<li>login.microsoftonline.com (1147)</li>
 <li>www.amazon.co.uk (1049)</li>
 <li>calendar.google.com (1023)</li>
 <li>moodle.royalholloway.ac.uk (890)</li>
@@ -17549,7 +17549,6 @@ With number of accesses/minutes in parentheses
 <li> 13:22 rhul-my.sharepoint.com</li>
 <li> 13:21 login.microsoftonline.com</li>
 <li> 13:21 outlook.office365.com</li>
-<li> 13:21 login.microsoftonline.com</li>
 <li> 13:18 www.reddit.com</li>
 <li class='same'> 13:17 www.reddit.com</li>
 <li> 12:57 www.lancashire.ac.uk</li>
@@ -17720,7 +17719,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:23 outlook.office.com</li>
 <li> 17:22 <a href="https://www.theguardian.com/uk-news/2025/sep/04/nhs-surgeon-legs-removed-jailed-fraud">NHS surgeon who had his legs removed to satisfy sexual interest is jailed for fraud | Crime | The Guardian</a></li>
 <li> 17:17 outlook.office.com</li>
-<li> 17:16 www.google.com</li>
 </ul>
 
 <br>
@@ -17785,11 +17783,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:29 calendar.google.com</li>
 <li> 14:26 outlook.office.com</li>
 <li class='same'> 14:25 outlook.office.com</li>
-<li> 14:25 www.google.com</li>
-<li class='same'> 14:24 www.google.com</li>
-<li class='same'> 14:23 www.google.com</li>
-<li class='same'> 14:22 www.google.com</li>
-<li class='same'> 14:20 www.google.com</li>
+<li> 14:20 www.google.com</li>
 <li class='same'> 14:19 www.google.com</li>
 <li class='same'> 14:18 www.google.com</li>
 <li class='same'> 14:17 www.google.com</li>
