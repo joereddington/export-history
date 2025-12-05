@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4190)</li>
+<ol><li>mail.google.com (4191)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4012)</li>
 <li>www.google.com (3947)</li>
-<li>outlook.office365.com (3945)</li>
+<li>outlook.office365.com (3946)</li>
 <li>docs.google.com (2642)</li>
-<li>duckduckgo.com (2508)</li>
+<li>duckduckgo.com (2510)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1522)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1346)</li>
+<li>www.linkedin.com (1351)</li>
 <li>login.microsoftonline.com (1147)</li>
 <li>www.amazon.co.uk (1049)</li>
 <li>calendar.google.com (1023)</li>
 <li>moodle.royalholloway.ac.uk (890)</li>
 <li>rhul-my.sharepoint.com (809)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (661)</li>
+<li>gmail.com (662)</li>
 <li>web.whatsapp.com (645)</li>
 <li>chat.openai.com (632)</li>
 <li>tvtropes.org (630)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 12:12 mail.google.com</li>
+<li> 12:12 gmail.com</li>
+<li> 12:12 www.linkedin.com</li>
+<li class='same'> 12:11 www.linkedin.com</li>
+<li> 12:09 knowyourmeme.com</li>
+<li> 12:09 duckduckgo.com</li>
+<li> 12:09 imgflip.com</li>
+<li> 12:09 duckduckgo.com</li>
+</ul>
+
+<br>
+
 <ul><li> 09:34 www.booking.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:15 www.linkedin.com</li>
+<li class='same'> 07:13 www.linkedin.com</li>
+<li class='same'> 07:12 www.linkedin.com</li>
+<li> 07:09 outlook.office365.com</li>
 </ul>
 
 <br>
