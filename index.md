@@ -71,8 +71,8 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4190)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4012)</li>
+<li>www.google.com (3947)</li>
 <li>outlook.office365.com (3945)</li>
-<li>www.google.com (3943)</li>
 <li>docs.google.com (2642)</li>
 <li>duckduckgo.com (2508)</li>
 <li>bsky.app (1581)</li>
@@ -104,7 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 05/12/25</H3>
+
+<br>
+
+<ul><li> 09:34 www.booking.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:28 www.kcl.ac.uk</li>
+<li> 06:28 www.google.com</li>
+</ul>
+
 <H3>Thursday, 04/12/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:26 komvos-node.org</li>
+<li> 21:26 www.google.com</li>
+<li> 21:26 m.youtube.com</li>
+<li> 21:25 www.google.com</li>
+<li> 21:25 kclpure.kcl.ac.uk</li>
+<li> 21:24 www.google.com</li>
+<li> 21:22 www.etymonline.com</li>
+</ul>
 
 <br>
 
@@ -266,6 +294,8 @@ With number of accesses/minutes in parentheses
 <li> 07:30 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 07:30 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 07:30 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:17 www.etymonline.com</li>
+<li class='same'> 07:16 www.etymonline.com</li>
 <li> 07:16 www.google.com</li>
 <li> 07:15 en.dailypakistan.com.pk</li>
 </ul>
