@@ -76,14 +76,14 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2642)</li>
 <li>duckduckgo.com (2510)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1523)</li>
+<li>chatgpt.com (1524)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1354)</li>
-<li>login.microsoftonline.com (1150)</li>
-<li>www.amazon.co.uk (1049)</li>
+<li>login.microsoftonline.com (1149)</li>
+<li>www.amazon.co.uk (1050)</li>
 <li>calendar.google.com (1026)</li>
 <li>moodle.royalholloway.ac.uk (890)</li>
-<li>rhul-my.sharepoint.com (809)</li>
+<li>rhul-my.sharepoint.com (807)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (662)</li>
 <li>web.whatsapp.com (646)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 06/12/25</H3>
+
+<br>
+
+<ul><li> 08:20 chatgpt.com</li>
+<li> 08:10 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
@@ -17623,15 +17629,12 @@ With number of accesses/minutes in parentheses
 <li> 13:40 www.reddit.com</li>
 <li class='same'> 13:39 www.reddit.com</li>
 <li class='same'> 13:38 www.reddit.com</li>
-<li> 13:34 rhul-my.sharepoint.com</li>
 <li> 13:34 outlook.office365.com</li>
 <li> 13:30 scholar.google.com</li>
 <li class='same'> 13:27 scholar.google.com</li>
 <li> 13:27 pure.royalholloway.ac.uk</li>
 <li> 13:26 duckduckgo.com</li>
 <li> 13:26 chatgpt.com</li>
-<li> 13:22 rhul-my.sharepoint.com</li>
-<li> 13:22 login.microsoftonline.com</li>
 <li> 13:22 rhul-my.sharepoint.com</li>
 <li> 13:21 login.microsoftonline.com</li>
 <li> 13:21 outlook.office365.com</li>
