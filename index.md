@@ -71,9 +71,9 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4193)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4012)</li>
-<li>www.google.com (3947)</li>
+<li>www.google.com (3948)</li>
 <li>outlook.office365.com (3946)</li>
-<li>docs.google.com (2642)</li>
+<li>docs.google.com (2643)</li>
 <li>duckduckgo.com (2510)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1524)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li>herts.instructure.com (621)</li>
 <li>github.com (553)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (551)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (553)</li>
 <li>forms.office.com (510)</li>
 <li>feedly.com (505)</li>
 <li>drive.google.com (433)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 06/12/25</H3>
+
+<br>
+
+<ul><li> 15:53 <a href="https://en.wikipedia.org/wiki/Attack_patterns">Wikipedia 1.0 Server - Computing articles</a></li>
+<li> 15:53 wp1.openzim.org</li>
+</ul>
+
+<br>
+
+<ul><li> 14:58 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:03 <a href="https://www.theguardian.com/politics/2025/dec/05/the-liz-truss-show-review-hapless-ravings-from-a-closet">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
 
 <br>
 
@@ -352,6 +370,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 08:06 www.paypal.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:31 calendar.google.com</li>
 <li> 07:30 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 07:30 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
@@ -397,6 +420,12 @@ With number of accesses/minutes in parentheses
 <li> 20:12 duckduckgo.com</li>
 <li> 20:12 tfl.gov.uk</li>
 <li> 20:11 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:40 sf1.shiningforcecentral.com</li>
+<li> 19:40 www.nlm.nih.gov</li>
 </ul>
 
 <br>
@@ -1007,7 +1036,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:03 www.romsgames.net</li>
+<ul><li> 07:05 sf1.shiningforcecentral.com</li>
+<li> 07:05 www.google.com</li>
+<li> 07:05 shining.fandom.com</li>
+<li class='same'> 07:04 shining.fandom.com</li>
+<li> 07:03 www.romsgames.net</li>
 <li> 07:03 www.google.com</li>
 <li> 06:58 libbyapp.com</li>
 <li> 06:58 <a href="https://en.wikipedia.org/"></a></li>
