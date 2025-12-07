@@ -70,8 +70,8 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4193)</li>
 <li>outlook.office.com (4085)</li>
-<li>www.reddit.com (4012)</li>
-<li>www.google.com (3948)</li>
+<li>www.reddit.com (4013)</li>
+<li>www.google.com (3959)</li>
 <li>outlook.office365.com (3946)</li>
 <li>docs.google.com (2643)</li>
 <li>duckduckgo.com (2510)</li>
@@ -90,8 +90,8 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (632)</li>
 <li>tvtropes.org (630)</li>
 <li>herts.instructure.com (621)</li>
+<li><a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a> (554)</li>
 <li>github.com (553)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (553)</li>
 <li>forms.office.com (510)</li>
 <li>feedly.com (505)</li>
 <li>drive.google.com (433)</li>
@@ -108,20 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 22:46 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+</ul>
+
+<br>
+
+<ul><li> 19:00 www.google.com</li>
+<li class='same'> 18:59 www.google.com</li>
+<li> 18:58 eurovision.tv</li>
+<li> 18:58 www.google.com</li>
+<li> 18:58 www.reddit.com</li>
+<li> 18:57 www.google.com</li>
+<li class='same'> 18:56 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 15:53 <a href="https://en.wikipedia.org/wiki/Attack_patterns">Wikipedia 1.0 Server - Computing articles</a></li>
 <li> 15:53 wp1.openzim.org</li>
+<li> 15:28 www.google.com</li>
+<li> 15:28 www.eventbrite.co.uk</li>
+<li> 15:13 www.google.com</li>
+<li> 15:13 www.eventbrite.co.uk</li>
+<li> 14:58 docs.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 14:58 docs.google.com</li>
+<ul><li> 12:19 www.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 11:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 11:03 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:03 <a href="https://www.theguardian.com/politics/2025/dec/05/the-liz-truss-show-review-hapless-ravings-from-a-closet">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -143,8 +164,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 18:12 calendar.google.com</li>
+<ul><li> 21:26 www.google.com</li>
+<li> 21:26 www.advance-he.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:36 www.advance-he.ac.uk</li>
+<li> 20:36 www.google.com</li>
+<li> 20:35 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
+</ul>
+
+<br>
+
+<ul><li> 18:12 calendar.google.com</li>
 <li class='same'> 18:07 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:04 <a href="https://joereddington.com/assets/TeachingRoomFontSizes.pdf">The itest project | Joe Reddington</a></li>
+<li> 16:04 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
+<li> 16:04 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 </ul>
 
 <br>
@@ -176,6 +217,16 @@ With number of accesses/minutes in parentheses
 <li> 12:09 duckduckgo.com</li>
 <li> 12:09 imgflip.com</li>
 <li> 12:09 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:22 <a href="https://www.bbc.co.uk/news/articles/cwyv7211jljo">Home - BBC News</a></li>
+<li> 11:22 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li class='same'> 10:59 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 10:58 <a href="https://www.bbc.co.uk/news/articles/cpvdkw4xgewo">Home - BBC News</a></li>
+<li> 10:58 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 10:58 www.google.com</li>
 </ul>
 
 <br>
@@ -693,7 +744,7 @@ With number of accesses/minutes in parentheses
 <li> 12:28 m365.cloud.microsoft</li>
 <li> 12:28 login.microsoftonline.com</li>
 <li> 12:28 www.hr.herts.ac.uk</li>
-<li> 12:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:27 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:27 mail.google.com</li>
 <li> 12:26 web.whatsapp.com</li>
 <li> 12:26 mail.google.com</li>
@@ -726,7 +777,7 @@ With number of accesses/minutes in parentheses
 <li> 12:15 www.amazon.com</li>
 <li class='same'> 12:14 www.amazon.com</li>
 <li> 12:14 kdp.amazon.com</li>
-<li> 12:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:13 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:13 www.linkedin.com</li>
 <li class='same'> 12:12 www.linkedin.com</li>
 <li> 12:12 outlook.office.com</li>
@@ -1069,11 +1120,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 19:42 www.google.com</li>
 <li> 19:40 <a href="https://www.theguardian.com/music/2025/nov/28/cliff-richard-everlasting-appeal">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:38 <a href="https://www.theguardian.com/music/2025/nov/28/cliff-richard-everlasting-appeal">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:35 <a href="https://www.theguardian.com/tv-and-radio/2025/nov/29/sandi-toksvig-great-riviera-rail-trip-almost-nothing-on-tv-is-as-joyful-as-her-effortlessly-entertaining-pootle">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:32 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -1085,7 +1136,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 12:16 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:16 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:54 www.barcelo.com</li>
 <li> 11:54 www.romsgames.net</li>
@@ -1100,7 +1151,7 @@ With number of accesses/minutes in parentheses
 <li> 11:42 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li class='same'> 11:32 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 11:21 <a href="https://www.bbc.co.uk/news/articles/cgjn2y4eed5o">BBC - Home</a></li>
-<li> 11:21 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 11:21 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 11:17 whatsupbeds.com</li>
 <li> 11:17 www.google.com</li>
 <li> 11:10 www.highbet.co.uk</li>
@@ -1114,10 +1165,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:38 <a href="https://www.bbc.co.uk/news/articles/cx272dj04rno">Home - BBC News</a></li>
 <li> 10:38 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 10:35 <a href="https://www.bbc.co.uk/news/articles/c7vm5d42r8mo">BBC - Home</a></li>
-<li> 10:34 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 10:34 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 10:34 <a href="https://www.bbc.co.uk/news/articles/cdxweyy157go">BBC - Home</a></li>
 <li> 10:34 www.google.com</li>
-<li> 10:34 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 10:34 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 10:28 accounts.intuit.com</li>
 <li> 10:05 mail.google.com</li>
 <li> 10:05 <a href="https://en.wikipedia.org/wiki/Isa_Chandra_Moskowitz">Isa Chandra Moskowitz - Wikipedia</a></li>
@@ -1377,7 +1428,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 07:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:40 libbyapp.com</li>
 <li> 07:40 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 07:35 duckduckgo.com</li>
@@ -1980,7 +2031,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:37 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<ul><li> 09:37 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 09:37 forms.cloud.microsoft</li>
 </ul>
 
@@ -2386,7 +2437,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:34 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<ul><li> 16:34 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 </ul>
 
 <br>
@@ -2924,15 +2975,15 @@ With number of accesses/minutes in parentheses
 <li> 06:42 www.androidpolice.com</li>
 <li> 06:42 www.amazon.co.uk</li>
 <li> 06:17 www.reddit.com</li>
-<li> 06:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:17 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:14 <a href="https://www.theguardian.com/books/2025/nov/20/jeeves-again-review-new-jeeves-and-wooster-stories-by-celebrity-fans">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:13 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:13 <a href="https://www.theguardian.com/sport/2025/nov/20/cadillac-copy-nasa-playbook-to-build-f1-team-from-scratch-to-hit-melbourne-startline">Cadillac copy Nasa playbook to build F1 team from scratch to hit Melbourne startline | Formula One | The Guardian</a></li>
 <li class='same'> 06:11 <a href="https://www.theguardian.com/sport/2025/nov/20/cadillac-copy-nasa-playbook-to-build-f1-team-from-scratch-to-hit-melbourne-startline">Cadillac copy Nasa playbook to build F1 team from scratch to hit Melbourne startline | Formula One | The Guardian</a></li>
-<li> 06:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:10 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:07 <a href="https://www.theguardian.com/tv-and-radio/2025/nov/20/the-death-of-bunny-munro-review-matt-smith-nick-cave-novel-adaptation-sky-now">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:05 www.google.com</li>
 </ul>
 
@@ -2955,7 +3006,7 @@ With number of accesses/minutes in parentheses
 <li> 16:24 www.linkedin.com</li>
 <li> 16:24 feedly.com</li>
 <li> 16:23 <a href="https://www.theguardian.com/education/2025/nov/20/university-of-staffordshire-course-taught-in-large-part-by-ai-artificial-intelligence">‘We could have asked ChatGPT’: students fight back over course taught by AI | Staffordshire University | The Guardian</a></li>
-<li> 16:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:22 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:21 outlook.office365.com</li>
 <li> 16:10 chatgpt.com</li>
 <li> 16:10 outlook.office365.com</li>
@@ -4036,7 +4087,7 @@ With number of accesses/minutes in parentheses
 <li> 09:30 legacy.drivethrurpg.com</li>
 <li> 09:30 mail.google.com</li>
 <li> 09:29 feedly.com</li>
-<li> 09:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:29 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:28 mail.google.com</li>
 <li> 09:28 www.gmail.com</li>
 <li> 09:26 www.linkedin.com</li>
@@ -4353,7 +4404,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 10:46 <a href="https://www.theguardian.com/education/2025/nov/15/levy-international-students-tuition-fees-uk-university">Levy on international students’ tuition fees not in best interest of UK, says leader of top university | Higher education | The Guardian</a></li>
-<li> 10:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:46 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:29 www.google.com</li>
 <li> 10:29 www.businessinsider.com</li>
 </ul>
@@ -4858,7 +4909,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:46 <a href="https://www.theguardian.com/uk-news/2025/nov/13/police-and-commissioners-to-be-abolished-government-to-announce">Police and crime commissioners to be abolished | Police and crime commissioners | The Guardian</a></li>
-<li> 16:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:46 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -5050,7 +5101,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 08:17 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:10 www.google.com</li>
 <li class='same'> 08:09 www.google.com</li>
 <li> 08:09 <a href="https://en.wikipedia.org/wiki/Northville_Historic_District_(New_York)">Wikipedia, the free encyclopedia</a></li>
@@ -6182,14 +6233,14 @@ With number of accesses/minutes in parentheses
 <li> 19:03 outlook.office365.com</li>
 <li class='same'> 19:02 outlook.office365.com</li>
 <li> 19:00 <a href="https://www.theguardian.com/uk-news/2025/nov/10/uk-transport-cyber-security-chiefs-investigate-chinese-made-buses">UK transport and cyber-security chiefs investigate Chinese-made buses | Transport | The Guardian</a></li>
-<li> 18:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:59 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:59 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 18:59 <a href="https://www.theguardian.com/media/video/2025/nov/10/side-by-side-comparison-of-bbc-edited-trump-speech-from-day-of-capitol-attack-with-original-video">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a></li>
 <li class='same'> 18:52 <a href="https://www.theguardian.com/media/video/2025/nov/10/side-by-side-comparison-of-bbc-edited-trump-speech-from-day-of-capitol-attack-with-original-video">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a></li>
 <li> 18:50 <a href="https://www.theguardian.com/politics/2025/nov/10/mps-to-examine-chinese-state-influence-british-universities">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:49 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:49 news.sky.com</li>
-<li> 18:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:49 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -6221,9 +6272,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:14 news.sky.com</li>
-<li> 08:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:14 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:14 news.sky.com</li>
-<li> 08:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:14 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:58 www.linkedin.com</li>
 <li> 07:57 outlook.office365.com</li>
 <li class='same'> 07:51 outlook.office365.com</li>
@@ -6332,7 +6383,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 13:44 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:44 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:40 <a href="https://www.theguardian.com/books/2025/nov/01/margaret-atwood-memoir-extract-booker-prize-death-of-partner">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a></li>
 <li> 13:40 www.reddit.com</li>
@@ -6349,7 +6400,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:23 feedly.com</li>
-<li> 08:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:23 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:19 www.linkedin.com</li>
 <li> 08:18 www.researchgate.net</li>
 <li> 08:17 ieeexplore.ieee.org</li>
@@ -7042,12 +7093,12 @@ With number of accesses/minutes in parentheses
 <li> 18:25 www.makeuseof.com</li>
 <li> 18:24 www.natesilver.net</li>
 <li class='same'> 18:22 www.natesilver.net</li>
-<li> 18:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:22 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 16:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 16:44 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:44 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:44 <a href="https://www.theguardian.com/world/2025/nov/03/israels-top-military-lawyer-arrested-after-she-admitted-leaking-video-of-soldiers-abuse">Israel’s top military lawyer arrested after she admitted leaking video of soldiers’ abuse | Israel | The Guardian</a></li>
 <li> 16:43 <a href="https://xkcd.com/">xkcd: Bridge Clearance</a></li>
@@ -7207,7 +7258,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 08:15 <a href="https://www.theguardian.com/world/2025/nov/03/israels-top-military-lawyer-arrested-after-she-admitted-leaking-video-of-soldiers-abuse">Israel’s top military lawyer arrested after she admitted leaking video of soldiers’ abuse | Israel | The Guardian</a></li>
-<li> 08:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:15 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:15 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -7263,7 +7314,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:36 outlook.office365.com</li>
 <li> 15:36 login.microsoftonline.com</li>
 <li> 15:32 <a href="https://www.theguardian.com/education/2025/nov/03/uk-university-halted-human-rights-research-after-pressure-from-china">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:23 libbyapp.com</li>
 <li> 15:20 <a href="https://en.wikipedia.org/wiki/Margaret_Atwood">Margaret Atwood - Wikipedia</a></li>
 <li> 15:20 duckduckgo.com</li>
@@ -7610,18 +7661,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 13:32 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 08:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 08:52 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:52 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
 <br>
 
-<ul><li> 07:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 07:06 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:04 www.google.com</li>
 <li class='same'> 07:03 www.google.com</li>
 <li class='same'> 07:02 www.google.com</li>
@@ -7638,10 +7689,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 19:41 <a href="https://www.theguardian.com/books/2025/nov/01/margaret-atwood-memoir-extract-booker-prize-death-of-partner">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a></li>
-<li> 19:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:38 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 19:23 <a href="https://www.theguardian.com/world/2025/nov/01/man-killed-in-south-yorkshire-helicopter-crash-named-as-peter-smith">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:23 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:23 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -7652,9 +7703,9 @@ With number of accesses/minutes in parentheses
 <li> 15:13 <a href="https://www.theguardian.com/australia-news/2025/nov/01/luxury-cruise-cancelled-after-80-year-old-left-behind-on-lizard-island-dies-alone">Mary Earps says she told Wiegman she was rewarding Hampton’s ‘bad behaviour’ | Mary Earps | The Guardian</a></li>
 <li> 15:13 <a href="https://www.theguardian.com/football/2025/oct/31/mary-earps-sarina-wiegman-england-lionesses">Luxury cruise cancelled after 80-year-old left behind on Lizard Island dies alone | Queensland | The Guardian</a></li>
 <li class='same'> 15:02 <a href="https://www.theguardian.com/football/2025/oct/31/mary-earps-sarina-wiegman-england-lionesses">Luxury cruise cancelled after 80-year-old left behind on Lizard Island dies alone | Queensland | The Guardian</a></li>
-<li> 15:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:01 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:00 <a href="https://www.theguardian.com/world/2025/nov/01/chelsea-defender-wesley-fofana-gets-driving-ban-for-speeding-on-hard-shoulder">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:59 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:59 www.google.com</li>
 </ul>
 
@@ -7971,11 +8022,11 @@ With number of accesses/minutes in parentheses
 <li> 10:41 <a href="https://www.theguardian.com/education/2025/oct/29/university-finances-and-the-elephant-in-the-senior-common-room">The truth behind the disappearance of Charlene Downes: ‘She was reduced to this salacious, shocking story’ | Crime | The Guardian</a></li>
 <li> 10:41 <a href="https://www.theguardian.com/politics/2025/oct/29/rachel-reeves-admits-breaking-rules-by-renting-out-her-house-without-a-licence">University finances and the elephant in the senior common room | Universities | The Guardian</a></li>
 <li> 10:40 <a href="https://www.theguardian.com/education/2025/oct/29/university-finances-and-the-elephant-in-the-senior-common-room">The truth behind the disappearance of Charlene Downes: ‘She was reduced to this salacious, shocking story’ | Crime | The Guardian</a></li>
-<li> 10:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:39 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:38 <a href="https://www.theguardian.com/environment/2025/oct/30/insurers-calling-for-trees-to-be-felled-as-cheap-fix-for-subsidence-say-critics">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:36 <a href="https://www.theguardian.com/business/2025/oct/30/virgin-trains-eurostar-cross-channel-monopoly-temple-mills-depot-london">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:36 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:36 www.linkedin.com</li>
 <li> 10:34 mail.google.com</li>
 <li class='same'> 10:27 mail.google.com</li>
@@ -8176,7 +8227,7 @@ With number of accesses/minutes in parentheses
 <li> 18:12 duckduckgo.com</li>
 <li> 18:05 kdpreports.amazon.com</li>
 <li> 18:05 kdp.amazon.com</li>
-<li> 17:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:58 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:58 www.sainsburys.co.uk</li>
 <li> 17:53 outlook.office365.com</li>
 <li> 17:53 login.microsoftonline.com</li>
@@ -8436,7 +8487,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:05 login.microsoftonline.com</li>
 <li> 08:05 www.hr.herts.ac.uk</li>
 <li> 08:04 feedly.com</li>
-<li> 08:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:04 feedly.com</li>
 <li> 08:02 www.linkedin.com</li>
 <li> 08:01 c-mric.org</li>
@@ -8446,7 +8497,7 @@ With number of accesses/minutes in parentheses
 <li> 07:57 www.microsoft.com</li>
 <li> 07:57 forms.office.com</li>
 <li> 07:48 feedly.com</li>
-<li> 07:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:48 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:44 www.linkedin.com</li>
 <li> 07:41 calendar.google.com</li>
 <li class='same'> 07:40 calendar.google.com</li>
@@ -8831,14 +8882,14 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:04 <a href="https://www.theguardian.com/us-news/2025/oct/24/surprise-sanctions-look-to-have-ended-trump-and-putin-groundhog-day">Surprise sanctions look to have ended Trump and Putin’s Groundhog Day | US foreign policy | The Guardian</a></li>
 <li> 17:04 login.microsoftonline.com</li>
 <li> 17:03 www.ebay.co.uk</li>
-<li> 17:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:03 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:46 outlook.office365.com</li>
 <li> 16:31 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 16:31 experience.elluciancloud.ie</li>
 <li> 16:30 outlook.office365.com</li>
 <li> 16:27 www.darkreading.com</li>
 <li> 16:22 feedly.com</li>
-<li> 16:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:22 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:22 outlook.office365.com</li>
 <li class='same'> 16:21 outlook.office365.com</li>
 <li> 16:02 generalssb-prod.ec.royalholloway.ac.uk</li>
@@ -9203,11 +9254,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:59 <a href="https://www.theguardian.com/us-news/2025/oct/22/donald-trump-damages-federal-investigations">Trump says he has final say on paying himself $230m for past investigations | Donald Trump | The Guardian</a></li>
-<li> 21:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:57 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:56 <a href="https://www.theguardian.com/world/2025/oct/22/zelenskyy-calls-trumps-proposal-to-freeze-war-at-current-frontlines-good-compromise">Latest news, sport and opinion from the Guardian</a></li>
-<li> 21:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:55 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:55 www.google.com</li>
-<li> 21:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:55 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -9380,7 +9431,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:22 <a href="https://www.theguardian.com/world/2025/oct/22/how-pope-leo-confounds-conservatives-immigration-climate-crisis-poverty-francis">Latest news, sport and opinion from the Guardian</a></li>
-<li> 10:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:22 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:21 <a href="https://www.theguardian.com/commentisfree/2025/oct/22/keir-starmer-rachel-reeves-brexit-eu-labour">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
@@ -9691,9 +9742,9 @@ With number of accesses/minutes in parentheses
 <li> 07:27 www.independent.co.uk</li>
 <li> 07:26 duckduckgo.com</li>
 <li> 07:23 feedly.com</li>
-<li> 07:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:23 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:23 feedly.com</li>
-<li> 07:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:23 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:23 feedly.com</li>
 <li> 07:23 t1b.gobright.cloud</li>
 <li class='same'> 07:22 t1b.gobright.cloud</li>
@@ -10681,7 +10732,7 @@ With number of accesses/minutes in parentheses
 <li> 16:49 www.timeshighereducation.com</li>
 <li> 16:47 www.ucas.com</li>
 <li> 16:46 duckduckgo.com</li>
-<li> 16:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:42 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:42 feedly.com</li>
 <li> 16:29 <a href="https://www.youtube.com/watch?v=HmqEAswAAA4&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=117">GCSE Maths: N4-12 [Venn Diagram with LCM & HCF] - YouTube</a></li>
 <li> 16:28 <a href="https://www.youtube.com/watch?v=bZod37igzQk&t=1207s">Best and Worst Recovery Methods Ranked By Exercise Scientists - YouTube</a></li>
@@ -10707,7 +10758,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:35 mail.google.com</li>
 <li> 15:35 gmail.com</li>
 <li> 15:35 feedly.com</li>
-<li> 15:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:35 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:34 mail.google.com</li>
 <li> 15:32 feedly.com</li>
 <li> 15:31 ce0997li.webitrent.com</li>
@@ -10909,7 +10960,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 18:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -11445,7 +11496,7 @@ With number of accesses/minutes in parentheses
 <li> 14:28 www.sciencedirect.com</li>
 <li> 14:28 fepbl.com</li>
 <li> 14:27 outlook.office365.com</li>
-<li> 14:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:27 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:25 feedly.com</li>
 <li> 14:25 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:24 outlook.office365.com</li>
@@ -11455,7 +11506,7 @@ With number of accesses/minutes in parentheses
 <li> 13:52 outlook.office365.com</li>
 <li> 13:49 rhul-my.sharepoint.com</li>
 <li> 13:48 dashboards.rhul.ac.uk</li>
-<li> 13:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:47 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:47 outlook.office.com</li>
 <li> 13:46 herts365-my.sharepoint.com</li>
 <li class='same'> 13:45 herts365-my.sharepoint.com</li>
@@ -12038,10 +12089,10 @@ With number of accesses/minutes in parentheses
 <li> 07:16 www.amazon.co.uk</li>
 <li class='same'> 07:15 www.amazon.co.uk</li>
 <li> 06:58 <a href="https://www.theguardian.com/tv-and-radio/2025/oct/06/joe-wicks-licensed-to-kill-review-protein-bars-channel-4">Joe Wicks: Licensed to Kill review – TV so vile you’ll never touch a protein bar again | Television | The Guardian</a></li>
-<li> 06:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:57 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:57 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:56 <a href="https://www.theguardian.com/world/2025/oct/07/israelis-gather-to-mark-two-years-since-7-october-hamas-attack-that-killed-1200">Israelis gather to mark two years since 7 October Hamas attack that killed 1,200 | Israel | The Guardian</a></li>
-<li> 06:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:56 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:56 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:56 www.reddit.com</li>
 <li> 06:55 libbyapp.com</li>
@@ -12090,7 +12141,7 @@ With number of accesses/minutes in parentheses
 <li> 15:50 <a href="https://www.youtube.com/watch?v=yy2ul2ZG7qY">(7) ChatGPT Works with iTerm2 And It's Surprisingly Useful - YouTube</a></li>
 <li> 15:49 <a href="https://www.youtube.com/results?search_query=iterm2+ai">(7) iterm2 ai - YouTube</a></li>
 <li> 15:49 <a href="https://www.youtube.com/">(36) YouTube</a></li>
-<li> 15:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:48 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:48 dashboards.rhul.ac.uk</li>
 <li> 15:47 outlook.office365.com</li>
 <li class='same'> 15:46 outlook.office365.com</li>
@@ -12102,18 +12153,18 @@ With number of accesses/minutes in parentheses
 <li> 15:00 dashboards.rhul.ac.uk</li>
 <li> 14:56 outlook.office365.com</li>
 <li class='same'> 14:55 outlook.office365.com</li>
-<li> 14:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:38 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:37 github.com</li>
 <li class='same'> 14:36 github.com</li>
 <li> 14:35 <a href="https://www.theguardian.com/football/2025/oct/05/gary-neville-says-he-took-down-a-union-flag-being-used-in-a-negative-fashion">Gary Neville says he took down union flag being ‘used in a negative fashion’ | Manchester | The Guardian</a></li>
-<li> 14:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:33 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:33 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:32 mail.google.com</li>
 <li> 14:31 discord.com</li>
 <li class='same'> 14:30 discord.com</li>
-<li> 14:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:30 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:30 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:23 rhul-my.sharepoint.com</li>
 <li> 14:22 www.reddit.com</li>
@@ -12129,7 +12180,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:04 www.doxdirect.com</li>
 <li class='same'> 14:03 www.doxdirect.com</li>
 <li> 14:03 <a href="https://www.theguardian.com/world/2025/oct/06/gisele-pelicot-returns-court-face-one-men-convicted-raping-her-husamettin-dogan-appeal">Gisèle Pelicot returns to court to face one of men convicted of raping her | Gisèle Pelicot | The Guardian</a></li>
-<li> 14:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:03 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:03 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:02 www.reddit.com</li>
 <li class='same'> 14:01 www.reddit.com</li>
@@ -13133,7 +13184,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:20 outlook.office365.com</li>
 <li class='same'> 18:10 outlook.office365.com</li>
 <li> 18:09 <a href="https://www.theguardian.com/culture/2025/sep/30/riyadh-comedy-festival-saudi-arabia">US comedians defend decision to play in Saudi Arabia: ‘They’re paying me enough to look the other way’ | Comedy | The Guardian</a></li>
-<li> 18:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:08 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:08 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 18:08 web.whatsapp.com</li>
 <li> 18:08 outlook.office365.com</li>
@@ -13240,7 +13291,7 @@ With number of accesses/minutes in parentheses
 <li> 11:40 login.microsoftonline.com</li>
 <li> 11:40 forms.office.com</li>
 <li> 11:37 feedly.com</li>
-<li> 11:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:36 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:36 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:35 career-advice.jobs.ac.uk</li>
 </ul>
@@ -13318,7 +13369,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:34 docs.google.com</li>
 <li class='same'> 07:27 docs.google.com</li>
 <li> 07:16 <a href="https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears">South Korea raises cyber threat level after huge data centre fire sparks hacking fears | South Korea | The Guardian</a></li>
-<li> 07:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:15 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:06 www.reddit.com</li>
 <li class='same'> 07:05 www.reddit.com</li>
 <li> 07:04 kdpreports.amazon.com</li>
@@ -13343,7 +13394,7 @@ With number of accesses/minutes in parentheses
 <li> 07:00 theopenvoicefactory.org</li>
 <li> 07:00 equalitytime.github.io</li>
 <li> 07:00 theopenvoicefactory.org</li>
-<li> 06:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:54 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:53 chatgpt.com</li>
 <li> 06:51 www.whitewaterwriters.com</li>
 <li> 06:49 eu-west-2.console.aws.amazon.com</li>
@@ -13410,7 +13461,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:52 www.reddit.com</li>
 <li class='same'> 18:51 www.reddit.com</li>
 <li> 18:25 <a href="https://www.theguardian.com/commentisfree/2025/sep/28/the-guardian-view-on-the-2025-booker-prize-bringing-posh-bingo-to-the-booktok-generation">The Guardian view on the 2025 Booker prize: bringing posh bingo to the BookTok generation | Editorial | The Guardian</a></li>
-<li> 18:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:23 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:23 www.reddit.com</li>
 </ul>
 
@@ -13425,7 +13476,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:23 www.reddit.com</li>
 <li class='same'> 16:22 www.reddit.com</li>
 <li> 16:12 feedly.com</li>
-<li> 16:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:11 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:11 outlook.office365.com</li>
 <li> 16:11 www.reddit.com</li>
 <li> 16:04 rhul-my.sharepoint.com</li>
@@ -13443,7 +13494,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:28 www.reddit.com</li>
 <li> 14:27 discord.com</li>
 <li class='same'> 14:26 discord.com</li>
-<li> 14:07 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:07 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:07 www.reddit.com</li>
 <li> 14:06 outlook.office365.com</li>
 <li> 14:06 www.reddit.com</li>
@@ -13652,7 +13703,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:44 <a href="https://www.theguardian.com/us-news/2025/sep/28/us-mass-resignation-federal-workers">US set for largest mass resignation in history as Trump continues deep cuts | Trump administration | The Guardian</a></li>
-<li> 13:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:42 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:42 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:40 www.reddit.com</li>
 <li class='same'> 13:38 www.reddit.com</li>
@@ -13673,21 +13724,21 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:34 <a href="https://www.theguardian.com/business/2025/sep/28/bullion-bonanza-why-is-gold-hitting-record-highs">Bullion bonanza: why is gold hitting record highs? | Gold | The Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:33 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
 <br>
 
-<ul><li> 11:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 11:55 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:55 <a href="https://www.theguardian.com/society/2025/sep/26/the-reading-of-the-will-only-happens-in-fiction">The reading of the will only happens in fiction | Death and dying | The Guardian</a></li>
-<li> 11:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:55 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:54 <a href="https://www.theguardian.com/society/2025/sep/26/you-be-the-judge-jury-was-wrong-about-adhd">You be the judge jury was wrong about ADHD | Attention deficit hyperactivity disorder | The Guardian</a></li>
-<li> 11:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 11:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:49 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 11:32 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:32 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:28 <a href="https://www.theguardian.com/world/2025/sep/27/putin-preparing-to-attack-another-european-country-zelenskyy-says">Putin preparing to attack another European country, Zelenskyy says | Ukraine | The Guardian</a></li>
-<li> 11:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:28 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:24 www.parkrun.org.uk</li>
 <li class='same'> 11:23 www.parkrun.org.uk</li>
 <li> 11:23 www.reddit.com</li>
@@ -13757,7 +13808,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:40 <a href="https://www.theguardian.com/technology/2025/sep/26/kido-nursery-hackers-radiant-threaten-publish-children-profiles">Kido nursery hackers threaten to publish more children’s profiles | Cybercrime | The Guardian</a></li>
-<li> 17:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:40 www.reddit.com</li>
 <li class='same'> 17:39 www.reddit.com</li>
 <li> 17:38 web.whatsapp.com</li>
@@ -13778,7 +13829,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:00 outlook.office365.com</li>
 <li class='same'> 15:59 outlook.office365.com</li>
 <li> 15:58 <a href="https://www.theguardian.com/commentisfree/2025/sep/26/reply-guys-exist-inboxes-multiple-women-when-target-responds-they-retreat-why">‘Reply guys’ exist in the inboxes of multiple women simultaneously. When a target finally responds, they retreat. Why? | Lucinda Price | The Guardian</a></li>
-<li> 15:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:55 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:54 www.giantitp.com</li>
 <li> 15:53 www.reddit.com</li>
 <li class='same'> 15:52 www.reddit.com</li>
@@ -13786,7 +13837,7 @@ With number of accesses/minutes in parentheses
 <li> 15:51 www.google.com</li>
 <li> 15:51 www.linkedin.com</li>
 <li> 15:48 <a href="https://www.theguardian.com/commentisfree/2025/sep/26/king-of-the-north-andy-burnham-liverpool-tory-conferences">Will he? Won’t he? Do the King of the North’s antics remind you of anyone? | Marina Hyde | The Guardian</a></li>
-<li> 15:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:47 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:46 www.reddit.com</li>
 <li> 15:45 outlook.office365.com</li>
 </ul>
@@ -14470,7 +14521,7 @@ With number of accesses/minutes in parentheses
 <li> 13:15 <a href="https://www.theguardian.com/uk-news/2025/sep/22/what-swayed-the-decision-for-second-gatwick-runway-and-what-does-it-mean-for-heathrow">What swayed the decision for second Gatwick runway and what does it mean for Heathrow? | Gatwick airport | The Guardian</a></li>
 <li> 13:14 <a href="https://www.theguardian.com/politics/2025/sep/23/what-does-boriswave-mean-nigel-farage-reform-uk-immigration">What does ‘Boriswave’ mean and what is its political significance? | Reform UK | The Guardian</a></li>
 <li> 13:13 feedly.com</li>
-<li> 13:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:11 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -14777,7 +14828,7 @@ With number of accesses/minutes in parentheses
 <li> 09:27 github.com</li>
 <li> 09:27 www.google.com</li>
 <li> 09:19 docs.google.com</li>
-<li> 09:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:09 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:08 www.reddit.com</li>
 <li class='same'> 09:07 www.reddit.com</li>
 <li> 09:07 www.linkedin.com</li>
@@ -14860,13 +14911,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 08:42 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:42 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
 <br>
 
-<ul><li> 06:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 06:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -14889,9 +14940,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 11:37 www.google.com</li>
 <li> 11:33 <a href="https://www.theguardian.com/politics/2025/sep/19/labour-rules-against-dozens-of-motions-about-palestine-being-debated-at-party-conference">Labour rules against dozens of motions about Palestine being debated at party conference | Labour | The Guardian</a></li>
-<li> 11:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:33 <a href="https://www.theguardian.com/world/2025/sep/20/idf-warns-aid-workers-only-hospitals-are-protected-sites-in-northern-gaza">IDF warns aid workers only hospitals are protected sites in northern Gaza | Gaza | The Guardian</a></li>
-<li> 11:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:32 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:32 chatgpt.com</li>
 <li> 11:32 chat.openai.com</li>
 <li> 11:31 www.factorio.com</li>
@@ -14951,7 +15002,7 @@ With number of accesses/minutes in parentheses
 <li> 07:52 duckduckgo.com</li>
 <li> 07:51 <a href="https://www.theguardian.com/education/2025/sep/20/quarter-of-uk-university-physics-departments-at-risk-of-closing-survey-finds">Quarter of UK university physics departments at risk of closing, survey finds | Physics | The Guardian</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/us-news/2025/sep/19/ted-cruz-jimmy-kimmel-abc-fcc-mafia">Ted Cruz compares threats to ABC by FCC chair to those of mob boss | Ted Cruz | The Guardian</a></li>
-<li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:45 www.reddit.com</li>
 <li class='same'> 07:29 www.reddit.com</li>
@@ -15179,7 +15230,7 @@ With number of accesses/minutes in parentheses
 <li> 20:22 forms.office.com</li>
 <li> 20:20 duckduckgo.com</li>
 <li> 20:11 forms.office.com</li>
-<li> 20:08 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 20:08 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 20:05 ev.turnitinuk.com</li>
 <li> 20:04 herts.instructure.com</li>
 <li> 20:01 meet.google.com</li>
@@ -15200,11 +15251,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:49 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<ul><li> 18:49 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 18:47 <a href="https://www.bbc.co.uk/news/articles/c62z8k14kxxo">Teenagers charged over Transport for London cyber attack - BBC News</a></li>
-<li> 18:47 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 18:47 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 18:43 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/18/trump-v-the-truth-review-channel-4">Trump v the Truth review – no other broadcaster would attempt TV so daring (and mind-numbing) | Television & radio | The Guardian</a></li>
-<li> 18:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:42 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -15230,7 +15281,7 @@ With number of accesses/minutes in parentheses
 <li> 15:48 detectportal.firefox.com</li>
 <li> 15:34 www.linkedin.com</li>
 <li> 15:33 <a href="https://www.theguardian.com/us-news/2025/sep/18/what-did-jimmy-kimmel-say-said-comments-about-charlie-kirk">Explainer: What did Jimmy Kimmel say about Charlie Kirk’s killing? | Trump administration | The Guardian</a></li>
-<li> 15:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:33 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:32 www.linkedin.com</li>
 <li> 15:31 www.reddit.com</li>
@@ -15247,7 +15298,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:44 <a href="https://www.theguardian.com/world/2025/sep/18/macrons-submit-scientific-evidence-us-court-prove-brigitte-not-man">Macrons to submit scientific evidence to US court to prove Brigitte was not born a man | Emmanuel Macron | The Guardian</a></li>
-<li> 14:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:43 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:43 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/18/jimmy-kimmel-live-suspended-indefinitely-after-hosts-charlie-kirk-comments">Jimmy Kimmel Live! suspended over Charlie Kirk comments after US government pressure | Jimmy Kimmel | The Guardian</a></li>
 </ul>
@@ -15264,7 +15315,7 @@ With number of accesses/minutes in parentheses
 <li> 12:25 forms.office.com</li>
 <li class='same'> 12:21 forms.office.com</li>
 <li> 12:16 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/18/jimmy-kimmel-live-suspended-indefinitely-after-hosts-charlie-kirk-comments">Jimmy Kimmel Live! suspended over Charlie Kirk comments after US government pressure | Jimmy Kimmel | The Guardian</a></li>
-<li> 12:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:15 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:15 www.reddit.com</li>
 <li> 12:14 forms.office.com</li>
 <li> 12:13 duckduckgo.com</li>
@@ -15443,7 +15494,7 @@ With number of accesses/minutes in parentheses
 <li> 17:05 outlook.office365.com</li>
 <li> 17:05 mail.google.com</li>
 <li> 17:03 feedly.com</li>
-<li> 17:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:02 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 17:00 mail.google.com</li>
 <li> 16:59 analytics.google.com</li>
@@ -15454,7 +15505,7 @@ With number of accesses/minutes in parentheses
 <li> 16:57 analytics.google.com</li>
 <li> 16:57 accounts.google.com</li>
 <li> 16:56 <a href="https://www.theguardian.com/uk-news/2025/sep/17/southport-killer-axel-rudakubana-brother-inquiry">Southport killer was discharged from mental health services six days before attack, inquiry hears | Southport attack | The Guardian</a></li>
-<li> 16:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:56 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:56 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:54 mail.google.com</li>
 <li class='same'> 16:53 mail.google.com</li>
@@ -15527,7 +15578,7 @@ With number of accesses/minutes in parentheses
 <li> 13:12 outlook.office365.com</li>
 <li> 13:11 moodle.royalholloway.ac.uk</li>
 <li> 13:07 <a href="https://www.theguardian.com/uk-news/2025/sep/17/man-charged-blackmail-westminster-mps">Man charged with blackmail over incidents involving MPs, say police | UK news | The Guardian</a></li>
-<li> 13:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:06 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:06 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:03 moodle.royalholloway.ac.uk</li>
 <li> 13:03 web.whatsapp.com</li>
@@ -15606,12 +15657,12 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:24 web.whatsapp.com</li>
 <li> 09:24 <a href="https://www.theguardian.com/education/2025/sep/17/third-of-uk-parents-have-sought-special-needs-assessment-for-their-child-survey-finds">Third of UK parents have sought special needs assessment for their child, survey finds | Special educational needs | The Guardian</a></li>
 <li> 09:22 <a href="https://www.theguardian.com/football/2025/sep/16/kash-patel-liverpool-fc-tie-us-senate-hearing">FBI director Kash Patel wears Liverpool FC tie to US Senate hearing | Liverpool | The Guardian</a></li>
-<li> 09:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:21 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:21 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 09:17 <a href="https://en.wikipedia.org/wiki/Abigail_Disney">Abigail Disney - Wikipedia</a></li>
 <li> 09:15 <a href="https://en.wikipedia.org/wiki/Sundance_Film_Festival">Sundance Film Festival - Wikipedia</a></li>
 <li> 09:15 duckduckgo.com</li>
-<li> 09:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:14 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:14 www.reddit.com</li>
 <li class='same'> 09:13 www.reddit.com</li>
 <li class='same'> 09:11 www.reddit.com</li>
@@ -15640,7 +15691,7 @@ With number of accesses/minutes in parentheses
 <li> 07:36 herts.instructure.com</li>
 <li class='same'> 07:34 herts.instructure.com</li>
 <li> 07:32 <a href="https://www.theguardian.com/politics/2025/sep/17/france-proposes-ceiling-on-value-of-uk-components-in-eu-defence-fund">France proposes ceiling on value of UK components in €150bn EU defence fund | Defence policy | The Guardian</a></li>
-<li> 07:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:31 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:30 www.reddit.com</li>
 <li> 07:28 thetab.com</li>
@@ -15964,9 +16015,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:08 www.google.com</li>
 <li class='same'> 17:43 www.google.com</li>
 <li> 17:26 <a href="https://www.theguardian.com/technology/2025/sep/15/trump-china-tiktok-sale-ban">US and China reach deal to transfer TikTok ownership, trade official says | TikTok | The Guardian</a></li>
-<li> 17:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:26 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:22 <a href="https://www.theguardian.com/world/2025/sep/15/tinder-swindler-shimon-hayut-simon-leviev-arrest-georgia-interpol">‘Tinder Swindler’ Shimon Hayut arrested in Georgia on Interpol request | Georgia | The Guardian</a></li>
-<li> 17:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:21 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:21 qmucu.org</li>
 <li class='same'> 17:18 qmucu.org</li>
 <li> 17:18 www.google.com</li>
@@ -15992,7 +16043,7 @@ With number of accesses/minutes in parentheses
 <li> 15:53 rhul-my.sharepoint.com</li>
 <li> 15:53 outlook.office365.com</li>
 <li> 15:47 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/15/forget-adolescence-this-is-the-real-victory-the-biggest-shocks-from-the-emmy-awards">‘Forget Adolescence – this is the real victory!’ The biggest shocks from the Emmy awards | Emmys | The Guardian</a></li>
-<li> 15:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:46 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:46 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:46 outlook.office365.com</li>
 <li class='same'> 15:45 outlook.office365.com</li>
@@ -19587,12 +19638,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:19 www.linkedin.com</li>
-<li> 08:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:18 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:18 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 08:17 <a href="https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka">Japan has opened its first osmotic power plant – so what is it and how does it work? | Japan | The Guardian</a></li>
 <li> 08:16 <a href="https://www.theguardian.com/us-news/2025/aug/25/epstein-accuser-virginia-giuffres-memoir-to-be-published-posthumously">Epstein accuser Virginia Giuffre’s memoir to be published posthumously | Jeffrey Epstein | The Guardian</a></li>
 <li> 08:16 adblockplus.org</li>
-<li> 08:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:16 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:16 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -19609,9 +19660,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:38 www.parkrun.org.uk</li>
 <li> 06:38 mail.google.com</li>
 <li> 06:38 gmail.com</li>
-<li> 06:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:38 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 06:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:35 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:35 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:35 www.linkedin.com</li>
 <li> 06:35 www.reddit.com</li>
@@ -19653,7 +19704,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 14:59 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:58 www.linkedin.com</li>
 <li> 14:57 www.reddit.com</li>
 <li class='same'> 14:56 www.reddit.com</li>
@@ -19712,7 +19763,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:44 <a href="https://www.theguardian.com/society/2025/aug/24/labour-abolish-most-short-prison-sentences-england-wales">Labour to abolish most short prison sentences in England and Wales | Prisons and probation | The Guardian</a></li>
-<li> 12:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:44 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:44 www.google.com</li>
 <li class='same'> 12:39 www.google.com</li>
 <li> 12:38 www.reddit.com</li>
@@ -19729,11 +19780,11 @@ With number of accesses/minutes in parentheses
 <li> 06:49 feedly.com</li>
 <li> 06:29 <a href="https://www.theguardian.com/commentisfree/2025/aug/23/gavin-newsom-trump-comedy">California’s governor has become an anti-Trump comedian. It’s 2017 all over again | Dave Schilling | The Guardian</a></li>
 <li class='same'> 06:26 <a href="https://www.theguardian.com/commentisfree/2025/aug/23/gavin-newsom-trump-comedy">California’s governor has become an anti-Trump comedian. It’s 2017 all over again | Dave Schilling | The Guardian</a></li>
-<li> 06:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:24 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:24 <a href="https://www.theguardian.com/culture/2025/aug/23/womens-groups-hail-noel-clarke-libel-defeat-as-victory-for-victims-and-press-freedom">Women’s groups hail Noel Clarke libel defeat as victory for victims and press freedom | Noel Clarke | The Guardian</a></li>
-<li> 06:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:24 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:24 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 06:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:24 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -19772,9 +19823,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:37 mail.google.com</li>
 <li> 20:29 <a href="https://www.theguardian.com/politics/2025/aug/23/why-here-inside-mid-wales-village-where-far-right-figure-has-created-a-settlement">‘Why here?’: inside mid-Wales village where far-right figure has created a settlement | Far right | The Guardian</a></li>
-<li> 20:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:06 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 20:05 <a href="https://www.theguardian.com/us-news/2025/aug/23/marjorie-taylor-greene-bernie-sanders-famine-gaza">Marjorie Taylor Greene joins Bernie Sanders in urging US to end Gaza famine | Marjorie Taylor Greene | The Guardian</a></li>
-<li> 20:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 20:04 www.webuyanycar.com</li>
 </ul>
 
@@ -19786,8 +19837,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 17:05 <a href="https://www.theguardian.com/culture/2025/aug/23/sorry-baby-to-earl-sweatshirt-the-week-in-rave-reviews">Sorry, Baby to Earl Sweatshirt: the week in rave reviews | Culture | The Guardian</a></li>
-<li> 17:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 17:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 17:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:03 www.google.com</li>
 <li> 17:03 www.feefo.com</li>
 <li class='same'> 17:02 www.feefo.com</li>
@@ -19800,7 +19851,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:11 <a href="https://www.theguardian.com/world/2025/aug/22/israeli-children-refused-access-to-leisure-park-in-southern-france">Israeli children refused access to leisure park in southern France | France | The Guardian</a></li>
 <li> 14:11 <a href="https://www.theguardian.com/news/2025/aug/23/six-great-reads-90s-parenting-mistress-dispellers-and-the-summers-biggest-booze-trend">Six great reads: 90s parenting, ‘mistress dispellers’ and the summer’s biggest booze trend | | The Guardian</a></li>
-<li> 14:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:10 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:10 mail.google.com</li>
 <li class='same'> 14:09 mail.google.com</li>
 <li> 14:09 bookings.orbitaltrampolinepark.co.uk</li>
@@ -19857,7 +19908,7 @@ With number of accesses/minutes in parentheses
 <li> 06:52 mail.google.com</li>
 <li> 06:50 www.reddit.com</li>
 <li class='same'> 06:48 www.reddit.com</li>
-<li> 06:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:45 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:45 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -19880,14 +19931,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 14:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:40 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:38 <a href="https://www.theguardian.com/film/2025/aug/22/the-thursday-club-review-richard-osman-bestseller-provides-solid-star-stuffed-entertainment">The Thursday Murder Club review – Richard Osman bestseller provides solid, star-stuffed entertainment | Film | The Guardian</a></li>
 <li> 14:37 <a href="https://www.theguardian.com/books/2025/aug/22/children-and-teens-roundup-the-best-new-picture-books-and-novels">Children and teens roundup – the best new picture books and novels | Teen books | The Guardian</a></li>
-<li> 14:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:37 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:30 <a href="https://www.theguardian.com/media/2025/aug/22/noel-clarke-claimed-he-was-a-victim-twenty-six-witnesses-painted-a-very-different-picture">Noel Clarke claimed he was a victim. Twenty-six witnesses painted a very different picture | The Guardian | The Guardian</a></li>
-<li> 14:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:30 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:29 www.amazon.co.uk</li>
 <li> 14:29 docs.google.com</li>
 <li> 14:28 mail.google.com</li>
@@ -19903,7 +19954,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:20 www.reddit.com</li>
 <li class='same'> 14:19 www.reddit.com</li>
 <li> 14:18 <a href="https://www.theguardian.com/society/2025/aug/21/obesity-has-a-serious-impact-on-health-it-shortened-my-mums-life">Obesity has a serious impact on health – it shortened my mum’s life | Obesity | The Guardian</a></li>
-<li> 14:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:17 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:16 www.schneier.com</li>
 <li> 14:09 chatgpt.com</li>
 <li> 14:09 chat.openai.com</li>
@@ -19924,13 +19975,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 08:33 www.google.com</li>
-<li> 08:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
 
 <ul><li> 07:46 <a href="https://www.theguardian.com/film/2025/aug/22/love-is-great-but-then-one-of-you-will-be-dog-tired-and-doing-the-bins-benedict-cumberbatch-and-olivia-colman-on-how-to-survive-a-marriage">‘Love is great. But then one of you will be dog-tired and doing the bins’: Benedict Cumberbatch and Olivia Colman on how to survive a marriage | Film | The Guardian</a></li>
-<li> 07:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:45 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:45 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:38 <a href="https://www.youtube.com/watch?v=Db5TwCBnr38&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=69">(741) GCSE Maths: N2-45 [Examples of Adding Fractions with different Denominators] - YouTube</a></li>
 <li> 07:32 <a href="https://www.youtube.com/watch?v=UgnDCTKTIjI&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=68&t=145s">(729) GCSE Maths: N2-44 [Adding Fractions with different Denominators] - YouTube</a></li>
@@ -19950,10 +20001,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:35 www.reddit.com</li>
 <li class='same'> 06:33 www.reddit.com</li>
 <li class='same'> 06:32 www.reddit.com</li>
-<li> 06:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:28 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:27 <a href="https://www.theguardian.com/lifeandstyle/2025/aug/22/experience-im-a-champion-jigsaw-puzzler">Experience: I’m a champion jigsaw puzzler | Life and style | The Guardian</a></li>
 <li> 06:26 www.google.com</li>
-<li> 06:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:26 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:26 www.google.com</li>
 </ul>
 
@@ -19997,7 +20048,7 @@ With number of accesses/minutes in parentheses
 <li> 15:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:04 kripken.github.io</li>
 <li class='same'> 15:03 kripken.github.io</li>
-<li> 14:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:34 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:34 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:34 outlook.office365.com</li>
 <li class='same'> 14:33 outlook.office365.com</li>
@@ -20160,7 +20211,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:05 web.whatsapp.com</li>
 <li> 12:03 <a href="https://www.theguardian.com/world/2025/aug/20/new-zealand-fugitive-tom-phillips-children-hiding-nearly-four-years">Family of New Zealand fugitive on the run for almost four years with his children plead for his return | New Zealand | The Guardian</a></li>
 <li> 12:02 <a href="https://www.theguardian.com/business/nils-pratley-on-finance/2025/aug/19/asda-is-still-misfiring-in-supermarkets-non-existent-price-war">Asda is still misfiring in supermarkets’ non-existent price war | Nils Pratley | The Guardian</a></li>
-<li> 11:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:59 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:59 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:46 www.reddit.com</li>
 <li class='same'> 11:45 www.reddit.com</li>
@@ -20168,10 +20219,10 @@ With number of accesses/minutes in parentheses
 <li> 11:44 www.linkedin.com</li>
 <li class='same'> 11:42 www.linkedin.com</li>
 <li class='same'> 11:41 www.linkedin.com</li>
-<li> 11:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:41 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:41 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:41 <a href="https://www.theguardian.com/world/2025/aug/20/trans-people-us-data">More than 2.8m people in US identify as trans, including 724,000 youth, data shows | LGBTQ+ rights | The Guardian</a></li>
-<li> 11:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:40 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:39 www.reddit.com</li>
 <li class='same'> 11:38 www.reddit.com</li>
@@ -20191,7 +20242,7 @@ With number of accesses/minutes in parentheses
 <li> 09:40 www.linkedin.com</li>
 <li class='same'> 09:39 www.linkedin.com</li>
 <li> 09:38 <a href="https://www.theguardian.com/lifeandstyle/2025/aug/20/a-moment-that-changed-me-i-slipped-in-the-shower-realised-i-was-exhausted-and-transformed-my-life">A moment that changed me: I slipped in the shower, realised I was exhausted – and transformed my life | Health | The Guardian</a></li>
-<li> 09:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:38 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 09:37 outlook.office.com</li>
 <li> 09:36 www.reddit.com</li>
@@ -20255,7 +20306,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:29 www.reddit.com</li>
 <li class='same'> 16:27 www.reddit.com</li>
 <li> 16:27 <a href="https://www.theguardian.com/uk-news/2025/aug/19/high-court-judge-orders-closure-of-essex-asylum-hotel-after-far-right-protests">Epping council wins high court bid to stop hotel housing asylum seekers | Immigration and asylum | The Guardian</a></li>
-<li> 16:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:27 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:27 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:24 www.reddit.com</li>
 <li class='same'> 16:21 www.reddit.com</li>
@@ -20280,7 +20331,7 @@ With number of accesses/minutes in parentheses
 <li> 15:38 adfs.herts.ac.uk</li>
 <li> 15:38 www.linkedin.com</li>
 <li> 15:17 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/19/great-british-bake-off-meet-the-contestants">From a ‘Yeastie Boy’ to the ultimate fairytale contestant: meet the stars of the 2025 Great British Bake Off | Television | The Guardian</a></li>
-<li> 15:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:17 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:17 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:15 outlook.office.com</li>
 <li> 15:15 m365.cloud.microsoft</li>
@@ -20363,7 +20414,7 @@ With number of accesses/minutes in parentheses
 <li> 11:56 <a href="https://en.wikipedia.org/wiki/Feargal_Sharkey">Feargal Sharkey - Wikipedia</a></li>
 <li> 11:56 duckduckgo.com</li>
 <li> 11:56 <a href="https://www.theguardian.com/environment/2025/aug/18/feargal-sharkey-accuses-environment-agency-of-illegally-draining-river-lea-court-action-threat-abstraction-fishing-club">Feargal Sharkey accuses Environment Agency of illegally draining River Lea | Environment Agency | The Guardian</a></li>
-<li> 11:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:54 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:54 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:54 docs.google.com</li>
 <li> 11:54 duckduckgo.com</li>
@@ -20400,7 +20451,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:35 newmediawritingprize.co.uk</li>
 <li> 10:35 duckduckgo.com</li>
 <li> 10:30 outlook.office.com</li>
-<li> 10:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:25 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:25 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 10:25 outlook.office.com</li>
 <li> 10:25 m365.cloud.microsoft</li>
@@ -20423,7 +20474,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:43 chatgpt.com</li>
 <li> 07:43 chat.openai.com</li>
 <li> 07:40 feedly.com</li>
-<li> 07:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:26 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:26 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:24 www.reddit.com</li>
 <li class='same'> 07:23 www.reddit.com</li>
@@ -20501,7 +20552,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:15 www.linkedin.com</li>
 <li> 13:13 www.reddit.com</li>
 <li class='same'> 13:12 www.reddit.com</li>
-<li> 13:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:12 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:12 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:11 outlook.office365.com</li>
 <li class='same'> 13:10 outlook.office365.com</li>
@@ -20512,7 +20563,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 12:32 outlook.office365.com</li>
 <li> 12:32 calendar.google.com</li>
 <li> 12:30 www.linkedin.com</li>
-<li> 12:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:28 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:28 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 12:25 calendar.google.com</li>
 <li class='same'> 12:24 calendar.google.com</li>
@@ -20527,7 +20578,7 @@ With number of accesses/minutes in parentheses
 <li> 11:45 www.linkedin.com</li>
 <li class='same'> 11:44 www.linkedin.com</li>
 <li class='same'> 11:43 www.linkedin.com</li>
-<li> 11:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:29 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:29 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:27 outlook.office365.com</li>
 <li> 11:27 jobs.royalholloway.ac.uk</li>
@@ -20567,7 +20618,7 @@ With number of accesses/minutes in parentheses
 <li> 10:02 www.activeluton.co.uk</li>
 <li> 10:02 duckduckgo.com</li>
 <li> 09:51 <a href="https://www.theguardian.com/books/2025/aug/18/skibidi-delulu-and-tradwife-among-words-added-to-cambridge-dictionary">‘Skibidi’, ‘delulu’ and ‘tradwife’ among words added to Cambridge Dictionary | Books | The Guardian</a></li>
-<li> 09:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:51 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:51 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 09:50 mail.google.com</li>
 <li> 09:50 appealpcn.co.uk</li>
@@ -20581,7 +20632,7 @@ With number of accesses/minutes in parentheses
 <li> 09:39 mail.google.com</li>
 <li> 09:39 gmail.com</li>
 <li> 09:39 <a href="https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis">‘Shut it down and start again’: staff disquiet as Alan Turing Institute faces identity crisis | Artificial intelligence (AI) | The Guardian</a></li>
-<li> 09:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:38 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 09:36 www.amazon.co.uk</li>
 <li class='same'> 09:35 www.amazon.co.uk</li>
@@ -20611,14 +20662,14 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:36 calendar.google.com</li>
 <li class='same'> 08:34 calendar.google.com</li>
 <li class='same'> 08:33 calendar.google.com</li>
-<li> 08:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:25 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:25 outlook.office365.com</li>
 <li> 08:24 forms.office.com</li>
 <li> 08:24 login.microsoftonline.com</li>
 <li> 08:24 forms.office.com</li>
 <li> 08:24 outlook.office365.com</li>
 <li> 08:22 outlook.office.com</li>
-<li> 08:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:17 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:17 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 08:15 web.whatsapp.com</li>
 <li> 08:15 outlook.office.com</li>
@@ -20648,12 +20699,12 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:30 <a href="https://www.bbc.co.uk/iplayer/episode/m002f1s5/rylan-how-to-be-how-to-be-in-love-12-mel-robbins">Rylan: How to Be... - How to Be in Love: 12. Mel Robbins - BBC iPlayer</a></li>
 <li> 20:30 <a href="https://www.bbc.co.uk/iplayer/episode/m002f1s5">BBC - Home</a></li>
-<li> 20:29 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 20:29 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 20:28 <a href="https://www.bbc.co.uk/news/articles/cp37znd8vx1o">Campaigners lodge legal action over gender rules for schools and prisons - BBC News</a></li>
-<li> 20:28 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 20:28 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 20:27 <a href="https://www.bbc.co.uk/news/articles/crm4ln2ekg1o">Putin agreed to 'robust' security guarantees for Ukraine, says US envoy - BBC News</a></li>
-<li> 20:26 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
-<li class='same'> 20:15 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 20:26 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
+<li class='same'> 20:15 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 </ul>
 
 <br>
@@ -20669,7 +20720,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:11 <a href="https://www.theguardian.com/us-news/2025/aug/16/west-virginia-national-guard-troops-dc-trump">Three states to deploy hundreds of national guard troops to Washington DC | Trump administration | The Guardian</a></li>
-<li> 13:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:09 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:09 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:09 adblockplus.org</li>
 <li> 13:08 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
@@ -20690,7 +20741,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 07:10 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:10 www.google.com</li>
 </ul>
 
@@ -20717,9 +20768,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:43 <a href="https://www.theguardian.com/us-news/2025/aug/15/trump-washington-dc-unhoused-people">‘It’s not illegal to be homeless’: disquiet as Trump crews clear DC encampments | Washington DC</a></li>
 <li> 18:42 <a href="https://www.theguardian.com/politics/2025/aug/15/diane-abbott-suspension-labour-mp-successor">Labour moves to find successor to Diane Abbott for her north London seat | Diane Abbott | The Guardian</a></li>
 <li class='same'> 18:29 <a href="https://www.theguardian.com/politics/2025/aug/15/diane-abbott-suspension-labour-mp-successor">Labour moves to find successor to Diane Abbott for her north London seat | Diane Abbott | The Guardian</a></li>
-<li> 18:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:29 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:28 support.theguardian.com</li>
-<li> 18:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:28 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:28 www.google.com</li>
 </ul>
 
@@ -20732,7 +20783,7 @@ With number of accesses/minutes in parentheses
 <li> 17:06 <a href="https://www.theguardian.com/politics/2025/aug/13/yvette-cooper-solves-one-headache-for-justice-system-but-may-have-caused-another">Yvette Cooper solves one headache for justice system but may have caused another | Yvette Cooper | The Guardian</a></li>
 <li> 17:06 <a href="https://www.theguardian.com/uk-news/2025/jan/31/policing-minister-police-forces-england-wales-challenging-cuts">Policing minister accepts forces in England and Wales face ‘challenging’ cuts | Police | The Guardian</a></li>
 <li> 17:05 <a href="https://www.theguardian.com/uk-news/2025/aug/15/sonic-boom-reported-as-raf-jets-intercept-civilian-plane-over-england">Sonic boom reported as RAF jets intercept civilian plane over England | Royal Air Force | The Guardian</a></li>
-<li> 17:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:04 mail.google.com</li>
 <li> 17:02 moodle.royalholloway.ac.uk</li>
 <li class='same'> 17:01 moodle.royalholloway.ac.uk</li>
@@ -20829,7 +20880,7 @@ With number of accesses/minutes in parentheses
 <li> 14:34 www.google.com</li>
 <li> 14:34 mail.google.com</li>
 <li class='same'> 14:33 mail.google.com</li>
-<li> 14:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:32 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:32 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:31 www.thetimes.com</li>
 <li> 14:30 <a href="https://www.theguardian.com/commentisfree/2025/aug/14/university-teenagers-student-debt-graduate-britain">As thousands more teenagers scramble for university places, I have to ask – why? | Simon Jenkins | The Guardian</a></li>
@@ -20950,7 +21001,7 @@ With number of accesses/minutes in parentheses
 <li> 11:05 herts.instructure.com</li>
 <li class='same'> 11:04 herts.instructure.com</li>
 <li> 11:04 outlook.office.com</li>
-<li> 11:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:03 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:03 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:01 outlook.office.com</li>
 <li> 10:55 herts.instructure.com</li>
@@ -21007,7 +21058,7 @@ With number of accesses/minutes in parentheses
 <li> 09:50 eu-west.azureauth.duosecurity.com</li>
 <li> 09:50 api-b6327e78.duosecurity.com</li>
 <li> 09:50 adfs.herts.ac.uk</li>
-<li> 09:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:50 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:50 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -21059,14 +21110,14 @@ With number of accesses/minutes in parentheses
 <li> 06:39 eu-west.azureauth.duosecurity.com</li>
 <li> 06:39 api-b6327e78.duosecurity.com</li>
 <li> 06:39 adfs.herts.ac.uk</li>
-<li> 06:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:36 <a href="https://www.theguardian.com/business/2025/aug/14/eli-lilly-uk-price-weight-loss-jab-mounjaro-trump">Eli Lilly ramps up UK price of weight loss jab Mounjaro after Trump demands | Pharmaceuticals industry | The Guardian</a></li>
-<li> 06:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:35 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:32 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/15/limitless-live-better-now-review-chris-hemsworth">Limitless: Live Better Now review – Chris Hemsworth has absolutely no sense of rhythm | Television & radio | The Guardian</a></li>
-<li> 06:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:30 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:30 www.russellgroup.ac.uk</li>
 <li> 06:23 outlook.office365.com</li>
-<li> 06:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:22 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:22 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:22 api-b6327e78.duosecurity.com</li>
 <li> 06:22 adfs.herts.ac.uk</li>
@@ -21121,8 +21172,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 11:35 <a href="https://www.theguardian.com/uk-news/2025/aug/14/southport-victim-reveal-ethnicity-suspects-farage">Family of Southport stabbing victim criticise plan to reveal ethnicity of suspects | UK news | The Guardian</a></li>
 <li> 11:34 <a href="https://www.theguardian.com/education/2025/aug/14/record-a-level-students-top-grades-england">Record proportion of A-level students get top grades in England | A-levels | The Guardian</a></li>
-<li> 11:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 11:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:34 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 11:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -21141,20 +21192,20 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 17:25 <a href="https://www.theguardian.com/business/2025/aug/13/claires-appoint-administrator-uk-ireland-jobs-risk">Claire’s to appoint administrator in UK and Ireland, putting 2,150 jobs at risk | Retail industry | The Guardian</a></li>
-<li> 17:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:25 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:24 <a href="https://www.theguardian.com/politics/2025/aug/13/david-lammy-watchdog-illegal-fishing-without-license-jd-vance">Lammy refers himself to watchdog after fishing illegally with JD Vance | David Lammy | The Guardian</a></li>
-<li> 17:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:24 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:24 <a href="https://www.theguardian.com/money/2025/aug/13/inheritance-tax-how-does-it-work-and-what-may-be-changing">Inheritance tax: how does it work and what may be changing? | Inheritance tax | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li class='same'> 13:51 <a href="https://www.theguardian.com/money/2025/aug/13/inheritance-tax-how-does-it-work-and-what-may-be-changing">Inheritance tax: how does it work and what may be changing? | Inheritance tax | The Guardian</a></li>
-<li> 13:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:51 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:50 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:50 <a href="https://www.theguardian.com/law/2025/aug/13/trump-administration-accuses-uk-of-failing-to-uphold-human-rights">Trump administration accuses UK of failing to uphold human rights | Trump administration | The Guardian</a></li>
 <li class='same'> 13:31 <a href="https://www.theguardian.com/law/2025/aug/13/trump-administration-accuses-uk-of-failing-to-uphold-human-rights">Trump administration accuses UK of failing to uphold human rights | Trump administration | The Guardian</a></li>
-<li> 13:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -21208,11 +21259,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:30 www.google.com</li>
 <li> 14:30 www.reddit.com</li>
 <li> 14:29 www.google.com</li>
-<li> 14:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:28 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:28 <a href="https://www.theguardian.com/culture/2025/aug/12/imperial-war-museum-criticism-caption-holocaust-display">Imperial War Museum rejects criticism of caption in Holocaust display | Imperial War Museums | The Guardian</a></li>
-<li> 14:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:27 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:26 <a href="https://www.theguardian.com/money/2025/aug/11/airbnb-abusive-ex-partner">Airbnb added to the shame I felt after suffering years of domestic abuse | Money | The Guardian</a></li>
-<li> 14:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:26 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:25 <a href="https://www.theguardian.com/stage/2025/aug/11/bad-dates-and-bath-bombs-10-of-the-funniest-jokes-from-the-edinburgh-fringe-2025">Bad dates and bath bombs: 10 of the funniest jokes from the Edinburgh fringe 2025 | Edinburgh festival 2025 | The Guardian</a></li>
 <li> 14:19 <a href="https://www.theguardian.com/books/2025/aug/12/frankly-by-nicola-sturgeon-review-the-ex-first-minister-opens-up">Frankly by Nicola Sturgeon review – the ex-first minister opens up | Autobiography and memoir | The Guardian</a></li>
 <li> 14:18 <a href="https://www.theguardian.com/australia-news/2025/aug/12/do-not-buy-these-flats-residents-warn-about-unbearable-heat-inside-london-new-builds">‘Do not buy these flats’: residents warn about unbearable heat inside London new-builds | Extreme heat | The Guardian</a></li>
@@ -21236,7 +21287,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:54 feedly.com</li>
 <li> 08:53 www.reddit.com</li>
 <li> 08:52 <a href="https://www.theguardian.com/education/2025/aug/11/a-level-results-in-england-expected-to-return-to-near-pre-pandemic-levels">A-level results in England expected to return to near pre-pandemic levels | A-levels | The Guardian</a></li>
-<li> 08:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:52 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 08:44 www.reddit.com</li>
 <li class='same'> 08:43 www.reddit.com</li>
@@ -21261,7 +21312,7 @@ With number of accesses/minutes in parentheses
 <li> 06:49 www.microsoft.com</li>
 <li> 06:49 forms.office.com</li>
 <li> 06:49 moodle.royalholloway.ac.uk</li>
-<li> 06:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:49 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:49 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:49 login.microsoftonline.com</li>
 <li> 06:49 moodle.royalholloway.ac.uk</li>
@@ -21307,7 +21358,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 09:10 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:10 feedly.com</li>
 <li> 09:09 www.reddit.com</li>
 </ul>
@@ -21315,7 +21366,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:30 feedly.com</li>
-<li> 08:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:30 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:30 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 08:26 www.linkedin.com</li>
 <li class='same'> 08:25 www.linkedin.com</li>
@@ -21326,7 +21377,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:09 rhul-my.sharepoint.com</li>
 <li class='same'> 07:08 rhul-my.sharepoint.com</li>
-<li> 07:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:01 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:01 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:59 mail.google.com</li>
 </ul>
@@ -21375,7 +21426,7 @@ With number of accesses/minutes in parentheses
 <li> 07:46 www.reddit.com</li>
 <li> 07:46 outlook.office.com</li>
 <li> 07:45 <a href="https://www.theguardian.com/politics/2025/aug/07/uk-homelessness-minister-rushanara-ali-faces-calls-to-resign-over-tenant-eviction-claims">UK homelessness minister resigns after tenant eviction claims | Labour | The Guardian</a></li>
-<li> 07:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:45 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:45 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:44 outlook.office365.com</li>
 <li> 07:44 outlook.office.com</li>
@@ -21403,7 +21454,7 @@ With number of accesses/minutes in parentheses
 <li> 06:34 www.reddit.com</li>
 <li class='same'> 06:32 www.reddit.com</li>
 <li class='same'> 06:31 www.reddit.com</li>
-<li> 06:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:29 www.linkedin.com</li>
 <li class='same'> 06:28 www.linkedin.com</li>
 <li> 06:26 qmucu.org</li>
@@ -21421,7 +21472,7 @@ With number of accesses/minutes in parentheses
 <li> 06:19 adfs.herts.ac.uk</li>
 <li> 06:19 moodle.royalholloway.ac.uk</li>
 <li> 06:17 <a href="https://www.theguardian.com/us-news/2025/aug/07/disney-settles-gina-carano-elon-musk">Disney settles with Gina Carano in lawsuit backed by Elon Musk | US news | The Guardian</a></li>
-<li> 06:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:17 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -21455,7 +21506,7 @@ With number of accesses/minutes in parentheses
 <li> 18:26 moodle.royalholloway.ac.uk</li>
 <li> 18:25 outlook.office365.com</li>
 <li class='same'> 18:21 outlook.office365.com</li>
-<li> 18:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:03 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:03 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 18:03 <a href="https://www.theguardian.com/us-news/2025/jul/27/epstein-trump-murdoch-wsj-fox-news">Has the Epstein affair strained Trump’s cozy relationship with the Murdoch media empire? | Donald Trump | The Guardian</a></li>
 <li> 18:01 www.lutongymnastics.co.uk</li>
@@ -21556,7 +21607,7 @@ With number of accesses/minutes in parentheses
 <li> 11:41 api-b6327e78.duosecurity.com</li>
 <li> 11:41 adfs.herts.ac.uk</li>
 <li> 11:38 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/07/former-superman-actor-dean-cain-reveals-hes-becoming-an-ice-agent-to-support-trumps-mass-deportation-agenda">Former Superman actor Dean Cain reveals he’s becoming an Ice agent to support Trump’s mass deportation agenda | Television | The Guardian</a></li>
-<li> 11:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:38 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:38 forms.office.com</li>
 <li class='same'> 11:37 forms.office.com</li>
@@ -21584,7 +21635,7 @@ With number of accesses/minutes in parentheses
 <li> 11:16 moodle.royalholloway.ac.uk</li>
 <li> 11:14 www.linkedin.com</li>
 <li class='same'> 11:13 www.linkedin.com</li>
-<li> 11:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:13 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:12 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:12 outlook.office365.com</li>
 <li> 11:11 forms.office.com</li>
@@ -21728,8 +21779,8 @@ With number of accesses/minutes in parentheses
 <li> 15:39 <a href="https://www.bbc.co.uk/news/articles/cp941z3nnnxo">Zara ads banned for featuring 'unhealthily thin' models - BBC News</a></li>
 <li> 15:39 <a href="https://www.bbc.co.uk/news/articles/cn92vw9gl74o">MasterChef: BBC cooking show returns with sacked hosts Gregg Wallace and John Torode - BBC News</a></li>
 <li> 15:39 <a href="https://www.bbc.co.uk/news/articles/c1dxr1g4y7yo">Trump hits India with extra 25% tariff for buying Russian oil - BBC News</a></li>
-<li> 15:38 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
-<li> 15:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:38 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
+<li> 15:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:38 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:37 ce0997li.webitrent.com</li>
 <li> 15:37 login.microsoftonline.com</li>
@@ -21756,13 +21807,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:08 www.reddit.com</li>
 <li class='same'> 15:07 www.reddit.com</li>
 <li class='same'> 15:06 www.reddit.com</li>
-<li> 15:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:06 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:06 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:06 <a href="https://www.theguardian.com/business/2025/aug/06/sales-of-novo-nordisk-diabetes-drugs-including-ozempic-slow-sharply">Sales of Novo Nordisk’s diabetes drugs including Ozempic slow sharply | Pharmaceuticals industry | The Guardian</a></li>
-<li> 15:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:05 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:05 <a href="https://www.theguardian.com/us-news/2025/aug/05/rfk-jr-hhs-mrna-vaccine-research">RFK Jr’s health department to halt $500m in mRNA vaccine research | Trump administration | The Guardian</a></li>
-<li> 15:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:04 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:57 mail.google.com</li>
 <li> 14:57 calendar.google.com</li>
@@ -21883,11 +21934,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:38 mail.google.com</li>
 <li> 07:38 gmail.com</li>
 <li> 07:34 <a href="https://www.theguardian.com/commentisfree/2025/aug/05/how-did-john-oliver-become-the-moral-compass-of-the-us">How did John Oliver become the moral compass of the US? | Arwa Mahdawi | The Guardian</a></li>
-<li> 07:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:33 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:31 <a href="https://www.theguardian.com/us-news/2025/aug/05/jeffrey-epstein-letters-photos">Epstein scandal broadens as trove of letters from famous figures published | Jeffrey Epstein | The Guardian</a></li>
 <li> 07:30 <a href="https://www.theguardian.com/uk-news/2025/aug/06/prince-harry-among-those-criticised-in-report-on-dispute-at-sentebale-charity">Prince Harry among those criticised in report on dispute at Sentebale charity | Prince Harry | The Guardian</a></li>
-<li> 07:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:30 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:30 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:25 feedly.com</li>
 <li> 07:24 www.linkedin.com</li>
@@ -21915,13 +21966,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:44 <a href="https://www.theguardian.com/commentisfree/2025/aug/05/sydney-sweeney-jeans-bathwater-controversy-showbiz">Jeans, controversy, used bathwater: Sydney Sweeney’s selling it all. A showbiz masterclass, if you ask me | Marina Hyde | The Guardian</a></li>
-<li> 16:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:43 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:43 calendar.google.com</li>
 <li> 16:42 mail.google.com</li>
 <li> 16:41 thegalleria.co.uk</li>
 <li> 16:41 duckduckgo.com</li>
-<li> 16:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:37 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:35 herts365-my.sharepoint.com</li>
 <li> 16:34 www.nhs.uk</li>
@@ -21972,7 +22023,7 @@ With number of accesses/minutes in parentheses
 <li> 15:49 mail.google.com</li>
 <li> 15:49 outlook.office.com</li>
 <li> 15:46 <a href="https://www.theguardian.com/film/2025/aug/05/i-couldnt-get-rid-of-finchy-ralph-ineson-the-office-becoming-hollywood-superstar-at-55">‘I couldn’t get rid of Finchy’: Ralph Ineson on The Office – and becoming a Hollywood superstar at 55 | Film | The Guardian</a></li>
-<li> 15:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:27 www.google.com</li>
 <li class='same'> 15:26 www.google.com</li>
 <li> 15:26 www.linkedin.com</li>
@@ -22044,7 +22095,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:17 www.linkedin.com</li>
 <li> 09:13 www.reddit.com</li>
 <li class='same'> 09:00 www.reddit.com</li>
-<li> 08:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:59 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:59 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 08:54 www.linkedin.com</li>
 <li> 08:50 www.reddit.com</li>
@@ -22084,7 +22135,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:14 mail.google.com</li>
 <li> 07:14 gmail.com</li>
 <li> 07:14 <a href="https://www.theguardian.com/uk-news/2025/aug/04/tommy-robinson-arrested-alleged-assault-london-station">Tommy Robinson arrested over alleged assault at London station | UK news | The Guardian</a></li>
-<li> 07:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:13 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:13 www.reddit.com</li>
 <li class='same'> 07:12 www.reddit.com</li>
 <li class='same'> 07:11 www.reddit.com</li>
@@ -22095,7 +22146,7 @@ With number of accesses/minutes in parentheses
 <li> 07:06 adfs.herts.ac.uk</li>
 <li> 07:05 login.microsoftonline.com</li>
 <li> 07:05 herts365-my.sharepoint.com</li>
-<li> 06:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:41 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:41 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:40 www.linkedin.com</li>
 <li> 06:39 www.reddit.com</li>
@@ -22103,7 +22154,7 @@ With number of accesses/minutes in parentheses
 <li> 06:36 www.linkedin.com</li>
 <li class='same'> 06:35 www.linkedin.com</li>
 <li> 06:33 adblockplus.org</li>
-<li> 06:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:33 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:33 www.amazon.co.uk</li>
 <li class='same'> 06:32 www.amazon.co.uk</li>
@@ -22129,7 +22180,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:06 <a href="https://www.theguardian.com/sport/2025/aug/04/f1-2025-end-of-term-report-card-as-drivers-head-for-their-summer-break">F1 2025: end-of-term report card as drivers head for their summer break | Formula One | The Guardian</a></li>
-<li> 16:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:05 www.linkedin.com</li>
 <li class='same'> 16:04 www.linkedin.com</li>
 <li> 16:02 fritz.box</li>
@@ -22151,7 +22202,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:49 outlook.office365.com</li>
 <li> 15:48 <a href="https://www.theguardian.com/world/2025/aug/04/rescued-british-hiker-billed-14225-for-ignoring-rockslide-signs-in-dolomites">Rescued British hiker billed €14,225 for ignoring rockslide signs in Dolomites | Italy | The Guardian</a></li>
 <li> 15:45 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/04/from-emily-in-friends-to-che-diaz-the-tv-characters-so-bad-that-they-ruined-shows">From Emily in Friends to Che Diaz: the TV characters so bad that they ruined shows | Television | The Guardian</a></li>
-<li> 15:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:44 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:44 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:41 feedly.com</li>
 <li> 15:22 www.reddit.com</li>
@@ -22260,7 +22311,7 @@ With number of accesses/minutes in parentheses
 <li> 08:25 apply.unity.co.uk</li>
 <li> 08:24 www.linkedin.com</li>
 <li> 08:19 www.google.com</li>
-<li> 08:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:17 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:17 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 08:17 <a href="https://www.theguardian.com/world/2025/aug/02/schwuz-berlin-germany-oldest-biggest-gay-nightclub-declares-bankruptcy">Germany’s ‘oldest and biggest’ gay nightclub declares bankruptcy | Germany | The Guardian</a></li>
 </ul>
@@ -22325,12 +22376,12 @@ With number of accesses/minutes in parentheses
 <li> 21:53 www.mozilla.org</li>
 <li> 21:52 www.linkedin.com</li>
 <li class='same'> 21:51 www.linkedin.com</li>
-<li> 21:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:51 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:51 www.linkedin.com</li>
-<li> 21:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:51 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:51 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 21:50 <a href="https://www.theguardian.com/uk-news/2025/aug/03/prince-harry-denies-giving-prince-andrew-bloody-nose-at-family-gathering">Prince Harry denies giving Prince Andrew bloody nose at family gathering | Monarchy | The Guardian</a></li>
-<li> 21:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:49 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:49 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 21:49 www.reddit.com</li>
 <li class='same'> 21:48 www.reddit.com</li>
@@ -22378,7 +22429,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:02 <a href="https://www.theguardian.com/news/ng-interactive/2025/aug/03/regret-resentment-and-reform-uk-jailed-rotherham-rioters-one-year-on">Regret, resentment and Reform UK: jailed Rotherham rioters one year on | Southport attack | The Guardian</a></li>
 <li> 16:00 <a href="https://www.theguardian.com/us-news/2025/aug/03/sydney-sweeney-jeans-ad-republican-voter-registration">Sydney Sweeney’s Republican voter registration revealed amid jeans ad controversy | US news | The Guardian</a></li>
-<li> 16:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:00 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:00 www.reddit.com</li>
 <li> 16:00 www.google.com</li>
 <li> 15:59 www.reddit.com</li>
@@ -22400,7 +22451,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:59 www.reddit.com</li>
 <li class='same'> 12:58 www.reddit.com</li>
 <li class='same'> 12:53 www.reddit.com</li>
-<li> 12:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:52 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:52 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 12:45 www.reddit.com</li>
 <li class='same'> 12:44 www.reddit.com</li>
@@ -22456,7 +22507,7 @@ With number of accesses/minutes in parentheses
 <li> 07:41 discord.com</li>
 <li> 07:40 www.reddit.com</li>
 <li> 07:39 feedly.com</li>
-<li> 07:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:33 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:07 www.linkedin.com</li>
 <li class='same'> 07:06 www.linkedin.com</li>
@@ -22524,11 +22575,11 @@ With number of accesses/minutes in parentheses
 <li> 17:31 outlook.office.com</li>
 <li class='same'> 17:30 outlook.office.com</li>
 <li> 17:22 docs.google.com</li>
-<li> 17:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:14 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:14 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 17:14 drive.google.com</li>
 <li> 17:11 www.linkedin.com</li>
-<li> 17:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:11 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:06 Local file</li>
 <li> 17:06 www.rand.org</li>
 <li> 17:06 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -22539,7 +22590,7 @@ With number of accesses/minutes in parentheses
 <li> 17:05 cyberinnovationhub.wales</li>
 <li> 17:04 www.google.com</li>
 <li> 17:01 <a href="https://www.theguardian.com/commentisfree/2025/aug/02/piano-sport-rugby-legend-simple-sage-advice-perfect-practice">I’m no sportsman, but a rugby legend’s simple, sage advice struck a chord | Richard Coles | The Guardian</a></li>
-<li> 17:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:00 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:59 www.linkedin.com</li>
 <li class='same'> 16:58 www.linkedin.com</li>
 <li class='same'> 16:53 www.linkedin.com</li>
@@ -22581,10 +22632,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:33 calendar.google.com</li>
 <li> 15:24 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 15:22 <a href="https://www.theguardian.com/music/2025/aug/01/tyler-ballgame-music-interview-new-car-help-me-out-sarah">US singer-songwriter Tyler Ballgame: ‘It shocked me out of depression. I had this spiritual awakening’ | Music | The Guardian</a></li>
-<li> 15:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:21 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:21 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:18 <a href="https://www.theguardian.com/technology/2025/aug/02/airbnb-guest-damage-claim-refund-photos">Airbnb guest says images were altered in false £12,000 damage claim | Airbnb | The Guardian</a></li>
-<li> 15:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:18 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:18 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:16 www.linkedin.com</li>
 <li class='same'> 15:15 www.linkedin.com</li>
@@ -22609,7 +22660,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:50 chatgpt.com</li>
 <li> 13:50 chat.openai.com</li>
 <li> 13:45 www.linkedin.com</li>
-<li> 13:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:42 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:42 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:40 tvtropes.org</li>
 <li> 13:38 www.linkedin.com</li>
@@ -22632,15 +22683,15 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:26 sports.yahoo.com</li>
 <li> 10:26 consent.yahoo.com</li>
 <li> 10:19 www.natesilver.net</li>
-<li> 10:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:18 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:15 <a href="https://www.theguardian.com/uk-news/2025/aug/01/gwyneth-paltrow-coldplay-kiss-cam-scandal-astronomer-kim-kardashian">Digested week: Smirking Gwyneth Paltrow turns Coldplay kiss-cam scandal into a marketing win | Emma Brockes | The Guardian</a></li>
-<li> 10:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:14 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:04 yougov.co.uk</li>
 <li> 10:04 <a href="https://www.theguardian.com/commentisfree/2025/aug/01/everything-right-left-politics-getting-wrong-online-safety-act">Everything the right - and the left – are getting wrong about the Online Safety Act | George Billinge | The Guardian</a></li>
 <li> 10:04 yougov.co.uk</li>
 <li class='same'> 10:03 yougov.co.uk</li>
 <li> 10:03 <a href="https://www.theguardian.com/commentisfree/2025/aug/01/everything-right-left-politics-getting-wrong-online-safety-act">Everything the right - and the left – are getting wrong about the Online Safety Act | George Billinge | The Guardian</a></li>
-<li> 10:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:02 www.dataannotation.tech</li>
 <li> 10:02 www.reddit.com</li>
 </ul>
@@ -22745,7 +22796,7 @@ With number of accesses/minutes in parentheses
 <li> 17:38 tvtropes.org</li>
 <li class='same'> 17:37 tvtropes.org</li>
 <li> 17:37 duckduckgo.com</li>
-<li> 17:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:37 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 17:36 www.reddit.com</li>
 <li class='same'> 17:34 www.reddit.com</li>
@@ -22757,7 +22808,7 @@ With number of accesses/minutes in parentheses
 <li> 17:24 duckduckgo.com</li>
 <li> 17:23 www.linkedin.com</li>
 <li class='same'> 17:22 www.linkedin.com</li>
-<li> 17:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:20 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:20 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -22775,11 +22826,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 12:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:36 <a href="https://www.theguardian.com/us-news/2025/jul/31/trump-extends-deadline-tariff-deal-mexico">Trump imposes sweeping new tariffs on dozens of countries in latest bid to reshape global trade | Trump tariffs | The Guardian</a></li>
 <li> 12:35 www.foxnews.com</li>
 <li> 12:33 <a href="https://www.theguardian.com/us-news/2025/jul/31/trump-extends-deadline-tariff-deal-mexico">Trump imposes sweeping new tariffs on dozens of countries in latest bid to reshape global trade | Trump tariffs | The Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -22788,10 +22839,10 @@ With number of accesses/minutes in parentheses
 <li> 11:28 www.linkedin.com</li>
 <li> 11:28 outlook.office365.com</li>
 <li> 11:27 www.facebook.com</li>
-<li> 11:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:27 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:27 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:26 <a href="https://www.theguardian.com/education/2025/aug/01/china-backed-centres-at-uk-universities-under-threat-from-new-free-speech-laws">China-backed centres at UK universities under threat from new free speech laws | Higher education | The Guardian</a></li>
-<li> 11:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:24 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:24 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:23 www.reddit.com</li>
 <li class='same'> 11:22 www.reddit.com</li>
@@ -22855,10 +22906,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 22:53 www.reddit.com</li>
 <li class='same'> 22:51 www.reddit.com</li>
 <li> 22:50 feedly.com</li>
-<li> 22:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:49 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 22:49 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 22:39 <a href="https://www.theguardian.com/society/2025/jul/31/mary-ann-stephenson-confirmed-as-ehrc-chair-despite-mps-objections">Mary-Ann Stephenson confirmed as EHRC chair despite MPs’ objections | Equality and Human Rights Commission (EHRC) | The Guardian</a></li>
-<li> 22:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 22:38 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 22:38 www.linkedin.com</li>
 <li class='same'> 22:30 www.linkedin.com</li>
@@ -22870,7 +22921,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:28 www.buzzfeed.com</li>
 <li> 18:28 web.whatsapp.com</li>
 <li> 18:28 <a href="https://www.theguardian.com/books/2025/jul/31/allan-ahlberg-beloved-childrens-author-dies-aged-87">Allan Ahlberg, beloved children's author, dies aged 87 | Children and teenagers | The Guardian</a></li>
-<li> 18:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:28 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:28 www.google.co.uk</li>
 <li class='same'> 18:27 www.google.co.uk</li>
 <li> 18:27 web.whatsapp.com</li>
@@ -23018,7 +23069,7 @@ With number of accesses/minutes in parentheses
 <li> 17:34 docs.google.com</li>
 <li class='same'> 17:33 docs.google.com</li>
 <li> 17:33 drive.google.com</li>
-<li> 17:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:32 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:32 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 17:32 <a href="https://www.theguardian.com/football/2025/jul/30/everton-transfer-ownership-of-goodison-park-to-their-womens-team">Everton transfer ownership of Goodison Park to their women’s team | Everton Women | The Guardian</a></li>
 <li> 17:30 intranet.royalholloway.ac.uk</li>
@@ -23405,7 +23456,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:54 www.natesilver.net</li>
-<li> 08:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:53 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:42 www.google.com</li>
 <li> 08:42 accounts.google.com</li>
 <li> 08:42 www.google.com</li>
@@ -23427,12 +23478,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:00 <a href="https://www.theguardian.com/culture/2025/jul/28/hulk-hogan-obituary">Hulk Hogan obituary | Wrestling | The Guardian</a></li>
-<li> 06:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:58 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:57 <a href="https://www.theguardian.com/world/2025/jul/29/lafufu-chinese-fake-labubu-plush-toy-doll-popmart">Labubu underground: Lafufu makers defy Chinese authorities to feed the world’s appetite for viral doll | China | The Guardian</a></li>
-<li> 06:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:57 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:57 <a href="https://www.theguardian.com/business/2025/jul/29/new-mortgage-affordability-rules-help-uk-housing-market-avoid-summer-lull">New mortgage affordability rules help UK housing market avoid summer lull | Housing market | The Guardian</a></li>
 <li class='same'> 06:55 <a href="https://www.theguardian.com/business/2025/jul/29/new-mortgage-affordability-rules-help-uk-housing-market-avoid-summer-lull">New mortgage affordability rules help UK housing market avoid summer lull | Housing market | The Guardian</a></li>
-<li> 06:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:54 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:54 www.google.com</li>
 <li> 06:41 journals.sagepub.com</li>
 <li> 06:41 scholar.google.com</li>
@@ -23474,10 +23525,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:01 www.reddit.com</li>
 <li class='same'> 19:45 www.reddit.com</li>
 <li> 19:43 <a href="https://www.theguardian.com/film/2025/jul/28/motherboard-mother-who-filmed-her-sons-entire-childhood">‘Mum, I can’t think straight any more’: the mother who filmed her son’s entire childhood | Film | The Guardian</a></li>
-<li> 19:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:42 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:42 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 19:41 <a href="https://www.theguardian.com/us-news/live/2025/jul/28/donald-trump-uk-prime-minister-keir-starmer-scotland-talks-trade-us-politics-latest-updates-news">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
-<li> 19:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:40 <a href="https://www.theguardian.com/sport/2025/jul/28/england-euro-2025-win-lionesses-what-the-papers-newspaper-front-pages">‘Roar of victory’: what the papers say about the Lionesses’ Euro win | Sport | The Guardian</a></li>
 <li> 19:40 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 19:40 ribena.co.uk</li>
@@ -23489,10 +23540,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:32 <a href="https://www.theguardian.com/sport/2025/jul/28/england-euro-2025-win-lionesses-what-the-papers-newspaper-front-pages">‘Roar of victory’: what the papers say about the Lionesses’ Euro win | Sport | The Guardian</a></li>
-<li> 06:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:32 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:31 <a href="https://www.theguardian.com/football/2025/jul/27/it-was-amazing-so-inspiring-ecstatic-fans-sing-praises-of-lionesses-after-shootout-victory">‘It was amazing, so inspiring’ – ecstatic fans sing praises of Lionesses after shootout victory | England women's football team | The Guardian</a></li>
 <li class='same'> 06:30 <a href="https://www.theguardian.com/football/2025/jul/27/it-was-amazing-so-inspiring-ecstatic-fans-sing-praises-of-lionesses-after-shootout-victory">‘It was amazing, so inspiring’ – ecstatic fans sing praises of Lionesses after shootout victory | England women's football team | The Guardian</a></li>
-<li> 06:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:29 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:28 <a href="https://www.theguardian.com/football/2025/jul/27/england-women-spain-euro-2025-final-jonathan-liew">Euros win one of the most magnificent heists in the history of English sport | Women’s Euro 2025 | The Guardian</a></li>
 <li> 06:28 <a href="https://www.theguardian.com/football/2025/jul/27/england-women-spain-euro-2025-final-jonathan-liew#img-1">Euros win one of the most magnificent heists in the history of English sport | Women’s Euro 2025 | The Guardian</a></li>
 <li> 06:28 <a href="https://www.theguardian.com/football/2025/jul/27/england-women-spain-euro-2025-final-jonathan-liew">Euros win one of the most magnificent heists in the history of English sport | Women’s Euro 2025 | The Guardian</a></li>
@@ -24711,7 +24762,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:10 www.linkedin.com</li>
 <li class='same'> 18:09 www.linkedin.com</li>
 <li class='same'> 18:08 www.linkedin.com</li>
-<li> 18:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:08 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:07 www.ebay.co.uk</li>
 <li class='same'> 18:06 www.ebay.co.uk</li>
 <li class='same'> 18:05 www.ebay.co.uk</li>
@@ -24734,7 +24785,7 @@ With number of accesses/minutes in parentheses
 <li> 16:02 help.uolacademiccontractors.com</li>
 <li> 16:02 www.uolacademiccontractors.com</li>
 <li> 16:01 outlook.office365.com</li>
-<li> 16:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:00 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:00 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:00 outlook.office365.com</li>
 <li> 15:59 www.linkedin.com</li>
@@ -24759,7 +24810,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:35 mail.google.com</li>
 <li class='same'> 15:34 mail.google.com</li>
 <li> 15:34 gmail.com</li>
-<li> 15:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:33 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:31 jobs.royalholloway.ac.uk</li>
 <li> 15:30 www.giantitp.com</li>
@@ -24767,7 +24818,7 @@ With number of accesses/minutes in parentheses
 <li> 15:29 feedly.com</li>
 <li> 15:29 outlook.office365.com</li>
 <li> 15:28 <a href="https://www.theguardian.com/us-news/live/2025/jul/21/ice-immigration-donald-trump-latest-us-politics-news-updates">Harvard to ask court to declare Trump’s $2bn funding freeze unlawful – US politics live</a></li>
-<li> 15:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:27 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:25 www.linkedin.com</li>
 <li> 15:23 outlook.office365.com</li>
 <li> 15:23 www.linkedin.com</li>
@@ -24898,7 +24949,7 @@ With number of accesses/minutes in parentheses
 <li> 12:07 www.linkedin.com</li>
 <li class='same'> 12:06 www.linkedin.com</li>
 <li> 12:05 <a href="https://www.theguardian.com/business/2025/jul/21/ryanair-weighs-up-higher-bonus-paid-to-staff-intercepting-oversized-luggage">Ryanair weighs up increasing bonus to staff for intercepting oversized luggage | Ryanair | The Guardian</a></li>
-<li> 12:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:04 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 12:04 mail.google.com</li>
 <li> 12:04 www.linkedin.com</li>
@@ -25005,7 +25056,7 @@ With number of accesses/minutes in parentheses
 <li> 10:08 www.reddit.com</li>
 <li class='same'> 10:07 www.reddit.com</li>
 <li> 10:06 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/21/bbc-targets-adults-in-the-latest-adventure-for-its-top-dog-bluey">BBC targets adults in the latest adventure for its top dog Bluey | Bluey | The Guardian</a></li>
-<li> 10:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:06 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:06 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 10:05 news.mypd.co.uk</li>
 <li> 10:05 outlook.office365.com</li>
@@ -25086,7 +25137,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:49 www.foxnews.com</li>
-<li> 12:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:47 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:47 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -25111,7 +25162,7 @@ With number of accesses/minutes in parentheses
 <li> 08:06 www.google.com</li>
 <li> 08:05 www.reddit.com</li>
 <li> 08:05 www.google.com</li>
-<li> 08:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -25123,12 +25174,12 @@ With number of accesses/minutes in parentheses
 <li> 07:28 artofmemory.com</li>
 <li> 07:27 www.linkedin.com</li>
 <li class='same'> 07:26 www.linkedin.com</li>
-<li> 07:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 06:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:12 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 06:46 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:46 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:45 <a href="https://www.theguardian.com/us-news/2025/jul/18/astronomer-formal-investigation-couple-coldplay">Company says investigation under way into footage of couple at Coldplay gig | US news | The Guardian</a></li>
 <li> 06:43 <a href="https://www.theguardian.com/us-news/2025/jul/18/trump-libel-lawsuit-wsj-dow-jones-rupert-murdoch">Trump sues Wall Street Journal and Rupert Murdoch over Epstein report | Donald Trump | The Guardian</a></li>
-<li> 06:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:42 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <H3>Friday, 18/07/25</H3>
@@ -25151,7 +25202,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 17:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:43 www.google.com</li>
 <li> 17:19 <a href="https://www.youtube.com/embed/myybqH1JN1s">D70 Tutorial - YouTube</a></li>
 <li> 17:19 deerc.com</li>
@@ -25190,10 +25241,10 @@ With number of accesses/minutes in parentheses
 <li> 07:42 <a href="https://www.theguardian.com/us-news/2025/jul/17/what-is-chronic-venous-insufficiency-trump-illness">What is chronic venous insufficiency, the condition Trump was diagnosed with? | Donald Trump | The Guardian</a></li>
 <li> 07:33 web.whatsapp.com</li>
 <li> 07:33 <a href="https://www.theguardian.com/football/2025/jul/17/sweden-england-womens-euro-2025-quarter-final-match-report">England win dramatic shootout to beat Sweden and keep alive Euro 2025 hopes | Women’s Euro 2025 | The Guardian</a></li>
-<li> 07:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:32 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:32 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:30 <a href="https://www.theguardian.com/commentisfree/2025/jul/18/public-trust-authorities-lies-superinjunction-conspiracy">Why is it so hard for the authorities to win public trust? Maybe because they keep lying to us | Gaby Hinsliff | The Guardian</a></li>
-<li> 07:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:29 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:29 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:29 www.giantitp.com</li>
 <li> 07:28 duckduckgo.com</li>
@@ -25205,7 +25256,7 @@ With number of accesses/minutes in parentheses
 <li> 07:09 www.giantitp.com</li>
 <li> 07:07 www.linkedin.com</li>
 <li> 07:06 <a href="https://www.theguardian.com/us-news/2025/jul/17/trump-epstein-grand-jury-testimony-wall-street-journal">Trump requests release of Epstein grand jury transcripts amid report of ‘bawdy’ birthday note | Donald Trump | The Guardian</a></li>
-<li> 07:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:06 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:05 www.linkedin.com</li>
 <li> 07:05 chess.co.uk</li>
 <li> 07:05 duckduckgo.com</li>
@@ -25217,7 +25268,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:01 docs.google.com</li>
 <li class='same'> 07:00 docs.google.com</li>
 <li> 06:59 <a href="https://www.theguardian.com/us-news/2025/jul/17/what-is-chronic-venous-insufficiency-trump-illness">What is chronic venous insufficiency, the condition Trump was diagnosed with? | Donald Trump | The Guardian</a></li>
-<li> 06:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:59 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:59 <a href="https://www.theguardian.com/commentisfree/2025/jul/17/ive-found-the-cure-for-a-sleepless-night-in-a-heatwave-but-it-can-have-its-drawbacks">I’ve found the cure for a sleepless night in a heatwave – but it can have its drawbacks … | Adrian Chiles | The Guardian</a></li>
 </ul>
 
@@ -25245,25 +25296,25 @@ With number of accesses/minutes in parentheses
 <li> 17:50 www.linkedin.com</li>
 <li class='same'> 17:49 www.linkedin.com</li>
 <li> 17:28 <a href="https://www.theguardian.com/commentisfree/2025/jul/17/ive-found-the-cure-for-a-sleepless-night-in-a-heatwave-but-it-can-have-its-drawbacks">I’ve found the cure for a sleepless night in a heatwave – but it can have its drawbacks … | Adrian Chiles | The Guardian</a></li>
-<li> 17:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 17:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:28 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 17:27 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:27 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 17:22 <a href="https://www.theguardian.com/us-news/2025/jul/17/trump-jeffrey-epstein-republicans-maga">Trump’s effort to dismiss Epstein files as ‘hoax’ fails to quell Maga rebellion | Jeffrey Epstein | The Guardian</a></li>
-<li> 17:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 16:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:19 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 16:54 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/education/2025/jul/17/ofqual-admits-massively-exaggerating-number-of-students-getting-exam-assistance">Ofqual admits massively exaggerating number of students getting exam assistance | Exams | The Guardian</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 16:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:54 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/education/2025/jul/17/ofqual-admits-massively-exaggerating-number-of-students-getting-exam-assistance">Ofqual admits massively exaggerating number of students getting exam assistance | Exams | The Guardian</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 16:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:54 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li> 15:46 <a href="https://www.theguardian.com/education/2025/jul/17/ofqual-admits-massively-exaggerating-number-of-students-getting-exam-assistance">Ofqual admits massively exaggerating number of students getting exam assistance | Exams | The Guardian</a></li>
-<li> 15:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:45 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:45 www.projectreal.co.uk</li>
 </ul>
 
@@ -25273,12 +25324,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:23 www.projectreal.co.uk</li>
 <li class='same'> 14:22 www.projectreal.co.uk</li>
 <li class='same'> 14:21 www.projectreal.co.uk</li>
-<li> 14:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:21 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 12:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 12:53 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:53 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 12:53 <a href="https://www.theguardian.com/commentisfree/2025/jul/16/britain-legacy-austerity-teenage-pregnancy">Teenage pregnancy rates are a barometer of Britain’s progress. The tale they now tell is not reassuring | Polly Toynbee | The Guardian</a></li>
 </ul>
@@ -25291,7 +25342,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 06:03 <a href="https://www.theguardian.com/commentisfree/2025/jul/16/britain-legacy-austerity-teenage-pregnancy">Teenage pregnancy rates are a barometer of Britain’s progress. The tale they now tell is not reassuring | Polly Toynbee | The Guardian</a></li>
-<li> 06:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:01 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:01 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:01 <a href="https://www.theguardian.com/uk-news/2025/jul/15/sycamore-gap-tree-felling-men-jailed">Two men behind ‘senseless’ felling of Sycamore Gap tree jailed for more than four years | Crime | The Guardian</a></li>
 <li> 06:01 www.google.com</li>
@@ -25308,7 +25359,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:10 docs.google.com</li>
 <li class='same'> 17:09 docs.google.com</li>
 <li class='same'> 17:08 docs.google.com</li>
-<li> 17:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:06 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:05 www.linkedin.com</li>
 <li class='same'> 17:04 www.linkedin.com</li>
 </ul>
@@ -25319,7 +25370,7 @@ With number of accesses/minutes in parentheses
 <li> 16:34 www.google.com</li>
 <li class='same'> 16:33 www.google.com</li>
 <li> 16:32 <a href="https://www.theguardian.com/politics/2025/jul/16/keir-starmer-to-remove-labour-whip-from-at-least-three-persistent-rebel-mps">Keir Starmer to remove Labour whip from at least four ‘persistent rebel’ MPs | Labour | The Guardian</a></li>
-<li> 16:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:31 reductress.com</li>
 </ul>
 
@@ -25425,10 +25476,10 @@ With number of accesses/minutes in parentheses
 <li> 12:30 outlook.office365.com</li>
 <li class='same'> 12:29 outlook.office365.com</li>
 <li> 12:07 reductress.com</li>
-<li> 12:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:06 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:06 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 12:05 <a href="https://www.theguardian.com/uk-news/2025/jul/16/resettlement-afghans-data-leak-john-healey">No automatic right to resettlement for Afghans in data leak, says Healey | Ministry of Defence | The Guardian</a></li>
-<li> 12:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:05 <a href="https://www.theguardian.com/uk-news/2025/jul/15/sycamore-gap-tree-felling-men-jailed">Two men behind ‘senseless’ felling of Sycamore Gap tree jailed for more than four years | Crime | The Guardian</a></li>
 </ul>
 
@@ -25545,8 +25596,8 @@ With number of accesses/minutes in parentheses
 <li> 07:45 www.printables.com</li>
 <li class='same'> 07:44 www.printables.com</li>
 <li> 07:38 <a href="https://www.theguardian.com/uk-news/2025/jul/15/sycamore-gap-tree-felling-men-jailed">Two men behind ‘senseless’ felling of Sycamore Gap tree jailed for more than four years | Crime | The Guardian</a></li>
-<li> 07:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 07:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 07:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:37 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:36 docs.google.com</li>
 <li class='same'> 07:35 docs.google.com</li>
@@ -25555,7 +25606,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:32 docs.google.com</li>
 <li> 07:26 <a href="https://www.theguardian.com/world/2025/jul/16/an-insult-malaysians-slam-nomination-of-alpha-male-nick-adams-as-us-ambassador-ntwnfb">‘An insult’: Malaysians slam nomination of ‘alpha-male’ Nick Adams as US ambassador | Malaysia | The Guardian</a></li>
 <li> 07:23 <a href="https://www.theguardian.com/us-news/2025/jul/15/trump-epstein-files-maga">How the Trump administration’s handling of the Epstein files became a vehicle for QAnon | Trump administration | The Guardian</a></li>
-<li> 07:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:22 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:22 mail.google.com</li>
 <li> 07:19 kdpreports.amazon.com</li>
 <li> 07:19 kdp.amazon.com</li>
@@ -25618,7 +25669,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:00 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li> 18:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:00 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -25666,7 +25717,7 @@ With number of accesses/minutes in parentheses
 <li> 15:11 outlook.office.com</li>
 <li> 15:10 outlook.office365.com</li>
 <li> 15:10 herts365-my.sharepoint.com</li>
-<li> 15:07 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:07 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:07 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:05 www.google.com</li>
 <li class='same'> 15:04 www.google.com</li>
@@ -25740,10 +25791,10 @@ With number of accesses/minutes in parentheses
 <li> 13:09 <a href="https://www.theguardian.com/music/2025/jul/15/kavana-anthony-kavanagh-singer-career-work-addiction-sexuality">‘I needed to be locked up’: how Kavana went from 90s pop stardom to smoking crack in a skip – and bounced back | Pop and rock | The Guardian</a></li>
 <li> 13:07 <a href="https://www.theguardian.com/media/2025/jul/15/bbc-look-overhauling-licence-fee-300000-more-households-stop-paying">BBC to look at overhauling licence fee as 300,000 more households stop paying | BBC licence fee | The Guardian</a></li>
 <li class='same'> 13:06 <a href="https://www.theguardian.com/media/2025/jul/15/bbc-look-overhauling-licence-fee-300000-more-households-stop-paying">BBC to look at overhauling licence fee as 300,000 more households stop paying | BBC licence fee | The Guardian</a></li>
-<li> 13:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:06 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:06 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:06 <a href="https://www.theguardian.com/politics/live/2025/jul/15/starmer-reeves-farage-trump-tax-welfare-uk-politics-live-news-updates">Thousands offered UK asylum in £850m scheme after personal data of Afghans who helped British forces mistakenly leaked – live</a></li>
-<li> 13:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:56 t1b.gobright.cloud</li>
 <li class='same'> 12:55 t1b.gobright.cloud</li>
@@ -25837,7 +25888,7 @@ With number of accesses/minutes in parentheses
 <li> 10:26 duckduckgo.com</li>
 <li> 10:24 www.royalholloway.ac.uk</li>
 <li> 10:24 duckduckgo.com</li>
-<li> 10:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:02 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 10:01 herts365-my.sharepoint.com</li>
 <li> 10:00 login.microsoftonline.com</li>
@@ -25883,7 +25934,7 @@ With number of accesses/minutes in parentheses
 <li> 15:02 chat.openai.com</li>
 <li> 14:39 www.reddit.com</li>
 <li class='same'> 14:38 www.reddit.com</li>
-<li> 14:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:21 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:21 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:58 m365.cloud.microsoft</li>
 <li> 13:58 login.microsoftonline.com</li>
@@ -25892,10 +25943,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 12:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:59 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:59 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 12:55 <a href="https://www.theguardian.com/media/2025/jul/14/bbc-review-gaza-how-to-survive-a-warzone-documentary-accuracy-guidelines-breached">BBC breached accuracy guidelines over Gaza documentary, review finds | BBC | The Guardian</a></li>
-<li> 12:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:55 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:54 www.thefreedictionary.com</li>
 <li class='same'> 12:50 www.thefreedictionary.com</li>
 <li> 12:39 docs.google.com</li>
@@ -25929,7 +25980,7 @@ With number of accesses/minutes in parentheses
 <li> 12:03 rhul.hosted.panopto.com</li>
 <li> 12:03 <a href="https://www.theguardian.com/technology/2025/jul/14/an-ai-generated-band-got-1m-plays-on-spotify-now-music-insiders-say-listeners-should-be-warned">An AI-generated band got 1m plays on Spotify. Now music insiders say listeners should be warned | Artificial intelligence (AI) | The Guardian</a></li>
 <li> 12:02 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/14/report-gregg-wallace-behaviour-claims-ex-bbc-presenter">Report on Gregg Wallace’s behaviour upholds 45 claims against ex-BBC presenter | Gregg Wallace | The Guardian</a></li>
-<li> 12:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:00 qmucu.org</li>
 <li> 12:00 duckduckgo.com</li>
 <li> 11:59 www.reddit.com</li>
@@ -26048,7 +26099,7 @@ With number of accesses/minutes in parentheses
 <li> 14:11 www.reddit.com</li>
 <li class='same'> 14:10 www.reddit.com</li>
 <li> 14:09 <a href="https://www.theguardian.com/books/2025/jul/13/are-a-few-people-ruining-the-internet-for-the-rest-of-us">Are a few people ruining the internet for the rest of us? | Social media | The Guardian</a></li>
-<li> 14:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:08 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -26092,11 +26143,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:02 www.duolingo.com</li>
 <li> 11:02 duckduckgo.com</li>
 <li> 10:46 <a href="https://www.theguardian.com/sport/2025/jul/12/iga-swiatek-races-to-first-wimbledon-title-with-6-0-6-0-thrashing-of-anisimova">Iga Swiatek races to first Wimbledon title with 6-0, 6-0 thrashing of Anisimova | Wimbledon 2025 | The Guardian</a></li>
-<li> 10:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:46 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:46 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 10:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:45 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:42 <a href="https://www.theguardian.com/commentisfree/2025/jul/13/ukraine-europe-donald-trump-nato">What if Ukraine falls? This is no longer a hypothetical question – and it must be answered urgently | Simon Tisdall | The Guardian</a></li>
-<li> 10:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:42 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:42 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 10:40 <a href="https://www.theguardian.com/world/2025/jul/12/eu-will-be-reeling-over-how-to-tackle-trade-talks-after-trumps-30-tariff-threat">EU will be reeling over how to tackle trade talks after Trump’s 30% tariff threat | European Union | The Guardian</a></li>
 <li> 10:40 <a href="https://www.theguardian.com/uk-news/2025/jul/10/starmer-and-macron-to-announce-one-in-one-out-migration-deal">Starmer and Macron to announce ‘one in, one out’ migration deal | Immigration and asylum | The Guardian</a></li>
@@ -26104,7 +26155,7 @@ With number of accesses/minutes in parentheses
 <li> 10:39 <a href="https://www.theguardian.com/lifeandstyle/2025/jul/13/one-of-my-friends-at-school-has-turned-toxic-how-do-i-discuss-it-with-her">One of my friends at school has turned toxic. How do I discuss it with her? | Friendship | The Guardian</a></li>
 <li> 10:37 <a href="https://www.theguardian.com/money/2025/jul/13/student-debt-graduates-share-job-hunting-woes-ai-fallout">‘I’ve £90k in student debt – for what?’ Graduates share their job-hunting woes amid the AI fallout | Graduate careers | The Guardian</a></li>
 <li class='same'> 10:17 <a href="https://www.theguardian.com/money/2025/jul/13/student-debt-graduates-share-job-hunting-woes-ai-fallout">‘I’ve £90k in student debt – for what?’ Graduates share their job-hunting woes amid the AI fallout | Graduate careers | The Guardian</a></li>
-<li> 10:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:15 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:15 www.google.com</li>
 </ul>
 
@@ -26124,11 +26175,11 @@ With number of accesses/minutes in parentheses
 <li> 09:12 duckduckgo.com</li>
 <li class='same'> 09:11 duckduckgo.com</li>
 <li> 09:11 127.0.0.1:4000</li>
-<li> 09:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:11 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:11 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 09:10 <a href="https://www.theguardian.com/us-news/2025/jul/12/kash-patel-fbi-doj-epstein">Kash Patel denies rumors he’s quitting the FBI over DoJ ruling on Epstein files | FBI | The Guardian</a></li>
 <li> 09:09 <a href="https://www.theguardian.com/technology/2025/jul/13/graduates-teach-first-in-person-interviews-ai">Teach First job applicants will get in-person interviews after more apply using AI | Artificial intelligence (AI) | The Guardian</a></li>
-<li> 09:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:09 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:09 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -26162,7 +26213,7 @@ With number of accesses/minutes in parentheses
 <li> 17:13 chat.openai.com</li>
 <li> 17:06 127.0.0.1:4000</li>
 <li> 16:53 <a href="https://www.theguardian.com/lifeandstyle/2025/jul/11/sorry-babbel-but-british-people-say-sorry-more-than-nine-times-a-day">Sorry Babbel, but British people say sorry more than nine times a day | Social etiquette | The Guardian</a></li>
-<li> 16:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:52 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:52 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:39 chatgpt.com</li>
 <li class='same'> 16:34 chatgpt.com</li>
@@ -26238,7 +26289,7 @@ With number of accesses/minutes in parentheses
 <li> 13:01 calendar.google.com</li>
 <li> 12:58 outlook.office365.com</li>
 <li> 12:57 docs.google.com</li>
-<li> 12:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:56 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:56 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 12:55 docs.google.com</li>
 <li class='same'> 12:54 docs.google.com</li>
@@ -27184,7 +27235,7 @@ With number of accesses/minutes in parentheses
 <li> 16:42 www.reddit.com</li>
 <li class='same'> 16:41 www.reddit.com</li>
 <li class='same'> 16:39 www.reddit.com</li>
-<li> 16:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:38 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:34 www.reddit.com</li>
 <li class='same'> 16:33 www.reddit.com</li>
@@ -27233,7 +27284,7 @@ With number of accesses/minutes in parentheses
 <li> 14:39 artofmemory.com</li>
 <li> 14:39 www.reddit.com</li>
 <li class='same'> 14:38 www.reddit.com</li>
-<li> 14:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:37 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -27270,7 +27321,7 @@ With number of accesses/minutes in parentheses
 <li> 11:57 mail.google.com</li>
 <li> 11:56 <a href="https://www.theguardian.com/commentisfree/2025/jul/07/i-spoke-for-my-brother-when-he-was-too-afraid-to-answer-now-he-speaks-in-melodies-and-i-have-learned-to-listen">I spoke for my brother when he was too afraid to answer — now, he speaks in melodies, and I have learned to listen | Jessie Cole | The Guardian</a></li>
 <li> 11:55 <a href="https://www.theguardian.com/technology/2025/jul/07/tesla-shares-dive-as-investors-fear-new-elon-musk-political-party-will-damage-brand">Tesla shares dive as investors fear new Elon Musk political party will damage brand | Tesla | The Guardian</a></li>
-<li> 11:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:54 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:54 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:52 127.0.0.1:4000</li>
 <li> 11:50 drive.google.com</li>
@@ -27466,7 +27517,7 @@ With number of accesses/minutes in parentheses
 <li> 11:51 gmail.com</li>
 <li> 11:51 gamil.com</li>
 <li> 11:51 calendar.google.com</li>
-<li> 11:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:50 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:49 www.sfadb.com</li>
 <li> 11:49 feedly.com</li>
 <li> 11:48 web.whatsapp.com</li>
@@ -27477,7 +27528,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:41 docs.google.com</li>
 <li> 08:40 www.reddit.com</li>
 <li class='same'> 08:39 www.reddit.com</li>
-<li> 08:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:32 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:32 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 08:21 docs.google.com</li>
 <li> 08:20 www.reddit.com</li>
@@ -27501,7 +27552,7 @@ With number of accesses/minutes in parentheses
 <li> 08:04 duckduckgo.com</li>
 <li> 08:02 docs.google.com</li>
 <li class='same'> 08:01 docs.google.com</li>
-<li> 07:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:58 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:58 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -27608,7 +27659,7 @@ With number of accesses/minutes in parentheses
 <li> 22:07 docs.google.com</li>
 <li class='same'> 22:06 docs.google.com</li>
 <li> 22:04 <a href="https://www.theguardian.com/politics/2025/jul/04/reform-councillors-boast-about-removing-trans-ideological-books-from-childrens-library-sections-falls-flat">Reform councillor’s boast about removing ‘trans-ideological’ books from children’s library sections falls flat | Reform UK | The Guardian</a></li>
-<li> 22:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 22:04 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 22:02 www.reddit.com</li>
 <li class='same'> 22:01 www.reddit.com</li>
@@ -27637,7 +27688,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:16 www.reddit.com</li>
 <li> 18:14 www.herts.ac.uk</li>
 <li> 18:14 duckduckgo.com</li>
-<li> 18:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:13 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:13 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -27664,7 +27715,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:48 www.reddit.com</li>
 <li class='same'> 16:47 www.reddit.com</li>
 <li class='same'> 16:46 www.reddit.com</li>
-<li> 16:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:43 mail.google.com</li>
 <li> 16:43 gmail.com</li>
 <li> 16:43 www.paypal.com</li>
@@ -27682,7 +27733,7 @@ With number of accesses/minutes in parentheses
 <li> 16:18 <a href="https://en.wikipedia.org/wiki/Jackie_Chan">Jackie Chan - Wikipedia</a></li>
 <li> 16:18 <a href="https://en.wikipedia.org/wiki/Police_Story_(film_series)">Police Story (film series) - Wikipedia</a></li>
 <li> 16:17 duckduckgo.com</li>
-<li> 16:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:16 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:16 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:16 www.facebook.com</li>
 <li> 16:14 www.sfadb.com</li>
@@ -27702,7 +27753,7 @@ With number of accesses/minutes in parentheses
 <li> 14:49 outlook.office365.com</li>
 <li> 14:49 mail.google.com</li>
 <li> 14:48 <a href="https://www.theguardian.com/uk-news/2025/jul/04/peaceful-trespass-bridehead-dorset-beauty-spot-owners-shut-path">‘Peaceful trespass’ planned at Dorset beauty spot after new owners shut path | Dorset | The Guardian</a></li>
-<li> 14:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:48 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:47 docs.google.com</li>
 <li> 14:47 duckduckgo.com</li>
 <li> 14:46 www.giantitp.com</li>
@@ -27713,14 +27764,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 13:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:40 herts365-my.sharepoint.com</li>
 <li> 13:40 eu-west.azureauth.duosecurity.com</li>
 <li> 13:40 api-b6327e78.duosecurity.com</li>
 <li> 13:40 adfs.herts.ac.uk</li>
 <li> 13:26 www.linkedin.com</li>
 <li> 13:25 <a href="https://www.theguardian.com/technology/2025/jul/04/minister-demands-overhaul-of-uks-leading-ai-institute-alan-turing">Minister demands overhaul of UK’s leading AI institute | Artificial intelligence (AI) | The Guardian</a></li>
-<li> 13:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:23 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:22 mail.google.com</li>
 <li> 13:12 chatgpt.com</li>
 <li class='same'> 13:11 chatgpt.com</li>
@@ -27779,7 +27830,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:25 www.foxnews.com</li>
 <li class='same'> 07:23 www.foxnews.com</li>
 <li> 07:20 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/03/such-brave-girls-season-two-review-bbc-three">Such Brave Girls season two review – this Bafta-winning comedy is startlingly brilliant | Television & radio | The Guardian</a></li>
-<li> 07:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:20 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:19 www.reddit.com</li>
 <li> 07:13 cryptpad.fr</li>
 <li> 07:13 outlook.office365.com</li>
@@ -27825,7 +27876,7 @@ With number of accesses/minutes in parentheses
 <li> 06:24 gmail.com</li>
 <li> 06:24 outlook.office365.com</li>
 <li> 06:23 www.google.com</li>
-<li> 06:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:22 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:22 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:21 www.reddit.com</li>
 <li class='same'> 06:18 www.reddit.com</li>
@@ -27925,10 +27976,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:05 www.reddit.com</li>
 <li> 19:05 www.google.com</li>
-<li> 19:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:04 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 19:02 <a href="https://www.theguardian.com/business/2025/jul/03/rachel-reeves-balancing-backbenchers-and-bond-markets-analysis">Reeves’s fearsome challenge: to balance backbenchers and bond markets | Bonds | The Guardian</a></li>
-<li> 19:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:02 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 19:02 <a href="https://www.theguardian.com/football/2025/jul/03/spain-women-football-euro-2025-fight-battles-on-and-off-pitch">‘Everything is better’: how Rubiales’s unwanted kiss transformed Spanish women’s football | Spain women's football team | The Guardian</a></li>
 </ul>
@@ -27945,7 +27996,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:43 <a href="https://www.theguardian.com/football/2025/jul/03/spain-women-football-euro-2025-fight-battles-on-and-off-pitch">‘Everything is better’: how Rubiales’s unwanted kiss transformed Spanish women’s football | Spain women's football team | The Guardian</a></li>
 <li class='same'> 17:42 <a href="https://www.theguardian.com/football/2025/jul/03/spain-women-football-euro-2025-fight-battles-on-and-off-pitch">‘Everything is better’: how Rubiales’s unwanted kiss transformed Spanish women’s football | Spain women's football team | The Guardian</a></li>
-<li> 17:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:41 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:41 www.telegraph.co.uk</li>
 </ul>
 
@@ -28284,9 +28335,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:09 www.telegraph.co.uk</li>
 <li class='same'> 06:08 www.telegraph.co.uk</li>
 <li> 06:08 www.google.com</li>
-<li> 06:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:08 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:08 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 06:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:08 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <H3>Wednesday, 02/07/25</H3>
@@ -28322,15 +28373,15 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 20:39 tvtropes.org</li>
 <li> 20:39 www.google.com</li>
 <li> 20:27 <a href="https://www.theguardian.com/us-news/live/2025/jul/02/donald-trump-big-beautiful-bill-house-republicans-us-politics-live-news-updates">House at standstill as Republican leaders continue to try to rally holdouts, delaying rule vote – US politics live</a></li>
-<li> 20:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:26 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 20:24 <a href="https://www.theguardian.com/politics/2025/jul/02/welfare-climbdown-lets-genie-out-of-the-bottle-and-no-one-knows-what-happens-next">Welfare climbdown lets genie out of the bottle, and no one knows what happens next | Welfare | The Guardian</a></li>
 <li> 20:24 www.wired.com</li>
-<li> 20:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:24 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 17:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 17:56 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:56 www.projectreal.co.uk</li>
 </ul>
 
@@ -28386,10 +28437,10 @@ With number of accesses/minutes in parentheses
 <li> 12:07 mail.google.com</li>
 <li> 12:07 gmail.com</li>
 <li> 12:05 <a href="https://www.theguardian.com/media/2025/jul/02/more-than-400-media-figures-urge-bbc-board-to-remove-robbie-gibb-over-gaza">More than 400 media figures urge BBC board to remove Robbie Gibb over Gaza | BBC | The Guardian</a></li>
-<li> 12:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:05 <a href="https://www.theguardian.com/media/2025/jul/02/more-than-400-media-figures-urge-bbc-board-to-remove-robbie-gibb-over-gaza">More than 400 media figures urge BBC board to remove Robbie Gibb over Gaza | BBC | The Guardian</a></li>
-<li> 12:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 12:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 12:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:04 dencode.com</li>
 <li> 11:58 dashboards.rhul.ac.uk</li>
 <li> 11:58 outlook.office365.com</li>
@@ -28698,7 +28749,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 09:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -28742,12 +28793,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 16:22 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:22 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 16:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:21 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:21 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:18 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/30/performative-reading-public-tiktok">Is it OK to read Infinite Jest in public? Why the internet hates ‘performative reading’ | Life and style | The Guardian</a></li>
-<li> 16:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:17 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:17 www.independent.co.uk</li>
 </ul>
 
@@ -29096,12 +29147,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:57 www.reddit.com</li>
 <li> 19:57 www.cottages.com</li>
 <li> 19:55 <a href="https://www.theguardian.com/culture/2025/jun/28/f1-the-movie-to-squid-game-the-week-in-rave-reviews">F1 the Movie to Squid Game: the week in rave reviews | Culture | The Guardian</a></li>
-<li> 19:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:54 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 18:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 18:25 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:25 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 </ul>
 
@@ -29116,7 +29167,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 13:11 <a href="https://www.theguardian.com/media/2025/jun/29/bbc-reckons-with-bias-accusations-over-israel-and-palestine-coverage">‘Heads will roll’: BBC reckons with bias accusations over Israel and Palestine coverage | BBC | The Guardian</a></li>
-<li> 13:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:11 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:03 www.google.com</li>
 <li> 13:03 m.youtube.com</li>
 </ul>
@@ -29265,7 +29316,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:07 www.reddit.com</li>
 <li> 18:06 <a href="https://www.theguardian.com/film/2025/jun/27/no-plans-ever-to-retire-why-steven-spielberg-and-the-movie-brat-generation-just-wont-quit">‘No plans ever to retire’: why Steven Spielberg and the movie brat generation just won’t quit | Film | The Guardian</a></li>
 <li class='same'> 18:05 <a href="https://www.theguardian.com/film/2025/jun/27/no-plans-ever-to-retire-why-steven-spielberg-and-the-movie-brat-generation-just-wont-quit">‘No plans ever to retire’: why Steven Spielberg and the movie brat generation just won’t quit | Film | The Guardian</a></li>
-<li> 18:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:04 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 18:04 <a href="https://www.theguardian.com/commentisfree/2025/jun/27/anna-wintour-super-rich-lauren-sanchez-jeff-bezos-vogue">Anna Wintour has spent decades dictating a certain look for the super-rich. Then along came Lauren | Marina Hyde | The Guardian</a></li>
 <li> 17:45 www.facebook.com</li>
@@ -29312,7 +29363,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:37 www.paypal.com</li>
 <li class='same'> 16:36 www.paypal.com</li>
 <li> 16:32 <a href="https://www.theguardian.com/commentisfree/2025/jun/27/anna-wintour-super-rich-lauren-sanchez-jeff-bezos-vogue">Anna Wintour has spent decades dictating a certain look for the super-rich. Then along came Lauren | Marina Hyde | The Guardian</a></li>
-<li> 16:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:31 www.google.com</li>
 <li> 16:29 www.reddit.com</li>
 <li class='same'> 16:26 www.reddit.com</li>
@@ -29337,7 +29388,7 @@ With number of accesses/minutes in parentheses
 <li> 15:52 <a href="https://www.youtube.com/results?search_query=honest+trailers">(581) honest trailers - YouTube</a></li>
 <li> 15:51 <a href="https://www.youtube.com/">(36) YouTube</a></li>
 <li> 15:51 <a href="https://www.theguardian.com/us-news/live/2025/jun/27/donald-trump-big-beautiful-bill-reworked-senate-us-politics-latest-updates-news">Three liberal supreme court justices dissent against ruling that limits power of judges to block Trump’s birthright citizenship order – live</a></li>
-<li> 15:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:50 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:50 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:50 mail.google.com</li>
 <li> 15:38 web.whatsapp.com</li>
@@ -29540,8 +29591,8 @@ With number of accesses/minutes in parentheses
 <li> 08:53 www.google.com</li>
 <li class='same'> 08:52 www.google.com</li>
 <li> 08:52 <a href="https://www.theguardian.com/politics/2025/jun/26/starmer-aide-morgan-mcsweeney-labour-welfare-rebellion">Starmer aide Morgan McSweeney under fire after Labour welfare rebellion | Morgan McSweeney | The Guardian</a></li>
-<li> 08:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 08:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 08:51 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:51 www.google.com</li>
 </ul>
 
@@ -29614,7 +29665,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:32 tvtropes.org</li>
 <li class='same'> 06:31 tvtropes.org</li>
 <li> 06:31 duckduckgo.com</li>
-<li> 06:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:28 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:28 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:27 duckduckgo.com</li>
 <li> 06:13 <a href="https://en.wikipedia.org/wiki/Elementary_charge">Elementary charge - Wikipedia</a></li>
@@ -29690,26 +29741,26 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:31 www.reddit.com</li>
-<li> 13:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:31 www.reddit.com</li>
 <li> 13:31 <a href="https://www.theguardian.com/us-news/2025/apr/02/trump-new-tariffs-liberation-day">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
-<li> 13:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:31 <a href="https://www.theguardian.com/us-news/2025/apr/02/trump-new-tariffs-liberation-day">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
-<li> 13:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:31 www.reddit.com</li>
 <li class='same'> 13:30 www.reddit.com</li>
 <li class='same'> 13:28 www.reddit.com</li>
-<li> 13:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:28 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:28 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:28 <a href="https://www.theguardian.com/us-news/2025/apr/02/trump-new-tariffs-liberation-day">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
 <li> 13:23 www.google.com</li>
 <li> 13:20 <a href="https://www.theguardian.com/film/2025/jun/26/mel-brooks-ranked-movies">Mel Brooks turns 99: the comedy icon’s best films – ranked! | Mel Brooks | The Guardian</a></li>
-<li> 13:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:19 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:19 <a href="https://www.theguardian.com/politics/2025/jun/26/reform-warwickshire-council-head-rob-howard-quits-after-five-weeks-leaving-18-year-old-in-charge">Reform Warwickshire council head quits after five weeks, leaving 18-year-old in charge | Reform UK | The Guardian</a></li>
-<li> 13:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:18 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:18 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:18 <a href="https://www.theguardian.com/business/2025/jun/26/rules-that-protect-uk-homeowners-from-repossessions-may-be-scrapped">Rules that protect UK homeowners from repossessions may be scrapped | Financial Conduct Authority | The Guardian</a></li>
-<li> 13:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:17 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:12 mail.google.com</li>
 <li> 13:10 outlook.office.com</li>
 <li class='same'> 13:09 outlook.office.com</li>
@@ -29756,7 +29807,7 @@ With number of accesses/minutes in parentheses
 <li> 12:37 drive.google.com</li>
 <li> 12:37 mail.google.com</li>
 <li class='same'> 12:36 mail.google.com</li>
-<li> 12:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:35 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:35 <a href="https://joereddington.com/2025/06/24/gratitude.html">Gratitude | Joe Reddington</a></li>
 <li> 12:31 mail.google.com</li>
 <li class='same'> 12:30 mail.google.com</li>
@@ -29916,7 +29967,7 @@ With number of accesses/minutes in parentheses
 <li> 08:53 chatgpt.com</li>
 <li> 08:53 chat.openai.com</li>
 <li> 08:51 <a href="https://www.bbc.co.uk/news/articles/cy4ymj00px7o">More Labour MPs join benefit revolt despite ministers' appeals - BBC News</a></li>
-<li> 08:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:51 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:51 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 08:42 fast.com</li>
 <li> 08:41 mail.google.com</li>
@@ -29945,9 +29996,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:48 www.reddit.com</li>
 <li class='same'> 07:47 www.reddit.com</li>
 <li> 07:43 <a href="https://www.theguardian.com/film/2025/jun/26/james-bond-movie-film-denis-villeneuve-director-amazon-mgm-studios">Denis Villeneuve to direct new James Bond film | James Bond | The Guardian</a></li>
-<li> 07:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:41 <a href="https://www.theguardian.com/sport/2025/jun/25/nike-pr-stunt-or-giant-leap-forward-faith-kipyegon-aims-to-make-history">Nike PR stunt or giant leap forward? Faith Kipyegon aims to make history | Athletics | The Guardian</a></li>
-<li> 07:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:39 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:39 <a href="https://www.bbc.co.uk/news/articles/cy4ymj00px7o">More Labour MPs join benefit revolt despite ministers' appeals - BBC News</a></li>
 </ul>
 
@@ -30212,7 +30263,7 @@ With number of accesses/minutes in parentheses
 <li> 15:56 <a href="https://www.youtube.com/">(36) YouTube</a></li>
 <li> 15:56 duckduckgo.com</li>
 <li> 15:56 www.mozilla.org</li>
-<li> 15:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:44 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:44 www.natesilver.net</li>
 <li class='same'> 15:43 www.natesilver.net</li>
 </ul>
@@ -30222,7 +30273,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 13:49 www.natesilver.net</li>
 <li class='same'> 13:44 www.natesilver.net</li>
 <li> 13:42 <a href="https://www.theguardian.com/us-news/2025/jun/24/new-york-mayoral-primary-results">Zohran Mamdani declares historic victory in New York City mayoral primary after Cuomo concedes | New York | The Guardian</a></li>
-<li> 13:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:41 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:41 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:41 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/25/disney-plus-ironheart-review-black-panther-marvel-cinematic-universe-wakanda-dominique-thorne">Ironheart review – the small screen can barely contain the energy of this Black Panther spinoff | Television | The Guardian</a></li>
 <li> 13:41 www.linkedin.com</li>
@@ -30367,7 +30418,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:12 www.reddit.com</li>
 <li> 11:09 <a href="https://www.bbc.co.uk/news/articles/cy4ymj00px7o">More Labour MPs join benefit revolt despite ministers' appeals - BBC News</a></li>
 <li> 11:09 www.manchestereveningnews.co.uk</li>
-<li> 11:09 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 11:09 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 11:09 www.google.com</li>
 <li> 11:09 <a href="https://www.bbc.co.uk/news/articles/cwyn2n44v9xo">Two women seriously hurt in attack involving crossbow in Leeds - BBC News</a></li>
 <li> 11:09 <a href="https://www.theguardian.com/tv-and-radio/article/2024/aug/14/the-life-and-tragic-death-of-john-balson-how-a-true-producer-documented-his-own-rising-horror">The life and tragic death of John Balson: how a true crime producer documented his own rising horror | Television & radio | The Guardian</a></li>
@@ -30427,7 +30478,7 @@ With number of accesses/minutes in parentheses
 <li> 09:22 calendar.google.com</li>
 <li> 09:08 outlook.office365.com</li>
 <li> 08:59 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/25/disney-plus-ironheart-review-black-panther-marvel-cinematic-universe-wakanda-dominique-thorne">Ironheart review – the small screen can barely contain the energy of this Black Panther spinoff | Television | The Guardian</a></li>
-<li> 08:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:57 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:51 <a href="https://www.theguardian.com/politics/2025/jun/25/class-age-education-dividing-lines-uk-politics-electoral-reform">Class no longer main dividing line in UK politics, survey shows | Opinion polls | The Guardian</a></li>
 <li> 08:51 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
@@ -30435,15 +30486,15 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:09 <a href="https://www.theguardian.com/politics/2025/jun/25/class-age-education-dividing-lines-uk-politics-electoral-reform">Class no longer main dividing line in UK politics, survey shows | Opinion polls | The Guardian</a></li>
-<li> 08:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:09 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:08 <a href="https://www.theguardian.com/politics/2025/jun/24/britain-must-prepare-for-possibility-of-attack-on-uk-soil-government-warns">Britain must prepare for possibility of attack on UK soil, government warns | Defence policy | The Guardian</a></li>
-<li> 08:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:08 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:08 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:56 <a href="https://www.theguardian.com/world/2025/jun/25/nicholas-tarasenko-15-year-old-hull-british-sumo-wrestler-japan">Teenager from Hull becomes second Briton ever to join a professional sumo stable | Japan | The Guardian</a></li>
 <li> 07:51 <a href="https://www.theguardian.com/politics/2025/jun/24/widespread-labour-dissent-over-welfare-bill-is-sign-things-are-going-very-badly-for-starmer">Widespread Labour dissent over welfare bill is sign things are going very badly for Starmer | Welfare | The Guardian</a></li>
 <li> 07:48 <a href="https://www.theguardian.com/world/2025/jun/24/keir-starmer-says-government-will-stand-firm-on-disability-welfare-overhaul">Starmer stands firm on welfare bill as number of Labour rebels passes 120 | Disability | The Guardian</a></li>
 <li class='same'> 07:40 <a href="https://www.theguardian.com/world/2025/jun/24/keir-starmer-says-government-will-stand-firm-on-disability-welfare-overhaul">Starmer stands firm on welfare bill as number of Labour rebels passes 120 | Disability | The Guardian</a></li>
-<li> 07:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:28 duckduckgo.com</li>
 <li> 07:27 outlook.office365.com</li>
 <li class='same'> 07:26 outlook.office365.com</li>
@@ -30586,8 +30637,8 @@ With number of accesses/minutes in parentheses
 <li> 19:14 votes.theyworkforyou.com</li>
 <li> 19:14 www.theyworkforyou.com</li>
 <li> 19:13 www.google.com</li>
-<li> 19:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 19:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:13 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 19:06 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:06 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 19:06 <a href="https://www.theguardian.com/world/2025/jun/24/israel-us-and-iran-all-claim-to-have-won-the-war-but-who-has-really-gained">Israel, US and Iran all claim to have won the war, but who has really gained? | Iran | The Guardian</a></li>
 </ul>
@@ -30620,7 +30671,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:54 outlook.office.com</li>
 <li class='same'> 14:53 outlook.office.com</li>
 <li> 14:50 <a href="https://www.theguardian.com/world/2025/jun/24/israel-us-and-iran-all-claim-to-have-won-the-war-but-who-has-really-gained">Israel, US and Iran all claim to have won the war, but who has really gained? | Iran | The Guardian</a></li>
-<li> 14:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:49 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:49 m.facebook.com</li>
 <li> 14:43 outlook.office.com</li>
 <li> 14:35 scholar.google.com</li>
@@ -30659,11 +30710,11 @@ With number of accesses/minutes in parentheses
 <li> 13:36 chat.openai.com</li>
 <li> 13:35 <a href="https://www.theguardian.com/money/2022/aug/03/labour-mps-aide-was-unfairly-dismissed-tribunal-rules">Labour MP’s aide was unfairly dismissed, tribunal rules | Employment law | The Guardian</a></li>
 <li> 13:33 <a href="https://www.theguardian.com/money/2025/jun/24/employee-messy-work-criticism-not-harassment-london-tribunal-rules">Telling employee their work is messy is not harassment, London tribunal rules | Employment tribunals | The Guardian</a></li>
-<li> 13:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:33 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:33 mail.google.com</li>
 <li> 13:31 <a href="https://www.theguardian.com/world/live/2025/jun/24/israel-iran-war-live-updates-trump-declares-ceasefire-tehran-attack-us-base-qatar">Israel-Iran war live: Trump swears in angry outburst at both sides over ceasefire violations</a></li>
-<li> 13:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:29 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:29 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:25 mail.google.com</li>
 <li> 13:25 challengeworks.org</li>
@@ -30797,7 +30848,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:41 <a href="https://www.theguardian.com/tv-and-radio/article/2024/aug/14/the-life-and-tragic-death-of-john-balson-how-a-true-producer-documented-his-own-rising-horror">The life and tragic death of John Balson: how a true crime producer documented his own rising horror | Television & radio | The Guardian</a></li>
 <li> 07:36 <a href="https://www.theguardian.com/us-news/2025/jun/24/mystery-db-cooper-hijacker-who-disappeared">Is he still alive? The mystery of DB Cooper – the hijacker who disappeared | US crime | The Guardian</a></li>
-<li> 07:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:35 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <H3>Monday, 23/06/25</H3>
@@ -30833,7 +30884,7 @@ With number of accesses/minutes in parentheses
 <li> 21:37 accounts.google.com</li>
 <li> 21:37 www.google.com</li>
 <li> 21:36 <a href="https://www.theguardian.com/politics/2025/jun/23/labour-mps-launch-major-rebellion-to-stop-benefits-cuts-bill">Labour MPs launch major rebellion to stop welfare bill | Welfare | The Guardian</a></li>
-<li> 21:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:35 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:35 www.google.com</li>
 <li> 21:35 www.thedailymash.co.uk</li>
 <li class='same'> 21:33 www.thedailymash.co.uk</li>
@@ -30869,7 +30920,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:40 www.reddit.com</li>
 <li class='same'> 19:39 www.reddit.com</li>
 <li> 19:38 www.google.com</li>
-<li> 19:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:37 <a href="https://www.theguardian.com/lifeandstyle/2025/apr/11/young-people-in-the-uk-tell-us-about-your-gym-habits">Young people in the UK: tell us about your gym habits | Fitness | The Guardian</a></li>
 <li> 19:37 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 19:37 newsthump.com</li>
@@ -30880,7 +30931,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:34 www.foxnews.com</li>
 <li class='same'> 19:33 www.foxnews.com</li>
 <li> 19:32 <a href="https://www.theguardian.com/world/live/2025/jun/23/israel-iran-war-live-updates-us-trump-regime-change-middle-east-gaza-latest-news">Iran attacks US military base in Qatar as missiles launched at Iraq base housing US troops – latest updates</a></li>
-<li> 19:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:32 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:32 <a href="https://www.theguardian.com/australia-news/2025/apr/30/erin-patterson-mushroom-poisonings-murder-trial-ntwnfb">Erin Patterson concocted cancer diagnosis to ensure children missed fatal mushroom lunch, murder trial hears | Victoria | The Guardian</a></li>
 <li> 19:32 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
@@ -30891,7 +30942,7 @@ With number of accesses/minutes in parentheses
 <li> 18:06 www.foxnews.com</li>
 <li> 18:05 <a href="https://www.theguardian.com/world/live/2025/jun/23/israel-iran-war-live-updates-us-trump-regime-change-middle-east-gaza-latest-news">Iran attacks US military base in Qatar as missiles launched at Iraq base housing US troops – latest updates</a></li>
 <li> 18:04 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/23/best-podcasts-of-the-week-cocaine-air-pablo-escobar">An astonishing tale of Lamborghinis, cocaine and the need to make a quick buck: best podcasts of the week | Television & radio | The Guardian</a></li>
-<li> 18:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:02 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 18:02 <a href="https://www.theguardian.com/lifeandstyle/2025/apr/28/i-stopped-talking-to-my-parents-and-life-opened-up-heather-graham-on-family-ageing-and-creepy-film-makers#img-2">‘I stopped talking to my parents – and life opened up’: Heather Graham on family, ageing and ‘creepy’ film-makers | Film | The Guardian</a></li>
 <li> 18:02 <a href="https://www.theguardian.com/lifeandstyle/2025/apr/28/i-stopped-talking-to-my-parents-and-life-opened-up-heather-graham-on-family-ageing-and-creepy-film-makers">‘I stopped talking to my parents – and life opened up’: Heather Graham on family, ageing and ‘creepy’ film-makers | Film | The Guardian</a></li>
@@ -31037,7 +31088,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:54 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:51 <a href="https://www.theguardian.com/politics/2025/jun/22/reform-unveils-plan-to-top-up-poorest-workers-from-250000-fee-on-rich-uk-newcomers">Reform unveils plan to top up poorest workers from £250,000 fee on rich UK newcomers | Reform UK | The Guardian</a></li>
-<li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:50 www.google.com</li>
 <li class='same'> 07:37 www.google.com</li>
 <li class='same'> 07:32 www.google.com</li>
@@ -31122,7 +31173,7 @@ With number of accesses/minutes in parentheses
 <li> 16:59 www.printed.com</li>
 <li class='same'> 16:57 www.printed.com</li>
 <li> 16:52 <a href="https://www.theguardian.com/world/2025/jun/22/how-effective-was-the-us-attack-on-irans-nuclear-sites-a-visual-guide">How effective was the US attack on Iran’s nuclear sites? A visual guide | Iran | The Guardian</a></li>
-<li> 16:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:51 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:51 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:51 www.printed.com</li>
 <li class='same'> 16:49 www.printed.com</li>
@@ -31166,9 +31217,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:06 <a href="https://www.theguardian.com/global-development/2025/jun/22/save-the-children-moazzam-malik-labour-aid-cuts-uk-child-poverty">‘It’s a tragedy we’ve chosen to withdraw’: Save the Children boss on Labour’s cuts to aid | Global development | The Guardian</a></li>
-<li> 10:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:04 <a href="https://www.theguardian.com/us-news/2025/jun/22/trump-falls-into-the-netanyahu-trap-israel-iran-us">What a difference a week makes: Trump falls into the Netanyahu trap | Donald Trump | The Guardian</a></li>
-<li> 10:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:03 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:03 www.parkrun.org.uk</li>
 <li class='same'> 10:02 www.parkrun.org.uk</li>
 <li> 10:01 www.google.com</li>
@@ -31213,7 +31264,7 @@ With number of accesses/minutes in parentheses
 <li> 07:01 www.google.com</li>
 <li> 07:00 www.reddit.com</li>
 <li> 06:59 www.google.com</li>
-<li> 06:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:59 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <H3>Saturday, 21/06/25</H3>
@@ -31224,9 +31275,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 22:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 22:18 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 22:16 <a href="https://www.theguardian.com/culture/2025/jun/21/my-cultural-awakening-sleepless-in-seattle-cancel-wedding">My cultural awakening: I watched Sleepless in Seattle and realised I had to cancel my wedding | Culture | The Guardian</a></li>
-<li> 22:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:15 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 22:15 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 22:15 <a href="https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved">Harvard hired a researcher to uncover its ties to slavery. He says the results cost him his job: ‘We found too many slaves’ | Harvard University | The Guardian</a></li>
 </ul>
@@ -31254,10 +31305,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:32 <a href="https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved">Harvard hired a researcher to uncover its ties to slavery. He says the results cost him his job: ‘We found too many slaves’ | Harvard University | The Guardian</a></li>
-<li> 16:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:31 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:31 <a href="https://www.theguardian.com/commentisfree/2025/jun/21/week-in-patriarchy-arwa-mahdawi">Why does this billionaire have 100 kids in 12 countries? | Arwa Mahdawi | The Guardian</a></li>
-<li> 16:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:30 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:30 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -31285,22 +31336,22 @@ With number of accesses/minutes in parentheses
 <li> 14:45 chat.openai.com</li>
 <li> 14:42 <a href="https://www.theguardian.com/football/2025/jun/21/america-is-showing-us-football-in-its-final-dictator-form-we-cant-afford-to-look-away">America is showing us football in its final dictator form – we can’t afford to look away | Club World Cup 2025 | The Guardian</a></li>
 <li class='same'> 14:41 <a href="https://www.theguardian.com/football/2025/jun/21/america-is-showing-us-football-in-its-final-dictator-form-we-cant-afford-to-look-away">America is showing us football in its final dictator form – we can’t afford to look away | Club World Cup 2025 | The Guardian</a></li>
-<li> 14:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:40 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
 <br>
 
-<ul><li> 14:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 14:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:05 <a href="https://www.theguardian.com/us-news/2025/jun/20/jd-vance-los-angeles-ice-protests">JD Vance attacks Newsom and LA mayor while misnaming senator arrested by the FBI | JD Vance | The Guardian</a></li>
-<li> 14:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:04 <a href="https://www.theguardian.com/commentisfree/2025/jun/20/tattle-life-internet-gossip-privacy-sebastian-bond">The internet’s nastiest gossipmonger has been exposed and guess what – he wants his privacy | Marina Hyde | The Guardian</a></li>
 <li class='same'> 14:02 <a href="https://www.theguardian.com/commentisfree/2025/jun/20/tattle-life-internet-gossip-privacy-sebastian-bond">The internet’s nastiest gossipmonger has been exposed and guess what – he wants his privacy | Marina Hyde | The Guardian</a></li>
-<li> 14:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:00 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:59 <a href="https://www.theguardian.com/technology/2025/jun/21/internet-users-advised-to-change-passwords-after-16bn-logins-exposed">Internet users advised to change passwords after 16bn logins exposed | Cybercrime | The Guardian</a></li>
-<li> 13:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:59 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:56 <a href="https://www.theguardian.com/world/2025/jun/21/israel-iran-war-outcome-us-analysis">Outcome of Israel’s war with Iran is uncertain even if US joins conflict | Israel | The Guardian</a></li>
-<li> 13:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:56 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:56 www.google.com</li>
 </ul>
 
@@ -31625,9 +31676,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 11:18 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:18 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 11:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:18 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -31644,7 +31695,7 @@ With number of accesses/minutes in parentheses
 <li> 09:59 mail.google.com</li>
 <li class='same'> 09:58 mail.google.com</li>
 <li> 09:58 gmail.com</li>
-<li> 09:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:30 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:30 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 09:11 duckduckgo.com</li>
 <li> 09:10 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
@@ -31653,7 +31704,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:14 <a href="https://www.theguardian.com/world/2025/jun/18/ukraine-war-briefing-north-korea-sending-another-5000-into-kursk-russian-claim">Ukraine war briefing: North Korea sending another 5,000 into Kursk – Russian claim | Ukraine | The Guardian</a></li>
-<li> 08:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:13 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:13 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 08:13 <a href="https://www.theguardian.com/world/live/2025/jun/17/israel-iran-conflict-live-updates-tehran-trump-evacuation-middle-east">Trump demands Iran’s ‘unconditional surrender’ – as it happened | Israel | The Guardian</a></li>
 </ul>
@@ -31667,7 +31718,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:49 <a href="https://www.theguardian.com/uk-news/2025/jun/17/uk-mothers-with-children-from-abusive-relationships-discriminated-against-by-benefits-system-court-told">Two mothers denied ‘rape clause’ exception to benefit cap discriminated against, UK court told | Universal credit | The Guardian</a></li>
-<li> 20:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:49 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 20:49 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 20:48 www.reddit.com</li>
 <li class='same'> 20:47 www.reddit.com</li>
@@ -31695,15 +31746,15 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:27 <a href="https://www.theguardian.com/world/live/2025/jun/17/israel-iran-conflict-live-updates-tehran-trump-evacuation-middle-east">Trump demands Iran’s ‘unconditional surrender’ – as it happened | Israel | The Guardian</a></li>
-<li> 18:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 18:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:27 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 18:26 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:26 <a href="https://www.theguardian.com/politics/2025/jun/17/keir-starmer-picked-up-papers-dropped-by-donald-trump">Starmer says he picked up Trump’s dropped papers to avoid security scare | Keir Starmer | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li class='same'> 17:11 <a href="https://www.theguardian.com/politics/2025/jun/17/keir-starmer-picked-up-papers-dropped-by-donald-trump">Starmer says he picked up Trump’s dropped papers to avoid security scare | Keir Starmer | The Guardian</a></li>
-<li> 17:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:10 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:09 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 17:08 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 17:06 librarysearch.royalholloway.ac.uk</li>
@@ -31733,7 +31784,7 @@ With number of accesses/minutes in parentheses
 <li> 15:19 outlook.office.com</li>
 <li> 15:18 <a href="https://www.theguardian.com/media/2025/jun/17/operator-of-gossip-forum-tattle-life-unmasked-after-losing-defamation-case">Operator of gossip forum Tattle Life unmasked after losing defamation case | Digital media | The Guardian</a></li>
 <li> 15:16 <a href="https://www.theguardian.com/world/2025/jun/17/us-military-assets-missile-launch-sites-iran-fordow">US has no shortage of military assets if it wants to target missile launch sites in Iran | Iran | The Guardian</a></li>
-<li> 15:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:15 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:15 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:12 bsky.app</li>
 <li> 15:02 outlook.office.com</li>
@@ -31745,8 +31796,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:43 www.reddit.com</li>
 <li> 14:41 outlook.office.com</li>
 <li> 14:38 <a href="https://www.theguardian.com/commentisfree/2025/jun/17/donald-trump-g7-summit-middle-east">It’s The Donald Show … without Donald Trump. Welcome to the G-something or other summit | Marina Hyde | The Guardian</a></li>
-<li> 14:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 14:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 14:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:22 herts365-my.sharepoint.com</li>
 <li> 14:22 outlook.office.com</li>
 <li class='same'> 14:21 outlook.office.com</li>
@@ -31876,9 +31927,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:44 chatgpt.com</li>
 <li class='same'> 06:43 chatgpt.com</li>
-<li> 06:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:32 <a href="https://www.theguardian.com/world/2025/jun/16/iran-threatens-to-leave-nuclear-weapons-treaty-as-israeli-bombing-enters-fourth-day">Israel issues Tehran evacuation order as Iran threatens to leave nuclear weapons treaty | Iran's nuclear programme | The Guardian</a></li>
-<li> 06:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <H3>Monday, 16/06/25</H3>
@@ -31889,9 +31940,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 20:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 20:20 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 20:17 <a href="https://www.theguardian.com/world/2025/jun/16/visualised-israel-iran-war-maps-videos-satellite-images">The Israel-Iran war in maps, videos and satellite images | Israel | The Guardian</a></li>
-<li> 20:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:17 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 20:17 www.google.com</li>
 </ul>
 
@@ -31904,8 +31955,8 @@ With number of accesses/minutes in parentheses
 <li> 19:10 www.google.com</li>
 <li> 19:04 www.reddit.com</li>
 <li> 19:04 www.google.com</li>
-<li> 19:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 18:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 18:41 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:40 qmucu.org</li>
 </ul>
 
@@ -32050,7 +32101,7 @@ With number of accesses/minutes in parentheses
 <li> 10:16 www.reddit.com</li>
 <li class='same'> 10:15 www.reddit.com</li>
 <li> 10:14 <a href="https://www.theguardian.com/culture/2025/jun/16/the-genius-myth-by-helen-lewis-review-bright-wrong-things">The Genius Myth by Helen Lewis review – bright wrong things | Books | The Guardian</a></li>
-<li> 10:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:13 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:13 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 10:13 outlook.office.com</li>
 <li class='same'> 10:11 outlook.office.com</li>
@@ -32117,7 +32168,7 @@ With number of accesses/minutes in parentheses
 <li> 06:21 portal.gobright.cloud</li>
 <li> 06:21 api-b6327e78.duosecurity.com</li>
 <li> 06:21 adfs.herts.ac.uk</li>
-<li> 06:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:19 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:19 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:19 herts365-my.sharepoint.com</li>
 <li> 06:17 api-b6327e78.duosecurity.com</li>
@@ -32201,20 +32252,20 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 11:49 www.reddit.com</li>
 <li class='same'> 11:48 www.reddit.com</li>
-<li> 11:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:45 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 11:07 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 11:07 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:07 www.reddit.com</li>
 <li class='same'> 11:06 www.reddit.com</li>
-<li> 11:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:06 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:06 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:01 <a href="https://www.theguardian.com/world/2025/jun/14/israel-claims-it-has-gained-control-of-airspace-over-tehran">Israel claims it has gained control of airspace over Tehran | Israel | The Guardian</a></li>
-<li> 11:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:01 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:00 <a href="https://www.theguardian.com/education/2025/jun/15/thousands-of-uk-university-students-caught-cheating-using-ai-artificial-intelligence-survey">Revealed: Thousands of UK university students caught cheating using AI | Higher education | The Guardian</a></li>
-<li> 10:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:59 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <H3>Saturday, 14/06/25</H3>
@@ -32237,12 +32288,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:29 <a href="https://www.theguardian.com/world/2025/jun/14/israel-attack-on-iran-slows-diplomatic-momentum-to-halt-gaza-war">Strikes on Iran ease pressure on Israel to end starvation in Gaza | Gaza | The Guardian</a></li>
-<li> 16:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:29 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 15:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 15:25 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -32283,9 +32334,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 10:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 10:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:27 www.google.com</li>
 <li> 10:27 accounts.google.com</li>
 <li> 10:27 www.google.com</li>
@@ -32319,10 +32370,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 18:53 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:53 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 18:50 <a href="https://www.theguardian.com/world/live/2025/jun/13/israel-iran-strikes-defence-minister-tehran-middle-east-live?page=with:block-684c60028f08baf6b1a6b10b#block-684c60028f08baf6b1a6b10b">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
-<li> 18:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:50 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:50 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 18:50 <a href="https://www.theguardian.com/world/2025/jun/13/israels-strikes-on-iran-show-trump-is-unable-to-restrain-netanyahu-as-middle-east-slips-closer-to-chaos">Israel’s strikes on Iran show Trump is unable to restrain Netanyahu as Middle East slips closer to chaos | Iran | The Guardian</a></li>
 <li> 18:38 www.linkedin.com</li>
@@ -32332,7 +32383,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:51 <a href="https://www.theguardian.com/world/2025/jun/13/israels-strikes-on-iran-show-trump-is-unable-to-restrain-netanyahu-as-middle-east-slips-closer-to-chaos">Israel’s strikes on Iran show Trump is unable to restrain Netanyahu as Middle East slips closer to chaos | Iran | The Guardian</a></li>
-<li> 15:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:51 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -32345,7 +32396,7 @@ With number of accesses/minutes in parentheses
 <li> 13:30 www.ebay.co.uk</li>
 <li> 13:30 www.facebook.com</li>
 <li> 13:29 <a href="https://www.theguardian.com/us-news/2025/jun/12/los-angeles-protests-alex-padilla-kristi-noem">Senator Alex Padilla handcuffed and forcibly removed from Kristi Noem’s LA press conference | Los Angeles Ice protests | The Guardian</a></li>
-<li> 13:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:29 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:29 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:14 www.ebay.co.uk</li>
 <li class='same'> 13:13 www.ebay.co.uk</li>
@@ -32354,11 +32405,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:59 www.paypal.com</li>
 <li> 12:56 www.ebay.co.uk</li>
 <li> 12:42 <a href="https://www.theguardian.com/books/2025/jun/13/book-crawl-independent-bookshop-week">‘The best way to discover hidden gems’: why you should try out a bookshop crawl | Books | The Guardian</a></li>
-<li> 12:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:42 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:39 <a href="https://www.theguardian.com/uk-news/2025/jun/13/digested-week-rachel-reeves-u-turn-sarah-vine-book">Digested week: Remorseless Reeves and Sarah Vine’s masterpiece of self-delusion | John Crace | The Guardian</a></li>
-<li> 12:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:36 <a href="https://www.theguardian.com/world/2025/jun/13/what-has-israel-hit-in-iran-and-who-were-the-generals-and-nuclear-scientists-killed">What has Israel hit in Iran and who were the generals and nuclear scientists killed? | Israel | The Guardian</a></li>
-<li> 12:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:27 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -32425,13 +32476,13 @@ With number of accesses/minutes in parentheses
 <li> 18:44 drive.google.com</li>
 <li class='same'> 18:43 drive.google.com</li>
 <li> 18:43 mail.google.com</li>
-<li> 18:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:22 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:22 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 18:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:01 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:01 <a href="https://www.theguardian.com/environment/2025/jun/12/research-reveals-24000-megafarms-across-europe">Revealed: More than 24,000 factory farms have opened across Europe | Farming | The Guardian</a></li>
-<li> 18:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:00 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:00 accounts.google.com</li>
-<li> 18:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:00 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -32624,7 +32675,7 @@ With number of accesses/minutes in parentheses
 <li> 10:07 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:06 chatgpt.com</li>
 <li> 10:05 royalhollowayacuk.elluciancrmrecruit.com</li>
-<li> 09:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:54 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:54 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 09:54 <a href="https://www.theguardian.com/culture/2025/jun/12/tamara-de-lempicka-rafaela-portrait-sale">Tamara de Lempicka’s ‘remarkable nude’ of lover Rafaëla to be auctioned | Culture | The Guardian</a></li>
 <li> 09:45 docs.google.com</li>
@@ -32634,7 +32685,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:14 <a href="https://www.theguardian.com/culture/2025/jun/12/tamara-de-lempicka-rafaela-portrait-sale">Tamara de Lempicka’s ‘remarkable nude’ of lover Rafaëla to be auctioned | Culture | The Guardian</a></li>
-<li> 09:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:13 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/football/2025/jun/12/sky-sports-news-golden-age-at-an-end-as-rival-platforms-turn-up-the-volume">Sky Sports News’ golden age at an end as rival platforms turn up the volume | Football | The Guardian</a></li>
 </ul>
@@ -32644,7 +32695,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 08:05 <a href="https://www.theguardian.com/football/2025/jun/12/sky-sports-news-golden-age-at-an-end-as-rival-platforms-turn-up-the-volume">Sky Sports News’ golden age at an end as rival platforms turn up the volume | Football | The Guardian</a></li>
 <li> 08:05 <a href="https://www.theguardian.com/media/bskyb">Sky | The Guardian</a></li>
 <li> 08:05 <a href="https://www.theguardian.com/football/2025/jun/12/sky-sports-news-golden-age-at-an-end-as-rival-platforms-turn-up-the-volume">Sky Sports News’ golden age at an end as rival platforms turn up the volume | Football | The Guardian</a></li>
-<li> 08:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:44 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
 <li> 07:44 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
 <li> 07:44 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
@@ -32657,7 +32708,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 06:32 forum.arduino.cc</li>
 <li class='same'> 06:31 forum.arduino.cc</li>
 <li> 06:31 duckduckgo.com</li>
-<li> 06:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:20 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:20 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -32724,7 +32775,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:11 tvtropes.org</li>
 <li> 19:10 duckduckgo.com</li>
 <li> 19:09 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/11/well-have-done-it-first-what-it-takes-to-set-a-new-guinness-world-record">‘We’ll have done it first’: what it takes to set a new Guinness World Record | Australian lifestyle | The Guardian</a></li>
-<li> 19:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:05 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 18:54 studio.youtube.com</li>
 <li> 18:54 <a href="https://www.youtube.com/@projectreal2513">(51) Project Real - YouTube</a></li>
@@ -32750,7 +32801,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:41 webtimetables.royalholloway.ac.uk</li>
 <li> 17:41 outlook.office365.com</li>
 <li> 17:31 <a href="https://www.theguardian.com/politics/2025/jun/11/spending-review-2025-key-points-rachel-reeves">Spending review 2025: key points at a glance | Spending review 2025 | The Guardian</a></li>
-<li> 17:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:30 www.bing.com</li>
 <li> 17:30 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
 </ul>
@@ -32886,7 +32937,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:41 tvtropes.org</li>
 <li class='same'> 06:40 tvtropes.org</li>
 <li> 06:40 www.kaggle.com</li>
-<li> 06:38 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 06:38 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 06:38 <a href="https://www.bbc.co.uk/sport/football/articles/cn8zldjnzpro">Pelly-Ruddock Mpanzu: Luton Town legend to leave the club - BBC Sport</a></li>
 <li> 06:38 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:37 <a href="https://www.theguardian.com/australia-news/2025/jun/11/fury-over-year-9-students-in-south-australia-being-asked-to-debate-whether-the-tradwife-movement-is-good-for-women">Fury over year 9 students in South Australia being asked to debate whether the tradwife movement is good for women | South Australia | The Guardian</a></li>
@@ -32908,7 +32959,7 @@ With number of accesses/minutes in parentheses
 <li> 22:55 profile.theguardian.com</li>
 <li> 22:55 www.eater.com</li>
 <li> 22:43 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 22:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:42 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -32957,7 +33008,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 18:39 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:39 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 18:38 <a href="https://www.theguardian.com/us-news/2025/jun/10/trump-fires-usaid-overseas-employees">Trump administration to cut all USAID overseas roles and axe thousands of staff | Trump administration | The Guardian</a></li>
 <li> 18:37 en.meming.world</li>
@@ -33099,7 +33150,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:27 outlook.office.com</li>
 <li class='same'> 10:24 outlook.office.com</li>
 <li> 10:22 <a href="https://www.theguardian.com/books/2025/jun/10/how-not-to-be-a-political-wife-by-sarah-vine-review-a-bitter-memoir-of-power-and-betrayal">How Not to Be a Political Wife by Sarah Vine review – a bitter memoir of power and betrayal | Autobiography and memoir | The Guardian</a></li>
-<li> 10:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:21 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:21 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 10:21 outlook.office.com</li>
 <li class='same'> 10:19 outlook.office.com</li>
@@ -33144,7 +33195,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 05:44 www.eater.com</li>
 <li> 05:42 <a href="https://www.theguardian.com/us-news/2025/jun/09/rfk-cdc-panel-vaccines-removed">RFK Jr to remove all members of CDC panel advising on US vaccines | Trump administration | The Guardian</a></li>
-<li> 05:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:42 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <H3>Monday, 09/06/25</H3>
@@ -33157,10 +33208,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:41 <a href="https://www.theguardian.com/world/2025/may/22/germany-anti-russian-defence-nato-lithuania-friedrich-merz">German troops start first permanent foreign deployment since second world war | Germany | The Guardian</a></li>
 <li> 21:39 <a href="https://www.theguardian.com/world/2025/jun/09/nato-chief-russia-quantum-leap-defence">Russia could be ready to attack Nato within five years, says secretary general | Nato | The Guardian</a></li>
-<li> 21:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:38 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:38 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 21:37 <a href="https://www.theguardian.com/uk-news/2025/jun/09/uk-teenager-killed-herself-highly-affected-terrorism-arrest-inquest-rhianan-rudd">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
-<li> 21:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:36 www.reddit.com</li>
 <li class='same'> 21:34 www.reddit.com</li>
 <li class='same'> 21:33 www.reddit.com</li>
@@ -33201,9 +33252,9 @@ With number of accesses/minutes in parentheses
 <li> 19:46 <a href="https://www.theguardian.com/games/2025/jun/05/the-nintendo-switch-2-is-out-today-heres-everything-you-need-to-know">The Nintendo Switch 2 is out – here’s everything you need to know | Nintendo Switch 2 | The Guardian</a></li>
 <li> 19:46 <a href="https://www.theguardian.com/games/nintendo-switch-2">Nintendo Switch 2 | The Guardian</a></li>
 <li> 19:46 <a href="https://www.theguardian.com/games/2025/jun/05/the-nintendo-switch-2-is-out-today-heres-everything-you-need-to-know">The Nintendo Switch 2 is out – here’s everything you need to know | Nintendo Switch 2 | The Guardian</a></li>
-<li> 19:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:44 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:42 <a href="https://www.theguardian.com/commentisfree/2025/jun/09/david-beckhams-knighthood-shows-the-unique-and-utterly-absurd-power-of-the-british-class-system">David Beckham’s knighthood shows the unique - and utterly absurd - power of the British class system | Zoe Williams | The Guardian</a></li>
-<li> 19:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:41 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:39 wiki.bambulab.com</li>
 <li> 19:39 www.google.com</li>
 <li> 19:37 forum.prusa3d.com</li>
@@ -33220,7 +33271,7 @@ With number of accesses/minutes in parentheses
 <li> 17:52 www.reddit.com</li>
 <li> 17:52 mail.google.com</li>
 <li class='same'> 17:51 mail.google.com</li>
-<li> 17:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:51 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:51 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 17:51 www.reddit.com</li>
 <li class='same'> 17:50 www.reddit.com</li>
@@ -33336,11 +33387,11 @@ With number of accesses/minutes in parentheses
 <li> 06:44 <a href="https://www.bbc.co.uk/sport/football/articles/cn8zldjnzpro">Pelly-Ruddock Mpanzu: Luton Town legend to leave the club - BBC Sport</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/world/2025/jun/09/ukraine-war-briefing-poland-airspace-russia-airstrikes">Ukraine war briefing: Poland scrambles planes to secure airspace as Russia targets western Ukraine | Ukraine | The Guardian</a></li>
 <li> 06:42 <a href="https://www.theguardian.com/world/2025/jun/08/russian-forces-closing-in-on-sumy-city-three-years-after-ukraine-forced-them-out-of-region">Russian forces closing in on Sumy city three years after Ukraine forced them out of region | Ukraine | The Guardian</a></li>
-<li> 06:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:41 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:32 <a href="https://www.theguardian.com/books/2025/jun/08/erica-jong-child-molly-jong-fast-growing-up">My mother was a famous feminist writer known for her candour and wit. But she was also a fantasist who couldn’t be bothered to spend time raising me | Autobiography and memoir | The Guardian</a></li>
-<li> 06:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:32 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:31 <a href="https://www.theguardian.com/world/2025/jun/09/gaza-aid-boat-madleen-israel-greta-thunberg-freedom-flotilla-coalition">Israeli forces take control of Gaza aid boat carrying Greta Thunberg | Israel | The Guardian</a></li>
-<li> 06:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:30 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:30 nebulas.sfwa.org</li>
 </ul>
 
@@ -33359,7 +33410,7 @@ With number of accesses/minutes in parentheses
 <li> 20:55 <a href="https://www.theguardian.com/world/2025/jun/08/israel-katz-threatens-to-use-all-necessary-measures-to-stop-gaza-bound-aid-ship">IDF ordered to stop Gaza-bound aid ship carrying Greta Thunberg | Israel-Gaza war | The Guardian</a></li>
 <li> 20:55 <a href="https://www.theguardian.com/environment/2025/jun/08/campaigners-hail-plan-to-ban-bottom-trawling-in-half-of-englands-protected-seas">Campaigners hail plan to ban bottom trawling in half of England’s protected seas | Fishing | The Guardian</a></li>
 <li> 20:54 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/08/this-is-how-we-do-it-we-live-in-a-tiny-flat-with-our-kids-so-we-have-sex-in-the-woods-at-night">This is how we do it: ‘We live in a tiny flat with our kids, so we have sex in the woods at night’ | Life and style | The Guardian</a></li>
-<li> 20:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:53 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 20:53 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 20:53 bsky.app</li>
 <li> 20:50 www.amazon.co.uk</li>
@@ -33504,13 +33555,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:02 <a href="https://www.theguardian.com/world/2025/jun/08/colombian-presidential-candidate-miguel-uribe-shot-at-campaign-event">Colombian presidential candidate Miguel Uribe shot at campaign event | Colombia | The Guardian</a></li>
-<li> 08:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:00 <a href="https://www.theguardian.com/sport/2025/jun/07/simone-biles-riley-gaines-trans-athlete-twitter">Simone Biles slams ‘sore loser’ Riley Gaines over attacks on trans athlete | Simone Biles | The Guardian</a></li>
-<li> 07:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:49 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:48 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/07/beckxit-beef-david-victoria-beckham-brooklyn-nicola-anne-peltz">‘They’re perfect – until they aren’t’: why are people so interested in the Beckxit beef? | Celebrity | The Guardian</a></li>
-<li> 07:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:47 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:46 <a href="https://www.theguardian.com/us-news/2025/jun/07/trump-national-guard">How can Trump use the national guard on US soil? | Donald Trump | The Guardian</a></li>
-<li> 07:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:45 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:39 www.reddit.com</li>
 <li> 07:39 imgur.com</li>
 <li> 07:37 www.reddit.com</li>
@@ -33565,7 +33616,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:42 www.reddit.com</li>
 <li> 14:42 www.google.com</li>
 <li> 14:42 tvtropes.org</li>
-<li> 14:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:29 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:29 <a href="https://www.bbc.co.uk/news/articles/c5ykel5dr62o">China's driverless lorries hope to expand - BBC News</a></li>
 <li> 14:08 chatgpt.com</li>
 </ul>
@@ -33606,7 +33657,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:57 www.buzzfeed.com</li>
 <li class='same'> 10:56 www.buzzfeed.com</li>
 <li class='same'> 10:54 www.buzzfeed.com</li>
-<li> 10:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:53 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:53 www.reddit.com</li>
 </ul>
 
@@ -33657,11 +33708,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:42 www.reddit.com</li>
 <li class='same'> 20:41 www.reddit.com</li>
 <li> 20:41 www.google.com</li>
-<li> 20:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:41 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 20:39 <a href="https://www.theguardian.com/technology/2025/jun/06/elon-musk-signals-he-may-back-down-in-public-row-with-donald-trump">Donald Trump says Elon Musk has ‘lost his mind’ and dismisses peace offering | Elon Musk | The Guardian</a></li>
-<li> 20:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:39 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 20:39 <a href="https://www.theguardian.com/politics/2025/jun/06/russia-is-at-war-with-uk-and-us-no-longer-reliable-ally">Russia is at war with Britain and US is no longer a reliable ally, UK adviser says | Defence policy | The Guardian</a></li>
-<li> 20:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -33972,15 +34023,15 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:07 www.buzzfeed.com</li>
 <li> 08:07 www.huffingtonpost.co.uk</li>
 <li> 08:05 www.buzzfeed.com</li>
-<li> 08:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:05 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:55 <a href="https://www.theguardian.com/commentisfree/2025/jun/05/trump-musk-fight-fallout">Trump v Musk: world’s two worst people are finally having a big, beautiful breakup | Arwa Mahdawi | The Guardian</a></li>
 <li> 07:41 news.sky.com</li>
 <li> 07:41 www.google.com</li>
 <li> 07:41 www.sky.com</li>
-<li> 07:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:39 www.foxnews.com</li>
-<li> 07:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:39 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:39 en.wiktionary.org</li>
 <li class='same'> 07:38 en.wiktionary.org</li>
 <li> 07:38 www.google.com</li>
@@ -34012,21 +34063,21 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:56 www.reddit.com</li>
 <li> 06:55 www.telegraph.co.uk</li>
 <li> 06:53 <a href="https://www.theguardian.com/music/2025/jun/06/beyonce-london-concert-show-review-cowboy-carter-tour">Beyoncé review – a hugely enjoyable concert that adds a ferocious potency to Cowboy Carter | Beyoncé | The Guardian</a></li>
-<li> 06:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:52 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:52 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:52 <a href="https://www.theguardian.com/us-news/2025/jun/06/trump-travel-ban-analysis">Trump travel ban comes as little surprise amid barrage of draconian restrictions | US immigration | The Guardian</a></li>
 <li> 06:52 news.sky.com</li>
 <li> 06:48 <a href="https://www.theguardian.com/us-news/2025/jun/06/trump-travel-ban-analysis">Trump travel ban comes as little surprise amid barrage of draconian restrictions | US immigration | The Guardian</a></li>
-<li> 06:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:48 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:47 <a href="https://www.theguardian.com/politics/2025/jun/05/zia-yusuf-quits-as-chair-of-reform-uk-after-new-mp-burqa-ban-row">Zia Yusuf quits as Reform UK chair after row over new MP’s call for burqa ban | Reform UK | The Guardian</a></li>
-<li> 06:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:46 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:46 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 06:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:46 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/us-news/2025/jun/05/trump-elon-musk-fallout">Impeachment, Epstein and bitter acrimony: Trump and Musk joust in astonishing social media duel | Donald Trump | The Guardian</a></li>
-<li> 06:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:44 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/commentisfree/2025/jun/06/keir-starmer-politics-left-right-prime-minister">Keir Starmer’s muddled politics are reaching their limit. It’s time for him to make a choice | Andy Beckett | The Guardian</a></li>
-<li> 06:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:42 <a href="https://www.theguardian.com/culture/2025/jun/06/explain-it-to-me-quickly-what-is-aura-farming-and-is-it-cool-or-cringe">Explain it to me quickly: What is aura farming, and is it cool or cringe? | Timothée Chalamet | The Guardian</a></li>
 <li> 06:42 <a href="https://www.theguardian.com/food/2025/jun/06/pavlova-recipe-raspberries-lychees-elderflower-cream-helen-goh">Helen Goh’s recipe for pavlova with raspberries, lychees and elderflower cream | Food | The Guardian</a></li>
 </ul>
@@ -34217,7 +34268,7 @@ With number of accesses/minutes in parentheses
 <li> 06:19 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/ive-learned-a-new-word-and-now-im-seeing-the-people-it-describes-everywhere">I’ve learned a new word – and now I’m seeing the people it describes everywhere | Adrian Chiles | The Guardian</a></li>
 <li> 06:18 <a href="https://www.theguardian.com/film/2025/jun/05/predator-killer-of-killers-review-animated-anthology-of-arnies-old-antagonists">Predator: Killer of Killers review – animated anthology of Arnie’s old antagonists | Film | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/australia-news/2025/jun/05/erin-patterson-mushroom-lunch-trial-cross-examination-death-cap-ntwnfb">Erin Patterson denies deliberately foraging death cap mushrooms and weighing fatal dose as cross-examination begins | Victoria | The Guardian</a></li>
-<li> 06:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:17 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:16 mail.google.com</li>
 </ul>
@@ -34500,7 +34551,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:12 my-charity-account.charitycommission.gov.uk</li>
 <li> 10:11 mail.google.com</li>
 <li> 10:02 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/use-word-gotten-some-readers-upset">How the use of a word in the Guardian has gotten some readers upset | Elisabeth Ribbans | The Guardian</a></li>
-<li> 10:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:02 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/04/stick-review-owen-wilson-golf-apple-tv">Stick review – Owen Wilson is utterly charming in the Ted Lasso of golf | Television | The Guardian</a></li>
 <li> 10:02 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 10:00 mail.google.com</li>
@@ -34541,16 +34592,16 @@ With number of accesses/minutes in parentheses
 <li> 09:10 visualinquiry.co.uk</li>
 <li> 09:09 whitewaterwriters.com</li>
 <li> 08:58 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/04/stick-review-owen-wilson-golf-apple-tv">Stick review – Owen Wilson is utterly charming in the Ted Lasso of golf | Television | The Guardian</a></li>
-<li> 08:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:57 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:52 <a href="https://www.theguardian.com/us-news/2025/jun/03/lindsey-graham-trump-russia-ukraine">Are Lindsey Graham’s contortions about to prod Trump into Russia sanctions? | US news | The Guardian</a></li>
-<li> 08:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:52 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li> 07:58 <a href="https://www.theguardian.com/uk-news/2025/jun/04/julie-etchingham-ends-garrick-club-application-after-drawn-out-process">Julie Etchingham ends Garrick Club application after drawn-out process | Garrick Club | The Guardian</a></li>
-<li> 07:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:57 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -34664,7 +34715,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:15 docs.google.com</li>
-<li> 19:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:14 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:14 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 19:14 www.foxnews.com</li>
 <li class='same'> 19:13 www.foxnews.com</li>
@@ -34712,9 +34763,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:16 www.camerajungle.co.uk</li>
-<li> 17:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:16 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:16 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 17:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:15 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:09 www.linkedin.com</li>
 <li> 17:08 chatgpt.com</li>
 <li> 17:07 www.linkedin.com</li>
@@ -34723,8 +34774,8 @@ With number of accesses/minutes in parentheses
 <li> 17:04 www.reddit.com</li>
 <li class='same'> 17:03 www.reddit.com</li>
 <li> 17:03 www.google.com</li>
-<li> 17:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 16:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:03 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 16:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 16:40 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 16:27 mail.google.com</li>
 <li class='same'> 16:22 mail.google.com</li>
@@ -34745,9 +34796,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:05 bsky.app</li>
 <li> 15:05 mail.google.com</li>
 <li> 15:04 <a href="https://www.theguardian.com/politics/2025/jun/03/nato-defence-spending-uk-trump">Nato to force UK to lift defence spending to 3.5% of GDP to appease Trump, say sources | Defence policy | The Guardian</a></li>
-<li> 15:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:02 <a href="https://www.theguardian.com/world/2025/jun/03/ukraine-hits-bridge-linking-crimea-to-russia-with-underwater-explosives">Ukraine hits bridge linking Crimea to Russia with underwater explosives | Crimea | The Guardian</a></li>
-<li> 15:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:36 mail.google.com</li>
 <li class='same'> 14:35 mail.google.com</li>
 <li> 14:35 gmail.com</li>
@@ -34805,7 +34856,7 @@ With number of accesses/minutes in parentheses
 <li> 13:49 www.linkedin.com</li>
 <li> 13:49 outlook.office365.com</li>
 <li class='same'> 13:48 outlook.office365.com</li>
-<li> 13:46 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:46 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:46 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:41 www.reddit.com</li>
 <li class='same'> 13:39 www.reddit.com</li>
@@ -34833,7 +34884,7 @@ With number of accesses/minutes in parentheses
 <li> 13:17 gmail.com</li>
 <li> 13:14 outlook.office365.com</li>
 <li> 13:06 <a href="https://www.theguardian.com/wes-andersons-the-phoenician-scheme/2025/may/21/wes-anderson-filmmaking-style-life-cinematic-guide">The life cinematic with Wes Anderson: everything you need to know about one of cinema’s most distinctive auteurs | Wes Anderson's The Phoenician Scheme | The Guardian</a></li>
-<li> 13:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:52 docs.google.com</li>
 <li class='same'> 12:48 docs.google.com</li>
 <li> 12:48 drive.google.com</li>
@@ -34841,7 +34892,7 @@ With number of accesses/minutes in parentheses
 <li> 12:32 outlook.office365.com</li>
 <li class='same'> 12:31 outlook.office365.com</li>
 <li class='same'> 12:30 outlook.office365.com</li>
-<li> 12:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:23 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:23 www.google.com</li>
 <li> 11:55 chatgpt.com</li>
 <li> 11:55 chat.openai.com</li>
@@ -34901,7 +34952,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 07:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:40 www.google.com</li>
 <li> 07:25 calendar.google.com</li>
 <li> 07:22 mail.google.com</li>
@@ -34913,7 +34964,7 @@ With number of accesses/minutes in parentheses
 <li> 07:10 web.whatsapp.com</li>
 <li> 06:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 06:54 <a href="https://www.theguardian.com/world/2025/jun/02/operation-spiderweb-visual-guide-ukraine-drone-attack-russian-aircraft">Operation Spiderweb: a visual guide to Ukraine’s destruction of Russian aircraft | Ukraine | The Guardian</a></li>
-<li> 06:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:54 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:54 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:49 docs.google.com</li>
 <li> 06:44 www.linkedin.com</li>
@@ -34976,7 +35027,7 @@ With number of accesses/minutes in parentheses
 <li> 18:11 mail.google.com</li>
 <li> 18:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/02/why-did-ncuti-gatwa-leave-doctor-who-so-soon#img-1">Fun, flirty and far too brief: why did Ncuti Gatwa leave Doctor Who so soon? | Doctor Who | The Guardian</a></li>
 <li> 18:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/02/why-did-ncuti-gatwa-leave-doctor-who-so-soon">Fun, flirty and far too brief: why did Ncuti Gatwa leave Doctor Who so soon? | Doctor Who | The Guardian</a></li>
-<li> 18:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:08 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:08 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 18:08 bsky.app</li>
 <li> 17:54 outlook.office365.com</li>
@@ -35106,9 +35157,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:11 <a href="https://www.theguardian.com/global-development/2025/jun/02/lesotho-anti-drug-mothers-fight-protect-children-bluetoothing-hotspotting">Mothers fight to protect children from drugs as ‘hotspotting’ takes hold in Lesotho | Global development | The Guardian</a></li>
-<li> 09:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:11 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:10 <a href="https://www.theguardian.com/politics/2025/jun/02/blue-labour-group-urges-ministers-root-out-dei-win-over-reform-voters">Blue Labour group urges ministers to ‘root out DEI’ to win over Reform voters | Labour | The Guardian</a></li>
-<li> 09:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:09 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:09 www.amazon.co.uk</li>
 <li> 09:09 tvtropes.org</li>
 <li> 09:09 www.amazon.co.uk</li>
@@ -35136,7 +35187,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:58 <a href="https://en.wikipedia.org/wiki/Shane_Gillis">Shane Gillis - Wikipedia</a></li>
 <li> 17:58 duckduckgo.com</li>
-<li> 17:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:58 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:58 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 17:57 www.giantitp.com</li>
 <li class='same'> 17:56 www.giantitp.com</li>
@@ -35311,7 +35362,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 10:46 www.google.com</li>
 <li class='same'> 10:45 www.google.com</li>
-<li> 10:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:45 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -35393,9 +35444,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 19:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:32 <a href="https://www.theguardian.com/music/2025/may/30/taylor-swift-buys-back-master-recordings-taylors-versions">Taylor Swift buys back the rights to the master recordings of her first six albums | Taylor Swift | The Guardian</a></li>
-<li> 19:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:32 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -35526,7 +35577,7 @@ With number of accesses/minutes in parentheses
 <li> 12:03 mail.google.com</li>
 <li> 12:02 <a href="https://www.theguardian.com/us-news/2025/may/29/trump-always-chickens-out-taco-investors-narrative">‘Trump always chickens out’: Taco jibe ruffles president’s feathers | Donald Trump | The Guardian</a></li>
 <li> 12:01 <a href="https://www.theguardian.com/uk-news/2025/may/30/uk-poshest-thief-fined-stealing-le-creuset-cookware">Woman who calls herself ‘UK’s poshest thief’ fined for stealing Le Creuset cookware | UK news | The Guardian</a></li>
-<li> 12:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:01 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:01 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 12:00 outlook.office365.com</li>
 </ul>
@@ -35595,11 +35646,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:39 www.reddit.com</li>
 <li class='same'> 21:38 www.reddit.com</li>
 <li> 21:37 <a href="https://www.theguardian.com/news/2025/may/29/why-does-switzerland-have-more-nuclear-bunkers-than-any-other-country">Why does Switzerland have more nuclear bunkers than any other country? | Nuclear weapons | The Guardian</a></li>
-<li> 21:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:36 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:36 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 21:34 <a href="https://www.theguardian.com/commentisfree/2025/may/09/reform-farage-kill-off-tories-ridiculous-byelections">Will Nigel Farage and Reform UK kill off the Tories? Don’t be so ridiculous | Simon Jenkins | The Guardian</a></li>
 <li> 21:32 <a href="https://www.theguardian.com/politics/2025/may/29/is-there-any-way-back-from-abyss-for-tories">‘The brand is broken’: is there any way back from abyss for Tories? | Conservatives | The Guardian</a></li>
-<li> 21:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:31 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 21:23 mail.google.com</li>
 <li class='same'> 21:22 mail.google.com</li>
@@ -35655,10 +35706,10 @@ With number of accesses/minutes in parentheses
 <li> 18:12 www.printables.com</li>
 <li> 17:44 <a href="https://www.theguardian.com/commentisfree/2025/may/29/king-charles-politics-monarchy-visit-to-canada">In Canada, Charles pushed the boundaries of politics as king. So far, he has gotten away with it | Martin Kettle | The Guardian</a></li>
 <li> 17:42 <a href="https://www.theguardian.com/commentisfree/2025/may/29/donald-trump-elon-musk-doge-tariffs">It’s been a big, beautiful week of bad news for Trump. But don’t expect it to stick | Zoe Williams | The Guardian</a></li>
-<li> 17:42 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:42 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:42 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 17:41 <a href="https://www.theguardian.com/us-news/2025/may/29/why-has-a-us-court-blocked-donald-trumps-tariffs-and-can-he-get-round-it">Why has a US court blocked Donald Trump’s tariffs – and can he get round it? | Trump tariffs | The Guardian</a></li>
-<li> 17:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:40 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 17:40 bsky.app</li>
 <li> 17:40 www.facebook.com</li>
@@ -35693,7 +35744,7 @@ With number of accesses/minutes in parentheses
 <li> 15:49 www.reddit.com</li>
 <li class='same'> 15:48 www.reddit.com</li>
 <li class='same'> 15:47 www.reddit.com</li>
-<li> 15:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:34 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:34 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:24 www.printables.com</li>
 </ul>
@@ -35716,7 +35767,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:42 <a href="https://www.theguardian.com/lifeandstyle/2025/may/29/you-be-the-judge-my-girlfriend-unplugs-all-my-chargers-because-of-the-fire-risk-should-she-stop">You be the judge: my girlfriend unplugs all my chargers because of the ‘fire risk’. Should she stop? | Life and style | The Guardian</a></li>
-<li> 11:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:41 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:41 www.reddit.com</li>
 </ul>
 
@@ -35738,7 +35789,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:18 bsky.app</li>
 <li> 07:14 mail.google.com</li>
 <li> 07:13 <a href="https://www.theguardian.com/technology/2025/may/29/elon-musk-announces-exit-from-us-government-role-after-breaking-with-trump-on-tax-bill">Elon Musk announces exit from US government role after breaking with Trump on tax bill | Elon Musk | The Guardian</a></li>
-<li> 07:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:12 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:12 mail.google.com</li>
 <li class='same'> 07:11 mail.google.com</li>
 <li> 07:11 gmail.com</li>
@@ -35798,10 +35849,10 @@ With number of accesses/minutes in parentheses
 <li> 19:34 www.natesilver.net</li>
 <li> 19:34 <a href="https://www.theguardian.com/news/2025/may/28/influencers-andrew-tate-tristan-to-face-charges-in-uk-cps-confirms">Influencers Andrew and Tristan Tate to face 21 charges in UK, CPS confirms | Andrew Tate | The Guardian</a></li>
 <li class='same'> 19:33 <a href="https://www.theguardian.com/news/2025/may/28/influencers-andrew-tate-tristan-to-face-charges-in-uk-cps-confirms">Influencers Andrew and Tristan Tate to face 21 charges in UK, CPS confirms | Andrew Tate | The Guardian</a></li>
-<li> 19:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:33 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 19:33 <a href="https://www.theguardian.com/help/privacy-policy">Privacy policy | Privacy | The Guardian</a></li>
-<li> 19:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -35813,7 +35864,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:09 <a href="https://www.theguardian.com/politics/2025/may/28/john-mcdonnell-calls-for-grassroots-leadership-challenge-to-keir-starmer-government">John McDonnell calls for grassroots leadership challenge to Starmer government | John McDonnell | The Guardian</a></li>
-<li> 18:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:09 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:09 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 18:08 www.reddit.com</li>
 <li class='same'> 18:06 www.reddit.com</li>
@@ -35825,7 +35876,7 @@ With number of accesses/minutes in parentheses
 <li> 17:59 mail.google.com</li>
 <li> 17:58 <a href="https://www.theguardian.com/us-news/live/2025/may/28/us-politics-live-donald-trump-elon-musk-tax-doge-harvard-students-immigration-news-updates#top-of-blog">Trump says he will be negotiating the ‘big, beautiful’ tax bill after Musk criticizes it – live</a></li>
 <li> 17:57 <a href="https://www.theguardian.com/us-news/live/2025/may/28/us-politics-live-donald-trump-elon-musk-tax-doge-harvard-students-immigration-news-updates">(1) Trump says he will be negotiating the ‘big, beautiful’ tax bill after Musk criticizes it – live</a></li>
-<li> 17:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:57 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:57 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 17:32 <a href="https://www.theguardian.com/money/2025/may/28/uk-homeowners-selling-less-asking-price-survey-zoopla">UK homeowners selling for 4.5% below asking price, survey shows | House prices | The Guardian</a></li>
 <li> 17:20 <a href="https://www.youtube.com/watch?v=eghnMsWqWuY">The Queens Gambit Season 1 Episode 2 Beth Harmon VS Townes - YouTube</a></li>
@@ -35923,7 +35974,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:59 www.linkedin.com</li>
 <li> 11:59 bsky.app</li>
 <li> 11:58 <a href="https://www.theguardian.com/technology/2025/may/28/my-sister-was-found-dead-then-i-discovered-her-search-history-and-the-online-world-that-had-gripped-her">My sister was found dead. Then I discovered her search history – and the online world that had gripped her | Internet safety | The Guardian</a></li>
-<li> 11:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:58 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:55 www.natesilver.net</li>
 <li> 11:54 www.reddit.com</li>
 <li> 11:53 outlook.office365.com</li>
@@ -36020,7 +36071,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:21 www.google.com</li>
 <li> 07:14 <a href="https://www.theguardian.com/environment/2025/may/28/dieselgate-pollution-killed-16000-people-in-uk-study-estimates">Dieselgate pollution killed 16,000 people in UK, study estimates | Air pollution | The Guardian</a></li>
-<li> 07:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:14 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:13 www.reddit.com</li>
 </ul>
 
@@ -36078,8 +36129,8 @@ With number of accesses/minutes in parentheses
 <li> 06:02 mail.google.com</li>
 <li> 06:02 gmail.com</li>
 <li> 05:58 <a href="https://www.theguardian.com/money/2025/may/28/uk-homeowners-selling-less-asking-price-survey-zoopla">UK homeowners selling for 4.5% below asking price, survey shows | House prices | The Guardian</a></li>
-<li> 05:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 05:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:58 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 05:57 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <H3>Tuesday, 27/05/25</H3>
@@ -36152,7 +36203,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:04 <a href="https://www.theguardian.com/us-news/2025/may/27/hegseth-pentagon-leak-investigation-wiretap">White House stunned as Hegseth inquiry brings up illegal wiretap claims | Trump administration | The Guardian</a></li>
-<li> 12:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:03 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 12:03 www.google.com</li>
 <li> 11:44 bsky.app</li>
 <li class='same'> 11:43 bsky.app</li>
@@ -36207,15 +36258,15 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:53 <a href="https://www.theguardian.com/uk-news/live/2025/may/27/liverpool-parade-crowd-collision-latest-updates">Liverpool parade collision: four people still ‘very, very ill in hospital’ says mayor – latest updates | Liverpool | The Guardian</a></li>
-<li> 09:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:53 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:51 www.google.com</li>
 <li class='same'> 09:32 www.google.com</li>
 <li class='same'> 09:18 www.google.com</li>
 <li> 09:18 <a href="https://www.theguardian.com/film/2025/may/27/james-bond-franchise-owners-request-more-time-to-defend-control-of-007-spy-name">James Bond franchise owners request more time to defend control of 007 spy name | James Bond | The Guardian</a></li>
 <li class='same'> 08:49 <a href="https://www.theguardian.com/film/2025/may/27/james-bond-franchise-owners-request-more-time-to-defend-control-of-007-spy-name">James Bond franchise owners request more time to defend control of 007 spy name | James Bond | The Guardian</a></li>
-<li> 08:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:49 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:48 <a href="https://www.theguardian.com/world/2025/may/26/macron-says-video-of-wife-brigitte-pushing-him-in-face-does-not-show-them-quarrelling">Emmanuel Macron says video of wife pushing him shows them ‘joking around’ | Emmanuel Macron | The Guardian</a></li>
-<li> 08:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:26 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:26 www.cntraveler.com</li>
 <li> 08:06 www.reddit.com</li>
 <li> 08:06 mail.google.com</li>
@@ -36319,7 +36370,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:01 reductress.com</li>
 <li> 10:01 wonkhe.com</li>
 <li> 09:40 <a href="https://www.theguardian.com/business/2025/may/26/taxpayer-loss-natwest-disgraced-ex-boss-pension">Taxpayers set for £10bn loss on NatWest as disgraced ex-boss takes £600k-a-year pension | Fred Goodwin | The Guardian</a></li>
-<li> 09:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:36 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 </ul>
 
@@ -36335,7 +36386,7 @@ With number of accesses/minutes in parentheses
 <li> 08:16 www.google.com</li>
 <li class='same'> 08:09 www.google.com</li>
 <li> 08:03 <a href="https://www.theguardian.com/world/2025/may/26/academic-with-apparent-ties-to-beijing-has-forged-links-within-uk-parliament">Academic with apparent ties to Beijing has forged links within UK parliament | China | The Guardian</a></li>
-<li> 08:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:03 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <H3>Sunday, 25/05/25</H3>
@@ -36353,13 +36404,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 22:42 tvtropes.org</li>
 <li class='same'> 22:32 tvtropes.org</li>
 <li> 22:32 www.google.com</li>
-<li> 22:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 22:31 <a href="https://www.theguardian.com/uk-news/2025/may/24/sir-alan-bates-given-take-it-or-leave-it-offer-of-less-than-half-his-post-office-horizon-claim">Sir Alan Bates given ‘take it or leave it’ offer of less than half his Post Office Horizon claim | Post Office Horizon scandal | The Guardian</a></li>
-<li> 22:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:30 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 22:28 <a href="https://www.theguardian.com/sport/2025/may/25/lando-norris-monaco-f1-gp-formula-one">Lando Norris wins Monaco F1 GP to close gap on championship leader Piastri | Formula One | The Guardian</a></li>
-<li> 22:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:28 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 22:27 <a href="https://www.theguardian.com/lifeandstyle/2025/may/25/daphne-and-celeste-pop-duo-look-back">‘People in the scene would sometimes be mean to us. They’d forget we were teenagers’: Daphne and Celeste look back | Life and style | The Guardian</a></li>
-<li> 22:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:26 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 22:26 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 22:26 <a href="https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
 <li> 22:26 www.activeluton.co.uk</li>
@@ -36384,7 +36435,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:53 www.reddit.com</li>
 <li class='same'> 19:52 www.reddit.com</li>
 <li> 19:45 <a href="https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
-<li> 19:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:43 <a href="https://www.theguardian.com/lifeandstyle/ng-interactive/2025/may/17/the-happiest-places-to-live-in-britain">The Guardian’s happiest places to live in Britain revealed | Life and style | The Guardian</a></li>
 <li> 19:43 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 19:43 www.google.com</li>
@@ -36407,7 +36458,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 09:17 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <H3>Saturday, 24/05/25</H3>
@@ -36418,16 +36469,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 21:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 21:25 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:25 <a href="https://www.theguardian.com/commentisfree/picture/2025/may/24/becky-barnicoat-watching-season-2-cartoon">Becky Barnicoat on the trials of watching season 2 – cartoon | Becky Barnicoat | The Guardian</a></li>
-<li> 21:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:24 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:23 <a href="https://www.theguardian.com/music/2025/may/24/feargal-sharkey-reveals-prostate-cancer-diagnosis-and-urges-men-to-get-checked">Feargal Sharkey reveals prostate cancer diagnosis and urges men to get checked | Men's health | The Guardian</a></li>
-<li> 21:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:23 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 14:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 14:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:02 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:02 <a href="https://www.theguardian.com/world/2025/may/23/hamburg-train-station-stabbing-attack-germany?utm_source=firefox-newtab-en-gb">Woman arrested after 17 people injured in knife attack at Hamburg train station | Germany | The Guardian</a></li>
 <li> 13:59 <a href="https://www.theguardian.com/education/2025/may/24/children-with-special-needs-in-england-may-lose-legal-right-to-school-support">Children with special needs in England may lose legal right to school support | Special educational needs | The Guardian</a></li>
@@ -36437,21 +36488,21 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:18 mail.google.com</li>
 <li> 11:55 <a href="https://www.theguardian.com/education/2025/may/24/children-with-special-needs-in-england-may-lose-legal-right-to-school-support">Children with special needs in England may lose legal right to school support | Special educational needs | The Guardian</a></li>
-<li> 11:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:55 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:55 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:50 <a href="https://www.theguardian.com/world/2025/may/24/trump-russia-sanctions-europe-ukraine">Trump’s Russia sanctions refusal leaves Europe with few options but to wait | Ukraine | The Guardian</a></li>
-<li> 11:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:43 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li> 10:46 <a href="https://www.theguardian.com/football/2025/may/24/manchester-uniteds-leap-from-semi-failure-to-epic-failure-just-feels-right">Manchester United’s leap from semi-failure to epic failure just feels right | Manchester United | The Guardian</a></li>
-<li> 10:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:45 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:45 <a href="https://www.theguardian.com/environment/2025/may/23/labour-blocks-proposal-for-swift-bricks-in-all-new-homes">Labour blocks proposal for ‘swift bricks’ in all new homes | Birds | The Guardian</a></li>
-<li> 10:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:44 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:44 <a href="https://www.theguardian.com/society/2025/may/24/disabled-campaigners-trans-people-toilet-segregation">Disabled campaigners watching ‘in horror’ as trans people face toilet segregation | Transgender | The Guardian</a></li>
-<li> 10:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/sport/2025/may/24/adrian-newey-out-to-build-car-that-will-tempt-max-verstappen-to-aston-martin">Adrian Newey out to build car that will tempt Max Verstappen to Aston Martin | Aston Martin | The Guardian</a></li>
 </ul>
@@ -36510,7 +36561,7 @@ With number of accesses/minutes in parentheses
 <li> 06:35 drive.google.com</li>
 <li class='same'> 06:34 drive.google.com</li>
 <li> 06:32 <a href="https://www.theguardian.com/sport/2025/may/24/adrian-newey-out-to-build-car-that-will-tempt-max-verstappen-to-aston-martin">Adrian Newey out to build car that will tempt Max Verstappen to Aston Martin | Aston Martin | The Guardian</a></li>
-<li> 06:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:30 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:30 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:30 <a href="https://www.theguardian.com/business/live/2025/may/23/energy-price-cap-cut-great-britain-retail-sales-stock-markets-bonds-business-live-news">Trump announces Nippon Steel and US Steel partnership – as it happened | Business | The Guardian</a></li>
 </ul>
@@ -36529,7 +36580,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 18:27 <a href="https://www.theguardian.com/business/live/2025/may/23/energy-price-cap-cut-great-britain-retail-sales-stock-markets-bonds-business-live-news">Trump announces Nippon Steel and US Steel partnership – as it happened | Business | The Guardian</a></li>
-<li> 18:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:26 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -36551,7 +36602,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 15:00 www.atgtickets.com</li>
 <li> 15:00 www.google.com</li>
 <li class='same'> 14:59 www.google.com</li>
-<li> 14:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:55 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:48 www.projectreal.co.uk</li>
 <li> 14:44 mail.google.com</li>
 <li> 14:43 duckduckgo.com</li>
@@ -36742,11 +36793,11 @@ With number of accesses/minutes in parentheses
 <li> 07:22 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/world/2025/may/09/mexico-google-lawsuit-gulf-of-mexico">Mexico sues Google over changing Gulf of Mexico’s name for US users | Mexico | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/technology/2025/may/23/elon-musk-new-city-starbase-texas">Fear, hope and loathing in Elon Musk’s new city: ‘It’s the wild, wild west and the future’ | Elon Musk | The Guardian</a></li>
-<li> 07:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:21 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 07:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:21 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/us-news/2025/may/22/israeli-embassy-staff-shooting-washington-dc">Suspect charged with murder in shooting of Israeli embassy staffers | Washington DC | The Guardian</a></li>
-<li> 07:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:21 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/us-news/2025/may/22/israeli-embassy-staff-shooting-washington-dc">Suspect charged with murder in shooting of Israeli embassy staffers | Washington DC | The Guardian</a></li>
 <li> 07:18 chatgpt.com</li>
@@ -36793,7 +36844,7 @@ With number of accesses/minutes in parentheses
 <li> 06:24 eu-west-2.console.aws.amazon.com</li>
 <li> 06:23 www.amazon.co.uk</li>
 <li> 06:18 <a href="https://www.theguardian.com/us-news/2025/may/22/israeli-embassy-staff-shooting-washington-dc">Suspect charged with murder in shooting of Israeli embassy staffers | Washington DC | The Guardian</a></li>
-<li> 06:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:18 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:18 www.google.com</li>
 </ul>
 
@@ -36814,7 +36865,7 @@ With number of accesses/minutes in parentheses
 <li> 21:46 <a href="https://www.theguardian.com/commentisfree/2025/may/21/the-guardian-view-on-russia-sanctions-a-brittle-economy-is-putins-weakness">The Guardian view on Russia sanctions: a brittle economy is Putin’s weakness | Editorial | The Guardian</a></li>
 <li> 21:46 www.google.com</li>
 <li> 21:46 <a href="https://www.theguardian.com/world/2025/may/22/g7-china-trade">World’s seven wealthiest countries agree to counter China’s trade practices | G7 | The Guardian</a></li>
-<li> 21:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:45 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:45 www.britishpowerlifting.org</li>
 </ul>
 
@@ -36822,7 +36873,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:38 <a href="https://www.theguardian.com/law/2025/may/22/court-ruling-legal-definition-of-a-woman-misinterpreted-lady-hale">Court ruling on legal definition of a woman ‘misinterpreted’, Lady Hale says | Brenda Hale | The Guardian</a></li>
 <li> 20:38 <a href="https://www.theguardian.com/world/2025/may/22/high-court-judge-blocks-uk-from-concluding-chagos-islands-deal">UK signs £3.4bn deal to cede sovereignty over Chagos Islands to Mauritius | Chagos Islands | The Guardian</a></li>
-<li> 20:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 20:37 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 </ul>
 
@@ -36931,7 +36982,7 @@ With number of accesses/minutes in parentheses
 <li> 07:06 docs.google.com</li>
 <li> 07:04 <a href="https://www.theguardian.com/uk-news/2025/may/22/spies-lies-and-betrayal-my-ruinous-relationship-with-an-undercover-cop">Spies, lies and betrayal: my ruinous relationship with an undercover cop | Police | The Guardian</a></li>
 <li> 07:02 <a href="https://www.theguardian.com/business/2025/may/22/weightwatchers-scraps-business-model-to-team-up-with-anti-obesity-drugs-provider">WeightWatchers scraps business model to team up with anti-obesity drugs provider | Pharmaceuticals industry | The Guardian</a></li>
-<li> 07:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:02 www.giantitp.com</li>
 <li> 07:02 mail.google.com</li>
 <li class='same'> 07:01 mail.google.com</li>
@@ -36964,7 +37015,7 @@ With number of accesses/minutes in parentheses
 <li> 06:45 gmail.com</li>
 <li> 06:45 outlook.office365.com</li>
 <li> 06:41 <a href="https://www.theguardian.com/games/2025/may/16/epic-games-apple-fortnite-app-store">Fortnite unavailable on iPhones globally after Apple rejects App Store release | Fortnite | The Guardian</a></li>
-<li> 06:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:40 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:40 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 06:40 outlook.office365.com</li>
 <li> 06:38 intranet.royalholloway.ac.uk</li>
@@ -36987,7 +37038,7 @@ With number of accesses/minutes in parentheses
 <li> 21:37 www.amazon.co.uk</li>
 <li> 21:35 docs.google.com</li>
 <li> 21:33 <a href="https://www.theguardian.com/technology/2025/may/21/openai-iphone-io">OpenAI buys iPhone architect’s startup for $6.4bn | Technology | The Guardian</a></li>
-<li> 21:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:31 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:31 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 21:06 www.reddit.com</li>
 <li> 21:06 www.google.com</li>
@@ -37186,7 +37237,7 @@ With number of accesses/minutes in parentheses
 <li> 09:31 www.google.com</li>
 <li> 09:31 reductress.com</li>
 <li> 09:30 <a href="https://www.theguardian.com/world/live/2025/may/21/vladimir-putin-kursk-volodymyr-zelenskyy-ukraine-russia-ukraine-war-live">Russia-Ukraine war live: Putin visits Kursk region for first time since recapturing from Ukraine</a></li>
-<li> 09:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:30 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:29 <a href="https://www.bbc.co.uk/news/articles/cwy33n484x0o">Trump unveils plans for 'Golden Dome' missile defence system - BBC News</a></li>
 <li> 09:29 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 09:28 www.google.com</li>
@@ -37262,7 +37313,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:42 www.reddit.com</li>
 <li class='same'> 21:41 www.reddit.com</li>
 <li> 21:19 <a href="https://www.theguardian.com/world/2025/may/20/defeated-romanian-ultranationalist-says-he-will-ask-court-to-annul-presidential-election">Defeated Romanian ultranationalist ‘will ask court to annul election’ | Romania | The Guardian</a></li>
-<li> 21:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:19 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:17 www.foxnews.com</li>
 <li class='same'> 21:16 www.foxnews.com</li>
 </ul>
@@ -37271,11 +37322,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 19:11 www.foxnews.com</li>
 <li> 19:10 <a href="https://www.theguardian.com/world/live/2025/may/20/israel-gaza-hamas-aid-middle-east-crisis-live-news-updates">EU to review trade relations with Israel over ‘untenable’ situation in Gaza, says top diplomat – live</a></li>
-<li> 19:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:10 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/business/2025/may/15/ministers-to-block-thames-water-paying-bosses-bonuses-out-of-emergency-loan">Ministers to block Thames Water paying bosses bonuses out of emergency loan | Thames Water | The Guardian</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/business/2025/may/20/thames-water-chair-mps-bonuses">Thames Water: big bonuses due from emergency £3bn loan ‘withdrawn’ | Thames Water | The Guardian</a></li>
-<li> 19:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:09 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:09 www.google.com</li>
 <li> 19:03 www.reddit.com</li>
 <li> 19:03 www.google.com</li>
@@ -37285,8 +37336,8 @@ With number of accesses/minutes in parentheses
 <li> 19:02 www.google.com</li>
 <li> 19:01 www.reddit.com</li>
 <li> 19:01 www.google.com</li>
-<li> 19:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 18:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:01 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 18:36 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:36 www.google.com</li>
 <li> 18:31 www.reddit.com</li>
 <li> 18:31 outlook.office365.com</li>
@@ -37399,9 +37450,9 @@ With number of accesses/minutes in parentheses
 <li> 06:45 <a href="https://www.theguardian.com/lifeandstyle/2025/may/20/people-are-buying-crossbows-faster-than-id-like-how-prepping-went-mainstream-in-britain">‘People are buying crossbows faster than I’d like’ – how prepping went mainstream in Britain | Life and style | The Guardian</a></li>
 <li> 06:43 <a href="https://www.theguardian.com/commentisfree/2024/dec/10/influencers-lawsuit-sydney-nicole-gifford-alyssa-sheil">Who’s the most basic person on the internet? A court will have to decide between these two beige influencers | Arwa Mahdawi | The Guardian</a></li>
 <li> 06:36 <a href="https://www.theguardian.com/lifeandstyle/2025/may/20/people-are-buying-crossbows-faster-than-id-like-how-prepping-went-mainstream-in-britain">‘People are buying crossbows faster than I’d like’ – how prepping went mainstream in Britain | Life and style | The Guardian</a></li>
-<li> 06:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:35 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:35 <a href="https://www.theguardian.com/society/2025/may/19/senior-doctor-accused-of-failures-in-case-that-gave-rise-to-marthas-rule">Senior doctor accused of failures in case that gave rise to Martha’s rule | Hospitals | The Guardian</a></li>
-<li> 06:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:35 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:35 www.google.com</li>
 </ul>
 
@@ -37423,7 +37474,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:35 www.google.com</li>
 <li class='same'> 19:34 www.google.com</li>
-<li> 19:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -37440,16 +37491,16 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:59 www.google.com</li>
 <li> 15:57 <a href="https://www.theguardian.com/world/2025/may/19/property-england-wales-hidden-behind-opaque-trusts">At least £64bn of property in England and Wales hidden behind opaque trusts | Tax havens | The Guardian</a></li>
-<li> 15:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:57 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:57 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 15:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:57 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 15:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 15:00 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:00 <a href="https://www.theguardian.com/film/2025/may/19/dogme-25-announced-at-cannes-directors-manifesto">Dogma 25 announced at Cannes, as directors launch ‘cultural uprising’ | Cannes film festival | The Guardian</a></li>
-<li> 14:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:59 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:59 reductress.com</li>
 </ul>
 
@@ -37485,7 +37536,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:22 www.google.com</li>
 <li> 07:22 www.salto-gym.com</li>
 <li> 07:22 www.google.com</li>
-<li> 07:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:22 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <H3>Sunday, 18/05/25</H3>
@@ -37496,14 +37547,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 21:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 21:49 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:49 www.chess.com</li>
 <li> 21:34 <a href="https://www.bbc.co.uk/news/articles/cgr5nen5gxyo">M&S and Co-Op: BBC reporter on talking to the hackers - BBC News</a></li>
 </ul>
 
 <br>
 
-<ul><li> 18:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 18:27 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:27 www.reddit.com</li>
 <li class='same'> 18:26 www.reddit.com</li>
 </ul>
@@ -37530,7 +37581,7 @@ With number of accesses/minutes in parentheses
 <li> 11:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 11:49 <a href="https://www.bbc.co.uk/naidheachdan">Naidheachdan - BBC Naidheachdan</a></li>
 <li> 11:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
-<li> 11:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:49 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/politics/2025/may/17/essex-thurrock-grays-views-brexit-eu-referendum">‘It feels like we never left’: resentment builds in one of UK’s firmest Brexit-backing areas | Brexit | The Guardian</a></li>
 </ul>
@@ -37538,17 +37589,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:05 <a href="https://www.theguardian.com/politics/2025/may/17/essex-thurrock-grays-views-brexit-eu-referendum">‘It feels like we never left’: resentment builds in one of UK’s firmest Brexit-backing areas | Brexit | The Guardian</a></li>
-<li> 11:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:05 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:04 <a href="https://www.theguardian.com/tv-and-radio/2025/may/18/eurovision-song-contest-winner-2025">Austria wins 69th Eurovision song contest with Wasted Love | Eurovision 2025 | The Guardian</a></li>
-<li> 11:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 11:04 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 10:53 <a href="https://www.theguardian.com/world/2025/may/18/ukraine-reports-largest-drone-attack-from-russia-since-war-began">Russia fires 273 drones at Ukraine in largest attack since start of war | Ukraine | The Guardian</a></li>
-<li> 10:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:52 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 10:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 10:19 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:17 www.reddit.com</li>
 </ul>
 
@@ -37561,7 +37612,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:21 <a href="https://www.theguardian.com/lifeandstyle/ng-interactive/2025/may/17/the-happiest-places-to-live-in-britain">The Guardian’s happiest places to live in Britain revealed | Life and style | The Guardian</a></li>
-<li> 19:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:21 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 19:21 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 19:12 www.reddit.com</li>
 <li> 19:12 www.google.com</li>
@@ -37569,14 +37620,14 @@ With number of accesses/minutes in parentheses
 <li> 19:11 www.google.com</li>
 <li> 19:10 www.reddit.com</li>
 <li> 19:10 www.google.com</li>
-<li> 19:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:10 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 17:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li class='same'> 17:56 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:56 www.chess.com</li>
-<li> 17:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:56 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 </ul>
 
 <br>
@@ -37643,9 +37694,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:28 <a href="https://www.theguardian.com/us-news/ng-interactive/2025/may/14/tesla-cybertruck-durability-elon-musk">The Cybertruck was supposed to be apocalypse-proof. Can it even survive a trip to the grocery store? | Tesla | The Guardian</a></li>
 <li> 08:28 <a href="https://www.theguardian.com/news/2025/may/17/six-great-reads-cybertruck-conversations-we-need-to-have-gentleman-crook">Six great reads: the folly of the Cybertruck, six conversations we need to have – and a gentleman crook | | The Guardian</a></li>
-<li> 08:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:28 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:27 <a href="https://www.theguardian.com/culture/2025/may/17/my-cultural-awakening-pulp-something-changed">My cultural awakening: a Pulp song made me realise I was in love with my best friend | Culture | The Guardian</a></li>
-<li> 08:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:26 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:26 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 08:26 <a href="https://www.theguardian.com/commentisfree/2025/may/14/ukraine-newfound-confidence-europe-russia-usa">The good news from Kyiv: with or without a ceasefire, Ukraine has a newfound confidence | Nathalie Tocci | The Guardian</a></li>
 </ul>
@@ -37664,7 +37715,7 @@ With number of accesses/minutes in parentheses
 <li> 18:09 web.whatsapp.com</li>
 <li> 18:08 <a href="https://www.theguardian.com/world/2025/may/16/russia-ukraine-meet-first-direct-talks-since-2022-instanbul#img-1">Russia and Ukraine talks end without meaningful breakthrough | Ukraine | The Guardian</a></li>
 <li> 18:08 <a href="https://www.theguardian.com/world/2025/may/16/russia-ukraine-meet-first-direct-talks-since-2022-instanbul">Russia and Ukraine talks end without meaningful breakthrough | Ukraine | The Guardian</a></li>
-<li> 18:07 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:07 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:07 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 18:00 www.thingiverse.com</li>
 </ul>
@@ -37758,11 +37809,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:11 www.reddit.com</li>
 <li class='same'> 15:10 www.reddit.com</li>
 <li> 15:04 <a href="https://www.theguardian.com/commentisfree/2025/may/16/keir-starmer-x-immigration-albania-enoch-powell">So ends the Keirbot’s immigration week: literally everyone hates it. Possibly even him | Marina Hyde | The Guardian</a></li>
-<li> 15:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:03 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:01 <a href="https://www.theguardian.com/film/2025/may/16/mission-impossible-final-reckoning-tom-cruise">Show me the tummy! Tom Cruise doesn’t need sleep, help or clothes in Mission: Impossible | Cannes film festival | The Guardian</a></li>
-<li> 15:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:01 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:01 <a href="https://www.theguardian.com/lifeandstyle/2025/may/16/experience-i-fought-off-polar-bear-saucepan">Experience: I fought off a polar bear with a saucepan | Life and style | The Guardian</a></li>
-<li> 15:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:00 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 15:00 tvtropes.org</li>
 </ul>
 
@@ -38023,7 +38074,7 @@ With number of accesses/minutes in parentheses
 <li> 18:01 51.148.131.133:8008</li>
 <li> 18:01 feedly.com</li>
 <li> 18:00 <a href="https://www.theguardian.com/news/2025/may/14/michelle-obama-20-the-liberation-of-the-former-first-lady">Michelle Obama 2.0 – the reinvention of the former first lady | Michelle Obama | The Guardian</a></li>
-<li> 17:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:58 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 17:58 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 17:58 docs.google.com</li>
 </ul>
@@ -38148,7 +38199,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 09:15 <a href="https://www.theguardian.com/commentisfree/2025/may/14/ukraine-newfound-confidence-europe-russia-usa">The good news from Kyiv: with or without a ceasefire, Ukraine has a newfound confidence | Nathalie Tocci | The Guardian</a></li>
-<li> 09:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:14 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 09:14 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 09:10 web.whatsapp.com</li>
 <li> 09:10 www.facebook.com</li>
@@ -38162,7 +38213,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 08:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:04 www.reddit.com</li>
 <li class='same'> 07:51 www.reddit.com</li>
 <li class='same'> 07:50 www.reddit.com</li>
@@ -38215,7 +38266,7 @@ With number of accesses/minutes in parentheses
 <li> 21:37 www.google.com</li>
 <li> 21:37 www.amazon.co.uk</li>
 <li> 21:33 www.google.com</li>
-<li> 21:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:33 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 21:32 www.google.com</li>
 <li> 21:31 www.herts.ac.uk</li>
 <li> 21:31 www.google.com</li>
@@ -38268,7 +38319,7 @@ With number of accesses/minutes in parentheses
 <li> 18:48 www.google.com</li>
 <li> 18:47 account.prusa3d.com</li>
 <li> 18:47 www.printables.com</li>
-<li> 18:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:47 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 18:44 www.printables.com</li>
 <li> 18:44 account.prusa3d.com</li>
 <li class='same'> 18:43 account.prusa3d.com</li>
@@ -38350,14 +38401,14 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:37 m.facebook.com</li>
 <li> 14:36 <a href="https://www.theguardian.com/business/2025/may/13/drug-price-cuts-what-is-trump-planning-and-what-will-it-mean-for-big-pharma">Drug price cuts: what is Trump planning and what will it mean for big pharma? | Pharmaceuticals industry | The Guardian</a></li>
-<li> 14:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:36 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:35 <a href="https://www.theguardian.com/sport/2025/may/13/bradley-wiggins-says-he-is-lucky-to-be-here-after-revealing-cocaine-addiction">Bradley Wiggins says he is ‘lucky to be here’ after revealing cocaine addiction | Bradley Wiggins | The Guardian</a></li>
-<li> 14:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:35 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:35 www.google.com</li>
 <li> 14:35 www.thedailymash.co.uk</li>
-<li> 14:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:28 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:28 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
-<li> 14:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:04 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 14:04 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 14:04 <a href="https://www.theguardian.com/artanddesign/2025/may/13/i-marvel-i-have-any-brain-cells-left-drummer-patrick-dougher-on-drugs-drink-and-blowing-his-big-break-with-sade">‘I marvel I have any brain cells left’: artist Patrick Dougher on drugs, drink and blowing his big break with Sade | Art | The Guardian</a></li>
 <li> 14:03 mail.google.com</li>
@@ -38379,7 +38430,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:23 www.thecompleteuniversityguide.co.uk</li>
 <li> 13:23 duckduckgo.com</li>
 <li> 13:22 <a href="https://www.theguardian.com/artanddesign/2025/may/13/linda-rosenkrantz-peter-hujar-rebecca-hall-ben-whishaw-drugs-orgies">‘I invited a dozen ex-boyfriends to dinner and taped it’: the amazing avant garde recordings of Linda Rosenkrantz | Art | The Guardian</a></li>
-<li> 13:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:22 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 13:22 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 13:21 teams.microsoft.com</li>
 <li> 13:18 qmucu.org</li>
@@ -38478,7 +38529,7 @@ With number of accesses/minutes in parentheses
 <li> 10:55 mail.google.com</li>
 <li> 10:55 gmail.com</li>
 <li> 10:47 <a href="https://www.theguardian.com/artanddesign/2025/may/13/i-marvel-i-have-any-brain-cells-left-drummer-patrick-dougher-on-drugs-drink-and-blowing-his-big-break-with-sade">‘I marvel I have any brain cells left’: artist Patrick Dougher on drugs, drink and blowing his big break with Sade | Art | The Guardian</a></li>
-<li> 10:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:47 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:47 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/sport/2025/may/13/novak-djokovic-and-andy-murray-end-coaching-partnership-early-after-six-months">Novak Djokovic and Andy Murray end coaching partnership after six months | Andy Murray | The Guardian</a></li>
 <li> 10:41 <a href="https://www.youtube.com/watch?v=qgC_E7p7_q0">Secure Attendance Tracking System - YouTube</a></li>
@@ -38486,7 +38537,7 @@ With number of accesses/minutes in parentheses
 <li> 10:39 mail.google.com</li>
 <li> 10:39 outlook.office365.com</li>
 <li class='same'> 10:38 outlook.office365.com</li>
-<li> 10:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 10:37 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 10:25 outlook.office365.com</li>
 <li class='same'> 10:22 outlook.office365.com</li>
@@ -38523,16 +38574,16 @@ With number of accesses/minutes in parentheses
 <li> 09:08 chatgpt.com</li>
 <li> 09:08 chat.openai.com</li>
 <li> 09:00 <a href="https://www.theguardian.com/business/2025/may/13/m-and-s-personal-data-cyber-attack-marks-spencer-card-passwords">M&S says some personal data was taken in cyber-attack | Marks & Spencer | The Guardian</a></li>
-<li> 09:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 08:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:00 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
+<li class='same'> 08:59 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:34 <a href="https://joereddington.com/2025/03/25/space-photos.html">Space Photos | Joe Reddington</a></li>
 <li> 08:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:34 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 08:09 www.reddit.com</li>
 <li> 08:09 <a href="https://www.theguardian.com/football/2025/may/12/harry-kane-its-nice-to-be-on-the-other-side-ive-seen-my-fair-share-of-other-teams-lifting-trophies">Harry Kane: ‘It’s nice to be on the other side … I’ve seen my fair share of other teams lifting trophies’ | Harry Kane | The Guardian</a></li>
-<li> 08:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:01 <a href="https://www.theguardian.com/commentisfree/2025/may/13/young-people-degrees-labour-market-ai">We told young people that degrees were their ticket to a better life. It’s become a great betrayal | Gaby Hinsliff | The Guardian</a></li>
-<li> 08:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:01 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 08:01 <a href="https://www.theguardian.com/">Widow of Kirk gives statement after husband’s shooting – as it happened | Charlie Kirk shooting | The Guardian</a></li>
 <li> 07:38 www.giantitp.com</li>
 <li> 07:37 feedly.com</li>
@@ -38546,20 +38597,20 @@ With number of accesses/minutes in parentheses
 <li> 07:32 duckduckgo.com</li>
 <li> 07:24 www.facebook.com</li>
 <li> 07:20 <a href="https://www.theguardian.com/games/2025/may/09/doom-the-dark-ages-review-id-software">Doom: The Dark Ages review – id Software gets medieval in a dramatic rewrite of the shooter’s rules | Games | The Guardian</a></li>
-<li> 07:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:20 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 07:18 outlook.office365.com</li>
 <li class='same'> 07:17 outlook.office365.com</li>
 <li> 07:08 <a href="https://www.youtube.com/shorts/S-AWAh4B2W4">YouTube</a></li>
 <li> 06:53 <a href="https://www.theguardian.com/tv-and-radio/2025/may/13/the-liver-king-review-brian-johnson">The Liver King review – I am rarely this nauseated by anything | Television | The Guardian</a></li>
-<li> 06:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:52 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:45 <a href="https://www.theguardian.com/sport/2025/may/12/emma-raducanu-italian-open-run-screeches-halt-coco-gauff-tennis">Emma Raducanu’s Italian Open run screeches to halt against Coco Gauff | Emma Raducanu | The Guardian</a></li>
 <li class='same'> 06:44 <a href="https://www.theguardian.com/sport/2025/may/12/emma-raducanu-italian-open-run-screeches-halt-coco-gauff-tennis">Emma Raducanu’s Italian Open run screeches to halt against Coco Gauff | Emma Raducanu | The Guardian</a></li>
-<li> 06:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:43 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:37 <a href="https://www.theguardian.com/tv-and-radio/2025/may/12/any-11-year-old-could-tell-you-that-the-university-challenge-final-reviewed-by-last-years-winner">‘Any 11-year-old could tell you that!’ The University Challenge final, reviewed by last year’s winner | Television | The Guardian</a></li>
-<li> 06:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:37 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:18 www.facebook.com</li>
 <li> 06:03 <a href="https://www.theguardian.com/film/2025/may/12/ive-watched-every-single-nicolas-cage-film-made-so-far-heres-what-i-learned-about-him-and-myself">I’ve watched every single Nicolas Cage film made so far. Here’s what I learned about him – and myself | Nicolas Cage | The Guardian</a></li>
-<li> 06:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:02 <a href="https://www.theguardian.com/uk">is russia in the eurocision song content - Google Search</a></li>
 <li> 06:02 www.thedailymash.co.uk</li>
 <li> 05:48 <a href="https://www.youtube.com/@ETCTrading">ETC Trading - YouTube</a></li>
 <li> 05:48 <a href="https://www.youtube.com/watch?v=3g8LAPPMg20">Regev Proof of concept LWE Interim demo - YouTube</a></li>
@@ -39029,11 +39080,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:17 www.reddit.com</li>
 <li> 12:17 www.google.com</li>
 <li> 12:05 <a href="https://www.bbc.co.uk/news/articles/c8rexgzp54vo">Sussex man who owns 85p Sicily home besieged with advice requests - BBC News</a></li>
-<li> 12:04 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 12:04 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 12:04 <a href="https://www.bbc.co.uk/news/articles/c39xkex84k2o">Life or death decisions as politicians weigh up assisted dying vote - BBC News</a></li>
-<li> 12:04 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 12:04 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 12:03 <a href="https://www.bbc.co.uk/news/articles/cewd14jvgewo">Cryptosporidium: Boy, 4, hospitalised after visit to farm in Cowbridge - BBC News</a></li>
-<li> 12:03 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 12:03 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 11:56 www.thingiverse.com</li>
 <li class='same'> 11:55 www.thingiverse.com</li>
 <li class='same'> 11:54 www.thingiverse.com</li>
@@ -44911,7 +44962,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:06 www.reddit.com</li>
 <li> 21:06 www.google.com</li>
 <li> 21:05 <a href="https://www.bbc.co.uk/news/articles/cgenjl79v89o">Man shot dead by police at Milton Keynes railway station named - BBC News</a></li>
-<li> 21:05 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 21:05 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 21:05 www.theguardian.com</li>
 <li class='same'> 20:44 www.theguardian.com</li>
 <li class='same'> 20:43 www.theguardian.com</li>
@@ -46214,18 +46265,18 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:20 drive.google.com</li>
 <li> 08:20 www.pizzaexpress.com</li>
 <li> 08:11 www.google.com</li>
-<li> 08:09 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 08:09 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 08:09 <a href="https://www.bbc.co.uk/news/articles/cvgp23z9er5o">As music streaming subscriptions stall, are price rises inevitable? - BBC News</a></li>
-<li> 08:08 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 08:08 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 08:08 <a href="https://www.bbc.co.uk/news/articles/c9q4e0e783po">Bournemouth beach murder: How criminology student was caught - BBC News</a></li>
-<li> 08:08 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 08:08 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 08:08 <a href="https://www.bbc.co.uk/iplayer/episode/p0kyy502/6-music-festival-2025-ezra-collective-god-gave-me-feet-for-dancing-feat-kinetika-bloco-maia-avery">6 Music Festival - 2025: Ezra Collective - God Gave Me Feet For Dancing (feat. Kinetika Bloco (Maia Avery)) - BBC iPlayer</a></li>
 <li> 08:08 <a href="https://www.bbc.co.uk/iplayer/episode/p0kyy502">BBC - Home</a></li>
 </ul>
 
 <br>
 
-<ul><li> 07:31 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<ul><li> 07:31 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 07:31 theopenvoicefactory.org</li>
 <li> 07:12 www.theguardian.com</li>
 <li class='same'> 07:09 www.theguardian.com</li>
@@ -76124,7 +76175,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:51 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<ul><li> 18:51 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 </ul>
 
 <br>
@@ -77362,9 +77413,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:54 accounts.intuit.com</li>
-<li> 19:52 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 19:52 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 19:52 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
-<li> 19:52 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 19:52 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 </ul>
 
 <br>
@@ -77521,8 +77572,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:58 moodle.royalholloway.ac.uk</li>
 <li class='same'> 17:57 moodle.royalholloway.ac.uk</li>
 <li> 17:36 calendar.google.com</li>
-<li> 17:12 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
-<li class='same'> 17:09 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 17:12 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
+<li class='same'> 17:09 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 16:49 outlook.office.com</li>
 <li> 16:48 qbo.intuit.com</li>
 <li class='same'> 16:47 qbo.intuit.com</li>
@@ -78352,7 +78403,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:22 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<ul><li> 19:22 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 </ul>
 
 <br>
@@ -78368,7 +78419,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 16:16 m.facebook.com</li>
-<li> 16:15 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
+<li> 16:15 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 </ul>
 
 <br>
