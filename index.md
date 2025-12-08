@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4206)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4016)</li>
-<li>outlook.office365.com (3963)</li>
+<li>outlook.office365.com (3966)</li>
 <li>www.google.com (3960)</li>
 <li>docs.google.com (2645)</li>
 <li>duckduckgo.com (2525)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1533)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1360)</li>
-<li>login.microsoftonline.com (1161)</li>
+<li>login.microsoftonline.com (1163)</li>
 <li>www.amazon.co.uk (1050)</li>
 <li>calendar.google.com (1026)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (505)</li>
 <li>drive.google.com (435)</li>
 <li>rhul.sharepoint.com (378)</li>
-<li>fritz.box (359)</li>
+<li>fritz.box (360)</li>
 <li>adfs.herts.ac.uk (336)</li>
 
 
@@ -105,6 +105,22 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 08/12/25</H3>
+
+<br>
+
+<ul><li> 19:50 ce0997li.webitrent.com</li>
+<li class='same'> 19:46 ce0997li.webitrent.com</li>
+<li class='same'> 19:45 ce0997li.webitrent.com</li>
+<li> 19:45 login.microsoftonline.com</li>
+<li> 19:45 ce0997li.webitrent.com</li>
+<li> 19:43 login.microsoftonline.com</li>
+<li> 19:43 www.hr.herts.ac.uk</li>
+<li> 19:42 outlook.office365.com</li>
+<li class='same'> 19:41 outlook.office365.com</li>
+<li> 19:40 fritz.box</li>
+<li> 19:40 detectportal.firefox.com</li>
+<li> 19:40 outlook.office365.com</li>
+</ul>
 
 <br>
 
