@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4203)</li>
+<ol><li>mail.google.com (4205)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4016)</li>
+<li>outlook.office365.com (3962)</li>
 <li>www.google.com (3960)</li>
-<li>outlook.office365.com (3959)</li>
 <li>docs.google.com (2643)</li>
 <li>duckduckgo.com (2525)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1527)</li>
+<li>chatgpt.com (1529)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1358)</li>
-<li>login.microsoftonline.com (1159)</li>
+<li>www.linkedin.com (1360)</li>
+<li>login.microsoftonline.com (1161)</li>
 <li>www.amazon.co.uk (1050)</li>
 <li>calendar.google.com (1026)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
 <li>rhul-my.sharepoint.com (813)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (665)</li>
-<li>web.whatsapp.com (647)</li>
+<li>gmail.com (666)</li>
+<li>web.whatsapp.com (648)</li>
 <li>chat.openai.com (634)</li>
 <li>tvtropes.org (630)</li>
 <li>herts.instructure.com (621)</li>
 <li><a href="https://www.theguardian.com/uk">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a> (555)</li>
 <li>github.com (553)</li>
-<li>forms.office.com (510)</li>
+<li>forms.office.com (513)</li>
 <li>feedly.com (505)</li>
 <li>drive.google.com (435)</li>
 <li>rhul.sharepoint.com (378)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:50 kdpreports.amazon.com</li>
+<ul><li> 17:45 mail.google.com</li>
+<li class='same'> 17:43 mail.google.com</li>
+<li> 17:43 gmail.com</li>
+<li> 17:43 chatgpt.com</li>
+<li class='same'> 17:42 chatgpt.com</li>
+<li> 17:30 web.whatsapp.com</li>
+<li> 17:26 outlook.office365.com</li>
+<li class='same'> 17:25 outlook.office365.com</li>
+<li> 17:19 forms.office.com</li>
+<li> 17:19 login.microsoftonline.com</li>
+<li> 17:19 forms.office.com</li>
+<li> 17:19 outlook.office365.com</li>
+<li> 17:19 m365.cloud.microsoft</li>
+<li> 17:19 login.microsoftonline.com</li>
+<li> 17:18 www.microsoft.com</li>
+<li> 17:18 forms.office.com</li>
+<li> 17:10 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 17:09 fyp.cs.rhul.ac.uk</li>
+<li> 17:05 ce0997li.webitrent.com</li>
+<li class='same'> 17:03 ce0997li.webitrent.com</li>
+<li> 17:03 www.linkedin.com</li>
+<li class='same'> 17:02 www.linkedin.com</li>
+<li> 16:50 kdpreports.amazon.com</li>
 <li> 16:50 kdp.amazon.com</li>
 <li> 16:49 ce0997li.webitrent.com</li>
 <li class='same'> 16:48 ce0997li.webitrent.com</li>
