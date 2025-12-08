@@ -72,17 +72,17 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4016)</li>
 <li>www.google.com (3960)</li>
-<li>outlook.office365.com (3955)</li>
+<li>outlook.office365.com (3958)</li>
 <li>docs.google.com (2643)</li>
 <li>duckduckgo.com (2518)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1525)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1356)</li>
-<li>login.microsoftonline.com (1153)</li>
+<li>www.linkedin.com (1357)</li>
+<li>login.microsoftonline.com (1154)</li>
 <li>www.amazon.co.uk (1050)</li>
 <li>calendar.google.com (1026)</li>
-<li>moodle.royalholloway.ac.uk (892)</li>
+<li>moodle.royalholloway.ac.uk (897)</li>
 <li>rhul-my.sharepoint.com (813)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (663)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:58 outlook.office365.com</li>
+<ul><li> 12:28 moodle.royalholloway.ac.uk</li>
+<li> 12:25 outlook.office365.com</li>
+<li class='same'> 12:24 outlook.office365.com</li>
+<li> 12:24 moodle.royalholloway.ac.uk</li>
+<li> 12:22 ev.turnitinuk.com</li>
+<li class='same'> 12:21 ev.turnitinuk.com</li>
+<li class='same'> 12:19 ev.turnitinuk.com</li>
+<li> 12:19 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:18 moodle.royalholloway.ac.uk</li>
+<li> 12:18 login.microsoftonline.com</li>
+<li> 12:18 moodle.royalholloway.ac.uk</li>
+<li> 12:14 www.linkedin.com</li>
+<li> 12:14 outlook.office365.com</li>
+<li class='same'> 11:58 outlook.office365.com</li>
 <li class='same'> 11:57 outlook.office365.com</li>
 <li class='same'> 11:53 outlook.office365.com</li>
 <li class='same'> 11:52 outlook.office365.com</li>
