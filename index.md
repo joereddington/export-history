@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4205)</li>
+<ol><li>mail.google.com (4206)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4016)</li>
-<li>outlook.office365.com (3962)</li>
+<li>outlook.office365.com (3963)</li>
 <li>www.google.com (3960)</li>
-<li>docs.google.com (2643)</li>
+<li>docs.google.com (2645)</li>
 <li>duckduckgo.com (2525)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1529)</li>
+<li>chatgpt.com (1533)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1360)</li>
 <li>login.microsoftonline.com (1161)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (648)</li>
 <li>chat.openai.com (634)</li>
 <li>tvtropes.org (630)</li>
-<li>herts.instructure.com (621)</li>
+<li>herts.instructure.com (624)</li>
 <li><a href="https://www.theguardian.com/uk">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a> (555)</li>
 <li>github.com (553)</li>
 <li>forms.office.com (513)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (435)</li>
 <li>rhul.sharepoint.com (378)</li>
 <li>fritz.box (359)</li>
-<li>adfs.herts.ac.uk (334)</li>
+<li>adfs.herts.ac.uk (336)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:45 mail.google.com</li>
+<ul><li> 18:23 ce0997li.webitrent.com</li>
+<li> 18:20 outlook.office365.com</li>
+<li> 18:15 chatgpt.com</li>
+<li class='same'> 18:14 chatgpt.com</li>
+<li class='same'> 18:13 chatgpt.com</li>
+<li class='same'> 18:12 chatgpt.com</li>
+<li> 18:12 docs.google.com</li>
+<li> 18:06 herts.instructure.com</li>
+<li> 18:05 docs.google.com</li>
+<li> 18:04 herts.instructure.com</li>
+<li> 18:04 adfs.herts.ac.uk</li>
+<li> 18:03 api-b6327e78.duosecurity.com</li>
+<li> 18:03 adfs.herts.ac.uk</li>
+<li> 18:03 herts.instructure.com</li>
+<li> 17:59 mail.google.com</li>
+<li class='same'> 17:45 mail.google.com</li>
 <li class='same'> 17:43 mail.google.com</li>
 <li> 17:43 gmail.com</li>
 <li> 17:43 chatgpt.com</li>
