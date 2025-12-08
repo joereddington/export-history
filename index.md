@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2643)</li>
 <li>duckduckgo.com (2522)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1525)</li>
+<li>chatgpt.com (1527)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1358)</li>
 <li>login.microsoftonline.com (1156)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (665)</li>
 <li>web.whatsapp.com (647)</li>
-<li>chat.openai.com (633)</li>
+<li>chat.openai.com (634)</li>
 <li>tvtropes.org (630)</li>
 <li>herts.instructure.com (621)</li>
 <li><a href="https://www.theguardian.com/uk">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a> (555)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (510)</li>
 <li>feedly.com (505)</li>
 <li>drive.google.com (434)</li>
-<li>rhul.sharepoint.com (376)</li>
+<li>rhul.sharepoint.com (377)</li>
 <li>fritz.box (359)</li>
 <li>adfs.herts.ac.uk (334)</li>
 
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:05 takeout.google.com</li>
+<ul><li> 15:22 chatgpt.com</li>
+<li class='same'> 15:21 chatgpt.com</li>
+<li> 15:21 chat.openai.com</li>
+<li> 15:15 rhul.sharepoint.com</li>
+<li> 15:05 takeout.google.com</li>
 <li> 15:05 takeout-download.usercontent.google.com</li>
 <li> 15:05 takeout.google.com</li>
 <li> 15:05 takeout-download.usercontent.google.com</li>
