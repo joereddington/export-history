@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4201)</li>
+<ol><li>mail.google.com (4203)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4016)</li>
-<li>www.google.com (3960)</li>
-<li>outlook.office365.com (3958)</li>
+<li>www.google.com (3961)</li>
+<li>outlook.office365.com (3959)</li>
 <li>docs.google.com (2643)</li>
-<li>duckduckgo.com (2518)</li>
+<li>duckduckgo.com (2522)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1525)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1357)</li>
-<li>login.microsoftonline.com (1154)</li>
+<li>www.linkedin.com (1358)</li>
+<li>login.microsoftonline.com (1156)</li>
 <li>www.amazon.co.uk (1050)</li>
 <li>calendar.google.com (1026)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
 <li>rhul-my.sharepoint.com (813)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (663)</li>
+<li>gmail.com (665)</li>
 <li>web.whatsapp.com (647)</li>
 <li>chat.openai.com (633)</li>
 <li>tvtropes.org (630)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (553)</li>
 <li>forms.office.com (510)</li>
 <li>feedly.com (505)</li>
-<li>drive.google.com (433)</li>
+<li>drive.google.com (434)</li>
 <li>rhul.sharepoint.com (376)</li>
 <li>fritz.box (359)</li>
 <li>adfs.herts.ac.uk (334)</li>
@@ -105,6 +105,52 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 08/12/25</H3>
+
+<br>
+
+<ul><li> 15:05 takeout.google.com</li>
+<li> 15:05 takeout-download.usercontent.google.com</li>
+<li> 15:05 takeout.google.com</li>
+<li> 15:05 takeout-download.usercontent.google.com</li>
+<li> 15:05 takeout.google.com</li>
+<li> 15:05 takeout-download.usercontent.google.com</li>
+<li> 15:05 takeout.google.com</li>
+<li> 15:05 accounts.google.com</li>
+<li> 15:05 takeout.google.com</li>
+<li> 15:05 accounts.google.com</li>
+<li> 15:05 takeout.google.com</li>
+<li> 15:05 www.google.com</li>
+<li> 15:05 takeout.google.com</li>
+<li> 15:05 accounts.google.com</li>
+<li> 15:05 mail.google.com</li>
+<li> 15:05 gmail.com</li>
+<li> 15:00 mail.google.com</li>
+<li> 15:00 gmail.com</li>
+<li> 15:00 drive.google.com</li>
+<li> 15:00 ce0997li.webitrent.com</li>
+<li> 15:00 login.microsoftonline.com</li>
+<li class='same'> 14:59 login.microsoftonline.com</li>
+<li> 14:59 www.hr.herts.ac.uk</li>
+<li> 14:53 www.google.co.uk</li>
+<li class='same'> 14:52 www.google.co.uk</li>
+<li> 14:52 duckduckgo.com</li>
+<li> 14:45 www.linkedin.com</li>
+<li> 14:42 tesco-bookings.qudini.com</li>
+<li> 14:42 www.tesco.com</li>
+<li> 14:42 duckduckgo.com</li>
+<li class='same'> 14:41 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:52 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:11 <a href="https://www.youtube.com/watch?v=oTugjssqOT0">Randy Pausch Lecture: Time Management - YouTube</a></li>
+<li> 13:11 duckduckgo.com</li>
+</ul>
 
 <br>
 
