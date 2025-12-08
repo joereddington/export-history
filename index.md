@@ -72,22 +72,22 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4013)</li>
 <li>www.google.com (3960)</li>
-<li>outlook.office365.com (3946)</li>
+<li>outlook.office365.com (3947)</li>
 <li>docs.google.com (2643)</li>
-<li>duckduckgo.com (2510)</li>
+<li>duckduckgo.com (2512)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1524)</li>
+<li>chatgpt.com (1525)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1354)</li>
-<li>login.microsoftonline.com (1147)</li>
+<li>login.microsoftonline.com (1150)</li>
 <li>www.amazon.co.uk (1050)</li>
 <li>calendar.google.com (1026)</li>
-<li>moodle.royalholloway.ac.uk (890)</li>
-<li>rhul-my.sharepoint.com (807)</li>
+<li>moodle.royalholloway.ac.uk (892)</li>
+<li>rhul-my.sharepoint.com (810)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (662)</li>
 <li>web.whatsapp.com (646)</li>
-<li>chat.openai.com (632)</li>
+<li>chat.openai.com (633)</li>
 <li>tvtropes.org (630)</li>
 <li>herts.instructure.com (621)</li>
 <li><a href="https://www.theguardian.com/uk">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a> (555)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (510)</li>
 <li>feedly.com (505)</li>
 <li>drive.google.com (433)</li>
-<li>rhul.sharepoint.com (370)</li>
+<li>rhul.sharepoint.com (372)</li>
 <li>fritz.box (359)</li>
 <li>adfs.herts.ac.uk (334)</li>
 
@@ -105,6 +105,34 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 08/12/25</H3>
+
+<br>
+
+<ul><li> 07:47 rhul-my.sharepoint.com</li>
+<li class='same'> 07:46 rhul-my.sharepoint.com</li>
+<li> 07:46 login.microsoftonline.com</li>
+<li> 07:46 rhul-my.sharepoint.com</li>
+<li> 07:28 moodle.royalholloway.ac.uk</li>
+<li> 07:28 login.microsoftonline.com</li>
+<li> 07:28 moodle.royalholloway.ac.uk</li>
+<li> 07:28 duckduckgo.com</li>
+<li> 07:27 intranet.royalholloway.ac.uk</li>
+<li> 07:27 duckduckgo.com</li>
+<li> 07:23 <a href="https://en.wikipedia.org/wiki/Eric_Thomas_(motivational_speaker)">Eric Thomas (motivational speaker) - Wikipedia</a></li>
+<li> 07:23 <a href="https://en.wikipedia.org/wiki/Alan_Turing_Memorial">Alan Turing Memorial - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Talk:61016">Talk:61016 - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/"></a></li>
+<li> 07:21 login.microsoftonline.com</li>
+<li> 07:21 outlook.office365.com</li>
+<li> 07:21 rhul.sharepoint.com</li>
+<li> 07:20 chatgpt.com</li>
+<li> 07:20 chat.openai.com</li>
+<li> 07:20 rhul.sharepoint.com</li>
+</ul>
 
 <br>
 
