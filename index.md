@@ -74,16 +74,16 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3960)</li>
 <li>outlook.office365.com (3947)</li>
 <li>docs.google.com (2643)</li>
-<li>duckduckgo.com (2512)</li>
+<li>duckduckgo.com (2517)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1525)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1354)</li>
-<li>login.microsoftonline.com (1150)</li>
+<li>login.microsoftonline.com (1151)</li>
 <li>www.amazon.co.uk (1050)</li>
 <li>calendar.google.com (1026)</li>
 <li>moodle.royalholloway.ac.uk (892)</li>
-<li>rhul-my.sharepoint.com (810)</li>
+<li>rhul-my.sharepoint.com (813)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (662)</li>
 <li>web.whatsapp.com (646)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 08/12/25</H3>
+
+<br>
+
+<ul><li> 09:46 rhul-my.sharepoint.com</li>
+<li class='same'> 09:42 rhul-my.sharepoint.com</li>
+<li> 09:42 login.microsoftonline.com</li>
+<li> 09:42 rhul-my.sharepoint.com</li>
+<li> 09:36 tesco-bookings.qudini.com</li>
+<li> 09:36 www.tesco.com</li>
+<li> 09:36 duckduckgo.com</li>
+<li class='same'> 09:21 duckduckgo.com</li>
+<li class='same'> 09:20 duckduckgo.com</li>
+<li class='same'> 09:19 duckduckgo.com</li>
+<li class='same'> 09:18 duckduckgo.com</li>
+</ul>
 
 <br>
 
