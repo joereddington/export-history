@@ -71,10 +71,10 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4203)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4016)</li>
-<li>www.google.com (3961)</li>
+<li>www.google.com (3960)</li>
 <li>outlook.office365.com (3959)</li>
 <li>docs.google.com (2643)</li>
-<li>duckduckgo.com (2524)</li>
+<li>duckduckgo.com (2525)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1527)</li>
 <li>www.facebook.com (1456)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (553)</li>
 <li>forms.office.com (510)</li>
 <li>feedly.com (505)</li>
-<li>drive.google.com (434)</li>
+<li>drive.google.com (435)</li>
 <li>rhul.sharepoint.com (377)</li>
 <li>fritz.box (359)</li>
 <li>adfs.herts.ac.uk (334)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:42 www.tandfonline.com</li>
+<ul><li> 15:57 ce0997li.webitrent.com</li>
+<li class='same'> 15:56 ce0997li.webitrent.com</li>
+<li> 15:55 drive.google.com</li>
+<li> 15:55 www.hr.herts.ac.uk</li>
+<li> 15:54 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
+<li> 15:54 <a href="https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html">You should have an Asked Questions list for your students | Joe Reddington</a></li>
+<li> 15:54 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 15:53 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 15:53 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
+<li> 15:50 charlesknight.co.uk</li>
+<li> 15:50 duckduckgo.com</li>
+<li> 15:49 www.advance-he.ac.uk</li>
+<li> 15:42 www.tandfonline.com</li>
 <li> 15:42 oro.open.ac.uk</li>
 <li> 15:35 duckduckgo.com</li>
 <li> 15:34 www.advance-he.ac.uk</li>
@@ -386,7 +398,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 20:36 www.advance-he.ac.uk</li>
-<li> 20:36 www.google.com</li>
 <li> 20:35 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
 </ul>
 
