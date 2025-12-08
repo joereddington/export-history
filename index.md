@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1527)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1358)</li>
-<li>login.microsoftonline.com (1156)</li>
+<li>login.microsoftonline.com (1159)</li>
 <li>www.amazon.co.uk (1050)</li>
 <li>calendar.google.com (1026)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (510)</li>
 <li>feedly.com (505)</li>
 <li>drive.google.com (435)</li>
-<li>rhul.sharepoint.com (377)</li>
+<li>rhul.sharepoint.com (378)</li>
 <li>fritz.box (359)</li>
 <li>adfs.herts.ac.uk (334)</li>
 
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:57 ce0997li.webitrent.com</li>
+<ul><li> 16:50 kdpreports.amazon.com</li>
+<li> 16:50 kdp.amazon.com</li>
+<li> 16:49 ce0997li.webitrent.com</li>
+<li class='same'> 16:48 ce0997li.webitrent.com</li>
+<li class='same'> 16:47 ce0997li.webitrent.com</li>
+<li> 16:44 rhul.sharepoint.com</li>
+<li> 16:37 herts365-my.sharepoint.com</li>
+<li> 16:37 login.microsoftonline.com</li>
+<li> 16:37 herts365-my.sharepoint.com</li>
+<li> 16:37 herts365.sharepoint.com</li>
+<li> 16:37 login.microsoftonline.com</li>
+<li> 16:37 herts365.sharepoint.com</li>
+<li> 16:37 m365.cloud.microsoft</li>
+<li> 16:37 login.microsoftonline.com</li>
+<li> 16:37 www.hr.herts.ac.uk</li>
+<li> 16:34 ce0997li.webitrent.com</li>
+<li class='same'> 16:32 ce0997li.webitrent.com</li>
+<li class='same'> 16:26 ce0997li.webitrent.com</li>
+<li class='same'> 16:25 ce0997li.webitrent.com</li>
+<li> 16:25 www.hr.herts.ac.uk</li>
+<li> 16:09 ce0997li.webitrent.com</li>
+<li class='same'> 16:03 ce0997li.webitrent.com</li>
+<li class='same'> 16:02 ce0997li.webitrent.com</li>
+<li class='same'> 15:57 ce0997li.webitrent.com</li>
 <li class='same'> 15:56 ce0997li.webitrent.com</li>
 <li> 15:55 drive.google.com</li>
 <li> 15:55 www.hr.herts.ac.uk</li>
