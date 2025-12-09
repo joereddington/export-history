@@ -70,8 +70,8 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4213)</li>
 <li>outlook.office.com (4085)</li>
-<li>www.reddit.com (4016)</li>
-<li>outlook.office365.com (3966)</li>
+<li>www.reddit.com (4021)</li>
+<li>outlook.office365.com (3967)</li>
 <li>www.google.com (3960)</li>
 <li>docs.google.com (2646)</li>
 <li>duckduckgo.com (2536)</li>
@@ -79,21 +79,21 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1552)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1372)</li>
-<li>login.microsoftonline.com (1164)</li>
+<li>login.microsoftonline.com (1165)</li>
 <li>www.amazon.co.uk (1057)</li>
-<li>calendar.google.com (1028)</li>
+<li>calendar.google.com (1030)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
-<li>rhul-my.sharepoint.com (813)</li>
+<li>rhul-my.sharepoint.com (816)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (668)</li>
-<li>web.whatsapp.com (649)</li>
+<li>web.whatsapp.com (651)</li>
 <li>chat.openai.com (636)</li>
 <li>tvtropes.org (630)</li>
 <li>herts.instructure.com (624)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (556)</li>
 <li>github.com (553)</li>
 <li>forms.office.com (513)</li>
-<li>feedly.com (511)</li>
+<li>feedly.com (512)</li>
 <li>drive.google.com (437)</li>
 <li>rhul.sharepoint.com (378)</li>
 <li>fritz.box (364)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:24 chatgpt.com</li>
+<ul><li> 13:24 www.reddit.com</li>
+<li> 13:07 web.whatsapp.com</li>
+<li class='same'> 12:59 web.whatsapp.com</li>
+<li> 12:58 calendar.google.com</li>
+<li class='same'> 12:57 calendar.google.com</li>
+<li> 12:55 rhul-my.sharepoint.com</li>
+<li> 12:55 login.microsoftonline.com</li>
+<li> 12:55 rhul-my.sharepoint.com</li>
+<li class='same'> 12:54 rhul-my.sharepoint.com</li>
+<li> 12:54 outlook.office365.com</li>
+<li> 12:49 www.reddit.com</li>
+<li class='same'> 12:48 www.reddit.com</li>
+<li class='same'> 12:46 www.reddit.com</li>
+<li class='same'> 12:45 www.reddit.com</li>
+<li> 12:36 feedly.com</li>
+<li> 12:24 chatgpt.com</li>
 <li> 12:24 chat.openai.com</li>
 <li> 12:17 <a href="https://en.wikipedia.org/wiki/While_loop">While loop - Wikipedia</a></li>
 <li> 12:16 <a href="https://en.wikipedia.org/wiki/Talk:While_loop">Talk:While loop - Wikipedia</a></li>
