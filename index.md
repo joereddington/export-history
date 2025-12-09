@@ -76,12 +76,12 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2645)</li>
 <li>duckduckgo.com (2530)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1537)</li>
+<li>chatgpt.com (1539)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1364)</li>
-<li>login.microsoftonline.com (1165)</li>
-<li>www.amazon.co.uk (1050)</li>
-<li>calendar.google.com (1027)</li>
+<li>www.linkedin.com (1365)</li>
+<li>login.microsoftonline.com (1164)</li>
+<li>www.amazon.co.uk (1054)</li>
+<li>calendar.google.com (1028)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
 <li>rhul-my.sharepoint.com (813)</li>
 <li>www.theguardian.com (685)</li>
@@ -93,10 +93,10 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a> (555)</li>
 <li>github.com (553)</li>
 <li>forms.office.com (513)</li>
-<li>feedly.com (505)</li>
+<li>feedly.com (509)</li>
 <li>drive.google.com (435)</li>
 <li>rhul.sharepoint.com (378)</li>
-<li>fritz.box (360)</li>
+<li>fritz.box (363)</li>
 <li>adfs.herts.ac.uk (336)</li>
 
 
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:56 calendar.google.com</li>
+<ul><li> 07:47 www.amazon.co.uk</li>
+<li> 07:47 calendar.google.com</li>
+<li> 07:47 www.amazon.co.uk</li>
+<li class='same'> 07:46 www.amazon.co.uk</li>
+<li> 07:39 adblockplus.org</li>
+<li> 07:39 www.amazon.co.uk</li>
+<li> 07:29 fritz.box</li>
+<li> 07:25 feedly.com</li>
+<li> 07:24 www.giantitp.com</li>
+<li> 07:24 feedly.com</li>
+<li class='same'> 07:23 feedly.com</li>
+<li> 07:22 www.wired.com</li>
+<li> 07:18 feedly.com</li>
+<li> 07:18 www.linkedin.com</li>
+<li> 07:09 fritz.box</li>
+<li class='same'> 07:08 fritz.box</li>
+<li> 07:08 chatgpt.com</li>
+<li class='same'> 07:07 chatgpt.com</li>
+<li> 06:56 calendar.google.com</li>
 <li> 06:56 herts365-my.sharepoint.com</li>
 <li> 06:55 ce0997li.webitrent.com</li>
 <li> 06:55 login.microsoftonline.com</li>
@@ -17592,7 +17610,6 @@ With number of accesses/minutes in parentheses
 <li> 09:02 ev.turnitinuk.com</li>
 <li> 09:02 herts.instructure.com</li>
 <li> 08:58 outlook.office365.com</li>
-<li> 08:58 login.microsoftonline.com</li>
 <li> 08:49 medium.com</li>
 <li> 08:48 ev.turnitinuk.com</li>
 <li> 08:48 herts.instructure.com</li>
