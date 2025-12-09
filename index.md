@@ -78,10 +78,10 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1537)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1362)</li>
-<li>login.microsoftonline.com (1163)</li>
+<li>www.linkedin.com (1364)</li>
+<li>login.microsoftonline.com (1165)</li>
 <li>www.amazon.co.uk (1050)</li>
-<li>calendar.google.com (1026)</li>
+<li>calendar.google.com (1027)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
 <li>rhul-my.sharepoint.com (813)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:45 <a href="https://en.wikipedia.org/wiki/Margaret_Mitchell_(scientist)">Margaret Mitchell (scientist) - Wikipedia</a></li>
+<ul><li> 06:56 calendar.google.com</li>
+<li> 06:56 herts365-my.sharepoint.com</li>
+<li> 06:55 ce0997li.webitrent.com</li>
+<li> 06:55 login.microsoftonline.com</li>
+<li> 06:55 www.hr.herts.ac.uk</li>
+<li> 06:55 login.microsoftonline.com</li>
+<li> 06:47 www.linkedin.com</li>
+<li class='same'> 06:46 www.linkedin.com</li>
+<li> 06:45 <a href="https://en.wikipedia.org/wiki/Margaret_Mitchell_(scientist)">Margaret Mitchell (scientist) - Wikipedia</a></li>
 <li> 06:45 <a href="https://en.wikipedia.org/wiki/Talk:Margaret_Mitchell_(scientist)">Talk:Margaret Mitchell (scientist) - Wikipedia</a></li>
 <li> 06:44 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 06:44 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
