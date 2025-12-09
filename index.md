@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4208)</li>
+<ol><li>mail.google.com (4209)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4016)</li>
 <li>outlook.office365.com (3966)</li>
 <li>www.google.com (3960)</li>
 <li>docs.google.com (2645)</li>
-<li>duckduckgo.com (2534)</li>
+<li>duckduckgo.com (2535)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1543)</li>
+<li>chatgpt.com (1551)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1370)</li>
 <li>login.microsoftonline.com (1164)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (667)</li>
 <li>web.whatsapp.com (648)</li>
-<li>chat.openai.com (634)</li>
+<li>chat.openai.com (635)</li>
 <li>tvtropes.org (630)</li>
 <li>herts.instructure.com (624)</li>
 <li><a href="https://www.theguardian.com/uk">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a> (555)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (511)</li>
 <li>drive.google.com (435)</li>
 <li>rhul.sharepoint.com (378)</li>
-<li>fritz.box (363)</li>
+<li>fritz.box (364)</li>
 <li>adfs.herts.ac.uk (336)</li>
 
 
@@ -108,7 +108,48 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:40 platform.tuya.com</li>
+<ul><li> 11:28 platform.tuya.com</li>
+<li class='same'> 11:27 platform.tuya.com</li>
+<li> 11:22 fritz.box</li>
+<li> 11:09 developer.tuya.com</li>
+<li> 11:09 platform.tuya.com</li>
+<li class='same'> 11:08 platform.tuya.com</li>
+<li> 11:08 eu.platform.tuya.com</li>
+<li> 11:08 chatgpt.com</li>
+<li class='same'> 11:07 chatgpt.com</li>
+<li> 11:07 chat.openai.com</li>
+<li> 11:03 chatgpt.com</li>
+<li class='same'> 11:02 chatgpt.com</li>
+<li class='same'> 10:58 chatgpt.com</li>
+<li class='same'> 10:57 chatgpt.com</li>
+<li> 10:52 eu.platform.tuya.com</li>
+<li> 10:52 platform.tuya.com</li>
+<li> 10:52 eu.platform.tuya.com</li>
+<li> 10:52 platform.tuya.com</li>
+<li class='same'> 10:51 platform.tuya.com</li>
+<li> 10:51 auth.tuya.com</li>
+<li> 10:46 chatgpt.com</li>
+<li> 10:46 photos.google.com</li>
+<li> 10:45 accounts.google.com</li>
+<li> 10:45 photos.google.com</li>
+<li> 10:44 chatgpt.com</li>
+<li> 10:44 photos.google.com</li>
+<li class='same'> 10:43 photos.google.com</li>
+<li class='same'> 10:42 photos.google.com</li>
+<li class='same'> 10:41 photos.google.com</li>
+<li> 10:41 duckduckgo.com</li>
+<li> 10:35 eu.platform.tuya.com</li>
+<li class='same'> 10:34 eu.platform.tuya.com</li>
+<li> 10:34 platform.tuya.com</li>
+<li> 10:34 eu.platform.tuya.com</li>
+<li> 10:33 platform.tuya.com</li>
+<li> 10:32 mail.google.com</li>
+<li> 10:31 platform.tuya.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:40 platform.tuya.com</li>
 <li class='same'> 09:39 platform.tuya.com</li>
 <li> 09:39 mail.google.com</li>
 <li> 09:39 www.linkedin.com</li>
@@ -79888,7 +79929,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:40 photos.google.com</li>
 <li> 13:40 chatgpt.com</li>
 <li> 13:21 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
-<li> 13:11 photos.google.com</li>
+<li> 13:16 photos.google.com</li>
+<li class='same'> 13:11 photos.google.com</li>
 </ul>
 
 <H3>Tuesday, 13/08/24</H3>
