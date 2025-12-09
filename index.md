@@ -74,11 +74,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3967)</li>
 <li>www.google.com (3960)</li>
 <li>docs.google.com (2646)</li>
-<li>duckduckgo.com (2536)</li>
+<li>duckduckgo.com (2537)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1553)</li>
+<li>chatgpt.com (1554)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1372)</li>
+<li>www.linkedin.com (1375)</li>
 <li>login.microsoftonline.com (1165)</li>
 <li>www.amazon.co.uk (1057)</li>
 <li>calendar.google.com (1030)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (816)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (668)</li>
-<li>web.whatsapp.com (651)</li>
+<li>web.whatsapp.com (652)</li>
 <li>chat.openai.com (637)</li>
 <li>tvtropes.org (630)</li>
 <li>herts.instructure.com (624)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:37 chatgpt.com</li>
+<ul><li> 16:20 chatgpt.com</li>
+<li> 16:17 www.linkedin.com</li>
+<li class='same'> 16:16 www.linkedin.com</li>
+<li class='same'> 16:15 www.linkedin.com</li>
+<li> 16:06 web.whatsapp.com</li>
+<li> 16:03 <a href="https://en.wikipedia.org/wiki/Talk:6-7_(meme)">Talk:6-7 (meme) - Wikipedia</a></li>
+<li> 16:03 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:03 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:03 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 13:53 <a href="https://en.wikipedia.org/wiki/Web_2.0">Web 2.0 - Wikipedia</a></li>
+<li> 13:53 duckduckgo.com</li>
+<li> 13:37 chatgpt.com</li>
 <li> 13:37 chat.openai.com</li>
 <li> 13:24 www.reddit.com</li>
 <li> 13:07 web.whatsapp.com</li>
