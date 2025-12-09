@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4206)</li>
+<ol><li>mail.google.com (4208)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4016)</li>
 <li>outlook.office365.com (3966)</li>
 <li>www.google.com (3960)</li>
 <li>docs.google.com (2645)</li>
-<li>duckduckgo.com (2533)</li>
+<li>duckduckgo.com (2534)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1543)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1367)</li>
+<li>www.linkedin.com (1370)</li>
 <li>login.microsoftonline.com (1164)</li>
 <li>www.amazon.co.uk (1054)</li>
 <li>calendar.google.com (1028)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
 <li>rhul-my.sharepoint.com (813)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (666)</li>
+<li>gmail.com (667)</li>
 <li>web.whatsapp.com (648)</li>
 <li>chat.openai.com (634)</li>
 <li>tvtropes.org (630)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:27 libbyapp.com</li>
+<ul><li> 09:40 platform.tuya.com</li>
+<li class='same'> 09:39 platform.tuya.com</li>
+<li> 09:39 mail.google.com</li>
+<li> 09:39 www.linkedin.com</li>
+<li class='same'> 09:38 www.linkedin.com</li>
+<li class='same'> 09:37 www.linkedin.com</li>
+<li> 09:37 www.tuya.com</li>
+<li> 09:36 auth.tuya.com</li>
+<li> 09:36 mail.google.com</li>
+<li> 09:36 gmail.com</li>
+<li> 09:35 auth.tuya.com</li>
+<li> 09:35 www.tuya.com</li>
+<li> 09:30 duckduckgo.com</li>
+<li> 09:27 libbyapp.com</li>
 <li> 09:23 auth.tuya.com</li>
 <li> 09:23 www.tuya.com</li>
 <li> 09:19 chatgpt.com</li>
