@@ -74,9 +74,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3966)</li>
 <li>www.google.com (3960)</li>
 <li>docs.google.com (2645)</li>
-<li>duckduckgo.com (2532)</li>
+<li>duckduckgo.com (2533)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1540)</li>
+<li>chatgpt.com (1543)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1367)</li>
 <li>login.microsoftonline.com (1164)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:17 feedly.com</li>
+<ul><li> 09:27 libbyapp.com</li>
+<li> 09:23 auth.tuya.com</li>
+<li> 09:23 www.tuya.com</li>
+<li> 09:19 chatgpt.com</li>
+<li> 09:19 www.wireshark.org</li>
+<li> 09:19 duckduckgo.com</li>
+<li> 09:19 chatgpt.com</li>
+<li class='same'> 09:18 chatgpt.com</li>
+<li> 09:17 feedly.com</li>
 <li> 09:17 www.linkedin.com</li>
 <li> 09:16 blackhat.com</li>
 <li class='same'> 09:15 blackhat.com</li>
