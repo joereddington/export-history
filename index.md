@@ -104,11 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 09/12/25</H3>
+
+<br>
+
+<ul><li> 06:45 <a href="https://en.wikipedia.org/wiki/Margaret_Mitchell_(scientist)">Margaret Mitchell (scientist) - Wikipedia</a></li>
+<li> 06:45 <a href="https://en.wikipedia.org/wiki/Talk:Margaret_Mitchell_(scientist)">Talk:Margaret Mitchell (scientist) - Wikipedia</a></li>
+<li> 06:44 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:44 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:44 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:44 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Talk:Dinotrux - Wikipedia</a></li>
+<li> 06:44 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Dinotrux&action=edit">Editing Talk:Dinotrux - Wikipedia</a></li>
+</ul>
+
 <H3>Monday, 08/12/25</H3>
 
 <br>
 
-<ul><li> 20:24 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Replying on Talk:Dinotrux - Wikipedia</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:24 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Talk:Dinotrux - Wikipedia</a></li>
 <li> 20:23 <a href="https://en.wikipedia.org/wiki/Dinotrux">Dinotrux - Wikipedia</a></li>
 <li> 20:23 duckduckgo.com</li>
 <li> 20:23 www.whats-on-netflix.com</li>
@@ -130,7 +147,7 @@ With number of accesses/minutes in parentheses
 <li> 20:16 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 20:16 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
 <li> 20:16 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
-<li> 20:16 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Replying on Talk:Dinotrux - Wikipedia</a></li>
+<li> 20:16 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Talk:Dinotrux - Wikipedia</a></li>
 <li> 20:15 chatgpt.com</li>
 <li> 20:15 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=edit">Dinotrux - Wikipedia</a></li>
 <li> 20:14 <a href="https://en.wikipedia.org/wiki/Dinotrux">Dinotrux - Wikipedia</a></li>
@@ -1528,7 +1545,7 @@ With number of accesses/minutes in parentheses
 <li> 10:04 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 10:03 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 10:03 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 10:03 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Replying on Talk:Dinotrux - Wikipedia</a></li>
+<li> 10:03 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Talk:Dinotrux - Wikipedia</a></li>
 <li> 10:03 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux/GA1">Talk:Dinotrux/GA1 - Wikipedia</a></li>
 <li> 10:00 <a href="https://en.wikipedia.org/wiki/Wikipedia:Reviewing_good_articles">Wikipedia:Reviewing good articles - Wikipedia</a></li>
 <li> 10:00 <a href="https://en.wikipedia.org/wiki/Wikipedia:RGA">Wikipedia:Reviewing good articles - Wikipedia</a></li>
@@ -1553,14 +1570,14 @@ With number of accesses/minutes in parentheses
 <li> 09:02 <a href="https://xkcd.com/3173/">xkcd: Satellite Imagery</a></li>
 <li> 09:02 <a href="https://xkcd.com/">xkcd: Bridge Clearance</a></li>
 <li> 09:01 qbo.intuit.com</li>
-<li> 08:58 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Replying on Talk:Dinotrux - Wikipedia</a></li>
+<li> 08:58 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Talk:Dinotrux - Wikipedia</a></li>
 <li> 08:58 <a href="https://en.wikipedia.org/wiki/Dinotrux?action=edit&veswitched=1">Editing Dinotrux - Wikipedia</a></li>
 <li> 08:58 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=edit">Dinotrux - Wikipedia</a></li>
 <li> 08:58 <a href="https://en.wikipedia.org/wiki/Dinotrux">Dinotrux - Wikipedia</a></li>
 <li> 08:58 chatgpt.com</li>
 <li class='same'> 08:57 chatgpt.com</li>
 <li> 08:57 chat.openai.com</li>
-<li> 08:57 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Replying on Talk:Dinotrux - Wikipedia</a></li>
+<li> 08:57 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Talk:Dinotrux - Wikipedia</a></li>
 <li> 08:57 <a href="https://en.wikipedia.org/wiki/Dinotrux">Dinotrux - Wikipedia</a></li>
 <li> 08:57 <a href="https://en.wikipedia.org/w/index.php?title=Dinotrux&action=edit&section=1">Editing Dinotrux - Wikipedia</a></li>
 <li> 08:57 <a href="https://en.wikipedia.org/wiki/Talk:Security_hacker">Talk:Security hacker - Wikipedia</a></li>
@@ -2609,7 +2626,7 @@ With number of accesses/minutes in parentheses
 <li> 13:59 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 13:59 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 13:54 <a href="https://en.wikipedia.org/wiki/30_Rock#Episodes">30 Rock - Wikipedia</a></li>
-<li> 13:54 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Replying on Talk:Dinotrux - Wikipedia</a></li>
+<li> 13:54 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Talk:Dinotrux - Wikipedia</a></li>
 <li> 13:54 <a href="https://en.wikipedia.org/wiki/Dinotrux">Dinotrux - Wikipedia</a></li>
 <li> 13:54 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 13:54 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
