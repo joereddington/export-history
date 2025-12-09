@@ -70,27 +70,27 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4213)</li>
 <li>outlook.office.com (4085)</li>
-<li>www.reddit.com (4026)</li>
-<li>outlook.office365.com (3967)</li>
+<li>www.reddit.com (4027)</li>
+<li>outlook.office365.com (3971)</li>
 <li>www.google.com (3960)</li>
 <li>docs.google.com (2646)</li>
 <li>duckduckgo.com (2537)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1556)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1375)</li>
-<li>login.microsoftonline.com (1165)</li>
+<li>www.linkedin.com (1376)</li>
+<li>login.microsoftonline.com (1166)</li>
 <li>www.amazon.co.uk (1057)</li>
 <li>calendar.google.com (1030)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
 <li>rhul-my.sharepoint.com (816)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (668)</li>
-<li>web.whatsapp.com (652)</li>
+<li>web.whatsapp.com (653)</li>
 <li>chat.openai.com (637)</li>
 <li>tvtropes.org (630)</li>
 <li>herts.instructure.com (624)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (556)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (557)</li>
 <li>github.com (553)</li>
 <li>forms.office.com (513)</li>
 <li>feedly.com (512)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:32 <a href="https://en.wikipedia.org/w/index.php?title=Chor_Boogie&action=history">Chor Boogie: Revision history - Wikipedia</a></li>
+<ul><li> 18:28 www.reddit.com</li>
+<li> 18:26 <a href="https://www.theguardian.com/football/2025/dec/09/tottenham-pride-flag-moved-slavia-prague-request-security-grounds">Tottenham’s Pride flag moved on ‘security grounds’ after Slavia Prague request | Tottenham Hotspur | The Guardian</a></li>
+<li> 18:25 <a href="https://www.theguardian.com/world/2025/dec/09/nobel-peace-prize-maria-corina-machado-venezuela-oslo">Oslo appearance by Nobel peace prize winner María Corina Machado cancelled | Nobel peace prize | The Guardian</a></li>
+<li> 18:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:24 outlook.office365.com</li>
+<li class='same'> 18:20 outlook.office365.com</li>
+<li class='same'> 18:04 outlook.office365.com</li>
+<li> 18:04 login.microsoftonline.com</li>
+<li> 18:04 outlook.office365.com</li>
+<li> 17:37 www.linkedin.com</li>
+<li> 17:37 web.whatsapp.com</li>
+<li> 17:34 <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Medical_data_breach">Wikipedia:Articles for deletion/Medical data breach - Wikipedia</a></li>
+<li> 17:34 <a href="https://en.wikipedia.org/wiki/Police_Service_of_Northern_Ireland">Police Service of Northern Ireland - Wikipedia</a></li>
+<li> 17:34 <a href="https://en.wikipedia.org/wiki/Donaldism">Donaldism - Wikipedia</a></li>
+<li> 17:34 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:34 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:34 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:33 <a href="https://en.wikipedia.org/wiki/Nick_Bouras">Nick Bouras - Wikipedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/w/index.php?title=Chor_Boogie&action=history">Chor Boogie: Revision history - Wikipedia</a></li>
 <li> 17:31 <a href="https://en.wikipedia.org/wiki/Chor_Boogie">Chor Boogie - Wikipedia</a></li>
 <li> 17:30 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&diff=1309546158&oldid=1309521286">Misfits Boxing: Difference between revisions - Wikipedia</a></li>
 <li> 17:29 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&action=history&offset=&limit=500">Misfits Boxing: Revision history - Wikipedia</a></li>
@@ -77726,6 +77744,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:55 www.goodreads.com</li>
 <li> 06:54 www.natesilver.net</li>
 <li> 06:31 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 06:31 <a href="https://en.wikipedia.org/wiki/Police_Service_of_Northern_Ireland">Police Service of Northern Ireland - Wikipedia</a></li>
+<li class='same'> 06:26 <a href="https://en.wikipedia.org/wiki/Police_Service_of_Northern_Ireland">Police Service of Northern Ireland - Wikipedia</a></li>
+<li class='same'> 06:23 <a href="https://en.wikipedia.org/wiki/Police_Service_of_Northern_Ireland">Police Service of Northern Ireland - Wikipedia</a></li>
 <li> 06:23 ico.org.uk</li>
 <li> 06:22 <a href="https://en.wikipedia.org/wiki/2024_National_Public_Data_breach">2024 National Public Data breach - Wikipedia</a></li>
 <li> 06:19 <a href="https://en.wikipedia.org/wiki/Talk:List_of_data_breaches">Talk:List of data breaches - Wikipedia</a></li>
