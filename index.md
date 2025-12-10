@@ -76,10 +76,10 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2646)</li>
 <li>duckduckgo.com (2538)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1557)</li>
+<li>chatgpt.com (1558)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1376)</li>
-<li>login.microsoftonline.com (1166)</li>
+<li>login.microsoftonline.com (1167)</li>
 <li>www.amazon.co.uk (1056)</li>
 <li>calendar.google.com (1031)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
@@ -88,8 +88,8 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (668)</li>
 <li>web.whatsapp.com (654)</li>
 <li>chat.openai.com (638)</li>
+<li>herts.instructure.com (632)</li>
 <li>tvtropes.org (630)</li>
-<li>herts.instructure.com (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (557)</li>
 <li>github.com (553)</li>
 <li>forms.office.com (513)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:31 herts.instructure.com</li>
+<ul><li> 12:05 fast.com</li>
+<li> 11:48 herts365-my.sharepoint.com</li>
+<li> 11:40 herts.instructure.com</li>
+<li class='same'> 11:39 herts.instructure.com</li>
+<li> 11:37 chatgpt.com</li>
+<li> 11:36 herts365-my.sharepoint.com</li>
+<li class='same'> 11:35 herts365-my.sharepoint.com</li>
+<li class='same'> 11:34 herts365-my.sharepoint.com</li>
+<li> 11:33 <a href="https://en.wikipedia.org/wiki/Data_center">Data center - Wikipedia</a></li>
+<li> 11:33 <a href="https://en.wikipedia.org/wiki/Data_centre">Data center - Wikipedia</a></li>
+<li> 11:33 m365.cloud.microsoft</li>
+<li> 11:33 login.microsoftonline.com</li>
+<li> 11:31 herts.instructure.com</li>
 <li> 11:30 <a href="https://en.wikipedia.org/wiki/AI_datacenter">AI datacenter - Wikipedia</a></li>
 <li> 11:28 <a href="https://en.wikipedia.org/wiki/Data_center">Data center - Wikipedia</a></li>
 <li> 11:28 duckduckgo.com</li>
