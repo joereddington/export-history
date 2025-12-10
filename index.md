@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4213)</li>
 <li>outlook.office.com (4085)</li>
-<li>www.reddit.com (4030)</li>
+<li>www.reddit.com (4038)</li>
 <li>outlook.office365.com (3971)</li>
 <li>www.google.com (3963)</li>
 <li>docs.google.com (2646)</li>
@@ -78,22 +78,22 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1558)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1376)</li>
+<li>www.linkedin.com (1379)</li>
 <li>login.microsoftonline.com (1167)</li>
 <li>www.amazon.co.uk (1056)</li>
-<li>calendar.google.com (1031)</li>
+<li>calendar.google.com (1032)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
 <li>rhul-my.sharepoint.com (816)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (668)</li>
-<li>web.whatsapp.com (654)</li>
+<li>web.whatsapp.com (656)</li>
 <li>chat.openai.com (638)</li>
 <li>herts.instructure.com (632)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (557)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (559)</li>
 <li>github.com (553)</li>
+<li>feedly.com (513)</li>
 <li>forms.office.com (513)</li>
-<li>feedly.com (512)</li>
 <li>drive.google.com (437)</li>
 <li>rhul.sharepoint.com (378)</li>
 <li>fritz.box (364)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:05 fast.com</li>
+<ul><li> 13:00 web.whatsapp.com</li>
+<li> 12:58 feedly.com</li>
+<li> 12:56 www.linkedin.com</li>
+<li> 12:55 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&curid=72265310&diff=1326710505&oldid=1326585563">Misfits Boxing: Difference between revisions - Wikipedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 12:55 <a href="https://en.wikipedia.org/"></a></li>
+<li> 12:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:52 <a href="https://www.theguardian.com/tv-and-radio/2025/dec/10/hidden-life-of-matthew-perry">The hidden life of Matthew Perry: ‘He would say: I need to stop and get help’ | Matthew Perry | The Guardian</a></li>
+<li> 12:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:51 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 12:50 webtimetables.royalholloway.ac.uk</li>
+<li> 12:50 web.whatsapp.com</li>
+<li> 12:50 www.linkedin.com</li>
+<li class='same'> 12:49 www.linkedin.com</li>
+<li> 12:49 www.reddit.com</li>
+<li class='same'> 12:48 www.reddit.com</li>
+<li class='same'> 12:47 www.reddit.com</li>
+<li class='same'> 12:46 www.reddit.com</li>
+<li class='same'> 12:45 www.reddit.com</li>
+<li class='same'> 12:44 www.reddit.com</li>
+<li class='same'> 12:42 www.reddit.com</li>
+<li class='same'> 12:41 www.reddit.com</li>
+<li> 12:26 calendar.google.com</li>
+<li> 12:05 fast.com</li>
 <li> 11:48 herts365-my.sharepoint.com</li>
 <li> 11:40 herts.instructure.com</li>
 <li class='same'> 11:39 herts.instructure.com</li>
