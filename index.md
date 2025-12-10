@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4213)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4042)</li>
-<li>outlook.office365.com (3979)</li>
+<li>outlook.office365.com (3984)</li>
 <li>www.google.com (3963)</li>
 <li>docs.google.com (2646)</li>
 <li>duckduckgo.com (2538)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:23 outlook.office365.com</li>
+<ul><li> 16:39 outlook.office365.com</li>
+<li class='same'> 16:34 outlook.office365.com</li>
+<li class='same'> 16:32 outlook.office365.com</li>
+<li class='same'> 16:29 outlook.office365.com</li>
+<li class='same'> 16:28 outlook.office365.com</li>
+<li class='same'> 16:23 outlook.office365.com</li>
 <li class='same'> 16:21 outlook.office365.com</li>
 <li class='same'> 16:19 outlook.office365.com</li>
 <li> 16:13 herts.instructure.com</li>
