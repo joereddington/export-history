@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4213)</li>
 <li>outlook.office.com (4085)</li>
-<li>www.reddit.com (4040)</li>
-<li>outlook.office365.com (3971)</li>
+<li>www.reddit.com (4042)</li>
+<li>outlook.office365.com (3979)</li>
 <li>www.google.com (3963)</li>
 <li>docs.google.com (2646)</li>
 <li>duckduckgo.com (2538)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1559)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1381)</li>
+<li>www.linkedin.com (1382)</li>
 <li>login.microsoftonline.com (1167)</li>
 <li>www.amazon.co.uk (1056)</li>
 <li>calendar.google.com (1032)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (668)</li>
 <li>web.whatsapp.com (656)</li>
 <li>chat.openai.com (639)</li>
-<li>herts.instructure.com (632)</li>
+<li>herts.instructure.com (633)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (561)</li>
 <li>github.com (553)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:17 www.linkedin.com</li>
+<ul><li> 16:23 outlook.office365.com</li>
+<li class='same'> 16:21 outlook.office365.com</li>
+<li class='same'> 16:19 outlook.office365.com</li>
+<li> 16:13 herts.instructure.com</li>
+<li> 16:12 www.hr.herts.ac.uk</li>
+<li> 16:09 outlook.office365.com</li>
+<li class='same'> 16:08 outlook.office365.com</li>
+<li class='same'> 16:04 outlook.office365.com</li>
+<li class='same'> 16:03 outlook.office365.com</li>
+<li class='same'> 16:02 outlook.office365.com</li>
+<li> 16:01 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:19 www.reddit.com</li>
+<li class='same'> 14:18 www.reddit.com</li>
+<li> 14:17 www.linkedin.com</li>
 <li class='same'> 14:16 www.linkedin.com</li>
 <li> 14:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 14:16 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
