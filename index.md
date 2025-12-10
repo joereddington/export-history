@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4213)</li>
 <li>outlook.office.com (4085)</li>
-<li>www.reddit.com (4038)</li>
+<li>www.reddit.com (4040)</li>
 <li>outlook.office365.com (3971)</li>
 <li>www.google.com (3963)</li>
 <li>docs.google.com (2646)</li>
 <li>duckduckgo.com (2538)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1558)</li>
+<li>chatgpt.com (1559)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1379)</li>
+<li>www.linkedin.com (1381)</li>
 <li>login.microsoftonline.com (1167)</li>
 <li>www.amazon.co.uk (1056)</li>
 <li>calendar.google.com (1032)</li>
@@ -87,12 +87,12 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (668)</li>
 <li>web.whatsapp.com (656)</li>
-<li>chat.openai.com (638)</li>
+<li>chat.openai.com (639)</li>
 <li>herts.instructure.com (632)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (559)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (561)</li>
 <li>github.com (553)</li>
-<li>feedly.com (513)</li>
+<li>feedly.com (514)</li>
 <li>forms.office.com (513)</li>
 <li>drive.google.com (437)</li>
 <li>rhul.sharepoint.com (378)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:00 web.whatsapp.com</li>
+<ul><li> 14:17 www.linkedin.com</li>
+<li class='same'> 14:16 www.linkedin.com</li>
+<li> 14:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:16 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
+<li> 14:16 chatgpt.com</li>
+<li> 14:16 chat.openai.com</li>
+<li> 14:16 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:16 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
+<li> 14:16 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:16 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:16 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:16 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:16 <a href="https://en.wikipedia.org/"></a></li>
+<li> 14:14 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:11 www.reddit.com</li>
+<li> 13:09 feedly.com</li>
+<li> 13:00 web.whatsapp.com</li>
 <li> 12:58 feedly.com</li>
 <li> 12:56 www.linkedin.com</li>
 <li> 12:55 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&curid=72265310&diff=1326710505&oldid=1326585563">Misfits Boxing: Difference between revisions - Wikipedia</a></li>
