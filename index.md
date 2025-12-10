@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4213)</li>
 <li>outlook.office.com (4085)</li>
-<li>www.reddit.com (4027)</li>
+<li>www.reddit.com (4028)</li>
 <li>outlook.office365.com (3971)</li>
 <li>www.google.com (3960)</li>
 <li>docs.google.com (2646)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1376)</li>
 <li>login.microsoftonline.com (1166)</li>
-<li>www.amazon.co.uk (1057)</li>
+<li>www.amazon.co.uk (1056)</li>
 <li>calendar.google.com (1030)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
 <li>rhul-my.sharepoint.com (816)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 09/12/25</H3>
+
+<br>
+
+<ul><li> 20:21 www.reddit.com</li>
+<li> 20:00 test.com</li>
+</ul>
 
 <br>
 
@@ -17536,22 +17542,14 @@ With number of accesses/minutes in parentheses
 <li> 14:20 www.google.co.uk</li>
 <li class='same'> 14:16 www.google.co.uk</li>
 <li class='same'> 14:15 www.google.co.uk</li>
-<li class='same'> 14:14 www.google.co.uk</li>
 <li> 14:12 chatgpt.com</li>
-<li> 14:11 www.google.co.uk</li>
-<li class='same'> 14:10 www.google.co.uk</li>
-<li class='same'> 14:09 www.google.co.uk</li>
+<li> 14:09 www.google.co.uk</li>
 <li> 14:09 www.booking.com</li>
-<li> 14:09 www.thetrainline.com</li>
-<li> 14:09 www.booking.com</li>
-<li> 14:09 www.thetrainline.com</li>
-<li class='same'> 14:07 www.thetrainline.com</li>
+<li> 14:07 www.thetrainline.com</li>
 <li> 14:06 duckduckgo.com</li>
 <li> 14:05 <a href="https://en.wikipedia.org/wiki/Royal_Albert_Hospital">Royal Albert Hospital - Wikipedia</a></li>
 <li> 14:05 duckduckgo.com</li>
-<li> 14:05 www.europcar.co.uk</li>
-<li class='same'> 14:04 www.europcar.co.uk</li>
-<li class='same'> 14:03 www.europcar.co.uk</li>
+<li> 14:03 www.europcar.co.uk</li>
 <li> 14:03 duckduckgo.com</li>
 <li> 14:01 ev.turnitinuk.com</li>
 <li> 14:01 herts.instructure.com</li>
@@ -17561,8 +17559,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:53 www.amazon.co.uk</li>
 <li> 13:53 docs.google.com</li>
 <li> 13:53 libbysearch.com</li>
-<li> 13:53 www.amazon.co.uk</li>
-<li class='same'> 13:52 www.amazon.co.uk</li>
+<li> 13:52 www.amazon.co.uk</li>
 <li> 13:52 docs.google.com</li>
 <li> 13:52 www.amazon.co.uk</li>
 <li> 13:52 mail.google.com</li>
