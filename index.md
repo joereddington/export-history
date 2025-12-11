@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4217)</li>
+<ol><li>mail.google.com (4220)</li>
 <li>outlook.office.com (4085)</li>
-<li>www.reddit.com (4051)</li>
+<li>www.reddit.com (4054)</li>
 <li>outlook.office365.com (3987)</li>
 <li>www.google.com (3963)</li>
 <li>docs.google.com (2647)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (906)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (670)</li>
+<li>gmail.com (671)</li>
 <li>web.whatsapp.com (656)</li>
 <li>chat.openai.com (640)</li>
 <li>herts.instructure.com (633)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 www.reddit.com</li>
+<ul><li> 15:57 mail.google.com</li>
+<li class='same'> 15:56 mail.google.com</li>
+<li> 15:56 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:56 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&action=history">Misfits Boxing: Revision history - Wikipedia</a></li>
+<li> 15:55 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&curid=72265310&diff=1326903357&oldid=1326710505">Misfits Boxing: Difference between revisions - Wikipedia</a></li>
+<li> 15:51 mail.google.com</li>
+<li> 15:51 gmail.com</li>
+<li> 15:50 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 15:50 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 15:49 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing#c-Afrique0512-20251211152200-Joereddington-20251211080100-DoesNotExist-DiscussionToolsHack">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 15:49 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 15:47 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing?markasread=342134466&markasreadwiki=enwiki#c-Afrique0512-20251211152200-Joereddington-20251211080100">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 15:47 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing#c-Afrique0512-20251211152200-Joereddington-20251211080100">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 15:47 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 15:47 <a href="https://en.wikipedia.org/"></a></li>
+</ul>
+
+<br>
+
+<ul><li> 15:04 www.reddit.com</li>
+<li class='same'> 15:02 www.reddit.com</li>
+<li class='same'> 15:01 www.reddit.com</li>
+<li class='same'> 14:59 www.reddit.com</li>
 <li> 14:58 rhul.sharepoint.com</li>
 <li> 14:58 login.microsoftonline.com</li>
 <li> 14:58 rhul.sharepoint.com</li>
