@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4220)</li>
+<ol><li>mail.google.com (4222)</li>
 <li>outlook.office.com (4085)</li>
-<li>www.reddit.com (4054)</li>
+<li>www.reddit.com (4058)</li>
 <li>outlook.office365.com (3987)</li>
 <li>www.google.com (3963)</li>
 <li>docs.google.com (2647)</li>
 <li>duckduckgo.com (2545)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1563)</li>
+<li>chatgpt.com (1564)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1388)</li>
+<li>www.linkedin.com (1389)</li>
 <li>login.microsoftonline.com (1172)</li>
 <li>www.amazon.co.uk (1062)</li>
-<li>calendar.google.com (1034)</li>
+<li>calendar.google.com (1035)</li>
 <li>moodle.royalholloway.ac.uk (906)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (671)</li>
-<li>web.whatsapp.com (656)</li>
-<li>chat.openai.com (640)</li>
+<li>web.whatsapp.com (657)</li>
+<li>chat.openai.com (641)</li>
 <li>herts.instructure.com (633)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (564)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:57 mail.google.com</li>
+<ul><li> 16:40 chatgpt.com</li>
+<li> 16:40 chat.openai.com</li>
+<li> 16:31 calendar.google.com</li>
+<li> 16:26 www.reddit.com</li>
+<li class='same'> 16:25 www.reddit.com</li>
+<li> 16:24 <a href="https://en.wikipedia.org/wiki/Bill_Carruthers">Bill Carruthers - Wikipedia</a></li>
+<li> 16:23 <a href="https://en.wikipedia.org/wiki/Press_Your_Luck_scandal">Press Your Luck scandal - Wikipedia</a></li>
+<li> 16:21 <a href="https://en.wikipedia.org/wiki/Talk:Press_Your_Luck_scandal">Talk:Press Your Luck scandal - Wikipedia</a></li>
+<li> 16:17 <a href="https://en.wikipedia.org/wiki/Press_Your_Luck_scandal">Press Your Luck scandal - Wikipedia</a></li>
+<li> 16:14 web.whatsapp.com</li>
+<li> 16:09 <a href="https://en.wikipedia.org/wiki/Press_Your_Luck_scandal?wprov=sfla1">Press Your Luck scandal - Wikipedia</a></li>
+<li> 16:09 <a href="https://en.wikipedia.org/wiki/Press_Your_Luck_scandal">Press Your Luck scandal - Wikipedia</a></li>
+<li> 16:08 www.reddit.com</li>
+<li class='same'> 16:01 www.reddit.com</li>
+<li> 16:01 www.linkedin.com</li>
+<li> 16:00 mail.google.com</li>
+<li class='same'> 15:58 mail.google.com</li>
+<li> 15:58 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 15:57 mail.google.com</li>
 <li class='same'> 15:56 mail.google.com</li>
 <li> 15:56 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 15:56 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&action=history">Misfits Boxing: Revision history - Wikipedia</a></li>
