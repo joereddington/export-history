@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4213)</li>
 <li>outlook.office.com (4085)</li>
-<li>www.reddit.com (4044)</li>
+<li>www.reddit.com (4047)</li>
 <li>outlook.office365.com (3987)</li>
 <li>www.google.com (3963)</li>
 <li>docs.google.com (2647)</li>
-<li>duckduckgo.com (2542)</li>
+<li>duckduckgo.com (2543)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1559)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1387)</li>
+<li>www.linkedin.com (1388)</li>
 <li>login.microsoftonline.com (1166)</li>
 <li>www.amazon.co.uk (1062)</li>
 <li>calendar.google.com (1032)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (562)</li>
 <li>github.com (553)</li>
-<li>feedly.com (516)</li>
+<li>feedly.com (517)</li>
 <li>forms.office.com (513)</li>
 <li>drive.google.com (437)</li>
 <li>rhul.sharepoint.com (378)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:22 feedly.com</li>
+<ul><li> 10:51 www.reddit.com</li>
+<li class='same'> 10:49 www.reddit.com</li>
+<li class='same'> 10:48 www.reddit.com</li>
+<li> 10:48 forum.artofmemory.com</li>
+<li class='same'> 10:46 forum.artofmemory.com</li>
+<li class='same'> 10:45 forum.artofmemory.com</li>
+<li> 10:45 feedly.com</li>
+<li> 10:45 www.linkedin.com</li>
+<li> 10:43 libbyapp.com</li>
+<li> 10:43 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 09:27 www.nytimes.com</li>
+<li> 09:26 duckduckgo.com</li>
+<li> 09:25 www.natesilver.net</li>
+<li> 09:22 feedly.com</li>
 <li> 09:22 www.linkedin.com</li>
 <li> 09:22 feedly.com</li>
 <li> 09:22 www.reddit.com</li>
