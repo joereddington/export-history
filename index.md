@@ -78,11 +78,11 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1559)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1382)</li>
-<li>login.microsoftonline.com (1165)</li>
+<li>www.linkedin.com (1384)</li>
+<li>login.microsoftonline.com (1166)</li>
 <li>www.amazon.co.uk (1056)</li>
 <li>calendar.google.com (1032)</li>
-<li>moodle.royalholloway.ac.uk (897)</li>
+<li>moodle.royalholloway.ac.uk (903)</li>
 <li>rhul-my.sharepoint.com (816)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (668)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (639)</li>
 <li>herts.instructure.com (633)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (561)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (562)</li>
 <li>github.com (553)</li>
 <li>feedly.com (514)</li>
 <li>forms.office.com (513)</li>
@@ -104,7 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 11/12/25</H3>
+
+<br>
+
+<ul><li> 07:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:19 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
+<li> 07:17 www.linkedin.com</li>
+<li class='same'> 07:16 www.linkedin.com</li>
+<li> 07:12 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:11 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:09 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:07 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:06 moodle.royalholloway.ac.uk</li>
+<li> 07:06 login.microsoftonline.com</li>
+<li> 07:06 moodle.royalholloway.ac.uk</li>
+</ul>
+
 <H3>Wednesday, 10/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
