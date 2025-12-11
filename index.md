@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1559)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1382)</li>
-<li>login.microsoftonline.com (1167)</li>
+<li>login.microsoftonline.com (1165)</li>
 <li>www.amazon.co.uk (1056)</li>
 <li>calendar.google.com (1032)</li>
 <li>moodle.royalholloway.ac.uk (897)</li>
@@ -17644,7 +17644,6 @@ With number of accesses/minutes in parentheses
 <li> 16:39 forms.office.com</li>
 <li> 16:39 outlook.office365.com</li>
 <li class='same'> 16:38 outlook.office365.com</li>
-<li> 16:32 login.microsoftonline.com</li>
 <li> 16:32 forms.cloud.microsoft</li>
 <li> 16:32 login.microsoftonline.com</li>
 <li> 16:32 forms.cloud.microsoft</li>
@@ -17686,16 +17685,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:31 outlook.office365.com</li>
 <li class='same'> 14:29 outlook.office365.com</li>
 <li class='same'> 14:28 outlook.office365.com</li>
-<li> 14:28 login.microsoftonline.com</li>
 <li> 14:23 www.stalbanscyclehub.co.uk</li>
 <li> 14:23 duckduckgo.com</li>
 <li> 14:23 www.google.co.uk</li>
 <li class='same'> 14:22 www.google.co.uk</li>
 <li> 14:22 mail.google.com</li>
 <li class='same'> 14:21 mail.google.com</li>
-<li> 14:20 www.google.co.uk</li>
-<li class='same'> 14:16 www.google.co.uk</li>
-<li class='same'> 14:15 www.google.co.uk</li>
+<li> 14:16 www.google.co.uk</li>
 <li> 14:12 chatgpt.com</li>
 <li> 14:09 www.google.co.uk</li>
 <li> 14:09 www.booking.com</li>
