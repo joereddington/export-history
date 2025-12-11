@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4213)</li>
 <li>outlook.office.com (4085)</li>
-<li>www.reddit.com (4047)</li>
+<li>www.reddit.com (4049)</li>
 <li>outlook.office365.com (3987)</li>
 <li>www.google.com (3963)</li>
 <li>docs.google.com (2647)</li>
@@ -79,23 +79,23 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1559)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1388)</li>
-<li>login.microsoftonline.com (1166)</li>
+<li>login.microsoftonline.com (1168)</li>
 <li>www.amazon.co.uk (1062)</li>
-<li>calendar.google.com (1032)</li>
+<li>calendar.google.com (1034)</li>
 <li>moodle.royalholloway.ac.uk (903)</li>
-<li>rhul-my.sharepoint.com (816)</li>
+<li>rhul-my.sharepoint.com (819)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (668)</li>
 <li>web.whatsapp.com (656)</li>
 <li>chat.openai.com (639)</li>
 <li>herts.instructure.com (633)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (562)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (563)</li>
 <li>github.com (553)</li>
 <li>feedly.com (517)</li>
 <li>forms.office.com (513)</li>
 <li>drive.google.com (437)</li>
-<li>rhul.sharepoint.com (378)</li>
+<li>rhul.sharepoint.com (382)</li>
 <li>fritz.box (364)</li>
 <li>adfs.herts.ac.uk (338)</li>
 
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:51 www.reddit.com</li>
+<ul><li> 12:00 calendar.google.com</li>
+<li class='same'> 11:56 calendar.google.com</li>
+<li> 11:44 rhul-my.sharepoint.com</li>
+<li class='same'> 11:43 rhul-my.sharepoint.com</li>
+<li> 11:42 rhul.sharepoint.com</li>
+<li class='same'> 11:41 rhul.sharepoint.com</li>
+<li class='same'> 11:39 rhul.sharepoint.com</li>
+<li> 11:39 rhul-my.sharepoint.com</li>
+<li> 11:38 rhul.sharepoint.com</li>
+<li> 11:35 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:35 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 11:35 login.microsoftonline.com</li>
+<li> 11:35 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 11:35 experience.elluciancloud.ie</li>
+<li> 11:35 login.microsoftonline.com</li>
+<li> 11:35 experience.elluciancloud.ie</li>
+</ul>
+
+<br>
+
+<ul><li> 10:58 <a href="https://www.theguardian.com/news/audio/2025/dec/11/pete-hegseth-unleashes-warrior-culture-on-world-podcast">Pete Hegseth unleashes his ‘warrior culture’ on the world – podcast | Pete Hegseth | The Guardian</a></li>
+<li> 10:57 <a href="https://www.theguardian.com/world/2025/dec/11/sexually-explicit-letters-deepfake-hong-kong-activists-uk-australia">Sexually explicit letters about exiled Hong Kong activists sent to UK and Australian addresses | Hong Kong | The Guardian</a></li>
+<li> 10:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:56 www.reddit.com</li>
+<li class='same'> 10:55 www.reddit.com</li>
+<li class='same'> 10:51 www.reddit.com</li>
 <li class='same'> 10:49 www.reddit.com</li>
 <li class='same'> 10:48 www.reddit.com</li>
 <li> 10:48 forum.artofmemory.com</li>
