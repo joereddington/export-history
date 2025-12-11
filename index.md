@@ -74,11 +74,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3987)</li>
 <li>www.google.com (3963)</li>
 <li>docs.google.com (2646)</li>
-<li>duckduckgo.com (2538)</li>
+<li>duckduckgo.com (2539)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1559)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1384)</li>
+<li>www.linkedin.com (1386)</li>
 <li>login.microsoftonline.com (1166)</li>
 <li>www.amazon.co.uk (1056)</li>
 <li>calendar.google.com (1032)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 08:03 www.linkedin.com</li>
+<li> 08:02 <a href="https://en.wikipedia.org/w/index.php?title=Marsh_Farm&curid=6595735&diff=1326801752&oldid=1322696472">Marsh Farm: Difference between revisions - Wikipedia</a></li>
+<li> 08:02 <a href="https://en.wikipedia.org/wiki/Special:Contributions/~2025-35654-58">User contributions for ~2025-35654-58 - Wikipedia</a></li>
+<li> 08:02 <a href="https://en.wikipedia.org/w/index.php?title=Tulip_Siddiq&curid=33131881&diff=1326820332&oldid=1326227328">Tulip Siddiq: Difference between revisions - Wikipedia</a></li>
+<li> 08:02 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 08:02 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 08:02 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 08:00 <a href="https://en.wikipedia.org/w/index.php?title=2025_in_Misfits_Boxing&action=history">2025 in Misfits Boxing: Revision history - Wikipedia</a></li>
+<li> 08:00 <a href="https://en.wikipedia.org/wiki/2025_in_Misfits_Boxing">2025 in Misfits Boxing - Wikipedia</a></li>
+<li> 08:00 <a href="https://en.wikipedia.org/wiki/KSI">KSI - Wikipedia</a></li>
+<li> 08:00 <a href="https://en.wikipedia.org/wiki/Talk:KSI">Talk:KSI - Wikipedia</a></li>
+<li> 07:59 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Boxing">Wikipedia talk:WikiProject Boxing - Wikipedia</a></li>
+<li> 07:59 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Boxing">Wikipedia:WikiProject Boxing - Wikipedia</a></li>
+<li> 07:59 duckduckgo.com</li>
+<li> 07:57 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing#c-GhaziTwaissi-20251210160100-Joereddington-20251209172600-DoesNotExist-DiscussionToolsHack">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 07:57 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 07:56 <a href="https://en.wikipedia.org/wiki/Talk:KSI#MF_Pro_isnt_pro_boxing_-_Give_it_its_own_category?">Talk:KSI - Wikipedia</a></li>
+<li> 07:56 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing?markasread=342099116&markasreadwiki=enwiki#c-GhaziTwaissi-20251210160100-Joereddington-20251209172600">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 07:56 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing#c-GhaziTwaissi-20251210160100-Joereddington-20251209172600">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 07:56 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:56 <a href="https://en.wikipedia.org/"></a></li>
+<li> 07:56 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:20 <a href="https://www.theguardian.com/australia-news/ng-interactive/2025/dec/10/parents-react-to-australias-under-16s-social-media-ban-interactive">‘Already had a profound effect’: parents react to Australia’s social media ban | Social media ban | The Guardian</a></li>
+<li> 07:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:19 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
 <li> 07:17 www.linkedin.com</li>
 <li class='same'> 07:16 www.linkedin.com</li>
