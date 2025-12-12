@@ -76,13 +76,13 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2649)</li>
 <li>duckduckgo.com (2546)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1565)</li>
+<li>chatgpt.com (1567)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1389)</li>
 <li>login.microsoftonline.com (1173)</li>
 <li>www.amazon.co.uk (1064)</li>
 <li>calendar.google.com (1035)</li>
-<li>moodle.royalholloway.ac.uk (909)</li>
+<li>moodle.royalholloway.ac.uk (912)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (671)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:54 <a href="https://en.wikipedia.org/wiki/2022_in_Misfits_Boxing">2022 in Misfits Boxing - Wikipedia</a></li>
+<ul><li> 08:23 moodle.royalholloway.ac.uk</li>
+<li class='same'> 08:22 moodle.royalholloway.ac.uk</li>
+<li class='same'> 08:21 moodle.royalholloway.ac.uk</li>
+<li> 08:05 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing">Misfits Boxing - Wikipedia</a></li>
+<li> 07:57 mobilityprint.royalholloway.ac.uk</li>
+<li> 07:57 intranet.royalholloway.ac.uk</li>
+<li> 07:56 chatgpt.com</li>
+<li> 07:55 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Misfits_Boxing&action=edit">Editing Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 07:55 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 07:55 chatgpt.com</li>
+<li> 07:55 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing?action=edit&veswitched=1">Editing Misfits Boxing - Wikipedia</a></li>
+<li> 07:55 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&action=edit">Editing Misfits Boxing - Wikipedia</a></li>
+<li> 07:55 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing">Misfits Boxing - Wikipedia</a></li>
+<li> 07:55 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 07:54 <a href="https://en.wikipedia.org/wiki/2022_in_Misfits_Boxing">2022 in Misfits Boxing - Wikipedia</a></li>
 <li> 07:54 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing">Misfits Boxing - Wikipedia</a></li>
 <li> 07:53 www.thesun.co.uk</li>
 <li> 07:52 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
