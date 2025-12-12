@@ -70,24 +70,24 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4222)</li>
 <li>outlook.office.com (4085)</li>
-<li>www.reddit.com (4063)</li>
-<li>outlook.office365.com (3993)</li>
-<li>www.google.com (3960)</li>
-<li>docs.google.com (2647)</li>
+<li>www.reddit.com (4064)</li>
+<li>outlook.office365.com (3995)</li>
+<li>www.google.com (3961)</li>
+<li>docs.google.com (2649)</li>
 <li>duckduckgo.com (2546)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1564)</li>
+<li>chatgpt.com (1565)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1389)</li>
-<li>login.microsoftonline.com (1172)</li>
-<li>www.amazon.co.uk (1061)</li>
+<li>login.microsoftonline.com (1173)</li>
+<li>www.amazon.co.uk (1064)</li>
 <li>calendar.google.com (1035)</li>
-<li>moodle.royalholloway.ac.uk (906)</li>
+<li>moodle.royalholloway.ac.uk (909)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (671)</li>
 <li>web.whatsapp.com (658)</li>
-<li>chat.openai.com (641)</li>
+<li>chat.openai.com (642)</li>
 <li>herts.instructure.com (633)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (564)</li>
@@ -105,6 +105,35 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 12/12/25</H3>
+
+<br>
+
+<ul><li> 07:54 <a href="https://en.wikipedia.org/wiki/2022_in_Misfits_Boxing">2022 in Misfits Boxing - Wikipedia</a></li>
+<li> 07:54 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing">Misfits Boxing - Wikipedia</a></li>
+<li> 07:53 www.thesun.co.uk</li>
+<li> 07:52 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 07:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
+<li> 07:50 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:50 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:50 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:50 <a href="https://en.wikipedia.org/"></a></li>
+<li> 07:49 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:48 moodle.royalholloway.ac.uk</li>
+<li> 07:48 login.microsoftonline.com</li>
+<li> 07:48 moodle.royalholloway.ac.uk</li>
+<li> 07:47 chatgpt.com</li>
+<li> 07:47 chat.openai.com</li>
+<li> 07:45 docs.google.com</li>
+<li> 07:43 www.amazon.co.uk</li>
+<li> 07:43 www.google.com</li>
+<li> 07:43 www.amazon.co.uk</li>
+<li class='same'> 07:42 www.amazon.co.uk</li>
+<li> 07:41 docs.google.com</li>
+<li> 07:34 outlook.office365.com</li>
+<li class='same'> 07:33 outlook.office365.com</li>
+<li> 07:28 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -520,6 +549,7 @@ With number of accesses/minutes in parentheses
 <li> 10:28 api-b6327e78.duosecurity.com</li>
 <li> 10:28 adfs.herts.ac.uk</li>
 <li> 10:28 herts.instructure.com</li>
+<li> 10:24 genius.com</li>
 <li> 10:24 www.google.com</li>
 <li> 10:24 parking.fine07.top</li>
 <li> 10:17 web.whatsapp.com</li>
