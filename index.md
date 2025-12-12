@@ -74,20 +74,20 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3995)</li>
 <li>www.google.com (3961)</li>
 <li>docs.google.com (2649)</li>
-<li>duckduckgo.com (2546)</li>
+<li>duckduckgo.com (2548)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1567)</li>
+<li>chatgpt.com (1568)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1389)</li>
-<li>login.microsoftonline.com (1173)</li>
+<li>login.microsoftonline.com (1174)</li>
 <li>www.amazon.co.uk (1064)</li>
 <li>calendar.google.com (1035)</li>
-<li>moodle.royalholloway.ac.uk (912)</li>
+<li>moodle.royalholloway.ac.uk (914)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (671)</li>
 <li>web.whatsapp.com (658)</li>
-<li>chat.openai.com (642)</li>
+<li>chat.openai.com (643)</li>
 <li>herts.instructure.com (633)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (564)</li>
@@ -105,6 +105,36 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 12/12/25</H3>
+
+<br>
+
+<ul><li> 14:50 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 14:50 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&diff=1327027112&oldid=1327023951">Misfits Boxing: Difference between revisions - Wikipedia</a></li>
+<li> 14:49 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&action=history">Misfits Boxing: Revision history - Wikipedia</a></li>
+<li> 14:49 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing">Misfits Boxing - Wikipedia</a></li>
+<li> 14:49 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:49 chatgpt.com</li>
+<li> 14:49 chat.openai.com</li>
+<li> 14:49 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:49 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:49 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:49 <a href="https://en.wikipedia.org/"></a></li>
+<li> 14:32 moodle.royalholloway.ac.uk</li>
+<li> 14:32 login.microsoftonline.com</li>
+<li> 14:32 moodle.royalholloway.ac.uk</li>
+<li> 14:31 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:31 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:31 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:05 <a href="https://en.wikipedia.org/wiki/Northern_Bank_robbery">Northern Bank robbery - Wikipedia</a></li>
+<li> 14:02 <a href="https://en.wikipedia.org/wiki/Securitas_depot_robbery">Securitas depot robbery - Wikipedia</a></li>
+<li> 14:02 duckduckgo.com</li>
+<li class='same'> 14:01 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:46 www.paypal.com</li>
+</ul>
 
 <br>
 
@@ -130,16 +160,16 @@ With number of accesses/minutes in parentheses
 <li> 07:57 intranet.royalholloway.ac.uk</li>
 <li> 07:56 chatgpt.com</li>
 <li> 07:55 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Misfits_Boxing&action=edit">Editing Talk:Misfits Boxing - Wikipedia</a></li>
-<li> 07:55 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 07:55 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
 <li> 07:55 chatgpt.com</li>
 <li> 07:55 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing?action=edit&veswitched=1">Editing Misfits Boxing - Wikipedia</a></li>
 <li> 07:55 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&action=edit">Editing Misfits Boxing - Wikipedia</a></li>
 <li> 07:55 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing">Misfits Boxing - Wikipedia</a></li>
-<li> 07:55 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 07:55 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
 <li> 07:54 <a href="https://en.wikipedia.org/wiki/2022_in_Misfits_Boxing">2022 in Misfits Boxing - Wikipedia</a></li>
 <li> 07:54 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing">Misfits Boxing - Wikipedia</a></li>
 <li> 07:53 www.thesun.co.uk</li>
-<li> 07:52 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 07:52 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
 <li> 07:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
 <li> 07:50 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 07:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
@@ -243,7 +273,7 @@ With number of accesses/minutes in parentheses
 <li> 15:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 15:50 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 15:49 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing#c-Afrique0512-20251211152200-Joereddington-20251211080100-DoesNotExist-DiscussionToolsHack">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
-<li> 15:49 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 15:49 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
 <li> 15:47 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing?markasread=342134466&markasreadwiki=enwiki#c-Afrique0512-20251211152200-Joereddington-20251211080100">Talk:Misfits Boxing - Wikipedia</a></li>
 <li> 15:47 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing#c-Afrique0512-20251211152200-Joereddington-20251211080100">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
 <li> 15:47 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
@@ -425,7 +455,7 @@ With number of accesses/minutes in parentheses
 <li> 07:59 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Boxing">Wikipedia:WikiProject Boxing - Wikipedia</a></li>
 <li> 07:59 duckduckgo.com</li>
 <li> 07:57 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing#c-GhaziTwaissi-20251210160100-Joereddington-20251209172600-DoesNotExist-DiscussionToolsHack">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
-<li> 07:57 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 07:57 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
 <li> 07:56 <a href="https://en.wikipedia.org/wiki/Talk:KSI#MF_Pro_isnt_pro_boxing_-_Give_it_its_own_category?">Talk:KSI - Wikipedia</a></li>
 <li> 07:56 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing?markasread=342099116&markasreadwiki=enwiki#c-GhaziTwaissi-20251210160100-Joereddington-20251209172600">Talk:Misfits Boxing - Wikipedia</a></li>
 <li> 07:56 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing#c-GhaziTwaissi-20251210160100-Joereddington-20251209172600">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
@@ -639,7 +669,7 @@ With number of accesses/minutes in parentheses
 <li> 17:29 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&action=history&offset=&limit=500">Misfits Boxing: Revision history - Wikipedia</a></li>
 <li> 17:29 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&action=history">Misfits Boxing: Revision history - Wikipedia</a></li>
 <li> 17:29 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing">Misfits Boxing - Wikipedia</a></li>
-<li> 17:28 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 17:28 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
 <li> 17:26 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
 <li> 17:26 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Afrique0512">User contributions for Afrique0512 - Wikipedia</a></li>
 <li> 17:23 <a href="https://en.wikipedia.org/wiki/User_talk:Afrique0512?vanarticle=Misfits%20Boxing&noautowarn=true&vanarticlerevid=1326424495">User talk:Afrique0512 - Wikipedia</a></li>
@@ -656,7 +686,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:15 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&diff=1326424495&oldid=1326360820">Misfits Boxing: Difference between revisions - Wikipedia</a></li>
 <li> 17:14 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&action=history">Misfits Boxing: Revision history - Wikipedia</a></li>
 <li> 17:14 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing">Misfits Boxing - Wikipedia</a></li>
-<li> 17:13 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 17:13 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Replying on Talk:Misfits Boxing - Wikipedia</a></li>
 <li> 17:05 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing">Misfits Boxing - Wikipedia</a></li>
 <li> 17:05 <a href="https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest/Noticeboard">Wikipedia:Conflict of interest/Noticeboard - Wikipedia</a></li>
 <li> 17:05 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
