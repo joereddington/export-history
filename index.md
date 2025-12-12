@@ -69,35 +69,35 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4222)</li>
-<li>outlook.office.com (4085)</li>
+<li>outlook.office.com (4090)</li>
 <li>www.reddit.com (4064)</li>
-<li>outlook.office365.com (4000)</li>
+<li>outlook.office365.com (4003)</li>
 <li>www.google.com (3961)</li>
-<li>docs.google.com (2649)</li>
+<li>docs.google.com (2651)</li>
 <li>duckduckgo.com (2550)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1568)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1389)</li>
-<li>login.microsoftonline.com (1174)</li>
+<li>www.linkedin.com (1391)</li>
+<li>login.microsoftonline.com (1180)</li>
 <li>www.amazon.co.uk (1064)</li>
 <li>calendar.google.com (1035)</li>
-<li>moodle.royalholloway.ac.uk (916)</li>
+<li>moodle.royalholloway.ac.uk (917)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (671)</li>
 <li>web.whatsapp.com (659)</li>
 <li>chat.openai.com (643)</li>
-<li>herts.instructure.com (633)</li>
+<li>herts.instructure.com (634)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (565)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (566)</li>
 <li>github.com (553)</li>
 <li>feedly.com (517)</li>
 <li>forms.office.com (513)</li>
 <li>drive.google.com (437)</li>
 <li>rhul.sharepoint.com (387)</li>
 <li>fritz.box (364)</li>
-<li>adfs.herts.ac.uk (338)</li>
+<li>adfs.herts.ac.uk (339)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,82 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:54 fyp.cs.rhul.ac.uk</li>
+<ul><li> 18:56 rl.talis.com</li>
+<li> 18:56 rhul.rl.talis.com</li>
+<li> 18:55 moodle.royalholloway.ac.uk</li>
+<li> 18:41 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:41 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:41 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 18:39 <a href="https://en.wikipedia.org/wiki/Vegetarian_ecofeminism">Vegetarian ecofeminism - Wikipedia</a></li>
+<li> 18:38 <a href="https://en.wikipedia.org/wiki/Veganism#Ethical_veganism">Veganism - Wikipedia</a></li>
+<li> 18:38 <a href="https://en.wikipedia.org/wiki/Ethical_veganism">Veganism - Wikipedia</a></li>
+<li> 18:37 <a href="https://en.wikipedia.org/wiki/Veganism">Veganism - Wikipedia</a></li>
+<li> 18:36 <a href="https://en.wikipedia.org/w/index.php?title=Veganism&diff=1327116588&oldid=1327116176">Veganism: Difference between revisions - Wikipedia</a></li>
+<li> 18:36 <a href="https://en.wikipedia.org/w/index.php?title=Veganism&action=history">Veganism: Revision history - Wikipedia</a></li>
+<li> 18:36 <a href="https://en.wikipedia.org/wiki/Veganism">Veganism - Wikipedia</a></li>
+<li> 18:36 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:36 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:36 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 18:36 <a href="https://en.wikipedia.org/wiki/User_talk:IWannaBeSedated24">User talk:IWannaBeSedated24 - Wikipedia</a></li>
+<li> 18:36 <a href="https://en.wikipedia.org/wiki/Special:Contributions/IWannaBeSedated24">User contributions for IWannaBeSedated24 - Wikipedia</a></li>
+<li> 18:36 <a href="https://en.wikipedia.org/wiki/Veganism">Veganism - Wikipedia</a></li>
+<li> 18:35 <a href="https://en.wikipedia.org/w/index.php?title=User_talk:IWannaBeSedated24&action=edit&preview=yes&vanarticle=Veganism&vanarticlerevid=1327116176&vantimestamp=2025-12-12T18%3A32%3A10Z&vanarticlegoodrevid=1326283627&type=agf&count=1">Editing User talk:IWannaBeSedated24 - Wikipedia</a></li>
+<li> 18:35 <a href="https://en.wikipedia.org/w/index.php?title=Veganism&curid=32587&diff=1327116176&oldid=1326283627">Veganism: Difference between revisions - Wikipedia</a></li>
+<li> 18:35 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:35 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:35 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 18:34 <a href="https://en.wikipedia.org/w/index.php?title=T-Mobile_US&curid=20563054&diff=1327116298&oldid=1325204028">T-Mobile US: Difference between revisions - Wikipedia</a></li>
+<li> 18:34 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:34 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:34 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 18:33 <a href="https://en.wikipedia.org/wiki/Focus_(optics)">Focus (optics) - Wikipedia</a></li>
+<li> 18:33 <a href="https://en.wikipedia.org/wiki/Talk:Focus_(optics)#WP:MERGE_with_Focus_(geometry)?">Talk:Focus (optics) - Wikipedia</a></li>
+<li> 18:33 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:33 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:33 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 18:33 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 18:33 <a href="https://en.wikipedia.org/"></a></li>
+<li> 18:33 outlook.office365.com</li>
+<li> 18:32 outlook.office.com</li>
+<li class='same'> 18:30 outlook.office.com</li>
+<li class='same'> 18:29 outlook.office.com</li>
+<li class='same'> 18:27 outlook.office.com</li>
+<li> 18:27 docs.google.com</li>
+<li class='same'> 18:26 docs.google.com</li>
+<li> 18:25 outlook.office.com</li>
+<li> 18:25 m365.cloud.microsoft</li>
+<li> 18:25 login.microsoftonline.com</li>
+<li> 18:24 ce0997li.webitrent.com</li>
+<li> 18:24 www.hr.herts.ac.uk</li>
+<li> 18:15 www.linkedin.com</li>
+<li class='same'> 18:14 www.linkedin.com</li>
+<li> 18:13 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 18:13 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 18:13 login.microsoftonline.com</li>
+<li> 18:13 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 18:13 experience.elluciancloud.ie</li>
+<li> 18:13 login.microsoftonline.com</li>
+<li> 18:13 experience.elluciancloud.ie</li>
+<li> 18:12 m365.cloud.microsoft</li>
+<li> 18:12 login.microsoftonline.com</li>
+<li> 18:12 herts.instructure.com</li>
+<li> 18:12 adfs.herts.ac.uk</li>
+<li> 18:10 ce0997li.webitrent.com</li>
+<li> 18:10 login.microsoftonline.com</li>
+<li> 18:10 ce0997li.webitrent.com</li>
+<li> 18:09 login.microsoftonline.com</li>
+<li> 18:09 www.hr.herts.ac.uk</li>
+<li> 18:09 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:09 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
+<li> 18:09 outlook.office365.com</li>
+<li> 18:08 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 18:07 fyp.cs.rhul.ac.uk</li>
+<li> 18:07 outlook.office365.com</li>
+<li> 18:07 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 18:04 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 18:00 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 17:58 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 17:54 fyp.cs.rhul.ac.uk</li>
 <li> 17:52 outlook.office365.com</li>
 <li class='same'> 17:51 outlook.office365.com</li>
 <li> 17:49 fyp.cs.rhul.ac.uk</li>
