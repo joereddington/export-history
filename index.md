@@ -72,15 +72,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4063)</li>
 <li>outlook.office365.com (3993)</li>
-<li>www.google.com (3963)</li>
+<li>www.google.com (3960)</li>
 <li>docs.google.com (2647)</li>
 <li>duckduckgo.com (2546)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1564)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1389)</li>
-<li>login.microsoftonline.com (1173)</li>
-<li>www.amazon.co.uk (1062)</li>
+<li>login.microsoftonline.com (1172)</li>
+<li>www.amazon.co.uk (1061)</li>
 <li>calendar.google.com (1035)</li>
 <li>moodle.royalholloway.ac.uk (906)</li>
 <li>rhul-my.sharepoint.com (822)</li>
@@ -17573,7 +17573,6 @@ With number of accesses/minutes in parentheses
 <li> 14:31 www.amazon.co.uk</li>
 <li class='same'> 14:30 www.amazon.co.uk</li>
 <li class='same'> 14:29 www.amazon.co.uk</li>
-<li class='same'> 14:28 www.amazon.co.uk</li>
 <li class='same'> 14:26 www.amazon.co.uk</li>
 <li> 14:25 web.whatsapp.com</li>
 <li> 14:24 www.amazon.co.uk</li>
@@ -17622,11 +17621,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:59 intranet.royalholloway.ac.uk</li>
 <li> 11:59 duckduckgo.com</li>
 <li> 11:58 outlook.office365.com</li>
-<li> 11:58 www.google.com</li>
-<li class='same'> 11:57 www.google.com</li>
 <li> 11:56 <a href="https://en.wikipedia.org/wiki/Killing_of_Charlie_Kirk">Killing of Charlie Kirk - Wikipedia</a></li>
-<li> 11:56 www.google.com</li>
-<li class='same'> 11:55 www.google.com</li>
+<li> 11:55 www.google.com</li>
 <li> 11:54 chatgpt.com</li>
 <li> 11:54 chat.openai.com</li>
 <li> 11:54 www.google.com</li>
@@ -17636,7 +17632,6 @@ With number of accesses/minutes in parentheses
 <li> 11:44 www.linkedin.com</li>
 <li> 11:44 mail.google.com</li>
 <li> 11:44 outlook.office365.com</li>
-<li> 11:44 login.microsoftonline.com</li>
 <li> 11:42 www.reddit.com</li>
 <li> 11:18 <a href="https://en.wikipedia.org/wiki/Killing_of_Charlie_Kirk">Killing of Charlie Kirk - Wikipedia</a></li>
 <li> 11:18 duckduckgo.com</li>
