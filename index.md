@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4222)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4063)</li>
-<li>outlook.office365.com (3992)</li>
+<li>outlook.office365.com (3993)</li>
 <li>www.google.com (3963)</li>
 <li>docs.google.com (2647)</li>
 <li>duckduckgo.com (2546)</li>
@@ -104,11 +104,27 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 12/12/25</H3>
+
+<br>
+
+<ul><li> 05:52 www.independent.co.uk</li>
+</ul>
+
 <H3>Thursday, 11/12/25</H3>
 
 <br>
 
-<ul><li> 17:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Bots/Noticeboard">Wikipedia:Bots/Noticeboard - Wikipedia</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 17:58 outlook.office365.com</li>
+<li> 17:56 <a href="https://en.wikipedia.org/wiki/Online_Safety_Amendment">Online Safety Amendment - Wikipedia</a></li>
+<li> 17:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:53 <a href="https://en.wikipedia.org/wiki/Wikipedia:Bots/Requests_for_approval">Wikipedia:Bots/Requests for approval - Wikipedia</a></li>
+<li> 17:53 <a href="https://en.wikipedia.org/wiki/Wikipedia:BRFA">Wikipedia:Bots/Requests for approval - Wikipedia</a></li>
+<li> 17:50 <a href="https://en.wikipedia.org/wiki/Wikipedia:Bots/Noticeboard">Wikipedia:Bots/Noticeboard - Wikipedia</a></li>
 <li> 17:48 <a href="https://en.wikipedia.org/wiki/Wikipedia:Student_assignments">Wikipedia:Student assignments - Wikipedia</a></li>
 <li> 17:48 <a href="https://en.wikipedia.org/wiki/Wikipedia:ASSIGN">Wikipedia:Student assignments - Wikipedia</a></li>
 <li> 17:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Education_noticeboard#Banners_heads-up">Wikipedia:Education noticeboard - Wikipedia</a></li>
@@ -435,7 +451,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 13:11 www.reddit.com</li>
+<ul><li> 13:14 www.temu.com</li>
+<li> 13:11 www.reddit.com</li>
 <li> 13:09 feedly.com</li>
 <li> 13:00 web.whatsapp.com</li>
 <li> 12:58 feedly.com</li>
@@ -856,7 +873,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:23 ce0997li.webitrent.com</li>
+<ul><li> 18:37 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 18:37 www.temu.com</li>
+<li> 18:23 ce0997li.webitrent.com</li>
 <li> 18:20 outlook.office365.com</li>
 <li> 18:15 chatgpt.com</li>
 <li class='same'> 18:14 chatgpt.com</li>
@@ -1108,6 +1127,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:11 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 21:11 <a href="https://en.wikipedia.org/wiki/Attack_patterns">Attack patterns - Wikipedia</a></li>
+</ul>
+
+<br>
+
 <ul><li> 16:04 www.parkrun.org.uk</li>
 <li class='same'> 16:03 www.parkrun.org.uk</li>
 </ul>
@@ -1162,7 +1187,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:53 <a href="https://en.wikipedia.org/wiki/Attack_patterns">Wikipedia 1.0 Server - Computing articles</a></li>
+<ul><li> 15:53 <a href="https://en.wikipedia.org/wiki/Attack_patterns">Attack patterns - Wikipedia</a></li>
 <li> 15:53 wp1.openzim.org</li>
 <li> 15:28 www.google.com</li>
 <li> 15:28 www.eventbrite.co.uk</li>
