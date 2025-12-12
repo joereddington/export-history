@@ -71,10 +71,10 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4222)</li>
 <li>outlook.office.com (4085)</li>
 <li>www.reddit.com (4064)</li>
-<li>outlook.office365.com (3995)</li>
+<li>outlook.office365.com (4000)</li>
 <li>www.google.com (3961)</li>
 <li>docs.google.com (2649)</li>
-<li>duckduckgo.com (2548)</li>
+<li>duckduckgo.com (2550)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1568)</li>
 <li>www.facebook.com (1456)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (1174)</li>
 <li>www.amazon.co.uk (1064)</li>
 <li>calendar.google.com (1035)</li>
-<li>moodle.royalholloway.ac.uk (914)</li>
+<li>moodle.royalholloway.ac.uk (916)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (671)</li>
@@ -105,6 +105,34 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 12/12/25</H3>
+
+<br>
+
+<ul><li> 17:54 fyp.cs.rhul.ac.uk</li>
+<li> 17:52 outlook.office365.com</li>
+<li class='same'> 17:51 outlook.office365.com</li>
+<li> 17:49 fyp.cs.rhul.ac.uk</li>
+<li> 17:47 <a href="https://en.wikipedia.org/wiki/Wikipedia:Education_noticeboard">Wikipedia:Education noticeboard - Wikipedia</a></li>
+<li> 17:47 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:47 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:47 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:47 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:47 <a href="https://en.wikipedia.org/"></a></li>
+<li> 17:46 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 17:45 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 17:43 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 17:41 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 17:40 fyp.cs.rhul.ac.uk</li>
+<li> 17:40 outlook.office365.com</li>
+<li class='same'> 17:31 outlook.office365.com</li>
+<li> 17:23 pure.royalholloway.ac.uk</li>
+<li> 17:23 duckduckgo.com</li>
+<li> 17:22 pure.royalholloway.ac.uk</li>
+<li> 17:22 duckduckgo.com</li>
+<li> 17:16 moodle.royalholloway.ac.uk</li>
+<li class='same'> 17:15 moodle.royalholloway.ac.uk</li>
+<li> 17:15 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -216,6 +244,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 05:52 www.independent.co.uk</li>
+<li> 05:52 uk.pandora.net</li>
+<li> 05:52 track.celtra.com</li>
+<li> 05:52 www.independent.co.uk</li>
 </ul>
 
 <H3>Thursday, 11/12/25</H3>
@@ -82999,6 +83030,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 14:27 track.celtra.com</li>
+</ul>
+
+<br>
+
 <ul><li> 08:03 www.google.com</li>
 </ul>
 
@@ -85084,7 +85120,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:30 www.dropbox.com</li>
+<ul><li> 08:51 track.celtra.com</li>
+<li> 08:30 www.dropbox.com</li>
 </ul>
 
 <br>
