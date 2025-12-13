@@ -72,22 +72,22 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4090)</li>
 <li>www.reddit.com (4065)</li>
 <li>outlook.office365.com (4003)</li>
-<li>www.google.com (3962)</li>
+<li>www.google.com (3963)</li>
 <li>docs.google.com (2651)</li>
-<li>duckduckgo.com (2550)</li>
+<li>duckduckgo.com (2553)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1568)</li>
+<li>chatgpt.com (1571)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1391)</li>
-<li>login.microsoftonline.com (1180)</li>
-<li>www.amazon.co.uk (1064)</li>
+<li>login.microsoftonline.com (1179)</li>
+<li>www.amazon.co.uk (1063)</li>
 <li>calendar.google.com (1035)</li>
-<li>moodle.royalholloway.ac.uk (917)</li>
+<li>moodle.royalholloway.ac.uk (916)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (671)</li>
 <li>web.whatsapp.com (659)</li>
-<li>chat.openai.com (643)</li>
+<li>chat.openai.com (644)</li>
 <li>herts.instructure.com (634)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (566)</li>
@@ -104,7 +104,43 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 13/12/25</H3>
+
+<br>
+
+<ul><li> 08:57 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&wvprov=sticky-header&oldid=1327221613&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 08:57 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&wvprov=sticky-header">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 08:57 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
+<li> 08:57 www.google.com</li>
+<li> 08:56 ico.org.uk</li>
+<li> 08:55 www.theregister.com</li>
+<li> 08:55 duckduckgo.com</li>
+<li> 08:53 <a href="https://en.wikipedia.org/wiki/Talk:LastPass">Talk:LastPass - Wikipedia</a></li>
+<li> 08:53 <a href="https://en.wikipedia.org/wiki/LastPass#2022_customer_data_and_partially-encrypted_vault_theft">LastPass - Wikipedia</a></li>
+<li> 08:53 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 08:50 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&redlink=1">Creating LastPass 2022 data breach - Wikipedia</a></li>
+<li> 08:50 <a href="https://en.wikipedia.org/wiki/LastPass#2022_customer_data_and_partially-encrypted_vault_theft">LastPass - Wikipedia</a></li>
+<li> 08:49 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#cite_note-Sandle2018-3">British Airways data breach - Wikipedia</a></li>
+<li> 08:49 <a href="https://en.wikipedia.org/w/index.php?title=LastPass&action=edit&section=9">Editing LastPass (section) - Wikipedia</a></li>
+<li> 08:49 <a href="https://en.wikipedia.org/wiki/LastPass#2022_customer_data_and_partially-encrypted_vault_theft">LastPass - Wikipedia</a></li>
+<li> 08:48 <a href="https://en.wikipedia.org/w/index.php?title=LastPass&action=edit&section=9">Editing LastPass (section) - Wikipedia</a></li>
+<li> 08:48 duckduckgo.com</li>
+<li> 08:46 <a href="https://en.wikipedia.org/wiki/LastPass">LastPass - Wikipedia</a></li>
+<li> 08:46 chatgpt.com</li>
+<li> 08:46 <a href="https://en.wikipedia.org/w/index.php?title=LastPass&action=edit&section=9">Editing LastPass (section) - Wikipedia</a></li>
+<li> 08:46 <a href="https://en.wikipedia.org/wiki/LastPass">LastPass - Wikipedia</a></li>
+<li> 08:46 duckduckgo.com</li>
+<li> 08:45 chatgpt.com</li>
+<li> 08:45 ico.org.uk</li>
+<li> 08:45 chatgpt.com</li>
+<li> 08:45 chat.openai.com</li>
+</ul>
+
 <H3>Friday, 12/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -17685,7 +17721,6 @@ With number of accesses/minutes in parentheses
 <li> 13:17 mail.google.com</li>
 <li> 13:16 <a href="https://en.wikipedia.org/wiki/Killing_of_Charlie_Kirk">Killing of Charlie Kirk - Wikipedia</a></li>
 <li> 13:15 www.jobs.ac.uk</li>
-<li> 13:11 www.amazon.co.uk</li>
 <li> 13:07 feedly.com</li>
 <li> 13:04 www.reddit.com</li>
 <li> 13:03 www.amazon.co.uk</li>
@@ -17727,8 +17762,6 @@ With number of accesses/minutes in parentheses
 <li> 09:14 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:13 moodle.royalholloway.ac.uk</li>
 <li> 08:55 rhul.hosted.panopto.com</li>
-<li> 08:54 moodle.royalholloway.ac.uk</li>
-<li> 08:54 login.microsoftonline.com</li>
 <li> 08:54 moodle.royalholloway.ac.uk</li>
 <li> 08:54 login.microsoftonline.com</li>
 <li> 08:52 outlook.office365.com</li>
