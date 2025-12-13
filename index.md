@@ -70,9 +70,9 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4222)</li>
 <li>outlook.office.com (4090)</li>
-<li>www.reddit.com (4064)</li>
+<li>www.reddit.com (4065)</li>
 <li>outlook.office365.com (4003)</li>
-<li>www.google.com (3961)</li>
+<li>www.google.com (3962)</li>
 <li>docs.google.com (2651)</li>
 <li>duckduckgo.com (2550)</li>
 <li>bsky.app (1581)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 12/12/25</H3>
+
+<br>
+
+<ul><li> 22:08 ico.org.uk</li>
+<li> 22:08 www.google.com</li>
+<li> 22:08 www.reddit.com</li>
+</ul>
 
 <br>
 
@@ -85347,7 +85354,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:23 outlook.office.com</li>
+<ul><li> 15:34 <a href="https://en.wikipedia.org/wiki/Veganism">Veganism - Wikipedia</a></li>
+<li> 15:23 outlook.office.com</li>
 <li> 15:20 books.google.co.uk</li>
 <li> 15:17 www.google.com</li>
 <li> 15:17 books.google.co.uk</li>
@@ -88190,6 +88198,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:40 <a href="https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach">2020 United States federal government data breach - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 11:19 ico.org.uk</li>
 </ul>
 
 <H3>Monday, 08/01/24</H3>
