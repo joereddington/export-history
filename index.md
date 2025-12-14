@@ -104,7 +104,23 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 14/12/25</H3>
+
+<br>
+
+<ul><li> 06:32 arstechnica.com</li>
+</ul>
+
 <H3>Saturday, 13/12/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 19:53 ico.org.uk</li>
+</ul>
 
 <br>
 
@@ -85663,6 +85679,7 @@ With number of accesses/minutes in parentheses
 <li> 20:32 monitor.mozilla.org</li>
 <li class='same'> 20:31 monitor.mozilla.org</li>
 <li class='same'> 20:30 monitor.mozilla.org</li>
+<li> 20:25 <a href="https://en.wikipedia.org/wiki/LastPass">LastPass - Wikipedia</a></li>
 </ul>
 
 <br>
