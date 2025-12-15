@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4012)</li>
 <li>www.google.com (3967)</li>
 <li>docs.google.com (2652)</li>
-<li>duckduckgo.com (2571)</li>
+<li>duckduckgo.com (2572)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1578)</li>
 <li>www.facebook.com (1456)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (513)</li>
 <li>drive.google.com (437)</li>
 <li>rhul.sharepoint.com (386)</li>
-<li>fritz.box (374)</li>
+<li>fritz.box (384)</li>
 <li>adfs.herts.ac.uk (341)</li>
 
 
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:19 fritz.box</li>
+<ul><li> 16:52 fritz.box</li>
+<li class='same'> 16:47 fritz.box</li>
+<li class='same'> 16:46 fritz.box</li>
+<li class='same'> 16:45 fritz.box</li>
+<li class='same'> 16:44 fritz.box</li>
+<li class='same'> 16:41 fritz.box</li>
+<li> 16:22 www.iplocation.net</li>
+<li> 16:21 duckduckgo.com</li>
+<li> 16:20 fritz.box</li>
+<li class='same'> 16:18 fritz.box</li>
+<li class='same'> 16:12 fritz.box</li>
+<li class='same'> 16:10 fritz.box</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:19 fritz.box</li>
 <li class='same'> 14:58 fritz.box</li>
 <li class='same'> 14:55 fritz.box</li>
 <li class='same'> 14:44 fritz.box</li>
