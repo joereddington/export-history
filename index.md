@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4003)</li>
 <li>www.google.com (3967)</li>
 <li>docs.google.com (2652)</li>
-<li>duckduckgo.com (2562)</li>
+<li>duckduckgo.com (2563)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1575)</li>
 <li>www.facebook.com (1456)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (820)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (671)</li>
-<li>web.whatsapp.com (659)</li>
+<li>web.whatsapp.com (660)</li>
 <li>chat.openai.com (647)</li>
 <li>herts.instructure.com (634)</li>
 <li>tvtropes.org (630)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 09:57 rl.talis.com</li>
+<li> 09:57 rhul.rl.talis.com</li>
+<li> 09:53 rl.talis.com</li>
+<li> 09:51 web.whatsapp.com</li>
+</ul>
+
+<br>
+
 <ul><li> 07:46 www.google.com</li>
+<li> 07:42 learning.oreilly.com</li>
+<li> 07:41 librarysearch.royalholloway.ac.uk</li>
+<li> 07:40 duckduckgo.com</li>
 <li> 07:40 www.amazon.co.uk</li>
 <li class='same'> 07:39 www.amazon.co.uk</li>
 <li> 07:39 chatgpt.com</li>
@@ -78058,7 +78069,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:52 rl.talis.com</li>
+<ul><li> 20:52 rhul.rl.talis.com</li>
+<li> 20:52 rl.talis.com</li>
 <li> 20:51 moodle2324.royalholloway.ac.uk</li>
 </ul>
 
