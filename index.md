@@ -74,21 +74,21 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4003)</li>
 <li>www.google.com (3967)</li>
 <li>docs.google.com (2652)</li>
-<li>duckduckgo.com (2563)</li>
+<li>duckduckgo.com (2567)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1575)</li>
+<li>chatgpt.com (1577)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1395)</li>
 <li>login.microsoftonline.com (1175)</li>
-<li>www.amazon.co.uk (1066)</li>
+<li>www.amazon.co.uk (1067)</li>
 <li>calendar.google.com (1035)</li>
 <li>moodle.royalholloway.ac.uk (915)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (671)</li>
 <li>web.whatsapp.com (660)</li>
-<li>chat.openai.com (647)</li>
-<li>herts.instructure.com (634)</li>
+<li>chat.openai.com (648)</li>
+<li>herts.instructure.com (639)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (572)</li>
 <li>github.com (553)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (437)</li>
 <li>rhul.sharepoint.com (386)</li>
 <li>fritz.box (364)</li>
-<li>adfs.herts.ac.uk (339)</li>
+<li>adfs.herts.ac.uk (341)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:57 rl.talis.com</li>
+<ul><li> 10:36 herts.instructure.com</li>
+<li class='same'> 10:25 herts.instructure.com</li>
+<li class='same'> 10:09 herts.instructure.com</li>
+<li class='same'> 10:08 herts.instructure.com</li>
+<li> 10:08 adfs.herts.ac.uk</li>
+<li> 10:08 api-b6327e78.duosecurity.com</li>
+<li> 10:08 adfs.herts.ac.uk</li>
+<li> 10:08 herts.instructure.com</li>
+<li> 10:06 <a href="https://en.wikipedia.org/wiki/Wireshark">Wireshark - Wikipedia</a></li>
+<li> 10:06 duckduckgo.com</li>
+<li> 10:06 chatgpt.com</li>
+<li class='same'> 10:05 chatgpt.com</li>
+<li> 10:05 chat.openai.com</li>
+<li> 10:05 <a href="https://en.wikipedia.org/wiki/Comparison_of_packet_analyzers">Comparison of packet analyzers - Wikipedia</a></li>
+<li> 10:04 <a href="https://en.wikipedia.org/wiki/Wireshark">Wireshark - Wikipedia</a></li>
+<li> 10:04 duckduckgo.com</li>
+<li> 09:59 gaia.cs.umass.edu</li>
+<li> 09:59 duckduckgo.com</li>
+<li> 09:58 www.amazon.co.uk</li>
+<li> 09:58 duckduckgo.com</li>
+<li> 09:57 rl.talis.com</li>
 <li> 09:57 rhul.rl.talis.com</li>
 <li> 09:53 rl.talis.com</li>
 <li> 09:51 web.whatsapp.com</li>
