@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2652)</li>
 <li>duckduckgo.com (2572)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1578)</li>
+<li>chatgpt.com (1579)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1398)</li>
+<li>www.linkedin.com (1400)</li>
 <li>login.microsoftonline.com (1177)</li>
 <li>www.amazon.co.uk (1067)</li>
 <li>calendar.google.com (1035)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (517)</li>
 <li>forms.office.com (513)</li>
 <li>drive.google.com (437)</li>
-<li>fritz.box (391)</li>
+<li>fritz.box (393)</li>
 <li>rhul.sharepoint.com (386)</li>
 <li>adfs.herts.ac.uk (341)</li>
 
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:36 fritz.box</li>
+<ul><li> 18:33 <a href="https://en.wikipedia.org/wiki/Wireshark">Wireshark - Wikipedia</a></li>
+<li> 18:30 chatgpt.com</li>
+<li> 18:29 www.linkedin.com</li>
+<li class='same'> 18:28 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:57 fritz.box</li>
+<li class='same'> 17:53 fritz.box</li>
+<li class='same'> 17:36 fritz.box</li>
 <li class='same'> 17:35 fritz.box</li>
 <li class='same'> 17:34 fritz.box</li>
 <li class='same'> 17:33 fritz.box</li>
