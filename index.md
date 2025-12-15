@@ -72,22 +72,22 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4090)</li>
 <li>www.reddit.com (4065)</li>
 <li>outlook.office365.com (4003)</li>
-<li>www.google.com (3966)</li>
+<li>www.google.com (3967)</li>
 <li>docs.google.com (2652)</li>
-<li>duckduckgo.com (2561)</li>
+<li>duckduckgo.com (2562)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1574)</li>
+<li>chatgpt.com (1575)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1394)</li>
+<li>www.linkedin.com (1395)</li>
 <li>login.microsoftonline.com (1175)</li>
-<li>www.amazon.co.uk (1063)</li>
+<li>www.amazon.co.uk (1066)</li>
 <li>calendar.google.com (1035)</li>
 <li>moodle.royalholloway.ac.uk (915)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (671)</li>
 <li>web.whatsapp.com (659)</li>
-<li>chat.openai.com (646)</li>
+<li>chat.openai.com (647)</li>
 <li>herts.instructure.com (634)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (572)</li>
@@ -108,9 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 07:46 www.google.com</li>
+<li> 07:40 www.amazon.co.uk</li>
+<li class='same'> 07:39 www.amazon.co.uk</li>
+<li> 07:39 chatgpt.com</li>
+<li> 07:39 chat.openai.com</li>
+<li> 07:39 www.amazon.co.uk</li>
+<li> 07:38 www.amazon.com</li>
+<li> 07:38 duckduckgo.com</li>
+</ul>
+
+<br>
+
 <ul><li> 06:53 <a href="https://www.theguardian.com/money/2025/dec/15/average-mortgage-for-uk-first-time-buyer-hits-record-high">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:53 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
+<li> 06:51 blog.lastpass.com</li>
+<li> 06:51 www.linkedin.com</li>
+<li> 06:51 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:51 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:50 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:50 xtools.wmcloud.org</li>
+<li> 06:50 <a href="https://en.wikipedia.org/w/index.php?title=Special:LintErrors&wpNamespaceRestrictions=0&titlesearch=LastPass+2022+data+breach&exactmatch=1">Pages with lint errors matching title prefix or complete title: LastPass_2022_data_breach - Wikipedia</a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=info">Information for "LastPass 2022 data breach" - Wikipedia</a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:49 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li class='same'> 06:46 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:46 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:46 <a href="https://en.wikipedia.org/w/index.php?title=LastPass&action=history">LastPass: Revision history - Wikipedia</a></li>
+<li> 06:46 <a href="https://en.wikipedia.org/wiki/LastPass#2022_customer_data_and_partially-encrypted_vault_theft">LastPass - Wikipedia</a></li>
+<li> 06:44 <a href="https://en.wikipedia.org/w/index.php?title=LastPass&action=edit&section=9">Editing LastPass (section) - Wikipedia</a></li>
+<li> 06:44 <a href="https://en.wikipedia.org/wiki/LastPass">LastPass - Wikipedia</a></li>
+<li> 06:44 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 06:42 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 06:42 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
 <li> 06:41 <a href="https://en.wikipedia.org/wiki/LastPass">LastPass - Wikipedia</a></li>
