@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (513)</li>
 <li>drive.google.com (437)</li>
 <li>rhul.sharepoint.com (386)</li>
-<li>fritz.box (371)</li>
+<li>fritz.box (374)</li>
 <li>adfs.herts.ac.uk (341)</li>
 
 
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:44 fritz.box</li>
+<ul><li> 15:19 fritz.box</li>
+<li class='same'> 14:58 fritz.box</li>
+<li class='same'> 14:55 fritz.box</li>
+<li class='same'> 14:44 fritz.box</li>
 <li> 14:43 chatgpt.com</li>
 <li> 14:31 fritz.box</li>
 <li class='same'> 14:30 fritz.box</li>
