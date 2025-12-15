@@ -72,13 +72,13 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4090)</li>
 <li>www.reddit.com (4065)</li>
 <li>outlook.office365.com (4003)</li>
-<li>www.google.com (3964)</li>
-<li>docs.google.com (2651)</li>
-<li>duckduckgo.com (2558)</li>
+<li>www.google.com (3966)</li>
+<li>docs.google.com (2652)</li>
+<li>duckduckgo.com (2561)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1571)</li>
+<li>chatgpt.com (1574)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1391)</li>
+<li>www.linkedin.com (1394)</li>
 <li>login.microsoftonline.com (1179)</li>
 <li>www.amazon.co.uk (1063)</li>
 <li>calendar.google.com (1035)</li>
@@ -87,10 +87,10 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (671)</li>
 <li>web.whatsapp.com (659)</li>
-<li>chat.openai.com (644)</li>
+<li>chat.openai.com (646)</li>
 <li>herts.instructure.com (634)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (566)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (572)</li>
 <li>github.com (553)</li>
 <li>feedly.com (517)</li>
 <li>forms.office.com (513)</li>
@@ -104,11 +104,116 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 15/12/25</H3>
+
+<br>
+
+<ul><li> 06:53 <a href="https://www.theguardian.com/money/2025/dec/15/average-mortgage-for-uk-first-time-buyer-hits-record-high">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:53 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
+<li> 06:42 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:42 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:41 <a href="https://en.wikipedia.org/wiki/LastPass">LastPass - Wikipedia</a></li>
+<li> 06:41 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#cite_ref-5">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/Security_hacker?action=edit&section=12&veswitched=1">Editing Security hacker (section) - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&action=edit&section=12">Editing Security hacker (section) - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
+<li> 06:38 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:38 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=history">LastPass 2022 data breach: Revision history - Wikipedia</a></li>
+<li> 06:38 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Legal_consequences">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:35 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=4">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:35 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=3">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:35 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Impact">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:32 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=3">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:32 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:32 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack_Timeline">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:17 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:17 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:07 <a href="https://en.wikipedia.org/wiki/Security_operations_center">Security operations center - Wikipedia</a></li>
+<li> 06:07 duckduckgo.com</li>
+<li class='same'> 06:06 duckduckgo.com</li>
+<li> 06:04 support.lastpass.com</li>
+<li> 06:04 duckduckgo.com</li>
+<li> 06:01 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:01 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:00 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Background">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 05:55 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 05:54 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#cite_note-:0-1">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 05:54 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Background">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 05:53 ico.org.uk</li>
+<li> 05:52 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 05:51 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=history">LastPass 2022 data breach: Revision history - Wikipedia</a></li>
+<li> 05:51 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 05:51 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach?venotify=saved">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 05:51 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach?veswitched=1&action=edit">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 05:46 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach?veswitched=1&oldid=1327429463&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 05:45 chatgpt.com</li>
+<li> 05:45 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach?action=edit&veswitched=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 05:45 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 05:44 chatgpt.com</li>
+<li> 05:44 chat.openai.com</li>
+<li> 05:44 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 05:43 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 05:43 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 05:43 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 05:43 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 05:42 <a href="https://en.wikipedia.org/wiki/User:ChristieBot/SortableGANoms">User:ChristieBot/SortableGANoms - Wikipedia</a></li>
+<li> 05:41 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 05:35 chatgpt.com</li>
+<li> 05:35 chat.openai.com</li>
+<li> 05:34 www.linkedin.com</li>
+<li class='same'> 05:33 www.linkedin.com</li>
+<li class='same'> 05:32 www.linkedin.com</li>
+<li> 05:24 <a href="https://www.theguardian.com/uk-news/2025/dec/15/former-prince-andrew-is-butt-of-the-years-best-christmas-cracker-joke">England’s Harry Brook admits he needs to ‘rein it in’ with Ashes on line | Ashes 2025-26 | The Guardian</a></li>
+<li> 05:24 <a href="https://www.theguardian.com/sport/2025/dec/15/england-cricket-harry-brook-ashes">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:21 <a href="https://www.theguardian.com/education/2025/dec/14/ghana-students-uk-universities-face-deportion-funding-crisis">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:21 <a href="https://www.theguardian.com/film/2025/dec/15/rob-reiner-director-harry-met-sally-found-dead-with-wife-michele-singer-reiner">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
 <H3>Sunday, 14/12/25</H3>
 
 <br>
 
-<ul><li> 08:24 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 17:04 ico.org.uk</li>
+<li> 17:04 <a href="https://www.theguardian.com/australia-news/2025/dec/14/australia-had-the-gold-standard-on-gun-control-the-bondi-beach-terror-attack-will-force-it-to-confront-its-surging-number-of-weapons">Australia had the ‘gold standard’ on gun control. The Bondi beach terror attack will force it to confront its surging number of weapons | Bondi beach terror attack | The Guardian</a></li>
+<li> 17:04 ico.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 13:11 <a href="https://www.theguardian.com/australia-news/2025/dec/14/australia-had-the-gold-standard-on-gun-control-the-bondi-beach-terror-attack-will-force-it-to-confront-its-surging-number-of-weapons">Australia had the ‘gold standard’ on gun control. The Bondi beach terror attack will force it to confront its surging number of weapons | Bondi beach terror attack | The Guardian</a></li>
+<li> 13:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 10:52 <a href="https://www.theguardian.com/uk-news/2025/dec/14/police-spied-on-group-set-up-to-expose-wrongdoing-in-met-inquiry-hears">Police spied on group set up to expose wrongdoing in Met, inquiry hears | Undercover police and policing | The Guardian</a></li>
+<li> 10:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:52 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
+<li> 10:52 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:51 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:51 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 10:50 docs.google.com</li>
+<li> 10:46 www.parkrun.org.uk</li>
+<li> 10:46 ico.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 08:28 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 08:28 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=history">LastPass 2022 data breach: Revision history - Wikipedia</a></li>
+<li> 08:28 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<li class='same'> 08:24 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 08:24 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=edit">Editing British Airways data breach - Wikipedia</a></li>
 <li> 08:24 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 08:24 www.google.com</li>
@@ -120,8 +225,8 @@ With number of accesses/minutes in parentheses
 <li> 08:18 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach?venotify=saved">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 08:18 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
 <li> 08:15 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&section=3&oldid=1327425470&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
-<li> 08:15 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=3">Editing LastPass 2022 data breach (section) - Wikipedia</a></li>
-<li class='same'> 08:14 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=3">Editing LastPass 2022 data breach (section) - Wikipedia</a></li>
+<li> 08:15 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=3">LastPass 2022 data breach - Wikipedia</a></li>
+<li class='same'> 08:14 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=3">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 08:14 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 08:13 krebsonsecurity.com</li>
 <li> 07:53 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
@@ -131,18 +236,20 @@ With number of accesses/minutes in parentheses
 <li> 07:52 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#cite_ref-4">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 07:52 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 07:51 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&wvprov=sticky-header">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 07:51 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 07:51 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 07:51 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&wvprov=sticky-header">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 07:48 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&wvprov=sticky-header">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 07:48 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 07:48 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 07:47 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 07:44 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 07:44 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 07:44 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
 <li> 07:42 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 07:27 <a href="https://en.wikipedia.org/wiki/LastPass?action=edit&section=4&veswitched=1">Editing LastPass (section) - Wikipedia</a></li>
 <li> 07:26 <a href="https://en.wikipedia.org/w/index.php?title=LastPass&action=edit&section=4">Editing LastPass (section) - Wikipedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/wiki/LastPass">LastPass - Wikipedia</a></li>
 <li> 07:21 duckduckgo.com</li>
 <li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 07:17 <a href="https://en.wikipedia.org/wiki/LastPass">LastPass - Wikipedia</a></li>
 <li> 07:17 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 </ul>
 
@@ -166,57 +273,59 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:25 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=history">LastPass 2022 data breach: Revision history - Wikipedia</a></li>
 <li> 10:24 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 10:15 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 10:15 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 10:13 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 10:13 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&diff=1327228817&oldid=1327228070">LastPass 2022 data breach: Difference between revisions - Wikipedia</a></li>
 <li> 10:12 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=history">LastPass 2022 data breach: Revision history - Wikipedia</a></li>
 <li> 10:12 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
-<li class='same'> 09:49 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 10:02 www.google.com</li>
+<li class='same'> 09:57 www.google.com</li>
+<li> 09:49 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:49 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=history">LastPass 2022 data breach: Revision history - Wikipedia</a></li>
 <li> 09:49 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:49 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:49 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:49 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#cite_ref-LP-notice2_6-0">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:48 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:44 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:44 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:40 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=history">LastPass 2022 data breach: Revision history - Wikipedia</a></li>
 <li> 09:40 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:40 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:40 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:39 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:38 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:38 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:38 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:36 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:36 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:36 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:35 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:34 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:34 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:34 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:34 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:32 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:32 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:31 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:30 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:30 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:30 <a href="https://en.wikipedia.org/wiki/Mandiant">Mandiant - Wikipedia</a></li>
 <li> 09:30 duckduckgo.com</li>
 <li> 09:30 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:29 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:29 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:28 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=history">LastPass 2022 data breach: Revision history - Wikipedia</a></li>
 <li> 09:28 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:27 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:27 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:27 www.bleepingcomputer.com</li>
 <li> 09:26 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:23 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:23 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:22 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:20 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
 <li> 09:19 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
 <li> 09:19 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
 <li> 09:19 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&action=history">British Airways data breach: Revision history - Wikipedia</a></li>
-<li> 09:17 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:17 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:17 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:17 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach?venotify=saved">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:17 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:16 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&section=1&oldid=1327223359&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:16 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:16 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:16 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#cite_ref-ICO-penalty_1-0">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:15 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach#Attack">LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:15 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:15 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=1">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:15 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:14 blog.lastpass.com</li>
 <li> 09:13 www.bleepingcomputer.com</li>
@@ -228,7 +337,7 @@ With number of accesses/minutes in parentheses
 <li> 09:06 <a href="https://en.wikipedia.org/w/index.php?title=Talk:LastPass_2022_data_breach&action=edit&redlink=1">Starting new topic on Talk:LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:06 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:06 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach?action=edit&section=2&veswitched=1">Editing LastPass 2022 data breach (section) - Wikipedia</a></li>
-<li> 09:06 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">Editing LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:06 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit&section=2">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:06 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=edit">Editing LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:05 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:03 <a href="https://en.wikipedia.org/wiki/GoTo_(US_company)">GoTo (US company) - Wikipedia</a></li>
@@ -282,7 +391,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:08 ico.org.uk</li>
+<ul><li> 22:36 ico.org.uk</li>
+<li class='same'> 22:08 ico.org.uk</li>
 <li> 22:08 www.google.com</li>
 <li> 22:08 www.reddit.com</li>
 </ul>
