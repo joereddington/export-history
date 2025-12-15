@@ -95,8 +95,8 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (517)</li>
 <li>forms.office.com (513)</li>
 <li>drive.google.com (437)</li>
+<li>fritz.box (391)</li>
 <li>rhul.sharepoint.com (386)</li>
-<li>fritz.box (384)</li>
 <li>adfs.herts.ac.uk (341)</li>
 
 
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:52 fritz.box</li>
+<ul><li> 17:36 fritz.box</li>
+<li class='same'> 17:35 fritz.box</li>
+<li class='same'> 17:34 fritz.box</li>
+<li class='same'> 17:33 fritz.box</li>
+<li class='same'> 17:28 fritz.box</li>
+<li class='same'> 17:08 fritz.box</li>
+<li class='same'> 17:00 fritz.box</li>
+<li class='same'> 16:52 fritz.box</li>
 <li class='same'> 16:47 fritz.box</li>
 <li class='same'> 16:46 fritz.box</li>
 <li class='same'> 16:45 fritz.box</li>
