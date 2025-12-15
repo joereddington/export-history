@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4224)</li>
+<ol><li>mail.google.com (4228)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.reddit.com (4065)</li>
-<li>outlook.office365.com (4009)</li>
+<li>outlook.office365.com (4012)</li>
 <li>www.google.com (3967)</li>
 <li>docs.google.com (2652)</li>
 <li>duckduckgo.com (2571)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1577)</li>
+<li>chatgpt.com (1578)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1398)</li>
-<li>login.microsoftonline.com (1176)</li>
+<li>login.microsoftonline.com (1177)</li>
 <li>www.amazon.co.uk (1067)</li>
 <li>calendar.google.com (1035)</li>
-<li>moodle.royalholloway.ac.uk (915)</li>
+<li>moodle.royalholloway.ac.uk (924)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (672)</li>
-<li>web.whatsapp.com (661)</li>
+<li>web.whatsapp.com (662)</li>
 <li>chat.openai.com (648)</li>
 <li>herts.instructure.com (639)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (572)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (573)</li>
 <li>github.com (553)</li>
 <li>feedly.com (517)</li>
 <li>forms.office.com (513)</li>
 <li>drive.google.com (437)</li>
 <li>rhul.sharepoint.com (386)</li>
-<li>fritz.box (364)</li>
+<li>fritz.box (371)</li>
 <li>adfs.herts.ac.uk (341)</li>
 
 
@@ -105,6 +105,39 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 15/12/25</H3>
+
+<br>
+
+<ul><li> 14:44 fritz.box</li>
+<li> 14:43 chatgpt.com</li>
+<li> 14:31 fritz.box</li>
+<li class='same'> 14:30 fritz.box</li>
+<li class='same'> 14:24 fritz.box</li>
+<li class='same'> 14:23 fritz.box</li>
+<li class='same'> 14:22 fritz.box</li>
+<li class='same'> 14:21 fritz.box</li>
+<li> 14:17 mail.google.com</li>
+<li> 14:16 outlook.office365.com</li>
+<li> 14:16 mail.google.com</li>
+<li> 14:14 <a href="https://www.theguardian.com/film/2025/dec/15/rob-reiner-director-harry-met-sally-found-dead-with-wife-michele-singer-reiner">Director Rob Reiner and wife Michele Singer Reiner found dead at home | Film | The Guardian</a></li>
+<li> 14:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:14 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
+<li> 14:14 mail.google.com</li>
+<li> 14:07 outlook.office365.com</li>
+<li class='same'> 14:06 outlook.office365.com</li>
+<li> 14:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:03 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:01 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:00 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:59 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:58 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:57 moodle.royalholloway.ac.uk</li>
+<li> 13:57 login.microsoftonline.com</li>
+<li> 13:57 moodle.royalholloway.ac.uk</li>
+<li> 13:57 mail.google.com</li>
+<li> 13:53 web.whatsapp.com</li>
+</ul>
 
 <br>
 
@@ -261,7 +294,7 @@ With number of accesses/minutes in parentheses
 <li> 05:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 05:21 <a href="https://www.theguardian.com/education/2025/dec/14/ghana-students-uk-universities-face-deportion-funding-crisis">Latest news, sport and opinion from the Guardian</a></li>
 <li> 05:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 05:21 <a href="https://www.theguardian.com/film/2025/dec/15/rob-reiner-director-harry-met-sally-found-dead-with-wife-michele-singer-reiner">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:21 <a href="https://www.theguardian.com/film/2025/dec/15/rob-reiner-director-harry-met-sally-found-dead-with-wife-michele-singer-reiner">Director Rob Reiner and wife Michele Singer Reiner found dead at home | Film | The Guardian</a></li>
 <li> 05:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
