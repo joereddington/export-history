@@ -79,11 +79,11 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1579)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1400)</li>
-<li>login.microsoftonline.com (1177)</li>
+<li>login.microsoftonline.com (1173)</li>
 <li>www.amazon.co.uk (1067)</li>
 <li>calendar.google.com (1035)</li>
-<li>moodle.royalholloway.ac.uk (924)</li>
-<li>rhul-my.sharepoint.com (820)</li>
+<li>moodle.royalholloway.ac.uk (922)</li>
+<li>rhul-my.sharepoint.com (819)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (672)</li>
 <li>web.whatsapp.com (662)</li>
@@ -17544,8 +17544,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:36 moodle.royalholloway.ac.uk</li>
 <li class='same'> 16:35 moodle.royalholloway.ac.uk</li>
 <li> 16:35 login.microsoftonline.com</li>
-<li> 16:35 moodle.royalholloway.ac.uk</li>
-<li> 16:35 login.microsoftonline.com</li>
 <li> 16:31 herts.instructure.com</li>
 <li class='same'> 16:29 herts.instructure.com</li>
 <li> 16:29 fritz.box</li>
@@ -17621,8 +17619,6 @@ With number of accesses/minutes in parentheses
 <li> 11:12 forms.office.com</li>
 <li class='same'> 11:07 forms.office.com</li>
 <li> 11:06 rhul-my.sharepoint.com</li>
-<li> 11:06 login.microsoftonline.com</li>
-<li> 11:06 rhul-my.sharepoint.com</li>
 <li> 11:02 dashboards.rhul.ac.uk</li>
 <li class='same'> 11:01 dashboards.rhul.ac.uk</li>
 <li> 11:00 forms.office.com</li>
@@ -17632,9 +17628,6 @@ With number of accesses/minutes in parentheses
 <li> 10:57 login.microsoftonline.com</li>
 <li> 10:57 forms.office.com</li>
 <li> 10:57 outlook.office365.com</li>
-<li> 10:57 login.microsoftonline.com</li>
-<li> 10:57 moodle.royalholloway.ac.uk</li>
-<li> 10:57 login.microsoftonline.com</li>
 <li> 10:57 moodle.royalholloway.ac.uk</li>
 <li> 10:57 login.microsoftonline.com</li>
 <li> 10:37 ev.turnitinuk.com</li>
