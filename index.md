@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4228)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.reddit.com (4069)</li>
-<li>outlook.office365.com (4014)</li>
+<li>outlook.office365.com (4015)</li>
 <li>www.google.com (3967)</li>
 <li>docs.google.com (2652)</li>
 <li>duckduckgo.com (2573)</li>
@@ -90,12 +90,12 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (648)</li>
 <li>herts.instructure.com (639)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (573)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (574)</li>
 <li>github.com (553)</li>
 <li>feedly.com (517)</li>
 <li>forms.office.com (513)</li>
 <li>drive.google.com (437)</li>
-<li>fritz.box (393)</li>
+<li>fritz.box (396)</li>
 <li>rhul.sharepoint.com (386)</li>
 <li>adfs.herts.ac.uk (341)</li>
 
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:47 outlook.office365.com</li>
+<ul><li> 09:29 fritz.box</li>
+<li class='same'> 09:28 fritz.box</li>
+<li class='same'> 09:27 fritz.box</li>
+<li> 09:01 www.hr.herts.ac.uk</li>
+<li> 08:59 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:52 <a href="https://www.theguardian.com/us-news/2025/dec/15/trump-rob-reiner-reaction-truth-social">Trump’s post on Rob Reiner sparks outrage from lawmakers and celebrities | Donald Trump | The Guardian</a></li>
+<li> 07:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:51 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
+<li> 07:47 outlook.office365.com</li>
 <li> 07:45 www.reddit.com</li>
 <li> 07:45 duckduckgo.com</li>
 <li> 07:44 safeguardingdigital.co.uk</li>
