@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4228)</li>
 <li>outlook.office.com (4090)</li>
-<li>www.reddit.com (4065)</li>
-<li>outlook.office365.com (4012)</li>
+<li>www.reddit.com (4069)</li>
+<li>outlook.office365.com (4014)</li>
 <li>www.google.com (3967)</li>
 <li>docs.google.com (2652)</li>
-<li>duckduckgo.com (2572)</li>
+<li>duckduckgo.com (2573)</li>
 <li>bsky.app (1581)</li>
 <li>chatgpt.com (1579)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1400)</li>
-<li>login.microsoftonline.com (1173)</li>
+<li>www.linkedin.com (1401)</li>
+<li>login.microsoftonline.com (1174)</li>
 <li>www.amazon.co.uk (1067)</li>
 <li>calendar.google.com (1035)</li>
-<li>moodle.royalholloway.ac.uk (922)</li>
+<li>moodle.royalholloway.ac.uk (924)</li>
 <li>rhul-my.sharepoint.com (819)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (672)</li>
@@ -104,7 +104,33 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 16/12/25</H3>
+
+<br>
+
+<ul><li> 07:47 outlook.office365.com</li>
+<li> 07:45 www.reddit.com</li>
+<li> 07:45 duckduckgo.com</li>
+<li> 07:44 safeguardingdigital.co.uk</li>
+<li> 07:43 outlook.office365.com</li>
+<li> 07:43 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:43 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:43 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:42 www.reddit.com</li>
+<li class='same'> 07:40 www.reddit.com</li>
+<li class='same'> 07:39 www.reddit.com</li>
+<li> 07:39 www.giantitp.com</li>
+<li> 07:37 www.linkedin.com</li>
+<li> 07:32 moodle.royalholloway.ac.uk</li>
+<li> 07:32 login.microsoftonline.com</li>
+<li> 07:32 moodle.royalholloway.ac.uk</li>
+</ul>
+
 <H3>Monday, 15/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
