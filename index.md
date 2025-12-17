@@ -73,8 +73,8 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (4069)</li>
 <li>www.google.com (3969)</li>
 <li>outlook.office365.com (3830)</li>
-<li>docs.google.com (2652)</li>
-<li>duckduckgo.com (2579)</li>
+<li>docs.google.com (2653)</li>
+<li>duckduckgo.com (2582)</li>
 <li>chatgpt.com (1582)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1456)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (672)</li>
-<li>web.whatsapp.com (662)</li>
+<li>web.whatsapp.com (663)</li>
 <li>chat.openai.com (650)</li>
 <li>herts.instructure.com (639)</li>
 <li>tvtropes.org (630)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:47 gradapp.clarkson.edu</li>
+<ul><li> 18:26 docs.google.com</li>
+<li> 18:05 signin.ebay.com</li>
+<li> 18:05 duckduckgo.com</li>
+<li class='same'> 18:04 duckduckgo.com</li>
+<li> 18:04 www.ebay.co.uk</li>
+<li class='same'> 18:03 www.ebay.co.uk</li>
+<li> 18:01 www.premierinn.com</li>
+<li> 18:01 web.whatsapp.com</li>
+<li> 17:59 www.premierinn.com</li>
+<li class='same'> 17:58 www.premierinn.com</li>
+<li class='same'> 17:57 www.premierinn.com</li>
+<li class='same'> 17:56 www.premierinn.com</li>
+<li class='same'> 17:55 www.premierinn.com</li>
+<li> 17:54 publocation.uk</li>
+<li> 17:54 duckduckgo.com</li>
+<li> 17:47 gradapp.clarkson.edu</li>
 <li> 17:45 gradapply.slu.edu</li>
 <li> 17:39 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 17:39 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
