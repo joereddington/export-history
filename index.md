@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1582)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1406)</li>
+<li>www.linkedin.com (1407)</li>
 <li>login.microsoftonline.com (1175)</li>
 <li>www.amazon.co.uk (1067)</li>
 <li>calendar.google.com (1037)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 17/12/25</H3>
+
+<br>
+
+<ul><li> 17:47 gradapp.clarkson.edu</li>
+<li> 17:45 gradapply.slu.edu</li>
+<li> 17:39 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:39 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:39 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:39 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:39 <a href="https://en.wikipedia.org/"></a></li>
+<li> 17:39 www.linkedin.com</li>
+</ul>
 
 <br>
 
