@@ -72,22 +72,22 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4081)</li>
 <li>www.reddit.com (4069)</li>
 <li>www.google.com (3967)</li>
-<li>outlook.office365.com (3824)</li>
+<li>outlook.office365.com (3830)</li>
 <li>docs.google.com (2652)</li>
-<li>duckduckgo.com (2578)</li>
+<li>duckduckgo.com (2579)</li>
+<li>chatgpt.com (1582)</li>
 <li>bsky.app (1581)</li>
-<li>chatgpt.com (1579)</li>
 <li>www.facebook.com (1456)</li>
 <li>www.linkedin.com (1406)</li>
-<li>login.microsoftonline.com (1174)</li>
+<li>login.microsoftonline.com (1175)</li>
 <li>www.amazon.co.uk (1067)</li>
 <li>calendar.google.com (1037)</li>
-<li>moodle.royalholloway.ac.uk (930)</li>
-<li>rhul-my.sharepoint.com (819)</li>
+<li>moodle.royalholloway.ac.uk (935)</li>
+<li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (672)</li>
 <li>web.whatsapp.com (662)</li>
-<li>chat.openai.com (648)</li>
+<li>chat.openai.com (650)</li>
 <li>herts.instructure.com (639)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (574)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:50 moodle.royalholloway.ac.uk</li>
+<ul><li> 07:49 chatgpt.com</li>
+<li> 07:49 chat.openai.com</li>
+<li> 07:48 outlook.office365.com</li>
+<li class='same'> 07:47 outlook.office365.com</li>
+<li class='same'> 07:40 outlook.office365.com</li>
+<li> 07:40 www.todayifoundout.com</li>
+<li> 07:39 english.stackexchange.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:08 outlook.office365.com</li>
+<li> 07:06 rhul-my.sharepoint.com</li>
+<li> 07:06 rhul.sharepoint.com</li>
+<li> 07:05 rhul-my.sharepoint.com</li>
+<li class='same'> 07:04 rhul-my.sharepoint.com</li>
+<li> 07:04 login.microsoftonline.com</li>
+<li> 07:04 duckduckgo.com</li>
+<li> 07:04 outlook.office365.com</li>
+<li> 07:04 login.microsoftonline.com</li>
+<li> 07:04 outlook.office365.com</li>
+<li> 07:04 m365.cloud.microsoft</li>
+<li> 07:04 login.microsoftonline.com</li>
+<li> 07:04 moodle.royalholloway.ac.uk</li>
+<li> 06:59 chatgpt.com</li>
+<li class='same'> 06:58 chatgpt.com</li>
+<li> 06:58 chat.openai.com</li>
+<li> 06:55 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:53 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:52 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:51 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:50 moodle.royalholloway.ac.uk</li>
 <li class='same'> 06:49 moodle.royalholloway.ac.uk</li>
 <li class='same'> 06:48 moodle.royalholloway.ac.uk</li>
 <li> 06:47 rl.talis.com</li>
@@ -17141,7 +17172,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:58 analytics.google.com</li>
 <li> 16:58 accounts.google.co.uk</li>
 <li> 16:58 gds.google.com</li>
-<li> 16:58 accounts.google.com</li>
 <li> 16:57 analytics.google.com</li>
 <li> 16:57 accounts.google.com</li>
 <li> 16:56 <a href="https://www.theguardian.com/uk-news/2025/sep/17/southport-killer-axel-rudakubana-brother-inquiry">Southport killer was discharged from mental health services six days before attack, inquiry hears | Southport attack | The Guardian</a></li>
@@ -17260,8 +17290,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:24 outlook.office365.com</li>
 <li class='same'> 12:23 outlook.office365.com</li>
 <li> 12:20 rhul.sharepoint.com</li>
-<li> 12:20 login.microsoftonline.com</li>
-<li> 12:20 rhul.sharepoint.com</li>
 <li class='same'> 12:17 rhul.sharepoint.com</li>
 <li> 12:16 outlook.office365.com</li>
 <li> 12:15 chatgpt.com</li>
@@ -17281,7 +17309,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:53 outlook.office365.com</li>
 <li class='same'> 11:52 outlook.office365.com</li>
 <li class='same'> 11:51 outlook.office365.com</li>
-<li> 11:51 login.microsoftonline.com</li>
 <li> 11:47 chatgpt.com</li>
 <li> 11:47 chat.openai.com</li>
 <li> 11:37 scholar.google.com</li>
