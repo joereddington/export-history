@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4238)</li>
+<li>www.reddit.com (4086)</li>
 <li>outlook.office.com (4083)</li>
-<li>www.reddit.com (4074)</li>
 <li>www.google.com (3969)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2653)</li>
-<li>duckduckgo.com (2585)</li>
-<li>chatgpt.com (1586)</li>
+<li>duckduckgo.com (2586)</li>
+<li>chatgpt.com (1589)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1456)</li>
-<li>www.linkedin.com (1412)</li>
+<li>www.linkedin.com (1414)</li>
 <li>login.microsoftonline.com (1178)</li>
 <li>www.amazon.co.uk (1067)</li>
 <li>calendar.google.com (1040)</li>
@@ -86,13 +86,13 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (824)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (674)</li>
-<li>web.whatsapp.com (666)</li>
-<li>chat.openai.com (651)</li>
+<li>web.whatsapp.com (668)</li>
+<li>chat.openai.com (652)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (574)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (575)</li>
 <li>github.com (553)</li>
-<li>feedly.com (518)</li>
+<li>feedly.com (519)</li>
 <li>forms.office.com (516)</li>
 <li>drive.google.com (437)</li>
 <li>fritz.box (398)</li>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:45 www.eff.org</li>
+<ul><li> 18:34 copyq.readthedocs.io</li>
+<li> 18:34 <a href="https://vi.stackexchange.com/questions/31805/how-to-set-copyq-to-handle-clipboard">neovim - How to set copyq to handle clipboard? - Vi and Vim Stack Exchange</a></li>
+<li> 18:34 duckduckgo.com</li>
+<li> 18:20 www.linkedin.com</li>
+<li class='same'> 18:19 www.linkedin.com</li>
+<li> 18:19 chatgpt.com</li>
+<li class='same'> 18:18 chatgpt.com</li>
+<li> 18:17 web.whatsapp.com</li>
+<li> 18:16 www.reddit.com</li>
+<li> 18:14 chatgpt.com</li>
+<li> 18:14 chat.openai.com</li>
+<li> 18:13 www.reddit.com</li>
+<li class='same'> 18:10 www.reddit.com</li>
+<li class='same'> 18:09 www.reddit.com</li>
+<li> 18:07 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:07 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
+<li> 18:05 web.whatsapp.com</li>
+<li> 18:05 www.reddit.com</li>
+<li class='same'> 18:04 www.reddit.com</li>
+<li class='same'> 18:03 www.reddit.com</li>
+<li class='same'> 18:02 www.reddit.com</li>
+<li class='same'> 17:57 www.reddit.com</li>
+<li class='same'> 17:56 www.reddit.com</li>
+<li class='same'> 17:55 www.reddit.com</li>
+<li class='same'> 17:54 www.reddit.com</li>
+<li> 17:54 feedly.com</li>
+<li> 17:45 www.eff.org</li>
 <li> 17:42 feedly.com</li>
 <li> 17:40 chatgpt.com</li>
 <li class='same'> 17:39 chatgpt.com</li>
