@@ -74,11 +74,11 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3968)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2654)</li>
-<li>duckduckgo.com (2593)</li>
-<li>chatgpt.com (1591)</li>
+<li>duckduckgo.com (2594)</li>
+<li>chatgpt.com (1592)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
-<li>www.linkedin.com (1417)</li>
+<li>www.linkedin.com (1418)</li>
 <li>login.microsoftonline.com (1175)</li>
 <li>www.amazon.co.uk (1071)</li>
 <li>calendar.google.com (1040)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (674)</li>
 <li>web.whatsapp.com (671)</li>
-<li>chat.openai.com (653)</li>
+<li>chat.openai.com (654)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (577)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 19/12/25</H3>
+
+<br>
+
+<ul><li> 13:37 www.researchgate.net</li>
+<li> 13:37 duckduckgo.com</li>
+<li> 13:26 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:16 dashboards.rhul.ac.uk</li>
+<li> 12:09 chatgpt.com</li>
+<li> 12:09 chat.openai.com</li>
+</ul>
 
 <br>
 
