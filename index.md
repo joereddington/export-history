@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4240)</li>
-<li>www.reddit.com (4088)</li>
+<li>www.reddit.com (4090)</li>
 <li>outlook.office.com (4083)</li>
 <li>www.google.com (3968)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2654)</li>
-<li>duckduckgo.com (2592)</li>
+<li>duckduckgo.com (2593)</li>
 <li>chatgpt.com (1591)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
-<li>www.linkedin.com (1415)</li>
+<li>www.linkedin.com (1416)</li>
 <li>login.microsoftonline.com (1175)</li>
 <li>www.amazon.co.uk (1071)</li>
 <li>calendar.google.com (1040)</li>
@@ -86,13 +86,13 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (824)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (674)</li>
-<li>web.whatsapp.com (669)</li>
+<li>web.whatsapp.com (670)</li>
 <li>chat.openai.com (653)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (576)</li>
 <li>github.com (553)</li>
-<li>feedly.com (519)</li>
+<li>feedly.com (520)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (437)</li>
 <li>fritz.box (398)</li>
@@ -105,6 +105,36 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 19/12/25</H3>
+
+<br>
+
+<ul><li> 09:49 www.reddit.com</li>
+<li class='same'> 09:43 www.reddit.com</li>
+<li> 09:36 www.linkedin.com</li>
+<li> 09:32 feedly.com</li>
+<li> 09:20 duckduckgo.com</li>
+<li> 09:09 <a href="https://en.wikipedia.org/wiki/Constructive_alignment?utm_source=chatgpt.com">Constructive alignment - Wikipedia</a></li>
+<li> 09:00 <a href="https://en.wikipedia.org/wiki/Talk:Pointer_(computer_programming)">Talk:Pointer (computer programming) - Wikipedia</a></li>
+<li> 09:00 <a href="https://en.wikipedia.org/wiki/Pointer_(computer_programming)">Pointer (computer programming) - Wikipedia</a></li>
+<li> 08:59 <a href="https://en.wikipedia.org/wiki/Talk:The_Black_Vault">Talk:The Black Vault - Wikipedia</a></li>
+<li> 08:59 <a href="https://en.wikipedia.org/wiki/The_Black_Vault">The Black Vault - Wikipedia</a></li>
+<li> 08:58 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computing">Wikipedia:WikiProject Computing - Wikipedia</a></li>
+<li> 08:58 <a href="https://en.wikipedia.org/wiki/Talk:Data_(computer_science)">Talk:Data (computer science) - Wikipedia</a></li>
+<li> 08:57 <a href="https://en.wikipedia.org/wiki/Data_(computer_science)">Data (computer science) - Wikipedia</a></li>
+<li> 08:57 <a href="https://en.wikipedia.org/wiki/Digital_data">Digital data - Wikipedia</a></li>
+<li> 08:57 <a href="https://en.wikipedia.org/wiki/The_Picture_Company">The Picture Company - Wikipedia</a></li>
+<li> 08:57 <a href="https://en.wikipedia.org/wiki/Brooke_Tessmacher">Brooke Tessmacher - Wikipedia</a></li>
+<li> 08:57 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 08:57 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 08:56 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 08:56 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 08:56 <a href="https://en.wikipedia.org/"></a></li>
+</ul>
+
+<br>
+
+<ul><li> 08:20 web.whatsapp.com</li>
+</ul>
 
 <br>
 
