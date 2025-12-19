@@ -68,35 +68,35 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4238)</li>
-<li>www.reddit.com (4086)</li>
+<ol><li>mail.google.com (4240)</li>
+<li>www.reddit.com (4088)</li>
 <li>outlook.office.com (4083)</li>
 <li>www.google.com (3968)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2654)</li>
-<li>duckduckgo.com (2591)</li>
-<li>chatgpt.com (1589)</li>
+<li>duckduckgo.com (2592)</li>
+<li>chatgpt.com (1591)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1415)</li>
-<li>login.microsoftonline.com (1173)</li>
+<li>login.microsoftonline.com (1175)</li>
 <li>www.amazon.co.uk (1071)</li>
 <li>calendar.google.com (1040)</li>
-<li>moodle.royalholloway.ac.uk (935)</li>
+<li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (824)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (674)</li>
-<li>web.whatsapp.com (668)</li>
-<li>chat.openai.com (652)</li>
+<li>web.whatsapp.com (669)</li>
+<li>chat.openai.com (653)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (575)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (576)</li>
 <li>github.com (553)</li>
 <li>feedly.com (519)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (437)</li>
 <li>fritz.box (398)</li>
-<li>rhul.sharepoint.com (386)</li>
+<li>rhul.sharepoint.com (387)</li>
 <li>adfs.herts.ac.uk (342)</li>
 
 
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:48 <a href="https://en.wikipedia.org/wiki/Green_Book_(film)">Green Book (film) - Wikipedia</a></li>
+<ul><li> 07:42 www.reddit.com</li>
+<li class='same'> 07:40 www.reddit.com</li>
+<li> 07:37 moodle.royalholloway.ac.uk</li>
+<li> 07:31 intranet.royalholloway.ac.uk</li>
+<li> 07:30 www.royalholloway.ac.uk</li>
+<li> 07:29 rhul.sharepoint.com</li>
+<li> 07:29 login.microsoftonline.com</li>
+<li> 07:29 web.whatsapp.com</li>
+<li> 07:29 intranet.royalholloway.ac.uk</li>
+<li class='same'> 07:21 intranet.royalholloway.ac.uk</li>
+<li> 07:19 rhul.hosted.panopto.com</li>
+<li> 07:19 login.microsoftonline.com</li>
+<li> 07:19 rhul.hosted.panopto.com</li>
+<li> 07:17 chatgpt.com</li>
+<li class='same'> 07:11 chatgpt.com</li>
+<li> 07:11 chat.openai.com</li>
+<li> 07:08 mail.google.com</li>
+<li> 06:57 <a href="https://en.wikipedia.org/wiki/Don_Shirley">Don Shirley - Wikipedia</a></li>
+<li> 06:56 <a href="https://en.wikipedia.org/wiki/Tony_Lip">Tony Lip - Wikipedia</a></li>
+<li> 06:55 <a href="https://en.wikipedia.org/wiki/Nick_Vallelonga">Nick Vallelonga - Wikipedia</a></li>
+<li> 06:55 <a href="https://en.wikipedia.org/wiki/Green_Book_(film)">Green Book (film) - Wikipedia</a></li>
+<li> 06:55 duckduckgo.com</li>
+<li> 06:55 mail.google.com</li>
+<li> 06:55 www.gmail.com</li>
+<li> 06:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:54 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
+<li> 06:53 <a href="https://en.wikipedia.org/wiki/Mahershala_Ali">Mahershala Ali - Wikipedia</a></li>
+<li> 06:48 <a href="https://en.wikipedia.org/wiki/Green_Book_(film)">Green Book (film) - Wikipedia</a></li>
 <li> 06:48 duckduckgo.com</li>
 <li> 06:42 daringfireball.net</li>
 <li> 06:41 <a href="https://en.wikipedia.org/wiki/Reported_Road_Casualties_Great_Britain">Reported Road Casualties Great Britain - Wikipedia</a></li>
