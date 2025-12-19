@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1591)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
-<li>www.linkedin.com (1416)</li>
+<li>www.linkedin.com (1417)</li>
 <li>login.microsoftonline.com (1175)</li>
 <li>www.amazon.co.uk (1071)</li>
 <li>calendar.google.com (1040)</li>
@@ -86,13 +86,13 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (824)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (674)</li>
-<li>web.whatsapp.com (670)</li>
+<li>web.whatsapp.com (671)</li>
 <li>chat.openai.com (653)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (576)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (577)</li>
 <li>github.com (553)</li>
-<li>feedly.com (520)</li>
+<li>feedly.com (521)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (437)</li>
 <li>fritz.box (398)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:49 www.reddit.com</li>
+<ul><li> 10:49 <a href="https://www.theguardian.com/technology/2025/dec/19/uk-foreign-office-victim-cyber-attack-october-">UK Foreign Office victim of cyber-attack in October, says Chris Bryant | Cybercrime | The Guardian</a></li>
+<li> 10:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:48 <a href="https://www.theguardian.com/">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
+<li> 10:44 <a href="https://www.theguardian.com/world/2025/dec/12/south-korea-exam-chief-quits-after-complaints-english-test-was-too-hard">South Korea exam chief quits after complaints English test was too hard | South Korea | The Guardian</a></li>
+<li> 10:36 www.linkedin.com</li>
+<li> 10:36 www.wired.com</li>
+<li> 10:35 feedly.com</li>
+<li> 10:06 cisse.info</li>
+<li> 10:06 scholar.google.com</li>
+<li class='same'> 10:05 scholar.google.com</li>
+<li> 09:59 web.whatsapp.com</li>
+<li> 09:49 www.reddit.com</li>
 <li class='same'> 09:43 www.reddit.com</li>
 <li> 09:36 www.linkedin.com</li>
 <li> 09:32 feedly.com</li>
