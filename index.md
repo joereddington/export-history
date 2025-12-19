@@ -74,13 +74,13 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3969)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2654)</li>
-<li>duckduckgo.com (2588)</li>
+<li>duckduckgo.com (2591)</li>
 <li>chatgpt.com (1589)</li>
 <li>bsky.app (1581)</li>
-<li>www.facebook.com (1456)</li>
+<li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1415)</li>
 <li>login.microsoftonline.com (1178)</li>
-<li>www.amazon.co.uk (1067)</li>
+<li>www.amazon.co.uk (1071)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (935)</li>
 <li>rhul-my.sharepoint.com (824)</li>
@@ -104,7 +104,41 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 19/12/25</H3>
+
+<br>
+
+<ul><li> 06:48 <a href="https://en.wikipedia.org/wiki/Green_Book_(film)">Green Book (film) - Wikipedia</a></li>
+<li> 06:48 duckduckgo.com</li>
+<li> 06:42 daringfireball.net</li>
+<li> 06:41 <a href="https://en.wikipedia.org/wiki/Reported_Road_Casualties_Great_Britain">Reported Road Casualties Great Britain - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/Misfits_Boxing">Misfits Boxing - Wikipedia</a></li>
+<li> 06:40 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=Elliott_Gunton&curid=77766072&diff=1328187019&oldid=1321941965">Elliott Gunton: Difference between revisions - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=Icknield_High_School&curid=7149814&diff=1328266541&oldid=1323418468">Icknield High School: Difference between revisions - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:39 <a href="https://en.wikipedia.org/"></a></li>
+<li> 06:31 www.facebook.com</li>
+<li> 06:29 www.amazon.co.uk</li>
+<li> 06:29 <a href="https://en.wikipedia.org/wiki/Between_Earth_and_Sky">Between Earth and Sky - Wikipedia</a></li>
+<li> 06:29 duckduckgo.com</li>
+<li> 06:29 www.amazon.co.uk</li>
+<li class='same'> 06:28 www.amazon.co.uk</li>
+<li class='same'> 06:27 www.amazon.co.uk</li>
+<li> 06:27 duckduckgo.com</li>
+</ul>
+
 <H3>Thursday, 18/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
