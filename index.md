@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4240)</li>
 <li>www.reddit.com (4090)</li>
 <li>outlook.office.com (4083)</li>
-<li>www.google.com (3968)</li>
+<li>www.google.com (3971)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2654)</li>
 <li>duckduckgo.com (2594)</li>
@@ -104,7 +104,24 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 20/12/25</H3>
+
+<br>
+
+<ul><li> 05:31 www.google.com</li>
+</ul>
+
 <H3>Friday, 19/12/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:08 www.google.com</li>
+<li> 21:02 www.natwest.com</li>
+</ul>
 
 <br>
 
@@ -400,7 +417,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:06 www.google.com</li>
+<ul><li> 14:07 www.royalholloway.ac.uk</li>
+<li> 14:07 www.google.com</li>
+<li> 14:07 www.royalholloway.ac.uk</li>
+<li class='same'> 14:06 www.royalholloway.ac.uk</li>
+<li> 14:06 www.google.com</li>
 </ul>
 
 <br>
