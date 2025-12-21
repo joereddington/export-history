@@ -108,6 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:12 <a href="https://en.wikipedia.org/w/index.php?title=Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens&oldid=512273110">Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 18:11 <a href="https://en.wikipedia.org/w/index.php?title=Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens&diff=cur&oldid=512273110">Sigma 8-16mm f/4.5-5.6 DC HSM lens: Difference between revisions - Wikipedia</a></li>
+<li> 18:11 <a href="https://en.wikipedia.org/w/index.php?title=Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens&oldid=512273110">Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 18:10 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens?markasread=342488911&markasreadwiki=enwiki#c-Z1720-20251221151600-Joereddington-20251118153600">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 18:10 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens#c-Z1720-20251221151600-Joereddington-20251118153600">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 18:10 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:10 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:10 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 18:10 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 18:10 <a href="https://en.wikipedia.org/"></a></li>
+</ul>
+
+<br>
+
 <ul><li> 17:02 www.amazon.co.uk</li>
 <li> 17:02 duckduckgo.com</li>
 <li> 17:02 www.amazon.co.uk</li>
