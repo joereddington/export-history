@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4240)</li>
+<ol><li>mail.google.com (4241)</li>
 <li>www.reddit.com (4090)</li>
 <li>outlook.office.com (4083)</li>
 <li>www.google.com (3976)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1594)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
-<li>www.linkedin.com (1419)</li>
+<li>www.linkedin.com (1421)</li>
 <li>login.microsoftonline.com (1175)</li>
 <li>www.amazon.co.uk (1075)</li>
 <li>calendar.google.com (1040)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (824)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (674)</li>
-<li>web.whatsapp.com (671)</li>
+<li>web.whatsapp.com (673)</li>
 <li>chat.openai.com (655)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 21/12/25</H3>
+
+<br>
+
+<ul><li> 16:56 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:56 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:55 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens?markasread=342488911&markasreadwiki=enwiki#c-Z1720-20251221151600-Joereddington-20251118153600">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 16:55 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens#c-Z1720-20251221151600-Joereddington-20251118153600">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
+<li> 16:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:55 <a href="https://en.wikipedia.org/"></a></li>
+</ul>
+
+<br>
+
+<ul><li> 15:05 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:52 www.linkedin.com</li>
+<li class='same'> 11:51 www.linkedin.com</li>
+<li> 11:51 web.whatsapp.com</li>
+<li class='same'> 11:28 web.whatsapp.com</li>
+</ul>
 
 <br>
 
