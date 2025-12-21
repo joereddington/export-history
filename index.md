@@ -75,19 +75,19 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2654)</li>
 <li>duckduckgo.com (2594)</li>
-<li>chatgpt.com (1592)</li>
+<li>chatgpt.com (1594)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
-<li>www.linkedin.com (1418)</li>
+<li>www.linkedin.com (1419)</li>
 <li>login.microsoftonline.com (1175)</li>
-<li>www.amazon.co.uk (1072)</li>
+<li>www.amazon.co.uk (1075)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (824)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (674)</li>
 <li>web.whatsapp.com (671)</li>
-<li>chat.openai.com (654)</li>
+<li>chat.openai.com (655)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Trump, tech barons and a title-less Andrew: how well do you remember 2025? – quiz | Quiz and trivia games | The Guardian</a> (583)</li>
@@ -104,7 +104,23 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 21/12/25</H3>
+
+<br>
+
+<ul><li> 09:04 www.amazon.co.uk</li>
+<li class='same'> 09:03 www.amazon.co.uk</li>
+<li class='same'> 09:02 www.amazon.co.uk</li>
+<li> 08:34 chatgpt.com</li>
+<li class='same'> 08:33 chatgpt.com</li>
+<li> 08:33 chat.openai.com</li>
+</ul>
+
 <H3>Saturday, 20/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -154,7 +170,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:37 www.researchgate.net</li>
+<ul><li> 14:01 www.linkedin.com</li>
+<li> 13:37 www.researchgate.net</li>
 <li> 13:37 duckduckgo.com</li>
 <li> 13:26 www.linkedin.com</li>
 </ul>
