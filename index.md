@@ -69,18 +69,18 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4241)</li>
-<li>www.reddit.com (4090)</li>
+<li>www.reddit.com (4092)</li>
 <li>outlook.office.com (4083)</li>
 <li>www.google.com (3976)</li>
 <li>outlook.office365.com (3844)</li>
-<li>docs.google.com (2654)</li>
-<li>duckduckgo.com (2594)</li>
-<li>chatgpt.com (1594)</li>
+<li>docs.google.com (2655)</li>
+<li>duckduckgo.com (2595)</li>
+<li>chatgpt.com (1598)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1421)</li>
 <li>login.microsoftonline.com (1175)</li>
-<li>www.amazon.co.uk (1075)</li>
+<li>www.amazon.co.uk (1077)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (824)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:56 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<ul><li> 17:02 www.amazon.co.uk</li>
+<li> 17:02 duckduckgo.com</li>
+<li> 17:02 www.amazon.co.uk</li>
+<li> 17:01 docs.google.com</li>
+<li> 17:00 chatgpt.com</li>
+<li class='same'> 16:59 chatgpt.com</li>
+<li> 16:59 www.giantitp.com</li>
+<li> 16:58 www.reddit.com</li>
+<li class='same'> 16:57 www.reddit.com</li>
+<li> 16:57 chatgpt.com</li>
+<li class='same'> 16:56 chatgpt.com</li>
+<li> 16:56 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:56 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 16:55 <a href="https://en.wikipedia.org/wiki/Talk:Sigma_8-16mm_f/4.5-5.6_DC_HSM_lens?markasread=342488911&markasreadwiki=enwiki#c-Z1720-20251221151600-Joereddington-20251118153600">Talk:Sigma 8-16mm f/4.5-5.6 DC HSM lens - Wikipedia</a></li>
