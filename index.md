@@ -74,13 +74,13 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (3977)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2655)</li>
-<li>duckduckgo.com (2595)</li>
+<li>duckduckgo.com (2597)</li>
 <li>chatgpt.com (1598)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1421)</li>
 <li>login.microsoftonline.com (1173)</li>
-<li>www.amazon.co.uk (1076)</li>
+<li>www.amazon.co.uk (1081)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (823)</li>
@@ -104,7 +104,36 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 22/12/25</H3>
+
+<br>
+
+<ul><li> 07:34 www.amazon.co.uk</li>
+<li class='same'> 07:33 www.amazon.co.uk</li>
+<li class='same'> 07:17 www.amazon.co.uk</li>
+<li class='same'> 07:16 www.amazon.co.uk</li>
+<li class='same'> 07:15 www.amazon.co.uk</li>
+<li> 07:10 www.thetimes.com</li>
+<li> 07:09 duckduckgo.com</li>
+<li> 07:09 libbyapp.com</li>
+<li class='same'> 07:08 libbyapp.com</li>
+<li> 07:06 guide.michelin.com</li>
+<li> 07:06 duckduckgo.com</li>
+<li> 06:58 <a href="https://en.wikipedia.org/wiki/Michelin_Guide">Michelin Guide - Wikipedia</a></li>
+<li> 06:57 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:56 <a href="https://en.wikipedia.org/wiki/Wikipedia:Templates_for_discussion/Log/2025_November_2#Template:Annual_readership">Wikipedia:Templates for discussion/Log/2025 November 2 - Wikipedia</a></li>
+<li> 06:56 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:56 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:56 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:56 <a href="https://en.wikipedia.org/"></a></li>
+</ul>
+
 <H3>Sunday, 21/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
