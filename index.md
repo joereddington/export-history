@@ -69,13 +69,13 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4241)</li>
-<li>www.reddit.com (4094)</li>
+<li>www.reddit.com (4099)</li>
 <li>outlook.office.com (4083)</li>
 <li>www.google.com (3977)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2655)</li>
-<li>duckduckgo.com (2597)</li>
-<li>chatgpt.com (1598)</li>
+<li>duckduckgo.com (2601)</li>
+<li>chatgpt.com (1600)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1421)</li>
@@ -87,12 +87,12 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (674)</li>
 <li>web.whatsapp.com (673)</li>
-<li>chat.openai.com (655)</li>
+<li>chat.openai.com (656)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">This Connection is Untrusted</a> (584)</li>
 <li>github.com (553)</li>
-<li>feedly.com (521)</li>
+<li>feedly.com (522)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (437)</li>
 <li>fritz.box (402)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:34 www.amazon.co.uk</li>
+<ul><li> 08:43 ico.org.uk</li>
+<li> 08:40 <a href="https://www.theguardian.com/education/2025/dec/22/office-for-students-university-of-greater-manchester-investigation-phil-brickell-mp">Regulator ‘asleep at the wheel’ over University of Greater Manchester investigation, MP says | Office for Students | The Guardian</a></li>
+<li> 08:39 feedly.com</li>
+<li> 08:37 www.reddit.com</li>
+<li class='same'> 08:36 www.reddit.com</li>
+<li class='same'> 08:34 www.reddit.com</li>
+<li> 08:21 upload.wikimedia.org</li>
+<li> 08:20 <a href="https://en.wikipedia.org/wiki/Pointillism#/media/File:Baigneurs_a_Asnieres.jpg">Baigneurs a Asnieres - Pointillism - Wikipedia</a></li>
+<li> 08:20 upload.wikimedia.org</li>
+<li> 08:20 <a href="https://en.wikipedia.org/wiki/Pointillism#/media/File:Morning,_Interior_-_Luce.jpeg">Baigneurs a Asnieres - Pointillism - Wikipedia</a></li>
+<li> 08:20 <a href="https://en.wikipedia.org/wiki/Pointillism#/media/File:VanGogh_1887_Selbstbildnis.jpg">Morning, Interior - Luce - Pointillism - Wikipedia</a></li>
+<li> 08:20 upload.wikimedia.org</li>
+<li> 08:20 <a href="https://en.wikipedia.org/wiki/Pointillism#/media/File:Seurat-La_Parade_detail.jpg">VanGogh 1887 Selbstbildnis - Pointillism - Wikipedia</a></li>
+<li> 08:20 <a href="https://en.wikipedia.org/wiki/Pointillism">Pointillism - Wikipedia</a></li>
+<li> 08:20 duckduckgo.com</li>
+<li> 08:19 makeabilitylab.github.io</li>
+<li> 08:17 www.reddit.com</li>
+<li class='same'> 08:16 www.reddit.com</li>
+<li> 08:05 chatgpt.com</li>
+<li class='same'> 08:04 chatgpt.com</li>
+<li> 08:04 chat.openai.com</li>
+<li> 07:57 duckduckgo.com</li>
+<li> 07:57 <a href="https://www.youtube.com/watch?v=-EfQnmSgkxI">(1) LEO AUGUST 2024 SANTA CLAUS IN AUGUST LEO WILL BRING YOU LOT OF MONEY MUST WATCH! Leo Tarot Reading - YouTube</a></li>
+<li> 07:57 duckduckgo.com</li>
+<li class='same'> 07:56 duckduckgo.com</li>
+<li> 07:34 www.amazon.co.uk</li>
 <li class='same'> 07:33 www.amazon.co.uk</li>
 <li class='same'> 07:17 www.amazon.co.uk</li>
 <li class='same'> 07:16 www.amazon.co.uk</li>
