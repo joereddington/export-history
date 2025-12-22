@@ -79,11 +79,11 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1421)</li>
-<li>login.microsoftonline.com (1175)</li>
-<li>www.amazon.co.uk (1077)</li>
+<li>login.microsoftonline.com (1173)</li>
+<li>www.amazon.co.uk (1076)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
-<li>rhul-my.sharepoint.com (824)</li>
+<li>rhul-my.sharepoint.com (823)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (674)</li>
 <li>web.whatsapp.com (673)</li>
@@ -16778,13 +16778,11 @@ With number of accesses/minutes in parentheses
 <li> 16:04 kdp.amazon.com</li>
 <li class='same'> 16:02 kdp.amazon.com</li>
 <li class='same'> 16:01 kdp.amazon.com</li>
-<li> 16:00 cc.amazon.com</li>
-<li> 16:00 kdp.amazon.com</li>
+<li class='same'> 16:00 kdp.amazon.com</li>
 <li class='same'> 15:59 kdp.amazon.com</li>
 <li class='same'> 15:58 kdp.amazon.com</li>
 <li> 15:57 docs.google.com</li>
 <li> 15:57 drive.google.com</li>
-<li> 15:55 cc.amazon.com</li>
 <li> 15:55 kdp.amazon.com</li>
 <li> 15:54 mail.google.com</li>
 <li> 15:49 docs.google.com</li>
@@ -16830,7 +16828,6 @@ With number of accesses/minutes in parentheses
 <li> 14:26 gmail.com</li>
 <li> 14:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:19 www.amazon.co.uk</li>
-<li class='same'> 14:18 www.amazon.co.uk</li>
 <li class='same'> 14:17 www.amazon.co.uk</li>
 <li class='same'> 14:16 www.amazon.co.uk</li>
 <li> 14:15 equalitytime.github.io</li>
@@ -16956,8 +16953,6 @@ With number of accesses/minutes in parentheses
 <li> 10:16 outlook.office365.com</li>
 <li> 10:15 rhul-my.sharepoint.com</li>
 <li> 10:15 login.microsoftonline.com</li>
-<li> 10:15 rhul-my.sharepoint.com</li>
-<li> 10:15 login.microsoftonline.com</li>
 <li> 10:11 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 10:10 fast.com</li>
 </ul>
@@ -16995,7 +16990,6 @@ With number of accesses/minutes in parentheses
 <li> 07:16 outlook.office365.com</li>
 <li class='same'> 07:15 outlook.office365.com</li>
 <li class='same'> 07:13 outlook.office365.com</li>
-<li> 07:13 login.microsoftonline.com</li>
 <li> 07:13 calendar.google.com</li>
 <li class='same'> 07:08 calendar.google.com</li>
 <li class='same'> 07:07 calendar.google.com</li>
