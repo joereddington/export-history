@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4241)</li>
 <li>www.reddit.com (4118)</li>
 <li>outlook.office.com (4083)</li>
-<li>www.google.com (3986)</li>
+<li>www.google.com (3990)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2659)</li>
 <li>duckduckgo.com (2603)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1422)</li>
 <li>login.microsoftonline.com (1172)</li>
-<li>www.amazon.co.uk (1081)</li>
+<li>www.amazon.co.uk (1082)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (823)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:24 www.google.com</li>
+<ul><li> 16:53 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:25 www.google.com</li>
+<li> 15:24 www.tesco.com</li>
+<li> 15:24 www.google.com</li>
 <li> 15:24 www.thebrickerycafe.co.uk</li>
 </ul>
 
@@ -140,7 +147,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:01 <a href="https://www.theguardian.com/us-news/2025/dec/23/trump-administration-recalls-30-ambassadors-promote-loyal-diplomats">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 10:32 x.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:01 www.google.com</li>
+<li> 10:01 www.amazon.co.uk</li>
+<li> 10:01 www.google.com</li>
+<li> 10:01 <a href="https://www.theguardian.com/us-news/2025/dec/23/trump-administration-recalls-30-ambassadors-promote-loyal-diplomats">Latest news, sport and opinion from the Guardian</a></li>
 <li> 09:55 www.linkedin.com</li>
 <li> 09:52 www.reddit.com</li>
 <li class='same'> 09:51 www.reddit.com</li>
