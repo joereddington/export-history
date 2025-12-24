@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4241)</li>
 <li>www.reddit.com (4118)</li>
-<li>outlook.office.com (4083)</li>
+<li>outlook.office.com (4082)</li>
 <li>www.google.com (3990)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2659)</li>
@@ -79,14 +79,14 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1422)</li>
-<li>login.microsoftonline.com (1172)</li>
+<li>login.microsoftonline.com (1170)</li>
 <li>www.amazon.co.uk (1082)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (823)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (674)</li>
-<li>web.whatsapp.com (673)</li>
+<li>web.whatsapp.com (674)</li>
 <li>chat.openai.com (657)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (523)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (437)</li>
-<li>fritz.box (402)</li>
+<li>fritz.box (404)</li>
 <li>rhul.sharepoint.com (387)</li>
 <li><a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a> (345)</li>
 
@@ -104,7 +104,20 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 24/12/25</H3>
+
+<br>
+
+<ul><li> 12:19 web.whatsapp.com</li>
+<li> 12:19 fritz.box</li>
+<li class='same'> 12:18 fritz.box</li>
+</ul>
+
 <H3>Tuesday, 23/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -16688,14 +16701,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:03 discord.com</li>
 <li class='same'> 14:02 discord.com</li>
 <li> 14:00 outlook.office.com</li>
-<li> 14:00 login.microsoftonline.com</li>
-<li> 14:00 outlook.office.com</li>
 <li> 13:59 chatgpt.com</li>
 <li> 13:59 chat.openai.com</li>
 <li> 13:59 rhul-my.sharepoint.com</li>
 <li> 13:59 outlook.office365.com</li>
 <li class='same'> 13:58 outlook.office365.com</li>
-<li> 13:58 login.microsoftonline.com</li>
 <li> 13:56 www.reddit.com</li>
 <li> 13:56 dashboards.rhul.ac.uk</li>
 <li class='same'> 13:55 dashboards.rhul.ac.uk</li>
