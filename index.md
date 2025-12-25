@@ -75,11 +75,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2659)</li>
 <li>duckduckgo.com (2603)</li>
-<li>chatgpt.com (1602)</li>
+<li>chatgpt.com (1605)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1422)</li>
-<li>login.microsoftonline.com (1170)</li>
+<li>login.microsoftonline.com (1168)</li>
 <li>www.amazon.co.uk (1082)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (674)</li>
 <li>web.whatsapp.com (674)</li>
-<li>chat.openai.com (657)</li>
+<li>chat.openai.com (658)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a> (587)</li>
@@ -95,8 +95,8 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (523)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (437)</li>
-<li>fritz.box (404)</li>
-<li>rhul.sharepoint.com (387)</li>
+<li>fritz.box (405)</li>
+<li>rhul.sharepoint.com (386)</li>
 <li><a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a> (345)</li>
 
 
@@ -104,7 +104,26 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 25/12/25</H3>
+
+<br>
+
+<ul><li> 12:06 chatgpt.com</li>
+<li class='same'> 12:05 chatgpt.com</li>
+<li class='same'> 12:04 chatgpt.com</li>
+<li> 12:04 chat.openai.com</li>
+</ul>
+
 <H3>Wednesday, 24/12/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 19:51 fritz.box</li>
+</ul>
 
 <br>
 
@@ -16447,7 +16466,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:05 rhul-my.sharepoint.com</li>
 <li class='same'> 17:04 rhul-my.sharepoint.com</li>
 <li> 17:01 outlook.office365.com</li>
-<li> 17:01 login.microsoftonline.com</li>
 <li> 16:58 rhul-my.sharepoint.com</li>
 <li class='same'> 16:57 rhul-my.sharepoint.com</li>
 <li> 16:57 duckduckgo.com</li>
@@ -16459,8 +16477,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:29 outlook.office365.com</li>
 <li> 16:17 rhul-my.sharepoint.com</li>
 <li> 16:10 moodle.royalholloway.ac.uk</li>
-<li> 16:08 rhul.sharepoint.com</li>
-<li> 16:08 login.microsoftonline.com</li>
 <li> 16:08 rhul.sharepoint.com</li>
 <li> 16:07 outlook.office365.com</li>
 <li class='same'> 16:06 outlook.office365.com</li>
