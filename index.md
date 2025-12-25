@@ -69,18 +69,18 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4241)</li>
-<li>www.reddit.com (4118)</li>
+<li>www.reddit.com (4128)</li>
 <li>outlook.office.com (4082)</li>
-<li>www.google.com (3990)</li>
+<li>www.google.com (3992)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2659)</li>
 <li>duckduckgo.com (2603)</li>
-<li>chatgpt.com (1605)</li>
+<li>chatgpt.com (1606)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1422)</li>
 <li>login.microsoftonline.com (1168)</li>
-<li>www.amazon.co.uk (1082)</li>
+<li>www.amazon.co.uk (1084)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (823)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (523)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (437)</li>
-<li>fritz.box (405)</li>
+<li>fritz.box (406)</li>
 <li>rhul.sharepoint.com (386)</li>
 <li><a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a> (345)</li>
 
@@ -108,10 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 15:59 www.reddit.com</li>
+<li class='same'> 15:57 www.reddit.com</li>
+<li class='same'> 15:55 www.reddit.com</li>
+<li class='same'> 15:54 www.reddit.com</li>
+<li class='same'> 15:53 www.reddit.com</li>
+<li class='same'> 15:52 www.reddit.com</li>
+<li class='same'> 15:51 www.reddit.com</li>
+<li class='same'> 15:49 www.reddit.com</li>
+<li class='same'> 15:47 www.reddit.com</li>
+<li class='same'> 15:46 www.reddit.com</li>
+<li> 15:42 www.amazon.co.uk</li>
+<li class='same'> 15:41 www.amazon.co.uk</li>
+<li> 15:39 chatgpt.com</li>
+<li> 15:24 fritz.box</li>
+</ul>
+
+<br>
+
+<ul><li> 13:30 www.menshealth.com</li>
+</ul>
+
+<br>
+
 <ul><li> 12:06 chatgpt.com</li>
 <li class='same'> 12:05 chatgpt.com</li>
 <li class='same'> 12:04 chatgpt.com</li>
 <li> 12:04 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:31 www.google.com</li>
 </ul>
 
 <H3>Wednesday, 24/12/25</H3>
@@ -122,7 +150,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:58 www.merriam-webster.com</li>
+</ul>
+
+<br>
+
 <ul><li> 19:51 fritz.box</li>
+</ul>
+
+<br>
+
+<ul><li> 18:15 www.merriam-webster.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:47 www.merriam-webster.com</li>
+<li> 14:38 www.google.com</li>
 </ul>
 
 <br>
