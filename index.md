@@ -69,13 +69,13 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4241)</li>
-<li>www.reddit.com (4128)</li>
+<li>www.reddit.com (4129)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (3992)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2659)</li>
-<li>duckduckgo.com (2603)</li>
-<li>chatgpt.com (1606)</li>
+<li>duckduckgo.com (2605)</li>
+<li>chatgpt.com (1613)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1422)</li>
@@ -108,7 +108,90 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:31 www.giantitp.com</li>
+<ul><li> 07:51 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 07:47 www.reddit.com</li>
+<li> 07:44 chatgpt.com</li>
+<li class='same'> 07:43 chatgpt.com</li>
+<li> 07:43 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 07:43 <a href="https://en.wikipedia.org/wiki/Talk:LastPass_2022_data_breach">Talk:LastPass 2022 data breach - Wikipedia</a></li>
+<li> 07:42 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=history">LastPass 2022 data breach: Revision history - Wikipedia</a></li>
+<li> 07:42 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 07:42 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
+<li> 07:42 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Investigation_and_regulatory_action">2023 Capita data breach - Wikipedia</a></li>
+<li> 07:41 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=3">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 07:41 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
+<li> 07:41 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 07:41 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&undoafter=1329475942&undo=1329477807">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 07:40 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
+<li> 07:40 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
+<li> 07:40 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 07:36 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=3">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 07:34 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&oldid=1329475942&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 07:34 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 07:34 www.lexology.com</li>
+<li> 07:33 jointheclaim.com</li>
+<li> 07:33 www.lexology.com</li>
+<li> 07:32 www.leighday.co.uk</li>
+<li> 07:32 www.infosecurity-magazine.com</li>
+<li> 07:32 duckduckgo.com</li>
+<li> 07:29 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Timeline">2023 Capita data breach - Wikipedia</a></li>
+<li> 07:29 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 07:27 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 07:27 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 07:26 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
+<li> 07:26 chatgpt.com</li>
+<li class='same'> 07:25 chatgpt.com</li>
+<li> 07:25 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?action=edit&veswitched=1">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 07:24 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 07:24 chatgpt.com</li>
+<li class='same'> 07:23 chatgpt.com</li>
+<li> 07:21 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 07:21 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 07:11 chatgpt.com</li>
+<li> 07:10 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&oldid=1329473126&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 07:10 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 07:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#cite_ref-ICO-2025-MPN2_8-0">2023 Capita data breach - Wikipedia</a></li>
+<li> 07:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 07:05 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?action=edit&veswitched=1">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 07:04 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 07:04 ico.org.uk</li>
+<li> 06:59 scholar.google.co.uk</li>
+<li> 06:59 duckduckgo.com</li>
+<li> 06:58 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/wiki/Capita#2023_Cyberattack">Capita - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/wiki/Capita">Capita - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/w/index.php?title=Talk:2023_Capita_data_breach&action=edit">Creating Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/w/index.php?title=Talk:2023_Capita_data_breach&action=edit&redlink=1">Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/w/index.php?title=Talk:LastPass_2022_data_breach&action=edit">Editing Talk:LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:57 <a href="https://en.wikipedia.org/wiki/Talk:LastPass_2022_data_breach">Talk:LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:57 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
+<li> 06:57 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach?venotify=saved">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:57 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&section=2&oldid=1328081915&action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
+<li> 06:57 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=edit&section=2">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
+<li> 06:56 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 06:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:Contributions/Joereddington&target=Joereddington&offset=&limit=500">User contributions for Joereddington - Wikipedia</a></li>
+<li> 06:56 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 06:55 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 06:54 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 06:53 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 06:53 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington">User talk:Joereddington - Wikipedia</a></li>
+<li> 06:53 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 06:53 <a href="https://en.wikipedia.org/wiki/Talk:Hey_Duggee">Talk:Hey Duggee - Wikipedia</a></li>
+<li> 06:53 <a href="https://en.wikipedia.org/wiki/Red-shanked_douc">Red-shanked douc - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/wiki/Dene_Grigar">Dene Grigar - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/wiki/Special:Contributions/~2025-42195-01">User contributions for ~2025-42195-01 - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:52 <a href="https://en.wikipedia.org/"></a></li>
+<li> 06:31 www.giantitp.com</li>
 <li> 06:28 feedly.com</li>
 <li> 06:28 web.whatsapp.com</li>
 </ul>
@@ -1338,7 +1421,7 @@ With number of accesses/minutes in parentheses
 <li> 09:07 <a href="https://en.wikipedia.org/w/index.php?title=LastPass_2022_data_breach&action=history">LastPass 2022 data breach: Revision history - Wikipedia</a></li>
 <li> 09:07 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:07 <a href="https://en.wikipedia.org/wiki/Talk:LastPass_2022_data_breach">Talk:LastPass 2022 data breach - Wikipedia</a></li>
-<li> 09:07 <a href="https://en.wikipedia.org/w/index.php?title=Talk:LastPass_2022_data_breach&action=edit">Creating Talk:LastPass 2022 data breach - Wikipedia</a></li>
+<li> 09:07 <a href="https://en.wikipedia.org/w/index.php?title=Talk:LastPass_2022_data_breach&action=edit">Editing Talk:LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:06 <a href="https://en.wikipedia.org/w/index.php?title=Talk:LastPass_2022_data_breach&action=edit&redlink=1">Starting new topic on Talk:LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:06 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">LastPass 2022 data breach - Wikipedia</a></li>
 <li> 09:06 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach?action=edit&section=2&veswitched=1">Editing LastPass 2022 data breach (section) - Wikipedia</a></li>
