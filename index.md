@@ -75,12 +75,12 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2661)</li>
 <li>duckduckgo.com (2608)</li>
-<li>chatgpt.com (1624)</li>
+<li>chatgpt.com (1629)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1426)</li>
 <li>login.microsoftonline.com (1168)</li>
-<li>www.amazon.co.uk (1086)</li>
+<li>www.amazon.co.uk (1091)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (823)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (524)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (439)</li>
-<li>fritz.box (412)</li>
+<li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (386)</li>
 <li><a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a> (345)</li>
 
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:51 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<ul><li> 15:46 chatgpt.com</li>
+<li> 15:44 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
+<li> 15:43 www.amazon.co.uk</li>
+<li> 15:43 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
+<li> 15:43 www.amazon.co.uk</li>
+<li> 15:43 chatgpt.com</li>
+<li> 15:43 www.amazon.co.uk</li>
+<li class='same'> 15:42 www.amazon.co.uk</li>
+<li class='same'> 15:41 www.amazon.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 15:02 kdpreports.amazon.com</li>
+<li> 15:02 kdp.amazon.com</li>
+<li> 15:02 www.amazon.com</li>
+<li> 15:02 kdp.amazon.com</li>
+<li> 15:00 chatgpt.com</li>
+<li class='same'> 14:59 chatgpt.com</li>
+<li> 14:57 fritz.box</li>
+<li> 14:52 chatgpt.com</li>
+<li> 14:52 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations#Computing_and_engineering">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 14:52 <a href="https://en.wikipedia.org/wiki/Talk:LastPass_2022_data_breach">Talk:LastPass 2022 data breach - Wikipedia</a></li>
+<li> 14:52 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
+<li> 14:52 <a href="https://en.wikipedia.org/wiki/Special:Log/Joereddington">Main public logs - Wikipedia</a></li>
+<li> 14:51 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 14:51 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:51 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:51 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
