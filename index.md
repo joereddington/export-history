@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4250)</li>
-<li>www.reddit.com (4142)</li>
+<li>www.reddit.com (4146)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (3994)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2661)</li>
-<li>duckduckgo.com (2608)</li>
-<li>chatgpt.com (1629)</li>
+<li>duckduckgo.com (2609)</li>
+<li>chatgpt.com (1630)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
-<li>www.linkedin.com (1426)</li>
+<li>www.linkedin.com (1429)</li>
 <li>login.microsoftonline.com (1168)</li>
 <li>www.amazon.co.uk (1091)</li>
 <li>calendar.google.com (1040)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:58 www.reddit.com</li>
+<ul><li> 17:57 www.linkedin.com</li>
+<li class='same'> 17:56 www.linkedin.com</li>
+<li class='same'> 17:55 www.linkedin.com</li>
+<li> 17:54 <a href="https://en.wikipedia.org/wiki/Cyber_security_in_the_United_Kingdom">Cyber security in the United Kingdom - Wikipedia</a></li>
+<li> 17:54 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:54 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:54 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:54 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:54 <a href="https://en.wikipedia.org/"></a></li>
+<li> 17:54 subnettingpractice.com</li>
+<li> 17:53 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:06 chatgpt.com</li>
+<li> 17:03 www.reddit.com</li>
+<li class='same'> 17:02 www.reddit.com</li>
+<li class='same'> 17:00 www.reddit.com</li>
+<li class='same'> 16:59 www.reddit.com</li>
+<li class='same'> 16:58 www.reddit.com</li>
 <li class='same'> 16:57 www.reddit.com</li>
 <li class='same'> 16:56 www.reddit.com</li>
 <li class='same'> 16:55 www.reddit.com</li>
