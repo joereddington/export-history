@@ -85,14 +85,14 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (823)</li>
 <li>www.theguardian.com (685)</li>
+<li>web.whatsapp.com (675)</li>
 <li>gmail.com (674)</li>
-<li>web.whatsapp.com (674)</li>
 <li>chat.openai.com (658)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a> (587)</li>
 <li>github.com (553)</li>
-<li>feedly.com (523)</li>
+<li>feedly.com (524)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (437)</li>
 <li>fritz.box (406)</li>
@@ -104,7 +104,20 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 26/12/25</H3>
+
+<br>
+
+<ul><li> 06:31 www.giantitp.com</li>
+<li> 06:28 feedly.com</li>
+<li> 06:28 web.whatsapp.com</li>
+</ul>
+
 <H3>Thursday, 25/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
