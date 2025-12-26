@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2661)</li>
 <li>duckduckgo.com (2608)</li>
-<li>chatgpt.com (1617)</li>
+<li>chatgpt.com (1624)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1426)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (524)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (439)</li>
-<li>fritz.box (406)</li>
+<li>fritz.box (412)</li>
 <li>rhul.sharepoint.com (386)</li>
 <li><a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a> (345)</li>
 
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 26/12/25</H3>
+
+<br>
+
+<ul><li> 14:51 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
+<li> 14:51 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:51 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:51 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:51 chatgpt.com</li>
+<li> 14:50 fritz.box</li>
+<li class='same'> 14:49 fritz.box</li>
+<li> 14:47 chatgpt.com</li>
+<li class='same'> 14:46 chatgpt.com</li>
+<li class='same'> 14:44 chatgpt.com</li>
+<li> 14:42 fritz.box</li>
+<li class='same'> 14:32 fritz.box</li>
+<li> 14:24 fast.com</li>
+<li> 14:24 chatgpt.com</li>
+<li> 14:21 fritz.box</li>
+<li> 14:21 chatgpt.com</li>
+<li class='same'> 14:20 chatgpt.com</li>
+<li> 14:20 fritz.box</li>
+</ul>
 
 <br>
 
