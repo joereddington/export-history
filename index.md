@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2661)</li>
 <li>duckduckgo.com (2609)</li>
-<li>chatgpt.com (1630)</li>
+<li>chatgpt.com (1631)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1429)</li>
@@ -87,12 +87,12 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>web.whatsapp.com (677)</li>
 <li>gmail.com (675)</li>
-<li>chat.openai.com (659)</li>
+<li>chat.openai.com (660)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a> (587)</li>
 <li>github.com (553)</li>
-<li>feedly.com (524)</li>
+<li>feedly.com (526)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (439)</li>
 <li>fritz.box (413)</li>
@@ -104,7 +104,32 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 27/12/25</H3>
+
+<br>
+
+<ul><li> 09:13 www.wired.com</li>
+<li> 09:13 feedly.com</li>
+<li class='same'> 09:12 feedly.com</li>
+<li> 09:12 www.wired.com</li>
+<li> 09:01 chatgpt.com</li>
+<li> 09:01 chat.openai.com</li>
+<li> 08:56 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 08:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 08:56 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 08:55 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Information_security_standards&curid=3392581&diff=1329640528&oldid=1201258677">Talk:Information security standards: Difference between revisions - Wikipedia</a></li>
+<li> 08:55 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 08:55 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 08:55 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 08:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 08:55 <a href="https://en.wikipedia.org/"></a></li>
+</ul>
+
 <H3>Friday, 26/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
