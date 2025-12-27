@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4250)</li>
-<li>www.reddit.com (4146)</li>
+<li>www.reddit.com (4155)</li>
 <li>outlook.office.com (4082)</li>
-<li>www.google.com (3994)</li>
+<li>www.google.com (3997)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2661)</li>
 <li>duckduckgo.com (2609)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:57 www.linkedin.com</li>
+<ul><li> 19:36 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:59 www.reddit.com</li>
+<li class='same'> 17:57 www.reddit.com</li>
+<li> 17:57 www.linkedin.com</li>
 <li class='same'> 17:56 www.linkedin.com</li>
 <li class='same'> 17:55 www.linkedin.com</li>
 <li> 17:54 <a href="https://en.wikipedia.org/wiki/Cyber_security_in_the_United_Kingdom">Cyber security in the United Kingdom - Wikipedia</a></li>
@@ -243,6 +250,17 @@ With number of accesses/minutes in parentheses
 <li> 12:29 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 12:29 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 12:29 <a href="https://en.wikipedia.org/"></a></li>
+<li> 12:19 www.reddit.com</li>
+<li class='same'> 12:18 www.reddit.com</li>
+<li> 12:18 www.google.com</li>
+<li> 12:18 www.reddit.com</li>
+<li> 12:17 play.google.com</li>
+<li> 12:16 www.reddit.com</li>
+<li> 12:16 www.forbes.com</li>
+<li> 12:16 www.reddit.com</li>
+<li> 12:16 www.google.com</li>
+<li> 12:16 www.reddit.com</li>
+<li> 12:16 www.google.com</li>
 </ul>
 
 <br>
@@ -401,6 +419,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 18:27 www.forbes.com</li>
+</ul>
+
+<br>
+
 <ul><li> 15:59 www.reddit.com</li>
 <li class='same'> 15:57 www.reddit.com</li>
 <li class='same'> 15:55 www.reddit.com</li>
@@ -419,7 +442,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:30 www.menshealth.com</li>
+<ul><li> 13:42 x.com</li>
+<li> 13:30 www.menshealth.com</li>
 </ul>
 
 <br>
@@ -86312,7 +86336,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:37 drive.google.com</li>
+<ul><li> 11:39 <a href="https://en.wikipedia.org/wiki/Dene_Grigar">Dene Grigar - Wikipedia</a></li>
+<li> 11:37 drive.google.com</li>
 <li class='same'> 11:25 drive.google.com</li>
 </ul>
 
@@ -87057,6 +87082,7 @@ With number of accesses/minutes in parentheses
 <li> 11:23 intranet.royalholloway.ac.uk</li>
 <li> 11:06 gitlab.cim.rhul.ac.uk</li>
 <li> 10:44 www.amazon.co.uk</li>
+<li> 10:38 pure.royalholloway.ac.uk</li>
 <li> 10:24 rhul.sharepoint.com</li>
 <li> 10:21 student-vpn.royalholloway.ac.uk</li>
 <li class='same'> 10:20 student-vpn.royalholloway.ac.uk</li>
@@ -87148,6 +87174,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:21 outlook.office.com</li>
 <li class='same'> 07:20 outlook.office.com</li>
 <li class='same'> 07:16 outlook.office.com</li>
+<li> 07:01 pure.royalholloway.ac.uk</li>
 <li> 06:59 outlook.office365.com</li>
 <li class='same'> 06:58 outlook.office365.com</li>
 <li class='same'> 06:57 outlook.office365.com</li>
@@ -89220,6 +89247,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:42 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:41 moodle.royalholloway.ac.uk</li>
 <li> 14:34 www.facebook.com</li>
+<li> 14:31 pure.royalholloway.ac.uk</li>
+<li> 14:31 intranet.royalholloway.ac.uk</li>
+<li> 14:31 pure.royalholloway.ac.uk</li>
 </ul>
 
 <br>
@@ -89241,12 +89271,17 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:32 docs.google.com</li>
 <li> 11:03 drive.google.com</li>
 <li> 10:51 mail.google.com</li>
+<li> 10:47 intranet.royalholloway.ac.uk</li>
+<li class='same'> 10:45 intranet.royalholloway.ac.uk</li>
+<li> 10:45 pure.royalholloway.ac.uk</li>
 <li> 10:38 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:37 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:22 moodle.royalholloway.ac.uk</li>
-<li class='same'> 10:03 moodle.royalholloway.ac.uk</li>
+<li> 10:19 intranet.royalholloway.ac.uk</li>
+<li> 10:03 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:57 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:55 moodle.royalholloway.ac.uk</li>
+<li> 09:41 pure.royalholloway.ac.uk</li>
 <li> 09:40 www.facebook.com</li>
 <li> 09:39 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:38 moodle.royalholloway.ac.uk</li>
@@ -93925,7 +93960,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:17 books.google.co.uk</li>
+<ul><li> 17:21 <a href="https://en.wikipedia.org/wiki/Dene_Grigar">Dene Grigar - Wikipedia</a></li>
+<li> 17:17 books.google.co.uk</li>
 </ul>
 
 <br>
