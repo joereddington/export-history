@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4250)</li>
-<li>www.reddit.com (4182)</li>
+<li>www.reddit.com (4187)</li>
 <li>outlook.office.com (4082)</li>
-<li>www.google.com (3996)</li>
+<li>www.google.com (4002)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2662)</li>
-<li>duckduckgo.com (2610)</li>
+<li>duckduckgo.com (2611)</li>
 <li>chatgpt.com (1631)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
@@ -85,12 +85,12 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
-<li>web.whatsapp.com (678)</li>
+<li>web.whatsapp.com (679)</li>
 <li>gmail.com (675)</li>
 <li>chat.openai.com (660)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (588)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (591)</li>
 <li>github.com (553)</li>
 <li>feedly.com (527)</li>
 <li>forms.office.com (515)</li>
@@ -108,12 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:48 web.whatsapp.com</li>
+<ul><li> 16:59 www.reddit.com</li>
+<li> 16:58 www.sciencemuseum.org.uk</li>
+<li> 16:58 duckduckgo.com</li>
+<li> 16:56 web.whatsapp.com</li>
 </ul>
 
 <br>
 
-<ul><li> 15:03 www.reddit.com</li>
+<ul><li> 16:22 www.google.com</li>
+<li> 16:01 www.reddit.com</li>
+<li class='same'> 16:00 www.reddit.com</li>
+<li class='same'> 15:59 www.reddit.com</li>
+<li> 15:59 www.google.co.uk</li>
+<li class='same'> 15:58 www.google.co.uk</li>
+<li> 15:48 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:10 www.google.com</li>
+<li> 15:03 www.reddit.com</li>
 <li class='same'> 15:02 www.reddit.com</li>
 <li class='same'> 15:01 www.reddit.com</li>
 <li> 15:00 www.linkedin.com</li>
@@ -132,6 +147,15 @@ With number of accesses/minutes in parentheses
 <li> 07:38 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 07:37 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 07:37 <a href="https://en.wikipedia.org/"></a></li>
+<li> 07:33 <a href="https://www.theguardian.com/environment/2025/dec/27/alps-france-skiing-snow-warming-resorts-closing-ceuze-landscape">The Hunting Wives review – the most perfect trash TV ever | Television | The Guardian</a></li>
+<li> 07:33 <a href="https://www.theguardian.com/tv-and-radio/2025/dec/27/the-hunting-wives-review-most-perfect-trash-tv-ever">Clare Bailey Mosley: ‘What single thing would improve the quality of my life? Michael’ | Life and style | The Guardian</a></li>
+<li> 07:33 <a href="https://www.theguardian.com/lifeandstyle/2025/dec/27/clare-bailey-mosley-wife-michael-gp-interview">The Hunting Wives review – the most perfect trash TV ever | Television | The Guardian</a></li>
+<li> 07:30 <a href="https://www.theguardian.com/tv-and-radio/2025/dec/27/the-hunting-wives-review-most-perfect-trash-tv-ever">Clare Bailey Mosley: ‘What single thing would improve the quality of my life? Michael’ | Life and style | The Guardian</a></li>
+<li> 07:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:27 <a href="https://www.theguardian.com/commentisfree/2025/dec/27/mel-gibson-denies-climate-breakdown-home-burns-joe-rogan">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:23 support.theguardian.com</li>
+<li> 07:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li class='same'> 07:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
 <H3>Saturday, 27/12/25</H3>
@@ -208,7 +232,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:36 www.reddit.com</li>
+<ul><li> 21:50 www.humblebundle.com</li>
+<li class='same'> 21:49 www.humblebundle.com</li>
+<li> 21:49 www.google.com</li>
+<li> 21:48 www.reddit.com</li>
+<li> 21:48 www.google.com</li>
+<li class='same'> 21:47 www.google.com</li>
+<li> 21:47 www.quora.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:36 www.quora.com</li>
+<li> 19:36 www.google.com</li>
+<li> 19:36 www.reddit.com</li>
 </ul>
 
 <br>
