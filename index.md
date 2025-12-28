@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4250)</li>
-<li>www.reddit.com (4179)</li>
+<li>www.reddit.com (4182)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (3996)</li>
 <li>outlook.office365.com (3844)</li>
-<li>docs.google.com (2661)</li>
+<li>docs.google.com (2662)</li>
 <li>duckduckgo.com (2610)</li>
 <li>chatgpt.com (1631)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
-<li>www.linkedin.com (1433)</li>
+<li>www.linkedin.com (1434)</li>
 <li>login.microsoftonline.com (1166)</li>
-<li>www.amazon.co.uk (1091)</li>
+<li>www.amazon.co.uk (1093)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
-<li>web.whatsapp.com (677)</li>
+<li>web.whatsapp.com (678)</li>
 <li>gmail.com (675)</li>
 <li>chat.openai.com (660)</li>
 <li>herts.instructure.com (640)</li>
@@ -105,6 +105,22 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 28/12/25</H3>
+
+<br>
+
+<ul><li> 15:48 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:03 www.reddit.com</li>
+<li class='same'> 15:02 www.reddit.com</li>
+<li class='same'> 15:01 www.reddit.com</li>
+<li> 15:00 www.linkedin.com</li>
+<li> 14:59 www.amazon.co.uk</li>
+<li> 14:59 docs.google.com</li>
+<li> 14:59 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
