@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4250)</li>
-<li>www.reddit.com (4176)</li>
+<li>www.reddit.com (4179)</li>
 <li>outlook.office.com (4082)</li>
-<li>www.google.com (3997)</li>
+<li>www.google.com (3996)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2661)</li>
 <li>duckduckgo.com (2610)</li>
@@ -79,11 +79,11 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1433)</li>
-<li>login.microsoftonline.com (1168)</li>
+<li>login.microsoftonline.com (1166)</li>
 <li>www.amazon.co.uk (1091)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
-<li>rhul-my.sharepoint.com (823)</li>
+<li>rhul-my.sharepoint.com (822)</li>
 <li>www.theguardian.com (685)</li>
 <li>web.whatsapp.com (677)</li>
 <li>gmail.com (675)</li>
@@ -104,7 +104,25 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 28/12/25</H3>
+
+<br>
+
+<ul><li> 07:40 www.reddit.com</li>
+<li class='same'> 07:39 www.reddit.com</li>
+<li class='same'> 07:38 www.reddit.com</li>
+<li> 07:38 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:38 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:38 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:37 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:37 <a href="https://en.wikipedia.org/"></a></li>
+</ul>
+
 <H3>Saturday, 27/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -16431,8 +16449,7 @@ With number of accesses/minutes in parentheses
 <li> 17:26 www.reddit.com</li>
 <li> 17:22 chatgpt.com</li>
 <li> 17:22 chat.openai.com</li>
-<li> 17:20 www.google.com</li>
-<li class='same'> 17:19 www.google.com</li>
+<li> 17:19 www.google.com</li>
 <li> 17:19 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 17:17 www.reddit.com</li>
 <li class='same'> 17:13 www.reddit.com</li>
@@ -16462,8 +16479,6 @@ With number of accesses/minutes in parentheses
 <li> 16:26 rhul-my.sharepoint.com</li>
 <li> 16:25 mail.google.com</li>
 <li> 16:24 rhul-my.sharepoint.com</li>
-<li> 16:24 login.microsoftonline.com</li>
-<li> 16:24 rhul-my.sharepoint.com</li>
 <li class='same'> 16:23 rhul-my.sharepoint.com</li>
 <li> 16:21 www.reddit.com</li>
 <li> 16:21 mail.google.com</li>
@@ -16480,7 +16495,6 @@ With number of accesses/minutes in parentheses
 <li> 16:15 gmail.com</li>
 <li> 16:15 outlook.office365.com</li>
 <li class='same'> 16:14 outlook.office365.com</li>
-<li> 16:14 login.microsoftonline.com</li>
 <li> 16:13 www.reddit.com</li>
 </ul>
 
