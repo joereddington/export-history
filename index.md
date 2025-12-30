@@ -69,13 +69,13 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4250)</li>
-<li>www.reddit.com (4192)</li>
+<li>www.reddit.com (4195)</li>
 <li>outlook.office.com (4082)</li>
-<li>www.google.com (4004)</li>
+<li>www.google.com (4006)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2662)</li>
 <li>duckduckgo.com (2611)</li>
-<li>chatgpt.com (1631)</li>
+<li>chatgpt.com (1633)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1434)</li>
@@ -87,24 +87,47 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>web.whatsapp.com (679)</li>
 <li>gmail.com (675)</li>
-<li>chat.openai.com (660)</li>
+<li>chat.openai.com (661)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (592)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (594)</li>
 <li>github.com (553)</li>
 <li>feedly.com (527)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (439)</li>
 <li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (386)</li>
-<li><a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a> (346)</li>
+<li><a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a> (347)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Tuesday, 30/12/25</H3>
+
+<br>
+
+<ul><li> 08:06 www.google.com</li>
+<li> 08:06 ico.org.uk</li>
+<li> 08:06 www.google.com</li>
+<li> 07:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:51 <a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/world/2025/dec/30/khaleda-zia-first-female-bangladesh-prime-minister-dies-aged-80">Khaleda Zia, first female Bangladesh prime minister, dies aged 80 | Bangladesh | The Guardian</a></li>
+<li> 07:47 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:47 chatgpt.com</li>
+<li> 07:46 www.reddit.com</li>
+<li> 07:45 chatgpt.com</li>
+<li> 07:45 chat.openai.com</li>
+<li> 07:24 www.reddit.com</li>
+<li class='same'> 07:23 www.reddit.com</li>
+</ul>
+
 <H3>Sunday, 28/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
