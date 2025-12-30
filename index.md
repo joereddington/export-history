@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4250)</li>
 <li>www.reddit.com (4192)</li>
 <li>outlook.office.com (4082)</li>
-<li>www.google.com (4005)</li>
+<li>www.google.com (4004)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2662)</li>
 <li>duckduckgo.com (2611)</li>
@@ -79,11 +79,11 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1434)</li>
-<li>login.microsoftonline.com (1166)</li>
+<li>login.microsoftonline.com (1165)</li>
 <li>www.amazon.co.uk (1093)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
-<li>rhul-my.sharepoint.com (822)</li>
+<li>rhul-my.sharepoint.com (820)</li>
 <li>www.theguardian.com (685)</li>
 <li>web.whatsapp.com (679)</li>
 <li>gmail.com (675)</li>
@@ -16169,7 +16169,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:54 www.reddit.com</li>
 <li> 11:47 rhul-my.sharepoint.com</li>
 <li> 11:45 rhul.sharepoint.com</li>
-<li> 11:41 rhul-my.sharepoint.com</li>
 <li> 11:41 forms.office.com</li>
 <li class='same'> 11:40 forms.office.com</li>
 <li> 11:40 login.microsoftonline.com</li>
@@ -16184,7 +16183,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:38 web.whatsapp.com</li>
 <li> 10:16 rhul-my.sharepoint.com</li>
-<li class='same'> 10:09 rhul-my.sharepoint.com</li>
 <li> 10:09 forms.office.com</li>
 <li> 10:08 rhul-my.sharepoint.com</li>
 <li class='same'> 10:07 rhul-my.sharepoint.com</li>
@@ -16268,11 +16266,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:01 outlook.office365.com</li>
 <li> 07:01 theopenvoicefactory.org</li>
 <li> 07:01 outlook.office365.com</li>
-<li> 07:01 login.microsoftonline.com</li>
 <li> 07:01 www.amazon.co.uk</li>
 <li> 07:01 www.whitewaterwriters.com</li>
 <li class='same'> 07:00 www.whitewaterwriters.com</li>
-<li> 07:00 raw.githubusercontent.com</li>
 <li> 07:00 theopenvoicefactory.org</li>
 <li> 07:00 equalitytime.github.io</li>
 <li> 07:00 theopenvoicefactory.org</li>
@@ -16294,7 +16290,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:35 us-east-1.console.aws.amazon.com</li>
 <li> 06:35 signin.aws.amazon.com</li>
 <li> 06:35 us-east-1.console.aws.amazon.com</li>
-<li> 06:35 console.aws.amazon.com</li>
 <li> 06:35 eu-west-2.console.aws.amazon.com</li>
 <li> 06:35 eu-west-2.signin.aws.amazon.com</li>
 <li> 06:35 eu-west-2.console.aws.amazon.com</li>
@@ -16460,8 +16455,7 @@ With number of accesses/minutes in parentheses
 <li> 07:40 <a href="https://www.youtube.com/">(1) YouTube</a></li>
 <li> 07:25 www.reddit.com</li>
 <li class='same'> 07:23 www.reddit.com</li>
-<li> 07:20 www.google.com</li>
-<li class='same'> 07:19 www.google.com</li>
+<li> 07:19 www.google.com</li>
 <li> 07:19 duckduckgo.com</li>
 <li> 07:19 www.reddit.com</li>
 <li> 07:18 www.amazon.co.uk</li>
