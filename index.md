@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4250)</li>
 <li>www.reddit.com (4196)</li>
 <li>outlook.office.com (4082)</li>
-<li>www.google.com (4007)</li>
+<li>www.google.com (4009)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2662)</li>
 <li>duckduckgo.com (2611)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1434)</li>
-<li>login.microsoftonline.com (1165)</li>
+<li>login.microsoftonline.com (1164)</li>
 <li>www.amazon.co.uk (1093)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
@@ -90,25 +90,54 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (661)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (594)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (601)</li>
 <li>github.com (553)</li>
 <li>feedly.com (527)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (439)</li>
 <li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (386)</li>
-<li><a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a> (347)</li>
+<li><a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a> (351)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Wednesday, 31/12/25</H3>
+
+<br>
+
+<ul><li> 07:23 <a href="https://www.theguardian.com/culture/2025/dec/30/self-mocking-man-sketch-dumb-masculinity">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:49 <a href="https://www.theguardian.com/science/2025/dec/30/astronaut-amanda-nguyen-blue-origin-spaceflight">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:45 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:45 <a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a></li>
+<li> 06:45 <a href="https://www.theguardian.com/commentisfree/2025/dec/29/the-guardian-view-on-the-national-year-of-reading-2026-time-to-start-a-healthy-habit-for-life">The Guardian view on the National Year of Reading 2026: time to start a healthy habit for life | Editorial | The Guardian</a></li>
+</ul>
+
 <H3>Tuesday, 30/12/25</H3>
 
 <br>
 
+<ul></ul>
+
+<br>
+
 <ul><li> 14:27 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:43 <a href="https://www.theguardian.com/commentisfree/2025/dec/29/the-guardian-view-on-the-national-year-of-reading-2026-time-to-start-a-healthy-habit-for-life">The Guardian view on the National Year of Reading 2026: time to start a healthy habit for life | Editorial | The Guardian</a></li>
+<li> 13:40 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:40 <a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a></li>
+<li> 13:40 <a href="https://www.theguardian.com/sport/2025/dec/29/tom-jenkins-best-sport-photographs-2025">Tom Jenkins’s best sport photographs of 2025 | Sport | The Guardian</a></li>
 </ul>
 
 <br>
@@ -138,6 +167,29 @@ With number of accesses/minutes in parentheses
 <li> 07:45 chat.openai.com</li>
 <li> 07:24 www.reddit.com</li>
 <li class='same'> 07:23 www.reddit.com</li>
+</ul>
+
+<H3>Monday, 29/12/25</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 18:50 <a href="https://www.theguardian.com/sport/2025/dec/29/tom-jenkins-best-sport-photographs-2025">Tom Jenkins’s best sport photographs of 2025 | Sport | The Guardian</a></li>
+<li> 18:50 <a href="https://www.theguardian.com/sport/2025/dec/29/tom-jenkins-best-sport-photographs-2025#img-9">Tom Jenkins’s best sport photographs of 2025 | Sport | The Guardian</a></li>
+<li> 18:49 <a href="https://www.theguardian.com/sport/2025/dec/29/tom-jenkins-best-sport-photographs-2025">Tom Jenkins’s best sport photographs of 2025 | Sport | The Guardian</a></li>
+<li> 18:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:48 <a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a></li>
+<li> 18:48 <a href="https://www.theguardian.com/technology/2025/dec/29/ransomware-negotiations-extortion-cyber-attacks">‘Why should we pay these criminals?’: the hidden world of ransomware negotiations | Cybercrime | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:01 <a href="https://www.theguardian.com/technology/2025/dec/29/ransomware-negotiations-extortion-cyber-attacks">‘Why should we pay these criminals?’: the hidden world of ransomware negotiations | Cybercrime | The Guardian</a></li>
+<li> 18:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:00 <a href="https://www.theguardian.com/">What happened next: the Coldplay kiss cam couple | Life and style | The Guardian</a></li>
 </ul>
 
 <H3>Sunday, 28/12/25</H3>
@@ -177,6 +229,9 @@ With number of accesses/minutes in parentheses
 <li> 15:59 www.google.co.uk</li>
 <li class='same'> 15:58 www.google.co.uk</li>
 <li> 15:48 web.whatsapp.com</li>
+<li> 15:43 shop.spotify.com</li>
+<li> 15:43 support.theguardian.com</li>
+<li> 15:43 shop.spotify.com</li>
 </ul>
 
 <br>
@@ -189,6 +244,9 @@ With number of accesses/minutes in parentheses
 <li> 14:59 www.amazon.co.uk</li>
 <li> 14:59 docs.google.com</li>
 <li> 14:59 www.amazon.co.uk</li>
+<li> 14:57 support.theguardian.com</li>
+<li> 14:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:56 www.google.com</li>
 </ul>
 
 <br>
@@ -628,6 +686,8 @@ With number of accesses/minutes in parentheses
 <li> 15:42 www.amazon.co.uk</li>
 <li class='same'> 15:41 www.amazon.co.uk</li>
 <li> 15:39 chatgpt.com</li>
+<li> 15:26 www.google.com</li>
+<li> 15:26 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 <li> 15:24 fritz.box</li>
 </ul>
 
@@ -643,6 +703,22 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:05 chatgpt.com</li>
 <li class='same'> 12:04 chatgpt.com</li>
 <li> 12:04 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:31 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 11:31 www.parkrun.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:54 www.parkrun.com</li>
+<li class='same'> 09:51 www.parkrun.com</li>
+<li class='same'> 09:50 www.parkrun.com</li>
+<li> 09:50 www.google.com</li>
+<li> 09:50 www.swiftreg.co.uk</li>
+<li> 09:50 www.parkrun.org.uk</li>
 </ul>
 
 <br>
@@ -684,6 +760,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:18 fritz.box</li>
 </ul>
 
+<br>
+
+<ul><li> 08:26 www.swiftreg.co.uk</li>
+<li class='same'> 08:25 www.swiftreg.co.uk</li>
+<li> 08:25 www.google.com</li>
+</ul>
+
 <H3>Tuesday, 23/12/25</H3>
 
 <br>
@@ -692,7 +775,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:53 www.google.com</li>
+<ul><li class='same'> 16:53 www.google.com</li>
 </ul>
 
 <br>
@@ -15971,7 +16054,6 @@ With number of accesses/minutes in parentheses
 <li> 11:19 chatgpt.com</li>
 <li> 11:18 duckduckgo.com</li>
 <li class='same'> 11:15 duckduckgo.com</li>
-<li> 11:13 scontent-lhr6-2.xx.fbcdn.net</li>
 <li> 11:05 <a href="https://en.wikipedia.org/wiki/2017_Ukraine_ransomware_attacks">2017 Ukraine ransomware attacks - Wikipedia</a></li>
 <li> 11:05 <a href="https://en.wikipedia.org/wiki/Cyberattacks_on_Ukraine">Cyberattacks on Ukraine - Wikipedia</a></li>
 <li> 11:03 <a href="https://en.wikipedia.org/wiki/2017_Ukraine_ransomware_attacks">2017 Ukraine ransomware attacks - Wikipedia</a></li>
@@ -16026,7 +16108,6 @@ With number of accesses/minutes in parentheses
 <li> 10:15 duckduckgo.com</li>
 <li> 10:11 letmegooglethat.com</li>
 <li> 10:11 duckduckgo.com</li>
-<li> 10:10 www.google.com</li>
 <li> 10:10 <a href="https://www.bbc.co.uk/news/articles/c14k3xlj6rpo">GCHQ intern who took secret data home jailed - BBC News</a></li>
 <li> 10:09 www.google.com</li>
 <li> 10:09 duckduckgo.com</li>
@@ -16035,8 +16116,7 @@ With number of accesses/minutes in parentheses
 <li> 10:07 open.metu.edu.tr</li>
 <li> 10:06 scholar.google.co.uk</li>
 <li> 10:06 duckduckgo.com</li>
-<li> 10:06 www.google.com</li>
-<li class='same'> 10:05 www.google.com</li>
+<li> 10:05 www.google.com</li>
 <li> 10:04 books.google.com</li>
 <li> 10:04 duckduckgo.com</li>
 <li> 10:03 <a href="https://en.wikipedia.org/wiki/Script_kiddie">Script kiddie - Wikipedia</a></li>
@@ -16052,7 +16132,6 @@ With number of accesses/minutes in parentheses
 <li> 09:52 rhul-my.sharepoint.com</li>
 <li> 09:50 fast.com</li>
 <li> 09:45 outlook.office365.com</li>
-<li> 09:45 login.microsoftonline.com</li>
 <li> 09:24 chatgpt.com</li>
 </ul>
 
@@ -82039,6 +82118,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:28 en.m.wikipedia.org</li>
 <li> 08:21 photos.google.com</li>
 <li> 08:13 www.facebook.com</li>
+<li> 07:45 www.parkrun.com</li>
 <li> 07:44 www.parkrun.org.uk</li>
 <li> 07:31 www.facebook.com</li>
 <li class='same'> 07:30 www.facebook.com</li>
@@ -83787,7 +83867,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:59 www.parkrun.org.uk</li>
+<ul><li> 09:00 www.parkrun.com</li>
+<li> 08:59 www.parkrun.org.uk</li>
 </ul>
 
 <br>
@@ -85380,6 +85461,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:50 www.parkrun.org.uk</li>
+<li> 06:50 www.parkrun.com</li>
 </ul>
 
 <H3>Saturday, 11/05/24</H3>
@@ -89950,7 +90032,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:52 www.parkrun.org.uk</li>
-<li class='same'> 17:51 www.parkrun.org.uk</li>
+<li> 17:51 www.parkrun.com</li>
+<li> 17:51 www.parkrun.org.uk</li>
 <li> 17:47 www.amazon.co.uk</li>
 </ul>
 
