@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4251)</li>
+<ol><li>mail.google.com (4253)</li>
 <li>www.reddit.com (4202)</li>
 <li>outlook.office.com (4082)</li>
-<li>www.google.com (4010)</li>
+<li>www.google.com (4011)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2662)</li>
 <li>duckduckgo.com (2611)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (661)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (601)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (602)</li>
 <li>github.com (553)</li>
 <li>feedly.com (527)</li>
 <li>forms.office.com (515)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:53 www.reddit.com</li>
+<ul><li> 18:49 <a href="https://www.bbc.co.uk/newsround">Newsround Quiz of the Year 2025 - BBC Newsround</a></li>
+<li> 18:32 <a href="https://www.bbc.co.uk/newsround/articles/cwyw977zy8xo">Home - CBBC Newsround</a></li>
+<li> 18:32 <a href="https://www.bbc.co.uk/newsround">Newsround Quiz of the Year 2025 - BBC Newsround</a></li>
+<li> 18:32 www.google.com</li>
+<li> 18:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 14:59 mail.google.com</li>
+<li class='same'> 14:58 mail.google.com</li>
+<li> 14:53 www.reddit.com</li>
 <li class='same'> 14:50 www.reddit.com</li>
 <li class='same'> 14:49 www.reddit.com</li>
 <li class='same'> 14:48 www.reddit.com</li>
