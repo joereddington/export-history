@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4258)</li>
-<li>www.reddit.com (4219)</li>
+<ol><li>mail.google.com (4259)</li>
+<li>www.reddit.com (4241)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4012)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2662)</li>
 <li>duckduckgo.com (2612)</li>
-<li>chatgpt.com (1634)</li>
+<li>chatgpt.com (1635)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1434)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>web.whatsapp.com (681)</li>
 <li>gmail.com (676)</li>
-<li>chat.openai.com (661)</li>
+<li>chat.openai.com (662)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Luton | Smyths Toys UK</a> (604)</li>
@@ -105,6 +105,39 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 01/01/26</H3>
+
+<br>
+
+<ul><li> 18:20 www.reddit.com</li>
+<li class='same'> 18:19 www.reddit.com</li>
+<li class='same'> 18:17 www.reddit.com</li>
+<li class='same'> 18:16 www.reddit.com</li>
+<li class='same'> 18:15 www.reddit.com</li>
+<li class='same'> 18:13 www.reddit.com</li>
+<li class='same'> 18:12 www.reddit.com</li>
+<li> 18:11 chatgpt.com</li>
+<li> 18:11 chat.openai.com</li>
+<li> 18:11 www.reddit.com</li>
+<li class='same'> 18:09 www.reddit.com</li>
+<li class='same'> 18:08 www.reddit.com</li>
+<li class='same'> 18:07 www.reddit.com</li>
+<li class='same'> 18:04 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:10 www.reddit.com</li>
+<li class='same'> 17:09 www.reddit.com</li>
+<li class='same'> 17:06 www.reddit.com</li>
+<li class='same'> 17:05 www.reddit.com</li>
+<li class='same'> 17:04 www.reddit.com</li>
+<li class='same'> 17:03 www.reddit.com</li>
+<li class='same'> 17:01 www.reddit.com</li>
+<li class='same'> 17:00 www.reddit.com</li>
+<li class='same'> 16:59 www.reddit.com</li>
+<li class='same'> 16:57 www.reddit.com</li>
+<li> 16:57 mail.google.com</li>
+</ul>
 
 <br>
 
