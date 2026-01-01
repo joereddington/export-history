@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4253)</li>
-<li>www.reddit.com (4202)</li>
+<ol><li>mail.google.com (4257)</li>
+<li>www.reddit.com (4206)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4011)</li>
 <li>outlook.office365.com (3844)</li>
 <li>docs.google.com (2662)</li>
-<li>duckduckgo.com (2611)</li>
+<li>duckduckgo.com (2612)</li>
 <li>chatgpt.com (1634)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1434)</li>
-<li>login.microsoftonline.com (1164)</li>
+<li>login.microsoftonline.com (1162)</li>
 <li>www.amazon.co.uk (1093)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
-<li>rhul-my.sharepoint.com (820)</li>
+<li>rhul-my.sharepoint.com (818)</li>
 <li>www.theguardian.com (685)</li>
-<li>web.whatsapp.com (679)</li>
+<li>web.whatsapp.com (680)</li>
 <li>gmail.com (676)</li>
 <li>chat.openai.com (661)</li>
 <li>herts.instructure.com (640)</li>
@@ -104,7 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 01/01/26</H3>
+
+<br>
+
+<ul><li> 08:31 www.reddit.com</li>
+<li class='same'> 08:30 www.reddit.com</li>
+<li class='same'> 08:28 www.reddit.com</li>
+<li> 08:27 web.whatsapp.com</li>
+<li> 08:27 www.parkrun.com</li>
+<li> 08:26 mail.google.com</li>
+<li> 08:26 www.parkrun.com</li>
+<li> 08:26 support.parkrun.com</li>
+<li> 08:26 duckduckgo.com</li>
+<li> 08:26 www.parkrun.org.uk</li>
+<li> 08:26 mail.google.com</li>
+<li class='same'> 08:25 mail.google.com</li>
+<li> 08:25 www.reddit.com</li>
+</ul>
+
 <H3>Wednesday, 31/12/25</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -15889,8 +15912,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:46 rhul-my.sharepoint.com</li>
-<li> 10:46 forms.office.com</li>
+<ul><li> 10:46 forms.office.com</li>
 <li> 10:46 login.microsoftonline.com</li>
 <li> 10:46 forms.office.com</li>
 <li> 10:43 www.universitiesuk.ac.uk</li>
@@ -15918,7 +15940,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:04 www.instagram.com</li>
 <li> 08:02 <a href="https://www.theguardian.com/us-news/2025/oct/01/trump-order-qatar-military-defense">Trump signs order promising measures, including military, to defend Qatar | Donald Trump | The Guardian</a></li>
 <li> 08:00 outlook.office365.com</li>
-<li> 08:00 login.microsoftonline.com</li>
 <li> 07:55 <a href="https://www.youtube.com/watch?v=GOUG2xcDwsc">(4) I Turned my Bed into a Fish Tank! - YouTube</a></li>
 <li> 07:55 <a href="https://www.youtube.com/results?search_query=secret+room">(4) secret room - YouTube</a></li>
 <li> 07:55 <a href="https://www.youtube.com/">YouTube</a></li>
@@ -15934,8 +15955,6 @@ With number of accesses/minutes in parentheses
 <li> 06:57 rhul-my.sharepoint.com</li>
 <li class='same'> 06:35 rhul-my.sharepoint.com</li>
 <li class='same'> 06:34 rhul-my.sharepoint.com</li>
-<li> 06:34 login.microsoftonline.com</li>
-<li> 06:34 rhul-my.sharepoint.com</li>
 <li> 06:28 www.reddit.com</li>
 <li class='same'> 06:27 www.reddit.com</li>
 <li class='same'> 06:26 www.reddit.com</li>
@@ -78426,6 +78445,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:03 www.parkrun.org.uk</li>
+<li> 11:03 mail.google.com</li>
 </ul>
 
 <br>
