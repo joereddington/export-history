@@ -73,21 +73,21 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4012)</li>
 <li>outlook.office365.com (3843)</li>
-<li>docs.google.com (2662)</li>
+<li>docs.google.com (2672)</li>
 <li>duckduckgo.com (2612)</li>
-<li>chatgpt.com (1635)</li>
+<li>chatgpt.com (1637)</li>
 <li>bsky.app (1581)</li>
-<li>www.facebook.com (1457)</li>
-<li>www.linkedin.com (1434)</li>
+<li>www.facebook.com (1458)</li>
+<li>www.linkedin.com (1437)</li>
 <li>login.microsoftonline.com (1159)</li>
-<li>www.amazon.co.uk (1093)</li>
+<li>www.amazon.co.uk (1098)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>www.theguardian.com (685)</li>
-<li>web.whatsapp.com (681)</li>
+<li>web.whatsapp.com (682)</li>
 <li>gmail.com (676)</li>
-<li>chat.openai.com (662)</li>
+<li>chat.openai.com (663)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Luton | Smyths Toys UK</a> (604)</li>
@@ -104,7 +104,53 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 02/01/26</H3>
+
+<br>
+
+<ul><li> 17:59 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
+<li> 17:59 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 17:55 www.linkedin.com</li>
+<li> 17:55 <a href="https://joereddington.com/2025/12/26/30-000-pages.html">30,000 pages in 2025 | Joe Reddington</a></li>
+<li> 17:55 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 17:55 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 17:55 www.linkedin.com</li>
+<li class='same'> 17:50 www.linkedin.com</li>
+<li> 17:34 www.facebook.com</li>
+<li> 17:16 chatgpt.com</li>
+<li> 17:15 web.whatsapp.com</li>
+<li> 17:14 localhost:4000</li>
+<li> 17:05 www.comic-con.org</li>
+<li> 17:04 chatgpt.com</li>
+<li> 17:04 chat.openai.com</li>
+<li> 16:58 www.sfadb.com</li>
+<li> 16:47 docs.google.com</li>
+<li class='same'> 16:43 docs.google.com</li>
+<li class='same'> 16:42 docs.google.com</li>
+<li class='same'> 16:41 docs.google.com</li>
+<li class='same'> 16:39 docs.google.com</li>
+<li class='same'> 16:38 docs.google.com</li>
+<li class='same'> 16:37 docs.google.com</li>
+<li class='same'> 16:36 docs.google.com</li>
+<li class='same'> 16:35 docs.google.com</li>
+<li class='same'> 16:34 docs.google.com</li>
+<li> 16:32 <a href="https://joereddington.com/2024/12/26/20-000-pages-in-2024.html">20,000 pages in 2024 | Joe Reddington</a></li>
+<li> 16:32 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 16:32 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 16:32 localhost:4000</li>
+<li class='same'> 16:31 localhost:4000</li>
+<li> 16:29 www.amazon.co.uk</li>
+<li class='same'> 16:28 www.amazon.co.uk</li>
+<li class='same'> 16:27 www.amazon.co.uk</li>
+<li class='same'> 16:26 www.amazon.co.uk</li>
+<li class='same'> 16:25 www.amazon.co.uk</li>
+</ul>
+
 <H3>Thursday, 01/01/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
