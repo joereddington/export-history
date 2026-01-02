@@ -75,10 +75,10 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3843)</li>
 <li>docs.google.com (2672)</li>
 <li>duckduckgo.com (2612)</li>
-<li>chatgpt.com (1637)</li>
+<li>chatgpt.com (1639)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1458)</li>
-<li>www.linkedin.com (1437)</li>
+<li>www.linkedin.com (1438)</li>
 <li>login.microsoftonline.com (1159)</li>
 <li>www.amazon.co.uk (1098)</li>
 <li>calendar.google.com (1040)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>web.whatsapp.com (682)</li>
 <li>gmail.com (676)</li>
-<li>chat.openai.com (663)</li>
+<li>chat.openai.com (664)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Luton | Smyths Toys UK</a> (604)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:59 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
+<ul><li> 18:15 www.linkedin.com</li>
+<li> 18:15 chatgpt.com</li>
+<li class='same'> 18:12 chatgpt.com</li>
+<li> 18:12 chat.openai.com</li>
+<li> 17:59 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
 <li> 17:59 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:55 www.linkedin.com</li>
 <li> 17:55 <a href="https://joereddington.com/2025/12/26/30-000-pages.html">30,000 pages in 2025 | Joe Reddington</a></li>
