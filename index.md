@@ -72,14 +72,14 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (4241)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4012)</li>
-<li>outlook.office365.com (3844)</li>
+<li>outlook.office365.com (3843)</li>
 <li>docs.google.com (2662)</li>
 <li>duckduckgo.com (2612)</li>
 <li>chatgpt.com (1635)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1457)</li>
 <li>www.linkedin.com (1434)</li>
-<li>login.microsoftonline.com (1162)</li>
+<li>login.microsoftonline.com (1159)</li>
 <li>www.amazon.co.uk (1093)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
@@ -15713,7 +15713,6 @@ With number of accesses/minutes in parentheses
 <li> 19:12 www.reddit.com</li>
 <li class='same'> 19:11 www.reddit.com</li>
 <li> 19:04 outlook.office365.com</li>
-<li> 19:04 login.microsoftonline.com</li>
 <li> 19:04 rhul.hosted.panopto.com</li>
 <li class='same'> 19:03 rhul.hosted.panopto.com</li>
 <li class='same'> 19:02 rhul.hosted.panopto.com</li>
@@ -15743,7 +15742,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:45 mail.google.com</li>
 <li> 18:24 www.reddit.com</li>
 <li class='same'> 18:23 www.reddit.com</li>
-<li> 18:11 gla-my.sharepoint.com</li>
 <li> 18:11 mail.google.com</li>
 <li> 18:10 accounts.google.com</li>
 <li> 18:10 gla-my.sharepoint.com</li>
@@ -15782,7 +15780,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:44 rhul-my.sharepoint.com</li>
 <li> 15:44 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 15:44 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 15:44 login.microsoftonline.com</li>
 <li> 15:44 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 15:44 experience.elluciancloud.ie</li>
 <li> 15:44 login.microsoftonline.com</li>
@@ -15850,8 +15847,6 @@ With number of accesses/minutes in parentheses
 <li> 11:12 login.microsoftonline.com</li>
 <li> 11:12 forms.office.com</li>
 <li> 11:11 discord.com</li>
-<li> 11:04 outlook.office365.com</li>
-<li> 11:04 login.microsoftonline.com</li>
 <li> 11:04 outlook.office365.com</li>
 <li> 11:01 moodle.royalholloway.ac.uk</li>
 <li class='same'> 11:00 moodle.royalholloway.ac.uk</li>
