@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4259)</li>
-<li>www.reddit.com (4248)</li>
+<li>www.reddit.com (4252)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4017)</li>
 <li>outlook.office365.com (3843)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1642)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1458)</li>
-<li>www.linkedin.com (1443)</li>
+<li>www.linkedin.com (1447)</li>
 <li>login.microsoftonline.com (1159)</li>
 <li>www.amazon.co.uk (1099)</li>
 <li>calendar.google.com (1040)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Uber rewrites contracts with drivers to avoid paying UK’s new ‘taxi tax’ | Uber | The Guardian</a> (609)</li>
 <li>github.com (553)</li>
-<li>feedly.com (527)</li>
+<li>feedly.com (530)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (439)</li>
 <li>fritz.box (413)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:57 www.tvlicensing.co.uk</li>
+<ul><li> 11:31 feedly.com</li>
+<li class='same'> 11:30 feedly.com</li>
+<li class='same'> 11:29 feedly.com</li>
+<li> 11:29 www.linkedin.com</li>
+<li class='same'> 11:09 www.linkedin.com</li>
+<li> 11:07 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 11:07 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computing">Wikipedia talk:WikiProject Computing - Wikipedia</a></li>
+<li> 11:07 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:07 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:07 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 11:07 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 11:07 <a href="https://en.wikipedia.org/"></a></li>
+<li> 11:06 www.linkedin.com</li>
+<li> 11:05 www.reddit.com</li>
+<li class='same'> 11:03 www.reddit.com</li>
+<li class='same'> 11:02 www.reddit.com</li>
+<li class='same'> 11:01 www.reddit.com</li>
+<li> 11:01 www.linkedin.com</li>
+<li> 10:57 www.tvlicensing.co.uk</li>
 <li class='same'> 10:56 www.tvlicensing.co.uk</li>
 <li class='same'> 10:55 www.tvlicensing.co.uk</li>
 <li> 10:55 www.linkedin.com</li>
