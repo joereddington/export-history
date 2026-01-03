@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4260)</li>
-<li>www.reddit.com (4260)</li>
+<ol><li>www.reddit.com (4264)</li>
+<li>mail.google.com (4260)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4017)</li>
 <li>outlook.office365.com (3843)</li>
 <li>docs.google.com (2675)</li>
 <li>duckduckgo.com (2612)</li>
-<li>chatgpt.com (1642)</li>
+<li>chatgpt.com (1643)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1458)</li>
 <li>www.linkedin.com (1451)</li>
 <li>login.microsoftonline.com (1159)</li>
-<li>www.amazon.co.uk (1103)</li>
-<li>calendar.google.com (1040)</li>
+<li>www.amazon.co.uk (1116)</li>
+<li>calendar.google.com (1042)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,55 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:59 www.paypal.com</li>
+<ul><li> 17:36 www.reddit.com</li>
+<li> 17:35 chatgpt.com</li>
+<li> 17:33 <a href="https://en.wikipedia.org/wiki/Talk:United_Nations_Convention_against_Cybercrime/GA1">Talk:United Nations Convention against Cybercrime/GA1 - Wikipedia</a></li>
+<li> 17:33 <a href="https://en.wikipedia.org/wiki/Talk:United_Nations_Convention_against_Cybercrime">Talk:United Nations Convention against Cybercrime - Wikipedia</a></li>
+<li> 17:33 <a href="https://en.wikipedia.org/wiki/United_Nations_Convention_against_Cybercrime">United Nations Convention against Cybercrime - Wikipedia</a></li>
+<li> 17:32 <a href="https://en.wikipedia.org/wiki/Bawi_system">Bawi system - Wikipedia</a></li>
+<li> 17:31 <a href="https://en.wikipedia.org/wiki/Talk:The_Eras_Tour">Talk:The Eras Tour - Wikipedia</a></li>
+<li> 17:31 <a href="https://en.wikipedia.org/wiki/The_Eras_Tour">The Eras Tour - Wikipedia</a></li>
+<li> 17:30 <a href="https://en.wikipedia.org/wiki/Mind_the_Game">Mind the Game - Wikipedia</a></li>
+<li> 17:30 <a href="https://en.wikipedia.org/wiki/User:ChristieBot/SortableGANoms">User:ChristieBot/SortableGANoms - Wikipedia</a></li>
+<li> 17:28 <a href="https://en.wikipedia.org/wiki/User:SDZeroBot/GAN_sorting">User:SDZeroBot/GAN sorting - Wikipedia</a></li>
+<li> 17:28 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 17:27 <a href="https://en.wikipedia.org/wiki/Figure_skating_at_the_2022_Winter_Olympics_%E2%80%93_Team_event">Figure skating at the 2022 Winter Olympics – Team event - Wikipedia</a></li>
+<li> 17:27 <a href="https://en.wikipedia.org/wiki/Talk:Figure_skating_at_the_2022_Winter_Olympics_%E2%80%93_Team_event">Talk:Figure skating at the 2022 Winter Olympics – Team event - Wikipedia</a></li>
+<li> 17:26 <a href="https://en.wikipedia.org/wiki/Talk:Figure_skating_at_the_2022_Winter_Olympics_%E2%80%93_Team_event/GA1">Talk:Figure skating at the 2022 Winter Olympics – Team event/GA1 - Wikipedia</a></li>
+<li> 17:26 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:Good_article_nominations">Wikipedia talk:Good article nominations - Wikipedia</a></li>
+<li> 17:26 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
+<li> 17:25 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:25 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:25 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:25 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:25 <a href="https://en.wikipedia.org/"></a></li>
+<li> 17:25 www.wired.com</li>
+<li> 17:23 wieldvr.com</li>
+<li> 17:22 www.reddit.com</li>
+<li class='same'> 17:20 www.reddit.com</li>
+<li class='same'> 17:18 www.reddit.com</li>
+<li> 17:18 www.paypal.com</li>
+<li> 17:16 www.amazon.co.uk</li>
+<li class='same'> 17:15 www.amazon.co.uk</li>
+<li class='same'> 17:14 www.amazon.co.uk</li>
+<li class='same'> 17:13 www.amazon.co.uk</li>
+<li> 17:13 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
+<li> 17:12 www.amazon.co.uk</li>
+<li class='same'> 17:11 www.amazon.co.uk</li>
+<li> 17:10 www.paypal.com</li>
+<li> 17:10 www.amazon.co.uk</li>
+<li class='same'> 17:09 www.amazon.co.uk</li>
+<li class='same'> 17:08 www.amazon.co.uk</li>
+<li class='same'> 17:07 www.amazon.co.uk</li>
+<li class='same'> 17:06 www.amazon.co.uk</li>
+<li> 17:05 www.paypal.com</li>
+<li> 17:04 www.amazon.co.uk</li>
+<li> 17:03 calendar.google.com</li>
+<li class='same'> 17:02 calendar.google.com</li>
+<li> 17:01 www.amazon.co.uk</li>
+<li> 17:01 pay.ebay.co.uk</li>
+<li> 17:01 www.paypal.com</li>
+<li class='same'> 16:59 www.paypal.com</li>
 <li> 16:59 www.linkedin.com</li>
 <li> 16:59 www.paypal.com</li>
 <li> 16:58 docs.google.com</li>
