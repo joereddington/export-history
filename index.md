@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4259)</li>
-<li>www.reddit.com (4258)</li>
+<ol><li>mail.google.com (4260)</li>
+<li>www.reddit.com (4260)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4017)</li>
 <li>outlook.office365.com (3843)</li>
-<li>docs.google.com (2674)</li>
+<li>docs.google.com (2675)</li>
 <li>duckduckgo.com (2612)</li>
 <li>chatgpt.com (1642)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1458)</li>
-<li>www.linkedin.com (1448)</li>
+<li>www.linkedin.com (1451)</li>
 <li>login.microsoftonline.com (1159)</li>
-<li>www.amazon.co.uk (1102)</li>
+<li>www.amazon.co.uk (1103)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (818)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 03/01/26</H3>
+
+<br>
+
+<ul><li> 16:59 www.paypal.com</li>
+<li> 16:59 www.linkedin.com</li>
+<li> 16:59 www.paypal.com</li>
+<li> 16:58 docs.google.com</li>
+<li> 16:57 pay.ebay.co.uk</li>
+<li> 16:56 www.ebay.co.uk</li>
+<li> 16:55 www.amazon.co.uk</li>
+<li> 16:54 www.ebay.co.uk</li>
+<li> 16:53 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:52 www.linkedin.com</li>
+<li class='same'> 16:51 www.linkedin.com</li>
+<li> 16:51 www.reddit.com</li>
+<li class='same'> 16:50 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:05 mail.google.com</li>
+</ul>
 
 <br>
 
