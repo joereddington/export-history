@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4264)</li>
+<ol><li>www.reddit.com (4265)</li>
 <li>mail.google.com (4260)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4017)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:36 www.reddit.com</li>
+<ul><li> 17:58 www.reddit.com</li>
+<li class='same'> 17:36 www.reddit.com</li>
 <li> 17:35 chatgpt.com</li>
 <li> 17:33 <a href="https://en.wikipedia.org/wiki/Talk:United_Nations_Convention_against_Cybercrime/GA1">Talk:United Nations Convention against Cybercrime/GA1 - Wikipedia</a></li>
 <li> 17:33 <a href="https://en.wikipedia.org/wiki/Talk:United_Nations_Convention_against_Cybercrime">Talk:United Nations Convention against Cybercrime - Wikipedia</a></li>
