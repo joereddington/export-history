@@ -73,21 +73,21 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4017)</li>
 <li>outlook.office365.com (3843)</li>
-<li>docs.google.com (2672)</li>
+<li>docs.google.com (2674)</li>
 <li>duckduckgo.com (2612)</li>
-<li>chatgpt.com (1641)</li>
+<li>chatgpt.com (1642)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1458)</li>
-<li>www.linkedin.com (1440)</li>
+<li>www.linkedin.com (1443)</li>
 <li>login.microsoftonline.com (1159)</li>
-<li>www.amazon.co.uk (1098)</li>
+<li>www.amazon.co.uk (1099)</li>
 <li>calendar.google.com (1040)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>www.theguardian.com (685)</li>
 <li>web.whatsapp.com (683)</li>
 <li>gmail.com (676)</li>
-<li>chat.openai.com (664)</li>
+<li>chat.openai.com (665)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Uber rewrites contracts with drivers to avoid paying UK’s new ‘taxi tax’ | Uber | The Guardian</a> (609)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 03/01/26</H3>
+
+<br>
+
+<ul><li> 10:57 www.tvlicensing.co.uk</li>
+<li class='same'> 10:56 www.tvlicensing.co.uk</li>
+<li class='same'> 10:55 www.tvlicensing.co.uk</li>
+<li> 10:55 www.linkedin.com</li>
+<li class='same'> 10:51 www.linkedin.com</li>
+<li> 10:51 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 10:48 chatgpt.com</li>
+<li> 10:48 chat.openai.com</li>
+<li> 10:47 www.amazon.co.uk</li>
+<li> 10:44 docs.google.com</li>
+<li> 10:42 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 10:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 10:42 fast.com</li>
+<li> 10:41 docs.google.com</li>
+<li> 10:40 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 10:40 www.linkedin.com</li>
+</ul>
 
 <br>
 
