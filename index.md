@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (4259)</li>
 <li>www.reddit.com (4242)</li>
 <li>outlook.office.com (4082)</li>
-<li>www.google.com (4015)</li>
+<li>www.google.com (4017)</li>
 <li>outlook.office365.com (3843)</li>
 <li>docs.google.com (2672)</li>
 <li>duckduckgo.com (2612)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (664)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Uber rewrites contracts with drivers to avoid paying UK’s new ‘taxi tax’ | Uber | The Guardian</a> (607)</li>
+<li><a href="https://www.theguardian.com/uk">Uber rewrites contracts with drivers to avoid paying UK’s new ‘taxi tax’ | Uber | The Guardian</a> (609)</li>
 <li>github.com (553)</li>
 <li>feedly.com (527)</li>
 <li>forms.office.com (515)</li>
@@ -104,11 +104,31 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 03/01/26</H3>
+
+<br>
+
+<ul><li> 06:15 <a href="https://www.theguardian.com/film/2026/jan/02/we-bury-the-dead-movie-review-daisy-ridley">We Bury the Dead review – Daisy Ridley tackles the undead in solid zombie twist | Horror films | The Guardian</a></li>
+<li> 06:14 <a href="https://www.theguardian.com/film/2026/jan/02/we-bury-the-dead-movie-review-daisy-ridley#img-1">We Bury the Dead review – Daisy Ridley tackles the undead in solid zombie twist | Horror films | The Guardian</a></li>
+<li> 06:14 <a href="https://www.theguardian.com/film/2026/jan/02/we-bury-the-dead-movie-review-daisy-ridley">We Bury the Dead review – Daisy Ridley tackles the undead in solid zombie twist | Horror films | The Guardian</a></li>
+<li> 06:13 <a href="https://www.theguardian.com/uk">Uber rewrites contracts with drivers to avoid paying UK’s new ‘taxi tax’ | Uber | The Guardian</a></li>
+<li> 06:13 www.google.com</li>
+</ul>
+
 <H3>Friday, 02/01/26</H3>
 
 <br>
 
-<ul><li> 20:09 www.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:08 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:09 www.google.com</li>
 </ul>
 
 <br>
@@ -184,6 +204,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 20:00 www.royalholloway.ac.uk</li>
+<li> 20:00 support.theguardian.com</li>
+</ul>
 
 <br>
 
@@ -280,7 +306,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:49 <a href="https://www.bbc.co.uk/newsround">Newsround Quiz of the Year 2025 - BBC Newsround</a></li>
+<ul><li> 18:53 support.theguardian.com</li>
+<li> 18:52 <a href="https://www.theguardian.com/society/2025/dec/31/violent-crimes-against-parents-by-children-up-60-since-2015-shows-london-data">Violent crimes against parents by children up 60% since 2015, shows London data | Young people | The Guardian</a></li>
+<li> 18:52 <a href="https://www.theguardian.com/uk">Uber rewrites contracts with drivers to avoid paying UK’s new ‘taxi tax’ | Uber | The Guardian</a></li>
+<li> 18:51 <a href="https://www.bbc.co.uk/newsround/articles/cjezpkvkjyeo">Home - CBBC Newsround</a></li>
+<li> 18:49 <a href="https://www.bbc.co.uk/newsround">Newsround Quiz of the Year 2025 - BBC Newsround</a></li>
 <li> 18:32 <a href="https://www.bbc.co.uk/newsround/articles/cwyw977zy8xo">Home - CBBC Newsround</a></li>
 <li> 18:32 <a href="https://www.bbc.co.uk/newsround">Newsround Quiz of the Year 2025 - BBC Newsround</a></li>
 <li> 18:32 www.google.com</li>
