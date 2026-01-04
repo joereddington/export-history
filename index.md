@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4269)</li>
+<ol><li>www.reddit.com (4271)</li>
 <li>mail.google.com (4260)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4019)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (1643)</li>
 <li>bsky.app (1581)</li>
 <li>www.facebook.com (1458)</li>
-<li>www.linkedin.com (1452)</li>
+<li>www.linkedin.com (1454)</li>
 <li>login.microsoftonline.com (1159)</li>
 <li>www.amazon.co.uk (1117)</li>
 <li>calendar.google.com (1043)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 04/01/26</H3>
+
+<br>
+
+<ul><li> 18:08 therecord.media</li>
+<li> 18:08 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&action=history">2023 Capita data breach: Revision history - Wikipedia</a></li>
+<li> 18:08 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
+<li> 18:08 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:08 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 18:07 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 18:06 www.reddit.com</li>
+<li class='same'> 18:05 www.reddit.com</li>
+<li> 18:05 www.linkedin.com</li>
+<li class='same'> 18:04 www.linkedin.com</li>
+</ul>
 
 <br>
 
