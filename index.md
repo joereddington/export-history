@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4292)</li>
-<li>www.reddit.com (4288)</li>
+<ol><li>mail.google.com (4303)</li>
+<li>www.reddit.com (4289)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4024)</li>
 <li>outlook.office365.com (3843)</li>
 <li>docs.google.com (2675)</li>
-<li>duckduckgo.com (2620)</li>
-<li>chatgpt.com (1649)</li>
+<li>duckduckgo.com (2624)</li>
+<li>chatgpt.com (1651)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1463)</li>
+<li>www.linkedin.com (1465)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1156)</li>
+<li>login.microsoftonline.com (1157)</li>
 <li>www.amazon.co.uk (1124)</li>
-<li>calendar.google.com (1069)</li>
+<li>calendar.google.com (1070)</li>
 <li>moodle.royalholloway.ac.uk (945)</li>
 <li>rhul-my.sharepoint.com (817)</li>
 <li>web.whatsapp.com (687)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (680)</li>
+<li>gmail.com (682)</li>
 <li>chat.openai.com (667)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
@@ -108,7 +108,62 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:53 www.google.co.uk</li>
+<ul><li> 14:49 adfs.herts.ac.uk</li>
+<li> 14:47 <a href="https://joereddington.com/2025/12/26/30-000-pages.html">30,000 pages in 2025 | Joe Reddington</a></li>
+<li> 14:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 14:47 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 14:43 www.linkedin.com</li>
+<li> 14:42 mail.google.com</li>
+<li> 14:40 www.reddit.com</li>
+<li> 14:39 ukstemconference.com</li>
+<li> 14:38 www.jiscmail.ac.uk</li>
+<li> 14:38 mail.google.com</li>
+<li> 14:36 www.jiscmail.ac.uk</li>
+<li class='same'> 14:35 www.jiscmail.ac.uk</li>
+<li> 14:35 mail.google.com</li>
+<li> 14:35 gmail.com</li>
+<li> 14:34 www.linkedin.com</li>
+<li> 14:34 www.jiscmail.ac.uk</li>
+<li class='same'> 14:33 www.jiscmail.ac.uk</li>
+<li> 14:33 www.northumbria.ac.uk</li>
+<li> 14:33 duckduckgo.com</li>
+<li class='same'> 14:32 duckduckgo.com</li>
+<li> 14:32 www.northumbria.ac.uk</li>
+<li> 14:32 mail.google.com</li>
+<li> 14:25 www.jiscmail.ac.uk</li>
+<li class='same'> 14:22 www.jiscmail.ac.uk</li>
+<li> 14:22 mail.google.com</li>
+<li> 14:21 www.jiscmail.ac.uk</li>
+<li> 14:21 mail.google.com</li>
+<li> 14:21 www.jiscmail.ac.uk</li>
+<li> 14:21 mail.google.com</li>
+<li> 14:20 www.jiscmail.ac.uk</li>
+<li> 14:20 mail.google.com</li>
+<li class='same'> 14:19 mail.google.com</li>
+<li> 14:19 www.jiscmail.ac.uk</li>
+<li class='same'> 14:18 www.jiscmail.ac.uk</li>
+<li> 14:17 mail.google.com</li>
+<li> 14:17 easychair.org</li>
+<li> 14:16 mail.google.com</li>
+<li> 14:16 gmail.com</li>
+<li> 14:15 login.openathens.net</li>
+<li> 14:15 login.microsoftonline.com</li>
+<li> 14:15 service.seamlessaccess.org</li>
+<li> 14:15 www.jiscmail.ac.uk</li>
+<li> 14:14 easychair.org</li>
+<li> 14:14 chatgpt.com</li>
+<li class='same'> 14:13 chatgpt.com</li>
+<li> 14:13 duckduckgo.com</li>
+<li> 14:11 easychair.org</li>
+<li> 14:10 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 14:10 easychair.org</li>
+<li class='same'> 14:09 easychair.org</li>
+<li> 14:09 ukstemconference.com</li>
+<li> 14:07 www.google.co.uk</li>
+<li class='same'> 14:06 www.google.co.uk</li>
+<li> 14:06 duckduckgo.com</li>
+<li> 14:05 calendar.google.com</li>
+<li> 13:53 www.google.co.uk</li>
 <li> 13:53 duckduckgo.com</li>
 <li> 13:52 www.dittonparkacademy.co.uk</li>
 <li> 13:45 chatgpt.com</li>
