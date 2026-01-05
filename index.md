@@ -69,22 +69,22 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4292)</li>
-<li>www.reddit.com (4286)</li>
+<li>www.reddit.com (4288)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4024)</li>
 <li>outlook.office365.com (3843)</li>
 <li>docs.google.com (2675)</li>
-<li>duckduckgo.com (2617)</li>
+<li>duckduckgo.com (2618)</li>
 <li>chatgpt.com (1648)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1461)</li>
+<li>www.linkedin.com (1463)</li>
 <li>www.facebook.com (1458)</li>
 <li>login.microsoftonline.com (1156)</li>
 <li>www.amazon.co.uk (1124)</li>
-<li>calendar.google.com (1066)</li>
-<li>moodle.royalholloway.ac.uk (943)</li>
+<li>calendar.google.com (1069)</li>
+<li>moodle.royalholloway.ac.uk (945)</li>
 <li>rhul-my.sharepoint.com (817)</li>
-<li>web.whatsapp.com (686)</li>
+<li>web.whatsapp.com (687)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (680)</li>
 <li>chat.openai.com (666)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:45 moodle.royalholloway.ac.uk</li>
+<ul><li> 11:32 calendar.google.com</li>
+<li class='same'> 11:31 calendar.google.com</li>
+<li class='same'> 11:30 calendar.google.com</li>
+<li> 11:30 web.whatsapp.com</li>
+<li> 11:30 duckduckgo.com</li>
+<li> 11:21 www.linkedin.com</li>
+<li class='same'> 11:20 www.linkedin.com</li>
+<li> 11:17 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:15 www.reddit.com</li>
+<li class='same'> 11:14 www.reddit.com</li>
+<li> 10:52 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 10:51 webtimetables.royalholloway.ac.uk</li>
+<li> 10:51 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:50 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:45 moodle.royalholloway.ac.uk</li>
 <li> 10:45 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 10:44 webtimetables.royalholloway.ac.uk</li>
 <li> 10:42 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
