@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4291)</li>
-<li>www.reddit.com (4285)</li>
+<ol><li>mail.google.com (4292)</li>
+<li>www.reddit.com (4286)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4024)</li>
 <li>outlook.office365.com (3843)</li>
@@ -77,15 +77,15 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (2617)</li>
 <li>chatgpt.com (1648)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1459)</li>
+<li>www.linkedin.com (1461)</li>
 <li>www.facebook.com (1458)</li>
 <li>login.microsoftonline.com (1156)</li>
 <li>www.amazon.co.uk (1124)</li>
 <li>calendar.google.com (1066)</li>
-<li>moodle.royalholloway.ac.uk (942)</li>
+<li>moodle.royalholloway.ac.uk (943)</li>
 <li>rhul-my.sharepoint.com (817)</li>
+<li>web.whatsapp.com (686)</li>
 <li>www.theguardian.com (685)</li>
-<li>web.whatsapp.com (685)</li>
 <li>gmail.com (680)</li>
 <li>chat.openai.com (666)</li>
 <li>herts.instructure.com (640)</li>
@@ -108,8 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:45 moodle.royalholloway.ac.uk</li>
+<li> 10:45 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 10:44 webtimetables.royalholloway.ac.uk</li>
+<li> 10:42 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:42 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 10:42 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 10:42 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 10:42 <a href="https://en.wikipedia.org/"></a></li>
+<li> 10:38 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 10:36 www.linkedin.com</li>
+<li class='same'> 10:35 www.linkedin.com</li>
+<li> 10:34 mail.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 09:45 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">All posts | Joe Reddington</a></li>
 <li> 09:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:30 web.whatsapp.com</li>
+<li> 09:28 www.reddit.com</li>
 <li> 09:22 ads.google.com</li>
 <li> 09:22 www.google.com</li>
 <li> 09:22 fast.com</li>
