@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4289)</li>
+<ol><li>mail.google.com (4291)</li>
 <li>www.reddit.com (4285)</li>
 <li>outlook.office.com (4082)</li>
-<li>www.google.com (4021)</li>
+<li>www.google.com (4024)</li>
 <li>outlook.office365.com (3843)</li>
 <li>docs.google.com (2675)</li>
-<li>duckduckgo.com (2616)</li>
+<li>duckduckgo.com (2617)</li>
 <li>chatgpt.com (1648)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1459)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:53 calendar.google.com</li>
+<ul><li> 09:45 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">All posts | Joe Reddington</a></li>
+<li> 09:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 09:22 ads.google.com</li>
+<li> 09:22 www.google.com</li>
+<li> 09:22 fast.com</li>
+<li> 09:22 www.google.com</li>
+<li> 09:21 admin.google.com</li>
+<li> 09:20 ads.google.com</li>
+<li> 09:19 admin.google.com</li>
+<li class='same'> 09:18 admin.google.com</li>
+<li> 09:17 mail.google.com</li>
+<li class='same'> 09:16 mail.google.com</li>
+<li> 09:16 accounts.google.com</li>
+<li> 09:00 ads.google.com</li>
+<li> 08:59 www.google.com</li>
+<li> 08:59 duckduckgo.com</li>
+<li> 08:53 calendar.google.com</li>
 <li> 08:46 web.whatsapp.com</li>
 <li> 08:41 www.amazon.co.uk</li>
 <li class='same'> 08:40 www.amazon.co.uk</li>
@@ -440,7 +456,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:17 www.amazon.co.uk</li>
 <li class='same'> 14:16 www.amazon.co.uk</li>
 <li> 14:15 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 14:13 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 14:13 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">All posts | Joe Reddington</a></li>
 <li> 14:13 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:13 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:12 www.linkedin.com</li>
@@ -476,7 +492,7 @@ With number of accesses/minutes in parentheses
 <li> 10:48 chat.openai.com</li>
 <li> 10:47 www.amazon.co.uk</li>
 <li> 10:44 docs.google.com</li>
-<li> 10:42 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
+<li> 10:42 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">All posts | Joe Reddington</a></li>
 <li> 10:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:42 fast.com</li>
 <li> 10:41 docs.google.com</li>
