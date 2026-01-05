@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4276)</li>
-<li>www.reddit.com (4273)</li>
+<ol><li>mail.google.com (4282)</li>
+<li>www.reddit.com (4279)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4021)</li>
 <li>outlook.office365.com (3843)</li>
 <li>docs.google.com (2675)</li>
-<li>duckduckgo.com (2615)</li>
+<li>duckduckgo.com (2616)</li>
 <li>chatgpt.com (1647)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1459)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1159)</li>
+<li>login.microsoftonline.com (1156)</li>
 <li>www.amazon.co.uk (1122)</li>
-<li>calendar.google.com (1051)</li>
-<li>moodle.royalholloway.ac.uk (936)</li>
-<li>rhul-my.sharepoint.com (818)</li>
+<li>calendar.google.com (1063)</li>
+<li>moodle.royalholloway.ac.uk (942)</li>
+<li>rhul-my.sharepoint.com (817)</li>
 <li>www.theguardian.com (685)</li>
-<li>web.whatsapp.com (683)</li>
+<li>web.whatsapp.com (684)</li>
 <li>gmail.com (678)</li>
 <li>chat.openai.com (665)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Spycops sent thousands of surveillance reports to MI5, inquiry documents reveal | Undercover police and policing | The Guardian</a> (614)</li>
 <li>github.com (553)</li>
-<li>feedly.com (530)</li>
+<li>feedly.com (532)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (439)</li>
 <li>fritz.box (413)</li>
@@ -108,7 +108,58 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:54 mail.google.com</li>
+<ul><li> 07:43 www.reddit.com</li>
+<li> 07:41 calendar.google.com</li>
+<li> 07:41 www.reddit.com</li>
+<li> 07:41 calendar.google.com</li>
+<li> 07:40 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:39 ads.google.com</li>
+<li> 07:37 calendar.google.com</li>
+<li> 07:37 ads.google.com</li>
+<li> 07:37 calendar.google.com</li>
+<li> 07:36 mail.google.com</li>
+<li> 07:34 ads.google.com</li>
+<li class='same'> 07:30 ads.google.com</li>
+<li> 07:29 calendar.google.com</li>
+<li> 07:28 ico.org.uk</li>
+<li> 07:26 feedly.com</li>
+<li> 07:25 calendar.google.com</li>
+<li> 07:25 feedly.com</li>
+<li> 07:25 calendar.google.com</li>
+<li> 07:25 mail.google.com</li>
+<li> 07:24 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:24 www.reddit.com</li>
+<li class='same'> 07:22 www.reddit.com</li>
+<li class='same'> 07:17 www.reddit.com</li>
+<li> 07:16 mail.google.com</li>
+<li> 07:16 www.reddit.com</li>
+<li> 07:16 mail.google.com</li>
+<li> 07:16 calendar.google.com</li>
+<li> 07:15 www.thenec.co.uk</li>
+<li class='same'> 07:14 www.thenec.co.uk</li>
+<li class='same'> 07:13 www.thenec.co.uk</li>
+<li class='same'> 07:10 www.thenec.co.uk</li>
+<li> 07:09 calendar.google.com</li>
+<li class='same'> 07:07 calendar.google.com</li>
+<li> 07:06 www.thenec.co.uk</li>
+<li> 07:05 web.whatsapp.com</li>
+<li> 07:04 www.thenec.co.uk</li>
+<li> 07:04 calendar.google.com</li>
+<li> 07:04 duckduckgo.com</li>
+<li> 07:04 calendar.google.com</li>
+<li> 07:04 mail.google.com</li>
+<li class='same'> 07:03 mail.google.com</li>
+<li> 07:02 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:02 toolserver.org</li>
+<li> 07:02 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:01 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:00 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:58 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:57 moodle.royalholloway.ac.uk</li>
+<li> 06:56 login.microsoftonline.com</li>
+<li> 06:56 moodle.royalholloway.ac.uk</li>
+<li> 06:56 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:54 mail.google.com</li>
 <li class='same'> 06:53 mail.google.com</li>
 <li> 06:53 calendar.google.com</li>
 <li> 06:53 chatgpt.com</li>
@@ -15773,7 +15824,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:51 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 12:51 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 12:51 login.microsoftonline.com</li>
 <li> 12:51 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 12:50 experience.elluciancloud.ie</li>
 <li> 12:50 login.microsoftonline.com</li>
@@ -15802,8 +15852,6 @@ With number of accesses/minutes in parentheses
 <li> 11:25 duckduckgo.com</li>
 <li> 11:20 www.collinsdictionary.com</li>
 <li> 11:20 duckduckgo.com</li>
-<li> 11:14 rhul-my.sharepoint.com</li>
-<li> 11:14 login.microsoftonline.com</li>
 <li> 11:14 rhul-my.sharepoint.com</li>
 <li> 11:12 www.linkedin.com</li>
 <li> 11:12 outlook.office365.com</li>
@@ -15865,7 +15913,6 @@ With number of accesses/minutes in parentheses
 <li> 09:25 api-b6327e78.duosecurity.com</li>
 <li> 09:25 login.microsoftonline.com</li>
 <li> 09:25 calendar.google.com</li>
-<li> 09:25 api-b6327e78.duosecurity.com</li>
 <li> 09:24 adfs.herts.ac.uk</li>
 <li> 09:24 ce0997li.webitrent.com</li>
 <li class='same'> 09:23 ce0997li.webitrent.com</li>
@@ -15889,7 +15936,6 @@ With number of accesses/minutes in parentheses
 <li> 07:16 outlook.office365.com</li>
 <li> 07:16 duckduckgo.com</li>
 <li> 06:57 chatgpt.com</li>
-<li> 06:56 login.microsoftonline.com</li>
 <li> 06:55 rhul-my.sharepoint.com</li>
 <li> 06:55 docs.google.com</li>
 <li> 06:54 outlook.office365.com</li>
@@ -15900,7 +15946,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:41 outlook.office365.com</li>
 <li class='same'> 06:38 outlook.office365.com</li>
 <li class='same'> 06:37 outlook.office365.com</li>
-<li> 06:37 login.microsoftonline.com</li>
 <li> 06:37 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 </ul>
 
