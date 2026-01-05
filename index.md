@@ -74,8 +74,8 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (4024)</li>
 <li>outlook.office365.com (3843)</li>
 <li>docs.google.com (2675)</li>
-<li>duckduckgo.com (2618)</li>
-<li>chatgpt.com (1648)</li>
+<li>duckduckgo.com (2620)</li>
+<li>chatgpt.com (1649)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1463)</li>
 <li>www.facebook.com (1458)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (687)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (680)</li>
-<li>chat.openai.com (666)</li>
+<li>chat.openai.com (667)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (616)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 05/01/26</H3>
+
+<br>
+
+<ul><li> 13:53 www.google.co.uk</li>
+<li> 13:53 duckduckgo.com</li>
+<li> 13:52 www.dittonparkacademy.co.uk</li>
+<li> 13:45 chatgpt.com</li>
+<li> 13:45 chat.openai.com</li>
+<li> 13:34 duckduckgo.com</li>
+<li> 13:26 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
 
 <br>
 
