@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4271)</li>
-<li>mail.google.com (4260)</li>
+<ol><li>mail.google.com (4276)</li>
+<li>www.reddit.com (4273)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4021)</li>
 <li>outlook.office365.com (3843)</li>
 <li>docs.google.com (2675)</li>
-<li>duckduckgo.com (2613)</li>
-<li>chatgpt.com (1643)</li>
+<li>duckduckgo.com (2615)</li>
+<li>chatgpt.com (1647)</li>
 <li>bsky.app (1581)</li>
+<li>www.linkedin.com (1459)</li>
 <li>www.facebook.com (1458)</li>
-<li>www.linkedin.com (1454)</li>
 <li>login.microsoftonline.com (1159)</li>
-<li>www.amazon.co.uk (1117)</li>
-<li>calendar.google.com (1043)</li>
+<li>www.amazon.co.uk (1122)</li>
+<li>calendar.google.com (1051)</li>
 <li>moodle.royalholloway.ac.uk (936)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>www.theguardian.com (685)</li>
 <li>web.whatsapp.com (683)</li>
-<li>gmail.com (676)</li>
+<li>gmail.com (678)</li>
 <li>chat.openai.com (665)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
@@ -104,7 +104,75 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 05/01/26</H3>
+
+<br>
+
+<ul><li> 06:54 mail.google.com</li>
+<li class='same'> 06:53 mail.google.com</li>
+<li> 06:53 calendar.google.com</li>
+<li> 06:53 chatgpt.com</li>
+<li class='same'> 06:52 chatgpt.com</li>
+<li> 06:51 calendar.google.com</li>
+<li class='same'> 06:50 calendar.google.com</li>
+<li class='same'> 06:48 calendar.google.com</li>
+<li> 06:48 www.linkedin.com</li>
+<li class='same'> 06:47 www.linkedin.com</li>
+<li> 06:47 calendar.google.com</li>
+<li> 06:47 mail.google.com</li>
+<li class='same'> 06:46 mail.google.com</li>
+<li> 06:46 calendar.google.com</li>
+<li> 06:46 mail.google.com</li>
+<li class='same'> 06:44 mail.google.com</li>
+<li> 06:44 www.mozillafestival.org</li>
+<li> 06:44 duckduckgo.com</li>
+<li> 06:40 mail.google.com</li>
+<li class='same'> 06:39 mail.google.com</li>
+<li> 06:39 calendar.google.com</li>
+<li> 06:38 fast.com</li>
+<li> 06:38 calendar.google.com</li>
+<li> 06:37 mail.google.com</li>
+<li class='same'> 06:35 mail.google.com</li>
+<li class='same'> 06:34 mail.google.com</li>
+<li> 06:34 gmail.com</li>
+<li> 06:34 <a href="https://en.wikipedia.org/wiki/Northern_Bank_robbery#Legacy">Northern Bank robbery - Wikipedia</a></li>
+<li> 06:33 <a href="https://en.wikipedia.org/w/index.php?title=Northern_Bank_robbery&action=edit&section=6">Editing Northern Bank robbery (section) - Wikipedia</a></li>
+<li> 06:33 <a href="https://en.wikipedia.org/w/index.php?title=Northern_Bank_robbery&action=history">Northern Bank robbery: Revision history - Wikipedia</a></li>
+<li> 06:31 www.reddit.com</li>
+<li> 06:30 chatgpt.com</li>
+<li class='same'> 06:29 chatgpt.com</li>
+<li> 06:27 <a href="https://www.bbc.co.uk/news/articles/c5y27qd33pvo">Irish state papers: Government said IRA man organised £26.5m bank raid - BBC News</a></li>
+<li> 06:27 duckduckgo.com</li>
+<li> 06:26 www.amazon.co.uk</li>
+<li> 06:26 <a href="https://en.wikipedia.org/wiki/Northern_Bank_robbery">Northern Bank robbery - Wikipedia</a></li>
+<li> 06:26 <a href="https://en.wikipedia.org/wiki/User_talk:Mujinga">User talk:Mujinga - Wikipedia</a></li>
+<li> 06:25 <a href="https://en.wikipedia.org/wiki/User:Mujinga">User:Mujinga - Wikipedia</a></li>
+<li> 06:25 xtools.wmcloud.org</li>
+<li> 06:24 <a href="https://en.wikipedia.org/w/index.php?title=Securitas_depot_robbery&action=info#External_tools">Information for "Securitas depot robbery" - Wikipedia</a></li>
+<li> 06:24 <a href="https://en.wikipedia.org/w/index.php?title=Securitas_depot_robbery&action=info">Information for "Securitas depot robbery" - Wikipedia</a></li>
+<li> 06:24 <a href="https://en.wikipedia.org/w/index.php?title=Securitas_depot_robbery&action=history">Securitas depot robbery: Revision history - Wikipedia</a></li>
+<li> 06:24 www.amazon.co.uk</li>
+<li class='same'> 06:23 www.amazon.co.uk</li>
+<li> 06:22 <a href="https://en.wikipedia.org/wiki/Securitas_depot_robbery">Securitas depot robbery - Wikipedia</a></li>
+<li> 06:22 www.amazon.co.uk</li>
+<li class='same'> 06:19 www.amazon.co.uk</li>
+<li> 06:19 www.reddit.com</li>
+<li> 06:19 www.linkedin.com</li>
+<li> 06:17 mail.google.com</li>
+<li class='same'> 06:16 mail.google.com</li>
+<li> 06:16 www.linkedin.com</li>
+<li> 06:15 mail.google.com</li>
+<li> 06:15 www.linkedin.com</li>
+<li> 06:15 mail.google.com</li>
+<li class='same'> 06:14 mail.google.com</li>
+<li> 06:14 gmail.com</li>
+</ul>
+
 <H3>Sunday, 04/01/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
