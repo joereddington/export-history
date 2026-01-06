@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4303)</li>
-<li>www.reddit.com (4293)</li>
+<li>www.reddit.com (4298)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.google.com (4024)</li>
-<li>outlook.office365.com (3857)</li>
+<li>outlook.office365.com (3870)</li>
 <li>docs.google.com (2675)</li>
 <li>duckduckgo.com (2630)</li>
 <li>chatgpt.com (1657)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1471)</li>
+<li>www.linkedin.com (1472)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1163)</li>
-<li>www.amazon.co.uk (1127)</li>
-<li>calendar.google.com (1071)</li>
+<li>login.microsoftonline.com (1164)</li>
+<li>www.amazon.co.uk (1128)</li>
+<li>calendar.google.com (1072)</li>
 <li>moodle.royalholloway.ac.uk (955)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>web.whatsapp.com (689)</li>
@@ -90,9 +90,9 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (669)</li>
 <li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (617)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (618)</li>
 <li>github.com (553)</li>
-<li>feedly.com (532)</li>
+<li>feedly.com (533)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (439)</li>
 <li>fritz.box (413)</li>
@@ -108,7 +108,50 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:38 easychair.org</li>
+<ul><li> 12:57 royalholloway.akarisoftware.com</li>
+<li class='same'> 12:56 royalholloway.akarisoftware.com</li>
+<li> 12:54 outlook.office365.com</li>
+<li> 12:51 akari-resources.s3.eu-west-1.amazonaws.com</li>
+<li> 12:51 royalholloway.akarisoftware.com</li>
+<li class='same'> 12:49 royalholloway.akarisoftware.com</li>
+<li> 12:49 login.microsoftonline.com</li>
+<li> 12:49 royalholloway.akarisoftware.com</li>
+<li> 12:49 outlook.office365.com</li>
+<li class='same'> 12:47 outlook.office365.com</li>
+<li> 12:42 <a href="https://www.bbc.co.uk/news/articles/cewjz55lvqlo">Southern Trust: Woman detoxed alone after failing to access local treatment - BBC News</a></li>
+<li> 12:41 <a href="https://www.bbc.co.uk/news/articles/c07xkeee2k3o">Trump aide Stephen Miller says no-one would fight US over Greenland - BBC News</a></li>
+<li> 12:40 <a href="https://www.bbc.co.uk/news/articles/c1509kklkzvo">Birmingham bin strike reaches one year mark with no end in sight - BBC News</a></li>
+<li> 12:40 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 12:38 <a href="https://www.bbc.co.uk/news/articles/c205nxy0p31o">Drivers over 70 to face eye tests every three years - BBC News</a></li>
+<li> 12:38 www.reddit.com</li>
+<li> 12:38 outlook.office365.com</li>
+<li class='same'> 12:34 outlook.office365.com</li>
+<li> 12:31 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 12:31 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
+<li> 12:31 calendar.google.com</li>
+<li> 12:30 www.amazon.co.uk</li>
+<li> 12:27 outlook.office365.com</li>
+<li class='same'> 12:25 outlook.office365.com</li>
+<li class='same'> 12:24 outlook.office365.com</li>
+<li> 12:24 www.wired.com</li>
+<li> 12:23 1wtjjp.com</li>
+<li> 12:23 12498554176.podbex.com</li>
+<li> 12:23 www.semana.com</li>
+<li> 12:22 www.insidehighered.com</li>
+<li> 12:19 feedly.com</li>
+<li> 12:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:19 outlook.office365.com</li>
+<li> 12:18 www.linkedin.com</li>
+<li> 12:18 outlook.office365.com</li>
+<li class='same'> 12:17 outlook.office365.com</li>
+<li class='same'> 12:15 outlook.office365.com</li>
+<li class='same'> 12:13 outlook.office365.com</li>
+<li> 12:11 www.reddit.com</li>
+<li> 12:11 easychair.org</li>
+<li> 12:09 www.reddit.com</li>
+<li class='same'> 12:05 www.reddit.com</li>
+<li class='same'> 12:00 www.reddit.com</li>
+<li> 11:38 easychair.org</li>
 <li class='same'> 11:37 easychair.org</li>
 <li class='same'> 11:35 easychair.org</li>
 <li> 11:34 chatgpt.com</li>
