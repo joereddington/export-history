@@ -70,25 +70,25 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4303)</li>
 <li>www.reddit.com (4293)</li>
-<li>outlook.office.com (4082)</li>
+<li>outlook.office.com (4085)</li>
 <li>www.google.com (4024)</li>
-<li>outlook.office365.com (3854)</li>
+<li>outlook.office365.com (3856)</li>
 <li>docs.google.com (2675)</li>
-<li>duckduckgo.com (2627)</li>
-<li>chatgpt.com (1653)</li>
+<li>duckduckgo.com (2630)</li>
+<li>chatgpt.com (1656)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1469)</li>
+<li>www.linkedin.com (1471)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1159)</li>
+<li>login.microsoftonline.com (1162)</li>
 <li>www.amazon.co.uk (1127)</li>
 <li>calendar.google.com (1071)</li>
-<li>moodle.royalholloway.ac.uk (953)</li>
-<li>rhul-my.sharepoint.com (817)</li>
+<li>moodle.royalholloway.ac.uk (955)</li>
+<li>rhul-my.sharepoint.com (818)</li>
 <li>web.whatsapp.com (689)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (682)</li>
 <li>chat.openai.com (668)</li>
-<li>herts.instructure.com (643)</li>
+<li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (617)</li>
 <li>github.com (553)</li>
@@ -108,7 +108,44 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:50 outlook.office365.com</li>
+<ul><li> 10:59 outlook.office.com</li>
+<li class='same'> 10:58 outlook.office.com</li>
+<li class='same'> 10:55 outlook.office.com</li>
+<li> 10:55 m365.cloud.microsoft</li>
+<li> 10:55 login.microsoftonline.com</li>
+<li> 10:55 herts.instructure.com</li>
+<li> 10:53 m365.cloud.microsoft</li>
+<li> 10:53 login.microsoftonline.com</li>
+<li> 10:41 ukstemconference.com</li>
+<li class='same'> 10:40 ukstemconference.com</li>
+<li> 10:40 duckduckgo.com</li>
+<li> 10:40 outlook.office365.com</li>
+<li> 10:39 easychair.org</li>
+<li> 10:39 outlook.office365.com</li>
+<li> 10:33 easychair.org</li>
+<li> 10:33 ukstemconference.com</li>
+<li> 10:32 easychair.org</li>
+<li> 10:31 chatgpt.com</li>
+<li> 10:30 www.linkedin.com</li>
+<li> 10:28 ico.org.uk</li>
+<li> 10:23 www.linkedin.com</li>
+<li> 10:22 ico.org.uk</li>
+<li> 10:22 chatgpt.com</li>
+<li class='same'> 10:21 chatgpt.com</li>
+<li> 10:18 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 10:17 webtimetables.royalholloway.ac.uk</li>
+<li> 10:10 <a href="https://en.wikipedia.org/wiki/User_talk:Neutrality">User talk:Neutrality - Wikipedia</a></li>
+<li> 10:09 <a href="https://en.wikipedia.org/w/index.php?title=Office_of_Personnel_Management_data_breach&action=history">Office of Personnel Management data breach: Revision history - Wikipedia</a></li>
+<li> 10:08 web.archive.org</li>
+<li> 10:07 <a href="https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach">Office of Personnel Management data breach - Wikipedia</a></li>
+<li> 10:07 duckduckgo.com</li>
+<li> 10:05 rhul-my.sharepoint.com</li>
+<li> 10:05 login.microsoftonline.com</li>
+<li> 10:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:03 moodle.royalholloway.ac.uk</li>
+<li> 10:01 www.bibtex.org</li>
+<li> 10:01 duckduckgo.com</li>
+<li> 09:50 outlook.office365.com</li>
 <li class='same'> 09:41 outlook.office365.com</li>
 <li class='same'> 09:40 outlook.office365.com</li>
 <li> 09:39 duckduckgo.com</li>
