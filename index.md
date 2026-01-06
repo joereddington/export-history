@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4312)</li>
-<li>www.reddit.com (4299)</li>
+<li>www.reddit.com (4301)</li>
 <li>outlook.office.com (4090)</li>
-<li>www.google.com (4025)</li>
+<li>www.google.com (4026)</li>
 <li>outlook.office365.com (3876)</li>
 <li>docs.google.com (2676)</li>
-<li>duckduckgo.com (2635)</li>
-<li>chatgpt.com (1662)</li>
+<li>duckduckgo.com (2640)</li>
+<li>chatgpt.com (1664)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1475)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1165)</li>
+<li>login.microsoftonline.com (1166)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1080)</li>
 <li>moodle.royalholloway.ac.uk (958)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (691)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (685)</li>
-<li>chat.openai.com (670)</li>
+<li>chat.openai.com (671)</li>
 <li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (620)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:49 www.reddit.com</li>
+<ul><li> 15:49 duckduckgo.com</li>
+<li> 15:49 www.google.com</li>
+<li> 15:49 duckduckgo.com</li>
+<li class='same'> 15:48 duckduckgo.com</li>
+<li> 15:40 pure.royalholloway.ac.uk</li>
+<li> 15:38 library.sacredheart.edu</li>
+<li> 15:38 duckduckgo.com</li>
+<li> 15:38 pure.royalholloway.ac.uk</li>
+<li> 15:38 duckduckgo.com</li>
+<li> 15:36 pure.royalholloway.ac.uk</li>
+<li class='same'> 15:35 pure.royalholloway.ac.uk</li>
+<li> 15:34 orcid.org</li>
+<li> 15:34 chatgpt.com</li>
+<li class='same'> 15:33 chatgpt.com</li>
+<li> 15:33 chat.openai.com</li>
+<li> 15:33 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
+<li> 15:31 pure.royalholloway.ac.uk</li>
+<li> 15:31 login.microsoftonline.com</li>
+<li> 15:31 intranet.royalholloway.ac.uk</li>
+<li class='same'> 15:30 intranet.royalholloway.ac.uk</li>
+<li class='same'> 15:29 intranet.royalholloway.ac.uk</li>
+<li> 15:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li> 14:51 www.reddit.com</li>
+<li class='same'> 14:50 www.reddit.com</li>
+<li class='same'> 14:49 www.reddit.com</li>
 <li> 14:47 duckduckgo.com</li>
 <li> 14:46 rhul-my.sharepoint.com</li>
 <li> 14:45 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
