@@ -69,26 +69,26 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4303)</li>
-<li>www.reddit.com (4290)</li>
+<li>www.reddit.com (4293)</li>
 <li>outlook.office.com (4082)</li>
 <li>www.google.com (4024)</li>
-<li>outlook.office365.com (3849)</li>
+<li>outlook.office365.com (3854)</li>
 <li>docs.google.com (2675)</li>
-<li>duckduckgo.com (2626)</li>
-<li>chatgpt.com (1652)</li>
+<li>duckduckgo.com (2627)</li>
+<li>chatgpt.com (1653)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1468)</li>
+<li>www.linkedin.com (1469)</li>
 <li>www.facebook.com (1458)</li>
 <li>login.microsoftonline.com (1159)</li>
 <li>www.amazon.co.uk (1127)</li>
 <li>calendar.google.com (1071)</li>
 <li>moodle.royalholloway.ac.uk (953)</li>
 <li>rhul-my.sharepoint.com (817)</li>
-<li>web.whatsapp.com (688)</li>
+<li>web.whatsapp.com (689)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (682)</li>
 <li>chat.openai.com (668)</li>
-<li>herts.instructure.com (640)</li>
+<li>herts.instructure.com (643)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (617)</li>
 <li>github.com (553)</li>
@@ -105,6 +105,32 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 06/01/26</H3>
+
+<br>
+
+<ul><li> 09:50 outlook.office365.com</li>
+<li class='same'> 09:41 outlook.office365.com</li>
+<li class='same'> 09:40 outlook.office365.com</li>
+<li> 09:39 duckduckgo.com</li>
+<li> 09:36 outlook.office365.com</li>
+<li class='same'> 09:35 outlook.office365.com</li>
+<li> 09:19 www.linkedin.com</li>
+<li> 09:18 web.whatsapp.com</li>
+<li> 09:17 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 09:16 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 09:15 webtimetables.royalholloway.ac.uk</li>
+<li> 09:12 www.reddit.com</li>
+<li class='same'> 09:11 www.reddit.com</li>
+<li class='same'> 09:08 www.reddit.com</li>
+<li> 09:06 herts.instructure.com</li>
+<li class='same'> 09:05 herts.instructure.com</li>
+<li> 09:05 adfs.herts.ac.uk</li>
+<li> 09:05 api-b6327e78.duosecurity.com</li>
+<li> 09:05 adfs.herts.ac.uk</li>
+<li> 09:05 herts.instructure.com</li>
+<li> 09:04 chatgpt.com</li>
+<li> 09:02 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+</ul>
 
 <br>
 
