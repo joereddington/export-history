@@ -74,37 +74,75 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (4024)</li>
 <li>outlook.office365.com (3849)</li>
 <li>docs.google.com (2675)</li>
-<li>duckduckgo.com (2625)</li>
-<li>chatgpt.com (1651)</li>
+<li>duckduckgo.com (2626)</li>
+<li>chatgpt.com (1652)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1466)</li>
+<li>www.linkedin.com (1468)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1158)</li>
-<li>www.amazon.co.uk (1124)</li>
-<li>calendar.google.com (1070)</li>
-<li>moodle.royalholloway.ac.uk (945)</li>
+<li>login.microsoftonline.com (1159)</li>
+<li>www.amazon.co.uk (1127)</li>
+<li>calendar.google.com (1071)</li>
+<li>moodle.royalholloway.ac.uk (953)</li>
 <li>rhul-my.sharepoint.com (817)</li>
-<li>web.whatsapp.com (687)</li>
+<li>web.whatsapp.com (688)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (682)</li>
-<li>chat.openai.com (667)</li>
+<li>chat.openai.com (668)</li>
 <li>herts.instructure.com (640)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (616)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (617)</li>
 <li>github.com (553)</li>
 <li>feedly.com (532)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (439)</li>
 <li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (386)</li>
-<li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (355)</li>
+<li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (356)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Tuesday, 06/01/26</H3>
+
+<br>
+
+<ul><li> 07:55 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:54 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:53 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:34 moodle.royalholloway.ac.uk</li>
+<li> 07:34 duckduckgo.com</li>
+<li> 07:34 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:33 moodle.royalholloway.ac.uk</li>
+<li> 07:33 login.microsoftonline.com</li>
+<li> 07:33 moodle.royalholloway.ac.uk</li>
+<li> 07:31 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:31 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:31 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:31 <a href="https://en.wikipedia.org/wiki/Wireshark">Wireshark - Wikipedia</a></li>
+<li> 07:31 chatgpt.com</li>
+<li> 07:31 chat.openai.com</li>
+<li> 07:29 <a href="https://www.theguardian.com/business/2026/jan/06/recruitment-firms-phoenixism-liquidation-avoid-taxes-analysis">Taxpayers miss out on millions after ‘phoenixism’ at UK recruitment firms | Business | The Guardian</a></li>
+<li> 07:26 www.blacktothetrails.co.uk</li>
+<li> 07:25 web.whatsapp.com</li>
+<li> 07:22 www.amazon.co.uk</li>
+<li> 07:22 calendar.google.com</li>
+<li> 07:22 www.amazon.co.uk</li>
+<li class='same'> 07:21 www.amazon.co.uk</li>
+<li> 07:19 www.linkedin.com</li>
+<li class='same'> 07:18 www.linkedin.com</li>
+<li> 07:18 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:18 <a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a></li>
+</ul>
+
 <H3>Monday, 05/01/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
