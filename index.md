@@ -70,16 +70,16 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4303)</li>
 <li>www.reddit.com (4293)</li>
-<li>outlook.office.com (4085)</li>
+<li>outlook.office.com (4090)</li>
 <li>www.google.com (4024)</li>
-<li>outlook.office365.com (3856)</li>
+<li>outlook.office365.com (3857)</li>
 <li>docs.google.com (2675)</li>
 <li>duckduckgo.com (2630)</li>
-<li>chatgpt.com (1656)</li>
+<li>chatgpt.com (1657)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1471)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1162)</li>
+<li>login.microsoftonline.com (1163)</li>
 <li>www.amazon.co.uk (1127)</li>
 <li>calendar.google.com (1071)</li>
 <li>moodle.royalholloway.ac.uk (955)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (689)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (682)</li>
-<li>chat.openai.com (668)</li>
+<li>chat.openai.com (669)</li>
 <li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (617)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:59 outlook.office.com</li>
+<ul><li> 11:38 easychair.org</li>
+<li class='same'> 11:37 easychair.org</li>
+<li class='same'> 11:35 easychair.org</li>
+<li> 11:34 chatgpt.com</li>
+<li> 11:34 chat.openai.com</li>
+<li> 11:33 royalholloway.akarisoftware.com</li>
+<li> 11:33 login.microsoftonline.com</li>
+<li> 11:33 royalholloway.akarisoftware.com</li>
+<li> 11:32 outlook.office.com</li>
+<li> 11:17 outlook.office365.com</li>
+<li> 11:17 outlook.office.com</li>
+<li class='same'> 11:08 outlook.office.com</li>
+<li class='same'> 11:07 outlook.office.com</li>
+<li class='same'> 11:06 outlook.office.com</li>
+<li class='same'> 10:59 outlook.office.com</li>
 <li class='same'> 10:58 outlook.office.com</li>
 <li class='same'> 10:55 outlook.office.com</li>
 <li> 10:55 m365.cloud.microsoft</li>
