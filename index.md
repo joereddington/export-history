@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4310)</li>
-<li>www.reddit.com (4298)</li>
+<ol><li>mail.google.com (4312)</li>
+<li>www.reddit.com (4299)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.google.com (4025)</li>
-<li>outlook.office365.com (3874)</li>
+<li>outlook.office365.com (3876)</li>
 <li>docs.google.com (2676)</li>
-<li>duckduckgo.com (2633)</li>
-<li>chatgpt.com (1659)</li>
+<li>duckduckgo.com (2635)</li>
+<li>chatgpt.com (1662)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1474)</li>
+<li>www.linkedin.com (1475)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1164)</li>
-<li>www.amazon.co.uk (1128)</li>
-<li>calendar.google.com (1075)</li>
-<li>moodle.royalholloway.ac.uk (955)</li>
-<li>rhul-my.sharepoint.com (818)</li>
-<li>web.whatsapp.com (690)</li>
+<li>login.microsoftonline.com (1165)</li>
+<li>www.amazon.co.uk (1129)</li>
+<li>calendar.google.com (1080)</li>
+<li>moodle.royalholloway.ac.uk (958)</li>
+<li>rhul-my.sharepoint.com (820)</li>
+<li>web.whatsapp.com (691)</li>
 <li>www.theguardian.com (685)</li>
 <li>gmail.com (685)</li>
-<li>chat.openai.com (669)</li>
+<li>chat.openai.com (670)</li>
 <li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (620)</li>
 <li>github.com (553)</li>
 <li>feedly.com (534)</li>
 <li>forms.office.com (515)</li>
-<li>drive.google.com (439)</li>
+<li>drive.google.com (441)</li>
 <li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (386)</li>
 <li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (356)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:59 calendar.google.com</li>
+<ul><li> 14:49 www.reddit.com</li>
+<li> 14:47 duckduckgo.com</li>
+<li> 14:46 rhul-my.sharepoint.com</li>
+<li> 14:45 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:36 www.linkedin.com</li>
+<li> 14:36 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:36 drive.google.com</li>
+<li> 14:35 www.amazon.co.uk</li>
+<li> 14:31 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:30 moodle.royalholloway.ac.uk</li>
+<li> 14:30 login.microsoftonline.com</li>
+<li> 14:30 moodle.royalholloway.ac.uk</li>
+<li> 14:30 rhul-my.sharepoint.com</li>
+<li> 14:29 outlook.office365.com</li>
+<li class='same'> 14:28 outlook.office365.com</li>
+<li> 14:26 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 14:25 chatgpt.com</li>
+<li class='same'> 14:24 chatgpt.com</li>
+<li> 14:24 calendar.google.com</li>
+<li> 14:24 mail.google.com</li>
+<li> 14:21 calendar.google.com</li>
+<li> 14:19 web.whatsapp.com</li>
+<li> 14:16 calendar.google.com</li>
+<li> 14:15 drive.google.com</li>
+<li> 14:10 chatgpt.com</li>
+<li> 14:10 chat.openai.com</li>
+<li> 14:09 duckduckgo.com</li>
+<li> 14:04 mail.google.com</li>
+<li> 14:01 calendar.google.com</li>
+<li class='same'> 14:00 calendar.google.com</li>
+<li class='same'> 13:59 calendar.google.com</li>
 <li> 13:58 mail.google.com</li>
 <li> 13:54 chatgpt.com</li>
 <li class='same'> 13:53 chatgpt.com</li>
