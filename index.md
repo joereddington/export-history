@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4303)</li>
+<ol><li>mail.google.com (4310)</li>
 <li>www.reddit.com (4298)</li>
 <li>outlook.office.com (4090)</li>
-<li>www.google.com (4024)</li>
-<li>outlook.office365.com (3870)</li>
-<li>docs.google.com (2675)</li>
-<li>duckduckgo.com (2630)</li>
-<li>chatgpt.com (1657)</li>
+<li>www.google.com (4025)</li>
+<li>outlook.office365.com (3874)</li>
+<li>docs.google.com (2676)</li>
+<li>duckduckgo.com (2633)</li>
+<li>chatgpt.com (1659)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1472)</li>
+<li>www.linkedin.com (1474)</li>
 <li>www.facebook.com (1458)</li>
 <li>login.microsoftonline.com (1164)</li>
 <li>www.amazon.co.uk (1128)</li>
-<li>calendar.google.com (1072)</li>
+<li>calendar.google.com (1075)</li>
 <li>moodle.royalholloway.ac.uk (955)</li>
 <li>rhul-my.sharepoint.com (818)</li>
-<li>web.whatsapp.com (689)</li>
+<li>web.whatsapp.com (690)</li>
 <li>www.theguardian.com (685)</li>
-<li>gmail.com (682)</li>
+<li>gmail.com (685)</li>
 <li>chat.openai.com (669)</li>
 <li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (618)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (620)</li>
 <li>github.com (553)</li>
-<li>feedly.com (533)</li>
+<li>feedly.com (534)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (439)</li>
 <li>fritz.box (413)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:57 royalholloway.akarisoftware.com</li>
+<ul><li> 13:59 calendar.google.com</li>
+<li> 13:58 mail.google.com</li>
+<li> 13:54 chatgpt.com</li>
+<li class='same'> 13:53 chatgpt.com</li>
+<li> 13:52 mail.google.com</li>
+<li> 13:52 duckduckgo.com</li>
+<li> 13:52 gmail.com</li>
+<li> 13:52 duckduckgo.com</li>
+<li> 13:51 www.onlinebanking.natwest.com</li>
+<li class='same'> 13:50 www.onlinebanking.natwest.com</li>
+<li> 13:50 www.natwest.com</li>
+<li> 13:50 natwest.com</li>
+<li> 13:50 duckduckgo.com</li>
+<li> 13:49 mail.google.com</li>
+<li class='same'> 13:48 mail.google.com</li>
+<li class='same'> 13:47 mail.google.com</li>
+<li class='same'> 13:46 mail.google.com</li>
+<li> 13:46 gmail.com</li>
+<li> 13:46 mail.google.com</li>
+<li> 13:46 gmail.com</li>
+<li> 13:44 www.linkedin.com</li>
+<li> 13:42 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:42 www.linkedin.com</li>
+<li> 13:24 docs.google.com</li>
+<li> 13:23 web.whatsapp.com</li>
+<li> 13:22 calendar.google.com</li>
+<li class='same'> 13:21 calendar.google.com</li>
+<li> 13:13 <a href="https://www.theguardian.com/money/2026/jan/05/buy-to-let-landlords-autumn-budget-tax-regulations-interest-rates">Are UK buy-to-let landlords dying out – and should we care? | Buying to let | The Guardian</a></li>
+<li> 13:11 outlook.office365.com</li>
+<li class='same'> 13:10 outlook.office365.com</li>
+<li class='same'> 13:09 outlook.office365.com</li>
+<li class='same'> 13:08 outlook.office365.com</li>
+<li> 13:07 royalholloway.akarisoftware.com</li>
+<li class='same'> 13:06 royalholloway.akarisoftware.com</li>
+<li class='same'> 13:02 royalholloway.akarisoftware.com</li>
+<li class='same'> 13:01 royalholloway.akarisoftware.com</li>
+<li> 13:00 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:00 feedly.com</li>
+<li> 12:57 royalholloway.akarisoftware.com</li>
 <li class='same'> 12:56 royalholloway.akarisoftware.com</li>
 <li> 12:54 outlook.office365.com</li>
 <li> 12:51 akari-resources.s3.eu-west-1.amazonaws.com</li>
@@ -341,6 +379,14 @@ With number of accesses/minutes in parentheses
 <li> 13:45 chat.openai.com</li>
 <li> 13:34 duckduckgo.com</li>
 <li> 13:26 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:23 <a href="https://www.theguardian.com/money/2026/jan/05/buy-to-let-landlords-autumn-budget-tax-regulations-interest-rates">Are UK buy-to-let landlords dying out – and should we care? | Buying to let | The Guardian</a></li>
+<li> 13:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:21 <a href="https://www.theguardian.com/society/2026/jan/05/collapse-zombie-companies-uk-rise-unemployment">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:20 support.theguardian.com</li>
+<li> 13:20 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:20 www.bookbub.com</li>
+<li> 13:20 www.google.com</li>
+<li> 13:20 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
 </ul>
 
 <br>
@@ -375,7 +421,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:45 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">All posts | Joe Reddington</a></li>
+<ul><li> 09:45 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
 <li> 09:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:30 web.whatsapp.com</li>
 <li> 09:28 www.reddit.com</li>
@@ -725,7 +771,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:17 www.amazon.co.uk</li>
 <li class='same'> 14:16 www.amazon.co.uk</li>
 <li> 14:15 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 14:13 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">All posts | Joe Reddington</a></li>
+<li> 14:13 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
 <li> 14:13 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:13 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:12 www.linkedin.com</li>
@@ -761,7 +807,7 @@ With number of accesses/minutes in parentheses
 <li> 10:48 chat.openai.com</li>
 <li> 10:47 www.amazon.co.uk</li>
 <li> 10:44 docs.google.com</li>
-<li> 10:42 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">All posts | Joe Reddington</a></li>
+<li> 10:42 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
 <li> 10:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:42 fast.com</li>
 <li> 10:41 docs.google.com</li>
