@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4317)</li>
+<ol><li>mail.google.com (4319)</li>
 <li>www.reddit.com (4304)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.google.com (4027)</li>
 <li>outlook.office365.com (3883)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2650)</li>
-<li>chatgpt.com (1675)</li>
+<li>chatgpt.com (1676)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1479)</li>
+<li>www.linkedin.com (1481)</li>
 <li>www.facebook.com (1458)</li>
 <li>login.microsoftonline.com (1168)</li>
 <li>www.amazon.co.uk (1129)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (972)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>web.whatsapp.com (693)</li>
-<li>gmail.com (687)</li>
+<li>gmail.com (688)</li>
 <li>www.theguardian.com (685)</li>
 <li>chat.openai.com (674)</li>
 <li>herts.instructure.com (644)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (556)</li>
 <li>feedly.com (534)</li>
 <li>forms.office.com (515)</li>
-<li>drive.google.com (444)</li>
+<li>drive.google.com (445)</li>
 <li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (386)</li>
 <li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (356)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:52 regexle.com</li>
+<ul><li> 11:53 mail.google.com</li>
+<li class='same'> 11:52 mail.google.com</li>
+<li> 11:52 gmail.com</li>
+<li> 11:48 drive.google.com</li>
+<li> 11:33 chatgpt.com</li>
+<li> 11:17 www.linkedin.com</li>
+<li class='same'> 11:16 www.linkedin.com</li>
+<li> 11:14 rhul-cs-projects.github.io</li>
+<li> 10:52 regexle.com</li>
 <li> 10:52 www.reddit.com</li>
 <li> 10:51 duckduckgo.com</li>
 <li> 10:50 overthewire.org</li>
