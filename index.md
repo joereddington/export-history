@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4321)</li>
-<li>www.reddit.com (4304)</li>
+<ol><li>mail.google.com (4327)</li>
+<li>www.reddit.com (4310)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.google.com (4027)</li>
 <li>outlook.office365.com (3884)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2652)</li>
-<li>chatgpt.com (1676)</li>
+<li>chatgpt.com (1677)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1481)</li>
+<li>www.linkedin.com (1484)</li>
 <li>www.facebook.com (1458)</li>
 <li>login.microsoftonline.com (1168)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1080)</li>
 <li>moodle.royalholloway.ac.uk (978)</li>
 <li>rhul-my.sharepoint.com (820)</li>
-<li>web.whatsapp.com (693)</li>
-<li>gmail.com (688)</li>
+<li>web.whatsapp.com (694)</li>
+<li>gmail.com (691)</li>
 <li>www.theguardian.com (685)</li>
 <li>chat.openai.com (674)</li>
 <li>herts.instructure.com (644)</li>
@@ -108,7 +108,51 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:55 alf.nu</li>
+<ul><li> 13:59 identity.account.gov.uk</li>
+<li> 13:59 review-f.account.gov.uk</li>
+<li> 13:59 review-a.account.gov.uk</li>
+<li class='same'> 13:58 review-a.account.gov.uk</li>
+<li> 13:56 identity.account.gov.uk</li>
+<li class='same'> 13:53 identity.account.gov.uk</li>
+<li> 13:52 web.whatsapp.com</li>
+<li> 13:50 identity.company-information.service.gov.uk</li>
+<li> 13:50 mail.google.com</li>
+<li> 13:50 gmail.com</li>
+<li> 13:50 identity.company-information.service.gov.uk</li>
+<li> 13:50 signin.account.gov.uk</li>
+<li class='same'> 13:49 signin.account.gov.uk</li>
+<li> 13:49 mail.google.com</li>
+<li> 13:49 signin.account.gov.uk</li>
+<li> 13:49 identity.company-information.service.gov.uk</li>
+<li> 13:49 www.gov.uk</li>
+<li> 13:49 mail.google.com</li>
+<li class='same'> 13:48 mail.google.com</li>
+<li> 13:45 www.reddit.com</li>
+<li> 13:45 mail.google.com</li>
+<li> 13:45 gmail.com</li>
+<li> 13:45 www.gov.uk</li>
+<li class='same'> 13:44 www.gov.uk</li>
+<li> 13:44 mail.google.com</li>
+<li> 13:44 gmail.com</li>
+<li> 13:44 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:36 <a href="https://en.wikipedia.org/wiki/Orphan_X">Orphan X - Wikipedia</a></li>
+<li> 13:36 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:36 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:36 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:35 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:35 <a href="https://en.wikipedia.org/"></a></li>
+<li> 13:28 www.linkedin.com</li>
+<li class='same'> 13:27 www.linkedin.com</li>
+<li class='same'> 13:26 www.linkedin.com</li>
+<li> 13:22 www.reddit.com</li>
+<li class='same'> 13:21 www.reddit.com</li>
+<li class='same'> 13:02 www.reddit.com</li>
+<li class='same'> 13:01 www.reddit.com</li>
+<li> 13:01 chatgpt.com</li>
+<li> 13:00 www.reddit.com</li>
+<li> 13:00 <a href="https://en.wikipedia.org/wiki/Perl_Compatible_Regular_Expressions">Perl Compatible Regular Expressions - Wikipedia</a></li>
+<li> 12:59 <a href="https://en.wikipedia.org/wiki/Regular_expression">Regular expression - Wikipedia</a></li>
+<li> 12:55 alf.nu</li>
 <li class='same'> 12:54 alf.nu</li>
 <li> 12:52 regexr.com</li>
 <li> 12:51 regex101.com</li>
