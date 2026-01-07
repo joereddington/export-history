@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4317)</li>
-<li>www.reddit.com (4303)</li>
+<li>www.reddit.com (4304)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.google.com (4027)</li>
 <li>outlook.office365.com (3883)</li>
 <li>docs.google.com (2684)</li>
-<li>duckduckgo.com (2648)</li>
+<li>duckduckgo.com (2650)</li>
 <li>chatgpt.com (1675)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1479)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (621)</li>
-<li>github.com (555)</li>
+<li>github.com (556)</li>
 <li>feedly.com (534)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (444)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:55 vm.cim.rhul.ac.uk</li>
+<ul><li> 10:52 regexle.com</li>
+<li> 10:52 www.reddit.com</li>
+<li> 10:51 duckduckgo.com</li>
+<li> 10:50 overthewire.org</li>
+<li> 10:48 alf.nu</li>
+<li class='same'> 10:47 alf.nu</li>
+<li class='same'> 10:46 alf.nu</li>
+<li> 10:46 regexcrossword.com</li>
+<li> 10:34 rhul-cs-projects.github.io</li>
+<li> 10:33 github.com</li>
+<li> 10:33 duckduckgo.com</li>
+<li> 10:25 www.giantitp.com</li>
+<li> 10:04 vm.cim.rhul.ac.uk</li>
+<li class='same'> 10:03 vm.cim.rhul.ac.uk</li>
+<li class='same'> 09:55 vm.cim.rhul.ac.uk</li>
 <li class='same'> 09:53 vm.cim.rhul.ac.uk</li>
 <li class='same'> 09:52 vm.cim.rhul.ac.uk</li>
 <li class='same'> 09:51 vm.cim.rhul.ac.uk</li>
