@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (4311)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.google.com (4027)</li>
-<li>outlook.office365.com (3905)</li>
+<li>outlook.office365.com (3907)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2652)</li>
 <li>chatgpt.com (1680)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 07/01/26</H3>
+
+<br>
+
+<ul><li> 17:47 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:38 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
+<li> 17:38 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 17:37 outlook.office365.com</li>
+<li class='same'> 17:35 outlook.office365.com</li>
+</ul>
 
 <br>
 
