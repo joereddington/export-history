@@ -72,10 +72,10 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (4311)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.google.com (4027)</li>
-<li>outlook.office365.com (3896)</li>
+<li>outlook.office365.com (3905)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2652)</li>
-<li>chatgpt.com (1678)</li>
+<li>chatgpt.com (1680)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1485)</li>
 <li>www.facebook.com (1458)</li>
@@ -87,17 +87,17 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (694)</li>
 <li>gmail.com (692)</li>
 <li>www.theguardian.com (685)</li>
-<li>chat.openai.com (675)</li>
+<li>chat.openai.com (676)</li>
 <li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (621)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (622)</li>
 <li>github.com (556)</li>
 <li>feedly.com (534)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (386)</li>
-<li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (356)</li>
+<li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (357)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:49 outlook.office365.com</li>
+<ul><li> 16:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:36 <a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a></li>
+<li> 16:33 outlook.office365.com</li>
+<li class='same'> 16:32 outlook.office365.com</li>
+<li> 16:32 chatgpt.com</li>
+<li class='same'> 16:31 chatgpt.com</li>
+<li> 16:31 chat.openai.com</li>
+<li> 16:30 <a href="https://www.youtube.com/watch?v=oTugjssqOT0&t=2314s">(18) Randy Pausch Lecture: Time Management - YouTube</a></li>
+<li> 16:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:28 outlook.office365.com</li>
+<li class='same'> 16:20 outlook.office365.com</li>
+<li> 16:19 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:19 outlook.office365.com</li>
+<li class='same'> 16:18 outlook.office365.com</li>
+<li class='same'> 16:16 outlook.office365.com</li>
+<li class='same'> 16:10 outlook.office365.com</li>
+<li class='same'> 16:07 outlook.office365.com</li>
+<li class='same'> 15:49 outlook.office365.com</li>
 <li class='same'> 15:45 outlook.office365.com</li>
 <li> 15:42 www.linkedin.com</li>
 <li> 15:42 www.reddit.com</li>
@@ -766,7 +783,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:57 outlook.office365.com</li>
 <li class='same'> 15:52 outlook.office365.com</li>
 <li class='same'> 15:49 outlook.office365.com</li>
-<li> 15:48 <a href="https://www.youtube.com/watch?v=oTugjssqOT0&t=2314s">(13) Randy Pausch Lecture: Time Management - YouTube</a></li>
+<li> 15:48 <a href="https://www.youtube.com/watch?v=oTugjssqOT0&t=2314s">(18) Randy Pausch Lecture: Time Management - YouTube</a></li>
 <li> 15:47 <a href="https://www.youtube.com/results?search_query=time+management+randy+pausch">(13) time management randy pausch - YouTube</a></li>
 <li> 15:47 <a href="https://www.youtube.com/">(17) YouTube</a></li>
 <li> 15:40 outlook.office365.com</li>
