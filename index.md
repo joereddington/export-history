@@ -73,25 +73,25 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4090)</li>
 <li>www.google.com (4027)</li>
 <li>outlook.office365.com (3883)</li>
-<li>docs.google.com (2682)</li>
-<li>duckduckgo.com (2647)</li>
-<li>chatgpt.com (1667)</li>
+<li>docs.google.com (2684)</li>
+<li>duckduckgo.com (2648)</li>
+<li>chatgpt.com (1675)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1479)</li>
 <li>www.facebook.com (1458)</li>
 <li>login.microsoftonline.com (1168)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1080)</li>
-<li>moodle.royalholloway.ac.uk (971)</li>
+<li>moodle.royalholloway.ac.uk (972)</li>
 <li>rhul-my.sharepoint.com (820)</li>
-<li>web.whatsapp.com (691)</li>
+<li>web.whatsapp.com (693)</li>
 <li>gmail.com (687)</li>
 <li>www.theguardian.com (685)</li>
-<li>chat.openai.com (673)</li>
+<li>chat.openai.com (674)</li>
 <li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (621)</li>
-<li>github.com (553)</li>
+<li>github.com (555)</li>
 <li>feedly.com (534)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (444)</li>
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:53 <a href="https://www.youtube.com/watch?v=dBSlUgFEnfo">(17) I beat WORLD RECORDS in LEGO... - YouTube</a></li>
+<ul><li> 09:55 vm.cim.rhul.ac.uk</li>
+<li class='same'> 09:53 vm.cim.rhul.ac.uk</li>
+<li class='same'> 09:52 vm.cim.rhul.ac.uk</li>
+<li class='same'> 09:51 vm.cim.rhul.ac.uk</li>
+<li class='same'> 09:50 vm.cim.rhul.ac.uk</li>
+<li class='same'> 09:47 vm.cim.rhul.ac.uk</li>
+<li class='same'> 09:46 vm.cim.rhul.ac.uk</li>
+<li> 09:46 chatgpt.com</li>
+<li class='same'> 09:45 chatgpt.com</li>
+<li> 09:42 moodle.royalholloway.ac.uk</li>
+<li> 09:38 duckduckgo.com</li>
+<li> 09:37 rhul-cs-projects.github.io</li>
+<li> 09:33 web.whatsapp.com</li>
+<li> 09:32 rhul-cs-projects.github.io</li>
+<li class='same'> 09:31 rhul-cs-projects.github.io</li>
+<li class='same'> 09:30 rhul-cs-projects.github.io</li>
+<li> 09:29 superbasics.beholder.uk</li>
+<li class='same'> 09:28 superbasics.beholder.uk</li>
+<li> 09:26 github.com</li>
+<li class='same'> 09:25 github.com</li>
+<li> 09:25 rhul-cs-projects.github.io</li>
+<li> 09:25 superbasics.beholder.uk</li>
+<li class='same'> 09:24 superbasics.beholder.uk</li>
+<li> 09:24 chatgpt.com</li>
+<li class='same'> 09:23 chatgpt.com</li>
+<li> 09:21 web.whatsapp.com</li>
+<li> 09:19 chatgpt.com</li>
+<li class='same'> 09:18 chatgpt.com</li>
+<li> 09:18 chat.openai.com</li>
+<li> 09:17 fyp.cs.rhul.ac.uk</li>
+<li> 09:16 chatgpt.com</li>
+<li class='same'> 09:15 chatgpt.com</li>
+<li> 09:13 docs.google.com</li>
+<li class='same'> 09:12 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:56 <a href="https://www.youtube.com/watch?v=cRwABUcB7gY&t=819s">(17) I Accidentally Made The Most Popular LEGO Villain - YouTube</a></li>
+<li> 07:53 <a href="https://www.youtube.com/watch?v=dBSlUgFEnfo">(17) I beat WORLD RECORDS in LEGO... - YouTube</a></li>
 <li> 07:53 <a href="https://www.youtube.com/">(17) YouTube</a></li>
 <li> 07:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:49 outlook.office365.com</li>
