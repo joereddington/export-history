@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4316)</li>
+<ol><li>mail.google.com (4317)</li>
 <li>www.reddit.com (4301)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.google.com (4026)</li>
 <li>outlook.office365.com (3876)</li>
-<li>docs.google.com (2676)</li>
-<li>duckduckgo.com (2646)</li>
+<li>docs.google.com (2679)</li>
+<li>duckduckgo.com (2647)</li>
 <li>chatgpt.com (1667)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1476)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (553)</li>
 <li>feedly.com (534)</li>
 <li>forms.office.com (515)</li>
-<li>drive.google.com (441)</li>
+<li>drive.google.com (442)</li>
 <li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (386)</li>
 <li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (356)</li>
@@ -104,7 +104,42 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 07/01/26</H3>
+
+<br>
+
+<ul><li> 06:51 www.tax.service.gov.uk</li>
+<li class='same'> 06:50 www.tax.service.gov.uk</li>
+<li class='same'> 06:49 www.tax.service.gov.uk</li>
+<li class='same'> 06:47 www.tax.service.gov.uk</li>
+<li class='same'> 06:45 www.tax.service.gov.uk</li>
+<li class='same'> 06:44 www.tax.service.gov.uk</li>
+<li class='same'> 06:43 www.tax.service.gov.uk</li>
+<li> 06:42 duckduckgo.com</li>
+<li> 06:41 drive.google.com</li>
+<li> 06:41 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:38 www.tax.service.gov.uk</li>
+<li class='same'> 06:37 www.tax.service.gov.uk</li>
+<li class='same'> 06:36 www.tax.service.gov.uk</li>
+<li> 06:36 www.access.service.gov.uk</li>
+<li> 06:36 docs.google.com</li>
+<li> 06:35 www.tax.service.gov.uk</li>
+<li> 06:35 www.gov.uk</li>
+<li> 06:35 docs.google.com</li>
+<li> 06:34 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:34 docs.google.com</li>
+</ul>
+
 <H3>Tuesday, 06/01/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:11 mail.google.com</li>
+</ul>
 
 <br>
 
