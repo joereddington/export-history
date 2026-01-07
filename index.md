@@ -68,13 +68,13 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4319)</li>
+<ol><li>mail.google.com (4321)</li>
 <li>www.reddit.com (4304)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.google.com (4027)</li>
-<li>outlook.office365.com (3883)</li>
+<li>outlook.office365.com (3884)</li>
 <li>docs.google.com (2684)</li>
-<li>duckduckgo.com (2650)</li>
+<li>duckduckgo.com (2652)</li>
 <li>chatgpt.com (1676)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1481)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (1168)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1080)</li>
-<li>moodle.royalholloway.ac.uk (972)</li>
+<li>moodle.royalholloway.ac.uk (978)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>web.whatsapp.com (693)</li>
 <li>gmail.com (688)</li>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:53 mail.google.com</li>
+<ul><li> 12:55 alf.nu</li>
+<li class='same'> 12:54 alf.nu</li>
+<li> 12:52 regexr.com</li>
+<li> 12:51 regex101.com</li>
+<li> 12:51 alf.nu</li>
+<li> 12:45 duckduckgo.com</li>
+<li> 12:45 alf.nu</li>
+<li class='same'> 12:41 alf.nu</li>
+<li class='same'> 12:39 alf.nu</li>
+<li class='same'> 12:37 alf.nu</li>
+<li class='same'> 12:34 alf.nu</li>
+<li class='same'> 12:31 alf.nu</li>
+<li> 12:30 outlook.office365.com</li>
+<li> 12:20 gitlab.cim.rhul.ac.uk</li>
+<li class='same'> 12:19 gitlab.cim.rhul.ac.uk</li>
+<li> 12:16 rl.talis.com</li>
+<li> 12:16 moodle.royalholloway.ac.uk</li>
+<li> 12:16 learngitbranching.js.org</li>
+<li> 12:15 moodle.royalholloway.ac.uk</li>
+<li> 12:15 rhul.hosted.panopto.com</li>
+<li> 12:15 moodle.royalholloway.ac.uk</li>
+<li> 12:14 learngitbranching.js.org</li>
+<li> 12:14 moodle.royalholloway.ac.uk</li>
+<li> 12:14 missing.csail.mit.edu</li>
+<li> 12:13 teams.microsoft.com</li>
+<li> 12:13 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:12 moodle.royalholloway.ac.uk</li>
+<li> 11:59 mail.google.com</li>
+<li> 11:59 www.google.co.uk</li>
+<li class='same'> 11:57 www.google.co.uk</li>
+<li class='same'> 11:56 www.google.co.uk</li>
+<li class='same'> 11:55 www.google.co.uk</li>
+<li> 11:54 www.karines.ca</li>
+<li> 11:54 duckduckgo.com</li>
+<li> 11:53 mail.google.com</li>
+<li> 11:53 t.co</li>
+<li> 11:53 bitly.ift.tt</li>
+<li> 11:53 t.co</li>
+<li> 11:53 mail.google.com</li>
 <li class='same'> 11:52 mail.google.com</li>
 <li> 11:52 gmail.com</li>
 <li> 11:48 drive.google.com</li>
