@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4327)</li>
+<ol><li>mail.google.com (4328)</li>
 <li>www.reddit.com (4310)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.google.com (4027)</li>
-<li>outlook.office365.com (3884)</li>
+<li>outlook.office365.com (3888)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2652)</li>
-<li>chatgpt.com (1677)</li>
+<li>chatgpt.com (1678)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1484)</li>
 <li>www.facebook.com (1458)</li>
 <li>login.microsoftonline.com (1168)</li>
 <li>www.amazon.co.uk (1129)</li>
-<li>calendar.google.com (1080)</li>
+<li>calendar.google.com (1083)</li>
 <li>moodle.royalholloway.ac.uk (978)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>web.whatsapp.com (694)</li>
-<li>gmail.com (691)</li>
+<li>gmail.com (692)</li>
 <li>www.theguardian.com (685)</li>
-<li>chat.openai.com (674)</li>
+<li>chat.openai.com (675)</li>
 <li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (621)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:59 identity.account.gov.uk</li>
+<ul><li> 14:54 outlook.office365.com</li>
+<li> 14:51 calendar.google.com</li>
+<li class='same'> 14:50 calendar.google.com</li>
+<li class='same'> 14:48 calendar.google.com</li>
+<li> 14:46 outlook.office365.com</li>
+<li class='same'> 14:45 outlook.office365.com</li>
+<li class='same'> 14:42 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:06 chatgpt.com</li>
+<li> 14:06 chat.openai.com</li>
+<li> 14:00 mail.google.com</li>
+<li> 14:00 gmail.com</li>
+<li> 14:00 identity.company-information.service.gov.uk</li>
+<li> 14:00 signin.account.gov.uk</li>
+<li> 13:59 identity.account.gov.uk</li>
 <li> 13:59 review-f.account.gov.uk</li>
 <li> 13:59 review-a.account.gov.uk</li>
 <li class='same'> 13:58 review-a.account.gov.uk</li>
