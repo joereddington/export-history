@@ -75,19 +75,19 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3907)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2652)</li>
-<li>chatgpt.com (1688)</li>
+<li>chatgpt.com (1694)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1486)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1165)</li>
+<li>login.microsoftonline.com (1167)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1083)</li>
-<li>moodle.royalholloway.ac.uk (978)</li>
-<li>rhul-my.sharepoint.com (818)</li>
-<li>web.whatsapp.com (695)</li>
+<li>moodle.royalholloway.ac.uk (980)</li>
+<li>rhul-my.sharepoint.com (820)</li>
+<li>web.whatsapp.com (696)</li>
 <li>gmail.com (692)</li>
 <li>www.theguardian.com (685)</li>
-<li>chat.openai.com (677)</li>
+<li>chat.openai.com (679)</li>
 <li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (625)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:09 jobs.royalholloway.ac.uk</li>
+<ul><li> 10:15 web.whatsapp.com</li>
+<li> 10:00 moodle.royalholloway.ac.uk</li>
+<li> 10:00 login.microsoftonline.com</li>
+<li> 10:00 moodle.royalholloway.ac.uk</li>
+<li> 09:50 chatgpt.com</li>
+<li class='same'> 09:39 chatgpt.com</li>
+<li> 09:39 chat.openai.com</li>
+<li> 09:36 rhul-my.sharepoint.com</li>
+<li> 09:36 login.microsoftonline.com</li>
+<li> 09:36 rhul-my.sharepoint.com</li>
+<li> 09:27 chatgpt.com</li>
+<li class='same'> 09:26 chatgpt.com</li>
+<li class='same'> 09:25 chatgpt.com</li>
+<li class='same'> 09:24 chatgpt.com</li>
+<li> 09:24 chat.openai.com</li>
+<li> 09:09 jobs.royalholloway.ac.uk</li>
 <li class='same'> 09:08 jobs.royalholloway.ac.uk</li>
 <li> 09:01 www.linkedin.com</li>
 <li class='same'> 09:00 www.linkedin.com</li>
