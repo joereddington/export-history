@@ -70,20 +70,20 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4329)</li>
 <li>www.reddit.com (4318)</li>
-<li>outlook.office.com (4090)</li>
+<li>outlook.office.com (4089)</li>
 <li>www.google.com (4027)</li>
 <li>outlook.office365.com (3907)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2652)</li>
-<li>chatgpt.com (1686)</li>
+<li>chatgpt.com (1688)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1485)</li>
+<li>www.linkedin.com (1484)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1168)</li>
+<li>login.microsoftonline.com (1165)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1083)</li>
 <li>moodle.royalholloway.ac.uk (978)</li>
-<li>rhul-my.sharepoint.com (820)</li>
+<li>rhul-my.sharepoint.com (818)</li>
 <li>web.whatsapp.com (694)</li>
 <li>gmail.com (692)</li>
 <li>www.theguardian.com (685)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (515)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (413)</li>
-<li>rhul.sharepoint.com (386)</li>
+<li>rhul.sharepoint.com (385)</li>
 <li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (358)</li>
 
 
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:56 chatgpt.com</li>
+<ul><li> 07:16 localhost:8000</li>
+<li> 07:08 chatgpt.com</li>
+<li> 07:08 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:07 chatgpt.com</li>
+<li class='same'> 06:56 chatgpt.com</li>
 <li class='same'> 06:55 chatgpt.com</li>
 <li class='same'> 06:51 chatgpt.com</li>
 <li class='same'> 06:50 chatgpt.com</li>
@@ -16114,8 +16118,6 @@ With number of accesses/minutes in parentheses
 <li> 10:41 outlook.office.com</li>
 <li> 10:35 workload.herts.ac.uk</li>
 <li class='same'> 10:34 workload.herts.ac.uk</li>
-<li> 10:34 adfs.herts.ac.uk</li>
-<li> 10:34 workload.herts.ac.uk</li>
 <li> 10:34 duckduckgo.com</li>
 <li> 10:32 mail.google.com</li>
 <li class='same'> 10:31 mail.google.com</li>
@@ -16157,8 +16159,7 @@ With number of accesses/minutes in parentheses
 <li> 09:58 outlook.office365.com</li>
 <li class='same'> 09:56 outlook.office365.com</li>
 <li class='same'> 09:55 outlook.office365.com</li>
-<li> 09:54 rhul.sharepoint.com</li>
-<li class='same'> 09:53 rhul.sharepoint.com</li>
+<li> 09:53 rhul.sharepoint.com</li>
 <li class='same'> 09:51 rhul.sharepoint.com</li>
 <li> 09:51 outlook.office365.com</li>
 <li class='same'> 09:50 outlook.office365.com</li>
@@ -16170,8 +16171,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:36 webtimetables.royalholloway.ac.uk</li>
 <li> 09:36 outlook.office365.com</li>
 <li class='same'> 09:32 outlook.office365.com</li>
-<li> 09:31 www.linkedin.com</li>
-<li class='same'> 09:30 www.linkedin.com</li>
+<li> 09:30 www.linkedin.com</li>
 <li> 09:23 outlook.office365.com</li>
 <li class='same'> 09:22 outlook.office365.com</li>
 <li class='same'> 09:21 outlook.office365.com</li>
@@ -16179,20 +16179,16 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:16 outlook.office365.com</li>
 <li class='same'> 09:15 outlook.office365.com</li>
 <li> 09:13 outlook.office.com</li>
-<li> 09:13 login.microsoftonline.com</li>
-<li> 09:13 outlook.office.com</li>
 <li> 09:12 chatgpt.com</li>
 <li> 09:11 outlook.office365.com</li>
 <li class='same'> 09:08 outlook.office365.com</li>
 <li> 09:05 dashboards.rhul.ac.uk</li>
 <li> 09:03 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:02 moodle.royalholloway.ac.uk</li>
-<li> 09:02 rhul-my.sharepoint.com</li>
 <li> 09:02 forms.office.com</li>
 <li> 09:02 login.microsoftonline.com</li>
 <li> 09:02 forms.office.com</li>
 <li> 09:01 www.microsoft.com</li>
-<li> 09:01 login.microsoftonline.com</li>
 <li> 09:01 forms.office.com</li>
 <li> 09:01 login.microsoftonline.com</li>
 <li> 09:01 forms.office.com</li>
@@ -16215,7 +16211,6 @@ With number of accesses/minutes in parentheses
 <li> 07:55 calendar.google.com</li>
 <li> 07:54 outlook.office365.com</li>
 <li> 07:52 dashboards.rhul.ac.uk</li>
-<li> 07:51 rhul-my.sharepoint.com</li>
 <li> 07:51 forms.office.com</li>
 <li class='same'> 07:50 forms.office.com</li>
 <li> 07:50 login.microsoftonline.com</li>
@@ -16238,7 +16233,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:06 outlook.office365.com</li>
 <li class='same'> 07:03 outlook.office365.com</li>
 <li class='same'> 07:02 outlook.office365.com</li>
-<li> 07:02 login.microsoftonline.com</li>
 <li> 06:59 moodle.royalholloway.ac.uk</li>
 <li> 06:58 rhul-my.sharepoint.com</li>
 <li> 06:57 intranet.royalholloway.ac.uk</li>
