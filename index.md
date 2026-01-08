@@ -68,16 +68,16 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4329)</li>
-<li>www.reddit.com (4327)</li>
+<ol><li>mail.google.com (4331)</li>
+<li>www.reddit.com (4329)</li>
 <li>outlook.office.com (4099)</li>
 <li>www.google.com (4028)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2654)</li>
-<li>chatgpt.com (1697)</li>
+<li>chatgpt.com (1698)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1496)</li>
+<li>www.linkedin.com (1499)</li>
 <li>www.facebook.com (1458)</li>
 <li>login.microsoftonline.com (1172)</li>
 <li>www.amazon.co.uk (1129)</li>
@@ -85,9 +85,9 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (980)</li>
 <li>rhul-my.sharepoint.com (820)</li>
 <li>web.whatsapp.com (697)</li>
-<li>gmail.com (692)</li>
+<li>gmail.com (693)</li>
 <li>www.theguardian.com (685)</li>
-<li>chat.openai.com (679)</li>
+<li>chat.openai.com (680)</li>
 <li>herts.instructure.com (645)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (637)</li>
 <li>tvtropes.org (630)</li>
@@ -105,6 +105,28 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 08/01/26</H3>
+
+<br>
+
+<ul><li> 16:10 <a href="https://www.theguardian.com/world/2026/jan/07/france-and-allies-discuss-possible-response-to-donald-trump-us-invasion-of-greenland">Marco Rubio says he will meet Danish officials to discuss Greenland next week | Greenland | The Guardian</a></li>
+<li> 16:03 www.reddit.com</li>
+<li> 16:01 chatgpt.com</li>
+<li> 16:01 chat.openai.com</li>
+<li> 15:57 www.linkedin.com</li>
+<li> 15:55 huggingface.co</li>
+<li class='same'> 15:54 huggingface.co</li>
+<li class='same'> 15:53 huggingface.co</li>
+<li class='same'> 15:52 huggingface.co</li>
+<li> 15:52 mail.google.com</li>
+<li> 15:52 huggingface.co</li>
+<li> 15:52 mail.google.com</li>
+<li> 15:52 gmail.com</li>
+<li> 15:52 huggingface.co</li>
+<li class='same'> 15:51 huggingface.co</li>
+<li> 15:50 www.linkedin.com</li>
+<li class='same'> 15:49 www.linkedin.com</li>
+<li> 15:49 www.reddit.com</li>
+</ul>
 
 <br>
 
