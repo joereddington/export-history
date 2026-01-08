@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4329)</li>
-<li>www.reddit.com (4320)</li>
-<li>outlook.office.com (4089)</li>
+<li>www.reddit.com (4323)</li>
+<li>outlook.office.com (4094)</li>
 <li>www.google.com (4027)</li>
 <li>outlook.office365.com (3907)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2652)</li>
-<li>chatgpt.com (1694)</li>
+<li>chatgpt.com (1696)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1486)</li>
+<li>www.linkedin.com (1490)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1167)</li>
+<li>login.microsoftonline.com (1169)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1083)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
@@ -88,11 +88,11 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (692)</li>
 <li>www.theguardian.com (685)</li>
 <li>chat.openai.com (679)</li>
-<li>herts.instructure.com (644)</li>
+<li>herts.instructure.com (645)</li>
 <li>tvtropes.org (630)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (625)</li>
-<li>github.com (556)</li>
-<li>feedly.com (534)</li>
+<li>github.com (561)</li>
+<li>feedly.com (535)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (413)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:15 web.whatsapp.com</li>
+<ul><li> 11:14 www.linkedin.com</li>
+<li> 11:11 github.com</li>
+<li class='same'> 11:10 github.com</li>
+<li class='same'> 11:09 github.com</li>
+<li class='same'> 11:04 github.com</li>
+<li class='same'> 11:03 github.com</li>
+<li> 10:57 chatgpt.com</li>
+<li class='same'> 10:52 chatgpt.com</li>
+<li> 10:52 mydevelopment.herts.ac.uk</li>
+<li class='same'> 10:51 mydevelopment.herts.ac.uk</li>
+<li> 10:51 login.microsoftonline.com</li>
+<li> 10:51 mydevelopment.herts.ac.uk</li>
+<li> 10:51 outlook.office.com</li>
+<li> 10:50 www.ihasco.co.uk</li>
+<li> 10:50 outlook.office.com</li>
+<li class='same'> 10:49 outlook.office.com</li>
+<li> 10:49 www.ihasco.co.uk</li>
+<li> 10:49 outlook.office.com</li>
+<li class='same'> 10:34 outlook.office.com</li>
+<li> 10:34 m365.cloud.microsoft</li>
+<li> 10:30 feedly.com</li>
+<li> 10:29 www.linkedin.com</li>
+<li class='same'> 10:27 www.linkedin.com</li>
+<li class='same'> 10:26 www.linkedin.com</li>
+<li> 10:26 m365.cloud.microsoft</li>
+<li> 10:26 login.microsoftonline.com</li>
+<li> 10:26 adfs.herts.ac.uk</li>
+<li> 10:26 08f7aa96-7963-4be8-86f6-5326a4e86a8c.dub.login.instructure.com</li>
+<li> 10:26 herts.instructure.com</li>
+<li> 10:24 www.reddit.com</li>
+<li class='same'> 10:23 www.reddit.com</li>
+<li class='same'> 10:22 www.reddit.com</li>
+<li> 10:15 web.whatsapp.com</li>
 <li> 10:00 moodle.royalholloway.ac.uk</li>
 <li> 10:00 login.microsoftonline.com</li>
 <li> 10:00 moodle.royalholloway.ac.uk</li>
