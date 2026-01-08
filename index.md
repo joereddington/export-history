@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (2652)</li>
 <li>chatgpt.com (1688)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1484)</li>
+<li>www.linkedin.com (1486)</li>
 <li>www.facebook.com (1458)</li>
 <li>login.microsoftonline.com (1165)</li>
 <li>www.amazon.co.uk (1129)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (677)</li>
 <li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (624)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (625)</li>
 <li>github.com (556)</li>
 <li>feedly.com (534)</li>
 <li>forms.office.com (515)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 08/01/26</H3>
+
+<br>
+
+<ul><li> 09:09 jobs.royalholloway.ac.uk</li>
+<li class='same'> 09:08 jobs.royalholloway.ac.uk</li>
+<li> 09:01 www.linkedin.com</li>
+<li class='same'> 09:00 www.linkedin.com</li>
+<li> 08:59 www.giantitp.com</li>
+<li> 08:58 <a href="https://www.theguardian.com/society/2026/jan/07/weight-loss-jabs-regain-two-years-health-study">People who stop taking weight-loss jabs regain weight in under two years, study reveals | Health | The Guardian</a></li>
+<li> 08:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
 
 <br>
 
