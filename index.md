@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4329)</li>
-<li>www.reddit.com (4324)</li>
+<li>www.reddit.com (4327)</li>
 <li>outlook.office.com (4099)</li>
 <li>www.google.com (4028)</li>
-<li>outlook.office365.com (3910)</li>
+<li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2684)</li>
-<li>duckduckgo.com (2652)</li>
+<li>duckduckgo.com (2654)</li>
 <li>chatgpt.com (1696)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1493)</li>
+<li>www.linkedin.com (1495)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1170)</li>
+<li>login.microsoftonline.com (1172)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1083)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
@@ -89,14 +89,14 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>chat.openai.com (679)</li>
 <li>herts.instructure.com (645)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (632)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (634)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
 <li>feedly.com (535)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (413)</li>
-<li>rhul.sharepoint.com (385)</li>
+<li>rhul.sharepoint.com (391)</li>
 <li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (361)</li>
 
 
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:28 fyp.cs.rhul.ac.uk</li>
+<ul><li> 14:06 www.linkedin.com</li>
+<li> 14:04 duckduckgo.com</li>
+<li class='same'> 14:03 duckduckgo.com</li>
+<li> 14:00 outlook.office365.com</li>
+<li> 13:35 rhul.sharepoint.com</li>
+<li class='same'> 13:34 rhul.sharepoint.com</li>
+<li class='same'> 13:33 rhul.sharepoint.com</li>
+<li> 13:33 login.microsoftonline.com</li>
+<li> 13:33 rhul.sharepoint.com</li>
+<li class='same'> 13:32 rhul.sharepoint.com</li>
+<li> 13:32 login.microsoftonline.com</li>
+<li> 13:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:29 www.reddit.com</li>
+<li class='same'> 13:25 www.reddit.com</li>
+<li class='same'> 13:24 www.reddit.com</li>
+<li> 13:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:22 www.linkedin.com</li>
+<li> 13:21 fyp.cs.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:28 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 12:27 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 12:21 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 12:20 fyp.cs.rhul.ac.uk</li>
@@ -85978,11 +86000,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:20 profile.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:28 rhul.sharepoint.com</li>
+<li> 07:51 rhul.sharepoint.com</li>
+<li class='same'> 07:28 rhul.sharepoint.com</li>
 </ul>
 
 <H3>Friday, 07/06/24</H3>
