@@ -69,35 +69,35 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4329)</li>
-<li>www.reddit.com (4323)</li>
-<li>outlook.office.com (4094)</li>
-<li>www.google.com (4027)</li>
-<li>outlook.office365.com (3907)</li>
+<li>www.reddit.com (4324)</li>
+<li>outlook.office.com (4099)</li>
+<li>www.google.com (4028)</li>
+<li>outlook.office365.com (3910)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2652)</li>
 <li>chatgpt.com (1696)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1490)</li>
+<li>www.linkedin.com (1493)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1169)</li>
+<li>login.microsoftonline.com (1170)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1083)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
 <li>rhul-my.sharepoint.com (820)</li>
-<li>web.whatsapp.com (696)</li>
+<li>web.whatsapp.com (697)</li>
 <li>gmail.com (692)</li>
 <li>www.theguardian.com (685)</li>
 <li>chat.openai.com (679)</li>
 <li>herts.instructure.com (645)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (632)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (625)</li>
 <li>github.com (561)</li>
 <li>feedly.com (535)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (385)</li>
-<li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (358)</li>
+<li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (361)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:14 www.linkedin.com</li>
+<ul><li> 12:18 outlook.office.com</li>
+<li> 12:12 outlook.office365.com</li>
+<li class='same'> 12:11 outlook.office365.com</li>
+<li> 12:11 login.microsoftonline.com</li>
+<li> 12:11 outlook.office365.com</li>
+<li> 12:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:00 <a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a></li>
+<li> 12:00 <a href="https://www.theguardian.com/world/2026/jan/08/alleged-scam-kingpin-chen-zhi-extradited-china-cambodia-arrest">Alleged scam kingpin Chen Zhi extradited to China after Cambodia arrest | Cambodia | The Guardian</a></li>
+<li> 11:53 outlook.office.com</li>
+<li> 11:48 web.whatsapp.com</li>
+<li> 11:48 mydevelopment.herts.ac.uk</li>
+<li class='same'> 11:47 mydevelopment.herts.ac.uk</li>
+<li> 11:47 outlook.office.com</li>
+<li> 11:43 mydevelopment.herts.ac.uk</li>
+<li class='same'> 11:42 mydevelopment.herts.ac.uk</li>
+<li> 11:42 outlook.office.com</li>
+<li> 11:40 www.linkedin.com</li>
+<li class='same'> 11:39 www.linkedin.com</li>
+<li class='same'> 11:31 www.linkedin.com</li>
+<li> 11:28 outlook.office.com</li>
+<li> 11:26 mydevelopment.herts.ac.uk</li>
+<li class='same'> 11:25 mydevelopment.herts.ac.uk</li>
+<li> 11:14 www.linkedin.com</li>
 <li> 11:11 github.com</li>
 <li class='same'> 11:10 github.com</li>
 <li class='same'> 11:09 github.com</li>
@@ -223,6 +245,8 @@ With number of accesses/minutes in parentheses
 <li> 06:31 c14.qbo.intuit.com</li>
 <li> 06:31 app.qbo.intuit.com</li>
 <li> 06:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:25 <a href="https://www.theguardian.com/world/2026/jan/08/alleged-scam-kingpin-chen-zhi-extradited-china-cambodia-arrest">Alleged scam kingpin Chen Zhi extradited to China after Cambodia arrest | Cambodia | The Guardian</a></li>
+<li> 06:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
 <H3>Wednesday, 07/01/26</H3>
@@ -230,6 +254,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:14 www.google.com</li>
+<li> 21:13 www.gov.uk</li>
+</ul>
 
 <br>
 
@@ -295,6 +326,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:58 review-a.account.gov.uk</li>
 <li> 13:56 identity.account.gov.uk</li>
 <li class='same'> 13:53 identity.account.gov.uk</li>
+<li> 13:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 13:52 web.whatsapp.com</li>
 <li> 13:50 identity.company-information.service.gov.uk</li>
 <li> 13:50 mail.google.com</li>
@@ -539,6 +571,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 21:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:25 <a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a></li>
+<li> 21:23 <a href="https://www.theguardian.com/tv-and-radio/2026/jan/06/industry-season-four-review-bbc-one-iplayer-hbo-binge">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 21:22 <a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a></li>
+<li> 21:22 <a href="https://www.theguardian.com/tv-and-radio/2026/jan/06/theyre-all-bad-but-some-are-worse-than-others-every-harlan-coben-show-rated">‘They’re all bad – but some are worse than others’: every Harlan Coben show rated | Television | The Guardian</a></li>
+</ul>
+
+<br>
+
 <ul><li> 20:11 mail.google.com</li>
 </ul>
 
@@ -653,11 +695,11 @@ With number of accesses/minutes in parentheses
 <li> 17:24 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 17:24 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 17:24 <a href="https://en.wikipedia.org/"></a></li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 16:34 <a href="https://en.wikipedia.org/"></a></li>
+<li> 16:55 <a href="https://www.theguardian.com/tv-and-radio/2026/jan/06/theyre-all-bad-but-some-are-worse-than-others-every-harlan-coben-show-rated">‘They’re all bad – but some are worse than others’: every Harlan Coben show rated | Television | The Guardian</a></li>
+<li> 16:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:54 www.reddit.com</li>
+<li> 16:54 www.natwest.com</li>
+<li> 16:34 <a href="https://en.wikipedia.org/"></a></li>
 <li> 16:33 www.linkedin.com</li>
 </ul>
 
@@ -688,11 +730,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:30 intranet.royalholloway.ac.uk</li>
 <li class='same'> 15:29 intranet.royalholloway.ac.uk</li>
 <li> 15:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-</ul>
-
-<br>
-
-<ul><li> 14:51 www.reddit.com</li>
+<li> 15:02 www.natwest.com</li>
+<li> 14:51 www.reddit.com</li>
 <li class='same'> 14:50 www.reddit.com</li>
 <li class='same'> 14:49 www.reddit.com</li>
 <li> 14:47 duckduckgo.com</li>
@@ -721,6 +760,8 @@ With number of accesses/minutes in parentheses
 <li> 14:10 chatgpt.com</li>
 <li> 14:10 chat.openai.com</li>
 <li> 14:09 duckduckgo.com</li>
+<li> 14:08 <a href="https://www.theguardian.com/film/2026/jan/06/hamnet-review-paul-mescal-jessie-buckley-shakespeare-hamlet">Hamnet review – Paul Mescal and Jessie Buckley beguile and captivate in audacious Shakespearean tragedy | Film | The Guardian</a></li>
+<li> 14:08 www.natwest.com</li>
 <li> 14:04 mail.google.com</li>
 <li> 14:01 calendar.google.com</li>
 <li class='same'> 14:00 calendar.google.com</li>
@@ -751,6 +792,7 @@ With number of accesses/minutes in parentheses
 <li> 13:23 web.whatsapp.com</li>
 <li> 13:22 calendar.google.com</li>
 <li class='same'> 13:21 calendar.google.com</li>
+<li> 13:13 <a href="https://www.theguardian.com/film/2026/jan/06/hamnet-review-paul-mescal-jessie-buckley-shakespeare-hamlet">Hamnet review – Paul Mescal and Jessie Buckley beguile and captivate in audacious Shakespearean tragedy | Film | The Guardian</a></li>
 <li> 13:13 <a href="https://www.theguardian.com/money/2026/jan/05/buy-to-let-landlords-autumn-budget-tax-regulations-interest-rates">Are UK buy-to-let landlords dying out – and should we care? | Buying to let | The Guardian</a></li>
 <li> 13:11 outlook.office365.com</li>
 <li class='same'> 13:10 outlook.office365.com</li>
@@ -89065,7 +89107,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:27 www.nestpensions.org.uk</li>
 <li class='same'> 06:26 www.nestpensions.org.uk</li>
-<li class='same'> 06:22 www.nestpensions.org.uk</li>
+<li> 06:25 online.unity.co.uk</li>
+<li> 06:22 www.nestpensions.org.uk</li>
 <li class='same'> 06:21 www.nestpensions.org.uk</li>
 </ul>
 
