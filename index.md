@@ -69,13 +69,13 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (4329)</li>
-<li>www.reddit.com (4311)</li>
+<li>www.reddit.com (4318)</li>
 <li>outlook.office.com (4090)</li>
 <li>www.google.com (4027)</li>
 <li>outlook.office365.com (3907)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2652)</li>
-<li>chatgpt.com (1680)</li>
+<li>chatgpt.com (1686)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1485)</li>
 <li>www.facebook.com (1458)</li>
@@ -87,28 +87,69 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (694)</li>
 <li>gmail.com (692)</li>
 <li>www.theguardian.com (685)</li>
-<li>chat.openai.com (676)</li>
+<li>chat.openai.com (677)</li>
 <li>herts.instructure.com (644)</li>
 <li>tvtropes.org (630)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (622)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (624)</li>
 <li>github.com (556)</li>
 <li>feedly.com (534)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (386)</li>
-<li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (357)</li>
+<li><a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a> (358)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Thursday, 08/01/26</H3>
+
+<br>
+
+<ul><li> 06:56 chatgpt.com</li>
+<li class='same'> 06:55 chatgpt.com</li>
+<li class='same'> 06:51 chatgpt.com</li>
+<li class='same'> 06:50 chatgpt.com</li>
+<li class='same'> 06:46 chatgpt.com</li>
+<li class='same'> 06:45 chatgpt.com</li>
+<li> 06:45 chat.openai.com</li>
+<li> 06:42 <a href="https://en.wikipedia.org/wiki/2015_Luton_Borough_Council_election">2015 Luton Borough Council election - Wikipedia</a></li>
+<li> 06:42 <a href="https://en.wikipedia.org/wiki/Vasili_Mitrokhin">Vasili Mitrokhin - Wikipedia</a></li>
+<li> 06:41 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:41 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 06:41 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 06:41 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 06:41 <a href="https://en.wikipedia.org/"></a></li>
+<li> 06:41 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:40 qbo.intuit.com</li>
+<li> 06:39 www.reddit.com</li>
+<li class='same'> 06:37 www.reddit.com</li>
+<li class='same'> 06:36 www.reddit.com</li>
+<li class='same'> 06:35 www.reddit.com</li>
+<li class='same'> 06:33 www.reddit.com</li>
+<li class='same'> 06:32 www.reddit.com</li>
+<li> 06:32 qbo.intuit.com</li>
+<li> 06:32 www.reddit.com</li>
+<li> 06:32 qbo.intuit.com</li>
+<li> 06:31 accounts.intuit.com</li>
+<li> 06:31 qbo.intuit.com</li>
+<li> 06:31 c14.qbo.intuit.com</li>
+<li> 06:31 app.qbo.intuit.com</li>
+<li> 06:30 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
 <H3>Wednesday, 07/01/26</H3>
 
 <br>
 
-<ul><li> 17:47 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 18:04 <a href="https://www.theguardian.com/technology/2026/jan/07/commons-women-equalities-committee-stop-using-x-ai-altered-grok-images">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:47 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 17:38 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li> 17:38 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 17:37 outlook.office365.com</li>
@@ -398,6 +439,11 @@ With number of accesses/minutes in parentheses
 <li> 06:35 docs.google.com</li>
 <li> 06:34 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 06:34 docs.google.com</li>
+<li> 06:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:28 <a href="https://www.theguardian.com/">Will Smith accused of ‘predatory behaviour’ and ‘grooming’ by tour violinist | Will Smith | The Guardian</a></li>
+<li> 06:27 <a href="https://www.theguardian.com/commentisfree/2026/jan/06/the-guardian-view-on-universities-labour-needs-a-clearer-plan">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:25 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:25 <a href="https://www.theguardian.com/news/gallery/2026/jan/04/maduro-capture-stonehenge-sunrise-photos-of-the-weekend">Maduro’s capture and a Stonehenge sunrise: photos of the weekend | World news | The Guardian</a></li>
 </ul>
 
 <H3>Tuesday, 06/01/26</H3>
@@ -1080,7 +1126,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 22:04 <a href="https://www.theguardian.com/news/gallery/2026/jan/04/maduro-capture-stonehenge-sunrise-photos-of-the-weekend">Maduro’s capture and a Stonehenge sunrise: photos of the weekend | World news | The Guardian</a></li>
+<li> 22:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 22:01 <a href="https://www.theguardian.com/uk-news/2026/jan/04/spycops-sent-thousands-of-surveillance-reports-to-mi5-inquiry-documents-reveal">Latest news, sport and opinion from the Guardian</a></li>
 <li> 21:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
@@ -88556,7 +88603,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:27 <a href="https://en.wikipedia.org/wiki/Uber#Delayed_disclosure_of_data_breaches">Uber - Wikipedia</a></li>
+<ul><li> 07:54 <a href="https://en.wikipedia.org/wiki/2020_Twitter_account_hijacking">2020 Twitter account hijacking - Wikipedia</a></li>
+<li> 07:27 <a href="https://en.wikipedia.org/wiki/Uber#Delayed_disclosure_of_data_breaches">Uber - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -89971,6 +90019,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:07 mail.google.com</li>
 <li> 15:05 outlook.office.com</li>
 <li class='same'> 15:03 outlook.office.com</li>
+<li> 15:01 <a href="https://en.wikipedia.org/wiki/2020_Twitter_account_hijacking">2020 Twitter account hijacking - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -90961,8 +91010,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:43 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:42 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:41 moodle.royalholloway.ac.uk</li>
+<li> 14:35 pure.royalholloway.ac.uk</li>
 <li> 14:34 www.facebook.com</li>
-<li> 14:31 pure.royalholloway.ac.uk</li>
+<li> 14:32 pure.royalholloway.ac.uk</li>
+<li class='same'> 14:31 pure.royalholloway.ac.uk</li>
 <li> 14:31 intranet.royalholloway.ac.uk</li>
 <li> 14:31 pure.royalholloway.ac.uk</li>
 </ul>
