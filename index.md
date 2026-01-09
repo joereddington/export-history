@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4336)</li>
+<ol><li>www.reddit.com (4340)</li>
 <li>mail.google.com (4331)</li>
 <li>outlook.office.com (4099)</li>
 <li>www.google.com (4033)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2654)</li>
-<li>chatgpt.com (1700)</li>
+<li>chatgpt.com (1705)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1505)</li>
-<li>www.facebook.com (1458)</li>
+<li>www.linkedin.com (1508)</li>
+<li>www.facebook.com (1459)</li>
 <li>login.microsoftonline.com (1172)</li>
 <li>www.amazon.co.uk (1129)</li>
-<li>calendar.google.com (1083)</li>
+<li>calendar.google.com (1084)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
 <li>rhul-my.sharepoint.com (819)</li>
 <li>web.whatsapp.com (698)</li>
 <li>gmail.com (693)</li>
 <li>www.theguardian.com (685)</li>
-<li>chat.openai.com (681)</li>
+<li>chat.openai.com (682)</li>
 <li>herts.instructure.com (646)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (641)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (642)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
 <li>feedly.com (536)</li>
@@ -105,6 +105,33 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 09/01/26</H3>
+
+<br>
+
+<ul><li> 11:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:47 chatgpt.com</li>
+<li class='same'> 11:46 chatgpt.com</li>
+<li class='same'> 11:44 chatgpt.com</li>
+<li> 11:43 www.linkedin.com</li>
+<li> 11:41 chatgpt.com</li>
+<li class='same'> 11:40 chatgpt.com</li>
+<li> 11:40 chat.openai.com</li>
+<li> 11:40 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:38 www.reddit.com</li>
+<li class='same'> 11:35 www.reddit.com</li>
+<li class='same'> 11:33 www.reddit.com</li>
+<li class='same'> 11:32 www.reddit.com</li>
+<li> 11:29 www.linkedin.com</li>
+<li> 11:28 www.facebook.com</li>
+<li> 11:28 www.linkedin.com</li>
+<li> 11:27 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li> 10:28 calendar.google.com</li>
+<li> 10:27 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
 
 <br>
 
