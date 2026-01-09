@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (4331)</li>
-<li>www.reddit.com (4329)</li>
+<ol><li>www.reddit.com (4332)</li>
+<li>mail.google.com (4331)</li>
 <li>outlook.office.com (4099)</li>
 <li>www.google.com (4028)</li>
 <li>outlook.office365.com (3911)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (2654)</li>
 <li>chatgpt.com (1698)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1499)</li>
+<li>www.linkedin.com (1501)</li>
 <li>www.facebook.com (1458)</li>
 <li>login.microsoftonline.com (1172)</li>
 <li>www.amazon.co.uk (1129)</li>
@@ -89,22 +89,43 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (685)</li>
 <li>chat.openai.com (680)</li>
 <li>herts.instructure.com (645)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (637)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (639)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
-<li>feedly.com (535)</li>
+<li>feedly.com (536)</li>
 <li>forms.office.com (515)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (391)</li>
-<li><a href="https://www.theguardian.com/">Tech titans divided over whether to pay billionaire tax or flee California | California | The Guardian</a> (362)</li>
+<li><a href="https://www.theguardian.com/">Tech titans divided over whether to pay billionaire tax or flee California | California | The Guardian</a> (363)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Friday, 09/01/26</H3>
+
+<br>
+
+<ul><li> 06:53 www.reddit.com</li>
+<li class='same'> 06:52 www.reddit.com</li>
+<li class='same'> 06:51 www.reddit.com</li>
+<li> 06:50 feedly.com</li>
+<li> 06:46 www.linkedin.com</li>
+<li class='same'> 06:45 www.linkedin.com</li>
+</ul>
+
 <H3>Thursday, 08/01/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 21:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+</ul>
 
 <br>
 
@@ -323,7 +344,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:04 <a href="https://www.theguardian.com/technology/2026/jan/07/commons-women-equalities-committee-stop-using-x-ai-altered-grok-images">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 18:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:06 <a href="https://www.theguardian.com/">Tech titans divided over whether to pay billionaire tax or flee California | California | The Guardian</a></li>
+<li> 18:04 <a href="https://www.theguardian.com/technology/2026/jan/07/commons-women-equalities-committee-stop-using-x-ai-altered-grok-images">Latest news, sport and opinion from the Guardian</a></li>
 <li> 17:47 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 17:38 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li> 17:38 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
