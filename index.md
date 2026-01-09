@@ -79,11 +79,11 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1501)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1172)</li>
+<li>login.microsoftonline.com (1170)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1083)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
-<li>rhul-my.sharepoint.com (820)</li>
+<li>rhul-my.sharepoint.com (819)</li>
 <li>web.whatsapp.com (697)</li>
 <li>gmail.com (693)</li>
 <li>www.theguardian.com (685)</li>
@@ -16065,7 +16065,6 @@ With number of accesses/minutes in parentheses
 <li> 17:43 adblockplus.org</li>
 <li> 17:43 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:43 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 17:43 login.microsoftonline.com</li>
 <li> 17:43 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:43 experience.elluciancloud.ie</li>
 <li> 17:43 login.microsoftonline.com</li>
@@ -16137,7 +16136,6 @@ With number of accesses/minutes in parentheses
 <li> 11:54 rhul-my.sharepoint.com</li>
 <li> 11:54 www.google.com</li>
 <li> 11:53 outlook.office365.com</li>
-<li> 11:53 login.microsoftonline.com</li>
 <li> 11:39 www.royalholloway.ac.uk</li>
 <li> 11:39 duckduckgo.com</li>
 </ul>
@@ -16175,7 +16173,6 @@ With number of accesses/minutes in parentheses
 <li> 06:47 rhul-my.sharepoint.com</li>
 <li class='same'> 06:46 rhul-my.sharepoint.com</li>
 <li> 06:45 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 06:44 rhul-my.sharepoint.com</li>
 <li> 06:44 forms.office.com</li>
 <li class='same'> 06:43 forms.office.com</li>
 <li> 06:43 login.microsoftonline.com</li>
@@ -16187,7 +16184,6 @@ With number of accesses/minutes in parentheses
 <li> 06:39 adfs.herts.ac.uk</li>
 <li> 06:39 api-b6327e78.duosecurity.com</li>
 <li> 06:39 adfs.herts.ac.uk</li>
-<li class='same'> 06:38 adfs.herts.ac.uk</li>
 <li> 06:38 workload.herts.ac.uk</li>
 <li> 06:37 ce0997li.webitrent.com</li>
 <li> 06:37 login.microsoftonline.com</li>
