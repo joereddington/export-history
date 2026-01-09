@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4336)</li>
 <li>mail.google.com (4331)</li>
 <li>outlook.office.com (4099)</li>
-<li>www.google.com (4028)</li>
+<li>www.google.com (4033)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2654)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 09/01/26</H3>
+
+<br>
+
+<ul><li> 09:55 www.google.com</li>
+<li class='same'> 09:31 www.google.com</li>
+</ul>
 
 <br>
 
@@ -168,7 +174,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:10 <a href="https://www.theguardian.com/world/2026/jan/07/france-and-allies-discuss-possible-response-to-donald-trump-us-invasion-of-greenland">Marco Rubio says he will meet Danish officials to discuss Greenland next week | Greenland | The Guardian</a></li>
+<ul><li> 21:03 www.google.com</li>
+<li> 21:03 www.hunters.com</li>
+<li> 20:50 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:10 www.google.com</li>
+<li> 16:10 <a href="https://www.theguardian.com/world/2026/jan/07/france-and-allies-discuss-possible-response-to-donald-trump-us-invasion-of-greenland">Marco Rubio says he will meet Danish officials to discuss Greenland next week | Greenland | The Guardian</a></li>
 <li> 16:03 www.reddit.com</li>
 <li> 16:01 chatgpt.com</li>
 <li> 16:01 chat.openai.com</li>
