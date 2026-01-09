@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4340)</li>
+<ol><li>www.reddit.com (4344)</li>
 <li>mail.google.com (4331)</li>
 <li>outlook.office.com (4099)</li>
 <li>www.google.com (4033)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2684)</li>
-<li>duckduckgo.com (2660)</li>
-<li>chatgpt.com (1706)</li>
+<li>duckduckgo.com (2663)</li>
+<li>chatgpt.com (1708)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1511)</li>
+<li>www.linkedin.com (1518)</li>
 <li>www.facebook.com (1459)</li>
 <li>login.microsoftonline.com (1172)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1084)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
 <li>rhul-my.sharepoint.com (819)</li>
-<li>web.whatsapp.com (700)</li>
+<li>web.whatsapp.com (701)</li>
 <li>gmail.com (693)</li>
 <li>www.theguardian.com (685)</li>
-<li>chat.openai.com (683)</li>
-<li>herts.instructure.com (653)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (642)</li>
+<li>chat.openai.com (685)</li>
+<li>herts.instructure.com (655)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (644)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
 <li>feedly.com (536)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (445)</li>
 <li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (391)</li>
-<li><a href="https://www.theguardian.com/">Tech titans divided over whether to pay billionaire tax or flee California | California | The Guardian</a> (364)</li>
+<li><a href="https://www.theguardian.com/">Tech titans divided over whether to pay billionaire tax or flee California | California | The Guardian</a> (365)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,41 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:53 duckduckgo.com</li>
+<ul><li> 15:47 jitdets.com</li>
+<li> 15:46 ev.turnitinuk.com</li>
+<li> 15:46 herts.instructure.com</li>
+<li> 15:43 www.reddit.com</li>
+<li class='same'> 15:42 www.reddit.com</li>
+<li class='same'> 15:40 www.reddit.com</li>
+<li> 15:31 ninapro.hevs.ch</li>
+<li> 15:31 duckduckgo.com</li>
+<li> 15:30 www.tandfonline.com</li>
+<li> 15:29 chatgpt.com</li>
+<li> 15:29 chat.openai.com</li>
+<li> 15:29 chatgpt.com</li>
+<li> 15:29 chat.openai.com</li>
+<li> 15:27 duckduckgo.com</li>
+<li> 15:27 medium.com</li>
+<li> 15:27 duckduckgo.com</li>
+<li> 15:26 www.mdpi.com</li>
+<li> 15:26 doi.org</li>
+<li> 15:24 ev.turnitinuk.com</li>
+<li> 15:24 herts.instructure.com</li>
+<li> 15:21 www.linkedin.com</li>
+<li class='same'> 15:20 www.linkedin.com</li>
+<li class='same'> 15:19 www.linkedin.com</li>
+<li class='same'> 15:17 www.linkedin.com</li>
+<li class='same'> 15:16 www.linkedin.com</li>
+<li class='same'> 15:15 www.linkedin.com</li>
+<li class='same'> 15:14 www.linkedin.com</li>
+<li> 15:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:14 <a href="https://www.theguardian.com/">Tech titans divided over whether to pay billionaire tax or flee California | California | The Guardian</a></li>
+<li> 15:12 <a href="https://www.theguardian.com/technology/2026/jan/09/x-uk-revenues-drop-nearly-60-in-a-year-as-advertisers-pull-out-over-content-concerns">X UK revenues drop nearly 60% in a year as content concerns spook advertisers | X | The Guardian</a></li>
+<li> 15:11 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:07 web.whatsapp.com</li>
+<li> 15:02 www.reddit.com</li>
+<li> 14:59 archive.ics.uci.edu</li>
+<li> 14:53 duckduckgo.com</li>
 <li> 14:52 archive.ics.uci.edu</li>
 <li> 14:45 link.springer.com</li>
 <li> 14:44 ev.turnitinuk.com</li>
