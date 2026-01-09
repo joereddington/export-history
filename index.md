@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4332)</li>
+<ol><li>www.reddit.com (4336)</li>
 <li>mail.google.com (4331)</li>
 <li>outlook.office.com (4099)</li>
 <li>www.google.com (4028)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2684)</li>
 <li>duckduckgo.com (2654)</li>
-<li>chatgpt.com (1698)</li>
+<li>chatgpt.com (1700)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1501)</li>
+<li>www.linkedin.com (1505)</li>
 <li>www.facebook.com (1458)</li>
-<li>login.microsoftonline.com (1170)</li>
+<li>login.microsoftonline.com (1172)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1083)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
 <li>rhul-my.sharepoint.com (819)</li>
-<li>web.whatsapp.com (697)</li>
+<li>web.whatsapp.com (698)</li>
 <li>gmail.com (693)</li>
 <li>www.theguardian.com (685)</li>
-<li>chat.openai.com (680)</li>
-<li>herts.instructure.com (645)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (639)</li>
+<li>chat.openai.com (681)</li>
+<li>herts.instructure.com (646)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (641)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
 <li>feedly.com (536)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (445)</li>
 <li>fritz.box (413)</li>
 <li>rhul.sharepoint.com (391)</li>
-<li><a href="https://www.theguardian.com/">Tech titans divided over whether to pay billionaire tax or flee California | California | The Guardian</a> (363)</li>
+<li><a href="https://www.theguardian.com/">Tech titans divided over whether to pay billionaire tax or flee California | California | The Guardian</a> (364)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:53 www.reddit.com</li>
+<ul><li> 07:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:50 chatgpt.com</li>
+<li class='same'> 07:49 chatgpt.com</li>
+<li> 07:49 chat.openai.com</li>
+<li> 07:46 <a href="https://en.wikipedia.org/wiki/Turn_state%27s_evidence">Turn state's evidence - Wikipedia</a></li>
+<li> 07:46 <a href="https://en.wikipedia.org/wiki/Queen%27s_evidence">Turn state's evidence - Wikipedia</a></li>
+<li> 07:41 <a href="https://en.wikipedia.org/wiki/Securitas_depot_robbery">Securitas depot robbery - Wikipedia</a></li>
+<li> 07:41 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:41 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:41 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:41 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:41 <a href="https://en.wikipedia.org/"></a></li>
+<li> 07:40 www.linkedin.com</li>
+<li> 07:37 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:33 web.whatsapp.com</li>
+<li> 07:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:28 www.linkedin.com</li>
+<li> 07:27 mydevelopment.herts.ac.uk</li>
+<li class='same'> 07:23 mydevelopment.herts.ac.uk</li>
+<li class='same'> 07:22 mydevelopment.herts.ac.uk</li>
+<li> 07:21 www.linkedin.com</li>
+<li> 07:16 mydevelopment.herts.ac.uk</li>
+<li class='same'> 07:15 mydevelopment.herts.ac.uk</li>
+<li> 07:15 login.microsoftonline.com</li>
+<li> 07:15 mydevelopment.herts.ac.uk</li>
+<li> 07:15 adfs.herts.ac.uk</li>
+<li> 07:15 08f7aa96-7963-4be8-86f6-5326a4e86a8c.dub.login.instructure.com</li>
+<li> 07:15 herts.instructure.com</li>
+<li> 07:15 login.microsoftonline.com</li>
+<li> 07:15 mydevelopment.herts.ac.uk</li>
+<li> 07:14 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:12 www.reddit.com</li>
+<li class='same'> 07:11 www.reddit.com</li>
+<li class='same'> 07:10 www.reddit.com</li>
+<li> 07:10 <a href="https://www.theguardian.com/politics/2026/jan/09/home-office-gaza-academic-bassem-abudagga-family">Home Office tells Gaza academic his bid to bring family to UK not urgent | Home Office | The Guardian</a></li>
+<li> 07:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:01 <a href="https://www.theguardian.com/">Tech titans divided over whether to pay billionaire tax or flee California | California | The Guardian</a></li>
+<li> 07:00 www.linkedin.com</li>
+<li> 06:59 www.reddit.com</li>
+<li class='same'> 06:53 www.reddit.com</li>
 <li class='same'> 06:52 www.reddit.com</li>
 <li class='same'> 06:51 www.reddit.com</li>
 <li> 06:50 feedly.com</li>
