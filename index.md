@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4344)</li>
-<li>mail.google.com (4333)</li>
+<ol><li>www.reddit.com (4347)</li>
+<li>mail.google.com (4337)</li>
 <li>outlook.office.com (4099)</li>
 <li>www.google.com (4033)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2685)</li>
 <li>duckduckgo.com (2663)</li>
-<li>chatgpt.com (1708)</li>
+<li>chatgpt.com (1711)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1518)</li>
+<li>www.linkedin.com (1520)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1174)</li>
+<li>login.microsoftonline.com (1176)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1084)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
 <li>rhul-my.sharepoint.com (819)</li>
 <li>web.whatsapp.com (701)</li>
 <li>gmail.com (694)</li>
+<li>chat.openai.com (687)</li>
 <li>www.theguardian.com (685)</li>
-<li>chat.openai.com (685)</li>
-<li>herts.instructure.com (657)</li>
+<li>herts.instructure.com (662)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (645)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
 <li>feedly.com (537)</li>
-<li>forms.office.com (520)</li>
+<li>forms.office.com (524)</li>
 <li>drive.google.com (445)</li>
-<li>fritz.box (413)</li>
+<li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (391)</li>
 <li><a href="https://www.theguardian.com/">Tech titans divided over whether to pay billionaire tax or flee California | California | The Guardian</a> (365)</li>
 
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:59 mail.google.com</li>
+<ul><li> 18:51 herts.instructure.com</li>
+<li class='same'> 18:49 herts.instructure.com</li>
+<li class='same'> 18:48 herts.instructure.com</li>
+<li> 18:47 chatgpt.com</li>
+<li> 18:47 chat.openai.com</li>
+<li> 18:46 forms.office.com</li>
+<li> 18:46 login.microsoftonline.com</li>
+<li> 18:46 forms.office.com</li>
+<li> 18:46 login.microsoftonline.com</li>
+<li> 18:46 forms.office.com</li>
+<li> 18:45 mail.google.com</li>
+<li> 18:44 www.linkedin.com</li>
+<li class='same'> 18:43 www.linkedin.com</li>
+<li> 18:43 fritz.box</li>
+<li> 18:42 chatgpt.com</li>
+<li> 18:42 fritz.box</li>
+<li> 18:42 chatgpt.com</li>
+<li> 18:42 chat.openai.com</li>
+<li> 18:42 mail.google.com</li>
+<li class='same'> 18:12 mail.google.com</li>
+<li> 18:11 www.reddit.com</li>
+<li> 18:10 www.aiarty.com</li>
+<li> 18:10 www.reddit.com</li>
+<li class='same'> 18:09 www.reddit.com</li>
+<li> 18:08 mail.google.com</li>
+<li> 18:03 herts.instructure.com</li>
+<li> 18:03 forms.office.com</li>
+<li> 18:00 herts.instructure.com</li>
+<li> 17:59 mail.google.com</li>
 <li class='same'> 17:58 mail.google.com</li>
 <li> 17:58 gmail.com</li>
 <li> 17:57 forms.office.com</li>
