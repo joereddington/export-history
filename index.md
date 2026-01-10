@@ -74,10 +74,10 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (4034)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2685)</li>
-<li>duckduckgo.com (2663)</li>
+<li>duckduckgo.com (2664)</li>
 <li>chatgpt.com (1711)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1521)</li>
+<li>www.linkedin.com (1525)</li>
 <li>www.facebook.com (1459)</li>
 <li>login.microsoftonline.com (1181)</li>
 <li>www.amazon.co.uk (1129)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (694)</li>
 <li>chat.openai.com (687)</li>
 <li>www.theguardian.com (685)</li>
-<li>herts.instructure.com (666)</li>
+<li>herts.instructure.com (667)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (645)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:40 web.whatsapp.com</li>
+<ul><li> 14:16 herts.instructure.com</li>
+<li> 13:46 www.linkedin.com</li>
+<li class='same'> 13:45 www.linkedin.com</li>
+<li class='same'> 13:44 www.linkedin.com</li>
+<li class='same'> 13:41 www.linkedin.com</li>
+<li> 13:41 duckduckgo.com</li>
+<li> 13:40 web.whatsapp.com</li>
 <li> 13:40 <a href="https://en.wikipedia.org/wiki/Cyber_Resilience_Act">Cyber Resilience Act - Wikipedia</a></li>
 <li> 13:39 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 13:39 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
