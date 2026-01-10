@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1084)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
 <li>rhul-my.sharepoint.com (819)</li>
-<li>web.whatsapp.com (703)</li>
+<li>web.whatsapp.com (704)</li>
 <li>gmail.com (694)</li>
 <li>chat.openai.com (687)</li>
 <li>www.theguardian.com (685)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 10/01/26</H3>
+
+<br>
+
+<ul><li> 13:40 web.whatsapp.com</li>
+<li> 13:40 <a href="https://en.wikipedia.org/wiki/Cyber_Resilience_Act">Cyber Resilience Act - Wikipedia</a></li>
+<li> 13:39 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:39 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:39 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 13:39 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 13:39 <a href="https://en.wikipedia.org/"></a></li>
+<li> 13:39 s2.washingtonpost.com</li>
+</ul>
 
 <br>
 
