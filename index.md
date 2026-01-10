@@ -74,10 +74,10 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (4035)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2685)</li>
-<li>duckduckgo.com (2664)</li>
+<li>duckduckgo.com (2665)</li>
 <li>chatgpt.com (1711)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1525)</li>
+<li>www.linkedin.com (1529)</li>
 <li>www.facebook.com (1459)</li>
 <li>login.microsoftonline.com (1181)</li>
 <li>www.amazon.co.uk (1129)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (694)</li>
 <li>chat.openai.com (687)</li>
 <li>www.theguardian.com (685)</li>
-<li>herts.instructure.com (667)</li>
+<li>herts.instructure.com (669)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (646)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 10/01/26</H3>
+
+<br>
+
+<ul><li> 17:18 www.linkedin.com</li>
+<li> 17:17 duckduckgo.com</li>
+<li> 17:15 www.linkedin.com</li>
+<li> 17:10 news.ycombinator.com</li>
+<li> 17:09 www.linkedin.com</li>
+<li> 17:09 ev.turnitinuk.com</li>
+<li> 17:09 herts.instructure.com</li>
+<li> 16:52 ev.turnitinuk.com</li>
+<li> 16:52 herts.instructure.com</li>
+<li> 16:39 www.linkedin.com</li>
+<li> 16:39 www.washingtonpost.com</li>
+</ul>
 
 <br>
 
