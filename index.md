@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4357)</li>
+<ol><li>www.reddit.com (4359)</li>
 <li>mail.google.com (4342)</li>
 <li>outlook.office.com (4102)</li>
-<li>www.google.com (4034)</li>
+<li>www.google.com (4035)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2685)</li>
 <li>duckduckgo.com (2664)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (687)</li>
 <li>www.theguardian.com (685)</li>
 <li>herts.instructure.com (667)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (645)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (646)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
 <li>feedly.com (537)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 10/01/26</H3>
+
+<br>
+
+<ul><li> 16:07 www.google.com</li>
+</ul>
 
 <br>
 
@@ -336,13 +341,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:28 calendar.google.com</li>
+<ul><li> 10:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:34 www.reddit.com</li>
+<li> 10:28 calendar.google.com</li>
 <li> 10:27 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 </ul>
 
 <br>
 
-<ul><li> 09:55 www.google.com</li>
+<ul><li> 09:56 www.reddit.com</li>
+<li> 09:56 reddit.com</li>
+<li> 09:55 www.google.com</li>
 <li class='same'> 09:31 www.google.com</li>
 </ul>
 
@@ -97345,7 +97354,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:07 github.com</li>
 <li> 06:57 www.reddit.com</li>
 <li class='same'> 06:56 www.reddit.com</li>
-<li class='same'> 06:55 www.reddit.com</li>
+<li> 06:56 reddit.com</li>
+<li> 06:55 www.reddit.com</li>
 <li class='same'> 06:50 www.reddit.com</li>
 <li class='same'> 06:49 www.reddit.com</li>
 <li> 06:34 www.onlinebanking.natwest.com</li>
@@ -97362,6 +97372,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:37 www.reddit.com</li>
 <li class='same'> 08:17 www.reddit.com</li>
+<li> 08:16 reddit.com</li>
 </ul>
 
 <H3>Saturday, 27/05/23</H3>
@@ -98832,6 +98843,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:06 www.reddit.com</li>
+<li> 06:06 reddit.com</li>
 </ul>
 
 <H3>Friday, 06/01/23</H3>
