@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4370)</li>
-<li>mail.google.com (4343)</li>
+<ol><li>www.reddit.com (4375)</li>
+<li>mail.google.com (4347)</li>
 <li>outlook.office.com (4102)</li>
 <li>www.google.com (4039)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2688)</li>
-<li>duckduckgo.com (2666)</li>
+<li>duckduckgo.com (2667)</li>
 <li>chatgpt.com (1711)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1530)</li>
+<li>www.linkedin.com (1532)</li>
 <li>www.facebook.com (1459)</li>
 <li>login.microsoftonline.com (1183)</li>
-<li>www.amazon.co.uk (1129)</li>
+<li>www.amazon.co.uk (1131)</li>
 <li>calendar.google.com (1084)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
 <li>rhul-my.sharepoint.com (819)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (687)</li>
 <li>www.theguardian.com (685)</li>
 <li>herts.instructure.com (672)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (651)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (652)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
 <li>feedly.com (537)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (391)</li>
-<li><a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a> (367)</li>
+<li><a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a> (368)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,40 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 11/01/26</H3>
+
+<br>
+
+<ul><li> 17:29 www.natesilver.net</li>
+<li> 17:28 www.linkedin.com</li>
+<li class='same'> 17:27 www.linkedin.com</li>
+<li> 17:27 www.automotiveworld.com</li>
+<li> 17:26 www.reddit.com</li>
+<li> 17:25 mail.google.com</li>
+<li> 17:24 transactions.sendowl.com</li>
+<li> 17:24 mail.google.com</li>
+<li> 17:24 www.paypal.com</li>
+<li> 17:24 www.amazon.co.uk</li>
+<li class='same'> 17:23 www.amazon.co.uk</li>
+<li> 17:23 craphound.com</li>
+<li> 17:23 www.barbican.org.uk</li>
+<li> 17:23 craphound.com</li>
+<li class='same'> 17:22 craphound.com</li>
+<li> 17:22 pluralistic.net</li>
+<li> 17:22 duckduckgo.com</li>
+<li> 17:21 www.reddit.com</li>
+<li class='same'> 17:20 www.reddit.com</li>
+<li class='same'> 17:19 www.reddit.com</li>
+<li class='same'> 17:18 www.reddit.com</li>
+<li> 17:18 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:18 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:18 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:18 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:18 <a href="https://en.wikipedia.org/"></a></li>
+<li> 17:18 mail.google.com</li>
+<li> 17:17 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:17 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:17 mail.google.com</li>
+</ul>
 
 <br>
 
