@@ -71,15 +71,15 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4370)</li>
 <li>mail.google.com (4343)</li>
 <li>outlook.office.com (4102)</li>
-<li>www.google.com (4037)</li>
+<li>www.google.com (4036)</li>
 <li>outlook.office365.com (3911)</li>
-<li>docs.google.com (2685)</li>
-<li>duckduckgo.com (2665)</li>
+<li>docs.google.com (2688)</li>
+<li>duckduckgo.com (2666)</li>
 <li>chatgpt.com (1711)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1529)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1181)</li>
+<li>login.microsoftonline.com (1183)</li>
 <li>www.amazon.co.uk (1129)</li>
 <li>calendar.google.com (1084)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
@@ -88,12 +88,12 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (694)</li>
 <li>chat.openai.com (687)</li>
 <li>www.theguardian.com (685)</li>
-<li>herts.instructure.com (669)</li>
+<li>herts.instructure.com (672)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (651)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
 <li>feedly.com (537)</li>
-<li>forms.office.com (529)</li>
+<li>forms.office.com (535)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (391)</li>
@@ -104,7 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Sunday, 11/01/26</H3>
+
+<br>
+
+<ul><li> 07:47 hr.herts.ac.uk</li>
+<li> 07:45 docs.google.com</li>
+<li> 07:44 forms.office.com</li>
+<li> 07:40 duckduckgo.com</li>
+<li> 07:38 herts.instructure.com</li>
+<li> 07:37 forms.office.com</li>
+<li> 07:31 docs.google.com</li>
+<li class='same'> 07:30 docs.google.com</li>
+<li> 07:29 herts.instructure.com</li>
+<li class='same'> 07:28 herts.instructure.com</li>
+<li> 07:27 forms.office.com</li>
+<li class='same'> 07:26 forms.office.com</li>
+<li> 07:26 eu-west.azureauth.duosecurity.com</li>
+<li> 07:26 api-b6327e78.duosecurity.com</li>
+<li> 07:26 login.microsoftonline.com</li>
+<li> 07:26 forms.office.com</li>
+<li> 07:26 login.microsoftonline.com</li>
+<li> 07:26 forms.office.com</li>
+</ul>
+
 <H3>Saturday, 10/01/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -16292,8 +16320,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:00 www.merchoid.com</li>
 <li> 21:00 www.google.com</li>
 <li> 21:00 www.justgeek.com</li>
-<li> 21:00 www.google.com</li>
-<li class='same'> 20:59 www.google.com</li>
+<li> 20:59 www.google.com</li>
 </ul>
 
 <br>
