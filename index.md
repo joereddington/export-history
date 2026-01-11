@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4375)</li>
 <li>mail.google.com (4347)</li>
 <li>outlook.office.com (4102)</li>
-<li>www.google.com (4039)</li>
+<li>www.google.com (4042)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2688)</li>
 <li>duckduckgo.com (2667)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (687)</li>
 <li>www.theguardian.com (685)</li>
 <li>herts.instructure.com (672)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (652)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (653)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
 <li>feedly.com (537)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 11/01/26</H3>
+
+<br>
+
+<ul><li> 18:39 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 18:19 www.sciencedirect.com</li>
+<li> 18:18 www.google.com</li>
+<li> 18:17 www.prevention.com</li>
+<li> 18:17 www.google.com</li>
+<li> 18:15 www.ellieharrison.com</li>
+<li> 18:15 www.google.com</li>
+</ul>
 
 <br>
 
@@ -177,7 +188,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:15 <a href="https://www.theguardian.com/culture/2026/jan/10/eddie-izzard-interview-marathon-running-one-woman-hamlet">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 22:18 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:15 <a href="https://www.theguardian.com/culture/2026/jan/10/eddie-izzard-interview-marathon-running-one-woman-hamlet">Latest news, sport and opinion from the Guardian</a></li>
 <li> 22:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 22:14 www.google.com</li>
 <li> 22:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
