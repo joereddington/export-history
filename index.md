@@ -74,25 +74,25 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (4047)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2701)</li>
-<li>duckduckgo.com (2672)</li>
-<li>chatgpt.com (1716)</li>
+<li>duckduckgo.com (2676)</li>
+<li>chatgpt.com (1717)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1534)</li>
+<li>www.linkedin.com (1536)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1183)</li>
+<li>login.microsoftonline.com (1184)</li>
 <li>www.amazon.co.uk (1133)</li>
 <li>calendar.google.com (1084)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>web.whatsapp.com (706)</li>
 <li>gmail.com (694)</li>
-<li>chat.openai.com (691)</li>
+<li>chat.openai.com (692)</li>
 <li>www.theguardian.com (685)</li>
-<li>herts.instructure.com (680)</li>
+<li>herts.instructure.com (683)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (657)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
-<li>forms.office.com (540)</li>
+<li>forms.office.com (543)</li>
 <li>feedly.com (537)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:47 ieeexplore.ieee.org</li>
+<ul><li> 11:48 chatgpt.com</li>
+<li> 11:48 chat.openai.com</li>
+<li> 11:47 ev.turnitinuk.com</li>
+<li> 11:47 herts.instructure.com</li>
+<li> 11:46 login.microsoftonline.com</li>
+<li> 11:46 forms.office.com</li>
+<li> 11:38 www.linkedin.com</li>
+<li class='same'> 11:36 www.linkedin.com</li>
+<li> 11:25 duckduckgo.com</li>
+<li class='same'> 11:24 duckduckgo.com</li>
+<li class='same'> 11:17 duckduckgo.com</li>
+<li> 11:17 jamanetwork.com</li>
+<li> 11:16 duckduckgo.com</li>
+<li> 11:15 ev.turnitinuk.com</li>
+<li> 11:15 herts.instructure.com</li>
+<li class='same'> 11:13 herts.instructure.com</li>
+<li> 11:12 forms.office.com</li>
+<li class='same'> 11:07 forms.office.com</li>
+<li> 10:47 ieeexplore.ieee.org</li>
 <li> 10:47 duckduckgo.com</li>
 <li> 10:46 ev.turnitinuk.com</li>
 <li> 10:46 herts.instructure.com</li>
