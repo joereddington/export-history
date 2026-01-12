@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4382)</li>
+<ol><li>www.reddit.com (4383)</li>
 <li>mail.google.com (4355)</li>
 <li>outlook.office.com (4101)</li>
 <li>www.google.com (4047)</li>
-<li>outlook.office365.com (3913)</li>
+<li>outlook.office365.com (3914)</li>
 <li>docs.google.com (2702)</li>
-<li>duckduckgo.com (2678)</li>
+<li>duckduckgo.com (2680)</li>
 <li>chatgpt.com (1718)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1538)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1191)</li>
+<li>login.microsoftonline.com (1192)</li>
 <li>www.amazon.co.uk (1133)</li>
 <li>calendar.google.com (1084)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
-<li>web.whatsapp.com (708)</li>
+<li>web.whatsapp.com (710)</li>
+<li>herts.instructure.com (698)</li>
 <li>gmail.com (695)</li>
 <li>chat.openai.com (693)</li>
-<li>herts.instructure.com (693)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (657)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
-<li>forms.office.com (555)</li>
+<li>forms.office.com (558)</li>
 <li>feedly.com (537)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:49 herts.instructure.com</li>
+<ul><li> 15:52 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:50 web.whatsapp.com</li>
+<li> 15:48 ev.turnitinuk.com</li>
+<li> 15:48 herts.instructure.com</li>
+<li class='same'> 15:47 herts.instructure.com</li>
+<li> 15:42 forms.office.com</li>
+<li> 15:40 outlook.office365.com</li>
+<li> 15:28 towardsdatascience.com</li>
+<li> 15:26 duckduckgo.com</li>
+<li> 15:26 medium.com</li>
+<li> 15:25 forms.office.com</li>
+<li> 15:25 login.microsoftonline.com</li>
+<li> 15:25 forms.office.com</li>
+<li> 15:25 ev.turnitinuk.com</li>
+<li> 15:25 herts.instructure.com</li>
+<li class='same'> 15:24 herts.instructure.com</li>
+<li> 15:12 duckduckgo.com</li>
+<li> 15:00 web.whatsapp.com</li>
+<li> 15:00 clickup.com</li>
+<li> 14:59 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:59 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:59 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:59 <a href="https://en.wikipedia.org/wiki/Fashion-MNIST#History">Fashion-MNIST - Wikipedia</a></li>
+<li> 14:58 <a href="https://en.wikipedia.org/w/index.php?title=Fashion-MNIST&action=edit&section=1">Editing Fashion-MNIST - Wikipedia</a></li>
+<li> 14:58 dl.acm.org</li>
+<li> 14:57 ev.turnitinuk.com</li>
+<li> 14:57 herts.instructure.com</li>
+<li> 14:55 www.reddit.com</li>
+<li> 14:49 herts.instructure.com</li>
 <li> 14:46 www.reddit.com</li>
 <li> 14:46 mail.google.com</li>
 <li class='same'> 14:44 mail.google.com</li>
