@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4383)</li>
+<ol><li>www.reddit.com (4387)</li>
 <li>mail.google.com (4355)</li>
 <li>outlook.office.com (4101)</li>
 <li>www.google.com (4047)</li>
 <li>outlook.office365.com (3914)</li>
 <li>docs.google.com (2702)</li>
-<li>duckduckgo.com (2680)</li>
+<li>duckduckgo.com (2681)</li>
 <li>chatgpt.com (1718)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1538)</li>
+<li>www.linkedin.com (1540)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1192)</li>
+<li>login.microsoftonline.com (1193)</li>
 <li>www.amazon.co.uk (1133)</li>
-<li>calendar.google.com (1084)</li>
+<li>calendar.google.com (1086)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>web.whatsapp.com (710)</li>
-<li>herts.instructure.com (698)</li>
+<li>herts.instructure.com (700)</li>
 <li>gmail.com (695)</li>
 <li>chat.openai.com (693)</li>
 <li>www.theguardian.com (685)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (657)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (658)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
-<li>forms.office.com (558)</li>
+<li>forms.office.com (561)</li>
 <li>feedly.com (537)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
-<li>rhul.sharepoint.com (391)</li>
-<li><a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a> (369)</li>
+<li>rhul.sharepoint.com (392)</li>
+<li><a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a> (370)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:52 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 16:48 <a href="https://www.theguardian.com/technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk">UK media regulator investigating Elon Musk’s X after outcry over sexualised AI images | X | The Guardian</a></li>
+<li> 16:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:48 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:47 www.linkedin.com</li>
+<li class='same'> 16:46 www.linkedin.com</li>
+<li> 16:46 www.reddit.com</li>
+<li class='same'> 16:45 www.reddit.com</li>
+<li> 16:44 forms.office.com</li>
+<li> 16:44 login.microsoftonline.com</li>
+<li> 16:44 forms.office.com</li>
+<li> 16:43 www.reddit.com</li>
+<li class='same'> 16:42 www.reddit.com</li>
+<li> 16:26 rhul.sharepoint.com</li>
+<li> 16:18 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:16 papers.ssrn.com</li>
+<li> 16:16 ev.turnitinuk.com</li>
+<li> 16:16 herts.instructure.com</li>
+<li class='same'> 16:15 herts.instructure.com</li>
+<li> 16:14 forms.office.com</li>
+<li> 16:07 calendar.google.com</li>
+<li class='same'> 16:04 calendar.google.com</li>
+<li> 15:58 duckduckgo.com</li>
+<li> 15:52 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 15:50 web.whatsapp.com</li>
 <li> 15:48 ev.turnitinuk.com</li>
 <li> 15:48 herts.instructure.com</li>
