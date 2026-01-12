@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4375)</li>
-<li>mail.google.com (4347)</li>
+<ol><li>www.reddit.com (4376)</li>
+<li>mail.google.com (4353)</li>
 <li>outlook.office.com (4101)</li>
-<li>www.google.com (4042)</li>
+<li>www.google.com (4047)</li>
 <li>outlook.office365.com (3911)</li>
-<li>docs.google.com (2688)</li>
-<li>duckduckgo.com (2667)</li>
-<li>chatgpt.com (1711)</li>
+<li>docs.google.com (2692)</li>
+<li>duckduckgo.com (2670)</li>
+<li>chatgpt.com (1713)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1532)</li>
+<li>www.linkedin.com (1534)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1178)</li>
-<li>www.amazon.co.uk (1131)</li>
+<li>login.microsoftonline.com (1180)</li>
+<li>www.amazon.co.uk (1133)</li>
 <li>calendar.google.com (1084)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
 <li>rhul-my.sharepoint.com (818)</li>
-<li>web.whatsapp.com (704)</li>
+<li>web.whatsapp.com (706)</li>
 <li>gmail.com (694)</li>
-<li>chat.openai.com (687)</li>
+<li>chat.openai.com (688)</li>
 <li>www.theguardian.com (685)</li>
-<li>herts.instructure.com (672)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (653)</li>
+<li>herts.instructure.com (673)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (657)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
 <li>feedly.com (537)</li>
@@ -97,14 +97,71 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (390)</li>
-<li><a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a> (368)</li>
+<li><a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a> (369)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Monday, 12/01/26</H3>
+
+<br>
+
+<ul><li> 08:58 docs.google.com</li>
+<li class='same'> 08:57 docs.google.com</li>
+<li> 08:55 ce0997li.webitrent.com</li>
+<li> 08:55 alumni.herts.ac.uk</li>
+<li> 08:55 ce0997li.webitrent.com</li>
+<li> 08:55 login.microsoftonline.com</li>
+<li> 08:55 ce0997li.webitrent.com</li>
+<li> 08:55 login.microsoftonline.com</li>
+<li> 08:54 www.hr.herts.ac.uk</li>
+<li> 08:54 www.google.com</li>
+<li> 08:53 alumni.herts.ac.uk</li>
+<li class='same'> 08:52 alumni.herts.ac.uk</li>
+<li> 08:49 www.amazon.co.uk</li>
+<li class='same'> 08:48 www.amazon.co.uk</li>
+<li> 08:47 herts.instructure.com</li>
+<li> 08:47 hr.herts.ac.uk</li>
+<li> 08:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:15 legalknowledgebase.com</li>
+<li> 08:15 duckduckgo.com</li>
+<li> 08:12 mail.google.com</li>
+<li> 08:11 www.linkedin.com</li>
+<li> 08:10 mail.google.com</li>
+<li class='same'> 08:01 mail.google.com</li>
+<li class='same'> 07:55 mail.google.com</li>
+<li> 07:55 web.whatsapp.com</li>
+<li> 07:55 duckduckgo.com</li>
+<li> 07:52 www.linkedin.com</li>
+<li> 07:52 <a href="https://en.wikipedia.org/wiki/Chidinma">Chidinma - Wikipedia</a></li>
+<li> 07:52 duckduckgo.com</li>
+<li> 07:47 docs.google.com</li>
+<li class='same'> 07:46 docs.google.com</li>
+<li> 07:46 mail.google.com</li>
+<li> 07:46 chatgpt.com</li>
+<li class='same'> 07:45 chatgpt.com</li>
+<li> 07:45 chat.openai.com</li>
+<li> 07:45 web.whatsapp.com</li>
+<li> 07:45 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:23 www.smythstoys.com</li>
+<li class='same'> 06:19 www.smythstoys.com</li>
+<li> 06:19 <a href="https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk">‘Add blood, forced smile’: how Grok’s nudification tool went viral | AI (artificial intelligence) | The Guardian</a></li>
+<li> 06:12 www.amazon.com</li>
+<li> 06:12 mail.google.com</li>
+</ul>
+
 <H3>Sunday, 11/01/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -153,7 +210,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:44 www.google.com</li>
+<ul><li> 15:39 support.theguardian.com</li>
+<li> 15:39 <a href="https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk">‘Add blood, forced smile’: how Grok’s nudification tool went viral | AI (artificial intelligence) | The Guardian</a></li>
+<li> 15:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:38 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:36 <a href="https://www.theguardian.com/world/2026/jan/11/nobel-institute-rejects-maria-corina-machados-offer-to-share-peace-prize-with-trump">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:35 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:57 www.google.com</li>
+<li class='same'> 11:56 www.google.com</li>
+<li class='same'> 11:55 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:44 www.google.com</li>
 <li class='same'> 08:43 www.google.com</li>
 <li class='same'> 08:25 www.google.com</li>
 </ul>
