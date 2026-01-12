@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (4375)</li>
 <li>mail.google.com (4347)</li>
-<li>outlook.office.com (4102)</li>
+<li>outlook.office.com (4101)</li>
 <li>www.google.com (4042)</li>
 <li>outlook.office365.com (3911)</li>
 <li>docs.google.com (2688)</li>
@@ -79,11 +79,11 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1532)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1183)</li>
+<li>login.microsoftonline.com (1178)</li>
 <li>www.amazon.co.uk (1131)</li>
 <li>calendar.google.com (1084)</li>
 <li>moodle.royalholloway.ac.uk (980)</li>
-<li>rhul-my.sharepoint.com (819)</li>
+<li>rhul-my.sharepoint.com (818)</li>
 <li>web.whatsapp.com (704)</li>
 <li>gmail.com (694)</li>
 <li>chat.openai.com (687)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (535)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
-<li>rhul.sharepoint.com (391)</li>
+<li>rhul.sharepoint.com (390)</li>
 <li><a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a> (368)</li>
 
 
@@ -16171,7 +16171,6 @@ With number of accesses/minutes in parentheses
 <li> 15:01 secure.cesvotes.com</li>
 <li> 15:01 mail.google.com</li>
 <li class='same'> 15:00 mail.google.com</li>
-<li> 15:00 assets-gbr.mkt.dynamics.com</li>
 <li> 15:00 public-gbr.mkt.dynamics.com</li>
 <li> 15:00 mail.google.com</li>
 <li class='same'> 14:55 mail.google.com</li>
@@ -16199,7 +16198,6 @@ With number of accesses/minutes in parentheses
 <li> 14:32 identity-bsigroup-com.royalholloway.idm.oclc.org</li>
 <li> 14:32 federation-bsigroup-com.royalholloway.idm.oclc.org</li>
 <li> 14:32 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
-<li> 14:32 login.openathens.net</li>
 <li> 14:32 login.microsoftonline.com</li>
 <li> 14:32 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
 <li> 14:31 duckduckgo.com</li>
@@ -16213,8 +16211,6 @@ With number of accesses/minutes in parentheses
 <li> 14:14 auth.wikimedia.org</li>
 <li> 14:14 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Wikipedia, the free encyclopedia</a></li>
 <li> 14:14 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 14:11 herts365-my.sharepoint.com</li>
-<li> 14:11 login.microsoftonline.com</li>
 <li> 14:11 herts365-my.sharepoint.com</li>
 <li> 14:10 login.microsoftonline.com</li>
 <li> 14:10 herts365-my.sharepoint.com</li>
@@ -16281,8 +16277,6 @@ With number of accesses/minutes in parentheses
 <li> 11:38 rhul-my.sharepoint.com</li>
 <li class='same'> 11:36 rhul-my.sharepoint.com</li>
 <li> 11:34 outlook.office.com</li>
-<li> 11:34 login.microsoftonline.com</li>
-<li> 11:34 outlook.office.com</li>
 <li> 11:22 chatgpt.com</li>
 <li> 11:21 outlook.office365.com</li>
 <li class='same'> 11:18 outlook.office365.com</li>
@@ -16315,12 +16309,9 @@ With number of accesses/minutes in parentheses
 <li> 09:46 feedly.com</li>
 <li> 09:46 outlook.office365.com</li>
 <li> 09:24 rhul.sharepoint.com</li>
-<li> 09:24 login.microsoftonline.com</li>
-<li> 09:24 rhul.sharepoint.com</li>
 <li> 09:22 outlook.office365.com</li>
 <li class='same'> 09:17 outlook.office365.com</li>
 <li class='same'> 09:16 outlook.office365.com</li>
-<li> 09:16 login.microsoftonline.com</li>
 <li> 09:13 <a href="https://en.wikipedia.org/wiki/The_CIS_Critical_Security_Controls_for_Effective_Cyber_Defense">The CIS Critical Security Controls for Effective Cyber Defense - Wikipedia</a></li>
 <li> 09:12 chatgpt.com</li>
 <li> 09:12 <a href="https://en.wikipedia.org/wiki/The_CIS_Critical_Security_Controls_for_Effective_Cyber_Defense">The CIS Critical Security Controls for Effective Cyber Defense - Wikipedia</a></li>
@@ -16358,8 +16349,6 @@ With number of accesses/minutes in parentheses
 <li> 07:09 duckduckgo.com</li>
 <li> 07:00 www.royalholloway.ac.uk</li>
 <li> 07:00 duckduckgo.com</li>
-<li> 06:44 rhul-my.sharepoint.com</li>
-<li> 06:44 login.microsoftonline.com</li>
 <li> 06:44 rhul-my.sharepoint.com</li>
 <li class='same'> 06:42 rhul-my.sharepoint.com</li>
 <li> 06:40 duckduckgo.com</li>
