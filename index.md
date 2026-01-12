@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4387)</li>
+<ol><li>www.reddit.com (4389)</li>
 <li>mail.google.com (4355)</li>
 <li>outlook.office.com (4101)</li>
 <li>www.google.com (4047)</li>
-<li>outlook.office365.com (3914)</li>
+<li>outlook.office365.com (3915)</li>
 <li>docs.google.com (2702)</li>
 <li>duckduckgo.com (2681)</li>
 <li>chatgpt.com (1718)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1540)</li>
+<li>www.linkedin.com (1541)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1193)</li>
+<li>login.microsoftonline.com (1195)</li>
 <li>www.amazon.co.uk (1133)</li>
 <li>calendar.google.com (1086)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
-<li>web.whatsapp.com (710)</li>
-<li>herts.instructure.com (700)</li>
+<li>web.whatsapp.com (713)</li>
+<li>herts.instructure.com (706)</li>
 <li>gmail.com (695)</li>
 <li>chat.openai.com (693)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (658)</li>
 <li>tvtropes.org (630)</li>
+<li>forms.office.com (566)</li>
 <li>github.com (561)</li>
-<li>forms.office.com (561)</li>
-<li>feedly.com (537)</li>
+<li>feedly.com (539)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (392)</li>
@@ -108,7 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:48 <a href="https://www.theguardian.com/technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk">UK media regulator investigating Elon Musk’s X after outcry over sexualised AI images | X | The Guardian</a></li>
+<ul><li> 17:55 web.whatsapp.com</li>
+<li> 17:55 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li class='same'> 17:54 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:51 web.whatsapp.com</li>
+<li> 17:51 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:51 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 17:51 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 17:51 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 17:51 <a href="https://en.wikipedia.org/"></a></li>
+<li> 17:51 ico.org.uk</li>
+<li> 17:51 feedly.com</li>
+<li class='same'> 17:50 feedly.com</li>
+<li> 17:49 www.linkedin.com</li>
+<li> 17:48 www.reddit.com</li>
+<li> 17:47 ev.turnitinuk.com</li>
+<li> 17:47 herts.instructure.com</li>
+<li> 17:37 forms.office.com</li>
+<li class='same'> 17:34 forms.office.com</li>
+<li class='same'> 17:32 forms.office.com</li>
+<li> 17:29 login.microsoftonline.com</li>
+<li> 17:29 forms.office.com</li>
+<li> 17:29 login.microsoftonline.com</li>
+<li> 17:29 forms.office.com</li>
+<li> 17:28 herts.instructure.com</li>
+<li> 17:26 www.reddit.com</li>
+<li> 17:23 ieeexplore.ieee.org</li>
+<li> 17:22 ev.turnitinuk.com</li>
+<li> 17:22 herts.instructure.com</li>
+<li class='same'> 17:21 herts.instructure.com</li>
+<li> 17:21 adfs.herts.ac.uk</li>
+<li> 17:20 api-b6327e78.duosecurity.com</li>
+<li> 17:20 adfs.herts.ac.uk</li>
+<li> 17:20 herts.instructure.com</li>
+<li> 17:20 adfs.herts.ac.uk</li>
+<li> 17:20 08f7aa96-7963-4be8-86f6-5326a4e86a8c.dub.login.instructure.com</li>
+<li> 17:20 herts.instructure.com</li>
+<li> 17:20 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 17:14 web.whatsapp.com</li>
+<li> 17:06 outlook.office365.com</li>
+<li> 16:48 <a href="https://www.theguardian.com/technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk">UK media regulator investigating Elon Musk’s X after outcry over sexualised AI images | X | The Guardian</a></li>
 <li> 16:48 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 16:48 <a href="https://www.theguardian.com/">Latest news, sport and opinion from the Guardian</a></li>
 <li> 16:47 www.linkedin.com</li>
