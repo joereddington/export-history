@@ -73,9 +73,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4101)</li>
 <li>www.google.com (4047)</li>
 <li>outlook.office365.com (3911)</li>
-<li>docs.google.com (2692)</li>
-<li>duckduckgo.com (2670)</li>
-<li>chatgpt.com (1713)</li>
+<li>docs.google.com (2701)</li>
+<li>duckduckgo.com (2671)</li>
+<li>chatgpt.com (1715)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1534)</li>
 <li>www.facebook.com (1459)</li>
@@ -86,9 +86,9 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (818)</li>
 <li>web.whatsapp.com (706)</li>
 <li>gmail.com (694)</li>
-<li>chat.openai.com (688)</li>
+<li>chat.openai.com (690)</li>
 <li>www.theguardian.com (685)</li>
-<li>herts.instructure.com (673)</li>
+<li>herts.instructure.com (676)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (657)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (561)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:58 docs.google.com</li>
+<ul><li> 09:51 chatgpt.com</li>
+<li> 09:51 chat.openai.com</li>
+<li> 09:41 duckduckgo.com</li>
+<li> 09:39 ev.turnitinuk.com</li>
+<li> 09:39 herts.instructure.com</li>
+<li class='same'> 09:38 herts.instructure.com</li>
+<li class='same'> 09:37 herts.instructure.com</li>
+<li> 09:32 fast.com</li>
+<li> 09:30 docs.google.com</li>
+<li class='same'> 09:20 docs.google.com</li>
+<li class='same'> 09:09 docs.google.com</li>
+<li class='same'> 09:08 docs.google.com</li>
+<li> 09:08 chatgpt.com</li>
+<li> 09:08 chat.openai.com</li>
+<li> 09:08 docs.google.com</li>
+<li class='same'> 09:07 docs.google.com</li>
+<li class='same'> 09:06 docs.google.com</li>
+<li class='same'> 09:05 docs.google.com</li>
+<li class='same'> 09:03 docs.google.com</li>
+<li class='same'> 08:58 docs.google.com</li>
 <li class='same'> 08:57 docs.google.com</li>
 <li> 08:55 ce0997li.webitrent.com</li>
 <li> 08:55 alumni.herts.ac.uk</li>
