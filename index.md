@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3915)</li>
 <li>duckduckgo.com (2705)</li>
 <li>docs.google.com (2704)</li>
-<li>chatgpt.com (1723)</li>
+<li>chatgpt.com (1724)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1546)</li>
 <li>www.facebook.com (1459)</li>
@@ -84,14 +84,14 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1087)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
-<li>herts.instructure.com (741)</li>
-<li>web.whatsapp.com (718)</li>
-<li>chat.openai.com (695)</li>
+<li>herts.instructure.com (743)</li>
+<li>web.whatsapp.com (719)</li>
+<li>chat.openai.com (696)</li>
 <li>gmail.com (695)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Sign in to your account</a> (659)</li>
 <li>tvtropes.org (630)</li>
-<li>forms.office.com (601)</li>
+<li>forms.office.com (605)</li>
 <li>github.com (564)</li>
 <li>feedly.com (539)</li>
 <li>drive.google.com (445)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:59 forms.office.com</li>
+<ul><li> 17:42 web.whatsapp.com</li>
+<li> 17:39 forms.office.com</li>
+<li class='same'> 17:36 forms.office.com</li>
+<li> 17:31 chatgpt.com</li>
+<li> 17:31 chat.openai.com</li>
+<li> 17:24 ieeexplore.ieee.org</li>
+<li> 17:23 ev.turnitinuk.com</li>
+<li> 17:23 herts.instructure.com</li>
+<li class='same'> 17:22 herts.instructure.com</li>
+<li> 17:21 forms.office.com</li>
+<li class='same'> 17:16 forms.office.com</li>
+<li> 17:15 ce0997li.webitrent.com</li>
+<li class='same'> 17:13 ce0997li.webitrent.com</li>
+<li> 16:59 forms.office.com</li>
 <li class='same'> 16:56 forms.office.com</li>
 <li> 16:56 login.microsoftonline.com</li>
 <li> 16:56 forms.office.com</li>
