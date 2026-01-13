@@ -74,24 +74,24 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (4047)</li>
 <li>outlook.office365.com (3915)</li>
 <li>docs.google.com (2702)</li>
-<li>duckduckgo.com (2681)</li>
-<li>chatgpt.com (1718)</li>
+<li>duckduckgo.com (2685)</li>
+<li>chatgpt.com (1722)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1541)</li>
+<li>www.linkedin.com (1542)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1196)</li>
+<li>login.microsoftonline.com (1192)</li>
 <li>www.amazon.co.uk (1133)</li>
 <li>calendar.google.com (1086)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>web.whatsapp.com (713)</li>
-<li>herts.instructure.com (706)</li>
+<li>herts.instructure.com (711)</li>
 <li>gmail.com (695)</li>
-<li>chat.openai.com (693)</li>
+<li>chat.openai.com (694)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Sign in to your account</a> (659)</li>
 <li>tvtropes.org (630)</li>
-<li>forms.office.com (566)</li>
+<li>forms.office.com (568)</li>
 <li>github.com (561)</li>
 <li>feedly.com (539)</li>
 <li>drive.google.com (445)</li>
@@ -104,7 +104,41 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 13/01/26</H3>
+
+<br>
+
+<ul><li> 09:42 duckduckgo.com</li>
+<li> 09:39 www.kaggle.com</li>
+<li> 09:39 duckduckgo.com</li>
+<li> 09:39 onlinelibrary.wiley.com</li>
+<li> 09:39 duckduckgo.com</li>
+<li> 09:38 ev.turnitinuk.com</li>
+<li> 09:38 herts.instructure.com</li>
+<li class='same'> 09:36 herts.instructure.com</li>
+<li> 09:35 duckduckgo.com</li>
+<li> 09:33 chatgpt.com</li>
+<li class='same'> 09:32 chatgpt.com</li>
+<li> 09:31 ev.turnitinuk.com</li>
+<li> 09:31 herts.instructure.com</li>
+<li class='same'> 09:30 herts.instructure.com</li>
+<li> 09:27 chatgpt.com</li>
+<li class='same'> 09:26 chatgpt.com</li>
+<li> 09:26 chat.openai.com</li>
+<li> 09:26 herts.instructure.com</li>
+<li> 09:23 www.linkedin.com</li>
+<li> 09:21 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 09:17 forms.office.com</li>
+<li> 09:17 login.microsoftonline.com</li>
+<li> 09:17 forms.office.com</li>
+<li> 09:07 www.dittonparkacademy.co.uk</li>
+</ul>
+
 <H3>Monday, 12/01/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -16166,8 +16200,6 @@ With number of accesses/minutes in parentheses
 <li> 19:29 fast.com</li>
 <li> 19:28 ce0997li.webitrent.com</li>
 <li> 19:28 login.microsoftonline.com</li>
-<li> 19:28 ce0997li.webitrent.com</li>
-<li> 19:28 login.microsoftonline.com</li>
 <li> 19:28 mail.google.com</li>
 <li class='same'> 19:27 mail.google.com</li>
 <li> 19:24 us06web.zoom.us</li>
@@ -16234,8 +16266,6 @@ With number of accesses/minutes in parentheses
 <li> 15:29 ce0997li.webitrent.com</li>
 <li class='same'> 15:28 ce0997li.webitrent.com</li>
 <li> 15:28 login.microsoftonline.com</li>
-<li> 15:28 ce0997li.webitrent.com</li>
-<li> 15:28 login.microsoftonline.com</li>
 <li> 15:27 calendar.google.com</li>
 <li> 15:27 moodle.royalholloway.ac.uk</li>
 <li class='same'> 15:26 moodle.royalholloway.ac.uk</li>
@@ -16298,8 +16328,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:06 ce0997li.webitrent.com</li>
 <li class='same'> 12:05 ce0997li.webitrent.com</li>
 <li> 12:05 login.microsoftonline.com</li>
-<li> 12:05 ce0997li.webitrent.com</li>
-<li> 12:05 login.microsoftonline.com</li>
 <li> 12:04 docs.google.com</li>
 <li class='same'> 12:03 docs.google.com</li>
 <li> 12:03 drive.google.com</li>
@@ -16351,7 +16379,6 @@ With number of accesses/minutes in parentheses
 <li> 10:50 portal.gobright.cloud</li>
 <li> 10:31 web.whatsapp.com</li>
 <li> 10:31 outlook.office365.com</li>
-<li> 10:31 login.microsoftonline.com</li>
 </ul>
 
 <br>
@@ -16398,8 +16425,6 @@ With number of accesses/minutes in parentheses
 <li> 06:55 login.microsoftonline.com</li>
 <li> 06:54 ce0997li.webitrent.com</li>
 <li class='same'> 06:53 ce0997li.webitrent.com</li>
-<li> 06:53 login.microsoftonline.com</li>
-<li> 06:53 ce0997li.webitrent.com</li>
 <li> 06:53 login.microsoftonline.com</li>
 <li> 06:53 m365.cloud.microsoft</li>
 <li> 06:53 login.microsoftonline.com</li>
