@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4398)</li>
+<ol><li>www.reddit.com (4399)</li>
 <li>mail.google.com (4355)</li>
 <li>outlook.office.com (4101)</li>
 <li>www.google.com (4047)</li>
 <li>outlook.office365.com (3915)</li>
 <li>docs.google.com (2702)</li>
-<li>duckduckgo.com (2696)</li>
-<li>chatgpt.com (1722)</li>
+<li>duckduckgo.com (2700)</li>
+<li>chatgpt.com (1723)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1546)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1198)</li>
+<li>login.microsoftonline.com (1199)</li>
 <li>www.amazon.co.uk (1133)</li>
 <li>calendar.google.com (1086)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
-<li>herts.instructure.com (729)</li>
+<li>herts.instructure.com (732)</li>
 <li>web.whatsapp.com (717)</li>
+<li>chat.openai.com (695)</li>
 <li>gmail.com (695)</li>
-<li>chat.openai.com (694)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Sign in to your account</a> (659)</li>
 <li>tvtropes.org (630)</li>
-<li>forms.office.com (588)</li>
-<li>github.com (562)</li>
+<li>forms.office.com (592)</li>
+<li>github.com (564)</li>
 <li>feedly.com (539)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:53 www.kaggle.com</li>
+<ul><li> 14:56 duckduckgo.com</li>
+<li> 14:55 ev.turnitinuk.com</li>
+<li> 14:55 herts.instructure.com</li>
+<li class='same'> 14:54 herts.instructure.com</li>
+<li> 14:48 forms.office.com</li>
+<li class='same'> 14:42 forms.office.com</li>
+<li> 14:40 www.reddit.com</li>
+<li> 14:37 www.impactcybertrust.org</li>
+<li> 14:28 duckduckgo.com</li>
+<li> 14:26 chatgpt.com</li>
+<li> 14:26 chat.openai.com</li>
+<li> 14:26 github.com</li>
+<li class='same'> 14:25 github.com</li>
+<li> 14:25 duckduckgo.com</li>
+<li class='same'> 14:24 duckduckgo.com</li>
+<li> 14:22 forms.office.com</li>
+<li class='same'> 14:19 forms.office.com</li>
+<li> 14:19 login.microsoftonline.com</li>
+<li> 14:19 ev.turnitinuk.com</li>
+<li> 14:18 herts.instructure.com</li>
+<li> 14:02 www.kaggle.com</li>
+<li class='same'> 14:01 www.kaggle.com</li>
+<li class='same'> 13:57 www.kaggle.com</li>
+<li> 13:57 accounts.google.com</li>
+<li> 13:57 www.kaggle.com</li>
+<li> 13:57 accounts.google.com</li>
+<li> 13:56 www.kaggle.com</li>
+<li class='same'> 13:53 www.kaggle.com</li>
 <li> 13:52 duckduckgo.com</li>
 <li> 13:52 ieeexplore.ieee.org</li>
 <li> 13:52 duckduckgo.com</li>
