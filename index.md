@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4389)</li>
+<ol><li>www.reddit.com (4391)</li>
 <li>mail.google.com (4355)</li>
 <li>outlook.office.com (4101)</li>
 <li>www.google.com (4047)</li>
 <li>outlook.office365.com (3915)</li>
 <li>docs.google.com (2702)</li>
-<li>duckduckgo.com (2689)</li>
+<li>duckduckgo.com (2692)</li>
 <li>chatgpt.com (1722)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1542)</li>
+<li>www.linkedin.com (1544)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1194)</li>
+<li>login.microsoftonline.com (1196)</li>
 <li>www.amazon.co.uk (1133)</li>
 <li>calendar.google.com (1086)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
-<li>herts.instructure.com (717)</li>
+<li>herts.instructure.com (719)</li>
 <li>web.whatsapp.com (714)</li>
 <li>gmail.com (695)</li>
 <li>chat.openai.com (694)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Sign in to your account</a> (659)</li>
 <li>tvtropes.org (630)</li>
-<li>forms.office.com (573)</li>
+<li>forms.office.com (580)</li>
 <li>github.com (562)</li>
 <li>feedly.com (539)</li>
 <li>drive.google.com (445)</li>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:40 data.mendeley.com</li>
+<ul><li> 11:51 forms.office.com</li>
+<li> 11:50 www.reddit.com</li>
+<li> 11:50 forms.office.com</li>
+<li class='same'> 11:47 forms.office.com</li>
+<li> 11:33 www.kaggle.com</li>
+<li class='same'> 11:32 www.kaggle.com</li>
+<li class='same'> 11:31 www.kaggle.com</li>
+<li> 11:31 duckduckgo.com</li>
+<li> 11:30 link.springer.com</li>
+<li> 11:28 ev.turnitinuk.com</li>
+<li> 11:28 herts.instructure.com</li>
+<li> 11:22 www.linkedin.com</li>
+<li class='same'> 11:21 www.linkedin.com</li>
+<li> 11:21 forms.office.com</li>
+<li> 11:21 login.microsoftonline.com</li>
+<li> 11:21 forms.office.com</li>
+<li> 11:21 login.microsoftonline.com</li>
+<li> 11:21 forms.office.com</li>
+<li> 11:12 www.kaggle.com</li>
+<li class='same'> 11:11 www.kaggle.com</li>
+<li class='same'> 11:10 www.kaggle.com</li>
+<li> 11:10 duckduckgo.com</li>
+<li class='same'> 11:07 duckduckgo.com</li>
+<li> 11:00 ev.turnitinuk.com</li>
+<li> 11:00 herts.instructure.com</li>
+<li> 10:58 www.reddit.com</li>
+<li> 10:56 forms.office.com</li>
+<li> 10:40 data.mendeley.com</li>
 <li> 10:40 duckduckgo.com</li>
 <li> 10:40 github.com</li>
 <li> 10:40 duckduckgo.com</li>
