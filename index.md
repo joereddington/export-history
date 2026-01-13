@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4399)</li>
+<ol><li>www.reddit.com (4400)</li>
 <li>mail.google.com (4355)</li>
 <li>outlook.office.com (4101)</li>
-<li>www.google.com (4047)</li>
+<li>www.google.com (4051)</li>
 <li>outlook.office365.com (3915)</li>
-<li>duckduckgo.com (2704)</li>
-<li>docs.google.com (2702)</li>
+<li>duckduckgo.com (2705)</li>
+<li>docs.google.com (2704)</li>
 <li>chatgpt.com (1723)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1546)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1202)</li>
+<li>login.microsoftonline.com (1207)</li>
 <li>www.amazon.co.uk (1133)</li>
-<li>calendar.google.com (1086)</li>
+<li>calendar.google.com (1087)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
-<li>herts.instructure.com (734)</li>
+<li>herts.instructure.com (741)</li>
 <li>web.whatsapp.com (718)</li>
 <li>chat.openai.com (695)</li>
 <li>gmail.com (695)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Sign in to your account</a> (659)</li>
 <li>tvtropes.org (630)</li>
-<li>forms.office.com (596)</li>
+<li>forms.office.com (601)</li>
 <li>github.com (564)</li>
 <li>feedly.com (539)</li>
 <li>drive.google.com (445)</li>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:45 web.whatsapp.com</li>
+<ul><li> 16:59 forms.office.com</li>
+<li class='same'> 16:56 forms.office.com</li>
+<li> 16:56 login.microsoftonline.com</li>
+<li> 16:56 forms.office.com</li>
+<li> 16:56 login.microsoftonline.com</li>
+<li> 16:56 forms.office.com</li>
+<li> 16:52 herts.instructure.com</li>
+<li class='same'> 16:50 herts.instructure.com</li>
+<li> 16:34 ce0997li.webitrent.com</li>
+<li> 16:32 ev.turnitinuk.com</li>
+<li> 16:32 herts.instructure.com</li>
+<li class='same'> 16:31 herts.instructure.com</li>
+<li class='same'> 16:30 herts.instructure.com</li>
+<li> 16:29 ce0997li.webitrent.com</li>
+<li class='same'> 16:28 ce0997li.webitrent.com</li>
+<li> 16:20 docs.google.com</li>
+<li> 16:19 ce0997li.webitrent.com</li>
+<li> 16:18 login.microsoftonline.com</li>
+<li> 16:18 ce0997li.webitrent.com</li>
+<li> 16:18 login.microsoftonline.com</li>
+<li> 16:18 www.hr.herts.ac.uk</li>
+<li> 16:18 hr.herts.ac.uk</li>
+<li> 16:18 duckduckgo.com</li>
+<li> 16:18 login.microsoftonline.com</li>
+<li> 16:18 www.hr.herts.ac.uk</li>
+<li> 16:17 calendar.google.com</li>
+<li> 16:17 herts.instructure.com</li>
+<li> 16:16 docs.google.com</li>
+<li> 16:16 www.google.com</li>
+<li class='same'> 16:15 www.google.com</li>
+<li> 16:09 www.reddit.com</li>
+<li> 16:08 www.google.com</li>
+<li class='same'> 16:07 www.google.com</li>
+<li> 16:05 herts.instructure.com</li>
+<li> 16:03 forms.office.com</li>
+<li> 15:45 web.whatsapp.com</li>
 <li> 15:44 duckduckgo.com</li>
 <li> 15:44 ieeexplore.ieee.org</li>
 <li> 15:44 duckduckgo.com</li>
@@ -509,7 +544,8 @@ With number of accesses/minutes in parentheses
 <li> 08:55 login.microsoftonline.com</li>
 <li> 08:55 ce0997li.webitrent.com</li>
 <li> 08:55 login.microsoftonline.com</li>
-<li class='same'> 08:54 login.microsoftonline.com</li>
+<li> 08:55 www.hr.herts.ac.uk</li>
+<li> 08:54 login.microsoftonline.com</li>
 <li> 08:54 www.hr.herts.ac.uk</li>
 <li> 08:54 www.google.com</li>
 <li> 08:53 alumni.herts.ac.uk</li>
