@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4394)</li>
+<ol><li>www.reddit.com (4398)</li>
 <li>mail.google.com (4355)</li>
 <li>outlook.office.com (4101)</li>
 <li>www.google.com (4047)</li>
 <li>outlook.office365.com (3915)</li>
 <li>docs.google.com (2702)</li>
-<li>duckduckgo.com (2692)</li>
+<li>duckduckgo.com (2696)</li>
 <li>chatgpt.com (1722)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1545)</li>
+<li>www.linkedin.com (1546)</li>
 <li>www.facebook.com (1459)</li>
 <li>login.microsoftonline.com (1198)</li>
 <li>www.amazon.co.uk (1133)</li>
 <li>calendar.google.com (1086)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
-<li>herts.instructure.com (725)</li>
-<li>web.whatsapp.com (716)</li>
+<li>herts.instructure.com (729)</li>
+<li>web.whatsapp.com (717)</li>
 <li>gmail.com (695)</li>
 <li>chat.openai.com (694)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Sign in to your account</a> (659)</li>
 <li>tvtropes.org (630)</li>
-<li>forms.office.com (586)</li>
+<li>forms.office.com (588)</li>
 <li>github.com (562)</li>
 <li>feedly.com (539)</li>
 <li>drive.google.com (445)</li>
@@ -108,7 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:48 arxiv.org</li>
+<ul><li> 13:53 www.kaggle.com</li>
+<li> 13:52 duckduckgo.com</li>
+<li> 13:52 ieeexplore.ieee.org</li>
+<li> 13:52 duckduckgo.com</li>
+<li class='same'> 13:51 duckduckgo.com</li>
+<li> 13:51 ieeexplore.ieee.org</li>
+<li> 13:51 duckduckgo.com</li>
+<li> 13:50 www.whatsapp.com</li>
+<li> 13:50 ev.turnitinuk.com</li>
+<li> 13:50 herts.instructure.com</li>
+<li class='same'> 13:49 herts.instructure.com</li>
+<li class='same'> 13:48 herts.instructure.com</li>
+<li> 13:48 www.reddit.com</li>
+<li> 13:47 herts.instructure.com</li>
+<li> 13:47 www.reddit.com</li>
+<li> 13:46 web.whatsapp.com</li>
+<li> 13:22 www.linkedin.com</li>
+<li> 13:19 www.reddit.com</li>
+<li class='same'> 13:16 www.reddit.com</li>
+<li> 13:13 forms.office.com</li>
+<li class='same'> 13:11 forms.office.com</li>
+<li> 13:02 www.kaggle.com</li>
+<li class='same'> 13:01 www.kaggle.com</li>
+<li> 12:48 arxiv.org</li>
 <li> 12:48 ieeexplore.ieee.org</li>
 <li> 12:46 ev.turnitinuk.com</li>
 <li> 12:46 herts.instructure.com</li>
