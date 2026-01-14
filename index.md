@@ -73,25 +73,25 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4100)</li>
 <li>www.google.com (4052)</li>
 <li>outlook.office365.com (3930)</li>
-<li>duckduckgo.com (2709)</li>
+<li>duckduckgo.com (2711)</li>
 <li>docs.google.com (2704)</li>
 <li>chatgpt.com (1728)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1551)</li>
+<li>www.linkedin.com (1561)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1213)</li>
+<li>login.microsoftonline.com (1214)</li>
 <li>www.amazon.co.uk (1133)</li>
 <li>calendar.google.com (1087)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
-<li>herts.instructure.com (751)</li>
+<li>herts.instructure.com (753)</li>
 <li>web.whatsapp.com (721)</li>
 <li>chat.openai.com (699)</li>
 <li>gmail.com (695)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a> (664)</li>
 <li>tvtropes.org (630)</li>
-<li>forms.office.com (613)</li>
+<li>forms.office.com (617)</li>
 <li>github.com (564)</li>
 <li>feedly.com (540)</li>
 <li>drive.google.com (445)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:48 www.linkedin.com</li>
+<ul><li> 12:55 scholar.google.com</li>
+<li class='same'> 12:54 scholar.google.com</li>
+<li> 12:54 www.nature.com</li>
+<li> 12:54 duckduckgo.com</li>
+<li class='same'> 12:53 duckduckgo.com</li>
+<li> 12:53 ev.turnitinuk.com</li>
+<li> 12:53 herts.instructure.com</li>
+<li> 12:44 www.linkedin.com</li>
+<li class='same'> 12:24 www.linkedin.com</li>
+<li> 12:24 forms.office.com</li>
+<li> 12:24 login.microsoftonline.com</li>
+<li> 12:24 forms.office.com</li>
+<li> 12:19 www.linkedin.com</li>
+<li class='same'> 12:18 www.linkedin.com</li>
+<li class='same'> 12:10 www.linkedin.com</li>
+<li class='same'> 12:09 www.linkedin.com</li>
+<li class='same'> 12:08 www.linkedin.com</li>
+<li> 12:04 journal.unnes.ac.id</li>
+<li> 12:02 www.linkedin.com</li>
+<li> 12:02 ev.turnitinuk.com</li>
+<li> 12:02 herts.instructure.com</li>
+<li> 12:01 forms.office.com</li>
+<li class='same'> 11:56 forms.office.com</li>
+<li> 11:54 www.linkedin.com</li>
+<li class='same'> 11:53 www.linkedin.com</li>
+<li class='same'> 11:48 www.linkedin.com</li>
 <li> 11:38 chatgpt.com</li>
 <li class='same'> 11:37 chatgpt.com</li>
 <li> 11:37 chat.openai.com</li>
