@@ -73,25 +73,25 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4101)</li>
 <li>www.google.com (4051)</li>
 <li>outlook.office365.com (3915)</li>
-<li>duckduckgo.com (2705)</li>
+<li>duckduckgo.com (2706)</li>
 <li>docs.google.com (2704)</li>
 <li>chatgpt.com (1724)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1546)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1207)</li>
+<li>login.microsoftonline.com (1210)</li>
 <li>www.amazon.co.uk (1133)</li>
 <li>calendar.google.com (1087)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
-<li>herts.instructure.com (743)</li>
-<li>web.whatsapp.com (719)</li>
+<li>herts.instructure.com (745)</li>
+<li>web.whatsapp.com (720)</li>
 <li>chat.openai.com (696)</li>
 <li>gmail.com (695)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Sign in to your account</a> (659)</li>
 <li>tvtropes.org (630)</li>
-<li>forms.office.com (605)</li>
+<li>forms.office.com (610)</li>
 <li>github.com (564)</li>
 <li>feedly.com (539)</li>
 <li>drive.google.com (445)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:42 web.whatsapp.com</li>
+<ul><li> 18:12 www.icc-cricket.com</li>
+<li> 18:12 duckduckgo.com</li>
+<li> 18:08 herts.instructure.com</li>
+<li> 18:08 forms.office.com</li>
+<li class='same'> 18:06 forms.office.com</li>
+<li> 18:06 login.microsoftonline.com</li>
+<li> 18:06 forms.office.com</li>
+<li> 18:06 login.microsoftonline.com</li>
+<li> 18:06 forms.office.com</li>
+<li> 18:05 web.whatsapp.com</li>
+<li> 18:01 login.microsoftonline.com</li>
+<li> 18:01 forms.office.com</li>
+<li> 17:58 herts.instructure.com</li>
+<li> 17:42 web.whatsapp.com</li>
 <li> 17:39 forms.office.com</li>
 <li class='same'> 17:36 forms.office.com</li>
 <li> 17:31 chatgpt.com</li>
