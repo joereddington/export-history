@@ -73,18 +73,18 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4100)</li>
 <li>www.google.com (4052)</li>
 <li>outlook.office365.com (3930)</li>
-<li>duckduckgo.com (2707)</li>
+<li>duckduckgo.com (2708)</li>
 <li>docs.google.com (2704)</li>
 <li>chatgpt.com (1725)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1547)</li>
+<li>www.linkedin.com (1548)</li>
 <li>www.facebook.com (1459)</li>
 <li>login.microsoftonline.com (1211)</li>
 <li>www.amazon.co.uk (1133)</li>
 <li>calendar.google.com (1087)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
-<li>herts.instructure.com (746)</li>
+<li>herts.instructure.com (750)</li>
 <li>web.whatsapp.com (720)</li>
 <li>chat.openai.com (697)</li>
 <li>gmail.com (695)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li>forms.office.com (610)</li>
 <li>github.com (564)</li>
-<li>feedly.com (539)</li>
+<li>feedly.com (540)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (396)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:34 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
+<ul><li> 10:51 ev.turnitinuk.com</li>
+<li> 10:51 herts.instructure.com</li>
+<li class='same'> 10:49 herts.instructure.com</li>
+<li class='same'> 10:48 herts.instructure.com</li>
+<li class='same'> 10:47 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:23 <a href="https://www.theguardian.com/politics/2026/jan/13/government-rolls-back-digital-identity-card-plans">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:10 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:45 www.linkedin.com</li>
+<li> 07:45 www.darkreading.com</li>
+<li> 07:42 feedly.com</li>
+<li> 07:34 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
 <li> 07:34 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 07:34 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 07:34 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
