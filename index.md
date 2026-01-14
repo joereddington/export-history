@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4400)</li>
+<ol><li>www.reddit.com (4401)</li>
 <li>mail.google.com (4355)</li>
-<li>outlook.office.com (4101)</li>
+<li>outlook.office.com (4100)</li>
 <li>www.google.com (4052)</li>
-<li>outlook.office365.com (3921)</li>
-<li>duckduckgo.com (2706)</li>
+<li>outlook.office365.com (3930)</li>
+<li>duckduckgo.com (2707)</li>
 <li>docs.google.com (2704)</li>
-<li>chatgpt.com (1724)</li>
+<li>chatgpt.com (1725)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1546)</li>
+<li>www.linkedin.com (1547)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1213)</li>
+<li>login.microsoftonline.com (1211)</li>
 <li>www.amazon.co.uk (1133)</li>
 <li>calendar.google.com (1087)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>herts.instructure.com (746)</li>
 <li>web.whatsapp.com (720)</li>
-<li>chat.openai.com (696)</li>
+<li>chat.openai.com (697)</li>
 <li>gmail.com (695)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a> (664)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (539)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
-<li>rhul.sharepoint.com (393)</li>
+<li>rhul.sharepoint.com (396)</li>
 <li><a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a> (371)</li>
 
 
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:52 outlook.office365.com</li>
+<ul><li> 07:34 <a href="https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack">2014 Sony Pictures hack - Wikipedia</a></li>
+<li> 07:34 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:34 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:34 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:34 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:34 <a href="https://en.wikipedia.org/"></a></li>
+<li> 07:33 www.reddit.com</li>
+<li> 07:33 outlook.office365.com</li>
+<li> 07:30 chatgpt.com</li>
+<li> 07:30 chat.openai.com</li>
+<li> 07:29 outlook.office365.com</li>
+<li> 07:26 rhul.sharepoint.com</li>
+<li> 07:25 outlook.office365.com</li>
+<li> 07:21 www.linkedin.com</li>
+<li> 07:20 outlook.office365.com</li>
+<li class='same'> 07:18 outlook.office365.com</li>
+<li> 07:16 rhul.sharepoint.com</li>
+<li> 07:16 login.microsoftonline.com</li>
+<li> 07:16 rhul.sharepoint.com</li>
+<li> 07:16 outlook.office365.com</li>
+<li> 07:02 www.researchgate.net</li>
+<li> 07:02 duckduckgo.com</li>
+<li> 06:59 outlook.office365.com</li>
+<li class='same'> 06:58 outlook.office365.com</li>
+<li class='same'> 06:56 outlook.office365.com</li>
+<li class='same'> 06:52 outlook.office365.com</li>
 <li class='same'> 06:51 outlook.office365.com</li>
 <li class='same'> 06:50 outlook.office365.com</li>
 <li> 06:49 www.royalholloway.ac.uk</li>
@@ -16313,14 +16338,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:33 outlook.office.com</li>
 <li class='same'> 14:32 outlook.office.com</li>
 <li class='same'> 14:30 outlook.office.com</li>
-<li> 14:30 login.microsoftonline.com</li>
-<li> 14:30 outlook.office.com</li>
 <li> 14:26 calendar.google.com</li>
 <li> 14:26 workspace.google.com</li>
 <li> 14:26 calendar.google.com</li>
 <li> 14:25 outlook.office.com</li>
 <li> 14:24 outlook.office365.com</li>
-<li> 14:24 login.microsoftonline.com</li>
 <li> 14:24 outlook.office.com</li>
 <li> 14:20 herts.instructure.com</li>
 <li class='same'> 14:19 herts.instructure.com</li>
@@ -16359,7 +16381,6 @@ With number of accesses/minutes in parentheses
 <li> 13:37 www.google.com</li>
 <li> 13:33 editorial.rottentomatoes.com</li>
 <li> 13:33 www.google.com</li>
-<li> 13:32 www.saudia.com</li>
 <li> 13:32 tvtropes.org</li>
 <li class='same'> 13:31 tvtropes.org</li>
 <li> 13:31 192.168.178.81:8007</li>
@@ -16397,8 +16418,6 @@ With number of accesses/minutes in parentheses
 <li> 10:36 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 10:34 ce0997li.webitrent.com</li>
 <li> 10:13 calendar.google.com</li>
-<li> 10:01 herts365-my.sharepoint.com</li>
-<li> 10:01 login.microsoftonline.com</li>
 <li> 10:01 herts365-my.sharepoint.com</li>
 <li> 10:01 login.microsoftonline.com</li>
 <li> 10:00 forms.office.com</li>
