@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4409)</li>
+<ol><li>www.reddit.com (4411)</li>
 <li>mail.google.com (4355)</li>
 <li>outlook.office.com (4105)</li>
 <li>www.google.com (4052)</li>
@@ -77,7 +77,7 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2704)</li>
 <li>chatgpt.com (1729)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1566)</li>
+<li>www.linkedin.com (1567)</li>
 <li>www.facebook.com (1459)</li>
 <li>login.microsoftonline.com (1225)</li>
 <li>www.amazon.co.uk (1135)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (699)</li>
 <li>gmail.com (695)</li>
 <li>www.theguardian.com (685)</li>
-<li><a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a> (665)</li>
+<li><a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a> (666)</li>
 <li>tvtropes.org (630)</li>
 <li>forms.office.com (622)</li>
 <li>github.com (564)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (398)</li>
-<li><a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a> (371)</li>
+<li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (372)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:20 www.reddit.com</li>
+<ul><li> 11:49 www.linkedin.com</li>
+<li> 11:49 www.reddit.com</li>
+<li class='same'> 11:48 www.reddit.com</li>
+<li> 11:45 kinesis-ergo.com</li>
+<li> 11:43 sellercentral.amazon.co.uk</li>
+<li> 11:29 sites.google.com</li>
+<li> 11:20 www.reddit.com</li>
 <li class='same'> 11:19 www.reddit.com</li>
 <li> 11:17 www.linkedin.com</li>
 <li> 11:15 outlook.office365.com</li>
@@ -214,6 +220,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 19:28 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:28 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
+<li> 19:28 <a href="https://www.theguardian.com/politics/2026/jan/13/government-rolls-back-digital-identity-card-plans">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
+</ul>
+
+<br>
+
 <ul><li> 14:08 www.linkedin.com</li>
 <li> 13:40 forms.office.com</li>
 <li> 13:37 www.linkedin.com</li>
@@ -279,7 +292,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:23 <a href="https://www.theguardian.com/politics/2026/jan/13/government-rolls-back-digital-identity-card-plans">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 09:23 <a href="https://www.theguardian.com/politics/2026/jan/13/government-rolls-back-digital-identity-card-plans">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:10 duckduckgo.com</li>
 </ul>
 
@@ -328,7 +341,7 @@ With number of accesses/minutes in parentheses
 <li> 06:43 login.microsoftonline.com</li>
 <li> 06:43 www.hr.herts.ac.uk</li>
 <li> 06:26 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:26 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:26 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:26 <a href="https://www.theguardian.com/environment/2026/jan/13/microplastics-human-body-doubt">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 </ul>
 
@@ -647,7 +660,7 @@ With number of accesses/minutes in parentheses
 <li> 17:06 outlook.office365.com</li>
 <li> 16:48 <a href="https://www.theguardian.com/technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk">UK media regulator investigating Elon Musk’s X after outcry over sexualised AI images | X | The Guardian</a></li>
 <li> 16:48 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:48 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:48 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:47 www.linkedin.com</li>
 <li class='same'> 16:46 www.linkedin.com</li>
 <li> 16:46 www.reddit.com</li>
@@ -912,7 +925,7 @@ With number of accesses/minutes in parentheses
 <li> 17:18 <a href="https://en.wikipedia.org/"></a></li>
 <li> 17:18 mail.google.com</li>
 <li> 17:17 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:17 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:17 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:17 mail.google.com</li>
 </ul>
 
@@ -921,7 +934,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:39 support.theguardian.com</li>
 <li> 15:39 <a href="https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk">‘Add blood, forced smile’: how Grok’s nudification tool went viral | AI (artificial intelligence) | The Guardian</a></li>
 <li> 15:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:36 <a href="https://www.theguardian.com/world/2026/jan/11/nobel-institute-rejects-maria-corina-machados-offer-to-share-peace-prize-with-trump">Latest news, sport and opinion from the Guardian</a></li>
 <li> 15:35 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 15:35 www.google.com</li>
@@ -1052,9 +1065,9 @@ With number of accesses/minutes in parentheses
 <li> 08:09 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 08:09 <a href="https://www.theguardian.com/news/gallery/2026/jan/04/maduro-capture-stonehenge-sunrise-photos-of-the-weekend">Maduro’s capture and a Stonehenge sunrise: photos of the weekend | World news | The Guardian</a></li>
 <li> 08:08 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:08 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:08 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:07 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:07 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:07 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:07 <a href="https://www.theguardian.com/technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:06 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 08:01 www.etymonline.com</li>
@@ -1192,7 +1205,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:15 www.linkedin.com</li>
 <li class='same'> 15:14 www.linkedin.com</li>
 <li> 15:14 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:14 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:14 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:12 <a href="https://www.theguardian.com/technology/2026/jan/09/x-uk-revenues-drop-nearly-60-in-a-year-as-advertisers-pull-out-over-content-concerns">X UK revenues drop nearly 60% in a year as content concerns spook advertisers | X | The Guardian</a></li>
 <li> 15:11 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 15:07 web.whatsapp.com</li>
@@ -1311,7 +1324,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:10 www.reddit.com</li>
 <li> 07:10 <a href="https://www.theguardian.com/politics/2026/jan/09/home-office-gaza-academic-bassem-abudagga-family">Home Office tells Gaza academic his bid to bring family to UK not urgent | Home Office | The Guardian</a></li>
 <li> 07:01 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:01 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:01 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:00 www.linkedin.com</li>
 <li> 06:59 www.reddit.com</li>
 <li class='same'> 06:53 www.reddit.com</li>
@@ -1366,7 +1379,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:57 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:57 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:57 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:57 <a href="https://www.theguardian.com/us-news/2026/jan/08/billionaire-tax-california">Tech titans divided over whether to pay billionaire tax or flee California | California | The Guardian</a></li>
 <li> 14:49 fyp.cs.rhul.ac.uk</li>
 <li> 14:23 chatgpt.com</li>
@@ -1408,7 +1421,7 @@ With number of accesses/minutes in parentheses
 <li> 12:00 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 12:00 <a href="https://www.theguardian.com/uk-news/2026/jan/08/ex-premier-league-ref-david-coote-gets-suspended-sentence-over-schoolboy-video">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:00 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 12:00 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:00 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:00 <a href="https://www.theguardian.com/world/2026/jan/08/alleged-scam-kingpin-chen-zhi-extradited-china-cambodia-arrest">Alleged scam kingpin Chen Zhi extradited to China after Cambodia arrest | Cambodia | The Guardian</a></li>
 <li> 11:53 outlook.office.com</li>
 <li> 11:48 web.whatsapp.com</li>
@@ -1559,7 +1572,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:06 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:06 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:06 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:04 <a href="https://www.theguardian.com/technology/2026/jan/07/commons-women-equalities-committee-stop-using-x-ai-altered-grok-images">Latest news, sport and opinion from the Guardian</a></li>
 <li> 17:47 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 17:38 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
@@ -1571,7 +1584,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:36 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:36 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:36 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:33 outlook.office365.com</li>
 <li class='same'> 16:32 outlook.office365.com</li>
 <li> 16:32 chatgpt.com</li>
@@ -1853,7 +1866,7 @@ With number of accesses/minutes in parentheses
 <li> 06:34 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 06:34 docs.google.com</li>
 <li> 06:28 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:28 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:28 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:27 <a href="https://www.theguardian.com/commentisfree/2026/jan/06/the-guardian-view-on-universities-labour-needs-a-clearer-plan">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:25 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 06:25 <a href="https://www.theguardian.com/news/gallery/2026/jan/04/maduro-capture-stonehenge-sunrise-photos-of-the-weekend">Maduro’s capture and a Stonehenge sunrise: photos of the weekend | World news | The Guardian</a></li>
@@ -1868,10 +1881,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:25 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 21:25 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:25 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 21:23 <a href="https://www.theguardian.com/tv-and-radio/2026/jan/06/industry-season-four-review-bbc-one-iplayer-hbo-binge">Latest news, sport and opinion from the Guardian</a></li>
 <li> 21:22 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 21:22 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:22 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 21:22 <a href="https://www.theguardian.com/tv-and-radio/2026/jan/06/theyre-all-bad-but-some-are-worse-than-others-every-harlan-coben-show-rated">‘They’re all bad – but some are worse than others’: every Harlan Coben show rated | Television | The Guardian</a></li>
 </ul>
 
@@ -2247,7 +2260,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:18 www.linkedin.com</li>
 <li> 07:18 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 07:18 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:18 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:18 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <H3>Monday, 05/01/26</H3>
@@ -2415,10 +2428,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:04 www.reddit.com</li>
 <li class='same'> 08:03 www.reddit.com</li>
 <li> 08:02 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:02 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:02 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:59 <a href="https://www.theguardian.com/world/2026/jan/04/tactical-surprise-and-air-dominance-how-the-us-snatched-maduro-in-two-and-a-half-hours">Months in planning, over in two and a half hours: how the US snatched Maduro | Venezuela | The Guardian</a></li>
 <li> 07:59 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:59 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:59 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:58 fast.com</li>
 <li> 07:51 mail.google.com</li>
 <li> 07:50 accounts.google.com</li>
@@ -2795,7 +2808,7 @@ With number of accesses/minutes in parentheses
 <li> 06:21 www.royalholloway.ac.uk</li>
 <li> 06:21 <a href="https://www.theguardian.com/world/2026/jan/02/crans-montana-fire-families-agonising-wait-victims-identification">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:21 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:21 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:21 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:19 <a href="https://www.theguardian.com/film/2026/jan/02/will-smith-accused-of-predatory-behaviour-and-grooming-by-tour-violinist">We Bury the Dead review – Daisy Ridley tackles the undead in solid zombie twist | Horror films | The Guardian</a></li>
 <li> 06:19 <a href="https://www.theguardian.com/film/2026/jan/02/we-bury-the-dead-movie-review-daisy-ridley">Chaos Walking review – cursed YA adaptation stumbles into view | Tom Holland | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/film/2021/mar/04/chaos-walking-review-cursed-ya-adaptation-stumbles-into-view">We Bury the Dead review – Daisy Ridley tackles the undead in solid zombie twist | Horror films | The Guardian</a></li>
@@ -2972,7 +2985,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 09:00 www.ratemyprofessors.com</li>
 <li> 08:36 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 08:36 <a href="https://www.theguardian.com/culture/2025/dec/30/self-mocking-man-sketch-dumb-masculinity">The year of the self-mocking man sketch: ‘Dumb masculinity is very funny’ | Comedy | The Guardian</a></li>
-<li> 08:36 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:36 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:34 www.reddit.com</li>
 <li class='same'> 08:31 www.reddit.com</li>
 <li class='same'> 08:30 www.reddit.com</li>
@@ -3051,7 +3064,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 06:49 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 06:49 <a href="https://www.theguardian.com/science/2025/dec/30/astronaut-amanda-nguyen-blue-origin-spaceflight">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:45 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:45 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:45 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:45 <a href="https://www.theguardian.com/commentisfree/2025/dec/29/the-guardian-view-on-the-national-year-of-reading-2026-time-to-start-a-healthy-habit-for-life">The Guardian view on the National Year of Reading 2026: time to start a healthy habit for life | Editorial | The Guardian</a></li>
 </ul>
 
@@ -3070,7 +3083,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:43 <a href="https://www.theguardian.com/commentisfree/2025/dec/29/the-guardian-view-on-the-national-year-of-reading-2026-time-to-start-a-healthy-habit-for-life">The Guardian view on the National Year of Reading 2026: time to start a healthy habit for life | Editorial | The Guardian</a></li>
 <li> 13:40 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:40 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:40 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:40 <a href="https://www.theguardian.com/sport/2025/dec/29/tom-jenkins-best-sport-photographs-2025">Tom Jenkins’s best sport photographs of 2025 | Sport | The Guardian</a></li>
 </ul>
 
@@ -3096,7 +3109,7 @@ With number of accesses/minutes in parentheses
 <li> 08:06 ico.org.uk</li>
 <li> 08:06 www.google.com</li>
 <li> 07:51 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:51 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/world/2025/dec/30/khaleda-zia-first-female-bangladesh-prime-minister-dies-aged-80">Khaleda Zia, first female Bangladesh prime minister, dies aged 80 | Bangladesh | The Guardian</a></li>
 <li> 07:47 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 07:47 chatgpt.com</li>
@@ -3119,7 +3132,7 @@ With number of accesses/minutes in parentheses
 <li> 18:50 <a href="https://www.theguardian.com/sport/2025/dec/29/tom-jenkins-best-sport-photographs-2025#img-9">Tom Jenkins’s best sport photographs of 2025 | Sport | The Guardian</a></li>
 <li> 18:49 <a href="https://www.theguardian.com/sport/2025/dec/29/tom-jenkins-best-sport-photographs-2025">Tom Jenkins’s best sport photographs of 2025 | Sport | The Guardian</a></li>
 <li> 18:48 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:48 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:48 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:48 <a href="https://www.theguardian.com/technology/2025/dec/29/ransomware-negotiations-extortion-cyber-attacks">‘Why should we pay these criminals?’: the hidden world of ransomware negotiations | Cybercrime | The Guardian</a></li>
 </ul>
 
@@ -3127,7 +3140,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 18:01 <a href="https://www.theguardian.com/technology/2025/dec/29/ransomware-negotiations-extortion-cyber-attacks">‘Why should we pay these criminals?’: the hidden world of ransomware negotiations | Cybercrime | The Guardian</a></li>
 <li> 18:00 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:00 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:00 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <H3>Sunday, 28/12/25</H3>
@@ -3252,7 +3265,7 @@ With number of accesses/minutes in parentheses
 <li> 09:38 www.natesilver.net</li>
 <li> 09:38 duckduckgo.com</li>
 <li> 09:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:37 www.giantitp.com</li>
 <li> 09:19 www.linkedin.com</li>
 <li class='same'> 09:18 www.linkedin.com</li>
@@ -3777,7 +3790,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:47 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:47 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:47 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:44 <a href="https://www.theguardian.com/lifeandstyle/2025/dec/23/what-happened-next-the-coldplay-kiss-cam-couple">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:43 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 08:43 www.google.com</li>
@@ -3879,7 +3892,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 22:30 <a href="https://www.theguardian.com/news/2025/dec/21/cycling-changing-at-speed-britain-keeping-pace">Latest news, sport and opinion from the Guardian</a></li>
 <li> 22:29 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 22:29 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 22:29 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 22:29 <a href="https://www.theguardian.com/news/2025/dec/20/six-great-reads-great-rob-reiner-moments-ilhan-omar-on-trump-and-disastrous-secret-santas">‘I could watch the final 30 minutes on a loop till the end of time’: Guardian writers’ favourite Rob Reiner moments | Rob Reiner | The Guardian</a></li>
 <li> 22:23 <a href="https://www.theguardian.com/film/2025/dec/16/i-could-watch-the-final-30-minutes-on-a-loop-till-the-end-of-time-guardian-writers-favourite-rob-reiner-moments">Six great reads: great Rob Reiner moments, Ilhan Omar on Trump and disastrous secret Santas | | The Guardian</a></li>
 <li> 22:23 <a href="https://www.theguardian.com/news/2025/dec/20/six-great-reads-great-rob-reiner-moments-ilhan-omar-on-trump-and-disastrous-secret-santas">‘I could watch the final 30 minutes on a loop till the end of time’: Guardian writers’ favourite Rob Reiner moments | Rob Reiner | The Guardian</a></li>
@@ -4003,7 +4016,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:07 <a href="https://www.theguardian.com/us-news/2025/dec/20/epstein-files-release-strategy-trump">Trickle release of Epstein files on a Friday signals move to bury Trump ties | Jeffrey Epstein | The Guardian</a></li>
 <li> 10:07 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:07 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:07 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -4016,7 +4029,7 @@ With number of accesses/minutes in parentheses
 <li> 09:05 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 09:05 <a href="https://www.theguardian.com/uk-news/2025/dec/20/epstein-files-appear-to-show-ex-prince-andrew-lying-on-laps-watched-by-ghislaine-maxwell">Latest news, sport and opinion from the Guardian</a></li>
 <li> 09:05 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:05 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:05 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:05 <a href="https://www.theguardian.com/us-news/live/2025/dec/19/jeffrey-epstein-files-released-trump-administration#top-of-blog">‘The most important documents are missing,’ says Democratic representative of Epstein files release – as it happened | Jeffrey Epstein | The Guardian</a></li>
 <li class='same'> 08:53 <a href="https://www.theguardian.com/us-news/live/2025/dec/19/jeffrey-epstein-files-released-trump-administration#top-of-blog">‘The most important documents are missing,’ says Democratic representative of Epstein files release – as it happened | Jeffrey Epstein | The Guardian</a></li>
 </ul>
@@ -4060,7 +4073,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:49 <a href="https://www.theguardian.com/technology/2025/dec/19/uk-foreign-office-victim-cyber-attack-october-">UK Foreign Office victim of cyber-attack in October, says Chris Bryant | Cybercrime | The Guardian</a></li>
 <li> 10:48 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:48 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:48 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:44 <a href="https://www.theguardian.com/world/2025/dec/12/south-korea-exam-chief-quits-after-complaints-english-test-was-too-hard">South Korea exam chief quits after complaints English test was too hard | South Korea | The Guardian</a></li>
 <li> 10:36 www.linkedin.com</li>
 <li> 10:36 www.wired.com</li>
@@ -4124,7 +4137,7 @@ With number of accesses/minutes in parentheses
 <li> 06:55 mail.google.com</li>
 <li> 06:55 www.gmail.com</li>
 <li> 06:54 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:54 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:53 <a href="https://en.wikipedia.org/wiki/Mahershala_Ali">Mahershala Ali - Wikipedia</a></li>
 <li> 06:48 <a href="https://en.wikipedia.org/wiki/Green_Book_(film)">Green Book (film) - Wikipedia</a></li>
 <li> 06:48 duckduckgo.com</li>
@@ -4183,7 +4196,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:10 www.reddit.com</li>
 <li class='same'> 18:09 www.reddit.com</li>
 <li> 18:07 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:07 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:07 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:05 web.whatsapp.com</li>
 <li> 18:05 www.reddit.com</li>
 <li class='same'> 18:04 www.reddit.com</li>
@@ -4424,7 +4437,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:52 <a href="https://www.theguardian.com/us-news/2025/dec/15/trump-rob-reiner-reaction-truth-social">Trump’s post on Rob Reiner sparks outrage from lawmakers and celebrities | Donald Trump | The Guardian</a></li>
 <li> 07:51 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:51 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:47 outlook.office365.com</li>
 <li> 07:45 www.reddit.com</li>
 <li> 07:45 duckduckgo.com</li>
@@ -4507,7 +4520,7 @@ With number of accesses/minutes in parentheses
 <li> 14:16 mail.google.com</li>
 <li> 14:14 <a href="https://www.theguardian.com/film/2025/dec/15/rob-reiner-director-harry-met-sally-found-dead-with-wife-michele-singer-reiner">Director Rob Reiner and wife Michele Singer Reiner found dead at home | Film | The Guardian</a></li>
 <li> 14:14 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:14 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:14 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:14 mail.google.com</li>
 <li> 14:07 outlook.office365.com</li>
 <li class='same'> 14:06 outlook.office365.com</li>
@@ -4602,7 +4615,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:53 <a href="https://www.theguardian.com/money/2025/dec/15/average-mortgage-for-uk-first-time-buyer-hits-record-high">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:53 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:53 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:53 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:51 blog.lastpass.com</li>
 <li> 06:51 www.linkedin.com</li>
 <li> 06:51 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
@@ -4709,7 +4722,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 10:52 <a href="https://www.theguardian.com/uk-news/2025/dec/14/police-spied-on-group-set-up-to-expose-wrongdoing-in-met-inquiry-hears">Police spied on group set up to expose wrongdoing in Met, inquiry hears | Undercover police and policing | The Guardian</a></li>
 <li> 10:52 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:52 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:52 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:52 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 10:51 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 10:51 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -4984,7 +4997,7 @@ With number of accesses/minutes in parentheses
 <li> 18:10 ce0997li.webitrent.com</li>
 <li> 18:09 login.microsoftonline.com</li>
 <li> 18:09 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:09 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:09 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:09 outlook.office365.com</li>
 <li> 18:08 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 18:07 fyp.cs.rhul.ac.uk</li>
@@ -5039,7 +5052,7 @@ With number of accesses/minutes in parentheses
 <li> 15:01 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Misfits_Boxing&action=edit">Editing Talk:Misfits Boxing - Wikipedia</a></li>
 <li> 14:58 web.whatsapp.com</li>
 <li> 14:57 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:57 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:57 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:50 <a href="https://en.wikipedia.org/wiki/Talk:Misfits_Boxing">Talk:Misfits Boxing - Wikipedia</a></li>
 <li> 14:50 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&diff=1327027112&oldid=1327023951">Misfits Boxing: Difference between revisions - Wikipedia</a></li>
 <li> 14:49 <a href="https://en.wikipedia.org/w/index.php?title=Misfits_Boxing&action=history">Misfits Boxing: Revision history - Wikipedia</a></li>
@@ -5288,7 +5301,7 @@ With number of accesses/minutes in parentheses
 <li> 13:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 13:20 <a href="https://en.wikipedia.org/"></a></li>
 <li> 13:20 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:20 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:20 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:18 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 13:18 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 13:00 dashboards.rhul.ac.uk</li>
@@ -5362,7 +5375,7 @@ With number of accesses/minutes in parentheses
 <li> 09:09 libbyapp.com</li>
 <li> 09:08 www.amazon.co.uk</li>
 <li class='same'> 09:07 www.amazon.co.uk</li>
-<li> 09:07 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:07 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:07 libbyapp.com</li>
 <li> 09:06 meta.wikimedia.org</li>
 <li> 09:06 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
@@ -5401,7 +5414,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:20 <a href="https://www.theguardian.com/australia-news/ng-interactive/2025/dec/10/parents-react-to-australias-under-16s-social-media-ban-interactive">‘Already had a profound effect’: parents react to Australia’s social media ban | Social media ban | The Guardian</a></li>
 <li> 07:19 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:19 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:19 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:17 www.linkedin.com</li>
 <li class='same'> 07:16 www.linkedin.com</li>
 <li> 07:12 moodle.royalholloway.ac.uk</li>
@@ -5455,11 +5468,11 @@ With number of accesses/minutes in parentheses
 <li> 14:17 www.linkedin.com</li>
 <li class='same'> 14:16 www.linkedin.com</li>
 <li> 14:16 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:16 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:16 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:16 chatgpt.com</li>
 <li> 14:16 chat.openai.com</li>
 <li> 14:16 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:16 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:16 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:16 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:16 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 14:16 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -5687,7 +5700,7 @@ With number of accesses/minutes in parentheses
 <li> 11:40 equalitytime.co.uk</li>
 <li> 11:40 theopenvoicefactory.org</li>
 <li> 11:40 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:40 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:40 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:36 www.linkedin.com</li>
 <li class='same'> 11:35 www.linkedin.com</li>
 <li> 11:35 web.whatsapp.com</li>
@@ -6164,7 +6177,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:39 <a href="https://www.theguardian.com/news/ng-interactive/2025/dec/07/what-choice-do-we-have-no-end-in-sight-for-ukraines-war-weary-frontline-troops">‘What choice do we have?’: no end in sight for Ukraine’s war-weary frontline troops | Ukraine | The Guardian</a></li>
 <li> 07:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:38 <a href="https://www.theguardian.com/sport/2025/dec/06/jofra-archer-pillow-shot-symbol-england-ashes-nightmare-cricket">Archer’s pillow shot becomes awkward symbol of England’s Ashes nightmare | Ashes 2025-26 | The Guardian</a></li>
 </ul>
 
@@ -7197,7 +7210,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:16 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 12:16 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:16 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:54 www.barcelo.com</li>
 <li> 11:54 www.romsgames.net</li>
 <li> 11:54 www.barcelo.com</li>
@@ -9028,7 +9041,7 @@ With number of accesses/minutes in parentheses
 <li> 06:42 www.amazon.co.uk</li>
 <li> 06:17 www.reddit.com</li>
 <li> 06:17 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:17 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:17 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:14 <a href="https://www.theguardian.com/books/2025/nov/20/jeeves-again-review-new-jeeves-and-wooster-stories-by-celebrity-fans">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:13 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 06:13 <a href="https://www.theguardian.com/sport/2025/nov/20/cadillac-copy-nasa-playbook-to-build-f1-team-from-scratch-to-hit-melbourne-startline">Cadillac copy Nasa playbook to build F1 team from scratch to hit Melbourne startline | Formula One | The Guardian</a></li>
@@ -9050,7 +9063,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:32 web.whatsapp.com</li>
 <li> 16:32 petapixel.com</li>
 <li> 16:31 libbyapp.com</li>
-<li> 16:31 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:31 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:30 www.linkedin.com</li>
 <li class='same'> 16:25 www.linkedin.com</li>
 <li class='same'> 16:24 www.linkedin.com</li>
@@ -10343,7 +10356,7 @@ With number of accesses/minutes in parentheses
 <li> 19:31 outlook.office.com</li>
 <li> 19:31 herts.instructure.com</li>
 <li> 19:31 feedly.com</li>
-<li> 19:31 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:31 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:31 feedly.com</li>
 <li> 19:30 fritz.box</li>
 </ul>
@@ -12243,7 +12256,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:02 outlook.office365.com</li>
 <li> 19:00 <a href="https://www.theguardian.com/uk-news/2025/nov/10/uk-transport-cyber-security-chiefs-investigate-chinese-made-buses">UK transport and cyber-security chiefs investigate Chinese-made buses | Transport | The Guardian</a></li>
 <li> 18:59 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:59 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:59 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:59 <a href="https://www.theguardian.com/media/video/2025/nov/10/side-by-side-comparison-of-bbc-edited-trump-speech-from-day-of-capitol-attack-with-original-video">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a></li>
 <li class='same'> 18:52 <a href="https://www.theguardian.com/media/video/2025/nov/10/side-by-side-comparison-of-bbc-edited-trump-speech-from-day-of-capitol-attack-with-original-video">Side-by-side comparison of BBC-edited Trump speech from day of Capitol attack with original – video | BBC | The Guardian</a></li>
 <li> 18:50 <a href="https://www.theguardian.com/politics/2025/nov/10/mps-to-examine-chinese-state-influence-british-universities">Latest news, sport and opinion from the Guardian</a></li>
@@ -12392,7 +12405,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:44 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:44 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:44 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:40 <a href="https://www.theguardian.com/books/2025/nov/01/margaret-atwood-memoir-extract-booker-prize-death-of-partner">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a></li>
 <li> 13:40 www.reddit.com</li>
 <li> 13:40 <a href="https://www.bbc.co.uk/news/uk-wales-48587207.amp">TalkTalk hacker Daniel Kelley sentenced to four years - BBC News</a></li>
@@ -13095,7 +13108,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 16:44 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:44 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:44 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:44 <a href="https://www.theguardian.com/world/2025/nov/03/israels-top-military-lawyer-arrested-after-she-admitted-leaking-video-of-soldiers-abuse">Israel’s top military lawyer arrested after she admitted leaking video of soldiers’ abuse | Israel | The Guardian</a></li>
 <li> 16:43 <a href="https://xkcd.com/">xkcd: Bridge Clearance</a></li>
 <li> 16:43 www.google.com</li>
@@ -13250,7 +13263,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 08:15 <a href="https://www.theguardian.com/world/2025/nov/03/israels-top-military-lawyer-arrested-after-she-admitted-leaking-video-of-soldiers-abuse">Israel’s top military lawyer arrested after she admitted leaking video of soldiers’ abuse | Israel | The Guardian</a></li>
 <li> 08:15 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:15 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:15 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -13651,7 +13664,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 08:52 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:52 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -13674,10 +13687,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 19:41 <a href="https://www.theguardian.com/books/2025/nov/01/margaret-atwood-memoir-extract-booker-prize-death-of-partner">From (finally) being given the Booker prize to the day her partner died: an exclusive extract from Margaret Atwood’s new memoir | Margaret Atwood | The Guardian</a></li>
 <li> 19:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 19:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:23 <a href="https://www.theguardian.com/world/2025/nov/01/man-killed-in-south-yorkshire-helicopter-crash-named-as-peter-smith">Latest news, sport and opinion from the Guardian</a></li>
 <li> 19:23 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 19:23 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:23 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -15901,9 +15914,9 @@ With number of accesses/minutes in parentheses
 <li> 14:09 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page">Wikipedia, the free encyclopedia</a></li>
 <li> 14:09 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 14:09 feedly.com</li>
-<li> 14:09 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:09 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:08 feedly.com</li>
-<li> 14:08 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:08 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:08 mail.google.com</li>
 <li class='same'> 14:07 mail.google.com</li>
 <li> 14:07 gmail.com</li>
@@ -16023,7 +16036,7 @@ With number of accesses/minutes in parentheses
 <li> 07:52 libbyapp.com</li>
 <li> 07:51 www.giantitp.com</li>
 <li> 07:51 feedly.com</li>
-<li> 07:51 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:51 outlook.office365.com</li>
 <li> 07:43 docs.google.com</li>
 <li> 07:43 drive.google.com</li>
@@ -16142,7 +16155,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:23 feedly.com</li>
-<li> 08:23 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:23 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:05 docs.google.com</li>
 <li> 08:05 drive.google.com</li>
 <li> 08:04 play.edshed.com</li>
@@ -16168,7 +16181,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 21:56 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<ul><li> 21:56 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -16399,7 +16412,7 @@ With number of accesses/minutes in parentheses
 <li> 14:07 intranet.royalholloway.ac.uk</li>
 <li> 13:57 outlook.office365.com</li>
 <li> 13:54 feedly.com</li>
-<li> 13:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:54 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:54 outlook.office365.com</li>
 <li> 13:42 forms.office.com</li>
 <li> 13:28 moodle.royalholloway.ac.uk</li>
@@ -16550,7 +16563,7 @@ With number of accesses/minutes in parentheses
 <li> 13:56 mail.google.com</li>
 <li class='same'> 13:55 mail.google.com</li>
 <li> 13:55 www.gmail.com</li>
-<li> 13:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:54 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:46 192.168.178.81:8007</li>
 <li> 13:37 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 13:37 www.google.com</li>
@@ -16590,7 +16603,7 @@ With number of accesses/minutes in parentheses
 <li> 10:50 ce0997li.webitrent.com</li>
 <li class='same'> 10:49 ce0997li.webitrent.com</li>
 <li> 10:49 mail.google.com</li>
-<li> 10:36 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:36 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:34 ce0997li.webitrent.com</li>
 <li> 10:13 calendar.google.com</li>
 <li> 10:01 herts365-my.sharepoint.com</li>
@@ -16844,7 +16857,7 @@ With number of accesses/minutes in parentheses
 <li> 07:32 herts365-my.sharepoint.com</li>
 <li> 07:29 www.foxnews.com</li>
 <li> 07:28 www.giantitp.com</li>
-<li> 07:27 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:27 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:26 workload.herts.ac.uk</li>
 <li class='same'> 07:25 workload.herts.ac.uk</li>
 <li> 07:25 adfs.herts.ac.uk</li>
@@ -16907,7 +16920,7 @@ With number of accesses/minutes in parentheses
 <li> 16:18 portal.gobright.cloud</li>
 <li> 16:18 t1b.gobright.cloud</li>
 <li> 16:18 portal.gobright.cloud</li>
-<li> 16:18 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:18 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:16 outlook.office365.com</li>
 </ul>
 
@@ -17410,7 +17423,7 @@ With number of accesses/minutes in parentheses
 <li> 14:27 outlook.office365.com</li>
 <li> 14:27 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 14:25 feedly.com</li>
-<li> 14:25 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:25 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:24 outlook.office365.com</li>
 <li> 14:13 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 14:12 webtimetables.royalholloway.ac.uk</li>
@@ -17703,12 +17716,12 @@ With number of accesses/minutes in parentheses
 <li> 15:30 imgur.com</li>
 <li> 15:29 docs.google.com</li>
 <li> 15:29 drive.google.com</li>
-<li> 15:28 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:28 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:28 tvtropes.org</li>
 <li class='same'> 15:22 tvtropes.org</li>
 <li> 15:22 duckduckgo.com</li>
 <li> 15:15 docs.google.com</li>
-<li> 15:14 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:14 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:12 duckduckgo.com</li>
 <li> 15:10 www.dropbox.com</li>
 <li> 15:08 drive.google.com</li>
@@ -17818,7 +17831,7 @@ With number of accesses/minutes in parentheses
 <li> 17:20 forums.giantitp.com</li>
 <li> 17:19 www.giantitp.com</li>
 <li> 17:17 <a href="https://www.theguardian.com/commentisfree/2025/oct/07/tory-conference-boriswave-reform-electoral-annihilation"></a></li>
-<li> 17:17 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:17 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:04 static.wikia.nocookie.net</li>
 <li> 17:04 animation.fandom.com</li>
 <li> 17:04 www.google.com</li>
@@ -17988,10 +18001,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:15 www.amazon.co.uk</li>
 <li> 06:58 <a href="https://www.theguardian.com/tv-and-radio/2025/oct/06/joe-wicks-licensed-to-kill-review-protein-bars-channel-4">Joe Wicks: Licensed to Kill review – TV so vile you’ll never touch a protein bar again | Television | The Guardian</a></li>
 <li> 06:57 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:57 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:57 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:56 <a href="https://www.theguardian.com/world/2025/oct/07/israelis-gather-to-mark-two-years-since-7-october-hamas-attack-that-killed-1200">Israelis gather to mark two years since 7 October Hamas attack that killed 1,200 | Israel | The Guardian</a></li>
 <li> 06:56 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:56 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:56 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:56 www.reddit.com</li>
 <li> 06:55 libbyapp.com</li>
 <li> 06:54 www.amazon.co.uk</li>
@@ -18052,18 +18065,18 @@ With number of accesses/minutes in parentheses
 <li> 14:56 outlook.office365.com</li>
 <li class='same'> 14:55 outlook.office365.com</li>
 <li> 14:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:37 github.com</li>
 <li class='same'> 14:36 github.com</li>
 <li> 14:35 <a href="https://www.theguardian.com/football/2025/oct/05/gary-neville-says-he-took-down-a-union-flag-being-used-in-a-negative-fashion">Gary Neville says he took down union flag being ‘used in a negative fashion’ | Manchester | The Guardian</a></li>
 <li> 14:33 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:33 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:33 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:33 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:32 mail.google.com</li>
 <li> 14:31 discord.com</li>
 <li class='same'> 14:30 discord.com</li>
 <li> 14:30 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:30 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:30 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:23 rhul-my.sharepoint.com</li>
 <li> 14:22 www.reddit.com</li>
 <li> 14:21 mail.google.com</li>
@@ -18079,7 +18092,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:03 www.doxdirect.com</li>
 <li> 14:03 <a href="https://www.theguardian.com/world/2025/oct/06/gisele-pelicot-returns-court-face-one-men-convicted-raping-her-husamettin-dogan-appeal">Gisèle Pelicot returns to court to face one of men convicted of raping her | Gisèle Pelicot | The Guardian</a></li>
 <li> 14:03 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:03 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:03 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:02 www.reddit.com</li>
 <li class='same'> 14:01 www.reddit.com</li>
 <li> 13:59 mail.google.com</li>
@@ -19063,7 +19076,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:10 outlook.office365.com</li>
 <li> 18:09 <a href="https://www.theguardian.com/culture/2025/sep/30/riyadh-comedy-festival-saudi-arabia">US comedians defend decision to play in Saudi Arabia: ‘They’re paying me enough to look the other way’ | Comedy | The Guardian</a></li>
 <li> 18:08 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:08 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:08 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:08 web.whatsapp.com</li>
 <li> 18:08 outlook.office365.com</li>
 <li class='same'> 18:07 outlook.office365.com</li>
@@ -19168,7 +19181,7 @@ With number of accesses/minutes in parentheses
 <li> 11:40 forms.office.com</li>
 <li> 11:37 feedly.com</li>
 <li> 11:36 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:36 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:36 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:35 career-advice.jobs.ac.uk</li>
 </ul>
 
@@ -19566,7 +19579,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:44 <a href="https://www.theguardian.com/us-news/2025/sep/28/us-mass-resignation-federal-workers">US set for largest mass resignation in history as Trump continues deep cuts | Trump administration | The Guardian</a></li>
 <li> 13:42 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:42 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:42 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:40 www.reddit.com</li>
 <li class='same'> 13:38 www.reddit.com</li>
 <li> 13:37 docs.google.com</li>
@@ -19587,7 +19600,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:34 <a href="https://www.theguardian.com/business/2025/sep/28/bullion-bonanza-why-is-gold-hitting-record-highs">Bullion bonanza: why is gold hitting record highs? | Gold | The Guardian</a></li>
 <li> 12:33 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -19598,7 +19611,7 @@ With number of accesses/minutes in parentheses
 <li> 11:54 <a href="https://www.theguardian.com/society/2025/sep/26/you-be-the-judge-jury-was-wrong-about-adhd">You be the judge jury was wrong about ADHD | Attention deficit hyperactivity disorder | The Guardian</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li class='same'> 11:32 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:32 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:32 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:28 <a href="https://www.theguardian.com/world/2025/sep/27/putin-preparing-to-attack-another-european-country-zelenskyy-says">Putin preparing to attack another European country, Zelenskyy says | Ukraine | The Guardian</a></li>
 <li> 11:28 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 11:24 www.parkrun.org.uk</li>
@@ -19807,7 +19820,7 @@ With number of accesses/minutes in parentheses
 <li> 11:36 www.reddit.com</li>
 <li> 11:36 duckduckgo.com</li>
 <li> 11:35 <a href="https://www.theguardian.com/thefilter/2025/sep/26/best-bike-storage-solutions">No room for your bike? Here are 13 clever, space-saving storage ideas for indoors and out | Cycling | The Guardian</a></li>
-<li> 11:34 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:34 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:14 outlook.office365.com</li>
 <li class='same'> 11:11 outlook.office365.com</li>
 </ul>
@@ -19839,7 +19852,7 @@ With number of accesses/minutes in parentheses
 <li> 09:55 outlook.office365.com</li>
 <li class='same'> 09:54 outlook.office365.com</li>
 <li> 09:52 <a href="https://www.theguardian.com/film/2025/sep/26/this-is-the-first-time-ive-not-thought-about-the-box-office-dwayne-johnson-on-wrestling-reinvention-and-the-role-that-could-redefine-him">‘This is the first time I’ve not thought about the box office’: Dwayne Johnson on wrestling, reinvention and the role that could redefine him | Film | The Guardian</a></li>
-<li> 09:51 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:51 www.reddit.com</li>
 <li class='same'> 09:50 www.reddit.com</li>
 <li> 09:50 edition.cnn.com</li>
@@ -20443,7 +20456,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:31 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/23/alan-partridge-is-conduit-to-talk-about-taboo-subjects-says-steve-coogan">Alan Partridge is conduit to talk about ‘taboo’ subjects, says Steve Coogan | Alan Partridge | The Guardian</a></li>
 <li> 06:30 <a href="https://www.theguardian.com/politics/2025/sep/22/corbyn-and-sultana-prepare-new-party-memberships-launch-without-unified-line">Corbyn and Sultana prepare new party memberships launch – without unified line | Zarah Sultana | The Guardian</a></li>
-<li> 06:28 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:28 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -20755,7 +20768,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:42 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:42 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:42 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -20840,7 +20853,7 @@ With number of accesses/minutes in parentheses
 <li> 07:51 <a href="https://www.theguardian.com/education/2025/sep/20/quarter-of-uk-university-physics-departments-at-risk-of-closing-survey-finds">Quarter of UK university physics departments at risk of closing, survey finds | Physics | The Guardian</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/us-news/2025/sep/19/ted-cruz-jimmy-kimmel-abc-fcc-mafia">Ted Cruz compares threats to ABC by FCC chair to those of mob boss | Ted Cruz | The Guardian</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:50 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:45 www.reddit.com</li>
 <li class='same'> 07:29 www.reddit.com</li>
 <li> 07:28 calendar.google.com</li>
@@ -21090,7 +21103,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:56 <a href="https://www.theguardian.com/world/2025/sep/18/macrons-submit-scientific-evidence-us-court-prove-brigitte-not-man">Macrons to submit scientific evidence to US court to prove Brigitte was not born a man | Emmanuel Macron | The Guardian</a></li>
-<li> 16:56 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:56 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:56 <a href="https://www.theguardian.com/world/2025/sep/18/macrons-submit-scientific-evidence-us-court-prove-brigitte-not-man">Macrons to submit scientific evidence to US court to prove Brigitte was not born a man | Emmanuel Macron | The Guardian</a></li>
 </ul>
 
@@ -21111,7 +21124,7 @@ With number of accesses/minutes in parentheses
 <li> 15:34 www.linkedin.com</li>
 <li> 15:33 <a href="https://www.theguardian.com/us-news/2025/sep/18/what-did-jimmy-kimmel-say-said-comments-about-charlie-kirk">Explainer: What did Jimmy Kimmel say about Charlie Kirk’s killing? | Trump administration | The Guardian</a></li>
 <li> 15:33 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:33 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:33 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:32 www.linkedin.com</li>
 <li> 15:31 www.reddit.com</li>
 <li class='same'> 15:29 www.reddit.com</li>
@@ -21128,7 +21141,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:44 <a href="https://www.theguardian.com/world/2025/sep/18/macrons-submit-scientific-evidence-us-court-prove-brigitte-not-man">Macrons to submit scientific evidence to US court to prove Brigitte was not born a man | Emmanuel Macron | The Guardian</a></li>
 <li> 14:43 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:43 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:43 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:43 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/18/jimmy-kimmel-live-suspended-indefinitely-after-hosts-charlie-kirk-comments">Jimmy Kimmel Live! suspended over Charlie Kirk comments after US government pressure | Jimmy Kimmel | The Guardian</a></li>
 </ul>
 
@@ -21321,7 +21334,7 @@ With number of accesses/minutes in parentheses
 <li> 17:05 mail.google.com</li>
 <li> 17:03 feedly.com</li>
 <li> 17:02 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:02 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:02 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:00 mail.google.com</li>
 <li> 16:59 analytics.google.com</li>
 <li class='same'> 16:58 analytics.google.com</li>
@@ -21331,7 +21344,7 @@ With number of accesses/minutes in parentheses
 <li> 16:57 accounts.google.com</li>
 <li> 16:56 <a href="https://www.theguardian.com/uk-news/2025/sep/17/southport-killer-axel-rudakubana-brother-inquiry">Southport killer was discharged from mental health services six days before attack, inquiry hears | Southport attack | The Guardian</a></li>
 <li> 16:56 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:56 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:56 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:54 mail.google.com</li>
 <li class='same'> 16:53 mail.google.com</li>
 <li> 16:53 gmail.com</li>
@@ -21404,7 +21417,7 @@ With number of accesses/minutes in parentheses
 <li> 13:11 moodle.royalholloway.ac.uk</li>
 <li> 13:07 <a href="https://www.theguardian.com/uk-news/2025/sep/17/man-charged-blackmail-westminster-mps">Man charged with blackmail over incidents involving MPs, say police | UK news | The Guardian</a></li>
 <li> 13:06 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:06 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:06 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:03 moodle.royalholloway.ac.uk</li>
 <li> 13:03 web.whatsapp.com</li>
 <li> 13:02 moodle.royalholloway.ac.uk</li>
@@ -21480,7 +21493,7 @@ With number of accesses/minutes in parentheses
 <li> 09:24 <a href="https://www.theguardian.com/education/2025/sep/17/third-of-uk-parents-have-sought-special-needs-assessment-for-their-child-survey-finds">Third of UK parents have sought special needs assessment for their child, survey finds | Special educational needs | The Guardian</a></li>
 <li> 09:22 <a href="https://www.theguardian.com/football/2025/sep/16/kash-patel-liverpool-fc-tie-us-senate-hearing">FBI director Kash Patel wears Liverpool FC tie to US Senate hearing | Liverpool | The Guardian</a></li>
 <li> 09:21 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:21 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:21 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:17 <a href="https://en.wikipedia.org/wiki/Abigail_Disney">Abigail Disney - Wikipedia</a></li>
 <li> 09:15 <a href="https://en.wikipedia.org/wiki/Sundance_Film_Festival">Sundance Film Festival - Wikipedia</a></li>
 <li> 09:15 duckduckgo.com</li>
@@ -21514,7 +21527,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:34 herts.instructure.com</li>
 <li> 07:32 <a href="https://www.theguardian.com/politics/2025/sep/17/france-proposes-ceiling-on-value-of-uk-components-in-eu-defence-fund">France proposes ceiling on value of UK components in €150bn EU defence fund | Defence policy | The Guardian</a></li>
 <li> 07:31 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:31 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:31 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:30 www.reddit.com</li>
 <li> 07:28 thetab.com</li>
 <li> 07:28 www.reddit.com</li>
@@ -21650,7 +21663,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:43 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<ul><li> 14:43 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -21859,7 +21872,7 @@ With number of accesses/minutes in parentheses
 <li> 15:53 outlook.office365.com</li>
 <li> 15:47 <a href="https://www.theguardian.com/tv-and-radio/2025/sep/15/forget-adolescence-this-is-the-real-victory-the-biggest-shocks-from-the-emmy-awards">‘Forget Adolescence – this is the real victory!’ The biggest shocks from the Emmy awards | Emmys | The Guardian</a></li>
 <li> 15:46 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:46 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:46 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:46 outlook.office365.com</li>
 <li class='same'> 15:45 outlook.office365.com</li>
 <li> 15:42 www.royalholloway.ac.uk</li>
@@ -21888,11 +21901,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:13 www.buzzfeed.com</li>
 <li class='same'> 15:12 www.buzzfeed.com</li>
 <li> 15:12 feedly.com</li>
-<li> 15:11 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:11 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:11 www.foxnews.com</li>
 <li> 15:09 <a href="https://www.theguardian.com/sport/2025/sep/15/cycling-teams-could-boycott-races-israel-premier-tech-vuelta-a-espana">Cycling teams could boycott races involving Israel-Premier Tech after Vuelta chaos | Cycling | The Guardian</a></li>
 <li> 15:09 <a href="https://www.theguardian.com/sport/2025/sep/15/ricky-hatton-family-speak-immeasurable-sense-of-loss-after-boxer-shock-death">Ricky Hatton’s family tell of their ‘immeasurable’ loss after boxer’s death | Ricky Hatton | The Guardian</a></li>
-<li> 15:08 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:08 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:08 www.reddit.com</li>
 <li class='same'> 15:07 www.reddit.com</li>
 <li> 15:07 www.linkedin.com</li>
@@ -21904,7 +21917,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:10 feedly.com</li>
-<li> 13:10 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:10 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:09 www.reddit.com</li>
 <li class='same'> 13:08 www.reddit.com</li>
 <li class='same'> 13:07 www.reddit.com</li>
@@ -21925,7 +21938,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:40 www.reddit.com</li>
 <li class='same'> 12:37 www.reddit.com</li>
 <li class='same'> 12:36 www.reddit.com</li>
-<li> 12:36 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:36 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:24 mail.google.com</li>
 <li class='same'> 12:22 mail.google.com</li>
 <li class='same'> 12:21 mail.google.com</li>
@@ -21936,7 +21949,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:17 challengeworks.org</li>
 <li> 12:16 mail.google.com</li>
 <li> 12:15 <a href="https://www.theguardian.com/us-news/2025/sep/15/channel-4-donald-trump-uk-state-visit-reel-of-untruths">Channel 4 to mark Trump’s UK visit with ‘longest uninterrupted reel of untruths’ | Donald Trump | The Guardian</a></li>
-<li> 12:14 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:14 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:14 mail.google.com</li>
 <li> 12:14 gmail.com</li>
 <li> 12:11 www.reddit.com</li>
@@ -22171,14 +22184,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:21 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<ul><li> 18:21 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li> 15:39 www.reddit.com</li>
 <li> 15:38 <a href="https://www.theguardian.com/business/2025/sep/13/thames-water-paid-1m-plus-to-corporate-spooks-firm-part-owned-by-starmer-adviser">Thames Water paid £1m-plus to corporate spooks firm part-owned by Starmer adviser | Thames Water | The Guardian</a></li>
-<li> 15:37 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:37 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:36 <a href="https://www.theguardian.com/uk-news/2025/sep/13/sharon-hodgson-mp-office-arson-man-admits-starting-fire">Man admits starting fire that destroyed Labour MP Sharon Hodgson’s office | England | The Guardian</a></li>
 <li> 15:34 <a href="https://www.theguardian.com/us-news/2025/sep/13/charlie-kirk-shooting-people-fired-social-media">Several people fired after clampdown on speech over Charlie Kirk shooting | Charlie Kirk shooting | The Guardian</a></li>
 <li> 15:28 <a href="https://www.theguardian.com/politics/live/2025/sep/13/uk-politics-latest-news-unite-the-kingdom-march-far-right-rally-london-labour-keir-starmer">Police say 110,000 attending ‘unite the kingdom’ rally in London, with some in crowd attacking officers – UK politics live</a></li>
@@ -25411,12 +25424,12 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:19 www.linkedin.com</li>
 <li> 08:18 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:18 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:18 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:17 <a href="https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka">Japan has opened its first osmotic power plant – so what is it and how does it work? | Japan | The Guardian</a></li>
 <li> 08:16 <a href="https://www.theguardian.com/us-news/2025/aug/25/epstein-accuser-virginia-giuffres-memoir-to-be-published-posthumously">Epstein accuser Virginia Giuffre’s memoir to be published posthumously | Jeffrey Epstein | The Guardian</a></li>
 <li> 08:16 adblockplus.org</li>
 <li> 08:16 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:16 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:16 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -25433,9 +25446,9 @@ With number of accesses/minutes in parentheses
 <li> 06:38 mail.google.com</li>
 <li> 06:38 gmail.com</li>
 <li> 06:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:35 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:35 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:35 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:35 www.linkedin.com</li>
 <li> 06:35 www.reddit.com</li>
 <li class='same'> 06:34 www.reddit.com</li>
@@ -25555,7 +25568,7 @@ With number of accesses/minutes in parentheses
 <li> 06:24 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 06:24 <a href="https://www.theguardian.com/culture/2025/aug/23/womens-groups-hail-noel-clarke-libel-defeat-as-victory-for-victims-and-press-freedom">Women’s groups hail Noel Clarke libel defeat as victory for victims and press freedom | Noel Clarke | The Guardian</a></li>
 <li> 06:24 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:24 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:24 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:24 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 </ul>
 
@@ -25681,7 +25694,7 @@ With number of accesses/minutes in parentheses
 <li> 06:50 www.reddit.com</li>
 <li class='same'> 06:48 www.reddit.com</li>
 <li> 06:45 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:45 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:45 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <H3>Friday, 22/08/25</H3>
@@ -25704,11 +25717,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:40 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:40 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:40 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:38 <a href="https://www.theguardian.com/film/2025/aug/22/the-thursday-club-review-richard-osman-bestseller-provides-solid-star-stuffed-entertainment">The Thursday Murder Club review – Richard Osman bestseller provides solid, star-stuffed entertainment | Film | The Guardian</a></li>
 <li> 14:37 <a href="https://www.theguardian.com/books/2025/aug/22/children-and-teens-roundup-the-best-new-picture-books-and-novels">Children and teens roundup – the best new picture books and novels | Teen books | The Guardian</a></li>
 <li> 14:37 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:37 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:37 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:30 <a href="https://www.theguardian.com/media/2025/aug/22/noel-clarke-claimed-he-was-a-victim-twenty-six-witnesses-painted-a-very-different-picture">Noel Clarke claimed he was a victim. Twenty-six witnesses painted a very different picture | The Guardian | The Guardian</a></li>
 <li> 14:30 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 14:29 www.amazon.co.uk</li>
@@ -25754,7 +25767,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:46 <a href="https://www.theguardian.com/film/2025/aug/22/love-is-great-but-then-one-of-you-will-be-dog-tired-and-doing-the-bins-benedict-cumberbatch-and-olivia-colman-on-how-to-survive-a-marriage">‘Love is great. But then one of you will be dog-tired and doing the bins’: Benedict Cumberbatch and Olivia Colman on how to survive a marriage | Film | The Guardian</a></li>
 <li> 07:45 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:45 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:45 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:38 <a href="https://www.youtube.com/watch?v=Db5TwCBnr38&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=69">(741) GCSE Maths: N2-45 [Examples of Adding Fractions with different Denominators] - YouTube</a></li>
 <li> 07:32 <a href="https://www.youtube.com/watch?v=UgnDCTKTIjI&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=68&t=145s">(729) GCSE Maths: N2-44 [Adding Fractions with different Denominators] - YouTube</a></li>
 <li> 07:32 <a href="https://www.youtube.com/playlist?list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG">(729) TEACHING GCSE Maths - YouTube</a></li>
@@ -25793,7 +25806,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:33 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<ul><li> 19:33 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -25821,7 +25834,7 @@ With number of accesses/minutes in parentheses
 <li> 15:04 kripken.github.io</li>
 <li class='same'> 15:03 kripken.github.io</li>
 <li> 14:34 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:34 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:34 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:34 outlook.office365.com</li>
 <li class='same'> 14:33 outlook.office365.com</li>
 </ul>
@@ -25884,7 +25897,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:46 www.reddit.com</li>
 <li class='same'> 08:45 www.reddit.com</li>
 <li> 08:44 feedly.com</li>
-<li> 08:31 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:31 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:30 <a href="https://www.theguardian.com/us-news/2025/aug/20/jd-vance-heckled-washington-dc">JD Vance booed during hamburger handout to national guard troops in DC | JD Vance | The Guardian</a></li>
 <li> 08:29 <a href="https://www.theguardian.com/film/2025/aug/21/husband-affair-chinas-mistress-dispeller">If your husband’s having an affair, this woman will get rid of her: the gripping film about China’s ‘mistress dispellers’ | Film | The Guardian</a></li>
 </ul>
@@ -25982,7 +25995,7 @@ With number of accesses/minutes in parentheses
 <li> 12:03 <a href="https://www.theguardian.com/world/2025/aug/20/new-zealand-fugitive-tom-phillips-children-hiding-nearly-four-years">Family of New Zealand fugitive on the run for almost four years with his children plead for his return | New Zealand | The Guardian</a></li>
 <li> 12:02 <a href="https://www.theguardian.com/business/nils-pratley-on-finance/2025/aug/19/asda-is-still-misfiring-in-supermarkets-non-existent-price-war">Asda is still misfiring in supermarkets’ non-existent price war | Nils Pratley | The Guardian</a></li>
 <li> 11:59 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:59 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:59 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:46 www.reddit.com</li>
 <li class='same'> 11:45 www.reddit.com</li>
 <li> 11:44 feedly.com</li>
@@ -25990,10 +26003,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:42 www.linkedin.com</li>
 <li class='same'> 11:41 www.linkedin.com</li>
 <li> 11:41 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:41 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:41 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:41 <a href="https://www.theguardian.com/world/2025/aug/20/trans-people-us-data">More than 2.8m people in US identify as trans, including 724,000 youth, data shows | LGBTQ+ rights | The Guardian</a></li>
 <li> 11:40 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:40 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:40 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:39 www.reddit.com</li>
 <li class='same'> 11:38 www.reddit.com</li>
 <li> 11:38 mail.google.com</li>
@@ -26013,7 +26026,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:39 www.linkedin.com</li>
 <li> 09:38 <a href="https://www.theguardian.com/lifeandstyle/2025/aug/20/a-moment-that-changed-me-i-slipped-in-the-shower-realised-i-was-exhausted-and-transformed-my-life">A moment that changed me: I slipped in the shower, realised I was exhausted – and transformed my life | Health | The Guardian</a></li>
 <li> 09:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:37 outlook.office.com</li>
 <li> 09:36 www.reddit.com</li>
 <li class='same'> 09:34 www.reddit.com</li>
@@ -26033,7 +26046,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:24 www.vice.com</li>
 <li> 08:24 www.nationalgeographic.com</li>
 <li> 08:22 <a href="https://www.theguardian.com/film/2025/aug/19/kevin-costner-lawsuit-horizon-stunt-performer?utm_source=firefox-newtab-en-gb">Kevin Costner calls lawsuit over on-set rape scene a ‘bold-faced lie’ | Kevin Costner | The Guardian</a></li>
-<li> 08:22 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:22 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:20 <a href="https://www.theguardian.com/football/2025/aug/20/can-any-club-match-liverpool-top-eight-finishes-the-knowledge">Can any club match Liverpool’s impressive run of top-eight finishes? | Football | The Guardian</a></li>
 <li> 08:19 www.reddit.com</li>
 <li class='same'> 08:18 www.reddit.com</li>
@@ -26077,7 +26090,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:27 www.reddit.com</li>
 <li> 16:27 <a href="https://www.theguardian.com/uk-news/2025/aug/19/high-court-judge-orders-closure-of-essex-asylum-hotel-after-far-right-protests">Epping council wins high court bid to stop hotel housing asylum seekers | Immigration and asylum | The Guardian</a></li>
 <li> 16:27 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:27 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:27 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:24 www.reddit.com</li>
 <li class='same'> 16:21 www.reddit.com</li>
 <li class='same'> 16:19 www.reddit.com</li>
@@ -26102,7 +26115,7 @@ With number of accesses/minutes in parentheses
 <li> 15:38 www.linkedin.com</li>
 <li> 15:17 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/19/great-british-bake-off-meet-the-contestants">From a ‘Yeastie Boy’ to the ultimate fairytale contestant: meet the stars of the 2025 Great British Bake Off | Television | The Guardian</a></li>
 <li> 15:17 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:17 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:17 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:15 outlook.office.com</li>
 <li> 15:15 m365.cloud.microsoft</li>
 <li> 15:15 login.microsoftonline.com</li>
@@ -26185,7 +26198,7 @@ With number of accesses/minutes in parentheses
 <li> 11:56 duckduckgo.com</li>
 <li> 11:56 <a href="https://www.theguardian.com/environment/2025/aug/18/feargal-sharkey-accuses-environment-agency-of-illegally-draining-river-lea-court-action-threat-abstraction-fishing-club">Feargal Sharkey accuses Environment Agency of illegally draining River Lea | Environment Agency | The Guardian</a></li>
 <li> 11:54 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:54 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:54 docs.google.com</li>
 <li> 11:54 duckduckgo.com</li>
 <li class='same'> 11:53 duckduckgo.com</li>
@@ -26222,7 +26235,7 @@ With number of accesses/minutes in parentheses
 <li> 10:35 duckduckgo.com</li>
 <li> 10:30 outlook.office.com</li>
 <li> 10:25 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:25 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:25 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:25 outlook.office.com</li>
 <li> 10:25 m365.cloud.microsoft</li>
 <li> 10:25 login.microsoftonline.com</li>
@@ -26245,7 +26258,7 @@ With number of accesses/minutes in parentheses
 <li> 07:43 chat.openai.com</li>
 <li> 07:40 feedly.com</li>
 <li> 07:26 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:26 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:26 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:24 www.reddit.com</li>
 <li class='same'> 07:23 www.reddit.com</li>
 <li> 07:22 www.linkedin.com</li>
@@ -26323,7 +26336,7 @@ With number of accesses/minutes in parentheses
 <li> 13:13 www.reddit.com</li>
 <li class='same'> 13:12 www.reddit.com</li>
 <li> 13:12 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:12 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:12 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:11 outlook.office365.com</li>
 <li class='same'> 13:10 outlook.office365.com</li>
 </ul>
@@ -26333,7 +26346,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:32 calendar.google.com</li>
 <li> 12:30 www.linkedin.com</li>
 <li> 12:28 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 12:28 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:28 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:25 calendar.google.com</li>
 <li class='same'> 12:24 calendar.google.com</li>
 <li class='same'> 12:23 calendar.google.com</li>
@@ -26348,7 +26361,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:44 www.linkedin.com</li>
 <li class='same'> 11:43 www.linkedin.com</li>
 <li> 11:29 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:29 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:29 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:27 outlook.office365.com</li>
 <li> 11:27 jobs.royalholloway.ac.uk</li>
 <li class='same'> 11:26 jobs.royalholloway.ac.uk</li>
@@ -26388,7 +26401,7 @@ With number of accesses/minutes in parentheses
 <li> 10:02 duckduckgo.com</li>
 <li> 09:51 <a href="https://www.theguardian.com/books/2025/aug/18/skibidi-delulu-and-tradwife-among-words-added-to-cambridge-dictionary">‘Skibidi’, ‘delulu’ and ‘tradwife’ among words added to Cambridge Dictionary | Books | The Guardian</a></li>
 <li> 09:51 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:51 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:50 mail.google.com</li>
 <li> 09:50 appealpcn.co.uk</li>
 <li> 09:48 mail.google.com</li>
@@ -26402,7 +26415,7 @@ With number of accesses/minutes in parentheses
 <li> 09:39 gmail.com</li>
 <li> 09:39 <a href="https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis">‘Shut it down and start again’: staff disquiet as Alan Turing Institute faces identity crisis | Artificial intelligence (AI) | The Guardian</a></li>
 <li> 09:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:36 www.amazon.co.uk</li>
 <li class='same'> 09:35 www.amazon.co.uk</li>
 <li class='same'> 09:34 www.amazon.co.uk</li>
@@ -26439,7 +26452,7 @@ With number of accesses/minutes in parentheses
 <li> 08:24 outlook.office365.com</li>
 <li> 08:22 outlook.office.com</li>
 <li> 08:17 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:17 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:17 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:15 web.whatsapp.com</li>
 <li> 08:15 outlook.office.com</li>
 <li> 08:10 herts365-my.sharepoint.com</li>
@@ -26490,7 +26503,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:11 <a href="https://www.theguardian.com/us-news/2025/aug/16/west-virginia-national-guard-troops-dc-trump">Three states to deploy hundreds of national guard troops to Washington DC | Trump administration | The Guardian</a></li>
 <li> 13:09 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:09 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:09 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:09 adblockplus.org</li>
 <li> 13:08 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 </ul>
@@ -26650,7 +26663,7 @@ With number of accesses/minutes in parentheses
 <li> 14:34 mail.google.com</li>
 <li class='same'> 14:33 mail.google.com</li>
 <li> 14:32 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:32 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:32 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:31 www.thetimes.com</li>
 <li> 14:30 <a href="https://www.theguardian.com/commentisfree/2025/aug/14/university-teenagers-student-debt-graduate-britain">As thousands more teenagers scramble for university places, I have to ask – why? | Simon Jenkins | The Guardian</a></li>
 <li> 14:29 <a href="https://www.theguardian.com/books/2025/apr/23/luminous-by-silvia-park-review-a-major-new-voice-in-sf">Luminous by Silvia Park review – a major new voice in SF | Science fiction books | The Guardian</a></li>
@@ -26770,7 +26783,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:04 herts.instructure.com</li>
 <li> 11:04 outlook.office.com</li>
 <li> 11:03 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:03 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:03 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:01 outlook.office.com</li>
 <li> 10:55 herts.instructure.com</li>
 <li> 10:55 calendar.google.com</li>
@@ -26827,7 +26840,7 @@ With number of accesses/minutes in parentheses
 <li> 09:50 api-b6327e78.duosecurity.com</li>
 <li> 09:50 adfs.herts.ac.uk</li>
 <li> 09:50 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:50 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:50 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -26886,7 +26899,7 @@ With number of accesses/minutes in parentheses
 <li> 06:30 www.russellgroup.ac.uk</li>
 <li> 06:23 outlook.office365.com</li>
 <li> 06:22 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:22 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:22 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:22 api-b6327e78.duosecurity.com</li>
 <li> 06:22 adfs.herts.ac.uk</li>
 <li> 06:20 rhul.sharepoint.com</li>
@@ -26930,9 +26943,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 12:11 <a href="https://www.theguardian.com/uk-news/2025/aug/14/southport-victim-reveal-ethnicity-suspects-farage">Family of Southport stabbing victim criticise plan to reveal ethnicity of suspects | UK news | The Guardian</a></li>
-<li> 12:11 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:11 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:11 <a href="https://www.theguardian.com/uk-news/2025/aug/14/southport-victim-reveal-ethnicity-suspects-farage">Family of Southport stabbing victim criticise plan to reveal ethnicity of suspects | UK news | The Guardian</a></li>
-<li> 12:11 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:11 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:11 <a href="https://www.theguardian.com/uk-news/2025/aug/14/southport-victim-reveal-ethnicity-suspects-farage">Family of Southport stabbing victim criticise plan to reveal ethnicity of suspects | UK news | The Guardian</a></li>
 </ul>
 
@@ -26970,7 +26983,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 13:51 <a href="https://www.theguardian.com/money/2025/aug/13/inheritance-tax-how-does-it-work-and-what-may-be-changing">Inheritance tax: how does it work and what may be changing? | Inheritance tax | The Guardian</a></li>
 <li> 13:51 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:50 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:50 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:50 <a href="https://www.theguardian.com/law/2025/aug/13/trump-administration-accuses-uk-of-failing-to-uphold-human-rights">Trump administration accuses UK of failing to uphold human rights | Trump administration | The Guardian</a></li>
 <li class='same'> 13:31 <a href="https://www.theguardian.com/law/2025/aug/13/trump-administration-accuses-uk-of-failing-to-uphold-human-rights">Trump administration accuses UK of failing to uphold human rights | Trump administration | The Guardian</a></li>
 <li> 13:31 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
@@ -27056,7 +27069,7 @@ With number of accesses/minutes in parentheses
 <li> 08:53 www.reddit.com</li>
 <li> 08:52 <a href="https://www.theguardian.com/education/2025/aug/11/a-level-results-in-england-expected-to-return-to-near-pre-pandemic-levels">A-level results in England expected to return to near pre-pandemic levels | A-levels | The Guardian</a></li>
 <li> 08:52 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:52 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:44 www.reddit.com</li>
 <li class='same'> 08:43 www.reddit.com</li>
 <li class='same'> 08:41 www.reddit.com</li>
@@ -27081,7 +27094,7 @@ With number of accesses/minutes in parentheses
 <li> 06:49 forms.office.com</li>
 <li> 06:49 moodle.royalholloway.ac.uk</li>
 <li> 06:49 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:49 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:49 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:49 login.microsoftonline.com</li>
 <li> 06:49 moodle.royalholloway.ac.uk</li>
 <li class='same'> 06:48 moodle.royalholloway.ac.uk</li>
@@ -27101,7 +27114,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:20 <a href="https://www.theguardian.com/commentisfree/2025/aug/10/you-can-mute-but-you-can-never-leave-why-have-whatsapp-groups-become-so-stressful">You can mute – but you can never leave. Why have WhatsApp groups become so stressful? | Polly Hudson | The Guardian</a></li>
-<li> 14:20 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:20 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -27135,7 +27148,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:30 feedly.com</li>
 <li> 08:30 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:30 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:30 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:26 www.linkedin.com</li>
 <li class='same'> 08:25 www.linkedin.com</li>
 <li> 08:05 duckduckgo.com</li>
@@ -27146,7 +27159,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:09 rhul-my.sharepoint.com</li>
 <li class='same'> 07:08 rhul-my.sharepoint.com</li>
 <li> 07:01 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:01 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:01 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:59 mail.google.com</li>
 </ul>
 
@@ -27195,7 +27208,7 @@ With number of accesses/minutes in parentheses
 <li> 07:46 outlook.office.com</li>
 <li> 07:45 <a href="https://www.theguardian.com/politics/2025/aug/07/uk-homelessness-minister-rushanara-ali-faces-calls-to-resign-over-tenant-eviction-claims">UK homelessness minister resigns after tenant eviction claims | Labour | The Guardian</a></li>
 <li> 07:45 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:45 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:45 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:44 outlook.office365.com</li>
 <li> 07:44 outlook.office.com</li>
 <li class='same'> 07:43 outlook.office.com</li>
@@ -27239,7 +27252,7 @@ With number of accesses/minutes in parentheses
 <li> 06:19 moodle.royalholloway.ac.uk</li>
 <li> 06:17 <a href="https://www.theguardian.com/us-news/2025/aug/07/disney-settles-gina-carano-elon-musk">Disney settles with Gina Carano in lawsuit backed by Elon Musk | US news | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:17 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:17 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <H3>Thursday, 07/08/25</H3>
@@ -27272,7 +27285,7 @@ With number of accesses/minutes in parentheses
 <li> 18:26 moodle.royalholloway.ac.uk</li>
 <li> 18:25 outlook.office365.com</li>
 <li> 18:03 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:03 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:03 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:03 <a href="https://www.theguardian.com/us-news/2025/jul/27/epstein-trump-murdoch-wsj-fox-news">Has the Epstein affair strained Trump’s cozy relationship with the Murdoch media empire? | Donald Trump | The Guardian</a></li>
 <li> 18:01 www.lutongymnastics.co.uk</li>
 <li> 18:01 www.google.com</li>
@@ -27371,7 +27384,7 @@ With number of accesses/minutes in parentheses
 <li> 11:41 adfs.herts.ac.uk</li>
 <li> 11:38 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/07/former-superman-actor-dean-cain-reveals-hes-becoming-an-ice-agent-to-support-trumps-mass-deportation-agenda">Former Superman actor Dean Cain reveals he’s becoming an Ice agent to support Trump’s mass deportation agenda | Television | The Guardian</a></li>
 <li> 11:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:38 forms.office.com</li>
 <li class='same'> 11:37 forms.office.com</li>
 <li class='same'> 11:36 forms.office.com</li>
@@ -27399,7 +27412,7 @@ With number of accesses/minutes in parentheses
 <li> 11:14 www.linkedin.com</li>
 <li class='same'> 11:13 www.linkedin.com</li>
 <li> 11:13 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:12 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:12 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:12 outlook.office365.com</li>
 <li> 11:11 forms.office.com</li>
 <li> 11:11 rhul-my.sharepoint.com</li>
@@ -27543,7 +27556,7 @@ With number of accesses/minutes in parentheses
 <li> 15:39 <a href="https://www.bbc.co.uk/news/articles/c1dxr1g4y7yo">Trump hits India with extra 25% tariff for buying Russian oil - BBC News</a></li>
 <li> 15:38 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 15:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:37 ce0997li.webitrent.com</li>
 <li> 15:37 login.microsoftonline.com</li>
 <li> 15:37 ce0997li.webitrent.com</li>
@@ -27569,13 +27582,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:07 www.reddit.com</li>
 <li class='same'> 15:06 www.reddit.com</li>
 <li> 15:06 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:06 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:06 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:06 <a href="https://www.theguardian.com/business/2025/aug/06/sales-of-novo-nordisk-diabetes-drugs-including-ozempic-slow-sharply">Sales of Novo Nordisk’s diabetes drugs including Ozempic slow sharply | Pharmaceuticals industry | The Guardian</a></li>
 <li> 15:05 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:05 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:05 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:05 <a href="https://www.theguardian.com/us-news/2025/aug/05/rfk-jr-hhs-mrna-vaccine-research">RFK Jr’s health department to halt $500m in mRNA vaccine research | Trump administration | The Guardian</a></li>
 <li> 15:04 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:04 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:04 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:57 mail.google.com</li>
 <li> 14:57 calendar.google.com</li>
 <li> 14:57 mail.google.com</li>
@@ -27693,11 +27706,11 @@ With number of accesses/minutes in parentheses
 <li> 07:38 gmail.com</li>
 <li> 07:34 <a href="https://www.theguardian.com/commentisfree/2025/aug/05/how-did-john-oliver-become-the-moral-compass-of-the-us">How did John Oliver become the moral compass of the US? | Arwa Mahdawi | The Guardian</a></li>
 <li> 07:33 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:33 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:33 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:31 <a href="https://www.theguardian.com/us-news/2025/aug/05/jeffrey-epstein-letters-photos">Epstein scandal broadens as trove of letters from famous figures published | Jeffrey Epstein | The Guardian</a></li>
 <li> 07:30 <a href="https://www.theguardian.com/uk-news/2025/aug/06/prince-harry-among-those-criticised-in-report-on-dispute-at-sentebale-charity">Prince Harry among those criticised in report on dispute at Sentebale charity | Prince Harry | The Guardian</a></li>
 <li> 07:30 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:30 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:30 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:25 feedly.com</li>
 <li> 07:24 www.linkedin.com</li>
 <li> 07:10 warhammer40k.fandom.com</li>
@@ -27725,13 +27738,13 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:44 <a href="https://www.theguardian.com/commentisfree/2025/aug/05/sydney-sweeney-jeans-bathwater-controversy-showbiz">Jeans, controversy, used bathwater: Sydney Sweeney’s selling it all. A showbiz masterclass, if you ask me | Marina Hyde | The Guardian</a></li>
 <li> 16:43 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:43 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:43 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:43 calendar.google.com</li>
 <li> 16:42 mail.google.com</li>
 <li> 16:41 thegalleria.co.uk</li>
 <li> 16:41 duckduckgo.com</li>
 <li> 16:37 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:37 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:37 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:35 herts365-my.sharepoint.com</li>
 <li> 16:34 www.nhs.uk</li>
 <li> 16:34 duckduckgo.com</li>
@@ -27854,7 +27867,7 @@ With number of accesses/minutes in parentheses
 <li> 09:13 www.reddit.com</li>
 <li class='same'> 09:00 www.reddit.com</li>
 <li> 08:59 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:59 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:59 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:54 www.linkedin.com</li>
 <li> 08:50 www.reddit.com</li>
 <li class='same'> 08:47 www.reddit.com</li>
@@ -27905,7 +27918,7 @@ With number of accesses/minutes in parentheses
 <li> 07:05 login.microsoftonline.com</li>
 <li> 07:05 herts365-my.sharepoint.com</li>
 <li> 06:41 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:41 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:41 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:40 www.linkedin.com</li>
 <li> 06:39 www.reddit.com</li>
 <li class='same'> 06:37 www.reddit.com</li>
@@ -27913,7 +27926,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:35 www.linkedin.com</li>
 <li> 06:33 adblockplus.org</li>
 <li> 06:33 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:33 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:33 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:33 www.amazon.co.uk</li>
 <li class='same'> 06:32 www.amazon.co.uk</li>
 </ul>
@@ -27961,7 +27974,7 @@ With number of accesses/minutes in parentheses
 <li> 15:48 <a href="https://www.theguardian.com/world/2025/aug/04/rescued-british-hiker-billed-14225-for-ignoring-rockslide-signs-in-dolomites">Rescued British hiker billed €14,225 for ignoring rockslide signs in Dolomites | Italy | The Guardian</a></li>
 <li> 15:45 <a href="https://www.theguardian.com/tv-and-radio/2025/aug/04/from-emily-in-friends-to-che-diaz-the-tv-characters-so-bad-that-they-ruined-shows">From Emily in Friends to Che Diaz: the TV characters so bad that they ruined shows | Television | The Guardian</a></li>
 <li> 15:44 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:44 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:44 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:41 feedly.com</li>
 <li> 15:22 www.reddit.com</li>
 <li class='same'> 15:14 www.reddit.com</li>
@@ -28070,7 +28083,7 @@ With number of accesses/minutes in parentheses
 <li> 08:24 www.linkedin.com</li>
 <li> 08:19 www.google.com</li>
 <li> 08:17 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:17 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:17 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:17 <a href="https://www.theguardian.com/world/2025/aug/02/schwuz-berlin-germany-oldest-biggest-gay-nightclub-declares-bankruptcy">Germany’s ‘oldest and biggest’ gay nightclub declares bankruptcy | Germany | The Guardian</a></li>
 </ul>
 
@@ -28137,10 +28150,10 @@ With number of accesses/minutes in parentheses
 <li> 21:51 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 21:51 www.linkedin.com</li>
 <li> 21:51 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 21:51 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 21:50 <a href="https://www.theguardian.com/uk-news/2025/aug/03/prince-harry-denies-giving-prince-andrew-bloody-nose-at-family-gathering">Prince Harry denies giving Prince Andrew bloody nose at family gathering | Monarchy | The Guardian</a></li>
 <li> 21:49 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 21:49 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:49 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 21:49 www.reddit.com</li>
 <li class='same'> 21:48 www.reddit.com</li>
 <li class='same'> 21:47 www.reddit.com</li>
@@ -28210,7 +28223,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:58 www.reddit.com</li>
 <li class='same'> 12:53 www.reddit.com</li>
 <li> 12:52 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 12:52 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:52 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:45 www.reddit.com</li>
 <li class='same'> 12:44 www.reddit.com</li>
 <li class='same'> 12:29 www.reddit.com</li>
@@ -28266,7 +28279,7 @@ With number of accesses/minutes in parentheses
 <li> 07:40 www.reddit.com</li>
 <li> 07:39 feedly.com</li>
 <li> 07:33 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:33 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:33 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:07 www.linkedin.com</li>
 <li class='same'> 07:06 www.linkedin.com</li>
 </ul>
@@ -28280,9 +28293,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 22:18 <a href="https://www.theguardian.com/world/2025/aug/02/schwuz-berlin-germany-oldest-biggest-gay-nightclub-declares-bankruptcy">Germany’s ‘oldest and biggest’ gay nightclub declares bankruptcy | Germany | The Guardian</a></li>
-<li> 22:16 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 22:16 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 22:16 <a href="https://www.theguardian.com/thefilter/2025/aug/02/best-supermarket-salted-crisps-taste-test-felicity-cloake">‘Serve me these with an aperitivo immediately’: the best supermarket salted crisps, rated by Felicity Cloake | Snacks | The Guardian</a></li>
-<li> 22:16 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 22:16 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 22:16 <a href="https://www.theguardian.com/football/2025/aug/02/the-soundtrack-of-the-womens-euros-was-happiness-and-some-men-cant-cope">The soundtrack of the women’s Euros was happiness … and some men can’t cope | England women's football team | The Guardian</a></li>
 <li> 22:15 www.reddit.com</li>
 <li> 22:00 www.linkedin.com</li>
@@ -28334,7 +28347,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:30 outlook.office.com</li>
 <li> 17:22 docs.google.com</li>
 <li> 17:14 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:14 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:14 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:14 drive.google.com</li>
 <li> 17:11 www.linkedin.com</li>
 <li> 17:11 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
@@ -28391,10 +28404,10 @@ With number of accesses/minutes in parentheses
 <li> 15:24 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 15:22 <a href="https://www.theguardian.com/music/2025/aug/01/tyler-ballgame-music-interview-new-car-help-me-out-sarah">US singer-songwriter Tyler Ballgame: ‘It shocked me out of depression. I had this spiritual awakening’ | Music | The Guardian</a></li>
 <li> 15:21 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:21 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:21 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:18 <a href="https://www.theguardian.com/technology/2025/aug/02/airbnb-guest-damage-claim-refund-photos">Airbnb guest says images were altered in false £12,000 damage claim | Airbnb | The Guardian</a></li>
 <li> 15:18 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:18 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:18 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:16 www.linkedin.com</li>
 <li class='same'> 15:15 www.linkedin.com</li>
 </ul>
@@ -28419,7 +28432,7 @@ With number of accesses/minutes in parentheses
 <li> 13:50 chat.openai.com</li>
 <li> 13:45 www.linkedin.com</li>
 <li> 13:42 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:42 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:42 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:40 tvtropes.org</li>
 <li> 13:38 www.linkedin.com</li>
 <li class='same'> 13:37 www.linkedin.com</li>
@@ -28555,7 +28568,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:37 tvtropes.org</li>
 <li> 17:37 duckduckgo.com</li>
 <li> 17:37 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:37 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:37 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:36 www.reddit.com</li>
 <li class='same'> 17:34 www.reddit.com</li>
 <li class='same'> 17:28 www.reddit.com</li>
@@ -28567,7 +28580,7 @@ With number of accesses/minutes in parentheses
 <li> 17:23 www.linkedin.com</li>
 <li class='same'> 17:22 www.linkedin.com</li>
 <li> 17:20 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:20 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:20 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -28597,10 +28610,10 @@ With number of accesses/minutes in parentheses
 <li> 11:28 www.linkedin.com</li>
 <li> 11:27 www.facebook.com</li>
 <li> 11:27 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:27 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:27 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:26 <a href="https://www.theguardian.com/education/2025/aug/01/china-backed-centres-at-uk-universities-under-threat-from-new-free-speech-laws">China-backed centres at UK universities under threat from new free speech laws | Higher education | The Guardian</a></li>
 <li> 11:24 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:24 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:24 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:23 www.reddit.com</li>
 <li class='same'> 11:22 www.reddit.com</li>
 <li class='same'> 11:21 www.reddit.com</li>
@@ -28664,10 +28677,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 22:51 www.reddit.com</li>
 <li> 22:50 feedly.com</li>
 <li> 22:49 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 22:49 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 22:49 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 22:39 <a href="https://www.theguardian.com/society/2025/jul/31/mary-ann-stephenson-confirmed-as-ehrc-chair-despite-mps-objections">Mary-Ann Stephenson confirmed as EHRC chair despite MPs’ objections | Equality and Human Rights Commission (EHRC) | The Guardian</a></li>
 <li> 22:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 22:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 22:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 22:38 www.linkedin.com</li>
 <li class='same'> 22:30 www.linkedin.com</li>
 </ul>
@@ -28827,7 +28840,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:33 docs.google.com</li>
 <li> 17:33 drive.google.com</li>
 <li> 17:32 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:32 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:32 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:32 <a href="https://www.theguardian.com/football/2025/jul/30/everton-transfer-ownership-of-goodison-park-to-their-womens-team">Everton transfer ownership of Goodison Park to their women’s team | Everton Women | The Guardian</a></li>
 <li> 17:30 intranet.royalholloway.ac.uk</li>
 <li> 17:30 duckduckgo.com</li>
@@ -28839,15 +28852,15 @@ With number of accesses/minutes in parentheses
 <li> 17:20 sweeneysflorist.co.uk</li>
 <li> 17:19 duckduckgo.com</li>
 <li> 17:19 calendar.google.com</li>
-<li> 17:17 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:17 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:14 <a href="https://www.theguardian.com/football/2025/jul/30/everton-transfer-ownership-of-goodison-park-to-their-womens-team">Everton transfer ownership of Goodison Park to their women’s team | Everton Women | The Guardian</a></li>
 <li> 17:12 <a href="https://www.theguardian.com/film/2025/jul/30/the-naked-gun-review-liam-neeson-spoof-reboot">The Naked Gun review – Liam Neeson deadpans impeccably in outrageously amusing spoof reboot | Film | The Guardian</a></li>
-<li> 17:11 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:11 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
 
-<ul><li class='same'> 16:16 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<ul><li class='same'> 16:16 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:14 www.reddit.com</li>
 <li class='same'> 16:13 www.reddit.com</li>
 <li class='same'> 16:12 www.reddit.com</li>
@@ -28876,7 +28889,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 13:48 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 13:47 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:47 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:38 <a href="https://www.theguardian.com/film/2025/jul/30/superhero-movies-hits-dc-marvel-mistakes">Superhero movies are hits again – but can DC and Marvel avoid the same mistakes? | Superhero movies | The Guardian</a></li>
 <li> 13:37 tvtropes.org</li>
 </ul>
@@ -29037,7 +29050,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:37 outlook.office365.com</li>
 <li> 09:34 www.linkedin.com</li>
 <li> 09:33 outlook.office.com</li>
-<li> 09:32 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:32 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:30 www.reddit.com</li>
 <li class='same'> 09:27 www.reddit.com</li>
 <li class='same'> 09:26 www.reddit.com</li>
@@ -29046,7 +29059,7 @@ With number of accesses/minutes in parentheses
 <li> 09:23 outlook.office.com</li>
 <li class='same'> 08:59 outlook.office.com</li>
 <li> 08:52 www.foxnews.com</li>
-<li> 08:50 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:50 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:50 outlook.office.com</li>
 <li class='same'> 08:49 outlook.office.com</li>
 </ul>
@@ -29128,7 +29141,7 @@ With number of accesses/minutes in parentheses
 <li> 07:25 <a href="https://www.theguardian.com/football/2025/jul/29/lionesses-roar-england-fans-celebrate-euros-win-london">‘Lionesses hear the roar’: 65,000 England fans celebrate Euros win in London | England women's football team | The Guardian</a></li>
 <li> 07:25 calendar.google.com</li>
 <li> 07:25 mail.google.com</li>
-<li> 07:24 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:24 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:22 mail.google.com</li>
 <li class='same'> 07:21 mail.google.com</li>
 <li> 07:16 thebookerprizes.substack.com</li>
@@ -29282,11 +29295,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:45 www.reddit.com</li>
 <li> 19:43 <a href="https://www.theguardian.com/film/2025/jul/28/motherboard-mother-who-filmed-her-sons-entire-childhood">‘Mum, I can’t think straight any more’: the mother who filmed her son’s entire childhood | Film | The Guardian</a></li>
 <li> 19:42 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 19:42 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:42 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:41 <a href="https://www.theguardian.com/us-news/live/2025/jul/28/donald-trump-uk-prime-minister-keir-starmer-scotland-talks-trade-us-politics-latest-updates-news">Epstein confidante Ghislaine Maxwell urges supreme court to overturn her conviction – live</a></li>
 <li> 19:40 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 19:40 <a href="https://www.theguardian.com/sport/2025/jul/28/england-euro-2025-win-lionesses-what-the-papers-newspaper-front-pages">‘Roar of victory’: what the papers say about the Lionesses’ Euro win | Sport | The Guardian</a></li>
-<li> 19:40 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:40 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:40 ribena.co.uk</li>
 <li class='same'> 19:13 ribena.co.uk</li>
 <li> 19:13 <a href="https://www.theguardian.com/sport/2025/jul/28/england-euro-2025-win-lionesses-what-the-papers-newspaper-front-pages">‘Roar of victory’: what the papers say about the Lionesses’ Euro win | Sport | The Guardian</a></li>
@@ -29400,11 +29413,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:52 www.google.com</li>
-<li> 21:51 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 21:45 <a href="https://www.theguardian.com/news/ng-interactive/2025/jul/26/dodgy-guys-who-dress-just-like-him-meet-the-team-behind-far-right-activist-tommy-robinson">‘Dodgy guys who dress just like him’: meet the team behind far-right activist Tommy Robinson | Tommy Robinson | The Guardian</a></li>
-<li> 21:45 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:45 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 21:44 <a href="https://www.theguardian.com/uk-news/2025/jul/26/bishop-interrupts-church-concert-telling-choir-to-leave-due-to-late-hour">‘Terrible racket’: bishop in dressing gown shuts down London choir concert | London | The Guardian</a></li>
-<li> 21:44 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:44 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 21:44 <a href="https://www.theguardian.com/artanddesign/2025/jul/02/parque-prado-multi-storey-car-park-garden-paradise-colombia">The enchanted car park: how a ruined multistorey became a garden paradise loved by lizards and dog-walkers | Architecture | The Guardian</a></li>
 <li> 21:43 www.facebook.com</li>
 </ul>
@@ -29476,7 +29489,7 @@ With number of accesses/minutes in parentheses
 <li> 18:22 <a href="https://www.youtube.com/watch?v=GTQZyYGKKIM&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=39">(667) GCSE Maths: N2-15 [Examples of Subtraction with Decimals] - YouTube</a></li>
 <li> 18:19 <a href="https://www.youtube.com/watch?v=llji2WB410Y&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=38">(667) GCSE Maths: N2-14 [Method of Subtraction with Decimals] - YouTube</a></li>
 <li> 18:16 <a href="https://www.theguardian.com/sport/2025/jul/26/ray-french-bbc-rugby-league-commentator-dies-aged-85">Ray French, former BBC rugby league commentator, dies aged 85 | Rugby league | The Guardian</a></li>
-<li> 18:16 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:16 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:15 <a href="https://www.youtube.com/watch?v=b6l8pGneU6M&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=37">(667) GCSE Maths: N2-13 [Southampton vs Isle of Wight Population Problem] - YouTube</a></li>
 <li> 18:11 <a href="https://www.youtube.com/watch?v=-fkMWi8Wkeg&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=36">(667) GCSE Maths: N2-12 [Examples of Subtraction with Integers] - YouTube</a></li>
 <li> 18:10 <a href="https://www.youtube.com/watch?v=OXBGjVwB_wE&list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&index=35">(667) GCSE Maths: N2-11 [Method of Subtraction with Integers] - YouTube</a></li>
@@ -29528,7 +29541,7 @@ With number of accesses/minutes in parentheses
 <li> 07:52 duckduckgo.com</li>
 <li class='same'> 07:47 duckduckgo.com</li>
 <li class='same'> 07:46 duckduckgo.com</li>
-<li> 07:44 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:44 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:43 web.whatsapp.com</li>
 <li> 07:43 www.reddit.com</li>
 <li class='same'> 07:41 www.reddit.com</li>
@@ -29563,7 +29576,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:17 <a href="https://www.theguardian.com/world/2025/jul/25/gaza-students-scholarships-uk-universities-visa-obstacles">The Gaza students with scholarships to UK unable to take up their places | Israel-Gaza war | The Guardian</a></li>
-<li> 17:17 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:17 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:16 <a href="https://www.theguardian.com/world/2025/jul/25/russia-record-attacks-ukraine-struggles-defend-itself">The Shahed blitz: can Russian drone onslaught break Ukraine’s resolve? | Ukraine | The Guardian</a></li>
 </ul>
 
@@ -29615,11 +29628,11 @@ With number of accesses/minutes in parentheses
 <li> 10:26 kdp.amazon.com</li>
 <li> 10:25 www.google.com</li>
 <li> 10:24 <a href="https://www.theguardian.com/us-news/2025/jul/24/justice-department-obama-2016-election">Under-fire DoJ forms ‘strike force’ to investigate Obama amid Epstein scandal | Trump administration | The Guardian</a></li>
-<li> 10:23 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:23 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:11 chatgpt.com</li>
 <li> 10:11 chat.openai.com</li>
 <li> 10:06 <a href="https://www.theguardian.com/sport/2025/jul/25/formula-e-crossroads-spark-on-track-that-still-falls-flat">Formula E at crossroads with spark on track that still falls flat with the public | Formula E | The Guardian</a></li>
-<li> 10:05 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:05 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:54 www.reddit.com</li>
 <li class='same'> 09:53 www.reddit.com</li>
 <li class='same'> 09:52 www.reddit.com</li>
@@ -29643,7 +29656,7 @@ With number of accesses/minutes in parentheses
 <li> 09:07 www.foxnews.com</li>
 <li class='same'> 09:05 www.foxnews.com</li>
 <li> 09:03 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/25/were-terribly-sorry-south-park-creators-respond-with-humour-to-white-house-anger-over-naked-donald-trump">‘We’re terribly sorry’: South Park creators respond with humour to White House anger over naked Donald Trump | South Park | The Guardian</a></li>
-<li> 09:03 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:03 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:51 www.reddit.com</li>
 <li class='same'> 08:50 www.reddit.com</li>
 <li class='same'> 08:49 www.reddit.com</li>
@@ -29654,7 +29667,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:25 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<ul><li> 07:25 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:24 www.reddit.com</li>
 <li class='same'> 07:23 www.reddit.com</li>
 <li class='same'> 07:22 www.reddit.com</li>
@@ -29895,7 +29908,7 @@ With number of accesses/minutes in parentheses
 <li> 14:36 mail.google.com</li>
 <li> 14:36 gmail.com</li>
 <li> 14:35 <a href="https://www.theguardian.com/film/2025/jul/23/avatar-fire-and-ash-sent-pandora-james-cameron">Fire cults and burning banshees: has Avatar: Fire and Ash sent Pandora all the way to hell? | Film | The Guardian</a></li>
-<li> 14:33 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:33 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:33 outlook.office.com</li>
 </ul>
 
@@ -29910,7 +29923,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:51 www.linkedin.com</li>
 <li class='same'> 13:50 www.linkedin.com</li>
 <li> 13:49 rhul.sharepoint.com</li>
-<li> 13:49 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:49 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:49 herts.instructure.com</li>
 <li> 13:39 duckduckgo.com</li>
 <li> 13:39 www.sciencedirect.com</li>
@@ -30183,7 +30196,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:43 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<ul><li> 06:43 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:42 www.jobs.ac.uk</li>
 <li> 06:41 outlook.office.com</li>
 </ul>
@@ -30263,7 +30276,7 @@ With number of accesses/minutes in parentheses
 <li> 15:54 www.tinkercad.com</li>
 <li> 15:51 <a href="https://www.theguardian.com/business/2025/jul/22/mike-lynch-estate-hp-700m-court-autonomy-case">Mike Lynch’s estate and business partner owe HP £700m, court rules | Hewlett-Packard | The Guardian</a></li>
 <li> 15:50 <a href="https://www.theguardian.com/us-news/2025/jul/22/aoc-office-vandalized-nyc">AOC’s office vandalized after recent House vote involving US aid to Israel | Alexandria Ocasio-Cortez | The Guardian</a></li>
-<li> 15:49 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:49 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:47 outlook.office365.com</li>
 <li class='same'> 15:46 outlook.office365.com</li>
 <li> 15:41 forms.office.com</li>
@@ -30398,7 +30411,7 @@ With number of accesses/minutes in parentheses
 <li> 10:51 accounts.google.com</li>
 <li> 10:51 gmail.com</li>
 <li> 10:50 <a href="https://www.theguardian.com/stage/2025/jul/22/edinburgh-funniest-fringe-joke-award-scrapped-for-2025">Edinburgh funniest fringe joke award scrapped for 2025 | Edinburgh festival 2025 | The Guardian</a></li>
-<li> 10:50 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:50 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:49 t1b.gobright.cloud</li>
 <li class='same'> 10:48 t1b.gobright.cloud</li>
 <li class='same'> 10:47 t1b.gobright.cloud</li>
@@ -30450,7 +30463,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:32 www.reddit.com</li>
 <li class='same'> 07:31 www.reddit.com</li>
 <li> 07:02 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/21/mandy-review-diane-morgan-bbc-two-iplayer">Mandy review – I am fully converted to Diane Morgan’s genius | Television | The Guardian</a></li>
-<li> 07:01 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:01 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:58 www.linkedin.com</li>
 <li class='same'> 06:56 www.linkedin.com</li>
 <li> 06:54 herts.instructure.com</li>
@@ -30536,7 +30549,7 @@ With number of accesses/minutes in parentheses
 <li> 16:02 www.uolacademiccontractors.com</li>
 <li> 16:01 outlook.office365.com</li>
 <li> 16:00 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:00 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:00 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:00 outlook.office365.com</li>
 <li> 15:59 www.linkedin.com</li>
 <li class='same'> 15:58 www.linkedin.com</li>
@@ -30561,7 +30574,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:34 mail.google.com</li>
 <li> 15:34 gmail.com</li>
 <li> 15:33 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:33 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:33 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:31 jobs.royalholloway.ac.uk</li>
 <li> 15:30 www.giantitp.com</li>
 <li class='same'> 15:29 www.giantitp.com</li>
@@ -30698,7 +30711,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:06 www.linkedin.com</li>
 <li> 12:05 <a href="https://www.theguardian.com/business/2025/jul/21/ryanair-weighs-up-higher-bonus-paid-to-staff-intercepting-oversized-luggage">Ryanair weighs up increasing bonus to staff for intercepting oversized luggage | Ryanair | The Guardian</a></li>
 <li> 12:04 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 12:04 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:04 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:04 mail.google.com</li>
 <li> 12:04 www.linkedin.com</li>
 <li class='same'> 12:01 www.linkedin.com</li>
@@ -30805,7 +30818,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:07 www.reddit.com</li>
 <li> 10:06 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/21/bbc-targets-adults-in-the-latest-adventure-for-its-top-dog-bluey">BBC targets adults in the latest adventure for its top dog Bluey | Bluey | The Guardian</a></li>
 <li> 10:06 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:06 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:06 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:05 news.mypd.co.uk</li>
 <li> 10:05 outlook.office365.com</li>
 <li class='same'> 09:56 outlook.office365.com</li>
@@ -30884,7 +30897,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:49 www.foxnews.com</li>
 <li> 12:47 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 12:47 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:47 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -30922,7 +30935,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:26 www.linkedin.com</li>
 <li> 07:12 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li class='same'> 06:46 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:46 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:46 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:45 <a href="https://www.theguardian.com/us-news/2025/jul/18/astronomer-formal-investigation-couple-coldplay">Company says investigation under way into footage of couple at Coldplay gig | US news | The Guardian</a></li>
 <li> 06:43 <a href="https://www.theguardian.com/us-news/2025/jul/18/trump-libel-lawsuit-wsj-dow-jones-rupert-murdoch">Trump sues Wall Street Journal and Rupert Murdoch over Epstein report | Donald Trump | The Guardian</a></li>
 <li> 06:42 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
@@ -30988,10 +31001,10 @@ With number of accesses/minutes in parentheses
 <li> 07:33 web.whatsapp.com</li>
 <li> 07:33 <a href="https://www.theguardian.com/football/2025/jul/17/sweden-england-womens-euro-2025-quarter-final-match-report">England win dramatic shootout to beat Sweden and keep alive Euro 2025 hopes | Women’s Euro 2025 | The Guardian</a></li>
 <li> 07:32 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:32 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:32 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:30 <a href="https://www.theguardian.com/commentisfree/2025/jul/18/public-trust-authorities-lies-superinjunction-conspiracy">Why is it so hard for the authorities to win public trust? Maybe because they keep lying to us | Gaby Hinsliff | The Guardian</a></li>
 <li> 07:29 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:29 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:29 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:29 www.giantitp.com</li>
 <li> 07:28 duckduckgo.com</li>
 <li> 07:27 tvtropes.org</li>
@@ -31044,17 +31057,17 @@ With number of accesses/minutes in parentheses
 <li> 17:28 <a href="https://www.theguardian.com/commentisfree/2025/jul/17/ive-found-the-cure-for-a-sleepless-night-in-a-heatwave-but-it-can-have-its-drawbacks">I’ve found the cure for a sleepless night in a heatwave – but it can have its drawbacks … | Adrian Chiles | The Guardian</a></li>
 <li> 17:28 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li class='same'> 17:27 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:27 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:27 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:22 <a href="https://www.theguardian.com/us-news/2025/jul/17/trump-jeffrey-epstein-republicans-maga">Trump’s effort to dismiss Epstein files as ‘hoax’ fails to quell Maga rebellion | Jeffrey Epstein | The Guardian</a></li>
 <li> 17:19 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li class='same'> 16:54 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/education/2025/jul/17/ofqual-admits-massively-exaggerating-number-of-students-getting-exam-assistance">Ofqual admits massively exaggerating number of students getting exam assistance | Exams | The Guardian</a></li>
-<li> 16:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:54 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/education/2025/jul/17/ofqual-admits-massively-exaggerating-number-of-students-getting-exam-assistance">Ofqual admits massively exaggerating number of students getting exam assistance | Exams | The Guardian</a></li>
-<li> 16:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:54 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:54 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:54 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -31076,7 +31089,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 12:53 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 12:53 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:53 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:53 <a href="https://www.theguardian.com/commentisfree/2025/jul/16/britain-legacy-austerity-teenage-pregnancy">Teenage pregnancy rates are a barometer of Britain’s progress. The tale they now tell is not reassuring | Polly Toynbee | The Guardian</a></li>
 </ul>
 
@@ -31089,7 +31102,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 06:03 <a href="https://www.theguardian.com/commentisfree/2025/jul/16/britain-legacy-austerity-teenage-pregnancy">Teenage pregnancy rates are a barometer of Britain’s progress. The tale they now tell is not reassuring | Polly Toynbee | The Guardian</a></li>
 <li> 06:01 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:01 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:01 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:01 <a href="https://www.theguardian.com/uk-news/2025/jul/15/sycamore-gap-tree-felling-men-jailed">Two men behind ‘senseless’ felling of Sycamore Gap tree jailed for more than four years | Crime | The Guardian</a></li>
 <li> 06:01 www.google.com</li>
 </ul>
@@ -31220,7 +31233,7 @@ With number of accesses/minutes in parentheses
 <li> 12:29 outlook.office365.com</li>
 <li> 12:07 reductress.com</li>
 <li> 12:06 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 12:06 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:06 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:05 <a href="https://www.theguardian.com/uk-news/2025/jul/16/resettlement-afghans-data-leak-john-healey">No automatic right to resettlement for Afghans in data leak, says Healey | Ministry of Defence | The Guardian</a></li>
 <li> 12:05 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 12:05 <a href="https://www.theguardian.com/uk-news/2025/jul/15/sycamore-gap-tree-felling-men-jailed">Two men behind ‘senseless’ felling of Sycamore Gap tree jailed for more than four years | Crime | The Guardian</a></li>
@@ -31340,7 +31353,7 @@ With number of accesses/minutes in parentheses
 <li> 07:38 <a href="https://www.theguardian.com/uk-news/2025/jul/15/sycamore-gap-tree-felling-men-jailed">Two men behind ‘senseless’ felling of Sycamore Gap tree jailed for more than four years | Crime | The Guardian</a></li>
 <li> 07:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li class='same'> 07:37 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:37 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:37 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:36 docs.google.com</li>
 <li class='same'> 07:35 docs.google.com</li>
 <li class='same'> 07:34 docs.google.com</li>
@@ -31458,7 +31471,7 @@ With number of accesses/minutes in parentheses
 <li> 15:10 outlook.office365.com</li>
 <li> 15:10 herts365-my.sharepoint.com</li>
 <li> 15:07 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:07 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:07 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:05 www.google.com</li>
 <li class='same'> 15:04 www.google.com</li>
 <li class='same'> 15:03 www.google.com</li>
@@ -31532,7 +31545,7 @@ With number of accesses/minutes in parentheses
 <li> 13:07 <a href="https://www.theguardian.com/media/2025/jul/15/bbc-look-overhauling-licence-fee-300000-more-households-stop-paying">BBC to look at overhauling licence fee as 300,000 more households stop paying | BBC licence fee | The Guardian</a></li>
 <li class='same'> 13:06 <a href="https://www.theguardian.com/media/2025/jul/15/bbc-look-overhauling-licence-fee-300000-more-households-stop-paying">BBC to look at overhauling licence fee as 300,000 more households stop paying | BBC licence fee | The Guardian</a></li>
 <li> 13:06 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:06 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:06 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:06 <a href="https://www.theguardian.com/politics/live/2025/jul/15/starmer-reeves-farage-trump-tax-welfare-uk-politics-live-news-updates">Thousands offered UK asylum in £850m scheme after personal data of Afghans who helped British forces mistakenly leaked – live</a></li>
 <li> 13:05 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 13:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -31628,7 +31641,7 @@ With number of accesses/minutes in parentheses
 <li> 10:24 www.royalholloway.ac.uk</li>
 <li> 10:24 duckduckgo.com</li>
 <li> 10:02 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:02 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:02 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:01 herts365-my.sharepoint.com</li>
 <li> 10:00 login.microsoftonline.com</li>
 <li> 10:00 herts365-my.sharepoint.com</li>
@@ -31674,7 +31687,7 @@ With number of accesses/minutes in parentheses
 <li> 14:39 www.reddit.com</li>
 <li class='same'> 14:38 www.reddit.com</li>
 <li> 14:21 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:21 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:21 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:58 m365.cloud.microsoft</li>
 <li> 13:58 login.microsoftonline.com</li>
 </ul>
@@ -31683,7 +31696,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:05 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:59 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 12:59 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:59 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:55 <a href="https://www.theguardian.com/media/2025/jul/14/bbc-review-gaza-how-to-survive-a-warzone-documentary-accuracy-guidelines-breached">BBC breached accuracy guidelines over Gaza documentary, review finds | BBC | The Guardian</a></li>
 <li> 12:55 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 12:54 www.thefreedictionary.com</li>
@@ -31883,11 +31896,11 @@ With number of accesses/minutes in parentheses
 <li> 11:02 duckduckgo.com</li>
 <li> 10:46 <a href="https://www.theguardian.com/sport/2025/jul/12/iga-swiatek-races-to-first-wimbledon-title-with-6-0-6-0-thrashing-of-anisimova">Iga Swiatek races to first Wimbledon title with 6-0, 6-0 thrashing of Anisimova | Wimbledon 2025 | The Guardian</a></li>
 <li> 10:46 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:46 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:46 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:45 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 10:42 <a href="https://www.theguardian.com/commentisfree/2025/jul/13/ukraine-europe-donald-trump-nato">What if Ukraine falls? This is no longer a hypothetical question – and it must be answered urgently | Simon Tisdall | The Guardian</a></li>
 <li> 10:42 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:42 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:42 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:40 <a href="https://www.theguardian.com/world/2025/jul/12/eu-will-be-reeling-over-how-to-tackle-trade-talks-after-trumps-30-tariff-threat">EU will be reeling over how to tackle trade talks after Trump’s 30% tariff threat | European Union | The Guardian</a></li>
 <li> 10:40 <a href="https://www.theguardian.com/uk-news/2025/jul/10/starmer-and-macron-to-announce-one-in-one-out-migration-deal">Starmer and Macron to announce ‘one in, one out’ migration deal | Immigration and asylum | The Guardian</a></li>
 <li> 10:40 www.google.com</li>
@@ -31915,11 +31928,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:11 duckduckgo.com</li>
 <li> 09:11 127.0.0.1:4000</li>
 <li> 09:11 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:11 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:11 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:10 <a href="https://www.theguardian.com/us-news/2025/jul/12/kash-patel-fbi-doj-epstein">Kash Patel denies rumors he’s quitting the FBI over DoJ ruling on Epstein files | FBI | The Guardian</a></li>
 <li> 09:09 <a href="https://www.theguardian.com/technology/2025/jul/13/graduates-teach-first-in-person-interviews-ai">Teach First job applicants will get in-person interviews after more apply using AI | Artificial intelligence (AI) | The Guardian</a></li>
 <li> 09:09 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:09 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:09 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <H3>Saturday, 12/07/25</H3>
@@ -31953,7 +31966,7 @@ With number of accesses/minutes in parentheses
 <li> 17:06 127.0.0.1:4000</li>
 <li> 16:53 <a href="https://www.theguardian.com/lifeandstyle/2025/jul/11/sorry-babbel-but-british-people-say-sorry-more-than-nine-times-a-day">Sorry Babbel, but British people say sorry more than nine times a day | Social etiquette | The Guardian</a></li>
 <li> 16:52 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:52 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:52 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:39 chatgpt.com</li>
 <li class='same'> 16:34 chatgpt.com</li>
 <li> 16:09 docs.google.com</li>
@@ -32029,7 +32042,7 @@ With number of accesses/minutes in parentheses
 <li> 12:58 outlook.office365.com</li>
 <li> 12:57 docs.google.com</li>
 <li> 12:56 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 12:56 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:56 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:55 docs.google.com</li>
 <li class='same'> 12:54 docs.google.com</li>
 <li class='same'> 12:53 docs.google.com</li>
@@ -32050,9 +32063,9 @@ With number of accesses/minutes in parentheses
 <li> 12:20 outlook.office365.com</li>
 <li> 12:19 www.linkedin.com</li>
 <li> 12:17 <a href="https://www.theguardian.com/music/2025/jul/11/wish-you-were-still-here-what-happened-to-the-one-hit-wonders-of-80s-package-holiday-pop">Wish you were still here: what happened to the one-hit wonders of 80s package holiday pop? | Pop and rock | The Guardian</a></li>
-<li> 12:17 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:17 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:14 <a href="https://www.theguardian.com/commentisfree/2025/jul/11/gregg-wallace-bbc-masterchef">Right, the underpants are off! It’s time I, Gregg Wallace, had my say | Marina Hyde | The Guardian</a></li>
-<li> 12:14 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:14 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:14 outlook.office365.com</li>
 <li> 12:13 www.airbnb.co.uk</li>
 <li class='same'> 12:10 www.airbnb.co.uk</li>
@@ -32110,7 +32123,7 @@ With number of accesses/minutes in parentheses
 <li> 10:27 <a href="https://www.theguardian.com/world/2025/jul/10/concern-ukraine-will-be-split-up-reconstruction-talks">Concern that Ukraine will be split up casts shadow over reconstruction talks | Ukraine | The Guardian</a></li>
 <li> 10:25 <a href="https://www.theguardian.com/culture/2025/jul/11/campaigners-parthenon-elgin-marbles-sculptures-return-greece-british-museum">Campaigners call for end to ‘covert’ deal to return Parthenon marbles to Greece | British Museum | The Guardian</a></li>
 <li> 10:24 web.whatsapp.com</li>
-<li> 10:24 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:24 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:24 mail.google.com</li>
 <li> 10:21 whitewaterwriters.com</li>
 <li> 10:19 mail.google.com</li>
@@ -32120,13 +32133,13 @@ With number of accesses/minutes in parentheses
 <li> 10:13 chatgpt.com</li>
 <li> 10:13 chat.openai.com</li>
 <li> 10:10 <a href="https://www.theguardian.com/commentisfree/picture/2025/jul/10/ben-jennings-elon-musk-ai-chatbot-xai-x-antisemitism-cartoon">Ben Jennings on Elon Musk’s AI chatbot – cartoon | Ben Jennings | The Guardian</a></li>
-<li> 10:10 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:10 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/10/gregg-wallace-dropped-from-bbc-over-lack-of-confidence-he-could-change-behaviour">Gregg Wallace dropped by BBC over doubts he could ‘change behaviour’ | Gregg Wallace | The Guardian</a></li>
-<li> 10:08 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:08 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:08 www.giantitp.com</li>
 <li> 10:06 www.reddit.com</li>
 <li> 10:05 outlook.office365.com</li>
-<li> 10:05 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:05 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -32239,9 +32252,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:26 outlook.office365.com</li>
 <li> 13:26 mail.google.com</li>
 <li class='same'> 13:25 mail.google.com</li>
-<li> 13:23 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:23 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:23 <a href="https://www.theguardian.com/uk-news/2025/jul/10/four-arrested-over-cyber-attacks-marks-and-spencer-co-op-harrods">Four arrested over cyber-attacks on M&S, Co-op and Harrods | UK news | The Guardian</a></li>
-<li> 13:23 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:23 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:23 mail.google.com</li>
 <li class='same'> 13:05 mail.google.com</li>
 <li class='same'> 13:04 mail.google.com</li>
@@ -32312,7 +32325,7 @@ With number of accesses/minutes in parentheses
 <li> 11:53 web.whatsapp.com</li>
 <li> 11:45 observer.co.uk</li>
 <li> 11:45 <a href="https://www.theguardian.com/books/2025/jul/10/inside-the-salt-path-controversy-scandal-has-stalked-memoir-since-the-genre-was-invented">Inside the Salt Path controversy: ‘Scandal has stalked memoir since the genre was invented’ | Books | The Guardian</a></li>
-<li> 11:44 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:44 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:22 api-b6327e78.duosecurity.com</li>
 <li> 11:17 calendar.google.com</li>
 </ul>
@@ -32482,7 +32495,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:20 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/09/bbc-deciding-what-to-do-with-new-series-of-masterchef-fronted-by-gregg-wallace">BBC deciding what to do with new series of MasterChef fronted by Gregg Wallace | Gregg Wallace | The Guardian</a></li>
-<li> 18:20 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:20 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:20 outlook.office365.com</li>
 <li> 18:19 discord.com</li>
 <li> 18:19 www.linkedin.com</li>
@@ -32547,7 +32560,7 @@ With number of accesses/minutes in parentheses
 <li> 13:00 login.microsoftonline.com</li>
 <li> 13:00 ce0997li.webitrent.com</li>
 <li> 12:34 <a href="https://www.theguardian.com/lifeandstyle/2025/jul/09/my-father-the-fake-was-anything-he-told-me-actually-true">My father, the fake: was anything he told me actually true? | Life and style | The Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:32 discord.com</li>
 <li> 12:32 docs.google.com</li>
 <li> 12:32 www.google.com</li>
@@ -32638,9 +32651,9 @@ With number of accesses/minutes in parentheses
 <li> 09:31 <a href="https://www.youtube.com/results?search_query=ford+fiesta+usb+port+replacement">(626) ford fiesta usb port replacement - YouTube</a></li>
 <li> 09:30 <a href="https://www.youtube.com/results?search_query=ford+fiesta+usb+port+not+working">(626) ford fiesta usb port not working - YouTube</a></li>
 <li> 09:30 <a href="https://www.youtube.com/">(20) YouTube</a></li>
-<li> 09:13 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:13 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/tv-and-radio/2025/jul/08/gregg-wallace-attacks-bbc-before-publication-of-report-on-masterchef-allegations">Gregg Wallace fired from MasterChef as 50 people tell BBC of fresh allegations | Gregg Wallace | The Guardian</a></li>
-<li> 09:13 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:13 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:12 herts365-my.sharepoint.com</li>
 <li> 09:11 m365.cloud.microsoft</li>
 <li> 09:11 www.linkedin.com</li>
@@ -32970,7 +32983,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:41 www.reddit.com</li>
 <li class='same'> 16:39 www.reddit.com</li>
 <li> 16:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:34 www.reddit.com</li>
 <li class='same'> 16:33 www.reddit.com</li>
 <li> 16:33 duckduckgo.com</li>
@@ -33019,7 +33032,7 @@ With number of accesses/minutes in parentheses
 <li> 14:39 www.reddit.com</li>
 <li class='same'> 14:38 www.reddit.com</li>
 <li> 14:37 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:37 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:37 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -33056,7 +33069,7 @@ With number of accesses/minutes in parentheses
 <li> 11:56 <a href="https://www.theguardian.com/commentisfree/2025/jul/07/i-spoke-for-my-brother-when-he-was-too-afraid-to-answer-now-he-speaks-in-melodies-and-i-have-learned-to-listen">I spoke for my brother when he was too afraid to answer — now, he speaks in melodies, and I have learned to listen | Jessie Cole | The Guardian</a></li>
 <li> 11:55 <a href="https://www.theguardian.com/technology/2025/jul/07/tesla-shares-dive-as-investors-fear-new-elon-musk-political-party-will-damage-brand">Tesla shares dive as investors fear new Elon Musk political party will damage brand | Tesla | The Guardian</a></li>
 <li> 11:54 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:54 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:52 127.0.0.1:4000</li>
 <li> 11:50 drive.google.com</li>
 <li> 11:41 mail.google.com</li>
@@ -33263,7 +33276,7 @@ With number of accesses/minutes in parentheses
 <li> 08:40 www.reddit.com</li>
 <li class='same'> 08:39 www.reddit.com</li>
 <li> 08:32 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:32 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:32 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:21 docs.google.com</li>
 <li> 08:20 www.reddit.com</li>
 <li class='same'> 08:19 www.reddit.com</li>
@@ -33287,7 +33300,7 @@ With number of accesses/minutes in parentheses
 <li> 08:02 docs.google.com</li>
 <li class='same'> 08:01 docs.google.com</li>
 <li> 07:58 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:58 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:58 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -33394,7 +33407,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 22:06 docs.google.com</li>
 <li> 22:04 <a href="https://www.theguardian.com/politics/2025/jul/04/reform-councillors-boast-about-removing-trans-ideological-books-from-childrens-library-sections-falls-flat">Reform councillor’s boast about removing ‘trans-ideological’ books from children’s library sections falls flat | Reform UK | The Guardian</a></li>
 <li> 22:04 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 22:04 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 22:04 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 22:02 www.reddit.com</li>
 <li class='same'> 22:01 www.reddit.com</li>
 <li> 22:00 forum.artofmemory.com</li>
@@ -33423,7 +33436,7 @@ With number of accesses/minutes in parentheses
 <li> 18:14 www.herts.ac.uk</li>
 <li> 18:14 duckduckgo.com</li>
 <li> 18:13 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:13 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:13 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -33468,7 +33481,7 @@ With number of accesses/minutes in parentheses
 <li> 16:18 <a href="https://en.wikipedia.org/wiki/Police_Story_(film_series)">Police Story (film series) - Wikipedia</a></li>
 <li> 16:17 duckduckgo.com</li>
 <li> 16:16 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:16 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:16 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:16 www.facebook.com</li>
 <li> 16:14 www.sfadb.com</li>
 <li> 16:12 feedly.com</li>
@@ -33610,7 +33623,7 @@ With number of accesses/minutes in parentheses
 <li> 06:24 gmail.com</li>
 <li> 06:23 www.google.com</li>
 <li> 06:22 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:22 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:22 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:21 www.reddit.com</li>
 <li class='same'> 06:18 www.reddit.com</li>
 <li class='same'> 06:16 www.reddit.com</li>
@@ -33710,10 +33723,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 19:05 www.reddit.com</li>
 <li> 19:05 www.google.com</li>
 <li> 19:04 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 19:04 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:04 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:02 <a href="https://www.theguardian.com/business/2025/jul/03/rachel-reeves-balancing-backbenchers-and-bond-markets-analysis">Reeves’s fearsome challenge: to balance backbenchers and bond markets | Bonds | The Guardian</a></li>
 <li> 19:02 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 19:02 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:02 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:02 <a href="https://www.theguardian.com/football/2025/jul/03/spain-women-football-euro-2025-fight-battles-on-and-off-pitch">‘Everything is better’: how Rubiales’s unwanted kiss transformed Spanish women’s football | Spain women's football team | The Guardian</a></li>
 </ul>
 
@@ -34069,7 +34082,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:08 www.telegraph.co.uk</li>
 <li> 06:08 www.google.com</li>
 <li> 06:08 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:08 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:08 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:08 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 </ul>
 
@@ -34522,9 +34535,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:22 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:22 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:22 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:21 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:21 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:21 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:18 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/30/performative-reading-public-tiktok">Is it OK to read Infinite Jest in public? Why the internet hates ‘performative reading’ | Life and style | The Guardian</a></li>
 <li> 16:17 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 16:17 www.independent.co.uk</li>
@@ -35045,7 +35058,7 @@ With number of accesses/minutes in parentheses
 <li> 18:06 <a href="https://www.theguardian.com/film/2025/jun/27/no-plans-ever-to-retire-why-steven-spielberg-and-the-movie-brat-generation-just-wont-quit">‘No plans ever to retire’: why Steven Spielberg and the movie brat generation just won’t quit | Film | The Guardian</a></li>
 <li class='same'> 18:05 <a href="https://www.theguardian.com/film/2025/jun/27/no-plans-ever-to-retire-why-steven-spielberg-and-the-movie-brat-generation-just-wont-quit">‘No plans ever to retire’: why Steven Spielberg and the movie brat generation just won’t quit | Film | The Guardian</a></li>
 <li> 18:04 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:04 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:04 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:04 <a href="https://www.theguardian.com/commentisfree/2025/jun/27/anna-wintour-super-rich-lauren-sanchez-jeff-bezos-vogue">Anna Wintour has spent decades dictating a certain look for the super-rich. Then along came Lauren | Marina Hyde | The Guardian</a></li>
 <li> 17:45 www.facebook.com</li>
 <li> 17:45 nicetutor.co.uk</li>
@@ -35117,7 +35130,7 @@ With number of accesses/minutes in parentheses
 <li> 15:51 <a href="https://www.youtube.com/">(20) YouTube</a></li>
 <li> 15:51 <a href="https://www.theguardian.com/us-news/live/2025/jun/27/donald-trump-big-beautiful-bill-reworked-senate-us-politics-latest-updates-news">Three liberal supreme court justices dissent against ruling that limits power of judges to block Trump’s birthright citizenship order – live</a></li>
 <li> 15:50 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:50 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:50 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:50 mail.google.com</li>
 <li> 15:38 web.whatsapp.com</li>
 <li> 15:38 <a href="https://www.youtube.com/watch?v=mtsabsZ4wG4&t=15s">(581) How To Play The Queen's Gambit - YouTube</a></li>
@@ -35393,7 +35406,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:31 tvtropes.org</li>
 <li> 06:31 duckduckgo.com</li>
 <li> 06:28 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:28 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:28 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:27 duckduckgo.com</li>
 <li> 06:13 <a href="https://en.wikipedia.org/wiki/Elementary_charge">Elementary charge - Wikipedia</a></li>
 <li class='same'> 06:10 <a href="https://en.wikipedia.org/wiki/Elementary_charge">Elementary charge - Wikipedia</a></li>
@@ -35478,14 +35491,14 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:30 www.reddit.com</li>
 <li class='same'> 13:28 www.reddit.com</li>
 <li> 13:28 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:28 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:28 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:28 <a href="https://www.theguardian.com/us-news/2025/apr/02/trump-new-tariffs-liberation-day">Trump announces sweeping new tariffs, upending decades of US trade policy | Trump tariffs | The Guardian</a></li>
 <li> 13:23 www.google.com</li>
 <li> 13:20 <a href="https://www.theguardian.com/film/2025/jun/26/mel-brooks-ranked-movies">Mel Brooks turns 99: the comedy icon’s best films – ranked! | Mel Brooks | The Guardian</a></li>
 <li> 13:19 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 13:19 <a href="https://www.theguardian.com/politics/2025/jun/26/reform-warwickshire-council-head-rob-howard-quits-after-five-weeks-leaving-18-year-old-in-charge">Reform Warwickshire council head quits after five weeks, leaving 18-year-old in charge | Reform UK | The Guardian</a></li>
 <li> 13:18 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:18 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:18 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:18 <a href="https://www.theguardian.com/business/2025/jun/26/rules-that-protect-uk-homeowners-from-repossessions-may-be-scrapped">Rules that protect UK homeowners from repossessions may be scrapped | Financial Conduct Authority | The Guardian</a></li>
 <li> 13:17 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 13:12 mail.google.com</li>
@@ -35694,7 +35707,7 @@ With number of accesses/minutes in parentheses
 <li> 08:53 chat.openai.com</li>
 <li> 08:51 <a href="https://www.bbc.co.uk/news/articles/cy4ymj00px7o">More Labour MPs join benefit revolt despite ministers' appeals - BBC News</a></li>
 <li> 08:51 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:51 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:42 fast.com</li>
 <li> 08:41 mail.google.com</li>
 <li> 08:41 www.google.com</li>
@@ -36000,7 +36013,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:44 www.natesilver.net</li>
 <li> 13:42 <a href="https://www.theguardian.com/us-news/2025/jun/24/new-york-mayoral-primary-results">Zohran Mamdani declares historic victory in New York City mayoral primary after Cuomo concedes | New York | The Guardian</a></li>
 <li> 13:41 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:41 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:41 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:41 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/25/disney-plus-ironheart-review-black-panther-marvel-cinematic-universe-wakanda-dominique-thorne">Ironheart review – the small screen can barely contain the energy of this Black Panther spinoff | Television | The Guardian</a></li>
 <li> 13:41 www.linkedin.com</li>
 <li> 13:40 www.facebook.com</li>
@@ -36205,7 +36218,7 @@ With number of accesses/minutes in parentheses
 <li> 08:59 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/25/disney-plus-ironheart-review-black-panther-marvel-cinematic-universe-wakanda-dominique-thorne">Ironheart review – the small screen can barely contain the energy of this Black Panther spinoff | Television | The Guardian</a></li>
 <li> 08:57 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 08:51 <a href="https://www.theguardian.com/politics/2025/jun/25/class-age-education-dividing-lines-uk-politics-electoral-reform">Class no longer main dividing line in UK politics, survey shows | Opinion polls | The Guardian</a></li>
-<li> 08:51 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -36214,7 +36227,7 @@ With number of accesses/minutes in parentheses
 <li> 08:09 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 08:08 <a href="https://www.theguardian.com/politics/2025/jun/24/britain-must-prepare-for-possibility-of-attack-on-uk-soil-government-warns">Britain must prepare for possibility of attack on UK soil, government warns | Defence policy | The Guardian</a></li>
 <li> 08:08 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:08 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:08 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:56 <a href="https://www.theguardian.com/world/2025/jun/25/nicholas-tarasenko-15-year-old-hull-british-sumo-wrestler-japan">Teenager from Hull becomes second Briton ever to join a professional sumo stable | Japan | The Guardian</a></li>
 <li> 07:51 <a href="https://www.theguardian.com/politics/2025/jun/24/widespread-labour-dissent-over-welfare-bill-is-sign-things-are-going-very-badly-for-starmer">Widespread Labour dissent over welfare bill is sign things are going very badly for Starmer | Welfare | The Guardian</a></li>
 <li> 07:48 <a href="https://www.theguardian.com/world/2025/jun/24/keir-starmer-says-government-will-stand-firm-on-disability-welfare-overhaul">Starmer stands firm on welfare bill as number of Labour rebels passes 120 | Disability | The Guardian</a></li>
@@ -36364,7 +36377,7 @@ With number of accesses/minutes in parentheses
 <li> 19:13 www.google.com</li>
 <li> 19:13 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li class='same'> 19:06 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 19:06 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:06 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:06 <a href="https://www.theguardian.com/world/2025/jun/24/israel-us-and-iran-all-claim-to-have-won-the-war-but-who-has-really-gained">Israel, US and Iran all claim to have won the war, but who has really gained? | Iran | The Guardian</a></li>
 </ul>
 
@@ -36436,11 +36449,11 @@ With number of accesses/minutes in parentheses
 <li> 13:35 <a href="https://www.theguardian.com/money/2022/aug/03/labour-mps-aide-was-unfairly-dismissed-tribunal-rules">Labour MP’s aide was unfairly dismissed, tribunal rules | Employment law | The Guardian</a></li>
 <li> 13:33 <a href="https://www.theguardian.com/money/2025/jun/24/employee-messy-work-criticism-not-harassment-london-tribunal-rules">Telling employee their work is messy is not harassment, London tribunal rules | Employment tribunals | The Guardian</a></li>
 <li> 13:33 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:33 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:33 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:33 mail.google.com</li>
 <li> 13:31 <a href="https://www.theguardian.com/world/live/2025/jun/24/israel-iran-war-live-updates-trump-declares-ceasefire-tehran-attack-us-base-qatar">Israel-Iran war live: Trump swears in angry outburst at both sides over ceasefire violations</a></li>
 <li> 13:29 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:29 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:29 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:25 mail.google.com</li>
 <li> 13:25 challengeworks.org</li>
 <li class='same'> 13:24 challengeworks.org</li>
@@ -36645,7 +36658,7 @@ With number of accesses/minutes in parentheses
 <li> 19:38 www.google.com</li>
 <li> 19:37 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 19:37 <a href="https://www.theguardian.com/lifeandstyle/2025/apr/11/young-people-in-the-uk-tell-us-about-your-gym-habits">Young people in the UK: tell us about your gym habits | Fitness | The Guardian</a></li>
-<li> 19:37 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:37 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:37 newsthump.com</li>
 <li> 19:36 reductress.com</li>
 <li> 19:36 www.vrbo.com</li>
@@ -36656,7 +36669,7 @@ With number of accesses/minutes in parentheses
 <li> 19:32 <a href="https://www.theguardian.com/world/live/2025/jun/23/israel-iran-war-live-updates-us-trump-regime-change-middle-east-gaza-latest-news">Iran attacks US military base in Qatar as missiles launched at Iraq base housing US troops – latest updates</a></li>
 <li> 19:32 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 19:32 <a href="https://www.theguardian.com/australia-news/2025/apr/30/erin-patterson-mushroom-poisonings-murder-trial-ntwnfb">Erin Patterson concocted cancer diagnosis to ensure children missed fatal mushroom lunch, murder trial hears | Victoria | The Guardian</a></li>
-<li> 19:32 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:32 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -36666,7 +36679,7 @@ With number of accesses/minutes in parentheses
 <li> 18:05 <a href="https://www.theguardian.com/world/live/2025/jun/23/israel-iran-war-live-updates-us-trump-regime-change-middle-east-gaza-latest-news">Iran attacks US military base in Qatar as missiles launched at Iraq base housing US troops – latest updates</a></li>
 <li> 18:04 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/23/best-podcasts-of-the-week-cocaine-air-pablo-escobar">An astonishing tale of Lamborghinis, cocaine and the need to make a quick buck: best podcasts of the week | Television & radio | The Guardian</a></li>
 <li> 18:02 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:02 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:02 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:02 <a href="https://www.theguardian.com/lifeandstyle/2025/apr/28/i-stopped-talking-to-my-parents-and-life-opened-up-heather-graham-on-family-ageing-and-creepy-film-makers#img-2">‘I stopped talking to my parents – and life opened up’: Heather Graham on family, ageing and ‘creepy’ film-makers | Film | The Guardian</a></li>
 <li> 18:02 <a href="https://www.theguardian.com/lifeandstyle/2025/apr/28/i-stopped-talking-to-my-parents-and-life-opened-up-heather-graham-on-family-ageing-and-creepy-film-makers">‘I stopped talking to my parents – and life opened up’: Heather Graham on family, ageing and ‘creepy’ film-makers | Film | The Guardian</a></li>
 <li> 18:02 <a href="https://www.theguardian.com/lifeandstyle/2025/apr/28/i-stopped-talking-to-my-parents-and-life-opened-up-heather-graham-on-family-ageing-and-creepy-film-makers#img-1">‘I stopped talking to my parents – and life opened up’: Heather Graham on family, ageing and ‘creepy’ film-makers | Film | The Guardian</a></li>
@@ -36809,7 +36822,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<ul><li> 07:54 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:51 <a href="https://www.theguardian.com/politics/2025/jun/22/reform-unveils-plan-to-top-up-poorest-workers-from-250000-fee-on-rich-uk-newcomers">Reform unveils plan to top up poorest workers from £250,000 fee on rich UK newcomers | Reform UK | The Guardian</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 07:50 www.google.com</li>
@@ -36897,7 +36910,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:57 www.printed.com</li>
 <li> 16:52 <a href="https://www.theguardian.com/world/2025/jun/22/how-effective-was-the-us-attack-on-irans-nuclear-sites-a-visual-guide">How effective was the US attack on Iran’s nuclear sites? A visual guide | Iran | The Guardian</a></li>
 <li> 16:51 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:51 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:51 www.printed.com</li>
 <li class='same'> 16:49 www.printed.com</li>
 <li class='same'> 16:39 www.printed.com</li>
@@ -37001,7 +37014,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 22:18 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 22:16 <a href="https://www.theguardian.com/culture/2025/jun/21/my-cultural-awakening-sleepless-in-seattle-cancel-wedding">My cultural awakening: I watched Sleepless in Seattle and realised I had to cancel my wedding | Culture | The Guardian</a></li>
 <li> 22:15 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 22:15 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 22:15 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 22:15 <a href="https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved">Harvard hired a researcher to uncover its ties to slavery. He says the results cost him his job: ‘We found too many slaves’ | Harvard University | The Guardian</a></li>
 </ul>
 
@@ -37029,10 +37042,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:32 <a href="https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved">Harvard hired a researcher to uncover its ties to slavery. He says the results cost him his job: ‘We found too many slaves’ | Harvard University | The Guardian</a></li>
 <li> 16:31 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:31 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:31 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:31 <a href="https://www.theguardian.com/commentisfree/2025/jun/21/week-in-patriarchy-arwa-mahdawi">Why does this billionaire have 100 kids in 12 countries? | Arwa Mahdawi | The Guardian</a></li>
 <li> 16:30 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:30 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:30 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -37060,7 +37073,7 @@ With number of accesses/minutes in parentheses
 <li> 14:42 <a href="https://www.theguardian.com/football/2025/jun/21/america-is-showing-us-football-in-its-final-dictator-form-we-cant-afford-to-look-away">America is showing us football in its final dictator form – we can’t afford to look away | Club World Cup 2025 | The Guardian</a></li>
 <li class='same'> 14:41 <a href="https://www.theguardian.com/football/2025/jun/21/america-is-showing-us-football-in-its-final-dictator-form-we-cant-afford-to-look-away">America is showing us football in its final dictator form – we can’t afford to look away | Club World Cup 2025 | The Guardian</a></li>
 <li> 14:40 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:40 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:40 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -37400,7 +37413,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:18 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:18 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:18 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:18 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 </ul>
 
@@ -37419,7 +37432,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:58 mail.google.com</li>
 <li> 09:58 gmail.com</li>
 <li> 09:30 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:30 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:30 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:11 duckduckgo.com</li>
 <li> 09:10 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
 </ul>
@@ -37428,7 +37441,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:14 <a href="https://www.theguardian.com/world/2025/jun/18/ukraine-war-briefing-north-korea-sending-another-5000-into-kursk-russian-claim">Ukraine war briefing: North Korea sending another 5,000 into Kursk – Russian claim | Ukraine | The Guardian</a></li>
 <li> 08:13 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:13 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:13 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:13 <a href="https://www.theguardian.com/world/live/2025/jun/17/israel-iran-conflict-live-updates-tehran-trump-evacuation-middle-east">Trump demands Iran’s ‘unconditional surrender’ – as it happened | Israel | The Guardian</a></li>
 </ul>
 
@@ -37442,7 +37455,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:49 <a href="https://www.theguardian.com/uk-news/2025/jun/17/uk-mothers-with-children-from-abusive-relationships-discriminated-against-by-benefits-system-court-told">Two mothers denied ‘rape clause’ exception to benefit cap discriminated against, UK court told | Universal credit | The Guardian</a></li>
 <li> 20:49 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 20:49 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 20:49 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 20:48 www.reddit.com</li>
 <li class='same'> 20:47 www.reddit.com</li>
 <li class='same'> 20:46 www.reddit.com</li>
@@ -37508,7 +37521,7 @@ With number of accesses/minutes in parentheses
 <li> 15:18 <a href="https://www.theguardian.com/media/2025/jun/17/operator-of-gossip-forum-tattle-life-unmasked-after-losing-defamation-case">Operator of gossip forum Tattle Life unmasked after losing defamation case | Digital media | The Guardian</a></li>
 <li> 15:16 <a href="https://www.theguardian.com/world/2025/jun/17/us-military-assets-missile-launch-sites-iran-fordow">US has no shortage of military assets if it wants to target missile launch sites in Iran | Iran | The Guardian</a></li>
 <li> 15:15 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:15 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:15 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:12 bsky.app</li>
 <li> 15:02 outlook.office.com</li>
 <li class='same'> 14:59 outlook.office.com</li>
@@ -37823,7 +37836,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:15 www.reddit.com</li>
 <li> 10:14 <a href="https://www.theguardian.com/culture/2025/jun/16/the-genius-myth-by-helen-lewis-review-bright-wrong-things">The Genius Myth by Helen Lewis review – bright wrong things | Books | The Guardian</a></li>
 <li> 10:13 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:13 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:13 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:13 outlook.office.com</li>
 <li class='same'> 10:11 outlook.office.com</li>
 <li> 10:11 m365.cloud.microsoft</li>
@@ -37888,7 +37901,7 @@ With number of accesses/minutes in parentheses
 <li> 06:21 api-b6327e78.duosecurity.com</li>
 <li> 06:21 adfs.herts.ac.uk</li>
 <li> 06:19 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:19 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:19 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:19 herts365-my.sharepoint.com</li>
 <li> 06:17 api-b6327e78.duosecurity.com</li>
 <li> 06:17 adfs.herts.ac.uk</li>
@@ -37980,7 +37993,7 @@ With number of accesses/minutes in parentheses
 <li> 11:07 www.reddit.com</li>
 <li class='same'> 11:06 www.reddit.com</li>
 <li> 11:06 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:06 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:06 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:01 <a href="https://www.theguardian.com/world/2025/jun/14/israel-claims-it-has-gained-control-of-airspace-over-tehran">Israel claims it has gained control of airspace over Tehran | Israel | The Guardian</a></li>
 <li> 11:01 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 11:00 <a href="https://www.theguardian.com/education/2025/jun/15/thousands-of-uk-university-students-caught-cheating-using-ai-artificial-intelligence-survey">Revealed: Thousands of UK university students caught cheating using AI | Higher education | The Guardian</a></li>
@@ -38054,7 +38067,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 10:43 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:43 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:43 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:33 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 10:27 www.google.com</li>
 <li> 10:27 accounts.google.com</li>
@@ -38090,10 +38103,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:53 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:53 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:53 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:50 <a href="https://www.theguardian.com/world/live/2025/jun/13/israel-iran-strikes-defence-minister-tehran-middle-east-live?page=with:block-684c60028f08baf6b1a6b10b#block-684c60028f08baf6b1a6b10b">Further airstrikes reported in Iran as Trump says ‘we knew everything’ about Israeli attacks – live</a></li>
 <li> 18:50 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:50 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:50 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:50 <a href="https://www.theguardian.com/world/2025/jun/13/israels-strikes-on-iran-show-trump-is-unable-to-restrain-netanyahu-as-middle-east-slips-closer-to-chaos">Israel’s strikes on Iran show Trump is unable to restrain Netanyahu as Middle East slips closer to chaos | Iran | The Guardian</a></li>
 <li> 18:38 www.linkedin.com</li>
 <li class='same'> 18:37 www.linkedin.com</li>
@@ -38116,7 +38129,7 @@ With number of accesses/minutes in parentheses
 <li> 13:30 www.facebook.com</li>
 <li> 13:29 <a href="https://www.theguardian.com/us-news/2025/jun/12/los-angeles-protests-alex-padilla-kristi-noem">Senator Alex Padilla handcuffed and forcibly removed from Kristi Noem’s LA press conference | Los Angeles Ice protests | The Guardian</a></li>
 <li> 13:29 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:29 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:29 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:14 www.ebay.co.uk</li>
 <li class='same'> 13:13 www.ebay.co.uk</li>
 <li> 13:09 equalitytime.github.io</li>
@@ -38195,7 +38208,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:43 drive.google.com</li>
 <li> 18:43 mail.google.com</li>
 <li> 18:22 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:22 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:22 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:01 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 18:01 <a href="https://www.theguardian.com/environment/2025/jun/12/research-reveals-24000-megafarms-across-europe">Revealed: More than 24,000 factory farms have opened across Europe | Farming | The Guardian</a></li>
 <li> 18:00 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
@@ -38392,7 +38405,7 @@ With number of accesses/minutes in parentheses
 <li> 10:06 chatgpt.com</li>
 <li> 10:05 royalhollowayacuk.elluciancrmrecruit.com</li>
 <li> 09:54 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:54 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:54 <a href="https://www.theguardian.com/culture/2025/jun/12/tamara-de-lempicka-rafaela-portrait-sale">Tamara de Lempicka’s ‘remarkable nude’ of lover Rafaëla to be auctioned | Culture | The Guardian</a></li>
 <li> 09:45 docs.google.com</li>
 <li> 09:44 drive.google.com</li>
@@ -38402,7 +38415,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:14 <a href="https://www.theguardian.com/culture/2025/jun/12/tamara-de-lempicka-rafaela-portrait-sale">Tamara de Lempicka’s ‘remarkable nude’ of lover Rafaëla to be auctioned | Culture | The Guardian</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:13 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:13 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:13 <a href="https://www.theguardian.com/football/2025/jun/12/sky-sports-news-golden-age-at-an-end-as-rival-platforms-turn-up-the-volume">Sky Sports News’ golden age at an end as rival platforms turn up the volume | Football | The Guardian</a></li>
 </ul>
 
@@ -38425,7 +38438,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:31 forum.arduino.cc</li>
 <li> 06:31 duckduckgo.com</li>
 <li> 06:20 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:20 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:20 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <H3>Wednesday, 11/06/25</H3>
@@ -38492,7 +38505,7 @@ With number of accesses/minutes in parentheses
 <li> 19:10 duckduckgo.com</li>
 <li> 19:09 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/11/well-have-done-it-first-what-it-takes-to-set-a-new-guinness-world-record">‘We’ll have done it first’: what it takes to set a new Guinness World Record | Australian lifestyle | The Guardian</a></li>
 <li> 19:05 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 19:05 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:05 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:54 studio.youtube.com</li>
 <li> 18:54 <a href="https://www.youtube.com/@projectreal2513">(51) Project Real - YouTube</a></li>
 <li> 18:54 studio.youtube.com</li>
@@ -38653,7 +38666,7 @@ With number of accesses/minutes in parentheses
 <li> 06:40 www.kaggle.com</li>
 <li> 06:38 <a href="https://www.bbc.co.uk/">How a 'fertility gap' is fuelling the rise of one-child families - BBC News</a></li>
 <li> 06:38 <a href="https://www.bbc.co.uk/sport/football/articles/cn8zldjnzpro">Pelly-Ruddock Mpanzu: Luton Town legend to leave the club - BBC Sport</a></li>
-<li> 06:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:37 <a href="https://www.theguardian.com/australia-news/2025/jun/11/fury-over-year-9-students-in-south-australia-being-asked-to-debate-whether-the-tradwife-movement-is-good-for-women">Fury over year 9 students in South Australia being asked to debate whether the tradwife movement is good for women | South Australia | The Guardian</a></li>
 <li> 06:27 www.google.com</li>
 <li class='same'> 06:26 www.google.com</li>
@@ -38723,7 +38736,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:39 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:39 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:39 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:38 <a href="https://www.theguardian.com/us-news/2025/jun/10/trump-fires-usaid-overseas-employees">Trump administration to cut all USAID overseas roles and axe thousands of staff | Trump administration | The Guardian</a></li>
 <li> 18:37 en.meming.world</li>
 </ul>
@@ -38864,7 +38877,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:24 outlook.office.com</li>
 <li> 10:22 <a href="https://www.theguardian.com/books/2025/jun/10/how-not-to-be-a-political-wife-by-sarah-vine-review-a-bitter-memoir-of-power-and-betrayal">How Not to Be a Political Wife by Sarah Vine review – a bitter memoir of power and betrayal | Autobiography and memoir | The Guardian</a></li>
 <li> 10:21 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:21 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:21 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:21 outlook.office.com</li>
 <li class='same'> 10:19 outlook.office.com</li>
 <li class='same'> 10:17 outlook.office.com</li>
@@ -38922,7 +38935,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 21:41 <a href="https://www.theguardian.com/world/2025/may/22/germany-anti-russian-defence-nato-lithuania-friedrich-merz">German troops start first permanent foreign deployment since second world war | Germany | The Guardian</a></li>
 <li> 21:39 <a href="https://www.theguardian.com/world/2025/jun/09/nato-chief-russia-quantum-leap-defence">Russia could be ready to attack Nato within five years, says secretary general | Nato | The Guardian</a></li>
 <li> 21:38 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 21:38 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 21:37 <a href="https://www.theguardian.com/uk-news/2025/jun/09/uk-teenager-killed-herself-highly-affected-terrorism-arrest-inquest-rhianan-rudd">UK teenager who killed herself was ‘highly affected’ by terrorism arrest, inquest finds | UK security and counter-terrorism | The Guardian</a></li>
 <li> 21:37 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 21:36 www.reddit.com</li>
@@ -38985,7 +38998,7 @@ With number of accesses/minutes in parentheses
 <li> 17:52 mail.google.com</li>
 <li class='same'> 17:51 mail.google.com</li>
 <li> 17:51 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:51 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:51 www.reddit.com</li>
 <li class='same'> 17:50 www.reddit.com</li>
 <li class='same'> 17:46 www.reddit.com</li>
@@ -39124,7 +39137,7 @@ With number of accesses/minutes in parentheses
 <li> 20:55 <a href="https://www.theguardian.com/environment/2025/jun/08/campaigners-hail-plan-to-ban-bottom-trawling-in-half-of-englands-protected-seas">Campaigners hail plan to ban bottom trawling in half of England’s protected seas | Fishing | The Guardian</a></li>
 <li> 20:54 <a href="https://www.theguardian.com/lifeandstyle/2025/jun/08/this-is-how-we-do-it-we-live-in-a-tiny-flat-with-our-kids-so-we-have-sex-in-the-woods-at-night">This is how we do it: ‘We live in a tiny flat with our kids, so we have sex in the woods at night’ | Life and style | The Guardian</a></li>
 <li> 20:53 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 20:53 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 20:53 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 20:53 bsky.app</li>
 <li> 20:50 www.amazon.co.uk</li>
 <li class='same'> 20:49 www.amazon.co.uk</li>
@@ -39735,7 +39748,7 @@ With number of accesses/minutes in parentheses
 <li> 08:07 www.huffingtonpost.co.uk</li>
 <li> 08:05 www.buzzfeed.com</li>
 <li> 08:05 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:05 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:05 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:55 <a href="https://www.theguardian.com/commentisfree/2025/jun/05/trump-musk-fight-fallout">Trump v Musk: world’s two worst people are finally having a big, beautiful breakup | Arwa Mahdawi | The Guardian</a></li>
 <li> 07:41 news.sky.com</li>
 <li> 07:41 www.google.com</li>
@@ -39775,18 +39788,18 @@ With number of accesses/minutes in parentheses
 <li> 06:55 www.telegraph.co.uk</li>
 <li> 06:53 <a href="https://www.theguardian.com/music/2025/jun/06/beyonce-london-concert-show-review-cowboy-carter-tour">Beyoncé review – a hugely enjoyable concert that adds a ferocious potency to Cowboy Carter | Beyoncé | The Guardian</a></li>
 <li> 06:52 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:52 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:52 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:52 <a href="https://www.theguardian.com/us-news/2025/jun/06/trump-travel-ban-analysis">Trump travel ban comes as little surprise amid barrage of draconian restrictions | US immigration | The Guardian</a></li>
 <li> 06:52 news.sky.com</li>
 <li> 06:48 <a href="https://www.theguardian.com/us-news/2025/jun/06/trump-travel-ban-analysis">Trump travel ban comes as little surprise amid barrage of draconian restrictions | US immigration | The Guardian</a></li>
 <li> 06:48 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 06:47 <a href="https://www.theguardian.com/politics/2025/jun/05/zia-yusuf-quits-as-chair-of-reform-uk-after-new-mp-burqa-ban-row">Zia Yusuf quits as Reform UK chair after row over new MP’s call for burqa ban | Reform UK | The Guardian</a></li>
 <li> 06:46 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:46 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:46 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:46 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/us-news/2025/jun/05/trump-elon-musk-fallout">Impeachment, Epstein and bitter acrimony: Trump and Musk joust in astonishing social media duel | Donald Trump | The Guardian</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:44 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:44 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:44 <a href="https://www.theguardian.com/commentisfree/2025/jun/06/keir-starmer-politics-left-right-prime-minister">Keir Starmer’s muddled politics are reaching their limit. It’s time for him to make a choice | Andy Beckett | The Guardian</a></li>
 <li> 06:43 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 06:42 <a href="https://www.theguardian.com/culture/2025/jun/06/explain-it-to-me-quickly-what-is-aura-farming-and-is-it-cool-or-cringe">Explain it to me quickly: What is aura farming, and is it cool or cringe? | Timothée Chalamet | The Guardian</a></li>
@@ -39979,7 +39992,7 @@ With number of accesses/minutes in parentheses
 <li> 06:18 <a href="https://www.theguardian.com/film/2025/jun/05/predator-killer-of-killers-review-animated-anthology-of-arnies-old-antagonists">Predator: Killer of Killers review – animated anthology of Arnie’s old antagonists | Film | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/australia-news/2025/jun/05/erin-patterson-mushroom-lunch-trial-cross-examination-death-cap-ntwnfb">Erin Patterson denies deliberately foraging death cap mushrooms and weighing fatal dose as cross-examination begins | Victoria | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:17 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:17 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:16 mail.google.com</li>
 </ul>
 
@@ -40261,7 +40274,7 @@ With number of accesses/minutes in parentheses
 <li> 10:02 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/use-word-gotten-some-readers-upset">How the use of a word in the Guardian has gotten some readers upset | Elisabeth Ribbans | The Guardian</a></li>
 <li> 10:02 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 10:02 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/04/stick-review-owen-wilson-golf-apple-tv">Stick review – Owen Wilson is utterly charming in the Ted Lasso of golf | Television | The Guardian</a></li>
-<li> 10:02 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:02 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:00 mail.google.com</li>
 <li> 09:59 my-charity-account.charitycommission.gov.uk</li>
 <li class='same'> 09:56 my-charity-account.charitycommission.gov.uk</li>
@@ -40303,7 +40316,7 @@ With number of accesses/minutes in parentheses
 <li> 08:57 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 08:52 <a href="https://www.theguardian.com/us-news/2025/jun/03/lindsey-graham-trump-russia-ukraine">Are Lindsey Graham’s contortions about to prod Trump into Russia sanctions? | US news | The Guardian</a></li>
 <li> 08:52 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:52 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:52 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -40423,7 +40436,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:15 docs.google.com</li>
 <li> 19:14 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 19:14 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:14 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:14 www.foxnews.com</li>
 <li class='same'> 19:13 www.foxnews.com</li>
 <li> 19:13 www.giantitp.com</li>
@@ -40471,7 +40484,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:16 www.camerajungle.co.uk</li>
 <li> 17:16 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:16 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:16 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:15 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 17:09 www.linkedin.com</li>
 <li> 17:08 chatgpt.com</li>
@@ -40483,7 +40496,7 @@ With number of accesses/minutes in parentheses
 <li> 17:03 www.google.com</li>
 <li> 17:03 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li class='same'> 16:40 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 16:40 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:40 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:27 mail.google.com</li>
 <li class='same'> 16:22 mail.google.com</li>
 <li> 16:21 www.reddit.com</li>
@@ -40564,7 +40577,7 @@ With number of accesses/minutes in parentheses
 <li> 13:49 outlook.office365.com</li>
 <li class='same'> 13:48 outlook.office365.com</li>
 <li> 13:46 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:46 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:46 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:41 www.reddit.com</li>
 <li class='same'> 13:39 www.reddit.com</li>
 <li class='same'> 13:38 www.reddit.com</li>
@@ -40672,7 +40685,7 @@ With number of accesses/minutes in parentheses
 <li> 06:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 06:54 <a href="https://www.theguardian.com/world/2025/jun/02/operation-spiderweb-visual-guide-ukraine-drone-attack-russian-aircraft">Operation Spiderweb: a visual guide to Ukraine’s destruction of Russian aircraft | Ukraine | The Guardian</a></li>
 <li> 06:54 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:54 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:49 docs.google.com</li>
 <li> 06:44 www.linkedin.com</li>
 <li> 06:42 www.reddit.com</li>
@@ -40735,7 +40748,7 @@ With number of accesses/minutes in parentheses
 <li> 18:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/02/why-did-ncuti-gatwa-leave-doctor-who-so-soon#img-1">Fun, flirty and far too brief: why did Ncuti Gatwa leave Doctor Who so soon? | Doctor Who | The Guardian</a></li>
 <li> 18:09 <a href="https://www.theguardian.com/tv-and-radio/2025/jun/02/why-did-ncuti-gatwa-leave-doctor-who-so-soon">Fun, flirty and far too brief: why did Ncuti Gatwa leave Doctor Who so soon? | Doctor Who | The Guardian</a></li>
 <li> 18:08 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:08 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:08 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:08 bsky.app</li>
 <li> 17:54 outlook.office365.com</li>
 <li class='same'> 17:53 outlook.office365.com</li>
@@ -40894,7 +40907,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:58 <a href="https://en.wikipedia.org/wiki/Shane_Gillis">Shane Gillis - Wikipedia</a></li>
 <li> 17:58 duckduckgo.com</li>
 <li> 17:58 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:58 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:58 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:57 www.giantitp.com</li>
 <li class='same'> 17:56 www.giantitp.com</li>
 <li class='same'> 17:55 www.giantitp.com</li>
@@ -41283,7 +41296,7 @@ With number of accesses/minutes in parentheses
 <li> 12:02 <a href="https://www.theguardian.com/us-news/2025/may/29/trump-always-chickens-out-taco-investors-narrative">‘Trump always chickens out’: Taco jibe ruffles president’s feathers | Donald Trump | The Guardian</a></li>
 <li> 12:01 <a href="https://www.theguardian.com/uk-news/2025/may/30/uk-poshest-thief-fined-stealing-le-creuset-cookware">Woman who calls herself ‘UK’s poshest thief’ fined for stealing Le Creuset cookware | UK news | The Guardian</a></li>
 <li> 12:01 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 12:01 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 12:01 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 12:00 outlook.office365.com</li>
 </ul>
 
@@ -41351,11 +41364,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:38 www.reddit.com</li>
 <li> 21:37 <a href="https://www.theguardian.com/news/2025/may/29/why-does-switzerland-have-more-nuclear-bunkers-than-any-other-country">Why does Switzerland have more nuclear bunkers than any other country? | Nuclear weapons | The Guardian</a></li>
 <li> 21:36 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 21:36 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:36 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 21:34 <a href="https://www.theguardian.com/commentisfree/2025/may/09/reform-farage-kill-off-tories-ridiculous-byelections">Will Nigel Farage and Reform UK kill off the Tories? Don’t be so ridiculous | Simon Jenkins | The Guardian</a></li>
 <li> 21:32 <a href="https://www.theguardian.com/politics/2025/may/29/is-there-any-way-back-from-abyss-for-tories">‘The brand is broken’: is there any way back from abyss for Tories? | Conservatives | The Guardian</a></li>
 <li> 21:31 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 21:31 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:31 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 21:23 mail.google.com</li>
 <li class='same'> 21:22 mail.google.com</li>
 <li> 21:22 gmail.com</li>
@@ -41411,10 +41424,10 @@ With number of accesses/minutes in parentheses
 <li> 17:44 <a href="https://www.theguardian.com/commentisfree/2025/may/29/king-charles-politics-monarchy-visit-to-canada">In Canada, Charles pushed the boundaries of politics as king. So far, he has gotten away with it | Martin Kettle | The Guardian</a></li>
 <li> 17:42 <a href="https://www.theguardian.com/commentisfree/2025/may/29/donald-trump-elon-musk-doge-tariffs">It’s been a big, beautiful week of bad news for Trump. But don’t expect it to stick | Zoe Williams | The Guardian</a></li>
 <li> 17:42 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:42 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:42 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:41 <a href="https://www.theguardian.com/us-news/2025/may/29/why-has-a-us-court-blocked-donald-trumps-tariffs-and-can-he-get-round-it">Why has a US court blocked Donald Trump’s tariffs – and can he get round it? | Trump tariffs | The Guardian</a></li>
 <li> 17:40 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:40 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:40 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:40 bsky.app</li>
 <li> 17:40 www.facebook.com</li>
 <li> 17:40 docs.google.com</li>
@@ -41449,7 +41462,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:48 www.reddit.com</li>
 <li class='same'> 15:47 www.reddit.com</li>
 <li> 15:34 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:34 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:34 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:24 www.printables.com</li>
 </ul>
 
@@ -41552,7 +41565,7 @@ With number of accesses/minutes in parentheses
 <li> 19:34 <a href="https://www.theguardian.com/news/2025/may/28/influencers-andrew-tate-tristan-to-face-charges-in-uk-cps-confirms">Influencers Andrew and Tristan Tate to face 21 charges in UK, CPS confirms | Andrew Tate | The Guardian</a></li>
 <li class='same'> 19:33 <a href="https://www.theguardian.com/news/2025/may/28/influencers-andrew-tate-tristan-to-face-charges-in-uk-cps-confirms">Influencers Andrew and Tristan Tate to face 21 charges in UK, CPS confirms | Andrew Tate | The Guardian</a></li>
 <li> 19:33 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 19:33 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:33 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:33 <a href="https://www.theguardian.com/help/privacy-policy">Privacy policy | Privacy | The Guardian</a></li>
 <li> 19:33 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 </ul>
@@ -41567,7 +41580,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:09 <a href="https://www.theguardian.com/politics/2025/may/28/john-mcdonnell-calls-for-grassroots-leadership-challenge-to-keir-starmer-government">John McDonnell calls for grassroots leadership challenge to Starmer government | John McDonnell | The Guardian</a></li>
 <li> 18:09 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:09 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:09 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:08 www.reddit.com</li>
 <li class='same'> 18:06 www.reddit.com</li>
 <li class='same'> 18:05 www.reddit.com</li>
@@ -41579,7 +41592,7 @@ With number of accesses/minutes in parentheses
 <li> 17:58 <a href="https://www.theguardian.com/us-news/live/2025/may/28/us-politics-live-donald-trump-elon-musk-tax-doge-harvard-students-immigration-news-updates#top-of-blog">Trump says he will be negotiating the ‘big, beautiful’ tax bill after Musk criticizes it – live</a></li>
 <li> 17:57 <a href="https://www.theguardian.com/us-news/live/2025/may/28/us-politics-live-donald-trump-elon-musk-tax-doge-harvard-students-immigration-news-updates">(1) Trump says he will be negotiating the ‘big, beautiful’ tax bill after Musk criticizes it – live</a></li>
 <li> 17:57 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:57 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:57 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:32 <a href="https://www.theguardian.com/money/2025/may/28/uk-homeowners-selling-less-asking-price-survey-zoopla">UK homeowners selling for 4.5% below asking price, survey shows | House prices | The Guardian</a></li>
 <li> 17:20 <a href="https://www.youtube.com/watch?v=eghnMsWqWuY">The Queens Gambit Season 1 Episode 2 Beth Harmon VS Townes - YouTube</a></li>
 <li> 17:20 <a href="https://www.youtube.com/results?search_query=queen%27s+gambit">queen's gambit - YouTube</a></li>
@@ -42110,7 +42123,7 @@ With number of accesses/minutes in parentheses
 <li> 22:28 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 22:27 <a href="https://www.theguardian.com/lifeandstyle/2025/may/25/daphne-and-celeste-pop-duo-look-back">‘People in the scene would sometimes be mean to us. They’d forget we were teenagers’: Daphne and Celeste look back | Life and style | The Guardian</a></li>
 <li> 22:26 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 22:26 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 22:26 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 22:26 <a href="https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
 <li> 22:26 www.activeluton.co.uk</li>
 </ul>
@@ -42136,7 +42149,7 @@ With number of accesses/minutes in parentheses
 <li> 19:45 <a href="https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans">Top Republicans threaten to block Trump’s spending bill if national debt is not reduced | Trump administration | The Guardian</a></li>
 <li> 19:43 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 19:43 <a href="https://www.theguardian.com/lifeandstyle/ng-interactive/2025/may/17/the-happiest-places-to-live-in-britain">The Guardian’s happiest places to live in Britain revealed | Life and style | The Guardian</a></li>
-<li> 19:43 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:43 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:43 www.google.com</li>
 </ul>
 
@@ -42178,7 +42191,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 14:02 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:02 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:02 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:02 <a href="https://www.theguardian.com/world/2025/may/23/hamburg-train-station-stabbing-attack-germany?utm_source=firefox-newtab-en-gb">Woman arrested after 17 people injured in knife attack at Hamburg train station | Germany | The Guardian</a></li>
 <li> 13:59 <a href="https://www.theguardian.com/education/2025/may/24/children-with-special-needs-in-england-may-lose-legal-right-to-school-support">Children with special needs in England may lose legal right to school support | Special educational needs | The Guardian</a></li>
 </ul>
@@ -42188,10 +42201,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:18 mail.google.com</li>
 <li> 11:55 <a href="https://www.theguardian.com/education/2025/may/24/children-with-special-needs-in-england-may-lose-legal-right-to-school-support">Children with special needs in England may lose legal right to school support | Special educational needs | The Guardian</a></li>
 <li> 11:55 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:55 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:55 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:50 <a href="https://www.theguardian.com/world/2025/may/24/trump-russia-sanctions-europe-ukraine">Trump’s Russia sanctions refusal leaves Europe with few options but to wait | Ukraine | The Guardian</a></li>
 <li> 11:43 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:43 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:43 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -42202,7 +42215,7 @@ With number of accesses/minutes in parentheses
 <li> 10:44 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 10:44 <a href="https://www.theguardian.com/society/2025/may/24/disabled-campaigners-trans-people-toilet-segregation">Disabled campaigners watching ‘in horror’ as trans people face toilet segregation | Transgender | The Guardian</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:43 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:43 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/sport/2025/may/24/adrian-newey-out-to-build-car-that-will-tempt-max-verstappen-to-aston-martin">Adrian Newey out to build car that will tempt Max Verstappen to Aston Martin | Aston Martin | The Guardian</a></li>
 </ul>
 
@@ -42261,7 +42274,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:34 drive.google.com</li>
 <li> 06:32 <a href="https://www.theguardian.com/sport/2025/may/24/adrian-newey-out-to-build-car-that-will-tempt-max-verstappen-to-aston-martin">Adrian Newey out to build car that will tempt Max Verstappen to Aston Martin | Aston Martin | The Guardian</a></li>
 <li> 06:30 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:30 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:30 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:30 <a href="https://www.theguardian.com/business/live/2025/may/23/energy-price-cap-cut-great-britain-retail-sales-stock-markets-bonds-business-live-news">Trump announces Nippon Steel and US Steel partnership – as it happened | Business | The Guardian</a></li>
 </ul>
 
@@ -42493,11 +42506,11 @@ With number of accesses/minutes in parentheses
 <li> 07:21 <a href="https://www.theguardian.com/world/2025/may/09/mexico-google-lawsuit-gulf-of-mexico">Mexico sues Google over changing Gulf of Mexico’s name for US users | Mexico | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/technology/2025/may/23/elon-musk-new-city-starbase-texas">Fear, hope and loathing in Elon Musk’s new city: ‘It’s the wild, wild west and the future’ | Elon Musk | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:21 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:21 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/us-news/2025/may/22/israeli-embassy-staff-shooting-washington-dc">Suspect charged with murder in shooting of Israeli embassy staffers | Washington DC | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 07:21 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:21 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:21 <a href="https://www.theguardian.com/us-news/2025/may/22/israeli-embassy-staff-shooting-washington-dc">Suspect charged with murder in shooting of Israeli embassy staffers | Washington DC | The Guardian</a></li>
 <li> 07:18 chatgpt.com</li>
 <li> 07:15 calendar.google.com</li>
@@ -42572,7 +42585,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 20:38 <a href="https://www.theguardian.com/law/2025/may/22/court-ruling-legal-definition-of-a-woman-misinterpreted-lady-hale">Court ruling on legal definition of a woman ‘misinterpreted’, Lady Hale says | Brenda Hale | The Guardian</a></li>
 <li> 20:38 <a href="https://www.theguardian.com/world/2025/may/22/high-court-judge-blocks-uk-from-concluding-chagos-islands-deal">UK signs £3.4bn deal to cede sovereignty over Chagos Islands to Mauritius | Chagos Islands | The Guardian</a></li>
 <li> 20:37 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 20:37 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 20:37 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
@@ -42714,7 +42727,7 @@ With number of accesses/minutes in parentheses
 <li> 06:45 outlook.office365.com</li>
 <li> 06:41 <a href="https://www.theguardian.com/games/2025/may/16/epic-games-apple-fortnite-app-store">Fortnite unavailable on iPhones globally after Apple rejects App Store release | Fortnite | The Guardian</a></li>
 <li> 06:40 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 06:40 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:40 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:40 outlook.office365.com</li>
 <li> 06:38 intranet.royalholloway.ac.uk</li>
 <li> 06:38 duckduckgo.com</li>
@@ -42737,7 +42750,7 @@ With number of accesses/minutes in parentheses
 <li> 21:35 docs.google.com</li>
 <li> 21:33 <a href="https://www.theguardian.com/technology/2025/may/21/openai-iphone-io">OpenAI buys iPhone architect’s startup for $6.4bn | Technology | The Guardian</a></li>
 <li> 21:31 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 21:31 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:31 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 21:06 www.reddit.com</li>
 <li> 21:06 www.google.com</li>
 <li> 21:06 www.reddit.com</li>
@@ -43019,7 +43032,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 19:11 www.foxnews.com</li>
 <li> 19:10 <a href="https://www.theguardian.com/world/live/2025/may/20/israel-gaza-hamas-aid-middle-east-crisis-live-news-updates">EU to review trade relations with Israel over ‘untenable’ situation in Gaza, says top diplomat – live</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 19:10 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:10 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/business/2025/may/15/ministers-to-block-thames-water-paying-bosses-bonuses-out-of-emergency-loan">Ministers to block Thames Water paying bosses bonuses out of emergency loan | Thames Water | The Guardian</a></li>
 <li> 19:10 <a href="https://www.theguardian.com/business/2025/may/20/thames-water-chair-mps-bonuses">Thames Water: big bonuses due from emergency £3bn loan ‘withdrawn’ | Thames Water | The Guardian</a></li>
 <li> 19:09 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
@@ -43186,7 +43199,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:59 www.google.com</li>
 <li> 15:57 <a href="https://www.theguardian.com/world/2025/may/19/property-england-wales-hidden-behind-opaque-trusts">At least £64bn of property in England and Wales hidden behind opaque trusts | Tax havens | The Guardian</a></li>
 <li> 15:57 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 15:57 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:57 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:57 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 </ul>
 
@@ -43276,7 +43289,7 @@ With number of accesses/minutes in parentheses
 <li> 11:49 <a href="https://www.bbc.co.uk/naidheachdan">Naidheachdan - BBC Naidheachdan</a></li>
 <li> 11:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:49 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:49 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/politics/2025/may/17/essex-thurrock-grays-views-brexit-eu-referendum">‘It feels like we never left’: resentment builds in one of UK’s firmest Brexit-backing areas | Brexit | The Guardian</a></li>
 </ul>
 
@@ -43286,7 +43299,7 @@ With number of accesses/minutes in parentheses
 <li> 11:05 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 11:04 <a href="https://www.theguardian.com/tv-and-radio/2025/may/18/eurovision-song-contest-winner-2025">Austria wins 69th Eurovision song contest with Wasted Love | Eurovision 2025 | The Guardian</a></li>
 <li> 11:04 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 11:04 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 11:04 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:53 <a href="https://www.theguardian.com/world/2025/may/18/ukraine-reports-largest-drone-attack-from-russia-since-war-began">Russia fires 273 drones at Ukraine in largest attack since start of war | Ukraine | The Guardian</a></li>
 <li> 10:52 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 </ul>
@@ -43307,7 +43320,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:21 <a href="https://www.theguardian.com/lifeandstyle/ng-interactive/2025/may/17/the-happiest-places-to-live-in-britain">The Guardian’s happiest places to live in Britain revealed | Life and style | The Guardian</a></li>
 <li> 19:21 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 19:21 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 19:21 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 19:12 www.reddit.com</li>
 <li> 19:12 www.google.com</li>
 <li> 19:11 www.reddit.com</li>
@@ -43391,7 +43404,7 @@ With number of accesses/minutes in parentheses
 <li> 08:28 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 08:27 <a href="https://www.theguardian.com/culture/2025/may/17/my-cultural-awakening-pulp-something-changed">My cultural awakening: a Pulp song made me realise I was in love with my best friend | Culture | The Guardian</a></li>
 <li> 08:26 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:26 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:26 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 08:26 <a href="https://www.theguardian.com/commentisfree/2025/may/14/ukraine-newfound-confidence-europe-russia-usa">The good news from Kyiv: with or without a ceasefire, Ukraine has a newfound confidence | Nathalie Tocci | The Guardian</a></li>
 </ul>
 
@@ -43410,7 +43423,7 @@ With number of accesses/minutes in parentheses
 <li> 18:08 <a href="https://www.theguardian.com/world/2025/may/16/russia-ukraine-meet-first-direct-talks-since-2022-instanbul#img-1">Russia and Ukraine talks end without meaningful breakthrough | Ukraine | The Guardian</a></li>
 <li> 18:08 <a href="https://www.theguardian.com/world/2025/may/16/russia-ukraine-meet-first-direct-talks-since-2022-instanbul">Russia and Ukraine talks end without meaningful breakthrough | Ukraine | The Guardian</a></li>
 <li> 18:07 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 18:07 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 18:07 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 18:00 www.thingiverse.com</li>
 </ul>
 
@@ -43765,7 +43778,7 @@ With number of accesses/minutes in parentheses
 <li> 18:01 feedly.com</li>
 <li> 18:00 <a href="https://www.theguardian.com/news/2025/may/14/michelle-obama-20-the-liberation-of-the-former-first-lady">Michelle Obama 2.0 – the reinvention of the former first lady | Michelle Obama | The Guardian</a></li>
 <li> 17:58 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 17:58 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 17:58 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 17:58 docs.google.com</li>
 </ul>
 
@@ -43890,7 +43903,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:15 <a href="https://www.theguardian.com/commentisfree/2025/may/14/ukraine-newfound-confidence-europe-russia-usa">The good news from Kyiv: with or without a ceasefire, Ukraine has a newfound confidence | Nathalie Tocci | The Guardian</a></li>
 <li> 09:14 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 09:14 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 09:14 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 09:10 web.whatsapp.com</li>
 <li> 09:10 www.facebook.com</li>
 <li class='same'> 09:09 www.facebook.com</li>
@@ -44097,9 +44110,9 @@ With number of accesses/minutes in parentheses
 <li> 14:35 www.google.com</li>
 <li> 14:35 www.thedailymash.co.uk</li>
 <li> 14:28 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:28 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:28 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:04 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 14:04 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:04 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:04 <a href="https://www.theguardian.com/artanddesign/2025/may/13/i-marvel-i-have-any-brain-cells-left-drummer-patrick-dougher-on-drugs-drink-and-blowing-his-big-break-with-sade">‘I marvel I have any brain cells left’: artist Patrick Dougher on drugs, drink and blowing his big break with Sade | Art | The Guardian</a></li>
 <li> 14:03 mail.google.com</li>
 <li> 14:00 www.facebook.com</li>
@@ -44121,7 +44134,7 @@ With number of accesses/minutes in parentheses
 <li> 13:23 duckduckgo.com</li>
 <li> 13:22 <a href="https://www.theguardian.com/artanddesign/2025/may/13/linda-rosenkrantz-peter-hujar-rebecca-hall-ben-whishaw-drugs-orgies">‘I invited a dozen ex-boyfriends to dinner and taped it’: the amazing avant garde recordings of Linda Rosenkrantz | Art | The Guardian</a></li>
 <li> 13:22 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 13:22 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 13:22 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 13:21 teams.microsoft.com</li>
 <li> 13:18 qmucu.org</li>
 <li> 13:18 duckduckgo.com</li>
@@ -44220,7 +44233,7 @@ With number of accesses/minutes in parentheses
 <li> 10:55 gmail.com</li>
 <li> 10:47 <a href="https://www.theguardian.com/artanddesign/2025/may/13/i-marvel-i-have-any-brain-cells-left-drummer-patrick-dougher-on-drugs-drink-and-blowing-his-big-break-with-sade">‘I marvel I have any brain cells left’: artist Patrick Dougher on drugs, drink and blowing his big break with Sade | Art | The Guardian</a></li>
 <li> 10:47 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:47 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:47 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:43 <a href="https://www.theguardian.com/sport/2025/may/13/novak-djokovic-and-andy-murray-end-coaching-partnership-early-after-six-months">Novak Djokovic and Andy Murray end coaching partnership after six months | Andy Murray | The Guardian</a></li>
 <li> 10:41 <a href="https://www.youtube.com/watch?v=qgC_E7p7_q0">Secure Attendance Tracking System - YouTube</a></li>
 <li> 10:41 <a href="https://www.youtube.com/watch?v=qgC_E7p7_q0&feature=youtu.be">Secure Attendance Tracking System - YouTube</a></li>
@@ -44228,7 +44241,7 @@ With number of accesses/minutes in parentheses
 <li> 10:39 outlook.office365.com</li>
 <li class='same'> 10:38 outlook.office365.com</li>
 <li> 10:37 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 10:37 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 10:37 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 10:25 outlook.office365.com</li>
 <li class='same'> 10:22 outlook.office365.com</li>
 <li> 10:09 bsky.app</li>
@@ -44274,7 +44287,7 @@ With number of accesses/minutes in parentheses
 <li> 08:02 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 08:01 <a href="https://www.theguardian.com/commentisfree/2025/may/13/young-people-degrees-labour-market-ai">We told young people that degrees were their ticket to a better life. It’s become a great betrayal | Gaby Hinsliff | The Guardian</a></li>
 <li> 08:01 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
-<li> 08:01 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 08:01 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:38 www.giantitp.com</li>
 <li> 07:37 feedly.com</li>
 <li> 07:36 www.reddit.com</li>
@@ -44321,7 +44334,7 @@ With number of accesses/minutes in parentheses
 <li> 21:52 reductress.com</li>
 <li> 21:52 news.sky.com</li>
 <li> 21:52 reductress.com</li>
-<li> 21:51 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 21:48 www.buzzfeed.com</li>
 <li class='same'> 21:47 www.buzzfeed.com</li>
 <li class='same'> 21:46 www.buzzfeed.com</li>
@@ -44567,7 +44580,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:23 www.reddit.com</li>
 <li> 06:19 <a href="https://www.theguardian.com/tv-and-radio/2025/may/11/danny-dyer-deserved-nothing-the-biggest-mistakes-from-the-2025-tv-bafta-awards">‘Danny Dyer deserved nothing!’ The biggest mistakes from the 2025 TV Bafta awards | Baftas | The Guardian</a></li>
 <li> 06:17 <a href="https://www.theguardian.com/tv-and-radio/2025/may/11/when-only-an-actors-face-gets-cast-adolescence-love-actually">My big break ... as a photograph: meet the TV and film stars who don’t even have to act | Television | The Guardian</a></li>
-<li> 06:15 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:15 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:14 mail.google.com</li>
 </ul>
 
@@ -44847,7 +44860,7 @@ With number of accesses/minutes in parentheses
 <li> 05:43 www.facebook.com</li>
 <li> 05:43 feedly.com</li>
 <li> 05:42 <a href="https://www.theguardian.com/tv-and-radio/2025/may/10/billie-piper-tv-baftas-interview">Billie Piper on toxic masculinity, raising teens, and playing complex characters: ‘I’ve been a woman on the edge – I’m not afraid of it!’ | Baftas | The Guardian</a></li>
-<li> 05:42 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 05:42 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 05:42 mail.google.com</li>
 <li> 05:42 gmail.com</li>
 </ul>
@@ -44933,7 +44946,7 @@ With number of accesses/minutes in parentheses
 <li> 15:18 <a href="https://en.wikipedia.org/wiki/Liver_King">Liver King - Wikipedia</a></li>
 <li> 15:18 duckduckgo.com</li>
 <li> 15:16 <a href="https://www.theguardian.com/tv-and-radio/2025/may/10/untold-the-liver-king-this-hilarious-expose-of-a-fitness-influencer-is-like-tiger-king">The Liver King – this hilarious exposé is like Tiger King … but with way more genital eating | Television & radio | The Guardian</a></li>
-<li> 15:15 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:15 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:14 www.facebook.com</li>
 <li class='same'> 15:01 www.facebook.com</li>
 <li> 15:01 mail.google.com</li>
@@ -44982,7 +44995,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:20 www.reddit.com</li>
 <li class='same'> 07:18 www.reddit.com</li>
 <li> 07:18 outlook.office365.com</li>
-<li> 07:18 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:18 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:14 www.tinkercad.com</li>
 <li class='same'> 07:13 www.tinkercad.com</li>
 <li> 07:09 www.facebook.com</li>
@@ -45276,7 +45289,7 @@ With number of accesses/minutes in parentheses
 <li> 16:16 login.microsoftonline.com</li>
 <li> 16:16 adfs.herts.ac.uk</li>
 <li> 16:00 <a href="https://www.theguardian.com/tv-and-radio/2025/may/09/virgin-island-awkward-tv-sexperiment-channel-4">‘My body deserves pleasure’: is Virgin Island the most awkward TV sexperiment ever? | Television | The Guardian</a></li>
-<li> 15:59 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 15:59 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:59 <a href="https://www.theguardian.com/football/2025/may/09/i-punched-another-dad-your-stories-of-the-worst-parent-behaviour-at-kids-football">‘I punched another dad’ – your stories of the worst parent behaviour at kids’ football | Football | The Guardian</a></li>
 <li> 15:56 herts.instructure.com</li>
 <li class='same'> 15:55 herts.instructure.com</li>
@@ -45530,7 +45543,7 @@ With number of accesses/minutes in parentheses
 <li> 07:35 thetab.com</li>
 <li> 07:35 www.google.com</li>
 <li> 07:34 <a href="https://www.theguardian.com/society/2025/may/08/macmillan-cancer-support-hiring-for-senior-roles-after-axing-staff">‘It makes no sense’: Macmillan hiring for senior roles after axing 26% of staff | Charities | The Guardian</a></li>
-<li> 07:34 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:34 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:34 <a href="https://www.theguardian.com/commentisfree/2025/may/07/the-guardian-view-on-india-and-pakistan-a-newly-dangerous-moment-in-an-old-dispute">The Guardian view on India and Pakistan: a newly dangerous moment in an old dispute | Editorial | The Guardian</a></li>
 <li> 07:33 <a href="https://www.theguardian.com/lifeandstyle/2025/may/07/the-aristocrat-diet-why-do-posh-people-eat-such-beige-bland-boring-food">The aristocrat diet: why do posh people eat such beige, bland, boring food? | Diets and dieting | The Guardian</a></li>
 <li> 07:31 <a href="https://www.theguardian.com/commentisfree/2025/may/07/the-guardian-view-on-india-and-pakistan-a-newly-dangerous-moment-in-an-old-dispute">The Guardian view on India and Pakistan: a newly dangerous moment in an old dispute | Editorial | The Guardian</a></li>
@@ -45712,7 +45725,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:54 jobs.reading.ac.uk</li>
 <li> 07:54 <a href="https://www.theguardian.com/australia-news/2025/may/07/don-gail-patterson-daughter-evidence-mushroom-lunch-murder-trial-ntwnfb">Erin Patterson discharged herself five minutes after doctor warned she may have death cap mushroom poisoning, court hears | Victoria | The Guardian</a></li>
-<li> 07:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:54 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 07:45 herts.instructure.com</li>
 <li> 07:37 www.tinkercad.com</li>
 <li> 07:26 <a href="https://www.bbc.co.uk/news/articles/ckgxk40ndk1o">Who will be the next Pope? Top candidates in an unpredictable process - BBC News</a></li>
@@ -45731,7 +45744,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:03 www.instagram.com</li>
 <li> 07:02 <a href="https://www.theguardian.com/artanddesign/2025/may/06/robbie-williams-radical-honesty-moco-london-art-exhibition-take-that">Robbie Williams: Radical Honesty review – ‘Tone deaf, self-important, incredibly bad art’ | Art | The Guardian</a></li>
 <li> 07:00 <a href="https://www.theguardian.com/world/2025/may/07/ukraine-war-briefing-hegseths-sudden-arms-halt-cost-us-up-to-22m-report">Ukraine war briefing: Hegseth’s sudden arms halt ‘cost US up to $2.2m’ – report | Ukraine | The Guardian</a></li>
-<li> 07:00 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 07:00 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 06:55 www.google.co.uk</li>
 <li class='same'> 06:54 www.google.co.uk</li>
 <li> 06:54 www.herts.ac.uk</li>
@@ -45758,7 +45771,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:20 duckduckgo.com</li>
 <li> 06:15 <a href="https://www.theguardian.com/world/2025/may/06/pakistan-vows-to-retaliate-after-wave-of-indian-missiles-hit-country">Pakistan decries ‘act of war’ as it retaliates against India missile attack | Kashmir | The Guardian</a></li>
 <li> 06:14 <a href="https://www.theguardian.com/world/2025/may/06/the-papal-in-tray-new-pontiff-will-have-to-hit-the-ground-running-on-so-many-urgent-issues">Papal in-tray: new pontiff will have to hit ground running on many urgent issues | The papacy | The Guardian</a></li>
-<li> 06:13 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 06:13 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <H3>Tuesday, 06/05/25</H3>
@@ -45797,7 +45810,7 @@ With number of accesses/minutes in parentheses
 <li> 20:31 www.giantitp.com</li>
 <li> 20:29 <a href="https://www.bbc.co.uk/helpandfeedback/corrections_clarifications/">Corrections and Clarifications</a></li>
 <li> 20:29 <a href="https://www.theguardian.com/uk-news/2025/may/06/bbc-admits-lapse-in-standards-around-coverage-of-prince-harry-interview">BBC admits lapse in standards around coverage of Prince Harry interview | Prince Harry | The Guardian</a></li>
-<li> 20:28 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 20:28 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 20:17 mail.google.com</li>
 <li> 20:13 docs.google.com</li>
 <li> 20:12 drive.google.com</li>
@@ -45864,7 +45877,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 16:09 www.giantitp.com</li>
 <li> 16:09 www.reddit.com</li>
 <li> 16:08 herts.instructure.com</li>
-<li> 16:08 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 16:08 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 16:07 herts.instructure.com</li>
 <li> 16:00 outlook.office365.com</li>
 </ul>
@@ -45872,7 +45885,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:00 <a href="https://www.theguardian.com/film/2025/may/06/misogyny-slop-it-ends-with-us-america-rightwing-blake-lively-justin-baldoni">‘It’s the misogyny slop ecosystem!’ How Candace Owens and the American right declared war on Blake Lively | Blake Lively | The Guardian</a></li>
-<li> 14:59 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 14:59 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 14:53 <a href="https://www.theguardian.com/film/2025/may/06/trump-softens-tone-on-movie-tariff-announcement-gavin-newsom-jimmy-kimmel-fallon">‘I’m not trying to hurt the industry’: Trump softens tone on movie tariffs | Film | The Guardian</a></li>
 <li class='same'> 14:52 <a href="https://www.theguardian.com/film/2025/may/06/trump-softens-tone-on-movie-tariff-announcement-gavin-newsom-jimmy-kimmel-fallon">‘I’m not trying to hurt the industry’: Trump softens tone on movie tariffs | Film | The Guardian</a></li>
 </ul>
@@ -46030,13 +46043,13 @@ With number of accesses/minutes in parentheses
 <li> 05:51 api-b6327e78.duosecurity.com</li>
 <li> 05:51 adfs.herts.ac.uk</li>
 <li> 05:50 feedly.com</li>
-<li> 05:50 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 05:50 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 05:46 <a href="https://www.theguardian.com/uk-news/commentisfree/2025/may/05/harrys-tv-interview-told-us-everything-and-nothing-why-are-the-royals-such-terrible-communicators">Harry’s TV interview told us everything – and nothing. Why are the royals such terrible communicators? | Zoe Williams | The Guardian</a></li>
-<li> 05:45 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 05:45 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 05:45 <a href="https://www.theguardian.com/fashion/2025/may/05/blinking-fools-the-men-who-think-shaving-off-their-eyelashes-will-make-them-more-masculine">Blinking fools? The men who think shaving off their eyelashes will make them more masculine | Fashion | The Guardian</a></li>
-<li> 05:44 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 05:44 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 05:41 <a href="https://www.theguardian.com/tv-and-radio/2025/may/05/silence-is-golden-review-katherine-ryan-would-definitely-kill-your-dog-for-cash">Silence is Golden review – Katherine Ryan would definitely kill your dog for cash | Television & radio | The Guardian</a></li>
-<li> 05:40 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 05:40 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <H3>Monday, 05/05/25</H3>
@@ -46064,7 +46077,7 @@ With number of accesses/minutes in parentheses
 <li> 21:17 api-b6327e78.duosecurity.com</li>
 <li> 21:17 adfs.herts.ac.uk</li>
 <li> 21:08 chatgpt.com</li>
-<li> 21:07 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+<li> 21:07 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 </ul>
 
 <br>
