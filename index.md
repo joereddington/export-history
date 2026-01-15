@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4407)</li>
+<ol><li>www.reddit.com (4409)</li>
 <li>mail.google.com (4355)</li>
 <li>outlook.office.com (4105)</li>
 <li>www.google.com (4052)</li>
-<li>outlook.office365.com (3933)</li>
-<li>duckduckgo.com (2716)</li>
+<li>outlook.office365.com (3938)</li>
+<li>duckduckgo.com (2717)</li>
 <li>docs.google.com (2704)</li>
 <li>chatgpt.com (1729)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1565)</li>
+<li>www.linkedin.com (1566)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1223)</li>
+<li>login.microsoftonline.com (1225)</li>
 <li>www.amazon.co.uk (1135)</li>
 <li>calendar.google.com (1097)</li>
 <li>moodle.royalholloway.ac.uk (988)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (540)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
-<li>rhul.sharepoint.com (396)</li>
+<li>rhul.sharepoint.com (398)</li>
 <li><a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a> (371)</li>
 
 
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:16 duckduckgo.com</li>
+<ul><li> 11:20 www.reddit.com</li>
+<li class='same'> 11:19 www.reddit.com</li>
+<li> 11:17 www.linkedin.com</li>
+<li> 11:15 outlook.office365.com</li>
+<li> 11:08 <a href="https://en.wikipedia.org/wiki/Judas_goat">Judas goat - Wikipedia</a></li>
+<li> 11:08 duckduckgo.com</li>
+<li> 10:49 rhul.sharepoint.com</li>
+<li> 10:49 login.microsoftonline.com</li>
+<li> 10:49 rhul.sharepoint.com</li>
+<li> 10:49 login.microsoftonline.com</li>
+<li> 10:39 outlook.office365.com</li>
+<li class='same'> 10:28 outlook.office365.com</li>
+<li class='same'> 10:27 outlook.office365.com</li>
+<li class='same'> 10:26 outlook.office365.com</li>
+<li> 10:16 duckduckgo.com</li>
 <li class='same'> 10:15 duckduckgo.com</li>
 <li> 10:12 web.whatsapp.com</li>
 <li> 10:12 calendar.google.com</li>
