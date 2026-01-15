@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (1227)</li>
 <li>www.amazon.co.uk (1135)</li>
 <li>calendar.google.com (1098)</li>
-<li>moodle.royalholloway.ac.uk (990)</li>
+<li>moodle.royalholloway.ac.uk (991)</li>
 <li>rhul-my.sharepoint.com (816)</li>
 <li>herts.instructure.com (757)</li>
 <li>web.whatsapp.com (722)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:12 herts.instructure.com</li>
+<ul><li> 14:11 moodle.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 13:31 dashboards.rhul.ac.uk</li>
+<li> 13:12 herts.instructure.com</li>
 <li class='same'> 13:11 herts.instructure.com</li>
 <li> 13:08 duckduckgo.com</li>
 <li> 13:07 www.linkedin.com</li>
