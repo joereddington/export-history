@@ -70,22 +70,22 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (4407)</li>
 <li>mail.google.com (4355)</li>
-<li>outlook.office.com (4101)</li>
+<li>outlook.office.com (4105)</li>
 <li>www.google.com (4052)</li>
 <li>outlook.office365.com (3933)</li>
-<li>duckduckgo.com (2714)</li>
+<li>duckduckgo.com (2716)</li>
 <li>docs.google.com (2704)</li>
-<li>chatgpt.com (1728)</li>
+<li>chatgpt.com (1729)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1564)</li>
+<li>www.linkedin.com (1565)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1222)</li>
-<li>www.amazon.co.uk (1134)</li>
-<li>calendar.google.com (1093)</li>
+<li>login.microsoftonline.com (1223)</li>
+<li>www.amazon.co.uk (1135)</li>
+<li>calendar.google.com (1097)</li>
 <li>moodle.royalholloway.ac.uk (988)</li>
 <li>rhul-my.sharepoint.com (816)</li>
 <li>herts.instructure.com (754)</li>
-<li>web.whatsapp.com (721)</li>
+<li>web.whatsapp.com (722)</li>
 <li>chat.openai.com (699)</li>
 <li>gmail.com (695)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:12 sellercentral.amazon.co.uk</li>
+<ul><li> 10:16 duckduckgo.com</li>
+<li class='same'> 10:15 duckduckgo.com</li>
+<li> 10:12 web.whatsapp.com</li>
+<li> 10:12 calendar.google.com</li>
+<li> 10:10 dashboards.rhul.ac.uk</li>
+<li> 10:07 www.linkedin.com</li>
+<li> 10:05 chatgpt.com</li>
+<li> 10:05 calendar.google.com</li>
+<li class='same'> 10:04 calendar.google.com</li>
+<li> 09:37 outlook.office.com</li>
+<li class='same'> 09:36 outlook.office.com</li>
+<li class='same'> 09:34 outlook.office.com</li>
+<li> 09:33 herts365-my.sharepoint.com</li>
+<li> 09:33 login.microsoftonline.com</li>
+<li> 09:33 herts365-my.sharepoint.com</li>
+<li> 09:30 outlook.office.com</li>
+<li> 09:26 www.amazon.co.uk</li>
+<li> 09:12 sellercentral.amazon.co.uk</li>
 <li> 09:11 outlook.office.com</li>
 <li> 09:11 m365.cloud.microsoft</li>
 <li> 09:11 login.microsoftonline.com</li>
@@ -86243,6 +86260,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:25 doodle.com</li>
+<li> 06:56 calendar.google.com</li>
 </ul>
 
 <H3>Thursday, 11/07/24</H3>
@@ -86253,7 +86271,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 18:45 doodle.com</li>
+<ul><li> 18:45 doodle.com</li>
 <li> 18:27 www.airbnb.co.uk</li>
 <li class='same'> 18:20 www.airbnb.co.uk</li>
 </ul>
