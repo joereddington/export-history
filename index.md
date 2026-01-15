@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (4407)</li>
 <li>mail.google.com (4355)</li>
-<li>outlook.office.com (4100)</li>
+<li>outlook.office.com (4101)</li>
 <li>www.google.com (4052)</li>
 <li>outlook.office365.com (3933)</li>
 <li>duckduckgo.com (2714)</li>
@@ -79,12 +79,12 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1564)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1221)</li>
-<li>www.amazon.co.uk (1133)</li>
+<li>login.microsoftonline.com (1222)</li>
+<li>www.amazon.co.uk (1134)</li>
 <li>calendar.google.com (1093)</li>
 <li>moodle.royalholloway.ac.uk (988)</li>
 <li>rhul-my.sharepoint.com (816)</li>
-<li>herts.instructure.com (753)</li>
+<li>herts.instructure.com (754)</li>
 <li>web.whatsapp.com (721)</li>
 <li>chat.openai.com (699)</li>
 <li>gmail.com (695)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 15/01/26</H3>
+
+<br>
+
+<ul><li> 09:12 sellercentral.amazon.co.uk</li>
+<li> 09:11 outlook.office.com</li>
+<li> 09:11 m365.cloud.microsoft</li>
+<li> 09:11 login.microsoftonline.com</li>
+<li> 09:11 herts.instructure.com</li>
+<li> 09:07 sellercentral.amazon.co.uk</li>
+<li> 09:06 www.gov.uk</li>
+<li> 09:06 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
