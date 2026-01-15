@@ -77,11 +77,11 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2704)</li>
 <li>chatgpt.com (1728)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1562)</li>
+<li>www.linkedin.com (1563)</li>
 <li>www.facebook.com (1459)</li>
 <li>login.microsoftonline.com (1216)</li>
 <li>www.amazon.co.uk (1133)</li>
-<li>calendar.google.com (1089)</li>
+<li>calendar.google.com (1090)</li>
 <li>moodle.royalholloway.ac.uk (982)</li>
 <li>rhul-my.sharepoint.com (818)</li>
 <li>herts.instructure.com (753)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (699)</li>
 <li>gmail.com (695)</li>
 <li>www.theguardian.com (685)</li>
-<li><a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a> (664)</li>
+<li><a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a> (665)</li>
 <li>tvtropes.org (630)</li>
 <li>forms.office.com (622)</li>
 <li>github.com (564)</li>
@@ -104,11 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 15/01/26</H3>
+
+<br>
+
+<ul><li> 06:23 <a href="https://www.theguardian.com/uk">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 01:25 calendar.google.com</li>
+</ul>
+
 <H3>Wednesday, 14/01/26</H3>
 
 <br>
 
-<ul><li> 13:40 forms.office.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 14:08 www.linkedin.com</li>
+<li> 13:40 forms.office.com</li>
 <li> 13:37 www.linkedin.com</li>
 <li> 13:32 forms.office.com</li>
 <li class='same'> 13:30 forms.office.com</li>
