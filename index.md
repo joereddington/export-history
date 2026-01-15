@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4411)</li>
+<ol><li>www.reddit.com (4413)</li>
 <li>mail.google.com (4355)</li>
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4052)</li>
 <li>outlook.office365.com (3942)</li>
-<li>duckduckgo.com (2722)</li>
+<li>duckduckgo.com (2723)</li>
 <li>docs.google.com (2705)</li>
 <li>chatgpt.com (1729)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1569)</li>
+<li>www.linkedin.com (1570)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1227)</li>
+<li>login.microsoftonline.com (1228)</li>
 <li>www.amazon.co.uk (1135)</li>
 <li>calendar.google.com (1098)</li>
 <li>moodle.royalholloway.ac.uk (991)</li>
-<li>rhul-my.sharepoint.com (816)</li>
+<li>rhul-my.sharepoint.com (818)</li>
 <li>herts.instructure.com (757)</li>
 <li>web.whatsapp.com (722)</li>
 <li>chat.openai.com (699)</li>
 <li>gmail.com (695)</li>
 <li>www.theguardian.com (685)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (667)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (668)</li>
 <li>tvtropes.org (630)</li>
 <li>forms.office.com (622)</li>
 <li>github.com (564)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (402)</li>
-<li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (373)</li>
+<li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (374)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:11 moodle.royalholloway.ac.uk</li>
+<ul><li> 14:57 rhul-my.sharepoint.com</li>
+<li> 14:56 <a href="https://en.wikipedia.org/wiki/DREAD_(risk_assessment_model)">DREAD (risk assessment model) - Wikipedia</a></li>
+<li> 14:56 duckduckgo.com</li>
+<li> 14:54 rhul-my.sharepoint.com</li>
+<li> 14:53 login.microsoftonline.com</li>
+<li> 14:51 <a href="https://www.theguardian.com/us-news/2026/jan/15/joe-rogan-trump-ice-gestapo">Has Joe Rogan fully soured on Trump’s presidency? | US politics | The Guardian</a></li>
+<li> 14:51 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:51 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
+<li> 14:28 www.linkedin.com</li>
+<li> 14:28 www.reddit.com</li>
+<li class='same'> 14:27 www.reddit.com</li>
+<li> 14:11 moodle.royalholloway.ac.uk</li>
 </ul>
 
 <br>
