@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4401)</li>
+<ol><li>www.reddit.com (4407)</li>
 <li>mail.google.com (4355)</li>
 <li>outlook.office.com (4100)</li>
 <li>www.google.com (4052)</li>
-<li>outlook.office365.com (3930)</li>
-<li>duckduckgo.com (2711)</li>
+<li>outlook.office365.com (3933)</li>
+<li>duckduckgo.com (2714)</li>
 <li>docs.google.com (2704)</li>
 <li>chatgpt.com (1728)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1563)</li>
+<li>www.linkedin.com (1564)</li>
 <li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1216)</li>
+<li>login.microsoftonline.com (1221)</li>
 <li>www.amazon.co.uk (1133)</li>
-<li>calendar.google.com (1090)</li>
-<li>moodle.royalholloway.ac.uk (982)</li>
-<li>rhul-my.sharepoint.com (818)</li>
+<li>calendar.google.com (1093)</li>
+<li>moodle.royalholloway.ac.uk (988)</li>
+<li>rhul-my.sharepoint.com (816)</li>
 <li>herts.instructure.com (753)</li>
 <li>web.whatsapp.com (721)</li>
 <li>chat.openai.com (699)</li>
@@ -105,6 +105,53 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 15/01/26</H3>
+
+<br>
+
+<ul><li> 08:00 outlook.office365.com</li>
+<li> 07:59 moodle.royalholloway.ac.uk</li>
+<li> 07:56 outlook.office365.com</li>
+<li> 07:56 login.microsoftonline.com</li>
+<li> 07:56 outlook.office365.com</li>
+<li> 07:45 intranet.royalholloway.ac.uk</li>
+<li> 07:45 duckduckgo.com</li>
+<li> 07:45 intranet.royalholloway.ac.uk</li>
+<li> 07:45 duckduckgo.com</li>
+<li> 07:42 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:41 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:24 moodle.royalholloway.ac.uk</li>
+<li> 07:24 login.microsoftonline.com</li>
+<li> 07:24 moodle.royalholloway.ac.uk</li>
+<li> 07:24 login.microsoftonline.com</li>
+<li> 07:24 moodle.royalholloway.ac.uk</li>
+<li> 07:24 calendar.google.com</li>
+<li class='same'> 07:23 calendar.google.com</li>
+<li> 07:23 safeguardingdigital.co.uk</li>
+<li> 07:23 duckduckgo.com</li>
+<li> 07:22 calendar.google.com</li>
+<li> 07:19 ce0997li.webitrent.com</li>
+<li class='same'> 07:18 ce0997li.webitrent.com</li>
+<li> 07:18 login.microsoftonline.com</li>
+<li> 07:18 ce0997li.webitrent.com</li>
+<li> 07:18 login.microsoftonline.com</li>
+<li> 07:18 ce0997li.webitrent.com</li>
+<li> 07:13 www.reddit.com</li>
+<li class='same'> 07:12 www.reddit.com</li>
+<li class='same'> 07:10 www.reddit.com</li>
+<li class='same'> 07:09 www.reddit.com</li>
+<li class='same'> 07:07 www.reddit.com</li>
+<li class='same'> 07:06 www.reddit.com</li>
+<li> 07:05 www.linkedin.com</li>
+<li> 07:04 herts365-my.sharepoint.com</li>
+<li class='same'> 07:03 herts365-my.sharepoint.com</li>
+<li class='same'> 07:02 herts365-my.sharepoint.com</li>
+<li> 07:02 login.microsoftonline.com</li>
+<li> 07:02 herts365-my.sharepoint.com</li>
+<li> 07:02 m365.cloud.microsoft</li>
+<li> 07:02 login.microsoftonline.com</li>
+<li> 07:02 www.hr.herts.ac.uk</li>
+<li> 06:54 photos.google.com</li>
+</ul>
 
 <br>
 
@@ -16227,8 +16274,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:55 accounts.google.com</li>
-<li> 15:55 mail.google.com</li>
+<ul><li> 15:55 mail.google.com</li>
 <li> 15:55 uofglasgow.zoom.us</li>
 <li> 15:54 mail.google.com</li>
 <li> 15:54 gmail.com</li>
@@ -16312,16 +16358,13 @@ With number of accesses/minutes in parentheses
 <li> 13:54 feedly.com</li>
 <li> 13:54 <a href="https://www.theguardian.com/">‘A bombshell’: doubt cast on discovery of microplastics throughout human body | Plastics | The Guardian</a></li>
 <li> 13:54 outlook.office365.com</li>
-<li> 13:42 rhul-my.sharepoint.com</li>
 <li> 13:42 forms.office.com</li>
 <li> 13:28 moodle.royalholloway.ac.uk</li>
 <li> 13:24 outlook.office365.com</li>
 <li class='same'> 13:23 outlook.office365.com</li>
-<li> 13:03 rhul-my.sharepoint.com</li>
 <li> 13:03 forms.office.com</li>
 <li> 13:03 rhul-my.sharepoint.com</li>
-<li> 13:03 login.microsoftonline.com</li>
-<li> 13:02 rhul-my.sharepoint.com</li>
+<li class='same'> 13:02 rhul-my.sharepoint.com</li>
 <li> 13:02 forms.office.com</li>
 <li class='same'> 13:01 forms.office.com</li>
 <li> 13:01 login.microsoftonline.com</li>
@@ -16361,7 +16404,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 06:46 chatgpt.com</li>
 <li> 06:46 chat.openai.com</li>
 <li> 06:44 outlook.office365.com</li>
-<li> 06:44 login.microsoftonline.com</li>
 </ul>
 
 <H3>Wednesday, 15/10/25</H3>
