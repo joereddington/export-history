@@ -68,47 +68,182 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4419)</li>
-<li>mail.google.com (4355)</li>
+<ol><li>www.reddit.com (4426)</li>
+<li>mail.google.com (4367)</li>
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4052)</li>
 <li>outlook.office365.com (3942)</li>
-<li>duckduckgo.com (2724)</li>
+<li>duckduckgo.com (2725)</li>
 <li>docs.google.com (2705)</li>
-<li>chatgpt.com (1729)</li>
+<li>chatgpt.com (1732)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1572)</li>
-<li>www.facebook.com (1459)</li>
-<li>login.microsoftonline.com (1228)</li>
-<li>www.amazon.co.uk (1135)</li>
-<li>calendar.google.com (1098)</li>
-<li>moodle.royalholloway.ac.uk (991)</li>
-<li>rhul-my.sharepoint.com (818)</li>
+<li>www.linkedin.com (1575)</li>
+<li>www.facebook.com (1475)</li>
+<li>login.microsoftonline.com (1233)</li>
+<li>www.amazon.co.uk (1138)</li>
+<li>calendar.google.com (1101)</li>
+<li>moodle.royalholloway.ac.uk (1000)</li>
+<li>rhul-my.sharepoint.com (824)</li>
 <li>herts.instructure.com (757)</li>
-<li>web.whatsapp.com (722)</li>
-<li>chat.openai.com (699)</li>
-<li>gmail.com (695)</li>
+<li>web.whatsapp.com (724)</li>
+<li>chat.openai.com (701)</li>
+<li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (669)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (676)</li>
 <li>tvtropes.org (630)</li>
 <li>forms.office.com (622)</li>
 <li>github.com (564)</li>
-<li>feedly.com (541)</li>
+<li>feedly.com (542)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (402)</li>
-<li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (374)</li>
+<li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (376)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Friday, 16/01/26</H3>
+
+<br>
+
+<ul><li> 05:52 dashboards.rhul.ac.uk</li>
+<li> 05:51 moodle.royalholloway.ac.uk</li>
+<li> 05:50 fyp.cs.rhul.ac.uk</li>
+<li> 05:50 moodle.royalholloway.ac.uk</li>
+<li class='same'> 05:48 moodle.royalholloway.ac.uk</li>
+<li> 05:48 login.microsoftonline.com</li>
+<li> 05:48 moodle.royalholloway.ac.uk</li>
+<li> 05:48 login.microsoftonline.com</li>
+<li> 05:48 moodle.royalholloway.ac.uk</li>
+<li> 05:48 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 05:46 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 05:45 fyp.cs.rhul.ac.uk</li>
+<li> 05:45 projects.cs.rhul.ac.uk</li>
+<li> 05:42 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 05:42 www.ebay.co.uk</li>
+<li> 05:42 calendar.google.com</li>
+<li> 05:42 mail.google.com</li>
+<li> 05:41 www.amazon.co.uk</li>
+<li> 05:40 sellercentral.amazon.co.uk</li>
+<li> 05:40 mail.google.com</li>
+<li> 05:40 sellercentral.amazon.co.uk</li>
+<li class='same'> 05:39 sellercentral.amazon.co.uk</li>
+<li class='same'> 05:38 sellercentral.amazon.co.uk</li>
+<li> 05:36 www.reddit.com</li>
+<li class='same'> 05:35 www.reddit.com</li>
+<li> 05:35 calendar.google.com</li>
+<li class='same'> 05:34 calendar.google.com</li>
+<li> 05:33 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 05:33 mail.google.com</li>
+<li class='same'> 05:32 mail.google.com</li>
+<li> 05:32 fyp.cs.rhul.ac.uk</li>
+<li> 05:31 www.facebook.com</li>
+<li> 05:31 chatgpt.com</li>
+<li class='same'> 05:30 chatgpt.com</li>
+<li> 05:30 chat.openai.com</li>
+<li> 05:30 www.facebook.com</li>
+<li class='same'> 05:29 www.facebook.com</li>
+<li> 05:29 www.amazon.co.uk</li>
+<li class='same'> 05:28 www.amazon.co.uk</li>
+<li> 05:28 www.giantitp.com</li>
+<li> 05:17 chatgpt.com</li>
+<li> 05:17 chat.openai.com</li>
+<li> 05:10 rhul-my.sharepoint.com</li>
+<li> 05:09 www.sfadb.com</li>
+<li> 05:08 feedly.com</li>
+<li> 05:07 rhul-my.sharepoint.com</li>
+<li> 05:05 www.foxnews.com</li>
+<li> 05:04 <a href="https://www.theguardian.com/world/2026/jan/15/maria-corina-machado-says-she-presented-trump-with-her-nobel-peace-prize-medal">María Corina Machado presents Trump with her Nobel peace prize medal | María Corina Machado | The Guardian</a></li>
+<li> 05:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 05:04 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
+<li> 05:02 www.reddit.com</li>
+<li class='same'> 04:58 www.reddit.com</li>
+<li> 04:58 mail.google.com</li>
+<li> 04:58 rhul-my.sharepoint.com</li>
+<li> 04:50 www.natwest.com</li>
+<li> 04:46 rhul-my.sharepoint.com</li>
+<li> 04:45 www.onlinebanking.natwest.com</li>
+<li class='same'> 04:44 www.onlinebanking.natwest.com</li>
+<li class='same'> 04:43 www.onlinebanking.natwest.com</li>
+<li> 04:43 www.natwest.com</li>
+<li> 04:43 natwest.com</li>
+<li> 04:42 bluediamond.us16.list-manage.com</li>
+</ul>
+
 <H3>Thursday, 15/01/26</H3>
 
 <br>
 
-<ul><li> 16:15 <a href="https://www.youtube.com/watch?v=l-HjmAaiQUs&list=PLEmAmwxhSfJuTgJXaVVywd5J73N0eEUYN">(39) Everything GREAT About Sonic the Hedgehog 3! - YouTube</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li> 19:41 <a href="https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk">Access Restricted</a></li>
+<li> 19:41 www.hr.herts.ac.uk</li>
+<li> 19:35 <a href="https://www.theguardian.com/education/2026/jan/15/ofsted-launches-inspection-of-school-criticised-for-cancelling-mp-visit">Ofsted holds snap inspection of Bristol school criticised for cancelling MP’s visit | Ofsted | The Guardian</a></li>
+<li class='same'> 19:26 <a href="https://www.theguardian.com/education/2026/jan/15/ofsted-launches-inspection-of-school-criticised-for-cancelling-mp-visit">Ofsted holds snap inspection of Bristol school criticised for cancelling MP’s visit | Ofsted | The Guardian</a></li>
+<li> 19:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:24 <a href="https://www.theguardian.com/politics/2026/jan/15/robert-jenrick-defects-to-reform-uk-after-conservative-party-suspension">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:24 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
+<li> 19:24 <a href="https://www.theguardian.com/business/2026/jan/15/uk-economy-grew-november-reeves-budget-ons-gdp">UK economy grew by better-than-expected 0.3% in November despite budget uncertainty | Economic growth (GDP) | The Guardian</a></li>
+<li> 18:55 mail.google.com</li>
+<li class='same'> 18:54 mail.google.com</li>
+<li> 18:51 www.facebook.com</li>
+<li class='same'> 18:49 www.facebook.com</li>
+<li class='same'> 18:48 www.facebook.com</li>
+<li> 18:47 accountscenter.facebook.com</li>
+<li> 18:47 www.facebook.com</li>
+<li class='same'> 18:46 www.facebook.com</li>
+<li> 18:46 passwords-generator.org</li>
+<li> 18:46 duckduckgo.com</li>
+<li> 18:45 www.facebook.com</li>
+<li> 18:45 mail.google.com</li>
+<li> 18:45 www.facebook.com</li>
+<li> 18:37 rhul-my.sharepoint.com</li>
+<li> 18:37 login.microsoftonline.com</li>
+<li> 18:37 rhul-my.sharepoint.com</li>
+<li> 18:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 18:36 moodle.royalholloway.ac.uk</li>
+<li> 18:36 login.microsoftonline.com</li>
+<li> 18:36 moodle.royalholloway.ac.uk</li>
+<li> 18:36 login.microsoftonline.com</li>
+<li> 18:36 moodle.royalholloway.ac.uk</li>
+<li> 18:35 <a href="https://www.theguardian.com/world/2026/jan/15/greenland-defence-nato-denmark-prime-minister-european-troops">Greenland’s defence is ‘common concern’ for Nato, Danish PM says as European troops fly in | Greenland | The Guardian</a></li>
+<li> 18:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:33 www.reddit.com</li>
+<li> 18:33 <a href="https://www.youtube.com/">(39) YouTube</a></li>
+<li> 18:32 web.whatsapp.com</li>
+<li class='same'> 18:31 web.whatsapp.com</li>
+<li> 18:30 mail.google.com</li>
+<li class='same'> 18:27 mail.google.com</li>
+<li> 18:26 accountscenter.facebook.com</li>
+<li> 18:26 www.facebook.com</li>
+<li class='same'> 18:24 www.facebook.com</li>
+<li> 18:24 mail.google.com</li>
+<li class='same'> 18:23 mail.google.com</li>
+<li> 18:23 gmail.com</li>
+<li> 18:23 www.facebook.com</li>
+<li> 18:23 www.instagram.com</li>
+<li> 18:23 www.facebook.com</li>
+<li> 18:23 www.linkedin.com</li>
+<li class='same'> 18:22 www.linkedin.com</li>
+<li> 17:59 <a href="https://www.theguardian.com/business/2026/jan/15/uk-economy-grew-november-reeves-budget-ons-gdp">UK economy grew by better-than-expected 0.3% in November despite budget uncertainty | Economic growth (GDP) | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 16:29 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&limit=250&days=30&enhanced=1&title=Special%3AWatchlist&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:29 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&watchlistactivity=unseen&hidecategorization=1&hideWikibase=1&urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:29 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:29 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:29 <a href="https://en.wikipedia.org/"></a></li>
+<li> 16:27 www.reddit.com</li>
+<li class='same'> 16:26 www.reddit.com</li>
+<li> 16:18 www.linkedin.com</li>
+<li> 16:15 <a href="https://www.youtube.com/watch?v=l-HjmAaiQUs&list=PLEmAmwxhSfJuTgJXaVVywd5J73N0eEUYN">(39) Everything GREAT About Sonic the Hedgehog 3! - YouTube</a></li>
 <li> 16:15 <a href="https://www.youtube.com/feed/you">(39) YouTube</a></li>
 <li> 16:15 <a href="https://www.youtube.com/">(39) YouTube</a></li>
 <li> 16:14 <a href="https://www.youtube.com/watch?v=srmUxlOMD_c">(39) The Art of Comedic Timing in "Clue" – A Tim Curry Showcase - YouTube</a></li>
@@ -188,11 +323,14 @@ With number of accesses/minutes in parentheses
 <li> 12:23 duckduckgo.com</li>
 <li class='same'> 12:22 duckduckgo.com</li>
 <li class='same'> 12:21 duckduckgo.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:49 www.linkedin.com</li>
+<li> 12:03 <a href="https://www.theguardian.com/business/2026/jan/15/uk-economy-grew-november-reeves-budget-ons-gdp">UK economy grew by better-than-expected 0.3% in November despite budget uncertainty | Economic growth (GDP) | The Guardian</a></li>
+<li> 12:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:03 <a href="https://www.theguardian.com/uk-news/2026/jan/15/wes-streeting-shocked-police-chief-behind-maccabi-tel-aviv-ban-still-in-post">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:03 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:02 <a href="https://www.theguardian.com/politics/live/2026/jan/15/local-elections-delays-uk-politics-live-latest-news-keir-starmer#top-of-blog">(1) Robert Jenrick sacked by Kemi Badenoch over ‘clear evidence he was plotting to defect’ – UK politics live</a></li>
+<li> 12:00 <a href="https://www.theguardian.com/politics/live/2026/jan/15/local-elections-delays-uk-politics-live-latest-news-keir-starmer">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:00 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:49 www.linkedin.com</li>
 <li> 11:49 www.reddit.com</li>
 <li class='same'> 11:48 www.reddit.com</li>
 <li> 11:45 kinesis-ergo.com</li>
@@ -957,7 +1095,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 06:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:23 www.smythstoys.com</li>
 <li class='same'> 06:19 www.smythstoys.com</li>
-<li> 06:19 <a href="https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk">‘Add blood, forced smile’: how Grok’s nudification tool went viral | AI (artificial intelligence) | The Guardian</a></li>
+<li> 06:19 <a href="https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk">Access Restricted</a></li>
 <li> 06:12 www.amazon.com</li>
 <li> 06:12 mail.google.com</li>
 </ul>
@@ -1016,7 +1154,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:39 support.theguardian.com</li>
-<li> 15:39 <a href="https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk">‘Add blood, forced smile’: how Grok’s nudification tool went viral | AI (artificial intelligence) | The Guardian</a></li>
+<li> 15:39 <a href="https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk">Access Restricted</a></li>
 <li> 15:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 15:38 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
 <li> 15:36 <a href="https://www.theguardian.com/world/2026/jan/11/nobel-institute-rejects-maria-corina-machados-offer-to-share-peace-prize-with-trump">Latest news, sport and opinion from the Guardian</a></li>
@@ -85422,6 +85560,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:22 <a href="https://joereddington.com/Comics/">Joe’s Comics | HTML and css for making comics.</a></li>
 <li> 07:06 mail.google.com</li>
 <li> 07:06 www.facebook.com</li>
+<li class='same'> 07:05 www.facebook.com</li>
 <li> 07:03 www.amazon.co.uk</li>
 <li> 07:02 mail.google.com</li>
 <li> 06:48 <a href="https://xkcd.com/2962/">xkcd: President Venn Diagram</a></li>
@@ -86237,6 +86376,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:43 intranet.royalholloway.ac.uk</li>
 <li class='same'> 13:39 intranet.royalholloway.ac.uk</li>
 <li> 13:29 www.facebook.com</li>
+<li class='same'> 13:25 www.facebook.com</li>
 <li> 13:18 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
 <li> 13:16 gitlab.cim.rhul.ac.uk</li>
 <li class='same'> 13:11 gitlab.cim.rhul.ac.uk</li>
