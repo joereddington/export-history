@@ -73,27 +73,27 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4053)</li>
 <li>outlook.office365.com (3953)</li>
-<li>duckduckgo.com (2725)</li>
+<li>duckduckgo.com (2726)</li>
 <li>docs.google.com (2705)</li>
 <li>chatgpt.com (1734)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1575)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1233)</li>
+<li>login.microsoftonline.com (1235)</li>
 <li>www.amazon.co.uk (1138)</li>
 <li>calendar.google.com (1101)</li>
 <li>moodle.royalholloway.ac.uk (1001)</li>
 <li>rhul-my.sharepoint.com (826)</li>
 <li>herts.instructure.com (760)</li>
-<li>web.whatsapp.com (725)</li>
+<li>web.whatsapp.com (726)</li>
 <li>chat.openai.com (703)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (676)</li>
 <li>tvtropes.org (630)</li>
-<li>forms.office.com (622)</li>
+<li>forms.office.com (627)</li>
 <li>github.com (564)</li>
-<li>feedly.com (543)</li>
+<li>feedly.com (544)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (402)</li>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 16/01/26</H3>
+
+<br>
+
+<ul><li> 13:38 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:05 www.advance-he.ac.uk</li>
+<li> 12:57 forms.office.com</li>
+<li> 12:56 pure.royalholloway.ac.uk</li>
+<li> 12:56 duckduckgo.com</li>
+<li> 12:56 feedly.com</li>
+<li> 12:55 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:53 forms.office.com</li>
+<li> 12:53 eu-west.azureauth.duosecurity.com</li>
+<li> 12:52 api-b6327e78.duosecurity.com</li>
+<li> 12:52 login.microsoftonline.com</li>
+<li> 12:52 forms.office.com</li>
+<li> 12:52 login.microsoftonline.com</li>
+<li> 12:52 forms.office.com</li>
+<li> 12:40 www.microsoft.com</li>
+<li> 12:40 forms.office.com</li>
+</ul>
 
 <br>
 
