@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4427)</li>
+<ol><li>www.reddit.com (4429)</li>
 <li>mail.google.com (4367)</li>
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4053)</li>
-<li>outlook.office365.com (3953)</li>
-<li>duckduckgo.com (2726)</li>
+<li>outlook.office365.com (3960)</li>
+<li>duckduckgo.com (2728)</li>
 <li>docs.google.com (2705)</li>
 <li>chatgpt.com (1734)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1575)</li>
+<li>www.linkedin.com (1576)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1235)</li>
+<li>login.microsoftonline.com (1237)</li>
 <li>www.amazon.co.uk (1138)</li>
-<li>calendar.google.com (1101)</li>
-<li>moodle.royalholloway.ac.uk (1001)</li>
-<li>rhul-my.sharepoint.com (826)</li>
+<li>calendar.google.com (1103)</li>
+<li>moodle.royalholloway.ac.uk (1006)</li>
+<li>rhul-my.sharepoint.com (828)</li>
 <li>herts.instructure.com (760)</li>
 <li>web.whatsapp.com (726)</li>
 <li>chat.openai.com (703)</li>
@@ -93,11 +93,11 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li>forms.office.com (627)</li>
 <li>github.com (564)</li>
-<li>feedly.com (544)</li>
+<li>feedly.com (545)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (402)</li>
-<li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (376)</li>
+<li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (377)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,42 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:38 web.whatsapp.com</li>
+<ul><li> 14:38 outlook.office365.com</li>
+<li class='same'> 14:37 outlook.office365.com</li>
+<li class='same'> 14:36 outlook.office365.com</li>
+<li class='same'> 14:35 outlook.office365.com</li>
+<li> 14:28 libbyapp.com</li>
+<li> 14:28 <a href="https://en.wikipedia.org/wiki/Scuba_diving"></a></li>
+<li> 14:28 duckduckgo.com</li>
+<li> 14:27 <a href="https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html">You should have an Asked Questions list for your students | Joe Reddington</a></li>
+<li> 14:22 rhul-my.sharepoint.com</li>
+<li class='same'> 14:21 rhul-my.sharepoint.com</li>
+<li> 14:19 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:18 moodle.royalholloway.ac.uk</li>
+<li> 14:14 outlook.office365.com</li>
+<li> 14:14 calendar.google.com</li>
+<li class='same'> 14:13 calendar.google.com</li>
+<li> 14:12 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
+<li> 14:12 libbyapp.com</li>
+<li> 14:10 duckduckgo.com</li>
+<li> 14:10 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 14:10 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
+<li> 14:08 webtimetables.royalholloway.ac.uk</li>
+<li> 14:07 moodle.royalholloway.ac.uk</li>
+<li> 14:07 login.microsoftonline.com</li>
+<li> 14:06 moodle.royalholloway.ac.uk</li>
+<li> 14:06 login.microsoftonline.com</li>
+<li> 14:06 moodle.royalholloway.ac.uk</li>
+<li> 14:06 outlook.office365.com</li>
+<li class='same'> 14:05 outlook.office365.com</li>
+<li> 14:05 feedly.com</li>
+<li> 14:05 www.linkedin.com</li>
+<li> 14:05 libbyapp.com</li>
+<li> 14:04 www.reddit.com</li>
+<li> 14:03 www.giantitp.com</li>
+<li> 14:02 www.reddit.com</li>
+<li> 14:02 libbyapp.com</li>
+<li> 13:38 web.whatsapp.com</li>
 </ul>
 
 <br>
