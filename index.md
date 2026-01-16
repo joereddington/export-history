@@ -72,19 +72,19 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4367)</li>
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4053)</li>
-<li>outlook.office365.com (3950)</li>
+<li>outlook.office365.com (3953)</li>
 <li>duckduckgo.com (2725)</li>
 <li>docs.google.com (2705)</li>
 <li>chatgpt.com (1734)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1575)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1232)</li>
+<li>login.microsoftonline.com (1233)</li>
 <li>www.amazon.co.uk (1138)</li>
 <li>calendar.google.com (1101)</li>
 <li>moodle.royalholloway.ac.uk (1001)</li>
 <li>rhul-my.sharepoint.com (826)</li>
-<li>herts.instructure.com (757)</li>
+<li>herts.instructure.com (760)</li>
 <li>web.whatsapp.com (725)</li>
 <li>chat.openai.com (703)</li>
 <li>gmail.com (696)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:15 outlook.office365.com</li>
+<ul><li> 11:10 ev.turnitinuk.com</li>
+<li> 11:09 herts.instructure.com</li>
+<li class='same'> 11:08 herts.instructure.com</li>
+<li class='same'> 11:07 herts.instructure.com</li>
+<li> 11:01 outlook.office365.com</li>
+<li class='same'> 11:00 outlook.office365.com</li>
+<li> 10:58 myview.rhul.zellis.com</li>
+<li> 10:58 login.microsoftonline.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:18 outlook.office365.com</li>
+<li class='same'> 10:15 outlook.office365.com</li>
 <li class='same'> 10:14 outlook.office365.com</li>
 <li> 10:11 rhul-my.sharepoint.com</li>
 <li class='same'> 10:10 rhul-my.sharepoint.com</li>
