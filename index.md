@@ -75,25 +75,25 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3942)</li>
 <li>duckduckgo.com (2725)</li>
 <li>docs.google.com (2705)</li>
-<li>chatgpt.com (1732)</li>
+<li>chatgpt.com (1733)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1575)</li>
 <li>www.facebook.com (1475)</li>
 <li>login.microsoftonline.com (1233)</li>
 <li>www.amazon.co.uk (1138)</li>
 <li>calendar.google.com (1101)</li>
-<li>moodle.royalholloway.ac.uk (1000)</li>
+<li>moodle.royalholloway.ac.uk (1001)</li>
 <li>rhul-my.sharepoint.com (824)</li>
 <li>herts.instructure.com (757)</li>
 <li>web.whatsapp.com (724)</li>
-<li>chat.openai.com (701)</li>
+<li>chat.openai.com (702)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (676)</li>
 <li>tvtropes.org (630)</li>
 <li>forms.office.com (622)</li>
 <li>github.com (564)</li>
-<li>feedly.com (542)</li>
+<li>feedly.com (543)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (402)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 05:52 dashboards.rhul.ac.uk</li>
+<ul><li> 06:56 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:53 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:52 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:51 fyp.cs.rhul.ac.uk</li>
+<li> 06:43 feedly.com</li>
+<li> 06:37 fyp.cs.rhul.ac.uk</li>
+<li> 06:15 ijeecs.iaescore.com</li>
+<li> 06:13 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:11 fyp.cs.rhul.ac.uk</li>
+<li> 06:10 libbyapp.com</li>
+<li> 06:10 <a href="https://en.wikipedia.org/"></a></li>
+<li> 06:03 fyp.cs.rhul.ac.uk</li>
+<li> 05:57 chatgpt.com</li>
+<li> 05:57 chat.openai.com</li>
+<li> 05:56 moodle.royalholloway.ac.uk</li>
+<li> 05:52 dashboards.rhul.ac.uk</li>
 <li> 05:51 moodle.royalholloway.ac.uk</li>
 <li> 05:50 fyp.cs.rhul.ac.uk</li>
 <li> 05:50 moodle.royalholloway.ac.uk</li>
