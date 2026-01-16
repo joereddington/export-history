@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1575)</li>
 <li>www.facebook.com (1475)</li>
-<li>login.microsoftonline.com (1233)</li>
+<li>login.microsoftonline.com (1230)</li>
 <li>www.amazon.co.uk (1138)</li>
 <li>calendar.google.com (1101)</li>
 <li>moodle.royalholloway.ac.uk (1001)</li>
@@ -16443,7 +16443,6 @@ With number of accesses/minutes in parentheses
 <li> 17:43 docs.google.com</li>
 <li> 17:42 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:42 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 17:42 login.microsoftonline.com</li>
 <li> 17:42 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li class='same'> 17:23 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:23 eis-prod.ec.royalholloway.ac.uk</li>
@@ -16457,7 +16456,6 @@ With number of accesses/minutes in parentheses
 <li> 17:02 duckduckgo.com</li>
 <li> 17:01 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:01 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 17:01 login.microsoftonline.com</li>
 <li> 17:01 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 17:00 experience.elluciancloud.ie</li>
 <li> 17:00 login.microsoftonline.com</li>
@@ -16505,12 +16503,11 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 09:07 outlook.office365.com</li>
 <li class='same'> 09:06 outlook.office365.com</li>
-<li> 09:06 login.microsoftonline.com</li>
 </ul>
 
 <br>
 
-<ul><li> 07:40 outlook.office365.com</li>
+<ul><li class='same'> 07:40 outlook.office365.com</li>
 <li> 07:30 <a href="https://www.youtube.com/watch?v=6a1QoeqGb0M">(6) GCSE Maths: N4-15 [Examples] - YouTube</a></li>
 <li> 07:30 <a href="https://www.youtube.com/watch?v=6a1QoeqGb0M&feature=youtu.be">GCSE Maths: N4-15 [Examples] - YouTube</a></li>
 <li> 07:30 docs.google.com</li>
@@ -16535,7 +16532,6 @@ With number of accesses/minutes in parentheses
 <li> 06:40 identity-bsigroup-com.royalholloway.idm.oclc.org</li>
 <li> 06:40 federation-bsigroup-com.royalholloway.idm.oclc.org</li>
 <li> 06:40 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
-<li> 06:40 login.openathens.net</li>
 <li> 06:40 login.microsoftonline.com</li>
 <li> 06:40 libguides.rhul.ac.uk</li>
 <li> 06:40 outlook.office365.com</li>
