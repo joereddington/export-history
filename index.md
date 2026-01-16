@@ -72,21 +72,21 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4367)</li>
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4053)</li>
-<li>outlook.office365.com (3942)</li>
+<li>outlook.office365.com (3950)</li>
 <li>duckduckgo.com (2725)</li>
 <li>docs.google.com (2705)</li>
-<li>chatgpt.com (1733)</li>
+<li>chatgpt.com (1734)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1575)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1230)</li>
+<li>login.microsoftonline.com (1232)</li>
 <li>www.amazon.co.uk (1138)</li>
 <li>calendar.google.com (1101)</li>
 <li>moodle.royalholloway.ac.uk (1001)</li>
-<li>rhul-my.sharepoint.com (824)</li>
+<li>rhul-my.sharepoint.com (826)</li>
 <li>herts.instructure.com (757)</li>
-<li>web.whatsapp.com (724)</li>
-<li>chat.openai.com (702)</li>
+<li>web.whatsapp.com (725)</li>
+<li>chat.openai.com (703)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (676)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 16/01/26</H3>
+
+<br>
+
+<ul><li> 10:15 outlook.office365.com</li>
+<li class='same'> 10:14 outlook.office365.com</li>
+<li> 10:11 rhul-my.sharepoint.com</li>
+<li class='same'> 10:10 rhul-my.sharepoint.com</li>
+<li> 10:08 web.whatsapp.com</li>
+<li> 10:06 chatgpt.com</li>
+<li> 10:06 chat.openai.com</li>
+<li> 10:04 myview.rhul.zellis.com</li>
+<li> 10:04 login.microsoftonline.com</li>
+<li> 10:04 myview.rhul.zellis.com</li>
+<li> 10:01 outlook.office365.com</li>
+<li class='same'> 09:59 outlook.office365.com</li>
+<li class='same'> 09:58 outlook.office365.com</li>
+<li> 09:58 login.microsoftonline.com</li>
+<li> 09:58 outlook.office365.com</li>
+<li> 09:56 fyp.cs.rhul.ac.uk</li>
+</ul>
 
 <br>
 
@@ -87366,6 +87386,8 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:19 webtimetables.royalholloway.ac.uk</li>
 <li> 11:16 outlook.office365.com</li>
 <li class='same'> 11:14 outlook.office365.com</li>
+<li class='same'> 11:13 outlook.office365.com</li>
+<li class='same'> 11:11 outlook.office365.com</li>
 <li class='same'> 11:10 outlook.office365.com</li>
 <li> 11:09 <a href="https://xkcd.com/2941/">xkcd: Cell Organelles</a></li>
 <li> 11:08 <a href="https://xkcd.com/">xkcd: Bridge Clearance</a></li>
