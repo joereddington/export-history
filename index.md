@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4429)</li>
-<li>mail.google.com (4367)</li>
+<ol><li>www.reddit.com (4430)</li>
+<li>mail.google.com (4368)</li>
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4053)</li>
-<li>outlook.office365.com (3960)</li>
-<li>duckduckgo.com (2728)</li>
+<li>outlook.office365.com (3967)</li>
+<li>duckduckgo.com (2729)</li>
 <li>docs.google.com (2705)</li>
-<li>chatgpt.com (1734)</li>
+<li>chatgpt.com (1738)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1576)</li>
 <li>www.facebook.com (1493)</li>
 <li>login.microsoftonline.com (1237)</li>
-<li>www.amazon.co.uk (1138)</li>
-<li>calendar.google.com (1103)</li>
+<li>www.amazon.co.uk (1140)</li>
+<li>calendar.google.com (1105)</li>
 <li>moodle.royalholloway.ac.uk (1006)</li>
-<li>rhul-my.sharepoint.com (828)</li>
+<li>rhul-my.sharepoint.com (829)</li>
 <li>herts.instructure.com (760)</li>
-<li>web.whatsapp.com (726)</li>
-<li>chat.openai.com (703)</li>
+<li>web.whatsapp.com (729)</li>
+<li>chat.openai.com (705)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (676)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:38 outlook.office365.com</li>
+<ul><li> 15:57 www.amazon.co.uk</li>
+<li class='same'> 15:56 www.amazon.co.uk</li>
+<li> 15:52 rhul-my.sharepoint.com</li>
+<li> 15:48 chatgpt.com</li>
+<li> 15:44 calendar.google.com</li>
+<li class='same'> 15:43 calendar.google.com</li>
+<li> 15:42 www.uolacademiccontractors.com</li>
+<li class='same'> 15:41 www.uolacademiccontractors.com</li>
+<li> 15:41 outlook.office365.com</li>
+<li> 15:40 web.whatsapp.com</li>
+<li> 15:40 outlook.office365.com</li>
+<li> 15:39 www.uolacademiccontractors.com</li>
+<li class='same'> 15:38 www.uolacademiccontractors.com</li>
+<li> 15:29 chatgpt.com</li>
+<li class='same'> 15:27 chatgpt.com</li>
+<li> 15:27 chat.openai.com</li>
+<li> 15:21 www.reddit.com</li>
+<li> 15:21 libbyapp.com</li>
+<li> 15:17 outlook.office365.com</li>
+<li class='same'> 15:16 outlook.office365.com</li>
+<li> 15:14 web.whatsapp.com</li>
+<li> 15:11 outlook.office365.com</li>
+<li> 15:09 www.staugustinewithholytrinity.co.uk</li>
+<li> 15:09 duckduckgo.com</li>
+<li> 15:08 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 15:05 mail.google.com</li>
+<li> 15:04 www.ebay.co.uk</li>
+<li> 15:03 web.whatsapp.com</li>
+<li> 15:03 chatgpt.com</li>
+<li> 15:03 chat.openai.com</li>
+<li> 14:59 outlook.office365.com</li>
+<li class='same'> 14:58 outlook.office365.com</li>
+<li class='same'> 14:38 outlook.office365.com</li>
 <li class='same'> 14:37 outlook.office365.com</li>
 <li class='same'> 14:36 outlook.office365.com</li>
 <li class='same'> 14:35 outlook.office365.com</li>
