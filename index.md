@@ -73,24 +73,24 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4059)</li>
 <li>outlook.office365.com (3973)</li>
-<li>duckduckgo.com (2729)</li>
+<li>duckduckgo.com (2730)</li>
 <li>docs.google.com (2705)</li>
 <li>chatgpt.com (1746)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1576)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1240)</li>
-<li>www.amazon.co.uk (1142)</li>
+<li>login.microsoftonline.com (1244)</li>
+<li>www.amazon.co.uk (1143)</li>
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
 <li>rhul-my.sharepoint.com (830)</li>
-<li>herts.instructure.com (772)</li>
+<li>herts.instructure.com (776)</li>
 <li>web.whatsapp.com (731)</li>
 <li>chat.openai.com (705)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (676)</li>
-<li>forms.office.com (635)</li>
+<li>forms.office.com (641)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (564)</li>
 <li>feedly.com (547)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:51 forms.office.com</li>
+<ul><li> 14:54 www.amazon.co.uk</li>
+<li> 14:46 duckduckgo.com</li>
+<li> 14:45 ev.turnitinuk.com</li>
+<li> 14:45 herts.instructure.com</li>
+<li class='same'> 14:42 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:05 herts.instructure.com</li>
+<li class='same'> 14:02 herts.instructure.com</li>
+<li> 13:54 forms.office.com</li>
+<li class='same'> 13:52 forms.office.com</li>
+<li> 13:52 login.microsoftonline.com</li>
+<li> 13:52 forms.office.com</li>
+<li> 13:52 login.microsoftonline.com</li>
+<li> 13:52 forms.office.com</li>
+<li> 13:51 cdn.forms.office.net</li>
+<li> 13:51 forms.office.com</li>
+<li> 13:51 login.microsoftonline.com</li>
+<li> 13:51 forms.office.com</li>
+<li> 13:51 login.microsoftonline.com</li>
+<li> 13:51 forms.office.com</li>
 <li class='same'> 13:24 forms.office.com</li>
 <li class='same'> 13:22 forms.office.com</li>
 <li class='same'> 13:19 forms.office.com</li>
