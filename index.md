@@ -75,15 +75,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3973)</li>
 <li>duckduckgo.com (2729)</li>
 <li>docs.google.com (2705)</li>
-<li>chatgpt.com (1743)</li>
+<li>chatgpt.com (1745)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1576)</li>
+<li>www.linkedin.com (1575)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1237)</li>
+<li>login.microsoftonline.com (1236)</li>
 <li>www.amazon.co.uk (1142)</li>
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
-<li>rhul-my.sharepoint.com (829)</li>
+<li>rhul-my.sharepoint.com (830)</li>
 <li>herts.instructure.com (760)</li>
 <li>web.whatsapp.com (730)</li>
 <li>chat.openai.com (705)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:53 fyp.cs.rhul.ac.uk</li>
+<ul><li> 07:42 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:41 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:40 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:39 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:38 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:36 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:35 fyp.cs.rhul.ac.uk</li>
+<li> 07:34 chatgpt.com</li>
+<li class='same'> 07:30 chatgpt.com</li>
+<li> 07:24 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:23 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:09 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:08 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:01 fyp.cs.rhul.ac.uk</li>
+<li> 06:58 rhul-my.sharepoint.com</li>
+<li> 06:57 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:56 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:53 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 06:40 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 06:39 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 06:36 fyp.cs.rhul.ac.uk</li>
@@ -16577,12 +16594,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:22 feedly.com</li>
 <li> 09:21 outlook.office365.com</li>
 <li class='same'> 09:20 outlook.office365.com</li>
-<li> 09:20 login.microsoftonline.com</li>
 <li> 09:19 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 09:18 webtimetables.royalholloway.ac.uk</li>
 <li> 09:18 duckduckgo.com</li>
-<li> 09:16 www.linkedin.com</li>
-<li class='same'> 09:15 www.linkedin.com</li>
+<li> 09:15 www.linkedin.com</li>
 <li class='same'> 09:10 www.linkedin.com</li>
 <li> 09:10 gizmodo.com</li>
 <li> 09:08 feedly.com</li>
