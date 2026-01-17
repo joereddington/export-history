@@ -84,14 +84,14 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
 <li>rhul-my.sharepoint.com (830)</li>
-<li>herts.instructure.com (770)</li>
+<li>herts.instructure.com (772)</li>
 <li>web.whatsapp.com (731)</li>
 <li>chat.openai.com (705)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (676)</li>
+<li>forms.office.com (635)</li>
 <li>tvtropes.org (630)</li>
-<li>forms.office.com (630)</li>
 <li>github.com (564)</li>
 <li>feedly.com (547)</li>
 <li>drive.google.com (445)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:55 herts.instructure.com</li>
+<ul><li> 13:51 forms.office.com</li>
+<li class='same'> 13:24 forms.office.com</li>
+<li class='same'> 13:22 forms.office.com</li>
+<li class='same'> 13:19 forms.office.com</li>
+<li class='same'> 13:16 forms.office.com</li>
+<li> 13:09 herts.instructure.com</li>
+<li class='same'> 13:08 herts.instructure.com</li>
+<li class='same'> 12:55 herts.instructure.com</li>
 <li class='same'> 12:48 herts.instructure.com</li>
 <li class='same'> 12:47 herts.instructure.com</li>
 <li class='same'> 12:45 herts.instructure.com</li>
