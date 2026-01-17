@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3973)</li>
 <li>duckduckgo.com (2729)</li>
 <li>docs.google.com (2705)</li>
-<li>chatgpt.com (1741)</li>
+<li>chatgpt.com (1743)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1576)</li>
 <li>www.facebook.com (1493)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (545)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
-<li>rhul.sharepoint.com (402)</li>
+<li>rhul.sharepoint.com (403)</li>
 <li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (377)</li>
 
 
@@ -104,7 +104,33 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 17/01/26</H3>
+
+<br>
+
+<ul><li> 06:53 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:40 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:39 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:36 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:35 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:28 fyp.cs.rhul.ac.uk</li>
+<li> 06:28 chatgpt.com</li>
+<li class='same'> 06:27 chatgpt.com</li>
+<li> 06:23 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:22 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 06:21 fyp.cs.rhul.ac.uk</li>
+<li> 06:18 libbyapp.com</li>
+<li> 06:18 <a href="https://en.wikipedia.org/"></a></li>
+<li> 06:16 ico.org.uk</li>
+<li> 06:15 fyp.cs.rhul.ac.uk</li>
+<li> 06:14 rhul.sharepoint.com</li>
+</ul>
+
 <H3>Friday, 16/01/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
