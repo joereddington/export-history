@@ -71,21 +71,21 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4430)</li>
 <li>mail.google.com (4368)</li>
 <li>outlook.office.com (4107)</li>
-<li>www.google.com (4053)</li>
+<li>www.google.com (4059)</li>
 <li>outlook.office365.com (3973)</li>
 <li>duckduckgo.com (2729)</li>
 <li>docs.google.com (2705)</li>
-<li>chatgpt.com (1745)</li>
+<li>chatgpt.com (1746)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1575)</li>
+<li>www.linkedin.com (1576)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1236)</li>
+<li>login.microsoftonline.com (1238)</li>
 <li>www.amazon.co.uk (1142)</li>
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
 <li>rhul-my.sharepoint.com (830)</li>
-<li>herts.instructure.com (760)</li>
-<li>web.whatsapp.com (730)</li>
+<li>herts.instructure.com (765)</li>
+<li>web.whatsapp.com (731)</li>
 <li>chat.openai.com (705)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (630)</li>
 <li>forms.office.com (627)</li>
 <li>github.com (564)</li>
-<li>feedly.com (545)</li>
+<li>feedly.com (547)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (415)</li>
 <li>rhul.sharepoint.com (403)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:42 fyp.cs.rhul.ac.uk</li>
+<ul><li> 11:45 herts.instructure.com</li>
+<li class='same'> 11:44 herts.instructure.com</li>
+<li> 11:41 chatgpt.com</li>
+<li> 11:39 herts.instructure.com</li>
+<li> 11:39 web.whatsapp.com</li>
+<li> 11:39 herts.instructure.com</li>
+<li class='same'> 11:38 herts.instructure.com</li>
+<li> 11:33 www.blacktothetrails.co.uk</li>
+<li> 11:33 login.microsoftonline.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:15 feedly.com</li>
+<li class='same'> 07:52 feedly.com</li>
+<li> 07:51 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:50 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:42 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 07:41 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 07:40 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 07:39 fyp.cs.rhul.ac.uk</li>
@@ -159,6 +176,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 21:35 fyp.cs.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 20:13 login.microsoftonline.com</li>
 </ul>
 
 <br>
@@ -280,7 +302,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:10 ev.turnitinuk.com</li>
+<ul><li> 11:38 www.google.com</li>
+<li> 11:36 www.linkedin.com</li>
+<li> 11:10 ev.turnitinuk.com</li>
 <li> 11:09 herts.instructure.com</li>
 <li class='same'> 11:08 herts.instructure.com</li>
 <li class='same'> 11:07 herts.instructure.com</li>
@@ -288,11 +312,18 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:00 outlook.office365.com</li>
 <li> 10:58 myview.rhul.zellis.com</li>
 <li> 10:58 login.microsoftonline.com</li>
-</ul>
-
-<br>
-
-<ul><li> 10:18 outlook.office365.com</li>
+<li> 10:50 www.standard.co.uk</li>
+<li> 10:50 www.google.com</li>
+<li> 10:46 <a href="https://www.bbc.co.uk/news/articles/ce3vgyjlw31o.amp">Museum thieves jailed for cage fighter murder plot - BBC News</a></li>
+<li> 10:46 www.google.com</li>
+<li class='same'> 10:45 www.google.com</li>
+<li> 10:45 www.thesun.co.uk</li>
+<li class='same'> 10:43 www.thesun.co.uk</li>
+<li class='same'> 10:42 www.thesun.co.uk</li>
+<li> 10:41 www.google.com</li>
+<li> 10:40 www.moroccoworldnews.com</li>
+<li> 10:39 www.google.com</li>
+<li> 10:18 outlook.office365.com</li>
 <li class='same'> 10:15 outlook.office365.com</li>
 <li class='same'> 10:14 outlook.office365.com</li>
 <li> 10:11 rhul-my.sharepoint.com</li>
