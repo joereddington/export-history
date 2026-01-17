@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4059)</li>
 <li>outlook.office365.com (3973)</li>
-<li>duckduckgo.com (2733)</li>
+<li>duckduckgo.com (2734)</li>
 <li>docs.google.com (2705)</li>
 <li>chatgpt.com (1746)</li>
 <li>bsky.app (1581)</li>
@@ -84,8 +84,8 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
 <li>rhul-my.sharepoint.com (830)</li>
-<li>herts.instructure.com (785)</li>
-<li>web.whatsapp.com (732)</li>
+<li>herts.instructure.com (794)</li>
+<li>web.whatsapp.com (733)</li>
 <li>chat.openai.com (705)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:43 ev.turnitinuk.com</li>
+<ul><li> 17:48 ev.turnitinuk.com</li>
+<li> 17:48 herts.instructure.com</li>
+<li class='same'> 17:42 herts.instructure.com</li>
+<li> 17:40 ev.turnitinuk.com</li>
+<li> 17:40 herts.instructure.com</li>
+<li class='same'> 17:29 herts.instructure.com</li>
+<li> 17:19 ev.turnitinuk.com</li>
+<li> 17:19 herts.instructure.com</li>
+<li> 17:18 duckduckgo.com</li>
+<li> 17:11 ev.turnitinuk.com</li>
+<li> 17:11 herts.instructure.com</li>
+<li> 17:06 web.whatsapp.com</li>
+<li> 17:06 ev.turnitinuk.com</li>
+<li> 17:06 herts.instructure.com</li>
+<li class='same'> 17:05 herts.instructure.com</li>
+<li> 16:58 ev.turnitinuk.com</li>
+<li> 16:58 herts.instructure.com</li>
+<li> 16:43 ev.turnitinuk.com</li>
 <li> 16:43 herts.instructure.com</li>
 <li> 16:34 web.whatsapp.com</li>
 <li> 16:32 ev.turnitinuk.com</li>
