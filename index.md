@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4430)</li>
+<ol><li>www.reddit.com (4431)</li>
 <li>mail.google.com (4368)</li>
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4059)</li>
 <li>outlook.office365.com (3973)</li>
-<li>duckduckgo.com (2730)</li>
+<li>duckduckgo.com (2733)</li>
 <li>docs.google.com (2705)</li>
 <li>chatgpt.com (1746)</li>
 <li>bsky.app (1581)</li>
@@ -84,8 +84,8 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
 <li>rhul-my.sharepoint.com (830)</li>
-<li>herts.instructure.com (781)</li>
-<li>web.whatsapp.com (731)</li>
+<li>herts.instructure.com (785)</li>
+<li>web.whatsapp.com (732)</li>
 <li>chat.openai.com (705)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:49 herts.instructure.com</li>
+<ul><li> 16:43 ev.turnitinuk.com</li>
+<li> 16:43 herts.instructure.com</li>
+<li> 16:34 web.whatsapp.com</li>
+<li> 16:32 ev.turnitinuk.com</li>
+<li> 16:31 herts.instructure.com</li>
+<li> 16:21 duckduckgo.com</li>
+<li> 16:15 ev.turnitinuk.com</li>
+<li> 16:15 herts.instructure.com</li>
+<li> 16:10 www.thepoke.com</li>
+<li class='same'> 16:09 www.thepoke.com</li>
+<li> 16:09 duckduckgo.com</li>
+<li> 16:08 www.indy100.com</li>
+<li> 16:08 www.reddit.com</li>
+<li> 16:08 libbyapp.com</li>
+<li> 16:08 duckduckgo.com</li>
+<li> 15:52 ev.turnitinuk.com</li>
+<li> 15:52 herts.instructure.com</li>
+<li class='same'> 15:49 herts.instructure.com</li>
 <li> 15:42 ev.turnitinuk.com</li>
 <li> 15:42 herts.instructure.com</li>
 <li class='same'> 15:41 herts.instructure.com</li>
