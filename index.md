@@ -79,19 +79,19 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1576)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1238)</li>
+<li>login.microsoftonline.com (1240)</li>
 <li>www.amazon.co.uk (1142)</li>
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
 <li>rhul-my.sharepoint.com (830)</li>
-<li>herts.instructure.com (765)</li>
+<li>herts.instructure.com (770)</li>
 <li>web.whatsapp.com (731)</li>
 <li>chat.openai.com (705)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (676)</li>
 <li>tvtropes.org (630)</li>
-<li>forms.office.com (627)</li>
+<li>forms.office.com (630)</li>
 <li>github.com (564)</li>
 <li>feedly.com (547)</li>
 <li>drive.google.com (445)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 17/01/26</H3>
+
+<br>
+
+<ul><li> 12:55 herts.instructure.com</li>
+<li class='same'> 12:48 herts.instructure.com</li>
+<li class='same'> 12:47 herts.instructure.com</li>
+<li class='same'> 12:45 herts.instructure.com</li>
+<li class='same'> 12:44 herts.instructure.com</li>
+<li> 12:42 forms.office.com</li>
+<li> 12:42 login.microsoftonline.com</li>
+<li> 12:42 forms.office.com</li>
+<li> 12:42 login.microsoftonline.com</li>
+<li> 12:42 forms.office.com</li>
+</ul>
 
 <br>
 
