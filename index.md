@@ -73,20 +73,20 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4059)</li>
 <li>outlook.office365.com (3973)</li>
-<li>duckduckgo.com (2735)</li>
+<li>duckduckgo.com (2737)</li>
 <li>docs.google.com (2705)</li>
-<li>chatgpt.com (1746)</li>
+<li>chatgpt.com (1747)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1576)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1244)</li>
+<li>login.microsoftonline.com (1243)</li>
 <li>www.amazon.co.uk (1143)</li>
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
 <li>rhul-my.sharepoint.com (830)</li>
-<li>herts.instructure.com (799)</li>
+<li>herts.instructure.com (804)</li>
 <li>web.whatsapp.com (734)</li>
-<li>chat.openai.com (705)</li>
+<li>chat.openai.com (706)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (677)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 00:56 herts.instructure.com</li>
+<ul><li> 07:44 herts.instructure.com</li>
+<li> 07:43 www.herts.ac.uk</li>
+<li> 07:43 duckduckgo.com</li>
+<li> 07:43 www.turnitinuk.com</li>
+<li> 07:43 turnitinuk.com</li>
+<li> 07:43 www.turnitin.co.uk</li>
+<li> 07:43 duckduckgo.com</li>
+<li> 07:41 ev.turnitinuk.com</li>
+<li> 07:41 herts.instructure.com</li>
+<li class='same'> 07:40 herts.instructure.com</li>
+<li> 07:30 chatgpt.com</li>
+<li> 07:30 chat.openai.com</li>
+<li> 07:06 herts.instructure.com</li>
+<li> 07:05 www.firefox.com</li>
+<li> 07:05 fyp.cs.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 06:35 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 00:56 herts.instructure.com</li>
 </ul>
 
 <H3>Saturday, 17/01/26</H3>
@@ -16697,8 +16721,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:03 login.microsoftonline.com</li>
-<li> 09:03 forms.office.com</li>
+<ul><li> 09:03 forms.office.com</li>
 </ul>
 
 <H3>Saturday, 18/10/25</H3>
