@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (644)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (564)</li>
-<li>feedly.com (548)</li>
+<li>feedly.com (550)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (416)</li>
 <li>rhul.sharepoint.com (403)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 18/01/26</H3>
+
+<br>
+
+<ul><li> 17:57 feedly.com</li>
+<li> 17:57 accounts.google.com</li>
+<li> 17:57 feedly.com</li>
+</ul>
 
 <br>
 
