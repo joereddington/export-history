@@ -84,7 +84,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
 <li>rhul-my.sharepoint.com (830)</li>
-<li>herts.instructure.com (813)</li>
+<li>herts.instructure.com (821)</li>
 <li>web.whatsapp.com (735)</li>
 <li>chat.openai.com (706)</li>
 <li>gmail.com (696)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 18/01/26</H3>
+
+<br>
+
+<ul><li> 14:52 herts.instructure.com</li>
+<li class='same'> 14:46 herts.instructure.com</li>
+<li class='same'> 14:40 herts.instructure.com</li>
+<li> 14:22 ev.turnitinuk.com</li>
+<li> 14:22 herts.instructure.com</li>
+<li class='same'> 14:21 herts.instructure.com</li>
+<li class='same'> 14:17 herts.instructure.com</li>
+<li class='same'> 14:16 herts.instructure.com</li>
+<li> 14:16 ev.turnitinuk.com</li>
+<li> 14:16 herts.instructure.com</li>
+</ul>
 
 <br>
 
