@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4059)</li>
 <li>outlook.office365.com (3973)</li>
-<li>duckduckgo.com (2734)</li>
+<li>duckduckgo.com (2735)</li>
 <li>docs.google.com (2705)</li>
 <li>chatgpt.com (1746)</li>
 <li>bsky.app (1581)</li>
@@ -84,20 +84,20 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
 <li>rhul-my.sharepoint.com (830)</li>
-<li>herts.instructure.com (794)</li>
-<li>web.whatsapp.com (733)</li>
+<li>herts.instructure.com (798)</li>
+<li>web.whatsapp.com (734)</li>
 <li>chat.openai.com (705)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (676)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (677)</li>
 <li>forms.office.com (641)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (564)</li>
-<li>feedly.com (547)</li>
+<li>feedly.com (548)</li>
 <li>drive.google.com (445)</li>
-<li>fritz.box (415)</li>
+<li>fritz.box (416)</li>
 <li>rhul.sharepoint.com (403)</li>
-<li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (377)</li>
+<li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (379)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,27 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 17/01/26</H3>
+
+<br>
+
+<ul><li> 20:32 ev.turnitinuk.com</li>
+<li> 20:32 herts.instructure.com</li>
+<li> 20:29 www.kaggle.com</li>
+<li> 20:29 duckduckgo.com</li>
+<li> 20:25 herts.instructure.com</li>
+<li> 20:19 feedly.com</li>
+<li> 20:19 libbyapp.com</li>
+<li> 20:19 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
+<li> 20:19 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:36 herts.instructure.com</li>
+<li> 19:35 web.whatsapp.com</li>
+<li> 19:29 fritz.box</li>
+<li> 19:29 detectportal.firefox.com</li>
+</ul>
 
 <br>
 
@@ -743,7 +764,9 @@ With number of accesses/minutes in parentheses
 <li> 07:45 duckduckgo.com</li>
 <li> 07:42 moodle.royalholloway.ac.uk</li>
 <li class='same'> 07:41 moodle.royalholloway.ac.uk</li>
-<li class='same'> 07:24 moodle.royalholloway.ac.uk</li>
+<li> 07:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:27 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
+<li> 07:24 moodle.royalholloway.ac.uk</li>
 <li> 07:24 login.microsoftonline.com</li>
 <li> 07:24 moodle.royalholloway.ac.uk</li>
 <li> 07:24 login.microsoftonline.com</li>
