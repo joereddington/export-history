@@ -79,18 +79,18 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1576)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1243)</li>
+<li>login.microsoftonline.com (1244)</li>
 <li>www.amazon.co.uk (1143)</li>
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
 <li>rhul-my.sharepoint.com (830)</li>
-<li>herts.instructure.com (807)</li>
+<li>herts.instructure.com (813)</li>
 <li>web.whatsapp.com (735)</li>
 <li>chat.openai.com (706)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (677)</li>
-<li>forms.office.com (641)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (678)</li>
+<li>forms.office.com (644)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (564)</li>
 <li>feedly.com (548)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:50 ev.turnitinuk.com</li>
+<ul><li> 10:34 forms.office.com</li>
+<li> 10:34 login.microsoftonline.com</li>
+<li> 10:34 forms.office.com</li>
+<li> 10:34 www.microsoft.com</li>
+<li> 10:34 forms.office.com</li>
+<li> 10:33 herts.instructure.com</li>
+<li> 10:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 10:33 libbyapp.com</li>
+<li> 10:33 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 10:31 ieeexplore.ieee.org</li>
+<li> 10:30 ev.turnitinuk.com</li>
+<li> 10:30 herts.instructure.com</li>
+<li class='same'> 10:27 herts.instructure.com</li>
+<li class='same'> 10:21 herts.instructure.com</li>
+<li> 10:11 ev.turnitinuk.com</li>
+<li> 10:11 herts.instructure.com</li>
+<li class='same'> 10:03 herts.instructure.com</li>
+<li> 09:50 ev.turnitinuk.com</li>
 <li> 09:50 herts.instructure.com</li>
 </ul>
 
