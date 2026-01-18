@@ -84,8 +84,8 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
 <li>rhul-my.sharepoint.com (830)</li>
-<li>herts.instructure.com (804)</li>
-<li>web.whatsapp.com (734)</li>
+<li>herts.instructure.com (807)</li>
+<li>web.whatsapp.com (735)</li>
 <li>chat.openai.com (706)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:44 herts.instructure.com</li>
+<ul><li> 09:50 ev.turnitinuk.com</li>
+<li> 09:50 herts.instructure.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:21 herts.instructure.com</li>
+<li class='same'> 08:15 herts.instructure.com</li>
+<li> 08:11 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 08:11 web.whatsapp.com</li>
+<li> 08:03 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 07:44 herts.instructure.com</li>
 <li> 07:43 www.herts.ac.uk</li>
 <li> 07:43 duckduckgo.com</li>
 <li> 07:43 www.turnitinuk.com</li>
