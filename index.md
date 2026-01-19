@@ -84,8 +84,8 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
 <li>rhul-my.sharepoint.com (830)</li>
-<li>herts.instructure.com (821)</li>
-<li>web.whatsapp.com (735)</li>
+<li>herts.instructure.com (827)</li>
+<li>web.whatsapp.com (736)</li>
 <li>chat.openai.com (706)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (644)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (564)</li>
-<li>feedly.com (550)</li>
+<li>feedly.com (552)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (416)</li>
 <li>rhul.sharepoint.com (403)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:57 feedly.com</li>
+<ul><li> 20:57 feedly.com</li>
+<li> 20:57 herts.instructure.com</li>
+<li class='same'> 20:47 herts.instructure.com</li>
+<li class='same'> 20:36 herts.instructure.com</li>
+<li> 20:32 web.whatsapp.com</li>
+<li> 20:09 herts.instructure.com</li>
+<li class='same'> 20:01 herts.instructure.com</li>
+<li class='same'> 19:37 herts.instructure.com</li>
+<li> 19:27 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:57 feedly.com</li>
 <li> 17:57 accounts.google.com</li>
 <li> 17:57 feedly.com</li>
 </ul>
