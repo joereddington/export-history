@@ -69,33 +69,33 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (4432)</li>
-<li>mail.google.com (4369)</li>
-<li>outlook.office.com (4107)</li>
+<li>mail.google.com (4372)</li>
+<li>outlook.office.com (4110)</li>
 <li>www.google.com (4062)</li>
 <li>outlook.office365.com (3980)</li>
-<li>duckduckgo.com (2742)</li>
-<li>docs.google.com (2713)</li>
+<li>duckduckgo.com (2746)</li>
+<li>docs.google.com (2715)</li>
 <li>chatgpt.com (1751)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1252)</li>
+<li>login.microsoftonline.com (1255)</li>
 <li>www.amazon.co.uk (1145)</li>
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1018)</li>
+<li>herts.instructure.com (829)</li>
 <li>rhul-my.sharepoint.com (828)</li>
-<li>herts.instructure.com (828)</li>
 <li>web.whatsapp.com (738)</li>
 <li>chat.openai.com (709)</li>
-<li>gmail.com (697)</li>
+<li>gmail.com (698)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (678)</li>
 <li>forms.office.com (645)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (566)</li>
-<li>feedly.com (557)</li>
+<li>feedly.com (558)</li>
 <li>drive.google.com (445)</li>
-<li>fritz.box (416)</li>
+<li>fritz.box (418)</li>
 <li>rhul.sharepoint.com (402)</li>
 <li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (380)</li>
 
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:53 ce0997li.webitrent.com</li>
+<ul><li> 18:16 outlook.office.com</li>
+<li> 18:16 m365.cloud.microsoft</li>
+<li> 18:16 login.microsoftonline.com</li>
+<li> 18:16 herts.instructure.com</li>
+<li> 18:15 outlook.office.com</li>
+<li> 18:15 login.microsoftonline.com</li>
+<li> 18:15 outlook.office.com</li>
+<li> 18:15 m365.cloud.microsoft</li>
+<li> 18:15 login.microsoftonline.com</li>
+<li> 18:14 mail.google.com</li>
+<li> 18:14 sellercentral.amazon.co.uk</li>
+<li> 18:14 mail.google.com</li>
+<li> 18:12 sellercentral.amazon.co.uk</li>
+<li> 18:12 mail.google.com</li>
+<li> 18:12 gmail.com</li>
+<li> 18:11 sellercentral.amazon.co.uk</li>
+<li> 18:10 www.herts.ac.uk</li>
+<li> 18:09 duckduckgo.com</li>
+<li> 18:09 ask.herts.ac.uk</li>
+<li> 18:09 duckduckgo.com</li>
+<li> 18:08 ask.herts.ac.uk</li>
+<li> 18:08 duckduckgo.com</li>
+<li> 18:07 libbyapp.com</li>
+<li> 18:07 <a href="https://en.wikipedia.org/"></a></li>
+<li> 18:06 duckduckgo.com</li>
+<li> 18:06 feedly.com</li>
+<li> 18:06 fritz.box</li>
+<li class='same'> 18:05 fritz.box</li>
+<li> 18:02 docs.google.com</li>
+<li class='same'> 18:00 docs.google.com</li>
+<li> 17:57 ce0997li.webitrent.com</li>
+<li class='same'> 17:53 ce0997li.webitrent.com</li>
 <li> 17:52 docs.google.com</li>
 <li class='same'> 17:51 docs.google.com</li>
 <li> 17:51 ce0997li.webitrent.com</li>
