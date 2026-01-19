@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4431)</li>
-<li>mail.google.com (4368)</li>
+<ol><li>www.reddit.com (4432)</li>
+<li>mail.google.com (4369)</li>
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4060)</li>
 <li>outlook.office365.com (3973)</li>
-<li>duckduckgo.com (2740)</li>
+<li>duckduckgo.com (2741)</li>
 <li>docs.google.com (2705)</li>
-<li>chatgpt.com (1750)</li>
+<li>chatgpt.com (1751)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
@@ -83,21 +83,21 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1143)</li>
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1015)</li>
-<li>herts.instructure.com (827)</li>
-<li>rhul-my.sharepoint.com (826)</li>
-<li>web.whatsapp.com (737)</li>
-<li>chat.openai.com (708)</li>
-<li>gmail.com (696)</li>
+<li>herts.instructure.com (828)</li>
+<li>rhul-my.sharepoint.com (827)</li>
+<li>web.whatsapp.com (738)</li>
+<li>chat.openai.com (709)</li>
+<li>gmail.com (697)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (678)</li>
 <li>forms.office.com (645)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (566)</li>
-<li>feedly.com (554)</li>
+<li>feedly.com (556)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (416)</li>
 <li>rhul.sharepoint.com (402)</li>
-<li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (379)</li>
+<li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (380)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:35 chatgpt.com</li>
+<ul><li> 11:47 www.coursera.org</li>
+<li class='same'> 11:46 www.coursera.org</li>
+<li> 11:45 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:45 libbyapp.com</li>
+<li> 11:45 www.reddit.com</li>
+<li> 11:35 www.coursera.org</li>
+<li class='same'> 11:34 www.coursera.org</li>
+<li class='same'> 11:32 www.coursera.org</li>
+<li class='same'> 11:31 www.coursera.org</li>
+<li> 11:30 chatgpt.com</li>
+<li> 11:30 chat.openai.com</li>
+<li> 11:30 www.coursera.support</li>
+<li> 11:30 duckduckgo.com</li>
+<li> 11:29 www.coursera.org</li>
+<li class='same'> 11:28 www.coursera.org</li>
+<li class='same'> 11:27 www.coursera.org</li>
+<li class='same'> 11:24 www.coursera.org</li>
+<li class='same'> 11:23 www.coursera.org</li>
+<li class='same'> 11:22 www.coursera.org</li>
+<li class='same'> 11:21 www.coursera.org</li>
+<li class='same'> 11:20 www.coursera.org</li>
+<li class='same'> 11:19 www.coursera.org</li>
+<li class='same'> 11:18 www.coursera.org</li>
+<li> 11:18 rhul-my.sharepoint.com</li>
+<li> 11:16 herts.instructure.com</li>
+<li> 11:16 <a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a></li>
+<li> 11:16 libbyapp.com</li>
+<li> 11:15 feedly.com</li>
+<li> 11:14 www.wired.com</li>
+<li> 11:14 anna.ps</li>
+<li> 11:11 dashboards.rhul.ac.uk</li>
+<li> 11:07 feedly.com</li>
+<li> 11:07 mail.google.com</li>
+<li> 11:07 gmail.com</li>
+<li> 11:05 web.whatsapp.com</li>
+<li> 11:05 web.archive.org</li>
+<li> 10:58 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 10:57 fyp.cs.rhul.ac.uk</li>
+<li> 10:35 chatgpt.com</li>
 <li> 10:35 chat.openai.com</li>
 <li> 10:24 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li class='same'> 10:13 generalssb-prod.ec.royalholloway.ac.uk</li>
