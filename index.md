@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4431)</li>
 <li>mail.google.com (4368)</li>
 <li>outlook.office.com (4107)</li>
-<li>www.google.com (4061)</li>
+<li>www.google.com (4060)</li>
 <li>outlook.office365.com (3973)</li>
 <li>duckduckgo.com (2737)</li>
 <li>docs.google.com (2705)</li>
@@ -79,12 +79,12 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1576)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1244)</li>
+<li>login.microsoftonline.com (1241)</li>
 <li>www.amazon.co.uk (1143)</li>
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1008)</li>
-<li>rhul-my.sharepoint.com (830)</li>
 <li>herts.instructure.com (827)</li>
+<li>rhul-my.sharepoint.com (826)</li>
 <li>web.whatsapp.com (736)</li>
 <li>chat.openai.com (706)</li>
 <li>gmail.com (696)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (552)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (416)</li>
-<li>rhul.sharepoint.com (403)</li>
+<li>rhul.sharepoint.com (402)</li>
 <li><a href="https://www.theguardian.com/">UK government rolls back key part of digital ID plans | Politics | The Guardian</a> (379)</li>
 
 
@@ -16568,8 +16568,11 @@ With number of accesses/minutes in parentheses
 <li> 15:26 herts.instructure.com</li>
 <li> 15:25 www.gov.uk</li>
 <li> 15:22 outlook.office365.com</li>
-<li> 15:02 rhul-my.sharepoint.com</li>
-<li> 14:50 chatgpt.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:50 chatgpt.com</li>
 <li> 14:50 chat.openai.com</li>
 <li> 14:49 rhul-my.sharepoint.com</li>
 <li> 14:46 moodle.royalholloway.ac.uk</li>
@@ -16577,7 +16580,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:44 moodle.royalholloway.ac.uk</li>
 <li> 14:44 login.microsoftonline.com</li>
 <li> 14:44 moodle.royalholloway.ac.uk</li>
-<li> 14:42 rhul-my.sharepoint.com</li>
 <li> 14:39 outlook.office365.com</li>
 <li> 14:38 rhul-my.sharepoint.com</li>
 <li> 14:35 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#cite_note-Sandle2018-3">British Airways data breach - Wikipedia</a></li>
@@ -16692,15 +16694,12 @@ With number of accesses/minutes in parentheses
 <li> 10:13 www.advance-he.ac.uk</li>
 <li> 10:13 duckduckgo.com</li>
 <li> 10:11 qmucu.org</li>
-<li> 10:11 www.google.com</li>
-<li class='same'> 10:10 www.google.com</li>
+<li> 10:10 www.google.com</li>
 <li> 10:10 www.advance-he.ac.uk</li>
 <li> 10:09 duckduckgo.com</li>
 <li> 10:09 outlook.office365.com</li>
 <li class='same'> 10:08 outlook.office365.com</li>
 <li class='same'> 09:59 outlook.office365.com</li>
-<li> 09:57 rhul.sharepoint.com</li>
-<li> 09:57 login.microsoftonline.com</li>
 <li> 09:57 rhul.sharepoint.com</li>
 <li class='same'> 09:56 rhul.sharepoint.com</li>
 <li> 09:56 login.microsoftonline.com</li>
@@ -16760,7 +16759,6 @@ With number of accesses/minutes in parentheses
 <li> 07:29 drive.google.com</li>
 <li> 07:28 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 07:28 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 07:28 login.microsoftonline.com</li>
 <li> 07:28 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 07:28 experience.elluciancloud.ie</li>
 <li> 07:28 login.microsoftonline.com</li>
@@ -16770,8 +16768,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:14 outlook.office365.com</li>
 <li class='same'> 07:13 outlook.office365.com</li>
 <li> 07:10 login.microsoftonline.com</li>
-<li> 07:09 rhul-my.sharepoint.com</li>
-<li class='same'> 07:08 rhul-my.sharepoint.com</li>
 <li> 07:08 outlook.office365.com</li>
 <li> 07:07 rhul.hosted.panopto.com</li>
 <li> 07:07 login.microsoftonline.com</li>
@@ -16784,7 +16780,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:00 outlook.office365.com</li>
 <li class='same'> 06:59 outlook.office365.com</li>
 <li class='same'> 06:58 outlook.office365.com</li>
-<li> 06:58 login.microsoftonline.com</li>
 </ul>
 
 <H3>Sunday, 19/10/25</H3>
