@@ -73,27 +73,27 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4107)</li>
 <li>www.google.com (4060)</li>
 <li>outlook.office365.com (3973)</li>
-<li>duckduckgo.com (2738)</li>
+<li>duckduckgo.com (2740)</li>
 <li>docs.google.com (2705)</li>
 <li>chatgpt.com (1749)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1576)</li>
+<li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
 <li>login.microsoftonline.com (1242)</li>
 <li>www.amazon.co.uk (1143)</li>
 <li>calendar.google.com (1107)</li>
-<li>moodle.royalholloway.ac.uk (1012)</li>
+<li>moodle.royalholloway.ac.uk (1015)</li>
 <li>herts.instructure.com (827)</li>
 <li>rhul-my.sharepoint.com (826)</li>
-<li>web.whatsapp.com (736)</li>
+<li>web.whatsapp.com (737)</li>
 <li>chat.openai.com (707)</li>
 <li>gmail.com (696)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (678)</li>
 <li>forms.office.com (644)</li>
 <li>tvtropes.org (630)</li>
-<li>github.com (564)</li>
-<li>feedly.com (552)</li>
+<li>github.com (566)</li>
+<li>feedly.com (554)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (416)</li>
 <li>rhul.sharepoint.com (402)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:55 moodle.royalholloway.ac.uk</li>
+<ul><li> 08:37 dashboards.rhul.ac.uk</li>
+<li> 08:36 web.whatsapp.com</li>
+<li> 08:35 feedly.com</li>
+<li> 08:35 www.linkedin.com</li>
+<li> 08:35 feedly.com</li>
+<li> 08:28 dashboards.rhul.ac.uk</li>
+<li> 08:27 fyp.cs.rhul.ac.uk</li>
+<li> 08:26 moodle.royalholloway.ac.uk</li>
+<li class='same'> 08:24 moodle.royalholloway.ac.uk</li>
+<li> 08:23 fyp.cs.rhul.ac.uk</li>
+<li> 07:59 github.com</li>
+<li class='same'> 07:58 github.com</li>
+<li> 07:58 duckduckgo.com</li>
+<li> 07:58 forum.clockworkpi.com</li>
+<li> 07:58 duckduckgo.com</li>
+<li> 07:56 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:55 moodle.royalholloway.ac.uk</li>
 <li class='same'> 07:48 moodle.royalholloway.ac.uk</li>
 <li> 07:48 chatgpt.com</li>
 <li class='same'> 07:47 chatgpt.com</li>
