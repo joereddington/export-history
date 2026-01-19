@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (4432)</li>
-<li>mail.google.com (4372)</li>
+<li>mail.google.com (4376)</li>
 <li>outlook.office.com (4110)</li>
 <li>www.google.com (4062)</li>
-<li>outlook.office365.com (3980)</li>
-<li>duckduckgo.com (2746)</li>
+<li>outlook.office365.com (3983)</li>
+<li>duckduckgo.com (2747)</li>
 <li>docs.google.com (2715)</li>
 <li>chatgpt.com (1751)</li>
 <li>bsky.app (1581)</li>
@@ -83,13 +83,13 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1145)</li>
 <li>calendar.google.com (1107)</li>
 <li>moodle.royalholloway.ac.uk (1018)</li>
+<li>rhul-my.sharepoint.com (829)</li>
 <li>herts.instructure.com (829)</li>
-<li>rhul-my.sharepoint.com (828)</li>
 <li>web.whatsapp.com (738)</li>
 <li>chat.openai.com (709)</li>
-<li>gmail.com (698)</li>
+<li>gmail.com (699)</li>
 <li>www.theguardian.com (685)</li>
-<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (678)</li>
+<li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (679)</li>
 <li>forms.office.com (645)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (566)</li>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 19/01/26</H3>
+
+<br>
+
+<ul><li> 19:50 mail.google.com</li>
+<li> 19:26 www.google.co.uk</li>
+<li> 19:26 duckduckgo.com</li>
+<li> 19:26 librarysearch.royalholloway.ac.uk</li>
+<li> 19:24 outlook.office365.com</li>
+<li class='same'> 19:23 outlook.office365.com</li>
+<li> 19:23 www.coursera.org</li>
+<li> 19:23 marketplace.zoom.us</li>
+<li> 19:23 zoom.us</li>
+<li class='same'> 19:22 zoom.us</li>
+<li> 19:22 outlook.office365.com</li>
+<li> 19:22 mail.google.com</li>
+<li> 19:21 www.coursera.org</li>
+<li> 19:21 rhul-my.sharepoint.com</li>
+<li> 19:20 mail.google.com</li>
+<li> 19:20 www.coursera.org</li>
+<li> 19:20 mail.google.com</li>
+<li> 19:20 gmail.com</li>
+<li> 19:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:14 libbyapp.com</li>
+</ul>
 
 <br>
 
