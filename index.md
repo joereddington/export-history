@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4432)</li>
 <li>mail.google.com (4377)</li>
 <li>outlook.office.com (4110)</li>
-<li>www.google.com (4062)</li>
+<li>www.google.com (4061)</li>
 <li>outlook.office365.com (3983)</li>
 <li>duckduckgo.com (2749)</li>
 <li>docs.google.com (2718)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1255)</li>
+<li>login.microsoftonline.com (1253)</li>
 <li>www.amazon.co.uk (1149)</li>
 <li>calendar.google.com (1108)</li>
 <li>moodle.royalholloway.ac.uk (1018)</li>
@@ -16515,8 +16515,7 @@ With number of accesses/minutes in parentheses
 <li> 22:20 www.britishpowerlifting.org</li>
 <li> 22:20 www.google.com</li>
 <li> 22:20 www.powerlifting.sport</li>
-<li> 22:20 www.google.com</li>
-<li class='same'> 22:19 www.google.com</li>
+<li> 22:19 www.google.com</li>
 <li> 22:19 www.maloneyperformance.com</li>
 <li class='same'> 22:17 www.maloneyperformance.com</li>
 <li class='same'> 22:16 www.maloneyperformance.com</li>
@@ -16669,8 +16668,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:39 moodle.royalholloway.ac.uk</li>
-<li> 07:39 login.microsoftonline.com</li>
-<li> 07:38 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:38 moodle.royalholloway.ac.uk</li>
 <li> 07:38 login.microsoftonline.com</li>
 <li> 07:38 moodle.royalholloway.ac.uk</li>
 <li> 07:38 outlook.office365.com</li>
@@ -16681,7 +16679,6 @@ With number of accesses/minutes in parentheses
 <li> 07:35 moodle.royalholloway.ac.uk</li>
 <li> 07:34 duckduckgo.com</li>
 <li> 07:33 outlook.office365.com</li>
-<li> 07:33 login.microsoftonline.com</li>
 <li> 07:33 outlook.office.com</li>
 <li> 07:33 herts365-my.sharepoint.com</li>
 <li class='same'> 07:32 herts365-my.sharepoint.com</li>
