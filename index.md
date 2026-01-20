@@ -72,25 +72,25 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4377)</li>
 <li>outlook.office.com (4110)</li>
 <li>www.google.com (4061)</li>
-<li>outlook.office365.com (3993)</li>
+<li>outlook.office365.com (3994)</li>
 <li>duckduckgo.com (2750)</li>
 <li>docs.google.com (2718)</li>
-<li>chatgpt.com (1752)</li>
+<li>chatgpt.com (1754)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1256)</li>
+<li>login.microsoftonline.com (1257)</li>
 <li>www.amazon.co.uk (1149)</li>
 <li>calendar.google.com (1109)</li>
 <li>moodle.royalholloway.ac.uk (1018)</li>
-<li>rhul-my.sharepoint.com (830)</li>
+<li>rhul-my.sharepoint.com (832)</li>
 <li>herts.instructure.com (829)</li>
 <li>web.whatsapp.com (739)</li>
-<li>chat.openai.com (710)</li>
+<li>chat.openai.com (711)</li>
 <li>gmail.com (699)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">RFK Jr’s new diet guidelines pose risks for health and the environment, experts say | Robert F Kennedy Jr | The Guardian</a> (682)</li>
-<li>forms.office.com (648)</li>
+<li>forms.office.com (652)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (566)</li>
 <li>feedly.com (560)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:34 rhul-my.sharepoint.com</li>
+<ul><li> 14:43 dpgraph.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:08 rhul-my.sharepoint.com</li>
+<li> 14:07 chatgpt.com</li>
+<li class='same'> 14:06 chatgpt.com</li>
+<li> 14:06 chat.openai.com</li>
+<li> 14:04 rhul-my.sharepoint.com</li>
+<li> 14:04 forms.office.com</li>
+<li class='same'> 14:03 forms.office.com</li>
+<li> 14:03 login.microsoftonline.com</li>
+<li> 14:03 forms.office.com</li>
+<li> 14:03 outlook.office365.com</li>
+<li> 14:02 www.microsoft.com</li>
+<li> 14:02 forms.office.com</li>
+<li> 13:34 rhul-my.sharepoint.com</li>
 <li> 13:34 libbyapp.com</li>
 <li> 13:34 www.reddit.com</li>
 <li> 13:33 outlook.office365.com</li>
