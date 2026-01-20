@@ -72,25 +72,25 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4377)</li>
 <li>outlook.office.com (4110)</li>
 <li>www.google.com (4061)</li>
-<li>outlook.office365.com (3983)</li>
-<li>duckduckgo.com (2749)</li>
+<li>outlook.office365.com (3988)</li>
+<li>duckduckgo.com (2750)</li>
 <li>docs.google.com (2718)</li>
-<li>chatgpt.com (1751)</li>
+<li>chatgpt.com (1752)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1253)</li>
+<li>login.microsoftonline.com (1256)</li>
 <li>www.amazon.co.uk (1149)</li>
-<li>calendar.google.com (1108)</li>
+<li>calendar.google.com (1109)</li>
 <li>moodle.royalholloway.ac.uk (1018)</li>
 <li>rhul-my.sharepoint.com (829)</li>
 <li>herts.instructure.com (829)</li>
 <li>web.whatsapp.com (738)</li>
-<li>chat.openai.com (709)</li>
+<li>chat.openai.com (710)</li>
 <li>gmail.com (699)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">RFK Jr’s new diet guidelines pose risks for health and the environment, experts say | Robert F Kennedy Jr | The Guardian</a> (682)</li>
-<li>forms.office.com (645)</li>
+<li>forms.office.com (648)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (566)</li>
 <li>feedly.com (560)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:52 <a href="https://www.theguardian.com/media/2026/jan/19/disgustingly-educated-will-this-trend-make-you-cleverer">UK ministers launch consultation on whether to ban social media for under-16s | Social media ban | The Guardian</a></li>
+<ul><li> 07:31 web.archive.org</li>
+<li> 07:31 outlook.office365.com</li>
+<li> 07:29 forms.office.com</li>
+<li> 07:28 outlook.office365.com</li>
+<li> 07:28 photos.google.com</li>
+<li> 07:21 chatgpt.com</li>
+<li> 07:21 chat.openai.com</li>
+<li> 07:18 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 07:18 login.microsoftonline.com</li>
+<li> 07:18 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 07:18 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 07:17 experience.elluciancloud.ie</li>
+<li> 07:17 login.microsoftonline.com</li>
+<li> 07:17 experience.elluciancloud.ie</li>
+<li> 07:14 photos.google.com</li>
+<li> 07:14 outlook.office365.com</li>
+<li> 07:12 www.royalholloway.ac.uk</li>
+<li> 07:12 duckduckgo.com</li>
+<li> 07:12 outlook.office365.com</li>
+<li class='same'> 07:08 outlook.office365.com</li>
+<li> 07:08 calendar.google.com</li>
+<li> 07:06 forms.office.com</li>
+<li> 07:06 login.microsoftonline.com</li>
+<li> 07:06 forms.office.com</li>
+<li> 06:52 <a href="https://www.theguardian.com/media/2026/jan/19/disgustingly-educated-will-this-trend-make-you-cleverer">UK ministers launch consultation on whether to ban social media for under-16s | Social media ban | The Guardian</a></li>
 <li> 06:41 <a href="https://www.theguardian.com/uk-news/2026/jan/19/uk-ministers-launch-consultation-into-whether-to-ban-social-media-for-under-16s">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:41 <a href="https://www.theguardian.com/uk">RFK Jr’s new diet guidelines pose risks for health and the environment, experts say | Robert F Kennedy Jr | The Guardian</a></li>
 <li> 06:41 <a href="https://www.theguardian.com/">RFK Jr’s new diet guidelines pose risks for health and the environment, experts say | Robert F Kennedy Jr | The Guardian</a></li>
