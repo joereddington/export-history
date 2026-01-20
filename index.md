@@ -75,18 +75,18 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3994)</li>
 <li>duckduckgo.com (2750)</li>
 <li>docs.google.com (2718)</li>
-<li>chatgpt.com (1754)</li>
+<li>chatgpt.com (1756)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1259)</li>
+<li>login.microsoftonline.com (1261)</li>
 <li>www.amazon.co.uk (1149)</li>
-<li>calendar.google.com (1109)</li>
+<li>calendar.google.com (1111)</li>
 <li>moodle.royalholloway.ac.uk (1018)</li>
 <li>rhul-my.sharepoint.com (832)</li>
 <li>herts.instructure.com (829)</li>
 <li>web.whatsapp.com (740)</li>
-<li>chat.openai.com (711)</li>
+<li>chat.openai.com (712)</li>
 <li>gmail.com (699)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">RFK Jr’s new diet guidelines pose risks for health and the environment, experts say | Robert F Kennedy Jr | The Guardian</a> (682)</li>
@@ -105,6 +105,24 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 20/01/26</H3>
+
+<br>
+
+<ul><li> 17:39 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:39 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 17:39 login.microsoftonline.com</li>
+<li> 17:39 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 17:39 experience.elluciancloud.ie</li>
+<li> 17:39 login.microsoftonline.com</li>
+<li> 17:39 experience.elluciancloud.ie</li>
+<li> 17:33 chatgpt.com</li>
+<li class='same'> 17:29 chatgpt.com</li>
+<li> 17:29 chat.openai.com</li>
+<li> 17:26 libbyapp.com</li>
+<li> 17:26 <a href="https://en.wikipedia.org/"></a></li>
+<li> 17:25 calendar.google.com</li>
+<li class='same'> 17:21 calendar.google.com</li>
+</ul>
 
 <br>
 
