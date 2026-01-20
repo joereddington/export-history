@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4110)</li>
 <li>www.google.com (4062)</li>
 <li>outlook.office365.com (3983)</li>
-<li>duckduckgo.com (2748)</li>
+<li>duckduckgo.com (2749)</li>
 <li>docs.google.com (2718)</li>
 <li>chatgpt.com (1751)</li>
 <li>bsky.app (1581)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (645)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (566)</li>
-<li>feedly.com (558)</li>
+<li>feedly.com (560)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
 <li>rhul.sharepoint.com (402)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 19/01/26</H3>
+
+<br>
+
+<ul><li> 21:28 www.otherscribbles.com</li>
+<li class='same'> 21:27 www.otherscribbles.com</li>
+<li> 21:27 duckduckgo.com</li>
+<li> 21:26 libbyapp.com</li>
+<li> 21:26 <a href="https://en.wikipedia.org/"></a></li>
+<li> 21:26 www.sfadb.com</li>
+<li class='same'> 21:24 www.sfadb.com</li>
+<li> 21:19 feedly.com</li>
+<li class='same'> 21:18 feedly.com</li>
+</ul>
 
 <br>
 
