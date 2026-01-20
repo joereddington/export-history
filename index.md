@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4432)</li>
+<ol><li>www.reddit.com (4433)</li>
 <li>mail.google.com (4377)</li>
 <li>outlook.office.com (4110)</li>
 <li>www.google.com (4061)</li>
-<li>outlook.office365.com (3989)</li>
+<li>outlook.office365.com (3993)</li>
 <li>duckduckgo.com (2750)</li>
 <li>docs.google.com (2718)</li>
 <li>chatgpt.com (1752)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1149)</li>
 <li>calendar.google.com (1109)</li>
 <li>moodle.royalholloway.ac.uk (1018)</li>
-<li>rhul-my.sharepoint.com (829)</li>
+<li>rhul-my.sharepoint.com (830)</li>
 <li>herts.instructure.com (829)</li>
 <li>web.whatsapp.com (739)</li>
 <li>chat.openai.com (710)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 20/01/26</H3>
+
+<br>
+
+<ul><li> 13:34 rhul-my.sharepoint.com</li>
+<li> 13:34 libbyapp.com</li>
+<li> 13:34 www.reddit.com</li>
+<li> 13:33 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:00 outlook.office365.com</li>
+<li class='same'> 12:59 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:01 outlook.office365.com</li>
+</ul>
 
 <br>
 
