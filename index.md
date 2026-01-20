@@ -79,13 +79,13 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1257)</li>
+<li>login.microsoftonline.com (1259)</li>
 <li>www.amazon.co.uk (1149)</li>
 <li>calendar.google.com (1109)</li>
 <li>moodle.royalholloway.ac.uk (1018)</li>
 <li>rhul-my.sharepoint.com (832)</li>
 <li>herts.instructure.com (829)</li>
-<li>web.whatsapp.com (739)</li>
+<li>web.whatsapp.com (740)</li>
 <li>chat.openai.com (711)</li>
 <li>gmail.com (699)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:43 dpgraph.com</li>
+<ul><li> 16:36 generalssb-prod.ec.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:05 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:05 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:05 login.microsoftonline.com</li>
+<li> 16:05 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:04 experience.elluciancloud.ie</li>
+<li> 16:04 login.microsoftonline.com</li>
+<li> 16:04 experience.elluciancloud.ie</li>
+<li> 15:57 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 15:56 fyp.cs.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 15:00 web.whatsapp.com</li>
+<li> 15:00 www.whatsapp.com</li>
+<li> 14:43 dpgraph.com</li>
 </ul>
 
 <br>
