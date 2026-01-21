@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (4433)</li>
-<li>mail.google.com (4381)</li>
+<li>mail.google.com (4387)</li>
 <li>outlook.office.com (4110)</li>
 <li>www.google.com (4065)</li>
 <li>outlook.office365.com (3994)</li>
 <li>duckduckgo.com (2751)</li>
-<li>docs.google.com (2718)</li>
+<li>docs.google.com (2719)</li>
 <li>chatgpt.com (1756)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1577)</li>
+<li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1263)</li>
+<li>login.microsoftonline.com (1262)</li>
 <li>www.amazon.co.uk (1149)</li>
 <li>calendar.google.com (1111)</li>
-<li>moodle.royalholloway.ac.uk (1018)</li>
+<li>moodle.royalholloway.ac.uk (1022)</li>
 <li>rhul-my.sharepoint.com (832)</li>
 <li>herts.instructure.com (829)</li>
 <li>web.whatsapp.com (740)</li>
@@ -93,10 +93,10 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (655)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (566)</li>
-<li>feedly.com (560)</li>
+<li>feedly.com (562)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
-<li>rhul.sharepoint.com (402)</li>
+<li>rhul.sharepoint.com (401)</li>
 <li><a href="https://www.theguardian.com/">RFK Jr’s new diet guidelines pose risks for health and the environment, experts say | Robert F Kennedy Jr | The Guardian</a> (384)</li>
 
 
@@ -105,6 +105,40 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 21/01/26</H3>
+
+<br>
+
+<ul><li> 07:53 webtimetables.royalholloway.ac.uk</li>
+<li> 07:52 mail.google.com</li>
+<li class='same'> 07:50 mail.google.com</li>
+<li> 07:50 docs.google.com</li>
+<li> 07:50 mail.google.com</li>
+<li> 07:50 www.amazon.com</li>
+<li> 07:50 mail.google.com</li>
+<li> 07:47 www.spotify.com</li>
+<li> 07:47 open.spotify.com</li>
+<li> 07:47 services.sheerid.com</li>
+<li> 07:47 www.spotify.com</li>
+<li> 07:47 mail.google.com</li>
+<li> 07:37 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 07:36 fyp.cs.rhul.ac.uk</li>
+<li> 07:29 feedly.com</li>
+<li> 07:29 www.linkedin.com</li>
+<li> 07:29 feedly.com</li>
+<li> 07:23 ev.turnitinuk.com</li>
+<li class='same'> 07:22 ev.turnitinuk.com</li>
+<li class='same'> 07:21 ev.turnitinuk.com</li>
+<li> 07:20 fyp.cs.rhul.ac.uk</li>
+<li> 07:19 dashboards.rhul.ac.uk</li>
+<li> 07:17 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:16 moodle.royalholloway.ac.uk</li>
+<li> 07:16 mysignins.microsoft.com</li>
+<li> 07:16 login.microsoftonline.com</li>
+<li> 07:15 moodle.royalholloway.ac.uk</li>
+<li> 07:15 login.microsoftonline.com</li>
+<li> 07:15 moodle.royalholloway.ac.uk</li>
+<li> 07:12 mail.google.com</li>
+</ul>
 
 <br>
 
@@ -16406,8 +16440,6 @@ With number of accesses/minutes in parentheses
 <li> 17:52 login.microsoftonline.com</li>
 <li> 17:52 ce0997li.webitrent.com</li>
 <li> 17:52 login.microsoftonline.com</li>
-<li> 17:52 ce0997li.webitrent.com</li>
-<li> 17:52 login.microsoftonline.com</li>
 <li> 17:49 docs.google.com</li>
 <li class='same'> 17:48 docs.google.com</li>
 <li> 17:48 mail.google.com</li>
@@ -16474,8 +16506,7 @@ With number of accesses/minutes in parentheses
 <li> 12:51 m365.cloud.microsoft</li>
 <li> 12:51 login.microsoftonline.com</li>
 <li> 12:51 rhul-my.sharepoint.com</li>
-<li> 12:51 login.microsoftonline.com</li>
-<li> 12:50 rhul-my.sharepoint.com</li>
+<li class='same'> 12:50 rhul-my.sharepoint.com</li>
 <li> 12:50 login.microsoftonline.com</li>
 <li> 12:50 rhul-my.sharepoint.com</li>
 <li> 12:43 www.linkedin.com</li>
@@ -16653,8 +16684,6 @@ With number of accesses/minutes in parentheses
 <li> 06:25 ce0997li.webitrent.com</li>
 <li> 06:25 duckduckgo.com</li>
 <li> 06:25 ce0997li.webitrent.com</li>
-<li> 06:25 login.microsoftonline.com</li>
-<li> 06:25 ce0997li.webitrent.com</li>
 <li> 06:24 login.microsoftonline.com</li>
 <li> 06:16 chatgpt.com</li>
 <li> 06:16 chat.openai.com</li>
@@ -16662,7 +16691,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:15 duckduckgo.com</li>
 <li> 06:15 www.jisc.ac.uk</li>
 <li> 06:15 duckduckgo.com</li>
-<li> 06:10 rhul.sharepoint.com</li>
 <li> 06:08 outlook.office.com</li>
 <li> 06:07 calendar.google.com</li>
 </ul>
