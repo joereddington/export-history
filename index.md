@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3994)</li>
 <li>duckduckgo.com (2754)</li>
 <li>docs.google.com (2719)</li>
-<li>chatgpt.com (1757)</li>
+<li>chatgpt.com (1758)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1151)</li>
 <li>calendar.google.com (1115)</li>
 <li>moodle.royalholloway.ac.uk (1022)</li>
-<li>rhul-my.sharepoint.com (834)</li>
+<li>rhul-my.sharepoint.com (835)</li>
 <li>herts.instructure.com (830)</li>
 <li>web.whatsapp.com (742)</li>
 <li>chat.openai.com (713)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 21/01/26</H3>
+
+<br>
+
+<ul><li> 12:53 libbyapp.com</li>
+<li> 12:53 <a href="https://en.wikipedia.org/wiki/Darknet_Diaries">Darknet Diaries - Wikipedia</a></li>
+<li> 12:38 repository.royalholloway.ac.uk</li>
+<li class='same'> 12:37 repository.royalholloway.ac.uk</li>
+<li class='same'> 12:36 repository.royalholloway.ac.uk</li>
+<li> 12:35 rhul-my.sharepoint.com</li>
+<li> 12:21 chatgpt.com</li>
+<li> 12:19 webtimetables.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
