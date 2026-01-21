@@ -72,10 +72,10 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4387)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4065)</li>
-<li>outlook.office365.com (3998)</li>
-<li>duckduckgo.com (2754)</li>
+<li>outlook.office365.com (4002)</li>
+<li>duckduckgo.com (2755)</li>
 <li>docs.google.com (2719)</li>
-<li>chatgpt.com (1759)</li>
+<li>chatgpt.com (1760)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
@@ -84,9 +84,9 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1115)</li>
 <li>moodle.royalholloway.ac.uk (1026)</li>
 <li>rhul-my.sharepoint.com (836)</li>
-<li>herts.instructure.com (830)</li>
+<li>herts.instructure.com (834)</li>
 <li>web.whatsapp.com (742)</li>
-<li>chat.openai.com (713)</li>
+<li>chat.openai.com (714)</li>
 <li>gmail.com (700)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (684)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (562)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
-<li>rhul.sharepoint.com (403)</li>
+<li>rhul.sharepoint.com (404)</li>
 <li><a href="https://www.theguardian.com/">RFK Jr’s new diet guidelines pose risks for health and the environment, experts say | Robert F Kennedy Jr | The Guardian</a> (384)</li>
 
 
@@ -105,6 +105,29 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 21/01/26</H3>
+
+<br>
+
+<ul><li> 17:34 herts.instructure.com</li>
+<li> 17:20 textranch.com</li>
+<li> 17:19 www.future-perfect.co.uk</li>
+<li> 17:19 duckduckgo.com</li>
+<li> 17:18 herts.instructure.com</li>
+<li> 17:15 chatgpt.com</li>
+<li> 17:15 chat.openai.com</li>
+<li> 17:05 herts.instructure.com</li>
+<li> 17:05 adfs.herts.ac.uk</li>
+<li> 17:04 api-b6327e78.duosecurity.com</li>
+<li> 17:04 adfs.herts.ac.uk</li>
+<li> 17:04 herts.instructure.com</li>
+<li> 17:04 adfs.herts.ac.uk</li>
+<li> 17:03 outlook.office365.com</li>
+<li> 17:03 www.whatsapp.com</li>
+<li> 16:55 outlook.office365.com</li>
+<li> 16:53 rhul.sharepoint.com</li>
+<li> 16:53 outlook.office365.com</li>
+<li class='same'> 16:50 outlook.office365.com</li>
+</ul>
 
 <br>
 
