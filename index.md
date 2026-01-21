@@ -75,11 +75,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (3994)</li>
 <li>duckduckgo.com (2754)</li>
 <li>docs.google.com (2719)</li>
-<li>chatgpt.com (1758)</li>
+<li>chatgpt.com (1759)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1266)</li>
+<li>login.microsoftonline.com (1268)</li>
 <li>www.amazon.co.uk (1151)</li>
 <li>calendar.google.com (1115)</li>
 <li>moodle.royalholloway.ac.uk (1026)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:52 www.coursera.org</li>
+<ul><li> 14:55 chatgpt.com</li>
+<li> 14:47 dashboards.rhul.ac.uk</li>
+<li> 14:46 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 14:46 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 14:46 login.microsoftonline.com</li>
+<li> 14:46 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 14:45 dashboards.rhul.ac.uk</li>
+<li> 14:45 experience.elluciancloud.ie</li>
+<li> 14:45 login.microsoftonline.com</li>
+<li> 14:45 experience.elluciancloud.ie</li>
+<li> 14:25 www.coursera.org</li>
+<li class='same'> 14:19 www.coursera.org</li>
+<li class='same'> 13:52 www.coursera.org</li>
 <li> 13:49 rhul-my.sharepoint.com</li>
 <li> 13:40 moodle.royalholloway.ac.uk</li>
 <li> 13:38 rhul.sharepoint.com</li>
