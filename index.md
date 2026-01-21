@@ -70,23 +70,23 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (4433)</li>
 <li>mail.google.com (4387)</li>
-<li>outlook.office.com (4110)</li>
+<li>outlook.office.com (4115)</li>
 <li>www.google.com (4065)</li>
 <li>outlook.office365.com (3994)</li>
-<li>duckduckgo.com (2751)</li>
+<li>duckduckgo.com (2752)</li>
 <li>docs.google.com (2719)</li>
-<li>chatgpt.com (1756)</li>
+<li>chatgpt.com (1757)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1262)</li>
+<li>login.microsoftonline.com (1263)</li>
 <li>www.amazon.co.uk (1149)</li>
-<li>calendar.google.com (1111)</li>
+<li>calendar.google.com (1115)</li>
 <li>moodle.royalholloway.ac.uk (1022)</li>
 <li>rhul-my.sharepoint.com (832)</li>
-<li>herts.instructure.com (829)</li>
-<li>web.whatsapp.com (740)</li>
-<li>chat.openai.com (712)</li>
+<li>herts.instructure.com (830)</li>
+<li>web.whatsapp.com (741)</li>
+<li>chat.openai.com (713)</li>
 <li>gmail.com (700)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (684)</li>
@@ -105,6 +105,33 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 21/01/26</H3>
+
+<br>
+
+<ul><li> 09:59 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 09:55 fyp.cs.rhul.ac.uk</li>
+<li> 09:54 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 09:53 webtimetables.royalholloway.ac.uk</li>
+<li> 09:52 calendar.google.com</li>
+<li class='same'> 09:49 calendar.google.com</li>
+<li> 09:46 outlook.office.com</li>
+<li class='same'> 09:45 outlook.office.com</li>
+<li> 09:43 support.mozilla.org</li>
+<li> 09:41 outlook.office.com</li>
+<li class='same'> 09:40 outlook.office.com</li>
+<li class='same'> 09:39 outlook.office.com</li>
+<li> 09:39 m365.cloud.microsoft</li>
+<li> 09:39 login.microsoftonline.com</li>
+<li> 09:39 m365.cloud.microsoft</li>
+<li> 09:38 adfs.herts.ac.uk</li>
+<li> 09:38 herts.instructure.com</li>
+<li> 09:19 calendar.google.com</li>
+<li class='same'> 09:18 calendar.google.com</li>
+<li> 09:18 duckduckgo.com</li>
+<li> 09:17 web.whatsapp.com</li>
+<li> 09:15 chatgpt.com</li>
+<li> 09:15 chat.openai.com</li>
+</ul>
 
 <br>
 
