@@ -72,19 +72,19 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4387)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4065)</li>
-<li>outlook.office365.com (4009)</li>
-<li>duckduckgo.com (2757)</li>
+<li>outlook.office365.com (4010)</li>
+<li>duckduckgo.com (2758)</li>
 <li>docs.google.com (2720)</li>
-<li>chatgpt.com (1764)</li>
+<li>chatgpt.com (1765)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1272)</li>
+<li>login.microsoftonline.com (1273)</li>
 <li>www.amazon.co.uk (1151)</li>
 <li>calendar.google.com (1116)</li>
-<li>moodle.royalholloway.ac.uk (1030)</li>
+<li>moodle.royalholloway.ac.uk (1035)</li>
+<li>rhul-my.sharepoint.com (836)</li>
 <li>herts.instructure.com (834)</li>
-<li>rhul-my.sharepoint.com (832)</li>
 <li>web.whatsapp.com (743)</li>
 <li>chat.openai.com (716)</li>
 <li>gmail.com (700)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 22/01/26</H3>
+
+<br>
+
+<ul><li> 11:49 duckduckgo.com</li>
+<li> 11:34 rhul-my.sharepoint.com</li>
+<li class='same'> 11:32 rhul-my.sharepoint.com</li>
+<li> 11:32 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:31 moodle.royalholloway.ac.uk</li>
+<li> 11:31 rhul-my.sharepoint.com</li>
+<li class='same'> 11:30 rhul-my.sharepoint.com</li>
+<li> 11:30 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:29 moodle.royalholloway.ac.uk</li>
+<li> 11:29 login.microsoftonline.com</li>
+<li> 11:29 moodle.royalholloway.ac.uk</li>
+<li> 11:23 outlook.office365.com</li>
+<li> 11:19 chatgpt.com</li>
+</ul>
 
 <br>
 
