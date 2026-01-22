@@ -79,10 +79,10 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1271)</li>
+<li>login.microsoftonline.com (1273)</li>
 <li>www.amazon.co.uk (1151)</li>
 <li>calendar.google.com (1115)</li>
-<li>moodle.royalholloway.ac.uk (1026)</li>
+<li>moodle.royalholloway.ac.uk (1030)</li>
 <li>rhul-my.sharepoint.com (836)</li>
 <li>herts.instructure.com (834)</li>
 <li>web.whatsapp.com (742)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (659)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (566)</li>
-<li>feedly.com (563)</li>
+<li>feedly.com (564)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
 <li>rhul.sharepoint.com (404)</li>
@@ -104,7 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 22/01/26</H3>
+
+<br>
+
+<ul><li> 06:55 feedly.com</li>
+<li> 06:52 ev.turnitinuk.com</li>
+<li> 06:52 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:51 moodle.royalholloway.ac.uk</li>
+<li> 06:51 login.microsoftonline.com</li>
+<li> 06:51 moodle.royalholloway.ac.uk</li>
+<li> 06:51 login.microsoftonline.com</li>
+<li> 06:51 moodle.royalholloway.ac.uk</li>
+</ul>
+
 <H3>Wednesday, 21/01/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 22:01 127.0.0.1:4000</li>
+</ul>
 
 <br>
 
