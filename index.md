@@ -74,12 +74,12 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (4065)</li>
 <li>outlook.office365.com (4002)</li>
 <li>duckduckgo.com (2755)</li>
-<li>docs.google.com (2719)</li>
-<li>chatgpt.com (1760)</li>
+<li>docs.google.com (2720)</li>
+<li>chatgpt.com (1761)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1269)</li>
+<li>login.microsoftonline.com (1271)</li>
 <li>www.amazon.co.uk (1151)</li>
 <li>calendar.google.com (1115)</li>
 <li>moodle.royalholloway.ac.uk (1026)</li>
@@ -90,10 +90,10 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (700)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (684)</li>
-<li>forms.office.com (655)</li>
+<li>forms.office.com (659)</li>
 <li>tvtropes.org (630)</li>
 <li>github.com (566)</li>
-<li>feedly.com (562)</li>
+<li>feedly.com (563)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
 <li>rhul.sharepoint.com (404)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 21/01/26</H3>
+
+<br>
+
+<ul><li> 19:03 chatgpt.com</li>
+<li> 18:59 docs.google.com</li>
+<li> 18:59 feedly.com</li>
+<li> 18:56 forms.office.com</li>
+<li class='same'> 18:55 forms.office.com</li>
+<li> 18:55 eu-west.azureauth.duosecurity.com</li>
+<li> 18:55 api-b6327e78.duosecurity.com</li>
+<li> 18:55 login.microsoftonline.com</li>
+<li> 18:55 forms.office.com</li>
+<li> 18:55 login.microsoftonline.com</li>
+<li> 18:55 forms.office.com</li>
+</ul>
 
 <br>
 
