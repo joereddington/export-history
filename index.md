@@ -73,27 +73,27 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4067)</li>
 <li>outlook.office365.com (4014)</li>
-<li>duckduckgo.com (2762)</li>
+<li>duckduckgo.com (2764)</li>
 <li>docs.google.com (2720)</li>
 <li>chatgpt.com (1769)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1273)</li>
+<li>login.microsoftonline.com (1275)</li>
 <li>www.amazon.co.uk (1151)</li>
 <li>calendar.google.com (1116)</li>
 <li>moodle.royalholloway.ac.uk (1035)</li>
+<li>herts.instructure.com (838)</li>
 <li>rhul-my.sharepoint.com (836)</li>
-<li>herts.instructure.com (834)</li>
 <li>web.whatsapp.com (743)</li>
 <li>chat.openai.com (719)</li>
 <li>gmail.com (700)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (684)</li>
-<li>forms.office.com (659)</li>
+<li>forms.office.com (674)</li>
 <li>tvtropes.org (633)</li>
 <li>github.com (567)</li>
-<li>feedly.com (565)</li>
+<li>feedly.com (567)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
 <li>rhul.sharepoint.com (411)</li>
@@ -105,6 +105,39 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 22/01/26</H3>
+
+<br>
+
+<ul><li> 16:47 forms.office.com</li>
+<li class='same'> 16:45 forms.office.com</li>
+<li> 16:45 login.microsoftonline.com</li>
+<li> 16:45 forms.office.com</li>
+<li class='same'> 16:41 forms.office.com</li>
+<li class='same'> 16:39 forms.office.com</li>
+<li class='same'> 16:38 forms.office.com</li>
+<li class='same'> 16:36 forms.office.com</li>
+<li class='same'> 16:34 forms.office.com</li>
+<li class='same'> 16:32 forms.office.com</li>
+<li class='same'> 16:30 forms.office.com</li>
+<li class='same'> 16:29 forms.office.com</li>
+<li class='same'> 16:27 forms.office.com</li>
+<li class='same'> 16:25 forms.office.com</li>
+<li> 16:23 dictionary.cambridge.org</li>
+<li> 16:22 duckduckgo.com</li>
+<li class='same'> 16:21 duckduckgo.com</li>
+<li> 16:14 forms.office.com</li>
+<li> 16:14 login.microsoftonline.com</li>
+<li> 16:13 forms.office.com</li>
+<li> 16:05 herts.instructure.com</li>
+<li class='same'> 16:04 herts.instructure.com</li>
+<li class='same'> 16:02 herts.instructure.com</li>
+<li> 16:02 adfs.herts.ac.uk</li>
+<li> 16:01 api-b6327e78.duosecurity.com</li>
+<li> 16:01 adfs.herts.ac.uk</li>
+<li> 16:01 herts.instructure.com</li>
+<li> 15:58 feedly.com</li>
+<li class='same'> 15:57 feedly.com</li>
+</ul>
 
 <br>
 
