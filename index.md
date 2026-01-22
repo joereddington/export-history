@@ -72,10 +72,10 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4387)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4067)</li>
-<li>outlook.office365.com (4011)</li>
-<li>duckduckgo.com (2759)</li>
+<li>outlook.office365.com (4014)</li>
+<li>duckduckgo.com (2762)</li>
 <li>docs.google.com (2720)</li>
-<li>chatgpt.com (1767)</li>
+<li>chatgpt.com (1769)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
@@ -86,12 +86,12 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (836)</li>
 <li>herts.instructure.com (834)</li>
 <li>web.whatsapp.com (743)</li>
-<li>chat.openai.com (717)</li>
+<li>chat.openai.com (719)</li>
 <li>gmail.com (700)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (684)</li>
 <li>forms.office.com (659)</li>
-<li>tvtropes.org (630)</li>
+<li>tvtropes.org (633)</li>
 <li>github.com (567)</li>
 <li>feedly.com (565)</li>
 <li>drive.google.com (445)</li>
@@ -108,7 +108,62 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:43 reductress.com</li>
+<ul><li> 14:48 chatgpt.com</li>
+<li> 14:48 chat.openai.com</li>
+<li> 14:44 www.whois.com</li>
+<li> 14:44 www.wix.com</li>
+<li> 14:44 duckduckgo.com</li>
+<li> 14:44 www.hover.com</li>
+<li> 14:44 domainagents.com</li>
+<li> 14:44 accounts.google.com</li>
+<li> 14:43 domainagents.com</li>
+<li> 14:43 www.hover.com</li>
+<li> 14:43 reddington.com</li>
+<li> 14:42 www.wix.com</li>
+<li> 14:42 duckduckgo.com</li>
+<li> 14:41 theopenvoicefactory.org</li>
+<li> 14:38 fyp.cs.rhul.ac.uk</li>
+<li> 14:37 outlook.office365.com</li>
+<li class='same'> 14:36 outlook.office365.com</li>
+<li class='same'> 14:35 outlook.office365.com</li>
+<li> 14:35 www.coursera.org</li>
+<li class='same'> 14:34 www.coursera.org</li>
+<li> 14:34 www.shellscript.sh</li>
+<li> 14:33 www.coursera.org</li>
+<li> 14:33 secviz.org</li>
+<li> 14:33 vizsec.org</li>
+<li> 14:33 www.coursera.org</li>
+<li class='same'> 14:32 www.coursera.org</li>
+<li> 14:31 kilthub.cmu.edu</li>
+<li> 14:31 www.enisa.europa.eu</li>
+<li> 14:31 kilthub.cmu.edu</li>
+<li> 14:31 www.coursera.org</li>
+<li> 14:31 medium.com</li>
+<li> 14:31 www.coursera.org</li>
+<li> 14:31 www.wired.com</li>
+<li> 14:30 www.coursera.org</li>
+<li> 14:30 insecure.org</li>
+<li> 14:30 www.coursera.org</li>
+<li class='same'> 14:29 www.coursera.org</li>
+<li> 14:28 owasp.org</li>
+<li> 14:27 chatgpt.com</li>
+<li> 14:27 chat.openai.com</li>
+<li> 14:27 www.geeksforgeeks.org</li>
+<li> 14:27 duckduckgo.com</li>
+<li> 14:27 www.spiceworks.com</li>
+<li> 14:27 www.coursera.org</li>
+<li class='same'> 14:26 www.coursera.org</li>
+<li> 14:22 tvtropes.org</li>
+<li class='same'> 14:14 tvtropes.org</li>
+<li class='same'> 14:08 tvtropes.org</li>
+<li> 14:03 edithistory.substack.com</li>
+<li class='same'> 14:01 edithistory.substack.com</li>
+<li class='same'> 13:57 edithistory.substack.com</li>
+<li class='same'> 13:53 edithistory.substack.com</li>
+<li class='same'> 13:51 edithistory.substack.com</li>
+<li> 13:51 reductress.com</li>
+<li> 13:50 edithistory.substack.com</li>
+<li> 13:43 reductress.com</li>
 <li class='same'> 13:42 reductress.com</li>
 <li> 13:36 www.google.com</li>
 <li> 13:34 www.coursera.org</li>
