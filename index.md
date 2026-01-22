@@ -79,12 +79,12 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1273)</li>
+<li>login.microsoftonline.com (1271)</li>
 <li>www.amazon.co.uk (1151)</li>
 <li>calendar.google.com (1115)</li>
 <li>moodle.royalholloway.ac.uk (1030)</li>
-<li>rhul-my.sharepoint.com (836)</li>
 <li>herts.instructure.com (834)</li>
+<li>rhul-my.sharepoint.com (832)</li>
 <li>web.whatsapp.com (742)</li>
 <li>chat.openai.com (714)</li>
 <li>gmail.com (700)</li>
@@ -16358,7 +16358,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:53 www.ebay.co.uk</li>
-<li> 21:52 www.johnlewis.com</li>
 <li> 21:52 www.google.com</li>
 <li class='same'> 21:51 www.google.com</li>
 <li> 21:50 rpstrength.com</li>
@@ -16424,7 +16423,6 @@ With number of accesses/minutes in parentheses
 <li> 14:53 outlook.office365.com</li>
 <li> 14:53 www.linkedin.com</li>
 <li class='same'> 14:52 www.linkedin.com</li>
-<li> 14:33 rhul-my.sharepoint.com</li>
 <li> 14:33 forms.office.com</li>
 <li> 14:33 login.microsoftonline.com</li>
 <li> 14:33 forms.office.com</li>
@@ -16533,9 +16531,7 @@ With number of accesses/minutes in parentheses
 <li> 07:50 outlook.office365.com</li>
 <li> 07:50 calendar.google.com</li>
 <li> 07:50 outlook.office365.com</li>
-<li> 07:47 rhul-my.sharepoint.com</li>
-<li class='same'> 07:45 rhul-my.sharepoint.com</li>
-<li> 07:44 outlook.office365.com</li>
+<li class='same'> 07:44 outlook.office365.com</li>
 <li class='same'> 07:43 outlook.office365.com</li>
 <li class='same'> 07:42 outlook.office365.com</li>
 </ul>
@@ -16549,9 +16545,6 @@ With number of accesses/minutes in parentheses
 <li> 07:06 feedly.com</li>
 <li class='same'> 06:50 feedly.com</li>
 <li> 06:46 outlook.office365.com</li>
-<li> 06:46 login.microsoftonline.com</li>
-<li> 06:40 rhul-my.sharepoint.com</li>
-<li> 06:40 login.microsoftonline.com</li>
 <li> 06:40 rhul-my.sharepoint.com</li>
 <li> 06:36 www.ciisec.live</li>
 <li> 06:36 duckduckgo.com</li>
