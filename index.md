@@ -72,10 +72,10 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4387)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4065)</li>
-<li>outlook.office365.com (4010)</li>
+<li>outlook.office365.com (4011)</li>
 <li>duckduckgo.com (2758)</li>
 <li>docs.google.com (2720)</li>
-<li>chatgpt.com (1765)</li>
+<li>chatgpt.com (1766)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (564)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
-<li>rhul.sharepoint.com (407)</li>
+<li>rhul.sharepoint.com (411)</li>
 <li><a href="https://www.theguardian.com/">RFK Jr’s new diet guidelines pose risks for health and the environment, experts say | Robert F Kennedy Jr | The Guardian</a> (384)</li>
 
 
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:49 duckduckgo.com</li>
+<ul><li> 12:29 rhul.sharepoint.com</li>
+<li class='same'> 12:28 rhul.sharepoint.com</li>
+<li class='same'> 12:27 rhul.sharepoint.com</li>
+<li class='same'> 12:26 rhul.sharepoint.com</li>
+<li> 12:17 outlook.office365.com</li>
+<li> 12:03 chatgpt.com</li>
+<li> 11:49 duckduckgo.com</li>
 <li> 11:34 rhul-my.sharepoint.com</li>
 <li class='same'> 11:32 rhul-my.sharepoint.com</li>
 <li> 11:32 moodle.royalholloway.ac.uk</li>
