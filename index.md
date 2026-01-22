@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:48 chatgpt.com</li>
+<ul><li> 15:13 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 14:48 chatgpt.com</li>
 <li> 14:48 chat.openai.com</li>
 <li> 14:44 www.whois.com</li>
 <li> 14:44 www.wix.com</li>
