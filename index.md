@@ -73,9 +73,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4065)</li>
 <li>outlook.office365.com (4002)</li>
-<li>duckduckgo.com (2755)</li>
+<li>duckduckgo.com (2756)</li>
 <li>docs.google.com (2720)</li>
-<li>chatgpt.com (1761)</li>
+<li>chatgpt.com (1762)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1030)</li>
 <li>herts.instructure.com (834)</li>
 <li>rhul-my.sharepoint.com (832)</li>
-<li>web.whatsapp.com (742)</li>
-<li>chat.openai.com (714)</li>
+<li>web.whatsapp.com (743)</li>
+<li>chat.openai.com (715)</li>
 <li>gmail.com (700)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (684)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:55 feedly.com</li>
+<ul><li> 07:28 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 07:27 scholar.google.co.uk</li>
+<li class='same'> 07:26 scholar.google.co.uk</li>
+<li class='same'> 07:25 scholar.google.co.uk</li>
+<li> 07:25 www.inderscienceonline.com</li>
+<li> 07:22 127.0.0.1:4000</li>
+<li> 07:18 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 07:18 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
+<li> 07:18 scholar.google.co.uk</li>
+<li class='same'> 07:17 scholar.google.co.uk</li>
+<li class='same'> 07:16 scholar.google.co.uk</li>
+<li class='same'> 07:15 scholar.google.co.uk</li>
+<li> 07:15 duckduckgo.com</li>
+<li> 07:13 ijeecs.iaescore.com</li>
+<li> 07:12 www.sciencedirect.com</li>
+<li> 07:12 linkinghub.elsevier.com</li>
+<li> 07:12 www.inderscienceonline.com</li>
+<li> 07:10 www.wired.com</li>
+<li> 07:09 chatgpt.com</li>
+<li> 07:09 chat.openai.com</li>
+<li> 07:07 web.whatsapp.com</li>
+<li> 06:55 feedly.com</li>
 <li> 06:52 ev.turnitinuk.com</li>
 <li> 06:52 moodle.royalholloway.ac.uk</li>
 <li class='same'> 06:51 moodle.royalholloway.ac.uk</li>
