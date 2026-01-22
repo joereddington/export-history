@@ -73,9 +73,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4067)</li>
 <li>outlook.office365.com (4014)</li>
-<li>duckduckgo.com (2764)</li>
+<li>duckduckgo.com (2765)</li>
 <li>docs.google.com (2720)</li>
-<li>chatgpt.com (1769)</li>
+<li>chatgpt.com (1771)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:47 forms.office.com</li>
+<ul><li> 17:32 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:59 chatgpt.com</li>
+<li class='same'> 16:58 chatgpt.com</li>
+<li> 16:47 forms.office.com</li>
 <li class='same'> 16:45 forms.office.com</li>
 <li> 16:45 login.microsoftonline.com</li>
 <li> 16:45 forms.office.com</li>
