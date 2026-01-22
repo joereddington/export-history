@@ -71,11 +71,11 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4433)</li>
 <li>mail.google.com (4387)</li>
 <li>outlook.office.com (4115)</li>
-<li>www.google.com (4065)</li>
+<li>www.google.com (4067)</li>
 <li>outlook.office365.com (4011)</li>
-<li>duckduckgo.com (2758)</li>
+<li>duckduckgo.com (2759)</li>
 <li>docs.google.com (2720)</li>
-<li>chatgpt.com (1766)</li>
+<li>chatgpt.com (1767)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
@@ -86,14 +86,14 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (836)</li>
 <li>herts.instructure.com (834)</li>
 <li>web.whatsapp.com (743)</li>
-<li>chat.openai.com (716)</li>
+<li>chat.openai.com (717)</li>
 <li>gmail.com (700)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (684)</li>
 <li>forms.office.com (659)</li>
 <li>tvtropes.org (630)</li>
-<li>github.com (566)</li>
-<li>feedly.com (564)</li>
+<li>github.com (567)</li>
+<li>feedly.com (565)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
 <li>rhul.sharepoint.com (411)</li>
@@ -108,7 +108,68 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:29 rhul.sharepoint.com</li>
+<ul><li> 13:43 reductress.com</li>
+<li class='same'> 13:42 reductress.com</li>
+<li> 13:36 www.google.com</li>
+<li> 13:34 www.coursera.org</li>
+<li> 13:33 homes.cs.washington.edu</li>
+<li> 13:33 csrc.nist.gov</li>
+<li> 13:33 www.coursera.org</li>
+<li> 13:33 thenextweb.com</li>
+<li> 13:33 www.coursera.org</li>
+<li> 13:32 www.welivesecurity.com</li>
+<li> 13:32 www.coursera.org</li>
+<li> 13:32 learn.microsoft.com</li>
+<li> 13:32 www.coursera.org</li>
+<li> 13:32 www.zdnet.com</li>
+<li> 13:31 www.coursera.org</li>
+<li> 13:31 www.techtarget.com</li>
+<li> 13:31 www.coursera.org</li>
+<li class='same'> 13:30 www.coursera.org</li>
+<li> 13:29 studylib.net</li>
+<li> 13:29 github.com</li>
+<li> 13:29 duckduckgo.com</li>
+<li> 13:29 www.coursera.org</li>
+<li class='same'> 13:28 www.coursera.org</li>
+<li> 13:28 www.datagenetics.com</li>
+<li> 13:28 www.coursera.org</li>
+<li class='same'> 13:27 www.coursera.org</li>
+<li> 13:27 <a href="https://www.youtube.com/watch?v=HbgzrKJvDRw">(49) Linux File System/Structure Explained! - YouTube</a></li>
+<li> 13:27 www.coursera.org</li>
+<li class='same'> 13:26 www.coursera.org</li>
+<li> 13:26 <a href="https://www.youtube.com/watch?v=-T-3buBwMEQ">(49) DEF CON 20 - Viss - Drinking From the Caffeine Firehose We Know as Shodan - YouTube</a></li>
+<li> 13:26 www.coursera.org</li>
+<li> 13:25 www.theverge.com</li>
+<li> 13:25 www.coursera.org</li>
+<li class='same'> 13:24 www.coursera.org</li>
+<li> 13:24 thehackernews.com</li>
+<li> 13:24 www.trendmicro.com</li>
+<li> 13:24 www.coursera.org</li>
+<li> 13:24 nvd.nist.gov</li>
+<li class='same'> 13:23 nvd.nist.gov</li>
+<li> 13:23 www.first.org</li>
+<li> 13:23 nvd.nist.gov</li>
+<li> 13:23 www.coursera.org</li>
+<li> 13:23 www.first.org</li>
+<li> 13:22 www.cve.org</li>
+<li> 13:22 www.coursera.org</li>
+<li> 13:07 <a href="https://www.youtube.com/watch?v=nuruzFqMgIw">(49) BadUSB - On Accessories that Turn Evil by Karsten Nohl + Jakob Lell - YouTube</a></li>
+<li> 13:06 www.coursera.org</li>
+<li class='same'> 13:05 www.coursera.org</li>
+<li> 13:04 assets.publishing.service.gov.uk</li>
+<li> 13:02 chatgpt.com</li>
+<li> 13:02 chat.openai.com</li>
+<li> 13:02 www.coursera.org</li>
+<li> 13:02 info.lse.ac.uk</li>
+<li> 13:02 www.sophos.com</li>
+<li> 13:02 www.sans.org</li>
+<li> 13:01 www.coursera.org</li>
+<li> 13:01 login.openathens.net</li>
+<li> 12:59 www.coursera.org</li>
+<li class='same'> 12:58 www.coursera.org</li>
+<li> 12:54 www.whatsapp.com</li>
+<li> 12:52 feedly.com</li>
+<li> 12:29 rhul.sharepoint.com</li>
 <li class='same'> 12:28 rhul.sharepoint.com</li>
 <li class='same'> 12:27 rhul.sharepoint.com</li>
 <li class='same'> 12:26 rhul.sharepoint.com</li>
@@ -155,7 +216,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:28 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<ul><li> 09:03 reductress.com</li>
+<li class='same'> 09:01 reductress.com</li>
+<li class='same'> 09:00 reductress.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:53 reductress.com</li>
+<li class='same'> 07:52 reductress.com</li>
+<li class='same'> 07:49 reductress.com</li>
+<li> 07:49 www.thedailymash.co.uk</li>
+<li class='same'> 07:47 www.thedailymash.co.uk</li>
+<li class='same'> 07:46 www.thedailymash.co.uk</li>
+<li> 07:43 theonion.com</li>
+<li> 07:41 newsthump.com</li>
+<li> 07:41 www.google.com</li>
+<li> 07:40 <a href="https://www.bbc.co.uk/news/articles/cx2yd455rd0o">Lords back UK social media ban for under-16s - BBC News</a></li>
+<li> 07:39 <a href="https://www.bbc.co.uk/news/articles/cz0pnekxpn8o">Home - BBC News</a></li>
+<li> 07:38 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 07:38 <a href="https://www.bbc.co.uk/news/articles/cx2lej7d52po">Lyse Doucet: Trump is shaking the world order more than any president since WW2 - BBC News</a></li>
+<li> 07:28 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 07:27 scholar.google.co.uk</li>
 <li class='same'> 07:26 scholar.google.co.uk</li>
 <li class='same'> 07:25 scholar.google.co.uk</li>
@@ -237,7 +318,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:18 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 15:33 <a href="https://www.bbc.co.uk/news/articles/cx2lej7d52po">Lyse Doucet: Trump is shaking the world order more than any president since WW2 - BBC News</a></li>
+<li> 15:32 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 15:30 <a href="https://www.bbc.co.uk/news/articles/cwy1l9pgjv7o">Home - BBC News</a></li>
+<li> 15:18 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 15:14 outlook.office365.com</li>
 <li class='same'> 15:13 outlook.office365.com</li>
 <li class='same'> 15:11 outlook.office365.com</li>
@@ -357,7 +441,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:08 www.natesilver.net</li>
+<ul><li> 06:14 www.natesilver.net</li>
+<li class='same'> 06:08 www.natesilver.net</li>
 <li class='same'> 06:07 www.natesilver.net</li>
 <li> 06:04 <a href="https://www.theguardian.com/us-news/2026/jan/20/trump-press-briefing-greenland">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:01 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
@@ -96293,7 +96378,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:19 www.doxdirect.com</li>
+<ul><li> 12:21 www.etymonline.com</li>
+<li> 12:19 www.doxdirect.com</li>
 <li class='same'> 12:18 www.doxdirect.com</li>
 <li> 12:17 drive.google.com</li>
 </ul>
