@@ -72,21 +72,21 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4387)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4065)</li>
-<li>outlook.office365.com (4002)</li>
-<li>duckduckgo.com (2756)</li>
+<li>outlook.office365.com (4009)</li>
+<li>duckduckgo.com (2757)</li>
 <li>docs.google.com (2720)</li>
-<li>chatgpt.com (1762)</li>
+<li>chatgpt.com (1764)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1271)</li>
+<li>login.microsoftonline.com (1272)</li>
 <li>www.amazon.co.uk (1151)</li>
-<li>calendar.google.com (1115)</li>
+<li>calendar.google.com (1116)</li>
 <li>moodle.royalholloway.ac.uk (1030)</li>
 <li>herts.instructure.com (834)</li>
 <li>rhul-my.sharepoint.com (832)</li>
 <li>web.whatsapp.com (743)</li>
-<li>chat.openai.com (715)</li>
+<li>chat.openai.com (716)</li>
 <li>gmail.com (700)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (684)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (564)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
-<li>rhul.sharepoint.com (404)</li>
+<li>rhul.sharepoint.com (407)</li>
 <li><a href="https://www.theguardian.com/">RFK Jr’s new diet guidelines pose risks for health and the environment, experts say | Robert F Kennedy Jr | The Guardian</a> (384)</li>
 
 
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 22/01/26</H3>
+
+<br>
+
+<ul><li> 10:43 www.etymonline.com</li>
+<li> 10:43 duckduckgo.com</li>
+<li> 10:24 outlook.office365.com</li>
+<li> 10:24 rhul.sharepoint.com</li>
+<li> 10:24 login.microsoftonline.com</li>
+<li> 10:24 rhul.sharepoint.com</li>
+<li> 10:24 outlook.office365.com</li>
+<li> 10:18 chatgpt.com</li>
+<li class='same'> 10:17 chatgpt.com</li>
+<li> 10:17 chat.openai.com</li>
+<li> 10:16 rhul.sharepoint.com</li>
+<li> 10:16 outlook.office365.com</li>
+<li class='same'> 10:15 outlook.office365.com</li>
+<li> 10:15 calendar.google.com</li>
+<li> 10:13 outlook.office365.com</li>
+<li> 10:06 www.bigmarker.com</li>
+<li> 10:06 outlook.office365.com</li>
+<li> 10:05 www.bigmarker.com</li>
+<li> 10:04 outlook.office365.com</li>
+<li> 09:56 127.0.0.1:4000</li>
+</ul>
 
 <br>
 
