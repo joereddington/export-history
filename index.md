@@ -77,9 +77,9 @@ With number of accesses/minutes in parentheses
 <li>docs.google.com (2720)</li>
 <li>chatgpt.com (1771)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1578)</li>
+<li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1275)</li>
+<li>login.microsoftonline.com (1271)</li>
 <li>www.amazon.co.uk (1151)</li>
 <li>calendar.google.com (1116)</li>
 <li>moodle.royalholloway.ac.uk (1035)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 22/01/26</H3>
+
+<br>
+
+<ul><li> 18:26 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -16462,7 +16467,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:21 outlook.office365.com</li>
 <li> 16:02 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 16:02 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 16:02 login.microsoftonline.com</li>
 <li> 16:02 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 16:02 experience.elluciancloud.ie</li>
 <li> 16:02 login.microsoftonline.com</li>
@@ -16506,8 +16510,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:59 www.linkedin.com</li>
-<li> 11:59 accounts.google.com</li>
-<li> 11:59 www.linkedin.com</li>
 <li> 11:58 chatgpt.com</li>
 <li> 11:58 chat.openai.com</li>
 <li> 11:53 screenrant.com</li>
@@ -16522,17 +16524,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:40 outlook.office365.com</li>
 <li> 11:38 calendar.google.com</li>
 <li> 11:37 outlook.office365.com</li>
-<li> 11:37 login.microsoftonline.com</li>
-<li> 11:37 outlook.office365.com</li>
 <li> 11:36 workload.herts.ac.uk</li>
 <li> 11:36 adfs.herts.ac.uk</li>
 <li> 11:36 workload.herts.ac.uk</li>
 <li> 11:35 outlook.office.com</li>
 <li> 11:35 herts.instructure.com</li>
-<li> 11:35 adfs.herts.ac.uk</li>
 <li> 11:34 api-b6327e78.duosecurity.com</li>
 <li> 11:34 herts.instructure.com</li>
-<li> 11:34 api-b6327e78.duosecurity.com</li>
 <li> 11:34 adfs.herts.ac.uk</li>
 <li> 11:34 api-b6327e78.duosecurity.com</li>
 <li> 11:34 adfs.herts.ac.uk</li>
@@ -16544,10 +16542,7 @@ With number of accesses/minutes in parentheses
 <li> 11:32 login.microsoftonline.com</li>
 <li> 11:30 herts365-my.sharepoint.com</li>
 <li class='same'> 11:29 herts365-my.sharepoint.com</li>
-<li> 11:28 login.microsoftonline.com</li>
-<li> 11:28 herts365-my.sharepoint.com</li>
-<li> 11:28 login.microsoftonline.com</li>
-<li> 11:28 ce0997li.webitrent.com</li>
+<li class='same'> 11:28 herts365-my.sharepoint.com</li>
 <li> 11:28 login.microsoftonline.com</li>
 <li> 11:28 ce0997li.webitrent.com</li>
 <li> 11:28 login.microsoftonline.com</li>
