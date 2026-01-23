@@ -73,20 +73,20 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4072)</li>
 <li>outlook.office365.com (4014)</li>
-<li>duckduckgo.com (2765)</li>
+<li>duckduckgo.com (2766)</li>
 <li>docs.google.com (2720)</li>
-<li>chatgpt.com (1771)</li>
+<li>chatgpt.com (1774)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1271)</li>
+<li>login.microsoftonline.com (1273)</li>
 <li>www.amazon.co.uk (1151)</li>
-<li>calendar.google.com (1116)</li>
+<li>calendar.google.com (1118)</li>
 <li>moodle.royalholloway.ac.uk (1035)</li>
 <li>herts.instructure.com (838)</li>
 <li>rhul-my.sharepoint.com (836)</li>
-<li>web.whatsapp.com (743)</li>
-<li>chat.openai.com (719)</li>
+<li>web.whatsapp.com (745)</li>
+<li>chat.openai.com (721)</li>
 <li>gmail.com (700)</li>
 <li>www.theguardian.com (685)</li>
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (684)</li>
@@ -105,6 +105,32 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 23/01/26</H3>
+
+<br>
+
+<ul><li> 16:55 intranet.royalholloway.ac.uk</li>
+<li> 16:54 chatgpt.com</li>
+<li> 16:54 chat.openai.com</li>
+<li> 16:34 intranet.royalholloway.ac.uk</li>
+<li> 16:26 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:24 duckduckgo.com</li>
+<li> 16:17 calendar.google.com</li>
+<li class='same'> 16:16 calendar.google.com</li>
+<li> 16:08 web.whatsapp.com</li>
+<li> 16:01 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:01 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:01 login.microsoftonline.com</li>
+<li> 16:01 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:01 experience.elluciancloud.ie</li>
+<li> 16:01 login.microsoftonline.com</li>
+<li> 16:01 experience.elluciancloud.ie</li>
+<li> 16:00 www.coursera.org</li>
+<li class='same'> 15:49 www.coursera.org</li>
+<li> 15:48 web.whatsapp.com</li>
+<li> 15:45 chatgpt.com</li>
+<li class='same'> 15:44 chatgpt.com</li>
+<li> 15:44 chat.openai.com</li>
+</ul>
 
 <br>
 
