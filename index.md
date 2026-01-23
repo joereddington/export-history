@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4433)</li>
 <li>mail.google.com (4387)</li>
 <li>outlook.office.com (4115)</li>
-<li>www.google.com (4067)</li>
+<li>www.google.com (4071)</li>
 <li>outlook.office365.com (4014)</li>
 <li>duckduckgo.com (2765)</li>
 <li>docs.google.com (2720)</li>
@@ -92,8 +92,8 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a> (684)</li>
 <li>forms.office.com (674)</li>
 <li>tvtropes.org (633)</li>
+<li>feedly.com (568)</li>
 <li>github.com (567)</li>
-<li>feedly.com (567)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
 <li>rhul.sharepoint.com (411)</li>
@@ -104,7 +104,21 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 23/01/26</H3>
+
+<br>
+
+<ul><li> 07:59 www.google.com</li>
+<li> 07:50 24timezones.com</li>
+<li> 07:50 www.google.com</li>
+<li> 07:48 feedly.com</li>
+</ul>
+
 <H3>Thursday, 22/01/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -120,6 +134,12 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:59 chatgpt.com</li>
 <li class='same'> 16:58 chatgpt.com</li>
+<li> 16:56 www.google.com</li>
+<li class='same'> 16:54 www.google.com</li>
+<li> 16:53 <a href="https://www.bbc.co.uk/news/articles/ckgyyqkn0yvo">Oscar nominations 2026: Vampire film Sinners breaks record - BBC News</a></li>
+<li> 16:53 <a href="https://www.bbc.co.uk/news/articles/cz0ppdjmjy9o">Home - BBC News</a></li>
+<li> 16:52 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:52 www.tesco.com</li>
 <li> 16:47 forms.office.com</li>
 <li class='same'> 16:45 forms.office.com</li>
 <li> 16:45 login.microsoftonline.com</li>
@@ -211,6 +231,7 @@ With number of accesses/minutes in parentheses
 <li> 13:50 edithistory.substack.com</li>
 <li> 13:43 reductress.com</li>
 <li class='same'> 13:42 reductress.com</li>
+<li> 13:37 www.tesco.com</li>
 <li> 13:36 www.google.com</li>
 <li> 13:34 www.coursera.org</li>
 <li> 13:33 homes.cs.washington.edu</li>
