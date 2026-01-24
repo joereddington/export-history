@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4440)</li>
+<ol><li>www.reddit.com (4441)</li>
 <li>mail.google.com (4387)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4079)</li>
 <li>outlook.office365.com (4014)</li>
-<li>duckduckgo.com (2769)</li>
+<li>duckduckgo.com (2770)</li>
 <li>docs.google.com (2722)</li>
-<li>chatgpt.com (1779)</li>
+<li>chatgpt.com (1780)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1278)</li>
+<li>login.microsoftonline.com (1279)</li>
 <li>www.amazon.co.uk (1151)</li>
 <li>calendar.google.com (1118)</li>
 <li>moodle.royalholloway.ac.uk (1035)</li>
-<li>herts.instructure.com (844)</li>
+<li>herts.instructure.com (846)</li>
 <li>rhul-my.sharepoint.com (836)</li>
 <li>web.whatsapp.com (745)</li>
-<li>chat.openai.com (723)</li>
+<li>chat.openai.com (724)</li>
+<li>forms.office.com (709)</li>
 <li>gmail.com (700)</li>
-<li>forms.office.com (697)</li>
 <li><a href="https://www.theguardian.com/uk">Pierre Novellie: You Sit There, I’ll Stand Here review – gags so good that resistance is futile | Comedy | The Guardian</a> (694)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (633)</li>
@@ -105,6 +105,32 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 24/01/26</H3>
+
+<br>
+
+<ul><li> 10:47 forms.office.com</li>
+<li class='same'> 10:42 forms.office.com</li>
+<li class='same'> 10:32 forms.office.com</li>
+<li> 10:28 chatgpt.com</li>
+<li> 10:28 chat.openai.com</li>
+<li> 10:27 forms.office.com</li>
+<li class='same'> 10:25 forms.office.com</li>
+<li class='same'> 10:23 forms.office.com</li>
+<li class='same'> 10:21 forms.office.com</li>
+<li> 10:21 www.reddit.com</li>
+<li> 10:19 libbyapp.com</li>
+<li> 10:19 <a href="https://en.wikipedia.org/wiki/DuckDuckGo"></a></li>
+<li> 10:19 duckduckgo.com</li>
+<li> 10:15 forms.office.com</li>
+<li class='same'> 10:14 forms.office.com</li>
+<li class='same'> 10:12 forms.office.com</li>
+<li class='same'> 10:11 forms.office.com</li>
+<li> 10:10 login.microsoftonline.com</li>
+<li> 10:10 forms.office.com</li>
+<li> 10:09 herts.instructure.com</li>
+<li class='same'> 10:08 herts.instructure.com</li>
+<li> 10:07 adfs.herts.ac.uk</li>
+</ul>
 
 <br>
 
