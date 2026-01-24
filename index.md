@@ -73,9 +73,9 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4079)</li>
 <li>outlook.office365.com (4014)</li>
-<li>duckduckgo.com (2768)</li>
+<li>duckduckgo.com (2769)</li>
 <li>docs.google.com (2722)</li>
-<li>chatgpt.com (1778)</li>
+<li>chatgpt.com (1779)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (844)</li>
 <li>rhul-my.sharepoint.com (836)</li>
 <li>web.whatsapp.com (745)</li>
-<li>chat.openai.com (722)</li>
+<li>chat.openai.com (723)</li>
 <li>gmail.com (700)</li>
 <li>forms.office.com (697)</li>
 <li><a href="https://www.theguardian.com/uk">Pierre Novellie: You Sit There, I’ll Stand Here review – gags so good that resistance is futile | Comedy | The Guardian</a> (694)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 24/01/26</H3>
+
+<br>
+
+<ul><li> 09:34 libbyapp.com</li>
+<li> 09:34 <a href="https://en.wikipedia.org/wiki/Maximum_coverage_problem"></a></li>
+<li> 09:34 duckduckgo.com</li>
+<li> 09:29 chatgpt.com</li>
+<li> 09:29 chat.openai.com</li>
+</ul>
 
 <br>
 
