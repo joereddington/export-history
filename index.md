@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4441)</li>
 <li>mail.google.com (4387)</li>
 <li>outlook.office.com (4115)</li>
-<li>www.google.com (4081)</li>
+<li>www.google.com (4083)</li>
 <li>outlook.office365.com (4014)</li>
 <li>duckduckgo.com (2770)</li>
 <li>docs.google.com (2722)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
 <li>login.microsoftonline.com (1281)</li>
-<li>www.amazon.co.uk (1151)</li>
+<li>www.amazon.co.uk (1154)</li>
 <li>calendar.google.com (1118)</li>
 <li>moodle.royalholloway.ac.uk (1035)</li>
 <li>herts.instructure.com (846)</li>
@@ -108,13 +108,30 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 16:15 www.amazon.co.uk</li>
+<li class='same'> 16:14 www.amazon.co.uk</li>
+<li> 16:14 www.google.com</li>
+<li> 16:14 www.amazon.co.uk</li>
+<li> 16:14 www.google.com</li>
+<li> 16:10 bookings.freshcar.co.uk</li>
+<li class='same'> 16:09 bookings.freshcar.co.uk</li>
+<li> 16:08 theguardian.com</li>
+</ul>
+
+<br>
+
 <ul><li> 15:05 workspace.google.com</li>
 <li> 15:05 accounts.google.com</li>
 </ul>
 
 <br>
 
-<ul><li> 11:52 www.standard.co.uk</li>
+<ul><li> 13:42 www.standard.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:52 www.standard.co.uk</li>
 </ul>
 
 <br>
