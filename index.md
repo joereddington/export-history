@@ -73,24 +73,24 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4079)</li>
 <li>outlook.office365.com (4014)</li>
-<li>duckduckgo.com (2767)</li>
+<li>duckduckgo.com (2768)</li>
 <li>docs.google.com (2722)</li>
-<li>chatgpt.com (1776)</li>
+<li>chatgpt.com (1778)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1276)</li>
+<li>login.microsoftonline.com (1278)</li>
 <li>www.amazon.co.uk (1151)</li>
 <li>calendar.google.com (1118)</li>
 <li>moodle.royalholloway.ac.uk (1035)</li>
-<li>herts.instructure.com (841)</li>
+<li>herts.instructure.com (844)</li>
 <li>rhul-my.sharepoint.com (836)</li>
 <li>web.whatsapp.com (745)</li>
 <li>chat.openai.com (722)</li>
 <li>gmail.com (700)</li>
+<li>forms.office.com (697)</li>
 <li><a href="https://www.theguardian.com/uk">Pierre Novellie: You Sit There, I’ll Stand Here review – gags so good that resistance is futile | Comedy | The Guardian</a> (694)</li>
 <li>www.theguardian.com (685)</li>
-<li>forms.office.com (680)</li>
 <li>tvtropes.org (633)</li>
 <li>feedly.com (569)</li>
 <li>github.com (567)</li>
@@ -108,7 +108,47 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:56 forms.office.com</li>
+<ul><li> 08:58 herts.instructure.com</li>
+<li class='same'> 08:57 herts.instructure.com</li>
+<li class='same'> 08:55 herts.instructure.com</li>
+<li> 08:54 forms.office.com</li>
+<li class='same'> 08:52 forms.office.com</li>
+<li> 08:52 login.microsoftonline.com</li>
+<li> 08:52 forms.office.com</li>
+<li> 08:52 login.microsoftonline.com</li>
+<li> 08:52 forms.office.com</li>
+<li> 08:51 chatgpt.com</li>
+<li> 08:50 uk.indeed.com</li>
+<li> 08:49 www.indeed.com</li>
+<li> 08:49 uk.indeed.com</li>
+<li> 08:49 chatgpt.com</li>
+<li> 08:48 uk.indeed.com</li>
+<li> 08:48 onboarding.indeed.com</li>
+<li> 08:48 www.indeed.com</li>
+<li class='same'> 08:47 www.indeed.com</li>
+<li class='same'> 08:46 www.indeed.com</li>
+<li> 08:46 onboarding.indeed.com</li>
+<li> 08:46 secure.indeed.com</li>
+<li> 08:45 accounts.google.com</li>
+<li> 08:45 uk.indeed.com</li>
+<li class='same'> 08:44 uk.indeed.com</li>
+<li class='same'> 08:43 uk.indeed.com</li>
+<li> 08:43 duckduckgo.com</li>
+<li> 08:42 forms.office.com</li>
+<li class='same'> 08:39 forms.office.com</li>
+<li class='same'> 08:37 forms.office.com</li>
+<li class='same'> 08:35 forms.office.com</li>
+<li class='same'> 08:33 forms.office.com</li>
+<li class='same'> 08:32 forms.office.com</li>
+<li class='same'> 08:26 forms.office.com</li>
+<li class='same'> 08:24 forms.office.com</li>
+<li class='same'> 08:22 forms.office.com</li>
+<li class='same'> 08:19 forms.office.com</li>
+<li> 08:15 qmucu.org</li>
+<li> 08:14 forms.office.com</li>
+<li class='same'> 08:13 forms.office.com</li>
+<li class='same'> 08:06 forms.office.com</li>
+<li class='same'> 07:56 forms.office.com</li>
 <li class='same'> 07:54 forms.office.com</li>
 <li> 07:54 duckduckgo.com</li>
 <li> 07:53 forms.office.com</li>
