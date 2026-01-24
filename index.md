@@ -71,33 +71,33 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4441)</li>
 <li>mail.google.com (4387)</li>
 <li>outlook.office.com (4115)</li>
-<li>www.google.com (4079)</li>
+<li>www.google.com (4081)</li>
 <li>outlook.office365.com (4014)</li>
 <li>duckduckgo.com (2770)</li>
 <li>docs.google.com (2722)</li>
-<li>chatgpt.com (1780)</li>
+<li>chatgpt.com (1782)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1279)</li>
+<li>login.microsoftonline.com (1281)</li>
 <li>www.amazon.co.uk (1151)</li>
 <li>calendar.google.com (1118)</li>
 <li>moodle.royalholloway.ac.uk (1035)</li>
 <li>herts.instructure.com (846)</li>
 <li>rhul-my.sharepoint.com (836)</li>
 <li>web.whatsapp.com (745)</li>
-<li>chat.openai.com (724)</li>
-<li>forms.office.com (709)</li>
+<li>chat.openai.com (725)</li>
+<li>forms.office.com (724)</li>
 <li>gmail.com (700)</li>
 <li><a href="https://www.theguardian.com/uk">Pierre Novellie: You Sit There, I’ll Stand Here review – gags so good that resistance is futile | Comedy | The Guardian</a> (694)</li>
 <li>www.theguardian.com (685)</li>
-<li>tvtropes.org (633)</li>
+<li>tvtropes.org (645)</li>
 <li>feedly.com (569)</li>
 <li>github.com (567)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
 <li>rhul.sharepoint.com (411)</li>
-<li><a href="https://www.theguardian.com/">Former Tory councillor admits drugging and raping wife over 14-year period | UK news | The Guardian</a> (388)</li>
+<li><a href="https://www.theguardian.com/">Former Tory councillor admits drugging and raping wife over 14-year period | UK news | The Guardian</a> (389)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,34 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:47 forms.office.com</li>
+<ul><li> 11:52 www.standard.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 11:21 chatgpt.com</li>
+<li class='same'> 11:19 chatgpt.com</li>
+<li> 11:19 chat.openai.com</li>
+<li> 11:14 libbyapp.com</li>
+<li> 11:14 <a href="https://www.theguardian.com/">Former Tory councillor admits drugging and raping wife over 14-year period | UK news | The Guardian</a></li>
+<li> 11:12 forms.office.com</li>
+<li> 11:12 login.microsoftonline.com</li>
+<li> 11:12 forms.office.com</li>
+<li> 11:12 login.microsoftonline.com</li>
+<li> 11:12 forms.office.com</li>
+<li class='same'> 11:09 forms.office.com</li>
+<li class='same'> 11:08 forms.office.com</li>
+<li class='same'> 11:07 forms.office.com</li>
+<li class='same'> 11:06 forms.office.com</li>
+<li class='same'> 11:05 forms.office.com</li>
+<li class='same'> 11:02 forms.office.com</li>
+<li class='same'> 11:01 forms.office.com</li>
+<li class='same'> 11:00 forms.office.com</li>
+<li class='same'> 10:59 forms.office.com</li>
+<li class='same'> 10:58 forms.office.com</li>
+<li class='same'> 10:57 forms.office.com</li>
+<li class='same'> 10:52 forms.office.com</li>
+<li class='same'> 10:47 forms.office.com</li>
 <li class='same'> 10:42 forms.office.com</li>
 <li class='same'> 10:32 forms.office.com</li>
 <li> 10:28 chatgpt.com</li>
@@ -202,11 +229,18 @@ With number of accesses/minutes in parentheses
 <li> 07:45 adfs.herts.ac.uk</li>
 <li class='same'> 07:44 adfs.herts.ac.uk</li>
 <li> 07:44 herts.instructure.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:02 <a href="https://www.theguardian.com/lifeandstyle/2026/jan/24/home-truths-family-grievances-coals-fire-enemy-head-meg-thomas-keneally">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:20 www.standard.co.uk</li>
+<li> 07:18 newsthump.com</li>
+<li> 07:18 www.google.com</li>
+<li> 07:18 www.thedailymash.co.uk</li>
+<li class='same'> 07:16 www.thedailymash.co.uk</li>
+<li> 07:15 www.google.com</li>
+<li> 07:14 theonion.com</li>
+<li class='same'> 07:13 theonion.com</li>
+<li class='same'> 07:12 theonion.com</li>
+<li class='same'> 07:11 theonion.com</li>
+<li> 07:11 reductress.com</li>
+<li> 07:02 <a href="https://www.theguardian.com/lifeandstyle/2026/jan/24/home-truths-family-grievances-coals-fire-enemy-head-meg-thomas-keneally">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:01 <a href="https://www.theguardian.com/uk">Pierre Novellie: You Sit There, I’ll Stand Here review – gags so good that resistance is futile | Comedy | The Guardian</a></li>
 <li> 07:00 <a href="https://www.theguardian.com/stage/2026/jan/23/pierre-novellie-you-sit-there-ill-stand-here-review">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:57 <a href="https://www.theguardian.com/uk">Pierre Novellie: You Sit There, I’ll Stand Here review – gags so good that resistance is futile | Comedy | The Guardian</a></li>
@@ -261,6 +295,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:25 www.reddit.com</li>
 <li class='same'> 19:24 www.reddit.com</li>
 <li> 19:24 www.google.com</li>
+<li> 19:08 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 18:57 teams.microsoft.com</li>
 <li> 18:57 docs.google.com</li>
 <li> 18:53 jobs.royalholloway.ac.uk</li>
@@ -292,6 +327,16 @@ With number of accesses/minutes in parentheses
 <li> 15:45 chatgpt.com</li>
 <li class='same'> 15:44 chatgpt.com</li>
 <li> 15:44 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:56 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:14 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
 </ul>
 
 <br>
@@ -369,11 +414,17 @@ With number of accesses/minutes in parentheses
 <li> 16:01 herts.instructure.com</li>
 <li> 15:58 feedly.com</li>
 <li class='same'> 15:57 feedly.com</li>
-</ul>
-
-<br>
-
-<ul><li> 15:13 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 15:44 tvtropes.org</li>
+<li class='same'> 15:43 tvtropes.org</li>
+<li class='same'> 15:42 tvtropes.org</li>
+<li class='same'> 15:36 tvtropes.org</li>
+<li class='same'> 15:35 tvtropes.org</li>
+<li class='same'> 15:30 tvtropes.org</li>
+<li class='same'> 15:26 tvtropes.org</li>
+<li class='same'> 15:25 tvtropes.org</li>
+<li class='same'> 15:24 tvtropes.org</li>
+<li class='same'> 15:23 tvtropes.org</li>
+<li> 15:13 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 14:48 chatgpt.com</li>
 <li> 14:48 chat.openai.com</li>
 <li> 14:44 www.whois.com</li>
@@ -419,7 +470,9 @@ With number of accesses/minutes in parentheses
 <li> 14:27 www.spiceworks.com</li>
 <li> 14:27 www.coursera.org</li>
 <li class='same'> 14:26 www.coursera.org</li>
-<li> 14:22 tvtropes.org</li>
+<li> 14:25 tvtropes.org</li>
+<li class='same'> 14:23 tvtropes.org</li>
+<li class='same'> 14:22 tvtropes.org</li>
 <li class='same'> 14:14 tvtropes.org</li>
 <li class='same'> 14:08 tvtropes.org</li>
 <li> 14:03 edithistory.substack.com</li>
@@ -98833,6 +98886,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:23 www.qiq.support</li>
 <li class='same'> 11:22 www.qiq.support</li>
 <li> 11:12 mail.google.com</li>
+<li> 11:10 www.hover.com</li>
+<li> 11:10 reddington.com</li>
 <li> 11:00 equalitytime.co.uk</li>
 <li class='same'> 10:59 equalitytime.co.uk</li>
 </ul>
