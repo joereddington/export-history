@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4441)</li>
 <li>mail.google.com (4388)</li>
 <li>outlook.office.com (4115)</li>
-<li>www.google.com (4086)</li>
+<li>www.google.com (4088)</li>
 <li>outlook.office365.com (4014)</li>
 <li>duckduckgo.com (2770)</li>
 <li>docs.google.com (2722)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (1577)</li>
 <li>www.facebook.com (1493)</li>
 <li>login.microsoftonline.com (1281)</li>
-<li>www.amazon.co.uk (1154)</li>
+<li>www.amazon.co.uk (1156)</li>
 <li>calendar.google.com (1118)</li>
 <li>moodle.royalholloway.ac.uk (1035)</li>
 <li>herts.instructure.com (846)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (725)</li>
 <li>forms.office.com (724)</li>
 <li>gmail.com (701)</li>
-<li><a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a> (696)</li>
+<li><a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a> (698)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (645)</li>
 <li>feedly.com (569)</li>
@@ -108,10 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:58 www.parkrun.org.uk</li>
+<li class='same'> 10:41 www.parkrun.org.uk</li>
+<li> 10:24 www.metacritic.com</li>
+<li class='same'> 10:23 www.metacritic.com</li>
+<li class='same'> 10:22 www.metacritic.com</li>
+<li class='same'> 10:21 www.metacritic.com</li>
+<li class='same'> 10:20 www.metacritic.com</li>
+<li> 10:20 www.google.com</li>
+<li> 10:07 www.parkrun.org.uk</li>
+<li> 10:01 <a href="https://www.bbc.co.uk/news/articles/cm2yr95md71o">BBC - Home</a></li>
+<li> 09:54 <a href="https://www.bbc.co.uk/">Women filmed in secret for TikTok content - then harassed online - BBC News</a></li>
+<li> 09:54 <a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a></li>
+<li> 09:54 theguardian.com</li>
+<li> 09:54 www.parkrun.org.uk</li>
+<li class='same'> 09:53 www.parkrun.org.uk</li>
+<li class='same'> 09:50 www.parkrun.org.uk</li>
+<li class='same'> 09:49 www.parkrun.org.uk</li>
+<li> 09:49 <a href="https://www.bbc.co.uk/news/articles/cj6wy85l3x5o">Five ways weight-loss jabs are changing spending habits - BBC News</a></li>
+</ul>
+
+<br>
+
 <ul><li> 07:55 bookings.freshcar.co.uk</li>
 <li> 07:55 mail.google.com</li>
 <li> 07:55 gmail.com</li>
 <li> 07:55 bookings.freshcar.co.uk</li>
+<li> 07:52 www.lego.com</li>
+<li class='same'> 07:51 www.lego.com</li>
+<li> 07:51 www.google.com</li>
 </ul>
 
 <br>
@@ -119,6 +144,11 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:06 <a href="https://www.theguardian.com/sport/2026/jan/24/alex-honnold-free-solo-taipei-101-netflix">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:06 <a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a></li>
 <li> 07:06 www.google.com</li>
+<li> 06:38 <a href="https://www.bbc.co.uk/news/articles/cj6wy85l3x5o">Five ways weight-loss jabs are changing spending habits - BBC News</a></li>
+<li> 06:38 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:38 theguardian.com</li>
+<li> 06:38 <a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a></li>
+<li> 06:38 www.amazon.co.uk</li>
 </ul>
 
 <H3>Saturday, 24/01/26</H3>
@@ -129,8 +159,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 20:40 www.google.com</li>
+<ul><li> 20:40 www.google.com</li>
 <li class='same'> 20:39 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:21 www.amazon.co.uk</li>
 </ul>
 
 <br>
@@ -94830,6 +94865,7 @@ With number of accesses/minutes in parentheses
 <li> 17:52 www.parkrun.org.uk</li>
 <li> 17:51 www.parkrun.com</li>
 <li> 17:51 www.parkrun.org.uk</li>
+<li class='same'> 17:50 www.parkrun.org.uk</li>
 <li> 17:47 www.amazon.co.uk</li>
 </ul>
 
