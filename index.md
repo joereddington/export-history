@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4441)</li>
-<li>mail.google.com (4388)</li>
+<ol><li>www.reddit.com (4442)</li>
+<li>mail.google.com (4391)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4088)</li>
 <li>outlook.office365.com (4014)</li>
 <li>duckduckgo.com (2770)</li>
 <li>docs.google.com (2722)</li>
-<li>chatgpt.com (1783)</li>
+<li>chatgpt.com (1786)</li>
 <li>bsky.app (1581)</li>
-<li>www.linkedin.com (1577)</li>
+<li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
 <li>login.microsoftonline.com (1281)</li>
 <li>www.amazon.co.uk (1156)</li>
-<li>calendar.google.com (1118)</li>
+<li>calendar.google.com (1120)</li>
 <li>moodle.royalholloway.ac.uk (1035)</li>
 <li>herts.instructure.com (846)</li>
 <li>rhul-my.sharepoint.com (836)</li>
-<li>web.whatsapp.com (746)</li>
-<li>chat.openai.com (725)</li>
+<li>web.whatsapp.com (747)</li>
+<li>chat.openai.com (726)</li>
 <li>forms.office.com (724)</li>
 <li>gmail.com (701)</li>
 <li><a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a> (698)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (645)</li>
-<li>feedly.com (569)</li>
-<li>github.com (567)</li>
+<li>feedly.com (570)</li>
+<li>github.com (568)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
 <li>rhul.sharepoint.com (411)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:58 www.parkrun.org.uk</li>
+<ul><li> 11:22 chatgpt.com</li>
+<li class='same'> 11:12 chatgpt.com</li>
+<li class='same'> 11:11 chatgpt.com</li>
+<li> 11:11 chat.openai.com</li>
+<li> 11:11 github.com</li>
+<li> 11:08 www.natesilver.net</li>
+<li> 11:05 feedly.com</li>
+<li> 11:05 www.linkedin.com</li>
+<li> 11:05 calendar.google.com</li>
+<li> 11:05 mail.google.com</li>
+<li class='same'> 11:04 mail.google.com</li>
+<li> 11:04 bookings.freshcar.co.uk</li>
+<li class='same'> 11:03 bookings.freshcar.co.uk</li>
+<li> 11:02 web.whatsapp.com</li>
+<li> 11:02 web.archive.org</li>
+<li> 11:02 calendar.google.com</li>
+<li> 11:02 bookings.freshcar.co.uk</li>
+<li class='same'> 11:01 bookings.freshcar.co.uk</li>
+<li> 10:58 www.parkrun.org.uk</li>
 <li class='same'> 10:41 www.parkrun.org.uk</li>
 <li> 10:24 www.metacritic.com</li>
 <li class='same'> 10:23 www.metacritic.com</li>
@@ -130,7 +148,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:55 bookings.freshcar.co.uk</li>
+<ul><li> 07:57 bookings.freshcar.co.uk</li>
+<li> 07:56 libbyapp.com</li>
+<li> 07:56 <a href="https://en.wikipedia.org/wiki/WW3_%28Kanye_West_album%29">In a Perfect World (Kanye West album) - Wikipedia</a></li>
+<li> 07:56 www.reddit.com</li>
+<li> 07:56 libbyapp.com</li>
+<li> 07:56 mail.google.com</li>
+<li> 07:55 bookings.freshcar.co.uk</li>
 <li> 07:55 mail.google.com</li>
 <li> 07:55 gmail.com</li>
 <li> 07:55 bookings.freshcar.co.uk</li>
