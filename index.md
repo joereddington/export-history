@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4442)</li>
 <li>mail.google.com (4391)</li>
 <li>outlook.office.com (4115)</li>
-<li>www.google.com (4088)</li>
+<li>www.google.com (4089)</li>
 <li>outlook.office365.com (4014)</li>
 <li>duckduckgo.com (2770)</li>
 <li>docs.google.com (2722)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:02 www.boredpanda.com</li>
+<ul><li> 16:12 www.parkrun.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 14:58 <a href="https://www.bbc.co.uk/news/articles/c79rxy9npj4o">Andy Burnham's bid to return as MP blocked by Labour ruling body - BBC News</a></li>
+<li> 14:56 <a href="https://www.bbc.co.uk/news/articles/czr4e7ep468o">Home - BBC News</a></li>
+<li> 14:56 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 14:56 www.parkrun.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:16 www.parkrun.org.uk</li>
+<li> 14:13 reductress.com</li>
+<li class='same'> 14:12 reductress.com</li>
+<li class='same'> 14:11 reductress.com</li>
+<li class='same'> 14:10 reductress.com</li>
+<li class='same'> 14:08 reductress.com</li>
+<li class='same'> 14:07 reductress.com</li>
+<li> 14:07 www.thedailymash.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:15 www.thedailymash.co.uk</li>
+<li class='same'> 13:14 www.thedailymash.co.uk</li>
+<li> 13:14 www.google.com</li>
+<li> 13:13 www.boredpanda.com</li>
+<li class='same'> 13:11 www.boredpanda.com</li>
+<li class='same'> 13:02 www.boredpanda.com</li>
 <li> 12:46 www.parkrun.org.uk</li>
 </ul>
 
