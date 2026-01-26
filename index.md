@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.reddit.com (4442)</li>
+<ol><li>www.reddit.com (4444)</li>
 <li>mail.google.com (4391)</li>
 <li>outlook.office.com (4115)</li>
-<li>www.google.com (4089)</li>
+<li>www.google.com (4091)</li>
 <li>outlook.office365.com (4014)</li>
-<li>duckduckgo.com (2770)</li>
+<li>duckduckgo.com (2771)</li>
 <li>docs.google.com (2722)</li>
 <li>chatgpt.com (1786)</li>
 <li>bsky.app (1581)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:12 www.parkrun.org.uk</li>
+<ul><li> 17:45 www.google.com</li>
+<li> 17:45 www.parkrun.org.uk</li>
+<li> 17:33 <a href="https://www.youtube.com/watch?v=ww22nE-6PkE">(52) Easy Piano Tutorial: Old MacDonald Had a Farm - YouTube</a></li>
+<li class='same'> 17:31 <a href="https://www.youtube.com/watch?v=ww22nE-6PkE">(52) Easy Piano Tutorial: Old MacDonald Had a Farm - YouTube</a></li>
+<li> 17:27 <a href="https://www.youtube.com/watch?v=kt8Mzf7M7Q4">(52) Easy Piano Tutorial: Happy Birthday to You! (slow tempo) - YouTube</a></li>
+<li> 17:27 duckduckgo.com</li>
+<li> 17:13 www.parkrun.org.uk</li>
+<li class='same'> 17:12 www.parkrun.org.uk</li>
+<li> 17:12 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:12 www.reddit.com</li>
+<li> 16:12 www.google.com</li>
+<li> 16:12 www.parkrun.org.uk</li>
 </ul>
 
 <br>
