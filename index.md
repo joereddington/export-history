@@ -72,17 +72,17 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4391)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4088)</li>
-<li>outlook.office365.com (4014)</li>
-<li>duckduckgo.com (2771)</li>
+<li>outlook.office365.com (4015)</li>
+<li>duckduckgo.com (2773)</li>
 <li>docs.google.com (2722)</li>
 <li>chatgpt.com (1788)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1281)</li>
+<li>login.microsoftonline.com (1283)</li>
 <li>www.amazon.co.uk (1155)</li>
 <li>calendar.google.com (1120)</li>
-<li>moodle.royalholloway.ac.uk (1040)</li>
+<li>moodle.royalholloway.ac.uk (1041)</li>
 <li>herts.instructure.com (846)</li>
 <li>rhul-my.sharepoint.com (835)</li>
 <li>web.whatsapp.com (747)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a> (698)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (645)</li>
-<li>feedly.com (571)</li>
+<li>feedly.com (572)</li>
 <li>github.com (568)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:39 generalssb-prod.ec.royalholloway.ac.uk</li>
+<ul><li> 16:41 duckduckgo.com</li>
+<li> 16:41 libbyapp.com</li>
+<li> 16:41 <a href="https://en.wikipedia.org/wiki/Grok_(chatbot)"></a></li>
+<li> 16:41 duckduckgo.com</li>
+<li> 16:40 ico.org.uk</li>
+<li class='same'> 16:39 ico.org.uk</li>
+<li> 16:39 <a href="https://www.bbc.co.uk/news/articles/clye99wg0y8o">EU investigates Elon Musk's X over Grok AI sexual deepfakes - BBC News</a></li>
+<li> 16:39 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 16:39 login.microsoftonline.com</li>
+<li> 16:39 outlook.office365.com</li>
+<li> 16:24 www.giantitp.com</li>
+<li> 16:24 feedly.com</li>
+<li> 16:02 login.microsoftonline.com</li>
+<li> 15:57 generalssb-prod.ec.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 14:55 moodle.royalholloway.ac.uk</li>
+<li> 14:39 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 14:39 eis-prod.ec.royalholloway.ac.uk</li>
 <li> 14:39 login.microsoftonline.com</li>
 <li> 14:39 generalssb-prod.ec.royalholloway.ac.uk</li>
