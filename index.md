@@ -79,10 +79,10 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1278)</li>
+<li>login.microsoftonline.com (1281)</li>
 <li>www.amazon.co.uk (1155)</li>
 <li>calendar.google.com (1120)</li>
-<li>moodle.royalholloway.ac.uk (1037)</li>
+<li>moodle.royalholloway.ac.uk (1040)</li>
 <li>herts.instructure.com (846)</li>
 <li>rhul-my.sharepoint.com (835)</li>
 <li>web.whatsapp.com (747)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 26/01/26</H3>
+
+<br>
+
+<ul><li> 14:39 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 14:39 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 14:39 login.microsoftonline.com</li>
+<li> 14:39 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 14:39 experience.elluciancloud.ie</li>
+<li> 14:39 login.microsoftonline.com</li>
+<li> 14:39 experience.elluciancloud.ie</li>
+<li> 14:22 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:20 moodle.royalholloway.ac.uk</li>
+<li> 14:20 login.microsoftonline.com</li>
+<li> 14:20 moodle.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
