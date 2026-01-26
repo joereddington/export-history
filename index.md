@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4088)</li>
 <li>outlook.office365.com (4015)</li>
-<li>duckduckgo.com (2773)</li>
+<li>duckduckgo.com (2774)</li>
 <li>docs.google.com (2722)</li>
 <li>chatgpt.com (1788)</li>
 <li>bsky.app (1581)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:41 duckduckgo.com</li>
+<ul><li> 17:54 eu-west-2.console.aws.amazon.com</li>
+<li> 17:54 signin.aws.amazon.com</li>
+<li> 17:53 eu-west-2.signin.aws.amazon.com</li>
+<li> 17:53 eu-west-2.console.aws.amazon.com</li>
+<li> 17:49 <a href="https://www.bbc.co.uk/news/articles/cy8ppnlmed8o">Bonnie Tyler's Total Eclipse of The Heart hits 1bn streams - but 'makes nothing' - BBC News</a></li>
+<li> 17:48 <a href="https://www.bbc.co.uk/news/articles/cgjw0xegxglo">UK loses measles elimination status - BBC News</a></li>
+<li> 17:25 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:41 duckduckgo.com</li>
 <li> 16:41 libbyapp.com</li>
 <li> 16:41 <a href="https://en.wikipedia.org/wiki/Grok_(chatbot)"></a></li>
 <li> 16:41 duckduckgo.com</li>
