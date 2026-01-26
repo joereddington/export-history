@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4015)</li>
 <li>duckduckgo.com (2774)</li>
 <li>docs.google.com (2722)</li>
-<li>chatgpt.com (1788)</li>
+<li>chatgpt.com (1790)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1041)</li>
 <li>herts.instructure.com (846)</li>
 <li>rhul-my.sharepoint.com (835)</li>
-<li>web.whatsapp.com (747)</li>
-<li>chat.openai.com (727)</li>
+<li>web.whatsapp.com (748)</li>
+<li>chat.openai.com (728)</li>
 <li>forms.office.com (724)</li>
 <li>gmail.com (701)</li>
 <li><a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a> (698)</li>
@@ -108,7 +108,35 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:54 eu-west-2.console.aws.amazon.com</li>
+<ul><li> 18:20 www.coursera.org</li>
+<li> 18:18 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:17 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:16 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:15 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:12 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:11 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:10 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:09 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:08 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:07 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:06 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:05 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:04 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 18:03 eu-west-2.console.aws.amazon.com</li>
+<li> 18:03 lightsail.aws.amazon.com</li>
+<li> 18:01 3.10.247.82</li>
+<li> 18:01 lightsail.aws.amazon.com</li>
+<li> 18:01 equalitytime.co.uk</li>
+<li class='same'> 18:00 equalitytime.co.uk</li>
+<li> 18:00 lightsail.aws.amazon.com</li>
+<li> 17:57 chatgpt.com</li>
+<li class='same'> 17:56 chatgpt.com</li>
+<li> 17:56 chat.openai.com</li>
+<li> 17:56 web.whatsapp.com</li>
+<li> 17:56 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 17:55 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 17:54 us-east-1.console.aws.amazon.com</li>
+<li> 17:54 eu-west-2.console.aws.amazon.com</li>
 <li> 17:54 signin.aws.amazon.com</li>
 <li> 17:53 eu-west-2.signin.aws.amazon.com</li>
 <li> 17:53 eu-west-2.console.aws.amazon.com</li>
@@ -87672,10 +87700,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:24 whitewaterwriters.com</li>
 <li> 16:24 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 16:23 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 16:22 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 16:21 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 16:20 eu-west-2.console.aws.amazon.com</li>
 <li> 16:20 chatgpt.com</li>
 <li> 16:19 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 16:18 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 16:17 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 16:13 eu-west-2.console.aws.amazon.com</li>
 </ul>
