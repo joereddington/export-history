@@ -75,24 +75,24 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4014)</li>
 <li>duckduckgo.com (2771)</li>
 <li>docs.google.com (2722)</li>
-<li>chatgpt.com (1786)</li>
+<li>chatgpt.com (1788)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1276)</li>
+<li>login.microsoftonline.com (1278)</li>
 <li>www.amazon.co.uk (1155)</li>
 <li>calendar.google.com (1120)</li>
-<li>moodle.royalholloway.ac.uk (1035)</li>
+<li>moodle.royalholloway.ac.uk (1037)</li>
 <li>herts.instructure.com (846)</li>
 <li>rhul-my.sharepoint.com (835)</li>
 <li>web.whatsapp.com (747)</li>
-<li>chat.openai.com (726)</li>
+<li>chat.openai.com (727)</li>
 <li>forms.office.com (724)</li>
 <li>gmail.com (701)</li>
 <li><a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a> (698)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (645)</li>
-<li>feedly.com (570)</li>
+<li>feedly.com (571)</li>
 <li>github.com (568)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
@@ -104,7 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 26/01/26</H3>
+
+<br>
+
+<ul><li> 13:09 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:04 chatgpt.com</li>
+<li class='same'> 08:02 chatgpt.com</li>
+<li> 08:02 chat.openai.com</li>
+<li> 08:00 moodle.royalholloway.ac.uk</li>
+<li> 08:00 login.microsoftonline.com</li>
+<li class='same'> 07:59 login.microsoftonline.com</li>
+<li> 07:59 experience.elluciancloud.ie</li>
+<li> 07:59 moodle.royalholloway.ac.uk</li>
+</ul>
+
 <H3>Sunday, 25/01/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
