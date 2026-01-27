@@ -74,20 +74,20 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (4090)</li>
 <li>outlook.office365.com (4015)</li>
 <li>duckduckgo.com (2774)</li>
-<li>docs.google.com (2722)</li>
+<li>docs.google.com (2730)</li>
 <li>chatgpt.com (1790)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1276)</li>
+<li>login.microsoftonline.com (1278)</li>
 <li>www.amazon.co.uk (1155)</li>
 <li>calendar.google.com (1120)</li>
-<li>moodle.royalholloway.ac.uk (1041)</li>
+<li>moodle.royalholloway.ac.uk (1043)</li>
 <li>herts.instructure.com (846)</li>
-<li>rhul-my.sharepoint.com (834)</li>
+<li>rhul-my.sharepoint.com (835)</li>
 <li>web.whatsapp.com (748)</li>
 <li>chat.openai.com (728)</li>
-<li>forms.office.com (724)</li>
+<li>forms.office.com (725)</li>
 <li>gmail.com (701)</li>
 <li><a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a> (698)</li>
 <li>www.theguardian.com (685)</li>
@@ -104,7 +104,35 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 27/01/26</H3>
+
+<br>
+
+<ul><li> 07:59 docs.google.com</li>
+<li class='same'> 07:58 docs.google.com</li>
+<li class='same'> 07:56 docs.google.com</li>
+<li class='same'> 07:54 docs.google.com</li>
+<li class='same'> 07:53 docs.google.com</li>
+<li class='same'> 07:52 docs.google.com</li>
+<li class='same'> 07:51 docs.google.com</li>
+<li class='same'> 07:50 docs.google.com</li>
+<li> 07:50 rhul-my.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 06:43 moodle.royalholloway.ac.uk</li>
+<li> 06:43 login.microsoftonline.com</li>
+<li> 06:43 moodle.royalholloway.ac.uk</li>
+<li> 06:42 login.microsoftonline.com</li>
+<li> 06:42 forms.office.com</li>
+</ul>
+
 <H3>Monday, 26/01/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
