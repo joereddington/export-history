@@ -72,17 +72,17 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4391)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4090)</li>
-<li>outlook.office365.com (4018)</li>
+<li>outlook.office365.com (4024)</li>
 <li>duckduckgo.com (2775)</li>
 <li>docs.google.com (2742)</li>
 <li>chatgpt.com (1794)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1280)</li>
+<li>login.microsoftonline.com (1282)</li>
 <li>www.amazon.co.uk (1155)</li>
 <li>calendar.google.com (1122)</li>
-<li>moodle.royalholloway.ac.uk (1059)</li>
+<li>moodle.royalholloway.ac.uk (1060)</li>
 <li>herts.instructure.com (846)</li>
 <li>rhul-my.sharepoint.com (837)</li>
 <li>web.whatsapp.com (749)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 27/01/26</H3>
+
+<br>
+
+<ul><li> 13:27 outlook.office365.com</li>
+<li class='same'> 13:26 outlook.office365.com</li>
+<li> 13:25 dashboards.rhul.ac.uk</li>
+<li> 13:25 outlook.office365.com</li>
+<li> 13:23 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 13:23 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 13:23 login.microsoftonline.com</li>
+<li> 13:23 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 13:23 experience.elluciancloud.ie</li>
+<li> 13:23 login.microsoftonline.com</li>
+<li> 13:23 experience.elluciancloud.ie</li>
+<li> 13:21 moodle.royalholloway.ac.uk</li>
+<li> 13:19 outlook.office365.com</li>
+<li class='same'> 13:16 outlook.office365.com</li>
+<li class='same'> 13:15 outlook.office365.com</li>
+</ul>
 
 <br>
 
