@@ -72,10 +72,10 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4391)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4090)</li>
-<li>outlook.office365.com (4025)</li>
+<li>outlook.office365.com (4027)</li>
 <li>duckduckgo.com (2775)</li>
 <li>docs.google.com (2742)</li>
-<li>chatgpt.com (1794)</li>
+<li>chatgpt.com (1796)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
@@ -84,10 +84,10 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1123)</li>
 <li>moodle.royalholloway.ac.uk (1060)</li>
 <li>herts.instructure.com (846)</li>
-<li>rhul-my.sharepoint.com (839)</li>
+<li>rhul-my.sharepoint.com (840)</li>
 <li>web.whatsapp.com (749)</li>
+<li>chat.openai.com (729)</li>
 <li>forms.office.com (728)</li>
-<li>chat.openai.com (728)</li>
 <li>gmail.com (701)</li>
 <li><a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a> (698)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:51 rhul-my.sharepoint.com</li>
+<ul><li> 15:51 chatgpt.com</li>
+<li class='same'> 15:48 chatgpt.com</li>
+<li> 15:48 chat.openai.com</li>
+<li> 15:44 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:05 rhul-my.sharepoint.com</li>
+<li> 15:05 outlook.office365.com</li>
+<li> 14:51 rhul-my.sharepoint.com</li>
 <li> 14:51 login.microsoftonline.com</li>
 <li> 14:51 rhul-my.sharepoint.com</li>
 <li> 14:51 forms.office.com</li>
