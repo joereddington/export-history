@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4444)</li>
 <li>mail.google.com (4391)</li>
 <li>outlook.office.com (4115)</li>
-<li>www.google.com (4088)</li>
+<li>www.google.com (4090)</li>
 <li>outlook.office365.com (4015)</li>
 <li>duckduckgo.com (2774)</li>
 <li>docs.google.com (2722)</li>
@@ -79,12 +79,12 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1283)</li>
+<li>login.microsoftonline.com (1276)</li>
 <li>www.amazon.co.uk (1155)</li>
 <li>calendar.google.com (1120)</li>
 <li>moodle.royalholloway.ac.uk (1041)</li>
 <li>herts.instructure.com (846)</li>
-<li>rhul-my.sharepoint.com (835)</li>
+<li>rhul-my.sharepoint.com (834)</li>
 <li>web.whatsapp.com (748)</li>
 <li>chat.openai.com (728)</li>
 <li>forms.office.com (724)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (568)</li>
 <li>drive.google.com (445)</li>
 <li>fritz.box (418)</li>
-<li>rhul.sharepoint.com (411)</li>
+<li>rhul.sharepoint.com (410)</li>
 <li><a href="https://www.theguardian.com/">Former Tory councillor admits drugging and raping wife over 14-year period | UK news | The Guardian</a> (389)</li>
 
 
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 26/01/26</H3>
+
+<br>
+
+<ul><li> 21:27 www.tesco.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:13 www.google.com</li>
+<li class='same'> 19:12 www.google.com</li>
+<li> 19:12 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+</ul>
 
 <br>
 
@@ -16316,8 +16328,7 @@ With number of accesses/minutes in parentheses
 <li> 18:25 gmail.com</li>
 <li> 18:24 mail.google.com</li>
 <li class='same'> 18:22 mail.google.com</li>
-<li> 18:22 identity.company-information.service.gov.uk</li>
-<li class='same'> 18:21 identity.company-information.service.gov.uk</li>
+<li> 18:21 identity.company-information.service.gov.uk</li>
 <li> 18:21 ewf.companieshouse.gov.uk</li>
 <li> 18:21 mail.google.com</li>
 <li> 18:21 ewf.companieshouse.gov.uk</li>
@@ -16366,12 +16377,9 @@ With number of accesses/minutes in parentheses
 <li> 17:58 <a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a></li>
 <li> 17:58 www.sainsburys.co.uk</li>
 <li> 17:53 outlook.office365.com</li>
-<li> 17:53 login.microsoftonline.com</li>
 <li> 17:51 docs.google.com</li>
 <li> 17:51 ce0997li.webitrent.com</li>
 <li> 17:50 docs.google.com</li>
-<li> 17:49 ce0997li.webitrent.com</li>
-<li> 17:49 login.microsoftonline.com</li>
 <li> 17:49 ce0997li.webitrent.com</li>
 <li> 17:49 login.microsoftonline.com</li>
 <li> 17:49 docs.google.com</li>
@@ -16538,8 +16546,6 @@ With number of accesses/minutes in parentheses
 <li> 11:06 login.microsoftonline.com</li>
 <li> 11:06 outlook.office365.com</li>
 <li> 10:45 rhul.sharepoint.com</li>
-<li> 10:45 login.microsoftonline.com</li>
-<li> 10:45 rhul.sharepoint.com</li>
 <li> 10:45 rhul-my.sharepoint.com</li>
 <li class='same'> 10:44 rhul-my.sharepoint.com</li>
 <li> 10:44 login.microsoftonline.com</li>
@@ -16555,7 +16561,6 @@ With number of accesses/minutes in parentheses
 <li> 10:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:23 github.com</li>
 <li> 10:22 student-vpn.royalholloway.ac.uk</li>
-<li> 10:22 login.microsoftonline.com</li>
 <li> 10:22 intranet.royalholloway.ac.uk</li>
 <li> 10:22 duckduckgo.com</li>
 <li class='same'> 10:21 duckduckgo.com</li>
@@ -16569,7 +16574,6 @@ With number of accesses/minutes in parentheses
 <li> 10:06 chat.openai.com</li>
 <li> 10:05 outlook.office365.com</li>
 <li> 10:04 student-vpn.royalholloway.ac.uk</li>
-<li> 10:04 login.microsoftonline.com</li>
 <li> 10:03 intranet.royalholloway.ac.uk</li>
 <li> 10:03 duckduckgo.com</li>
 <li> 10:03 outlook.office365.com</li>
@@ -16578,16 +16582,12 @@ With number of accesses/minutes in parentheses
 <li> 09:51 docs.google.com</li>
 <li class='same'> 09:50 docs.google.com</li>
 <li> 09:50 workload.herts.ac.uk</li>
-<li> 09:50 adfs.herts.ac.uk</li>
-<li> 09:50 workload.herts.ac.uk</li>
 <li> 09:49 outlook.office365.com</li>
 </ul>
 
 <br>
 
 <ul><li> 08:59 rhul-my.sharepoint.com</li>
-<li> 08:59 login.microsoftonline.com</li>
-<li> 08:59 rhul-my.sharepoint.com</li>
 <li> 08:54 outlook.office365.com</li>
 <li class='same'> 08:53 outlook.office365.com</li>
 <li> 08:31 chatgpt.com</li>
@@ -16616,8 +16616,7 @@ With number of accesses/minutes in parentheses
 <li> 08:06 m365.cloud.microsoft</li>
 <li> 08:06 login.microsoftonline.com</li>
 <li> 08:06 ce0997li.webitrent.com</li>
-<li> 08:06 login.microsoftonline.com</li>
-<li class='same'> 08:05 login.microsoftonline.com</li>
+<li> 08:05 login.microsoftonline.com</li>
 <li> 08:04 feedly.com</li>
 <li> 08:04 <a href="https://www.theguardian.com/uk">"hannah keller" - Google Search</a></li>
 <li> 08:04 feedly.com</li>
