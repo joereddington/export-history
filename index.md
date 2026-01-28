@@ -72,20 +72,20 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4392)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4094)</li>
-<li>outlook.office365.com (4035)</li>
-<li>duckduckgo.com (2779)</li>
+<li>outlook.office365.com (4037)</li>
+<li>duckduckgo.com (2780)</li>
 <li>docs.google.com (2770)</li>
 <li>chatgpt.com (1802)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1293)</li>
+<li>login.microsoftonline.com (1295)</li>
 <li>www.amazon.co.uk (1155)</li>
 <li>calendar.google.com (1126)</li>
-<li>moodle.royalholloway.ac.uk (1065)</li>
+<li>moodle.royalholloway.ac.uk (1069)</li>
 <li>herts.instructure.com (846)</li>
 <li>rhul-my.sharepoint.com (843)</li>
-<li>web.whatsapp.com (751)</li>
+<li>web.whatsapp.com (753)</li>
 <li>chat.openai.com (731)</li>
 <li>forms.office.com (728)</li>
 <li><a href="https://www.theguardian.com/uk">Sign in to your account</a> (704)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:56 www.etymonline.com</li>
+<ul><li> 13:55 moodle.royalholloway.ac.uk</li>
+<li> 13:54 outlook.office365.com</li>
+<li> 13:54 login.microsoftonline.com</li>
+<li> 13:54 outlook.office365.com</li>
+<li> 13:28 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
+<li> 13:26 moodle.royalholloway.ac.uk</li>
+<li> 13:26 127.0.0.1:4000</li>
+<li> 13:23 web.whatsapp.com</li>
+<li> 13:21 duckduckgo.com</li>
+<li> 13:09 rhul.hosted.panopto.com</li>
+<li> 13:08 moodle.royalholloway.ac.uk</li>
+<li> 13:08 login.microsoftonline.com</li>
+<li> 13:07 moodle.royalholloway.ac.uk</li>
+<li> 13:07 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:02 127.0.0.1:4000</li>
+<li> 12:57 web.whatsapp.com</li>
+<li> 12:56 www.etymonline.com</li>
 <li> 12:56 duckduckgo.com</li>
 <li> 12:55 www.playstation.com</li>
 <li> 12:52 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
