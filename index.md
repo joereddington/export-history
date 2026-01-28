@@ -72,7 +72,7 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4391)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4092)</li>
-<li>outlook.office365.com (4033)</li>
+<li>outlook.office365.com (4035)</li>
 <li>duckduckgo.com (2775)</li>
 <li>docs.google.com (2742)</li>
 <li>chatgpt.com (1796)</li>
@@ -92,9 +92,9 @@ With number of accesses/minutes in parentheses
 <li><a href="https://www.theguardian.com/uk">Reform’s Matt Goodwin is sure he’s the right man for Gorton and Denton. He just doesn’t know why… | John Crace | The Guardian</a> (700)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (645)</li>
-<li>feedly.com (572)</li>
+<li>feedly.com (573)</li>
 <li>github.com (568)</li>
-<li>drive.google.com (446)</li>
+<li>drive.google.com (447)</li>
 <li>fritz.box (418)</li>
 <li>rhul.sharepoint.com (410)</li>
 <li><a href="https://www.theguardian.com/">Former Tory councillor admits drugging and raping wife over 14-year period | UK news | The Guardian</a> (389)</li>
@@ -105,6 +105,16 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 28/01/26</H3>
+
+<br>
+
+<ul><li> 07:48 drive.google.com</li>
+<li> 07:46 outlook.office365.com</li>
+<li> 07:44 www.natesilver.net</li>
+<li> 07:42 www.memeorandum.com</li>
+<li> 07:41 feedly.com</li>
+<li> 07:41 outlook.office365.com</li>
+</ul>
 
 <br>
 
