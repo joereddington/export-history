@@ -74,7 +74,7 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (4092)</li>
 <li>outlook.office365.com (4035)</li>
 <li>duckduckgo.com (2775)</li>
-<li>docs.google.com (2742)</li>
+<li>docs.google.com (2748)</li>
 <li>chatgpt.com (1796)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
@@ -105,6 +105,16 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 28/01/26</H3>
+
+<br>
+
+<ul><li> 08:24 docs.google.com</li>
+<li class='same'> 08:23 docs.google.com</li>
+<li class='same'> 08:22 docs.google.com</li>
+<li class='same'> 08:21 docs.google.com</li>
+<li class='same'> 08:19 docs.google.com</li>
+<li class='same'> 08:18 docs.google.com</li>
+</ul>
 
 <br>
 
