@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4094)</li>
 <li>outlook.office365.com (4035)</li>
-<li>duckduckgo.com (2778)</li>
+<li>duckduckgo.com (2779)</li>
 <li>docs.google.com (2770)</li>
 <li>chatgpt.com (1802)</li>
 <li>bsky.app (1581)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1065)</li>
 <li>herts.instructure.com (846)</li>
 <li>rhul-my.sharepoint.com (843)</li>
-<li>web.whatsapp.com (750)</li>
+<li>web.whatsapp.com (751)</li>
 <li>chat.openai.com (731)</li>
 <li>forms.office.com (728)</li>
 <li><a href="https://www.theguardian.com/uk">Sign in to your account</a> (704)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:39 <a href="https://www.theguardian.com/uk">Sign in to your account</a></li>
+<ul><li> 12:56 www.etymonline.com</li>
+<li> 12:56 duckduckgo.com</li>
+<li> 12:55 www.playstation.com</li>
+<li> 12:52 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 12:34 web.whatsapp.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:55 www.evri.com</li>
+<li> 10:54 www.whatsapp.com</li>
+<li> 10:39 <a href="https://www.theguardian.com/uk">Sign in to your account</a></li>
 <li> 10:13 chatgpt.com</li>
 <li class='same'> 10:12 chatgpt.com</li>
 <li> 10:12 chat.openai.com</li>
