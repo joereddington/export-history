@@ -75,19 +75,19 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4041)</li>
 <li>duckduckgo.com (2782)</li>
 <li>docs.google.com (2770)</li>
-<li>chatgpt.com (1802)</li>
+<li>chatgpt.com (1803)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1296)</li>
+<li>login.microsoftonline.com (1297)</li>
 <li>www.amazon.co.uk (1155)</li>
 <li>calendar.google.com (1126)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>herts.instructure.com (847)</li>
 <li>rhul-my.sharepoint.com (844)</li>
 <li>web.whatsapp.com (753)</li>
+<li>chat.openai.com (732)</li>
 <li>forms.office.com (731)</li>
-<li>chat.openai.com (731)</li>
 <li><a href="https://www.theguardian.com/uk">Sign in to your account</a> (704)</li>
 <li>gmail.com (702)</li>
 <li>www.theguardian.com (685)</li>
@@ -96,7 +96,7 @@ With number of accesses/minutes in parentheses
 <li>github.com (568)</li>
 <li>drive.google.com (447)</li>
 <li>fritz.box (418)</li>
-<li>rhul.sharepoint.com (410)</li>
+<li>rhul.sharepoint.com (413)</li>
 <li><a href="https://www.theguardian.com/">Ukraine war briefing: Nearly 2 million military casualties to date, study finds, with Russia bearing brunt of losses | Ukraine | The Guardian</a> (391)</li>
 
 
@@ -105,6 +105,22 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 28/01/26</H3>
+
+<br>
+
+<ul><li> 16:42 www.bigmarker.com</li>
+<li> 16:41 safeguardingdigital.co.uk</li>
+<li> 16:36 rhul.sharepoint.com</li>
+<li class='same'> 16:35 rhul.sharepoint.com</li>
+<li> 16:34 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
+<li> 16:31 rhul.sharepoint.com</li>
+<li> 16:30 login.microsoftonline.com</li>
+<li> 16:20 chatgpt.com</li>
+<li> 16:20 chat.openai.com</li>
+<li> 16:13 safeguardingdigital.co.uk</li>
+<li> 16:13 www.bigmarker.com</li>
+<li class='same'> 16:11 www.bigmarker.com</li>
+</ul>
 
 <br>
 
