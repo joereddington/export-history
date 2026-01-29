@@ -72,31 +72,31 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4392)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4092)</li>
-<li>outlook.office365.com (4041)</li>
+<li>outlook.office365.com (4048)</li>
 <li>duckduckgo.com (2784)</li>
 <li>docs.google.com (2773)</li>
-<li>chatgpt.com (1806)</li>
+<li>chatgpt.com (1809)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1300)</li>
+<li>login.microsoftonline.com (1303)</li>
 <li>www.amazon.co.uk (1154)</li>
 <li>calendar.google.com (1129)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
-<li>herts.instructure.com (847)</li>
+<li>herts.instructure.com (851)</li>
 <li>rhul-my.sharepoint.com (844)</li>
 <li>web.whatsapp.com (754)</li>
-<li>chat.openai.com (734)</li>
+<li>chat.openai.com (736)</li>
 <li>forms.office.com (733)</li>
 <li><a href="https://www.theguardian.com/uk">Amazon reveals fresh round of global job cuts in email sent in error to workers | Amazon | The Guardian</a> (705)</li>
 <li>gmail.com (702)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (645)</li>
 <li>feedly.com (573)</li>
-<li>github.com (568)</li>
+<li>github.com (571)</li>
 <li>drive.google.com (448)</li>
+<li>rhul.sharepoint.com (420)</li>
 <li>fritz.box (418)</li>
-<li>rhul.sharepoint.com (413)</li>
 <li><a href="https://www.theguardian.com/">Amazon reveals fresh round of global job cuts in email sent in error to workers | Amazon | The Guardian</a> (392)</li>
 
 
@@ -108,7 +108,45 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:53 calendar.google.com</li>
+<ul><li> 10:55 herts.instructure.com</li>
+<li> 10:55 hr.herts.ac.uk</li>
+<li> 10:55 outlook.office365.com</li>
+<li> 10:51 github.com</li>
+<li> 10:51 chatgpt.com</li>
+<li class='same'> 10:50 chatgpt.com</li>
+<li> 10:50 chat.openai.com</li>
+<li> 10:50 github.com</li>
+<li class='same'> 10:49 github.com</li>
+<li> 10:48 www.qiq.support</li>
+<li> 10:48 outlook.office365.com</li>
+<li class='same'> 10:47 outlook.office365.com</li>
+<li> 10:35 herts365-my.sharepoint.com</li>
+<li> 10:35 login.microsoftonline.com</li>
+<li> 10:35 herts365-my.sharepoint.com</li>
+<li> 10:35 m365.cloud.microsoft</li>
+<li> 10:35 eu-west.azureauth.duosecurity.com</li>
+<li> 10:35 api-b6327e78.duosecurity.com</li>
+<li> 10:35 login.microsoftonline.com</li>
+<li> 10:34 herts.instructure.com</li>
+<li class='same'> 10:33 herts.instructure.com</li>
+<li> 10:33 adfs.herts.ac.uk</li>
+<li> 10:33 api-b6327e78.duosecurity.com</li>
+<li> 10:33 adfs.herts.ac.uk</li>
+<li> 10:33 herts.instructure.com</li>
+<li> 10:33 adfs.herts.ac.uk</li>
+<li> 10:28 outlook.office365.com</li>
+<li class='same'> 10:20 outlook.office365.com</li>
+<li> 10:18 rhul.sharepoint.com</li>
+<li class='same'> 10:17 rhul.sharepoint.com</li>
+<li class='same'> 10:15 rhul.sharepoint.com</li>
+<li> 10:15 login.microsoftonline.com</li>
+<li> 10:15 rhul.sharepoint.com</li>
+<li> 10:13 outlook.office365.com</li>
+<li class='same'> 10:06 outlook.office365.com</li>
+<li> 10:01 chatgpt.com</li>
+<li> 10:01 chat.openai.com</li>
+<li> 10:00 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 09:53 calendar.google.com</li>
 <li> 09:53 docs.google.com</li>
 <li> 09:51 www.queenslibrary.org</li>
 <li class='same'> 09:50 www.queenslibrary.org</li>
@@ -87045,11 +87083,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:57 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:25 rhul.sharepoint.com</li>
+<li> 11:55 rhul.sharepoint.com</li>
+<li class='same'> 11:29 rhul.sharepoint.com</li>
+<li class='same'> 11:27 rhul.sharepoint.com</li>
+<li class='same'> 11:25 rhul.sharepoint.com</li>
 <li class='same'> 11:17 rhul.sharepoint.com</li>
 <li class='same'> 11:06 rhul.sharepoint.com</li>
 </ul>
