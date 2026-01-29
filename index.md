@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4094)</li>
 <li>outlook.office365.com (4041)</li>
-<li>duckduckgo.com (2782)</li>
+<li>duckduckgo.com (2783)</li>
 <li>docs.google.com (2770)</li>
 <li>chatgpt.com (1805)</li>
 <li>bsky.app (1581)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 28/01/26</H3>
+
+<br>
+
+<ul><li> 20:38 duckduckgo.com</li>
+<li> 20:37 test.com</li>
+<li> 20:29 127.0.0.1:4000</li>
+<li class='same'> 20:28 127.0.0.1:4000</li>
+<li class='same'> 20:18 127.0.0.1:4000</li>
+</ul>
 
 <br>
 
