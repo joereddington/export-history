@@ -75,15 +75,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4048)</li>
 <li>duckduckgo.com (2784)</li>
 <li>docs.google.com (2773)</li>
-<li>chatgpt.com (1809)</li>
+<li>chatgpt.com (1811)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1303)</li>
+<li>login.microsoftonline.com (1305)</li>
 <li>www.amazon.co.uk (1154)</li>
 <li>calendar.google.com (1129)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
-<li>herts.instructure.com (851)</li>
+<li>herts.instructure.com (853)</li>
 <li>rhul-my.sharepoint.com (844)</li>
 <li>web.whatsapp.com (754)</li>
 <li>chat.openai.com (736)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (573)</li>
 <li>github.com (571)</li>
 <li>drive.google.com (448)</li>
-<li>rhul.sharepoint.com (420)</li>
+<li>rhul.sharepoint.com (424)</li>
 <li>fritz.box (418)</li>
 <li><a href="https://www.theguardian.com/">Amazon reveals fresh round of global job cuts in email sent in error to workers | Amazon | The Guardian</a> (392)</li>
 
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:55 herts.instructure.com</li>
+<ul><li> 11:32 herts.instructure.com</li>
+<li class='same'> 11:31 herts.instructure.com</li>
+<li> 11:04 rhul.sharepoint.com</li>
+<li> 11:03 chatgpt.com</li>
+<li class='same'> 11:02 chatgpt.com</li>
+<li> 11:02 rhul.sharepoint.com</li>
+<li class='same'> 11:01 rhul.sharepoint.com</li>
+<li> 11:00 login.microsoftonline.com</li>
+<li> 11:00 rhul.sharepoint.com</li>
+<li> 11:00 login.microsoftonline.com</li>
+<li> 11:00 theopenvoicefactory.org</li>
+<li> 10:55 herts.instructure.com</li>
 <li> 10:55 hr.herts.ac.uk</li>
 <li> 10:55 outlook.office365.com</li>
 <li> 10:51 github.com</li>
