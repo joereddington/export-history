@@ -72,19 +72,19 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4392)</li>
 <li>outlook.office.com (4115)</li>
 <li>www.google.com (4092)</li>
-<li>outlook.office365.com (4048)</li>
-<li>duckduckgo.com (2784)</li>
+<li>outlook.office365.com (4050)</li>
+<li>duckduckgo.com (2785)</li>
 <li>docs.google.com (2773)</li>
 <li>chatgpt.com (1811)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1305)</li>
+<li>login.microsoftonline.com (1307)</li>
 <li>www.amazon.co.uk (1154)</li>
-<li>calendar.google.com (1129)</li>
-<li>moodle.royalholloway.ac.uk (1070)</li>
-<li>herts.instructure.com (853)</li>
-<li>rhul-my.sharepoint.com (844)</li>
+<li>calendar.google.com (1130)</li>
+<li>moodle.royalholloway.ac.uk (1074)</li>
+<li>herts.instructure.com (855)</li>
+<li>rhul-my.sharepoint.com (848)</li>
 <li>web.whatsapp.com (754)</li>
 <li>chat.openai.com (736)</li>
 <li>forms.office.com (733)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (573)</li>
 <li>github.com (571)</li>
 <li>drive.google.com (448)</li>
-<li>rhul.sharepoint.com (424)</li>
+<li>rhul.sharepoint.com (426)</li>
 <li>fritz.box (418)</li>
 <li><a href="https://www.theguardian.com/">Amazon reveals fresh round of global job cuts in email sent in error to workers | Amazon | The Guardian</a> (392)</li>
 
@@ -105,6 +105,32 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 29/01/26</H3>
+
+<br>
+
+<ul><li> 13:48 rhul-my.sharepoint.com</li>
+<li class='same'> 13:46 rhul-my.sharepoint.com</li>
+<li class='same'> 13:45 rhul-my.sharepoint.com</li>
+<li class='same'> 13:42 rhul-my.sharepoint.com</li>
+<li> 13:42 login.microsoftonline.com</li>
+<li> 13:40 moodle.royalholloway.ac.uk</li>
+<li> 13:37 outlook.office365.com</li>
+<li class='same'> 13:36 outlook.office365.com</li>
+<li> 13:33 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:32 moodle.royalholloway.ac.uk</li>
+<li> 13:32 login.microsoftonline.com</li>
+<li> 13:30 moodle.royalholloway.ac.uk</li>
+<li> 13:30 rhul.sharepoint.com</li>
+<li> 13:12 duckduckgo.com</li>
+<li> 13:06 rhul.sharepoint.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:25 herts.instructure.com</li>
+<li class='same'> 12:24 herts.instructure.com</li>
+<li> 12:06 calendar.google.com</li>
+</ul>
 
 <br>
 
