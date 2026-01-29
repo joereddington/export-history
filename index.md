@@ -74,27 +74,27 @@ With number of accesses/minutes in parentheses
 <li>www.google.com (4092)</li>
 <li>outlook.office365.com (4041)</li>
 <li>duckduckgo.com (2784)</li>
-<li>docs.google.com (2770)</li>
-<li>chatgpt.com (1805)</li>
+<li>docs.google.com (2773)</li>
+<li>chatgpt.com (1806)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1297)</li>
+<li>login.microsoftonline.com (1300)</li>
 <li>www.amazon.co.uk (1154)</li>
-<li>calendar.google.com (1126)</li>
+<li>calendar.google.com (1129)</li>
 <li>moodle.royalholloway.ac.uk (1070)</li>
 <li>herts.instructure.com (847)</li>
 <li>rhul-my.sharepoint.com (844)</li>
-<li>web.whatsapp.com (753)</li>
+<li>web.whatsapp.com (754)</li>
+<li>chat.openai.com (734)</li>
 <li>forms.office.com (733)</li>
-<li>chat.openai.com (733)</li>
 <li><a href="https://www.theguardian.com/uk">Amazon reveals fresh round of global job cuts in email sent in error to workers | Amazon | The Guardian</a> (705)</li>
 <li>gmail.com (702)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (645)</li>
 <li>feedly.com (573)</li>
 <li>github.com (568)</li>
-<li>drive.google.com (447)</li>
+<li>drive.google.com (448)</li>
 <li>fritz.box (418)</li>
 <li>rhul.sharepoint.com (413)</li>
 <li><a href="https://www.theguardian.com/">Amazon reveals fresh round of global job cuts in email sent in error to workers | Amazon | The Guardian</a> (392)</li>
@@ -105,6 +105,49 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 29/01/26</H3>
+
+<br>
+
+<ul><li> 09:53 calendar.google.com</li>
+<li> 09:53 docs.google.com</li>
+<li> 09:51 www.queenslibrary.org</li>
+<li class='same'> 09:50 www.queenslibrary.org</li>
+<li class='same'> 09:49 www.queenslibrary.org</li>
+<li> 09:49 docs.google.com</li>
+<li> 09:49 drive.google.com</li>
+<li> 09:48 www.queenslibrary.org</li>
+<li> 09:40 gla-my.sharepoint.com</li>
+<li> 09:39 calendar.google.com</li>
+<li> 09:34 www.tax.service.gov.uk</li>
+<li class='same'> 09:32 www.tax.service.gov.uk</li>
+<li class='same'> 09:31 www.tax.service.gov.uk</li>
+<li class='same'> 09:30 www.tax.service.gov.uk</li>
+<li> 09:30 web.whatsapp.com</li>
+<li> 09:30 www.whatsapp.com</li>
+<li> 09:30 www.tax.service.gov.uk</li>
+<li class='same'> 09:29 www.tax.service.gov.uk</li>
+<li> 09:29 www.access.service.gov.uk</li>
+<li> 09:29 www.tax.service.gov.uk</li>
+<li class='same'> 09:28 www.tax.service.gov.uk</li>
+<li> 09:28 www.gov.uk</li>
+<li> 09:28 docs.google.com</li>
+<li> 09:27 calendar.google.com</li>
+<li> 09:22 intranet.royalholloway.ac.uk</li>
+<li> 09:05 login.microsoftonline.com</li>
+<li> 08:59 chatgpt.com</li>
+<li> 08:59 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:06 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 08:06 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 08:06 login.microsoftonline.com</li>
+<li> 08:06 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 08:06 experience.elluciancloud.ie</li>
+<li> 08:06 login.microsoftonline.com</li>
+<li> 08:06 experience.elluciancloud.ie</li>
+</ul>
 
 <br>
 
