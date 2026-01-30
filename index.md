@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (4444)</li>
 <li>mail.google.com (4392)</li>
-<li>outlook.office.com (4115)</li>
+<li>outlook.office.com (4114)</li>
 <li>www.google.com (4097)</li>
 <li>outlook.office365.com (4050)</li>
 <li>duckduckgo.com (2785)</li>
@@ -79,12 +79,12 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1307)</li>
+<li>login.microsoftonline.com (1303)</li>
 <li>www.amazon.co.uk (1154)</li>
 <li>calendar.google.com (1130)</li>
 <li>moodle.royalholloway.ac.uk (1074)</li>
 <li>herts.instructure.com (855)</li>
-<li>rhul-my.sharepoint.com (848)</li>
+<li>rhul-my.sharepoint.com (846)</li>
 <li>web.whatsapp.com (754)</li>
 <li>chat.openai.com (737)</li>
 <li>forms.office.com (733)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 03:37 newsthump.com</li>
+<ul><li> 03:38 newsthump.com</li>
+<li class='same'> 03:37 newsthump.com</li>
 <li> 03:37 www.google.com</li>
 <li> 03:37 newsthump.com</li>
 <li> 03:35 www.thedailymash.co.uk</li>
@@ -16621,7 +16622,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:49 forms.office.com</li>
 <li> 13:49 outlook.office365.com</li>
-<li> 13:49 login.microsoftonline.com</li>
 </ul>
 
 <br>
@@ -16654,8 +16654,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:06 duckduckgo.com</li>
 <li class='same'> 12:05 duckduckgo.com</li>
 <li> 12:03 outlook.office.com</li>
-<li> 12:03 login.microsoftonline.com</li>
-<li> 12:03 outlook.office.com</li>
 <li> 12:03 outlook.office365.com</li>
 <li class='same'> 12:02 outlook.office365.com</li>
 <li class='same'> 11:59 outlook.office365.com</li>
@@ -16687,15 +16685,11 @@ With number of accesses/minutes in parentheses
 <li> 10:21 outlook.office365.com</li>
 <li> 10:20 www.google.com</li>
 <li> 10:20 duckduckgo.com</li>
-<li> 10:16 rhul-my.sharepoint.com</li>
-<li> 10:16 login.microsoftonline.com</li>
-<li> 10:16 rhul-my.sharepoint.com</li>
 <li> 10:16 forms.office.com</li>
 <li class='same'> 10:15 forms.office.com</li>
 <li> 10:15 login.microsoftonline.com</li>
 <li> 10:15 forms.office.com</li>
 <li> 10:15 outlook.office365.com</li>
-<li> 10:15 login.microsoftonline.com</li>
 <li> 10:12 tvtropes.org</li>
 <li> 10:11 duckduckgo.com</li>
 <li> 10:10 en.wikiquote.org</li>
