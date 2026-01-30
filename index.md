@@ -72,22 +72,22 @@ With number of accesses/minutes in parentheses
 <li>mail.google.com (4392)</li>
 <li>outlook.office.com (4114)</li>
 <li>www.google.com (4097)</li>
-<li>outlook.office365.com (4050)</li>
-<li>duckduckgo.com (2785)</li>
+<li>outlook.office365.com (4055)</li>
+<li>duckduckgo.com (2786)</li>
 <li>docs.google.com (2773)</li>
-<li>chatgpt.com (1813)</li>
+<li>chatgpt.com (1815)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1303)</li>
+<li>login.microsoftonline.com (1307)</li>
 <li>www.amazon.co.uk (1154)</li>
 <li>calendar.google.com (1130)</li>
-<li>moodle.royalholloway.ac.uk (1074)</li>
+<li>moodle.royalholloway.ac.uk (1078)</li>
 <li>herts.instructure.com (855)</li>
-<li>rhul-my.sharepoint.com (846)</li>
+<li>rhul-my.sharepoint.com (850)</li>
 <li>web.whatsapp.com (754)</li>
-<li>chat.openai.com (737)</li>
-<li>forms.office.com (733)</li>
+<li>chat.openai.com (738)</li>
+<li>forms.office.com (736)</li>
 <li><a href="https://www.theguardian.com/uk">EU proposals for free extra cabin bags on planes ‘lunatic idea’, says easyJet | easyJet | The Guardian</a> (718)</li>
 <li>gmail.com (702)</li>
 <li>www.theguardian.com (685)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (573)</li>
 <li>github.com (571)</li>
 <li>drive.google.com (448)</li>
-<li>rhul.sharepoint.com (426)</li>
+<li>rhul.sharepoint.com (427)</li>
 <li>fritz.box (418)</li>
 <li><a href="https://www.theguardian.com/">Videos show altercation between Alex Pretti and federal officers 11 days before he was killed | US news | The Guardian</a> (396)</li>
 
@@ -105,6 +105,37 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 30/01/26</H3>
+
+<br>
+
+<ul><li> 09:54 forms.office.com</li>
+<li> 09:53 easychair.org</li>
+<li> 09:53 chatgpt.com</li>
+<li class='same'> 09:52 chatgpt.com</li>
+<li> 09:52 chat.openai.com</li>
+<li> 09:51 easychair.org</li>
+<li> 09:51 forms.office.com</li>
+<li> 09:51 login.microsoftonline.com</li>
+<li> 09:51 forms.office.com</li>
+<li> 09:51 outlook.office365.com</li>
+<li class='same'> 09:50 outlook.office365.com</li>
+<li> 09:46 rhul-my.sharepoint.com</li>
+<li class='same'> 09:40 rhul-my.sharepoint.com</li>
+<li class='same'> 09:38 rhul-my.sharepoint.com</li>
+<li class='same'> 09:37 rhul-my.sharepoint.com</li>
+<li> 09:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:36 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:34 moodle.royalholloway.ac.uk</li>
+<li> 09:34 login.microsoftonline.com</li>
+<li> 09:34 moodle.royalholloway.ac.uk</li>
+<li> 09:30 duckduckgo.com</li>
+<li> 09:23 rhul.sharepoint.com</li>
+<li> 09:23 login.microsoftonline.com</li>
+<li> 09:16 outlook.office365.com</li>
+<li class='same'> 09:15 outlook.office365.com</li>
+<li> 09:15 login.microsoftonline.com</li>
+<li> 09:15 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -86364,7 +86395,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:27 cryptpad.fr</li>
-<li> 17:00 easychair.org</li>
+<li> 17:01 easychair.org</li>
+<li class='same'> 17:00 easychair.org</li>
 <li class='same'> 16:59 easychair.org</li>
 </ul>
 
