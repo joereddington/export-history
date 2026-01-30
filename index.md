@@ -73,17 +73,17 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (4114)</li>
 <li>www.google.com (4098)</li>
 <li>outlook.office365.com (4064)</li>
-<li>duckduckgo.com (2786)</li>
+<li>duckduckgo.com (2789)</li>
 <li>docs.google.com (2774)</li>
-<li>chatgpt.com (1829)</li>
+<li>chatgpt.com (1832)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
 <li>login.microsoftonline.com (1312)</li>
 <li>www.amazon.co.uk (1155)</li>
-<li>calendar.google.com (1134)</li>
-<li>moodle.royalholloway.ac.uk (1079)</li>
-<li>herts.instructure.com (863)</li>
+<li>calendar.google.com (1135)</li>
+<li>moodle.royalholloway.ac.uk (1080)</li>
+<li>herts.instructure.com (865)</li>
 <li>rhul-my.sharepoint.com (852)</li>
 <li>web.whatsapp.com (754)</li>
 <li>forms.office.com (744)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:52 chatgpt.com</li>
+<ul><li> 14:58 herts.instructure.com</li>
+<li class='same'> 14:54 herts.instructure.com</li>
+<li> 14:37 www.royalholloway.ac.uk</li>
+<li> 14:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 14:34 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 14:26 127.0.0.1:4000</li>
+<li class='same'> 14:25 127.0.0.1:4000</li>
+<li> 14:14 chatgpt.com</li>
+<li> 14:13 www.explainxkcd.com</li>
+<li> 14:13 duckduckgo.com</li>
+<li> 14:12 <a href="https://xkcd.com/149/">xkcd: Sandwich</a></li>
+<li> 14:12 duckduckgo.com</li>
+<li> 14:11 chatgpt.com</li>
+<li> 14:09 moodle.royalholloway.ac.uk</li>
+<li> 14:08 calendar.google.com</li>
+<li> 14:06 chatgpt.com</li>
+<li> 14:03 phoenixnap.com</li>
+<li> 14:03 duckduckgo.com</li>
+<li> 13:52 chatgpt.com</li>
 <li class='same'> 13:51 chatgpt.com</li>
 <li class='same'> 13:50 chatgpt.com</li>
 <li class='same'> 13:48 chatgpt.com</li>
