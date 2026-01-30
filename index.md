@@ -71,23 +71,23 @@ With number of accesses/minutes in parentheses
 <ol><li>www.reddit.com (4444)</li>
 <li>mail.google.com (4397)</li>
 <li>outlook.office.com (4114)</li>
-<li>www.google.com (4097)</li>
-<li>outlook.office365.com (4059)</li>
+<li>www.google.com (4098)</li>
+<li>outlook.office365.com (4064)</li>
 <li>duckduckgo.com (2786)</li>
 <li>docs.google.com (2774)</li>
-<li>chatgpt.com (1821)</li>
+<li>chatgpt.com (1829)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
 <li>login.microsoftonline.com (1312)</li>
 <li>www.amazon.co.uk (1155)</li>
-<li>calendar.google.com (1133)</li>
-<li>moodle.royalholloway.ac.uk (1078)</li>
-<li>herts.instructure.com (862)</li>
-<li>rhul-my.sharepoint.com (850)</li>
+<li>calendar.google.com (1134)</li>
+<li>moodle.royalholloway.ac.uk (1079)</li>
+<li>herts.instructure.com (863)</li>
+<li>rhul-my.sharepoint.com (852)</li>
 <li>web.whatsapp.com (754)</li>
 <li>forms.office.com (744)</li>
-<li>chat.openai.com (739)</li>
+<li>chat.openai.com (740)</li>
 <li><a href="https://www.theguardian.com/uk">The bathroom door scandal: why hotels are putting toilets in glass boxes | Hotels | The Guardian</a> (719)</li>
 <li>gmail.com (704)</li>
 <li>www.theguardian.com (685)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:54 calendar.google.com</li>
+<ul><li> 13:52 chatgpt.com</li>
+<li class='same'> 13:51 chatgpt.com</li>
+<li class='same'> 13:50 chatgpt.com</li>
+<li class='same'> 13:48 chatgpt.com</li>
+<li class='same'> 13:45 chatgpt.com</li>
+<li class='same'> 13:44 chatgpt.com</li>
+<li> 13:24 outlook.office365.com</li>
+<li class='same'> 13:23 outlook.office365.com</li>
+<li> 13:20 moodle.royalholloway.ac.uk</li>
+<li> 13:20 rhul-my.sharepoint.com</li>
+<li class='same'> 13:19 rhul-my.sharepoint.com</li>
+<li> 13:18 outlook.office365.com</li>
+<li> 13:17 calendar.google.com</li>
+<li> 13:17 outlook.office365.com</li>
+<li> 13:17 chatgpt.com</li>
+<li class='same'> 13:16 chatgpt.com</li>
+<li> 13:16 chat.openai.com</li>
+<li> 13:16 outlook.office365.com</li>
+<li> 13:06 herts.instructure.com</li>
+<li> 13:05 www.cineworld.co.uk</li>
+<li> 13:05 www.google.com</li>
+<li> 12:54 calendar.google.com</li>
 <li class='same'> 12:51 calendar.google.com</li>
 <li> 12:50 www.oneadvanced.com</li>
 <li> 12:49 <a href="https://en.wikipedia.org/w/index.php?title=Advanced_Computer_Software&curid=58478886&diff=1335619705&oldid=1334880902">Advanced Computer Software: Difference between revisions - Wikipedia</a></li>
