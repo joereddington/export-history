@@ -69,24 +69,24 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (4444)</li>
-<li>mail.google.com (4395)</li>
+<li>mail.google.com (4397)</li>
 <li>outlook.office.com (4114)</li>
 <li>www.google.com (4097)</li>
 <li>outlook.office365.com (4059)</li>
 <li>duckduckgo.com (2786)</li>
 <li>docs.google.com (2774)</li>
-<li>chatgpt.com (1817)</li>
+<li>chatgpt.com (1821)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
-<li>login.microsoftonline.com (1307)</li>
+<li>login.microsoftonline.com (1311)</li>
 <li>www.amazon.co.uk (1155)</li>
 <li>calendar.google.com (1131)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
-<li>herts.instructure.com (855)</li>
+<li>herts.instructure.com (859)</li>
 <li>rhul-my.sharepoint.com (850)</li>
 <li>web.whatsapp.com (754)</li>
-<li>forms.office.com (739)</li>
+<li>forms.office.com (744)</li>
 <li>chat.openai.com (739)</li>
 <li><a href="https://www.theguardian.com/uk">EU proposals for free extra cabin bags on planes ‘lunatic idea’, says easyJet | easyJet | The Guardian</a> (718)</li>
 <li>gmail.com (704)</li>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:55 chatgpt.com</li>
+<ul><li> 11:44 herts.instructure.com</li>
+<li class='same'> 11:41 herts.instructure.com</li>
+<li class='same'> 11:40 herts.instructure.com</li>
+<li> 11:40 www.qiq.support</li>
+<li class='same'> 11:39 www.qiq.support</li>
+<li class='same'> 11:38 www.qiq.support</li>
+<li> 11:38 us-east-1.console.aws.amazon.com</li>
+<li> 11:37 www.qiq.support</li>
+<li class='same'> 11:35 www.qiq.support</li>
+<li class='same'> 11:34 www.qiq.support</li>
+<li> 11:33 forms.office.com</li>
+<li> 11:32 login.microsoftonline.com</li>
+<li> 11:32 forms.office.com</li>
+<li> 11:32 www.microsoft.com</li>
+<li> 11:32 login.microsoftonline.com</li>
+<li> 11:32 forms.office.com</li>
+<li> 11:31 herts.instructure.com</li>
+<li> 11:31 login.microsoftonline.com</li>
+<li> 11:31 forms.office.com</li>
+<li> 11:31 login.microsoftonline.com</li>
+<li> 11:31 forms.office.com</li>
+<li> 11:27 www.novareddington.com</li>
+<li> 11:27 mail.google.com</li>
+<li> 11:23 ajet.org.au</li>
+<li> 11:23 chatgpt.com</li>
+<li class='same'> 11:22 chatgpt.com</li>
+<li> 11:20 www.researchgate.net</li>
+<li> 11:20 bera-journals.onlinelibrary.wiley.com</li>
+<li> 11:18 chatgpt.com</li>
+<li class='same'> 11:17 chatgpt.com</li>
+<li> 11:14 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 11:13 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 11:10 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 11:09 us-east-1.console.aws.amazon.com</li>
+<li> 11:09 mail.google.com</li>
+<li> 11:09 us-east-1.console.aws.amazon.com</li>
+<li> 10:55 chatgpt.com</li>
 <li> 10:55 calendar.google.com</li>
 <li> 10:54 www.whatsapp.com</li>
 <li> 10:48 mail.google.com</li>
@@ -87463,7 +87499,8 @@ With number of accesses/minutes in parentheses
 <li> 08:32 www.nestpensions.org.uk</li>
 <li class='same'> 08:31 www.nestpensions.org.uk</li>
 <li> 08:16 mail.google.com</li>
-<li> 08:03 www.qiq.support</li>
+<li> 08:04 www.qiq.support</li>
+<li class='same'> 08:03 www.qiq.support</li>
 <li> 08:03 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
 </ul>
 
@@ -88085,6 +88122,7 @@ With number of accesses/minutes in parentheses
 <li> 11:45 online.unity.co.uk</li>
 <li> 11:44 www.unity-online.co.uk</li>
 <li> 11:42 outlook.office.com</li>
+<li> 11:19 www.qiq.support</li>
 <li> 11:18 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li> 10:54 teams.microsoft.com</li>
 <li> 10:53 www.qiq.support</li>
