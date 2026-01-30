@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.reddit.com (4444)</li>
-<li>mail.google.com (4392)</li>
+<li>mail.google.com (4395)</li>
 <li>outlook.office.com (4114)</li>
 <li>www.google.com (4097)</li>
-<li>outlook.office365.com (4055)</li>
+<li>outlook.office365.com (4059)</li>
 <li>duckduckgo.com (2786)</li>
-<li>docs.google.com (2773)</li>
-<li>chatgpt.com (1815)</li>
+<li>docs.google.com (2774)</li>
+<li>chatgpt.com (1817)</li>
 <li>bsky.app (1581)</li>
 <li>www.linkedin.com (1578)</li>
 <li>www.facebook.com (1493)</li>
 <li>login.microsoftonline.com (1307)</li>
-<li>www.amazon.co.uk (1154)</li>
-<li>calendar.google.com (1130)</li>
+<li>www.amazon.co.uk (1155)</li>
+<li>calendar.google.com (1131)</li>
 <li>moodle.royalholloway.ac.uk (1078)</li>
 <li>herts.instructure.com (855)</li>
 <li>rhul-my.sharepoint.com (850)</li>
 <li>web.whatsapp.com (754)</li>
-<li>chat.openai.com (738)</li>
-<li>forms.office.com (736)</li>
+<li>forms.office.com (739)</li>
+<li>chat.openai.com (739)</li>
 <li><a href="https://www.theguardian.com/uk">EU proposals for free extra cabin bags on planes ‘lunatic idea’, says easyJet | easyJet | The Guardian</a> (718)</li>
-<li>gmail.com (702)</li>
+<li>gmail.com (704)</li>
 <li>www.theguardian.com (685)</li>
 <li>tvtropes.org (645)</li>
-<li>feedly.com (573)</li>
+<li>feedly.com (575)</li>
 <li>github.com (571)</li>
 <li>drive.google.com (448)</li>
 <li>rhul.sharepoint.com (427)</li>
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:54 forms.office.com</li>
+<ul><li> 10:55 chatgpt.com</li>
+<li> 10:55 calendar.google.com</li>
+<li> 10:54 www.whatsapp.com</li>
+<li> 10:48 mail.google.com</li>
+<li> 10:48 accounts.google.com</li>
+<li class='same'> 10:47 accounts.google.com</li>
+<li> 10:47 mail.google.com</li>
+<li> 10:47 accounts.google.com</li>
+<li> 10:47 gmail.com</li>
+<li> 10:47 chatgpt.com</li>
+<li> 10:47 chat.openai.com</li>
+<li> 10:45 www.paypal.com</li>
+<li class='same'> 10:44 www.paypal.com</li>
+<li> 10:44 checkout.steampowered.com</li>
+<li> 10:44 store.steampowered.com</li>
+<li class='same'> 10:43 store.steampowered.com</li>
+<li> 10:43 mail.google.com</li>
+<li> 10:43 gmail.com</li>
+<li> 10:43 store.steampowered.com</li>
+<li> 10:42 outlook.office365.com</li>
+<li class='same'> 10:41 outlook.office365.com</li>
+<li> 10:29 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 10:28 us-east-1.console.aws.amazon.com</li>
+<li> 10:28 paymentsverification.aws.amazon.com</li>
+<li> 10:26 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 10:25 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 10:24 us-east-1.console.aws.amazon.com</li>
+<li> 10:24 eu-west-2.console.aws.amazon.com</li>
+<li> 10:20 signin.aws.amazon.com</li>
+<li> 10:20 eu-west-2.signin.aws.amazon.com</li>
+<li> 10:20 eu-west-2.console.aws.amazon.com</li>
+<li> 10:20 forms.office.com</li>
+<li class='same'> 10:19 forms.office.com</li>
+<li> 10:18 www.insidehighered.com</li>
+<li> 10:17 feedly.com</li>
+<li> 10:16 outlook.office365.com</li>
+<li class='same'> 10:11 outlook.office365.com</li>
+<li> 10:05 feedly.com</li>
+<li> 10:01 docs.google.com</li>
+<li> 10:01 www.amazon.co.uk</li>
+<li> 10:00 easychair.org</li>
+<li> 09:59 forms.office.com</li>
+<li class='same'> 09:54 forms.office.com</li>
 <li> 09:53 easychair.org</li>
 <li> 09:53 chatgpt.com</li>
 <li class='same'> 09:52 chatgpt.com</li>
