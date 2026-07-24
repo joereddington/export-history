@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5410)</li>
-<li>mail.google.com (5270)</li>
+<ol><li>www.google.com (5411)</li>
+<li>mail.google.com (5274)</li>
 <li>www.reddit.com (5105)</li>
 <li>outlook.office365.com (4787)</li>
 <li>outlook.office.com (3988)</li>
 <li>duckduckgo.com (3746)</li>
 <li>docs.google.com (3282)</li>
-<li>chatgpt.com (2630)</li>
+<li>chatgpt.com (2631)</li>
 <li>www.linkedin.com (2344)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1867)</li>
@@ -83,13 +83,13 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1522)</li>
 <li>login.microsoftonline.com (1301)</li>
 <li>www.amazon.co.uk (1296)</li>
-<li>chat.openai.com (1276)</li>
+<li>chat.openai.com (1277)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1165)</li>
-<li>gmail.com (1126)</li>
+<li>gmail.com (1127)</li>
 <li>mail.rhul.ac.uk (1045)</li>
 <li>rhul-my.sharepoint.com (882)</li>
-<li>tvtropes.org (842)</li>
+<li>tvtropes.org (859)</li>
 <li>forms.office.com (808)</li>
 <li>feedly.com (775)</li>
 <li>www.theguardian.com (619)</li>
@@ -108,8 +108,46 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:29 fast.com</li>
+<ul><li> 17:40 mail.google.com</li>
+<li class='same'> 17:34 mail.google.com</li>
+<li> 17:34 mail-attachment.googleusercontent.com</li>
+<li> 17:34 mail.google.com</li>
+<li> 17:34 chatgpt.com</li>
+<li> 17:34 chat.openai.com</li>
+<li> 17:34 mail.google.com</li>
+<li> 17:34 gmail.com</li>
+<li> 17:29 fast.com</li>
 <li> 17:28 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:56 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:14 tvtropes.org</li>
+<li class='same'> 13:13 tvtropes.org</li>
+<li class='same'> 13:12 tvtropes.org</li>
+<li class='same'> 13:11 tvtropes.org</li>
+<li class='same'> 13:10 tvtropes.org</li>
+<li> 13:10 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:48 tvtropes.org</li>
+<li class='same'> 10:47 tvtropes.org</li>
+<li class='same'> 10:46 tvtropes.org</li>
+<li class='same'> 10:35 tvtropes.org</li>
+<li class='same'> 10:28 tvtropes.org</li>
+<li class='same'> 10:25 tvtropes.org</li>
+<li class='same'> 10:21 tvtropes.org</li>
+<li class='same'> 10:15 tvtropes.org</li>
+<li class='same'> 09:46 tvtropes.org</li>
+<li class='same'> 09:40 tvtropes.org</li>
+<li class='same'> 09:38 tvtropes.org</li>
 </ul>
 
 <br>
