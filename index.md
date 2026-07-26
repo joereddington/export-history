@@ -69,13 +69,13 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5420)</li>
-<li>mail.google.com (5277)</li>
+<li>mail.google.com (5283)</li>
 <li>www.reddit.com (5108)</li>
 <li>outlook.office365.com (4787)</li>
 <li>outlook.office.com (3988)</li>
-<li>duckduckgo.com (3746)</li>
-<li>docs.google.com (3282)</li>
-<li>chatgpt.com (2632)</li>
+<li>duckduckgo.com (3747)</li>
+<li>docs.google.com (3283)</li>
+<li>chatgpt.com (2634)</li>
 <li>www.linkedin.com (2344)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1867)</li>
@@ -83,10 +83,10 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1521)</li>
 <li>login.microsoftonline.com (1299)</li>
 <li>www.amazon.co.uk (1297)</li>
-<li>chat.openai.com (1278)</li>
+<li>chat.openai.com (1279)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1165)</li>
-<li>gmail.com (1128)</li>
+<li>gmail.com (1130)</li>
 <li>mail.rhul.ac.uk (1045)</li>
 <li>rhul-my.sharepoint.com (882)</li>
 <li>tvtropes.org (873)</li>
@@ -105,6 +105,32 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Sunday, 26/07/26</H3>
+
+<br>
+
+<ul><li> 11:59 duckduckgo.com</li>
+<li> 11:57 mail.google.com</li>
+<li> 11:39 127.0.0.1:4000</li>
+<li> 11:38 chatgpt.com</li>
+<li> 11:37 mail-attachment.googleusercontent.com</li>
+<li> 11:36 chatgpt.com</li>
+<li> 11:36 chat.openai.com</li>
+<li> 11:36 mail.google.com</li>
+<li> 11:36 gmail.com</li>
+<li> 11:36 mail.google.com</li>
+<li class='same'> 11:35 mail.google.com</li>
+<li class='same'> 11:34 mail.google.com</li>
+<li> 11:34 accounts.google.com</li>
+<li> 11:34 mail.google.com</li>
+<li> 11:34 accounts.google.com</li>
+<li> 11:34 gmail.com</li>
+<li> 11:33 qbo.intuit.com</li>
+<li class='same'> 11:32 qbo.intuit.com</li>
+<li> 11:32 accounts.intuit.com</li>
+<li> 11:32 app.qbo.intuit.com</li>
+<li> 11:32 c14.qbo.intuit.com</li>
+<li> 11:32 docs.google.com</li>
+</ul>
 
 <br>
 
