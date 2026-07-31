@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5428)</li>
 <li>mail.google.com (5295)</li>
-<li>www.reddit.com (5120)</li>
-<li>outlook.office365.com (4777)</li>
+<li>www.reddit.com (5121)</li>
+<li>outlook.office365.com (4774)</li>
 <li>outlook.office.com (3988)</li>
-<li>duckduckgo.com (3747)</li>
+<li>duckduckgo.com (3748)</li>
 <li>docs.google.com (3288)</li>
 <li>chatgpt.com (2636)</li>
-<li>www.linkedin.com (2348)</li>
+<li>www.linkedin.com (2349)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1867)</li>
 <li>moodle.royalholloway.ac.uk (1833)</li>
@@ -87,8 +87,8 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1165)</li>
 <li>gmail.com (1130)</li>
-<li>mail.rhul.ac.uk (1043)</li>
-<li>rhul-my.sharepoint.com (880)</li>
+<li>mail.rhul.ac.uk (1042)</li>
+<li>rhul-my.sharepoint.com (879)</li>
 <li>tvtropes.org (873)</li>
 <li>forms.office.com (807)</li>
 <li>feedly.com (776)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:57 www.reddit.com</li>
+<ul><li> 10:22 www.linkedin.com</li>
+<li> 10:20 <a href="https://en.wikipedia.org/wiki/Brad_Pitt#Face_blindness">Brad Pitt - Wikipedia</a></li>
+<li> 10:18 <a href="https://en.wikipedia.org/wiki/Doug_Pitt">Doug Pitt - Wikipedia</a></li>
+<li> 10:18 <a href="https://en.wikipedia.org/wiki/Brad_Pitt">Brad Pitt - Wikipedia</a></li>
+<li> 10:18 duckduckgo.com</li>
+<li> 10:17 theonion.com</li>
+<li> 10:17 reductress.com</li>
+<li> 10:16 newsthump.com</li>
+<li> 10:16 www.thedailymash.co.uk</li>
+<li> 10:09 <a href="https://www.theguardian.com/football/2026/jul/30/fifa-sales-pitch-revealed-more-tournaments-debt-womens-game-omitted">Fury as UK’s only all-female chess team promoted – then told they must recruit a man | Chess | The Guardian</a></li>
+<li> 10:07 <a href="https://www.theguardian.com/sport/2026/jul/31/uk-female-chess-team-league-rule-men-join-sport">Revealed: George Cottrell transferred $2m to his mother days before her donations to Reform UK | Reform UK | The Guardian</a></li>
+<li> 10:01 www.thedailymash.co.uk</li>
+<li> 10:01 mail.google.com</li>
+<li> 09:59 www.reddit.com</li>
+<li class='same'> 09:57 www.reddit.com</li>
 <li class='same'> 09:55 www.reddit.com</li>
 <li class='same'> 09:54 www.reddit.com</li>
 <li class='same'> 09:53 www.reddit.com</li>
@@ -15440,11 +15454,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:51 auth.openai.com</li>
 <li> 14:51 chatgpt.com</li>
 <li> 14:51 chat.openai.com</li>
-<li> 14:44 gla-my.sharepoint.com</li>
 <li> 14:44 www.google.com</li>
 <li> 14:44 gla-my.sharepoint.com</li>
-<li> 14:44 mail.google.com</li>
-<li> 14:44 accounts.google.com</li>
 <li> 14:44 mail.google.com</li>
 <li> 14:44 accounts.google.com</li>
 <li> 14:44 gmail.com</li>
@@ -15495,7 +15506,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:24 www.google.co.uk</li>
 <li class='same'> 11:22 www.google.co.uk</li>
 <li> 11:22 books.google.co.uk</li>
-<li> 11:22 books.google.com</li>
 <li> 11:22 www.google.com</li>
 <li> 11:22 books.google.com</li>
 <li> 11:22 duckduckgo.com</li>
@@ -123004,19 +123014,4 @@ With number of accesses/minutes in parentheses
 <li> 14:16 calendar.google.com</li>
 <li class='same'> 14:15 calendar.google.com</li>
 <li> 14:15 outlook.office365.com</li>
-<li> 14:01 dashboards.rhul.ac.uk</li>
-<li class='same'> 14:00 dashboards.rhul.ac.uk</li>
-<li> 14:00 outlook.office365.com</li>
-<li class='same'> 13:58 outlook.office365.com</li>
-<li> 13:58 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 13:58 experience.elluciancloud.ie</li>
-<li> 13:57 outlook.office365.com</li>
-<li> 13:57 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 13:20 rhul-my.sharepoint.com</li>
-<li> 13:20 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 13:20 eis-prod.ec.royalholloway.ac.uk</li>
 </ul>
