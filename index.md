@@ -70,20 +70,20 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5428)</li>
 <li>mail.google.com (5295)</li>
-<li>www.reddit.com (5121)</li>
+<li>www.reddit.com (5123)</li>
 <li>outlook.office365.com (4774)</li>
 <li>outlook.office.com (3988)</li>
-<li>duckduckgo.com (3748)</li>
+<li>duckduckgo.com (3749)</li>
 <li>docs.google.com (3288)</li>
-<li>chatgpt.com (2636)</li>
+<li>chatgpt.com (2637)</li>
 <li>www.linkedin.com (2349)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1867)</li>
 <li>moodle.royalholloway.ac.uk (1833)</li>
 <li>calendar.google.com (1517)</li>
-<li>www.amazon.co.uk (1302)</li>
+<li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1297)</li>
-<li>chat.openai.com (1280)</li>
+<li>chat.openai.com (1281)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1165)</li>
 <li>gmail.com (1130)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:22 www.linkedin.com</li>
+<ul><li> 10:53 chatgpt.com</li>
+<li> 10:53 chat.openai.com</li>
+<li> 10:51 www.amazon.co.uk</li>
+<li class='same'> 10:50 www.amazon.co.uk</li>
+<li> 10:47 www.reddit.com</li>
+<li class='same'> 10:46 www.reddit.com</li>
+<li> 10:46 www.amazon.co.uk</li>
+<li class='same'> 10:45 www.amazon.co.uk</li>
+<li> 10:43 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 10:43 duckduckgo.com</li>
+<li> 10:22 www.linkedin.com</li>
 <li> 10:20 <a href="https://en.wikipedia.org/wiki/Brad_Pitt#Face_blindness">Brad Pitt - Wikipedia</a></li>
 <li> 10:18 <a href="https://en.wikipedia.org/wiki/Doug_Pitt">Doug Pitt - Wikipedia</a></li>
 <li> 10:18 <a href="https://en.wikipedia.org/wiki/Brad_Pitt">Brad Pitt - Wikipedia</a></li>
