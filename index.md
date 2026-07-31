@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5430)</li>
-<li>mail.google.com (5288)</li>
-<li>www.reddit.com (5111)</li>
-<li>outlook.office365.com (4787)</li>
+<ol><li>www.google.com (5428)</li>
+<li>mail.google.com (5295)</li>
+<li>www.reddit.com (5120)</li>
+<li>outlook.office365.com (4777)</li>
 <li>outlook.office.com (3988)</li>
 <li>duckduckgo.com (3747)</li>
 <li>docs.google.com (3288)</li>
-<li>chatgpt.com (2634)</li>
-<li>www.linkedin.com (2344)</li>
+<li>chatgpt.com (2636)</li>
+<li>www.linkedin.com (2348)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1867)</li>
-<li>moodle.royalholloway.ac.uk (1834)</li>
-<li>calendar.google.com (1521)</li>
-<li>www.amazon.co.uk (1304)</li>
-<li>login.microsoftonline.com (1299)</li>
-<li>chat.openai.com (1279)</li>
+<li>moodle.royalholloway.ac.uk (1833)</li>
+<li>calendar.google.com (1517)</li>
+<li>www.amazon.co.uk (1302)</li>
+<li>login.microsoftonline.com (1297)</li>
+<li>chat.openai.com (1280)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1165)</li>
 <li>gmail.com (1130)</li>
-<li>mail.rhul.ac.uk (1045)</li>
-<li>rhul-my.sharepoint.com (882)</li>
+<li>mail.rhul.ac.uk (1043)</li>
+<li>rhul-my.sharepoint.com (880)</li>
 <li>tvtropes.org (873)</li>
-<li>forms.office.com (808)</li>
+<li>forms.office.com (807)</li>
 <li>feedly.com (776)</li>
 <li>www.theguardian.com (619)</li>
 <li>fritz.box (551)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:29 qbo.intuit.com</li>
+<ul><li> 09:57 www.reddit.com</li>
+<li class='same'> 09:55 www.reddit.com</li>
+<li class='same'> 09:54 www.reddit.com</li>
+<li class='same'> 09:53 www.reddit.com</li>
+<li class='same'> 09:51 www.reddit.com</li>
+<li class='same'> 09:50 www.reddit.com</li>
+<li class='same'> 09:49 www.reddit.com</li>
+<li class='same'> 09:46 www.reddit.com</li>
+<li class='same'> 09:45 www.reddit.com</li>
+<li> 09:44 mail.google.com</li>
+<li> 09:44 www.linkedin.com</li>
+<li class='same'> 09:43 www.linkedin.com</li>
+<li> 09:43 mail.google.com</li>
+<li class='same'> 09:42 mail.google.com</li>
+<li> 09:41 qbo.intuit.com</li>
+<li> 09:41 www.linkedin.com</li>
+<li> 09:40 qbo.intuit.com</li>
+<li> 09:40 www.linkedin.com</li>
+<li> 09:39 chatgpt.com</li>
+<li> 09:39 adblockplus.org</li>
+<li> 09:39 chatgpt.com</li>
+<li> 09:39 chat.openai.com</li>
+<li> 09:38 mail.google.com</li>
+<li class='same'> 09:37 mail.google.com</li>
+<li> 09:36 <a href="https://www.theguardian.com/environment/2026/jul/31/england-hosepipe-ban-drought-private-schools-golf-courses-green-grass">‘It’s alright for them’: private schools and golf courses stay green despite England’s hosepipe bans | Drought | The Guardian</a></li>
+<li> 09:36 <a href="https://www.theguardian.com/politics/2026/jul/30/diane-abbott-and-joani-reid-readmitted-as-labour-mps">Diane Abbott and Joani Reid readmitted as Labour MPs | Labour | The Guardian</a></li>
+<li> 09:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:35 <a href="https://www.theguardian.com/">Meet the man whose groundbreaking book is being devoured by the left | Politics | The Guardian</a></li>
+<li> 09:35 mail.google.com</li>
+<li> 09:33 qbo.intuit.com</li>
+<li class='same'> 09:32 qbo.intuit.com</li>
+<li class='same'> 09:31 qbo.intuit.com</li>
+<li> 09:30 mail.google.com</li>
+<li> 09:29 qbo.intuit.com</li>
 <li> 09:28 docs.google.com</li>
 <li> 09:28 qbo.intuit.com</li>
 <li> 09:26 docs.google.com</li>
@@ -15471,13 +15504,8 @@ With number of accesses/minutes in parentheses
 <li> 11:21 librarysearch.royalholloway.ac.uk</li>
 <li> 11:21 www.scopus.com</li>
 <li> 11:21 auth.elsevier.com</li>
-<li> 11:21 login.openathens.net</li>
-<li> 11:21 auth.elsevier.com</li>
-<li> 11:21 www.scopus.com</li>
 <li> 11:21 id.elsevier.com</li>
 <li> 11:20 www.scopus.com</li>
-<li> 11:20 auth.elsevier.com</li>
-<li> 11:20 login.openathens.net</li>
 <li> 11:20 auth.elsevier.com</li>
 <li> 11:20 www.scopus.com</li>
 <li> 11:20 id.elsevier.com</li>
@@ -15487,19 +15515,15 @@ With number of accesses/minutes in parentheses
 <li> 11:20 pure.psu.edu</li>
 <li> 11:20 duckduckgo.com</li>
 <li> 11:19 www.jstor.org</li>
+<li> 11:19 login.openathens.net</li>
 <li> 11:19 shibbolethsp.jstor.org</li>
 <li> 11:19 login.openathens.net</li>
 <li> 11:19 login.microsoftonline.com</li>
-<li> 11:19 shibbolethsp.jstor.org</li>
-<li> 11:19 login.openathens.net</li>
-<li> 11:19 login.microsoftonline.com</li>
-<li> 11:19 shibbolethsp.jstor.org</li>
 <li> 11:18 www.jstor.org</li>
 <li class='same'> 11:09 www.jstor.org</li>
 <li> 11:09 www.sciencedirect.com</li>
 <li> 11:09 linkinghub.elsevier.com</li>
-<li> 11:09 doi.org</li>
-<li class='same'> 11:08 doi.org</li>
+<li> 11:08 doi.org</li>
 <li> 11:08 wwnorton.com</li>
 <li> 11:08 onlinelibrary.wiley.com</li>
 <li> 11:08 doi.org</li>
@@ -15520,14 +15544,10 @@ With number of accesses/minutes in parentheses
 <li> 10:22 wonkhe.com</li>
 <li> 10:22 login.microsoftonline.com</li>
 <li> 10:22 rhul.sharepoint.com</li>
-<li> 10:18 eu-api.mimecast.com</li>
-<li> 10:17 herts365.sharepoint.com</li>
-<li> 10:17 login.microsoftonline.com</li>
 <li> 10:17 herts365.sharepoint.com</li>
 <li> 10:17 eu-west.azureauth.duosecurity.com</li>
 <li> 10:17 api-b6327e78.duosecurity.com</li>
 <li> 10:17 herts365.sharepoint.com</li>
-<li> 10:17 click.comms.herts.ac.uk</li>
 </ul>
 
 <br>
@@ -15574,8 +15594,6 @@ With number of accesses/minutes in parentheses
 <li> 10:22 equalitytime.co.uk</li>
 <li class='same'> 10:21 equalitytime.co.uk</li>
 <li> 10:18 www.amazon.co.uk</li>
-<li class='same'> 10:17 www.amazon.co.uk</li>
-<li class='same'> 10:10 www.amazon.co.uk</li>
 <li class='same'> 10:09 www.amazon.co.uk</li>
 <li class='same'> 10:08 www.amazon.co.uk</li>
 <li class='same'> 10:07 www.amazon.co.uk</li>
@@ -15583,7 +15601,6 @@ With number of accesses/minutes in parentheses
 <li> 10:03 chat.openai.com</li>
 <li> 10:02 calendar.google.com</li>
 <li> 10:00 eventdata.uk</li>
-<li> 10:00 cta-eu1.hubspot.com</li>
 <li> 10:00 www.thesecurityevent.co.uk</li>
 <li> 10:00 duckduckgo.com</li>
 <li> 09:42 web.whatsapp.com</li>
@@ -15593,7 +15610,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:49 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
 <li class='same'> 07:47 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
-<li> 07:47 login.openathens.net</li>
 <li> 07:47 login.microsoftonline.com</li>
 <li> 07:47 device.login.microsoftonline.com</li>
 <li> 07:47 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
@@ -15629,12 +15645,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:37 feedly.com</li>
-<li> 17:08 www.ebay.co.uk</li>
-<li class='same'> 17:07 www.ebay.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 17:07 www.ebay.co.uk</li>
 <li class='same'> 17:06 www.ebay.co.uk</li>
 <li> 17:05 www.cambridgebrainbox.com</li>
 <li> 17:04 www.ebay.co.uk</li>
-<li class='same'> 17:03 www.ebay.co.uk</li>
 <li class='same'> 17:02 www.ebay.co.uk</li>
 <li> 17:02 www.amazon.co.uk</li>
 <li> 16:52 www.i-programmer.info</li>
@@ -15679,7 +15697,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:14 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
 <li class='same'> 13:13 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
 <li class='same'> 13:12 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
-<li> 13:12 login.openathens.net</li>
 <li> 13:12 login.microsoftonline.com</li>
 <li> 13:12 device.login.microsoftonline.com</li>
 <li> 13:12 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
@@ -15728,8 +15745,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:10 <a href="https://en.wikipedia.org/wiki/Shake_That">Apple Bottoms - Wikipedia</a></li>
 <li> 18:09 <a href="https://en.wikipedia.org/wiki/Apple_Bottoms">Apple Bottoms - Wikipedia</a></li>
-<li> 18:08 www.google.com</li>
-<li class='same'> 18:06 www.google.com</li>
+<li> 18:06 www.google.com</li>
 <li> 17:42 mail.google.com</li>
 </ul>
 
@@ -123003,38 +123019,4 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:20 rhul-my.sharepoint.com</li>
 <li> 13:20 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 13:20 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 13:19 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 13:00 outlook.office365.com</li>
-<li> 12:59 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 12:59 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 12:59 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 12:58 experience.elluciancloud.ie</li>
-<li> 12:58 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 12:58 experience.elluciancloud.ie</li>
-<li> 12:56 rhul-my.sharepoint.com</li>
-<li class='same'> 12:52 rhul-my.sharepoint.com</li>
-<li> 12:52 teams.microsoft.com</li>
-<li> 12:52 outlook.office365.com</li>
-<li> 12:52 mail.rhul.ac.uk</li>
-<li> 12:51 outlook.office365.com</li>
-<li class='same'> 12:33 outlook.office365.com</li>
-<li class='same'> 12:32 outlook.office365.com</li>
-<li> 12:32 www.howtopronounce.com</li>
-<li> 12:32 www.google.com</li>
-<li> 12:30 otter.ai</li>
-<li class='same'> 12:29 otter.ai</li>
-<li> 12:29 teams.microsoft.com</li>
-<li> 12:21 forms.office.com</li>
-<li> 12:20 outlook.office365.com</li>
-<li> 12:20 mail.rhul.ac.uk</li>
-<li> 12:20 dashboards.rhul.ac.uk</li>
-<li> 12:13 outlook.office365.com</li>
-<li class='same'> 12:11 outlook.office365.com</li>
-<li class='same'> 12:08 outlook.office365.com</li>
-<li> 12:08 calendar.google.com</li>
-<li> 12:08 moodle.royalholloway.ac.uk</li>
-<li> 12:08 calendar.google.com</li>
-<li class='same'> 12:07 calendar.google.com</li>
-<li> 12:07 outlook.office365.com</li>
-<li> 12:07 calendar.google.com</li>
 </ul>
