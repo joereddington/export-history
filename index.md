@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5428)</li>
 <li>mail.google.com (5295)</li>
-<li>www.reddit.com (5123)</li>
-<li>outlook.office365.com (4774)</li>
+<li>www.reddit.com (5127)</li>
+<li>outlook.office365.com (4773)</li>
 <li>outlook.office.com (3988)</li>
-<li>duckduckgo.com (3749)</li>
-<li>docs.google.com (3288)</li>
+<li>duckduckgo.com (3750)</li>
+<li>docs.google.com (3287)</li>
 <li>chatgpt.com (2637)</li>
 <li>www.linkedin.com (2349)</li>
 <li>bsky.app (2017)</li>
-<li>www.facebook.com (1867)</li>
+<li>www.facebook.com (1869)</li>
 <li>moodle.royalholloway.ac.uk (1833)</li>
-<li>calendar.google.com (1517)</li>
-<li>www.amazon.co.uk (1306)</li>
-<li>login.microsoftonline.com (1297)</li>
+<li>calendar.google.com (1516)</li>
+<li>www.amazon.co.uk (1303)</li>
+<li>login.microsoftonline.com (1294)</li>
 <li>chat.openai.com (1281)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1165)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (776)</li>
 <li>www.theguardian.com (619)</li>
 <li>fritz.box (551)</li>
-<li>rhul.sharepoint.com (544)</li>
+<li>rhul.sharepoint.com (541)</li>
 <li>m365.cloud.microsoft (541)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (470)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:53 chatgpt.com</li>
+<ul><li> 11:18 www.facebook.com</li>
+<li> 11:16 www.urbandictionary.com</li>
+<li> 11:16 duckduckgo.com</li>
+<li> 11:16 www.giantitp.com</li>
+<li class='same'> 11:15 www.giantitp.com</li>
+<li> 11:15 www.facebook.com</li>
+<li> 11:14 www.reddit.com</li>
+<li> 11:13 www.blogcdn.com</li>
+<li> 11:13 imgur.com</li>
+<li> 11:10 www.reddit.com</li>
+<li class='same'> 11:09 www.reddit.com</li>
+<li class='same'> 11:08 www.reddit.com</li>
+<li> 10:53 chatgpt.com</li>
 <li> 10:53 chat.openai.com</li>
 <li> 10:51 www.amazon.co.uk</li>
 <li class='same'> 10:50 www.amazon.co.uk</li>
@@ -14943,8 +14955,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 12:47 www.google.com</li>
 <li> 12:27 dashboards.rhul.ac.uk</li>
-<li> 12:26 accounts.firefox.com</li>
-<li class='same'> 12:25 accounts.firefox.com</li>
+<li> 12:25 accounts.firefox.com</li>
 <li> 12:09 photos.google.com</li>
 <li> 12:08 web.whatsapp.com</li>
 <li> 12:07 photos.google.com</li>
@@ -14953,17 +14964,12 @@ With number of accesses/minutes in parentheses
 <li> 12:05 www.royalholloway.ac.uk</li>
 <li class='same'> 12:03 www.royalholloway.ac.uk</li>
 <li> 11:42 www.ncsc.gov.uk</li>
-<li> 11:42 eur03.safelinks.protection.outlook.com</li>
 <li> 11:42 outlook.office365.com</li>
 <li class='same'> 11:35 outlook.office365.com</li>
-<li> 11:34 euc-powerpoint.officeapps.live.com</li>
 <li> 11:29 rhul.sharepoint.com</li>
-<li> 11:29 login.microsoftonline.com</li>
-<li> 11:28 rhul.sharepoint.com</li>
+<li class='same'> 11:28 rhul.sharepoint.com</li>
 <li> 11:28 outlook.office365.com</li>
 <li> 11:26 calendar.google.com</li>
-<li> 11:26 docs.google.com</li>
-<li> 11:26 forms.gle</li>
 <li> 11:26 docs.google.com</li>
 <li> 11:26 forms.gle</li>
 <li> 11:25 photos.google.com</li>
@@ -14979,8 +14985,7 @@ With number of accesses/minutes in parentheses
 <li> 10:56 login.microsoftonline.com</li>
 <li> 10:56 forms.cloud.microsoft</li>
 <li> 10:56 outlook.office365.com</li>
-<li> 10:56 login.microsoftonline.com</li>
-<li> 10:55 outlook.office365.com</li>
+<li class='same'> 10:55 outlook.office365.com</li>
 <li> 10:55 mail.rhul.ac.uk</li>
 <li> 10:55 login.microsoftonline.com</li>
 <li> 10:55 www.office.com</li>
@@ -15078,8 +15083,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 21:01 <a href="https://en.wikipedia.org/w/index.php?title=Friendship_paradox&amp;action=history">Friendship paradox: Revision history - Wikipedia</a></li>
 <li> 21:00 pmc.ncbi.nlm.nih.gov</li>
-<li> 21:00 www.ncbi.nlm.nih.gov</li>
-<li> 21:00 pmc.ncbi.nlm.nih.gov</li>
 <li> 21:00 <a href="https://en.wikipedia.org/wiki/Nicholas_Christakis">Nicholas Christakis - Wikipedia</a></li>
 <li> 20:57 <a href="https://en.wikipedia.org/wiki/Friendship_paradox">Friendship paradox - Wikipedia</a></li>
 <li> 20:57 duckduckgo.com</li>
@@ -15089,7 +15092,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 20:06 www.google.com</li>
 <li> 19:53 fast.com</li>
-<li> 19:37 takeout-download-drive-eu.usercontent.google.com</li>
 <li> 19:37 drive.google.com</li>
 <li> 19:22 www.nationalcybersecurityshow.com</li>
 <li> 19:22 duckduckgo.com</li>
@@ -15127,13 +15129,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:16 svc-shipping-labels.s3.eu-central-1.amazonaws.com</li>
-<li class='same'> 07:15 svc-shipping-labels.s3.eu-central-1.amazonaws.com</li>
-<li> 07:15 web.whatsapp.com</li>
-<li> 07:15 uc193e9ffd330e126b6ed511edd5.dl.dropboxusercontent.com</li>
+<ul><li> 07:15 web.whatsapp.com</li>
 <li> 07:15 www.dropbox.com</li>
-<li> 07:14 uc7932f2f1f4c94ca1e0571f601a.dl.dropboxusercontent.com</li>
-<li> 07:14 www.dropbox.com</li>
 <li class='same'> 07:13 www.dropbox.com</li>
 <li> 07:13 fast.com</li>
 </ul>
@@ -15156,10 +15153,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:57 www.amazon.co.uk</li>
-<li class='same'> 19:56 www.amazon.co.uk</li>
 <li class='same'> 19:55 www.amazon.co.uk</li>
-<li> 19:55 aax-eu-zaz.amazon.co.uk</li>
-<li> 19:55 www.amazon.co.uk</li>
 <li class='same'> 19:54 www.amazon.co.uk</li>
 <li class='same'> 19:53 www.amazon.co.uk</li>
 <li class='same'> 19:52 www.amazon.co.uk</li>
@@ -15209,7 +15203,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:34 chatgpt.com</li>
 <li> 11:34 chat.openai.com</li>
-<li> 11:33 svc-shipping-labels.s3.eu-central-1.amazonaws.com</li>
 <li> 11:32 web.whatsapp.com</li>
 <li> 11:13 rhul.sharepoint.com</li>
 <li class='same'> 11:12 rhul.sharepoint.com</li>
@@ -15237,7 +15230,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:19 rhul.sharepoint.com</li>
-<li class='same'> 20:08 rhul.sharepoint.com</li>
 <li class='same'> 20:07 rhul.sharepoint.com</li>
 <li> 20:05 fritz.box</li>
 <li> 20:05 detectportal.firefox.com</li>
@@ -15329,8 +15321,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:29 www.amazon.co.uk</li>
 <li class='same'> 12:28 www.amazon.co.uk</li>
 <li> 12:28 e.ggtimer.com</li>
-<li> 12:27 www.amazon.co.uk</li>
-<li> 12:20 e.ggtimer.com</li>
+<li class='same'> 12:20 e.ggtimer.com</li>
 <li> 12:09 chatgpt.com</li>
 <li class='same'> 12:08 chatgpt.com</li>
 <li> 12:08 www.amazon.co.uk</li>
@@ -15347,24 +15338,18 @@ With number of accesses/minutes in parentheses
 <li> 11:33 docs.google.com</li>
 <li> 11:32 equalitytime.co.uk</li>
 <li> 11:31 e.ggtimer.com</li>
-<li> 11:25 intranet.royalholloway.ac.uk</li>
-<li class='same'> 11:24 intranet.royalholloway.ac.uk</li>
+<li> 11:24 intranet.royalholloway.ac.uk</li>
 <li> 11:24 duckduckgo.com</li>
 <li> 11:21 www.selectspecs.com</li>
 <li class='same'> 11:19 www.selectspecs.com</li>
 <li class='same'> 11:18 www.selectspecs.com</li>
 <li class='same'> 11:17 www.selectspecs.com</li>
-<li> 11:02 rhul.sharepoint.com</li>
 <li> 10:56 chatgpt.com</li>
 <li class='same'> 10:55 chatgpt.com</li>
 <li> 10:55 chat.openai.com</li>
-<li> 10:53 dashboards.rhul.ac.uk</li>
-<li class='same'> 10:52 dashboards.rhul.ac.uk</li>
-<li class='same'> 10:51 dashboards.rhul.ac.uk</li>
+<li> 10:51 dashboards.rhul.ac.uk</li>
 <li class='same'> 10:50 dashboards.rhul.ac.uk</li>
 <li> 10:50 calendar.google.com</li>
-<li> 10:50 rhul.sharepoint.com</li>
-<li> 10:50 login.microsoftonline.com</li>
 <li> 10:50 rhul.sharepoint.com</li>
 <li> 10:50 login.microsoftonline.com</li>
 <li> 10:50 rhul.sharepoint.com</li>
@@ -15427,7 +15412,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 19:11 <a href="https://www.theguardian.com/politics/2026/apr/27/green-mp-hannah-spencer-attacks-parliament-drinking-culture">Latest news, sport and opinion from the Guardian</a></li>
 <li> 19:08 <a href="https://www.theguardian.com/us-news/2026/apr/27/correspondents-dinner-shooting-salad">Latest news, sport and opinion from the Guardian</a></li>
 <li> 19:06 ebookcentral-proquest-com.royalholloway.idm.oclc.org</li>
-<li> 19:06 login.openathens.net</li>
 <li> 19:06 login.microsoftonline.com</li>
 <li> 19:06 device.login.microsoftonline.com</li>
 <li> 18:37 duckduckgo.com</li>
@@ -123022,6 +123006,4 @@ With number of accesses/minutes in parentheses
 <li> 14:17 www.facebook.com</li>
 <li> 14:17 outlook.office365.com</li>
 <li> 14:16 calendar.google.com</li>
-<li class='same'> 14:15 calendar.google.com</li>
-<li> 14:15 outlook.office365.com</li>
 </ul>
