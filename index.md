@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5420)</li>
-<li>mail.google.com (5285)</li>
+<li>mail.google.com (5288)</li>
 <li>www.reddit.com (5108)</li>
 <li>outlook.office365.com (4787)</li>
 <li>outlook.office.com (3988)</li>
 <li>duckduckgo.com (3747)</li>
-<li>docs.google.com (3283)</li>
+<li>docs.google.com (3285)</li>
 <li>chatgpt.com (2634)</li>
 <li>www.linkedin.com (2344)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1867)</li>
 <li>moodle.royalholloway.ac.uk (1834)</li>
 <li>calendar.google.com (1521)</li>
+<li>www.amazon.co.uk (1299)</li>
 <li>login.microsoftonline.com (1299)</li>
-<li>www.amazon.co.uk (1297)</li>
 <li>chat.openai.com (1279)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1165)</li>
@@ -104,7 +104,28 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 31/07/26</H3>
+
+<br>
+
+<ul><li> 08:28 www.amazon.co.uk</li>
+<li class='same'> 08:27 www.amazon.co.uk</li>
+<li> 08:25 accounts.intuit.com</li>
+<li> 08:25 qbo.intuit.com</li>
+<li> 08:25 app.qbo.intuit.com</li>
+<li> 08:25 c14.qbo.intuit.com</li>
+<li> 08:25 mail.google.com</li>
+<li> 08:25 docs.google.com</li>
+<li> 08:25 mail.google.com</li>
+<li> 08:25 docs.google.com</li>
+<li> 08:24 mail.google.com</li>
+</ul>
+
 <H3>Sunday, 26/07/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
