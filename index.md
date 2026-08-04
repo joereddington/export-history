@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3750)</li>
 <li>docs.google.com (3287)</li>
 <li>chatgpt.com (2639)</li>
-<li>www.linkedin.com (2349)</li>
+<li>www.linkedin.com (2351)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1878)</li>
 <li>moodle.royalholloway.ac.uk (1833)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:22 www.instagram.com</li>
+<ul><li> 14:46 www.linkedin.com</li>
+<li class='same'> 14:45 www.linkedin.com</li>
+<li> 14:22 www.instagram.com</li>
 <li class='same'> 14:19 www.instagram.com</li>
 <li> 14:19 127.0.0.1:4000</li>
 </ul>
