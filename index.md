@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5451)</li>
-<li>mail.google.com (5296)</li>
-<li>www.reddit.com (5128)</li>
-<li>outlook.office365.com (4768)</li>
+<ol><li>www.google.com (5445)</li>
+<li>mail.google.com (5302)</li>
+<li>www.reddit.com (5127)</li>
+<li>outlook.office365.com (4766)</li>
 <li>outlook.office.com (3988)</li>
-<li>duckduckgo.com (3750)</li>
+<li>duckduckgo.com (3755)</li>
 <li>docs.google.com (3288)</li>
-<li>chatgpt.com (2639)</li>
-<li>www.linkedin.com (2349)</li>
+<li>chatgpt.com (2640)</li>
+<li>www.linkedin.com (2355)</li>
 <li>bsky.app (2017)</li>
-<li>www.facebook.com (1878)</li>
+<li>www.facebook.com (1874)</li>
 <li>moodle.royalholloway.ac.uk (1833)</li>
 <li>calendar.google.com (1515)</li>
 <li>www.amazon.co.uk (1301)</li>
 <li>login.microsoftonline.com (1294)</li>
 <li>chat.openai.com (1282)</li>
 <li>herts.instructure.com (1235)</li>
-<li>web.whatsapp.com (1165)</li>
-<li>gmail.com (1131)</li>
+<li>web.whatsapp.com (1166)</li>
+<li>gmail.com (1132)</li>
 <li>mail.rhul.ac.uk (1041)</li>
-<li>tvtropes.org (879)</li>
 <li>rhul-my.sharepoint.com (879)</li>
-<li>forms.office.com (807)</li>
+<li>tvtropes.org (877)</li>
+<li>forms.office.com (803)</li>
 <li>feedly.com (776)</li>
 <li>www.theguardian.com (617)</li>
 <li>fritz.box (553)</li>
@@ -108,7 +108,54 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:29 www.goodreads.com</li>
+<ul><li> 15:27 mail.google.com</li>
+<li> 15:25 www.rightmove.co.uk</li>
+<li class='same'> 15:24 www.rightmove.co.uk</li>
+<li> 15:24 duckduckgo.com</li>
+<li> 15:24 www.moneysavingexpert.com</li>
+<li> 15:24 duckduckgo.com</li>
+<li> 15:24 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 15:23 mail.google.com</li>
+<li> 15:19 www.theregister.com</li>
+<li> 15:18 www.civilsociety.co.uk</li>
+<li> 15:18 duckduckgo.com</li>
+<li> 15:18 web.whatsapp.com</li>
+<li> 15:17 mail.google.com</li>
+<li> 15:16 www.linkedin.com</li>
+<li class='same'> 15:14 www.linkedin.com</li>
+<li class='same'> 15:12 www.linkedin.com</li>
+<li> 15:12 mail.google.com</li>
+<li> 15:09 www.interflora.co.uk</li>
+<li> 15:08 chatgpt.com</li>
+<li> 15:08 mail.google.com</li>
+<li class='same'> 15:07 mail.google.com</li>
+<li> 15:07 gmail.com</li>
+<li> 15:07 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:57 www.linkedin.com</li>
+<li class='same'> 13:56 www.linkedin.com</li>
+<li> 13:56 www.goodreads.com</li>
+<li class='same'> 13:55 www.goodreads.com</li>
+<li class='same'> 13:54 www.goodreads.com</li>
+<li class='same'> 13:52 www.goodreads.com</li>
+<li> 13:51 <a href="https://en.wikipedia.org/wiki/The_Ministry_of_Time_(novel)">The Ministry of Time (novel) - Wikipedia</a></li>
+<li> 13:51 duckduckgo.com</li>
+<li> 13:47 <a href="https://en.wikipedia.org/wiki/Out_of_Time_(Torchwood)">Out of Time (Torchwood) - Wikipedia</a></li>
+<li> 13:46 <a href="https://en.wikipedia.org/wiki/List_of_Torchwood_episodes">List of Torchwood episodes - Wikipedia</a></li>
+<li> 13:46 <a href="https://en.wikipedia.org/wiki/Torchwood">Torchwood - Wikipedia</a></li>
+<li> 13:46 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Torchwood&amp;wprov=acrw1_0"></a></li>
+<li> 13:44 www.goodreads.com</li>
+<li class='same'> 13:43 www.goodreads.com</li>
+<li> 13:42 www.google.com</li>
+<li> 13:41 www.goodreads.com</li>
+<li> 13:39 <a href="https://en.wikipedia.org/wiki/Dragon&#x27;s_Egg">Dragon&#x27;s Egg - Wikipedia</a></li>
+<li> 13:39 duckduckgo.com</li>
+<li> 13:36 www.goodreads.com</li>
+<li class='same'> 13:35 www.goodreads.com</li>
+<li class='same'> 13:29 www.goodreads.com</li>
 <li class='same'> 13:28 www.goodreads.com</li>
 <li class='same'> 13:26 www.goodreads.com</li>
 <li class='same'> 13:25 www.goodreads.com</li>
@@ -14811,8 +14858,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:09 calendar.google.com</li>
 <li> 09:09 doodle.com</li>
 <li class='same'> 09:08 doodle.com</li>
-<li> 09:08 eur03.safelinks.protection.outlook.com</li>
-<li> 09:08 doodle.com</li>
 </ul>
 
 <br>
@@ -14836,13 +14881,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 16:43 cheezburger.com</li>
-<li> 16:43 www.google.com</li>
-<li class='same'> 16:42 www.google.com</li>
-<li class='same'> 16:41 www.google.com</li>
-<li class='same'> 16:40 www.google.com</li>
-<li class='same'> 16:39 www.google.com</li>
-<li class='same'> 16:38 www.google.com</li>
-<li class='same'> 16:37 www.google.com</li>
+<li> 16:37 www.google.com</li>
 <li> 16:37 www.instagram.com</li>
 <li class='same'> 16:36 www.instagram.com</li>
 <li class='same'> 16:35 www.instagram.com</li>
@@ -123192,28 +123231,4 @@ With number of accesses/minutes in parentheses
 <li> 15:49 outlook.office.com</li>
 <li> 15:38 www.facebook.com</li>
 <li class='same'> 15:37 www.facebook.com</li>
-<li class='same'> 15:36 www.facebook.com</li>
-<li class='same'> 15:35 www.facebook.com</li>
-<li class='same'> 15:33 www.facebook.com</li>
-<li class='same'> 15:32 www.facebook.com</li>
-<li> 15:32 outlook.office365.com</li>
-<li> 15:12 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 15:12 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 15:12 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 15:12 experience.elluciancloud.ie</li>
-<li> 15:12 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 15:12 forms.office.com</li>
-<li class='same'> 15:11 forms.office.com</li>
-<li> 15:11 www.microsoft.com</li>
-<li> 15:11 forms.office.com</li>
-<li> 15:11 www.microsoft.com</li>
-<li> 15:11 forms.office.com</li>
-<li> 15:10 outlook.office365.com</li>
-<li> 15:10 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
-<li> 15:10 experience.elluciancloud.ie</li>
-<li> 15:10 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 14:45 www.reddit.com</li>
-<li> 14:45 tvtropes.org</li>
-<li class='same'> 14:42 tvtropes.org</li>
-<li> 14:42 www.google.com</li>
 </ul>
