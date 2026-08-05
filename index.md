@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5446)</li>
-<li>mail.google.com (5305)</li>
+<li>mail.google.com (5306)</li>
 <li>www.reddit.com (5127)</li>
 <li>outlook.office365.com (4766)</li>
-<li>outlook.office.com (3988)</li>
-<li>duckduckgo.com (3755)</li>
-<li>docs.google.com (3288)</li>
+<li>outlook.office.com (3987)</li>
+<li>duckduckgo.com (3757)</li>
+<li>docs.google.com (3286)</li>
 <li>chatgpt.com (2640)</li>
 <li>www.linkedin.com (2355)</li>
 <li>bsky.app (2017)</li>
-<li>www.facebook.com (1874)</li>
+<li>www.facebook.com (1875)</li>
 <li>moodle.royalholloway.ac.uk (1833)</li>
 <li>calendar.google.com (1515)</li>
 <li>www.amazon.co.uk (1301)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (541)</li>
 <li>m365.cloud.microsoft (541)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (470)</li>
+<li>drive.google.com (469)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:20 feedly.com</li>
+<ul><li> 17:06 www.facebook.com</li>
+<li class='same'> 17:05 www.facebook.com</li>
+<li> 17:04 duckduckgo.com</li>
+<li> 17:04 www.facebook.com</li>
+<li> 16:41 <a href="https://en.wikipedia.org/wiki/Steve_Coogan#Personal_life">Steve Coogan - Wikipedia</a></li>
+<li> 16:41 <a href="https://en.wikipedia.org/wiki/Steve_Coogan">Steve Coogan - Wikipedia</a></li>
+<li> 16:41 <a href="https://en.wikipedia.org/wiki/I%27m_Alan_Partridge">I&#x27;m Alan Partridge - Wikipedia</a></li>
+<li> 16:41 duckduckgo.com</li>
+<li> 16:41 www.goodreads.com</li>
+<li class='same'> 16:40 www.goodreads.com</li>
+<li class='same'> 16:39 www.goodreads.com</li>
+<li class='same'> 16:38 www.goodreads.com</li>
+<li class='same'> 16:37 www.goodreads.com</li>
+<li> 16:37 mail.google.com</li>
+<li> 16:20 www.independent.co.uk</li>
+<li> 16:20 feedly.com</li>
 <li> 16:19 www.google.com</li>
 <li> 16:17 newsthump.com</li>
 <li> 16:17 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
@@ -14777,7 +14792,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:12 www.amazon.co.uk</li>
 <li> 13:11 www.nature.com</li>
-<li> 13:11 idp.nature.com</li>
 <li> 13:10 feedly.com</li>
 <li class='same'> 13:09 feedly.com</li>
 <li> 13:09 www.linkedin.com</li>
@@ -14828,8 +14842,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:02 mail.google.com</li>
 <li> 11:02 www.amazon.co.uk</li>
 <li> 11:00 www.selectspecs.com</li>
-<li> 10:59 www.paypal.com</li>
-<li> 10:59 www.selectspecs.com</li>
+<li class='same'> 10:59 www.selectspecs.com</li>
 <li class='same'> 10:58 www.selectspecs.com</li>
 <li class='same'> 10:57 www.selectspecs.com</li>
 <li class='same'> 10:56 www.selectspecs.com</li>
@@ -123238,10 +123251,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:54 docs.google.com</li>
-<li> 15:54 drive.google.com</li>
-<li> 15:51 docs.google.com</li>
-<li class='same'> 15:50 docs.google.com</li>
-<li> 15:49 outlook.office.com</li>
-<li> 15:38 www.facebook.com</li>
-<li class='same'> 15:37 www.facebook.com</li>
 </ul>
