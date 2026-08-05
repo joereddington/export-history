@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5445)</li>
-<li>mail.google.com (5302)</li>
+<ol><li>www.google.com (5446)</li>
+<li>mail.google.com (5305)</li>
 <li>www.reddit.com (5127)</li>
 <li>outlook.office365.com (4766)</li>
 <li>outlook.office.com (3988)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (879)</li>
 <li>tvtropes.org (877)</li>
 <li>forms.office.com (803)</li>
-<li>feedly.com (776)</li>
+<li>feedly.com (777)</li>
 <li>www.theguardian.com (617)</li>
 <li>fritz.box (553)</li>
 <li>rhul.sharepoint.com (541)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:27 mail.google.com</li>
+<ul><li> 16:20 feedly.com</li>
+<li> 16:19 www.google.com</li>
+<li> 16:17 newsthump.com</li>
+<li> 16:17 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 16:17 www.goodreads.com</li>
+<li class='same'> 16:09 www.goodreads.com</li>
+<li> 16:09 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:30 mail.google.com</li>
+<li class='same'> 15:29 mail.google.com</li>
+<li class='same'> 15:27 mail.google.com</li>
 <li> 15:25 www.rightmove.co.uk</li>
 <li class='same'> 15:24 www.rightmove.co.uk</li>
 <li> 15:24 duckduckgo.com</li>
