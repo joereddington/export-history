@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5440)</li>
-<li>mail.google.com (5299)</li>
+<ol><li>www.google.com (5442)</li>
+<li>mail.google.com (5295)</li>
 <li>www.reddit.com (5122)</li>
-<li>outlook.office365.com (4757)</li>
+<li>outlook.office365.com (4753)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3757)</li>
-<li>docs.google.com (3286)</li>
-<li>chatgpt.com (2640)</li>
+<li>docs.google.com (3287)</li>
+<li>chatgpt.com (2641)</li>
 <li>www.linkedin.com (2351)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1875)</li>
@@ -83,15 +83,15 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1513)</li>
 <li>www.amazon.co.uk (1301)</li>
 <li>login.microsoftonline.com (1293)</li>
-<li>chat.openai.com (1282)</li>
+<li>chat.openai.com (1283)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1163)</li>
-<li>gmail.com (1130)</li>
+<li>gmail.com (1129)</li>
 <li>mail.rhul.ac.uk (1040)</li>
+<li>tvtropes.org (880)</li>
 <li>rhul-my.sharepoint.com (878)</li>
-<li>tvtropes.org (877)</li>
 <li>forms.office.com (803)</li>
-<li>feedly.com (777)</li>
+<li>feedly.com (778)</li>
 <li>www.theguardian.com (617)</li>
 <li>fritz.box (553)</li>
 <li>m365.cloud.microsoft (541)</li>
@@ -108,6 +108,47 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 11:29 eu-west-2.console.aws.amazon.com</li>
+<li> 11:29 eu-west-2.signin.aws.amazon.com</li>
+<li> 11:29 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 11:28 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 11:27 eu-west-2.console.aws.amazon.com</li>
+<li> 11:27 lightsail.aws.amazon.com</li>
+<li> 11:27 eu-west-2.lightsail.aws.amazon.com</li>
+<li> 11:27 eu-west-2.console.aws.amazon.com</li>
+<li> 11:27 lightsail.aws.amazon.com</li>
+<li> 11:27 eu-west-2.signin.aws.amazon.com</li>
+<li> 11:27 eu-west-2.lightsail.aws.amazon.com</li>
+<li> 11:27 eu-west-2.console.aws.amazon.com</li>
+<li> 11:26 chatgpt.com</li>
+<li> 11:26 chat.openai.com</li>
+<li> 11:26 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 11:25 us-east-1.console.aws.amazon.com</li>
+<li> 11:25 signin.aws.amazon.com</li>
+<li> 11:24 us-east-1.console.aws.amazon.com</li>
+<li> 11:24 us-east-1.signin.aws.amazon.com</li>
+<li> 11:24 us-east-1.console.aws.amazon.com</li>
+<li> 11:24 console.aws.amazon.com</li>
+<li> 11:24 eu-west-2.signin.aws.amazon.com</li>
+<li> 11:24 eu-west-2.console.aws.amazon.com</li>
+<li> 11:23 signin.aws.amazon.com</li>
+<li> 11:23 eu-west-2.signin.aws.amazon.com</li>
+<li> 11:23 eu-west-2.console.aws.amazon.com</li>
+<li> 11:20 www.goodreads.com</li>
+<li> 11:20 docs.google.com</li>
+<li> 11:20 www.goodreads.com</li>
+<li class='same'> 11:19 www.goodreads.com</li>
+<li> 11:19 feedly.com</li>
+<li> 11:11 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li> 09:10 www.google.com</li>
+</ul>
+
+<br>
+
 <ul><li> 08:31 Local file</li>
 </ul>
 
@@ -116,6 +157,16 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 20:12 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:35 tvtropes.org</li>
+</ul>
 
 <br>
 
@@ -210,7 +261,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:08 tvtropes.org</li>
+<ul><li> 12:26 tvtropes.org</li>
+<li class='same'> 12:20 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:08 tvtropes.org</li>
 <li> 11:08 www.google.com</li>
 <li> 11:07 newsthump.com</li>
 <li> 11:06 theonion.com</li>
@@ -123154,15 +123211,4 @@ With number of accesses/minutes in parentheses
 <li> 17:38 outlook.office365.com</li>
 <li> 17:38 www.google.com</li>
 <li> 17:37 dashboards.rhul.ac.uk</li>
-<li> 17:36 outlook.office365.com</li>
-<li> 17:36 mail.google.com</li>
-<li> 17:34 v6.kittleorders.com</li>
-<li> 17:34 www.kittleorders.com</li>
-<li> 17:34 mail.google.com</li>
-<li> 17:30 outlook.office365.com</li>
-<li> 17:26 mail.google.com</li>
-<li> 17:26 gmail.com</li>
-<li> 17:26 mail.google.com</li>
-<li> 17:26 outlook.office365.com</li>
-<li class='same'> 17:25 outlook.office365.com</li>
 </ul>
