@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5404)</li>
+<ol><li>www.google.com (5405)</li>
 <li>mail.google.com (5296)</li>
 <li>www.reddit.com (5120)</li>
-<li>outlook.office365.com (4658)</li>
+<li>outlook.office365.com (4656)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3765)</li>
 <li>docs.google.com (3281)</li>
 <li>chatgpt.com (2638)</li>
-<li>www.linkedin.com (2350)</li>
+<li>www.linkedin.com (2347)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1877)</li>
 <li>moodle.royalholloway.ac.uk (1830)</li>
@@ -87,8 +87,8 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1161)</li>
 <li>gmail.com (1129)</li>
-<li>mail.rhul.ac.uk (1029)</li>
-<li>tvtropes.org (880)</li>
+<li>mail.rhul.ac.uk (1028)</li>
+<li>tvtropes.org (882)</li>
 <li>rhul-my.sharepoint.com (870)</li>
 <li>forms.office.com (791)</li>
 <li>feedly.com (774)</li>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 06/08/26</H3>
+
+<br>
+
+<ul><li> 17:33 tvtropes.org</li>
+<li class='same'> 17:32 tvtropes.org</li>
+<li> 17:32 www.google.com</li>
+<li class='same'> 17:31 www.google.com</li>
+</ul>
 
 <br>
 
@@ -122819,13 +122827,4 @@ With number of accesses/minutes in parentheses
 <li> 12:19 login.openathens.net</li>
 <li> 12:19 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 12:18 librarysearch.royalholloway.ac.uk</li>
-<li class='same'> 12:17 librarysearch.royalholloway.ac.uk</li>
-<li> 12:17 www.google.com</li>
-<li> 12:17 www.cybok.org</li>
-<li> 12:17 outlook.office365.com</li>
-<li class='same'> 12:16 outlook.office365.com</li>
-<li> 12:16 mail.rhul.ac.uk</li>
-<li> 12:10 www.linkedin.com</li>
-<li class='same'> 12:09 www.linkedin.com</li>
-<li class='same'> 12:08 www.linkedin.com</li>
 </ul>
