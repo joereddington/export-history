@@ -69,11 +69,11 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5418)</li>
-<li>mail.google.com (5294)</li>
+<li>mail.google.com (5296)</li>
 <li>www.reddit.com (5120)</li>
-<li>outlook.office365.com (4715)</li>
+<li>outlook.office365.com (4707)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3758)</li>
+<li>duckduckgo.com (3763)</li>
 <li>docs.google.com (3281)</li>
 <li>chatgpt.com (2638)</li>
 <li>www.linkedin.com (2351)</li>
@@ -86,11 +86,11 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1280)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1161)</li>
-<li>gmail.com (1128)</li>
+<li>gmail.com (1129)</li>
 <li>mail.rhul.ac.uk (1033)</li>
 <li>tvtropes.org (880)</li>
 <li>rhul-my.sharepoint.com (874)</li>
-<li>forms.office.com (797)</li>
+<li>forms.office.com (795)</li>
 <li>feedly.com (773)</li>
 <li>www.theguardian.com (612)</li>
 <li>fritz.box (553)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 06/08/26</H3>
+
+<br>
+
+<ul><li> 16:26 duckduckgo.com</li>
+<li class='same'> 16:25 duckduckgo.com</li>
+<li class='same'> 16:24 duckduckgo.com</li>
+<li class='same'> 16:23 duckduckgo.com</li>
+<li class='same'> 16:22 duckduckgo.com</li>
+<li> 16:21 mail.google.com</li>
+<li class='same'> 16:19 mail.google.com</li>
+<li> 16:19 gmail.com</li>
+<li> 16:18 calendar.google.com</li>
+</ul>
 
 <br>
 
@@ -122985,15 +122998,4 @@ With number of accesses/minutes in parentheses
 <li> 14:52 outlook.office365.com</li>
 <li> 14:50 www.cybok.org</li>
 <li> 14:50 outlook.office365.com</li>
-<li> 14:43 forms.office.com</li>
-<li class='same'> 14:37 forms.office.com</li>
-<li> 14:33 outlook.office365.com</li>
-<li class='same'> 14:32 outlook.office365.com</li>
-<li class='same'> 14:30 outlook.office365.com</li>
-<li class='same'> 14:29 outlook.office365.com</li>
-<li class='same'> 14:28 outlook.office365.com</li>
-<li class='same'> 14:27 outlook.office365.com</li>
-<li class='same'> 14:26 outlook.office365.com</li>
-<li> 14:25 calendar.google.com</li>
-<li> 14:24 outlook.office365.com</li>
 </ul>
