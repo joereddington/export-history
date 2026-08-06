@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5405)</li>
+<ol><li>www.google.com (5404)</li>
 <li>mail.google.com (5296)</li>
 <li>www.reddit.com (5120)</li>
-<li>outlook.office365.com (4663)</li>
+<li>outlook.office365.com (4658)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3765)</li>
 <li>docs.google.com (3281)</li>
@@ -87,10 +87,10 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1161)</li>
 <li>gmail.com (1129)</li>
-<li>mail.rhul.ac.uk (1031)</li>
+<li>mail.rhul.ac.uk (1029)</li>
 <li>tvtropes.org (880)</li>
-<li>rhul-my.sharepoint.com (871)</li>
-<li>forms.office.com (794)</li>
+<li>rhul-my.sharepoint.com (870)</li>
+<li>forms.office.com (791)</li>
 <li>feedly.com (774)</li>
 <li>www.theguardian.com (602)</li>
 <li>fritz.box (553)</li>
@@ -122828,21 +122828,4 @@ With number of accesses/minutes in parentheses
 <li> 12:10 www.linkedin.com</li>
 <li class='same'> 12:09 www.linkedin.com</li>
 <li class='same'> 12:08 www.linkedin.com</li>
-<li> 12:08 outlook.office365.com</li>
-<li class='same'> 12:07 outlook.office365.com</li>
-<li class='same'> 12:06 outlook.office365.com</li>
-<li> 12:06 mail.rhul.ac.uk</li>
-<li> 12:05 www.ebay.co.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 11:28 outlook.office365.com</li>
-<li> 11:28 mail.rhul.ac.uk</li>
-<li> 11:15 www.google.com</li>
-<li> 10:58 forms.office.com</li>
-<li class='same'> 10:56 forms.office.com</li>
-<li class='same'> 10:55 forms.office.com</li>
-<li> 10:50 rhul-my.sharepoint.com</li>
-<li> 10:49 outlook.office365.com</li>
 </ul>
