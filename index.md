@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5427)</li>
-<li>mail.google.com (5298)</li>
+<ol><li>www.google.com (5418)</li>
+<li>mail.google.com (5294)</li>
 <li>www.reddit.com (5120)</li>
-<li>outlook.office365.com (4740)</li>
+<li>outlook.office365.com (4715)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3758)</li>
-<li>docs.google.com (3283)</li>
-<li>chatgpt.com (2640)</li>
-<li>www.linkedin.com (2353)</li>
+<li>docs.google.com (3281)</li>
+<li>chatgpt.com (2638)</li>
+<li>www.linkedin.com (2351)</li>
 <li>bsky.app (2017)</li>
-<li>www.facebook.com (1874)</li>
+<li>www.facebook.com (1873)</li>
 <li>moodle.royalholloway.ac.uk (1833)</li>
-<li>calendar.google.com (1514)</li>
+<li>calendar.google.com (1509)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1293)</li>
-<li>chat.openai.com (1282)</li>
+<li>chat.openai.com (1280)</li>
 <li>herts.instructure.com (1235)</li>
-<li>web.whatsapp.com (1162)</li>
-<li>gmail.com (1130)</li>
-<li>mail.rhul.ac.uk (1037)</li>
+<li>web.whatsapp.com (1161)</li>
+<li>gmail.com (1128)</li>
+<li>mail.rhul.ac.uk (1033)</li>
 <li>tvtropes.org (880)</li>
 <li>rhul-my.sharepoint.com (874)</li>
-<li>forms.office.com (802)</li>
-<li>feedly.com (777)</li>
-<li>www.theguardian.com (617)</li>
+<li>forms.office.com (797)</li>
+<li>feedly.com (773)</li>
+<li>www.theguardian.com (612)</li>
 <li>fritz.box (553)</li>
 <li>m365.cloud.microsoft (541)</li>
 <li>rhul.sharepoint.com (539)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (468)</li>
+<li>drive.google.com (469)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:26 mail.google.com</li>
+<ul><li> 15:47 docs.google.com</li>
+<li class='same'> 15:30 docs.google.com</li>
+<li> 15:29 drive.google.com</li>
+<li> 15:26 mail.google.com</li>
 <li> 15:26 gmail.com</li>
 <li> 15:17 calendar.google.com</li>
 <li> 15:06 chatgpt.com</li>
@@ -122993,140 +122996,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:26 outlook.office365.com</li>
 <li> 14:25 calendar.google.com</li>
 <li> 14:24 outlook.office365.com</li>
-<li class='same'> 14:21 outlook.office365.com</li>
-<li> 14:11 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 14:11 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 14:11 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 14:10 web.whatsapp.com</li>
-<li> 14:10 experience.elluciancloud.ie</li>
-<li> 14:10 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 14:10 experience.elluciancloud.ie</li>
-<li> 13:57 forms.office.com</li>
-<li class='same'> 13:56 forms.office.com</li>
-<li> 13:55 outlook.office365.com</li>
-<li> 13:54 calendar.google.com</li>
-<li> 13:54 outlook.office365.com</li>
-<li class='same'> 13:53 outlook.office365.com</li>
-<li> 13:53 calendar.google.com</li>
-<li> 13:53 outlook.office365.com</li>
-<li> 13:53 forms.office.com</li>
-<li> 13:52 outlook.office365.com</li>
-<li> 13:52 www.google.com</li>
-<li> 13:51 outlook.office365.com</li>
-<li> 13:50 teams.microsoft.com</li>
-<li> 13:49 outlook.office365.com</li>
-<li class='same'> 13:48 outlook.office365.com</li>
-<li class='same'> 13:47 outlook.office365.com</li>
-<li> 13:47 projects.cs.rhul.ac.uk</li>
-<li> 13:46 outlook.office365.com</li>
-<li> 13:43 forms.office.com</li>
-<li class='same'> 13:42 forms.office.com</li>
-<li> 13:42 outlook.office365.com</li>
-<li class='same'> 13:41 outlook.office365.com</li>
-<li class='same'> 13:35 outlook.office365.com</li>
-<li> 13:35 mail.rhul.ac.uk</li>
-<li> 13:34 teams.microsoft.com</li>
-<li> 13:10 www.linkedin.com</li>
-<li class='same'> 13:09 www.linkedin.com</li>
-<li> 13:08 mail.google.com</li>
-<li> 13:08 gmail.com</li>
-<li> 12:53 www.google.com</li>
-<li> 12:44 www.theguardian.com</li>
-<li> 12:36 outlook.office365.com</li>
-<li class='same'> 12:35 outlook.office365.com</li>
-<li> 12:35 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 10:34 www.google.com</li>
-<li> 10:31 <a href="https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird#Social_commentary_and_challenges">To Kill a Mockingbird - Wikipedia</a></li>
-<li> 10:29 <a href="https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird">To Kill a Mockingbird - Wikipedia</a></li>
-<li> 10:29 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 10:29 www.google.com</li>
-<li> 10:28 www.theguardian.com</li>
-<li class='same'> 10:26 www.theguardian.com</li>
-<li> 10:25 feedly.com</li>
-<li class='same'> 10:24 feedly.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:41 www.google.com</li>
-<li> 09:40 www.ncsc.gov.uk</li>
-<li class='same'> 09:39 www.ncsc.gov.uk</li>
-<li> 09:38 www.google.com</li>
-<li> 09:24 docs.google.com</li>
-<li class='same'> 09:23 docs.google.com</li>
-<li> 09:17 chatgpt.com</li>
-<li> 09:17 chat.openai.com</li>
-<li> 09:16 outlook.office365.com</li>
-<li> 09:16 mail.rhul.ac.uk</li>
-<li> 09:15 calendar.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 03:52 calendar.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 01:42 www.google.com</li>
-<li> 01:38 www.natesilver.net</li>
-<li> 01:22 x.com</li>
-<li> 01:21 www.google.com</li>
-<li> 01:20 www.theguardian.com</li>
-<li class='same'> 01:19 www.theguardian.com</li>
-</ul>
-
-<H3>Wednesday, 09/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 23:54 cisse.info</li>
-</ul>
-
-<br>
-
-<ul><li> 20:58 docs.google.com</li>
-<li> 20:54 www.google.com</li>
-<li> 20:54 docs.google.com</li>
-<li> 20:44 chatgpt.com</li>
-<li> 20:44 chat.openai.com</li>
-<li> 20:42 github.com</li>
-<li> 20:39 www.ebay.co.uk</li>
-<li class='same'> 20:38 www.ebay.co.uk</li>
-<li> 20:36 www.lutongymnastics.co.uk</li>
-<li class='same'> 20:33 www.lutongymnastics.co.uk</li>
-<li class='same'> 20:32 www.lutongymnastics.co.uk</li>
-<li> 20:28 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 20:27 calendar.google.com</li>
-<li> 20:27 outlook.office365.com</li>
-<li class='same'> 20:26 outlook.office365.com</li>
-<li> 20:26 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 20:26 mail.google.com</li>
-<li> 20:25 outlook.office365.com</li>
-<li class='same'> 20:24 outlook.office365.com</li>
-<li> 20:24 mail.google.com</li>
-<li> 20:24 outlook.office365.com</li>
-<li class='same'> 20:23 outlook.office365.com</li>
-<li> 20:23 mail.rhul.ac.uk</li>
-<li> 20:23 mail.google.com</li>
-<li> 20:23 gmail.com</li>
-<li> 20:23 fast.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:51 www.facebook.com</li>
-<li> 17:51 ico.org.uk</li>
-<li> 17:51 feedly.com</li>
-<li class='same'> 17:50 feedly.com</li>
-<li> 17:50 outlook.office365.com</li>
-<li class='same'> 17:49 outlook.office365.com</li>
 </ul>
