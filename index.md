@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5416)</li>
+<ol><li>www.google.com (5405)</li>
 <li>mail.google.com (5296)</li>
 <li>www.reddit.com (5120)</li>
-<li>outlook.office365.com (4696)</li>
+<li>outlook.office365.com (4663)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3765)</li>
 <li>docs.google.com (3281)</li>
 <li>chatgpt.com (2638)</li>
-<li>www.linkedin.com (2351)</li>
+<li>www.linkedin.com (2350)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1877)</li>
-<li>moodle.royalholloway.ac.uk (1833)</li>
-<li>calendar.google.com (1510)</li>
+<li>moodle.royalholloway.ac.uk (1830)</li>
+<li>calendar.google.com (1505)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1293)</li>
 <li>chat.openai.com (1280)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1161)</li>
 <li>gmail.com (1129)</li>
-<li>mail.rhul.ac.uk (1032)</li>
+<li>mail.rhul.ac.uk (1031)</li>
 <li>tvtropes.org (880)</li>
-<li>rhul-my.sharepoint.com (872)</li>
+<li>rhul-my.sharepoint.com (871)</li>
 <li>forms.office.com (794)</li>
 <li>feedly.com (774)</li>
-<li>www.theguardian.com (612)</li>
+<li>www.theguardian.com (602)</li>
 <li>fritz.box (553)</li>
 <li>m365.cloud.microsoft (541)</li>
-<li>rhul.sharepoint.com (539)</li>
+<li>rhul.sharepoint.com (536)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (469)</li>
 
@@ -122845,150 +122845,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:55 forms.office.com</li>
 <li> 10:50 rhul-my.sharepoint.com</li>
 <li> 10:49 outlook.office365.com</li>
-<li> 10:48 moodle.royalholloway.ac.uk</li>
-<li> 10:48 rhul.hosted.panopto.com</li>
-<li> 10:47 outlook.office365.com</li>
-<li> 10:46 www.ukri.org</li>
-<li> 10:46 eur03.safelinks.protection.outlook.com</li>
-<li> 10:46 outlook.office365.com</li>
-<li> 10:46 engagementhub.ukri.org</li>
-<li class='same'> 10:45 engagementhub.ukri.org</li>
-<li> 10:45 outlook.office365.com</li>
-<li> 10:45 engagementhub.ukri.org</li>
-<li class='same'> 10:44 engagementhub.ukri.org</li>
-<li> 10:43 www.royalholloway.ac.uk</li>
-<li> 10:43 engagementhub.ukri.org</li>
-<li> 10:43 www.ukri.org</li>
-<li> 10:43 eur03.safelinks.protection.outlook.com</li>
-<li> 10:43 outlook.office365.com</li>
-<li> 10:43 calendar.google.com</li>
-<li class='same'> 10:42 calendar.google.com</li>
-<li> 10:42 outlook.office365.com</li>
-<li> 10:41 rhul.hosted.panopto.com</li>
-<li class='same'> 10:40 rhul.hosted.panopto.com</li>
-<li class='same'> 10:39 rhul.hosted.panopto.com</li>
-<li class='same'> 10:38 rhul.hosted.panopto.com</li>
-<li> 10:38 outlook.office365.com</li>
-<li> 10:36 moodle.royalholloway.ac.uk</li>
-<li> 10:35 account.activedirectory.windowsazure.com</li>
-<li> 10:35 moodle.royalholloway.ac.uk</li>
-<li> 10:34 outlook.office365.com</li>
-<li class='same'> 10:32 outlook.office365.com</li>
-<li class='same'> 10:31 outlook.office365.com</li>
-<li> 10:31 dashboards.rhul.ac.uk</li>
-<li> 10:31 rhul.sharepoint.com</li>
-<li> 10:31 outlook.office365.com</li>
-<li class='same'> 10:30 outlook.office365.com</li>
-<li class='same'> 10:29 outlook.office365.com</li>
-<li> 10:28 www.google.com</li>
-<li class='same'> 10:27 www.google.com</li>
-<li> 10:26 outlook.office365.com</li>
-<li> 10:25 rhul.sharepoint.com</li>
-<li> 10:24 teams.microsoft.com</li>
-<li> 10:24 rhul.hosted.panopto.com</li>
-<li> 10:24 outlook.office365.com</li>
-<li class='same'> 10:23 outlook.office365.com</li>
-<li class='same'> 10:21 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:04 www.theguardian.com</li>
-<li class='same'> 07:46 www.theguardian.com</li>
-<li> 07:43 www.fastcompany.com</li>
-<li> 07:22 www.theguardian.com</li>
-<li class='same'> 07:21 www.theguardian.com</li>
-<li> 07:16 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 06:45 www.natesilver.net</li>
-<li class='same'> 06:44 www.natesilver.net</li>
-<li> 06:44 www.google.com</li>
-<li> 06:44 www.theguardian.com</li>
-<li> 06:43 www.google.com</li>
-<li> 06:43 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 00:28 calendar.google.com</li>
-</ul>
-
-<H3>Thursday, 10/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 21:58 www.theguardian.com</li>
-<li> 21:57 x.com</li>
-<li> 21:57 www.google.com</li>
-<li> 21:55 theonion.com</li>
-<li> 21:55 reductress.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 20:19 reductress.com</li>
-<li> 20:16 www.thedailymash.co.uk</li>
-<li class='same'> 20:15 www.thedailymash.co.uk</li>
-<li> 20:15 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 19:44 www.theguardian.com</li>
-<li class='same'> 19:41 www.theguardian.com</li>
-<li class='same'> 19:40 www.theguardian.com</li>
-<li> 19:39 getpocket.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:35 outlook.office365.com</li>
-<li class='same'> 18:34 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 16:13 www.google.com</li>
-<li class='same'> 16:12 www.google.com</li>
-<li> 16:12 www.cisse.info</li>
-<li> 16:11 www.stmartin.edu</li>
-<li> 16:11 www.google.com</li>
-<li> 16:11 outlook.office365.com</li>
-<li class='same'> 16:09 outlook.office365.com</li>
-<li> 16:09 www.ukri.org</li>
-<li class='same'> 16:07 www.ukri.org</li>
-<li> 16:07 eur03.safelinks.protection.outlook.com</li>
-<li> 16:07 outlook.office365.com</li>
-<li> 16:07 mail.rhul.ac.uk</li>
-<li> 16:06 www.linkedin.com</li>
-<li> 16:04 outlook.office365.com</li>
-<li class='same'> 16:03 outlook.office365.com</li>
-<li class='same'> 16:01 outlook.office365.com</li>
-<li> 15:58 <a href="https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird">To Kill a Mockingbird - Wikipedia</a></li>
-<li> 15:58 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 15:58 <a href="https://en.wikipedia.org/"></a></li>
-<li> 15:58 www.wikipedia.org</li>
-<li> 15:53 rhul-my.sharepoint.com</li>
-<li> 15:53 outlook.office365.com</li>
-<li> 15:50 support.tophat.com</li>
-<li> 15:50 www.google.com</li>
-<li class='same'> 15:49 www.google.com</li>
-<li> 15:45 outlook.office365.com</li>
-<li> 15:42 rhul.sharepoint.com</li>
-<li> 15:38 teams.microsoft.com</li>
-<li> 15:38 outlook.office365.com</li>
-<li class='same'> 15:37 outlook.office365.com</li>
-<li class='same'> 15:36 outlook.office365.com</li>
-<li> 15:35 calendar.google.com</li>
-<li> 15:34 outlook.office365.com</li>
-<li> 15:33 calendar.google.com</li>
-<li> 15:33 outlook.office365.com</li>
-<li class='same'> 15:32 outlook.office365.com</li>
 </ul>
