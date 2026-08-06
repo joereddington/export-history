@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5437)</li>
+<ol><li>www.google.com (5434)</li>
 <li>mail.google.com (5298)</li>
 <li>www.reddit.com (5121)</li>
-<li>outlook.office365.com (4749)</li>
+<li>outlook.office365.com (4746)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3757)</li>
 <li>docs.google.com (3287)</li>
-<li>chatgpt.com (2641)</li>
+<li>chatgpt.com (2642)</li>
 <li>www.linkedin.com (2353)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1874)</li>
 <li>moodle.royalholloway.ac.uk (1833)</li>
-<li>calendar.google.com (1512)</li>
-<li>www.amazon.co.uk (1301)</li>
+<li>calendar.google.com (1513)</li>
+<li>www.amazon.co.uk (1302)</li>
 <li>login.microsoftonline.com (1293)</li>
-<li>chat.openai.com (1283)</li>
+<li>chat.openai.com (1282)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1163)</li>
 <li>gmail.com (1130)</li>
 <li>mail.rhul.ac.uk (1039)</li>
 <li>tvtropes.org (880)</li>
-<li>rhul-my.sharepoint.com (878)</li>
+<li>rhul-my.sharepoint.com (876)</li>
 <li>forms.office.com (802)</li>
-<li>feedly.com (778)</li>
+<li>feedly.com (777)</li>
 <li>www.theguardian.com (617)</li>
 <li>fritz.box (553)</li>
 <li>m365.cloud.microsoft (541)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 06/08/26</H3>
+
+<br>
+
+<ul><li> 14:22 calendar.google.com</li>
+<li> 14:22 chatgpt.com</li>
+<li class='same'> 14:21 chatgpt.com</li>
+<li> 14:19 www.gov.uk</li>
+<li> 14:18 www.amazon.co.uk</li>
+</ul>
 
 <br>
 
@@ -123171,17 +123180,4 @@ With number of accesses/minutes in parentheses
 <li> 06:43 www.upguard.com</li>
 <li> 06:43 medium.com</li>
 <li> 06:43 www.google.com</li>
-<li> 06:40 <a href="https://en.wikipedia.org/wiki/Non-repudiation">Non-repudiation - Wikipedia</a></li>
-<li> 06:40 www.google.com</li>
-<li> 06:39 chatgpt.com</li>
-<li> 06:39 chat.openai.com</li>
-<li> 06:38 www.google.com</li>
-<li> 06:36 rhul-my.sharepoint.com</li>
-<li> 06:35 outlook.office365.com</li>
-<li> 06:35 rhul-my.sharepoint.com</li>
-<li> 06:35 outlook.office365.com</li>
-<li class='same'> 06:34 outlook.office365.com</li>
-<li> 06:34 feedly.com</li>
-<li> 06:28 www.acas.org.uk</li>
-<li> 06:27 www.google.com</li>
 </ul>
