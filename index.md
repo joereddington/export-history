@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5442)</li>
-<li>mail.google.com (5295)</li>
-<li>www.reddit.com (5122)</li>
-<li>outlook.office365.com (4753)</li>
+<ol><li>www.google.com (5437)</li>
+<li>mail.google.com (5297)</li>
+<li>www.reddit.com (5121)</li>
+<li>outlook.office365.com (4749)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3757)</li>
 <li>docs.google.com (3287)</li>
 <li>chatgpt.com (2641)</li>
-<li>www.linkedin.com (2351)</li>
+<li>www.linkedin.com (2353)</li>
 <li>bsky.app (2017)</li>
-<li>www.facebook.com (1875)</li>
+<li>www.facebook.com (1874)</li>
 <li>moodle.royalholloway.ac.uk (1833)</li>
-<li>calendar.google.com (1513)</li>
+<li>calendar.google.com (1512)</li>
 <li>www.amazon.co.uk (1301)</li>
 <li>login.microsoftonline.com (1293)</li>
 <li>chat.openai.com (1283)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1163)</li>
-<li>gmail.com (1129)</li>
-<li>mail.rhul.ac.uk (1040)</li>
+<li>gmail.com (1130)</li>
+<li>mail.rhul.ac.uk (1039)</li>
 <li>tvtropes.org (880)</li>
 <li>rhul-my.sharepoint.com (878)</li>
-<li>forms.office.com (803)</li>
-<li>feedly.com (778)</li>
+<li>forms.office.com (802)</li>
+<li>feedly.com (777)</li>
 <li>www.theguardian.com (617)</li>
 <li>fritz.box (553)</li>
 <li>m365.cloud.microsoft (541)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:29 eu-west-2.console.aws.amazon.com</li>
+<ul><li> 11:52 mail.google.com</li>
+<li> 11:51 www.google.com</li>
+<li> 11:51 uk.gomotionapp.com</li>
+<li> 11:51 mail.google.com</li>
+<li class='same'> 11:50 mail.google.com</li>
+<li> 11:50 gmail.com</li>
+<li> 11:48 www.linkedin.com</li>
+<li class='same'> 11:47 www.linkedin.com</li>
+<li class='same'> 11:44 www.linkedin.com</li>
+<li class='same'> 11:43 www.linkedin.com</li>
+<li class='same'> 11:42 www.linkedin.com</li>
+<li> 11:34 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 11:33 eu-west-2.console.aws.amazon.com</li>
+<li class='same'> 11:32 eu-west-2.console.aws.amazon.com</li>
+<li> 11:32 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 11:31 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 11:30 us-east-1.console.aws.amazon.com</li>
+<li> 11:29 eu-west-2.console.aws.amazon.com</li>
 <li> 11:29 eu-west-2.signin.aws.amazon.com</li>
 <li> 11:29 eu-west-2.console.aws.amazon.com</li>
 <li class='same'> 11:28 eu-west-2.console.aws.amazon.com</li>
@@ -123161,54 +123178,4 @@ With number of accesses/minutes in parentheses
 <li> 06:34 feedly.com</li>
 <li> 06:28 www.acas.org.uk</li>
 <li> 06:27 www.google.com</li>
-<li class='same'> 06:00 www.google.com</li>
-<li class='same'> 05:59 www.google.com</li>
-</ul>
-
-<H3>Tuesday, 08/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 21:25 www.reddit.com</li>
-<li> 21:25 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 18:11 www.google.com</li>
-<li> 18:07 blog.cloudflare.com</li>
-<li> 18:05 feedly.com</li>
-<li> 18:04 forms.office.com</li>
-<li> 18:04 outlook.office365.com</li>
-<li> 18:04 mail.rhul.ac.uk</li>
-<li> 18:03 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_Security">Wikipedia talk:WikiProject Computer Security - Wikipedia</a></li>
-<li> 18:02 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways&amp;curid=3970&amp;diff=1249921475&amp;oldid=1248892627">British Airways: Difference between revisions - Wikipedia</a></li>
-<li> 18:02 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 18:02 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 18:02 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 18:01 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 18:01 <a href="https://en.wikipedia.org/"></a></li>
-<li> 18:01 x.com</li>
-<li class='same'> 17:48 x.com</li>
-<li class='same'> 17:46 x.com</li>
-<li> 17:46 www.natesilver.net</li>
-<li> 17:46 www.google.com</li>
-<li> 17:45 calendar.google.com</li>
-<li> 17:45 www.linkedin.com</li>
-<li class='same'> 17:44 www.linkedin.com</li>
-<li class='same'> 17:43 www.linkedin.com</li>
-<li> 17:43 kdpreports.amazon.com</li>
-<li class='same'> 17:42 kdpreports.amazon.com</li>
-<li> 17:42 kdp.amazon.com</li>
-<li> 17:42 mail.google.com</li>
-<li> 17:42 outlook.office365.com</li>
-<li class='same'> 17:41 outlook.office365.com</li>
-<li> 17:38 www.facebook.com</li>
-<li> 17:38 outlook.office365.com</li>
-<li> 17:38 www.google.com</li>
-<li> 17:37 dashboards.rhul.ac.uk</li>
 </ul>
