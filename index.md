@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5446)</li>
-<li>mail.google.com (5306)</li>
-<li>www.reddit.com (5127)</li>
-<li>outlook.office365.com (4766)</li>
+<ol><li>www.google.com (5440)</li>
+<li>mail.google.com (5299)</li>
+<li>www.reddit.com (5122)</li>
+<li>outlook.office365.com (4757)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3757)</li>
-<li>docs.google.com (3287)</li>
+<li>docs.google.com (3286)</li>
 <li>chatgpt.com (2640)</li>
-<li>www.linkedin.com (2355)</li>
+<li>www.linkedin.com (2351)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1875)</li>
 <li>moodle.royalholloway.ac.uk (1833)</li>
-<li>calendar.google.com (1516)</li>
+<li>calendar.google.com (1513)</li>
 <li>www.amazon.co.uk (1301)</li>
-<li>login.microsoftonline.com (1294)</li>
+<li>login.microsoftonline.com (1293)</li>
 <li>chat.openai.com (1282)</li>
 <li>herts.instructure.com (1235)</li>
-<li>web.whatsapp.com (1166)</li>
-<li>gmail.com (1132)</li>
-<li>mail.rhul.ac.uk (1041)</li>
-<li>rhul-my.sharepoint.com (879)</li>
+<li>web.whatsapp.com (1163)</li>
+<li>gmail.com (1130)</li>
+<li>mail.rhul.ac.uk (1040)</li>
+<li>rhul-my.sharepoint.com (878)</li>
 <li>tvtropes.org (877)</li>
 <li>forms.office.com (803)</li>
 <li>feedly.com (777)</li>
 <li>www.theguardian.com (617)</li>
 <li>fritz.box (553)</li>
-<li>rhul.sharepoint.com (541)</li>
 <li>m365.cloud.microsoft (541)</li>
+<li>rhul.sharepoint.com (539)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (469)</li>
 
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 06/08/26</H3>
+
+<br>
+
+<ul><li> 08:31 Local file</li>
+</ul>
+
 <H3>Wednesday, 05/08/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -14563,8 +14574,6 @@ With number of accesses/minutes in parentheses
 <li> 15:50 accounts.google.com</li>
 <li> 15:50 rhul-my.sharepoint.com</li>
 <li> 15:50 login.microsoftonline.com</li>
-<li> 15:50 rhul-my.sharepoint.com</li>
-<li> 15:50 login.microsoftonline.com</li>
 <li> 15:50 feedly.com</li>
 <li class='same'> 15:49 feedly.com</li>
 <li> 15:36 <a href="https://www.theguardian.com/media/2026/may/06/worlds-most-powerful-are-suing-media-outlets-before-stories-are-even-published-says-editor">World’s most powerful are suing media outlets before stories are even published, says editor | Media law | The Guardian</a></li>
@@ -14621,7 +14630,6 @@ With number of accesses/minutes in parentheses
 <li> 12:38 cyberlondon.com</li>
 <li> 12:38 duckduckgo.com</li>
 <li> 12:36 www.uwslondon.ac.uk</li>
-<li> 12:36 eur03.safelinks.protection.outlook.com</li>
 <li> 12:35 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:34 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:33 moodle.royalholloway.ac.uk</li>
@@ -14749,8 +14757,6 @@ With number of accesses/minutes in parentheses
 <li> 15:33 photos.google.com</li>
 <li class='same'> 15:32 photos.google.com</li>
 <li class='same'> 15:31 photos.google.com</li>
-<li> 15:31 video-downloads.googleusercontent.com</li>
-<li> 15:31 photos.google.com</li>
 <li class='same'> 15:30 photos.google.com</li>
 <li> 15:26 drive.google.com</li>
 <li class='same'> 15:25 drive.google.com</li>
@@ -14766,13 +14772,8 @@ With number of accesses/minutes in parentheses
 <li> 15:12 www.blacktothetrails.co.uk</li>
 <li class='same'> 15:11 www.blacktothetrails.co.uk</li>
 <li> 15:11 Local file</li>
-<li> 15:11 static1.squarespace.com</li>
-<li> 15:11 www.blacktothetrails.co.uk</li>
 <li> 15:11 www.strava.com</li>
 <li> 15:11 strava.com</li>
-<li> 15:11 strava.app.link</li>
-<li> 15:09 www.blacktothetrails.co.uk</li>
-<li> 15:09 www.google.com</li>
 <li> 15:09 www.blacktothetrails.co.uk</li>
 <li> 15:09 track.pstmrk.it</li>
 <li> 15:09 blacktothetrails.co.uk</li>
@@ -123164,93 +123165,4 @@ With number of accesses/minutes in parentheses
 <li> 17:26 mail.google.com</li>
 <li> 17:26 outlook.office365.com</li>
 <li class='same'> 17:25 outlook.office365.com</li>
-<li> 17:24 web.whatsapp.com</li>
-</ul>
-
-<br>
-
-<ul><li> 12:33 www.lutongymnastics.co.uk</li>
-<li> 12:33 fast.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:56 mail.google.com</li>
-<li class='same'> 08:55 mail.google.com</li>
-<li> 08:55 gmail.com</li>
-<li> 08:51 fast.com</li>
-<li class='same'> 08:42 fast.com</li>
-<li> 08:42 www.natesilver.net</li>
-</ul>
-
-<br>
-
-<ul><li> 07:38 mail.google.com</li>
-<li> 07:36 www.reddit.com</li>
-<li class='same'> 07:35 www.reddit.com</li>
-<li class='same'> 07:33 www.reddit.com</li>
-<li class='same'> 07:32 www.reddit.com</li>
-<li class='same'> 07:31 www.reddit.com</li>
-<li> 07:29 www.google.com</li>
-<li> 07:28 reddit.app.link</li>
-<li> 07:28 click.redditmail.com</li>
-<li> 07:28 mail.google.com</li>
-<li class='same'> 07:27 mail.google.com</li>
-<li class='same'> 07:25 mail.google.com</li>
-<li> 07:25 web.whatsapp.com</li>
-<li> 07:23 calendar.google.com</li>
-<li> 07:22 mail.google.com</li>
-<li> 07:22 gmail.com</li>
-<li> 07:20 outlook.office365.com</li>
-<li> 07:17 www.google.com</li>
-<li class='same'> 07:13 www.google.com</li>
-<li> 07:09 rhul.sharepoint.com</li>
-<li class='same'> 07:08 rhul.sharepoint.com</li>
-<li> 07:08 outlook.office365.com</li>
-<li class='same'> 07:05 outlook.office365.com</li>
-<li class='same'> 07:03 outlook.office365.com</li>
-<li> 07:03 mail.rhul.ac.uk</li>
-<li> 07:03 outlook.office365.com</li>
-<li> 06:52 www.natesilver.net</li>
-<li> 06:52 t.co</li>
-<li> 06:51 x.com</li>
-<li> 06:51 www.google.com</li>
-</ul>
-
-<H3>Monday, 07/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 20:15 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:19 www.linkedin.com</li>
-<li> 18:18 calendar.google.com</li>
-<li> 18:18 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:08 online.unity.co.uk</li>
-<li> 16:46 outlook.office365.com</li>
-<li class='same'> 16:45 outlook.office365.com</li>
-<li> 16:45 calendar.google.com</li>
-<li> 16:43 web.whatsapp.com</li>
-<li> 16:43 www.linkedin.com</li>
-<li> 16:42 online.unity.co.uk</li>
-<li> 16:42 www.unity-online.co.uk</li>
-<li> 16:42 www.linkedin.com</li>
-<li class='same'> 16:41 www.linkedin.com</li>
-<li> 16:41 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 15:54 docs.google.com</li>
 </ul>
