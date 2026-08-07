@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5400)</li>
-<li>mail.google.com (5316)</li>
+<ol><li>www.google.com (5399)</li>
+<li>mail.google.com (5317)</li>
 <li>www.reddit.com (5120)</li>
-<li>outlook.office365.com (4644)</li>
+<li>outlook.office365.com (4636)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3771)</li>
 <li>docs.google.com (3282)</li>
@@ -80,22 +80,22 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1874)</li>
 <li>moodle.royalholloway.ac.uk (1830)</li>
-<li>calendar.google.com (1511)</li>
+<li>calendar.google.com (1509)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1291)</li>
 <li>chat.openai.com (1284)</li>
 <li>herts.instructure.com (1235)</li>
-<li>web.whatsapp.com (1161)</li>
+<li>web.whatsapp.com (1160)</li>
 <li>gmail.com (1131)</li>
 <li>mail.rhul.ac.uk (1026)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (870)</li>
 <li>forms.office.com (786)</li>
 <li>feedly.com (777)</li>
-<li>www.theguardian.com (602)</li>
+<li>www.theguardian.com (601)</li>
 <li>fritz.box (553)</li>
 <li>m365.cloud.microsoft (541)</li>
-<li>rhul.sharepoint.com (532)</li>
+<li>rhul.sharepoint.com (531)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
 
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:59 calendar.google.com</li>
+<ul><li> 12:00 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:59 mail.google.com</li>
+<li> 11:59 calendar.google.com</li>
 <li> 11:58 www.lutoncomiccon.com</li>
 <li> 11:58 duckduckgo.com</li>
 <li> 11:58 mail.google.com</li>
@@ -122865,20 +122867,4 @@ With number of accesses/minutes in parentheses
 <li> 17:19 rhul.sharepoint.com</li>
 <li> 17:19 outlook.office365.com</li>
 <li class='same'> 17:18 outlook.office365.com</li>
-<li> 17:17 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
-<li> 17:16 outlook.office365.com</li>
-<li> 17:14 web.whatsapp.com</li>
-<li> 17:14 calendar.google.com</li>
-<li> 17:14 outlook.office365.com</li>
-<li class='same'> 17:13 outlook.office365.com</li>
-<li class='same'> 17:12 outlook.office365.com</li>
-<li> 17:11 calendar.google.com</li>
-<li> 17:10 outlook.office365.com</li>
-<li> 17:10 projects.cs.rhul.ac.uk</li>
-<li> 17:10 outlook.office365.com</li>
-<li class='same'> 17:09 outlook.office365.com</li>
-<li> 17:09 rhul.sharepoint.com</li>
-<li> 17:09 outlook.office365.com</li>
-<li> 16:40 www.theguardian.com</li>
-<li> 16:40 www.google.com</li>
 </ul>
