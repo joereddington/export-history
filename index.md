@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5408)</li>
-<li>mail.google.com (5298)</li>
+<ol><li>www.google.com (5405)</li>
+<li>mail.google.com (5302)</li>
 <li>www.reddit.com (5120)</li>
-<li>outlook.office365.com (4653)</li>
+<li>outlook.office365.com (4646)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3769)</li>
-<li>docs.google.com (3281)</li>
-<li>chatgpt.com (2641)</li>
+<li>docs.google.com (3282)</li>
+<li>chatgpt.com (2640)</li>
 <li>www.linkedin.com (2347)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1877)</li>
@@ -85,19 +85,19 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (1291)</li>
 <li>chat.openai.com (1283)</li>
 <li>herts.instructure.com (1235)</li>
-<li>web.whatsapp.com (1162)</li>
-<li>gmail.com (1130)</li>
-<li>mail.rhul.ac.uk (1028)</li>
+<li>web.whatsapp.com (1161)</li>
+<li>gmail.com (1131)</li>
+<li>mail.rhul.ac.uk (1026)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (870)</li>
-<li>forms.office.com (789)</li>
-<li>feedly.com (774)</li>
+<li>forms.office.com (788)</li>
+<li>feedly.com (777)</li>
 <li>www.theguardian.com (602)</li>
 <li>fritz.box (553)</li>
 <li>m365.cloud.microsoft (541)</li>
-<li>rhul.sharepoint.com (533)</li>
+<li>rhul.sharepoint.com (532)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (469)</li>
+<li>drive.google.com (471)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:59 www.sporcle.com</li>
+<ul><li> 11:29 mail.google.com</li>
+<li class='same'> 11:28 mail.google.com</li>
+<li> 11:28 projectreal.co.uk</li>
+<li> 11:26 mail.google.com</li>
+<li> 11:26 gmail.com</li>
+<li> 11:11 feedly.com</li>
+<li class='same'> 11:07 feedly.com</li>
+<li> 11:06 theconversation.com</li>
+<li> 11:06 feedly.com</li>
+<li> 11:06 mail.google.com</li>
+<li> 11:05 docs.google.com</li>
+<li> 11:05 drive.google.com</li>
+<li class='same'> 11:04 drive.google.com</li>
+<li> 11:02 chatgpt.com</li>
+<li> 11:02 chat.openai.com</li>
+<li> 11:00 www.sporcle.com</li>
+<li class='same'> 10:59 www.sporcle.com</li>
 <li> 10:55 chatgpt.com</li>
 <li> 10:55 chat.openai.com</li>
 <li> 10:55 web.whatsapp.com</li>
@@ -122830,37 +122846,4 @@ With number of accesses/minutes in parentheses
 <li> 15:19 www.google.com</li>
 <li> 15:18 www.facebook.com</li>
 <li class='same'> 15:17 www.facebook.com</li>
-<li> 15:17 chatgpt.com</li>
-<li class='same'> 15:16 chatgpt.com</li>
-<li> 15:16 chat.openai.com</li>
-<li> 15:12 www.google.com</li>
-<li> 15:02 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
-<li> 15:01 web.whatsapp.com</li>
-<li> 15:01 outlook.office365.com</li>
-<li class='same'> 15:00 outlook.office365.com</li>
-<li class='same'> 14:59 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 14:00 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:12 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-</ul>
-
-<br>
-
-<ul><li> 12:27 outlook.office365.com</li>
-<li> 12:27 mail.rhul.ac.uk</li>
-<li> 12:26 www.google.com</li>
-<li> 12:24 intranet.royalholloway.ac.uk</li>
-<li> 12:24 www.google.com</li>
-<li> 12:23 rhul.sharepoint.com</li>
-<li> 12:23 outlook.office365.com</li>
-<li class='same'> 12:22 outlook.office365.com</li>
-<li> 12:22 mail.rhul.ac.uk</li>
-<li> 12:22 forms.office.com</li>
 </ul>
