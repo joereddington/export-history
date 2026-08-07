@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5399)</li>
+<ol><li>www.google.com (5397)</li>
 <li>mail.google.com (5317)</li>
 <li>www.reddit.com (5120)</li>
-<li>outlook.office365.com (4636)</li>
+<li>outlook.office365.com (4624)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3771)</li>
 <li>docs.google.com (3282)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (601)</li>
 <li>fritz.box (553)</li>
 <li>m365.cloud.microsoft (541)</li>
-<li>rhul.sharepoint.com (531)</li>
+<li>rhul.sharepoint.com (528)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
 
@@ -221,7 +221,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:57 www.atwevents.co.uk</li>
+<ul><li> 07:06 <a href="https://www.bbc.co.uk/news/articles/c74g1gxvwlvo">Meta told to pay another $567m in New Mexico child safety lawsuit - BBC News</a></li>
+<li> 07:05 <a href="https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo">Further arrests in Thetford as disorder continues for third night - BBC News</a></li>
+<li> 07:03 <a href="https://www.bbc.co.uk/news/articles/c74g1gxvwlvo">Meta told to pay another $567m in New Mexico child safety lawsuit - BBC News</a></li>
+<li> 07:02 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<li> 06:58 www.google.com</li>
+<li> 06:57 www.atwevents.co.uk</li>
 <li> 06:49 www.google.com</li>
 <li> 06:49 www.britishtriathlon.org</li>
 <li> 06:48 www.google.com</li>
@@ -122841,30 +122846,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:01 www.reddit.com</li>
 <li> 18:00 www.windsorjudoclub.com</li>
 <li> 17:59 www.google.com</li>
-<li> 17:54 intranet.royalholloway.ac.uk</li>
-<li> 17:54 rhul.sharepoint.com</li>
-<li> 17:52 outlook.office365.com</li>
-<li> 17:49 discord.com</li>
-<li class='same'> 17:48 discord.com</li>
-<li class='same'> 17:47 discord.com</li>
-<li> 17:46 outlook.office365.com</li>
-<li> 17:43 dashboards.rhul.ac.uk</li>
-<li> 17:43 outlook.office365.com</li>
-<li class='same'> 17:42 outlook.office365.com</li>
-<li class='same'> 17:41 outlook.office365.com</li>
-<li> 17:39 scholar.google.com</li>
-<li> 17:39 www.google.com</li>
-<li> 17:38 outlook.office365.com</li>
-<li> 17:38 www.google.com</li>
-<li> 17:35 outlook.office365.com</li>
-<li class='same'> 17:33 outlook.office365.com</li>
-<li> 17:33 www.google.com</li>
-<li> 17:32 outlook.office365.com</li>
-<li class='same'> 17:29 outlook.office365.com</li>
-<li> 17:22 rhul.sharepoint.com</li>
-<li> 17:21 dashboards.rhul.ac.uk</li>
-<li class='same'> 17:20 dashboards.rhul.ac.uk</li>
-<li> 17:19 rhul.sharepoint.com</li>
-<li> 17:19 outlook.office365.com</li>
-<li class='same'> 17:18 outlook.office365.com</li>
 </ul>
