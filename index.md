@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5405)</li>
+<ol><li>www.google.com (5408)</li>
 <li>mail.google.com (5296)</li>
 <li>www.reddit.com (5120)</li>
 <li>outlook.office365.com (4656)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1877)</li>
 <li>moodle.royalholloway.ac.uk (1830)</li>
-<li>calendar.google.com (1505)</li>
+<li>calendar.google.com (1506)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1293)</li>
 <li>chat.openai.com (1280)</li>
@@ -88,7 +88,7 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (1161)</li>
 <li>gmail.com (1129)</li>
 <li>mail.rhul.ac.uk (1028)</li>
-<li>tvtropes.org (882)</li>
+<li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (870)</li>
 <li>forms.office.com (791)</li>
 <li>feedly.com (774)</li>
@@ -104,11 +104,43 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 07/08/26</H3>
+
+<br>
+
+<ul><li> 06:57 www.atwevents.co.uk</li>
+<li> 06:49 www.google.com</li>
+<li> 06:49 www.britishtriathlon.org</li>
+<li> 06:48 www.google.com</li>
+<li> 06:48 www.atwevents.co.uk</li>
+<li> 06:47 www.plotaroute.com</li>
+<li class='same'> 06:44 www.plotaroute.com</li>
+<li> 06:39 www.atwevents.co.uk</li>
+<li> 06:39 www.google.com</li>
+<li> 06:38 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Thursday, 06/08/26</H3>
 
 <br>
 
-<ul><li> 17:33 tvtropes.org</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 19:21 tvtropes.org</li>
+<li class='same'> 19:20 tvtropes.org</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:40 tvtropes.org</li>
+<li class='same'> 17:33 tvtropes.org</li>
 <li class='same'> 17:32 tvtropes.org</li>
 <li> 17:32 www.google.com</li>
 <li class='same'> 17:31 www.google.com</li>
