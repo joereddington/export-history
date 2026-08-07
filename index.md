@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5405)</li>
-<li>mail.google.com (5302)</li>
+<ol><li>www.google.com (5400)</li>
+<li>mail.google.com (5316)</li>
 <li>www.reddit.com (5120)</li>
-<li>outlook.office365.com (4646)</li>
+<li>outlook.office365.com (4644)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3769)</li>
+<li>duckduckgo.com (3771)</li>
 <li>docs.google.com (3282)</li>
-<li>chatgpt.com (2640)</li>
-<li>www.linkedin.com (2347)</li>
+<li>chatgpt.com (2642)</li>
+<li>www.linkedin.com (2350)</li>
 <li>bsky.app (2017)</li>
-<li>www.facebook.com (1877)</li>
+<li>www.facebook.com (1874)</li>
 <li>moodle.royalholloway.ac.uk (1830)</li>
-<li>calendar.google.com (1507)</li>
+<li>calendar.google.com (1511)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1291)</li>
-<li>chat.openai.com (1283)</li>
+<li>chat.openai.com (1284)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1161)</li>
 <li>gmail.com (1131)</li>
 <li>mail.rhul.ac.uk (1026)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (870)</li>
-<li>forms.office.com (788)</li>
+<li>forms.office.com (786)</li>
 <li>feedly.com (777)</li>
 <li>www.theguardian.com (602)</li>
 <li>fritz.box (553)</li>
@@ -108,7 +108,77 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:29 mail.google.com</li>
+<ul><li> 11:59 calendar.google.com</li>
+<li> 11:58 www.lutoncomiccon.com</li>
+<li> 11:58 duckduckgo.com</li>
+<li> 11:58 mail.google.com</li>
+<li class='same'> 11:57 mail.google.com</li>
+<li> 11:55 www.gov.uk</li>
+<li> 11:55 ewf.companieshouse.gov.uk</li>
+<li> 11:55 mail.google.com</li>
+<li> 11:54 ewf.companieshouse.gov.uk</li>
+<li> 11:52 mail.google.com</li>
+<li> 11:51 find-and-update.company-information.service.gov.uk</li>
+<li> 11:51 mail.google.com</li>
+<li class='same'> 11:50 mail.google.com</li>
+<li> 11:50 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:50 chatgpt.com</li>
+<li> 11:49 www.gov.uk</li>
+<li> 11:49 www.google.com</li>
+<li> 11:49 mail.google.com</li>
+<li> 11:49 s3.eu-west-2.amazonaws.com</li>
+<li> 11:49 find-and-update.company-information.service.gov.uk</li>
+<li> 11:48 identity.company-information.service.gov.uk</li>
+<li> 11:48 find-and-update.company-information.service.gov.uk</li>
+<li> 11:48 www.gov.uk</li>
+<li> 11:48 ewf.companieshouse.gov.uk</li>
+<li> 11:48 identity.company-information.service.gov.uk</li>
+<li> 11:48 ewf.companieshouse.gov.uk</li>
+<li> 11:47 identity.company-information.service.gov.uk</li>
+<li> 11:47 ewf.companieshouse.gov.uk</li>
+<li> 11:47 idam-ui.company-information.service.gov.uk</li>
+<li> 11:47 ewf.companieshouse.gov.uk</li>
+<li> 11:47 www.gov.uk</li>
+<li> 11:47 duckduckgo.com</li>
+<li> 11:47 s3.eu-west-2.amazonaws.com</li>
+<li> 11:47 find-and-update.company-information.service.gov.uk</li>
+<li> 11:47 identity.company-information.service.gov.uk</li>
+<li> 11:47 find-and-update.company-information.service.gov.uk</li>
+<li class='same'> 11:46 find-and-update.company-information.service.gov.uk</li>
+<li> 11:46 identity.company-information.service.gov.uk</li>
+<li> 11:46 find-and-update.company-information.service.gov.uk</li>
+<li> 11:46 beta.companieshouse.gov.uk</li>
+<li> 11:46 ewf.companieshouse.gov.uk</li>
+<li> 11:46 signin.account.gov.uk</li>
+<li> 11:46 oidc.account.gov.uk</li>
+<li> 11:46 identity.company-information.service.gov.uk</li>
+<li> 11:46 signin.account.gov.uk</li>
+<li class='same'> 11:45 signin.account.gov.uk</li>
+<li> 11:45 oidc.account.gov.uk</li>
+<li> 11:45 identity.company-information.service.gov.uk</li>
+<li> 11:45 ewf.companieshouse.gov.uk</li>
+<li> 11:45 idam-ui.company-information.service.gov.uk</li>
+<li> 11:45 ewf.companieshouse.gov.uk</li>
+<li> 11:45 www.gov.uk</li>
+<li> 11:45 www.google.com</li>
+<li> 11:45 gov.uk</li>
+<li> 11:45 mail.google.com</li>
+<li> 11:45 calendar.google.com</li>
+<li class='same'> 11:44 calendar.google.com</li>
+<li> 11:44 mail.google.com</li>
+<li class='same'> 11:43 mail.google.com</li>
+<li class='same'> 11:40 mail.google.com</li>
+<li class='same'> 11:38 mail.google.com</li>
+<li class='same'> 11:37 mail.google.com</li>
+<li> 11:35 www.linkedin.com</li>
+<li class='same'> 11:34 www.linkedin.com</li>
+<li class='same'> 11:33 www.linkedin.com</li>
+<li> 11:32 chatgpt.com</li>
+<li> 11:32 chat.openai.com</li>
+<li> 11:31 calendar.google.com</li>
+<li> 11:30 mail-attachment.googleusercontent.com</li>
+<li> 11:30 mail.google.com</li>
+<li class='same'> 11:29 mail.google.com</li>
 <li class='same'> 11:28 mail.google.com</li>
 <li> 11:28 projectreal.co.uk</li>
 <li> 11:26 mail.google.com</li>
@@ -122811,39 +122881,4 @@ With number of accesses/minutes in parentheses
 <li> 17:09 outlook.office365.com</li>
 <li> 16:40 www.theguardian.com</li>
 <li> 16:40 www.google.com</li>
-<li> 16:38 outlook.office365.com</li>
-<li> 16:36 www.google.com</li>
-<li> 16:36 outlook.office365.com</li>
-<li> 16:27 www.google.com</li>
-<li> 16:25 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
-<li class='same'> 16:10 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
-<li> 15:57 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 15:57 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 15:57 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 15:57 experience.elluciancloud.ie</li>
-<li> 15:54 forms.office.com</li>
-<li class='same'> 15:45 forms.office.com</li>
-<li> 15:43 dashboards.rhul.ac.uk</li>
-<li class='same'> 15:42 dashboards.rhul.ac.uk</li>
-<li> 15:37 experience.elluciancloud.ie</li>
-<li> 15:37 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 15:34 www.instagram.com</li>
-<li> 15:34 gasuco.com</li>
-<li> 15:34 www.google.com</li>
-<li> 15:32 www.johnabbott.qc.ca</li>
-<li> 15:32 www.google.com</li>
-<li> 15:31 www.tandfonline.com</li>
-<li> 15:31 scholar.google.com</li>
-<li> 15:30 www.researchgate.net</li>
-<li> 15:30 www.tandfonline.com</li>
-<li> 15:29 scholar.google.com</li>
-<li> 15:29 www.google.com</li>
-<li> 15:25 Local file</li>
-<li> 15:25 www.researchgate.net</li>
-<li> 15:24 www.w12conferences.co.uk</li>
-<li> 15:23 www.google.com</li>
-<li> 15:19 www.facebook.com</li>
-<li> 15:19 www.google.com</li>
-<li> 15:18 www.facebook.com</li>
-<li class='same'> 15:17 www.facebook.com</li>
 </ul>
