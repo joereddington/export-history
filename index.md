@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5397)</li>
+<ol><li>www.google.com (5406)</li>
 <li>mail.google.com (5317)</li>
-<li>www.reddit.com (5120)</li>
+<li>www.reddit.com (5124)</li>
 <li>outlook.office365.com (4624)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3771)</li>
@@ -104,11 +104,42 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 08/08/26</H3>
+
+<br>
+
+<ul><li> 08:19 www.reddit.com</li>
+<li> 08:19 www.google.com</li>
+<li> 08:18 pokemondb.net</li>
+<li> 08:18 www.google.com</li>
+<li> 08:18 www.reddit.com</li>
+<li class='same'> 08:17 www.reddit.com</li>
+<li class='same'> 08:16 www.reddit.com</li>
+<li> 08:15 www.google.com</li>
+<li> 08:15 theoodie.co.uk</li>
+<li> 08:15 www.google.com</li>
+<li class='same'> 08:10 www.google.com</li>
+<li class='same'> 08:09 www.google.com</li>
+<li> 08:09 spectator.com</li>
+<li> 07:56 www.atwevents.co.uk</li>
+<li> 07:56 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:24 www.google.com</li>
+</ul>
+
 <H3>Friday, 07/08/26</H3>
 
 <br>
 
-<ul><li> 12:00 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 12:25 www.google.com</li>
+<li> 12:00 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 11:59 mail.google.com</li>
 <li> 11:59 calendar.google.com</li>
 <li> 11:58 www.lutoncomiccon.com</li>
