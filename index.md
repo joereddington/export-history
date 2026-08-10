@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5397)</li>
-<li>mail.google.com (5313)</li>
+<ol><li>www.google.com (5394)</li>
+<li>mail.google.com (5337)</li>
 <li>www.reddit.com (5122)</li>
 <li>outlook.office365.com (4621)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3771)</li>
-<li>docs.google.com (3282)</li>
-<li>chatgpt.com (2642)</li>
-<li>www.linkedin.com (2348)</li>
+<li>duckduckgo.com (3778)</li>
+<li>docs.google.com (3283)</li>
+<li>chatgpt.com (2644)</li>
+<li>www.linkedin.com (2349)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1873)</li>
 <li>moodle.royalholloway.ac.uk (1830)</li>
-<li>calendar.google.com (1505)</li>
+<li>calendar.google.com (1506)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1291)</li>
-<li>chat.openai.com (1284)</li>
+<li>chat.openai.com (1285)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1159)</li>
-<li>gmail.com (1128)</li>
+<li>gmail.com (1130)</li>
 <li>mail.rhul.ac.uk (1025)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (870)</li>
 <li>forms.office.com (786)</li>
 <li>feedly.com (776)</li>
-<li>www.theguardian.com (596)</li>
-<li>fritz.box (553)</li>
+<li>www.theguardian.com (593)</li>
+<li>fritz.box (555)</li>
 <li>m365.cloud.microsoft (541)</li>
 <li>rhul.sharepoint.com (528)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -104,11 +104,112 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Monday, 10/08/26</H3>
+
+<br>
+
+<ul><li> 06:58 mail.google.com</li>
+<li class='same'> 06:57 mail.google.com</li>
+<li> 06:57 gmail.com</li>
+<li> 06:57 www.ucas.com</li>
+<li class='same'> 06:56 www.ucas.com</li>
+<li class='same'> 06:55 www.ucas.com</li>
+<li> 06:55 chatgpt.com</li>
+<li class='same'> 06:54 chatgpt.com</li>
+<li> 06:54 chat.openai.com</li>
+<li> 06:54 duckduckgo.com</li>
+<li> 06:53 www.ucas.com</li>
+<li class='same'> 06:52 www.ucas.com</li>
+<li class='same'> 06:51 www.ucas.com</li>
+<li class='same'> 06:50 www.ucas.com</li>
+<li> 06:49 www.royalholloway.ac.uk</li>
+<li> 06:49 royalholloway.ac.uk</li>
+<li> 06:48 www.royalholloway.ac.uk</li>
+<li> 06:47 www.law.ac.uk</li>
+<li> 06:47 www.royalholloway.ac.uk</li>
+<li> 06:47 duckduckgo.com</li>
+<li> 06:47 www.royalholloway.ac.uk</li>
+<li> 06:47 duckduckgo.com</li>
+<li class='same'> 06:46 duckduckgo.com</li>
+<li> 06:46 www.royalholloway.ac.uk</li>
+<li> 06:46 duckduckgo.com</li>
+<li> 06:45 www.vinted.co.uk</li>
+<li> 06:45 duckduckgo.com</li>
+<li> 06:45 mail.google.com</li>
+<li class='same'> 06:44 mail.google.com</li>
+<li> 06:44 www.woodlandavenuepractice.nhs.uk</li>
+<li class='same'> 06:43 www.woodlandavenuepractice.nhs.uk</li>
+<li> 06:43 mail.google.com</li>
+<li class='same'> 06:41 mail.google.com</li>
+<li> 06:41 www.qiq.support</li>
+<li> 06:41 www.google.com</li>
+<li> 06:41 mail.google.com</li>
+<li class='same'> 06:40 mail.google.com</li>
+<li class='same'> 06:38 mail.google.com</li>
+<li> 06:37 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:36 calendar.google.com</li>
+<li> 06:36 mail.google.com</li>
+<li> 06:36 www.qiq.support</li>
+<li> 06:36 www.google.com</li>
+<li> 06:36 mail.google.com</li>
+<li> 06:36 www.linkedin.com</li>
+<li> 06:35 mail.google.com</li>
+<li class='same'> 06:32 mail.google.com</li>
+<li class='same'> 06:27 mail.google.com</li>
+<li class='same'> 06:26 mail.google.com</li>
+<li> 06:25 www.gov.uk</li>
+<li> 06:25 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 06:23 find-and-update.company-information.service.gov.uk</li>
+<li> 06:21 mail.google.com</li>
+<li class='same'> 06:20 mail.google.com</li>
+<li> 06:20 accounts.google.com</li>
+<li> 06:20 mail.google.com</li>
+<li> 06:20 gmail.com</li>
+<li> 06:20 accounts.google.com</li>
+<li> 06:20 mail.google.com</li>
+<li> 06:19 calendar.google.com</li>
+<li> 06:19 mail.google.com</li>
+<li> 06:19 mail-attachment.googleusercontent.com</li>
+<li> 06:19 mail.google.com</li>
+<li class='same'> 06:18 mail.google.com</li>
+<li class='same'> 06:17 mail.google.com</li>
+<li class='same'> 06:16 mail.google.com</li>
+<li> 06:15 www.goodreads.com</li>
+<li class='same'> 06:14 www.goodreads.com</li>
+<li> 06:14 <a href="https://en.wikipedia.org/wiki/Alchemy">Alchemy - Wikipedia</a></li>
+<li> 06:14 duckduckgo.com</li>
+<li> 06:14 www.goodreads.com</li>
+<li> 06:13 docs.google.com</li>
+<li> 06:13 fritz.box</li>
+<li class='same'> 06:12 fritz.box</li>
+<li> 06:12 detectportal.firefox.com</li>
+</ul>
+
 <H3>Sunday, 09/08/26</H3>
 
 <br>
 
-<ul><li> 09:57 www.parkrun.org.uk</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 23:24 bulbapedia.bulbagarden.net</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 22:31 bulbapedia.bulbagarden.net</li>
+<li class='same'> 22:24 bulbapedia.bulbagarden.net</li>
+<li class='same'> 22:23 bulbapedia.bulbagarden.net</li>
+<li class='same'> 22:08 bulbapedia.bulbagarden.net</li>
+<li class='same'> 22:07 bulbapedia.bulbagarden.net</li>
+<li> 22:07 www.google.com</li>
+<li> 22:07 www.parkrun.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:57 www.parkrun.org.uk</li>
 <li> 09:55 www.google.com</li>
 </ul>
 
@@ -14467,16 +14568,12 @@ With number of accesses/minutes in parentheses
 <li> 16:22 accounts.firefox.com</li>
 <li> 16:22 www.raspberrypi.com</li>
 <li> 16:22 www.mozilla.org</li>
-<li> 16:06 coursera-assessments.s3.amazonaws.com</li>
 <li> 16:06 www.coursera.org</li>
 <li class='same'> 16:05 www.coursera.org</li>
 <li> 16:01 ce0997li.webitrent.com</li>
 <li class='same'> 16:00 ce0997li.webitrent.com</li>
 <li> 16:00 login.microsoftonline.com</li>
 <li> 16:00 ce0997li.webitrent.com</li>
-<li> 15:43 coursera-assessments.s3.amazonaws.com</li>
-<li> 15:42 www.coursera.org</li>
-<li> 15:42 coursera-assessments.s3.amazonaws.com</li>
 <li> 15:42 www.coursera.org</li>
 <li> 15:41 uol-cyber-security.turnitin.com</li>
 <li> 15:41 www.coursera.org</li>
@@ -14503,14 +14600,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:23 www.coursera.org</li>
 <li> 14:21 uol-cyber-security.turnitin.com</li>
 <li> 14:21 www.coursera.org</li>
-<li> 14:20 coursera-assessments.s3.amazonaws.com</li>
-<li class='same'> 14:19 coursera-assessments.s3.amazonaws.com</li>
-<li> 14:19 www.coursera.org</li>
+<li class='same'> 14:19 www.coursera.org</li>
 <li> 14:17 uol-cyber-security.turnitin.com</li>
-<li> 14:17 coursera-assessments.s3.amazonaws.com</li>
 <li> 14:16 www.coursera.org</li>
-<li> 14:14 coursera-assessments.s3.amazonaws.com</li>
-<li> 14:14 d3c33hcgiwev3.cloudfront.net</li>
 <li> 14:13 uol-cyber-security.turnitin.com</li>
 <li> 14:12 www.coursera.org</li>
 <li class='same'> 14:11 www.coursera.org</li>
@@ -14540,7 +14632,6 @@ With number of accesses/minutes in parentheses
 <li> 13:13 www.meetingsbooker.com</li>
 <li> 13:13 venue.royalholloway.ac.uk</li>
 <li> 13:13 duckduckgo.com</li>
-<li> 13:00 statics.teams.cdn.office.net</li>
 <li> 13:00 go.microsoft.com</li>
 </ul>
 
@@ -14592,7 +14683,6 @@ With number of accesses/minutes in parentheses
 <li> 10:41 chatgpt.com</li>
 <li class='same'> 10:39 chatgpt.com</li>
 <li> 10:39 chat.openai.com</li>
-<li> 10:38 doc-0o-04-docstext.googleusercontent.com</li>
 <li> 10:38 docs.google.com</li>
 <li> 10:38 drive.google.com</li>
 <li> 10:36 docs.google.com</li>
@@ -122806,26 +122896,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 19:23 www.google.com</li>
-<li class='same'> 19:01 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 16:28 www.google.com</li>
-<li class='same'> 16:27 www.google.com</li>
-<li> 16:27 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:56 calendar.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:36 www.theguardian.com</li>
-<li class='same'> 11:18 www.theguardian.com</li>
-<li> 10:57 www.google.com</li>
-<li class='same'> 10:56 www.google.com</li>
-<li class='same'> 10:55 www.google.com</li>
 </ul>
