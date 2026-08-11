@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5394)</li>
+<ol><li>www.google.com (5401)</li>
 <li>mail.google.com (5337)</li>
 <li>www.reddit.com (5122)</li>
 <li>outlook.office365.com (4621)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3778)</li>
+<li>duckduckgo.com (3780)</li>
 <li>docs.google.com (3283)</li>
-<li>chatgpt.com (2644)</li>
+<li>chatgpt.com (2648)</li>
 <li>www.linkedin.com (2349)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1873)</li>
 <li>moodle.royalholloway.ac.uk (1830)</li>
-<li>calendar.google.com (1506)</li>
+<li>calendar.google.com (1510)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1291)</li>
-<li>chat.openai.com (1285)</li>
+<li>chat.openai.com (1286)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1159)</li>
 <li>gmail.com (1130)</li>
@@ -91,9 +91,9 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (870)</li>
 <li>forms.office.com (786)</li>
-<li>feedly.com (776)</li>
+<li>feedly.com (777)</li>
 <li>www.theguardian.com (593)</li>
-<li>fritz.box (555)</li>
+<li>fritz.box (556)</li>
 <li>m365.cloud.microsoft (541)</li>
 <li>rhul.sharepoint.com (528)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -104,11 +104,79 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 11/08/26</H3>
+
+<br>
+
+<ul><li> 07:29 chatgpt.com</li>
+<li class='same'> 07:26 chatgpt.com</li>
+<li class='same'> 07:25 chatgpt.com</li>
+<li class='same'> 07:24 chatgpt.com</li>
+<li> 07:24 chat.openai.com</li>
+<li> 07:24 calendar.google.com</li>
+<li> 07:23 www.nytimes.com</li>
+<li> 07:23 duckduckgo.com</li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/"></a></li>
+<li> 07:21 garymarcus.substack.com</li>
+<li> 07:18 www.lbc.co.uk</li>
+<li> 07:18 www.gov.uk</li>
+<li> 07:18 duckduckgo.com</li>
+<li> 07:18 calendar.google.com</li>
+<li class='same'> 07:17 calendar.google.com</li>
+<li> 07:11 feedly.com</li>
+<li> 07:09 calendar.google.com</li>
+<li> 07:08 fritz.box</li>
+<li> 07:08 detectportal.firefox.com</li>
+</ul>
+
 <H3>Monday, 10/08/26</H3>
 
 <br>
 
-<ul><li> 06:58 mail.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 16:00 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 14:43 bulbapedia.bulbagarden.net</li>
+<li class='same'> 14:42 bulbapedia.bulbagarden.net</li>
+<li class='same'> 14:41 bulbapedia.bulbagarden.net</li>
+<li class='same'> 14:40 bulbapedia.bulbagarden.net</li>
+<li class='same'> 14:39 bulbapedia.bulbagarden.net</li>
+<li> 14:39 bikepacking.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:01 bikepacking.com</li>
+<li> 11:01 www.google.com</li>
+<li class='same'> 10:52 www.google.com</li>
+<li class='same'> 10:51 www.google.com</li>
+<li class='same'> 10:50 www.google.com</li>
+<li> 10:50 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:57 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 07:57 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 07:20 www.google.com</li>
+<li class='same'> 07:17 www.google.com</li>
+<li> 07:17 bulbapedia.bulbagarden.net</li>
+<li> 06:58 mail.google.com</li>
 <li class='same'> 06:57 mail.google.com</li>
 <li> 06:57 gmail.com</li>
 <li> 06:57 www.ucas.com</li>
@@ -14558,14 +14626,9 @@ With number of accesses/minutes in parentheses
 <li> 16:29 languagetool.org</li>
 <li> 16:28 www.coupert.com</li>
 <li> 16:28 welcome.adblockplus.org</li>
-<li> 16:28 accounts.firefox.com</li>
 <li> 16:28 mail.google.com</li>
 <li> 16:28 gmail.com</li>
-<li> 16:27 accounts.firefox.com</li>
 <li> 16:25 ce0997li.webitrent.com</li>
-<li> 16:25 accounts.firefox.com</li>
-<li> 16:25 ce0997li.webitrent.com</li>
-<li> 16:22 accounts.firefox.com</li>
 <li> 16:22 www.raspberrypi.com</li>
 <li> 16:22 www.mozilla.org</li>
 <li> 16:06 www.coursera.org</li>
@@ -122891,9 +122954,4 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 20:00 www.google.com</li>
 <li> 19:58 www.bhf.org.uk</li>
 <li> 19:58 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 19:23 www.google.com</li>
 </ul>
