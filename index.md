@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5401)</li>
+<ol><li>www.google.com (5413)</li>
 <li>mail.google.com (5337)</li>
 <li>www.reddit.com (5122)</li>
 <li>outlook.office365.com (4621)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3780)</li>
+<li>duckduckgo.com (3783)</li>
 <li>docs.google.com (3283)</li>
-<li>chatgpt.com (2648)</li>
+<li>chatgpt.com (2667)</li>
 <li>www.linkedin.com (2349)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1873)</li>
-<li>moodle.royalholloway.ac.uk (1830)</li>
-<li>calendar.google.com (1510)</li>
+<li>moodle.royalholloway.ac.uk (1834)</li>
+<li>calendar.google.com (1511)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1291)</li>
 <li>chat.openai.com (1286)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (786)</li>
 <li>feedly.com (777)</li>
 <li>www.theguardian.com (593)</li>
-<li>fritz.box (556)</li>
+<li>fritz.box (562)</li>
 <li>m365.cloud.microsoft (541)</li>
 <li>rhul.sharepoint.com (528)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -104,11 +104,96 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 12/08/26</H3>
+
+<br>
+
+<ul><li> 06:58 fritz.box</li>
+<li> 06:58 moodle.royalholloway.ac.uk</li>
+<li class='same'> 06:57 moodle.royalholloway.ac.uk</li>
+<li> 06:57 eur03.safelinks.protection.outlook.com</li>
+<li> 06:49 projects.cs.rhul.ac.uk</li>
+<li> 06:46 <a href="https://joereddington.com/2025/10/30/things-i-say-to-project-students.html">Things I say to project students | Joe Reddington</a></li>
+<li> 06:43 moodle.royalholloway.ac.uk</li>
+<li> 06:42 login.microsoftonline.com</li>
+<li> 06:42 moodle.royalholloway.ac.uk</li>
+<li> 06:35 <a href="https://joereddington.com/2025/10/30/things-i-say-to-project-students.html">Things I say to project students | Joe Reddington</a></li>
+<li> 06:35 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 06:35 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 06:32 chatgpt.com</li>
+<li> 06:22 duckduckgo.com</li>
+<li> 06:22 fritz.box</li>
+<li class='same'> 06:21 fritz.box</li>
+</ul>
+
 <H3>Tuesday, 11/08/26</H3>
 
 <br>
 
-<ul><li> 07:29 chatgpt.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 19:23 fritz.box</li>
+</ul>
+
+<br>
+
+<ul><li> 17:40 retractionwatch.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:55 retractionwatch.com</li>
+<li> 11:54 www.google.com</li>
+<li class='same'> 11:53 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:49 www.google.com</li>
+<li> 10:49 www.aljazeera.com</li>
+<li> 10:49 www.google.com</li>
+<li> 10:49 www.etsy.com</li>
+<li> 10:49 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:56 fritz.box</li>
+</ul>
+
+<br>
+
+<ul><li> 07:55 chatgpt.com</li>
+<li class='same'> 07:54 chatgpt.com</li>
+<li class='same'> 07:53 chatgpt.com</li>
+<li class='same'> 07:52 chatgpt.com</li>
+<li class='same'> 07:51 chatgpt.com</li>
+<li class='same'> 07:49 chatgpt.com</li>
+<li class='same'> 07:48 chatgpt.com</li>
+<li class='same'> 07:47 chatgpt.com</li>
+<li> 07:46 learn.chatgpt.com</li>
+<li> 07:46 chatgpt.com</li>
+<li class='same'> 07:45 chatgpt.com</li>
+<li> 07:44 www.ai-toolbox.co</li>
+<li> 07:44 duckduckgo.com</li>
+<li> 07:44 chatgpt.com</li>
+<li> 07:44 help.openai.com</li>
+<li> 07:43 chatgpt.com</li>
+<li class='same'> 07:42 chatgpt.com</li>
+<li class='same'> 07:41 chatgpt.com</li>
+<li class='same'> 07:39 chatgpt.com</li>
+<li class='same'> 07:38 chatgpt.com</li>
+<li> 07:37 calendar.google.com</li>
+<li> 07:34 chatgpt.com</li>
+<li class='same'> 07:33 chatgpt.com</li>
+<li> 07:33 fritz.box</li>
+<li> 07:32 chatgpt.com</li>
+<li> 07:31 blogs.timesofisrael.com</li>
+<li> 07:31 duckduckgo.com</li>
+<li> 07:31 theonion.com</li>
+<li> 07:29 chatgpt.com</li>
 <li class='same'> 07:26 chatgpt.com</li>
 <li class='same'> 07:25 chatgpt.com</li>
 <li class='same'> 07:24 chatgpt.com</li>
@@ -132,6 +217,19 @@ With number of accesses/minutes in parentheses
 <li> 07:09 calendar.google.com</li>
 <li> 07:08 fritz.box</li>
 <li> 07:08 detectportal.firefox.com</li>
+<li> 06:47 www.aljazeera.com</li>
+<li> 06:47 www.google.com</li>
+<li> 06:47 storymaps.arcgis.com</li>
+<li> 06:47 www.google.com</li>
+<li> 06:46 <a href="https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia">Ukraine drone strike on oil refinery deep inside Russia kills at least 13 | Ukraine | The Guardian</a></li>
+<li> 06:46 www.travelbag.co.uk</li>
+<li> 06:45 <a href="https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia">Ukraine drone strike on oil refinery deep inside Russia kills at least 13 | Ukraine | The Guardian</a></li>
+<li> 06:44 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/food/2026/aug/11/the-myth-of-anthony-bourdain-how-the-bad-boy-chef-became-a-hero-to-boozehounds-and-bullies">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/books/2026/aug/10/barack-obama-launches-podcast-about-books-that-shaped-his-worldview">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:37 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
+<li> 06:37 www.telegraph.co.uk</li>
 </ul>
 
 <H3>Monday, 10/08/26</H3>
@@ -142,7 +240,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:00 www.google.com</li>
+<ul><li class='same'> 20:12 www.telegraph.co.uk</li>
+<li> 20:12 faculty.educ.cam.ac.uk</li>
+<li> 20:11 www.asatunews.co.id</li>
+<li class='same'> 20:10 www.asatunews.co.id</li>
+<li> 20:10 www.google.com</li>
+<li> 20:09 www.sekbernews.id</li>
+<li> 20:08 www.google.com</li>
+<li> 20:08 goodlawproject.org</li>
+<li> 20:07 www.google.com</li>
+<li> 20:06 www.telegraph.co.uk</li>
+<li> 20:06 www.google.com</li>
+<li> 20:06 www.telegraph.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 17:47 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:00 www.google.com</li>
 </ul>
 
 <br>
@@ -823,12 +942,12 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 15:31 www.google.com</li>
-<li> 15:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 15:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:31 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
+<li class='same'> 15:02 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 14:59 <a href="https://www.theguardian.com/lifeandstyle/2026/aug/03/fitness-fans-surgery-injury-health">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:58 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 14:58 <a href="https://www.theguardian.com/media/2026/aug/03/sunday-times-and-sun-columnist-journalist-rod-liddle-dies-aged-66">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:58 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:58 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 14:56 <a href="https://www.theguardian.com/politics/2026/aug/03/nigel-farage-admits-discussed-returning-reform-leader-months-earlier">Latest news, sport and opinion from the Guardian</a></li>
 <li> 14:46 www.instagram.com</li>
 <li> 14:46 www.linkedin.com</li>
@@ -840,7 +959,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 12:06 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 12:06 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
 </ul>
 
@@ -868,7 +987,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:14 fritz.box</li>
 <li> 09:14 detectportal.firefox.com</li>
 <li> 09:03 <a href="https://www.theguardian.com/world/2026/aug/03/hungary-president-poll-hide-the-pain-harold">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:02 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:02 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 08:36 deeplearningindaba.com</li>
 <li class='same'> 08:35 deeplearningindaba.com</li>
 <li> 08:35 www.google.com</li>
@@ -981,7 +1100,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 11:25 <a href="https://joereddington.com/2026/07/15/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 11:25 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 11:18 www.facebook.com</li>
 <li> 11:16 www.urbandictionary.com</li>
@@ -1045,7 +1164,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:37 mail.google.com</li>
 <li> 09:36 <a href="https://www.theguardian.com/environment/2026/jul/31/england-hosepipe-ban-drought-private-schools-golf-courses-green-grass">‘It’s alright for them’: private schools and golf courses stay green despite England’s hosepipe bans | Drought | The Guardian</a></li>
 <li> 09:36 <a href="https://www.theguardian.com/politics/2026/jul/30/diane-abbott-and-joani-reid-readmitted-as-labour-mps">Diane Abbott and Joani Reid readmitted as Labour MPs | Labour | The Guardian</a></li>
-<li> 09:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 09:35 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 09:35 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
 <li> 09:35 mail.google.com</li>
 <li> 09:33 qbo.intuit.com</li>
@@ -1061,7 +1180,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:49 <a href="https://www.theguardian.com/politics/2026/jul/29/george-cottrell-transferred-2m-mother-beforer-reform-uk-donations">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:49 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 08:49 www.better.org.uk</li>
 <li> 08:33 www.amazon.co.uk</li>
 <li class='same'> 08:32 www.amazon.co.uk</li>
@@ -1329,9 +1448,9 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 18:39 www.google.com</li>
 <li> 18:37 <a href="https://www.theguardian.com/us-news/2026/jul/24/maga-influencer-laura-loomer-reverses-course-on-ukraine-after-kyiv-visit">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:37 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 18:36 <a href="https://www.theguardian.com/uk-news/2026/jul/24/most-people-arrested-during-henry-nowak-protests-had-been-reported-for-domestic-abuse">Latest news, sport and opinion from the Guardian</a></li>
-<li> 18:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:36 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 18:35 app.heyguest.ai</li>
 <li> 18:30 uk.gomotionapp.com</li>
 <li> 18:20 user.sportngin.com</li>
@@ -1442,7 +1561,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:20 tvtropes.org</li>
 <li class='same'> 14:15 tvtropes.org</li>
 <li class='same'> 13:57 tvtropes.org</li>
-<li> 13:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 13:57 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 13:57 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
 <li> 13:56 <a href="https://www.theguardian.com/politics/2026/jul/23/anton-jager-groundbreaking-book-being-devoured-by-left">Meet the man whose groundbreaking book is being devoured by the left | Politics | The Guardian</a></li>
 </ul>
@@ -1466,7 +1585,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:45 <a href="https://www.theguardian.com/politics/2026/jul/23/anton-jager-groundbreaking-book-being-devoured-by-left">Meet the man whose groundbreaking book is being devoured by the left | Politics | The Guardian</a></li>
-<li> 11:44 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:44 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 </ul>
 
 <br>
@@ -1534,7 +1653,7 @@ With number of accesses/minutes in parentheses
 <li> 21:19 127.0.0.1:4000</li>
 <li> 21:10 <a href="https://joereddington.com/Comics/">2022-05-01 | Joe’s Comics</a></li>
 <li> 21:10 <a href="https://joereddington.com/Comics"></a></li>
-<li> 21:10 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 21:10 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 21:10 <a href="https://joereddington.com/comics">Joe Reddington | Things I make.</a></li>
 <li> 21:03 192.168.178.1</li>
 <li class='same'> 21:02 192.168.178.1</li>
@@ -1707,7 +1826,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:24 <a href="https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb">Rebel Wilson wins defamation case brought by co-star after bitter dispute | Australia news | The Guardian</a></li>
-<li> 08:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:23 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 08:21 outlook.office365.com</li>
 <li class='same'> 08:20 outlook.office365.com</li>
 <li class='same'> 08:19 outlook.office365.com</li>
@@ -2098,16 +2217,16 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:28 www.buzzfeed.com</li>
-<li> 07:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li class='same'> 07:15 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:27 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
+<li class='same'> 07:15 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 07:11 <a href="https://www.theguardian.com/culture/2026/jul/17/christopher-nolan-forces-all-rivals-to-flee-as-he-dominates-the-battle-of-the-blockbusters">O what a tangled web: unweaving the weirdest fan rumours surrounding Spider-Man: Brand New Day | Spider-Man | The Guardian</a></li>
 <li> 07:11 <a href="https://www.theguardian.com/film/2026/jun/26/spider-man-brand-new-day-fan-rumours-week-in-geek">The Guide #252: Christopher Nolan forces ​all rivals to flee as he dominates the battle of the blockbusters | Culture | The Guardian</a></li>
 <li> 07:10 <a href="https://www.theguardian.com/culture/2026/jul/17/christopher-nolan-forces-all-rivals-to-flee-as-he-dominates-the-battle-of-the-blockbusters">O what a tangled web: unweaving the weirdest fan rumours surrounding Spider-Man: Brand New Day | Spider-Man | The Guardian</a></li>
-<li> 07:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:10 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 07:08 <a href="https://www.theguardian.com/tv-and-radio/2026/jul/17/ann-droid-review-diane-morgan-sue-johnston-robot-comedy-bbc">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:07 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:07 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 07:05 <a href="https://www.theguardian.com/politics/2026/jul/18/nigel-farage-clash-times-editor-reform">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:05 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 07:04 app.heyguest.ai</li>
 </ul>
 
@@ -2255,13 +2374,13 @@ With number of accesses/minutes in parentheses
 <li> 06:24 www.google.com</li>
 <li class='same'> 06:23 www.google.com</li>
 <li> 06:20 <a href="https://www.theguardian.com/politics/2026/jul/16/liz-truss-london-cpac-event">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:19 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:19 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:13 <a href="https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:13 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:13 <a href="https://www.theguardian.com/politics/2026/jul/16/andy-burnham-keir-starmer-no-10-advisers">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:12 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:12 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
-<li> 06:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:12 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:12 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
 <li> 06:12 <a href="https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:05 tvtropes.org</li>
@@ -2282,10 +2401,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:36 tvtropes.org</li>
 <li class='same'> 19:33 tvtropes.org</li>
 <li> 19:33 www.google.com</li>
-<li> 19:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:30 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 19:29 <a href="https://www.theguardian.com/politics/2026/jul/16/burnhams-black-box-plans-for-cabinet-send-westminster-into-hysteria">Burnham’s ‘black box’ plans for cabinet send Westminster into hysteria | Andy Burnham | The Guardian</a></li>
 <li class='same'> 19:28 <a href="https://www.theguardian.com/politics/2026/jul/16/burnhams-black-box-plans-for-cabinet-send-westminster-into-hysteria">Burnham’s ‘black box’ plans for cabinet send Westminster into hysteria | Andy Burnham | The Guardian</a></li>
-<li> 19:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:27 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 19:22 www.google.com</li>
 <li class='same'> 19:21 www.google.com</li>
 <li> 19:21 subslikescript.com</li>
@@ -2361,7 +2480,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:42 <a href="https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:41 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 12:41 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
 </ul>
 
@@ -2891,7 +3010,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:52 <a href="https://www.theguardian.com/politics/2026/jul/13/andy-burnham-confirmed-labour-leader-landslide-support">Andy Burnham secures Labour leadership with landslide support of MPs | Andy Burnham | The Guardian</a></li>
-<li> 11:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:49 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
 <li> 11:49 moodle.royalholloway.ac.uk</li>
 <li> 11:49 eur03.safelinks.protection.outlook.com</li>
@@ -3824,18 +3943,18 @@ With number of accesses/minutes in parentheses
 <li> 07:51 themeads.org.uk</li>
 <li> 07:51 www.google.com</li>
 <li> 07:38 <a href="https://www.theguardian.com/politics/2026/jul/08/nigel-farage-win-clacton-credibility-survive-reform">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:38 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 07:37 <a href="https://www.theguardian.com/politics/2026/jul/07/nigel-farage-fact-check-truth-five-resignation-statements-reform">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:37 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:37 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li> 06:13 www.natesilver.net</li>
 <li class='same'> 06:12 www.natesilver.net</li>
-<li> 06:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:12 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:10 <a href="https://www.theguardian.com/politics/2026/jul/07/nigel-farage-quits-as-mp-amid-scrunity-over-finances-clacton-reform">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:10 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:10 www.google.com</li>
 </ul>
 
@@ -3928,7 +4047,7 @@ With number of accesses/minutes in parentheses
 <li> 12:57 herts365.sharepoint.com</li>
 <li> 12:57 click.comms.herts.ac.uk</li>
 <li> 12:55 <a href="https://joereddington.com/2025/10/30/things-i-say-to-project-students.html">Things I say to project students | Joe Reddington</a></li>
-<li> 12:55 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:55 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:55 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:36 calendar.google.com</li>
 <li> 12:33 www.linkedin.com</li>
@@ -4022,11 +4141,11 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 22:36 auth.wikimedia.org</li>
-<li> 22:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:36 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 22:33 <a href="https://www.theguardian.com/commentisfree/2026/jul/06/farage-on-brink-labour-cant-rest-easy-reform-funding-andy-burnham">Latest news, sport and opinion from the Guardian</a></li>
-<li> 22:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:33 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 22:30 <a href="https://www.theguardian.com/football/2026/jul/06/uefa-fifa-folarin-balogun-controversy-decision-usa-belgium-gianni-infantino-aleksander-ceferin">Latest news, sport and opinion from the Guardian</a></li>
-<li> 22:29 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 22:29 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 22:28 auth.wikimedia.org</li>
 <li> 22:28 <a href="https://en.wikipedia.org/w/index.php?experiments=we-1-8-account-creation-form-v2%3Aunsampled&amp;returnto=Main+Page&amp;title=Special%3AUserLogin&amp;centralAuthAutologinTried=1&amp;useformat=mobile&amp;centralAuthError=Not+centrally+logged+in">Wikipedia, the free encyclopedia</a></li>
 <li> 22:28 <a href="https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&amp;returnto=Main+Page&amp;experiments=we-1-8-account-creation-form-v2%3Aunsampled">Wikipedia, the free encyclopedia</a></li>
@@ -4560,16 +4679,16 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:51 <a href="https://www.theguardian.com/tv-and-radio/2026/jul/02/mps-uk-broadcast-russian-cartoon-masha-and-the-bear">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 15:50 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 15:50 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li> 12:34 <a href="https://www.theguardian.com/politics/2026/jul/02/its-a-stellar-idea-readers-on-andy-burnhams-no-10-north-plans">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 12:33 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 12:21 webtimetables.royalholloway.ac.uk</li>
 <li> 12:21 eur03.safelinks.protection.outlook.com</li>
 <li> 12:20 dl.acm.org</li>
@@ -4774,9 +4893,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 20:57 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 20:55 <a href="https://www.theguardian.com/football/2026/jul/01/england-dr-congo-world-cup-2026-last-32-match-report">Latest news, sport and opinion from the Guardian</a></li>
-<li> 20:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 20:54 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 20:28 Local file</li>
 </ul>
 
@@ -5140,7 +5259,7 @@ With number of accesses/minutes in parentheses
 <li> 18:05 github.com</li>
 <li> 18:04 <a href="https://joereddington.com/2019/08/18/comics.html">Experimenting with html comics | Joe Reddington</a></li>
 <li> 18:03 <a href="https://joereddington.com/2021/02/24/Experimenting-with-html-comics.html">All posts | Joe Reddington</a></li>
-<li> 18:03 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:03 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 18:03 <a href="https://joereddington.com/comics">Joe Reddington | Things I make.</a></li>
 </ul>
@@ -5408,9 +5527,9 @@ With number of accesses/minutes in parentheses
 <li> 19:16 <a href="https://www.bbc.co.uk/sport/football/world-cup/scores-fixtures/2026-06?filter=fixtures">FIFA World Cup - Scores &amp; Fixtures - Football - BBC Sport</a></li>
 <li> 19:16 <a href="https://www.bbc.co.uk/sport/football/world-cup/scores-fixtures/2026-06">FIFA World Cup - Scores &amp; Fixtures - Football - BBC Sport</a></li>
 <li> 19:16 www.google.com</li>
-<li> 19:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:13 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 19:12 <a href="https://www.theguardian.com/uk-news/2026/jun/28/prince-harry-uk-family-visit-refused-police-protection">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:12 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 18:45 www.google.com</li>
 <li> 18:24 teamwear.swimzi.com</li>
 <li> 18:23 uk.gomotionapp.com</li>
@@ -6227,7 +6346,7 @@ With number of accesses/minutes in parentheses
 <li> 12:34 www.parkrun.org.uk</li>
 <li> 12:34 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:33 <a href="https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 12:32 www.natwest.com</li>
 <li> 12:16 chatgpt.com</li>
 <li class='same'> 12:04 chatgpt.com</li>
@@ -6364,9 +6483,9 @@ With number of accesses/minutes in parentheses
 <li> 16:58 www.lolas.co.uk</li>
 <li> 16:58 duckduckgo.com</li>
 <li> 16:32 <a href="https://www.theguardian.com/politics/2026/jun/21/defiance-to-acceptance-five-quotes-keir-starmer-downfall-burnham">From defiance to acceptance: five quotes that chart Starmer’s downfall | Keir Starmer | The Guardian</a></li>
-<li> 16:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:32 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 16:30 <a href="https://www.theguardian.com/politics/live/2026/jun/21/keir-starmer-expected-resign-resignation-monday--andy-burnham-makerfield-labour-uk-politics-latest-news-updates">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:30 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 16:28 www.lolas.co.uk</li>
 <li> 16:28 www.google.com</li>
 <li> 16:27 www.waitrose.com</li>
@@ -6416,9 +6535,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:22 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 11:22 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 11:22 <a href="https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 11:21 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 </ul>
 
 <br>
@@ -6435,7 +6554,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:37 <a href="https://www.theguardian.com/politics/2026/jun/20/stanley-chow-andy-burnham-illustration">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:36 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:36 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 08:36 www.nhs.uk</li>
 </ul>
 
@@ -6532,7 +6651,7 @@ With number of accesses/minutes in parentheses
 <li> 12:53 calendar.google.com</li>
 <li class='same'> 12:52 calendar.google.com</li>
 <li> 12:50 <a href="https://joereddington.com/2017/03/19/making-your-priority-list-actually-work/html">Making my priority list actually work. | Joe Reddington</a></li>
-<li> 12:50 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:50 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:50 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:50 duckduckgo.com</li>
 <li> 12:49 www.thedailymash.co.uk</li>
@@ -6673,7 +6792,7 @@ With number of accesses/minutes in parentheses
 <li> 16:48 <a href="https://en.wikipedia.org/"></a></li>
 <li> 16:23 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 16:21 <a href="https://www.theguardian.com/politics/2026/jun/19/facts-and-figures-makerfield-byelection-result-numbers">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:21 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:21 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 16:20 www.google.com</li>
 <li class='same'> 16:19 www.google.com</li>
 <li> 16:19 m.youtube.com</li>
@@ -6822,7 +6941,7 @@ With number of accesses/minutes in parentheses
 <li> 10:43 <a href="https://en.wikipedia.org/"></a></li>
 <li> 10:35 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
 <li> 10:34 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
-<li> 10:34 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:34 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:34 www.linkedin.com</li>
 <li> 10:34 pedalscape.com</li>
@@ -6894,9 +7013,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:26 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 06:26 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:24 <a href="https://www.theguardian.com/politics/2026/jun/19/andy-burnham-wins-makerfield-byelection-paving-way-labour-leadership-challenge">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:24 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:24 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:24 www.activeluton.co.uk</li>
 </ul>
 
@@ -7394,16 +7513,16 @@ With number of accesses/minutes in parentheses
 <li> 16:26 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:26 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 16:12 <a href="https://www.theguardian.com/sport/2026/jun/16/serena-williams-wimbledon-doubles-wildcard-venus-tennis">Serena Williams back at Wimbledon after being granted doubles wildcard with Venus | Wimbledon | The Guardian</a></li>
-<li> 16:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:12 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 16:11 <a href="https://www.theguardian.com/commentisfree/2026/jun/16/iran-peace-deal-us-washington-war-lebanon">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:10 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 16:10 <a href="https://www.theguardian.com/commentisfree/2026/jun/16/anthropic-fable-ai">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:10 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:10 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 16:10 <a href="https://www.theguardian.com/commentisfree/2026/jun/16/brooklyn-beckham-family-doordash-ad">Brand Beckham always delivers with a PR opportunity. But Brooklyn’s turned up late, with the wrong order | Marina Hyde | The Guardian</a></li>
 <li class='same'> 16:08 <a href="https://www.theguardian.com/commentisfree/2026/jun/16/brooklyn-beckham-family-doordash-ad">Brand Beckham always delivers with a PR opportunity. But Brooklyn’s turned up late, with the wrong order | Marina Hyde | The Guardian</a></li>
-<li> 16:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:05 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 16:05 support.theguardian.com</li>
-<li> 16:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 16:05 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 </ul>
 
 <br>
@@ -8163,7 +8282,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:40 mail.google.com</li>
 <li> 09:40 gmail.com</li>
 <li> 09:39 <a href="https://joereddington.com/2020/09/18/dayssince.html">Joe’s Todo List</a></li>
-<li> 09:39 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:39 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:39 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:39 duckduckgo.com</li>
 <li> 09:37 calendar.google.com</li>
@@ -8399,9 +8518,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:00 feedly.com</li>
 <li> 14:57 www.linkedin.com</li>
 <li> 14:30 <a href="https://www.theguardian.com/film/ng-interactive/2026/jun/10/the-best-films-of-2026-so-far">The best films of 2026 so far | Film | The Guardian</a></li>
-<li> 14:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:30 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 14:29 <a href="https://www.theguardian.com/football/2026/jun/10/david-sullivan-west-ham-football-association-safeguarding-investigation">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:28 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 </ul>
 
 <br>
@@ -8628,10 +8747,10 @@ With number of accesses/minutes in parentheses
 <li> 18:05 <a href="https://joereddington.com/2026/06/09/gratitude.html">Joe Reddington | Things I make.</a></li>
 <li> 18:05 <a href="https://joereddington.com/2026/05/22/gratitude.html">Gratitude | Joe Reddington</a></li>
 <li> 18:05 github.com</li>
-<li> 18:04 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 18:04 <a href="https://joereddington.com/2026/05/22/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 18:04 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 </ul>
 
 <br>
@@ -8644,7 +8763,7 @@ With number of accesses/minutes in parentheses
 <li> 17:27 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 17:27 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 17:27 <a href="https://en.wikipedia.org/"></a></li>
-<li> 17:27 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:27 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:27 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:22 www.facebook.com</li>
 <li class='same'> 17:21 www.facebook.com</li>
@@ -8785,7 +8904,7 @@ With number of accesses/minutes in parentheses
 <li> 13:46 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 13:46 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 13:41 <a href="https://joereddington.com/2026/05/22/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 13:41 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:40 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
 <li> 13:40 <a href="https://joereddington.com/2025/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
 <li> 13:40 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -9085,13 +9204,13 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:43 <a href="https://www.theguardian.com/games/2026/jun/03/god-of-war-laufey-playstation-state-of-play">From God of War to Until Dawn – seven reveals from last night’s PlayStation event | Games | The Guardian</a></li>
-<li> 06:43 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:43 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:42 <a href="https://www.theguardian.com/music/2026/jun/07/shania-twain-gig-turns-london-pub-into-saloon">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:41 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:41 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:40 <a href="https://www.theguardian.com/uk-news/2026/jun/07/home-office-china-report-honey-traps-compromise-attempts">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:38 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:38 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:36 <a href="https://www.theguardian.com/tv-and-radio/2026/jun/08/alice-and-steve-review-jemaine-clement-and-nicola-walkers-icky-comedy-is-dated-and-wrong">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:35 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 </ul>
 
 <H3>Sunday, 07/06/26</H3>
@@ -9286,7 +9405,7 @@ With number of accesses/minutes in parentheses
 <li> 17:53 www.speedtest.net</li>
 <li> 17:49 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 17:45 <a href="https://joereddington.com/2026/05/14/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 17:45 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:45 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:44 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:40 www.linkedin.com</li>
 <li> 17:25 calendar.google.com</li>
@@ -9481,9 +9600,9 @@ With number of accesses/minutes in parentheses
 <li> 07:12 www.google.com</li>
 <li class='same'> 07:11 www.google.com</li>
 <li> 06:56 <a href="https://www.theguardian.com/sport/2026/jun/04/mirra-andreeva-marta-kostyuk-russia-ukraine-war-tennis-french-open">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:55 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:55 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:53 <a href="https://www.theguardian.com/music/2026/jun/05/lizzo-bitch-album-review">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:52 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 06:52 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 06:51 www.thedailymash.co.uk</li>
 <li class='same'> 06:50 www.thedailymash.co.uk</li>
 </ul>
@@ -9604,7 +9723,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:14 <a href="https://www.theguardian.com/film/2026/jun/04/disney-paris-theme-park-deficit">Disney racks up $4.2bn deficit on Paris parks | Walt Disney Company | The Guardian</a></li>
-<li> 14:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:14 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 14:14 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
 <li> 14:07 dashboards.rhul.ac.uk</li>
 <li> 14:04 www.linkedin.com</li>
@@ -9675,14 +9794,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 08:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 08:34 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 08:34 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li> 07:58 <a href="https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:57 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 </ul>
 
 <br>
@@ -9925,11 +10044,11 @@ With number of accesses/minutes in parentheses
 <li> 12:14 www.reddit.com</li>
 <li class='same'> 12:13 www.reddit.com</li>
 <li> 12:09 <a href="https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:08 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 12:08 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
-<li> 12:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:08 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 12:08 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
-<li> 12:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:08 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 12:03 www.eurostar.com</li>
 <li class='same'> 12:02 www.eurostar.com</li>
 <li> 12:00 chatgpt.com</li>
@@ -10098,7 +10217,7 @@ With number of accesses/minutes in parentheses
 <li> 09:08 www.ecer.org</li>
 <li> 09:08 xcgx51v3.r.us-east-1.awstrack.me</li>
 <li> 09:08 eur03.safelinks.protection.outlook.com</li>
-<li> 08:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:54 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 08:53 auth.wikimedia.org</li>
 <li> 08:53 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&amp;title=Special:UserLogin&amp;centralAuthAutologinTried=1&amp;useformat=mobile&amp;centralAuthError=Not+centrally+logged+in">Wikipedia, the free encyclopedia</a></li>
 <li> 08:53 <a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page">Wikipedia, the free encyclopedia</a></li>
@@ -10107,13 +10226,13 @@ With number of accesses/minutes in parentheses
 <li> 08:48 www.yodel.co.uk</li>
 <li> 08:48 www.google.com</li>
 <li class='same'> 08:47 www.google.com</li>
-<li> 08:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:30 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 08:30 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
 <li> 08:02 <a href="https://www.theguardian.com/us-news/2026/jun/02/san-diego-drug-tunnel">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:59 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 07:59 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/politics/2026/jun/03/mandelson-messages-manual-dark-arts-power">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/">Hide the Pain Harold and Rubik’s Cube creator among social media’s picks for Hungarian president | Hungary | The Guardian</a></li>
 </ul>
 
@@ -10132,7 +10251,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:24 <a href="https://www.theguardian.com/world/2026/jun/02/my-father-german-refugee-who-fought-nazis-as-secret-listener">Latest news, sport and opinion from the Guardian</a></li>
-<li> 19:23 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 19:23 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 19:21 mayamagal.co.uk</li>
 <li class='same'> 19:17 mayamagal.co.uk</li>
 <li> 19:17 <a href="https://www.theguardian.com/commentisfree/2026/jun/02/civil-war-british-right-rupert-lowe-nigel-farage-henry-nowak">A horrific murder – and a civil war threatening to tear apart the British right | Joe Mulhall | The Guardian</a></li>
@@ -10157,7 +10276,7 @@ With number of accesses/minutes in parentheses
 <li> 17:47 www.linkedin.com</li>
 <li> 17:42 <a href="https://www.theguardian.com/commentisfree/2026/jun/02/civil-war-british-right-rupert-lowe-nigel-farage-henry-nowak">A horrific murder – and a civil war threatening to tear apart the British right | Joe Mulhall | The Guardian</a></li>
 <li> 17:40 <a href="https://www.theguardian.com/uk-news/2026/jun/02/maga-influencer-melissa-rein-lively-pleads-guilty-london-assault">Latest news, sport and opinion from the Guardian</a></li>
-<li> 17:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 17:39 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 <li> 17:30 www.linkedin.com</li>
 <li> 17:28 chatgpt.com</li>
 <li class='same'> 17:27 chatgpt.com</li>
@@ -10224,7 +10343,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:31 <a href="https://www.theguardian.com/education/2026/jun/02/shrinking-graduate-premium-sours-views-on-university-poll-shows">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:31 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 08:31 <a href="https://www.theguardian.com/uk">The myth of Anthony Bourdain: how the bad boy chef became a hero to boozehounds and bullies | Anthony Bourdain | The Guardian</a></li>
 </ul>
 
 <br>
@@ -13740,7 +13859,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:11 ask.herts.ac.uk</li>
 <li> 16:11 www.herts.ac.uk</li>
 <li> 16:11 duckduckgo.com</li>
-<li> 16:10 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:10 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:10 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:09 docs.google.com</li>
 <li> 16:09 <a href="https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time">The 100 best novels of all time | Fiction | The Guardian</a></li>
@@ -14093,7 +14212,7 @@ With number of accesses/minutes in parentheses
 <li> 10:49 mail.google.com</li>
 <li class='same'> 10:48 mail.google.com</li>
 <li> 10:48 dash.cloudflare.com</li>
-<li> 10:47 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:47 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:47 mail.google.com</li>
 <li> 10:42 intranet.royalholloway.ac.uk</li>
@@ -14385,7 +14504,6 @@ With number of accesses/minutes in parentheses
 <li> 18:13 duckduckgo.com</li>
 <li> 18:12 www.paypal.com</li>
 <li> 18:12 equalitytime.github.io</li>
-<li> 18:10 www.redditmedia.com</li>
 <li> 18:10 duckduckgo.com</li>
 <li> 18:03 libbyapp.com</li>
 <li class='same'> 18:02 libbyapp.com</li>
@@ -14416,14 +14534,12 @@ With number of accesses/minutes in parentheses
 <li> 17:24 duckduckgo.com</li>
 <li> 17:18 outlook.cloud.microsoft</li>
 <li class='same'> 17:17 outlook.cloud.microsoft</li>
-<li> 17:17 login.microsoftonline.com</li>
 <li> 17:17 outlook.office365.com</li>
 <li> 17:17 outlook.cloud.microsoft</li>
 <li> 17:17 mail.rhul.ac.uk</li>
 <li> 17:16 calendar.google.com</li>
 <li> 17:12 tvtropes.org</li>
 <li> 16:46 127.0.0.1:4001</li>
-<li> 16:25 chatgpt.com</li>
 <li> 16:23 <a href="https://www.theguardian.com/sport/2026/may/12/jake-paul-broken-jaw-anthony-joshua-boxing">Jake Paul admits broken jaw from Anthony Joshua fight may have ended boxing career | Boxing | The Guardian</a></li>
 <li> 16:18 <a href="https://www.theguardian.com/commentisfree/2026/may/12/keir-starmer-labour-replacement-andy-burnham">Latest news, sport and opinion from the Guardian</a></li>
 <li> 16:15 <a href="https://www.theguardian.com/tv-and-radio/2026/may/12/irish-tv-rte-father-ted-eurovision-final-israel">Latest news, sport and opinion from the Guardian</a></li>
@@ -14436,9 +14552,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:04 gumroad.com</li>
-<li> 15:04 files.gumroad.com</li>
-<li> 15:03 www.giantitp.com</li>
+<ul><li> 15:03 www.giantitp.com</li>
 <li> 14:58 gumroad.com</li>
 <li> 14:58 chatgpt.com</li>
 <li> 14:58 gumroad.com</li>
@@ -14499,10 +14613,7 @@ With number of accesses/minutes in parentheses
 <li> 11:46 www.tax.service.gov.uk</li>
 <li> 11:46 www.access.service.gov.uk</li>
 <li> 11:46 www.tax.service.gov.uk</li>
-<li> 11:46 www.access.service.gov.uk</li>
-<li> 11:46 www.tax.service.gov.uk</li>
 <li> 11:46 docs.google.com</li>
-<li> 11:45 drive.usercontent.google.com</li>
 <li> 11:45 drive.google.com</li>
 <li> 11:45 www.tax.service.gov.uk</li>
 <li class='same'> 11:44 www.tax.service.gov.uk</li>
@@ -14775,7 +14886,7 @@ With number of accesses/minutes in parentheses
 <li> 16:42 <a href="https://joereddington.com/2019/10/06/rsc.html">Consulting for the Royal Society of Chemistry | Joe Reddington</a></li>
 <li> 16:42 <a href="https://joereddington.com/2019/08/18/comics.html">Experimenting with html comics | Joe Reddington</a></li>
 <li> 16:41 <a href="https://joereddington.com/2020/01/14/sick.html">Public Accountability: sickness | Joe Reddington</a></li>
-<li> 16:41 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:41 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:34 docs.google.com</li>
 <li> 16:22 127.0.0.1:8000</li>
@@ -15873,14 +15984,14 @@ With number of accesses/minutes in parentheses
 <li> 22:18 <a href="https://joereddington.com/2026/03/26/wombat.html">WOMBAT | Joe Reddington</a></li>
 <li> 22:18 <a href="https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html">You should have an Asked Questions list for your students | Joe Reddington</a></li>
 <li> 22:18 <a href="https://joereddington.com/2026/04/29/education-exchange.html">Royal Holloway Education Exchange | Joe Reddington</a></li>
-<li> 22:18 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 22:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 22:18 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 22:15 www.linkedin.com</li>
 <li class='same'> 22:14 www.linkedin.com</li>
 <li> 22:07 <a href="https://joereddington.com/2026/04/19/cookbook.html">Reddington Family Cookbook | Joe Reddington</a></li>
 <li> 22:07 <a href="https://joereddington.com/2026/04/27/eye-test.html">Eye test | Joe Reddington</a></li>
 <li> 22:07 <a href="https://joereddington.com/2026/04/30/national-cyber-security-show.html">National Cyber Security Show | Joe Reddington</a></li>
-<li> 22:07 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 22:07 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 22:07 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 22:06 www.linkedin.com</li>
 <li class='same'> 22:05 www.linkedin.com</li>
@@ -16803,7 +16914,7 @@ With number of accesses/minutes in parentheses
 <li> 10:06 figshare.com</li>
 <li> 10:05 intranet.royalholloway.ac.uk</li>
 <li> 09:43 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 09:43 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:43 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:43 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:37 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 09:13 www.amazon.co.uk</li>
@@ -16818,7 +16929,7 @@ With number of accesses/minutes in parentheses
 <li> 07:54 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 07:35 <a href="https://joereddington.com/assets/images/bike3.png">bike3.png (PNG Image, 919 × 1119 pixels) – Scaled (70%)</a></li>
 <li> 07:29 <a href="https://joereddington.com/2026/01/28/ps4-upgrade.html">PS4 Upgrade | Joe Reddington</a></li>
-<li> 07:29 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:29 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:29 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 07:28 127.0.0.1:4000</li>
 <li> 07:27 www.amazon.co.uk</li>
@@ -16890,7 +17001,7 @@ With number of accesses/minutes in parentheses
 <li> 14:00 t1b.gobright.cloud</li>
 <li> 14:00 portal.gobright.cloud</li>
 <li> 13:40 <a href="https://joereddington.com/2025/10/30/things-i-say-to-project-students.html">Things I say to project students | Joe Reddington</a></li>
-<li> 13:40 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:40 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:40 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:38 127.0.0.1:4000</li>
 <li class='same'> 13:24 127.0.0.1:4000</li>
@@ -16974,7 +17085,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:44 www.amazon.co.uk</li>
 <li> 19:39 <a href="https://joereddington.com/2026/03/26/wombat.html">WOMBAT | Joe Reddington</a></li>
 <li> 19:38 <a href="https://joereddington.com/2026/04/17/honesty.html">Honesty | Joe Reddington</a></li>
-<li> 19:38 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 19:38 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:38 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 19:33 fast.com</li>
 <li> 19:14 calendar.google.com</li>
@@ -19661,7 +19772,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:19 www.thingiverse.com</li>
 <li class='same'> 12:18 www.thingiverse.com</li>
 <li class='same'> 12:17 www.thingiverse.com</li>
-<li> 12:09 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:09 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:09 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:07 www.thingiverse.com</li>
 <li class='same'> 12:06 www.thingiverse.com</li>
@@ -19882,7 +19993,7 @@ With number of accesses/minutes in parentheses
 <li> 18:07 herts.instructure.com</li>
 <li> 18:06 calendar.google.com</li>
 <li> 18:03 <a href="https://joereddington.com/2026/03/13/meeting-hack.html">Getting students to book meetings more tightly | Joe Reddington</a></li>
-<li> 18:03 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:03 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:48 herts365-my.sharepoint.com</li>
 <li class='same'> 17:47 herts365-my.sharepoint.com</li>
@@ -20416,7 +20527,7 @@ With number of accesses/minutes in parentheses
 <li> 11:53 127.0.0.1:4000</li>
 <li class='same'> 11:51 127.0.0.1:4000</li>
 <li> 11:51 <a href="https://joereddington.com/2018/12/07/colours.html">Colours | Joe Reddington</a></li>
-<li> 11:51 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:51 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:48 fast.com</li>
 <li> 11:36 easychair.org</li>
 <li> 11:08 chatgpt.com</li>
@@ -21380,7 +21491,7 @@ With number of accesses/minutes in parentheses
 <li> 08:39 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 08:39 <a href="https://en.wikipedia.org/"></a></li>
 <li> 08:38 <a href="https://joereddington.com/2026/03/13/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 08:38 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:38 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:38 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 08:36 drive.google.com</li>
 <li> 08:29 www.linkedin.com</li>
@@ -21802,7 +21913,7 @@ With number of accesses/minutes in parentheses
 <li> 13:27 <a href="https://joereddington.com/2026/01/07/self-assessment.html">Self-assessment | Joe Reddington</a></li>
 <li> 13:26 <a href="https://joereddington.com/2026/01/30/history.html">zsh history | Joe Reddington</a></li>
 <li> 13:26 <a href="https://joereddington.com/2026/03/13/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 13:26 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:26 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:26 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:26 duckduckgo.com</li>
 <li> 13:25 <a href="https://en.wikipedia.org/wiki/Wikipedia:Did_you_know/Create_new_nomination?withJS=MediaWiki:DYK-nomination-wizard.js">Wikipedia:Did you know/Create new nomination - Wikipedia</a></li>
@@ -21814,7 +21925,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:17 www.reddit.com</li>
 <li> 13:17 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">2023 Capita data breach - Wikipedia</a></li>
 <li> 13:17 chatgpt.com</li>
-<li> 12:53 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:53 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:51 www.google.com</li>
 <li> 12:49 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
@@ -24051,7 +24162,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 10:41 <a href="https://stackoverflow.com/help/minimal-reproducible-example">How to create a Minimal, Reproducible Example - Help Center - Stack Overflow</a></li>
 <li> 10:41 meta.stackoverflow.com</li>
 <li> 10:40 outlook.office365.com</li>
-<li> 10:39 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:39 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:39 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:33 web.whatsapp.com</li>
 <li> 10:32 outlook.office365.com</li>
@@ -28251,7 +28362,7 @@ With number of accesses/minutes in parentheses
 <li> 14:58 herts.instructure.com</li>
 <li class='same'> 14:54 herts.instructure.com</li>
 <li> 14:37 www.royalholloway.ac.uk</li>
-<li> 14:34 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:34 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:26 127.0.0.1:4000</li>
 <li class='same'> 14:25 127.0.0.1:4000</li>
@@ -33587,7 +33698,7 @@ With number of accesses/minutes in parentheses
 <li> 15:15 www.linkedin.com</li>
 <li> 15:04 duckduckgo.com</li>
 <li> 14:47 <a href="https://joereddington.com/2025/12/26/30-000-pages.html">30,000 pages in 2025 | Joe Reddington</a></li>
-<li> 14:47 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:47 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:43 www.linkedin.com</li>
 <li> 14:42 mail.google.com</li>
@@ -34018,7 +34129,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:22 www.reddit.com</li>
 <li> 14:21 www.parkrun.org.uk</li>
 <li> 14:19 <a href="https://joereddington.com/2025/08/21/what-s-up-with-my-3d-printer.html">What’s up with my 3D printer? | Joe Reddington</a></li>
-<li> 14:19 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:19 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:19 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:19 www.reddit.com</li>
 <li> 14:19 youtube.com</li>
@@ -34035,7 +34146,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:16 www.amazon.co.uk</li>
 <li> 14:15 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 14:13 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
-<li> 14:13 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:13 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:13 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:12 www.linkedin.com</li>
 </ul>
@@ -34071,7 +34182,7 @@ With number of accesses/minutes in parentheses
 <li> 10:47 www.amazon.co.uk</li>
 <li> 10:44 docs.google.com</li>
 <li> 10:42 <a href="https://joereddington.com/2026/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
-<li> 10:42 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:42 fast.com</li>
 <li> 10:41 docs.google.com</li>
 <li> 10:40 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -34132,15 +34243,15 @@ With number of accesses/minutes in parentheses
 <li class='same'> 18:12 chatgpt.com</li>
 <li> 18:12 chat.openai.com</li>
 <li> 17:59 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
-<li> 17:59 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:59 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:55 www.linkedin.com</li>
 <li> 17:55 <a href="https://joereddington.com/2025/12/26/30-000-pages.html">30,000 pages in 2025 | Joe Reddington</a></li>
-<li> 17:55 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:55 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:55 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:55 www.linkedin.com</li>
 <li class='same'> 17:50 www.linkedin.com</li>
 <li> 17:49 <a href="https://joereddington.com/2025/12/26/30-000-pages.html">30,000 pages in 2025 | Joe Reddington</a></li>
-<li> 17:49 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:49 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:49 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:49 failblog.cheezburger.com</li>
 <li> 17:34 www.facebook.com</li>
@@ -34162,7 +34273,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:35 docs.google.com</li>
 <li class='same'> 16:34 docs.google.com</li>
 <li> 16:32 <a href="https://joereddington.com/2024/12/26/20-000-pages-in-2024.html">20,000 pages in 2024 | Joe Reddington</a></li>
-<li> 16:32 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:32 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:32 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:32 localhost:4000</li>
 <li class='same'> 16:31 localhost:4000</li>
@@ -37211,7 +37322,7 @@ With number of accesses/minutes in parentheses
 <li> 15:55 drive.google.com</li>
 <li> 15:54 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
 <li> 15:54 <a href="https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html">You should have an Asked Questions list for your students | Joe Reddington</a></li>
-<li> 15:54 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:54 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:53 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 <li> 15:53 <a href="http://joereddington.com/2024/06/10/attendance.html"></a></li>
 <li> 15:53 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
@@ -42824,7 +42935,7 @@ With number of accesses/minutes in parentheses
 <li> 15:42 ce0997li.webitrent.com</li>
 <li> 15:35 mail.google.com</li>
 <li> 15:35 <a href="https://joereddington.com/2025/11/11/under-the-car.html">Under the car | Joe Reddington</a></li>
-<li> 15:35 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:35 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:35 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:35 mail.google.com</li>
 <li> 15:34 web.whatsapp.com</li>
@@ -45447,7 +45558,7 @@ With number of accesses/minutes in parentheses
 <li> 11:05 web.whatsapp.com</li>
 <li> 11:04 duckduckgo.com</li>
 <li> 11:03 <a href="https://joereddington.com/2018/03/12/nova.html">Fell in love with a girl | Joe Reddington</a></li>
-<li> 11:03 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:03 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:55 www.telegraph.co.uk</li>
 <li> 10:49 web.whatsapp.com</li>
@@ -46016,7 +46127,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:38 duckduckgo.com</li>
 <li> 10:38 dashboards.rhul.ac.uk</li>
 <li> 10:24 <a href="https://joereddington.com/2025/10/23/docker.html">Docker | Joe Reddington</a></li>
-<li> 10:24 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:23 github.com</li>
 <li> 10:22 student-vpn.royalholloway.ac.uk</li>
@@ -47304,7 +47415,7 @@ With number of accesses/minutes in parentheses
 <li> 11:10 login.microsoftonline.com</li>
 <li> 11:10 office.herts.ac.uk</li>
 <li> 11:10 office.com</li>
-<li> 11:07 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:07 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:07 chatgpt.com</li>
 <li class='same'> 11:06 chatgpt.com</li>
 <li> 11:06 chat.openai.com</li>
@@ -48287,7 +48398,7 @@ With number of accesses/minutes in parentheses
 <li> 14:13 chatgpt.com</li>
 <li class='same'> 14:12 chatgpt.com</li>
 <li> 14:12 chat.openai.com</li>
-<li> 14:04 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:04 mail.google.com</li>
 <li> 14:03 calendar.google.com</li>
@@ -49780,7 +49891,7 @@ With number of accesses/minutes in parentheses
 <li> 15:04 drive.google.com</li>
 <li> 15:00 <a href="https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html">You should have an Asked Questions list for your students | Joe Reddington</a></li>
 <li> 14:59 <a href="https://joereddington.com/2025/08/21/what-s-up-with-my-3d-printer.html">What’s up with my 3D printer? | Joe Reddington</a></li>
-<li> 14:59 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:59 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:57 docs.google.com</li>
 <li> 14:55 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:48 192.168.178.81:8008</li>
@@ -51533,7 +51644,7 @@ With number of accesses/minutes in parentheses
 <li> 17:35 github.com</li>
 <li> 17:35 duckduckgo.com</li>
 <li class='same'> 17:34 duckduckgo.com</li>
-<li> 17:29 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:29 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:29 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:26 www.reddit.com</li>
 <li> 17:22 chatgpt.com</li>
@@ -52393,7 +52504,7 @@ With number of accesses/minutes in parentheses
 <li> 14:19 outlook.office365.com</li>
 <li> 14:07 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:06 <a href="https://joereddington.com/2025/09/24/grat.html">Gratitude | Joe Reddington</a></li>
-<li> 14:06 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:06 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:06 mail.google.com</li>
 <li> 14:06 gmail.com</li>
@@ -52613,7 +52724,7 @@ With number of accesses/minutes in parentheses
 <li> 09:26 equalitytime.co.uk</li>
 <li> 09:26 equalitytime.github.io</li>
 <li> 09:25 <a href="https://joereddington.com/2013/09/12/so-im-in-the-edition-of-new-scientist-that-came-out-today.html">So I’m in the edition of New Scientist that came out today | Joe Reddington</a></li>
-<li> 09:25 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:24 whitewaterwriters.com</li>
 <li> 09:23 rhul-my.sharepoint.com</li>
@@ -52845,7 +52956,7 @@ With number of accesses/minutes in parentheses
 <li> 10:46 <a href="https://joereddington.com/images/2020/06/10/mirror.html">Mirror Images | Joe Reddington</a></li>
 <li> 10:44 <a href="https://joereddington.com/2016/05/11/a-weekend-on-mountains.-doing-most-of-the-three-peaks-challenge.html">A weekend on mountains. Doing (most of) the three peaks challenge | Joe Reddington</a></li>
 <li> 10:44 <a href="https://joereddington.com/2014/10/22/nhs-areas-and-constituencies.html">NHS areas and constituencies | Joe Reddington</a></li>
-<li> 10:44 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:44 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:44 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:44 duckduckgo.com</li>
 <li> 10:43 rhul-my.sharepoint.com</li>
@@ -54879,7 +54990,7 @@ With number of accesses/minutes in parentheses
 <li> 12:32 mail.google.com</li>
 <li> 12:32 www.amazon.co.uk</li>
 <li> 12:32 amazon.co.uk</li>
-<li> 12:32 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:32 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:32 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:32 mail.google.com</li>
 <li class='same'> 12:31 mail.google.com</li>
@@ -57654,11 +57765,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:51 www.linkedin.com</li>
 <li> 12:51 mail.google.com</li>
 <li> 12:45 <a href="https://joereddington.com/2025/08/27/gratitude.html">gratitude | Joe Reddington</a></li>
-<li> 12:45 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:45 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:45 www.reddit.com</li>
 <li> 12:42 <a href="https://joereddington.com/2025/08/27/gratitude.html">gratitude | Joe Reddington</a></li>
-<li> 12:42 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:42 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:41 outlook.office365.com</li>
 <li> 12:40 fyp.cs.rhul.ac.uk</li>
@@ -57752,7 +57863,7 @@ With number of accesses/minutes in parentheses
 <li> 09:25 docs.google.com</li>
 <li> 09:25 drive.google.com</li>
 <li> 09:16 127.0.0.1:4000</li>
-<li> 09:15 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:15 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:15 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:11 <a href="https://www.youtube.com/watch?v=l3utZZgUITw&amp;list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&amp;index=71">(741) GCSE Maths: N2-47 [Examples of Subtracting Fractions with different Denominators] - YouTube</a></li>
 <li> 09:10 <a href="https://www.youtube.com/watch?v=S11Djznp2K0&amp;list=PLg2tfDG3Ww4s-jqUKEAHI67pQLhUGczDG&amp;index=70">(741) GCSE Maths: N2-45 [Examples of Adding Fractions with different Denominators] - YouTube</a></li>
@@ -58424,7 +58535,7 @@ With number of accesses/minutes in parentheses
 <li> 07:01 chat.openai.com</li>
 <li> 07:01 www.printables.com</li>
 <li> 07:00 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 07:00 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:00 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:00 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:00 www.linkedin.com</li>
 <li> 06:58 www.reddit.com</li>
@@ -58552,7 +58663,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:12 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 15:12 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:12 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:09 web.whatsapp.com</li>
 <li> 15:07 www.mqeurope.com</li>
 <li> 15:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -58613,7 +58724,7 @@ With number of accesses/minutes in parentheses
 <li> 09:59 mail.rhul.ac.uk</li>
 <li> 09:59 dashboards.rhul.ac.uk</li>
 <li> 09:51 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 09:51 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:51 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:51 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 </ul>
 
@@ -59312,9 +59423,9 @@ With number of accesses/minutes in parentheses
 <li> 16:18 outlook.office365.com</li>
 <li> 16:17 forms.office.com</li>
 <li> 16:17 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
-<li> 16:17 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:16 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 16:16 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:14 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
 <li> 16:12 www.amazon.co.uk</li>
@@ -60424,7 +60535,7 @@ With number of accesses/minutes in parentheses
 <li> 07:49 www.reddit.com</li>
 <li> 07:49 mail.google.com</li>
 <li> 07:46 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 07:46 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:46 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:46 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:46 www.reddit.com</li>
 <li class='same'> 07:44 www.reddit.com</li>
@@ -61134,7 +61245,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:01 www.myinstants.com</li>
 <li> 14:01 www.google.com</li>
 <li> 13:53 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
-<li> 13:53 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:53 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:52 chatgpt.com</li>
 <li class='same'> 13:50 chatgpt.com</li>
@@ -61746,7 +61857,7 @@ With number of accesses/minutes in parentheses
 <li> 09:57 <a href="https://en.wikipedia.org/wiki/Cupid">Cupid - Wikipedia</a></li>
 <li> 09:57 duckduckgo.com</li>
 <li> 09:54 <a href="https://joereddington.com/2025/07/22/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 09:54 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:54 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:54 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:42 www.linkedin.com</li>
 <li> 09:41 web.whatsapp.com</li>
@@ -63055,7 +63166,7 @@ With number of accesses/minutes in parentheses
 <li> 16:09 adfs.herts.ac.uk</li>
 <li> 16:08 outlook.office365.com</li>
 <li> 16:07 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 16:07 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:07 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:07 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:07 chatgpt.com</li>
 <li class='same'> 16:06 chatgpt.com</li>
@@ -63117,7 +63228,7 @@ With number of accesses/minutes in parentheses
 <li> 14:11 outlook.office.com</li>
 <li> 14:10 www.linkedin.com</li>
 <li> 14:08 <a href="https://joereddington.com/2025/07/22/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 14:08 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:08 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:08 www.natwest.com</li>
 <li> 14:08 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:07 www.linkedin.com</li>
@@ -63159,7 +63270,7 @@ With number of accesses/minutes in parentheses
 <li> 13:41 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 13:40 127.0.0.1:4000</li>
 <li> 13:40 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 13:40 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:40 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:40 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:38 api-b6327e78.duosecurity.com</li>
 <li> 13:37 www.linkedin.com</li>
@@ -63337,7 +63448,7 @@ With number of accesses/minutes in parentheses
 <li> 19:52 outlook.office365.com</li>
 <li> 19:41 chatgpt.com</li>
 <li> 19:34 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 19:34 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 19:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:34 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 19:19 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 19:17 webtimetables.royalholloway.ac.uk</li>
@@ -64806,10 +64917,10 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:29 github.com</li>
 <li> 09:28 127.0.0.1:4000</li>
 <li> 09:26 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
-<li> 09:26 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:26 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:26 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
 <li> 09:25 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
-<li> 09:25 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:24 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 09:24 127.0.0.1:4000</li>
 <li class='same'> 09:23 127.0.0.1:4000</li>
@@ -65456,7 +65567,7 @@ With number of accesses/minutes in parentheses
 <li> 13:22 mail.google.com</li>
 <li> 13:19 web.whatsapp.com</li>
 <li> 13:12 <a href="https://joereddington.com/2025/06/24/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 13:12 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:12 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:12 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:09 mail.google.com</li>
 <li> 13:06 ce0997li.webitrent.com</li>
@@ -68732,7 +68843,7 @@ With number of accesses/minutes in parentheses
 <li> 10:51 mail.google.com</li>
 <li class='same'> 10:44 mail.google.com</li>
 <li> 10:36 <a href="https://joereddington.com/2025/06/24/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 10:36 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:36 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:36 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:35 qbo.intuit.com</li>
 <li> 10:35 c14.qbo.intuit.com</li>
@@ -68868,7 +68979,7 @@ With number of accesses/minutes in parentheses
 <li> 06:53 www.linkedin.com</li>
 <li> 06:53 mail.google.com</li>
 <li> 06:52 <a href="https://joereddington.com/2025/06/24/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 06:52 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 06:52 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:52 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 06:52 mail.google.com</li>
 <li> 06:51 www.jobs.ac.uk</li>
@@ -69272,7 +69383,7 @@ With number of accesses/minutes in parentheses
 <li> 21:30 forum.artofmemory.com</li>
 <li> 21:30 artofmemory.com</li>
 <li> 21:29 <a href="https://joereddington.com/2025/06/21/trainer-for-decoding-numbers.html">Trainer for decoding numbers | Joe Reddington</a></li>
-<li> 21:29 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 21:29 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 21:29 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 21:29 www.facebook.com</li>
 <li> 21:29 bsky.app</li>
@@ -70330,7 +70441,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:15 <a href="https://joereddington.com/2025/06/21/trainer-for-decoding-numbers.html">Trainer for decoding numbers | Joe Reddington</a></li>
 <li> 08:01 forum.artofmemory.com</li>
 <li> 07:49 <a href="https://joereddington.com/2025/06/21/trainer-for-decoding-numbers.html">Trainer for decoding numbers | Joe Reddington</a></li>
-<li> 07:49 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:49 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:49 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:41 forum.artofmemory.com</li>
 <li> 07:40 duckduckgo.com</li>
@@ -70405,7 +70516,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 15:43 openemu.org</li>
 <li> 15:42 retroemulators.com</li>
 <li> 15:42 duckduckgo.com</li>
-<li> 15:42 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:42 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:41 Local file</li>
 <li> 15:31 127.0.0.1:4000</li>
@@ -70413,7 +70524,7 @@ With number of accesses/minutes in parentheses
 <li> 15:25 www.amazon.co.uk</li>
 <li> 15:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:23 127.0.0.1:4000</li>
-<li> 15:23 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:21 chatgpt.com</li>
 <li> 15:12 Local file</li>
@@ -70556,8 +70667,8 @@ With number of accesses/minutes in parentheses
 <li> 11:17 www.amazon.co.uk</li>
 <li> 11:17 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
 <li> 11:17 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 11:17 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
-<li class='same'> 11:16 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li class='same'> 11:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 </ul>
 
@@ -71767,7 +71878,7 @@ With number of accesses/minutes in parentheses
 <li> 07:44 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
 <li> 07:44 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
 <li> 07:44 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 07:44 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:44 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:44 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 </ul>
 
@@ -71827,7 +71938,7 @@ With number of accesses/minutes in parentheses
 <li> 19:54 learn.adafruit.com</li>
 <li> 19:54 duckduckgo.com</li>
 <li> 19:54 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
-<li> 19:53 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 19:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:53 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 19:46 studio.youtube.com</li>
 <li> 19:40 tvtropes.org</li>
@@ -72422,7 +72533,7 @@ With number of accesses/minutes in parentheses
 <li> 13:57 chat.openai.com</li>
 <li> 13:51 duckduckgo.com</li>
 <li> 13:48 docs.google.com</li>
-<li> 13:33 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:33 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:33 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:31 Local file</li>
 <li> 13:30 docs.google.com</li>
@@ -72637,7 +72748,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 11:12 chatgpt.com</li>
 <li> 11:12 chat.openai.com</li>
 <li> 11:03 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 11:03 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:03 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:03 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
 </ul>
 
@@ -74386,7 +74497,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 18:23 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 18:23 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 18:21 www.google.com</li>
 </ul>
@@ -75595,7 +75706,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:37 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
-<li> 16:37 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 </ul>
 
@@ -75730,7 +75841,7 @@ With number of accesses/minutes in parentheses
 <li> 11:24 mail.google.com</li>
 <li> 11:24 gmail.com</li>
 <li> 11:24 <a href="https://joereddington.com/2025/05/23/getting-my-stupid-server-working-again.html">Getting my stupid server working again. | Joe Reddington</a></li>
-<li> 11:23 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 11:23 www.google.com</li>
 <li> 11:14 www.linkedin.com</li>
@@ -77048,7 +77159,7 @@ With number of accesses/minutes in parentheses
 <li> 20:33 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
 <li> 20:28 newmediawritingprize.co.uk</li>
 <li> 20:25 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 20:25 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 20:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 20:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 20:21 www.linkedin.com</li>
 <li class='same'> 20:20 www.linkedin.com</li>
@@ -77146,7 +77257,7 @@ With number of accesses/minutes in parentheses
 <li> 16:22 www.deenalarsen.net</li>
 <li> 16:20 docs.google.com</li>
 <li> 16:20 newmediawritingprize.co.uk</li>
-<li> 16:19 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:19 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:19 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:18 51.148.131.133:8008</li>
 <li class='same'> 16:01 51.148.131.133:8008</li>
@@ -77185,7 +77296,7 @@ With number of accesses/minutes in parentheses
 <li> 12:17 mail.rhul.ac.uk</li>
 <li> 12:17 mail.google.com</li>
 <li> 12:17 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 12:17 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:16 docs.google.com</li>
 <li class='same'> 12:15 docs.google.com</li>
 <li class='same'> 12:14 docs.google.com</li>
@@ -77595,7 +77706,7 @@ With number of accesses/minutes in parentheses
 <li> 09:08 chat.openai.com</li>
 <li> 09:00 <a href="https://www.theguardian.com/business/2025/may/13/m-and-s-personal-data-cyber-attack-marks-spencer-card-passwords">M&amp;S says some personal data was taken in cyber-attack | Marks &amp; Spencer | The Guardian</a></li>
 <li> 08:34 <a href="https://joereddington.com/2025/03/25/space-photos.html">Space Photos | Joe Reddington</a></li>
-<li> 08:34 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:34 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 08:09 www.reddit.com</li>
 <li> 08:09 <a href="https://www.theguardian.com/football/2025/may/12/harry-kane-its-nice-to-be-on-the-other-side-ive-seen-my-fair-share-of-other-teams-lifting-trophies">Harry Kane: ‘It’s nice to be on the other side … I’ve seen my fair share of other teams lifting trophies’ | Harry Kane | The Guardian</a></li>
@@ -78347,7 +78458,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 01:05 www.thingiverse.com</li>
 <li> 01:05 chatgpt.com</li>
 <li> 01:04 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
-<li> 01:04 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 01:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 01:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 01:04 www.thingiverse.com</li>
 <li class='same'> 01:03 www.thingiverse.com</li>
@@ -78416,7 +78527,7 @@ With number of accesses/minutes in parentheses
 <li> 23:52 feedly.com</li>
 <li> 23:52 mail.google.com</li>
 <li> 23:45 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 23:45 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 23:45 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 23:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 23:37 51.148.131.133:8008</li>
 <li> 23:36 fritz.box</li>
@@ -78678,7 +78789,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:33 www.facebook.com</li>
 <li class='same'> 15:30 www.facebook.com</li>
 <li> 15:30 <a href="https://joereddington.com/2025/05/09/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 15:30 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:30 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:30 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:29 outlook.office365.com</li>
 <li class='same'> 15:22 outlook.office365.com</li>
@@ -80229,7 +80340,7 @@ With number of accesses/minutes in parentheses
 <li> 06:12 www.herts.ac.uk</li>
 <li> 06:11 www.amazon.co.uk</li>
 <li> 06:09 <a href="https://joereddington.com/2025/03/25/space-photos.html">Space Photos | Joe Reddington</a></li>
-<li> 06:09 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 06:09 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:09 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 06:07 docs.google.com</li>
 <li class='same'> 06:06 docs.google.com</li>
@@ -83290,7 +83401,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:59 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 16:59 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:59 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:59 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:59 adblockplus.org</li>
 <li> 16:53 www.factorio.com</li>
@@ -85125,14 +85236,14 @@ With number of accesses/minutes in parentheses
 <li> 20:46 m.media-amazon.com</li>
 <li> 20:46 www.amazon.co.uk</li>
 <li> 20:46 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
-<li> 20:46 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 20:46 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 20:46 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 20:46 www.rtings.com</li>
 <li class='same'> 20:45 www.rtings.com</li>
 <li> 20:42 www.eizo.be</li>
 <li> 20:41 www.amazon.co.uk</li>
 <li> 20:41 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
-<li> 20:41 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 20:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 20:41 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 20:41 duckduckgo.com</li>
 <li> 20:40 www.rtings.com</li>
@@ -85153,7 +85264,7 @@ With number of accesses/minutes in parentheses
 <li> 20:10 <a href="https://www.youtube.com/">(35) YouTube</a></li>
 <li> 20:05 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
 <li> 20:05 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 20:05 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 20:05 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 20:05 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 20:03 <a href="https://www.youtube.com/watch?v=8bUuOsIhqBM">(298) Exercise Scientist Critiques YOUR Training Video Submissions! - YouTube</a></li>
 <li> 20:03 <a href="https://www.youtube.com/watch?v=pbK1gYFjxmk">(299) VIDEO FOR TEST TV VERTICAL BANDING - YouTube</a></li>
@@ -85225,7 +85336,7 @@ With number of accesses/minutes in parentheses
 <li> 13:53 forms.office.com</li>
 <li> 13:53 outlook.office.com</li>
 <li> 13:47 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 13:47 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:47 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:20 www.researchgate.net</li>
 <li> 13:19 duckduckgo.com</li>
@@ -85241,7 +85352,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:23 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
-<li> 12:23 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:21 chatgpt.com</li>
 <li class='same'> 12:20 chatgpt.com</li>
@@ -85650,7 +85761,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 07:31 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
 <li> 07:31 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
-<li> 07:31 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:31 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:31 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:24 github.com</li>
 <li> 07:15 www.theguardian.com</li>
@@ -85702,7 +85813,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:15 bsky.app</li>
 <li> 17:13 <a href="https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html">You should have an Asked Questions list for your students | Joe Reddington</a></li>
-<li> 17:13 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:13 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:13 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:12 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
 <li> 17:11 bsky.app</li>
@@ -86183,7 +86294,7 @@ With number of accesses/minutes in parentheses
 <li> 21:06 www.reddit.com</li>
 <li> 21:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 21:06 <a href="https://joereddington.com/2025/03/25/space-photos.html">Space Photos | Joe Reddington</a></li>
-<li> 21:06 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 21:06 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 21:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 21:05 web.whatsapp.com</li>
 <li> 21:05 www.theguardian.com</li>
@@ -86244,7 +86355,7 @@ With number of accesses/minutes in parentheses
 <li> 19:07 www.darkskytelescopehire.co.uk</li>
 <li class='same'> 19:06 www.darkskytelescopehire.co.uk</li>
 <li> 19:05 duckduckgo.com</li>
-<li> 19:03 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 19:03 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:03 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
 <li> 19:03 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 </ul>
@@ -86311,7 +86422,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:29 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 11:29 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:29 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:29 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 11:10 chatgpt.com</li>
 <li class='same'> 11:09 chatgpt.com</li>
@@ -86663,7 +86774,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 06:59 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
-<li> 06:59 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 06:59 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:56 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 06:54 chatgpt.com</li>
 <li> 06:54 chat.openai.com</li>
@@ -86800,7 +86911,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:13 127.0.0.1:4000</li>
 <li class='same'> 11:12 127.0.0.1:4000</li>
 <li> 11:10 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
-<li> 11:10 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:10 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:09 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 11:08 equalitytime.co.uk</li>
 <li> 11:08 www.google.com</li>
@@ -87168,12 +87279,12 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:50 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li> 06:50 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 06:50 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 06:50 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:48 <a href="https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html">You should have an Asked Questions list for your students | Joe Reddington</a></li>
 <li> 06:48 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
-<li> 06:47 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 06:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:47 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
-<li> 06:47 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 06:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:46 www.oreilly.com</li>
 <li> 06:46 discord.com</li>
 <li class='same'> 06:45 discord.com</li>
@@ -87219,12 +87330,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:05 chatgpt.com</li>
 <li> 20:05 chat.openai.com</li>
 <li> 19:54 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
-<li> 19:54 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 19:54 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:54 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 19:47 docs.google.com</li>
 <li class='same'> 19:46 docs.google.com</li>
 <li> 19:45 <a href="https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html">You should have an Asked Questions list for your students | Joe Reddington</a></li>
-<li> 19:45 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 19:45 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 19:45 mail.google.com</li>
 <li> 19:41 wiki.factorio.com</li>
@@ -87242,13 +87353,13 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 16:47 <a href="https://xkcd.com/simplewriter/"></a></li>
 <li> 16:47 <a href="https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html">You should have an Asked Questions list for your students | Joe Reddington</a></li>
-<li> 16:47 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:47 outlook.office.com</li>
 <li class='same'> 16:46 outlook.office.com</li>
 <li> 16:46 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:25 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
 <li> 16:25 <a href="https://joereddington.com/narrativemaps.html">Maps of Books | Joe Reddington</a></li>
-<li> 16:25 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:21 www.qmul.ac.uk</li>
 <li> 16:21 www.facebook.com</li>
@@ -87270,7 +87381,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:10 www.facebook.com</li>
-<li> 15:09 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:09 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:09 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:09 outlook.office.com</li>
 <li class='same'> 15:08 outlook.office.com</li>
@@ -87314,14 +87425,14 @@ With number of accesses/minutes in parentheses
 <li> 13:38 duckduckgo.com</li>
 <li class='same'> 13:37 duckduckgo.com</li>
 <li> 13:35 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 13:35 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:35 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:34 link.springer.com</li>
 <li> 13:34 scholar.google.com</li>
 <li> 13:33 link.springer.com</li>
 <li> 13:33 idp.springer.com</li>
 <li> 13:33 scholar.google.com</li>
 <li> 13:31 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
-<li> 13:31 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:31 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:31 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:29 scholar.google.com</li>
 <li> 13:29 pmc.ncbi.nlm.nih.gov</li>
@@ -87589,7 +87700,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:29 bsky.app</li>
 <li class='same'> 16:27 bsky.app</li>
 <li> 16:25 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 16:25 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:25 bsky.app</li>
 <li> 16:24 web.whatsapp.com</li>
@@ -88075,7 +88186,7 @@ With number of accesses/minutes in parentheses
 <li> 12:31 gmail.com</li>
 <li> 12:27 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:24 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 12:23 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:15 chatgpt.com</li>
 <li> 12:15 chat.openai.com</li>
@@ -88422,7 +88533,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:05 chatgpt.com</li>
 <li> 16:04 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
 <li> 16:04 <a href="https://joereddington.com/2025/03/11/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 16:04 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:03 chatgpt.com</li>
 <li> 15:42 www.theguardian.com</li>
@@ -88967,7 +89078,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:25 www.facebook.com</li>
 <li class='same'> 12:24 www.facebook.com</li>
 <li> 12:24 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 12:24 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:24 www.facebook.com</li>
 <li class='same'> 12:23 www.facebook.com</li>
@@ -89228,7 +89339,7 @@ With number of accesses/minutes in parentheses
 <li> 12:03 community.spotify.com</li>
 <li> 12:03 duckduckgo.com</li>
 <li> 11:56 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 11:56 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:56 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:56 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 11:54 mail.google.com</li>
 <li> 11:54 docs.google.com</li>
@@ -89609,7 +89720,7 @@ With number of accesses/minutes in parentheses
 <li> 09:39 duckduckgo.com</li>
 <li> 09:38 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
 <li> 09:32 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 09:32 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:32 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:32 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:32 mail.google.com</li>
 <li class='same'> 09:26 mail.google.com</li>
@@ -89649,24 +89760,24 @@ With number of accesses/minutes in parentheses
 <li> 07:28 feedly.com</li>
 <li> 07:28 mail.google.com</li>
 <li> 07:28 gmail.com</li>
-<li> 07:27 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:27 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:26 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 07:26 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:26 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:24 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 07:24 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:22 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
-<li> 07:22 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:22 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:20 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 07:20 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:20 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:17 <a href="https://joereddington.com/2024/07/31/examining-bluetooth-cadence-sensor.html">Examining Bluetooth Cadence Sensor | Joe Reddington</a></li>
-<li> 07:12 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:12 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:12 <a href="https://joereddington.com/2025/03/09/advanced-spin-bike-speedometer.html">My Bike Speedometer is 60 times more accurate than yours | Joe Reddington</a></li>
-<li> 07:12 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:12 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:48 www.amazon.co.uk</li>
 <li> 06:47 <a href="https://en.wikipedia.org/wiki/Arduino">Arduino - Wikipedia</a></li>
 <li> 06:47 duckduckgo.com</li>
 <li> 06:35 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
-<li> 06:35 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 06:35 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:35 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 06:33 chatgpt.com</li>
 <li> 06:33 chat.openai.com</li>
@@ -91971,7 +92082,7 @@ With number of accesses/minutes in parentheses
 <li> 09:13 chatgpt.com</li>
 <li class='same'> 09:12 chatgpt.com</li>
 <li> 09:11 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 09:11 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:11 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:10 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:09 articles.outlier.org</li>
 <li> 09:09 duckduckgo.com</li>
@@ -92128,7 +92239,7 @@ With number of accesses/minutes in parentheses
 <li> 13:56 moodle.royalholloway.ac.uk</li>
 <li> 13:56 outlook.office.com</li>
 <li> 13:52 <a href="https://joereddington.com/2025/01/08/grat.html">Gratitude! | Joe Reddington</a></li>
-<li> 13:52 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:52 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:51 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:48 mail.google.com</li>
 <li class='same'> 13:43 mail.google.com</li>
@@ -92508,7 +92619,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:28 rhul.sharepoint.com</li>
 <li class='same'> 12:27 rhul.sharepoint.com</li>
 <li> 12:21 <a href="https://joereddington.com/2023/12/19/10-000-pages.html">10,000 pages | Joe Reddington</a></li>
-<li> 12:21 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:21 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:21 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:20 docs.google.com</li>
 <li> 12:18 mail.google.com</li>
@@ -92632,7 +92743,7 @@ With number of accesses/minutes in parentheses
 <li> 09:29 outlook.office.com</li>
 <li class='same'> 09:28 outlook.office.com</li>
 <li> 09:25 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
-<li> 09:25 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:25 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:23 www.linkedin.com</li>
 <li class='same'> 09:22 www.linkedin.com</li>
@@ -92671,11 +92782,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:15 outlook.office.com</li>
 <li class='same'> 07:14 outlook.office.com</li>
 <li> 06:58 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
-<li> 06:58 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 06:58 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:58 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 06:57 forms.office.com</li>
 <li> 06:57 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
-<li> 06:57 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 06:57 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:57 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 06:56 outlook.office.com</li>
 <li class='same'> 06:55 outlook.office.com</li>
@@ -92909,7 +93020,7 @@ With number of accesses/minutes in parentheses
 <li> 09:16 <a href="https://en.wikipedia.org/wiki/Romeo_%2B_Juliet">Romeo + Juliet - Wikipedia</a></li>
 <li> 09:16 www.google.com</li>
 <li> 09:11 <a href="https://joereddington.com/2020/08/26/plays.html">Shakespeare | Joe Reddington</a></li>
-<li> 09:11 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:11 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:11 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:01 www.reddit.com</li>
 <li> 09:00 askubuntu.com</li>
@@ -92932,7 +93043,7 @@ With number of accesses/minutes in parentheses
 <li> 06:35 chat.openai.com</li>
 <li> 06:31 adblockplus.org</li>
 <li> 06:31 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
-<li> 06:31 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 06:31 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:31 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 06:31 <a href="https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep,_Where_Do_We_Go%3F#Track_listing">When We All Fall Asleep, Where Do We Go? - Wikipedia</a></li>
 <li> 06:31 <a href="https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep,_Where_Do_We_Go%3F">When We All Fall Asleep, Where Do We Go? - Wikipedia</a></li>
@@ -93099,16 +93210,16 @@ With number of accesses/minutes in parentheses
 <li> 07:32 chatgpt.com</li>
 <li> 07:32 chat.openai.com</li>
 <li> 07:32 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
-<li> 07:32 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:32 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:30 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:30 <a href="https://joereddington.com/2025/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
 <li> 07:30 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:28 <a href="https://joereddington.com/2024/12/26/20-000-pages-in-2024.html">20,000 pages in 2024 | Joe Reddington</a></li>
-<li> 07:28 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:28 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:28 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
-<li> 07:28 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:28 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:28 <a href="https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html">Saving Keystokes, Baby Advice | Joe Reddington</a></li>
-<li> 07:27 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:27 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:27 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:26 bsky.app</li>
 <li class='same'> 07:24 bsky.app</li>
@@ -93302,7 +93413,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:26 bsky.app</li>
 <li class='same'> 17:21 bsky.app</li>
 <li class='same'> 17:20 bsky.app</li>
-<li> 17:20 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:20 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:19 www.amazon.co.uk</li>
 <li> 17:18 docs.google.com</li>
 <li> 17:18 web.whatsapp.com</li>
@@ -93670,9 +93781,9 @@ With number of accesses/minutes in parentheses
 <li> 07:18 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:18 <a href="https://joereddington.com/2025/01/28/cliche.html">Cliche | Joe Reddington</a></li>
 <li> 07:18 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
-<li> 07:18 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:18 <a href="https://joereddington.com/2025/02/15/sweet-sweet-potatoes.html">Sweet Sweet Potatoes | Joe Reddington</a></li>
-<li> 07:18 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:18 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:15 docs.google.com</li>
 <li> 07:14 mail.google.com</li>
@@ -94036,48 +94147,48 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:17 knifeinformer.com</li>
 <li> 13:17 duckduckgo.com</li>
 <li> 13:16 www.ebay.co.uk</li>
-<li> 13:15 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:15 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:12 web.whatsapp.com</li>
 <li> 13:09 docs.google.com</li>
 <li class='same'> 13:08 docs.google.com</li>
-<li> 13:07 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:07 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 </ul>
 
 <br>
 
 <ul><li> 08:25 docs.google.com</li>
-<li> 08:21 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:21 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:21 mail.google.com</li>
 <li class='same'> 08:20 mail.google.com</li>
 <li class='same'> 08:19 mail.google.com</li>
 <li> 08:19 gmail.com</li>
 <li> 08:19 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
-<li> 08:19 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:19 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:19 <a href="https://joereddington.com/social/">Connect with Me | Joe Reddington</a></li>
 <li> 08:19 <a href="https://joereddington.com/2025/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
 <li> 08:19 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 08:18 <a href="https://joereddington.com/2024/08/09/sad.html">Sad | Joe Reddington</a></li>
-<li> 08:18 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:17 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
-<li> 08:17 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:17 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 08:17 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:17 <a href="https://joereddington.com/2025/01/28/cliche.html">Cliche | Joe Reddington</a></li>
-<li> 08:17 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:17 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 08:17 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
-<li> 08:16 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:16 <a href="https://joereddington.com/2025/02/15/sweet-sweet-potatoes.html">Sweet Sweet Potatoes | Joe Reddington</a></li>
-<li> 08:16 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 08:15 <a href="https://joereddington.com/2025/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
-<li> 08:15 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:15 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:14 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 08:12 <a href="https://joereddington.com/2025/02/15/sweet-sweet-potatoes.html">Sweet Sweet Potatoes | Joe Reddington</a></li>
 <li> 08:10 www.amazon.co.uk</li>
-<li> 08:10 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:10 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:10 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
-<li> 08:10 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:10 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 08:10 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 08:07 web.whatsapp.com</li>
 <li> 08:04 <a href="https://en.wikipedia.org/wiki/Thermal_immersion_circulator">Thermal immersion circulator - Wikipedia</a></li>
@@ -94085,9 +94196,9 @@ With number of accesses/minutes in parentheses
 <li> 07:59 chatgpt.com</li>
 <li> 07:58 web.whatsapp.com</li>
 <li> 07:57 www.amazon.co.uk</li>
-<li> 07:56 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:56 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:52 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 07:52 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:52 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:52 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:50 pypi.org</li>
 <li> 07:50 duckduckgo.com</li>
@@ -94453,7 +94564,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 21:09 www.google.com</li>
-<li> 20:54 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 20:54 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 20:54 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
 <li> 20:54 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 20:54 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
@@ -94565,7 +94676,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:53 <a href="https://joereddington.com/assets/TeachingRoomFontSizes.pdf">The itest project | Joe Reddington</a></li>
 <li> 11:53 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
-<li> 11:52 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:52 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:52 outlook.office.com</li>
 <li> 11:52 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 11:43 web.whatsapp.com</li>
@@ -95841,9 +95952,9 @@ With number of accesses/minutes in parentheses
 <li> 12:20 www.linkedin.com</li>
 <li class='same'> 12:19 www.linkedin.com</li>
 <li> 12:18 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
-<li> 12:18 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:17 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 12:17 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:17 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:17 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:16 www.royalholloway.ac.uk</li>
 <li> 12:16 duckduckgo.com</li>
@@ -95992,7 +96103,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 22:34 www.linkedin.com</li>
 <li> 22:34 accounts.google.com</li>
 <li> 22:34 www.linkedin.com</li>
-<li> 22:34 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 22:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 22:33 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 22:33 publish.buffer.com</li>
 <li class='same'> 22:32 publish.buffer.com</li>
@@ -96069,12 +96180,12 @@ With number of accesses/minutes in parentheses
 <li> 10:14 duckduckgo.com</li>
 <li class='same'> 10:13 duckduckgo.com</li>
 <li> 10:13 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
-<li> 10:13 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:13 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:11 publish.buffer.com</li>
 <li> 10:11 account.buffer.com</li>
 <li> 10:10 bsky.app</li>
 <li> 10:10 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
-<li> 10:10 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:10 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:10 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:08 bsky.app</li>
 <li class='same'> 10:07 bsky.app</li>
@@ -96281,9 +96392,9 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 13:35 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
-<li> 13:34 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:33 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
-<li> 13:33 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:33 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:33 outlook.office.com</li>
 <li> 13:17 forms.office.com</li>
 <li> 13:14 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -96397,13 +96508,13 @@ With number of accesses/minutes in parentheses
 <li> 09:38 chat.openai.com</li>
 <li> 09:30 duckduckgo.com</li>
 <li class='same'> 09:26 duckduckgo.com</li>
-<li> 09:26 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:26 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:25 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
-<li> 09:25 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:25 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
-<li> 09:25 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:25 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:24 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 09:24 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:18 outlook.office.com</li>
 <li> 09:18 outlook.office365.com</li>
@@ -97991,7 +98102,7 @@ With number of accesses/minutes in parentheses
 <li> 18:34 www.google.com</li>
 <li> 18:33 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
 <li> 18:33 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 18:33 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:33 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:33 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 18:33 www.amazon.co.uk</li>
 <li> 18:33 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -98214,7 +98325,7 @@ With number of accesses/minutes in parentheses
 <li> 10:18 accounts.google.com</li>
 <li> 10:17 docs.google.com</li>
 <li> 10:16 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 10:16 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:16 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:16 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:12 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 10:10 docs.google.com</li>
@@ -98414,7 +98525,7 @@ With number of accesses/minutes in parentheses
 <li> 13:11 www.reddit.com</li>
 <li> 13:10 web.whatsapp.com</li>
 <li> 13:03 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
-<li> 13:03 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:03 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:02 fast.com</li>
 <li> 13:02 outlook.office.com</li>
@@ -98515,7 +98626,7 @@ With number of accesses/minutes in parentheses
 <li> 10:32 gmail.com</li>
 <li> 10:31 www.amazon.co.uk</li>
 <li> 10:29 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
-<li> 10:29 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:29 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:29 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:28 www.amazon.co.uk</li>
 <li> 10:28 fast.com</li>
@@ -98533,7 +98644,7 @@ With number of accesses/minutes in parentheses
 <li> 10:15 duckduckgo.com</li>
 <li> 10:09 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
 <li class='same'> 10:08 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
-<li> 10:08 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:08 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:08 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:08 duckduckgo.com</li>
 <li> 10:07 www.reddit.com</li>
@@ -98607,7 +98718,7 @@ With number of accesses/minutes in parentheses
 <li> 06:39 www.amazon.co.uk</li>
 <li> 06:39 amazon.co.uk</li>
 <li> 06:35 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 06:35 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 06:35 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:35 <a href="https://joereddington.com/2025/01/28/cliche.html">Cliche | Joe Reddington</a></li>
 <li> 06:35 outlook.office.com</li>
 <li> 06:35 outlook.office365.com</li>
@@ -98634,7 +98745,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 21:09 tvtropes.org</li>
 <li class='same'> 21:06 tvtropes.org</li>
 <li> 21:06 <a href="https://joereddington.com/2025/01/28/cliche.html">Cliche | Joe Reddington</a></li>
-<li> 21:06 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 21:06 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 21:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 21:04 bsky.app</li>
 <li> 21:04 web.whatsapp.com</li>
@@ -98688,7 +98799,7 @@ With number of accesses/minutes in parentheses
 <li> 19:22 www.google.com</li>
 <li> 19:22 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
 <li> 19:22 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 19:22 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 19:22 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:22 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 19:21 fast.com</li>
 <li class='same'> 19:20 fast.com</li>
@@ -98701,13 +98812,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:13 mail.google.com</li>
 <li> 19:13 gmail.com</li>
 <li> 19:11 <a href="https://joereddington.com/2025/01/28/cliche.html">Cliche | Joe Reddington</a></li>
-<li> 19:11 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 19:11 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:11 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 19:11 outlook.office.com</li>
 <li> 19:11 bsky.app</li>
 <li class='same'> 19:09 bsky.app</li>
 <li> 19:00 <a href="https://joereddington.com/2020/05/09/wires.html">So people have been asking about the wires | Joe Reddington</a></li>
-<li> 19:00 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 19:00 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:00 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 18:57 tvtropes.org</li>
 <li> 18:57 duckduckgo.com</li>
@@ -98866,9 +98977,9 @@ With number of accesses/minutes in parentheses
 <li> 12:56 gmail.om</li>
 <li> 12:54 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
 <li> 12:54 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 12:54 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:54 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:49 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
-<li> 12:49 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:49 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:49 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:46 equalitytime.github.io</li>
 <li> 12:45 outlook.office.com</li>
@@ -99217,7 +99328,7 @@ With number of accesses/minutes in parentheses
 <li> 13:52 calendar.google.com</li>
 <li> 13:46 www.google.com</li>
 <li> 13:37 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 13:37 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:35 chatgpt.com</li>
 <li> 13:35 chat.openai.com</li>
@@ -99673,7 +99784,7 @@ With number of accesses/minutes in parentheses
 <li> 20:56 <a href="https://stackoverflow.com/questions/990754/how-to-leave-exit-deactivate-a-python-virtualenv">How to leave/exit/deactivate a Python virtualenv - Stack Overflow</a></li>
 <li> 20:56 www.google.com</li>
 <li> 20:53 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 20:52 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 20:52 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 20:52 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 20:43 chatgpt.com</li>
 <li class='same'> 20:42 chatgpt.com</li>
@@ -102505,7 +102616,7 @@ With number of accesses/minutes in parentheses
 <li> 19:07 www.thecut.com</li>
 <li> 19:07 www.google.com</li>
 <li> 19:06 <a href="https://joereddington.com/2024/12/26/20-000-pages-in-2024.html">20,000 pages in 2024 | Joe Reddington</a></li>
-<li> 19:06 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 19:06 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 19:06 www.google.com</li>
 <li> 18:40 www.researchgate.net</li>
@@ -102763,7 +102874,7 @@ With number of accesses/minutes in parentheses
 <li> 16:54 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
 <li> 16:53 bsky.app</li>
 <li> 16:53 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 16:53 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:53 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:53 www.facebook.com</li>
 <li class='same'> 16:52 www.facebook.com</li>
@@ -102787,9 +102898,9 @@ With number of accesses/minutes in parentheses
 <li> 16:44 www.google.com</li>
 <li> 16:43 claude.ai</li>
 <li> 16:43 <a href="https://joereddington.com/2025/01/10/how-long-does-marking-take.html">How long does marking take? | Joe Reddington</a></li>
-<li> 16:43 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:43 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:43 mail.google.com</li>
-<li> 16:42 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:42 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:40 mail.google.com</li>
 <li> 16:39 bsky.app</li>
@@ -103461,7 +103572,7 @@ With number of accesses/minutes in parentheses
 <li> 16:23 bsky.app</li>
 <li> 16:22 www.facebook.com</li>
 <li> 16:22 <a href="https://joereddington.com/2025/01/08/gratitude.html">Gratitude! | Joe Reddington</a></li>
-<li> 16:22 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:22 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:22 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:21 bsky.app</li>
 <li class='same'> 16:20 bsky.app</li>
@@ -103474,7 +103585,7 @@ With number of accesses/minutes in parentheses
 <li> 15:52 <a href="https://www.youtube.com/">(35) YouTube</a></li>
 <li> 15:50 claude.ai</li>
 <li> 15:49 <a href="https://joereddington.com/2025/01/08/gratitude.html">Gratitude! | Joe Reddington</a></li>
-<li> 15:49 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:49 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:49 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:48 outlook.office.com</li>
 <li class='same'> 15:44 outlook.office.com</li>
@@ -103523,7 +103634,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:51 github.com</li>
 <li> 14:48 bsky.app</li>
 <li> 14:48 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 14:48 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:48 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:48 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:48 bsky.app</li>
 <li> 14:46 127.0.0.1:4000</li>
@@ -103531,7 +103642,7 @@ With number of accesses/minutes in parentheses
 <li> 14:45 askubuntu.com</li>
 <li> 14:45 127.0.0.1:4000</li>
 <li> 14:44 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 14:44 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:44 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:44 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:44 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
 <li> 14:43 127.0.0.1:4000</li>
@@ -103740,7 +103851,7 @@ With number of accesses/minutes in parentheses
 <li> 07:19 bbs.archlinux.org</li>
 <li> 07:19 www.google.com</li>
 <li> 07:04 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
-<li> 07:04 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:03 <a href="https://www.youtube.com/watch?v=9SltrMMeytU">Deep Focus Music To Improve Concentration - Ambient Music For Studying, Concentration and Work #1 - YouTube</a></li>
 <li> 07:03 <a href="https://www.youtube.com/results?search_query=focus+music">focus music - YouTube</a></li>
@@ -103832,17 +103943,17 @@ With number of accesses/minutes in parentheses
 <li> 18:53 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
 <li> 18:26 calendar.google.com</li>
 <li> 18:21 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
-<li> 18:21 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:21 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:20 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
-<li> 18:20 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:20 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:19 <a href="https://joereddington.com/2021/01/28/Finder-Zero-You-use-far-fewer-files-than-you-think,-so-stop-hoarding-them.html">Finder Zero - You use far fewer files than you think, so stop hoarding them | Joe Reddington</a></li>
-<li> 18:19 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:19 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:18 bsky.app</li>
 <li> 18:17 docs.google.com</li>
 <li class='same'> 18:16 docs.google.com</li>
 <li> 18:15 bsky.app</li>
 <li> 18:14 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
-<li> 18:14 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:14 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:14 docs.google.com</li>
 <li> 18:14 bsky.app</li>
 <li> 18:14 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -103903,17 +104014,17 @@ With number of accesses/minutes in parentheses
 <li> 15:27 askubuntu.com</li>
 <li> 15:27 www.google.com</li>
 <li> 15:18 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
-<li> 15:18 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:15 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
 <li> 15:15 <a href="https://joereddington.com/2021/01/28/Finder-Zero-You-use-far-fewer-files-than-you-think,-so-stop-hoarding-them.html">Finder Zero - You use far fewer files than you think, so stop hoarding them | Joe Reddington</a></li>
 <li> 15:15 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
-<li> 15:14 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:14 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:14 <a href="https://joereddington.com/2023/12/06/gtd.html">GTD | Joe Reddington</a></li>
-<li> 15:14 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:14 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:14 <a href="https://joereddington.com/2024/01/10/todo-txt-script-q-a.html">From email: todo.txt | Joe Reddington</a></li>
-<li> 15:14 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:14 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:13 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
-<li> 15:13 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:13 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:13 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:13 www.google.com</li>
 <li> 14:49 bsky.app</li>
@@ -104455,7 +104566,7 @@ With number of accesses/minutes in parentheses
 <li> 14:49 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
 <li> 14:49 docs.google.com</li>
 <li> 14:46 <a href="https://joereddington.com/2024/03/12/half-marathon.html">Long Distance Running | Joe Reddington</a></li>
-<li> 14:45 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:45 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:45 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:43 feedly.com</li>
 <li> 14:42 docs.google.com</li>
@@ -104567,7 +104678,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:40 chatgpt.com</li>
 <li class='same'> 06:39 chatgpt.com</li>
 <li> 06:34 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
-<li> 06:34 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 06:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 06:34 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 06:32 www.google.com</li>
 <li> 06:29 chatgpt.com</li>
@@ -104683,7 +104794,7 @@ With number of accesses/minutes in parentheses
 <li> 07:22 forum.manjaro.org</li>
 <li> 07:22 www.reddit.com</li>
 <li> 07:20 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
-<li> 07:20 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 07:20 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:20 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 07:20 www.reddit.com</li>
 <li> 07:20 bugs.launchpad.net</li>
@@ -104807,7 +104918,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 20:43 www.google.com</li>
 <li> 20:23 www.reddit.com</li>
-<li> 20:19 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 20:19 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 20:19 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 20:18 www.linkedin.com</li>
 <li class='same'> 20:15 www.linkedin.com</li>
@@ -104904,7 +105015,7 @@ With number of accesses/minutes in parentheses
 <li> 20:19 www.oca.ac.uk</li>
 <li> 20:19 www.google.com</li>
 <li> 20:18 <a href="https://joereddington.com/2024/12/26/20-000-pages-in-2024.html">20,000 pages in 2024 | Joe Reddington</a></li>
-<li> 20:18 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 20:18 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 20:18 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
 <li> 20:18 calendar.google.com</li>
 <li> 20:18 thebookerprizes.com</li>
@@ -105068,26 +105179,26 @@ With number of accesses/minutes in parentheses
 <li> 11:06 chatgpt.com</li>
 <li> 11:06 chat.openai.com</li>
 <li> 11:05 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
-<li> 11:05 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:05 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:05 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 11:03 chatgpt.com</li>
 <li> 11:03 chat.openai.com</li>
 <li> 11:03 <a href="https://joereddington.com/2025/01/01/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
-<li> 11:02 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:02 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:02 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 11:02 web.whatsapp.com</li>
 <li> 10:53 chatgpt.com</li>
 <li> 10:53 chat.openai.com</li>
 <li> 10:50 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
-<li> 10:50 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:50 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:50 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:50 0.0.0.0:8000</li>
 <li> 10:49 <a href="https://joereddington.com/2024/01/02/hellomynameis.html">Hello, My name is Joe! | Joe Reddington</a></li>
-<li> 10:48 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:48 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:48 chatgpt.com</li>
 <li> 10:48 chat.openai.com</li>
 <li> 10:48 <a href="https://joereddington.com/2024/12/26/20-000-pages-in-2024.html">20,000 pages in 2024 | Joe Reddington</a></li>
-<li> 10:48 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:48 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:48 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:46 www.reddit.com</li>
 <li> 10:46 www.google.com</li>
@@ -105125,7 +105236,7 @@ With number of accesses/minutes in parentheses
 <li> 09:21 docs.google.com</li>
 <li> 09:10 bsky.app</li>
 <li class='same'> 09:07 bsky.app</li>
-<li> 09:05 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:05 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:05 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:05 www.facebook.com</li>
 <li class='same'> 09:04 www.facebook.com</li>
@@ -105910,10 +106021,10 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 15:15 bsky.app</li>
-<li> 15:14 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:14 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:08 <a href="https://joereddington.com/2021/01/02/mynameis.html">Hello, my name is Joe! | Joe Reddington</a></li>
 <li> 15:06 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
-<li> 15:06 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:06 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:04 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 15:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:04 www.facebook.com</li>
@@ -106101,7 +106212,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:59 docs.google.com</li>
 <li class='same'> 19:58 docs.google.com</li>
 <li> 19:57 <a href="https://joereddington.com/2023/12/19/10-000-pages.html">10,000 pages | Joe Reddington</a></li>
-<li> 19:57 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 19:57 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 19:56 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 19:56 docs.google.com</li>
 <li> 19:42 rot13.com</li>
@@ -106392,7 +106503,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 20:42 <a href="https://joereddington.com/2024/06/10/bike.html">ViciousCycle: Cadence sensors in games | Joe Reddington</a></li>
-<li> 20:42 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 20:42 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 20:42 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 20:42 lovingitvegan.com</li>
 </ul>
@@ -106666,7 +106777,7 @@ With number of accesses/minutes in parentheses
 <li> 12:13 mail.google.com</li>
 <li class='same'> 12:12 mail.google.com</li>
 <li> 12:12 gmail.com</li>
-<li> 12:12 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:12 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:12 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:11 web.whatsapp.com</li>
 <li> 12:08 bsky.app</li>
@@ -107016,7 +107127,7 @@ With number of accesses/minutes in parentheses
 <li> 14:14 www.giantitp.com</li>
 <li> 14:14 outlook.office365.com</li>
 <li> 14:14 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 14:14 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:14 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:14 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:14 mail.google.com</li>
 <li> 14:14 gmail.com</li>
@@ -108233,7 +108344,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:44 www.facebook.com</li>
 <li class='same'> 11:43 www.facebook.com</li>
 <li> 11:43 <a href="https://joereddington.com/2024/12/13/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 11:43 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:43 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:43 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
 <li> 11:42 www.google.com</li>
 <li> 11:40 bsky.app</li>
@@ -108241,8 +108352,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:33 bsky.app</li>
 <li> 11:33 bluesky-thread-composer.pages.dev</li>
 <li> 11:32 <a href="https://joereddington.com/2024/12/13/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 11:32 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
-<li class='same'> 11:08 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 11:32 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li class='same'> 11:08 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 11:08 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 11:03 chatgpt.com</li>
 <li> 11:03 docs.google.com</li>
@@ -108251,7 +108362,7 @@ With number of accesses/minutes in parentheses
 <li> 10:59 chat.openai.com</li>
 <li> 10:58 bsky.app</li>
 <li> 10:52 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 10:52 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 10:52 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:52 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 10:49 mail.google.com</li>
 <li> 10:49 gmail.com</li>
@@ -108314,7 +108425,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:37 <a href="https://joereddington.com/2024/12/04/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 17:37 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:37 www.halfords.com</li>
 <li> 17:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:36 www.halfords.com</li>
@@ -108546,7 +108657,7 @@ With number of accesses/minutes in parentheses
 <li> 17:38 web.whatsapp.com</li>
 <li> 17:38 mail.google.com</li>
 <li> 17:38 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
-<li> 17:38 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:38 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:37 mail.google.com</li>
 <li> 17:37 gmail.com</li>
@@ -108774,7 +108885,7 @@ With number of accesses/minutes in parentheses
 <li> 10:02 51.148.131.133:8000</li>
 <li> 10:02 web.whatsapp.com</li>
 <li> 09:58 <a href="https://joereddington.com/2024/12/11/audio.html">HDMI audio | Joe Reddington</a></li>
-<li> 09:55 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:55 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:51 www.google.com</li>
 <li> 09:51 51.148.131.133:8000</li>
 <li> 09:46 chatgpt.com</li>
@@ -108782,7 +108893,7 @@ With number of accesses/minutes in parentheses
 <li> 09:38 <a href="https://joereddington.com/2023/07/05/pc.html">My new PC | Joe Reddington</a></li>
 <li> 09:38 <a href="https://joereddington.com/2024/11/13/gratitude.html">Gratitude | Joe Reddington</a></li>
 <li class='same'> 09:37 <a href="https://joereddington.com/2024/11/13/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 09:37 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:35 0.0.0.0:8000</li>
 <li> 09:31 chatgpt.com</li>
@@ -110025,13 +110136,13 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:03 bsky.app</li>
 <li> 15:02 www.linkedin.com</li>
 <li> 15:02 <a href="https://joereddington.com/2024/12/04/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 15:02 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:02 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:02 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:01 www.linkedin.com</li>
 <li class='same'> 15:00 www.linkedin.com</li>
 <li> 14:57 www.facebook.com</li>
 <li> 14:56 <a href="https://joereddington.com/2024/12/04/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 14:56 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:56 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:56 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:56 www.facebook.com</li>
 <li> 14:55 chatgpt.com</li>
@@ -110607,7 +110718,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 17:08 outlook.office.com</li>
 <li> 16:59 <a href="https://joereddington.com/2024/10/01/backup.html">Backup Notes | Joe Reddington</a></li>
-<li> 16:59 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:59 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:59 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:55 www.linkedin.com</li>
 <li> 16:55 outlook.office.com</li>
@@ -113862,7 +113973,7 @@ With number of accesses/minutes in parentheses
 <li> 13:40 github.com</li>
 <li class='same'> 13:39 github.com</li>
 <li> 13:38 <a href="https://joereddington.com/2023/12/19/10-000-pages.html">10,000 pages | Joe Reddington</a></li>
-<li> 13:38 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 13:38 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 13:38 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 13:37 www.amazon.co.uk</li>
 <li class='same'> 13:35 www.amazon.co.uk</li>
@@ -114388,7 +114499,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:05 www.flightstats.com</li>
 <li> 08:05 www.google.com</li>
-<li> 08:04 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 08:04 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 07:39 bsky.app</li>
 </ul>
 
@@ -114411,19 +114522,19 @@ With number of accesses/minutes in parentheses
 <ul><li> 18:49 bsky.app</li>
 <li class='same'> 18:48 bsky.app</li>
 <li> 18:31 <a href="https://joereddington.com/2022/02/20/holographicchoc.html">I made holographic chocolate | Joe Reddington</a></li>
-<li> 18:31 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:31 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:31 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 18:31 publish.buffer.com</li>
 <li> 18:29 <a href="https://joereddington.com/2022/11/11/dyslexia.html">Dyslexia | Joe Reddington</a></li>
 <li> 18:29 publish.buffer.com</li>
 <li> 18:28 <a href="https://joereddington.com/2023/07/03/itest.html">The itest project | Joe Reddington</a></li>
-<li> 18:27 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:27 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:27 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 18:27 <a href="https://joereddington.com/2023/12/27/spider-man.html">Spider-Man | Joe Reddington</a></li>
 <li> 18:27 <a href="https://joereddington.com/2024/03/20/exploiting-electric-blinds.html">Exploiting electric blinds | Joe Reddington</a></li>
 <li> 18:25 <a href="https://joereddington.com/2024/06/10/bingo.html">Bingo! Teaching prize | Joe Reddington</a></li>
 <li> 18:24 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
-<li> 18:24 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 18:23 bsky.app</li>
 <li class='same'> 18:22 bsky.app</li>
@@ -114433,17 +114544,17 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 17:43 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
-<li> 17:43 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:43 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:43 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:43 publish.buffer.com</li>
 <li> 17:42 support.buffer.com</li>
 <li> 17:42 www.google.com</li>
 <li> 17:41 publish.buffer.com</li>
 <li> 17:41 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li> 17:41 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:41 <a href="https://joereddington.com/2024/06/18/history.html">Rebuilding public history | Joe Reddington</a></li>
 <li> 17:41 <a href="https://joereddington.com/2024/07/17/tih.html">Today I have… | Joe Reddington</a></li>
-<li> 17:41 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:41 publish.buffer.com</li>
 <li> 17:41 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:40 publish.buffer.com</li>
@@ -114644,10 +114755,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:24 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<ul><li> 18:24 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:24 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 18:23 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
-<li> 18:23 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 18:23 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 18:23 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 18:04 buffer.com</li>
 <li> 18:04 www.google.com</li>
@@ -114781,7 +114892,7 @@ With number of accesses/minutes in parentheses
 <li> 17:42 bsky.app</li>
 <li class='same'> 17:41 bsky.app</li>
 <li> 17:41 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 17:41 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 17:41 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 17:41 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 17:41 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
 <li> 17:34 bsky.app</li>
@@ -115346,9 +115457,9 @@ With number of accesses/minutes in parentheses
 <li> 16:52 chatgpt.com</li>
 <li> 16:49 www.facebook.com</li>
 <li> 16:47 <a href="https://joereddington.com/2024/11/13/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 16:47 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:47 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
-<li> 16:47 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:47 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:46 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:46 www.facebook.com</li>
 <li> 16:45 web.whatsapp.com</li>
@@ -115527,7 +115638,7 @@ With number of accesses/minutes in parentheses
 <li> 12:41 mail.google.com</li>
 <li> 12:41 outlook.office.com</li>
 <li> 12:37 <a href="https://joereddington.com/2024/11/07/gratitude.html">Gratitude | Joe Reddington</a></li>
-<li> 12:37 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:37 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:37 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:37 mail.google.com</li>
 <li class='same'> 12:36 mail.google.com</li>
@@ -116398,7 +116509,7 @@ With number of accesses/minutes in parentheses
 <li> 15:00 www.instagram.com</li>
 <li> 14:55 www.google.com</li>
 <li> 14:53 <a href="https://joereddington.com/2024/02/26/emotional-vampires.html">Emotional Vampires! | Joe Reddington</a></li>
-<li> 14:53 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 14:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 14:53 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 14:50 docs.google.com</li>
 <li> 14:50 www.instagram.com</li>
@@ -117508,7 +117619,7 @@ With number of accesses/minutes in parentheses
 <li> 17:01 gmail.com</li>
 <li> 16:55 www.amazon.co.uk</li>
 <li> 16:48 <a href="https://joereddington.com/2024/01/05/wheel-of-life.html">Wheel of life | Joe Reddington</a></li>
-<li> 16:48 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 16:48 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 16:48 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 16:47 docs.google.com</li>
 <li> 16:47 www.google.com</li>
@@ -117949,7 +118060,7 @@ With number of accesses/minutes in parentheses
 <li> 10:08 www.linkedin.com</li>
 <li class='same'> 09:54 www.linkedin.com</li>
 <li> 09:53 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
-<li> 09:53 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 09:53 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 09:53 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 09:53 www.natesilver.net</li>
 </ul>
@@ -118242,7 +118353,7 @@ With number of accesses/minutes in parentheses
 <li> 12:05 outlook.office365.com</li>
 <li class='same'> 12:04 outlook.office365.com</li>
 <li> 12:03 <a href="https://joereddington.com/2024/07/12/references.html">References | Joe Reddington</a></li>
-<li> 12:03 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:03 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:03 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:03 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
 <li> 12:03 outlook.office365.com</li>
@@ -119145,7 +119256,7 @@ With number of accesses/minutes in parentheses
 <li> 15:10 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:07 www.linkedin.com</li>
 <li> 15:06 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
-<li> 15:06 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 15:06 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 15:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 15:05 <a href="https://joereddington.com/2021/01/02/mynameis.html">Hello, my name is Joe! | Joe Reddington</a></li>
 <li> 15:05 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
@@ -120419,7 +120530,7 @@ With number of accesses/minutes in parentheses
 <li> 12:31 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 12:30 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
 <li> 12:30 <a href="https://joereddington.com/2024/07/21/the-difficult-second-book.html">The difficult second book | Joe Reddington</a></li>
-<li> 12:30 <a href="https://joereddington.com/all_posts.html">Joe Reddington | Things I make.</a></li>
+<li> 12:30 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 12:30 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
 <li> 12:29 kdp.amazon.com</li>
 <li class='same'> 12:28 kdp.amazon.com</li>
