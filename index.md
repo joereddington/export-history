@@ -73,29 +73,29 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (5122)</li>
 <li>outlook.office365.com (4621)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3783)</li>
+<li>duckduckgo.com (3784)</li>
 <li>docs.google.com (3283)</li>
 <li>chatgpt.com (2667)</li>
-<li>www.linkedin.com (2349)</li>
+<li>www.linkedin.com (2350)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1873)</li>
 <li>moodle.royalholloway.ac.uk (1834)</li>
 <li>calendar.google.com (1511)</li>
 <li>www.amazon.co.uk (1306)</li>
-<li>login.microsoftonline.com (1291)</li>
+<li>login.microsoftonline.com (1293)</li>
 <li>chat.openai.com (1286)</li>
 <li>herts.instructure.com (1235)</li>
 <li>web.whatsapp.com (1159)</li>
 <li>gmail.com (1130)</li>
 <li>mail.rhul.ac.uk (1025)</li>
 <li>tvtropes.org (886)</li>
-<li>rhul-my.sharepoint.com (870)</li>
+<li>rhul-my.sharepoint.com (871)</li>
 <li>forms.office.com (786)</li>
 <li>feedly.com (777)</li>
 <li>www.theguardian.com (593)</li>
 <li>fritz.box (562)</li>
 <li>m365.cloud.microsoft (541)</li>
-<li>rhul.sharepoint.com (528)</li>
+<li>rhul.sharepoint.com (531)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
 
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 12/08/26</H3>
+
+<br>
+
+<ul><li> 07:59 rhul-my.sharepoint.com</li>
+<li> 07:55 rhul.sharepoint.com</li>
+<li class='same'> 07:54 rhul.sharepoint.com</li>
+<li> 07:54 login.microsoftonline.com</li>
+<li> 07:54 rhul.sharepoint.com</li>
+<li> 07:54 login.microsoftonline.com</li>
+<li> 07:53 www.linkedin.com</li>
+<li> 07:31 duckduckgo.com</li>
+</ul>
 
 <br>
 
