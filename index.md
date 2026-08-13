@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5403)</li>
+<ol><li>www.google.com (5407)</li>
 <li>mail.google.com (5336)</li>
 <li>www.reddit.com (5122)</li>
-<li>outlook.office365.com (4652)</li>
+<li>outlook.office365.com (4656)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3787)</li>
 <li>docs.google.com (3283)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 10:05 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;diff=1369158687&amp;oldid=1369108738"></a></li>
+<li> 10:05 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;action=history">Jason Arday: Revision history - Wikipedia</a></li>
+<li> 10:05 <a href="https://en.wikipedia.org/w/index.php?title=James_Harrington_(author)&amp;diff=prev&amp;oldid=984152598">James Harrington (author): Difference between revisions - Wikipedia</a></li>
+<li> 10:05 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Betrayal_of_the_intellect">User contributions for Betrayal of the intellect - Wikipedia</a></li>
+<li> 10:04 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;action=history">Jason Arday: Revision history - Wikipedia</a></li>
+<li> 10:04 <a href="https://en.wikipedia.org/wiki/Jason_Arday">Jason Arday - Wikipedia</a></li>
+<li> 10:04 meta.wikimedia.org</li>
+<li> 10:04 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
+<li> 10:04 email.octopusev.com</li>
+<li> 10:04 eur03.safelinks.protection.outlook.com</li>
+<li> 10:04 email.octopusev.com</li>
+</ul>
+
+<br>
+
 <ul><li> 08:34 fritz.box</li>
+</ul>
+
+<br>
+
+<ul><li> 07:25 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 06:47 www.google.com</li>
+<li> 06:47 outlook.office365.com</li>
+<li> 06:47 www.google.com</li>
+<li class='same'> 06:46 www.google.com</li>
+<li> 06:45 outlook.office365.com</li>
+<li class='same'> 06:44 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -127,7 +157,8 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 20:17 calendar.google.com</li>
 <li class='same'> 20:14 calendar.google.com</li>
 <li> 20:10 dashboards.rhul.ac.uk</li>
-<li> 20:04 outlook.office365.com</li>
+<li> 20:05 outlook.office365.com</li>
+<li class='same'> 20:04 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -206,7 +237,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:31 <a href="https://en.wikipedia.org/wiki/Jason_Arday">Jason Arday - Wikipedia</a></li>
 <li> 08:28 web.archive.org</li>
-<li> 08:15 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Replying on Talk:Jason Arday - Wikipedia</a></li>
+<li> 08:15 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
 <li> 08:15 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 08:15 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 08:14 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -328,7 +359,7 @@ With number of accesses/minutes in parentheses
 <li> 07:24 calendar.google.com</li>
 <li> 07:23 www.nytimes.com</li>
 <li> 07:23 duckduckgo.com</li>
-<li> 07:22 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Replying on Talk:Jason Arday - Wikipedia</a></li>
+<li> 07:22 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
 <li> 07:22 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 07:22 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 07:22 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
