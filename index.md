@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5398)</li>
+<ol><li>www.google.com (5389)</li>
 <li>mail.google.com (5345)</li>
-<li>www.reddit.com (5121)</li>
-<li>outlook.office365.com (4656)</li>
+<li>www.reddit.com (5118)</li>
+<li>outlook.office365.com (4651)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3792)</li>
-<li>docs.google.com (3288)</li>
-<li>chatgpt.com (2670)</li>
-<li>www.linkedin.com (2351)</li>
+<li>duckduckgo.com (3793)</li>
+<li>docs.google.com (3287)</li>
+<li>chatgpt.com (2669)</li>
+<li>www.linkedin.com (2349)</li>
 <li>bsky.app (2017)</li>
-<li>www.facebook.com (1873)</li>
+<li>www.facebook.com (1871)</li>
 <li>moodle.royalholloway.ac.uk (1836)</li>
-<li>calendar.google.com (1518)</li>
-<li>www.amazon.co.uk (1305)</li>
+<li>calendar.google.com (1517)</li>
+<li>www.amazon.co.uk (1304)</li>
 <li>login.microsoftonline.com (1296)</li>
-<li>chat.openai.com (1288)</li>
+<li>chat.openai.com (1287)</li>
 <li>herts.instructure.com (1234)</li>
-<li>web.whatsapp.com (1159)</li>
+<li>web.whatsapp.com (1157)</li>
 <li>gmail.com (1133)</li>
-<li>mail.rhul.ac.uk (1025)</li>
+<li>mail.rhul.ac.uk (1023)</li>
 <li>tvtropes.org (886)</li>
-<li>rhul-my.sharepoint.com (872)</li>
+<li>rhul-my.sharepoint.com (871)</li>
 <li>forms.office.com (786)</li>
-<li>feedly.com (783)</li>
-<li>www.theguardian.com (593)</li>
+<li>feedly.com (784)</li>
+<li>www.theguardian.com (588)</li>
 <li>fritz.box (563)</li>
 <li>m365.cloud.microsoft (541)</li>
-<li>rhul.sharepoint.com (531)</li>
+<li>rhul.sharepoint.com (532)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (472)</li>
+<li>drive.google.com (471)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:23 feedly.com</li>
+<ul><li> 14:58 duckduckgo.com</li>
+<li> 14:58 www.thetimes.com</li>
+<li> 14:56 <a href="https://en.wikipedia.org/w/index.php?title=Talk%3AJason_Arday&amp;diff=1369199131&amp;oldid=1369157331">Talk:Jason Arday: Difference between revisions - Wikipedia</a></li>
+<li> 14:56 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Jason_Arday&amp;action=history">Talk:Jason Arday: Revision history - Wikipedia</a></li>
+<li> 14:56 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
+<li> 14:56 <a href="https://en.wikipedia.org/wiki/Jason_Arday">Jason Arday - Wikipedia</a></li>
+<li> 14:56 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;curid=66481824&amp;diff=1369195171&amp;oldid=1369180101">Jason Arday: Difference between revisions - Wikipedia</a></li>
+<li> 14:56 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:56 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:56 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:54 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
+<li> 14:54 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:54 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 14:54 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 14:54 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 14:54 <a href="https://en.wikipedia.org/"></a></li>
+<li> 14:54 dashboards.rhul.ac.uk</li>
+<li> 14:53 rhul.sharepoint.com</li>
+<li> 14:31 www.linkedin.com</li>
+<li> 14:30 feedly.com</li>
+<li class='same'> 14:23 feedly.com</li>
 <li class='same'> 14:22 feedly.com</li>
 <li> 14:18 wonkhe.com</li>
 <li> 14:18 feedly.com</li>
@@ -123049,121 +123069,5 @@ With number of accesses/minutes in parentheses
 <li> 07:26 <a href="https://en.wikipedia.org/wiki/Confidentiality">Confidentiality - Wikipedia</a></li>
 <li> 07:26 www.google.com</li>
 <li> 07:26 <a href="https://en.wikipedia.org/wiki/Information_security#Non-repudiation">Information security - Wikipedia</a></li>
-<li> 07:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=12">Editing Information security - Wikipedia</a></li>
 <li> 07:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=11">Information security - Wikipedia</a></li>
-<li> 07:21 <a href="https://en.wikipedia.org/?title=CIA_triad&amp;redirect=no">CIA triad - Wikipedia</a></li>
-<li> 07:21 www.google.com</li>
-<li> 07:21 <a href="https://en.wikipedia.org/wiki/Information_security#Risk_management">Information security - Wikipedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=6">Information security - Wikipedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=12">Editing Information security - Wikipedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/wiki/Risk_management">Risk management - Wikipedia</a></li>
-<li> 07:19 <a href="https://en.wikipedia.org/wiki/Information_security#The_CIA_triad">Information security - Wikipedia</a></li>
-<li> 07:15 rhul-my.sharepoint.com</li>
-<li> 07:12 www.crcnetbase.com</li>
-<li> 07:11 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=6">Information security - Wikipedia</a></li>
-<li> 07:10 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
-<li> 07:10 <a href="https://en.wikipedia.org/wiki/Black_hat_hacker">Black hat (computer security) - Wikipedia</a></li>
-<li> 07:10 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
-<li> 07:09 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 07:09 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;oldid=prev&amp;diff=1250905409&amp;markasread=329264499&amp;markasreadwiki=enwiki">Information security: Difference between revisions - Wikipedia</a></li>
-<li> 07:09 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;oldid=prev&amp;diff=1250905409">Information security: Difference between revisions - Wikipedia</a></li>
-<li> 07:08 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 07:08 <a href="https://en.wikipedia.org/"></a></li>
-<li> 07:08 www.humblebundle.com</li>
-<li class='same'> 07:07 www.humblebundle.com</li>
-<li> 07:07 www.google.com</li>
-<li> 07:06 www.reddit.com</li>
-<li> 07:06 www.google.com</li>
-<li> 07:05 www.amazon.co.uk</li>
-<li> 06:58 <a href="https://xkcd.com/simplewriter/"></a></li>
-<li> 06:57 docs.google.com</li>
-<li> 06:57 drive.google.com</li>
-<li> 06:56 www.facebook.com</li>
-<li class='same'> 06:54 www.facebook.com</li>
-<li> 06:54 www.natesilver.net</li>
-<li> 06:53 www.linkedin.com</li>
-<li class='same'> 06:52 www.linkedin.com</li>
-<li class='same'> 06:51 www.linkedin.com</li>
-<li> 06:50 outlook.office365.com</li>
-<li> 06:50 mail.rhul.ac.uk</li>
-<li> 06:50 web.whatsapp.com</li>
-<li> 06:49 calendar.google.com</li>
-</ul>
-
-<H3>Sunday, 13/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 20:51 chatgpt.com</li>
-<li> 20:51 chat.openai.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:28 store.bricklink.com</li>
-<li> 17:28 www.bricklink.com</li>
-<li> 17:27 www.paypal.com</li>
-<li> 17:27 store.bricklink.com</li>
-<li> 17:27 www.bricklink.com</li>
-<li> 17:27 www.paypal.com</li>
-<li> 17:26 store.bricklink.com</li>
-<li> 17:25 www.bricklink.com</li>
-<li class='same'> 17:24 www.bricklink.com</li>
-<li> 17:24 store.bricklink.com</li>
-<li> 17:23 www.bricklink.com</li>
-<li class='same'> 17:22 www.bricklink.com</li>
-<li class='same'> 17:20 www.bricklink.com</li>
-<li class='same'> 17:19 www.bricklink.com</li>
-<li class='same'> 17:18 www.bricklink.com</li>
-<li class='same'> 17:17 www.bricklink.com</li>
-</ul>
-
-<br>
-
-<ul><li> 16:08 www.google.com</li>
-<li class='same'> 15:58 www.google.com</li>
-<li class='same'> 15:57 www.google.com</li>
-<li class='same'> 15:53 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 14:26 www.theguardian.com</li>
-<li class='same'> 14:21 www.theguardian.com</li>
-<li class='same'> 14:15 www.theguardian.com</li>
-<li class='same'> 14:13 www.theguardian.com</li>
-<li> 14:12 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
-</ul>
-
-<br>
-
-<ul><li> 13:18 www.theguardian.com</li>
-<li> 13:08 www.natesilver.net</li>
-<li> 13:08 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:30 web.whatsapp.com</li>
-<li> 09:29 www.reddit.com</li>
-<li class='same'> 09:28 www.reddit.com</li>
-<li> 09:22 outlook.office365.com</li>
-<li class='same'> 09:19 outlook.office365.com</li>
-<li class='same'> 09:18 outlook.office365.com</li>
-<li> 09:18 support.microsoft.com</li>
-<li> 09:17 teams.microsoft.com</li>
-<li> 09:17 support.microsoft.com</li>
-<li> 09:17 www.google.com</li>
-<li> 09:16 dl.acm.org</li>
-<li> 09:14 outlook.office365.com</li>
-<li> 09:14 mail.rhul.ac.uk</li>
-<li> 09:14 onlinelibrary.wiley.com</li>
-<li class='same'> 09:10 onlinelibrary.wiley.com</li>
-<li> 09:10 wiley.scienceconnect.io</li>
-<li> 09:10 onlinelibrary.wiley.com</li>
-<li> 09:10 scholar.google.com</li>
 </ul>
