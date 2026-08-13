@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (5122)</li>
 <li>outlook.office365.com (4656)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3788)</li>
+<li>duckduckgo.com (3789)</li>
 <li>docs.google.com (3283)</li>
 <li>chatgpt.com (2667)</li>
 <li>www.linkedin.com (2350)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:53 www.schneier.com</li>
+<ul><li> 11:21 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=history">Hacker: Revision history - Wikipedia</a></li>
+<li> 11:21 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
+<li> 11:21 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:21 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:21 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 11:07 duckduckgo.com</li>
+<li> 10:55 content.naic.org</li>
+<li> 10:53 www.schneier.com</li>
 <li> 10:47 www.admiral.com</li>
 <li> 10:47 duckduckgo.com</li>
 <li> 10:46 calendar.google.com</li>
