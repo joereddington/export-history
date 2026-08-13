@@ -73,14 +73,14 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (5122)</li>
 <li>outlook.office365.com (4656)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3787)</li>
+<li>duckduckgo.com (3788)</li>
 <li>docs.google.com (3283)</li>
 <li>chatgpt.com (2667)</li>
 <li>www.linkedin.com (2350)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1873)</li>
 <li>moodle.royalholloway.ac.uk (1836)</li>
-<li>calendar.google.com (1509)</li>
+<li>calendar.google.com (1512)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1296)</li>
 <li>chat.openai.com (1286)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:05 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;diff=1369158687&amp;oldid=1369108738"></a></li>
+<ul><li> 10:53 www.schneier.com</li>
+<li> 10:47 www.admiral.com</li>
+<li> 10:47 duckduckgo.com</li>
+<li> 10:46 calendar.google.com</li>
+<li class='same'> 10:38 calendar.google.com</li>
+<li> 10:38 eur03.safelinks.protection.outlook.com</li>
+<li> 10:38 calendar.google.com</li>
+<li> 10:35 services.sheerid.com</li>
+<li> 10:34 www.spotify.com</li>
+<li> 10:34 accounts.spotify.com</li>
+<li> 10:05 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;diff=1369158687&amp;oldid=1369108738">Jason Arday: Difference between revisions - Wikipedia</a></li>
 <li> 10:05 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;action=history">Jason Arday: Revision history - Wikipedia</a></li>
 <li> 10:05 <a href="https://en.wikipedia.org/w/index.php?title=James_Harrington_(author)&amp;diff=prev&amp;oldid=984152598">James Harrington (author): Difference between revisions - Wikipedia</a></li>
 <li> 10:05 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Betrayal_of_the_intellect">User contributions for Betrayal of the intellect - Wikipedia</a></li>
