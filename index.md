@@ -69,24 +69,24 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5401)</li>
-<li>mail.google.com (5338)</li>
+<li>mail.google.com (5342)</li>
 <li>www.reddit.com (5121)</li>
 <li>outlook.office365.com (4656)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3791)</li>
-<li>docs.google.com (3287)</li>
-<li>chatgpt.com (2669)</li>
+<li>docs.google.com (3288)</li>
+<li>chatgpt.com (2670)</li>
 <li>www.linkedin.com (2350)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1873)</li>
 <li>moodle.royalholloway.ac.uk (1836)</li>
-<li>calendar.google.com (1514)</li>
-<li>www.amazon.co.uk (1302)</li>
+<li>calendar.google.com (1518)</li>
+<li>www.amazon.co.uk (1303)</li>
 <li>login.microsoftonline.com (1296)</li>
-<li>chat.openai.com (1287)</li>
+<li>chat.openai.com (1288)</li>
 <li>herts.instructure.com (1234)</li>
 <li>web.whatsapp.com (1159)</li>
-<li>gmail.com (1131)</li>
+<li>gmail.com (1132)</li>
 <li>mail.rhul.ac.uk (1025)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (872)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:59 www.google.com</li>
+<ul><li> 13:12 mail.google.com</li>
+<li class='same'> 13:11 mail.google.com</li>
+<li> 13:11 calendar.google.com</li>
+<li> 13:11 www.google.com</li>
+<li> 13:11 calendar.google.com</li>
+<li> 13:11 mail.google.com</li>
+<li class='same'> 13:10 mail.google.com</li>
+<li> 13:10 gmail.com</li>
+<li> 13:10 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 13:09 chatgpt.com</li>
+<li> 13:09 chat.openai.com</li>
+<li> 13:08 www.amazon.co.uk</li>
+<li class='same'> 13:07 www.amazon.co.uk</li>
+<li class='same'> 13:06 www.amazon.co.uk</li>
+<li> 13:06 docs.google.com</li>
+<li> 13:01 calendar.google.com</li>
+<li class='same'> 13:00 calendar.google.com</li>
+<li> 12:59 www.google.com</li>
 <li> 12:52 docs.google.com</li>
 <li class='same'> 12:48 docs.google.com</li>
 <li> 12:46 mobile.prod.chiphq.net</li>
@@ -123145,39 +123162,4 @@ With number of accesses/minutes in parentheses
 <li> 08:49 www.google.com</li>
 <li> 08:49 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model">Gordon–Loeb model - Wikipedia</a></li>
 <li class='same'> 08:41 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model">Gordon–Loeb model - Wikipedia</a></li>
-<li> 08:40 <a href="https://en.wikipedia.org/wiki/Information_security#Sources_of_standards">Information security - Wikipedia</a></li>
-<li> 08:38 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=history">Information security: Revision history - Wikipedia</a></li>
-<li> 08:38 <a href="https://en.wikipedia.org/wiki/Information_security#Business_continuity">Information security - Wikipedia</a></li>
-<li> 08:37 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=34">Information security - Wikipedia</a></li>
-<li> 08:37 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 08:34 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=history">Information security: Revision history - Wikipedia</a></li>
-<li> 08:30 dl.acm.org</li>
-<li> 08:30 <a href="https://en.wikipedia.org/wiki/Information_security#Business_continuity">Information security - Wikipedia</a></li>
-<li> 08:29 <a href="https://en.wikipedia.org/wiki/Information_security#Risk_management">Information security - Wikipedia</a></li>
-<li> 08:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=34">Information security - Wikipedia</a></li>
-<li> 08:29 <a href="https://en.wikipedia.org/wiki/Information_security#Business_continuity">Information security - Wikipedia</a></li>
-<li> 08:29 <a href="https://en.wikipedia.org/wiki/Business_continuity_planning">Business continuity planning - Wikipedia</a></li>
-<li> 08:29 www.google.com</li>
-<li> 08:23 <a href="https://en.wikipedia.org/wiki/Risk_management">Risk management - Wikipedia</a></li>
-<li> 08:23 <a href="https://en.wikipedia.org/wiki/Information_security#Risk_management">Information security - Wikipedia</a></li>
-<li> 08:22 <a href="https://en.wikipedia.org/wiki/Information_security#Cryptography">Information security - Wikipedia</a></li>
-<li> 08:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=23">Editing Information security - Wikipedia</a></li>
-<li> 08:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 08:20 <a href="https://en.wikipedia.org/wiki/Information_security#Responses_to_threats">Information security - Wikipedia</a></li>
-<li> 08:19 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=4">Editing Information security (section) - Wikipedia</a></li>
-<li> 08:19 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 08:19 <a href="https://en.wikipedia.org/wiki/Information_security#Responses_to_threats">Information security - Wikipedia</a></li>
-<li> 08:18 www.amazon.co.uk</li>
-<li class='same'> 08:17 www.amazon.co.uk</li>
-</ul>
-
-<H3>Tuesday, 16/07/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 13:43 intranet.royalholloway.ac.uk</li>
 </ul>
