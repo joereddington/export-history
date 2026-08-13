@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5400)</li>
-<li>mail.google.com (5342)</li>
+<ol><li>www.google.com (5398)</li>
+<li>mail.google.com (5345)</li>
 <li>www.reddit.com (5121)</li>
 <li>outlook.office365.com (4656)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3791)</li>
+<li>duckduckgo.com (3792)</li>
 <li>docs.google.com (3288)</li>
 <li>chatgpt.com (2670)</li>
-<li>www.linkedin.com (2350)</li>
+<li>www.linkedin.com (2351)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1873)</li>
 <li>moodle.royalholloway.ac.uk (1836)</li>
@@ -86,12 +86,12 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1288)</li>
 <li>herts.instructure.com (1234)</li>
 <li>web.whatsapp.com (1159)</li>
-<li>gmail.com (1132)</li>
+<li>gmail.com (1133)</li>
 <li>mail.rhul.ac.uk (1025)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (872)</li>
 <li>forms.office.com (786)</li>
-<li>feedly.com (777)</li>
+<li>feedly.com (783)</li>
 <li>www.theguardian.com (593)</li>
 <li>fritz.box (563)</li>
 <li>m365.cloud.microsoft (541)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:42 newsthump.com</li>
+<ul><li> 14:23 feedly.com</li>
+<li class='same'> 14:22 feedly.com</li>
+<li> 14:18 wonkhe.com</li>
+<li> 14:18 feedly.com</li>
+<li class='same'> 14:17 feedly.com</li>
+<li> 14:17 wonkhe.com</li>
+<li> 14:17 feedly.com</li>
+<li class='same'> 14:16 feedly.com</li>
+<li> 14:16 www.thedailymash.co.uk</li>
+<li> 14:15 mail.google.com</li>
+<li> 14:15 www.bluelightcard.co.uk</li>
+<li> 14:15 www.google.com</li>
+<li> 14:15 clicks.bluelightcard.co.uk</li>
+<li> 14:15 access.blcshine.io</li>
+<li> 14:15 mail.google.com</li>
+<li class='same'> 14:14 mail.google.com</li>
+<li> 14:14 gmail.com</li>
+<li> 14:14 access.blcshine.io</li>
+<li> 14:14 www.bluelightcard.co.uk</li>
+<li> 14:14 duckduckgo.com</li>
+<li> 14:07 www.linkedin.com</li>
+<li> 13:42 newsthump.com</li>
 <li> 13:41 www.thedailymash.co.uk</li>
 <li> 13:36 www.amazon.co.uk</li>
 <li class='same'> 13:35 www.amazon.co.uk</li>
@@ -123145,21 +123166,4 @@ With number of accesses/minutes in parentheses
 <li> 09:10 wiley.scienceconnect.io</li>
 <li> 09:10 onlinelibrary.wiley.com</li>
 <li> 09:10 scholar.google.com</li>
-<li> 09:10 www.google.com</li>
-<li> 09:09 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model">Gordon–Loeb model - Wikipedia</a></li>
-<li> 09:09 www.google.com</li>
-<li> 09:09 scholar.google.com</li>
-<li> 09:09 www.google.com</li>
-<li> 09:09 citeseerx.ist.psu.edu</li>
-<li> 09:07 scholar.google.com</li>
-<li> 09:06 discovery.ucl.ac.uk</li>
-<li> 09:06 scholar.google.com</li>
-<li> 09:06 www.taylorfrancis.com</li>
-<li> 09:05 scholar.google.com</li>
-<li class='same'> 09:04 scholar.google.com</li>
-<li> 09:04 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model#Overview">Gordon–Loeb model - Wikipedia</a></li>
-<li> 09:03 <a href="https://en.wikipedia.org/w/index.php?title=Gordon%E2%80%93Loeb_model&amp;action=edit&amp;section=1">Editing Gordon–Loeb model - Wikipedia</a></li>
-<li> 09:03 econinfosec.org</li>
-<li> 08:55 claude.ai</li>
-<li> 08:50 dl.acm.org</li>
 </ul>
