@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5410)</li>
-<li>mail.google.com (5337)</li>
+<ol><li>www.google.com (5403)</li>
+<li>mail.google.com (5336)</li>
 <li>www.reddit.com (5122)</li>
 <li>outlook.office365.com (4652)</li>
 <li>outlook.office.com (3987)</li>
@@ -80,11 +80,11 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1873)</li>
 <li>moodle.royalholloway.ac.uk (1836)</li>
-<li>calendar.google.com (1514)</li>
+<li>calendar.google.com (1509)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1296)</li>
 <li>chat.openai.com (1286)</li>
-<li>herts.instructure.com (1235)</li>
+<li>herts.instructure.com (1234)</li>
 <li>web.whatsapp.com (1159)</li>
 <li>gmail.com (1130)</li>
 <li>mail.rhul.ac.uk (1025)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (786)</li>
 <li>feedly.com (777)</li>
 <li>www.theguardian.com (593)</li>
-<li>fritz.box (562)</li>
+<li>fritz.box (563)</li>
 <li>m365.cloud.microsoft (541)</li>
 <li>rhul.sharepoint.com (531)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 13/08/26</H3>
+
+<br>
+
+<ul><li> 08:34 fritz.box</li>
+</ul>
 
 <br>
 
@@ -14185,8 +14190,7 @@ With number of accesses/minutes in parentheses
 <li> 17:03 <a href="https://www.youtube.com/">(35) YouTube</a></li>
 <li> 17:02 duckduckgo.com</li>
 <li> 17:01 mail.google.com</li>
-<li> 16:59 mail-attachment.googleusercontent.com</li>
-<li> 16:58 mail.google.com</li>
+<li class='same'> 16:58 mail.google.com</li>
 <li> 16:58 gmail.com</li>
 <li> 16:54 <a href="https://www.theguardian.com/society/video/2026/may/14/why-do-we-keep-building-on-land-at-risk-of-flooding">Why do we keep building on land at risk of flooding? | Housing | The Guardian</a></li>
 <li> 16:51 feedly.com</li>
@@ -14243,8 +14247,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:54 www.uwslondon.ac.uk</li>
 <li> 13:54 duckduckgo.com</li>
 <li> 13:53 www.uwslondon.ac.uk</li>
-<li> 13:53 cta-eu1.hubspot.com</li>
-<li> 13:52 www.uwslondon.ac.uk</li>
+<li class='same'> 13:52 www.uwslondon.ac.uk</li>
 <li> 13:41 herts.instructure.com</li>
 <li class='same'> 13:34 herts.instructure.com</li>
 <li class='same'> 13:33 herts.instructure.com</li>
@@ -14257,9 +14260,7 @@ With number of accesses/minutes in parentheses
 <li> 13:09 herts.instructure.com</li>
 <li class='same'> 13:05 herts.instructure.com</li>
 <li> 12:55 forms.office.com</li>
-<li> 12:52 cdn.inst-fs-dub-prod.inscloudgate.net</li>
 <li> 12:52 inst-fs-dub-prod.inscloudgate.net</li>
-<li> 12:52 herts.instructure.com</li>
 <li> 12:52 a10775-13063258.cluster93.canvas-user-content.com</li>
 <li> 12:52 herts.instructure.com</li>
 <li class='same'> 12:46 herts.instructure.com</li>
@@ -14272,7 +14273,6 @@ With number of accesses/minutes in parentheses
 <li> 12:23 herts.instructure.com</li>
 <li> 12:21 ev.turnitinuk.com</li>
 <li> 12:21 api.turnitinuk.com</li>
-<li> 12:21 canvas.int.turnitin.com</li>
 <li> 12:21 herts.instructure.com</li>
 <li class='same'> 12:20 herts.instructure.com</li>
 <li class='same'> 12:19 herts.instructure.com</li>
@@ -14348,8 +14348,6 @@ With number of accesses/minutes in parentheses
 <li> 10:40 equalitytime.co.uk</li>
 <li> 10:39 mail.google.com</li>
 <li class='same'> 10:38 mail.google.com</li>
-<li> 10:38 accounts.google.com</li>
-<li> 10:38 mail.google.com</li>
 <li> 10:38 gmail.com</li>
 <li> 10:38 accounts.google.com</li>
 <li> 10:37 equalitytime.co.uk</li>
@@ -14381,9 +14379,7 @@ With number of accesses/minutes in parentheses
 <li> 10:21 us-east-1.console.aws.amazon.com</li>
 <li> 10:21 us-east-1.signin.aws.amazon.com</li>
 <li> 10:21 us-east-1.console.aws.amazon.com</li>
-<li> 10:21 console.aws.amazon.com</li>
 <li> 10:21 eu-west-2.console.aws.amazon.com</li>
-<li> 10:20 signin.aws.amazon.com</li>
 <li> 10:20 eu-west-2.signin.aws.amazon.com</li>
 <li> 10:20 eu-west-2.console.aws.amazon.com</li>
 <li> 10:20 github.com</li>
@@ -14393,11 +14389,7 @@ With number of accesses/minutes in parentheses
 <li> 10:13 mail.google.com</li>
 <li> 10:13 calendar.google.com</li>
 <li class='same'> 10:12 calendar.google.com</li>
-<li> 10:12 www.google.com</li>
-<li> 10:12 calendar.google.com</li>
 <li> 10:12 mail.google.com</li>
-<li> 10:12 calendar.google.com</li>
-<li> 10:12 www.google.com</li>
 <li> 10:12 calendar.google.com</li>
 <li> 10:12 mail.google.com</li>
 <li> 10:12 calendar.google.com</li>
@@ -14407,27 +14399,19 @@ With number of accesses/minutes in parentheses
 <li> 10:09 mail.google.com</li>
 <li class='same'> 10:08 mail.google.com</li>
 <li> 10:08 calendar.google.com</li>
-<li> 10:08 www.google.com</li>
-<li> 10:08 calendar.google.com</li>
 <li> 10:08 mail.google.com</li>
-<li> 10:08 calendar.google.com</li>
-<li> 10:08 www.google.com</li>
 <li> 10:08 calendar.google.com</li>
 <li> 10:08 mail.google.com</li>
 <li> 10:08 calendar.google.com</li>
 <li class='same'> 10:07 calendar.google.com</li>
-<li> 10:07 www.google.com</li>
-<li> 10:07 calendar.google.com</li>
 <li> 10:07 mail.google.com</li>
 <li> 10:07 calendar.google.com</li>
-<li> 10:07 www.google.com</li>
 <li> 10:07 mail.google.com</li>
 <li class='same'> 10:05 mail.google.com</li>
 <li class='same'> 10:04 mail.google.com</li>
 <li> 10:04 calendar.google.com</li>
 <li class='same'> 10:03 calendar.google.com</li>
-<li> 10:02 www.google.com</li>
-<li> 10:02 calendar.google.com</li>
+<li class='same'> 10:02 calendar.google.com</li>
 <li> 10:02 mail.google.com</li>
 <li class='same'> 10:01 mail.google.com</li>
 <li> 10:01 gmail.com</li>
