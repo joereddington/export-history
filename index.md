@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5403)</li>
-<li>mail.google.com (5336)</li>
+<ol><li>www.google.com (5401)</li>
+<li>mail.google.com (5338)</li>
 <li>www.reddit.com (5121)</li>
 <li>outlook.office365.com (4656)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3791)</li>
-<li>docs.google.com (3283)</li>
-<li>chatgpt.com (2667)</li>
+<li>docs.google.com (3287)</li>
+<li>chatgpt.com (2669)</li>
 <li>www.linkedin.com (2350)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1873)</li>
 <li>moodle.royalholloway.ac.uk (1836)</li>
-<li>calendar.google.com (1513)</li>
-<li>www.amazon.co.uk (1305)</li>
+<li>calendar.google.com (1514)</li>
+<li>www.amazon.co.uk (1302)</li>
 <li>login.microsoftonline.com (1296)</li>
-<li>chat.openai.com (1286)</li>
+<li>chat.openai.com (1287)</li>
 <li>herts.instructure.com (1234)</li>
 <li>web.whatsapp.com (1159)</li>
-<li>gmail.com (1130)</li>
+<li>gmail.com (1131)</li>
 <li>mail.rhul.ac.uk (1025)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (872)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>m365.cloud.microsoft (541)</li>
 <li>rhul.sharepoint.com (531)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (471)</li>
+<li>drive.google.com (472)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,30 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 13/08/26</H3>
+
+<br>
+
+<ul><li> 12:59 www.google.com</li>
+<li> 12:52 docs.google.com</li>
+<li class='same'> 12:48 docs.google.com</li>
+<li> 12:46 mobile.prod.chiphq.net</li>
+<li> 12:46 pay.truelayer.com</li>
+<li> 12:42 docs.google.com</li>
+<li class='same'> 12:39 docs.google.com</li>
+<li> 12:39 drive.google.com</li>
+<li> 12:38 mail.google.com</li>
+<li> 12:38 chatgpt.com</li>
+<li> 12:38 www.bluelightcard.co.uk</li>
+<li> 12:38 www.google.com</li>
+<li> 12:38 clicks.bluelightcard.co.uk</li>
+<li> 12:37 chatgpt.com</li>
+<li> 12:37 chat.openai.com</li>
+<li> 12:37 mail.google.com</li>
+<li> 12:37 gmail.com</li>
+<li> 12:36 intranet.royalholloway.ac.uk</li>
+<li> 12:32 dashboards.rhul.ac.uk</li>
+<li> 12:30 calendar.google.com</li>
+</ul>
 
 <br>
 
@@ -153,6 +177,7 @@ With number of accesses/minutes in parentheses
 <li> 10:04 email.octopusev.com</li>
 <li> 10:04 eur03.safelinks.protection.outlook.com</li>
 <li> 10:04 email.octopusev.com</li>
+<li> 10:01 www.google.com</li>
 </ul>
 
 <br>
@@ -123144,43 +123169,15 @@ With number of accesses/minutes in parentheses
 <li> 08:19 <a href="https://en.wikipedia.org/wiki/Information_security#Responses_to_threats">Information security - Wikipedia</a></li>
 <li> 08:18 www.amazon.co.uk</li>
 <li class='same'> 08:17 www.amazon.co.uk</li>
-<li class='same'> 08:16 www.amazon.co.uk</li>
-<li> 08:16 www.google.com</li>
-<li> 08:16 www.amazon.co.uk</li>
-<li class='same'> 08:15 www.amazon.co.uk</li>
-<li> 07:51 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=4">Editing Information security (section) - Wikipedia</a></li>
-<li> 07:51 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=3">Editing Information security (section) - Wikipedia</a></li>
-<li> 07:51 <a href="https://en.wikipedia.org/wiki/Risk_management">Risk management - Wikipedia</a></li>
-<li> 07:51 <a href="https://en.wikipedia.org/wiki/Information_security#Threats">Information security - Wikipedia</a></li>
-<li> 07:50 www.google.com</li>
-<li> 07:50 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=3">Editing Information security (section) - Wikipedia</a></li>
-<li> 07:49 <a href="https://en.wikipedia.org/wiki/Information_security#Threats">Information security - Wikipedia</a></li>
-<li> 07:48 www.degruyter.com</li>
-<li> 07:48 dx.doi.org</li>
-<li> 07:47 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=3">Editing Information security (section) - Wikipedia</a></li>
-<li> 07:43 <a href="https://en.wikipedia.org/wiki/Information_security#Threats">Information security - Wikipedia</a></li>
-<li> 07:43 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=3">Editing Information security (section) - Wikipedia</a></li>
-<li> 07:42 sid.onlinelibrary.wiley.com</li>
-<li> 07:42 wiley.scienceconnect.io</li>
-<li> 07:42 sid.onlinelibrary.wiley.com</li>
-<li> 07:42 <a href="https://en.wikipedia.org/wiki/Information_security#Overview">Information security - Wikipedia</a></li>
-<li> 07:41 www.google.com</li>
-<li> 07:40 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=2">Editing Information security (section) - Wikipedia</a></li>
-<li> 07:38 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=history">Information security: Revision history - Wikipedia</a></li>
-<li> 07:38 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 07:38 www.google.com</li>
-<li> 07:33 <a href="https://en.wikipedia.org/wiki/Talk:Information_security">Talk:Information security - Wikipedia</a></li>
-<li> 07:28 <a href="https://en.wikipedia.org/wiki/Information_security#Key_concepts">Information security - Wikipedia</a></li>
-<li> 07:28 <a href="https://en.wikipedia.org/wiki/CIA_triad">CIA triad - Wikipedia</a></li>
-<li> 07:28 <a href="https://en.wikipedia.org/w/index.php?search=cia+triad&amp;title=Special%3ASearch&amp;ns0=1"></a></li>
-<li> 07:28 <a href="https://en.wikipedia.org/w/index.php?search=accounability++security&amp;title=Special%3ASearch&amp;ns0=1">accounability security - Search results - Wikipedia</a></li>
-<li> 07:25 firstmonday.org</li>
-<li> 07:23 <a href="https://en.wikipedia.org/wiki/Non-repudiation#See_also">Non-repudiation - Wikipedia</a></li>
-<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?title=Non-repudiation&amp;action=edit&amp;section=4">Editing Non-repudiation - Wikipedia</a></li>
-<li> 07:22 <a href="https://en.wikipedia.org/wiki/Non-repudiation">Non-repudiation - Wikipedia</a></li>
-<li> 07:22 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/Shaggy_defense">Pages that link to &quot;Shaggy defense&quot; - Wikipedia</a></li>
-<li> 07:20 www.google.com</li>
-<li> 07:20 <a href="https://en.wikipedia.org/wiki/Category:Equitable_defenses">Category:Equitable defenses - Wikipedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/wiki/Legal_defense">Defense (legal) - Wikipedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/wiki/Defense_(legal)">Defense (legal) - Wikipedia</a></li>
+</ul>
+
+<H3>Tuesday, 16/07/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 13:43 intranet.royalholloway.ac.uk</li>
 </ul>
