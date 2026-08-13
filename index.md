@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5386)</li>
-<li>mail.google.com (5345)</li>
+<ol><li>www.google.com (5383)</li>
+<li>mail.google.com (5350)</li>
 <li>www.reddit.com (5122)</li>
-<li>outlook.office365.com (4651)</li>
+<li>outlook.office365.com (4648)</li>
 <li>outlook.office.com (3987)</li>
 <li>duckduckgo.com (3794)</li>
-<li>docs.google.com (3287)</li>
+<li>docs.google.com (3288)</li>
 <li>chatgpt.com (2669)</li>
 <li>www.linkedin.com (2348)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1871)</li>
 <li>moodle.royalholloway.ac.uk (1836)</li>
-<li>calendar.google.com (1518)</li>
+<li>calendar.google.com (1521)</li>
 <li>www.amazon.co.uk (1304)</li>
-<li>login.microsoftonline.com (1296)</li>
+<li>login.microsoftonline.com (1297)</li>
 <li>chat.openai.com (1287)</li>
 <li>herts.instructure.com (1234)</li>
 <li>web.whatsapp.com (1157)</li>
-<li>gmail.com (1133)</li>
+<li>gmail.com (1135)</li>
 <li>mail.rhul.ac.uk (1022)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (870)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>m365.cloud.microsoft (541)</li>
 <li>rhul.sharepoint.com (532)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (471)</li>
+<li>drive.google.com (472)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:20 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<ul><li> 16:56 mail.google.com</li>
+<li> 16:50 docs.google.com</li>
+<li> 16:49 drive.google.com</li>
+<li> 16:48 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:48 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 16:48 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+<li> 16:48 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
+<li> 16:48 <a href="https://en.wikipedia.org/"></a></li>
+<li> 16:47 calendar.google.com</li>
+<li class='same'> 16:46 calendar.google.com</li>
+<li> 16:44 myview.rhul.zellis.com</li>
+<li class='same'> 16:43 myview.rhul.zellis.com</li>
+<li> 16:43 login.microsoftonline.com</li>
+<li> 16:43 myview.rhul.zellis.com</li>
+<li> 16:43 calendar.google.com</li>
+<li> 16:40 mail.google.com</li>
+<li class='same'> 16:39 mail.google.com</li>
+<li class='same'> 16:38 mail.google.com</li>
+<li> 16:38 gmail.com</li>
+<li> 16:37 mail.google.com</li>
+<li> 16:37 gmail.com</li>
+<li> 16:37 www.qiq.support</li>
+<li class='same'> 16:36 www.qiq.support</li>
+<li class='same'> 16:35 www.qiq.support</li>
+<li class='same'> 16:34 www.qiq.support</li>
+<li> 16:20 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:20 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:20 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 16:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
@@ -123066,22 +123091,5 @@ With number of accesses/minutes in parentheses
 <li> 09:52 gettingthingsdone.com</li>
 <li> 09:52 www.google.com</li>
 <li> 09:43 rl.talis.com</li>
-<li> 09:41 identity-bsigroup-com.royalholloway.idm.oclc.org</li>
 <li> 09:41 federation-bsigroup-com.royalholloway.idm.oclc.org</li>
-<li> 09:41 bsol-bsigroup-com.royalholloway.idm.oclc.org</li>
-<li> 09:41 login.openathens.net</li>
-<li> 09:41 royalholloway.idm.oclc.org</li>
-<li> 09:41 login.openathens.net</li>
-<li> 09:41 libguides.rhul.ac.uk</li>
-<li> 09:41 www.google.com</li>
-<li> 09:40 librarysearch.royalholloway.ac.uk</li>
-<li> 09:40 www.google.com</li>
-<li> 09:39 staff.derbyshire.gov.uk</li>
-<li class='same'> 09:38 staff.derbyshire.gov.uk</li>
-<li> 09:36 certikit.com</li>
-<li> 09:36 monitor.ppcprotect.com</li>
-<li> 09:36 www.google.com</li>
-<li> 09:35 outlook.office365.com</li>
-<li class='same'> 09:33 outlook.office365.com</li>
-<li class='same'> 09:32 outlook.office365.com</li>
 </ul>
