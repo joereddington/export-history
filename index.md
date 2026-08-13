@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5383)</li>
-<li>mail.google.com (5350)</li>
+<ol><li>www.google.com (5379)</li>
+<li>mail.google.com (5351)</li>
 <li>www.reddit.com (5122)</li>
 <li>outlook.office365.com (4648)</li>
 <li>outlook.office.com (3987)</li>
@@ -86,10 +86,10 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1287)</li>
 <li>herts.instructure.com (1234)</li>
 <li>web.whatsapp.com (1157)</li>
-<li>gmail.com (1135)</li>
+<li>gmail.com (1136)</li>
 <li>mail.rhul.ac.uk (1022)</li>
 <li>tvtropes.org (886)</li>
-<li>rhul-my.sharepoint.com (870)</li>
+<li>rhul-my.sharepoint.com (869)</li>
 <li>forms.office.com (786)</li>
 <li>feedly.com (784)</li>
 <li>www.theguardian.com (588)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:56 mail.google.com</li>
+<ul><li> 17:20 mail.google.com</li>
+<li> 17:20 gmail.com</li>
+<li> 16:56 mail.google.com</li>
 <li> 16:50 docs.google.com</li>
 <li> 16:49 drive.google.com</li>
 <li> 16:48 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
@@ -123075,21 +123077,4 @@ With number of accesses/minutes in parentheses
 <li> 10:33 outlook.office365.com</li>
 <li class='same'> 10:32 outlook.office365.com</li>
 <li class='same'> 10:31 outlook.office365.com</li>
-<li> 10:27 rhul-my.sharepoint.com</li>
-<li> 10:07 www.wired.com</li>
-<li> 10:07 www.google.com</li>
-<li> 10:01 <a href="https://en.wikipedia.org/wiki/Letter_and_spirit_of_the_law#Gaming_the_system">Letter and spirit of the law - Wikipedia</a></li>
-<li> 10:01 <a href="https://en.wikipedia.org/wiki/Gaming_the_system">Letter and spirit of the law - Wikipedia</a></li>
-<li> 10:01 <a href="https://en.wikipedia.org/wiki/Fine_print">Fine print - Wikipedia</a></li>
-<li> 10:01 <a href="https://en.wikipedia.org/wiki/Loophole">Loophole - Wikipedia</a></li>
-<li> 10:01 www.google.com</li>
-<li> 10:00 <a href="https://en.wikipedia.org/wiki/Rider_(theater)#Notable_rider_requests">Rider (theater) - Wikipedia</a></li>
-<li> 09:59 <a href="https://en.wikipedia.org/w/index.php?title=Rider_(theater)&amp;action=edit&amp;section=8">Editing Rider (theater) - Wikipedia</a></li>
-<li> 09:58 <a href="https://en.wikipedia.org/wiki/Hi-C">Hi-C - Wikipedia</a></li>
-<li> 09:57 <a href="https://en.wikipedia.org/wiki/Rider_(theater)">Rider (theater) - Wikipedia</a></li>
-<li> 09:57 www.google.com</li>
-<li> 09:52 gettingthingsdone.com</li>
-<li> 09:52 www.google.com</li>
-<li> 09:43 rl.talis.com</li>
-<li> 09:41 federation-bsigroup-com.royalholloway.idm.oclc.org</li>
 </ul>
