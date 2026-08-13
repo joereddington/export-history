@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1873)</li>
 <li>moodle.royalholloway.ac.uk (1836)</li>
-<li>calendar.google.com (1513)</li>
+<li>calendar.google.com (1514)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1296)</li>
 <li>chat.openai.com (1286)</li>
@@ -104,11 +104,22 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 13/08/26</H3>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Wednesday, 12/08/26</H3>
 
 <br>
 
-<ul><li> 20:17 calendar.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:17 calendar.google.com</li>
 <li class='same'> 20:14 calendar.google.com</li>
 <li> 20:10 dashboards.rhul.ac.uk</li>
 <li> 20:04 outlook.office365.com</li>
