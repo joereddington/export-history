@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5401)</li>
+<ol><li>www.google.com (5400)</li>
 <li>mail.google.com (5342)</li>
 <li>www.reddit.com (5121)</li>
 <li>outlook.office365.com (4656)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1873)</li>
 <li>moodle.royalholloway.ac.uk (1836)</li>
 <li>calendar.google.com (1518)</li>
-<li>www.amazon.co.uk (1303)</li>
+<li>www.amazon.co.uk (1305)</li>
 <li>login.microsoftonline.com (1296)</li>
 <li>chat.openai.com (1288)</li>
 <li>herts.instructure.com (1234)</li>
@@ -108,7 +108,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:12 mail.google.com</li>
+<ul><li> 13:42 newsthump.com</li>
+<li> 13:41 www.thedailymash.co.uk</li>
+<li> 13:36 www.amazon.co.uk</li>
+<li class='same'> 13:35 www.amazon.co.uk</li>
+<li> 13:12 mail.google.com</li>
 <li class='same'> 13:11 mail.google.com</li>
 <li> 13:11 calendar.google.com</li>
 <li> 13:11 www.google.com</li>
@@ -123158,8 +123162,4 @@ With number of accesses/minutes in parentheses
 <li> 09:03 econinfosec.org</li>
 <li> 08:55 claude.ai</li>
 <li> 08:50 dl.acm.org</li>
-<li> 08:49 scholar.google.com</li>
-<li> 08:49 www.google.com</li>
-<li> 08:49 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model">Gordon–Loeb model - Wikipedia</a></li>
-<li class='same'> 08:41 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model">Gordon–Loeb model - Wikipedia</a></li>
 </ul>
