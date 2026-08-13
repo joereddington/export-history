@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:58 duckduckgo.com</li>
+<ul><li> 15:02 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/w/index.php?title=Talk%3AJason_Arday&amp;diff=1369199131&amp;oldid=1369157331">Talk:Jason Arday: Difference between revisions - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Jason_Arday&amp;action=history">Talk:Jason Arday: Revision history - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
+<li> 15:01 <a href="https://en.wikipedia.org/wiki/Jason_Arday">Jason Arday - Wikipedia</a></li>
+<li> 14:59 <a href="https://www.theguardian.com/uk-news/2026/aug/12/jason-arday-cambridge-claim-non-verbal-child">‘Always cracking jokes’: questions raised over Jason Arday’s claim he was non-verbal as a child | Jason Arday | The Guardian</a></li>
+<li> 14:58 duckduckgo.com</li>
 <li> 14:58 www.thetimes.com</li>
 <li> 14:56 <a href="https://en.wikipedia.org/w/index.php?title=Talk%3AJason_Arday&amp;diff=1369199131&amp;oldid=1369157331">Talk:Jason Arday: Difference between revisions - Wikipedia</a></li>
 <li> 14:56 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Jason_Arday&amp;action=history">Talk:Jason Arday: Revision history - Wikipedia</a></li>
