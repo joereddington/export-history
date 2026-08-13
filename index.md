@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5389)</li>
+<ol><li>www.google.com (5386)</li>
 <li>mail.google.com (5345)</li>
 <li>www.reddit.com (5118)</li>
 <li>outlook.office365.com (4651)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3793)</li>
+<li>duckduckgo.com (3794)</li>
 <li>docs.google.com (3287)</li>
 <li>chatgpt.com (2669)</li>
-<li>www.linkedin.com (2349)</li>
+<li>www.linkedin.com (2348)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1871)</li>
 <li>moodle.royalholloway.ac.uk (1836)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 13/08/26</H3>
+
+<br>
+
+<ul><li> 15:56 freebeacon.com</li>
+<li> 15:55 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
+<li> 15:53 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday/Archive_1">Talk:Jason Arday/Archive 1 - Wikipedia</a></li>
+<li> 15:53 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Jason_Arday&amp;action=history">Talk:Jason Arday: Revision history - Wikipedia</a></li>
+<li> 15:52 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;action=history">Jason Arday: Revision history - Wikipedia</a></li>
+<li> 15:52 <a href="https://en.wikipedia.org/wiki/Jason_Arday">Jason Arday - Wikipedia</a></li>
+<li> 15:51 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
+<li> 15:51 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;diff=1369210669&amp;oldid=1369206613">Jason Arday: Difference between revisions - Wikipedia</a></li>
+<li> 15:51 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;action=history">Jason Arday: Revision history - Wikipedia</a></li>
+<li> 15:51 <a href="https://en.wikipedia.org/wiki/Jason_Arday">Jason Arday - Wikipedia</a></li>
+<li> 15:50 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
+<li> 15:50 <a href="https://en.wikipedia.org/wiki/Jason_Arday#Early_life_and_education">Jason Arday - Wikipedia</a></li>
+<li> 15:48 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;action=edit&amp;section=1">Editing Jason Arday - Wikipedia</a></li>
+<li> 15:48 <a href="https://en.wikipedia.org/wiki/Jason_Arday">Jason Arday - Wikipedia</a></li>
+<li> 15:46 intranet.royalholloway.ac.uk</li>
+<li> 15:46 duckduckgo.com</li>
+</ul>
 
 <br>
 
@@ -123053,27 +123073,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:32 outlook.office365.com</li>
 <li> 09:32 mail.rhul.ac.uk</li>
 <li> 09:32 rhul-my.sharepoint.com</li>
-<li> 09:30 www.linkedin.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:31 <a href="https://en.wikipedia.org/wiki/Information_security_standards">Information security standards - Wikipedia</a></li>
-<li> 07:31 <a href="https://en.wikipedia.org/wiki/Cyber_Security_Standards">Information security standards - Wikipedia</a></li>
-<li> 07:30 <a href="https://en.wikipedia.org/wiki/Information_security#Sources_of_standards">Information security - Wikipedia</a></li>
-<li> 07:29 www.google.com</li>
-<li> 07:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=39">Editing Information security - Wikipedia</a></li>
-<li> 07:29 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=11">Information security - Wikipedia</a></li>
-<li> 07:29 <a href="https://en.wikipedia.org/wiki/Standard_of_Good_Practice_for_Information_Security">Standard of Good Practice for Information Security - Wikipedia</a></li>
-<li> 07:29 <a href="https://en.wikipedia.org/wiki/Information_Security_Forum">Information Security Forum - Wikipedia</a></li>
-<li> 07:28 <a href="https://en.wikipedia.org/wiki/Information_security_indicators">Information security indicators - Wikipedia</a></li>
-<li> 07:27 <a href="https://en.wikipedia.org/wiki/ETSI">ETSI - Wikipedia</a></li>
-<li> 07:27 <a href="https://en.wikipedia.org/wiki/European_Telecommunications_Standards_Institute">ETSI - Wikipedia</a></li>
-<li> 07:27 <a href="https://en.wikipedia.org/wiki/Information_security#Sources_of_standards">Information security - Wikipedia</a></li>
-<li> 07:26 <a href="https://en.wikipedia.org/wiki/Data_integrity">Data integrity - Wikipedia</a></li>
-<li> 07:26 www.google.com</li>
-<li> 07:26 <a href="https://en.wikipedia.org/wiki/Confidentiality">Confidentiality - Wikipedia</a></li>
-<li> 07:26 www.google.com</li>
-<li> 07:26 <a href="https://en.wikipedia.org/wiki/Information_security#Non-repudiation">Information security - Wikipedia</a></li>
-<li> 07:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=11">Information security - Wikipedia</a></li>
 </ul>
