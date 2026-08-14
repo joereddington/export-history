@@ -70,16 +70,16 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5379)</li>
 <li>mail.google.com (5352)</li>
-<li>www.reddit.com (5133)</li>
+<li>www.reddit.com (5134)</li>
 <li>outlook.office365.com (4648)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3802)</li>
+<li>duckduckgo.com (3804)</li>
 <li>docs.google.com (3288)</li>
 <li>chatgpt.com (2669)</li>
 <li>www.linkedin.com (2348)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1871)</li>
-<li>moodle.royalholloway.ac.uk (1832)</li>
+<li>moodle.royalholloway.ac.uk (1828)</li>
 <li>calendar.google.com (1522)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1299)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (869)</li>
 <li>forms.office.com (786)</li>
-<li>feedly.com (784)</li>
+<li>feedly.com (785)</li>
 <li>www.theguardian.com (588)</li>
 <li>fritz.box (563)</li>
 <li>m365.cloud.microsoft (541)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:20 bike.bikegremlin.com</li>
+<ul><li> 13:47 www.which.co.uk</li>
+<li> 13:46 rankedboost.com</li>
+<li class='same'> 13:45 rankedboost.com</li>
+<li class='same'> 13:44 rankedboost.com</li>
+<li class='same'> 13:43 rankedboost.com</li>
+<li class='same'> 13:42 rankedboost.com</li>
+<li class='same'> 13:41 rankedboost.com</li>
+<li class='same'> 13:39 rankedboost.com</li>
+<li> 13:39 duckduckgo.com</li>
+<li> 13:39 gamefaqs.gamespot.com</li>
+<li class='same'> 13:36 gamefaqs.gamespot.com</li>
+<li> 13:36 duckduckgo.com</li>
+<li> 13:34 www.natesilver.net</li>
+<li> 13:34 feedly.com</li>
+<li> 13:31 www.reddit.com</li>
+<li> 13:20 bike.bikegremlin.com</li>
 <li> 13:19 www.reddit.com</li>
 <li> 13:19 cf.preview.redd.it</li>
 <li> 13:18 www.reddit.com</li>
@@ -123103,8 +123118,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:15 moodle.royalholloway.ac.uk</li>
 <li class='same'> 11:14 moodle.royalholloway.ac.uk</li>
 <li class='same'> 11:13 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:12 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:11 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:10 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:09 moodle.royalholloway.ac.uk</li>
 </ul>
