@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5382)</li>
+<ol><li>www.google.com (5381)</li>
 <li>mail.google.com (5352)</li>
 <li>www.reddit.com (5124)</li>
 <li>outlook.office365.com (4649)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3798)</li>
+<li>duckduckgo.com (3801)</li>
 <li>docs.google.com (3288)</li>
 <li>chatgpt.com (2669)</li>
 <li>www.linkedin.com (2348)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1871)</li>
 <li>moodle.royalholloway.ac.uk (1836)</li>
 <li>calendar.google.com (1522)</li>
-<li>www.amazon.co.uk (1304)</li>
+<li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1298)</li>
 <li>chat.openai.com (1287)</li>
 <li>herts.instructure.com (1234)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:30 duckduckgo.com</li>
+<ul><li> 12:52 fictionhorizon.com</li>
+<li> 12:51 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday#Allegations">Talk:Jason Arday - Wikipedia</a></li>
+<li> 12:41 www.amazon.co.uk</li>
+<li class='same'> 12:40 www.amazon.co.uk</li>
+<li> 12:35 fictionhorizon.com</li>
+<li> 12:35 duckduckgo.com</li>
+<li class='same'> 12:34 duckduckgo.com</li>
+<li class='same'> 12:33 duckduckgo.com</li>
+<li> 12:31 www.officeforstudents.org.uk</li>
+<li> 12:31 eur03.safelinks.protection.outlook.com</li>
+<li> 12:29 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+</ul>
+
+<br>
+
+<ul><li> 11:30 knowyourmeme.com</li>
+<li> 11:30 duckduckgo.com</li>
 <li class='same'> 11:28 duckduckgo.com</li>
 <li class='same'> 11:14 duckduckgo.com</li>
 <li> 11:14 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday#Allegations">Talk:Jason Arday - Wikipedia</a></li>
@@ -123091,28 +123107,4 @@ With number of accesses/minutes in parentheses
 <li> 10:55 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
 <li> 10:55 www.google.com</li>
 <li> 10:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 10:55 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security/Archive_3&amp;action=edit&amp;redlink=1">Creating Computer security/Archive 3 - Wikipedia</a></li>
-<li> 10:54 <a href="https://en.wikipedia.org/wiki/Risk_management_information_systems">Risk management information systems - Wikipedia</a></li>
-<li> 10:53 <a href="https://en.wikipedia.org/wiki/Talk:Computer_security/Archive_3#Requested_move_4_July_2023">Talk:Computer security/Archive 3 - Wikipedia</a></li>
-<li> 10:53 <a href="https://en.wikipedia.org/wiki/User:Kanialdhan">User:Kanialdhan - Wikipedia</a></li>
-<li> 10:52 <a href="https://en.wikipedia.org/wiki/Wikipedia:Wiki_Ed/NC_State_University/Engineering_in_the_21st_Century_-_Section_003_(Fall_2024)">Wikipedia:Wiki Ed/NC State University/Engineering in the 21st Century - Section 003 (Fall 2024) - Wikipedia</a></li>
-<li> 10:52 <a href="https://en.wikipedia.org/wiki/Talk:Computer_security">Talk:Computer security - Wikipedia</a></li>
-<li> 10:52 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security&amp;action=history">Computer security: Revision history - Wikipedia</a></li>
-<li> 10:51 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
-<li> 10:51 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 10:51 www.google.com</li>
-<li> 10:50 <a href="https://en.wikipedia.org/wiki/Information_security_management">Information security management - Wikipedia</a></li>
-<li> 10:50 <a href="https://en.wikipedia.org/wiki/Information_security#Other_Models">Information security - Wikipedia</a></li>
-<li> 10:50 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=12">Editing Information security - Wikipedia</a></li>
-<li> 10:49 <a href="https://en.wikipedia.org/wiki/Information_security#Other_Models">Information security - Wikipedia</a></li>
-<li> 10:49 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=12">Editing Information security - Wikipedia</a></li>
-<li> 10:49 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=history">Information security: Revision history - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/wiki/Information_security#Information_Security_Standards">Information security - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=39">Editing Information security - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 10:47 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=history">Information security: Revision history - Wikipedia</a></li>
-<li> 10:47 <a href="https://en.wikipedia.org/wiki/Information_security#Information_Security_Standards">Information security - Wikipedia</a></li>
-<li> 10:46 <a href="https://en.wikipedia.org/wiki/Information_security_standards#Organisations_producing_Standards">Information security standards - Wikipedia</a></li>
-<li> 10:45 xtools.wmcloud.org</li>
 </ul>
