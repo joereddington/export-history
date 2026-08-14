@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5381)</li>
+<ol><li>www.google.com (5379)</li>
 <li>mail.google.com (5352)</li>
-<li>www.reddit.com (5124)</li>
-<li>outlook.office365.com (4649)</li>
+<li>www.reddit.com (5133)</li>
+<li>outlook.office365.com (4648)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3801)</li>
+<li>duckduckgo.com (3802)</li>
 <li>docs.google.com (3288)</li>
 <li>chatgpt.com (2669)</li>
 <li>www.linkedin.com (2348)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1871)</li>
-<li>moodle.royalholloway.ac.uk (1836)</li>
+<li>moodle.royalholloway.ac.uk (1832)</li>
 <li>calendar.google.com (1522)</li>
 <li>www.amazon.co.uk (1306)</li>
-<li>login.microsoftonline.com (1298)</li>
+<li>login.microsoftonline.com (1299)</li>
 <li>chat.openai.com (1287)</li>
 <li>herts.instructure.com (1234)</li>
 <li>web.whatsapp.com (1157)</li>
 <li>gmail.com (1136)</li>
-<li>mail.rhul.ac.uk (1022)</li>
+<li>mail.rhul.ac.uk (1021)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (869)</li>
 <li>forms.office.com (786)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (588)</li>
 <li>fritz.box (563)</li>
 <li>m365.cloud.microsoft (541)</li>
-<li>rhul.sharepoint.com (532)</li>
+<li>rhul.sharepoint.com (531)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (472)</li>
 
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:52 fictionhorizon.com</li>
+<ul><li> 13:20 bike.bikegremlin.com</li>
+<li> 13:19 www.reddit.com</li>
+<li> 13:19 cf.preview.redd.it</li>
+<li> 13:18 www.reddit.com</li>
+<li class='same'> 13:15 www.reddit.com</li>
+<li class='same'> 13:14 www.reddit.com</li>
+<li class='same'> 13:13 www.reddit.com</li>
+<li class='same'> 13:10 www.reddit.com</li>
+<li class='same'> 13:08 www.reddit.com</li>
+<li class='same'> 13:06 www.reddit.com</li>
+<li class='same'> 13:04 www.reddit.com</li>
+<li> 13:04 duckduckgo.com</li>
+<li> 13:03 myview.rhul.zellis.com</li>
+<li class='same'> 13:02 myview.rhul.zellis.com</li>
+<li class='same'> 13:01 myview.rhul.zellis.com</li>
+<li> 13:01 login.microsoftonline.com</li>
+<li> 13:01 myview.rhul.zellis.com</li>
+<li> 13:00 intranet.royalholloway.ac.uk</li>
+<li class='same'> 12:56 intranet.royalholloway.ac.uk</li>
+<li> 12:52 fictionhorizon.com</li>
 <li> 12:51 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday#Allegations">Talk:Jason Arday - Wikipedia</a></li>
 <li> 12:41 www.amazon.co.uk</li>
 <li class='same'> 12:40 www.amazon.co.uk</li>
@@ -123088,23 +123107,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:11 moodle.royalholloway.ac.uk</li>
 <li class='same'> 11:10 moodle.royalholloway.ac.uk</li>
 <li class='same'> 11:09 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:07 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:06 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:05 moodle.royalholloway.ac.uk</li>
-<li> 11:05 www.google.com</li>
-<li> 11:05 moodle.royalholloway.ac.uk</li>
-<li> 11:04 rhul.sharepoint.com</li>
-<li> 11:03 outlook.office365.com</li>
-<li> 11:03 mail.rhul.ac.uk</li>
-<li> 11:03 <a href="https://en.wikipedia.org/wiki/Change_management_(ITSM)">Change management (ITSM) - Wikipedia</a></li>
-<li> 11:00 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 11:00 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computing)">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 11:00 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:57 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=info">Information for &quot;Information security&quot; - Wikipedia</a></li>
-<li> 10:57 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security&amp;action=info">Information for &quot;Computer security&quot; - Wikipedia</a></li>
-<li> 10:57 <a href="https://en.wikipedia.org/wiki/Special:SpecialPages">Special pages - Wikipedia</a></li>
-<li> 10:56 <a href="https://en.wikipedia.org/wiki/Security_convergence">Security convergence - Wikipedia</a></li>
-<li> 10:55 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
-<li> 10:55 www.google.com</li>
-<li> 10:55 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 </ul>
