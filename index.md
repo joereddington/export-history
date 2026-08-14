@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (5124)</li>
 <li>outlook.office365.com (4649)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3796)</li>
+<li>duckduckgo.com (3798)</li>
 <li>docs.google.com (3288)</li>
 <li>chatgpt.com (2669)</li>
 <li>www.linkedin.com (2348)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:14 duckduckgo.com</li>
+<ul><li> 11:30 duckduckgo.com</li>
+<li class='same'> 11:28 duckduckgo.com</li>
+<li class='same'> 11:14 duckduckgo.com</li>
 <li> 11:14 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday#Allegations">Talk:Jason Arday - Wikipedia</a></li>
 <li> 11:13 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Jason_Arday&amp;action=edit&amp;section=28">Editing Talk:Jason Arday (section) - Wikipedia</a></li>
 <li> 11:13 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday#Allegations-DoesNotExist-DiscussionToolsHack">Talk:Jason Arday - Wikipedia</a></li>
