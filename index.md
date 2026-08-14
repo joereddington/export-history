@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5379)</li>
+<ol><li>www.google.com (5380)</li>
 <li>mail.google.com (5352)</li>
-<li>www.reddit.com (5122)</li>
-<li>outlook.office365.com (4648)</li>
+<li>www.reddit.com (5123)</li>
+<li>outlook.office365.com (4645)</li>
 <li>outlook.office.com (3987)</li>
-<li>duckduckgo.com (3794)</li>
+<li>duckduckgo.com (3795)</li>
 <li>docs.google.com (3288)</li>
 <li>chatgpt.com (2669)</li>
 <li>www.linkedin.com (2348)</li>
@@ -104,11 +104,43 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 14/08/26</H3>
+
+<br>
+
+<ul><li> 11:04 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:04 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 11:04 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
+</ul>
+
 <H3>Thursday, 13/08/26</H3>
 
 <br>
 
-<ul><li> 17:50 calendar.google.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:05 <a href="https://en.wikipedia.org/wiki/Jason_Arday">Jason Arday - Wikipedia</a></li>
+<li> 20:04 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;diff=1369226631&amp;oldid=1369220173">Jason Arday: Difference between revisions - Wikipedia</a></li>
+<li> 20:04 <a href="https://en.wikipedia.org/w/index.php?title=Jason_Arday&amp;action=history">Jason Arday: Revision history - Wikipedia</a></li>
+<li> 20:04 <a href="https://en.wikipedia.org/wiki/Jason_Arday">Jason Arday - Wikipedia</a></li>
+<li> 20:04 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday#Alternatives_to_%27media_stardom%27">Talk:Jason Arday - Wikipedia</a></li>
+<li> 20:00 <a href="https://en.wikipedia.org/wiki/Anthony_Giddens">Anthony Giddens - Wikipedia</a></li>
+<li> 20:00 duckduckgo.com</li>
+<li> 19:59 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Jason_Arday&amp;action=edit&amp;section=25">Editing Talk:Jason Arday (section) - Wikipedia</a></li>
+<li> 19:58 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Jason_Arday&amp;action=history">Talk:Jason Arday: Revision history - Wikipedia</a></li>
+<li> 19:58 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
+</ul>
+
+<br>
+
+<ul><li> 18:10 gamefaqs.gamespot.com</li>
+<li> 18:09 www.google.com</li>
+<li> 18:08 www.reddit.com</li>
+<li> 18:08 www.google.com</li>
+<li> 18:08 mobile.prod.chiphq.net</li>
+<li> 17:50 calendar.google.com</li>
 <li> 17:37 mail.google.com</li>
 <li class='same'> 17:20 mail.google.com</li>
 <li> 17:20 gmail.com</li>
@@ -123070,13 +123102,4 @@ With number of accesses/minutes in parentheses
 <li> 10:37 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 10:37 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 10:37 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 10:37 <a href="https://en.wikipedia.org/"></a></li>
-<li> 10:37 www.doxdirect.com</li>
-<li class='same'> 10:35 www.doxdirect.com</li>
-<li class='same'> 10:34 www.doxdirect.com</li>
-<li> 10:34 www.google.com</li>
-<li> 10:34 Local file</li>
-<li> 10:33 outlook.office365.com</li>
-<li class='same'> 10:32 outlook.office365.com</li>
-<li class='same'> 10:31 outlook.office365.com</li>
 </ul>
