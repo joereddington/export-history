@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5379)</li>
-<li>mail.google.com (5352)</li>
+<ol><li>www.google.com (5382)</li>
+<li>mail.google.com (5353)</li>
 <li>www.reddit.com (5134)</li>
-<li>outlook.office365.com (4649)</li>
+<li>outlook.office365.com (4656)</li>
 <li>outlook.office.com (3994)</li>
 <li>duckduckgo.com (3804)</li>
 <li>docs.google.com (3288)</li>
-<li>chatgpt.com (2670)</li>
+<li>chatgpt.com (2669)</li>
 <li>www.linkedin.com (2348)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1871)</li>
-<li>moodle.royalholloway.ac.uk (1826)</li>
-<li>calendar.google.com (1522)</li>
+<li>moodle.royalholloway.ac.uk (1819)</li>
+<li>calendar.google.com (1523)</li>
 <li>www.amazon.co.uk (1306)</li>
-<li>login.microsoftonline.com (1301)</li>
+<li>login.microsoftonline.com (1302)</li>
 <li>chat.openai.com (1288)</li>
 <li>herts.instructure.com (1234)</li>
 <li>web.whatsapp.com (1157)</li>
-<li>gmail.com (1136)</li>
+<li>gmail.com (1137)</li>
 <li>mail.rhul.ac.uk (1021)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (869)</li>
 <li>forms.office.com (786)</li>
 <li>feedly.com (785)</li>
 <li>www.theguardian.com (588)</li>
-<li>fritz.box (563)</li>
+<li>fritz.box (564)</li>
 <li>m365.cloud.microsoft (541)</li>
 <li>rhul.sharepoint.com (531)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -104,13 +104,77 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 15/08/26</H3>
+
+<br>
+
+<ul><li> 11:17 <a href="https://www.theguardian.com/education/2023/feb/23/jason-arday-to-become-youngest-ever-black-professor-at-cambridge">Jason Arday to become youngest ever black professor at Cambridge | University of Cambridge | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li> 10:10 www.diy.com</li>
+<li> 10:10 www.google.com</li>
+<li> 09:52 www.parkrun.org.uk</li>
+<li class='same'> 09:51 www.parkrun.org.uk</li>
+<li class='same'> 09:50 www.parkrun.org.uk</li>
+<li> 09:31 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 08:18 outlook.office365.com</li>
+<li> 08:18 device.login.microsoftonline.com</li>
+<li> 08:18 login.microsoftonline.com</li>
+<li> 08:18 outlook.office365.com</li>
+<li> 07:50 newsthump.com</li>
+<li> 07:49 calendar.google.com</li>
+<li> 07:47 mymobile2.o2.co.uk</li>
+<li> 07:47 www.o2.co.uk</li>
+<li> 07:47 oauth.virginmediao2.co.uk</li>
+<li> 07:47 oauth.virginmedia.com</li>
+<li> 07:47 mymobile2.o2.co.uk</li>
+<li> 07:47 mail.google.com</li>
+<li> 07:46 mymobile2.o2.co.uk</li>
+<li> 07:46 identity.o2.co.uk</li>
+<li> 07:46 accounts.o2.co.uk</li>
+<li> 07:46 auth.virginmediao2.co.uk</li>
+<li> 07:46 www.google.com</li>
+<li> 07:46 mail.google.com</li>
+<li> 07:46 gmail.com</li>
+<li> 07:46 oauth.virginmediao2.co.uk</li>
+<li> 07:45 notlongnow.o2.co.uk</li>
+<li> 07:45 mymobile2.o2.co.uk</li>
+<li> 07:45 identity.o2.co.uk</li>
+<li> 07:45 accounts.o2.co.uk</li>
+<li> 07:45 identity.o2.co.uk</li>
+<li> 07:45 notlongnow.o2.co.uk</li>
+<li> 07:45 mymobile2.o2.co.uk</li>
+<li> 07:45 fritz.box</li>
+</ul>
+
 <H3>Friday, 14/08/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 19:29 outlook.office365.com</li>
+</ul>
 
 <br>
 
 <ul><li> 18:53 <a href="https://www.youtube.com/watch?v=W6nO7KlwS-M">(48) I Built Walmart in LEGO...(It&#x27;s hard) - YouTube</a></li>
 <li> 18:53 <a href="https://www.youtube.com/results?search_query=lego">(48) lego - YouTube</a></li>
 <li> 18:50 <a href="https://www.youtube.com/">(48) YouTube</a></li>
+</ul>
+
+<br>
+
+<ul><li> 18:02 outlook.office365.com</li>
+<li class='same'> 17:59 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -135,7 +199,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:29 account.irobot.com</li>
+<ul><li> 15:36 outlook.office365.com</li>
+<li class='same'> 15:35 outlook.office365.com</li>
+<li> 15:29 account.irobot.com</li>
 <li> 15:27 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 15:26 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 15:25 librarysearch.royalholloway.ac.uk</li>
@@ -14259,13 +14325,10 @@ With number of accesses/minutes in parentheses
 <li> 18:19 blobofsproduks.blob.core.windows.net</li>
 <li> 18:19 www.officeforstudents.org.uk</li>
 <li class='same'> 18:18 www.officeforstudents.org.uk</li>
-<li> 18:10 jobs.royalholloway.ac.uk</li>
-<li class='same'> 18:09 jobs.royalholloway.ac.uk</li>
+<li> 18:09 jobs.royalholloway.ac.uk</li>
 <li> 18:08 intranet.royalholloway.ac.uk</li>
 <li> 18:07 www.royalholloway.ac.uk</li>
 <li class='same'> 18:06 www.royalholloway.ac.uk</li>
-<li> 18:06 rhul.uk.qlikcloud.com</li>
-<li> 18:06 fgua91pymbsao6b.uk.qlikcloud.com</li>
 <li> 18:06 rhul.uk.qlikcloud.com</li>
 <li> 18:06 login.microsoftonline.com</li>
 <li> 18:06 dashboards.rhul.ac.uk</li>
@@ -14282,13 +14345,9 @@ With number of accesses/minutes in parentheses
 <li> 17:54 www.royalholloway.ac.uk</li>
 <li> 17:54 intranet.royalholloway.ac.uk</li>
 <li> 17:50 mail.google.com</li>
-<li> 17:50 mail-attachment.googleusercontent.com</li>
-<li> 17:50 mail.google.com</li>
-<li> 17:49 chatgpt.com</li>
-<li class='same'> 17:48 chatgpt.com</li>
+<li> 17:48 chatgpt.com</li>
 <li class='same'> 17:46 chatgpt.com</li>
 <li> 17:45 web.whatsapp.com</li>
-<li> 17:44 mail-attachment.googleusercontent.com</li>
 <li> 17:44 mail.google.com</li>
 <li> 17:44 gmail.com</li>
 <li> 17:41 mail.google.com</li>
@@ -123166,11 +123225,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:36 moodle.royalholloway.ac.uk</li>
 <li> 11:35 rhul-my.sharepoint.com</li>
 <li> 11:34 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:31 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:30 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:28 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:26 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:17 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:16 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:15 moodle.royalholloway.ac.uk</li>
 </ul>
