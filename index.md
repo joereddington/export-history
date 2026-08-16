@@ -68,34 +68,34 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5382)</li>
+<ol><li>www.google.com (5381)</li>
 <li>mail.google.com (5353)</li>
 <li>www.reddit.com (5134)</li>
 <li>outlook.office365.com (4656)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3804)</li>
+<li>duckduckgo.com (3805)</li>
 <li>docs.google.com (3288)</li>
-<li>chatgpt.com (2669)</li>
+<li>chatgpt.com (2672)</li>
 <li>www.linkedin.com (2348)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1871)</li>
-<li>moodle.royalholloway.ac.uk (1819)</li>
-<li>calendar.google.com (1523)</li>
+<li>moodle.royalholloway.ac.uk (1813)</li>
+<li>calendar.google.com (1524)</li>
 <li>www.amazon.co.uk (1306)</li>
-<li>login.microsoftonline.com (1302)</li>
-<li>chat.openai.com (1288)</li>
+<li>login.microsoftonline.com (1301)</li>
+<li>chat.openai.com (1289)</li>
 <li>herts.instructure.com (1234)</li>
 <li>web.whatsapp.com (1157)</li>
 <li>gmail.com (1137)</li>
 <li>mail.rhul.ac.uk (1021)</li>
 <li>tvtropes.org (886)</li>
-<li>rhul-my.sharepoint.com (869)</li>
+<li>rhul-my.sharepoint.com (868)</li>
 <li>forms.office.com (786)</li>
 <li>feedly.com (785)</li>
 <li>www.theguardian.com (588)</li>
 <li>fritz.box (564)</li>
 <li>m365.cloud.microsoft (541)</li>
-<li>rhul.sharepoint.com (531)</li>
+<li>rhul.sharepoint.com (530)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (472)</li>
 
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:16 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<ul><li> 15:57 chatgpt.com</li>
+<li class='same'> 15:51 chatgpt.com</li>
+<li class='same'> 15:49 chatgpt.com</li>
+<li> 15:49 chat.openai.com</li>
+<li> 15:49 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 13:19 duckduckgo.com</li>
+<li> 13:16 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
+<li> 13:16 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
+<li> 13:16 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 13:16 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 13:16 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 13:16 <a href="https://en.wikipedia.org/"></a></li>
@@ -14293,8 +14305,6 @@ With number of accesses/minutes in parentheses
 <li> 09:32 www.surrey.ac.uk</li>
 <li> 09:32 www.google.com</li>
 <li class='same'> 09:30 www.google.com</li>
-<li> 09:30 www.abebooks.co.uk</li>
-<li> 09:30 www.google.com</li>
 </ul>
 
 <br>
@@ -14321,8 +14331,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:28 rhul.sharepoint.com</li>
-<li> 19:28 login.microsoftonline.com</li>
-<li> 19:28 rhul.sharepoint.com</li>
 <li> 19:27 intranet.royalholloway.ac.uk</li>
 <li class='same'> 19:26 intranet.royalholloway.ac.uk</li>
 <li class='same'> 19:25 intranet.royalholloway.ac.uk</li>
@@ -14336,9 +14344,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:20 www.officeforstudents.org.uk</li>
-<li> 18:19 blobofsproduks.blob.core.windows.net</li>
-<li> 18:19 www.officeforstudents.org.uk</li>
-<li class='same'> 18:18 www.officeforstudents.org.uk</li>
+<li class='same'> 18:19 www.officeforstudents.org.uk</li>
 <li> 18:09 jobs.royalholloway.ac.uk</li>
 <li> 18:08 intranet.royalholloway.ac.uk</li>
 <li> 18:07 www.royalholloway.ac.uk</li>
@@ -123232,11 +123238,4 @@ With number of accesses/minutes in parentheses
 <li> 11:42 rhul-my.sharepoint.com</li>
 <li> 11:41 claude.ai</li>
 <li> 11:41 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:40 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:39 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:38 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:37 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:36 moodle.royalholloway.ac.uk</li>
-<li> 11:35 rhul-my.sharepoint.com</li>
-<li> 11:34 moodle.royalholloway.ac.uk</li>
 </ul>
