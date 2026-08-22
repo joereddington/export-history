@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2348)</li>
 <li>bsky.app (2017)</li>
 <li>www.facebook.com (1871)</li>
-<li>moodle.royalholloway.ac.uk (1808)</li>
+<li>moodle.royalholloway.ac.uk (1807)</li>
 <li>calendar.google.com (1524)</li>
 <li>www.amazon.co.uk (1306)</li>
 <li>login.microsoftonline.com (1305)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (786)</li>
 <li>feedly.com (785)</li>
 <li>www.theguardian.com (588)</li>
-<li>fritz.box (565)</li>
+<li>fritz.box (566)</li>
 <li>m365.cloud.microsoft (541)</li>
 <li>rhul.sharepoint.com (530)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:18 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#">2023 Capita data breach - Wikipedia</a></li>
+<ul><li> 07:40 192.168.178.1</li>
+<li class='same'> 07:39 192.168.178.1</li>
+<li class='same'> 07:37 192.168.178.1</li>
+<li> 07:36 fritz.box</li>
+<li> 07:36 detectportal.firefox.com</li>
+<li> 07:18 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#">2023 Capita data breach - Wikipedia</a></li>
 <li> 07:18 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
 </ul>
 
@@ -123569,27 +123574,4 @@ With number of accesses/minutes in parentheses
 <li> 11:51 Local file</li>
 <li> 11:51 rhul-my.sharepoint.com</li>
 <li> 11:50 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:49 moodle.royalholloway.ac.uk</li>
-</ul>
-
-<H3>Sunday, 28/07/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 08:12 www.parkrun.org.uk</li>
-</ul>
-
-<H3>Sunday, 30/06/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 17:03 www.parkrun.org.uk</li>
 </ul>
