@@ -71,19 +71,19 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (5408)</li>
 <li>mail.google.com (5348)</li>
 <li>www.reddit.com (5135)</li>
-<li>outlook.office365.com (4643)</li>
+<li>outlook.office365.com (4640)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3808)</li>
+<li>duckduckgo.com (3809)</li>
 <li>docs.google.com (3284)</li>
-<li>chatgpt.com (2678)</li>
-<li>www.linkedin.com (2345)</li>
+<li>chatgpt.com (2680)</li>
+<li>www.linkedin.com (2343)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1866)</li>
-<li>moodle.royalholloway.ac.uk (1802)</li>
-<li>calendar.google.com (1523)</li>
+<li>moodle.royalholloway.ac.uk (1806)</li>
+<li>calendar.google.com (1526)</li>
 <li>www.amazon.co.uk (1306)</li>
-<li>login.microsoftonline.com (1301)</li>
-<li>chat.openai.com (1290)</li>
+<li>login.microsoftonline.com (1302)</li>
+<li>chat.openai.com (1291)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
 <li>gmail.com (1136)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (588)</li>
 <li>fritz.box (567)</li>
 <li>m365.cloud.microsoft (541)</li>
-<li>rhul.sharepoint.com (536)</li>
+<li>rhul.sharepoint.com (534)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
 
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:57 eur03.safelinks.protection.outlook.com</li>
+<ul><li> 07:17 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:16 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:15 moodle.royalholloway.ac.uk</li>
+<li> 07:15 login.microsoftonline.com</li>
+<li> 07:15 moodle.royalholloway.ac.uk</li>
+<li> 07:09 calendar.google.com</li>
+<li> 07:09 eur03.safelinks.protection.outlook.com</li>
+<li> 07:09 calendar.google.com</li>
+<li> 07:04 chatgpt.com</li>
+<li class='same'> 07:03 chatgpt.com</li>
+<li> 07:03 chat.openai.com</li>
+<li> 07:03 duckduckgo.com</li>
+<li> 06:57 calendar.google.com</li>
+<li> 06:57 eur03.safelinks.protection.outlook.com</li>
 <li> 06:57 calendar.google.com</li>
 <li> 06:57 eur03.safelinks.protection.outlook.com</li>
 <li> 06:53 www.law.ac.uk</li>
@@ -123526,13 +123539,4 @@ With number of accesses/minutes in parentheses
 <li> 17:12 www.google.com</li>
 <li> 17:12 outlook.office365.com</li>
 <li class='same'> 17:10 outlook.office365.com</li>
-<li> 17:10 rhul.sharepoint.com</li>
-<li> 17:09 outlook.office365.com</li>
-<li> 17:07 rhul.sharepoint.com</li>
-<li> 17:05 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li class='same'> 17:04 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 17:03 outlook.office365.com</li>
-<li class='same'> 17:02 outlook.office365.com</li>
-<li> 17:02 www.linkedin.com</li>
-<li class='same'> 17:01 www.linkedin.com</li>
 </ul>
