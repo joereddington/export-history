@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5406)</li>
+<ol><li>www.google.com (5407)</li>
 <li>mail.google.com (5341)</li>
 <li>www.reddit.com (5135)</li>
-<li>outlook.office365.com (4635)</li>
+<li>outlook.office365.com (4644)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3817)</li>
+<li>duckduckgo.com (3818)</li>
 <li>docs.google.com (3284)</li>
 <li>chatgpt.com (2681)</li>
 <li>www.linkedin.com (2342)</li>
@@ -82,7 +82,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1804)</li>
 <li>calendar.google.com (1525)</li>
 <li>www.amazon.co.uk (1309)</li>
-<li>login.microsoftonline.com (1302)</li>
+<li>login.microsoftonline.com (1305)</li>
 <li>chat.openai.com (1292)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (588)</li>
 <li>fritz.box (569)</li>
 <li>m365.cloud.microsoft (541)</li>
-<li>rhul.sharepoint.com (533)</li>
+<li>rhul.sharepoint.com (536)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
 
@@ -105,6 +105,48 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 24/08/26</H3>
+
+<br>
+
+<ul><li> 14:28 matteosammartino.com</li>
+<li> 14:28 pure.royalholloway.ac.uk</li>
+<li> 14:28 duckduckgo.com</li>
+<li> 14:28 www.royalholloway.ac.uk</li>
+<li> 14:28 rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 12:04 rhul.sharepoint.com</li>
+<li> 12:04 device.login.microsoftonline.com</li>
+<li> 12:04 login.microsoftonline.com</li>
+<li> 12:04 rhul.sharepoint.com</li>
+<li class='same'> 12:02 rhul.sharepoint.com</li>
+<li> 12:02 login.microsoftonline.com</li>
+<li> 12:02 device.login.microsoftonline.com</li>
+<li> 12:02 outlook.office365.com</li>
+<li class='same'> 12:00 outlook.office365.com</li>
+<li class='same'> 11:59 outlook.office365.com</li>
+<li class='same'> 11:58 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:12 outlook.office365.com</li>
+<li class='same'> 11:11 outlook.office365.com</li>
+<li class='same'> 11:10 outlook.office365.com</li>
+<li class='same'> 11:09 outlook.office365.com</li>
+<li> 11:09 device.login.microsoftonline.com</li>
+<li> 11:09 login.microsoftonline.com</li>
+<li> 11:09 outlook.office365.com</li>
+<li> 11:09 www.google.com</li>
+<li> 11:04 www.gladiators-experience.co.uk</li>
+<li> 11:03 www.thenec.co.uk</li>
+<li> 11:01 peppapigspaceadventure.seetickets.com</li>
+<li> 11:01 www.peppapigspaceadventure.co.uk</li>
+<li> 11:01 www.thenec.co.uk</li>
+<li class='same'> 11:00 www.thenec.co.uk</li>
+</ul>
 
 <br>
 
