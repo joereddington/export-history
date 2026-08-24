@@ -73,13 +73,13 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (5135)</li>
 <li>outlook.office365.com (4635)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3813)</li>
+<li>duckduckgo.com (3817)</li>
 <li>docs.google.com (3284)</li>
 <li>chatgpt.com (2681)</li>
 <li>www.linkedin.com (2342)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1866)</li>
-<li>moodle.royalholloway.ac.uk (1805)</li>
+<li>moodle.royalholloway.ac.uk (1804)</li>
 <li>calendar.google.com (1525)</li>
 <li>www.amazon.co.uk (1309)</li>
 <li>login.microsoftonline.com (1302)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:49 chatgpt.com</li>
+<ul><li> 10:06 forums.sherdog.com</li>
+<li> 10:06 duckduckgo.com</li>
+<li class='same'> 10:05 duckduckgo.com</li>
+<li> 10:03 pure.royalholloway.ac.uk</li>
+<li> 10:03 duckduckgo.com</li>
+<li class='same'> 10:01 duckduckgo.com</li>
+<li> 09:49 chatgpt.com</li>
 <li> 09:49 chat.openai.com</li>
 <li> 09:49 duckduckgo.com</li>
 <li> 09:48 192.168.178.1</li>
@@ -13772,7 +13778,6 @@ With number of accesses/minutes in parentheses
 <li> 14:14 moodle.royalholloway.ac.uk</li>
 <li> 14:14 rhul.hosted.panopto.com</li>
 <li> 14:14 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:13 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:12 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:10 moodle.royalholloway.ac.uk</li>
 <li class='same'> 14:07 moodle.royalholloway.ac.uk</li>
