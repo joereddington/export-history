@@ -69,13 +69,13 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5406)</li>
-<li>mail.google.com (5346)</li>
+<li>mail.google.com (5341)</li>
 <li>www.reddit.com (5135)</li>
 <li>outlook.office365.com (4635)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3811)</li>
+<li>duckduckgo.com (3813)</li>
 <li>docs.google.com (3284)</li>
-<li>chatgpt.com (2680)</li>
+<li>chatgpt.com (2681)</li>
 <li>www.linkedin.com (2342)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1866)</li>
@@ -83,17 +83,17 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1525)</li>
 <li>www.amazon.co.uk (1309)</li>
 <li>login.microsoftonline.com (1302)</li>
-<li>chat.openai.com (1291)</li>
+<li>chat.openai.com (1292)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
-<li>gmail.com (1135)</li>
+<li>gmail.com (1134)</li>
 <li>mail.rhul.ac.uk (1013)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (861)</li>
 <li>feedly.com (785)</li>
 <li>forms.office.com (784)</li>
 <li>www.theguardian.com (588)</li>
-<li>fritz.box (568)</li>
+<li>fritz.box (569)</li>
 <li>m365.cloud.microsoft (541)</li>
 <li>rhul.sharepoint.com (533)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,29 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:56 www.amazon.co.uk</li>
+<ul><li> 09:49 chatgpt.com</li>
+<li> 09:49 chat.openai.com</li>
+<li> 09:49 duckduckgo.com</li>
+<li> 09:48 192.168.178.1</li>
+<li class='same'> 09:47 192.168.178.1</li>
+<li> 09:47 fritz.box</li>
+<li> 09:47 detectportal.firefox.com</li>
+<li> 09:42 m.youtube.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:48 m.youtube.com</li>
+<li> 08:48 www.google.com</li>
+<li> 08:48 accounts.google.com</li>
+<li> 08:48 www.google.com</li>
+<li> 08:48 m.youtube.com</li>
+<li class='same'> 08:29 m.youtube.com</li>
+<li> 08:29 www.google.com</li>
+<li> 08:03 www.giantitp.com</li>
+<li class='same'> 08:02 www.giantitp.com</li>
+<li> 08:00 duckduckgo.com</li>
+<li> 07:56 www.amazon.co.uk</li>
 <li class='same'> 07:55 www.amazon.co.uk</li>
 <li class='same'> 07:54 www.amazon.co.uk</li>
 <li> 07:43 vehicleenquiry.service.gov.uk</li>
@@ -123504,19 +123526,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:17 electronics.stackexchange.com</li>
 <li> 20:17 www.google.com</li>
 <li> 20:17 mail.google.com</li>
-<li class='same'> 20:14 mail.google.com</li>
-<li> 20:02 claude.ai</li>
-<li> 20:01 www.google.com</li>
-<li> 20:00 mail.google.com</li>
-<li class='same'> 19:58 mail.google.com</li>
-<li class='same'> 19:57 mail.google.com</li>
-<li class='same'> 19:54 mail.google.com</li>
-<li> 19:54 gmail.com</li>
-<li> 19:54 www.tvlicensing.co.uk</li>
-<li> 19:53 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 18:30 www.google.com</li>
 </ul>
