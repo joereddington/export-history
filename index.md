@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5408)</li>
+<ol><li>www.google.com (5417)</li>
 <li>mail.google.com (5341)</li>
 <li>www.reddit.com (5135)</li>
-<li>outlook.office365.com (4647)</li>
+<li>outlook.office365.com (4671)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3818)</li>
+<li>duckduckgo.com (3821)</li>
 <li>docs.google.com (3284)</li>
-<li>chatgpt.com (2681)</li>
-<li>www.linkedin.com (2342)</li>
+<li>chatgpt.com (2686)</li>
+<li>www.linkedin.com (2347)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1866)</li>
+<li>www.facebook.com (1871)</li>
 <li>moodle.royalholloway.ac.uk (1804)</li>
 <li>calendar.google.com (1525)</li>
-<li>www.amazon.co.uk (1309)</li>
-<li>login.microsoftonline.com (1305)</li>
-<li>chat.openai.com (1292)</li>
+<li>www.amazon.co.uk (1313)</li>
+<li>login.microsoftonline.com (1308)</li>
+<li>chat.openai.com (1293)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
 <li>gmail.com (1134)</li>
-<li>mail.rhul.ac.uk (1013)</li>
+<li>mail.rhul.ac.uk (1014)</li>
 <li>tvtropes.org (886)</li>
-<li>rhul-my.sharepoint.com (861)</li>
-<li>feedly.com (785)</li>
+<li>rhul-my.sharepoint.com (863)</li>
+<li>feedly.com (786)</li>
 <li>forms.office.com (784)</li>
 <li>www.theguardian.com (588)</li>
 <li>fritz.box (569)</li>
@@ -104,11 +104,182 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 25/08/26</H3>
+
+<br>
+
+<ul><li> 21:48 thespaces.com</li>
+<li class='same'> 21:47 thespaces.com</li>
+<li class='same'> 21:46 thespaces.com</li>
+<li> 21:46 duckduckgo.com</li>
+<li class='same'> 21:45 duckduckgo.com</li>
+</ul>
+
+<br>
+
+<ul><li> 20:48 www.thenec.co.uk</li>
+<li class='same'> 20:47 www.thenec.co.uk</li>
+<li class='same'> 20:46 www.thenec.co.uk</li>
+<li class='same'> 20:43 www.thenec.co.uk</li>
+<li class='same'> 20:40 www.thenec.co.uk</li>
+<li class='same'> 20:37 www.thenec.co.uk</li>
+<li> 20:34 www.bppulselive.co.uk</li>
+<li> 20:31 www.thenec.co.uk</li>
+<li> 20:30 tickets.wwt.org.uk</li>
+<li> 20:30 wwt.digitickets.co.uk</li>
+<li> 20:29 www.wwt.org.uk</li>
+<li class='same'> 20:28 www.wwt.org.uk</li>
+<li> 20:28 duckduckgo.com</li>
+<li> 20:27 outlook.office365.com</li>
+<li> 20:27 www.facebook.com</li>
+<li class='same'> 20:22 www.facebook.com</li>
+<li class='same'> 20:20 www.facebook.com</li>
+<li> 20:20 facebook.com</li>
+<li> 20:20 www.linkedin.com</li>
+<li> 20:20 outlook.office365.com</li>
+<li> 19:57 chatgpt.com</li>
+<li> 19:57 rhul-my.sharepoint.com</li>
+<li> 19:57 login.microsoftonline.com</li>
+<li> 19:57 device.login.microsoftonline.com</li>
+<li> 19:57 rhul-my.sharepoint.com</li>
+<li> 19:57 outlook.office365.com</li>
+<li> 19:57 login.microsoftonline.com</li>
+<li> 19:57 device.login.microsoftonline.com</li>
+<li> 19:57 outlook.office365.com</li>
+<li> 19:57 mail.rhul.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 18:47 <a href="https://en.wikipedia.org/wiki/List_of_supermarket_chains_in_the_United_Kingdom">Asda - Wikipedia</a></li>
+<li> 18:46 <a href="https://en.wikipedia.org/wiki/Asda">List of supermarket chains in the United Kingdom - Wikipedia</a></li>
+<li> 18:46 <a href="https://en.wikipedia.org/wiki/List_of_supermarket_chains_in_the_United_Kingdom">Asda - Wikipedia</a></li>
+<li> 18:46 www.google.com</li>
+<li> 18:45 <a href="https://en.wikipedia.org/wiki/Waitrose">Waitrose - Wikipedia</a></li>
+<li> 18:45 www.google.com</li>
+<li> 18:43 <a href="https://en.wikipedia.org/wiki/Lidl">Morrisons - Wikipedia</a></li>
+<li> 18:43 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Lidl&amp;wprov=acrw1_0">Morrisons - Wikipedia</a></li>
+<li> 18:43 <a href="https://en.wikipedia.org/wiki/Morrisons#/search">Morrisons - Wikipedia</a></li>
+<li> 18:42 <a href="https://en.wikipedia.org/wiki/Morrisons">Morrisons - Wikipedia</a></li>
+<li> 18:42 www.google.com</li>
+<li> 18:42 <a href="https://en.wikipedia.org/wiki/Sainsbury&#x27;s">Tesco - Wikipedia</a></li>
+<li> 18:39 <a href="https://en.wikipedia.org/wiki/Tesco">Tesco - Wikipedia</a></li>
+<li> 18:38 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:08 outlook.office365.com</li>
+<li> 18:08 moto-way.com</li>
+<li> 18:05 www.google.com</li>
+<li> 18:05 outlook.office365.com</li>
+<li> 18:04 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:44 www.google.com</li>
+<li> 15:44 outlook.office365.com</li>
+<li> 15:44 moto-way.com</li>
+<li> 15:44 outlook.office365.com</li>
+<li class='same'> 15:43 outlook.office365.com</li>
+<li> 15:43 login.microsoftonline.com</li>
+<li> 15:43 moto-way.com</li>
+<li> 15:43 splash.dnaspaces.eu</li>
+<li> 15:43 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:24 outlook.office365.com</li>
+<li class='same'> 08:13 outlook.office365.com</li>
+<li class='same'> 08:12 outlook.office365.com</li>
+<li class='same'> 08:11 outlook.office365.com</li>
+<li class='same'> 08:10 outlook.office365.com</li>
+<li class='same'> 08:09 outlook.office365.com</li>
+</ul>
+
 <H3>Monday, 24/08/26</H3>
 
 <br>
 
-<ul><li> 15:29 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 20:05 outlook.office365.com</li>
+<li> 20:05 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:24 www.google.com</li>
+<li> 19:24 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:25 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 17:25 outlook.office365.com</li>
+<li class='same'> 17:24 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:11 www.giantitp.com</li>
+<li> 16:09 www.amazon.co.uk</li>
+<li class='same'> 16:08 www.amazon.co.uk</li>
+<li> 16:07 www.facebook.com</li>
+<li class='same'> 16:04 www.facebook.com</li>
+<li> 16:03 www.linkedin.com</li>
+<li> 16:03 <a href="https://xkcd.com/2088/">xkcd: Schwarzschild&#x27;s Cat</a></li>
+<li> 16:03 c.xkcd.com</li>
+<li> 16:03 <a href="http://xkcd.com/2088/"></a></li>
+<li> 15:46 <a href="https://xkcd.com/716/">xkcd: Time Machine</a></li>
+<li> 15:46 c.xkcd.com</li>
+<li> 15:46 <a href="http://xkcd.com/716/"></a></li>
+<li> 15:45 <a href="https://xkcd.com/1497/">xkcd: New Products</a></li>
+<li> 15:45 c.xkcd.com</li>
+<li> 15:45 <a href="http://xkcd.com/1497/"></a></li>
+<li> 15:45 <a href="https://xkcd.com/2597/">xkcd: Salary Negotiation</a></li>
+<li> 15:45 c.xkcd.com</li>
+<li> 15:45 <a href="http://xkcd.com/2597/"></a></li>
+<li> 15:45 <a href="https://xkcd.com/1933/">xkcd: Santa Facts</a></li>
+<li> 15:45 c.xkcd.com</li>
+<li> 15:45 <a href="http://xkcd.com/1933/"></a></li>
+<li> 15:44 <a href="https://xkcd.com/1408/">xkcd: March of the Penguins</a></li>
+<li> 15:44 c.xkcd.com</li>
+<li> 15:44 <a href="http://xkcd.com/1408/"></a></li>
+<li> 15:44 <a href="https://xkcd.com/258/">xkcd: Conspiracy Theories</a></li>
+<li> 15:44 c.xkcd.com</li>
+<li> 15:44 <a href="http://xkcd.com/258/"></a></li>
+<li> 15:44 <a href="https://xkcd.com/2266/">xkcd: Leap Smearing</a></li>
+<li> 15:44 c.xkcd.com</li>
+<li> 15:44 <a href="http://xkcd.com/2266/"></a></li>
+<li> 15:44 <a href="https://xkcd.com/511/">xkcd: Sleet</a></li>
+<li> 15:44 c.xkcd.com</li>
+<li> 15:44 <a href="http://xkcd.com/511/"></a></li>
+<li> 15:43 <a href="https://xkcd.com/2761/">xkcd: 1-to-1 Scale</a></li>
+<li> 15:43 c.xkcd.com</li>
+<li> 15:43 <a href="http://xkcd.com/2761/"></a></li>
+<li> 15:43 www.xkcd.com</li>
+<li class='same'> 15:42 www.xkcd.com</li>
+<li> 15:38 feedly.com</li>
+<li> 15:37 www.amazon.co.uk</li>
+<li> 15:37 www.linkedin.com</li>
+<li class='same'> 15:36 www.linkedin.com</li>
+<li> 15:36 chatgpt.com</li>
+<li class='same'> 15:35 chatgpt.com</li>
+<li> 15:35 www.amazon.co.uk</li>
+<li> 15:34 chatgpt.com</li>
+<li class='same'> 15:33 chatgpt.com</li>
+<li> 15:33 chat.openai.com</li>
+<li> 15:33 www.linkedin.com</li>
+<li> 15:29 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 15:28 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=500&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 15:28 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 15:28 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -116,6 +287,9 @@ With number of accesses/minutes in parentheses
 <li> 15:27 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 15:27 <a href="https://en.wikipedia.org/"></a></li>
 <li> 15:26 newsthump.com</li>
+<li> 15:21 outlook.office365.com</li>
+<li class='same'> 15:20 outlook.office365.com</li>
+<li class='same'> 15:18 outlook.office365.com</li>
 <li> 15:12 www.thedailymash.co.uk</li>
 <li> 15:10 www.google.com</li>
 <li> 15:10 outlook.office365.com</li>
@@ -407,11 +581,11 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 22:59 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<ul><li> 22:59 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 22:59 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 22:59 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#">User talk:Joereddington - Wikipedia</a></li>
 <li> 22:59 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
-<li> 22:58 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 22:58 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 22:58 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 22:58 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#">User talk:Joereddington - Wikipedia</a></li>
 <li> 22:57 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=350963668&amp;markasreadwiki=enwiki#c-Bgsu98-20260821200900-Good_article_reassessment_for_2023_Capita_data_breach">Wikipedia:Good article reassessment/2023 Capita data breach/1 - Wikipedia</a></li>
@@ -23262,7 +23436,7 @@ With number of accesses/minutes in parentheses
 <li> 10:13 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;section=3&amp;oldid=1338291510&amp;action=edit">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 10:13 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=3">Editing 2023 Capita data breach (section) - Wikipedia</a></li>
 <li> 10:12 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
-<li> 10:11 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 10:11 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 10:11 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 10:11 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-Metalicat-20260311213000-Your_nomination_of_2023_Capita_data_breach_is_under_review">User talk:Joereddington - Wikipedia</a></li>
 <li> 10:11 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington?markasread=345478990&amp;markasreadwiki=enwiki#c-Metalicat-20260311213000-Your_nomination_of_2023_Capita_data_breach_is_under_review">User talk:Joereddington - Wikipedia</a></li>
@@ -27189,7 +27363,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:00 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<ul><li> 09:00 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 09:00 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 09:00 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 09:00 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
@@ -27483,7 +27657,7 @@ With number of accesses/minutes in parentheses
 <li> 09:49 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Regulatory_action">2023 Capita data breach - Wikipedia</a></li>
 <li> 09:48 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=4">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 09:48 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
-<li> 09:48 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 09:48 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 09:47 <a href="https://en.wikipedia.org/w/index.php?title=Talk:2023_Capita_data_breach&amp;action=edit">Editing Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 09:47 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_instructions">Wikipedia:Good article instructions - Wikipedia</a></li>
 <li> 09:47 <a href="https://en.wikipedia.org/wiki/Wikipedia:Good_article_nominations">Wikipedia:Good article nominations - Wikipedia</a></li>
@@ -27493,7 +27667,7 @@ With number of accesses/minutes in parentheses
 <li> 09:45 <a href="https://en.wikipedia.org/wiki/Talk:British_Airways_data_breach">Talk:British Airways data breach - Wikipedia</a></li>
 <li> 09:45 <a href="https://en.wikipedia.org/w/index.php?title=British_Airways_data_breach&amp;action=history">British Airways data breach: Revision history - Wikipedia</a></li>
 <li> 09:45 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach#cite_note-Sandle2018-3">British Airways data breach - Wikipedia</a></li>
-<li> 09:45 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 09:45 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 09:45 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach#Regulatory_action">2023 Capita data breach - Wikipedia</a></li>
 <li> 09:42 <a href="https://en.wikipedia.org/w/index.php?title=2023_Capita_data_breach&amp;action=edit&amp;section=4">Editing 2023 Capita data breach - Wikipedia</a></li>
 <li> 09:41 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
@@ -35922,7 +36096,7 @@ With number of accesses/minutes in parentheses
 <li> 12:31 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 <li> 12:31 <a href="https://en.wikipedia.org/wiki/Jaguar_Land_Rover_cyberattack">Jaguar Land Rover cyberattack - Wikipedia</a></li>
 <li> 12:29 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
-<li> 12:29 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 12:29 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 12:29 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 12:29 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 12:29 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -36057,7 +36231,7 @@ With number of accesses/minutes in parentheses
 <li> 06:58 <a href="https://en.wikipedia.org/wiki/Capita#2023_Cyberattack">Capita - Wikipedia</a></li>
 <li> 06:58 <a href="https://en.wikipedia.org/wiki/Capita">Capita - Wikipedia</a></li>
 <li> 06:58 <a href="https://en.wikipedia.org/wiki/2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
-<li> 06:58 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Replying on Talk:2023 Capita data breach - Wikipedia</a></li>
+<li> 06:58 <a href="https://en.wikipedia.org/wiki/Talk:2023_Capita_data_breach">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 06:58 <a href="https://en.wikipedia.org/w/index.php?title=Talk:2023_Capita_data_breach&amp;action=edit">Editing Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 06:58 <a href="https://en.wikipedia.org/w/index.php?title=Talk:2023_Capita_data_breach&amp;action=edit&amp;redlink=1">Talk:2023 Capita data breach - Wikipedia</a></li>
 <li> 06:58 <a href="https://en.wikipedia.org/w/index.php?title=Talk:LastPass_2022_data_breach&amp;action=edit">Editing Talk:LastPass 2022 data breach - Wikipedia</a></li>
