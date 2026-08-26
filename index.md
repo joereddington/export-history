@@ -76,9 +76,9 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3821)</li>
 <li>docs.google.com (3284)</li>
 <li>chatgpt.com (2686)</li>
-<li>www.linkedin.com (2347)</li>
+<li>www.linkedin.com (2349)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1871)</li>
+<li>www.facebook.com (1876)</li>
 <li>moodle.royalholloway.ac.uk (1804)</li>
 <li>calendar.google.com (1525)</li>
 <li>www.amazon.co.uk (1313)</li>
@@ -104,7 +104,25 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 26/08/26</H3>
+
+<br>
+
+<ul><li> 07:14 www.linkedin.com</li>
+<li class='same'> 07:13 www.linkedin.com</li>
+<li> 07:12 www.facebook.com</li>
+<li class='same'> 07:06 www.facebook.com</li>
+<li class='same'> 07:03 www.facebook.com</li>
+<li class='same'> 07:02 www.facebook.com</li>
+<li class='same'> 07:01 www.facebook.com</li>
+<li> 07:01 facebook.com</li>
+</ul>
+
 <H3>Tuesday, 25/08/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
