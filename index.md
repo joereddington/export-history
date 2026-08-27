@@ -76,12 +76,12 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3822)</li>
 <li>docs.google.com (3284)</li>
 <li>chatgpt.com (2692)</li>
-<li>www.linkedin.com (2351)</li>
+<li>www.linkedin.com (2352)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1883)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>calendar.google.com (1526)</li>
-<li>www.amazon.co.uk (1313)</li>
+<li>www.amazon.co.uk (1315)</li>
 <li>login.microsoftonline.com (1311)</li>
 <li>chat.openai.com (1293)</li>
 <li>herts.instructure.com (1231)</li>
@@ -105,6 +105,16 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 27/08/26</H3>
+
+<br>
+
+<ul><li> 14:57 www.linkedin.com</li>
+<li> 14:51 <a href="https://www.youtube.com/watch?v=VXdaOo7CLyg">(68) Supergirl Pitch Meeting - YouTube</a></li>
+<li> 14:36 www.amazon.co.uk</li>
+<li class='same'> 14:35 www.amazon.co.uk</li>
+<li> 14:34 www.ebay.co.uk</li>
+<li class='same'> 14:33 www.ebay.co.uk</li>
+</ul>
 
 <br>
 
