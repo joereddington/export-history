@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5410)</li>
 <li>mail.google.com (5340)</li>
-<li>www.reddit.com (5135)</li>
+<li>www.reddit.com (5137)</li>
 <li>outlook.office365.com (4687)</li>
 <li>outlook.office.com (3994)</li>
 <li>duckduckgo.com (3822)</li>
 <li>docs.google.com (3284)</li>
-<li>chatgpt.com (2690)</li>
+<li>chatgpt.com (2691)</li>
 <li>www.linkedin.com (2351)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1876)</li>
+<li>www.facebook.com (1883)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>calendar.google.com (1526)</li>
 <li>www.amazon.co.uk (1313)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:26 chatgpt.com</li>
+<ul><li> 10:59 www.reddit.com</li>
+<li class='same'> 10:58 www.reddit.com</li>
+<li> 10:55 www.facebook.com</li>
+<li> 10:55 myview.rhul.zellis.com</li>
+<li> 10:55 www.facebook.com</li>
+<li class='same'> 10:54 www.facebook.com</li>
+<li class='same'> 10:53 www.facebook.com</li>
+<li class='same'> 10:50 www.facebook.com</li>
+<li class='same'> 10:47 www.facebook.com</li>
+<li class='same'> 10:45 www.facebook.com</li>
+<li> 10:45 facebook.com</li>
+<li> 10:44 chatgpt.com</li>
+<li> 10:44 order.ebay.co.uk</li>
+<li> 10:44 www.ebay.co.uk</li>
+<li class='same'> 10:43 www.ebay.co.uk</li>
+<li> 10:43 mesg.ebay.co.uk</li>
+<li> 10:43 www.ebay.co.uk</li>
+<li> 10:26 chatgpt.com</li>
 <li class='same'> 10:25 chatgpt.com</li>
 <li> 10:24 myview.rhul.zellis.com</li>
 <li> 10:24 login.microsoftonline.com</li>
