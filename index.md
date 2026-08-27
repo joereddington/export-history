@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5416)</li>
+<ol><li>www.google.com (5410)</li>
 <li>mail.google.com (5340)</li>
 <li>www.reddit.com (5135)</li>
-<li>outlook.office365.com (4685)</li>
+<li>outlook.office365.com (4687)</li>
 <li>outlook.office.com (3994)</li>
 <li>duckduckgo.com (3822)</li>
 <li>docs.google.com (3284)</li>
 <li>chatgpt.com (2688)</li>
 <li>www.linkedin.com (2351)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1877)</li>
-<li>moodle.royalholloway.ac.uk (1803)</li>
+<li>www.facebook.com (1876)</li>
+<li>moodle.royalholloway.ac.uk (1801)</li>
 <li>calendar.google.com (1526)</li>
 <li>www.amazon.co.uk (1313)</li>
 <li>login.microsoftonline.com (1309)</li>
@@ -87,15 +87,15 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
 <li>gmail.com (1134)</li>
-<li>mail.rhul.ac.uk (1014)</li>
+<li>mail.rhul.ac.uk (1015)</li>
 <li>tvtropes.org (886)</li>
-<li>rhul-my.sharepoint.com (863)</li>
+<li>rhul-my.sharepoint.com (862)</li>
 <li>feedly.com (789)</li>
 <li>forms.office.com (784)</li>
 <li>www.theguardian.com (588)</li>
 <li>fritz.box (569)</li>
-<li>m365.cloud.microsoft (541)</li>
-<li>rhul.sharepoint.com (537)</li>
+<li>m365.cloud.microsoft (543)</li>
+<li>rhul.sharepoint.com (536)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
 
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 27/08/26</H3>
+
+<br>
+
+<ul><li> 09:39 outlook.office365.com</li>
+<li> 09:39 login.microsoftonline.com</li>
+<li> 09:39 device.login.microsoftonline.com</li>
+<li> 09:39 outlook.office365.com</li>
+<li> 09:39 mail.rhul.ac.uk</li>
+<li> 09:39 m365.cloud.microsoft</li>
+<li> 09:39 login.microsoftonline.com</li>
+<li> 09:39 www.office.com</li>
+<li> 09:39 m365.cloud.microsoft</li>
+<li> 09:39 login.microsoftonline.com</li>
+<li> 09:39 device.login.microsoftonline.com</li>
+<li> 09:39 office.herts.ac.uk</li>
+<li> 09:39 office.com</li>
+<li> 09:39 192.168.178.1</li>
+<li class='same'> 09:38 192.168.178.1</li>
+</ul>
 
 <br>
 
@@ -12504,11 +12523,7 @@ With number of accesses/minutes in parentheses
 <li> 18:18 www.spiritfilled.co.uk</li>
 <li> 18:18 www.google.com</li>
 <li class='same'> 18:17 www.google.com</li>
-<li> 18:17 www.thewhiskyexchange.com</li>
-<li> 18:17 www.google.com</li>
 <li> 18:13 www.whiskyinvestdirect.com</li>
-<li> 18:13 www.google.com</li>
-<li> 18:13 accounts.google.com</li>
 <li> 18:13 www.google.com</li>
 </ul>
 
@@ -12567,8 +12582,6 @@ With number of accesses/minutes in parentheses
 <li> 16:38 <a href="https://en.wikipedia.org/w/index.php?title=Threat_(computer_security)&amp;action=edit&amp;section=6">Threat (computer security) - Wikipedia</a></li>
 <li class='same'> 16:36 <a href="https://en.wikipedia.org/w/index.php?title=Threat_(computer_security)&amp;action=edit&amp;section=6">Threat (computer security) - Wikipedia</a></li>
 <li> 16:36 <a href="https://en.wikipedia.org/w/index.php?curid=29066981">Threat (computer security) - Wikipedia</a></li>
-<li> 16:36 <a href="https://en.wikipedia.org/wiki/Special:Redirect/page/29066981"></a></li>
-<li> 16:36 <a href="https://en.wikipedia.org/wiki/Special:Redirect/page/907240"></a></li>
 <li> 16:36 <a href="https://en.wikipedia.org/w/index.php?curid=907240">White hat (computer security) - Wikipedia</a></li>
 <li> 16:36 meta.wikimedia.org</li>
 <li> 16:36 <a href="https://en.wikipedia.org/wiki/Special:GlobalContributions/Joereddington"></a></li>
@@ -12581,7 +12594,6 @@ With number of accesses/minutes in parentheses
 <li> 16:33 link.springer.com</li>
 <li> 16:33 idp.springer.com</li>
 <li> 16:33 link.springer.com</li>
-<li> 16:33 dx.doi.org</li>
 <li> 16:33 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)#cite_note-1">Black hat (computer security) - Wikipedia</a></li>
 <li> 16:33 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)#See_also">Black hat (computer security) - Wikipedia</a></li>
 <li> 16:32 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_(computer_security)&amp;action=edit&amp;section=12">Editing Black hat (computer security) - Wikipedia</a></li>
@@ -12600,7 +12612,6 @@ With number of accesses/minutes in parentheses
 <li> 16:29 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 16:28 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_(computer_security)&amp;action=edit&amp;section=12">Editing Black hat (computer security) - Wikipedia</a></li>
 <li> 16:27 <a href="https://en.wikipedia.org/wiki/Cybercrime">Cybercrime - Wikipedia</a></li>
-<li> 16:27 www.google.com</li>
 <li> 16:26 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_%28computer_security%29&amp;section=2&amp;oldid=1356251492&amp;action=edit">Editing Black hat (computer security) - Wikipedia</a></li>
 <li> 16:26 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_(computer_security)&amp;action=edit&amp;section=2">Editing Black hat (computer security) - Wikipedia</a></li>
 <li> 16:25 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
@@ -12642,7 +12653,6 @@ With number of accesses/minutes in parentheses
 <li> 16:11 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Edward_Snowden&amp;action=edit">Editing Talk:Edward Snowden - Wikipedia</a></li>
 <li> 16:11 <a href="https://en.wikipedia.org/wiki/Talk:Edward_Snowden">Talk:Edward Snowden - Wikipedia</a></li>
 <li> 16:11 <a href="https://en.wikipedia.org/wiki/Edward_Snowden">Wikipedia:WikiProject Computer security/Popular pages - Wikipedia</a></li>
-<li> 16:11 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Edward+Snowden&amp;wprov=acrw1_0"></a></li>
 <li> 16:10 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:10 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:10 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -12682,7 +12692,6 @@ With number of accesses/minutes in parentheses
 <li> 15:25 herts.instructure.com</li>
 <li> 15:06 www.linkedin.com</li>
 <li> 15:05 kdpreports.amazon.com</li>
-<li> 15:03 drive.usercontent.google.com</li>
 <li> 15:02 drive.google.com</li>
 <li> 15:02 docs.google.com</li>
 <li> 14:59 calendar.google.com</li>
@@ -12713,7 +12722,6 @@ With number of accesses/minutes in parentheses
 <li> 13:24 passwords-generator.org</li>
 <li> 13:24 duckduckgo.com</li>
 <li> 13:23 onlinestore.rhul.ac.uk</li>
-<li> 13:23 xjjeyw8y.r.us-east-1.awstrack.me</li>
 <li> 13:18 forum.artofmemory.com</li>
 </ul>
 
@@ -12721,13 +12729,10 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 11:00 forum.artofmemory.com</li>
 <li class='same'> 10:58 forum.artofmemory.com</li>
-<li> 10:58 email.forum.artofmemory.com</li>
 <li> 10:57 mail.google.com</li>
 <li> 10:57 accounts.google.com</li>
 <li> 10:57 mail.google.com</li>
 <li> 10:57 gmail.com</li>
-<li> 10:40 rhul-my.sharepoint.com</li>
-<li> 10:40 login.microsoftonline.com</li>
 <li> 10:40 rhul-my.sharepoint.com</li>
 <li> 10:37 www.paypal.com</li>
 <li> 10:33 mail.google.com</li>
@@ -12743,13 +12748,11 @@ With number of accesses/minutes in parentheses
 <li> 10:19 links.mail2.spopessentials2.com</li>
 <li class='same'> 10:17 links.mail2.spopessentials2.com</li>
 <li> 10:17 intranet.royalholloway.ac.uk</li>
-<li> 10:17 eur03.safelinks.protection.outlook.com</li>
 <li> 10:17 links.mail2.spopessentials2.com</li>
 <li> 10:17 graduationhub.co.uk</li>
 <li class='same'> 10:16 graduationhub.co.uk</li>
 <li> 10:15 links.mail2.spopessentials2.com</li>
 <li> 10:15 graduationhub.co.uk</li>
-<li> 10:15 eur03.safelinks.protection.outlook.com</li>
 <li> 10:15 links.mail2.spopessentials2.com</li>
 <li> 10:15 <a href="https://joereddington.com/2024/06/10/attendance.html">CASPER: Improvements to Attendance Tracking | Joe Reddington</a></li>
 </ul>
@@ -12770,7 +12773,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:07 www.google.com</li>
 <li> 07:04 www.dailymail.com</li>
 <li> 07:02 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computer_security/Popular_pages">Wikipedia:WikiProject Computer security/Popular pages - Wikipedia</a></li>
-<li> 07:02 www.google.com</li>
 </ul>
 
 <H3>Wednesday, 27/05/26</H3>
@@ -12781,7 +12783,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 21:24 www.google.com</li>
+<ul><li> 21:24 www.google.com</li>
 <li> 21:22 www.reddit.com</li>
 <li> 21:22 www.google.com</li>
 <li class='same'> 21:21 www.google.com</li>
@@ -12869,8 +12871,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:39 www.jobs.ac.uk</li>
-<li> 14:39 intranet.royalholloway.ac.uk</li>
-<li class='same'> 14:36 intranet.royalholloway.ac.uk</li>
+<li> 14:36 intranet.royalholloway.ac.uk</li>
 <li class='same'> 14:35 intranet.royalholloway.ac.uk</li>
 <li> 14:34 www.royalholloway.ac.uk</li>
 <li> 14:34 intranet.royalholloway.ac.uk</li>
@@ -12904,7 +12905,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:56 outlook.cloud.microsoft</li>
-<li> 12:56 login.microsoftonline.com</li>
 <li> 12:56 outlook.office365.com</li>
 <li> 12:56 outlook.cloud.microsoft</li>
 <li> 12:56 mail.rhul.ac.uk</li>
@@ -12944,8 +12944,7 @@ With number of accesses/minutes in parentheses
 <li> 18:43 learning.oreilly.com</li>
 <li> 18:43 www.wiley.com</li>
 <li> 18:43 learning.oreilly.com</li>
-<li> 18:42 www.wiley.com</li>
-<li> 18:42 learning.oreilly.com</li>
+<li class='same'> 18:42 learning.oreilly.com</li>
 <li> 18:42 scholar.google.com</li>
 <li> 18:42 duckduckgo.com</li>
 <li> 18:42 learning.oreilly.com</li>
@@ -12955,7 +12954,6 @@ With number of accesses/minutes in parentheses
 <li> 18:41 login.microsoftonline.com</li>
 <li> 18:41 api.oreilly.com</li>
 <li> 18:41 duckduckgo.com</li>
-<li> 18:41 adfs.herts.ac.uk</li>
 <li> 18:41 safarijv.auth0.com</li>
 <li> 18:41 go.oreilly.com</li>
 <li> 18:41 api.oreilly.com</li>
@@ -12968,8 +12966,6 @@ With number of accesses/minutes in parentheses
 <li> 18:40 www.herts.ac.uk</li>
 <li> 18:40 msds.open.ac.uk</li>
 <li> 18:40 libraryauth.open.ac.uk</li>
-<li> 18:40 libezproxy.open.ac.uk</li>
-<li> 18:39 www.open.ac.uk</li>
 <li> 18:39 library-search.open.ac.uk</li>
 <li> 18:39 university.open.ac.uk</li>
 <li> 18:39 www.oreilly.com</li>
@@ -13017,7 +13013,6 @@ With number of accesses/minutes in parentheses
 <li> 17:53 <a href="https://en.wikipedia.org/w/index.php?title=White_hat_(computer_security)&amp;action=edit&amp;section=2">White hat (computer security) - Wikipedia</a></li>
 <li> 17:52 www.google.co.uk</li>
 <li> 17:52 books.google.co.uk</li>
-<li> 17:52 books.google.com</li>
 <li> 17:52 duckduckgo.com</li>
 <li> 17:51 web.archive.org</li>
 <li> 17:51 python.engineering</li>
@@ -13047,7 +13042,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:33 www.amazon.co.uk</li>
 <li class='same'> 17:32 www.amazon.co.uk</li>
 <li> 17:31 <a href="https://en.wikipedia.org/wiki/Threat_assessment_and_management">Threat assessment and management - Wikipedia</a></li>
-<li> 17:31 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Threat+assessment+and+management&amp;wprov=acrw1_2"></a></li>
 <li> 17:31 <a href="https://en.wikipedia.org/wiki/Threat_actor">Threat actor - Wikipedia</a></li>
 <li> 17:31 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Threat+actor&amp;wprov=acrw1_0"></a></li>
 <li> 17:31 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
@@ -13116,7 +13110,6 @@ With number of accesses/minutes in parentheses
 <li> 17:00 <a href="https://en.wikipedia.org/wiki/Security_hacker?action=edit&amp;veswitched=1">Editing Security hacker - Wikipedia</a></li>
 <li> 17:00 <a href="https://en.wikipedia.org/w/index.php?title=Security_hacker&amp;action=edit">Editing Security hacker - Wikipedia</a></li>
 <li> 17:00 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
-<li> 17:00 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Security+hacker&amp;wprov=acrw1_0"></a></li>
 <li> 16:59 <a href="https://en.wikipedia.org/wiki/Threat_actor">Threat actor - Wikipedia</a></li>
 <li> 16:59 <a href="https://en.wikipedia.org/wiki/Threat_actor?venotify=saved">Threat actor - Wikipedia</a></li>
 <li> 16:59 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;veswitched=1&amp;action=edit">Threat actor - Wikipedia</a></li>
@@ -13141,15 +13134,11 @@ With number of accesses/minutes in parentheses
 <li> 16:43 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=history">Threat actor: Revision history - Wikipedia</a></li>
 <li> 16:42 <a href="https://en.wikipedia.org/wiki/Threat_actor#Government_Taxonomies">Threat actor - Wikipedia</a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
-<li> 16:39 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Yahoo+data+breaches&amp;wprov=acrw1_4"></a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/Hacker_culture">Hacker culture - Wikipedia</a></li>
 <li> 16:39 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
-<li> 16:38 unidir.org</li>
 <li> 16:37 www.enisa.europa.eu</li>
 <li> 16:37 duckduckgo.com</li>
-<li> 16:37 doi.org</li>
-<li> 16:37 nvlpubs.nist.gov</li>
 <li> 16:37 doi.org</li>
 <li> 16:34 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=edit&amp;section=4">Editing Threat actor - Wikipedia</a></li>
 <li> 16:34 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=edit">Editing Threat actor - Wikipedia</a></li>
@@ -13180,19 +13169,13 @@ With number of accesses/minutes in parentheses
 <li> 16:14 <a href="https://en.wikipedia.org/wiki/Threat_actor">Threat actor - Wikipedia</a></li>
 <li> 16:12 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=edit&amp;section=3">Editing Threat actor (section) - Wikipedia</a></li>
 <li> 16:12 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=edit&amp;section=2">Threat actor - Wikipedia</a></li>
-<li> 16:11 unidir.org</li>
 <li> 16:09 www.cyber.go.jp</li>
-<li> 16:09 www.nisc.go.jp</li>
-<li> 16:08 www.enisa.europa.eu</li>
-<li class='same'> 16:07 www.enisa.europa.eu</li>
+<li> 16:07 www.enisa.europa.eu</li>
 <li> 16:07 <a href="https://en.wikipedia.org/wiki/Threat_actor#Techniques">Threat actor - Wikipedia</a></li>
 <li> 16:07 <a href="https://en.wikipedia.org/wiki/Threat_actor">Threat actor - Wikipedia</a></li>
 <li> 16:07 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=edit&amp;section=3">Editing Threat actor (section) - Wikipedia</a></li>
 <li> 16:07 <a href="https://en.wikipedia.org/wiki/Threat_actor#cite_ref-11">Threat actor - Wikipedia</a></li>
 <li> 16:06 www.cisa.gov</li>
-<li> 16:06 us-cert.cisa.gov</li>
-<li> 16:06 nvlpubs.nist.gov</li>
-<li> 16:06 doi.org</li>
 <li> 16:06 www.nist.gov</li>
 <li> 16:06 <a href="https://en.wikipedia.org/wiki/Threat_actor">Threat actor - Wikipedia</a></li>
 <li> 16:06 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=history">Threat actor: Revision history - Wikipedia</a></li>
@@ -13226,7 +13209,6 @@ With number of accesses/minutes in parentheses
 <li> 15:43 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=edit">Editing Threat actor - Wikipedia</a></li>
 <li> 15:42 www.cisecurity.org</li>
 <li> 15:40 www.google.co.uk</li>
-<li> 15:40 books.google.co.uk</li>
 <li> 15:40 www.google.com</li>
 <li> 15:40 books.google.com</li>
 <li> 15:40 duckduckgo.com</li>
@@ -13234,8 +13216,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:38 rhul.sharepoint.com</li>
 <li class='same'> 15:37 rhul.sharepoint.com</li>
 <li class='same'> 15:36 rhul.sharepoint.com</li>
-<li> 15:36 login.microsoftonline.com</li>
-<li> 15:36 rhul.sharepoint.com</li>
 </ul>
 
 <br>
@@ -13281,10 +13261,6 @@ With number of accesses/minutes in parentheses
 <li> 13:34 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
 <li> 13:34 <a href="https://en.wikipedia.org/wiki/Hacker?action=history&amp;offset=20220430235959&amp;limit=30">Hacker: Revision history - Wikipedia</a></li>
 <li> 13:32 xtools.wmcloud.org</li>
-<li> 13:32 xtools.wmflabs.org</li>
-<li> 13:32 xtools.wmcloud.org</li>
-<li> 13:32 xtools.wmflabs.org</li>
-<li> 13:32 xtools.wmcloud.org</li>
 <li> 13:31 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=info">Information for &quot;Hacker&quot; - Wikipedia</a></li>
 <li> 13:31 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=history">Hacker: Revision history - Wikipedia</a></li>
 <li> 13:31 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
@@ -13297,9 +13273,6 @@ With number of accesses/minutes in parentheses
 <li> 13:30 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 13:29 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 13:29 <a href="https://en.wikipedia.org/wiki/User_talk:Joereddington#c-MediaWiki_message_delivery-20260525215800-June_2026_GAN_Backlog_Drive">User talk:Joereddington - Wikipedia</a></li>
-<li> 13:29 www.google.com</li>
-<li class='same'> 13:28 www.google.com</li>
-<li> 13:28 maps.google.com</li>
 <li> 13:28 www.google.com</li>
 </ul>
 
@@ -13338,7 +13311,6 @@ With number of accesses/minutes in parentheses
 <li> 09:21 www.vox.com</li>
 <li> 09:21 copyvios.toolforge.org</li>
 <li class='same'> 09:20 copyvios.toolforge.org</li>
-<li> 09:20 users.ece.cmu.edu</li>
 <li> 09:20 www.ece.cmu.edu</li>
 <li> 09:20 users.ece.cmu.edu</li>
 <li> 09:20 www.ece.cmu.edu</li>
@@ -13354,8 +13326,7 @@ With number of accesses/minutes in parentheses
 <li> 09:13 www.ece.cmu.edu</li>
 <li> 09:13 garysroom.cam</li>
 <li> 09:12 copyvios.toolforge.org</li>
-<li> 09:10 auth.wikimedia.org</li>
-<li> 09:10 copyvios.toolforge.org</li>
+<li class='same'> 09:10 copyvios.toolforge.org</li>
 </ul>
 
 <br>
@@ -13461,7 +13432,6 @@ With number of accesses/minutes in parentheses
 <li> 15:30 www.kaspersky.com</li>
 <li> 15:29 www.articlegateway.com</li>
 <li> 15:29 articlegateway.com</li>
-<li> 15:29 doi.org</li>
 <li> 15:28 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=history">Grey hat: Revision history - Wikipedia</a></li>
 <li> 15:28 <a href="https://en.wikipedia.org/wiki/Grey_hat#cite_note-Cybercrime:_investigating_high-technology_computer_crime-7">Grey hat - Wikipedia</a></li>
 <li> 15:27 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
@@ -13501,7 +13471,6 @@ With number of accesses/minutes in parentheses
 <li> 15:10 web.archive.org</li>
 <li> 15:10 <a href="https://en.wikipedia.org/w/index.php?title=White_hat_%28computer_security%29&amp;section=1&amp;oldid=1355913189&amp;action=edit">Editing White hat (computer security) - Wikipedia</a></li>
 <li> 15:10 <a href="https://en.wikipedia.org/w/index.php?title=White_hat_(computer_security)&amp;action=edit&amp;section=1">Editing White hat (computer security) - Wikipedia</a></li>
-<li> 15:09 csrc.nist.gov</li>
 <li> 15:09 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)#cite_note-10">White hat (computer security) - Wikipedia</a></li>
 <li> 15:08 duckduckgo.com</li>
 <li> 15:08 cybernews.com</li>
@@ -13565,14 +13534,9 @@ With number of accesses/minutes in parentheses
 <li> 14:42 archive.nytimes.com</li>
 <li> 14:42 <a href="https://en.wikipedia.org/wiki/Grey_hat#cite_note-8">Grey hat - Wikipedia</a></li>
 <li> 14:41 <a href="https://en.wikipedia.org/wiki/Grey_hat#History">Grey hat - Wikipedia</a></li>
-<li> 14:40 www.ddth.com</li>
-<li> 14:39 www.blackhat.com</li>
-<li> 14:39 blackhat.com</li>
-<li> 14:39 www.blackhat.com</li>
 <li> 14:39 blackhat.com</li>
 <li> 14:38 <a href="https://en.wikipedia.org/w/index.php?title=Grey_hat&amp;action=edit&amp;section=1">Editing Grey hat - Wikipedia</a></li>
 <li> 14:37 blackhat.com</li>
-<li> 14:37 www.blackhat.com</li>
 <li> 14:37 <a href="https://en.wikipedia.org/wiki/Grey_hat">Grey hat - Wikipedia</a></li>
 <li> 14:36 chatgpt.com</li>
 <li> 14:36 <a href="https://en.wikipedia.org/w/index.php?title=BlueHat&amp;action=history">BlueHat: Revision history - Wikipedia</a></li>
@@ -13599,18 +13563,15 @@ With number of accesses/minutes in parentheses
 <li> 14:30 <a href="https://en.wikipedia.org/wiki/BlueHat#cite_ref-4">BlueHat - Wikipedia</a></li>
 <li> 14:30 www.nytimes.com</li>
 <li> 14:30 www.cnet.com</li>
-<li> 14:30 news.cnet.com</li>
 <li> 14:29 web.archive.org</li>
 <li class='same'> 14:28 web.archive.org</li>
 <li> 14:28 www.news.com</li>
 <li> 14:28 www.cnet.com</li>
-<li> 14:28 www.news.com</li>
 <li> 14:28 <a href="https://en.wikipedia.org/wiki/BlueHat#cite_note-7">BlueHat - Wikipedia</a></li>
 <li> 14:28 <a href="https://en.wikipedia.org/wiki/BlueHat">BlueHat - Wikipedia</a></li>
 <li> 14:28 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)#Other_hat_types">Black hat (computer security) - Wikipedia</a></li>
 <li> 14:27 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_(computer_security)&amp;action=edit&amp;section=11">Editing Black hat (computer security) - Wikipedia</a></li>
 <li> 14:27 www.tandfonline.com</li>
-<li> 14:27 dx.doi.org</li>
 <li> 14:27 <a href="https://en.wikipedia.org/w/index.php?title=Black_hat_(computer_security)&amp;action=edit&amp;section=11">Editing Black hat (computer security) - Wikipedia</a></li>
 <li> 14:26 duckduckgo.com</li>
 <li> 14:26 www.designworldonline.com</li>
@@ -13625,7 +13586,6 @@ With number of accesses/minutes in parentheses
 <li> 14:22 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=intitle%3A%22Hacker%22&amp;ns0=1&amp;searchToken=8ludgnj2r6itm8rkplfzaw3hi">intitle:&quot;Hacker&quot; - Search results - Wikipedia</a></li>
 <li> 14:22 <a href="https://en.wikipedia.org/w/index.php?title=Special:Search&amp;search=intitle%3A%22Hacker%22&amp;ns0=1">intitle:&quot;Hacker&quot; - Search results - Wikipedia</a></li>
 <li> 14:22 <a href="https://en.wikipedia.org/w/index.php?title=Special:Search&amp;search=intitle%3A%22Hacker%22">intitle:&quot;Hacker&quot; - Search results - Wikipedia</a></li>
-<li> 14:22 <a href="https://en.wikipedia.org/wiki/Special:Search/intitle:%22Hacker%22"></a></li>
 <li> 14:21 <a href="https://en.wikipedia.org/wiki/Hacker_(disambiguation)">Hacker (disambiguation) - Wikipedia</a></li>
 <li> 14:21 <a href="https://en.wikipedia.org/wiki/Hacking">Hacking - Wikipedia</a></li>
 <li> 14:21 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/Hacker">Pages that link to &quot;Hacker&quot; - Wikipedia</a></li>
@@ -13665,7 +13625,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:52 calendar.google.com</li>
 <li> 13:51 rhul.hosted.panopto.com</li>
 <li class='same'> 13:50 rhul.hosted.panopto.com</li>
-<li> 13:50 moodle.royalholloway.ac.uk</li>
 <li> 13:50 login.microsoftonline.com</li>
 <li> 13:50 rhul.hosted.panopto.com</li>
 <li> 13:50 moodle.royalholloway.ac.uk</li>
@@ -13723,7 +13682,6 @@ With number of accesses/minutes in parentheses
 <li> 12:49 <a href="https://en.wikipedia.org/wiki/Draft:Alex_Kasper">Draft:Alex Kasper - Wikipedia</a></li>
 <li> 12:49 <a href="https://en.wikipedia.org/wiki/Talk:Kevin_Mitnick">Talk:Kevin Mitnick - Wikipedia</a></li>
 <li> 12:49 <a href="https://en.wikipedia.org/wiki/Kevin_Mitnick">Kevin Mitnick - Wikipedia</a></li>
-<li> 12:49 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Kevin+Mitnick&amp;wprov=acrw1_0"></a></li>
 <li> 12:48 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 12:48 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 12:48 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -13858,16 +13816,12 @@ With number of accesses/minutes in parentheses
 <li> 10:08 <a href="https://en.wikipedia.org/wiki/Threat_actor?venotify=saved">Threat actor - Wikipedia</a></li>
 <li> 10:08 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;veswitched=1&amp;action=edit">Threat actor - Wikipedia</a></li>
 <li> 10:08 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;veswitched=1&amp;oldid=1356025064&amp;action=edit">Editing Threat actor - Wikipedia</a></li>
-<li> 10:05 scholar.googleusercontent.com</li>
-<li> 10:05 scholar.google.co.uk</li>
-<li> 10:05 www.researchgate.net</li>
 <li> 10:05 scholar.google.co.uk</li>
 <li> 10:04 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=edit&amp;section=10">Editing Threat actor (section) - Wikipedia</a></li>
 <li> 10:04 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=edit&amp;section=1">Threat actor - Wikipedia</a></li>
 <li> 10:03 <a href="https://en.wikipedia.org/wiki/Threat_actor#Background">Threat actor - Wikipedia</a></li>
 <li> 10:03 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=edit&amp;section=1">Threat actor - Wikipedia</a></li>
 <li> 10:03 <a href="https://en.wikipedia.org/w/index.php?title=Threat_actor&amp;action=edit">Editing Threat actor - Wikipedia</a></li>
-<li> 10:00 www.rand.org</li>
 <li> 10:00 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
 <li> 10:00 duckduckgo.com</li>
 <li> 10:00 <a href="https://en.wikipedia.org/wiki/Threat_actor">Threat actor - Wikipedia</a></li>
@@ -13888,8 +13842,6 @@ With number of accesses/minutes in parentheses
 <li> 09:39 scholar.google.co.uk</li>
 <li class='same'> 09:38 scholar.google.co.uk</li>
 <li class='same'> 09:37 scholar.google.co.uk</li>
-<li> 09:37 www.researchgate.net</li>
-<li> 09:37 scholar.google.co.uk</li>
 <li class='same'> 09:36 scholar.google.co.uk</li>
 <li class='same'> 09:35 scholar.google.co.uk</li>
 <li> 09:35 duckduckgo.com</li>
@@ -13897,7 +13849,6 @@ With number of accesses/minutes in parentheses
 <li> 09:27 <a href="https://en.wikipedia.org/wiki/Marc_Rogers_(security_researcher)">Marc Rogers (security researcher) - Wikipedia</a></li>
 <li> 09:27 <a href="https://en.wikipedia.org/w/index.php?title=Marc_Rogers_%28security_researcher%29&amp;action=edit">Marc Rogers (security researcher) - Wikipedia</a></li>
 <li> 09:24 www.google.co.uk</li>
-<li> 09:24 books.google.com</li>
 <li> 09:24 books.google.co.uk</li>
 <li> 09:24 www.amazon.co.uk</li>
 <li> 09:24 duckduckgo.com</li>
@@ -13912,8 +13863,6 @@ With number of accesses/minutes in parentheses
 <li> 09:22 <a href="https://en.wikipedia.org/w/index.php?title=Marc_Rogers_(security_researcher)&amp;oldid=1182112501">Marc Rogers (security researcher) - Wikipedia</a></li>
 <li> 09:21 <a href="https://en.wikipedia.org/w/index.php?title=Marc_Rogers_(security_researcher)&amp;oldid=1182554166">Marc Rogers (security researcher) - Wikipedia</a></li>
 <li> 09:21 <a href="https://en.wikipedia.org/w/index.php?title=Marc_Rogers_(security_researcher)&amp;action=history">Marc Rogers (security researcher): Revision history - Wikipedia</a></li>
-<li> 09:21 www.dvara.net</li>
-<li> 09:21 www.scribd.com</li>
 <li> 09:21 auth.scribd.com</li>
 <li> 09:20 www.scribd.com</li>
 <li> 09:20 studylib.net</li>
@@ -123824,6 +123773,4 @@ With number of accesses/minutes in parentheses
 <li> 20:48 www.royalholloway.ac.uk</li>
 <li> 20:48 www.google.com</li>
 <li> 20:48 moodle.royalholloway.ac.uk</li>
-<li class='same'> 20:47 moodle.royalholloway.ac.uk</li>
-<li> 20:37 www.facebook.com</li>
 </ul>
