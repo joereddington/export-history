@@ -69,24 +69,24 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5410)</li>
-<li>mail.google.com (5344)</li>
+<li>mail.google.com (5348)</li>
 <li>www.reddit.com (5137)</li>
 <li>outlook.office365.com (4687)</li>
 <li>outlook.office.com (3994)</li>
 <li>duckduckgo.com (3822)</li>
-<li>docs.google.com (3284)</li>
-<li>chatgpt.com (2692)</li>
-<li>www.linkedin.com (2352)</li>
+<li>docs.google.com (3286)</li>
+<li>chatgpt.com (2695)</li>
+<li>www.linkedin.com (2354)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1883)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
-<li>calendar.google.com (1526)</li>
-<li>www.amazon.co.uk (1315)</li>
+<li>calendar.google.com (1529)</li>
+<li>www.amazon.co.uk (1317)</li>
 <li>login.microsoftonline.com (1311)</li>
 <li>chat.openai.com (1293)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
-<li>gmail.com (1135)</li>
+<li>gmail.com (1136)</li>
 <li>mail.rhul.ac.uk (1015)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (863)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>m365.cloud.microsoft (543)</li>
 <li>rhul.sharepoint.com (536)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (471)</li>
+<li>drive.google.com (473)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,33 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:28 mail.google.com</li>
+<ul><li> 15:59 www.linkedin.com</li>
+<li> 15:55 calendar.google.com</li>
+<li class='same'> 15:54 calendar.google.com</li>
+<li class='same'> 15:53 calendar.google.com</li>
+<li> 15:51 docs.google.com</li>
+<li> 15:50 one.google.com</li>
+<li> 15:50 mail.google.com</li>
+<li> 15:50 gmail.com</li>
+<li> 15:50 one.google.com</li>
+<li> 15:49 mail.google.com</li>
+<li> 15:49 one.google.com</li>
+<li class='same'> 15:48 one.google.com</li>
+<li> 15:48 drive.google.com</li>
+<li class='same'> 15:44 drive.google.com</li>
+<li> 15:42 one.google.com</li>
+<li> 15:42 docs.google.com</li>
+<li> 15:41 chatgpt.com</li>
+<li> 15:41 www.amazon.co.uk</li>
+<li class='same'> 15:40 www.amazon.co.uk</li>
+<li> 15:39 chatgpt.com</li>
+<li class='same'> 15:38 chatgpt.com</li>
+<li> 15:35 www.thecourier.co.uk</li>
+<li> 15:33 qmucu.org</li>
+<li> 15:32 www.linkedin.com</li>
+<li> 15:30 mail.google.com</li>
+<li class='same'> 15:29 mail.google.com</li>
+<li class='same'> 15:28 mail.google.com</li>
 <li> 15:27 member.nestpensions.org.uk</li>
 <li> 15:27 mail.google.com</li>
 <li class='same'> 15:26 mail.google.com</li>
