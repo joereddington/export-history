@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 27/08/26</H3>
+
+<br>
+
+<ul><li> 07:59 192.168.178.1</li>
+</ul>
+
 <H3>Wednesday, 26/08/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
