@@ -69,13 +69,13 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5411)</li>
-<li>mail.google.com (5352)</li>
+<li>mail.google.com (5354)</li>
 <li>www.reddit.com (5137)</li>
-<li>outlook.office365.com (4687)</li>
+<li>outlook.office365.com (4668)</li>
 <li>outlook.office.com (3994)</li>
 <li>duckduckgo.com (3822)</li>
 <li>docs.google.com (3287)</li>
-<li>chatgpt.com (2706)</li>
+<li>chatgpt.com (2707)</li>
 <li>www.linkedin.com (2357)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1883)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (784)</li>
 <li>www.theguardian.com (588)</li>
 <li>fritz.box (570)</li>
-<li>rhul.sharepoint.com (545)</li>
+<li>rhul.sharepoint.com (546)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (474)</li>
@@ -104,11 +104,31 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 28/08/26</H3>
+
+<br>
+
+<ul><li> 08:27 rhul.sharepoint.com</li>
+<li> 08:26 mail.google.com</li>
+<li> 08:14 chatgpt.com</li>
+</ul>
+
 <H3>Thursday, 27/08/26</H3>
 
 <br>
 
-<ul><li> 19:28 www.linkedin.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 20:31 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:29 www.zoom.com</li>
+<li> 19:29 us06web.zoom.us</li>
+<li> 19:28 www.linkedin.com</li>
 <li> 19:28 batheticfallacy.substack.com</li>
 <li> 19:25 www.linkedin.com</li>
 <li> 19:24 us06web.zoom.us</li>
@@ -295,7 +315,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:00 192.168.178.1</li>
 <li class='same'> 07:59 192.168.178.1</li>
 <li> 07:47 outlook.office365.com</li>
-<li class='same'> 07:38 outlook.office365.com</li>
 <li class='same'> 07:30 outlook.office365.com</li>
 <li> 07:30 device.login.microsoftonline.com</li>
 <li> 07:30 login.microsoftonline.com</li>
@@ -310,8 +329,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 15:33 outlook.office365.com</li>
-<li class='same'> 15:08 outlook.office365.com</li>
+<ul><li class='same'> 15:08 outlook.office365.com</li>
 <li> 14:55 <a href="https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area">Queen Maud Land - Wikipedia</a></li>
 <li> 14:55 <a href="https://en.wikipedia.org/wiki/Queen_Maud_Land">List of countries and dependencies by area - Wikipedia</a></li>
 <li> 14:53 <a href="https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area">Queen Maud Land - Wikipedia</a></li>
@@ -426,10 +444,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 15:44 www.google.com</li>
-<li> 15:44 outlook.office365.com</li>
 <li> 15:44 moto-way.com</li>
-<li> 15:44 outlook.office365.com</li>
-<li class='same'> 15:43 outlook.office365.com</li>
+<li> 15:43 outlook.office365.com</li>
 <li> 15:43 login.microsoftonline.com</li>
 <li> 15:43 moto-way.com</li>
 <li> 15:43 splash.dnaspaces.eu</li>
@@ -752,14 +768,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:38 outlook.office365.com</li>
 <li> 08:38 fast.com</li>
 <li> 08:36 coms.ramsayhealth.co.uk</li>
-<li> 08:36 outlook.office365.com</li>
-<li> 08:36 coms.ramsayhealth.co.uk</li>
 </ul>
 
 <br>
 
-<ul><li> 06:43 outlook.office365.com</li>
-<li class='same'> 06:42 outlook.office365.com</li>
+<ul><li> 06:42 outlook.office365.com</li>
 <li> 06:42 device.login.microsoftonline.com</li>
 <li> 06:42 login.microsoftonline.com</li>
 <li> 06:42 outlook.office365.com</li>
@@ -855,7 +868,6 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 19:46 outlook.office365.com</li>
 <li class='same'> 19:44 outlook.office365.com</li>
 <li class='same'> 19:43 outlook.office365.com</li>
-<li class='same'> 19:42 outlook.office365.com</li>
 <li class='same'> 19:40 outlook.office365.com</li>
 <li class='same'> 19:39 outlook.office365.com</li>
 <li class='same'> 19:38 outlook.office365.com</li>
@@ -1161,7 +1173,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 07:41 www.prospectmagazine.co.uk</li>
-<li> 07:41 outlook.office365.com</li>
 </ul>
 
 <H3>Saturday, 15/08/26</H3>
@@ -1172,7 +1183,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 14:26 outlook.office365.com</li>
+<ul><li> 14:26 outlook.office365.com</li>
 <li class='same'> 14:25 outlook.office365.com</li>
 </ul>
 
@@ -1202,7 +1213,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:18 outlook.office365.com</li>
 <li> 08:18 device.login.microsoftonline.com</li>
 <li> 08:18 login.microsoftonline.com</li>
-<li> 08:18 outlook.office365.com</li>
 <li> 07:50 newsthump.com</li>
 <li> 07:49 calendar.google.com</li>
 <li> 07:47 mymobile2.o2.co.uk</li>
@@ -1237,11 +1247,6 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 19:29 outlook.office365.com</li>
-</ul>
-
-<br>
-
 <ul><li> 18:53 <a href="https://www.youtube.com/watch?v=W6nO7KlwS-M">(48) I Built Walmart in LEGO...(It&#x27;s hard) - YouTube</a></li>
 <li> 18:53 <a href="https://www.youtube.com/results?search_query=lego">(48) lego - YouTube</a></li>
 <li> 18:50 <a href="https://www.youtube.com/">(68) YouTube</a></li>
@@ -1249,8 +1254,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:02 outlook.office365.com</li>
-<li class='same'> 17:59 outlook.office365.com</li>
+<ul><li> 17:59 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -1275,8 +1279,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:36 outlook.office365.com</li>
-<li class='same'> 15:35 outlook.office365.com</li>
+<ul><li> 15:35 outlook.office365.com</li>
 <li> 15:29 account.irobot.com</li>
 <li> 15:27 librarysearch.royalholloway.ac.uk</li>
 <li class='same'> 15:26 librarysearch.royalholloway.ac.uk</li>
@@ -1388,7 +1391,6 @@ With number of accesses/minutes in parentheses
 <li> 07:56 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:56 newsthump.com</li>
 <li> 07:55 www.reddit.com</li>
-<li> 07:55 outlook.office365.com</li>
 </ul>
 
 <H3>Thursday, 13/08/26</H3>
@@ -1665,8 +1667,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 20:17 calendar.google.com</li>
 <li class='same'> 20:14 calendar.google.com</li>
 <li> 20:10 dashboards.rhul.ac.uk</li>
-<li> 20:05 outlook.office365.com</li>
-<li class='same'> 20:04 outlook.office365.com</li>
+<li> 20:04 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -3604,7 +3605,6 @@ With number of accesses/minutes in parentheses
 <li> 12:06 <a href="https://en.wikipedia.org/wiki/List_of_people_associated_with_Royal_Holloway,_University_of_London">List of people associated with Royal Holloway, University of London - Wikipedia</a></li>
 <li> 12:06 duckduckgo.com</li>
 <li> 12:04 outlook.office365.com</li>
-<li class='same'> 12:03 outlook.office365.com</li>
 <li class='same'> 11:57 outlook.office365.com</li>
 <li class='same'> 11:56 outlook.office365.com</li>
 <li class='same'> 11:52 outlook.office365.com</li>
@@ -3617,7 +3617,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:05 outlook.office365.com</li>
 <li> 10:05 device.login.microsoftonline.com</li>
 <li> 10:05 login.microsoftonline.com</li>
-<li> 10:05 outlook.office365.com</li>
 <li> 09:54 www.google.com</li>
 <li> 09:54 outlook.office.com</li>
 </ul>
@@ -3906,7 +3905,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 18:37 app.heyguest.ai</li>
 <li class='same'> 18:36 app.heyguest.ai</li>
-<li> 18:36 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -4733,12 +4731,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:35 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 06:28 outlook.office365.com</li>
+<ul><li> 06:28 outlook.office365.com</li>
 <li class='same'> 06:27 outlook.office365.com</li>
 <li class='same'> 06:26 outlook.office365.com</li>
 </ul>
@@ -10721,8 +10714,6 @@ With number of accesses/minutes in parentheses
 <li> 10:34 rhul.sharepoint.com</li>
 <li> 10:33 fast.com</li>
 <li> 10:33 outlook.office365.com</li>
-<li> 10:33 fast.com</li>
-<li> 10:33 outlook.office365.com</li>
 <li class='same'> 10:32 outlook.office365.com</li>
 <li> 10:32 fast.com</li>
 <li> 10:32 outlook.office365.com</li>
@@ -12608,7 +12599,6 @@ With number of accesses/minutes in parentheses
 <li> 21:37 device.login.microsoftonline.com</li>
 <li> 21:37 login.microsoftonline.com</li>
 <li> 21:37 www.oed.com</li>
-<li> 21:37 login.openathens.net</li>
 <li> 21:37 login.microsoftonline.com</li>
 <li class='same'> 21:36 login.microsoftonline.com</li>
 <li> 21:36 device.login.microsoftonline.com</li>
