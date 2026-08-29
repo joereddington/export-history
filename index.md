@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5411)</li>
+<ol><li>www.google.com (5406)</li>
 <li>mail.google.com (5354)</li>
 <li>www.reddit.com (5137)</li>
 <li>outlook.office365.com (4673)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3824)</li>
-<li>docs.google.com (3287)</li>
+<li>duckduckgo.com (3829)</li>
+<li>docs.google.com (3289)</li>
 <li>chatgpt.com (2707)</li>
-<li>www.linkedin.com (2357)</li>
+<li>www.linkedin.com (2358)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1883)</li>
 <li>moodle.royalholloway.ac.uk (1800)</li>
-<li>calendar.google.com (1531)</li>
-<li>www.amazon.co.uk (1317)</li>
+<li>calendar.google.com (1527)</li>
+<li>www.amazon.co.uk (1318)</li>
 <li>login.microsoftonline.com (1315)</li>
 <li>chat.openai.com (1295)</li>
 <li>herts.instructure.com (1231)</li>
@@ -97,14 +97,42 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (550)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (474)</li>
+<li>drive.google.com (476)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Saturday, 29/08/26</H3>
+
+<br>
+
+<ul><li> 16:28 www.linkedin.com</li>
+<li> 16:26 <a href="https://en.wikipedia.org/wiki/37_(number)#/media/File:37_number_curiosities.jpg">37 (number) - Wikipedia</a></li>
+<li> 16:25 <a href="https://en.wikipedia.org/wiki/37_(number)">37 (number) - Wikipedia</a></li>
+<li> 16:25 duckduckgo.com</li>
+<li> 16:24 johnpratt.com</li>
+<li> 16:20 duckduckgo.com</li>
+<li class='same'> 16:19 duckduckgo.com</li>
+<li class='same'> 16:18 duckduckgo.com</li>
+<li> 16:18 <a href="https://en.wikipedia.org/wiki/Fluoride">Fluoride - Wikipedia</a></li>
+<li> 16:18 duckduckgo.com</li>
+<li> 16:17 www.sporcle.com</li>
+<li> 16:10 www.facebook.com</li>
+<li> 16:10 duckduckgo.com</li>
+<li> 16:09 docs.google.com</li>
+<li class='same'> 16:08 docs.google.com</li>
+<li> 16:08 www.amazon.co.uk</li>
+<li> 16:08 drive.google.com</li>
+<li class='same'> 16:07 drive.google.com</li>
+</ul>
+
 <H3>Friday, 28/08/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -12368,17 +12396,13 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 18:31 <a href="https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal">Facebook–Cambridge Analytica data scandal - Wikipedia</a></li>
 <li> 18:30 <a href="https://en.wikipedia.org/wiki/Security_testing">Security testing - Wikipedia</a></li>
-<li> 18:30 <a href="https://en.wikipedia.org/w/index.php?title=Security%20testing"></a></li>
 <li> 18:30 <a href="https://en.wikipedia.org/wiki/Security_modes">Security modes - Wikipedia</a></li>
-<li> 18:30 <a href="https://en.wikipedia.org/w/index.php?title=Security%20modes"></a></li>
 <li> 18:29 <a href="https://en.wikipedia.org/wiki/Ben_Hawkes">Ben Hawkes - Wikipedia</a></li>
-<li> 18:29 <a href="https://en.wikipedia.org/w/index.php?title=Ben%20Hawkes"></a></li>
 <li> 18:29 <a href="https://en.wikipedia.org/w/index.php?title=Factor_analysis_of_information_risk&amp;action=history&amp;offset=&amp;limit=500">Factor analysis of information risk: Revision history - Wikipedia</a></li>
 <li> 18:29 <a href="https://en.wikipedia.org/w/index.php?title=Factor_analysis_of_information_risk&amp;action=history">Factor analysis of information risk: Revision history - Wikipedia</a></li>
 <li> 18:29 www.opengroup.org</li>
 <li> 18:28 <a href="https://en.wikipedia.org/wiki/Factor_analysis_of_information_risk#cite_ref-6">Factor analysis of information risk - Wikipedia</a></li>
 <li> 18:28 <a href="https://en.wikipedia.org/wiki/Factor_analysis_of_information_risk">Factor analysis of information risk - Wikipedia</a></li>
-<li> 18:28 <a href="https://en.wikipedia.org/w/index.php?title=Factor%20analysis%20of%20information%20risk"></a></li>
 <li> 18:27 wp1.openzim.org</li>
 <li> 18:27 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
 <li> 18:27 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
@@ -12388,9 +12412,7 @@ With number of accesses/minutes in parentheses
 <li> 18:25 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_security/Archive_5">Wikipedia talk:WikiProject Computer security/Archive 5 - Wikipedia</a></li>
 <li> 18:25 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_security">Wikipedia talk:WikiProject Computer security - Wikipedia</a></li>
 <li> 18:24 www.ibm.com</li>
-<li> 18:24 securityintelligence.com</li>
 <li> 18:23 <a href="https://en.wikipedia.org/wiki/Red_team">Editing Red team - Wikipedia</a></li>
-<li> 18:23 <a href="https://en.wikipedia.org/w/index.php?title=Red%20team"></a></li>
 <li> 18:23 wp1.openzim.org</li>
 <li> 18:23 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computer_security">Wikipedia:WikiProject Computer security - Wikipedia</a></li>
 <li> 18:23 <a href="https://en.wikipedia.org/wiki/Talk:Kevin_Mitnick">Talk:Kevin Mitnick - Wikipedia</a></li>
@@ -12414,14 +12436,11 @@ With number of accesses/minutes in parentheses
 <li> 16:39 <a href="https://www.theguardian.com/football/2026/may/30/i-read-gianni-infantinos-name-dropping-despot-fluffing-book-so-you-dont-have-to">I read Gianni Infantino’s name-dropping, despot-fluffing book so you don’t have to | Gianni Infantino | The Guardian</a></li>
 <li> 16:25 <a href="https://en.wikipedia.org/w/index.php?title=White_hat_(computer_security)&amp;action=history">White hat (computer security): Revision history - Wikipedia</a></li>
 <li> 16:23 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)#United_States">White hat (computer security) - Wikipedia</a></li>
-<li> 16:22 www.eccouncil.org</li>
-<li> 16:22 www.google.com</li>
 <li> 16:22 frsecure.com</li>
 <li> 16:22 www.google.com</li>
 <li> 16:22 www.google.co.uk</li>
 <li> 16:22 duckduckgo.com</li>
 <li> 16:21 www.secpoint.com</li>
-<li> 16:21 manhattantech.edu</li>
 <li> 16:21 duckduckgo.com</li>
 <li> 16:20 <a href="https://en.wikipedia.org/w/index.php?title=White_hat_(computer_security)&amp;action=edit&amp;section=8">White hat (computer security) - Wikipedia</a></li>
 <li> 16:20 <a href="https://en.wikipedia.org/w/index.php?title=White_hat_(computer_security)&amp;action=edit&amp;section=11">White hat (computer security) - Wikipedia</a></li>
@@ -12522,8 +12541,6 @@ With number of accesses/minutes in parentheses
 <li> 13:03 eq.surveys.ons.gov.uk</li>
 <li class='same'> 13:02 eq.surveys.ons.gov.uk</li>
 <li> 13:02 surveys.ons.gov.uk</li>
-<li> 13:02 www.google.com</li>
-<li> 13:02 surveys.ons.gov.uk</li>
 <li> 13:02 mail.google.com</li>
 <li> 13:02 gmail.com</li>
 <li> 13:01 surveys.ons.gov.uk</li>
@@ -12533,8 +12550,7 @@ With number of accesses/minutes in parentheses
 <li> 12:45 chatgpt.com</li>
 <li> 12:45 chat.openai.com</li>
 <li> 12:43 rhul.sharepoint.com</li>
-<li> 12:23 duckduckgo.com</li>
-<li class='same'> 12:22 duckduckgo.com</li>
+<li> 12:22 duckduckgo.com</li>
 <li class='same'> 12:21 duckduckgo.com</li>
 <li> 12:21 www.imdb.com</li>
 <li> 12:21 duckduckgo.com</li>
@@ -12554,7 +12570,6 @@ With number of accesses/minutes in parentheses
 <li> 12:15 chatgpt.com</li>
 <li> 12:15 chat.openai.com</li>
 <li> 12:15 macrohint.com</li>
-<li> 12:15 www.macrohint.com</li>
 <li> 12:14 duckduckgo.com</li>
 <li> 12:13 www.sentinelone.com</li>
 <li> 12:13 www.nist.gov</li>
@@ -12591,7 +12606,6 @@ With number of accesses/minutes in parentheses
 <li> 09:17 duckduckgo.com</li>
 <li> 09:17 www.qiq.support</li>
 <li class='same'> 09:16 www.qiq.support</li>
-<li> 09:16 www.google.com</li>
 <li> 09:16 mail.google.com</li>
 <li> 09:14 www.linkedin.com</li>
 <li> 09:13 mail.google.com</li>
@@ -123904,36 +123918,4 @@ With number of accesses/minutes in parentheses
 <li> 06:13 www.google.com</li>
 <li> 06:11 www.giantitp.com</li>
 <li> 06:09 www.google.com</li>
-<li> 06:08 books.google.co.uk</li>
-<li> 06:08 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 00:24 calendar.google.com</li>
-</ul>
-
-<H3>Monday, 14/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 21:02 www.facebook.com</li>
-<li> 21:01 calendar.google.com</li>
-<li class='same'> 21:00 calendar.google.com</li>
-<li class='same'> 20:57 calendar.google.com</li>
-<li> 20:57 claude.ai</li>
-<li class='same'> 20:56 claude.ai</li>
-<li> 20:54 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 20:53 moodle1920.royalholloway.ac.uk</li>
-<li> 20:53 rhul.rl.talis.com</li>
-<li> 20:53 www.google.com</li>
-<li> 20:53 rl.talis.com</li>
-<li> 20:53 rhul.rl.talis.com</li>
-<li> 20:52 rl.talis.com</li>
-<li> 20:52 rhul.rl.talis.com</li>
-<li> 20:52 rl.talis.com</li>
 </ul>
