@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5407)</li>
+<ol><li>www.google.com (5406)</li>
 <li>mail.google.com (5354)</li>
 <li>www.reddit.com (5137)</li>
 <li>outlook.office365.com (4709)</li>
@@ -81,8 +81,8 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1883)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>calendar.google.com (1527)</li>
+<li>login.microsoftonline.com (1321)</li>
 <li>www.amazon.co.uk (1318)</li>
-<li>login.microsoftonline.com (1318)</li>
 <li>chat.openai.com (1295)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
@@ -93,8 +93,8 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (789)</li>
 <li>forms.office.com (784)</li>
 <li>www.theguardian.com (588)</li>
-<li>fritz.box (571)</li>
-<li>rhul.sharepoint.com (550)</li>
+<li>fritz.box (572)</li>
+<li>rhul.sharepoint.com (551)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (476)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 02/09/26</H3>
+
+<br>
+
+<ul><li> 12:25 login.microsoftonline.com</li>
+<li> 12:25 loop.cloud.microsoft</li>
+<li> 12:25 login.microsoftonline.com</li>
+<li> 12:25 device.login.microsoftonline.com</li>
+<li> 12:25 rhul.sharepoint.com</li>
+<li> 12:25 login.microsoftonline.com</li>
+<li> 12:21 intranet.royalholloway.ac.uk</li>
+<li> 12:20 fritz.box</li>
+<li> 12:20 detectportal.firefox.com</li>
+</ul>
 
 <br>
 
@@ -12529,8 +12542,6 @@ With number of accesses/minutes in parentheses
 <li> 13:08 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)#History_of_term">White hat (computer security) - Wikipedia</a></li>
 <li> 13:06 <a href="https://en.wikipedia.org/wiki/Penetration_test">Penetration test - Wikipedia</a></li>
 <li> 13:06 www.war.gov</li>
-<li> 13:06 www.defense.gov</li>
-<li> 13:05 www.cnn.com</li>
 <li> 13:05 edition.cnn.com</li>
 <li> 13:04 <a href="https://en.wikipedia.org/w/index.php?title=White_hat_(computer_security)&amp;action=edit&amp;section=1">Editing White hat (computer security) - Wikipedia</a></li>
 <li> 13:03 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
@@ -12538,8 +12549,6 @@ With number of accesses/minutes in parentheses
 <li> 13:01 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
 <li> 13:00 www.oed.com</li>
 <li> 13:00 oup2-idp.sams-sigma.com</li>
-<li> 13:00 oup-sp.sams-sigma.com</li>
-<li> 13:00 login.openathens.net</li>
 <li> 13:00 oup-sp.sams-sigma.com</li>
 <li> 13:00 login.openathens.net</li>
 <li> 13:00 login.microsoftonline.com</li>
@@ -124106,10 +124115,4 @@ With number of accesses/minutes in parentheses
 <li> 06:19 docs.google.com</li>
 <li> 06:19 drive.google.com</li>
 <li> 06:16 www.gov.uk</li>
-<li> 06:16 assets.publishing.service.gov.uk</li>
-<li> 06:16 www.gov.uk</li>
-<li class='same'> 06:15 www.gov.uk</li>
-<li> 06:13 assets.publishing.service.gov.uk</li>
-<li> 06:13 www.google.com</li>
-<li> 06:11 www.giantitp.com</li>
 </ul>
