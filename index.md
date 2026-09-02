@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5399)</li>
-<li>mail.google.com (5351)</li>
-<li>www.reddit.com (5136)</li>
-<li>outlook.office365.com (4709)</li>
+<ol><li>www.google.com (5391)</li>
+<li>mail.google.com (5348)</li>
+<li>www.reddit.com (5132)</li>
+<li>outlook.office365.com (4708)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3833)</li>
+<li>duckduckgo.com (3835)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2708)</li>
 <li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1883)</li>
+<li>www.facebook.com (1881)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>calendar.google.com (1526)</li>
 <li>www.amazon.co.uk (1318)</li>
@@ -86,13 +86,13 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1296)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
-<li>gmail.com (1137)</li>
+<li>gmail.com (1136)</li>
 <li>mail.rhul.ac.uk (1014)</li>
-<li>tvtropes.org (886)</li>
+<li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (862)</li>
-<li>feedly.com (791)</li>
+<li>feedly.com (790)</li>
 <li>forms.office.com (784)</li>
-<li>www.theguardian.com (586)</li>
+<li>www.theguardian.com (585)</li>
 <li>fritz.box (573)</li>
 <li>rhul.sharepoint.com (546)</li>
 <li>m365.cloud.microsoft (543)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:57 dashboards.rhul.ac.uk</li>
+<ul><li> 15:42 www.etymonline.com</li>
+<li> 15:42 duckduckgo.com</li>
+<li> 15:24 dashboards.rhul.ac.uk</li>
+<li> 15:09 tvtropes.org</li>
+<li> 15:09 duckduckgo.com</li>
+<li> 14:57 dashboards.rhul.ac.uk</li>
 <li> 14:49 www.cs.rhul.ac.uk</li>
 <li> 14:48 www.law.ac.uk</li>
 <li> 14:47 www.royalholloway.ac.uk</li>
@@ -124025,46 +124030,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 07:54 mail.google.com</li>
 <li class='same'> 07:53 mail.google.com</li>
-<li> 07:49 www.tickettailor.com</li>
-<li> 07:49 buytickets.at</li>
-<li> 07:49 www.google.com</li>
-<li class='same'> 07:48 www.google.com</li>
-<li> 07:48 www.facebook.com</li>
-<li class='same'> 07:47 www.facebook.com</li>
-<li> 07:47 www.google.com</li>
-<li> 07:47 mail.google.com</li>
-<li class='same'> 07:41 mail.google.com</li>
-<li class='same'> 07:36 mail.google.com</li>
-<li> 07:36 gmail.com</li>
-<li> 07:30 www.google.com</li>
-<li> 07:28 www.reddit.com</li>
-<li> 07:28 www.google.com</li>
-<li> 07:27 en.wiktionary.org</li>
-<li> 07:27 <a href="https://en.wikipedia.org/wiki/List_of_proverbial_phrases">List of proverbial phrases - Wikipedia</a></li>
-<li> 07:26 <a href="https://en.wikipedia.org/wiki/Inherently_funny_word">Inherently funny word - Wikipedia</a></li>
-<li> 07:26 www.google.com</li>
-<li> 07:26 <a href="https://en.wikipedia.org/wiki/Shaggy_defense#Use">Shaggy defense - Wikipedia</a></li>
-<li> 07:26 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&amp;action=edit&amp;section=2">Shaggy defense - Wikipedia</a></li>
-<li> 07:25 <a href="https://en.wikipedia.org/wiki/Shaggy_defense">Shaggy defense - Wikipedia</a></li>
-<li> 07:25 <a href="https://en.wikipedia.org/wiki/Talk:Shaggy_defense">Talk:Shaggy defense - Wikipedia</a></li>
-<li> 07:24 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&amp;curid=51708172&amp;diff=1251113278&amp;oldid=1245513127">Yahoo data breaches: Difference between revisions - Wikipedia</a></li>
-<li> 07:23 <a href="https://en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Computer_Security&amp;curid=20806451&amp;diff=1251172936&amp;oldid=1250203512">Wikipedia talk:WikiProject Computer Security: Difference between revisions - Wikipedia</a></li>
-<li> 07:23 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_Security">Wikipedia talk:WikiProject Computer Security - Wikipedia</a></li>
-<li> 07:23 <a href="https://en.wikipedia.org/w/index.php?title=Information_security_standards&amp;curid=3392742&amp;diff=1251175197&amp;oldid=1251086091">Information security standards: Difference between revisions - Wikipedia</a></li>
-<li> 07:22 <a href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol">Hyper Text Coffee Pot Control Protocol - Wikipedia</a></li>
-<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 07:22 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 07:22 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 07:22 <a href="https://en.wikipedia.org/"></a></li>
-<li> 07:21 feedly.com</li>
-<li> 07:19 www.pokernews.com</li>
-<li> 07:19 www.google.com</li>
-<li> 07:16 <a href="https://en.wikipedia.org/wiki/Bradford_Factor">Bradford Factor - Wikipedia</a></li>
-<li> 07:16 www.google.com</li>
-<li> 07:16 www.reddit.com</li>
-<li class='same'> 07:15 www.reddit.com</li>
-<li class='same'> 07:14 www.reddit.com</li>
-<li> 07:10 www.theguardian.com</li>
-<li> 07:09 outlook.office365.com</li>
 </ul>
