@@ -73,15 +73,15 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (5132)</li>
 <li>outlook.office365.com (4708)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3835)</li>
+<li>duckduckgo.com (3836)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2708)</li>
+<li>chatgpt.com (2709)</li>
 <li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1881)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>calendar.google.com (1526)</li>
-<li>www.amazon.co.uk (1318)</li>
+<li>www.amazon.co.uk (1320)</li>
 <li>login.microsoftonline.com (1318)</li>
 <li>chat.openai.com (1296)</li>
 <li>herts.instructure.com (1231)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (1014)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (862)</li>
-<li>feedly.com (790)</li>
+<li>feedly.com (791)</li>
 <li>forms.office.com (784)</li>
 <li>www.theguardian.com (585)</li>
 <li>fritz.box (573)</li>
@@ -105,6 +105,18 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 02/09/26</H3>
+
+<br>
+
+<ul><li> 16:52 www.amazon.co.uk</li>
+<li class='same'> 16:51 www.amazon.co.uk</li>
+<li> 16:51 duckduckgo.com</li>
+<li> 16:51 www.nature.com</li>
+<li> 16:51 idp.nature.com</li>
+<li> 16:49 fast.com</li>
+<li> 16:36 chatgpt.com</li>
+<li> 16:35 feedly.com</li>
+</ul>
 
 <br>
 
