@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5406)</li>
+<ol><li>www.google.com (5408)</li>
 <li>mail.google.com (5354)</li>
 <li>www.reddit.com (5137)</li>
-<li>outlook.office365.com (4673)</li>
+<li>outlook.office365.com (4709)</li>
 <li>outlook.office.com (3994)</li>
 <li>duckduckgo.com (3830)</li>
 <li>docs.google.com (3289)</li>
 <li>chatgpt.com (2707)</li>
-<li>www.linkedin.com (2360)</li>
+<li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1883)</li>
-<li>moodle.royalholloway.ac.uk (1800)</li>
+<li>moodle.royalholloway.ac.uk (1801)</li>
 <li>calendar.google.com (1527)</li>
 <li>www.amazon.co.uk (1318)</li>
-<li>login.microsoftonline.com (1315)</li>
+<li>login.microsoftonline.com (1318)</li>
 <li>chat.openai.com (1295)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (789)</li>
 <li>forms.office.com (784)</li>
 <li>www.theguardian.com (588)</li>
-<li>fritz.box (570)</li>
+<li>fritz.box (571)</li>
 <li>rhul.sharepoint.com (550)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -104,11 +104,140 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 01/09/26</H3>
+
+<br>
+
+<ul><li> 18:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 18:24 m.youtube.com</li>
+<li class='same'> 18:19 m.youtube.com</li>
+<li> 18:19 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:33 outlook.office365.com</li>
+<li class='same'> 17:32 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:26 outlook.office365.com</li>
+<li class='same'> 16:25 outlook.office365.com</li>
+<li> 16:25 www.google.com</li>
+<li> 16:25 <a href="https://www.theguardian.com/tv-and-radio/2026/sep/01/modern-family-mitch-cam-groundbreaking-love-jesse-tyler-ferguson-eric-stonestreet">‘We’re hunky in our own way’: Modern Family’s Mitch and Cam on their hilarious and groundbreaking love | Television | The Guardian</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 14:29 <a href="https://www.theguardian.com/tv-and-radio/2026/sep/01/modern-family-mitch-cam-groundbreaking-love-jesse-tyler-ferguson-eric-stonestreet">‘We’re hunky in our own way’: Modern Family’s Mitch and Cam on their hilarious and groundbreaking love | Television | The Guardian</a></li>
+<li> 14:28 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 14:28 outlook.office365.com</li>
+<li class='same'> 14:27 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 13:36 outlook.office365.com</li>
+<li class='same'> 13:32 outlook.office365.com</li>
+<li class='same'> 13:31 outlook.office365.com</li>
+<li> 13:31 device.login.microsoftonline.com</li>
+<li> 13:31 login.microsoftonline.com</li>
+<li> 13:31 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:35 device.login.microsoftonline.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:50 outlook.office365.com</li>
+<li class='same'> 11:49 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:53 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:25 outlook.office365.com</li>
+<li class='same'> 09:21 outlook.office365.com</li>
+<li class='same'> 09:20 outlook.office365.com</li>
+<li class='same'> 09:19 outlook.office365.com</li>
+</ul>
+
+<H3>Monday, 31/08/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 17:50 outlook.office365.com</li>
+<li class='same'> 17:48 outlook.office365.com</li>
+<li class='same'> 17:47 outlook.office365.com</li>
+<li class='same'> 17:31 outlook.office365.com</li>
+<li class='same'> 17:08 outlook.office365.com</li>
+<li class='same'> 17:01 outlook.office365.com</li>
+<li class='same'> 17:00 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 15:17 outlook.office365.com</li>
+<li class='same'> 15:11 outlook.office365.com</li>
+<li> 15:11 <a href="https://joereddington.com/2025/10/30/things-i-say-to-project-students.html">Things I say to project students | Joe Reddington</a></li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:24 <a href="https://joereddington.com/2025/10/30/things-i-say-to-project-students.html">Things I say to project students | Joe Reddington</a></li>
+<li> 11:23 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 10:28 www.halfords.com</li>
+<li> 10:28 www.google.com</li>
+<li> 10:17 outlook.office365.com</li>
+<li class='same'> 10:15 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:55 outlook.office365.com</li>
+<li class='same'> 08:54 outlook.office365.com</li>
+<li class='same'> 08:53 outlook.office365.com</li>
+<li> 08:53 login.microsoftonline.com</li>
+<li> 08:53 device.login.microsoftonline.com</li>
+<li> 08:53 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:58 moodle.royalholloway.ac.uk</li>
+<li> 07:58 login.microsoftonline.com</li>
+<li> 07:58 device.login.microsoftonline.com</li>
+<li> 07:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 07:57 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
+<li> 07:57 <a href="https://www.theguardian.com/culture/2026/aug/30/stewart-lee-comedian-interview-divorce-adoption-retelling-owl-and-the-pussycat">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
+</ul>
+
 <H3>Sunday, 30/08/26</H3>
 
 <br>
 
-<ul><li> 15:17 www.linkedin.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 15:19 www.linkedin.com</li>
+<li class='same'> 15:17 www.linkedin.com</li>
 <li> 15:15 <a href="https://en.wikipedia.org/wiki/Russian-occupied_territories_of_Ukraine">Russian-occupied territories of Ukraine - Wikipedia</a></li>
 <li> 15:15 duckduckgo.com</li>
 <li> 15:15 newsthump.com</li>
@@ -119,11 +248,31 @@ With number of accesses/minutes in parentheses
 <ul><li> 14:00 <a href="https://www.youtube.com/">(71) YouTube</a></li>
 </ul>
 
+<br>
+
+<ul><li> 12:15 <a href="https://www.theguardian.com/culture/2026/aug/30/stewart-lee-comedian-interview-divorce-adoption-retelling-owl-and-the-pussycat">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
+<li> 12:14 support.theguardian.com</li>
+<li> 12:14 <a href="https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<li> 12:12 newsthump.com</li>
+<li> 12:11 www.parkrun.org.uk</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 10:03 www.parkrun.org.uk</li>
+</ul>
+
 <H3>Saturday, 29/08/26</H3>
 
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 20:17 fritz.box</li>
+</ul>
 
 <br>
 
@@ -148,6 +297,14 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:07 drive.google.com</li>
 </ul>
 
+<br>
+
+<ul><li> 12:36 www.parkrun.org.uk</li>
+<li class='same'> 12:35 www.parkrun.org.uk</li>
+<li class='same'> 12:34 www.parkrun.org.uk</li>
+<li> 12:34 outlook.office365.com</li>
+</ul>
+
 <H3>Friday, 28/08/26</H3>
 
 <br>
@@ -156,7 +313,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:54 outlook.office365.com</li>
+<ul><li class='same'> 18:21 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 16:02 outlook.office365.com</li>
+<li class='same'> 16:01 outlook.office365.com</li>
+<li class='same'> 16:00 outlook.office365.com</li>
+<li class='same'> 15:59 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 12:54 outlook.office365.com</li>
 <li class='same'> 12:53 outlook.office365.com</li>
 <li class='same'> 12:42 outlook.office365.com</li>
 <li class='same'> 12:41 outlook.office365.com</li>
@@ -1035,7 +1205,7 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 07:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:33 <a href="https://www.theguardian.com/stage/2026/aug/20/magicians-and-margarine-10-of-the-funniest-jokes-from-the-edinburgh-fringe-2026">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:32 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:32 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 07:32 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 07:28 <a href="https://www.theguardian.com/world/2026/aug/20/oxfam-cant-guarantee-future-of-charity-shops-as-it-also-reviews-warehouse-business">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:27 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:26 <a href="https://www.theguardian.com/politics/2026/aug/20/working-in-keir-starmer-no-10-unbearable-says-sue-gray">Latest news, sport and opinion from the Guardian</a></li>
@@ -1095,7 +1265,7 @@ With number of accesses/minutes in parentheses
 <li> 20:41 www.google.com</li>
 <li class='same'> 20:39 www.google.com</li>
 <li> 20:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 20:35 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 20:35 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 20:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 20:35 www.google.com</li>
 </ul>
@@ -1158,7 +1328,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 08:04 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:04 chatgpt.com</li>
 <li> 07:53 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:53 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 07:53 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 07:39 <a href="https://www.theguardian.com/commentisfree/2026/aug/17/italy-month-off-august-economic-productivity">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:39 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:39 <a href="https://www.theguardian.com/commentisfree/2026/aug/17/italy-month-off-august-economic-productivity">Latest news, sport and opinion from the Guardian</a></li>
@@ -1723,8 +1893,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 06:47 www.google.com</li>
-<li> 06:47 outlook.office365.com</li>
-<li> 06:47 www.google.com</li>
 <li class='same'> 06:46 www.google.com</li>
 <li> 06:45 outlook.office365.com</li>
 <li class='same'> 06:44 outlook.office365.com</li>
@@ -1812,7 +1980,6 @@ With number of accesses/minutes in parentheses
 <li> 09:29 login.microsoftonline.com</li>
 <li> 09:29 device.login.microsoftonline.com</li>
 <li> 09:29 outlook.office365.com</li>
-<li class='same'> 09:28 outlook.office365.com</li>
 <li class='same'> 09:27 outlook.office365.com</li>
 <li class='same'> 09:24 outlook.office365.com</li>
 <li class='same'> 09:23 outlook.office365.com</li>
@@ -2706,7 +2873,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:06 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:06 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 12:06 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 </ul>
 
 <br>
@@ -2911,7 +3078,7 @@ With number of accesses/minutes in parentheses
 <li> 09:36 <a href="https://www.theguardian.com/environment/2026/jul/31/england-hosepipe-ban-drought-private-schools-golf-courses-green-grass">‘It’s alright for them’: private schools and golf courses stay green despite England’s hosepipe bans | Drought | The Guardian</a></li>
 <li> 09:36 <a href="https://www.theguardian.com/politics/2026/jul/30/diane-abbott-and-joani-reid-readmitted-as-labour-mps">Diane Abbott and Joani Reid readmitted as Labour MPs | Labour | The Guardian</a></li>
 <li> 09:35 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 09:35 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 09:35 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 09:35 mail.google.com</li>
 <li> 09:33 qbo.intuit.com</li>
 <li class='same'> 09:32 qbo.intuit.com</li>
@@ -3308,7 +3475,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:15 tvtropes.org</li>
 <li class='same'> 13:57 tvtropes.org</li>
 <li> 13:57 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 13:57 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 13:57 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 13:56 <a href="https://www.theguardian.com/politics/2026/jul/23/anton-jager-groundbreaking-book-being-devoured-by-left">Meet the man whose groundbreaking book is being devoured by the left | Politics | The Guardian</a></li>
 </ul>
 
@@ -3473,7 +3640,7 @@ With number of accesses/minutes in parentheses
 <li> 17:27 outlook.office365.com</li>
 <li> 17:25 www.google.com</li>
 <li> 17:25 <a href="https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb">Rebel Wilson wins defamation case brought by co-star after bitter dispute | Australia news | The Guardian</a></li>
-<li> 17:25 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 17:25 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 17:25 <a href="https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb">Rebel Wilson wins defamation case brought by co-star after bitter dispute | Australia news | The Guardian</a></li>
 <li> 17:08 www.facebook.com</li>
 <li class='same'> 17:07 www.facebook.com</li>
@@ -3805,7 +3972,6 @@ With number of accesses/minutes in parentheses
 <li> 08:24 login.microsoftonline.com</li>
 <li> 08:24 device.login.microsoftonline.com</li>
 <li> 08:24 outlook.office365.com</li>
-<li class='same'> 08:23 outlook.office365.com</li>
 </ul>
 
 <H3>Sunday, 19/07/26</H3>
@@ -4122,9 +4288,9 @@ With number of accesses/minutes in parentheses
 <li> 06:13 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:13 <a href="https://www.theguardian.com/politics/2026/jul/16/andy-burnham-keir-starmer-no-10-advisers">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:12 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 06:12 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 06:12 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 06:12 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 06:12 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 06:12 <a href="https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed">Latest news, sport and opinion from the Guardian</a></li>
 <li> 06:05 tvtropes.org</li>
 </ul>
@@ -4754,7 +4920,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 11:52 <a href="https://www.theguardian.com/politics/2026/jul/13/andy-burnham-confirmed-labour-leader-landslide-support">Andy Burnham secures Labour leadership with landslide support of MPs | Andy Burnham | The Guardian</a></li>
 <li> 11:49 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 11:49 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 11:49 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 11:49 moodle.royalholloway.ac.uk</li>
 <li> 11:49 eur03.safelinks.protection.outlook.com</li>
 </ul>
@@ -6418,14 +6584,14 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 15:51 <a href="https://www.theguardian.com/tv-and-radio/2026/jul/02/mps-uk-broadcast-russian-cartoon-masha-and-the-bear">Latest news, sport and opinion from the Guardian</a></li>
 <li> 15:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 15:50 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 15:50 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 </ul>
 
 <br>
 
 <ul><li> 12:34 <a href="https://www.theguardian.com/politics/2026/jul/02/its-a-stellar-idea-readers-on-andy-burnhams-no-10-north-plans">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:33 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 12:33 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 12:33 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:21 webtimetables.royalholloway.ac.uk</li>
 <li> 12:21 eur03.safelinks.protection.outlook.com</li>
@@ -11460,7 +11626,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 14:14 <a href="https://www.theguardian.com/film/2026/jun/04/disney-paris-theme-park-deficit">Disney racks up $4.2bn deficit on Paris parks | Walt Disney Company | The Guardian</a></li>
 <li> 14:14 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 14:14 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 14:14 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 14:07 dashboards.rhul.ac.uk</li>
 <li> 14:04 www.linkedin.com</li>
 <li> 14:04 mail.google.com</li>
@@ -11531,7 +11697,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 08:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:34 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 08:34 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 </ul>
 
 <br>
@@ -11781,9 +11947,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:13 www.reddit.com</li>
 <li> 12:09 <a href="https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:08 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 12:08 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 12:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 12:08 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 12:08 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 12:08 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 12:03 www.eurostar.com</li>
 <li class='same'> 12:02 www.eurostar.com</li>
@@ -11963,13 +12129,13 @@ With number of accesses/minutes in parentheses
 <li> 08:48 www.google.com</li>
 <li class='same'> 08:47 www.google.com</li>
 <li> 08:30 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 08:30 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 08:30 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 08:02 <a href="https://www.theguardian.com/us-news/2026/jun/02/san-diego-drug-tunnel">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:59 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:59 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 07:59 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/politics/2026/jun/03/mandelson-messages-manual-dark-arts-power">Latest news, sport and opinion from the Guardian</a></li>
 <li> 07:50 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 07:50 <a href="https://www.theguardian.com/">Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business | Oxfam | The Guardian</a></li>
+<li> 07:50 <a href="https://www.theguardian.com/">‘I was miserable for a lot of this century’: Stewart Lee on divorce, his adoption and the twisted children’s poem that explains his life | Stewart Lee | The Guardian</a></li>
 </ul>
 
 <H3>Tuesday, 02/06/26</H3>
@@ -123938,4 +124104,49 @@ With number of accesses/minutes in parentheses
 <li> 06:13 www.google.com</li>
 <li> 06:11 www.giantitp.com</li>
 <li> 06:09 www.google.com</li>
+</ul>
+
+<H3>Sunday, 28/07/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 08:11 www.parkrun.org.uk</li>
+<li class='same'> 08:07 www.parkrun.org.uk</li>
+</ul>
+
+<H3>Sunday, 04/02/24</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 21:07 www.parkrun.org.uk</li>
+</ul>
+
+<H3>Monday, 25/12/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 17:51 www.parkrun.org.uk</li>
+</ul>
+
+<H3>Sunday, 22/10/23</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 13:31 www.parkrun.org.uk</li>
 </ul>
