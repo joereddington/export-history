@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5399)</li>
-<li>mail.google.com (5354)</li>
-<li>www.reddit.com (5135)</li>
+<li>mail.google.com (5351)</li>
+<li>www.reddit.com (5136)</li>
 <li>outlook.office365.com (4709)</li>
 <li>outlook.office.com (3994)</li>
 <li>duckduckgo.com (3833)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2708)</li>
-<li>www.linkedin.com (2363)</li>
+<li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1883)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>calendar.google.com (1526)</li>
-<li>login.microsoftonline.com (1319)</li>
 <li>www.amazon.co.uk (1318)</li>
+<li>login.microsoftonline.com (1318)</li>
 <li>chat.openai.com (1296)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
-<li>gmail.com (1138)</li>
-<li>mail.rhul.ac.uk (1015)</li>
+<li>gmail.com (1137)</li>
+<li>mail.rhul.ac.uk (1014)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (862)</li>
 <li>feedly.com (791)</li>
 <li>forms.office.com (784)</li>
-<li>www.theguardian.com (588)</li>
+<li>www.theguardian.com (586)</li>
 <li>fritz.box (573)</li>
 <li>rhul.sharepoint.com (546)</li>
 <li>m365.cloud.microsoft (543)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:40 duckduckgo.com</li>
+<ul><li> 14:23 www.reddit.com</li>
+<li> 14:05 dashboards.rhul.ac.uk</li>
+<li class='same'> 14:04 dashboards.rhul.ac.uk</li>
+<li> 13:40 duckduckgo.com</li>
 <li> 13:35 www.goodreads.com</li>
 <li class='same'> 13:34 www.goodreads.com</li>
 <li> 13:34 docs.google.com</li>
@@ -11879,7 +11882,6 @@ With number of accesses/minutes in parentheses
 <li> 14:01 <a href="https://en.wikipedia.org/w/index.php?title=Special:Search&amp;fulltext=1&amp;search=hack&amp;ns0=1">hack - Search results - Wikipedia</a></li>
 <li> 14:01 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;fulltext=1&amp;search=hack">hack - Search results - Wikipedia</a></li>
 <li> 14:01 <a href="https://en.wikipedia.org/wiki/Hack">Hack - Wikipedia</a></li>
-<li> 14:01 <a href="https://en.wikipedia.org/w/index.php?search=hack&amp;title=Special%3ASearch&amp;wprov=acrw1_-1"></a></li>
 <li> 14:01 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
 <li> 14:01 <a href="https://en.wikipedia.org/w/index.php?title=Hacker&amp;action=history">Hacker: Revision history - Wikipedia</a></li>
 <li> 14:01 <a href="https://en.wikipedia.org/wiki/Hacker#Hacker_Culture">Hacker - Wikipedia</a></li>
@@ -11951,17 +11953,12 @@ With number of accesses/minutes in parentheses
 <li> 13:13 chatgpt.com</li>
 <li class='same'> 13:12 chatgpt.com</li>
 <li> 13:12 chat.openai.com</li>
-<li> 13:12 www.oed.com</li>
-<li class='same'> 13:11 www.oed.com</li>
+<li> 13:11 www.oed.com</li>
 <li> 13:11 oup2-idp.sams-sigma.com</li>
-<li> 13:11 oup-sp.sams-sigma.com</li>
-<li> 13:11 login.openathens.net</li>
-<li> 13:11 oup2-ds.sams-sigma.com</li>
 <li> 13:11 oup-sp.sams-sigma.com</li>
 <li> 13:11 login.openathens.net</li>
 <li> 13:11 login.microsoftonline.com</li>
 <li> 13:11 oup2-ds.sams-sigma.com</li>
-<li> 13:11 www.oed.com</li>
 <li> 13:11 oup-sp.sams-sigma.com</li>
 <li> 13:11 www.oed.com</li>
 <li> 13:11 oup2-idp.sams-sigma.com</li>
@@ -11979,7 +11976,6 @@ With number of accesses/minutes in parentheses
 <li> 12:59 eur03.safelinks.protection.outlook.com</li>
 <li> 12:59 outlook.cloud.microsoft</li>
 <li class='same'> 12:58 outlook.cloud.microsoft</li>
-<li> 12:58 login.microsoftonline.com</li>
 <li> 12:58 outlook.office365.com</li>
 <li> 12:58 outlook.cloud.microsoft</li>
 <li> 12:58 mail.rhul.ac.uk</li>
@@ -124064,24 +124060,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:14 www.reddit.com</li>
 <li> 07:10 www.theguardian.com</li>
 <li> 07:09 outlook.office365.com</li>
-<li> 07:09 mail.rhul.ac.uk</li>
-<li> 07:09 www.linkedin.com</li>
-<li class='same'> 07:08 www.linkedin.com</li>
-<li> 07:06 qbo.intuit.com</li>
-<li class='same'> 07:05 qbo.intuit.com</li>
-<li class='same'> 07:04 qbo.intuit.com</li>
-<li class='same'> 07:03 qbo.intuit.com</li>
-<li class='same'> 07:02 qbo.intuit.com</li>
-<li> 07:02 accounts.intuit.com</li>
-<li> 07:02 qbo.intuit.com</li>
-<li> 07:02 app.qbo.intuit.com</li>
-<li> 07:02 mail.google.com</li>
-<li class='same'> 07:01 mail.google.com</li>
-<li class='same'> 06:59 mail.google.com</li>
-<li> 06:59 gmail.com</li>
-<li> 06:52 equalitytime.co.uk</li>
-<li> 06:52 equalitytime.github.io</li>
-<li> 06:50 www.theguardian.com</li>
-<li class='same'> 06:48 www.theguardian.com</li>
-<li> 06:46 www.dropbox.com</li>
 </ul>
