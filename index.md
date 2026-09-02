@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5406)</li>
+<ol><li>www.google.com (5399)</li>
 <li>mail.google.com (5354)</li>
-<li>www.reddit.com (5137)</li>
+<li>www.reddit.com (5135)</li>
 <li>outlook.office365.com (4709)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3831)</li>
-<li>docs.google.com (3287)</li>
-<li>chatgpt.com (2707)</li>
+<li>duckduckgo.com (3833)</li>
+<li>docs.google.com (3290)</li>
+<li>chatgpt.com (2708)</li>
 <li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1883)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
-<li>calendar.google.com (1527)</li>
-<li>login.microsoftonline.com (1320)</li>
+<li>calendar.google.com (1526)</li>
+<li>login.microsoftonline.com (1319)</li>
 <li>www.amazon.co.uk (1318)</li>
-<li>chat.openai.com (1295)</li>
+<li>chat.openai.com (1296)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
 <li>gmail.com (1138)</li>
@@ -94,10 +94,10 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (784)</li>
 <li>www.theguardian.com (588)</li>
 <li>fritz.box (573)</li>
-<li>rhul.sharepoint.com (550)</li>
+<li>rhul.sharepoint.com (546)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (473)</li>
+<li>drive.google.com (471)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:30 www.google.co.uk</li>
+<ul><li> 13:40 duckduckgo.com</li>
+<li> 13:35 www.goodreads.com</li>
+<li class='same'> 13:34 www.goodreads.com</li>
+<li> 13:34 docs.google.com</li>
+<li> 13:34 www.goodreads.com</li>
+<li> 13:33 chatgpt.com</li>
+<li> 13:33 chat.openai.com</li>
+<li> 13:33 www.goodreads.com</li>
+<li class='same'> 13:31 www.goodreads.com</li>
+<li> 13:31 docs.google.com</li>
+<li> 13:31 duckduckgo.com</li>
+<li> 13:31 docs.google.com</li>
+<li> 13:30 www.google.co.uk</li>
 <li class='same'> 13:29 www.google.co.uk</li>
 <li> 13:29 maps.google.co.uk</li>
 <li> 13:29 duckduckgo.com</li>
@@ -12008,18 +12020,14 @@ With number of accesses/minutes in parentheses
 <li> 11:57 mail.google.com</li>
 <li class='same'> 11:54 mail.google.com</li>
 <li> 11:54 calendar.google.com</li>
-<li> 11:54 www.google.com</li>
-<li> 11:54 calendar.google.com</li>
 <li> 11:54 mail.google.com</li>
 <li> 11:53 calendar.google.com</li>
-<li> 11:53 www.google.com</li>
 <li> 11:53 mail.google.com</li>
 <li> 11:52 www.thedailymash.co.uk</li>
 <li class='same'> 11:50 www.thedailymash.co.uk</li>
 <li> 11:50 mail.google.com</li>
 <li> 11:49 duckduckgo.com</li>
 <li> 11:49 www.emfcamp.org</li>
-<li> 11:49 www.google.com</li>
 <li> 11:49 blog.emfcamp.org</li>
 <li> 11:48 mail.google.com</li>
 <li> 11:48 gmail.com</li>
@@ -12043,7 +12051,6 @@ With number of accesses/minutes in parentheses
 <li> 11:29 lightsail.aws.amazon.com</li>
 <li> 11:29 eu-west-2.signin.aws.amazon.com</li>
 <li> 11:29 eu-west-2.console.aws.amazon.com</li>
-<li> 11:28 signin.aws.amazon.com</li>
 <li> 11:28 eu-west-2.signin.aws.amazon.com</li>
 <li> 11:28 eu-west-2.console.aws.amazon.com</li>
 <li> 11:28 mail.google.com</li>
@@ -12077,7 +12084,6 @@ With number of accesses/minutes in parentheses
 <li> 11:06 app.qbo.intuit.com</li>
 <li> 11:06 mail.google.com</li>
 <li> 11:05 www.tax.service.gov.uk</li>
-<li> 11:05 www.google.com</li>
 <li> 11:05 docs.google.com</li>
 <li> 11:04 equalitytime.github.io</li>
 <li> 11:03 www.linkedin.com</li>
@@ -12105,8 +12111,7 @@ With number of accesses/minutes in parentheses
 <li> 10:30 gmail.com</li>
 <li> 10:30 duckduckgo.com</li>
 <li> 10:30 www.linkedin.com</li>
-<li> 10:30 accounts.google.com</li>
-<li> 10:29 www.linkedin.com</li>
+<li class='same'> 10:29 www.linkedin.com</li>
 <li> 10:29 www.reddit.com</li>
 <li> 10:27 mail.google.com</li>
 <li> 10:26 theopenvoicefactory.org</li>
@@ -12132,17 +12137,9 @@ With number of accesses/minutes in parentheses
 <li> 09:43 docs.google.com</li>
 <li> 09:43 drive.google.com</li>
 <li> 09:41 jobs.royalholloway.ac.uk</li>
-<li> 09:39 rhul.sharepoint.com</li>
-<li class='same'> 09:38 rhul.sharepoint.com</li>
-<li> 09:38 login.microsoftonline.com</li>
 <li> 09:38 rhul.sharepoint.com</li>
-<li class='same'> 09:37 rhul.sharepoint.com</li>
-<li> 09:37 intranet.royalholloway.ac.uk</li>
-<li> 09:37 rhul.sharepoint.com</li>
-<li> 09:37 intranet.royalholloway.ac.uk</li>
-<li> 09:36 rhul.sharepoint.com</li>
+<li class='same'> 09:36 rhul.sharepoint.com</li>
 <li> 09:32 intranet.royalholloway.ac.uk</li>
-<li class='same'> 09:31 intranet.royalholloway.ac.uk</li>
 <li> 09:31 preview.rhul.ac.uk</li>
 <li> 09:31 intranet.royalholloway.ac.uk</li>
 <li class='same'> 09:30 intranet.royalholloway.ac.uk</li>
@@ -12156,10 +12153,7 @@ With number of accesses/minutes in parentheses
 <li> 09:10 chatgpt.com</li>
 <li> 09:10 chat.openai.com</li>
 <li> 09:09 teams.microsoft.com</li>
-<li> 09:09 eur03.safelinks.protection.outlook.com</li>
 <li> 09:08 www.ecer.org</li>
-<li> 09:08 xcgx51v3.r.us-east-1.awstrack.me</li>
-<li> 09:08 eur03.safelinks.protection.outlook.com</li>
 <li> 08:54 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 08:53 auth.wikimedia.org</li>
 <li> 08:53 <a href="https://en.wikipedia.org/w/index.php?returnto=Main+Page&amp;title=Special:UserLogin&amp;centralAuthAutologinTried=1&amp;useformat=mobile&amp;centralAuthError=Not+centrally+logged+in">Wikipedia, the free encyclopedia</a></li>
@@ -124090,23 +124084,4 @@ With number of accesses/minutes in parentheses
 <li> 06:50 www.theguardian.com</li>
 <li class='same'> 06:48 www.theguardian.com</li>
 <li> 06:46 www.dropbox.com</li>
-<li class='same'> 06:44 www.dropbox.com</li>
-<li class='same'> 06:43 www.dropbox.com</li>
-<li class='same'> 06:42 www.dropbox.com</li>
-<li class='same'> 06:41 www.dropbox.com</li>
-<li> 06:40 www.google.com</li>
-<li> 06:40 www.doxdirect.com</li>
-<li> 06:39 fast.com</li>
-<li> 06:39 www.doxdirect.com</li>
-<li> 06:38 doxzoo.com</li>
-<li class='same'> 06:37 doxzoo.com</li>
-<li> 06:37 www.inkylittlefingers.co.uk</li>
-<li> 06:37 www.google.com</li>
-<li> 06:36 ka-blam.com</li>
-<li> 06:36 www.reddit.com</li>
-<li> 06:36 imgur.com</li>
-<li> 06:35 www.reddit.com</li>
-<li> 06:35 www.google.com</li>
-<li> 06:33 drive.google.com</li>
-<li class='same'> 06:32 drive.google.com</li>
 </ul>
