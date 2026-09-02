@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5408)</li>
+<ol><li>www.google.com (5407)</li>
 <li>mail.google.com (5354)</li>
 <li>www.reddit.com (5137)</li>
 <li>outlook.office365.com (4709)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 02/09/26</H3>
+
+<br>
+
+<ul><li> 11:34 www.cs.rhul.ac.uk</li>
+</ul>
+
 <H3>Tuesday, 01/09/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -12529,12 +12540,10 @@ With number of accesses/minutes in parentheses
 <li> 13:00 oup2-idp.sams-sigma.com</li>
 <li> 13:00 oup-sp.sams-sigma.com</li>
 <li> 13:00 login.openathens.net</li>
-<li> 13:00 oup2-ds.sams-sigma.com</li>
 <li> 13:00 oup-sp.sams-sigma.com</li>
 <li> 13:00 login.openathens.net</li>
 <li> 13:00 login.microsoftonline.com</li>
 <li> 13:00 oup2-ds.sams-sigma.com</li>
-<li> 13:00 www.oed.com</li>
 <li> 13:00 oup-sp.sams-sigma.com</li>
 <li> 13:00 www.oed.com</li>
 <li> 13:00 oup2-idp.sams-sigma.com</li>
@@ -124103,50 +124112,4 @@ With number of accesses/minutes in parentheses
 <li> 06:13 assets.publishing.service.gov.uk</li>
 <li> 06:13 www.google.com</li>
 <li> 06:11 www.giantitp.com</li>
-<li> 06:09 www.google.com</li>
-</ul>
-
-<H3>Sunday, 28/07/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 08:11 www.parkrun.org.uk</li>
-<li class='same'> 08:07 www.parkrun.org.uk</li>
-</ul>
-
-<H3>Sunday, 04/02/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 21:07 www.parkrun.org.uk</li>
-</ul>
-
-<H3>Monday, 25/12/23</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 17:51 www.parkrun.org.uk</li>
-</ul>
-
-<H3>Sunday, 22/10/23</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 13:31 www.parkrun.org.uk</li>
 </ul>
