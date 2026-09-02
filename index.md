@@ -73,15 +73,15 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (5137)</li>
 <li>outlook.office365.com (4709)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3830)</li>
-<li>docs.google.com (3289)</li>
+<li>duckduckgo.com (3831)</li>
+<li>docs.google.com (3287)</li>
 <li>chatgpt.com (2707)</li>
-<li>www.linkedin.com (2361)</li>
+<li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1883)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>calendar.google.com (1527)</li>
-<li>login.microsoftonline.com (1321)</li>
+<li>login.microsoftonline.com (1320)</li>
 <li>www.amazon.co.uk (1318)</li>
 <li>chat.openai.com (1295)</li>
 <li>herts.instructure.com (1231)</li>
@@ -89,15 +89,15 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1138)</li>
 <li>mail.rhul.ac.uk (1015)</li>
 <li>tvtropes.org (886)</li>
-<li>rhul-my.sharepoint.com (863)</li>
-<li>feedly.com (789)</li>
+<li>rhul-my.sharepoint.com (862)</li>
+<li>feedly.com (791)</li>
 <li>forms.office.com (784)</li>
 <li>www.theguardian.com (588)</li>
-<li>fritz.box (572)</li>
-<li>rhul.sharepoint.com (551)</li>
+<li>fritz.box (573)</li>
+<li>rhul.sharepoint.com (550)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (476)</li>
+<li>drive.google.com (473)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:25 login.microsoftonline.com</li>
+<ul><li> 13:30 www.google.co.uk</li>
+<li class='same'> 13:29 www.google.co.uk</li>
+<li> 13:29 maps.google.co.uk</li>
+<li> 13:29 duckduckgo.com</li>
+<li> 13:29 www.ebay.co.uk</li>
+<li> 13:28 newsthump.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:42 fritz.box</li>
+<li> 12:37 www.linkedin.com</li>
+<li class='same'> 12:36 www.linkedin.com</li>
+<li> 12:36 feedly.com</li>
+<li class='same'> 12:35 feedly.com</li>
+<li> 12:28 <a href="https://joereddington.com/2025/10/30/things-i-say-to-project-students.html">Things I say to project students | Joe Reddington</a></li>
+<li> 12:28 eur03.safelinks.protection.outlook.com</li>
+<li> 12:25 login.microsoftonline.com</li>
 <li> 12:25 loop.cloud.microsoft</li>
 <li> 12:25 login.microsoftonline.com</li>
 <li> 12:25 device.login.microsoftonline.com</li>
@@ -12279,13 +12296,10 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:13 fritz.box</li>
 <li> 07:13 detectportal.firefox.com</li>
 <li> 07:13 calendar.google.com</li>
-<li> 06:52 rhul-my.sharepoint.com</li>
 <li> 06:51 rhul.sharepoint.com</li>
 <li> 06:48 forms.office.com</li>
 <li> 06:48 login.microsoftonline.com</li>
 <li> 06:48 forms.office.com</li>
-<li> 06:46 rhul.sharepoint.com</li>
-<li> 06:46 login.microsoftonline.com</li>
 <li> 06:46 rhul.sharepoint.com</li>
 <li> 06:45 <a href="https://en.wikipedia.org/wiki/List_of_computer_books#Hackers_and_hacker_culture">List of computer books - Wikipedia</a></li>
 <li> 06:43 <a href="https://en.wikipedia.org/wiki/Hacker#cite_note-28">Hacker - Wikipedia</a></li>
@@ -12306,7 +12320,6 @@ With number of accesses/minutes in parentheses
 <li> 06:39 <a href="https://en.wikipedia.org/wiki/Hacker">Hacker - Wikipedia</a></li>
 <li> 06:39 <a href="https://en.wikipedia.org/wiki/User:Joereddington/common.js">User:Joereddington/common.js - Wikipedia</a></li>
 <li> 06:38 <a href="https://en.wikipedia.org/w/index.php?title=User%3AJoereddington%2Fcommon.js&amp;action=edit">Creating User:Joereddington/common.js - Wikipedia</a></li>
-<li> 06:38 <a href="https://en.wikipedia.org/wiki/Special:EditPage/User:Joereddington/common.js"></a></li>
 <li> 06:38 <a href="https://en.wikipedia.org/wiki/User:Joereddington/common.js">User:Joereddington/common.js - Wikipedia</a></li>
 <li> 06:38 <a href="https://en.wikipedia.org/wiki/Special:MyPage/common.js">User:Joereddington/common.js - Wikipedia</a></li>
 <li> 06:38 duckduckgo.com</li>
@@ -12386,7 +12399,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:20 forms.cloud.microsoft</li>
 <li> 13:20 login.microsoftonline.com</li>
 <li> 13:20 forms.cloud.microsoft</li>
-<li> 13:20 eur03.safelinks.protection.outlook.com</li>
 </ul>
 
 <br>
@@ -12516,25 +12528,19 @@ With number of accesses/minutes in parentheses
 <li> 13:16 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)#Employment">White hat (computer security) - Wikipedia</a></li>
 <li> 13:15 <a href="https://en.wikipedia.org/w/index.php?title=White_hat_(computer_security)&amp;action=edit&amp;section=7">Editing White hat (computer security) - Wikipedia</a></li>
 <li> 13:13 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
-<li> 13:13 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=White+hat+%28computer+security%29&amp;wprov=acrw1_0"></a></li>
 <li> 13:13 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 13:13 <a href="https://en.wikipedia.org/"></a></li>
 <li> 13:12 www.sciencedirect.com</li>
 <li> 13:12 auth.elsevier.com</li>
-<li> 13:12 login.openathens.net</li>
-<li> 13:12 auth.elsevier.com</li>
 <li> 13:12 id.elsevier.com</li>
-<li> 13:12 www.sciencedirect.com</li>
-<li class='same'> 13:11 www.sciencedirect.com</li>
+<li> 13:11 www.sciencedirect.com</li>
 <li> 13:11 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)#cite_note-14">White hat (computer security) - Wikipedia</a></li>
 <li> 13:10 www.infosecurity-magazine.com</li>
 <li> 13:10 <a href="https://en.wikipedia.org/wiki/White_hat_(computer_security)">White hat (computer security) - Wikipedia</a></li>
 <li> 13:10 duckduckgo.com</li>
 <li> 13:09 api-b6327e78.duosecurity.com</li>
-<li> 13:09 adfs.herts.ac.uk</li>
 <li> 13:09 login.openathens.net</li>
 <li> 13:09 auth.elsevier.com</li>
-<li> 13:09 adfs.herts.ac.uk</li>
 <li> 13:08 www.sciencedirect.com</li>
 <li> 13:08 <a href="https://en.wikipedia.org/w/index.php?title=White_hat_(computer_security)&amp;action=history">White hat (computer security): Revision history - Wikipedia</a></li>
 <li> 13:08 <a href="https://en.wikipedia.org/w/index.php?title=White_hat_%28computer_security%29&amp;diff=1357012943&amp;oldid=1356906143">White hat (computer security): Difference between revisions - Wikipedia</a></li>
@@ -124103,16 +124109,4 @@ With number of accesses/minutes in parentheses
 <li> 06:35 www.google.com</li>
 <li> 06:33 drive.google.com</li>
 <li class='same'> 06:32 drive.google.com</li>
-<li> 06:31 www.dropbox.com</li>
-<li class='same'> 06:30 www.dropbox.com</li>
-<li class='same'> 06:29 www.dropbox.com</li>
-<li class='same'> 06:27 www.dropbox.com</li>
-<li class='same'> 06:26 www.dropbox.com</li>
-<li> 06:26 drive.google.com</li>
-<li> 06:26 www.dropbox.com</li>
-<li> 06:22 docs.google.com</li>
-<li> 06:20 drive.google.com</li>
-<li> 06:19 docs.google.com</li>
-<li> 06:19 drive.google.com</li>
-<li> 06:16 www.gov.uk</li>
 </ul>
