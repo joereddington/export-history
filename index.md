@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:23 www.reddit.com</li>
+<ul><li> 14:57 dashboards.rhul.ac.uk</li>
+<li> 14:49 www.cs.rhul.ac.uk</li>
+<li> 14:48 www.law.ac.uk</li>
+<li> 14:47 www.royalholloway.ac.uk</li>
+<li> 14:44 intranet.royalholloway.ac.uk</li>
+<li> 14:44 www.royalholloway.ac.uk</li>
+<li> 14:43 intranet.royalholloway.ac.uk</li>
+<li> 14:23 www.reddit.com</li>
 <li> 14:05 dashboards.rhul.ac.uk</li>
 <li class='same'> 14:04 dashboards.rhul.ac.uk</li>
 <li> 13:40 duckduckgo.com</li>
