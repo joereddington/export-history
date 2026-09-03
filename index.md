@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5390)</li>
-<li>mail.google.com (5347)</li>
+<ol><li>www.google.com (5386)</li>
+<li>mail.google.com (5346)</li>
 <li>www.reddit.com (5132)</li>
-<li>outlook.office365.com (4708)</li>
+<li>outlook.office365.com (4709)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3836)</li>
+<li>duckduckgo.com (3837)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2711)</li>
+<li>chatgpt.com (2717)</li>
 <li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1881)</li>
+<li>www.facebook.com (1880)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
-<li>calendar.google.com (1527)</li>
-<li>www.amazon.co.uk (1320)</li>
-<li>login.microsoftonline.com (1318)</li>
+<li>calendar.google.com (1529)</li>
+<li>www.amazon.co.uk (1327)</li>
+<li>login.microsoftonline.com (1319)</li>
 <li>chat.openai.com (1297)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
-<li>gmail.com (1136)</li>
-<li>mail.rhul.ac.uk (1014)</li>
+<li>gmail.com (1137)</li>
+<li>mail.rhul.ac.uk (1015)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (860)</li>
 <li>feedly.com (791)</li>
@@ -108,7 +108,36 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:50 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 11:22 chatgpt.com</li>
+<li class='same'> 11:21 chatgpt.com</li>
+<li> 11:20 mail.google.com</li>
+<li> 11:20 gmail.com</li>
+<li> 11:18 chatgpt.com</li>
+<li> 11:17 www.amazon.co.uk</li>
+<li class='same'> 11:16 www.amazon.co.uk</li>
+<li class='same'> 11:15 www.amazon.co.uk</li>
+<li class='same'> 11:14 www.amazon.co.uk</li>
+<li class='same'> 11:13 www.amazon.co.uk</li>
+<li class='same'> 11:12 www.amazon.co.uk</li>
+<li> 11:11 chatgpt.com</li>
+<li> 11:11 www.amazon.co.uk</li>
+<li> 11:11 outlook.cloud.microsoft</li>
+<li> 11:11 login.microsoftonline.com</li>
+<li> 11:11 device.login.microsoftonline.com</li>
+<li> 11:11 outlook.office365.com</li>
+<li> 11:11 outlook.cloud.microsoft</li>
+<li> 11:11 mail.rhul.ac.uk</li>
+<li> 11:10 calendar.google.com</li>
+<li> 11:10 chatgpt.com</li>
+<li> 11:10 calendar.google.com</li>
+<li> 11:09 chatgpt.com</li>
+<li> 11:09 www.goodreads.com</li>
+<li class='same'> 11:08 www.goodreads.com</li>
+<li> 11:07 duckduckgo.com</li>
+<li> 11:07 www.goodreads.com</li>
+<li> 11:06 docs.google.com</li>
+<li> 11:02 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 10:50 webtimetables.royalholloway.ac.uk</li>
 <li> 10:28 dashboards.rhul.ac.uk</li>
 <li> 10:16 www.cs.rhul.ac.uk</li>
 <li> 10:14 chatgpt.com</li>
@@ -124051,34 +124080,4 @@ With number of accesses/minutes in parentheses
 <li> 09:16 <a href="https://en.wikipedia.org/wiki/Succ%C3%A8s_de_scandale">Succès de scandale - Wikipedia</a></li>
 <li> 09:15 <a href="https://en.wikipedia.org/wiki/Internet_water_army">Internet water army - Wikipedia</a></li>
 <li> 09:15 <a href="https://en.wikipedia.org/wiki/Category:Public_relations_techniques">Category:Public relations techniques - Wikipedia</a></li>
-<li> 09:14 <a href="https://en.wikipedia.org/wiki/Plea#Types_of_plea">Plea - Wikipedia</a></li>
-<li> 09:14 <a href="https://en.wikipedia.org/wiki/Not_guilty_plea">Plea - Wikipedia</a></li>
-<li> 09:14 <a href="https://en.wikipedia.org/wiki/Not_guilty">Not guilty - Wikipedia</a></li>
-<li> 09:14 www.google.com</li>
-<li> 09:14 <a href="https://en.wikipedia.org/wiki/Denial_(disambiguation)">Denial (disambiguation) - Wikipedia</a></li>
-<li> 09:14 <a href="https://en.wikipedia.org/wiki/Denial">Denial - Wikipedia</a></li>
-<li> 09:14 www.google.com</li>
-<li> 09:12 <a href="https://en.wikipedia.org/wiki/Talk:Shaggy_defense">Talk:Shaggy defense - Wikipedia</a></li>
-<li> 09:11 <a href="https://en.wikipedia.org/wiki/R._Kelly#Sexual_abuse_allegations">R. Kelly - Wikipedia</a></li>
-<li> 09:11 <a href="https://en.wikipedia.org/wiki/R._Kelly">R. Kelly - Wikipedia</a></li>
-<li> 09:10 <a href="https://en.wikipedia.org/wiki/R._Kelly_sexual_abuse_cases">R. Kelly sexual abuse cases - Wikipedia</a></li>
-<li> 09:10 <a href="https://en.wikipedia.org/wiki/R._Kelly">R. Kelly - Wikipedia</a></li>
-<li> 09:10 <a href="https://en.wikipedia.org/wiki/Shaggy_defense#Origin">Shaggy defense - Wikipedia</a></li>
-<li> 09:09 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&amp;action=edit&amp;section=1">Editing Shaggy defense - Wikipedia</a></li>
-<li> 09:09 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&amp;action=edit">Shaggy defense - Wikipedia</a></li>
-<li> 09:08 <a href="https://en.wikipedia.org/wiki/Shaggy_defense#Use">Shaggy defense - Wikipedia</a></li>
-<li> 09:07 www.google.com</li>
-<li> 09:06 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&amp;action=edit&amp;section=2">Shaggy defense - Wikipedia</a></li>
-<li> 09:06 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&amp;action=edit">Shaggy defense - Wikipedia</a></li>
-<li> 09:06 <a href="https://en.wikipedia.org/wiki/Drain_the_swamp">Drain the swamp - Wikipedia</a></li>
-<li> 09:06 <a href="https://en.wikipedia.org/wiki/Category:Sayings">Category:Sayings - Wikipedia</a></li>
-<li> 09:06 www.google.com</li>
-<li> 09:04 docs.google.com</li>
-<li> 08:55 www.facebook.com</li>
-<li> 08:55 mail.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 07:54 mail.google.com</li>
 </ul>
