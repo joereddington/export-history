@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5387)</li>
-<li>mail.google.com (5347)</li>
+<li>mail.google.com (5343)</li>
 <li>www.reddit.com (5132)</li>
 <li>outlook.office365.com (4716)</li>
 <li>outlook.office.com (3994)</li>
@@ -80,12 +80,12 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1880)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
-<li>calendar.google.com (1528)</li>
+<li>calendar.google.com (1526)</li>
 <li>www.amazon.co.uk (1324)</li>
 <li>login.microsoftonline.com (1320)</li>
 <li>chat.openai.com (1297)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1156)</li>
+<li>web.whatsapp.com (1155)</li>
 <li>gmail.com (1136)</li>
 <li>mail.rhul.ac.uk (1015)</li>
 <li>tvtropes.org (887)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:29 chatgpt.com</li>
+<ul><li> 13:35 outlook.cloud.microsoft</li>
+<li class='same'> 13:34 outlook.cloud.microsoft</li>
+<li> 13:29 chatgpt.com</li>
 <li> 13:28 us-east-1.console.aws.amazon.com</li>
 <li class='same'> 13:27 us-east-1.console.aws.amazon.com</li>
 <li> 13:27 signin.aws.amazon.com</li>
@@ -124093,16 +124095,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:56 mail.google.com</li>
 <li> 09:56 calendar.google.com</li>
 <li> 09:55 Local file</li>
-<li> 09:55 www.qiq.support</li>
-<li> 09:54 Local file</li>
-<li> 09:53 calendar.google.com</li>
-<li> 09:52 web.whatsapp.com</li>
-<li> 09:52 www.paypal.com</li>
-<li class='same'> 09:51 www.paypal.com</li>
-<li class='same'> 09:50 www.paypal.com</li>
-<li> 09:50 mail.google.com</li>
-<li class='same'> 09:48 mail.google.com</li>
-<li class='same'> 09:47 mail.google.com</li>
-<li> 09:47 calendar.google.com</li>
-<li> 09:47 mail.google.com</li>
 </ul>
