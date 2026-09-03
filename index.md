@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5387)</li>
-<li>mail.google.com (5343)</li>
+<li>mail.google.com (5340)</li>
 <li>www.reddit.com (5132)</li>
 <li>outlook.office365.com (4716)</li>
 <li>outlook.office.com (3994)</li>
 <li>duckduckgo.com (3838)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2718)</li>
+<li>chatgpt.com (2719)</li>
 <li>www.linkedin.com (2359)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1880)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
-<li>calendar.google.com (1526)</li>
+<li>calendar.google.com (1525)</li>
 <li>www.amazon.co.uk (1324)</li>
-<li>login.microsoftonline.com (1320)</li>
+<li>login.microsoftonline.com (1322)</li>
 <li>chat.openai.com (1297)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1155)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 03/09/26</H3>
+
+<br>
+
+<ul><li> 14:26 calendar.google.com</li>
+<li> 14:24 royalholloway.akarisoftware.com</li>
+<li> 14:24 login.microsoftonline.com</li>
+<li> 14:24 device.login.microsoftonline.com</li>
+<li> 14:24 royalholloway.akarisoftware.com</li>
+<li> 14:24 login.microsoftonline.com</li>
+<li> 14:24 royalholloway.akarisoftware.com</li>
+<li> 14:09 dashboards.rhul.ac.uk</li>
+<li> 14:06 www.gov.uk</li>
+<li> 14:05 chatgpt.com</li>
+</ul>
 
 <br>
 
@@ -124084,15 +124098,4 @@ With number of accesses/minutes in parentheses
 <li> 10:09 calendar.google.com</li>
 <li> 10:08 www.amazon.co.uk</li>
 <li> 10:08 mail.google.com</li>
-<li> 10:07 www.qiq.support</li>
-<li> 10:06 www.paypal.com</li>
-<li class='same'> 10:05 www.paypal.com</li>
-<li class='same'> 10:02 www.paypal.com</li>
-<li class='same'> 10:01 www.paypal.com</li>
-<li> 10:00 mail.google.com</li>
-<li> 10:00 calendar.google.com</li>
-<li> 09:57 mail.google.com</li>
-<li class='same'> 09:56 mail.google.com</li>
-<li> 09:56 calendar.google.com</li>
-<li> 09:55 Local file</li>
 </ul>
