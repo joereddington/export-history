@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5387)</li>
-<li>mail.google.com (5335)</li>
-<li>www.reddit.com (5132)</li>
-<li>outlook.office365.com (4716)</li>
-<li>outlook.office.com (3994)</li>
+<ol><li>www.google.com (5385)</li>
+<li>mail.google.com (5334)</li>
+<li>www.reddit.com (5135)</li>
+<li>outlook.office365.com (4715)</li>
+<li>outlook.office.com (3993)</li>
 <li>duckduckgo.com (3839)</li>
 <li>docs.google.com (3296)</li>
 <li>chatgpt.com (2719)</li>
-<li>www.linkedin.com (2359)</li>
+<li>www.linkedin.com (2358)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1880)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
-<li>calendar.google.com (1523)</li>
+<li>calendar.google.com (1521)</li>
 <li>www.amazon.co.uk (1323)</li>
 <li>login.microsoftonline.com (1322)</li>
 <li>chat.openai.com (1297)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1155)</li>
+<li>web.whatsapp.com (1154)</li>
 <li>gmail.com (1136)</li>
-<li>mail.rhul.ac.uk (1015)</li>
+<li>mail.rhul.ac.uk (1014)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (860)</li>
 <li>feedly.com (791)</li>
 <li>forms.office.com (784)</li>
-<li>www.theguardian.com (585)</li>
+<li>www.theguardian.com (584)</li>
 <li>fritz.box (574)</li>
 <li>rhul.sharepoint.com (546)</li>
 <li>m365.cloud.microsoft (543)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 15:29 www.reddit.com</li>
+<li class='same'> 15:28 www.reddit.com</li>
+<li class='same'> 15:26 www.reddit.com</li>
+<li class='same'> 15:25 www.reddit.com</li>
+<li> 15:25 www.linkedin.com</li>
+<li> 15:17 dashboards.rhul.ac.uk</li>
+<li> 15:09 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 15:08 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 15:07 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 15:03 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 15:02 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 15:00 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 14:59 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 14:57 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 14:56 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 14:55 webtimetables.royalholloway.ac.uk</li>
@@ -124082,25 +124094,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:29 qbo.intuit.com</li>
 <li class='same'> 11:28 qbo.intuit.com</li>
 <li> 11:28 accounts.intuit.com</li>
-<li> 11:28 qbo.intuit.com</li>
-<li> 11:28 app.qbo.intuit.com</li>
-<li> 11:28 c14.qbo.intuit.com</li>
-<li> 11:13 web.whatsapp.com</li>
-<li> 11:04 www.reddit.com</li>
-<li> 11:01 www.theguardian.com</li>
-<li> 11:00 outlook.office.com</li>
-<li> 10:59 www.linkedin.com</li>
-<li class='same'> 10:57 www.linkedin.com</li>
-<li> 10:42 outlook.office365.com</li>
-<li> 10:42 mail.rhul.ac.uk</li>
-<li> 10:41 calendar.google.com</li>
-<li class='same'> 10:36 calendar.google.com</li>
-<li> 10:22 www.google.com</li>
-<li> 10:19 Local file</li>
-<li> 10:16 mail.google.com</li>
-<li> 10:15 <a href="https://en.wikipedia.org/wiki/I_Write_Sins_Not_Tragedies">I Write Sins Not Tragedies - Wikipedia</a></li>
-<li> 10:15 www.google.com</li>
-<li> 10:15 ppcapp.ebay.co.uk</li>
-<li class='same'> 10:14 ppcapp.ebay.co.uk</li>
-<li> 10:14 signin.ebay.co.uk</li>
 </ul>
