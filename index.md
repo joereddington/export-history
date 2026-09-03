@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5385)</li>
-<li>mail.google.com (5331)</li>
+<li>mail.google.com (5335)</li>
 <li>www.reddit.com (5137)</li>
 <li>outlook.office365.com (4715)</li>
 <li>outlook.office.com (3993)</li>
-<li>duckduckgo.com (3839)</li>
+<li>duckduckgo.com (3840)</li>
 <li>docs.google.com (3296)</li>
 <li>chatgpt.com (2722)</li>
-<li>www.linkedin.com (2357)</li>
+<li>www.linkedin.com (2360)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1879)</li>
+<li>www.facebook.com (1876)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
-<li>calendar.google.com (1521)</li>
+<li>calendar.google.com (1523)</li>
 <li>www.amazon.co.uk (1323)</li>
 <li>login.microsoftonline.com (1322)</li>
 <li>chat.openai.com (1298)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1154)</li>
+<li>web.whatsapp.com (1153)</li>
 <li>gmail.com (1135)</li>
 <li>mail.rhul.ac.uk (1014)</li>
 <li>tvtropes.org (887)</li>
@@ -108,7 +108,44 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:57 chatgpt.com</li>
+<ul><li> 16:28 newsthump.com</li>
+<li> 16:24 www.linkedin.com</li>
+<li> 16:24 calendar.google.com</li>
+<li class='same'> 16:22 calendar.google.com</li>
+<li> 16:22 mail.google.com</li>
+<li> 16:21 ewf.companieshouse.gov.uk</li>
+<li> 16:19 www.explainxkcd.com</li>
+<li class='same'> 16:18 www.explainxkcd.com</li>
+<li> 16:18 <a href="https://xkcd.com/856/">xkcd: Trochee Fixation</a></li>
+<li> 16:18 duckduckgo.com</li>
+<li> 16:16 www.linkedin.com</li>
+<li> 16:15 ewf.companieshouse.gov.uk</li>
+<li class='same'> 16:14 ewf.companieshouse.gov.uk</li>
+<li> 16:14 mail.google.com</li>
+<li> 16:13 ewf.companieshouse.gov.uk</li>
+<li> 16:12 mail.google.com</li>
+<li class='same'> 16:09 mail.google.com</li>
+<li> 16:09 ewf.companieshouse.gov.uk</li>
+<li class='same'> 16:08 ewf.companieshouse.gov.uk</li>
+<li> 16:08 identity.company-information.service.gov.uk</li>
+<li> 16:08 ewf.companieshouse.gov.uk</li>
+<li> 16:08 oidc.account.gov.uk</li>
+<li> 16:08 identity.company-information.service.gov.uk</li>
+<li> 16:08 ewf.companieshouse.gov.uk</li>
+<li> 16:08 signin.account.gov.uk</li>
+<li class='same'> 16:07 signin.account.gov.uk</li>
+<li> 16:07 mail.google.com</li>
+<li> 16:07 gmail.com</li>
+<li> 16:07 signin.account.gov.uk</li>
+<li> 16:07 oidc.account.gov.uk</li>
+<li> 16:07 identity.company-information.service.gov.uk</li>
+<li> 16:07 ewf.companieshouse.gov.uk</li>
+<li> 16:07 idam-ui.company-information.service.gov.uk</li>
+<li> 16:07 ewf.companieshouse.gov.uk</li>
+<li> 16:07 www.gov.uk</li>
+<li> 16:07 gov.uk</li>
+<li> 16:04 www.linkedin.com</li>
+<li> 15:57 chatgpt.com</li>
 <li> 15:53 fast.com</li>
 <li> 15:53 chatgpt.com</li>
 <li class='same'> 15:52 chatgpt.com</li>
@@ -124071,21 +124108,4 @@ With number of accesses/minutes in parentheses
 <li> 12:34 mail.rhul.ac.uk</li>
 <li> 12:34 mail.google.com</li>
 <li class='same'> 12:33 mail.google.com</li>
-<li> 12:33 Local file</li>
-<li> 12:32 mail.google.com</li>
-<li> 12:32 gmail.com</li>
-<li> 12:23 Local file</li>
-<li> 12:23 www.qiq.support</li>
-<li> 12:22 qbo.intuit.com</li>
-<li> 12:22 c14.qbo.intuit.com</li>
-<li> 12:22 app.qbo.intuit.com</li>
-<li> 12:20 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 12:20 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 12:20 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 12:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 12:20 <a href="https://en.wikipedia.org/"></a></li>
-<li> 12:16 www.facebook.com</li>
-<li class='same'> 12:13 www.facebook.com</li>
-<li> 12:11 web.whatsapp.com</li>
-<li> 12:11 www.facebook.com</li>
 </ul>
