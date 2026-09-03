@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5385)</li>
-<li>mail.google.com (5335)</li>
+<ol><li>www.google.com (5386)</li>
+<li>mail.google.com (5337)</li>
 <li>www.reddit.com (5137)</li>
-<li>outlook.office365.com (4715)</li>
+<li>outlook.office365.com (4714)</li>
 <li>outlook.office.com (3993)</li>
 <li>duckduckgo.com (3840)</li>
 <li>docs.google.com (3296)</li>
-<li>chatgpt.com (2722)</li>
+<li>chatgpt.com (2723)</li>
 <li>www.linkedin.com (2360)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1876)</li>
@@ -83,14 +83,14 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1523)</li>
 <li>www.amazon.co.uk (1323)</li>
 <li>login.microsoftonline.com (1322)</li>
-<li>chat.openai.com (1298)</li>
+<li>chat.openai.com (1299)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1153)</li>
-<li>gmail.com (1135)</li>
-<li>mail.rhul.ac.uk (1014)</li>
+<li>gmail.com (1136)</li>
+<li>mail.rhul.ac.uk (1013)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (860)</li>
-<li>feedly.com (791)</li>
+<li>feedly.com (792)</li>
 <li>forms.office.com (784)</li>
 <li>www.theguardian.com (584)</li>
 <li>fritz.box (574)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:28 newsthump.com</li>
+<ul><li> 19:27 us06web.zoom.us</li>
+<li> 19:27 www.google.com</li>
+<li> 19:27 mail.google.com</li>
+<li class='same'> 19:26 mail.google.com</li>
+<li> 19:26 gmail.com</li>
+<li> 19:26 fast.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:37 feedly.com</li>
+<li> 17:36 fast.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:32 chatgpt.com</li>
+<li> 16:32 chat.openai.com</li>
+<li> 16:31 ico.org.uk</li>
+<li> 16:30 mail.google.com</li>
+<li class='same'> 16:29 mail.google.com</li>
+<li> 16:28 newsthump.com</li>
 <li> 16:24 www.linkedin.com</li>
 <li> 16:24 calendar.google.com</li>
 <li class='same'> 16:22 calendar.google.com</li>
@@ -124104,8 +124125,4 @@ With number of accesses/minutes in parentheses
 <li> 12:35 welcome.cim.rhul.ac.uk</li>
 <li> 12:35 outlook.office.com</li>
 <li> 12:35 outlook.office365.com</li>
-<li class='same'> 12:34 outlook.office365.com</li>
-<li> 12:34 mail.rhul.ac.uk</li>
-<li> 12:34 mail.google.com</li>
-<li class='same'> 12:33 mail.google.com</li>
 </ul>
