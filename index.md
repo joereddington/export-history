@@ -69,19 +69,19 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5387)</li>
-<li>mail.google.com (5340)</li>
+<li>mail.google.com (5335)</li>
 <li>www.reddit.com (5132)</li>
 <li>outlook.office365.com (4716)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3838)</li>
-<li>docs.google.com (3290)</li>
+<li>duckduckgo.com (3839)</li>
+<li>docs.google.com (3296)</li>
 <li>chatgpt.com (2719)</li>
 <li>www.linkedin.com (2359)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1880)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
-<li>calendar.google.com (1525)</li>
-<li>www.amazon.co.uk (1324)</li>
+<li>calendar.google.com (1523)</li>
+<li>www.amazon.co.uk (1323)</li>
 <li>login.microsoftonline.com (1322)</li>
 <li>chat.openai.com (1297)</li>
 <li>herts.instructure.com (1231)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:26 calendar.google.com</li>
+<ul><li> 14:59 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 14:57 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 14:56 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 14:55 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 14:54 webtimetables.royalholloway.ac.uk</li>
+<li> 14:54 find-and-update.company-information.service.gov.uk</li>
+<li> 14:54 duckduckgo.com</li>
+<li> 14:41 docs.google.com</li>
+<li class='same'> 14:40 docs.google.com</li>
+<li class='same'> 14:39 docs.google.com</li>
+<li class='same'> 14:38 docs.google.com</li>
+<li class='same'> 14:37 docs.google.com</li>
+<li class='same'> 14:36 docs.google.com</li>
+<li> 14:36 calendar.google.com</li>
+<li> 14:32 dashboards.rhul.ac.uk</li>
+<li class='same'> 14:31 dashboards.rhul.ac.uk</li>
+<li> 14:31 www.cs.rhul.ac.uk</li>
+<li> 14:26 calendar.google.com</li>
 <li> 14:24 royalholloway.akarisoftware.com</li>
 <li> 14:24 login.microsoftonline.com</li>
 <li> 14:24 device.login.microsoftonline.com</li>
@@ -124086,16 +124103,4 @@ With number of accesses/minutes in parentheses
 <li> 10:15 ppcapp.ebay.co.uk</li>
 <li class='same'> 10:14 ppcapp.ebay.co.uk</li>
 <li> 10:14 signin.ebay.co.uk</li>
-<li> 10:14 ppcapp.ebay.co.uk</li>
-<li> 10:14 accountsettings.ebay.co.uk</li>
-<li> 10:14 www.ebay.co.uk</li>
-<li> 10:13 mail.google.com</li>
-<li> 10:13 calendar.google.com</li>
-<li class='same'> 10:11 calendar.google.com</li>
-<li> 10:11 mail.google.com</li>
-<li class='same'> 10:10 mail.google.com</li>
-<li class='same'> 10:09 mail.google.com</li>
-<li> 10:09 calendar.google.com</li>
-<li> 10:08 www.amazon.co.uk</li>
-<li> 10:08 mail.google.com</li>
 </ul>
