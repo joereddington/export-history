@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (791)</li>
 <li>forms.office.com (784)</li>
 <li>www.theguardian.com (585)</li>
-<li>fritz.box (573)</li>
+<li>fritz.box (574)</li>
 <li>rhul.sharepoint.com (546)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 02/09/26</H3>
+
+<br>
+
+<ul><li> 20:42 192.168.178.1</li>
+<li class='same'> 20:41 192.168.178.1</li>
+<li class='same'> 20:40 192.168.178.1</li>
+<li> 20:40 127.0.0.1:8000</li>
+<li class='same'> 20:39 127.0.0.1:8000</li>
+<li> 20:38 fritz.box</li>
+<li> 20:38 detectportal.firefox.com</li>
+</ul>
 
 <br>
 
