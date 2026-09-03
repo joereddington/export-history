@@ -69,24 +69,24 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5385)</li>
-<li>mail.google.com (5334)</li>
-<li>www.reddit.com (5135)</li>
+<li>mail.google.com (5331)</li>
+<li>www.reddit.com (5137)</li>
 <li>outlook.office365.com (4715)</li>
 <li>outlook.office.com (3993)</li>
 <li>duckduckgo.com (3839)</li>
 <li>docs.google.com (3296)</li>
-<li>chatgpt.com (2719)</li>
-<li>www.linkedin.com (2358)</li>
+<li>chatgpt.com (2722)</li>
+<li>www.linkedin.com (2357)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1880)</li>
+<li>www.facebook.com (1879)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>calendar.google.com (1521)</li>
 <li>www.amazon.co.uk (1323)</li>
 <li>login.microsoftonline.com (1322)</li>
-<li>chat.openai.com (1297)</li>
+<li>chat.openai.com (1298)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1154)</li>
-<li>gmail.com (1136)</li>
+<li>gmail.com (1135)</li>
 <li>mail.rhul.ac.uk (1014)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (860)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:29 www.reddit.com</li>
+<ul><li> 15:57 chatgpt.com</li>
+<li> 15:53 fast.com</li>
+<li> 15:53 chatgpt.com</li>
+<li class='same'> 15:52 chatgpt.com</li>
+<li> 15:52 chat.openai.com</li>
+<li> 15:38 www.reddit.com</li>
+<li class='same'> 15:34 www.reddit.com</li>
+<li class='same'> 15:33 www.reddit.com</li>
+<li class='same'> 15:31 www.reddit.com</li>
+<li class='same'> 15:29 www.reddit.com</li>
 <li class='same'> 15:28 www.reddit.com</li>
 <li class='same'> 15:26 www.reddit.com</li>
 <li class='same'> 15:25 www.reddit.com</li>
@@ -124079,19 +124088,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:13 www.facebook.com</li>
 <li> 12:11 web.whatsapp.com</li>
 <li> 12:11 www.facebook.com</li>
-<li class='same'> 12:10 www.facebook.com</li>
-<li> 12:07 www.reddit.com</li>
-<li class='same'> 12:06 www.reddit.com</li>
-<li> 12:05 www.linkedin.com</li>
-<li> 11:58 mail.google.com</li>
-<li class='same'> 11:51 mail.google.com</li>
-<li class='same'> 11:49 mail.google.com</li>
-<li> 11:49 gmail.com</li>
-<li> 11:42 www.natwest.com</li>
-<li> 11:31 www.onlinebanking.natwest.com</li>
-<li> 11:31 www.natwest.com</li>
-<li> 11:30 qbo.intuit.com</li>
-<li class='same'> 11:29 qbo.intuit.com</li>
-<li class='same'> 11:28 qbo.intuit.com</li>
-<li> 11:28 accounts.intuit.com</li>
 </ul>
