@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5391)</li>
-<li>mail.google.com (5348)</li>
+<li>mail.google.com (5347)</li>
 <li>www.reddit.com (5132)</li>
 <li>outlook.office365.com (4708)</li>
 <li>outlook.office.com (3994)</li>
 <li>duckduckgo.com (3836)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2709)</li>
-<li>www.linkedin.com (2361)</li>
+<li>chatgpt.com (2711)</li>
+<li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1881)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
-<li>calendar.google.com (1526)</li>
+<li>calendar.google.com (1527)</li>
 <li>www.amazon.co.uk (1320)</li>
 <li>login.microsoftonline.com (1318)</li>
-<li>chat.openai.com (1296)</li>
+<li>chat.openai.com (1297)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
 <li>gmail.com (1136)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:27 127.0.0.1:8000</li>
+<ul><li> 10:28 dashboards.rhul.ac.uk</li>
+<li> 10:16 www.cs.rhul.ac.uk</li>
+<li> 10:14 chatgpt.com</li>
+<li class='same'> 10:13 chatgpt.com</li>
+<li> 10:13 chat.openai.com</li>
+<li> 10:11 www.jobs.ac.uk</li>
+<li> 10:11 account.jobs.ac.uk</li>
+<li> 10:10 www.jobs.ac.uk</li>
+<li> 10:10 account.jobs.ac.uk</li>
+<li class='same'> 10:09 account.jobs.ac.uk</li>
+<li> 10:09 www.jobs.ac.uk</li>
+<li> 10:09 www.linkedin.com</li>
+<li class='same'> 10:08 www.linkedin.com</li>
+<li class='same'> 10:07 www.linkedin.com</li>
+<li> 10:06 <a href="https://joereddington.com/2025/10/30/things-i-say-to-project-students.html">Things I say to project students | Joe Reddington</a></li>
+</ul>
+
+<br>
+
+<ul><li> 09:32 calendar.google.com</li>
+<li> 09:28 127.0.0.1:8000</li>
+<li class='same'> 09:27 127.0.0.1:8000</li>
 </ul>
 
 <H3>Wednesday, 02/09/26</H3>
@@ -124064,5 +124085,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 07:54 mail.google.com</li>
-<li class='same'> 07:53 mail.google.com</li>
 </ul>
