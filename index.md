@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5384)</li>
-<li>mail.google.com (5346)</li>
+<ol><li>www.google.com (5387)</li>
+<li>mail.google.com (5347)</li>
 <li>www.reddit.com (5132)</li>
-<li>outlook.office365.com (4709)</li>
+<li>outlook.office365.com (4716)</li>
 <li>outlook.office.com (3994)</li>
-<li>duckduckgo.com (3837)</li>
+<li>duckduckgo.com (3838)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2717)</li>
+<li>chatgpt.com (2718)</li>
 <li>www.linkedin.com (2359)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1880)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
-<li>calendar.google.com (1529)</li>
-<li>www.amazon.co.uk (1327)</li>
-<li>login.microsoftonline.com (1319)</li>
+<li>calendar.google.com (1528)</li>
+<li>www.amazon.co.uk (1324)</li>
+<li>login.microsoftonline.com (1320)</li>
 <li>chat.openai.com (1297)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1156)</li>
-<li>gmail.com (1137)</li>
+<li>gmail.com (1136)</li>
 <li>mail.rhul.ac.uk (1015)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (860)</li>
@@ -105,6 +105,42 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 03/09/26</H3>
+
+<br>
+
+<ul><li> 13:29 chatgpt.com</li>
+<li> 13:28 us-east-1.console.aws.amazon.com</li>
+<li class='same'> 13:27 us-east-1.console.aws.amazon.com</li>
+<li> 13:27 signin.aws.amazon.com</li>
+<li> 13:27 us-east-1.console.aws.amazon.com</li>
+<li> 13:27 www.google.com</li>
+<li> 13:27 console.aws.amazon.com</li>
+<li> 13:26 mail.google.com</li>
+<li> 13:26 mymobile2.o2.co.uk</li>
+<li> 13:26 oauth.virginmediao2.co.uk</li>
+<li> 13:26 oauth.virginmedia.com</li>
+<li> 13:26 mymobile2.o2.co.uk</li>
+<li class='same'> 13:25 mymobile2.o2.co.uk</li>
+<li> 13:25 identity.o2.co.uk</li>
+<li> 13:25 accounts.o2.co.uk</li>
+<li> 13:25 www.google.com</li>
+<li> 13:25 auth.virginmediao2.co.uk</li>
+<li> 13:25 mail.google.com</li>
+<li> 13:24 oauth.virginmediao2.co.uk</li>
+<li> 13:24 notlongnow.o2.co.uk</li>
+<li> 13:24 mymobile2.o2.co.uk</li>
+<li> 13:24 identity.o2.co.uk</li>
+<li> 13:24 accounts.o2.co.uk</li>
+<li> 13:24 identity.o2.co.uk</li>
+<li> 13:24 notlongnow.o2.co.uk</li>
+<li> 13:24 mymobile2.o2.co.uk</li>
+<li> 13:24 mail.google.com</li>
+<li> 13:20 duckduckgo.com</li>
+<li> 13:17 www.sporcle.com</li>
+<li> 13:05 www.google.com</li>
+<li> 13:04 outlook.office365.com</li>
+<li class='same'> 12:46 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -162,6 +198,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:27 127.0.0.1:8000</li>
 </ul>
 
+<br>
+
+<ul><li> 07:25 outlook.office365.com</li>
+<li class='same'> 07:24 outlook.office365.com</li>
+</ul>
+
 <H3>Wednesday, 02/09/26</H3>
 
 <br>
@@ -178,6 +220,16 @@ With number of accesses/minutes in parentheses
 <li class='same'> 20:39 127.0.0.1:8000</li>
 <li> 20:38 fritz.box</li>
 <li> 20:38 detectportal.firefox.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:47 outlook.office365.com</li>
+<li class='same'> 19:46 outlook.office365.com</li>
+<li> 19:46 device.login.microsoftonline.com</li>
+<li> 19:45 login.microsoftonline.com</li>
+<li> 19:45 outlook.office365.com</li>
+<li> 19:45 www.giantitp.com</li>
 </ul>
 
 <br>
@@ -262,7 +314,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
+<ul><li> 18:36 www.giantitp.com</li>
+<li> 18:36 www.natesilver.net</li>
+<li class='same'> 18:35 www.natesilver.net</li>
+<li> 18:34 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 <li> 18:24 m.youtube.com</li>
 <li class='same'> 18:19 m.youtube.com</li>
 <li> 18:19 www.google.com</li>
@@ -124050,14 +124105,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:47 mail.google.com</li>
 <li> 09:47 calendar.google.com</li>
 <li> 09:47 mail.google.com</li>
-<li class='same'> 09:46 mail.google.com</li>
-<li> 09:46 www.amazon.co.uk</li>
-<li> 09:46 mail.google.com</li>
-<li> 09:46 gmail.com</li>
-<li> 09:46 www.amazon.co.uk</li>
-<li class='same'> 09:45 www.amazon.co.uk</li>
-<li> 09:44 www.qiq.support</li>
-<li> 09:42 calendar.google.com</li>
-<li> 09:39 claude.ai</li>
-<li class='same'> 09:38 claude.ai</li>
 </ul>
