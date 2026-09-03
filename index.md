@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5391)</li>
+<ol><li>www.google.com (5390)</li>
 <li>mail.google.com (5347)</li>
 <li>www.reddit.com (5132)</li>
 <li>outlook.office365.com (4708)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3836)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2711)</li>
-<li>www.linkedin.com (2364)</li>
+<li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1881)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1136)</li>
 <li>mail.rhul.ac.uk (1014)</li>
 <li>tvtropes.org (887)</li>
-<li>rhul-my.sharepoint.com (862)</li>
+<li>rhul-my.sharepoint.com (860)</li>
 <li>feedly.com (791)</li>
 <li>forms.office.com (784)</li>
 <li>www.theguardian.com (585)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:28 dashboards.rhul.ac.uk</li>
+<ul><li> 10:50 webtimetables.royalholloway.ac.uk</li>
+<li> 10:28 dashboards.rhul.ac.uk</li>
 <li> 10:16 www.cs.rhul.ac.uk</li>
 <li> 10:14 chatgpt.com</li>
 <li class='same'> 10:13 chatgpt.com</li>
@@ -11649,15 +11650,13 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 19:34 www.paypal.com</li>
 <li> 19:33 www.zoom.com</li>
-<li> 19:33 us06web.zoom.us</li>
 <li> 19:29 www.paypal.com</li>
 <li class='same'> 19:28 www.paypal.com</li>
 <li> 19:28 mail.google.com</li>
 <li> 19:28 us06web.zoom.us</li>
 <li> 19:28 www.google.com</li>
 <li> 19:28 us06web.zoom.us</li>
-<li> 19:28 www.google.com</li>
-<li class='same'> 19:27 www.google.com</li>
+<li> 19:27 www.google.com</li>
 <li> 19:27 mail.google.com</li>
 <li> 19:27 gmail.com</li>
 <li> 19:22 rhul.sharepoint.com</li>
@@ -11742,7 +11741,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:24 mail.google.com</li>
 <li> 16:24 gmail.com</li>
 <li> 16:23 www.linkedin.com</li>
-<li class='same'> 16:22 www.linkedin.com</li>
 <li class='same'> 16:21 www.linkedin.com</li>
 </ul>
 
@@ -11771,9 +11769,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:43 rhul-my.sharepoint.com</li>
-<li> 12:41 rhul.sharepoint.com</li>
-<li> 12:39 rhul-my.sharepoint.com</li>
+<ul><li> 12:41 rhul.sharepoint.com</li>
 <li> 12:39 feedly.com</li>
 <li> 12:39 mail.google.com</li>
 <li class='same'> 12:38 mail.google.com</li>
