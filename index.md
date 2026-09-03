@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5386)</li>
+<ol><li>www.google.com (5384)</li>
 <li>mail.google.com (5346)</li>
 <li>www.reddit.com (5132)</li>
 <li>outlook.office365.com (4709)</li>
@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3837)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2717)</li>
-<li>www.linkedin.com (2363)</li>
+<li>www.linkedin.com (2359)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1880)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
@@ -124060,24 +124060,4 @@ With number of accesses/minutes in parentheses
 <li> 09:42 calendar.google.com</li>
 <li> 09:39 claude.ai</li>
 <li class='same'> 09:38 claude.ai</li>
-<li> 09:35 www.linkedin.com</li>
-<li class='same'> 09:34 www.linkedin.com</li>
-<li class='same'> 09:31 www.linkedin.com</li>
-<li class='same'> 09:30 www.linkedin.com</li>
-<li> 09:23 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 09:23 www.google.com</li>
-<li> 09:21 <a href="https://en.wikipedia.org/wiki/Talk:Computer_security">Talk:Computer security - Wikipedia</a></li>
-<li> 09:21 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
-<li> 09:20 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security&amp;diff=1251271611&amp;oldid=1249156597">Computer security: Difference between revisions - Wikipedia</a></li>
-<li> 09:20 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security&amp;diff=1251271611&amp;oldid=1251271298">Computer security: Difference between revisions - Wikipedia</a></li>
-<li> 09:20 <a href="https://en.wikipedia.org/w/index.php?title=Computer_security&amp;action=history">Computer security: Revision history - Wikipedia</a></li>
-<li> 09:20 <a href="https://en.wikipedia.org/wiki/Computer_security">Computer security - Wikipedia</a></li>
-<li> 09:20 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 09:20 www.google.com</li>
-<li> 09:18 www.tvlicensing.co.uk</li>
-<li> 09:17 <a href="https://en.wikipedia.org/wiki/Matrix_defense">Matrix defense - Wikipedia</a></li>
-<li> 09:17 <a href="https://en.wikipedia.org/wiki/The_Matrix_defense">Matrix defense - Wikipedia</a></li>
-<li> 09:16 <a href="https://en.wikipedia.org/wiki/Succ%C3%A8s_de_scandale">Succès de scandale - Wikipedia</a></li>
-<li> 09:15 <a href="https://en.wikipedia.org/wiki/Internet_water_army">Internet water army - Wikipedia</a></li>
-<li> 09:15 <a href="https://en.wikipedia.org/wiki/Category:Public_relations_techniques">Category:Public relations techniques - Wikipedia</a></li>
 </ul>
