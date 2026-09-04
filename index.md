@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5390)</li>
+<ol><li>www.google.com (5388)</li>
 <li>mail.google.com (5338)</li>
 <li>www.reddit.com (5137)</li>
-<li>outlook.office365.com (4710)</li>
+<li>outlook.office365.com (4708)</li>
 <li>outlook.office.com (3992)</li>
 <li>duckduckgo.com (3841)</li>
 <li>docs.google.com (3296)</li>
@@ -82,19 +82,19 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1801)</li>
 <li>calendar.google.com (1523)</li>
 <li>www.amazon.co.uk (1323)</li>
-<li>login.microsoftonline.com (1322)</li>
+<li>login.microsoftonline.com (1320)</li>
 <li>chat.openai.com (1299)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1153)</li>
 <li>gmail.com (1136)</li>
 <li>mail.rhul.ac.uk (1013)</li>
 <li>tvtropes.org (887)</li>
-<li>rhul-my.sharepoint.com (859)</li>
+<li>rhul-my.sharepoint.com (858)</li>
 <li>feedly.com (792)</li>
 <li>forms.office.com (783)</li>
 <li>www.theguardian.com (584)</li>
 <li>fritz.box (574)</li>
-<li>rhul.sharepoint.com (546)</li>
+<li>rhul.sharepoint.com (545)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
@@ -11813,15 +11813,11 @@ With number of accesses/minutes in parentheses
 <li> 09:57 www.sentinelone.com</li>
 <li> 09:57 duckduckgo.com</li>
 <li> 09:46 rhul-my.sharepoint.com</li>
-<li> 09:46 login.microsoftonline.com</li>
-<li> 09:46 rhul-my.sharepoint.com</li>
 <li> 09:40 rhul.sharepoint.com</li>
 <li class='same'> 09:39 rhul.sharepoint.com</li>
 <li class='same'> 09:36 rhul.sharepoint.com</li>
 <li class='same'> 09:35 rhul.sharepoint.com</li>
 <li class='same'> 09:34 rhul.sharepoint.com</li>
-<li> 09:34 login.microsoftonline.com</li>
-<li> 09:34 rhul.sharepoint.com</li>
 <li class='same'> 09:33 rhul.sharepoint.com</li>
 <li class='same'> 09:30 rhul.sharepoint.com</li>
 <li class='same'> 09:29 rhul.sharepoint.com</li>
@@ -124131,14 +124127,4 @@ With number of accesses/minutes in parentheses
 <li> 12:59 www.google.com</li>
 <li> 12:58 web.whatsapp.com</li>
 <li> 12:58 www.reddit.com</li>
-<li> 12:58 www.google.com</li>
-<li> 12:58 megaphone.upworthy.com</li>
-<li> 12:57 www.thepinknews.com</li>
-<li> 12:57 www.google.com</li>
-<li> 12:48 outlook.office365.com</li>
-<li class='same'> 12:47 outlook.office365.com</li>
-<li> 12:45 banner.jcu.edu</li>
-<li> 12:45 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li class='same'> 12:44 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 12:44 eis-prod.ec.royalholloway.ac.uk</li>
 </ul>
