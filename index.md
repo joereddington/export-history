@@ -75,12 +75,12 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3989)</li>
 <li>duckduckgo.com (3847)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2731)</li>
+<li>chatgpt.com (2732)</li>
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1870)</li>
 <li>moodle.royalholloway.ac.uk (1804)</li>
-<li>calendar.google.com (1526)</li>
+<li>calendar.google.com (1527)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>login.microsoftonline.com (1319)</li>
 <li>chat.openai.com (1300)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<ul><li> 16:33 newsthump.com</li>
+<li> 16:30 calendar.google.com</li>
+<li> 16:29 chatgpt.com</li>
+<li> 16:29 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 16:25 www.linkedin.com</li>
 <li class='same'> 16:24 www.linkedin.com</li>
 <li> 16:18 www.civilservicejobs.service.gov.uk</li>
