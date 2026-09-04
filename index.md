@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5390)</li>
-<li>mail.google.com (5337)</li>
+<li>mail.google.com (5338)</li>
 <li>www.reddit.com (5137)</li>
-<li>outlook.office365.com (4712)</li>
+<li>outlook.office365.com (4710)</li>
 <li>outlook.office.com (3992)</li>
 <li>duckduckgo.com (3841)</li>
 <li>docs.google.com (3296)</li>
@@ -89,9 +89,9 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1136)</li>
 <li>mail.rhul.ac.uk (1013)</li>
 <li>tvtropes.org (887)</li>
-<li>rhul-my.sharepoint.com (860)</li>
+<li>rhul-my.sharepoint.com (859)</li>
 <li>feedly.com (792)</li>
-<li>forms.office.com (784)</li>
+<li>forms.office.com (783)</li>
 <li>www.theguardian.com (584)</li>
 <li>fritz.box (574)</li>
 <li>rhul.sharepoint.com (546)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 04/09/26</H3>
+
+<br>
+
+<ul><li> 09:11 mail.google.com</li>
+</ul>
+
 <H3>Thursday, 03/09/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -11818,11 +11829,9 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:24 chatgpt.com</li>
 <li class='same'> 09:23 chatgpt.com</li>
 <li> 09:23 chat.openai.com</li>
-<li> 09:21 rhul-my.sharepoint.com</li>
 <li> 09:17 forms.office.com</li>
 <li> 09:17 login.microsoftonline.com</li>
-<li> 09:17 forms.office.com</li>
-<li class='same'> 09:16 forms.office.com</li>
+<li> 09:16 forms.office.com</li>
 <li> 09:02 www.facebook.com</li>
 <li> 09:02 <a href="https://www.bbc.co.uk/news/articles/c7752znyle6o">Home - BBC News</a></li>
 <li> 09:01 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
@@ -124132,11 +124141,4 @@ With number of accesses/minutes in parentheses
 <li> 12:45 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li class='same'> 12:44 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 12:44 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 12:44 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 12:44 experience.elluciancloud.ie</li>
-<li> 12:43 outlook.office365.com</li>
-<li class='same'> 12:42 outlook.office365.com</li>
-<li> 12:37 experience.elluciancloud.ie</li>
-<li> 12:37 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 12:37 experience.elluciancloud.ie</li>
 </ul>
