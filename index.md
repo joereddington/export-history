@@ -73,7 +73,7 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (5136)</li>
 <li>outlook.office365.com (4706)</li>
 <li>outlook.office.com (3991)</li>
-<li>duckduckgo.com (3841)</li>
+<li>duckduckgo.com (3842)</li>
 <li>docs.google.com (3298)</li>
 <li>chatgpt.com (2723)</li>
 <li>www.linkedin.com (2360)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (783)</li>
 <li>www.theguardian.com (584)</li>
 <li>fritz.box (574)</li>
-<li>rhul.sharepoint.com (544)</li>
+<li>rhul.sharepoint.com (545)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 04/09/26</H3>
+
+<br>
+
+<ul><li> 13:29 rhul.sharepoint.com</li>
+<li> 13:29 duckduckgo.com</li>
+</ul>
 
 <br>
 
