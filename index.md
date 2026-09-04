@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5388)</li>
-<li>mail.google.com (5338)</li>
-<li>www.reddit.com (5137)</li>
-<li>outlook.office365.com (4708)</li>
-<li>outlook.office.com (3992)</li>
+<ol><li>www.google.com (5385)</li>
+<li>mail.google.com (5344)</li>
+<li>www.reddit.com (5136)</li>
+<li>outlook.office365.com (4706)</li>
+<li>outlook.office.com (3991)</li>
 <li>duckduckgo.com (3841)</li>
-<li>docs.google.com (3296)</li>
+<li>docs.google.com (3298)</li>
 <li>chatgpt.com (2723)</li>
 <li>www.linkedin.com (2360)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1876)</li>
-<li>moodle.royalholloway.ac.uk (1801)</li>
+<li>moodle.royalholloway.ac.uk (1803)</li>
 <li>calendar.google.com (1523)</li>
 <li>www.amazon.co.uk (1323)</li>
 <li>login.microsoftonline.com (1320)</li>
 <li>chat.openai.com (1299)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1153)</li>
-<li>gmail.com (1136)</li>
+<li>web.whatsapp.com (1152)</li>
+<li>gmail.com (1137)</li>
 <li>mail.rhul.ac.uk (1013)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (858)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (783)</li>
 <li>www.theguardian.com (584)</li>
 <li>fritz.box (574)</li>
-<li>rhul.sharepoint.com (545)</li>
+<li>rhul.sharepoint.com (544)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
@@ -105,6 +105,27 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 04/09/26</H3>
+
+<br>
+
+<ul><li> 10:59 moodle.royalholloway.ac.uk</li>
+<li> 10:59 login.microsoftonline.com</li>
+<li> 10:59 device.login.microsoftonline.com</li>
+<li> 10:58 moodle.royalholloway.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 10:14 mail.google.com</li>
+<li class='same'> 10:13 mail.google.com</li>
+<li> 10:13 docs.google.com</li>
+<li class='same'> 10:12 docs.google.com</li>
+<li> 10:12 mail.google.com</li>
+<li class='same'> 10:11 mail.google.com</li>
+<li class='same'> 10:10 mail.google.com</li>
+<li class='same'> 10:09 mail.google.com</li>
+<li> 10:09 gmail.com</li>
+</ul>
 
 <br>
 
@@ -11706,7 +11727,6 @@ With number of accesses/minutes in parentheses
 <li> 16:02 login.microsoftonline.com</li>
 <li> 16:02 forms.office.com</li>
 <li> 16:01 outlook.cloud.microsoft</li>
-<li> 16:01 login.microsoftonline.com</li>
 <li> 16:01 outlook.office365.com</li>
 <li> 16:01 outlook.cloud.microsoft</li>
 <li> 16:01 mail.rhul.ac.uk</li>
@@ -11717,8 +11737,7 @@ With number of accesses/minutes in parentheses
 <li> 16:01 office.com</li>
 <li> 16:01 login.microsoftonline.com</li>
 <li> 16:01 forms.rhul.ac.uk</li>
-<li> 15:56 rhul.sharepoint.com</li>
-<li class='same'> 15:55 rhul.sharepoint.com</li>
+<li> 15:55 rhul.sharepoint.com</li>
 <li class='same'> 15:41 rhul.sharepoint.com</li>
 <li> 15:40 myview.rhul.zellis.com</li>
 <li> 15:40 login.microsoftonline.com</li>
@@ -11771,8 +11790,7 @@ With number of accesses/minutes in parentheses
 <li> 12:50 getsupport.apple.com</li>
 <li class='same'> 12:49 getsupport.apple.com</li>
 <li class='same'> 12:48 getsupport.apple.com</li>
-<li> 12:47 idmsa.apple.com</li>
-<li> 12:47 getsupport.apple.com</li>
+<li class='same'> 12:47 getsupport.apple.com</li>
 <li class='same'> 12:46 getsupport.apple.com</li>
 <li> 12:46 www.apple.com</li>
 <li> 12:46 duckduckgo.com</li>
@@ -124111,20 +124129,4 @@ With number of accesses/minutes in parentheses
 <li> 13:19 www.google.com</li>
 <li> 13:18 padlet.com</li>
 <li class='same'> 13:17 padlet.com</li>
-<li class='same'> 13:13 padlet.com</li>
-<li> 13:11 projects.cs.rhul.ac.uk</li>
-<li> 13:11 outlook.office.com</li>
-<li> 13:11 outlook.office365.com</li>
-<li> 13:10 www.royalholloway.ac.uk</li>
-<li class='same'> 13:09 www.royalholloway.ac.uk</li>
-<li> 13:08 intranet.royalholloway.ac.uk</li>
-<li> 13:08 theorg.com</li>
-<li> 13:08 www.google.com</li>
-<li> 13:06 outlook.office365.com</li>
-<li> 13:04 www.royalholloway.ac.uk</li>
-<li> 13:04 www.google.com</li>
-<li> 13:00 teams.microsoft.com</li>
-<li> 12:59 www.google.com</li>
-<li> 12:58 web.whatsapp.com</li>
-<li> 12:58 www.reddit.com</li>
 </ul>
