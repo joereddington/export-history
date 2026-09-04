@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5380)</li>
-<li>mail.google.com (5345)</li>
-<li>www.reddit.com (5135)</li>
-<li>outlook.office365.com (4706)</li>
-<li>outlook.office.com (3990)</li>
-<li>duckduckgo.com (3842)</li>
+<ol><li>www.google.com (5376)</li>
+<li>mail.google.com (5344)</li>
+<li>www.reddit.com (5122)</li>
+<li>outlook.office365.com (4694)</li>
+<li>outlook.office.com (3989)</li>
+<li>duckduckgo.com (3844)</li>
 <li>docs.google.com (3298)</li>
 <li>chatgpt.com (2724)</li>
-<li>www.linkedin.com (2364)</li>
+<li>www.linkedin.com (2362)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1876)</li>
-<li>moodle.royalholloway.ac.uk (1803)</li>
+<li>www.facebook.com (1870)</li>
+<li>moodle.royalholloway.ac.uk (1804)</li>
 <li>calendar.google.com (1525)</li>
-<li>www.amazon.co.uk (1326)</li>
+<li>www.amazon.co.uk (1328)</li>
 <li>login.microsoftonline.com (1319)</li>
 <li>chat.openai.com (1300)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1152)</li>
-<li>gmail.com (1137)</li>
-<li>mail.rhul.ac.uk (1013)</li>
+<li>gmail.com (1135)</li>
+<li>mail.rhul.ac.uk (1010)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (856)</li>
-<li>feedly.com (795)</li>
+<li>feedly.com (794)</li>
 <li>forms.office.com (783)</li>
-<li>www.theguardian.com (584)</li>
+<li>www.theguardian.com (581)</li>
 <li>fritz.box (574)</li>
 <li>rhul.sharepoint.com (547)</li>
 <li>m365.cloud.microsoft (543)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:23 chatgpt.com</li>
+<ul><li> 14:57 moodle.royalholloway.ac.uk</li>
+<li> 14:37 duckduckgo.com</li>
+<li> 14:32 cim.rhul.ac.uk</li>
+<li> 14:32 duckduckgo.com</li>
+<li> 14:31 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:31 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 14:31 www.amazon.co.uk</li>
+<li class='same'> 14:30 www.amazon.co.uk</li>
+<li> 14:25 <a href="https://joereddington.com/2020/09/18/dayssince.html">I have about 16,000 days left before I die | Joe Reddington</a></li>
+<li> 14:24 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 14:23 chatgpt.com</li>
 <li class='same'> 14:22 chatgpt.com</li>
 <li> 14:22 chat.openai.com</li>
 <li> 14:21 www.amazon.co.uk</li>
@@ -124054,80 +124064,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:55 www.theguardian.com</li>
 <li> 17:26 mail.google.com</li>
 <li class='same'> 17:25 mail.google.com</li>
-<li> 17:25 gmail.com</li>
-<li> 17:23 deeplibby.com</li>
-<li> 17:23 libbyapp.com</li>
-<li class='same'> 17:22 libbyapp.com</li>
-<li> 17:22 deeplibby.com</li>
-<li> 17:22 www.reddit.com</li>
-<li class='same'> 17:21 www.reddit.com</li>
-<li class='same'> 17:20 www.reddit.com</li>
-<li> 17:20 www.askewsandholts.com</li>
-<li> 17:20 www.google.com</li>
-<li> 17:20 search.worldcat.org</li>
-<li class='same'> 17:19 search.worldcat.org</li>
-<li class='same'> 17:18 search.worldcat.org</li>
-<li class='same'> 17:17 search.worldcat.org</li>
-<li> 17:16 www.reddit.com</li>
-<li class='same'> 17:15 www.reddit.com</li>
-<li class='same'> 17:14 www.reddit.com</li>
-<li> 17:14 www.google.com</li>
-<li> 17:14 outlook.office365.com</li>
-<li class='same'> 17:13 outlook.office365.com</li>
-<li class='same'> 17:12 outlook.office365.com</li>
-<li> 17:12 www.giantitp.com</li>
-<li> 17:12 outlook.office365.com</li>
-<li class='same'> 17:11 outlook.office365.com</li>
-<li class='same'> 17:10 outlook.office365.com</li>
-<li> 17:10 mail.rhul.ac.uk</li>
-<li> 17:01 www.facebook.com</li>
-<li class='same'> 17:00 www.facebook.com</li>
-<li> 17:00 outlook.office365.com</li>
-<li class='same'> 16:59 outlook.office365.com</li>
-<li> 16:59 mail.rhul.ac.uk</li>
-<li> 16:58 www.linkedin.com</li>
-<li> 16:45 www.theguardian.com</li>
-<li> 16:27 www.ign.com</li>
-<li> 16:27 www.google.com</li>
-<li> 16:24 www.npr.org</li>
-<li> 16:23 www.menshealth.com</li>
-</ul>
-
-<br>
-
-<ul><li> 15:25 outlook.office365.com</li>
-<li class='same'> 15:22 outlook.office365.com</li>
-<li class='same'> 15:02 outlook.office365.com</li>
-<li> 14:58 www.facebook.com</li>
-<li class='same'> 14:57 www.facebook.com</li>
-<li class='same'> 14:56 www.facebook.com</li>
-<li class='same'> 14:55 www.facebook.com</li>
-<li> 14:45 projects.cs.rhul.ac.uk</li>
-<li> 14:45 outlook.office.com</li>
-<li> 14:45 outlook.office365.com</li>
-<li> 14:45 mail.rhul.ac.uk</li>
-<li> 14:43 www.theguardian.com</li>
-<li> 14:42 www.giantitp.com</li>
-<li> 14:42 mail.google.com</li>
-<li> 14:42 gmail.com</li>
-<li> 14:41 www.linkedin.com</li>
-<li> 14:41 www.schneier.com</li>
-<li> 14:39 feedly.com</li>
-<li> 14:39 www.google.com</li>
-<li> 14:37 www.theguardian.com</li>
-<li> 14:36 <a href="https://en.wikipedia.org/wiki/Sharon_Carter_(Marvel_Cinematic_Universe)">Sharon Carter (Marvel Cinematic Universe) - Wikipedia</a></li>
-<li> 14:36 <a href="https://en.wikipedia.org/wiki/Power_Broker_(Marvel_Cinematic_Universe)">Sharon Carter (Marvel Cinematic Universe) - Wikipedia</a></li>
-<li> 14:36 <a href="https://en.wikipedia.org/wiki/Power_Broker_(The_Falcon_and_the_Winter_Soldier)">Power Broker (The Falcon and the Winter Soldier) - Wikipedia</a></li>
-<li> 14:36 <a href="https://en.wikipedia.org/wiki/Talk:Power_Broker_(The_Falcon_and_the_Winter_Soldier)">Talk:Power Broker (The Falcon and the Winter Soldier) - Wikipedia</a></li>
-<li> 14:35 <a href="https://en.wikipedia.org/wiki/Power_Broker_(The_Falcon_and_the_Winter_Soldier)">Power Broker (The Falcon and the Winter Soldier) - Wikipedia</a></li>
-<li> 14:35 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 14:35 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 14:35 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 14:34 www.reddit.com</li>
-<li class='same'> 14:32 www.reddit.com</li>
-<li class='same'> 14:31 www.reddit.com</li>
-<li class='same'> 14:30 www.reddit.com</li>
-<li class='same'> 14:29 www.reddit.com</li>
-<li class='same'> 14:28 www.reddit.com</li>
-<li class='same'> 14:24 www.reddit.com</li>
 </ul>
