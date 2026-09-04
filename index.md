@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5385)</li>
-<li>mail.google.com (5344)</li>
-<li>www.reddit.com (5136)</li>
+<ol><li>www.google.com (5380)</li>
+<li>mail.google.com (5345)</li>
+<li>www.reddit.com (5135)</li>
 <li>outlook.office365.com (4706)</li>
-<li>outlook.office.com (3991)</li>
+<li>outlook.office.com (3990)</li>
 <li>duckduckgo.com (3842)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2723)</li>
-<li>www.linkedin.com (2362)</li>
+<li>chatgpt.com (2724)</li>
+<li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1876)</li>
 <li>moodle.royalholloway.ac.uk (1803)</li>
-<li>calendar.google.com (1523)</li>
-<li>www.amazon.co.uk (1323)</li>
-<li>login.microsoftonline.com (1320)</li>
-<li>chat.openai.com (1299)</li>
+<li>calendar.google.com (1525)</li>
+<li>www.amazon.co.uk (1326)</li>
+<li>login.microsoftonline.com (1319)</li>
+<li>chat.openai.com (1300)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1152)</li>
 <li>gmail.com (1137)</li>
 <li>mail.rhul.ac.uk (1013)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (856)</li>
-<li>feedly.com (793)</li>
+<li>feedly.com (795)</li>
 <li>forms.office.com (783)</li>
 <li>www.theguardian.com (584)</li>
 <li>fritz.box (574)</li>
@@ -108,7 +108,25 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:55 feedly.com</li>
+<ul><li> 14:23 chatgpt.com</li>
+<li class='same'> 14:22 chatgpt.com</li>
+<li> 14:22 chat.openai.com</li>
+<li> 14:21 www.amazon.co.uk</li>
+<li class='same'> 14:20 www.amazon.co.uk</li>
+<li class='same'> 14:19 www.amazon.co.uk</li>
+<li> 14:17 calendar.google.com</li>
+<li class='same'> 14:16 calendar.google.com</li>
+<li> 14:13 <a href="https://joereddington.com/2017/03/19/making-your-priority-list-actually-work/html">Making my priority list actually work. | Joe Reddington</a></li>
+<li> 14:10 mail.google.com</li>
+<li> 14:10 www.linkedin.com</li>
+<li class='same'> 14:09 www.linkedin.com</li>
+<li> 14:09 feedly.com</li>
+<li class='same'> 14:08 feedly.com</li>
+<li> 14:04 wonkhe.com</li>
+<li> 14:02 www.independent.co.uk</li>
+<li> 14:02 www.nhs.uk</li>
+<li> 13:58 theconversation.com</li>
+<li> 13:55 feedly.com</li>
 <li> 13:55 www.giantitp.com</li>
 <li> 13:47 www.linkedin.com</li>
 <li class='same'> 13:46 www.linkedin.com</li>
@@ -11677,8 +11695,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:27 www.google.com</li>
 <li> 19:26 www.marksandspencer.com</li>
 <li> 19:26 www.google.com</li>
-<li> 19:26 accounts.google.com</li>
-<li> 19:26 www.google.com</li>
 </ul>
 
 <br>
@@ -11714,8 +11730,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:46 mail.google.com</li>
 <li class='same'> 16:45 mail.google.com</li>
 <li class='same'> 16:44 mail.google.com</li>
-<li> 16:43 doc-0k-04-docstext.googleusercontent.com</li>
-<li class='same'> 16:42 doc-0k-04-docstext.googleusercontent.com</li>
 <li> 16:42 docs.google.com</li>
 <li> 16:42 drive.google.com</li>
 <li class='same'> 16:41 drive.google.com</li>
@@ -11731,9 +11745,6 @@ With number of accesses/minutes in parentheses
 <li> 16:31 gmail.com</li>
 <li> 16:22 www.linkedin.com</li>
 <li class='same'> 16:21 www.linkedin.com</li>
-<li> 16:06 chatgpt.com</li>
-<li> 16:06 login.microsoftonline.com</li>
-<li> 16:06 forms.cloud.microsoft</li>
 <li> 16:06 chatgpt.com</li>
 <li> 16:03 forms.office.com</li>
 <li class='same'> 16:02 forms.office.com</li>
@@ -124119,25 +124130,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:29 www.reddit.com</li>
 <li class='same'> 14:28 www.reddit.com</li>
 <li class='same'> 14:24 www.reddit.com</li>
-<li class='same'> 14:22 www.reddit.com</li>
-<li> 14:08 accounts.intuit.com</li>
-<li> 14:08 qbo.intuit.com</li>
-<li> 13:59 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
-<li> 13:57 www.royalholloway.ac.uk</li>
-<li> 13:57 pure.royalholloway.ac.uk</li>
-<li> 13:57 www.google.com</li>
-<li> 13:57 pure.royalholloway.ac.uk</li>
-<li> 13:57 www.google.com</li>
-<li> 13:56 pure.royalholloway.ac.uk</li>
-<li> 13:56 www.google.com</li>
-<li> 13:48 padlet.com</li>
-<li class='same'> 13:43 padlet.com</li>
-<li> 13:36 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 13:36 experience.elluciancloud.ie</li>
-<li> 13:27 padlet.com</li>
-<li> 13:23 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
-<li> 13:21 outlook.office.com</li>
-<li> 13:20 padlet.com</li>
-<li class='same'> 13:19 padlet.com</li>
-<li> 13:19 www.google.com</li>
 </ul>
