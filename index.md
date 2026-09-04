@@ -76,7 +76,7 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3842)</li>
 <li>docs.google.com (3298)</li>
 <li>chatgpt.com (2723)</li>
-<li>www.linkedin.com (2360)</li>
+<li>www.linkedin.com (2362)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1876)</li>
 <li>moodle.royalholloway.ac.uk (1803)</li>
@@ -89,12 +89,12 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1137)</li>
 <li>mail.rhul.ac.uk (1013)</li>
 <li>tvtropes.org (887)</li>
-<li>rhul-my.sharepoint.com (858)</li>
-<li>feedly.com (792)</li>
+<li>rhul-my.sharepoint.com (856)</li>
+<li>feedly.com (793)</li>
 <li>forms.office.com (783)</li>
 <li>www.theguardian.com (584)</li>
 <li>fritz.box (574)</li>
-<li>rhul.sharepoint.com (545)</li>
+<li>rhul.sharepoint.com (547)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:29 rhul.sharepoint.com</li>
+<ul><li> 13:55 feedly.com</li>
+<li> 13:55 www.giantitp.com</li>
+<li> 13:47 www.linkedin.com</li>
+<li class='same'> 13:46 www.linkedin.com</li>
+<li> 13:46 newsthump.com</li>
+<li> 13:37 <a href="https://joereddington.com/2013/09/12/so-im-in-the-edition-of-new-scientist-that-came-out-today.html">So I’m in the edition of New Scientist that came out today | Joe Reddington</a></li>
+<li> 13:30 rhul.sharepoint.com</li>
+<li> 13:30 login.microsoftonline.com</li>
+<li> 13:30 device.login.microsoftonline.com</li>
+<li> 13:30 rhul.sharepoint.com</li>
+<li class='same'> 13:29 rhul.sharepoint.com</li>
 <li> 13:29 duckduckgo.com</li>
 </ul>
 
@@ -11725,11 +11735,8 @@ With number of accesses/minutes in parentheses
 <li> 16:06 login.microsoftonline.com</li>
 <li> 16:06 forms.cloud.microsoft</li>
 <li> 16:06 chatgpt.com</li>
-<li> 16:03 rhul-my.sharepoint.com</li>
 <li> 16:03 forms.office.com</li>
-<li> 16:02 login.microsoftonline.com</li>
-<li> 16:02 rhul-my.sharepoint.com</li>
-<li> 16:02 forms.office.com</li>
+<li class='same'> 16:02 forms.office.com</li>
 <li> 16:02 login.microsoftonline.com</li>
 <li> 16:02 forms.office.com</li>
 <li> 16:01 outlook.cloud.microsoft</li>
@@ -124133,6 +124140,4 @@ With number of accesses/minutes in parentheses
 <li> 13:20 padlet.com</li>
 <li class='same'> 13:19 padlet.com</li>
 <li> 13:19 www.google.com</li>
-<li> 13:18 padlet.com</li>
-<li class='same'> 13:17 padlet.com</li>
 </ul>
