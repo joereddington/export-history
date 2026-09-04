@@ -69,13 +69,13 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5376)</li>
-<li>mail.google.com (5347)</li>
+<li>mail.google.com (5350)</li>
 <li>www.reddit.com (5122)</li>
 <li>outlook.office365.com (4694)</li>
 <li>outlook.office.com (3989)</li>
-<li>duckduckgo.com (3845)</li>
+<li>duckduckgo.com (3847)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2729)</li>
+<li>chatgpt.com (2731)</li>
 <li>www.linkedin.com (2362)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1870)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:29 chatgpt.com</li>
+<ul><li> 15:59 www.projectreal.co.uk</li>
+<li> 15:59 projectreal.co.uk</li>
+<li> 15:57 duckduckgo.com</li>
+<li> 15:56 <a href="https://joereddington.com/2025/12/26/30-000-pages.html">30,000 pages in 2025 | Joe Reddington</a></li>
+<li> 15:52 chatgpt.com</li>
+<li> 15:47 www.su.rhul.ac.uk</li>
+<li> 15:47 duckduckgo.com</li>
+<li> 15:46 super-debunkers.vercel.app</li>
+<li> 15:39 www.royalholloway.ac.uk</li>
+<li> 15:38 chatgpt.com</li>
+<li> 15:36 mail.google.com</li>
+<li> 15:32 github.com</li>
+<li> 15:31 mail.google.com</li>
+<li class='same'> 15:30 mail.google.com</li>
+<li> 15:29 chatgpt.com</li>
 <li> 15:28 mail.google.com</li>
 <li class='same'> 15:27 mail.google.com</li>
 <li class='same'> 15:26 mail.google.com</li>
