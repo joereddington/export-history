@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5377)</li>
-<li>mail.google.com (5345)</li>
+<ol><li>www.google.com (5378)</li>
+<li>mail.google.com (5348)</li>
 <li>www.reddit.com (5117)</li>
-<li>outlook.office365.com (4684)</li>
-<li>outlook.office.com (3989)</li>
-<li>duckduckgo.com (3853)</li>
-<li>docs.google.com (3288)</li>
-<li>chatgpt.com (2741)</li>
-<li>www.linkedin.com (2363)</li>
+<li>outlook.office365.com (4680)</li>
+<li>outlook.office.com (3986)</li>
+<li>duckduckgo.com (3854)</li>
+<li>docs.google.com (3290)</li>
+<li>chatgpt.com (2744)</li>
+<li>www.linkedin.com (2365)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1865)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
@@ -85,13 +85,13 @@ With number of accesses/minutes in parentheses
 <li>login.microsoftonline.com (1321)</li>
 <li>chat.openai.com (1306)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1152)</li>
+<li>web.whatsapp.com (1151)</li>
 <li>gmail.com (1135)</li>
-<li>mail.rhul.ac.uk (1010)</li>
+<li>mail.rhul.ac.uk (1009)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (852)</li>
 <li>feedly.com (819)</li>
-<li>forms.office.com (783)</li>
+<li>forms.office.com (779)</li>
 <li>fritz.box (576)</li>
 <li>www.theguardian.com (574)</li>
 <li>rhul.sharepoint.com (547)</li>
@@ -108,7 +108,58 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:41 calendar.google.com</li>
+<ul><li> 14:29 docs.google.com</li>
+<li> 14:28 www.linkedin.com</li>
+<li class='same'> 14:27 www.linkedin.com</li>
+<li> 14:25 127.0.0.1:8000</li>
+<li> 14:20 mail.google.com</li>
+<li> 14:19 support.google.com</li>
+<li> 14:19 mail.google.com</li>
+<li> 14:18 www.whitewaterwriters.com</li>
+<li> 14:18 whitewaterwriters.com</li>
+<li> 14:17 mail.google.com</li>
+<li> 14:17 docs.google.com</li>
+<li> 14:15 chatgpt.com</li>
+<li> 14:15 mail.google.com</li>
+<li> 14:14 chatgpt.com</li>
+<li class='same'> 14:13 chatgpt.com</li>
+<li> 14:13 support.google.com</li>
+<li> 14:13 ads.google.com</li>
+<li class='same'> 14:12 ads.google.com</li>
+<li> 14:12 business.google.com</li>
+<li> 14:12 ads.google.com</li>
+<li> 14:12 accounts.google.com</li>
+<li> 14:12 ads.google.com</li>
+<li> 14:11 mail.google.com</li>
+<li> 14:11 gmail.com</li>
+<li> 14:11 knowledge.workspace.google.com</li>
+<li> 14:11 www.google.com</li>
+<li> 14:11 support.google.com</li>
+<li> 14:11 knowledge.workspace.google.com</li>
+<li> 14:11 www.google.com</li>
+<li> 14:11 access.workspace.google.com</li>
+<li> 14:11 accounts.google.com</li>
+<li> 14:11 access.workspace.google.com</li>
+<li> 14:11 ads.google.com</li>
+<li> 14:10 127.0.0.1:4000</li>
+<li> 14:09 www.tesco.com</li>
+<li> 14:09 duckduckgo.com</li>
+<li> 14:08 127.0.0.1:8000</li>
+<li> 14:08 127.0.0.1:4000</li>
+<li> 14:08 127.0.0.1:8000</li>
+<li> 14:08 newsthump.com</li>
+<li> 14:07 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 14:07 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 14:06 <a href="https://joereddington.com/2025/11/11/under-the-car.html">Under the car | Joe Reddington</a></li>
+<li> 14:06 <a href="https://joereddington.com/2025/01/01/analysis.html">I tracked everything I ate for 100 days at the start of the year and I learned nothing. | Joe Reddington</a></li>
+<li> 14:05 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 14:05 equalitytime.co.uk</li>
+<li> 14:05 equalitytime.github.io</li>
+<li> 14:05 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 14:05 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 14:05 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
+<li> 14:03 www.linkedin.com</li>
+<li> 13:41 calendar.google.com</li>
 </ul>
 
 <br>
@@ -124113,26 +124164,4 @@ With number of accesses/minutes in parentheses
 <li> 11:14 mail.google.com</li>
 <li class='same'> 11:13 mail.google.com</li>
 <li class='same'> 11:12 mail.google.com</li>
-<li class='same'> 11:10 mail.google.com</li>
-<li class='same'> 11:09 mail.google.com</li>
-<li> 11:09 gmail.com</li>
-<li> 11:05 outlook.office365.com</li>
-<li class='same'> 11:00 outlook.office365.com</li>
-<li class='same'> 10:57 outlook.office365.com</li>
-<li> 10:54 forms.office.com</li>
-<li> 10:47 outlook.office.com</li>
-<li> 10:38 web.whatsapp.com</li>
-<li> 10:37 forms.office.com</li>
-<li> 10:37 outlook.office365.com</li>
-<li> 10:37 mail.rhul.ac.uk</li>
-<li> 10:37 www.microsoft.com</li>
-<li> 10:37 forms.office.com</li>
-<li> 10:35 outlook.office.com</li>
-<li> 10:34 forms.office.com</li>
-<li> 10:33 outlook.office.com</li>
-<li> 10:32 www.linkedin.com</li>
-<li> 10:31 engagementhub.ukri.org</li>
-<li> 10:29 www.ukri.org</li>
-<li> 10:29 www.google.com</li>
-<li> 10:28 engagementhub.ukri.org</li>
 </ul>
