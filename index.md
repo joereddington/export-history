@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5378)</li>
+<ol><li>www.google.com (5375)</li>
 <li>mail.google.com (5345)</li>
-<li>www.reddit.com (5117)</li>
-<li>outlook.office365.com (4676)</li>
-<li>outlook.office.com (3986)</li>
-<li>duckduckgo.com (3854)</li>
+<li>www.reddit.com (5116)</li>
+<li>outlook.office365.com (4668)</li>
+<li>outlook.office.com (3985)</li>
+<li>duckduckgo.com (3856)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2746)</li>
-<li>www.linkedin.com (2364)</li>
+<li>chatgpt.com (2750)</li>
+<li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1865)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
@@ -86,11 +86,11 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1306)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1151)</li>
-<li>gmail.com (1135)</li>
+<li>gmail.com (1134)</li>
 <li>mail.rhul.ac.uk (1008)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (852)</li>
-<li>feedly.com (819)</li>
+<li>feedly.com (820)</li>
 <li>forms.office.com (779)</li>
 <li>fritz.box (576)</li>
 <li>www.theguardian.com (574)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 mail.google.com</li>
+<ul><li> 15:23 mail.google.com</li>
+<li> 15:23 chatgpt.com</li>
+<li> 15:21 duckduckgo.com</li>
+<li class='same'> 15:20 duckduckgo.com</li>
+<li> 15:20 chatgpt.com</li>
+<li> 15:12 www.independent.co.uk</li>
+<li> 15:10 wonkhe.com</li>
+<li> 15:08 feedly.com</li>
+<li> 15:00 mail.google.com</li>
+<li> 15:00 chatgpt.com</li>
+<li class='same'> 14:59 chatgpt.com</li>
+<li> 14:59 mail.google.com</li>
 <li class='same'> 14:58 mail.google.com</li>
 <li> 14:57 ads.google.com</li>
 <li> 14:57 chatgpt.com</li>
@@ -124135,25 +124146,4 @@ With number of accesses/minutes in parentheses
 <li> 12:23 outlook.office.com</li>
 <li> 12:23 gitlab.cim.rhul.ac.uk</li>
 <li> 12:22 outlook.office365.com</li>
-<li class='same'> 12:21 outlook.office365.com</li>
-<li> 12:14 <a href="https://www.bbc.co.uk/news/articles/cger11kjk1jo">Ucas to reform university admissions personal statements - BBC News</a></li>
-<li> 12:14 outlook.office.com</li>
-<li> 12:13 outlook.office365.com</li>
-<li class='same'> 12:11 outlook.office365.com</li>
-<li> 12:11 www.royalholloway.ac.uk</li>
-<li> 12:10 www.google.com</li>
-<li> 12:10 outlook.office365.com</li>
-<li class='same'> 12:08 outlook.office365.com</li>
-<li> 12:08 mail.google.com</li>
-<li class='same'> 12:07 mail.google.com</li>
-<li> 12:07 gmail.com</li>
-<li> 12:07 outlook.office365.com</li>
-<li class='same'> 12:04 outlook.office365.com</li>
-<li> 12:04 universitycompare.com</li>
-<li> 12:03 www.google.com</li>
-<li> 12:03 <a href="https://www.bbc.co.uk/news/articles/cger11kjk1jo">Ucas to reform university admissions personal statements - BBC News</a></li>
-<li> 12:02 www.reddit.com</li>
-<li> 12:02 www.google.com</li>
-<li> 12:01 www.linkedin.com</li>
-<li> 12:01 outlook.office365.com</li>
 </ul>
