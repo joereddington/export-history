@@ -71,22 +71,22 @@ With number of accesses/minutes in parentheses
 <ol><li>www.google.com (5375)</li>
 <li>mail.google.com (5345)</li>
 <li>www.reddit.com (5116)</li>
-<li>outlook.office365.com (4668)</li>
-<li>outlook.office.com (3985)</li>
-<li>duckduckgo.com (3856)</li>
+<li>outlook.office365.com (4665)</li>
+<li>outlook.office.com (3983)</li>
+<li>duckduckgo.com (3857)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2750)</li>
-<li>www.linkedin.com (2363)</li>
+<li>chatgpt.com (2752)</li>
+<li>www.linkedin.com (2365)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1865)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
-<li>calendar.google.com (1534)</li>
+<li>calendar.google.com (1531)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>login.microsoftonline.com (1321)</li>
 <li>chat.openai.com (1306)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1151)</li>
-<li>gmail.com (1134)</li>
+<li>gmail.com (1133)</li>
 <li>mail.rhul.ac.uk (1008)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (852)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:23 mail.google.com</li>
+<ul><li> 15:46 londontopia.net</li>
+<li class='same'> 15:44 londontopia.net</li>
+<li> 15:43 www.ltmuseum.co.uk</li>
+<li> 15:43 duckduckgo.com</li>
+<li> 15:41 chatgpt.com</li>
+<li class='same'> 15:40 chatgpt.com</li>
+<li> 15:38 mail.google.com</li>
+<li> 15:38 www.linkedin.com</li>
+<li class='same'> 15:37 www.linkedin.com</li>
+<li> 15:37 mail.google.com</li>
+<li class='same'> 15:36 mail.google.com</li>
+<li class='same'> 15:24 mail.google.com</li>
+<li class='same'> 15:23 mail.google.com</li>
 <li> 15:23 chatgpt.com</li>
 <li> 15:21 duckduckgo.com</li>
 <li class='same'> 15:20 duckduckgo.com</li>
@@ -124132,18 +124144,4 @@ With number of accesses/minutes in parentheses
 <li> 12:53 calendar.google.com</li>
 <li> 12:53 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 12:52 calendar.google.com</li>
-<li> 12:52 mail.google.com</li>
-<li> 12:48 calendar.google.com</li>
-<li class='same'> 12:47 calendar.google.com</li>
-<li> 12:47 mail.google.com</li>
-<li class='same'> 12:46 mail.google.com</li>
-<li> 12:44 outlook.office.com</li>
-<li> 12:44 calendar.google.com</li>
-<li> 12:44 mail.google.com</li>
-<li> 12:44 gmail.com</li>
-<li> 12:24 outlook.office365.com</li>
-<li class='same'> 12:23 outlook.office365.com</li>
-<li> 12:23 outlook.office.com</li>
-<li> 12:23 gitlab.cim.rhul.ac.uk</li>
-<li> 12:22 outlook.office365.com</li>
 </ul>
