@@ -68,28 +68,28 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5376)</li>
-<li>mail.google.com (5344)</li>
+<ol><li>www.google.com (5379)</li>
+<li>mail.google.com (5342)</li>
 <li>www.reddit.com (5117)</li>
-<li>outlook.office365.com (4688)</li>
+<li>outlook.office365.com (4684)</li>
 <li>outlook.office.com (3989)</li>
-<li>duckduckgo.com (3852)</li>
+<li>duckduckgo.com (3853)</li>
 <li>docs.google.com (3288)</li>
-<li>chatgpt.com (2740)</li>
+<li>chatgpt.com (2741)</li>
 <li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1865)</li>
-<li>moodle.royalholloway.ac.uk (1804)</li>
-<li>calendar.google.com (1532)</li>
+<li>moodle.royalholloway.ac.uk (1801)</li>
+<li>calendar.google.com (1534)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>login.microsoftonline.com (1321)</li>
-<li>chat.openai.com (1305)</li>
+<li>chat.openai.com (1306)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1152)</li>
 <li>gmail.com (1135)</li>
 <li>mail.rhul.ac.uk (1010)</li>
 <li>tvtropes.org (887)</li>
-<li>rhul-my.sharepoint.com (853)</li>
+<li>rhul-my.sharepoint.com (852)</li>
 <li>feedly.com (819)</li>
 <li>forms.office.com (783)</li>
 <li>fritz.box (576)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (547)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (470)</li>
+<li>drive.google.com (469)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:24 calendar.google.com</li>
+<ul><li> 10:54 myview.rhul.zellis.com</li>
+<li> 10:52 chatgpt.com</li>
+<li> 10:52 chat.openai.com</li>
+<li> 10:51 ukstemconference.com</li>
+<li> 10:50 myview.rhul.zellis.com</li>
+<li> 10:49 www.google.com</li>
+<li class='same'> 10:48 www.google.com</li>
+<li class='same'> 10:47 www.google.com</li>
+<li> 10:47 better.digitickets.co.uk</li>
+<li class='same'> 10:45 better.digitickets.co.uk</li>
+<li class='same'> 10:44 better.digitickets.co.uk</li>
+<li class='same'> 10:42 better.digitickets.co.uk</li>
+<li class='same'> 10:41 better.digitickets.co.uk</li>
+<li> 10:41 www.google.com</li>
+<li> 10:41 better.digitickets.co.uk</li>
+<li> 10:41 mail.google.com</li>
+<li> 10:41 gmail.com</li>
+<li> 10:40 calendar.google.com</li>
+<li class='same'> 10:39 calendar.google.com</li>
+<li> 10:30 duckduckgo.com</li>
+<li> 10:24 calendar.google.com</li>
 <li> 10:23 myview.rhul.zellis.com</li>
 <li> 10:23 login.microsoftonline.com</li>
 <li> 10:23 myview.rhul.zellis.com</li>
@@ -124118,25 +124138,4 @@ With number of accesses/minutes in parentheses
 <li> 10:14 engagementhub.ukri.org</li>
 <li class='same'> 10:09 engagementhub.ukri.org</li>
 <li class='same'> 10:08 engagementhub.ukri.org</li>
-<li class='same'> 10:06 engagementhub.ukri.org</li>
-<li> 10:05 <a href="https://en.wikipedia.org/wiki/Make_one%27s_bones">Make one&#x27;s bones - Wikipedia</a></li>
-<li> 10:05 www.google.com</li>
-<li> 10:05 engagementhub.ukri.org</li>
-<li> 09:54 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 09:53 claude.ai</li>
-<li> 09:52 drive.google.com</li>
-<li> 09:52 mail.google.com</li>
-<li class='same'> 09:51 mail.google.com</li>
-<li class='same'> 09:50 mail.google.com</li>
-<li> 09:50 gmail.com</li>
-<li> 09:47 claude.ai</li>
-<li> 09:47 engagementhub.ukri.org</li>
-<li> 09:47 outlook.office365.com</li>
-<li class='same'> 09:46 outlook.office365.com</li>
-<li class='same'> 09:45 outlook.office365.com</li>
-<li> 09:41 rhul-my.sharepoint.com</li>
-<li> 09:41 outlook.office365.com</li>
-<li> 09:40 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:39 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:38 moodle.royalholloway.ac.uk</li>
 </ul>
