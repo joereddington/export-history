@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5379)</li>
-<li>mail.google.com (5342)</li>
+<ol><li>www.google.com (5377)</li>
+<li>mail.google.com (5345)</li>
 <li>www.reddit.com (5117)</li>
 <li>outlook.office365.com (4684)</li>
 <li>outlook.office.com (3989)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:54 myview.rhul.zellis.com</li>
+<ul><li> 11:33 mail.google.com</li>
+<li class='same'> 11:32 mail.google.com</li>
+<li class='same'> 11:10 mail.google.com</li>
+<li> 10:54 myview.rhul.zellis.com</li>
 <li> 10:52 chatgpt.com</li>
 <li> 10:52 chat.openai.com</li>
 <li> 10:51 ukstemconference.com</li>
@@ -124129,13 +124132,4 @@ With number of accesses/minutes in parentheses
 <li> 10:28 engagementhub.ukri.org</li>
 <li> 10:27 <a href="https://xkcd.com/simplewriter/"></a></li>
 <li> 10:24 engagementhub.ukri.org</li>
-<li> 10:23 www.imdb.com</li>
-<li> 10:23 rebirthofreason.com</li>
-<li> 10:23 www.google.com</li>
-<li> 10:22 engagementhub.ukri.org</li>
-<li class='same'> 10:19 engagementhub.ukri.org</li>
-<li> 10:18 www.google.com</li>
-<li> 10:14 engagementhub.ukri.org</li>
-<li class='same'> 10:09 engagementhub.ukri.org</li>
-<li class='same'> 10:08 engagementhub.ukri.org</li>
 </ul>
