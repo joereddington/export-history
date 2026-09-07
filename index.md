@@ -69,25 +69,25 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5378)</li>
-<li>mail.google.com (5348)</li>
+<li>mail.google.com (5345)</li>
 <li>www.reddit.com (5117)</li>
-<li>outlook.office365.com (4680)</li>
+<li>outlook.office365.com (4676)</li>
 <li>outlook.office.com (3986)</li>
 <li>duckduckgo.com (3854)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2744)</li>
-<li>www.linkedin.com (2365)</li>
+<li>chatgpt.com (2746)</li>
+<li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1865)</li>
 <li>moodle.royalholloway.ac.uk (1801)</li>
-<li>calendar.google.com (1535)</li>
+<li>calendar.google.com (1534)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>login.microsoftonline.com (1321)</li>
 <li>chat.openai.com (1306)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1151)</li>
 <li>gmail.com (1135)</li>
-<li>mail.rhul.ac.uk (1009)</li>
+<li>mail.rhul.ac.uk (1008)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (852)</li>
 <li>feedly.com (819)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:29 docs.google.com</li>
+<ul><li> 14:59 mail.google.com</li>
+<li class='same'> 14:58 mail.google.com</li>
+<li> 14:57 ads.google.com</li>
+<li> 14:57 chatgpt.com</li>
+<li class='same'> 14:54 chatgpt.com</li>
+<li> 14:53 ads.google.com</li>
+<li class='same'> 14:50 ads.google.com</li>
+<li> 14:46 mail.google.com</li>
+<li> 14:41 app.roostermoney.com</li>
+<li class='same'> 14:40 app.roostermoney.com</li>
+<li> 14:40 www.google.com</li>
+<li> 14:40 app.roostermoney.com</li>
+<li> 14:40 mail.google.com</li>
+<li> 14:40 gmail.com</li>
+<li> 14:29 docs.google.com</li>
 <li> 14:28 www.linkedin.com</li>
 <li class='same'> 14:27 www.linkedin.com</li>
 <li> 14:25 127.0.0.1:8000</li>
@@ -124142,26 +124156,4 @@ With number of accesses/minutes in parentheses
 <li> 12:02 www.google.com</li>
 <li> 12:01 www.linkedin.com</li>
 <li> 12:01 outlook.office365.com</li>
-<li> 11:59 www.linkedin.com</li>
-<li> 11:59 www.google.com</li>
-<li> 11:59 outlook.office365.com</li>
-<li class='same'> 11:56 outlook.office365.com</li>
-<li class='same'> 11:55 outlook.office365.com</li>
-<li class='same'> 11:50 outlook.office365.com</li>
-<li> 11:50 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 11:16 mail.google.com</li>
-<li> 11:16 accounts.google.co.uk</li>
-<li> 11:16 mail.google.com</li>
-<li> 11:16 accounts.google.com</li>
-<li> 11:16 mail.google.com</li>
-<li> 11:16 gmail.com</li>
-<li> 11:15 mail.google.com</li>
-<li> 11:14 calendar.google.com</li>
-<li> 11:14 mail.google.com</li>
-<li class='same'> 11:13 mail.google.com</li>
-<li class='same'> 11:12 mail.google.com</li>
 </ul>
