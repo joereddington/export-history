@@ -69,31 +69,31 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5376)</li>
-<li>mail.google.com (5345)</li>
+<li>mail.google.com (5344)</li>
 <li>www.reddit.com (5117)</li>
-<li>outlook.office365.com (4692)</li>
+<li>outlook.office365.com (4688)</li>
 <li>outlook.office.com (3989)</li>
-<li>duckduckgo.com (3849)</li>
+<li>duckduckgo.com (3852)</li>
 <li>docs.google.com (3288)</li>
-<li>chatgpt.com (2738)</li>
+<li>chatgpt.com (2740)</li>
 <li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1867)</li>
+<li>www.facebook.com (1865)</li>
 <li>moodle.royalholloway.ac.uk (1804)</li>
 <li>calendar.google.com (1532)</li>
 <li>www.amazon.co.uk (1325)</li>
-<li>login.microsoftonline.com (1319)</li>
-<li>chat.openai.com (1303)</li>
+<li>login.microsoftonline.com (1321)</li>
+<li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1152)</li>
 <li>gmail.com (1135)</li>
 <li>mail.rhul.ac.uk (1010)</li>
 <li>tvtropes.org (887)</li>
-<li>rhul-my.sharepoint.com (856)</li>
+<li>rhul-my.sharepoint.com (853)</li>
 <li>feedly.com (819)</li>
 <li>forms.office.com (783)</li>
 <li>fritz.box (576)</li>
-<li>www.theguardian.com (575)</li>
+<li>www.theguardian.com (574)</li>
 <li>rhul.sharepoint.com (547)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:36 192.168.178.1</li>
+<ul><li> 10:24 calendar.google.com</li>
+<li> 10:23 myview.rhul.zellis.com</li>
+<li> 10:23 login.microsoftonline.com</li>
+<li> 10:23 myview.rhul.zellis.com</li>
+<li> 10:23 login.microsoftonline.com</li>
+<li> 10:23 device.login.microsoftonline.com</li>
+<li> 10:23 myview.rhul.zellis.com</li>
+<li> 10:13 chatgpt.com</li>
+<li> 10:13 chat.openai.com</li>
+<li> 10:08 duckduckgo.com</li>
+<li class='same'> 10:07 duckduckgo.com</li>
+<li> 10:06 knowyourmeme.com</li>
+<li class='same'> 10:04 knowyourmeme.com</li>
+<li> 10:04 duckduckgo.com</li>
+<li> 10:02 chatgpt.com</li>
+<li> 10:02 chat.openai.com</li>
+<li> 09:36 192.168.178.1</li>
 <li class='same'> 09:35 192.168.178.1</li>
 <li class='same'> 09:34 192.168.178.1</li>
 <li> 09:34 fritz.box</li>
@@ -124123,16 +124139,4 @@ With number of accesses/minutes in parentheses
 <li> 09:40 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:39 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:38 moodle.royalholloway.ac.uk</li>
-<li> 09:38 outlook.office365.com</li>
-<li class='same'> 09:37 outlook.office365.com</li>
-<li> 09:35 rhul-my.sharepoint.com</li>
-<li class='same'> 09:34 rhul-my.sharepoint.com</li>
-<li class='same'> 09:33 rhul-my.sharepoint.com</li>
-<li> 09:33 outlook.office365.com</li>
-<li> 09:31 www.facebook.com</li>
-<li class='same'> 09:28 www.facebook.com</li>
-<li> 09:28 calendar.google.com</li>
-<li> 09:25 outlook.office365.com</li>
-<li> 09:24 mail.google.com</li>
-<li> 09:19 www.theguardian.com</li>
 </ul>
