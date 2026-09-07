@@ -74,23 +74,23 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4692)</li>
 <li>outlook.office.com (3989)</li>
 <li>duckduckgo.com (3849)</li>
-<li>docs.google.com (3292)</li>
-<li>chatgpt.com (2734)</li>
+<li>docs.google.com (3289)</li>
+<li>chatgpt.com (2738)</li>
 <li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1867)</li>
 <li>moodle.royalholloway.ac.uk (1804)</li>
-<li>calendar.google.com (1531)</li>
+<li>calendar.google.com (1532)</li>
 <li>www.amazon.co.uk (1325)</li>
 <li>login.microsoftonline.com (1319)</li>
-<li>chat.openai.com (1301)</li>
+<li>chat.openai.com (1303)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1152)</li>
 <li>gmail.com (1136)</li>
 <li>mail.rhul.ac.uk (1010)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (856)</li>
-<li>feedly.com (810)</li>
+<li>feedly.com (819)</li>
 <li>forms.office.com (783)</li>
 <li>www.theguardian.com (575)</li>
 <li>fritz.box (575)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:58 feedly.com</li>
+<ul><li> 07:10 feedly.com</li>
+<li class='same'> 07:09 feedly.com</li>
+<li class='same'> 07:08 feedly.com</li>
+<li> 07:07 calendar.google.com</li>
+<li> 07:06 chatgpt.com</li>
+<li> 07:06 feedly.com</li>
+<li class='same'> 07:05 feedly.com</li>
+<li> 07:05 chatgpt.com</li>
+<li> 07:05 chat.openai.com</li>
+<li> 07:05 feedly.com</li>
+<li> 07:03 www.schneier.com</li>
+<li> 07:02 feedly.com</li>
+<li class='same'> 07:01 feedly.com</li>
+<li> 07:01 chatgpt.com</li>
+<li class='same'> 07:00 chatgpt.com</li>
+<li> 07:00 chat.openai.com</li>
+<li> 06:59 www.darkreading.com</li>
+<li> 06:59 feedly.com</li>
+<li> 06:58 krebsonsecurity.com</li>
+<li> 06:58 feedly.com</li>
 <li class='same'> 06:57 feedly.com</li>
 <li class='same'> 06:56 feedly.com</li>
 <li> 06:55 www.ic3.gov</li>
@@ -124112,7 +124131,4 @@ With number of accesses/minutes in parentheses
 <li> 09:16 accounts.google.com</li>
 <li> 09:16 gmail.com</li>
 <li> 09:16 docs.google.com</li>
-<li class='same'> 09:14 docs.google.com</li>
-<li class='same'> 09:13 docs.google.com</li>
-<li class='same'> 09:12 docs.google.com</li>
 </ul>
