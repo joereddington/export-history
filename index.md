@@ -69,12 +69,12 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5376)</li>
-<li>mail.google.com (5347)</li>
+<li>mail.google.com (5345)</li>
 <li>www.reddit.com (5117)</li>
 <li>outlook.office365.com (4692)</li>
 <li>outlook.office.com (3989)</li>
 <li>duckduckgo.com (3849)</li>
-<li>docs.google.com (3289)</li>
+<li>docs.google.com (3288)</li>
 <li>chatgpt.com (2738)</li>
 <li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
@@ -86,14 +86,14 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1303)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1152)</li>
-<li>gmail.com (1136)</li>
+<li>gmail.com (1135)</li>
 <li>mail.rhul.ac.uk (1010)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (856)</li>
 <li>feedly.com (819)</li>
 <li>forms.office.com (783)</li>
+<li>fritz.box (576)</li>
 <li>www.theguardian.com (575)</li>
-<li>fritz.box (575)</li>
 <li>rhul.sharepoint.com (547)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -105,6 +105,15 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 07/09/26</H3>
+
+<br>
+
+<ul><li> 09:36 192.168.178.1</li>
+<li class='same'> 09:35 192.168.178.1</li>
+<li class='same'> 09:34 192.168.178.1</li>
+<li> 09:34 fritz.box</li>
+<li> 09:34 firefox-portal-detection.com</li>
+</ul>
 
 <br>
 
@@ -124126,9 +124135,4 @@ With number of accesses/minutes in parentheses
 <li> 09:25 outlook.office365.com</li>
 <li> 09:24 mail.google.com</li>
 <li> 09:19 www.theguardian.com</li>
-<li> 09:17 mail.google.com</li>
-<li class='same'> 09:16 mail.google.com</li>
-<li> 09:16 accounts.google.com</li>
-<li> 09:16 gmail.com</li>
-<li> 09:16 docs.google.com</li>
 </ul>
