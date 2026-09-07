@@ -68,57 +68,108 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5385)</li>
-<li>mail.google.com (5350)</li>
-<li>www.reddit.com (5122)</li>
-<li>outlook.office365.com (4694)</li>
+<ol><li>www.google.com (5376)</li>
+<li>mail.google.com (5347)</li>
+<li>www.reddit.com (5117)</li>
+<li>outlook.office365.com (4692)</li>
 <li>outlook.office.com (3989)</li>
-<li>duckduckgo.com (3847)</li>
-<li>docs.google.com (3298)</li>
-<li>chatgpt.com (2732)</li>
-<li>www.linkedin.com (2364)</li>
+<li>duckduckgo.com (3849)</li>
+<li>docs.google.com (3292)</li>
+<li>chatgpt.com (2734)</li>
+<li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1870)</li>
+<li>www.facebook.com (1867)</li>
 <li>moodle.royalholloway.ac.uk (1804)</li>
-<li>calendar.google.com (1528)</li>
-<li>www.amazon.co.uk (1331)</li>
+<li>calendar.google.com (1531)</li>
+<li>www.amazon.co.uk (1325)</li>
 <li>login.microsoftonline.com (1319)</li>
-<li>chat.openai.com (1300)</li>
+<li>chat.openai.com (1301)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1152)</li>
 <li>gmail.com (1136)</li>
 <li>mail.rhul.ac.uk (1010)</li>
 <li>tvtropes.org (887)</li>
 <li>rhul-my.sharepoint.com (856)</li>
-<li>feedly.com (794)</li>
+<li>feedly.com (810)</li>
 <li>forms.office.com (783)</li>
-<li>www.theguardian.com (581)</li>
-<li>fritz.box (574)</li>
+<li>www.theguardian.com (575)</li>
+<li>fritz.box (575)</li>
 <li>rhul.sharepoint.com (547)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (471)</li>
+<li>drive.google.com (470)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Monday, 07/09/26</H3>
+
+<br>
+
+<ul><li> 06:58 feedly.com</li>
+<li class='same'> 06:57 feedly.com</li>
+<li class='same'> 06:56 feedly.com</li>
+<li> 06:55 www.ic3.gov</li>
+<li> 06:54 feedly.com</li>
+<li class='same'> 06:53 feedly.com</li>
+<li> 06:53 192.168.178.1</li>
+<li> 06:53 feedly.com</li>
+<li class='same'> 06:52 feedly.com</li>
+<li> 06:51 www.tandfonline.com</li>
+<li> 06:51 feedly.com</li>
+<li class='same'> 06:50 feedly.com</li>
+<li> 06:50 duckduckgo.com</li>
+<li> 06:50 feedly.com</li>
+<li> 06:49 <a href="https://en.wikipedia.org/wiki/The_Social_Network">The Social Network - Wikipedia</a></li>
+<li> 06:49 duckduckgo.com</li>
+<li> 06:48 www.goodreads.com</li>
+<li> 06:48 feedly.com</li>
+<li class='same'> 06:47 feedly.com</li>
+<li class='same'> 06:46 feedly.com</li>
+<li class='same'> 06:45 feedly.com</li>
+<li> 06:45 calendar.google.com</li>
+<li> 06:45 www.nature.com</li>
+<li> 06:45 idp.nature.com</li>
+<li> 06:45 feedly.com</li>
+<li> 06:44 theconversation.com</li>
+<li> 06:44 feedly.com</li>
+<li> 06:40 simonwillison.net</li>
+<li> 06:39 feedly.com</li>
+<li> 06:39 chatgpt.com</li>
+<li class='same'> 06:37 chatgpt.com</li>
+<li> 06:37 chat.openai.com</li>
+<li> 06:36 feedly.com</li>
+<li> 06:30 calendar.google.com</li>
+<li class='same'> 06:29 calendar.google.com</li>
+<li> 06:26 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 06:25 webtimetables.royalholloway.ac.uk</li>
+<li> 06:25 login.microsoftonline.com</li>
+<li> 06:25 device.login.microsoftonline.com</li>
+<li> 06:25 myview.rhul.zellis.com</li>
+<li> 06:25 192.168.178.1</li>
+<li class='same'> 06:24 192.168.178.1</li>
+<li> 06:24 fritz.box</li>
+<li> 06:24 firefox-portal-detection.com</li>
+</ul>
+
+<H3>Sunday, 06/09/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 11:24 calendar.google.com</li>
+</ul>
+
 <H3>Saturday, 05/09/26</H3>
 
 <br>
 
-<ul><li> 15:25 <a href="https://www.youtube.com/shorts/xsqIwMsNj7A">(72) Nolan vs Bay : who did better missiles scene? - YouTube</a></li>
-<li> 15:25 <a href="https://www.youtube.com/">(72) YouTube</a></li>
-<li> 15:18 <a href="https://www.youtube.com/watch?v=iQM8DzszRCw">(72) Honest Trailers | Toy Story 5 - YouTube</a></li>
-<li> 15:18 <a href="https://www.youtube.com/">(72) YouTube</a></li>
-<li> 15:07 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
-<li> 14:59 <a href="https://www.youtube.com/watch?v=McIGyO_BEAE">(72) Exercise Scientist Critiques Anatoly’s Fake Weight Controversy - YouTube</a></li>
-<li> 14:58 <a href="https://www.youtube.com/">(72) YouTube</a></li>
-<li> 14:58 www.amazon.co.uk</li>
-<li class='same'> 14:57 www.amazon.co.uk</li>
-<li class='same'> 14:56 www.amazon.co.uk</li>
-</ul>
+<ul></ul>
 
 <br>
 
@@ -11541,9 +11592,7 @@ With number of accesses/minutes in parentheses
 <li> 15:15 books.google.co.uk</li>
 <li> 15:15 www.google.co.uk</li>
 <li> 15:15 books.google.co.uk</li>
-<li> 15:15 www.google.com</li>
 <li> 15:15 www.google.co.uk</li>
-<li> 15:15 books.google.co.uk</li>
 <li> 15:14 <a href="https://en.wikipedia.org/wiki/Self-evaluation_maintenance_theory">Self-evaluation maintenance theory - Wikipedia</a></li>
 <li> 15:14 <a href="https://en.wikipedia.org/wiki/Second_neighborhood_problem">Second neighborhood problem - Wikipedia</a></li>
 <li> 15:13 commons.wikimedia.org</li>
@@ -11554,11 +11603,9 @@ With number of accesses/minutes in parentheses
 <li> 15:12 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 15:12 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
 <li> 15:12 www.google.co.uk</li>
-<li> 15:12 books.google.co.uk</li>
 <li> 15:11 www.amazon.com</li>
 <li> 15:11 www.google.co.uk</li>
 <li class='same'> 15:10 www.google.co.uk</li>
-<li> 15:10 books.google.co.uk</li>
 <li> 15:10 www.google.com</li>
 <li> 15:10 <a href="https://en.wikipedia.org/wiki/Talk:Hacker">Talk:Hacker - Wikipedia</a></li>
 <li> 15:09 <a href="https://en.wikipedia.org/w/index.php?title=Talk:Hacker&amp;action=edit">Editing Talk:Hacker - Wikipedia</a></li>
@@ -11578,7 +11625,6 @@ With number of accesses/minutes in parentheses
 <li> 12:38 www.apple.com</li>
 <li> 12:38 idmsa.apple.com</li>
 <li> 12:38 www.apple.com</li>
-<li> 12:38 accounts.google.com</li>
 <li> 12:37 outlook.office365.com</li>
 <li> 12:30 www.myunidays.com</li>
 <li> 12:30 www.google.com</li>
@@ -11591,12 +11637,10 @@ With number of accesses/minutes in parentheses
 <li> 12:16 id.myunidays.com</li>
 <li> 12:16 outlook.office365.com</li>
 <li class='same'> 12:15 outlook.office365.com</li>
-<li> 12:15 login.microsoftonline.com</li>
 <li> 12:15 device.login.microsoftonline.com</li>
 <li> 12:15 outlook.office365.com</li>
 <li> 12:13 id.myunidays.com</li>
 <li> 12:13 auth.myunidays.com</li>
-<li class='same'> 12:11 auth.myunidays.com</li>
 <li> 12:11 id.myunidays.com</li>
 <li> 12:11 <a href="https://www.theguardian.com/games/2026/jun/03/god-of-war-laufey-playstation-state-of-play">From God of War to Until Dawn – seven reveals from last night’s PlayStation event | Games | The Guardian</a></li>
 <li> 12:11 id.myunidays.com</li>
@@ -124071,86 +124115,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:14 docs.google.com</li>
 <li class='same'> 09:13 docs.google.com</li>
 <li class='same'> 09:12 docs.google.com</li>
-<li class='same'> 09:10 docs.google.com</li>
-<li> 08:53 www.theguardian.com</li>
-<li> 08:53 econjobmarket.org</li>
-</ul>
-
-<br>
-
-<ul><li> 07:19 docs.google.com</li>
-<li class='same'> 07:18 docs.google.com</li>
-<li> 07:15 claude.ai</li>
-<li class='same'> 07:14 claude.ai</li>
-<li> 07:13 <a href="https://en.wikipedia.org/wiki/Stellan_Skarsg%C3%A5rd">Stellan Skarsgård - Wikipedia</a></li>
-<li> 07:12 <a href="https://en.wikipedia.org/wiki/Alexander_Skarsg%C3%A5rd">Alexander Skarsgård - Wikipedia</a></li>
-<li> 07:12 <a href="https://en.wikipedia.org/wiki/The_Murderbot_Diaries">The Murderbot Diaries - Wikipedia</a></li>
-<li> 07:11 www.google.com</li>
-<li> 07:10 www.amazon.co.uk</li>
-<li> 07:10 www.google.com</li>
-<li> 07:09 docs.google.com</li>
-<li> 07:08 www.amazon.co.uk</li>
-<li> 07:08 www.google.com</li>
-<li> 07:08 www.amazon.co.uk</li>
-<li> 07:08 www.google.com</li>
-<li> 07:07 docs.google.com</li>
-<li> 07:07 www.lendingstandardsboard.org.uk</li>
-<li> 07:06 www.citizensadvice.org.uk</li>
-<li> 07:06 www.google.com</li>
-<li> 07:00 docs.google.com</li>
-<li> 07:00 drive.google.com</li>
-<li> 06:56 www.linkedin.com</li>
-<li> 06:56 www.facebook.com</li>
-<li class='same'> 06:55 www.facebook.com</li>
-<li class='same'> 06:53 www.facebook.com</li>
-<li> 06:50 feedly.com</li>
-<li> 06:50 www.feedly.com</li>
-<li> 06:50 feedly.com</li>
-<li> 06:49 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 02:36 calendar.google.com</li>
-</ul>
-
-<H3>Tuesday, 15/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 20:34 www.reddit.com</li>
-<li class='same'> 20:33 www.reddit.com</li>
-<li class='same'> 20:32 www.reddit.com</li>
-<li class='same'> 20:31 www.reddit.com</li>
-<li class='same'> 20:30 www.reddit.com</li>
-<li> 20:30 mail.google.com</li>
-<li> 20:30 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 19:42 econjobmarket.org</li>
-<li> 19:42 www.google.com</li>
-<li> 19:41 jobs.royalholloway.ac.uk</li>
-<li> 19:41 www.google.com</li>
-<li> 19:21 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 18:34 www.theguardian.com</li>
-<li class='same'> 18:32 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:56 www.google.com</li>
-<li> 17:56 www.theguardian.com</li>
-<li class='same'> 17:55 www.theguardian.com</li>
-<li> 17:26 mail.google.com</li>
-<li class='same'> 17:25 mail.google.com</li>
 </ul>
