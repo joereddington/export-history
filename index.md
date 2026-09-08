@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5344)</li>
-<li>mail.google.com (5320)</li>
+<ol><li>www.google.com (5339)</li>
+<li>mail.google.com (5322)</li>
 <li>www.reddit.com (5086)</li>
 <li>outlook.office365.com (4657)</li>
-<li>outlook.office.com (3966)</li>
-<li>duckduckgo.com (3864)</li>
+<li>outlook.office.com (3964)</li>
+<li>duckduckgo.com (3866)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2757)</li>
-<li>www.linkedin.com (2366)</li>
+<li>chatgpt.com (2758)</li>
+<li>www.linkedin.com (2368)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1854)</li>
-<li>moodle.royalholloway.ac.uk (1777)</li>
+<li>www.facebook.com (1855)</li>
+<li>moodle.royalholloway.ac.uk (1757)</li>
 <li>calendar.google.com (1530)</li>
-<li>www.amazon.co.uk (1326)</li>
-<li>login.microsoftonline.com (1321)</li>
+<li>www.amazon.co.uk (1333)</li>
+<li>login.microsoftonline.com (1322)</li>
 <li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1149)</li>
-<li>gmail.com (1132)</li>
+<li>web.whatsapp.com (1148)</li>
+<li>gmail.com (1133)</li>
 <li>mail.rhul.ac.uk (1002)</li>
 <li>tvtropes.org (885)</li>
-<li>rhul-my.sharepoint.com (848)</li>
-<li>feedly.com (821)</li>
+<li>rhul-my.sharepoint.com (845)</li>
+<li>feedly.com (822)</li>
 <li>forms.office.com (777)</li>
 <li>fritz.box (579)</li>
 <li>www.theguardian.com (572)</li>
@@ -108,7 +108,58 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:28 calendar.google.com</li>
+<ul><li> 18:57 learningonscreen.ac.uk</li>
+<li class='same'> 18:56 learningonscreen.ac.uk</li>
+<li class='same'> 18:54 learningonscreen.ac.uk</li>
+<li class='same'> 18:53 learningonscreen.ac.uk</li>
+<li class='same'> 18:52 learningonscreen.ac.uk</li>
+<li class='same'> 18:51 learningonscreen.ac.uk</li>
+<li> 18:51 192.168.178.1</li>
+<li class='same'> 18:50 192.168.178.1</li>
+<li> 18:50 learningonscreen.ac.uk</li>
+<li class='same'> 18:49 learningonscreen.ac.uk</li>
+<li> 18:48 login.learningonscreen.ac.uk</li>
+<li> 18:48 learningonscreen.ac.uk</li>
+<li> 18:48 connect.openathens.net</li>
+<li> 18:48 login.openathens.net</li>
+<li> 18:48 login.microsoftonline.com</li>
+<li> 18:48 device.login.microsoftonline.com</li>
+<li> 18:48 login.openathens.net</li>
+<li> 18:48 connect.openathens.net</li>
+<li> 18:48 login.learningonscreen.ac.uk</li>
+<li> 18:48 connect.openathens.net</li>
+<li> 18:48 login.learningonscreen.ac.uk</li>
+<li> 18:48 learningonscreen.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 18:14 www.facebook.com</li>
+<li> 18:13 theconversation.com</li>
+<li> 18:08 feedly.com</li>
+<li> 18:06 www.test.com</li>
+<li> 18:05 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 17:14 www.linkedin.com</li>
+<li> 16:57 newsthump.com</li>
+<li> 16:48 mail.google.com</li>
+<li> 16:47 duckduckgo.com</li>
+<li class='same'> 16:46 duckduckgo.com</li>
+<li> 16:45 www.amazon.co.uk</li>
+<li class='same'> 16:44 www.amazon.co.uk</li>
+<li class='same'> 16:43 www.amazon.co.uk</li>
+<li> 16:43 mail.google.com</li>
+<li> 16:43 gmail.com</li>
+<li> 16:43 www.amazon.co.uk</li>
+<li class='same'> 16:42 www.amazon.co.uk</li>
+<li> 16:41 www.linkedin.com</li>
+<li> 16:39 chatgpt.com</li>
+<li> 16:34 www.amazon.co.uk</li>
+<li class='same'> 16:33 www.amazon.co.uk</li>
+<li> 16:28 calendar.google.com</li>
 <li> 16:26 www.facebook.com</li>
 <li class='same'> 16:25 www.facebook.com</li>
 <li class='same'> 16:24 www.facebook.com</li>
@@ -123906,70 +123957,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:57 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:54 moodle.royalholloway.ac.uk</li>
 <li class='same'> 12:47 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:45 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:44 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:43 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:41 moodle.royalholloway.ac.uk</li>
-<li> 12:38 outlook.office.com</li>
-<li class='same'> 12:37 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 12:05 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:02 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:00 moodle.royalholloway.ac.uk</li>
-<li> 11:57 dashboards.rhul.ac.uk</li>
-<li> 11:57 rhul-my.sharepoint.com</li>
-<li> 11:57 dashboards.rhul.ac.uk</li>
-<li> 11:54 <a href="https://en.wikipedia.org/wiki/Operation_Payback">Operation Payback - Wikipedia</a></li>
-<li> 11:54 www.google.com</li>
-<li> 11:51 <a href="https://en.wikipedia.org/wiki/SolarWinds#2019%E2%80%932020_supply_chain_attacks">SolarWinds - Wikipedia</a></li>
-<li> 11:51 <a href="https://en.wikipedia.org/wiki/SolarWinds">SolarWinds - Wikipedia</a></li>
-<li> 11:51 www.google.com</li>
-<li> 11:47 moodle.royalholloway.ac.uk</li>
-<li> 11:45 <a href="https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources">Wikipedia:Reliable sources - Wikipedia</a></li>
-<li> 11:45 www.google.com</li>
-<li> 11:41 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:37 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:34 moodle.royalholloway.ac.uk</li>
-<li> 11:33 www.csis.org</li>
-<li> 11:32 moodle.royalholloway.ac.uk</li>
-<li class='same'> 11:31 moodle.royalholloway.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 10:55 moodle.royalholloway.ac.uk</li>
-<li class='same'> 10:54 moodle.royalholloway.ac.uk</li>
-<li> 10:53 www.google.com</li>
-<li> 10:49 moodle.royalholloway.ac.uk</li>
-<li> 10:49 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)#Web_applications">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)?action=edit&amp;section=9&amp;veswitched=1">Editing Vulnerability (computer security) (section) - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/w/index.php?title=Vulnerability_(computer_security)&amp;action=edit&amp;section=9">Editing Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/w/index.php?title=Vulnerability_(computer_security)&amp;action=edit&amp;section=18">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)?venotify=saved">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:48 <a href="https://en.wikipedia.org/w/index.php?title=Vulnerability_%28computer_security%29&amp;veswitched=1&amp;action=edit">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:47 <a href="https://en.wikipedia.org/w/index.php?title=Vulnerability_%28computer_security%29&amp;veswitched=1&amp;oldid=1248998051&amp;action=edit">Editing Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:45 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:45 <a href="https://en.wikipedia.org/w/index.php?title=Vulnerability_(computer_security)&amp;action=edit&amp;section=9">Editing Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:45 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)#cite_ref-FOOTNOTEStrout202314_29-2">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:45 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)#cite_note-FOOTNOTEStrout202314-29">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:45 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)#cite_ref-FOOTNOTEStrout202315_26-1">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:45 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)#CITEREFStrout2023">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:43 <a href="https://en.wikipedia.org/wiki/Vulnerability_scanner">Vulnerability scanner - Wikipedia</a></li>
-<li> 10:43 <a href="https://en.wikipedia.org/wiki/Vulnerability_assessment">Vulnerability assessment - Wikipedia</a></li>
-<li> 10:43 <a href="https://en.wikipedia.org/wiki/Vulnerability_management">Vulnerability management - Wikipedia</a></li>
-<li> 10:42 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
-<li> 10:42 www.google.com</li>
-<li> 10:41 moodle.royalholloway.ac.uk</li>
-<li> 10:41 www.bbc.com</li>
-<li> 10:41 <a href="https://www.bbc.co.uk/news/world-us-canada-42407488">Cyber-attack: US and UK blame North Korea for WannaCry - BBC News</a></li>
-<li> 10:40 moodle.royalholloway.ac.uk</li>
-<li class='same'> 10:39 moodle.royalholloway.ac.uk</li>
-<li> 10:38 rhul-my.sharepoint.com</li>
-<li class='same'> 10:37 rhul-my.sharepoint.com</li>
-<li> 10:32 web.whatsapp.com</li>
-<li> 10:32 moodle.royalholloway.ac.uk</li>
 </ul>
