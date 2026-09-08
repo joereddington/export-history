@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5368)</li>
+<ol><li>www.google.com (5359)</li>
 <li>mail.google.com (5317)</li>
-<li>www.reddit.com (5104)</li>
-<li>outlook.office365.com (4663)</li>
-<li>outlook.office.com (3973)</li>
+<li>www.reddit.com (5102)</li>
+<li>outlook.office365.com (4660)</li>
+<li>outlook.office.com (3970)</li>
 <li>duckduckgo.com (3862)</li>
-<li>docs.google.com (3290)</li>
+<li>docs.google.com (3298)</li>
 <li>chatgpt.com (2753)</li>
 <li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1865)</li>
+<li>www.facebook.com (1864)</li>
 <li>moodle.royalholloway.ac.uk (1800)</li>
-<li>calendar.google.com (1529)</li>
+<li>calendar.google.com (1527)</li>
 <li>www.amazon.co.uk (1326)</li>
-<li>login.microsoftonline.com (1321)</li>
+<li>login.microsoftonline.com (1320)</li>
 <li>chat.openai.com (1306)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1151)</li>
+<li>web.whatsapp.com (1150)</li>
 <li>gmail.com (1131)</li>
-<li>mail.rhul.ac.uk (1007)</li>
+<li>mail.rhul.ac.uk (1005)</li>
 <li>tvtropes.org (886)</li>
 <li>rhul-my.sharepoint.com (851)</li>
 <li>feedly.com (821)</li>
 <li>forms.office.com (777)</li>
-<li>fritz.box (577)</li>
+<li>fritz.box (579)</li>
 <li>www.theguardian.com (572)</li>
 <li>rhul.sharepoint.com (545)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (468)</li>
+<li>drive.google.com (469)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:24 duckduckgo.com</li>
+<ul><li> 09:55 www.facebook.com</li>
+<li> 09:55 facebook.com</li>
+<li> 09:54 fritz.box</li>
+<li class='same'> 09:53 fritz.box</li>
+<li> 09:50 docs.google.com</li>
+<li class='same'> 09:49 docs.google.com</li>
+<li class='same'> 09:41 docs.google.com</li>
+<li> 09:41 policies.google.com</li>
+<li> 09:39 docs.google.com</li>
+<li class='same'> 09:35 docs.google.com</li>
+<li class='same'> 09:34 docs.google.com</li>
+<li class='same'> 09:32 docs.google.com</li>
+<li> 09:32 drive.google.com</li>
+<li> 09:26 docs.google.com</li>
+<li> 09:24 duckduckgo.com</li>
 <li class='same'> 09:23 duckduckgo.com</li>
 <li> 09:23 mail.google.com</li>
 <li class='same'> 09:20 mail.google.com</li>
@@ -11490,8 +11504,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:12 www.linkedin.com</li>
 <li> 17:11 uk.movies.yahoo.com</li>
 <li> 17:11 guce.yahoo.com</li>
-<li> 17:11 uk.movies.yahoo.com</li>
-<li> 17:11 guce.yahoo.com</li>
 <li> 17:11 consent.yahoo.com</li>
 <li> 17:11 duckduckgo.com</li>
 <li> 17:10 www.giantitp.com</li>
@@ -11503,8 +11515,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:54 calendar.google.com</li>
 <li> 16:53 outlook.office365.com</li>
 <li class='same'> 16:52 outlook.office365.com</li>
-<li> 16:52 login.microsoftonline.com</li>
-<li> 16:52 outlook.office365.com</li>
 <li> 16:52 mail.rhul.ac.uk</li>
 <li> 16:45 www.linkedin.com</li>
 <li class='same'> 16:44 www.linkedin.com</li>
@@ -11652,8 +11662,7 @@ With number of accesses/minutes in parentheses
 <li> 12:26 <a href="https://joereddington.com/projectreal-preview/">Project Real | Using domain experts and co-creation to combat misinformation online and in person. Shared under a creative commons Attribution-NonCommercial-ShareAlike CC BY-NC-SA licence.</a></li>
 <li> 12:26 <a href="http://joereddington.com/projectreal-preview/"></a></li>
 <li> 12:26 github.com</li>
-<li> 12:11 intranet.royalholloway.ac.uk</li>
-<li class='same'> 12:10 intranet.royalholloway.ac.uk</li>
+<li> 12:10 intranet.royalholloway.ac.uk</li>
 <li> 12:07 127.0.0.1:4011</li>
 <li> 12:06 github.com</li>
 <li> 11:50 www.linkedin.com</li>
@@ -11662,7 +11671,6 @@ With number of accesses/minutes in parentheses
 <li> 11:42 www.wrenpsychology.co.uk</li>
 <li class='same'> 11:41 www.wrenpsychology.co.uk</li>
 <li> 11:41 wrenpsychology.co.uk</li>
-<li> 11:39 mail-attachment.googleusercontent.com</li>
 <li> 11:39 mail.google.com</li>
 <li> 11:38 github.com</li>
 <li class='same'> 11:37 github.com</li>
@@ -11673,7 +11681,6 @@ With number of accesses/minutes in parentheses
 <li> 11:34 wiley.scienceconnect.io</li>
 <li> 11:34 dx.doi.org</li>
 <li> 11:34 bpspsychub.onlinelibrary.wiley.com</li>
-<li> 11:34 dx.doi.org</li>
 <li> 11:34 127.0.0.1:4011</li>
 <li> 11:34 www.projectreal.co.uk</li>
 <li> 11:34 127.0.0.1:4011</li>
@@ -11681,12 +11688,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:30 127.0.0.1:4011</li>
 <li class='same'> 11:29 127.0.0.1:4011</li>
 <li> 11:28 calendar.google.com</li>
-<li> 11:28 www.google.com</li>
-<li> 11:28 calendar.google.com</li>
 <li> 11:28 mail.google.com</li>
 <li class='same'> 11:27 mail.google.com</li>
-<li> 11:27 calendar.google.com</li>
-<li> 11:27 www.google.com</li>
 <li> 11:27 calendar.google.com</li>
 <li> 11:27 mail.google.com</li>
 <li class='same'> 11:26 mail.google.com</li>
@@ -11696,7 +11699,6 @@ With number of accesses/minutes in parentheses
 <li> 11:25 kdpreports.amazon.com</li>
 <li> 11:24 forum.artofmemory.com</li>
 <li> 11:24 email.forum.artofmemory.com</li>
-<li> 11:24 www.google.com</li>
 <li> 11:24 mail.google.com</li>
 <li class='same'> 11:23 mail.google.com</li>
 <li class='same'> 11:18 mail.google.com</li>
@@ -11710,12 +11712,10 @@ With number of accesses/minutes in parentheses
 <li> 11:13 gmail.com</li>
 <li> 11:12 www.parkrun.org.uk</li>
 <li class='same'> 11:11 www.parkrun.org.uk</li>
-<li> 11:11 www.google.com</li>
 <li> 11:11 mail.google.com</li>
 <li> 11:09 calendar.google.com</li>
 <li> 11:09 mail.google.com</li>
-<li> 11:07 mail-attachment.googleusercontent.com</li>
-<li> 11:07 mail.google.com</li>
+<li class='same'> 11:07 mail.google.com</li>
 <li class='same'> 11:01 mail.google.com</li>
 <li> 11:00 chatgpt.com</li>
 <li> 11:00 chat.openai.com</li>
@@ -124073,34 +124073,4 @@ With number of accesses/minutes in parentheses
 <li> 17:09 web.whatsapp.com</li>
 <li> 17:01 www.google.com</li>
 <li> 16:35 scholar.google.com</li>
-<li> 16:35 www.google.com</li>
-<li> 16:34 ciisec.org</li>
-<li> 16:30 www.google.com</li>
-<li> 16:28 <a href="https://en.wikipedia.org/wiki/Chartered_Institute_of_Information_Security#History">Chartered Institute of Information Security - Wikipedia</a></li>
-<li> 16:28 <a href="https://en.wikipedia.org/w/index.php?title=Chartered_Institute_of_Information_Security&amp;action=edit&amp;section=3">Editing Chartered Institute of Information Security - Wikipedia</a></li>
-<li> 16:27 <a href="https://en.wikipedia.org/wiki/UK_cyber_security_community">UK cyber security community - Wikipedia</a></li>
-<li> 16:27 <a href="https://en.wikipedia.org/wiki/British_cyber_security_community">UK cyber security community - Wikipedia</a></li>
-<li> 16:26 www.ncsc.gov.uk</li>
-<li> 16:26 <a href="https://en.wikipedia.org/wiki/Chartered_Institute_of_Information_Security">Chartered Institute of Information Security - Wikipedia</a></li>
-<li> 16:26 www.google.com</li>
-<li> 16:25 teams.microsoft.com</li>
-<li> 16:25 eur03.safelinks.protection.outlook.com</li>
-<li> 16:22 www.dmu.ac.uk</li>
-<li> 16:22 www.google.com</li>
-<li> 16:21 www.ntu.ac.uk</li>
-<li> 16:20 www.google.com</li>
-<li> 16:16 teams.microsoft.com</li>
-<li> 16:16 eur03.safelinks.protection.outlook.com</li>
-<li> 16:15 outlook.office.com</li>
-<li> 16:14 web.whatsapp.com</li>
-<li> 16:11 outlook.office365.com</li>
-<li> 16:11 outlook.office.com</li>
-<li> 16:11 mail.rhul.ac.uk</li>
-<li> 16:04 www.facebook.com</li>
-<li class='same'> 16:01 www.facebook.com</li>
-<li> 16:00 outlook.office.com</li>
-<li> 16:00 outlook.office365.com</li>
-<li> 16:00 mail.rhul.ac.uk</li>
-<li> 15:59 www.reddit.com</li>
-<li class='same'> 15:57 www.reddit.com</li>
 </ul>
