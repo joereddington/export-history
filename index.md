@@ -68,27 +68,27 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5359)</li>
+<ol><li>www.google.com (5355)</li>
 <li>mail.google.com (5317)</li>
-<li>www.reddit.com (5102)</li>
+<li>www.reddit.com (5099)</li>
 <li>outlook.office365.com (4660)</li>
 <li>outlook.office.com (3970)</li>
 <li>duckduckgo.com (3862)</li>
-<li>docs.google.com (3298)</li>
+<li>docs.google.com (3299)</li>
 <li>chatgpt.com (2753)</li>
-<li>www.linkedin.com (2361)</li>
+<li>www.linkedin.com (2366)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1864)</li>
 <li>moodle.royalholloway.ac.uk (1800)</li>
-<li>calendar.google.com (1527)</li>
+<li>calendar.google.com (1529)</li>
 <li>www.amazon.co.uk (1326)</li>
 <li>login.microsoftonline.com (1320)</li>
 <li>chat.openai.com (1306)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1150)</li>
+<li>web.whatsapp.com (1149)</li>
 <li>gmail.com (1131)</li>
 <li>mail.rhul.ac.uk (1005)</li>
-<li>tvtropes.org (886)</li>
+<li>tvtropes.org (885)</li>
 <li>rhul-my.sharepoint.com (851)</li>
 <li>feedly.com (821)</li>
 <li>forms.office.com (777)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:55 www.facebook.com</li>
+<ul><li> 10:10 www.linkedin.com</li>
+<li class='same'> 10:09 www.linkedin.com</li>
+<li class='same'> 10:08 www.linkedin.com</li>
+<li class='same'> 10:07 www.linkedin.com</li>
+<li class='same'> 10:06 www.linkedin.com</li>
+<li> 10:04 calendar.google.com</li>
+<li class='same'> 10:03 calendar.google.com</li>
+<li> 09:58 docs.google.com</li>
+<li> 09:55 www.facebook.com</li>
 <li> 09:55 facebook.com</li>
 <li> 09:54 fritz.box</li>
 <li class='same'> 09:53 fritz.box</li>
@@ -124050,27 +124058,4 @@ With number of accesses/minutes in parentheses
 <li> 20:19 outlook.office365.com</li>
 <li> 20:19 outlook.office.com</li>
 <li> 20:19 mail.rhul.ac.uk</li>
-<li> 20:00 www.popsugar.com</li>
-<li> 20:00 inews.co.uk</li>
-<li class='same'> 19:59 inews.co.uk</li>
-<li> 19:59 tvtropes.org</li>
-</ul>
-
-<br>
-
-<ul><li> 19:01 www.google.com</li>
-<li class='same'> 19:00 www.google.com</li>
-<li> 19:00 www.grammarly.com</li>
-<li> 18:59 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:29 www.reddit.com</li>
-<li class='same'> 17:24 www.reddit.com</li>
-<li class='same'> 17:23 www.reddit.com</li>
-<li> 17:17 www.giantitp.com</li>
-<li> 17:09 web.whatsapp.com</li>
-<li> 17:01 www.google.com</li>
-<li> 16:35 scholar.google.com</li>
 </ul>
