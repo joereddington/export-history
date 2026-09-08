@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5349)</li>
+<ol><li>www.google.com (5344)</li>
 <li>mail.google.com (5320)</li>
 <li>www.reddit.com (5086)</li>
 <li>outlook.office365.com (4657)</li>
 <li>outlook.office.com (3966)</li>
-<li>duckduckgo.com (3862)</li>
+<li>duckduckgo.com (3864)</li>
 <li>docs.google.com (3298)</li>
 <li>chatgpt.com (2757)</li>
 <li>www.linkedin.com (2366)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1851)</li>
-<li>moodle.royalholloway.ac.uk (1782)</li>
-<li>calendar.google.com (1529)</li>
+<li>www.facebook.com (1854)</li>
+<li>moodle.royalholloway.ac.uk (1777)</li>
+<li>calendar.google.com (1530)</li>
 <li>www.amazon.co.uk (1326)</li>
 <li>login.microsoftonline.com (1321)</li>
 <li>chat.openai.com (1305)</li>
@@ -89,12 +89,12 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1132)</li>
 <li>mail.rhul.ac.uk (1002)</li>
 <li>tvtropes.org (885)</li>
-<li>rhul-my.sharepoint.com (850)</li>
+<li>rhul-my.sharepoint.com (848)</li>
 <li>feedly.com (821)</li>
 <li>forms.office.com (777)</li>
 <li>fritz.box (579)</li>
 <li>www.theguardian.com (572)</li>
-<li>rhul.sharepoint.com (555)</li>
+<li>rhul.sharepoint.com (562)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (469)</li>
@@ -105,6 +105,26 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 08/09/26</H3>
+
+<br>
+
+<ul><li> 16:28 calendar.google.com</li>
+<li> 16:26 www.facebook.com</li>
+<li class='same'> 16:25 www.facebook.com</li>
+<li class='same'> 16:24 www.facebook.com</li>
+<li> 16:24 facebook.com</li>
+<li> 16:15 rhul.sharepoint.com</li>
+<li class='same'> 16:14 rhul.sharepoint.com</li>
+<li class='same'> 16:13 rhul.sharepoint.com</li>
+<li class='same'> 16:12 rhul.sharepoint.com</li>
+<li class='same'> 16:11 rhul.sharepoint.com</li>
+<li> 16:09 duckduckgo.com</li>
+<li> 16:07 <a href="https://joereddington.com/2025/02/05/feedback.html">Feedback | Joe Reddington</a></li>
+<li> 16:04 duckduckgo.com</li>
+<li> 16:03 rhul.sharepoint.com</li>
+<li class='same'> 16:02 rhul.sharepoint.com</li>
+<li class='same'> 16:01 rhul.sharepoint.com</li>
+</ul>
 
 <br>
 
@@ -123952,25 +123972,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:37 rhul-my.sharepoint.com</li>
 <li> 10:32 web.whatsapp.com</li>
 <li> 10:32 moodle.royalholloway.ac.uk</li>
-<li> 10:32 <a href="https://xkcd.com/327/">xkcd: Exploits of a Mom</a></li>
-<li> 10:32 www.google.com</li>
-<li> 10:28 <a href="https://en.wikipedia.org/wiki/Stuxnet">Stuxnet - Wikipedia</a></li>
-<li> 10:28 web.archive.org</li>
-<li> 10:26 <a href="https://en.wikipedia.org/wiki/Equation_Group">Equation Group - Wikipedia</a></li>
-<li> 10:26 www.google.com</li>
-<li> 10:25 <a href="https://en.wikipedia.org/wiki/Edward_Snowden">Wikipedia:WikiProject Computer security/Popular pages - Wikipedia</a></li>
-<li> 10:25 <a href="https://en.wikipedia.org/wiki/Air_gap_(networking)">Air gap (networking) - Wikipedia</a></li>
-<li> 10:25 <a href="https://en.wikipedia.org/wiki/Air_gap">Air gap - Wikipedia</a></li>
-<li> 10:24 www.google.com</li>
-<li> 10:24 <a href="https://en.wikipedia.org/wiki/Stuxnet">Stuxnet - Wikipedia</a></li>
-<li> 10:24 www.google.com</li>
-<li> 10:22 moodle.royalholloway.ac.uk</li>
-<li> 10:13 www.google.com</li>
-<li> 10:06 rhul-my.sharepoint.com</li>
-<li class='same'> 10:05 rhul-my.sharepoint.com</li>
-<li> 10:05 rhul.sharepoint.com</li>
-<li> 10:03 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:50 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:49 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:46 moodle.royalholloway.ac.uk</li>
 </ul>
