@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5351)</li>
+<ol><li>www.google.com (5350)</li>
 <li>mail.google.com (5320)</li>
 <li>www.reddit.com (5086)</li>
 <li>outlook.office365.com (4657)</li>
 <li>outlook.office.com (3966)</li>
 <li>duckduckgo.com (3862)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2759)</li>
+<li>chatgpt.com (2757)</li>
 <li>www.linkedin.com (2366)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1851)</li>
-<li>moodle.royalholloway.ac.uk (1798)</li>
+<li>moodle.royalholloway.ac.uk (1790)</li>
 <li>calendar.google.com (1529)</li>
 <li>www.amazon.co.uk (1326)</li>
 <li>login.microsoftonline.com (1321)</li>
@@ -89,15 +89,15 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1132)</li>
 <li>mail.rhul.ac.uk (1002)</li>
 <li>tvtropes.org (885)</li>
-<li>rhul-my.sharepoint.com (851)</li>
+<li>rhul-my.sharepoint.com (850)</li>
 <li>feedly.com (821)</li>
 <li>forms.office.com (777)</li>
 <li>fritz.box (579)</li>
 <li>www.theguardian.com (572)</li>
-<li>rhul.sharepoint.com (556)</li>
+<li>rhul.sharepoint.com (555)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (470)</li>
+<li>drive.google.com (469)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,11 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 08/09/26</H3>
+
+<br>
+
+<ul><li> 13:51 intranet.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
@@ -123988,23 +123993,4 @@ With number of accesses/minutes in parentheses
 <li> 07:24 www.google.com</li>
 <li> 07:23 ddanchev.blogspot.com</li>
 <li> 07:18 moodle.royalholloway.ac.uk</li>
-<li class='same'> 07:10 moodle.royalholloway.ac.uk</li>
-<li class='same'> 07:07 moodle.royalholloway.ac.uk</li>
-<li> 07:06 rhul.sharepoint.com</li>
-<li> 07:06 teachinghub.bath.ac.uk</li>
-<li> 07:05 moodle.royalholloway.ac.uk</li>
-<li> 07:04 digi-ed.uk</li>
-<li> 07:04 www.google.com</li>
-<li> 07:03 moodle.royalholloway.ac.uk</li>
-<li class='same'> 07:02 moodle.royalholloway.ac.uk</li>
-<li class='same'> 07:01 moodle.royalholloway.ac.uk</li>
-<li> 06:52 rhul-my.sharepoint.com</li>
-<li> 06:52 drive.google.com</li>
-<li> 06:51 claude.ai</li>
-<li class='same'> 06:50 claude.ai</li>
-<li> 06:45 moodle.royalholloway.ac.uk</li>
-<li> 06:43 chatgpt.com</li>
-<li> 06:43 auth0.openai.com</li>
-<li> 06:43 chatgpt.com</li>
-<li> 06:42 moodle.royalholloway.ac.uk</li>
 </ul>
