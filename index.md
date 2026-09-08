@@ -68,11 +68,11 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5354)</li>
-<li>mail.google.com (5319)</li>
+<ol><li>www.google.com (5353)</li>
+<li>mail.google.com (5318)</li>
 <li>www.reddit.com (5086)</li>
 <li>outlook.office365.com (4657)</li>
-<li>outlook.office.com (3967)</li>
+<li>outlook.office.com (3966)</li>
 <li>duckduckgo.com (3862)</li>
 <li>docs.google.com (3299)</li>
 <li>chatgpt.com (2760)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (777)</li>
 <li>fritz.box (579)</li>
 <li>www.theguardian.com (572)</li>
-<li>rhul.sharepoint.com (548)</li>
+<li>rhul.sharepoint.com (549)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (470)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:27 rhul.sharepoint.com</li>
+<ul><li> 11:28 rhul.sharepoint.com</li>
+<li class='same'> 11:27 rhul.sharepoint.com</li>
 <li class='same'> 11:26 rhul.sharepoint.com</li>
 <li class='same'> 11:25 rhul.sharepoint.com</li>
 <li> 11:25 chatgpt.com</li>
@@ -124040,12 +124041,4 @@ With number of accesses/minutes in parentheses
 <li> 21:03 www.ebay.co.uk</li>
 <li class='same'> 21:02 www.ebay.co.uk</li>
 <li class='same'> 21:01 www.ebay.co.uk</li>
-<li class='same'> 21:00 www.ebay.co.uk</li>
-<li class='same'> 20:59 www.ebay.co.uk</li>
-<li> 20:59 www.google.com</li>
-<li> 20:58 www.ebay.co.uk</li>
-<li> 20:58 contact.ebay.co.uk</li>
-<li> 20:58 www.ebay.co.uk</li>
-<li> 20:56 mail.google.com</li>
-<li> 20:55 outlook.office.com</li>
 </ul>
