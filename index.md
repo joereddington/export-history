@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5353)</li>
-<li>mail.google.com (5319)</li>
+<ol><li>www.google.com (5351)</li>
+<li>mail.google.com (5320)</li>
 <li>www.reddit.com (5086)</li>
 <li>outlook.office365.com (4657)</li>
 <li>outlook.office.com (3966)</li>
 <li>duckduckgo.com (3862)</li>
-<li>docs.google.com (3299)</li>
-<li>chatgpt.com (2760)</li>
+<li>docs.google.com (3298)</li>
+<li>chatgpt.com (2762)</li>
 <li>www.linkedin.com (2366)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1864)</li>
+<li>www.facebook.com (1851)</li>
 <li>moodle.royalholloway.ac.uk (1800)</li>
 <li>calendar.google.com (1531)</li>
 <li>www.amazon.co.uk (1326)</li>
-<li>login.microsoftonline.com (1320)</li>
+<li>login.microsoftonline.com (1321)</li>
 <li>chat.openai.com (1307)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1149)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (777)</li>
 <li>fritz.box (579)</li>
 <li>www.theguardian.com (572)</li>
-<li>rhul.sharepoint.com (549)</li>
+<li>rhul.sharepoint.com (556)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (470)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:29 mail.google.com</li>
+<ul><li> 12:55 rhul.sharepoint.com</li>
+<li class='same'> 12:54 rhul.sharepoint.com</li>
+<li> 12:51 192.168.178.1</li>
+<li> 12:38 chatgpt.com</li>
+<li> 12:37 rhul.sharepoint.com</li>
+<li class='same'> 12:36 rhul.sharepoint.com</li>
+<li class='same'> 12:35 rhul.sharepoint.com</li>
+<li> 12:35 chatgpt.com</li>
+<li> 12:33 rhul.sharepoint.com</li>
+<li> 12:33 device.login.microsoftonline.com</li>
+<li> 12:33 login.microsoftonline.com</li>
+<li> 12:33 rhul.sharepoint.com</li>
+<li> 12:33 fast.com</li>
+<li> 12:30 mail.google.com</li>
+<li class='same'> 12:29 mail.google.com</li>
 <li> 12:29 192.168.178.1</li>
 </ul>
 
@@ -124012,39 +124026,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:01 qbo.intuit.com</li>
 <li class='same'> 06:00 qbo.intuit.com</li>
 <li class='same'> 05:59 qbo.intuit.com</li>
-<li class='same'> 05:58 qbo.intuit.com</li>
-<li> 05:58 accounts.intuit.com</li>
-<li> 05:58 qbo.intuit.com</li>
-<li> 05:58 c14.qbo.intuit.com</li>
-<li> 05:58 app.qbo.intuit.com</li>
-<li> 05:56 docs.google.com</li>
-</ul>
-
-<H3>Wednesday, 16/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 21:18 www.facebook.com</li>
-<li class='same'> 21:17 www.facebook.com</li>
-<li class='same'> 21:16 www.facebook.com</li>
-<li class='same'> 21:15 www.facebook.com</li>
-<li class='same'> 21:14 www.facebook.com</li>
-<li class='same'> 21:13 www.facebook.com</li>
-<li class='same'> 21:12 www.facebook.com</li>
-<li class='same'> 21:11 www.facebook.com</li>
-<li class='same'> 21:09 www.facebook.com</li>
-<li class='same'> 21:08 www.facebook.com</li>
-<li class='same'> 21:07 www.facebook.com</li>
-<li> 21:06 www.google.com</li>
-<li> 21:06 www.wayfair.co.uk</li>
-<li> 21:06 www.google.com</li>
-<li> 21:05 www.facebook.com</li>
-<li class='same'> 21:04 www.facebook.com</li>
-<li> 21:03 www.ebay.co.uk</li>
-<li class='same'> 21:02 www.ebay.co.uk</li>
-<li class='same'> 21:01 www.ebay.co.uk</li>
 </ul>
