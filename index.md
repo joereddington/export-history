@@ -69,35 +69,35 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>www.google.com (5354)</li>
-<li>mail.google.com (5317)</li>
-<li>www.reddit.com (5093)</li>
-<li>outlook.office365.com (4659)</li>
-<li>outlook.office.com (3969)</li>
+<li>mail.google.com (5319)</li>
+<li>www.reddit.com (5086)</li>
+<li>outlook.office365.com (4657)</li>
+<li>outlook.office.com (3967)</li>
 <li>duckduckgo.com (3862)</li>
 <li>docs.google.com (3299)</li>
-<li>chatgpt.com (2756)</li>
+<li>chatgpt.com (2760)</li>
 <li>www.linkedin.com (2366)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1864)</li>
 <li>moodle.royalholloway.ac.uk (1800)</li>
-<li>calendar.google.com (1530)</li>
+<li>calendar.google.com (1531)</li>
 <li>www.amazon.co.uk (1326)</li>
 <li>login.microsoftonline.com (1320)</li>
-<li>chat.openai.com (1306)</li>
+<li>chat.openai.com (1307)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1149)</li>
-<li>gmail.com (1131)</li>
-<li>mail.rhul.ac.uk (1004)</li>
+<li>gmail.com (1132)</li>
+<li>mail.rhul.ac.uk (1002)</li>
 <li>tvtropes.org (885)</li>
 <li>rhul-my.sharepoint.com (851)</li>
 <li>feedly.com (821)</li>
 <li>forms.office.com (777)</li>
 <li>fritz.box (579)</li>
 <li>www.theguardian.com (572)</li>
-<li>rhul.sharepoint.com (545)</li>
+<li>rhul.sharepoint.com (548)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (469)</li>
+<li>drive.google.com (470)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:54 calendar.google.com</li>
+<ul><li> 11:27 rhul.sharepoint.com</li>
+<li class='same'> 11:26 rhul.sharepoint.com</li>
+<li class='same'> 11:25 rhul.sharepoint.com</li>
+<li> 11:25 chatgpt.com</li>
+<li> 11:25 chat.openai.com</li>
+<li> 11:21 mail.google.com</li>
+<li class='same'> 11:19 mail.google.com</li>
+<li class='same'> 11:17 mail.google.com</li>
+<li> 11:17 gmail.com</li>
+<li> 11:17 www.activeluton.co.uk</li>
+<li> 11:16 chatgpt.com</li>
+<li class='same'> 11:15 chatgpt.com</li>
+<li class='same'> 11:14 chatgpt.com</li>
+<li> 11:11 calendar.google.com</li>
+<li> 11:10 drive.google.com</li>
+<li> 10:54 calendar.google.com</li>
 <li> 10:54 <a href="https://www.youtube.com/watch?v=uCy64sgLk4E">(75) The Quickest and Easiest Way to Add Tire Sealant - YouTube</a></li>
 <li> 10:53 <a href="https://www.youtube.com/watch?v=A1AcP-iQN_Y">(75) How To Slime a Bike Tire - YouTube</a></li>
 <li> 10:52 <a href="https://www.youtube.com/watch?v=KtWhSWQwG44">(75) How to add Slime tyre sealant to tubes with Presta valves without removing the tyre or tube - YouTube</a></li>
@@ -124033,28 +124048,4 @@ With number of accesses/minutes in parentheses
 <li> 20:58 www.ebay.co.uk</li>
 <li> 20:56 mail.google.com</li>
 <li> 20:55 outlook.office.com</li>
-<li> 20:55 outlook.office365.com</li>
-<li> 20:55 outlook.office.com</li>
-<li> 20:55 mail.rhul.ac.uk</li>
-<li> 20:54 cisse.info</li>
-<li> 20:53 mail.google.com</li>
-<li> 20:50 cisse.info</li>
-<li> 20:49 www.reddit.com</li>
-<li class='same'> 20:48 www.reddit.com</li>
-<li> 20:47 outlook.office.com</li>
-<li> 20:47 outlook.office365.com</li>
-<li> 20:47 mail.rhul.ac.uk</li>
-<li> 20:46 www.giantitp.com</li>
-<li class='same'> 20:45 www.giantitp.com</li>
-<li class='same'> 20:44 www.giantitp.com</li>
-<li> 20:39 www.reddit.com</li>
-<li class='same'> 20:36 www.reddit.com</li>
-<li> 20:36 app.gumroad.com</li>
-<li> 20:35 richburlew.gumroad.com</li>
-<li> 20:35 www.reddit.com</li>
-<li> 20:34 www.ebay.co.uk</li>
-<li class='same'> 20:33 www.ebay.co.uk</li>
-<li class='same'> 20:32 www.ebay.co.uk</li>
-<li> 20:32 www.reddit.com</li>
-<li class='same'> 20:31 www.reddit.com</li>
 </ul>
