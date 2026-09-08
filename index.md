@@ -75,15 +75,15 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3966)</li>
 <li>duckduckgo.com (3862)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2762)</li>
+<li>chatgpt.com (2759)</li>
 <li>www.linkedin.com (2366)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1851)</li>
-<li>moodle.royalholloway.ac.uk (1800)</li>
-<li>calendar.google.com (1531)</li>
+<li>moodle.royalholloway.ac.uk (1798)</li>
+<li>calendar.google.com (1529)</li>
 <li>www.amazon.co.uk (1326)</li>
 <li>login.microsoftonline.com (1321)</li>
-<li>chat.openai.com (1307)</li>
+<li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1149)</li>
 <li>gmail.com (1132)</li>
@@ -124007,23 +124007,4 @@ With number of accesses/minutes in parentheses
 <li> 06:43 auth0.openai.com</li>
 <li> 06:43 chatgpt.com</li>
 <li> 06:42 moodle.royalholloway.ac.uk</li>
-<li> 06:42 chatgpt.com</li>
-<li> 06:42 chat.openai.com</li>
-<li> 06:41 moodle.royalholloway.ac.uk</li>
-<li class='same'> 06:40 moodle.royalholloway.ac.uk</li>
-<li> 06:35 qbo.intuit.com</li>
-<li class='same'> 06:34 qbo.intuit.com</li>
-<li class='same'> 06:31 qbo.intuit.com</li>
-<li class='same'> 06:30 qbo.intuit.com</li>
-<li> 06:19 calendar.google.com</li>
-<li class='same'> 06:17 calendar.google.com</li>
-<li> 06:09 chatgpt.com</li>
-<li class='same'> 06:08 chatgpt.com</li>
-<li> 06:08 chat.openai.com</li>
-<li> 06:04 uber.co.uk</li>
-<li> 06:02 intuit-qbo-prod-10.s3.amazonaws.com</li>
-<li> 06:02 qbo.intuit.com</li>
-<li class='same'> 06:01 qbo.intuit.com</li>
-<li class='same'> 06:00 qbo.intuit.com</li>
-<li class='same'> 05:59 qbo.intuit.com</li>
 </ul>
