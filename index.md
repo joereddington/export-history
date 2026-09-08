@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5350)</li>
+<ol><li>www.google.com (5349)</li>
 <li>mail.google.com (5320)</li>
 <li>www.reddit.com (5086)</li>
 <li>outlook.office365.com (4657)</li>
@@ -79,7 +79,7 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2366)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1851)</li>
-<li>moodle.royalholloway.ac.uk (1790)</li>
+<li>moodle.royalholloway.ac.uk (1782)</li>
 <li>calendar.google.com (1529)</li>
 <li>www.amazon.co.uk (1326)</li>
 <li>login.microsoftonline.com (1321)</li>
@@ -123973,24 +123973,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:50 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:49 moodle.royalholloway.ac.uk</li>
 <li class='same'> 09:46 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:44 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:43 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:39 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:38 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:37 moodle.royalholloway.ac.uk</li>
-<li> 09:36 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
-<li> 09:36 www.bbc.com</li>
-<li> 09:35 moodle.royalholloway.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 07:41 accounts.intuit.com</li>
-<li class='same'> 07:38 accounts.intuit.com</li>
-<li> 07:38 qbo.intuit.com</li>
-<li> 07:27 moodle.royalholloway.ac.uk</li>
-<li> 07:24 <a href="https://en.wikipedia.org/wiki/Operation_Ababil">Operation Ababil - Wikipedia</a></li>
-<li> 07:24 www.google.com</li>
-<li> 07:23 ddanchev.blogspot.com</li>
-<li> 07:18 moodle.royalholloway.ac.uk</li>
 </ul>
