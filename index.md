@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5321)</li>
+<ol><li>www.google.com (5322)</li>
 <li>mail.google.com (5317)</li>
 <li>www.reddit.com (5085)</li>
 <li>outlook.office365.com (4657)</li>
 <li>outlook.office.com (3961)</li>
 <li>duckduckgo.com (3870)</li>
 <li>docs.google.com (3297)</li>
-<li>chatgpt.com (2753)</li>
+<li>chatgpt.com (2764)</li>
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1841)</li>
 <li>moodle.royalholloway.ac.uk (1715)</li>
-<li>calendar.google.com (1529)</li>
+<li>calendar.google.com (1530)</li>
 <li>www.amazon.co.uk (1329)</li>
-<li>login.microsoftonline.com (1324)</li>
-<li>chat.openai.com (1304)</li>
+<li>login.microsoftonline.com (1325)</li>
+<li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1145)</li>
 <li>gmail.com (1132)</li>
@@ -104,7 +104,46 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Wednesday, 09/09/26</H3>
+
+<br>
+
+<ul><li> 10:29 www.google.com</li>
+<li> 10:29 calendar.google.com</li>
+<li> 10:29 chatgpt.com</li>
+<li class='same'> 10:27 chatgpt.com</li>
+<li class='same'> 10:26 chatgpt.com</li>
+<li class='same'> 10:23 chatgpt.com</li>
+<li> 10:23 learningonscreen.ac.uk</li>
+<li class='same'> 10:22 learningonscreen.ac.uk</li>
+<li> 10:22 login.learningonscreen.ac.uk</li>
+<li> 10:22 learningonscreen.ac.uk</li>
+<li> 10:22 connect.openathens.net</li>
+<li> 10:22 login.openathens.net</li>
+<li> 10:22 login.microsoftonline.com</li>
+<li> 10:22 device.login.microsoftonline.com</li>
+<li> 10:22 login.openathens.net</li>
+<li> 10:22 connect.openathens.net</li>
+<li> 10:22 login.learningonscreen.ac.uk</li>
+<li> 10:22 connect.openathens.net</li>
+<li> 10:22 login.learningonscreen.ac.uk</li>
+<li> 10:22 learningonscreen.ac.uk</li>
+<li> 10:21 chatgpt.com</li>
+<li class='same'> 10:18 chatgpt.com</li>
+<li class='same'> 10:17 chatgpt.com</li>
+<li class='same'> 10:16 chatgpt.com</li>
+<li class='same'> 10:13 chatgpt.com</li>
+<li class='same'> 10:12 chatgpt.com</li>
+<li class='same'> 10:11 chatgpt.com</li>
+<li> 10:11 chat.openai.com</li>
+<li> 10:11 fast.com</li>
+</ul>
+
 <H3>Tuesday, 08/09/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
