@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5339)</li>
-<li>mail.google.com (5322)</li>
-<li>www.reddit.com (5086)</li>
+<ol><li>www.google.com (5321)</li>
+<li>mail.google.com (5317)</li>
+<li>www.reddit.com (5085)</li>
 <li>outlook.office365.com (4657)</li>
-<li>outlook.office.com (3964)</li>
-<li>duckduckgo.com (3866)</li>
-<li>docs.google.com (3298)</li>
-<li>chatgpt.com (2758)</li>
-<li>www.linkedin.com (2368)</li>
+<li>outlook.office.com (3961)</li>
+<li>duckduckgo.com (3870)</li>
+<li>docs.google.com (3297)</li>
+<li>chatgpt.com (2753)</li>
+<li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1855)</li>
-<li>moodle.royalholloway.ac.uk (1757)</li>
-<li>calendar.google.com (1530)</li>
-<li>www.amazon.co.uk (1333)</li>
-<li>login.microsoftonline.com (1322)</li>
-<li>chat.openai.com (1305)</li>
+<li>www.facebook.com (1841)</li>
+<li>moodle.royalholloway.ac.uk (1715)</li>
+<li>calendar.google.com (1529)</li>
+<li>www.amazon.co.uk (1329)</li>
+<li>login.microsoftonline.com (1324)</li>
+<li>chat.openai.com (1304)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1148)</li>
-<li>gmail.com (1133)</li>
-<li>mail.rhul.ac.uk (1002)</li>
+<li>web.whatsapp.com (1145)</li>
+<li>gmail.com (1132)</li>
+<li>mail.rhul.ac.uk (1001)</li>
 <li>tvtropes.org (885)</li>
-<li>rhul-my.sharepoint.com (845)</li>
-<li>feedly.com (822)</li>
+<li>rhul-my.sharepoint.com (844)</li>
+<li>feedly.com (823)</li>
 <li>forms.office.com (777)</li>
-<li>fritz.box (579)</li>
-<li>www.theguardian.com (572)</li>
+<li>fritz.box (581)</li>
+<li>www.theguardian.com (564)</li>
 <li>rhul.sharepoint.com (562)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,92 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:57 learningonscreen.ac.uk</li>
+<ul><li> 22:36 feedly.com</li>
+<li> 22:36 192.168.178.1</li>
+<li> 22:15 learningonscreen.ac.uk</li>
+<li> 22:15 login.learningonscreen.ac.uk</li>
+<li> 22:15 learningonscreen.ac.uk</li>
+<li> 22:15 connect.openathens.net</li>
+<li> 22:15 login.openathens.net</li>
+<li> 22:15 login.microsoftonline.com</li>
+<li> 22:15 device.login.microsoftonline.com</li>
+<li> 22:15 login.openathens.net</li>
+<li> 22:15 login.microsoftonline.com</li>
+<li> 22:15 connect.openathens.net</li>
+<li> 22:15 login.learningonscreen.ac.uk</li>
+<li> 22:15 connect.openathens.net</li>
+<li> 22:15 login.learningonscreen.ac.uk</li>
+<li> 22:15 learningonscreen.ac.uk</li>
+<li> 22:15 fast.com</li>
+<li> 22:15 192.168.178.1</li>
+<li class='same'> 22:14 192.168.178.1</li>
+<li> 22:14 fritz.box</li>
+<li> 22:14 firefox-portal-detection.com</li>
+<li> 22:07 192.168.178.1</li>
+<li class='same'> 22:06 192.168.178.1</li>
+<li class='same'> 22:05 192.168.178.1</li>
+<li> 22:04 fritz.box</li>
+<li> 22:03 firefox-portal-detection.com</li>
+<li> 22:03 192.168.178.1</li>
+<li class='same'> 22:01 192.168.178.1</li>
+<li> 22:00 calendar.google.com</li>
+<li> 22:00 192.168.178.1</li>
+<li class='same'> 21:59 192.168.178.1</li>
+<li class='same'> 21:58 192.168.178.1</li>
+<li class='same'> 21:57 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 21:20 learningonscreen.ac.uk</li>
+<li> 21:14 calendar.google.com</li>
+<li> 21:13 feedly.com</li>
+<li> 21:12 learningonscreen.ac.uk</li>
+<li> 21:12 login.learningonscreen.ac.uk</li>
+<li> 21:12 learningonscreen.ac.uk</li>
+<li> 21:12 login.openathens.net</li>
+<li> 21:12 login.learningonscreen.ac.uk</li>
+<li> 21:12 connect.openathens.net</li>
+<li> 21:12 login.learningonscreen.ac.uk</li>
+<li> 21:12 connect.openathens.net</li>
+<li> 21:12 login.learningonscreen.ac.uk</li>
+<li> 21:12 192.168.178.1</li>
+<li> 21:12 learningonscreen.ac.uk</li>
+<li> 21:11 192.168.178.1</li>
+<li class='same'> 21:10 192.168.178.1</li>
+<li> 21:10 www.linkedin.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:20 www.linkedin.com</li>
+<li> 19:19 learningonscreen.ac.uk</li>
+<li class='same'> 19:18 learningonscreen.ac.uk</li>
+<li class='same'> 19:17 learningonscreen.ac.uk</li>
+<li> 19:16 www.express.co.uk</li>
+<li> 19:14 www.ranker.com</li>
+<li> 19:14 duckduckgo.com</li>
+<li> 19:13 learningonscreen.ac.uk</li>
+<li class='same'> 19:12 learningonscreen.ac.uk</li>
+<li> 19:12 www.msn.com</li>
+<li> 19:12 duckduckgo.com</li>
+<li> 19:12 calendar.google.com</li>
+<li class='same'> 19:11 calendar.google.com</li>
+<li> 19:11 learningonscreen.ac.uk</li>
+<li class='same'> 19:10 learningonscreen.ac.uk</li>
+<li class='same'> 19:09 learningonscreen.ac.uk</li>
+<li class='same'> 19:08 learningonscreen.ac.uk</li>
+<li> 19:08 linuxhandbook.com</li>
+<li> 19:07 duckduckgo.com</li>
+<li> 19:06 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 19:05 feedly.com</li>
+<li> 19:05 www.linkedin.com</li>
+<li class='same'> 19:04 www.linkedin.com</li>
+<li> 19:03 fr.wikipedia.org</li>
+<li> 19:02 www.imdb.com</li>
+<li> 19:02 mystery-lane.fandom.com</li>
+<li> 19:02 duckduckgo.com</li>
+<li> 18:57 learningonscreen.ac.uk</li>
 <li class='same'> 18:56 learningonscreen.ac.uk</li>
 <li class='same'> 18:54 learningonscreen.ac.uk</li>
 <li class='same'> 18:53 learningonscreen.ac.uk</li>
@@ -123738,223 +123823,4 @@ With number of accesses/minutes in parentheses
 <li> 07:25 outlook.office365.com</li>
 <li class='same'> 07:23 outlook.office365.com</li>
 <li class='same'> 07:22 outlook.office365.com</li>
-<li> 07:22 mail.rhul.ac.uk</li>
-<li> 07:22 <a href="https://en.wikipedia.org/wiki/WJEC_(exam_board)">WJEC (exam board) - Wikipedia</a></li>
-<li> 07:22 <a href="https://en.wikipedia.org/w/index.php?title=Shaggy_defense&amp;curid=24369186&amp;diff=1251331045&amp;oldid=1251270857">Shaggy defense: Difference between revisions - Wikipedia</a></li>
-<li> 07:21 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 07:21 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 07:21 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 07:21 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=2014_Sony_Pictures_hack&amp;curid=44732528&amp;diff=1251621641&amp;oldid=1248960950">2014 Sony Pictures hack: Difference between revisions - Wikipedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/"></a></li>
-<li> 07:18 www.theguardian.com</li>
-<li class='same'> 07:17 www.theguardian.com</li>
-<li> 07:14 web.whatsapp.com</li>
-<li> 07:13 whitewaterwriters.com</li>
-<li> 07:13 www.facebook.com</li>
-<li class='same'> 07:10 www.facebook.com</li>
-<li> 07:09 www.reddit.com</li>
-<li> 07:02 web.whatsapp.com</li>
-<li> 06:53 whitewaterwriters.com</li>
-<li class='same'> 06:47 whitewaterwriters.com</li>
-<li class='same'> 06:46 whitewaterwriters.com</li>
-<li class='same'> 06:35 whitewaterwriters.com</li>
-<li class='same'> 06:34 whitewaterwriters.com</li>
-<li class='same'> 06:28 whitewaterwriters.com</li>
-<li class='same'> 06:22 whitewaterwriters.com</li>
-<li> 06:17 platform.openai.com</li>
-<li> 06:13 chatgpt.com</li>
-<li> 06:11 whitewaterwriters.com</li>
-<li> 06:09 platform.openai.com</li>
-<li class='same'> 06:07 platform.openai.com</li>
-<li class='same'> 06:05 platform.openai.com</li>
-<li class='same'> 06:04 platform.openai.com</li>
-<li> 06:04 auth0.openai.com</li>
-<li> 06:04 platform.openai.com</li>
-<li> 06:04 chatgpt.com</li>
-<li class='same'> 06:03 chatgpt.com</li>
-<li> 06:03 www.merge.dev</li>
-<li> 06:03 www.google.com</li>
-<li> 06:03 chatgpt.com</li>
-<li class='same'> 06:02 chatgpt.com</li>
-<li> 06:02 chat.openai.com</li>
-<li> 06:02 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 00:00 calendar.google.com</li>
-</ul>
-
-<H3>Thursday, 17/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 18:53 www.theguardian.com</li>
-<li> 18:51 <a href="https://www.bbc.co.uk/">BBC - Home</a></li>
-<li> 18:51 www.google.com</li>
-<li> 18:51 www.pluralsight.com</li>
-<li class='same'> 18:50 www.pluralsight.com</li>
-<li> 18:38 www.google.com</li>
-<li class='same'> 18:37 www.google.com</li>
-<li class='same'> 18:36 www.google.com</li>
-<li> 18:36 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:38 www.amazon.co.uk</li>
-<li class='same'> 17:37 www.amazon.co.uk</li>
-<li> 17:37 www.google.com</li>
-<li> 17:21 docs.google.com</li>
-<li> 17:21 <a href="https://en.wikipedia.org/wiki/Hartree_energy">Hartree - Wikipedia</a></li>
-<li> 17:21 <a href="https://en.wikipedia.org/wiki/Hartree">Hartree - Wikipedia</a></li>
-<li> 17:21 <a href="https://en.wikipedia.org/wiki/List_of_physical_constants">List of physical constants - Wikipedia</a></li>
-<li> 17:21 www.google.com</li>
-<li class='same'> 17:16 www.google.com</li>
-<li class='same'> 17:15 www.google.com</li>
-<li> 17:15 books.google.co.uk</li>
-<li> 17:15 www.google.com</li>
-<li> 17:07 <a href="https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_Security">Wikipedia talk:WikiProject Computer Security - Wikipedia</a></li>
-<li> 17:07 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;curid=15036&amp;diff=1251466188&amp;oldid=1251086650">Information security: Difference between revisions - Wikipedia</a></li>
-<li> 17:06 <a href="https://en.wikipedia.org/w/index.php?title=University_of_the_Third_Age&amp;curid=668610&amp;diff=1251581379&amp;oldid=1244982689">University of the Third Age: Difference between revisions - Wikipedia</a></li>
-<li> 17:06 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 17:06 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 17:06 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 16:40 www.theguardian.com</li>
-<li class='same'> 16:36 www.theguardian.com</li>
-<li> 16:31 <a href="https://www.bbc.co.uk/news/articles/cvglzndx81ko?utm_source=pocket-newtab-en-gb">Fines and convictions for minor mistakes - how rail tickets confuse passengers - BBC News</a></li>
-<li> 16:31 www.bbc.com</li>
-<li> 16:16 <a href="https://en.wikipedia.org/wiki/List_of_phishing_incidents">List of phishing incidents - Wikipedia</a></li>
-<li> 16:16 <a href="https://en.wikipedia.org/wiki/Phishing">Phishing - Wikipedia</a></li>
-<li> 16:15 <a href="https://en.wikipedia.org/wiki/Hacktivism#Notable_hacktivist_events">Hacktivism - Wikipedia</a></li>
-<li> 16:15 <a href="https://en.wikipedia.org/wiki/Blended_threat">Blended threat - Wikipedia</a></li>
-<li> 16:14 <a href="https://en.wikipedia.org/wiki/List_of_security_hacking_incidents">List of security hacking incidents - Wikipedia</a></li>
-<li> 16:14 <a href="https://en.wikipedia.org/wiki/List_of_phishing_incidents">List of phishing incidents - Wikipedia</a></li>
-<li> 16:14 <a href="https://en.wikipedia.org/wiki/List_of_cyberattacks">List of cyberattacks - Wikipedia</a></li>
-<li> 16:14 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-<li> 16:13 <a href="https://en.wikipedia.org/wiki/List_of_phishing_incidents">List of phishing incidents - Wikipedia</a></li>
-<li> 16:13 <a href="https://en.wikipedia.org/wiki/List_of_cyberattacks">List of cyberattacks - Wikipedia</a></li>
-<li> 16:12 <a href="https://en.wikipedia.org/wiki/List_of_security_hacking_incidents">List of security hacking incidents - Wikipedia</a></li>
-<li> 16:12 <a href="https://en.wikipedia.org/wiki/List_of_cyberattacks">List of cyberattacks - Wikipedia</a></li>
-<li> 16:12 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-<li> 16:10 www.digitalhealth.net</li>
-<li> 16:09 www.google.com</li>
-<li> 16:09 <a href="https://en.wikipedia.org/wiki/Talk:List_of_data_breaches">Replying on Talk:List of data breaches - Wikipedia</a></li>
-<li> 16:09 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 16:09 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 16:08 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 16:08 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 16:08 <a href="https://en.wikipedia.org/"></a></li>
-<li> 16:08 www.linkedin.com</li>
-<li> 16:06 www.facebook.com</li>
-<li class='same'> 16:05 www.facebook.com</li>
-<li class='same'> 16:04 www.facebook.com</li>
-<li class='same'> 16:03 www.facebook.com</li>
-<li class='same'> 16:02 www.facebook.com</li>
-<li class='same'> 16:01 www.facebook.com</li>
-<li class='same'> 16:00 www.facebook.com</li>
-<li class='same'> 15:59 www.facebook.com</li>
-<li class='same'> 15:58 www.facebook.com</li>
-<li class='same'> 15:56 www.facebook.com</li>
-<li class='same'> 15:55 www.facebook.com</li>
-<li> 15:51 mail.google.com</li>
-<li> 15:49 rhul-my.sharepoint.com</li>
-<li> 15:49 feedly.com</li>
-<li> 15:49 mail.google.com</li>
-<li class='same'> 15:48 mail.google.com</li>
-<li> 15:45 www.facebook.com</li>
-<li> 15:41 mail.google.com</li>
-<li> 15:41 www.linkedin.com</li>
-<li> 15:40 mail.google.com</li>
-<li> 15:40 gmail.com</li>
-<li> 15:37 www.disneyholidays.co.uk</li>
-<li> 15:37 www.google.com</li>
-<li> 15:36 calendar.google.com</li>
-<li class='same'> 15:35 calendar.google.com</li>
-<li class='same'> 15:34 calendar.google.com</li>
-<li> 15:32 web.whatsapp.com</li>
-<li> 15:22 www.linkedin.com</li>
-<li> 15:19 feedly.com</li>
-<li> 15:19 x.com</li>
-<li> 15:19 twitter.com</li>
-<li> 15:18 www.google.com</li>
-<li> 15:12 www.theguardian.com</li>
-<li> 15:03 outlook.office.com</li>
-<li class='same'> 15:02 outlook.office.com</li>
-<li> 15:02 moodle.royalholloway.ac.uk</li>
-<li class='same'> 15:01 moodle.royalholloway.ac.uk</li>
-<li class='same'> 15:00 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:57 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:56 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:50 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:49 moodle.royalholloway.ac.uk</li>
-<li> 14:45 calendar.google.com</li>
-<li> 14:44 www.linkedin.com</li>
-<li class='same'> 14:43 www.linkedin.com</li>
-<li class='same'> 14:42 www.linkedin.com</li>
-<li> 14:42 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:39 moodle.royalholloway.ac.uk</li>
-<li> 14:34 www.google.com</li>
-<li> 14:33 moodle.royalholloway.ac.uk</li>
-<li> 14:31 <a href="https://en.wikipedia.org/wiki/Jabber_Zeus">Jabber Zeus - Wikipedia</a></li>
-<li> 14:31 <a href="https://en.wikipedia.org/wiki/Gameover_ZeuS">Gameover ZeuS - Wikipedia</a></li>
-<li> 14:31 www.google.com</li>
-<li> 14:24 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:23 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:22 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:20 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:18 moodle.royalholloway.ac.uk</li>
-<li> 14:17 ico.org.uk</li>
-<li> 14:13 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
-<li> 14:12 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:10 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:06 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:04 moodle.royalholloway.ac.uk</li>
-<li class='same'> 14:01 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:58 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:57 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:56 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:55 moodle.royalholloway.ac.uk</li>
-<li> 13:52 <a href="https://en.wikipedia.org/wiki/The_414s">The 414s - Wikipedia</a></li>
-<li> 13:52 www.google.com</li>
-<li> 13:51 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:50 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:48 moodle.royalholloway.ac.uk</li>
-<li> 13:47 <a href="https://en.wikipedia.org/wiki/Timeline_of_events_associated_with_Anonymous#:~:text=On%20May%2017%2C%202012%2C%20Anonymous,sites%20like%20The%20Pirate%20Bay.">Timeline of events associated with Anonymous - Wikipedia</a></li>
-<li> 13:46 www.cloudflare.com</li>
-<li> 13:46 <a href="https://en.wikipedia.org/wiki/Edward_Snowden#:~:text=Kunia%20Camp%2C%20Hawaii%2C%20U.S.&amp;text=In%202013%2C%20while%20working%20as,He%20was%20indicted%20for%20espionage.">Edward Snowden - Wikipedia</a></li>
-<li> 13:45 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:40 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:39 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:37 moodle.royalholloway.ac.uk</li>
-<li> 13:35 www.amazon.co.uk</li>
-<li class='same'> 13:34 www.amazon.co.uk</li>
-<li> 13:31 <a href="https://en.wikipedia.org/wiki/BAE_Systems_Platforms_%26_Services">BAE Systems Platforms &amp; Services - Wikipedia</a></li>
-<li> 13:31 www.google.com</li>
-<li> 13:28 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:23 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:18 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:16 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:14 moodle.royalholloway.ac.uk</li>
-<li class='same'> 13:12 moodle.royalholloway.ac.uk</li>
-<li> 13:10 www.linkedin.com</li>
-<li> 13:06 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
-<li> 13:06 www.theguardian.com</li>
-<li> 13:05 moodle.royalholloway.ac.uk</li>
-<li> 13:03 www.nationalcrimeagency.gov.uk</li>
-<li> 13:02 www.google.com</li>
-<li> 12:58 www.linkedin.com</li>
-<li> 12:58 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:57 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:54 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:47 moodle.royalholloway.ac.uk</li>
 </ul>
