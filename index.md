@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (2783)</li>
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1840)</li>
+<li>www.facebook.com (1841)</li>
 <li>moodle.royalholloway.ac.uk (1719)</li>
 <li>calendar.google.com (1534)</li>
 <li>login.microsoftonline.com (1331)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (996)</li>
 <li>tvtropes.org (885)</li>
 <li>rhul-my.sharepoint.com (845)</li>
-<li>feedly.com (824)</li>
+<li>feedly.com (825)</li>
 <li>forms.office.com (773)</li>
 <li>fritz.box (581)</li>
 <li>www.theguardian.com (563)</li>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 09/09/26</H3>
+
+<br>
+
+<ul><li> 17:24 www.facebook.com</li>
+<li> 17:24 facebook.com</li>
+<li> 17:10 feedly.com</li>
+<li> 17:10 webtimetables.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
