@@ -81,15 +81,15 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1840)</li>
 <li>moodle.royalholloway.ac.uk (1719)</li>
 <li>calendar.google.com (1534)</li>
+<li>login.microsoftonline.com (1331)</li>
 <li>www.amazon.co.uk (1329)</li>
-<li>login.microsoftonline.com (1329)</li>
 <li>chat.openai.com (1302)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1145)</li>
 <li>gmail.com (1130)</li>
 <li>mail.rhul.ac.uk (996)</li>
 <li>tvtropes.org (885)</li>
-<li>rhul-my.sharepoint.com (844)</li>
+<li>rhul-my.sharepoint.com (845)</li>
 <li>feedly.com (824)</li>
 <li>forms.office.com (773)</li>
 <li>fritz.box (581)</li>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:59 rhul-my.sharepoint.com</li>
+<ul><li> 16:02 royalholloway.akarisoftware.com</li>
+<li> 16:02 login.microsoftonline.com</li>
+<li> 16:02 device.login.microsoftonline.com</li>
+<li> 16:01 royalholloway.akarisoftware.com</li>
+<li> 16:01 login.microsoftonline.com</li>
+<li> 16:01 royalholloway.akarisoftware.com</li>
+<li> 16:00 rhul-my.sharepoint.com</li>
+<li class='same'> 15:59 rhul-my.sharepoint.com</li>
 <li> 15:59 login.microsoftonline.com</li>
 <li> 15:59 device.login.microsoftonline.com</li>
 <li> 15:59 rhul-my.sharepoint.com</li>
