@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5311)</li>
-<li>www.google.com (5303)</li>
+<li>www.google.com (5304)</li>
 <li>www.reddit.com (5084)</li>
 <li>outlook.office365.com (4617)</li>
 <li>outlook.office.com (3960)</li>
@@ -78,10 +78,10 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (2783)</li>
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1841)</li>
+<li>www.facebook.com (1842)</li>
 <li>moodle.royalholloway.ac.uk (1719)</li>
 <li>calendar.google.com (1534)</li>
-<li>login.microsoftonline.com (1331)</li>
+<li>login.microsoftonline.com (1332)</li>
 <li>www.amazon.co.uk (1329)</li>
 <li>chat.openai.com (1302)</li>
 <li>herts.instructure.com (1231)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (996)</li>
 <li>tvtropes.org (885)</li>
 <li>rhul-my.sharepoint.com (845)</li>
-<li>feedly.com (825)</li>
+<li>feedly.com (826)</li>
 <li>forms.office.com (773)</li>
 <li>fritz.box (581)</li>
 <li>www.theguardian.com (563)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:24 www.facebook.com</li>
+<ul><li> 18:59 learningonscreen.ac.uk</li>
+<li> 18:58 feedly.com</li>
+<li> 18:57 learningonscreen.ac.uk</li>
+<li> 18:57 login.learningonscreen.ac.uk</li>
+<li> 18:57 learningonscreen.ac.uk</li>
+<li> 18:57 login.openathens.net</li>
+<li> 18:57 connect.openathens.net</li>
+<li> 18:57 login.openathens.net</li>
+<li> 18:57 login.microsoftonline.com</li>
+<li> 18:57 device.login.microsoftonline.com</li>
+<li> 18:57 login.openathens.net</li>
+<li> 18:57 login.learningonscreen.ac.uk</li>
+<li> 18:57 connect.openathens.net</li>
+<li> 18:57 login.learningonscreen.ac.uk</li>
+<li> 18:57 learningonscreen.ac.uk</li>
+<li> 18:56 www.google.com</li>
+<li> 18:56 192.168.178.1</li>
+<li class='same'> 18:55 192.168.178.1</li>
+<li class='same'> 18:54 192.168.178.1</li>
+<li> 18:53 www.google.co.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 17:26 www.facebook.com</li>
+<li class='same'> 17:24 www.facebook.com</li>
 <li> 17:24 facebook.com</li>
 <li> 17:10 feedly.com</li>
 <li> 17:10 webtimetables.royalholloway.ac.uk</li>
