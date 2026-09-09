@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:59 learningonscreen.ac.uk</li>
+<ul><li> 19:00 learningonscreen.ac.uk</li>
+<li class='same'> 18:59 learningonscreen.ac.uk</li>
 <li> 18:58 feedly.com</li>
 <li> 18:57 learningonscreen.ac.uk</li>
 <li> 18:57 login.learningonscreen.ac.uk</li>
