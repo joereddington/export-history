@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5322)</li>
+<ol><li>www.google.com (5320)</li>
 <li>mail.google.com (5317)</li>
 <li>www.reddit.com (5085)</li>
-<li>outlook.office365.com (4657)</li>
+<li>outlook.office365.com (4653)</li>
 <li>outlook.office.com (3961)</li>
 <li>duckduckgo.com (3870)</li>
-<li>docs.google.com (3297)</li>
-<li>chatgpt.com (2764)</li>
+<li>docs.google.com (3298)</li>
+<li>chatgpt.com (2775)</li>
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1841)</li>
 <li>moodle.royalholloway.ac.uk (1715)</li>
-<li>calendar.google.com (1530)</li>
+<li>calendar.google.com (1535)</li>
 <li>www.amazon.co.uk (1329)</li>
-<li>login.microsoftonline.com (1325)</li>
+<li>login.microsoftonline.com (1326)</li>
 <li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1145)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 www.google.com</li>
+<ul><li> 10:54 chatgpt.com</li>
+<li class='same'> 10:53 chatgpt.com</li>
+<li> 10:52 docs.google.com</li>
+<li> 10:52 chatgpt.com</li>
+<li class='same'> 10:51 chatgpt.com</li>
+<li class='same'> 10:46 chatgpt.com</li>
+<li> 10:45 calendar.google.com</li>
+<li> 10:45 www.google.com</li>
+<li> 10:45 calendar.google.com</li>
+<li> 10:42 chatgpt.com</li>
+<li class='same'> 10:41 chatgpt.com</li>
+<li> 10:41 login.microsoftonline.com</li>
+<li> 10:41 device.login.microsoftonline.com</li>
+<li> 10:40 calendar.google.com</li>
+<li class='same'> 10:39 calendar.google.com</li>
+<li> 10:38 chatgpt.com</li>
+<li class='same'> 10:36 chatgpt.com</li>
+<li class='same'> 10:32 chatgpt.com</li>
+<li class='same'> 10:31 chatgpt.com</li>
+<li> 10:29 calendar.google.com</li>
+<li> 10:29 www.google.com</li>
 <li> 10:29 calendar.google.com</li>
 <li> 10:29 chatgpt.com</li>
 <li class='same'> 10:27 chatgpt.com</li>
@@ -11545,21 +11565,16 @@ With number of accesses/minutes in parentheses
 <li> 12:59 go.openathens.net</li>
 <li> 12:59 login.microsoftonline.com</li>
 <li> 12:59 idp.uolia.london.ac.uk</li>
-<li> 12:59 login.openathens.net</li>
-<li> 12:59 idp.uolia.london.ac.uk</li>
 <li> 12:58 proxy.openathens.net</li>
 <li> 12:58 login.openathens.net</li>
 <li> 12:58 go.openathens.net</li>
 <li> 12:57 chatgpt.com</li>
 <li> 12:53 learningonscreen.ac.uk</li>
-<li class='same'> 12:52 learningonscreen.ac.uk</li>
 <li> 12:52 <a href="https://en.wikipedia.org/wiki/Troilus_and_Cressida">Troilus and Cressida - Wikipedia</a></li>
 <li> 12:52 duckduckgo.com</li>
 <li> 12:52 learningonscreen.ac.uk</li>
 <li class='same'> 12:51 learningonscreen.ac.uk</li>
 <li> 12:51 duckduckgo.com</li>
-<li> 12:42 connect.openathens.net</li>
-<li> 12:42 login.openathens.net</li>
 <li> 12:42 connect.openathens.net</li>
 <li> 12:42 login.microsoftonline.com</li>
 <li> 12:42 device.login.microsoftonline.com</li>
@@ -11568,8 +11583,6 @@ With number of accesses/minutes in parentheses
 <li> 12:39 join-professional.ft.com</li>
 <li class='same'> 12:38 join-professional.ft.com</li>
 <li class='same'> 12:37 join-professional.ft.com</li>
-<li class='same'> 12:36 join-professional.ft.com</li>
-<li> 12:35 learningonscreen.ac.uk</li>
 <li> 12:34 nptcgroup.libguides.com</li>
 <li> 12:34 learningonscreen.ac.uk</li>
 <li> 12:32 nptcgroup.libguides.com</li>
@@ -11582,27 +11595,21 @@ With number of accesses/minutes in parentheses
 <li> 12:27 learningonscreen.ac.uk</li>
 <li> 12:27 eur03.safelinks.protection.outlook.com</li>
 <li> 12:26 www-cambridge-org.royalholloway.idm.oclc.org</li>
-<li class='same'> 12:25 www-cambridge-org.royalholloway.idm.oclc.org</li>
 <li> 12:25 www.tiki-toki.com</li>
 <li class='same'> 12:24 www.tiki-toki.com</li>
 <li> 12:24 join-professional.ft.com</li>
 <li> 12:24 www.ft.com</li>
-<li> 12:24 sso.ft.com</li>
 <li> 12:24 join.ft.com</li>
 <li> 12:24 login.openathens.net</li>
 <li> 12:24 connect.openathens.net</li>
 <li> 12:24 sso.ft.com</li>
-<li> 12:24 libguides.rhul.ac.uk</li>
 <li> 12:24 connect.openathens.net</li>
 <li> 12:23 link-springer-com.royalholloway.idm.oclc.org</li>
 <li> 12:23 idp-springer-com.royalholloway.idm.oclc.org</li>
-<li> 12:23 royalholloway.idm.oclc.org</li>
 <li> 12:23 link-springer-com.royalholloway.idm.oclc.org</li>
 <li> 12:23 idp-springer-com.royalholloway.idm.oclc.org</li>
 <li> 12:23 www.tiki-toki.com</li>
 <li> 12:22 www-cambridge-org.royalholloway.idm.oclc.org</li>
-<li> 12:22 login.royalholloway.idm.oclc.org</li>
-<li> 12:22 royalholloway.idm.oclc.org</li>
 <li> 12:22 login.openathens.net</li>
 <li> 12:22 login.learningonscreen.ac.uk</li>
 <li> 12:22 learningonscreen.ac.uk</li>
@@ -11611,7 +11618,6 @@ With number of accesses/minutes in parentheses
 <li> 12:22 login.openathens.net</li>
 <li> 12:22 login.learningonscreen.ac.uk</li>
 <li> 12:22 connect.openathens.net</li>
-<li> 12:22 login.learningonscreen.ac.uk</li>
 <li> 12:21 libguides.rhul.ac.uk</li>
 <li> 12:21 duckduckgo.com</li>
 <li> 12:20 libguides.rhul.ac.uk</li>
@@ -123844,22 +123850,4 @@ With number of accesses/minutes in parentheses
 <li> 07:36 www.google.com</li>
 <li> 07:36 webspace.potsdam.edu</li>
 <li class='same'> 07:35 webspace.potsdam.edu</li>
-<li> 07:35 www.google.com</li>
-<li> 07:31 <a href="https://joereddington.com/2024/06/10/attendence.html">Joe Reddington | Things I make.</a></li>
-<li> 07:30 www.google.com</li>
-<li> 07:30 experience.elluciancloud.ie</li>
-<li> 07:30 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 07:30 experience.elluciancloud.ie</li>
-<li> 07:30 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li class='same'> 07:29 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 07:29 www.valdosta.edu</li>
-<li> 07:29 www.ellucian.com</li>
-<li> 07:28 www.google.com</li>
-<li> 07:28 banner.jcu.edu</li>
-<li class='same'> 07:27 banner.jcu.edu</li>
-<li> 07:26 outlook.office365.com</li>
-<li> 07:25 banner.jcu.edu</li>
-<li> 07:25 outlook.office365.com</li>
-<li class='same'> 07:23 outlook.office365.com</li>
-<li class='same'> 07:22 outlook.office365.com</li>
 </ul>
