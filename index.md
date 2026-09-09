@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>www.google.com (5320)</li>
-<li>mail.google.com (5317)</li>
-<li>www.reddit.com (5085)</li>
-<li>outlook.office365.com (4653)</li>
+<ol><li>mail.google.com (5315)</li>
+<li>www.google.com (5312)</li>
+<li>www.reddit.com (5084)</li>
+<li>outlook.office365.com (4649)</li>
 <li>outlook.office.com (3961)</li>
 <li>duckduckgo.com (3871)</li>
 <li>docs.google.com (3298)</li>
 <li>chatgpt.com (2786)</li>
-<li>www.linkedin.com (2364)</li>
+<li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1841)</li>
 <li>moodle.royalholloway.ac.uk (1719)</li>
 <li>calendar.google.com (1535)</li>
 <li>www.amazon.co.uk (1329)</li>
 <li>login.microsoftonline.com (1328)</li>
-<li>chat.openai.com (1305)</li>
+<li>chat.openai.com (1304)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1145)</li>
-<li>gmail.com (1132)</li>
-<li>mail.rhul.ac.uk (1001)</li>
+<li>gmail.com (1131)</li>
+<li>mail.rhul.ac.uk (999)</li>
 <li>tvtropes.org (885)</li>
-<li>rhul-my.sharepoint.com (844)</li>
+<li>rhul-my.sharepoint.com (843)</li>
 <li>feedly.com (823)</li>
-<li>forms.office.com (777)</li>
+<li>forms.office.com (775)</li>
 <li>fritz.box (581)</li>
 <li>www.theguardian.com (564)</li>
 <li>rhul.sharepoint.com (562)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:00 www.google.co.uk</li>
+<ul><li> 14:09 chatgpt.com</li>
+<li class='same'> 14:05 chatgpt.com</li>
+<li> 14:01 www.google.co.uk</li>
+<li class='same'> 14:00 www.google.co.uk</li>
 <li class='same'> 13:59 www.google.co.uk</li>
 <li class='same'> 13:58 www.google.co.uk</li>
 <li class='same'> 13:57 www.google.co.uk</li>
@@ -11563,18 +11566,14 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:25 fritz.box</li>
 <li class='same'> 13:24 fritz.box</li>
 <li> 13:24 fast.com</li>
-<li> 13:11 uk-westlaw-com.royalholloway.idm.oclc.org</li>
-<li class='same'> 13:09 uk-westlaw-com.royalholloway.idm.oclc.org</li>
+<li> 13:09 uk-westlaw-com.royalholloway.idm.oclc.org</li>
 <li class='same'> 13:08 uk-westlaw-com.royalholloway.idm.oclc.org</li>
-<li class='same'> 13:07 uk-westlaw-com.royalholloway.idm.oclc.org</li>
 <li class='same'> 13:06 uk-westlaw-com.royalholloway.idm.oclc.org</li>
 <li> 13:06 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 13:05 uk-westlaw-com.royalholloway.idm.oclc.org</li>
 <li> 13:05 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
 <li> 13:05 uk-westlaw-com.royalholloway.idm.oclc.org</li>
 <li> 13:05 signon-thomsonreuters-com.royalholloway.idm.oclc.org</li>
 <li> 13:05 uk-westlaw-com.royalholloway.idm.oclc.org</li>
-<li> 13:05 royalholloway.idm.oclc.org</li>
 <li> 13:03 go.gale.com</li>
 <li> 13:02 shibboleth.gale.com</li>
 <li> 13:02 go.gale.com</li>
@@ -11584,14 +11583,11 @@ With number of accesses/minutes in parentheses
 <li> 13:02 link.gale.com</li>
 <li> 13:02 go.gale.com</li>
 <li> 13:02 galeapps.gale.com</li>
-<li> 13:02 libguides.rhul.ac.uk</li>
 <li> 13:01 search-alexanderstreet-com.eu1.proxy.openathens.net</li>
 <li class='same'> 13:00 search-alexanderstreet-com.eu1.proxy.openathens.net</li>
 <li class='same'> 12:59 search-alexanderstreet-com.eu1.proxy.openathens.net</li>
 <li> 12:59 login.openathens.net</li>
-<li> 12:59 uolb2cprod.b2clogin.com</li>
 <li> 12:59 login.microsoftonline.com</li>
-<li> 12:59 login.openathens.net</li>
 <li> 12:59 proxy.openathens.net</li>
 <li> 12:59 login.openathens.net</li>
 <li> 12:59 go.openathens.net</li>
@@ -122710,7 +122706,6 @@ With number of accesses/minutes in parentheses
 <li> 11:22 www.linkedin.com</li>
 <li class='same'> 11:21 www.linkedin.com</li>
 <li class='same'> 11:20 www.linkedin.com</li>
-<li> 11:20 uk.linkedin.com</li>
 <li> 11:20 www.google.com</li>
 <li> 11:19 web.whatsapp.com</li>
 <li> 11:17 claude.ai</li>
@@ -123820,66 +123815,4 @@ With number of accesses/minutes in parentheses
 <li> 15:32 www.google.com</li>
 <li> 15:31 www.theguardian.com</li>
 <li> 15:21 outlook.office365.com</li>
-<li> 15:21 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 13:50 <a href="https://xkcd.com/simplewriter/"></a></li>
-</ul>
-
-<br>
-
-<ul><li> 12:50 forms.office.com</li>
-<li class='same'> 12:49 forms.office.com</li>
-<li> 12:48 mail.google.com</li>
-<li> 12:48 www.linkedin.com</li>
-<li> 12:48 outlook.office365.com</li>
-<li> 12:48 www.linkedin.com</li>
-<li class='same'> 12:47 www.linkedin.com</li>
-<li> 12:47 uk.linkedin.com</li>
-<li> 12:47 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 11:25 www.thesaurus.com</li>
-<li> 11:25 www.google.com</li>
-<li class='same'> 11:24 www.google.com</li>
-<li> 11:23 Local file</li>
-<li> 11:23 outlook.office365.com</li>
-<li> 11:20 <a href="https://xkcd.com/327/">xkcd: Exploits of a Mom</a></li>
-<li> 11:20 www.google.com</li>
-<li> 11:13 mail.google.com</li>
-<li> 11:13 gmail.com</li>
-<li> 11:11 www.google.com</li>
-<li> 11:10 www.ncsc.gov.uk</li>
-<li class='same'> 11:09 www.ncsc.gov.uk</li>
-<li> 11:09 www.googleadservices.com</li>
-<li> 11:09 www.ncsc.gov.uk</li>
-<li class='same'> 11:08 www.ncsc.gov.uk</li>
-<li> 11:08 www.googleadservices.com</li>
-<li> 11:08 www.ncsc.gov.uk</li>
-<li> 11:08 www.googleadservices.com</li>
-<li> 11:08 www.google.com</li>
-<li> 11:07 getreadyforcyberessentials.iasme.co.uk</li>
-<li> 11:07 www.ncsc.gov.uk</li>
-<li> 10:57 www.reddit.com</li>
-<li> 10:56 www.google.com</li>
-<li> 10:56 rhul-my.sharepoint.com</li>
-<li> 10:55 outlook.office365.com</li>
-<li> 10:55 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 07:57 chatgpt.com</li>
-<li class='same'> 07:56 chatgpt.com</li>
-<li> 07:56 chat.openai.com</li>
-<li> 07:37 outlook.office365.com</li>
-<li> 07:36 chromewebstore.google.com</li>
-<li> 07:36 accounts.google.com</li>
-<li> 07:36 www.google.com</li>
-<li> 07:36 webspace.potsdam.edu</li>
-<li class='same'> 07:35 webspace.potsdam.edu</li>
 </ul>
