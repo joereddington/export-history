@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5315)</li>
-<li>www.google.com (5312)</li>
+<li>www.google.com (5311)</li>
 <li>www.reddit.com (5084)</li>
-<li>outlook.office365.com (4649)</li>
+<li>outlook.office365.com (4648)</li>
 <li>outlook.office.com (3961)</li>
-<li>duckduckgo.com (3871)</li>
+<li>duckduckgo.com (3872)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2786)</li>
-<li>www.linkedin.com (2361)</li>
+<li>chatgpt.com (2785)</li>
+<li>www.linkedin.com (2365)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1841)</li>
 <li>moodle.royalholloway.ac.uk (1719)</li>
-<li>calendar.google.com (1535)</li>
+<li>calendar.google.com (1537)</li>
 <li>www.amazon.co.uk (1329)</li>
 <li>login.microsoftonline.com (1328)</li>
-<li>chat.openai.com (1304)</li>
+<li>chat.openai.com (1303)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1145)</li>
 <li>gmail.com (1131)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (823)</li>
 <li>forms.office.com (775)</li>
 <li>fritz.box (581)</li>
-<li>www.theguardian.com (564)</li>
+<li>www.theguardian.com (563)</li>
 <li>rhul.sharepoint.com (562)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:09 chatgpt.com</li>
+<ul><li> 14:58 www.linkedin.com</li>
+<li> 14:58 calendar.google.com</li>
+<li> 14:58 www.linkedin.com</li>
+<li class='same'> 14:57 www.linkedin.com</li>
+<li> 14:57 calendar.google.com</li>
+<li> 14:57 www.linkedin.com</li>
+<li> 14:57 www.google.co.uk</li>
+<li class='same'> 14:34 www.google.co.uk</li>
+<li> 14:34 www.google.com</li>
+<li> 14:34 www.google.co.uk</li>
+<li> 14:34 duckduckgo.com</li>
+<li> 14:34 www.google.co.uk</li>
+<li> 14:33 newsthump.com</li>
+<li> 14:33 www.google.co.uk</li>
+<li> 14:09 chatgpt.com</li>
 <li class='same'> 14:05 chatgpt.com</li>
 <li> 14:01 www.google.co.uk</li>
 <li class='same'> 14:00 www.google.co.uk</li>
@@ -123806,13 +123820,4 @@ With number of accesses/minutes in parentheses
 <li> 15:38 Local file</li>
 <li> 15:38 outlook.office365.com</li>
 <li> 15:36 <a href="https://en.wikipedia.org/wiki/Lord_Chancellor">Lord Chancellor - Wikipedia</a></li>
-<li> 15:35 <a href="https://en.wikipedia.org/wiki/Court_of_equity">Court of equity - Wikipedia</a></li>
-<li> 15:35 www.google.com</li>
-<li> 15:34 chatgpt.com</li>
-<li> 15:34 chat.openai.com</li>
-<li> 15:32 pure.royalholloway.ac.uk</li>
-<li> 15:32 www.royalholloway.ac.uk</li>
-<li> 15:32 www.google.com</li>
-<li> 15:31 www.theguardian.com</li>
-<li> 15:21 outlook.office365.com</li>
 </ul>
