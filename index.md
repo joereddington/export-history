@@ -75,14 +75,14 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3961)</li>
 <li>duckduckgo.com (3870)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2780)</li>
+<li>chatgpt.com (2782)</li>
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1841)</li>
-<li>moodle.royalholloway.ac.uk (1715)</li>
+<li>moodle.royalholloway.ac.uk (1719)</li>
 <li>calendar.google.com (1535)</li>
 <li>www.amazon.co.uk (1329)</li>
-<li>login.microsoftonline.com (1326)</li>
+<li>login.microsoftonline.com (1328)</li>
 <li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1145)</li>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 09/09/26</H3>
+
+<br>
+
+<ul><li> 12:57 chatgpt.com</li>
+<li class='same'> 12:56 chatgpt.com</li>
+<li> 12:56 moodle.royalholloway.ac.uk</li>
+<li class='same'> 12:55 moodle.royalholloway.ac.uk</li>
+<li> 12:55 login.microsoftonline.com</li>
+<li> 12:55 device.login.microsoftonline.com</li>
+<li> 12:55 moodle.royalholloway.ac.uk</li>
+<li> 12:55 login.microsoftonline.com</li>
+<li> 12:55 moodle.royalholloway.ac.uk</li>
+<li> 12:52 codex.danielvaughan.com</li>
+</ul>
 
 <br>
 
