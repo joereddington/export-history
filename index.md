@@ -79,17 +79,17 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1840)</li>
-<li>moodle.royalholloway.ac.uk (1718)</li>
+<li>moodle.royalholloway.ac.uk (1719)</li>
 <li>calendar.google.com (1534)</li>
 <li>www.amazon.co.uk (1329)</li>
-<li>login.microsoftonline.com (1328)</li>
+<li>login.microsoftonline.com (1329)</li>
 <li>chat.openai.com (1302)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1145)</li>
 <li>gmail.com (1130)</li>
 <li>mail.rhul.ac.uk (996)</li>
 <li>tvtropes.org (885)</li>
-<li>rhul-my.sharepoint.com (842)</li>
+<li>rhul-my.sharepoint.com (844)</li>
 <li>feedly.com (824)</li>
 <li>forms.office.com (773)</li>
 <li>fritz.box (581)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 09/09/26</H3>
+
+<br>
+
+<ul><li> 15:59 rhul-my.sharepoint.com</li>
+<li> 15:59 login.microsoftonline.com</li>
+<li> 15:59 device.login.microsoftonline.com</li>
+<li> 15:59 rhul-my.sharepoint.com</li>
+<li> 15:58 moodle.royalholloway.ac.uk</li>
+<li> 15:53 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 15:52 webtimetables.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
