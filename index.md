@@ -68,30 +68,30 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5315)</li>
-<li>www.google.com (5311)</li>
+<ol><li>mail.google.com (5311)</li>
+<li>www.google.com (5303)</li>
 <li>www.reddit.com (5084)</li>
-<li>outlook.office365.com (4648)</li>
-<li>outlook.office.com (3961)</li>
+<li>outlook.office365.com (4617)</li>
+<li>outlook.office.com (3960)</li>
 <li>duckduckgo.com (3872)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2785)</li>
-<li>www.linkedin.com (2365)</li>
+<li>chatgpt.com (2783)</li>
+<li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1841)</li>
-<li>moodle.royalholloway.ac.uk (1719)</li>
-<li>calendar.google.com (1537)</li>
+<li>www.facebook.com (1840)</li>
+<li>moodle.royalholloway.ac.uk (1718)</li>
+<li>calendar.google.com (1534)</li>
 <li>www.amazon.co.uk (1329)</li>
 <li>login.microsoftonline.com (1328)</li>
-<li>chat.openai.com (1303)</li>
+<li>chat.openai.com (1302)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1145)</li>
-<li>gmail.com (1131)</li>
-<li>mail.rhul.ac.uk (999)</li>
+<li>gmail.com (1130)</li>
+<li>mail.rhul.ac.uk (996)</li>
 <li>tvtropes.org (885)</li>
-<li>rhul-my.sharepoint.com (843)</li>
-<li>feedly.com (823)</li>
-<li>forms.office.com (775)</li>
+<li>rhul-my.sharepoint.com (842)</li>
+<li>feedly.com (824)</li>
+<li>forms.office.com (773)</li>
 <li>fritz.box (581)</li>
 <li>www.theguardian.com (563)</li>
 <li>rhul.sharepoint.com (562)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:58 www.linkedin.com</li>
+<ul><li> 15:02 feedly.com</li>
+<li> 15:01 www.giantitp.com</li>
+<li> 15:00 www.linkedin.com</li>
+<li class='same'> 14:58 www.linkedin.com</li>
 <li> 14:58 calendar.google.com</li>
 <li> 14:58 www.linkedin.com</li>
 <li class='same'> 14:57 www.linkedin.com</li>
@@ -123716,108 +123719,4 @@ With number of accesses/minutes in parentheses
 <li> 18:52 outlook.office365.com</li>
 <li> 18:51 forms.office.com</li>
 <li> 18:50 outlook.office365.com</li>
-<li class='same'> 18:46 outlook.office365.com</li>
-<li class='same'> 18:45 outlook.office365.com</li>
-<li class='same'> 18:41 outlook.office365.com</li>
-<li class='same'> 18:39 outlook.office365.com</li>
-<li class='same'> 18:38 outlook.office365.com</li>
-<li class='same'> 18:27 outlook.office365.com</li>
-<li> 18:27 outlook.office.com</li>
-<li> 18:27 forms.office.com</li>
-<li> 18:26 outlook.office365.com</li>
-<li> 18:22 dashboards.rhul.ac.uk</li>
-<li> 18:22 outlook.office365.com</li>
-<li class='same'> 18:21 outlook.office365.com</li>
-<li> 18:21 mail.rhul.ac.uk</li>
-<li> 18:18 www.excelforum.com</li>
-<li> 18:18 www.google.com</li>
-<li> 18:17 chatgpt.com</li>
-<li class='same'> 18:16 chatgpt.com</li>
-<li> 18:16 chat.openai.com</li>
-<li> 18:15 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 18:15 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 18:15 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 18:15 experience.elluciancloud.ie</li>
-<li> 18:15 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 18:15 experience.elluciancloud.ie</li>
-<li> 18:10 dashboards.rhul.ac.uk</li>
-<li> 18:06 forms.office.com</li>
-<li> 18:05 www.giantitp.com</li>
-<li> 18:04 platform.openai.com</li>
-<li class='same'> 18:03 platform.openai.com</li>
-<li> 18:03 auth0.openai.com</li>
-<li> 18:02 platform.openai.com</li>
-<li> 18:02 mandrillapp.com</li>
-<li> 18:02 mail.google.com</li>
-<li> 17:59 www.linkedin.com</li>
-<li class='same'> 17:58 www.linkedin.com</li>
-<li> 17:57 ico.org.uk</li>
-<li> 17:57 www.google.com</li>
-<li> 17:57 mail.google.com</li>
-<li> 17:57 outlook.office365.com</li>
-<li class='same'> 17:56 outlook.office365.com</li>
-<li class='same'> 17:54 outlook.office365.com</li>
-<li class='same'> 17:53 outlook.office365.com</li>
-<li> 17:53 calendar.google.com</li>
-<li> 17:53 outlook.office365.com</li>
-<li> 17:51 www.google.com</li>
-<li> 17:49 outlook.office365.com</li>
-<li class='same'> 17:48 outlook.office365.com</li>
-<li class='same'> 17:47 outlook.office365.com</li>
-<li> 17:47 www.royalholloway.ac.uk</li>
-<li> 17:46 www.google.com</li>
-<li> 17:46 rhul-my.sharepoint.com</li>
-<li> 17:45 outlook.office365.com</li>
-<li class='same'> 17:44 outlook.office365.com</li>
-<li> 17:43 Local file</li>
-<li> 17:43 outlook.office365.com</li>
-<li class='same'> 17:42 outlook.office365.com</li>
-<li class='same'> 17:41 outlook.office365.com</li>
-<li class='same'> 17:39 outlook.office365.com</li>
-<li> 17:39 mail.rhul.ac.uk</li>
-<li> 17:39 mail.google.com</li>
-<li> 17:39 gmail.com</li>
-<li> 17:39 mail.google.com</li>
-<li> 17:32 <a href="https://en.wikipedia.org/w/index.php?title=British_Library_cyberattack&amp;curid=75627055&amp;diff=1251550522&amp;oldid=1243941716">British Library cyberattack: Difference between revisions - Wikipedia</a></li>
-<li> 17:32 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 17:32 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 17:32 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 17:31 outlook.office365.com</li>
-<li class='same'> 17:30 outlook.office365.com</li>
-<li> 17:30 mail.rhul.ac.uk</li>
-<li> 17:29 www.facebook.com</li>
-<li> 17:23 <a href="https://www.youtube.com/results?search_query=key+not+turning+in+door+lock">(58) key not turning in door lock - YouTube</a></li>
-<li> 17:20 <a href="https://www.youtube.com/watch?v=QY1wKaE-8GA&amp;t=371s">(58) UPVC lock out with key on inside - Can inside key be pushed out? - YouTube</a></li>
-<li> 17:20 <a href="https://www.youtube.com/results?search_query=key+on+other+side+of+door+">(58) key on other side of door - YouTube</a></li>
-<li> 17:20 <a href="https://www.youtube.com/">(75) YouTube</a></li>
-<li> 17:19 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 16:44 outlook.office365.com</li>
-<li> 16:44 calendar.google.com</li>
-<li> 16:43 outlook.office365.com</li>
-<li> 16:16 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-<li> 16:16 <a href="https://en.wikipedia.org/wiki/Israel%E2%80%93Hamas_war">Israel–Hamas war - Wikipedia</a></li>
-<li> 16:16 www.google.com</li>
-<li> 16:11 outlook.office365.com</li>
-<li class='same'> 16:10 outlook.office365.com</li>
-<li> 16:07 moodle.royalholloway.ac.uk</li>
-<li> 16:03 libguides.rhul.ac.uk</li>
-<li> 16:03 Local file</li>
-<li> 16:03 outlook.office365.com</li>
-<li> 15:54 intranet.royalholloway.ac.uk</li>
-<li> 15:46 libguides.rhul.ac.uk</li>
-<li> 15:46 calendar.google.com</li>
-<li> 15:46 www.google.com</li>
-<li> 15:42 <a href="https://en.wikipedia.org/wiki/United_States_dollar">United States dollar - Wikipedia</a></li>
-<li> 15:42 www.thewriter.com</li>
-<li> 15:42 www.google.com</li>
-<li> 15:42 <a href="https://en.wikipedia.org/w/index.php?title=Yahoo_data_breaches&amp;action=edit">Editing Yahoo data breaches - Wikipedia</a></li>
-<li> 15:41 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
-<li> 15:41 <a href="https://en.wikipedia.org/wiki/Yahoo!_data_breaches">Yahoo data breaches - Wikipedia</a></li>
-<li> 15:38 Local file</li>
-<li> 15:38 outlook.office365.com</li>
-<li> 15:36 <a href="https://en.wikipedia.org/wiki/Lord_Chancellor">Lord Chancellor - Wikipedia</a></li>
 </ul>
