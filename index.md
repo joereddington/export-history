@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:02 royalholloway.akarisoftware.com</li>
+<ul><li> 16:09 royalholloway.akarisoftware.com</li>
+<li class='same'> 16:02 royalholloway.akarisoftware.com</li>
 <li> 16:02 login.microsoftonline.com</li>
 <li> 16:02 device.login.microsoftonline.com</li>
 <li> 16:01 royalholloway.akarisoftware.com</li>
