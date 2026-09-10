@@ -69,18 +69,18 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5311)</li>
-<li>www.google.com (5302)</li>
+<li>www.google.com (5301)</li>
 <li>www.reddit.com (5100)</li>
 <li>outlook.office365.com (4613)</li>
-<li>outlook.office.com (3959)</li>
-<li>duckduckgo.com (3872)</li>
+<li>outlook.office.com (3958)</li>
+<li>duckduckgo.com (3873)</li>
 <li>docs.google.com (3298)</li>
 <li>chatgpt.com (2784)</li>
 <li>www.linkedin.com (2362)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1838)</li>
-<li>moodle.royalholloway.ac.uk (1716)</li>
-<li>calendar.google.com (1534)</li>
+<li>moodle.royalholloway.ac.uk (1721)</li>
+<li>calendar.google.com (1535)</li>
 <li>login.microsoftonline.com (1332)</li>
 <li>www.amazon.co.uk (1329)</li>
 <li>chat.openai.com (1302)</li>
@@ -89,12 +89,12 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1130)</li>
 <li>mail.rhul.ac.uk (994)</li>
 <li>tvtropes.org (885)</li>
-<li>rhul-my.sharepoint.com (845)</li>
+<li>rhul-my.sharepoint.com (844)</li>
 <li>feedly.com (827)</li>
 <li>forms.office.com (772)</li>
 <li>fritz.box (583)</li>
-<li>www.theguardian.com (562)</li>
 <li>rhul.sharepoint.com (562)</li>
+<li>www.theguardian.com (557)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (469)</li>
@@ -104,7 +104,41 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 10/09/26</H3>
+
+<br>
+
+<ul><li> 09:50 webtimetables.royalholloway.ac.uk</li>
+<li> 09:50 dl.allaboutbirds.org</li>
+<li> 09:50 t.lt02.net</li>
+<li> 09:50 e-link.guns.com</li>
+<li> 09:49 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:48 moodle.royalholloway.ac.uk</li>
+<li> 09:48 www.merriam-webster.com</li>
+<li> 09:48 duckduckgo.com</li>
+<li> 09:46 moodle.royalholloway.ac.uk</li>
+<li class='same'> 09:45 moodle.royalholloway.ac.uk</li>
+<li> 09:45 login.microsoftonline.com</li>
+<li> 09:45 device.login.microsoftonline.com</li>
+<li> 09:45 moodle.royalholloway.ac.uk</li>
+<li> 09:45 rh.firstparking.co.uk</li>
+<li class='same'> 09:44 rh.firstparking.co.uk</li>
+<li class='same'> 09:43 rh.firstparking.co.uk</li>
+<li class='same'> 09:42 rh.firstparking.co.uk</li>
+<li> 09:42 eur03.safelinks.protection.outlook.com</li>
+<li> 09:36 gitlab.cim.rhul.ac.uk</li>
+<li> 09:35 calendar.google.com</li>
+<li> 09:35 fast.com</li>
+<li> 09:34 192.168.178.1</li>
+<li class='same'> 09:33 192.168.178.1</li>
+<li class='same'> 09:31 192.168.178.1</li>
+</ul>
+
 <H3>Wednesday, 09/09/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -11467,7 +11501,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 14:48 <a href="https://en.wikipedia.org/wiki/Cambridge_Analytica">Cambridge Analytica - Wikipedia</a></li>
-<li> 14:48 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Cambridge+Analytica&amp;wprov=acrw1_0"></a></li>
 <li> 14:48 www.royalholloway.ac.uk</li>
 <li> 14:48 rhul.ac.uk</li>
 <li> 14:48 <a href="https://en.wikipedia.org/wiki/Talk:Securitas_depot_robbery">Talk:Securitas depot robbery - Wikipedia</a></li>
@@ -11479,7 +11512,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 13:59 mail.google.com</li>
 <li> 13:58 fne6v.r.a.d.sendibm1.com</li>
-<li> 13:58 eur03.safelinks.protection.outlook.com</li>
 <li> 13:56 mail.google.com</li>
 <li> 13:56 gmail.com</li>
 <li> 13:55 duckduckgo.com</li>
@@ -11491,8 +11523,6 @@ With number of accesses/minutes in parentheses
 <li> 13:50 agresso.royalholloway.ac.uk</li>
 <li> 13:50 login.microsoftonline.com</li>
 <li> 13:50 agresso.royalholloway.ac.uk</li>
-<li> 13:50 rhul-my.sharepoint.com</li>
-<li> 13:50 login.microsoftonline.com</li>
 <li> 13:50 rhul-my.sharepoint.com</li>
 <li class='same'> 13:49 rhul-my.sharepoint.com</li>
 <li> 13:32 www.amazon.co.uk</li>
@@ -123752,23 +123782,4 @@ With number of accesses/minutes in parentheses
 <li> 09:12 www.justice.gov</li>
 <li> 09:12 www.google.com</li>
 <li> 09:09 www.theguardian.com</li>
-<li class='same'> 09:06 www.theguardian.com</li>
-<li> 09:00 www.natesilver.net</li>
-<li> 09:00 www.google.com</li>
-<li> 09:00 www.theguardian.com</li>
-<li class='same'> 08:57 www.theguardian.com</li>
-<li class='same'> 08:55 www.theguardian.com</li>
-<li class='same'> 08:53 www.theguardian.com</li>
-<li> 08:53 pure.royalholloway.ac.uk</li>
-</ul>
-
-<H3>Friday, 18/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 19:37 outlook.office.com</li>
 </ul>
