@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5326)</li>
-<li>www.google.com (5277)</li>
+<ol><li>mail.google.com (5329)</li>
+<li>www.google.com (5270)</li>
 <li>www.reddit.com (5088)</li>
 <li>outlook.office365.com (4613)</li>
 <li>outlook.office.com (3957)</li>
-<li>duckduckgo.com (3875)</li>
+<li>duckduckgo.com (3877)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2797)</li>
-<li>www.linkedin.com (2362)</li>
+<li>chatgpt.com (2800)</li>
+<li>www.linkedin.com (2365)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1835)</li>
 <li>moodle.royalholloway.ac.uk (1722)</li>
-<li>calendar.google.com (1541)</li>
+<li>calendar.google.com (1542)</li>
 <li>login.microsoftonline.com (1335)</li>
-<li>www.amazon.co.uk (1330)</li>
+<li>www.amazon.co.uk (1329)</li>
 <li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1144)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (844)</li>
 <li>feedly.com (828)</li>
 <li>forms.office.com (772)</li>
-<li>fritz.box (583)</li>
+<li>fritz.box (584)</li>
 <li>rhul.sharepoint.com (562)</li>
 <li>www.theguardian.com (555)</li>
 <li>m365.cloud.microsoft (543)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 10/09/26</H3>
+
+<br>
+
+<ul><li> 16:56 www.linkedin.com</li>
+<li class='same'> 16:55 www.linkedin.com</li>
+<li> 16:55 mail.google.com</li>
+<li class='same'> 16:52 mail.google.com</li>
+<li> 16:51 www.linkedin.com</li>
+<li> 16:50 chatgpt.com</li>
+<li class='same'> 16:49 chatgpt.com</li>
+<li class='same'> 16:48 chatgpt.com</li>
+<li> 16:43 duckduckgo.com</li>
+<li class='same'> 16:42 duckduckgo.com</li>
+<li> 16:38 fritz.box</li>
+<li> 16:36 calendar.google.com</li>
+<li> 16:36 www.google.com</li>
+<li> 16:36 mail.google.com</li>
+<li> 16:30 www.projectreal.co.uk</li>
+</ul>
 
 <br>
 
@@ -123762,67 +123781,4 @@ With number of accesses/minutes in parentheses
 <li> 17:57 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
 <li> 17:57 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=1">Editing Information security (section) - Wikipedia</a></li>
 <li> 17:56 scholar.google.com</li>
-<li> 17:56 www.astm.org</li>
-<li> 17:56 <a href="https://en.wikipedia.org/wiki/Information_security#cite_ref-8">Information security - Wikipedia</a></li>
-<li> 17:55 scholar.google.com</li>
-<li> 17:55 <a href="https://en.wikipedia.org/wiki/Information_security#Definition">Information security - Wikipedia</a></li>
-<li> 17:54 www.google.com</li>
-<li> 17:54 scholar.google.com</li>
-<li> 17:54 jrnl.nau.edu.ua</li>
-<li> 17:53 scholar.google.com</li>
-<li> 17:53 jrnl.nau.edu.ua</li>
-<li> 17:52 scholar.google.com</li>
-<li> 17:52 www.google.com</li>
-<li> 17:51 www.sciencedirect.com</li>
-<li> 17:51 www.google.com</li>
-<li> 17:51 scholar.google.com</li>
-<li> 17:50 www.amazon.co.uk</li>
-<li> 17:50 www.google.co.uk</li>
-<li> 17:50 books.google.co.uk</li>
-<li> 17:50 www.google.com</li>
-<li> 17:49 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=1">Editing Information security (section) - Wikipedia</a></li>
-<li> 17:49 www.isaca.org</li>
-<li> 17:49 <a href="https://en.wikipedia.org/wiki/Committee_on_National_Security_Systems">Committee on National Security Systems - Wikipedia</a></li>
-<li> 17:43 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 17:42 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 17:41 www.sciencedirect.com</li>
-<li> 17:41 linkinghub.elsevier.com</li>
-<li> 17:41 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 17:41 <a href="https://en.wikipedia.org/wiki/Information_security?venotify=saved">Information security - Wikipedia</a></li>
-<li> 17:41 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 17:41 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;oldid=1252273499&amp;action=edit">Editing Information security - Wikipedia</a></li>
-<li> 17:41 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit">Information security - Wikipedia</a></li>
-<li> 17:41 <a href="https://en.wikipedia.org/wiki/Information_security#cite_ref-2">Information security - Wikipedia</a></li>
-<li> 17:41 blog.nationalarchives.gov.uk</li>
-<li> 17:41 <a href="https://en.wikipedia.org/wiki/Information_security#cite_note-2">Information security - Wikipedia</a></li>
-<li> 17:40 <a href="https://en.wikipedia.org/wiki/Risk_management_information_systems">Risk management information systems - Wikipedia</a></li>
-<li> 17:40 www.sciencedirect.com</li>
-<li> 17:40 linkinghub.elsevier.com</li>
-<li> 17:40 dx.doi.org</li>
-<li> 17:40 <a href="https://en.wikipedia.org/wiki/Information_security#cite_note-1">Information security - Wikipedia</a></li>
-<li> 17:40 www.sciencedirect.com</li>
-<li class='same'> 17:39 www.sciencedirect.com</li>
-<li> 17:39 linkinghub.elsevier.com</li>
-<li> 17:39 dx.doi.org</li>
-<li> 17:39 <a href="https://en.wikipedia.org/wiki/Wikipedia:Link_rot">Wikipedia:Link rot - Wikipedia</a></li>
-<li> 17:39 www.google.com</li>
-<li> 17:38 <a href="https://en.wikipedia.org/wiki/ISACA">ISACA - Wikipedia</a></li>
-<li> 17:38 www.google.com</li>
-<li> 17:38 <a href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_not_a_dictionary">Wikipedia:Wikipedia is not a dictionary - Wikipedia</a></li>
-<li> 17:37 <a href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Glossaries">Wikipedia:Manual of Style/Glossaries - Wikipedia</a></li>
-<li> 17:36 www.google.com</li>
-<li> 17:35 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 17:35 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=history">Information security: Revision history - Wikipedia</a></li>
-<li> 17:34 <a href="https://en.wikipedia.org/wiki/Information_governance">Information governance - Wikipedia</a></li>
-<li> 17:34 <a href="https://en.wikipedia.org/wiki/Information_Security_Governance">Information governance - Wikipedia</a></li>
-<li> 17:34 <a href="https://en.wikipedia.org/wiki/Information_security#Basic_principles">Information security - Wikipedia</a></li>
-<li> 17:34 <a href="https://en.wikipedia.org/wiki/Information_security#Incident_response_plans">Information security - Wikipedia</a></li>
-<li> 17:33 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=24">Editing Information security (section) - Wikipedia</a></li>
-<li> 17:33 <a href="https://en.wikipedia.org/wiki/Information_security#Security_controls">Information security - Wikipedia</a></li>
-<li> 17:32 www.google.com</li>
-<li> 17:32 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=14">Editing Information security (section) - Wikipedia</a></li>
-<li> 17:31 <a href="https://en.wikipedia.org/wiki/Security_controls">Security controls - Wikipedia</a></li>
-<li> 17:31 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 17:31 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=14">Editing Information security (section) - Wikipedia</a></li>
-<li> 17:30 <a href="https://en.wikipedia.org/wiki/Risk_management">Risk management - Wikipedia</a></li>
 </ul>
