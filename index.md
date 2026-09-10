@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5326)</li>
-<li>www.google.com (5288)</li>
+<li>www.google.com (5286)</li>
 <li>www.reddit.com (5088)</li>
 <li>outlook.office365.com (4613)</li>
 <li>outlook.office.com (3957)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1837)</li>
 <li>moodle.royalholloway.ac.uk (1721)</li>
 <li>calendar.google.com (1539)</li>
-<li>login.microsoftonline.com (1332)</li>
+<li>login.microsoftonline.com (1334)</li>
 <li>www.amazon.co.uk (1330)</li>
 <li>chat.openai.com (1304)</li>
 <li>herts.instructure.com (1231)</li>
@@ -105,6 +105,23 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 10/09/26</H3>
+
+<br>
+
+<ul><li> 14:11 learningonscreen.ac.uk</li>
+<li class='same'> 14:10 learningonscreen.ac.uk</li>
+<li> 14:10 login.learningonscreen.ac.uk</li>
+<li> 14:10 connect.openathens.net</li>
+<li> 14:10 login.openathens.net</li>
+<li> 14:10 login.microsoftonline.com</li>
+<li> 14:10 device.login.microsoftonline.com</li>
+<li> 14:10 login.openathens.net</li>
+<li> 14:10 login.microsoftonline.com</li>
+<li> 14:10 login.learningonscreen.ac.uk</li>
+<li> 14:10 connect.openathens.net</li>
+<li> 14:10 login.learningonscreen.ac.uk</li>
+<li> 14:10 learningonscreen.ac.uk</li>
+</ul>
 
 <br>
 
@@ -123803,7 +123820,4 @@ With number of accesses/minutes in parentheses
 <li> 07:48 infolit.org.uk</li>
 <li> 07:48 www.google.com</li>
 <li> 07:47 www.reddit.com</li>
-<li> 07:47 www.google.com</li>
-<li class='same'> 07:44 www.google.com</li>
-<li> 07:44 www.quotes.net</li>
 </ul>
