@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5329)</li>
-<li>www.google.com (5264)</li>
+<li>www.google.com (5262)</li>
 <li>www.reddit.com (5088)</li>
 <li>outlook.office365.com (4613)</li>
 <li>outlook.office.com (3957)</li>
@@ -85,7 +85,7 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1329)</li>
 <li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1144)</li>
+<li>web.whatsapp.com (1143)</li>
 <li>gmail.com (1131)</li>
 <li>mail.rhul.ac.uk (994)</li>
 <li>tvtropes.org (884)</li>
@@ -123702,25 +123702,4 @@ With number of accesses/minutes in parentheses
 <li> 18:30 <a href="https://en.wikipedia.org/w/index.php?title=Digital_self-defense&amp;action=edit">Editing Digital self-defense - Wikipedia</a></li>
 <li> 18:30 <a href="https://en.wikipedia.org/w/index.php?title=Digital_self-defense&amp;action=history">Digital self-defense: Revision history - Wikipedia</a></li>
 <li> 18:29 <a href="https://en.wikipedia.org/wiki/Digital_self-defense">Editing Digital self-defense - Wikipedia</a></li>
-<li> 18:29 <a href="https://en.wikipedia.org/wiki/Proactive_cyber_defence">Proactive cyber defence - Wikipedia</a></li>
-<li> 18:28 <a href="https://en.wikipedia.org/wiki/Cyber_self-defense">Cyber self-defense - Wikipedia</a></li>
-<li> 18:28 wp1.openzim.org</li>
-<li class='same'> 18:27 wp1.openzim.org</li>
-<li> 18:27 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computer_Security">Wikipedia:WikiProject Computer security - Wikipedia</a></li>
-<li> 18:27 www.google.com</li>
-<li> 18:23 www.onlinebanking.natwest.com</li>
-<li> 18:22 www.natwest.com</li>
-<li> 18:22 <a href="https://en.wikipedia.org/wiki/Special:SpecialPages">Special pages - Wikipedia</a></li>
-<li> 18:22 <a href="https://en.wikipedia.org/wiki/IT_risk">IT risk - Wikipedia</a></li>
-<li> 18:22 web.whatsapp.com</li>
-<li> 18:21 <a href="https://en.wikipedia.org/wiki/Information_security#Threats">Information security - Wikipedia</a></li>
-<li> 18:21 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=3">Editing Information security (section) - Wikipedia</a></li>
-<li> 18:20 <a href="https://en.wikipedia.org/wiki/Threat_(computer_security)">Threat (computer security) - Wikipedia</a></li>
-<li> 18:20 wp1.openzim.org</li>
-<li> 18:19 <a href="https://en.wikipedia.org/wiki/Full_disclosure_(computer_security)">Full disclosure (computer security) - Wikipedia</a></li>
-<li> 18:19 <a href="https://en.wikipedia.org/wiki/Countermeasure_(computer)">Countermeasure (computer) - Wikipedia</a></li>
-<li> 18:18 <a href="https://en.wikipedia.org/wiki/Security_controls">Security controls - Wikipedia</a></li>
-<li> 18:18 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 18:18 www.google.com</li>
-<li> 18:18 <a href="https://en.wikipedia.org/wiki/Vulnerability_(computer_security)">Vulnerability (computer security) - Wikipedia</a></li>
 </ul>
