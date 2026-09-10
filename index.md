@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5329)</li>
-<li>www.google.com (5262)</li>
+<li>www.google.com (5267)</li>
 <li>www.reddit.com (5088)</li>
-<li>outlook.office365.com (4613)</li>
+<li>outlook.office365.com (4627)</li>
 <li>outlook.office.com (3957)</li>
 <li>duckduckgo.com (3877)</li>
 <li>docs.google.com (3298)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1835)</li>
 <li>moodle.royalholloway.ac.uk (1722)</li>
 <li>calendar.google.com (1542)</li>
-<li>login.microsoftonline.com (1335)</li>
+<li>login.microsoftonline.com (1337)</li>
 <li>www.amazon.co.uk (1329)</li>
 <li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
@@ -105,6 +105,12 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 10/09/26</H3>
+
+<br>
+
+<ul><li> 18:25 outlook.office365.com</li>
+<li class='same'> 18:20 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -176,6 +182,7 @@ With number of accesses/minutes in parentheses
 <li> 15:12 www.linkedin.com</li>
 <li class='same'> 15:11 www.linkedin.com</li>
 <li> 15:09 mail.google.com</li>
+<li> 15:02 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -193,6 +200,16 @@ With number of accesses/minutes in parentheses
 <li> 14:10 connect.openathens.net</li>
 <li> 14:10 login.learningonscreen.ac.uk</li>
 <li> 14:10 learningonscreen.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 13:19 outlook.office365.com</li>
+<li class='same'> 13:18 outlook.office365.com</li>
+<li class='same'> 13:17 outlook.office365.com</li>
+<li> 13:17 login.microsoftonline.com</li>
+<li> 13:17 device.login.microsoftonline.com</li>
+<li> 13:17 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -319,6 +336,11 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:31 192.168.178.1</li>
 </ul>
 
+<br>
+
+<ul><li> 07:18 outlook.office365.com</li>
+</ul>
+
 <H3>Wednesday, 09/09/26</H3>
 
 <br>
@@ -403,6 +425,7 @@ With number of accesses/minutes in parentheses
 <li> 15:58 moodle.royalholloway.ac.uk</li>
 <li> 15:53 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 15:52 webtimetables.royalholloway.ac.uk</li>
+<li> 15:50 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -453,7 +476,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:18 learn.chatgpt.com</li>
+<ul><li> 11:38 outlook.office365.com</li>
+<li> 11:18 learn.chatgpt.com</li>
 <li> 11:09 chatgpt.com</li>
 <li class='same'> 11:06 chatgpt.com</li>
 <li class='same'> 11:04 chatgpt.com</li>
@@ -670,6 +694,12 @@ With number of accesses/minutes in parentheses
 <li> 16:03 rhul.sharepoint.com</li>
 <li class='same'> 16:02 rhul.sharepoint.com</li>
 <li class='same'> 16:01 rhul.sharepoint.com</li>
+<li> 15:57 outlook.office365.com</li>
+<li class='same'> 15:56 outlook.office365.com</li>
+<li class='same'> 15:55 outlook.office365.com</li>
+<li> 15:55 login.microsoftonline.com</li>
+<li> 15:55 device.login.microsoftonline.com</li>
+<li> 15:55 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -833,6 +863,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
+<ul><li> 19:37 app.heyguest.ai</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 18:27 app.heyguest.ai</li>
+<li class='same'> 18:26 app.heyguest.ai</li>
+</ul>
+
+<br>
+
 <ul><li> 15:46 londontopia.net</li>
 <li class='same'> 15:44 londontopia.net</li>
 <li> 15:43 www.ltmuseum.co.uk</li>
@@ -870,6 +911,8 @@ With number of accesses/minutes in parentheses
 <li> 14:40 app.roostermoney.com</li>
 <li> 14:40 mail.google.com</li>
 <li> 14:40 gmail.com</li>
+<li> 14:38 www.google.com</li>
+<li> 14:38 www.natwest.com</li>
 <li> 14:29 docs.google.com</li>
 <li> 14:28 www.linkedin.com</li>
 <li class='same'> 14:27 www.linkedin.com</li>
@@ -922,6 +965,15 @@ With number of accesses/minutes in parentheses
 <li> 14:05 <a href="http://joereddington.com/">Joe Reddington | things I make…</a></li>
 <li> 14:03 www.linkedin.com</li>
 <li> 13:41 calendar.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 12:38 www.google.com</li>
+<li> 12:37 www.nytimes.com</li>
+<li> 12:37 www.google.com</li>
+<li class='same'> 12:36 www.google.com</li>
+<li class='same'> 12:34 www.google.com</li>
 </ul>
 
 <br>
