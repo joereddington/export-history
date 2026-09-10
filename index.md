@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5325)</li>
-<li>www.google.com (5297)</li>
+<ol><li>mail.google.com (5326)</li>
+<li>www.google.com (5292)</li>
 <li>www.reddit.com (5088)</li>
 <li>outlook.office365.com (4613)</li>
 <li>outlook.office.com (3957)</li>
 <li>duckduckgo.com (3874)</li>
 <li>docs.google.com (3298)</li>
 <li>chatgpt.com (2793)</li>
-<li>www.linkedin.com (2362)</li>
+<li>www.linkedin.com (2360)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1838)</li>
+<li>www.facebook.com (1837)</li>
 <li>moodle.royalholloway.ac.uk (1721)</li>
 <li>calendar.google.com (1539)</li>
 <li>login.microsoftonline.com (1332)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:39 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 11:11 mail.google.com</li>
+<li> 11:10 www.sovendus-network.com</li>
+<li> 11:10 checkout.ecom.photobox.co.uk</li>
+<li class='same'> 11:09 checkout.ecom.photobox.co.uk</li>
+<li> 11:09 login.photobox.co.uk</li>
+<li> 11:09 checkout.ecom.photobox.co.uk</li>
+<li> 11:09 login.photobox.co.uk</li>
+<li> 11:09 checkout.ecom.photobox.co.uk</li>
+<li class='same'> 11:08 checkout.ecom.photobox.co.uk</li>
+<li> 11:07 editor.photobox.co.uk</li>
+<li> 11:07 login.photobox.co.uk</li>
+<li> 11:07 editor.photobox.co.uk</li>
+<li> 11:06 www.photobox.co.uk</li>
+<li class='same'> 11:05 www.photobox.co.uk</li>
+<li> 11:05 photobox.com</li>
+<li> 10:39 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 10:38 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 10:37 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 10:36 webtimetables.royalholloway.ac.uk</li>
@@ -123809,20 +123824,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 19:15 www.google.com</li>
-<li> 19:14 www.italki.com</li>
-</ul>
-
-<br>
-
-<ul><li> 16:57 www.facebook.com</li>
-<li> 16:57 www.linkedin.com</li>
-<li class='same'> 16:56 www.linkedin.com</li>
-<li> 16:56 www.google.com</li>
-<li class='same'> 16:55 www.google.com</li>
-<li class='same'> 16:52 www.google.com</li>
-<li class='same'> 16:51 www.google.com</li>
-<li> 16:51 maps.google.com</li>
-<li> 16:51 www.google.com</li>
-<li> 16:51 <a href="https://en.wikipedia.org/wiki/Power_Court_Stadium#/map/0">Power Court Stadium - Wikipedia</a></li>
-<li> 16:51 <a href="https://en.wikipedia.org/wiki/Power_Court_Stadium">Power Court Stadium - Wikipedia</a></li>
 </ul>
