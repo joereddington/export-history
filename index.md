@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5311)</li>
-<li>www.google.com (5301)</li>
+<ol><li>mail.google.com (5318)</li>
+<li>www.google.com (5300)</li>
 <li>www.reddit.com (5100)</li>
 <li>outlook.office365.com (4613)</li>
 <li>outlook.office.com (3958)</li>
-<li>duckduckgo.com (3873)</li>
+<li>duckduckgo.com (3874)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2784)</li>
+<li>chatgpt.com (2792)</li>
 <li>www.linkedin.com (2362)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1838)</li>
 <li>moodle.royalholloway.ac.uk (1721)</li>
-<li>calendar.google.com (1535)</li>
+<li>calendar.google.com (1536)</li>
 <li>login.microsoftonline.com (1332)</li>
-<li>www.amazon.co.uk (1329)</li>
-<li>chat.openai.com (1302)</li>
+<li>www.amazon.co.uk (1330)</li>
+<li>chat.openai.com (1304)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1145)</li>
-<li>gmail.com (1130)</li>
+<li>gmail.com (1131)</li>
 <li>mail.rhul.ac.uk (994)</li>
 <li>tvtropes.org (885)</li>
 <li>rhul-my.sharepoint.com (844)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (772)</li>
 <li>fritz.box (583)</li>
 <li>rhul.sharepoint.com (562)</li>
-<li>www.theguardian.com (557)</li>
+<li>www.theguardian.com (556)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (469)</li>
@@ -108,7 +108,68 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:50 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 10:29 www.google.com</li>
+<li> 10:29 mail.google.com</li>
+<li> 10:29 chatgpt.com</li>
+<li> 10:28 find-and-update.company-information.service.gov.uk</li>
+<li> 10:28 identity.company-information.service.gov.uk</li>
+<li> 10:28 find-and-update.company-information.service.gov.uk</li>
+<li> 10:28 www.gov.uk</li>
+<li> 10:28 www.google.com</li>
+<li> 10:27 mail.google.com</li>
+<li> 10:26 calendar.google.com</li>
+<li> 10:26 ewf.companieshouse.gov.uk</li>
+<li> 10:25 www.amazon.co.uk</li>
+<li> 10:23 find-and-update.company-information.service.gov.uk</li>
+<li> 10:23 duckduckgo.com</li>
+<li> 10:23 ewf.companieshouse.gov.uk</li>
+<li class='same'> 10:22 ewf.companieshouse.gov.uk</li>
+<li> 10:22 identity.company-information.service.gov.uk</li>
+<li> 10:22 ewf.companieshouse.gov.uk</li>
+<li> 10:22 identity.company-information.service.gov.uk</li>
+<li> 10:22 ewf.companieshouse.gov.uk</li>
+<li> 10:22 chatgpt.com</li>
+<li> 10:22 chat.openai.com</li>
+<li> 10:20 Local file</li>
+<li> 10:20 chatgpt.com</li>
+<li> 10:19 ewf.companieshouse.gov.uk</li>
+<li> 10:18 chatgpt.com</li>
+<li> 10:17 Local file</li>
+<li class='same'> 10:16 Local file</li>
+<li> 10:16 chatgpt.com</li>
+<li> 10:16 ewf.companieshouse.gov.uk</li>
+<li class='same'> 10:15 ewf.companieshouse.gov.uk</li>
+<li> 10:15 mail.google.com</li>
+<li> 10:13 ewf.companieshouse.gov.uk</li>
+<li> 10:13 identity.company-information.service.gov.uk</li>
+<li> 10:13 ewf.companieshouse.gov.uk</li>
+<li> 10:12 mail.google.com</li>
+<li> 10:12 Local file</li>
+<li> 10:12 chatgpt.com</li>
+<li> 10:11 mail.google.com</li>
+<li> 10:11 oidc.account.gov.uk</li>
+<li> 10:11 identity.company-information.service.gov.uk</li>
+<li> 10:11 ewf.companieshouse.gov.uk</li>
+<li> 10:11 signin.account.gov.uk</li>
+<li class='same'> 10:10 signin.account.gov.uk</li>
+<li> 10:10 mail.google.com</li>
+<li> 10:10 chatgpt.com</li>
+<li> 10:09 mail.google.com</li>
+<li> 10:09 gmail.com</li>
+<li> 10:09 signin.account.gov.uk</li>
+<li> 10:09 oidc.account.gov.uk</li>
+<li> 10:09 identity.company-information.service.gov.uk</li>
+<li> 10:09 ewf.companieshouse.gov.uk</li>
+<li> 10:09 idam-ui.company-information.service.gov.uk</li>
+<li> 10:09 ewf.companieshouse.gov.uk</li>
+<li> 10:09 www.gov.uk</li>
+<li> 10:08 chatgpt.com</li>
+<li> 10:08 chat.openai.com</li>
+<li> 10:08 192.168.178.1</li>
+<li> 10:05 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 10:04 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 09:51 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 09:50 webtimetables.royalholloway.ac.uk</li>
 <li> 09:50 dl.allaboutbirds.org</li>
 <li> 09:50 t.lt02.net</li>
 <li> 09:50 e-link.guns.com</li>
@@ -123772,14 +123833,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 14:50 www.google.com</li>
 <li> 14:50 www.doubtnut.com</li>
-<li> 14:50 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:12 www.datacenterdynamics.com</li>
-<li> 09:12 www.google.com</li>
-<li> 09:12 www.justice.gov</li>
-<li> 09:12 www.google.com</li>
-<li> 09:09 www.theguardian.com</li>
 </ul>
