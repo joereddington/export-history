@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5318)</li>
-<li>www.google.com (5300)</li>
-<li>www.reddit.com (5100)</li>
+<ol><li>mail.google.com (5325)</li>
+<li>www.google.com (5297)</li>
+<li>www.reddit.com (5088)</li>
 <li>outlook.office365.com (4613)</li>
-<li>outlook.office.com (3958)</li>
+<li>outlook.office.com (3957)</li>
 <li>duckduckgo.com (3874)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2792)</li>
+<li>chatgpt.com (2793)</li>
 <li>www.linkedin.com (2362)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1838)</li>
 <li>moodle.royalholloway.ac.uk (1721)</li>
-<li>calendar.google.com (1536)</li>
+<li>calendar.google.com (1539)</li>
 <li>login.microsoftonline.com (1332)</li>
 <li>www.amazon.co.uk (1330)</li>
 <li>chat.openai.com (1304)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 www.google.com</li>
+<ul><li> 10:39 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 10:38 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 10:37 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 10:36 webtimetables.royalholloway.ac.uk</li>
+<li> 10:34 calendar.google.com</li>
+<li> 10:34 www.google.com</li>
+<li> 10:34 calendar.google.com</li>
+<li> 10:34 mail.google.com</li>
+<li> 10:34 calendar.google.com</li>
+<li> 10:34 mail.google.com</li>
+<li class='same'> 10:33 mail.google.com</li>
+<li class='same'> 10:32 mail.google.com</li>
+<li> 10:32 find-and-update.company-information.service.gov.uk</li>
+<li> 10:31 mail.google.com</li>
+<li> 10:31 find-and-update.company-information.service.gov.uk</li>
+<li> 10:31 mail.google.com</li>
+<li class='same'> 10:30 mail.google.com</li>
+<li> 10:30 chatgpt.com</li>
+<li> 10:30 www.qiq.support</li>
+<li class='same'> 10:29 www.qiq.support</li>
+<li> 10:29 www.google.com</li>
 <li> 10:29 mail.google.com</li>
 <li> 10:29 chatgpt.com</li>
 <li> 10:28 find-and-update.company-information.service.gov.uk</li>
@@ -123805,32 +123825,4 @@ With number of accesses/minutes in parentheses
 <li> 16:51 www.google.com</li>
 <li> 16:51 <a href="https://en.wikipedia.org/wiki/Power_Court_Stadium#/map/0">Power Court Stadium - Wikipedia</a></li>
 <li> 16:51 <a href="https://en.wikipedia.org/wiki/Power_Court_Stadium">Power Court Stadium - Wikipedia</a></li>
-<li> 16:50 constructionmanagement.co.uk</li>
-<li> 16:50 footballgroundguide.com</li>
-<li> 16:50 www.google.com</li>
-<li> 16:42 www.reddit.com</li>
-<li class='same'> 16:40 www.reddit.com</li>
-<li class='same'> 16:39 www.reddit.com</li>
-<li class='same'> 16:38 www.reddit.com</li>
-<li class='same'> 16:36 www.reddit.com</li>
-<li class='same'> 16:35 www.reddit.com</li>
-<li class='same'> 16:33 www.reddit.com</li>
-<li class='same'> 16:32 www.reddit.com</li>
-<li class='same'> 16:31 www.reddit.com</li>
-<li class='same'> 16:30 www.reddit.com</li>
-<li class='same'> 16:29 www.reddit.com</li>
-<li class='same'> 16:28 www.reddit.com</li>
-<li> 16:27 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 15:48 www.google.com</li>
-<li class='same'> 15:47 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 14:50 www.google.com</li>
-<li> 14:50 www.doubtnut.com</li>
 </ul>
