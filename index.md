@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5311)</li>
-<li>www.google.com (5304)</li>
-<li>www.reddit.com (5084)</li>
-<li>outlook.office365.com (4617)</li>
-<li>outlook.office.com (3960)</li>
+<li>www.google.com (5302)</li>
+<li>www.reddit.com (5100)</li>
+<li>outlook.office365.com (4613)</li>
+<li>outlook.office.com (3959)</li>
 <li>duckduckgo.com (3872)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2783)</li>
-<li>www.linkedin.com (2364)</li>
+<li>chatgpt.com (2784)</li>
+<li>www.linkedin.com (2362)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1842)</li>
-<li>moodle.royalholloway.ac.uk (1719)</li>
+<li>www.facebook.com (1838)</li>
+<li>moodle.royalholloway.ac.uk (1716)</li>
 <li>calendar.google.com (1534)</li>
 <li>login.microsoftonline.com (1332)</li>
 <li>www.amazon.co.uk (1329)</li>
@@ -87,13 +87,13 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1145)</li>
 <li>gmail.com (1130)</li>
-<li>mail.rhul.ac.uk (996)</li>
+<li>mail.rhul.ac.uk (994)</li>
 <li>tvtropes.org (885)</li>
 <li>rhul-my.sharepoint.com (845)</li>
-<li>feedly.com (826)</li>
-<li>forms.office.com (773)</li>
-<li>fritz.box (581)</li>
-<li>www.theguardian.com (563)</li>
+<li>feedly.com (827)</li>
+<li>forms.office.com (772)</li>
+<li>fritz.box (583)</li>
+<li>www.theguardian.com (562)</li>
 <li>rhul.sharepoint.com (562)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -105,6 +105,33 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 09/09/26</H3>
+
+<br>
+
+<ul><li> 20:14 www.reddit.com</li>
+<li class='same'> 20:13 www.reddit.com</li>
+<li class='same'> 20:12 www.reddit.com</li>
+<li class='same'> 20:11 www.reddit.com</li>
+<li class='same'> 20:10 www.reddit.com</li>
+<li class='same'> 20:09 www.reddit.com</li>
+<li class='same'> 20:08 www.reddit.com</li>
+<li class='same'> 20:07 www.reddit.com</li>
+<li class='same'> 20:06 www.reddit.com</li>
+<li class='same'> 20:05 www.reddit.com</li>
+<li class='same'> 20:04 www.reddit.com</li>
+<li class='same'> 20:03 www.reddit.com</li>
+<li class='same'> 20:02 www.reddit.com</li>
+<li class='same'> 20:01 www.reddit.com</li>
+<li class='same'> 19:58 www.reddit.com</li>
+<li class='same'> 19:57 www.reddit.com</li>
+<li> 19:57 fritz.box</li>
+<li class='same'> 19:56 fritz.box</li>
+<li> 19:55 www.google.com</li>
+<li class='same'> 19:54 www.google.com</li>
+<li> 19:50 chatgpt.com</li>
+<li> 19:49 feedly.com</li>
+<li> 19:42 192.168.178.1</li>
+</ul>
 
 <br>
 
@@ -11520,8 +11547,6 @@ With number of accesses/minutes in parentheses
 <li> 12:28 octopusev.com</li>
 <li> 12:28 quote.octopusev.com</li>
 <li> 12:28 intranet.royalholloway.ac.uk</li>
-<li> 12:28 links.mail2.spopessentials2.com</li>
-<li> 12:28 eur03.safelinks.protection.outlook.com</li>
 <li> 12:28 links.mail2.spopessentials2.com</li>
 <li> 12:27 quote.octopusev.com</li>
 <li class='same'> 12:25 quote.octopusev.com</li>
@@ -123746,30 +123771,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:37 outlook.office.com</li>
-<li> 19:37 outlook.office365.com</li>
-<li> 19:37 outlook.office.com</li>
-<li> 19:37 mail.rhul.ac.uk</li>
-<li> 19:31 www.facebook.com</li>
-<li> 19:25 moodle.royalholloway.ac.uk</li>
-<li class='same'> 19:24 moodle.royalholloway.ac.uk</li>
-<li class='same'> 19:23 moodle.royalholloway.ac.uk</li>
-<li> 19:22 librarysearch.royalholloway.ac.uk</li>
-<li> 19:22 login.openathens.net</li>
-<li> 19:22 librarysearch.royalholloway.ac.uk</li>
-<li> 19:22 www.google.com</li>
-<li class='same'> 19:13 www.google.com</li>
-<li> 19:13 www.theguardian.com</li>
-<li> 19:13 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
-<li> 19:09 www.google.com</li>
-<li> 19:05 www.linkedin.com</li>
-<li class='same'> 19:04 www.linkedin.com</li>
-<li> 19:01 outlook.office365.com</li>
-<li> 19:01 mail.rhul.ac.uk</li>
-<li> 18:57 www.facebook.com</li>
-<li> 18:56 www.google.com</li>
-<li> 18:55 www.facebook.com</li>
-<li class='same'> 18:53 www.facebook.com</li>
-<li> 18:52 outlook.office365.com</li>
-<li> 18:51 forms.office.com</li>
-<li> 18:50 outlook.office365.com</li>
 </ul>
