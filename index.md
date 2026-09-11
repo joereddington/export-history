@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5329)</li>
-<li>www.google.com (5267)</li>
-<li>www.reddit.com (5088)</li>
-<li>outlook.office365.com (4627)</li>
-<li>outlook.office.com (3957)</li>
-<li>duckduckgo.com (3877)</li>
+<ol><li>mail.google.com (5321)</li>
+<li>www.google.com (5260)</li>
+<li>www.reddit.com (5087)</li>
+<li>outlook.office365.com (4617)</li>
+<li>outlook.office.com (3955)</li>
+<li>duckduckgo.com (3880)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2805)</li>
-<li>www.linkedin.com (2365)</li>
+<li>chatgpt.com (2809)</li>
+<li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1835)</li>
-<li>moodle.royalholloway.ac.uk (1722)</li>
-<li>calendar.google.com (1542)</li>
+<li>www.facebook.com (1834)</li>
+<li>moodle.royalholloway.ac.uk (1715)</li>
+<li>calendar.google.com (1538)</li>
 <li>login.microsoftonline.com (1337)</li>
-<li>www.amazon.co.uk (1329)</li>
-<li>chat.openai.com (1305)</li>
+<li>www.amazon.co.uk (1328)</li>
+<li>chat.openai.com (1307)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1143)</li>
-<li>gmail.com (1131)</li>
-<li>mail.rhul.ac.uk (994)</li>
+<li>web.whatsapp.com (1142)</li>
+<li>gmail.com (1127)</li>
+<li>mail.rhul.ac.uk (992)</li>
 <li>tvtropes.org (884)</li>
-<li>rhul-my.sharepoint.com (844)</li>
+<li>rhul-my.sharepoint.com (842)</li>
 <li>feedly.com (828)</li>
 <li>forms.office.com (772)</li>
 <li>fritz.box (584)</li>
 <li>rhul.sharepoint.com (562)</li>
-<li>www.theguardian.com (555)</li>
+<li>www.theguardian.com (554)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (469)</li>
@@ -105,6 +105,39 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 10/09/26</H3>
+
+<br>
+
+<ul><li> 21:34 learningonscreen.ac.uk</li>
+<li class='same'> 21:32 learningonscreen.ac.uk</li>
+<li class='same'> 21:27 learningonscreen.ac.uk</li>
+<li> 21:27 login.learningonscreen.ac.uk</li>
+<li> 21:27 learningonscreen.ac.uk</li>
+<li> 21:27 login.learningonscreen.ac.uk</li>
+<li> 21:27 connect.openathens.net</li>
+<li> 21:27 login.openathens.net</li>
+<li> 21:27 connect.openathens.net</li>
+<li> 21:27 login.learningonscreen.ac.uk</li>
+<li> 21:27 connect.openathens.net</li>
+<li> 21:27 login.learningonscreen.ac.uk</li>
+<li> 21:27 learningonscreen.ac.uk</li>
+<li> 21:26 192.168.178.1</li>
+<li class='same'> 21:24 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 19:58 chatgpt.com</li>
+<li class='same'> 19:57 chatgpt.com</li>
+<li> 19:57 mail.google.com</li>
+<li> 19:57 chatgpt.com</li>
+<li> 19:57 chat.openai.com</li>
+<li> 19:50 duckduckgo.com</li>
+<li class='same'> 19:49 duckduckgo.com</li>
+<li> 19:48 chatgpt.com</li>
+<li> 19:48 chat.openai.com</li>
+<li> 19:47 duckduckgo.com</li>
+</ul>
 
 <br>
 
@@ -123648,110 +123681,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:47 outlook.office365.com</li>
 <li class='same'> 10:46 outlook.office365.com</li>
 <li class='same'> 10:45 outlook.office365.com</li>
-<li class='same'> 10:44 outlook.office365.com</li>
-<li class='same'> 10:43 outlook.office365.com</li>
-<li class='same'> 10:42 outlook.office365.com</li>
-<li class='same'> 10:41 outlook.office365.com</li>
-<li class='same'> 10:40 outlook.office365.com</li>
-<li> 10:40 pure.royalholloway.ac.uk</li>
-<li> 10:39 www.ebay.co.uk</li>
-<li> 10:39 www.amazon.co.uk</li>
-<li> 10:38 www.google.com</li>
-<li> 10:36 webtimetables.royalholloway.ac.uk</li>
-<li> 10:35 gitlab.cim.rhul.ac.uk</li>
-<li class='same'> 10:34 gitlab.cim.rhul.ac.uk</li>
-<li> 10:34 outlook.office.com</li>
-<li> 10:34 outlook.office365.com</li>
-<li> 10:34 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 10:34 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 10:34 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 10:33 outlook.office365.com</li>
-<li class='same'> 10:32 outlook.office365.com</li>
-<li> 10:32 mail.rhul.ac.uk</li>
-<li> 10:09 mail.google.com</li>
-<li> 09:51 www.google.com</li>
-<li> 09:51 www.theguardian.com</li>
-<li> 09:45 mail.google.com</li>
-<li> 09:43 www.tvlicensing.co.uk</li>
-<li class='same'> 09:42 www.tvlicensing.co.uk</li>
-<li> 09:42 mail.google.com</li>
-<li> 09:42 gmail.com</li>
-<li> 09:42 www.tvlicensing.co.uk</li>
-<li> 09:42 www.google.com</li>
-<li> 09:41 www.linkedin.com</li>
-<li> 09:41 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:40 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:39 moodle.royalholloway.ac.uk</li>
-<li> 09:38 calendar.google.com</li>
-<li> 09:38 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:37 moodle.royalholloway.ac.uk</li>
-<li> 09:36 rhul-my.sharepoint.com</li>
-<li class='same'> 09:35 rhul-my.sharepoint.com</li>
-<li> 09:32 moodle2324.royalholloway.ac.uk</li>
-<li class='same'> 09:31 moodle2324.royalholloway.ac.uk</li>
-<li> 09:31 moodle.royalholloway.ac.uk</li>
-<li class='same'> 09:22 moodle.royalholloway.ac.uk</li>
-<li> 09:22 www.google.com</li>
-<li> 09:17 outlook.office.com</li>
-<li> 09:16 mail.google.com</li>
-<li> 09:15 www.linkedin.com</li>
-<li> 09:15 mail.google.com</li>
-<li> 09:14 web.whatsapp.com</li>
-<li> 09:14 mail.google.com</li>
-<li> 09:12 calendar.google.com</li>
-<li> 09:10 mail.google.com</li>
-<li> 09:10 gmail.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:24 <a href="https://en.wikipedia.org/wiki/Adam_McKay">Adam McKay - Wikipedia</a></li>
-<li> 07:24 www.google.com</li>
-<li> 07:13 www.linkedin.com</li>
-<li> 07:10 kdpreports.amazon.com</li>
-<li> 07:10 kdp.amazon.com</li>
-<li> 07:06 www.reddit.com</li>
-<li> 07:05 www.google.com</li>
-<li> 06:58 whitewaterwriters.com</li>
-<li> 06:56 calendar.google.com</li>
-<li class='same'> 06:55 calendar.google.com</li>
-<li> 06:55 www.facebook.com</li>
-<li> 06:51 www.linkedin.com</li>
-<li> 06:50 mail.google.com</li>
-<li> 06:50 gmail.com</li>
-<li> 06:50 mail.google.com</li>
-<li> 06:50 accounts.google.com</li>
-<li> 06:50 gmail.com</li>
-<li> 06:49 <a href="https://en.wikipedia.org/wiki/Special:FewestRevisions">Pages with the fewest revisions - Wikipedia</a></li>
-<li> 06:49 www.google.com</li>
-<li> 06:45 www.schneier.com</li>
-<li> 06:39 www.microsoft365.com</li>
-<li> 06:39 outlook.office365.com</li>
-<li class='same'> 06:38 outlook.office365.com</li>
-<li> 06:38 mail.rhul.ac.uk</li>
-<li> 06:37 <a href="https://en.wikipedia.org/wiki/Outline_of_computer_security">Outline of computer security - Wikipedia</a></li>
-<li> 06:37 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 06:37 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 06:37 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 06:37 <a href="https://en.wikipedia.org/wiki/Computer_security_software">Computer security software - Wikipedia</a></li>
-</ul>
-
-<H3>Sunday, 20/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 18:32 <a href="https://en.wikipedia.org/wiki/Computer_security_software">Computer security software - Wikipedia</a></li>
-<li> 18:32 <a href="https://en.wikipedia.org/wiki/Secure_coding">Secure coding - Wikipedia</a></li>
-<li> 18:32 <a href="https://en.wikipedia.org/wiki/Application_security">Application security - Wikipedia</a></li>
-<li> 18:31 <a href="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)">Defense in depth (computing) - Wikipedia</a></li>
-<li> 18:31 www.natwest.com</li>
-<li> 18:31 <a href="https://en.wikipedia.org/wiki/Panda_Security">Panda Security - Wikipedia</a></li>
-<li> 18:30 <a href="https://en.wikipedia.org/wiki/Digital_self-defense">Editing Digital self-defense - Wikipedia</a></li>
-<li> 18:30 <a href="https://en.wikipedia.org/w/index.php?title=Digital_self-defense&amp;action=edit">Editing Digital self-defense - Wikipedia</a></li>
-<li> 18:30 <a href="https://en.wikipedia.org/w/index.php?title=Digital_self-defense&amp;action=history">Digital self-defense: Revision history - Wikipedia</a></li>
-<li> 18:29 <a href="https://en.wikipedia.org/wiki/Digital_self-defense">Editing Digital self-defense - Wikipedia</a></li>
 </ul>
