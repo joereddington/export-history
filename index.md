@@ -75,13 +75,13 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3954)</li>
 <li>duckduckgo.com (3880)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2810)</li>
+<li>chatgpt.com (2812)</li>
 <li>www.linkedin.com (2360)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1832)</li>
 <li>moodle.royalholloway.ac.uk (1737)</li>
-<li>calendar.google.com (1542)</li>
-<li>login.microsoftonline.com (1341)</li>
+<li>calendar.google.com (1543)</li>
+<li>login.microsoftonline.com (1342)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>chat.openai.com (1307)</li>
 <li>herts.instructure.com (1231)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (828)</li>
 <li>forms.office.com (772)</li>
 <li>fritz.box (584)</li>
-<li>rhul.sharepoint.com (562)</li>
+<li>rhul.sharepoint.com (564)</li>
 <li>www.theguardian.com (554)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:29 chatgpt.com</li>
+<ul><li> 13:45 rhul.sharepoint.com</li>
+<li> 13:45 login.microsoftonline.com</li>
+<li> 13:45 device.login.microsoftonline.com</li>
+<li> 13:44 rhul.sharepoint.com</li>
+<li> 13:35 signin.aws.amazon.com</li>
+<li> 13:35 eu-west-2.signin.aws.amazon.com</li>
+<li> 13:35 eu-west-2.console.aws.amazon.com</li>
+<li> 13:32 chatgpt.com</li>
+<li class='same'> 13:31 chatgpt.com</li>
+<li> 13:31 calendar.google.com</li>
+<li> 13:29 chatgpt.com</li>
 <li> 13:20 moodle.royalholloway.ac.uk</li>
 <li> 13:12 www.google.com</li>
 <li> 13:09 moodle.royalholloway.ac.uk</li>
