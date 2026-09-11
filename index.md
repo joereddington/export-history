@@ -75,21 +75,21 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3955)</li>
 <li>duckduckgo.com (3880)</li>
 <li>docs.google.com (3298)</li>
-<li>chatgpt.com (2811)</li>
+<li>chatgpt.com (2812)</li>
 <li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1834)</li>
-<li>moodle.royalholloway.ac.uk (1727)</li>
-<li>calendar.google.com (1539)</li>
-<li>login.microsoftonline.com (1339)</li>
-<li>www.amazon.co.uk (1328)</li>
-<li>chat.openai.com (1308)</li>
+<li>moodle.royalholloway.ac.uk (1737)</li>
+<li>calendar.google.com (1542)</li>
+<li>login.microsoftonline.com (1341)</li>
+<li>www.amazon.co.uk (1329)</li>
+<li>chat.openai.com (1309)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1142)</li>
 <li>gmail.com (1127)</li>
 <li>mail.rhul.ac.uk (992)</li>
 <li>tvtropes.org (884)</li>
-<li>rhul-my.sharepoint.com (842)</li>
+<li>rhul-my.sharepoint.com (847)</li>
 <li>feedly.com (828)</li>
 <li>forms.office.com (772)</li>
 <li>fritz.box (584)</li>
@@ -108,7 +108,39 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:58 moodle.royalholloway.ac.uk</li>
+<ul><li> 11:27 chatgpt.com</li>
+<li> 11:27 chat.openai.com</li>
+<li> 11:26 rhul-my.sharepoint.com</li>
+<li> 11:26 device.login.microsoftonline.com</li>
+<li> 11:26 login.microsoftonline.com</li>
+<li> 11:26 rhul-my.sharepoint.com</li>
+<li class='same'> 11:25 rhul-my.sharepoint.com</li>
+<li class='same'> 11:17 rhul-my.sharepoint.com</li>
+<li> 11:17 moodle.royalholloway.ac.uk</li>
+<li> 11:16 calendar.google.com</li>
+<li class='same'> 11:15 calendar.google.com</li>
+<li> 11:12 www.amazon.co.uk</li>
+<li> 11:11 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:10 moodle.royalholloway.ac.uk</li>
+<li> 11:09 calendar.google.com</li>
+<li> 11:09 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:08 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:07 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:06 moodle.royalholloway.ac.uk</li>
+<li> 11:06 rl.talis.com</li>
+<li class='same'> 11:05 rl.talis.com</li>
+<li> 11:05 moodle.royalholloway.ac.uk</li>
+<li> 11:04 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 11:04 moodle.royalholloway.ac.uk</li>
+<li class='same'> 11:03 moodle.royalholloway.ac.uk</li>
+<li> 11:02 royalholloway.akarisoftware.com</li>
+<li class='same'> 11:01 royalholloway.akarisoftware.com</li>
+<li class='same'> 11:00 royalholloway.akarisoftware.com</li>
+<li> 11:00 login.microsoftonline.com</li>
+<li> 11:00 device.login.microsoftonline.com</li>
+<li> 11:00 royalholloway.akarisoftware.com</li>
+<li> 10:59 rhul-my.sharepoint.com</li>
+<li> 10:58 moodle.royalholloway.ac.uk</li>
 <li class='same'> 10:57 moodle.royalholloway.ac.uk</li>
 <li> 10:56 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 10:53 webtimetables.royalholloway.ac.uk</li>
