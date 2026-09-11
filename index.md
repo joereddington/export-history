@@ -71,12 +71,12 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (5326)</li>
 <li>www.google.com (5247)</li>
 <li>www.reddit.com (5094)</li>
-<li>outlook.office365.com (4595)</li>
+<li>outlook.office365.com (4594)</li>
 <li>outlook.office.com (3953)</li>
 <li>duckduckgo.com (3882)</li>
 <li>docs.google.com (3303)</li>
 <li>chatgpt.com (2813)</li>
-<li>www.linkedin.com (2362)</li>
+<li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1847)</li>
 <li>moodle.royalholloway.ac.uk (1752)</li>
@@ -123740,6 +123740,4 @@ With number of accesses/minutes in parentheses
 <li> 15:37 mail.google.com</li>
 <li> 15:36 outlook.office365.com</li>
 <li> 15:36 mail.google.com</li>
-<li> 15:35 www.linkedin.com</li>
-<li> 15:35 outlook.office365.com</li>
 </ul>
