@@ -69,18 +69,18 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5326)</li>
-<li>www.google.com (5250)</li>
+<li>www.google.com (5252)</li>
 <li>www.reddit.com (5085)</li>
-<li>outlook.office365.com (4605)</li>
+<li>outlook.office365.com (4601)</li>
 <li>outlook.office.com (3954)</li>
-<li>duckduckgo.com (3881)</li>
-<li>docs.google.com (3299)</li>
-<li>chatgpt.com (2812)</li>
-<li>www.linkedin.com (2362)</li>
+<li>duckduckgo.com (3882)</li>
+<li>docs.google.com (3301)</li>
+<li>chatgpt.com (2814)</li>
+<li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1833)</li>
-<li>moodle.royalholloway.ac.uk (1746)</li>
-<li>calendar.google.com (1544)</li>
+<li>www.facebook.com (1845)</li>
+<li>moodle.royalholloway.ac.uk (1748)</li>
+<li>calendar.google.com (1546)</li>
 <li>login.microsoftonline.com (1342)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>chat.openai.com (1307)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (554)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (472)</li>
+<li>drive.google.com (473)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,49 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:12 outlook.office365.com</li>
+<ul><li> 15:59 www.tiktok.com</li>
+<li> 15:59 www.google.com</li>
+<li> 15:58 www.instagram.com</li>
+<li> 15:58 www.google.com</li>
+<li> 15:58 www.instagram.com</li>
+<li> 15:58 www.google.com</li>
+<li> 15:58 www.instagram.com</li>
+<li class='same'> 15:57 www.instagram.com</li>
+<li> 15:57 www.google.com</li>
+<li> 15:57 instagram.com</li>
+<li> 15:57 www.instagram.com</li>
+<li class='same'> 15:56 www.instagram.com</li>
+<li> 15:56 www.google.com</li>
+<li> 15:55 www.instagram.com</li>
+<li> 15:55 www.google.com</li>
+<li> 15:54 www.facebook.com</li>
+<li class='same'> 15:53 www.facebook.com</li>
+<li class='same'> 15:52 www.facebook.com</li>
+<li class='same'> 15:51 www.facebook.com</li>
+<li class='same'> 15:50 www.facebook.com</li>
+<li class='same'> 15:49 www.facebook.com</li>
+<li class='same'> 15:48 www.facebook.com</li>
+<li class='same'> 15:47 www.facebook.com</li>
+<li class='same'> 15:46 www.facebook.com</li>
+<li> 15:46 docs.google.com</li>
+<li> 15:46 www.facebook.com</li>
+<li> 15:46 fast.com</li>
+<li> 15:46 docs.google.com</li>
+<li> 15:44 drive.google.com</li>
+<li> 15:42 chatgpt.com</li>
+<li> 15:42 www.facebook.com</li>
+<li class='same'> 15:40 www.facebook.com</li>
+<li> 15:40 facebook.com</li>
+<li> 15:40 chatgpt.com</li>
+<li> 15:39 duckduckgo.com</li>
+<li> 15:38 calendar.google.com</li>
+<li> 15:38 www.linkedin.com</li>
+<li> 15:33 calendar.google.com</li>
+<li> 15:31 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:30 moodle.royalholloway.ac.uk</li>
+<li> 15:30 dashboards.rhul.ac.uk</li>
+<li class='same'> 15:29 dashboards.rhul.ac.uk</li>
+<li> 15:12 outlook.office365.com</li>
 <li> 14:57 drive.google.com</li>
 <li> 14:56 mail-attachment.googleusercontent.com</li>
 <li> 14:56 mail.google.com</li>
@@ -123729,23 +123771,4 @@ With number of accesses/minutes in parentheses
 <li> 12:40 www.google.com</li>
 <li> 12:39 kdp.amazon.com</li>
 <li class='same'> 12:36 kdp.amazon.com</li>
-<li> 12:35 outlook.office365.com</li>
-<li> 12:34 www.google.com</li>
-<li> 12:33 outlook.office365.com</li>
-<li> 12:33 www.google.com</li>
-<li> 12:33 outlook.office365.com</li>
-<li class='same'> 12:32 outlook.office365.com</li>
-<li> 12:32 pure.royalholloway.ac.uk</li>
-<li> 12:32 www.google.com</li>
-<li> 12:32 pure.royalholloway.ac.uk</li>
-<li> 12:31 www.google.com</li>
-<li> 12:31 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 12:31 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 12:31 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 12:30 <a href="https://joereddington.com/2024/07/15/publishing.html">Publishing. Again. | Joe Reddington</a></li>
-<li> 12:30 <a href="https://joereddington.com/2024/07/21/the-difficult-second-book.html">The difficult second book | Joe Reddington</a></li>
-<li> 12:30 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 12:30 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 12:29 kdp.amazon.com</li>
-<li class='same'> 12:28 kdp.amazon.com</li>
 </ul>
