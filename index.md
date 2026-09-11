@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5326)</li>
-<li>www.google.com (5252)</li>
-<li>www.reddit.com (5085)</li>
-<li>outlook.office365.com (4601)</li>
+<ol><li>mail.google.com (5325)</li>
+<li>www.google.com (5250)</li>
+<li>www.reddit.com (5094)</li>
+<li>outlook.office365.com (4596)</li>
 <li>outlook.office.com (3954)</li>
 <li>duckduckgo.com (3882)</li>
 <li>docs.google.com (3301)</li>
@@ -79,15 +79,15 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2363)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1845)</li>
-<li>moodle.royalholloway.ac.uk (1748)</li>
+<li>moodle.royalholloway.ac.uk (1752)</li>
 <li>calendar.google.com (1546)</li>
 <li>login.microsoftonline.com (1342)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>chat.openai.com (1307)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1140)</li>
-<li>gmail.com (1128)</li>
-<li>mail.rhul.ac.uk (991)</li>
+<li>web.whatsapp.com (1139)</li>
+<li>gmail.com (1127)</li>
+<li>mail.rhul.ac.uk (989)</li>
 <li>tvtropes.org (884)</li>
 <li>rhul-my.sharepoint.com (845)</li>
 <li>feedly.com (828)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:59 www.tiktok.com</li>
+<ul><li> 16:26 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:25 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:24 moodle.royalholloway.ac.uk</li>
+<li class='same'> 16:18 moodle.royalholloway.ac.uk</li>
+<li> 16:14 www.reddit.com</li>
+<li class='same'> 16:11 www.reddit.com</li>
+<li class='same'> 16:10 www.reddit.com</li>
+<li class='same'> 16:09 www.reddit.com</li>
+<li class='same'> 16:07 www.reddit.com</li>
+<li class='same'> 16:06 www.reddit.com</li>
+<li class='same'> 16:03 www.reddit.com</li>
+<li class='same'> 16:02 www.reddit.com</li>
+<li class='same'> 16:00 www.reddit.com</li>
+<li> 16:00 www.instagram.com</li>
+<li class='same'> 15:59 www.instagram.com</li>
+<li> 15:59 www.tiktok.com</li>
 <li> 15:59 www.google.com</li>
 <li> 15:58 www.instagram.com</li>
 <li> 15:58 www.google.com</li>
@@ -123734,41 +123749,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:35 whitewaterwriters.com</li>
 <li> 14:33 www.linkedin.com</li>
 <li> 14:33 www.google.com</li>
-<li> 14:31 outlook.office365.com</li>
-<li class='same'> 14:30 outlook.office365.com</li>
-<li> 14:30 mail.rhul.ac.uk</li>
-<li> 14:30 uofglasgow.zoom.us</li>
-<li> 14:30 web.whatsapp.com</li>
-<li> 14:29 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:54 mail.google.com</li>
-<li> 13:54 gmail.com</li>
-<li> 13:53 outlook.office365.com</li>
-<li> 13:53 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 12:57 <a href="https://en.wikipedia.org/wiki/Outline_of_computer_security">Outline of computer security - Wikipedia</a></li>
-<li> 12:56 <a href="https://en.wikipedia.org/wiki/Special:Contributions/Joereddington">User contributions for Joereddington - Wikipedia</a></li>
-<li> 12:56 <a href="https://en.wikipedia.org/wiki/User:Joereddington">User:Joereddington - Wikipedia</a></li>
-<li> 12:55 wp1.openzim.org</li>
-<li> 12:53 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computer_Security">Wikipedia:WikiProject Computer security - Wikipedia</a></li>
-<li> 12:53 www.google.com</li>
-<li> 12:53 <a href="https://en.wikipedia.org/wiki/Talk:Information_security">Talk:Information security - Wikipedia</a></li>
-<li> 12:53 <a href="https://en.wikipedia.org/wiki/Information_security">Information security - Wikipedia</a></li>
-<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 12:53 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 12:53 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 12:52 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 12:52 <a href="https://en.wikipedia.org/"></a></li>
-<li> 12:52 outlook.office365.com</li>
-<li> 12:47 teams.microsoft.com</li>
-<li> 12:41 kdp.amazon.com</li>
-<li> 12:40 www.google.com</li>
-<li> 12:39 kdp.amazon.com</li>
-<li class='same'> 12:36 kdp.amazon.com</li>
 </ul>
