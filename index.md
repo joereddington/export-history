@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5326)</li>
-<li>www.google.com (5249)</li>
+<li>www.google.com (5250)</li>
 <li>www.reddit.com (5085)</li>
-<li>outlook.office365.com (4597)</li>
+<li>outlook.office365.com (4605)</li>
 <li>outlook.office.com (3954)</li>
 <li>duckduckgo.com (3881)</li>
 <li>docs.google.com (3299)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:57 drive.google.com</li>
+<ul><li> 15:12 outlook.office365.com</li>
+<li> 14:57 drive.google.com</li>
 <li> 14:56 mail-attachment.googleusercontent.com</li>
 <li> 14:56 mail.google.com</li>
 <li> 14:56 mail-attachment.googleusercontent.com</li>
@@ -161,7 +162,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:27 chatgpt.com</li>
+<ul><li> 12:28 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:52 outlook.office365.com</li>
+<li class='same'> 11:45 outlook.office365.com</li>
+<li class='same'> 11:35 outlook.office365.com</li>
+<li> 11:27 chatgpt.com</li>
 <li> 11:27 chat.openai.com</li>
 <li> 11:26 rhul-my.sharepoint.com</li>
 <li> 11:26 device.login.microsoftonline.com</li>
@@ -214,11 +223,19 @@ With number of accesses/minutes in parentheses
 <li> 10:43 login.microsoftonline.com</li>
 <li> 10:43 calendar.google.com</li>
 <li> 10:21 moodle.royalholloway.ac.uk</li>
+<li> 10:02 outlook.office365.com</li>
 </ul>
 
 <br>
 
-<ul><li> 08:10 outlook.office365.com</li>
+<ul><li class='same'> 09:19 outlook.office365.com</li>
+<li class='same'> 09:05 outlook.office365.com</li>
+<li class='same'> 09:04 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:10 outlook.office365.com</li>
 <li class='same'> 08:09 outlook.office365.com</li>
 </ul>
 
