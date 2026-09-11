@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5321)</li>
-<li>www.google.com (5260)</li>
+<li>www.google.com (5257)</li>
 <li>www.reddit.com (5087)</li>
 <li>outlook.office365.com (4617)</li>
 <li>outlook.office.com (3955)</li>
@@ -11534,8 +11534,6 @@ With number of accesses/minutes in parentheses
 <li> 16:09 mail.google.com</li>
 <li class='same'> 16:08 mail.google.com</li>
 <li> 16:03 gla-my.sharepoint.com</li>
-<li> 16:03 www.google.com</li>
-<li> 16:03 gla-my.sharepoint.com</li>
 <li> 15:58 chatgpt.com</li>
 <li> 15:58 <a href="https://www.youtube.com/results?search_query=snapchat+lens">(184) snapchat lens - YouTube</a></li>
 <li> 15:58 <a href="https://www.youtube.com/">YouTube</a></li>
@@ -11581,15 +11579,12 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:45 learning.oreilly.com</li>
 <li class='same'> 12:44 learning.oreilly.com</li>
 <li> 12:44 www.oreilly.com</li>
-<li> 12:44 learning.oreilly.com</li>
-<li> 12:44 www.oreilly.com</li>
 <li> 12:44 duckduckgo.com</li>
 <li> 12:44 read.amazon.com</li>
 <li class='same'> 12:43 read.amazon.com</li>
 <li> 12:39 www.trupigvegan.com</li>
 <li class='same'> 12:38 www.trupigvegan.com</li>
 <li> 12:38 www.paypal.com</li>
-<li class='same'> 12:37 www.paypal.com</li>
 <li> 12:37 www.trupigvegan.com</li>
 <li class='same'> 12:36 www.trupigvegan.com</li>
 <li> 12:30 read.amazon.com</li>
@@ -11618,14 +11613,11 @@ With number of accesses/minutes in parentheses
 <li> 11:47 access.login.nhs.uk</li>
 <li> 11:46 mail.google.com</li>
 <li> 11:46 access.login.nhs.uk</li>
-<li> 11:46 www.google.com</li>
-<li> 11:46 access.login.nhs.uk</li>
 <li> 11:46 mail.google.com</li>
 <li class='same'> 11:45 mail.google.com</li>
 <li> 11:45 gmail.com</li>
 <li> 11:44 www.woodlandavenuepractice.nhs.uk</li>
 <li> 11:44 auth.login.nhs.uk</li>
-<li> 11:44 accurx.nhs.uk</li>
 <li> 11:44 access.login.nhs.uk</li>
 <li> 11:44 florey.accurx.com</li>
 <li> 11:44 accurx.nhs.uk</li>
@@ -11723,7 +11715,6 @@ With number of accesses/minutes in parentheses
 <li> 09:30 duckduckgo.com</li>
 <li> 09:28 chatgpt.com</li>
 <li> 09:28 chat.openai.com</li>
-<li> 09:26 www.google.com</li>
 <li> 09:26 wren-psychology.uk1.cliniko.com</li>
 <li> 09:26 mail.google.com</li>
 <li class='same'> 09:25 mail.google.com</li>
