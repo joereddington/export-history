@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5320)</li>
+<ol><li>mail.google.com (5321)</li>
 <li>www.google.com (5249)</li>
 <li>www.reddit.com (5085)</li>
 <li>outlook.office365.com (4597)</li>
@@ -78,22 +78,22 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (2812)</li>
 <li>www.linkedin.com (2360)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1832)</li>
-<li>moodle.royalholloway.ac.uk (1737)</li>
-<li>calendar.google.com (1543)</li>
+<li>www.facebook.com (1833)</li>
+<li>moodle.royalholloway.ac.uk (1740)</li>
+<li>calendar.google.com (1544)</li>
 <li>login.microsoftonline.com (1342)</li>
 <li>www.amazon.co.uk (1328)</li>
 <li>chat.openai.com (1307)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1140)</li>
-<li>gmail.com (1126)</li>
+<li>gmail.com (1127)</li>
 <li>mail.rhul.ac.uk (991)</li>
 <li>tvtropes.org (884)</li>
 <li>rhul-my.sharepoint.com (845)</li>
 <li>feedly.com (828)</li>
 <li>forms.office.com (772)</li>
 <li>fritz.box (584)</li>
-<li>rhul.sharepoint.com (564)</li>
+<li>rhul.sharepoint.com (565)</li>
 <li>www.theguardian.com (554)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:45 rhul.sharepoint.com</li>
+<ul><li> 14:22 mail.google.com</li>
+<li> 14:22 gmail.com</li>
+<li> 14:21 calendar.google.com</li>
+<li> 14:21 rhul.sharepoint.com</li>
+<li> 14:20 www.facebook.com</li>
+<li> 14:20 facebook.com</li>
+<li> 14:13 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:12 moodle.royalholloway.ac.uk</li>
+<li class='same'> 14:09 moodle.royalholloway.ac.uk</li>
+<li> 14:09 eur03.safelinks.protection.outlook.com</li>
+<li> 13:45 rhul.sharepoint.com</li>
 <li> 13:45 login.microsoftonline.com</li>
 <li> 13:45 device.login.microsoftonline.com</li>
 <li> 13:44 rhul.sharepoint.com</li>
