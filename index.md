@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5326)</li>
-<li>www.google.com (5247)</li>
+<ol><li>mail.google.com (5324)</li>
+<li>www.google.com (5239)</li>
 <li>www.reddit.com (5094)</li>
-<li>outlook.office365.com (4594)</li>
+<li>outlook.office365.com (4588)</li>
 <li>outlook.office.com (3953)</li>
 <li>duckduckgo.com (3882)</li>
 <li>docs.google.com (3303)</li>
-<li>chatgpt.com (2813)</li>
-<li>www.linkedin.com (2361)</li>
+<li>chatgpt.com (2811)</li>
+<li>www.linkedin.com (2360)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1847)</li>
+<li>www.facebook.com (1845)</li>
 <li>moodle.royalholloway.ac.uk (1752)</li>
-<li>calendar.google.com (1547)</li>
+<li>calendar.google.com (1548)</li>
 <li>login.microsoftonline.com (1342)</li>
 <li>www.amazon.co.uk (1328)</li>
-<li>chat.openai.com (1306)</li>
+<li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1139)</li>
 <li>gmail.com (1125)</li>
@@ -104,7 +104,18 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 12/09/26</H3>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Friday, 11/09/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -11669,12 +11680,10 @@ With number of accesses/minutes in parentheses
 <li> 11:02 identity.o2.co.uk</li>
 <li> 11:02 accounts.o2.co.uk</li>
 <li> 11:02 auth.virginmediao2.co.uk</li>
-<li> 11:02 www.google.com</li>
 <li> 11:02 mail.google.com</li>
 <li> 11:02 gmail.com</li>
 <li> 11:01 oauth.virginmediao2.co.uk</li>
 <li> 11:01 accounts.o2.co.uk</li>
-<li> 11:01 notlongnow.o2.co.uk</li>
 <li> 11:01 mymobile2.o2.co.uk</li>
 <li> 11:01 identity.o2.co.uk</li>
 <li> 11:01 notlongnow.o2.co.uk</li>
@@ -11692,9 +11701,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:35 www.drmartens.com</li>
 <li class='same'> 07:34 www.drmartens.com</li>
 <li class='same'> 07:33 www.drmartens.com</li>
-<li class='same'> 07:32 www.drmartens.com</li>
-<li> 07:32 www.google.com</li>
-<li> 07:32 accounts.google.com</li>
 <li> 07:32 www.google.com</li>
 <li class='same'> 07:31 www.google.com</li>
 <li class='same'> 07:30 www.google.com</li>
@@ -123698,46 +123704,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:51 www.google.co.uk</li>
 <li> 16:51 www.google.com</li>
 <li> 16:51 books.google.co.uk</li>
-<li> 16:51 www.google.com</li>
-<li> 16:51 <a href="https://en.wikipedia.org/wiki/Flipped_classroom">Flipped classroom - Wikipedia</a></li>
-<li> 16:50 www.google.com</li>
-<li> 16:50 scholar.google.com</li>
-<li> 16:49 iss.internationaljournallabs.com</li>
-<li> 16:49 scholar.google.com</li>
-<li> 16:49 www.google.com</li>
-<li> 16:48 www.google.co.uk</li>
-<li> 16:47 www.google.com</li>
-<li> 16:46 books.google.co.uk</li>
-<li> 16:46 www.google.com</li>
-<li> 16:45 www.thestudentroom.co.uk</li>
-<li> 16:45 www.google.com</li>
-<li> 16:45 chatgpt.com</li>
-<li class='same'> 16:44 chatgpt.com</li>
-<li> 16:44 chat.openai.com</li>
-<li> 16:41 www.facebook.com</li>
-<li> 16:41 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 15:42 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:42 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:42 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 15:41 <a href="https://en.wikipedia.org/wiki/User:Remsense">user:Remsense - Wikipedia</a></li>
-<li> 15:41 <a href="https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines">Wikipedia:Contents/Outlines - Wikipedia</a></li>
-<li> 15:41 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special:Watchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:41 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
-<li> 15:41 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
-<li> 15:41 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 15:41 <a href="https://en.wikipedia.org/"></a></li>
-<li> 15:40 outlook.office365.com</li>
-<li> 15:40 teams.microsoft.com</li>
-<li> 15:40 outlook.office365.com</li>
-<li class='same'> 15:39 outlook.office365.com</li>
-<li> 15:39 www.linkedin.com</li>
-<li> 15:38 www.facebook.com</li>
-<li> 15:37 outlook.office365.com</li>
-<li> 15:37 mail.google.com</li>
-<li> 15:36 outlook.office365.com</li>
-<li> 15:36 mail.google.com</li>
 </ul>
