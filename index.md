@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5313)</li>
 <li>www.google.com (5226)</li>
-<li>www.reddit.com (5093)</li>
+<li>www.reddit.com (5098)</li>
 <li>outlook.office365.com (4592)</li>
 <li>outlook.office.com (3942)</li>
-<li>duckduckgo.com (3882)</li>
+<li>duckduckgo.com (3883)</li>
 <li>docs.google.com (3302)</li>
 <li>chatgpt.com (2811)</li>
-<li>www.linkedin.com (2357)</li>
+<li>www.linkedin.com (2358)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1844)</li>
 <li>moodle.royalholloway.ac.uk (1752)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (989)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (841)</li>
-<li>feedly.com (826)</li>
+<li>feedly.com (830)</li>
 <li>forms.office.com (772)</li>
 <li>fritz.box (584)</li>
 <li>rhul.sharepoint.com (566)</li>
@@ -105,6 +105,36 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 12/09/26</H3>
+
+<br>
+
+<ul><li> 18:59 www.reddit.com</li>
+<li class='same'> 18:58 www.reddit.com</li>
+<li class='same'> 18:57 www.reddit.com</li>
+<li> 18:57 www.breitbart.com</li>
+<li> 18:57 duckduckgo.com</li>
+<li> 18:55 www.foxnews.com</li>
+<li> 18:54 www.reddit.com</li>
+<li class='same'> 18:53 www.reddit.com</li>
+<li> 18:53 feedly.com</li>
+<li class='same'> 18:51 feedly.com</li>
+<li> 18:51 feefeedly.com</li>
+<li> 18:51 feedly.com</li>
+<li> 18:51 www.linkedin.com</li>
+<li> 18:50 feedly.com</li>
+<li> 18:46 learningonscreen.ac.uk</li>
+<li> 18:46 login.learningonscreen.ac.uk</li>
+<li> 18:46 connect.openathens.net</li>
+<li> 18:46 login.openathens.net</li>
+<li> 18:46 connect.openathens.net</li>
+<li> 18:46 login.learningonscreen.ac.uk</li>
+<li> 18:46 connect.openathens.net</li>
+<li> 18:46 login.learningonscreen.ac.uk</li>
+<li> 18:46 learningonscreen.ac.uk</li>
+<li> 18:46 192.168.178.1</li>
+<li class='same'> 18:45 192.168.178.1</li>
+<li class='same'> 18:44 192.168.178.1</li>
+</ul>
 
 <br>
 
