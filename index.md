@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5324)</li>
-<li>www.google.com (5238)</li>
-<li>www.reddit.com (5094)</li>
-<li>outlook.office365.com (4588)</li>
-<li>outlook.office.com (3953)</li>
+<ol><li>mail.google.com (5313)</li>
+<li>www.google.com (5226)</li>
+<li>www.reddit.com (5093)</li>
+<li>outlook.office365.com (4592)</li>
+<li>outlook.office.com (3942)</li>
 <li>duckduckgo.com (3882)</li>
-<li>docs.google.com (3303)</li>
+<li>docs.google.com (3302)</li>
 <li>chatgpt.com (2811)</li>
-<li>www.linkedin.com (2360)</li>
+<li>www.linkedin.com (2357)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1845)</li>
+<li>www.facebook.com (1844)</li>
 <li>moodle.royalholloway.ac.uk (1752)</li>
-<li>calendar.google.com (1548)</li>
+<li>calendar.google.com (1546)</li>
 <li>login.microsoftonline.com (1342)</li>
-<li>www.amazon.co.uk (1328)</li>
+<li>www.amazon.co.uk (1324)</li>
 <li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1139)</li>
-<li>gmail.com (1125)</li>
+<li>web.whatsapp.com (1138)</li>
+<li>gmail.com (1124)</li>
 <li>mail.rhul.ac.uk (989)</li>
-<li>tvtropes.org (884)</li>
-<li>rhul-my.sharepoint.com (843)</li>
-<li>feedly.com (828)</li>
+<li>tvtropes.org (881)</li>
+<li>rhul-my.sharepoint.com (841)</li>
+<li>feedly.com (826)</li>
 <li>forms.office.com (772)</li>
 <li>fritz.box (584)</li>
 <li>rhul.sharepoint.com (566)</li>
@@ -116,6 +116,14 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul></ul>
+
+<br>
+
+<ul><li> 18:04 outlook.office365.com</li>
+<li class='same'> 17:59 outlook.office365.com</li>
+<li> 17:59 device.login.microsoftonline.com</li>
+<li> 17:35 outlook.office365.com</li>
+</ul>
 
 <br>
 
@@ -190,11 +198,13 @@ With number of accesses/minutes in parentheses
 <li> 15:38 calendar.google.com</li>
 <li> 15:38 www.linkedin.com</li>
 <li> 15:33 calendar.google.com</li>
+<li> 15:32 outlook.office365.com</li>
 <li> 15:31 moodle.royalholloway.ac.uk</li>
 <li class='same'> 15:30 moodle.royalholloway.ac.uk</li>
 <li> 15:30 dashboards.rhul.ac.uk</li>
 <li class='same'> 15:29 dashboards.rhul.ac.uk</li>
-<li> 15:12 outlook.office365.com</li>
+<li> 15:13 outlook.office365.com</li>
+<li class='same'> 15:12 outlook.office365.com</li>
 <li> 14:57 drive.google.com</li>
 <li> 14:56 mail-attachment.googleusercontent.com</li>
 <li> 14:56 mail.google.com</li>
@@ -123603,100 +123613,4 @@ With number of accesses/minutes in parentheses
 <li> 14:35 www.google.com</li>
 <li> 14:35 mail.google.com</li>
 <li class='same'> 14:34 mail.google.com</li>
-<li> 14:33 calendar.google.com</li>
-<li> 14:33 web.whatsapp.com</li>
-<li> 14:32 mail.google.com</li>
-<li> 14:32 www.linkedin.com</li>
-<li> 14:32 mail.google.com</li>
-<li> 14:32 www.linkedin.com</li>
-<li> 14:31 calendar.google.com</li>
-<li> 14:31 mail.google.com</li>
-<li class='same'> 14:30 mail.google.com</li>
-<li> 14:29 www.facebook.com</li>
-<li> 14:29 mail.google.com</li>
-<li> 14:28 www.amazon.co.uk</li>
-<li class='same'> 14:27 www.amazon.co.uk</li>
-<li> 14:27 www.google.com</li>
-<li> 14:25 www.amazon.co.uk</li>
-<li> 14:25 www.google.com</li>
-<li> 14:25 docs.google.com</li>
-<li> 14:25 mail.google.com</li>
-<li class='same'> 14:24 mail.google.com</li>
-<li class='same'> 14:23 mail.google.com</li>
-<li class='same'> 14:22 mail.google.com</li>
-<li class='same'> 14:19 mail.google.com</li>
-<li> 14:18 v6.kittleorders.com</li>
-<li> 14:18 mail.google.com</li>
-<li> 14:18 gmail.com</li>
-<li> 14:17 outlook.office.com</li>
-<li class='same'> 14:16 outlook.office.com</li>
-<li class='same'> 14:15 outlook.office.com</li>
-<li class='same'> 14:14 outlook.office.com</li>
-<li> 14:08 www.google.com</li>
-<li> 14:08 tvtropes.org</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 10:36 tvtropes.org</li>
-<li> 10:35 www.google.com</li>
-<li> 10:35 tvtropes.org</li>
-<li> 10:35 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:21 feedly.com</li>
-<li> 07:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Digital_self-defense&amp;oldid=prev&amp;diff=1252555866&amp;markasread=330227926&amp;markasreadwiki=enwiki">Digital self-defense: Difference between revisions - Wikipedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/w/index.php?title=Digital_self-defense&amp;oldid=prev&amp;diff=1252555866">Digital self-defense: Difference between revisions - Wikipedia</a></li>
-<li> 07:20 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
-<li> 07:18 outlook.office.com</li>
-<li class='same'> 07:16 outlook.office.com</li>
-<li class='same'> 07:15 outlook.office.com</li>
-<li class='same'> 07:14 outlook.office.com</li>
-<li> 07:14 adblockplus.org</li>
-<li> 07:14 outlook.office.com</li>
-</ul>
-
-<H3>Monday, 21/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 18:48 www.google.com</li>
-<li class='same'> 18:33 www.google.com</li>
-<li> 18:08 <a href="https://www.youtube.com/watch?v=6XjS8emae1E">(62) Are You Using the Right Jigsaw Blade? - YouTube</a></li>
-<li> 18:07 <a href="https://www.youtube.com/">YouTube</a></li>
-<li> 18:06 <a href="https://www.youtube.com/watch?v=VtYVbnVQR6M">(61) The Lord of The Rings: The Fellowship of the Ring | Battle of Moria | ClipZone: Heroes &amp; Villains - YouTube</a></li>
-<li> 18:06 <a href="https://www.youtube.com/">YouTube</a></li>
-<li> 18:05 <a href="https://www.youtube.com/watch?v=yu-BVj5RouQ">(61) Everything GREAT About Inside Out 2! - YouTube</a></li>
-<li> 18:05 <a href="https://www.youtube.com/">YouTube</a></li>
-<li> 17:40 claude.ai</li>
-<li class='same'> 17:39 claude.ai</li>
-<li> 17:38 rhul-my.sharepoint.com</li>
-<li class='same'> 17:37 rhul-my.sharepoint.com</li>
-<li> 17:37 outlook.office365.com</li>
-<li> 17:30 www.linkedin.com</li>
-<li> 17:30 x.com</li>
-<li> 17:30 twitter.com</li>
-<li> 17:29 www.google.com</li>
-<li> 17:28 feedly.com</li>
-<li> 17:28 outlook.office.com</li>
-<li> 17:13 www.reddit.com</li>
-<li> 17:13 latex.org</li>
-<li> 17:12 www.google.com</li>
-<li> 17:09 <a href="https://en.wikipedia.org/wiki/Flipped_classroom">Flipped classroom - Wikipedia</a></li>
-<li> 17:09 www.google.com</li>
-<li> 17:06 link.springer.com</li>
-<li> 17:06 www.google.com</li>
-<li> 17:04 outlook.office.com</li>
-<li> 16:58 librarysearch.royalholloway.ac.uk</li>
-<li> 16:57 www.amazon.co.uk</li>
-<li> 16:56 librarysearch.royalholloway.ac.uk</li>
-<li class='same'> 16:55 librarysearch.royalholloway.ac.uk</li>
-<li> 16:54 www.google.com</li>
 </ul>
