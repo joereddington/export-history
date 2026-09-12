@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1844)</li>
 <li>moodle.royalholloway.ac.uk (1752)</li>
 <li>calendar.google.com (1546)</li>
-<li>login.microsoftonline.com (1342)</li>
+<li>login.microsoftonline.com (1343)</li>
 <li>www.amazon.co.uk (1324)</li>
 <li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 12/09/26</H3>
+
+<br>
+
+<ul><li> 13:16 login.learningonscreen.ac.uk</li>
+<li> 13:16 connect.openathens.net</li>
+<li> 13:16 login.openathens.net</li>
+<li> 13:16 login.microsoftonline.com</li>
+<li> 13:16 device.login.microsoftonline.com</li>
+<li> 13:16 login.openathens.net</li>
+<li> 13:16 connect.openathens.net</li>
+<li> 13:16 login.learningonscreen.ac.uk</li>
+<li> 13:16 connect.openathens.net</li>
+<li> 13:16 login.learningonscreen.ac.uk</li>
+<li> 13:16 learningonscreen.ac.uk</li>
+</ul>
 
 <br>
 
