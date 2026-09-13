@@ -69,8 +69,8 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5313)</li>
-<li>www.google.com (5229)</li>
-<li>www.reddit.com (5099)</li>
+<li>www.google.com (5228)</li>
+<li>www.reddit.com (5114)</li>
 <li>outlook.office365.com (4596)</li>
 <li>outlook.office.com (3942)</li>
 <li>duckduckgo.com (3883)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:43 learningonscreen.ac.uk</li>
+<ul><li> 19:29 www.reddit.com</li>
+<li class='same'> 19:28 www.reddit.com</li>
+<li class='same'> 19:27 www.reddit.com</li>
+<li class='same'> 19:24 www.reddit.com</li>
+<li class='same'> 19:21 www.reddit.com</li>
+<li class='same'> 19:18 www.reddit.com</li>
+<li class='same'> 19:17 www.reddit.com</li>
+<li class='same'> 19:16 www.reddit.com</li>
+<li class='same'> 19:15 www.reddit.com</li>
+<li class='same'> 19:13 www.reddit.com</li>
+<li class='same'> 19:12 www.reddit.com</li>
+<li class='same'> 19:11 www.reddit.com</li>
+<li class='same'> 19:09 www.reddit.com</li>
+<li class='same'> 19:08 www.reddit.com</li>
+<li class='same'> 19:07 www.reddit.com</li>
+<li> 19:06 192.168.178.1</li>
+<li> 18:43 learningonscreen.ac.uk</li>
 <li class='same'> 18:42 learningonscreen.ac.uk</li>
 <li class='same'> 18:41 learningonscreen.ac.uk</li>
 </ul>
@@ -11721,7 +11737,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:09 www.google.com</li>
-<li class='same'> 19:08 www.google.com</li>
 <li class='same'> 19:07 www.google.com</li>
 <li> 19:07 consent.google.com</li>
 <li> 19:07 www.google.com</li>
@@ -123748,49 +123763,4 @@ With number of accesses/minutes in parentheses
 <li> 14:35 www.google.com</li>
 <li> 14:35 mail.google.com</li>
 <li class='same'> 14:34 mail.google.com</li>
-</ul>
-
-<H3>Sunday, 28/07/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 08:11 www.parkrun.org.uk</li>
-<li class='same'> 08:07 www.parkrun.org.uk</li>
-</ul>
-
-<H3>Sunday, 04/02/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 21:07 www.parkrun.org.uk</li>
-</ul>
-
-<H3>Monday, 25/12/23</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 17:51 www.parkrun.org.uk</li>
-</ul>
-
-<H3>Sunday, 22/10/23</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 13:31 www.parkrun.org.uk</li>
 </ul>
