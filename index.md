@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5299)</li>
+<ol><li>mail.google.com (5297)</li>
 <li>www.google.com (5224)</li>
 <li>www.reddit.com (5127)</li>
 <li>outlook.office365.com (4596)</li>
 <li>outlook.office.com (3941)</li>
-<li>duckduckgo.com (3883)</li>
+<li>duckduckgo.com (3884)</li>
 <li>docs.google.com (3301)</li>
 <li>chatgpt.com (2814)</li>
 <li>www.linkedin.com (2358)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1844)</li>
 <li>moodle.royalholloway.ac.uk (1752)</li>
 <li>calendar.google.com (1544)</li>
-<li>login.microsoftonline.com (1344)</li>
+<li>login.microsoftonline.com (1346)</li>
 <li>www.amazon.co.uk (1324)</li>
 <li>chat.openai.com (1306)</li>
 <li>herts.instructure.com (1231)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:32 rhul-my.sharepoint.com</li>
+<ul><li> 10:27 casper.cs.rhul.ac.uk</li>
+<li> 10:27 localhost:8443</li>
+<li> 10:27 www.royalholloway.ac.uk</li>
+<li class='same'> 10:26 www.royalholloway.ac.uk</li>
+<li> 10:24 localhost:8443</li>
+<li> 10:22 signin.account.gov.uk</li>
+<li> 10:22 localhost:8443</li>
+<li class='same'> 10:21 localhost:8443</li>
+<li class='same'> 10:20 localhost:8443</li>
+<li> 10:20 www.royalholloway.ac.uk</li>
+<li> 10:18 localhost:8443</li>
+<li> 10:08 www.royalholloway.ac.uk</li>
+<li> 10:08 duckduckgo.com</li>
+<li> 10:07 login.microsoftonline.com</li>
+<li> 10:07 device.login.microsoftonline.com</li>
+<li> 10:07 myview.rhul.zellis.com</li>
+<li> 10:07 login.microsoftonline.com</li>
+<li> 10:07 myview.rhul.zellis.com</li>
+<li> 10:07 royalholloway.akarisoftware.com</li>
+<li> 10:07 signin.account.gov.uk</li>
+<li> 10:06 casper.cs.rhul.ac.uk</li>
+<li class='same'> 10:05 casper.cs.rhul.ac.uk</li>
+<li> 10:03 localhost:8443</li>
+<li> 10:02 signin.account.gov.uk</li>
+<li> 10:02 oidc.account.gov.uk</li>
+<li> 10:02 identity.company-information.service.gov.uk</li>
+<li> 10:02 ewf.companieshouse.gov.uk</li>
+<li> 10:02 idam-ui.company-information.service.gov.uk</li>
+<li> 10:01 www.gov.uk</li>
+<li> 09:44 localhost:8443</li>
+<li> 09:32 rhul-my.sharepoint.com</li>
 <li class='same'> 09:31 rhul-my.sharepoint.com</li>
 <li> 09:28 dashboards.rhul.ac.uk</li>
 <li> 09:24 192.168.178.1</li>
@@ -123771,6 +123801,4 @@ With number of accesses/minutes in parentheses
 <li> 15:01 www.disneylandparis.com</li>
 <li> 15:00 www.google.com</li>
 <li> 15:00 mail.google.com</li>
-<li class='same'> 14:59 mail.google.com</li>
-<li class='same'> 14:53 mail.google.com</li>
 </ul>
