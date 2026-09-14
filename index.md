@@ -68,47 +68,87 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5313)</li>
-<li>www.google.com (5228)</li>
-<li>www.reddit.com (5114)</li>
+<ol><li>mail.google.com (5299)</li>
+<li>www.google.com (5224)</li>
+<li>www.reddit.com (5127)</li>
 <li>outlook.office365.com (4596)</li>
-<li>outlook.office.com (3942)</li>
+<li>outlook.office.com (3941)</li>
 <li>duckduckgo.com (3883)</li>
-<li>docs.google.com (3302)</li>
-<li>chatgpt.com (2811)</li>
+<li>docs.google.com (3301)</li>
+<li>chatgpt.com (2813)</li>
 <li>www.linkedin.com (2358)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1844)</li>
 <li>moodle.royalholloway.ac.uk (1752)</li>
-<li>calendar.google.com (1547)</li>
+<li>calendar.google.com (1544)</li>
 <li>login.microsoftonline.com (1344)</li>
 <li>www.amazon.co.uk (1324)</li>
 <li>chat.openai.com (1305)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1138)</li>
-<li>gmail.com (1124)</li>
+<li>web.whatsapp.com (1137)</li>
+<li>gmail.com (1121)</li>
 <li>mail.rhul.ac.uk (989)</li>
 <li>tvtropes.org (881)</li>
-<li>rhul-my.sharepoint.com (841)</li>
-<li>feedly.com (830)</li>
+<li>rhul-my.sharepoint.com (839)</li>
+<li>feedly.com (831)</li>
 <li>forms.office.com (772)</li>
-<li>fritz.box (584)</li>
+<li>fritz.box (585)</li>
 <li>rhul.sharepoint.com (566)</li>
 <li>www.theguardian.com (554)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (474)</li>
+<li>drive.google.com (472)</li>
 
 
 </ol><H2> Sites and times</H2>
 
 <ul></ul>
 
+<H3>Monday, 14/09/26</H3>
+
+<br>
+
+<ul><li> 08:59 192.168.178.1</li>
+<li> 08:57 fritz.box</li>
+<li> 08:57 192.168.178.1</li>
+</ul>
+
 <H3>Sunday, 13/09/26</H3>
 
 <br>
 
-<ul><li> 19:29 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:03 www.reddit.com</li>
+<li class='same'> 21:00 www.reddit.com</li>
+<li class='same'> 20:58 www.reddit.com</li>
+<li class='same'> 20:57 www.reddit.com</li>
+<li class='same'> 20:56 www.reddit.com</li>
+<li class='same'> 20:55 www.reddit.com</li>
+<li class='same'> 20:54 www.reddit.com</li>
+<li class='same'> 20:52 www.reddit.com</li>
+<li class='same'> 20:51 www.reddit.com</li>
+<li> 20:50 chatgpt.com</li>
+<li class='same'> 20:49 chatgpt.com</li>
+<li class='same'> 20:48 chatgpt.com</li>
+<li> 20:48 chat.openai.com</li>
+<li> 20:48 www.reddit.com</li>
+<li class='same'> 20:46 www.reddit.com</li>
+<li> 20:46 reddit.com</li>
+<li> 20:41 feedly.com</li>
+<li> 20:40 learningonscreen.ac.uk</li>
+<li class='same'> 20:39 learningonscreen.ac.uk</li>
+<li class='same'> 20:38 learningonscreen.ac.uk</li>
+<li class='same'> 20:37 learningonscreen.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 19:57 www.reddit.com</li>
+<li class='same'> 19:56 www.reddit.com</li>
+<li class='same'> 19:29 www.reddit.com</li>
 <li class='same'> 19:28 www.reddit.com</li>
 <li class='same'> 19:27 www.reddit.com</li>
 <li class='same'> 19:24 www.reddit.com</li>
@@ -11501,7 +11541,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 19:48 duckduckgo.com</li>
 <li> 19:46 mail.google.com</li>
 <li> 19:38 <a href="https://en.wikipedia.org/wiki/Sarah_Owen">Sarah Owen - Wikipedia</a></li>
-<li> 19:38 <a href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;search=Sarah+Owen&amp;wprov=acrw1_0"></a></li>
 <li> 19:38 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 <li> 19:37 <a href="https://en.wikipedia.org/w/index.php?title=Lealands_High_School&amp;action=history">Lealands High School: Revision history - Wikipedia</a></li>
 <li> 19:37 <a href="https://en.wikipedia.org/wiki/Lealands_High_School#Curriculum">Lealands High School - Wikipedia</a></li>
@@ -11671,8 +11710,6 @@ With number of accesses/minutes in parentheses
 <ul><li> 12:09 mail.google.com</li>
 <li class='same'> 12:08 mail.google.com</li>
 <li> 12:08 challengeworks.org</li>
-<li> 12:08 www.google.com</li>
-<li> 12:08 challengeworks.org</li>
 <li> 12:08 mail.google.com</li>
 <li> 12:01 <a href="https://www.youtube.com/watch?v=wZk5dWe1ODo">(189) Total Triage: How to fill out the form - YouTube</a></li>
 <li> 12:01 accurx.nhs.uk</li>
@@ -11694,11 +11731,8 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:44 www.amazon.co.uk</li>
 <li> 11:44 duckduckgo.com</li>
 <li> 11:42 track.easypost.com</li>
-<li> 11:42 www.google.com</li>
 <li> 11:42 u25327402.ct.sendgrid.net</li>
 <li> 11:42 mail.google.com</li>
-<li> 11:41 search.google.com</li>
-<li> 11:41 www.google.com</li>
 <li> 11:41 search.google.com</li>
 <li> 11:41 c.gle</li>
 <li> 11:41 mail.google.com</li>
@@ -11710,8 +11744,6 @@ With number of accesses/minutes in parentheses
 <li> 11:22 www.amazon.co.uk</li>
 <li> 11:19 docs.google.com</li>
 <li> 11:18 calendar.google.com</li>
-<li> 11:18 mail.google.com</li>
-<li> 11:18 mail-attachment.googleusercontent.com</li>
 <li> 11:18 mail.google.com</li>
 <li class='same'> 11:13 mail.google.com</li>
 <li class='same'> 11:12 mail.google.com</li>
@@ -123730,37 +123762,4 @@ With number of accesses/minutes in parentheses
 <li> 15:00 mail.google.com</li>
 <li class='same'> 14:59 mail.google.com</li>
 <li class='same'> 14:53 mail.google.com</li>
-<li class='same'> 14:52 mail.google.com</li>
-<li> 14:52 calendar.google.com</li>
-<li> 14:51 mail.google.com</li>
-<li> 14:51 cdn.prod.website-files.com</li>
-<li> 14:51 mail.google.com</li>
-<li class='same'> 14:50 mail.google.com</li>
-<li class='same'> 14:49 mail.google.com</li>
-<li class='same'> 14:48 mail.google.com</li>
-<li> 14:48 claude.ai</li>
-<li> 14:46 mail.google.com</li>
-<li> 14:46 claude.ai</li>
-<li> 14:46 chatgpt.com</li>
-<li> 14:46 chat.openai.com</li>
-<li> 14:43 web.whatsapp.com</li>
-<li> 14:43 mail.google.com</li>
-<li> 14:43 gmail.com</li>
-<li> 14:43 mail.google.com</li>
-<li> 14:43 gmail.com</li>
-<li> 14:42 mail.google.com</li>
-<li> 14:41 drive.google.com</li>
-<li class='same'> 14:40 drive.google.com</li>
-<li> 14:40 outlook.office.com</li>
-<li> 14:39 mail.google.com</li>
-<li> 14:39 gmail.com</li>
-<li> 14:38 rhul-my.sharepoint.com</li>
-<li> 14:38 calendar.google.com</li>
-<li> 14:37 rhul-my.sharepoint.com</li>
-<li> 14:36 docs.google.com</li>
-<li> 14:35 calendar.google.com</li>
-<li> 14:35 www.dropbox.com</li>
-<li> 14:35 www.google.com</li>
-<li> 14:35 mail.google.com</li>
-<li class='same'> 14:34 mail.google.com</li>
 </ul>
