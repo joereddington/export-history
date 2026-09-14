@@ -68,21 +68,21 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5288)</li>
+<ol><li>mail.google.com (5289)</li>
 <li>www.google.com (5216)</li>
-<li>www.reddit.com (5152)</li>
+<li>www.reddit.com (5160)</li>
 <li>outlook.office365.com (4594)</li>
 <li>outlook.office.com (3932)</li>
 <li>duckduckgo.com (3889)</li>
-<li>docs.google.com (3295)</li>
+<li>docs.google.com (3296)</li>
 <li>chatgpt.com (2818)</li>
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1839)</li>
 <li>moodle.royalholloway.ac.uk (1758)</li>
 <li>calendar.google.com (1544)</li>
-<li>login.microsoftonline.com (1349)</li>
-<li>www.amazon.co.uk (1327)</li>
+<li>login.microsoftonline.com (1350)</li>
+<li>www.amazon.co.uk (1329)</li>
 <li>chat.openai.com (1308)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (832)</li>
 <li>forms.office.com (771)</li>
 <li>fritz.box (585)</li>
-<li>rhul.sharepoint.com (573)</li>
+<li>rhul.sharepoint.com (575)</li>
 <li>www.theguardian.com (553)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:28 www.reddit.com</li>
+<ul><li> 16:53 www.reddit.com</li>
+<li> 16:51 rhul.sharepoint.com</li>
+<li> 16:51 login.microsoftonline.com</li>
+<li> 16:51 device.login.microsoftonline.com</li>
+<li> 16:51 rhul.sharepoint.com</li>
+<li> 16:50 www.reddit.com</li>
+<li class='same'> 16:48 www.reddit.com</li>
+<li class='same'> 16:46 www.reddit.com</li>
+<li class='same'> 16:45 www.reddit.com</li>
+<li class='same'> 16:43 www.reddit.com</li>
+<li class='same'> 16:41 www.reddit.com</li>
+<li> 16:39 mail.google.com</li>
+<li> 16:37 docs.google.com</li>
+<li> 16:35 newsthump.com</li>
+<li> 16:34 www.amazon.co.uk</li>
+<li class='same'> 16:33 www.amazon.co.uk</li>
+<li> 16:30 www.reddit.com</li>
+<li class='same'> 16:28 www.reddit.com</li>
 <li class='same'> 16:26 www.reddit.com</li>
 <li class='same'> 16:25 www.reddit.com</li>
 <li> 16:25 www.amazon.co.uk</li>
