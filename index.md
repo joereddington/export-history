@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5297)</li>
+<ol><li>mail.google.com (5301)</li>
 <li>www.google.com (5224)</li>
 <li>www.reddit.com (5127)</li>
 <li>outlook.office365.com (4596)</li>
@@ -86,14 +86,14 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1306)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
-<li>gmail.com (1121)</li>
+<li>gmail.com (1122)</li>
 <li>mail.rhul.ac.uk (989)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (841)</li>
 <li>feedly.com (831)</li>
 <li>forms.office.com (772)</li>
 <li>fritz.box (585)</li>
-<li>rhul.sharepoint.com (569)</li>
+<li>rhul.sharepoint.com (570)</li>
 <li>www.theguardian.com (554)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,56 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:27 casper.cs.rhul.ac.uk</li>
+<ul><li> 10:49 oauth.virginmediao2.co.uk</li>
+<li> 10:49 accounts.o2.co.uk</li>
+<li> 10:49 www.o2.co.uk</li>
+<li> 10:49 www.google.com</li>
+<li> 10:49 clicks.notifications.o2.com</li>
+<li> 10:48 mail.google.com</li>
+<li class='same'> 10:47 mail.google.com</li>
+<li> 10:46 ewf.companieshouse.gov.uk</li>
+<li class='same'> 10:45 ewf.companieshouse.gov.uk</li>
+<li> 10:45 identity.company-information.service.gov.uk</li>
+<li> 10:45 ewf.companieshouse.gov.uk</li>
+<li> 10:45 identity.company-information.service.gov.uk</li>
+<li> 10:45 ewf.companieshouse.gov.uk</li>
+<li> 10:45 identity.company-information.service.gov.uk</li>
+<li> 10:45 ewf.companieshouse.gov.uk</li>
+<li> 10:45 signin.account.gov.uk</li>
+<li> 10:45 oidc.account.gov.uk</li>
+<li> 10:45 identity.company-information.service.gov.uk</li>
+<li> 10:45 signin.account.gov.uk</li>
+<li> 10:45 oidc.account.gov.uk</li>
+<li> 10:45 identity.company-information.service.gov.uk</li>
+<li> 10:45 ewf.companieshouse.gov.uk</li>
+<li> 10:45 oidc.account.gov.uk</li>
+<li> 10:45 identity.company-information.service.gov.uk</li>
+<li> 10:45 find-and-update.company-information.service.gov.uk</li>
+<li> 10:45 ewf.companieshouse.gov.uk</li>
+<li> 10:45 identity.company-information.service.gov.uk</li>
+<li> 10:45 ewf.companieshouse.gov.uk</li>
+<li> 10:44 mail.google.com</li>
+<li> 10:43 ewf.companieshouse.gov.uk</li>
+<li> 10:43 mail.google.com</li>
+<li> 10:43 identity.company-information.service.gov.uk</li>
+<li> 10:43 ewf.companieshouse.gov.uk</li>
+<li> 10:43 mail.google.com</li>
+<li> 10:43 gmail.com</li>
+<li> 10:43 ewf.companieshouse.gov.uk</li>
+<li> 10:43 signin.account.gov.uk</li>
+<li> 10:43 oidc.account.gov.uk</li>
+<li> 10:43 identity.company-information.service.gov.uk</li>
+<li> 10:43 signin.account.gov.uk</li>
+<li> 10:43 manage.account.gov.uk</li>
+<li> 10:42 signin.account.gov.uk</li>
+<li> 10:42 oidc.account.gov.uk</li>
+<li> 10:42 identity.company-information.service.gov.uk</li>
+<li> 10:42 ewf.companieshouse.gov.uk</li>
+<li> 10:42 idam-ui.company-information.service.gov.uk</li>
+<li> 10:39 signin.account.gov.uk</li>
+<li> 10:38 rhul.sharepoint.com</li>
+<li> 10:30 signin.account.gov.uk</li>
+<li> 10:27 casper.cs.rhul.ac.uk</li>
 <li> 10:27 localhost:8443</li>
 <li> 10:27 www.royalholloway.ac.uk</li>
 <li class='same'> 10:26 www.royalholloway.ac.uk</li>
@@ -123798,7 +123847,4 @@ With number of accesses/minutes in parentheses
 <li> 15:02 www.google.com</li>
 <li> 15:02 mail.google.com</li>
 <li class='same'> 15:01 mail.google.com</li>
-<li> 15:01 www.disneylandparis.com</li>
-<li> 15:00 www.google.com</li>
-<li> 15:00 mail.google.com</li>
 </ul>
