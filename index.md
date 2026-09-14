@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5286)</li>
 <li>www.google.com (5216)</li>
-<li>www.reddit.com (5145)</li>
+<li>www.reddit.com (5149)</li>
 <li>outlook.office365.com (4594)</li>
 <li>outlook.office.com (3932)</li>
 <li>duckduckgo.com (3888)</li>
-<li>docs.google.com (3296)</li>
+<li>docs.google.com (3295)</li>
 <li>chatgpt.com (2818)</li>
-<li>www.linkedin.com (2361)</li>
+<li>www.linkedin.com (2362)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1839)</li>
 <li>moodle.royalholloway.ac.uk (1758)</li>
@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
 <li>gmail.com (1121)</li>
-<li>mail.rhul.ac.uk (989)</li>
+<li>mail.rhul.ac.uk (988)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (841)</li>
 <li>feedly.com (832)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 casper.cs.rhul.ac.uk</li>
+<ul><li> 15:14 www.reddit.com</li>
+<li class='same'> 15:12 www.reddit.com</li>
+<li class='same'> 15:08 www.reddit.com</li>
+<li class='same'> 15:06 www.reddit.com</li>
+<li> 15:03 www.linkedin.com</li>
+<li> 14:59 casper.cs.rhul.ac.uk</li>
 <li> 14:58 localhost:8443</li>
 <li class='same'> 14:57 localhost:8443</li>
 <li> 14:52 intranet.royalholloway.ac.uk</li>
@@ -123843,6 +123848,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:24 www.facebook.com</li>
 <li class='same'> 06:23 www.facebook.com</li>
 <li> 06:19 outlook.office365.com</li>
-<li> 06:19 mail.rhul.ac.uk</li>
-<li> 06:15 docs.google.com</li>
 </ul>
