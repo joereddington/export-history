@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5300)</li>
+<ol><li>mail.google.com (5296)</li>
 <li>www.google.com (5223)</li>
 <li>www.reddit.com (5137)</li>
 <li>outlook.office365.com (4596)</li>
@@ -86,7 +86,7 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1307)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
-<li>gmail.com (1123)</li>
+<li>gmail.com (1121)</li>
 <li>mail.rhul.ac.uk (989)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (841)</li>
@@ -123852,14 +123852,4 @@ With number of accesses/minutes in parentheses
 <li> 15:24 www.aisi.gov.uk</li>
 <li> 15:22 cdn.prod.website-files.com</li>
 <li> 15:22 mail.google.com</li>
-<li> 15:22 gmail.com</li>
-<li> 15:21 mail.google.com</li>
-<li> 15:21 www.disneyholidays.co.uk</li>
-<li class='same'> 15:20 www.disneyholidays.co.uk</li>
-<li> 15:20 mail.google.com</li>
-<li class='same'> 15:19 mail.google.com</li>
-<li class='same'> 15:18 mail.google.com</li>
-<li> 15:18 gmail.com</li>
-<li> 15:17 qbo.intuit.com</li>
-<li class='same'> 15:16 qbo.intuit.com</li>
 </ul>
