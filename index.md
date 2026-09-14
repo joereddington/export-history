@@ -68,14 +68,14 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5301)</li>
-<li>www.google.com (5224)</li>
-<li>www.reddit.com (5127)</li>
+<ol><li>mail.google.com (5300)</li>
+<li>www.google.com (5223)</li>
+<li>www.reddit.com (5137)</li>
 <li>outlook.office365.com (4596)</li>
 <li>outlook.office.com (3941)</li>
 <li>duckduckgo.com (3884)</li>
 <li>docs.google.com (3301)</li>
-<li>chatgpt.com (2814)</li>
+<li>chatgpt.com (2815)</li>
 <li>www.linkedin.com (2358)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1844)</li>
@@ -83,10 +83,10 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1544)</li>
 <li>login.microsoftonline.com (1346)</li>
 <li>www.amazon.co.uk (1324)</li>
-<li>chat.openai.com (1306)</li>
+<li>chat.openai.com (1307)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
-<li>gmail.com (1122)</li>
+<li>gmail.com (1123)</li>
 <li>mail.rhul.ac.uk (989)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (841)</li>
@@ -108,7 +108,43 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:49 oauth.virginmediao2.co.uk</li>
+<ul><li> 11:29 www.reddit.com</li>
+<li class='same'> 11:27 www.reddit.com</li>
+<li class='same'> 11:26 www.reddit.com</li>
+<li class='same'> 11:21 www.reddit.com</li>
+<li class='same'> 11:20 www.reddit.com</li>
+<li class='same'> 11:19 www.reddit.com</li>
+<li class='same'> 11:17 www.reddit.com</li>
+<li class='same'> 11:15 www.reddit.com</li>
+<li> 11:14 mymobile2.o2.co.uk</li>
+<li class='same'> 11:13 mymobile2.o2.co.uk</li>
+<li> 11:13 oauth.virginmediao2.co.uk</li>
+<li> 11:13 identity.o2.co.uk</li>
+<li> 11:13 accounts.o2.co.uk</li>
+<li> 11:13 mymobile2.o2.co.uk</li>
+<li> 11:13 identity.o2.co.uk</li>
+<li> 11:13 www.reddit.com</li>
+<li> 11:13 www.o2.co.uk</li>
+<li> 11:13 www.reddit.com</li>
+<li> 11:13 www.o2.co.uk</li>
+<li> 11:13 oauth.virginmedia.com</li>
+<li> 11:13 www.google.com</li>
+<li> 11:13 auth.virginmediao2.co.uk</li>
+<li> 11:13 mail.google.com</li>
+<li> 11:12 www.o2.co.uk</li>
+<li> 11:12 oauth.virginmediao2.co.uk</li>
+<li> 11:12 oauth.virginmedia.com</li>
+<li> 11:12 www.o2.co.uk</li>
+<li> 11:12 mail.google.com</li>
+<li> 11:12 gmail.com</li>
+<li> 11:11 notlongnow.o2.co.uk</li>
+<li> 11:11 www.o2.co.uk</li>
+<li> 11:11 accounts.o2.co.uk</li>
+<li> 11:11 identity.o2.co.uk</li>
+<li> 11:11 accounts.o2.co.uk</li>
+<li> 11:10 chatgpt.com</li>
+<li> 11:10 chat.openai.com</li>
+<li> 10:49 oauth.virginmediao2.co.uk</li>
 <li> 10:49 accounts.o2.co.uk</li>
 <li> 10:49 www.o2.co.uk</li>
 <li> 10:49 www.google.com</li>
@@ -123833,18 +123869,4 @@ With number of accesses/minutes in parentheses
 <li> 15:13 www.unity-online.co.uk</li>
 <li> 15:13 online.unity.co.uk</li>
 <li> 15:11 qbo.intuit.com</li>
-<li> 15:11 accounts.intuit.com</li>
-<li> 15:11 qbo.intuit.com</li>
-<li> 15:11 c14.qbo.intuit.com</li>
-<li> 15:11 app.qbo.intuit.com</li>
-<li> 15:09 mail.google.com</li>
-<li> 15:08 www.disneyholidays.co.uk</li>
-<li class='same'> 15:07 www.disneyholidays.co.uk</li>
-<li class='same'> 15:06 www.disneyholidays.co.uk</li>
-<li class='same'> 15:02 www.disneyholidays.co.uk</li>
-<li> 15:02 www.google.com</li>
-<li> 15:02 www.disneyholidays.co.uk</li>
-<li> 15:02 www.google.com</li>
-<li> 15:02 mail.google.com</li>
-<li class='same'> 15:01 mail.google.com</li>
 </ul>
