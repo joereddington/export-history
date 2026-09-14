@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5286)</li>
+<ol><li>mail.google.com (5288)</li>
 <li>www.google.com (5216)</li>
-<li>www.reddit.com (5149)</li>
+<li>www.reddit.com (5152)</li>
 <li>outlook.office365.com (4594)</li>
 <li>outlook.office.com (3932)</li>
-<li>duckduckgo.com (3888)</li>
+<li>duckduckgo.com (3889)</li>
 <li>docs.google.com (3295)</li>
 <li>chatgpt.com (2818)</li>
-<li>www.linkedin.com (2362)</li>
+<li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1839)</li>
 <li>moodle.royalholloway.ac.uk (1758)</li>
 <li>calendar.google.com (1544)</li>
 <li>login.microsoftonline.com (1349)</li>
-<li>www.amazon.co.uk (1324)</li>
+<li>www.amazon.co.uk (1327)</li>
 <li>chat.openai.com (1308)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
-<li>gmail.com (1121)</li>
+<li>gmail.com (1122)</li>
 <li>mail.rhul.ac.uk (988)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (841)</li>
@@ -105,6 +105,25 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 14/09/26</H3>
+
+<br>
+
+<ul><li> 16:28 www.reddit.com</li>
+<li class='same'> 16:26 www.reddit.com</li>
+<li class='same'> 16:25 www.reddit.com</li>
+<li> 16:25 www.amazon.co.uk</li>
+<li class='same'> 16:24 www.amazon.co.uk</li>
+<li> 16:24 shop.bhf.org.uk</li>
+<li> 16:24 duckduckgo.com</li>
+<li> 16:22 www.amazon.co.uk</li>
+<li> 16:22 mail.google.com</li>
+<li class='same'> 16:21 mail.google.com</li>
+<li> 16:21 gmail.com</li>
+<li> 16:04 www.linkedin.com</li>
+<li class='same'> 16:03 www.linkedin.com</li>
+<li> 16:02 intranet.royalholloway.ac.uk</li>
+<li class='same'> 16:01 intranet.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
