@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5296)</li>
-<li>www.google.com (5223)</li>
-<li>www.reddit.com (5137)</li>
+<ol><li>mail.google.com (5288)</li>
+<li>www.google.com (5221)</li>
+<li>www.reddit.com (5145)</li>
 <li>outlook.office365.com (4596)</li>
 <li>outlook.office.com (3941)</li>
 <li>duckduckgo.com (3884)</li>
-<li>docs.google.com (3301)</li>
-<li>chatgpt.com (2815)</li>
+<li>docs.google.com (3300)</li>
+<li>chatgpt.com (2816)</li>
 <li>www.linkedin.com (2358)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1844)</li>
 <li>moodle.royalholloway.ac.uk (1752)</li>
 <li>calendar.google.com (1544)</li>
-<li>login.microsoftonline.com (1346)</li>
+<li>login.microsoftonline.com (1347)</li>
 <li>www.amazon.co.uk (1324)</li>
-<li>chat.openai.com (1307)</li>
+<li>chat.openai.com (1308)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
 <li>gmail.com (1121)</li>
 <li>mail.rhul.ac.uk (989)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (841)</li>
-<li>feedly.com (831)</li>
-<li>forms.office.com (772)</li>
+<li>feedly.com (832)</li>
+<li>forms.office.com (771)</li>
 <li>fritz.box (585)</li>
-<li>rhul.sharepoint.com (570)</li>
+<li>rhul.sharepoint.com (572)</li>
 <li>www.theguardian.com (554)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (472)</li>
+<li>drive.google.com (468)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:29 www.reddit.com</li>
+<ul><li> 13:28 chatgpt.com</li>
+<li> 13:28 chat.openai.com</li>
+<li> 13:27 rhul.sharepoint.com</li>
+<li> 13:27 device.login.microsoftonline.com</li>
+<li> 13:27 login.microsoftonline.com</li>
+<li> 13:27 rhul.sharepoint.com</li>
+<li> 13:26 feedly.com</li>
+<li> 13:25 www.foxnews.com</li>
+<li> 13:25 www.reddit.com</li>
+<li class='same'> 13:23 www.reddit.com</li>
+<li class='same'> 13:21 www.reddit.com</li>
+<li class='same'> 13:20 www.reddit.com</li>
+<li class='same'> 13:18 www.reddit.com</li>
+<li class='same'> 13:17 www.reddit.com</li>
+<li class='same'> 13:11 www.reddit.com</li>
+<li class='same'> 13:10 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 11:29 www.reddit.com</li>
 <li class='same'> 11:27 www.reddit.com</li>
 <li class='same'> 11:26 www.reddit.com</li>
 <li class='same'> 11:21 www.reddit.com</li>
@@ -123834,22 +123854,4 @@ With number of accesses/minutes in parentheses
 <li> 15:34 www.google.com</li>
 <li> 15:33 www.dsc.org.uk</li>
 <li> 15:33 mail.google.com</li>
-<li class='same'> 15:32 mail.google.com</li>
-<li class='same'> 15:31 mail.google.com</li>
-<li class='same'> 15:30 mail.google.com</li>
-<li> 15:30 drive.google.com</li>
-<li> 15:30 mail.google.com</li>
-<li class='same'> 15:29 mail.google.com</li>
-<li> 15:29 docs.google.com</li>
-<li> 15:29 drive.google.com</li>
-<li> 15:28 www.google.com</li>
-<li> 15:28 drive.google.com</li>
-<li class='same'> 15:27 drive.google.com</li>
-<li> 15:27 www.google.com</li>
-<li> 15:27 mail.google.com</li>
-<li class='same'> 15:25 mail.google.com</li>
-<li> 15:24 forms.office.com</li>
-<li> 15:24 www.aisi.gov.uk</li>
-<li> 15:22 cdn.prod.website-files.com</li>
-<li> 15:22 mail.google.com</li>
 </ul>
