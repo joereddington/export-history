@@ -73,10 +73,10 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (5145)</li>
 <li>outlook.office365.com (4594)</li>
 <li>outlook.office.com (3932)</li>
-<li>duckduckgo.com (3887)</li>
-<li>docs.google.com (3300)</li>
+<li>duckduckgo.com (3888)</li>
+<li>docs.google.com (3296)</li>
 <li>chatgpt.com (2818)</li>
-<li>www.linkedin.com (2359)</li>
+<li>www.linkedin.com (2361)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1839)</li>
 <li>moodle.royalholloway.ac.uk (1758)</li>
@@ -94,10 +94,10 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (771)</li>
 <li>fritz.box (585)</li>
 <li>rhul.sharepoint.com (573)</li>
-<li>www.theguardian.com (554)</li>
+<li>www.theguardian.com (553)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (468)</li>
+<li>drive.google.com (467)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:25 milliams.com</li>
+<ul><li> 14:59 casper.cs.rhul.ac.uk</li>
+<li> 14:58 localhost:8443</li>
+<li class='same'> 14:57 localhost:8443</li>
+<li> 14:52 intranet.royalholloway.ac.uk</li>
+<li class='same'> 14:50 intranet.royalholloway.ac.uk</li>
+<li> 14:50 duckduckgo.com</li>
+<li> 14:49 royalholloway.akarisoftware.com</li>
+<li> 14:48 feedly.com</li>
+<li> 14:47 casper.cs.rhul.ac.uk</li>
+<li class='same'> 14:46 casper.cs.rhul.ac.uk</li>
+<li class='same'> 14:45 casper.cs.rhul.ac.uk</li>
+<li> 14:42 www.linkedin.com</li>
+<li class='same'> 14:41 www.linkedin.com</li>
+<li> 14:34 bmjopen.bmj.com</li>
+<li class='same'> 14:32 bmjopen.bmj.com</li>
+<li> 14:25 milliams.com</li>
 <li> 14:25 duckduckgo.com</li>
 <li> 14:20 chatgpt.com</li>
 <li> 13:56 cryptography.isg.rhul.ac.uk</li>
@@ -235,6 +250,7 @@ With number of accesses/minutes in parentheses
 <li> 10:42 idam-ui.company-information.service.gov.uk</li>
 <li> 10:39 signin.account.gov.uk</li>
 <li> 10:38 rhul.sharepoint.com</li>
+<li> 10:35 www.parkrun.org.uk</li>
 <li> 10:30 signin.account.gov.uk</li>
 <li> 10:27 casper.cs.rhul.ac.uk</li>
 <li> 10:27 localhost:8443</li>
@@ -336,6 +352,8 @@ With number of accesses/minutes in parentheses
 <li> 18:43 learningonscreen.ac.uk</li>
 <li class='same'> 18:42 learningonscreen.ac.uk</li>
 <li class='same'> 18:41 learningonscreen.ac.uk</li>
+<li> 18:30 www.parkrun.org.uk</li>
+<li> 18:30 <a href="https://en.wikipedia.org/wiki/Westfield_London">Westfield London - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -361,7 +379,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:00 www.google.com</li>
+<ul><li> 13:00 <a href="https://en.wikipedia.org/wiki/Westfield_London">Westfield London - Wikipedia</a></li>
+<li> 13:00 <a href="https://en.wikipedia.org/wiki/List_of_shopping_centres_in_the_United_Kingdom_by_size">Westfield London - Wikipedia</a></li>
+<li> 13:00 <a href="https://en.wikipedia.org/wiki/Westfield_London">Westfield London - Wikipedia</a></li>
+<li> 13:00 www.google.com</li>
 </ul>
 
 <br>
@@ -123824,23 +123845,4 @@ With number of accesses/minutes in parentheses
 <li> 06:19 outlook.office365.com</li>
 <li> 06:19 mail.rhul.ac.uk</li>
 <li> 06:15 docs.google.com</li>
-<li class='same'> 06:14 docs.google.com</li>
-<li class='same'> 06:13 docs.google.com</li>
-<li class='same'> 06:12 docs.google.com</li>
-<li class='same'> 06:11 docs.google.com</li>
-<li> 06:11 drive.google.com</li>
-<li> 06:09 feedly.com</li>
-<li> 06:06 www.theguardian.com</li>
-</ul>
-
-<H3>Tuesday, 22/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 19:01 www.economist.com</li>
-<li class='same'> 19:00 www.economist.com</li>
 </ul>
