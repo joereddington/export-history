@@ -69,16 +69,16 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5296)</li>
-<li>www.google.com (5213)</li>
+<li>www.google.com (5212)</li>
 <li>www.reddit.com (5178)</li>
 <li>outlook.office365.com (4608)</li>
 <li>outlook.office.com (3932)</li>
-<li>duckduckgo.com (3900)</li>
+<li>duckduckgo.com (3902)</li>
 <li>docs.google.com (3296)</li>
 <li>chatgpt.com (2829)</li>
 <li>www.linkedin.com (2368)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1832)</li>
+<li>www.facebook.com (1823)</li>
 <li>moodle.royalholloway.ac.uk (1765)</li>
 <li>calendar.google.com (1548)</li>
 <li>login.microsoftonline.com (1363)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:59 login.microsoftonline.com</li>
+<ul><li> 14:22 analytics.google.com</li>
+<li class='same'> 14:21 analytics.google.com</li>
+<li> 14:21 marketingplatform.google.com</li>
+<li> 14:21 360suite.google.com</li>
+<li> 14:21 accounts.google.com</li>
+<li> 14:21 gds.google.com</li>
+<li> 14:21 accounts.google.com</li>
+<li> 14:21 360suite.google.com</li>
+<li> 14:20 duckduckgo.com</li>
+<li> 14:20 analytics.google.com</li>
+<li> 14:19 groundscapemaintenance.com</li>
+<li> 14:19 windsorjudo.co.uk</li>
+<li> 14:19 homebanteng.us</li>
+<li> 14:19 windsorjudo.co.uk</li>
+<li> 14:19 analytics.google.com</li>
+<li class='same'> 14:18 analytics.google.com</li>
+<li> 14:18 marketingplatform.google.com</li>
+<li> 14:18 360suite.google.com</li>
+<li> 14:17 duckduckgo.com</li>
+<li> 13:59 login.microsoftonline.com</li>
 <li> 13:50 pure.royalholloway.ac.uk</li>
 <li> 13:50 duckduckgo.com</li>
 <li> 13:47 time.com</li>
@@ -11760,7 +11779,6 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 18:41 www.royalmail.com</li>
-<li> 18:41 www.google.com</li>
 <li> 18:41 ryml.me</li>
 <li> 18:41 mail.google.com</li>
 <li> 18:41 gmail.com</li>
@@ -124072,13 +124090,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:45 docs.google.com</li>
 <li class='same'> 06:42 docs.google.com</li>
 <li> 06:42 www.facebook.com</li>
-<li class='same'> 06:41 www.facebook.com</li>
-<li class='same'> 06:40 www.facebook.com</li>
-<li class='same'> 06:39 www.facebook.com</li>
-<li class='same'> 06:38 www.facebook.com</li>
-<li class='same'> 06:37 www.facebook.com</li>
-<li class='same'> 06:36 www.facebook.com</li>
-<li class='same'> 06:35 www.facebook.com</li>
-<li class='same'> 06:34 www.facebook.com</li>
-<li class='same'> 06:33 www.facebook.com</li>
 </ul>
