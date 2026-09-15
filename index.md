@@ -68,20 +68,20 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5295)</li>
-<li>www.google.com (5216)</li>
-<li>www.reddit.com (5174)</li>
-<li>outlook.office365.com (4602)</li>
+<ol><li>mail.google.com (5296)</li>
+<li>www.google.com (5213)</li>
+<li>www.reddit.com (5178)</li>
+<li>outlook.office365.com (4608)</li>
 <li>outlook.office.com (3932)</li>
-<li>duckduckgo.com (3896)</li>
+<li>duckduckgo.com (3900)</li>
 <li>docs.google.com (3296)</li>
-<li>chatgpt.com (2828)</li>
-<li>www.linkedin.com (2367)</li>
+<li>chatgpt.com (2829)</li>
+<li>www.linkedin.com (2368)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1841)</li>
+<li>www.facebook.com (1832)</li>
 <li>moodle.royalholloway.ac.uk (1765)</li>
 <li>calendar.google.com (1548)</li>
-<li>login.microsoftonline.com (1361)</li>
+<li>login.microsoftonline.com (1363)</li>
 <li>www.amazon.co.uk (1329)</li>
 <li>chat.openai.com (1312)</li>
 <li>herts.instructure.com (1231)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (833)</li>
 <li>forms.office.com (771)</li>
 <li>fritz.box (585)</li>
-<li>rhul.sharepoint.com (578)</li>
+<li>rhul.sharepoint.com (581)</li>
 <li>www.theguardian.com (553)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,38 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:59 logon.slc.co.uk</li>
+<ul><li> 13:59 login.microsoftonline.com</li>
+<li> 13:50 pure.royalholloway.ac.uk</li>
+<li> 13:50 duckduckgo.com</li>
+<li> 13:47 time.com</li>
+<li> 13:47 duckduckgo.com</li>
+<li> 13:41 login.microsoftonline.com</li>
+<li> 13:41 device.login.microsoftonline.com</li>
+<li> 13:41 login.microsoftonline.com</li>
+<li> 13:41 myview.rhul.zellis.com</li>
+<li> 13:27 outlook.office365.com</li>
+<li class='same'> 13:22 outlook.office365.com</li>
+<li class='same'> 13:21 outlook.office365.com</li>
+<li class='same'> 13:19 outlook.office365.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:08 chatgpt.com</li>
+<li> 11:07 rhul.sharepoint.com</li>
+<li> 11:06 www.reddit.com</li>
+<li class='same'> 11:04 www.reddit.com</li>
+<li class='same'> 11:03 www.reddit.com</li>
+<li> 11:02 rhul.sharepoint.com</li>
+<li> 11:02 device.login.microsoftonline.com</li>
+<li> 11:02 login.microsoftonline.com</li>
+<li> 11:02 www.reddit.com</li>
+<li> 11:02 rhul.sharepoint.com</li>
+<li> 11:02 duckduckgo.com</li>
+<li class='same'> 11:00 duckduckgo.com</li>
+<li> 10:59 www.linkedin.com</li>
+<li> 10:59 mail.google.com</li>
+<li> 10:59 logon.slc.co.uk</li>
 <li> 10:58 mail.google.com</li>
 <li> 10:58 gmail.com</li>
 <li> 10:58 logon.slc.co.uk</li>
@@ -170,6 +201,13 @@ With number of accesses/minutes in parentheses
 <li> 09:54 fast.com</li>
 <li> 09:54 chatgpt.com</li>
 <li> 09:54 chat.openai.com</li>
+</ul>
+
+<br>
+
+<ul><li> 09:12 outlook.office365.com</li>
+<li class='same'> 09:06 outlook.office365.com</li>
+<li class='same'> 09:05 outlook.office365.com</li>
 </ul>
 
 <br>
@@ -275,7 +313,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:28 outlook.office365.com</li>
+<ul><li> 18:29 outlook.office365.com</li>
+<li class='same'> 18:28 outlook.office365.com</li>
 <li class='same'> 18:23 outlook.office365.com</li>
 <li class='same'> 18:22 outlook.office365.com</li>
 <li class='same'> 18:04 outlook.office365.com</li>
@@ -11732,21 +11771,16 @@ With number of accesses/minutes in parentheses
 <ul><li> 17:55 <a href="https://www.theguardian.com/sport/2026/jun/16/serena-williams-wimbledon-doubles-wildcard-venus-tennis">Serena Williams back at Wimbledon after being granted doubles wildcard with Venus | Wimbledon | The Guardian</a></li>
 <li> 17:53 calendar.google.com</li>
 <li> 17:53 your-rewards.comparethemarket.com</li>
-<li> 17:53 idp.comparethemarket.com</li>
 <li> 17:53 myctm.comparethemarket.com</li>
-<li> 17:53 idp.comparethemarket.com</li>
-<li> 17:53 comparethemarket.com</li>
 <li> 17:52 travel-buy-now.comparethemarket.com</li>
 <li class='same'> 17:49 travel-buy-now.comparethemarket.com</li>
 <li> 17:49 quotes.theidol.com</li>
-<li> 17:49 gateway.comparethemarket.com</li>
-<li class='same'> 17:48 gateway.comparethemarket.com</li>
+<li> 17:48 gateway.comparethemarket.com</li>
 <li class='same'> 17:47 gateway.comparethemarket.com</li>
 <li class='same'> 17:46 gateway.comparethemarket.com</li>
 <li> 17:46 idp.comparethemarket.com</li>
 <li> 17:46 gateway.comparethemarket.com</li>
 <li> 17:46 myctm.comparethemarket.com</li>
-<li> 17:46 idp.comparethemarket.com</li>
 <li> 17:46 mail.google.com</li>
 <li> 17:46 gmail.com</li>
 <li> 17:46 identity2.comparethemarket.com</li>
@@ -11769,7 +11803,6 @@ With number of accesses/minutes in parentheses
 <li> 16:37 calendar.google.com</li>
 <li> 16:36 inst-fs-dub-prod.inscloudgate.net</li>
 <li> 16:36 herts.instructure.com</li>
-<li> 16:36 cdn.inst-fs-dub-prod.inscloudgate.net</li>
 <li> 16:36 a10775-12214802.cluster93.canvas-user-content.com</li>
 <li> 16:35 herts.instructure.com</li>
 <li class='same'> 16:34 herts.instructure.com</li>
@@ -11795,8 +11828,6 @@ With number of accesses/minutes in parentheses
 <li> 16:10 <a href="https://www.theguardian.com/commentisfree/2026/jun/16/brooklyn-beckham-family-doordash-ad">Brand Beckham always delivers with a PR opportunity. But Brooklyn’s turned up late, with the wrong order | Marina Hyde | The Guardian</a></li>
 <li class='same'> 16:08 <a href="https://www.theguardian.com/commentisfree/2026/jun/16/brooklyn-beckham-family-doordash-ad">Brand Beckham always delivers with a PR opportunity. But Brooklyn’s turned up late, with the wrong order | Marina Hyde | The Guardian</a></li>
 <li> 16:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
-<li> 16:05 support.theguardian.com</li>
-<li> 16:05 <a href="https://www.theguardian.com/uk">Latest news, sport and opinion from the Guardian</a></li>
 </ul>
 
 <br>
@@ -11811,7 +11842,6 @@ With number of accesses/minutes in parentheses
 <li> 13:16 mail.google.com</li>
 <li> 13:16 www.royalmail.com</li>
 <li class='same'> 13:14 www.royalmail.com</li>
-<li> 13:14 www.google.com</li>
 <li> 13:14 ryml.me</li>
 <li> 13:14 mail.google.com</li>
 <li> 13:13 fyp.cs.rhul.ac.uk</li>
@@ -11840,7 +11870,6 @@ With number of accesses/minutes in parentheses
 <li> 12:08 login.microsoftonline.com</li>
 <li> 12:08 forms.office.com</li>
 <li> 12:08 outlook.cloud.microsoft</li>
-<li> 12:08 login.microsoftonline.com</li>
 <li> 12:08 outlook.office365.com</li>
 <li> 12:08 outlook.cloud.microsoft</li>
 <li> 12:08 mail.rhul.ac.uk</li>
@@ -11875,7 +11904,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:42 www.paypal.com</li>
 <li> 10:40 mail.google.com</li>
 <li> 10:39 www.paypal.com</li>
-<li> 10:39 www.google.com</li>
 <li> 10:39 mail.google.com</li>
 </ul>
 
@@ -11929,15 +11957,12 @@ With number of accesses/minutes in parentheses
 <li> 07:44 duckduckgo.com</li>
 <li> 07:43 www.linkedin.com</li>
 <li> 07:42 track.easypost.com</li>
-<li> 07:42 www.google.com</li>
 <li> 07:42 u25327402.ct.sendgrid.net</li>
 <li> 07:42 mail.google.com</li>
 <li class='same'> 07:41 mail.google.com</li>
 <li> 07:41 gmail.com</li>
 <li> 07:30 outlook.office365.com</li>
 <li class='same'> 07:28 outlook.office365.com</li>
-<li> 07:28 login.microsoftonline.com</li>
-<li> 07:28 outlook.office365.com</li>
 <li> 07:28 mail.rhul.ac.uk</li>
 <li> 07:25 calendar.google.com</li>
 <li> 07:25 fritz.box</li>
@@ -124056,14 +124081,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:35 www.facebook.com</li>
 <li class='same'> 06:34 www.facebook.com</li>
 <li class='same'> 06:33 www.facebook.com</li>
-<li class='same'> 06:32 www.facebook.com</li>
-<li class='same'> 06:31 www.facebook.com</li>
-<li class='same'> 06:30 www.facebook.com</li>
-<li class='same'> 06:29 www.facebook.com</li>
-<li class='same'> 06:28 www.facebook.com</li>
-<li class='same'> 06:27 www.facebook.com</li>
-<li class='same'> 06:25 www.facebook.com</li>
-<li class='same'> 06:24 www.facebook.com</li>
-<li class='same'> 06:23 www.facebook.com</li>
-<li> 06:19 outlook.office365.com</li>
 </ul>
