@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5301)</li>
-<li>www.google.com (5212)</li>
+<li>www.google.com (5211)</li>
 <li>www.reddit.com (5180)</li>
-<li>outlook.office365.com (4608)</li>
+<li>outlook.office365.com (4606)</li>
 <li>outlook.office.com (3932)</li>
-<li>duckduckgo.com (3904)</li>
-<li>docs.google.com (3292)</li>
+<li>duckduckgo.com (3906)</li>
+<li>docs.google.com (3291)</li>
 <li>chatgpt.com (2829)</li>
-<li>www.linkedin.com (2368)</li>
+<li>www.linkedin.com (2366)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1822)</li>
 <li>moodle.royalholloway.ac.uk (1766)</li>
@@ -86,14 +86,14 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1312)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
-<li>gmail.com (1127)</li>
-<li>mail.rhul.ac.uk (988)</li>
+<li>gmail.com (1126)</li>
+<li>mail.rhul.ac.uk (987)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (844)</li>
-<li>feedly.com (833)</li>
+<li>feedly.com (832)</li>
 <li>forms.office.com (771)</li>
 <li>rhul.sharepoint.com (589)</li>
-<li>fritz.box (585)</li>
+<li>fritz.box (587)</li>
 <li>www.theguardian.com (553)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:28 rhul-my.sharepoint.com</li>
+<ul><li> 15:54 fritz.box</li>
+<li class='same'> 15:53 fritz.box</li>
+<li> 15:52 <a href="https://en.wikipedia.org/wiki/King_Prawn_(band)#/media/File:King_Prawn.jpg">King Prawn - King Prawn (band) - Wikipedia</a></li>
+<li> 15:52 <a href="https://en.wikipedia.org/wiki/King_Prawn_(band)">King Prawn (band) - Wikipedia</a></li>
+<li> 15:52 duckduckgo.com</li>
+<li> 15:51 calendar.google.com</li>
+<li> 15:42 duckduckgo.com</li>
+<li> 15:36 www.reddit.com</li>
+<li class='same'> 15:35 www.reddit.com</li>
+<li class='same'> 15:34 www.reddit.com</li>
+<li> 15:28 rhul-my.sharepoint.com</li>
 <li> 15:27 rl.talis.com</li>
 <li> 15:27 rhul.rl.talis.com</li>
 <li> 15:27 duckduckgo.com</li>
@@ -124139,18 +124149,4 @@ With number of accesses/minutes in parentheses
 <li> 07:07 calendar.google.com</li>
 <li class='same'> 07:06 calendar.google.com</li>
 <li> 07:02 mail.google.com</li>
-<li> 07:02 gmail.com</li>
-<li> 07:01 feedly.com</li>
-<li> 07:00 www.giantitp.com</li>
-<li> 07:00 www.linkedin.com</li>
-<li class='same'> 06:59 www.linkedin.com</li>
-<li> 06:59 calendar.google.com</li>
-<li> 06:57 www.reddit.com</li>
-<li> 06:56 outlook.office365.com</li>
-<li> 06:56 www.reddit.com</li>
-<li class='same'> 06:50 www.reddit.com</li>
-<li> 06:50 www.google.com</li>
-<li> 06:49 outlook.office365.com</li>
-<li> 06:49 mail.rhul.ac.uk</li>
-<li> 06:48 docs.google.com</li>
 </ul>
