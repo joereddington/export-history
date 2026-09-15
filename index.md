@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5301)</li>
+<ol><li>mail.google.com (5298)</li>
 <li>www.google.com (5211)</li>
 <li>www.reddit.com (5180)</li>
 <li>outlook.office365.com (4606)</li>
@@ -80,7 +80,7 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1822)</li>
 <li>moodle.royalholloway.ac.uk (1766)</li>
-<li>calendar.google.com (1548)</li>
+<li>calendar.google.com (1546)</li>
 <li>login.microsoftonline.com (1363)</li>
 <li>www.amazon.co.uk (1329)</li>
 <li>chat.openai.com (1312)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (832)</li>
 <li>forms.office.com (771)</li>
 <li>rhul.sharepoint.com (589)</li>
-<li>fritz.box (587)</li>
+<li>fritz.box (588)</li>
 <li>www.theguardian.com (553)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:54 fritz.box</li>
+<ul><li> 16:57 fritz.box</li>
+</ul>
+
+<br>
+
+<ul><li> 16:11 outlook.office365.com</li>
+<li> 15:54 fritz.box</li>
 <li class='same'> 15:53 fritz.box</li>
 <li> 15:52 <a href="https://en.wikipedia.org/wiki/King_Prawn_(band)#/media/File:King_Prawn.jpg">King Prawn - King Prawn (band) - Wikipedia</a></li>
 <li> 15:52 <a href="https://en.wikipedia.org/wiki/King_Prawn_(band)">King Prawn (band) - Wikipedia</a></li>
@@ -124143,10 +124149,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:13 www.facebook.com</li>
 <li class='same'> 07:11 www.facebook.com</li>
 <li> 07:11 mail.google.com</li>
-<li> 07:10 outlook.office365.com</li>
-<li> 07:10 mail.google.com</li>
-<li class='same'> 07:08 mail.google.com</li>
-<li> 07:07 calendar.google.com</li>
-<li class='same'> 07:06 calendar.google.com</li>
-<li> 07:02 mail.google.com</li>
 </ul>
