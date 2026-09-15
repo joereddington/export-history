@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5296)</li>
+<ol><li>mail.google.com (5301)</li>
 <li>www.google.com (5212)</li>
-<li>www.reddit.com (5178)</li>
+<li>www.reddit.com (5180)</li>
 <li>outlook.office365.com (4608)</li>
 <li>outlook.office.com (3932)</li>
-<li>duckduckgo.com (3902)</li>
-<li>docs.google.com (3296)</li>
+<li>duckduckgo.com (3904)</li>
+<li>docs.google.com (3292)</li>
 <li>chatgpt.com (2829)</li>
 <li>www.linkedin.com (2368)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1823)</li>
-<li>moodle.royalholloway.ac.uk (1765)</li>
+<li>www.facebook.com (1822)</li>
+<li>moodle.royalholloway.ac.uk (1766)</li>
 <li>calendar.google.com (1548)</li>
 <li>login.microsoftonline.com (1363)</li>
 <li>www.amazon.co.uk (1329)</li>
 <li>chat.openai.com (1312)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
-<li>gmail.com (1125)</li>
+<li>gmail.com (1127)</li>
 <li>mail.rhul.ac.uk (988)</li>
 <li>tvtropes.org (881)</li>
-<li>rhul-my.sharepoint.com (841)</li>
+<li>rhul-my.sharepoint.com (844)</li>
 <li>feedly.com (833)</li>
 <li>forms.office.com (771)</li>
+<li>rhul.sharepoint.com (589)</li>
 <li>fritz.box (585)</li>
-<li>rhul.sharepoint.com (581)</li>
 <li>www.theguardian.com (553)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,56 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:59 signin.account.gov.uk</li>
+<ul><li> 15:28 rhul-my.sharepoint.com</li>
+<li> 15:27 rl.talis.com</li>
+<li> 15:27 rhul.rl.talis.com</li>
+<li> 15:27 duckduckgo.com</li>
+<li> 15:27 moodle.royalholloway.ac.uk</li>
+<li> 15:26 rhul.sharepoint.com</li>
+<li class='same'> 15:25 rhul.sharepoint.com</li>
+<li> 15:24 <a href="https://en.wikipedia.org/wiki/Wikipedia:Be_bold">Wikipedia:Be bold - Wikipedia</a></li>
+<li> 15:23 rhul.sharepoint.com</li>
+<li class='same'> 15:20 rhul.sharepoint.com</li>
+<li class='same'> 15:19 rhul.sharepoint.com</li>
+<li> 15:19 rhul-my.sharepoint.com</li>
+<li class='same'> 15:18 rhul-my.sharepoint.com</li>
+<li> 15:18 rhul.sharepoint.com</li>
+<li class='same'> 15:17 rhul.sharepoint.com</li>
+<li class='same'> 15:16 rhul.sharepoint.com</li>
+<li> 15:16 mail.google.com</li>
+<li class='same'> 15:15 mail.google.com</li>
+<li> 15:15 gmail.com</li>
+<li> 15:15 find-and-update.company-information.service.gov.uk</li>
+<li class='same'> 15:14 find-and-update.company-information.service.gov.uk</li>
+<li> 15:14 duckduckgo.com</li>
+<li> 15:14 identity.company-information.service.gov.uk</li>
+<li> 15:14 find-and-update.company-information.service.gov.uk</li>
+<li> 15:14 www.gov.uk</li>
+<li> 15:14 ewf.companieshouse.gov.uk</li>
+<li> 15:14 api-payments.company-information.service.gov.uk</li>
+<li> 15:14 www.paypal.com</li>
+<li class='same'> 15:13 www.paypal.com</li>
+<li class='same'> 15:12 www.paypal.com</li>
+<li> 15:11 www.reddit.com</li>
+<li> 15:10 www.paypal.com</li>
+<li> 15:08 www.reddit.com</li>
+<li> 15:07 mail.google.com</li>
+<li> 15:06 www.paypal.com</li>
+<li> 15:06 payments.company-information.service.gov.uk</li>
+<li> 15:06 ewf.companieshouse.gov.uk</li>
+<li> 15:02 mail.google.com</li>
+<li class='same'> 15:01 mail.google.com</li>
+<li> 15:01 gmail.com</li>
+<li> 15:01 ewf.companieshouse.gov.uk</li>
+<li class='same'> 15:00 ewf.companieshouse.gov.uk</li>
+<li> 15:00 identity.company-information.service.gov.uk</li>
+<li> 15:00 ewf.companieshouse.gov.uk</li>
+<li> 15:00 identity.company-information.service.gov.uk</li>
+<li> 15:00 ewf.companieshouse.gov.uk</li>
+<li> 15:00 signin.account.gov.uk</li>
+<li> 15:00 oidc.account.gov.uk</li>
+<li> 15:00 signin.account.gov.uk</li>
+<li class='same'> 14:59 signin.account.gov.uk</li>
 <li> 14:59 oidc.account.gov.uk</li>
 <li> 14:59 identity.company-information.service.gov.uk</li>
 <li> 14:59 ewf.companieshouse.gov.uk</li>
@@ -124104,9 +124153,4 @@ With number of accesses/minutes in parentheses
 <li> 06:49 outlook.office365.com</li>
 <li> 06:49 mail.rhul.ac.uk</li>
 <li> 06:48 docs.google.com</li>
-<li class='same'> 06:47 docs.google.com</li>
-<li class='same'> 06:46 docs.google.com</li>
-<li class='same'> 06:45 docs.google.com</li>
-<li class='same'> 06:42 docs.google.com</li>
-<li> 06:42 www.facebook.com</li>
 </ul>
