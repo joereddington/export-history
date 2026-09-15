@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5294)</li>
+<ol><li>mail.google.com (5295)</li>
 <li>www.google.com (5216)</li>
-<li>www.reddit.com (5171)</li>
+<li>www.reddit.com (5174)</li>
 <li>outlook.office365.com (4602)</li>
 <li>outlook.office.com (3932)</li>
-<li>duckduckgo.com (3895)</li>
+<li>duckduckgo.com (3896)</li>
 <li>docs.google.com (3296)</li>
-<li>chatgpt.com (2827)</li>
-<li>www.linkedin.com (2365)</li>
+<li>chatgpt.com (2828)</li>
+<li>www.linkedin.com (2367)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1841)</li>
-<li>moodle.royalholloway.ac.uk (1763)</li>
+<li>moodle.royalholloway.ac.uk (1765)</li>
 <li>calendar.google.com (1548)</li>
-<li>login.microsoftonline.com (1359)</li>
+<li>login.microsoftonline.com (1361)</li>
 <li>www.amazon.co.uk (1329)</li>
-<li>chat.openai.com (1311)</li>
+<li>chat.openai.com (1312)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
-<li>gmail.com (1124)</li>
+<li>gmail.com (1125)</li>
 <li>mail.rhul.ac.uk (988)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (841)</li>
@@ -108,7 +108,40 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:29 <a href="https://www.youtube.com/results?search_query=bmx+olympics+2012"></a></li>
+<ul><li> 10:59 logon.slc.co.uk</li>
+<li> 10:58 mail.google.com</li>
+<li> 10:58 gmail.com</li>
+<li> 10:58 logon.slc.co.uk</li>
+<li> 10:58 www.manage-student-loan-balance.service.gov.uk</li>
+<li> 10:58 logon.slc.co.uk</li>
+<li> 10:58 www.manage-student-loan-balance.service.gov.uk</li>
+<li> 10:58 www.gov.uk</li>
+<li> 10:56 chatgpt.com</li>
+<li> 10:56 chat.openai.com</li>
+<li> 10:56 myview.rhul.zellis.com</li>
+<li class='same'> 10:55 myview.rhul.zellis.com</li>
+<li> 10:55 login.microsoftonline.com</li>
+<li> 10:55 device.login.microsoftonline.com</li>
+<li> 10:55 myview.rhul.zellis.com</li>
+<li> 10:55 login.microsoftonline.com</li>
+<li> 10:55 myview.rhul.zellis.com</li>
+<li> 10:54 www.reddit.com</li>
+<li class='same'> 10:52 www.reddit.com</li>
+<li class='same'> 10:49 www.reddit.com</li>
+<li> 10:48 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 10:47 webtimetables.royalholloway.ac.uk</li>
+<li> 10:47 www.linkedin.com</li>
+<li class='same'> 10:46 www.linkedin.com</li>
+<li> 10:44 moodle.royalholloway.ac.uk</li>
+<li class='same'> 10:43 moodle.royalholloway.ac.uk</li>
+<li> 10:42 cyberpath.co.uk</li>
+<li> 10:42 nationalcrcgroup.co.uk</li>
+<li> 10:42 duckduckgo.com</li>
+<li> 10:35 <a href="https://www.youtube.com/watch?v=lNpfLyzXRdE">(79) Team GB Set New Team Pursuit World Record - London 2012 Olympics - YouTube</a></li>
+<li> 10:32 <a href="https://www.youtube.com/watch?v=V3nvkLrv64w">(79) Laura Trott wins Gold - Women&#x27;s Omnium | London 2012 Olympics - YouTube</a></li>
+<li> 10:31 <a href="https://www.youtube.com/results?search_query=laura+trott+2012">(79) laura trott 2012 - YouTube</a></li>
+<li> 10:29 <a href="https://www.youtube.com/watch?v=kklBFX62F8U">(79) Maris Strombergs Wins BMX Gold - London 2012 Olympics - YouTube</a></li>
+<li> 10:29 <a href="https://www.youtube.com/results?search_query=bmx+olympics+2012">(79) bmx olympics 2012 - YouTube</a></li>
 <li> 10:28 <a href="https://www.youtube.com/">(79) YouTube</a></li>
 <li> 10:27 www.radmarkt.com</li>
 <li> 10:27 duckduckgo.com</li>
