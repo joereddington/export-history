@@ -75,7 +75,7 @@ With number of accesses/minutes in parentheses
 <li>outlook.office.com (3932)</li>
 <li>duckduckgo.com (3891)</li>
 <li>docs.google.com (3296)</li>
-<li>chatgpt.com (2820)</li>
+<li>chatgpt.com (2824)</li>
 <li>www.linkedin.com (2365)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1841)</li>
@@ -83,7 +83,7 @@ With number of accesses/minutes in parentheses
 <li>calendar.google.com (1548)</li>
 <li>login.microsoftonline.com (1359)</li>
 <li>www.amazon.co.uk (1329)</li>
-<li>chat.openai.com (1309)</li>
+<li>chat.openai.com (1311)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
 <li>gmail.com (1123)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Tuesday, 15/09/26</H3>
+
+<br>
+
+<ul><li> 09:58 chatgpt.com</li>
+<li class='same'> 09:57 chatgpt.com</li>
+<li> 09:57 chat.openai.com</li>
+<li> 09:55 www.speedtest.net</li>
+<li> 09:55 chatgpt.com</li>
+<li> 09:55 www.speedtest.net</li>
+<li> 09:54 fast.com</li>
+<li> 09:54 chatgpt.com</li>
+<li> 09:54 chat.openai.com</li>
+</ul>
 
 <br>
 
