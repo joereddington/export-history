@@ -76,12 +76,12 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3891)</li>
 <li>docs.google.com (3296)</li>
 <li>chatgpt.com (2820)</li>
-<li>www.linkedin.com (2364)</li>
+<li>www.linkedin.com (2365)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1841)</li>
 <li>moodle.royalholloway.ac.uk (1759)</li>
 <li>calendar.google.com (1548)</li>
-<li>login.microsoftonline.com (1355)</li>
+<li>login.microsoftonline.com (1359)</li>
 <li>www.amazon.co.uk (1329)</li>
 <li>chat.openai.com (1309)</li>
 <li>herts.instructure.com (1231)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (833)</li>
 <li>forms.office.com (771)</li>
 <li>fritz.box (585)</li>
-<li>rhul.sharepoint.com (575)</li>
+<li>rhul.sharepoint.com (578)</li>
 <li>www.theguardian.com (553)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,27 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 06:58 calendar.google.com</li>
+<ul><li> 07:27 www.linkedin.com</li>
+<li> 07:07 learningonscreen.ac.uk</li>
+<li> 07:07 login.learningonscreen.ac.uk</li>
+<li> 07:07 connect.openathens.net</li>
+<li> 07:07 login.openathens.net</li>
+<li> 07:07 login.microsoftonline.com</li>
+<li class='same'> 07:06 login.microsoftonline.com</li>
+<li> 07:06 device.login.microsoftonline.com</li>
+<li> 07:06 login.openathens.net</li>
+<li> 07:06 connect.openathens.net</li>
+<li> 07:06 login.learningonscreen.ac.uk</li>
+<li> 07:06 connect.openathens.net</li>
+<li> 07:06 login.learningonscreen.ac.uk</li>
+<li> 07:03 learningonscreen.ac.uk</li>
+<li> 07:02 rhul.sharepoint.com</li>
+<li class='same'> 07:01 rhul.sharepoint.com</li>
+<li> 06:59 login.microsoftonline.com</li>
+<li> 06:59 device.login.microsoftonline.com</li>
+<li> 06:59 login.microsoftonline.com</li>
+<li> 06:59 rhul.sharepoint.com</li>
+<li> 06:58 calendar.google.com</li>
 <li> 06:46 login.microsoftonline.com</li>
 <li> 06:46 device.login.microsoftonline.com</li>
 <li> 06:46 myview.rhul.zellis.com</li>
