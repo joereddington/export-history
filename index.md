@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5298)</li>
-<li>www.google.com (5211)</li>
+<ol><li>mail.google.com (5297)</li>
+<li>www.google.com (5209)</li>
 <li>www.reddit.com (5180)</li>
 <li>outlook.office365.com (4606)</li>
 <li>outlook.office.com (3932)</li>
-<li>duckduckgo.com (3906)</li>
+<li>duckduckgo.com (3907)</li>
 <li>docs.google.com (3291)</li>
-<li>chatgpt.com (2829)</li>
+<li>chatgpt.com (2831)</li>
 <li>www.linkedin.com (2366)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1822)</li>
+<li>www.facebook.com (1811)</li>
 <li>moodle.royalholloway.ac.uk (1766)</li>
 <li>calendar.google.com (1546)</li>
-<li>login.microsoftonline.com (1363)</li>
+<li>login.microsoftonline.com (1367)</li>
 <li>www.amazon.co.uk (1329)</li>
-<li>chat.openai.com (1312)</li>
+<li>chat.openai.com (1313)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
 <li>gmail.com (1126)</li>
@@ -92,8 +92,8 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (844)</li>
 <li>feedly.com (832)</li>
 <li>forms.office.com (771)</li>
+<li>fritz.box (590)</li>
 <li>rhul.sharepoint.com (589)</li>
-<li>fritz.box (588)</li>
 <li>www.theguardian.com (553)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,65 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:57 fritz.box</li>
+<ul><li> 18:53 login.learningonscreen.ac.uk</li>
+<li> 18:53 learningonscreen.ac.uk</li>
+<li> 18:53 login.openathens.net</li>
+<li> 18:53 connect.openathens.net</li>
+<li> 18:53 login.learningonscreen.ac.uk</li>
+<li> 18:53 connect.openathens.net</li>
+<li> 18:53 login.learningonscreen.ac.uk</li>
+<li> 18:53 connect.openathens.net</li>
+<li> 18:53 login.learningonscreen.ac.uk</li>
+<li> 18:53 learningonscreen.ac.uk</li>
+</ul>
+
+<br>
+
+<ul><li> 17:23 <a href="https://en.wikipedia.org/wiki/Anjli_Mohindra">Anjli Mohindra - Wikipedia</a></li>
+<li> 17:23 <a href="https://en.wikipedia.org/wiki/Daniel_Anthony_(actor)">Daniel Anthony (actor) - Wikipedia</a></li>
+<li> 17:22 <a href="https://en.wikipedia.org/wiki/Tommy_Knight">Tommy Knight - Wikipedia</a></li>
+<li> 17:22 <a href="https://en.wikipedia.org/wiki/Yasmin_Paige">Yasmin Paige - Wikipedia</a></li>
+<li> 17:22 <a href="https://en.wikipedia.org/wiki/The_Sarah_Jane_Adventures">The Sarah Jane Adventures - Wikipedia</a></li>
+<li> 17:22 learningonscreen.ac.uk</li>
+<li class='same'> 17:21 learningonscreen.ac.uk</li>
+<li> 17:21 <a href="https://en.wikipedia.org/wiki/List_of_The_Sarah_Jane_Adventures_serials">List of The Sarah Jane Adventures serials - Wikipedia</a></li>
+<li> 17:21 duckduckgo.com</li>
+<li> 17:20 learningonscreen.ac.uk</li>
+<li class='same'> 17:19 learningonscreen.ac.uk</li>
+<li> 17:19 chatgpt.com</li>
+<li class='same'> 17:18 chatgpt.com</li>
+<li> 17:18 chat.openai.com</li>
+<li> 17:18 fritz.box</li>
+<li> 17:10 learningonscreen.ac.uk</li>
+<li class='same'> 17:09 learningonscreen.ac.uk</li>
+<li> 17:09 login.learningonscreen.ac.uk</li>
+<li> 17:09 learningonscreen.ac.uk</li>
+<li> 17:09 login.openathens.net</li>
+<li> 17:09 connect.openathens.net</li>
+<li> 17:09 login.microsoftonline.com</li>
+<li> 17:09 login.openathens.net</li>
+<li> 17:09 login.microsoftonline.com</li>
+<li> 17:09 device.login.microsoftonline.com</li>
+<li> 17:09 login.openathens.net</li>
+<li> 17:09 connect.openathens.net</li>
+<li> 17:09 login.learningonscreen.ac.uk</li>
+<li> 17:09 connect.openathens.net</li>
+<li> 17:09 login.learningonscreen.ac.uk</li>
+<li> 17:09 learningonscreen.ac.uk</li>
+<li> 17:09 support.microsoft.com</li>
+<li> 17:09 learn.microsoft.com</li>
+<li> 17:09 go.microsoft.com</li>
+<li> 17:07 login.microsoftonline.com</li>
+<li> 17:07 device.login.microsoftonline.com</li>
+<li> 17:07 login.openathens.net</li>
+<li> 17:07 login.microsoftonline.com</li>
+<li> 17:07 connect.openathens.net</li>
+<li> 17:07 login.learningonscreen.ac.uk</li>
+<li> 17:07 connect.openathens.net</li>
+<li> 17:07 login.learningonscreen.ac.uk</li>
+<li> 17:04 learningonscreen.ac.uk</li>
+<li> 16:58 fritz.box</li>
+<li class='same'> 16:57 fritz.box</li>
 </ul>
 
 <br>
@@ -124131,22 +124189,4 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 08:21 www.merriam-webster.com</li>
 <li> 08:21 www.google.com</li>
-<li class='same'> 08:18 www.google.com</li>
-<li class='same'> 08:16 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:22 www.facebook.com</li>
-<li class='same'> 07:21 www.facebook.com</li>
-<li class='same'> 07:20 www.facebook.com</li>
-<li class='same'> 07:19 www.facebook.com</li>
-<li class='same'> 07:18 www.facebook.com</li>
-<li class='same'> 07:17 www.facebook.com</li>
-<li class='same'> 07:16 www.facebook.com</li>
-<li class='same'> 07:15 www.facebook.com</li>
-<li class='same'> 07:14 www.facebook.com</li>
-<li class='same'> 07:13 www.facebook.com</li>
-<li class='same'> 07:11 www.facebook.com</li>
-<li> 07:11 mail.google.com</li>
 </ul>
