@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5289)</li>
+<ol><li>mail.google.com (5291)</li>
 <li>www.google.com (5216)</li>
-<li>www.reddit.com (5160)</li>
-<li>outlook.office365.com (4594)</li>
+<li>www.reddit.com (5171)</li>
+<li>outlook.office365.com (4602)</li>
 <li>outlook.office.com (3932)</li>
-<li>duckduckgo.com (3889)</li>
+<li>duckduckgo.com (3891)</li>
 <li>docs.google.com (3296)</li>
-<li>chatgpt.com (2818)</li>
+<li>chatgpt.com (2820)</li>
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1839)</li>
-<li>moodle.royalholloway.ac.uk (1758)</li>
-<li>calendar.google.com (1544)</li>
-<li>login.microsoftonline.com (1350)</li>
+<li>www.facebook.com (1841)</li>
+<li>moodle.royalholloway.ac.uk (1759)</li>
+<li>calendar.google.com (1548)</li>
+<li>login.microsoftonline.com (1355)</li>
 <li>www.amazon.co.uk (1329)</li>
-<li>chat.openai.com (1308)</li>
+<li>chat.openai.com (1309)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1137)</li>
-<li>gmail.com (1122)</li>
+<li>gmail.com (1123)</li>
 <li>mail.rhul.ac.uk (988)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (841)</li>
-<li>feedly.com (832)</li>
+<li>feedly.com (833)</li>
 <li>forms.office.com (771)</li>
 <li>fritz.box (585)</li>
 <li>rhul.sharepoint.com (575)</li>
@@ -104,11 +104,107 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Tuesday, 15/09/26</H3>
+
+<br>
+
+<ul><li> 06:58 calendar.google.com</li>
+<li> 06:46 login.microsoftonline.com</li>
+<li> 06:46 device.login.microsoftonline.com</li>
+<li> 06:46 myview.rhul.zellis.com</li>
+<li> 06:43 192.168.178.1</li>
+<li class='same'> 06:42 192.168.178.1</li>
+<li class='same'> 06:41 192.168.178.1</li>
+<li> 06:30 calendar.google.com</li>
+<li> 06:29 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 06:28 webtimetables.royalholloway.ac.uk</li>
+<li> 06:27 moodle.royalholloway.ac.uk</li>
+<li> 06:27 login.microsoftonline.com</li>
+<li> 06:27 device.login.microsoftonline.com</li>
+<li> 06:26 webtimetables.royalholloway.ac.uk</li>
+<li> 06:21 calendar.google.com</li>
+<li class='same'> 06:20 calendar.google.com</li>
+<li> 06:18 ads.google.com</li>
+<li class='same'> 06:17 ads.google.com</li>
+<li class='same'> 06:16 ads.google.com</li>
+<li class='same'> 06:15 ads.google.com</li>
+<li> 06:14 192.168.178.1</li>
+<li class='same'> 06:13 192.168.178.1</li>
+</ul>
+
 <H3>Monday, 14/09/26</H3>
 
 <br>
 
-<ul><li> 16:53 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li> 21:56 duckduckgo.com</li>
+<li class='same'> 21:55 duckduckgo.com</li>
+<li> 21:55 www.reddit.com</li>
+<li class='same'> 21:54 www.reddit.com</li>
+<li class='same'> 21:53 www.reddit.com</li>
+<li> 21:52 mail.google.com</li>
+<li> 21:47 www.facebook.com</li>
+<li class='same'> 21:46 www.facebook.com</li>
+<li> 21:46 chatgpt.com</li>
+<li> 21:45 feedly.com</li>
+<li> 21:45 192.168.178.1</li>
+<li> 21:44 mail.google.com</li>
+<li> 21:44 gmail.com</li>
+<li> 21:44 shop.app</li>
+<li> 21:44 musoublack.co.uk</li>
+<li> 21:42 chatgpt.com</li>
+<li> 21:42 chat.openai.com</li>
+<li> 21:32 www.reddit.com</li>
+<li class='same'> 21:30 www.reddit.com</li>
+<li class='same'> 21:29 www.reddit.com</li>
+<li class='same'> 21:28 www.reddit.com</li>
+<li class='same'> 21:26 www.reddit.com</li>
+<li class='same'> 21:24 www.reddit.com</li>
+<li class='same'> 21:23 www.reddit.com</li>
+<li> 21:22 learningonscreen.ac.uk</li>
+<li class='same'> 21:21 learningonscreen.ac.uk</li>
+<li class='same'> 21:11 learningonscreen.ac.uk</li>
+<li class='same'> 21:10 learningonscreen.ac.uk</li>
+<li class='same'> 21:09 learningonscreen.ac.uk</li>
+<li class='same'> 21:08 learningonscreen.ac.uk</li>
+<li class='same'> 21:07 learningonscreen.ac.uk</li>
+<li> 21:07 login.learningonscreen.ac.uk</li>
+<li> 21:07 learningonscreen.ac.uk</li>
+<li> 21:07 connect.openathens.net</li>
+<li> 21:07 login.openathens.net</li>
+<li> 21:07 login.microsoftonline.com</li>
+<li> 21:07 login.openathens.net</li>
+<li> 21:07 login.microsoftonline.com</li>
+<li> 21:07 device.login.microsoftonline.com</li>
+<li> 21:07 connect.openathens.net</li>
+<li> 21:07 login.learningonscreen.ac.uk</li>
+<li> 21:07 connect.openathens.net</li>
+<li> 21:07 login.learningonscreen.ac.uk</li>
+<li> 21:07 learningonscreen.ac.uk</li>
+<li> 21:06 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 18:28 outlook.office365.com</li>
+<li class='same'> 18:23 outlook.office365.com</li>
+<li class='same'> 18:22 outlook.office365.com</li>
+<li class='same'> 18:04 outlook.office365.com</li>
+<li class='same'> 18:02 outlook.office365.com</li>
+<li class='same'> 18:01 outlook.office365.com</li>
+<li class='same'> 18:00 outlook.office365.com</li>
+<li> 18:00 login.microsoftonline.com</li>
+<li> 18:00 outlook.office365.com</li>
+<li> 18:00 fast.com</li>
+</ul>
+
+<br>
+
+<ul><li> 16:55 www.reddit.com</li>
+<li class='same'> 16:53 www.reddit.com</li>
 <li> 16:51 rhul.sharepoint.com</li>
 <li> 16:51 login.microsoftonline.com</li>
 <li> 16:51 device.login.microsoftonline.com</li>
