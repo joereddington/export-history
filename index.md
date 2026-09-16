@@ -68,32 +68,32 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5296)</li>
-<li>www.google.com (5204)</li>
+<ol><li>mail.google.com (5295)</li>
+<li>www.google.com (5203)</li>
 <li>www.reddit.com (5180)</li>
-<li>outlook.office365.com (4607)</li>
+<li>outlook.office365.com (4603)</li>
 <li>outlook.office.com (3931)</li>
-<li>duckduckgo.com (3908)</li>
+<li>duckduckgo.com (3909)</li>
 <li>docs.google.com (3289)</li>
 <li>chatgpt.com (2831)</li>
 <li>www.linkedin.com (2364)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1790)</li>
+<li>www.facebook.com (1789)</li>
 <li>moodle.royalholloway.ac.uk (1766)</li>
-<li>calendar.google.com (1546)</li>
-<li>login.microsoftonline.com (1370)</li>
+<li>calendar.google.com (1547)</li>
+<li>login.microsoftonline.com (1371)</li>
 <li>www.amazon.co.uk (1329)</li>
 <li>chat.openai.com (1313)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1136)</li>
+<li>web.whatsapp.com (1135)</li>
 <li>gmail.com (1126)</li>
-<li>mail.rhul.ac.uk (987)</li>
+<li>mail.rhul.ac.uk (986)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (844)</li>
 <li>feedly.com (832)</li>
 <li>forms.office.com (771)</li>
+<li>rhul.sharepoint.com (590)</li>
 <li>fritz.box (590)</li>
-<li>rhul.sharepoint.com (589)</li>
 <li>www.theguardian.com (553)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -105,6 +105,17 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 16/09/26</H3>
+
+<br>
+
+<ul><li> 11:29 duckduckgo.com</li>
+<li> 11:18 calendar.google.com</li>
+<li class='same'> 11:17 calendar.google.com</li>
+<li> 11:17 rhul.sharepoint.com</li>
+<li> 11:17 device.login.microsoftonline.com</li>
+<li> 11:17 login.microsoftonline.com</li>
+<li> 11:17 rhul.sharepoint.com</li>
+</ul>
 
 <br>
 
@@ -124161,16 +124172,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:26 outlook.office365.com</li>
 <li class='same'> 10:25 outlook.office365.com</li>
 <li class='same'> 10:23 outlook.office365.com</li>
-<li class='same'> 10:21 outlook.office365.com</li>
-<li> 10:20 rhul.sharepoint.com</li>
-<li> 10:18 calendar.google.com</li>
-<li> 10:18 outlook.office365.com</li>
-<li class='same'> 10:16 outlook.office365.com</li>
-<li> 10:16 mail.rhul.ac.uk</li>
-<li> 10:08 www.uclahealth.org</li>
-<li> 10:04 www.google.com</li>
-<li> 10:02 mail.google.com</li>
-<li> 10:01 outlook.office365.com</li>
-<li> 09:34 web.whatsapp.com</li>
-<li> 09:33 www.facebook.com</li>
 </ul>
