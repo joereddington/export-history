@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5295)</li>
-<li>www.google.com (5196)</li>
-<li>www.reddit.com (5178)</li>
-<li>outlook.office365.com (4585)</li>
+<li>www.google.com (5194)</li>
+<li>www.reddit.com (5174)</li>
+<li>outlook.office365.com (4583)</li>
 <li>outlook.office.com (3931)</li>
 <li>duckduckgo.com (3909)</li>
 <li>docs.google.com (3289)</li>
 <li>chatgpt.com (2833)</li>
-<li>www.linkedin.com (2357)</li>
+<li>www.linkedin.com (2356)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1787)</li>
-<li>moodle.royalholloway.ac.uk (1766)</li>
+<li>www.facebook.com (1786)</li>
+<li>moodle.royalholloway.ac.uk (1768)</li>
 <li>calendar.google.com (1547)</li>
 <li>login.microsoftonline.com (1374)</li>
 <li>www.amazon.co.uk (1329)</li>
@@ -87,14 +87,14 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1134)</li>
 <li>gmail.com (1126)</li>
-<li>mail.rhul.ac.uk (984)</li>
+<li>mail.rhul.ac.uk (983)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (840)</li>
 <li>feedly.com (832)</li>
 <li>forms.office.com (769)</li>
 <li>rhul.sharepoint.com (596)</li>
 <li>fritz.box (592)</li>
-<li>www.theguardian.com (552)</li>
+<li>www.theguardian.com (551)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (467)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:29 Local file</li>
+<ul><li> 15:55 moodle.royalholloway.ac.uk</li>
+<li class='same'> 15:54 moodle.royalholloway.ac.uk</li>
+<li> 15:41 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 15:40 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 15:39 fyp.cs.rhul.ac.uk</li>
+<li> 15:29 Local file</li>
 <li> 15:27 royalholloway.akarisoftware.com</li>
 <li class='same'> 15:26 royalholloway.akarisoftware.com</li>
 <li class='same'> 15:25 royalholloway.akarisoftware.com</li>
@@ -124135,20 +124140,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:21 outlook.office365.com</li>
 <li class='same'> 12:19 outlook.office365.com</li>
 <li class='same'> 12:18 outlook.office365.com</li>
-<li> 12:18 mail.rhul.ac.uk</li>
-<li> 12:18 www.linkedin.com</li>
-<li> 12:17 www.reddit.com</li>
-<li class='same'> 12:16 www.reddit.com</li>
-<li class='same'> 12:15 www.reddit.com</li>
-<li> 12:13 www.theguardian.com</li>
-<li> 12:09 www.facebook.com</li>
-<li> 12:08 intranet.royalholloway.ac.uk</li>
-<li> 12:07 outlook.office365.com</li>
-<li> 12:07 intranet.royalholloway.ac.uk</li>
-<li> 12:07 www.google.com</li>
-<li> 12:06 outlook.office365.com</li>
-<li> 12:01 www.reddit.com</li>
-<li> 12:00 www.google.com</li>
-<li> 11:57 www.lutoncentralmosque.org</li>
-<li> 11:56 www.islamic-relief.org.uk</li>
 </ul>
