@@ -76,12 +76,12 @@ With number of accesses/minutes in parentheses
 <li>duckduckgo.com (3914)</li>
 <li>docs.google.com (3289)</li>
 <li>chatgpt.com (2833)</li>
-<li>www.linkedin.com (2356)</li>
+<li>www.linkedin.com (2358)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1786)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>calendar.google.com (1548)</li>
-<li>login.microsoftonline.com (1374)</li>
+<li>calendar.google.com (1550)</li>
+<li>login.microsoftonline.com (1375)</li>
 <li>www.amazon.co.uk (1331)</li>
 <li>chat.openai.com (1314)</li>
 <li>herts.instructure.com (1231)</li>
@@ -108,7 +108,26 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:54 www.printables.com</li>
+<ul><li> 17:21 login.learningonscreen.ac.uk</li>
+<li> 17:21 learningonscreen.ac.uk</li>
+<li> 17:21 login.openathens.net</li>
+<li> 17:21 connect.openathens.net</li>
+<li> 17:21 login.openathens.net</li>
+<li> 17:21 login.microsoftonline.com</li>
+<li> 17:21 device.login.microsoftonline.com</li>
+<li> 17:21 login.openathens.net</li>
+<li> 17:21 connect.openathens.net</li>
+<li> 17:21 login.learningonscreen.ac.uk</li>
+<li> 17:21 connect.openathens.net</li>
+<li> 17:21 login.learningonscreen.ac.uk</li>
+<li> 17:21 learningonscreen.ac.uk</li>
+<li> 17:17 calendar.google.com</li>
+<li> 17:16 www.linkedin.com</li>
+<li> 17:16 calendar.google.com</li>
+<li> 17:16 www.linkedin.com</li>
+<li> 17:04 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 17:03 webtimetables.royalholloway.ac.uk</li>
+<li> 16:54 www.printables.com</li>
 <li> 16:54 duckduckgo.com</li>
 <li> 16:53 asktheman.xyz</li>
 <li> 16:53 storage.googleapis.com</li>
@@ -124144,5 +124163,4 @@ With number of accesses/minutes in parentheses
 <li> 13:17 www.pluralsight.com</li>
 <li> 13:17 www.google.com</li>
 <li> 13:17 www.pluralsight.com</li>
-<li class='same'> 13:06 www.pluralsight.com</li>
 </ul>
