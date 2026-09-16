@@ -69,9 +69,9 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5295)</li>
-<li>www.google.com (5203)</li>
+<li>www.google.com (5202)</li>
 <li>www.reddit.com (5180)</li>
-<li>outlook.office365.com (4603)</li>
+<li>outlook.office365.com (4597)</li>
 <li>outlook.office.com (3931)</li>
 <li>duckduckgo.com (3909)</li>
 <li>docs.google.com (3289)</li>
@@ -89,12 +89,12 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1126)</li>
 <li>mail.rhul.ac.uk (986)</li>
 <li>tvtropes.org (881)</li>
-<li>rhul-my.sharepoint.com (844)</li>
+<li>rhul-my.sharepoint.com (842)</li>
 <li>feedly.com (832)</li>
 <li>forms.office.com (771)</li>
+<li>fritz.box (592)</li>
 <li>rhul.sharepoint.com (590)</li>
-<li>fritz.box (590)</li>
-<li>www.theguardian.com (553)</li>
+<li>www.theguardian.com (552)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (467)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:29 duckduckgo.com</li>
+<ul><li> 11:43 fast.com</li>
+<li> 11:42 192.168.178.1</li>
+<li class='same'> 11:40 192.168.178.1</li>
+<li> 11:38 fritz.box</li>
+<li> 11:37 192.168.178.1</li>
+<li> 11:37 fritz.box</li>
+<li> 11:37 firefox-portal-detection.com</li>
+<li> 11:37 192.168.178.1</li>
+<li> 11:29 <a href="https://en.wikipedia.org/wiki/Insanity_in_English_law">Insanity in English law - Wikipedia</a></li>
+<li> 11:29 duckduckgo.com</li>
 <li> 11:18 calendar.google.com</li>
 <li class='same'> 11:17 calendar.google.com</li>
 <li> 11:17 rhul.sharepoint.com</li>
@@ -124159,17 +124168,4 @@ With number of accesses/minutes in parentheses
 <li> 11:11 mail.rhul.ac.uk</li>
 <li> 11:09 shop.reductress.com</li>
 <li class='same'> 11:08 shop.reductress.com</li>
-<li> 11:08 reductress.com</li>
-<li> 11:05 www.nytimes.com</li>
-<li> 11:01 www.google.com</li>
-<li> 10:58 www.theguardian.com</li>
-<li> 10:57 www.merriam-webster.com</li>
-<li> 10:57 rhul-my.sharepoint.com</li>
-<li class='same'> 10:56 rhul-my.sharepoint.com</li>
-<li> 10:55 outlook.office365.com</li>
-<li class='same'> 10:52 outlook.office365.com</li>
-<li class='same'> 10:40 outlook.office365.com</li>
-<li class='same'> 10:26 outlook.office365.com</li>
-<li class='same'> 10:25 outlook.office365.com</li>
-<li class='same'> 10:23 outlook.office365.com</li>
 </ul>
