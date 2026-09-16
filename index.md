@@ -87,7 +87,7 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1135)</li>
 <li>gmail.com (1126)</li>
-<li>mail.rhul.ac.uk (986)</li>
+<li>mail.rhul.ac.uk (985)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (842)</li>
 <li>feedly.com (832)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:43 fast.com</li>
+<ul><li> 12:15 192.168.178.1</li>
+<li class='same'> 12:14 192.168.178.1</li>
+<li class='same'> 12:09 192.168.178.1</li>
+<li> 11:43 fast.com</li>
 <li> 11:42 192.168.178.1</li>
 <li class='same'> 11:40 192.168.178.1</li>
 <li> 11:38 fritz.box</li>
@@ -124165,7 +124168,4 @@ With number of accesses/minutes in parentheses
 <li> 11:12 www.linkedin.com</li>
 <li> 11:12 www.google.com</li>
 <li> 11:11 outlook.office365.com</li>
-<li> 11:11 mail.rhul.ac.uk</li>
-<li> 11:09 shop.reductress.com</li>
-<li class='same'> 11:08 shop.reductress.com</li>
 </ul>
