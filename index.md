@@ -69,20 +69,20 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5293)</li>
-<li>www.google.com (5194)</li>
+<li>www.google.com (5193)</li>
 <li>www.reddit.com (5181)</li>
-<li>outlook.office365.com (4578)</li>
+<li>outlook.office365.com (4577)</li>
 <li>outlook.office.com (3931)</li>
-<li>duckduckgo.com (3911)</li>
+<li>duckduckgo.com (3914)</li>
 <li>docs.google.com (3289)</li>
 <li>chatgpt.com (2833)</li>
 <li>www.linkedin.com (2356)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1786)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>calendar.google.com (1547)</li>
+<li>calendar.google.com (1548)</li>
 <li>login.microsoftonline.com (1374)</li>
-<li>www.amazon.co.uk (1329)</li>
+<li>www.amazon.co.uk (1331)</li>
 <li>chat.openai.com (1314)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1134)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:17 <a href="https://en.wikipedia.org/wiki/Great_and_Unfortunate_Things">Great and Unfortunate Things - Wikipedia</a></li>
+<ul><li> 16:54 www.printables.com</li>
+<li> 16:54 duckduckgo.com</li>
+<li> 16:53 asktheman.xyz</li>
+<li> 16:53 storage.googleapis.com</li>
+<li> 16:53 duckduckgo.com</li>
+<li class='same'> 16:52 duckduckgo.com</li>
+<li> 16:52 www.amazon.co.uk</li>
+<li class='same'> 16:51 www.amazon.co.uk</li>
+<li> 16:45 intranet.royalholloway.ac.uk</li>
+<li> 16:38 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+<li> 16:30 calendar.google.com</li>
+<li> 16:17 <a href="https://en.wikipedia.org/wiki/Great_and_Unfortunate_Things">Great and Unfortunate Things - Wikipedia</a></li>
 <li> 16:16 www.turnitin.com</li>
 <li> 16:16 duckduckgo.com</li>
 <li class='same'> 16:15 duckduckgo.com</li>
@@ -124134,12 +124145,4 @@ With number of accesses/minutes in parentheses
 <li> 13:17 www.google.com</li>
 <li> 13:17 www.pluralsight.com</li>
 <li class='same'> 13:06 www.pluralsight.com</li>
-<li> 13:00 m.facebook.com</li>
-<li> 13:00 www.google.com</li>
-<li> 12:59 newsthump.com</li>
-</ul>
-
-<br>
-
-<ul><li> 12:25 outlook.office365.com</li>
 </ul>
