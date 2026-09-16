@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5293)</li>
-<li>www.google.com (5193)</li>
-<li>www.reddit.com (5181)</li>
+<li>www.google.com (5191)</li>
+<li>www.reddit.com (5180)</li>
 <li>outlook.office365.com (4577)</li>
 <li>outlook.office.com (3931)</li>
-<li>duckduckgo.com (3914)</li>
+<li>duckduckgo.com (3916)</li>
 <li>docs.google.com (3289)</li>
-<li>chatgpt.com (2833)</li>
+<li>chatgpt.com (2834)</li>
 <li>www.linkedin.com (2358)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1786)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>calendar.google.com (1550)</li>
+<li>calendar.google.com (1551)</li>
 <li>login.microsoftonline.com (1375)</li>
 <li>www.amazon.co.uk (1331)</li>
-<li>chat.openai.com (1314)</li>
+<li>chat.openai.com (1315)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1134)</li>
 <li>gmail.com (1124)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:21 login.learningonscreen.ac.uk</li>
+<ul><li> 17:57 calendar.google.com</li>
+<li> 17:57 www.eventbrite.co.uk</li>
+<li> 17:56 www.kkts-textilestudio.co.uk</li>
+<li> 17:55 chatgpt.com</li>
+<li> 17:55 chat.openai.com</li>
+<li> 17:55 duckduckgo.com</li>
+<li class='same'> 17:54 duckduckgo.com</li>
+<li> 17:54 192.168.178.1</li>
+<li class='same'> 17:53 192.168.178.1</li>
+<li> 17:36 learningonscreen.ac.uk</li>
+<li class='same'> 17:35 learningonscreen.ac.uk</li>
+<li> 17:21 login.learningonscreen.ac.uk</li>
 <li> 17:21 learningonscreen.ac.uk</li>
 <li> 17:21 login.openathens.net</li>
 <li> 17:21 connect.openathens.net</li>
@@ -124158,9 +124169,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:20 www.reddit.com</li>
 <li class='same'> 13:19 www.reddit.com</li>
 <li class='same'> 13:18 www.reddit.com</li>
-<li class='same'> 13:17 www.reddit.com</li>
-<li> 13:17 www.google.com</li>
-<li> 13:17 www.pluralsight.com</li>
-<li> 13:17 www.google.com</li>
-<li> 13:17 www.pluralsight.com</li>
 </ul>
