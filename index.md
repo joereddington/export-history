@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5297)</li>
-<li>www.google.com (5209)</li>
+<li>www.google.com (5207)</li>
 <li>www.reddit.com (5180)</li>
 <li>outlook.office365.com (4606)</li>
-<li>outlook.office.com (3932)</li>
+<li>outlook.office.com (3931)</li>
 <li>duckduckgo.com (3907)</li>
 <li>docs.google.com (3291)</li>
 <li>chatgpt.com (2831)</li>
-<li>www.linkedin.com (2366)</li>
+<li>www.linkedin.com (2365)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1811)</li>
 <li>moodle.royalholloway.ac.uk (1766)</li>
@@ -108,7 +108,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 18:53 login.learningonscreen.ac.uk</li>
+<ul><li> 18:54 learningonscreen.ac.uk</li>
+<li> 18:53 login.learningonscreen.ac.uk</li>
 <li> 18:53 learningonscreen.ac.uk</li>
 <li> 18:53 login.openathens.net</li>
 <li> 18:53 connect.openathens.net</li>
@@ -11884,8 +11885,6 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:57 www.blindsdirect.co.uk</li>
 <li class='same'> 12:56 www.blindsdirect.co.uk</li>
-<li> 12:56 www.google.com</li>
-<li> 12:56 www.blindsdirect.co.uk</li>
 <li> 12:55 www.google.com</li>
 </ul>
 
@@ -124181,12 +124180,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:07 www.facebook.com</li>
 <li> 08:57 www.linkedin.com</li>
 <li> 08:57 mail.google.com</li>
-<li> 08:57 www.linkedin.com</li>
-<li> 08:57 outlook.office.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:21 www.merriam-webster.com</li>
-<li> 08:21 www.google.com</li>
 </ul>
