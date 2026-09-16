@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5295)</li>
-<li>www.google.com (5199)</li>
+<li>www.google.com (5196)</li>
 <li>www.reddit.com (5178)</li>
-<li>outlook.office365.com (4590)</li>
+<li>outlook.office365.com (4585)</li>
 <li>outlook.office.com (3931)</li>
 <li>duckduckgo.com (3909)</li>
 <li>docs.google.com (3289)</li>
-<li>chatgpt.com (2831)</li>
+<li>chatgpt.com (2833)</li>
 <li>www.linkedin.com (2357)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1787)</li>
-<li>moodle.royalholloway.ac.uk (1765)</li>
+<li>moodle.royalholloway.ac.uk (1766)</li>
 <li>calendar.google.com (1547)</li>
-<li>login.microsoftonline.com (1371)</li>
+<li>login.microsoftonline.com (1374)</li>
 <li>www.amazon.co.uk (1329)</li>
-<li>chat.openai.com (1313)</li>
+<li>chat.openai.com (1314)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1134)</li>
 <li>gmail.com (1126)</li>
 <li>mail.rhul.ac.uk (984)</li>
 <li>tvtropes.org (881)</li>
-<li>rhul-my.sharepoint.com (842)</li>
+<li>rhul-my.sharepoint.com (840)</li>
 <li>feedly.com (832)</li>
-<li>forms.office.com (771)</li>
-<li>rhul.sharepoint.com (592)</li>
+<li>forms.office.com (769)</li>
+<li>rhul.sharepoint.com (596)</li>
 <li>fritz.box (592)</li>
 <li>www.theguardian.com (552)</li>
 <li>m365.cloud.microsoft (543)</li>
@@ -108,7 +108,32 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:51 casper.cs.rhul.ac.uk</li>
+<ul><li> 15:29 Local file</li>
+<li> 15:27 royalholloway.akarisoftware.com</li>
+<li class='same'> 15:26 royalholloway.akarisoftware.com</li>
+<li class='same'> 15:25 royalholloway.akarisoftware.com</li>
+<li class='same'> 15:24 royalholloway.akarisoftware.com</li>
+<li class='same'> 15:23 royalholloway.akarisoftware.com</li>
+<li class='same'> 15:22 royalholloway.akarisoftware.com</li>
+<li> 15:20 moodle.royalholloway.ac.uk</li>
+<li> 15:20 login.microsoftonline.com</li>
+<li> 15:20 moodle.royalholloway.ac.uk</li>
+<li> 15:20 login.microsoftonline.com</li>
+<li> 15:20 device.login.microsoftonline.com</li>
+<li> 15:19 royalholloway.akarisoftware.com</li>
+<li> 15:19 login.microsoftonline.com</li>
+<li> 15:19 device.login.microsoftonline.com</li>
+<li> 15:19 royalholloway.akarisoftware.com</li>
+<li> 15:11 chatgpt.com</li>
+<li class='same'> 15:10 chatgpt.com</li>
+<li> 15:10 chat.openai.com</li>
+<li> 15:07 rhul.sharepoint.com</li>
+<li> 15:06 rhul-my.sharepoint.com</li>
+<li> 15:06 rhul.sharepoint.com</li>
+<li class='same'> 15:05 rhul.sharepoint.com</li>
+<li> 15:04 euc-excel.officeapps.live.com</li>
+<li> 15:02 rhul.sharepoint.com</li>
+<li> 14:51 casper.cs.rhul.ac.uk</li>
 <li class='same'> 14:48 casper.cs.rhul.ac.uk</li>
 <li> 14:31 rhul.sharepoint.com</li>
 <li> 14:18 webtimetables.royalholloway.ac.uk</li>
@@ -124126,22 +124151,4 @@ With number of accesses/minutes in parentheses
 <li> 12:00 www.google.com</li>
 <li> 11:57 www.lutoncentralmosque.org</li>
 <li> 11:56 www.islamic-relief.org.uk</li>
-<li class='same'> 11:55 www.islamic-relief.org.uk</li>
-<li> 11:55 www.google.com</li>
-<li> 11:55 <a href="https://en.wikipedia.org/wiki/Salah_times">Salah times - Wikipedia</a></li>
-<li> 11:55 www.google.com</li>
-<li> 11:54 outlook.office365.com</li>
-<li> 11:52 rhul.hosted.panopto.com</li>
-<li> 11:51 forms.office.com</li>
-<li class='same'> 11:50 forms.office.com</li>
-<li> 11:49 pure.royalholloway.ac.uk</li>
-<li> 11:49 www.google.com</li>
-<li> 11:44 outlook.office365.com</li>
-<li class='same'> 11:43 outlook.office365.com</li>
-<li> 11:40 moodle.royalholloway.ac.uk</li>
-<li> 11:40 outlook.office365.com</li>
-<li class='same'> 11:39 outlook.office365.com</li>
-<li> 11:39 rhul-my.sharepoint.com</li>
-<li class='same'> 11:38 rhul-my.sharepoint.com</li>
-<li class='same'> 11:37 rhul-my.sharepoint.com</li>
 </ul>
