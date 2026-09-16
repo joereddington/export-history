@@ -69,14 +69,14 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5295)</li>
-<li>www.google.com (5202)</li>
+<li>www.google.com (5200)</li>
 <li>www.reddit.com (5180)</li>
-<li>outlook.office365.com (4597)</li>
+<li>outlook.office365.com (4595)</li>
 <li>outlook.office.com (3931)</li>
 <li>duckduckgo.com (3909)</li>
 <li>docs.google.com (3289)</li>
 <li>chatgpt.com (2831)</li>
-<li>www.linkedin.com (2364)</li>
+<li>www.linkedin.com (2362)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1789)</li>
 <li>moodle.royalholloway.ac.uk (1766)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (832)</li>
 <li>forms.office.com (771)</li>
 <li>fritz.box (592)</li>
-<li>rhul.sharepoint.com (590)</li>
+<li>rhul.sharepoint.com (591)</li>
 <li>www.theguardian.com (552)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:15 192.168.178.1</li>
+<ul><li> 12:44 rhul.sharepoint.com</li>
+<li> 12:43 fast.com</li>
+<li> 12:15 192.168.178.1</li>
 <li class='same'> 12:14 192.168.178.1</li>
 <li class='same'> 12:09 192.168.178.1</li>
 <li> 11:43 fast.com</li>
@@ -124158,14 +124160,4 @@ With number of accesses/minutes in parentheses
 <li> 11:16 <a href="https://www.youtube.com/watch?v=19_B6i9OjYA">(62) Explore our RH2030s strategy - YouTube</a></li>
 <li> 11:16 <a href="https://www.youtube.com/watch?v=19_B6i9OjYA&amp;embeds_referring_euri=https%3A%2F%2Fwww.royalholloway.ac.uk%2F&amp;embeds_referring_origin=https%3A%2F%2Fwww.royalholloway.ac.uk&amp;source_ve_path=MzY4NDIsMjg2NjY&amp;themeRefresh=1">Explore our RH2030s strategy - YouTube</a></li>
 <li> 11:16 <a href="https://www.youtube.com/watch?v=19_B6i9OjYA">(62) Explore our RH2030s strategy - YouTube</a></li>
-<li> 11:16 <a href="https://www.youtube.com/watch?v=19_B6i9OjYA&amp;embeds_referring_euri=https%3A%2F%2Fwww.royalholloway.ac.uk%2F&amp;embeds_referring_origin=https%3A%2F%2Fwww.royalholloway.ac.uk&amp;source_ve_path=MzY4NDIsMjg2NjY">Explore our RH2030s strategy - YouTube</a></li>
-<li> 11:16 www.royalholloway.ac.uk</li>
-<li class='same'> 11:15 www.royalholloway.ac.uk</li>
-<li class='same'> 11:14 www.royalholloway.ac.uk</li>
-<li> 11:14 www.google.com</li>
-<li> 11:13 www.linkedin.com</li>
-<li> 11:13 outlook.office365.com</li>
-<li> 11:12 www.linkedin.com</li>
-<li> 11:12 www.google.com</li>
-<li> 11:11 outlook.office365.com</li>
 </ul>
