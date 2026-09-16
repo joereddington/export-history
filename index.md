@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5295)</li>
 <li>www.google.com (5199)</li>
-<li>www.reddit.com (5180)</li>
+<li>www.reddit.com (5178)</li>
 <li>outlook.office365.com (4591)</li>
 <li>outlook.office.com (3931)</li>
 <li>duckduckgo.com (3909)</li>
@@ -78,8 +78,8 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (2831)</li>
 <li>www.linkedin.com (2357)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1788)</li>
-<li>moodle.royalholloway.ac.uk (1766)</li>
+<li>www.facebook.com (1787)</li>
+<li>moodle.royalholloway.ac.uk (1765)</li>
 <li>calendar.google.com (1547)</li>
 <li>login.microsoftonline.com (1371)</li>
 <li>www.amazon.co.uk (1329)</li>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Wednesday, 16/09/26</H3>
+
+<br>
+
+<ul><li> 14:18 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 14:17 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 14:16 webtimetables.royalholloway.ac.uk</li>
+<li> 14:13 intranet.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
@@ -124138,9 +124146,4 @@ With number of accesses/minutes in parentheses
 <li> 11:37 rhul.hosted.panopto.com</li>
 <li class='same'> 11:36 rhul.hosted.panopto.com</li>
 <li class='same'> 11:35 rhul.hosted.panopto.com</li>
-<li> 11:35 moodle.royalholloway.ac.uk</li>
-<li> 11:35 rhul.hosted.panopto.com</li>
-<li> 11:33 www.reddit.com</li>
-<li class='same'> 11:32 www.reddit.com</li>
-<li> 11:29 www.facebook.com</li>
 </ul>
