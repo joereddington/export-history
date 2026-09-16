@@ -69,23 +69,23 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5295)</li>
-<li>www.google.com (5200)</li>
+<li>www.google.com (5199)</li>
 <li>www.reddit.com (5180)</li>
-<li>outlook.office365.com (4595)</li>
+<li>outlook.office365.com (4591)</li>
 <li>outlook.office.com (3931)</li>
 <li>duckduckgo.com (3909)</li>
 <li>docs.google.com (3289)</li>
 <li>chatgpt.com (2831)</li>
-<li>www.linkedin.com (2362)</li>
+<li>www.linkedin.com (2357)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1789)</li>
+<li>www.facebook.com (1788)</li>
 <li>moodle.royalholloway.ac.uk (1766)</li>
 <li>calendar.google.com (1547)</li>
 <li>login.microsoftonline.com (1371)</li>
 <li>www.amazon.co.uk (1329)</li>
 <li>chat.openai.com (1313)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1135)</li>
+<li>web.whatsapp.com (1134)</li>
 <li>gmail.com (1126)</li>
 <li>mail.rhul.ac.uk (985)</li>
 <li>tvtropes.org (881)</li>
@@ -124143,21 +124143,4 @@ With number of accesses/minutes in parentheses
 <li> 11:33 www.reddit.com</li>
 <li class='same'> 11:32 www.reddit.com</li>
 <li> 11:29 www.facebook.com</li>
-<li class='same'> 11:28 www.facebook.com</li>
-<li> 11:27 outlook.office365.com</li>
-<li class='same'> 11:26 outlook.office365.com</li>
-<li> 11:25 www.linkedin.com</li>
-<li> 11:25 outlook.office365.com</li>
-<li> 11:24 www.linkedin.com</li>
-<li> 11:24 outlook.office365.com</li>
-<li> 11:22 www.linkedin.com</li>
-<li class='same'> 11:21 www.linkedin.com</li>
-<li class='same'> 11:20 www.linkedin.com</li>
-<li> 11:20 www.google.com</li>
-<li> 11:19 web.whatsapp.com</li>
-<li> 11:17 claude.ai</li>
-<li> 11:17 www.royalholloway.ac.uk</li>
-<li> 11:16 <a href="https://www.youtube.com/watch?v=19_B6i9OjYA">(62) Explore our RH2030s strategy - YouTube</a></li>
-<li> 11:16 <a href="https://www.youtube.com/watch?v=19_B6i9OjYA&amp;embeds_referring_euri=https%3A%2F%2Fwww.royalholloway.ac.uk%2F&amp;embeds_referring_origin=https%3A%2F%2Fwww.royalholloway.ac.uk&amp;source_ve_path=MzY4NDIsMjg2NjY&amp;themeRefresh=1">Explore our RH2030s strategy - YouTube</a></li>
-<li> 11:16 <a href="https://www.youtube.com/watch?v=19_B6i9OjYA">(62) Explore our RH2030s strategy - YouTube</a></li>
 </ul>
