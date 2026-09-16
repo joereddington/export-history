@@ -71,7 +71,7 @@ With number of accesses/minutes in parentheses
 <ol><li>mail.google.com (5295)</li>
 <li>www.google.com (5199)</li>
 <li>www.reddit.com (5178)</li>
-<li>outlook.office365.com (4591)</li>
+<li>outlook.office365.com (4590)</li>
 <li>outlook.office.com (3931)</li>
 <li>duckduckgo.com (3909)</li>
 <li>docs.google.com (3289)</li>
@@ -87,13 +87,13 @@ With number of accesses/minutes in parentheses
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1134)</li>
 <li>gmail.com (1126)</li>
-<li>mail.rhul.ac.uk (985)</li>
+<li>mail.rhul.ac.uk (984)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (842)</li>
 <li>feedly.com (832)</li>
 <li>forms.office.com (771)</li>
+<li>rhul.sharepoint.com (592)</li>
 <li>fritz.box (592)</li>
-<li>rhul.sharepoint.com (591)</li>
 <li>www.theguardian.com (552)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:18 webtimetables.royalholloway.ac.uk</li>
+<ul><li> 14:51 casper.cs.rhul.ac.uk</li>
+<li class='same'> 14:48 casper.cs.rhul.ac.uk</li>
+<li> 14:31 rhul.sharepoint.com</li>
+<li> 14:18 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 14:17 webtimetables.royalholloway.ac.uk</li>
 <li class='same'> 14:16 webtimetables.royalholloway.ac.uk</li>
 <li> 14:13 intranet.royalholloway.ac.uk</li>
@@ -124141,9 +124144,4 @@ With number of accesses/minutes in parentheses
 <li> 11:39 rhul-my.sharepoint.com</li>
 <li class='same'> 11:38 rhul-my.sharepoint.com</li>
 <li class='same'> 11:37 rhul-my.sharepoint.com</li>
-<li> 11:37 outlook.office365.com</li>
-<li> 11:37 mail.rhul.ac.uk</li>
-<li> 11:37 rhul.hosted.panopto.com</li>
-<li class='same'> 11:36 rhul.hosted.panopto.com</li>
-<li class='same'> 11:35 rhul.hosted.panopto.com</li>
 </ul>
