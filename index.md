@@ -68,12 +68,12 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5295)</li>
+<ol><li>mail.google.com (5293)</li>
 <li>www.google.com (5194)</li>
-<li>www.reddit.com (5174)</li>
-<li>outlook.office365.com (4583)</li>
+<li>www.reddit.com (5181)</li>
+<li>outlook.office365.com (4578)</li>
 <li>outlook.office.com (3931)</li>
-<li>duckduckgo.com (3909)</li>
+<li>duckduckgo.com (3911)</li>
 <li>docs.google.com (3289)</li>
 <li>chatgpt.com (2833)</li>
 <li>www.linkedin.com (2356)</li>
@@ -86,11 +86,11 @@ With number of accesses/minutes in parentheses
 <li>chat.openai.com (1314)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1134)</li>
-<li>gmail.com (1126)</li>
+<li>gmail.com (1124)</li>
 <li>mail.rhul.ac.uk (983)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (840)</li>
-<li>feedly.com (832)</li>
+<li>feedly.com (830)</li>
 <li>forms.office.com (769)</li>
 <li>rhul.sharepoint.com (596)</li>
 <li>fritz.box (592)</li>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:55 moodle.royalholloway.ac.uk</li>
+<ul><li> 16:17 <a href="https://en.wikipedia.org/wiki/Great_and_Unfortunate_Things">Great and Unfortunate Things - Wikipedia</a></li>
+<li> 16:16 www.turnitin.com</li>
+<li> 16:16 duckduckgo.com</li>
+<li class='same'> 16:15 duckduckgo.com</li>
+<li> 16:13 <a href="https://en.wikipedia.org/wiki/Jason_Arday#Possible_implications_for_academia">Jason Arday - Wikipedia</a></li>
+<li> 16:13 <a href="https://en.wikipedia.org/wiki/Jason_Arday">Jason Arday - Wikipedia</a></li>
+<li> 16:13 <a href="https://en.wikipedia.org/wiki/Talk:Jason_Arday">Talk:Jason Arday - Wikipedia</a></li>
+<li> 16:08 www.reddit.com</li>
+<li class='same'> 16:07 www.reddit.com</li>
+<li class='same'> 16:05 www.reddit.com</li>
+<li class='same'> 16:04 www.reddit.com</li>
+<li class='same'> 16:03 www.reddit.com</li>
+<li class='same'> 16:00 www.reddit.com</li>
+<li class='same'> 15:59 www.reddit.com</li>
+<li> 15:55 moodle.royalholloway.ac.uk</li>
 <li class='same'> 15:54 moodle.royalholloway.ac.uk</li>
 <li> 15:41 fyp.cs.rhul.ac.uk</li>
 <li class='same'> 15:40 fyp.cs.rhul.ac.uk</li>
@@ -124128,16 +124142,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 12:25 outlook.office365.com</li>
-<li> 12:24 mail.google.com</li>
-<li> 12:24 gmail.com</li>
-<li> 12:24 mail.google.com</li>
-<li> 12:24 gmail.com</li>
-<li> 12:24 feedly.com</li>
-<li> 12:24 www.feedly.com</li>
-<li> 12:24 feedly.com</li>
-<li> 12:23 outlook.office365.com</li>
-<li class='same'> 12:22 outlook.office365.com</li>
-<li class='same'> 12:21 outlook.office365.com</li>
-<li class='same'> 12:19 outlook.office365.com</li>
-<li class='same'> 12:18 outlook.office365.com</li>
 </ul>
