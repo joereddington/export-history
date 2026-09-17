@@ -74,11 +74,11 @@ With number of accesses/minutes in parentheses
 <li>outlook.office365.com (4563)</li>
 <li>outlook.office.com (3929)</li>
 <li>duckduckgo.com (3919)</li>
-<li>docs.google.com (3290)</li>
-<li>chatgpt.com (2855)</li>
+<li>docs.google.com (3292)</li>
+<li>chatgpt.com (2856)</li>
 <li>www.linkedin.com (2354)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1775)</li>
+<li>www.facebook.com (1769)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1377)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (547)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (467)</li>
+<li>drive.google.com (468)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,20 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 17/09/26</H3>
+
+<br>
+
+<ul><li> 16:09 www.feynmanlectures.caltech.edu</li>
+<li> 16:09 chatgpt.com</li>
+<li> 16:08 www.ebay.co.uk</li>
+<li class='same'> 16:07 www.ebay.co.uk</li>
+<li> 16:06 www.feynmanlectures.caltech.edu</li>
+<li class='same'> 16:05 www.feynmanlectures.caltech.edu</li>
+<li class='same'> 16:04 www.feynmanlectures.caltech.edu</li>
+<li> 16:03 docs.google.com</li>
+<li class='same'> 16:02 docs.google.com</li>
+<li> 16:02 drive.google.com</li>
+</ul>
 
 <br>
 
@@ -124073,10 +124087,4 @@ With number of accesses/minutes in parentheses
 <li> 06:25 mail.rhul.ac.uk</li>
 <li> 06:24 www.facebook.com</li>
 <li class='same'> 06:23 www.facebook.com</li>
-<li class='same'> 06:20 www.facebook.com</li>
-<li class='same'> 06:19 www.facebook.com</li>
-<li class='same'> 06:18 www.facebook.com</li>
-<li class='same'> 06:17 www.facebook.com</li>
-<li class='same'> 06:16 www.facebook.com</li>
-<li class='same'> 06:15 www.facebook.com</li>
 </ul>
