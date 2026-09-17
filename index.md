@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5294)</li>
-<li>www.google.com (5187)</li>
-<li>www.reddit.com (5174)</li>
+<ol><li>mail.google.com (5296)</li>
+<li>www.google.com (5180)</li>
+<li>www.reddit.com (5173)</li>
 <li>outlook.office365.com (4571)</li>
-<li>outlook.office.com (3930)</li>
+<li>outlook.office.com (3929)</li>
 <li>duckduckgo.com (3916)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2841)</li>
-<li>www.linkedin.com (2356)</li>
+<li>chatgpt.com (2848)</li>
+<li>www.linkedin.com (2355)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1790)</li>
+<li>www.facebook.com (1793)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>calendar.google.com (1556)</li>
+<li>calendar.google.com (1557)</li>
 <li>login.microsoftonline.com (1373)</li>
 <li>www.amazon.co.uk (1331)</li>
-<li>chat.openai.com (1315)</li>
+<li>chat.openai.com (1314)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1134)</li>
-<li>gmail.com (1125)</li>
+<li>web.whatsapp.com (1133)</li>
+<li>gmail.com (1126)</li>
 <li>mail.rhul.ac.uk (983)</li>
 <li>tvtropes.org (881)</li>
-<li>rhul-my.sharepoint.com (839)</li>
+<li>rhul-my.sharepoint.com (835)</li>
 <li>feedly.com (834)</li>
 <li>forms.office.com (769)</li>
-<li>rhul.sharepoint.com (594)</li>
+<li>rhul.sharepoint.com (593)</li>
 <li>fritz.box (592)</li>
 <li>www.theguardian.com (549)</li>
 <li>m365.cloud.microsoft (543)</li>
@@ -108,7 +108,31 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:21 <a href="https://joereddington.com/2026/09/15/promotion.html">Promotion | Joe Reddington</a></li>
+<ul><li> 10:49 chatgpt.com</li>
+<li class='same'> 10:48 chatgpt.com</li>
+<li> 10:47 www.lutonjudo.co.uk</li>
+<li> 10:47 chatgpt.com</li>
+<li class='same'> 10:45 chatgpt.com</li>
+<li> 10:45 calendar.google.com</li>
+<li> 10:40 chatgpt.com</li>
+<li> 10:40 chat.openai.com</li>
+<li> 10:39 www.goodreads.com</li>
+<li class='same'> 10:38 www.goodreads.com</li>
+<li class='same'> 10:37 www.goodreads.com</li>
+<li> 10:37 <a href="https://joereddington.com/2026/09/15/promotion.html">Promotion | Joe Reddington</a></li>
+<li> 10:36 chatgpt.com</li>
+<li class='same'> 10:35 chatgpt.com</li>
+<li> 10:34 mail.google.com</li>
+<li class='same'> 10:33 mail.google.com</li>
+<li class='same'> 10:32 mail.google.com</li>
+<li> 10:32 gmail.com</li>
+<li> 10:32 www.facebook.com</li>
+<li class='same'> 10:31 www.facebook.com</li>
+<li> 10:30 chatgpt.com</li>
+<li> 10:30 www.facebook.com</li>
+<li> 10:30 facebook.com</li>
+<li> 10:29 chatgpt.com</li>
+<li> 10:21 <a href="https://joereddington.com/2026/09/15/promotion.html">Promotion | Joe Reddington</a></li>
 <li> 10:21 <a href="https://joereddington.com/assets/promotion%20application.docx">promotion application(1).docx</a></li>
 <li> 10:21 <a href="https://joereddington.com/2026/09/15/promotion.html">Promotion | Joe Reddington</a></li>
 <li> 10:21 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
@@ -124165,39 +124189,4 @@ With number of accesses/minutes in parentheses
 <ul><li class='same'> 15:55 www.facebook.com</li>
 <li> 15:54 historicengland.org.uk</li>
 <li class='same'> 15:53 historicengland.org.uk</li>
-<li> 15:53 www.google.com</li>
-<li> 15:53 rhul.sharepoint.com</li>
-<li> 15:51 outlook.office.com</li>
-<li> 15:51 www.royalholloway.ac.uk</li>
-<li class='same'> 15:50 www.royalholloway.ac.uk</li>
-<li> 15:50 www.google.com</li>
-<li> 15:49 www.london.ac.uk</li>
-<li> 15:47 royalhollowayucu.wordpress.com</li>
-<li> 15:46 intranet.royalholloway.ac.uk</li>
-<li> 15:45 www.google.com</li>
-<li> 15:24 www.reddit.com</li>
-<li> 15:23 www.google.com</li>
-<li> 15:20 www.business-reporter.co.uk</li>
-<li> 15:07 www.google.com</li>
-<li> 15:05 www.indeed.com</li>
-<li> 15:05 www.google.com</li>
-<li> 14:54 rhul-my.sharepoint.com</li>
-<li> 14:53 www.hornetsecurity.com</li>
-<li> 14:50 www.edureka.co</li>
-<li> 14:49 www.hornetsecurity.com</li>
-<li> 14:48 hbr.org</li>
-<li> 14:48 www.google.com</li>
-<li> 14:37 rhul-my.sharepoint.com</li>
-<li class='same'> 14:26 rhul-my.sharepoint.com</li>
-<li> 14:25 chatgpt.com</li>
-<li> 14:25 chat.openai.com</li>
-<li> 14:23 rhul-my.sharepoint.com</li>
-<li> 14:22 chatgpt.com</li>
-<li> 14:22 chat.openai.com</li>
-<li> 14:22 mail.google.com</li>
-<li> 14:21 www.linkedin.com</li>
-<li> 14:19 www.ebay.co.uk</li>
-<li class='same'> 14:18 www.ebay.co.uk</li>
-<li> 14:17 web.whatsapp.com</li>
-<li> 14:17 x.com</li>
 </ul>
