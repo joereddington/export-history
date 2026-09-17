@@ -69,32 +69,32 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5301)</li>
-<li>www.google.com (5177)</li>
-<li>www.reddit.com (5173)</li>
-<li>outlook.office365.com (4570)</li>
+<li>www.google.com (5173)</li>
+<li>www.reddit.com (5171)</li>
+<li>outlook.office365.com (4567)</li>
 <li>outlook.office.com (3929)</li>
 <li>duckduckgo.com (3918)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2850)</li>
 <li>www.linkedin.com (2355)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1786)</li>
+<li>www.facebook.com (1780)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>calendar.google.com (1557)</li>
-<li>login.microsoftonline.com (1373)</li>
+<li>login.microsoftonline.com (1374)</li>
 <li>www.amazon.co.uk (1331)</li>
 <li>chat.openai.com (1315)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1133)</li>
 <li>gmail.com (1127)</li>
-<li>mail.rhul.ac.uk (982)</li>
-<li>tvtropes.org (881)</li>
+<li>mail.rhul.ac.uk (980)</li>
+<li>tvtropes.org (880)</li>
 <li>rhul-my.sharepoint.com (835)</li>
-<li>feedly.com (834)</li>
-<li>forms.office.com (769)</li>
+<li>feedly.com (833)</li>
+<li>forms.office.com (767)</li>
 <li>rhul.sharepoint.com (593)</li>
 <li>fritz.box (593)</li>
-<li>www.theguardian.com (549)</li>
+<li>www.theguardian.com (548)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (467)</li>
@@ -109,7 +109,8 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 11:53 mail.google.com</li>
-<li class='same'> 11:49 mail.google.com</li>
+<li> 11:53 accounts.google.com</li>
+<li> 11:49 mail.google.com</li>
 <li> 11:49 192.168.178.1</li>
 <li class='same'> 11:48 192.168.178.1</li>
 <li> 11:48 fritz.box</li>
@@ -189,6 +190,7 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:15 127.0.0.1:8000</li>
 <li class='same'> 09:14 127.0.0.1:8000</li>
 <li class='same'> 09:13 127.0.0.1:8000</li>
+<li> 08:57 fast.com</li>
 </ul>
 
 <br>
@@ -318,6 +320,8 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 12:44 rhul.sharepoint.com</li>
 <li> 12:43 fast.com</li>
+<li class='same'> 12:35 fast.com</li>
+<li> 12:35 login.microsoftonline.com</li>
 <li> 12:15 192.168.178.1</li>
 <li class='same'> 12:14 192.168.178.1</li>
 <li class='same'> 12:09 192.168.178.1</li>
@@ -124118,63 +124122,4 @@ With number of accesses/minutes in parentheses
 <li> 21:29 <a href="https://www.youtube.com/shorts/3We2SeyV9JM">(63) YouTube</a></li>
 <li> 21:29 <a href="https://www.youtube.com/shorts/9b8CRWYN6Sg">(63) How to best unclog a water heater tank with a sediment buster #waterheater #diyhomemaintenance - YouTube</a></li>
 <li> 21:28 <a href="https://www.youtube.com/shorts/SQef24UNeNk">(63) Dr. House won’t criticize her for choosing to be pretty, House respects everyone’s choices #movie - YouTube</a></li>
-<li> 21:27 <a href="https://www.youtube.com/shorts/c_8FFhcONu0">(63) YouTube</a></li>
-<li> 21:27 <a href="https://www.youtube.com/shorts/0NtPZS5anL0">(63) Making an Ash and Oak handle for a double bit axe head #ireland #axe #handtools #woodwork - YouTube</a></li>
-<li> 21:27 <a href="https://www.youtube.com/shorts/QkN4tYjz-a4">(63) Could You Make It Across? 😮‍💨 - YouTube</a></li>
-<li> 21:27 <a href="https://www.youtube.com/shorts/gZx39cFOCLs">(63) Best News Since Lapu#friends - YouTube</a></li>
-<li> 21:26 <a href="https://www.youtube.com/shorts/_2KCzBMz1R0">(63) Marketing genius explains the doorman fallacy - YouTube</a></li>
-<li> 21:26 <a href="https://www.youtube.com/shorts/gZx39cFOCLs">(63) Best News Since Lapu#friends - YouTube</a></li>
-<li> 21:26 <a href="https://www.youtube.com/shorts/_2KCzBMz1R0">(63) Marketing genius explains the doorman fallacy - YouTube</a></li>
-<li> 21:26 <a href="https://www.youtube.com/shorts/D5qsRZ8BP4g">(63) YouTube</a></li>
-<li> 21:26 <a href="https://www.youtube.com/shorts/Eh2nxTqK9qQ">(63) Pouring mercury into liquid nitrogen - YouTube</a></li>
-<li> 21:25 <a href="https://www.youtube.com/shorts/1ZvayXSZe-o">(63) He Wanted one Chance an He Got It ‼️🔥🔥‼️ - YouTube</a></li>
-<li> 21:24 <a href="https://www.youtube.com/shorts/Ce80qx_cAJI">(63) The Big Bang Theory | Sheldon: Fine, What Do You Want Me To Do? #shorts #thebigbangtheory - YouTube</a></li>
-<li> 21:24 <a href="https://www.youtube.com/shorts/mY2bDFJ_iA4">(63) Making crab apple jam #crabapple #jam #nature #trees #jam #jelly - YouTube</a></li>
-<li> 21:24 <a href="https://www.youtube.com/shorts/_VKgUXFyTmU">(63) YouTube</a></li>
-<li> 21:24 <a href="https://www.youtube.com/shorts/INU9vS6s4mA">(63) The first meeting of Batman and Superman...😨 - YouTube</a></li>
-<li> 21:24 <a href="https://www.youtube.com/shorts/UM95YsYF9Pk">(63) Elon musk to his haters #elonmusk #funny #funnyvideo #funnyshorts - YouTube</a></li>
-<li> 21:24 <a href="https://www.youtube.com/shorts/UM95YsYF9Pk?si=AO8-T1u2GUoVRRSI&amp;themeRefresh=1">Elon musk to his haters #elonmusk #funny #funnyvideo #funnyshorts - YouTube</a></li>
-<li> 21:24 <a href="https://www.youtube.com/shorts/UM95YsYF9Pk?si=AO8-T1u2GUoVRRSI">Elon musk to his haters #elonmusk #funny #funnyvideo #funnyshorts - YouTube</a></li>
-<li> 21:15 www.reddit.com</li>
-<li> 21:14 feedly.com</li>
-<li> 21:14 <a href="https://en.wikipedia.org/wiki/Jeffrey_Weissman">Jeffrey Weissman - Wikipedia</a></li>
-<li> 21:12 <a href="https://en.wikipedia.org/wiki/Crispin_Glover">Crispin Glover - Wikipedia</a></li>
-<li> 21:08 www.reddit.com</li>
-<li> 21:08 www.google.com</li>
-<li> 21:07 tvtropes.org</li>
-<li> 21:07 www.google.com</li>
-<li> 21:06 www.facebook.com</li>
-<li class='same'> 21:05 www.facebook.com</li>
-<li class='same'> 21:04 www.facebook.com</li>
-<li class='same'> 21:03 www.facebook.com</li>
-<li class='same'> 21:02 www.facebook.com</li>
-<li class='same'> 21:01 www.facebook.com</li>
-<li> 21:01 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 20:54 www.google.com</li>
-<li> 20:54 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 20:54 experience.elluciancloud.ie</li>
-<li> 20:46 forms.office.com</li>
-<li class='same'> 20:45 forms.office.com</li>
-<li> 20:41 www.natesilver.net</li>
-<li> 20:41 outlook.office365.com</li>
-<li> 20:41 mail.rhul.ac.uk</li>
-<li> 20:31 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 20:31 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 20:31 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 20:30 experience.elluciancloud.ie</li>
-<li> 20:30 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 20:30 experience.elluciancloud.ie</li>
-<li> 20:30 outlook.office365.com</li>
-<li class='same'> 20:28 outlook.office365.com</li>
-<li> 20:28 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 19:54 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 19:10 www.theguardian.com</li>
 </ul>
