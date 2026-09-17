@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5293)</li>
 <li>www.google.com (5191)</li>
-<li>www.reddit.com (5180)</li>
+<li>www.reddit.com (5177)</li>
 <li>outlook.office365.com (4577)</li>
 <li>outlook.office.com (3931)</li>
 <li>duckduckgo.com (3916)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (2834)</li>
 <li>www.linkedin.com (2358)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1786)</li>
+<li>www.facebook.com (1790)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>calendar.google.com (1551)</li>
 <li>login.microsoftonline.com (1375)</li>
@@ -90,7 +90,7 @@ With number of accesses/minutes in parentheses
 <li>mail.rhul.ac.uk (983)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (840)</li>
-<li>feedly.com (830)</li>
+<li>feedly.com (834)</li>
 <li>forms.office.com (769)</li>
 <li>rhul.sharepoint.com (596)</li>
 <li>fritz.box (592)</li>
@@ -108,7 +108,23 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:57 calendar.google.com</li>
+<ul><li> 19:42 www.giantitp.com</li>
+<li> 19:41 www.eventbrite.co.uk</li>
+<li class='same'> 19:40 www.eventbrite.co.uk</li>
+<li> 19:40 feedly.com</li>
+<li class='same'> 19:39 feedly.com</li>
+<li class='same'> 19:37 feedly.com</li>
+<li class='same'> 19:35 feedly.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:17 www.facebook.com</li>
+<li class='same'> 18:16 www.facebook.com</li>
+<li class='same'> 18:14 www.facebook.com</li>
+<li class='same'> 18:13 www.facebook.com</li>
+<li> 18:13 facebook.com</li>
+<li> 17:57 calendar.google.com</li>
 <li> 17:57 www.eventbrite.co.uk</li>
 <li> 17:56 www.kkts-textilestudio.co.uk</li>
 <li> 17:55 chatgpt.com</li>
@@ -124166,7 +124182,4 @@ With number of accesses/minutes in parentheses
 <li> 13:23 www.reddit.com</li>
 <li class='same'> 13:22 www.reddit.com</li>
 <li class='same'> 13:21 www.reddit.com</li>
-<li class='same'> 13:20 www.reddit.com</li>
-<li class='same'> 13:19 www.reddit.com</li>
-<li class='same'> 13:18 www.reddit.com</li>
 </ul>
