@@ -69,30 +69,30 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5311)</li>
-<li>www.google.com (5175)</li>
-<li>www.reddit.com (5166)</li>
-<li>outlook.office365.com (4563)</li>
+<li>www.google.com (5174)</li>
+<li>www.reddit.com (5164)</li>
+<li>outlook.office365.com (4562)</li>
 <li>outlook.office.com (3929)</li>
-<li>duckduckgo.com (3919)</li>
+<li>duckduckgo.com (3922)</li>
 <li>docs.google.com (3292)</li>
-<li>chatgpt.com (2856)</li>
+<li>chatgpt.com (2857)</li>
 <li>www.linkedin.com (2354)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1771)</li>
+<li>www.facebook.com (1769)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1377)</li>
-<li>www.amazon.co.uk (1332)</li>
-<li>chat.openai.com (1318)</li>
+<li>www.amazon.co.uk (1334)</li>
+<li>chat.openai.com (1319)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1133)</li>
 <li>gmail.com (1128)</li>
-<li>mail.rhul.ac.uk (979)</li>
+<li>mail.rhul.ac.uk (978)</li>
 <li>tvtropes.org (880)</li>
 <li>rhul-my.sharepoint.com (835)</li>
 <li>feedly.com (833)</li>
 <li>forms.office.com (765)</li>
-<li>fritz.box (595)</li>
+<li>fritz.box (596)</li>
 <li>rhul.sharepoint.com (593)</li>
 <li>www.theguardian.com (547)</li>
 <li>m365.cloud.microsoft (543)</li>
@@ -108,7 +108,16 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:02 learningonscreen.ac.uk</li>
+<ul><li> 17:49 www.amazon.co.uk</li>
+<li class='same'> 17:48 www.amazon.co.uk</li>
+<li> 17:46 chatgpt.com</li>
+<li> 17:46 chat.openai.com</li>
+<li> 17:33 learningonscreen.ac.uk</li>
+<li> 17:32 duckduckgo.com</li>
+<li> 17:32 fritz.box</li>
+<li> 17:32 duckduckgo.com</li>
+<li class='same'> 17:31 duckduckgo.com</li>
+<li> 17:02 learningonscreen.ac.uk</li>
 <li class='same'> 17:01 learningonscreen.ac.uk</li>
 <li> 17:01 login.learningonscreen.ac.uk</li>
 <li> 17:01 learningonscreen.ac.uk</li>
@@ -124095,14 +124104,4 @@ With number of accesses/minutes in parentheses
 <li> 06:46 www.reddit.com</li>
 <li class='same'> 06:44 www.reddit.com</li>
 <li class='same'> 06:42 www.reddit.com</li>
-<li class='same'> 06:41 www.reddit.com</li>
-<li class='same'> 06:39 www.reddit.com</li>
-<li> 06:39 www.google.com</li>
-<li> 06:28 www.giantitp.com</li>
-<li class='same'> 06:26 www.giantitp.com</li>
-<li class='same'> 06:25 www.giantitp.com</li>
-<li> 06:25 outlook.office365.com</li>
-<li> 06:25 mail.rhul.ac.uk</li>
-<li> 06:24 www.facebook.com</li>
-<li class='same'> 06:23 www.facebook.com</li>
 </ul>
