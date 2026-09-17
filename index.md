@@ -70,10 +70,10 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5311)</li>
 <li>www.google.com (5172)</li>
-<li>www.reddit.com (5157)</li>
+<li>www.reddit.com (5154)</li>
 <li>outlook.office365.com (4562)</li>
 <li>outlook.office.com (3929)</li>
-<li>duckduckgo.com (3922)</li>
+<li>duckduckgo.com (3924)</li>
 <li>docs.google.com (3292)</li>
 <li>chatgpt.com (2857)</li>
 <li>www.linkedin.com (2354)</li>
@@ -105,6 +105,19 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 17/09/26</H3>
+
+<br>
+
+<ul><li> 19:12 xml-v4.dataverixa.com</li>
+<li> 19:12 amrox.org</li>
+<li> 19:12 xml-v4.dataverixa.com</li>
+<li> 19:12 www.okdelike.click</li>
+<li> 19:11 jk.alisonself.com</li>
+<li> 19:11 duckduckgo.com</li>
+<li class='same'> 19:10 duckduckgo.com</li>
+<li> 18:46 <a href="https://en.wikipedia.org/wiki/Partitions_of_Poland#Fourth_Partition">Partitions of Poland - Wikipedia</a></li>
+<li> 18:46 <a href="https://en.wikipedia.org/wiki/Partitions_of_Poland#">Partitions of Poland - Wikipedia</a></li>
+</ul>
 
 <br>
 
@@ -147,6 +160,9 @@ With number of accesses/minutes in parentheses
 <li> 16:03 docs.google.com</li>
 <li class='same'> 16:02 docs.google.com</li>
 <li> 16:02 drive.google.com</li>
+<li> 15:40 <a href="https://en.wikipedia.org/wiki/Partitions_of_Poland#Fourth_Partition">Partitions of Poland - Wikipedia</a></li>
+<li> 15:40 <a href="https://en.wikipedia.org/wiki/Partitions_of_Poland#">Partitions of Poland - Wikipedia</a></li>
+<li> 15:40 <a href="https://en.wikipedia.org/wiki/Fourth_Partition_of_Poland">Soviet invasion of Poland - Wikipedia</a></li>
 </ul>
 
 <br>
@@ -162,6 +178,8 @@ With number of accesses/minutes in parentheses
 <li> 14:40 duckduckgo.com</li>
 <li> 14:38 chatgpt.com</li>
 <li> 14:38 chat.openai.com</li>
+<li> 14:35 <a href="https://en.wikipedia.org/wiki/Soviet_invasion_of_Poland">Wikipedia, the free encyclopedia</a></li>
+<li> 14:34 <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia, the free encyclopedia</a></li>
 </ul>
 
 <br>
@@ -124091,7 +124109,4 @@ With number of accesses/minutes in parentheses
 <li> 07:17 www.google.com</li>
 <li> 07:16 www.reddit.com</li>
 <li class='same'> 07:15 www.reddit.com</li>
-<li class='same'> 07:14 www.reddit.com</li>
-<li class='same'> 07:13 www.reddit.com</li>
-<li class='same'> 06:57 www.reddit.com</li>
 </ul>
