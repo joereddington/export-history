@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5293)</li>
-<li>www.google.com (5190)</li>
+<ol><li>mail.google.com (5294)</li>
+<li>www.google.com (5187)</li>
 <li>www.reddit.com (5174)</li>
-<li>outlook.office365.com (4577)</li>
-<li>outlook.office.com (3931)</li>
+<li>outlook.office365.com (4571)</li>
+<li>outlook.office.com (3930)</li>
 <li>duckduckgo.com (3916)</li>
-<li>docs.google.com (3289)</li>
-<li>chatgpt.com (2834)</li>
-<li>www.linkedin.com (2357)</li>
+<li>docs.google.com (3290)</li>
+<li>chatgpt.com (2841)</li>
+<li>www.linkedin.com (2356)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1790)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>calendar.google.com (1552)</li>
+<li>calendar.google.com (1556)</li>
 <li>login.microsoftonline.com (1373)</li>
 <li>www.amazon.co.uk (1331)</li>
 <li>chat.openai.com (1315)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1134)</li>
-<li>gmail.com (1124)</li>
+<li>gmail.com (1125)</li>
 <li>mail.rhul.ac.uk (983)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (839)</li>
@@ -94,7 +94,7 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (769)</li>
 <li>rhul.sharepoint.com (594)</li>
 <li>fritz.box (592)</li>
-<li>www.theguardian.com (550)</li>
+<li>www.theguardian.com (549)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (467)</li>
@@ -105,6 +105,41 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 17/09/26</H3>
+
+<br>
+
+<ul><li> 10:21 <a href="https://joereddington.com/2026/09/15/promotion.html">Promotion | Joe Reddington</a></li>
+<li> 10:21 <a href="https://joereddington.com/assets/promotion%20application.docx">promotion application(1).docx</a></li>
+<li> 10:21 <a href="https://joereddington.com/2026/09/15/promotion.html">Promotion | Joe Reddington</a></li>
+<li> 10:21 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 10:21 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
+<li> 10:20 docs.google.com</li>
+<li> 10:20 libbyapp.com</li>
+<li> 10:20 chatgpt.com</li>
+<li class='same'> 10:19 chatgpt.com</li>
+<li> 10:18 calendar.google.com</li>
+<li> 10:18 mail.google.com</li>
+<li> 10:18 gmail.com</li>
+<li> 10:18 chatgpt.com</li>
+<li class='same'> 10:17 chatgpt.com</li>
+<li> 10:17 musoublack.co.uk</li>
+<li> 10:17 www.paypal.com</li>
+<li class='same'> 10:16 www.paypal.com</li>
+<li> 10:16 musoublack.co.uk</li>
+<li> 10:16 shop.app</li>
+<li> 10:14 chatgpt.com</li>
+<li> 10:13 shop.app</li>
+<li> 10:13 musoublack.co.uk</li>
+<li> 10:13 chatgpt.com</li>
+<li> 10:09 127.0.0.1:4000</li>
+<li> 10:08 chatgpt.com</li>
+<li> 10:08 calendar.google.com</li>
+<li> 10:07 www.thenec.co.uk</li>
+<li> 10:06 calendar.google.com</li>
+<li class='same'> 10:05 calendar.google.com</li>
+<li> 10:04 www.thenec.co.uk</li>
+<li> 10:03 <a href="https://joereddington.com/export-history/">Joe’s Public Internet history | Joe’s Public Internet History</a></li>
+</ul>
 
 <br>
 
@@ -124165,19 +124200,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 14:18 www.ebay.co.uk</li>
 <li> 14:17 web.whatsapp.com</li>
 <li> 14:17 x.com</li>
-<li> 14:17 twitter.com</li>
-<li> 14:17 www.google.com</li>
-<li> 14:15 www.theguardian.com</li>
-<li> 14:14 www.linkedin.com</li>
-<li> 14:14 outlook.office365.com</li>
-<li class='same'> 14:13 outlook.office365.com</li>
-<li class='same'> 14:11 outlook.office365.com</li>
-<li> 14:10 www.google.com</li>
-<li> 14:10 cisse.info</li>
-<li> 14:08 outlook.office365.com</li>
-<li> 14:06 intranet.royalholloway.ac.uk</li>
-<li> 14:06 outlook.office.com</li>
-<li> 14:06 outlook.office365.com</li>
-<li> 14:05 www.google.com</li>
-<li> 14:05 outlook.office365.com</li>
 </ul>
