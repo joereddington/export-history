@@ -68,7 +68,7 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5310)</li>
+<ol><li>mail.google.com (5311)</li>
 <li>www.google.com (5175)</li>
 <li>www.reddit.com (5166)</li>
 <li>outlook.office365.com (4563)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (2856)</li>
 <li>www.linkedin.com (2354)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1769)</li>
+<li>www.facebook.com (1771)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1377)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 16:09 www.feynmanlectures.caltech.edu</li>
+<ul><li class='same'> 16:46 www.facebook.com</li>
+<li class='same'> 16:45 www.facebook.com</li>
+<li> 16:45 facebook.com</li>
+<li> 16:44 mail.google.com</li>
+<li> 16:32 www.feynmanlectures.caltech.edu</li>
+<li class='same'> 16:09 www.feynmanlectures.caltech.edu</li>
 <li> 16:09 chatgpt.com</li>
 <li> 16:08 www.ebay.co.uk</li>
 <li class='same'> 16:07 www.ebay.co.uk</li>
