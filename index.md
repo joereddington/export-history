@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5310)</li>
 <li>www.google.com (5175)</li>
-<li>www.reddit.com (5168)</li>
-<li>outlook.office365.com (4566)</li>
+<li>www.reddit.com (5166)</li>
+<li>outlook.office365.com (4563)</li>
 <li>outlook.office.com (3929)</li>
 <li>duckduckgo.com (3919)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2855)</li>
-<li>www.linkedin.com (2355)</li>
+<li>www.linkedin.com (2354)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1779)</li>
+<li>www.facebook.com (1775)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1377)</li>
@@ -91,7 +91,7 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (880)</li>
 <li>rhul-my.sharepoint.com (835)</li>
 <li>feedly.com (833)</li>
-<li>forms.office.com (766)</li>
+<li>forms.office.com (765)</li>
 <li>rhul.sharepoint.com (593)</li>
 <li>fritz.box (593)</li>
 <li>www.theguardian.com (547)</li>
@@ -124079,15 +124079,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:17 www.facebook.com</li>
 <li class='same'> 06:16 www.facebook.com</li>
 <li class='same'> 06:15 www.facebook.com</li>
-<li class='same'> 06:14 www.facebook.com</li>
-<li class='same'> 06:13 www.facebook.com</li>
-<li class='same'> 06:12 www.facebook.com</li>
-<li class='same'> 06:10 www.facebook.com</li>
-<li> 06:09 www.linkedin.com</li>
-<li> 06:07 www.reddit.com</li>
-<li class='same'> 06:03 www.reddit.com</li>
-<li> 06:03 outlook.office365.com</li>
-<li class='same'> 06:01 outlook.office365.com</li>
-<li class='same'> 06:00 outlook.office365.com</li>
-<li> 05:58 forms.office.com</li>
 </ul>
