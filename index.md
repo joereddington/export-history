@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5293)</li>
 <li>www.google.com (5190)</li>
-<li>www.reddit.com (5176)</li>
+<li>www.reddit.com (5174)</li>
 <li>outlook.office365.com (4577)</li>
 <li>outlook.office.com (3931)</li>
 <li>duckduckgo.com (3916)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>www.facebook.com (1790)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>calendar.google.com (1552)</li>
-<li>login.microsoftonline.com (1375)</li>
+<li>login.microsoftonline.com (1373)</li>
 <li>www.amazon.co.uk (1331)</li>
 <li>chat.openai.com (1315)</li>
 <li>herts.instructure.com (1231)</li>
@@ -89,12 +89,12 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1124)</li>
 <li>mail.rhul.ac.uk (983)</li>
 <li>tvtropes.org (881)</li>
-<li>rhul-my.sharepoint.com (840)</li>
+<li>rhul-my.sharepoint.com (839)</li>
 <li>feedly.com (834)</li>
 <li>forms.office.com (769)</li>
-<li>rhul.sharepoint.com (596)</li>
+<li>rhul.sharepoint.com (594)</li>
 <li>fritz.box (592)</li>
-<li>www.theguardian.com (551)</li>
+<li>www.theguardian.com (550)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (467)</li>
@@ -11809,8 +11809,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:30 www.zoom.com</li>
-<li> 19:30 us06web.zoom.us</li>
-<li class='same'> 19:25 us06web.zoom.us</li>
+<li> 19:25 us06web.zoom.us</li>
 <li> 19:11 www.google.com</li>
 <li class='same'> 19:10 www.google.com</li>
 </ul>
@@ -11833,8 +11832,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 16:18 www.linkedin.com</li>
 <li> 16:16 mail.google.com</li>
 <li> 16:15 www.swiftdirectblinds.co.uk</li>
-<li> 16:15 www.paypal.com</li>
-<li> 16:14 www.swiftdirectblinds.co.uk</li>
+<li class='same'> 16:14 www.swiftdirectblinds.co.uk</li>
 <li> 16:13 <a href="https://joereddington.com/2024/03/20/exploiting-electric-blinds.html">Exploiting electric blinds | Joe Reddington</a></li>
 <li> 16:13 www.swiftdirectblinds.co.uk</li>
 <li> 16:13 duckduckgo.com</li>
@@ -11854,8 +11852,6 @@ With number of accesses/minutes in parentheses
 <li> 15:18 chatgpt.com</li>
 <li> 15:17 www.linkedin.com</li>
 <li> 15:16 rhul-my.sharepoint.com</li>
-<li> 15:16 login.microsoftonline.com</li>
-<li> 15:16 rhul-my.sharepoint.com</li>
 <li> 15:15 calendar.google.com</li>
 <li> 15:14 www.linkedin.com</li>
 <li> 15:14 mail.google.com</li>
@@ -11873,11 +11869,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:27 chatgpt.com</li>
 <li> 12:25 intranet.royalholloway.ac.uk</li>
 <li> 12:21 login.optimizely.com</li>
-<li> 12:21 www.bsigroup.com</li>
 <li> 12:20 fast.com</li>
-<li> 12:19 rhul.sharepoint.com</li>
-<li class='same'> 12:17 rhul.sharepoint.com</li>
-<li> 12:17 login.microsoftonline.com</li>
 <li> 12:17 rhul.sharepoint.com</li>
 <li class='same'> 12:16 rhul.sharepoint.com</li>
 <li> 12:15 mail.google.com</li>
@@ -124188,11 +124180,4 @@ With number of accesses/minutes in parentheses
 <li> 14:06 outlook.office365.com</li>
 <li> 14:05 www.google.com</li>
 <li> 14:05 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:25 www.theguardian.com</li>
-<li> 13:23 www.reddit.com</li>
-<li class='same'> 13:22 www.reddit.com</li>
 </ul>
