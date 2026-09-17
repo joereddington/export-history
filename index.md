@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5296)</li>
+<ol><li>mail.google.com (5299)</li>
 <li>www.google.com (5180)</li>
 <li>www.reddit.com (5173)</li>
-<li>outlook.office365.com (4571)</li>
+<li>outlook.office365.com (4570)</li>
 <li>outlook.office.com (3929)</li>
-<li>duckduckgo.com (3916)</li>
+<li>duckduckgo.com (3918)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2848)</li>
+<li>chatgpt.com (2850)</li>
 <li>www.linkedin.com (2355)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1793)</li>
+<li>www.facebook.com (1791)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>calendar.google.com (1557)</li>
 <li>login.microsoftonline.com (1373)</li>
 <li>www.amazon.co.uk (1331)</li>
-<li>chat.openai.com (1314)</li>
+<li>chat.openai.com (1315)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1133)</li>
-<li>gmail.com (1126)</li>
-<li>mail.rhul.ac.uk (983)</li>
+<li>gmail.com (1127)</li>
+<li>mail.rhul.ac.uk (982)</li>
 <li>tvtropes.org (881)</li>
 <li>rhul-my.sharepoint.com (835)</li>
 <li>feedly.com (834)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:49 chatgpt.com</li>
+<ul><li> 11:29 mail.google.com</li>
+<li> 11:29 gmail.com</li>
+<li> 11:27 www.royalholloway.ac.uk</li>
+<li> 11:27 duckduckgo.com</li>
+<li> 11:25 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+<li> 11:24 chatgpt.com</li>
+<li class='same'> 11:23 chatgpt.com</li>
+<li> 11:23 chat.openai.com</li>
+<li> 11:21 mail.google.com</li>
+<li> 11:20 duckduckgo.com</li>
+<li> 11:19 mail.google.com</li>
+<li> 10:49 chatgpt.com</li>
 <li class='same'> 10:48 chatgpt.com</li>
 <li> 10:47 www.lutonjudo.co.uk</li>
 <li> 10:47 chatgpt.com</li>
@@ -124179,14 +124190,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 17:39 www.facebook.com</li>
 <li class='same'> 17:38 www.facebook.com</li>
 <li class='same'> 17:37 www.facebook.com</li>
-<li> 17:34 outlook.office365.com</li>
-<li> 17:34 mail.rhul.ac.uk</li>
-<li> 17:34 www.facebook.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 15:55 www.facebook.com</li>
-<li> 15:54 historicengland.org.uk</li>
-<li class='same'> 15:53 historicengland.org.uk</li>
 </ul>
