@@ -92,8 +92,8 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (835)</li>
 <li>feedly.com (833)</li>
 <li>forms.office.com (765)</li>
+<li>fritz.box (595)</li>
 <li>rhul.sharepoint.com (593)</li>
-<li>fritz.box (593)</li>
 <li>www.theguardian.com (547)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 16:46 www.facebook.com</li>
+<ul><li> 17:02 learningonscreen.ac.uk</li>
+<li class='same'> 17:01 learningonscreen.ac.uk</li>
+<li> 17:01 login.learningonscreen.ac.uk</li>
+<li> 17:01 learningonscreen.ac.uk</li>
+<li> 17:00 connect.openathens.net</li>
+<li> 17:00 login.openathens.net</li>
+<li> 17:00 connect.openathens.net</li>
+<li> 17:00 login.learningonscreen.ac.uk</li>
+<li> 17:00 connect.openathens.net</li>
+<li> 17:00 login.learningonscreen.ac.uk</li>
+<li> 17:00 learningonscreen.ac.uk</li>
+<li> 17:00 fritz.box</li>
+<li class='same'> 16:59 fritz.box</li>
+<li> 16:46 www.facebook.com</li>
 <li class='same'> 16:45 www.facebook.com</li>
 <li> 16:45 facebook.com</li>
 <li> 16:44 mail.google.com</li>
