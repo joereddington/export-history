@@ -69,18 +69,18 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5293)</li>
-<li>www.google.com (5191)</li>
-<li>www.reddit.com (5177)</li>
+<li>www.google.com (5190)</li>
+<li>www.reddit.com (5176)</li>
 <li>outlook.office365.com (4577)</li>
 <li>outlook.office.com (3931)</li>
 <li>duckduckgo.com (3916)</li>
 <li>docs.google.com (3289)</li>
 <li>chatgpt.com (2834)</li>
-<li>www.linkedin.com (2358)</li>
+<li>www.linkedin.com (2357)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1790)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>calendar.google.com (1551)</li>
+<li>calendar.google.com (1552)</li>
 <li>login.microsoftonline.com (1375)</li>
 <li>www.amazon.co.uk (1331)</li>
 <li>chat.openai.com (1315)</li>
@@ -104,7 +104,25 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Thursday, 17/09/26</H3>
+
+<br>
+
+<ul><li> 09:15 127.0.0.1:8000</li>
+<li class='same'> 09:14 127.0.0.1:8000</li>
+<li class='same'> 09:13 127.0.0.1:8000</li>
+</ul>
+
+<br>
+
+<ul><li> 00:00 calendar.google.com</li>
+</ul>
+
 <H3>Wednesday, 16/09/26</H3>
+
+<br>
+
+<ul></ul>
 
 <br>
 
@@ -11901,7 +11919,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:59 mail.google.com</li>
 <li> 09:58 online.unity.co.uk</li>
 <li class='same'> 09:56 online.unity.co.uk</li>
-<li> 09:50 mail-attachment.googleusercontent.com</li>
 <li> 09:50 mail.google.com</li>
 <li> 09:49 <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computer_security/Popular_pages">Wikipedia:WikiProject Computer security/Popular pages - Wikipedia</a></li>
 <li> 09:49 <a href="https://en.wikipedia.org/wiki/Talk:Hacker#Structure">Talk:Hacker - Wikipedia</a></li>
@@ -11961,12 +11978,10 @@ With number of accesses/minutes in parentheses
 <li> 09:22 oauth.virginmedia.com</li>
 <li> 09:22 mymobile2.o2.co.uk</li>
 <li> 09:22 oauth.virginmediao2.co.uk</li>
-<li> 09:22 oauth.virginmedia.com</li>
 <li> 09:22 mymobile2.o2.co.uk</li>
 <li> 09:22 identity.o2.co.uk</li>
 <li> 09:22 accounts.o2.co.uk</li>
 <li> 09:22 auth.virginmediao2.co.uk</li>
-<li> 09:22 www.google.com</li>
 <li> 09:22 mail.google.com</li>
 <li> 09:21 oauth.virginmediao2.co.uk</li>
 <li> 09:21 identity.o2.co.uk</li>
@@ -11979,7 +11994,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:19 www.linkedin.com</li>
 <li> 09:19 mail.google.com</li>
 <li> 09:19 www.linkedin.com</li>
-<li class='same'> 09:16 www.linkedin.com</li>
 <li class='same'> 09:15 www.linkedin.com</li>
 <li> 09:14 online.unity.co.uk</li>
 </ul>
@@ -124181,5 +124195,4 @@ With number of accesses/minutes in parentheses
 <ul><li> 13:25 www.theguardian.com</li>
 <li> 13:23 www.reddit.com</li>
 <li class='same'> 13:22 www.reddit.com</li>
-<li class='same'> 13:21 www.reddit.com</li>
 </ul>
