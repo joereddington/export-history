@@ -68,33 +68,33 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5309)</li>
-<li>www.google.com (5176)</li>
-<li>www.reddit.com (5171)</li>
-<li>outlook.office365.com (4567)</li>
+<ol><li>mail.google.com (5310)</li>
+<li>www.google.com (5175)</li>
+<li>www.reddit.com (5168)</li>
+<li>outlook.office365.com (4566)</li>
 <li>outlook.office.com (3929)</li>
-<li>duckduckgo.com (3918)</li>
+<li>duckduckgo.com (3919)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2853)</li>
+<li>chatgpt.com (2855)</li>
 <li>www.linkedin.com (2355)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1780)</li>
+<li>www.facebook.com (1779)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>calendar.google.com (1565)</li>
+<li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1377)</li>
 <li>www.amazon.co.uk (1332)</li>
-<li>chat.openai.com (1316)</li>
+<li>chat.openai.com (1318)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1133)</li>
 <li>gmail.com (1128)</li>
-<li>mail.rhul.ac.uk (980)</li>
+<li>mail.rhul.ac.uk (979)</li>
 <li>tvtropes.org (880)</li>
 <li>rhul-my.sharepoint.com (835)</li>
 <li>feedly.com (833)</li>
-<li>forms.office.com (767)</li>
+<li>forms.office.com (766)</li>
 <li>rhul.sharepoint.com (593)</li>
 <li>fritz.box (593)</li>
-<li>www.theguardian.com (548)</li>
+<li>www.theguardian.com (547)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (467)</li>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Thursday, 17/09/26</H3>
+
+<br>
+
+<ul><li> 14:47 chatgpt.com</li>
+<li> 14:47 chat.openai.com</li>
+<li> 14:45 www.google.co.uk</li>
+<li class='same'> 14:44 www.google.co.uk</li>
+<li class='same'> 14:43 www.google.co.uk</li>
+<li> 14:42 mail.google.com</li>
+<li> 14:42 www.google.co.uk</li>
+<li> 14:40 <a href="https://en.wikipedia.org/wiki/Kyiv">Kyiv - Wikipedia</a></li>
+<li> 14:40 duckduckgo.com</li>
+<li> 14:38 chatgpt.com</li>
+<li> 14:38 chat.openai.com</li>
+</ul>
 
 <br>
 
@@ -124075,48 +124090,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 06:01 outlook.office365.com</li>
 <li class='same'> 06:00 outlook.office365.com</li>
 <li> 05:58 forms.office.com</li>
-<li> 05:58 adblockplus.org</li>
-<li> 05:58 forms.office.com</li>
-<li> 05:57 outlook.office365.com</li>
-<li> 05:57 mail.rhul.ac.uk</li>
-<li> 05:56 www.facebook.com</li>
-<li> 05:54 <a href="https://en.wikipedia.org/wiki/Roger_Michell">Roger Michell - Wikipedia</a></li>
-<li> 05:53 <a href="https://en.wikipedia.org/wiki/Anna_Maxwell_Martin">Anna Maxwell Martin - Wikipedia</a></li>
-<li> 05:53 <a href="https://en.wikipedia.org/wiki/Ludwig_(TV_series)">Ludwig (TV series) - Wikipedia</a></li>
-<li> 05:52 www.google.com</li>
-<li> 05:52 calendar.google.com</li>
-<li> 05:52 www.theguardian.com</li>
-<li> 05:49 www.reddit.com</li>
-<li class='same'> 05:48 www.reddit.com</li>
-<li class='same'> 05:47 www.reddit.com</li>
-</ul>
-
-<H3>Wednesday, 23/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li> 21:52 <a href="https://www.youtube.com/shorts/ym3zIiZxQaI">(63) YouTube</a></li>
-<li> 21:52 <a href="https://www.youtube.com/shorts/7v4lh5Q8xDQ">(63) Pod disturbed Bronn at his great moment - YouTube</a></li>
-<li> 21:52 <a href="https://www.youtube.com/shorts/YqTQIhoEqUU">(63) Remember when @nike #tigerwoods #rorymcllroy #golf #fyp #golfing #golfer #foryou #pga #golfgame - YouTube</a></li>
-<li> 21:52 <a href="https://www.youtube.com/shorts/aqMXcmdkxts">(63) Superman solves the battle with a single move #shorts #justiceleague #fantasy #movie - YouTube</a></li>
-<li> 21:51 <a href="https://www.youtube.com/shorts/ycBOBgo3QSo">(63) Kind Of Obvious || Spider-Man: Far From Home #spiderman - YouTube</a></li>
-<li> 21:51 <a href="https://www.youtube.com/shorts/eBBPjHXigv0">(63) YouTube</a></li>
-<li> 21:51 <a href="https://www.youtube.com/shorts/IY15ofgBkWQ">(63) @werner_bronkhorst #art #artist #painting #painter #acrylicpainting #abstractart #realism #paint - YouTube</a></li>
-<li> 21:50 <a href="https://www.youtube.com/shorts/0_UEAk4BC4c">(63) Dr.House is only interested in the condition,not the patient #movie #shorts #video - YouTube</a></li>
-<li> 21:49 <a href="https://www.youtube.com/shorts/ym3zIiZxQaI">(63) YouTube</a></li>
-<li> 21:49 <a href="https://www.youtube.com/shorts/3bkrCU3EffY">(63) Checking the suspension in Citroen and BMW🚙🏎️ #car #bmw #citroen - YouTube</a></li>
-<li> 21:49 <a href="https://www.youtube.com/shorts/3aWjufXxBXg">(63) Concrete... Italians Put That S*** On Everything! - YouTube</a></li>
-<li> 21:48 <a href="https://www.youtube.com/shorts/RNU8OiV7rYo">(63) Pt.4b. &quot;Kill Bill&quot; 2003. Hit subscribe to my channel #ytchannel #ytsubscribers #ytshort #mustwatch - YouTube</a></li>
-<li> 21:48 <a href="https://www.youtube.com/shorts/F3mD-B-5lvA">(63) Dr. House knew it wasn’t smallpox, but the CDC came #movie #shorts #video - YouTube</a></li>
-<li> 21:48 <a href="https://www.youtube.com/shorts/-Xu-bc1TgNA">(82) YouTube</a></li>
-<li> 21:48 <a href="https://www.youtube.com/shorts/MjiDigQzNdA">(63) トリマーガイドによくある問題を解決する　#shorts - YouTube</a></li>
-<li> 21:48 <a href="https://www.youtube.com/shorts/pY_dNWp8Vrs">(63) Neil Patrick Harris - The Shining is the Scariest Movie - YouTube</a></li>
-<li> 21:48 <a href="https://www.youtube.com/shorts/elBGXnGogxk">(63) Anna Kendrick Got CONFUSED With British Accent | #shorts - YouTube</a></li>
-<li> 21:48 <a href="https://www.youtube.com/shorts/pY_dNWp8Vrs">(63) Neil Patrick Harris - The Shining is the Scariest Movie - YouTube</a></li>
-<li> 21:47 <a href="https://www.youtube.com/shorts/elBGXnGogxk">(63) Anna Kendrick Got CONFUSED With British Accent | #shorts - YouTube</a></li>
-<li> 21:47 <a href="https://www.youtube.com/shorts/vrc45K2ZU2o">(63) YouTube</a></li>
 </ul>
