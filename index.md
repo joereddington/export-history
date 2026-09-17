@@ -68,8 +68,8 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5299)</li>
-<li>www.google.com (5180)</li>
+<ol><li>mail.google.com (5301)</li>
+<li>www.google.com (5177)</li>
 <li>www.reddit.com (5173)</li>
 <li>outlook.office365.com (4570)</li>
 <li>outlook.office.com (3929)</li>
@@ -78,7 +78,7 @@ With number of accesses/minutes in parentheses
 <li>chatgpt.com (2850)</li>
 <li>www.linkedin.com (2355)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1791)</li>
+<li>www.facebook.com (1786)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>calendar.google.com (1557)</li>
 <li>login.microsoftonline.com (1373)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (834)</li>
 <li>forms.office.com (769)</li>
 <li>rhul.sharepoint.com (593)</li>
-<li>fritz.box (592)</li>
+<li>fritz.box (593)</li>
 <li>www.theguardian.com (549)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:29 mail.google.com</li>
+<ul><li> 11:53 mail.google.com</li>
+<li class='same'> 11:49 mail.google.com</li>
+<li> 11:49 192.168.178.1</li>
+<li class='same'> 11:48 192.168.178.1</li>
+<li> 11:48 fritz.box</li>
+<li> 11:48 firefox-portal-detection.com</li>
+<li> 11:30 gov.uk</li>
+<li> 11:30 www.google.com</li>
+<li> 11:29 mail.google.com</li>
 <li> 11:29 gmail.com</li>
 <li> 11:27 www.royalholloway.ac.uk</li>
 <li> 11:27 duckduckgo.com</li>
@@ -124169,25 +124177,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:10 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 18:37 www.google.com</li>
-<li> 18:33 www.buzzfeed.com</li>
-<li> 18:33 www.google.com</li>
-<li> 18:33 parade.com</li>
-<li class='same'> 18:32 parade.com</li>
-<li> 18:32 www.google.com</li>
-<li> 18:31 www.economist.com</li>
-<li> 18:22 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 17:42 www.facebook.com</li>
-<li class='same'> 17:41 www.facebook.com</li>
-<li class='same'> 17:39 www.facebook.com</li>
-<li class='same'> 17:38 www.facebook.com</li>
-<li class='same'> 17:37 www.facebook.com</li>
 </ul>
