@@ -70,13 +70,13 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5311)</li>
 <li>www.google.com (5172)</li>
-<li>www.reddit.com (5154)</li>
+<li>www.reddit.com (5153)</li>
 <li>outlook.office365.com (4562)</li>
 <li>outlook.office.com (3929)</li>
 <li>duckduckgo.com (3925)</li>
 <li>docs.google.com (3292)</li>
 <li>chatgpt.com (2857)</li>
-<li>www.linkedin.com (2354)</li>
+<li>www.linkedin.com (2353)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1769)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
@@ -11833,7 +11833,6 @@ With number of accesses/minutes in parentheses
 <li> 10:53 duckduckgo.com</li>
 <li> 10:52 web.archive.org</li>
 <li> 10:52 its.ntia.gov</li>
-<li> 10:52 www.its.bldrdoc.gov</li>
 <li> 10:52 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere?target=Security+kernel&amp;namespace=0&amp;hidetrans=1&amp;limit=50">Pages that link to &quot;Security kernel&quot; - Wikipedia</a></li>
 <li> 10:52 <a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/Security_kernel">Pages that link to &quot;Security kernel&quot; - Wikipedia</a></li>
 <li> 10:51 <a href="https://en.wikipedia.org/wiki/Security_kernel">Security kernel - Wikipedia</a></li>
@@ -11853,7 +11852,6 @@ With number of accesses/minutes in parentheses
 <li> 10:34 <a href="https://joereddington.com/2023/02/28/bike.html">Exercise bike setup | Joe Reddington</a></li>
 <li> 10:34 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
 <li> 10:34 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 10:34 www.linkedin.com</li>
 <li> 10:34 pedalscape.com</li>
 <li> 10:34 www.linkedin.com</li>
 <li class='same'> 10:33 www.linkedin.com</li>
@@ -124132,5 +124130,4 @@ With number of accesses/minutes in parentheses
 <li> 07:17 www.ftc.gov</li>
 <li> 07:17 www.google.com</li>
 <li> 07:16 www.reddit.com</li>
-<li class='same'> 07:15 www.reddit.com</li>
 </ul>
