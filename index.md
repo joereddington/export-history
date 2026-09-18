@@ -69,7 +69,7 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5318)</li>
-<li>www.google.com (5177)</li>
+<li>www.google.com (5175)</li>
 <li>www.reddit.com (5151)</li>
 <li>outlook.office365.com (4562)</li>
 <li>outlook.office.com (3929)</li>
@@ -80,13 +80,13 @@ With number of accesses/minutes in parentheses
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1769)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>calendar.google.com (1566)</li>
+<li>calendar.google.com (1567)</li>
 <li>login.microsoftonline.com (1377)</li>
 <li>www.amazon.co.uk (1336)</li>
 <li>chat.openai.com (1321)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1132)</li>
-<li>gmail.com (1130)</li>
+<li>gmail.com (1131)</li>
 <li>mail.rhul.ac.uk (978)</li>
 <li>tvtropes.org (880)</li>
 <li>rhul-my.sharepoint.com (835)</li>
@@ -94,8 +94,8 @@ With number of accesses/minutes in parentheses
 <li>forms.office.com (765)</li>
 <li>fritz.box (596)</li>
 <li>rhul.sharepoint.com (593)</li>
-<li>www.theguardian.com (547)</li>
 <li>m365.cloud.microsoft (543)</li>
+<li>www.theguardian.com (541)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
 
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:27 kdpreports.amazon.com</li>
+<ul><li> 13:53 gmail.com</li>
+<li> 13:36 calendar.google.com</li>
+<li> 13:27 kdpreports.amazon.com</li>
 <li> 13:22 chatgpt.com</li>
 <li class='same'> 13:20 chatgpt.com</li>
 <li> 13:20 chat.openai.com</li>
@@ -11746,11 +11748,9 @@ With number of accesses/minutes in parentheses
 <li> 19:46 retconfestival.co.uk</li>
 <li> 19:32 www.google.co.uk</li>
 <li class='same'> 19:31 www.google.co.uk</li>
-<li class='same'> 19:30 www.google.co.uk</li>
 <li> 19:30 www.happycow.net</li>
 <li class='same'> 19:29 www.happycow.net</li>
-<li> 19:29 www.google.co.uk</li>
-<li class='same'> 19:28 www.google.co.uk</li>
+<li> 19:28 www.google.co.uk</li>
 <li> 19:28 duckduckgo.com</li>
 <li> 19:27 retconfestival.co.uk</li>
 <li class='same'> 19:26 retconfestival.co.uk</li>
@@ -124181,13 +124181,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 10:12 theconversation.com</li>
 <li> 10:11 www.theguardian.com</li>
 <li> 10:06 theconversation.com</li>
-<li> 10:06 www.theguardian.com</li>
-<li class='same'> 10:02 www.theguardian.com</li>
-<li class='same'> 10:00 www.theguardian.com</li>
-<li class='same'> 09:48 www.theguardian.com</li>
-<li> 09:46 gizmodo.com</li>
-<li> 09:45 www.theguardian.com</li>
-<li class='same'> 09:43 www.theguardian.com</li>
-<li> 09:42 www.google.com</li>
-<li class='same'> 09:41 www.google.com</li>
 </ul>
