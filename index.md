@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5315)</li>
-<li>www.google.com (5178)</li>
-<li>www.reddit.com (5158)</li>
+<ol><li>mail.google.com (5318)</li>
+<li>www.google.com (5177)</li>
+<li>www.reddit.com (5151)</li>
 <li>outlook.office365.com (4562)</li>
 <li>outlook.office.com (3929)</li>
-<li>duckduckgo.com (3926)</li>
-<li>docs.google.com (3295)</li>
-<li>chatgpt.com (2861)</li>
-<li>www.linkedin.com (2353)</li>
+<li>duckduckgo.com (3927)</li>
+<li>docs.google.com (3297)</li>
+<li>chatgpt.com (2866)</li>
+<li>www.linkedin.com (2351)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1769)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>calendar.google.com (1565)</li>
+<li>calendar.google.com (1566)</li>
 <li>login.microsoftonline.com (1377)</li>
 <li>www.amazon.co.uk (1336)</li>
-<li>chat.openai.com (1320)</li>
+<li>chat.openai.com (1321)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1133)</li>
-<li>gmail.com (1129)</li>
+<li>web.whatsapp.com (1132)</li>
+<li>gmail.com (1130)</li>
 <li>mail.rhul.ac.uk (978)</li>
 <li>tvtropes.org (880)</li>
 <li>rhul-my.sharepoint.com (835)</li>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:56 www.google.co.uk</li>
+<ul><li> 13:27 kdpreports.amazon.com</li>
+<li> 13:22 chatgpt.com</li>
+<li class='same'> 13:20 chatgpt.com</li>
+<li> 13:20 chat.openai.com</li>
+<li> 13:19 chatgpt.com</li>
+<li class='same'> 13:18 chatgpt.com</li>
+<li> 13:10 duckduckgo.com</li>
+<li> 13:10 chatgpt.com</li>
+<li> 13:03 calendar.google.com</li>
+<li> 13:03 mail.google.com</li>
+<li class='same'> 13:02 mail.google.com</li>
+<li class='same'> 13:01 mail.google.com</li>
+<li> 13:01 gmail.com</li>
+<li> 12:58 docs.google.com</li>
+<li class='same'> 12:56 docs.google.com</li>
+<li> 12:56 www.google.co.uk</li>
 <li class='same'> 12:55 www.google.co.uk</li>
 <li> 12:55 chatgpt.com</li>
 <li class='same'> 12:53 chatgpt.com</li>
@@ -11839,12 +11854,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:49 www.ebay.co.uk</li>
 <li class='same'> 11:48 www.ebay.co.uk</li>
 <li> 11:48 pay.ebay.co.uk</li>
-<li> 11:48 www.paypal.com</li>
-<li> 11:48 pay.ebay.co.uk</li>
-<li> 11:48 www.ebay.co.uk</li>
-<li> 11:48 pay.ebay.co.uk</li>
-<li> 11:48 www.ebay.co.uk</li>
-<li> 11:47 pay.ebay.co.uk</li>
+<li class='same'> 11:47 pay.ebay.co.uk</li>
 <li> 11:47 www.ebay.co.uk</li>
 <li> 11:47 pay.ebay.co.uk</li>
 <li> 11:46 accountsettings.ebay.co.uk</li>
@@ -124180,19 +124190,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:43 www.theguardian.com</li>
 <li> 09:42 www.google.com</li>
 <li class='same'> 09:41 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:32 web.whatsapp.com</li>
-<li> 07:31 www.reddit.com</li>
-<li class='same'> 07:29 www.reddit.com</li>
-<li> 07:28 www.google.com</li>
-<li> 07:28 www.linkedin.com</li>
-<li class='same'> 07:27 www.linkedin.com</li>
-<li> 07:26 www.reddit.com</li>
-<li class='same'> 07:25 www.reddit.com</li>
-<li class='same'> 07:24 www.reddit.com</li>
-<li class='same'> 07:23 www.reddit.com</li>
-<li class='same'> 07:22 www.reddit.com</li>
 </ul>
