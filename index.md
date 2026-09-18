@@ -73,14 +73,14 @@ With number of accesses/minutes in parentheses
 <li>www.reddit.com (5154)</li>
 <li>outlook.office365.com (4562)</li>
 <li>outlook.office.com (3929)</li>
-<li>duckduckgo.com (3924)</li>
+<li>duckduckgo.com (3925)</li>
 <li>docs.google.com (3292)</li>
 <li>chatgpt.com (2857)</li>
 <li>www.linkedin.com (2354)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1769)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>calendar.google.com (1564)</li>
+<li>calendar.google.com (1565)</li>
 <li>login.microsoftonline.com (1377)</li>
 <li>www.amazon.co.uk (1336)</li>
 <li>chat.openai.com (1319)</li>
@@ -104,7 +104,30 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Friday, 18/09/26</H3>
+
+<br>
+
+<ul><li> 01:06 calendar.google.com</li>
+</ul>
+
 <H3>Thursday, 17/09/26</H3>
+
+<br>
+
+<ul></ul>
+
+<br>
+
+<ul><li> 20:19 www.feynmanlectures.caltech.edu</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 19:43 www.feynmanlectures.caltech.edu</li>
+<li> 19:42 duckduckgo.com</li>
+<li> 19:42 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
+</ul>
 
 <br>
 
@@ -115,6 +138,7 @@ With number of accesses/minutes in parentheses
 <li> 19:11 jk.alisonself.com</li>
 <li> 19:11 duckduckgo.com</li>
 <li class='same'> 19:10 duckduckgo.com</li>
+<li> 18:46 <a href="https://joereddington.com/todo.txt/">Joe’s Todo List</a></li>
 <li> 18:46 <a href="https://en.wikipedia.org/wiki/Partitions_of_Poland#Fourth_Partition">Partitions of Poland - Wikipedia</a></li>
 <li> 18:46 <a href="https://en.wikipedia.org/wiki/Partitions_of_Poland#">Partitions of Poland - Wikipedia</a></li>
 </ul>
