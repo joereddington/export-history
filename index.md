@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5320)</li>
-<li>www.google.com (5175)</li>
+<ol><li>mail.google.com (5321)</li>
+<li>www.google.com (5173)</li>
 <li>www.reddit.com (5151)</li>
 <li>outlook.office365.com (4562)</li>
-<li>outlook.office.com (3929)</li>
 <li>duckduckgo.com (3927)</li>
+<li>outlook.office.com (3925)</li>
 <li>docs.google.com (3297)</li>
-<li>chatgpt.com (2866)</li>
-<li>www.linkedin.com (2351)</li>
+<li>chatgpt.com (2870)</li>
+<li>www.linkedin.com (2350)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1773)</li>
+<li>www.facebook.com (1777)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>calendar.google.com (1567)</li>
 <li>login.microsoftonline.com (1377)</li>
@@ -108,7 +108,24 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:27 www.facebook.com</li>
+<ul><li> 14:50 chatgpt.com</li>
+<li class='same'> 14:49 chatgpt.com</li>
+<li> 14:47 auth.openai.com</li>
+<li> 14:47 chatgpt.com</li>
+<li> 14:47 languagetool.org</li>
+<li> 14:47 chatgpt.com</li>
+<li> 14:46 www.coupert.com</li>
+<li> 14:46 welcome.adblockplus.org</li>
+<li> 14:46 about.downthemall.org</li>
+<li> 14:46 accounts.firefox.com</li>
+<li> 14:46 mail.google.com</li>
+<li> 14:46 accounts.firefox.com</li>
+<li class='same'> 14:45 accounts.firefox.com</li>
+<li> 14:39 www.facebook.com</li>
+<li class='same'> 14:36 www.facebook.com</li>
+<li class='same'> 14:34 www.facebook.com</li>
+<li class='same'> 14:28 www.facebook.com</li>
+<li class='same'> 14:27 www.facebook.com</li>
 <li class='same'> 14:26 www.facebook.com</li>
 <li class='same'> 14:25 www.facebook.com</li>
 <li class='same'> 14:24 www.facebook.com</li>
@@ -11744,9 +11761,6 @@ With number of accesses/minutes in parentheses
 <li> 19:58 mail.google.com</li>
 <li class='same'> 19:57 mail.google.com</li>
 <li> 19:57 gmail.com</li>
-<li> 19:57 www.eventbrite.co.uk</li>
-<li> 19:57 www.paypal.com</li>
-<li class='same'> 19:56 www.paypal.com</li>
 <li> 19:54 www.eventbrite.co.uk</li>
 <li> 19:54 retconfestival.co.uk</li>
 <li class='same'> 19:50 retconfestival.co.uk</li>
@@ -11757,8 +11771,7 @@ With number of accesses/minutes in parentheses
 <li> 19:47 duckduckgo.com</li>
 <li class='same'> 19:46 duckduckgo.com</li>
 <li> 19:46 retconfestival.co.uk</li>
-<li> 19:32 www.google.co.uk</li>
-<li class='same'> 19:31 www.google.co.uk</li>
+<li> 19:31 www.google.co.uk</li>
 <li> 19:30 www.happycow.net</li>
 <li class='same'> 19:29 www.happycow.net</li>
 <li> 19:28 www.google.co.uk</li>
@@ -124176,16 +124189,4 @@ With number of accesses/minutes in parentheses
 <li> 10:34 www.linkedin.com</li>
 <li class='same'> 10:33 www.linkedin.com</li>
 <li class='same'> 10:31 www.linkedin.com</li>
-<li> 10:31 outlook.office.com</li>
-<li> 10:26 www.linkedin.com</li>
-<li> 10:25 outlook.office.com</li>
-<li> 10:24 cisse.info</li>
-<li> 10:23 intranet.royalholloway.ac.uk</li>
-<li> 10:22 www.google.com</li>
-<li class='same'> 10:21 www.google.com</li>
-<li> 10:16 events.zoom.us</li>
-<li> 10:16 cisse.info</li>
-<li> 10:16 outlook.office.com</li>
-<li class='same'> 10:14 outlook.office.com</li>
-<li> 10:13 www.independent.co.uk</li>
 </ul>
