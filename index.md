@@ -68,18 +68,18 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5324)</li>
+<ol><li>mail.google.com (5325)</li>
 <li>www.google.com (5173)</li>
 <li>www.reddit.com (5151)</li>
-<li>outlook.office365.com (4560)</li>
+<li>outlook.office365.com (4558)</li>
 <li>duckduckgo.com (3927)</li>
 <li>outlook.office.com (3921)</li>
 <li>docs.google.com (3297)</li>
 <li>chatgpt.com (2873)</li>
 <li>www.linkedin.com (2347)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1776)</li>
-<li>moodle.royalholloway.ac.uk (1764)</li>
+<li>www.facebook.com (1774)</li>
+<li>moodle.royalholloway.ac.uk (1762)</li>
 <li>calendar.google.com (1567)</li>
 <li>login.microsoftonline.com (1379)</li>
 <li>www.amazon.co.uk (1336)</li>
@@ -89,7 +89,7 @@ With number of accesses/minutes in parentheses
 <li>gmail.com (1131)</li>
 <li>mail.rhul.ac.uk (978)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (835)</li>
+<li>feedly.com (837)</li>
 <li>rhul-my.sharepoint.com (833)</li>
 <li>forms.office.com (765)</li>
 <li>fritz.box (596)</li>
@@ -108,7 +108,10 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:58 fast.com</li>
+<ul><li> 16:20 feedly.com</li>
+<li class='same'> 16:11 feedly.com</li>
+<li> 16:08 mail.google.com</li>
+<li> 15:58 fast.com</li>
 <li> 15:55 learningonscreen.ac.uk</li>
 <li class='same'> 15:54 learningonscreen.ac.uk</li>
 <li> 15:54 login.learningonscreen.ac.uk</li>
@@ -124194,10 +124197,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 13:09 www.reddit.com</li>
 <li class='same'> 13:08 www.reddit.com</li>
 <li class='same'> 13:07 www.reddit.com</li>
-<li> 13:03 www.facebook.com</li>
-<li class='same'> 13:02 www.facebook.com</li>
-<li> 13:02 outlook.office365.com</li>
-<li class='same'> 12:59 outlook.office365.com</li>
-<li> 12:59 moodle.royalholloway.ac.uk</li>
-<li class='same'> 12:58 moodle.royalholloway.ac.uk</li>
 </ul>
