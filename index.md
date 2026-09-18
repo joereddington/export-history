@@ -68,17 +68,17 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5321)</li>
+<ol><li>mail.google.com (5323)</li>
 <li>www.google.com (5173)</li>
 <li>www.reddit.com (5151)</li>
 <li>outlook.office365.com (4562)</li>
 <li>duckduckgo.com (3927)</li>
-<li>outlook.office.com (3925)</li>
+<li>outlook.office.com (3921)</li>
 <li>docs.google.com (3297)</li>
 <li>chatgpt.com (2870)</li>
-<li>www.linkedin.com (2350)</li>
+<li>www.linkedin.com (2347)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1777)</li>
+<li>www.facebook.com (1776)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
 <li>calendar.google.com (1567)</li>
 <li>login.microsoftonline.com (1377)</li>
@@ -93,7 +93,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (833)</li>
 <li>forms.office.com (765)</li>
 <li>fritz.box (596)</li>
-<li>rhul.sharepoint.com (593)</li>
+<li>rhul.sharepoint.com (592)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (540)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:50 chatgpt.com</li>
+<ul><li> 15:25 mail.google.com</li>
+<li class='same'> 15:24 mail.google.com</li>
+<li> 15:16 www.google.com</li>
+<li> 15:05 fast.com</li>
+<li> 15:01 www.catalog.update.microsoft.com</li>
+<li class='same'> 15:00 www.catalog.update.microsoft.com</li>
+<li class='same'> 14:59 www.catalog.update.microsoft.com</li>
+<li> 14:52 <a href="https://joereddington.com/2025/01/07/factory-reset.html">Factory Reset | Joe Reddington</a></li>
+<li> 14:52 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
+<li> 14:52 www.google.com</li>
+<li> 14:50 chatgpt.com</li>
 <li class='same'> 14:49 chatgpt.com</li>
 <li> 14:47 auth.openai.com</li>
 <li> 14:47 chatgpt.com</li>
@@ -124178,15 +124188,4 @@ With number of accesses/minutes in parentheses
 <li> 12:26 rhul.sharepoint.com</li>
 <li> 12:02 outlook.office365.com</li>
 <li> 11:46 github.com</li>
-<li> 11:35 outlook.office.com</li>
-<li class='same'> 11:24 outlook.office.com</li>
-<li class='same'> 11:14 outlook.office.com</li>
-<li> 11:12 rhul.sharepoint.com</li>
-<li> 11:12 outlook.office.com</li>
-<li> 11:03 www.facebook.com</li>
-<li> 11:02 www.google.com</li>
-<li class='same'> 10:48 www.google.com</li>
-<li> 10:34 www.linkedin.com</li>
-<li class='same'> 10:33 www.linkedin.com</li>
-<li class='same'> 10:31 www.linkedin.com</li>
 </ul>
