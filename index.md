@@ -70,11 +70,11 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5311)</li>
 <li>www.google.com (5172)</li>
-<li>www.reddit.com (5153)</li>
+<li>www.reddit.com (5152)</li>
 <li>outlook.office365.com (4562)</li>
 <li>outlook.office.com (3929)</li>
-<li>duckduckgo.com (3925)</li>
-<li>docs.google.com (3292)</li>
+<li>duckduckgo.com (3926)</li>
+<li>docs.google.com (3294)</li>
 <li>chatgpt.com (2857)</li>
 <li>www.linkedin.com (2353)</li>
 <li>bsky.app (2016)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>www.theguardian.com (547)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (468)</li>
+<li>drive.google.com (469)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -105,6 +105,21 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Friday, 18/09/26</H3>
+
+<br>
+
+<ul><li> 10:10 docs.google.com</li>
+<li> 10:07 drive.usercontent.google.com</li>
+<li> 10:07 www.feynmanlectures.caltech.edu</li>
+<li> 10:06 drive.google.com</li>
+<li> 10:06 duckduckgo.com</li>
+<li> 10:06 docs.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 07:09 www.google.com</li>
+</ul>
 
 <br>
 
@@ -119,7 +134,13 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 20:19 www.feynmanlectures.caltech.edu</li>
+<ul><li> 22:20 www.feynmanlectures.caltech.edu</li>
+<li class='same'> 22:12 www.feynmanlectures.caltech.edu</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 20:19 www.feynmanlectures.caltech.edu</li>
 </ul>
 
 <br>
@@ -124127,7 +124148,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:19 www.reddit.com</li>
 <li class='same'> 07:18 www.reddit.com</li>
 <li class='same'> 07:17 www.reddit.com</li>
-<li> 07:17 www.ftc.gov</li>
-<li> 07:17 www.google.com</li>
-<li> 07:16 www.reddit.com</li>
 </ul>
