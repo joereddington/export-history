@@ -68,9 +68,9 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5327)</li>
+<ol><li>mail.google.com (5328)</li>
 <li>www.reddit.com (5199)</li>
-<li>www.google.com (5174)</li>
+<li>www.google.com (5172)</li>
 <li>outlook.office365.com (4557)</li>
 <li>duckduckgo.com (3927)</li>
 <li>outlook.office.com (3921)</li>
@@ -105,6 +105,13 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 19/09/26</H3>
+
+<br>
+
+<ul><li> 14:43 learningonscreen.ac.uk</li>
+<li class='same'> 14:42 learningonscreen.ac.uk</li>
+<li> 14:42 mail.google.com</li>
+</ul>
 
 <br>
 
@@ -124291,13 +124298,4 @@ With number of accesses/minutes in parentheses
 <li> 14:49 www.royalholloway.ac.uk</li>
 <li> 14:49 www.google.com</li>
 <li> 14:49 whitewaterwriters.com</li>
-<li> 14:49 intranet.royalholloway.ac.uk</li>
-<li> 14:49 www.google.com</li>
-<li> 14:49 whitewaterwriters.com</li>
-<li> 14:49 www.pluralsight.com</li>
-<li> 14:49 whitewaterwriters.com</li>
-<li> 14:48 www.google.com</li>
-<li> 14:19 www.pluralsight.com</li>
-<li> 14:19 whitewaterwriters.com</li>
-<li> 14:19 www.pluralsight.com</li>
 </ul>
