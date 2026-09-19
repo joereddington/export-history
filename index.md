@@ -68,25 +68,25 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5325)</li>
-<li>www.google.com (5173)</li>
-<li>www.reddit.com (5156)</li>
+<ol><li>mail.google.com (5329)</li>
+<li>www.reddit.com (5200)</li>
+<li>www.google.com (5174)</li>
 <li>outlook.office365.com (4558)</li>
 <li>duckduckgo.com (3927)</li>
 <li>outlook.office.com (3921)</li>
 <li>docs.google.com (3297)</li>
-<li>chatgpt.com (2873)</li>
-<li>www.linkedin.com (2347)</li>
+<li>chatgpt.com (2875)</li>
+<li>www.linkedin.com (2346)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1774)</li>
 <li>moodle.royalholloway.ac.uk (1762)</li>
 <li>calendar.google.com (1567)</li>
-<li>login.microsoftonline.com (1379)</li>
+<li>login.microsoftonline.com (1383)</li>
 <li>www.amazon.co.uk (1336)</li>
-<li>chat.openai.com (1322)</li>
+<li>chat.openai.com (1324)</li>
 <li>herts.instructure.com (1231)</li>
+<li>gmail.com (1132)</li>
 <li>web.whatsapp.com (1132)</li>
-<li>gmail.com (1131)</li>
 <li>mail.rhul.ac.uk (978)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (837)</li>
@@ -104,11 +104,138 @@ With number of accesses/minutes in parentheses
 
 <ul></ul>
 
+<H3>Saturday, 19/09/26</H3>
+
+<br>
+
+<ul><li> 13:37 learningonscreen.ac.uk</li>
+<li> 13:36 login.learningonscreen.ac.uk</li>
+<li> 13:36 learningonscreen.ac.uk</li>
+<li> 13:36 connect.openathens.net</li>
+<li> 13:36 mail.google.com</li>
+<li> 13:36 login.openathens.net</li>
+<li> 13:36 login.microsoftonline.com</li>
+<li> 13:36 mysignins.microsoft.com</li>
+<li> 13:36 login.microsoftonline.com</li>
+<li> 13:36 device.login.microsoftonline.com</li>
+<li> 13:36 login.microsoftonline.com</li>
+<li> 13:36 login.openathens.net</li>
+<li> 13:36 login.microsoftonline.com</li>
+<li> 13:36 device.login.microsoftonline.com</li>
+<li> 13:36 login.openathens.net</li>
+<li> 13:36 connect.openathens.net</li>
+<li> 13:36 login.learningonscreen.ac.uk</li>
+<li> 13:36 connect.openathens.net</li>
+<li> 13:36 login.learningonscreen.ac.uk</li>
+<li> 13:36 learningonscreen.ac.uk</li>
+<li> 13:36 mail.google.com</li>
+<li class='same'> 13:35 mail.google.com</li>
+<li> 13:35 www.parkrun.org.uk</li>
+<li> 13:35 www.google.com</li>
+<li> 13:34 mail.google.com</li>
+<li> 13:34 gmail.com</li>
+</ul>
+
+<br>
+
+<ul><li> 11:10 chatgpt.com</li>
+<li> 11:10 chat.openai.com</li>
+<li> 10:50 chatgpt.com</li>
+<li> 10:50 chat.openai.com</li>
+<li> 10:46 chatgpt.com</li>
+<li> 10:46 www.google.co.uk</li>
+<li class='same'> 10:45 www.google.co.uk</li>
+<li class='same'> 10:44 www.google.co.uk</li>
+<li class='same'> 10:43 www.google.co.uk</li>
+<li> 10:43 consent.google.co.uk</li>
+<li> 10:43 chatgpt.com</li>
+<li> 10:43 chat.openai.com</li>
+<li> 10:42 www.parkrun.org.uk</li>
+<li class='same'> 10:41 www.parkrun.org.uk</li>
+<li> 10:28 www.reddit.com</li>
+<li class='same'> 10:26 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 09:23 www.reddit.com</li>
+<li class='same'> 09:22 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li class='same'> 08:07 www.reddit.com</li>
+<li class='same'> 08:06 www.reddit.com</li>
+<li class='same'> 08:05 www.reddit.com</li>
+</ul>
+
 <H3>Friday, 18/09/26</H3>
 
 <br>
 
-<ul><li> 17:21 www.reddit.com</li>
+<ul></ul>
+
+<br>
+
+<ul><li class='same'> 22:37 www.reddit.com</li>
+<li class='same'> 22:36 www.reddit.com</li>
+<li class='same'> 22:35 www.reddit.com</li>
+<li class='same'> 22:33 www.reddit.com</li>
+<li class='same'> 22:32 www.reddit.com</li>
+<li class='same'> 22:31 www.reddit.com</li>
+<li class='same'> 22:30 www.reddit.com</li>
+<li class='same'> 22:29 www.reddit.com</li>
+<li class='same'> 22:27 www.reddit.com</li>
+<li class='same'> 22:26 www.reddit.com</li>
+<li class='same'> 22:25 www.reddit.com</li>
+<li class='same'> 22:24 www.reddit.com</li>
+<li class='same'> 22:23 www.reddit.com</li>
+<li class='same'> 22:20 www.reddit.com</li>
+<li class='same'> 22:18 www.reddit.com</li>
+<li> 22:11 <a href="https://en.wikipedia.org/wiki/Fell_in_Love_with_a_Girl">Fell in Love with a Girl - Wikipedia</a></li>
+<li> 22:11 www.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 19:31 www.reddit.com</li>
+<li class='same'> 19:29 www.reddit.com</li>
+<li class='same'> 19:28 www.reddit.com</li>
+<li class='same'> 19:27 www.reddit.com</li>
+<li class='same'> 19:26 www.reddit.com</li>
+<li class='same'> 19:22 www.reddit.com</li>
+<li class='same'> 19:21 www.reddit.com</li>
+<li class='same'> 19:18 www.reddit.com</li>
+<li class='same'> 19:17 www.reddit.com</li>
+<li class='same'> 19:13 www.reddit.com</li>
+<li class='same'> 19:11 www.reddit.com</li>
+<li> 19:11 www.nytimes.com</li>
+<li class='same'> 19:05 www.nytimes.com</li>
+<li> 19:05 www.google.com</li>
+<li> 19:04 www.nytimes.com</li>
+<li> 19:04 www.reddit.com</li>
+<li> 19:04 www.nytimes.com</li>
+<li> 19:04 www.reddit.com</li>
+<li> 19:04 www.nytimes.com</li>
+</ul>
+
+<br>
+
+<ul><li> 18:06 www.reddit.com</li>
+<li class='same'> 18:05 www.reddit.com</li>
+<li class='same'> 18:03 www.reddit.com</li>
+<li class='same'> 18:02 www.reddit.com</li>
+<li class='same'> 18:01 www.reddit.com</li>
+<li class='same'> 17:59 www.reddit.com</li>
+<li> 17:59 www.google.com</li>
+<li class='same'> 17:57 www.google.com</li>
+<li> 17:55 www.feynmanlectures.caltech.edu</li>
+<li> 17:55 www.argos.co.uk</li>
+<li> 17:54 www.reddit.com</li>
+<li class='same'> 17:47 www.reddit.com</li>
+<li> 17:39 www.feynmanlectures.caltech.edu</li>
+<li> 17:23 www.reddit.com</li>
+<li class='same'> 17:21 www.reddit.com</li>
 <li class='same'> 17:15 www.reddit.com</li>
 <li class='same'> 17:14 www.reddit.com</li>
 <li class='same'> 17:10 www.reddit.com</li>
@@ -11698,8 +11825,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li class='same'> 13:52 www.google.com</li>
-<li class='same'> 13:51 www.google.com</li>
+<ul><li class='same'> 13:51 www.google.com</li>
 <li class='same'> 13:50 www.google.com</li>
 <li> 13:46 <a href="https://en.wikipedia.org/wiki/Richard_Dimbleby#Death_and_legacy">Richard Dimbleby - Wikipedia</a></li>
 <li> 13:46 <a href="https://en.wikipedia.org/wiki/Richard_Dimbleby">Richard Dimbleby - Wikipedia</a></li>
@@ -11745,7 +11871,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 12:48 www.thedailymash.co.uk</li>
 <li> 12:47 mail.google.com</li>
 <li> 12:46 forum.artofmemory.com</li>
-<li> 12:46 www.google.com</li>
 <li> 12:46 email.forum.artofmemory.com</li>
 <li> 12:46 mail.google.com</li>
 <li class='same'> 12:45 mail.google.com</li>
@@ -11778,8 +11903,6 @@ With number of accesses/minutes in parentheses
 <li class='same'> 08:46 www.natesilver.net</li>
 <li> 08:46 www.google.com</li>
 <li class='same'> 08:45 www.google.com</li>
-<li> 08:45 accounts.google.com</li>
-<li> 08:45 www.google.com</li>
 </ul>
 
 <br>
@@ -124193,19 +124316,4 @@ With number of accesses/minutes in parentheses
 <li> 13:53 mail.google.com</li>
 <li> 13:53 gmail.com</li>
 <li> 13:52 www.reddit.com</li>
-<li> 13:51 whitewaterwriters.com</li>
-<li> 13:44 community.openai.com</li>
-<li> 13:44 www.google.com</li>
-<li> 13:40 whitewaterwriters.com</li>
-<li> 13:30 github.com</li>
-<li> 13:30 whitewaterwriters.com</li>
-<li> 13:29 chatgpt.com</li>
-<li> 13:27 whitewaterwriters.com</li>
-<li> 13:26 github.com</li>
-<li> 13:25 www.pluralsight.com</li>
-<li> 13:22 github.com</li>
-<li> 13:21 www.pluralsight.com</li>
-<li> 13:19 chatgpt.com</li>
-<li> 13:19 chat.openai.com</li>
-<li> 13:18 www.linkedin.com</li>
 </ul>
