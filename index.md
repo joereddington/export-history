@@ -68,15 +68,15 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5329)</li>
-<li>www.reddit.com (5200)</li>
+<ol><li>mail.google.com (5327)</li>
+<li>www.reddit.com (5199)</li>
 <li>www.google.com (5174)</li>
-<li>outlook.office365.com (4558)</li>
+<li>outlook.office365.com (4557)</li>
 <li>duckduckgo.com (3927)</li>
 <li>outlook.office.com (3921)</li>
 <li>docs.google.com (3297)</li>
 <li>chatgpt.com (2875)</li>
-<li>www.linkedin.com (2346)</li>
+<li>www.linkedin.com (2344)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1774)</li>
 <li>moodle.royalholloway.ac.uk (1762)</li>
@@ -85,8 +85,8 @@ With number of accesses/minutes in parentheses
 <li>www.amazon.co.uk (1336)</li>
 <li>chat.openai.com (1324)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1132)</li>
 <li>web.whatsapp.com (1132)</li>
+<li>gmail.com (1131)</li>
 <li>mail.rhul.ac.uk (978)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (837)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (596)</li>
 <li>rhul.sharepoint.com (591)</li>
 <li>m365.cloud.microsoft (543)</li>
-<li>www.theguardian.com (540)</li>
+<li>www.theguardian.com (538)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
 
@@ -124300,20 +124300,4 @@ With number of accesses/minutes in parentheses
 <li> 14:19 www.pluralsight.com</li>
 <li> 14:19 whitewaterwriters.com</li>
 <li> 14:19 www.pluralsight.com</li>
-<li class='same'> 14:18 www.pluralsight.com</li>
-<li> 14:15 whitewaterwriters.com</li>
-<li class='same'> 14:14 whitewaterwriters.com</li>
-<li> 14:12 outlook.office365.com</li>
-<li> 14:11 www.linkedin.com</li>
-<li class='same'> 14:10 www.linkedin.com</li>
-<li> 14:09 www.theguardian.com</li>
-<li class='same'> 14:08 www.theguardian.com</li>
-<li> 14:07 mail.google.com</li>
-<li> 14:01 whitewaterwriters.com</li>
-<li class='same'> 13:57 whitewaterwriters.com</li>
-<li class='same'> 13:54 whitewaterwriters.com</li>
-<li class='same'> 13:53 whitewaterwriters.com</li>
-<li> 13:53 mail.google.com</li>
-<li> 13:53 gmail.com</li>
-<li> 13:52 www.reddit.com</li>
 </ul>
