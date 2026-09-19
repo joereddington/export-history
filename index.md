@@ -68,31 +68,31 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5328)</li>
-<li>www.reddit.com (5199)</li>
-<li>www.google.com (5172)</li>
-<li>outlook.office365.com (4557)</li>
-<li>duckduckgo.com (3927)</li>
+<ol><li>mail.google.com (5330)</li>
+<li>www.reddit.com (5204)</li>
+<li>www.google.com (5170)</li>
+<li>outlook.office365.com (4554)</li>
+<li>duckduckgo.com (3929)</li>
 <li>outlook.office.com (3921)</li>
 <li>docs.google.com (3297)</li>
-<li>chatgpt.com (2875)</li>
-<li>www.linkedin.com (2344)</li>
+<li>chatgpt.com (2876)</li>
+<li>www.linkedin.com (2345)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1774)</li>
 <li>moodle.royalholloway.ac.uk (1762)</li>
-<li>calendar.google.com (1567)</li>
+<li>calendar.google.com (1566)</li>
 <li>login.microsoftonline.com (1383)</li>
-<li>www.amazon.co.uk (1336)</li>
-<li>chat.openai.com (1324)</li>
+<li>www.amazon.co.uk (1337)</li>
+<li>chat.openai.com (1325)</li>
 <li>herts.instructure.com (1231)</li>
+<li>gmail.com (1132)</li>
 <li>web.whatsapp.com (1132)</li>
-<li>gmail.com (1131)</li>
 <li>mail.rhul.ac.uk (978)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (837)</li>
+<li>feedly.com (838)</li>
 <li>rhul-my.sharepoint.com (833)</li>
 <li>forms.office.com (765)</li>
-<li>fritz.box (596)</li>
+<li>fritz.box (598)</li>
 <li>rhul.sharepoint.com (591)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (538)</li>
@@ -105,6 +105,72 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Saturday, 19/09/26</H3>
+
+<br>
+
+<ul><li> 19:29 www.amazon.co.uk</li>
+<li> 19:14 learningonscreen.ac.uk</li>
+<li> 19:13 login.learningonscreen.ac.uk</li>
+<li> 19:13 learningonscreen.ac.uk</li>
+<li> 19:13 login.openathens.net</li>
+<li> 19:13 connect.openathens.net</li>
+<li> 19:13 login.learningonscreen.ac.uk</li>
+<li> 19:13 connect.openathens.net</li>
+<li> 19:13 login.learningonscreen.ac.uk</li>
+<li> 19:13 learningonscreen.ac.uk</li>
+<li> 19:12 fast.com</li>
+<li> 19:07 feedly.com</li>
+<li> 19:07 mail.google.com</li>
+<li> 19:07 fast.com</li>
+<li> 19:06 192.168.178.1</li>
+<li> 19:06 fritz.box</li>
+<li> 19:06 192.168.178.1</li>
+<li> 19:05 fritz.box</li>
+<li> 19:05 firefox-portal-detection.com</li>
+<li> 19:05 192.168.178.1</li>
+</ul>
+
+<br>
+
+<ul><li> 17:54 duckduckgo.com</li>
+<li> 17:53 mail.google.com</li>
+<li class='same'> 17:52 mail.google.com</li>
+<li> 17:52 gmail.com</li>
+<li> 17:52 reddington.co.uk</li>
+<li class='same'> 17:50 reddington.co.uk</li>
+<li> 17:49 www.hover.com</li>
+<li> 17:49 reddington.com</li>
+<li> 17:47 chatgpt.com</li>
+<li> 17:47 chat.openai.com</li>
+<li> 17:47 www.jobs.ac.uk</li>
+<li> 17:46 www.royalholloway.ac.uk</li>
+<li> 17:46 duckduckgo.com</li>
+<li> 17:46 mail.google.com</li>
+</ul>
+
+<br>
+
+<ul><li> 17:05 uk.gomotionapp.com</li>
+<li> 17:03 support.google.com</li>
+<li> 17:02 www.google.com</li>
+<li> 17:01 www.reddit.com</li>
+<li class='same'> 17:00 www.reddit.com</li>
+</ul>
+
+<br>
+
+<ul><li> 15:39 <a href="https://xkcd.com/1334/">xkcd: Second</a></li>
+<li> 15:39 <a href="https://xkcd.com/857/">xkcd: Archimedes</a></li>
+<li> 15:39 <a href="https://xkcd.com/680/">xkcd: December 25th</a></li>
+<li> 15:39 <a href="https://xkcd.com/681/">xkcd: Gravity Wells</a></li>
+<li> 15:39 <a href="https://xkcd.com/682/">xkcd: Force</a></li>
+<li> 15:39 www.xkcd.com</li>
+<li class='same'> 15:38 www.xkcd.com</li>
+<li> 15:38 www.linkedin.com</li>
+<li> 15:26 forums.giantitp.com</li>
+<li> 15:25 www.giantitp.com</li>
+<li> 15:24 www.natesilver.net</li>
+</ul>
 
 <br>
 
@@ -159,7 +225,10 @@ With number of accesses/minutes in parentheses
 <li> 10:43 chat.openai.com</li>
 <li> 10:42 www.parkrun.org.uk</li>
 <li class='same'> 10:41 www.parkrun.org.uk</li>
-<li> 10:28 www.reddit.com</li>
+<li> 10:32 www.reddit.com</li>
+<li class='same'> 10:31 www.reddit.com</li>
+<li class='same'> 10:30 www.reddit.com</li>
+<li class='same'> 10:28 www.reddit.com</li>
 <li class='same'> 10:26 www.reddit.com</li>
 </ul>
 
@@ -124285,17 +124354,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:14 www.reddit.com</li>
 <li> 15:11 www.linkedin.com</li>
 <li> 15:11 outlook.office365.com</li>
-<li> 15:10 mail.google.com</li>
-<li> 15:09 <a href="https://joereddington.com/erger">Joe Reddington | Things I make.</a></li>
-<li> 15:09 <a href="http://joereddington.com/erger"></a></li>
-<li> 15:05 mail.google.com</li>
-<li> 15:04 outlook.office365.com</li>
-<li class='same'> 15:03 outlook.office365.com</li>
-<li> 15:03 calendar.google.com</li>
-<li> 15:03 www.google.com</li>
-<li> 15:02 outlook.office365.com</li>
-<li> 14:49 www.google.com</li>
-<li> 14:49 www.royalholloway.ac.uk</li>
-<li> 14:49 www.google.com</li>
-<li> 14:49 whitewaterwriters.com</li>
 </ul>
