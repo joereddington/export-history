@@ -68,24 +68,24 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5330)</li>
-<li>www.reddit.com (5258)</li>
-<li>www.google.com (5159)</li>
+<ol><li>mail.google.com (5332)</li>
+<li>www.reddit.com (5268)</li>
+<li>www.google.com (5155)</li>
 <li>outlook.office365.com (4552)</li>
 <li>duckduckgo.com (3935)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3297)</li>
-<li>chatgpt.com (2870)</li>
+<li>chatgpt.com (2872)</li>
 <li>www.linkedin.com (2344)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1768)</li>
 <li>moodle.royalholloway.ac.uk (1765)</li>
 <li>calendar.google.com (1564)</li>
-<li>login.microsoftonline.com (1384)</li>
+<li>login.microsoftonline.com (1386)</li>
 <li>www.amazon.co.uk (1337)</li>
-<li>chat.openai.com (1325)</li>
+<li>chat.openai.com (1326)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1132)</li>
+<li>gmail.com (1133)</li>
 <li>web.whatsapp.com (1132)</li>
 <li>mail.rhul.ac.uk (977)</li>
 <li>tvtropes.org (880)</li>
@@ -93,9 +93,9 @@ With number of accesses/minutes in parentheses
 <li>rhul-my.sharepoint.com (833)</li>
 <li>forms.office.com (765)</li>
 <li>fritz.box (598)</li>
-<li>rhul.sharepoint.com (592)</li>
+<li>rhul.sharepoint.com (594)</li>
 <li>m365.cloud.microsoft (543)</li>
-<li>www.theguardian.com (532)</li>
+<li>www.theguardian.com (530)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
 
@@ -108,8 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:25 192.168.178.1</li>
+<ul><li> 09:54 192.168.178.1</li>
+<li> 09:50 chatgpt.com</li>
+<li> 09:49 euc-word-edit.officeapps.live.com</li>
+<li> 09:49 chatgpt.com</li>
+<li> 09:49 chat.openai.com</li>
+<li> 09:48 rhul.sharepoint.com</li>
+<li class='same'> 09:46 rhul.sharepoint.com</li>
+<li> 09:41 forms.cloud.microsoft</li>
+<li> 09:41 login.microsoftonline.com</li>
+<li> 09:41 forms.cloud.microsoft</li>
+<li> 09:41 device.login.microsoftonline.com</li>
+<li> 09:41 login.microsoftonline.com</li>
+<li> 09:41 forms.cloud.microsoft</li>
+<li class='same'> 09:40 forms.cloud.microsoft</li>
+<li> 09:40 eur03.safelinks.protection.outlook.com</li>
+<li> 09:40 mail.google.com</li>
+<li> 09:40 cda.cseconnect.org</li>
+<li class='same'> 09:39 cda.cseconnect.org</li>
+<li> 09:39 eur03.safelinks.protection.outlook.com</li>
+<li> 09:38 mail.google.com</li>
+<li> 09:38 gmail.com</li>
+<li> 09:36 forms.cloud.microsoft</li>
+<li> 09:36 eur03.safelinks.protection.outlook.com</li>
+<li> 09:31 192.168.178.1</li>
+<li class='same'> 09:28 192.168.178.1</li>
+<li class='same'> 09:25 192.168.178.1</li>
 <li class='same'> 09:24 192.168.178.1</li>
+<li> 09:04 www.reddit.com</li>
+<li class='same'> 09:03 www.reddit.com</li>
+<li class='same'> 09:00 www.reddit.com</li>
+<li class='same'> 08:49 www.reddit.com</li>
 </ul>
 
 <br>
@@ -127,7 +156,13 @@ With number of accesses/minutes in parentheses
 <li> 07:25 duckduckgo.com</li>
 <li> 07:23 rhul.sharepoint.com</li>
 <li> 07:12 192.168.178.1</li>
-<li> 06:43 www.reddit.com</li>
+<li> 06:54 www.reddit.com</li>
+<li class='same'> 06:53 www.reddit.com</li>
+<li class='same'> 06:51 www.reddit.com</li>
+<li class='same'> 06:50 www.reddit.com</li>
+<li class='same'> 06:48 www.reddit.com</li>
+<li class='same'> 06:46 www.reddit.com</li>
+<li class='same'> 06:43 www.reddit.com</li>
 <li class='same'> 06:40 www.reddit.com</li>
 <li class='same'> 06:39 www.reddit.com</li>
 <li class='same'> 06:38 www.reddit.com</li>
@@ -11782,8 +11817,7 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:46 www.google.com</li>
-<li class='same'> 15:45 www.google.com</li>
+<ul><li> 15:45 www.google.com</li>
 <li> 15:38 <a href="https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_64_video_games">List of best-selling Nintendo 64 video games - Wikipedia</a></li>
 <li> 15:38 duckduckgo.com</li>
 <li> 15:38 <a href="https://en.wikipedia.org/wiki/List_of_best-selling_Sega_Genesis_games#cite_ref-12">List of best-selling Sega Genesis games - Wikipedia</a></li>
@@ -124455,23 +124489,4 @@ With number of accesses/minutes in parentheses
 <li> 06:27 outlook.office365.com</li>
 <li> 06:17 www.google.com</li>
 <li class='same'> 06:16 www.google.com</li>
-<li> 06:15 osswa.co.uk</li>
-<li> 06:15 www.google.com</li>
-<li> 06:15 intranet.royalholloway.ac.uk</li>
-<li> 06:15 www.google.com</li>
-<li class='same'> 06:14 www.google.com</li>
-<li> 06:11 www.natesilver.net</li>
-<li> 06:11 x.com</li>
-<li> 06:09 www.theguardian.com</li>
-</ul>
-
-<H3>Thursday, 24/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 21:30 www.theguardian.com</li>
 </ul>
