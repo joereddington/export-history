@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5338)</li>
 <li>www.reddit.com (5256)</li>
-<li>www.google.com (5109)</li>
+<li>www.google.com (5105)</li>
 <li>outlook.office365.com (4513)</li>
 <li>duckduckgo.com (3940)</li>
 <li>outlook.office.com (3916)</li>
@@ -81,7 +81,7 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1769)</li>
 <li>www.facebook.com (1746)</li>
 <li>calendar.google.com (1568)</li>
-<li>login.microsoftonline.com (1391)</li>
+<li>login.microsoftonline.com (1392)</li>
 <li>www.amazon.co.uk (1334)</li>
 <li>chat.openai.com (1331)</li>
 <li>herts.instructure.com (1231)</li>
@@ -108,7 +108,12 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:58 cyberleaderschallenge.com</li>
+<ul><li> 16:14 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:14 login.microsoftonline.com</li>
+<li> 16:14 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 16:14 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 16:10 fast.com</li>
+<li> 15:58 cyberleaderschallenge.com</li>
 <li> 15:58 duckduckgo.com</li>
 <li> 15:56 eur03.safelinks.protection.outlook.com</li>
 <li> 15:56 cyberleaderschallenge.com</li>
@@ -124317,10 +124322,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 07:35 m.youtube.com</li>
-<li> 07:34 www.google.com</li>
-<li> 07:34 www.tiktok.com</li>
-<li> 07:34 www.google.com</li>
-<li class='same'> 07:33 www.google.com</li>
-<li class='same'> 07:31 www.google.com</li>
-<li> 07:31 photo.stackexchange.com</li>
 </ul>
