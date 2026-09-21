@@ -70,15 +70,15 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5334)</li>
 <li>www.reddit.com (5260)</li>
-<li>www.google.com (5124)</li>
+<li>www.google.com (5122)</li>
 <li>outlook.office365.com (4513)</li>
-<li>duckduckgo.com (3935)</li>
+<li>duckduckgo.com (3936)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2875)</li>
 <li>www.linkedin.com (2342)</li>
 <li>bsky.app (2016)</li>
-<li>moodle.royalholloway.ac.uk (1767)</li>
+<li>moodle.royalholloway.ac.uk (1769)</li>
 <li>www.facebook.com (1746)</li>
 <li>calendar.google.com (1563)</li>
 <li>login.microsoftonline.com (1389)</li>
@@ -105,6 +105,14 @@ With number of accesses/minutes in parentheses
 <ul></ul>
 
 <H3>Monday, 21/09/26</H3>
+
+<br>
+
+<ul><li> 13:58 www.royalholloway.ac.uk</li>
+<li> 13:58 duckduckgo.com</li>
+<li> 13:56 moodle.royalholloway.ac.uk</li>
+<li class='same'> 13:55 moodle.royalholloway.ac.uk</li>
+</ul>
 
 <br>
 
@@ -124304,21 +124312,4 @@ With number of accesses/minutes in parentheses
 <li> 18:46 www.theguardian.com</li>
 <li> 18:45 x.com</li>
 <li> 18:44 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 12:51 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 11:56 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 09:48 tfl.gov.uk</li>
-<li> 09:48 vehiclecheck.drive-clean-air-zone.service.gov.uk</li>
-<li class='same'> 09:47 vehiclecheck.drive-clean-air-zone.service.gov.uk</li>
 </ul>
