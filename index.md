@@ -70,24 +70,24 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5327)</li>
 <li>www.reddit.com (5268)</li>
-<li>www.google.com (5150)</li>
-<li>outlook.office365.com (4549)</li>
+<li>www.google.com (5147)</li>
+<li>outlook.office365.com (4547)</li>
 <li>duckduckgo.com (3935)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3296)</li>
-<li>chatgpt.com (2873)</li>
+<li>chatgpt.com (2874)</li>
 <li>www.linkedin.com (2344)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1767)</li>
+<li>www.facebook.com (1766)</li>
 <li>moodle.royalholloway.ac.uk (1765)</li>
 <li>calendar.google.com (1563)</li>
 <li>login.microsoftonline.com (1387)</li>
-<li>www.amazon.co.uk (1336)</li>
-<li>chat.openai.com (1327)</li>
+<li>www.amazon.co.uk (1334)</li>
+<li>chat.openai.com (1328)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1132)</li>
+<li>web.whatsapp.com (1131)</li>
 <li>gmail.com (1131)</li>
-<li>mail.rhul.ac.uk (978)</li>
+<li>mail.rhul.ac.uk (977)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (838)</li>
 <li>rhul-my.sharepoint.com (835)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (530)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (471)</li>
+<li>drive.google.com (470)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,22 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:53 outlook.cloud.microsoft</li>
+<ul><li> 11:26 <a href="https://en.wikipedia.org/wiki/2022_LastPass_data_breach">2022 LastPass data breach - Wikipedia</a></li>
+<li> 11:26 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
+<li> 11:25 ico.org.uk</li>
+<li> 11:11 outlook.cloud.microsoft</li>
+<li class='same'> 11:10 outlook.cloud.microsoft</li>
+<li> 11:10 chatgpt.com</li>
+<li> 11:10 chat.openai.com</li>
+<li> 11:08 outlook.cloud.microsoft</li>
+<li> 11:07 <a href="https://joereddington.com/2025/10/30/things-i-say-to-project-students.html">Things I say to project students | Joe Reddington</a></li>
+<li> 11:06 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 11:05 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 11:04 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 11:03 fyp.cs.rhul.ac.uk</li>
+<li class='same'> 11:02 fyp.cs.rhul.ac.uk</li>
+<li> 10:56 192.168.178.1</li>
+<li> 10:53 outlook.cloud.microsoft</li>
 <li class='same'> 10:44 outlook.cloud.microsoft</li>
 <li class='same'> 10:42 outlook.cloud.microsoft</li>
 <li class='same'> 10:41 outlook.cloud.microsoft</li>
@@ -124461,26 +124476,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:11 chatgpt.com</li>
 <li> 11:09 drive.google.com</li>
 <li> 11:08 docs.google.com</li>
-<li> 11:07 drive.google.com</li>
-<li> 11:04 www.amazon.co.uk</li>
-<li class='same'> 11:03 www.amazon.co.uk</li>
-<li> 11:03 outlook.office365.com</li>
-<li> 11:02 whitewaterwriters.com</li>
-<li> 11:02 web.whatsapp.com</li>
-<li> 11:01 outlook.office365.com</li>
-<li> 11:01 mail.rhul.ac.uk</li>
-<li> 10:56 whitewaterwriters.com</li>
-<li> 10:56 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 08:06 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:22 <a href="https://en.wikipedia.org/wiki/Queer_manicure">Queer manicure - Wikipedia</a></li>
-<li> 07:22 www.google.com</li>
-<li> 07:17 www.facebook.com</li>
 </ul>
