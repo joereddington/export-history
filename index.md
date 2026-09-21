@@ -68,36 +68,36 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5330)</li>
-<li>www.reddit.com (5269)</li>
-<li>www.google.com (5142)</li>
-<li>outlook.office365.com (4525)</li>
+<ol><li>mail.google.com (5334)</li>
+<li>www.reddit.com (5260)</li>
+<li>www.google.com (5124)</li>
+<li>outlook.office365.com (4513)</li>
 <li>duckduckgo.com (3935)</li>
 <li>outlook.office.com (3916)</li>
-<li>docs.google.com (3293)</li>
-<li>chatgpt.com (2872)</li>
-<li>www.linkedin.com (2343)</li>
+<li>docs.google.com (3290)</li>
+<li>chatgpt.com (2875)</li>
+<li>www.linkedin.com (2342)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1767)</li>
-<li>www.facebook.com (1761)</li>
+<li>www.facebook.com (1746)</li>
 <li>calendar.google.com (1563)</li>
 <li>login.microsoftonline.com (1389)</li>
-<li>www.amazon.co.uk (1336)</li>
-<li>chat.openai.com (1328)</li>
+<li>www.amazon.co.uk (1335)</li>
+<li>chat.openai.com (1329)</li>
 <li>herts.instructure.com (1231)</li>
-<li>web.whatsapp.com (1131)</li>
 <li>gmail.com (1131)</li>
-<li>mail.rhul.ac.uk (975)</li>
+<li>web.whatsapp.com (1130)</li>
+<li>mail.rhul.ac.uk (973)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (838)</li>
+<li>feedly.com (836)</li>
 <li>rhul-my.sharepoint.com (835)</li>
-<li>forms.office.com (764)</li>
+<li>forms.office.com (763)</li>
 <li>rhul.sharepoint.com (600)</li>
 <li>fritz.box (598)</li>
 <li>m365.cloud.microsoft (543)</li>
-<li>www.theguardian.com (530)</li>
+<li>www.theguardian.com (525)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (469)</li>
+<li>drive.google.com (468)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,21 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:58 dashboards.rhul.ac.uk</li>
+<ul><li> 13:23 dashboards.rhul.ac.uk</li>
+<li> 13:23 dash.cloudflare.com</li>
+<li class='same'> 13:22 dash.cloudflare.com</li>
+<li> 13:20 mail.google.com</li>
+<li> 13:16 dashboards.rhul.ac.uk</li>
+<li> 13:13 www.linkedin.com</li>
+<li> 13:12 mail.google.com</li>
+<li class='same'> 13:11 mail.google.com</li>
+<li class='same'> 13:10 mail.google.com</li>
+<li> 13:08 chatgpt.com</li>
+<li class='same'> 13:07 chatgpt.com</li>
+<li class='same'> 13:05 chatgpt.com</li>
+<li> 13:05 chat.openai.com</li>
+<li> 12:59 dashboards.rhul.ac.uk</li>
+<li class='same'> 12:58 dashboards.rhul.ac.uk</li>
 <li> 12:57 www.linkedin.com</li>
 <li class='same'> 12:56 www.linkedin.com</li>
 <li class='same'> 12:52 www.linkedin.com</li>
@@ -124307,145 +124321,4 @@ With number of accesses/minutes in parentheses
 <ul><li> 09:48 tfl.gov.uk</li>
 <li> 09:48 vehiclecheck.drive-clean-air-zone.service.gov.uk</li>
 <li class='same'> 09:47 vehiclecheck.drive-clean-air-zone.service.gov.uk</li>
-<li> 09:47 www.google.com</li>
-<li> 09:47 tfl.gov.uk</li>
-<li class='same'> 09:46 tfl.gov.uk</li>
-<li> 09:46 www.google.com</li>
-<li> 09:46 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 08:40 docs.google.com</li>
-<li> 08:35 www.google.com</li>
-<li> 08:31 docs.google.com</li>
-<li class='same'> 08:30 docs.google.com</li>
-<li> 08:30 drive.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:38 www.theguardian.com</li>
-<li class='same'> 07:25 www.theguardian.com</li>
-<li class='same'> 07:24 www.theguardian.com</li>
-<li> 07:23 discord.com</li>
-<li class='same'> 07:22 discord.com</li>
-<li> 07:19 www.reddit.com</li>
-<li class='same'> 07:18 www.reddit.com</li>
-<li> 07:18 www.google.com</li>
-<li class='same'> 07:17 www.google.com</li>
-<li> 07:17 design2clothing.co.uk</li>
-<li> 07:17 www.google.com</li>
-<li> 07:17 www.reddit.com</li>
-<li> 07:17 www.google.com</li>
-<li> 07:17 www.reddit.com</li>
-</ul>
-
-<H3>Friday, 25/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 23:51 www.reddit.com</li>
-</ul>
-
-<br>
-
-<ul><li> 22:38 www.facebook.com</li>
-<li class='same'> 22:37 www.facebook.com</li>
-<li class='same'> 22:36 www.facebook.com</li>
-<li class='same'> 22:35 www.facebook.com</li>
-<li class='same'> 22:34 www.facebook.com</li>
-<li class='same'> 22:33 www.facebook.com</li>
-<li class='same'> 22:32 www.facebook.com</li>
-<li class='same'> 22:31 www.facebook.com</li>
-<li class='same'> 22:30 www.facebook.com</li>
-<li class='same'> 22:29 www.facebook.com</li>
-<li class='same'> 22:28 www.facebook.com</li>
-<li class='same'> 22:26 www.facebook.com</li>
-<li class='same'> 22:24 www.facebook.com</li>
-<li class='same'> 22:22 www.facebook.com</li>
-<li> 22:19 <a href="https://en.wikipedia.org/wiki/Master_System">Master System - Wikipedia</a></li>
-<li> 22:18 www.google.com</li>
-<li> 22:18 www.facebook.com</li>
-<li> 22:16 feedly.com</li>
-<li> 22:16 outlook.office365.com</li>
-<li> 22:16 intranet.royalholloway.ac.uk</li>
-<li> 22:16 outlook.office365.com</li>
-<li> 22:16 mail.rhul.ac.uk</li>
-<li> 22:15 www.linkedin.com</li>
-<li> 21:47 www.reddit.com</li>
-<li class='same'> 21:46 www.reddit.com</li>
-<li> 21:46 www.google.com</li>
-<li class='same'> 21:45 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 20:28 videogameperfection.com</li>
-<li> 20:28 www.google.com</li>
-<li> 20:28 www.reddit.com</li>
-<li class='same'> 20:27 www.reddit.com</li>
-<li> 20:27 www.google.com</li>
-<li class='same'> 20:26 www.google.com</li>
-<li class='same'> 20:22 www.google.com</li>
-<li class='same'> 20:21 www.google.com</li>
-<li> 20:21 www.amazon.co.uk</li>
-<li> 20:21 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 19:32 www.theguardian.com</li>
-<li> 19:31 www.google.com</li>
-<li> 19:31 pure.royalholloway.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 18:59 discord.com</li>
-<li class='same'> 18:58 discord.com</li>
-<li class='same'> 18:57 discord.com</li>
-<li> 18:57 outlook.office365.com</li>
-<li> 18:54 discord.com</li>
-<li class='same'> 18:53 discord.com</li>
-<li class='same'> 18:52 discord.com</li>
-<li> 18:52 outlook.office365.com</li>
-<li> 18:52 discord.com</li>
-<li> 18:52 outlook.office365.com</li>
-<li> 18:52 mail.rhul.ac.uk</li>
-<li> 18:52 discord.com</li>
-</ul>
-
-<br>
-
-<ul><li> 15:11 feedly.com</li>
-<li> 15:11 www.giantitp.com</li>
-<li> 15:11 outlook.office365.com</li>
-<li> 15:10 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 15:07 www.linkedin.com</li>
-<li> 15:06 <a href="https://joereddington.com/2024/01/02/hello-my-name-is-joe.html">Hello, My name is Joe! | Joe Reddington</a></li>
-<li> 15:06 <a href="https://joereddington.com/all_posts.html">All posts | Joe Reddington</a></li>
-<li> 15:06 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 15:05 <a href="https://joereddington.com/2021/01/02/mynameis.html">Hello, my name is Joe! | Joe Reddington</a></li>
-<li> 15:05 <a href="https://joereddington.com/">Joe Reddington | Things I make.</a></li>
-<li> 15:05 outlook.office365.com</li>
-<li> 15:04 web.whatsapp.com</li>
-<li> 15:04 outlook.office365.com</li>
-<li class='same'> 15:03 outlook.office365.com</li>
-<li class='same'> 15:02 outlook.office365.com</li>
-<li> 14:51 forms.office.com</li>
-<li> 14:30 <a href="https://en.wikipedia.org/wiki/List_of_data_breaches">List of data breaches - Wikipedia</a></li>
-<li> 14:30 <a href="https://en.wikipedia.org/w/index.php?search=List+of+data+breaches&amp;title=Special%3ASearch&amp;ns0=1"></a></li>
-<li> 14:26 <a href="https://en.wikipedia.org/wiki/2011_PlayStation_Network_outage">2011 PlayStation Network outage - Wikipedia</a></li>
-<li> 14:26 <a href="https://en.wikipedia.org/w/index.php?search=2011+PlayStation+Network+outage&amp;title=Special%3ASearch&amp;ns0=1"></a></li>
-<li> 14:22 <a href="https://en.wikipedia.org/wiki/Yahoo_data_breaches">Yahoo data breaches - Wikipedia</a></li>
-<li> 14:22 <a href="https://en.wikipedia.org/w/index.php?search=Yahoo+data+breaches&amp;title=Special%3ASearch&amp;ns0=1"></a></li>
-<li> 14:20 <a href="https://en.wikipedia.org/wiki/British_Airways_data_breach">British Airways data breach - Wikipedia</a></li>
-<li> 14:20 www.google.com</li>
-<li> 14:08 outlook.office365.com</li>
-<li class='same'> 14:07 outlook.office365.com</li>
 </ul>
