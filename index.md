@@ -68,29 +68,29 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5328)</li>
+<ol><li>mail.google.com (5327)</li>
 <li>www.reddit.com (5268)</li>
-<li>www.google.com (5149)</li>
+<li>www.google.com (5150)</li>
 <li>outlook.office365.com (4549)</li>
 <li>duckduckgo.com (3935)</li>
 <li>outlook.office.com (3916)</li>
-<li>docs.google.com (3297)</li>
-<li>chatgpt.com (2872)</li>
+<li>docs.google.com (3296)</li>
+<li>chatgpt.com (2873)</li>
 <li>www.linkedin.com (2344)</li>
 <li>bsky.app (2016)</li>
-<li>www.facebook.com (1768)</li>
+<li>www.facebook.com (1767)</li>
 <li>moodle.royalholloway.ac.uk (1765)</li>
-<li>calendar.google.com (1564)</li>
-<li>login.microsoftonline.com (1386)</li>
+<li>calendar.google.com (1563)</li>
+<li>login.microsoftonline.com (1387)</li>
 <li>www.amazon.co.uk (1336)</li>
-<li>chat.openai.com (1326)</li>
+<li>chat.openai.com (1327)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1132)</li>
 <li>gmail.com (1131)</li>
-<li>mail.rhul.ac.uk (977)</li>
+<li>mail.rhul.ac.uk (978)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (838)</li>
-<li>rhul-my.sharepoint.com (834)</li>
+<li>rhul-my.sharepoint.com (835)</li>
 <li>forms.office.com (765)</li>
 <li>fritz.box (598)</li>
 <li>rhul.sharepoint.com (595)</li>
@@ -108,7 +108,28 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 10:26 rhul-my.sharepoint.com</li>
+<ul><li> 10:53 outlook.cloud.microsoft</li>
+<li class='same'> 10:44 outlook.cloud.microsoft</li>
+<li class='same'> 10:42 outlook.cloud.microsoft</li>
+<li class='same'> 10:41 outlook.cloud.microsoft</li>
+<li> 10:40 chatgpt.com</li>
+<li> 10:40 chat.openai.com</li>
+<li> 10:40 rhul-my.sharepoint.com</li>
+<li> 10:39 outlook.cloud.microsoft</li>
+<li class='same'> 10:37 outlook.cloud.microsoft</li>
+<li> 10:35 mail.google.com</li>
+<li> 10:35 dashboard.nameshift.com</li>
+<li> 10:35 www.google.com</li>
+<li> 10:35 dashboard.nameshift.com</li>
+<li> 10:35 mail.google.com</li>
+<li> 10:33 192.168.178.1</li>
+<li> 10:33 device.login.microsoftonline.com</li>
+<li> 10:33 192.168.178.1</li>
+<li> 10:32 login.microsoftonline.com</li>
+<li> 10:32 outlook.office365.com</li>
+<li> 10:32 outlook.cloud.microsoft</li>
+<li> 10:32 mail.rhul.ac.uk</li>
+<li> 10:26 rhul-my.sharepoint.com</li>
 <li> 10:12 rhul.sharepoint.com</li>
 <li> 09:54 192.168.178.1</li>
 <li> 09:50 chatgpt.com</li>
@@ -124462,12 +124483,4 @@ With number of accesses/minutes in parentheses
 <ul><li> 07:22 <a href="https://en.wikipedia.org/wiki/Queer_manicure">Queer manicure - Wikipedia</a></li>
 <li> 07:22 www.google.com</li>
 <li> 07:17 www.facebook.com</li>
-<li> 07:14 mail.google.com</li>
-<li> 07:14 calendar.google.com</li>
-<li> 07:13 docs.google.com</li>
-<li> 07:12 mail.google.com</li>
-<li> 07:11 outlook.office365.com</li>
-<li> 07:11 mail.google.com</li>
-<li> 06:59 www.facebook.com</li>
-<li> 06:58 pure.royalholloway.ac.uk</li>
 </ul>
