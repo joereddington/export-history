@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5327)</li>
 <li>www.reddit.com (5268)</li>
-<li>www.google.com (5147)</li>
-<li>outlook.office365.com (4547)</li>
+<li>www.google.com (5145)</li>
+<li>outlook.office365.com (4539)</li>
 <li>duckduckgo.com (3935)</li>
 <li>outlook.office.com (3916)</li>
-<li>docs.google.com (3296)</li>
-<li>chatgpt.com (2874)</li>
+<li>docs.google.com (3294)</li>
+<li>chatgpt.com (2872)</li>
 <li>www.linkedin.com (2344)</li>
 <li>bsky.app (2016)</li>
+<li>moodle.royalholloway.ac.uk (1767)</li>
 <li>www.facebook.com (1766)</li>
-<li>moodle.royalholloway.ac.uk (1765)</li>
 <li>calendar.google.com (1563)</li>
-<li>login.microsoftonline.com (1387)</li>
+<li>login.microsoftonline.com (1388)</li>
 <li>www.amazon.co.uk (1334)</li>
 <li>chat.openai.com (1328)</li>
 <li>herts.instructure.com (1231)</li>
@@ -97,7 +97,7 @@ With number of accesses/minutes in parentheses
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (530)</li>
 <li>ev.turnitinuk.com (500)</li>
-<li>drive.google.com (470)</li>
+<li>drive.google.com (469)</li>
 
 
 </ol><H2> Sites and times</H2>
@@ -108,7 +108,14 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:26 <a href="https://en.wikipedia.org/wiki/2022_LastPass_data_breach">2022 LastPass data breach - Wikipedia</a></li>
+<ul><li> 11:47 moodle.royalholloway.ac.uk</li>
+<li> 11:47 login.microsoftonline.com</li>
+<li> 11:47 device.login.microsoftonline.com</li>
+<li> 11:47 moodle.royalholloway.ac.uk</li>
+<li> 11:46 outlook.cloud.microsoft</li>
+<li class='same'> 11:45 outlook.cloud.microsoft</li>
+<li class='same'> 11:44 outlook.cloud.microsoft</li>
+<li> 11:26 <a href="https://en.wikipedia.org/wiki/2022_LastPass_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 <li> 11:26 <a href="https://en.wikipedia.org/wiki/LastPass_2022_data_breach">2022 LastPass data breach - Wikipedia</a></li>
 <li> 11:25 ico.org.uk</li>
 <li> 11:11 outlook.cloud.microsoft</li>
@@ -124457,23 +124464,4 @@ With number of accesses/minutes in parentheses
 <li> 11:58 docs.google.com</li>
 <li> 11:58 outlook.office365.com</li>
 <li class='same'> 11:45 outlook.office365.com</li>
-<li class='same'> 11:44 outlook.office365.com</li>
-<li> 11:41 www.google.com</li>
-<li> 11:39 outlook.office365.com</li>
-<li class='same'> 11:37 outlook.office365.com</li>
-<li class='same'> 11:34 outlook.office365.com</li>
-<li class='same'> 11:33 outlook.office365.com</li>
-<li class='same'> 11:30 outlook.office365.com</li>
-<li class='same'> 11:29 outlook.office365.com</li>
-<li class='same'> 11:28 outlook.office365.com</li>
-<li> 11:20 github.com</li>
-<li> 11:17 docs.google.com</li>
-<li> 11:12 platform.openai.com</li>
-<li> 11:12 help.openai.com</li>
-<li> 11:12 community.openai.com</li>
-<li> 11:12 www.google.com</li>
-<li> 11:12 chatgpt.com</li>
-<li class='same'> 11:11 chatgpt.com</li>
-<li> 11:09 drive.google.com</li>
-<li> 11:08 docs.google.com</li>
 </ul>
