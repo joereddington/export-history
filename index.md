@@ -68,22 +68,22 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5337)</li>
-<li>www.reddit.com (5257)</li>
-<li>www.google.com (5118)</li>
+<ol><li>mail.google.com (5338)</li>
+<li>www.reddit.com (5256)</li>
+<li>www.google.com (5113)</li>
 <li>outlook.office365.com (4513)</li>
 <li>duckduckgo.com (3936)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2877)</li>
-<li>www.linkedin.com (2343)</li>
+<li>chatgpt.com (2881)</li>
+<li>www.linkedin.com (2344)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1769)</li>
 <li>www.facebook.com (1746)</li>
 <li>calendar.google.com (1565)</li>
 <li>login.microsoftonline.com (1389)</li>
-<li>www.amazon.co.uk (1335)</li>
-<li>chat.openai.com (1330)</li>
+<li>www.amazon.co.uk (1334)</li>
+<li>chat.openai.com (1331)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1131)</li>
 <li>web.whatsapp.com (1130)</li>
@@ -92,7 +92,7 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (837)</li>
 <li>rhul-my.sharepoint.com (835)</li>
 <li>forms.office.com (763)</li>
-<li>rhul.sharepoint.com (600)</li>
+<li>rhul.sharepoint.com (601)</li>
 <li>fritz.box (599)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (524)</li>
@@ -108,7 +108,18 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:58 www.reddit.com</li>
+<ul><li> 15:27 chatgpt.com</li>
+<li class='same'> 15:25 chatgpt.com</li>
+<li class='same'> 15:24 chatgpt.com</li>
+<li> 15:22 www.linkedin.com</li>
+<li> 15:21 chatgpt.com</li>
+<li> 15:21 chat.openai.com</li>
+<li> 15:13 rhul.sharepoint.com</li>
+<li> 15:13 intranet.royalholloway.ac.uk</li>
+<li> 15:03 mail.google.com</li>
+<li> 15:02 www.reddit.com</li>
+<li class='same'> 15:00 www.reddit.com</li>
+<li class='same'> 14:58 www.reddit.com</li>
 <li class='same'> 14:57 www.reddit.com</li>
 <li class='same'> 14:56 www.reddit.com</li>
 <li> 14:42 calendar.google.com</li>
@@ -124302,18 +124313,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 21:07 www.google.com</li>
-<li> 21:07 www.reddit.com</li>
-<li> 21:07 www.google.com</li>
-<li> 21:00 www.amazon.co.uk</li>
-<li> 20:59 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 20:25 provenance-emu.com</li>
-<li> 20:25 www.google.com</li>
-<li> 20:25 www.reddit.com</li>
-<li> 20:25 www.google.com</li>
-<li> 20:22 www.reddit.com</li>
-<li> 20:22 www.google.com</li>
 </ul>
