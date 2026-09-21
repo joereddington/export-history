@@ -70,19 +70,19 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5327)</li>
 <li>www.reddit.com (5268)</li>
-<li>www.google.com (5145)</li>
-<li>outlook.office365.com (4539)</li>
+<li>www.google.com (5144)</li>
+<li>outlook.office365.com (4535)</li>
 <li>duckduckgo.com (3935)</li>
 <li>outlook.office.com (3916)</li>
-<li>docs.google.com (3294)</li>
+<li>docs.google.com (3293)</li>
 <li>chatgpt.com (2872)</li>
 <li>www.linkedin.com (2344)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1767)</li>
 <li>www.facebook.com (1766)</li>
 <li>calendar.google.com (1563)</li>
-<li>login.microsoftonline.com (1388)</li>
-<li>www.amazon.co.uk (1334)</li>
+<li>login.microsoftonline.com (1389)</li>
+<li>www.amazon.co.uk (1336)</li>
 <li>chat.openai.com (1328)</li>
 <li>herts.instructure.com (1231)</li>
 <li>web.whatsapp.com (1131)</li>
@@ -91,9 +91,9 @@ With number of accesses/minutes in parentheses
 <li>tvtropes.org (880)</li>
 <li>feedly.com (838)</li>
 <li>rhul-my.sharepoint.com (835)</li>
-<li>forms.office.com (765)</li>
+<li>forms.office.com (764)</li>
 <li>fritz.box (598)</li>
-<li>rhul.sharepoint.com (595)</li>
+<li>rhul.sharepoint.com (597)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (530)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,17 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 11:47 moodle.royalholloway.ac.uk</li>
+<ul><li> 12:27 www.amazon.co.uk</li>
+<li> 12:26 www.thenec.co.uk</li>
+<li class='same'> 12:25 www.thenec.co.uk</li>
+<li> 12:24 www.amazon.co.uk</li>
+<li> 12:24 challengeworks.org</li>
+<li> 12:15 rhul.sharepoint.com</li>
+<li> 12:15 device.login.microsoftonline.com</li>
+<li> 12:15 login.microsoftonline.com</li>
+<li> 12:14 rhul.sharepoint.com</li>
+<li> 12:08 outlook.cloud.microsoft</li>
+<li> 11:47 moodle.royalholloway.ac.uk</li>
 <li> 11:47 login.microsoftonline.com</li>
 <li> 11:47 device.login.microsoftonline.com</li>
 <li> 11:47 moodle.royalholloway.ac.uk</li>
@@ -124453,15 +124463,4 @@ With number of accesses/minutes in parentheses
 <li> 12:04 outlook.office365.com</li>
 <li> 12:02 generalssb-prod.ec.royalholloway.ac.uk</li>
 <li> 12:02 eis-prod.ec.royalholloway.ac.uk</li>
-<li> 12:02 generalssb-prod.ec.royalholloway.ac.uk</li>
-<li> 12:02 experience.elluciancloud.ie</li>
-<li class='same'> 12:01 experience.elluciancloud.ie</li>
-<li> 12:01 eee-api-eu-west-1.10005.elluciancloud.ie</li>
-<li> 12:01 outlook.office365.com</li>
-<li> 12:00 forms.office.com</li>
-<li> 12:00 outlook.office365.com</li>
-<li> 11:59 www.google.com</li>
-<li> 11:58 docs.google.com</li>
-<li> 11:58 outlook.office365.com</li>
-<li class='same'> 11:45 outlook.office365.com</li>
 </ul>
