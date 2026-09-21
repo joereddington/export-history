@@ -68,10 +68,10 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5332)</li>
+<ol><li>mail.google.com (5328)</li>
 <li>www.reddit.com (5268)</li>
-<li>www.google.com (5155)</li>
-<li>outlook.office365.com (4552)</li>
+<li>www.google.com (5149)</li>
+<li>outlook.office365.com (4549)</li>
 <li>duckduckgo.com (3935)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3297)</li>
@@ -82,18 +82,18 @@ With number of accesses/minutes in parentheses
 <li>moodle.royalholloway.ac.uk (1765)</li>
 <li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1386)</li>
-<li>www.amazon.co.uk (1337)</li>
+<li>www.amazon.co.uk (1336)</li>
 <li>chat.openai.com (1326)</li>
 <li>herts.instructure.com (1231)</li>
-<li>gmail.com (1133)</li>
 <li>web.whatsapp.com (1132)</li>
+<li>gmail.com (1131)</li>
 <li>mail.rhul.ac.uk (977)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (838)</li>
-<li>rhul-my.sharepoint.com (833)</li>
+<li>rhul-my.sharepoint.com (834)</li>
 <li>forms.office.com (765)</li>
 <li>fritz.box (598)</li>
-<li>rhul.sharepoint.com (594)</li>
+<li>rhul.sharepoint.com (595)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (530)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,9 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:54 192.168.178.1</li>
+<ul><li> 10:26 rhul-my.sharepoint.com</li>
+<li> 10:12 rhul.sharepoint.com</li>
+<li> 09:54 192.168.178.1</li>
 <li> 09:50 chatgpt.com</li>
 <li> 09:49 euc-word-edit.officeapps.live.com</li>
 <li> 09:49 chatgpt.com</li>
@@ -124468,25 +124470,4 @@ With number of accesses/minutes in parentheses
 <li> 07:11 mail.google.com</li>
 <li> 06:59 www.facebook.com</li>
 <li> 06:58 pure.royalholloway.ac.uk</li>
-<li> 06:57 www.google.com</li>
-<li> 06:56 mail.google.com</li>
-<li> 06:56 outlook.office365.com</li>
-<li> 06:51 <a href="https://www.bbc.co.uk/news/articles/cg3exzpd5yjo">Hacker jailed for creating malware that targeted Braintree site - BBC News</a></li>
-<li> 06:51 www.bbc.com</li>
-<li> 06:50 <a href="https://www.bbc.co.uk/news/technology-65497186">Ex-Uber security chief sentenced over covering up hack - BBC News</a></li>
-<li> 06:50 www.google.com</li>
-<li> 06:50 <a href="https://en.wikipedia.org/wiki/2015_TalkTalk_data_breach">2015 TalkTalk data breach - Wikipedia</a></li>
-<li> 06:48 www.google.com</li>
-<li> 06:47 outlook.office365.com</li>
-<li> 06:33 www.amazon.co.uk</li>
-<li> 06:33 www.google.com</li>
-<li> 06:30 mail.google.com</li>
-<li> 06:30 gmail.com</li>
-<li> 06:29 mail.google.com</li>
-<li class='same'> 06:28 mail.google.com</li>
-<li> 06:28 gmail.com</li>
-<li> 06:28 osswa.co.uk</li>
-<li> 06:27 outlook.office365.com</li>
-<li> 06:17 www.google.com</li>
-<li class='same'> 06:16 www.google.com</li>
 </ul>
