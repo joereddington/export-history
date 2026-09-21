@@ -70,18 +70,18 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5338)</li>
 <li>www.reddit.com (5256)</li>
-<li>www.google.com (5113)</li>
+<li>www.google.com (5109)</li>
 <li>outlook.office365.com (4513)</li>
-<li>duckduckgo.com (3936)</li>
+<li>duckduckgo.com (3940)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2881)</li>
-<li>www.linkedin.com (2344)</li>
+<li>www.linkedin.com (2349)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1769)</li>
 <li>www.facebook.com (1746)</li>
-<li>calendar.google.com (1565)</li>
-<li>login.microsoftonline.com (1389)</li>
+<li>calendar.google.com (1568)</li>
+<li>login.microsoftonline.com (1391)</li>
 <li>www.amazon.co.uk (1334)</li>
 <li>chat.openai.com (1331)</li>
 <li>herts.instructure.com (1231)</li>
@@ -108,7 +108,37 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 15:27 chatgpt.com</li>
+<ul><li> 15:58 cyberleaderschallenge.com</li>
+<li> 15:58 duckduckgo.com</li>
+<li> 15:56 eur03.safelinks.protection.outlook.com</li>
+<li> 15:56 cyberleaderschallenge.com</li>
+<li> 15:55 calendar.google.com</li>
+<li class='same'> 15:54 calendar.google.com</li>
+<li> 15:54 casper.cs.rhul.ac.uk</li>
+<li class='same'> 15:53 casper.cs.rhul.ac.uk</li>
+<li> 15:50 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:50 login.microsoftonline.com</li>
+<li> 15:50 eis-prod.ec.royalholloway.ac.uk</li>
+<li> 15:50 device.login.microsoftonline.com</li>
+<li> 15:50 login.microsoftonline.com</li>
+<li> 15:50 generalssb-prod.ec.royalholloway.ac.uk</li>
+<li> 15:50 casper.cs.rhul.ac.uk</li>
+<li> 15:47 calendar.google.com</li>
+<li> 15:46 blackadderquotes.com</li>
+<li> 15:46 duckduckgo.com</li>
+<li class='same'> 15:45 duckduckgo.com</li>
+<li> 15:45 www.linkedin.com</li>
+<li> 15:45 duckduckgo.com</li>
+<li> 15:45 www.linkedin.com</li>
+<li class='same'> 15:44 www.linkedin.com</li>
+<li class='same'> 15:40 www.linkedin.com</li>
+<li class='same'> 15:39 www.linkedin.com</li>
+<li> 15:35 cyberleaderschallenge.com</li>
+<li class='same'> 15:33 cyberleaderschallenge.com</li>
+<li> 15:33 www.cyberleaderschallenge.com</li>
+<li> 15:33 eur03.safelinks.protection.outlook.com</li>
+<li> 15:33 www.cyberleaderschallenge.com</li>
+<li> 15:27 chatgpt.com</li>
 <li class='same'> 15:25 chatgpt.com</li>
 <li class='same'> 15:24 chatgpt.com</li>
 <li> 15:22 www.linkedin.com</li>
@@ -124293,24 +124323,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 07:33 www.google.com</li>
 <li class='same'> 07:31 www.google.com</li>
 <li> 07:31 photo.stackexchange.com</li>
-</ul>
-
-<H3>Saturday, 26/10/24</H3>
-
-<br>
-
-<ul></ul>
-
-<br>
-
-<ul><li class='same'> 22:28 photo.stackexchange.com</li>
-<li> 22:28 www.google.com</li>
-<li class='same'> 22:25 www.google.com</li>
-<li> 22:24 www.slrphotographyguide.com</li>
-<li> 22:24 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li class='same'> 21:07 www.google.com</li>
 </ul>
