@@ -70,7 +70,7 @@ With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5330)</li>
 <li>www.reddit.com (5258)</li>
-<li>www.google.com (5162)</li>
+<li>www.google.com (5159)</li>
 <li>outlook.office365.com (4552)</li>
 <li>duckduckgo.com (3935)</li>
 <li>outlook.office.com (3916)</li>
@@ -79,9 +79,9 @@ With number of accesses/minutes in parentheses
 <li>www.linkedin.com (2344)</li>
 <li>bsky.app (2016)</li>
 <li>www.facebook.com (1768)</li>
-<li>moodle.royalholloway.ac.uk (1762)</li>
-<li>calendar.google.com (1563)</li>
-<li>login.microsoftonline.com (1383)</li>
+<li>moodle.royalholloway.ac.uk (1765)</li>
+<li>calendar.google.com (1564)</li>
+<li>login.microsoftonline.com (1384)</li>
 <li>www.amazon.co.uk (1337)</li>
 <li>chat.openai.com (1325)</li>
 <li>herts.instructure.com (1231)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>fritz.box (598)</li>
 <li>rhul.sharepoint.com (592)</li>
 <li>m365.cloud.microsoft (543)</li>
-<li>www.theguardian.com (533)</li>
+<li>www.theguardian.com (532)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (471)</li>
 
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 07:25 <a href="https://en.wikipedia.org/wiki/Weasel">Weasel - Wikipedia</a></li>
+<ul><li> 07:46 calendar.google.com</li>
+<li> 07:39 192.168.178.1</li>
+<li> 07:37 moodle.royalholloway.ac.uk</li>
+<li class='same'> 07:36 moodle.royalholloway.ac.uk</li>
+<li> 07:36 login.microsoftonline.com</li>
+<li> 07:36 device.login.microsoftonline.com</li>
+<li> 07:36 moodle.royalholloway.ac.uk</li>
+<li> 07:34 intranet.royalholloway.ac.uk</li>
+<li> 07:25 <a href="https://en.wikipedia.org/wiki/Weasel">Weasel - Wikipedia</a></li>
 <li> 07:25 duckduckgo.com</li>
 <li> 07:23 rhul.sharepoint.com</li>
 <li> 07:12 192.168.178.1</li>
@@ -124459,12 +124467,4 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li class='same'> 21:30 www.theguardian.com</li>
-</ul>
-
-<br>
-
-<ul><li> 20:05 www.google.com</li>
-<li class='same'> 20:04 www.google.com</li>
-<li> 20:00 www.theguardian.com</li>
-<li> 19:59 www.google.com</li>
 </ul>
