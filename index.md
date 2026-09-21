@@ -69,21 +69,21 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5334)</li>
-<li>www.reddit.com (5260)</li>
-<li>www.google.com (5122)</li>
+<li>www.reddit.com (5259)</li>
+<li>www.google.com (5119)</li>
 <li>outlook.office365.com (4513)</li>
 <li>duckduckgo.com (3936)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2875)</li>
+<li>chatgpt.com (2877)</li>
 <li>www.linkedin.com (2342)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1769)</li>
 <li>www.facebook.com (1746)</li>
-<li>calendar.google.com (1563)</li>
+<li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1389)</li>
 <li>www.amazon.co.uk (1335)</li>
-<li>chat.openai.com (1329)</li>
+<li>chat.openai.com (1330)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1131)</li>
 <li>web.whatsapp.com (1130)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (600)</li>
 <li>fritz.box (598)</li>
 <li>m365.cloud.microsoft (543)</li>
-<li>www.theguardian.com (525)</li>
+<li>www.theguardian.com (524)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (468)</li>
 
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 13:58 www.royalholloway.ac.uk</li>
+<ul><li> 14:14 github.com</li>
+<li> 14:08 houseprices.anna.ps</li>
+<li> 14:07 anna.ps</li>
+<li class='same'> 14:06 anna.ps</li>
+<li> 14:05 chatgpt.com</li>
+<li class='same'> 14:02 chatgpt.com</li>
+<li> 14:02 chat.openai.com</li>
+<li> 14:02 calendar.google.com</li>
+<li> 13:58 www.royalholloway.ac.uk</li>
 <li> 13:58 duckduckgo.com</li>
 <li> 13:56 moodle.royalholloway.ac.uk</li>
 <li class='same'> 13:55 moodle.royalholloway.ac.uk</li>
@@ -124306,10 +124314,4 @@ With number of accesses/minutes in parentheses
 <li class='same'> 19:09 www.reddit.com</li>
 <li> 19:09 www.google.com</li>
 <li> 18:52 www.reddit.com</li>
-<li> 18:52 www.google.com</li>
-<li> 18:52 www.reddit.com</li>
-<li> 18:51 www.google.com</li>
-<li> 18:46 www.theguardian.com</li>
-<li> 18:45 x.com</li>
-<li> 18:44 www.google.com</li>
 </ul>
