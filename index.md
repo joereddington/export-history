@@ -68,19 +68,19 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5334)</li>
-<li>www.reddit.com (5259)</li>
-<li>www.google.com (5119)</li>
+<ol><li>mail.google.com (5337)</li>
+<li>www.reddit.com (5257)</li>
+<li>www.google.com (5118)</li>
 <li>outlook.office365.com (4513)</li>
 <li>duckduckgo.com (3936)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2877)</li>
-<li>www.linkedin.com (2342)</li>
+<li>www.linkedin.com (2343)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1769)</li>
 <li>www.facebook.com (1746)</li>
-<li>calendar.google.com (1564)</li>
+<li>calendar.google.com (1565)</li>
 <li>login.microsoftonline.com (1389)</li>
 <li>www.amazon.co.uk (1335)</li>
 <li>chat.openai.com (1330)</li>
@@ -89,11 +89,11 @@ With number of accesses/minutes in parentheses
 <li>web.whatsapp.com (1130)</li>
 <li>mail.rhul.ac.uk (973)</li>
 <li>tvtropes.org (880)</li>
-<li>feedly.com (836)</li>
+<li>feedly.com (837)</li>
 <li>rhul-my.sharepoint.com (835)</li>
 <li>forms.office.com (763)</li>
 <li>rhul.sharepoint.com (600)</li>
-<li>fritz.box (598)</li>
+<li>fritz.box (599)</li>
 <li>m365.cloud.microsoft (543)</li>
 <li>www.theguardian.com (524)</li>
 <li>ev.turnitinuk.com (500)</li>
@@ -108,7 +108,19 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 14:14 github.com</li>
+<ul><li> 14:58 www.reddit.com</li>
+<li class='same'> 14:57 www.reddit.com</li>
+<li class='same'> 14:56 www.reddit.com</li>
+<li> 14:42 calendar.google.com</li>
+<li> 14:41 newsthump.com</li>
+<li> 14:40 192.168.178.1</li>
+<li> 14:40 fritz.box</li>
+<li> 14:38 mail.google.com</li>
+<li> 14:37 www.linkedin.com</li>
+<li> 14:37 mail.google.com</li>
+<li class='same'> 14:36 mail.google.com</li>
+<li> 14:30 feedly.com</li>
+<li> 14:14 github.com</li>
 <li> 14:08 houseprices.anna.ps</li>
 <li> 14:07 anna.ps</li>
 <li class='same'> 14:06 anna.ps</li>
@@ -124304,14 +124316,4 @@ With number of accesses/minutes in parentheses
 <li> 20:25 www.google.com</li>
 <li> 20:22 www.reddit.com</li>
 <li> 20:22 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 19:13 www.reddit.com</li>
-<li class='same'> 19:12 www.reddit.com</li>
-<li class='same'> 19:11 www.reddit.com</li>
-<li class='same'> 19:09 www.reddit.com</li>
-<li> 19:09 www.google.com</li>
-<li> 18:52 www.reddit.com</li>
 </ul>
