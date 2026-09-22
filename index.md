@@ -69,17 +69,17 @@ ul>li::after {
 With number of accesses/minutes in parentheses
 
 <ol><li>mail.google.com (5346)</li>
-<li>www.reddit.com (5310)</li>
+<li>www.reddit.com (5308)</li>
 <li>www.google.com (5077)</li>
-<li>outlook.office365.com (4486)</li>
-<li>duckduckgo.com (3943)</li>
+<li>outlook.office365.com (4485)</li>
+<li>duckduckgo.com (3944)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
 <li>chatgpt.com (2881)</li>
 <li>www.linkedin.com (2353)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1768)</li>
-<li>www.facebook.com (1736)</li>
+<li>www.facebook.com (1735)</li>
 <li>calendar.google.com (1564)</li>
 <li>login.microsoftonline.com (1399)</li>
 <li>chat.openai.com (1332)</li>
@@ -92,10 +92,10 @@ With number of accesses/minutes in parentheses
 <li>feedly.com (834)</li>
 <li>rhul-my.sharepoint.com (828)</li>
 <li>forms.office.com (761)</li>
-<li>rhul.sharepoint.com (604)</li>
+<li>rhul.sharepoint.com (605)</li>
 <li>fritz.box (588)</li>
 <li>m365.cloud.microsoft (543)</li>
-<li>www.theguardian.com (514)</li>
+<li>www.theguardian.com (512)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (468)</li>
 
@@ -108,7 +108,15 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 17:27 royalholloway.akarisoftware.com</li>
+<ul><li> 17:38 pure.royalholloway.ac.uk</li>
+<li> 17:38 www.researchgate.net</li>
+<li> 17:38 duckduckgo.com</li>
+<li> 17:37 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 17:35 webtimetables.royalholloway.ac.uk</li>
+<li class='same'> 17:34 webtimetables.royalholloway.ac.uk</li>
+<li> 17:31 rhul.sharepoint.com</li>
+<li> 17:28 royalholloway.akarisoftware.com</li>
+<li class='same'> 17:27 royalholloway.akarisoftware.com</li>
 <li> 17:27 moodle.royalholloway.ac.uk</li>
 <li> 17:26 chatgpt.com</li>
 <li> 17:26 chat.openai.com</li>
@@ -124178,14 +124186,4 @@ With number of accesses/minutes in parentheses
 <li> 13:54 www.reddit.com</li>
 <li class='same'> 13:52 www.reddit.com</li>
 <li class='same'> 13:51 www.reddit.com</li>
-<li class='same'> 13:50 www.reddit.com</li>
-<li class='same'> 13:49 www.reddit.com</li>
-<li> 13:47 www.facebook.com</li>
-<li> 13:46 outlook.office365.com</li>
-</ul>
-
-<br>
-
-<ul><li> 13:04 www.theguardian.com</li>
-<li class='same'> 13:03 www.theguardian.com</li>
 </ul>
