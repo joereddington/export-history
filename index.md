@@ -68,26 +68,26 @@ ul>li::after {
 <h3> Most common sites</h3>
 With number of accesses/minutes in parentheses
 
-<ol><li>mail.google.com (5338)</li>
-<li>www.reddit.com (5320)</li>
-<li>www.google.com (5097)</li>
-<li>outlook.office365.com (4513)</li>
+<ol><li>mail.google.com (5339)</li>
+<li>www.reddit.com (5318)</li>
+<li>www.google.com (5095)</li>
+<li>outlook.office365.com (4506)</li>
 <li>duckduckgo.com (3941)</li>
 <li>outlook.office.com (3916)</li>
 <li>docs.google.com (3290)</li>
-<li>chatgpt.com (2881)</li>
-<li>www.linkedin.com (2351)</li>
+<li>chatgpt.com (2882)</li>
+<li>www.linkedin.com (2352)</li>
 <li>bsky.app (2016)</li>
 <li>moodle.royalholloway.ac.uk (1769)</li>
 <li>www.facebook.com (1742)</li>
 <li>calendar.google.com (1566)</li>
 <li>login.microsoftonline.com (1395)</li>
 <li>www.amazon.co.uk (1334)</li>
-<li>chat.openai.com (1331)</li>
+<li>chat.openai.com (1332)</li>
 <li>herts.instructure.com (1231)</li>
 <li>gmail.com (1131)</li>
 <li>web.whatsapp.com (1129)</li>
-<li>mail.rhul.ac.uk (972)</li>
+<li>mail.rhul.ac.uk (971)</li>
 <li>tvtropes.org (880)</li>
 <li>feedly.com (837)</li>
 <li>rhul-my.sharepoint.com (831)</li>
@@ -95,7 +95,7 @@ With number of accesses/minutes in parentheses
 <li>rhul.sharepoint.com (602)</li>
 <li>fritz.box (599)</li>
 <li>m365.cloud.microsoft (543)</li>
-<li>www.theguardian.com (524)</li>
+<li>www.theguardian.com (523)</li>
 <li>ev.turnitinuk.com (500)</li>
 <li>drive.google.com (468)</li>
 
@@ -108,7 +108,20 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 12:58 account.hozah.com</li>
+<ul><li> 13:25 www.linkedin.com</li>
+<li> 13:22 <a href="https://xkcd.com/3296/">xkcd: OH Scale</a></li>
+<li> 13:21 get-energy-performance-data.communities.gov.uk</li>
+<li> 13:21 signin.account.gov.uk</li>
+<li> 13:21 oidc.account.gov.uk</li>
+<li> 13:21 get-energy-performance-data.communities.gov.uk</li>
+<li> 13:20 signin.account.gov.uk</li>
+<li> 13:20 oidc.account.gov.uk</li>
+<li> 13:20 get-energy-performance-data.communities.gov.uk</li>
+<li> 13:19 mail.google.com</li>
+<li> 13:01 chatgpt.com</li>
+<li> 13:01 chat.openai.com</li>
+<li> 13:00 account.hozah.com</li>
+<li class='same'> 12:58 account.hozah.com</li>
 <li> 12:58 url5475.hozah.com</li>
 <li> 12:58 account.hozah.com</li>
 <li class='same'> 12:57 account.hozah.com</li>
@@ -146,6 +159,13 @@ With number of accesses/minutes in parentheses
 <li> 11:31 fast.com</li>
 <li> 11:11 dashboards.rhul.ac.uk</li>
 <li class='same'> 11:05 dashboards.rhul.ac.uk</li>
+<li> 10:59 <a href="https://xkcd.com/3297/">xkcd: Aerospace Flowchart</a></li>
+<li> 10:59 <a href="https://xkcd.com/3298/">xkcd: Summer</a></li>
+<li> 10:59 <a href="https://xkcd.com/3299/">xkcd: Tyrannosaurus</a></li>
+<li> 10:59 <a href="https://xkcd.com/3300/">xkcd: Stargazing 5</a></li>
+<li> 10:59 <a href="https://xkcd.com/3301/">xkcd: Stargazing 5</a></li>
+<li> 10:59 <a href="https://xkcd.com/3301">xkcd: Stargazing 5</a></li>
+<li> 10:59 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 10:53 fast.com</li>
 <li> 10:53 www.google.co.uk</li>
 <li class='same'> 10:52 www.google.co.uk</li>
@@ -154,7 +174,8 @@ With number of accesses/minutes in parentheses
 
 <br>
 
-<ul><li> 09:35 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
+<ul><li> 09:41 <a href="https://www.bbc.co.uk/news/articles/cw8r68mpm6p3o">Home - BBC News</a></li>
+<li> 09:35 <a href="https://www.bbc.co.uk/news">Home - BBC News</a></li>
 <li> 09:31 www.reformclub.com</li>
 <li> 09:30 www.reddit.com</li>
 <li class='same'> 09:29 www.reddit.com</li>
@@ -15066,9 +15087,9 @@ With number of accesses/minutes in parentheses
 <li> 12:54 <a href="https://en.wikipedia.org/"></a></li>
 <li> 12:54 mail.google.com</li>
 <li> 12:52 <a href="https://xkcd.com/3254/">xkcd: Detector</a></li>
-<li> 12:52 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 12:52 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 12:52 <a href="https://xkcd.com/1/">xkcd: Barrel - Part 1</a></li>
-<li> 12:52 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 12:52 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 12:51 <a href="https://xkcd.com/3255/">xkcd: Planetary Science</a></li>
 <li> 12:47 www.paypal.com</li>
 <li> 12:47 theguardian.com</li>
@@ -23324,7 +23345,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 06:55 www.instagram.com</li>
 <li class='same'> 06:34 www.instagram.com</li>
-<li> 06:33 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 06:33 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 06:33 www.google.com</li>
 <li> 06:31 lifehacker.com</li>
 <li> 06:31 www.google.com</li>
@@ -26076,7 +26097,7 @@ With number of accesses/minutes in parentheses
 <li> 16:16 <a href="https://xkcd.com/2517/">xkcd: Rover Replies</a></li>
 <li> 16:16 c.xkcd.com</li>
 <li> 16:16 <a href="http://xkcd.com/2517/"></a></li>
-<li> 16:15 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 16:15 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 16:15 www.giantitp.com</li>
 <li> 16:14 <a href="https://www.bbc.co.uk/news/articles/cpd8w1dpg0wo">Secret tunnel in Leatherhead to reopen after being hidden for 50 years - BBC News</a></li>
 <li> 16:07 webtimetables.royalholloway.ac.uk</li>
@@ -26519,7 +26540,7 @@ With number of accesses/minutes in parentheses
 <li> 16:17 <a href="https://xkcd.com/2565/">xkcd: Latency</a></li>
 <li> 16:17 c.xkcd.com</li>
 <li> 16:17 <a href="http://xkcd.com/2565/"></a></li>
-<li> 16:17 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 16:17 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 16:17 <a href="https://en.wikipedia.org/w/index.php?watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;limit=250&amp;days=30&amp;enhanced=1&amp;title=Special%3AWatchlist&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:17 <a href="https://en.wikipedia.org/w/index.php?title=Special:Watchlist&amp;watchlistactivity=unseen&amp;hidecategorization=1&amp;hideWikibase=1&amp;urlversion=2">Watchlist - Wikipedia</a></li>
 <li> 16:17 <a href="https://en.wikipedia.org/wiki/Special:Watchlist">Wikipedia, the free encyclopedia</a></li>
@@ -26559,7 +26580,7 @@ With number of accesses/minutes in parentheses
 <li> 14:44 <a href="https://xkcd.com/3217/">xkcd: Home Remedies</a></li>
 <li> 14:43 <a href="https://xkcd.com/3218/">xkcd: Subduction Retrieval</a></li>
 <li> 14:43 <a href="https://xkcd.com/3219/">xkcd: Planets and Bright Stars</a></li>
-<li> 14:43 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 14:43 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 14:42 <a href="https://www.theguardian.com/film/2026/mar/17/secret-lives-of-six-body-doubles">The secret lives of six body doubles: ‘They wanted Julia Roberts to have curvier legs’ | Film | The Guardian</a></li>
 <li> 14:40 3dprinting.stackexchange.com</li>
 <li> 14:40 duckduckgo.com</li>
@@ -27916,7 +27937,7 @@ With number of accesses/minutes in parentheses
 <li> 13:45 <a href="https://xkcd.com/3214/">xkcd: Electric Vehicles</a></li>
 <li> 13:45 <a href="https://xkcd.com/3215/">xkcd: Solar Warning</a></li>
 <li> 13:45 <a href="https://xkcd.com/3216/">xkcd: Bazookasaurus</a></li>
-<li> 13:45 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 13:45 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 13:44 calendar.google.com</li>
 <li> 13:42 www.reddit.com</li>
 <li class='same'> 13:41 www.reddit.com</li>
@@ -32178,7 +32199,7 @@ With number of accesses/minutes in parentheses
 <li> 11:13 <a href="https://xkcd.com/265/">xkcd: Choices: Part 2</a></li>
 <li> 11:13 <a href="https://xkcd.com/2815/">xkcd: Car Wash</a></li>
 <li> 11:12 <a href="https://xkcd.com/315/">xkcd: Braille</a></li>
-<li> 11:12 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 11:12 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 11:12 www.google.com</li>
 <li class='same'> 11:04 www.google.com</li>
 <li> 11:04 communitydirectory.norfolk.gov.uk</li>
@@ -44089,7 +44110,7 @@ With number of accesses/minutes in parentheses
 <li> 09:02 c.xkcd.com</li>
 <li> 09:02 <a href="http://xkcd.com/763/"></a></li>
 <li> 09:02 <a href="https://xkcd.com/3173/">xkcd: Satellite Imagery</a></li>
-<li> 09:02 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 09:02 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 09:01 qbo.intuit.com</li>
 <li> 08:58 <a href="https://en.wikipedia.org/wiki/Talk:Dinotrux">Talk:Dinotrux - Wikipedia</a></li>
 <li> 08:58 <a href="https://en.wikipedia.org/wiki/Dinotrux?action=edit&amp;veswitched=1">Editing Dinotrux - Wikipedia</a></li>
@@ -50182,7 +50203,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 16:44 <a href="https://www.theguardian.com/world/2025/nov/03/israels-top-military-lawyer-arrested-after-she-admitted-leaking-video-of-soldiers-abuse">Israel’s top military lawyer arrested after she admitted leaking video of soldiers’ abuse | Israel | The Guardian</a></li>
-<li> 16:43 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 16:43 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 16:43 www.google.com</li>
 <li class='same'> 16:22 www.google.com</li>
 <li> 16:00 mail.google.com</li>
@@ -51111,7 +51132,7 @@ With number of accesses/minutes in parentheses
 <li> 11:22 calendar.google.com</li>
 <li> 11:22 mail.google.com</li>
 <li> 11:20 www.bbc.com</li>
-<li> 11:20 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 11:20 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 11:20 www.bbc.com</li>
 <li> 11:19 <a href="https://joereddington.com/2018/06/28/Saving-Keystokes,-Baby-Advice.html">Saving Keystokes, Baby Advice | Joe Reddington</a></li>
 <li> 11:18 outlook.office.com</li>
@@ -51119,7 +51140,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 11:07 outlook.office.com</li>
 <li class='same'> 11:05 outlook.office.com</li>
 <li class='same'> 10:57 outlook.office.com</li>
-<li> 10:48 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 10:48 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 10:47 <a href="https://www.theguardian.com/uk-news/2025/oct/30/the-truth-behind-the-disappearance-of-charlene-downes-she-was-reduced-to-this-salacious-shocking-story">University finances and the elephant in the senior common room | Universities | The Guardian</a></li>
 <li> 10:47 <a href="https://www.theguardian.com/education/2025/oct/29/university-finances-and-the-elephant-in-the-senior-common-room">The truth behind the disappearance of Charlene Downes: ‘She was reduced to this salacious, shocking story’ | Crime | The Guardian</a></li>
 <li> 10:41 <a href="https://www.theguardian.com/uk-news/2025/oct/30/the-truth-behind-the-disappearance-of-charlene-downes-she-was-reduced-to-this-salacious-shocking-story">University finances and the elephant in the senior common room | Universities | The Guardian</a></li>
@@ -51796,7 +51817,7 @@ With number of accesses/minutes in parentheses
 <li> 12:37 feedly.com</li>
 <li> 12:37 www.google.com</li>
 <li> 12:36 feedly.com</li>
-<li> 12:36 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 12:36 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 12:36 www.giantitp.com</li>
 <li> 12:35 www.google.com</li>
 <li> 12:35 duckduckgo.com</li>
@@ -57502,7 +57523,7 @@ With number of accesses/minutes in parentheses
 <li> 11:40 <a href="http://xkcd.com/534/"></a></li>
 <li> 11:40 <a href="https://xkcd.com/3144/">xkcd: Phase Changes</a></li>
 <li> 11:40 <a href="https://xkcd.com/3145/">xkcd: Piercing</a></li>
-<li> 11:40 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 11:40 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 11:40 www.linkedin.com</li>
 <li> 11:40 feedly.com</li>
 <li> 11:39 i.ibb.co</li>
@@ -57965,7 +57986,7 @@ With number of accesses/minutes in parentheses
 <li> 12:03 www.linkedin.com</li>
 <li> 12:01 www.reddit.com</li>
 <li> 12:00 <a href="https://xkcd.com/3144/">xkcd: Phase Changes</a></li>
-<li> 12:00 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 12:00 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 12:00 www.linkedin.com</li>
 <li> 11:58 feedly.com</li>
 </ul>
@@ -62202,7 +62223,7 @@ With number of accesses/minutes in parentheses
 <li> 17:26 c.xkcd.com</li>
 <li> 17:26 <a href="http://xkcd.com/3004/"></a></li>
 <li> 17:25 herts.instructure.com</li>
-<li> 17:25 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 17:25 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 17:20 fritz.box</li>
 <li> 17:20 detectportal.firefox.com</li>
 <li> 17:19 fritz.box</li>
@@ -63593,7 +63614,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li class='same'> 16:03 <a href="https://www.theguardian.com/commentisfree/2025/aug/25/trump-staff-incompetent-sycophants">Why Trump built a staff of incompetent sycophants | Robert Reich | The Guardian</a></li>
 <li> 16:02 <a href="https://www.theguardian.com/culture/ng-interactive/2025/aug/25/best-films-of-autumn-2025-spinal-tap-julia-roberts-paul-thomas-anderson">Spinal Tap II, Julia Roberts and Paul Thomas Anderson: the best films of autumn 2025 | Autumn arts preview 2025 | The Guardian</a></li>
-<li> 15:55 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 15:55 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 15:55 feedly.com</li>
 <li> 15:42 www.linkedin.com</li>
 <li> 15:30 www.reddit.com</li>
@@ -66334,7 +66355,7 @@ With number of accesses/minutes in parentheses
 
 <ul><li> 09:09 studylink.com</li>
 <li> 09:07 www.foxnews.com</li>
-<li> 09:06 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 09:06 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 09:05 mail.google.com</li>
 <li class='same'> 09:02 mail.google.com</li>
 <li> 09:02 gmail.com</li>
@@ -71990,7 +72011,7 @@ With number of accesses/minutes in parentheses
 <li> 22:08 <a href="https://xkcd.com/1713/">xkcd: 50 ccs</a></li>
 <li> 22:08 c.xkcd.com</li>
 <li> 22:08 <a href="http://xkcd.com/1713/"></a></li>
-<li> 22:08 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 22:08 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 22:08 feedly.com</li>
 <li> 22:08 www.linkedin.com</li>
 <li class='same'> 22:07 www.linkedin.com</li>
@@ -72740,7 +72761,7 @@ With number of accesses/minutes in parentheses
 <li> 14:25 <a href="https://xkcd.com/1133/">xkcd: Up Goer Five</a></li>
 <li> 14:24 <a href="https://xkcd.com/thing-explainer/">Thing Explainer: Complicated Stuff in Simple Words</a></li>
 <li> 14:24 <a href="https://xkcd.com/books/">books by Randall Munroe</a></li>
-<li> 14:24 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 14:24 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 14:21 <a href="https://xkcd.com/simplewriter/"></a></li>
 <li> 14:18 herts.instructure.com</li>
 <li class='same'> 14:17 herts.instructure.com</li>
@@ -74794,7 +74815,7 @@ With number of accesses/minutes in parentheses
 <li> 21:45 <a href="https://xkcd.com/313/">xkcd: Insomnia</a></li>
 <li> 21:45 c.xkcd.com</li>
 <li> 21:45 <a href="http://xkcd.com/313/"></a></li>
-<li> 21:45 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 21:45 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 21:44 www.giantitp.com</li>
 <li> 21:41 www.reddit.com</li>
 <li class='same'> 21:40 www.reddit.com</li>
@@ -78908,7 +78929,7 @@ With number of accesses/minutes in parentheses
 <li> 06:31 <a href="https://xkcd.com/3095/">xkcd: Archaea</a></li>
 <li> 06:31 <a href="https://xkcd.com/3096/">xkcd: Check Engine</a></li>
 <li> 06:31 <a href="https://xkcd.com/3097/">xkcd: Bridge Types</a></li>
-<li> 06:30 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 06:30 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 06:30 www.giantitp.com</li>
 <li> 06:20 feedly.com</li>
 <li> 06:19 <a href="https://www.theguardian.com/commentisfree/2025/jun/04/ive-learned-a-new-word-and-now-im-seeing-the-people-it-describes-everywhere">I’ve learned a new word – and now I’m seeing the people it describes everywhere | Adrian Chiles | The Guardian</a></li>
@@ -85139,7 +85160,7 @@ With number of accesses/minutes in parentheses
 <li> 16:19 <a href="https://xkcd.com/3081/">xkcd: PhD Timeline</a></li>
 <li> 16:19 <a href="https://xkcd.com/3082/">xkcd: Chess Position</a></li>
 <li> 16:19 <a href="https://xkcd.com/3083/">xkcd: Jupiter Core</a></li>
-<li> 16:19 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 16:19 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 16:17 <a href="https://www.theguardian.com/film/2025/may/05/fears-trump-foreign-film-tariffs-wipe-out-uk-movie-industry">Fears Trump’s foreign film tariffs could ‘wipe out’ UK movie industry | Film industry | The Guardian</a></li>
 <li> 16:16 liloandstitch.fandom.com</li>
 <li class='same'> 16:14 liloandstitch.fandom.com</li>
@@ -89584,7 +89605,7 @@ With number of accesses/minutes in parentheses
 <li> 07:27 <a href="https://xkcd.com/518/">xkcd: Flow Charts</a></li>
 <li> 07:26 <a href="https://xkcd.com/3072/">xkcd: Stargazing 4</a></li>
 <li> 07:26 <a href="https://xkcd.com/3071/">xkcd: Decay Chain</a></li>
-<li> 07:26 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 07:26 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 07:23 www.theguardian.com</li>
 <li class='same'> 07:22 www.theguardian.com</li>
 <li class='same'> 07:20 www.theguardian.com</li>
@@ -95563,7 +95584,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 15:03 outlook.office.com</li>
 <li class='same'> 15:02 outlook.office.com</li>
 <li> 14:53 <a href="https://xkcd.com/simplewriter/"></a></li>
-<li> 14:53 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 14:53 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 14:42 <a href="https://en.wikipedia.org/wiki/Ashley_Madison_data_breach">Ashley Madison data breach - Wikipedia</a></li>
 <li> 14:42 duckduckgo.com</li>
 <li> 14:19 moodle.royalholloway.ac.uk</li>
@@ -103199,7 +103220,7 @@ With number of accesses/minutes in parentheses
 <li> 14:41 <a href="https://xkcd.com/3041/">xkcd: Unit Circle</a></li>
 <li> 14:41 <a href="https://xkcd.com/3042/">xkcd: T. Rex Evolution</a></li>
 <li> 14:41 <a href="https://xkcd.com/3043/">xkcd: Muons</a></li>
-<li> 14:41 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 14:41 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 14:40 www.reddit.com</li>
 <li> 14:39 mail.google.com</li>
 <li> 14:39 outlook.office.com</li>
@@ -110257,7 +110278,7 @@ With number of accesses/minutes in parentheses
 <br>
 
 <ul><li> 19:51 bsky.app</li>
-<li> 19:50 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 19:50 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 19:49 docs.google.com</li>
 <li class='same'> 19:48 docs.google.com</li>
 <li class='same'> 19:47 docs.google.com</li>
@@ -111316,7 +111337,7 @@ With number of accesses/minutes in parentheses
 <li> 06:37 bsky.app</li>
 <li class='same'> 06:35 bsky.app</li>
 <li class='same'> 06:34 bsky.app</li>
-<li> 06:33 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 06:33 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 06:33 www.giantitp.com</li>
 <li> 06:33 www.linkedin.com</li>
 <li class='same'> 06:32 www.linkedin.com</li>
@@ -111460,7 +111481,7 @@ With number of accesses/minutes in parentheses
 <li> 15:03 <a href="https://xkcd.com/3027/">xkcd: Exclusion Principle</a></li>
 <li> 15:03 <a href="https://xkcd.com/3028/">xkcd: D Roll</a></li>
 <li> 15:02 <a href="https://xkcd.com/3029/">xkcd: Sun Avoidance</a></li>
-<li> 15:02 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 15:02 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 15:02 www.giantitp.com</li>
 <li> 15:01 www.ebay.co.uk</li>
 <li> 15:00 bsky.app</li>
@@ -112548,7 +112569,7 @@ With number of accesses/minutes in parentheses
 <li> 14:17 <a href="https://xkcd.com/3023/">xkcd: The Maritime Approximation</a></li>
 <li> 14:17 <a href="https://xkcd.com/3024/">xkcd: METAR</a></li>
 <li> 14:16 <a href="https://xkcd.com/3025/">xkcd: Phase Change</a></li>
-<li> 14:16 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 14:16 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 14:14 www.giantitp.com</li>
 <li> 14:14 outlook.office365.com</li>
 <li> 14:14 <a href="https://joereddington.com/2024/11/12/q-and-a-lectures.html">Q and A Lectures | Joe Reddington</a></li>
@@ -113265,7 +113286,7 @@ With number of accesses/minutes in parentheses
 <li> 13:40 <a href="https://xkcd.com/3021/">xkcd: Seismologists</a></li>
 <li> 13:39 <a href="https://xkcd.com/3022/">xkcd: Making Tea</a></li>
 <li> 13:39 <a href="https://xkcd.com/3023/">xkcd: The Maritime Approximation</a></li>
-<li> 13:39 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 13:39 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 13:39 www.giantitp.com</li>
 <li> 13:37 bsky.app</li>
 <li class='same'> 13:36 bsky.app</li>
@@ -114939,7 +114960,7 @@ With number of accesses/minutes in parentheses
 <li class='same'> 09:02 www.explainxkcd.com</li>
 <li> 09:01 <a href="https://xkcd.com/3019/">xkcd: Advent Calendar Advent Calendar</a></li>
 <li> 09:01 <a href="https://xkcd.com/3020/">xkcd: Infinite Armada Chess</a></li>
-<li> 09:01 <a href="https://xkcd.com/">xkcd: Planetary Science</a></li>
+<li> 09:01 <a href="https://xkcd.com/">xkcd: Stargazing 5</a></li>
 <li> 09:01 www.giantitp.com</li>
 <li> 09:01 www.linkedin.com</li>
 <li class='same'> 09:00 www.linkedin.com</li>
@@ -124311,42 +124332,4 @@ With number of accesses/minutes in parentheses
 <li> 12:17 ico.org.uk</li>
 <li> 12:17 eur03.safelinks.protection.outlook.com</li>
 <li> 12:17 outlook.office365.com</li>
-<li class='same'> 12:16 outlook.office365.com</li>
-<li> 12:16 mail.rhul.ac.uk</li>
-</ul>
-
-<br>
-
-<ul><li> 09:25 outlook.office365.com</li>
-<li> 09:17 www.theguardian.com</li>
-<li> 09:15 www.google.com</li>
-<li> 09:08 outlook.office365.com</li>
-<li> 09:06 claude.ai</li>
-<li> 09:04 outlook.office365.com</li>
-<li class='same'> 09:03 outlook.office365.com</li>
-<li class='same'> 09:02 outlook.office365.com</li>
-<li class='same'> 08:53 outlook.office365.com</li>
-<li> 08:27 www.reddit.com</li>
-<li class='same'> 08:22 www.reddit.com</li>
-<li> 08:22 www.google.com</li>
-</ul>
-
-<br>
-
-<ul><li> 07:19 <a href="https://www.youtube.com/watch?v=eeRUMuV0nxg">(68) Security Investment Models: Gordon-Loeb - YouTube</a></li>
-<li> 07:18 <a href="https://www.youtube.com/results?search_query=Gordon%E2%80%93Loeb+model">(68) Gordon–Loeb model - YouTube</a></li>
-<li> 07:18 <a href="https://www.youtube.com/">YouTube</a></li>
-<li> 07:18 <a href="https://www.youtube.com/?themeRefresh=1">YouTube</a></li>
-<li> 07:18 <a href="https://www.youtube.com/">YouTube</a></li>
-<li> 07:18 tops.acm.org</li>
-<li> 07:18 dl.acm.org</li>
-<li> 07:18 tissec.acm.org</li>
-<li> 07:18 tops.acm.org</li>
-<li> 07:18 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model#cite_note-GordonLoeb-1">Gordon–Loeb model - Wikipedia</a></li>
-<li> 07:18 <a href="https://en.wikipedia.org/wiki/Gordon-Loeb_Model">Gordon–Loeb model - Wikipedia</a></li>
-<li> 07:18 <a href="https://en.wikipedia.org/wiki/Gordon%E2%80%93Loeb_model">Gordon–Loeb model - Wikipedia</a></li>
-<li> 07:18 <a href="https://en.wikipedia.org/wiki/Information_security#Threats">Information security - Wikipedia</a></li>
-<li> 07:17 <a href="https://en.wikipedia.org/w/index.php?title=Information_security&amp;action=edit&amp;section=3">Editing Information security (section) - Wikipedia</a></li>
-<li> 07:17 <a href="https://en.wikipedia.org/wiki/Security_hacker">Security hacker - Wikipedia</a></li>
-<li> 07:16 <a href="https://en.wikipedia.org/wiki/Black_hat_(computer_security)">Black hat (computer security) - Wikipedia</a></li>
 </ul>
